@@ -24,13 +24,13 @@ Représentants titulaires :
 
 Représentants suppléants :
 
-- L'adjoint aux directeurs, direction générale de l'urbanisme, de l'habitat et de la construction  ;
+- L'adjoint aux directeurs, direction générale de l'urbanisme, de l'habitat et de la construction ;
 
 - le chef du service du personnel, adjoint à la directrice générale du personnel et de l'administration ;
 
 - l'adjoint au directeur de la sécurité et de la circulation routières ;
 
-- la directrice du service de l'information et de la communication  ;
+- La chef de service de l'information et de la communication ;
 
 - le chef du service du personnel et de l'administration, secrétariat général ;
 
