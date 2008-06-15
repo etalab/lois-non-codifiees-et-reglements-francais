@@ -28,7 +28,7 @@
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="left">Agence de maîtrise d'ouvrage des travaux du ministère de la justice</p>
+<p align="left">Agence de maîtrise d'ouvrage des travaux du ministère de la justice.</p>
 </td>
 <td align="left" valign="middle">
 <p align="left">Emplois de catégorie A nécessaires au montage, à la conduite, à l'expertise juridique et à l'audit des projets immobiliers. </p>
@@ -149,7 +149,7 @@
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="left">Office national de l'eau et des milieux aquatiques</p>
+<p align="left">Office national de l'eau et des milieux aquatiques.</p>
 </td>
 <td align="left" valign="middle">
 <p align="left">Emplois de catégorie A, B et C, à l'exception des agents de catégorie B et C chargés de la surveillance des milieux aquatiques.</p>
@@ -361,10 +361,10 @@
 </tr>
 <tr>
 <td>
-<p align="left">Agence nationale des titres sécurisés</p>
+<p align="left">Agence nationale des titres sécurisés </p>
 </td>
 <td>
-<p align="left">Emplois de catégories A et B requérant des compétences spécialisées dans les domaines des technologies et des systèmes d'information indispensables à la conception et à la gestion des titres sécurisés.</p>
+<p align="left">Emplois de catégories A et B requérant des compétences spécialisées dans les domaines des technologies et des systèmes d'information indispensables à la conception et à la gestion des titres sécurisés. Emplois de catégorie C liés à des fonctions de téléopérateur ou d'assistance informatique, technique et administrative au sein du centre d'appels.</p>
 </td>
 </tr>
 <tr>
