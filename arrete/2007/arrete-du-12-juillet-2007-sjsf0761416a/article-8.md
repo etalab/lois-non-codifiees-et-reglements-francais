@@ -1,3 +1,3 @@
 # Article 8
 
-L'arrêté du 23 février 1989 susvisé est abrogé à compter du 1er janvier 2011.
+Les arrêtés du 29 avril 1993 et du 21 octobre 1993 susvisés sont abrogés à compter du 1er janvier 2011.
