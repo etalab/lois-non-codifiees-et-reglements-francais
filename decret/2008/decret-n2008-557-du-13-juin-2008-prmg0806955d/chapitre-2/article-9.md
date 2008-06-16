@@ -1,0 +1,3 @@
+# Article 9
+
+Les chefs de mission des services du Premier ministre régis par le décret n° 2004-540 du 15 juin 2004 et les chefs d'études régis par le décret n° 68-14 du 5 janvier 1968, qui occupent un des emplois figurant sur la liste prévue à l'article 3 du présent décret, sont maintenus dans ces fonctions et détachés pour la durée du détachement restant à courir dans l'emploi de chef de mission des services du Premier ministre créé par le présent décret. Ils sont classés dans cet emploi à l'échelon comportant un indice égal ou à défaut immédiatement supérieur à celui dont ils bénéficiaient précédemment. Les fonctionnaires ainsi classés conservent l'ancienneté d'échelon acquise dans leur précédent emploi selon les règles fixées à l'article 6.

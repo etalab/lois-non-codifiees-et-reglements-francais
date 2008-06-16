@@ -14,6 +14,7 @@
 - [Arrêté du 2 janvier 2008 (SJSP0774819A)](arrete-du-2-janvier-2008-sjsp0774819a)
 - [Arrêté du 2 janvier 2008 (SJSS0800579A)](arrete-du-2-janvier-2008-sjss0800579a)
 - [Arrêté du 2 juillet 2008 (DEVA0813041A)](arrete-du-2-juillet-2008-deva0813041a)
+- [Arrêté du 2 juin 2008 (DEVE0813708A)](arrete-du-2-juin-2008-deve0813708a)
 - [Arrêté du 2 juin 2008 (SJSH0812593A)](arrete-du-2-juin-2008-sjsh0812593a)
 - [Arrêté du 2 mai 2008 (DEVA0811129A)](arrete-du-2-mai-2008-deva0811129a)
 - [Arrêté du 2 mai 2008 (DEVA0811130A)](arrete-du-2-mai-2008-deva0811130a)
