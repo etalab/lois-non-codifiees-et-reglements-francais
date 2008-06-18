@@ -286,6 +286,7 @@
 - [Décret n°2008-52 du 16 janvier 2008 (MLVA0774449D)](decret-n2008-52-du-16-janvier-2008-mlva0774449d)
 - [Décret n°2008-54 du 16 janvier 2008 (JUSD0800616D)](decret-n2008-54-du-16-janvier-2008-jusd0800616d)
 - [Décret n°2008-55 du 16 janvier 2008 (MLVU0754298D)](decret-n2008-55-du-16-janvier-2008-mlvu0754298d)
+- [Décret n°2008-560 du 16 juin 2008 (JUSB0810097D)](decret-n2008-560-du-16-juin-2008-jusb0810097d)
 - [Décret n°2008-459 du 16 mai 2008 (JUSC0804578D)](decret-n2008-459-du-16-mai-2008-jusc0804578d)
 - [Décret n°2007-1776 du 17 décembre 2007 (JUSK0769976D)](decret-n2007-1776-du-17-decembre-2007-jusk0769976d)
 - [Décret n°2007-1777 du 17 décembre 2007 (JUSK0769991D)](decret-n2007-1777-du-17-decembre-2007-jusk0769991d)
