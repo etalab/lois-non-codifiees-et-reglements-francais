@@ -7,6 +7,7 @@
 - [Article 6 quinquiès](article-6-quinquies.md)
 - [Article 6 sexies](article-6-sexies.md)
 - [Article 7](article-7.md)
+- [Article 7 bis](article-7-bis.md)
 - [Article 8](article-8.md)
 - [Article 9](article-9.md)
 - [Article 9 bis](article-9-bis.md)

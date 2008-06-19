@@ -6,6 +6,7 @@
 - [Chapitre II : Dispositions générales](chapitre-ii)
 - [Article 3](article-3.md)
 - [Chapitre III : Dispositions spécifiques aux mesures d'exécution forcée](chapitre-iii)
+- [Article 3-1](article-3-1.md)
 - [Article 4](article-4.md)
 - [Chapitre IV : Dispositions spécifiques aux mesures conservatoires](chapitre-iv)
 - [Chapitre V : Dispositions diverses et transitoires.](chapitre-v)
