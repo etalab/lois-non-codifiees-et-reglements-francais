@@ -979,7 +979,6 @@
 - [Arrêté du 25 juillet 2007 (BCFJ0761655A)](arrete-du-25-juillet-2007-bcfj0761655a)
 - [Arrêté du 25 juillet 2007 (DEVO0761452A)](arrete-du-25-juillet-2007-devo0761452a)
 - [Arrêté du 25 juillet 2007 (JUSD0761716A)](arrete-du-25-juillet-2007-jusd0761716a)
-- [Arrêté du 25 juin 2007 (BCFD0755831A)](arrete-du-25-juin-2007-bcfd0755831a)
 - [Arrêté du 25 juin 2007 (SJSF0758677A)](arrete-du-25-juin-2007-sjsf0758677a)
 - [Arrêté du 25 mars 2007 (MENE0700092A)](arrete-du-25-mars-2007-mene0700092a)
 - [Arrêté du 25 mars 2007 (SANH0721334A)](arrete-du-25-mars-2007-sanh0721334a)
