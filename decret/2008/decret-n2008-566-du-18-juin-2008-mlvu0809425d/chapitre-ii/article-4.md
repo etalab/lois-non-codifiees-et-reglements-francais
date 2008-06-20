@@ -1,0 +1,3 @@
+# Article 4
+
+Les dispositions de la section 1 du chapitre Ier du titre II du livre IV du code de la construction et de l'habitation (partie réglementaire) relatives à la nomination, la rémunération et la cessation de fonctions des directeurs généraux des offices publics d'aménagement et de construction, dans leur rédaction en vigueur avant la date d'entrée en vigueur du présent décret, sont applicables, jusqu'à l'entrée en vigueur des dispositions qui seront prises en application de l'article L. 421-12 du code de la construction et de l'habitation, aux contrats et à la cessation de fonctions des directeurs généraux d'offices publics de l'habitat issus de la transformation d'offices publics d'aménagement et de construction.
