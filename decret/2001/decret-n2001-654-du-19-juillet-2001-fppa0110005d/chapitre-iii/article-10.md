@@ -18,7 +18,7 @@ Aucune condition de durée n'est exigée lorsque le changement de résidence est
 
 4° A une affectation sans changement de grade, à l'issue de l'un des détachements prévus au 12° de l'article 2 du décret du 13 janvier 1986 susvisé pour l'accomplissement d'une période de scolarité, lorsqu'elle est prononcée sur demande dans une résidence différente de la résidence antérieure au détachement ;
 
-5° A une mise à disposition prononcée dans le cadre des dispositions prévues au 1° de l'article 2 du décret du 8 octobre 1985 susvisé ;
+5° A une mise à disposition prononcée dans le cadre des dispositions prévues par le décret n° 2008-580 du 18 juin 2008 ;
 
 6° A la cessation de la mise à disposition visée au 5° du présent article ;
 
@@ -30,7 +30,7 @@ Aucune condition de durée n'est exigée lorsque le changement de résidence est
 
 10° A une réintégration, à l'expiration d'une disponibilité accordée dans le cadre des dispositions prévues aux b et c de l'article 24 du décret du 13 janvier 1986 susvisé, dans une résidence différente de la résidence antérieure à la disponibilité ;
 
-11°   A une réintégration, à l'issue d'un congé de longue durée ou de longue maladie, lorsque, pour des motifs autres que son état de santé, l'agent demande à être affecté, lors de sa reprise de fonctions, dans une résidence différente de la résidence antérieure au congé ;
+11° A une réintégration, à l'issue d'un congé de longue durée ou de longue maladie, lorsque, pour des motifs autres que son état de santé, l'agent demande à être affecté, lors de sa reprise de fonctions, dans une résidence différente de la résidence antérieure au congé ;
 
 12° A une affectation, à l'issue d'un congé de formation mentionné au 7° de l'article 9 du présent décret, lorsque l'agent demande à être affecté, lors de sa reprise de fonctions, dans une résidence différente de la résidence antérieure au congé.
 

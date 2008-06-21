@@ -1,5 +1,0 @@
-# Article 10
-
-Un rapport sur la manière de servir du fonctionnaire mis à disposition est établi par son supérieur hiérarchique au sein de l'administration d'accueil ou par le responsable de l'organisme d'accueil sous l'autorité directe duquel il est placé. Ce rapport est transmis à l'administration d'origine qui établit la notation.
-
-Lorsque le fonctionnaire est mis à disposition d'une collectivité territoriale ou d'un établissement mentionné au premier alinéa de l'article 2 de la loi du 26 janvier 1984 précitée, [*communes, départements, régions, leurs établissements publics, offices publics d'HLM, caisses de crédit municipal*] son supérieur hiérarchique au sein de l'administration d'accueil assortit son rapport d'une proposition de notation. En cas de pluralité des collectivités territoriales ou établissements d'accueil, chaque administration d'accueil assortit le rapport précité d'une proposition de notation et l'administration d'origine établit la notation en prenant en compte l'ensemble des informations ainsi communiquées. "

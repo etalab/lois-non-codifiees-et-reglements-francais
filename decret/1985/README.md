@@ -31,7 +31,6 @@
 - [Décret n°84-1094 du 7 décembre 1984](decret-n84-1094-du-7-decembre-1984)
 - [Décret n°85-1073 du 7 octobre 1985](decret-n85-1073-du-7-octobre-1985)
 - [Décret n°85-28 du 7 janvier 1985](decret-n85-28-du-7-janvier-1985)
-- [Décret n°85-1081 du 8 octobre 1985](decret-n85-1081-du-8-octobre-1985)
 - [Décret n°85-684 du 8 juillet 1985](decret-n85-684-du-8-juillet-1985)
 - [Décret n°85-844 du 8 août 1985](decret-n85-844-du-8-aout-1985)
 - [Décret n°85-862 du 8 août 1985](decret-n85-862-du-8-aout-1985)
