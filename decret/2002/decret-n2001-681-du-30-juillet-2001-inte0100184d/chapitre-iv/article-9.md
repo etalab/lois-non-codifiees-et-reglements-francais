@@ -1,3 +1,7 @@
 # Article 9
 
-Les majors sont classés lors de leur nomination dans leur grade au 1er échelon, sous réserve des dispositions du chapitre Ier du décret n° 2002-870 du 3 mai 2002 fixant les dispositions statutaires communes applicables aux cadres d'emplois des fonctionnaires de la catégorie B de la fonction publique territoriale.
+Les majors sont classés lors de leur nomination dans leur grade à l'échelon qui comporte un traitement égal ou, à défaut, immédiatement supérieur au traitement perçu en dernier lieu dans le grade d'adjudant.
+
+Dans la limite de l'ancienneté maximale exigée pour une promotion à l'échelon supérieur, ils conservent l'ancienneté d'échelon qu'ils avaient acquise dans le grade d'adjudant lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle qui aurait résulté d'un avancement d'échelon dans leur ancienne situation.
+
+Les adjudants nommés alors qu'ils ont atteint le dernier échelon de leur grade d'origine conservent leur ancienneté d'échelon dans les mêmes limites lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle qui aurait résulté de leur promotion à ce dernier échelon.

@@ -7,3 +7,5 @@ Peuvent être nommés commandants au choix, par voie d'inscription sur un tablea
 2° Soit de dix ans de services effectifs dans leur grade et qui ont acquis à cette date les unités de valeur définies par arrêté du ministre de l'intérieur.
 
 Les nominations au titre du 2° ne peuvent intervenir qu'à raison d'une pour 5 nominations prononcées au titre du 1°.
+
+L'arrêté prévu au 1° détermine les conditions dans lesquelles les épreuves de l'examen professionnel peuvent tenir compte des diplômes acquis par les candidats en relation avec les fonctions et emplois auxquels destine cet examen.

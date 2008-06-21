@@ -2,7 +2,7 @@
 
 La hiérarchie des sapeurs-pompiers volontaires comprend :
 
-1° Les sapeurs-pompiers de 2e classe et de 1re classe ;
+1° Les sapeurs ;
 
 2° Les caporaux ;
 
