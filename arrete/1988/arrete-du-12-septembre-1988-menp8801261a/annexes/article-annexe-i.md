@@ -4,7 +4,7 @@
 
 Section philosophie
 
-A. - Epreuves écrites d'admissibilité
+A.-Epreuves écrites d'admissibilité
 
 1° Composition de philosophie sans programme (durée : sept heures ; coefficient 2).
 
@@ -12,21 +12,21 @@ A. - Epreuves écrites d'admissibilité
 
 3° Epreuve d'histoire de la philosophie : commentaire d'un texte extrait de l'œuvre d'un auteur (antique ou médiéval, moderne, contemporain) figurant dans un programme établi pour l'année et comportant deux auteurs, appartenant chacun à une période différente (durée : six heures ; coefficient 2).
 
-B. - Epreuves orales d'admission
+B.-Epreuves orales d'admission
 
-1° Leçon de philosophie sur un sujet se rapportant, selon un programme établi pour l'année, à l'un des domaines suivants : la métaphysique, la morale, la politique, la logique et l'épistémologie, l'esthétique, les sciences humaines (durée de la préparation : cinq heures ; durée de l'épreuve : quarante minutes ; coefficient 1,5).
+1° Leçon de philosophie sur un sujet se rapportant, selon un programme établi pour l'année, à l'un des domaines suivants : la métaphysique, la morale, la politique, la logique et l'épistémologie, l'esthétique, les sciences humaines (durée de la préparation : cinq heures ; durée de l'épreuve : quarante minutes ; coefficient 1, 5).
 
 Pour la préparation de la leçon, aucun ouvrage ou document n'est mis à la disposition des candidats.
 
-2° Leçon de philosophie sur un sujet se rapportant à la métaphysique, la morale, la politique, la logique et l'épistémologie, l'esthétique, les sciences humaines, à l'exception du domaine inscrit au programme de la première épreuve d'admission (durée de la préparation : cinq heures ; durée de l'épreuve : quarante minutes ; coefficient 1,5).
+2° Leçon de philosophie sur un sujet se rapportant à la métaphysique, la morale, la politique, la logique et l'épistémologie, l'esthétique, les sciences humaines, à l'exception du domaine inscrit au programme de la première épreuve d'admission (durée de la préparation : cinq heures ; durée de l'épreuve : quarante minutes ; coefficient 1, 5).
 
 Pour la préparation de la leçon, les ouvrages et documents demandés par les candidats seront, dans la mesure du possible, mis à leur disposition. Sont exclues de la consultation les encyclopédies et anthologies thématiques.
 
-3° Explication d'un texte français ou en français ou traduit en français extrait de l'un des deux ouvrages inscrits au programme (durée de la préparation : une heure trente ; durée de l'épreuve : trente minutes ; coefficient 1,5).
+3° Explication d'un texte français ou en français ou traduit en français extrait de l'un des deux ouvrages inscrits au programme (durée de la préparation : une heure trente ; durée de l'épreuve : trente minutes ; coefficient 1, 5).
 
-Le programme est renouvelé chaque année. L'un des deux ouvrages est obligatoirement choisi dans la période pour laquelle aucun auteur n'est inscrit au programme de la troisième épreuve d'admissibilité.
+Le programme est renouvelé chaque année.L'un des deux ouvrages est obligatoirement choisi dans la période pour laquelle aucun auteur n'est inscrit au programme de la troisième épreuve d'admissibilité.
 
-4° Traduction et explication d'un texte grec ou latin ou allemand ou anglais ou arabe ou italien extrait de l'ouvrage inscrit au programme (durée de la préparation : une heure trente ; durée de l'épreuve : trente minutes ; coefficient 1,5). Le programme est renouvelé chaque année.
+4° Traduction et explication d'un texte grec ou latin ou allemand ou anglais ou arabe ou italien extrait de l'ouvrage inscrit au programme (durée de la préparation : une heure trente ; durée de l'épreuve : trente minutes ; coefficient 1, 5). Le programme est renouvelé chaque année.
 
 Un dictionnaire sera mis par le jury à la disposition des candidats (bilingue pour le latin et le grec, unilingue pour l'anglais, l'allemand, l'arabe et l'italien).
 
@@ -38,7 +38,7 @@ Les programmes du concours font l'objet d'une publication au Bulletin officiel d
 
 Section lettres classiques
 
-A. - Epreuves écrites d'admissibilité
+A.-Epreuves écrites d'admissibilité
 
 1° Thème latin (durée : quatre heures ; coefficient 6).
 
@@ -50,7 +50,7 @@ A. - Epreuves écrites d'admissibilité
 
 5° Dissertation française sur un sujet se rapportant à un programme d'œuvres (durée : sept heures ; coefficient 16).
 
-B. - Epreuves orales d'admission
+B.-Epreuves orales d'admission
 
 1° Leçon portant sur les œuvres inscrites au programme, suivie d'un entretien avec le jury.
 
@@ -102,7 +102,7 @@ Le programme des œuvres est publié chaque année au Bulletin officiel de l'Edu
 
 Section lettres modernes
 
-A. - Epreuves écrites d'admissibilité
+A.-Epreuves écrites d'admissibilité
 
 1° Composition française sur un sujet se rapportant à un programme d'œuvres d'auteurs de langue française (durée : sept heures ; coefficient 12).
 
@@ -112,13 +112,13 @@ A. - Epreuves écrites d'admissibilité
 
 4° Composition française sur un sujet se rapportant à l'une des deux questions de littérature générale et comparée au programme (durée : sept heures ; coefficient 10).
 
-5° Version latine (durée : quatre heures ; coefficient 5).
+5° Version latine ou version grecque, au choix du candidat formulé lors de l'inscription au concours (durée : quatre heures ; coefficient 5).
 
 6° Version, au choix du candidat, dans l'une des langues vivantes étrangères suivantes : allemand, anglais, arabe, chinois, espagnol, hébreu, italien, polonais, portugais, roumain, russe, tchèque (durée : quatre heures ; coefficient 5).
 
-L'usage du dictionnaire latin-français est autorisé pour l'épreuve de latin. Pour les langues vivantes, seul est autorisé l'usage du dictionnaire unilingue dans la langue choisie, à l'exception des épreuves d'arabe et d'hébreu pour lesquelles l'usage du dictionnaire bilingue est admis.
+L'usage du dictionnaire latin-français et du dictionnaire grec-français est autorisé respectivement pour la version latine et la version grecque. Pour les langues vivantes, seul est autorisé l'usage du dictionnaire unilingue dans la langue choisie, à l'exception des épreuves d'arabe et d'hébreu pour lesquelles l'usage du dictionnaire bilingue est admis.
 
-B. - Epreuves orales d'admission
+B.-Epreuves orales d'admission
 
 1° Leçon portant sur les œuvres d'auteurs de langue française inscrites au programme (durée de la préparation : six heures ; durée de l'épreuve : quarante minutes ; coefficient 13).
 
@@ -138,7 +138,7 @@ fait l'objet d'une publication au Bulletin officiel de l'Education nationale.
 
 Section géographie
 
-A. - Epreuves écrites d'admissibilité
+A.-Epreuves écrites d'admissibilité
 
 1° Composition : géographie thématique (durée : sept heures ; coefficient 1).
 
@@ -146,7 +146,7 @@ Il s'agit d'une épreuve intégrant des concepts et des savoirs appartenant aux 
 
 Le cas échéant, des documents peuvent être fournis.
 
-La réalisation de carte(s) et/ou de croquis est un élément important d'appréciation.
+La réalisation de carte (s) et / ou de croquis est un élément important d'appréciation.
 
 2° Composition : géographie des territoires (durée : sept heures ; coefficient 1).
 
@@ -154,7 +154,7 @@ Dans cette épreuve, l'accent est mis sur la différenciation spatiale et le jeu
 
 Le cas échéant, des documents peuvent être fournis.
 
-La réalisation de carte(s) et/ou de croquis est un élément important d'appréciation.
+La réalisation de carte (s) et / ou de croquis est un élément important d'appréciation.
 
 3° Epreuve sur dossier : concepts et méthodes de la géographie (durée : sept heures ; coefficient 1).
 
@@ -162,21 +162,21 @@ Cette épreuve est constituée par un travail sur documents, hors programme.
 
 Elle comporte les trois options ci-après correspondant aux trois principales filières de formation suivies par les étudiants en géographie :
 
-- espaces, territoires, sociétés ;
+-espaces, territoires, sociétés ;
 
-- milieux et environnement ;
+-milieux et environnement ;
 
-- aménagement.
+-aménagement.
 
-Les candidats choisissent leur option au moment de l'épreuve, après avoir pris connaissance des sujets. L'épreuve consiste en plusieurs exercices tels que : contrôle de connaissances de base ; analyses, études critiques, interprétation de documents divers ; rédaction de brèves synthèses (une à deux pages) ; production d'une carte ou d'un croquis à partir de documents.
+Les candidats choisissent leur option au moment de l'épreuve, après avoir pris connaissance des sujets.L'épreuve consiste en plusieurs exercices tels que : contrôle de connaissances de base ; analyses, études critiques, interprétation de documents divers ; rédaction de brèves synthèses (une à deux pages) ; production d'une carte ou d'un croquis à partir de documents.
 
 4° Composition d'histoire dans le cadre d'un programme (durée : sept heures ; coefficient 1).
 
-B. - Epreuves orales d'admission
+B.-Epreuves orales d'admission
 
 1° Commentaire de documents géographiques (durée de la préparation : six heures ; durée de l'épreuve : cinquante-cinq minutes maximum exposé : trente minutes maximum ; entretien : vingt-cinq minutes maximum ; coefficient 3).
 
-Les documents géographiques - notamment cartes à différentes échelles, croquis, graphiques, photographies, images satellite, tableaux statistiques, textes - portent sur les questions au programme des deux compositions de l'écrit.
+Les documents géographiques-notamment cartes à différentes échelles, croquis, graphiques, photographies, images satellite, tableaux statistiques, textes-portent sur les questions au programme des deux compositions de l'écrit.
 
 2° Leçon de géographie, hors programme (durée de la préparation : six heures ; durée de l'épreuve : cinquante-cinq minutes maximum exposé : trente minutes maximum ; entretien : vingt-cinq minutes maximum ; coefficient 3).
 
@@ -190,7 +190,7 @@ Section langues vivantes étrangères
 
 ALLEMAND
 
-A. - Epreuves écrites d'admissibilité
+A.-Epreuves écrites d'admissibilité
 
 1° Composition en allemand sur un sujet de littérature allemande ou sur un sujet relatif à la civilisation des pays de langue allemande dans le cadre d'un programme (durée : sept heures ; coefficient 4).
 
@@ -202,7 +202,7 @@ Les textes à traduire sont distribués simultanément aux candidats au début d
 
 3° Composition en français sur un sujet de littérature allemande ou sur un sujet relatif à la civilisation des pays de langue allemande dans le cadre d'un programme (durée : sept heures ; coefficient 4).
 
-B. - Epreuves orales d'admission
+B.-Epreuves orales d'admission
 
 Epreuves hors programme.
 
@@ -212,7 +212,7 @@ Epreuves hors programme.
 
 Epreuves sur programme.
 
-Le programme des troisième et quatrième épreuves orales d'admission comporte une partie commune constituée par le programme des épreuves d'admissibilité. A cette partie commune s'ajoute, pour chaque candidat, le programme correspondant à l'une des trois options suivantes choisie par lui lors de son inscription :
+Le programme des troisième et quatrième épreuves orales d'admission comporte une partie commune constituée par le programme des épreuves d'admissibilité.A cette partie commune s'ajoute, pour chaque candidat, le programme correspondant à l'une des trois options suivantes choisie par lui lors de son inscription :
 
 Option A : littérature ;
 
@@ -224,7 +224,7 @@ L'interrogation dans le cadre des options A : Littérature et B : Civilisation p
 
 L'interrogation dans le cadre de l'option C : Linguistique intervient au cours de l'exposé en français.
 
-3° Exposé en français portant sur un sujet de littérature allemande ou sur un sujet relatif à la civilisation des pays de langue allemande dans le cadre du programme (partie commune ou partie optionnelle) ou sur un sujet de linguistique (programme de l'option C). L'exposé est suivi d'un entretien en français.
+3° Exposé en français portant sur un sujet de littérature allemande ou sur un sujet relatif à la civilisation des pays de langue allemande dans le cadre du programme (partie commune ou partie optionnelle) ou sur un sujet de linguistique (programme de l'option C).L'exposé est suivi d'un entretien en français.
 
 Pendant la préparation, le candidat peut consulter les ouvrages du programme (partie commune et partie optionnelle A et B) qui sont mis à sa disposition par le jury.
 
@@ -232,7 +232,7 @@ Pour l'option C : Linguistique, l'exposé consiste en l'application à un texte 
 
 4° Explication en allemand d'un texte, suivie d'un entretien en allemand.
 
-Le texte est extrait d'un des ouvrages du programme (partie commune ou partie optionnelle)(durée de la préparation : deux heures ; durée de l'épreuve : quarante-cinq minutes maximum [explication : trente minutes maximum ; entretien : quinze minutes maximum] ; coefficient 4).
+Le texte est extrait d'un des ouvrages du programme (partie commune ou partie optionnelle) (durée de la préparation : deux heures ; durée de l'épreuve : quarante-cinq minutes maximum [explication : trente minutes maximum ; entretien : quinze minutes maximum] ; coefficient 4).
 
 La maîtrise de la langue allemande et de la langue française est prise en compte dans la notation des épreuves d'admissibilité et d'admission.
 
@@ -240,7 +240,7 @@ Le programme des épreuves fait l'objet d'une publication au Bulletin officiel d
 
 ANGLAIS
 
-A. - Epreuves écrites d'admissibilité
+A.-Epreuves écrites d'admissibilité
 
 1° Dissertation en français sur un sujet de littérature ou de civilisation dans le cadre d'un programme (durée : sept heures ; coefficient 1).
 
@@ -266,7 +266,7 @@ Les textes à traduire sont distribués simultanément aux candidats, au début 
 
 Les candidats rendent deux copies séparées et chaque traduction entre pour moitié dans la notation (durée totale de l'épreuve : six heures ; coefficient 2).
 
-B. - Epreuves orales d'admission
+B.-Epreuves orales d'admission
 
 1° Epreuve à option en anglais suivie d'un entretien en anglais :
 
@@ -296,7 +296,7 @@ Cet exercice est suivi d'un entretien en français avec le jury (durée de l'ép
 
 Cette épreuve est constituée d'un exposé oral en anglais à partir de documents, suivi d'un entretien en anglais avec le jury.
 
-Le candidat reçoit au moins trois documents qui peuvent être de natures diverses (tels que textes en anglais, documents iconographiques ou audiovisuels en anglais) et permettent de dégager une problématique commune (notamment d'ordre thématique et/ou historique et/ou formel).
+Le candidat reçoit au moins trois documents qui peuvent être de natures diverses (tels que textes en anglais, documents iconographiques ou audiovisuels en anglais) et permettent de dégager une problématique commune (notamment d'ordre thématique et / ou historique et / ou formel).
 
 Il dispose, pendant le temps qui lui est imparti pour la préparation, d'un certain nombre d'ouvrages de natures diverses (notamment dictionnaires et encyclopédies), dont la liste est rendue publique à l'avance.
 
@@ -310,7 +310,7 @@ Les programmes des épreuves ainsi que les indications bibliographiques sont pub
 
 ARABE
 
-A. - Epreuves écrites d'admissibilité
+A.-Epreuves écrites d'admissibilité
 
 1° Dissertation en arabe littéral portant sur le programme (durée : six heures ; coefficient 2).
 
@@ -326,7 +326,7 @@ Les textes à traduire sont distribués simultanément aux candidats au début d
 
 Pour toutes les épreuves, seul l'usage de dictionnaires arabes monolingues est autorisé.
 
-B. - Epreuves orales d'admission
+B.-Epreuves orales d'admission
 
 1° Leçon en arabe littéral portant sur une question du programme (durée de la préparation : cinq heures ; durée de l'épreuve : quarante-cinq minutes maximum ; coefficient 3).
 
@@ -346,7 +346,7 @@ Les programmes font l'objet d'une publication au Bulletin officiel de l'éducati
 
 CHINOIS
 
-A. - Epreuves écrites d'admissibilité
+A.-Epreuves écrites d'admissibilité
 
 1° Dissertation en français portant sur le programme de littérature ou de civilisation (durée de l'épreuve : six heures ; coefficient 1).
 
@@ -354,7 +354,7 @@ A. - Epreuves écrites d'admissibilité
 
 Lorsque la dissertation porte sur un sujet de littérature chinoise, le commentaire porte sur un texte relatif à la civilisation chinoise. Lorsque la dissertation porte sur un sujet de civilisation chinoise, le commentaire porte sur un texte relatif à la littérature chinoise.
 
-3° Epreuve de linguistique en français. Cette épreuve, qui doit être rédigée en français, prend appui sur un texte en langue chinoise. Les questions sont posées en français. L'épreuve est destinée à apprécier les connaissances des candidats dans les trois domaines ci-après et sur les points suivants :
+3° Epreuve de linguistique en français. Cette épreuve, qui doit être rédigée en français, prend appui sur un texte en langue chinoise. Les questions sont posées en français.L'épreuve est destinée à apprécier les connaissances des candidats dans les trois domaines ci-après et sur les points suivants :
 
 a) Syntaxe : le candidat doit répondre à une question générale et à des questions sur des faits de langue ;
 
@@ -374,7 +374,7 @@ Les candidats rendent deux copies séparées et chaque traduction entre pour moi
 
 Les dictionnaires unilingues de langue chinoise (Cidianet Zidian) sont autorisés pour les quatre épreuves d'admissibilité.
 
-B. - Epreuves orales d'admission
+B.-Epreuves orales d'admission
 
 1° Epreuves de synthèse et commentaire de texte en chinois : exposé oral à partir d'un ensemble de textes hors programme, suivi du commentaire d'un des textes et d'un entretien en chinois avec le jury.
 
@@ -408,7 +408,7 @@ Les programmes font l'objet d'une publication au Bulletin officielde l'éducatio
 
 ESPAGNOL
 
-A. - Epreuves écrites d'admissibilité
+A.-Epreuves écrites d'admissibilité
 
 1° Composition en espagnol sur un sujet de littérature espagnole ou sur un sujet relatif à la civilisation des pays de langue espagnole (durée : sept heures ; coefficient 4).
 
@@ -418,7 +418,7 @@ A. - Epreuves écrites d'admissibilité
 
 4° Composition en français sur un sujet de littérature espagnole ou sur un sujet relatif à la civilisation des pays de langue espagnole (durée : sept heures ; coefficient 4).
 
-B. - Epreuves orales d'admission
+B.-Epreuves orales d'admission
 
 1° Explication en langue espagnole d'un texte tiré d'un des auteurs inscrits au programme, suivie d'un entretien en espagnol, et éventuellement, de la traduction d'un passage du texte.
 
@@ -430,13 +430,13 @@ Un dictionnaire espagnol unilingue indiqué par le jury est mis à la dispositio
 
 4° Thème oral suivi d'un entretien en espagnol portant sur le texte (durée de la préparation : quinze minutes ; durée de l'épreuve : quarante-cinq minutes maximum [thème : trente minutes maximum ; entretien : quinze minutes maximum] ; coefficient 4).
 
-5° Explication en français, au choix du candidat, d'un texte portugais, catalan ou latin inscrit au programme. L'explication est suivie d'un entretien en français (durée de la préparation [avec dictionnaire] : une heure ; durée de l'épreuve : quarante-cinq minutes maximum [explication : trente minutes maximum ; entretien : quinze minutes maximum] ; coefficient 2).
+5° Explication en français, au choix du candidat, d'un texte portugais, catalan ou latin inscrit au programme.L'explication est suivie d'un entretien en français (durée de la préparation [avec dictionnaire] : une heure ; durée de l'épreuve : quarante-cinq minutes maximum [explication : trente minutes maximum ; entretien : quinze minutes maximum] ; coefficient 2).
 
 La maîtrise de la langue espagnole et de la langue française est prise en compte dans la notation des épreuves d'admissibilité et d'admission.
 
 HEBREU
 
-A. - Epreuves écrites d'admissibilité
+A.-Epreuves écrites d'admissibilité
 
 1° Dissertation en hébreu sur une question se rapportant au programme (durée : six heures ; coefficient 2).
 
@@ -460,13 +460,13 @@ Cette épreuve est constituée d'un thème et d'une version.
 
 Les textes à traduire sont distribués simultanément aux candidats au début de l'épreuve. Ceux-ci consacrent à chacun des deux traductions le temps qui leur convient, dans les limites de l'horaire imparti à l'ensemble de l'épreuve de traduction. Les candidats rendent deux copies séparées et chaque traduction est comptabilisée pour moitié dans la notation (durée totale de l'épreuve : six heures ; coefficient 2).
 
-B. - Epreuves orales d'admission
+B.-Epreuves orales d'admission
 
 1° Leçon en hébreu sur une question se rapportant au programme, suivie d'un entretien en hébreu avec le jury (durée de la préparation : quatre heures ; durée de l'épreuve : une heure maximum [exposé : trente minutes maximum ; entretien : trente minutes maximum] ; coefficient 3).
 
 2° Epreuve hors programme :
 
-Exposé oral en hébreu à partir de documents, hors programme, suivi d'un entretien en hébreu avec le jury. Dans son exposé, le candidat propose une lecture et un commentaire des documents qui lui ont été remis, mettant en évidence ce qui les relie et les éclaire mutuellement. L'exposé et l'entretien avec le jury doivent permettre d'évaluer les qualités d'analyse, d'argumentation, de synthèse et d'expression du candidat (durée de la préparation : trois heures ; durée de l'épreuve : une heure maximum [exposé : trente minutes maximum ; entretien : trente minutes maximum] ; coefficient 3).
+Exposé oral en hébreu à partir de documents, hors programme, suivi d'un entretien en hébreu avec le jury. Dans son exposé, le candidat propose une lecture et un commentaire des documents qui lui ont été remis, mettant en évidence ce qui les relie et les éclaire mutuellement.L'exposé et l'entretien avec le jury doivent permettre d'évaluer les qualités d'analyse, d'argumentation, de synthèse et d'expression du candidat (durée de la préparation : trois heures ; durée de l'épreuve : une heure maximum [exposé : trente minutes maximum ; entretien : trente minutes maximum] ; coefficient 3).
 
 3° Traduction et commentaire littéraire et linguistique en français de deux textes, l'un d'hébreu classique (Bible), l'autre d'araméen biblique ou talmudique.
 
@@ -478,7 +478,7 @@ Le programme des épreuves du concours fait l'objet d'une publication au Bulleti
 
 ITALIEN
 
-A. - Epreuves écrites d'admissibilité
+A.-Epreuves écrites d'admissibilité
 
 1° Composition en langue italienne sur un sujet de littérature italienne ou sur un sujet relatif à la civilisation italienne dans le cadre d'un programme (durée : sept heures ; coefficient 4).
 
@@ -492,7 +492,7 @@ Les textes à traduire sont distribués simultanément aux candidats au début d
 
 La maîtrise de la langue italienne et de la langue française est prise en compte dans la notation des épreuves d'admissibilité.
 
-B. - Epreuves orales d'admission
+B.-Epreuves orales d'admission
 
 1° Leçon en langue italienne sur une question se rapportant au programme (durée de la préparation : cinq heures ; durée de la leçon : quarante-cinq maximum ; coefficient 6).
 
@@ -500,9 +500,9 @@ Un dictionnaire en langue italienne, indiqué par le jury, est mis à la disposi
 
 2° Explication en langue française d'un texte italien du Moyen Age ou de la Renaissance, inscrit au programme, complétée par :
 
-- la traduction de tout ou partie du texte et une interrogation de linguistique historique sur ce même texte
+-la traduction de tout ou partie du texte et une interrogation de linguistique historique sur ce même texte
 
-- la traduction en français d'un texte latin inscrit au programme, suivie d'un bref commentaire grammatical laissé au choix du candidat et portant sur ce même texte (durée de la préparation : une heure et demie ; durée de l'épreuve : quarante-cinq minutes maximum ; coefficient 4).
+-la traduction en français d'un texte latin inscrit au programme, suivie d'un bref commentaire grammatical laissé au choix du candidat et portant sur ce même texte (durée de la préparation : une heure et demie ; durée de l'épreuve : quarante-cinq minutes maximum ; coefficient 4).
 
 Un dictionnaire en langue italienne et un dictionnaire latin-français, indiqués par le jury, sont mis à la disposition du candidat.
 
@@ -520,7 +520,7 @@ Le programme du concours fait l'objet d'une publication annuelle au Bulletin off
 
 LANGUE ET CULTURE JAPONAISE
 
-A. - Epreuves écrites d'admissibilité
+A.-Epreuves écrites d'admissibilité
 
 1° Une dissertation en français portant sur un sujet de littérature dans le cadre d'un programme (durée : sept heures ; coefficient 3).
 
@@ -532,13 +532,13 @@ A. - Epreuves écrites d'admissibilité
 
 Pour les épreuves 2°, 3° et 4°, un dictionnaire unilingue et un dictionnaire en langue japonaise de caractères chinois, indiqué par le jury, peuvent être utilisés par les candidats.
 
-B. - Epreuves orales d'admission
+B.-Epreuves orales d'admission
 
 1° Une leçon en français portant, au choix du candidat formulé au moment de l'inscription, soit sur une question de littérature, soit sur une question d'histoire et de civilisation du Japon, dans le cadre du programme (durée de la préparation : cinq heures ; durée de l'épreuve : quarante-cinq minutes maximum ; coefficient 4).
 
 2° Traduction et analyse en français d'un texte en japonais classique au programme (durée de la préparation : quatre heures ; durée de l'épreuve : quarante-cinq minutes maximum ; coefficient 3).
 
-3° Epreuve en japonais : interprétation et présentation d'informations à partir de documents hors programme en français et/ou en japonais, suivies d'un entretien (durée de la préparation : cinq heures ; durée de l'épreuve : une heure maximum [interprétation et présentation d'informations : trente minutes maximum ; entretien : trente minutes maximum] ; coefficient 5).
+3° Epreuve en japonais : interprétation et présentation d'informations à partir de documents hors programme en français et / ou en japonais, suivies d'un entretien (durée de la préparation : cinq heures ; durée de l'épreuve : une heure maximum [interprétation et présentation d'informations : trente minutes maximum ; entretien : trente minutes maximum] ; coefficient 5).
 
 Pour la préparation des épreuves orales, les candidats ont accès aux dictionnaires de la bibliothèque du concours.
 
@@ -548,7 +548,7 @@ Le programme des épreuves du concours fait l'objet d'une publication au Bulleti
 
 NÉERLANDAIS
 
-A. - Epreuves écrites d'admissibilité
+A.-Epreuves écrites d'admissibilité
 
 1° Composition en néerlandais sur un sujet de littérature néerlandaise ou sur un sujet relatif à la civilisation des pays de langue néerlandaise, au choix du jury, dans le cadre du programme (durée : sept heures ; coefficient 4).
 
@@ -560,7 +560,7 @@ A. - Epreuves écrites d'admissibilité
 
 La maîtrise de la langue néerlandaise et de la langue française est prise en compte dans la notation des épreuves d'admissibilité.
 
-B. - Epreuves orales d'admission
+B.-Epreuves orales d'admission
 
 1° Explication en néerlandais d'un texte, suivie d'un entretien en néerlandais. Le texte est extrait d'un des ouvrages littéraires du programme (durée de la préparation : deux heures ; durée de l'épreuve : quarante-cinq minutes maximum [explication : trente minutes maximum ; entretien : quinze minutes maximum] ; coefficient 7).
 
@@ -568,7 +568,7 @@ B. - Epreuves orales d'admission
 
 Le thème oral est suivi d'un entretien en français (durée de la préparation : trente minutes ; durée de l'épreuve : trente minutes maximum [thème oral : vingt minutes maximum ; entretien : dix minutes maximum] ; coefficient 4).
 
-3° Version orale et explication en français de faits de langue portant sur un texte hors programme, littéraire ou emprunté à la presse périodique ou quotidienne, au choix du jury. L'épreuve comporte également un entretien en français avec le jury (durée de la préparation : une heure ; durée de l'épreuve : une heure maximum [version orale : vingt minutes maximum ; explication de faits de langue : vingt minutes maximum ; entretien : vingt minutes maximum] ; coefficient 7).
+3° Version orale et explication en français de faits de langue portant sur un texte hors programme, littéraire ou emprunté à la presse périodique ou quotidienne, au choix du jury.L'épreuve comporte également un entretien en français avec le jury (durée de la préparation : une heure ; durée de l'épreuve : une heure maximum [version orale : vingt minutes maximum ; explication de faits de langue : vingt minutes maximum ; entretien : vingt minutes maximum] ; coefficient 7).
 
 La maîtrise de la langue néerlandaise et de la langue française est prise en compte dans la notation des épreuves d'admission.
 
@@ -576,7 +576,7 @@ Le programme des épreuves fait l'objet d'une publication au Bulletin officiel d
 
 POLONAIS
 
-A. - Epreuves écrites d'admissibilité
+A.-Epreuves écrites d'admissibilité
 
 1° Une composition en polonais sur un sujet de littérature ou de civilisation polonaises dans le cadre d'un programme (durée : sept heures ; coefficient 4).
 
@@ -586,7 +586,7 @@ A. - Epreuves écrites d'admissibilité
 
 4° Une composition en français sur un sujet de littérature ou de civilisation polonaises dans le cadre d'un programme (durée : sept heures ; coefficient 4).
 
-B. - Epreuves orales d'admission
+B.-Epreuves orales d'admission
 
 1° Un résumé en polonais d'un texte polonais hors programme suivi d'un entretien en polonais avec le jury (durée de la préparation : une heure ; durée de l'épreuve : trente minutes maximum [résumé : vingt minutes maximum ; entretien : dix minutes maximum] ; coefficient 4).
 
@@ -602,7 +602,7 @@ Le programme des épreuves du concours fait l'objet d'une publication au Bulleti
 
 PORTUGAIS
 
-A. - Epreuves écrites d'admissibilité
+A.-Epreuves écrites d'admissibilité
 
 1° Composition en français sur une question de civilisation au programme (durée : sept heures ; coefficient 4)
 
@@ -620,7 +620,7 @@ B. Epreuves orales d'admission
 
 1° Thème oral improvisé sur un texte littéraire contemporain ou emprunté à la presse périodique ou quotidienne (durée : trente minutes ; coefficient 2).
 
-2° Leçon en portugais sur une question se rapportant au programme, suivie d' un entretien en portugais avec le jury (durée de la préparation : cinq heures ; durée de l'épreuve : quarante-cinq minutes maximum [leçon : trente-cinq minutes maximum ; entretien : dix minutes maximum] ; coefficient 5).
+2° Leçon en portugais sur une question se rapportant au programme, suivie d'un entretien en portugais avec le jury (durée de la préparation : cinq heures ; durée de l'épreuve : quarante-cinq minutes maximum [leçon : trente-cinq minutes maximum ; entretien : dix minutes maximum] ; coefficient 5).
 
 3° Explication littéraire en portugais d'un texte au programme, suivie d'un commentaire linguistique en français d'une partie du texte (durée de la préparation : quatre heures ; durée de l'épreuve : quarante-cinq minutes maximum [explication littéraire : trente minutes maximum ; commentaire linguistique : quinze minutes maximum] ; coefficient 4).
 
@@ -632,7 +632,7 @@ Le programme du concours fait l'objet d'une publication au Bulletin officiel de 
 
 RUSSE
 
-A. - Epreuves écrites d'admissibilité
+A.-Epreuves écrites d'admissibilité
 
 1° Composition en russe, dans le cadre d'un programme, sur un sujet de littérature russe ou de civilisation russe (durée : sept heures ; coefficient 2).
 
@@ -672,13 +672,13 @@ Le programme des épreuves fait l'objet d'une publication au Bulletin officiel d
 
 Section mathématiques
 
-A. - Epreuves écrites d'admissibilité
+A.-Epreuves écrites d'admissibilité
 
 1° Composition de mathématiques générales (durée : six heures ; coefficient 1).
 
 2° Composition d'analyse et probabilités (durée : six heures ; coefficient 1).
 
-B. - Epreuves orales d'admission
+B.-Epreuves orales d'admission
 
 1° Epreuve d'algèbre et géométrie (durée de la préparation : trois heures ; durée de l'épreuve : une heure maximum ; coefficient 1).
 
@@ -690,7 +690,7 @@ Deux sujets au choix sont proposés par le jury au candidat ;
 
 Pour la préparation, le candidat dispose de documents fournis par le jury et peut utiliser ses propres ouvrages s'ils sont autorisés ;
 
-A l'issue de la préparation, le candidat présente au jury un plan d'étude détaillé du sujet qu'il a choisi. Ce plan est présenté pendant vingt minutes au maximum. Il est suivi du développement d'une question qui lui est liée. L'épreuve se termine par un entretien avec le jury au cours duquel celui-ci peut éventuellement proposer un ou plusieurs exercices.
+A l'issue de la préparation, le candidat présente au jury un plan d'étude détaillé du sujet qu'il a choisi. Ce plan est présenté pendant vingt minutes au maximum. Il est suivi du développement d'une question qui lui est liée.L'épreuve se termine par un entretien avec le jury au cours duquel celui-ci peut éventuellement proposer un ou plusieurs exercices.
 
 3° Epreuve de modélisation (durée de la préparation : quatre heures ; durée de l'épreuve ; une heure et quinze minutes maximum ; coefficient 1).
 
@@ -706,7 +706,7 @@ L'épreuve porte sur un programme commun aux deux options et sur un programme sp
 
 Soit l'illustration d'une technique de modélisation mathématique ;
 
-Le candidat doit exposer un résultat du programme et l'illustrer dans un des thèmes applicatifs du programme. L'utilisation de l'ordinateur est particulièrement appréciée. Au cours de l'entretien qui suit, le candidat peut se voir proposer un exercice de modélisation ;
+Le candidat doit exposer un résultat du programme et l'illustrer dans un des thèmes applicatifs du programme.L'utilisation de l'ordinateur est particulièrement appréciée. Au cours de l'entretien qui suit, le candidat peut se voir proposer un exercice de modélisation ;
 
 Soit l'utilisation d'un texte de modélisation mathématique relevant des thèmes applicatifs du programme ;
 
@@ -726,13 +726,13 @@ Section sciences physiques
 
 Les candidats à l'agrégation externe de sciences physiques ont le choix entre quatre options :
 
-- Option A : Physique ;
+-Option A : Physique ;
 
-- Option B : Chimie ;
+-Option B : Chimie ;
 
-- Option C : Physique appliquée ;
+-Option C : Physique appliquée ;
 
-- Option D : Procédés physico-chimiques.
+-Option D : Procédés physico-chimiques.
 
 Le choix de l'option est formulé au moment de l'inscription.
 
@@ -742,7 +742,7 @@ Les épreuves des quatre options sont déterminées ainsi qu'il suit :
 
 Option A : Physique
 
-A. - Epreuves écrites d'admissibilité
+A.-Epreuves écrites d'admissibilité
 
 1° Composition de physique (durée : cinq heures ; coefficient 2).
 
@@ -750,7 +750,7 @@ A. - Epreuves écrites d'admissibilité
 
 3° Problème de physique (durée : six heures ; coefficient 2).
 
-B. - Epreuves orales et pratiques d'admission
+B.-Epreuves orales et pratiques d'admission
 
 1° Leçon de physique (coefficient 4).
 
@@ -762,7 +762,7 @@ présenté. La conversation éventuelle est de courte durée.
 
 3° Montage de physique composé d'expériences illustrant l'enseignement donné à tous les niveaux dans les lycées d'enseignement général et technologique (coefficient 3).
 
-Le candidat doit choisir l'un des deux montages qui lui sont proposés. A l'issue de cette épreuve, le jury peut interroger le candidat sur le sujet qu'il a choisi.
+Le candidat doit choisir l'un des deux montages qui lui sont proposés.A l'issue de cette épreuve, le jury peut interroger le candidat sur le sujet qu'il a choisi.
 
 Chacune des épreuves orales et pratiques d'admission a lieu après quatre heures de préparation surveillée.
 
@@ -770,7 +770,7 @@ Durée de chaque épreuve : une heure vingt minutes.
 
 Option B : Chimie
 
-A. - Epreuves écrites d'admissibilité
+A.-Epreuves écrites d'admissibilité
 
 1° Composition de chimie (durée : cinq heures ; coefficient 2).
 
@@ -778,7 +778,7 @@ A. - Epreuves écrites d'admissibilité
 
 3° Problème de chimie (durée : six heures ; coefficient 2).
 
-B. - Epreuves orales et pratiques d'admission
+B.-Epreuves orales et pratiques d'admission
 
 1° Leçon de chimie (coefficient 4).
 
@@ -788,7 +788,7 @@ A l'issue de chacune des deux leçons, le jury peut poser quelques questions sur
 
 3° Montage de chimie composé d'expériences illustrant l'enseignement, donné à tous les niveaux, dans les lycées d'enseignement général et technologique (coefficient 3).
 
-Le candidat doit choisir l'un des deux montages qui lui sont proposés. A l'issue de cette épreuve, le jury peut interroger le candidat sur le sujet qu'il a choisi.
+Le candidat doit choisir l'un des deux montages qui lui sont proposés.A l'issue de cette épreuve, le jury peut interroger le candidat sur le sujet qu'il a choisi.
 
 Chacune des épreuves orales et pratiques d'admission a lieu après quatre heures de préparation surveillée.
 
@@ -796,7 +796,7 @@ Durée de chaque épreuve : une heure vingt minutes.
 
 Option C : Physique appliquée
 
-A. - Epreuves écrites d'admissibilité
+A.-Epreuves écrites d'admissibilité
 
 1° Composition de physique (durée : cinq heures ; coefficient 2).
 
@@ -806,7 +806,7 @@ Les candidats composent sur le même sujet que celui remis au titre de la même 
 
 3° Problème de physique appliquée, de traitement du signal et d'automatique (durée : six heures ; coefficient 2).
 
-B. - Epreuves orales et pratiques d'admission
+B.-Epreuves orales et pratiques d'admission
 
 1° Leçon de physique appliquée, d'électronique, d'électrotechnique, d'automatique et de traitement du signal (coefficient 4).
 
@@ -816,7 +816,7 @@ A l'issue de chacune des deux leçons, le jury peut poser quelques questions sur
 
 3° Montage de physique appliquée, d'électronique, d'électrotechnique, d'automatique et de traitement du signal (coefficient 3).
 
-Le candidat doit choisir l'un des deux montages qui lui sont proposés. A l'issue de l'épreuve, le jury peut interroger le candidat sur le sujet qu'il a choisi.
+Le candidat doit choisir l'un des deux montages qui lui sont proposés.A l'issue de l'épreuve, le jury peut interroger le candidat sur le sujet qu'il a choisi.
 
 Chacune des épreuves orales et pratiques d'admission a lieu après quatre heures de préparation surveillée.
 
@@ -824,7 +824,7 @@ Durée de chaque épreuve : une heure vingt minutes.
 
 Option D : Procédés physico-chimiques
 
-A. - Epreuves écrites d'admissibilité
+A.-Epreuves écrites d'admissibilité
 
 1° Composition de physique (durée : cinq heures ; coefficient 2).
 
@@ -834,7 +834,7 @@ Les candidats composent sur le même sujet que celui remis au titre de la même 
 
 3° Problème de chimie, génie chimique et de procédés physico-chimiques (durée : six heures ; coefficient 2).
 
-B. - Epreuves orales et pratiques d'admission
+B.-Epreuves orales et pratiques d'admission
 
 1° Leçon de génie chimique et de procédés physico-chimiques, de modélisation et de commande (coefficient 4).
 
@@ -858,9 +858,9 @@ Le programme sur lequel portent les épreuves des options est publié au Bulleti
 
 ÉPREUVES DU CONCOURS EXTERNE DE L'AGRÉGATION
 
-Section sciences de la vie - Sciences de la terre et de l'univers
+Section sciences de la vie-Sciences de la terre et de l'univers
 
-Le champ disciplinaire de l'agrégation externe de Sciences de la vie - Sciences de la Terre et de l'univers couvre trois secteurs :
+Le champ disciplinaire de l'agrégation externe de Sciences de la vie-Sciences de la Terre et de l'univers couvre trois secteurs :
 
 secteur A : biologie et physiologie cellulaires, biologie moléculaire ; leur intégration au niveau des organismes ;
 
@@ -868,11 +868,11 @@ secteur B : biologie et physiologie des organismes et biologie des populations, 
 
 secteur C : sciences de la Terre et de l'univers, interactions entre la biosphère et la planète Terre.
 
-A chaque secteur A, B ou C correspond un 'programme de connaissances générales' portant sur des connaissances du niveau des classes terminales des lycées et du premier cycle universitaire et un 'programme de spécialité' portant sur des connaissances du niveau de la maîtrise universitaire.
+A chaque secteur A, B ou C correspond un'programme de connaissances générales'portant sur des connaissances du niveau des classes terminales des lycées et du premier cycle universitaire et un'programme de spécialité'portant sur des connaissances du niveau de la maîtrise universitaire.
 
 Un programme annexe à l'ensemble des trois programmes de connaissances générales porte sur des questions scientifiques d'actualité sur lesquelles peuvent être interrogés les candidats lors de la quatrième épreuve d'admission.
 
-A. - Epreuve écrites d'admissibilité
+A.-Epreuve écrites d'admissibilité
 
 Les trois épreuves écrites d'admissibilité portent chacune sur un secteur différent.
 
@@ -884,7 +884,7 @@ Elles peuvent se rapporter à un sujet donné et comporter ou non une analyse de
 
 3° Epreuve portant sur le programme de connaissances générales dans le secteur non choisi par le candidat pour la première ou la deuxième épreuve (durée : cinq heures ; coefficient 1).
 
-B. - Epreuves d'admission
+B.-Epreuves d'admission
 
 1° Epreuve de travaux pratiques portant sur le programme du secteur choisi par le candidat pour la première épreuve écrite (durée : six heures maximum ; coefficient 2).
 
@@ -906,11 +906,11 @@ Le programme annexe portant sur des questions scientifiques d'actualité est pub
 
 Section musique
 
-A. - Epreuves d'admissibilité
+A.-Epreuves d'admissibilité
 
 1° Dissertation : cette épreuve permet d'apprécier les capacités du candidat à solliciter ses connaissances sur la musique en rapport avec l'histoire des autres arts, des idées et des civilisations (durée : six heures ; coefficient 1).
 
-Un programme de trois questions est publié au Bulletin officiel de l'éducation nationale. L'une des questions porte sur une notion ou une composante du langage musical étudiée à travers des périodes historiques et des modes d'expression musicale différents.
+Un programme de trois questions est publié au Bulletin officiel de l'éducation nationale.L'une des questions porte sur une notion ou une composante du langage musical étudiée à travers des périodes historiques et des modes d'expression musicale différents.
 
 Les deux autres sont centrées chacune sur une période historique, un courant esthétique, une forme, un genre ou un auteur.
 
@@ -928,11 +928,11 @@ La durée totale de l'épreuve ne peut excéder une heure quarante-cinq minutes.
 
 3° Harmonisation à quatre parties pour une formation donnée (ensemble vocal mixte ou quatuor à cordes) d'une mélodie n'excédant pas trente mesures, tonalement analysable (durée : six heures ; coefficient 1).
 
-B. - Epreuves d'admission
+B.-Epreuves d'admission
 
 1° Leçon devant le jury : cette épreuve comporte un exposé de synthèse fondé sur l'analyse et la mise en relation de trois documents identifiés de diverses natures, dont une partition, un enregistrement audio ou vidéo, le troisième document pouvant être, notamment, un texte littéraire, un écrit sur la musique, un document iconographique ou multimédia.
 
-Le candidat expose et développe une problématique de son choix en s'appuyant sur les trois documents proposés. L'exposé est suivi d'un entretien avec le jury.
+Le candidat expose et développe une problématique de son choix en s'appuyant sur les trois documents proposés.L'exposé est suivi d'un entretien avec le jury.
 
 Pendant la préparation, le candidat dispose d'un clavier et du matériel nécessaire à l'exploitation des documents proposés (durée de la préparation : six heures ; durée de l'épreuve : cinquante minutes [exposé : trente minutes ;
 
@@ -948,7 +948,7 @@ Une interprétation vocale sans accompagnement ;
 
 Un accompagnement en jouant ou chantant la mélodie, au piano ou sur un instrument polyphonique qu'il apporte ;
 
-Une improvisation instrumentale et/ ou vocale à partir du texte donné, l'instrument étant librement choisi et apporté par le candidat.
+Une improvisation instrumentale et / ou vocale à partir du texte donné, l'instrument étant librement choisi et apporté par le candidat.
 
 Le candidat dispose d'un clavier pendant la préparation et pendant la durée de l'épreuve (durée de la préparation :
 
@@ -956,7 +956,7 @@ une heure ; durée de l'épreuve : quinze minutes ; coefficient 2).
 
 4° Commentaire d'une œuvre musicale enregistrée non identifiée (ou d'un extrait) d'une durée n'excédant pas quatre minutes :
 
-Le candidat écoute trois fois avec le jury le document sonore proposé. L'écoute se déroule sans partition et le candidat est autorisé à prendre des notes. Ce dernier donne à son commentaire l'orientation de son choix. L'exposé, d'une durée n'excédant pas dix minutes, est suivi d'un entretien en relation directe avec celui-ci (durée de l'épreuve :
+Le candidat écoute trois fois avec le jury le document sonore proposé.L'écoute se déroule sans partition et le candidat est autorisé à prendre des notes. Ce dernier donne à son commentaire l'orientation de son choix.L'exposé, d'une durée n'excédant pas dix minutes, est suivi d'un entretien en relation directe avec celui-ci (durée de l'épreuve :
 
 trente minutes ; coefficient 1).
 
@@ -966,21 +966,21 @@ Section arts
 
 Les candidats de la section arts de l'agrégation externe ont le choix entre deux options :
 
-- Option A : arts plastiques ;
+-Option A : arts plastiques ;
 
-- Option B : arts appliqués.
+-Option B : arts appliqués.
 
 Le choix de l'option est exprimé lors de l'inscription. Les candidats proposés par les jurys pour l'admissibilité et l'admission font l'objet de classements distincts selon leur option. Les épreuves de la section arts sont fixées ainsi qu'il suit :
 
 Option A : arts plastiques
 
-A. - Epreuves d'admissibilité
+A.-Epreuves d'admissibilité
 
 1° Epreuve écrite d'esthétique et sciences de l'art : cette épreuve prend appui sur un document textuel assorti d'un sujet.
 
-Le texte est emprunté à une bibliographie proposée tous les trois ans et comprenant, notamment, des ouvrages d'esthétique, des écrits d'artistes, des textes critiques (durée : six heures ; coefficient 1,5).
+Le texte est emprunté à une bibliographie proposée tous les trois ans et comprenant, notamment, des ouvrages d'esthétique, des écrits d'artistes, des textes critiques (durée : six heures ; coefficient 1, 5).
 
-2° Epreuve écrite d'histoire de l'art : un programme détermine tous les trois ans les questions sur lesquelles porte cette épreuve. L'une d'elles concerne le XXe siècle, l'autre, une période antérieure (durée : six heures ; coefficient 1,5).
+2° Epreuve écrite d'histoire de l'art : un programme détermine tous les trois ans les questions sur lesquelles porte cette épreuve.L'une d'elles concerne le XXe siècle, l'autre, une période antérieure (durée : six heures ; coefficient 1, 5).
 
 3° Epreuve de pratique plastique : réalisation bidimensionnelle mettant en œuvre des moyens strictement graphiques pour répondre à un sujet à consignes précises.
 
@@ -988,7 +988,7 @@ Cette épreuve a pour but de tester l'engagement artistique du candidat, son apt
 
 Format du support de présentation : grand aigle.
 
-B.- Epreuves d'admission
+B.-Epreuves d'admission
 
 1° Epreuve de pratique et création plastiques : réalisation artistique bi ou tridimensionnelle à partir d'un sujet à consignes précises assorti d'un dossier thématique comportant des documents visuels et textuels.
 
@@ -996,11 +996,11 @@ Les candidats ont le choix entre différents modes d'expression : dessin, gravur
 
 Déroulement de l'épreuve :
 
-A. - Projet (comportant ou non des indications écrites) mis sous scellés (durée : six heures) ;
+A.-Projet (comportant ou non des indications écrites) mis sous scellés (durée : six heures) ;
 
-B. - Réalisation du projet en deux journées de huit heures ;
+B.-Réalisation du projet en deux journées de huit heures ;
 
-C. - Présentation par le candidat de son travail et discussion avec le jury (durée totale : trente minutes).
+C.-Présentation par le candidat de son travail et discussion avec le jury (durée totale : trente minutes).
 
 Le gros matériel, tel que bacs d'acide et presse pour la gravure, agrandisseurs pour la photographie, est mis à la disposition des candidats. Les outils personnels sont laissés à leur charge.
 
@@ -1018,13 +1018,13 @@ architecture, arts appliqués, cinéma-vidéo, photographie, théâtre (durée :
 
 Option B : arts appliqués
 
-A. - Epreuves d'admissibilité
+A.-Epreuves d'admissibilité
 
 1° Epreuve écrite d'esthétique : analyse et commentaire d'un document textuel. Cette épreuve prend appui sur un document textuel assorti d'un sujet. Ce texte est emprunté à une bibliographie proposée tous les trois ans et comprenant, notamment, des ouvrages d'esthétique, des textes critiques, des écrits d'artistes, d'architectes, d'ingénieurs, de techniciens (durée : quatre heures ; coefficient 1).
 
-2° Epreuve écrite d'histoire de l'art et des techniques : un programme détermine tous les trois ans les questions sur lesquelles porte cette épreuve. L'une d'elles concerne le XX e siècle, l'autre, une période antérieure (durée : quatre heures ; coefficient 1).
+2° Epreuve écrite d'histoire de l'art et des techniques : un programme détermine tous les trois ans les questions sur lesquelles porte cette épreuve.L'une d'elles concerne le XX e siècle, l'autre, une période antérieure (durée : quatre heures ; coefficient 1).
 
-3° Epreuve pratique d'investigation et de recherche appliquée. A partir d'une documentation visuelle et d'un sujet à consignes précises, le candidat est invité à faire la démonstration :
+3° Epreuve pratique d'investigation et de recherche appliquée.A partir d'une documentation visuelle et d'un sujet à consignes précises, le candidat est invité à faire la démonstration :
 
 De sa maîtrise à engager une démarche d'investigation à partir de l'analyse et de l'exploitation d'une documentation visuelle imposée ;
 
@@ -1032,15 +1032,15 @@ De sa capacité à s'approprier des données pour positionner une problématique
 
 De sa capacité à communiquer parti pris et démarche à l'aide des moyens graphiques, plastiques et des modes appropriés nécessaires (durée : douze heures ; coefficient 3).
 
-B. - Epreuves d'admission
+B.-Epreuves d'admission
 
-1° Epreuve de conception et d'élaboration d'un projet en arts appliqués. A partir d'une situation, d'un problème ou d'un cahier des charges et de consignes précises, le candidat est invité à initier et développer un programme de stylique prenant en compte toutes les composantes d'un projet, notamment fonctionnelles, techniques, esthétiques, socio-économiques, éthiques et sémantiques.
+1° Epreuve de conception et d'élaboration d'un projet en arts appliqués.A partir d'une situation, d'un problème ou d'un cahier des charges et de consignes précises, le candidat est invité à initier et développer un programme de stylique prenant en compte toutes les composantes d'un projet, notamment fonctionnelles, techniques, esthétiques, socio-économiques, éthiques et sémantiques.
 
 Déroulement de l'épreuve :
 
-A. - Recherche et série d'esquisses (durée : six heures).
+A.-Recherche et série d'esquisses (durée : six heures).
 
-B. - Développement du projet en deux journées de huit heures.
+B.-Développement du projet en deux journées de huit heures.
 
 C. Présentation et justification par le candidat de son travail et de ses choix ; discussion avec le jury (durée totale : trente minutes).
 
@@ -1064,7 +1064,7 @@ nouvelles technologies et création ; architecture et paysage ; théâtre et sc�
 
 Section sciences économiques et sociales
 
-A. - Epreuves écrites d'admissibilité
+A.-Epreuves écrites d'admissibilité
 
 1° Composition de sciences économiques (durée : sept heures ; coefficient 4).
 
@@ -1074,7 +1074,7 @@ A. - Epreuves écrites d'admissibilité
 
 Le programme sur lequel portent les épreuves écrites d'admissibilité est publié au Bulletin officiel de l'éducation nationale.
 
-B. - Epreuves orales d'admission
+B.-Epreuves orales d'admission
 
 1° Leçon portant sur le programme de l'option Sciences économiques et sociales de la classe de Seconde ou sur le programme de sciences économiques et sociales de Première ou de Terminale ES des lycées (y compris sur le programme de l'option Sciences économiques et sociales en Première ES et sur celui de l'enseignement de spécialité en classe de Terminale ES), suivie d'un entretien avec le jury (durée de la préparation : six heures ; durée de l'épreuve : une heure maximum [leçon : quarante-cinq minutes ; entretien : quinze minutes maximum] ; coefficient 5).
 
@@ -1088,15 +1088,15 @@ Cette dernière épreuve porte sur un programme publié au Bulletin officiel de 
 
 Section mécanique
 
-A. - Epreuves écrites d'admissibilité
+A.-Epreuves écrites d'admissibilité
 
 1° Epreuve de mécanique générale et des milieux déformables.
 
 Cette épreuve porte sur :
 
-- d'une part, l'étude de problèmes relatifs à des systèmes mécaniques modélisables par un ensemble de solides indéformables. Elle utilise les résultats de la mécanique générale et de la mécanique analytique ;
+-d'une part, l'étude de problèmes relatifs à des systèmes mécaniques modélisables par un ensemble de solides indéformables. Elle utilise les résultats de la mécanique générale et de la mécanique analytique ;
 
-- d'autre part, sur l'étude de structures ou de processus, à l'aide de la mécanique des milieux déformables, solides et fluides et la thermodynamique.
+-d'autre part, sur l'étude de structures ou de processus, à l'aide de la mécanique des milieux déformables, solides et fluides et la thermodynamique.
 
 Elle conduit à des mises en équation et à des résolutions totales ou partielles, permettant d'atteindre des conclusions quant au comportement mécanique et à l'utilisation des systèmes considérés.
 
@@ -1110,19 +1110,19 @@ Elle vise également à évaluer les capacités du candidat à intégrer les dé
 
 La résolution du problème posé nécessite :
 
-- l'analyse détaillée du cahier des charges ;
+-l'analyse détaillée du cahier des charges ;
 
-- la lecture de représentations de systèmes réels ;
+-la lecture de représentations de systèmes réels ;
 
-- l'élaboration de notes de calcul, l'utilisation d'une documentation, l'exploitation de résultats de calculs et de résultats de simulations de comportements débouchant sur des choix techniques et des propositions de solutions ;
+-l'élaboration de notes de calcul, l'utilisation d'une documentation, l'exploitation de résultats de calculs et de résultats de simulations de comportements débouchant sur des choix techniques et des propositions de solutions ;
 
-- la représentation des solutions retenues en phase d'avant-projet, notamment sous forme de croquis, perspectives et schémas, réalisés à main levée ou en s'aidant d'instruments, associés à des commentaires techniques.
+-la représentation des solutions retenues en phase d'avant-projet, notamment sous forme de croquis, perspectives et schémas, réalisés à main levée ou en s'aidant d'instruments, associés à des commentaires techniques.
 
 Durée : huit heures ; coefficient 1.
 
 3° Epreuve d'automatique-informatique industrielle.
 
-Cette épreuve a pour but l'étude (analyse et conception) du comportement d'un système automatique et/ou la résolution d'un problème de traitement automatique de l'information.
+Cette épreuve a pour but l'étude (analyse et conception) du comportement d'un système automatique et / ou la résolution d'un problème de traitement automatique de l'information.
 
 Le support d'étude peut être un produit manufacturé automatique ou un système de production, d'assemblage, de test ou de contrôle associé à un produit.
 
@@ -1132,7 +1132,7 @@ Durée : six heures ; coefficient 1.
 
 Pour les épreuves 2° et 3°, les candidats composent sur le même sujet que celui remis au titre de la même session aux candidats du concours externe de l'agrégation de génie mécanique.
 
-B. - Epreuves d'admission
+B.-Epreuves d'admission
 
 1° Leçon de mécanique.
 
@@ -1150,7 +1150,7 @@ Durée de la préparation : quatre heures ; durée de l'épreuve : une heure max
 
 L'épreuve consiste en la soutenance devant le jury d'un dossier technique et scientifique du domaine de la conception mécanique industrielle préparé par le candidat, suivie d'un entretien.
 
-Le dossier présenté par le candidat est relatif à un système technique à dominante mécanique. Son authenticité et son actualité sont des éléments décisifs. Il se caractérise par une compétitivité reconnue, par la modernité de sa conception et par sa disponibilité réelle, que le produit soit de type "grand public ou de type "équipement industriel non unitaire.
+Le dossier présenté par le candidat est relatif à un système technique à dominante mécanique. Son authenticité et son actualité sont des éléments décisifs. Il se caractérise par une compétitivité reconnue, par la modernité de sa conception et par sa disponibilité réelle, que le produit soit de type " grand public ou de type " équipement industriel non unitaire.
 
 Le produit répond à un cahier des charges fonctionnel, présent dans le dossier, et à des spécifications dont la description est conforme aux normes en vigueur.
 
@@ -1170,21 +1170,21 @@ Durée de la préparation : une heure ; durée de l'épreuve : une heure maximum
 
 L'épreuve a pour but de vérifier les aptitudes des candidats à mettre en œuvre des équipements scientifiques et techniques, d'en effectuer une analyse scientifique et technologique, et d'en tirer des intentions pédagogiques à un niveau donné. Le travail demandé comporte :
 
-- la définition d'une méthodologie scientifique ou d'une démarche technologique rigoureuse ;
+-la définition d'une méthodologie scientifique ou d'une démarche technologique rigoureuse ;
 
-- l'observation et la manipulation effective du candidat sur le site expérimental ;
+-l'observation et la manipulation effective du candidat sur le site expérimental ;
 
-- la représentation synthétique des résultats obtenus ;
+-la représentation synthétique des résultats obtenus ;
 
-- l'énoncé d'intentions pédagogiques adaptées aux objectifs imposés et au public supposé.
+-l'énoncé d'intentions pédagogiques adaptées aux objectifs imposés et au public supposé.
 
 Les manipulations s'appuient sur des produits et matériels réels prototypes ou produits industrialisés, éventuellement associés à des maquettes ou des montages didactiques, et sur la mise en œuvre d'outils informatiques de simulation.
 
 Pour la préparation de l'épreuve, un dossier est remis au candidat ; il comprend :
 
-- les éléments techniques nécessaires à la résolution du problème posé, notamment les données utiles du cahier des charges, la présentation et les caractéristiques du matériel à utiliser, les "documents constructeurs utiles, la procédure de mise en œuvre des matériels ;
+-les éléments techniques nécessaires à la résolution du problème posé, notamment les données utiles du cahier des charges, la présentation et les caractéristiques du matériel à utiliser, les " documents constructeurs utiles, la procédure de mise en œuvre des matériels ;
 
-- les éléments nécessaires à l'élaboration succincte des intentions pédagogiques pour l'organisation, à un niveau donné, d'une séquence à caractère expérimental utilisant le matériel proposé.
+-les éléments nécessaires à l'élaboration succincte des intentions pédagogiques pour l'organisation, à un niveau donné, d'une séquence à caractère expérimental utilisant le matériel proposé.
 
 Selon la nature du matériel et des équipements proposés, une assistance technique légère peut être apportée au candidat au cours de sa préparation.
 
@@ -1192,9 +1192,9 @@ Trente minutes avant la fin de la préparation, le candidat est placé dans la s
 
 L'exposé devant le jury porte sur :
 
-- la présentation des résultats de l'activité expérimentale. Cette présentation doit être associée à une analyse critique des résultats obtenus, des méthodes et des solutions proposées ;
+-la présentation des résultats de l'activité expérimentale. Cette présentation doit être associée à une analyse critique des résultats obtenus, des méthodes et des solutions proposées ;
 
-- la présentation de l'exploitation pédagogique. Cette présentation doit mettre en évidence la stratégie pédagogique utilisée, les connaissances fondamentales dégagées et les moyens permettant de vérifier qu'elles sont assimilées.
+-la présentation de l'exploitation pédagogique. Cette présentation doit mettre en évidence la stratégie pédagogique utilisée, les connaissances fondamentales dégagées et les moyens permettant de vérifier qu'elles sont assimilées.
 
 Cet exposé est suivi d'un entretien.
 
@@ -1206,25 +1206,25 @@ Le programme du concours est publié au Bulletin officiel de l'éducation nation
 
 Section génie mécanique
 
-A. - Epreuves écrites d'admissibilité
+A.-Epreuves écrites d'admissibilité
 
 1° Epreuve d'étude d'industrialisation.
 
-L'épreuve a pour but d'évaluer la capacité du candidat à résoudre un problème de production industrielle. A partir d'un produit technique industrialisé, représentatif des technologies actuelles, l'épreuve porte sur tout ou partie des éléments suivants :
+L'épreuve a pour but d'évaluer la capacité du candidat à résoudre un problème de production industrielle.A partir d'un produit technique industrialisé, représentatif des technologies actuelles, l'épreuve porte sur tout ou partie des éléments suivants :
 
-- optimisation des relations produit - matériau - procédé ;
+-optimisation des relations produit-matériau-procédé ;
 
-- étude de processus de fabrication associés aux procédés de fabrication primaires (créant la forme), secondaires (modifiant la forme) et tertiaires (améliorant les caractéristiques d'une surface ou d'un volume de la pièce), de leur définition et de leur simulation ;
+-étude de processus de fabrication associés aux procédés de fabrication primaires (créant la forme), secondaires (modifiant la forme) et tertiaires (améliorant les caractéristiques d'une surface ou d'un volume de la pièce), de leur définition et de leur simulation ;
 
-- étude des systèmes de production et de contrôle relatifs aux procédés de transformation ;
+-étude des systèmes de production et de contrôle relatifs aux procédés de transformation ;
 
-- étude des outillages associés aux processus (définition du cahier des charges et de l'aptitude à l'emploi, conception et qualification) ;
+-étude des outillages associés aux processus (définition du cahier des charges et de l'aptitude à l'emploi, conception et qualification) ;
 
-- étude des systèmes d'organisation et de gestion des productions dans une logique d'optimisation technico-économique ;
+-étude des systèmes d'organisation et de gestion des productions dans une logique d'optimisation technico-économique ;
 
-- étude des systèmes et des contraintes de montage et d'assemblage ;
+-étude des systèmes et des contraintes de montage et d'assemblage ;
 
-- étude des contrôles (dimensionnels, géométriques et fonctionnels) associés à l'optimisation de la qualité des pièces, des produits et des processus.
+-étude des contrôles (dimensionnels, géométriques et fonctionnels) associés à l'optimisation de la qualité des pièces, des produits et des processus.
 
 Durée : six heures ; coefficient 1.
 
@@ -1236,19 +1236,19 @@ Elle vise également à évaluer les capacités du candidat à intégrer les dé
 
 La résolution du problème posé nécessite :
 
-- l'analyse détaillée du cahier des charges ;
+-l'analyse détaillée du cahier des charges ;
 
-- la lecture de représentations de systèmes réels ;
+-la lecture de représentations de systèmes réels ;
 
-- l'élaboration de notes de calcul, l'utilisation d'une documentation, l'exploitation de résultats de calculs et de résultats de simulations de comportements débouchant sur des choix techniques et des propositions de solutions ;
+-l'élaboration de notes de calcul, l'utilisation d'une documentation, l'exploitation de résultats de calculs et de résultats de simulations de comportements débouchant sur des choix techniques et des propositions de solutions ;
 
-- la représentation des solutions retenues en phase d'avant-projet, notamment sous forme de croquis, perspectives et schémas, réalisés à main levée ou en s'aidant d'instruments, associés à des commentaires techniques.
+-la représentation des solutions retenues en phase d'avant-projet, notamment sous forme de croquis, perspectives et schémas, réalisés à main levée ou en s'aidant d'instruments, associés à des commentaires techniques.
 
 Durée : huit heures ; coefficient 1.
 
 3° Epreuve d'automatique-informatique industrielle.
 
-Cette épreuve a pour but l'étude (analyse et conception) du comportement d'un système automatique et/ou la résolution d'un problème de traitement automatique de l'information.
+Cette épreuve a pour but l'étude (analyse et conception) du comportement d'un système automatique et / ou la résolution d'un problème de traitement automatique de l'information.
 
 Le support d'étude peut être un produit manufacturé automatique ou un système de production, d'assemblage, de test ou de contrôle associé à un produit.
 
@@ -1258,7 +1258,7 @@ Durée : quatre heures ; coefficient 1.
 
 Pour les épreuves 2° et 3°, les candidats composent sur le même sujet que celui remis au titre de la même session aux candidats du concours externe de l'agrégation de mécanique.
 
-B. - Epreuves d'admission
+B.-Epreuves d'admission
 
 1° Leçon de technologie des procédés et processus.
 
@@ -1294,27 +1294,27 @@ Durée de la préparation : une heure ; durée de l'épreuve : une heure maximum
 
 L'épreuve a pour but d'évaluer les aptitudes du candidat à construire une réflexion technique et scientifique dans un cadre de mise en œuvre de moyens de production ou d'assemblage et de périphérique associés. Relative à une grande variété de procédés, elle porte sur tout ou partie des activités industrielles suivantes :
 
-- analyse des données d'industrialisation et du contexte proposé de mise en œuvre ;
+-analyse des données d'industrialisation et du contexte proposé de mise en œuvre ;
 
-- identification des problèmes techniques ;
+-identification des problèmes techniques ;
 
-- définition et exécution d'un programme d'expérimentation ;
+-définition et exécution d'un programme d'expérimentation ;
 
-- analyse des résultats ;
+-analyse des résultats ;
 
-- proposition d'évolution des conditions de réalisation et validation des solutions proposées par la mise en œuvre finale ;
+-proposition d'évolution des conditions de réalisation et validation des solutions proposées par la mise en œuvre finale ;
 
-- présentation synthétique des résultats obtenus.
+-présentation synthétique des résultats obtenus.
 
 La problématique technique peut être relative au comportement de la pièce ou de l'outillage dans son environnement de transformation, à la mise en œuvre d'une production, à la nature des éléments constitutifs d'une chaîne d'action ou à l'analyse et la conduite d'un système automatisé.
 
-Pour la préparation de l'épreuve, un dossier technique de production est remis au candidat, contenant les éléments nécessaires à la résolution du problème posé, notamment les données utiles du cahier des charges, la présentation et les caractéristiques du matériel à utiliser, les "documents constructeurs utiles, la procédure de mise en œuvre des matériels.
+Pour la préparation de l'épreuve, un dossier technique de production est remis au candidat, contenant les éléments nécessaires à la résolution du problème posé, notamment les données utiles du cahier des charges, la présentation et les caractéristiques du matériel à utiliser, les " documents constructeurs utiles, la procédure de mise en œuvre des matériels.
 
 Selon la nature du matériel et des équipements proposés, une assistance technique légère peut être apportée au candidat au cours de sa préparation.
 
 A la fin de la préparation, le candidat expose ses travaux au jury.
 
-L'exposé porte sur la présentation des résultats de l'activité expérimentale. Le candidat dispose des moyens d'expression usuels de présentation (notamment tableaux et rétroprojecteur). A cette présentation doivent être associées une analyse critique des résultats obtenus, la justification des méthodes utilisées et celle des solutions proposées.
+L'exposé porte sur la présentation des résultats de l'activité expérimentale. Le candidat dispose des moyens d'expression usuels de présentation (notamment tableaux et rétroprojecteur).A cette présentation doivent être associées une analyse critique des résultats obtenus, la justification des méthodes utilisées et celle des solutions proposées.
 
 Cet exposé est suivi d'un entretien.
 
@@ -1326,7 +1326,7 @@ Le programme du concours est publié au Bulletin officiel de l'éducation nation
 
 Section génie civil
 
-A. - Epreuves écrites d'admissibilité
+A.-Epreuves écrites d'admissibilité
 
 1° Epreuve de modélisation des matériaux et des ouvrages.
 
@@ -1370,45 +1370,45 @@ Durée totale de l'épreuve : six heures ; coefficient 1.
 
 Les candidats ont le choix, formulé au moment de l'inscription, entre deux options :
 
-- option A : matériaux, ouvrages et aménagement ;
+-option A : matériaux, ouvrages et aménagement ;
 
-- option B : équipements et énergies.
+-option B : équipements et énergies.
 
 Pour l'option A, l'épreuve porte sur la conception, la réalisation et la maintenance des ouvrages dans les domaines de la construction et des aménagements.
 
 Elle permet d'évaluer les capacités du candidat à intégrer :
 
-- les logiques de fonctionnement mécanique des ouvrages et leur modélisation ;
+-les logiques de fonctionnement mécanique des ouvrages et leur modélisation ;
 
-- la détermination des actions et leur combinaison ;
+-la détermination des actions et leur combinaison ;
 
-- les calculs de dimensionnement et de vérification des ouvrages dans le cadre des réglementations nationales et européennes ;
+-les calculs de dimensionnement et de vérification des ouvrages dans le cadre des réglementations nationales et européennes ;
 
-- les procédés et les technologies utilisées ;
+-les procédés et les technologies utilisées ;
 
-- l'organisation et la planification du chantier et sa logistique ;
+-l'organisation et la planification du chantier et sa logistique ;
 
-- les facteurs de l'économie de la construction ;
+-les facteurs de l'économie de la construction ;
 
-- la qualité et la sécurité, la maîtrise des risques et des impacts sur l'environnement.
+-la qualité et la sécurité, la maîtrise des risques et des impacts sur l'environnement.
 
 Pour l'option B, l'épreuve porte sur la conception, la réalisation et la maintenance des équipements techniques et des éléments relatifs au confort et à l'utilisation des bâtiments.
 
 Elle permet d'évaluer les capacités du candidat à intégrer :
 
-- les logiques de fonctionnement des installations ;
+-les logiques de fonctionnement des installations ;
 
-- les calculs et les réglementations nationales et européennes en vigueur ;
+-les calculs et les réglementations nationales et européennes en vigueur ;
 
-- les procédés et les technologies utilisés ;
+-les procédés et les technologies utilisés ;
 
-- l'organisation de chantier, la logistique et l'étude économique des opérations ;
+-l'organisation de chantier, la logistique et l'étude économique des opérations ;
 
-- la qualité et la sécurité, la maîtrise des risques et des impacts sur l'environnement.
+-la qualité et la sécurité, la maîtrise des risques et des impacts sur l'environnement.
 
 Durée : huit heures ; coefficient 1.
 
-B. - Epreuves d'admission
+B.-Epreuves d'admission
 
 1° Leçon à caractère scientifique et technologique.
 
@@ -1446,17 +1446,17 @@ Durée de la préparation : une heure ; durée de l'épreuve : une heure maximum
 
 Les candidats ont le choix, formulé au moment de l'inscription, entre deux options :
 
-- option A : matériaux, ouvrages et aménagement ;
+-option A : matériaux, ouvrages et aménagement ;
 
-- option B : équipements et énergies.
+-option B : équipements et énergies.
 
-L'épreuve a pour but de vérifier les aptitudes du candidat à mettre en œuvre des équipements scientifiques et techniques, d'en effectuer une analyse scientifique et/ou technologique et d'en proposer l'exploitation pédagogique.
+L'épreuve a pour but de vérifier les aptitudes du candidat à mettre en œuvre des équipements scientifiques et techniques, d'en effectuer une analyse scientifique et / ou technologique et d'en proposer l'exploitation pédagogique.
 
 Un cadre de manipulation avec mise à disposition de matériel, de matériaux, de documentation technique, de logiciels est proposé au candidat. Selon la nature du matériel et des équipements proposés, une assistance technique légère peut être apportée au candidat au cours de sa préparation.
 
 Le candidat doit préparer une manipulation qui serait pratiquée devant élèves afin de présenter une nouvelle notion, mettre en évidence un phénomène, caractériser un comportement, analyser l'écart entre le modèle théorique et le comportement observé. Il devra, pendant la durée de la préparation, organiser et mettre en œuvre les moyens de la manipulation et de l'exposé, procéder éventuellement à des essais et mesures.
 
-Pendant l'exposé, il doit présenter l'organisation pédagogique de la séquence devant élèves, procéder à la démonstration prévue, analyser et exploiter les résultats obtenus. L'exposé est suivi d'un entretien.
+Pendant l'exposé, il doit présenter l'organisation pédagogique de la séquence devant élèves, procéder à la démonstration prévue, analyser et exploiter les résultats obtenus.L'exposé est suivi d'un entretien.
 
 Durée de la préparation : quatre heures maximum ; durée de l'épreuve : une heure maximum (exposé : quarante-cinq minutes maximum dont trente minutes maximum pour la présentation des résultats de l'activité expérimentale et quinze minutes maximum pour la présentation de l'exploitation pédagogique ; entretien : quinze minutes maximum) ; coefficient 1.
 
@@ -1480,9 +1480,9 @@ Les épreuves de l'agrégation externe de génie électrique sont déterminées 
 
 Option A : électronique et informatique industrielle
 
-A. - Epreuves écrites d'admissibilité
+A.-Epreuves écrites d'admissibilité
 
-A. - Epreuves écrites d'admissibilité
+A.-Epreuves écrites d'admissibilité
 
 1° Composition d'automatique et d'informatique industrielle (durée : six heures ; coefficient 1).
 
@@ -1490,7 +1490,7 @@ A. - Epreuves écrites d'admissibilité
 
 3° Composition d'électrotechnique (durée : six heures ; coefficient 1).
 
-B. - Epreuves orales et pratiques d'admission
+B.-Epreuves orales et pratiques d'admission
 
 Les sujets des épreuves d'admission prennent appui sur les domaines ci-après des applications du génie électrique : domaine A : applications de l'électronique et des courants faibles ; domaine B : applications de l'électrotechnique et des courants forts.
 
@@ -1530,7 +1530,7 @@ Le programme du concours est publié au Bulletin officiel de l'éducation nation
 
 Option B : électrotechnique et électronique de puissance
 
-A. - Epreuves écrites d'admissibilité
+A.-Epreuves écrites d'admissibilité
 
 1° Composition d'automatique et d'informatique industrielle (épreuve commune pour les deux options A et B) [durée : six heures ; coefficient 3].
 
@@ -1538,7 +1538,7 @@ A. - Epreuves écrites d'admissibilité
 
 3° Epreuve d'électrotechnique comportant un avant-projet (durée : huit heures ; coefficient 4).
 
-B. - Epreuves orales et pratiques d'admission
+B.-Epreuves orales et pratiques d'admission
 
 1° Epreuve de travaux pratiques portant sur un montage d'électrotechnique incluant l'automatique.
 
@@ -1568,9 +1568,9 @@ Le programme des épreuves est publié au Bulletin officiel de l'éducation nati
 
 ÉPREUVES DU CONCOURS EXTERNE DE L'AGRÉGATION
 
-Section biochimie - génie biologie
+Section biochimie-génie biologie
 
-A. - Epreuves écrites d'admissibilité
+A.-Epreuves écrites d'admissibilité
 
 1° Composition de biochimie (durée : six heures ; coefficient 2).
 
@@ -1578,9 +1578,9 @@ A. - Epreuves écrites d'admissibilité
 
 3° Composition de biologie cellulaire et physiologie (durée : six heures ; coefficient 2).
 
-B. - Epreuves pratiques et orales d'admission
+B.-Epreuves pratiques et orales d'admission
 
-1° Travaux pratiques de biochimie et/ ou de physiologie (durée : quatre heures ; coefficient 2).
+1° Travaux pratiques de biochimie et / ou de physiologie (durée : quatre heures ; coefficient 2).
 
 2° Travaux pratiques de microbiologie (durée : quatre heures ; coefficient 2).
 
@@ -1596,7 +1596,7 @@ Durée de l'entretien : quinze minutes.
 
 Coefficient 3.
 
-5° Etude critique d'un dossier scientifique et/ ou technique suivie d'un entretien avec le jury.
+5° Etude critique d'un dossier scientifique et / ou technique suivie d'un entretien avec le jury.
 
 Durée de la préparation : quatre heures.
 
@@ -1614,13 +1614,13 @@ Section économie et gestion
 
 Les candidats à l'agrégation externe d'économie et gestion ont le choix entre quatre options :
 
-- Option A : économie et gestion administrative ;
+-Option A : économie et gestion administrative ;
 
-- Option B : économie et gestion comptable et financière ;
+-Option B : économie et gestion comptable et financière ;
 
-- Option C : économie et gestion commerciale ;
+-Option C : économie et gestion commerciale ;
 
-- Option D : économie, informatique et gestion.
+-Option D : économie, informatique et gestion.
 
 Ce choix est formulé au moment de l'inscription.
 
@@ -1628,7 +1628,7 @@ Les candidats proposés par les jurys pour l'admissibilité et pour l'admission 
 
 Les épreuves de l'agrégation externe d'économie et gestion sont déterminées ainsi qu'il suit :
 
-A. - Epreuves écrites d'admissibilité
+A.-Epreuves écrites d'admissibilité
 
 1° Composition portant sur l'économie générale (durée : six heures ; coefficient 3).
 
@@ -1644,7 +1644,7 @@ Durée : six heures ; coefficient 3.
 
 Cette épreuve consiste en l'étude d'une situation pratique relative au domaine de l'option choisie par le candidat (durée : sept heures ; coefficient 4).
 
-B. - Epreuves orales d'admission
+B.-Epreuves orales d'admission
 
 1° Exposé portant sur un thème économique, juridique ou social.
 
@@ -1686,7 +1686,7 @@ Le programme des épreuves est publié au Bulletin officiel de l'éducation nati
 
 Section éducation physique et sportive
 
-A. - Epreuves écrites d'admissibilité
+A.-Epreuves écrites d'admissibilité
 
 1° Activités physiques et sportives et civilisations.
 
@@ -1700,7 +1700,7 @@ Dissertation portant sur les aspects biologique, psychologique et sociologique d
 
 Le sujet porte sur un programme défini chaque année.
 
-B. - Epreuves d'admission
+B.-Epreuves d'admission
 
 1° Interrogation à partir d'un dossier d'établissement.
 
@@ -1722,8 +1722,6 @@ L'épreuve est appréciée pour moitié sur la prestation physique et pour moiti
 
 4° Pratique d'une activité physique et sportive.
 
-Réalisation par le candidat d'une prestation physique dans une activité physique et sportive choisie, au moment de l'inscription, parmi celles figurant dans un programme défini chaque année. L'activité choisie pour cette épreuve doit être différente de celle retenue pour la troisième épreuve d'admission (coefficient 1).
+Réalisation par le candidat d'une prestation physique dans une activité physique et sportive choisie, au moment de l'inscription, parmi celles figurant dans un programme défini chaque année.L'activité choisie pour cette épreuve doit être différente de celle retenue pour la troisième épreuve d'admission (coefficient 1).
 
 Les programmes et la bibliographie indicative prévus pour certaines épreuves sont publiés chaque année au Bulletin officiel de l'éducation nationale.
-
-(C Abrogé par l'article 3 de l'arrêté du 31 août 2004.)
