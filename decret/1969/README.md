@@ -46,7 +46,6 @@
 - [Décret n°69-763 du 24 juillet 1969](decret-n69-763-du-24-juillet-1969)
 - [Décret n°69-890 du 24 septembre 1969](decret-n69-890-du-24-septembre-1969)
 - [Décret n°69-457 du 24 mai 1969](decret-n69-457-du-24-mai-1969)
-- [Décret n°69-505 du 24 mai 1969](decret-n69-505-du-24-mai-1969)
 - [Décret n°69-399 du 25 avril 1969](decret-n69-399-du-25-avril-1969)
 - [Décret n°69-189 du 26 février 1969](decret-n69-189-du-26-fevrier-1969)
 - [Décret n°69-894 du 26 septembre 1969](decret-n69-894-du-26-septembre-1969)
