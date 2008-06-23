@@ -10,7 +10,7 @@ Responsable du pôle audit-veille-évaluation-contrôle (AVEC) du cabinet (1 emp
 
 Délégué au conseil (1 emploi) ;
 
-Directeur du groupe hospitalier La Pitié - La Salpêtrière ;
+Directeur du groupe hospitalier La Pitié-La Salpêtrière ;
 
 Directeur du groupe hospitalier Cochin-Saint-Vincent-de-Paul-La Roche-Guyon ;
 
@@ -33,3 +33,5 @@ Directeur de l'hôpital Necker ;
 Directeur de l'hôpital Saint-Antoine ;
 
 Directeur de l'hôpital Saint-Louis.
+
+Directeur de projet auprès du directeur général.
