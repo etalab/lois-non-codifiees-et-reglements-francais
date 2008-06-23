@@ -10,11 +10,11 @@ Lorsque dans une épreuve où fonctionne le pari "Trio Ordre", il n'y a aucune m
 
 A défaut de mise sur cette dernière permutation, la masse à partager est répartie au prorata du total des mises sur les permutations des mêmes trois chevaux désignés deuxième, troisième et premier et troisième, premier et deuxième.
 
-A défaut, la masse à partager est répartie au prorata du total des mises sur le cheval classé premier désigné à la première place, avec le cheval classé second désigné à la deuxième place avec l'un quelconque des chevaux ayant participé à la course.
+A défaut et par dérogation à l'article 74.4.I c, la masse à partager est répartie au prorata du total des mises sur le cheval classé premier désigné à la première place avec le cheval classé second désigné à la deuxième place et avec l'un quelconque des chevaux inscrits au programme officiel de la course.
 
-Enfin, à défaut, la masse à partager est répartie au prorata du total des mises sur le cheval classé premier désigné à la première place avec deux quelconque des chevaux ayant participé à la course.
+Enfin, à défaut et par dérogation à l'article 74.4.I b, la masse à partager est répartie au prorata du total des mises sur le cheval classé premier désigné à la première place avec deux quelconque des chevaux inscrits au programme officiel de la course.
 
-A défaut de mise sur ces dernières combinaisons, tous les paris "Trio Ordre" sont remboursés y compris ceux visés à l'article 74.4 ci-dessus.
+A défaut de mise sur ces dernières combinaisons, tous les paris "Trio Ordre" sont remboursés.
 
 3. Arrivée avec "dead-heat".
 
@@ -28,21 +28,21 @@ d) A défaut, de mise sur aucune de ces permutations payables, la répartition s
 
 e) A défaut de mise sur ces dernières permutations, la répartition s'effectue au prorata du total des mises sur les permutations des mêmes trois chevaux désignés deuxième, troisième et premier et troisième, premier et deuxième.
 
-"S'il n'y a aucune mise sur l'une de ces permutations payables, le bénéfice à répartir afférent à cette permutation est réparti dans les mêmes proportions entre les autres permutations payables.
+S'il n'y a aucune mise sur l'une de ces permutations payables, le bénéfice à répartir afférent à cette permutation est réparti dans les mêmes proportions entre les autres permutations payables.
 
 f) A défaut de mise sur aucune de ces permutations payables, et par dérogation à l'article 74.5.2, la masse à partager est répartie de la façon suivante :
 
-- en cas de "dead-heat" de deux chevaux à la première place, au prorata du total des mises sur les permutations des chevaux classés premiers désignés à la première ou à la seconde place, avec l'un quelconque des chevaux ayant participé à la course ;
+- en cas de "dead-heat" de deux chevaux à la première place, au prorata du total des mises sur les permutations des chevaux classés premiers désignés à la première ou à la seconde place, avec l'un quelconque des chevaux inscrits au programme officiel de la course ;
 
-- en cas de dead-heat de trois chevaux ou plus à la première place, au prorata du total des mises sur les permutations de deux des chevaux classés premiers désignés à la première, à la seconde ou à la troisième place, avec l'un quelconque des chevaux ayant participé à la course ;
+- en cas de dead-heat de trois chevaux ou plus à la première place, au prorata du total des mises sur les permutations de deux des chevaux classés premiers désignés à la première, à la seconde ou à la troisième place, avec l'un quelconque des chevaux inscrits au programme officiel de la course ;
 
-- en cas de dead-heat de deux chevaux ou plus à la deuxième place, au prorata du total des mises sur les permutations du cheval classé premier désigné à la première place, d'un des chevaux classés deuxièmes désigné à la deuxième place, avec l'un quelconque des chevaux ayant participé à la course ;
+- en cas de dead-heat de deux chevaux ou plus à la deuxième place, au prorata du total des mises sur les permutations du cheval classé premier désigné à la première place, d'un des chevaux classés deuxièmes désigné à la deuxième place, avec l'un quelconque des chevaux inscrits au programme officiel de la course ;
 
-- en cas de dead-heat de deux chevaux ou plus à la troisième place, au prorata du total des mises sur les permutations du cheval classé premier désigné à la première place, du cheval classé deuxième désigné à la deuxième place, avec l'un quelconque des chevaux ayant participé à la course.
+- en cas de dead-heat de deux chevaux ou plus à la troisième place, au prorata du total des mises sur les permutations du cheval classé premier désigné à la première place, du cheval classé deuxième désigné à la deuxième place, avec l'un quelconque des chevaux inscrits au programme officiel de la course .
 
-g) A défaut de mise sur ces dernières permutations, la masse à partager est répartie au prorata du total des mises sur le ou l'un des chevaux classés premiers désigné à la première place avec deux quelconque des chevaux ayant participé à la course.
+g) A défaut de mise sur ces dernières permutations et par dérogation aux articles 74.4.I b et 74.5.2, la masse à partager est répartie au prorata du total des mises sur le ou l'un des chevaux classés premiers désigné à la première place avec deux quelconque des chevaux inscrits au programme officiel de la course ;
 
-h) A défaut de mise sur ces dernières permutations, tous les paris "Trio Ordre sont remboursés y compris ceux visés à l'article 74.4 ci-dessus.
+h) A défaut de mise sur ces dernières permutations, tous les paris "Trio Ordre" sont remboursés.
 
 4. En aucun cas, un rapport spécial ne peut être réglé aux combinaisons comportant un cheval non partants et les chevaux classés premier et troisième, aux combinaisons comportant un cheval non partant et les chevaux classés deuxième et troisième ou aux combinaisons comportant deux chevaux non partants et le cheval classé deuxième ou troisième.
 

@@ -8,7 +8,7 @@ b) Lorsqu'une combinaison "Couplé gagnant comporte un cheval non partant et l'u
 
 Les combinaisons "Couplé gagnant comportant un cheval non partant et un cheval faisant écurie avec l'un des chevaux classés premiers ne donnent pas droit au paiement du rapport "spécial gagnant" ;
 
-c) Lorsqu'une combinaison "Couplé placé" comporte un cheval non partant et l'un des chevaux classés parmi les deux premiers si la course comportait moins de huit partants, ou parmi les trois premiers si la course comportait huit partants et plus, elle est réglée à un rapport "spécial placé défini à l'article 44, paragraphe 3, ci-dessous ;
+c) Lorsqu'une combinaison "Couplé Placé" comporte un cheval non partant et l'un des chevaux classés parmi les deux premiers si la course comportait moins de huit chevaux inscrits au programme officiel, ou parmi les trois premiers si la course comportait huit chevaux et plus, inscrits au programme officiel, elle est réglée à un rapport "spécial placé" défini à l'article 44, paragraphe 3, ci-dessous ;
 
 d) Toutefois, les dispositions b et c ci-dessus ne s'appliquent pas aux formules "champ total et "champ partiel prévues à l'article 45 ci-après dont le cheval de base est non partant. Dans ce cas, les formules correspondantes sont remboursées.
 

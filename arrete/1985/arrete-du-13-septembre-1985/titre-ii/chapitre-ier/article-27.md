@@ -24,13 +24,13 @@ Dans le cas de plusieurs chevaux classés premiers, le montant de toutes les mis
 
 Lorsque plusieurs chevaux font écurie, les mises sur les divers chevaux d'une écurie et éventuellement les paris du bénéfice à répartir afférentes à ces chevaux sont totalisées et concourent à la détermination d'un rapport "gagnant" unique pour tous les chevaux de la même écurie.
 
-b) Calcul des rapports "placé" dans les courses comportant moins de huit chevaux partants :
+b) Calcul des rapports "placé" dans les courses comportant moins de huit chevaux inscrits au programme officiel  :
 
 S'il y a plus d'un cheval classé premier, le bénéfice à répartir est divisé en autant de parties égales qu'il y a de chevaux classés premiers. Chacune de ces parts est à son tour partagée au prorata du nombre des mises sur chacun de ces chevaux. Les quotients ainsi obtenus, augmentés de l'unité de mise, constituent les rapports bruts à payer pour chacun des chevaux payables.
 
 S'il y a plusieurs chevaux classés deuxièmes, le bénéfice à répartir est divisé en deux parties égales, l'une affectée au cheval classé premier, l'autre partagée en autant de parties égales qu'il y a de chevaux classés deuxièmes. Chacune de ces parts est à son tour partagée au prorata du nombre des mises sur chacun de ces chevaux. Les quotients ainsi obtenus, augmentés de l'unité de mise, constituent les rapports bruts pour chacun des chevaux payables.
 
-c) Calcul des rapports "placé" dans les courses comportant plus de sept chevaux partants :
+c) Calcul des rapports "placé" dans les courses comportant plus de sept chevaux inscrits au programme officiel  :
 
 S'il y a un seul cheval classé premier et un seul cheval classé deuxième, le bénéfice à répartir est divisé en trois parties égales, un tiers affecté au cheval classé premier, un tiers au cheval classé deuxième et un tiers partagé à nouveau en autant de parties égales qu'il y a de chevaux classés troisièmes. Chacune de ces parts est à son tour partagée au prorata du nombre des mises sur chacun de ces chevaux. Les quotients ainsi obtenus, augmentés de l'unité de mise, constituent les rapports bruts pour chacun des chevaux payables.
 
