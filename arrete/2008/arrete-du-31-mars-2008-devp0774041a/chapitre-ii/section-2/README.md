@@ -1,0 +1,3 @@
+# SECTION 2 : METHODES FONDEES SUR LA MESURE.
+
+- [Article 12](article-12.md)
