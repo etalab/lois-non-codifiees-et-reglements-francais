@@ -699,7 +699,6 @@
 - [Arrêté du 19 avril 1995 (BUDL9500035A)](arrete-du-19-avril-1995-budl9500035a)
 - [Arrêté du 19 avril 1995 (ECOT9594329A)](arrete-du-19-avril-1995-ecot9594329a)
 - [Arrêté du 19 avril 1995 (EQUA9500810A)](arrete-du-19-avril-1995-equa9500810a)
-- [Arrêté du 19 avril 1995 (EQUK9500824A)](arrete-du-19-avril-1995-equk9500824a)
 - [Arrêté du 19 avril 1995 (EQUL9500282A)](arrete-du-19-avril-1995-equl9500282a)
 - [Arrêté du 19 avril 1995 (INTE9500232A)](arrete-du-19-avril-1995-inte9500232a)
 - [Arrêté du 19 avril 1995 (INTE9500233A)](arrete-du-19-avril-1995-inte9500233a)
