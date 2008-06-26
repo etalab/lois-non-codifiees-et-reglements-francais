@@ -1,5 +1,7 @@
 # Article Annexe
 
+LISTE DES ACTIVITÉS RELEVANT DE L'ARTISANAT AVEC LEUR CORRESPONDANCE DANS LE CODE DE LA NOMENCLATURE NAF RÉV. 2**.**
+
 **Activités relevant de l'artisanat de l'alimentation**
 
 Transformation et conservation de la viande et préparation de produits à base de viande, 10. 1.
@@ -34,7 +36,7 @@ Commerce de détail de viande, produits à base de viandes sur éventaires et ma
 
 Commerce de détail de poissons, crustacés et mollusques sur éventaires et marchés dont préparations à partir de ces produits (inclus dans 47. 81).
 
-Fabrication de plats prêts à consommer, majoritairement à emporter, associée à la vente au détail (inclus dans 56. 10 C).
+Fabrication de plats prêts à consommer, à emporter, associée à la vente au détail (inclus dans 56. 10 C).
 
 **Activités relevant de l'artisanat du bâtiment**
 
