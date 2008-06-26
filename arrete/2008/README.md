@@ -346,7 +346,6 @@
 - [Arrêté du 13 février 2008 (SJSG0804053A)](arrete-du-13-fevrier-2008-sjsg0804053a)
 - [Arrêté du 13 juin 2008 (DEVA0813806A)](arrete-du-13-juin-2008-deva0813806a)
 - [Arrêté du 13 mars 2008 (AGRG0806565A)](arrete-du-13-mars-2008-agrg0806565a)
-- [Arrêté du 13 mars 2008 (AGRG0806584A)](arrete-du-13-mars-2008-agrg0806584a)
 - [Arrêté du 13 mars 2008 (BCFD0806737A)](arrete-du-13-mars-2008-bcfd0806737a)
 - [Arrêté du 13 mars 2008 (DEVA0801612A)](arrete-du-13-mars-2008-deva0801612a)
 - [Arrêté du 13 mars 2008 (IOCD0806492A)](arrete-du-13-mars-2008-iocd0806492a)
