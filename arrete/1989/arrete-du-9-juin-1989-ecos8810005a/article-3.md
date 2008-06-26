@@ -1,37 +1,29 @@
 # Article 3
 
-La direction des statistiques économiques est organisée comme suit :
+La direction des statistiques d'entreprises est organisée comme suit :
 
-Sont rattachées au directeur des statistiques économiques :
+Le département " répertoires, infrastructures et statistiques structurelles " comprend :
 
--la division de l'agriculture ;
+- la division " élaboration des statistiques annuelles d'entreprise " (ESANE) ;
 
--la division des échanges extérieurs ;
+- la division " répertoire statistique et autres infrastructures " ;
 
--la division des statistiques financières.
+- la division " répertoire interadministratif SIRENE " ;
 
-Le département des répertoires et statistiques d'entreprises comprend [*composition*] :
+- la division " profilage et traitement des grandes unités ".
 
--la division des répertoires d'entreprises et d'établissements ;
+Le département " statistiques de court terme " comprend :
 
--la division des statistiques structurelles des entreprises ;
+- la division " indices de prix de l'industrie et des services " ;
 
--la division des prix de vente industriels ;
+- la division " indicateurs conjoncturels d'activité ".
 
--la division des indicateurs conjoncturels d'activité ;
+Le département " synthèses sectorielles " comprend :
 
--l'unité des statistiques des groupes.
+- la division " agriculture " ;
 
-Le département des comptes nationaux comprend :
+- la division " industrie et études transversales " ;
 
--la division de synthèse générale des comptes nationaux ;
+- la division " commerce " ;
 
--la division des synthèses relatives aux biens et services ;
-
--la division des comptes et études de l'industrie.
-
-Le département des activités tertiaires comprend :
-
--la division du commerce ;
-
--la division des services.
+- la division " services ".
