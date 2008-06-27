@@ -2,6 +2,5 @@
 
 - [TITRE Ier : DE L'ACTION DE L'ÉTAT.](titre-ier)
 - [TITRE IV : LE COMITÉ DES FINANCES LOCALES ET LE FONDS INTERCOMMUNAL DE PÉRÉQUATION.](titre-iv)
-- [TITRE V : RÉFÉRENDUM LOCAL.](titre-v)
 - [TITRE VI : DISPOSITIONS DIVERSES ET FINALES.](titre-vi)
 - [Article 39](article-39.md)
