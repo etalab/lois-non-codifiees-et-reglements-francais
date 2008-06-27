@@ -1,0 +1,3 @@
+# Article 5
+
+La ministre de l'intérieur, de l'outre-mer et des collectivités territoriales, la garde des sceaux, ministre de la justice, le ministre du travail, des relations sociales, de la famille et de la solidarité, le ministre de l'éducation nationale, la ministre de la santé, de la jeunesse, des sports et de la vie associative, la ministre de la culture et de la communication, le secrétaire d'Etat chargé de l'outre-mer et la secrétaire d'Etat chargée de la famille sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.
