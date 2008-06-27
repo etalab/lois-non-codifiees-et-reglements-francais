@@ -839,7 +839,6 @@
 - [Décret n°2007-985 du 15 mai 2007 (DEVO0753479D)](decret-n2007-985-du-15-mai-2007-devo0753479d)
 - [Décret n°2007-986 du 15 mai 2007 (PMEC0753482D)](decret-n2007-986-du-15-mai-2007-pmec0753482d)
 - [Décret n°2007-987 du 15 mai 2007 (PMED0753026D)](decret-n2007-987-du-15-mai-2007-pmed0753026d)
-- [Décret n°2007-988 du 15 mai 2007 (DOMA0753755D)](decret-n2007-988-du-15-mai-2007-doma0753755d)
 - [Décret du 16 janvier 2007 (AGRP0602512D)](decret-du-16-janvier-2007-agrp0602512d)
 - [Décret du 16 janvier 2007 (AGRP0602513D)](decret-du-16-janvier-2007-agrp0602513d)
 - [Décret n° 2007-206 du 16 février 2007 (DOMA0700003D)](decret-n-2007-206-du-16-fevrier-2007-doma0700003d)
