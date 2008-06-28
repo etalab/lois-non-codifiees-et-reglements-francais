@@ -1,0 +1,3 @@
+# Article 3
+
+Le montant de la subvention sélective à l'expression radiophonique accordée à un service de radio au titre de l'année 2008 est déterminé, dans la première quinzaine du deuxième mois de l'année 2009, en multipliant la note pondérée par une valeur obtenue en divisant le montant total des recettes de la taxe (taxe encaissée et recettes diverses) prévue à l'article 302 bis KD du code général des impôts, versée au titre de l'année 2008, déduction faite du prélèvement prévu à l'article 20 du décret du 25 août 2006 susvisé et de la somme des engagements juridiques de l'ensemble des subventions d'installation, d'équipement et d'exploitation attribuées au titre de cette même année, par la somme des notes attribuées aux services de radio.
