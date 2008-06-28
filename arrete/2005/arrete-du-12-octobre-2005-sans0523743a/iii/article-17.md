@@ -5,3 +5,5 @@ Les épreuves d'admissibilité des deux concours se déroulent à des dates fix�
 Les épreuves d'admission ont lieu à Saint-Etienne dans les locaux de l'Ecole nationale supérieure de sécurité sociale.
 
 Les candidats sont convoqués individuellement pour les épreuves. Toutefois, le défaut de réception de la convocation ne saurait engager la responsabilité de l'Ecole nationale supérieure de sécurité sociale.
+
+Tout candidat ne se présentant pas à l'ensemble des épreuves obligatoires d'admissibilité et d'admission ne peut être admis au concours.
