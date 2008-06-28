@@ -476,7 +476,6 @@
 - [Arrêté du 25 février 1987 (INDG8700178A)](arrete-du-25-fevrier-1987-indg8700178a)
 - [Arrêté du 25 juillet 1986](arrete-du-25-juillet-1986)
 - [Arrêté du 25 juin 1987 (ASEH8700941A)](arrete-du-25-juin-1987-aseh8700941a)
-- [Arrêté du 25 juin 1987 (ASET8703480A)](arrete-du-25-juin-1987-aset8703480a)
 - [Arrêté du 25 juin 1987 (DEFP8701308A)](arrete-du-25-juin-1987-defp8701308a)
 - [Arrêté du 25 juin 1987 (INDZ8700374A)](arrete-du-25-juin-1987-indz8700374a)
 - [Arrêté du 25 mars 1987 (REST8700110A)](arrete-du-25-mars-1987-rest8700110a)
