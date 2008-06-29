@@ -86,6 +86,7 @@
 - [Décret du 25 août 2000 (ECOC0000039D)](decret-du-25-aout-2000-ecoc0000039d)
 - [Décret n°2000-1261 du 26 décembre 2000 (JUSB0010494D)](decret-n2000-1261-du-26-decembre-2000-jusb0010494d)
 - [Décret n°2000-1262 du 26 décembre 2000 (JUSB0010495D)](decret-n2000-1262-du-26-decembre-2000-jusb0010495d)
+- [Décret n°2000-1264 du 26 décembre 2000 (MENS0003040D)](decret-n2000-1264-du-26-decembre-2000-mens0003040d)
 - [Décret n°2000-1276 du 26 décembre 2000 (ATET0080030D)](decret-n2000-1276-du-26-decembre-2000-atet0080030d)
 - [Décret n°2000-1277 du 26 décembre 2000 (FPPA0000142D)](decret-n2000-1277-du-26-decembre-2000-fppa0000142d)
 - [Décret n°2000-1278 du 26 décembre 2000 (ECOI0000525D)](decret-n2000-1278-du-26-decembre-2000-ecoi0000525d)
