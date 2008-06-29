@@ -14,302 +14,559 @@ I. - Option générale
 
 Epreuves écrites d'admissibilité
 
-I- MATIÈRES
-
-II- DURÉE
-
-III- COEFFICIENTS
-
-I- Mathématiques (épreuve A)
-
-II- 3 h 30
-
-III- 3
-
-I- Mathématiques (épreuve B)
-
-II- 3 h 30
-
-III- 3
-
-- Physique
-
-II- 3 h 30
-
-III- 4
-
-- Chimie
-
-II- 3 h 30
-
-III- 4
-
-I- Biologie (épreuve A)
-
-II- 3 h 30
-
-III- 5
-
-I- Biologie (épreuve B)
-
-II- 3 h 30
-
-III- 5
-
-I- Composition française
-
-II- 3 heures
-
-III- 5
-
-I- Langue vivante obligatoire (a)
-
-II- 2 heures
-
-III- 4
-
-Total : 33
-
-(a) Cette épreuve porte, au choix du candidat, sur l'une des langues vivantes suivantes : allemand, anglais, espagnol.
+<table>
+<tbody>
+<tr>
+<td width="227">
+<p align="center">MATIÈRES</p>
+</td>
+<td width="227">
+<p align="center">DURÉE</p>
+</td>
+<td width="227">
+<p align="center">COEFFICIENTS</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>Mathématiques (épreuve A)</p>
+</td>
+<td width="227">
+<p align="center">3 h 30</p>
+</td>
+<td width="227">
+<p align="center">3</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>Mathématiques (épreuve B)</p>
+</td>
+<td width="227">
+<p align="center">3 h 30</p>
+</td>
+<td width="227">
+<p align="center">3</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>Physique</p>
+</td>
+<td width="227">
+<p align="center">3 h 30</p>
+</td>
+<td width="227">
+<p align="center">4</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>Chimie</p>
+</td>
+<td width="227">
+<p align="center">3 h 30</p>
+</td>
+<td width="227">
+<p align="center">4</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>Biologie (épreuve A)</p>
+</td>
+<td width="227">
+<p align="center">3 h 30</p>
+</td>
+<td width="227">
+<p align="center">5</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>Biologie (épreuve B)</p>
+</td>
+<td width="227">
+<p align="center">3 h 30</p>
+</td>
+<td width="227">
+<p align="center">5</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>Composition française</p>
+</td>
+<td width="227">
+<p align="center">3 heures</p>
+</td>
+<td width="227">
+<p align="center">5</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>Langue vivante obligatoire (a)</p>
+</td>
+<td width="227">
+<p align="center">2 heures</p>
+</td>
+<td width="227">
+<p align="center">4</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top" width="454">
+<p>Total :</p>
+</td>
+<td width="227">
+<p align="center">33</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" valign="top" width="680">
+<p>(a) Cette épreuve porte, au choix du candidat, sur l'une des langues vivantes suivantes : allemand, anglais, espagnol.</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 Epreuves orales d'admission
 
-I- MATIÈRES
-
-II- T E M P S
-
-De préparation
-
-D'interrogation
-
-III- COEFFICIENTS
-
-I- Géologie
-
-II- 40 minutes
-
-20 minutes
-
-III- 1
-
-I- Mathématiques
-
-II- 30 minutes
-
-30 minutes
-
-III- 1
-
-I- Physique
-
-II- 30 minutes
-
-30 minutes
-
-III- 3
-
-I- Chimie
-
-II- 30 minutes
-
-30 minutes
-
-III- 4
-
-I- Biologie
-
-II- 30 minutes
-
-30 minutes
-
-III- 6
-
-I- TP de biologie animale et végétale
-
-II- -
-
-3 heures
-
-III- 4
-
-I- Travaux d'initiative personnelle encadrés
-
-II- -
-
-30 minutes
-
-III- 6
-
-I- Géographie
-
-II- 30 minutes
-
-30 minutes
-
-III- 1
-
-I- Langue vivante obligatoire (a)
-
-II- 30 minutes
-
-30 minutes
-
-III- 4
-
-I- Langue vivante facultative (b)
-
-II- 30 minutes
-
-30 minutes
-
-III- (3)
-
-I- Informatique facultative (c)
-
-II- 30 minutes
-
-30 minutes
-
-III- (3)
-
-Total : 30 + (6)
-
-(a) Langue vivante obligatoire retenue pour l'admissibilité.
-
-(b) Cette épreuve porte, au choix du candidat, sur l'une des langues vivantes suivantes, différente de celle choisie comme langue vivante obligatoire : allemand, anglais, arabe, espagnol, italien, portugais, russe. Sont seuls pris en compte les points supérieurs à la moyenne, affectés du coefficient correspondant.
-
-(c) Sont seuls pris en compte les points supérieurs à la moyenne, affectés du coefficient correspondant.
+<table>
+<tbody>
+<tr>
+<td rowspan="2" width="170">
+<p align="center">MATIÈRES</p>
+</td>
+<td colspan="2" width="340">
+<p align="center">TEMPS</p>
+</td>
+<td rowspan="2" width="170">
+<p align="center">COEFFICIENTS</p>
+</td>
+</tr>
+<tr>
+<td width="170">
+<p align="center">De préparation</p>
+</td>
+<td width="170">
+<p align="center">D'interrogation</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="170">
+<p>Géologie</p>
+</td>
+<td width="170">
+<p align="center">40 minutes</p>
+</td>
+<td width="170">
+<p align="center">20 minutes</p>
+</td>
+<td width="170">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="170">
+<p>Mathématiques</p>
+</td>
+<td width="170">
+<p align="center">30 minutes</p>
+</td>
+<td width="170">
+<p align="center">30 minutes</p>
+</td>
+<td width="170">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="170">
+<p>Physique</p>
+</td>
+<td width="170">
+<p align="center">30 minutes</p>
+</td>
+<td width="170">
+<p align="center">30 minutes</p>
+</td>
+<td width="170">
+<p align="center">3</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="170">
+<p>Chimie</p>
+</td>
+<td width="170">
+<p align="center">30 minutes</p>
+</td>
+<td width="170">
+<p align="center">30 minutes</p>
+</td>
+<td width="170">
+<p align="center">4</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="170">
+<p>Biologie</p>
+</td>
+<td width="170">
+<p align="center">30 minutes</p>
+</td>
+<td width="170">
+<p align="center">30 minutes</p>
+</td>
+<td width="170">
+<p align="center">6</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="170">
+<p>TP de biologie animale et végétale</p>
+</td>
+<td width="170">
+<br/>
+</td>
+<td width="170">
+<p align="center">3 heures</p>
+</td>
+<td width="170">
+<p align="center">4</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="170">
+<p>Travaux d'initiative personnelle encadrés</p>
+</td>
+<td width="170">
+<br/>
+</td>
+<td width="170">
+<p align="center">30 minutes</p>
+</td>
+<td width="170">
+<p align="center">6</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="170">
+<p>Géographie</p>
+</td>
+<td width="170">
+<p align="center">45 minutes</p>
+</td>
+<td width="170">
+<p align="center">30 minutes</p>
+</td>
+<td width="170">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="170">
+<p>Langue vivante obligatoire (a)</p>
+</td>
+<td width="170">
+<p align="center">30 minutes</p>
+</td>
+<td width="170">
+<p align="center">30 minutes</p>
+</td>
+<td width="170">
+<p align="center">4</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="170">
+<p>Langue vivante facultative (b)</p>
+</td>
+<td width="170">
+<p align="center">30 minutes</p>
+</td>
+<td width="170">
+<p align="center">30 minutes</p>
+</td>
+<td width="170">
+<p align="center">(3)</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="170">
+<p>Informatique facultative (c)</p>
+</td>
+<td width="170">
+<p align="center">30 minutes</p>
+</td>
+<td width="170">
+<p align="center">30 minutes</p>
+</td>
+<td width="170">
+<p align="center">(3)</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" width="510">
+<p>Total : </p>
+</td>
+<td width="170">
+<p align="center">30 + (6)</p>
+</td>
+</tr>
+<tr>
+<td colspan="4" valign="top" width="680">
+<p>(a) Langue vivante obligatoire retenue pour l'admissibilité.</p>
+<p>(b) Cette épreuve porte, au choix du candidat, sur l'une des langues vivantes suivantes, différente de celle choisie comme langue vivante obligatoire : allemand, anglais, arabe, espagnol, italien, portugais, russe. Sont seuls pris en compte les points supérieurs à la moyenne, affectés du coefficient correspondant.</p>
+<p>(c) Sont seuls pris en compte les points supérieurs à la moyenne, affectés du coefficient correspondant.</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 II. Option biochimie-biologie (voir NOTA)
 
 Epreuves écrites d'admissibilité
 
-MATIÈRE
-
-DURÉE
-
-COEFFICIENT
-
-Français
-
-3 heures
-
-2
-
-Sciences de la vie et de la Terre
-
-3 heures
-
-4
-
-Langue vivante obligatoire (1)
-
-2 heures
-
-2
-
-Mathématiques
-
-3 heures
-
-2
-
-Sciences physiques
-
-3 heures
-
-2
-
-Technologie et techniques biologiques et biochimiques
-
-3 heures
-
-4
-
-Total
-
-16
-
-(1) Cette épreuve porte, au choix du candidat, sur l'une des langues vivantes suivantes : allemand, anglais, espagnol.
+<table>
+<tbody>
+<tr>
+<td width="205">
+<p align="center">MATIÈRE</p>
+</td>
+<td width="205">
+<p align="center">DURÉE</p>
+</td>
+<td width="205">
+<p align="center">COEFFICIENT</p>
+</td>
+</tr>
+<tr>
+<td width="205">
+<p>Français</p>
+</td>
+<td width="205">
+<p align="center">3 heures</p>
+</td>
+<td width="205">
+<p align="center">2</p>
+</td>
+</tr>
+<tr>
+<td width="205">
+<p>Sciences de la vie et de la Terre</p>
+</td>
+<td width="205">
+<p align="center">3 heures</p>
+</td>
+<td width="205">
+<p align="center">4</p>
+</td>
+</tr>
+<tr>
+<td width="205">
+<p>Langue vivante obligatoire (1)</p>
+</td>
+<td width="205">
+<p align="center">2 heures</p>
+</td>
+<td width="205">
+<p align="center">2</p>
+</td>
+</tr>
+<tr>
+<td width="205">
+<p>Mathématiques</p>
+</td>
+<td width="205">
+<p align="center">3 heures</p>
+</td>
+<td width="205">
+<p align="center">2</p>
+</td>
+</tr>
+<tr>
+<td width="205">
+<p>Sciences physiques</p>
+</td>
+<td width="205">
+<p align="center">3 heures</p>
+</td>
+<td width="205">
+<p align="center">2</p>
+</td>
+</tr>
+<tr>
+<td width="205">
+<p>Technologie et techniques biologiques et biochimiques</p>
+</td>
+<td width="205">
+<p align="center">3 heures</p>
+</td>
+<td width="205">
+<p align="center">4</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" width="409">
+<p>Total</p>
+</td>
+<td width="205">
+<p align="center">16</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" valign="top" width="614">
+<p>(1) Cette épreuve porte, au choix du candidat, sur l'une des langues vivantes suivantes : allemand, anglais, espagnol.</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 Epreuves orales d'admission
 
-MATIÈRE
-
-TEMPS DE PRÉPARATION
-
-TEMPS D'INTERROGATION
-
-COEFFICIENT
-
-Sciences de la vie et de la Terre
-
-30 minutes
-
-30 minutes
-
-4
-
-Géographie facultative (1)
-
-30 minutes
-
-30 minutes
-
-(1)
-
-Informatique facultative (1)
-
-30 minutes
-
-30 minutes
-
-(1)
-
-Langue vivante obligatoire (2)
-
-30 minutes
-
-30 minutes
-
-2
-
-Langue vivante facultative (3)
-
-30 minutes
-
-30 minutes
-
-(1)
-
-Mathématiques
-
-30 minutes
-
-30 minutes
-
-2
-
-Méthodes et techniques biologiques et biochimiques
-
-30 minutes
-
-30 minutes
-
-2
-
-TIPE
-
-30 minutes
-
-2
-
-Total
-
-16 + (3)
-
-(1) Sont seuls pris en compte les points supérieurs à la moyenne affectés du coefficient correspondant.
-
-(2) Langue vivante obligatoire retenue pour l'admissibilité.
-
-(3) Cette épreuve porte, au choix du candidat, sur l'une des langues vivantes suivantes : allemand, anglais, espagnol. N'entrent en ligne de compte pour le classement que les points au-dessus de la moyenne, affectés du coefficient correspondant.
+<table>
+<tbody>
+<tr>
+<td width="154">
+<p align="center">MATIÈRE</p>
+</td>
+<td width="154">
+<p align="center">TEMPS DE PRÉPARATION</p>
+</td>
+<td width="154">
+<p align="center">TEMPS D'INTERROGATION</p>
+</td>
+<td width="154">
+<p align="center">COEFFICIENT</p>
+</td>
+</tr>
+<tr>
+<td width="154">
+<p>Sciences de la vie et de la Terre</p>
+</td>
+<td width="154">
+<p align="center">30 minutes</p>
+</td>
+<td width="154">
+<p align="center">30 minutes</p>
+</td>
+<td width="154">
+<p align="center">4</p>
+</td>
+</tr>
+<tr>
+<td width="154">
+<p>Géographie facultative (1)</p>
+</td>
+<td width="154">
+<p align="center">30 minutes</p>
+</td>
+<td width="154">
+<p align="center">30 minutes</p>
+</td>
+<td width="154">
+<p align="center">(1)</p>
+</td>
+</tr>
+<tr>
+<td width="154">
+<p>Informatique facultative (1)</p>
+</td>
+<td width="154">
+<p align="center">30 minutes</p>
+</td>
+<td width="154">
+<p align="center">30 minutes</p>
+</td>
+<td width="154">
+<p align="center">(1)</p>
+</td>
+</tr>
+<tr>
+<td width="154">
+<p>Langue vivante obligatoire (2)</p>
+</td>
+<td width="154">
+<p align="center">30 minutes</p>
+</td>
+<td width="154">
+<p align="center">30 minutes</p>
+</td>
+<td width="154">
+<p align="center">2</p>
+</td>
+</tr>
+<tr>
+<td width="154">
+<p>Langue vivante facultative (3)</p>
+</td>
+<td width="154">
+<p align="center">30 minutes</p>
+</td>
+<td width="154">
+<p align="center">30 minutes</p>
+</td>
+<td width="154">
+<p align="center">(1)</p>
+</td>
+</tr>
+<tr>
+<td width="154">
+<p>Mathématiques</p>
+</td>
+<td width="154">
+<p align="center">30 minutes</p>
+</td>
+<td width="154">
+<p align="center">30 minutes</p>
+</td>
+<td width="154">
+<p align="center">2</p>
+</td>
+</tr>
+<tr>
+<td width="154">
+<p>Méthodes et techniques biologiques et biochimiques</p>
+</td>
+<td width="154">
+<p align="center">30 minutes</p>
+</td>
+<td width="154">
+<p align="center">30 minutes</p>
+</td>
+<td width="154">
+<p align="center">2</p>
+</td>
+</tr>
+<tr>
+<td width="154">
+<p>TIPE</p>
+</td>
+<td valign="top" width="154"/>
+<td width="154">
+<p align="center">30 minutes</p>
+</td>
+<td width="154">
+<p align="center">2</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" width="461">
+<p>Total</p>
+</td>
+<td width="154">
+<p align="center">16 + (3)</p>
+</td>
+</tr>
+<tr>
+<td colspan="4" valign="top" width="614">
+<p>(1) Sont seuls pris en compte les points supérieurs à la moyenne affectés du coefficient correspondant.</p>
+<p>(2) Langue vivante obligatoire retenue pour l'admissibilité.</p>
+<p>(3) Cette épreuve porte, au choix du candidat, sur l'une des langues vivantes suivantes : allemand, anglais, espagnol. N'entrent en ligne de compte pour le classement que les points au-dessus de la moyenne, affectés du coefficient correspondant.</p>
+</td>
+</tr>
+</tbody>
+</table>.
