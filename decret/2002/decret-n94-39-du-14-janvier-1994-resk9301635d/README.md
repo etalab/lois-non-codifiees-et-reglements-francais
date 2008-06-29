@@ -6,4 +6,5 @@
 - [TITRE III : EXÉCUTION DU BUDGET](titre-iii)
 - [TITRE IV : COMPTABILITÉ.](titre-iv)
 - [Titre V : Dispositions applicables aux services d'activités industrielles et commerciales](titre-v)
-- [Titre VI : Dispositions finales](titre-vi)
+- [Titre VI : Dispositions applicables aux fondations universitaires.](titre-vi)
+- [Titre VII : Dispositions finales.](titre-vii)

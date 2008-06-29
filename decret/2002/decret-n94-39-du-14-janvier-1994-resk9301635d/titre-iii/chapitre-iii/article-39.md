@@ -1,3 +1,5 @@
 # Article 39
 
-Les délibérations du conseil d'administration relatives aux emprunts sont soumises à l'approbation du ministre chargé de l'enseignement supérieur et du ministre chargé du budget.
+Le recours à l'emprunt est soumis à l'approbation du recteur d'académie, chancelier des universités, et du trésorier-payeur général de région territorialement compétent ou, pour les établissements qui lui sont directement rattachés, du ministre chargé de l'enseignement supérieur et du contrôleur budgétaire et comptable ministériel.
+
+Un emprunt ne peut pas être souscrit pour financer le remboursement des annuités d'emprunt ou du capital.
