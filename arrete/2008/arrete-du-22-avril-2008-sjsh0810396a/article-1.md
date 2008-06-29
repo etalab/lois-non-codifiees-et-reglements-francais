@@ -2,8 +2,6 @@
 
 En application du quatrième alinéa de l'article 1er (I, 2°) du décret du 26 décembre 2007 susvisé, les fonctions de directeur sont exercées par un directeur d'établissements sanitaires, sociaux et médico-sociaux dans les établissements publics de santé suivants :
 
-Hôpital local de Chalamont (Ain) ;
-
 Hôpital local du pays de Gex (Ain) ;
 
 Hôpital local de Méximieux (Ain) ;
@@ -100,8 +98,6 @@ Hôpital local de Saint-Félicien (Ardèche) ;
 
 Hôpital local de Vernoux (Ardèche) ;
 
-Centre hospitalier Paul Ribeyre, à Vals-les-Bains (Ardèche) ;
-
 Hôpital local de Fumay (Ardennes) ;
 
 Hôpital local de Nouzonville (Ardennes) ;
@@ -130,7 +126,7 @@ Centre gérontologique départemental de Marseille (Bouches-du-Rhône) ;
 
 Centre hospitalier d'Allauch (Bouches-du-Rhône) ;
 
-Hôpital local de Tarascon (Bouches-du-Rhône) ;
+Centre hospitalier d'Aunay-sur-Odon (Calvados) ;
 
 Centre hospitalier de Pont-l'Evêque (Calvados) ;
 
@@ -167,6 +163,8 @@ Hôpital local de Bort-les-Orgues (Corrèze) ;
 Centre hospitalier gériatrique de Cornil (Corrèze) ;
 
 Centre hospitalier gériatrique de Beaulieu-sur-Dordogne (Corrèze) ;
+
+Centre hospitalier gériatrique d'Uzerche (Corrèze) ;
 
 Hôpital local de Bonifacio (Corse-du-Sud) ;
 
@@ -256,6 +254,8 @@ Hôpital local de Pont-de-l'Arche (Eure) ;
 
 Hôpital local de Rugles (Eure) ;
 
+Hôpital local de Brou (Eure-et-Loir) ;
+
 Hôpital local de La Loupe (Eure-et-Loir) ;
 
 Hôpital local de Crozon (Finistère) ;
@@ -263,8 +263,6 @@ Hôpital local de Crozon (Finistère) ;
 Hôpital local de Lesneven (Finistère) ;
 
 Hôpital local de Lanmeur (Finistère) ;
-
-Hôpital local de Beaucaire (Gard) ;
 
 Hôpital local de Pont-Saint-Esprit (Gard) ;
 
@@ -349,6 +347,8 @@ Centre hospitalier Louis Sevestre, à La Membrolle-sur-Choisille (Indre-et-Loire
 Centre hospitalier de Luynes (Indre-et-Loire) ;
 
 Hôpital local de Sainte-Maure-de-Touraine (Indre-et-Loire) ;
+
+Centre de soins de longue durée de La Côte-Saint-André (Isère) ;
 
 Hôpital local de Mens (Isère) ;
 
@@ -460,6 +460,8 @@ Hôpital local de Marvejols (Lozère) ;
 
 Hôpital local de Langogne (Lozère) ;
 
+Hôpital local Saint-Nicolas, à Angers (Maine-et-Loire) ;
+
 Hôpital local Aimé Jallot, à Candé (Maine-et-Loire) ;
 
 Hôpital local de Chalonnes-sur-Loire (Maine-et-Loire) ;
@@ -482,13 +484,9 @@ Hôpital local de Carentan (Manche) ;
 
 Hôpital local de Mortain (Manche) ;
 
-Hôpital local de Périers (Manche) ;
-
 Hôpital local de Saint-James (Manche) ;
 
 Hôpital local de Villedieu (Manche) ;
-
-Centre hospitalier de Sézanne (Marne) ;
 
 Hôpital local de Montmirail (Marne) ;
 
@@ -544,8 +542,6 @@ Centre hospitalier de Château-Chinon (Nièvre) ;
 
 Hôpital local de Lormes (Nièvre) ;
 
-Centre de cure médicale de Pignelin, à Varennes-Vauzelles (Nièvre) ;
-
 Centre de long séjour de Saint-Pierre-le-Moutier (Nièvre) ;
 
 Centre hospitalier Henri Dunant, à La Charité-sur-Loire (Nièvre) ;
@@ -592,9 +588,13 @@ Hôpital local de Vimoutiers (Orne) ;
 
 Hôpital local de Saint-Pol-sur-Ternoise (Pas-de-Calais) ;
 
+Centre hospitalier de Bapaume (Pas-de-Calais) ;
+
 Hôpital local d'Hesdin (Pas-de-Calais) ;
 
 Centre hospitalier de Carvin (Pas-de-Calais) ;
+
+Centre hospitalier de Lillers (Pas-de-Calais) ;
 
 Hôpital local d'Aire-sur-la-Lys (Pas-de-Calais) ;
 
@@ -604,15 +604,11 @@ Centre médical Etienne Clémentel, à Enval (Puy-de-Dôme) ;
 
 Hôpital local de Billom (Puy-de-Dôme) ;
 
-Hôpital local Souligoux-Bruat, à Brassac-les-Mines (Puy-de-Dôme) ;
-
 Hôpital local de Mauléon (Pyrénées-Atlantiques) ;
 
 Centre de long séjour intercommunal de Pontacq (Pyrénées-Atlantiques) ;
 
 Hôpital Le Montaigu, à Astugue (Hautes-Pyrénées) ;
-
-Hôpital local de Marckolsheim (Bas-Rhin) ;
 
 Hôpital local de Benfeld (Bas-Rhin) ;
 
@@ -644,15 +640,15 @@ Centre hospitalier de Cernay (Haut-Rhin) ;
 
 Hôpital local de Masevaux (Haut-Rhin) ;
 
-Hôpital local de Rixheim (Haut-Rhin) ;
-
 Hôpital local Dr Thuet à Ensisheim (Haut-Rhin) ;
 
 Hôpital local intercommunal du Val d'Argent, à Sainte-Marie-aux-Mines (Haut-Rhin) ;
 
-Hôpital local de Soultz (Haut-Rhin) ;
+Hôpital local de Soultz-Issenheim (Haut-Rhin) ;
 
 Hôpital local Loewel, à Munster (Haut-Rhin) ;
+
+Hôpital local de Neuf-Brisach (Haut-Rhin) ;
 
 Hôpital local de Ribauvillé (Haut-Rhin) ;
 
@@ -660,9 +656,7 @@ Etablissement public de santé intercommunal du canton Vert, à Orbey (Haut-Rhin
 
 Hôpital local intercommunal de Kaysersberg et Ammerschwihr (Haut-Rhin) ;
 
-Etablissement public de santé de Colmar (Haut-Rhin) ;
-
-Hôpital local intercommunal de Thizy, à Cours-la-Ville (Haut-Rhin) ;
+Centre départemental de repos et de soins de Colmar (Haut-Rhin) ;
 
 Hôpital local de Grandris et Letra, à Grandris (Rhône) ;
 
@@ -681,6 +675,10 @@ Hôpital local de Beaujeu (Rhône) ;
 Hôpital local d'Amplepuis (Rhône) ;
 
 Centre hospitalier gériatrique du Mont-d'Or, à Albigny-sur-Saône (Rhône) ;
+
+Hôpital local intercommunal de Thizy (Rhône) ;
+
+Hôpital local Antonin Achaintre, à Chauffailles (Saône-et-Loire) ;
 
 Hôpital local de La Guiche (Saône-et-Loire) ;
 
@@ -705,8 +703,6 @@ Hôpital local Corsin, à Tramayes (Saône-et-Loire) ;
 Centre hospitalier Aligre, à Bourbon-Lancy (Saône-et-Loire) ;
 
 Hôpital local de Chagny (Saône-et-Loire) ;
-
-Centre hospitalier de Château-du-Loir (Sarthe) ;
 
 Hôpital local du Lude (Sarthe) ;
 
@@ -810,11 +806,13 @@ Hôpital local de Noirmoutier (Vendée) ;
 
 Hôpital local de La Châtaigneraie (Vendée) ;
 
+Hôpital local de Beauvoir-sur-Mer (Vendée) ;
+
+Hôpital local de Bouin (Vendée) ;
+
 Hôpital local de Lusignan (Vienne) ;
 
 Hôpital local intercommunal Monts et Barrages, à Saint-Léonard-de-Noblat (Haute-Vienne) ;
-
-Syndicat interhospitalier de médecine physique et de réadaptation des Vosges, à Golbey (Vosges) ;
 
 Hôpital du Val-du-Madon, à Mirecourt (Vosges) ;
 
@@ -858,13 +856,15 @@ Centre hospitalier de Carnelle, à Saint-Martin-du-Tertre (Val-d'Oise) ;
 
 Hôpital Le Parc, à Taverny (Val-d'Oise) ;
 
-Hôpital local Irénée de Bruyn, à Saint-Barthélemy (Guadeloupe) ;
+Hôpital local de Montfort-l'Amaury (Yvelines) ;
 
 Centre gérontologique du Raizet, aux Abymes (Guadeloupe) ;
 
 Hôpital local de Capesterre Belle-Eau (Guadeloupe) ;
 
 Centre hospitalier Maurice Selbonne, à Bouillante (Guadeloupe) ;
+
+Centre hospitalier Louis-Daniel Beauperthuy, à Pointe-Noire (Guadeloupe).
 
 Hôpital du Marin (Martinique) ;
 
@@ -878,4 +878,6 @@ Hôpital local du François (Martinique) ;
 
 Centre hospitalier Gérard Noël-Augustin, à Saint-Pierre (Martinique) ;
 
-Centre hospitalier intercommunal Lorrain, à Basse-Pointe (Martinique).
+Centre hospitalier intercommunal Lorrain, à Basse-Pointe (Martinique) ;
+
+Hôpital local Irénée de Bruyn (Collectivité d'outre-mer de Saint-Barthélemy) ;
