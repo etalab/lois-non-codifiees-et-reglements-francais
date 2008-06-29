@@ -2,22 +2,22 @@
 
 Il est institué auprès du directeur général de l'administration du ministère des affaires étrangères et européennes les commissions administratives paritaires compétentes à l'égard des corps de fonctionnaires suivants :
 
-- ministres plénipotentiaires ;
+-ministres plénipotentiaires ;
 
-- conseillers des affaires étrangères ;
+-conseillers des affaires étrangères ;
 
-- secrétaires des affaires étrangères et conseillers techniques de service social ;
+-secrétaires des affaires étrangères et conseillers techniques de service social ;
 
-- traducteurs ;
+-traducteurs ;
 
-- attachés des systèmes d'information et de communication ;
+-attachés des systèmes d'information et de communication ;
 
-- assistants de service social ;
+-assistants de service social ;
 
-- secrétaires de chancellerie ;
+-secrétaires de chancellerie ;
 
-- secrétaires des systèmes d'information et de communication ;
+-secrétaires des systèmes d'information et de communication ;
 
-- adjoints administratifs ;
+-adjoints administratifs de chancellerie ;
 
-- adjoints techniques.
+- adjoints techniques de chancellerie.
