@@ -3,7 +3,6 @@
 - [Arrêté du 1 août 2003 (EQUS0301161A)](arrete-du-1-aout-2003-equs0301161a)
 - [Arrêté du 1 avril 2003 (EQUP0300612A)](arrete-du-1-avril-2003-equp0300612a)
 - [Arrêté du 1 avril 2003 (SANS0320595A)](arrete-du-1-avril-2003-sans0320595a)
-- [Arrêté du 1 décembre 2003 (BUDL0300156A)](arrete-du-1-decembre-2003-budl0300156a)
 - [Arrêté du 1 décembre 2003 (DEFP0302353A)](arrete-du-1-decembre-2003-defp0302353a)
 - [Arrêté du 1 décembre 2003 (EQUT0301768A)](arrete-du-1-decembre-2003-equt0301768a)
 - [Arrêté du 1 juillet 2003 (AGRG0301335A)](arrete-du-1-juillet-2003-agrg0301335a)
