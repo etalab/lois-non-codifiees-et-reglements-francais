@@ -8,5 +8,3 @@
 - [Article 60-6](article-60-6.md)
 - [Article 60-7](article-60-7.md)
 - [Article 60-8](article-60-8.md)
-- [Article 61](article-61.md)
-- [Article 62](article-62.md)
