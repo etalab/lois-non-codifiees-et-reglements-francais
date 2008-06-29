@@ -1,8 +1,6 @@
 # Article Annexe
 
-A N N E X E
-
-INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
+**INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES**
 
 Intitulé :
 
@@ -10,39 +8,45 @@ Titre professionnel d'ouvrier du paysage.
 
 Niveau : V.
 
-Code NSF : 214 r.
+Code NSF : 214r.
 
-Résumé du référentiel d'emploi
+Résumé du référentiel d'emploi :
 
-L'ouvrier du paysage intervient dans la création et l'entretien d'espaces verts, de sols sportifs ou d'espaces naturels. A partir de plans et de consignes transmis par son hiérarchique, il participe à l'implantation et au balisage du chantier, il effectue les travaux de préparation du sol et réalise la plantation d'arbres, d'arbustes et de décors floraux, ainsi que l'engazonnement de surfaces à végétaliser. Il peut intervenir pour la pose et la maintenance de réseaux d'arrosage et la réalisation de petits travaux de maçonnerie paysagère.
+L'ouvrier du paysage participe à la création et à l'entretien des espaces verts à vocation ornementale qui améliorent le cadre de vie (parcs et jardins).
 
-Lors des travaux d'entretien, il taille et sélectionne les végétaux en place et peut être amené à effectuer des traitements phytosanitaires sous les directives du responsable du chantier. Il travaille seul ou dans des équipes allant de 2 à 5 personnes.
+Il intervient dans un milieu naturel afin de mettre en valeur le patrimoine végétal (berges de cours d'eau, zones boisées, marécageuses, littorales, de montagne), ou entretenir la forêt (sélection, débroussaillages, petits abattages, etc.).
 
-Il travaille essentiellement en plein air et est, de ce fait, soumis aux aléas climatiques et à la saisonnalité de certaines opérations. Il utilise fréquemment des matériels motorisés et des produits chimiques et/ou organiques dans le respect des mesures de sécurité et de la législation en vigueur.
+Il assure l'aménagement et l'entretien des sols sportifs et des aires de jeux.
 
-L'ouvrier du paysage travaille principalement dans des entreprises du paysage dont la taille moyenne est inférieure à 10 salariés, ou les services espaces verts des collectivités territoriales.
+Ouvrier polyvalent, il s'occupe des végétaux et est aussi capable d'effectuer des travaux de maçonnerie, d'installer des systèmes d'irrigation et d'entretenir le matériel qu'il met en œuvre.
 
-Capacités attestées et descriptif
+Il exerce ses activités, seul ou en équipe, en plein air, en toutes saisons. Il utilise fréquemment des matériels motorisés (parfois bruyants, spécifiques et coûteux) et des produits (chimiques et / ou organiques) dans le respect des mesures de sécurité prévues. En fonction de l'activité de l'entreprise et de la situation géographique des différents chantiers, les déplacements peuvent être fréquents, souvent dans un périmètre permettant un retour quotidien au domicile ; le travail implique parfois des horaires adaptés (journée continue, etc.).
 
-des composantes de la certification
+L'ouvrier du paysage travaille principalement dans des entreprises du paysage dont la taille moyenne est inférieure à dix salariés, ou les services espaces verts des collectivités territoriales.
 
-1. Réaliser la pose et l'entretien des circulations,
+**Capacités attestées et descriptif des composantes de la certification**
 
-dallages, pavages et équipements d'espaces verts
+1. Entretenir un espace vert ornemental
 
-Poser des réseaux dans le cadre d'un chantier d'espaces verts (hors arrosage).
+Tondre et entretenir un gazon.
 
-Réaliser des dallages et des pavages dans le cadre d'un chantier d'espaces verts.
+Débroussailler mécaniquement une zone herbacée et semi-ligneuse.
 
-Poser des bordures dans le cadre d'un chantier d'espaces verts.
+Exécuter les façons culturales et les soins lors de l'entretien d'un espace vert.
 
-Poser et entretenir des équipements de parcs et jardins (jeux, mobiliers, clôtures...).
+Tailler un arbre de petite dimension ou un arbuste.
 
-Entretenir des surfaces minérales de parcs et jardins.
+Tailler une haie.
 
-Traiter une surface minérale dans un espace paysagé.
+Abattre depuis le sol, et débiter des arbres de petite dimension.
 
-2. Planter des arbres, des arbustes et des décors floraux
+Appliquer un produit phytopharmaceutique sur des végétaux.
+
+Entretenir un réseau d'arrosage.
+
+2. Planter et engazonner des espaces verts
+
+Réaliser un gazon.
 
 Planter un arbre tige, un conifère.
 
@@ -50,51 +54,25 @@ Planter un massif d'arbustes, une haie.
 
 Planter un décor floral.
 
-3. Entretenir des arbres, des massifs d'arbustes
+Réaliser un paillage pour une plantation.
 
-et des décors floraux
+3. Poser et entretenir des circulations, dallages, pavages et équipements d'espaces verts
 
-Tailler des arbres ornementaux.
+Poser des réseaux dans le cadre d'un chantier d'espaces verts (hors arrosage).
 
-Tailler des haies et des arbustes.
+Poser des dallages et des pavages dans le cadre d'un chantier d'espaces verts.
 
-Abattre depuis le sol et débiter des arbres de petite dimension (diamètre inférieur a 100 mm).
+Poser des éléments réguliers de bordure dans le cadre d'un chantier d'espaces verts.
 
-Exécuter les façons culturales et les soins lors de l'entretien d'un espace vert (binage, contrôle des tuteurs, etc.).
+Sceller, monter et entretenir des équipements de parcs et jardins.
 
-Traiter des arbres et des arbustes ornementaux.
+Entretenir des surfaces minérales de parcs et jardins.
 
-Mettre hors gel et remettre en service les installations d'arrosage d'espaces verts.
+Traiter une surface minérale dans un espace paysagé.
 
-Effectuer les réglages et les petites réparations sur un réseau d'arrosage d'espaces verts.
+**Secteurs d'activités ou types d'emploi accessibles par le détenteur du titre**
 
-4. Créer et entretenir des gazons
-
-et des zones herbacées et semi-ligneuses
-
-Préparer le sol en vue de la réalisation d'un gazon.
-
-Semer un gazon.
-
-Réaliser un gazon de placage.
-
-Tondre un gazon.
-
-Réaliser l'entretien spécifique des gazons (scarification, aération, etc.).
-
-Débroussailler mécaniquement une zone herbacée et semi-ligneuse.
-
-Traiter un gazon, une zone herbacée et semi-ligneuse.
-
-Mettre hors gel et remettre en service les installations d'arrosage d'espaces verts.
-
-Effectuer les réglages et les petites réparations sur un réseau d'arrosage d'espaces verts.
-
-Secteurs d'activités ou types d'emploi
-
-accessibles par le détenteur du titre
-
-Les GEIQ (Groupements d'entreprises pour l'insertion et la qualification) espaces verts.
+Les GEIQ (Groupement d'entreprises pour l'insertion et la qualification) espaces verts.
 
 Les entreprises de travaux forestiers et de reboisement.
 
@@ -112,13 +90,13 @@ Des propriétaires privés.
 
 Code ROME :
 
-41113 - Jardinier/jardinière d'espaces verts.
+41113 : jardinier (ère) d'espaces verts.
 
 Réglementation de l'activité :
 
-Certificat d'aptitude à la conduite d'engins en sécurité. (CACES).
+Certificat d'aptitude à la conduite d'engins en sécurité (CACES) ;
 
-Certificat pour les applicateurs et distributeurs de produits anti-parasitaires à usage agricole et produits assimilés.
+Certificat pour les applicateurs et distributeurs de produits antiparasitaires à usage agricole et produits assimilés.
 
 Autorité responsable de la certification :
 
@@ -126,8 +104,6 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale.
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Décret n° 2002-1029 du 2 août 2002.
-
-Arrêté du 25 novembre 2002.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
