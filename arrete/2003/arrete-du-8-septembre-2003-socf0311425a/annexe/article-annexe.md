@@ -8,95 +8,79 @@ Titre professionnel de constructeur professionnel en voirie et réseaux.
 
 Niveau : V.
 
-Code NSF : 231 s.
+Code NSF : 231s.
 
-**Résumé du référentiel d'emploi**
+Résumé du référentiel d'emploi :
 
-Le constructeur professionnel en voirie et réseaux réalise des travaux de construction et d'entretien des routes et voiries (couches de chaussée, bordures et caniveaux, pavage, petite maçonnerie d'aménagement urbain). Il réalise la pose de canalisations et accessoires et la construction d'ouvrages pour les réseaux d'eau potable, d'eaux usées, d'eaux pluviales et la pose de fourreaux pour les réseaux électriques et de télécommunication.
+Le constructeur professionnel en voirie et réseaux réalise des travaux de petite fondation, de construction, de réparation et d'entretien sur les routes et voiries (couches de chaussée, bordures et caniveaux, pavage, petite maçonnerie d'aménagement urbain). Il réalise les raccordements aux réseaux enterrés des différents concessionnaires d'eau potable, d'eaux usées, d'eaux pluviales et la pose de fourreaux pour les réseaux secs.
 
-Les chantiers qu'il réalise peuvent être situés en agglomération ou dans la nature, à l'emplacement de futurs lotissements. Ils peuvent être de taille variable, petite pour une réparation ou de taille plus importante pour un lotissement ou pour l'assainissement d'une zone industrielle. Il travaille généralement dans une équipe de 3 à 6 personnes sous les directives du chef de chantier. Il utilise du matériel motorisé ainsi que des petits engins de servitude (petit compacteur, tronçonneuse à matériaux, etc.) dans le respect de la législation et des consignes de sécurité qui lui ont été transmises.
+Il exerce principalement son activité dans les entreprises de travaux publics des domaines de la route ou des réseaux enterrés, et / ou au sein d'entreprises qui réalisent des chantiers dans leur ensemble (terrassements, construction et rénovation de voiries et d'aménagements urbains, assainissement, adduction d'eau potable [AEP], réseaux de télécommunications).
 
-Il exerce principalement son activité dans les entreprises de travaux routiers, de canalisations, et au sein d'entreprises qui réalisent des chantiers dans leur ensemble (terrassements - réseaux enterrés - construction et réfection de chaussées). Il travaille principalement en extérieur dans des conditions soumises aux aléas climatiques.
+Il travaille dans une équipe de 3 à 6 personnes, essentiellement à l'extérieur, dans un environnement de chantier à proximité d'engins de terrassement et de transport. Il peut être amené à utiliser des engins de servitude pouvant nécessiter la possession d'une autorisation de conduite lorsqu'ils sont autoportés. Les chantiers peuvent se situer sur un site dégagé (rase campagne) ou en milieu encombré (site urbain avec circulation importante ou non, villages, réseaux existants dans l'emprise des travaux).
 
-Il doit posséder un bon contact humain et être capable de travailler en équipe. La localisation des chantiers peut l'amener à effectuer des déplacements, et parfois des horaires de travail adaptés (travail de nuit, journée continue).
+Capacités attestées et descriptif des composantes de la certification.
 
-**Capacités attestées et descriptif des composantes de la certification**
+**1. Poser des bordures, des caniveaux, des pavés autobloquants et des dalles de circulation en béton**
 
-1. Réaliser la pose de bordures, de caniveaux, de pavés autobloquants et de dalles de circulation en béton
+Participer à la mise en sécurité d'un chantier de voirie et réseaux.
 
-Effectuer la mise en place de la signalisation de chantier, conformément au plan et en connaissance des symboles et panneaux.
+Réaliser les implantations secondaires et les relevés d'ouvrages de voirie et de réseaux divers.
 
-Réaliser des implantations simples à partir des plans et en utilisant le décamètre, l'équerre optique, et le niveau de chantier.
+Exécuter les terrassements manuels, avec utilisation éventuelle du brise-béton, ou suivre le terrassement mécanique des fouilles pour bordures, caniveaux, pavés et dalle.
 
-Réaliser des relevés simples en utilisant le décamètre, l'équerre optique et le niveau de chantier.
+Poser des bordures et des caniveaux.
 
-Exécuter les terrassements manuels, avec utilisation éventuelle du brise-béton, ou suivre le terrassement mécanique des fouilles pour bordures, caniveaux, pavés et dalles.
+Poser des pavés (béton et pierre naturelle) et des dalles béton.
 
-Réaliser les lits de pose en béton ou en sable pour les bordures, les caniveaux, les pavés et les dalles.
+Sceller des fontes de voirie.
 
-Effectuer la pose et le jointoiement des bordures et des caniveaux.
+**2. Construire des ouvrages de petite maçonnerie de voirie et d'aménagement urbain en béton et mettre en place des éléments préfabriqués (dallages béton, murets, massifs pour candélabres, mobilier urbain)**
 
-Réaliser la pose et le jointoiement des pavés autobloquants et des dalles.
+Participer à la mise en sécurité d'un chantier de voirie et réseaux.
 
-2. Réaliser des ouvrages de petite maçonnerie de voirie et d'aménagements urbains (murets, massifs pour candélabres, mobilier urbain)
+Réaliser les implantations secondaires et les relevés d'ouvrages de voirie et de réseaux divers.
 
-Effectuer la mise en place de la signalisation de chantier, conformément au plan et en connaissance des symboles et panneaux.
+Construire en béton des petits ouvrages d'aménagement urbain (fondations, bacs à fleurs, murets, etc.).
 
-Réaliser des implantations simples à partir des plans et en utilisant le décamètre, l'équerre optique, et le niveau de chantier.
+Poser des éléments d'aménagement urbain préfabriqués.
 
-Réaliser des relevés simples en utilisant le décamètre, l'équerre optique et le niveau de chantier.
+Réaliser un dallage béton pour un ouvrage de voirie en aménagement urbain.
 
-Terrasser, et remblayer en utilisant rationnellement des engins de servitude (minipelle, minicompacteur, moto-basculeur) et faire l'entretien de premier niveau.
+Construire et enduire un mur en aggloméré pour un ouvrage de voirie et réseaux divers.
 
-Couler les fondations des éléments d 'aménagement urbain (bacs à fleurs, bornes, bancs...)
+**3. Réaliser les raccordements aux réseaux humides et construire un réseau sec enterré**
 
-Effectuer la pose des éléments d'aménagement urbain.
+Participer à la mise en sécurité d'un chantier de voirie et réseaux.
 
-3. Réaliser la pose de canalisations de petits diamètres (adduction d'eau potable, assainissement, autres réseaux), de fourreaux et de regards préfabriqués
+Réaliser les implantations secondaires et les relevés d'ouvrages de voirie et de réseaux divers.
 
-Effectuer la mise en place de la signalisation de chantier, conformément au plan et en connaissance des symboles et panneaux.
+Réaliser un branchement particulier sur un réseau d'adduction d'eau potable.
 
-Réaliser des implantations simples à partir des plans et en utilisant le décamètre, l'équerre optique, et le niveau de chantier.
+Réaliser un branchement particulier sur un réseau d'eaux usées ou d'eaux pluviales, et raccorder un avaloir au collecteur.
 
-Réaliser des relevés simples en utilisant le décamètre, l'équerre optique et le niveau de chantier.
+Poser des fourreaux et une chambre de tirage pour des réseaux de télécommunication ou d'éclairage public.
 
-Terrasser, et remblayer en utilisant rationnellement des engins de servitude (minipelle, minicompacteur, moto-basculeur) et faire l'entretien de premier niveau.
+**4. Réaliser manuellement les différentes couches de chaussée, y compris les applications d'enrobés à chaud et à froid**
 
-Exécuter les terrassements manuels, avec utilisation éventuelle du brise-béton, ou suivre le terrassement mécanique des tranchées pour canalisations, regards et ouvrages annexes.
+Participer à la mise en sécurité d'un chantier de voirie et réseaux.
 
-Réaliser la pose et l'assemblage des canalisations, fourreaux, regards et ouvrages annexes.
+Réaliser les implantations secondaires et les relevés d'ouvrages de voirie et de réseaux divers.
 
-Effectuer le remblaiement et le compactage des tranchées.
+Réaliser les assises de chaussées.
 
-Procéder aux essais et épreuves des réseaux.
+Mettre en œuvre manuellement les enrobés à froid et à chaud.
 
-4. Réaliser les différentes couches de chaussée, y compris les applications d'enrobés à chaud et à froid
+Secteurs d'activités ou types d'emploi accessibles par le détenteur du titre :
 
-Effectuer la mise en place de la signalisation de chantier, conformément au plan et en connaissance des symboles et panneaux.
-
-Réaliser des implantations simples à partir des plans et en utilisant le décamètre, l'équerre optique, et le niveau de chantier.
-
-Réaliser des relevés simples en utilisant le décamètre, l'équerre optique et le niveau de chantier.
-
-Terrasser, et remblayer en utilisant rationnellement des engins de servitude (minipelle, minicompacteur, moto-basculeur) et faire l'entretien de premier niveau.
-
-Réaliser ou participer à la mise en oeuvre des matériaux des assises de chaussée.
-
-Réaliser ou participer à la mise en oeuvre des enrobés à froid et à chaud.
-
-**Secteurs d'activités ou types d'emploi accessibles par le détenteur du titre**
-
-Les entreprises de travaux publics tous domaines (route, canalisations, génie civil, réseaux).
-
-Les services techniques des municipalités.
+Les entreprises de travaux publics tous domaines (route, canalisation, génie civil, réseaux).
 
 Code ROME :
 
-42112 - Ouvrier/ouvrière des travaux publics.
+42112 : ouvrier (ère) des travaux publics.
 
 Réglementation de l'activité :
 
-Certificat d'aptitude à la conduite d'engins en sécurité (CACES) :
+Certificat d'aptitude à la conduite d'engins en sécurité (CACES) ;
 
 Habilitation pour les travaux électriques (norme C18-510).
 
@@ -106,8 +90,6 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Art.L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
-
-Arrêté du 25 novembre 2002.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
