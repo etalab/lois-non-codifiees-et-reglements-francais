@@ -696,7 +696,6 @@
 - [Arrêté du 23 décembre 2004 (AGRF0402659A)](arrete-du-23-decembre-2004-agrf0402659a)
 - [Arrêté du 23 décembre 2004 (AGRF0402660A)](arrete-du-23-decembre-2004-agrf0402660a)
 - [Arrêté du 23 décembre 2004 (DEFP0401271A)](arrete-du-23-decembre-2004-defp0401271a)
-- [Arrêté du 23 décembre 2004 (MAEA0420525A)](arrete-du-23-decembre-2004-maea0420525a)
 - [Arrêté du 23 décembre 2004 (PRMX0407906A)](arrete-du-23-decembre-2004-prmx0407906a)
 - [Arrêté du 23 décembre 2004 (SANS0424430A)](arrete-du-23-decembre-2004-sans0424430a)
 - [Arrêté du 23 février 2004 (SANH0420671A)](arrete-du-23-fevrier-2004-sanh0420671a)
