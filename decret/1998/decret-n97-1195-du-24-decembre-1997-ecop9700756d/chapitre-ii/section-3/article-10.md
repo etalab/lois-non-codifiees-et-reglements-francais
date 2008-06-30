@@ -4,11 +4,13 @@ Sont prises par les directeurs interrégionaux, les chefs de service interrégio
 
 1° Octroi du statut d'exportateur agréé en application de l'article 21 du protocole 4 de l'accord sur l'Espace économique européen relatif aux règles d'origine, ainsi que des accords d'association entre les Communautés européennes et leurs Etats membres et les pays tiers ;
 
-2° Autorisation de recourir au régime du préfinancement valable dans une ou plusieurs circonscriptions régionales douanières françaises prévue par les articles 4, 5 et 7 du règlement (CE) n° 565/80 du Conseil du 4 mars 1980 susvisé ;
+2° Autorisation de recourir au régime du préfinancement valable dans une ou plusieurs circonscriptions régionales douanières françaises prévue par les articles 4, 5 et 7 du règlement (CE) n° 565 / 80 du Conseil du 4 mars 1980 susvisé ;
 
 2 bis Autorisation d'importer et d'exporter des marchandises en franchise de droits de douane, prévue par le règlement du 28 mars 1983 susvisé ;
 
-2 ter Suspension de la mainlevée et retenue des marchandises prévues au 1 des articles 4 et 9 du règlement (CE) n° 1383/2003 du Conseil du 22 juillet 2003 ;
+2 ter Suspension de la mainlevée et retenue des marchandises prévues au 1 des articles 4 et 9 du règlement (CE) n° 1383 / 2003 du Conseil du 22 juillet 2003 ;
+
+2 quater : Décisions de prélèvement d'échantillons et de leur remise au titulaire du droit, prévues par l'article 9 du règlement (CE) n° 1383 / 2003 du Conseil du 22 juillet 2003 et par les articles L. 521-17 et L. 716-8-3 du code de la propriété intellectuelle ;
 
 3° Décisions de sanctions en matière de déclaration périodique, prévues par l'article 15 ter de la loi du 17 juillet 1992 susvisée ;
 
@@ -44,7 +46,7 @@ Sont prises par les directeurs interrégionaux, les chefs de service interrégio
 
 21° Octroi de l'exonération des taxes intérieures de consommation sur le fioul lourd et le gaz naturel pour les sites d'implantation des installations de cogénération prévue par l'article 2 de l'arrêté du 5 novembre 1993 fixant les modalités de déclaration des installations de cogénération et d'octroi de l'exonération des taxes intérieures de consommation sur le fioul lourd et le gaz naturel ;
 
-22° Autorisation d'utiliser du carburéacteur "sous condition d'emploi" prévue par l'alinéa 2 de l'article 3 de l'arrêté du 6 décembre 1993 fixant les mesures auxquelles doivent se conformer les fournisseurs et les utilisateurs de carburéacteur "sous condition d'emploi" pour les besoins du contrôle fiscal de ce produit ;
+22° Autorisation d'utiliser du carburéacteur " sous condition d'emploi " prévue par l'alinéa 2 de l'article 3 de l'arrêté du 6 décembre 1993 fixant les mesures auxquelles doivent se conformer les fournisseurs et les utilisateurs de carburéacteur " sous condition d'emploi " pour les besoins du contrôle fiscal de ce produit ;
 
 23° Autorisation de transmission directe de données mises en forme par le système informatique propre à l'assujetti à la déclaration d'échanges de biens prévue par l'article 1er de l'arrêté du 19 décembre 1994 portant approbation du cahier des charges pour la transmission par voie informatique de la déclaration d'échanges de biens entre Etats membres de la Communauté européenne ;
 
