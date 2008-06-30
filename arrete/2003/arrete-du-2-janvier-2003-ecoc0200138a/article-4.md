@@ -2,9 +2,9 @@
 
 La liste des additifs dont l'emploi est autorisé dans la fabrication des matériaux et objets en matière plastique figure au chapitre II de l'annexe, sections A et B, aux conditions qui y sont formulées.
 
-En outre, les additifs, tels que définis au point 1 de l'instruction générale du chapitre II précité, qui ne sont pas cités dans la liste susvisée, sont autorisés provisoirement dans l'attente de leur inscription sur la liste communautaire des additifs, s'ils ont fait l'objet d'un avis favorable du Conseil supérieur d'hygiène publique de France ou de l'Agence française de sécurité sanitaire des aliments.
+Toutefois, peuvent également être utilisés, dans les conditions prévues par la réglementation nationale, les additifs figurant sur la liste établie par la Commission des Communautés européennes, en application de l'article 4 bis de la directive 2002 / 72 du 6 août 2002 concernant les matériaux et objets en plastique destinés à entrer en contact avec les denrées alimentaires.
 
-Pour les substances du chapitre II de l'annexe, section B, les limites de migration spécifique s'appliquent, dans le simulant D ou dans les milieux d'essai de tests de substitution prévus dans les directives 82/711/CEE modifiée et 85/572/CEE susvisées, à partir du 30 juin 2006.
+Pour les substances du chapitre II de l'annexe, section B, les limites de migration spécifique s'appliquent, dans le simulant D ou dans les milieux d'essai de tests de substitution prévus dans les directives 82/711/CEE modifiée et 85/572/CEE susvisées, à partir du 1er mai 2008.
 
 Les dispositions de cet article ne s'appliquent pas aux additifs figurant dans les listes des sections A et B du chapitre II de l'annexe, lorsque ces additifs ont les destinations suivantes :
 
