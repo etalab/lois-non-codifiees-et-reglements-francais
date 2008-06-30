@@ -1,6 +1,5 @@
 # Annexes
 
-- [Article Annexe](article-annexe.md)
 - [Article Annexe Chapitre Ier](article-annexe-chapitre-ier.md)
 - [Article Annexe Chapitre II](article-annexe-chapitre-ii.md)
 - [Article Annexe Chapitre III et III-2](article-annexe-chapitre-iii-et-iii-2.md)
