@@ -1,6 +1,6 @@
 # Article 15
 
-La pension est assise sur la moyenne des rémunérations soumises à retenues, perçues [*assiette*] :
+La pension est assise sur la moyenne des rémunérations soumises à retenues, perçues :
 
 Pendant les trois meilleures années consécutives pour le personnel artistique du chant, de la danse, des choeurs et de l'orchestre, y compris les chefs d'orchestre ;
 
@@ -8,7 +8,7 @@ Pendant les six derniers mois pour les autres personnels.
 
 Lorsque l'intéressé a appartenu successivement aux deux catégories, la pension est assise sur la moyenne pondérée en fonction de la durée d'activité dans chaque catégorie des rémunérations mentionnées au précédent alinéa perçues au titre de chaque catégorie.
 
-Les rémunérations mentionnées au premier alinéa sont revalorisées avant toute comparaison des rétributions perçues, pour la période séparant la date de leur échéance de celle de la liquidation de la pension, dans la même proportion que la revalorisation des traitements et soldes annuels bruts correspondant au groupe hors échelle G des personnels civils et militaires de l'Etat, des personnels des collectivités territoriales et des établissements publics d'hospitalisation.
+Les rémunérations mentionnées au premier alinéa sont revalorisées avant toute comparaison des rétributions perçues, pour la période séparant la date de leur échéance de celle de la liquidation de la pension conformément aux dispositions de l'article 17 ci-après.
 
 Toutefois, la rémunération à prendre en compte pour la liquidation de la pension ne peut excéder le maximum prévu au deuxième alinéa de l'article 3.
 

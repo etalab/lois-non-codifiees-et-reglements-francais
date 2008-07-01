@@ -1,7 +1,5 @@
 # Article 35
 
-En aucun cas il ne peut être tenu compte, dans la liquidation d'une pension acquise au titre du présent décret, du temps décompté dans la liquidation d'une pension acquise au titre de l'une des collectivités énumérées à l'article L. 84 du Code des pensions civiles et militaires de retraite.
-
 Le cumul de deux ou plusieurs pensions acquises au titre de services rendus dans des emplois successifs est autorisé.
 
 Le cumul, par un conjoint survivant, de plusieurs pensions obtenues du chef d'agents différents au titre du présent décret et des régimes de retraites des collectivités énumérées à l'article L. 84 du Code des pensions civiles et militaires de retraite est interdit.
