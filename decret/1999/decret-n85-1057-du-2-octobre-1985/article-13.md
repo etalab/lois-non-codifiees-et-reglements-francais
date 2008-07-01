@@ -1,3 +1,7 @@
 # Article 13
 
-La délégation aux affaires internationales coordonne les actions internationales à caractère bilatéral ou multilatéral mises en oeuvre par les directions et services énumérés au I et aux 2°, 3° et 4° du II de l'article 1er.
+La direction centrale de la police judiciaire est une direction active de la direction générale de la police nationale.
+
+Elle concourt à l'exercice des missions de police judiciaire sur l'ensemble du territoire et, notamment, à la prévention et à la répression des formes spécialisées, organisées ou transnationales de la délinquance et de la criminalité.
+
+Elle assure la surveillance des établissements de jeux et des champs de courses.
