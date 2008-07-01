@@ -6,4 +6,4 @@ Les affectations territoriales des fonctionnaires s'effectuent, avec mention de 
 
 - au niveau du district de sécurité publique ;
 
-- au niveau de la direction départementale de la sécurité publique.
+- au niveau de la direction départementale de la sécurité publique et, le cas échéant, de la sûreté départementale ou du service départemental d'information générale.
