@@ -1,7 +1,5 @@
 # Article 11
 
-Les fonctionnaires appartenant à un cadre d'emplois ou à un corps de catégorie B, ou titulaires d'un emploi de même niveau, sont classés à l'échelon du grade d'animateur comportant un indice égal ou, à défaut, immédiatement supérieur à celui qu'ils détenaient dans leur grade ou leur emploi d'origine.
+Dans un délai de deux ans après leur nomination prévue aux articles 7 et 8 ci-dessus, ou leur détachement prévu à l'article 21 ci-dessous, les membres du présent cadre d'emplois sont astreints à suivre une formation de professionnalisation au premier emploi, dans les conditions prévues par le décret n° 2008-512 du 29 mai 2008 et pour une durée totale de cinq jours.
 
-Dans la limite de l'ancienneté maximale exigée pour une promotion à l'échelon supérieur, ils conservent l'ancienneté d'échelon acquise dans leur précédent grade ou emploi lorsque l'augmentation de traitement consécutive à leur titularisation est inférieure à celle qui résulterait d'un avancement d'échelon dans leur ancienne situation.
-
-Les candidats nommés alors qu'ils ont atteint l'échelon le plus élevé de leur précédent grade ou emploi conservent leur ancienneté d'échelon dans les mêmes conditions et limites lorsque l'augmentation de traitement consécutive à leur titularisation est inférieure à celle qui résulte de leur élévation audit échelon.
+En cas d'accord entre l'agent et l'autorité territoriale dont il relève, la durée mentionnée à l'alinéa précédent peut être portée au maximum à dix jours.

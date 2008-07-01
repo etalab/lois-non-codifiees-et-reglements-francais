@@ -1,6 +1,6 @@
 # Article 7
 
-Les candidats inscrits sur la liste d'aptitude au titre du 2° de l'article 5 ci-dessus et recrutés sur un emploi d'une des collectivités ou établissements publics mentionnés à l'article 2 peuvent demander à suivre au cours de leur stage une formation en santé publique d'une durée de un an.
+Les candidats inscrits sur la liste d'aptitude au titre de l'article 5 ci-dessus et recrutés sur un emploi d'une des collectivités ou établissements publics mentionnés à l'article 2 peuvent demander à suivre au cours de leur stage une formation en santé publique d'une durée de un an.
 
 Cette formation peut être organisée par voie de convention entre le Centre national de la fonction publique territoriale et l'Ecole nationale de la santé publique.
 

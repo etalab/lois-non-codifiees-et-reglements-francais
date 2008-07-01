@@ -1,6 +1,6 @@
 # Article 9
 
-A l'issue du stage, les stagiaires dont les services ont donné satisfaction sont titularisés par décision de l'autorité territoriale investie du pouvoir de nomination.
+A l'issue du stage, les stagiaires dont les services ont donné satisfaction sont titularisés par décision de l'autorité territoriale investie du pouvoir de nomination au vu, notamment, d'une attestation de suivi de la formation d'intégration établie par le Centre national de la fonction publique territoriale.
 
 Les autres stagiaires peuvent, sur décision de l'autorité territoriale, être autorisés à effectuer un stage complémentaire d'une durée maximale d'un an. Si le stage complémentaire a été jugé satisfaisant, les intéressés sont titularisés.
 

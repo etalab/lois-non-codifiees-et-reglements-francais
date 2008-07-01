@@ -1,4 +1,4 @@
-# TITRE III : NOMINATION, FORMATION INITIALE ET TITULARISATION.
+# TITRE III : NOMINATION, TITULARISATION ET FORMATION OBLIGATOIRE.
 
 - [Article 9](article-9.md)
 - [Article 10](article-10.md)
@@ -7,3 +7,5 @@
 - [Article 13-1](article-13-1.md)
 - [Article 13-2](article-13-2.md)
 - [Article 14](article-14.md)
+- [Article 14-1](article-14-1.md)
+- [Article 14-2](article-14-2.md)

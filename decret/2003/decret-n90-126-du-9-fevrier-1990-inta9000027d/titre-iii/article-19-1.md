@@ -1,3 +1,3 @@
 # Article 19-1
 
-Lorsque l'application des dispositions des articles 17 à 19 aboutit à classer les agents intéressés à un échelon doté d'un indice de traitement inférieur à celui qu'ils détenaient dans leur grade ou emploi précédent, les intéressés conservent, à titre personnel, le bénéfice de leur indice ou traitement antérieur jusqu'au jour où ils bénéficient dans le nouveau grade d'un indice au moins égal.
+Lorsqu'ils accèdent à un poste à responsabilité, au sens de l'article 15 du décret n° 2008-512 du 29 mai 2008, les membres du présent cadre d'emplois sont astreints à suivre, dans un délai de six mois à compter de leur affectation sur l'emploi considéré, une formation, d'une durée de trois jours, dans les conditions prévues par le même décret.

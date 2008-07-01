@@ -2,7 +2,7 @@
 
 - [CHAPITRE Ier : Dispositions générales.](chapitre-ier)
 - [CHAPITRE II : Modalités de recrutement.](chapitre-ii)
-- [CHAPITRE III : Nomination et titularisation.](chapitre-iii)
+- [CHAPITRE III : Nomination, titularisation et formation obligatoire.](chapitre-iii)
 - [CHAPITRE IV : Avancement.](chapitre-iv)
 - [CHAPITRE V : Détachement.](chapitre-v)
 - [CHAPITRE VI : Dispositions transitoires et finales.](chapitre-vi)
