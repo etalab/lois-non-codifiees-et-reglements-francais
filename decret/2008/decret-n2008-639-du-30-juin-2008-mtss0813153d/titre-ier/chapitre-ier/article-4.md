@@ -1,0 +1,3 @@
+# Article 4
+
+Les agents reconnus atteints d'une maladie professionnelle causée par l'amiante dans les conditions fixées par l'article 41 de la loi du 23 décembre 1998 susvisée peuvent demander le bénéfice immédiat d'une pension dès l'âge de cinquante ans s'ils totalisent une durée de quinze ans de services valables pour la retraite, appréciée comme s'ils avaient poursuivi leur activité jusqu'à cinquante-cinq ans, sous réserve de ne pas pouvoir bénéficier d'une pension d'ancienneté en application de l'article 1er. Cette pension est liquidée dans les conditions fixées par le présent titre, à l'exception de la durée des services, lesquels sont déterminés comme si l'agent avait poursuivi son activité jusqu'à l'âge de cinquante-cinq ans.

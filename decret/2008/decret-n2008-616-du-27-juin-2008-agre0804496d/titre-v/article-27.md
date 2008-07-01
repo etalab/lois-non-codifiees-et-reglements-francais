@@ -1,0 +1,3 @@
+# Article 27
+
+Le diplôme délivré à un étudiant inscrit, à la date de création de l'Institut supérieur des sciences agronomiques, agroalimentaires, horticoles et du paysage, à l'Institut national de l'horticulture ou à l'Institut national d'enseignement supérieur et de recherche agronomique et agroalimentaire de Rennes, l'est au titre de l'Institut supérieur des sciences agronomiques, agroalimentaires, horticoles et du paysage. Toutefois, les étudiants qui en font la demande peuvent recevoir, au lieu et place de ce diplôme, celui de l'établissement dans lequel ils étaient antérieurement inscrits.

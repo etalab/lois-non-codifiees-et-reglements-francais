@@ -13,8 +13,8 @@ L'échelonnement indiciaire et les durées maximale et minimale du temps passé 
 <td align="left" valign="middle">
 <p align="center">
 <strong>INDICES</strong>
-<br/>
-<br/>bruts</p>
+</p>
+<p>bruts</p>
 </td>
 <td align="left" colspan="2" valign="middle">
 <p align="center">
@@ -213,7 +213,7 @@ L'échelonnement indiciaire et les durées maximale et minimale du temps passé 
 <p align="left">3e échelon</p>
 </td>
 <td align="left" valign="middle">
-<p align="center">396</p>
+<p align="center">398</p>
 </td>
 <td align="left" valign="middle">
 <p align="center">3 ans 6 mois</p>
@@ -227,7 +227,7 @@ L'échelonnement indiciaire et les durées maximale et minimale du temps passé 
 <p align="left">2e échelon</p>
 </td>
 <td align="left" valign="middle">
-<p align="center">379</p>
+<p align="center">380</p>
 </td>
 <td align="left" valign="middle">
 <p align="center">2 ans 6 mois</p>

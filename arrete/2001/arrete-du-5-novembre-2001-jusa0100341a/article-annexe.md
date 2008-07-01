@@ -21,9 +21,6 @@
 <br/>
 <p align="center">par emploi</p>
 </td>
-<td>
-<br/>
-</td>
 </tr>
 <tr>
 <td rowspan="2">
@@ -36,10 +33,6 @@
 <td rowspan="2">
 <p align="center">200</p>
 </td>
-<td height="19"/>
-</tr>
-<tr>
-<td height="19"/>
 </tr>
 </tbody>
 </table>
@@ -66,22 +59,17 @@
 <br/>
 <p align="center">par emploi</p>
 </td>
-<td/>
 </tr>
 <tr>
 <td rowspan="2">
 <p>Président de section</p>
 </td>
 <td rowspan="2">
-<p align="center">6</p>
+<p align="center">7</p>
 </td>
 <td rowspan="2">
 <p align="center">180</p>
 </td>
-<td height="19"/>
-</tr>
-<tr>
-<td height="19"/>
 </tr>
 </tbody>
 </table>
@@ -108,7 +96,6 @@
 <br/>
 <p align="center">par emploi</p>
 </td>
-<td/>
 </tr>
 <tr>
 <td rowspan="2">
@@ -120,10 +107,6 @@
 <td rowspan="2">
 <p align="center">160</p>
 </td>
-<td height="19"/>
-</tr>
-<tr>
-<td height="19"/>
 </tr>
 </tbody>
 </table>
@@ -150,7 +133,6 @@
 <br/>
 <p align="center">par emploi</p>
 </td>
-<td/>
 </tr>
 <tr>
 <td rowspan="2">
@@ -162,10 +144,6 @@
 <td rowspan="2">
 <p align="center">160</p>
 </td>
-<td height="19"/>
-</tr>
-<tr>
-<td height="19"/>
 </tr>
 </tbody>
 </table>
@@ -192,7 +170,6 @@
 <br/>
 <p align="center">par emploi</p>
 </td>
-<td/>
 </tr>
 <tr>
 <td rowspan="2">
@@ -204,10 +181,6 @@
 <td rowspan="2">
 <p align="center">160</p>
 </td>
-<td height="19"/>
-</tr>
-<tr>
-<td height="19"/>
 </tr>
 </tbody>
 </table>
@@ -234,7 +207,6 @@
 <br/>
 <p align="center">par emploi</p>
 </td>
-<td/>
 </tr>
 <tr>
 <td rowspan="2">
@@ -246,10 +218,6 @@
 <td rowspan="2">
 <p align="center">150</p>
 </td>
-<td height="19"/>
-</tr>
-<tr>
-<td height="19"/>
 </tr>
 </tbody>
 </table>
@@ -276,7 +244,6 @@
 <br/>
 <p align="center">par emploi</p>
 </td>
-<td/>
 </tr>
 <tr>
 <td rowspan="2">
@@ -288,10 +255,6 @@
 <td rowspan="2">
 <p align="center">130</p>
 </td>
-<td height="19"/>
-</tr>
-<tr>
-<td height="19"/>
 </tr>
 </tbody>
 </table>
@@ -318,7 +281,6 @@
 <br/>
 <p align="center">par emploi</p>
 </td>
-<td/>
 </tr>
 <tr>
 <td rowspan="2">
@@ -330,10 +292,6 @@
 <td rowspan="2">
 <p align="center">120</p>
 </td>
-<td height="19"/>
-</tr>
-<tr>
-<td height="19"/>
 </tr>
 </tbody>
 </table>
@@ -360,7 +318,6 @@
 <br/>
 <p align="center">par emploi</p>
 </td>
-<td/>
 </tr>
 <tr>
 <td rowspan="2">
@@ -372,10 +329,6 @@
 <td rowspan="2">
 <p align="center">110</p>
 </td>
-<td height="19"/>
-</tr>
-<tr>
-<td height="19"/>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,7 @@
 # Partie A-1 : Structure des navires.
 
 - [Article 221-II-1/03-1](article-221-ii-1-03-1.md)
+- [Article 221-II-1/03-2](article-221-ii-1-03-2.md)
 - [Article 221-II-1/03-3](article-221-ii-1-03-3.md)
 - [Article 221-II-1/03-4](article-221-ii-1-03-4.md)
 - [Article 221-II-1/03-5](article-221-ii-1-03-5.md)

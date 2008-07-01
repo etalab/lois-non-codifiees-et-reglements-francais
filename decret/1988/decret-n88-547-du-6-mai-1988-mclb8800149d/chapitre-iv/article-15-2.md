@@ -42,7 +42,7 @@ Pour l'intégration et l'avancement dans le grade d'agent de maîtrise territori
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="left">1er échelon provisoire (343)</p>
+<p align="left">1er échelon provisoire (347)</p>
 </td>
 <td align="left" valign="middle">
 <p align="center">1 an</p>
