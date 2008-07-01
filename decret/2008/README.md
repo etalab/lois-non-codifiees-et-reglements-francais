@@ -259,7 +259,6 @@
 - [Décret n°2008-355 du 15 avril 2008 (JUSC0758646D)](decret-n2008-355-du-15-avril-2008-jusc0758646d)
 - [Décret n°2008-356 du 15 avril 2008 (AGRP0803831D)](decret-n2008-356-du-15-avril-2008-agrp0803831d)
 - [Décret n°2008-46 du 15 janvier 2008 (AGRM0761269D)](decret-n2008-46-du-15-janvier-2008-agrm0761269d)
-- [Décret n°2008-48 du 15 janvier 2008 (MTSS0774706D)](decret-n2008-48-du-15-janvier-2008-mtss0774706d)
 - [Décret n°2008-49 du 15 janvier 2008 (ECEZ0800143D)](decret-n2008-49-du-15-janvier-2008-ecez0800143d)
 - [Décret n°2008-50 du 15 janvier 2008 (ESRR0773833D)](decret-n2008-50-du-15-janvier-2008-esrr0773833d)
 - [Décret n°2008-51 du 15 janvier 2008 (DEFH0760222D)](decret-n2008-51-du-15-janvier-2008-defh0760222d)
