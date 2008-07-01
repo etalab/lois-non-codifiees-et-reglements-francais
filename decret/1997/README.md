@@ -627,7 +627,6 @@
 - [Décret n°97-1227 du 26 décembre 1997 (ECOF9700029D)](decret-n97-1227-du-26-decembre-1997-ecof9700029d)
 - [Décret n°97-1232 du 26 décembre 1997 (AGRA9702453D)](decret-n97-1232-du-26-decembre-1997-agra9702453d)
 - [Décret n°97-1233 du 26 décembre 1997 (AGRS9702373D)](decret-n97-1233-du-26-decembre-1997-agrs9702373d)
-- [Décret n°97-1235 du 26 décembre 1997 (AGRE9702513D)](decret-n97-1235-du-26-decembre-1997-agre9702513d)
 - [Décret n°97-1236 du 26 décembre 1997 (AGRR9600367D)](decret-n97-1236-du-26-decembre-1997-agrr9600367d)
 - [Décret n°97-1237 du 26 décembre 1997 (AGRS9702371D)](decret-n97-1237-du-26-decembre-1997-agrs9702371d)
 - [Décret n°97-1238 du 26 décembre 1997 (AGRS9702372D)](decret-n97-1238-du-26-decembre-1997-agrs9702372d)

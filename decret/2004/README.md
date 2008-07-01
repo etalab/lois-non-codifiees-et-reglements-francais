@@ -316,7 +316,6 @@
 - [Décret n°2004-144 du 13 février 2004 (SOCS0420262D)](decret-n2004-144-du-13-fevrier-2004-socs0420262d)
 - [Décret n°2004-150 du 13 février 2004 (INDI0302167D)](decret-n2004-150-du-13-fevrier-2004-indi0302167d)
 - [Décret n°2004-151 du 13 février 2004 (INDI0302166D)](decret-n2004-151-du-13-fevrier-2004-indi0302166d)
-- [Décret n°2004-50 du 13 janvier 2004 (AGRE0302308D)](decret-n2004-50-du-13-janvier-2004-agre0302308d)
 - [Décret n°2004-694 du 13 juillet 2004 (DEFM0400570D)](decret-n2004-694-du-13-juillet-2004-defm0400570d)
 - [Décret n°2004-701 du 13 juillet 2004 (MENX0300151D)](decret-n2004-701-du-13-juillet-2004-menx0300151d)
 - [Décret n°2004-702 du 13 juillet 2004 (MENX0300152D)](decret-n2004-702-du-13-juillet-2004-menx0300152d)
