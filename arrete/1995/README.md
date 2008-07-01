@@ -181,7 +181,6 @@
 - [Arrêté du 5 mai 1995 (EQUA9501761A)](arrete-du-5-mai-1995-equa9501761a)
 - [Arrêté du 5 mai 1995 (EQUL9500869A)](arrete-du-5-mai-1995-equl9500869a)
 - [Arrêté du 5 mai 1995 (INDP9500587A)](arrete-du-5-mai-1995-indp9500587a)
-- [Arrêté du 5 mai 1995 (INTC9500260A)](arrete-du-5-mai-1995-intc9500260a)
 - [Arrêté du 5 mai 1995 (MCCE9500249A)](arrete-du-5-mai-1995-mcce9500249a)
 - [Arrêté du 5 mai 1995 (PRMX9500772A)](arrete-du-5-mai-1995-prmx9500772a)
 - [Arrêté du 5 mai 1995 (SPSA9501493A)](arrete-du-5-mai-1995-spsa9501493a)

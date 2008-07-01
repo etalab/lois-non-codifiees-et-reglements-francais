@@ -1,4 +1,4 @@
-# Chapitre V : Dispositions particulières à la direction des renseignements généraux.
+# Chapitre V : Dispositions particulières à la direction du renseignement
 
 - [Section 1 : Organisation de la direction et des services.](section-1)
 - [Section 2 : Rôle et missions des personnels de la police nationale.](section-2)

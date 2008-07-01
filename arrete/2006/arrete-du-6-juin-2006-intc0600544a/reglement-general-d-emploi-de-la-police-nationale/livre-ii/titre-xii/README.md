@@ -4,7 +4,7 @@
 - [Chapitre II : Dispositions particulières à la direction de l'ordre public et de la circulation de la préfecture de police.](chapitre-ii)
 - [Chapitre III : Dispositions particulières à la direction de la police urbaine de proximité de la préfecture de police.](chapitre-iii)
 - [Chapitre IV : Dispositions particulières à la direction de la police judiciaire de la préfecture de police.](chapitre-iv)
-- [Chapitre V : Dispositions particulières à la direction des renseignements généraux.](chapitre-v)
+- [Chapitre V : Dispositions particulières à la direction du renseignement](chapitre-v)
 - [Chapitre VI : Dispositions particulières à la direction opérationnelle des services techniques et logistiques de la préfecture de police.](chapitre-vi)
 - [Chapitre VII : Dispositions particulières à l'inspection générale des services.](chapitre-vii)
 - [Article 2120-1](article-2120-1.md)
