@@ -4,7 +4,7 @@ I.-L'assuré indique la date à compter de laquelle il désire entrer en jouissa
 
 1° Ni au dépôt de la demande ;
 
-2° Ni à la date anniversaire à partir de laquelle l'assuré peut prétendre à une pension en application des articles 84 ou 86 ;
+2° Ni à la date anniversaire à partir de laquelle l'assuré peut prétendre à une pension en application des articles 84 ;
 
 3° Ni à la date de cessation d'activité, ou de fin d'une période assimilée visée à l'article 90 ou à l'article 91, de fin de congés non pris et rémunérés sous forme d'indemnités compensatrices dont la durée est déterminée en fonction du montant ayant donné lieu à versement de cotisations à la C. R. P. C. E. N.. Dans ce dernier cas, l'entrée en jouissance peut être fixée au premier jour d'un mois compris entre la date à laquelle l'assuré a effectivement cessé de travailler et la date de fin des congés ci-dessus définis.
 

@@ -6,6 +6,8 @@ Le bénéfice de ces dispositions est subordonné à une interruption d'activit�
 
 II.-L'assuré bénéficie, dans la limite de trois ans par enfant légitime, naturel ou adoptif, né ou adopté après le 1er juillet 2006, d'une majoration de sa durée d'assurance sous réserve qu'il ait bénéficié d'un temps partiel de droit pour élever un enfant dans les conditions prévues à l'article L. 122-28-1 du code du travail, d'un congé parental ou d'un congé de présence parentale dans les conditions fixées au tableau annexé à l'article R. 9 du code des pensions civiles et militaires de retraite.
 
-III.-Pour chacun de leurs enfants nés à compter du 1er juillet 2006, les femmes qui ont accouché postérieurement à leur affiliation à la CRPCEN bénéficient d'une majoration de durée d'assurance de deux trimestres. Ces dispositions ne sont pas cumulables avec celles du II.
+III.-Pour chacun de leurs enfants nés à compter du 1er juillet 2006, les femmes qui ont accouché postérieurement à leur affiliation à la CRPCEN bénéficient d'une majoration de durée d'assurance de deux trimestres pour leur premier enfant et de quatre trimestres pour chacun des enfants suivants. Ces dispositions ne sont pas cumulables avec celles du II.
 
 Les majorations prévues au présent article ne sont pas prises en considération pour l'ouverture du droit à pension de retraite.
+
+IV.-Les assurés élevant à leur domicile un enfant de moins de vingt ans atteint d'une invalidité égale ou supérieure à 80 % bénéficient d'une majoration de leur durée d'assurance d'un trimestre par période d'éducation de trente mois, dans la limite de quatre trimestres. Cette majoration n'est prise en compte que pour l'application de l'article 85-1.
