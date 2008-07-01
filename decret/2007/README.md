@@ -1507,7 +1507,6 @@
 - [Décret n° 2007-475 du 28 mars 2007 (EQUR0700504D)](decret-n-2007-475-du-28-mars-2007-equr0700504d)
 - [Décret n° 2007-481 du 28 mars 2007 (MJSK0770059D)](decret-n-2007-481-du-28-mars-2007-mjsk0770059d)
 - [Décret n°2006-1464 du 28 novembre 2006 (INDX0600147D)](decret-n2006-1464-du-28-novembre-2006-indx0600147d)
-- [Décret n°2007-1052 du 28 juin 2007 (MTSX0758082D)](decret-n2007-1052-du-28-juin-2007-mtsx0758082d)
 - [Décret n°2007-1054 du 28 juin 2007 (BCFX0758126D)](decret-n2007-1054-du-28-juin-2007-bcfx0758126d)
 - [Décret n°2007-1055 du 28 juin 2007 (BCFS0756224D)](decret-n2007-1055-du-28-juin-2007-bcfs0756224d)
 - [Décret n°2007-1056 du 28 juin 2007 (BCFB0755397D)](decret-n2007-1056-du-28-juin-2007-bcfb0755397d)
