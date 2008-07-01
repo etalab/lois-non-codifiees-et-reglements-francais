@@ -1,6 +1,8 @@
 # Article ANNEXE BAREME B
 
-**Traitements annuels bruts soumis à retenue pour pension à compter du 1er mai 2008**
+**BARÈME B**
+
+**TRAITEMENTS ANNUELS BRUTS SOUMIS À RETENUE POUR PENSION À COMPTER DU 1er JUILLET 2008**
 
 <table>
 <tbody>
@@ -8,27 +10,11 @@
 <th>
 <br/>INDICES MAJORÉS <br/>
 </th>
-<th>
+<th colspan="2">
 <br/>TRAITEMENTS ANNUELS BRUTS <p>soumis à retenue pour pension </p>
 <p>(en euros) <br/>
 </p>
 </th>
-</tr>
-<tr>
-<td align="center">
-<br/>199 <br/>
-</td>
-<td align="center">
-<br/>10 882, 00 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>200 <br/>
-</td>
-<td align="center">
-<br/>10 936, 68 <br/>
-</td>
 </tr>
 <tr>
 <td align="center">
