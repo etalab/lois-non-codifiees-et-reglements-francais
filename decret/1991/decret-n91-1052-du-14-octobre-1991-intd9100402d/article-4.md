@@ -1,3 +1,0 @@
-# Article 4
-
-La direction centrale des renseignements généraux est chargée de la modification et de la mise à jour des informations enregistrées dans le traitement automatisé et les dossiers manuels auxquels il renvoie. Il est en outre procédé, sous le contrôle de la Commission nationale de l'informatique et des libertés (C.N.I.L.), tous les cinq ans, à un examen de la justification et du bien-fondé des informations nominatives détenues. La direction centrale des renseignements généraux rend compte chaque année à la C.N.I.L. de ses activités de vérification, de mise à jour et d'apurement de ses fichiers et de ses dossiers.
