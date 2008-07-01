@@ -1,6 +1,6 @@
 # Article 6
 
-Le droit à pension est acquis après quinze années de services [*durée*] civils effectifs au théâtre valables pour la retraite et de services militaires à l'exclusion, pour ces derniers, de ceux effectués en temps de paix avant l'âge de seize ans [*condition d'ancienneté*] :
+Le droit à pension est acquis :
 
 1° A l'âge de soixante ans, pour les artistes aux appointements et pour les employés à traitement fixe, à l'exclusion de ceux qui appartiennent aux catégories mentionnées au 2° ;
 
