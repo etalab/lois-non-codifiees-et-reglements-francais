@@ -1,19 +1,13 @@
 # Article 1
 
-La direction centrale de la police judiciaire est une direction active de la direction générale de la police nationale. Elle a pour mission, à titre principal, la prévention et la répression des formes spécialisées, organisées ou transnationales de la délinquance et de la criminalité. Elle comprend :
+La direction centrale de la police judiciaire définit la doctrine générale et la stratégie en vue d'assurer les missions qui lui sont confiées.
 
-1° Un état-major, chargé de la centralisation et de la diffusion de l'information opérationnelle ainsi que de la communication externe de la direction centrale ;
+Elle détermine l'organisation des services et les règles d'emploi des personnels, dont elle anime l'action et contrôle l'activité. Elle définit la politique d'équipement opérationnel des services centraux et territoriaux qui lui sont rattachés.
 
-2° Une unité de projets opérationnels, chargée de la conception et de la coordination des projets opérationnels au niveau central ;
+Dans les domaines de la délinquance et de la criminalité qui lui sont confiés, elle est chargée, à l'échelon national et territorial, de conduire et de coordonner les investigations et les recherches.
 
-3° La division des relations internationales, service à compétence nationale rattaché au directeur central ;
+Elle coordonne l'activité des offices centraux de police judiciaire.
 
-4° Quatre sous-directions :
+Elle administre les organes centraux de coopération internationale opérationnelle de police.
 
-- la sous-direction de la lutte contre la criminalité organisée et la délinquance financière ;
-
-- la sous-direction anti-terroriste ;
-
-- la sous-direction de la police technique et scientifique ;
-
-- la sous-direction des ressources et des études.
+Elle met en œuvre, pour l'ensemble des directions et services actifs de la police nationale et pour les autorités judiciaires et administratives, des moyens de police technique et scientifique, informatiques et de documentation opérationnelle d'aide aux investigations et aux recherches.
