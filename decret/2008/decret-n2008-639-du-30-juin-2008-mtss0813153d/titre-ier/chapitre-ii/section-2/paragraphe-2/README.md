@@ -1,0 +1,3 @@
+# PARAGRAPHE 2 : REMUNERATIONS A PRENDRE EN COMPTE
+
+- [Article 14](article-14.md)
