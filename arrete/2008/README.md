@@ -737,6 +737,8 @@
 - [Arrêté du 23 avril 2008 (IOCC0809504A)](arrete-du-23-avril-2008-iocc0809504a)
 - [Arrêté du 23 avril 2008 (SJSP0810433A)](arrete-du-23-avril-2008-sjsp0810433a)
 - [Arrêté du 23 janvier 2008 (SJSH0801209A)](arrete-du-23-janvier-2008-sjsh0801209a)
+- [Arrêté du 23 juin 2008 (ECET0801470A)](arrete-du-23-juin-2008-ecet0801470a)
+- [Arrêté du 23 juin 2008 (IOCE0815406A)](arrete-du-23-juin-2008-ioce0815406a)
 - [Arrêté du 23 juin 2008 (IOCE0815412A)](arrete-du-23-juin-2008-ioce0815412a)
 - [Arrêté du 23 juin 2008 (MCCT0813981A)](arrete-du-23-juin-2008-mcct0813981a)
 - [Arrêté du 23 juin 2008 (PRMG0814673A)](arrete-du-23-juin-2008-prmg0814673a)
