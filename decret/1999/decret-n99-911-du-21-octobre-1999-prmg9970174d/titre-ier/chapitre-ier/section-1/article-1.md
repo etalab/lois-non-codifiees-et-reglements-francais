@@ -1,3 +1,3 @@
 # Article 1
 
-Le secrétaire général de l'Ecole nationale d'administration est nommé par arrêté du Premier ministre, sur proposition du directeur de l'école. Le secrétaire général de l'Institut international d'administration publique est nommé par arrêté du Premier ministre, sur proposition du directeur de l'institut. Il est mis fin à leurs fonctions dans les mêmes conditions.
+Le secrétaire général est recruté par voie de détachement parmi les fonctionnaires remplissant les conditions fixées par les articles 2 et 3 du décret n° 55-1226 du 19 septembre 1955 relatif aux conditions de nomination et d'avancement dans les emplois de chef de service, de directeur adjoint et de sous-directeur des administrations centrales de l'Etat.

@@ -1,3 +1,3 @@
 # Article 6
 
-Le directeur adjoint chargé de la recherche et de la formation permanente, le directeur des études et le directeur des stages sont recrutés par voie de détachement soit parmi les fonctionnaires qui appartiennent aux corps auxquels prépare l'école, soit parmi les professeurs des universités.
+Le directeur de la formation permanente et de la recherche, le directeur des études, le directeur des stages, le directeur adjoint des études et les directeurs adjoints des stages sont recrutés par la voie du détachement parmi les fonctionnaires remplissant les conditions fixées par les articles 2 et 3 du décret n° 55-1226 du 19 septembre 1955 relatif aux conditions de nomination et d'avancement dans les emplois de chef de service, de directeur adjoint et de sous-directeur des administrations centrales de l'Etat. Toutefois, pour l'accès aux emplois de directeur adjoint des études et de directeur adjoint des stages, la durée de services effectifs est de quatre ans.
