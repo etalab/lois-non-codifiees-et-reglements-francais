@@ -1,3 +1,0 @@
-# Article 6
-
-Les conditions de capacité professionnelle définies à l'article 5 ci-dessus ainsi que celles relatives à la qualité des matériels mis en oeuvre sont réputées satisfaites lorsqu'il a été délivré à l'entreprise un certificat d'assurance qualité dans le domaine du froid ou de la climatisation ou une attestation de qualification par les organismes certificateurs ou les associations techniques de qualification désignés par un arrêté conjoint du ministre chargé de l'environnement, du ministre chargé de l'industrie, du ministre chargé de l'agriculture, du ministre chargé de l'équipement et du ministre chargé de la consommation.
