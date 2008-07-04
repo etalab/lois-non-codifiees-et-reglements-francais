@@ -620,3 +620,4 @@
 - [Décret n°2008-294 du 1er avril 2008 (ECEL0804930D)](decret-n2008-294-du-1er-avril-2008-ecel0804930d)
 - [Décret n°2008-295 du 1er avril 2008 (ECEL0804932D)](decret-n2008-295-du-1er-avril-2008-ecel0804932d)
 - [Décret n°2008-297 du 1er avril 2008 (IOCA0801768D)](decret-n2008-297-du-1er-avril-2008-ioca0801768d)
+- [Décret n°2008-648 du 1er juillet 2008 (MLVU0770313D)](decret-n2008-648-du-1er-juillet-2008-mlvu0770313d)

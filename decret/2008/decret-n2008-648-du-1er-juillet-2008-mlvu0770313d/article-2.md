@@ -1,0 +1,3 @@
+# Article 2
+
+A titre transitoire et par dérogation à l'article R. 423-2 du code de la construction et de l'habitation dans la rédaction issue du présent décret, les changements de régime budgétaire et comptable devant prendre effet au 1er janvier 2009 procèdent d'une délibération du conseil d'administration arrêtant le choix de l'office qui est prise, après avis du trésorier-payeur général, avant le 31 juillet 2008. Le trésorier-payeur général dispose pour émettre son avis d'un délai d'un mois à compter de sa saisine par le président du conseil d'administration, qui en informe dans le même temps le préfet.
