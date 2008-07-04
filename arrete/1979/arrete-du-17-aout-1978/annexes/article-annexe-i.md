@@ -4,7 +4,7 @@ Programme des connaissances de l'épreuve théorique de l'examen du brevet de pi
 
 1. Connaissance et utilisation du planeur.
 
-1.1. Caractéristiques générales des planeurs.
+1.1. Caractéristiques générales des planeurs (minimum : 1 question)
 
 1.1.1. Configuration extérieure, éléments constitutifs.
 
@@ -12,7 +12,7 @@ Programme des connaissances de l'épreuve théorique de l'examen du brevet de pi
 
 1.1.3. Notions succinctes sur la structure d'un planeur.
 
-1.2 Principes et techniques du vol.
+1.2. Principes et techniques du vol (minimum : 5 questions).
 
 1.2.1. L'aile :
 
@@ -52,7 +52,7 @@ Notions élémentaires sur l'équilibre et la stabilité du planeur, rôle de l'
 
 Conséquences de l'attaque oblique : décrochage, autorotation.
 
-1.3. Instruments et équipements.
+1.3. Instruments et équipements (minimum : 2 questions).
 
 1.3.1. Notions sur le caractère réglementaire des équipements fondamentaux installés sur un planeur.
 
@@ -62,7 +62,7 @@ Conséquences de l'attaque oblique : décrochage, autorotation.
 
 1.3.4. Crochet de remorquage (et/ou de treuillage).
 
-1.4. Limites d'utilisation. - Entretien.
+1.4. Limites d'utilisation-entretien (minimum : 2 questions).
 
 1.4.1. Notions sur la classification des planeurs du point de vue de la navigabilité.
 
@@ -76,7 +76,7 @@ Conséquences de l'attaque oblique : décrochage, autorotation.
 
 2. Météorologie.
 
-2.1. L'atmosphère.
+2.1. L'atmosphère (minimum : 1 question).
 
 2.1.1. La température : unité de mesure, variations en un lieu et avec l'altitude.
 
@@ -86,7 +86,7 @@ Conséquences de l'attaque oblique : décrochage, autorotation.
 
 2.1.4. Le vent : unités de mesure, représentation graphique.
 
-2.2. Nuages et systèmes nuageux.
+2.2. Nuages et systèmes nuageux (minimum : 1 question).
 
 2.2.1. Les nuages : différentes appellations, description sommaire.
 
@@ -94,7 +94,7 @@ Conséquences de l'attaque oblique : décrochage, autorotation.
 
 2.2.3. Notions élémentaires sur les fronts et les systèmes nuageux (en Europe).
 
-2.3. Aérologie.
+2.3. Aérologie (minimum : 1 question).
 
 2.3.1. Stabilité et instabilité dans- l'atmosphère :
 
@@ -112,23 +112,27 @@ Brises de montagne.
 
 2.3.3. Écoulement de d'air sur le relief : phénomène de pente et de ressaut.
 
-2.4. Phénomènes défavorables au vol à voile.
+2.4. Phénomènes défavorables au vol à voile (minimum : 1 question).
 
 2.4.1. Orages : notions sur la formation des orages de convection et frontaux, dangers liés aux cumulonimbus.
 
+2.5. Analyse et prévision météorologique (minimum : 1 question).
+
+Cartes météorologique, TEMSI, TAF et METAR.
+
 3. Réglementation aérienne.
 
-3.1. Pilote et planeur.
+3.1. Pilote et planeur (minimum : 2 questions).
 
 3.1.1. Le pilote :
 
-Carte de stagiaire : condition d'obtention; validité ;
+Brevet et licence de pilote de planeur : conditions d'obtention, privilèges, validité, renouvellement ;
 
-Brevet et licence de pilote de planeur: conditions d'obtention, privilèges, validité, renouvellement ;
+Autorisations additionnelles ;
 
 Qualification d'instructeur ;
 
-Carnet de. vol : obligation, mise à jour.
+Carnet de vol : obligation, mise à jour.
 
 3.1.2. Le planeur :
 
@@ -136,7 +140,7 @@ Documents réglementaires : différents documents, validité.
 
 Documents obligatoires à bord.
 
-3.2. Circulation aérienne.
+3.2. Circulation aérienne (minimum : 5 questions).
 
 3.2.1. Règles de l'air
 
@@ -146,7 +150,7 @@ Protection des personnes et des biens : négligence ou imprudence, fatigue, surv
 
 Action préliminaire au vol;
 
-Prévention des abordages: proximité, priorité de passage, évolution sur et aux abords d'un aérodrome;
+Prévention des collisions : proximité, priorité de passage, évolution sur et aux abords d'un aérodrome;
 
 Signaux: signaux lumineux, signaux visuels au sol, aire à signaux.
 
@@ -166,7 +170,7 @@ Conditions météorologiques de vol à vue ;
 
 Règles de vol à vue : vol VFR dans les zones de contrôle, niveau minimal de survol.
 
-Règles de sécurité anti-abordage.
+Règles de sécurité anticollision.
 
 3.2.4. Règles particulières :
 
@@ -174,7 +178,15 @@ Infractions : registre R, sanctions ;
 
 Incidents et accidents : mesure à prendre.
 
-3.3. Cartes aéronautiques.
+3.2.5. Radiotéléphonie et communication :
+
+Procédures de départ, en route et d'arrivée ;
+
+Pannes de communications ;
+
+Procédures de détresse et d'urgence.
+
+3.3. Cartes aéronautiques (minimum : 2 questions).
 
 3.3.1. Obligation réglementaire : cartes utiles au pilote de planeur.
 
@@ -186,9 +198,11 @@ Lecture et utilisation de la carte en vol.
 
 3.3.4. Cartes d'aérodrome (VAL) : objet, présentation, renseignements portés, utilisation.
 
+3.3.5. Préparation du vol, choix des cartes, NOTAM.
+
 4. Performance humaine et ses limites.
 
-4.1. Physiologie de base adaptée au vol à voile :
+4.1. Physiologie de base adaptée au vol à voile (minimum : 1 question) :
 
 Concepts ;
 
@@ -202,7 +216,7 @@ Vol et santé ;
 
 Intoxications.
 
-4.2. Psychologie de base adaptée au vol à voile :
+4.2. Psychologie de base adaptée au vol à voile (minimum : 1 question) :
 
 Processus d'information ;
 

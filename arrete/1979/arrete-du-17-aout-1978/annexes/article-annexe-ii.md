@@ -2,17 +2,17 @@
 
 Épreuve pratique en vol
 
-I. - Pour être admis à se présenter à l'épreuve pratique en vol, le candidat doit préalablement satisfaire à une interrogation orale ou écrite permettant de vérifier qu'il possède les connaissances, fondamentales nécessaires pour assurer la sécurité au sol et en vol.
+I. - Pour être admis à se présenter aux épreuves pratiques en vol, le candidat doit préalablement satisfaire à une interrogation orale portant sur le vol et sa préparation, afin de vérifier qu'il possède les connaissances fondamentales nécessaires pour assurer la sécurité au sol et en vol.
 
-Cette interrogation porte notamment sur :­
+Cette interrogation porte notamment sur :
 
-La connaissance pratique du matériel utilisé ;
+- la connaissance propre au matériel utilisé ;
 
-La visite pré-vol ;
+- la visite prévol ;
 
-Les consignes de sécurité ;
+- les consignes de sécurité ;
 
-Les règles de circulation d'aérodrome.
+- les règles de circulation de l'aérodrome utilisé.
 
 II. - L'épreuve pratique s'effectue sur un planeur pourvu ou non d'un dispositif d'envol incorporé, avec à bord l'instructeur habilité chargé du contrôle de l'épreuve. Elle peut donner lieu à un ou plusieurs vols, à la discrétion de l'instructeur examinateur et doit lui permettre de porter des appréciations sur les points suivants :
 
@@ -34,6 +34,6 @@ Utilisation des aérofreins ;
 
 Prise de terrain et atterrissage ;
 
-Règles de sécurité anti-abordage ;
+Règles de sécurité anticollision ;
 
 Précision d'atterrissage.
