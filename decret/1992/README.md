@@ -221,7 +221,6 @@
 - [Décret n°90-211 du 7 mars 1990 (INTA9000046D)](decret-n90-211-du-7-mars-1990-inta9000046d)
 - [Décret n°90-212 du 7 mars 1990 (INTA9000047D)](decret-n90-212-du-7-mars-1990-inta9000047d)
 - [Décret n°92-1266 du 7 décembre 1992 (PRMX9200228D)](decret-n92-1266-du-7-decembre-1992-prmx9200228d)
-- [Décret n°92-1271 du 7 décembre 1992 (ENVP9200047D)](decret-n92-1271-du-7-decembre-1992-envp9200047d)
 - [Décret n°92-1272 du 7 décembre 1992 (TOUX9210535D)](decret-n92-1272-du-7-decembre-1992-toux9210535d)
 - [Décret n°92-1273 du 7 décembre 1992 (MENK9200316D)](decret-n92-1273-du-7-decembre-1992-menk9200316d)
 - [Décret n°92-128 du 7 février 1992 (MEND9200255D)](decret-n92-128-du-7-fevrier-1992-mend9200255d)
