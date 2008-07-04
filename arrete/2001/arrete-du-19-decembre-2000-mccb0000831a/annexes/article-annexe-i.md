@@ -15,9 +15,7 @@ Bas-Rhin
 <td>
 <p align="center">10</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -26,9 +24,7 @@ Bas-Rhin
 <td>
 <p align="center">1</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -37,9 +33,7 @@ Bas-Rhin
 <td>
 <p align="center">1</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -48,9 +42,7 @@ Bas-Rhin
 <td>
 <p align="center">2</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td rowspan="2">
@@ -78,9 +70,7 @@ Haut-Rhin
 <td>
 <p align="center">4</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -89,9 +79,7 @@ Haut-Rhin
 <td>
 <p align="center">5</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td rowspan="2">
@@ -121,9 +109,7 @@ Dordogne
 <td>
 <p align="center">3</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td rowspan="2">
@@ -151,9 +137,7 @@ Gironde
 <td>
 <p align="center">9</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -162,9 +146,7 @@ Gironde
 <td>
 <p align="center">2</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -173,9 +155,7 @@ Gironde
 <td>
 <p align="center">2</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -184,9 +164,7 @@ Gironde
 <td>
 <p align="center">3</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -195,9 +173,7 @@ Gironde
 <td>
 <p align="center">1</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -206,9 +182,7 @@ Gironde
 <td>
 <p align="center">2</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td rowspan="2">
@@ -236,9 +210,7 @@ Landes
 <td>
 <p align="center">2</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -247,9 +219,7 @@ Landes
 <td>
 <p align="center">1</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td rowspan="2">
@@ -277,9 +247,7 @@ Lot-et-Garonne
 <td>
 <p align="center">1</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td rowspan="2">
@@ -307,9 +275,7 @@ Pyrénées-Atlantiques
 <td>
 <p align="center">2</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -318,9 +284,7 @@ Pyrénées-Atlantiques
 <td>
 <p align="center">3</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -329,9 +293,7 @@ Pyrénées-Atlantiques
 <td>
 <p align="center">1</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -340,9 +302,7 @@ Pyrénées-Atlantiques
 <td>
 <p align="center">1</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td rowspan="2">
@@ -372,9 +332,7 @@ Allier
 <td>
 <p align="center">3</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -383,9 +341,7 @@ Allier
 <td>
 <p align="center">2</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -394,9 +350,7 @@ Allier
 <td>
 <p align="center">3</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -405,9 +359,7 @@ Allier
 <td>
 <p align="center">3</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td rowspan="2">
@@ -435,9 +387,7 @@ Cantal
 <td>
 <p align="center">2</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td rowspan="2">
@@ -465,9 +415,7 @@ Haute-Loire
 <td>
 <p align="center">2</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td rowspan="2">
@@ -495,9 +443,7 @@ Puy-de-Dôme
 <td>
 <p align="center">6</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -506,9 +452,7 @@ Puy-de-Dôme
 <td>
 <p align="center">2</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -517,9 +461,7 @@ Puy-de-Dôme
 <td>
 <p align="center">1</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td rowspan="2">
@@ -549,9 +491,7 @@ Côte-d'Or
 <td>
 <p align="center">1</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -560,9 +500,7 @@ Côte-d'Or
 <td>
 <p align="center">7</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td rowspan="2">
@@ -590,9 +528,7 @@ Nièvre
 <td>
 <p align="center">2</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td rowspan="2">
@@ -620,9 +556,7 @@ Saône-et-Loire
 <td>
 <p align="center">3</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -631,9 +565,7 @@ Saône-et-Loire
 <td>
 <p align="center">2</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -642,9 +574,7 @@ Saône-et-Loire
 <td>
 <p align="center">3</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -653,9 +583,7 @@ Saône-et-Loire
 <td>
 <p align="center">2</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td rowspan="2">
@@ -683,9 +611,7 @@ Yonne
 <td>
 <p align="center">3</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -694,9 +620,7 @@ Yonne
 <td>
 <p align="center">2</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td rowspan="2">
@@ -726,9 +650,7 @@ Côtes-d'Armor
 <td>
 <p align="center">3</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td rowspan="2">
@@ -756,9 +678,7 @@ Finistère
 <td>
 <p align="center">11</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -767,9 +687,7 @@ Finistère
 <td>
 <p align="center">4</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td rowspan="2">
@@ -797,9 +715,7 @@ Ille-et-Vilaine
 <td>
 <p align="center">2</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -808,9 +724,7 @@ Ille-et-Vilaine
 <td>
 <p align="center">2</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -819,9 +733,7 @@ Ille-et-Vilaine
 <td>
 <p align="center">2</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td rowspan="2">
@@ -849,9 +761,7 @@ Morbihan
 <td>
 <p align="center">4</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -860,9 +770,7 @@ Morbihan
 <td>
 <p align="center">2</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td rowspan="2">
@@ -892,9 +800,7 @@ Cher
 <td>
 <p align="center">2</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -903,9 +809,7 @@ Cher
 <td>
 <p align="center">2</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td rowspan="2">
@@ -933,9 +837,7 @@ Eure-et-Loir
 <td>
 <p align="center">4</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td rowspan="2">
@@ -963,9 +865,7 @@ Indre
 <td>
 <p align="center">3</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td rowspan="2">
@@ -993,9 +893,7 @@ Indre-et-Loire
 <td>
 <p align="center">1</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td rowspan="2">
@@ -1023,9 +921,7 @@ Loir-et-Cher
 <td>
 <p align="center">2</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -1034,9 +930,7 @@ Loir-et-Cher
 <td>
 <p align="center">1</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td rowspan="2">
@@ -1064,9 +958,7 @@ Loiret
 <td>
 <p align="center">7</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -1075,13 +967,11 @@ Loiret
 <td>
 <p align="center">4</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td rowspan="2">
-<p>Bibliothèque municipale de montargis</p>
+<p>Bibliothèque municipale de Montargis</p>
 </td>
 <td rowspan="2">
 <p align="center">1</p>
@@ -1107,9 +997,7 @@ Ardennes
 <td>
 <p align="center">3</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -1118,9 +1006,7 @@ Ardennes
 <td>
 <p align="center">2</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td rowspan="2">
@@ -1148,9 +1034,7 @@ Aube
 <td>
 <p align="center">5</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td rowspan="2">
@@ -1178,9 +1062,7 @@ Marne
 <td>
 <p align="center">3</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -1189,9 +1071,7 @@ Marne
 <td>
 <p align="center">2</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -1200,9 +1080,7 @@ Marne
 <td>
 <p align="center">5</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td rowspan="2">
@@ -1230,9 +1108,7 @@ Haute-Marne
 <td>
 <p align="center">3</p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td rowspan="2">

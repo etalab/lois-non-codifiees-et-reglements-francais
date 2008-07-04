@@ -869,9 +869,7 @@ _Haute-Marne_
 </tbody>
 </table>
 
-**ANNEXE II (suite)**
-
-- **Région Corse**
+**Région Corse**
 
 _Corse-du-Sud_
 
