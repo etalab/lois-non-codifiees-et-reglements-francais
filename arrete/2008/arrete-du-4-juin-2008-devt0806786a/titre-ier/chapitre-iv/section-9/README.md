@@ -1,4 +1,0 @@
-# SECTION 9 : PASSAGERS ET CONDUCTEURS EMBARQUANT AVEC LEURS VEHICULES
-
-- [Article 38](article-38.md)
-- [Article 39](article-39.md)

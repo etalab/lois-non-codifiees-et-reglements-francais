@@ -1,7 +1,0 @@
-# Article 7
-
-Le déclarant ou le bénéficiaire de l'autorisation prend toutes les dispositions nécessaires pour limiter la perturbation du milieu aquatique et des zones rivulaires pendant les travaux et pour réduire les risques de pollution accidentelle, notamment en ce qui concerne la circulation et le stockage des engins. Il doit garantir une capacité d'intervention rapide de jour comme de nuit afin d'assurer le repliement des installations du chantier en cas de crue consécutive à un orage ou un phénomène pluvieux de forte amplitude.
-
-En cas d'incident lors des travaux susceptible de provoquer une pollution accidentelle ou un désordre dans l'écoulement des eaux à l'aval ou à l'amont du site, le déclarant ou le bénéficiaire de l'autorisation doit immédiatement interrompre les travaux et l'incident provoqué, et prendre les dispositions afin de limiter l'effet de l'incident sur le milieu et sur l'écoulement des eaux et afin d'éviter qu'il ne se reproduise. Il informe également dans les meilleurs délais le service chargé de la police de l'eau de l'incident et des mesures prises pour y faire face, ainsi que les collectivités territoriales en cas d'incident à proximité d'une zone de baignade, conformément à l'article L. 211-5 du code de l'environnement.
-
-En cas de régalage ou de mise en dépôt, même provisoire, de matériaux à proximité du réseau hydrographique superficiel, le bénéficiaire s'assurera que des dispositions efficaces seront prises pour éviter toute contamination des eaux, en particulier par ruissellement.

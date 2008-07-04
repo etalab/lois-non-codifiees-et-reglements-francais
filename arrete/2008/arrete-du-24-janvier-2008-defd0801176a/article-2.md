@@ -1,3 +1,0 @@
-# Article 2
-
-La directrice des affaires juridiques, le directeur central du commissariat de l'armée de terre, le directeur central du commissariat de la marine, le directeur central du service de l'administration générale et des finances de l'armée de l'air, les directeurs régionaux du commissariat des régions terre Sud-Ouest, Sud-Est, Nord-Est, Nord-Ouest et Ile-de-France, les directeurs du commissariat de la marine à Brest, Cherbourg et Toulon et le directeur du service des droits financiers individuels et des affaires contentieuses sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

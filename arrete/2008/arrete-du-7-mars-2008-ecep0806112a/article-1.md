@@ -1,3 +1,0 @@
-# Article 1
-
-Les recettes tirées de la rémunération des prestations de services fournies par le service de la communication, citées à l'article 1er du décret n° 2006-420 du 7 avril 2006 susvisé, font l'objet de la procédure d'attribution de produits de l'article 17-III de la loi organique n° 2001-692 du 1er août 2001 susvisée. Les crédits correspondants sont alors rétablis sur le budget opérationnel de programme « communication » (code BOP 218DAC) du programme 218 « conduite et pilotage des politiques économique et financière », action 03 « promotion des politiques économique, financière et de l'emploi ».

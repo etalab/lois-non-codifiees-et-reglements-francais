@@ -1,5 +1,0 @@
-# Article 2
-
-Les arrêtés du 28 décembre 2001 relatifs à l'échelonnement indiciaire applicable au corps des directeurs d'établissements sanitaires et sociaux de la fonction publique hospitalière, à l'échelonnement indiciaire applicable au corps des directeurs d'établissements sanitaires et sociaux de la fonction publique hospitalière détachés sur des emplois fonctionnels, à l'échelonnement indiciaire applicable au corps des directeurs d'établissements sociaux et médico-sociaux de la fonction publique hospitalière et à l'échelonnement indiciaire applicable au corps des directeurs d'établissements sociaux et médico-sociaux de la fonction publique hospitalière détachés sur des emplois fonctionnels sont abrogés.
-
-Les arrêtés du 28 décembre 2001 relatifs aux échelonnements indiciaires applicables, d'une part, aux corps des directeurs d'établissements sanitaires et sociaux et directeurs d'établissements sociaux et médico-sociaux de la fonction publique hospitalière et, d'autre part, aux corps des directeurs d'établissements sanitaires et sociaux et directeurs d'établissements sociaux et médico-sociaux détachés sur des emplois fonctionnels sont abrogés.

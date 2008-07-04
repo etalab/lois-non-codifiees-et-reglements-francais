@@ -1,5 +1,0 @@
-# Article 21
-
-Toute installation de production visée par les dispositions du I de l'article 19, à l'exception de celles mettant en œuvre de l'énergie fatale telles les fermes éoliennes, les installations photovoltaïques, les centrales hydrauliques « fil de l'eau », doit, par conception, disposer d'une capacité de réglage de la puissance active d'une amplitude correspondant au moins à 20 % de la puissance Pmax et être équipée d'un régulateur qui ajuste la puissance fournie en fonction de l'écart entre la valeur réelle de la fréquence et sa valeur de consigne. Les performances de ce régulateur sont spécifiées dans la documentation technique de référence du gestionnaire du réseau public de distribution d'électricité et précisées dans la convention de raccordement.
-
-Toute installation de production visée par les dispositions de l'alinéa précédent doit maintenir en permanence à la disposition du gestionnaire du réseau public de distribution d'électricité une marge de puissance active, dite « réserve primaire », en plus ou en moins, correspondant à 10 % de la puissance Pmax.

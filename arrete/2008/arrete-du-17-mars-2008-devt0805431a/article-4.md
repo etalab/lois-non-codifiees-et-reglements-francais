@@ -1,3 +1,0 @@
-# Article 4
-
-Les dispositions du  Guide technique du service technique des remontées mécaniques et des transports guidés ― Remontées mécaniques 1 ― Exploitation et modification des téléphériques ― Version du 18 décembre 2007  mentionné à l'article 2-VIII du présent arrêté et du  Guide technique du service technique des remontées mécaniques et des transports guidés ― Remontées mécaniques 2 ― Conception générale des téléphériques ― Version du 29 janvier 2008  mentionné à l'article 3 du présent arrêté sont consultables au Bulletin officiel du ministère de l'écologie, du développement et de l'aménagement durables et par voie électronique sur le site internet du service technique des remontées mécaniques et des transports guidés (www.strmtg.equipement.gouv.fr).

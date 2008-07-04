@@ -1,5 +1,0 @@
-# Article 1
-
-La direction générale de l'Institut national de la statistique et des études économiques (INSEE) est autorisée à exploiter les informations nominatives des fichiers de taxation à l'impôt sur le revenu (POTE) et à la taxe d'habitation (FLFC) que lui transmet chaque année la direction générale des impôts sur support informatique pour la mise en œuvre d'un traitement automatisé dont la finalité est l'élaboration et la diffusion de produits statistiques locaux sur les ménages, les revenus bruts, l'impôt sur le revenu et la taxe d'habitation relative à la résidence principale.
-
-Ces produits statistiques (indicateurs, tableaux statistiques, fichiers-détail) sont publiés et mis à la disposition de toute personne intéressée à des niveaux géographiques fixés ci-dessous, en fonction de leur nature. Les seuils de diffusion prévus aux articles 3, 5 et 6 sont calculés en fonction de la population de la zone géographique considérée telle que définie par le dernier recensement. Dans certains cas, prévus aux articles 3 et 6, une licence d'usage doit en outre être signée.

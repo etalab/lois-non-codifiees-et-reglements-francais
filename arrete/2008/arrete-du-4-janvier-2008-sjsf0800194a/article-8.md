@@ -1,3 +1,0 @@
-# Article 8
-
-Dans les cinq ans suivant la date de publication du présent arrêté, les titulaires du brevet d'Etat d'éducateur sportif du premier degré option « handball » obtiennent, sur demande auprès du directeur régional de la jeunesse, des sports et de la vie associative, le diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport spécialité « perfectionnement sportif », mention « handball », s'ils ont exercé la fonction d'entraîneur pendant au moins deux saisons sportives au cours des trois dernières années soit au sein d'une structure affiliée à la Fédération française de handball, soit au sein d'un pôle figurant sur la liste établie par le ministre chargé des sports en application de l'article R. 221-26 du code du sport.

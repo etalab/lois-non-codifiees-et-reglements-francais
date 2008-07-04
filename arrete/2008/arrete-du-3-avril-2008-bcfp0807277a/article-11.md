@@ -1,3 +1,0 @@
-# Article 11
-
-La mission chargée de la qualité de service anime et pilote la politique d'accueil pour l'ensemble des services déconcentrés. Elle organise et développe les services rendus aux usagers par internet et par des centres téléphoniques spécialisés. Elle conçoit et pilote des projets d'organisation ou de services nouveaux en rapport avec ses attributions. Elle organise et anime la politique de qualité de service pour l'ensemble des services déconcentrés ainsi que la certification des performances en la matière. Elle anime les comités d'usagers. Elle est chargée de la politique de simplification et d'harmonisation des imprimés fiscaux. Elle est enfin chargée de proposer, de mettre en œuvre ou de piloter des réingénieries.

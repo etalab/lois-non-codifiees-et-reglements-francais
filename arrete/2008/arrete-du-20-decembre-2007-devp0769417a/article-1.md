@@ -1,3 +1,0 @@
-# Article 1
-
-Tout distributeur de fluides frigorigènes mentionnés à l'article R. 543-75 du code de l'environnement établit chaque année, pour chaque type de fluide énuméré à l'article R. 543-75 du code de l'environnement, une déclaration des quantités de fluides qu'il a cédées, acquises, reprises ou qu'il a fait reprendre, traitées ou fait traiter, en distinguant les quantités détruites, les quantités régénérées et les quantités recyclées. Cette déclaration mentionne également les quantités de fluides qu'il a mises à disposition des producteurs de fluides et les quantités stockées au 31 décembre, ainsi que l'identité, la dénomination ou la raison sociale du distributeur, son adresse et son numéro SIRET.

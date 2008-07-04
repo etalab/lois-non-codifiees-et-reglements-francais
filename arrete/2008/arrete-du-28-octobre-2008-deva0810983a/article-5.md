@@ -1,3 +1,0 @@
-# Article 5
-
-Les sites prévus à l'article 5 du décret du 28 octobre 2008 susvisé sont ceux situés dans les périmètres géographiques de la direction de l'aviation civile Nord et de la direction de l'aviation civile Nord-Est.

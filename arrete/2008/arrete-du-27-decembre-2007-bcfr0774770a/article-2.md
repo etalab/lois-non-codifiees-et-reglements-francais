@@ -1,3 +1,0 @@
-# Article 2
-
-Par dérogation aux dispositions de l'article 1er, la liquidation et le paiement des rémunérations servies à certains agents contractuels dont la gestion relève directement des services déconcentrés du ministère précité, recrutés sur la base de l'article 6 de la loi n° 84-16 du 11 janvier 1984 modifiée portant dispositions statutaires relatives à la fonction publique de l'Etat ou du décret n° 69-600 du 13 juin 1969 relatif aux modalités de réalisation des enquêtes statistiques agricoles annuelles, en fonctions dans les départements des régions Auvergne et Haute-Normandie sont assurés, à compter du 1er janvier 2008, respectivement par les trésoriers-payeurs généraux du Puy-de-Dôme et de la Seine-Maritime.

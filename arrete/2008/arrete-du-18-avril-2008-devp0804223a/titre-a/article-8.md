@@ -1,7 +1,0 @@
-# Article 8
-
-L'agrément des organismes de contrôle d'étanchéité des réservoirs enterrés et de leurs équipements annexes est accordé par le ministre chargé des installations classées, conformément aux dispositions de l'arrêté du 18 avril 2008 relatif aux conditions d'agrément des organismes de contrôle d'étanchéité des réservoirs enterrés et de leurs équipements annexes, selon les échéances suivantes :
-
-― à compter du 1er juillet 2008, des agréments provisoires sont délivrés jusqu'au 31 décembre 2009 aux organismes de contrôle sur présentation, au ministre chargé des installations classées, d'un récépissé de dépôt de dossier de demande d'accréditation complet (incluant la signature d'une convention avec le COFRAC ou un organisme d'accréditation signataire de l'accord multilatéral de reconnaissance mutuelle pris dans le cadre de la coopération européenne des organismes d'accréditation [European Cooperation for Accreditation] et un engagement de démarche qualité) ;
-
-― pour 2010 et les années suivantes, les agréments sont délivrés pour une période de cinq ans sur la base de l'accréditation du COFRAC ou d'un organisme d'accréditation signataire de l'accord multilatéral de reconnaissance mutuelle pris dans le cadre de la coopération européenne des organismes d'accréditation (European Cooperation for Accreditation) et d'un dossier de demande d'agrément remis par l'organisme de contrôle au ministre chargé des installations classées avant le 31 octobre de l'année précédente.

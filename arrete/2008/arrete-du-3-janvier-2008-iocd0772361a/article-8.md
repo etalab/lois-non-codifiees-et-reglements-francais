@@ -1,3 +1,0 @@
-# Article 8
-
-La sous-direction du conseil juridique et du contentieux exerce, sur les dossiers traités au nom de l'Etat, une fonction de conseil et d'expertise juridique auprès des services centraux et déconcentrés du ministère de l'intérieur qui la saisissent à cette fin, tant en matière de droit interne que de droit européen et international. Elle assure le règlement des litiges, dans les domaines de sa compétence, devant les juridictions et par la voie de la transaction et met en oeuvre la protection due aux fonctionnaires du ministère. Elle gère les crédits de contentieux et de protection juridique, dont elle assure le suivi, ainsi que le centre de documentation juridique.

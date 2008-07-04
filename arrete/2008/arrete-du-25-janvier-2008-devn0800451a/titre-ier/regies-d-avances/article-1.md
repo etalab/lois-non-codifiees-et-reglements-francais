@@ -1,5 +1,0 @@
-# Article 1
-
-Le directeur de l'Agence des aires marines protégées peut, par décision prise sous sa seule signature et après accord du membre du corps de contrôle économique et financier placé auprès de l'établissement, instituer des régies d'avances auprès des différents bureaux, délégations, missions ou représentations de l'Agence des aires marines protégées, autres que le siège central, pour le paiement des dépenses prévues à l'article 10 du décret du 20 juillet 1992 susvisé.
-
-Peuvent en outre être payés par l'intermédiaire de ces régies d'avances, à l'étranger et dans les départements et régions d'outre-mer, ainsi que dans les autres collectivités d'outre-mer, les dépenses de matériel, agencement, équipements divers et les frais de fonctionnement des bureaux, délégations, missions ou représentations ne pouvant supporter les délais de la procédure normale d'ordonnancement, dans la mesure où le montant de chaque opération ne dépasse pas un montant fixé par la décision instituant chacune des régies et dans la limite maximale de 1500 €.

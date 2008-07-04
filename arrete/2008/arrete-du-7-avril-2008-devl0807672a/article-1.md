@@ -1,3 +1,0 @@
-# Article 1
-
-Est autorisée la création à titre expérimental par le ministère de l'écologie, de l'énergie, du développement durable et de l'aménagement du territoire, à la direction générale du personnel et de l'administration, d'un traitement automatisé d'observation sociale statistique des agents dénommé « OSAME » (observation sociale des agents du ministère de l'écologie), et dont la finalité est l'observation sociale statistique des agents du ministère aux fins de permettre une meilleure appréhension des typologies des problématiques rencontrées par les agents et de mieux cibler les politiques sociales à mettre en œuvre.

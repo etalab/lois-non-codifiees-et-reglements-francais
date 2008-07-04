@@ -1,5 +1,0 @@
-# Article 7
-
-Suite à une intervention portant atteinte à l'étanchéité d'un réservoir enterré ou d'un de ses équipements annexes, à l'exception des opérations ponctuelles de mesure de niveau, ou avant la remise en service d'un réservoir à la suite d'une neutralisation temporaire à l'eau, un contrôle d'étanchéité est effectué selon les règles de l'annexe II du présent arrêté par un organisme agréé conformément aux dispositions de l'article 8 du présent arrêté, avant la remise en service de l'ensemble de l'installation.
-
-En cas de détection de fuite sur un réservoir compartimenté, le compartiment est vidé et soumis à une épreuve d'étanchéité après les travaux de réparation et avant la remise en service. Les autres compartiments du réservoir sont soumis à une épreuve d'étanchéité dans la période d'un mois suivant la remise en service du compartiment à l'origine de la fuite. Les épreuves sont effectuées selon les règles de l'annexe II du présent arrêté par un organisme agréé conformément aux dispositions de l'article 8 du présent arrêté.

@@ -1,3 +1,0 @@
-# Article 3
-
-L'arrêté du 29 janvier 1997 portant création de commissions administratives paritaires à l'administration centrale et l'arrêté du 26 septembre 1996 portant création d'une commission administrative paritaire commune compétente à l'égard des corps de secrétaires administratifs des services déconcentrés des affaires sanitaires et sociales et des chefs de contrôle de l'action sanitaire et sociale, pour ce qui concerne les dispositions relatives aux secrétaires administratifs, sont abrogés à la date d'installation de la commission administrative paritaire instituée par le présent arrêté.

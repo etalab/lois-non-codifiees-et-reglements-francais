@@ -1,3 +1,0 @@
-# Article 3
-
-Les titulaires d'un certificat de qualification délivré en application des dispositions de l'arrêté du 27 décembre 1990 modifié relatif à la qualification des personnes pour la mise en œuvre des artifices de divertissement du groupe K4 disposent d'un délai de deux années à compter de la date de publication du présent arrêté pour demander la délivrance d'un nouveau certificat de qualification auprès du préfet du département de leur domicile. Celui-ci est délivré au vu de l'ancien certificat et après vérification que le demandeur a effectivement participé à la mise en œuvre, encadré par un artificier qualifié au sens de l'arrêté du 27 décembre 1990, de deux spectacles pyrotechniques sur une période maximale de deux ans précédant sa demande.

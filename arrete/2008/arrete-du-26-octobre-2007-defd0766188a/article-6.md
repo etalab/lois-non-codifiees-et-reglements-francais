@@ -1,5 +1,0 @@
-# Article 6
-
-Les détenteurs d'un certificat médical délivré conformément à l'arrêté du 30 mars 1994 modifié relatif à l'aptitude physique et mentale du personnel navigant professionnel d'essais et de réceptions avant la date d'entrée en vigueur du présent arrêté et qui ne remplissent pas les conditions de prorogation et de renouvellement de l'annexe FCL 3 de l'arrêté du 27 janvier 2005 susvisé gardent le bénéfice de ce certificat, sous réserve qu'ils continuent de remplir les conditions en vigueur à la date d'application du présent arrêté.
-
-Si, au moment du renouvellement ou de la prorogation du certificat médical, ils ne remplissent pas les conditions fixées par l'annexe FCL 3 de l'arrêté du 27 janvier 2005 susvisé, une dérogation peut leur être accordée par le conseil médical de l'aéronautique civile. Dans ce cas, celle-ci est portée sur le certificat médical sous la mention "certificat médical délivré par dérogation aux normes de l'arrêté du 27 janvier 2005 relatif à l'aptitude physique et mentale du personnel navigant technique professionnel de l'aéronautique civile".

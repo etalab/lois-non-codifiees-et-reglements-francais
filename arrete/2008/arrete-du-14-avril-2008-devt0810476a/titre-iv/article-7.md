@@ -1,3 +1,0 @@
-# Article 7
-
-Afin d'assurer un traitement transparent et non discriminatoire de l'ensemble des demandes, l'EPSF définit et publie par voie électronique, après consultation des organismes directement intéressés et dans un délai d'un an à compter de la publication du présent arrêté, un dossier d'information décrivant et explicitant les éléments mentionnés à l'annexe 1 et les modalités administratives d'instruction des demandes en application du présent arrêté. Ce dossier précise également les procédures et méthodes d'analyse que l'EPSF met en œuvre pour instruire les demandes de certificat de sécurité et contrôler le respect des conditions de maintien par leurs titulaires.

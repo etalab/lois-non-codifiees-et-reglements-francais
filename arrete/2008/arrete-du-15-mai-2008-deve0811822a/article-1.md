@@ -1,3 +1,0 @@
-# Article 1
-
-Il est créé par le ministère de l'écologie, de l'énergie, du développement durable et de l'aménagement du territoire un traitement automatisé de données à caractère personnel, dénommé « automatisation des déclarations de mise en production et en exploitation de ressources électriques » (AMPERE), dont la finalité est de permettre aux personnes physiques et aux personnes morales d'effectuer par téléprocédure la déclaration prévue par l'article 6 de la loi du 10 février 2000 susvisée pour exploiter une installation de production d'électricité, et au service chargé de la mise en œuvre du traitement d'enregistrer les déclarations reçues par voie postale.

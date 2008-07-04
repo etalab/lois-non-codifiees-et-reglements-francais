@@ -1,3 +1,0 @@
-# Article 4
-
-Les dépenses afférant au prix de l'intégration et au prix du soutien à l'intégration sont imputées sur les crédits ouverts au budget du ministre de l'immigration, de l'intégration, de l'identité nationale et du développement solidaire, sur le programme finançant les dépenses relatives à l'intégration et à la nationalité française. L'ordonnateur de la dépense est le ministre de l'immigration, de l'intégration, de l'identité nationale et du développement solidaire. Le comptable assignataire est le contrôleur budgétaire et comptable ministériel placé auprès du ministre de l'immigration, de l'intégration, de l'identité nationale et du développement solidaire.

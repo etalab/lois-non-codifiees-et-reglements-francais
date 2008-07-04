@@ -1,4 +1,0 @@
-# Arrêté du 19 décembre 2007 modifiant l'arrêté du 24 février 1994 relatif aux délégations de pouvoirs du ministre chargé des armées aux commandants de formation administrative de l'armée de l'air pour ce qui concerne ses attributions d'ordonnateur-répartiteur des matériels de la défense
-
-- [Article 2](article-2.md)
-- [Article 3](article-3.md)
