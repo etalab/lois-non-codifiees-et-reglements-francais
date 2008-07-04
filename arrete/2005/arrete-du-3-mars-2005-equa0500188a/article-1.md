@@ -61,3 +61,11 @@ La sous-direction de la navigation aérienne, des aéroports et de la sûreté (
 - le bureau des aptitudes des personnels de la navigation aérienne (DCS/NAS/ANA) ;
 
 - le bureau des systèmes et matériels de navigation aérienne (DCS/NAS/SNA).
+
+La sous-direction de la réglementation de la sécurité (DCS / RS), constituée par :
+
+- le bureau des personnels aéronautiques (DCS / RS PA) ;
+
+- le bureau des aéronefs et de l'exploitation (DCS / RS AE) ;
+
+- le bureau de la sécurité aéroportuaire (DCS / RS SA).
