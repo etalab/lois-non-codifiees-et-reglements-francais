@@ -16,9 +16,7 @@ Les sanctions disciplinaires applicables aux agents statutaires suivant la gravi
 
 5° La rétrogradation d'un ou plusieurs échelons ou échelles ;
 
-6° La mise à la retraite d'office ;
-
-7° La révocation sans pension.
+6° La mise à la retraite d'office.
 
 Paragraphe 2.
 
@@ -39,7 +37,3 @@ L'agent appelé à comparaître devant la commission compétente doit en être i
 Paragraphe 4.
 
 Pour chaque affaire, un rapporteur, membre de la commission, est désigné par le président de la commission secondaire du personnel ; il présente un rapport écrit et établit un procès-verbal également écrit des débats et des décisions prises.
-
-Paragraphe 5.
-
-La révocation est obligatoirement prononcée d'office, sans intervention de la commission ci-dessus visée, contre tout agent frappé d'une condamnation infâmante ou d'indignité nationale, quelle que soit la durée de cette dernière.

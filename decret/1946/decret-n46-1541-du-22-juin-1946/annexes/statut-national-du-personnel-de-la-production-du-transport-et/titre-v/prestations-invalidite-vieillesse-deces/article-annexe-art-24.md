@@ -2,18 +2,12 @@
 
 Paragraphe 1.
 
-Les conditions de détermination des prestations : invalidité, dues à la suite d'accidents de travail, de maladies professionnelles, de maladies ou blessures de courte ou de longue durée, ainsi que celles : vieillesse et décès sont fixées en une annexe au présent statut intitulée : Annexe n° 3 : Prestations invalidité, vieillesse, décès.
-
-Ces prestations sont considérées comme salaires ou traitements d'inactivité et leur couverture est, à ce titre, inscrite au compte "Personnel", chapitre "Inactivité" de chaque établissement public.
-
-Elles ne peuvent être inférieures aux taux prévus par la législation générale sur la sécurité sociale.
+Les conditions d'ouverture des droits aux prestations d'invalidité, de vieillesse et de décès du régime spécial des industries électriques et gazières et la détermination de celles-ci sont fixées à l'annexe 3 au présent statut.
 
 Paragraphe 2.
 
-La participation du personnel aux charges desdites prestations est fixée par décret. Les salaires ou traitements servant d'assiette sont définis comme indiqué au paragraphe 3 de l'article 9 du présent statut.
+Lorsqu'il est constaté par la médecine-conseil du régime spécial des industries électriques et gazières que l'état de santé du titulaire d'une pension d'invalidité lui permet de reprendre une activité professionnelle, l'agent est réintégré de droit chez son employeur.
 
-Paragraphe 3.
+Tout agent titulaire d'une pension d'invalidité qui, compte tenu de ses nouvelles conditions physiques, cesse de percevoir sa pension d'invalidité pour reprendre une activité ou qui cumule une pension d'invalidité avec une activité professionnelle réduite dans une entreprise ou un organisme des industries électriques et gazières percevra un salaire calculé au minimum sur la base du classement auquel il était affecté avant l'accident ou la maladie ayant engendré son incapacité partielle de travail, quel que soit l'emploi, la fonction ou le poste qui pourra lui être confié.
 
-Tout agent pensionné au titre de l'invalidité (maladies-blessures ou accidents de travail et maladies professionnels et qui peut être maintenu en service, compte tenu de ses nouvelles conditions physiques, continuera à percevoir le salaire ou le traitement de l'échelle à laquelle il était affecté avant l'accident ou la maladie ayant engendré son incapacité partielle de travail.
-
-Il continue, le cas échéant, à avancer dans ladite échelle, dans les conditions fixées au présent statut.
+Le droit à ancienneté est maintenu pendant la période d'invalidité lorsque celle-ci résulte d'un accident du travail ou d'une maladie professionnelle. Dans les autres cas, le droit à ancienneté reprend, le cas échéant, à compter de la date de reprise d'activité.

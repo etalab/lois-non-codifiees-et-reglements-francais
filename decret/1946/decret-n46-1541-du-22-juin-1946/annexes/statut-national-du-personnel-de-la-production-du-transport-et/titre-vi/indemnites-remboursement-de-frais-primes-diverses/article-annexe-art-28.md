@@ -4,7 +4,7 @@ Paragraphe 1.
 
 Sans préjudice des dispositions législatives et réglementaires relatives à la négociation collective, les primes et indemnités représentatives de frais professionnels ou compensatrices de sujétions particulières sont instituées par les établissements nationaux, après avis de la Commission supérieure nationale du personnel.
 
-Les avantages dits en nature sont maintenus aux agents en situation d'inactivité pensionnés.
+Les avantages dits en nature sont maintenus aux agents en invalidité et aux agents titulaires d'une pension de vieillesse du régime spécial des industries électriques et gazières, sous réserve, pour ces derniers, de justifier d'une ancienneté minimale de quinze années, telle que définie aux troisième alinéa et suivants du quatrième paragraphe de l'article 26 du présent statut, le cas échéant période d'invalidité comprise. Pour la mise en œuvre du présent alinéa, les pensionnés sont rattachés à la dernière entreprise ou au dernier organisme dont le personnel relève du statut des industries électriques et gazières à laquelle ils ont appartenu avant leur départ en inactivité.
 
 Paragraphe 2.
 

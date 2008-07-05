@@ -12,25 +12,11 @@ b) D'une durée de trois ans en cas de longue maladie quel qu'en soit le caract�
 
 Dans le cas où un repos supplémentaire s'avérerait nécessaire, l'agent intéressé bénéficierait, au delà de ces trois ans à salaire ou traitement intégral, de son demi-salaire ou traitement pendant une nouvelle période de deux années.
 
-En cette circonstance, la caisse mutuelle complémentaire et d'action sociale prévue à l'article 23 ci-dessous peut permettre à l'agent intéressé, sur sa simple demande, de continuer ses traitements, soins, cures ou convalescence, et cela :
+En cette circonstance, la caisse d'assurance maladie des industries électriques et gazières prévue à l'article 23 ci-dessous peut permettre à l'agent intéressé, sur sa simple demande, de continuer ses traitements, soins, cures ou convalescence en maintenant les prestations complémentaires de celles du régime général de sécurité sociale dont l'agent bénéficiait précédemment.
 
-D'une part, en maintenant les prestations complémentaires de celles du régime général de sécurité sociale dont l'agent bénéficiait précédemment,
+Par ailleurs, la caisse mutuelle complémentaire et d'action sociale prévue à l'article 25 ci-dessous peut accorder une indemnité dite de moyens d'existence, qui s'ajouterait au demi-salaire statutaire dû à l'agent par son employeur.
 
-D'autre part, en accordant, sur son budget d'activités sociales, une indemnité dite de moyens d'existence, qui s'ajouterait au demi-salaire ou demi-traitement statutaire dû à l'agent par le service, l'exploitation ou l'entreprise.
-
-A l'issue de ces congés, la situation individuelle des agents qui resteraient encore inaptes au travail sera examinée par une commission dite "commission nationale d'invalidité" aux fins :
-
-a) De déterminer, avec le souci de mettre en oeuvre tous les moyens propres à permettre le réemploi ultérieur de l'agent, l'aide qui doit être maintenue momentanément et exceptionnellement à cet agent, tant par le service, l'exploitation ou l'entreprise, que par la caisse mutuelle complémentaire et d'action sociale ;
-
-b) De décider, au cas où le réemploi ultérieur de l'agent ne peut être envisagé, les conditions dans lesquelles il lui sera fait application de la réglementation statutaire en matière d'invalidité.
-
-La commission nationale d'invalidité est composée :
-
-1° En nombre égal, de représentants des directions et de représentants des caisses mutuelles complémentaires et d'action sociale ;
-
-2° De membres du corps médical, désignés, pour moitié, par les directions et, pour moitié, par le comité de coordination des caisses mutuelles complémentaires et d'action sociale.
-
-Un arrêté du ministre du travail et de la sécurité sociale et du ministre de l'industrie et du commerce, pris après avis de la commission supérieure nationale du personnel, fixe le nombre des membres et le règlement de la commission nationale d'invalidité.
+Pendant ou à l'issue de ces congés, l'ouverture du droit aux prestations d'invalidité du régime spécial est appréciée dans les conditions prévues à l'annexe 3 du présent statut.
 
 Paragraphe 2.
 
