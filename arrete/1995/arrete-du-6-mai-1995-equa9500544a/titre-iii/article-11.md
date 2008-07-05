@@ -14,6 +14,8 @@ Dans ce cas, les deux limitations suivantes devront être respectées :
 
 (un atterrissage et un décollage constituant deux mouvements).
 
+Dans le décompte des mouvements, n'interviennent pas les mouvements d'hélicoptères réalisés dans le cadre de la formation des pilotes en double commande avec un instructeur, si ces hélisurfaces ont été identifiées comme telles dans les dossiers déposés par les centres de formation agréés ou déclarés auprès de leur autorité de tutelle.
+
 Soit de mouvements relativement nombreux pendant une période courte et limitée. Ce cas correspond à des événements exceptionnels et temporaires, pour des vols de travail aérien susceptibles d'engendrer des dépassements des limitations précitées. L'opérateur de l'hélicoptère ou son représentant doit en informer les autorités préfectorales avant le début des opérations.
 
 En cas d'utilisation d'une hélisurface à moins de 150 mètres d'une habitation ou de tout rassemblement de personnes, à l'extérieur des agglomérations telles que définies à l'article 3 ci-dessus, les personnes ayant la jouissance des lieux concernés peuvent demander au préfet de faire cesser les nuisances phoniques répétitives.
