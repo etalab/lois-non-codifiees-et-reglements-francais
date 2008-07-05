@@ -4,4 +4,6 @@ Les statuts des établissements de crédit coopératif ou mutualiste peuvent pr�
 
 Les dispositions du titre II quater s'appliquent à ces certificats coopératifs d'associés.
 
-Ceux-ci ne peuvent être émis lorsque les statuts prévoient le recours aux dispositions des deux derniers alinéas de l'article 16.    Les certificats coopératifs d'investissement, les certificats coopératifs d'associés et les parts à intérêt prioritaire ne peuvent représenter ensemble plus de 50 p. 100 du capital.
+Ceux-ci ne peuvent être émis lorsque les statuts prévoient le recours aux dispositions des deux derniers alinéas de l'article 16. Les certificats coopératifs d'investissement, les certificats coopératifs d'associés et les parts à intérêt prioritaire ne peuvent représenter ensemble plus de 50 % du capital.
+
+Le contrat d'émission des certificats coopératifs d'associés prévoit les modalités de rachat de ces titres.

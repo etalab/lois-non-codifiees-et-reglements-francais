@@ -6,4 +6,5 @@
 - [Titre II quater : Certificats coopératifs d'investissement.](titre-ii-quater)
 - [Titre II quinquies : Certificats coopératifs d'associés](titre-ii-quinquies)
 - [Titre III : Contrôle et sanctions.](titre-iii)
+- [Titre III bis : La société coopérative européenne.](titre-iii-bis)
 - [Titre IV : Dispositions diverses.](titre-iv)
