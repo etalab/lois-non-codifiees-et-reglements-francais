@@ -2,8 +2,6 @@
 
 Les fonctionnaires nommés dans l'un des emplois mentionnés à l'article 1er et qui ne sont pas recrutés suivant les modalités de l'article 47 de la loi du 26 janvier 1984 précitée sont placés en position de détachement dans les conditions et suivant les règles statutaires prévues pour cette position dans leur cadre d'emplois, corps ou emploi d'origine.
 
-Toutefois, la nomination ne peut être prononcée lorsque la rémunération afférente à l'emploi de détachement excède la rémunération globale perçue dans le grade d'origine de plus de 15 p. 100.
-
 Ces fonctionnaires sont classés à l'échelon de l'emploi fonctionnel comportant un indice égal ou, à défaut, immédiatement supérieur à celui dont ils bénéficiaient dans leur grade.
 
 Ils conservent, dans la limite de la durée de service exigée pour l'accès à l'échelon supérieur, l'ancienneté d'échelon acquise dans leur grade d'origine lorsque cette nomination ne leur procure pas un avantage supérieur à celui qui serait résulté d'un avancement d'échelon dans leur grade d'origine.
