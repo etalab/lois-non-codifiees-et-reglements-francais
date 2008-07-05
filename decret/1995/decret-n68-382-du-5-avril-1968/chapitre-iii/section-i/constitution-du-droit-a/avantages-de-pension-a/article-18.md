@@ -1,12 +1,12 @@
 # Article 18
 
-Une majoration de pension est accordée aux tributaires ayant élevé au moins trois enfants [*nombre*].
+Une majoration de pension est accordée aux tributaires ayant élevé au moins trois enfants.
 
 Ouvrent droit à cette majoration :
 
-a) Les enfants légitimes, les enfants naturels dont la filiation est établie et les enfants adoptifs du titulaire de la pension ;
+a) Les enfants nés de l'assuré ou adoptés par lui ;
 
-b) Les enfants du conjoint issus d'un mariage précédent, ses enfants naturels dont la filiation est établie et ses enfants adoptifs ;
+b) Les enfants du conjoint issus d'un mariage précédent ou adoptés par lui
 
 c) Les enfants ayant fait l'objet d'une délégation de l'autorité parentale en faveur du titulaire de la pension ou de son conjoint ;
 

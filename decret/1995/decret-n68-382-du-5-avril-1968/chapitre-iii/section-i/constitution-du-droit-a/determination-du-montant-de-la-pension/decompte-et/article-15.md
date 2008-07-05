@@ -6,7 +6,7 @@ Pendant les trois meilleures années consécutives pour le personnel artistique 
 
 Pendant les six derniers mois pour les autres personnels.
 
-Lorsque l'intéressé a appartenu successivement aux deux catégories, la pension est assise sur la moyenne pondérée en fonction de la durée d'activité dans chaque catégorie des rémunérations mentionnées au précédent alinéa perçues au titre de chaque catégorie.
+Lorsque l'assuré a appartenu successivement aux deux catégories, la pension est assise sur la moyenne des rémunérations soumises à retenues de la dernière catégorie d'activité dans les conditions définies aux alinéas précédents.
 
 Les rémunérations mentionnées au premier alinéa sont revalorisées avant toute comparaison des rétributions perçues, pour la période séparant la date de leur échéance de celle de la liquidation de la pension conformément aux dispositions de l'article 17 ci-après.
 

@@ -6,6 +6,8 @@ La retenue mentionnée à l'alinéa précédent est assise sur la rémunération
 
 Pour les personnels artistiques visés au paragraphe II de l'article 2 ci-dessus, le plafond des cotisations fixé à l'alinéa précédent est réduit au prorata du temps de leur mise à disposition du théâtre.
 
+Pendant la durée des absences des personnels pour maladie, maternité, congé individuel de formation, les cotisations continuent à être calculées sur les éléments qui auraient servi à les déterminer s'ils étaient restés en activité.
+
 Ce prélèvement est indépendant de la cotisation perçue en vertu de la législation sur la sécurité sociale pour la couverture des risques autres que ceux pris en charge par la caisse de retraites.
 
 Lorsque le tributaire atteint l'âge de liquidation des droits à pension afférents à sa catégorie et quitte le service avec une ancienneté d'une durée inférieure à un an, ses retenues lui sont remboursées sauf, d'une part, déduction du montant des cotisations de l'assurance vieillesse du régime général de sécurité sociale, conformément au décret de coordination et, d'autre part, compensation avec les sommes pouvant être dues par l'intéressé du chef des débets prévus à l'article 29 du décret n° 68-382 du 5 avril 1968.

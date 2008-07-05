@@ -4,7 +4,7 @@ Les charges de la caisse de retraites comprennent :
 
 1° Le service des pensions et allocations ;
 
-2° Le paiement des secours alloués par la commission de gestion ;
+2° Le paiement des aides allouées par le conseil d'administration ;
 
 3° Les frais généraux de la caisse ;
 

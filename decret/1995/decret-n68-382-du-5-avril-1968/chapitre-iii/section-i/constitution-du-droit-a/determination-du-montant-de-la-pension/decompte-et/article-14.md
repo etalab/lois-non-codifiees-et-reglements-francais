@@ -1,10 +1,10 @@
 # Article 14
 
-I.-La durée des services et des bonifications prévus aux articles 6,12,13 et 13 bis et admissibles en liquidation s'exprime en trimestres. Dans le décompte final des trimestres liquidables, la fraction de trimestre égale ou supérieure à quarante-cinq jours est comptée pour un trimestre. La fraction de trimestre inférieure à quarante-cinq jours est négligée.
+I.-La durée des services et des bonifications prévus aux articles 6, 11, 12, 13 et 13 bis et admissibles en liquidation s'exprime en trimestres. Dans le décompte final des trimestres liquidables, la fraction de trimestre égale ou supérieure à quarante-cinq jours est comptée pour un trimestre. La fraction de trimestre inférieure à quarante-cinq jours est négligée.
 
 Sous réserve des dispositions du V du présent article, le nombre de trimestres nécessaire pour obtenir le pourcentage maximum de la pension est fixé à cent soixante et il évolue comme la durée des services et bonifications exigée des fonctionnaires de l'Etat pour obtenir le pourcentage maximum d'une pension civile dans les conditions définies à l'article 5 de la loi du 21 août 2003 portant réforme des retraites.
 
-Le pourcentage maximum de la pension est fixé à 75 %. Il peut être porté à 80 % du chef des bonifications prévues à l'article 12 ci-dessus.
+Le pourcentage maximum de la pension est fixé à 75 %.
 
 Chaque trimestre est rémunéré en rapportant le pourcentage maximum défini ci-dessus au nombre de trimestres résultant du deuxième alinéa.
 

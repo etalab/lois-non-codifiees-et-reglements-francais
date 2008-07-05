@@ -2,7 +2,7 @@
 
 I. - La caisse de retraites des personnels de l'Opéra national de Paris comprend obligatoirement tous les membres du personnel de l'établissement public engagés pour une durée indéterminée.
 
-II. - Relèvent également de la caisse de retraites, pour la période où leurs contrats les placent à disposition du théâtre, les personnels artistiques du chant, des choeurs, de la danse et de l'orchestre, y compris les chefs d'orchestre, engagés temporairement.
+II. - Relèvent également de la caisse de retraites, pour la période où leurs contrats les placent à disposition du théâtre, les personnels artistiques du chant, des choeurs, de la danse et de l'orchestre, y compris les chefs d'orchestre et les artistes de l'Atelier lyrique, engagés temporairement.
 
 Sont regardées comme comportant mise à la disposition du théâtre les périodes au cours desquelles l'artiste peut être appelé à tout moment, en vertu de son contrat, à participer aux répétitions ou aux représentations d'un ou de plusieurs ouvrages.
 

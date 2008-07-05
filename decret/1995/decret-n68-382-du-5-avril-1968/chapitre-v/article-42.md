@@ -1,10 +1,10 @@
 # Article 42
 
-La gestion de la caisse de retraites des personnels de l'Opéra national de Paris est confiée à une commission de quatorze membres ainsi constituée :
+La gestion de la caisse de retraites des personnels de l'Opéra national de Paris est confiée à un conseil d'administration de seize membres ainsi constitué :
 
 1° Membres nommés :
 
-Le président de la commission et son suppléant, nommés par arrêté conjoint des ministres chargés de la culture, de la sécurité sociale et du budget.
+Le président du conseil d'administration nommé par arrêté conjoint des ministres chargés de la culture, de la sécurité sociale et du budget et le vice-président nommé dans les mêmes conditions ;
 
 2° Membres de droit :
 
@@ -18,7 +18,7 @@ Le directeur de la sécurité sociale ou son représentant ;
 
 Le directeur général de la Caisse des dépôts et consignations ou son représentant ;
 
-Le membre du corps du contrôle général économique et financier de l'Opéra national de Paris.
+Un membre du corps de contrôle général, économique et financier ;
 
 3° Membres élus par le personnel du théâtre national de l'Opéra de Paris
 
@@ -40,15 +40,15 @@ Les membres désignés par arrêté sont nommés pour trois ans ; leurs fonction
 
 Les membres soumis à l'élection sont élus pour trois ans au suffrage direct ; ils sont rééligibles. Chaque groupe du personnel ci-dessus mentionné désigne en outre tous les trois ans un délégué suppléant qui remplace le titulaire en cas d'empêchement de celui-ci. Les pouvoirs des membres élus expirent le 1er janvier de chaque période triennale.
 
-En cas de décès, de démission ou de départ d'un membre élu de la commission de gestion, il est pourvu, dans un délai de deux mois, à son remplacement dans les conditions ci-dessus spécifiées. La durée des fonctions de ce nouveau membre prend fin à l'époque où aurait normalement expiré le mandat de celui qu'il remplace.
+En cas de décès, de démission ou de départ d'un membre élu du conseil d'administration, il est pourvu, dans un délai de deux mois, à son remplacement dans les conditions ci-dessus spécifiées. La durée des fonctions de ce nouveau membre prend fin à l'époque où aurait normalement expiré le mandat de celui qu'il remplace.
 
 Un arrêté du ministre chargé de la culture et du ministre chargé de la sécurité sociale règle les formes et modalités de l'élection des représentants du personnel en activité de service.
 
-Un délégué des retraités, désigné par l'association la plus représentative, est adjoint à la commission avec voix consultative.
+4° Deux membres ayant voix consultative représentant les retraités désignés par l'association la plus représentative des retraités du régime spécial.
 
 En cas de partage égal des voix, la voix du président est prépondérante.
 
-La commission élit son vice-président.
+En cas d'absence ou d'empêchement du président, celui-ci est suppléé par le vice-président.
 
 Les fonctions de membres de la commission sont gratuites.
 
