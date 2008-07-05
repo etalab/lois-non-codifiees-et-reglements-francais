@@ -6,4 +6,4 @@ Toutefois, peuvent cumuler intégralement le montant de leur pension avec celui 
 
 1° Les titulaires de pension d'invalidité ;
 
-2° Les titulaires de pension dont la rémunération annuelle d'activité n'excède pas le quart du montant de la pension ou le montant du traitement servant au calcul du minimum de pension fixé à l'article 14 a du présent décret.
+2° Les titulaires de pension dont la rémunération annuelle d'activité n'excède pas le quart du montant de la pension ou le montant du traitement servant au calcul du minimum de pension fixé à l'article 14.

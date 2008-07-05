@@ -1,37 +1,17 @@
 # Article 6 bis
 
-I-Les personnels de toutes catégories qui ne totalisent pas le minimum de temps de service exigé à l'article 6 ci-dessus bénéficient d'un droit à pension ouvert à l'âge de soixante-cinq ans.
+I. - L'âge prévu au 1° de l'article 6 est abaissé pour les assurés handicapés :
 
-II-La pension peut être liquidée par anticipation à partir de l'âge de soixante ans [*retraite anticipée*]. Dans ce cas, le montant de la pension est réduit par application des coefficients ci-après :
+1° A cinquante-cinq ans pour ceux qui ont accompli dans le régime de la Comédie-Française, et, le cas échéant, dans un ou plusieurs autres régimes de retraite obligatoires, alors qu'ils étaient atteints d'une incapacité permanente au moins égale à 80 %, une durée d'assurance ou de périodes reconnues équivalentes au moins égale à la limite définie au deuxième alinéa du I de l'article 12 diminuée de quarante trimestres et une durée d'assurance ayant donné lieu à cotisations à leur charge au moins égale à cette même limite diminuée de soixante trimestres ;
 
-Coefficient
+2° A cinquante-six ans pour ceux qui ont accompli, dans les conditions prévues au 1°, une durée d'assurance ou de périodes reconnues équivalentes au moins égale à la limite définie au deuxième alinéa du I de l'article 12 diminuée de cinquante trimestres et une durée d'assurance ayant donné lieu à cotisations à leur charge au moins égale à cette même limite diminuée de soixante-dix trimestres ;
 
-Soixante ans... 0,78
+3° A cinquante-sept ans pour ceux qui ont accompli, dans les conditions prévues au 1°, une durée d'assurance ou de périodes reconnues équivalentes au moins égale à la limite définie au deuxième alinéa du I de l'article 12 diminuée de soixante trimestres et une durée d'assurance ayant donné lieu à cotisations à leur charge au moins égale à cette même limite diminuée de quatre-vingts trimestres ;
 
-Soixante et un ans... 0,83
+4° A cinquante-huit ans pour ceux qui ont accompli, dans les conditions prévues au 1°, une durée d'assurance ou de périodes reconnues équivalentes au moins égale à la limite définie au deuxième alinéa du I de l'article 12 diminuée de soixante-dix trimestres et une durée d'assurance ayant donné lieu à cotisations à leur charge au moins égale à cette même limite diminuée de quatre-vingt-dix trimestres ;
 
-Soixante-deux ans... 0,88
+5° A cinquante-neuf ans pour ceux qui ont accompli, dans les conditions prévues au 1°, une durée d'assurance ou de périodes reconnues équivalentes au moins égale à la limite définie au deuxième alinéa du I de l'article 12 diminuée de quatre-vingts trimestres et une durée d'assurance ayant donné lieu à cotisations à leur charge au moins égale à cette même limite diminuée de cent trimestres.
 
-Soixante-trois ans... 0,92
+II. - Une majoration de pension est accordée aux assurés handicapés mentionnés au I. Le taux de cette majoration est fixé à un tiers du quotient obtenu en divisant la durée des services effectivement accomplis durant laquelle l'intéressé était atteint d'une incapacité permanente au moins égale à 80 % par la durée des services et bonifications prise en compte pour la liquidation. Ce nombre est arrondi, le cas échéant, au centième le plus proche.
 
-Soixante-quatre ans... 0,96
-
-III-Toutefois ce coefficient n'est pas applicable aux assurés qui sont reconnus inaptes au travail dans les conditions et selon les modalités prévues par le Code de la sécurité sociale, ou qui sont anciens déportés ou internés titulaires de la carte de déporté ou interné de la Résistance ou de la carte de déporté ou interné politique ou qui justifient, tous régimes de base d'assurance vieillesse obligatoires confondus, d'une durée d'assurance au moins égale à celle qui est fixée par l'article R. 351-6 du code de la sécurité sociale.
-
-IV-La pension des assurés anciens prisonniers de guerre, âgés de soixante ans ou plus, est liquidée sans réduction, quel que soit leur âge lors de la demande de liquidation, lorsque la durée de leur captivité a été égale ou supérieure à cinquante-quatre mois.
-
-Le coefficient de réduction applicable aux pensions demandées par anticipation par des prisonniers de guerre âgés de soixante ans ou plus et dont la durée de captivité est inférieure à cinquante-quatre mois est le coefficient applicable, en vertu des dispositions du II ci-dessus, à l'âge qu'ont les intéressés lors de la demande de liquidation, majoré :
-
-D'un an, pour ceux dont la durée de captivité est inférieure à dix-huit mois mais supérieure à cinq mois ;
-
-De deux ans, pour ceux dont la durée de captivité est inférieure à trente mois mais supérieure à dix-sept mois ;
-
-De trois ans, pour ceux dont la durée de captivité est inférieure à quarante-deux mois mais supérieure à vingt-neuf mois ;
-
-De quatre ans, pour ceux dont la durée de captivité est inférieure à cinquante-quatre mois mais supérieure à quarante et un mois.
-
-Les anciens prisonniers évadés de guerre, au-delà d'une captivité de cinq mois, et les anciens prisonniers rapatriés pour maladie peuvent choisir le régime le plus favorable.
-
-Toute partie de mois n'est pas prise en considération.
-
-Les dispositions du présent paragraphe s'appliquent à tous les anciens combattants pour leur durée de service actif passé sous les drapeaux.
+La pension ainsi majorée ne peut excéder la pension qui aurait été obtenue par application du pourcentage maximum mentionné au troisième alinéa du I de l'article 12. Lorsque la pension est également majorée en application des dispositions de l'article 16, son montant ne peut pas excéder celui des éléments de rémunération mentionnés à l'article 13.

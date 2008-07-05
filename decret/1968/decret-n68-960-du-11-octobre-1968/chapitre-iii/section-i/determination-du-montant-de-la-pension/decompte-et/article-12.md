@@ -4,7 +4,7 @@ I.-La durée des services et des bonifications prévus aux articles 6,7,10 bis,1
 
 Sous réserve des dispositions du V du présent article, le nombre de trimestres nécessaire pour obtenir le pourcentage maximum de la pension est fixé à cent soixante trimestres et il évolue comme la durée des services et bonifications exigée des fonctionnaires de l'Etat pour obtenir le pourcentage maximum d'une pension civile dans les conditions définies à l'article 5 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites.
 
-Le pourcentage maximum de la pension est fixé à 75 %. Il peut être porté à 80 % du chef des bonifications prévues à l'article 12 ci-dessus.
+Le pourcentage maximum de la pension est fixé à 75 %.
 
 Chaque trimestre est rémunéré en rapportant le pourcentage maximum défini ci-dessus au nombre de trimestres résultant du deuxième alinéa.
 

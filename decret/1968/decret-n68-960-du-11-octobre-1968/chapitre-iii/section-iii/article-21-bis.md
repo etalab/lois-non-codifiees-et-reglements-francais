@@ -1,15 +1,15 @@
 # Article 21 bis
 
-I. - Le conjoint séparé de corps et le conjoint divorcé, sauf si ce dernier s'est remarié avant le décès de son ancien conjoint, ont droit à la pension prévue pour les conjoints survivants par les articles 20 et 21 ci-dessus.
+I. - Le conjoint séparé de corps et le conjoint divorcé ont droit à la pension prévue pour les conjoints survivants.
 
-II. - Le conjoint survivant ou le conjoint divorcé qui contracte un nouveau mariage ou qui vit en état de concubinage notoire perd son droit à pension.
+Le conjoint divorcé qui se remarie avant le décès de son ancien conjoint perd son droit à pension de réversion. Toutefois, le conjoint divorcé qui s'est remarié avant le décès de son ancien conjoint et qui, à la cessation de cette union, ne bénéficie d'aucun droit à pension de réversion peut faire valoir ce droit s'il n'est pas ouvert au profit d'un autre ayant cause.
 
-III. - Les droits qui appartiennent ou auraient appartenu aux conjoints remariés ou qui vivent en état de concubinage notoire passent aux enfants de moins de vingt et un ans dans les conditions prévues à l'article 22 ci-dessous.
+II. - Les bénéficiaires d'une pension de réversion remariés, liés par un pacte civil de solidarité ou vivant en concubinage perdent leur droit à pension de réversion.
 
-IV. - Le conjoint survivant ou le conjoint divorcé, dont la nouvelle union est dissoute ou qui cesse de vivre en état de concubinage notoire, peut, s'il le désire, recouvrer son droit à pension et demander qu'il soit mis fin à l'application qui a pu être faite des dispositions du paragraphe III du présent article.
+Les bénéficiaires d'une pension de réversion remariés qui sont redevenus veufs, divorcés ou séparés de corps peuvent demander à recouvrer leur droit à pension, sous réserve qu'il soit mis fin à l'application qui a pu être faite des dispositions du III. Il en est de même pour les bénéficiaires d'une pension de réversion liés par un pacte civil de solidarité lorsqu'il est mis fin au pacte, ainsi que pour ceux vivant en concubinage quand celui-ci cesse.
 
-V. - Le conjoint divorcé qui s'est remarié avant le décès du tributaire et qui, à la cessation de cette union, ne bénéficie d'aucun droit à pension de réversion peut faire valoir ce droit s'il n'est pas ouvert au profit d'un autre ayant cause.
+III. - Les droits qui appartiennent ou auraient appartenu aux conjoints remariés, liés par un pacte civil de solidarité ou vivant en concubinage passent aux enfants de moins de vingt et un ans dans les conditions prévues à l'article 22.
 
-VI. - Lorsqu'au décès d'un tributaire il existe plusieurs conjoints, divorcés ou survivant, ayant droit à la pension de réversion, celle-ci est répartie entre ces conjoints au prorata de la durée respective de chaque mariage ; le partage est opéré lors de la liquidation des droits du premier qui en fait la demande, sans préjudice de l'application des dispositions du paragraphe II ci-dessus.
+IV. - Lorsqu'au décès du tributaire il existe plusieurs conjoints, survivants ou divorcés, ayant droit à la pension de réversion, celle-ci est partagée entre eux au prorata de la durée respective de chaque mariage. Ce partage est opéré lors de la liquidation des droits du premier d'entre eux qui en fait la demande, sans préjudice de l'application des dispositions du II.
 
-Au décès de l'un des bénéficiaires, sa part de pension de réversion accroît celle des autres, sauf réversion du droit au profit des enfants de moins de vingt et un ans.
+En cas de décès de l'un des bénéficiaires de la pension de réversion, sa part passe, le cas échéant, aux orphelins de moins de vingt et un ans issus de son union avec le tributaire ou le titulaire de la pension ou adoptés au cours de cette union.
