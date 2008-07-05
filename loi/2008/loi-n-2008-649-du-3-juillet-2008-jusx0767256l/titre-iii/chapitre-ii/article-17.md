@@ -1,0 +1,3 @@
+# Article 17
+
+Pour l'application de l'article 26-11 de la loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération, lorsque le contrat d'émission, conclu avant l'entrée en vigueur de la présente loi, ne prévoit aucune modalité de rachat des certificats coopératifs d'investissement ou des certificats coopératifs d'associés, il est fait application des méthodes d'évaluation soit fixées par l'assemblée spéciale dans des conditions assurant l'égalité entre les titulaires de certificats coopératifs d'investissement ou les titulaires de certificats coopératifs d'associés soit, lorsque ces certificats sont admis aux négociations sur un marché réglementé, dans les conditions prévues par les articles L. 212-6-3 et L. 212-6-4 du code monétaire et financier.

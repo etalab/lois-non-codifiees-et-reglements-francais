@@ -20,5 +20,7 @@
 - [LOI n° 2008-595 du 25 juin 2008 (DEVX0771876L)](loi-n-2008-595-du-25-juin-2008-devx0771876l)
 - [LOI n° 2008-596 du 25 juin 2008 (MTSX0805954L)](loi-n-2008-596-du-25-juin-2008-mtsx0805954l)
 - [LOI n° 2008-644 du 1er juillet 2008 (JUSX0811207L)](loi-n-2008-644-du-1er-juillet-2008-jusx0811207l)
+- [LOI n° 2008-649 du 3 juillet 2008 (JUSX0767256L)](loi-n-2008-649-du-3-juillet-2008-jusx0767256l)
+- [LOI n° 2008-650 du 3 juillet 2008 (SJSX0804402L)](loi-n-2008-650-du-3-juillet-2008-sjsx0804402l)
 - [LOI n° 2008-67 du 21 janvier 2008 (MTSX0700051L)](loi-n-2008-67-du-21-janvier-2008-mtsx0700051l)
 - [LOI n° 2008-89 du 30 janvier 2008 (MTSX0760738L)](loi-n-2008-89-du-30-janvier-2008-mtsx0760738l)
