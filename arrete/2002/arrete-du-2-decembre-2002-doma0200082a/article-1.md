@@ -36,7 +36,7 @@ f) Les premiers présidents et procureurs généraux près des cours d'appel de 
 
 Les présidents et procureurs de la République des tribunaux supérieurs d'appel de Saint-Pierre-et-Miquelon et de Mayotte ;
 
-Les présidents et procureurs de la République des tribunaux de première instance  de Nouvelle-Calédonie, de Polynésie française et de Mayotte ainsi que les  présidents des tribunaux de première instance des îles Wallis et Futuna et de  Saint-Pierre-et-Miquelon ;
+Les présidents et procureurs de la République des tribunaux de première instance de Nouvelle-Calédonie, de Polynésie française et de Mayotte ainsi que les présidents des tribunaux de première instance des îles Wallis et Futuna et de Saint-Pierre-et-Miquelon ;
 
 g) Les inspecteurs d'académie, directeurs des services départementaux de l'éducation nationale et vice-recteurs de Nouvelle-Calédonie, de Polynésie française, des îles Wallis-et-Futuna et de Mayotte ainsi que le chef du service départemental de l'éducation nationale de Saint-Pierre-et-Miquelon ;
 
@@ -66,6 +66,8 @@ o) Les présidents des tribunaux administratifs de Papeete et de Nouvelle-Caléd
 
 p) Le président de la chambre territoriale des comptes de la Nouvelle-Calédonie et le président de la chambre territoriale des comptes de la Polynésie française ;
 
-q) Le chef du service de la police de l'air et des frontières et/ou des renseignements généraux à Saint-Pierre-et-Miquelon et à Wallis-et-Futuna ;
+q) Le chef du service de la police aux frontières, le chef du service du renseignement intérieur et le chef du service de l'information générale à Saint-Pierre-et-Miquelon et à Wallis-et-Futuna ;
 
-Le directeur de la sécurité publique, le directeur des renseignements généraux et le chef du service de la police aux frontières à Mayotte.
+Le directeur de la sécurité publique, le chef du service du renseignement intérieur, le chef du service de l'information générale et le chef du service de la police aux frontières à Mayotte ;
+
+r) Le directeur régional des douanes à Mayotte.
