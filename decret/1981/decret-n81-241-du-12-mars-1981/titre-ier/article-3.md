@@ -4,7 +4,7 @@ Un inspecteur général exerce les fonctions de chef du service de l'inspection 
 
 Il préside le comité de l'inspection générale de l'administration. Il le consulte notamment sur le programme de travail permanent de l'inspection générale.
 
-Il gère les membres du corps et procède à leur évaluation dans les conditions prévues par les articles 3 et 4 du décret du 29 avril 2002 relatif aux conditions générales d'évaluation, de notation et d'avancement des fonctionnaires de l'Etat.
+Il gère les membres du corps et procède à leur évaluation dans les conditions prévues par le décret n° 2002-682 du 29 avril 2002 relatif aux conditions générales d'évaluation, de notation et d'avancement des fonctionnaires de l'Etat, à l'exception de ses titres II et III.
 
 Il gère les personnels et les crédits du service de l'inspection générale de l'administration.
 
