@@ -1,0 +1,3 @@
+# Article 1
+
+Sauf disposition particulière prévue par le cahier des charges d'un vin, d'une eau-de-vie ou d'un produit cidricole bénéficiant d'une appellation d'origine contrôlée et au plus tard jusqu'au 30 juin 2009, les obligations déclaratives et de tenue de registre permettant le contrôle des appellations d'origine contrôlées relevant de ces secteurs autres que celles prévues par la réglementation communautaire, les principaux points à contrôler et leurs méthodes d'évaluation sont ceux approuvés par le comité national des vins, eaux-de-vie et autres boissons alcoolisées de l'Institut national de l'origine et de la qualité en sa séance du 29 mai 2008 (1).
