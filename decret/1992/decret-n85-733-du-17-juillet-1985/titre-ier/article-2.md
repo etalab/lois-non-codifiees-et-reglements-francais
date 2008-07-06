@@ -1,7 +1,7 @@
 # Article 2
 
-Les nominations des professeurs des universités et maîtres de conférences associés sont prononcées par les autorités compétentes pour la nomination des enseignants chercheurs titulaires de même catégorie, sur la proposition de la commission de spécialistes. Cette proposition doit être accompagnée de l'avis favorable du conseil d'administration de l'établissement.
+Les nominations des professeurs des universités et maîtres de conférences associés sont prononcées par les autorités compétentes pour la nomination des enseignants-chercheurs titulaires de même catégorie, sur proposition du président ou du directeur de l'établissement après avis du conseil scientifique ou de l'organe en tenant lieu et du conseil d'administration.
 
-La commission et le conseil d'administration siègent en formation restreinte aux enseignants chercheurs et personnels assimilés d'un rang au moins égal à celui correspondant aux fonctions postulées.
+Les avis du conseil scientifique et du conseil d'administration sont émis en formation restreinte aux enseignants-chercheurs et personnels assimilés d'un rang au moins égal à celui correspondant aux fonctions auxquelles il est postulé.
 
-Dans les écoles et instituts faisant partie des universités, la nomination est prononcée sur proposition du directeur. Cette proposition est soumise pour avis au conseil de l'école ou de l'institut et doit recueillir l'avis favorable de la commission de spécialistes.
+Dans les écoles et instituts faisant partie des universités, les nominations sont prononcées sur proposition du directeur de l'école ou de l'institut, après avis du conseil scientifique de l'université ou de l'organe en tenant lieu et du conseil d'administration de cet établissement public, avis émis l'un et l'autre dans les conditions prévues à l'alinéa précédent.
