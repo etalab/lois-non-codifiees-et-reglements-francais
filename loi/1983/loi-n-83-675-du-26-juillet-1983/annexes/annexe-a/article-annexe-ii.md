@@ -34,4 +34,6 @@ Réunion des musées nationaux ;
 
 Voies navigables de France ;
 
-Mines de potasse d'Alsace.
+Mines de potasse d'Alsace ;
+
+Les grands ports maritimes créés en application de l'article L. 101-1 du code des ports maritimes.
