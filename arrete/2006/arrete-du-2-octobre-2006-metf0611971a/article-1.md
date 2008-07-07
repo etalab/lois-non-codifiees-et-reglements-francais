@@ -571,8 +571,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="center"> 5 ans </td>
 <td align="center">
-<p> Ecole technique privée de photographie, de</p>
-<p>multimédia et d'infographie (ETPA) Toulouse. </p>
+<p> Ecole supérieure des métiers artistiques. - ESMA. </p>
 </td>
 </tr>
 <tr>

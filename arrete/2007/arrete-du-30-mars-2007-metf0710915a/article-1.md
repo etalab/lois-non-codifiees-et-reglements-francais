@@ -836,7 +836,10 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <tr>
 <td align="center"> I<br/>
 </td>
-<td align="center"> Spécialiste en management du textile et de la mode.</td>
+<td align="center">
+<p> Manager spécialiste du textile, de la mode et du </p>
+<p>design.</p>
+</td>
 <td align="center"> 240 p<br/>
 </td>
 <td align="center"> 5 ans</td>

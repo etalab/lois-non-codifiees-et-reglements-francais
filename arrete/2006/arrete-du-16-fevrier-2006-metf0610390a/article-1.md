@@ -611,7 +611,9 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="center"> 333 t</td>
 <td align="center"> 5 ans</td>
-<td align="center"> AFDI-IFRADE.<br/>
+<td align="center">
+<p> MAISON DE L'INITIATIVE. - ASSOCIATION</p>
+<p>SAINT-YVES. - UCO. </p>
 </td>
 </tr>
 <tr>
@@ -1414,9 +1416,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <td align="center">5 ans <br/>
 </td>
 <td align="center">
-<p>Groupe Ecole supérieure des sciences </p>
-<p>économiques et commerciales (ESSEC). </p>
-</td>
+<p>Groupe Ecole supérieure des sciences </p>économiques et commerciales (ESSEC). </td>
 </tr>
 <tr>
 <td align="center"> I</td>
