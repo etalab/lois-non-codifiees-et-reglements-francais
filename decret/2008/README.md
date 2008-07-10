@@ -160,6 +160,7 @@
 - [Décret n°2008-244 du 7 mars 2008 (MTST0804938D)](decret-n2008-244-du-7-mars-2008-mtst0804938d)
 - [Décret n°2008-326 du 7 avril 2008 (ESRS0772525D)](decret-n2008-326-du-7-avril-2008-esrs0772525d)
 - [Décret n°2008-327 du 7 avril 2008 (BCFF0804677D)](decret-n2008-327-du-7-avril-2008-bcff0804677d)
+- [Décret n°2008-677 du 7 juillet 2008 (DEVP0800578D)](decret-n2008-677-du-7-juillet-2008-devp0800578d)
 - [Décret n°2008-439 du 7 mai 2008 (MTST0811082D)](decret-n2008-439-du-7-mai-2008-mtst0811082d)
 - [Décret n°2008-440 du 7 mai 2008 (MTST0811087D)](decret-n2008-440-du-7-mai-2008-mtst0811087d)
 - [Décret n°2008-443 du 7 mai 2008 (ECET0756202D)](decret-n2008-443-du-7-mai-2008-ecet0756202d)
