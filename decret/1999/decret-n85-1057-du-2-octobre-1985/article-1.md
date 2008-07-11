@@ -10,4 +10,4 @@ c) La direction générale de la police nationale ;
 
 d) La direction des libertés publiques et des affaires juridiques ;
 
-e) La direction de la défense et de la sécurité civiles.
+e) La direction de la sécurité civile ;

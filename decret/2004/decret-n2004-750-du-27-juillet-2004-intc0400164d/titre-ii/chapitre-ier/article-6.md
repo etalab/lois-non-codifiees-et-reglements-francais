@@ -10,7 +10,7 @@ b) Le directeur général de la police nationale ou son représentant ;
 
 c) Le directeur général de la gendarmerie nationale ou son représentant ;
 
-d) Le directeur de la défense et de la sécurité civiles ou son représentant ;
+d) Le        directeur de la sécurité civile ou son représentant ;
 
 e) Le directeur des affaires criminelles et des grâces ou son représentant ;
 

@@ -58,9 +58,9 @@ Le directeur de la technologie.
 
 Deux représentants au titre de l'enseignement technique :
 
-- le directeur du Conservatoire national des arts et métiers ;
+-le directeur du Conservatoire national des arts et métiers ;
 
-- le directeur de l'Institut français du froid industriel et du génie climatique.
+-le directeur de l'Institut français du froid industriel et du génie climatique.
 
 Ministère chargé du transport :
 
@@ -78,7 +78,7 @@ Le directeur du centre technique du bâtiment.
 
 Ministère de l'intérieur :
 
-Le directeur de la défense et de la sécurité civiles.
+Le        directeur de la sécurité civile.
 
 Les membres titulaires ci-dessus précisés peuvent désigner des suppléants.
 

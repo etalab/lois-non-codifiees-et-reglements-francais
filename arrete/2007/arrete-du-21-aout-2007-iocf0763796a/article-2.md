@@ -14,7 +14,7 @@ Le directeur de l'administration de la police nationale, ou son représentant ;
 
 Le directeur des libertés publiques et des affaires juridiques, ou son représentant ;
 
-Le directeur de la défense et de la sécurité civiles, ou son représentant ;
+Le        directeur de la sécurité civile, ou son représentant ;
 
 b) Avec voix consultative :
 

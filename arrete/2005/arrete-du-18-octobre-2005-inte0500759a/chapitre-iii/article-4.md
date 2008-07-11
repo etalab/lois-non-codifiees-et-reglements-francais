@@ -4,13 +4,13 @@ Un conseil de discipline est constitué au sein de la Commission nationale de ch
 
 Le conseil de discipline comprend :
 
-- le directeur de la défense et de la sécurité civiles, haut fonctionnaire de défense, ou son représentant, qui le préside ;
+-le        directeur de la sécurité civile, haut fonctionnaire de défense, ou son représentant, qui le préside ;
 
-- le chef du bureau du volontariat, des associations et des réserves communales ou son représentant ;
+-le chef du bureau du volontariat, des associations et des réserves communales ou son représentant ;
 
-- le président de l'Association des présidents de service d'incendie et de secours ou son représentant, désigné par lui parmi les présidents de conseil d'administration d'un service d'incendie et de secours ;
+-le président de l'Association des présidents de service d'incendie et de secours ou son représentant, désigné par lui parmi les présidents de conseil d'administration d'un service d'incendie et de secours ;
 
-- un président de conseil d'administration de service d'incendie et de secours, désigné sur proposition du président de l'Association des présidents de service d'incendie et de secours.
+-un président de conseil d'administration de service d'incendie et de secours, désigné sur proposition du président de l'Association des présidents de service d'incendie et de secours.
 
 Le conseil de discipline comprend, en outre, quatre officiers d'un grade au moins équivalent à celui dont le cas est examiné, tirés au sort sur une liste nationale établie par le ministre chargé de la sécurité civile.
 

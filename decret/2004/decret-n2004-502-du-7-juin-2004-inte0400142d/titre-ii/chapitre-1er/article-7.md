@@ -6,11 +6,11 @@ Le conseil d'administration comprend vingt-quatre membres :
 
 a) Trois membres de droit :
 
-- le directeur de la défense et de la sécurité civiles ou son représentant ;
+-le        directeur de la sécurité civile ou son représentant ;
 
-- le directeur de l'évaluation de la performance et des affaires financières et immobilières ou son représentant ;
+-le directeur de l'évaluation de la performance et des affaires financières et immobilières ou son représentant ;
 
-- le sous-directeur des sapeurs-pompiers à la direction de la défense et de la sécurité civiles ou son représentant ;
+-le sous-directeur des sapeurs-pompiers à la direction de la défense et de la sécurité civiles ou son représentant ;
 
 b) Un préfet en poste territorial désigné par le ministre chargé de la sécurité civile ;
 
@@ -36,9 +36,9 @@ j) Le président de l'Association nationale des directeurs départementaux de se
 
 k) Deux officiers de sapeurs-pompiers professionnels choisis par les représentants élus du personnel au sein des commissions administratives paritaires nationales des officiers :
 
-- un pour la commission des officiers de catégorie A ;
+-un pour la commission des officiers de catégorie A ;
 
-- un pour la commission des officiers de catégorie B ;
+-un pour la commission des officiers de catégorie B ;
 
 l) Deux représentants élus des enseignants et chercheurs de l'école ;
 

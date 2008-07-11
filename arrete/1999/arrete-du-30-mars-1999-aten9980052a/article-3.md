@@ -1,14 +1,14 @@
 # Article 3
 
-Lorsqu'elle est chargée d'émettre un avis sur les demandes de certificat de capacité conformément à l'article R. 413-2 susvisé, la commission nationale consultative pour la faune sauvage captive se réunité en une formation dite "formation pour la délivrance des certificats de capacité" présidée par le directeur de la nature et des paysages ou son représentant et comprenant en outre :
+Lorsqu'elle est chargée d'émettre un avis sur les demandes de certificat de capacité conformément à l'article R. 413-2 susvisé, la commission nationale consultative pour la faune sauvage captive se réunité en une formation dite " formation pour la délivrance des certificats de capacité " présidée par le directeur de la nature et des paysages ou son représentant et comprenant en outre :
 
 a) S'agissant des représentants des ministères intéressés :
 
-- au ministère chargé de l'agriculture : le directeur général de l'alimentation ou son représentant ; le directeur général de l'enseignement et de la recherche ou son représentant ;
+-au ministère chargé de l'agriculture : le directeur général de l'alimentation ou son représentant ; le directeur général de l'enseignement et de la recherche ou son représentant ;
 
-- au ministère chargé de la recherche : le directeur de la recherche ou son représentant ;
+-au ministère chargé de la recherche : le directeur de la recherche ou son représentant ;
 
-- au ministère chargé de l'intérieur : le directeur de la défense et de la sécurité civiles ou son représentant ;
+-au ministère chargé de l'intérieur : le        directeur de la sécurité civile ou son représentant ;
 
 b) Cinq responsables d'établissements dont la finalité principale est la présentation au public d'animaux appartenant à des espèces non domestiques ;
 

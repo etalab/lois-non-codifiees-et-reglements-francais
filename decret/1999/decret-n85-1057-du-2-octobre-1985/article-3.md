@@ -1,6 +1,6 @@
 # Article 3
 
-Le secrétaire général assiste le ministre de l'intérieur pour l'administration du ministère.
+Le secrétaire général, haut fonctionnaire de défense, assiste le ministre de l'intérieur pour l'administration du ministère.
 
 A cette fin, il coordonne l'action de l'ensemble des services et assure leur évaluation. Il propose au ministre la répartition entre eux des moyens. Il prépare et exécute le budget du ministère.
 
@@ -22,6 +22,8 @@ c) La direction de l'évaluation de la performance, et des affaires financières
 
 d) La direction des systèmes d'information et de communication ;
 
-e) Le centre d'études et de prospective ;
+e) La direction de la planification de sécurité nationale ;
 
 f) La délégation à l'information et à la communication.
+
+Pour l'exercice de ses missions de défense, le secrétaire général est assisté d'un haut fonctionnaire de défense adjoint, directeur de la planification de sécurité nationale.

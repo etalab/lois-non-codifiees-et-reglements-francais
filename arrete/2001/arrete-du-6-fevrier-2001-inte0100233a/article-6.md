@@ -8,7 +8,7 @@ Jury national du concours des infirmiers de sapeurs-pompiers professionnels des 
 
 Personnalités qualifiées
 
-Président : le directeur de la défense et de la sécurité civiles ou, en cas d'empêchement, son représentant.
+Président : le        directeur de la sécurité civile ou, en cas d'empêchement, son représentant.
 
 Vice-président : un représentant de la direction de l'hospitalisation et de l'organisation des soins désigné par le ministre chargé de la santé.
 
@@ -26,7 +26,7 @@ Fonctionnaires territoriaux
 
 Un médecin de sapeurs-pompiers exerçant les fonctions de médecin-chef et ayant au moins le grade de commandant de sapeur-pompier.
 
-Un officier de sapeur-pompier professionnel détenant au moins le grade de commandant de sapeur-pompier professionnel, exerçant ou ayant exercé les fonctions de directeur départemental des services d'incendie et de secours, désigné par le directeur de la défense et de la sécurité civiles.
+Un officier de sapeur-pompier professionnel détenant au moins le grade de commandant de sapeur-pompier professionnel, exerçant ou ayant exercé les fonctions de directeur départemental des services d'incendie et de secours, désigné par le        directeur de la sécurité civile.
 
 Deux représentants du personnel, membres de la commission administrative paritaire compétente à l'égard des sapeurs-pompiers professionnels dont les emplois sont classés dans la catégorie B, désignés par tirage au sort.
 

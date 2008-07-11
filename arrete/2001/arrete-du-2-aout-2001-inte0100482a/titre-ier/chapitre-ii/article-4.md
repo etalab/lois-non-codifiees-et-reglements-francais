@@ -2,7 +2,7 @@
 
 Les jurys des concours sont nommés par arrêtés du ministre de l'intérieur et composés d'au moins six membres titulaires répartis en trois collèges égaux représentant les officiers de sapeurs-pompiers professionnels, les personnalités qualifiées et les élus locaux :
 
-Président : le directeur de la défense et de la sécurité civiles ou son représentant.
+Président : le        directeur de la sécurité civile ou son représentant.
 
 Autres membres :
 

@@ -22,7 +22,7 @@ Le directeur général de la police nationale ;
 
 Le directeur des libertés publiques et des affaires juridiques ;
 
-Le directeur de la défense et de la sécurité civiles.
+Le        directeur de la sécurité civile.
 
 Au titre du ministère chargé de l'industrie :
 
@@ -42,12 +42,12 @@ Le directeur de la prévention et de la pollution des risques.
 
 b) Sont nommés par arrêté :
 
-- des personnalités désignées en raison de leur compétence dans le domaine des substances explosives ;
+-des personnalités désignées en raison de leur compétence dans le domaine des substances explosives ;
 
-- des personnes appartenant aux sociétés de production de ces produits ;
+-des personnes appartenant aux sociétés de production de ces produits ;
 
-- des personnes appartenant aux professions utilisatrices de ces produits ;
+-des personnes appartenant aux professions utilisatrices de ces produits ;
 
-- les directeurs des laboratoires agréés en vue des essais ou des contrôles sur ces produits ;
+-les directeurs des laboratoires agréés en vue des essais ou des contrôles sur ces produits ;
 
-- des membres des organismes agréés prévus par le décret n° 90-153 du 16 février 1990 modifié.
+-des membres des organismes agréés prévus par le décret n° 90-153 du 16 février 1990 modifié.

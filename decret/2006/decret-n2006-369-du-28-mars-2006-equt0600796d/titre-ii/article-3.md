@@ -10,7 +10,7 @@ b) Le directeur des affaires économiques et internationales auprès du ministre
 
 c) Le directeur du budget ou son représentant ;
 
-d) Le directeur de la défense et de la sécurité civiles ou son représentant ;
+d) Le        directeur de la sécurité civile ou son représentant ;
 
 e) Le directeur général des entreprises ou son représentant ;
 

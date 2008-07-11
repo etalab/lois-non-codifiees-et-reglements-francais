@@ -4,18 +4,18 @@ Le jury d'attribution du brevet de pharmacien sapeur-pompier professionnel de 2e
 
 Il est constitué des membres suivants :
 
-Président : le directeur de la défense et de la sécurité civiles ou son représentant.
+Président : le        directeur de la sécurité civile ou son représentant.
 
 Autres membres :
 
-- un élu local, membre du conseil d'administration d'un SDIS ;
+-un élu local, membre du conseil d'administration d'un SDIS ;
 
-- un représentant du Centre national de la fonction publique territoriale ;
+-un représentant du Centre national de la fonction publique territoriale ;
 
-- un directeur départemental de services d'incendie et de secours ;
+-un directeur départemental de services d'incendie et de secours ;
 
-- un médecin-chef de sapeurs-pompiers professionnels ;
+-un médecin-chef de sapeurs-pompiers professionnels ;
 
-- deux pharmaciens de sapeurs-pompiers professionnels dont un pharmacien-chef ;
+-deux pharmaciens de sapeurs-pompiers professionnels dont un pharmacien-chef ;
 
-- un représentant de l'ENSOSP.
+-un représentant de l'ENSOSP.

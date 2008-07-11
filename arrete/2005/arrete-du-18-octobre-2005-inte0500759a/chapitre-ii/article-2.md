@@ -2,15 +2,15 @@
 
 La Commission nationale de changement de grade comprend :
 
-- le directeur de la défense et de la sécurité civiles, haut fonctionnaire de défense ou son représentant, qui la préside ;
+-le        directeur de la sécurité civile, haut fonctionnaire de défense ou son représentant, qui la préside ;
 
-- le chef du bureau du volontariat, des associations et des réserves communales ou son représentant ;
+-le chef du bureau du volontariat, des associations et des réserves communales ou son représentant ;
 
-- le président de l'Association des présidents de service d'incendie et de secours ou son représentant, désigné par lui parmi les présidents de conseil d'administration d'un service d'incendie et de secours ;
+-le président de l'Association des présidents de service d'incendie et de secours ou son représentant, désigné par lui parmi les présidents de conseil d'administration d'un service d'incendie et de secours ;
 
-- deux présidents de conseil d'administration de service d'incendie et de secours, désignés sur proposition du président de l'Association des présidents de service d'incendie et de secours ;
+-deux présidents de conseil d'administration de service d'incendie et de secours, désignés sur proposition du président de l'Association des présidents de service d'incendie et de secours ;
 
-- le président de la Fédération nationale des sapeurs-pompiers de France ou son représentant.
+-le président de la Fédération nationale des sapeurs-pompiers de France ou son représentant.
 
 Lorsqu'elle est chargée d'émettre un avis sur l'avancement d'un officier, la commission comprend, en outre, quatre officiers d'un grade au moins équivalent à celui du sapeur-pompier volontaire dont le cas est examiné. Les officiers sont tirés au sort sur une liste nationale établie par le ministre chargé de la sécurité civile.
 

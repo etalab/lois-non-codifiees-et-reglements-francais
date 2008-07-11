@@ -4,16 +4,16 @@ Le comité de sélection à l'emploi de directeur départemental des services d'
 
 Président :
 
-- le directeur de la défense et de la sécurité civiles ou son représentant.
+-le        directeur de la sécurité civile ou son représentant.
 
 Autres membres :
 
-- un membre du corps préfectoral ;
+-un membre du corps préfectoral ;
 
-- un président ou un vice-président de conseil d'administration d'un service départemental d'incendie et de secours ;
+-un président ou un vice-président de conseil d'administration d'un service départemental d'incendie et de secours ;
 
-- le chef de l'inspection de la défense et de la sécurité civiles ;
+-le chef de l'inspection de la défense et de la sécurité civiles ;
 
-- un chef de bureau en fonction à la direction de la défense et de la sécurité civiles ;
+-un chef de bureau en fonction à la direction de la défense et de la sécurité civiles ;
 
-- un chef d'état-major de zone de défense et de sécurité civiles.
+-un chef d'état-major de zone de défense et de sécurité civiles.
