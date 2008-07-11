@@ -16,7 +16,7 @@ service technique des bases aériennes ;
 
 service de contrôle des sociétés concessionnaires d'autoroutes ;
 
-service d'études techniques des routes et autoroutes (S.E.T.R.A.); centre d'études des tunnels de Lyon ;
+service d'études sur les transports, les routes et leurs aménagements (Sétra) ; centre d'études des tunnels de Lyon ;
 
 centre national des ponts de secours ;
 
@@ -28,6 +28,6 @@ Ecole nationale des techniciens de l'équipement ;
 
 laboratoire central des ponts et chaussées (L.C.P.C.) ;
 
-centre d'évaluation, de documentation et d'innovation pédagogiques; centre d'études techniques maritimes et fluviales.
+centre d'évaluation, de documentation et d'innovation pédagogiques ; centre d'études techniques maritimes et fluviales.
 
 6° En ce qui concerne les agents affectés dans une direction interdépartementale des routes, au préfet désigné à l'article 2 du décret n° 2006-304 du 16 mars 2006 portant création et organisation des directions interdépartementales des routes comme préfet coordonnateur des itinéraires routiers.
