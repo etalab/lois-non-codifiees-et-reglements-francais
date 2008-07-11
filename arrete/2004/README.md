@@ -808,7 +808,6 @@
 - [Arrêté du 26 janvier 2004 (EQUP0400177A)](arrete-du-26-janvier-2004-equp0400177a)
 - [Arrêté du 26 janvier 2004 (EQUP0400178A)](arrete-du-26-janvier-2004-equp0400178a)
 - [Arrêté du 26 janvier 2004 (INDI0402369A)](arrete-du-26-janvier-2004-indi0402369a)
-- [Arrêté du 26 janvier 2004 (INTA0400064A)](arrete-du-26-janvier-2004-inta0400064a)
 - [Arrêté du 26 janvier 2004 (JUSE0340054A)](arrete-du-26-janvier-2004-juse0340054a)
 - [Arrêté du 26 juillet 2004 (ECOD0440003A)](arrete-du-26-juillet-2004-ecod0440003a)
 - [Arrêté du 26 juillet 2004 (MENG0401634A)](arrete-du-26-juillet-2004-meng0401634a)
