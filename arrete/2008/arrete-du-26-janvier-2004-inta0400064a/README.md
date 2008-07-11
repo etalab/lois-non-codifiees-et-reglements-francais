@@ -7,3 +7,4 @@
 - [Section VI : Délégation à la prospective et à la stratégie.](section-vi)
 - [Section VII : Délégation aux affaires internationales et européennes.](section-vii)
 - [Section VIII : Délégation à l'information et à la communication.](section-viii)
+- [Article 30](article-30.md)
