@@ -634,7 +634,6 @@
 - [Arrêté du 20 février 1997 (MAEA9620591A)](arrete-du-20-fevrier-1997-maea9620591a)
 - [Arrêté du 20 février 1997 (MCCD9700137A)](arrete-du-20-fevrier-1997-mccd9700137a)
 - [Arrêté du 20 février 1997 (PRMX9701909A)](arrete-du-20-fevrier-1997-prmx9701909a)
-- [Arrêté du 20 février 1997 (TASH9720607A)](arrete-du-20-fevrier-1997-tash9720607a)
 - [Arrêté du 20 janvier 1997 (AGRB9700126A)](arrete-du-20-janvier-1997-agrb9700126a)
 - [Arrêté du 20 janvier 1997 (AVIV9700090A)](arrete-du-20-janvier-1997-aviv9700090a)
 - [Arrêté du 20 janvier 1997 (ECOT9626169A)](arrete-du-20-janvier-1997-ecot9626169a)
