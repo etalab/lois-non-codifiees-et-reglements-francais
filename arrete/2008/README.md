@@ -33,6 +33,7 @@
 - [Arrêté du 26 juin 2008 (BCFB0808485A)](arrete-du-26-juin-2008-bcfb0808485a)
 - [Arrêté du 26 juin 2008 (DEVT0801224A)](arrete-du-26-juin-2008-devt0801224a)
 - [Arrêté du 28 janvier 1991 (SANH9100175A)](arrete-du-28-janvier-1991-sanh9100175a)
+- [Arrêté du 29 décembre 2006 (INTE0601065A)](arrete-du-29-decembre-2006-inte0601065a)
 - [Arrêté du 30 décembre 2008 (ESRF0820737A)](arrete-du-30-decembre-2008-esrf0820737a)
 - [Arrêté du 30 juin 2008 (AGRG0816067A)](arrete-du-30-juin-2008-agrg0816067a)
 - [Arrêté du 30 juin 2008 (DEVT0814250A)](arrete-du-30-juin-2008-devt0814250a)
