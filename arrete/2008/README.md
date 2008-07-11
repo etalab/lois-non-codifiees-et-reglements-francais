@@ -17,6 +17,7 @@
 - [Arrêté du 20 juin 2008 (MTSO0810888A)](arrete-du-20-juin-2008-mtso0810888a)
 - [Arrêté du 20 juin 2008 (SJSA0814175A)](arrete-du-20-juin-2008-sjsa0814175a)
 - [Arrêté du 20 juin 2008 (SJSA0814215A)](arrete-du-20-juin-2008-sjsa0814215a)
+- [Arrêté du 22 avril 2005 (INTE0500290A)](arrete-du-22-avril-2005-inte0500290a)
 - [Arrêté du 22 mai 2008 (DEVS0814045A)](arrete-du-22-mai-2008-devs0814045a)
 - [Arrêté du 23 juin 2008 (DEVA0815016A)](arrete-du-23-juin-2008-deva0815016a)
 - [Arrêté du 23 mai 2008 (DEVN0811968A)](arrete-du-23-mai-2008-devn0811968a)

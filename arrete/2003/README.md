@@ -36,7 +36,6 @@
 - [Arrêté du 2 juillet 2003 (SANG0322250A)](arrete-du-2-juillet-2003-sang0322250a)
 - [Arrêté du 2 juillet 2003 (SANS0321924A)](arrete-du-2-juillet-2003-sans0321924a)
 - [Arrêté du 2 juillet 2003 (SOCT0310917A)](arrete-du-2-juillet-2003-soct0310917a)
-- [Arrêté du 2 juin 2003 (DEVE0210450A)](arrete-du-2-juin-2003-deve0210450a)
 - [Arrêté du 2 juin 2003 (DEVE0210451A)](arrete-du-2-juin-2003-deve0210451a)
 - [Arrêté du 2 juin 2003 (SANH0322037A)](arrete-du-2-juin-2003-sanh0322037a)
 - [Arrêté du 2 juin 2003 (SANH0322038A)](arrete-du-2-juin-2003-sanh0322038a)
