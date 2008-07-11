@@ -8,18 +8,12 @@ L'administration centrale du ministère de l'industrie, des postes et télécomm
 
 a) Un secrétariat général, rattaché au directeur général ;
 
-b) La direction de l'action régionale, de la qualité et de la sécurité industrielle ;
+b) alinéa abrogé ;
 
 c) Le service des industries manufacturières et des activités postales ;
 
 d) Le service des technologies et de la société de l'information ;
 
 e) Le service des politiques d'innovation et de compétitivité.
-
-4. La direction générale de l'énergie et des matières premières qui comprend :
-
-a) La direction des ressources énergétiques et minérales ;
-
-b) La direction de la demande et des marchés énergétiques.
 
 Elle s'appuie en outre sur la direction générale du Trésor et de la politique économique du ministère de l'économie pour l'exercice des compétences du ministre en matière de commerce extérieur.

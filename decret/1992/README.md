@@ -474,7 +474,6 @@
 - [Décret n°92-522 du 16 juin 1992 (DEFD9201507D)](decret-n92-522-du-16-juin-1992-defd9201507d)
 - [Décret n°92-523 du 16 juin 1992 (DEFD9201508D)](decret-n92-523-du-16-juin-1992-defd9201508d)
 - [Décret n°92-524 du 16 juin 1992 (DEFD9201509D)](decret-n92-524-du-16-juin-1992-defd9201509d)
-- [Décret n°92-528 du 16 juin 1992 (ENVP9200015D)](decret-n92-528-du-16-juin-1992-envp9200015d)
 - [Décret n°92-531 du 16 juin 1992 (EQUP9200579D)](decret-n92-531-du-16-juin-1992-equp9200579d)
 - [Décret n°92-535 du 16 juin 1992 (LOGC9200012D)](decret-n92-535-du-16-juin-1992-logc9200012d)
 - [Décret n°92-674 du 16 juillet 1992 (AGRE9201180D)](decret-n92-674-du-16-juillet-1992-agre9201180d)

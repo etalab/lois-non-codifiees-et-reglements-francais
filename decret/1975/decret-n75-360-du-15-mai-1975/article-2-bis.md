@@ -1,6 +1,6 @@
 # Article 2 bis
 
-Un observatoire national interministériel de la sécurité routière est placé auprès du délégué interministériel de la sécurité routière.
+Un observatoire national interministériel de la sécurité routière est placé auprès du délégué à la sécurité et à la circulation routières.
 
 Il assure la collecte et la diffusion des informations nécessaires à la préparation et à la mise en oeuvre de la politique de sécurité routière.
 
