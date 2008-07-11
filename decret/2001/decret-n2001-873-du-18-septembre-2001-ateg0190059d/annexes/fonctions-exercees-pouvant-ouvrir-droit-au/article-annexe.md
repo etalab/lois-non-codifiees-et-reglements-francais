@@ -1,18 +1,16 @@
 # Article ANNEXE
 
-A.-Fonctions exercées en administration centrale
+FONCTIONS POUVANT OUVRIR DROIT AU VERSEMENT D'UNE NOUVELLE BONIFICATION INDICIAIRE
 
-1° Chef du service de l'inspection générale de l'environnement.
+A. - Fonctions exercées en administration centrale
 
-2° Directeur général et directeur d'administration centrale.
+1. Vice-président du Conseil général de l'environnement et du développement durable.
 
-3° Chef de service ou sous-directeur exerçant les fonctions de directeur général adjoint ou de directeur adjoint.
+2. Secrétaire général du ministère, commissaire général, directeur général ou directeur d'administration centrale, délégué interministériel ou délégué.
 
-4° Chef de service ou sous-directeur en charge d'un service ou d'une sous-direction d'administration centrale, ou d'un service à compétence nationale.
+3. Chef de service ou adjoint au directeur ou directeur adjoint, délégué interministériel ou délégué adjoint, secrétaire général de direction d'administration centrale.
 
-5° Chef d'un département ou d'une mission directement rattaché au directeur général ou à un directeur.
-
-6° Expert de haut niveau ou directeur de projet.
+4. Sous-directeur, adjoint au directeur ou directeur adjoint d'administration centrale, adjoint au chef de service d'administration centrale, secrétaire permanent.
 
 B.-Fonctions exercées en direction régionale de l'environnement
 

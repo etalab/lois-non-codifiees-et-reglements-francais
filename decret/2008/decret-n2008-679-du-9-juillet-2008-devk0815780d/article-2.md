@@ -1,0 +1,5 @@
+# Article 2
+
+Le Conseil général de l'environnement et du développement durable est chargé d'une mission d'inspection générale portant sur la régularité, la qualité et l'efficacité de l'action, dans les domaines énumérés à l'article 1er, des services placés sous l'autorité du ministre chargé de l'écologie, de l'énergie, du développement durable et de l'aménagement du territoire ainsi que des services déconcentrés relevant de ce dernier et du ministre chargé du logement et de la ville. Cette mission, toutefois, n'intéresse pas les services assurant les missions dévolues par le code du travail à l'inspection du travail des transports et à l'inspection du travail maritime.
+
+Dans les mêmes domaines, il s'assure, à la demande du ministre de l'écologie, de l'énergie, du développement durable et de l'aménagement du territoire et du ministre chargé du logement et de la politique de la ville, de la régularité, de la qualité et de l'efficacité des actions conduites par les personnes physiques ou morales que la loi, le règlement ou les stipulations d'une convention placent sous la tutelle de ces derniers ou soumettent à leur contrôle.

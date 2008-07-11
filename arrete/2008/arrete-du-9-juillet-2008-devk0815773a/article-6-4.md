@@ -1,0 +1,3 @@
+# Article 6.4
+
+L'organisme du contrôle en vol conseille le directeur général et ses services sur les problèmes posés par la conduite des aéronefs de transport et est consulté pour l'élaboration des textes traitant de ce sujet. Il participe aux activités de certification et de surveillance de la direction du contrôle de la sécurité, en effectuant notamment à ce titre des contrôles en vol ayant pour objet de vérifier le respect des règlements et procédures régissant l'exploitation des aéronefs de transport, la formation et les aptitudes des personnels navigants ; il participe aux commissions et conseils concernant la formation des personnels navigants.

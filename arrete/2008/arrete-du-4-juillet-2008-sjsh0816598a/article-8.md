@@ -1,0 +1,3 @@
+# Article 8
+
+L'arrêté du 20 février 1997 fixant les modalités de la formation d'adaptation à l'emploi pour les fonctionnaires appartenant à un corps ou cadre d'emplois de catégorie A ou de même niveau accédant, par voie de détachement, dans le corps des directeurs d'établissements sanitaires et sociaux et l'arrêté du 4 octobre 2001 fixant les modalités de la formation théorique et pratique pour les fonctionnaires appartenant à un corps, cadre d'emplois ou emploi de catégorie A ou de même niveau accédant, par voie de détachement, dans le corps des directeurs d'établissements sociaux et médico-sociaux sont abrogés.

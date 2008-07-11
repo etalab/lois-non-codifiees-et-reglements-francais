@@ -1,51 +1,49 @@
 # Article Annexe
 
-A.-**Fonctions exercées en administration centrale**
+FONCTIONS POUVANT OUVRIR DROIT AU VERSEMENT D'UNE NOUVELLE BONIFICATION INDICIAIRE
 
-Directeur général, directeur d'administration centrale ou chef de service de l'administration centrale.
+A. - Fonctions exercées en administration centrale
 
-Adjoint au directeur général, à un directeur d'administration centrale ou à un chef de service de l'administration centrale.
+1. Vice-président du Conseil général de l'environnement et du développement durable.
 
-Sous-directeur.
+2. Secrétaire général du ministère, commissaire général, directeur général ou directeur d'administration centrale, délégué interministériel ou délégué.
 
-Expert de haut niveau ou directeur de projet.
+3. Chef de service ou adjoint au directeur ou directeur adjoint, délégué interministériel ou délégué adjoint, secrétaire général de direction d'administration centrale.
 
-Président d'organisme consultatif placé auprès du ministre chargé de l'aviation civile.
+4. Sous-directeur, adjoint au directeur ou directeur adjoint d'administration centrale, adjoint au chef de service d'administration centrale, secrétaire permanent.
 
-Directeur du bureau d'enquêtes et d'analyses pour la sécurité de l'aviation civile.
+B. - Fonctions exercées dans un service déconcentré
 
-B.-**Fonctions exercées dans les services déconcentrés**
+Chef de service d'Etat de l'aviation civile en outre-mer.
 
-Directeur de l'aviation civile.
+C. - Fonctions exercées dans un service à compétence nationale (à compter du 1er janvier 2009 pour la direction de la sécurité de l'aviation civile)
 
-Directeur régional de l'aviation civile aux Antilles-Guyane.
+1. Directeur.
 
-Chef de service d'Etat de l'aviation civile outre-mer.
+2. Directeur adjoint et adjoint au directeur.
 
-C.-**Fonctions exercées dans les services à compétence nationale**
+3. Sous-directeur.
 
-Directeur.
+4. Directeur technique.
 
-Adjoint au directeur des services de la navigation aérienne.
+5. Chef de service à compétence nationale.
 
-Sous-directeur.
+6. Directeur de la sécurité de l'aviation civile interrégionale.
 
-Chef de service à compétence nationale.
+7. Directeur du cabinet du directeur des services de la navigation aérienne.
 
-Directeur du cabinet du directeur des services de la navigation aérienne.
+8. Directeur du cabinet du directeur de la sécurité de l'aviation civile.
 
-Directeur de projet.
+9. Directeur de projet.
 
-Adjoint en route.
+10. Adjoint au directeur des opérations.
 
-Adjoint approches.
+11. Adjoint au directeur de la technique et de l'innovation.
 
-Adjoint au directeur de la technique et de l'innovation.
+12. Adjoint au chef du service technique de l'aviation civile.
 
-Secrétaire général de la direction de la technique et de l'innovation.
+13. Chef de centre en route de la navigation aérienne.
 
-Chef de centre en route de la navigation aérienne.
+14. Chef des services de la navigation aérienne de la région parisienne.
 
-Chef du service de la navigation aérienne de la région parisienne.
-
-Chef de l'organisme de Roissy au sein du service de la navigation aérienne de la région parisienne.
+15. Chef de l'organisme de Roissy - Le Bourget au sein des services de la navigation aérienne de la région parisienne.

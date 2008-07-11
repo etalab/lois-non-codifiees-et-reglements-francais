@@ -1,5 +1,5 @@
 # Article 14
 
-Le centre d'études et de prospective est chargé des travaux et études concernant le rôle du ministère de l'intérieur et son adaptation aux évolutions nationales et internationales.
+La délégation à la prospective et à la stratégie définit et anime l'action stratégique du ministère. Elle développe la capacité d'anticipation du ministère et favorise les adaptations de son action et de ses structures à l'évolution des grands enjeux nationaux et internationaux, de l'état des menaces et des vulnérabilités à long terme.
 
-Il assure également les relations avec les institutions d'enseignement supérieur et de recherche.
+Elle conçoit en liaison avec les directions et services du ministère des scénarios de réponse et veille à la pertinence des plans d'action du ministère dont elle assure l'évaluation.

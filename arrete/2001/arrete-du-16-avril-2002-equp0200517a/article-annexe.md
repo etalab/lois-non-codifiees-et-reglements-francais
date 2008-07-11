@@ -1,1665 +1,1847 @@
 # Article Annexe
 
-A. - Emplois en administration centrale
+A. - Fonctions exercées en administration centrale
 
-1° Vice-président du Conseil général des ponts et chaussées :
+1° Vice-président du Conseil général de l'environnement et du développement durable :
 
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center">DÉSIGNATION DE L'EMPLOI</p>
-</td>
-<td>
-<p align="center">NOMBRE </p>
+<th>
 <br/>
-<p align="center">d'emplois</p>
-</td>
-<td>
-<p align="center">NOMBRE </p>
+<font size="1">DÉSIGNATION DE L'EMPLOI <br/>
+</font>
+</th>
+<th>
 <br/>
-<p align="center">de points par emploi</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2">
-<p>Vice-président du Conseil général des ponts et chaussées</p>
-</td>
-<td rowspan="2">
-<p align="center">1</p>
-</td>
-<td rowspan="2">
-<p align="center">180</p>
-</td>
-</tr>
-</tbody>
-</table>
-
-2° Secrétaire général, directeur général, directeur d'administration centrale et délégué interministériel :
-
-<table>
-<tbody>
-<tr>
-<td>
-<p align="center">DÉSIGNATION DE L'EMPLOI </p>
-</td>
-<td>
-<p>NOMBRE D'EMPLOIS </p>
-</td>
-<td>
-<p>NOMBRE de points par emploi </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Secrétaire général </p>
-</td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">180 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur général du personnel et de l'administration </p>
-</td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">180 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur général adjoint, directeur des affaires juridiques, informatiques et logistiques . </p>
-</td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">140 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur de la recherche et de l'animation scientifique et technique </p>
-</td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">140 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur général de l'urbanisme, de l'habitat et de la construction </p>
-</td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">180 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur, adjoint au directeur général de l'urbanisme, de l'habitat et de la construction </p>
-</td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">140 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur général des routes</p>
-</td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">180 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur général de la mer et des transports </p>
-</td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">180 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur des transports ferroviaires et collectifs </p>
-</td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">160 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur des transports maritimes, routiers et fluviaux.. </p>
-</td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">160 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur des affaires maritimes</p>
-</td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">160 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur de la sécurité et de la circulation routières . </p>
-</td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">160 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur du tourisme . </p>
-</td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">140 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur de l'Etablissement national des invalides de la marine</p>
-</td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">140 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur des affaires économiques et internationales </p>
-</td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">140 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="2">
-<p>Délégué interministériel à la ville </p>
-</td>
-<td rowspan="2">
-<p align="center">1 </p>
-</td>
-<td rowspan="2">
-<p align="center">160 </p>
-</td>
-</tr>
-</tbody>
-</table>
-
-3° Haut fonctionnaire de défense, haut fonctionnaire pour la sécurité dans les transports, haut fonctionnaire délégué à l'intermodalité ou à l'accessibilité :
-
-<table>
-<tbody>
-<tr>
-<td>
-<p align="center">DÉSIGNATION DE L'EMPLOI</p>
-</td>
-<td>
-<p align="center">NOMBRE </p>
+<font size="1">NOMBRE D'EMPLOIS <br/>
+</font>
+</th>
+<th>
 <br/>
-<p align="center">d'emplois</p>
-</td>
-<td>
-<p align="center">NOMBRE </p>
+<font size="1">NOMBRE DE POINTS PAR EMPLOI</font>
 <br/>
-<p align="center">de points par emploi</p>
-</td>
+</th>
 </tr>
 <tr>
-<td>
-<p>Haut fonctionnaire de défense</p>
+<td align="center">
+<br/>Vice-président du Conseil général de l'environnement et du développement durable <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">120</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Haut fonctionnaire pour la sécurité dans les transports</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">90</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Haut fonctionnaire délégué à l'intermodalité</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">80</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2">
-<p>Haut fonctionnaire délégué à l'accessibilité</p>
-</td>
-<td rowspan="2">
-<p align="center">1</p>
-</td>
-<td rowspan="2">
-<p align="center">80</p>
+<td align="center">
+<br/>180 <br/>
 </td>
 </tr>
 </tbody>
 </table>
 
-4° Directeur de centre :
+2° Secrétaire général du ministère, commissaire général, directeur général ou directeur d'administration centrale, délégué interministériel ou délégué :
 
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center">DÉSIGNATION DE L'EMPLOI </p>
+<th>
+<br/>
+<font size="1">DÉSIGNATION DE L'EMPLOI <br/>
+</font>
+</th>
+<th>
+<br/>
+<font size="1">NOMBRE D'EMPLOIS <br/>
+</font>
+</th>
+<th>
+<br/>
+<font size="1">NOMBRE DE POINTS PAR EMPLOI <br/>
+</font>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Secrétaire général <br/>
 </td>
-<td>
-<p>NOMBRE D'EMPLOIS </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p>NOMBRE de points par emploi </p>
+<td align="center">
+<br/>180 <br/>
 </td>
 </tr>
 <tr>
-<td rowspan="2">
-<p>Directeur du centre d'études sur les réseaux, les transports, l'urbanisme et les constructions publiques </p>
+<td align="center">
+<br/>Directeur, adjoint du secrétaire général <br/>
 </td>
-<td rowspan="2">
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td rowspan="2">
-<p align="center">120 </p>
+<td align="center">
+<br/>160 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur des ressources humaines <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>160 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur des affaires européennes et internationales.... <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>160 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur des affaires juridiques <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>160 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur de la communication <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>160 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Commissaire général du développement durable <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>180 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur, adjoint du commissaire général au développement durable <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>160 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur de la recherche et de l'innovation <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>160 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur général de l'énergie et du climat <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>180 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur de l'énergie <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>160 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur général des infrastructures, des transports et de la mer <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>180 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur des infrastructures de transport <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>160 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur des services de transport <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>160 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur des affaires maritimes <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>160 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur général de l'aviation civile <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>180 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur du transport aérien <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>160 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur du contrôle de la sécurité (jusqu'au 31 décembre 2008) <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>160 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur général de l'aménagement, du logement et de la nature <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>180 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur de l'habitat, de l'urbanisme et des paysages <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>160 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur de l'eau et de la biodiversité <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>160 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur général de la prévention des risques <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>180 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Délégué à la circulation et à la sécurité routières <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>160 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Délégué interministériel à la ville <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>160 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Délégué aux cadres dirigeants <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>120 <br/>
 </td>
 </tr>
 </tbody>
 </table>
 
-5° Chef de service, directeur adjoint et délégué interministériel adjoint :
+3° Chef de service ou adjoint au directeur ou directeur adjoint, délégué interministériel ou délégué adjoint, secrétaire général de direction d'administration centrale :
 
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center">DÉSIGNATION DE L'EMPLOI </p>
+<th>
+<br/>
+<font size="1">DÉSIGNATION DE L'EMPLOI <br/>
+</font>
+</th>
+<th>
+<br/>
+<font size="1">NOMBRE D'EMPLOIS <br/>
+</font>
+</th>
+<th>
+<br/>
+<font size="1">NOMBRE DE POINTS PAR EMPLOI</font>
+<br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>a) Secrétariat général <br/>
 </td>
-<td>
-<p>NOMBRE d'emplois </p>
+<td align="center">
+<br/>
 </td>
-<td>
-<p align="center">NOMBRE de points par emploi </p>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de service, adjoint du directeur des ressources humaines <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>120 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">a) Secrétariat général </p>
+<td align="center">
+<br/>Chef du service des emplois et des compétences <br/>
 </td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td>
-<p>Chef du service du pilotage des services et de la modernisation </p>
-</td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">120 </p>
+<td align="center">
+<br/>120 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Chef du service du personnel et de l'administration </p>
+<td align="center">
+<br/>Chef du service de la gestion du personnel <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">110 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">b) Direction des affaires économiques et internationales </p>
-</td>
-<td>
-<pre> </pre>
-</td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>120 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Chef du service économie, statistiques et prospective </p>
+<td align="center">
+<br/>Chef du service des politiques support et des systèmes d'information <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">100 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">c) Direction de la recherche et de l'animation scientifique et technique </p>
-</td>
-<td>
-<pre> </pre>
-</td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>120 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur adjoint . </p>
+<td align="center">
+<br/>Chef du service du pilotage et de l'évolution des services <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">100 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">d) Service de l'information et de la communication </p>
-</td>
-<td>
-<pre> </pre>
-</td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>120 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Chef du service </p>
+<td align="center">
+<br/>Chef du service des affaires financières <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">110 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">e) Direction générale du personnel et de l'administration </p>
-</td>
-<td>
-<pre> </pre>
-</td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>120 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Chef du service du personnel </p>
+<td align="center">
+<br/>Chef du service de défense, de sécurité et d'intelligence économique <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">120 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Chef du service des effectifs et du budget </p>
-</td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">120 </p>
+<td align="center">
+<br/>120 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">f) Direction des affaires juridiques, informatiques et logistiques </p>
+<td align="center">
+<br/>Chef de service, adjoint du directeur des affaires juridiques <br/>
 </td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur adjoint . </p>
-</td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">120 </p>
+<td align="center">
+<br/>120 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">g) Direction générale de l'urbanisme, de l'habitat et de la construction </p>
+<td align="center">
+<br/>b) Commissariat général au développement durable <br/>
 </td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>
 </td>
-<td>
-<pre> </pre>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef du service de la recherche <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>120 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur adjoint </p>
+<td align="center">
+<br/>Chef du service de l'observation et des statistiques <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">110 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Chef de service </p>
-</td>
-<td>
-<p align="center">3 </p>
-</td>
-<td>
-<p align="center">110 </p>
+<td align="center">
+<br/>120 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">h) Direction générale des routes </p>
+<td align="center">
+<br/>Chef du service de l'économie, de l'évaluation et de l'intégration du développement durable <br/>
 </td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur adjoint </p>
-</td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">120 </p>
+<td align="center">
+<br/>120 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">i) Direction des transports ferroviaires et collectifs </p>
+<td align="center">
+<br/>c) Direction générale de l'énergie et du climat <br/>
 </td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>
 </td>
-<td>
-<pre> </pre>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef du service du climat et de l'efficacité énergétique <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>120 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur adjoint</p>
+<td align="center">
+<br/>d) Direction générale des infrastructures, des transports et de la mer <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>
 </td>
-<td>
-<p align="center">110 </p>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef du service de la gestion du réseau routier national <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>120 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">j) Direction des transports maritimes, routiers et fluviaux </p>
+<td align="center">
+<br/>Chef du service de l'administration générale et de la stratégie <br/>
 </td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur adjoint </p>
-</td>
-<td>
-<p align="center">2 </p>
-</td>
-<td>
-<p align="center">120 </p>
+<td align="center">
+<br/>120 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">k) Direction des affaires maritimes </p>
+<td align="center">
+<br/>e) Direction générale de l'aviation civile <br/>
 </td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>
 </td>
-<td>
-<pre> </pre>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef du service du secrétariat général <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>120 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur adjoint </p>
+<td align="center">
+<br/>Adjoint au directeur du contrôle de la sécurité (jusqu'au 31 décembre 2008) <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">110 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">l) Direction de la sécurité et de la circulation routières </p>
-</td>
-<td>
-<pre> </pre>
-</td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>110 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur adjoint </p>
+<td align="center">
+<br/>f) Direction générale de l'aménagement, du logement et de la nature <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>
 </td>
-<td>
-<p align="center">120 </p>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef du service des affaires générales et de la performance <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>120 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">m) Direction du tourisme </p>
+<td align="center">
+<br/>g) Direction générale de la prévention des risques <br/>
 </td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>
 </td>
-<td>
-<pre> </pre>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de service, adjoint au directeur général de la prévention des risques <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>120 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur adjoint </p>
+<td align="center">
+<br/>Chef du service des risques technologiques <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">100 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">n) Direction de l'Etablissement national des invalides de la marine </p>
-</td>
-<td>
-<pre> </pre>
-</td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>120 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur adjoint </p>
+<td align="center">
+<br/>Chef du service de la prévention des nuisances et de la qualité de l'environnement <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">110 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">o) Délégation interministérielle à la ville </p>
-</td>
-<td>
-<pre> </pre>
-</td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>120 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Délégué interministériel adjoint </p>
+<td align="center">
+<br/>Chef du service des risques naturels et hydrauliques <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">100 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">p) Service central de l'inspection du travail des transports </p>
-</td>
-<td>
-<pre> </pre>
-</td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>120 <br/>
 </td>
 </tr>
 <tr>
-<td rowspan="2">
-<p>Inspecteur général</p>
+<td align="center">
+<br/>h) Délégation à la circulation et à la sécurité routières <br/>
 </td>
-<td rowspan="2">
-<p align="center">1 </p>
+<td align="center">
+<br/>
 </td>
-<td rowspan="2">
-<p align="center">110 </p>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<br/>Adjoint au délégué, chef de service <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>110 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>i) Service central de l'inspection du travail des transports <p>(jusqu'au 31 décembre 2008) <br/>
+</p>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<br/>Inspecteur général <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>110 <br/>
 </td>
 </tr>
 </tbody>
 </table>
 
-6° Sous-directeur, directeur de projet :
+4° Sous-directeur, adjoint au directeur ou directeur adjoint d'administration centrale, adjoint à un chef de service d'administration centrale, secrétaire permanent :
 
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center">DÉSIGNATION DE L'EMPLOI </p>
+<th>
+<br/>
+<font size="1">DÉSIGNATION DE L'EMPLOI <br/>
+</font>
+</th>
+<th>
+<br/>
+<font size="1">NOMBRE D'EMPLOIS <br/>
+</font>
+</th>
+<th>
+<br/>
+<font size="1">NOMBRE DE POINTS PAR EMPLOI</font>
+<br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>a) Secrétariat général <br/>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<br/>Sous-directeur de la gestion des ressources en emplois et en compétences <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>90 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Sous-directeur du développement des compétences et de la formation <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>90 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Sous-directeur des parcours professionnels et des mobilités <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>90 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Sous-directeur des personnels d'encadrement, maritimes et des contractuels <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>90 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Sous-directeur des personnels administratifs, techniques, d'exploitation et des transports terrestres <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>90 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Sous-directeur des politiques sociales et des pensions <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>90 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Sous-directeur de la coordination de la gestion des ressources humaines de l'administration centrale <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>90 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Sous-directeur de la conduite et de la gestion des moyens budgétaires des fonctions support <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>90 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Sous-directeur d'appui technique et logistique de l'administration centrale <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>90 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Sous-directeur du schéma directeur et de la politique des systèmes d'information <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>90 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Sous-directeur des systèmes d'information pour les activités support <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>90 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Sous-directeur de la modernisation <br/>
 </td>
-<td>
-<p>NOMBRE d'emplois </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">NOMBRE de points par emploi </p>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">a) Direction générale du personnel et de l'administration </p>
+<td align="center">
+<br/>Sous-directeur du pilotage des services et des écoles <br/>
 </td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Sous-directeur des personnels administratifs, maritimes et des transports terrestres </p>
+<td align="center">
+<br/>Sous-directeur de la conduite et de l'accompagnement du changement <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">110 </p>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Sous-directeur des personnels techniques, d'exploitation et contractuels.. </p>
+<td align="center">
+<br/>Sous-directeur du budget et des contrôles <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">110 </p>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Sous-directeur du recrutement, des concours et de la formation </p>
+<td align="center">
+<br/>Sous-directeur des marchés et de la comptabilité <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">80 </p>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Sous-directeur de la gestion des compétences et des effectifs, du budget du personnel et du fonctionnement des services</p>
+<td align="center">
+<br/>Adjoint au chef du service de défense, de sécurité et d'intelligence économique <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">110 </p>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Sous-directeur des affaires financières .... </p>
+<td align="center">
+<br/>Adjoint au chef du service de défense, de sécurité et d'intelligence économique, chargé du logement et de la ville <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">110 </p>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Sous-directeur du développement professionnel. </p>
+<td align="center">
+<br/>Adjoint au chef du service de défense, de sécurité et d'intelligence économique, chargé de la mer <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">110 </p>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Sous-directeur de la maîtrise d'ouvrage des systèmes d'information de personnel et d'administration . </p>
+<td align="center">
+<br/>Sous-directeur du changement climatique et du développement durable <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">80 </p>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">b) Direction des affaires juridiques, informatiques et logistiques</p>
+<td align="center">
+<br/>Sous-directeur de la régulation européenne <br/>
 </td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Sous-directeur de l'éthique et du droit privé. </p>
+<td align="center">
+<br/>Sous-directeur des échanges internationaux <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">110 </p>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Sous-directeur de l'assistance aux services et du droit public</p>
+<td align="center">
+<br/>Sous-directeur des affaires juridiques de l'administration générale <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>90 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Sous-directeur des affaires juridiques de l'environnement et de l'urbanisme <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>90 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Sous-directeur des affaires juridiques de l'énergie et des transports <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>90 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>b) Commissariat général au développement durable <br/>
 </td>
-<td>
-<p align="center">110 </p>
+<td align="center">
+<br/>
 </td>
+<td align="center"/>
 </tr>
 <tr>
-<td>
-<p>Sous-directeur des technologies de l'information </p>
+<td align="center">
+<br/>Sous-directeur de l'innovation <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">80 </p>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Sous-directeur des prestations logistiques et des moyens . </p>
+<td align="center">
+<br/>Sous-directeur de l'animation scientifique et technique <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">80 </p>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Sous-directeur du cadre de vie des personnels de l'administration centrale </p>
+<td align="center">
+<br/>Sous-directeur de l'économie des ressources naturelles et des risques <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">80 </p>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">c) Direction des affaires économiques et internationales </p>
+<td align="center">
+<br/>Sous-directeur de la mobilité et de l'aménagement <br/>
 </td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Sous-directeur du bâtiment, des travaux publics et des secteurs professionnels </p>
+<td align="center">
+<br/>Sous-directeur de l'intégration des démarches de développement durable par les acteurs économiques <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">100 </p>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Sous-directeur des actions internationales. </p>
+<td align="center">
+<br/>Sous-directeur de l'intégration des démarches de développement durable dans les politiques publiques <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">80 </p>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Sous-directeur de l'observation statistique de la construction </p>
+<td align="center">
+<br/>Sous-directeur de l'observation de l'énergie et des matières premières <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">80 </p>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Sous-directeur de l'observation statistique des transports</p>
+<td align="center">
+<br/>Sous-directeur de l'observation statistique du logement et de la construction <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">80 </p>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Sous-directeur des affaires européennes . </p>
+<td align="center">
+<br/>Sous-directeur de l'observation statistique des transports <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">100 </p>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">d) Direction de la recherche et de l'animation </p>
+<td align="center">
+<br/>Sous-directeur de l'information environnementale <br/>
 </td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">scientifique et technique </p>
+<td align="center">
+<br/>Sous-directeur des méthodes, données et synthèses environnementales <br/>
 </td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Sous-directeur du développement scientifique et technique </p>
+<td align="center">
+<br/>Sous-directeur des affaires générales <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>90 <br/>
 </td>
-<td>
-<p align="center">1 </p>
+</tr>
+<tr>
+<td align="center">
+<br/>c) Direction générale de l'énergie et du climat <br/>
 </td>
-<td>
-<p align="center">100 </p>
+<td align="center">
+<br/>
 </td>
+<td align="center"/>
 </tr>
 <tr>
-<td>
-<p>Sous-directeur des affaires financières et internationales </p>
+<td align="center">
+<br/>Sous-directeur des marchés de l'énergie et des affaires sociales <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">90 </p>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">e) Direction générale de l'urbanisme, </p>
+<td align="center">
+<br/>Sous-directeur de la sécurité d'approvisionnement et des nouveaux produits énergétiques <br/>
 </td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">de l'habitat et de la construction </p>
+<td align="center">
+<br/>Sous-directeur du système électrique et des énergies renouvelables <br/>
 </td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Sous-directeur du financement et du budget </p>
+<td align="center">
+<br/>Sous-directeur de l'industrie nucléaire <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">110 </p>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Sous-directeur des interventions urbaines et de l'habitat </p>
+<td align="center">
+<br/>Sous-directeur du climat et de la qualité de l'air <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">110 </p>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Sous-directeur du droit de l'urbanisme. </p>
+<td align="center">
+<br/>Sous-directeur de la sécurité et des émissions des véhicules <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">110 </p>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Sous-directeur de la qualité de la construction. </p>
+<td align="center">
+<br/>Sous-directeur des affaires générales et de la synthèse <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>90 <br/>
 </td>
-<td>
-<p align="center">110 </p>
+</tr>
+<tr>
+<td align="center">
+<br/>d) Direction générale des infrastructures, des transports et de la mer <br/>
+</td>
+<td align="center">
+<br/>
 </td>
+<td align="center"/>
 </tr>
 <tr>
-<td>
-<p>Sous-directeur des organismes constructeurs. </p>
+<td align="center">
+<br/>Sous-directeur de la gestion du réseau autoroutier concédé <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">80 </p>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Sous-directeur de la planification stratégique. </p>
+<td align="center">
+<br/>Sous-directeur des services routiers déconcentrés et du contrôle de gestion <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">80 </p>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Sous-directeur du droit de l'habitat.. </p>
+<td align="center">
+<br/>Sous-directeur de la construction et de la politique technique <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">80 </p>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Sous-directeur de l'observation et des études. </p>
+<td align="center">
+<br/>Sous-directeur de la gestion du réseau routier non concédé et du trafic <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">80 </p>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td rowspan="2">
-<p>Sous-directeur des métiers de l'aménagement. </p>
+<td align="center">
+<br/>Sous-directeur du développement et de la gestion des réseaux ferroviaires et fluviaux et des investissements portuaires <br/>
 </td>
-<td rowspan="2">
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td rowspan="2">
-<p align="center">80 </p>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
-</tbody>
-</table>
-<table>
-<tbody>
 <tr>
-<td>
-<p align="center">f) Direction générale des routes </p>
+<td align="center">
+<br/>Sous-directeur du développement du réseau routier national <br/>
 </td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Sous-directeur des investissements routiers.. </p>
+<td align="center">
+<br/>Sous-directeur des services ferroviaires et des déplacements urbains <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">110 </p>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Sous-directeur des autoroutes et des ouvrages concédés </p>
+<td align="center">
+<br/>Sous-directeur de la sécurité des transports ferroviaires et collectifs et de la régulation ferroviaire <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">110 </p>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Sous-directeur de la gestion du réseau .</p>
+<td align="center">
+<br/>Sous-directeur des ports et du transport fluvial <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">90 </p>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Sous-directeur de la planification et du budget.</p>
+<td align="center">
+<br/>Sous-directeur des transports routiers <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">90 </p>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">g) Direction des transports ferroviaires et collectifs </p>
+<td align="center">
+<br/>Sous-directeur du travail et des affaires sociales <br/>
 </td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Sous-directeur des infrastructures de transports ferroviaires et collectifs </p>
+<td align="center">
+<br/>Sous-directeur de la sécurité maritime <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">100 </p>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Sous-directeur des services de transports ferroviaires et collectifs </p>
+<td align="center">
+<br/>Sous-directeur des gens de mer et de l'enseignement maritime <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">100 </p>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Sous-directeur de la sécurité, de l'organisation et des affaires européennes et internationales des transports ferroviaires et collectifs</p>
+<td align="center">
+<br/>Sous-directeur des activités maritimes <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">100 </p>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">h) Direction des transports maritimes, routiers et fluviaux </p>
+<td align="center">
+<br/>Sous-directeur des systèmes d'information maritimes <br/>
 </td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Sous-directeur des ports, des voies navigables et du littoral.. </p>
+<td align="center">
+<br/>Sous-directeur des études et de la prospective <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">110 </p>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Sous-directeur des transports maritimes et fluviaux </p>
+<td align="center">
+<br/>Sous-directeur du budget et de la synthèse administrative <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">100 </p>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Sous-directeur des transports routiers. </p>
+<td align="center">
+<br/>Chef du service de santé des gens de mer <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>90 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>e) Direction générale de l'aviation civile <br/>
 </td>
-<td>
-<p align="center">110 </p>
+<td align="center">
+<br/>
 </td>
+<td align="center"/>
 </tr>
 <tr>
-<td>
-<p>Sous-directeur du travail et des affaires sociales </p>
+<td align="center">
+<br/>Sous-directeur du développement durable <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">110 </p>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">i) Direction des affaires maritimes </p>
+<td align="center">
+<br/>Sous-directeur des transporteurs et services aériens <br/>
 </td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Sous-directeur de la sécurité maritime </p>
+<td align="center">
+<br/>Sous-directeur des aéroports <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">110 </p>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Sous-directeur des gens de mer et de l'enseignement maritime. </p>
+<td align="center">
+<br/>Sous-directeur de la construction aéronautique <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">80 </p>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Sous-directeur des activités littorales et maritimes </p>
+<td align="center">
+<br/>Sous-directeur de la sûreté et de la défense <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">80 </p>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Sous-directeur des systèmes d'information maritimes </p>
+<td align="center">
+<br/>Sous-directeur de l'Europe et de l'international <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">80 </p>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">j) Secrétariat général de la direction générale de la mer et des transports </p>
+<td align="center">
+<br/>Sous-directeur des études, des statistiques et de la prospective <br/>
 </td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Sous-directeur du contrôle de gestion, du pilotage de la performance et du budget. </p>
+<td align="center">
+<br/>Sous-directeur des personnels <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">80 </p>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Sous-directeur des affaires générales . </p>
+<td align="center">
+<br/>Sous-directeur des affaires financières et du contrôle de gestion <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">80 </p>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">k) Direction de la sécurité et de la circulation routières </p>
+<td align="center">
+<br/>Sous-directeur des affaires juridiques <br/>
 </td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Sous-directeur de la sécurité de la route et de la gestion du trafic </p>
+<td align="center">
+<br/>Sous-directeur des systèmes d'information et de la modernisation <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">110 </p>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Sous-directeur de l'éducation routière. </p>
+<td align="center">
+<br/>Sous-directeur des méthodes et de la qualité (jusqu'au 31 décembre 2008) <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">110 </p>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Sous-directeur de l'action interministérielle et de la communication </p>
+<td align="center">
+<br/>Sous-directeur des personnels navigants (jusqu'au 31 décembre 2008) <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">110 </p>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Sous-directeur de la réglementation technique des véhicules</p>
+<td align="center">
+<br/>Sous-directeur de la navigabilité et des opérations (jusqu'au 31 décembre 2008) <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">80 </p>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Sous-directeur des actions transversales et des ressources</p>
+<td align="center">
+<br/>Sous-directeur de la navigation aérienne, des aéroports et de la sûreté (jusqu'au 31 décembre 2008) <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>90 <br/>
 </td>
-<td>
-<p align="center">1 </p>
+</tr>
+<tr>
+<td align="center">
+<br/>f) Direction générale de l'aménagement, du logement et de la nature <br/>
 </td>
-<td>
-<p align="center">80 </p>
+<td align="center">
+<br/>
 </td>
+<td align="center"/>
 </tr>
 <tr>
-<td>
-<p align="center">l) Direction du tourisme </p>
+<td align="center">
+<br/>Sous-directeur du financement du logement <br/>
 </td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Sous-directeur des politiques touristiques </p>
+<td align="center">
+<br/>Sous-directeur des politiques de l'habitat <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">100 </p>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Sous-directeur de l'administration générale et de l'évaluation interne </p>
+<td align="center">
+<br/>Sous-directeur de la législation de l'habitat et des organismes constructeurs <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">100 </p>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">m) Direction de l'Etablissement national des invalides de la marine </p>
+<td align="center">
+<br/>Sous-directeur de la qualité et du développement durable dans la construction <br/>
 </td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Sous-directeur du personnel, de la modernisation et du pilotage des services </p>
+<td align="center">
+<br/>Sous-directeur de la qualité du cadre de vie <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">80 </p>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td rowspan="2">
-<p>Sous-directeur de la sécurité sociale des marins </p>
+<td align="center">
+<br/>Sous-directeur de l'aménagement durable <br/>
 </td>
-<td rowspan="2">
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td rowspan="2">
-<p align="center">80 </p>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
-</tbody>
-</table>
-
-7° Chef ou président de mission :
-
-<table>
-<tbody>
 <tr>
-<td>
-<p align="center">DÉSIGNATION DE L'EMPLOI </p>
+<td align="center">
+<br/>Sous-directeur des espaces naturels <br/>
 </td>
-<td>
-<p>NOMBRE D'EMPLOIS </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p>NOMBRE de points par emploi </p>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">Direction générale des routes </p>
+<td align="center">
+<br/>Sous-directeur de la protection et de la valorisation des espèces et de leurs milieux <br/>
 </td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td rowspan="2">
-<p>Président de la mission du contrôle des sociétés concessionnaires d'autoroutes </p>
+<td align="center">
+<br/>Sous-directeur de l'action territoriale et de la législation de l'eau et des matières premières <br/>
 </td>
-<td rowspan="2">
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td rowspan="2">
-<p align="center">90 </p>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
-</tbody>
-</table>
-
-8° Secrétaire général, secrétaire permanent :
-
-<table>
-<tbody>
 <tr>
-<td>
-<p align="center">DÉSIGNATION DE L'EMPLOI </p>
+<td align="center">
+<br/>Sous-directeur de la protection et de la gestion des ressources en eau et minérales <br/>
 </td>
-<td>
-<p>NOMBRE D'EMPLOIS </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p>NOMBRE de points par emploi </p>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">a) Direction générale de l'urbanisme, de l'habitat et de la construction </p>
+<td align="center">
+<br/>Sous-directeur du littoral et des milieux marins <br/>
 </td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Secrétaire général des grandes opérations d'urbanisme </p>
+<td align="center">
+<br/>Sous-directeur des affaires générales <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">110 </p>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Secrétaire permanent du plan urbanisme, construction et architecture</p>
+<td align="center">
+<br/>Sous-directeur de la performance <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">100 </p>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">b) Direction générale de la mer et des transports </p>
+<td align="center">
+<br/>Secrétaire permanent du Plan urbanisme construction architecture <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>90 <br/>
 </td>
-<td>
-<pre> </pre>
+</tr>
+<tr>
+<td align="center">
+<br/>g) Direction générale de la prévention des risques <br/>
+</td>
+<td align="center">
+<br/>
 </td>
+<td align="center"/>
 </tr>
 <tr>
-<td>
-<p>Secrétaire général </p>
+<td align="center">
+<br/>Sous-directeur des risques accidentels <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">110 </p>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">c) Direction de la sécurité et de la circulation routières </p>
+<td align="center">
+<br/>Sous-directeur des risques chroniques et du pilotage <br/>
 </td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>90 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>h) Délégation à la circulation et à la sécurité routières <br/>
 </td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>
 </td>
+<td align="center"/>
 </tr>
 <tr>
-<td>
-<p>Secrétaire général de l'Observatoire national interministériel de la sécurité routière</p>
+<td align="center">
+<br/>Sous-directeur de l'action interministérielle <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">100 </p>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">d) Délégation interministérielle à la ville </p>
+<td align="center">
+<br/>Sous-directeur de l'éducation routière <br/>
 </td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td rowspan="2">
-<p>Secrétaire général </p>
+<td align="center">
+<br/>Sous-directeur des actions transversales et des ressources <br/>
 </td>
-<td rowspan="2">
-<p align="center">1 </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td rowspan="2">
-<p align="center">100 </p>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 </tbody>
@@ -2167,115 +2349,148 @@ B. - Fonctions exercées dans un service déconcentré
 </td>
 </tr>
 </tbody>
-</table>
+</table>C - Fonctions exercées dans un service à compétence nationale ou dans un service technique central
 
-C. - Fonctions exercées dans un service à compétence nationale ou dans un service technique central
-
-Directeur, chef de service ou chef de centre :
+Directeur ou délégué ou chef de service ou chef de centre :
 
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center">DÉSIGNATION DE L'EMPLOI</p>
-</td>
-<td>
-<p align="center">NOMBRE </p>
+<th>
 <br/>
-<p align="center">d'emplois</p>
-</td>
-<td>
-<p align="center">NOMBRE </p>
+<font size="1">DÉSIGNATION DE L'EMPLOI <br/>
+</font>
+</th>
+<th>
 <br/>
-<p align="center">de points par emploi</p>
+<font size="1">NOMBRE D'EMPLOIS <br/>
+</font>
+</th>
+<th>
+<br/>
+<font size="1">NOMBRE DE POINTS PAR EMPLOI <br/>
+</font>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>a) Centre d'études sur les réseaux, les transports, l'urbanisme <p>et les constructions publiques <br/>
+</p>
+</td>
+<td align="center">
+<br/>
+</td>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>120 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">a) Service technique des remontées mécaniques et des transports guidés</p>
+<td align="center">
+<br/>b) Service technique des remontées mécaniques et des transports guidés <br/>
 </td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>
 </td>
-<td>
-<pre> </pre>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef du service <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Chef du service</p>
+<td align="center">
+<br/>c) Centre d'études techniques maritimes et fluviales <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>
 </td>
-<td>
-<p align="center">90</p>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef du centre <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>110 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">b) Centre d'études techniques maritimes et fluviales</p>
+<td align="center">
+<br/>d) Service d'études sur les transports, les routes et leurs aménagements <br/>
 </td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>
 </td>
-<td>
-<pre> </pre>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>120 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Chef du centre</p>
+<td align="center">
+<br/>e) Centre d'études des tunnels <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>
 </td>
-<td>
-<p align="center">110</p>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>90 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">c) Service d'études techniques des routes et des autoroutes</p>
+<td align="center">
+<br/>f) Délégation à l'action foncière et immobilière <br/>
 </td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>
 </td>
-<td>
-<pre> </pre>
-</td>
+<td align="center"/>
 </tr>
 <tr>
-<td>
-<p>Directeur</p>
+<td align="center">
+<br/>Délégué à l'action foncière et immobilière <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">120</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">d) Centre d'études des tunnels</p>
-</td>
-<td>
-<pre> </pre>
-</td>
-<td>
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td rowspan="2">
-<p>Directeur</p>
-</td>
-<td rowspan="2">
-<p align="center">1</p>
-</td>
-<td rowspan="2">
-<p align="center">90</p>
+<td align="center">
+<br/>120<br/>
 </td>
 </tr>
 </tbody>

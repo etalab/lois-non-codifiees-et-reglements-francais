@@ -1,24 +1,18 @@
 # Article ANNEXE
 
-A.-Fonctions exercées en administration centrale
+FONCTIONS POUVANT OUVRIR DROIT
 
-1° Vice-président du conseil général des ponts et chaussées.
+AU VERSEMENT D'UNE NOUVELLE BONIFICATION INDICIAIRE
 
-2° Directeur général et directeur d'administration centrale, délégué interministériel.
+A. - Fonctions exercées en administration centrale
 
-3° Haut fonctionnaire de défense et de sécurité, haut fonctionnaire pour la sécurité dans les transports, haut fonctionnaire délégué à l'intermodalité ou à l'accessibilité.
+1. Vice-président du Conseil général de l'environnement et du développement durable.
 
-4° Directeur de centre.
+2. Secrétaire général du ministère, commissaire général, directeur général ou directeur d'administration centrale, délégué interministériel ou délégué.
 
-5° Chef de service ou directeur adjoint, délégué interministériel adjoint.
+3. Chef de service ou adjoint au directeur ou directeur adjoint, délégué interministériel ou délégué adjoint, secrétaire général de direction d'administration centrale.
 
-6° Expert de haut niveau ou directeur de projet.
-
-7° Sous-directeur.
-
-8° Chef ou président de mission.
-
-9° Secrétaire général.
+4. Sous-directeur, adjoint au directeur ou directeur adjoint d'administration centrale, adjoint au chef de service d'administration centrale, secrétaire permanent.
 
 B.-Fonctions exercées dans un service déconcentré
 
@@ -40,8 +34,6 @@ B.-Fonctions exercées dans un service déconcentré
 
 9° Directeur interdépartemental des routes.
 
-C.-Fonctions exercées dans un service à compétence
+C.-Fonctions exercées dans un service à compétence nationale ou dans un service technique central
 
-nationale ou dans un service technique central
-
-Directeur ou chef de service ou chef de centre.
+Directeur ou délégué ou chef de service ou chef de centre.
