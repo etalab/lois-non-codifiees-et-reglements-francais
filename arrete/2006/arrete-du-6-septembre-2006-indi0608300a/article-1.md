@@ -4,7 +4,7 @@ Sous réserve des dispositions de l'article 2, les accréditations qui auraient 
 
 I.-31 décembre 2008 pour les organismes désignés pour la vérification primitive de certaines catégories d'instruments de mesure en application de l'arrêté du 25 février 2002 susvisé ;
 
-II.-1er juillet 2008 pour les organismes agréés pour la vérification périodique des ensembles de mesurage routiers et 1er janvier 2009 pour les organismes agréés pour la vérification périodique d'autres ensembles de mesurage en application de l'arrêté du 28 juin 2002 susvisé ;
+II.-1er avril 2009 pour les organismes agréés pour la vérification périodique des ensembles de mesurage routiers et 1er septembre 2009 pour les organismes agréés pour la vérification périodique d'autres ensembles de mesurage en application de l'arrêté du 28 juin 2002 susvisé ;
 
 III.-1er janvier 2008 pour les organismes désignés en application de l'arrêté du 8 juillet 2003 susvisé relatif au contrôle des éthylomètres ;
 

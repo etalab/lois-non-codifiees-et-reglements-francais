@@ -52,4 +52,8 @@ La liste des emplois de conseiller pour les affaires administratives du ministè
 
 - adjoint au chef de la division personnel civil de l'état-major de la région terre nord-est ;
 
-- chef du bureau de la reconversion à la sous-direction du recrutement et de la formation de la direction générale de la gendarmerie nationale
+- chef du bureau de la reconversion à la sous-direction du recrutement et de la formation de la direction générale de la gendarmerie nationale ;
+
+- chef du bureau de l'exécution budgétaire à la direction des affaires financières ;
+
+- secrétaire général à l'Ecole nationale supérieure des ingénieurs des études et techniques d'armement.
