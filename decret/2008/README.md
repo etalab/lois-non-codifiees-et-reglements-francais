@@ -196,6 +196,7 @@
 - [Décret n°2008-680 du 9 juillet 2008 (DEVK0815768D)](decret-n2008-680-du-9-juillet-2008-devk0815768d)
 - [Décret n°2008-681 du 9 juillet 2008 (DEVK0815785D)](decret-n2008-681-du-9-juillet-2008-devk0815785d)
 - [Décret n°2008-682 du 9 juillet 2008 (IOCA0815771D)](decret-n2008-682-du-9-juillet-2008-ioca0815771d)
+- [Décret n°2008-688 du 9 juillet 2008 (MAEA0808727D)](decret-n2008-688-du-9-juillet-2008-maea0808727d)
 - [Décret n°2008-441 du 9 mai 2008 (DEVE0808360D)](decret-n2008-441-du-9-mai-2008-deve0808360d)
 - [Décret n°2007-1335 du 10 septembre 2007 (DEFD0753802D)](decret-n2007-1335-du-10-septembre-2007-defd0753802d)
 - [Décret n°2008-242 du 10 mars 2008 (JUSC0803953D)](decret-n2008-242-du-10-mars-2008-jusc0803953d)
