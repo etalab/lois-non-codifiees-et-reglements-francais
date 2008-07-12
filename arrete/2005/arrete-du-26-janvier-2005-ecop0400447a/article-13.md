@@ -4,7 +4,7 @@ La sous-direction de l'innovation et du développement industriel comprend :
 
 1. Le bureau de l'animation régionale :
 
-Il anime et oriente les missions en matière de développement économique et industriel régional mises en oeuvre par les DRIRE, en liaison avec le secrétariat général des DRIRE.
+Il organise, anime et évalue les actions mises en œuvre par les DRIRE en matière de développement économique et industriel régional.
 
 Il mobilise les expertises et politiques de la direction générale pour l'animation des réseaux régionaux de développement économique et industriel. En liaison avec les autres administrations et avec l'appui des services sectoriels, il participe à la conception et la mise en oeuvre des politiques d'anticipation des mutations économiques et d'attractivité des territoires et de localisation d'activité. Il contribue à l'élaboration et la mise en oeuvre de la politique du Gouvernement en matière de création d'activités et de transmission d'entreprises. Il conçoit et gère les outils financiers de la conversion industrielle sur les territoires.
 

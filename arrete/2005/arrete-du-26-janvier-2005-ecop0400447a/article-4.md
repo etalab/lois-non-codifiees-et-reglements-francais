@@ -1,6 +1,6 @@
 # Article 4
 
-La sous-direction de la normalisation, de la qualité et de la propriété industrielle comprend :
+La sous-direction de la métrologie, de la normalisation, de la qualité et de la propriété industrielle comprend :
 
 1. Le bureau de la propriété industrielle et de la qualité :
 
@@ -19,3 +19,13 @@ Il apporte son expertise en vue de l'élimination des entraves techniques pour l
 Il assure, pour le compte de l'Etat, la tutelle des organismes français de normalisation ainsi que du Laboratoire national de métrologie et d'essais et du Comité français d'accréditation. Il propose et met en oeuvre les mesures, notamment financières, visant à favoriser le développement des normes. Il est mis, en tant que de besoin, à la disposition du délégué interministériel aux normes, notamment pour assurer, conformément au décret n° 84-74 du 26 janvier 1984 fixant le statut de la normalisation, la définition de la politique et la coordination des positions nationales et internationales des pouvoirs publics en matière de normes.
 
 En outre, il propose et met en oeuvre les actions visant à faciliter l'accès des entreprises à la certification et à l'accréditation.
+
+4. Le bureau de la métrologie :
+
+Il est chargé de l'élaboration, de la mise en œuvre et du suivi de la réglementation relative aux unités légales de mesure et de celle relative aux instruments de mesure utilisés, notamment dans les transactions commerciales, les opérations fiscales ainsi que dans les domaines de la santé, de la sécurité et de l'environnement.
+
+Il assure, pour le compte du ministère chargé de l'industrie, les relations avec les autres ministères compétents en matière de métrologie et les organismes publics chargés de la métrologie. Il suit les actions de promotion de la métrologie dans les entreprises.
+
+Il participe aux activités internationales dans le domaine de la métrologie.
+
+Dans ce domaine, il oriente, anime et évalue les activités exercées par les DRIRE et participe à la formation de leurs agents.

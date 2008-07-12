@@ -2,7 +2,7 @@
 
 La sous-direction de l'innovation et du développement industriel propose et participe à la mise en oeuvre des politiques d'innovation et des politiques de développement régional favorisant la compétitivité des entreprises industrielles et de services à l'industrie. Elle définit également et met en oeuvre les mesures propres à promouvoir les politiques européennes, ainsi que les relations du ministère avec les pays européens dans les domaines de compétence de la direction générale.
 
-Elle anime et oriente l'action des DRIRE en matière de développement économique et industriel régional, en liaison avec le secrétariat général des DRIRE. Elle fait appel aux services de la direction générale pour animer les réseaux régionaux de développement technologique, industriel et économique.
+Elle fait appel aux services de la direction générale pour animer les réseaux régionaux de développement technologique, industriel et économique.
 
 En liaison avec les autres administrations, elle contribue à l'élaboration et à la mise en oeuvre des politiques de localisation d'activité et d'attractivité du territoire et des politiques de création d'activités. Elle conçoit et gère les outils financiers de la conversion industrielle. Elle anime et coordonne l'action de la direction générale en matière de mutations économiques. Elle apporte son concours à l'exercice de la tutelle des chambres de commerce et d'industrie et de l'assemblée des chambres françaises de commerce et d'industrie.
 
