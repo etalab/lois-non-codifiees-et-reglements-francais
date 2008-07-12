@@ -1,5 +1,0 @@
-# Article 2
-
-Art. 2.
-
-Le directeur de la sécurité sociale au ministère de la santé, de la jeunesse et des sports et au ministère du budget, des comptes publics et de la fonction publique et le directeur général de l'enseignement supérieur au ministère de l'enseignement supérieur et de la recherche sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
