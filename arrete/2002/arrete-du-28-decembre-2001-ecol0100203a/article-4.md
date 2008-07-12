@@ -4,6 +4,6 @@ L'application MAJIC 2 (mise à jour des informations cadastrales) fournit aux ap
 
 L'application FIDJI transmet à l'application "BNDP - Base nationale des données patrimoniales" les informations visées au 1 de l'article 3 afférentes à la publicité foncière.
 
-Le serveur Téléctes transmet les données structurées à l'application Fidji, qui les charge dans son référentiel d'aide à la saisie ;
+Le serveur Télé@ctes transmet les données structurées à l'application Fidji, qui les charge dans son référentiel d'aide à la saisie ;
 
-La mention de publication de l'acte ou le refus de traitement de la réquisition produits par Fidji sont transmis au serveur Téléctes.
+- les mentions de publication, de refus ou de rejet des formalités et des réquisitions produites par Fidji sont transmises au serveur Télé@ctes.
