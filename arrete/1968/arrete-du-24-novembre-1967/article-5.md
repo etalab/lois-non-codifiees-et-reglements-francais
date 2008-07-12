@@ -146,6 +146,10 @@ Ce signal indique que l'accès à une piste ou à une bande cyclable est conseil
 
 Signal C114 : Fin d'une piste ou d'une bande cyclable conseillée et réservée aux cycles à deux ou trois roues.
 
+Signal C 115. - Voie verte - voie réservée à la circulation des piétons et des véhicules non motorisés.
+
+Signal C 116. - Fin de voie verte - voie réservée à la circulation des piétons et des véhicules non motorisés.
+
 Ce signal indique la fin de la réglementation édictée par le panneau C113.
 
 Signal C207 : Début d'une section d'autoroute.

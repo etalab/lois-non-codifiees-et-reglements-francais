@@ -78,6 +78,8 @@ M 4 w qui désigne les véhicules tractant une remorque dont le poids total auto
 
 M 4 x qui désigne les véhicules tractant une caravane ou une remorque de plus de 250 kg et dont le poids total roulant, véhicule plus remorque, n'excède pas 3,5 tonnes.
 
+M4y qui désigne les cavaliers.
+
 PANONCEAU STOP M 5
 
 Il indique la distance comprise entre le signal et l'endroit où le conducteur doit marquer l'arrêt et céder le passage.
