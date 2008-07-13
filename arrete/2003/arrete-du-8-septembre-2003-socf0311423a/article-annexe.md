@@ -1,6 +1,8 @@
 # Article Annexe
 
-INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES Intitulé :
+**INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES**
+
+Intitulé :
 
 Titre professionnel de poseur de menuiseries et d'aménagements intérieurs.
 
@@ -10,74 +12,68 @@ Code NSF : 234 s.
 
 Résumé du référentiel d'emploi
 
-Le poseur de menuiseries et d'aménagements intérieurs réalise l'aménagement, le cloisonnement et la décoration de volumes (habitats individuels et collectifs, surfaces commerciales, de bureaux, équipements publics) en appliquant les normes et les règles de construction (isolation thermique, acoustique et protections des biens et des personnes). Il installe les éléments d'équipements et de décoration intérieure tels les placards, cuisines, salles de bains et escaliers. Il transforme ou adapte certains éléments de montage selon les aléas du chantier. Il peut même fabriquer, sur mesure et à l'unitaire, des éléments spécifiques nécessaires à l'exécution du chantier de pose.
+Le poseur de menuiseries et d'aménagements intérieurs réalise l'aménagement, le cloisonnement et la décoration de volumes pour l'habitat individuel et collectif, les surfaces commerciales, les bureaux ou les équipements publics en appliquant les normes et les règles de construction (isolation thermique, acoustique et protections des biens et des personnes). Il pose des plafonds, des cloisons de doublage et de distribution, des portes intérieures, des placards, des éléments de gaines techniques, des lambris, des revêtements de sol en bois et dérivés, des escaliers, des meubles de cuisine et de salle de bains en bois et autres matériaux.
 
-Il exerce essentiellement, en intérieur, sur des chantiers de bâtiment pour des travaux neufs ou de réhabilitation, et cela tout au long de l'année avec des crêtes impliquant des aménagements d'horaires.
+La majorité des produits posés est fabriquée en série par l'industrie du meuble et de la menuiserie ou en plus petites quantités par des artisans. Cependant, le poseur est amené à transformer ou à adapter certains éléments de montage selon les aléas du chantier. Il peut même fabriquer, sur mesure et à l'unitaire, des éléments spécifiques nécessaires à l'exécution du chantier de pose. En fonction de l'importance du chantier, de l'organisation et de la taille de l'entreprise, le poseur peut être amené à travailler seul ou en équipe restreinte.
 
-En fonction de l'importance du chantier, de l'organisation et de la taille de l'entreprise, le poseur peut être amené à travailler seul ou en équipe restreinte.
+Le poseur intervient essentiellement, en intérieur, sur des chantiers de constructions neuves et en réhabilitation ; dans certains cas, le chantier se déroule en site habité en présence de public, ce qui nécessite une vigilance accrue en termes de protection des biens et des personnes.
 
-Son activité implique des déplacements fréquents dans un rayon d'action plus ou moins important selon le type d'entreprise.
+Lorsqu'il travaille en atelier, il réalise des usinages sur les machines à bois couramment utilisées dans la profession (scie à ruban, scie à panneaux, scie circulaire à format, dégauchisseuse, raboteuse, tenonneuse, toupie, matériels électroportatifs...).
 
-Les stations de travail sont de tous types (debout, accroupie, à genoux) et impliquent le port de charges lourdes et encombrantes.
+Les déplacements sont fréquents (éloignement du lieu de travail, changements de chantier) et les horaires relativement réguliers, mais les impératifs de délais peuvent occasionner des dépassements.
 
-Le poseur exécute les travaux courants de sa spécialité à partir de directives générales et sous contrôle ponctuel. Il dispose d'une certaine initiative dans le choix des moyens lui permettant d'accomplir ces travaux.
+Capacités attestées et descriptif des composantes de la certification
 
-Capacités attestées et descriptif
+1. Préparer des ouvrages de menuiseries et d'aménagements intérieurs pour un chantier de pose
 
-des composantes de la certification
+Réaliser des menus ouvrages de finition et de protection en bois et matériaux dérivés.
 
-1. Poser des ouvrages de type doublage de murs,
+Préparer et adapter un bâti, un chambranle et une porte en bois.
 
-cloisons de distribution, plafonds, portes intérieures
+Réaliser et adapter un caisson et une façade en bois massif et matériaux dérivés.
 
-Poser des cloisons de distribution dans le neuf et en rénovation en y intégrant les menuiseries intérieures.
+Réaliser les pièces d'un solivage en bois.
 
-Poser des menuiseries intérieures dans le neuf et en rénovation.
+2. Poser des plafonds, doublages de murs, cloisons de distribution, menuiseries intérieures, revêtements muraux et de sols
 
-2. Fabriquer et/ou adapter des éléments et des accessoires nécessaires à l'exécution d'un chantier de pose de menuiseries et aménagements intérieurs
+Poser des plafonds suspendus sur ossature métallique en plaques de plâtre et en dalles décoratives.
 
-Fabriquer une huisserie et/ou un bâti spécifique dans le neuf et/ou en réhabilitation.
+Poser des cloisons de doublage et de distribution en plaques de plâtre sur ossature métallique avec intégration de menuiseries intérieures.
 
-Modifier une huisserie et/ou un bâti existant dans le cas de la rénovation.
+Poser des revêtements décoratifs de type lambris en bois et PVC.
 
-Réaliser un caisson menuisé faisant office de gaine technique.
+Poser des escaliers prémontés et leurs garde-corps.
 
-3. Poser des meubles standard de cuisines, de salles de bains
+Poser un solivage et des parquets en bois massif et matériaux dérivés.
 
-et de bureaux ainsi que les ouvrages et accessoires associés
+3. Poser des meubles de cuisine, de salle de bains et des éléments d'aménagements intérieurs
 
-Poser des aménagements de types bibliothèques, rayonnages, placards, façades menuisées.
+Poser des mobiliers de dressing et installer leurs équipements.
 
-Poser des habillages menuisés de types gaines, coffres, trappes.
+Poser des mobiliers de cuisine et de salle de bains, installer et raccorder leurs équipements.
 
-Secteurs d'activité ou types d'emploi
+Secteurs d'activité ou types d'emploi accessibles par le détenteur du titre
 
-accessibles par le détenteur du titre
+Grandes, moyennes et petites entreprises de menuiserie.
 
-Les grandes, moyennes et petites entreprises de menuiserie.
+Sociétés d'intérim.
 
-Les sociétés d'intérim.
+Grandes et moyennes entreprises commerciales, soit comme salarié, soit comme poseur indépendant.
 
-Les grandes et moyennes entreprises commerciales, soit comme salarié, soit comme poseur indépendant.
+Codes ROME :
 
-Code(s) ROME :
+42222-Monteur (euse) plaquiste en agencements.
 
-42222 - Monteur/monteuse plaquiste en agencements ;
-
-47331 - Réalisateur/réalisatrice d'ouvrages en bois et matériaux associés.
+47331-Réalisateur (trice) d'ouvrages en bois et matériaux associés.
 
 Réglementation de l'activité :
 
 Néant.
 
-Autorité responsable de la certification :
-
-Ministère chargé de l'emploi.
+Autorité responsable de la certification : Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
-
-Arrêté du 25 novembre 2002.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.

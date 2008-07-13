@@ -1,11 +1,11 @@
 # Article 3
 
-Le titre professionnel de poseur de menuiseries et d'aménagements intérieurs est composé de trois unités constitutives, dont la liste suit :
+Le titre professionnel de poseur de menuiseries et d'aménagements intérieurs est composé des trois unités constitutives dont la liste suit :
 
-1. Poser des ouvrages de type doublage de murs, cloisons de distribution, plafonds, portes intérieures ;
+1. Préparer des ouvrages de menuiseries et d'aménagements intérieurs pour un chantier de pose ;
 
-2. Fabriquer et / ou adapter des éléments et des accessoires nécessaires à l'exécution d'un chantier de pose de menuiseries et aménagements intérieurs ;
+2. Poser des plafonds, doublages de murs, cloisons de distribution, menuiseries intérieures, revêtements muraux et de sols ;
 
-3. Poser des meubles standard de cuisines, de salles de bains et de bureaux, ainsi que les ouvrages et accessoires associés.
+3. Poser des meubles de cuisine, de salle de bains et des éléments d'aménagements intérieurs.
 
-Elles peuvent être sanctionnées par des certificats de compétences professionnelles (CCP) dans les conditions prévues par l'arrêté du 25 novembre 2002 susvisé.
+Elles peuvent être sanctionnées par des certificats de compétences professionnelles (CCP) dans les conditions prévues par l'arrêté du 9 mars 2006 susvisé.
