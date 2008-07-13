@@ -12,115 +12,55 @@ Code NSF : 233 s.
 
 Résumé du référentiel d'emploi
 
-Le peintre en bâtiment assure la finition intérieure et extérieure des bâtiments neufs ou en rénovation. Ces travaux ont pour finalité de protéger et/ou de décorer les supports, murs et plafonds. Il prépare préalablement les supports (décapage, réparations, enduits, apprêts) et applique manuellement ou mécaniquement les peintures, les enduits et les vernis. Il pose également des revêtements muraux (papiers peints, revêtements souples).
+Le peintre en bâtiment assure la finition intérieure et extérieure des bâtiments neufs en réhabilitation ou en rénovation. Ces travaux ont pour finalité de protéger et de décorer les supports. Il réalise les travaux préparatoires et d'apprêts sur les différents supports. Il procède ensuite à la mise en peinture et à la pose des revêtements muraux.
 
-Il exerce son activité en plein air ou dans des locaux fermés, parfois sur des chantiers de constructions neuves, mais plus souvent en rénovation ou chez des particuliers. Il travaille souvent sur des échafaudages et doit respecter les règles de sécurité concernant la protection contre les poussières et les produits volatils nocifs.
+Il intervient dans des entreprises de structure différente. Il exerce son activité en plein air ou dans des locaux fermés, sur des chantiers de constructions neuves mais plus souvent en rénovation ou en site occupé. Il doit respecter les règles de sécurité concernant le travail en hauteur, la protection contre les poussières et les produits volatils nocifs et se prémunir des risques électriques.
 
-Il travaille généralement au sein d'une petite équipe (deux à cinq personnes), sous la responsabilité d'un chef d'équipe, d'un compagnon ou du patron artisan. L'activité suppose de nombreux déplacements pour se rendre sur les différents chantiers. Elle nécessite parfois des horaires adaptés pour terminer un ouvrage et éviter les reprises inesthétiques.
+Il se trouve très souvent amené à soulever et transporter des charges.
+
+Le peintre en bâtiment travaille généralement seul ou au sein d'une petite équipe (2 à 5 personnes), sous la responsabilité d'un chef d'équipe, d'un compagnon ou de l'artisan.L'activité suppose de nombreux déplacements pour se rendre sur les différents chantiers. Ils nécessitent parfois des horaires adaptés pour terminer un ouvrage.
 
 Capacités attestées et descriptif des composantes de la certification
 
-1. Réaliser des travaux de peinture de ravalement de bâtiments en qualité de finition C
+1. Réaliser des travaux de peinture à l'extérieur de bâtiments en qualité de finition B ou C
 
-Installer un chantier de peinture de ravalement.
+Monter et démonter des échafaudages, fixes de type précadre et roulants, et savoir les utiliser.
 
-Monter un échafaudage de peintre.
+Réaliser les travaux de mise en œuvre de systèmes de peinture film mince sur des ouvrages neufs ou à rénover, en qualité de finition C.
 
-Préparer des supports maçonnés pour les peindre.
+Réaliser les travaux de mise en œuvre de systèmes de revêtements épais et semi-épais sur des ouvrages neufs ou à rénover, en qualité de finition C.
 
-Préparer des supports à base de plâtre pour les peindre ou les revêtir.
+Réaliser des travaux extérieurs de peinture sur supports bois, thermoplastiques et métalliques, neufs ou à rénover, en qualité de finition B.
 
-Réparer des supports maçonnés endommagés pour les peindre.
+2. Réaliser des travaux de peinture à l'intérieur de bâtiments en qualité de finition B
 
-Préparer des supports en bois, métaux et plastiques pour les peindre en qualité de finition C.
+Réaliser des travaux de peinture sur des plafonds enduits en plâtre, plaques de plâtre ou dérivés, neufs ou à rénover.
 
-Apprêter des supports en plâtre et maçonnés pour les peindre en qualité de finition C.
+Réaliser des travaux de peinture sur des cloisons enduites en plâtre, plaques de plâtre ou dérivés, neufs ou à rénover.
 
-Apprêter des supports en bois, métaux et plastiques pour les peindre en qualité de finition C.
+Réaliser des travaux de peinture intérieure sur des menuiseries bois, neuves ou à rénover.
 
-Appliquer manuellement des peintures de finition en film mince sur tous supports extérieurs.
+Réaliser des travaux de peinture intérieure sur des supports thermoplastiques et métalliques, neufs ou à rénover.
 
-Appliquer manuellement des peintures de finition en qualité C sur tous supports intérieurs.
+3. Réaliser des travaux de pose de revêtements muraux simples à l'intérieur de bâtiments en qualité de finition B
 
-Appliquer manuellement des revêtements semi-épais et épais sur tous supports.
+Réaliser les travaux de préparation et de pose de papier peint ordinaire sur des cloisons enduites en plâtre, plaques de plâtre ou dérivés, neufs ou à rénover.
 
-Appliquer mécaniquement des revêtements de façade et des peintures.
+Réaliser les travaux de préparation, de pose et de mise en peinture de revêtements muraux structurés à peindre sur des cloisons en plâtre, plaques de plâtre ou dérivés, neufs ou à rénover.
 
-Replier un chantier de peinture de ravalement.
+Secteurs d'activité ou types d'emploi accessibles par le détenteur du titre
 
-2. Réaliser des travaux de peinture intérieure de bâtiments en qualité de finition B
-
-Installer un chantier de peinture intérieure de bâtiment.
-
-Monter un échafaudage de peintre.
-
-Préparer des supports maçonnés pour les peindre.
-
-Préparer des supports à base de plâtre pour les peindre ou les revêtir.
-
-Préparer et apprêter des supports en bois, métaux et plastiques pour les peindre ou les revêtir en qualité de finition B.
-
-Apprêter des supports en plâtre et maçonnés pour les peindre ou les revêtir de papier peint en qualité de finition B.
-
-Appliquer manuellement des peintures de finition en qualité B sur murs et plafonds.
-
-Appliquer manuellement des peintures de finition en qualité B sur supports intérieurs en bois, métaux et plastiques.
-
-Appliquer des peintures au pistolet haute pression sans air.
-
-Appliquer des peintures projetées en basse pression.
-
-Replier un chantier de peinture et de revêtements intérieurs de bâtiment.
-
-Organiser individuellement sa journée de travail de peinture intérieure en bâtiment.
-
-3. Réaliser des travaux de pose de revêtements muraux courants à l'intérieur de bâtiments, en qualité de finition B
-
-Installer un chantier de pose de revêtements muraux.
-
-Préparer des supports à base de plâtre pour les peindre ou les revêtir.
-
-Apprêter des supports en plâtre et maçonnés pour les peindre ou les revêtir de papier peint en qualité de finition B.
-
-Poser des papiers peints sans raccord en qualité de finition B.
-
-Poser des papiers peints à raccords en qualité de finition B.
-
-Poser des revêtements muraux structurés à peindre.
-
-Replier un chantier de peinture et de revêtements intérieurs de bâtiment.
-
-Organiser individuellement sa journée de travail de pose de revêtements muraux.
-
-CCS : Réaliser des travaux de peinture et de revêtements muraux de haut de gamme
-
-Installer un chantier de peinture intérieure de bâtiment.
-
-Organiser individuellement sa journée de travail de peinture intérieure en bâtiment.
-
-Organiser individuellement sa journée de travail de pose de revêtements muraux.
-
-Réaliser des compositions harmonieuses de teintes dans des volumes intérieurs de bâtiments.
-
-Préparer des supports à base de plâtre pour les peindre ou les revêtir.
-
-Apprêter des supports en plâtre pour une qualité de finition A.
-
-Préparer et apprêter des supports en bois, métaux et plastiques pour les peindre ou les revêtir en qualité de finition A.
-
-Appliquer des laques tendues et des vernis en qualité de finition A.
-
-Secteurs d'activités ou types d'emploi accessibles par le détenteur du titre
-
-Moyennes entreprises du second oeuvre intervenant dans le domaine de l'aménagement-finitions.
+Moyennes entreprises du second œuvre intervenant dans le domaine de l'aménagement finition.
 
 Entreprises de travail temporaire.
 
 Services d'entretien de sociétés et de services publics.
 
-Code(s) ROME :
+Codes ROME :
 
-42233 - Peintre en bâtiment.
+42233-Peintre en bâtiment ;
+
+42232-Poseur / poseuse de revêtements souples.
 
 Réglementation de l'activité :
 
@@ -132,8 +72,6 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale.
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Décret n° 2002-1029 du 2 août 2002.
-
-Arrêté du 25 novembre 2002.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
