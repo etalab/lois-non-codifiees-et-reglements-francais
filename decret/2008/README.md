@@ -206,6 +206,8 @@
 - [Décret n°2008-39 du 10 janvier 2008 (AGRF0771417D)](decret-n2008-39-du-10-janvier-2008-agrf0771417d)
 - [Décret n°2008-546 du 10 juin 2008 (JUSK0813039D)](decret-n2008-546-du-10-juin-2008-jusk0813039d)
 - [Décret n°2008-547 du 10 juin 2008 (SJSG0800072D)](decret-n2008-547-du-10-juin-2008-sjsg0800072d)
+- [Décret n°2008-690 du 10 juillet 2008 (DEVO0807607D)](decret-n2008-690-du-10-juillet-2008-devo0807607d)
+- [Décret n°2008-691 du 10 juillet 2008 (DEFD0763855D)](decret-n2008-691-du-10-juillet-2008-defd0763855d)
 - [Décret n°2007-1735 du 11 décembre 2007 (DEVO0751165D)](decret-n2007-1735-du-11-decembre-2007-devo0751165d)
 - [Décret n°2007-1742 du 11 décembre 2007 (BCFB0765657D)](decret-n2007-1742-du-11-decembre-2007-bcfb0765657d)
 - [Décret n°2008-124 du 11 février 2008 (MENE0800957D)](decret-n2008-124-du-11-fevrier-2008-mene0800957d)
