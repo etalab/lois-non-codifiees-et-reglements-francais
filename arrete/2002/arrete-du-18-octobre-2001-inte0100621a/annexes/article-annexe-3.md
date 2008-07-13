@@ -1,5 +1,0 @@
-# Article ANNEXE 3
-
-TABLEAU D'ADÉQUATION EMPLOIS/UNITÉS DE VALEUR DE FORMATION
-
-Tableau non reproduit
