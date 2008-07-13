@@ -694,7 +694,6 @@
 - [Décret n°99-1134 du 28 décembre 1999 (ECOF9900040D)](decret-n99-1134-du-28-decembre-1999-ecof9900040d)
 - [Décret n°99-1135 du 28 décembre 1999 (EQUR9901360D)](decret-n99-1135-du-28-decembre-1999-equr9901360d)
 - [Décret n°99-1149 du 28 décembre 1999 (JUSC9920751D)](decret-n99-1149-du-28-decembre-1999-jusc9920751d)
-- [Décret n°99-1178 du 28 décembre 1999 (JUSD9930179D)](decret-n99-1178-du-28-decembre-1999-jusd9930179d)
 - [Décret n°99-1179 du 28 décembre 1999 (JUSD9930180D)](decret-n99-1179-du-28-decembre-1999-jusd9930180d)
 - [Décret n°99-1220 du 28 décembre 1999 (ATEP9970051D)](decret-n99-1220-du-28-decembre-1999-atep9970051d)
 - [Décret n°99-326 du 28 avril 1999 (MENF9900861D)](decret-n99-326-du-28-avril-1999-menf9900861d)

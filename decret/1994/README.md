@@ -159,7 +159,6 @@
 - [Décret n°94-121 du 7 février 1994 (SPSS9303624D)](decret-n94-121-du-7-fevrier-1994-spss9303624d)
 - [Décret n°94-122 du 7 février 1994 (MENF9400194D)](decret-n94-122-du-7-fevrier-1994-menf9400194d)
 - [Décret n°94-210 du 7 mars 1994 (DOMP9400003D)](decret-n94-210-du-7-mars-1994-domp9400003d)
-- [Décret n°94-38 du 7 janvier 1994 (DEFP9302166D)](decret-n94-38-du-7-janvier-1994-defp9302166d)
 - [Décret n°94-40 du 7 janvier 1994 (ENVE9310108D)](decret-n94-40-du-7-janvier-1994-enve9310108d)
 - [Décret n°94-471 du 7 juin 1994 (AGRM9400196D)](decret-n94-471-du-7-juin-1994-agrm9400196d)
 - [Décret n°94-472 du 7 juin 1994 (COPC9400001D)](decret-n94-472-du-7-juin-1994-copc9400001d)
