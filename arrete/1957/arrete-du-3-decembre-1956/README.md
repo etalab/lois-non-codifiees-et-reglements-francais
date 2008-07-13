@@ -2,4 +2,6 @@
 
 - [CHAPITRE Ier : Généralités.](chapitre-ier)
 - [CHAPITRE II : Du stagiaire.](chapitre-ii)
+- [CHAPITRE III : Brevet et licence de parachutiste professionnel.](chapitre-iii)
+- [CHAPITRE IV : Carnet de saut.](chapitre-iv)
 - [CHAPITRE V : Exécution.](chapitre-v)
