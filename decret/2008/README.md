@@ -223,6 +223,8 @@
 - [Décret n°2008-552 du 11 juin 2008 (SJSS0811752D)](decret-n2008-552-du-11-juin-2008-sjss0811752d)
 - [Décret n°2008-553 du 11 juin 2008 (BCFS0808714D)](decret-n2008-553-du-11-juin-2008-bcfs0808714d)
 - [Décret n°2008-554 du 11 juin 2008 (BCFR0804949D)](decret-n2008-554-du-11-juin-2008-bcfr0804949d)
+- [Décret n°2008-692 du 11 juillet 2008 (IOCA0806450D)](decret-n2008-692-du-11-juillet-2008-ioca0806450d)
+- [Décret n°2008-693 du 11 juillet 2008 (IOCB0813802D)](decret-n2008-693-du-11-juillet-2008-iocb0813802d)
 - [Décret n°2008-123 du 12 février 2008 (PRMX0803823D)](decret-n2008-123-du-12-fevrier-2008-prmx0803823d)
 - [Décret n°2008-127 du 12 février 2008 (DEVO0800482D)](decret-n2008-127-du-12-fevrier-2008-devo0800482d)
 - [Décret n°2008-128 du 12 février 2008 (AGRF0773916D)](decret-n2008-128-du-12-fevrier-2008-agrf0773916d)
