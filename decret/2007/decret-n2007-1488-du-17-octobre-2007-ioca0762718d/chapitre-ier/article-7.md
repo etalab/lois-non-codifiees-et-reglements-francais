@@ -8,6 +8,10 @@ Lorsque l'emploi concerné est situé dans les greffes des tribunaux administrat
 
 Lorsque l'emploi concerné est situé dans les services de l'administration centrale du ministre chargé de l'outre-mer, la nomination s'effectue sur proposition de ce ministre.
 
+Lorsque l'emploi concerné est situé dans les services de l'administration centrale du ministre chargé de l'immigration, la nomination s'effectue sur proposition de ce ministre.
+
+Lorsque l'emploi concerné est situé dans un établissement public, la nomination s'effectue sur proposition du président ou du directeur de cet établissement.
+
 Les fonctionnaires nommés dans un tel emploi sont placés en position de détachement. Ils peuvent se voir retirer leur emploi dans l'intérêt du service.
 
 Lorsqu'un fonctionnaire en fin de détachement se trouve dans la possibilité de faire liquider ses droits à pension dans le délai de deux ans maximum, une prolongation exceptionnelle de détachement sur le même emploi peut lui être accordée, sur sa demande, pour une période de deux ans maximum.
