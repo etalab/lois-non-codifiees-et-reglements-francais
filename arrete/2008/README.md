@@ -62,6 +62,7 @@
 - [Arrêté du 25 juin 2008 (JUSF0815784A)](arrete-du-25-juin-2008-jusf0815784a)
 - [Arrêté du 25 juin 2008 (SJSS0815734A)](arrete-du-25-juin-2008-sjss0815734a)
 - [Arrêté du 25 juin 2008 (SJSS0815735A)](arrete-du-25-juin-2008-sjss0815735a)
+- [Arrêté du 25 mars 2008 (DEVA0805433A)](arrete-du-25-mars-2008-deva0805433a)
 - [Arrêté du 26 janvier 2004 (INTA0400064A)](arrete-du-26-janvier-2004-inta0400064a)
 - [Arrêté du 26 juin 2008 (AGRM0816413A)](arrete-du-26-juin-2008-agrm0816413a)
 - [Arrêté du 26 juin 2008 (BCFB0808485A)](arrete-du-26-juin-2008-bcfb0808485a)
