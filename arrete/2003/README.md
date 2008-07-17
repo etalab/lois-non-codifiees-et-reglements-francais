@@ -463,7 +463,6 @@
 - [Arrêté du 15 avril 2003 (DEFD0301403A)](arrete-du-15-avril-2003-defd0301403a)
 - [Arrêté du 15 avril 2003 (DEFD0301404A)](arrete-du-15-avril-2003-defd0301404a)
 - [Arrêté du 15 avril 2003 (ECOC0200128A)](arrete-du-15-avril-2003-ecoc0200128a)
-- [Arrêté du 15 avril 2003 (SANH0321339A)](arrete-du-15-avril-2003-sanh0321339a)
 - [Arrêté du 15 décembre 2003 (EQUS0301784A)](arrete-du-15-decembre-2003-equs0301784a)
 - [Arrêté du 15 janvier 2003 (EQUH0300140A)](arrete-du-15-janvier-2003-equh0300140a)
 - [Arrêté du 15 juillet 2003 (BUDL0300102A)](arrete-du-15-juillet-2003-budl0300102a)
