@@ -16,6 +16,7 @@
 - [Article 6 octies](article-6-octies.md)
 - [Article 6 nonies](article-6-nonies.md)
 - [Article 7](article-7.md)
+- [Article 7 bis](article-7-bis.md)
 - [Article 8](article-8.md)
 - [Article 9 bis](article-9-bis.md)
 - [Article 10](article-10.md)

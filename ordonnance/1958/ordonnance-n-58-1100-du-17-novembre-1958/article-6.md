@@ -1,6 +1,6 @@
 # Article 6
 
-I. - Outre les commissions mentionnées à l'article 43 de la Constitution seules peuvent être éventuellement créées au sein de chaque assemblée parlementaire des commissions d'enquête ; les dispositions ci-dessous leur sont applicables.
+I.-Outre les commissions mentionnées à l'article 43 de la Constitution seules peuvent être éventuellement créées au sein de chaque assemblée parlementaire des commissions d'enquête ; les dispositions ci-dessous leur sont applicables.
 
 Les commissions d'enquête sont formées pour recueillir des éléments d'information soit sur des faits déterminés, soit sur la gestion des services publics ou des entreprises nationales, en vue de soumettre leurs conclusions à l'assemblée qui les a créées.
 
@@ -14,11 +14,11 @@ II. Les articles L. 135-5 et L. 132-4 du code des juridictions financières sont
 
 Les rapporteurs des commissions d'enquête exercent leur mission sur pièces et sur place. Tous les renseignements de nature à faciliter cette mission doivent leur être fournis. Ils sont habilités à se faire communiquer tous documents de service, à l'exception de ceux revêtant un caractère secret et concernant la défense nationale, les affaires étrangères, la sécurité intérieure ou extérieure de l'Etat, et sous réserve du respect du principe de la séparation de l'autorité judiciaire et des autres pouvoirs.
 
-Toute personne dont une commission d'enquête a jugé l'audition utile est tenue de déférer à la convocation qui lui est délivrée, si besoin est, par un huissier ou un agent de la force publique, à la requête du président de la commission. A l'exception des mineurs de seize ans, elle est entendue sous serment. Elle est, en outre, tenue de déposer, sous réserve des dispositions des articles 226-13 et 226-14 du code pénal.
+Toute personne dont une commission d'enquête a jugé l'audition utile est tenue de déférer à la convocation qui lui est délivrée, si besoin est, par un huissier ou un agent de la force publique, à la requête du président de la commission.A l'exception des mineurs de seize ans, elle est entendue sous serment. Elle est, en outre, tenue de déposer, sous réserve des dispositions des articles 226-13 et 226-14 du code pénal.
 
 Toute personne qui participe ou a participé aux travaux de la Commission bancaire, du Comité des établissements de crédit et des entreprises d'investissement, de l'Autorité des marchés financiers, du Conseil des marchés financiers, du Conseil de discipline de la gestion financière ou de la Commission de contrôle des assurances est déliée du secret professionnel à l'égard de la commission, lorsque celle-ci a décidé l'application du secret conformément aux dispositions du premier alinéa du IV. Dans ce cas, le rapport publié à la fin des travaux de la commission, ni aucun autre document public, ne pourra faire état des informations recueillies par levée du secret professionnel.
 
-III. La personne qui ne comparaît pas ou refuse de déposer ou de prêter serment devant une commission d'enquête est passible de deux ans d'emprisonnement et de [*taux*] 7500 euros d'amende.
+III. La personne qui ne comparaît pas ou refuse de déposer ou de prêter serment devant une commission d'enquête est passible de deux ans d'emprisonnement et de 7 500 euros d'amende.
 
 Le refus de communiquer les documents visés au deuxième alinéa du II est passible des mêmes peines.
 
@@ -32,4 +32,4 @@ IV. Les auditions auxquelles procèdent les commissions d'enquête sont publique
 
 L'assemblée intéressée peut décider, par un vote spécial et après s'être constituée en comité secret de ne pas autoriser la publication de tout ou partie du rapport d'une commission d'enquête.
 
-Sera punie des peines prévues à l'article 226-13 du code pénal toute personne qui, dans un délai de trente ans, divulguera ou publiera une information relative aux travaux non publics d'une commission d'enquête, sauf si le rapport publié à la fin des travaux de la commission a fait état de cette information.
+Sera punie des peines prévues à l'article 226-13 du code pénal toute personne qui, dans un délai de vingt-cinq ans, sous réserve des délais plus longs prévus à l'article L. 213-2 du code du patrimoine, divulguera ou publiera une information relative aux travaux non publics d'une commission d'enquête, sauf si le rapport publié à la fin des travaux de la commission a fait état de cette information.
