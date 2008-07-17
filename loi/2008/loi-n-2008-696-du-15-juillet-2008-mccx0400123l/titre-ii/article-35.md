@@ -1,0 +1,3 @@
+# Article 35
+
+Dans les conditions prévues par l'article 38 de la Constitution, le Gouvernement est autorisé à modifier et à compléter, par ordonnance, les dispositions du titre Ier du livre II du code du patrimoine, celles de la loi n° 78-753 du 17 juillet 1978 précitée, ainsi que les autres dispositions législatives portant sur l'accès aux documents administratifs ou aux archives publiques, afin d'harmoniser les règles qui leur sont applicables. L'ordonnance est prise au plus tard le dernier jour du neuvième mois suivant la promulgation de la présente loi. Un projet de loi de ratification est déposé devant le Parlement dans un délai de trois mois à compter de la publication de l'ordonnance.

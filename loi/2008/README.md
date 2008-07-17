@@ -24,4 +24,5 @@
 - [LOI n° 2008-650 du 3 juillet 2008 (SJSX0804402L)](loi-n-2008-650-du-3-juillet-2008-sjsx0804402l)
 - [LOI n° 2008-660 du 4 juillet 2008 (DEVX0809024L)](loi-n-2008-660-du-4-juillet-2008-devx0809024l)
 - [LOI n° 2008-67 du 21 janvier 2008 (MTSX0700051L)](loi-n-2008-67-du-21-janvier-2008-mtsx0700051l)
+- [LOI n° 2008-696 du 15 juillet 2008 (MCCX0400123L)](loi-n-2008-696-du-15-juillet-2008-mccx0400123l)
 - [LOI n° 2008-89 du 30 janvier 2008 (MTSX0760738L)](loi-n-2008-89-du-30-janvier-2008-mtsx0760738l)
