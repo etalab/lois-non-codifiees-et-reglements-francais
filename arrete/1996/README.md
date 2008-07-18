@@ -892,7 +892,6 @@
 - [Arrêté du 25 novembre 1996 (ECOS9650046A)](arrete-du-25-novembre-1996-ecos9650046a)
 - [Arrêté du 25 novembre 1996 (ENVE9650402A)](arrete-du-25-novembre-1996-enve9650402a)
 - [Arrêté du 25 novembre 1996 (EQUP9601210A)](arrete-du-25-novembre-1996-equp9601210a)
-- [Arrêté du 25 novembre 1996 (MAEA9620525A)](arrete-du-25-novembre-1996-maea9620525a)
 - [Arrêté du 25 novembre 1996 (MIPP9600412A)](arrete-du-25-novembre-1996-mipp9600412a)
 - [Arrêté du 25 novembre 1996 (MIPP9600413A)](arrete-du-25-novembre-1996-mipp9600413a)
 - [Arrêté du 25 novembre 1996 (MIPP9600414A)](arrete-du-25-novembre-1996-mipp9600414a)
