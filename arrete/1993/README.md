@@ -807,7 +807,6 @@
 - [Arrêté du 25 mars 1993 (ENEG9300196A)](arrete-du-25-mars-1993-eneg9300196a)
 - [Arrêté du 25 mars 1993 (MENZ9304937A)](arrete-du-25-mars-1993-menz9304937a)
 - [Arrêté du 25 mars 1993 (PRMG9370185A)](arrete-du-25-mars-1993-prmg9370185a)
-- [Arrêté du 25 mars 1993 (SANH9301117A)](arrete-du-25-mars-1993-sanh9301117a)
 - [Arrêté du 25 mars 1993 (SPSS9300963A)](arrete-du-25-mars-1993-spss9300963a)
 - [Arrêté du 25 mars 1993 (SPSS9301094A)](arrete-du-25-mars-1993-spss9301094a)
 - [Arrêté du 25 novembre 1993 (BUDF9320641A)](arrete-du-25-novembre-1993-budf9320641a)
