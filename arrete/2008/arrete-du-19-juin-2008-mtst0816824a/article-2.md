@@ -1,0 +1,3 @@
+# Article 2
+
+Les conditions d'exercice de la mission confiée à l'organisme habilité visé à l'article premier du présent arrêté, notamment celles qui ont trait à la participation effective et, le cas échéant, financière de l'organisme aux travaux de normalisation et de coordination concernant les machines pour lesquelles il est habilité, à l'évaluation de l'organisme par une tierce partie, aux modalités selon lesquelles l'organisme doit rendre compte de son activité et à la couverture des dépenses résultant de l'exécution de cette mission sont réglées par une convention entre les ministres chargés du travail et de l'agriculture et ledit organisme.

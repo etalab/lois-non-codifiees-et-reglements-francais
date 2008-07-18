@@ -1,0 +1,3 @@
+# Article 7
+
+Dans les quatre ans suivant la date de publication du présent arrêté, les titulaires du brevet d'Etat d'éducateur sportif du premier degré option « char à voile » obtiennent, sur demande auprès du directeur régional de la jeunesse, des sports et de la vie associative, le diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport spécialité « perfectionnement sportif », mention « char à voile », s'ils justifient d'une expérience d'encadrement de pilotes au cours des cinq dernières années et pendant trois saisons sportives en qualité de salarié à temps plein, attestée par le directeur technique national du char à voile.
