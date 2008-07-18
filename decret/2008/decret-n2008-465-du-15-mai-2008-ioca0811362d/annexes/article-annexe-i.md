@@ -62,12 +62,10 @@ PARTIS ET GROUPEMENTS POLITIQUES BÉNÉFICIAIRES DE LA PREMIÈRE FRACTION DE L'A
 </td>
 <td align="center">1 920 304 <br/>
 </td>
-<td align="center">359 <br/>
+<td align="center">358 <br/>
 </td>
-<td align="center">202 <br/>
-</td>
-<td align="center">2 763 146,68<br/>
-</td>
+<td align="center">203</td>
+<td align="center">2 768 568,25</td>
 </tr>
 <tr>
 <td align="center">Parti communiste français (PCF) <br/>
@@ -86,24 +84,20 @@ PARTIS ET GROUPEMENTS POLITIQUES BÉNÉFICIAIRES DE LA PREMIÈRE FRACTION DE L'A
 </td>
 <td align="center">1 095 784 <br/>
 </td>
-<td align="center">285 <br/>
+<td align="center" valign="middle">283<br/>
 </td>
-<td align="center">273 <br/>
-</td>
-<td align="center">1 813 549,15<br/>
+<td align="center">275</td>
+<td align="center">1 833 059,60<br/>
 </td>
 </tr>
 <tr>
 <td align="center">Les Verts <br/>
 </td>
-<td align="center">857 625 <br/>
+<td align="center">859 781</td>
+<td align="center">288<br/>
 </td>
-<td align="center">287 <br/>
-</td>
-<td align="center">291 <br/>
-</td>
-<td align="center">1 434 818,37<br/>
-</td>
+<td align="center">292</td>
+<td align="center">1 438 266,86</td>
 </tr>
 <tr>
 <td align="center">Ligue communiste révolutionnaire (LCR) <br/>
@@ -158,7 +152,7 @@ PARTIS ET GROUPEMENTS POLITIQUES BÉNÉFICIAIRES DE LA PREMIÈRE FRACTION DE L'A
 </td>
 <td align="center">214 389 <br/>
 </td>
-<td align="center">124 <br/>
+<td align="center" valign="middle">124 <br/>
 </td>
 <td align="center">122 <br/>
 </td>
@@ -180,38 +174,28 @@ PARTIS ET GROUPEMENTS POLITIQUES BÉNÉFICIAIRES DE LA PREMIÈRE FRACTION DE L'A
 <tr>
 <td align="center">Mouvement écologiste indépendant (MEI) <br/>
 </td>
-<td align="center">76 990 <br/>
-</td>
+<td align="center">77 253</td>
 <td align="center">72<br/>
 </td>
-<td align="center">59 <br/>
-</td>
-<td align="center">122 414,22<br/>
-</td>
+<td align="center">60</td>
+<td align="center">123 356,94</td>
 </tr>
 <tr>
 <td align="center">Solidarité écologie gauche alternative (SEGA) <br/>
 </td>
 <td align="center">73 220 <br/>
 </td>
-<td align="center">54 <br/>
-</td>
-<td align="center">30 <br/>
-</td>
-<td align="center">104 998,34<br/>
-</td>
+<td align="center">52</td>
+<td align="center">32</td>
+<td align="center">107 903,07</td>
 </tr>
 <tr>
 <td align="center">Sous-total I <br/>
 </td>
-<td align="center">23 691 072<br/>
-</td>
-<td align="center">3 067<br/>
-</td>
-<td align="center">2 465<br/>
-</td>
-<td align="center">34 323 317,76<br/>
-</td>
+<td align="center">23 693 491</td>
+<td align="center">3 063</td>
+<td align="center">2 472</td>
+<td align="center">34 348 679,98</td>
 </tr>
 <tr>
 <td align="center">
@@ -655,7 +639,7 @@ PARTIS ET GROUPEMENTS POLITIQUES BÉNÉFICIAIRES DE LA PREMIÈRE FRACTION DE L'A
 </td>
 <td align="center">296 899<br/>
 </td>
-<td align="center">45<br/>
+<td align="center" valign="middle">45<br/>
 </td>
 <td align="center">18<br/>
 </td>
@@ -665,13 +649,10 @@ PARTIS ET GROUPEMENTS POLITIQUES BÉNÉFICIAIRES DE LA PREMIÈRE FRACTION DE L'A
 <tr>
 <td align="center">Total <br/>
 </td>
-<td align="center">23 987 971<br/>
-</td>
-<td align="center">3 112<br/>
-</td>
-<td align="center">2 483<br/>
-</td>
-<td align="center">34 686 251,33</td>
+<td align="center">23 990 615</td>
+<td align="center">3 109</td>
+<td align="center">2 489</td>
+<td align="center">34 711 573,53</td>
 </tr>
 </tbody>
 </table>
