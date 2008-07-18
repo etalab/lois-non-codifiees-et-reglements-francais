@@ -132,6 +132,7 @@
 - [Décret n°2008-240 du 6 mars 2008 (MTSS0800423D)](decret-n2008-240-du-6-mars-2008-mtss0800423d)
 - [Décret n°2008-539 du 6 juin 2008 (BCFF0810613D)](decret-n2008-539-du-6-juin-2008-bcff0810613d)
 - [Décret n°2008-540 du 6 juin 2008 (ECEI0770146D)](decret-n2008-540-du-6-juin-2008-ecei0770146d)
+- [Décret n°77-779 du 6 juillet 1977](decret-n77-779-du-6-juillet-1977)
 - [Décret n°2008-430 du 6 mai 2008 (PRMX0811436D)](decret-n2008-430-du-6-mai-2008-prmx0811436d)
 - [Décret n°2008-433 du 6 mai 2008 (SJSP0807006D)](decret-n2008-433-du-6-mai-2008-sjsp0807006d)
 - [Décret n°2008-434 du 6 mai 2008 (SJSP0806956D)](decret-n2008-434-du-6-mai-2008-sjsp0806956d)
