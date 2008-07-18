@@ -1,11 +1,5 @@
 # Article 4
 
-Sont habilités à recevoir les informations mentionnées à l'article 2, au sens de la loi du 6 janvier 1978 susvisée, pour les affaires qui les concernent et seulement dans la mesure compatible avec les règles du secret de l'instruction :
+En dehors de l'O.F.P.R.A. et de la Cour nationale du droit d'asile, peuvent seuls être destinataires dans la limite de leurs attributions des informations nominatives contenues dans le fichier :
 
-1° Les personnes ayant qualité dans la cause et leurs avocats ;
-
-2° Le Conseil d'Etat ;
-
-3° Les représentants de l'Etat (ministère de l'intérieur et de la décentralisation, commissaire de la République).
-
-Les rapporteurs près la commission des recours et ceux des membres du secrétariat de la commission qui sont désignés par le président sont également habilités à recevoir ces informations.
+la préfecture du lieu de résidence du requérant pour ce qui est des décisions de reconnaissance du statut ; la préfecture du lieu de résidence du requérant, le service social d'aide aux émigrants, les Assedic, les caisses d'allocations familiales, la délégation pour la France du haut-commissariat des Nations Unies pour les réfugiés, pour ce qui est des décisions de rejet ou de retrait.

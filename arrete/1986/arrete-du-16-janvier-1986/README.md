@@ -1,4 +1,4 @@
-# Arrêté du 16 janvier 1986 portant création du système informatique de la commission des recours des réfugiés
+# Arrêté du 16 janvier 1986 relatif à une opération d'automatisation des formalités administratives qui découlent du dépôt d'une demande de statut auprès de l'office français de protection des réfugiés et apatrides.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

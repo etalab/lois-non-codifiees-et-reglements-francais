@@ -1,11 +1,13 @@
 # Article 2
 
-Le système informatique prévu par l'article 1er ci-dessus comporte un fichier informatique. Les catégories d'informations nominatives qui y sont traitées comprennent :
+Un fichier des demandeurs du statut de réfugié ou d'apatride est constitué à l'O.F.P.R.A..
 
-a) L'identité des parties dans la cause ;
+Ce fichier comporte les informations suivantes :
 
-b) Les nom et adresse de leur avocat ;
+Identité du requérant : nom, prénoms, sexe, date et lieu de naissance, situation de famille, nationalité, adresse ;
 
-c) Le nom du rapporteur de chaque affaire ;
+Situation administrative : nature des documents d'identité versés au dossier, date de dépôt de la demande ;
 
-d) L'analyse des conclusions dont est saisie la commission dans chaque affaire et le suivi de la procédure (caractéristiques générales de l'affaire ; déroulement de l'instance ; dates des séances de jugement ; sens des décisions ou des avis ; statistiques).
+Classification du dossier : identifiant, vitesse d'examen ;
+
+Décision sur la demande : nature, date.

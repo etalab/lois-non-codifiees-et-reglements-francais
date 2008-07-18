@@ -1,0 +1,3 @@
+# Article 1
+
+Il est créé, au secrétariat général de la Cour nationale du droit d'asile, sous le nom de Sagrer (système automatisé de gestion des recours des réfugiés), un système de collecte et de traitement automatisé des informations relatives aux recours et requêtes, dont est saisie la commission, et qui permettent de faciliter les opérations d'enregistrement et les procédures d'instruction des affaires, la notification des décisions ainsi que la gestion des dossiers.
