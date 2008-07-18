@@ -6,7 +6,7 @@ Le conseil d'administration comprend vingt-quatre membres :
 
 a) Trois membres de droit :
 
--le        directeur de la sécurité civile ou son représentant ;
+-le directeur de la sécurité civile ou son représentant ;
 
 -le directeur de l'évaluation de la performance et des affaires financières et immobilières ou son représentant ;
 
@@ -18,11 +18,11 @@ c) Quatre membres désignés respectivement par le ministre chargé de la sécur
 
 2° Huit représentants des collectivités territoriales et de leurs établissements publics :
 
-d) Le président de l'Association des départements de France ou son représentant ;
+d) Le président de l'Assemblée des départements de France ou son représentant ;
 
 e) Le président de l'Association des maires de France ou son représentant ;
 
-f) Le président de l'Association des présidents des services d'incendie et de secours ou son représentant ;
+f) Un membre de l'Assemblée des départements de France ou son suppléant désignés par le président de cette assemblée ;
 
 g) Deux membres du conseil d'administration du service départemental d'incendie et de secours élus par les présidents de ces conseils ;
 
@@ -32,7 +32,7 @@ h) Trois membres du conseil d'administration du Centre national de la fonction p
 
 i) Le président de la Fédération nationale des sapeurs-pompiers de France ou son représentant ;
 
-j) Le président de l'Association nationale des directeurs départementaux de services d'incendie et de secours ou son représentant ;
+j) Le président de l'Association nationale des directeurs et directeurs adjoints des services d'incendie et de secours ou son représentant ;
 
 k) Deux officiers de sapeurs-pompiers professionnels choisis par les représentants élus du personnel au sein des commissions administratives paritaires nationales des officiers :
 
@@ -46,4 +46,4 @@ m) Deux représentants élus des autres personnels de l'école.
 
 Les élèves en formation initiale d'officiers de sapeurs-pompiers professionnels désignent, au sein de chacune des promotions, un représentant qui siège au conseil d'administration avec voix consultative.
 
-Le directeur de l'école, les directeurs de département, le secrétaire général, le membre du corps du contrôle général économique et financier ou son représentant, l'agent comptable ainsi que toute personne dont la présence est jugée utile par le président assistent aux séances avec voix consultative.
+Le directeur de l'école, le directeur adjoint, les directeurs départementaux, le secrétaire général, l'autorité chargée du contrôle financier, l'agent comptable ainsi que toute personne dont la présence est jugée utile par le président assistent aux séances avec voix consultative.

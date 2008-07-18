@@ -24,4 +24,4 @@ Outre celles qui lui ont été déléguées par le conseil d'administration, le 
 
 9° Il fait des propositions au ministre chargé de la sécurité civile en matière de formation des sapeurs-pompiers.
 
-Il peut déléguer sa signature aux directeurs de département et au secrétaire général.
+Il peut déléguer sa signature au directeur adjoint, aux directeurs de département et au secrétaire général.
