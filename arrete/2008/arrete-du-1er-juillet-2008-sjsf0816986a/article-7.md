@@ -1,0 +1,3 @@
+# Article 7
+
+Les candidats titulaires du brevet d'Etat d'éducateur sportif du premier degré, option « canoë-kayak et disciplines associées », et titulaires de la qualification complémentaire facultative « canoë-kayak en eaux vives » ou « raft en eaux vives » ou « nage en eaux vives » obtiennent de droit l'unité capitalisable trois (UC3) « être capable de conduire une démarche de perfectionnement en canoë-kayak et disciplines associées en eau vive » du diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport spécialité « perfectionnement sportif », mention « canoë-kayak et disciplines associées en eau vive ».

@@ -1,0 +1,3 @@
+# Article 11
+
+Indépendamment des obligations qui leur sont imposées par le code des douanes, et notamment par son article 65 en matière de communication de documents, toutes les personnes physiques ou morales intéressées à des opérations relatives aux produits énergétiques utilisés au cas prévu au a du 3 de l'article 265 bis du code des douanes sont tenues, à première réquisition, de laisser les fonctionnaires des douanes visiter leurs installations, recenser leurs stocks de produits énergétiques et prélever les échantillons nécessaires à des analyses et, d'une manière générale, de faciliter l'accomplissement de leurs contrôles en mettant à leur disposition, gratuitement, le personnel et le matériel nécessaires.

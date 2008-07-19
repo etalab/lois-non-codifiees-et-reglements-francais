@@ -1,0 +1,5 @@
+# Article 7
+
+Les titulaires du brevet d'Etat d'éducateur sportif du deuxième degré, option « canoë-kayak et disciplines associées », et de la qualification complémentaire facultative « canoë-kayak mer » ainsi que de la qualification complémentaire facultative « canoë-kayak en eau vive » du brevet d'Etat d'éducateur sportif du premier degré, option « canoë-kayak et disciplines associées », obtiennent de droit le diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du sport spécialité « performance sportive », mention « canoë-kayak et disciplines associées en eau vive et en mer ».
+
+Les titulaires du brevet d'Etat d'éducateur sportif du deuxième degré,  option  « canoë-kayak  et  disciplines  associées », obtiennent l'unité capitalisable un (UC 1) « être capable de conduire la stratégie d'une organisation de secteur » et l'unité capitalisable deux (UC 2) « être capable de gérer les ressources humaines et financières d'une organisation de secteur » du diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du sport spécialité « performance sportive », mention « canoë-kayak et disciplines associées eau vive et en mer ».

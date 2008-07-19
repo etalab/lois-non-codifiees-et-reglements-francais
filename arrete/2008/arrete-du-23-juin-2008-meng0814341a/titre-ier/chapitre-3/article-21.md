@@ -1,0 +1,7 @@
+# Article 21
+
+Chaque organisation syndicale dispose d'un délai de quinze jours à compter de la proclamation des résultats pour faire connaître le nom des représentants, titulaires et suppléants, appelés à occuper les sièges qui lui ont été attribués. Ces représentants sont désignés parmi les agents non titulaires remplissant, à la date du scrutin, les conditions posées à l'article 11 du présent arrêté.
+
+Toutefois, si, dans un délai de huit jours francs suivant la date limite définie à l'alinéa précédent, un ou plusieurs candidats proposés par l'organisation syndicale sont reconnus inéligibles, l'autorité auprès de laquelle la commission est placée informe sans délai l'agent, ou son suppléant, habilité à représenter l'organisation syndicale. L'organisation syndicale peut alors procéder, dans un délai de huit jours à compter de l'expiration du délai de huit jours francs susmentionné, aux rectifications nécessaires.
+
+A défaut de rectification et de désignation des candidats par les organisations syndicales dans les délais prévus à l'alinéa précédent, les sièges laissés vacants sont attribués selon la procédure du tirage au sort parmi les agents non titulaires de ce collège éligibles à la date du scrutin. Si les agents non titulaires ainsi désignés n'acceptent pas leur nomination, les sièges vacants des représentants du personnel sont attribués à des représentants de l'administration.
