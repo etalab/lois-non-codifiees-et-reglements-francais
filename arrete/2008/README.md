@@ -73,6 +73,7 @@
 - [Arrêté du 22 mai 2006 (BUDL0600073A)](arrete-du-22-mai-2006-budl0600073a)
 - [Arrêté du 22 mai 2008 (DEVS0814045A)](arrete-du-22-mai-2008-devs0814045a)
 - [Arrêté du 23 juin 2008 (DEVA0815016A)](arrete-du-23-juin-2008-deva0815016a)
+- [Arrêté du 23 juin 2008 (ECET0801470A)](arrete-du-23-juin-2008-ecet0801470a)
 - [Arrêté du 23 mai 2008 (DEVN0811968A)](arrete-du-23-mai-2008-devn0811968a)
 - [Arrêté du 24 juin 2008 (BCFB0809295A)](arrete-du-24-juin-2008-bcfb0809295a)
 - [Arrêté du 24 juin 2008 (BCFB0809296A)](arrete-du-24-juin-2008-bcfb0809296a)
