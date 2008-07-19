@@ -2,104 +2,96 @@
 
 Les attributions individuelles d'allocation complémentaire de fonctions sont déterminées, conformément aux dispositions de l'article 3 du décret du 2 mai 2002 susvisé, à partir :
 
-- d'une valeur du point fixée à 63 euros au 1er janvier 2003 ;
+-d'une valeur du point fixée à 63 euros au 1er janvier 2003 ;
 
-- et de taux de référence exprimés en points définis respectivement par catégorie et critère dans les conditions suivantes :
+-et de taux de référence exprimés en points définis respectivement par catégorie et critère dans les conditions suivantes :
 
 <table>
 <tbody>
 <tr>
 <td>
-<pre> </pre>
+<pre/>
 </td>
 <td>
-<p align="center">Responsabilité</p>
+<p align="center">Responsabilité </p>
 </td>
 <td>
-<p align="center">Expertise</p>
+<p align="center">Expertise </p>
 </td>
 <td>
-<p align="center">Sujétion</p>
+<p align="center">Sujétion </p>
 </td>
 <td>
-<p align="center">Contrôle</p>
+<p align="center">Contrôle </p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td>
-<p>Ingénieurs des mines (1re classe, 2e classe et ingénieurs élèves)</p>
+<p>Ingénieurs des mines et ingénieurs-élèves </p>
 </td>
 <td>
-<p align="center">58</p>
+<p align="center">58 </p>
 </td>
 <td>
-<p align="center">46</p>
+<p align="center">46 </p>
 </td>
 <td>
-<p align="center">81</p>
+<p align="center">81 </p>
 </td>
 <td>
-<p align="center">46</p>
+<p align="center">46 </p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td>
-<p>Ingénieur en chef des mines</p>
+<p>Ingénieur en chef des mines </p>
 </td>
 <td>
-<p align="center">90</p>
+<p align="center">90 </p>
 </td>
 <td>
-<p align="center">60</p>
+<p align="center">60 </p>
 </td>
 <td>
-<p align="center">90</p>
+<p align="center">90 </p>
 </td>
 <td>
-<p align="center">60</p>
+<p align="center">60 </p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td>
-<p>Ingénieur général des mines</p>
+<p>Ingénieur général des mines </p>
 </td>
 <td>
-<p align="center">133</p>
+<p align="center">133 </p>
 </td>
 <td>
-<p align="center">95</p>
+<p align="center">95 </p>
 </td>
 <td>
-<p align="center">76</p>
+<p align="center">76 </p>
 </td>
 <td>
-<p align="center">76</p>
+<p align="center">76 </p>
 </td>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td rowspan="2">
-<p>Président de section et vice-président du CGM</p>
+<p>Emplois de direction du Conseil général des mines régis par le décret n° 2007-764 du 9 mai 2007 relatif aux conditions de nomination aux emplois de direction du Conseil général des mines </p>
 </td>
 <td rowspan="2">
-<p align="center">154</p>
+<p align="center">154 </p>
 </td>
 <td rowspan="2">
-<p align="center">110</p>
+<p align="center">110 </p>
 </td>
 <td rowspan="2">
-<p align="center">88</p>
+<p align="center">88 </p>
 </td>
 <td rowspan="2">
 <p align="center">88</p>
