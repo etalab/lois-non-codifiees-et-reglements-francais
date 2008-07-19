@@ -1143,7 +1143,6 @@
 - [Arrêté du 28 décembre 2006 (AGRP0602549A)](arrete-du-28-decembre-2006-agrp0602549a)
 - [Arrêté du 28 décembre 2006 (AGRP0602655A)](arrete-du-28-decembre-2006-agrp0602655a)
 - [Arrêté du 28 décembre 2006 (AGRP0602659A)](arrete-du-28-decembre-2006-agrp0602659a)
-- [Arrêté du 28 décembre 2006 (EQUT0602559A)](arrete-du-28-decembre-2006-equt0602559a)
 - [Arrêté du 28 décembre 2007 (ECEL0773697A)](arrete-du-28-decembre-2007-ecel0773697a)
 - [Arrêté du 28 décembre 2007 (ECET0769263A)](arrete-du-28-decembre-2007-ecet0769263a)
 - [Arrêté du 28 décembre 2007 (PRMG0774534A)](arrete-du-28-decembre-2007-prmg0774534a)
