@@ -84,26 +84,6 @@
 </tr>
 <tr>
 <td width="95">
-<p align="center">Angola.</p>
-</td>
-<td width="57">
-<p align="center">TE2</p>
-</td>
-<td width="57">
-<p align="center">2</p>
-</td>
-<td width="246">
-<p>Conseiller du vice-ministre de la géologie et des mines de la République d'Angola.</p>
-</td>
-<td width="104">
-<p align="center">14</p>
-</td>
-<td width="104">
-<p align="center">463</p>
-</td>
-</tr>
-<tr>
-<td width="95">
 <p align="center">Arabie saoudite.</p>
 </td>
 <td width="57">

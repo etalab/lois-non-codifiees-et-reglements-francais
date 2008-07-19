@@ -273,7 +273,7 @@
 <p align="center">8</p>
 </td>
 <td width="170">
-<p>Chef du projet "Appui au renforcement de la sécurité intérieure au Bénin"  (PARSIB) auprès de la direction générale de la gendarmerie nationale.</p>
+<p>Chef du projet "Appui au renforcement de la sécurité intérieure au Bénin" (PARSIB) auprès de la direction générale de la gendarmerie nationale.</p>
 </td>
 <td width="114">
 <p align="center">14</p>
@@ -667,26 +667,6 @@
 <p align="center">Gabon</p>
 </td>
 <td width="76">
-<p align="center">RST1</p>
-</td>
-<td width="76">
-<p align="center">4004</p>
-</td>
-<td width="170">
-<p>Chargé de la recherche immuno-parasitologie au CIRMF.</p>
-</td>
-<td width="114">
-<p align="center">17</p>
-</td>
-<td width="113">
-<p align="center">710</p>
-</td>
-</tr>
-<tr>
-<td width="114">
-<p align="center">Gabon</p>
-</td>
-<td width="76">
 <p align="center">TE3A</p>
 </td>
 <td width="76">
@@ -757,26 +737,6 @@
 </td>
 <td width="114">
 <p align="center">14</p>
-</td>
-<td width="113">
-<p align="center">700</p>
-</td>
-</tr>
-<tr>
-<td width="114">
-<p align="center">Haïti</p>
-</td>
-<td width="76">
-<p align="center">AT</p>
-</td>
-<td width="76">
-<p align="center">5</p>
-</td>
-<td width="170">
-<p>Conseiller technique auprès du ministre de la justice et de la sécurité publique.</p>
-</td>
-<td width="114">
-<p align="center">12</p>
 </td>
 <td width="113">
 <p align="center">700</p>

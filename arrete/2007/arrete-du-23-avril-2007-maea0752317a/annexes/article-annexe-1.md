@@ -790,26 +790,6 @@
 <p align="center">E</p>
 </td>
 <td width="76">
-<p align="center">5</p>
-</td>
-<td width="246">
-<p>Responsable du bureau de l'ambassade de France auprès de l'UNRWA, chargé d'une composante de programme dans les domaines éducatif et linguistique.</p>
-</td>
-<td width="76">
-<p align="center">17</p>
-</td>
-<td width="75">
-<p align="center">705</p>
-</td>
-</tr>
-<tr>
-<td width="114">
-<p align="center">Liban.</p>
-</td>
-<td width="76">
-<p align="center">E</p>
-</td>
-<td width="76">
 <p align="center">12</p>
 </td>
 <td width="246">
