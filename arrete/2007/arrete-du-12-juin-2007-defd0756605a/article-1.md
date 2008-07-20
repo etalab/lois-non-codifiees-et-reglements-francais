@@ -2,16 +2,22 @@
 
 Pour l'exercice des attributions qui lui sont dévolues par le décret du 21 mai 2005 susvisé, le chef d'état-major des armées dispose :
 
-- de l'état-major des armées dont l'organisation générale et les attributions sont fixées au titre Ier ;
+-de l'état-major des armées, dont l'organisation générale et les attributions sont fixées au titre Ier ;
 
-- d'autorités et d'organismes interarmées dont la liste est fixée au titre II.
+-d'autorités et d'organismes interarmées, dont la liste est fixée au titre II.
 
-Le chef d'état-major des armées dispose en outre :
+Le chef d'état-major des armées dispose également d'une division affaires générales, placée sous l'autorité d'un officier général, qui comprend :
 
-- d'un cabinet ;
+-le cabinet du chef d'état-major des armées ;
 
-- d'une cellule information et communication ;
+-une cellule d'information et de communication ;
 
-- d'un chancelier,
+-une cellule affaires réservées ;
 
-ainsi que d'un conseiller diplomatique, d'un conseiller santé et de conseillers dont la désignation est liée à des situations particulières. Le conseiller santé exerce également les fonctions d'expert du domaine santé au profit de l'état-major des armées.
+-un chancelier ;
+
+-un conseiller santé, qui exerce également les fonctions d'expert du domaine santé au profit de l'état-major des armées ;
+
+-des conseillers dont la désignation est liée à des situations particulières.
+
+Il dispose, en outre, d'un conseiller diplomatique.

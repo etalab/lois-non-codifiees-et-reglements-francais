@@ -8,9 +8,11 @@ Chaque sous-chef d'état-major peut se voir confier des attributions particuliè
 
 Sur le plan organique, chacune des structures de l'état-major relève du major général ou de l'un des quatre sous-chefs dans les conditions suivantes :
 
-1° Division relevant du major général des armées :
+1° Divisions relevant du major général des armées :
 
-- la division études, stratégie militaire générale et pilotage.
+- la division " études synthèse management " général ;
+
+- la division pilotage.
 
 2° Centre, divisions et bureau relevant du sous-chef d'état-major opérations :
 
@@ -36,7 +38,9 @@ Sur le plan organique, chacune des structures de l'état-major relève du major 
 
 - la division espace-programmes interarmées ;
 
-- la division capacités et équipements.
+- la division capacités ;
+
+- la division équipements.
 
 5° Divisions et bureaux relevant du sous-chef d'état-major organisation :
 

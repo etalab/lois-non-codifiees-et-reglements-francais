@@ -1,0 +1,7 @@
+# Article 19-1
+
+Le chef de division " capacités " assiste le sous-chef d'état-major plans dans sa mission de responsable français de la planification à l'Agence européenne de défense. Dans le cadre du pilotage des activités de l'agence mis en place par la délégation aux affaires stratégiques, il conduit, en association avec la délégation générale pour l'armement, les travaux capacitaires en lien avec l'agence et il est l'interlocuteur du directeur de la branche capacités de celle-ci. Il a, de même, la charge des aspects capacitaires pour les différentes instances de coopérations en matière d'armement, bilatérales, multilatérales, en association étroite avec la délégation générale pour l'armement, et s'assure de la coordination avec l'action des autres services du ministère.
+
+Pour assurer ces missions, la division est composée des officiers de cohérence opérationnelle réunis en collège, organe de réflexion et de proposition ; il veille à la cohérence globale et à l'interopérabilité des systèmes d'armes pour obtenir, au sein et entre les systèmes de forces, la meilleure efficacité possible.
+
+Se fondant sur les concepts élaborés par le centre interarmées de concept, de doctrines et d'expérimentations et en association avec les ingénieurs du service d'architecture des systèmes de forces de la direction des systèmes de forces et des stratégies industrielle, technologique et de coopération de la délégation générale pour l'armement, il élabore, en matière de capacités militaires, les solutions optimales qui prennent ensuite la forme d'opérations d'armement.
