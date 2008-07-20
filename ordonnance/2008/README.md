@@ -6,6 +6,7 @@
 - [Ordonnance n° 2008-698 du 11 juillet 2008 (ECET0807614R)](ordonnance-n-2008-698-du-11-juillet-2008-ecet0807614r)
 - [Ordonnance n° 2007-329 du 12 mars 2007 (SOCX0700017R)](ordonnance-n-2007-329-du-12-mars-2007-socx0700017r)
 - [Ordonnance n° 2008-556 du 13 juin 2008 (ECET0807926R)](ordonnance-n-2008-556-du-13-juin-2008-ecet0807926r)
+- [Ordonnance n° 2008-717 du 17 juillet 2008 (SJSX0814719R)](ordonnance-n-2008-717-du-17-juillet-2008-sjsx0814719r)
 - [Ordonnance n° 2007-1801 du 21 décembre 2007 (IOCX0771377R)](ordonnance-n-2007-1801-du-21-decembre-2007-iocx0771377r)
 - [Ordonnance n° 2008-156 du 22 février 2008 (IOCX0800997R)](ordonnance-n-2008-156-du-22-fevrier-2008-iocx0800997r)
 - [Ordonnance n° 2008-480 du 22 mai 2008 (SJSX0808051R)](ordonnance-n-2008-480-du-22-mai-2008-sjsx0808051r)
