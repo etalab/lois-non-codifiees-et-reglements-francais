@@ -10,17 +10,23 @@ Dispositions générales
 
 Paragraphe
 
-<div/>
+Vous pouvez consulter le tableau dans le JO
+
+n° 61 du 13/03/2005 texte numéro 13
 
 Sous-partie B
 
 Normes médicales de classe 1
 
-<div/>
+Vous pouvez consulter le tableau dans le JO
+
+n° 61 du 13/03/2005 texte numéro 13
 
 APPENDICES À LA SOUS-PARTIE B
 
-<div/>
+Vous pouvez consulter le tableau dans le JO
+
+n° 61 du 13/03/2005 texte numéro 13
 
 FCL 3.001
 
@@ -164,7 +170,7 @@ Certificats médicaux
 
 Le certificat médical contient les informations suivantes :
 
-« CERTIFICAT FCL 3 »
+"CERTIFICAT FCL 3"
 
 (1) Numéro de référence du navigant (attribué par l'Autorité).   (2) Classe 1.
 
@@ -230,11 +236,13 @@ Durée de validité des certificats médicaux
 
 Un certificat médical est valide à compter de la date de l'examen médical d'admission et :
 
-(1) Jusqu'à la fin du douzième mois qui suit le mois au cours duquel il a été établi, et pour les détenteurs ayant atteint l'âge de 40 ans, jusqu'à la fin du sixième mois qui suit le mois au cours duquel il a été établi, pour les pilotes de ligne et les pilotes professionnels.
+(1) Pour les pilotes de ligne et les pilotes professionnels qui effectuent des vols en exploitation monopilote, jusqu'à la fin du douzième mois qui suit le mois au cours duquel il a été établi, et pour les détenteurs ayant atteint l'âge de 40 ans, jusqu'à la fin du sixième mois qui suit le mois au cours duquel il a été établi.
 
-Jusqu'à la fin du douzième mois qui suit le mois au cours duquel il a été établi, quel que soit l'âge, pour les mécaniciens navigants, les ingénieurs navigants, les navigateurs.
+Pour les pilotes de ligne et les pilotes professionnels qui effectuent des vols en exploitation multipilote, jusqu'à la fin du douzième mois qui suit le mois au cours duquel il a été établi, et pour les détenteurs ayant atteint l'âge de 60 ans, jusqu'à la fin du sixième mois qui suit le mois au cours duquel il a été établi.
 
-Jusqu'à la fin du douzième mois qui suit le mois au cours duquel il a été établi, et pour les détenteurs ayant atteint l'âge de 45 ans, jusqu'à la fin du sixième mois qui suit le mois au cours duquel il a été établi, pour les parachutistes professionnels.
+Pour les mécaniciens navigants, les ingénieurs navigants, les navigateurs, jusqu'à la fin du douzième mois qui suit le mois au cours duquel il a été établi quel que soit l'âge.
+
+Pour les parachutistes professionnels, jusqu'à la fin du douzième mois qui suit le mois au cours duquel il a été établi, et pour les détenteurs ayant atteint l'âge de 45 ans, jusqu'à la fin du sixième mois qui suit le mois au cours duquel il a été établi.
 
 (2) (Réservé.)
 
@@ -298,7 +306,7 @@ Le candidat indique également dans cette déclaration s'il a déjà subi un tel
 
 (b) Fausse déclaration du candidat :
 
-Si le candidat délivre intentionnellement de fausses informations, son certificat médical est privé d'effet dès sa délivrance. Tout CEMA, s'il a connaissance de tels agissements, en informe immédiatement le BMPN. Cette information est transmise, à leur demande, aux autorités médicales des Etats cités à l'article 3 de l'arrêté « FCL 3 ».
+Si le candidat délivre intentionnellement de fausses informations, son certificat médical est privé d'effet dès sa délivrance. Tout CEMA, s'il a connaissance de tels agissements, en informe immédiatement le BMPN. Cette information est transmise, à leur demande, aux autorités médicales des Etats cités à l'article 3 de l'arrêté "FCL 3".
 
 FCL 3.125
 
@@ -348,7 +356,7 @@ Durée de validité des certificats médicaux de classe 1
 
 - à partir de l'âge de 40 ans ou l'âge de 45 ans pour les parachutistes professionnels :
 
-(iii) L'examen médical précédent a eu lieu dans les six derniers mois ;
+(iii) L'examen médical précédent a eu lieu dans les 12 derniers mois pour les pilotes de ligne et les pilotes professionnels qui effectuent des vols en exploitation multipilote ou dans les six derniers mois pour les pilotes de ligne et les pilotes professionnels qui effectuent des vols en exploitation monopilote ainsi que pour les pilotes de ligne et les pilotes professionnels qui effectuent des vols en exploitation multipilote ayant atteint l'âge de 60 ans ;
 
 (iv) L'examen approfondi précédent a eu lieu dans les 24 derniers mois ;
 
@@ -626,7 +634,7 @@ Conditions d'aptitude neurologique
 
 (5) Traumatisme de la moelle épinière ou d'un nerf.
 
-(c) Un électroencéphalogramme est exigé lors de l'examen d'admission (voir appendice 11 de la sous-partie B) et lorsque les antécédents du candidat ou des données cliniques le justifient.
+(c) Lorsque les antécédents du candidat ou des données cliniques le justifient, un électroencéphalogramme est exigé (voir appendice 11 de la sous-partie B)
 
 FCL 3.215
 
@@ -787,6 +795,8 @@ doit être déclaré inapte. Si les réserves de fusion sont suffisantes pour em
 (2) Les corrections optiques portées pour les activités aéronautiques doivent permettre au détenteur de la licence de satisfaire à toutes les exigences visuelles, quelle que soit la distance. Une seule paire de lunettes doit suffire à satisfaire l'ensemble de ces exigences.
 
 (3) Pendant l'exercice des privilèges de sa licence, le candidat devra disposer, immédiatement à sa portée, d'une paire de lunettes de secours de même formule.
+
+(4) Lorsque la correction visuelle est obtenue par des lentilles de contact, celles-ci doivent être monofocales, non teintées et bien tolérées.
 
 (h) Chirurgie oculaire :
 
@@ -1044,7 +1054,7 @@ La décision d'aptitude sera assortie d'une limitation multipilote OML.
 
 (c) Un enregistrement ECG ambulatoire de 24 heures ne montrant pas de trouble de la conduction, ni de trouble du rythme polymorphes ou soutenus, ni de signe d'ischémie myocardique.
 
-(d) Il peut s'y ajouter un « tilt test » pratiqué selon un protocole standardisé. Il ne doit pas montrer de signe d'instabilité vaso-motrice. L'examen et l'interprétation de ce test doivent être réalisés par un cardiologue reconnu par le CMAC.
+(d) Il peut s'y ajouter un "tilt test" pratiqué selon un protocole standardisé. Il ne doit pas montrer de signe d'instabilité vaso-motrice. L'examen et l'interprétation de ce test doivent être réalisés par un cardiologue reconnu par le CMAC.
 
 Le candidat qui remplit les conditions ci-dessus peut être jugé apte, avec une limitation multipilote OML, et sous réserve qu'au moins 6 mois sans rechute se soient écoulés depuis le dernier incident. Un contrôle neurologique est normalement indiqué. La levée de la limitation OML n'est possible qu'après 5 ans sans nouvel incident de ce type. Des périodes plus courtes ou plus longues peuvent être acceptées par le CMAC, selon les circonstances propres à chaque cas particulier. Le candidat qui présente des pertes de connaissance sans prodrome doit être déclaré inapte.
 
@@ -1166,7 +1176,7 @@ Maladies transmissibles et autres infections
 
 1. La positivité au VIH est cause d'inaptitude.
 
-2. Le renouvellement du certificat d'aptitude des sujets VIH-positifs avec restriction au vol à plusieurs pilotes (classe 1 « OML ») ou au vol avec pilote de sécurité (classe 2 « OSL ») peut être envisagée par le CMAC, sous réserve de contrôles fréquents. La survenue d'un SIDA ou du complexe apparenté au SIDA est cause d'inaptitude.
+2. Le renouvellement du certificat d'aptitude des sujets VIH-positifs avec restriction au vol à plusieurs pilotes (classe 1 "OML") ou au vol avec pilote de sécurité (classe 2 "OSL") peut être envisagée par le CMAC, sous réserve de contrôles fréquents. La survenue d'un SIDA ou du complexe apparenté au SIDA est cause d'inaptitude.
 
 3. La syphilis aiguë est cause d'inaptitude. Un certificat peut être accordé par le CMAC aux sujets correctement traités et guéris de toute atteinte primaire ou secondaire.
 
@@ -1438,6 +1448,8 @@ Tableau des exigences périodiques minimales (1)
 
 Voir FCL 3.095 (d)
 
-<div/>
+Vous pouvez consulter le tableau dans le JO
+
+n° 61 du 13/03/2005 texte numéro 13
 
 (1) Note : tout examen complémentaire peut être exigé n'importe quand s'il est indiqué par l'examen clinique.
