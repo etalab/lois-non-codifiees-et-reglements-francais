@@ -380,6 +380,8 @@
 - [Décret n°2008-581 du 18 juin 2008 (IOCE0801575D)](decret-n2008-581-du-18-juin-2008-ioce0801575d)
 - [Décret n°2008-715 du 18 juillet 2008 (MTST0811806D)](decret-n2008-715-du-18-juillet-2008-mtst0811806d)
 - [Décret n°2008-716 du 18 juillet 2008 (MTST0812513D)](decret-n2008-716-du-18-juillet-2008-mtst0812513d)
+- [Décret n°2008-718 du 18 juillet 2008 (DEFH0809794D)](decret-n2008-718-du-18-juillet-2008-defh0809794d)
+- [Décret n°2008-719 du 18 juillet 2008 (DEFH0809795D)](decret-n2008-719-du-18-juillet-2008-defh0809795d)
 - [Décret n°2007-1120 du 19 juillet 2007 (AGRF0759610D)](decret-n2007-1120-du-19-juillet-2007-agrf0759610d)
 - [Décret n°2007-1123 du 19 juillet 2007 (AGRF0759669D)](decret-n2007-1123-du-19-juillet-2007-agrf0759669d)
 - [Décret n°2007-1791 du 19 décembre 2007 (AGRG0754885D)](decret-n2007-1791-du-19-decembre-2007-agrg0754885d)
