@@ -1,0 +1,3 @@
+# Article 6
+
+Les candidats obtiennent sur demande auprès du directeur régional de la jeunesse, des sports et de la vie associative l'unité capitalisable trois (UC 3) « être capable de diriger un système dans la discipline » et l'unité capitalisable quatre (UC 4) « être capable d'encadrer le skateboard en sécurité » du diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du sport spécialité « performance sportive », mention « skateboard », s'ils justifient, dans la discipline « skateboard », d'une expérience d'encadrement de sportifs de haut niveau durant vingt-quatre mois, attestée par le directeur technique national du roller-skating.

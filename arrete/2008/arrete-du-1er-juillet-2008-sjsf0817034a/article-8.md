@@ -1,0 +1,3 @@
+# Article 8
+
+Dans les cinq ans suivant la date de publication du présent arrêté, les titulaires du brevet d'Etat d'éducateur sportif du premier degré, option « trampoline et sports acrobatiques », spécialité « acrosport », obtiennent sur demande auprès du directeur régional de la jeunesse, des sports et de la vie associative le diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du sport spécialité « performance sportive », mention « gymnastique acrobatique », s'ils ont exercé la fonction d'entraîneur de gymnastes du collectif France junior ou senior en gymnastique acrobatique. L'attestation d'encadrement est délivrée par le directeur technique national de la gymnastique.
