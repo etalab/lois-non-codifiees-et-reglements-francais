@@ -10,8 +10,10 @@ Le conseil scientifique comprend :
 
 Ces membres sont nommés par arrêté conjoint des ministres chargés de la tutelle de l'institut ;
 
-4. Cinq représentants du personnel de l'institut dont au moins trois chercheurs, élus selon des modalités fixées par arrêté conjoint des ministres chargés de la tutelle de l'institut. Le mandat des membres élus débute à la date de nomination des membres nommés.
+4. Cinq représentants élus par le personnel de l'institut dont au moins trois chercheurs. Le mandat des membres élus débute à la date de nomination des membres nommés.
 
 Le mandat des membres du conseil scientifique est d'une durée de quatre ans et il est renouvelable une fois.
 
 Le président et le vice-président du conseil scientifique sont nommés par arrêté conjoint des ministres exerçant la tutelle de l'institut parmi les membres nommés au titre des 1° et 2° ci-dessus.
+
+Un arrêté conjoint des ministres chargés de la tutelle de l'institut fixe le mode d'élection des membres mentionnés au 4 et les règles de fonctionnement du conseil scientifique.

@@ -4,11 +4,13 @@ Le conseil d'administration de l'institut comprend :
 
 1. Un président, nommé par décret, sur proposition conjointe du ministre chargé de la population et du ministre chargé de la recherche et choisi parmi les personnalités compétentes dans les domaines d'activité de l'institut ;
 
-2. Six membres de droit :
+2. Sept membres de droit :
 
 - un représentant du ministre chargé de la population, vice-président ;
 
 - un représentant du ministre chargé de la recherche, vice-président ;
+
+- un représentant du ministre chargé de l'immigration ;
 
 - un représentant du ministre chargé des affaires sociales .
 
@@ -32,7 +34,7 @@ Le mandat du président et des membres du conseil d'administration mentionnés a
 
 Les membres décédés, démissionnaires ou qui n'exercent plus les fonctions en raison desquelles ils ont été désignés ou élus, doivent être remplacés. Dans ce cas, le mandat des nouveaux membres expire à la date à laquelle aurait normalement pris fin celui des membres qu'ils remplacent.
 
-Les fonctions de membre du conseil d'administration sont gratuites. Elles ouvrent droit aux indemnités de déplacement et de séjour prévues par le décret du 10 août 1966 susvisé.
+Les fonctions de membre du conseil d'administration sont gratuites. Elles ouvrent droit aux indemnités de déplacement et de séjour prévues par la réglementation applicable aux fonctionnaires de l'Etat .
 
 Le président du conseil scientifique, le directeur de l'institut, le membre du corps du contrôle général économique et financier et l'agent comptable participent aux séances du conseil d'administration avec voix consultative. Avec l'accord du président, le directeur peut se faire accompagner par tout collaborateur ou personne qualifiée de son choix.
 

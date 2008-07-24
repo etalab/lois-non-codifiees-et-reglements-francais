@@ -2,7 +2,7 @@
 
 Pour l'accomplissement de ses missions, l'Institut national d'études démographiques peut notamment :
 
-1° Créer et gérer des unités de recherche au sens de l'article 18 de la loi du 15 juillet 1982 susvisée ;
+1° Créer et gérer des unités de recherche au sens de l'article L. 321-3 du code de la recherche ;
 
 2° Recruter des personnels de recherche ;
 
