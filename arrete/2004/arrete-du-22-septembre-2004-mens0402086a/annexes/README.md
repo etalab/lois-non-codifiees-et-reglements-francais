@@ -3,6 +3,7 @@
 - [Article Annexe I](article-annexe-i.md)
 - [Article Annexe X](article-annexe-x.md)
 - [Article Annexe L'](article-annexe-l.md)
+- [Article Annexe C](article-annexe-c.md)
 - [Article Annexe D](article-annexe-d.md)
 - [Article Annexe M](article-annexe-m.md)
 - [Article Annexe A](article-annexe-a.md)
