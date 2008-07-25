@@ -446,6 +446,8 @@
 - [Décret n°2008-380 du 22 avril 2008 (PRMX0810404D)](decret-n2008-380-du-22-avril-2008-prmx0810404d)
 - [Décret n°2008-384 du 22 avril 2008 (DEVU0771381D)](decret-n2008-384-du-22-avril-2008-devu0771381d)
 - [Décret n°2008-69 du 22 janvier 2008 (MTSS0774734D)](decret-n2008-69-du-22-janvier-2008-mtss0774734d)
+- [Décret n°2008-725 du 22 juillet 2008 (IOCA0816849D)](decret-n2008-725-du-22-juillet-2008-ioca0816849d)
+- [Décret n°2008-726 du 22 juillet 2008 (ECET0800927D)](decret-n2008-726-du-22-juillet-2008-ecet0800927d)
 - [Décret n°2009-454 du 22 avril 2009 (DEVA0901439D)](decret-n2009-454-du-22-avril-2009-deva0901439d)
 - [Décret n°68-464 du 22 mai 1968](decret-n68-464-du-22-mai-1968)
 - [Décret n°2008-482 du 22 mai 2008 (ECEL0808089D)](decret-n2008-482-du-22-mai-2008-ecel0808089d)
