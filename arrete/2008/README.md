@@ -117,6 +117,7 @@
 - [Arrêté du 24 juin 2008 (DEVA0814478A)](arrete-du-24-juin-2008-deva0814478a)
 - [Arrêté du 24 juin 2008 (DEVE0811966A)](arrete-du-24-juin-2008-deve0811966a)
 - [Arrêté du 24 juin 2008 (DEVO0813942A)](arrete-du-24-juin-2008-devo0813942a)
+- [Arrêté du 24 juin 2008 (ECED0816525A)](arrete-du-24-juin-2008-eced0816525a)
 - [Arrêté du 24 juin 2008 (MCCB0813255A)](arrete-du-24-juin-2008-mccb0813255a)
 - [Arrêté du 24 juin 2008 (SJSS0815492A)](arrete-du-24-juin-2008-sjss0815492a)
 - [Arrêté du 25 avril 2008 (IOCE0811333A)](arrete-du-25-avril-2008-ioce0811333a)
