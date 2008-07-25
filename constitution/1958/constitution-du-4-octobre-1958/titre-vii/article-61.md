@@ -1,6 +1,6 @@
 # Article 61
 
-Les lois organiques, avant leur promulgation, et les règlements des assemblées parlementaires, avant leur mise en application, doivent être soumis au Conseil constitutionnel, qui se prononce sur leur conformité à la Constitution.
+Les lois organiques, avant leur promulgation, les propositions de loi mentionnées à l'article 11 avant qu'elles ne soient soumises au référendum, et les règlements des assemblées parlementaires, avant leur mise en application, doivent être soumis au Conseil constitutionnel, qui se prononce sur leur conformité à la Constitution.
 
 Aux mêmes fins, les lois peuvent être déférées au Conseil constitutionnel, avant leur promulgation, par le Président de la République, le Premier ministre, le Président de l'Assemblée nationale, le Président du Sénat ou soixante députés ou soixante sénateurs.
 

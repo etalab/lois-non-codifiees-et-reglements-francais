@@ -1,7 +1,11 @@
 # Article 24
 
-Le Parlement comprend l'Assemblée nationale et le Sénat.
+Le Parlement vote la loi. Il contrôle l'action du Gouvernement. Il évalue les politiques publiques.
 
-Les députés à l'Assemblée nationale sont élus au suffrage direct.
+Il comprend l'Assemblée nationale et le Sénat.
 
-Le Sénat est élu au suffrage indirect. Il assure la représentation des collectivités territoriales de la République. Les Français établis hors de France sont représentés au Sénat.
+Les députés à l'Assemblée nationale, dont le nombre ne peut excéder cinq cent soixante-dix-sept, sont élus au suffrage direct.
+
+Le Sénat, dont le nombre de membres ne peut excéder trois cent quarante-huit, est élu au suffrage indirect. Il assure la représentation des collectivités territoriales de la République.
+
+Les Français établis hors de France sont représentés à l'Assemblée nationale et au Sénat.

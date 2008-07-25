@@ -2,9 +2,9 @@
 
 Dans les départements et les régions d'outre-mer, les lois et règlements sont applicables de plein droit. Ils peuvent faire l'objet d'adaptations tenant aux caractéristiques et contraintes particulières de ces collectivités.
 
-Ces adaptations peuvent être décidées par ces collectivités dans les matières où s'exercent leurs compétences et si elles y ont été habilitées par la loi.
+Ces adaptations peuvent être décidées par ces collectivités dans les matières où s'exercent leurs compétences et si elles y ont été habilitées selon le cas, par la loi ou par le règlement.
 
-Par dérogation au premier alinéa et pour tenir compte de leurs spécificités, les collectivités régies par le présent article peuvent être habilitées par la loi à fixer elles-mêmes les règles applicables sur leur territoire, dans un nombre limité de matières pouvant relever du domaine de la loi.
+Par dérogation au premier alinéa et pour tenir compte de leurs spécificités, les collectivités régies par le présent article peuvent être habilitées, selon le cas, par la loi ou par le règlement, à fixer elles-mêmes les règles applicables sur leur territoire, dans un nombre limité de matières pouvant relever du domaine de la loi ou du règlement.
 
 Ces règles ne peuvent porter sur la nationalité, les droits civiques, les garanties des libertés publiques, l'état et la capacité des personnes, l'organisation de la justice, le droit pénal, la procédure pénale, la politique étrangère, la défense, la sécurité et l'ordre publics, la monnaie, le crédit et les changes, ainsi que le droit électoral. Cette énumération pourra être précisée et complétée par une loi organique.
 

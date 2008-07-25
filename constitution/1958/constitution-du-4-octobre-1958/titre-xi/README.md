@@ -1,4 +1,4 @@
-# Titre XI : Le Conseil économique et social.
+# Titre XI : Le Conseil économique, social et environnemental
 
 - [Article 69](article-69.md)
 - [Article 70](article-70.md)

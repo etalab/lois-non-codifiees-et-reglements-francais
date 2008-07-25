@@ -9,5 +9,3 @@ Si le Parlement ne s'est pas prononcé dans un délai de soixante-dix jours, les
 Si la loi de finances fixant les ressources et les charges d'un exercice n'a pas été déposée en temps utile pour être promulguée avant le début de cet exercice, le Gouvernement demande d'urgence au Parlement l'autorisation de percevoir les impôts et ouvre par décret les crédits se rapportant aux services votés.
 
 Les délais prévus au présent article sont suspendus lorsque le Parlement n'est pas en session.
-
-La Cour des comptes assiste le Parlement et le Gouvernement dans le contrôle de l'exécution des lois de finances.
