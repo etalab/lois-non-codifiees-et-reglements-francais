@@ -1,13 +1,9 @@
 # Article 3
 
-Le titre professionnel d'agent de maintenance des équipements industriels est composé de quatre unités constitutives dont la liste suit :
+Le titre professionnel d'électromécanicien (ne) de maintenance industrielle est composé de deux unités constitutives dont la liste suit :
 
-1. Installer et procéder aux essais de nouveaux équipements industriels ;
+1. Réparer et contrôler la fonctionnalité, sur instruction, des éléments d'équipements mécaniques automatisés industrie et services.
 
-2. Remplacer ou remettre en état des organes ou des sous-ensembles industriels ;
+2. Réaliser, sur instruction, la maintenance préventive et le dépannage d'équipements mécaniques automatisés en situation de production industrie et services.
 
-3. Assurer la maintenance préventive systématique d'équipements industriels ;
-
-4. Rechercher les causes de la panne d'un équipement industriel.
-
-Elles peuvent être sanctionnées par des certificats de compétences professionnelles (CCP) dans les conditions prévues par l'arrêté du 25 novembre 2002 susvisé.
+Elles peuvent être sanctionnées par des certificats de compétences professionnelles (CCP) dans les conditions prévues par l'arrêté du 9 mars 2006 susvisé.

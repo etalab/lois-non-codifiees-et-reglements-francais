@@ -4,39 +4,33 @@
 
 Intitulé :
 
-Titre professionnel : technicien supérieur des matériaux composites.
+Titre professionnel de technicien (ne) supérieur (e) des matériaux composites.
 
 Niveau : III.
 
-Code NSF : 225 n.
+Code NSF : 225 s.
 
 Résumé du référentiel d'emploi
 
-Le technicien supérieur des matériaux composites mène les études de faisabilité de fabrication industrielle de pièces en matériaux composites.
+Dans une entreprise mettant en œuvre de manière industrielle les matériaux composites, le (la) technicien (ne) supérieur (e) des matériaux composites détermine et définit précisément les méthodes de fabrication, conçoit les outillages d'exécution, assure les mises au point de fabrication et estime les prix de revient. Suivant l'organisation d'entreprise, il (elle) peut aussi gérer et encadrer la production. Son travail alterne donc entre une activité de préparation méthodes, une activité de développement et mise au point de production et, parfois, une action de suivi et d'encadrement.
 
-Il exerce tout ou partie des activités suivantes :
+Il (elle) apporte la technicité nécessaire à la réalisation et à l'optimisation de la production de pièces en matériaux composites.
 
--il gère et encadre la production de pièces (coques de bateaux, éléments de carrosserie, mobilier de salles de bains) en matériaux composites, dans le respect des normes de qualité et des objectifs fixés. Il doit évaluer les problèmes techniques de fabrication pour apporter les solutions adéquates et juger les difficultés de réalisation afin d'anticiper les problèmes. Par ailleurs, il organise et / ou participe à la première maintenance des équipements de production ;
+Les entreprises de matériaux composites sont généralement de petites unités, le travail des opérateurs est souvent manuel.
 
--il réalise l'étude de faisabilité des pièces en matériaux composites. Il adapte la forme et la structure des pièces en fonction du cahier des charges et des contraintes de faisabilité et définit le procédé optimisant la fabrication ;
+Les conditions de travail varient suivant les matières utilisées et les moyens techniques mis en œuvre.
 
--il procède à l'industrialisation des pièces en matériaux composites : réalisation du dossier de fabrication et organisation de la production dans l'atelier ;
+La technicité du métier se trouve principalement dans les matières d'œuvre (résines, renforts), dans la rationalisation des procédés de fabrication manuels » et dans le développement et l'utilisation de process avec des moules fermés et des pompes (pour injection de résine et / ou mise sous vide).
 
--il conçoit et réalise les outillages de moulage des pièces en matériaux composites.
-
-Il exerce une responsabilité hiérarchique vis-à-vis de personnel qualifié ou non.
-
-L'activité du technicien supérieur des matériaux composites alterne entre un travail de préparation (en bureau d'études et méthodes) et un travail de mise en oeuvre (essais, fabrication dans l'atelier). Il exerce soit dans des entreprises sous-traitantes de petite taille, soit dans des entreprises de taille plus importante qui fabriquent leurs propres produits, tel dans le secteur du nautisme ou de la carrosserie. Il est sous la responsabilité du responsable de production, du directeur technique ou du chef d'entreprise.
-
-Compétences attestées et descriptif
+Capacités attestées et descriptif
 
 des composantes de la certification
 
-1. Gérer et encadrer la production des pièces
+1. Gérer et encadrer la production
 
-en matériaux composites
+des pièces en matériaux composites
 
-Assurer la qualité des matières premières et des pièces finies. Etablir une procédure de vérification des produits finis.
+Assurer le suivi et / ou établir les procédures pour le suivi de la qualité des matières premières et des pièces finies.
 
 Encadrer la fabrication de pièces en matériaux composites, en analyser les performances et engager des actions d'amélioration de la qualité.
 
@@ -46,65 +40,65 @@ Gérer des stocks de matières premières et de composants pour une production d
 
 Planifier le travail d'un atelier de fabrication de pièces en matériaux composites.
 
-2. Réaliser l'étude de faisabilité des pièces
+2. Déterminer le procédé de fabrication optimum
 
-en matériaux composites
+pour la réalisation d'une pièce en matériaux composites
 
 Participer à la conduite d'un projet en assurance qualité.
 
-Réaliser un cahier des charges fonctionnel d'une pièce ou d'un ensemble de pièces en matériaux composites.
+Etablir la liste des critères techniques de réalisation d'une pièce en matériaux composites, en fonction de son plan et de son procédé de fabrication.
 
-Etablir la liste des critères techniques de réalisation d'une pièce en matériaux composites, en fonction de son cahier des charges.
+Proposer des modifications de formes de pièces en matériaux composites, pour permettre ou fiabiliser leur fabrication.
 
-Proposer des modifications de conception de pièces en matériaux composites.
+Définir la mise en œuvre des matières prévues pour la réalisation d'une pièce en matériaux composites.
 
-Vérifier par le calcul l'échantillonnage d'un stratifié en matériaux composites.
-
-Choisir les matières permettant la réalisation d'une pièce en matériaux composites.
-
-Etablir le devis matière d'une pièce en matériaux composites.
-
-Déterminer le procédé de fabrication optimum pour la réalisation d'une pièce en matériaux composites.
+Etablir le devis approché d'une pièce en matériaux composites.
 
 3. Industrialiser les pièces en matériaux composites
 
 Planifier l'industrialisation d'une pièce en matériaux composites.
 
-Etablir la gamme de fabrication d'une pièce en matériaux composites.
+Organiser et participer à la mise au point des outillages de moulage de pièces en matériaux composites.
 
-Organiser la production de pièces en matériaux composites.
+Etablir les documents de fabrication de pièces en matériaux composites.
 
-Etablir les documents de poste de travail de fabrication de pièces en matériaux composites.
+Définir l'organisation de la production de pièces en matériaux composites.
 
-4. Concevoir et réaliser les outillages de moulage
+4. Concevoir et participer à la réalisation des outillages
 
-pour les pièces en matériaux composites
+de moulage pour les pièces en matériaux composites
 
-Concevoir le moule d'une pièce en matériaux composites, à caractère dimensionnel précis, comportant des ouvertures et des inserts métalliques, réalisée au contact.
+Concevoir le moule d'une pièce en matériaux composites, à caractère dimensionnel précis, pouvant comporter des contre-dépouilles et des inserts métalliques.
 
-Concevoir un moule pour pièces en matériaux composites de grande dimension réalisée en projection simultanée.
+Concevoir un moule pour pièces en matériaux composites de grandes dimensions.
 
 Concevoir un moule pour injection ou compression basse pression, moyenne série de pièces en matériaux composites.
 
 Concevoir les outillages périphériques : gabarits de découpe et d'usinage, poste d'assemblage, pour pièces en matériaux composites.
 
-Participer à la réalisation d'un outillage de moulage d'une pièce en matériaux composites.
-
-Définir le cahier des charges d'un moule de compression pour pièces en matériaux composites.
-
 Etablir le devis estimatif et assurer le suivi de réalisation pour la fabrication ou la modification d'un moule pour pièces en matériaux composites.
 
-Secteur d'activité ou type d'emploi
+Participer à la réalisation d'un outillage de moulage d'une pièce en matériaux composites.
 
-accessible par le détenteur du titre
+Secteurs d'activités ou types d'emploi
 
-Entreprises sous-traitantes généralement de petite taille ou entreprises de taille plus importante qui fabriquent leurs propres produits, comme dans le secteur du nautisme ou de la carrosserie.
+accessibles par le détenteur du titre
 
-Code (s) ROME :
+Entreprises de plasturgie (matériaux composites) sous-traitantes généralement de petite taille, ou entreprises de taille plus importante qui fabriquent leurs propres produits, comme dans le secteur du nautisme ou de la carrosserie (automobile, ferroviaire).
 
-52231-Technicien de production des industries de process
+Technicien (ne) concepteur (rice) en moules.
 
-52111-Technicien de méthodes-ordonnancement-planification de l'industrie.
+Technicien (ne) méthodes-production.
+
+Technicien (ne) de développement ou de mise au point de process.
+
+Technicien (ne) de production, responsable d'équipe ou d'atelier dans une entreprise fabriquant des pièces ou des outillages en matériaux composites.
+
+Codes ROME :
+
+52231-Technicien (ne) de production des industries de process.
+
+52111-Technicien (ne) de méthodes-ordonnancement-planification de l'industrie.
 
 Réglementation de l'activité :
 
@@ -118,6 +112,6 @@ Bases légales et réglementaires :
 
 Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Arrêté du 25 novembre 2002.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.

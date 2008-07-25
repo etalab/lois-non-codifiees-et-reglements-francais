@@ -1,6 +1,6 @@
 # Article 1
 
-Le titre professionnel d'agent de maintenance des équipements industriels est créé.
+Le titre professionnel d'     électromécanicien(ne) de maintenance industrielle est créé.
 
 Il est délivré dans les conditions prévues par l'arrêté du 25 novembre 2002 susvisé.
 
