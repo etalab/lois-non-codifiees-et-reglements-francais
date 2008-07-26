@@ -1,0 +1,3 @@
+# Article 8
+
+Il est institué un bureau de vote central auprès du secrétaire général du ministère de l'immigration, de l'intégration, de l'identité nationale et du développement solidaire sur le site de la rue de Grenelle (101, rue de Grenelle, 75007 Paris) et cinq sections de vote : la première sur le site de Rezé (93 bis, rue de la Commune, 44404 Rezé) ; la deuxième sur le site de Nantes (11, rue de la Maison-Blanche, 44036 Nantes Cedex 01), la troisième sur le site de Montparnasse (11, place des Cinq-Martyrs-du-Lycée-Buffon, 75014 Paris), la quatrième sur le site Beauvau (1 bis, rue des Saussaies, 75008 Paris) et la cinquième au 140 bis, rue de Rennes, 75006 Paris.

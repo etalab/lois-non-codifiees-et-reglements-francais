@@ -10,6 +10,8 @@
 - [Ordonnance n° 2007-1801 du 21 décembre 2007 (IOCX0771377R)](ordonnance-n-2007-1801-du-21-decembre-2007-iocx0771377r)
 - [Ordonnance n° 2008-156 du 22 février 2008 (IOCX0800997R)](ordonnance-n-2008-156-du-22-fevrier-2008-iocx0800997r)
 - [Ordonnance n° 2008-480 du 22 mai 2008 (SJSX0808051R)](ordonnance-n-2008-480-du-22-mai-2008-sjsx0808051r)
+- [Ordonnance n° 2008-727 du 24 juillet 2008 (ESRX0814261R)](ordonnance-n-2008-727-du-24-juillet-2008-esrx0814261r)
+- [Ordonnance n° 2008-728 du 24 juillet 2008 (ESRX0814262R)](ordonnance-n-2008-728-du-24-juillet-2008-esrx0814262r)
 - [Ordonnance n° 2007-613 du 26 avril 2007 (SANX0700046R)](ordonnance-n-2007-613-du-26-avril-2007-sanx0700046r)
 - [Ordonnance n° 2008-205 du 27 février 2008 (MTSX0802348R)](ordonnance-n-2008-205-du-27-fevrier-2008-mtsx0802348r)
 - [Ordonnance n° 2008-507 du 30 mai 2008 (ECEX0805383R)](ordonnance-n-2008-507-du-30-mai-2008-ecex0805383r)
