@@ -68,6 +68,7 @@
 - [Arrêté du 11 juin 2008 (DEVS0812553A)](arrete-du-11-juin-2008-devs0812553a)
 - [Arrêté du 11 juin 2008 (ECED0814789A)](arrete-du-11-juin-2008-eced0814789a)
 - [Arrêté du 11 juin 2008 (ECED0814890A)](arrete-du-11-juin-2008-eced0814890a)
+- [Arrêté du 12 juin 2008 (ECEA0810900A)](arrete-du-12-juin-2008-ecea0810900a)
 - [Arrêté du 13 mai 2008 (AGRS0807796A)](arrete-du-13-mai-2008-agrs0807796a)
 - [Arrêté du 15 avril 2003 (SANH0321339A)](arrete-du-15-avril-2003-sanh0321339a)
 - [Arrêté du 15 juillet 2008 (DEVA0817029A)](arrete-du-15-juillet-2008-deva0817029a)
