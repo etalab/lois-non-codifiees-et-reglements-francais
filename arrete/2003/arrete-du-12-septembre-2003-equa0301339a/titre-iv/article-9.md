@@ -1,9 +1,5 @@
 # Article 9
 
-Le chapitre VII de l'arrêté du 24 juillet 1991 susvisé s'applique aux aéronefs en CDNR sous réserve des dispositions suivantes :
+Consignes de navigabilité :
 
--le propriétaire accepte les pièces de rechange sous sa responsabilité ;
-
--le propriétaire définit les potentiels, les durées d'utilisation et les durées de vie des éléments de l'aéronef sous sa propre responsabilité ;
-
--le propriétaire définit un « programme d'entretien » adapté à son aéronef.
+Le propriétaire a la charge de se procurer les consignes de navigabilité qui concernent le type d'aéronef ou d'élément d'aéronef certifié ayant servi de référence à la construction de son aéronef et les équipements installés. Il décide de leur application. Toutefois, le propriétaire applique les consignes de navigabilité que le ministre chargé de l'aviation civile impose spécifiquement à son aéronef ou à ses équipements.
