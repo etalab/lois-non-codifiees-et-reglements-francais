@@ -1,3 +1,0 @@
-# Article ANNEXE II ART. 10
-
-L'assureur peut faire procéder, par des délégués de son choix, à la vérification des déclarations du souscripteur et à l'inspection des objets constituant directement ou indirectement les risques couverts par le présent contrat ; il peut notamment vérifier les installations de sécurité mises en place pour la manifestation sportive, qu'il s'agisse des mesures réglementaires de protection ou de celles prévues en supplément aux conditions particulières et qui ont servi de base à la fixation de la prime. Le souscripteur doit faciliter à l'assureur l'exercice de son droit de contrôle.

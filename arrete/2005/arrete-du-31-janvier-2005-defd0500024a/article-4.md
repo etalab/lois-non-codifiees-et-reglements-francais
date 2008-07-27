@@ -10,4 +10,6 @@ La sous-direction de la coopération et du développement européen :
 
 4. Elabore, en liaison avec les organismes concernés, les directives adressées, en matière de coopération dans le domaine de l'armement, aux attachés d'armement, aux représentants français auprès des organismes multilatéraux ou interalliés, aux attachés de défense et aux autres missions militaires françaises ;
 
-5. Négocie les engagements internationaux concernant son domaine d'activité.
+5. Négocie les engagements internationaux concernant son domaine d'activité ;
+
+6. Prépare et met en œuvre la politique de coopération internationale en matière de recherche et de technologie de défense.

@@ -10,4 +10,6 @@ La sous-direction de la coopération et du développement européen comprend :
 
 4. Le bureau du développement de la coopération ;
 
-5. Le bureau des accords internationaux.
+5. Le bureau des accords internationaux ;
+
+6. Le bureau recherche et technologie.

@@ -4,9 +4,9 @@ Le chef du service d'architecture des systèmes de forces dispose du secrétaire
 
 Le service d'architecture des systèmes de forces comprend, outre des équipes à la disposition de chacun des architectes de systèmes de forces et le bureau de la gestion et de la qualité, la sous-direction de la cohérence et de la prospective, constituée :
 
-1. Du bureau de la cohérence et des études générales ;
+1. Du bureau de la cohérence capacitaire ;
 
-2. Du bureau du plan prospectif et de l'orientation des études ;
+2. Du bureau de la prospective des systèmes de forces ;
 
 3. Du bureau du développement capacitaire européen ;
 

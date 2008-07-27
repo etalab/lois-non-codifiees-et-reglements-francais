@@ -6,7 +6,7 @@ Pour l'exercice des attributions fixées par le décret du 31 janvier 2005 susvi
 
 2. La sous-direction des systèmes d'information ;
 
-3. La sous-direction des achats ;
+3. Abrogé;
 
 3-1. La sous-direction des sites et de l'environnement ;
 
