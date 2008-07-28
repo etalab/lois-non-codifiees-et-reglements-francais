@@ -520,6 +520,8 @@
 - [Décret n°2008-404 du 25 avril 2008 (DEVA0767515D)](decret-n2008-404-du-25-avril-2008-deva0767515d)
 - [Décret n°2008-405 du 25 avril 2008 (DEFD0808604D)](decret-n2008-405-du-25-avril-2008-defd0808604d)
 - [Décret n°2008-602 du 25 juin 2008 (DEVP0772293D)](decret-n2008-602-du-25-juin-2008-devp0772293d)
+- [Décret n°2008-733 du 25 juillet 2008 (SJSP0809603D)](decret-n2008-733-du-25-juillet-2008-sjsp0809603d)
+- [Décret n°2008-734 du 25 juillet 2008 (MLVU0807767D)](decret-n2008-734-du-25-juillet-2008-mlvu0807767d)
 - [Décret n°2008-78 du 25 janvier 2008 (PRMX0811224D)](decret-n2008-78-du-25-janvier-2008-prmx0811224d)
 - [Décret n°96-1014 du 25 novembre 1996 (MAEA9620524D)](decret-n96-1014-du-25-novembre-1996-maea9620524d)
 - [Décret du 26 mars 2008 (AGRP0773586D)](decret-du-26-mars-2008-agrp0773586d)
