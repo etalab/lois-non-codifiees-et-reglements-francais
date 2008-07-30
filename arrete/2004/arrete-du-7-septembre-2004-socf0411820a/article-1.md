@@ -1,6 +1,6 @@
 # Article 1
 
-Le titre professionnel de menuisier(ière) aluminium, option pose d'ouvrages, option miroiterie, est créé (ancien intitulé : monteur assembleur poseur en menuiserie aluminium verre).
+Le titre professionnel de menuisier aluminium, est créé (ancien intitulé : monteur assembleur poseur en menuiserie aluminium verre).
 
 Il est délivré dans les conditions prévues par l'arrêté du 25 novembre 2002 susvisé.
 

@@ -6,91 +6,57 @@ AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
 Intitulé :
 
-Titre professionnel : menuisier(ière) aluminium, option pose d'ouvrages, option miroiterie (ancien intitulé : monteur assembleur poseur en menuiserie aluminium verre).
+Titre professionnel : menuisier aluminium.
 
-Niveau : V.
+Ancien intitulé : menuisier (ière) aluminium option pose d'ouvrage, option miroiterie.
+
+Niveau : V
 
 Code NSF : 254 s.
 
 Résumé du référentiel d'emploi
 
-Le (la) menuisier(ière) aluminium fabrique tous les ouvrages plans courants de menuiserie aluminium liés au secteur du bâtiment, tels que les ouvrages obturant l'enveloppe du bâtiment (portes, châssis, etc.), les ouvrages de protection des biens et des personnes (garde-corps, rampe, etc.) et les ouvrages d'agencement et de décoration (façade de magasins, mobilier urbain, etc.).
+Le menuisier aluminium fabrique, pose et entretient tous les ouvrages courants de menuiserie aluminium liés au secteur du bâtiment : portes et fenêtres, garde-corps, rampes, cloisons.
 
-Dans le cadre de la diversification de l'emploi, il (elle) peut soit poser et entretenir des ouvrages de menuiserie aluminium (pose d'ouvrages), soit découper et usiner des produits verriers plats et poser des ouvrages courants de miroiterie comme les sas d'entrée et les portes (miroiterie).
+Il fabrique les menuiseries à partir de fiches de débits et d'assemblages. Les débits sont généralement destinés à plusieurs chantiers afin d'optimiser les mises en longueur. Il usine et assemble les menuiseries en incorporant les remplissages verre ou panneaux. Le façonnage des produits verriers est confié à du personnel qualifié en miroiterie ou fait l'objet de commandes à des entreprises extérieures, notamment pour le double vitrage. En amont de la production, le menuisier aluminium participe aux relevés de cotes sur site pour la réhabilitation ou aux vérifications des dimensions des supports dans le neuf. En aval, l'installation des ouvrages sur chantier s'effectue en équipe, au minimum à deux personnes.
 
-Le (la) menuisier(ière) aluminium travaille principalement en atelier, mais également sur chantier. Les horaires sont, en général, réguliers et liés à la charge de travail dans les petites entreprises. Dans les entreprises plus importantes, le travail est posté et en horaire décalé (2 x 8). L'exercice des activités sur chantier nécessite des déplacements, parfois importants, et peut engendrer des dépassements d'horaires.
+Certaines entreprises de menuiserie aluminium étendent leurs prestations dans la réalisation de verrières, vérandas et façades alu-verre en proposant des murs rideaux en panneaux et en verre : verre extérieur agrafé et / ou verre extérieur collé (VEA / VEC).
 
-Le (la) menuisier(ière) aluminium travaille souvent seul(e) sur un champ technique bien identifié (travail posté), sous la responsabilité d'un chef d'équipe. Avec plus d'expérience, il (elle) peut être amené(e) à encadrer une petite équipe composée d'apprentis, d'ouvriers spécialisés ou d'intérimaires.
+Le menuisier aluminium travaille principalement en atelier, mais également sur chantier. Les horaires sont, en général, réguliers.L'exercice des activités sur chantier nécessite des déplacements, parfois importants, et peut engendrer des dépassements d'horaires.
 
-Il (elle) exécute les travaux courants de sa spécialité à partir de plans ou de descriptifs informatisés. Il (elle) dispose de peu d'initiative dans le choix des moyens de production. La résistance à la station debout prolongée et la capacité de déplacer ou de porter des charges lourdes sont nécessaires. Le travail en hauteur peut être occasionnel dans l'atelier. Dans tous les cas, il (elle) doit appliquer strictement les consignes de sécurité.
+La résistance à la station debout prolongée et la capacité de déplacer ou de porter des charges lourdes sont nécessaires. Le travail en hauteur peut être occasionnel dans l'atelier. Dans tous les cas, il doit appliquer strictement les consignes de sécurité.
 
 Capacités attestées et descriptif
 
 des composantes de la certification
 
-1. Débiter en longueur et en angle des profilés aluminium.
+1. Fabriquer des ouvrages en menuiserie
 
-Déstocker, stocker et manutentionner des barres de menuiserie aluminium.
+aluminium, verre et matériaux de synthèse
 
-Coder et décoder une liste de coupe en menuiserie aluminium.
+Débiter des profils et tôles de menuiserie aluminium.
 
-Débiter des barres en menuiserie aluminium.
+Réaliser les usinages de menuiserie aluminium.
 
-2. Usiner des profilés aluminium pour poser des quincailleries de rotation, de fermeture, de liaison...
+Monter et équiper des châssis de menuiserie aluminium.
 
-Identifier et tracer les usinages à réaliser sur des profilés aluminium à partir d'un plan de fabrication.
+Réaliser des finitions et habillages en tôles pliées.
 
-Monter des outils : fraise, lame, etc., et régler les guides et butées sur des machines d'usinage de menuiserie aluminium.
+2. Installer des menuiseries
 
-Usiner des évidements sur des barres aluminium à l'aide du parc usuel de machines.
+et des vérandas en aluminium
 
-3. Effectuer le montage et l'assemblage des ouvrages plans courants de menuiserie aluminium : porte, châssis, garde-corps...
+Poser et étancher des châssis en neuf ou réhabilitation.
 
-Monter et assembler des cadres d'ouvrages de menuiserie aluminium.
+Sceller des ouvrages et ossatures de menuiserie aluminium.
 
-Monter les accessoires de liaisons, de rotation et de fermeture puis assembler et régler les ouvrages de menuiseries aluminium.
+Monter des façades vitrées en verre extérieur collé et agrafé.
 
-Mettre en place les différents systèmes d'étanchéité sur les ouvrages de menuiserie aluminium.
+Intégrer des produits verriers dans des structures métalliques.
 
-Poser, caler et étancher des éléments de remplissage dans des ouvrages de menuiserie aluminium.
+Réaliser des finitions et habillages en tôles pliées.
 
-4. Cette unité constitutive du titre professionnel est à choisir parmi les deux options suivantes :
-
-Soit l'option :
-
-Pose d'ouvrages : poser des châssis et garde-corps à barreaudage dans un bâtiment.
-
-Caler, fixer et étancher un châssis et son remplissage dans une baie.
-
-Poser un châssis en réhabilitation.
-
-Poser un garde-corps à barreaudage sur une dalle en béton.
-
-Soit l'option :
-
-Miroiterie : débiter, usiner et poser des panneaux de remplissage (produits verriers, panneaux sandwiches, etc.)
-
-Stocker, déstocker et manutentionner des produits verriers.
-
-Débiter des produits verriers.
-
-Usiner et façonner des produits verriers.
-
-Poser des ensembles composés de produits verriers.
-
-Ce titre professionnel peut être complété par les certificats complémentaires de spécialisation (CCS) suivants :
-
-1. Effectuer la maintenance des ouvrages de menuiserie aluminium et PVC.
-
-Assurer la maintenance des menuiseries aluminium et PVC.
-
-Poser en réhabilitation des menuiseries aluminium et PVC.
-
-2. Fabriquer et poser des ouvrages volumiques composés de menuiserie aluminium et de verre : véranda, etc.
-
-Fabriquer des vérandas en menuiserie aluminium.
-
-Poser des vérandas composées de menuiserie aluminium, de produits verriers et de produits de remplissage.
+Réaliser le montage de vérandas en site occupé.
 
 Secteurs d'activités ou types d'emploi
 
@@ -106,7 +72,7 @@ Entreprises de travail intérimaire.
 
 Code ROME :
 
-42221 - Poseur(se) de fermetures menuisées.
+42221-Poseur (se) de fermetures menuisées.
 
 Réglementation de l'activité :
 
@@ -118,8 +84,6 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
-
-Arrêté du 25 novembre 2002.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
