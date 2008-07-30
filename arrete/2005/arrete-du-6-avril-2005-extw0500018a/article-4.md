@@ -1,9 +1,9 @@
 # Article 4
 
-Le ministre de l'économie, des finances et de l'industrie et le ministre délégué au commerce extérieur fixent la composition du jury. Celui-ci comprend :
+La ministre de l'économie, de l'industrie et de l'emploi fixe la composition du jury. Celui-ci comprend :
 
-- le secrétaire général de la direction générale du Trésor et de la politique économique ou son représentant exerçant ou ayant exercé au moins des fonctions de sous-directeur ou de ministre conseiller pour les affaires économiques ;
+- le secrétaire général de la direction générale du Trésor et de la politique économique ou son représentant exerçant ou ayant exercé au moins des fonctions de sous-directeur ou de ministre conseiller pour les affaires économiques et commerciales, président ;
 
-- le secrétaire général adjoint de la direction générale du Trésor et de la politique économique ou son représentant ayant au moins rang de chef de bureau ;
+- un fonctionnaire de la direction générale du Trésor et de la politique économique titulaire d'un grade au moins égal à celui d'administrateur civil ou de conseiller économique ;
 
-- le sous-directeur des ressources humaines de la direction du personnel, de la modernisation et de l'administration ou son représentant ayant au moins rang de chef de bureau.
+- un fonctionnaire de la direction des personnels et de l'adaptation de l'environnement professionnel ayant au moins rang de chef de bureau.
