@@ -1,32 +1,24 @@
 # Article Annexe
 
-**INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU REPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES**
+**INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES**
 
 Intitulé :
 
-Titre professionnel d'installateur de réseaux câblés de communications.
+Titre professionnel : installateur de réseaux câblés de communications.
 
-Niveau : V.
+Niveau : V
 
 Code NSF : 255 s.
 
 Résumé du référentiel d'emploi
 
-L ` installateur de réseaux câblés de communications participe à l ` installation de réseaux câblés permettant le transport de voix, données ou images (VDI). Sur la base d ` un dossier technique élaboré par un technicien, il met en place les différents réseaux câblés de communications quelles que soient leurs structures (aérien, sur poteaux, sur façade, à l ` intérieur d ` immeubles ou en conduites souterraines).
+L'installateur de réseaux câblés de communications participe à la construction des réseaux de communications mixtes ou hybrides qui permettent le transport des hauts débits pour amener aux particuliers et aux entreprises la VDI (voix-données-images). Ces réseaux hybrides sont constitués de câbles en cuivre à paires symétriques torsadées (nos lignes téléphoniques traditionnelles), de câbles coaxiaux et / ou de fibres optiques.L'ensemble de ces réseaux filaires hybrides véhicule désormais le téléphone, internet et les chaînes de télévision. Cet installateur de réseaux câblés assure l'installation des structures de réseaux câblés hybrides de communications, les raccordements des équipements des usagers au réseau existant, la réparation et les modifications de ces réseaux selon les prescriptions ou l'étude d'un technicien.
 
-Il travaille sur du câble cuivre multipaires pour le réseau téléphonique traditionnel ou les réseaux locaux d ` entreprises (réseaux informatiques), sur du câble coaxial pour distribuer, généralement, les images de télévision, et sur la fibre optique pour les réseaux longues distances de distribution de données de très hauts débits ou les réseaux locaux.
+Il est employé par des établissements de nature et d'importance différentes, allant de l'entreprise artisanale à la grande société industrielle à succursales régionales. Ouvrier polyvalent, il peut exercer ses activités dans le domaine des réseaux téléphoniques, des réseaux câblés des câblo-opérateurs ou des installations de réseaux locaux d'entreprises ou des réseaux informatiques et sur tous réseaux faisant appel aux câbles en cuivre multipaires, coaxial et fibre optique.
 
-Il installe les différents éléments (boîtiers, coffrets, répartiteurs, dérivateurs...), puis effectue le raccordement des câbles entre eux. Il assure ensuite la connexion des différents matériels de l'usager au réseau approprié. Il réalise les tests, les mesures et les réglages des diverses installations. Il informe son client sur les principes de fonctionnement du système. Il rend compte à sa hiérarchie des travaux qu'il effectue et des difficultés qu ` il rencontre.
+Il travaille en plein air pour effectuer la pose et les raccordements de ces réseaux. Son espace de travail peut se situer sur une échelle, en nacelle, en haut d'un poteau ou dans des chambres de visite. Ces cavités qui effleurent le sol permettent à l'installateur de raccorder les différents câbles entre eux ou sur certains équipements. Il peut aussi intervenir en intérieur d'immeuble ou en entreprise, dans le cadre de la réalisation d'un réseau local d'entreprise. Dans ce cas, il travaille dans un contexte très particulier et parfois très exigu, partageant ses espaces et les locaux avec le personnel de l'entreprise cliente.
 
-L'installateur de réseaux câblés de communications peut exercer son emploi sur différents champs tels l'installation de réseaux téléphoniques, l'installation de réseaux câblés de lignes à grandes distances et l'installation de réseaux locaux à l'intérieur de l'entreprise.
-
-De façon générale, il peut intervenir sur tous les réseaux faisant appel aux câbles cuivre multipaires, coaxial et fibre optique.
-
-Il est employé par des établissements de nature et d'importance différentes, allant de l'entreprise artisanale à la grande société industrielle à succursales régionales.
-
-Il travaille, soit en plein air, sur une échelle, en haut d'un poteau ou en fond de tranchées, soit à l'intérieur, dans des espaces qui peuvent être très exigus et en site occupé.
-
-Son travail doit être rigoureux et précis. Il utilise fréquemment des matériels spécifiques et coûteux pour les essais et mesures.
+Son travail doit être rigoureux et précis. Il utilise fréquemment des matériels spécifiques et coûteux pour les essais et les mesures.
 
 Les déplacements sont fréquents et le travail implique parfois des horaires adaptés (journée continue, travail de nuit pour réparer les réseaux endommagés).
 
@@ -36,71 +28,73 @@ Capacités attestées et descriptif
 
 des composantes de la certification
 
-1. Construire des réseaux câblés de communications
-
-Approvisionner les matériels et les outillages nécessaires à la mise en oeuvre d'un réseau câblé de communications.
-
-Mettre en oeuvre un réseau câblé de communications sur appuis aériens.
-
-Mettre en oeuvre un réseau câblé de communications sur façade.
-
-Mettre en oeuvre un réseau câblé de communications en intérieur d'immeuble.
-
-Mettre en oeuvre un réseau câblé de communications en conduites souterraines.
-
-Réaliser des jonctions de câbles de réseaux câblés de communications.
-
-Poser et câbler les appareillages de raccordements aux extrémités des réseaux câblés de communications.
-
-Réaliser les essais et mesures des réseaux câblés de communications.
-
-2. Raccorder des clients aux réseaux câblés
+1. Construire des réseaux câblés hybrides
 
 de communications
 
-Approvisionner les matériels et outillages spécifiques pour un raccordement client au réseau câblé de communications.
+Approvisionner les matériels et les équipements nécessaires à la mise en œuvre d'un réseau câblé hybride de communications.
 
-Installer les appareillages et raccorder le client au réseau existant.
+Mettre en œuvre un réseau câblé hybride de communications sur appuis aériens.
 
-Réaliser les essais et mesures du réseau câblé installé chez un client.
+Mettre en œuvre un réseau câblé hybride de communications sur façade.
 
-Mettre en service l'installation et expliquer au client le mode de fonctionnement des terminaux de communications.
+Mettre en œuvre un réseau câblé hybride de communications en intérieur d'immeuble.
+
+Mettre en œuvre un réseau câblé hybride de communications en conduites souterraines.
+
+Réaliser des jonctions de câbles d'un réseau câblé hybride de communications.
+
+Poser et câbler les équipements d'un réseau câblé hybride de communications.
+
+Réaliser les essais et mesures d'un réseau câblé hybride de communications.
+
+2. Raccorder des clients à un réseau câblé
+
+hybride de communications
+
+Approvisionner les matériels et les équipements spécifiques pour le raccordement d'un client à un réseau câblé de communications.
+
+Installer les équipements et raccorder le client au réseau câblé de communications.
+
+Réaliser les essais et mesures aux équipements installés chez le client.
+
+Mettre en service l'installation et expliquer au client son mode de fonctionnement.
 
 3. Réparer et modifier des réseaux câblés
 
-de communications
+hybrides de communications
 
-Approvisionner les matériels et outillages nécessaires à la modification et à la réparation d'un réseau câblé de communications.
+Approvisionner les matériels et les équipements nécessaires à la modification et à la réparation d'un réseau câblé hybride de communications.
 
-Assurer l'entretien et le bon fonctionnement des réseaux câblés de communications.
+Assurer l'entretien et le fonctionnement d'un réseau câblé hybride de communications.
 
-Dépanner un réseau câblé de communications défectueux.
+Dépanner un réseau câblé hybride de communications.
 
-Modifier un réseau câblé de communications, suivant l'étude réalisée par un technicien.
+Modifier un réseau câblé hybride de communications.
 
 Secteurs d'activités ou types d'emploi
 
 accessibles par le détenteur du titre
 
-Grandes entreprises de constructions de lignes électriques qui se sont diversifiées et ont élargi leurs champs d'interventions dans le domaine des réseaux câblés de communications, appelés souvent courants faibles ».
+Grandes entreprises de travaux publics qui se sont diversifiées et ont élargi leurs champs d'interventions dans le domaine des réseaux câblés de communications, appelés souvent courants faibles ».
 
-Des câblo-opérateurs qui installent et posent leurs propres réseaux, en câbles coaxial » ou fibre optique », soit pour la distribution de bouquets satellites par le câble, soit pour la mise en place de boucles locales qui acheminent tous types d'informations : voies-données-images (VDI).
+Câblo-opérateurs qui installent et posent leurs propres réseaux, en câbles coaxial » ou fibre optique », soit pour la distribution de bouquets satellites par le câble, soit pour la mise en place de boucles locales qui acheminent tous types d'informations : voix-données-images (VDI).
 
-Entreprises intérimaires qui sous-traitent les chantiers de mise en oeuvre de réseaux câblés de communications.
+Entreprises qui sous-traitent pour le compte des câblo-opérateurs les chantiers de mise en œuvre de réseaux câblés hybrides de communications.
 
-Entreprises spécialisées dans l'étude et la mise en place de réseaux de systèmes informatiques ou d'ordinateurs de bureaux.
+Entreprises spécialisées dans l'étude et la mise en place de mise en réseau de systèmes informatiques ou d'ordinateurs de bureaux.
 
 Codes ROME :
 
-42211-Electricien / électricienne du bâtiment et des travaux publics.
+42211-Electricien (ne) du bâtiment et des travaux publics.
 
-44212-Interconnecteur / interconnectrice en matériel électrique et électromécanique.
+44212-Interconnecteur (trice) en matériel électrique et électromécanique.
 
-44341-Polymaintenicien / polymaintenicienne.
+44341-Polymaintenicien (ne).
 
 Réglementation de l'activité :
 
-Néant.
+Habilitation pour travaux électriques (norme C15-100).
 
 Autorité responsable de la certification :
 
@@ -108,8 +102,7 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale :
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
-
-Arrêté du 25 novembre 2002.
+Arrêté du 9 mars 2006
+relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
