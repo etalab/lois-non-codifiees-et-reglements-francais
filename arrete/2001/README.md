@@ -81,7 +81,6 @@
 - [Arrêté du 5 septembre 2001 (DEFC0102023A)](arrete-du-5-septembre-2001-defc0102023a)
 - [Arrêté du 5 septembre 2001 (DEFP0101629A)](arrete-du-5-septembre-2001-defp0101629a)
 - [Arrêté du 5 septembre 2001 (INTC0100526A)](arrete-du-5-septembre-2001-intc0100526a)
-- [Arrêté du 5 septembre 2001 (MESP0123164A)](arrete-du-5-septembre-2001-mesp0123164a)
 - [Arrêté du 6 août 2001 (DEFP0101962A)](arrete-du-6-aout-2001-defp0101962a)
 - [Arrêté du 6 août 2001 (EQUZ0101265A)](arrete-du-6-aout-2001-equz0101265a)
 - [Arrêté du 6 avril 2001 (EQUS0100519A)](arrete-du-6-avril-2001-equs0100519a)
