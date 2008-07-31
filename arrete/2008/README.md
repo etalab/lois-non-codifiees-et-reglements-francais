@@ -137,6 +137,7 @@
 - [Arrêté du 23 juin 2008 (ECET0801470A)](arrete-du-23-juin-2008-ecet0801470a)
 - [Arrêté du 23 juin 2008 (MENG0814341A)](arrete-du-23-juin-2008-meng0814341a)
 - [Arrêté du 23 mai 2008 (DEVN0811968A)](arrete-du-23-mai-2008-devn0811968a)
+- [Arrêté du 24 janvier 2008 (AGRG0802102A)](arrete-du-24-janvier-2008-agrg0802102a)
 - [Arrêté du 24 juin 2008 (BCFB0809295A)](arrete-du-24-juin-2008-bcfb0809295a)
 - [Arrêté du 24 juin 2008 (BCFB0809296A)](arrete-du-24-juin-2008-bcfb0809296a)
 - [Arrêté du 24 juin 2008 (DEVA0814476A)](arrete-du-24-juin-2008-deva0814476a)
