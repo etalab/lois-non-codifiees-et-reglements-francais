@@ -1,0 +1,3 @@
+# Article 4
+
+Sans préjudice des dispositions de l'article L. 954-1 du code de l'éducation applicables aux universités bénéficiant de responsabilités et de compétences élargies, un arrêté du ministre chargé de l'enseignement supérieur précise les obligations de service d'enseignement en présence d'étudiants des personnels enseignants de médecine générale. Ces obligations sont fixées par référence aux obligations statutaires de service des enseignants-chercheurs, compte tenu des autres fonctions mentionnées à l'article 2 du présent décret. L'arrêté précise également les modalités de répartition des obligations de service entre ces différentes fonctions.

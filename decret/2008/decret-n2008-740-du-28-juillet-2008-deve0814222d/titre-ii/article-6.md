@@ -1,0 +1,3 @@
+# Article 6
+
+Préalablement à la réalisation d'une opération de raccordement au réseau de distribution de gaz existant, tout gestionnaire de réseau établit un état précis des ouvrages nécessaires au raccordement de tout nouveau client, qu'il lui communique. L'état mentionne notamment la longueur de la canalisation de branchement, le poste de livraison du gaz pour le ou les demandeurs de raccordement et, le cas échéant, tout ou partie de l'extension de la canalisation principale de distribution publique, dès lors qu'elle n'est pas présente au droit de l'emplacement envisagé du poste de livraison ou du compteur.
