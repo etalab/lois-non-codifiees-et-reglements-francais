@@ -382,6 +382,7 @@
 - [Décret n°2008-716 du 18 juillet 2008 (MTST0812513D)](decret-n2008-716-du-18-juillet-2008-mtst0812513d)
 - [Décret n°2008-718 du 18 juillet 2008 (DEFH0809794D)](decret-n2008-718-du-18-juillet-2008-defh0809794d)
 - [Décret n°2008-719 du 18 juillet 2008 (DEFH0809795D)](decret-n2008-719-du-18-juillet-2008-defh0809795d)
+- [Décret n°2004-251 du 19 mars 2004 (INDI0402494D)](decret-n2004-251-du-19-mars-2004-indi0402494d)
 - [Décret n°2007-1120 du 19 juillet 2007 (AGRF0759610D)](decret-n2007-1120-du-19-juillet-2007-agrf0759610d)
 - [Décret n°2007-1123 du 19 juillet 2007 (AGRF0759669D)](decret-n2007-1123-du-19-juillet-2007-agrf0759669d)
 - [Décret n°2007-1791 du 19 décembre 2007 (AGRG0754885D)](decret-n2007-1791-du-19-decembre-2007-agrg0754885d)
