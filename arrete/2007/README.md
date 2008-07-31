@@ -615,7 +615,6 @@
 - [Arrêté du 17 juin 2008 (DEVA0810535A)](arrete-du-17-juin-2008-deva0810535a)
 - [Arrêté du 17 juin 2008 (DEVA0810756A)](arrete-du-17-juin-2008-deva0810756a)
 - [Arrêté du 17 mars 1992 (AGRP9200525A)](arrete-du-17-mars-1992-agrp9200525a)
-- [Arrêté du 17 octobre 2007 (AGRG0768542A)](arrete-du-17-octobre-2007-agrg0768542a)
 - [Arrêté du 17 octobre 2007 (BCFR0762491A)](arrete-du-17-octobre-2007-bcfr0762491a)
 - [Arrêté du 17 septembre 1987 (EQUS8700880A)](arrete-du-17-septembre-1987-equs8700880a)
 - [Arrêté du 17 septembre 2007 (DEFD0764830A)](arrete-du-17-septembre-2007-defd0764830a)
