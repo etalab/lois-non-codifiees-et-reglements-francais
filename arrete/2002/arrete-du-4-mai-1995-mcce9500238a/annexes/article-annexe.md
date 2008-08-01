@@ -88,8 +88,6 @@ Fort de Salses (Languedoc-Roussillon).
 
 Remparts d'Aigues-Mortes, Tour de Constance et Logis du Gouverneur (Languedoc-Roussillon).
 
-Chartreuse de Villeneuve-lès-Avignon (Languedoc-Roussillon).
-
 Remparts et Lices de Carcassonne (Languedoc-Roussillon).
 
 Château d'Assier (Midi-Pyrénées).
@@ -106,7 +104,7 @@ Maison natale du Maréchal Foch (Tarbes, Midi-Pyrénées).
 
 Villa gallo-romaine de Montmaurin (Midi-Pyrénées).
 
-Colonne de la Grande Armée (Wimille, Nord - Pas-de-Calais).
+Colonne de la Grande Armée (Wimille, Nord-Pas-de-Calais).
 
 Château de Carrouges (Basse-Normandie).
 
@@ -146,6 +144,6 @@ Château du Roi René à Tarascon (Provence-Alpes-Côte d'Azur).
 
 Abbaye du Thoronet (Provence-Alpes-Côte d'Azur).
 
-Trophée des Alpes (La Turbie - Provence-Alpes-Côte d'Azur).
+Trophée des Alpes (La Turbie-Provence-Alpes-Côte d'Azur).
 
 Abbaye de Brou (Rhône-Alpes).
