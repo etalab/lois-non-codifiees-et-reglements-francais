@@ -10,6 +10,7 @@
 - [Arrêté du 2 octobre 2006 (METF0611971A)](arrete-du-2-octobre-2006-metf0611971a)
 - [Arrêté du 2 octobre 2006 (SOCF0611981A)](arrete-du-2-octobre-2006-socf0611981a)
 - [Arrêté du 3 janvier 2005 (ECOM0420017A)](arrete-du-3-janvier-2005-ecom0420017a)
+- [Arrêté du 3 juillet 2006 (BUDB0620005A)](arrete-du-3-juillet-2006-budb0620005a)
 - [Arrêté du 3 juillet 2006 (BUDB0630030A)](arrete-du-3-juillet-2006-budb0630030a)
 - [Arrêté du 3 juillet 2006 (MENH0601382A)](arrete-du-3-juillet-2006-menh0601382a)
 - [Arrêté du 3 mai 2006 (MENE0601230A)](arrete-du-3-mai-2006-mene0601230a)

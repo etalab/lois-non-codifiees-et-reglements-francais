@@ -1,0 +1,3 @@
+# Article 5
+
+Le navire sorti de flotte est définitivement radié du fichier de la flotte de pêche et la licence de pêche communautaire qui y était associée est définitivement annulée, conformément aux dispositions de l'article 4 du règlement (CE) n° 498 / 2007 de la Commission du 26 mars 2007 portant modalités d'exécution du règlement (CE) n° 1198 / 2006 du Conseil relatif au Fonds européen pour la pêche. Le navire sorti de flotte est définitivement retiré de la liste des navires autorisés à demander une licence anchois mentionnée à l'article 5 de l'arrêté du 10 octobre 2007 susvisé et le droit à licence qui y est attaché est définitivement supprimé.

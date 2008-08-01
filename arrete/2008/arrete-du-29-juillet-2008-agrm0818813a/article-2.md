@@ -1,0 +1,3 @@
+# Article 2
+
+Les navires éligibles au plan de sortie de flotte sont les chalutiers titulaires de l'option « chalut-prise active » telle que définie à l'article 1er de l'arrêté du 10 octobre 2007 susvisé et les chalutiers éligibles à l'aide à l'arrêt temporaire d'activité lié à la fermeture de la pêche de l'anchois telle que mise en œuvre par l'arrêté du 24 juillet 2008 susvisé. Les navires bénéficiaires doivent figurer sur la liste des navires autorisés à demander une licence anchois mentionnée à l'article 5 de l'arrêté du 10 octobre 2007 portant création d'une licence pour la pêche professionnelle de l'anchois (Engraulis encrasicolus) dans la zone CIEM VIII. Le navire doit être actif au fichier communautaire de la flotte de pêche au 1er août 2008.
