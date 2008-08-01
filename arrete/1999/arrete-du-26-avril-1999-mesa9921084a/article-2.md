@@ -1,6 +1,6 @@
 # Article 2
 
-Le tarif journalier afférent aux soins, dénommé global, en application de l'article 9 du décret susvisé, inclut, outre les charges prévues à l'article 1er :
+En application des articles R. 314-162 et R. 314-167 du code de l'action sociale et des familles, le tarif journalier afférent aux soins, dénommé global, inclut, outre les charges prévues à l'article 1er :
 
 1° Les charges correspondant aux dépenses de rémunération et de prescriptions des médecins généralistes libéraux intervenant dans l'établissement ;
 
