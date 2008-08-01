@@ -1,6 +1,6 @@
 # Article 1
 
-Le titre professionnel d'agent de maintenance en conditionnement d'air est créé.
+Le titre professionnel d'agent de maintenance et d'exploitation en conditionnement d'air est créé.
 
 Il est délivré dans les conditions prévues par l'arrêté du 25 novembre 2002 susvisé.
 

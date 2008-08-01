@@ -1,13 +1,13 @@
 # Article 3
 
-Le titre professionnel de technicien d'intervention en froid commercial et climatisation est composé de quatre unités constitutives dont la liste suit :
+Le titre professionnel technicien (ne) d'intervention en froid commercial et climatisation est composé des quatre unités constitutives dont la liste suit :
 
-1. Etudier, monter et mettre en service des installations monopostes de froid commercial ;
+1. Sélectionner les composants, installer et mettre en service des équipements frigorifiques monopostes.
 
-2. Maintenir des installations monopostes de froid commercial ;
+2. Assurer et organiser la maintenance des équipements frigorifiques monopostes.
 
-3. Etudier, monter, mettre en service et maintenir des équipements de climatisation ;
+3. Organiser l'installation et assurer la mise en service des équipements frigorifiques centralisé.
 
-4. Monter, mettre en service et maintenir des installations frigorifiques centralisées.
+4. Organiser la maintenance préventive et assurer la maintenance corrective de 4e niveau des équipements frigorifiques centralisés.
 
-Elles peuvent être sanctionnées par des certificats de compétences professionnelles (CCP) dans les conditions prévues par l'arrêté du 25 novembre 2002 susvisé.
+Elles peuvent être sanctionnées par des certificats de compétences professionnelles (CCP) dans les conditions prévues par l'arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.

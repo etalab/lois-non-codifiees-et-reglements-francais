@@ -1,13 +1,11 @@
 # Article 3
 
-Le titre professionnel de monteur-dépanneur frigoriste est composé de quatre unités constitutives dont la liste suit :
+Le titre professionnel de monteur-dépanneur frigoriste est composé des trois unités constitutives dont la liste suit :
 
-1. Monter et mettre en service des installations monopostes de froid commercial ;
+1. Installer et mettre en service des équipements frigorifiques monopostes.
 
-2. Maintenir des installations monopostes de froid commercial ;
+2. Réaliser, sur instructions, la maintenance des équipements frigorifiques monopostes.
 
-3. Monter et mettre en service et maintenir des équipements de climatisation ;
+3. Installer, participer à la mise en service et réaliser, sur instructions, la maintenance préventive des équipements frigorifiques centralisés.
 
-4. Monter, aider à la mise en service et réaliser la maintenance préventive des installations frigorifiques centralisées.
-
-Elles peuvent être sanctionnées par des certificats de compétences professionnelles (CCP) dans les conditions prévues par l'arrêté du 25 novembre 2002 susvisé.
+Elles peuvent être sanctionnées par des certificats de compétences professionnelles (CCP) dans les conditions prévues par l'arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
