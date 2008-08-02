@@ -1,0 +1,31 @@
+# Article 1
+
+Lors de la mise en œuvre des mesures de police sanitaire prévues aux articles 7 à 18 de l'arrêté du 1er avril 2008 fixant les mesures techniques relatives à la fièvre catarrhale du mouton susvisé, l'Etat prend en charge les opérations suivantes, dont les montants sont fixés hors taxes, exécutées par les vétérinaires sanitaires :
+
+1° Lors de suspicion de fièvre catarrhale du mouton :
+
+a) Visite des animaux suspects et de l'exploitation, qu'elle soit accompagnée ou non de prélèvements, comprenant :
+
+― les actes nécessaires au traitement de la suspicion ;
+
+― le recensement des animaux présents sur l'exploitation ;
+
+― la prescription des mesures sanitaires à respecter ;
+
+― le rapport de visite.
+
+Par visite effectuée : trois fois le montant de l'acte médical défini par l'ordre des vétérinaires, ou par heure de présence, si la visite dure plus de trente minutes : six fois le montant de l'acte défini par l'ordre des vétérinaires ;
+
+b) Prélèvements destinés au diagnostic de laboratoire :
+
+― par prélèvement de sang dans l'espèce bovine : un cinquième du montant de l'acte médical défini par l'ordre des vétérinaires ;
+
+― par prélèvement de sang dans les espèces ovine et caprine : un dixième du montant de l'acte médical défini par l'ordre des vétérinaires ;
+
+― en cas de nécessité de prélèvements d'organes aux fins d'analyses virologiques, par prélèvement : un cinquième du montant de l'acte médical défini par l'ordre des vétérinaires.
+
+2° En cas d'épizootie : visite des exploitations situées dans les zones de protection et de surveillance et, le cas échéant, réalisation d'une vaccination d'urgence : par heure de présence, six fois le montant de l'acte médical défini par l'ordre des vétérinaires, à l'exclusion de toute autre rémunération pour les actes effectués.
+
+En cas de vaccination d'urgence, le vaccin contre la fièvre catarrhale du mouton est fourni gratuitement par l'administration.
+
+3° Pour les opérations réalisées pour application des mesures prescrites conformément à l'article 23 de l'arrêté du 1er avril 2008 susvisé, les vétérinaires sont rémunérés selon les modalités prévues par l'arrêté du 31 décembre 1990 modifié susvisé.
