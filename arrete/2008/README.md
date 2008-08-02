@@ -1,6 +1,5 @@
 # 2008
 
-- [Arrêté du 2 juillet 2008 (AGRF0815950A)](arrete-du-2-juillet-2008-agrf0815950a)
 - [Arrêté du 2 juillet 2008 (BCFR0817254A)](arrete-du-2-juillet-2008-bcfr0817254a)
 - [Arrêté du 2 juillet 2008 (DEVA0816279A)](arrete-du-2-juillet-2008-deva0816279a)
 - [Arrêté du 2 juillet 2008 (DEVL0816801A)](arrete-du-2-juillet-2008-devl0816801a)
