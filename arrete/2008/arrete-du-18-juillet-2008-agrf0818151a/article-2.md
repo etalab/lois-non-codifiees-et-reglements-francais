@@ -1,0 +1,19 @@
+# Article 2
+
+I. ― Pour bénéficier d'une remise de la majoration de 0,2 % visée au a de l'article 1er, les employeurs concernés doivent, sous peine de forclusion, présenter à la caisse de mutualité sociale agricole, dans le délai de six mois suivant la notification de la majoration dont la remise est sollicitée, une demande écrite précisant les motifs pour lesquels le paiement des cotisations n'a pas pu être effectué sous forme dématérialisée.
+
+La remise est accordée en cas de bonne foi de l'employeur. Lorsque aucune infraction n'a été constatée au cours des vingt-quatre mois précédents et que son montant est inférieur au plafond de la sécurité sociale applicable aux rémunérations ou gains versés par mois, fixé pour l'année civile en cours, la majoration fait l'objet d'une remise automatique.
+
+II. ― Pour bénéficier d'une remise de la majoration de 10 % visée au b de l'article 1er, les adhérents concernés doivent, sous peine de forclusion, présenter à l'organisme créancier, dans le délai de six mois suivant la date de règlement de la totalité des cotisations qui ont donné lieu à l'application de la majoration de retard dont la remise est sollicitée, une demande écrite précisant les motifs qui les ont conduits à formuler à tort la demande prévue à l'article L. 731-22 du code rural et à l'article L. 136-4 du code de la sécurité sociale.
+
+III. ― Pour bénéficier d'une remise des majorations de retard et des pénalités visées aux c et d de l'article 1er, les adhérents concernés doivent, sous peine de forclusion, présenter à l'organisme créancier, dans le délai de six mois suivant la date de règlement de la totalité des cotisations qui ont donné lieu à l'application des majorations de retard ou des pénalités dont la remise est sollicitée, une demande écrite précisant les motifs du retard apporté au règlement des cotisations dues ou à la production des documents exigés.
+
+IV. ― Pour bénéficier d'une remise des majorations de 50 % et 10 % visées au e de l'article 1er, les adhérents doivent, sous peine de forclusion, présenter à l'organisme créancier, dans le délai de six mois suivant l'envoi de la déclaration de revenus dont le défaut d'envoi a donné lieu à l'application de la majoration dont la remise est sollicitée, une demande écrite précisant les motifs du retard apporté à la production du document, ou ayant entraîné la production de la déclaration de revenus incomplète ou inexacte.
+
+V. ― Pour bénéficier d'une remise de la majoration de 10 % visée au f de l'article 1er, les cotisants de solidarité doivent, sous peine de forclusion, présenter à la caisse de mutualité sociale agricole, dans le délai de six mois suivant l'envoi de la déclaration de revenus dont le défaut d'envoi a donné lieu à l'application de la majoration dont la remise est sollicitée, une demande écrite précisant les motifs du retard apporté à la production du document.
+
+L'organisme créancier accuse réception des demandes de remise des majorations et pénalités visées aux I, II III, IV et V dans les conditions prévues par le décret du 6 juin 2001 susvisé.
+
+Les formules d'appel des cotisations ou la facture d'émission des majorations, selon le cas, doivent faire mention de la faculté offerte aux adhérents concernés de demander la remise de ces majorations et indiquer, à peine de nullité, le délai de six mois dont ils disposent pour effectuer leur demande, ainsi que les voies et délais de recours mentionnés à l'article 4.
+
+En cas de recouvrement partiel ou forcé, l'organisme de recouvrement est tenu d'informer les assurés de l'imputation des paiements qui a été effectuée. De plus, lorsque la totalité des cotisations dues est recouvrée, l'organisme doit informer le cotisant qu'il dispose d'un délai de six mois pour présenter une demande de remise des majorations de retard et lui indiquer les voies et délais de recours mentionnés à l'article 4.
