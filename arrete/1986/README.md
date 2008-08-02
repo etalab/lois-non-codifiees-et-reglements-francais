@@ -51,7 +51,6 @@
 - [Arrêté du 8 juillet 1986](arrete-du-8-juillet-1986)
 - [Arrêté du 8 octobre 1986](arrete-du-8-octobre-1986)
 - [Arrêté du 8 septembre 1986](arrete-du-8-septembre-1986)
-- [Arrêté du 9 décembre 1985](arrete-du-9-decembre-1985)
 - [Arrêté du 9 décembre 1986](arrete-du-9-decembre-1986)
 - [Arrêté du 9 juillet 1986](arrete-du-9-juillet-1986)
 - [Arrêté du 9 octobre 1986](arrete-du-9-octobre-1986)

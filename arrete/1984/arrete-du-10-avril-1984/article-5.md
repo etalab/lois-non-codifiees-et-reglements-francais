@@ -1,3 +1,3 @@
 # Article 5
 
-L'arrêté du 1er juin 1953 relatif aux conditions d'entrée des étrangers sur le territoire métropolitain français est abrogé.
+Tout électeur peut se porter candidat en vue des élections au conseil scientifique prévues au premier alinéa de l'article 1er du présent arrêté, au titre du collège auquel il appartient, sous réserve de se trouver au moment du scrutin à plus de quatre ans de l'âge de la retraite.

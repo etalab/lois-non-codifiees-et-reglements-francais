@@ -1,5 +1,3 @@
 # Article 2
 
-Sont dispensés de ce visa pour les séjours ne devant pas excéder trois mois à chaque voyage les ressortissants des Etats ayant conclu avec la France un accord de circulation portant suppression de cette formalité.
-
-Sont également dispensés du passeport et du visa pour circuler dans les limites de la zone frontalière les ressortissants d'Etat limitrophes de la France remplissant les conditions nécessaires pour bénéficier des accords de circulation frontalière.
+Le conseil scientifique est nommé pour une durée de quatre ans. Aucun membre du conseil scientifique ne peut appartenir simultanément à une commission scientifique spécialisée de l'Institut national de la santé et de la recherche médicale ou au conseil scientifique du Centre national de la recherche scientifique, où à une section du Comité national de la recherche scientifique. Nul ne peut exercer deux mandats consécutifs au sein de la même instance scientifique statutaire, ni plus de deux mandats consécutifs en qualité de membres des instances scientifiques prévues aux articles 11, 12, 13, 14, 15 et 16 du décret du 10 novembre 1983 susvisé. Pour l'appréciation de ces mandats, seuls sont pris en compte les mandats effectivement exercés pendant plus d'une année.
