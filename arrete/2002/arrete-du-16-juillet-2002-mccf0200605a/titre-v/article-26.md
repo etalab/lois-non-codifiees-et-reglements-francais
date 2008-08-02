@@ -1,5 +1,9 @@
 # Article 26
 
-Le directeur de l'Ecole du Louvre peut, après avis de la commission de scolarité, autoriser l'accès aux enseignements correspondant à la préparation des diplômes définis par le présent arrêté aux titulaires de certains titres ou diplômes d'études supérieures sanctionnant des enseignements proches de ceux de l'Ecole du Louvre, ainsi qu'à des candidats pouvant justifier d'une expérience professionnelle suffisante dans ces domaines ou dans ceux de la conservation et de la mise en valeur du patrimoine.
+L'Ecole du Louvre décerne trois certificats d'histoire générale de l'art aux étudiants de l'université Paris-Sud-XI ayant obtenu la moyenne aux examens de tronc commun de chacune des trois années du premier cycle :
 
-Ces dispositions ne s'appliquent pas à l'accès en première année du premier cycle.
+- le certificat d'histoire générale de l'art première année (CHGA 1) à l'issue de la première année de premier cycle ;
+
+- le certificat d'histoire générale de l'art deuxième année (CHGA 2) à l'issue de la deuxième année de premier cycle ;
+
+- le certificat d'histoire générale de l'art troisième année (CHGA 3) à l'issue de la troisième année de premier cycle.
