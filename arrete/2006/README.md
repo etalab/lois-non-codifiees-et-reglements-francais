@@ -192,6 +192,7 @@
 - [Arrêté du 24 avril 2006 (BUDD0670013A)](arrete-du-24-avril-2006-budd0670013a)
 - [Arrêté du 24 février 2006 (AGRG0600414A)](arrete-du-24-fevrier-2006-agrg0600414a)
 - [Arrêté du 24 juillet 2006 (JUSK0640135A)](arrete-du-24-juillet-2006-jusk0640135a)
+- [Arrêté du 24 mars 2006 (DEVN0650169A)](arrete-du-24-mars-2006-devn0650169a)
 - [Arrêté du 24 novembre 2005 (AGRG0502608A)](arrete-du-24-novembre-2005-agrg0502608a)
 - [Arrêté du 24 novembre 2006 (FPPA0600138A)](arrete-du-24-novembre-2006-fppa0600138a)
 - [Arrêté du 24 novembre 2006 (FPPA0600139A)](arrete-du-24-novembre-2006-fppa0600139a)
