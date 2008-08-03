@@ -158,7 +158,6 @@
 - [Arrêté du 22 novembre 1994 (MAEF9410044A)](arrete-du-22-novembre-1994-maef9410044a)
 - [Arrêté du 22 novembre 1994 (MAEF9410045A)](arrete-du-22-novembre-1994-maef9410045a)
 - [Arrêté du 22 mai 2006 (BUDL0600073A)](arrete-du-22-mai-2006-budl0600073a)
-- [Arrêté du 22 mai 2008 (DEVS0814045A)](arrete-du-22-mai-2008-devs0814045a)
 - [Arrêté du 23 juillet 2008 (DEVL0817797A)](arrete-du-23-juillet-2008-devl0817797a)
 - [Arrêté du 23 juillet 2008 (MCCL0818110A)](arrete-du-23-juillet-2008-mccl0818110a)
 - [Arrêté du 23 juillet 2008 (MTSS0818247A)](arrete-du-23-juillet-2008-mtss0818247a)
