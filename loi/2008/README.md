@@ -26,4 +26,7 @@
 - [LOI n° 2008-67 du 21 janvier 2008 (MTSX0700051L)](loi-n-2008-67-du-21-janvier-2008-mtsx0700051l)
 - [LOI n° 2008-696 du 15 juillet 2008 (MCCX0400123L)](loi-n-2008-696-du-15-juillet-2008-mccx0400123l)
 - [LOI n° 2008-735 du 28 juillet 2008 (ECEX0774541L)](loi-n-2008-735-du-28-juillet-2008-ecex0774541l)
+- [LOI n° 2008-757 du 1er août 2008 (DEVX0700028L)](loi-n-2008-757-du-1er-aout-2008-devx0700028l)
+- [LOI n° 2008-758 du 1er août 2008 (ECEX0812043L)](loi-n-2008-758-du-1er-aout-2008-ecex0812043l)
+- [LOI n° 2008-759 du 1er août 2008 (BCFX0811618L)](loi-n-2008-759-du-1er-aout-2008-bcfx0811618l)
 - [LOI n° 2008-89 du 30 janvier 2008 (MTSX0760738L)](loi-n-2008-89-du-30-janvier-2008-mtsx0760738l)
