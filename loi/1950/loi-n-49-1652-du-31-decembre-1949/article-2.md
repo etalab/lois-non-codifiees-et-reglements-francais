@@ -4,7 +4,7 @@ Peuvent seules exercer la profession de courtier en vins les personnes remplissa
 
 1° Jouir de leurs droits civils ;
 
-2° Ne pas être frappé d'une incapacité d'exercer une profession commerciale prévue aux articles L. 128-1 et suivants du code de commerce, de la faillite personnelle ou des autres mesures d'interdiction prévues aux articles L. 625-1 et suivants du même code ;
+2° Ne pas être frappé d'une peine d'interdiction, suivant les modalités prévues par l'article 131-27 du code pénal, d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre quelconque, directement ou indirectement, pour son propre compte ou pour le compte d'autrui, une entreprise commerciale ou industrielle ou une société commerciale, d'une mesure de faillite personnelle ou d'une autre interdiction visée aux articles L. 653-1 et suivants du code de commerce ;
 
 3° Etre de nationalité française ou se trouver en situation régulière sur le territoire national ;
 

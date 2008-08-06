@@ -5,7 +5,3 @@ La liberté et la volonté d'entreprendre sont les fondements des activités com
 Le commerce et l'artisanat ont pour fonction de satisfaire les besoins des consommateurs, tant en ce qui concerne les prix que la qualité des services et des produits offerts. Ils doivent participer au développement de l'emploi et contribuer à accroître la compétitivité de l'économie nationale, animer la vie urbaine et rurale et améliorer sa qualité.
 
 Les pouvoirs publics veillent à ce que l'essor du commerce et de l'artisanat permette l'expansion de toutes les formes d'entreprises, indépendantes, groupées ou intégrées, en évitant qu'une croissance désordonnée des formes nouvelles de distribution ne provoque l'écrasement de la petite entreprise et le gaspillage des équipements commerciaux et ne soit préjudiciable à l'emploi.
-
-Dans le respect des orientations définies ci-dessus, le Gouvernement arrête par décret un programme national de développement et de modernisation des activités commerciales et artisanales.
-
-Un rapport sur les orientations de ce programme national de développement et de modernisation des activités commerciales et artisanales est transmis par le Gouvernement au Parlement.

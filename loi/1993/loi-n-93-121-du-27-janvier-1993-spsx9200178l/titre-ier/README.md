@@ -1,6 +1,5 @@
 # Titre Ier : Mesures relatives à la sécurité sociale.
 
-- [Article 3](article-3.md)
 - [Article 9](article-9.md)
 - [Article 15](article-15.md)
 - [Article 20](article-20.md)

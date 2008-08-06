@@ -12,7 +12,11 @@ Toutefois :
 
 a) Lorsque la part relative à l'extension de la contribution est due, en application de l'article L. 332-8 du code de l'urbanisme, au titre de la réalisation d'un équipement public exceptionnel, elle est versée au maître d'ouvrage des travaux par le bénéficiaire de l'autorisation d'occupation ou d'utilisation du sol ;
 
-b) Lorsque la part relative à l'extension de la contribution est due au titre de l'aménagement d'une zone d'aménagement concerté, la part correspondant aux équipements nécessaires à la zone est versée au maître d'ouvrage des travaux par l'aménageur ;
+b) Lorsque la part relative à l'extension de la contribution est due :
+
+- au titre de l'aménagement d'une zone d'aménagement concerté, la part correspondant aux équipements nécessaires à la zone est versée au maître d'ouvrage des travaux par l'aménageur ;
+
+- au titre d'une opération ayant fait l'objet d'un permis de construire, d'un permis d'aménager ou d'une décision de non-opposition à une déclaration préalable, située en dehors d'une zone d'aménagement concerté, la part correspondant aux équipements mentionnés au troisième alinéa de l'article L. 332-15 du code de l'urbanisme est versée au maître d'ouvrage des travaux par le bénéficiaire du permis ou de la décision de non-opposition. La part correspondant à l'extension située hors du terrain d'assiette de l'opération reste due par les personnes mentionnées au quatrième alinéa du présent article ;
 
 c) Lorsque le propriétaire acquitte la participation pour voirie et réseaux en application de la dernière phrase du troisième alinéa de l'article L. 332-11-1 du code de l'urbanisme directement à l'établissement public de coopération intercommunale ou au syndicat mixte compétent, celui-ci est débiteur de la part relative à l'extension de la contribution, dans les conditions de délais prévues au quatrième alinéa du présent article.
 
