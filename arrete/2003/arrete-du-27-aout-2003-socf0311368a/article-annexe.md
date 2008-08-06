@@ -1,8 +1,10 @@
 # Article Annexe
 
-**INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES**Intitulé :
+**INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES**
 
-Titre professionnel : stratifieur multiprocédés en matériaux composites.
+Intitulé :
+
+Titre professionnel : stratifieur (se) multiprocédés en matériaux composites.
 
 Niveau : V.
 
@@ -10,85 +12,85 @@ Code NSF : 225 s.
 
 Résumé du référentiel d'emploi
 
-Le stratifieur multiprocédés en matériaux composites réalise des pièces en matériaux composites (mariage de renforts en fibre de verre et de résine synthétique durcissant après application dans un moule), de tailles diverses (de 10 cm à 10 m), en petites et moyennes séries.
+Le stratifieur multiprocédés en matériaux composites réalise des pièces en matériaux composites (mariage de renforts en fibre de verre et de résine synthétique), de tailles diverses, en petites et moyennes séries, pour la construction de bateaux, véhicules, mobiliers urbains, cuves...
 
 Son travail consiste à :
 
-- préparer le dosage des résines ;
+-préparer le dosage des résines ;
 
-- découper les éléments de renfort en fibre de verre ;
+-découper les éléments de renfort en fibre de verre ;
 
-- réaliser le moulage :
+-réaliser le moulage (activité principale) :
 
-- soit manuellement par superposition de couches de renfort que l'on imprègne de résine liquide (pinceau ou pistolet) dont on évacue les bulles à l'aide de rouleaux ;
+-soit dans un moule ouvert, par superposition manuelle de couches de renfort que l'on imprègne de résine liquide ou par projection simultanée de résine et de renfort à l'aide d'un pistolet spécifique ;
 
-- soit en injectant la résine, à l'aide de pompes, dans un moule fermé préalablement garni de renforts.
+-soit dans un moule fermé garni de renforts, par alimentation en résine à l'aide de pompes et / ou de dispositifs de mise sous vide ;
 
-Après démoulage, l'opérateur découpe les contours et ouvertures de la pièce et assure sa finition à l'aide d'outillages portatifs (disqueuse, perceuse, ponceuse).
+-découper les contours et ouvertures de la pièce et assurer sa finition à l'aide d'outillages portatifs (meuleuse, perceuse, ponceuse).
 
-L'opérateur régleur en plastiques armés travaille en atelier, en présence d'odeurs particulières et essentiellement en station debout. L'environnement de travail, utilisant des produits salissants, nécessite le port de gants et de masque (ponctuellement).
+Le stratifieur multiprocédés en matériaux composites travaille en atelier, en présence d'odeurs particulières, essentiellement en station debout.L'environnement de travail, utilisant des produits salissants et nocifs, nécessite souvent le port de gants et ponctuellement de masque.
 
-Il travaille soit à la journée, soit en 2 x 8.
+Il (elle) travaille soit à la journée, soit en 2 × 8.
 
-Compétences attestées et descriptif
+Capacités attestées et descriptif
 
 des composantes de la certification
 
-1. Réaliser les préparations nécessaires à la fabrication
+1. Stratifier au contact des pièces en matériaux composites
 
-de pièces en matériaux composites
+Préparer la résine et les renforts pour une production au contact de pièces en matériaux composites.
 
-Préparer les résines pour une production de pièces en matériaux composites.
+Préparer un moule pour la fabrication de pièces en matériaux composites, le gelcoater au pistolet ou avec une machine airless.
 
-Préparer les renforts pour une production de pièces en matériaux composites.
+Mouler au contact une pièce en matériaux composites polyester / verre, monolithique ou sandwich, avec imprégnation manuelle ou à la machine airless.
 
-Préparer les outillages pour une production de pièces en matériaux composites.
+2. Mouler par projection simultanée
 
-2. Mouler au contact des pièces en matériaux composites
+des pièces en matériaux composites
 
-Gel coater au pinceau ou au pistolet sur un moule.
+Préparer un moule pour la fabrication de pièces en matériaux composites, le gelcoater au pistolet ou avec une machine airless.
 
-Stratifier au contact une pièce en matériaux composites polyester/verre.
+Préparer, démarrer, régler et arrêter une machine de projection simultanée.
 
-Stratifier au contact avec mise en oeuvre des techniques de sous-vide une pièce en matériaux composites.
+Fabriquer par projection simultanée des pièces en matériaux composites.
 
-Stratifier au contact des pièces en matériaux composites, composées de différents types de renforts et matrices.
+3. Produire par injection et infusion
 
-3. Usiner et assurer la finition des pièces
+des pièces en matériaux composites
 
-en matériaux composites
+Préparer la résine et les renforts pour une production de pièces en matériaux composites par injection et par infusion.
 
-Usiner des pièces en matériaux composites à l'aide d'outillages portatifs.
+Préparer un moule pour la fabrication de pièces en matériaux composites, le gelcoater au pistolet ou avec une machine airless.
 
-Réaliser l'assemblage de pièces en matériaux composites par collage ou fixation mécanique.
+Préparer les équipements et les accessoires pour une production de pièces en matériaux composites par injection et par infusion.
 
-Réparer et assurer la finition de pièces en matériaux composites.
+Draper un moule avec des renforts prédécoupés, le fermer et le raccorder aux équipements, pour la réalisation de pièces en matériaux composites par injection ou infusion.
 
-Manutentionner et préparer les pièces pour expédition à l'aide des moyens adaptés.
+Conduire les opérations d'injection ou d'infusion de pièces en matériaux composites.
+
+4. Réaliser des usinages et la finition
+
+sur des pièces en matériaux composites
+
+Réaliser des usinages à l'aide d'outillages portatifs, sur des pièces en matériaux composites.
+
+Réparer et réaliser la finition de pièces en matériaux composites.
+
+Assembler et renforcer localement, par collage, des pièces en matériaux composites.
 
 Réaliser le contrôle final et le conditionnement des pièces en matériaux composites.
 
-4. Mouler des pièces en matériaux composites
+Secteurs d'activités ou types d'emploi
 
-par projection simultanée et injection
+accessibles par le détenteur du titre
 
-Gel coater et mouiller avec une machine airless.
+Entreprises de plasturgie (matériaux composites) sous-traitantes généralement de petite taille ou entreprises de taille plus importante qui fabriquent leurs propres produits, comme dans le secteur du nautisme ou de la carrosserie (automobile, ferroviaire).
 
-Fabriquer des pièces en matériaux composites par projection simultanée.
+Stratifieur (se), gelcoateur (se), projeteur (se) sur machine de projection simultanée, mouleur (se) de composites par injection ou infusion, finisseur (se) de pièces composites.
 
-Fabriquer des pièces en matériaux composites par injection basse pression.
+Code ROME :
 
-Fabriquer des pièces en matériaux composites par injection sous vide.
-
-Secteur d'activité ou type d'emploi
-
-accessible par le détenteur du titre
-
-Entreprises sous-traitantes généralement de petite taille, ou entreprises de taille plus importante qui fabriquent leurs propres produits, comme dans le secteur du nautisme ou de la carrosserie.
-
-Code(s) ROME :
-
-44143 - Stratifieur.
+44143-Stratifieur-mouliste.
 
 Réglementation de l'activité :
 
@@ -100,8 +102,6 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
-
-Arrêté du 25 novembre 2002.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
