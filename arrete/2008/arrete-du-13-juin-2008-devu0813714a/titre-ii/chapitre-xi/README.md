@@ -1,0 +1,3 @@
+# CHAPITRE XI : AUTRES CARACTERISTIQUES
+
+- [Article 42](article-42.md)
