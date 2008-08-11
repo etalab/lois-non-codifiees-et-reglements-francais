@@ -1,3 +1,0 @@
-# Article 6
-
-L'autorité chargée du contrôle financier évalue, dans le champ de compétence qui est le sien, les circuits et procédures mis en place pour la production des actes de dépense et du plan prévisionnel des effectifs. Elle définit son programme annuel d'évaluation, en fonction de la nature des actes. Les conclusions de cette évaluation sont transmises au responsable de BOP et au responsable de programme concernés, ainsi qu'au directeur de l'évaluation de la performance et des affaires financières et immobilières. Si l'évaluation est réalisée en service déconcentré, elle peut être transmise, en outre, à l'autorité chargée du contrôle financier central. Les protocoles prévus à l'article 8 organisent la coordination des évaluations avec le ministère.
