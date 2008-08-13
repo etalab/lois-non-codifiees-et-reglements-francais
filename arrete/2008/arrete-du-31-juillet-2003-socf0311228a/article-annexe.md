@@ -1,60 +1,92 @@
 # Article Annexe
 
-**INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES**
+INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
 Intitulé :
 
-Titre professionnel : agent de propreté et d'hygiène.
+Titre professionnel : agent (e) de propreté et d'hygiène.
 
-Niveau V.
+Niveau : V.
 
-Code NSF : 343 t.
+Code NSF : 343 T (nettoyage de locaux, décontamination des locaux hospitaliers et industriels, assainissement urbain).
 
 Résumé du référentiel d'emploi
 
-L'agent de propreté et d'hygiène assure le nettoyage, l'entretien ainsi que la mise et la remise en état de différents types de locaux (bureaux, salles, blocs sanitaires, halls, couloirs, montées d ` escalier, etc.) dans des espaces publics ou privés (administrations, entreprises, gares, transports, domiciles privés).
+L'agent (e) de propreté et d'hygiène (APH) assure la propreté et l'hygiène de locaux à usage professionnel, d'habitats collectifs ou éventuellement privatifs.
 
-Il organise son travail en fonction des consignes inscrites dans un cahier des charges. Il utilise les produits, le matériel, les machines (monobrosse, autolaveuse...) mis à sa disposition. Il travaille en respectant les méthodes professionnelles et en tenant compte des règles de sécurité.
+Il (elle) réalise une prestation de service destinée à répondre aux besoins exprimés par un client donneur d'ordres-externe ou interne-et définis dans le cadre d'un cahier des charges.
 
-Il travaille sous la responsabilité d'un chef d'équipe à qui il rend compte de la réalisation des travaux, des difficultés rencontrées ainsi que des dysfonctionnements remarqués.
+A partir des consignes de ce cahier des charges, l'APH organise sa prestation en respectant, pour chaque technique mise en œuvre, les modes opératoires dans chacune des étapes du chantier : préparation, réalisation, finition et rangement.
 
-Il travaille généralement en dehors des horaires conventionnels, tôt le matin, tard le soir. Lors des travaux exceptionnels de remise en état, il intervient généralement en équipe, aux dates et horaires négociés avec le client (éventuellement la nuit, le week-end ou pendant les congés d'été).
+L'activité relative à l'entretien courant est constituée des tâches principales suivantes : le dépoussiérage des sols par balayage ou aspiration, le lavage des sols, le lavage des vitres à faible hauteur, la désinfection de certaines surfaces, l'entretien courant des sanitaires.
 
-Capacités attestées et descriptif des composantes de la certification
+L'activité relative à l'entretien mécanisé et / ou à la remise en état mécanisée des surfaces est constituée des tâches suivantes : lavage mécanisé des sols durs (passage de l'autolaveuse ou de la monobrosse), entretien des sols au moyen des techniques de lustrage, des méthodes spray, d'injection-extraction, remise en état des sols au moyen des techniques de décapage au mouillé ou à sec et du shampoing moquette.
 
-1. Nettoyer et entretenir des locaux en utilisant des techniques manuelles
+Quel que soit le lieu d'intervention, l'APH respecte les règles de sécurité définies, tant dans l'organisation et la préparation du chantier que dans l'utilisation des produits et des matériels.
 
-Réaliser l'entretien d'une série de bureaux.
+Pour des interventions dans des locaux risquant une bio-contamination (secteurs de l'agroalimentaire, médico-social ou hospitalier...), il (elle) se conforme strictement aux protocoles requis.
 
-Réaliser l'entretien d'un ensemble sanitaire.
+Il (elle) assure un suivi des stocks de produits et d'accessoires et transmet l'état des stocks à son responsable.
 
-2. Nettoyer et entretenir des locaux en utilisant des techniques mécanisées
+Il (elle) maintient son matériel en état de propreté et en assure la maintenance de premier niveau.
 
-Effectuer l'entretien mécanisé de sols protégés.
+Il (elle) contrôle ses prestations en vérifiant l'atteinte du niveau de qualité requis (autocontrôle).
 
-Effectuer un lavage mécanisé des sols.
+Il (elle) informe son responsable de la réalisation de sa prestation et des difficultés ou des incidents rencontrés.
 
-Effectuer l'entretien mécanisé des sols textiles.
+L'intervention peut se faire en intérieur ou en extérieur, en présence ou non de l'usager des lieux.
 
-3. Mettre ou remettre en état un sol en utilisant des techniques mécanisées
+Dans les entreprises prestataires, l'APH peut intervenir dans une même journée sur plusieurs chantiers de nettoyage de différents types. Ces chantiers peuvent être distants les uns des autres.
 
-Remettre en état un sol textile.
+L'APH travaille seul ou en équipe. Il (elle) intervient en tenant compte des règles de fonctionnement du site et notamment du règlement intérieur.
 
-Remettre en état des sols protégés.
+Les horaires peuvent se situer hors des horaires habituels de travail, selon la nature de l'activité.
 
-Remettre en état des marbres et pierres marbrières par cristallisation.
+Capacités attestées et descriptif
 
-Secteurs d'activités ou types d'emploi accessibles par le détenteur du titre
+des composantes de la certification
 
-Tous secteurs d'activité, et plus particulièrement les entreprises de propreté.
+1. Réaliser une prestation de service d'entretien manuel
+
+adaptée aux locaux, aux surfaces et à leur utilisation
+
+Réaliser par des méthodes manuelles l'entretien courant de locaux à usage professionnel ou privatif.
+
+Réaliser par des méthodes manuelles l'entretien courant des sanitaires.
+
+Réaliser par des méthodes manuelles l'entretien de locaux soumis à des normes ou contraintes spécifiques.
+
+2. Réaliser une prestation de service d'entretien mécanisé et / ou de remise en état mécanisée adaptée aux locaux, aux surfaces et à leur utilisation
+
+Réaliser par des méthodes mécanisées le lavage des surfaces dures.
+
+Entretenir ou remettre en état des sols souples protégés en utilisant des méthodes mécanisées.
+
+Entretenir ou remettre en état des surfaces textiles en utilisant des techniques mécanisées.
+
+Secteurs d'activités ou types d'emploi
+
+accessibles par le détenteur du titre
+
+L'emploi s'exerce dans des milieux professionnels très diversifiés, dans le cadre d'une prestation externalisée ou non à une entreprise de nettoyage :
+
+-espaces d'activité tertiaire (bureaux, écoles, gymnases) ou commerciale ;
+
+-structures médico-sociales d'accueil et / ou de soins de personnes, structures hospitalières ou médicalisées ;
+
+-entreprises industrielles ou de transport ;
+
+-éventuellement locaux d'habitation collectifs ou de particuliers.
 
 Code ROME :
 
-11211-Nettoyeur de locaux et de surfaces.
+11211-Agent (e) de nettoyage.
 
 Réglementation de l'activité :
 
 Néant.
+
+La présente certification est accessible à compter du 13 août 2008.
 
 Autorité responsable de la certification :
 
@@ -62,8 +94,6 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Code de l'éducation, notamment les articles L. 335-5, L. 335-6 et R. 335-13, R. 338-2 ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
-
-Arrêté du 25 novembre 2002.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
