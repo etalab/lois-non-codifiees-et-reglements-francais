@@ -23,7 +23,6 @@
 - [Décret n°63-146 du 18 février 1963](decret-n63-146-du-18-fevrier-1963)
 - [Décret n°63-280 du 19 mars 1963](decret-n63-280-du-19-mars-1963)
 - [Décret n°63-303 du 19 mars 1963](decret-n63-303-du-19-mars-1963)
-- [Décret n°63-585 du 20 juin 1963](decret-n63-585-du-20-juin-1963)
 - [Décret n°63-501 du 20 mai 1963](decret-n63-501-du-20-mai-1963)
 - [Décret n°64-171 du 21 février 1964](decret-n64-171-du-21-fevrier-1964)
 - [Décret n°63-424 du 22 avril 1963](decret-n63-424-du-22-avril-1963)
