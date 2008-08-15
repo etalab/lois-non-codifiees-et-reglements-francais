@@ -1,0 +1,3 @@
+# Article 2
+
+Le directeur des personnels et de l'adaptation de l'environnement professionnel, le directeur général des finances publiques, le directeur général des douanes et droits indirects, le directeur général de l'Institut national de la statistique et des études économiques, le directeur général de la concurrence, de la consommation et de la répression des fraudes, le directeur général des entreprises et le chef de service du contrôle général économique et financier sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
