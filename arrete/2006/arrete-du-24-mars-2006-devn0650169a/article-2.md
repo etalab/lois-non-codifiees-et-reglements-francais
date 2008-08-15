@@ -341,9 +341,7 @@ L'ouverture de la chasse au gibier d'eau est fixée comme suit : <table>
 <td valign="top" width="170">
 <p>15 septembre à 7 heures</p>
 </td>
-<td valign="top" width="170">
-<p>15 septembre à 7 heures </p>
-</td>
+<td valign="top" width="170">15 septembre à 7 heures </td>
 </tr>
 <tr>
 <td valign="top" width="170">
@@ -355,7 +353,9 @@ L'ouverture de la chasse au gibier d'eau est fixée comme suit : <table>
 <td valign="top" width="170">
 <p>15 septembre à 7 heures</p>
 </td>
-<td valign="top" width="170">15 septembre à 7 heures </td>
+<td valign="top" width="170">
+<p>15 septembre à 7 heures </p>
+</td>
 </tr>
 <tr>
 <td valign="top" width="170">
@@ -566,13 +566,13 @@ L'ouverture de la chasse au gibier d'eau est fixée comme suit : <table>
 <p>Vanneau huppé</p>
 </td>
 <td valign="top" width="170">
-<p>15 octobre</p>
+<p>15 octobre à 7 h 30</p>
 </td>
 <td valign="top" width="170">
-<p>15 octobre</p>
+<p>15 octobre à 7 h 30</p>
 </td>
 <td valign="top" width="170">
-<p>15 octobre</p>
+<p>15 octobre à 7 h 30</p>
 </td>
 </tr>
 <tr>
@@ -580,7 +580,7 @@ L'ouverture de la chasse au gibier d'eau est fixée comme suit : <table>
 <p>(**) Domaine public maritime des départements côtiers de la façade maritime de l'Atlantique, de la Manche et de la mer du Nord, à l'exception des étangs et des plans d'eau salés reliés ou non à la mer.</p>
 <p>Partie de l'estuaire de la Gironde qui comprend la partie du domaine public fluvial qui est située entre le domaine public maritime et la limite de salure des eaux et qui inclut l'estran et les îles jusqu'à la limite des plus hautes eaux avant débordement.</p>
 <p>Etangs suivants de la Gironde et des Landes : étangs du Porge, étang de Hourtin-Carcans, étang de Cazaux et de Sanguinet, étang du Cousseau, étang de Lacanau, étang de La Forge-Uza, étang de Moïsan, étangs de la Maillouèyre, étang des dunes domaniales de Moliets et Maa, lac de Moliets, lac de la Prade, lac de Hardy, lac Blanc, étang Noir, étang d'Irieu, lac du Turc, étang de Garros, étang d'Aureilhan, étang de Parentis-Biscarrosse, étang de Pontenx-les-Forges, étang de Léon et étang de Soustons.</p>
-<p>(***) Jusqu'au dernier samedi d'août, sur les seules prairies humides et les zones de marais non asséchées spécifiquement aménagées pour la chasse de ces deux espèces, par la réalisation de platières et la mise en eau, entre 10 heures et 17 heures.</p>
+<p>(***) Jusqu'au premier jour de la troisième décade d'août à 6 heures, sur les seules prairies humides et les<br/>zones de marais non asséchées spécifiquement aménagées pour la chasse de ces deux espèces, par la réalisation<br/>de platières et la mise en eau, entre 10 heures et 17 heures.</p>
 </td>
 </tr>
 </tbody>
