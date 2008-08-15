@@ -10,7 +10,9 @@ Audit comptable et financier :
 
 Définition et objectifs ;
 
-Principes et normes comptables, sources et organismes émetteurs ;    Normes d'audit, organismes émetteurs (nationaux et internationaux).
+Principes et normes comptables, sources et organismes émetteurs ;
+
+Normes d'exercice professionnel et normes internationales d'audit, organismes émetteurs (nationaux et internationaux).
 
 Nature et conditions d'exercice des missions du commissaire aux comptes :
 
@@ -126,7 +128,7 @@ Organisation professionnelle du commissariat aux comptes et déontologie.
 
 Organisation de la profession et statut professionnel des commissaires aux comptes.
 
-Ethique professionnelle et comportement.
+Déontologie et indépendance.
 
 Organisation judiciaire.
 
@@ -224,6 +226,8 @@ Décret n° 83-1020 du 29 novembre 1983 ;
 
 Plan comptable général.
 
+Normes comptables internationales.
+
 Les comptes consolidés.
 
 L'évaluation des entreprises.
@@ -270,7 +274,7 @@ Les fonctions administratives, comptables et financières ;
 
 Contrôle de gestion.
 
-La finance d'entreprise :
+Analyse financière et finance d'entreprise :
 
 Analyse de la situation financière (résultat, structure, risques financiers) ;
 
