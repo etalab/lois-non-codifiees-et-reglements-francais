@@ -14,8 +14,8 @@ Liste des emplois de chef des services des systèmes d'information et de communi
 <br/>DÉSIGNATION DE L'EMPLOI <br/>
 </th>
 <th>
-<br/>NOMBRE <br/>
-<br/>de points NBI <br/>
+<br/>NOMBRE <p>de points NBI <br/>
+</p>
 </th>
 </tr>
 <tr>
@@ -65,8 +65,8 @@ Liste des emplois de chef des services des systèmes d'information et de communi
 <br/>DÉSIGNATION DE L'EMPLOI <br/>
 </th>
 <th>
-<br/>NOMBRE <br/>
-<br/>de points NBI <br/>
+<br/>NOMBRE <p>de points NBI <br/>
+</p>
 </th>
 </tr>
 <tr>
@@ -174,17 +174,6 @@ Liste des emplois de chef des services des systèmes d'information et de communi
 </td>
 <td align="center">
 <br/>Chef du pôle de sécurité des systèmes d'information. <br/>
-</td>
-<td align="center">
-<br/>40 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>SDSIC de Loire-Atlantique. <br/>
-</td>
-<td align="center">
-<br/>Chef du SDSIC de Loire-Atlantique. <br/>
 </td>
 <td align="center">
 <br/>40 <br/>

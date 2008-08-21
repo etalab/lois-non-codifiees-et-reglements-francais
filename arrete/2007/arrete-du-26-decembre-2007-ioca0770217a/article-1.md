@@ -178,17 +178,6 @@ Liste des emplois de chef des services des systèmes d'information et de communi
 </tr>
 <tr>
 <td align="center">
-<br/>SDSIC de Loire-Atlantique. <br/>
-</td>
-<td align="center">
-<br/>Chef du SDSIC de Loire-Atlantique. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
 <br/>SDSIC de l'Essonne. <br/>
 </td>
 <td align="center">

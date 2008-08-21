@@ -297,7 +297,6 @@
 - [Arrêté du 9 février 2007 (DACH0700001A)](arrete-du-9-fevrier-2007-dach0700001a)
 - [Arrêté du 9 février 2007 (DEFD0700413A)](arrete-du-9-fevrier-2007-defd0700413a)
 - [Arrêté du 9 février 2007 (MJSK0770037A)](arrete-du-9-fevrier-2007-mjsk0770037a)
-- [Arrêté du 9 janvier 2007 (DEVG0700009A)](arrete-du-9-janvier-2007-devg0700009a)
 - [Arrêté du 9 juillet 2007 (AGRE0759790A)](arrete-du-9-juillet-2007-agre0759790a)
 - [Arrêté du 9 juillet 2007 (AGRE0759797A)](arrete-du-9-juillet-2007-agre0759797a)
 - [Arrêté du 9 juillet 2007 (DEVA0756306A)](arrete-du-9-juillet-2007-deva0756306a)
