@@ -2,8 +2,6 @@
 
 LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRALE ET TAUX DE LA NOUVELLE BONIFICATION INDICIAIRE AFFECTÉE À CES EMPLOIS
 
-<div align="center">
-
 <table>
 <tbody>
 <tr>
@@ -11,7 +9,7 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 </th>
 </tr>
 <tr>
-<th colspan="3">Conseillers d'administration dans les directions et services de l'administration centrale du ministère de l'intérieur et de l'outre-mer,<br/>de la préfecture de Paris et de la préfecture de police suivants<br/>
+<th colspan="3">Conseillers d'administration de l'intérieur et de l'outre-mer exerçant les fonctions suivantes dans les directions et services d'administration centrale du ministère de l'intérieur, de l'outre-mer et des collectivités territoriales, de la préfecture de Paris, de la préfecture de police et du ministère de l'immigration, de l'intégration, de l'identité nationale et du développement solidaire.<br/>
 </th>
 </tr>
 <tr>
@@ -31,7 +29,8 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 <tr>
 <td align="center">Direction des libertés publiques et des affaires juridiques. <br/>
 </td>
-<td align="center">Chef du bureau de la nationalité. <br/>
+<td align="center">
+<br/>Chef du bureau de la nationalité, des titres d'identité et de voyage. <br/>
 </td>
 <td align="center">60<br/>
 </td>
@@ -40,26 +39,24 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 <td align="center">
 <br/>
 </td>
-<td align="center">Adjoint au chef du bureau du séjour. <br/>
+<td align="center">Chef du bureau du contentieux des polices administratives.<br/>
 </td>
-<td align="center">30<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-</td>
-<td align="center">Adjoint au chef du bureau des procédures d'éloignement. <br/>
-</td>
-<td align="center">30<br/>
+<td align="center">60<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
 <br/>
 </td>
-<td align="center">Chef du bureau du contentieux des polices et réglementations administratives et des libertés publiques.<br/>
+<td align="center">Chef du bureau de la responsabilité de l'administration, de l'assurance et des affaires financières.<br/>
 </td>
+<td align="center">50</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">Chef du bureau de la sécurité et de la réglementation routières.</td>
 <td align="center">50<br/>
 </td>
 </tr>
@@ -67,8 +64,8 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 <td align="center">
 <br/>
 </td>
-<td align="center">Chef du bureau de la responsabilité de l'administration, des dommages et de l'assurance. <br/>
-</td>
+<td align="center">
+<br/>Chef du service du fichier national des permis de conduire.</td>
 <td align="center">30<br/>
 </td>
 </tr>
@@ -76,28 +73,9 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 <td align="center">
 <br/>
 </td>
-<td align="center">Chef du bureau de la sécurité et de la réglementation routières.<br/>
+<td align="center">Chef de cabinet. <br/>
 </td>
-<td align="center">30<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-</td>
-<td align="center">Chef du service du fichier national des permis de conduire. <br/>
-</td>
-<td align="center">50<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-</td>
-<td align="center">Chef de cabinet.<br/>
-</td>
-<td align="center">30<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">Direction de la défense et de la sécurité civiles.<br/>
@@ -146,7 +124,7 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 <td align="center">
 <br/>
 </td>
-<td align="center">Chef du bureau du budget, de la programmation et des finances. <br/>
+<td align="center">Chef du bureau du budget et de la programmation financière. <br/>
 </td>
 <td align="center">30<br/>
 </td>
@@ -155,8 +133,7 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 <td align="center">
 <br/>
 </td>
-<td align="center">Chef du bureau des personnels et des métiers.<br/>
-</td>
+<td align="center">Chef du bureau du personnel et des compétences.</td>
 <td align="center">30<br/>
 </td>
 </tr>
@@ -231,7 +208,7 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 <td align="center">
 <br/>
 </td>
-<td align="center">Chef du bureau des moyens de l'évaluation et de la prospective. <br/>
+<td align="center">Chef du bureau des affaires financières et de l'évaluation de la dépense. <br/>
 </td>
 <td align="center">30<br/>
 </td>
@@ -413,7 +390,7 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 <tr>
 <td/>
 <td>
-<p align="center">Chef de la division des personnels et de la logistique. </p>
+<p align="center">Chef du pôle de l'action économique et de l'emploi. </p>
 </td>
 <td>
 <p align="center">30</p>
@@ -671,7 +648,27 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 <td align="center">30<br/>
 </td>
 </tr>
+<tr>
+<td>
+<p align="center">Ministère de l'immigration, de l'intégration, de l'identité nationale et du développement solidaire. </p>
+</td>
+<td>
+<p align="center"> Chef du bureau du droit de l'éloignement.</p>
+</td>
+<td>
+<p align="center"> 30</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td>
+<p align="center"> Chef du département de l'asile à la frontière et de l'admission au séjour.</p>
+</td>
+<td>
+<p align="center"> 30</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-</div>
