@@ -391,6 +391,8 @@
 - [Décret n°2008-783 du 18 août 2008 (ECEL0817192D)](decret-n2008-783-du-18-aout-2008-ecel0817192d)
 - [Décret n°2008-784 du 18 août 2008 (SJSP0811707D)](decret-n2008-784-du-18-aout-2008-sjsp0811707d)
 - [Décret n°2008-785 du 18 août 2008 (SJSS0814482D)](decret-n2008-785-du-18-aout-2008-sjss0814482d)
+- [Décret n°2008-786 du 18 août 2008 (JUSC0774361D)](decret-n2008-786-du-18-aout-2008-jusc0774361d)
+- [Décret n°2008-787 du 18 août 2008 (ESRS0814598D)](decret-n2008-787-du-18-aout-2008-esrs0814598d)
 - [Décret n°2004-251 du 19 mars 2004 (INDI0402494D)](decret-n2004-251-du-19-mars-2004-indi0402494d)
 - [Décret n°2007-1120 du 19 juillet 2007 (AGRF0759610D)](decret-n2007-1120-du-19-juillet-2007-agrf0759610d)
 - [Décret n°2007-1123 du 19 juillet 2007 (AGRF0759669D)](decret-n2007-1123-du-19-juillet-2007-agrf0759669d)
