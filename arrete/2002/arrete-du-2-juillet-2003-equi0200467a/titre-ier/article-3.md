@@ -16,4 +16,4 @@ L'horaire variable bénéficie, dans chacun des systèmes pivots, du régime de 
 
 Au-delà de la modulation quotidienne de leur temps de travail effectif, les agents peuvent utiliser le dispositif de crédit-débit pour s'absenter une journée ou une demi-journée.
 
-La date de quatre jours RTT est fixée chaque année par site géographique, à l'exception de l'Ecole nationale de météorologie qui peut bénéficier de ses propres jours RTT, après avis des comités techniques paritaires compétents. La moitié des jours RTT, au-delà des quatre dont la date est fixée par site géographique, peuvent être pris dans les mêmes conditions que les congés annuels.
+La date de trois jours RTT est fixée chaque année par site géographique, à l'exception de l'Ecole nationale de météorologie qui peut bénéficier de ses propres jours RTT, après avis des comités techniques paritaires compétents. La moitié des jours RTT, au-delà des trois dont la date est fixée par site géographique, peuvent être pris dans les mêmes conditions que les congés annuels.
