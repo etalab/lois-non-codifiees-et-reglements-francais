@@ -1,15 +1,17 @@
 # Article 2
 
-Le comité directeur de la structure intégrée du maintien en condition opérationnelle des matériels aéronautiques du ministère de la défense comprend six membres :
+Le chef d'état-major des armées préside le comité directeur de la structure intégrée du maintien en condition opérationnelle des matériels aéronautiques du ministère de la défense.
 
-Le chef d'état-major des armées ;
+Sont membres de ce comité, outre son président :
 
-Le délégué général pour l'armement ;
+1. Le délégué général pour l'armement ;
 
-Le chef d'état-major de l'armée de terre ;
+2. Le chef d'état-major de l'armée de terre ;
 
-Le chef d'état-major de la marine ;
+3. Le chef d'état-major de la marine ;
 
-Le chef d'état-major de l'armée de l'air ;
+4. Le chef d'état-major de l'armée de l'air ;
 
-Le directeur général de la gendarmerie nationale.
+5. Le directeur général de la gendarmerie nationale.
+
+Ces autorités peuvent se faire représenter.
