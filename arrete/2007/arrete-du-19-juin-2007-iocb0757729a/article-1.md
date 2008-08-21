@@ -26,17 +26,17 @@ Educateurs territoriaux de jeunes enfants ;
 
 Moniteurs-éducateurs territoriaux ;
 
-Rééducateurs territoriaux ;
-
-Assistants territoriaux médico-techniques ;
-
 Agents territoriaux spécialisés des écoles maternelles ;
 
 Animateurs territoriaux ;
 
 Adjoints d'animation territoriaux ;
 
-Educateurs territoriaux des activités physiques et sportives.
+Educateurs territoriaux des activités physiques et sportives ;
+
+Cadres territoriaux de santé infirmiers, rééducateurs et assistants médico-techniques ;
+
+Puéricultrices cadres territoriaux de santé.
 
 Pour l'application des articles 2 et 4 du décret du 10 décembre 1996 susvisé, ces commissions sont compétentes pour se prononcer sur les demandes d'équivalences de diplômes pour l'accès à tous les cadres d'emplois de la fonction publique territoriale.
 
