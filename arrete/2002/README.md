@@ -332,7 +332,6 @@
 - [Arrêté du 12 avril 2002 (AGRG0200794A)](arrete-du-12-avril-2002-agrg0200794a)
 - [Arrêté du 12 avril 2002 (ECOF0200009A)](arrete-du-12-avril-2002-ecof0200009a)
 - [Arrêté du 12 avril 2002 (EQUT0200679A)](arrete-du-12-avril-2002-equt0200679a)
-- [Arrêté du 12 avril 2002 (INTB0200126A)](arrete-du-12-avril-2002-intb0200126a)
 - [Arrêté du 12 avril 2002 (INTD0200185A)](arrete-du-12-avril-2002-intd0200185a)
 - [Arrêté du 12 décembre 2002 (DEFD0202515A)](arrete-du-12-decembre-2002-defd0202515a)
 - [Arrêté du 12 décembre 2002 (ECOC0200156A)](arrete-du-12-decembre-2002-ecoc0200156a)
