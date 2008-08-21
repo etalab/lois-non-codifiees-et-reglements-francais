@@ -13,12 +13,8 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'
 <tr>
 <th>Localisation de l'emploi<br/>
 </th>
-<th>Nombre d'emplois<br/>
-<br/>
-</th>
-<th>Nombre de points NBI<br/>
-<br/>
-</th>
+<th>Nombre d'emplois</th>
+<th>Nombre de points NBI</th>
 </tr>
 <tr>
 <td align="center">01 Ain<br/>
@@ -279,8 +275,7 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'
 <tr>
 <td align="center">31 Haute-Garonne<br/>
 </td>
-<td align="center">7<br/>
-</td>
+<td align="center">6</td>
 <td align="center">50<br/>
 </td>
 </tr>
