@@ -30,4 +30,6 @@
 - [LOI n° 2008-758 du 1er août 2008 (ECEX0812043L)](loi-n-2008-758-du-1er-aout-2008-ecex0812043l)
 - [LOI n° 2008-759 du 1er août 2008 (BCFX0811618L)](loi-n-2008-759-du-1er-aout-2008-bcfx0811618l)
 - [LOI n° 2008-776 du 4 août 2008 (ECEX0808477L)](loi-n-2008-776-du-4-aout-2008-ecex0808477l)
+- [LOI n° 2008-789 du 20 août 2008 (MTSX0813468L)](loi-n-2008-789-du-20-aout-2008-mtsx0813468l)
+- [LOI n° 2008-790 du 20 août 2008 (MENX0812672L)](loi-n-2008-790-du-20-aout-2008-menx0812672l)
 - [LOI n° 2008-89 du 30 janvier 2008 (MTSX0760738L)](loi-n-2008-89-du-30-janvier-2008-mtsx0760738l)
