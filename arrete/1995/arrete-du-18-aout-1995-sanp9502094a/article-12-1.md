@@ -1,0 +1,3 @@
+# Article 12-1
+
+En vue d'obtenir le diplôme de cadre de santé, les infirmiers d'encadrement de sapeurs-pompiers professionnels titulaires du brevet d'infirmier d'encadrement de sapeurs-pompiers professionnels sont dispensés de l'enseignement théorique et des stages des modules 1, 2, 3 et 5, ainsi que des épreuves de validation de ceux-ci. Ils doivent suivre, au sein d'un institut de formation des cadres de santé autorisé, l'enseignement théorique des modules 4 et 6 et effectuer un stage de quatre semaines dans un établissement de santé. Les modalités d'évaluation des deux modules leur sont spécifiques.
