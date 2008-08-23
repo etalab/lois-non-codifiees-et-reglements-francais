@@ -1,5 +1,7 @@
 # Article 4
 
-Le père et la mère d'un enfant naturel peuvent demander conjointement qu'il leur soit délivré un livret de famille commun.
+Un livret de famille est remis, à leur demande, aux parents qui en sont dépourvus par l'officier de l'état civil qui a établi l'acte d'enfant sans vie.
 
-Il comporte [*contenu*] des extraits des actes de naissance et de décès du père, de la mère et de leurs enfants communs selon les règles et conditions fixées à l'article 2.
+Il comporte un extrait d'acte de naissance du ou des parents ainsi que l'indication d'enfant sans vie, la date et le lieu de l'accouchement.
+
+Il est ultérieurement complété selon les modalités de l'article 3.
