@@ -1,6 +1,6 @@
 # Article 22
 
-La C.R.P.C.E.N. ouvre dans ses écritures les cinq comptes généraux suivants :
+La C.R.P.C.E.N. ouvre dans ses écritures les six comptes généraux suivants :
 
 1° Un compte "maladie, maternité, invalidité, décès" ;
 
@@ -12,7 +12,9 @@ La C.R.P.C.E.N. ouvre dans ses écritures les cinq comptes généraux suivants :
 
 5° Un compte de gestion immobilière ;
 
-Un arrêté du ministre chargé de la sécurité sociale fixe annuellement la répartition des ressources de la C.R.P.C.E.N. entre ces cinq comptes.
+6° Un compte " prévention" ;
+
+Un arrêté du ministre chargé de la sécurité sociale fixe annuellement la répartition des ressources de la C.R.P.C.E.N. entre ces six comptes.
 
 Les dons et legs sont affectés au compte action sanitaire et sociale.
 

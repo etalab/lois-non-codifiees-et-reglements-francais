@@ -21,5 +21,3 @@ III. - Elle détermine également :
 1° Les conditions de conclusion des avenants en cours d'exécution, notamment en fonction des lois de financement de la sécurité sociale et des modifications importantes de la charge de travail de la caisse liées à l'évolution du cadre législatif et réglementaire de son action.
 
 2° Le processus d'évaluation contradictoire des résultats obtenus au regard des objectifs fixés.
-
-Elle est signée, pour le compte de la CRPCEN, conjointement par le président du conseil d'administration et par le directeur.

@@ -16,6 +16,6 @@ e) Les enfants recueillis à son foyer par le titulaire de la pension ou son con
 
 En outre, les enfants énumérés aux b, c, d et e du deuxième alinéa ci-dessus doivent avoir été élevés pendant neuf ans.
 
-La majoration est calculée sur la pension principale y compris la majoration prévue à l'article 85, deuxième alinéa.
+La majoration est calculée sur la pension principale y compris la majoration prévue       au troisième alinéa du I de l'article 85 .
 
 Elle prend effet au premier jour du mois suivant la date à laquelle les conditions sont remplies dans la limite de la prescription quinquennale.

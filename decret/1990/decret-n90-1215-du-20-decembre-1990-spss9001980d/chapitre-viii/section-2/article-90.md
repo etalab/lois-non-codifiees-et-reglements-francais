@@ -10,17 +10,9 @@ Sont assimilées à des périodes de versement de cotisations :
 
 Sont prises en compte dans une limite de six mois les périodes de chômage comprises entre le 1er septembre 1939 et le 31 décembre 1940 même si l'assuré n'a perçu aucune indemnité de la C.R.P.C.E.N..
 
-4° Les périodes durant lesquelles l'assuré a effectué son service national légal ou a été présent sous les drapeaux par suite de mobilisation ou comme volontaire en temps de guerre, ainsi que les périodes de captivité dès lors qu'il était :
-
-a) Affilié à la C.R.P.C.E.N. au moment de son appel sous les drapeaux ou de son engagement ;
-
-b) Ou affilié à la C.R.P.C.E.N. au titre de sa première activité postérieurement à ces périodes ;
-
-S'il s'agit d'une période de service national légal, l'assuré devra en outre être resté trente ans dans la profession, s'il n'était pas affilié à la C.R.P.C.E.N. au moment de son appel sous les drapeaux.
+4° Les périodes durant lesquelles l'assuré a effectué son service national légal ou a été présent sous les drapeaux par suite de mobilisation ou comme volontaire en temps de guerre, ainsi que les périodes de captivité, sous réserve des règles de coordination applicables aux assurés ayant relevé de plusieurs régimes ;
 
 Les périodes de mobilisation ou de captivité s'entendent des périodes visées à l'article L. 161-19 du code de la sécurité sociale et des textes pris pour son application.
-
-Les services accomplis comme clerc ou employé de notaire avant le 1er juillet 1939 sont assimilés à des périodes d'affiliation à la C.R.P.C.E.N. ;
 
 5° Les périodes durant lesquelles l'assuré a perçu une pension d'invalidité du régime général des assurances sociales antérieurement au 31 décembre 1940 ;
 

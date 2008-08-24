@@ -3,7 +3,7 @@
 - [CHAPITRE Ier : Dispositions générales.](chapitre-ier)
 - [CHAPITRE II : Organisation administrative et financière.](chapitre-ii)
 - [CHAPITRE III : Cotisations.](chapitre-iii)
-- [CHAPITRE IV : Contrôle dans les études de notaire.](chapitre-iv)
+- [CHAPITRE IV : Contrôle](chapitre-iv)
 - [CHAPITRE V : Assurance maladie et maternité.](chapitre-v)
 - [CHAPITRE VI : Assurance invalidité.](chapitre-vi)
 - [CHAPITRE VII : Assurance décès.](chapitre-vii)

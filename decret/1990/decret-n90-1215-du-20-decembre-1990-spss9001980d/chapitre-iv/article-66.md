@@ -1,3 +1,3 @@
 # Article 66
 
-Les inspecteurs doivent donner communication de leurs observations aux notaires, dans les conditions fixées par l'article R. 243-59 du code de la sécurité sociale.
+Les opérations de contrôle se déroulent dans les conditions définies aux articles R. 243-59, R. 243-59-1 et R. 243-59-3 du code de la sécurité sociale.

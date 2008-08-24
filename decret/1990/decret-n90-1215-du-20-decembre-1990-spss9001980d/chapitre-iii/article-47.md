@@ -1,6 +1,6 @@
 # Article 47
 
-Tout employeur est tenu d'adresser à la C.R.P.C.E.N. avant le 15 février de chaque année [*date limite*] une déclaration indiquant pour chacun de ses salariés le montant total des rémunérations soumises à cotisations versé au cours de l'année civile antérieure.
+Tout employeur est tenu d'adresser à la C.R.P.C.E.N. avant le 31 janvier de chaque année une déclaration indiquant pour chacun de ses salariés le montant total des rémunérations soumises à cotisations versé au cours de l'année civile antérieure.
 
 La déclaration peut, de plus, comporter tous éléments jugés nécessaires par la C.R.P.C.E.N. qui, chaque année, en établit le modèle et en assure l'envoi à chaque employeur.
 

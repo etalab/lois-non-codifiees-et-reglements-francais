@@ -1,4 +1,4 @@
-# CHAPITRE IV : Contrôle dans les études de notaire.
+# CHAPITRE IV : Contrôle
 
 - [Article 56](article-56.md)
 - [Article 57](article-57.md)

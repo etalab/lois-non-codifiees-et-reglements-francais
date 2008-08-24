@@ -1,6 +1,6 @@
 # Article 91
 
-Sont prises en compte pour l'ouverture et la liquidation des droits aux pensions de retraite mentionnées aux articles 84 et 86 les périodes de versement de l'indemnité de soins aux tuberculeux définies à l'article L. 161-21 du code de la sécurité sociale, à condition :
+Sont prises en compte pour l'ouverture et la liquidation des droits aux pensions de retraite mentionnées à l'article 84 les périodes de versement de l'indemnité de soins aux tuberculeux définies à l'article L. 161-21 du code de la sécurité sociale, à condition :
 
 a) Qu'elles soient antérieures à l'entrée en jouissance de la pension ;
 

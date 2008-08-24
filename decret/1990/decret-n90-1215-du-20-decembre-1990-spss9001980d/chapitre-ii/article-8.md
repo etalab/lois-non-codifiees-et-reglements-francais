@@ -10,6 +10,6 @@ Sont électeurs à condition de n'entrer dans aucune des catégories mentionnée
 
 Ces deux scrutins ont lieu aux mêmes dates.
 
-Sous réserve de l'application de l'article L. 231-6-1 du code de la sécurité sociale, sont éligibles les électeurs remplissant les conditions d'âge fixées pour être éligibles aux chambres départementales de notaires siégeant en comité mixte.
+Sous réserve de l'application de l'article L. 231-6-1 du code de la sécurité sociale, sont éligibles les électeurs remplissant les conditions d'âge fixées pour être éligibles aux chambres départementales de notaires siégeant en comité mixte et n'ayant pas exercé au cours des cinq dernières années de fonction de direction à la CRPCEN.
 
 Les modalités de ces élections sont précisées par arrêté du garde des sceaux, ministre de la justice, et du ministre chargé de la sécurité sociale.
