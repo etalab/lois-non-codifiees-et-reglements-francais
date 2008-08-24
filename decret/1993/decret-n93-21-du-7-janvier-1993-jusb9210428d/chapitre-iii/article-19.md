@@ -8,6 +8,8 @@ L'évaluation est établie :
 
 3° Par le premier président de la Cour de cassation pour les conseillers référendaires et les auditeurs à la Cour de cassation ;
 
+3° bis Par le procureur général près la Cour de cassation pour les avocats généraux référendaires à la Cour de cassation ;
+
 4° Par le directeur ou le chef de service pour les magistrats de l'administration centrale du ministère de la justice en fonctions dans leur direction ou dans leur service ;
 
 5° Par le premier président ou le procureur général pour les magistrats chargés d'un secrétariat général à la Cour de cassation ou dans une cour d'appel ;

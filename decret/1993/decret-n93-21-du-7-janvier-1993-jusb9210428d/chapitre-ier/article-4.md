@@ -14,7 +14,7 @@ Les magistrats du premier grade sont appelés à exercer les fonctions suivantes
 
 6° Conseiller et substitut général de cour d'appel, et conseiller chargé du service d'une chambre détachée d'une cour d'appel ;
 
-7° Conseiller référendaire à la Cour de cassation ;
+7° Conseiller référendaire et avocat général référendaire à la Cour de cassation ;
 
 8° Premier substitut à l'administration centrale du ministère de la justice ;
 
