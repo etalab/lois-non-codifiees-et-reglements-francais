@@ -39,6 +39,7 @@
 - [Arrêté du 6 août 2008 (BCFZ0818793A)](arrete-du-6-aout-2008-bcfz0818793a)
 - [Arrêté du 6 juin 2008 (DEFD0816650A)](arrete-du-6-juin-2008-defd0816650a)
 - [Arrêté du 6 juin 2008 (DEFD0817951A)](arrete-du-6-juin-2008-defd0817951a)
+- [Arrêté du 7 août 2008 (AGRP0819677A)](arrete-du-7-aout-2008-agrp0819677a)
 - [Arrêté du 7 juillet 2008 (BCFD0816875A)](arrete-du-7-juillet-2008-bcfd0816875a)
 - [Arrêté du 7 juillet 2008 (BCFL0818867A)](arrete-du-7-juillet-2008-bcfl0818867a)
 - [Arrêté du 7 juillet 2008 (BCFL0818890A)](arrete-du-7-juillet-2008-bcfl0818890a)
