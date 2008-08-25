@@ -1,5 +1,6 @@
 # ANNEXES
 
+- [PREMIER MINISTRE](premier)
 - [AFFAIRES ETRANGERES](affaires-etrangeres)
 - [AFFAIRES SOCIALES](affaires-sociales)
 - [AGRICULTURE](agriculture)
