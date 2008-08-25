@@ -4,15 +4,13 @@ La liste des emplois prévue à l'article 4 du décret du 27 mai 1998 susvisé s
 
 Directeur départemental de l'agriculture et de la forêt de l'Ain ;
 
-Directeur départemental de l'agriculture et de la forêt de l'Aube (a compter du 1er janvier 2006) ;
-
-Directeur départemental de l'agriculture et de la forêt de l'Arriège (a compter du 20 mars 2006) ;
-
 Directeur départemental de l'agriculture et de la forêt de l'Aveyron ;
 
 Directeur départemental de l'agriculture et de la forêt des Bouches-du-Rhône ;
 
 Directeur départemental de l'agriculture et de la forêt de la Corrèze (a compter du 7 décembre 2006) ;
+
+Directeur départemental de l'agriculture et de la forêt des Côtes-d'Armor (a compter du 30 juin 2008) ;
 
 Directeur départemental de l'agriculture et de la forêt des Deux-Sèvres ;
 
@@ -22,15 +20,17 @@ Directeur départemental de l'agriculture et de la forêt de la Drôme (a compte
 
 Directeur départemental de l'agriculture et de la forêt du Finistère (a compter du 29 juin 2007) ;
 
+Directeur départemental de l'agriculture et de la forêt du Haut-Rhin (a compter du 15 juillet 2008) ;
+
 Directeur départemental de l'agriculture et de la forêt de la Haute-Savoie ;
 
 Directeur départemental de l'agriculture et de la forêt d'Ille-et-Vilaine ;
 
+Directeur départemental de l'agriculture et de la forêt de l'Isère (a compter du 15 juillet 2008) ;
+
 Directeur départemental de l'agriculture et de la forêt de la Loire ;
 
 Directeur départemental de l'agriculture et de la forêt de la Loire-Atlantique ;
-
-Directeur départemental de l'agriculture et de la forêt de la Manche (a compter du 12 juillet 2006) ;
 
 Directeur départemental de l'agriculture et de la forêt de la Mayenne (a compter du 8 décembre 2006).
 
