@@ -1,11 +1,3 @@
 # Article 2
 
-Les indices bruts minimum et maximum des échelles de rémunération mentionnées à l'article précédent sont fixés ainsi qu'il suit :
-
-Echelle 3 : 281-388 ;
-
-Echelle 4 : 287-409 ;
-
-Echelle 5 : 290-446 ;
-
-Echelle 6 : 343-499.
+L'échelonnement indiciaire afférent aux échelles de rémunération mentionnées à l'article précédent est fixé par le décret n° 2008-836 du 22 août 2008 fixant l'échelonnement indiciaire des corps et des emplois communs aux administrations de l'Etat et de ses établissements publics ou afférent à plusieurs corps de fonctionnaires de l'Etat et de ses établissements publics.
