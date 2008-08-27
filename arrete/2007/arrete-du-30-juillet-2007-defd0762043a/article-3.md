@@ -8,4 +8,6 @@ Les destinataires des données à caractère personnel enregistrées sont, en fo
 
 - le Commissariat à l'énergie atomique ;
 
-- les directions et services du ministère de la défense.
+- les directions et services du ministère de la défense ;
+
+- les organismes de recherche à caractère sanitaire et / ou épidémiologique.
