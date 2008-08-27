@@ -2,153 +2,159 @@
 
 En application de l'article 2 du décret du 4 janvier 2006 susvisé, la liste des emplois de chef de mission de l'agriculture et de l'environnement s'établit à compter du 1er janvier 2007 comme suit :
 
-I. - Dans les services du ministère de l'agriculture et de la pêche
+I.-Dans les services du ministère de l'agriculture et de la pêche
 
 a) En administration centrale :
 
-- chef de section au bureau du cabinet ;
+-chef de section au bureau du cabinet ;
 
-- chef de la mission de défense ;
+-chef de la mission de défense ;
 
-- chargé de mission auprès du contrôleur budgétaire et comptable ministériel ;
+-chargé de mission auprès du contrôleur budgétaire et comptable ministériel ;
 
-- responsable des études à l'Observatoire des missions et des métiers ;
+-responsable des études à l'Observatoire des missions et des métiers ;
 
-- adjoint au sous-directeur de la logistique et du patrimoine au secrétariat général ;
+-adjoint au sous-directeur de la logistique et du patrimoine au secrétariat général ;
 
-- chef du bureau des chambres d'agriculture et de leur assemblée permanente au secrétariat général ;
+-chef du bureau des chambres d'agriculture et de leur assemblée permanente au secrétariat général ;
 
-- chargé de mission politique immobilière au secrétariat général ;
+-chargé de mission politique immobilière au secrétariat général ;
 
-- adjoint au sous-directeur de la gestion des personnels au secrétariat général ;
+-adjoint au sous-directeur de la gestion des personnels au secrétariat général ;
 
-- chef du projet "droit à l'information sur les retraites" auprès du chef de service des ressources humaines au secrétariat général ;
+-chef du projet "droit à l'information sur les retraites" auprès du chef de service des ressources humaines au secrétariat général ;
 
-- responsable de la mission de coordination de la paye au secrétariat général ;
+-responsable de la mission de coordination de la paye au secrétariat général ;
 
-- chef du bureau de la filière administrative au secrétariat général ;
+-chef du bureau de la filière administrative au secrétariat général ;
 
-- chef du bureau des concours au secrétariat général ;
+-chef du bureau des concours au secrétariat général ;
 
-- chef du bureau de l'enseignement public agricole au secrétariat général ;
+-chef du bureau des affaires générales à la direction générale de l'alimentation ;
 
-- chef du bureau des affaires générales à la direction générale de l'alimentation ;
+-chef du bureau des moyens financiers et du contrôle de gestion à la direction générale de l'alimentation ;
 
-- chef du bureau des moyens financiers et du contrôle de gestion à la direction générale de l'alimentation ;
+-chef de la mission des affaires générales à la direction générale de l'enseignement et de la recherche ;
 
-- chef de la mission des affaires générales à la direction générale de l'enseignement et de la recherche ;
+-chef du bureau des pôles de compétences et des établissements d'enseignement supérieur à la direction générale de l'enseignement et de la recherche ;
 
-- chef du bureau des pôles de compétences et des établissements d'enseignement supérieur à la direction générale de l'enseignement et de la recherche ;
+-chef de la mission développement agricole et rural à la direction générale de l'enseignement et de la recherche ;
 
-- chef de la mission développement agricole et rural à la direction générale de l'enseignement et de la recherche ;
+-chef du bureau de l'emploi et du développement de l'activité à la direction générale de la forêt et des affaires rurales ;
 
-- chef du bureau de l'emploi et du développement de l'activité à la direction générale de la forêt et des affaires rurales ;
+-chargé de mission et de communication à la direction générale de la forêt et des affaires rurales ;
 
-- chargé de mission et de communication à la direction générale de la forêt et des affaires rurales ;
+-chef du bureau des statuts et des structures à la direction générale de la forêt et des affaires rurales ;
 
-- chef du bureau des statuts et des structures à la direction générale de la forêt et des affaires rurales ;
+-chef du bureau de l'installation à la direction générale de la forêt et des affaires rurales ;
 
-- chef du bureau de l'installation à la direction générale de la forêt et des affaires rurales ;
+-chef du département de la santé des forêts à la direction générale de la forêt et des affaires rurales ;
 
-- chef du département de la santé des forêts à la direction générale de la forêt et des affaires rurales ;
+-chef du bureau des procédures juridiques communautaires à la direction générale des politiques économique, européenne et internationale ;
 
-- chef du bureau des procédures juridiques communautaires à la direction générale des politiques économique, européenne et internationale ;
+-chef du bureau du management à la direction générale des politiques économique, européenne et internationale ;
 
-- chef du bureau du management à la direction générale des politiques économique, européenne et internationale ;
+-chef du bureau des signes de qualité et de l'agriculture biologique à la direction générale des politiques économique, européenne et internationale ;
 
-- chef du bureau des signes de qualité et de l'agriculture biologique à la direction générale des politiques économique, européenne et internationale ;
+-chef du bureau de la conjoncture et de l'observation économique des marchés à la direction générale des politiques économique, européenne et internationale ;
 
-- chef du bureau de la conjoncture et de l'observation économique des marchés à la direction générale des politiques économique, européenne et internationale ;
-
-- chef du bureau de la modernisation des exploitations à la direction générale de la forêt et des affaires rurales.
+-chef du bureau de la modernisation des exploitations à la direction générale de la forêt et des affaires rurales.
 
 b) Dans les services déconcentrés :
 
-- secrétaire général de la direction départementale de l'agriculture et de la forêt et de la direction départementale des services vétérinaires de l'Ain ;
+-secrétaire général de la direction départementale de l'agriculture et de la forêt et de la direction départementale des services vétérinaires de l'Ain ;
 
-- secrétaire général de la direction départementale de l'agriculture et de la forêt et de la direction départementale des services vétérinaires de l'Allier ;
+-chef du service de l'environnement à la direction départementale de l'agriculture et de la forêt de l'Aisne ; (ajouté à compter du 17 juin 2008)
 
-- chef du service d'économie agricole et des industries agroalimentaires à la direction départementale de l'agriculture et de la forêt de l'Allier ;
+-secrétaire général de la direction départementale de l'agriculture et de la forêt et de la direction départementale des services vétérinaires de l'Allier ;
 
-- chef du service environnement à la direction départementale de l'agriculture et de la forêt de l'Allier ;
+-chef du service d'économie agricole et des industries agroalimentaires à la direction départementale de l'agriculture et de la forêt de l'Allier ;
 
-- chef du service d'économie agricole à la direction départementale de l'agriculture et de la forêt des Alpes-de-Haute-Provence ;
+-chef du service environnement à la direction départementale de l'agriculture et de la forêt de l'Allier ;
 
-- chef du service d'économie agricole à la direction départementale de l'agriculture et de la forêt de l'Ardèche ;
+-chef du service d'économie agricole à la direction départementale de l'agriculture et de la forêt des Alpes-de-Haute-Provence ;
+
+-chef du service d'économie agricole à la direction départementale de l'agriculture et de la forêt de l'Ardèche ;
+
+-directeur départemental de l'agriculture et de la forêt des Ardennes ; (ajouté à compter du 16 juin 2008) ;
 
 - chef de la mission connaissance des territoires à la direction départementale de l'équipement et de l'agriculture de l'Ariège ;
 
-- chef du service d'économie agricole à la direction départementale de l'équipement et de l'agriculture de l'Ariège ;
+-chef du service d'économie agricole à la direction départementale de l'équipement et de l'agriculture de l'Ariège ;
 
-- chef du service d'économie agricole à la direction départementale de l'équipement et de l'agriculture de l'Aube ;
+-chef du service d'économie agricole à la direction départementale de l'équipement et de l'agriculture de l'Aube ;
 
-- chef du service d'économie agricole à la direction départementale de l'agriculture et de la forêt de l'Aude ;
+-chef du service d'économie agricole à la direction départementale de l'agriculture et de la forêt de l'Aude ;
 
-- chef du service de l'espace rural, de l'environnement et de la forêt, chef de la mission interservices de l'eau à la direction départementale de l'agriculture et de la forêt de l'Aveyron ;
+-directeur départemental de l'agriculture et de la forêt de l'Aude ; (ajouté à compter du 15 mars 2008) ;
 
-- chef du service forêt et eau à la direction départementale de l'agriculture et de la forêt des Bouches-du-Rhône ;
+-chef du service de l'espace rural, de l'environnement et de la forêt, chef de la mission interservices de l'eau à la direction départementale de l'agriculture et de la forêt de l'Aveyron ;
 
-- chef de la subdivision d'Arles à la direction départementale de l'agriculture et de la forêt des Bouches-du-Rhône ;
+-chef de la subdivision d'Arles à la direction départementale de l'agriculture et de la forêt des Bouches-du-Rhône ;
 
-- chef du service appui aux collectivités-ingénierie publique à la direction départementale de l'agriculture et de la forêt du Calvados (3) ;
+-chef du service appui aux collectivités-ingénierie publique à la direction départementale de l'agriculture et de la forêt du Calvados ;
 
-- chef du service environnement, chef de la mission interservices de l'eau, adjoint au directeur départemental de l'agriculture et de la forêt du Cantal ;
+-chef du service environnement, chef de la mission interservices de l'eau, adjoint au directeur départemental de l'agriculture et de la forêt du Cantal ;
 
-- chef du service équipements et aménagement rural à la direction départementale de l'agriculture et de la forêt de la Charente-Maritime ;
+-chef du service équipements et aménagement rural à la direction départementale de l'agriculture et de la forêt de la Charente-Maritime ;
 
-- chef du service équipements publics ruraux et hydrauliques à la direction départementale de l'agriculture et de la forêt de la Corrèze ;
+-chef du service équipements publics ruraux et hydrauliques à la direction départementale de l'agriculture et de la forêt de la Corrèze ;
 
-- chef du service de l'environnement et de la forêt, chef de la mission interservices de l'eau à la direction départementale de l'agriculture et de la forêt de la Haute-Corse ;
+-chef du service de l'environnement à la direction départementale de l'agriculture et de la forêt de la Haute-Corse ;
 
-- chef du service équipements publics ruraux à la direction départementale de l'agriculture et de la forêt de la Côte-d'Or ;
+-chef du service équipements publics ruraux à la direction départementale de l'agriculture et de la forêt de la Côte-d'Or ;
 
-- directeur départemental délégué à la direction départementale de l'agriculture et de la forêt de la Côte-d'Or ;
+-chef du service appui aux collectivités locales à la direction départementale de l'agriculture et de la forêt de l'Eure ;
 
-- chef du service des affaires rurales, directeur adjoint à la direction départementale de l'agriculture et de la forêt des Côtes-d'Armor ;
+-chef du service d'économie agricole à la direction départementale de l'agriculture et de la forêt de l'Eure ;
 
-- chef du service appui aux collectivités locales à la direction départementale de l'agriculture et de la forêt de l'Eure ;
+-adjoint au directeur, chef de la mission interservices de l'eau, chef du service des eaux continentales à la direction départementale de l'agriculture et de la forêt du Finistère ;
 
-- chef du service d'économie agricole à la direction départementale de l'agriculture et de la forêt de l'Eure ;
+-chef du service des équipements publics ruraux à la direction départementale de l'agriculture et de la forêt du Finistère ;
 
-- chef du service police de l'eau, adjoint au directeur départemental de l'agriculture et de la forêt du Finistère ;
+-chef du service de l'ingénierie de l'eau et des équipements ruraux à la direction départementale de l'agriculture et de la forêt de la Gironde ;
 
-- chef du service des équipements publics ruraux à la direction départementale de l'agriculture et de la forêt du Finistère ;
+-chef du service d'économie agricole et des industries agroalimentaires à la direction départementale de l'agriculture et de la forêt de la Gironde ;
 
-- chef du service de l'ingénierie de l'eau et des équipements ruraux à la direction départementale de l'agriculture et de la forêt de la Gironde ;
+-chef du service d'ingénierie d'appui territorial à la direction départementale de l'agriculture et de la forêt de la Haute-Garonne ; (ajouté à compter du 17 juin 2008)
 
-- chef du service d'économie agricole et des industries agroalimentaires à la direction départementale de l'agriculture et de la forêt de la Gironde ;
+-chef du service environnement à la direction départementale de l'agriculture et de la forêt d'Ille-et-Vilaine ;
 
-- chef du service environnement à la direction départementale de l'agriculture et de la forêt d'Ille-et-Vilaine ;
+-directeur départemental délégué à la direction départementale de l'agriculture et de la forêt d'Ille-et-Vilaine ; (ajouté à compter du 1er janvier 2008) ;
 
-- secrétaire général de la direction départementale de l'agriculture et de la forêt et de la direction départementale des services vétérinaires d'Indre-et-Loire ;
+-secrétaire général de la direction départementale de l'agriculture et de la forêt et de la direction départementale des services vétérinaires d'Indre-et-Loire ;
 
-- chef du service de l'aménagement rural, adjoint au directeur départemental de l'agriculture et de la forêt d'Indre-et-Loire ;
+-chef du service de l'aménagement rural, adjoint au directeur départemental de l'agriculture et de la forêt d'Indre-et-Loire ;
 
-- chef du service géomatique et données à la direction départementale de l'agriculture et de la forêt de l'Isère ;
+-chef du service géomatique et données à la direction départementale de l'agriculture et de la forêt de l'Isère ;
 
-- chef du service études et réalisations à la direction départementale de l'agriculture et de la forêt de l'Isère ;
+-chef du service études et réalisations à la direction départementale de l'agriculture et de la forêt de l'Isère ;
 
-- chef du service de l'équipement rural, alimentation en eau potable, assainissement et des industries agroalimentaires à la direction départementale de l'agriculture et de la forêt du Jura ;
+-chef du service de l'équipement rural, alimentation en eau potable, assainissement et des industries agroalimentaires à la direction départementale de l'agriculture et de la forêt du Jura ;
 
 - chef du service de développement rural, adjoint au directeur départemental de l'agriculture et de la forêt des Landes ;
 
-- chef du service police de l'eau, chef de la mission interservices de l'eau à la direction départementale de l'agriculture et de la forêt des Landes ;
+-chef du service police de l'eau, chef de la mission interservices de l'eau à la direction départementale de l'agriculture et de la forêt des Landes ;
 
-- chef du service d'économie agricole à la direction départementale de l'agriculture et de la forêt de la Loire ;
+-chef du service d'économie agricole à la direction départementale de l'agriculture et de la forêt de la Loire ;
 
-- chef du service eau à la direction départementale de l'agriculture et de la forêt de la Loire-Atlantique ;
+-chef du service d'ingénierie d'appui territorial à la direction départementale de l'agriculture et de la forêt de la Loire ; (ajouté à compter du 17 juin 2008)
 
-- chef du service des équipements publics à la direction départementale de l'agriculture et de la forêt de la Loire-Atlantique ;
+-chef du service eau à la direction départementale de l'agriculture et de la forêt de la Loire-Atlantique ;
 
-- directeur départemental délégué à la direction départementale de l'agriculture et de la forêt du Loiret ;
+-chef du service des équipements publics à la direction départementale de l'agriculture et de la forêt de la Loire-Atlantique ;
 
-- chef du service de l'eau, forêt et environnement à la direction départementale de l'équipement et de l'agriculture du Lot ;
+-directeur départemental délégué à la direction départementale de l'agriculture et de la forêt du Loiret ;
 
-- adjoint au secrétaire général de la direction départementale de l'équipement et de l'agriculture et de la direction départementale des services vétérinaires du Lot ;
+-chef du service de l'eau, forêt et environnement à la direction départementale de l'équipement et de l'agriculture du Lot ;
 
-- chef du service équipement rural à la direction départementale de l'agriculture et de la forêt de Maine-et-Loire ;
+-directeur adjoint de la direction départementale de l'équipement et de l'agriculture du Lot ; (ajouté à compter du 14 avril 2008) ;
 
-- chef du service d'économie agricole à la direction départementale de l'agriculture et de la forêt de la Manche ;
+-adjoint au secrétaire général de la direction départementale de l'équipement et de l'agriculture et de la direction départementale des services vétérinaires du Lot ;
+
+-chef du service équipement rural à la direction départementale de l'agriculture et de la forêt de Maine-et-Loire ;
+
+-chef du service d'économie agricole à la direction départementale de l'agriculture et de la forêt de la Manche ;
 
 - secrétaire général de la direction départementale de l'agriculture et de la forêt de la Manche ;
 
@@ -156,137 +162,137 @@ b) Dans les services déconcentrés :
 
 - directeur adjoint à la direction départementale de l'agriculture et de la forêt de la Mayenne ;
 
-- chef du service de l'environnement et de l'eau, adjoint au directeur départemental de l'agriculture et de la forêt de Meurthe-et-Moselle ;
+-chef du service de l'environnement et de l'eau, adjoint au directeur départemental de l'agriculture et de la forêt de Meurthe-et-Moselle ;
 
-- secrétaire général de la direction départementale de l'agriculture et de la forêt et de la direction départementale des services vétérinaires du Morbihan ;
+-secrétaire général de la direction départementale de l'agriculture et de la forêt et de la direction départementale des services vétérinaires du Morbihan ;
 
-- chef du service de l'équipement rural à la direction départementale de l'agriculture et de la forêt du Morbihan ;
+-chef du service de l'équipement rural à la direction départementale de l'agriculture et de la forêt du Morbihan ;
 
-- chef du service environnement et développement rural à la direction départementale de l'agriculture et de la forêt de la Moselle ;
+-chef du service environnement et développement rural à la direction départementale de l'agriculture et de la forêt de la Moselle ;
 
-- chef du service environnement à la direction départementale de l'agriculture et de la forêt de la Nièvre ;
+-chef du service environnement à la direction départementale de l'agriculture et de la forêt de la Nièvre ;
 
-- directeur départemental délégué à la direction départementale de l'agriculture et de la forêt du Nord ;
+-directeur départemental délégué à la direction départementale de l'agriculture et de la forêt du Nord ;
 
-- chef du service de l'ingénierie de l'eau et des équipements ruraux à la direction départementale de l'agriculture et de la forêt Nord ;
+-chef du service de l'ingénierie de l'eau et des équipements ruraux à la direction départementale de l'agriculture et de la forêt Nord ;
 
-- chef du service eaux et forêts, chef de la mission interservices de l'eau à la direction départementale de l'agriculture et de la forêt de l'Oise ;
+-chef du service eaux et forêts, chef de la mission interservices de l'eau à la direction départementale de l'agriculture et de la forêt de l'Oise ;
 
-- chef du service équipement rural à la direction départementale de l'agriculture et de la forêt de l'Oise ;
+-chef du service équipement rural à la direction départementale de l'agriculture et de la forêt de l'Oise ;
 
-- chef d'arrondissement de Bayonne à la direction départementale de l'agriculture et de la forêt des Pyrénées-Atlantiques ;
+-chef d'arrondissement de Bayonne à la direction départementale de l'agriculture et de la forêt des Pyrénées-Atlantiques ;
 
-- chef du service d'économie agricole à la direction départementale de l'agriculture et de la forêt des Pyrénées-Atlantiques ;
+-chef du service d'économie agricole à la direction départementale de l'agriculture et de la forêt des Pyrénées-Atlantiques ;
 
-- chef du service équipement rural, adjoint au directeur départemental de l'agriculture et de la forêt du Haut-Rhin ;
+-chef du service équipement rural, adjoint au directeur départemental de l'agriculture et de la forêt du Haut-Rhin ;
 
-- chef du service d'économie agricole à la direction départementale de l'agriculture et de la forêt de la Sarthe ;
+-chef du service d'économie agricole à la direction départementale de l'agriculture et de la forêt de la Sarthe ;
 
-- chef du service d'économie agricole et des industries agroalimentaires à la direction départementale de l'agriculture et de la forêt de la Haute-Savoie ;
+-chef du service d'économie agricole à la direction départementale de l'agriculture et de la forêt de la Savoie (ajouté à compter du 17 octobre 2008) ;
 
-- chef du service appui aux collectivités locales à la direction départementale de l'agriculture et de la forêt de la Haute-Savoie ;
+-chef du service d'économie agricole et des industries agroalimentaires à la direction départementale de l'agriculture et de la forêt de la Haute-Savoie ;
+
+-chef du service appui aux collectivités locales à la direction départementale de l'agriculture et de la forêt de la Haute-Savoie ;
 
 - chef du service d'appui aux collectivités locales à la direction départementale de l'agriculture et de la forêt de la Seine-Maritime ;
 
-- secrétaire général de la direction départementale de l'agriculture et de la forêt et de la direction départementale des services vétérinaires de Seine-et-Marne ;
+-secrétaire général de la direction départementale de l'agriculture et de la forêt et de la direction départementale des services vétérinaires de Seine-et-Marne ;
 
-- secrétaire général de la direction départementale de l'agriculture et de la forêt et de la direction départementale des services vétérinaires des Deux-Sèvres ;
+-secrétaire général de la direction départementale de l'agriculture et de la forêt et de la direction départementale des services vétérinaires des Deux-Sèvres ;
 
-- chef du service d'ingénierie d'appui territorial, adjoint au directeur à la direction départementale de l'agriculture et de la forêt du Tarn ;
+-chef du service d'ingénierie d'appui territorial, adjoint au directeur à la direction départementale de l'agriculture et de la forêt du Tarn ;
 
-- chef du service eau et environnement, chef de la mission interservices de l'eau à la direction départementale de l'agriculture et de la forêt de Tarn-et-Garonne ;
+-chef du service eau et environnement, chef de la mission interservices de l'eau à la direction départementale de l'agriculture et de la forêt de Tarn-et-Garonne ;
 
-- chef du service environnement à la direction départementale de l'équipement et de l'agriculture du Territoire de Belfort (1);
+-chef du service environnement à la direction départementale de l'équipement et de l'agriculture du Territoire de Belfort ;
 
-- chef du service d'économie agricole à la direction départementale de l'équipement et de l'agriculture du Territoire de Belfort ;
+-chef du service d'économie agricole à la direction départementale de l'équipement et de l'agriculture du Territoire de Belfort ;
 
-- secrétaire général de la direction départementale de l'agriculture et de la forêt et de la direction départementale des services vétérinaires de la Vendée ;
+-secrétaire général de la direction départementale de l'agriculture et de la forêt et de la direction départementale des services vétérinaires de la Vendée ;
 
-- chef du service d'économie agricole à la direction départementale de l'agriculture et de la forêt de la Vendée ;
+-chef du service d'économie agricole à la direction départementale de l'agriculture et de la forêt de la Vendée ;
 
-- secrétaire général de la direction départementale de l'agriculture et de la forêt et de la direction départementale des services vétérinaires de la Vienne ;
+-secrétaire général de la direction départementale de l'agriculture et de la forêt et de la direction départementale des services vétérinaires de la Vienne ;
 
-- directeur départemental délégué de la direction départementale de l'agriculture et de la forêt de la Haute-Vienne ;
+-directeur départemental délégué de la direction départementale de l'agriculture et de la forêt de la Haute-Vienne ;
 
-- chef du service équipements et aménagement rural à la direction départementale de l'agriculture et de la forêt de la Haute-Vienne ;
+-chef du service équipements et aménagement rural à la direction départementale de l'agriculture et de la forêt de la Haute-Vienne ;
 
 - chef du service de l'ingénierie d'appui territorial à la direction départementale de l'agriculture et de la forêt des Vosges ;
 
-- chef du service d'économie agricole, adjoint de la direction départementale de l'agriculture et de la forêt de l'Yonne ;
-
 - chef du service de l'action territoriale et interministérielle à la direction départementale de l'agriculture et de la forêt de l'Yonne ;
 
-- chef du service des équipements ruraux à la direction départementale de l'équipement et de l'agriculture du Val-d'Oise ;
+-chef du service des équipements ruraux à la direction départementale de l'équipement et de l'agriculture du Val-d'Oise ;
 
 - chef du service de l'ingénierie à la direction départementale de l'équipement et de l'agriculture des Yvelines ;
 
-- chef du service formation et développement à la direction de l'agriculture et de la forêt de Guyane ;
+-chef du service formation et développement à la direction de l'agriculture et de la forêt de Guyane ;
 
-- chef du service formation et développement à la direction de l'agriculture et de la forêt de la Guadeloupe ;
+-chef du service formation et développement à la direction de l'agriculture et de la forêt de la Guadeloupe ;
 
-- chef du service eau et environnement à la direction de l'agriculture et de la forêt de la Martinique ;
+-chef du service eau et environnement à la direction de l'agriculture et de la forêt de la Martinique ;
 
-- secrétaire général de la direction de l'agriculture et de la forêt et de la direction des services vétérinaires de la Réunion ;
+-secrétaire général de la direction de l'agriculture et de la forêt et de la direction des services vétérinaires de la Réunion ;
 
 - chef du service des équipements publics ruraux à la direction de l'agriculture et de la forêt de la Réunion ;
 
-- secrétaire général de la direction de l'agriculture et de la forêt et de la direction des services vétérinaires de Mayotte ;
+-secrétaire général de la direction de l'agriculture et de la forêt et de la direction des services vétérinaires de Mayotte ;
 
-- directeur du service d'Etat de l'agriculture, de la forêt et de la pêche de Wallis-et-Futuna ;
+-chef du service forêt et bois à la direction régionale de l'agriculture et de la forêt d'Aquitaine ;
 
-- chef du service forêt et bois à la direction régionale de l'agriculture et de la forêt d'Aquitaine ;
+-chef du service régional d'information statistique et économique à la direction régionale de l'agriculture et de la forêt d'Auvergne ;
 
-- chef du service régional d'information statistique et économique à la direction régionale de l'agriculture et de la forêt d'Auvergne ;
+-secrétaire général de la direction régionale de l'agriculture et de la forêt de Bretagne, de la direction départementale de l'agriculture et de la forêt d'Ille-et-Vilaine et de la direction départementale des services vétérinaires d'Ille-et-Vilaine ;
 
-- secrétaire général de la direction régionale de l'agriculture et de la forêt de Bretagne, de la direction départementale de l'agriculture et de la forêt d'Ille-et-Vilaine et de la direction départementale des services vétérinaires d'Ille-et-Vilaine ;
+-secrétaire général de la direction régionale de l'agriculture et de la forêt du Centre, de la direction départementale de l'agriculture et de la forêt du Loiret et de la direction départementale des services vétérinaires du Loiret ;
 
-- secrétaire général de la direction régionale de l'agriculture et de la forêt du Centre, de la direction départementale de l'agriculture et de la forêt du Loiret et de la direction départementale des services vétérinaires du Loiret ;
+-secrétaire général de la direction régionale de l'agriculture et de la forêt de Champagne-Ardenne, de la direction départementale de l'agriculture et de la forêt de la Marne et de la direction départementale des services vétérinaires de la Marne ;
 
-- secrétaire général de la direction régionale de l'agriculture et de la forêt de Champagne-Ardenne, de la direction départementale de l'agriculture et de la forêt de la Marne et de la direction départementale des services vétérinaires de la Marne ;
+-chef du service régional d'information statistique et économique à la direction régionale et de l'agriculture et de la forêt Champagne-Ardenne ;
 
-- chef du service régional d'information statistique et économique à la direction régionale et de l'agriculture et de la forêt Champagne-Ardenne ;
+-secrétaire général de la direction régionale de l'agriculture et de la forêt de Franche-Comté, de la direction départementale de l'agriculture et de la forêt du Doubs et de la direction départementale des services vétérinaires du Doubs ;
 
-- secrétaire général de la direction régionale de l'agriculture et de la forêt de Franche-Comté, de la direction départementale de l'agriculture et de la forêt du Doubs et de la direction départementale des services vétérinaires du Doubs ;
-
-- chef du service régional d'information statistique et économique à la direction régionale de l'agriculture et de la forêt de Franche-Comté ;
+-chef du service régional d'information statistique et économique à la direction régionale de l'agriculture et de la forêt de Franche-Comté ;
 
 - chargé de mission régional assurance qualité auprès du directeur départemental des services vétérinaires de l'Hérault ;
 
-- délégué régional à la formation continue à la direction régionale de l'agriculture et de la forêt de Languedoc-Roussillon ;
+-délégué régional à la formation continue à la direction régionale de l'agriculture et de la forêt de Languedoc-Roussillon ;
 
-- chef du service régional de la formation et du développement à la direction régionale de l'agriculture et de la forêt de Lorraine ;
+-chef du service régional de la formation et du développement à la direction régionale de l'agriculture et de la forêt de Lorraine ;
 
-- secrétaire général de la direction régionale de l'agriculture et de la forêt de Nord - Pas-de-Calais, de la direction départementale de l'agriculture et de la forêt du Nord et de la direction départementale des services vétérinaires du Nord ;
+-chef du service régional de la forêt et du bois à la direction régionale de l'agriculture et de la forêt de Midi-Pyrénées ; (ajouté à compter du 1er janvier 2008) ;
 
-- chef de service régional de l'économie agricole à la direction régionale de l'agriculture et de la forêt du Nord-Pas-de-Calais ;
+-secrétaire général de la direction régionale de l'agriculture et de la forêt de Nord-Pas-de-Calais, de la direction départementale de l'agriculture et de la forêt du Nord et de la direction départementale des services vétérinaires du Nord ;
 
-- secrétaire général de la direction régionale de l'agriculture et de la forêt de Basse-Normandie, de la direction départementale de l'agriculture et de la forêt du Calvados et de la direction départementale des services vétérinaires du Calvados ;
+-chef de service régional de l'économie agricole à la direction régionale de l'agriculture et de la forêt du Nord-Pas-de-Calais ;
 
-- secrétaire général de la direction régionale de l'agriculture et de la forêt de Haute-Normandie, de la direction départementale de l'agriculture et de la forêt de la Seine-Maritime et de la direction départementale des services vétérinaires de la Seine-Maritime ;
+-secrétaire général de la direction régionale de l'agriculture et de la forêt de Basse-Normandie, de la direction départementale de l'agriculture et de la forêt du Calvados et de la direction départementale des services vétérinaires du Calvados ;
 
-- secrétaire général du laboratoire national de la protection des végétaux de la direction régionale de l'agriculture et de la forêt des Pays de la Loire (2);
+-secrétaire général de la direction régionale de l'agriculture et de la forêt de Haute-Normandie, de la direction départementale de l'agriculture et de la forêt de la Seine-Maritime et de la direction départementale des services vétérinaires de la Seine-Maritime ;
 
-- secrétaire général de la direction régionale de l'agriculture et de la forêt des Pays de la Loire, de la direction départementale de l'agriculture et de la forêt de la Loire-Atlantique et de la direction départementale des services vétérinaires de la Loire-Atlantique ;
+-secrétaire général du laboratoire national de la protection des végétaux de la direction régionale de l'agriculture et de la forêt des Pays de la Loire ;
 
-- chargé de mission interrégionale d'inspection de l'apprentissage agricole au service régional de la formation et du développement à la direction régionale et départementale de l'agriculture et de la forêt de Provence-Alpes-Côte d'Azur ;
+-secrétaire général de la direction régionale de l'agriculture et de la forêt des Pays de la Loire, de la direction départementale de l'agriculture et de la forêt de la Loire-Atlantique et de la direction départementale des services vétérinaires de la Loire-Atlantique ;
 
-- secrétaire général de la direction régionale de l'agriculture et de la forêt de Provence-Alpes-Côte d'Azur, de la direction départementale de l'agriculture et de la forêt des Bouches-du-Rhône et de la direction départementale des services vétérinaires des Bouches-du-Rhône ;
+-chargé de mission interrégionale d'inspection de l'apprentissage agricole au service régional de la formation et du développement à la direction régionale et départementale de l'agriculture et de la forêt de Provence-Alpes-Côte d'Azur ;
 
-- responsable de la division administrative et financière au service régional de la formation et du développement à la direction régionale de l'agriculture et de la forêt de Rhône-Alpes ;
+-secrétaire général de la direction régionale de l'agriculture et de la forêt de Provence-Alpes-Côte d'Azur, de la direction départementale de l'agriculture et de la forêt des Bouches-du-Rhône et de la direction départementale des services vétérinaires des Bouches-du-Rhône ;
 
-- secrétaire général de la direction régionale et interdépartementale de l'agriculture et de la forêt d'Ile-de-France et de la direction départementale des services vétérinaires de Paris ;
+-responsable de la division administrative et financière au service régional de la formation et du développement à la direction régionale de l'agriculture et de la forêt de Rhône-Alpes ;
 
-- animateur du réseau juridique Sud-Est ;
+-secrétaire général de la direction régionale et interdépartementale de l'agriculture et de la forêt d'Ile-de-France et de la direction départementale des services vétérinaires de Paris ;
 
-- animateur du réseau juridique Sud-Ouest ;
+-animateur du réseau juridique Sud-Est ;
 
-- animateur du réseau juridique Grand Ouest ;
+-animateur du réseau juridique Sud-Ouest ;
 
-- animateur technique de l'ingénierie d'appui territorial pour l'interrégion Aquitaine-Poitou-Charentes-Limousin et Midi-Pyrénées ;
+-animateur du réseau juridique Grand Ouest ;
 
-- animateur technique de l'ingénierie d'appui territorial pour l'interrégion Alsace, Lorraine, Champagne-Ardenne, Ile-de-France, Nord - Pas-de-Calais, Picardie, Bourgogne et Franche-Comté.
+-animateur technique de l'ingénierie d'appui territorial pour l'interrégion Aquitaine-Poitou-Charentes-Limousin et Midi-Pyrénées ;
 
-II. - Dans les établissements d'enseignement
+-animateur technique de l'ingénierie d'appui territorial pour l'interrégion Alsace, Lorraine, Champagne-Ardenne, Ile-de-France, Nord-Pas-de-Calais, Picardie, Bourgogne et Franche-Comté.
+
+II.-Dans les établissements d'enseignement
 
 relevant du ministre chargé de l'agriculture
 
@@ -312,7 +318,7 @@ Gestionnaire administratif et financier de l'établissement public local de Cham
 
 Gestionnaire administratif et financier de l'établissement public local de La Côte-Saint-André, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique.
 
-Gestionnaire administratif et financier de l'établissement public local de Grenoble - Saint-Ismier, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique.
+Gestionnaire administratif et financier de l'établissement public local de Grenoble-Saint-Ismier, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique.
 
 Gestionnaire administratif et financier de l'établissement public local de l'Hérault, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique.
 
@@ -344,51 +350,57 @@ Chargé de mission du Centre national de promotion rurale de Marmilhat, du Centr
 
 Secrétaire général de l'Institut national de formation des personnels du ministère de l'agriculture (INFOMA).
 
-III. - Dans les services du ministère de l'écologie
+III.-Dans les services du ministère de l'écologie
 
 et du développement durable
 
 a) En administration centrale :
 
-- chef du bureau de la gestion prévisionnelle des compétences et des carrières à la direction générale de l'administration ;
+-chef du bureau de la gestion prévisionnelle des compétences et des carrières à la direction générale de l'administration ;
 
-- chef du bureau de la stratégie nationale de développement durable au ministère de l'écologie, de l'énergie, du développement durable et de l'aménagement du territoire.
+-chef du bureau de la stratégie nationale de développement durable au ministère de l'écologie, de l'énergie, du développement durable et de l'aménagement du territoire.
 
 b) Dans les services déconcentrés :
 
-- directeur adjoint de la direction régionale de l'environnement d'Alsace ;
+-directeur adjoint de la direction régionale de l'environnement d'Alsace ;
 
-- secrétaire général à la direction régionale de l'environnement d'Aquitaine ;
+-secrétaire général à la direction régionale de l'environnement d'Aquitaine ;
 
-- chef de la division connaissance du service de l'eau, des milieux aquatiques et des risques naturels, adjoint au chef du service de l'eau et des milieux aquatiques à la direction régionale de l'environnement de Bretagne ;
+-chef de la division connaissance du service de l'eau, des milieux aquatiques et des risques naturels, adjoint au chef du service de l'eau et des milieux aquatiques à la direction régionale de l'environnement de Bretagne ;
 
-- adjoint au chef du service nature et paysages de la direction régionale de l'environnement de Bretagne ;
+-chef du service de la nature et des paysages, adjoint au directeur régional de l'environnement de Bretagne ; (à compter du 1er octobre 2008)
 
 - chef du service d'assistance aux collectivités à la direction départementale de l'équipement d'Eure-et-Loir ;
 
-- chef du service de l'eau et des milieux aquatiques à la direction régionale de l'environnement de la Guadeloupe.
+-chef du service de l'eau et des milieux aquatiques à la direction régionale de l'environnement de la Guadeloupe ;
 
-IV. - Dans les établissements publics qui dépendent du ministère
+-secrétaire général de la direction régionale de l'environnement de la Martinique. (Ajouté à compter du 3 novembre 2008)
 
-chargé de l'agriculture et/ou du ministère chargé de l'environnement
+IV.-Dans les établissements publics qui dépendent du ministère
+
+chargé de l'agriculture et / ou du ministère chargé de l'environnement
 
 a) Dans les services de l'établissement public Les Haras nationaux :
 
-- délégué régional d'Auvergne et de Limousin ;
+-délégué régional d'Auvergne et de Limousin ;
 
-- directeur délégué à l'international ;
+-directeur délégué à l'international ;
 
-- directeur territorial pour l'Ouest.
+-directeur territorial pour l'Ouest ;
+
+-responsable du secteur de Normandie ; (ajouté à compter du 1er juillet 2008)
+
+-délégué régional de Midi-Pyrénées. (ajouté à compter du 1er juillet 2008)
 
 b) Dans les services de l'Inventaire forestier national :
 
-- directeur administratif et financier ;
+-directeur administratif et financier ;
 
-- chef de l'échelon interrégional de Montpellier.
+-chef de l'échelon interrégional de Montpellier.
 
 c) Dans les services du Centre national du machinisme agricole, du génie rural, des eaux et des forêts :
 
-- chef du service financier ;
+-chef du service financier ;
 
 - responsable national du thème de recherche "maîtrise des écoulements et des transferts pour préserver l'hygiène des aliments au groupement de Rennes" ;
 
