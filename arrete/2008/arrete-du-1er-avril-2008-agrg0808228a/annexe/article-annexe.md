@@ -32,8 +32,6 @@ Zone de protection :
 
 - département de l'Aube ;
 
-- département de l'Aude : arrondissement de Narbonne ;
-
 - département de l'Aveyron ;
 
 - département des Bouches-du-Rhône ;
@@ -64,7 +62,7 @@ Zone de protection :
 
 - département du Gard ;
 
-- département de l'Hérault ;
+- département de l'Hérault : arrondissements de Montpellier, Lodève et cantons de Agde, Bédarieux, Béziers (2e canton), Capestang, Florensac, Montagnac, Murviel-lès-Béziers, Olargues, Pézenas, Roujan, Saint-Chinian, Saint-Gervais-sur-Mare, La Salvetat-sur-Agout, Servian, Béziers (3e canton), Béziers (4e canton), Béziers ;
 
 - département d'Ille-et-Vilaine ;
 
@@ -86,7 +84,7 @@ Zone de protection :
 
 - département du Loiret ;
 
-- département du Lot ;
+- département du Lot : arrondissement de Figeac et cantons de Gramat, Labastide-Murat, Lauzès, Limogne-en-Quercy, Martel, Payrac, Saint-Géry, Souillac, Vayrac ;
 
 - département de la Lozère ;
 
@@ -120,8 +118,6 @@ Zone de protection :
 
 - département du Puy-de-Dôme ;
 
-- département des Pyrénées-Orientales : cantons d'Argelès-sur-Mer, de Saint-Laurent-de-la-Salanque, de la Côte Vermeille, de Perpignan (3e canton), de Perpignan (7e canton), de la Côte Radieuse, d'Elne, de Toulouges, de Canet-en-Roussillon, de Perpignan ;
-
 - département du Bas-Rhin ;
 
 - département du Haut-Rhin ;
@@ -150,13 +146,13 @@ Zone de protection :
 
 - département de la Somme ;
 
-- département du Tarn : arrondissement d'Albi et cantons d'Anglès, de Brassac, de Lacaune, de Montredon-Labessonnié, de Murat-sur-Vèbre, de Roquecourbe, de Vabre ;
+- département du Tarn : cantons de Alban, Cadalen, Carmaux-Nord, Castelnau-de-Montmiral, Cordes-sur-Ciel, Gaillac, Monestiés, Pampelonne, Réalmont, Valderiès, Valence-d'Albigeois, Vaour, Villefranche-d'Albigeois, Albi-Nord-Ouest, Albi-Sud, Carmaux-Sud, Albi-Nord-Est, Albi-Est, Albi-Ouest, Albi, Carmaux ;
 
-- département de Tarn-et-Garonne : cantons de Caussade, de Caylus, de Lafrançaise, de Molières, de Monclar-de-Quercy, de Montpezat-de-Quercy, de Nègrepelisse, de Saint-Antonin-Noble-Val, de Villebrumier, de Montauban ;
+- département de Tarn-et-Garonne : cantons de Caylus, Saint-Antonin-Noble-Val ;
 
 - département du Var ;
 
-- département de Vaucluse :
+- département de Vaucluse ;
 
 - département de la Vendée ;
 
@@ -192,13 +188,13 @@ Zone de protection :
 
 - département de la Réunion.
 
-Zone E (sérotypes 1 et 8)
+**Zone E (sérotypes 1 et 8)**
 
 Zone de protection :
 
 - département de l'Ariège ;
 
-- département de l'Aude : arrondissements de Carcassonne, de Limoux ;
+- département de l'Aude ;
 
 - département de la Charente ;
 
@@ -212,7 +208,11 @@ Zone de protection :
 
 - département de la Gironde ;
 
+- département de l'Hérault : cantons de Olonzac, Saint-Pons-de-Thomières ;
+
 - département des Landes ;
+
+- département du Lot : cantons de Cahors-Nord-Est, Cahors-Sud, Castelnau-Montratier, Catus, Cazals, Gourdon, Lalbenque, Luzech, Montcuq, Puy-l'Evêque, Saint-Germain-du-Bel-Air, Salviac, Cahors-Nord-Ouest, Cahors ;
 
 - département de Lot-et-Garonne ;
 
@@ -220,8 +220,8 @@ Zone de protection :
 
 - département des Hautes-Pyrénées ;
 
-- département des Pyrénées-Orientales : arrondissement de Prades et cantons d'Arles-sur-Tech, de Céret, de Latour-de-France, de Millas, de Prats-de-Mollo-la-Preste, de Rivesaltes, de Saint-Paul-de-Fenouillet, de Thuir, de Saint-Estève ;
+- département des Pyrénées-Orientales ;
 
-- département du Tarn : cantons de Cuq-Toulza, de Dourgne, de Graulhet, de Labruguière, de Lautrec, de Lavaur, de Mazamet-Nord-Est, de Puylaurens, de Saint-Amans-Soult, de Saint-Paul-Cap-de-Joux, de Vielmur-sur-Agout, de Mazamet-Sud-Ouest, de Castres-Nord, de Castres-Ouest, de Castres, de Mazamet ;
+- département du Tarn : cantons de Cuq-Toulza, Dourgne, Graulhet, Labruguière, Lautrec, Lavaur, Mazamet-Nord-Est, Puylaurens, Saint-Amans-Soult, Saint-Paul-Cap-de-Joux, Vielmur-sur-Agout, Mazamet-Sud-Ouest, Castres-Nord, Castres-Ouest, Castres, Mazamet, Anglès, Brassac, Lisle-sur-Tarn, Montredon-Labessonnié, Rabastens, Roquecourbe, Salvagnac, Vabre ;
 
-- département de Tarn-et-Garonne : arrondissement de Castelsarrasin et cantons de Montech, de Grisolles, de Verdun-sur-Garonne.
+- département de Tarn-et-Garonne : arrondissement de Castelsarrasin et cantons de Montech, Grisolles, Verdun-sur-Garonne, Caussade, Lafrançaise, Molières, Monclar-de-Quercy, Montauban (1er canton), Montpezat-de-Quercy, Nègrepelisse, Villebrumier, Montauban (3e canton), Montauban.
