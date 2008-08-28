@@ -36,4 +36,6 @@ Ces véhicules ne doivent être utilisés que dans un rayon maximal de 50 kilom�
 
 14. Véhicules utilisés exclusivement sur route dans des installations de plates-formes telles que les ports, ports de transbordement intermodaux et terminaux ferroviaires ;
 
-15. Véhicules utilisés pour le transport d'animaux vivants des fermes aux marchés locaux et vice versa, ou des marchés aux abattoirs locaux, dans un rayon maximal de 50 kilomètres autour de l'établissement de départ.
+15. Véhicules utilisés pour le transport d'animaux vivants des fermes aux marchés locaux et vice versa, ou des marchés aux abattoirs locaux, dans un rayon maximal de 50 kilomètres autour de l'établissement de départ ;
+
+16. Véhicules circulant exclusivement sur des îles dont la superficie ne dépasse pas 400 kilomètres carrés et qui ne sont pas reliées au reste du territoire national par un pont, un gué ou un tunnel ouverts aux véhicules automobiles.
