@@ -38,7 +38,7 @@ III.-Sont exclus de la commission de gestion les :
 
 1° Frais d'assurance ;
 
-2° Honoraires des experts forestiers dans le cadre des missions d'expertises forestières prévues par l'article 423-45 et contrôleurs légaux des comptes ;
+2° Honoraires des experts forestiers dans le cadre des missions d'expertises forestières prévues par les articles 423-42 et suivants et contrôleurs légaux des comptes ;
 
 3° Coûts d'exploitation des bois et forêts, et notamment des travaux de reconstitution, d'entretien des forêts et infrastructures et de coupes des bois.
 

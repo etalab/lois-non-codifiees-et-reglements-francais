@@ -2,7 +2,7 @@
 
 Lorsque l'AMF décide de retirer l'agrément, sa décision est notifiée à la société par lettre recommandée avec demande d'avis de réception. L'AMF informe le public du retrait d'agrément par insertion dans les journaux ou publications qu'elle désigne.
 
-Cette décision précise les conditions de délai et de mise en oeuvre du retrait d'agrément. Pendant ce délai, la société est placée sous le contrôle d'un mandataire, désigné par l'AMF, parmi les dirigeants ou anciens dirigeants de sociétés habilitées à gérer des portefeuilles pour compte de tiers.
+Cette décision précise les conditions de délai et de mise en oeuvre du retrait d'agrément. Pendant ce délai, la société est placée sous le contrôle d'un mandataire, désigné par l'AMF, parmi les dirigeants ou anciens dirigeants de sociétés habilitées à gérer des OPCVM ou des portefeuilles pour compte de tiers.
 
 Le mandataire est tenu au secret professionnel ; s'il dirige lui-même une société, celle-ci ne peut directement ou indirectement reprendre la clientèle.
 

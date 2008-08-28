@@ -16,4 +16,4 @@ II.-Au sens du présent livre, une personne concernée est toute personne qui es
 
 4° Une personne physique mise à disposition et placée sous l'autorité du prestataire ou d'un agent lié du prestataire et qui participe à la fourniture de services d'investissement ou la gestion d'OPCVM par le prestataire de services d'investissement ;
 
-5° Une personne physique qui participe, conformément à un accord d'externalisation, à la fourniture de services au prestataire ou à son agent lié en vue de la fourniture de services d'investissement ou la gestion d'OPCVM par le prestataire de services d'investissement.
+5° Une personne physique qui participe, conformément à un accord d'externalisation, à la fourniture de services au prestataire ou à son agent lié en vue de la fourniture de services d'investissement ou conformément à une délégation de gestion d'OPCVM, à la gestion d'OPCVM par le prestataire de services d'investissement.

@@ -1,6 +1,6 @@
 # Article 314-86
 
-Le prestataire de services d'investissement qui exécute pour le compte d'un client un ordre ne relevant pas de la gestion de portefeuille prend les mesures suivantes en ce qui concerne cet ordre :
+Le prestataire de services d'investissement qui exécute ou transmet pour le compte d'un client un ordre ne relevant pas de la gestion de portefeuille prend les mesures suivantes en ce qui concerne cet ordre :
 
 1° Le prestataire de services d'investissement transmet sans délai au client, sur un support durable, les informations essentielles concernant l'exécution de cet ordre ;
 

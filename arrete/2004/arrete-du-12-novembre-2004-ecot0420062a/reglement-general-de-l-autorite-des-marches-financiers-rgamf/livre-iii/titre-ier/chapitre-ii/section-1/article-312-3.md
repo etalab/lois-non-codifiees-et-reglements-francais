@@ -16,7 +16,7 @@ b) Des FCP gérés par la société de gestion de portefeuille, y compris les po
 
 c) Des fonds d'investissement gérés par la société de gestion de portefeuille, y compris les portefeuilles dont elle a délégué la gestion mais à l'exclusion des portefeuilles qu'elle gère par délégation.
 
-Le complément de fonds propres peut être constitué dans la limite de 50 % d'une garantie donnée par un établissement de crédit ou une entreprise d'assurance dont le siège social est établi dans un Etat partie à l'accord sur l'Espace économique européen ou dans un Etat non partie à l'accord sur l'Espace économique européen pour autant qu'il soit soumis à des règles prudentielles que l'AMF juge équivalentes à celles applicables aux établissements de crédit et entreprises d'investissement dont le siège social est établi dans un Etat partie à l'accord sur l'Espace économique européen ;
+Le complément de fonds propres peut être constitué dans la limite de 50 % d'une garantie donnée par un établissement de crédit ou une entreprise d'assurance dont le siège social est établi dans un Etat partie à l'accord sur l'Espace économique européen ou dans un Etat non partie à l'accord sur l'Espace économique européen pour autant qu'il soit soumis à des règles prudentielles que l'AMF juge équivalentes à celles applicables aux établissements de crédit et aux entreprises d'assurance dont le siège social est établi dans un Etat partie à l'accord sur l'Espace économique européen ;
 
 2° Le quart des frais généraux annuels de l'exercice précédent.
 

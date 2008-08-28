@@ -1,6 +1,6 @@
 # Article 312-6
 
-La société de gestion de portefeuille est dirigée effectivement et voit son orientation déterminée par deux personnes au moins possédant l'honorabilité nécessaire ainsi que l'expérience adéquate à leurs fonctions.
+La société de gestion de portefeuille est dirigée effectivement par deux personnes au moins possédant l'honorabilité nécessaire ainsi que l'expérience adéquate à leurs fonctions, en vue de garantir sa gestion saine et prudente.
 
 L'une au moins de ces deux personnes doit être un mandataire social habilité à représenter la société dans ses rapports avec les tiers.
 

@@ -1,6 +1,6 @@
 # Article 212-23
 
-1° En vue de la première admission des titres mentionnés au 1° du I de l'article L. 211-1 du code monétaire et financier aux négociations sur un marché réglementé ou sur un système multilatéral de négociation organisé mentionné à l'article 525-1, l'émetteur est autorisé à établir un document de base.
+1° En vue de la première admission des titres mentionnés au 1° du I de l'article L. 211-1 du code monétaire et financier aux négociations sur un marché réglementé ou sur un système multilatéral de négociation organisé mentionné à l'article 524-1, l'émetteur est autorisé à établir un document de base.
 
 2° Le projet de document de base est déposé, par l'émetteur ou par toute personne agissant pour le compte de l'émetteur, à l'AMF au moins vingt jours de négociation avant la date prévue d'obtention du visa demandé pour cette opération.
 

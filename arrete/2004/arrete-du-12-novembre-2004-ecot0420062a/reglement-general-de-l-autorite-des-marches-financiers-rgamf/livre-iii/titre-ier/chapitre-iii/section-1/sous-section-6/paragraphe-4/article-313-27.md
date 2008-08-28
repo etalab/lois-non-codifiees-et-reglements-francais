@@ -8,7 +8,7 @@ a) Ils ont connaissance de la date probable de diffusion de cette analyse financ
 
 b) Cette connaissance n'est pas accessible au public ou aux clients et ne peut pas être aisément déduite de l'information disponible ;
 
-c) Les analystes financiers et les autres personnes concernées s'abstiennent d'agir aussi longtemps que les destinataires de l'analyse financière n'ont pas eu une opportunité raisonnable d'agir sur la base de la connaissance mentionnée au a ;
+Les analystes financiers et les autres personnes concernées s'abstiennent d'agir aussi longtemps que les destinataires de l'analyse financière n'ont pas eu une opportunité raisonnable d'agir sur la base de la connaissance mentionnée au a ;
 
 2° Dans les situations non mentionnées au 1°, les analystes financiers et les autres personnes concernées intervenant dans la production d'analyse financière n'exécutent pas de transactions personnelles sur les instruments financiers sur lesquels porte l'analyse, ou sur tout autre instrument financier lié, qui iraient à l'encontre de recommandations en vigueur émises par ces personnes, sauf dans des circonstances exceptionnelles et avec l'accord préalable du responsable de la conformité ;
 

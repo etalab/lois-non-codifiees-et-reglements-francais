@@ -1,6 +1,6 @@
 # Article 313-10
 
-Le prestataire de services d'investissement établit et maintient opérationnelles des dispositions appropriées en vue d'interdire à toute personne concernée intervenant dans des activités susceptibles de donner lieu à un conflit d'intérêts ou ayant accès à des informations privilégiées mentionnées aux articles 621-1 à 621-3 ou à d'autres informations confidentielles relatives aux clients ou aux transactions conclues avec ou pour le compte des clients, d'agir comme suit dans le cadre de l'exercice de ses fonctions au sein du prestataire :
+Le prestataire de services d'investissement établit et maintient opérationnelles des dispositions appropriées en vue d'interdire à toute personne concernée ou personne agissant pour le compte de celle-ci intervenant dans des activités susceptibles de donner lieu à un conflit d'intérêts ou ayant accès à des informations privilégiées mentionnées aux articles 621-1 à 621-3 ou à d'autres informations confidentielles relatives aux clients ou aux transactions conclues avec ou pour le compte des clients, d'agir comme suit dans le cadre de l'exercice de ses fonctions au sein du prestataire :
 
 1° Réaliser une transaction personnelle qui remplit au moins l'un des critères suivants :
 

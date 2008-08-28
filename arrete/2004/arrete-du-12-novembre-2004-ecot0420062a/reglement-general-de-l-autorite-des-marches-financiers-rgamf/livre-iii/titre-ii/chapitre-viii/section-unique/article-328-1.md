@@ -4,4 +4,4 @@ Les dispositions des deuxième et troisième alinéas de l'article 315-1, des ar
 
 1° Dont les instruments financiers sont admis aux négociations sur un marché réglementé au sens de l'article L. 421-1 du code monétaire et financier ou pour lesquels une demande d'admission à la négociation sur un tel marché a été présentée ; ou
 
-2° Dont les titres sont admis aux négociations sur un système multilatéral de négociation organisé mentionné à l'article 525-1.
+2° Dont les titres sont admis aux négociations sur un système multilatéral de négociation organisé mentionné à l'article 524-1.
