@@ -537,11 +537,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <td align="center"> 312 p<br/>
 </td>
 <td align="center"> 5 ans </td>
-<td align="center">
-<p> Association consulaire interprofessionnelle de</p>
-<p>formation permanente (ACIFOP) Bergerac. - ESAAl</p>
-<p>(Ecole supérieure d'achats, approvisionnements et</p>
-<p>logistique). </p>
+<td align="center">Dordogne formation.<br/>
 </td>
 </tr>
 <tr>

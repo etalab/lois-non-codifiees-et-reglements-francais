@@ -741,8 +741,10 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="center">
 <br/>
+<br/>
 <p>CCI de Rouen. - Institut des formations en alternance (IFA).<br/>
 </p>
+<br/>
 <br/>
 </td>
 </tr>
@@ -805,8 +807,8 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <tr>
 <td align="center"> III</td>
 <td align="center">
-<p> Chargé d'insertion et du développement </p>
-<p>local. </p>
+<p>Coordinateur(trice) de l'intervention sociale </p>
+<p>et professionnelle. </p>
 </td>
 <td align="center"> 332 t<br/>
 </td>

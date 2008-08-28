@@ -153,7 +153,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </tr>
 <tr>
 <td align="center"> IV</td>
-<td align="center"> Gestionnaire d'entreprise artisanale.<br/>
+<td align="center"> Assistant(e) de dirigeant(e) d'entreprise artisanale (BCCEA).<br/>
 </td>
 <td align="center"> 310 t<br/>
 </td>
@@ -751,9 +751,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <td align="center"> 332 n</td>
 <td align="center"> 5 ans</td>
 <td align="center">
-<p> UNIVERSITE DE BRETAGNE OCCIDENTALE (UBO) - </p>
-<p>BREST. - UNIVERSITE RENNES-II - HAUTE BRETAGNE. </p>
-<p>- COLLEGE COOPERATIF EN BRETAGNE. </p>
+<p>COLLEGE COOPERATIF EN BRETAGNE. </p>
 </td>
 </tr>
 <tr>
@@ -805,7 +803,8 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <td align="center"> 333 p</td>
 <td align="center"> 5 ans<br/>
 </td>
-<td align="center"> UNIVERSITE RENNES-II - HAUTE BRETAGNE. <p>- COLLEGE COOPERATIF EN BRETAGNE. </p>
+<td align="center">
+<p>COLLEGE COOPERATIF EN BRETAGNE. </p>
 </td>
 </tr>
 <tr>
