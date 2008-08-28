@@ -773,69 +773,170 @@ LISTE DES OBJECTIFS NUTRITIONNELS PARTICULIERS
 </td>
 </tr>
 <tr>
-<td rowspan="9" valign="top" width="113">
+<td rowspan="18" valign="top" width="113">
 <p>Réduction du risque de fièvre vitulaire.</p>
 </td>
-<td valign="top" width="112">
-<p>Faible teneur en calcium,</p>
+<td rowspan="3" valign="top" width="112">
+<p>Faible teneur en calcium.</p>
 </td>
-<td rowspan="9" valign="top" width="64">
-<p>Vaches laitières.</p>
+<td rowspan="18" valign="top" width="64">
+<p>Vaches laitières</p>
 </td>
 <td valign="top" width="110">
 <p>Calcium.</p>
 </td>
-<td rowspan="9" valign="top" width="102">
-<p>Une à quatre semaines avant le vêlage.</p>
+<td valign="top" width="102">
+<p>Une à quatre semaines avant le vêlage. </p>
 </td>
-<td rowspan="9" valign="top" width="141">
-<p>Mentionner dans le mode d'emploi : "Arrêter l'administration à partir du vêlage." </p>
+<td valign="top" width="141">
+<p>Mentionner dans le mode d'emploi :</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="112">
-<p>et/ou</p>
-</td>
 <td valign="top" width="110">
 <p>Phosphore.</p>
 </td>
+<td valign="top" width="102"/>
+<td valign="top" width="141">
+<p>"Arrêter l'administration à partir du vêlage."</p>
+</td>
 </tr>
 <tr>
-<td rowspan="7" valign="top" width="112">
-<p>Faible rapport cations/anions.</p>
-</td>
 <td valign="top" width="110">
 <p>Magnésium.</p>
 </td>
+<td valign="top" width="102"/>
+<td valign="top" width="141"/>
 </tr>
 <tr>
+<td valign="top" width="112">
+<p>et/ou </p>
+</td>
+<td valign="top" width="110"/>
+<td valign="top" width="102"/>
+<td valign="top" width="141"/>
+</tr>
+<tr>
+<td rowspan="6" valign="top" width="112">
+<p>Faible rapport cations/anions. </p>
+</td>
 <td valign="top" width="110">
-<p>Calcium.</p>
+<p>Calcium. </p>
+</td>
+<td valign="top" width="102">
+<p>Une à quatre semaines avant le vêlage.</p>
+</td>
+<td valign="top" width="141">
+<p>Mentionner dans le mode d'emploi :</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="110">
-<p>Phosphore.</p>
+<p>Phosphore. </p>
+</td>
+<td valign="top" width="102"/>
+<td valign="top" width="141">
+<p>"Arrêter l'administration à partir du vêlage." </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="110">
-<p>Sodium.</p>
+<p>Sodium. </p>
 </td>
+<td valign="top" width="102"/>
+<td valign="top" width="141"/>
 </tr>
 <tr>
 <td valign="top" width="110">
-<p>Potassium.</p>
+<p>Potassium. </p>
 </td>
+<td valign="top" width="102"/>
+<td valign="top" width="141"/>
 </tr>
 <tr>
 <td valign="top" width="110">
-<p>Chlorures.</p>
+<p>Chlorures. </p>
 </td>
+<td valign="top" width="102"/>
+<td valign="top" width="141"/>
 </tr>
 <tr>
 <td valign="top" width="110">
-<p>Soufre.</p>
+<p>Soufre. </p>
+</td>
+<td valign="top" width="102"/>
+<td valign="top" width="141"/>
+</tr>
+<tr>
+<td valign="top" width="112">
+<p>ou </p>
+</td>
+<td valign="top" width="110"/>
+<td valign="top" width="102"/>
+<td valign="top" width="141"/>
+</tr>
+<tr>
+<td rowspan="3" valign="top" width="112">
+<p>Teneur élevée en zéolite (aluminosilicate de sodium de synthèse). </p>
+</td>
+<td valign="top" width="110">
+<p>Teneur en aluminosilicate de sodium de synthèse. </p>
+</td>
+<td valign="top" width="102">
+<p>Les deux semaines précédant le vêlage. </p>
+</td>
+<td valign="top" width="141">
+<p>Mentionner dans le mode d'emploi :</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="110"/>
+<td valign="top" width="102"/>
+<td valign="top" width="141">
+<p>"Il faut limiter la quantité d'aliments de manière à ne pas dépasser une dose journalière de 500 g d'aluminosilicate de sodium par animal." </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="110"/>
+<td valign="top" width="102"/>
+<td valign="top" width="141">
+<p>"Arrêter l'administration à partir du vêlage." </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="112">
+<p>ou </p>
+</td>
+<td valign="top" width="110"/>
+<td valign="top" width="102"/>
+<td valign="top" width="141"/>
+</tr>
+<tr>
+<td rowspan="3" valign="top" width="112">
+<p>Teneur élevée en calcium sous la forme de sels de calcium à haute disponibilité. </p>
+</td>
+<td valign="top" width="110">
+<p>Teneur totale en calcium, sources et quantités respectives de calcium. </p>
+</td>
+<td valign="top" width="102">
+<p>Dès les premiers signes de la parturition et jusqu'à deux jours après celle-ci. </p>
+</td>
+<td valign="top" width="141">
+<p>Indiquer sur l'emballage, le récipient ou l'étiquette :</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="110"/>
+<td valign="top" width="102"/>
+<td valign="top" width="141">
+<p>- le mode d'emploi, c'est-à-dire le nombre d'applications et la durée avant et après le vêlage ;</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="110"/>
+<td valign="top" width="102"/>
+<td valign="top" width="141">
+<p>- la mention : "Avant utilisation, il est recommandé de demander l'avis d'un vétérinaire." </p>
 </td>
 </tr>
 <tr>
@@ -1018,7 +1119,7 @@ LISTE DES OBJECTIFS NUTRITIONNELS PARTICULIERS
 <p>Jusqu'à six semaines.</p>
 </td>
 <td valign="top" width="141">
-<p>Indiquer sur l'emballage, le récipient ou l'étiquette : "Spécialement pour les jeunes animaux nourris intensivement." </p>
+<p>Indiquer sur l'emballage, le récipient ou l'étiquette : "Spécialement pour les jeunes animaux nourris intensivement. </p>
 </td>
 </tr>
 <tr>
