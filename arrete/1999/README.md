@@ -10,7 +10,6 @@
 - [Arrêté du 1 juillet 1999 (ATEP9980263A)](arrete-du-1-juillet-1999-atep9980263a)
 - [Arrêté du 1 juillet 1999 (ATEP9980264A)](arrete-du-1-juillet-1999-atep9980264a)
 - [Arrêté du 1 juillet 1999 (ATEP9980265A)](arrete-du-1-juillet-1999-atep9980265a)
-- [Arrêté du 1 juillet 1999 (ECOU9900030A)](arrete-du-1-juillet-1999-ecou9900030a)
 - [Arrêté du 1 juillet 1999 (FPPA9900097A)](arrete-du-1-juillet-1999-fppa9900097a)
 - [Arrêté du 1 juillet 1999 (MESS9921899A)](arrete-du-1-juillet-1999-mess9921899a)
 - [Arrêté du 1 juin 1999 (DEFD9901588A)](arrete-du-1-juin-1999-defd9901588a)

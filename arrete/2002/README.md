@@ -766,7 +766,6 @@
 - [Arrêté du 29 avril 2002 (AGRG0201031A)](arrete-du-29-avril-2002-agrg0201031a)
 - [Arrêté du 29 avril 2002 (ECOP0200315A)](arrete-du-29-avril-2002-ecop0200315a)
 - [Arrêté du 29 avril 2002 (ECOP0200316A)](arrete-du-29-avril-2002-ecop0200316a)
-- [Arrêté du 29 avril 2002 (ECOU0200025A)](arrete-du-29-avril-2002-ecou0200025a)
 - [Arrêté du 29 avril 2002 (INTA0200187A)](arrete-du-29-avril-2002-inta0200187a)
 - [Arrêté du 29 avril 2002 (MCCK0200262A)](arrete-du-29-avril-2002-mcck0200262a)
 - [Arrêté du 29 avril 2002 (MENB0201178A)](arrete-du-29-avril-2002-menb0201178a)

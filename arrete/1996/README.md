@@ -254,7 +254,6 @@
 - [Arrêté du 9 avril 1996 (INTA9600168A)](arrete-du-9-avril-1996-inta9600168a)
 - [Arrêté du 9 avril 1996 (MIPP9600145A)](arrete-du-9-avril-1996-mipp9600145a)
 - [Arrêté du 9 avril 1996 (TASS9621113A)](arrete-du-9-avril-1996-tass9621113a)
-- [Arrêté du 9 décembre 1996 (ECOU9600022A)](arrete-du-9-decembre-1996-ecou9600022a)
 - [Arrêté du 9 décembre 1996 (INDG9600823A)](arrete-du-9-decembre-1996-indg9600823a)
 - [Arrêté du 9 décembre 1996 (TASH9624330A)](arrete-du-9-decembre-1996-tash9624330a)
 - [Arrêté du 9 décembre 1996 (TASH9624331A)](arrete-du-9-decembre-1996-tash9624331a)
