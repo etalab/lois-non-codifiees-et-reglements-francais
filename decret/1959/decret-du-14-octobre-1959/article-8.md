@@ -4,7 +4,7 @@ La présente autorisation est accordée à la Société du pipe-line sud-europé
 
 Le régime juridique de cette société sera celui fixé par la loi du 24 juillet 1867 modifiée. Toutefois :
 
-Le président du conseil d'administration, le directeur général adjoint et la moitié au moins des administrateurs devront être de nationalité française.
+Le président du conseil d'administration, le directeur général et la moitié au moins des administrateurs doivent être de nationalité française ou ressortissants d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen.
 
 Il pourra être dérogé aux dispositions du premier alinéa de l'article 3 de la loi du 16 novembre 1940 relative aux sociétés anonymes.
 
