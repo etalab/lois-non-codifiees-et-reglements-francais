@@ -6,4 +6,4 @@ Dans des zones circonscrites des départements suivants déterminées par arrêt
 
 Dans des zones circonscrites des départements suivants déterminées par arrêté préfectoral et justifiées par une capacité fourragère s'opposant à une utilisation extensive des terres, les préfets peuvent augmenter le plafond de la plage de chargement jusqu'à 2,5 UGB par hectare. Les départements concernés sont : l'Indre, les Pyrénées-Atlantiques et les Hautes-Pyrénées.
 
-Dans les départements d'outre-mer, le préfet peut accorder l'ICHN au bénéfice d'exploitations dont le chargement dépasse le plafond fixé en métropole à condition que, dans la petite région dont elles relèvent, le chargement moyen n'excède pas 2,5 UGB par hectare.
+Dans les départements d'outre-mer, le préfet peut augmenter le plafond de la plage de chargement jusqu'à 4 UGB par hectare.
