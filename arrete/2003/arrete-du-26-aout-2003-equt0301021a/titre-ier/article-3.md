@@ -22,6 +22,4 @@ Au sens du présent arrêté, on entend par :
 
 - inspections, les activités de surveillance, de vérification et de suivi de l'état des procédures, méthodes, conditions d'exécution en vue de s'assurer du respect des exigences spécifiées pour la sécurité, le fonctionnement et la qualité ;
 
-- modification substantielle de la réglementation, toute modification ayant un impact sur l'exercice des fonctions de sécurité ;
-
 - retour d'expérience, l'ensemble des dispositions permettant l'analyse des accidents, incidents ou défaillances du système ferroviaire afin de définir et de mettre en oeuvre les mesures pour que de tels événements ne se reproduisent pas, ou avec une fréquence moindre, ou avec des conséquences moindres.
