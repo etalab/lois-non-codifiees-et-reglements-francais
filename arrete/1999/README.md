@@ -507,7 +507,6 @@
 - [Arrêté du 22 septembre 1999 (ECOT9910383A)](arrete-du-22-septembre-1999-ecot9910383a)
 - [Arrêté du 23 août 1999 (EQUA9901247A)](arrete-du-23-aout-1999-equa9901247a)
 - [Arrêté du 23 août 1999 (MESW9911269A)](arrete-du-23-aout-1999-mesw9911269a)
-- [Arrêté du 23 avril 1999 (AGRG9900633A)](arrete-du-23-avril-1999-agrg9900633a)
 - [Arrêté du 23 avril 1999 (MESS9921381A)](arrete-du-23-avril-1999-mess9921381a)
 - [Arrêté du 23 décembre 1998 (ATEP9980022A)](arrete-du-23-decembre-1998-atep9980022a)
 - [Arrêté du 23 décembre 1998 (ATEP9980023A)](arrete-du-23-decembre-1998-atep9980023a)
