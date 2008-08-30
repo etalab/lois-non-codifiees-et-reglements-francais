@@ -32,7 +32,7 @@ Zone de protection :
 
 - département de l'Aube ;
 
-- département de l'Aveyron ;
+- département de l'Aveyron : arrondissement de Rodez et cantons de Aubin, Camarès, Campagnac, Capdenac-Gare, Cornus, Decazeville, Millau-Est, Montbazens, Nant, Peyreleau, Rieupeyroux, Saint-Affrique, Saint-Beauzély, Saint-Rome-de-Tarn, Salles-Curan, Sévérac-le-Château, Vézins-de-Lévézou, Millau-Ouest, Millau ;
 
 - département des Bouches-du-Rhône ;
 
@@ -62,13 +62,13 @@ Zone de protection :
 
 - département du Gard ;
 
-- département de l'Hérault : arrondissements de Montpellier, Lodève et cantons de Agde, Bédarieux, Béziers (2e canton), Florensac, Montagnac, Murviel-lès-Béziers, Olargues, Pézenas, Roujan, Saint-Gervais-sur-Mare, Servian, Béziers (3e canton), Béziers (4e canton), Béziers ;
+- département de l'Hérault : arrondissements de Montpellier, Lodève et cantons de Agde, Bédarieux, Florensac, Montagnac, Pézenas, Roujan, Servian ;
 
 - département d'Ille-et-Vilaine ;
 
 - département de l'Indre ;
 
-- département d'Indre-et-Loire ;
+- département d'Indre-et-Loire;
 
 - département de l'Isère ;
 
@@ -84,7 +84,7 @@ Zone de protection :
 
 - département du Loiret ;
 
-- département du Lot : arrondissement de Figeac et cantons de Gramat, Labastide-Murat, Martel, Payrac, Souillac, Vayrac ;
+- département du Lot : cantons de Bretenoux, Figeac-Est, Figeac-Ouest, Lacapelle-Marival, Latronquière, Martel, Saint-Céré, Souillac, Vayrac, Sousceyrac, Figeac ;
 
 - département de la Lozère ;
 
@@ -192,6 +192,8 @@ Zone de protection :
 
 - département de l'Aude ;
 
+- département de l'Aveyron : cantons de Belmont-sur-Rance, Najac, Saint-Sernin-sur-Rance, Villefranche-de-Rouergue, Villeneuve ;
+
 - département de la Charente ;
 
 - département de la Charente-Maritime ;
@@ -204,11 +206,11 @@ Zone de protection :
 
 - département de la Gironde ;
 
-- département de l'Hérault : cantons de Capestang, Olonzac, Saint-Chinian, Saint-Pons-de-Thomières, La Salvetat-sur-Agoût ;
+- département de l'Hérault : cantons de Capestang, Olonzac, Saint-Chinian, Saint-Pons-de-Thomières, La Salvetat-sur-Agoût, Béziers (2e canton), Murviel-lès-Béziers, Olargues, Saint-Gervais-sur-Mare, Béziers (3e canton), Béziers (4e canton), Béziers ;
 
 - département des Landes ;
 
-- département du Lot : cantons de Cahors-Nord-Est, Cahors-Sud, Castelnau-Montratier, Catus, Cazals, Gourdon, Lalbenque, Lauzès, Luzech, Limoge-en-Quercy, Montcuq, Puy-l'Evêque, Saint-Germain-du-Bel-Air, Saint-Géry, Salviac, Cahors-Nord-Ouest, Cahors ;
+- département du Lot : arrondissement de Cahors et cantons de Cajarc, Gourdon, Gramat, Labastide-Murat, Livernon, Payrac, Saint-Germain-du-Bel-Air, Salviac ;
 
 - département de Lot-et-Garonne ;
 
