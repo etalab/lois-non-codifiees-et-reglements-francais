@@ -36,4 +36,4 @@ De plus en ce qui concerne les grandes cuisines ouvertes :
 
 - les liaisons entre le ventilateur d'extraction et le conduit doivent être en matériaux classés M0 ou A2-s1, d0 ;
 
-- Les canalisations électriques alimentant les ventilateurs ne doivent pas être affectées par un sinistre situé dans la cuisine.
+- Les canalisations électriques alimentant les ventilateurs ne doivent pas être affectées par un sinistre situé dans la cuisine (ou l'îlot de cuisson défini à l'article PE 18). Il est convenu que l'utilisation de câble CR1 dans la traversée de la cuisine (ou de l'îlot de cuisson) permet de répondre à cette exigence.

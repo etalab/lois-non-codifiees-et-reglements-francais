@@ -30,6 +30,6 @@ L'extraction est toujours mécanique et l'installation présente les caractéris
 
 - les liaisons entre le ventilateur d'extraction et le conduit doivent être en matériaux classés M0 ou A2-s1, d0 ;
 
-- les canalisations électriques alimentant les ventilateurs ne doivent pas être affectées par un sinistre affectant l'îlot de cuisson.
+- les canalisations électriques alimentant les ventilateurs ne doivent pas être affectées par un sinistre affectant l'îlot de cuisson. Il est convenu que l'utilisation de câble CR1 dans la traversée de l'îlot de cuisson permet de répondre à cette exigence ;
 
 - la commande des ventilateurs assurant l'évacuation des buées et des graisses doit être correctement identifiée par une plaque indélébile et placée dans l'enceinte de l'îlot à un endroit facilement accessible par le personnel de service.
