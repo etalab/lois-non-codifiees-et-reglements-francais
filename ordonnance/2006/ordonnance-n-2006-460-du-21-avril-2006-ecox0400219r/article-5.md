@@ -18,11 +18,11 @@ III. - Ces projets comprennent :
 
 2° Les acquisitions à l'amiable, par adjudication, par exercice du droit de préemption ou poursuivies par voie d'expropriation pour cause d'utilité publique, de droits immobiliers, de fonds de commerce et de droits sociaux donnant vocation à l'attribution en pleine propriété d'immeubles ou de parties d'immeubles.
 
-IV. - L'avis du chef du service de l'administration financière de l'Etat ou du directeur des services fiscaux porte sur les conditions financières de l'opération.
+IV. - L'avis du chef du service de l'administration financière de l'Etat porte sur les conditions financières de l'opération.
 
 Pour les opérations autres que celles réalisées par l'exercice du droit de préemption dans les conditions prévues par le code de l'urbanisme, l'avis doit être formulé dans le délai de trois mois à compter de la date de réception d'une demande d'avis.
 
-Ce délai peut être prolongé d'un commun accord si la difficulté de localisation des immeubles ou le nombre, la complexité ou la diversité des évaluations le nécessitent. En cas de non-respect du délai de trois mois ou du délai prorogé, il peut être procédé à la consultation de la commission d'aménagement foncier.
+Ce délai peut être prolongé d'un commun accord si la difficulté de localisation des immeubles ou le nombre, la complexité ou la diversité des évaluations le nécessitent. Lorsque la personne consultante envisage de poursuivre l'opération en retenant un montant supérieur à l'évaluation, elle doit justifier d'une décision motivée de passer outre prise par le représentant de l'Etat.
 
 Pour les opérations réalisées par l'exercice du droit de préemption dans les conditions prévues par le code de l'urbanisme, l'avis doit être formulé dans le délai d'un mois à compter de la date de réception d'une demande d'avis. En cas de non-respect du délai d'un mois, il peut être procédé librement à la réalisation de l'opération. Il ne peut être passé outre à un avis défavorable que par décision motivée de l'organe délibérant de la personne morale titulaire du droit de préemption.
 
@@ -56,8 +56,8 @@ X. - L'avis de la commission doit intervenir dans le délai de trois mois à com
 
 Il ne peut être passé outre à un avis défavorable que par décision motivée de l'organe délibérant de la personne morale intéressée ou, en ce qui concerne l'Etat, par une décision motivée du représentant de l'Etat.
 
-XI. - Lorsque l'opération immobilière entre dans le champ d'application des I à X, il est fait défense aux comptables publics d'effectuer les règlements correspondants si la personne morale qui poursuit cette opération ne justifie pas :
+XI. - Lorsque l'opération immobilière entre dans le champ d'application des I à IV, il est fait défense aux comptables publics d'effectuer les règlements correspondants si la personne morale qui poursuit cette opération ne justifie pas :
 
 1° Pour les opérations réalisées par l'exercice du droit de préemption dans les conditions prévues par le code de l'urbanisme, de l'avis et, le cas échéant, de la décision de passer outre mentionnés au IV ;
 
-2° Pour les autres opérations, de l'avis sur les conditions financières et, le cas échéant, de la décision de passer outre mentionnée au X.
+2° Pour les autres opérations, de l'avis sur les conditions financières.
