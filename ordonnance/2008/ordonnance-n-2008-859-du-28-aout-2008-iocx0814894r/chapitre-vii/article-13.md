@@ -1,0 +1,3 @@
+# Article 13
+
+Le Premier ministre, la ministre de l'intérieur, de l'outre-mer et des collectivités territoriales, le ministre du travail, des relations sociales, de la famille et de la solidarité, la ministre de la santé, de la jeunesse, des sports et de la vie associative, la ministre du logement et de la ville, le ministre du budget, des comptes publics et de la fonction publique, la secrétaire d'Etat chargée de la solidarité et le secrétaire d'Etat chargé de l'outre-mer sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.
