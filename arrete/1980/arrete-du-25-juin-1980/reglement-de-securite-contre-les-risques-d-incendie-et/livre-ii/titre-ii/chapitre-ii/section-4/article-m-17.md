@@ -10,7 +10,7 @@ Leur surface maximale unitaire est inférieure ou égale à 500 mètres carrés 
 
 - séparés, dans une même exploitation, des locaux à risques importants dans les conditions prévues aux articles CO 28 (§ 1) et M 4 (§ 1) ;
 
-- séparés entre eux, dans une même exploitation et quelle que soit leur surface, par des parois réalisées en matériaux de catégorie M1 ou B-s1, d0, y compris les revêtements éventuels ;
+- séparés entre eux, dans une même exploitation et quelle que soit leur surface, par des parois réalisées en matériaux de catégorie M1 ou B-s2, d0, y compris les revêtements éventuels ;
 
 - protégés par un système d'extinction automatique du type sprinkleur lorsque les locaux accessibles au public en sont pourvus ;
 
