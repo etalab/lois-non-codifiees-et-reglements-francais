@@ -1,5 +1,7 @@
 # Article 9
 
-Les effectifs de l'échelon spécial du grade d'inspecteur général mentionné à l'article 4 du présent décret ne peuvent excéder 30 % de l'effectif budgétaire total de ce grade. Les anciens directeurs d'administration centrale et les fonctionnaires ayant bénéficié dans leur grade ou emploi précédent, pendant trois ans au moins, d'un indice équivalent à celui afférent à l'échelon spécial ne sont pas pris en compte au titre de ce contingentement, ni le chef du service de l'inspection générale des affaires sociales.
+Deux emplois d'inspecteurs généraux des affaires sociales sont réservés aux  fonctionnaires occupant ou ayant occupé, pendant cinq années au moins dans les dix dernières années, un emploi de directeur dans les administrations centrales de la sécurité sociale, de la santé, de l'action sociale, de la famille, du travail, de l'emploi et de la formation professionnelle et justifiant de vingt années de services publics.
 
-Peuvent accéder à l'échelon spécial du grade d'inspecteur général, après avis de la commission administrative paritaire, outre les agents susmentionnés, les inspecteurs généraux justifiant de trois années d'ancienneté dans le 3e échelon du grade et inscrits sur un tableau d'avancement.
+Ces nominations interviennent hors tour et ne sont pas prises en compte dans les nominations effectuées au titre des dispositions de l'article 8. Ces emplois peuvent être pourvus tant que le nombre des membres du corps de l'inspection générale des affaires sociales recrutés dans les conditions fixées au présent article, quelle que soit leur position administrative, est inférieur à deux.
+
+Les nominations prévues au présent article sont prononcées après avis de la commission administrative paritaire du corps de l'inspection générale des affaires sociales.
