@@ -1,6 +1,6 @@
 # Article 21
 
-Dans les commissions administratives paritaires dont les membres doivent être désignés lors du renouvellement général des commissions en activité au 1er septembre 2005, la classe normale et la hors-classe du corps des professeurs des écoles sont considérées comme constituant un seul et même grade et la représentation des personnels est assurée, par dérogation aux dispositions du 2° de l'article 3 et des articles 5 et 6 du présent décret, dans les conditions suivantes :
+Dans les commissions administratives paritaires dont les membres doivent être désignés lors du renouvellement général des commissions en activité au 1er septembre 2008, la classe normale et la hors-classe du corps des professeurs des écoles sont considérées comme constituant un seul et même grade et la représentation des personnels est assurée, par dérogation aux dispositions du 2° de l'article 3 et des articles 5 et 6 du présent décret, dans les conditions suivantes :
 
 1° Dans la commission administrative paritaire nationale mentionnée à l'article 3 du présent décret, par dix membres titulaires représentant les professeurs des écoles et les instituteurs ;
 

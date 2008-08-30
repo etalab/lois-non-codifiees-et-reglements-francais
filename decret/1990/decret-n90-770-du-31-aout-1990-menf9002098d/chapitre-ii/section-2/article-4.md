@@ -8,6 +8,4 @@ Chaque commission administrative paritaire comprend :
 
 3° Dix membres titulaires représentant l'administration et dix membres titulaires représentant le personnel lorsque le nombre des emplois mentionnés au 1° ci-dessus est au moins égal à 2 800.
 
-Chaque titulaire a deux suppléants qui ont rang de premier et deuxième suppléant en fonction de leur rang d'inscription sur la liste des candidats. Ils sont désignés dans les mêmes conditions que les titulaires.
-
-Le nombre des suppléants qui assistent aux séances de la commission ne peut excéder, pour les représentants de l'administration, le nombre des membres siégeant avec voix délibérative, et, pour les représentants du personnel, le nombre, pour chaque liste, des membres siégeant avec voix délibérative au titre de chaque liste.
+Chaque titulaire a un suppléant désigné dans les mêmes conditions.

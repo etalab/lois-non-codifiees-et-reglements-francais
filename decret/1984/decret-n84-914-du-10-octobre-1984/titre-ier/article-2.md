@@ -6,11 +6,7 @@ Par dérogation aux dispositions des articles 5, 6, 22 et 31 du décret du 28 ma
 
 2. Corps des professeurs certifiés, corps des adjoints d'enseignement et corps des chargés d'enseignement : seize membres titulaires, seize membres premiers suppléants, seize membres deuxièmes suppléants, représentant la classe normale du corps des professeurs certifies, le corps des adjoints d'enseignement et le corps des chargés d'enseignement ; trois membres titulaires, trois membres premiers suppléants, trois membres deuxièmes suppléants représentant la hors-classe du corps des professeurs certifiés ;
 
-3. Corps des professeurs d'éducation physique et sportive :
-
-quatre membres titulaires, quatre membres premiers suppléants et quatre membres deuxièmes suppléants représentant la classe normale ; un membre titulaire, un membre premier suppléant et un membre deuxième suppléant représentant la hors-classe ;
-
-4. Corps des chargés d'enseignement d'éducation physique et sportive : deux membres titulaires, deux membres premiers suppléants et deux membres deuxièmes suppléants représentant la classe normale ; deux membres titulaires, deux membres premiers suppléants et deux membres deuxièmes suppléants représentant la hors-classe et la classe exceptionnelle, considérées comme constituant un seul et même grade.
+3. Corps des professeurs d'éducation physique et sportive et corps des chargés d'enseignement d'éducation physique et sportive : cinq membres titulaires, cinq membres premiers suppléants et cinq membres deuxièmes suppléants représentant la classe normale du corps des professeurs d'éducation physique et sportive, la classe normale et la hors-classe du corps des chargés d'enseignement d'éducation physique et sportive ; un membre titulaire, un membre premier suppléant et un membre deuxième suppléant représentant la hors-classe du corps des professeurs d'éducation physique et sportive et la classe exceptionnelle du corps des chargés d'enseignement d'éducation physique et sportive.
 
 Les membres titulaires empêchés sont remplacés par les membres premiers suppléants ou, à défaut, par les membres deuxièmes suppléants. Dans ce cas, les membres suppléants ont voix délibérative.
 
