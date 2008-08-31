@@ -5,5 +5,4 @@
 - [Chapitre III :   Contrôles à l'exportation](chapitre-iii)
 - [Chapitre IV :   Dispositions à titre dérogatoire](chapitre-iv)
 - [Chapitre V :   Dispositions diverses](chapitre-v)
-- [Article Annexe](article-annexe.md)
 - [Annexes](annexes)
