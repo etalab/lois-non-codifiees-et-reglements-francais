@@ -14,4 +14,4 @@ Végétaux, produits végétaux et autres objets mentionnés à l'annexe II, par
 
 Partie B
 
-Organismes nuisibles mentionnés à la partie B de l'annexe II de la directive 2000/29/CE du 8 mai 2000 dans sa rédaction issue de la directive 2007/41/CE de la Commission du 28 juin 2007.
+Végétaux, produits végétaux et autres objets mentionnés à l'annexe II, partie B, de la directive 2000 / 29 / CE du 8 mai 2000 dans sa rédaction issue de la directive 2008 / 64 / CE de la Commission du 27 juin 2008.
