@@ -1,5 +1,3 @@
 # Article 11
 
-Le bénéficiaire peut effectuer des transports pour le compte de tiers ne remplissant pas les conditions fixées à l'article 10 ci-dessus, sauf opposition du ministre chargé des carburants.
-
-Aucun branchement sur l'ouvrage ne peut être réalisé sans l'accord du ministre chargé des carburants, le ministre chargé des transports ayant été préalablement consulté.
+Dans la limite des capacités autorisées à l'article 4 du présent décret, le bénéficiaire peut réaliser des branchements sur l'ouvrage sauf opposition formée par le ministre chargé de l'énergie dans les deux mois suivant la notification du dépôt du projet de branchement.
