@@ -1,0 +1,3 @@
+# Article 3
+
+Préalablement à la conclusion du contrat d'îlotage prévu à l'article 4, le consommateur industriel et le producteur recueillent l'accord du gestionnaire de réseau concerné. Une fois cet accord obtenu, ils informent le préfet, la Commission de régulation de l'énergie, l'acheteur de l'électricité avec lequel a été conclu le contrat d'obligation d'achat de l'électricité produite par l'installation de production, leurs responsables d'équilibre respectifs et le fournisseur du consommateur industriel, ainsi que, lorsque le site du consommateur industriel est raccordé au réseau de distribution, l'autorité organisatrice de la distribution publique d'électricité concernée.

@@ -1,0 +1,5 @@
+# Article 2
+
+Lorsque les conditions posées par l'article 1er sont satisfaites, la vente de l'électricité s'effectue à la demande du consommateur industriel en cas de risques de perturbation profonde de tension sur le réseau public de transport d'électricité ou sur le réseau public de distribution. Elle donne lieu à un îlotage des installations du consommateur industriel et de celles du producteur qui suspendent leur accès au réseau public d'électricité auquel ils sont raccordés.
+
+Chaque période unitaire de vente d'électricité prend effet à compter de la production effective d'énergie par les installations et prend fin dès l'arrêt de cette production. Plusieurs périodes unitaires de vente peuvent être cumulées dans la limite d'un nombre d'heures par année civile fixé à l'annexe I du présent décret, qui tient compte le cas échéant de la nature du réseau public de raccordement du site concerné et du nombre de jours au cours desquels des perturbations profondes du réseau au sens du 5° de l'article 1er sont survenues.

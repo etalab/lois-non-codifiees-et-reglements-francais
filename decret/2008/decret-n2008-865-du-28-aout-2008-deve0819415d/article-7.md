@@ -1,0 +1,3 @@
+# Article 7
+
+Si le consommateur industriel bénéficie du tarif réglementé transitoire d'ajustement du marché pour les périodes hors îlotage, il peut souscrire, auprès du producteur exploitant l'installation de cogénération d'électricité et de chaleur valorisée, un contrat à ce même tarif pour les périodes d'îlotage dans la limite fixée pour le bénéfice de ce tarif par l'article 30-1 de la loi du 9 août 2004 susvisée. Cette souscription n'entraîne pas la résiliation du contrat au tarif réglementé transitoire d'ajustement que le consommateur industriel a conclu avec son ou ses fournisseurs principaux en dehors des périodes d'îlotage.

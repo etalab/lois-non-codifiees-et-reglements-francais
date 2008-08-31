@@ -8,4 +8,4 @@ Végétaux, produits végétaux et autres objets mentionnés à la partie A de l
 
 Partie B
 
-Végétaux, produits végétaux et autres objets mentionnés à la partie B de l'annexe III de la directive 2000/29/CE du 8 mai 2000 dans sa rédaction issue de la directive 2006/35/CE de la Commission du 24 mars 2006.
+Végétaux, produits végétaux et autres objets mentionnés à l'annexe III, partie B, de la directive 2000 / 29 / CE du 8 mai 2000 dans sa rédaction issue de la directive 2008 / 64 / CE de la Commission du 27 juin 2008.

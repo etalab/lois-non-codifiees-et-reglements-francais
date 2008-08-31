@@ -6,7 +6,7 @@ Partie A
 
 Chapitre 1er
 
-Végétaux, produits végétaux et autres objets mentionnés au chapitre 1 de la partie A de l'annexe IV de la directive 2000/29/CE du 8 mai 2000 dans sa rédaction issue de la directive 2006/14/CE de la Commission du 6 février 2006.
+Végétaux, produits végétaux et autres objets mentionnés à l'annexe IV, partie A, de la directive 2000 / 29 / CE du 8 mai 2000 dans sa rédaction issue de la directive 2008 / 64 / CE de la Commission du 27 juin 2008.
 
 Chapitre 2
 
@@ -14,4 +14,4 @@ Végétaux, produits végétaux et autres objets mentionnés au chapitre 2 de la
 
 Partie B
 
-Végétaux, produits végétaux et autres objets mentionnés à la partie B de l'annexe IV de la directive 2000/29/CE du 8 mai 2000 dans sa rédaction issue de la directive 2007/41/CE de la Commission du 28 juin 2007.
+Végétaux, produits végétaux et autres objets mentionnés à l'annexe IV, partie B, de la directive 2000 / 29 / CE du 8 mai 2000 dans sa rédaction issue de la directive 2008 / 64 / CE de la Commission du 27 juin 2008.
