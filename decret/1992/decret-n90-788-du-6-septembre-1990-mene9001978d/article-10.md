@@ -1,5 +1,7 @@
 # Article 10
 
-Le ministre chargé de l'éducation définit, par voie d'arrêté, les règles applicables à l'organisation du temps scolaire.
+La durée de la semaine scolaire est fixée à vingt-quatre heures d'enseignement scolaire pour tous les élèves.
 
-Toutefois, l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, peut, dans les conditions précisées à l'article 10-1, apporter des aménagements aux règles ainsi fixées. Ces aménagements peuvent déroger aux adaptations décidées par le recteur en application des articles 1er et 2 du décret du 14 mars 1990 susvisé.
+Sauf décision contraire prise dans les conditions prévues à l'article 10-1 du présent décret, les vingt-quatre heures d'enseignement sont organisées à raison de six heures par jour les lundi, mardi, jeudi et vendredi.
+
+Les élèves rencontrant des difficultés d'apprentissage peuvent bénéficier en outre de deux heures d'aide personnalisée dans les conditions fixées par l'article 10-3 du présent décret.
