@@ -1,0 +1,3 @@
+# Article 1
+
+Pour être admis à la formation conduisant à la délivrance du brevet de capitaine de pêche, les candidats doivent être titulaires du brevet de lieutenant de pêche ou du brevet de patron de pêche, et avoir effectué une navigation effective à la pêche d'une durée de douze mois au moins accomplis postérieurement à la délivrance du brevet de lieutenant de pêche ou du brevet de patron de pêche, soit dans les fonctions de second ou d'officier chargé du quart à la passerelle participant effectivement à la conduite d'un navire armé en pêche au large ou en grande pêche, soit dans les fonctions de capitaine à la pêche côtière.

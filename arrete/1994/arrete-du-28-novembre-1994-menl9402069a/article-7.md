@@ -1,3 +1,3 @@
 # Article 7
 
-Sur le diplôme du baccalauréat technologique, établi conformément au modèle annexé au présent arrêté, la rubrique " en " doit être complétée, le cas échéant, pour la série sciences médico-sociales, par l'indication " option Bureautique ".
+En application de l'article D. 336-48 susvisé, le diplôme délivré au bachelier de la série technologique "techniques de la musique et de la danse porte l'indication suivante : "Le candidat a satisfait aux épreuves d'enseignement général à la session de... et aux épreuves à caractère professionnel à la session de....

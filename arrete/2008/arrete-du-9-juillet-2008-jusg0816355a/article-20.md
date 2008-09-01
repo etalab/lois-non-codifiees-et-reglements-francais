@@ -1,0 +1,3 @@
+# Article 20
+
+Le bureau des affaires statutaires des personnels pénitentiaires procède, dans le cadre de la politique du ministère de la justice, aux études relatives aux régimes statutaires et indemnitaires des personnels des services déconcentrés de l'administration pénitentiaire ; il élabore les projets législatifs et réglementaires s'y rapportant. Il prépare les instructions de portée générale relatives aux droits et obligations des personnels pénitentiaires. En liaison avec le département des affaires contentieuses du secrétariat général, il fournit les informations permettant le traitement des affaires contentieuses relevant des attributions de la sous-direction. Il prépare les dossiers soumis au conseil de discipline, dont il assure le secrétariat.

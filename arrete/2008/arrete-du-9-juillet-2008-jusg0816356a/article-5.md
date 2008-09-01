@@ -1,0 +1,3 @@
+# Article 5
+
+La sous-direction des ressources humaines et des relations sociales conduit la politique concernant les ressources humaines des services déconcentrés et de l'Ecole nationale de la protection judiciaire de la jeunesse. A ce titre, en liaison avec le secrétariat général, elle conduit une politique de dialogue social, assure la gestion des carrières incluant une gestion prévisionnelle des effectifs, des emplois et des compétences, traite des questions juridiques et statutaires, coordonne l'élaboration de la politique de la direction notamment en matière de formation et veille à sa mise en œuvre.

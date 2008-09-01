@@ -1,0 +1,3 @@
+# Article 4
+
+Le cabinet du secrétariat général assure, en lien avec le service de l'administration centrale, la gestion des personnels et des moyens logistiques. Il veille au bon fonctionnement des services du secrétariat général, centralise et organise la réception et l'expédition du courrier et organise la représentation du secrétariat général dans différentes instances en tant que de besoin. Il assure le suivi des questions parlementaires et des requêtes des particuliers, et traite des questions réservées. Il est le correspondant des chefs de cabinet des directions d'administration centrale. Il met en œuvre la politique de communication interne du secrétariat général en liaison avec le service de l'administration centrale.

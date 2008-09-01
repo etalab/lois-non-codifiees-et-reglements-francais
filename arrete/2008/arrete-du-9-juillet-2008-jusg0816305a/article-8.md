@@ -1,0 +1,3 @@
+# Article 8
+
+Le service de l'accès au droit et à la justice et de l'aide aux victimes élabore les lois et règlements relatifs à l'aide juridictionnelle, à l'accès au droit et à l'aide aux victimes. Il conçoit et coordonne les actions menées dans ces domaines. Il contribue à la mise en œuvre des politiques permettant un égal accès au droit et à la justice et au développement des modes de règlement amiable des litiges, notamment en matière de médiation familiale. Il anime la politique du ministère de la justice à l'égard des associations. Il est associé à l'élaboration et à la mise en œuvre des conventions internationales dans son champ de compétence. Il prépare le budget des actions dont il a la charge et assure la gestion des crédits correspondants.

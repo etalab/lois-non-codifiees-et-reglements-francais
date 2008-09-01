@@ -1,0 +1,5 @@
+# Article 7
+
+Les dispositions du présent arrêté sont applicables à compter du 1er septembre 2008.
+
+A compter du 1er octobre 2008, les dispositions de l'arrêté du 22 octobre 1992 relatif à l'examen pour l'obtention du brevet de lieutenant de pêche ne sont plus applicables, sauf aux candidats qui ont commencé la formation antérieurement au 1er octobre 2008. Pour ces candidats, la délivrance du brevet de lieutenant de pêche intervient après la réussite à l'examen prévu par l'arrêté du 22 octobre 1992 ci-dessus mentionné, à condition de justifier de dix-huit mois de navigation effective à la pêche dans le service pont, durée ramenée à quinze mois pour les titulaires du certificat d'apprentissage maritime et à douze mois pour les titulaires du certificat d'aptitude professionnelle maritime de marin du commerce ou du certificat d'aptitude professionnelle maritime de marin-pêcheur délivré avant 1991 ou du certificat d'aptitude professionnelle maritime de marin-pêcheur, option pont. Dans tous les cas, ce temps de navigation doit comprendre six mois au moins sur des navires armés en pêche côtière, en pêche au large ou en grande pêche.

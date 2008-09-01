@@ -465,6 +465,7 @@
 - [Décret n°2006-1501 du 29 novembre 2006 (SOCK0612074D)](decret-n2006-1501-du-29-novembre-2006-sock0612074d)
 - [Décret n°2006-1503 du 29 novembre 2006 (DEVN0630167D)](decret-n2006-1503-du-29-novembre-2006-devn0630167d)
 - [Décret n°2001-777 du 30 août 2001 (INTA0100224D)](decret-n2001-777-du-30-aout-2001-inta0100224d)
+- [Décret n°2005-1753 du 30 décembre 2005 (MENF0502696D)](decret-n2005-1753-du-30-decembre-2005-menf0502696d)
 - [Décret n°2005-1795 du 30 décembre 2005 (MJSK0570251D)](decret-n2005-1795-du-30-decembre-2005-mjsk0570251d)
 - [Décret n°2006-1100 du 30 août 2006 (DEVG0630021D)](decret-n2006-1100-du-30-aout-2006-devg0630021d)
 - [Décret n°2006-1319 du 30 octobre 2006 (JUSC0620779D)](decret-n2006-1319-du-30-octobre-2006-jusc0620779d)

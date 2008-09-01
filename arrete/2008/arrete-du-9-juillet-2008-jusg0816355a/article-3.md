@@ -1,0 +1,3 @@
+# Article 3
+
+Le bureau de la sécurité pénitentiaire est chargé de concevoir, d'analyser et d'évaluer les dispositifs de sécurité mis en place pour ses personnels et dans les établissements et les services pénitentiaires. Il est associé par le bureau de l'action juridique et du droit pénitentiaire à la définition de la réglementation applicable pour assurer le contrôle des personnes placées sous main de justice. Il fixe la politique en matière d'équipements de sécurité. Il coordonne les actions de prévention des risques d'évasion mises en place par les directions régionales des services pénitentiaires. Il diligente des expertises, notamment en matière de sécurité, et émet tous avis, propositions et recommandations utiles.
