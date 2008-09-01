@@ -430,7 +430,6 @@
 - [Arrêté du 13 octobre 1994 (INDP9401192A)](arrete-du-13-octobre-1994-indp9401192a)
 - [Arrêté du 13 octobre 1994 (INDP9401193A)](arrete-du-13-octobre-1994-indp9401193a)
 - [Arrêté du 13 octobre 1994 (INDP9401197A)](arrete-du-13-octobre-1994-indp9401197a)
-- [Arrêté du 13 octobre 1994 (JUSG9460060A)](arrete-du-13-octobre-1994-jusg9460060a)
 - [Arrêté du 13 octobre 1994 (SPSP9403198A)](arrete-du-13-octobre-1994-spsp9403198a)
 - [Arrêté du 13 septembre 1994 (DEFL9401943A)](arrete-du-13-septembre-1994-defl9401943a)
 - [Arrêté du 13 septembre 1994 (EQUA9401610A)](arrete-du-13-septembre-1994-equa9401610a)
