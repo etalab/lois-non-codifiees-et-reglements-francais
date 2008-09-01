@@ -238,7 +238,7 @@ Chargé de mission pour le réseau régional à la direction régionale de l'INS
 
 Chargé de mission sur la tutelle de l'ANDRA et la gestion des déchets nucléaires au bureau des politiques publiques et de la tutelle à la direction générale de l'énergie et des matières premières ;
 
-Chargé de mission sur les affaires professionnelles et sociales du secteur minier au bureau charbon et reconversion minière » à la direction générale de l'énergie et des matières premières ;
+Chargé de mission sur les affaires professionnelles et sociales du secteur minier au bureau "charbon et reconversion minière" à la direction générale de l'énergie et des matières premières ;
 
 Chargé de mission sur les dossiers nucléaires européens au bureau des affaires extérieures à la direction générale de l'énergie et des matières premières ;
 
@@ -525,8 +525,6 @@ Chef du service régional de Guyane ;
 Chef du service statistique à la direction régionale de Bourgogne ;
 
 Chef du service statistique à la direction régionale de l'INSEE de Lorraine ;
-
-Chef du service statistique à la direction régionale de l'INSEE de Bretagne ;
 
 Chef du service statistique à la direction régionale de l'INSEE de Franche-Comté ;
 
