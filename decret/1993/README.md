@@ -484,7 +484,6 @@
 - [Décret n°93-112 du 22 janvier 1993 (MJSK9270173D)](decret-n93-112-du-22-janvier-1993-mjsk9270173d)
 - [Décret n°93-1133 du 22 septembre 1993 (INTB9300512D)](decret-n93-1133-du-22-septembre-1993-intb9300512d)
 - [Décret n°93-1157 du 22 septembre 1993 (INTB9300505D)](decret-n93-1157-du-22-septembre-1993-intb9300505d)
-- [Décret n°93-1185 du 22 octobre 1993 (ECOC9300126D)](decret-n93-1185-du-22-octobre-1993-ecoc9300126d)
 - [Décret n°93-1193 du 22 octobre 1993 (MENL9305631D)](decret-n93-1193-du-22-octobre-1993-menl9305631d)
 - [Décret n°93-1194 du 22 octobre 1993 (MENL9305632D)](decret-n93-1194-du-22-octobre-1993-menl9305632d)
 - [Décret n°93-1195 du 22 octobre 1993 (EQUU9300998D)](decret-n93-1195-du-22-octobre-1993-equu9300998d)
