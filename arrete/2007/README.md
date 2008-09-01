@@ -117,7 +117,6 @@
 - [Arrêté du 4 juillet 2007 (AGRG0759207A)](arrete-du-4-juillet-2007-agrg0759207a)
 - [Arrêté du 4 juillet 2007 (ESRR0754916A)](arrete-du-4-juillet-2007-esrr0754916a)
 - [Arrêté du 4 juillet 2007 (ESRS0760602A)](arrete-du-4-juillet-2007-esrs0760602a)
-- [Arrêté du 4 juillet 2007 (ESRS0760620A)](arrete-du-4-juillet-2007-esrs0760620a)
 - [Arrêté du 4 juillet 2007 (MTSS0762536A)](arrete-du-4-juillet-2007-mtss0762536a)
 - [Arrêté du 4 juin 2007 (MTSA0755861A)](arrete-du-4-juin-2007-mtsa0755861a)
 - [Arrêté du 4 octobre 2007 (BCFD0758240A)](arrete-du-4-octobre-2007-bcfd0758240a)
