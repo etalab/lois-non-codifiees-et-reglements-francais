@@ -125,6 +125,7 @@
 - [Arrêté du 11 juin 2008 (ECED0814789A)](arrete-du-11-juin-2008-eced0814789a)
 - [Arrêté du 11 juin 2008 (ECED0814890A)](arrete-du-11-juin-2008-eced0814890a)
 - [Arrêté du 11 juin 2008 (ECED0816066A)](arrete-du-11-juin-2008-eced0816066a)
+- [Arrêté du 11 mars 1992 (JUSF9150100A)](arrete-du-11-mars-1992-jusf9150100a)
 - [Arrêté du 12 août 2008 (DEVE0820020A)](arrete-du-12-aout-2008-deve0820020a)
 - [Arrêté du 12 août 2008 (DEVE0820021A)](arrete-du-12-aout-2008-deve0820021a)
 - [Arrêté du 12 août 2008 (DEVE0820022A)](arrete-du-12-aout-2008-deve0820022a)
