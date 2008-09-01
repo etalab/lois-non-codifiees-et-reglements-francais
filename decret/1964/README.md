@@ -32,7 +32,6 @@
 - [Décret n°64-436 du 21 mai 1964](decret-n64-436-du-21-mai-1964)
 - [Décret n°64-1333 du 22 décembre 1964](decret-n64-1333-du-22-decembre-1964)
 - [Décret n°64-454 du 23 mai 1964](decret-n64-454-du-23-mai-1964)
-- [Décret n°64-754 du 25 juillet 1964](decret-n64-754-du-25-juillet-1964)
 - [Décret n°64-1183 du 27 novembre 1964](decret-n64-1183-du-27-novembre-1964)
 - [Décret n°64-1188 du 27 novembre 1964](decret-n64-1188-du-27-novembre-1964)
 - [Décret n°64-627 du 27 juin 1964](decret-n64-627-du-27-juin-1964)
