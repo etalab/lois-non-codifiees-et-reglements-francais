@@ -1,4 +1,4 @@
-# Article Annexe
+# Article Annexe 1
 
 1. Liste des établissements d'enseignement et des groupements d'établissements d'enseignement placés en gestion directe auprès de l'Agence pour l'enseignement français à l'étranger, dans les conditions fixées par l'article L. 452-3 du code de l'éducation
 
@@ -228,6 +228,14 @@ Vietnam
 
 Ecole française Colette, Hô Chi Minh-Ville.
 
+Côte d'Ivoire
+
+Centre d'appui à la réouverture des établissements d'enseignement français de Côte d'Ivoire, Abidjan.
+
+Turquie
+
+Lycée français Charles de Gaulle, Ankara.
+
 2. Liste des établissements d'enseignement français à l'étranger ayant passé une convention administrative, financière et pédagogique avec l'Agence pour l'enseignement français à l'étranger, établissements dits " conventionnés "
 
 Afrique du Sud
@@ -271,10 +279,6 @@ Collège franco-argentin de Martinez, Buenos Aires.
 Australie
 
 Lycée Condorcet, Sydney.
-
-Bahreïn
-
-Ecole française de Bahreïn, Manama.
 
 Bangladesh
 
@@ -352,10 +356,6 @@ Lycée français international Victor Segalen, Hong Kong.
 
 Ecole française, Shanghai.
 
-Chypre
-
-Ecole française Arthur Rimbaud, Nicosie et son annexe de Limassol.
-
 Colombie
 
 Lycée français Louis Pasteur, Bogota.
@@ -412,8 +412,6 @@ Equateur
 
 Lycée franco-équatorien La Condamine, Quito.
 
-Espagne
-
 Lycée français, Alicante et son annexe :
 
 Ecole française de la Costa Blanca, Benidorm.
@@ -427,8 +425,6 @@ Collège français, Ibiza.
 Lycée Molière, Villanueva de la Canada, Madrid.
 
 Lycée français, Malaga.
-
-Collège français de Palma, Palma de Majorque.
 
 Etats-Unis d'Amérique
 
@@ -458,11 +454,7 @@ Ghana
 
 Ecole française Jacques Prévert, Accra.
 
-Grèce
-
 Lycée franco-hellénique, Athènes.
-
-Ecole française, Thessalonique.
 
 Guatemala
 
@@ -740,10 +732,6 @@ Syrie
 
 Ecole française, Damas.
 
-Taïwan
-
-Ecole française, Taipei.
-
 Tanzanie
 
 Ecole française Arthur Rimbaud, Dar Es-Salaam.
@@ -759,10 +747,6 @@ Lycée français, Bangkok.
 Togo
 
 Lycée français, Lomé.
-
-Turquie
-
-Lycée français Charles de Gaulle, Ankara.
 
 Lycée français Pierre Loti, Istanbul.
 
@@ -797,3 +781,9 @@ Ecole française Champollion, Lusaka.
 Zimbabwe
 
 Groupe scolaire français Jean de La Fontaine, Harare.
+
+3. Liste des établissements d'enseignement français à l'étranger dont le fonctionnement en matière administrative, financière et pédagogique a fait l'objet d'un traité ou accord international :
+
+Israël
+
+Collège lycée franco-israélien Mikve Israël, Tel-Aviv.
