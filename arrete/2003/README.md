@@ -1036,7 +1036,6 @@
 - [Arrêté du 30 septembre 2003 (MCCB0300631A)](arrete-du-30-septembre-2003-mccb0300631a)
 - [Arrêté du 30 mai 2003 (JUSB0310174A)](arrete-du-30-mai-2003-jusb0310174a)
 - [Arrêté du 30 mai 2003 (JUSG0360038A)](arrete-du-30-mai-2003-jusg0360038a)
-- [Arrêté du 30 mai 2003 (MENE0301159A)](arrete-du-30-mai-2003-mene0301159a)
 - [Arrêté du 30 mai 2003 (MENE0301160A)](arrete-du-30-mai-2003-mene0301160a)
 - [Arrêté du 30 mai 2003 (SANS0322041A)](arrete-du-30-mai-2003-sans0322041a)
 - [Arrêté du 31 décembre 2002 (INDI0200862A)](arrete-du-31-decembre-2002-indi0200862a)
