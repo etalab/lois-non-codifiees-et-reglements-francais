@@ -14,87 +14,69 @@ Code NSF : 255 s.
 
 Résumé du référentiel d'emploi
 
-L'électricien d'équipement réalise les travaux d'installation et de mise en service des équipements électriques (éclairage, chauffage, distribution d'énergie) des locaux à usage domestique, tertiaire et industriel.
+L'électricien d'équipement réalise, à partir des plans et schémas de montage qui lui ont été confiés, l'installation et la mise en service des équipements électriques (éclairage, chauffage, distribution d'énergie) dans des bâtiments à usage domestique, tertiaire et industriel. Il monte et câble les armoires de commande de process industriel et participe à la mise en service des installations. Il réalise des travaux neufs mais aussi des adaptations, rénovations, extensions ou mises aux normes d'installations existantes.
 
-Il réalise, suivant des plans qui lui ont été confiés, la pose de canalisations électriques, le branchement des appareils électriques, l'équipement et le câblage de tableaux de distribution, la mise en service et le dépannage des installations électriques. Dans ce cadre, il vérifie la conformité des installations, en préparation de l'intervention des organismes de contrôle.
+Il effectue également les opérations préalables au contrôle réalisé par les organismes agréés puis met en service l'installation. Il assure le dépannage des installations réalisées.
 
-Dans un contexte industriel, il peut réaliser l'équipement et le câblage d'armoires de commande d'automatismes industriels et en vérifie le fonctionnement.
+L'électricien travaille, à l'intérieur ou à l'extérieur, sur les chantiers des locaux vides ou occupés, à installer ou rénover. Il intervient seul ou en petite équipe, sous la responsabilité d'un chef d'équipe ou d'un chef de chantier. Ses horaires de travail peuvent varier en fonction du type de chantier, du respect des délais ou de l'urgence du dépannage à effectuer. Il effectue fréquemment des déplacements.
 
-Il travaille, à l'intérieur ou à l'extérieur, sur les chantiers des locaux à installer ou à rénover. Il intervient seul ou en petite équipe, sous la responsabilité d'un chef d'équipe ou d'un chef de chantier. Ses horaires de travail peuvent varier en fonction du type de chantier, du respect des délais ou de l'urgence du dépannage à effectuer. Il peut être amené à effectuer des déplacements de courte durée pour un chantier éloigné.
-
-Quelle que soit la nature des installations réalisées, elles doivent être en conformité avec les normes de la profession (sécurité des utilisateurs, des équipements et des locaux). D'autre part, ses interventions doivent être effectuées dans le respect des prescriptions de sécurité (protection contre les dangers du courant électrique). Il doit posséder les habilitations appropriées.
+Il est amené à intervenir, dans le respect de la réglementation de sécurité (habilitation électrique C18-510), sur des installations électriques en présence de tension.
 
 Capacités attestées et descriptif
 
 des composantes de la certification
 
-1. Réaliser l'équipement électrique de locaux
+1. Réaliser l'équipement électrique des locaux d'habitation
 
-à usage domestique
+Réaliser les circuits de base des locaux d'habitation.
 
-Réaliser les circuits d'éclairage d'une installation électrique domestique.
+Réaliser les circuits des équipements électriques complémentaires de confort des locaux d'habitation.
 
-Réaliser les circuits de prises de courant d'une installation électrique domestique.
+Réaliser la distribution électrique générale des locaux d'habitation.
 
-Réaliser les circuits des équipements de confort d'une installation électrique domestique.
+Réaliser les circuits des équipements de type "courants faibles" des locaux d'habitation.
 
-Réaliser les circuits des équipements de type "courants faibles" d'une installation électrique domestique.
+Contrôler et mettre en service l'installation électrique des locaux d'habitation.
 
-Réaliser les circuits de mise à la terre d'une installation électrique domestique.
+2. Réaliser l'équipement électrique des locaux tertiaires
 
-Mettre en service une installation électrique domestique.
+Réaliser les circuits de base des locaux tertiaires.
 
-Réaliser la distribution générale d'une installation électrique domestique.
+Réaliser les circuits des équipements de type "courants faibles" des locaux tertiaires.
 
-2. Réaliser l'équipement électrique de locaux
+Réaliser l'équipement, le câblage et le raccordement d'une armoire électrique de type tertiaire.
 
-à usage tertiaire
+Réaliser les contrôles préalables à la mise en service d'une installation électrique tertiaire.
 
-Réaliser la distribution générale par colonne montante pour une installation électrique d'un immeuble à usage d'habitation.
+Réaliser la distribution électrique générale par colonne montante d'un immeuble.
 
-Réaliser la pose des conduits pour câbles d'une installation électrique tertiaire et industrielle.
+3. Réaliser l'équipement électrique des locaux industriels
 
-Installer les câbles électriques et éléments terminaux pour un local à usage tertiaire.
+Réaliser les circuits de base des locaux industriels.
 
-Réaliser les circuits des équipements de type " courants faibles " pour une installation électrique tertiaire.
+Réaliser la pose et le raccordement des coffrets de démarrage d'équipements électriques industriels.
 
-Réaliser une armoire électrique de type tertiaire.
+Réaliser le montage, le câblage et le raccordement de coffrets d'automatismes industriels.
 
-Préparer la mise en service d'une installation électrique tertiaire.
+Réaliser les contrôles préalables à la mise en service d'une installation électrique industrielle.
 
-3. Réaliser l'équipement électrique de locaux
+Secteurs d'activités ou types d'emploi
 
-à usage industriel
+accessibles par le détenteur du titre
 
-Réaliser la pose des conduits pour câbles d'une installation électrique tertiaire et industrielle.
+Les grandes, moyennes et petites entreprises d'équipement électrique.
 
-Poser et raccorder des câbles électriques multi-conducteurs sur des équipements industriels.
+Les sociétés d'intérim.
 
-Préparer la mise en service une installation électrique industrielle.
+Les services travaux neufs d'usines.
 
-Equiper une armoire électrique industrielle.
-
-Câbler une armoire électrique à relais pour la commande de moteurs.
-
-Câbler une armoire industrielle avec des équipements électroniques de commande.
-
-Secteurs d'activités ou types d'emploi accessibles
-
-par le détenteur du titre
-
-Grandes, moyennes et petites entreprises d'équipement électrique.
-
-Sociétés d'intérim.
-
-Services travaux neufs d'usines.
-
-Services entretien des collectivités, hôpitaux, hôtels, etc.
+Les services entretien des collectivités, hôpitaux, hôtels, etc.
 
 Codes ROME :
 
-42211 - Electricien/électricienne du bâtiment et des travaux publics ;
+42211-Electricien (ne) du bâtiment et des travaux publics.
 
-44212 - Interconnecteur/interconnectrice en matériel électrique et électromécanique.
+44212-Interconnecteur (trice) en matériel électrique électromécanique.
 
 Réglementation de l'activité :
 
@@ -106,8 +88,6 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
-
-Arrêté du 25 novembre 2002.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
