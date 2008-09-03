@@ -2,7 +2,7 @@
 
 Le montant plafond des frais de transport de mobilier pouvant être remboursé au militaire est déterminé par la formule suivante :
 
-P = [V x 40] + [V x D x (0,14 - (V - 1) x B)] + S dans laquelle :
+P = [V × 43, 4] + [V × D × (0, 14 - (V - 1) × B)] + S dans laquelle :
 
 P représente le montant plafond TTC ;
 
@@ -14,7 +14,9 @@ S représente les suppléments éventuels déterminés à l'article 3 ;
 
 B est un coefficient variable en fonction du volume selon le tableau suivant :
 
-<div/>
+Vous pouvez consulter le tableau dans le JO
+
+n° 103 du 03/05/2007 texte numéro 5
 
 Pour une distance en charge inférieure à 25 km, il est fait application de la formule avec D = 25 km.
 
