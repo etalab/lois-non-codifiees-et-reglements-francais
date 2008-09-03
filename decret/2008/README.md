@@ -731,6 +731,8 @@
 - [Décret n°2008-870 du 29 août 2008 (MAEA0814236D)](decret-n2008-870-du-29-aout-2008-maea0814236d)
 - [Décret n°2008-875 du 29 août 2008 (DEVE0801963D)](decret-n2008-875-du-29-aout-2008-deve0801963d)
 - [Décret n°2008-876 du 29 août 2008 (JUSC0802157D)](decret-n2008-876-du-29-aout-2008-jusc0802157d)
+- [Décret n°2008-877 du 29 août 2008 (SJSH0809367D)](decret-n2008-877-du-29-aout-2008-sjsh0809367d)
+- [Décret n°2008-878 du 29 août 2008 (SJSS0808311D)](decret-n2008-878-du-29-aout-2008-sjss0808311d)
 - [Décret n°2008-91 du 29 janvier 2008 (ECEL0774451D)](decret-n2008-91-du-29-janvier-2008-ecel0774451d)
 - [Décret n°2008-93 du 29 janvier 2008 (BCFD0765846D)](decret-n2008-93-du-29-janvier-2008-bcfd0765846d)
 - [Décret n°68-619 du 29 juin 1968](decret-n68-619-du-29-juin-1968)
