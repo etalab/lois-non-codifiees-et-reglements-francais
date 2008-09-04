@@ -580,7 +580,6 @@
 - [Arrêté du 15 février 1995 (CSCX9500652A)](arrete-du-15-fevrier-1995-cscx9500652a)
 - [Arrêté du 15 février 1995 (CSCX9500653A)](arrete-du-15-fevrier-1995-cscx9500653a)
 - [Arrêté du 15 février 1995 (ENVN9540066A)](arrete-du-15-fevrier-1995-envn9540066a)
-- [Arrêté du 15 février 1995 (ENVN9540088A)](arrete-du-15-fevrier-1995-envn9540088a)
 - [Arrêté du 15 février 1995 (FPPA9500027A)](arrete-du-15-fevrier-1995-fppa9500027a)
 - [Arrêté du 15 février 1995 (FPPA9500028A)](arrete-du-15-fevrier-1995-fppa9500028a)
 - [Arrêté du 15 février 1995 (INDP9500227A)](arrete-du-15-fevrier-1995-indp9500227a)
