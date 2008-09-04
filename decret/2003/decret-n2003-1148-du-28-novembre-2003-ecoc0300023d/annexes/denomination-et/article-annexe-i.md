@@ -2,7 +2,7 @@
 
 1. Lait partiellement déshydraté
 
-Le produit liquide, sucré ou non, obtenu directement par élimination partielle de l'eau du lait, du lait entièrement ou partiellement écrémé ou d'un mélange de ces produits, éventuellement additionné de crème, de lait totalement déshydraté ou de ces deux produits, l'addition de lait totalement déshydraté ne dépassant pas, dans le produit fini, 25 % de l'extrait sec total provenant du lait.
+Le produit liquide, sucré ou non, obtenu par élimination partielle de l'eau du lait, du lait entièrement ou partiellement écrémé ou d'un mélange de ces produits, éventuellement additionné de crème, de lait totalement déshydraté ou de ces deux produits, l'addition de lait totalement déshydraté ne dépassant pas, dans le produit fini, 25 % de l'extrait sec total provenant du lait.
 
 Sortes de lait concentré non sucré
 
@@ -38,7 +38,7 @@ Le lait partiellement déshydraté additionné de saccharose (sucre mi-blanc, su
 
 2. Lait totalement déshydraté
 
-Le produit solide obtenu directement par élimination de l'eau du lait, du lait entièrement ou partiellement écrémé, de la crème ou d'un mélange de ces produits, et dont la teneur en eau n'excède pas 5 % en poids du produit fini.
+Le produit solide obtenu par élimination de l'eau du lait, du lait entièrement ou partiellement écrémé, de la crème ou d'un mélange de ces produits, et dont la teneur en eau n'excède pas 5 % en poids du produit fini.
 
 a) Lait en poudre riche en matières grasses ou poudre de lait riche en matières grasses.
 
@@ -55,3 +55,17 @@ Le lait déshydraté dont la teneur en matières grasses est, en poids, supérie
 d) Lait en poudre écrémé ou poudre de lait écrémé.
 
 Le lait déshydraté contenant, en poids, au maximum 1,5 % de matières grasses.
+
+3. Matières premières autorisées aux fins d'ajustement de la teneur en protéines :
+
+a) Rétentat du lait :
+
+Le rétentat du lait est le produit obtenu après concentration des protéines du lait par ultrafiltration du lait, du lait partiellement écrémé ou du lait écrémé.
+
+b) Perméat du lait :
+
+Le perméat du lait est le produit obtenu après élimination des protéines du lait et de la matière grasse.
+
+c) Lactose :
+
+Le lactose est un constituant naturel du lait qui s'obtient normalement à partir du lactosérum contenant en poids 99, 0 % au moins de lactose, exprimé en lactose anhydre calculé sur la matière sèche. Il peut être anhydre, contenir une molécule d'eau de cristallisation, ou être un mélange de ces deux formes.
