@@ -32,7 +32,7 @@ Zone de protection :
 
 - département de l'Aube ;
 
-- département de l'Aveyron : arrondissement de Rodez et cantons de Aubin, Camarès, Campagnac, Capdenac-Gare, Cornus, Decazeville, Millau-Est, Montbazens, Nant, Peyreleau, Rieupeyroux, Saint-Affrique, Saint-Beauzély, Saint-Rome-de-Tarn, Salles-Curan, Sévérac-le-Château, Vézins-de-Lévézou, Millau-Ouest, Millau ;
+- département de l'Aveyron : cantons de Aubin, Bozouls, Campagnac, Capdenac-Gare, Conques, Decazeville, Entraygues-sur-Truyère, Espalion, Estaing, Laguiole, Laissac, Marcillac-Vallon, Millau-Est, Montbazens, Mur-de-Barrez, Nant, Peyreleau, Pont-de-Salars, Rignac, Rodez-Est, Saint-Amans-des-Cots, Saint-Beauzély, Saint-Chély-d'Aubrac, Sainte-Geneviève-sur-Argence, Saint-Geniez-d'Olt, Sévérac-le-Château, Vézins-de-Lévézou, Millau-Ouest, Rodez-Ouest, Rodez-Nord, Millau, Rodez ;
 
 - département des Bouches-du-Rhône ;
 
@@ -62,13 +62,13 @@ Zone de protection :
 
 - département du Gard ;
 
-- département de l'Hérault : arrondissements de Montpellier, Lodève et cantons de Agde, Bédarieux, Florensac, Montagnac, Pézenas, Roujan, Servian ;
+- département de l'Hérault : cantons de Aniane, Castries, Caylar, Claret, Ganges, Lunel, Matelles, Mauguio, Montpellier (2e canton), Saint-Martin-de-Londres, Montpellier (8e canton), Montpellier (10e canton), Castelnau-le-Lez, Lattes, Montpellier ;
 
 - département d'Ille-et-Vilaine ;
 
 - département de l'Indre ;
 
-- département d'Indre-et-Loire;
+- département d'Indre-et-Loire ;
 
 - département de l'Isère ;
 
@@ -84,7 +84,7 @@ Zone de protection :
 
 - département du Loiret ;
 
-- département du Lot : cantons de Bretenoux, Figeac-Est, Figeac-Ouest, Lacapelle-Marival, Latronquière, Martel, Saint-Céré, Souillac, Vayrac, Sousceyrac, Figeac ;
+- département du Lot : cantons de Bretenoux, Figeac-Est, Figeac-Ouest, Latronquière, Saint-Céré, Vayrac, Sousceyrac, Figeac ;
 
 - département de la Lozère ;
 
@@ -148,7 +148,7 @@ Zone de protection :
 
 - département du Var ;
 
-- département de Vaucluse ;
+- département de Vaucluse :
 
 - département de la Vendée ;
 
@@ -170,7 +170,7 @@ Zone de protection :
 
 - département du Val-de-Marne ;
 
-- département du Val-d'Oise.
+département du Val-d'Oise.
 
 Zone C. - Zone d'outre-mer
 
@@ -192,7 +192,7 @@ Zone de protection :
 
 - département de l'Aude ;
 
-- département de l'Aveyron : cantons de Belmont-sur-Rance, Najac, Saint-Sernin-sur-Rance, Villefranche-de-Rouergue, Villeneuve ;
+- département de l'Aveyron : cantons de Belmont-sur-Rance, Camarès, Cassagnes-Bégonhès, Cornus, Najac, Naucelle, Réquista, Rieupeyroux, Saint-Affrique, Saint-Rome-de-Tarn, Saint-Sernin-sur-Rance, Salles-Curan, Salvetat-Peyralès, Baraqueville-Sauveterre, Villefranche-de-Rouergue, Villeneuve ;
 
 - département de la Charente ;
 
@@ -206,11 +206,11 @@ Zone de protection :
 
 - département de la Gironde ;
 
-- département de l'Hérault : cantons de Capestang, Olonzac, Saint-Chinian, Saint-Pons-de-Thomières, La Salvetat-sur-Agoût, Béziers (2e canton), Murviel-lès-Béziers, Olargues, Saint-Gervais-sur-Mare, Béziers (3e canton), Béziers (4e canton), Béziers ;
+- département de l'Hérault : arrondissement de Béziers et cantons de Clermont-l'Hérault, Frontignan, Gignac, Lodève, Lunas, Mèze, Pignan, Sète ;
 
 - département des Landes ;
 
-- département du Lot : arrondissement de Cahors et cantons de Cajarc, Gourdon, Gramat, Labastide-Murat, Livernon, Payrac, Saint-Germain-du-Bel-Air, Salviac ;
+- département du Lot : arrondissement de Cahors et cantons de Cajarc, Gourdon, Gramat, Labastide-Murat, Livernon, Payrac, Saint-Germain-du-Bel-Air, Salviac, Lacapelle-Marival, Martel, Souillac ;
 
 - département de Lot-et-Garonne ;
 
