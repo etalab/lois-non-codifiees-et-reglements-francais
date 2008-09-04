@@ -2,15 +2,13 @@
 
 INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
-Intitulé :
-
-Titre professionnel de technicien (ne) supérieur (e) de support en informatique.
+Intitulé : technicien (ne) supérieur (e) de support en informatique.
 
 Niveau : III.
 
 Code NSF : 326 r (informatique, traitement de l'information, réseaux transmission).
 
-Résumé du référentiel d'emploi :
+Résumé du référentiel d'emploi
 
 Le (la) technicien (ne) supérieur (e) de support en informatique a pour mission de dépanner ou de faire dépanner des systèmes informatiques et d'apporter des solutions aux utilisateurs de ces systèmes.
 
@@ -32,7 +30,7 @@ En intervention à distance, il s'agit :
 
 Il (elle) peut intervenir sur site afin d'effectuer des installations ou des dépannages.
 
-Chaque intervention se conclut par une recette auprès du client ou de l'utilisateur, c'est-à-dire une démonstration de la conformité du résultat par rapport à la demande, et par la réalisation d'un compte rendu à des fins de gestion et de qualité.
+Chaque intervention se conclut par une recette auprès du client ou de l'utilisateur, c'est-à-dire une démonstration de la conformité du résultat par rapport à la demande, et par la réalisation d'un compte-rendu à des fins de gestion et de qualité.
 
 Une solution nouvelle apportée à un incident grave ou répétitif peut donner lieu à une formalisation, afin d'enrichir la base de connaissances.
 
@@ -42,7 +40,7 @@ Son travail nécessite le plus souvent :
 
 -la pratique d'une veille technique permanente, afin de faire évoluer ses compétences et de répondre aux besoins de l'entreprise en termes de nouvelles technologies ;
 
--une spécialisation passant par des certifications d'éditeurs et de fabricants, ou par la contribution à une communauté du logiciel libre.
+-une spécialisation passant par des certifications d'éditeurs et de fabricants ou par la contribution à une communauté du logiciel libre.
 
 Capacités attestées et descriptif des composantes de la certification
 
@@ -62,11 +60,11 @@ Mettre en œuvre et maintenir des machines virtuelles.
 
 2. Intervenir et assister sur les systèmes et les réseaux informatiques
 
-Intervenir sur une infrastructure de réseau TCP/ IP.
+Intervenir sur une infrastructure de réseau TCP / IP.
 
 Intervenir sur une infrastructure de réseau sécurisé.
 
-Téléadministrer et dépanner un serveur.
+Télé-administrer et dépanner un serveur.
 
 Intervenir sur un service d'annuaire de réseau.
 
@@ -82,7 +80,7 @@ Intervenir sur un système de messagerie informatique.
 
 Intervenir sur un serveur de base de données.
 
-Identifier un dysfonctionnement dans une architecture x-tiers.
+Identifier un dysfonctionnement dans une architecture distribuée.
 
 Suivre les indicateurs de qualité de service et la relation client.
 
@@ -90,9 +88,9 @@ Organiser et développer la veille technologique en informatique.
 
 Utiliser l'anglais dans son activité professionnelle en informatique.
 
-Secteurs d'activités ou types d'emploi accessibles par le détenteur du titre
+Secteur d'activité ou types d'emploi accessibles par le détenteur du titre
 
-Tous les secteurs d'activités sont concernés par ce métier, qui peut s'exercer en entreprise ou en société de services en ingénierie informatiques (SSII).
+Tous les secteurs d'activité sont concernés par ce métier, qui peut s'exercer en entreprise ou en société de services en ingénierie informatiques (SSII).
 
 Il peut s'agir plus particulièrement :
 
@@ -104,11 +102,9 @@ Il peut s'agir plus particulièrement :
 
 Codes ROME :
 
-A défaut, en l'attente du nouveau ROME :
+32331-Informaticien (ne) expert (e).
 
-32331 : informaticien (ne) expert (e).
-
-52321 : technicien (ne) de maintenance informatique.
+52321-Technicien (ne) de maintenance informatique.
 
 Réglementation de l'activité :
 
@@ -122,6 +118,6 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
+Code de l'éducation, notamment les articles L. 335-5, L. 335-6, R. 335-13 et R. 338-2 ;
 
 Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministre chargé de l'emploi.
