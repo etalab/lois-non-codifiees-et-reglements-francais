@@ -116,6 +116,8 @@ Centre hospitalier de Cornouaille, 14, avenue Yves-Thépot, BP 1757, 29107 Quimp
 
 Hôpital d'instruction des armées Clermont-Tonnerre, rue du Colonel-Fonferrier, 29240 Brest-Naval.
 
+Centre hospitalier universitaire de Brest, hôpital de la Cavale Blanche (service des maladies infectieuses médecine interne 2), boulevard Tanguy-Prigent, 29609 Brest Cedex.
+
 30 - Gard
 
 Service communal d'hygiène et de santé, 2, rue Mathieu-Lacroix, 30000 Nîmes.
