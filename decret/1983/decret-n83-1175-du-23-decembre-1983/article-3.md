@@ -4,14 +4,8 @@ Dans les établissements d'enseignement supérieur relevant du ministère de l'�
 
 Dans un même établissement, une personne ne peut bénéficier que d'un seul contrat.
 
-Dans les établissements publics à caractère scientifique et culturel, les contrats prévus à l'alinéa 1er ci-dessus sont conclus par le chef d'établissement sur proposition de la ou des commissions de spécialistes compétentes, sous réserve des dispositions prévues aux quatrième, cinquième et sixième alinéas suivants.
-
-Dans les instituts d'études politiques, régis par les décrets n° 69-55 et 69-56 du 18 janvier 1969, les contrats sont conclus dans les conditions prévues par les dispositions réglementaires relatives au recrutement des enseignants vacataires de ces établissements.
-
-Dans les instituts universitaires de technologie et les écoles d'ingénieurs, régis respectivement par les décrets n° 69-63 du 20 janvier 1969 et n° 69-930 du 14 octobre 1969, les contrats sont conclus par le directeur de l'institut ou de l'école après avis de la commission prévue par ces décrets pour le choix des enseignants.
+Les contrats prévus au premier alinéa du présent article sont conclus par le président ou le directeur de l'établissement après avis du conseil scientifique ou de l'organe en tenant lieu.
 
 A l'école des hautes études en sciences sociales, les contrats sont conclus par le chef d'établissement sur proposition de l'assemblée des enseignants.
-
-Dans les établissements publics autres que les établissements publics à caractère scientifique et culturel, les contrats sont conclus par le chef de l'établissement sur proposition des instances internes de l'établissement statutairement consultées sur le choix des personnels enseignants.
 
 L'exécution du contrat conclu dans les conditions fixées ci-dessus donne lieu à une rémunération dont la limite maximum est fixée par arrêté conjoint du ministre du budget et du ministre de l'éducation nationale. Cet arrêté fixe également les réductions apportées à cette limite pour chaque séance non prévue par le contrat ou non réalisée.
