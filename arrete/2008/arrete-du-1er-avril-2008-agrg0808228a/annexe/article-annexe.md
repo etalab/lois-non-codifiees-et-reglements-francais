@@ -32,7 +32,7 @@ Zone de protection :
 
 - département de l'Aube ;
 
-- département de l'Aveyron : cantons de Aubin, Bozouls, Campagnac, Capdenac-Gare, Conques, Decazeville, Entraygues-sur-Truyère, Espalion, Estaing, Laguiole, Laissac, Marcillac-Vallon, Millau-Est, Montbazens, Mur-de-Barrez, Nant, Peyreleau, Pont-de-Salars, Rignac, Rodez-Est, Saint-Amans-des-Cots, Saint-Beauzély, Saint-Chély-d'Aubrac, Sainte-Geneviève-sur-Argence, Saint-Geniez-d'Olt, Sévérac-le-Château, Vézins-de-Lévézou, Millau-Ouest, Rodez-Ouest, Rodez-Nord, Millau, Rodez ;
+- département de l'Aveyron : cantons de Conques, Entraygues-sur-Truyère, Espalion, Estaing, Laguiole, Mur-de-Barrez, Saint-Amans-des-Cots, Saint-Chély-d'Aubrac, Sainte-Geneviève-sur-Argence, Saint-Geniez-d'Olt ;
 
 - département des Bouches-du-Rhône ;
 
@@ -42,7 +42,7 @@ Zone de protection :
 
 - département du Cher ;
 
-- département de la Corrèze ;
+- département de la Corrèze : arrondissement d'Ussel et cantons d'Egletons, Lapleau, Saint-Privat, Treignac ;
 
 - département de la Côte-d'Or ;
 
@@ -61,8 +61,6 @@ Zone de protection :
 - département du Finistère ;
 
 - département du Gard ;
-
-- département de l'Hérault : cantons de Aniane, Castries, Caylar, Claret, Ganges, Lunel, Matelles, Mauguio, Montpellier (2e canton), Saint-Martin-de-Londres, Montpellier (8e canton), Montpellier (10e canton), Castelnau-le-Lez, Lattes, Montpellier ;
 
 - département d'Ille-et-Vilaine ;
 
@@ -83,8 +81,6 @@ Zone de protection :
 - département de la Loire-Atlantique ;
 
 - département du Loiret ;
-
-- département du Lot : cantons de Bretenoux, Figeac-Est, Figeac-Ouest, Latronquière, Saint-Céré, Vayrac, Sousceyrac, Figeac ;
 
 - département de la Lozère ;
 
@@ -154,7 +150,7 @@ Zone de protection :
 
 - département de la Vienne ;
 
-- département de la Haute-Vienne ;
+- département de la Haute-Vienne : arrondissement de Bellac et cantons d'Ambazac, Châteauneuf-la-Forêt, Eymoutiers, Laurière, Nieul, Saint-Junien-Est, Saint-Léonard-de-Noblat, Limoges-Isle, Limoges-Couzeix, Limoges-Le Palais, Limoges-Panazol, Saint-Junien-Ouest, Saint-Junien, Limoges ;
 
 - département des Vosges ;
 
@@ -170,7 +166,7 @@ Zone de protection :
 
 - département du Val-de-Marne ;
 
-département du Val-d'Oise.
+- département du Val-d'Oise.
 
 Zone C. - Zone d'outre-mer
 
@@ -192,11 +188,13 @@ Zone de protection :
 
 - département de l'Aude ;
 
-- département de l'Aveyron : cantons de Belmont-sur-Rance, Camarès, Cassagnes-Bégonhès, Cornus, Najac, Naucelle, Réquista, Rieupeyroux, Saint-Affrique, Saint-Rome-de-Tarn, Saint-Sernin-sur-Rance, Salles-Curan, Salvetat-Peyralès, Baraqueville-Sauveterre, Villefranche-de-Rouergue, Villeneuve ;
+- département de l'Aveyron : arrondissements de Millau, Villefranche-de-Rouergue et cantons de Bozouls, Cassagnes-Bégonhès, Laissac, Marcillac-Vallon, Naucelle, Pont-de-Salars, Réquista, Rignac, Rodez-Est, Salvetat-Peyralès, Baraqueville-Sauveterre, Rodez-Ouest, Rodez-Nord, Rodez ;
 
 - département de la Charente ;
 
 - département de la Charente-Maritime ;
+
+- département de la Corrèze : arrondissement de Brive-la-Gaillarde et cantons d'Argentat, Corrèze, Mercœur, La Roche-Canillac, Seilhac, Uzerche, Tulle-Campagne-Nord, Tulle-Campagne-Sud, Tulle ;
 
 - département de la Dordogne ;
 
@@ -206,11 +204,11 @@ Zone de protection :
 
 - département de la Gironde ;
 
-- département de l'Hérault : arrondissement de Béziers et cantons de Clermont-l'Hérault, Frontignan, Gignac, Lodève, Lunas, Mèze, Pignan, Sète ;
+- département de l'Hérault ;
 
 - département des Landes ;
 
-- département du Lot : arrondissement de Cahors et cantons de Cajarc, Gourdon, Gramat, Labastide-Murat, Livernon, Payrac, Saint-Germain-du-Bel-Air, Salviac, Lacapelle-Marival, Martel, Souillac ;
+- département du Lot ;
 
 - département de Lot-et-Garonne ;
 
@@ -222,4 +220,6 @@ Zone de protection :
 
 - département du Tarn ;
 
-- département de Tarn-et-Garonne.
+- département de Tarn-et-Garonne ;
+
+- département de la Haute-Vienne : cantons d'Aixe-sur-Vienne, Châlus, Nexon, Oradour-sur-Vayres, Pierre-Buffière, Rochechouart, Saint-Germain-les-Belles, Saint-Laurent-sur-Gorre, Saint-Mathieu, Saint-Yrieix-la-Perche, Limoges-Condat.
