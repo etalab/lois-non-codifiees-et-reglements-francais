@@ -10,4 +10,6 @@ Les titres sécurisés pour lesquels l'Agence nationale des titres sécurisés e
 
 4° Le titre de séjour électronique ;
 
-5° Le visa biométrique.
+5° Le visa biométrique ;
+
+6° Le certificat d'immatriculation des véhicules.
