@@ -14,11 +14,11 @@ Mise en place d'une isolation thermique de résistance thermique R ≥ 5  m² K/
 
 3. Conditions pour la délivrance  de certificats :
 
-Les isolants ont une certification ACERMI ou des  caractéristiques de performance et de qualité équivalentes établies par un mode  de preuve légal dans un Etat membre de l'Union européenne ou un Etat partie à  l'accord instituant l'Espace économique européen ou en Turquie.
+Les  isolants ont une certification ACERMI ou des  caractéristiques de  performance et de qualité équivalentes établies par un mode  de preuve  légal dans un Etat membre de l'Union européenne ou un Etat partie à   l'accord instituant l'Espace économique européen ou en Turquie.
 
 Mise en place réalisée par un professionnel.
 
-Informations à fournir impérativement : type de logement (maison  individuelle ou appartement) et ancienneté du bâtiment (avant ou après 1975).
+Informations  à fournir impérativement : type de logement (maison  individuelle ou  appartement) et ancienneté du bâtiment (avant ou après 1975).
 
 4. Durée de vie conventionnelle :
 
@@ -109,9 +109,7 @@ Informations à fournir impérativement : type de logement (maison  individuelle
 </table>
 </div>
 
-<div align="left">Certificats d'économies d'énergie  <br/>
-<br/>
-<p>Opération n° BAR-EN-02</p>
+<div align="left">Certificats d'économies d'énergie <p>Opération n° BAR-EN-02</p>
 <p>Isolation des murs<br/>
 </p>
 </div>
@@ -126,13 +124,13 @@ Mise en place d'un doublage isolant  (complexe ou sur ossature) de résistance t
 
 3. Conditions pour la délivrance de certificats :
 
-Les isolants ont une certification ACERMI ou des caractéristiques de  performance et de qualité équivalentes établies par un mode de preuve légal dans  un Etat membre de l'Union européenne ou un Etat partie à l'accord instituant  l'Espace économique européen ou en Turquie.
+Les  isolants ont une certification ACERMI ou des caractéristiques de   performance et de qualité équivalentes établies par un mode de preuve  légal dans  un Etat membre de l'Union européenne ou un Etat partie à  l'accord instituant  l'Espace économique européen ou en Turquie.
 
 Les isolants doivent  être mis en uvre selon les DTU 25.42 et 25.41 ou avis technique.
 
 Mise en place réalisée par un professionnel.
 
-Informations à fournir impérativement : type de logement (maison  individuelle ou appartement) et ancienneté du bâtiment (avant ou après 1975).
+Informations  à fournir impérativement : type de logement (maison  individuelle ou  appartement) et ancienneté du bâtiment (avant ou après 1975).
 
 4. Durée de vie conventionnelle :
 
@@ -223,9 +221,7 @@ Informations à fournir impérativement : type de logement (maison  individuelle
 </table>
 </div>
 
-<div align="left">Certificats d'économies d'énergie  <br/>
-<br/>
-<p>Opération n° BAR-EN-03</p>
+<div align="left">Certificats d'économies d'énergie <p>Opération n° BAR-EN-03</p>
 <p>Isolation d'un plancher<br/>
 </p>
 </div>
@@ -240,13 +236,13 @@ Mise en place d'un doublage isolant (complexe ou sur ossature) de  résistance t
 
 3.  Conditions pour la délivrance de certificats :
 
-Les isolants ont  une certification ACERMI ou des caractéristiques de performance et de qualité  équivalentes établies par un mode de preuve légal dans un Etat membre de l'Union  européenne ou un Etat partie à l'accord instituant l'Espace économique européen  ou en Turquie.
+Les  isolants ont  une certification ACERMI ou des caractéristiques de  performance et de qualité  équivalentes établies par un mode de preuve  légal dans un Etat membre de l'Union  européenne ou un Etat partie à  l'accord instituant l'Espace économique européen  ou en Turquie.
 
 Les isolants doivent être mis en uvre selon les  DTU 25.42 et 25.41 ou avis technique.
 
 Mise en place réalisée par  un professionnel.
 
-Informations à fournir impérativement : type de  logement (maison individuelle ou appartement) et ancienneté du bâtiment (avant  ou après 1975).
+Informations  à fournir impérativement : type de  logement (maison individuelle ou  appartement) et ancienneté du bâtiment (avant  ou après 1975).
 
 4. Durée de vie conventionnelle :
 
@@ -337,10 +333,8 @@ Informations à fournir impérativement : type de  logement (maison individuelle
 </table>
 </div>
 
-<div align="left">Certificats d'économies d'énergie  <br/>
-<br/>
-<p>Opération n° BAR-EN-04</p>
-<p>Fenêtre ou porte-fenêtre complète avec vitrage isolant<br/>
+<div align="left">Certificats d'économies d'énergie <p>Opération n° BAR-EN-04</p>
+<p>Fenêtre ou porte-fenêtre complète avec vitrage  isolant<br/>
 </p>
 </div>
 
@@ -350,17 +344,17 @@ Bâtiment résidentiel : maisons  individuelles et appartements existants.
 
 2. Dénomination :
 
-Mise en place d'une fenêtre ou porte-fenêtre complète avec vitrage  isolant, correspondant à un coefficient de transmission surfacique Uw ≤ 2 W/m²  K.
+Mise  en place d'une fenêtre ou porte-fenêtre complète avec vitrage  isolant,  correspondant à un coefficient de transmission surfacique Uw ≤ 2 W/m²   K.
 
 3. Conditions pour la délivrance de certificats :
 
-La fenêtre ou porte-fenêtre aura la certification NF CSTBat, le label  ACOTHERM ou des caractéristiques de performance et de qualité équivalentes  établies par un mode de preuve légal dans un Etat membre de l'Union européenne  ou un Etat partie à l'accord instituant l'Espace économique européen ou en  Turquie.
+La  fenêtre ou porte-fenêtre aura la certification NF CSTBat, le label   ACOTHERM ou des caractéristiques de performance et de qualité  équivalentes  établies par un mode de preuve légal dans un Etat membre  de l'Union européenne  ou un Etat partie à l'accord instituant l'Espace  économique européen ou en  Turquie.
 
-La mise en uvre de la fenêtre ou porte-fenêtre sera  faite conformément aux DTU et prescriptions des cahiers du CSTB en vigueur pour  chacun des matériaux (aluminium, bois et PVC).
+La mise en uvre de  la fenêtre ou porte-fenêtre sera  faite conformément aux DTU et  prescriptions des cahiers du CSTB  en vigueur  pour chacun des matériaux  (aluminium, bois et PVC).
 
 Mise en place  réalisée par un professionnel.
 
-Informations à fournir  impérativement : type de logement (maison individuelle ou appartement) et  ancienneté du bâtiment (avant ou après 1975).
+Informations  à fournir  impérativement : type de logement (maison individuelle ou  appartement) et  ancienneté du bâtiment (avant ou après 1975).
 
 4. Durée de vie  conventionnelle :
 
@@ -467,7 +461,7 @@ Mise en place en toiture  terrasse d'un doublage extérieur isolant de résistan
 
 3. Conditions pour la délivrance de certificats :
 
-Les isolants ont une certification ACERMI ou des caractéristiques de  performance et de qualité équivalentes établies par un mode de preuve légal dans  un Etat membre de l'Union européenne ou un Etat partie à l'accord instituant  l'Espace économique européen ou en Turquie.
+Les  isolants ont une certification ACERMI ou des caractéristiques de   performance et de qualité équivalentes établies par un mode de preuve  légal dans  un Etat membre de l'Union européenne ou un Etat partie à  l'accord instituant  l'Espace économique européen ou en Turquie.
 
 Les isolants doivent  être mis en uvre selon les DTU séries 40 à 43 ou avis technique.
 
@@ -587,19 +581,19 @@ Isolation de combles ou de toitures DOM
 
 1. Secteur d'application :
 
-Bâtiment résidentiel : maisons individuelles et appartements existants ou  neufs en l'absence de réglementation thermique, dans les départements  d'outre-mer.
+Bâtiment  résidentiel : maisons individuelles et appartements existants ou neufs  en l'absence de réglementation thermique, dans les départements  d'outre-mer.
 
 2. Dénomination :
 
-Mise en place d'une isolation thermique de résistance thermique R 1,2 m² K/W  en comble ou en toiture.
+Mise en place d'une isolation thermique de résistance thermique R 1,2 m² K/W en comble ou en toiture.
 
 3. Conditions pour la délivrance de certificats :
 
-Les isolants ont une certification ACERMI ou des caractéristiques de  performance et de qualité équivalentes établies par un mode de preuve légal dans  un Etat membre de l'Union européenne ou un Etat partie à l'accord instituant  l'Espace économique européen ou en Turquie.
+Les  isolants ont une certification ACERMI ou des caractéristiques de  performance et de qualité équivalentes établies par un mode de preuve  légal dans un Etat membre de l'Union européenne ou un Etat partie à  l'accord instituant l'Espace économique européen ou en Turquie.
 
 Mise en place réalisée par un professionnel.
 
-Informations à fournir impérativement : type de logement (maison individuelle  ou appartement) et ancienneté du bâtiment (avant ou après 1975).
+Informations  à fournir impérativement : type de logement (maison individuelle ou  appartement) et ancienneté du bâtiment (avant ou après 1975).
 
 4. Durée de vie conventionnelle :
 
@@ -609,4 +603,57 @@ Informations à fournir impérativement : type de logement (maison individuelle 
 
 400 kWh cumac/m² d'isolant posé
 
-En application de l'article 3 du décret n° 2006-603 du 23 mai 2006 relatif  aux certificats d'économies d'énergie, il est attribué le double du montant des  kWh cumac obtenu par le calcul ci-dessus pour cette action menée dans les  DOM.
+En  application de l'article 3 du décret n° 2006-603 du 23 mai 2006 relatif  aux certificats d'économies d'énergie, il est attribué le double du  montant des kWh cumac obtenu par le calcul ci-dessus pour cette action  menée dans les DOM.
+
+Certificats d'économies d'énergie
+
+<div align="left">Opération n° BAR-EN-07</div>
+
+Isolation des murs (DOM)
+
+1. Secteur d'application :
+
+Bâtiment  résidentiel :  maisons individuelles et appartements existants ou neufs  en l'absence de  réglementation thermique, dans les départements  d'outre-mer.
+
+2.  Dénomination :
+
+Mise en place sur les murs d'une isolation  thermique de résistance thermique R ≥ 1,2 m².K/W.
+
+3. Conditions  pour la délivrance de certificats :
+
+Les  isolants ont une  certification ACERMI ou des caractéristiques de  performance et de qualité  équivalentes établies par un mode de preuve  légal dans un Etat membre de l'Union  européenne ou un Etat partie à  l'accord instituant l'Espace économique européen  ou en Turquie.
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle :
+
+25 ans.
+
+<div align="left">
+<div>5. Montant de certificats en kWh cumac :<br/>
+</div>
+</div>
+<div align="left">
+<br/>
+<table>
+<tbody>
+<tr>
+<td align="center">Montant unitaire en kWh cumac/m² d'isolant.<br/>
+</td>
+<td align="center">290<br/>
+</td>
+</tr>
+</tbody>
+</table>
+<br/>
+</div>
+<div align="left">En application de l'article 3 du décret n° 2006-603 du 23 mai 2006   relatif aux certificats d'économies d'énergie, il est attribué le  double du  montant des kWh cumac obtenu par le calcul ci-dessus pour  cette action menée  dans les DOM.</div>
+
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left">
+<br/>
+</div>
