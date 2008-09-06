@@ -12,4 +12,4 @@ b) 0, 75 euros par injection vaccinale à un ovin ou caprin vacciné avec un vac
 
 c) 0, 375 euros par injection vaccinale à un ovin ou caprin vacciné avec un vaccin nécessitant deux injections de primo-vaccination.
 
-La participation de l'Etat aux coûts de réalisation de la vaccination à titre prophylactique est étendue à deux sérotypes pour les départements suivants : Charente, Charente-Maritime, Dordogne, Gers, Gironde, Landes, Lot-et-Garonne, Pyrénées-Atlantiques, Hautes-Pyrénées.
+La participation de l'Etat aux coûts de réalisation de la vaccination à titre prophylactique est étendue à deux sérotypes pour les départements suivants : Ariège, Aude, Aveyron, Charente, Charente-Maritime, Dordogne, Gers, Gironde, Haute-Garonne, Hérault, Landes, Lot, Lot-et-Garonne, Pyrénées-Atlantiques, Hautes-Pyrénées, Pyrénées-Orientales, Tarn et Tarn-et-Garonne.
