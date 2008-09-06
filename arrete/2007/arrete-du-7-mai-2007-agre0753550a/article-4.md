@@ -24,4 +24,4 @@ Institut français des boissons, de la brasserie et de la malterie (IFBM) ;
 
 Institut des corps gras (ITERG) ;
 
-Institut technique des fromages français (ITFF).
+Actilait.
