@@ -1,5 +1,10 @@
 # Article Annexe BAR-TH
 
+<div align="center"/>
+<div align="center"/>
+<div align="center"/>
+<div align="center"/>
+<div align="center"/>
 <div align="left">Certificats d'économies d'énergie</div>
 
 Opération n° BAR-TH-01
@@ -31,6 +36,10 @@ Informations à fournir impérativement : ancienneté du bâtiment (avant ou apr
 Vous pouvez consulter le tableau dans le JO
 
 n° 303 du 31/12/2006 texte numéro 60
+
+<div align="left">
+<br/>
+</div>
 
 Certificats d'économies d'énergie
 
@@ -266,7 +275,6 @@ Informations à fournir  impérativement : ancienneté du bâtiment (avant ou ap
 </table>
 
 </div>
-
 <div align="center">
 
 <table>
@@ -643,7 +651,6 @@ Informations à fournir impérativement : ancienneté  du bâtiment (avant ou ap
 </table>
 
 </div>
-
 <div align="center">
 
 <table>
@@ -817,7 +824,7 @@ Informations à fournir impérativement : ancienneté  du bâtiment (avant ou ap
 
 </div>
 
-(1) Le  facteur correctif est déterminé à partir soit du nombre de pièces principales,  soit de la surface habitable.
+<div align="left">(1) Le  facteur correctif est déterminé à partir soit du nombre de pièces principales,  soit de la surface habitable.</div>
 
 Certificats d'économies d'énergie
 
@@ -1337,68 +1344,66 @@ n° 156 du 07/07/2006 texte numéro 28
 
 Certificats d'économies d'énergie
 
-_Opération n°_BAR-TH-09-SE
+Opération n° BAR-TH-09-SE
 
-Chaudière collective de type basse température avec contrat  assurant le maintien du rendement énergétique de la chaudière
+<div align="left">Chaudière collective de type basse température <br/>avec contrat assurant le maintien du rendement énergétique de la  chaudière</div>
 
 1. Secteur d'application :
 
-Bâtiment résidentiel : appartements  existants.
+Bâtiment résidentiel :  appartements existants.
 
 2. Dénomination :
 
-Mise  en place d'une  chaudière collective de type basse température  accompagnée d'un contrat de  maintenance comportant un engagement de  maintien du rendement énergétique de la  chaudière sur la durée du  contrat.
+Mise  en  place d'une chaudière collective de type basse température  accompagnée d'un  contrat de maintenance comportant un engagement de  maintien du rendement  énergétique de la chaudière sur la durée du  contrat.
 
-3. Conditions pour la  délivrance de certificats :
+3. Conditions  pour la délivrance de certificats :
 
-Les locaux professionnels au sein  d'immeubles collectifs existants sont assimilés à des appartements.
+Les locaux professionnels au  sein d'immeubles collectifs existants sont assimilés à des appartements.
 
 Pour la chaudière :
 
-― l'action inclut la mise en uvre  d'une régulation ;
+L'action inclut la mise en œuvre  d'une régulation.
 
-―  elle n'est applicable que sur des  installations dont les émetteurs  sont dimensionnés de sorte à permettre à la  chaudière de condenser ;
+Mise en place réalisée par un professionnel.
 
-― mise en place réalisée par un  professionnel ;
+Informations à fournir impérativement : ancienneté du bâtiment  collectif (avant ou après 75).
 
-― informations à fournir impérativement :  ancienneté du bâtiment collectif (avant ou après 1975).
+Pour le contrat :
 
-Pour le  contrat :
+Le   contrat doit être établi avec un professionnel ayant une qualification  Qualibat  553 et 554 ou tout dispositif présentant des spécifications  techniques  équivalentes.
 
-―  le contrat doit être établi avec un professionnel  ayant une  qualification Qualibat 553 et 554 ou tout dispositif présentant des   spécifications techniques équivalentes ;
-
-― le contrat  doit  comporter une clause par laquelle le prestataire s'engage, dans le  cadre des  certificats d'économies d'énergie, à maintenir le rendement  énergétique de  l'appareil installé. Le rendement à maintenir sera  défini à partir d'une mesure  après installation de l'appareil. Le  rendement devra être, par la suite, mesuré  au moins une fois par an.
+Le contrat doit comporter une  clause par laquelle le  prestataire s'engage, dans le cadre des  certificats d'économies d'énergie, à  maintenir le rendement énergétique  de l'appareil installé. Le rendement à  maintenir sera défini à partir  d'une mesure après installation de l'appareil. Le  rendement devra être  par la suite mesuré au moins une fois par an.
 
 4. Durée de vie conventionnelle :
 
-Chaudière : 21 ans.
+Chaudière : 21  ans.
 
 Contrat : plafonnée à 8 ans.
 
-5. Montant de certificats en kWh cumac :
+5. Montant de  certificats en kWh cumac :
 
-Pour la  chaudière :
+Pour la chaudière :
 
-<div align="left">
-<br/>
+<div align="center">
+
 <table>
 <tbody>
 <tr>
-<th>USAGE DE LA CHAUDIÈRE<br/>
-</th>
-<th>ZONE CLIMATIQUE<br/>
-</th>
-<th>MONTANT<br/>(en kWh cumac<br/>pour un appartement)<br/>
-</th>
-<th>
-<br/>
-</th>
-<th>FACTEUR<br/>correctif<br/>(1)<br/>
-</th>
-<th>SURFACE<br/>habitable<br/>(en m²)<br/>
-</th>
-<th>NOMBRE<br/>de pièces<br/>principales<br/>
-</th>
+<td align="center">USAGE DE LA CHAUDIÈRE<br/>
+</td>
+<td align="center">ZONE CLIMATIQUE<br/>
+</td>
+<td align="center">MONTANT<br/>en kWh cumac<br/>pour un  appartement<br/>
+</td>
+<td align="center" rowspan="7">
+<br/>X<br/>
+</td>
+<td align="center">FACTEUR<br/>correctif<br/>(1)<br/>
+</td>
+<td align="center">SURFACE<br/>habitable<br/>(en m²)<br/>
+</td>
+<td align="center">NOMBRE<br/>de pièces<br/>principales<br/>
+</td>
 </tr>
 <tr>
 <td align="center" rowspan="3">
@@ -1407,11 +1412,6 @@ Pour la  chaudière :
 <td align="center">H1<br/>
 </td>
 <td align="center">41 000<br/>
-</td>
-<td align="center" rowspan="6">
-<br/>
-<b>X</b>
-<br/>
 </td>
 <td align="center">0,3<br/>
 </td>
@@ -1485,18 +1485,21 @@ Pour la  chaudière :
 </tr>
 </tbody>
 </table>
+
 </div>
-<div align="left">
-<br/>(1) Le facteur correctif est déterminé à partir soit du nombre de  pièces principales, soit de la surface habitable.<br/>Pour le contrat  :<br/>Le  montant de kWh cumac attribué à la chaudière sur la base du  tableau  précédent est augmenté en appliquant un facteur correctif suivant la   grille ci-dessous :</div>
-<div align="left">
-<br/>
+
+<div align="left">(1) Le facteur correctif est déterminé à partir soit du nombre  de pièces principales, soit de la surface habitable. <p>Pour le contrat :<br/>Le  montant de kWh cumac attribué à la  chaudière sur la base du tableau  précédent est augmenté en appliquant un facteur  correctif suivant la  grille ci-dessous : </p>
+</div>
+
+<div align="center">
+
 <table>
 <tbody>
 <tr>
-<th>DURÉE DU CONTRAT<br/>
-</th>
-<th>FACTEUR<br/>correctif<br/>
-</th>
+<td align="center">DURÉE<br/>du contrat<br/>
+</td>
+<td align="center" colspan="6">FACTEUR<br/>correctif<br/>
+</td>
 </tr>
 <tr>
 <td align="center">1 an<br/>
@@ -1541,12 +1544,14 @@ Pour la  chaudière :
 </td>
 </tr>
 <tr>
-<td align="center">8 ans</td>
+<td align="center">8 ans<br/>
+</td>
 <td align="center">1,24<br/>
 </td>
 </tr>
 </tbody>
 </table>
+
 </div>
 <div align="left">
 <br/>
@@ -1749,8 +1754,8 @@ Pour le contrat  :
 
 Le  montant de kWh cumac attribué à la chaudière sur la base du  tableau  précédent est augmenté en appliquant un facteur correctif suivant la   grille ci-dessous :
 
-<div align="left">
-<br/>
+<div align="center">
+
 <table>
 <tbody>
 <tr>
@@ -1809,9 +1814,17 @@ Le  montant de kWh cumac attribué à la chaudière sur la base du  tableau  pr�
 </tr>
 </tbody>
 </table>
+
 </div>
 
-<div align="left">Certificats d'économies d'énergie <p>Opération n° BAR-TH-15</p>
+<div align="left"/>
+<div align="left">
+<br/>
+</div>
+<div align="left"/>
+<div align="left">Certificats d'économies d'énergie </div>
+<div align="left">
+<p>Opération n° BAR-TH-15</p>
 <p>Isolation d'un réseau hydraulique de chauffage existant</p>
 </div>
 
@@ -1841,8 +1854,8 @@ Informations à fournir impérativement : ancienneté du bâtiment (avant  ou ap
 
 5. Montant de certificats en kWh cumac :
 
-<div align="left">
-<br/>
+<div align="center">
+
 <table>
 <tbody>
 <tr>
@@ -1872,6 +1885,7 @@ Informations à fournir impérativement : ancienneté du bâtiment (avant  ou ap
 </tr>
 </tbody>
 </table>
+
 </div>
 
 Certificats d'économies d'énergie
@@ -1931,8 +1945,8 @@ Informations à fournir impérativement : ancienneté  du bâtiment (avant ou ap
 
 5. Montant de certificats en kWh cumac  :
 
-<div align="left">
-<br/>
+<div align="center">
+
 <table>
 <tbody>
 <tr>
@@ -1980,6 +1994,7 @@ Informations à fournir impérativement : ancienneté  du bâtiment (avant ou ap
 </tr>
 </tbody>
 </table>
+
 </div>
 
 <div align="left">Certificats d'économies d'énergie <p>Opération n° BAR-TH-18</p>
@@ -2009,8 +2024,8 @@ Informations à fournir impérativement : ancienneté du bâtiment (avant  ou ap
 
 5. Montant de certificats en kWh cumac :
 
-<div align="left">
-<br/>
+<div align="center">
+
 <table>
 <tbody>
 <tr>
@@ -2104,12 +2119,11 @@ Informations à fournir impérativement : ancienneté du bâtiment (avant  ou ap
 </tr>
 </tbody>
 </table>
+
 </div>
-<div align="left">
-<br/>
-</div>
-<div align="left">
-<br/>
+
+<div align="center">
+
 <table>
 <tbody>
 <tr>
@@ -2204,9 +2218,10 @@ Informations à fournir impérativement : ancienneté du bâtiment (avant  ou ap
 </tr>
 </tbody>
 </table>
+
 </div>
-<div align="left">
-<br/>(1) Le facteur correctif est déterminé à partir soit du nombre de  pièces principales, soit de la surface habitable. </div>
+
+<div align="left">(1) Le facteur correctif est déterminé à partir soit du nombre de  pièces principales, soit de la surface habitable. </div>
 
 <div align="left">Certificats d'économies d'énergie <p>Opération n° BAR-TH-19</p>
 <p>Programmateur d'intermittence sur une chaudière  existante<br/>pour un chauffage collectif à combustible<br/>
@@ -2237,8 +2252,8 @@ Informations à fournir  impérativement : ancienneté du bâtiment (avant ou ap
 
 5. Montant de  certificats en kWh cumac :
 
-<div align="left">
-<br/>
+<div align="center">
+
 <table>
 <tbody>
 <tr>
@@ -2333,6 +2348,7 @@ Informations à fournir  impérativement : ancienneté du bâtiment (avant ou ap
 </tr>
 </tbody>
 </table>
+
 </div>
 
 (1) Le facteur correctif est déterminé à partir soit du nombre de pièces  principales, soit de la surface habitable.
@@ -2708,8 +2724,8 @@ Information à fournir  impérativement : ancienneté du bâtiment (avant ou apr
 
 5. Montant de  certificats en kWh cumac :
 
-<div align="left">
-<br/>
+<div align="center">
+
 <table>
 <tbody>
 <tr>
@@ -2852,12 +2868,11 @@ Information à fournir  impérativement : ancienneté du bâtiment (avant ou apr
 </tr>
 </tbody>
 </table>
+
 </div>
-<div align="left">
-<br/>
-</div>
-<div align="left">
-<br/>
+
+<div align="center">
+
 <table>
 <tbody>
 <tr>
@@ -2998,9 +3013,10 @@ Information à fournir  impérativement : ancienneté du bâtiment (avant ou apr
 </tr>
 </tbody>
 </table>
+
 </div>
-<div align="left">
-<br/>(1)  Le facteur correctif est déterminé à partir soit du nombre de pièces  principales, soit de la surface habitable.</div>
+
+<div align="left">(1)  Le facteur correctif est déterminé à partir soit du nombre de pièces  principales, soit de la surface habitable.</div>
 
 Certificats d'économies d'énergie
 
@@ -3040,7 +3056,8 @@ Le  bâtiment bénéficie d'un des labels suivants :
 
 C'ref  et C'projet sont les valeurs des coefficients  Cref et Cprojet de la  réglementation exprimés en [kWh/m².an] d'énergie finale  lorsque les  calculs sont réalisés avec le moteur de calcul RT2005. Shon  représente  la surface hors uvre nette en mètres carrés.
 
-<div align="left">
+<div align="center">
+
 <table>
 <tbody>
 <tr>
@@ -3057,6 +3074,7 @@ C'ref  et C'projet sont les valeurs des coefficients  Cref et Cprojet de la  ré
 </tr>
 </tbody>
 </table>
+
 </div>
 
 Certificats d'économies d'énergie
@@ -3119,8 +3137,8 @@ La valeur de consommation s'entend au sens des règles  Th-C.
 
 5.  Montant de certificats en kWh cumac :
 
-<div align="left">
-<br/>
+<div align="center">
+
 <table>
 <tbody>
 <tr>
@@ -3199,9 +3217,10 @@ La valeur de consommation s'entend au sens des règles  Th-C.
 </tr>
 </tbody>
 </table>
+
 </div>
-<div align="left">
-<br/>
+<div align="center">
+
 <table>
 <tbody>
 <tr>
@@ -3286,9 +3305,10 @@ La valeur de consommation s'entend au sens des règles  Th-C.
 </tr>
 </tbody>
 </table>
+
 </div>
-<div align="left">
-<br/>(1) Le facteur correctif est déterminé à partir soit du nombre de  pièces principales, soit de la surface habitable.</div>
+
+<div align="left">(1) Le facteur correctif est déterminé à partir soit du nombre de  pièces principales, soit de la surface habitable.</div>
 
 Certificats d'économies d'énergie
 
@@ -3315,8 +3335,8 @@ Mise en place réalisée par un professionnel qui  s'assurera que  l'étanchéit
 
 5. Montant de certificats en kWh cumac :
 
-<div align="left">
-<br/>
+<div align="center">
+
 <table>
 <tbody>
 <tr>
@@ -3421,12 +3441,11 @@ Mise en place réalisée par un professionnel qui  s'assurera que  l'étanchéit
 </tr>
 </tbody>
 </table>
+
 </div>
-<div align="left">
-<br/>
-</div>
-<div align="left">
-<br/>
+
+<div align="center">
+
 <table>
 <tbody>
 <tr>
@@ -3531,69 +3550,50 @@ Mise en place réalisée par un professionnel qui  s'assurera que  l'étanchéit
 </tr>
 </tbody>
 </table>
+
 </div>
-<div align="left">
-<br/>(1) Le facteur correctif est déterminé à partir soit du nombre de  pièces principales, soit de la surface habitable.</div>
+
+(1) Le facteur correctif est déterminé à partir soit du nombre de  pièces principales, soit de la surface habitable.
 
 Certificats d'économies d'énergie
 
-<div align="left">Opération n° BAR-TH-34</div>
-<div align="left">Ventilation naturelle hygroréglable</div>
+Opération n° BAR-TH-34
 
-1. Secteur d'application :
+Ventilation naturelle hygroréglable
 
-Bâtiment résidentiel : maisons  individuelles et appartements existants.
+<div align="left">1. Secteur d'application :<br/>Bâtiment résidentiel :  maison individuelle et appartement existants.<br/>2. Dénomination :<br/>Mise en place d'une ventilation naturelle hygroréglable dans un  logement avec chauffage à combustible ou électrique.<br/>3. Conditions  pour la délivrance de certificats :<br/>Mise  en place réalisée par un  professionnel qui s'assurera que l'étanchéité  du bâtiment atteint un niveau de  performance compatible avec les  performances de la ventilation naturelle  hygroréglable.<br/>Information à fournir impérativement : ancienneté  du bâtiment (avant ou après 75).<br/>4. Durée de vie conventionnelle  :<br/>16 ans.<br/>5. Montant de certificats en kWh cumac  :<br/>
+</div>
+<div align="center">
 
-2. Dénomination :
-
-Mise en place ou remplacement d'une ventilation naturelle  hygroréglable dans un logement avec chauffage à combustible.
-
-3.  Conditions pour la délivrance de certificats :
-
-Mise  en place  réalisée par un professionnel qui s'assurera que l'étanchéité  du bâtiment  atteint un niveau de performance compatible avec les  performances de la  ventilation naturelle hygroréglable.
-
-Information à fournir  impérativement : ancienneté du bâtiment (avant ou après 1975).
-
-4.  Durée de vie conventionnelle : 16 ans.
-
-5. Montant de certificats  en kWh cumac :
-
-<div align="left">
-<br/>
 <table>
 <tbody>
 <tr>
-<th>APPARTEMENT<br/>Zone<br/>climatique<br/>
-</th>
-<th>APPAREIL<br/>de chauffage à circuit<br/>de combustion<br/>non étanche<br/>
-</th>
-<th>AUTRES CHAUFFAGES<br/>à combustible<br/>
-</th>
-<th>CHAUFFAGE<br/>électrique<br/>
-</th>
-<th>
-<br/>
-</th>
-<th>FACTEUR<br/>correctif<br/>(1)<br/>
-</th>
-<th>SURFACE<br/>habitable<br/>(en m²)<br/>
-</th>
-<th>NOMBRE<br/>de pièces<br/>principales<br/>
-</th>
+<td align="center">APPARTEMENT<br/>Zone<br/>climatique<br/>
+</td>
+<td align="center">APPAREIL<br/>de chauffage à circuit<br/>de  combustion<br/>non étanche<br/>
+</td>
+<td align="center">AUTRES CHAUFFAGES<br/>à combustible<br/>
+</td>
+<td align="center">CHAUFFAGE<br/>électrique<br/>
+</td>
+<td align="center" rowspan="7">
+<br/>X<br/>
+</td>
+<td align="center">FACTEUR<br/>correctif<br/>(1)<br/>
+</td>
+<td align="center">SURFACE<br/>habitable<br/>(en m²)<br/>
+</td>
+<td align="center">NOMBRE<br/>de pièces<br/>principales<br/>
+</td>
 </tr>
 <tr>
-<td align="center" rowspan="3">H1<br/>
+<td align="center" rowspan="2">H1<br/>
 </td>
-<td align="center" rowspan="3">3 600<br/>
+<td align="center" rowspan="2">3 600<br/>
 </td>
-<td align="center" rowspan="3">8 200<br/>
+<td align="center" rowspan="2">8 200<br/>
 </td>
-<td align="center" rowspan="3">3 900<br/>
-</td>
-<td align="center" rowspan="6">
-<br/>
-<b>X</b>
-<br/>
+<td align="center" rowspan="2">3 900<br/>
 </td>
 <td align="center">0,6<br/>
 </td>
@@ -3611,6 +3611,14 @@ Information à fournir  impérativement : ancienneté du bâtiment (avant ou apr
 </td>
 </tr>
 <tr>
+<td align="center" rowspan="2">H2<br/>
+</td>
+<td align="center" rowspan="2">3 000<br/>
+</td>
+<td align="center" rowspan="2">6 700<br/>
+</td>
+<td align="center" rowspan="2">3 200<br/>
+</td>
 <td align="center">1<br/>
 </td>
 <td align="center">61 ― 80<br/>
@@ -3619,14 +3627,6 @@ Information à fournir  impérativement : ancienneté du bâtiment (avant ou apr
 </td>
 </tr>
 <tr>
-<td align="center">H2<br/>
-</td>
-<td align="center">3 000<br/>
-</td>
-<td align="center">6 700<br/>
-</td>
-<td align="center">3 200<br/>
-</td>
 <td align="center">1,4<br/>
 </td>
 <td align="center">81 ― 100<br/>
@@ -3635,17 +3635,13 @@ Information à fournir  impérativement : ancienneté du bâtiment (avant ou apr
 </td>
 </tr>
 <tr>
-<td align="center" rowspan="2">
-<br/>H3<br/>
+<td align="center" rowspan="2">H3<br/>
 </td>
-<td align="center" rowspan="2">
-<br/>2 000<br/>
+<td align="center" rowspan="2">2 000<br/>
 </td>
-<td align="center" rowspan="2">
-<br/>4 500<br/>
+<td align="center" rowspan="2">4 500<br/>
 </td>
-<td align="center" rowspan="2">
-<br/>2 100<br/>
+<td align="center" rowspan="2">2 100<br/>
 </td>
 <td align="center">1,7<br/>
 </td>
@@ -3659,34 +3655,38 @@ Information à fournir  impérativement : ancienneté du bâtiment (avant ou apr
 </td>
 <td align="center">&gt; 131<br/>
 </td>
-<td align="center">≥ 6<br/>
+<td align="center">6 et +<br/>
 </td>
 </tr>
 </tbody>
 </table>
+
 </div>
-<div align="left">
-<br/>
+
+<div align="center">
+
 <table>
 <tbody>
 <tr>
-<th>MAISON<br/>individuelle<br/>Zone<br/>climatique<br/>
-</th>
-<th>APPAREIL<br/>de chauffage à circuit<br/>de combustion<br/>non étanche<br/>
-</th>
-<th>AUTRES CHAUFFAGES<br/>à combustible<br/>
-</th>
-<th>CHAUFFAGE<br/>électrique<br/>
-</th>
-<th>
-<br/>
-</th>
-<th>FACTEUR<br/>correctif<br/>(1)<br/>
-</th>
-<th>SURFACE<br/>habitable<br/>(en m²)<br/>
-</th>
-<th>NOMBRE<br/>de pièces<br/>principales<br/>
-</th>
+<td align="center">MAISON<br/>individuelle</td>
+<td align="center" rowspan="2">APPAREIL<br/>de chauffage à circuit<br/>de combustion<br/>non étanche<br/>
+</td>
+<td align="center" rowspan="2">AUTRES CHAUFFAGES<br/>à combustible<br/>
+</td>
+<td align="center" rowspan="2">CHAUFFAGE<br/>électrique<br/>
+</td>
+<td align="center" rowspan="8">
+<br/>X<br/>
+</td>
+<td align="center" rowspan="2">FACTEUR<br/>correctif<br/>(1)<br/>
+</td>
+<td align="center" rowspan="2">SURFACE<br/>habitable<br/>(en  m²)<br/>
+</td>
+<td align="center" rowspan="2">NOMBRE<br/>de pièces<br/>principales<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Zone<br/>climatique</td>
 </tr>
 <tr>
 <td align="center" rowspan="2">H1<br/>
@@ -3696,10 +3696,6 @@ Information à fournir  impérativement : ancienneté du bâtiment (avant ou apr
 <td align="center" rowspan="2">15 400<br/>
 </td>
 <td align="center" rowspan="2">8 500<br/>
-</td>
-<td align="center" rowspan="6">
-<b>X</b>
-<br/>
 </td>
 <td align="center">0,4<br/>
 </td>
@@ -3757,18 +3753,19 @@ Information à fournir  impérativement : ancienneté du bâtiment (avant ou apr
 </td>
 </tr>
 <tr>
-<td align="center">1.4<br/>
+<td align="center">1,4<br/>
 </td>
 <td align="center">&gt; 131<br/>
 </td>
-<td align="center">≥ 6<br/>
+<td align="center">6 et +<br/>
 </td>
 </tr>
 </tbody>
 </table>
+
 </div>
-<div align="left">
-<br/>(1) Le facteur correctif est déterminé à partir soit du nombre de  pièces principales, soit de la surface habitable.</div>
+
+<div align="left">(1) Le  facteur correctif est déterminé à partir soit du nombre de pièces principales,  soit de la surface habitable.</div>
 
 Certificats d'économies d'énergie
 
@@ -3823,8 +3820,8 @@ Information à fournir  impérativement : ancienneté du bâtiment (avant ou apr
 
 5. Montant de certificats  en kWh cumac :
 
-<div align="left">
-<br/>
+<div align="center">
+
 <table>
 <tbody>
 <tr>
@@ -3897,12 +3894,11 @@ Information à fournir  impérativement : ancienneté du bâtiment (avant ou apr
 </tr>
 </tbody>
 </table>
+
 </div>
-<div align="left">
-<br/>
-</div>
-<div align="left">
-<br/>
+
+<div align="center">
+
 <table>
 <tbody>
 <tr>
@@ -3975,6 +3971,7 @@ Information à fournir  impérativement : ancienneté du bâtiment (avant ou apr
 </tr>
 </tbody>
 </table>
+
 </div>
 
 (1) Le facteur correctif est déterminé à partir soit du nombre de  pièces principales, soit de la surface habitable.
@@ -4009,8 +4006,8 @@ Application de  cette  opération non cumulable avec l'application de l'opérati
 
 5. Montant de certificats en kWh cumac :
 
-<div align="left">
-<br/>
+<div align="center">
+
 <table>
 <tbody>
 <tr>
@@ -4144,6 +4141,7 @@ Application de  cette  opération non cumulable avec l'application de l'opérati
 </tr>
 </tbody>
 </table>
+
 </div>
 
 (1) Le  facteur correctif est déterminé à partir soit du nombre de pièces principales,  soit de la surface habitable.
@@ -4179,8 +4177,8 @@ Critères de performances : Cogénération à haut rendement avec  attestation d
 
 5. Montant de certificats en kWh cumac :
 
-<div align="left">
-<br/>
+<div align="center">
+
 <table>
 <tbody>
 <tr>
@@ -4299,8 +4297,121 @@ Critères de performances : Cogénération à haut rendement avec  attestation d
 </tr>
 </tbody>
 </table>
+
 </div>
 
 TCB = Production thermique nette  valorisée pour le chauffage/besoins thermiques de chauffage du bâtiment.
 
 (1) Le facteur correctif est déterminé à partir soit du nombre de  pièces principales, soit de la surface habitable.
+
+<div align="center">
+<p align="left">Certificats d'économies d'énergie</p>
+<p align="left">Opération n° BAR-TH-39</p>
+<p align="left">Pompe équipée d'un système<br/>de variation électronique de  vitesse<br/>
+</p>
+</div>
+
+1. Secteur d'application :
+
+Bâtiment résidentiel :  appartements existants.
+
+2. Dénomination :
+
+Installation  d'une pompe équipée d'un système de variation  électronique de vitesse,  de puissance comprise entre 0,37 kW et 630 kW, dans un  système  collectif de chauffage, de conditionnement d'ambiance ou de surpression   d'eau.
+
+Les circulateurs à rotor noyé avec variation de vitesse  embarquée sont exclus.
+
+3. Conditions pour la délivrance de  certificats :
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle :
+
+10 ans.
+
+5. Montant de certificats en kWh cumac :
+
+<div align="center">
+<table>
+<tbody>
+<tr>
+<td align="center">APPLICATION <br/>
+</td>
+<td align="center">MONTANT UNITAIRE<br/>en kWh cumac</td>
+<td align="center">X </td>
+<td align="center">PUISSANCE DU MOTEUR<br/>de la pompe en kW <br/>
+</td>
+</tr>
+<tr>
+<td align="center">Chauffage, conditionnement d'ambiance, surpression d'eau <br/>
+</td>
+<td align="center">21 000<br/>
+</td>
+<td align="center"/>
+<td align="center">P</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div align="center">
+<p align="left">Certificats d'économies d'énergie</p>
+<p align="left">Opération n° BAR-TH-40</p>
+<p align="left">Circulateur à rotor noyé de classe A</p>
+</div>
+
+1. Secteur d'application :
+
+Bâtiment résidentiel : appartements  existants.
+
+2. Dénomination :
+
+Installation  d'un  circulateur à rotor noyé de classe A dans un système collectif de  chauffage ou  de conditionnement d'ambiance.
+
+3. Conditions pour la délivrance de  certificats :
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle :
+
+10 ans.
+
+5. Montant de certificats en kWh cumac :
+
+<div align="center">
+
+<table>
+<tbody>
+<tr>
+<td align="center">ZONE CLIMATIQUE<br/>
+</td>
+<td align="center">MONTANT UNITAIRE<br/>en kWh cumac<br/>
+</td>
+<td align="center" rowspan="4">X<br/>
+</td>
+<td align="center">PUISSANCE DU MOTEUR EN kW<br/>
+</td>
+</tr>
+<tr>
+<td align="center">H1<br/>
+</td>
+<td align="center">27 000<br/>
+</td>
+<td align="center" rowspan="3">P<br/>
+</td>
+</tr>
+<tr>
+<td align="center">H2<br/>
+</td>
+<td align="center">25 000<br/>
+</td>
+</tr>
+<tr>
+<td align="center">H3<br/>
+</td>
+<td align="center">21 000<br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+</div>

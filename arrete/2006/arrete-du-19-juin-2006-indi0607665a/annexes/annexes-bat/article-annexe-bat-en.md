@@ -180,7 +180,128 @@ Informations  à fournir impérativement : type de logement (maison  individuell
 
 </div>
 
-<div align="left">Certificats d'économies d'énergie <p>Opération n° BAT-EN-02</p>
+<div align="center"/>
+<div align="center"/>
+<div align="center">
+<p align="left">Certificats d'économies d'énergie<br/>
+</p>
+<div align="left">
+<p>Opération n° BAT-EN-01-GT<br/>
+</p>
+<p>Isolation de combles ou de toitures<br/>dans bâtiment de grande  taille</p>
+</div>
+<p align="left">1. Secteur d'application :<br/>Bâtiment  tertiaire :  locaux du secteur tertiaire existants réservés à une  utilisation  professionnelle, de surface totale chauffée comprise entre 5  000 et 10 000  m².<br/>2. Dénomination :<br/>Mise en place d'une isolation  thermique de résistance thermique R≥ 5 m².K/W en comble ou en toiture.<br/>3. Conditions pour la délivrance de certificats :<br/>Les   isolants ont une certification ACERMI ou tout label d'un autre Etat  membre de  l'Union européenne ou d'un Etat partie à l'accord instituant  l'Espace économique  européen ou en Turquie.<br/>Mise en place réalisée par un  professionnel.<br/>4. Durée de vie conventionnelle :<br/>35  ans.<br/>5. Montant de certificats en kWh cumac :<br/>
+</p>
+<div align="center">
+
+<table>
+<tbody>
+<tr>
+<td align="center" colspan="6">MONTANT<br/>en kWh cumac/m² d'isolant<br/>
+</td>
+<td align="center" rowspan="7">X <br/>
+</td>
+<td align="center">SECTEUR<br/>d'activité<br/>
+</td>
+<td align="center">FACTEUR<br/>correctif<br/>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="3">2,5 m².K/W ≤ R &lt; 5 m².K/W<br/>(uniquement pour des actions engagées<br/>avant le 1er  janvier 2008)<br/>
+</td>
+<td align="center" colspan="3">R ≥ 5 m².K/W<br/>
+</td>
+<td align="center">Bureaux </td>
+<td align="center">0,5<br/>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">Zone<br/>climatique<br/>
+</td>
+<td align="center" colspan="2">Energie de chauffage<br/>
+</td>
+<td align="center" rowspan="2">Zone<br/>climatique<br/>
+</td>
+<td align="center" colspan="2">Energie de chauffage <br/>
+</td>
+<td align="center" rowspan="2">Enseignement </td>
+<td align="center" rowspan="2">0,4</td>
+</tr>
+<tr>
+<td align="center">Electricité<br/>
+</td>
+<td align="center">Combustible<br/>
+</td>
+<td align="center">Electricité </td>
+<td align="center">Combustible <br/>
+</td>
+</tr>
+<tr>
+<td align="center">H1<br/>
+</td>
+<td align="center">1 100<br/>
+</td>
+<td align="center">1 700<br/>
+</td>
+<td align="center">H1<br/>
+</td>
+<td align="center">2 400<br/>
+</td>
+<td align="center">3 800<br/>
+</td>
+<td align="center">Commerces<br/>
+</td>
+<td align="center">0,5<br/>
+</td>
+</tr>
+<tr>
+<td align="center">H2<br/>
+</td>
+<td align="center">900<br/>
+</td>
+<td align="center">1 400<br/>
+</td>
+<td align="center">H2<br/>
+</td>
+<td align="center">2 000<br/>
+</td>
+<td align="center">3 100<br/>
+</td>
+<td align="center">Hôtellerie-<br/>restauration<br/>
+</td>
+<td align="center">0,4<br/>
+</td>
+</tr>
+<tr>
+<td align="center">H3<br/>
+</td>
+<td align="center">600<br/>
+</td>
+<td align="center">900<br/>
+</td>
+<td align="center">H3<br/>
+</td>
+<td align="center">1 300<br/>
+</td>
+<td align="center">2 100<br/>
+</td>
+<td align="center">Santé<br/>
+</td>
+<td align="center">0,9<br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+<br/>
+</div>
+<div align="center"/>
+<div align="center"/>
+<div align="center"/>
+<div align="left">Certificats d'économies d'énergie </div>
+<div align="left">
+<p>Opération n° BAT-EN-02</p>
 <p>Isolation des murs par l'intérieur<br/>
 </p>
 </div>
@@ -360,7 +481,130 @@ Mise en place réalisée par un professionnel.
 
 </div>
 
-<div align="left">Certificats d'économies d'énergie <p>Opération n° BAT-EN-03</p>
+<div align="center"/>
+<div align="center"/>
+<div align="center">
+<div align="center">
+<p align="left">Certificats d'économies d'énergie</p>
+<p align="left">Opération n°BAT-EN-02-GT</p>
+<p align="left">Isolation des murs par l'intérieur<br/>dans bâtiment de grande  taille<br/>
+</p>
+</div>
+<p align="left">1. Secteur d'application :<br/>Bâtiment  tertiaire :  locaux du secteur tertiaire existants réservés à une  utilisation  professionnelle, de surface totale chauffée comprise entre 5  000 et 10 000  m².<br/>2. Dénomination :<br/>Mise en place d'un doublage  isolant (complexe ou sur ossature) de résistance thermique R ≥ 2,4 m².K/W sur  murs existants.<br/>3. Conditions pour la délivrance de certificats  :<br/>Les  isolants ont une certification ACERMI ou des  caractéristiques de  performance et de qualité équivalentes établies par un mode  de preuve  légal dans un Etat membre de l'Union européenne ou un Etat partie à   l'accord instituant l'Espace économique européen ou en Turquie.<br/>Mise en place réalisée par un professionnel.<br/>4. Durée  de vie conventionnelle :<br/>35 ans.<br/>5. Montant de  certificats en kWh cumac :<br/>
+</p>
+<div align="center">
+
+<table>
+<tbody>
+<tr>
+<td align="center" colspan="6">MONTANT<br/>en kWh cumac/m² d'isolant<br/>
+</td>
+<td align="center" rowspan="7">X<br/>
+</td>
+<td align="center">SECTEUR<br/>d'activité<br/>
+</td>
+<td align="center">FACTEUR<br/>correctif<br/>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="3">1,2 m².K/W ≤ R &lt; 2,4 m².K/W<br/>(uniquement pour des actions engagées<br/>avant le 1er  janvier 2008)<br/>
+</td>
+<td align="center" colspan="3">R ≥ 2,4 m².K/W<br/>
+</td>
+<td align="center">Bureaux<br/>
+</td>
+<td align="center">0,5<br/>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">Zone<br/>climatique<br/>
+</td>
+<td align="center" colspan="2">Energie de chauffage<br/>
+</td>
+<td align="center" rowspan="2">Zone<br/>climatique<br/>
+</td>
+<td align="center" colspan="2">Energie de chauffage <br/>
+</td>
+<td align="center" rowspan="2">Enseignement<br/>
+</td>
+<td align="center" rowspan="2">0,4<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Electricité<br/>
+</td>
+<td align="center">Combustible<br/>
+</td>
+<td align="center">Electricité </td>
+<td align="center">Combustible <br/>
+</td>
+</tr>
+<tr>
+<td align="center">H1<br/>
+</td>
+<td align="center">1 700<br/>
+</td>
+<td align="center">2 700<br/>
+</td>
+<td align="center">H1<br/>
+</td>
+<td align="center">3 900<br/>
+</td>
+<td align="center">6 100<br/>
+</td>
+<td align="center">Commerces<br/>
+</td>
+<td align="center">0,5<br/>
+</td>
+</tr>
+<tr>
+<td align="center">H2<br/>
+</td>
+<td align="center">1 400<br/>
+</td>
+<td align="center">2 200<br/>
+</td>
+<td align="center">H2<br/>
+</td>
+<td align="center">3 200<br/>
+</td>
+<td align="center">5 000<br/>
+</td>
+<td align="center">Hôtellerie-<br/>restauration<br/>
+</td>
+<td align="center">0,4<br/>
+</td>
+</tr>
+<tr>
+<td align="center">H3<br/>
+</td>
+<td align="center">900<br/>
+</td>
+<td align="center">1 500<br/>
+</td>
+<td align="center">H3<br/>
+</td>
+<td align="center">2 100<br/>
+</td>
+<td align="center">3 300<br/>
+</td>
+<td align="center">Santé<br/>
+</td>
+<td align="center">0,9<br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+<br/>
+</div>
+<div align="center"/>
+<div align="center"/>
+<div align="center"/>
+<div align="left">Certificats d'économies d'énergie </div>
+<div align="left">
+<p>Opération n° BAT-EN-03</p>
 <p>Isolation d'un plancher<br/>
 </p>
 </div>
@@ -540,7 +784,129 @@ Mise en place  réalisée par un professionnel.
 
 </div>
 
-<div align="left">Certificats d'économies d'énergie <p>Opération n° BAT-EN-04</p>
+<div align="center"/>
+<div align="center"/>
+<div align="center"/>
+<div align="center">
+<div align="center">
+<p align="left">Certificats d'économies d'énergie</p>
+<p align="left">Opération n° BAT-EN-03-GT</p>
+<p align="left">Isolation d'un plancher<br/>dans bâtiment de grande taille<br/>
+</p>
+</div>
+<p align="left">1. Secteur d'application :<br/>Bâtiment  tertiaire :  locaux du secteur tertiaire existants réservés à une  utilisation  professionnelle, de surface totale chauffée comprise entre 5  000 et 10 000  m².<br/>2. Dénomination :<br/>Mise en place d'un doublage  isolant (complexe ou sur ossature) de résistance thermique R ≥ 2,4 m².K/W  sur/sous plancher.<br/>3. Conditions pour la délivrance de certificats  :<br/>Les  isolants ont une certification ACERMI ou des  caractéristiques de  performance et de qualité équivalentes établies par un mode  de preuve  légal dans un Etat membre de l'Union européenne ou un Etat partie à   l'accord instituant l'Espace économique européen ou en Turquie.<br/>Mise en place réalisée par un professionnel.<br/>4. Durée  de vie conventionnelle :<br/>35 ans.<br/>5. Montant de  certificats en kWh cumac :<br/>
+</p>
+<div align="center">
+
+<table>
+<tbody>
+<tr>
+<td align="center" colspan="6">MONTANT<br/>en kWh cumac/m² d'isolant<br/>
+</td>
+<td rowspan="7">X<br/>
+</td>
+<td align="center">SECTEUR<br/>d'activité<br/>
+</td>
+<td align="center">FACTEUR<br/>correctif<br/>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="3">1,2 m².K/W ≤ R &lt; 2,4 m².K/W<br/>(uniquement pour des actions engagées<br/>avant le 1er  janvier 2008)<br/>
+</td>
+<td align="center" colspan="3">R ≥ 2,4 m².K/W<br/>
+</td>
+<td align="center" rowspan="2">Bureaux<br/>
+</td>
+<td align="center" rowspan="2">0,5<br/>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">Zone<br/>climatique<br/>
+</td>
+<td align="center" colspan="2">Energie de chauffage<br/>
+</td>
+<td rowspan="2">Zone<br/>climatique<br/>
+</td>
+<td colspan="2">Energie de chauffage</td>
+</tr>
+<tr>
+<td align="center">Electricité<br/>
+</td>
+<td align="center">Combustible<br/>
+</td>
+<td align="center">Electricité<br/>
+</td>
+<td align="center">Combustible<br/>
+</td>
+<td align="center">Enseignement<br/>
+</td>
+<td align="center">0,4<br/>
+</td>
+</tr>
+<tr>
+<td align="center">H1<br/>
+</td>
+<td align="center">2 200<br/>
+</td>
+<td align="center">3 400<br/>
+</td>
+<td align="center">H1<br/>
+</td>
+<td align="center">4 800<br/>
+</td>
+<td align="center">7 600<br/>
+</td>
+<td align="center">Commerces<br/>
+</td>
+<td align="center">0,5<br/>
+</td>
+</tr>
+<tr>
+<td align="center">H2<br/>
+</td>
+<td align="center">1 800<br/>
+</td>
+<td align="center">2 800<br/>
+</td>
+<td align="center">H2<br/>
+</td>
+<td align="center">3 900<br/>
+</td>
+<td align="center">6 200<br/>
+</td>
+<td align="center">Hôtellerie-<br/>restauration<br/>
+</td>
+<td align="center">0,4<br/>
+</td>
+</tr>
+<tr>
+<td align="center">H3<br/>
+</td>
+<td align="center">1 200<br/>
+</td>
+<td align="center">2 000<br/>
+</td>
+<td align="center">H3<br/>
+</td>
+<td align="center">2 700<br/>
+</td>
+<td align="center">4 300<br/>
+</td>
+<td align="center">Santé<br/>
+</td>
+<td align="center">0,9<br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+</div>
+<div align="center"/>
+<div align="center"/>
+<div align="left">Certificats d'économies d'énergie </div>
+<div align="left">
+<p>Opération n° BAT-EN-04</p>
 <p>Fenêtre ou porte-fenêtre complète avec vitrage  isolant<br/>
 </p>
 </div>
@@ -705,7 +1071,120 @@ Mise en  place réalisée par un professionnel dans le  respect des DTU et des  
 
 </div>
 
-<div align="left">Certificats d'économies d'énergie <p>Opération n° BAT-EN-05</p>
+<div align="center"/>
+<div align="center"/>
+<div align="center">
+<div align="center">
+<p align="left">Certificats d'économies d'énergie</p>
+<p align="left">Opération n° BAT-EN-04-GT</p>
+<p align="left">Fenêtre ou porte-fenêtre complète avec vitrage isolant<br/>dans  bâtiment de grande taille<br/>
+</p>
+</div>
+<p align="left">1. Secteur d'application :<br/>Bâtiment  tertiaire :  locaux du secteur tertiaire existants réservés à une  utilisation  professionnelle, de surface totale chauffée comprise entre 5  000 et 10 000  m².<br/>2. Dénomination :<br/>Mise  en place d'une fenêtre ou  porte-fenêtre complète avec vitrage isolant  correspondant à un coefficient de  transmission surfacique Uw ≤ 2 W/m²K.<br/>3. Conditions pour la  délivrance de certificats :<br/>La  fenêtre ou porte-fenêtre a la  certification NF CSTBat, le label  ACOTHERM et comporte des doubles vitrages à  isolation renforcée  certifiés par CEKAL ou toutes caractéristiques de  performance et de  qualité équivalentes établies par un mode de preuve légal dans  un Etat  membre de l'Union européenne ou un Etat partie à l'accord instituant   l'Espace économique européen ou en Turquie.<br/>Mise en place réalisée  par un professionnel.<br/>4. Durée de vie conventionnelle :<br/>35 ans.<br/>5. Montant de certificats en kWh cumac :<br/>
+</p>
+<div align="center">
+
+<table>
+<tbody>
+<tr>
+<td align="center" colspan="5">MONTANT UNITAIRE<br/>en kWh cumac/m²<br/>
+</td>
+<td rowspan="7">X<br/>
+</td>
+<td align="center">SECTEUR<br/>d'activité<br/>
+</td>
+<td align="center">FACTEUR<br/>correctif<br/>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="3">
+<p>Zone<br/>climatique</p>
+</td>
+<td align="center" colspan="2">2 W/m²K &lt; Uw ≤ 2,5 W/m²K<br/>(uniquement  pour des actions<br/>engagées avant le 1er janvier 2008)</td>
+<td align="center" colspan="2">Uw ≤ 2 W/m²K<br/>
+</td>
+<td align="center">Bureaux<br/>
+</td>
+<td align="center">0,5<br/>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">Energie de chauffage<br/>
+</td>
+<td align="center" colspan="2">Energie de chauffage</td>
+<td align="center" rowspan="2">Enseignement<br/>
+</td>
+<td align="center" rowspan="2">0,4<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Electricité<br/>
+</td>
+<td align="center">Combustible<br/>
+</td>
+<td align="center">Electricité<br/>
+</td>
+<td align="center">Combustible<br/>
+</td>
+</tr>
+<tr>
+<td align="center">H1<br/>
+</td>
+<td align="center">1 700<br/>
+</td>
+<td align="center">2 600<br/>
+</td>
+<td align="center">4 000<br/>
+</td>
+<td align="center">6 300<br/>
+</td>
+<td align="center">Commerces<br/>
+</td>
+<td align="center">0,5<br/>
+</td>
+</tr>
+<tr>
+<td align="center">H2<br/>
+</td>
+<td align="center">1 400<br/>
+</td>
+<td align="center">2 100<br/>
+</td>
+<td align="center">3 300<br/>
+</td>
+<td align="center">5 100<br/>
+</td>
+<td align="center">Hôtellerie-<br/>restauration<br/>
+</td>
+<td align="center">0,4<br/>
+</td>
+</tr>
+<tr>
+<td align="center">H3<br/>
+</td>
+<td align="center">900<br/>
+</td>
+<td align="center">1 400<br/>
+</td>
+<td align="center">2 200<br/>
+</td>
+<td align="center">3 400<br/>
+</td>
+<td align="center">Santé<br/>
+</td>
+<td align="center">0,9<br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+</div>
+<div align="center"/>
+<div align="center"/>
+<div align="left">Certificats d'économies d'énergie </div>
+<div align="left">
+<p>Opération n° BAT-EN-05</p>
 <p>Isolation des murs par l'extérieur<br/>
 </p>
 </div>
@@ -884,39 +1363,184 @@ Mise en place  réalisée par un professionnel.
 
 </div>
 
+<div align="center">
+<p align="left">Certificats d'économies d'énergie</p>
+<p align="left">Opération n° BAT-EN-05-GT</p>
+<p align="left">Isolation des murs par l'extérieur<br/>dans bâtiment de grande  taille<br/>
+</p>
+</div>
+
+1. Secteur d'application :
+
+Bâtiment  tertiaire :  locaux du secteur tertiaire existants réservés à une  utilisation  professionnelle, de surface totale chauffée comprise entre 5  000 et 10 000  m².
+
+2. Dénomination :
+
+Mise  en place d'un doublage  extérieur isolant (complexe ou sur ossature) de  résistance thermique R ≥ 2,4  m².K/W sur murs existants.
+
+3. Conditions pour la délivrance de  certificats :
+
+Les  isolants ont une certification ACERMI ou des  caractéristiques de  performance et de qualité équivalentes établies par un mode  de preuve  légal dans un Etat membre de l'Union européenne ou un Etat partie à   l'accord instituant l'Espace économique européen ou en Turquie.
+
+Mise en place réalisée par un professionnel.
+
+4. Durée  de vie conventionnelle :
+
+35 ans.
+
+5. Montant de  certificats en kWh cumac :
+
+<div align="center">
+
+<table>
+<tbody>
+<tr>
+<td align="center" colspan="5">MONTANT UNITAIRE<br/>en kWh cumac/m²  d'isolant<br/>
+</td>
+<td align="center" rowspan="7">X<br/>
+</td>
+<td align="center">SECTEUR<br/>d'activité<br/>
+</td>
+<td align="center">FACTEUR<br/>correctif<br/>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="3">
+<p>Zone<br/>climatique</p>
+</td>
+<td align="center" colspan="2">1,2 m².K/W ≤ R &lt; 2,4 m².K/W<br/>(uniquement pour des actions<br/>engagées avant le 1er  janvier 2008)</td>
+<td align="center" colspan="2">R ≥ 2,4 m².K/W<br/>
+</td>
+<td align="center">Bureaux<br/>
+</td>
+<td align="center">0,5<br/>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">Energie de chauffage<br/>
+</td>
+<td align="center" colspan="2">Energie de chauffage</td>
+<td align="center" rowspan="2">Enseignement<br/>
+</td>
+<td align="center" rowspan="2">0,4<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Electricité<br/>
+</td>
+<td align="center">Combustible<br/>
+</td>
+<td align="center">Electricité<br/>
+</td>
+<td align="center">Combustible<br/>
+</td>
+</tr>
+<tr>
+<td align="center">H1<br/>
+</td>
+<td align="center">1 700<br/>
+</td>
+<td align="center">2 700<br/>
+</td>
+<td align="center">3 900<br/>
+</td>
+<td align="center">6 100<br/>
+</td>
+<td align="center">Commerces<br/>
+</td>
+<td align="center">0,5<br/>
+</td>
+</tr>
+<tr>
+<td align="center">H2<br/>
+</td>
+<td align="center">1 400<br/>
+</td>
+<td align="center">2 200<br/>
+</td>
+<td align="center">3 200<br/>
+</td>
+<td align="center">5 000<br/>
+</td>
+<td align="center">Hôtellerie-<br/>restauration<br/>
+</td>
+<td align="center">0,4<br/>
+</td>
+</tr>
+<tr>
+<td align="center">H3<br/>
+</td>
+<td align="center">900<br/>
+</td>
+<td align="center">1 500<br/>
+</td>
+<td align="center">2 100<br/>
+</td>
+<td align="center">3 300<br/>
+</td>
+<td align="center">Santé<br/>
+</td>
+<td align="center">0,9<br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
 Certificats d'économies d'énergie
 
 Opération n° BAT-EN-06
 
-Isolation de combles ou de toitures DOM en tertiaire
+Isolation de combles ou de toitures (DOM)
 
-1. Secteur d'application :
+<div align="left">1. Secteur d'application :<br/>Bâtiment  tertiaire :  locaux du secteur tertiaire existants ou neufs en  l'absence de réglementation  thermique réservés à une utilisation  professionnelle, de surface totale chauffée  inférieure ou égale à 10  000 m², dans les départements d'outre-mer.<br/>2. Dénomination :<br/>Mise en place d'une isolation  thermique de résistance thermique R ≥ 1.2 m².K/W en comble ou en toiture.<br/>3. Conditions pour la délivrance de certificats :<br/>Les   isolants ont une certification ACERMI ou des caractéristiques de  performance et  de qualité équivalentes établies par un mode de preuve  légal dans un Etat membre  de l'Union européenne ou un Etat partie à  l'accord instituant l'Espace  économique européen ou en Turquie.<br/>Mise en place réalisée par un  professionnel.<br/>4. Durée de vie conventionnelle :<br/>25  ans.<br/>5. Montant de certificats en kWh cumac :<br/>
+</div>
+<div align="center">
 
-Bâtiment  tertiaire : locaux du secteur tertiaire existants réservés à une  utilisation professionnelle, de surface totale inférieure à 5 000 m²,  dans les départements d'outre-mer.
+<table>
+<tbody>
+<tr>
+<td align="center">SECTEUR D'ACTIVITÉ<br/>
+</td>
+<td align="center" colspan="7">KWh cumac/m²<br/>d'isolant posé<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Bureaux et enseignement<br/>
+</td>
+<td align="center">1 500<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Commerce<br/>
+</td>
+<td align="center">1 900<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Tertiaire d'hébergement<br/>
+</td>
+<td align="center">3 000<br/>
+</td>
+</tr>
+</tbody>
+</table>
 
-2. Dénomination :
+</div>
 
-Mise en place d'une isolation thermique de résistance thermique R 1,2 m² K/W en comble ou en toiture.
+En  application de l'article 3 du décret n° 2006-603 du 23 mai 2006   relatif aux certificats d'économies d'énergie, il est attribué le  double du  montant des kWh cumac obtenu par le calcul ci-dessus pour  cette action menée  dans les DOM.
 
-3. Conditions pour la délivrance de certificats :
-
-Les  isolants ont une certification ACERMI ou des caractéristiques de  performance et de qualité équivalentes établies par un mode de preuve  légal dans un Etat membre de l'Union européenne ou un Etat partie à  l'accord instituant l'Espace économique européen ou en Turquie.
-
-Mise en place réalisée par un professionnel.
-
-4. Durée de vie conventionnelle :
-
-25 ans pour l'isolation.
-
-5. Montant de certificats en kWh cumac :
-
-Vous pouvez consulter le tableau dans le JO
-
-n° 303 du 31/12/2006 texte numéro 60
-
-En  application de l'article 3 du décret n° 2006-603 du 23 mai 2006 relatif  aux certificats d'économies d'énergie, il est attribué le double du  montant des kWh cumac obtenu par le calcul ci-dessus pour cette action  menée dans les DOM.
-
-<div align="left">Certificats d'économies d'énergie <p>Opération n° BAT-EN-07</p>
+<div align="center"/>
+<div align="center">
+<br/>
+</div>
+<div align="center"/>
+<div align="center"/>
+<div align="center"/>
+<div align="left">Certificats d'économies d'énergie </div>
+<div align="left">
+<p>Opération n° BAT-EN-07</p>
 <p>Isolation des toitures terrasses et couvertures de pente  <font size="1">&lt;</font> 5 %<br/>
 </p>
 </div>
@@ -1073,3 +1697,185 @@ Mise en  place réalisée par un professionnel.
 </table>
 
 </div>
+
+<div align="center">
+<p align="left">Certificats d'économies d'énergie</p>
+<p align="left">Opération n° BAT-EN-07-GT</p>
+<p align="left">Isolation des toitures terrasses et couvertures<br/>de pente &lt; 5  % dans bâtiment de grande taille<br/>
+</p>
+</div>
+
+1. Secteur d'application :
+
+Bâtiment  tertiaire :  locaux du secteur tertiaire existants réservés à une  utilisation  professionnelle, de surface totale chauffée comprise entre 5  000 et 10 000  m².
+
+2. Dénomination :
+
+Mise  en place d'une isolation  de résistance thermique R ≥ 2,6 m².K/W en  toiture terrasse ou couverture de  pente inférieure à 5 %.
+
+3. Conditions pour la délivrance de  certificats :
+
+Les  isolants ont une certification ACERMI ou des  caractéristiques de  performance et de qualité équivalentes établies par un mode  de preuve  légal dans un Etat membre de l'Union européenne ou un Etat partie à   l'accord instituant l'Espace économique européen ou en Turquie.
+
+Mise en place réalisée par un professionnel.
+
+4. Durée  de vie conventionnelle :
+
+35 ans.
+
+5. Montant de  certificats en kWh cumac :
+
+<div align="center">
+
+<table>
+<tbody>
+<tr>
+<td align="center" colspan="5">MONTANT UNITAIRE<br/>en kWh cumac/m²  d'isolant<br/>
+</td>
+<td align="center" rowspan="9">
+<br/>X<br/>
+</td>
+<td align="center" rowspan="3">SECTEUR<br/>d'activité<br/>
+</td>
+<td align="center" rowspan="3">FACTEUR<br/>correctif<br/>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">Energie<br/>de chauffage</td>
+<td align="center" rowspan="2">Zone<br/>climatique</td>
+<td align="center" colspan="3">Caractéristique paroi finale<br/>
+</td>
+</tr>
+<tr>
+<td align="center">2 m².K/W ≤ R ≤ 2,6 m².K/W<br/>(uniquement pour des  actions engagées avant<br/>le 1er janvier 2008)<br/>
+</td>
+<td align="center">2,6 m².K/W ≤ R &lt; 3,5 m².K/W<br/>
+</td>
+<td align="center">R ≥ 3,5 m².K/W<br/>
+</td>
+</tr>
+<tr>
+<td rowspan="3">Electricité</td>
+<td align="center">H1<br/>
+</td>
+<td align="center">1 100<br/>
+</td>
+<td align="center">1 100<br/>
+</td>
+<td align="center">2 300<br/>
+</td>
+<td align="center">Bureaux<br/>
+</td>
+<td align="center">0,5<br/>
+</td>
+</tr>
+<tr>
+<td align="center">H2<br/>
+</td>
+<td align="center">880<br/>
+</td>
+<td align="center">910<br/>
+</td>
+<td align="center">1 900<br/>
+</td>
+<td align="center" rowspan="2">Enseignement<br/>
+</td>
+<td align="center" rowspan="2">0,4<br/>
+</td>
+</tr>
+<tr>
+<td align="center">H3<br/>
+</td>
+<td align="center">590<br/>
+</td>
+<td align="center">600<br/>
+</td>
+<td align="center">1 200<br/>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="3">Combustible<br/>
+</td>
+<td align="center">H1<br/>
+</td>
+<td align="center">1 700<br/>
+</td>
+<td align="center">1 760<br/>
+</td>
+<td align="center">3 600<br/>
+</td>
+<td align="center">Commerces<br/>
+</td>
+<td align="center">0,5<br/>
+</td>
+</tr>
+<tr>
+<td align="center">H2<br/>
+</td>
+<td align="center">1 400<br/>
+</td>
+<td align="center">1 440<br/>
+</td>
+<td align="center">3 000<br/>
+</td>
+<td align="center">Hôtellerie-<br/>restauration<br/>
+</td>
+<td align="center">0,4<br/>
+</td>
+</tr>
+<tr>
+<td align="center">H3<br/>
+</td>
+<td align="center">930<br/>
+</td>
+<td align="center">960<br/>
+</td>
+<td align="center">2 000<br/>
+</td>
+<td align="center">Santé<br/>
+</td>
+<td align="center">0,9<br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+Certificats d'économies d'énergie
+
+Opération n° BAT-EN-08
+
+Isolation des murs (DOM)
+
+<div align="left">1. Secteur d'application :<br/>Bâtiment  tertiaire :  locaux du secteur tertiaire existants ou neufs en  l'absence de réglementation  thermique, réservés à une utilisation  professionnelle, de surface totale  chauffée inférieure ou égale à 10  000 m², dans les départements d'outre-mer.<br/>2. Dénomination :<br/>Mise en place sur les murs d'une  isolation thermique de résistance thermique R ≥ 1,2 m².K/W.<br/>3.  Conditions pour la délivrance de certificats :<br/>Les  isolants ont  une certification ACERMI ou des caractéristiques de  performance et de qualités  équivalentes établies par un mode de preuve  légal dans un Etat membre de l'Union  européenne ou un Etat partie à  l'accord instituant l'Espace économique européen  ou en Turquie.<br/>Mise en place réalisée par un professionnel.<br/>4. Durée de vie conventionnelle :<br/>25 ans.<br/>5. Montant de certificats en kWh cumac :<br/>
+</div>
+<div align="center">
+
+<table>
+<tbody>
+<tr>
+<td align="center">BRANCHE D'ACTIVITÉ<br/>
+</td>
+<td align="center" colspan="7">MONTANT UNITAIRE<br/>en kWh cumac/m²  d'isolant<br/>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="3">Bureaux<br/>Enseignement<br/>Commerces<br/>
+</td>
+<td align="center" rowspan="3">
+<br/>960<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Hôtellerie-restauration<br/>
+</td>
+<td align="center">1 580<br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+En  application de l'article 3 du décret n° 2006-603 du 23 mai 2006   relatif aux certificats d'économies d'énergie, il est attribué le  double du  montant des kWh cumac obtenu par le calcul ci-dessus pour  cette action menée  dans les DOM.

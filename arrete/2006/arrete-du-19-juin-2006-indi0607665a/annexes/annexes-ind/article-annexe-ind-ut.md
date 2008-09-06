@@ -115,57 +115,37 @@ Vous pouvez consulter le tableau dans le JO
 n° 303 du 31/12/2006 texte numéro 60
 
 <div align="center">
-<p align="left">Certificats d'économie d'énergie<br/>
-</p>
-<p align="left">Opération n° IND-UT-05</p>
-<p align="left">Brûleur haut rendement micromodulant<br/>sur  chaudière de production de vapeur et d'eau surchauffée<br/>
-</p>
+<p align="left">Certificats d'économies d'énergie</p>
+<div align="left">Opération n° IND-UT-05</div>
+<div align="left">
+<br/>Brûleur haut rendement micromodulant sur  chaudière<br/>de production de vapeur ou d'eau surchauffée</div>
+<div align="left">1. Secteur d'application :<br/>Industrie.<br/>2. Dénomination :<br/>Installation  d'un brûleur haut  rendement, micromodulant, avec une plage de  modulation minimale de un à huit par  came électronique, avec un faible  taux d'oxygène dans les fumées sur une  chaudière produisant de la  vapeur ou de l'eau surchauffée (hors chaudière de  secours).<br/>3. Conditions pour la délivrance de certificats :<br/>La puissance nominale de la chaudière doit être comprise entre 2 et  20 MW.<br/>L'installation doit comporter une régulation par mesure  d'oxygène dans les fumées.<br/>4. Durée de vie conventionnelle :<br/>15 ans.<br/>5. Montant de certificats en kWh cumac :<br/>
 </div>
-
-1. Secteur d'application :
-
-Industrie.
-
-2.  Dénomination :
-
-Installation  d'un brûleur haut rendement,  micromodulant, avec une plage de  modulation minimale de un à huit par came  électronique, avec un faible  taux d'oxygène dans les fumées sur une chaudière  produisant de la  vapeur ou de l'eau surchauffée (hors chaudière de secours).
-
-3. Conditions pour la délivrance de certificats :
-
-La  puissance nominale de la chaudière doit être comprise entre 2 et 20 MW.
-
-4. Durée de vie conventionnelle :
-
-15 ans.
-
-5. Montant de certificats en kWh cumac :
-
 <div align="center">
 
 <table>
 <tbody>
 <tr>
-<th>
-<br/>
-</th>
-<th colspan="5">MODE DE FONCTIONNEMENT DU SITE<br/>
-</th>
+<td align="center" rowspan="2"/>
+<td align="center">MODE DE FONCTIONNEMENT DU SITE<br/>
+</td>
+<td/>
+<td/>
+<td/>
+<td rowspan="3">X<br/>
+</td>
+<td rowspan="3">Pn<br/>
+</td>
 </tr>
 <tr>
-<th>
-<br/>
-</th>
-<th>1 × 8<br/>
-</th>
-<th>2 × 8, 6 j/7<br/>
-</th>
-<th>3 × 8, arrêt WE<br/>
-</th>
-<th>3 × 8, sans arrêt WE<br/>
-</th>
-<th>
-<br/>
-</th>
+<td align="center">1 × 8<br/>
+</td>
+<td align="center">2 × 8, 6 j/7<br/>
+</td>
+<td align="center">3 × 8 arrêt week-end<br/>
+</td>
+<td align="center">3 × 8 sans arrêt week-end<br/>
+</td>
 </tr>
 <tr>
 <td align="center">Montant kWh cumac<br/>
@@ -178,14 +158,19 @@ La  puissance nominale de la chaudière doit être comprise entre 2 et 20 MW.
 </td>
 <td align="center">930<br/>
 </td>
-<td align="center">X Pn  </td>
 </tr>
 </tbody>
 </table>
 
 </div>
-
-Avec Pn =  puissance nominale de la chaudière, exprimée en kW. <div align="left">Certificats d'économies d'énergie <p>Opération n° IND-UT-06</p>
+<br/>
+<div align="left">Avec Pn = Puissance nominale de la chaudière, exprimée en  kW.</div>
+<div align="left"/>
+<div align="left">
+<br/>
+</div>
+</div>
+<div align="left">Certificats d'économies d'énergie <p>Opération n° IND-UT-06</p>
 <p>Contrôle et réglage du moteur d'un tracteur<br/>
 </p>
 </div>
@@ -212,44 +197,50 @@ Réalisation par un opérateur  participant au réseau national coordonné par l
 
 9 700 kWh cumac.
 
-<div align="left">Certificats d'économies d'énergie <p>Opération n° IND-UT-07</p>
-<p>Ordinateur climatique avec module<br/>d'intégration de température<br/>
-</p>
+Certificats d'économies d'énergie
+
+Opération n°IND-UT-07
+
+Ordinateur climatique avec module
+
+d'intégration de température
+
+<div align="left">
+<div align="left">1. Secteur d'application :<br/>
+</div>Agriculture : serres  maraîchères et horticoles.<br/>2. Dénomination :<br/>Mise  en  place d'un ordinateur climatique accompagné d'un module  d'intégration de  température pour la gestion des cultures des serres  maraîchères et  horticoles.<br/>3. Conditions pour la délivrance de certificats :<br/>Installation réalisée par un professionnel.<br/>4. Durée de  vie conventionnelle :<br/>5 ans.<br/>5. Montant de  certificats en kWh cumac :<br/>
 </div>
-
-1. Secteur d'application :
-
-Agriculture : serres maraîchères.
-
-2. Dénomination :
-
-Mise  en place d'un ordinateur  climatique accompagné d'un module  d'intégration de température pour la gestion  des cultures des serres.
-
-3. Conditions pour la délivrance de  certificats :
-
-Mise en place réalisée par un professionnel.
-
-4. Durée de vie conventionnelle :
-
-5 ans.
-
-5. Montant de certificats en kWh cumac :
-
 <div align="center">
 
 <table>
 <tbody>
 <tr>
-<td align="center">Montant de kWh cumac par m² de serre chauffé.<br/>
+<td align="center">ACTIVITÉ<br/>
+</td>
+<td align="center" colspan="6">MONTANT EN kWh cumac/m²<br/>de serre  chauffée<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Serres maraîchères<br/>
 </td>
 <td align="center">140<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Serres horticoles<br/>
+</td>
+<td align="center">71<br/>
 </td>
 </tr>
 </tbody>
 </table>
 
 </div>
-<div align="left">Certificats d'économies d'énergie <p>Opération n° IND-UT-08</p>
+
+<div align="center"/>
+<div align="center"/>
+<div align="left">Certificats d'économies d'énergie </div>
+<div align="left">
+<p>Opération n° IND-UT-08</p>
 <p>Ballon de stockage d'eau chaude de type "Open Buffer"<br/>
 </p>
 </div>
@@ -288,7 +279,13 @@ Mise en place réalisée par un professionnel.
 </table>
 
 </div>
-<div align="left">Certificats d'économies d'énergie <p>Opération n° IND-UT-09</p>
+<div align="center">
+<br/>
+</div>
+<div align="center"/>
+<div align="left">Certificats d'économies d'énergie </div>
+<div align="left">
+<p>Opération n° IND-UT-09</p>
 <p>Récupérateur de chaleur sur un compresseur d'air  comprimé<br/>pour le chauffage de locaux<br/>
 </p>
 </div>
@@ -310,8 +307,6 @@ Sans  objet.
 10 ans.
 
 5. Montant de certificats en kWh cumac :
-
-<div align="center">
 
 <table>
 <tbody>
@@ -367,7 +362,9 @@ Sans  objet.
 <br/>P<br/>
 </td>
 <td align="center" rowspan="8">
-<br/>X<br/>
+<br/>
+<b>X</b>
+<br/>
 </td>
 <td align="center">5 400<br/>
 </td>
@@ -450,5 +447,249 @@ Sans  objet.
 </tr>
 </tbody>
 </table>
+<div align="center">
+<br/>
+<br/>
+<br/>
+<p align="left">Certificats d'économies d'énergie<br/>
+</p>
+</div>
+
+Opération n° IND-UT-10
+
+Transformateur à haut rendement pour  l'alimentation
+
+basse tension d'un site industriel
+
+1. Secteur d'application :
+
+Industrie.
+
+2. Dénomination :
+
+Mise  en place d'un transformateur de  distribution privé, à haut rendement  (faibles pertes), de type immergé dans  l'huile d'une puissance comprise  entre 250 et 2 500 kVA et de tension primaire  inférieure à 24 kV, pour  l'alimentation basse tension d'un site industriel.
+
+3. Conditions pour la délivrance de certificats :
+
+La   fiche technique du transformateur indiquant les niveaux de pertes à  vide (C0,  B0, A0) et de pertes en charge (Bk, Ak), calculés suivant la  norme NF EN  50464-1, doit être fournie.
+
+4. Durée de vie conventionnelle :
+
+20 ans.
+
+5. Montant de certificats en kWh cumac :
+
+<div align="center">
+
+<table>
+<tbody>
+<tr>
+<td align="center" colspan="4" valign="middle">
+<p>PERTES À VIDE</p>
+</td>
+<td align="center" rowspan="13" valign="top">
+<p>+ <br/>
+</p>
+</td>
+<td align="center" colspan="2">PERTES EN CHARGE</td>
+<td align="center" rowspan="13" valign="top">
+<p>X <br/>
+</p>
+</td>
+<td align="center">MODE<br/>de fonctionnement<br/>du site</td>
+<td align="center">COEFFICIENT<br/>de pertes<br/>en charge <br/>
+</td>
+</tr>
+<tr>
+<td align="center">kVA<br/>
+</td>
+<td align="center">C0<br/>
+</td>
+<td align="center">B0<br/>
+</td>
+<td align="center">A0<br/>
+</td>
+<td align="center">Bk<br/>
+</td>
+<td align="center">Ak<br/>
+</td>
+<td align="center">1 × 8<br/>
+</td>
+<td align="center">0,2<br/>
+</td>
+</tr>
+<tr>
+<td align="center">250<br/>
+</td>
+<td align="center">27 900<br/>
+</td>
+<td align="center">35 900<br/>
+</td>
+<td align="center">43 300<br/>
+</td>
+<td align="center">61 900<br/>
+</td>
+<td align="center">111 400<br/>
+</td>
+<td align="center">2 × 8<br/>
+</td>
+<td align="center">0,4<br/>
+</td>
+</tr>
+<tr>
+<td align="center">315<br/>
+</td>
+<td align="center">31 000<br/>
+</td>
+<td align="center">40 900<br/>
+</td>
+<td align="center">50 800<br/>
+</td>
+<td align="center">80 500<br/>
+</td>
+<td align="center">136 200<br/>
+</td>
+<td align="center">3 × 8 avec arrêt le WE<br/>
+</td>
+<td align="center">0,5<br/>
+</td>
+</tr>
+<tr>
+<td align="center">400<br/>
+</td>
+<td align="center">39 600<br/>
+</td>
+<td align="center">50 800<br/>
+</td>
+<td align="center">61 900<br/>
+</td>
+<td align="center">92 900<br/>
+</td>
+<td align="center">167 100<br/>
+</td>
+<td align="center">3 × 8 sans arrêt le WE<br/>
+</td>
+<td align="center">0,6<br/>
+</td>
+</tr>
+<tr>
+<td align="center">500<br/>
+</td>
+<td align="center">47 000<br/>
+</td>
+<td align="center">60 700<br/>
+</td>
+<td align="center">73 000<br/>
+</td>
+<td align="center">111 400<br/>
+</td>
+<td align="center">198 100<br/>
+</td>
+<td align="center" colspan="2" rowspan="8"/>
+</tr>
+<tr>
+<td align="center">630<br/>
+</td>
+<td align="center">54 500<br/>
+</td>
+<td align="center">70 600<br/>
+</td>
+<td align="center">86 700<br/>
+</td>
+<td align="center">136 200<br/>
+</td>
+<td align="center">235 200<br/>
+</td>
+</tr>
+<tr>
+<td align="center">800<br/>
+</td>
+<td align="center">27 200<br/>
+</td>
+<td align="center">43 300<br/>
+</td>
+<td align="center">61 900<br/>
+</td>
+<td align="center">433 300<br/>
+</td>
+<td align="center">557 200<br/>
+</td>
+</tr>
+<tr>
+<td align="center">1 000<br/>
+</td>
+<td align="center">37 100<br/>
+</td>
+<td align="center">57 000<br/>
+</td>
+<td align="center">78 000<br/>
+</td>
+<td align="center">495 300<br/>
+</td>
+<td align="center">668 600<br/>
+</td>
+</tr>
+<tr>
+<td align="center">1 250<br/>
+</td>
+<td align="center">49 500<br/>
+</td>
+<td align="center">74 300<br/>
+</td>
+<td align="center">99 100<br/>
+</td>
+<td align="center">619 100<br/>
+</td>
+<td align="center">804 800<br/>
+</td>
+</tr>
+<tr>
+<td align="center">1 600<br/>
+</td>
+<td align="center">61 900<br/>
+</td>
+<td align="center">92 900<br/>
+</td>
+<td align="center">123 800<br/>
+</td>
+<td align="center">742 900<br/>
+</td>
+<td align="center">990 500<br/>
+</td>
+</tr>
+<tr>
+<td align="center">2 000<br/>
+</td>
+<td align="center">74 300<br/>
+</td>
+<td align="center">111 400<br/>
+</td>
+<td align="center">154 800<br/>
+</td>
+<td align="center">990 500<br/>
+</td>
+<td align="center">1 361 900<br/>
+</td>
+</tr>
+<tr>
+<td align="center">2 500<br/>
+</td>
+<td align="center">86 700<br/>
+</td>
+<td align="center">130 000<br/>
+</td>
+<td align="center">179 500<br/>
+</td>
+<td align="center">1 238 100<br/>
+</td>
+<td align="center">1 671 500<br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+<div align="center">
 
 </div>
