@@ -46,10 +46,6 @@ Dijon :
 
 Institut universitaire de la vigne et du vin.
 
-Institut national polytechnique de Grenoble.
-
-Institut universitaire de formation des adultes.
-
 Lille-I :
 
 Centre université - Economie d'éducation permanente.

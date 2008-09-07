@@ -62,24 +62,6 @@ Ecole nationale supérieure des ingénieurs en arts chimiques et technologiques 
 
 Ecole polytechnique universitaire de Montpellier ;
 
-Institut national polytechnique de Grenoble ;
-
-Ecole nationale supérieure d'électrochimie et d'électrométallurgie de Grenoble ;
-
-Ecole nationale supérieure d'électronique et de radioélectricité de Grenoble ;
-
-Ecole nationale supérieure d'ingénieurs électriciens de Grenoble ;
-
-Ecole nationale supérieure de physique de Grenoble ;
-
-Ecole nationale supérieure d'hydraulique de mécanique de Grenoble ;
-
-Ecole nationale supérieure d'informatique et de mathématiques appliquées de Grenoble ;
-
-Ecole nationale supérieure de génie industriel de Grenoble ;
-
-Ecole supérieure d'ingénieurs en systèmes industriels avancés Rhône-Alpes.
-
 Institut national polytechnique de Nancy.
 
 Ecole nationale supérieure d'agronomie et des industries alimentaires ;
