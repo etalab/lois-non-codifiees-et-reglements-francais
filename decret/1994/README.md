@@ -219,7 +219,6 @@
 - [Décret n°94-801 du 9 septembre 1994 (PRMX9400393D)](decret-n94-801-du-9-septembre-1994-prmx9400393d)
 - [Décret n°94-805 du 9 septembre 1994 (EQUT9400904D)](decret-n94-805-du-9-septembre-1994-equt9400904d)
 - [Décret n°94-806 du 9 septembre 1994 (DOMP9400024D)](decret-n94-806-du-9-septembre-1994-domp9400024d)
-- [Décret n°94-972 du 9 novembre 1994 (MICT9400034D)](decret-n94-972-du-9-novembre-1994-mict9400034d)
 - [Décret n°94-378 du 9 mai 1994 (JUSB9410118D)](decret-n94-378-du-9-mai-1994-jusb9410118d)
 - [Décret n°95-684 du 9 mai 1995 (SPSS9501272D)](decret-n95-684-du-9-mai-1995-spss9501272d)
 - [Décret n°95-685 du 9 mai 1995 (SPSS9501273D)](decret-n95-685-du-9-mai-1995-spss9501273d)
