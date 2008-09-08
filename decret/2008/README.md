@@ -216,6 +216,7 @@
 - [Décret n°2008-687 du 9 juillet 2008 (IOCM0815791D)](decret-n2008-687-du-9-juillet-2008-iocm0815791d)
 - [Décret n°2008-688 du 9 juillet 2008 (MAEA0808727D)](decret-n2008-688-du-9-juillet-2008-maea0808727d)
 - [Décret n°2008-689 du 9 juillet 2008 (JUSG0814277D)](decret-n2008-689-du-9-juillet-2008-jusg0814277d)
+- [Décret n°94-972 du 9 novembre 1994 (MICT9400034D)](decret-n94-972-du-9-novembre-1994-mict9400034d)
 - [Décret n°2008-441 du 9 mai 2008 (DEVE0808360D)](decret-n2008-441-du-9-mai-2008-deve0808360d)
 - [Décret n°2007-1335 du 10 septembre 2007 (DEFD0753802D)](decret-n2007-1335-du-10-septembre-2007-defd0753802d)
 - [Décret n°2008-242 du 10 mars 2008 (JUSC0803953D)](decret-n2008-242-du-10-mars-2008-jusc0803953d)
