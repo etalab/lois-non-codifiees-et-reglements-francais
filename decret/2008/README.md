@@ -768,6 +768,7 @@
 - [Décret n° 2008-442 du 30 avril 2008 (IOCB0760597D)](decret-n-2008-442-du-30-avril-2008-iocb0760597d)
 - [Décret n° 2008-444 du 30 avril 2008 (JUSJ0809896D)](decret-n-2008-444-du-30-avril-2008-jusj0809896d)
 - [Décret n°2005-1726 du 30 décembre 2005 (INTD0500343D)](decret-n2005-1726-du-30-decembre-2005-intd0500343d)
+- [Décret n°2005-1795 du 30 décembre 2005 (MJSK0570251D)](decret-n2005-1795-du-30-decembre-2005-mjsk0570251d)
 - [Décret n°2008-417 du 30 avril 2008 (DEVL0809672D)](decret-n2008-417-du-30-avril-2008-devl0809672d)
 - [Décret n°2008-418 du 30 avril 2008 (DEVT0772202D)](decret-n2008-418-du-30-avril-2008-devt0772202d)
 - [Décret n°2008-423 du 30 avril 2008 (ECEL0807313D)](decret-n2008-423-du-30-avril-2008-ecel0807313d)
