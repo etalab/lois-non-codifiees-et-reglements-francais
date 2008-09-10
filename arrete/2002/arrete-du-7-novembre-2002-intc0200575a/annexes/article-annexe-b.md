@@ -1,3198 +1,2961 @@
 # Article Annexe B
 
-FONCTIONNAIRES DU CORPS DE CONCEPTION ET DE DIRECTION EXERÇANT LEURS FONCTIONS DANS LES SERVICES TERRITORIAUX ET DÉCONCENTRÉS DE LA POLICE NATIONALE
+FONCTIONNAIRES DU CORPS DE CONCEPTION ET DE DIRECTION DE LA POLICE NATIONALE EXERÇANT LEURS FONCTIONS DANS LES SERVICES TERRITORIAUX ET DÉCONCENTRÉS DE LA POLICE NATIONALE
 
-1° Chef de service régional ou interrégional et adjoint : directeur zonal de la surveillance du territoire ; directeur zonal des compagnies républicaines de sécurité (CRS) ; directeur régional des renseignements généraux ; directeur interrégional de la police judiciaire (DIPJ) ; directeur de service régional de la police judiciaire ; directeur régional de la police judiciaire ; directeur interrégional de la police aux frontières (PAF) ; chef de la délégation régionale de discipline (IGPN)
+1° Chef de service zonal, interrégional, régional et adjoint : directeur zonal des compagnies républicaines de sécurité ; directeur zonal du renseignement intérieur ; directeur zonal de la police aux frontières ; directeur interrégional de la police judiciaire ; directeur interrégional de la police judiciaire ; directeur du service régional de police judiciaire ; directeur départemental du renseignement intérieur ; chef de la délégation régionale de discipline (IGPN)
 
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center">DÉSIGNATION DES EMPLOIS</p>
-</td>
-<td>
-<p align="center">DESIGNATION </p>
-<br/>
-<p align="center">des villes</p>
-</td>
-<td>
-<p align="center">NOMBRE </p>
-<br/>
-<p align="center">de bénéficiaires</p>
-</td>
-<td>
-<p align="center">NOMBRE DE POINTS </p>
-<br/>
-<p align="center">par emploi</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur zonal des CRS Paris. </p>
-</td>
-<td>
-<p align="center">Vélizy</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">80</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur zonal des CRS Nord. </p>
-</td>
-<td>
-<p align="center">Lille</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur zonal des CRS Ouest. </p>
-</td>
-<td>
-<p align="center">Rennes</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur zonal des CRS Sud-Ouest. </p>
-</td>
-<td>
-<p align="center">Bordeaux</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur zonal des CRS Sud.</p>
-</td>
-<td>
-<p align="center">Marseille</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">70</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur zonal des CRS Sud-Est.</p>
-</td>
-<td>
-<p align="center">Lyon</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">70</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur zonal des CRS Est. </p>
-</td>
-<td>
-<p align="center">Metz</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur zonal de la surveillance du territoire. </p>
-</td>
-<td>
-<p align="center">Lille</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">80</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur zonal de la surveillance du territoire. </p>
-</td>
-<td>
-<p align="center">Rennes</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">80</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur zonal de la surveillance du territoire. </p>
-</td>
-<td>
-<p align="center">Bordeaux</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">80</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur zonal de la surveillance du territoire. </p>
-</td>
-<td>
-<p align="center">Marseille</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">80</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur zonal de la surveillance du territoire. </p>
-</td>
-<td>
-<p align="center">Lyon</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">80</p>
-</td>
+<th>
+<br/>DÉSIGNATION DES EMPLOIS <br/>
+</th>
+<th>
+<br/>DÉSIGNATION <p>des villes <br/>
+</p>
+</th>
+<th>
+<br/>NOMBRE <p>de bénéficiaires <br/>
+</p>
+</th>
+<th>
+<br/>NOMBRE DE POINTS <br/>
+</th>
 </tr>
 <tr>
-<td>
-<p>Directeur zonal de la surveillance du territoire. </p>
+<td align="center">
+<br/>Directeur zonal des CRS Paris. <br/>
 </td>
-<td>
-<p align="center">Metz</p>
+<td align="center">
+<br/>Vélizy <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">80</p>
+<td align="center">
+<br/>80 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur zonal de la police aux frontières zone Sud-Est. </p>
+<td align="center">
+<br/>Directeur zonal des CRS Nord. <br/>
 </td>
-<td>
-<p align="center">Lyon</p>
+<td align="center">
+<br/>Lille <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">80</p>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur zonal de la police aux frontières zone Sud.</p>
+<td align="center">
+<br/>Directeur zonal des CRS Ouest. <br/>
 </td>
-<td>
-<p align="center">Marseille</p>
+<td align="center">
+<br/>Rennes <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">80</p>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur zonal de la police aux frontières zone Nord. </p>
+<td align="center">
+<br/>Directeur zonal des CRS Sud-Ouest. <br/>
 </td>
-<td>
-<p align="center">Lille</p>
+<td align="center">
+<br/>Bordeaux <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">60</p>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur zonal de la police aux frontières zone Est. </p>
+<td align="center">
+<br/>Directeur zonal des CRS Sud. <br/>
 </td>
-<td>
-<p align="center">Metz</p>
+<td align="center">
+<br/>Marseille <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">60</p>
+<td align="center">
+<br/>70 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur zonal de la police aux frontières zone Sud-Ouest. </p>
+<td align="center">
+<br/>Directeur zonal des CRS Sud-Est. <br/>
 </td>
-<td>
-<p align="center">Bordeaux</p>
+<td align="center">
+<br/>Lyon <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">60</p>
+<td align="center">
+<br/>70 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur zonal de la police aux frontières zone Ouest. </p>
+<td align="center">
+<br/>Directeur zonal des CRS Est. <br/>
 </td>
-<td>
-<p align="center">Rennes</p>
+<td align="center">
+<br/>Metz <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">60</p>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur interrégional de police judiciaire, directeur du service régional. </p>
+<td align="center">
+<br/>Directeur zonal du renseignement intérieur Nord. <br/>
 </td>
-<td>
-<p align="center">Lille</p>
+<td align="center">
+<br/>Lille <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">100</p>
+<td align="center">
+<br/>70 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur interrégional de police judiciaire, directeur du service régional. </p>
+<td align="center">
+<br/>Directeur zonal du renseignement intérieur Ouest. <br/>
 </td>
-<td>
-<p align="center">Rennes</p>
+<td align="center">
+<br/>Rennes <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">80</p>
+<td align="center">
+<br/>70 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur interrégional de police judiciaire, directeur du service régional. </p>
+<td align="center">
+<br/>Directeur zonal du renseignement intérieur Sud-Ouest. <br/>
 </td>
-<td>
-<p align="center">Orléans</p>
+<td align="center">
+<br/>Bordeaux <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">80</p>
+<td align="center">
+<br/>70 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur interrégional de police judiciaire, directeur du service régional. </p>
+<td align="center">
+<br/>Directeur zonal du renseignement intérieur Sud. <br/>
 </td>
-<td>
-<p align="center">Bordeaux</p>
+<td align="center">
+<br/>Marseille <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">100</p>
+<td align="center">
+<br/>70 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur interrégional de police judiciaire, directeur du service régional.</p>
+<td align="center">
+<br/>Directeur zonal du renseignement intérieur Sud-Est. <br/>
 </td>
-<td>
-<p align="center">Strasbourg</p>
+<td align="center">
+<br/>Lyon <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">100</p>
+<td align="center">
+<br/>70 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur interrégional de police judiciaire, directeur du service régional.</p>
+<td align="center">
+<br/>Directeur zonal du renseignement intérieur Est. <br/>
 </td>
-<td>
-<p align="center">Dijon</p>
+<td align="center">
+<br/>Metz <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">80</p>
+<td align="center">
+<br/>70 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur interrégional de police judiciaire, directeur du service régional.</p>
+<td align="center">
+<br/>Directeur zonal de la police aux frontières zone Sud-Est. <br/>
 </td>
-<td>
-<p align="center">Lyon</p>
+<td align="center">
+<br/>Lyon <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">100</p>
+<td align="center">
+<br/>80 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur interrégional de police judiciaire, directeur du service régional.</p>
+<td align="center">
+<br/>Directeur zonal de la police aux frontières zone Sud. <br/>
 </td>
-<td>
-<p align="center">Marseille</p>
+<td align="center">
+<br/>Marseille <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">100</p>
+<td align="center">
+<br/>80 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur interrégional de police judiciaire, directeur du service régional.</p>
+<td align="center">
+<br/>Directeur zonal de la police aux frontières zone Nord. <br/>
 </td>
-<td>
-<p align="center">Pointe-à-Pitre</p>
+<td align="center">
+<br/>Lille <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">80</p>
+<td align="center">
+<br/>80 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur interrégional adjoint de police judiciaire.</p>
+<td align="center">
+<br/>Directeur zonal de la police aux frontières zone Est. <br/>
 </td>
-<td>
-<p align="center">Lille</p>
+<td align="center">
+<br/>Metz <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">70</p>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur interrégional adjoint de police judiciaire.</p>
+<td align="center">
+<br/>Directeur zonal de la police aux frontières zone Sud-ouest. <br/>
 </td>
-<td>
-<p align="center">Rennes</p>
+<td align="center">
+<br/>Bordeaux <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">60</p>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur interrégional adjoint de police judiciaire.</p>
+<td align="center">
+<br/>Directeur zonal de la police aux frontières zone Ouest. <br/>
 </td>
-<td>
-<p align="center">Orléans</p>
+<td align="center">
+<br/>Rennes <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">60</p>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur interrégional adjoint de police judiciaire.</p>
+<td align="center">
+<br/>Directeur interrégional de police judiciaire, directeur du service régional. <br/>
 </td>
-<td>
-<p align="center">Bordeaux</p>
+<td align="center">
+<br/>Lille <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">70</p>
+<td align="center">
+<br/>100 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur interrégional adjoint de police judiciaire.</p>
+<td align="center">
+<br/>Directeur interrégional de police judiciaire, directeur du service régional. <br/>
 </td>
-<td>
-<p align="center">Strasbourg</p>
+<td align="center">
+<br/>Rennes <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">70</p>
+<td align="center">
+<br/>80 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur interrégional adjoint de police judiciaire.</p>
+<td align="center">
+<br/>Directeur interrégional de police judiciaire, directeur du service régional. <br/>
 </td>
-<td>
-<p align="center">Dijon</p>
+<td align="center">
+<br/>Orléans <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">60</p>
+<td align="center">
+<br/>80 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur interrégional adjoint de police judiciaire.</p>
+<td align="center">
+<br/>Directeur interrégional de police judiciaire, directeur du service régional. <br/>
 </td>
-<td>
-<p align="center">Lyon</p>
+<td align="center">
+<br/>Bordeaux <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">80</p>
+<td align="center">
+<br/>100 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur interrégional adjoint de police judiciaire.</p>
+<td align="center">
+<br/>Directeur interrégional de police judiciaire, directeur du service régional. <br/>
 </td>
-<td>
-<p align="center">Marseille</p>
+<td align="center">
+<br/>Strasbourg <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">80</p>
+<td align="center">
+<br/>100 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur interrégional adjoint de police judiciaire.</p>
+<td align="center">
+<br/>Directeur interrégional de police judiciaire, directeur du service régional. <br/>
 </td>
-<td>
-<p align="center">Pointe-à-Pitre</p>
+<td align="center">
+<br/>Dijon <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">60</p>
+<td align="center">
+<br/>80 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur du service régional de police judiciaire.</p>
+<td align="center">
+<br/>Directeur interrégional de police judiciaire, directeur du service régional. <br/>
 </td>
-<td>
-<p align="center">Angers</p>
+<td align="center">
+<br/>Lyon <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">60</p>
+<td align="center">
+<br/>100 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur du service régional de police judiciaire.</p>
+<td align="center">
+<br/>Directeur interrégional de police judiciaire, directeur du service régional. <br/>
 </td>
-<td>
-<p align="center">Rouen</p>
+<td align="center">
+<br/>Marseille <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">60</p>
+<td align="center">
+<br/>100 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur du service régional de police judiciaire.</p>
+<td align="center">
+<br/>Directeur interrégional de police judiciaire, directeur du service régional. <br/>
 </td>
-<td>
-<p align="center">Limoges</p>
+<td align="center">
+<br/>Pointe-à-Pitre <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">60</p>
+<td align="center">
+<br/>80 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur du service régional de police judiciaire.</p>
+<td align="center">
+<br/>Directeur interrégional adjoint de police judiciaire. <br/>
 </td>
-<td>
-<p align="center">Toulouse</p>
+<td align="center">
+<br/>Lille <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">60</p>
+<td align="center">
+<br/>70 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur du service régional de police judiciaire.</p>
+<td align="center">
+<br/>Directeur interrégional adjoint de police judiciaire. <br/>
 </td>
-<td>
-<p align="center">Nancy</p>
+<td align="center">
+<br/>Rennes <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">60</p>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur du service régional de police judiciaire.</p>
+<td align="center">
+<br/>Directeur interrégional adjoint de police judiciaire. <br/>
 </td>
-<td>
-<p align="center">Reims</p>
+<td align="center">
+<br/>Orléans <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">60</p>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur du service régional de police judiciaire.</p>
+<td align="center">
+<br/>Directeur interrégional adjoint de police judiciaire. <br/>
 </td>
-<td>
-<p align="center">Clermont-Ferrand</p>
+<td align="center">
+<br/>Bordeaux <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">60</p>
+<td align="center">
+<br/>70 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur du service régional de police judiciaire.</p>
+<td align="center">
+<br/>Directeur interrégional adjoint de police judiciaire. <br/>
 </td>
-<td>
-<p align="center">Montpellier</p>
+<td align="center">
+<br/>Strasbourg <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">60</p>
+<td align="center">
+<br/>70 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur régional de police judiciaire.</p>
+<td align="center">
+<br/>Directeur interrégional adjoint de police judiciaire. <br/>
 </td>
-<td>
-<p align="center">Versailles</p>
+<td align="center">
+<br/>Dijon <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">100</p>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur régional de police judiciaire.</p>
+<td align="center">
+<br/>Directeur interrégional adjoint de police judiciaire. <br/>
 </td>
-<td>
-<p align="center">Ajaccio</p>
+<td align="center">
+<br/>Lyon <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">100</p>
+<td align="center">
+<br/>80 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur régional adjoint de police judiciaire.</p>
+<td align="center">
+<br/>Directeur interrégional adjoint de police judiciaire. <br/>
 </td>
-<td>
-<p align="center">Versailles</p>
+<td align="center">
+<br/>Marseille <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">70</p>
+<td align="center">
+<br/>80 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur régional adjoint de police judiciaire.</p>
+<td align="center">
+<br/>Directeur interrégional adjoint de police judiciaire. <br/>
 </td>
-<td>
-<p align="center">Ajaccio</p>
+<td align="center">
+<br/>Pointe-à-Pitre <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">80</p>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur régional des renseignements généraux.</p>
+<td align="center">
+<br/>Directeur du service régional de police judiciaire. <br/>
 </td>
-<td>
-<p align="center">Lille</p>
+<td align="center">
+<br/>Angers <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">80</p>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur régional des renseignements généraux.</p>
+<td align="center">
+<br/>Directeur du service régional de police judiciaire. <br/>
 </td>
-<td>
-<p align="center">Rennes</p>
+<td align="center">
+<br/>Rouen <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">80</p>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur régional des renseignements généraux.</p>
+<td align="center">
+<br/>Directeur du service régional de police judiciaire. <br/>
 </td>
-<td>
-<p align="center">Bordeaux</p>
+<td align="center">
+<br/>Limoges <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">80</p>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur régional des renseignements généraux.</p>
+<td align="center">
+<br/>Directeur du service régional de police judiciaire. <br/>
 </td>
-<td>
-<p align="center">Marseille</p>
+<td align="center">
+<br/>Toulouse <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">80</p>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur régional des renseignements généraux.</p>
+<td align="center">
+<br/>Directeur du service régional de police judiciaire. <br/>
 </td>
-<td>
-<p align="center">Lyon</p>
+<td align="center">
+<br/>Nancy <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">80</p>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur régional des renseignements généraux.</p>
+<td align="center">
+<br/>Directeur du service régional de police judiciaire. <br/>
 </td>
-<td>
-<p align="center">Bordeaux</p>
+<td align="center">
+<br/>Reims <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">80</p>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur régional des renseignements généraux.</p>
+<td align="center">
+<br/>Directeur du service régional de police judiciaire. <br/>
 </td>
-<td>
-<p align="center">Marseille</p>
+<td align="center">
+<br/>Clermont-Ferrand <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">80</p>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur régional des renseignements généraux.</p>
+<td align="center">
+<br/>Directeur du service régional de police judiciaire. <br/>
 </td>
-<td>
-<p align="center">Lyon</p>
+<td align="center">
+<br/>Montpellier <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">80</p>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur régional des renseignements généraux.</p>
+<td align="center">
+<br/>Directeur régional de police judiciaire. <br/>
 </td>
-<td>
-<p align="center">Ajaccio</p>
+<td align="center">
+<br/>Versailles <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">80</p>
+<td align="center">
+<br/>100 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur régional des renseignements généraux.</p>
+<td align="center">
+<br/>Directeur régional de police judiciaire. <br/>
 </td>
-<td>
-<p align="center">Toulouse</p>
+<td align="center">
+<br/>Ajaccio <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">70</p>
+<td align="center">
+<br/>100 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur régional des renseignements généraux.</p>
+<td align="center">
+<br/>Directeur régional adjoint de police judiciaire. <br/>
 </td>
-<td>
-<p align="center">Rouen</p>
+<td align="center">
+<br/>Versailles <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">70</p>
+<td align="center">
+<br/>70 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur régional des renseignements généraux.</p>
+<td align="center">
+<br/>Directeur régional adjoint de police judiciaire. <br/>
 </td>
-<td>
-<p align="center">Strasbourg</p>
+<td align="center">
+<br/>Ajaccio <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">70</p>
+<td align="center">
+<br/>80 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur régional des renseignements généraux.</p>
+<td align="center">
+<br/>Directeur régional du renseignement intérieur Corse. <br/>
 </td>
-<td>
-<p align="center">Montpellier</p>
+<td align="center">
+<br/>Ajaccio <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">70</p>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Chef de la délégation régionale de discipline/IGPN.</p>
+<td align="center">
+<br/>Chef de la délégation régionale de discipline / IGPN. <br/>
 </td>
-<td>
-<p align="center">Marseille</p>
+<td align="center">
+<br/>Marseille <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">60</p>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 <tr>
-<td rowspan="2">
-<p>Chef de la délégation régionale de discipline/IGPN.</p>
+<td align="center">
+<br/>Chef de la délégation régionale de discipline / IGPN. <br/>
 </td>
-<td rowspan="2">
-<p align="center">Lyon</p>
+<td align="center">
+<br/>Lyon <br/>
 </td>
-<td rowspan="2">
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td rowspan="2">
-<p align="center">60</p>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 </tbody>
 </table>
 
-2° Chef de service départemental et adjoint : directeur départemental de la sécurité publique et commissaire central ; directeur départemental de la sécurité publique, chef de district et commissaire central ; directeur départemental de la sécurité publique ; chef du service de sécurité de proximité ; directeur départemental des renseignements généraux ; chef du service des renseignements généraux ; directeur départemental de la police aux frontières (PAF)
+2° Chef de service départemental et adjoint : directeur départemental de la sécurité publique commissaire central ; directeur départemental de la sécurité publique chef de district commissaire central ; directeur départemental de la sécurité publique ; chef du service de sécurité de proximité ; directeur départemental du renseignement intérieur ; directeur départemental de la police aux frontières (PAF)
 
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center">DÉSIGNATION DES EMPLOIS</p>
+<th>
+<br/>DÉSIGNATION DES EMPLOIS <br/>
+</th>
+<th>
+<br/>DÉSIGNATION <p>des villes <br/>
+</p>
+</th>
+<th>
+<br/>NOMBRE <p>de bénéficiaires <br/>
+</p>
+</th>
+<th>
+<br/>NOMBRE DE POINTS <br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental de la sécurité publique et commissaire central. <br/>
 </td>
-<td>
-<p align="center">DESIGNTION </p>
-<br/>
-<p align="center">des villes</p>
+<td align="center">
+<br/>La Rochelle <br/>
 </td>
-<td>
-<p align="center">NOMBRE </p>
-<br/>
-<p align="center">de bénéficiaires</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">NOMBRE DE POINTS </p>
-<br/>
-<p align="center">par emploi</p>
+<td align="center">
+<br/>80 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur départemental de la sécurité publique et commissaire central.</p>
+<td align="center">
+<br/>Directeur départemental de la sécurité publique et commissaire central. <br/>
 </td>
-<td>
-<p align="center">La Rochelle</p>
+<td align="center">
+<br/>Toulouse <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">80</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental de la sécurité publique et commissaire central.</p>
-</td>
-<td>
-<p align="center">Toulouse</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">80</p>
+<td align="center">
+<br/>80 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur départemental de la sécurité publique et commissaire central.</p>
+<td align="center">
+<br/>Directeur départemental de la sécurité publique et commissaire central. <br/>
 </td>
-<td>
-<p align="center">Nantes</p>
+<td align="center">
+<br/>Nantes <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">80</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental de la sécurité publique et commissaire central.</p>
-</td>
-<td>
-<p align="center">Reims</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">80</p>
+<td align="center">
+<br/>80 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur départemental de la sécurité publique et commissaire central.</p>
+<td align="center">
+<br/>Directeur départemental de la sécurité publique et commissaire central. <br/>
 </td>
-<td>
-<p align="center">Vannes</p>
+<td align="center">
+<br/>Reims <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental de la sécurité publique et commissaire central.</p>
-</td>
-<td>
-<p align="center">Beauvais</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">80</p>
+<td align="center">
+<br/>80 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur départemental de la sécurité publique et commissaire central.</p>
+<td align="center">
+<br/>Directeur départemental de la sécurité publique et commissaire central. <br/>
 </td>
-<td>
-<p align="center">Lyon</p>
+<td align="center">
+<br/>Vannes <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">110</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental de la sécurité publique et commissaire central.</p>
-</td>
-<td>
-<p align="center">Rouen</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">80</p>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur départemental de la sécurité publique et commissaire central.</p>
+<td align="center">
+<br/>Directeur départemental de la sécurité publique et commissaire central. <br/>
 </td>
-<td>
-<p align="center">Charleville-Mézières</p>
+<td align="center">
+<br/>Beauvais <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental de la sécurité publique et commissaire central.</p>
-</td>
-<td>
-<p align="center">Dijon</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">60</p>
+<td align="center">
+<br/>80 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur départemental de la sécurité publique et commissaire central.</p>
+<td align="center">
+<br/>Directeur départemental de la sécurité publique et commissaire central. <br/>
 </td>
-<td>
-<p align="center">Besançon</p>
+<td align="center">
+<br/>Lyon <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">80</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental de la sécurité publique et commissaire central.</p>
-</td>
-<td>
-<p align="center">Valence</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">80</p>
+<td align="center">
+<br/>110 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur départemental de la sécurité publique et commissaire central.</p>
+<td align="center">
+<br/>Directeur départemental de la sécurité publique et commissaire central. <br/>
 </td>
-<td>
-<p align="center">Evreux</p>
+<td align="center">
+<br/>Rouen <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">80</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental de la sécurité publique et commissaire central.</p>
-</td>
-<td>
-<p align="center">Chartres</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">60</p>
+<td align="center">
+<br/>80 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur départemental de la sécurité publique et commissaire central.</p>
+<td align="center">
+<br/>Directeur départemental de la sécurité publique et commissaire central. <br/>
 </td>
-<td>
-<p align="center">Nîmes</p>
+<td align="center">
+<br/>Charleville-Mézières <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">80</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental de la sécurité publique et commissaire central.</p>
-</td>
-<td>
-<p align="center">Bordeaux</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">80</p>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur départemental de la sécurité publique et commissaire central.</p>
+<td align="center">
+<br/>Directeur départemental de la sécurité publique et commissaire central. <br/>
 </td>
-<td>
-<p align="center">Rennes</p>
+<td align="center">
+<br/>Troyes <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">80</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental de la sécurité publique et commissaire central.</p>
-</td>
-<td>
-<p align="center">Tours</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">80</p>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur départemental de la sécurité publique et commissaire central.</p>
+<td align="center">
+<br/>Directeur départemental de la sécurité publique et commissaire central. <br/>
 </td>
-<td>
-<p align="center">Grenoble</p>
+<td align="center">
+<br/>Dijon <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">80</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental de la sécurité publique et commissaire central.</p>
-</td>
-<td>
-<p align="center">Orléans</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">80</p>
+<td align="center">
+<br/>80 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur départemental de la sécurité publique et commissaire central.</p>
+<td align="center">
+<br/>Directeur départemental de la sécurité publique et commissaire central. <br/>
 </td>
-<td>
-<p align="center">Angers</p>
+<td align="center">
+<br/>Besançon <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">80</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental de la sécurité publique et commissaire central.</p>
-</td>
-<td>
-<p align="center">Clermont-Ferrand</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">80</p>
+<td align="center">
+<br/>80 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur départemental de la sécurité publique et commissaire central.</p>
+<td align="center">
+<br/>Directeur départemental de la sécurité publique et commissaire central. <br/>
 </td>
-<td>
-<p align="center">Strasbourg</p>
+<td align="center">
+<br/>Valence <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">80</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental de la sécurité publique et commissaire central.</p>
-</td>
-<td>
-<p align="center">Mâcon</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">60</p>
+<td align="center">
+<br/>80 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur départemental de la sécurité publique et commissaire central.</p>
+<td align="center">
+<br/>Directeur départemental de la sécurité publique et commissaire central. <br/>
 </td>
-<td>
-<p align="center">Amiens</p>
+<td align="center">
+<br/>Evreux <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">80</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental de la sécurité publique et commissaire central.</p>
-</td>
-<td>
-<p align="center">Avignon</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">80</p>
+<td align="center">
+<br/>80 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur départemental de la sécurité publique et commissaire central.</p>
+<td align="center">
+<br/>Directeur départemental de la sécurité publique et commissaire central. <br/>
 </td>
-<td>
-<p align="center">Limoges</p>
+<td align="center">
+<br/>Chartres <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">80</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental de la sécurité publique et commissaire central.</p>
-</td>
-<td>
-<p align="center">Auxerre</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">60</p>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur départemental de la sécurité publique et commissaire central.</p>
+<td align="center">
+<br/>Directeur départemental de la sécurité publique et commissaire central. <br/>
 </td>
-<td>
-<p align="center">Pointe-à-Pitre</p>
+<td align="center">
+<br/>Nîmes <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">100</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental de la sécurité publique et commissaire central.</p>
-</td>
-<td>
-<p align="center">Fort-de-France</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">100</p>
+<td align="center">
+<br/>80 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur départemental de la sécurité publique et commissaire central.</p>
+<td align="center">
+<br/>Directeur départemental de la sécurité publique et commissaire central. <br/>
 </td>
-<td>
-<p align="center">Cayenne</p>
+<td align="center">
+<br/>Bordeaux <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">100</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental de la sécurité publique et commissaire central.</p>
-</td>
-<td>
-<p align="center">Saint-Denis-dela- </p>
-<br/>
-<p align="center">Réunion</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">100</p>
+<td align="center">
+<br/>80 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur départemental de la sécurité publique et commissaire central.</p>
+<td align="center">
+<br/>Directeur départemental de la sécurité publique et commissaire central. <br/>
 </td>
-<td>
-<p align="center">Ajaccio</p>
+<td align="center">
+<br/>Montpellier <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">80</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental de la sécurité publique et commissaire central.</p>
-</td>
-<td>
-<p align="center">Bastia</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">80</p>
+<td align="center">
+<br/>80 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur départemental de la sécurité publique et commissaire central.</p>
+<td align="center">
+<br/>Directeur départemental de la sécurité publique et commissaire central. <br/>
 </td>
-<td>
-<p align="center">Nice</p>
+<td align="center">
+<br/>Rennes <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">80</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental de la sécurité publique et commissaire central.</p>
-</td>
-<td>
-<p align="center">Quimper</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">80</p>
+<td align="center">
+<br/>80 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur départemental de la sécurité publique et commissaire central.</p>
+<td align="center">
+<br/>Directeur départemental de la sécurité publique et commissaire central. <br/>
 </td>
-<td>
-<p align="center">Le Mans</p>
+<td align="center">
+<br/>Tours <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">80</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental de la sécurité publique et commissaire central.</p>
-</td>
-<td>
-<p align="center">Poitiers</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">80</p>
+<td align="center">
+<br/>80 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur départemental de la sécurité publique et commissaire central.</p>
+<td align="center">
+<br/>Directeur départemental de la sécurité publique et commissaire central. <br/>
 </td>
-<td>
-<p align="center">Perpignan</p>
+<td align="center">
+<br/>Grenoble <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental de la sécurité publique, chef de district et commissaire central.</p>
-</td>
-<td>
-<p align="center">Marseille</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">110</p>
+<td align="center">
+<br/>80 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur départemental de la sécurité publique, chef de district et commissaire central</p>
+<td align="center">
+<br/>Directeur départemental de la sécurité publique et commissaire central. <br/>
 </td>
-<td>
-<p align="center">Nancy</p>
+<td align="center">
+<br/>Orléans <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">80</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental de la sécurité publique, chef de district et commissaire central.</p>
-</td>
-<td>
-<p align="center">Mulhouse</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">80</p>
+<td align="center">
+<br/>80 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur départemental de la sécurité publique, chef de district et commissaire central.</p>
+<td align="center">
+<br/>Directeur départemental de la sécurité publique et commissaire central. <br/>
 </td>
-<td>
-<p align="center">Pau</p>
+<td align="center">
+<br/>Angers <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">80</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental de la sécurité publique, chef de district et commissaire central</p>
-</td>
-<td>
-<p align="center">Toulon</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">80</p>
+<td align="center">
+<br/>80 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur départemental de la sécurité publique, chef de district et commissaire central.</p>
+<td align="center">
+<br/>Directeur départemental de la sécurité publique et commissaire central. <br/>
 </td>
-<td>
-<p align="center">Caen</p>
+<td align="center">
+<br/>Clermont-Ferrand <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">80</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental de la sécurité publique, chef de district et commissaire central.</p>
-</td>
-<td>
-<p align="center">Saint-Etienne</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">80</p>
+<td align="center">
+<br/>80 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur départemental de la sécurité publique, chef de district et commissaire central</p>
+<td align="center">
+<br/>Directeur départemental de la sécurité publique et commissaire central. <br/>
 </td>
-<td>
-<p align="center">Saint-Lô</p>
+<td align="center">
+<br/>Strasbourg <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental de la sécurité publique, chef de district et commissaire central.</p>
-</td>
-<td>
-<p align="center">Metz</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">80</p>
+<td align="center">
+<br/>80 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur départemental de la sécurité publique et chef de circonscription</p>
+<td align="center">
+<br/>Directeur départemental de la sécurité publique et commissaire central. <br/>
 </td>
-<td>
-<p align="center">Laon</p>
+<td align="center">
+<br/>Mâcon <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental de la sécurité publique.</p>
-</td>
-<td>
-<p align="center">Lille</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">100</p>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur départemental de la sécurité publique.</p>
+<td align="center">
+<br/>Directeur départemental de la sécurité publique et commissaire central. <br/>
 </td>
-<td>
-<p align="center">Arras</p>
+<td align="center">
+<br/>Amiens <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">100</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental de la sécurité publique.</p>
-</td>
-<td>
-<p align="center">Melun</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">100</p>
+<td align="center">
+<br/>80 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur départemental de la sécurité publique.</p>
+<td align="center">
+<br/>Directeur départemental de la sécurité publique et commissaire central. <br/>
 </td>
-<td>
-<p align="center">Versailles</p>
+<td align="center">
+<br/>Avignon <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">110</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental de la sécurité publique.</p>
-</td>
-<td>
-<p align="center">Evry</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">100</p>
+<td align="center">
+<br/>80 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur départemental de la sécurité publique.</p>
+<td align="center">
+<br/>Directeur départemental de la sécurité publique et commissaire central. <br/>
 </td>
-<td>
-<p align="center">Nanterre</p>
+<td align="center">
+<br/>Limoges <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">110</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental de la sécurité publique.</p>
-</td>
-<td>
-<p align="center">Bobigny</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">110</p>
+<td align="center">
+<br/>80 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur départemental de la sécurité publique.</p>
+<td align="center">
+<br/>Directeur départemental de la sécurité publique et commissaire central. <br/>
 </td>
-<td>
-<p align="center">Créteil</p>
+<td align="center">
+<br/>Auxerre <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">110</p>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 <tr>
-<td rowspan="2">
-<p>Directeur départemental de la sécurité publique.</p>
+<td align="center">
+<br/>Directeur départemental de la sécurité publique et commissaire central. <br/>
 </td>
-<td rowspan="2">
-<p align="center">Cergy-Pontoise</p>
+<td align="center">
+<br/>Pointe-à-Pitre <br/>
 </td>
-<td rowspan="2">
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td rowspan="2">
-<p align="center">100</p>
+<td align="center">
+<br/>100 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental de la sécurité publique et commissaire central. <br/>
+</td>
+<td align="center">
+<br/>Fort-de-France <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>100 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental de la sécurité publique et commissaire central. <br/>
+</td>
+<td align="center">
+<br/>Cayenne <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>100 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental de la sécurité publique et commissaire central. <br/>
+</td>
+<td align="center">
+<br/>Saint-Denis- <p>de-la-Réunion <br/>
+</p>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>100 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental de la sécurité publique et commissaire central. <br/>
+</td>
+<td align="center">
+<br/>Ajaccio <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>80 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental de la sécurité publique et commissaire central. <br/>
+</td>
+<td align="center">
+<br/>Bastia <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>80 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental de la sécurité publique et commissaire central. <br/>
+</td>
+<td align="center">
+<br/>Nice <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>80 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental de la sécurité publique et commissaire central. <br/>
+</td>
+<td align="center">
+<br/>Quimper <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>80 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental de la sécurité publique et commissaire central. <br/>
+</td>
+<td align="center">
+<br/>Le Mans <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>80 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental de la sécurité publique et commissaire central. <br/>
+</td>
+<td align="center">
+<br/>Poitiers <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>80 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental de la sécurité publique et commissaire central. <br/>
+</td>
+<td align="center">
+<br/>Perpignan <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental de la sécurité publique, chef de district et commissaire central. <br/>
+</td>
+<td align="center">
+<br/>Marseille <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>110 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental de la sécurité publique, chef de district et commissaire central. <br/>
+</td>
+<td align="center">
+<br/>Nancy <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>80 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental de la sécurité publique, chef de district et commissaire central. <br/>
+</td>
+<td align="center">
+<br/>Mulhouse <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>80 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental de la sécurité publique, chef de district et commissaire central. <br/>
+</td>
+<td align="center">
+<br/>Pau <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>80 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental de la sécurité publique, chef de district et commissaire central. <br/>
+</td>
+<td align="center">
+<br/>Toulon <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>80 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental de la sécurité publique, chef de district et commissaire central. <br/>
+</td>
+<td align="center">
+<br/>Caen <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>80 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental de la sécurité publique, chef de district et commissaire central. <br/>
+</td>
+<td align="center">
+<br/>Saint-Etienne <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>80 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental de la sécurité publique, chef de district et commissaire central. <br/>
+</td>
+<td align="center">
+<br/>Saint-Lô <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental de la sécurité publique, chef de district et commissaire central. <br/>
+</td>
+<td align="center">
+<br/>Metz <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>80 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental de la sécurité publique et chef de circonscription. <br/>
+</td>
+<td align="center">
+<br/>Laon <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental de la sécurité publique. <br/>
+</td>
+<td align="center">
+<br/>Lille <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>110 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental de la sécurité publique. <br/>
+</td>
+<td align="center">
+<br/>Arras <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>100 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental de la sécurité publique. <br/>
+</td>
+<td align="center">
+<br/>Melun <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>100 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental de la sécurité publique. <br/>
+</td>
+<td align="center">
+<br/>Versailles <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>110 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental de la sécurité publique. <br/>
+</td>
+<td align="center">
+<br/>Evry <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>100 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental de la sécurité publique. <br/>
+</td>
+<td align="center">
+<br/>Nanterre <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>110 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental de la sécurité publique. <br/>
+</td>
+<td align="center">
+<br/>Bobigny <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>110 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental de la sécurité publique. <br/>
+</td>
+<td align="center">
+<br/>Créteil <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>110 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental de la sécurité publique. <br/>
+</td>
+<td align="center">
+<br/>Cergy-Pontoise <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>100 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental adjoint de la sécurité publique. <br/>
+</td>
+<td align="center">
+<br/>Arras <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental adjoint de la sécurité publique. <br/>
+</td>
+<td align="center">
+<br/>Melun <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>80 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental adjoint de la sécurité publique. <br/>
+</td>
+<td align="center">
+<br/>Versailles <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>80 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental adjoint de la sécurité publique. <br/>
+</td>
+<td align="center">
+<br/>Evry <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>80 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental adjoint de la sécurité publique. <br/>
+</td>
+<td align="center">
+<br/>Nanterre <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>80 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental adjoint de la sécurité publique. <br/>
+</td>
+<td align="center">
+<br/>Bobigny <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>80 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental adjoint de la sécurité publique. <br/>
+</td>
+<td align="center">
+<br/>Créteil <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>80 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental adjoint de la sécurité publique. <br/>
+</td>
+<td align="center">
+<br/>Cergy-Pontoise <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>80 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental adjoint de la sécurité publique et commissaire central. <br/>
+</td>
+<td align="center">
+<br/>Brest <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental adjoint de la sécurité publique et commissaire central. <br/>
+</td>
+<td align="center">
+<br/>Lille <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>80 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental adjoint de la sécurité publique et commissaire central. <br/>
+</td>
+<td align="center">
+<br/>Lorient <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental adjoint de la sécurité publique et commissaire central adjoint. <br/>
+</td>
+<td align="center">
+<br/>Strasbourg <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental adjoint de la sécurité publique et commissaire central adjoint. <br/>
+</td>
+<td align="center">
+<br/>Mulhouse <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental adjoint de la sécurité publique et commissaire central adjoint. <br/>
+</td>
+<td align="center">
+<br/>Montpellier <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental adjoint de la sécurité publique et commissaire central adjoint. <br/>
+</td>
+<td align="center">
+<br/>Amiens <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental adjoint de la sécurité publique et commissaire central adjoint. <br/>
+</td>
+<td align="center">
+<br/>Cayenne <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental adjoint de la sécurité publique et commissaire central adjoint. <br/>
+</td>
+<td align="center">
+<br/>Nantes <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental adjoint de la sécurité publique et commissaire central adjoint. <br/>
+</td>
+<td align="center">
+<br/>Nice <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental adjoint de la sécurité publique et commissaire central adjoint. <br/>
+</td>
+<td align="center">
+<br/>Marseille <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>80 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental adjoint de la sécurité publique et commissaire central adjoint. <br/>
+</td>
+<td align="center">
+<br/>Toulouse <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental adjoint de la sécurité publique et commissaire central adjoint. <br/>
+</td>
+<td align="center">
+<br/>Bordeaux <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental adjoint de la sécurité publique et commissaire central adjoint. <br/>
+</td>
+<td align="center">
+<br/>Ajaccio <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental adjoint de la sécurité publique et commissaire central adjoint. <br/>
+</td>
+<td align="center">
+<br/>Bastia <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental adjoint de la sécurité publique et commissaire central adjoint. <br/>
+</td>
+<td align="center">
+<br/>Saint-Denis- <p>de-la-Réunion <br/>
+</p>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental adjoint de la sécurité publique et commissaire central adjoint. <br/>
+</td>
+<td align="center">
+<br/>Rouen <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental adjoint de la sécurité publique, commissaire central adjoint, chef du service de sécurité de proximité. <br/>
+</td>
+<td align="center">
+<br/>Lyon <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>80 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental adjoint de la sécurité publique, commissaire central adjoint, chef du service de sécurité de proximité. <br/>
+</td>
+<td align="center">
+<br/>Pointe-à-Pitre <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental adjoint de la sécurité publique, commissaire central adjoint, chef du service de sécurité de proximité. <br/>
+</td>
+<td align="center">
+<br/>Fort-de-France <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental du renseignement intérieur. <br/>
+</td>
+<td align="center">
+<br/>Bobigny <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental du renseignement intérieur. <br/>
+</td>
+<td align="center">
+<br/>Bastia <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental du renseignement intérieur. <br/>
+</td>
+<td align="center">
+<br/>Bayonne <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental de la police aux frontières. <br/>
+</td>
+<td align="center">
+<br/>Calais <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur départemental de la police aux frontières. <br/>
+</td>
+<td align="center">
+<br/>Cayenne <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 </tbody>
 </table>
 
-<table>
-<tbody>
-<tr>
-<td>
-<p>Directeur départemental adjoint de la sécurité publique.</p>
-</td>
-<td>
-<p align="center">Arras</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental adjoint de la sécurité publique.</p>
-</td>
-<td>
-<p align="center">Melun</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">80</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental adjoint de la sécurité publique.</p>
-</td>
-<td>
-<p align="center">Versailles</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">80</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental adjoint de la sécurité publique.</p>
-</td>
-<td>
-<p align="center">Evry</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">80</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental adjoint de la sécurité publique.</p>
-</td>
-<td>
-<p align="center">Nanterre</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">80</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental adjoint de la sécurité publique.</p>
-</td>
-<td>
-<p align="center">Bobigny</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">80</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental adjoint de la sécurité publique.</p>
-</td>
-<td>
-<p align="center">Créteil</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">80</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental adjoint de la sécurité publique.</p>
-</td>
-<td>
-<p align="center">Cergy-Pontoise</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">80</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental adjoint de la sécurité publique et commissaire central.</p>
-</td>
-<td>
-<p align="center">Brest</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental adjoint de la sécurité publique et commissaire central.</p>
-</td>
-<td>
-<p align="center">Lille</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">80</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental adjoint de la sécurité publique et commissaire central.</p>
-</td>
-<td>
-<p align="center">Lorient</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental adjoint de la sécurité publique et commissaire central adjoint.</p>
-</td>
-<td>
-<p align="center">Strasbourg</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental adjoint de la sécurité publique et commissaire central adjoint.</p>
-</td>
-<td>
-<p align="center">Mulhouse</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental adjoint de la sécurité publique et commissaire central adjoint.</p>
-</td>
-<td>
-<p align="center">Amiens</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental adjoint de la sécurité publique et commissaire central adjoint.</p>
-</td>
-<td>
-<p align="center">Cayenne</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental adjoint de la sécurité publique et commissaire central adjoint.</p>
-</td>
-<td>
-<p align="center">Nantes</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental adjoint de la sécurité publique et commissaire central adjoint.</p>
-</td>
-<td>
-<p align="center">Nice</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental adjoint de la sécurité publique et commissaire central adjoint.</p>
-</td>
-<td>
-<p align="center">Marseille</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">80</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental adjoint de la sécurité publique et commissaire central adjoint.</p>
-</td>
-<td>
-<p align="center">Toulouse</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental adjoint de la sécurité publique et commissaire central adjoint.</p>
-</td>
-<td>
-<p align="center">Bordeaux</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental adjoint de la sécurité publique et commissaire central adjoint.</p>
-</td>
-<td>
-<p align="center">Ajaccio</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental adjoint de la sécurité publique et commissaire central adjoint.</p>
-</td>
-<td>
-<p align="center">Bastia</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental adjoint de la sécurité publique et commissaire central adjoint.</p>
-</td>
-<td>
-<p align="center">Saint-Denis-dela-Réunion</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental adjoint de la sécurité publique et commissaire central adjoint.</p>
-</td>
-<td>
-<p align="center">Rouen</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental adjoint de la sécurité publique, commissaire central adjoint, chef du service de sécurité de proximité.</p>
-</td>
-<td>
-<p align="center">Lyon</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">80</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental adjoint de la sécurité publique, commissaire central adjoint, chef du service de sécurité de proximité.</p>
-</td>
-<td>
-<p align="center">Pointe-à-Pitre</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental adjoint de la sécurité publique, commissaire central adjoint, chef du service de sécurité de proximité.</p>
-</td>
-<td>
-<p align="center">Fort-de-France</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental des renseignements généraux des Hauts-de-Seine.</p>
-</td>
-<td>
-<p align="center">Nanterre</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">80</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental des renseignements généraux de la Seine-Saint-Denis.</p>
-</td>
-<td>
-<p align="center">Bobigny</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">80</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental des renseignements généraux du Val-de-Marne.</p>
-</td>
-<td>
-<p align="center">Créteil</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">80</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental des renseignements généraux de Seine-et-Marne.</p>
-</td>
-<td>
-<p align="center">Melun</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">80</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental des renseignements généraux des Yvelines.</p>
-</td>
-<td>
-<p align="center">Versailles</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">80</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental des renseignements généraux de l'Essonne.</p>
-</td>
-<td>
-<p align="center">Evry</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">80</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental des renseignements généraux du Val-d'Oise.</p>
-</td>
-<td>
-<p align="center">Cergy-Pontoise</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">80</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental des renseignements généraux.</p>
-</td>
-<td>
-<p align="center">Bastia</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">80</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental des renseignements généraux.</p>
-</td>
-<td>
-<p align="center">Arras</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Chef du service de l'arrondissement des renseignements généraux.</p>
-</td>
-<td>
-<p align="center">Bayonne</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">70</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur départemental de la police aux frontières.</p>
-</td>
-<td>
-<p align="center">Calais</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2">
-<p>Directeur départemental de la police aux frontières.</p>
-</td>
-<td rowspan="2">
-<p align="center">Cayenne</p>
-</td>
-<td rowspan="2">
-<p align="center">1</p>
-</td>
-<td rowspan="2">
-<p align="center">60</p>
-</td>
-</tr>
-</tbody>
-</table>
+3° Chef de circonscription de sécurité publique ;
 
-3° Chef de circonscription de sécurité publique (CSP) ; chef de district et commissaire central ; commissaire central et commissaire central adjoint de niveau 1
+chef de district commissaire central ; commissaire central
 
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center">DÉSIGNATION DES EMPLOIS</p>
+<th>
+<br/>DÉSIGNATION DES EMPLOIS <br/>
+</th>
+<th>
+<br/>DÉSIGNATION <p>des villes <br/>
+</p>
+</th>
+<th>
+<br/>NOMBRE <p>de bénéficiaires <br/>
+</p>
+</th>
+<th>
+<br/>NOMBRE DE POINTS <br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de circonscription. <br/>
 </td>
-<td>
-<p align="center">DESIGNTION </p>
-<br/>
-<p align="center">des villes</p>
+<td align="center">
+<br/>Corbeil <br/>
 </td>
-<td>
-<p align="center">NOMBRE </p>
-<br/>
-<p align="center">de bénéficiaires</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">NOMBRE DE POINTS </p>
-<br/>
-<p align="center">par emploi</p>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Chef de circonscription.</p>
+<td align="center">
+<br/>Chef de circonscription. <br/>
 </td>
-<td>
-<p align="center">Corbeil</p>
+<td align="center">
+<br/>Vitrolles <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Chef de circonscription.</p>
-</td>
-<td>
-<p align="center">Vitrolles</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">60</p>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Chef de circonscription.</p>
+<td align="center">
+<br/>Chef de circonscription. <br/>
 </td>
-<td>
-<p align="center">Louviers - Val de Reuil</p>
+<td align="center">
+<br/>Louviers-Val de Reuil <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Chef de circonscription.</p>
-</td>
-<td>
-<p align="center">Dreux</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">60</p>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Chef de circonscription.</p>
+<td align="center">
+<br/>Chef de circonscription. <br/>
 </td>
-<td>
-<p align="center">Dammarie-les-Lys</p>
+<td align="center">
+<br/>Dreux <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Chef de circonscription.</p>
-</td>
-<td>
-<p align="center">Chessy</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">60</p>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Chef de circonscription.</p>
+<td align="center">
+<br/>Chef de circonscription. <br/>
 </td>
-<td>
-<p align="center">Poissy</p>
+<td align="center">
+<br/>Dammarie-les-lys <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Chef de circonscription.</p>
-</td>
-<td>
-<p align="center">Conflans-sainte-Honorine</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">60</p>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Chef de circonscription.</p>
+<td align="center">
+<br/>Chef de circonscription. <br/>
 </td>
-<td>
-<p align="center">Les Mureaux</p>
+<td align="center">
+<br/>Chessy <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Chef de circonscription.</p>
-</td>
-<td>
-<p align="center">Sartrouville</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">60</p>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Chef de circonscription.</p>
+<td align="center">
+<br/>Chef de circonscription. <br/>
 </td>
-<td>
-<p align="center">Trappes</p>
+<td align="center">
+<br/>Poissy <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Chef de circonscription.</p>
-</td>
-<td>
-<p align="center">La Seyne-sur-Mer</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">60</p>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Chef de circonscription.</p>
+<td align="center">
+<br/>Chef de circonscription. <br/>
 </td>
-<td>
-<p align="center">Epinay-sur-Seine</p>
+<td align="center">
+<br/>Conflans- <p>Sainte-Honorine <br/>
+</p>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Chef de circonscription.</p>
-</td>
-<td>
-<p align="center">La Courneuve</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">60</p>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Chef de circonscription.</p>
+<td align="center">
+<br/>Chef de circonscription. <br/>
 </td>
-<td>
-<p align="center">Garges-lès-Gonesse</p>
+<td align="center">
+<br/>Les Mureaux <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Chef de circonscription.</p>
-</td>
-<td>
-<p align="center">Basse-Terre</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">60</p>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Chef de circonscription.</p>
+<td align="center">
+<br/>Chef de circonscription. <br/>
 </td>
-<td>
-<p align="center">Le Port</p>
+<td align="center">
+<br/>Sartrouville <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Chef de circonscription.</p>
-</td>
-<td>
-<p align="center">Saint-Pierre</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">60</p>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Chef de circonscription.</p>
+<td align="center">
+<br/>Chef de circonscription. <br/>
 </td>
-<td>
-<p align="center">Arras</p>
+<td align="center">
+<br/>Trappes <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Chef de circonscription.</p>
-</td>
-<td>
-<p align="center">Vernon</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">60</p>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Chef de circonscription.</p>
+<td align="center">
+<br/>Chef de circonscription. <br/>
 </td>
-<td>
-<p align="center">Annemasse</p>
+<td align="center">
+<br/>La Seyne-sur-Mer <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Chef de district et commissaire central.</p>
-</td>
-<td>
-<p align="center">Valenciennes</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">60</p>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Chef de district et commissaire central.</p>
+<td align="center">
+<br/>Chef de circonscription. <br/>
 </td>
-<td>
-<p align="center">Dunkerque</p>
+<td align="center">
+<br/>Epinay-sur-Seine <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Chef de district et commissaire central.</p>
-</td>
-<td>
-<p align="center">Douai</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">60</p>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Chef de district et commissaire central.</p>
+<td align="center">
+<br/>Chef de circonscription. <br/>
 </td>
-<td>
-<p align="center">Maubeuge</p>
+<td align="center">
+<br/>La Courneuve <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Chef de district et commissaire central.</p>
-</td>
-<td>
-<p align="center">Bayonne</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">60</p>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Chef de district et commissaire central.</p>
+<td align="center">
+<br/>Chef de circonscription. <br/>
 </td>
-<td>
-<p align="center">Le Havre</p>
+<td align="center">
+<br/>Garges-lès-Gonesse <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Chef de district et commissaire central.</p>
-</td>
-<td>
-<p align="center">Meaux</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">60</p>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Chef de district et commissaire central.</p>
+<td align="center">
+<br/>Chef de circonscription. <br/>
 </td>
-<td>
-<p align="center">Mantes-la-Jolie</p>
+<td align="center">
+<br/>Basse-Terre <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Chef de district et commissaire central.</p>
-</td>
-<td>
-<p align="center">Saint-Germain-en- Laye</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">60</p>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Chef de district et commissaire central.</p>
+<td align="center">
+<br/>Chef de circonscription. <br/>
 </td>
-<td>
-<p align="center">Palaiseau</p>
+<td align="center">
+<br/>Le Port <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Chef de district et commissaire central.</p>
-</td>
-<td>
-<p align="center">Evry</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">60</p>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Chef de district et commissaire central.</p>
+<td align="center">
+<br/>Chef de circonscription. <br/>
 </td>
-<td>
-<p align="center">Juvisy-sur-Orge</p>
+<td align="center">
+<br/>Saint-Pierre <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Chef de district et commissaire central.</p>
-</td>
-<td>
-<p align="center">Asnières</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">60</p>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Chef de district et commissaire central.</p>
+<td align="center">
+<br/>Chef de circonscription. <br/>
 </td>
-<td>
-<p align="center">Antony</p>
+<td align="center">
+<br/>Arras <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Chef de district et commissaire central.</p>
-</td>
-<td>
-<p align="center">Nanterre</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">60</p>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Chef de district et commissaire central.</p>
+<td align="center">
+<br/>Chef de circonscription. <br/>
 </td>
-<td>
-<p align="center">Montreuil</p>
+<td align="center">
+<br/>Vernon <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Chef de district et commissaire central.</p>
-</td>
-<td>
-<p align="center">Saint-Denis</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">60</p>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Chef de district et commissaire central.</p>
+<td align="center">
+<br/>Chef de circonscription. <br/>
 </td>
-<td>
-<p align="center">Aulnay-sous-Bois</p>
+<td align="center">
+<br/>Annemasse <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Chef de district et commissaire central.</p>
-</td>
-<td>
-<p align="center">Bobigny</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">60</p>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Chef de district et commissaire central.</p>
+<td align="center">
+<br/>Chef de district et commissaire central. <br/>
 </td>
-<td>
-<p align="center">Créteil</p>
+<td align="center">
+<br/>Valenciennes <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Chef de district et commissaire central.</p>
-</td>
-<td>
-<p align="center">L'Hay -les-Roses</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">60</p>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Chef de district et commissaire central.</p>
+<td align="center">
+<br/>Chef de district et commissaire central. <br/>
 </td>
-<td>
-<p align="center">Argenteuil</p>
+<td align="center">
+<br/>Dunkerque <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Chef de district et commissaire central.</p>
-</td>
-<td>
-<p align="center">Cergy-Pontoise</p>
-</td>
-<td>
-<pre> </pre>
-</td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Chef de district et commissaire central.</p>
+<td align="center">
+<br/>Chef de district et commissaire central. <br/>
 </td>
-<td>
-<p align="center">Sarcelles</p>
+<td align="center">
+<br/>Douai <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Chef de district et commissaire central.</p>
-</td>
-<td>
-<p align="center">Martigues</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">60</p>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Chef de district et commissaire central.</p>
+<td align="center">
+<br/>Chef de district et commissaire central. <br/>
 </td>
-<td>
-<p align="center">Béthune</p>
+<td align="center">
+<br/>Maubeuge <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Chef de district et commissaire central.</p>
-</td>
-<td>
-<p align="center">Melun</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">60</p>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Chef de district et commissaire central.</p>
+<td align="center">
+<br/>Chef de district et commissaire central. <br/>
 </td>
-<td>
-<p align="center">Boulogne-Billancourt</p>
+<td align="center">
+<br/>Bayonne <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Chef de district et commissaire central.</p>
-</td>
-<td>
-<p align="center">Torcy</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">60</p>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Chef de district et commissaire central.</p>
+<td align="center">
+<br/>Chef de district et commissaire central. <br/>
 </td>
-<td>
-<p align="center">Elancourt</p>
+<td align="center">
+<br/>Le Havre <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Chef de district et commissaire central.</p>
-</td>
-<td>
-<p align="center">Versailles</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">60</p>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Chef du commissariat divisionnaire.</p>
+<td align="center">
+<br/>Chef de district et commissaire central. <br/>
 </td>
-<td>
-<p align="center">Lille</p>
+<td align="center">
+<br/>Meaux <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Commissaire central.</p>
-</td>
-<td>
-<p align="center">Thionville</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">60</p>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Commissaire central.</p>
+<td align="center">
+<br/>Chef de district et commissaire central. <br/>
 </td>
-<td>
-<p align="center">Montbéliard</p>
+<td align="center">
+<br/>Mantes-la-Jolie <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Commissaire central.</p>
-</td>
-<td>
-<p align="center">Cherbourg</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">60</p>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Commissaire central.</p>
+<td align="center">
+<br/>Chef de district et commissaire central. <br/>
 </td>
-<td>
-<p align="center">Creil</p>
+<td align="center">
+<br/>Saint-Germain- <p>en-Laye <br/>
+</p>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Commissaire central.</p>
-</td>
-<td>
-<p align="center">Lens</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">60</p>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Commissaire central.</p>
+<td align="center">
+<br/>Chef de district et commissaire central. <br/>
 </td>
-<td>
-<p align="center">Calais</p>
+<td align="center">
+<br/>Palaiseau <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">60</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Commissaire central.</p>
-</td>
-<td>
-<p align="center">Le Kremlin-Bicêtre</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">60</p>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Commissaire central</p>
+<td align="center">
+<br/>Chef de district et commissaire central. <br/>
 </td>
-<td>
-<p align="center">Béziers</p>
+<td align="center">
+<br/>Evry <br/>
 </td>
-<td>
-<p align="center">1</p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">60</p>
+<td align="center">
+<br/>60 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de district et commissaire central. <br/>
+</td>
+<td align="center">
+<br/>Juvisy-sur-Orge <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de district et commissaire central. <br/>
+</td>
+<td align="center">
+<br/>Asnières <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de district et commissaire central. <br/>
+</td>
+<td align="center">
+<br/>Antony <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de district et commissaire central. <br/>
+</td>
+<td align="center">
+<br/>Nanterre <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de district et commissaire central. <br/>
+</td>
+<td align="center">
+<br/>Montreuil <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de district et commissaire central. <br/>
+</td>
+<td align="center">
+<br/>Saint-Denis <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de district et commissaire central. <br/>
+</td>
+<td align="center">
+<br/>Aulnay-sous-Bois <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de district et commissaire central. <br/>
+</td>
+<td align="center">
+<br/>Bobigny <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de district et commissaire central. <br/>
+</td>
+<td align="center">
+<br/>Vitry-sur-Seine <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de district et commissaire central. <br/>
+</td>
+<td align="center">
+<br/>Créteil <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de district et commissaire central.<br/>
+</td>
+<td align="center">
+<br/>L'Hay-les-Roses <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de district et commissaire central. <br/>
+</td>
+<td align="center">
+<br/>Argenteuil <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de district et commissaire central. <br/>
+</td>
+<td align="center">
+<br/>Cergy-Pontoise <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de district et commissaire central. <br/>
+</td>
+<td align="center">
+<br/>Sarcelles <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de district et commissaire central. <br/>
+</td>
+<td align="center">
+<br/>Martigues <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de district et commissaire central. <br/>
+</td>
+<td align="center">
+<br/>Béthune <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de district et commissaire central. <br/>
+</td>
+<td align="center">
+<br/>Melun <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de district et commissaire central. <br/>
+</td>
+<td align="center">
+<br/>Boulogne-Billancourt <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de district et commissaire central. <br/>
+</td>
+<td align="center">
+<br/>Torcy <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de district et commissaire central. <br/>
+</td>
+<td align="center">
+<br/>Elancourt <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de district et commissaire central. <br/>
+</td>
+<td align="center">
+<br/>Versailles <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Commissaire central. <br/>
+</td>
+<td align="center">
+<br/>Thionville <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Commissaire central. <br/>
+</td>
+<td align="center">
+<br/>Montbéliard <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Commissaire central. <br/>
+</td>
+<td align="center">
+<br/>Cherbourg <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Commissaire central. <br/>
+</td>
+<td align="center">
+<br/>Creil <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Commissaire central. <br/>
+</td>
+<td align="center">
+<br/>Lens <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Commissaire central. <br/>
+</td>
+<td align="center">
+<br/>Calais <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Commissaire central. <br/>
+</td>
+<td align="center">
+<br/>Le Kremlin-Bicêtre <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de circonscription. <br/>
+</td>
+<td align="center">
+<br/>Béziers <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>60 <br/>
 </td>
 </tr>
 </tbody>
