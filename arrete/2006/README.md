@@ -242,7 +242,6 @@
 - [Arrêté du 30 décembre 2005 (AGRP0502750A)](arrete-du-30-decembre-2005-agrp0502750a)
 - [Arrêté du 30 décembre 2005 (INTC0500859A)](arrete-du-30-decembre-2005-intc0500859a)
 - [Arrêté du 30 décembre 2005 (INTC0500860A)](arrete-du-30-decembre-2005-intc0500860a)
-- [Arrêté du 30 décembre 2005 (MJSK0570269A)](arrete-du-30-decembre-2005-mjsk0570269a)
 - [Arrêté du 30 juin 2006 (ECOP0600220A)](arrete-du-30-juin-2006-ecop0600220a)
 - [Arrêté du 30 novembre 2006 (INTE0600951A)](arrete-du-30-novembre-2006-inte0600951a)
 - [Arrêté du 30 novembre 2006 (MENT0602397A)](arrete-du-30-novembre-2006-ment0602397a)
