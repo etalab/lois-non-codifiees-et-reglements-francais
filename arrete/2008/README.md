@@ -448,6 +448,7 @@
 - [Arrêté du 29 juillet 2008 (JUSK0810522A)](arrete-du-29-juillet-2008-jusk0810522a)
 - [Arrêté du 29 juillet 2008 (MCCB0812693A)](arrete-du-29-juillet-2008-mccb0812693a)
 - [Arrêté du 29 juillet 2008 (MTSW0818940A)](arrete-du-29-juillet-2008-mtsw0818940a)
+- [Arrêté du 30 décembre 2005 (MJSK0570269A)](arrete-du-30-decembre-2005-mjsk0570269a)
 - [Arrêté du 30 décembre 2008 (ESRF0820737A)](arrete-du-30-decembre-2008-esrf0820737a)
 - [Arrêté du 30 juillet 2008 (BCFB0818384A)](arrete-du-30-juillet-2008-bcfb0818384a)
 - [Arrêté du 30 juillet 2008 (DEFD0819660A)](arrete-du-30-juillet-2008-defd0819660a)
