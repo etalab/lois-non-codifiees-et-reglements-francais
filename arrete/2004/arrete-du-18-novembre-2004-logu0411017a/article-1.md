@@ -2,37 +2,35 @@
 
 Les dispositifs de sécurité à mettre en place dans les installations d'ascenseurs en application de l'article R. 125-1-2 du code de la construction et de l'habitation doivent respecter les prescriptions suivantes en fonction des caractéristiques des installations existantes :
 
-I. - Dispositifs à mettre en place avant le 3 juillet 2008
+I.-Dispositifs à mettre en place avant le 31 décembre 2010
 
-1. Serrures munies de dispositifs de contrôle de la fermeture
-
-et du verrouillage des portes palières
+1. Serrures munies de dispositifs de contrôle de la fermeture et du verrouillage des portes palières
 
 Les serrures de porte palière qui doivent être remplacées ou améliorées sont celles qui présentent l'une des caractéristiques suivantes :
 
-- le contrôle électrique de la fermeture de la porte lançant l'opération de verrouillage ou de départ de la cabine est :
+-le contrôle électrique de la fermeture de la porte lançant l'opération de verrouillage ou de départ de la cabine est :
 
-- soit absent ;
+-soit absent ;
 
-- soit non lié directement au vantail de la porte ;
+-soit non lié directement au vantail de la porte ;
 
-- soit non réalisé par un contact électrique à arrachement ;
+-soit non réalisé par un contact électrique à arrachement ;
 
-- le contrôle électrique du verrouillage de la porte palière est :
+-le contrôle électrique du verrouillage de la porte palière est :
 
-- soit absent ;
+-soit absent ;
 
-- soit réalisé par un mécanisme, rigide ou non, ne reliant pas le pêne au contact du contrôle de verrouillage par une liaison directe ;
+-soit réalisé par un mécanisme, rigide ou non, ne reliant pas le pêne au contact du contrôle de verrouillage par une liaison directe ;
 
-- soit réalisé par un mécanisme dont une défaillance déjà identifiée permet la fermeture du contact de contrôle de verrouillage alors que le pêne n'est pas en position de verrouillage ;
+-soit réalisé par un mécanisme dont une défaillance déjà identifiée permet la fermeture du contact de contrôle de verrouillage alors que le pêne n'est pas en position de verrouillage ;
 
-- soit permet d'avoir le pêne en position de verrouillage alors qu'il n'est pas engagé dans la gâche. Si un mécanisme est utilisé pour autoriser l'engagement du pêne, une défaillance de ce mécanisme ne doit pas conduire à un établissement du contact électrique de verrouillage ;
+-soit permet d'avoir le pêne en position de verrouillage alors qu'il n'est pas engagé dans la gâche. Si un mécanisme est utilisé pour autoriser l'engagement du pêne, une défaillance de ce mécanisme ne doit pas conduire à un établissement du contact électrique de verrouillage ;
 
-- soit non réalisé par un contact électrique à arrachement ;
+-soit non réalisé par un contact électrique à arrachement ;
 
-- les contacts électriques ne sont pas protégés contre les projections de liquides observables ;
+-les contacts électriques ne sont pas protégés contre les projections de liquides observables ;
 
-- la serrure n'est pas munie d'un système de déverrouillage de secours dont la commande se situe à chaque palier.
+-la serrure n'est pas munie d'un système de déverrouillage de secours dont la commande se situe à chaque palier.
 
 Le propriétaire doit remplacer ces serrures par des ensembles de pêne, gâche et contacts électriques, ayant satisfait à des essais de type tels que définis à l'annexe V du décret du 24 août 2000 susvisé.
 
@@ -48,9 +46,9 @@ Dans le cas d'ascenseurs équipés de portes palières battantes, le propriétai
 
 a) Un avertisseur lumineux et sonore, d'une puissance de 65 dB (A) minimum, à chaque niveau desservi par l'ascenseur, se déclenchant si la cabine n'est pas arrêtée dans la zone de déverrouillage de la porte palière concernée ;
 
-- lors du déverrouillage ;
+-lors du déverrouillage ;
 
-- lors de l'ouverture de la porte palière.
+-lors de l'ouverture de la porte palière.
 
 La désactivation et la réactivation de ce dispositif d'alerte ne doivent être possibles que par une personne autorisée, intervenant sur le site même.
 
@@ -76,17 +74,15 @@ Les ascenseurs concernés sont les ascenseurs dont la clôture de la gaine ne sa
 
 Le dispositif à mettre en place doit être tel que :
 
-- la hauteur de la paroi de service mesurée verticalement au-dessus du niveau du palier soit au minimum de 3,50 m ;
+-la hauteur de la paroi de service mesurée verticalement au-dessus du niveau du palier soit au minimum de 3, 50 m ;
 
-- la hauteur des autres parois, augmentée de la distance libre horizontale de ces parois aux parties mobiles de l'ascenseur (cabine, contrepoids ou masse d'équilibrage), soit au moins de 3 m, sans que la hauteur minimale de la paroi, mesurée verticalement au niveau du palier ou du nez de marche d'escalier, ne soit inférieure à 2,50 m ;
+-la hauteur des autres parois, augmentée de la distance libre horizontale de ces parois aux parties mobiles de l'ascenseur (cabine, contrepoids ou masse d'équilibrage), soit au moins de 3 m, sans que la hauteur minimale de la paroi, mesurée verticalement au niveau du palier ou du nez de marche d'escalier, ne soit inférieure à 2, 50 m ;
 
-- la dimension des ouvertures ou mailles des parois soit égale ou inférieure à 10 mm x 60 mm ;
+-la dimension des ouvertures ou mailles des parois soit égale ou inférieure à 10 mm x 60 mm ;
 
-- l'atteinte de l'un des éléments de déverrouillage des serrures de portes palières, à l'aide d'une tige rigide de 30 cm, soit impossible.
+-l'atteinte de l'un des éléments de déverrouillage des serrures de portes palières, à l'aide d'une tige rigide de 30 cm, soit impossible.
 
-5. Parachute de cabine et limiteur de vitesse
-
-en descente dans un ascenseur électrique
+5. Parachute de cabine et limiteur de vitesse en descente dans un ascenseur électrique
 
 Les ascenseurs concernés sont les ascenseurs électriques présentant l'une des caractéristiques suivantes :
 
@@ -96,13 +92,13 @@ b) Ascenseurs non munis d'un limiteur de vitesse ;
 
 c) Ascenseurs munis d'un parachute de cabine :
 
-- à rupture de suspente ;
+-à rupture de suspente ;
 
-- ou présentant un fonctionnement aléatoire affectant la sécurité ;
+-ou présentant un fonctionnement aléatoire affectant la sécurité ;
 
-- ou à prise instantanée, pour une vitesse nominale de l'ascenseur supérieure à 1 m/s, même piloté par un limiteur de vitesse ;
+-ou à prise instantanée, pour une vitesse nominale de l'ascenseur supérieure à 1 m / s, même piloté par un limiteur de vitesse ;
 
-d) Ascenseurs munis d'un parachute de cabine à prise instantanée se déclenchant à une vitesse supérieure à 140 % de la vitesse nominale de l'ascenseur ou supérieure à 1,30 m/s.
+d) Ascenseurs dont la vitesse nominale est supérieure à 0, 8 m / s et inférieure ou égale à 1 m / s, munis d'un parachute de cabine à prise instantanée se déclenchant à une vitesse supérieure à 140 % de la vitesse nominale ou supérieure à 1, 3 m / s.
 
 Le propriétaire doit mettre en place :
 
@@ -116,19 +112,17 @@ Cas c : le parachute existant par un parachute approprié à la vitesse nominale
 
 Cas d :
 
-- soit le parachute existant par un parachute à effet amorti, approprié à la vitesse nominale de l'ascenseur ;
+-soit le parachute existant par un parachute à effet amorti, approprié à la vitesse nominale de l'ascenseur ;
 
-- soit le limiteur existant pour obtenir une vitesse d'enclenchement appropriée à la vitesse nominale de l'ascenseur et au maximum de 1,30 m/s pour un parachute à prise instantanée ;
+-soit le limiteur existant pour obtenir une vitesse d'enclenchement inférieure ou égale à 140 % de la vitesse nominale de l'ascenseur et au maximum de 1, 3 m / s pour un parachute à prise instantanée.
 
-- soit les deux.
-
-Dans tous les cas, les composants (parachute, limiteur de vitesse) à mettre en place doivent avoir satisfait à des essais de type et être munis du marquage CE.
+Dans tous les cas, les composants (parachute, limiteur de vitesse) à mettre en place doivent avoir satisfait à des essais de type et être munis du marquage CE..
 
 6. Dispositif destiné à éviter toute chute en gaine lorsque la cabine est immobilisée en dehors de la zone de déverrouillage
 
-Les ascenseurs concernés sont les ascenseurs équipés d'un garde-pieds de cabine dont la hauteur de la partie verticale est inférieure à 0,75 m.
+Les ascenseurs concernés sont les ascenseurs équipés d'un garde-pieds de cabine dont la hauteur de la partie verticale est inférieure à 0, 75 m.
 
-Le propriétaire doit installer un garde-pieds dont la hauteur de la partie verticale en position d'emploi obtenue de façon automatique ou manuelle est d'au moins 0,75 m.
+Le propriétaire doit installer un garde-pieds dont la hauteur de la partie verticale en position d'emploi obtenue de façon automatique ou manuelle est d'au moins 0, 75 m.
 
 Le dispositif doit être rigide en position déployée et présenter une résistance mécanique appropriée.
 
@@ -138,15 +132,15 @@ Si la position d'emploi du dispositif n'est pas obtenue de façon automatique (s
 
 Les ascenseurs concernés sont :
 
-- les ascenseurs dont le dispositif de commande de la manoeuvre d'inspection est :
+-les ascenseurs dont le dispositif de commande de la manoeuvre d'inspection est :
 
-- soit inexistant ;
+-soit inexistant ;
 
-- soit non conforme aux dispositions réglementaires exigibles après le 21 mars 1980, ou aux exigences du décret du 24 août 2000 susvisé ; il est toutefois admis une vitesse de déplacement de la cabine en manoeuvre d'inspection comprise entre 0,63 m/s et 1 m/s ;
+-soit non conforme aux dispositions réglementaires exigibles après le 21 mars 1980, ou aux exigences du décret du 24 août 2000 susvisé ; il est toutefois admis une vitesse de déplacement de la cabine en manoeuvre d'inspection comprise entre 0, 63 m / s et 1 m / s ;
 
-- les ascenseurs ne comportant pas de dispositif d'arrêt en cuvette et, le cas échéant, dans les locaux de poulies ;
+-les ascenseurs ne comportant pas de dispositif d'arrêt en cuvette et, le cas échéant, dans les locaux de poulies ;
 
-- les ascenseurs ne comportant pas de dispositif de fin de course montée en manoeuvre d'inspection assurant une distance libre minimale de 1,80 m entre le toit de cabine et le plafond de la gaine.
+-les ascenseurs ne comportant pas de dispositif de fin de course montée en manoeuvre d'inspection assurant une distance libre minimale de 1, 80 m entre le toit de cabine et le plafond de la gaine.
 
 Le propriétaire doit mettre en place un dispositif comportant un boîtier de commande de la manoeuvre d'inspection et un dispositif de fin de course montée en manoeuvre d'inspection ainsi qu'un dispositif d'arrêt en cuvette et, le cas échéant, dans les locaux de poulies.
 
@@ -158,11 +152,11 @@ Les ascenseurs concernés sont les ascenseurs dont l'accès au local de machines
 
 Les dispositifs à mettre en place doivent présenter les caractéristiques suivantes :
 
-- échelle d'accès stable et d'emploi sûr, équipé de crinoline si nécessaire, de barre d'accrochage pour la position d'emploi, de crosse de rétablissement en partie supérieure, et accrochée sur un support verrouillable et nécessitant l'usage d'un outil ou d'une clé, lorsque l'échelle n'est pas scellée ;
+-échelle d'accès stable et d'emploi sûr, équipé de crinoline si nécessaire, de barre d'accrochage pour la position d'emploi, de crosse de rétablissement en partie supérieure, et accrochée sur un support verrouillable et nécessitant l'usage d'un outil ou d'une clé, lorsque l'échelle n'est pas scellée ;
 
-- porte d'accès de résistance mécanique et dimensions appropriées, munie d'un dispositif de verrouillage et d'une pancarte de signalisation ;
+-porte d'accès de résistance mécanique et dimensions appropriées, munie d'un dispositif de verrouillage et d'une pancarte de signalisation ;
 
-- trappe d'accès de résistance mécanique et dimensions appropriées, contrebalancée si nécessaire et indégondable, munie d'un dispositif de verrouillage et de pancarte de signalisation.
+-trappe d'accès de résistance mécanique et dimensions appropriées, contrebalancée si nécessaire et indégondable, munie d'un dispositif de verrouillage et de pancarte de signalisation.
 
 Des garde-corps doivent être prévus pour éviter la chute des personnes lorsque la trappe est ouverte.
 
@@ -176,7 +170,7 @@ Le sens d'ouverture de la porte ou du portillon doit être vers l'extérieur de 
 
 Dans le cas du remplacement de la porte ou du portillon, les règles relatives à la résistance mécanique et au feu sont applicables.
 
-II. - Dispositifs à mettre en place avant le 3 juillet 2013
+II.-Dispositifs à mettre en place avant le 3 juillet 2013
 
 1. Système de contrôle de l'arrêt et du maintien à niveau de la cabine d'ascenseur, de nature à assurer, à tous les niveaux desservis, un accès sans danger ainsi que l'accessibilité des personnes handicapées ou à mobilité réduite, dans les ascenseurs installés antérieurement au 1er janvier 1983
 
@@ -184,9 +178,9 @@ Les ascenseurs concernés sont :
 
 a) Les ascenseurs électriques, équipés d'un moteur ne disposant pas d'un dispositif automatique tel que nivelage, isonivelage, ou renivelage permettant d'assurer la précision de 20 mm définie ci-après, et présentant les caractéristiques suivantes :
 
-- monovitesse, de vitesse nominale égale ou supérieure à 0,25 m/s ;
+-monovitesse, de vitesse nominale égale ou supérieure à 0, 25 m / s ;
 
-- bivitesse, dont la vitesse d'approche au palier est égale ou supérieure à 0,25 m/s ;
+-bivitesse, dont la vitesse d'approche au palier est égale ou supérieure à 0, 25 m / s ;
 
 b) Les ascenseurs hydrauliques dont le système de contrôle d'arrêt et de maintien à niveau ne permet pas d'obtenir une différence de niveau maximum entre le seuil de la cabine et le seuil du palier inférieure ou égale à 20 mm.
 
@@ -204,11 +198,11 @@ Les ascenseurs concernés sont ceux qui ne disposent pas d'un dispositif de tél
 
 Le propriétaire doit mettre en place un système de téléalarme :
 
-- présentant les caractéristiques 1 à 3 ci-dessus ;
+-présentant les caractéristiques 1 à 3 ci-dessus ;
 
-- permettant de traiter le risque d'enfermement des intervenants en gaine ;
+-permettant de traiter le risque d'enfermement des intervenants en gaine ;
 
-- associé à un éclairage de secours en cabine.
+-associé à un éclairage de secours en cabine.
 
 Lorsqu'il existe, le service de sécurité des établissements recevant du public doit être instantanément informé des appels émis par le système, parallèlement au service d'intervention.
 
@@ -218,13 +212,13 @@ Les ascenseurs concernés sont :
 
 a) Les ascenseurs dont les portes palières sont munies d'un regard vitré ;
 
-- dont la largeur excède 150 mm, quel que soit le type et l'épaisseur du verre, à moins qu'il ne satisfasse aux critères relatifs aux vitrages de portes palières mentionnés en b ;
+-dont la largeur excède 150 mm, quel que soit le type et l'épaisseur du verre, à moins qu'il ne satisfasse aux critères relatifs aux vitrages de portes palières mentionnés en b ;
 
-- dont la largeur n'excède pas 150 mm, et doté d'un panneau de verre, armé ou non, dont l'épaisseur est inférieure à 6 mm.
+-dont la largeur n'excède pas 150 mm, et doté d'un panneau de verre, armé ou non, dont l'épaisseur est inférieure à 6 mm.
 
 Ces vitrages doivent être remplacés par des vitrages appropriés ou être obturés. Si la solution d'obturation est choisie, il est nécessaire de prévoir un voyant signalant la présence de la cabine au niveau lorsque la porte palière et la porte cabine ne sont pas entraînées simultanément.
 
-b) Les ascenseurs équipés de portes palières vitrées non conformes aux exigences du décret n° 2000-810 du 24 août 2000, ainsi que les ascenseurs équipés de portes palières vitrées dont les panneaux de verre ne sont pas constitués au minimum de verre feuilleté 4/4/2, et que les ascenseurs équipés de portes palières vitrées dont les panneaux de verre ne sont pas maintenus dans des cadres métalliques sur les quatre côtés.
+b) Les ascenseurs équipés de portes palières vitrées non conformes aux exigences du décret n° 2000-810 du 24 août 2000, ainsi que les ascenseurs équipés de portes palières vitrées dont les panneaux de verre ne sont pas constitués au minimum de verre feuilleté 4 / 4 / 2, et que les ascenseurs équipés de portes palières vitrées dont les panneaux de verre ne sont pas maintenus dans des cadres métalliques sur les quatre côtés.
 
 Ces portes doivent être remplacées ou équipées de vitrages présentant une résistance mécanique suffisante et maintenus dans des cadres métalliques.
 
@@ -234,11 +228,11 @@ Dans tous les cas, l'intégrité de la résistance au feu de la porte palière d
 
 Les ascenseurs concernés sont les ascenseurs à entraînement hydraulique non munis de dispositifs ou de combinaison de dispositifs empêchant que la cabine :
 
-- ne tombe en chute libre ;
+-ne tombe en chute libre ;
 
-- ne descende à vitesse excessive ;
+-ne descende à vitesse excessive ;
 
-- ne dérive de plus de 12 cm par rapport au niveau d'arrêt, et quitte également la zone de déverrouillage de la porte palière.
+-ne dérive de plus de 12 cm par rapport au niveau d'arrêt, et quitte également la zone de déverrouillage de la porte palière.
 
 Le dispositif ou la combinaison de dispositifs à installer doit être tels que les exigences ci-dessus soient satisfaites.
 
@@ -270,7 +264,7 @@ Les installations concernées sont celles où l'éclairement des zones de travai
 
 Le propriétaire doit mettre en place un éclairage satisfaisant au minimum à ces valeurs.
 
-III. - Dispositifs à mettre en place avant le 3 juillet 2018
+III.-Dispositifs à mettre en place avant le 3 juillet 2018
 
 1. Système de contrôle de l'arrêt et du maintien à niveau de la cabine d'ascenseur de nature à assurer, à tous les niveaux desservis, un accès sans danger ainsi que l'accessibilité des personnes handicapées ou à mobilité réduite dans les ascenseurs installés postérieurement au 31 décembre 1982
 
@@ -278,9 +272,9 @@ Les ascenseurs concernés par cette disposition sont :
 
 a) Les ascenseurs électriques équipés d'un moteur ne disposant pas d'un dispositif automatique tel que nivelage, isonivelage ou renivelage permettant d'assurer la précision de 20 mm définie ci-après et présentant les caractéristiques suivantes ;
 
-- monovitesse, de vitesse nominale égale ou supérieure à 0,25 m/s ;
+-monovitesse, de vitesse nominale égale ou supérieure à 0, 25 m / s ;
 
-- bivitesse, dont la vitesse d'approche au palier est égale ou supérieure à 0,25 m/s ;
+-bivitesse, dont la vitesse d'approche au palier est égale ou supérieure à 0, 25 m / s ;
 
 b) Les ascenseurs hydrauliques dont le système de contrôle d'arrêt et de maintien à niveau ne permet pas d'obtenir une différence de niveau maximum entre le seuil de la cabine et le seuil du palier inférieure ou égale à 20 mm.
 
@@ -292,10 +286,10 @@ Les ascenseurs concernés sont les ascenseurs électriques à adhérence, non mu
 
 Le dispositif à installer doit :
 
-- comprendre des organes de contrôle et de réduction de la vitesse ;
+-comprendre des organes de contrôle et de réduction de la vitesse ;
 
-- détecter un mouvement incontrôlé de la cabine en survitesse montée ;
+-détecter un mouvement incontrôlé de la cabine en survitesse montée ;
 
-- provoquer l'arrêt de la cabine, ou tout au moins réduire sa vitesse à celle pour laquelle l'amortisseur de contrepoids est conçu ;
+-provoquer l'arrêt de la cabine, ou tout au moins réduire sa vitesse à celle pour laquelle l'amortisseur de contrepoids est conçu ;
 
-- fonctionner, sauf redondance de construction, sans l'aide d'aucun élément de l'ascenseur qui, en service normal, contrôle la vitesse ou la décélération ou arrête la cabine.
+-fonctionner, sauf redondance de construction, sans l'aide d'aucun élément de l'ascenseur qui, en service normal, contrôle la vitesse ou la décélération ou arrête la cabine.
