@@ -78,9 +78,7 @@ EGTIM :
 
 - 95, quai Elormenais, 44800 Saint-Herblain puis 16, rue Schumann, ZI de la Loire, 44800 Saint-Herblain : de 1982 à 1985.
 
-Electro Navale Electronique :
-
-- 332, boulevard Marcel-Paul, 44806 Saint-Herblain Cedex : depuis sa création.
+Electronavale électronique, 6, rue Centrale, puis 332, boulevard Marcel-Paul, 44806 Saint-Herblain Cedex, depuis sa création à 1999.
 
 Entreprise Alain, 30, rue du Capitaine-Hervouet la rivière , 44000 Nantes : de 1970 à 1971.
 
@@ -636,7 +634,7 @@ Général Diffusion :
 
 Granoux, zone industrielle Les Paluds, 13400 Aubagne, de 1972 à 1976.
 
-IMS (Internationale marine services), Le Pin-Rolland, 83430 Saint-Mandrier : depuis 1989.
+IMS (Internationale marine services), Le Pin-Rolland, 83430 Saint-Mandrier : depuis 1989 à 1996.
 
 Industrie marine, 1, avenue Kennedy, 13600 La Ciotat : de 1968 à 1976.
 

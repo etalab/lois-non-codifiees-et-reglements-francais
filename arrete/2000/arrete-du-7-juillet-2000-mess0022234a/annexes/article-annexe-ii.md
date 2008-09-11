@@ -64,7 +64,9 @@ ACTP (Association cherbourgeoise de travail protégé) :
 
 SA Agence maritime Deshayes et Cie, 20 bis, rue Alfred-Rossel, 50100 Cherbourg. Deshayes Entreprise (SNC), 20, rue Cachin, 50100 Cherbourg : de 1966 à 1971.
 
-Amiot/Constructions mécaniques de Normandie/Compagnie normande de l'industrie du bois/Atelier de constructions navales de Cherbourg/Ateliers et chantiers de Cherbourg/Société des chantiers cherbourgeois, 10, quai de Caligny ; 24-64, boulevard Maritime ; 24-144, boulevard Félix-Amiot ; 51, rue de la Bretonnière ; 5 et 135, rue Dom Pedro, 50100 Cherbourg : depuis 1955.
+Amiot, 135, rue Dom-Pedro, 50100 Cherbourg, depuis 1955. Constructions mécaniques de Normandie/Compagnie normande de
+
+l'industrie du bois/Atelier de construction navale de Cherbourg/Atelier et chantiers de Cherbourg, 24-144, boulevard Félix-Amiot, 50100 Cherbourg, 51, rue de la Bretonnière, 50100 Cherbourg, 135, rue Dom-Pedro, 50100 Cherbourg, depuis 1955.
 
 Arcade/Arcade Sécurité SARL :
 
@@ -1218,7 +1220,7 @@ SERMI :
 
 service des bacs et passage d'eau du conseil général de la Seine-Maritime, hôtel du département, quai Jean-Moulin, 76101 Rouen Cedex 1, de 1947 à 1996
 
-Service technique de l'outillage, des ateliers et centre d'activité de la réparation navale et du dragage du Port autonome de Rouen, 34, boulevard Boisguilbert, BP 4075, 76100 Rouen : de 1947 à 1997.
+Service technique de l'outillage, des ateliers et centre d'activité de la réparation navale et du dragage du Port autonome de Rouen, 34, boulevard , BP 4075, 76100 Rouen : de 1947 à 1997.
 
 Service technique de l'outillage, des ateliers et centre d'activité de la réparation navale et du dragage du Port autonome du Havre, 76600 Le Havre : depuis 1947.
 
@@ -1653,8 +1655,6 @@ Hivart Daniel, Jules :
 - 14, allée Noroit, 62670 Etaples : depuis 1988.
 
 HRC, 140, avenue Sarraz-Bournet, 62480 Le Portel : depuis 1995.
-
-Ingénieries-réalisations, 5, rue de la Batellerie, 59140 Dunkerque : depuis 1987 à 1983.
 
 Injection et régulation marine (IRM), 243, avenue Maurice-Berteaux, BP 6, 59430 Saint-Pol-sur-Mer, de 1980 à 2001.
 
