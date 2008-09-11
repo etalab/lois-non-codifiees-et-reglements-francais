@@ -26,9 +26,11 @@ Le modèle de la marque s'entend :
 
 - lorsque la marque est constituée par "un relief, la forme du produit ou de son conditionnement", de sa reproduction plane (exemple : photographie...).
 
-d) Brève description de la marque et de ses couleurs (facultative) :
+d) Brève description de la marque et de ses couleurs :
 
-Cette description doit se limiter à l'énoncé des caractéristiques de la marque pouvant avoir une incidence sur la portée de la protection demandée.
+Cette description doit se limiter à l'énoncé des caractéristiques de la marque pouvant avoir une incidence sur la portée de la protection demandée. Elle est facultative.
+
+Toutefois, si la marque n'est constituée que de la représentation d'une couleur ou d'une combinaison de couleurs, la description devra comporter obligatoirement un code d'identification internationalement reconnu de cette couleur.
 
 e) Enumération des produits ou services auxquels s'applique la marque :
 

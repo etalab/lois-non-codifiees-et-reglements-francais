@@ -1,3 +1,3 @@
 # Article 15
 
-Les dispositions de l'article 8 de la loi n° 91-7 du 4 janvier 1991, et des articles 12 à 17 du décret n° 92-100 du 30 janvier 1992 susvisés sont applicables aux demandes d'enregistrement déposées à compter du 28 décembre 1991, aux enregistrements internationaux effectués à compter du 28 décembre 1991 et aux extensions territoriales postérieures à la France inscrites au registre international à compter de cette même date qui portent sur des produits relevant au moins de la classe 2, 20 ou 27 de la classification internationale des produits et services établie en application de l'Arrangement de Nice du 15 juin 1957.
+Lorsqu'ils sont établis et transmis à l'Institut national de la propriété industrielle par voie électronique, les documents sont réputés satisfaire aux exigences relatives au nombre d'exemplaires requis.

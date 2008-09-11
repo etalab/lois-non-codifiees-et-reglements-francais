@@ -6,4 +6,4 @@ a) De la copie de la demande d'enregistrement de la marque présentée auprès d
 
 b) D'un extrait de la législation nationale du pays où la demande d'enregistrement a été présentée faisant état de la nécessité d'un enregistrement préalable en France ou de la copie de l'invitation faite au déposant par l'administration de ce pays d'avoir à justifier de l'enregistrement de la marque en France ;
 
-c) Pour les demandes d'enregistrement international présentées selon l'Arrangement de Madrid, de la justification du paiement de la redevance de demande d'inscription au registre international des marques prévue à l'article 45 du décret n° 92-100 du 30 janvier 1992 susvisé.
+c) Pour les demandes d'enregistrement international présentées selon l'Arrangement et le Protocole de Madrid, de la justification du paiement de la redevance de demande d'inscription au registre international des marques prévue à l'article R. 411-7 (4°) du code de la propriété intellectuelle.
