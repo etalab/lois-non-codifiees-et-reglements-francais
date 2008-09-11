@@ -42,7 +42,7 @@ Bitulac, 71360 Epinac : de 1962 à 1997 ;
 
 Etablissements Knauf-Isba/Ferlam/SAF/Ferodo/Isba Isolation : ZI Sud, route de Lyon, 89000 Auxerre : de 1969 à 1995 ;
 
-Etablissements Piques/Exploitation des établissements Piques, 21440 Poncey-sur-Lignon ; puis 1, rue Champeau, ZAE Cap Nord, BP 72, 21074 Dijon : depuis 1906 ;
+ÉTABLISSEMENTS PIQUES/EXPLOITATION DES ÉTABLISSEMENT PIQUES : 21440 Poncey-sur-l'Ignon, puis 1, rue Champeau, ZAE Cap Nord, BP 72, 21074 Dijon, de 1906 à 1999 ;
 
 Eternit, établissement de Vitry, BP 8, 71600 Paray-le-Monial : de 1941 à 1997 ;
 
@@ -794,7 +794,7 @@ Société lilloise de matériaux enrobés (SLME), Port fluvial, 59211 Santes : d
 
 Basse-Normandie
 
-Cegedur puis Tréfimétaux : 37 et 39, rue Georges-Landry, 14160 Dives-sur-Mer, de 1946 à 1986 ;
+CEGEDUR puis TREFIMETAUX : 37 et 39, rue Georges-Landry, 14160 Dives-sur-Mer, de 1946 à 1989 ;
 
 Moulinex/Socam/Socamec, 2, rue de l'Industrie, 14123 Cormelles-le-Royal, de 1964 à 1988 ;
 
@@ -956,8 +956,6 @@ Etablissements DBA/Bendix/Honeywelle/Allied Signal, centre de distribution d'All
 
 Etablissements DBA/Bendix/Honeywelle/Allied Signal, Tille, 60000 Beauvais : de 1981 à 1987 ;
 
-SA Fichet Bauche, 80460 Oust-Marest, de 1969 à 1977 ;
-
 Frendo/Fren J./Fren Brex SA/Roulunds Codan, Z.I. d'Angean, 60240 Chaumont-en-Vexin : de 1975 à 1997.
 
 Gurit Essex, Dow Automotive, ZI du Nord, route d'Amiens, 60130 Saint-Just-en-Chaussée, de 1977 à 1983.
@@ -1046,7 +1044,7 @@ SARL Méditerranéenne d'isolation et d'ignifugeage : 25, rue Roger-Deschamps, 1
 
 Société des anciens établissements A.-Devries, ZI les Paluds, 13400 Aubagne : de 1958 à 1976 ;
 
-Société d'entreprises et de fumisterie industrielle (SEFI), quartier des Fouitades, BP 56, 13655 Rognac Cedex : de 1935 à 1980 ;
+SOCIÉTÉ D'ENTREPRISES ET DE FUMISTERIE INDUSTRIELLE (SEFI), 60, cours Pierre-Puget, 13006 Marseille, puis quartier des Fouitades, BP 56, 13655 Rognac Cedex, de 1935 à 1996 ;
 
 Société française de plaques de plâtre (SFPP)/Pregypan/Pregypan Rigips/Plâtres Lafarge, établissement de Carpentras, chemin de Villefranche, BP 135, 84204 Carpentras Cedex : de 1967 à 1982 ;
 
