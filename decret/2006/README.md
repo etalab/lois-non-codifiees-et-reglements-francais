@@ -50,6 +50,7 @@
 - [Décret n°2006-1540 du 6 décembre 2006 (ECOT0614572D)](decret-n2006-1540-du-6-decembre-2006-ecot0614572d)
 - [Décret n°2006-1541 du 6 décembre 2006 (ECOP0600675D)](decret-n2006-1541-du-6-decembre-2006-ecop0600675d)
 - [Décret n°2006-1542 du 6 décembre 2006 (ECOT0620056D)](decret-n2006-1542-du-6-decembre-2006-ecot0620056d)
+- [Décret n°2006-416 du 6 avril 2006 (AGRP0600332D)](decret-n2006-416-du-6-avril-2006-agrp0600332d)
 - [Décret n°54-135 du 6 février 1954](decret-n54-135-du-6-fevrier-1954)
 - [Décret du 7 septembre 2006 (AGRP0600418D)](decret-du-7-septembre-2006-agrp0600418d)
 - [Décret n°2006-1346 du 7 novembre 2006 (MENR0602687D)](decret-n2006-1346-du-7-novembre-2006-menr0602687d)
