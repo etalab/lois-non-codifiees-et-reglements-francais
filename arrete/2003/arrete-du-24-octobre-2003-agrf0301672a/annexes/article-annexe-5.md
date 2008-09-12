@@ -1,7 +1,17 @@
 # Article Annexe 5
 
-Matériel forestier de reproduction
+Modèles de documents du fournisseur
 
-Document du fournisseur pour un lot de semences.
+Directive 1999/105/CE du Conseil du 22/12/1999 concernant la commercialisation des matériels forestiers de reproduction
 
-(document non reproduit, voir au Journal officiel).
+5-A - Document du fournisseur pour un lot de semences
+
+5-B - Document du fournisseur pour un lot de semences avec passeport phytosanitaire intégré
+
+5-C - Document du fournisseur pour un lot de plants ou parties de plantes
+
+5-D - Document du fournisseur pour un lot de plants ou parties de plantes avec passeport phytosanitaire intégré
+
+Les annexes du présent arrêté peuvent être consultées sur le site du ministère de l'agriculture et de la pêche à l'adresse :  http://agriculture.gouv.fr/sections/thematiques/foret-bois/graines-et-plants-forestiers.
+
+Une copie des annexes peut également être demandée par courrier adressé à la direction générale de la forêt et des affaires rurales (sous-direction de la forêt et du bois, bureau des investissements forestiers), 19, avenue du Maine, 75732 Paris Cedex 15.
