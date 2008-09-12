@@ -175,6 +175,7 @@
 - [Arrêté du 12 juin 2008 (AGRG0814129A)](arrete-du-12-juin-2008-agrg0814129a)
 - [Arrêté du 12 juin 2008 (BCFD0808540A)](arrete-du-12-juin-2008-bcfd0808540a)
 - [Arrêté du 12 juin 2008 (ECEA0810900A)](arrete-du-12-juin-2008-ecea0810900a)
+- [Arrêté du 12 octobre 1989 (SPSM8901919A)](arrete-du-12-octobre-1989-spsm8901919a)
 - [Arrêté du 12 octobre 2007 (ECED0768187A)](arrete-du-12-octobre-2007-eced0768187a)
 - [Arrêté du 12 septembre 2008 (MENH0818387A)](arrete-du-12-septembre-2008-menh0818387a)
 - [Arrêté du 12 septembre 2008 (MENH0820974A)](arrete-du-12-septembre-2008-menh0820974a)
