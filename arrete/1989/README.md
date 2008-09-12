@@ -207,7 +207,6 @@
 - [Arrêté du 12 juillet 1990 (ECOP8900663A)](arrete-du-12-juillet-1990-ecop8900663a)
 - [Arrêté du 12 juin 1989 (COMC8900006A)](arrete-du-12-juin-1989-comc8900006a)
 - [Arrêté du 12 octobre 1989 (ECOT8913164A)](arrete-du-12-octobre-1989-ecot8913164a)
-- [Arrêté du 12 octobre 1989 (SPSM8901919A)](arrete-du-12-octobre-1989-spsm8901919a)
 - [Arrêté du 12 octobre 1989 (SPSS8902068A)](arrete-du-12-octobre-1989-spss8902068a)
 - [Arrêté du 12 septembre 1989 (SPSH8901871A)](arrete-du-12-septembre-1989-spsh8901871a)
 - [Arrêté du 12 septembre 1989 (TEFT8903722A)](arrete-du-12-septembre-1989-teft8903722a)
