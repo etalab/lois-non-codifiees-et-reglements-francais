@@ -79,6 +79,7 @@
 - [Arrêté du 8 août 2008 (IOCC0808559A)](arrete-du-8-aout-2008-iocc0808559a)
 - [Arrêté du 8 août 2008 (SJSH0818751A)](arrete-du-8-aout-2008-sjsh0818751a)
 - [Arrêté du 8 août 2008 (SJSP0819870A)](arrete-du-8-aout-2008-sjsp0819870a)
+- [Arrêté du 8 janvier 2008 (BCFD0769393A)](arrete-du-8-janvier-2008-bcfd0769393a)
 - [Arrêté du 8 juillet 2008 (DEFD0817007A)](arrete-du-8-juillet-2008-defd0817007a)
 - [Arrêté du 8 juillet 2008 (DEFD0819685A)](arrete-du-8-juillet-2008-defd0819685a)
 - [Arrêté du 8 juillet 2008 (DEVA0774178A)](arrete-du-8-juillet-2008-deva0774178a)
