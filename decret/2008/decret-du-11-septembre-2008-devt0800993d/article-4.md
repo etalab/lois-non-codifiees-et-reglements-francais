@@ -1,0 +1,3 @@
+# Article 4
+
+Le présent décret emporte mise en compatibilité des documents d'urbanisme des communes de Beaulieu-les-Fontaines, Cambronne-lès-Ribécourt, Chiry-Ourscamps, Choisy-au-Bac, Clairoix, Janville, Le Plessis-Brion, Longueil-Annel, Montmacq, Noyon, Passel, Pimprez, Pont-l'Evêque, Ribécourt-Dreslincourt et Thourotte dans le département de l'Oise, Biaches, Cléry-sur-Somme, Mesnil-Saint-Nicaise, Moislains, Nesle, Péronne et Villers-Carbonnel dans le département de la Somme, Hermies et Marquion dans le département du Pas-de-Calais et Aubencheul-au-Bac dans le département du Nord, conformément aux plans annexés au présent décret (2). Les maires de ces communes procéderont aux mesures de publicité prévues au premier alinéa de l'article R. 123-25 du code de l'urbanisme.
