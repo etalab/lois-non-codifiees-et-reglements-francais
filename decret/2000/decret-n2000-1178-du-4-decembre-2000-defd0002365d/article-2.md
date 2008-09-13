@@ -16,7 +16,7 @@ d) La direction interarmées des réseaux d'infrastructure et des systèmes d'in
 
 2° L'état-major de l'armée de terre, dont dispose le chef d'état-major de l'armée de terre. En outre, relèvent de celui-ci les organismes suivants :
 
-a) La direction du personnel militaire de l'armée de terre ;
+a) La direction des ressources humaines de l'armée de terre ;
 
 b) La direction centrale du commissariat de l'armée de terre ;
 
