@@ -74,7 +74,7 @@ Chef de division organisation des ressources humaines.
 
 Chef de division capacité et équipement.
 
-Chef de division études, stratégie militaire générale et pilotage - adjoint au major général.
+Chef de division études, stratégie militaire générale et pilotage-adjoint au major général.
 
 Commandant supérieur outre-mer.
 
@@ -102,7 +102,7 @@ Secrétaire général du pré-conseil des systèmes de forces.
 
 Directeur adjoint ressources humaines et budgétaires de la direction interarmées des réseaux d'infrastructures et des systèmes d'information de la défense.
 
-Directeur adjoint planification - études à long terme de la direction interarmées des réseaux d'infrastructures et des systèmes d'information de la défense.
+Directeur adjoint planification-études à long terme de la direction interarmées des réseaux d'infrastructures et des systèmes d'information de la défense.
 
 Adjoint au chef du centre de planification et de conduite des opérations chargé de la planification des opérations.
 
@@ -200,7 +200,7 @@ Commandant de la force d'action terrestre.
 
 Commandant de la force logistique terrestre.
 
-Directeur du personnel militaire de l'armée de terre.
+directeur des ressources humaines de l'armée de terre .
 
 Directeur central du matériel de l'armée de terre.
 
@@ -234,13 +234,13 @@ Adjoint au général commandant la force d'action terrestre.
 
 Commandant de la légion étrangère.
 
-Directeur adjoint à la direction du personnel militaire de l'armée de terre.
+Directeur adjoint à la direction des ressources humaines de l'armée de terre.
 
 Directeur adjoint à la direction centrale du matériel de l'armée de terre.
 
 Directeur adjoint à la direction centrale du commissariat de l'armée de terre.
 
-Sous-directeur Gestion de la direction du personnel militaire de l'armée de terre.
+Sous-directeur Gestion de la direction des ressources humaines de l'armée de terre.
 
 Adjoint au général commandant de la force logistique terrestre.
 
@@ -254,23 +254,23 @@ Adjoint au commandant de la formation de l'armée de terre.
 
 Chef d'état-major du général commandant de la formation de l'armée de terre.
 
-Commandant de division au commandement de la force d'action terrestre - Division environnement opérationnel.
+Commandant de division au commandement de la force d'action terrestre-Division environnement opérationnel.
 
-Commandant de division au commandement de la force d'action terrestre - Division plans.
+Commandant de division au commandement de la force d'action terrestre-Division plans.
 
-Commandant de division au commandement de la force d'action terrestre - Division emploi.
+Commandant de division au commandement de la force d'action terrestre-Division emploi.
 
-Commandant de division au commandement de la force d'action terrestre - Division systèmes d'information et de communications.
+Commandant de division au commandement de la force d'action terrestre-Division systèmes d'information et de communications.
 
-Commandant de division au commandement de la force d'action terrestre - Division renseignement - relations internationales.
+Commandant de division au commandement de la force d'action terrestre-Division renseignement-relations internationales.
 
-Commandant de division au commandement de la force logistique terrestre - Division opérations.
+Commandant de division au commandement de la force logistique terrestre-Division opérations.
 
-Commandant de division au commandement de la force logistique terrestre - Division mouvement transit transport.
+Commandant de division au commandement de la force logistique terrestre-Division mouvement transit transport.
 
-Commandant de division au commandement de la force logistique terrestre - Division entraînement études.
+Commandant de division au commandement de la force logistique terrestre-Division entraînement études.
 
-Commandant de division au commandement de la force logistique terrestre - Division soutien ressources.
+Commandant de division au commandement de la force logistique terrestre-Division soutien ressources.
 
 TABLEAU IV
 
@@ -364,13 +364,13 @@ Commandant des systèmes de surveillance, d'information et de communications.
 
 Commandant des forces de protection et de sécurité de l'armée de l'air.
 
-Sous-chef d'état-major plans - programmes.
+Sous-chef d'état-major plans-programmes.
 
-Sous-chef d'état-major emploi - soutien.
+Sous-chef d'état-major emploi-soutien.
 
 Délégué aux relations extérieures de l'état-major de l'armée de l'air.
 
-Sous-chef d'état-major performance - synthèse.
+Sous-chef d'état-major performance-synthèse.
 
 Directeur de la circulation aérienne militaire.
 

@@ -4,7 +4,7 @@ Dans la limite de leurs attributions respectives, les destinataires de ces infor
 
 Le chef d'état-major de l'armée de terre,
 
-Le directeur du personnel militaire de l'armée de terre ;
+Le         directeur des ressources humaines de l'armée de terre  ;
 
 Le directeur de la gendarmerie nationale, division des affaires pénales militaires ;
 

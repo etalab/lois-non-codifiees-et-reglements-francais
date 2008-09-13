@@ -12,7 +12,7 @@ le général sous-chef d'etat-major de l'armée de terre, division organisation 
 
 le général commandant les organismes de formation de l'armée de terre ;
 
-le général directeur du personnel militaire de l'armée de terre ;
+le général         directeur des ressources humaines de l'armée de terre  ;
 
 le général directeur de l'enseignement militaire supérieur scientifique et technique ;
 

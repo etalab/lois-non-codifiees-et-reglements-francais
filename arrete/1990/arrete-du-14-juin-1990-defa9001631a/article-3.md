@@ -2,7 +2,7 @@
 
 Les destinataires de ces informations sont :
 
-Direction du personnel militaire de l'armée de terre (D.P.M.A.T.) ;
+Direction des ressources humaines de l'armée de terre  ;
 
 Direction du personnel militaire de la marine (D.P.M.M.) ;
 
