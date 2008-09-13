@@ -633,7 +633,6 @@
 - [Décret n°56-146 du 26 janvier 1956](decret-n56-146-du-26-janvier-1956)
 - [Décret n°99-131 du 26 février 1999 (JUSC9920116D)](decret-n99-131-du-26-fevrier-1999-jusc9920116d)
 - [Décret n°99-132 du 26 février 1999 (DEFD9901029D)](decret-n99-132-du-26-fevrier-1999-defd9901029d)
-- [Décret n°99-133 du 26 février 1999 (DEFD9901030D)](decret-n99-133-du-26-fevrier-1999-defd9901030d)
 - [Décret n°99-237 du 26 mars 1999 (MESS9920420D)](decret-n99-237-du-26-mars-1999-mess9920420d)
 - [Décret n°99-238 du 26 mars 1999 (MENS9900478D)](decret-n99-238-du-26-mars-1999-mens9900478d)
 - [Décret n°99-330 du 26 avril 1999 (INTM9900015D)](decret-n99-330-du-26-avril-1999-intm9900015d)

@@ -91,7 +91,6 @@
 - [Décret n°78-478 du 29 mars 1978](decret-n78-478-du-29-mars-1978)
 - [Décret n°78-479 du 29 mars 1978](decret-n78-479-du-29-mars-1978)
 - [Décret n°78-505 du 29 mars 1978](decret-n78-505-du-29-mars-1978)
-- [Décret n°78-1060 du 30 octobre 1978](decret-n78-1060-du-30-octobre-1978)
 - [Décret n°78-510 du 30 mars 1978](decret-n78-510-du-30-mars-1978)
 - [Décret n° 78-904 du 31 août 1978](decret-n-78-904-du-31-aout-1978)
 - [Décret n°77-1541 du 31 décembre 1977](decret-n77-1541-du-31-decembre-1977)
