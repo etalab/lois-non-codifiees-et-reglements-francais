@@ -811,6 +811,7 @@
 - [Décret n°2008-95 du 30 janvier 2008 (PRMX0772963D)](decret-n2008-95-du-30-janvier-2008-prmx0772963d)
 - [Décret n°2008-98 du 30 janvier 2008 (BCFB0760792D)](decret-n2008-98-du-30-janvier-2008-bcfb0760792d)
 - [Décret n°2009-501 du 30 avril 2009 (BCFF0830559D)](decret-n2009-501-du-30-avril-2009-bcff0830559d)
+- [Décret n°78-1060 du 30 octobre 1978](decret-n78-1060-du-30-octobre-1978)
 - [Décret n°91-1369 du 30 décembre 1991 (JUSC9121053D)](decret-n91-1369-du-30-decembre-1991-jusc9121053d)
 - [Décret n°92-297 du 30 mars 1992 (MENN9200514D)](decret-n92-297-du-30-mars-1992-menn9200514d)
 - [Décret n°92-732 du 30 juillet 1992 (MAEC9200011D)](decret-n92-732-du-30-juillet-1992-maec9200011d)
