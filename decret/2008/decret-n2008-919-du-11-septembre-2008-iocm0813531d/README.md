@@ -1,0 +1,8 @@
+# Décret n° 2008-919 du 11 septembre 2008 pris pour l'application du statut des Terres australes et antarctiques françaises
+
+- [TITRE IER : LE REPRESENTANT DE L'ETAT](titre-ier)
+- [TITRE II : DE L'ORGANISATION DES SERVICES DE L'ETAT](titre-ii)
+- [TITRE III : LE CHEF DU TERRITOIRE](titre-iii)
+- [TITRE IV : LE CONSEIL CONSULTATIF DES TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES](titre-iv)
+- [TITRE V : REGIME BUDGETAIRE ET FINANCIER DU TERRITOIRE](titre-v)
+- [TITRE VI : DISPOSITIONS DIVERSES ET FINALES](titre-vi)
