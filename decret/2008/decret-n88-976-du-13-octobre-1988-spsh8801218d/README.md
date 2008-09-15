@@ -2,3 +2,4 @@
 
 - [TITRE II : DÉTACHEMENT](titre-ii)
 - [TITRE IV : DISPONIBILITÉ.](titre-iv)
+- [TITRE VI : CONGÉ PARENTAL.](titre-vi)
