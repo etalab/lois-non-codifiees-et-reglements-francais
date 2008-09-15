@@ -289,6 +289,7 @@
 - [Décret n°2008-559 du 13 juin 2008 (SJSH0807946D)](decret-n2008-559-du-13-juin-2008-sjsh0807946d)
 - [Décret n°2008-778 du 13 août 2008 (DEVE0815708D)](decret-n2008-778-du-13-aout-2008-deve0815708d)
 - [Décret n°2008-779 du 13 août 2008 (DEVE0815716D)](decret-n2008-779-du-13-aout-2008-deve0815716d)
+- [Décret n°88-976 du 13 octobre 1988 (SPSH8801218D)](decret-n88-976-du-13-octobre-1988-spsh8801218d)
 - [Décret n°2008-452 du 13 mai 2008 (IOCM0757267D)](decret-n2008-452-du-13-mai-2008-iocm0757267d)
 - [Décret n°2007-1357 du 14 septembre 2007 (DEVO0751671D)](decret-n2007-1357-du-14-septembre-2007-devo0751671d)
 - [Décret n°2007-1757 du 14 décembre 2007 (DEFX0769927D)](decret-n2007-1757-du-14-decembre-2007-defx0769927d)
