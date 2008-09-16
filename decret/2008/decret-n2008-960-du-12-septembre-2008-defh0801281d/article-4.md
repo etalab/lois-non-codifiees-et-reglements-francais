@@ -1,0 +1,3 @@
+# Article 4
+
+Par dérogation à l'article R. 4138-65 du code de la défense, les élèves français de l'Ecole polytechnique peuvent bénéficier, au terme de la période d'approfondissement scientifique et technique et d'initiation à la vie professionnelle définie à l'article 3 du décret du 12 juillet 2001 susvisé, d'un congé pour convenances personnelles d'une année, non rémunéré, accordé au vu d'un projet pédagogique et professionnel validé par le directeur général de l'école. Le congé ne peut être accordé qu'à un élève dont les résultats ont été jugés suffisants par le jury pour être admis en quatrième année. A l'issue du congé, l'élève réintègre le cours de sa scolarité.
