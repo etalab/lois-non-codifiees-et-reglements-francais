@@ -1,67 +1,84 @@
 # Article ANNEXE
 
-INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
+**INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES**
 
-Intitulé :
-
-Titre professionnel : opérateur(trice) de station centrale de télésurveillance.
+Intitulé : Titre professionnel : opérateur (trice) en station centrale de télésurveillance.
 
 Niveau : V.
 
-Code NSF : 344 t.
+Code NSF : 344 t-Sécurité des biens et des personnes, police, surveillance.
 
 Résumé du référentiel d'emploi
 
-Au sein d'une station centrale de télésurveillance, l'opérateur(trice) assure, à distance, la surveillance des locaux des clients (logements, bureaux, commerces ou sites industriels). Il (elle) détecte, sur son écran de contrôle, les messages d'anomalies provenant des systèmes de surveillance électronique installés sur les sites télésurveillés. Il (elle) détermine la nature de l'alarme (intrusion, défaillance technique, incendie...) et s'assure de sa validité en utilisant tous les moyens disponibles (téléphone, micros ou caméras installés sur le site, envoi d'un intervenant sur place). En cas d'alerte avérée et dans le respect des consignes données par le client, l'opérateur(trice) déclenche l'intervention des personnes habilitées et appelle, selon les besoins, les services compétents (forces de l'ordre, pompiers, services techniques). Il (elle) effectue le suivi des intervenants dépêchés sur place et informe, au fur et à mesure, son responsable hiérarchique de toutes les anomalies détectées et des actions en cours. Puis, il (elle) s'assure du retour à la normalité de fonctionnement du site télésurveillé et en informe le client.
+L'opérateur (trice) en station centrale de télésurveillance et / ou vidéosurveillance assure à distance la sécurité des sites de clients (professionnels, particuliers) en analysant des informations provenant de systèmes de sécurité ou de vidéosurveillance installés sur site.
 
-L'opérateur(trice) veille, en outre, au bon fonctionnement des équipements de la station de télésurveillance et en contrôle l'accès. Il (elle) gère également les demandes téléphoniques des clients et les assiste dans l'utilisation des systèmes de surveillance installés chez eux.
+Le poste de travail de l'opérateur (trice) est constitué de plusieurs écrans de réception d'information et d'un terminal téléphonique doté de plusieurs lignes.L'emploi s'exerce la plupart du temps en position assise. Les informations sont réceptionnées sur le poste de l'opérateur (trice) sous forme de messages ou d'images.
 
-Le travail de l'opérateur(trice) est très sédentaire et s'effectue à l'intérieur d'une salle équipée et ultra-protégée contre les agressions extérieures. Il (elle) exerce ses activités seul(e) ou en équipe, sous la conduite du responsable de la station. Ses horaires doivent être compatibles avec l'obligation de présence permanente de personnel dans la station. Il s'agit d'un travail posté de 8 heures ou 12 heures d'affilée, de jour ou de nuit, en semaine, le week-end ou les jours fériés.
+Il se situe à l'intérieur d'une salle de réception d'informations protégée contre les agressions extérieures possibles (centre d'exploitation : centrale de télésurveillance, poste de sécurité en vidéosurveillance, centre de protection urbain).
 
-Enfin, l'opérateur(trice) peut être soumis(e) à un stress important, par exemple lorsqu'il (elle) reçoit simultanément des informations d'alarmes provenant de sites différents ou en cas d'agression dont il (elle) est témoin à distance.
+En cas d'alarme (s) ou d'anomalie (s) avérée (s), l'opérateur (trice) déclenche les actions définies dans les consignes données par le client, dans le respect de la réglementation en vigueur et des procédures du centre d'exploitation dans lequel il (elle) exerce son activité. Il (elle) participe également à la traçabilité de l'activité (main courante informatisée).
+
+L'opérateur (trice) utilise les dispositifs et matériels de télésurveillance et de vidéosurveillance soit indépendamment, soit de façon complémentaire :
+
+-dans le cas d'un dispositif de vidéosurveillance, l'activité est centrée sur le traitement d'images ;
+
+-pour l'activité en centrale de télésurveillance, la vidéosurveillance est un dispositif complémentaire au dispositif de traitement des alarmes.L'opérateur (trice) peut l'utiliser pour le contrôle d'accès, les levées de doute en cas d'alarme, mais aussi pour effectuer des rondes à distance.
+
+En télésurveillance, les stations fonctionnent 24 h / 24 et 365 jours par an.L'activité se déroule par vacations continues de jour comme de nuit, fins de semaine et jours fériés compris.
+
+En vidéosurveillance, l'ampleur d'ouverture des centres d'exploitation varie en fonction de l'activité de l'exploitant.
 
 Capacités attestées et descriptif des composantes de la certification
 
-1. Assurer la sécurité des locaux télésurveillés
+1. Assurer la surveillance visuelle d'un lieu à l'aide de moyens de vidéosurveillance
 
-Traiter les messages reçus sur son poste de télésurveillance.
+Contrôler les accès d'un site.
 
-Déclencher l'intervention des personnes habilitées et des services compétents en cas d'anomalie ou d'alarme dans des locaux télésurveillés.
+Exploiter les images provenant d'un système de vidéosurveillance pour sécuriser des sites.
 
-Vérifier le retour à la normalité de fonctionnement après alarme d'un site télésurveillé.
+2. Gérer à distance la sécurité des biens et des personnes au moyen d'un dispositif de télésurveillance
 
-2. Contribuer au support technique et clientèle de la station de télésurveillance
+Prendre en compte les messages apparus sur son poste d'exploitation de télésurveillance selon les procédures et les consignes établies.
 
-Veiller au fonctionnement et à la sécurité des équipements de la station de télésurveillance.
+Déclencher l'intervention des personnes habilitées et des Services compétents en cas d'alarme ou d'anomalie.
 
-Contrôler l'accès à la station de télésurveillance.
+S'assurer du retour à la normalité de fonctionnement des systèmes de sécurité.
 
-Apporter par téléphone des réponses aux demandes des clients de la station de télésurveillance.
+Veiller au fonctionnement et à la sécurité de la station centrale de télésurveillance.
 
-Traiter les informations techniques relatives aux installations des clients de la station de télésurveillance.
+Réceptionner et traiter les appels téléphoniques.
 
-Secteurs d'activités ou types d'emploi accessibles par le détenteur du titre
+Secteurs d'activité ou type d'emploi accessible par le détenteur du titre
 
-Entreprises spécialisées dans le domaine de la télésurveillance.
+L'opérateur (trice) en station centrale de télésurveillance et / ou vidéosurveillance est employé (e) principalement par :
 
-Entreprises du secteur de la sécurité humaine dans leurs activités traditionnelles (rondes, interventions, installations de détection,...) ou dans l'activité de télésurveillance.
+-les entreprises spécialisées dans le domaine de la télésurveillance et / ou de la vidéosurveillance : service auprès des entreprises, des collectivités, des particuliers ;
+
+-les entreprises du secteur de la sécurité humaine dans leurs activités de surveillance ;
+
+-les services internes de sécurité (hors incendie) ;
+
+-les centres de protection urbains.
 
 Code ROME :
 
-11222 - Agent(e) de sécurité et de surveillance.
+11222-Agent de sécurité et de surveillance.
 
 Réglementation de l'activité :
 
-L'opérateur(trice) doit faire l'objet d'une autorisation administrative préfectorale pour exercer son emploi (loi n° 83-629 du 12 juillet 1983, décret n° 86-1058 du 26 septembre 1986).
+L'activité des entreprises de sécurité privée est soumise aux conditions fixées par la loi n° 83-629 du 12 juillet 1983 réglementant les activités privées de sécurité.
+
+L'accès à l'emploi est également réglementé : des conditions de moralité (notamment le casier judiciaire) et des conditions d'aptitude professionnelle sont exigées (décret n° 2005-1122 du 6 septembre 2005 modifié).
 
 Autorité responsable de la certification :
 
 Ministère chargé de l'emploi.
 
+La certification est accessible à compter du 16 septembre 2008.
+
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Code de l'éducation, notamment les articles L. 335-5, L. 335-6,
+R. 335-13 et R. 338-2 ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
-
-Arrêté du 25 novembre 2002.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministre chargé de l'emploi.
