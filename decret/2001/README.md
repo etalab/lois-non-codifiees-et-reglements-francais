@@ -399,7 +399,6 @@
 - [Décret n°2001-982 du 25 octobre 2001 (MENE0101732D)](decret-n2001-982-du-25-octobre-2001-mene0101732d)
 - [Décret n°2001-992 du 25 octobre 2001 (INTB0100276D)](decret-n2001-992-du-25-octobre-2001-intb0100276d)
 - [Décret n°2001-993 du 25 octobre 2001 (EQUT0101452D)](decret-n2001-993-du-25-octobre-2001-equt0101452d)
-- [Décret n°71-708 du 25 août 1971](decret-n71-708-du-25-aout-1971)
 - [Décret n°91-247 du 25 février 1991 (DOMX9100024D)](decret-n91-247-du-25-fevrier-1991-domx9100024d)
 - [Décret n°2001-449 du 25 mai 2001 (ATEX0100010D)](decret-n2001-449-du-25-mai-2001-atex0100010d)
 - [Décret n°2000-1328 du 26 décembre 2000 (JUSE0040061D)](decret-n2000-1328-du-26-decembre-2000-juse0040061d)
