@@ -277,6 +277,8 @@
 - [Décret n°2008-927 du 12 septembre 2008 (MENH0818379D)](decret-n2008-927-du-12-septembre-2008-menh0818379d)
 - [Décret n°2008-928 du 12 septembre 2008 (SJSH0816233D)](decret-n2008-928-du-12-septembre-2008-sjsh0816233d)
 - [Décret n°2008-929 du 12 septembre 2008 (SJSH0809060D)](decret-n2008-929-du-12-septembre-2008-sjsh0809060d)
+- [Décret n°2008-936 du 12 septembre 2008 (DEFH0801155D)](decret-n2008-936-du-12-septembre-2008-defh0801155d)
+- [Décret n°2008-958 du 12 septembre 2008 (DEFH0801276D)](decret-n2008-958-du-12-septembre-2008-defh0801276d)
 - [Décret n°2008-960 du 12 septembre 2008 (DEFH0801281D)](decret-n2008-960-du-12-septembre-2008-defh0801281d)
 - [Décret n°2007-1606 du 13 novembre 2007 (MTSS0766464D)](decret-n2007-1606-du-13-novembre-2007-mtss0766464d)
 - [Décret n°2007-1752 du 13 décembre 2007 (MTSS0765119D)](decret-n2007-1752-du-13-decembre-2007-mtss0765119d)
