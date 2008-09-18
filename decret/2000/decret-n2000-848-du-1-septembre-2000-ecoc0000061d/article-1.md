@@ -6,17 +6,15 @@ En outre, les décrets de définition des conditions de production pris en vertu
 
 Les vins de pays sont produits à partir de raisins récoltés dans un département ou une zone de production définie conformément à l'article 5 du décret du 13 septembre 1968 susvisé et vinifiés dans ce même département ou cette même zone ainsi que dans leurs cantons limitrophes.
 
-Les vins de pays sont produits sur des superficies uniquement complantées en cépages recommandés, dans la limite d'un rendement revendiqué à l'hectare de 85 hectolitres pour les vins rouges et rosés et 90 hectolitres pour les vins blancs. Les volumes pris en compte pour le calcul de ce rendement s'entendent après séparation des bourbes et des lies. Pour la campagne 2007-2008, cette limite de rendement est portée à 95 hectolitres pour les vins rouges et rosés et à 100 hectolitres pour les vins blancs.
+Les vins de pays sont produits sur des superficies uniquement complantées en cépages recommandés, dans la limite d'un rendement revendiqué à l'hectare de 85 hectolitres pour les vins rouges et rosés et 90 hectolitres pour les vins blancs. Les volumes pris en compte pour le calcul de ce rendement s'entendent après séparation des bourbes et des lies. Pour la campagne 2007-2008, cette limite de rendement est portée à 95 hectolitres pour les vins rouges et rosés et à 100 hectolitres pour les vins blancs. A compter de la campagne 2008-2009, cette limite de rendement est portée à 100 hectolitres pour les vins rouges et rosés et à 105 hectolitres pour les vins blancs.
 
-Le rendement agronomique à l'hectare des superficies produisant des vins de pays ne peut dépasser 95 hectolitres pour les vins rouges et rosés,100 hectolitres pour les vins blancs. Pour la campagne 2007-2008, le plafond de rendement agronomique à l'hectare est porté à 105 hectolitres pour les vins rouges ou rosés et à 110 hectolitres pour les vins blancs.
+Le rendement agronomique à l'hectare des superficies produisant des vins de pays ne peut dépasser 95 hectolitres pour les vins rouges et rosés,100 hectolitres pour les vins blancs. Pour la campagne 2007-2008, le plafond de rendement agronomique à l'hectare est porté à 105 hectolitres pour les vins rouges ou rosés et à 110 hectolitres pour les vins blancs. A compter de la campagne 2008-2009, le plafond de rendement agronomique à l'hectare est porté à 110 hectolitres pour les vins rouges ou rosés et à 115 hectolitres pour les vins blancs.
 
 Les quantités comprises entre le rendement revendiqué et le rendement agronomique comprennent les lies, les bourbes et les éventuels produits non vinifiés.
 
 Les décrets relatifs aux vins de pays de zone peuvent fixer des conditions plus restrictives.
 
 Un vin de pays de zone agréé peut être commercialisé en vin de pays de département sous réserve qu'il remplisse toutes les conditions de production du vin de pays de département considéré.
-
-Pour les exploitations produisant à la fois des vins de pays et des vins de table, le rendement à l'hectare des superficies aptes à produire des vins de table est limité à 90 hectolitres. Toutefois, ce rendement peut être porté à 100 hectolitres sous réserve que les quantités produites au-delà de 90 hectolitres ne soient pas vinifiées. Pour la campagne 2007-2008, cette limite de rendement est portée à 130 hectolitres sans limitation des quantités vinifiées.
 
 Sur les superficies de jeunes vignes en première et deuxième feuille, c'est-à-dire l'année de leur plantation avant le 31 juillet et l'année suivante, il ne peut être produit aucun produit vitivinicole.
 
