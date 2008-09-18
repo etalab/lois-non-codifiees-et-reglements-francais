@@ -72,6 +72,8 @@ La licence d'expérimentateur navigant d'essais mentionne la limitation de privi
 
 La licence d'expérimentateur navigant d'essais permet à son titulaire de remplir les fonctions d'expérimentateur à bord de tout aéronef en essai ou réception, en conformité avec les privilèges mentionnés sur la licence.
 
+La licence d'expérimentateur navigant d'essais à privilèges limités aux essais de classe B peut en outre permettre à son titulaire de participer à des essais de classe A sous la supervision à bord d'un ingénieur ou d'un expérimentateur navigant d'essais.
+
 6.2.3. Conditions exigées pour le renouvellement de la licence.
 
 La licence d'expérimentateur navigant d'essais est valable douze mois.

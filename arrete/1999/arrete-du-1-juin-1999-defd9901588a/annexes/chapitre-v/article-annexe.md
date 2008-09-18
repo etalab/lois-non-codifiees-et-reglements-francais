@@ -12,23 +12,37 @@ Pour obtenir le brevet de mécanicien navigant d'essais, le candidat doit rempli
 
 3° Avoir satisfait à des examens théoriques et pratiques fixés par arrêté interministériel ;
 
-4° Totaliser au moins 400 heures de vol dans les fonctions de membre d'équipage de conduite dont 100 heures au moins en qualité de mécanicien navigant d'essais stagiaire dans un établissement ou service d'essais.
-
-Pour obtenir la licence de mécanicien navigant d'essais, le candidat doit, en outre, remplir les conditions suivantes :
+4° Totaliser au moins 800 heures de vol dont 400 heures au moins dans les fonctions de membre d'équipage de conduite et 100 heures au moins en qualité de mécanicien navigant d'essais stagiaire dans un établissement ou service d'essais ;
 
 5° Etre détenteur d'un certificat d'aptitude physique et mentale prévu au paragraphe 2. 4 ;
 
-6° Etre titulaire du certificat d'aptitude aux épreuves théoriques prévu par les arrêtés du 5 novembre 1984 modifiés, fixant le programme et le régime des examens pour l'obtention du brevet et de la licence de mécanicien navigant ou du brevet et de la licence d'ingénieur navigant de l'aviation civile ;
+6° Etre titulaire du certificat d'aptitude aux épreuves théoriques prévu par les arrêtés du 5 novembre 1984 modifiés fixant le programme et le régime des examens pour l'obtention du brevet et de la licence de mécanicien navigant ou du brevet et de la licence d'ingénieur navigant de l'aviation civile,
 
-7° Avoir suivi de manière satisfaisante un enseignement homologué permettant de se présenter aux épreuves pratiques prévues pour l'obtention du brevet et de la licence mécanicien navigant ;
+ou satisfaire aux conditions fixées au paragraphe FCL 1. 285 de l'annexe FCL 1 de l'arrêté du 29 mars 1999 modifié relatif aux licences et qualifications de membre d'équipage de conduite d'avions (FCL 1),
 
-8° Avoir satisfait à l'épreuve complémentaire d'anglais prévue par l'arrêté du 5 novembre 1984 modifié fixant le programme et le régime des examens pour l'obtention du brevet et de la licence de mécanicien navigant ;
+ou satisfaire aux conditions fixées au paragraphe FLC 2. 285 de l'annexe FCL 2 de l'arrêté du 12 juillet 2005 modifié relatif aux licences et qualifications de membre d'équipage de conduite d'hélicoptères (FCL 2),
+
+ou satisfaire aux conditions du a du paragraphe FCL 4. 160 de l'annexe FLC 4 de l'arrêté du 28 octobre 2002 modifié relatif à la licence et aux qualifications de mécanicien navigant avion (FCL 4) ;
+
+7° Etre titulaire d'un brevet de mécanicien navigant ou d'ingénieur navigant de l'aviation civile,
+
+ou être titulaire d'une licence délivrée conformément aux dispositions de l'arrêté du 28 octobre 2002 modifié relatif à la licence et aux qualifications de mécanicien navigant avion (FCL 4),
+
+ou être titulaire d'un des brevets militaires de mécanicien navigant (mécanicien d'équipage de l'armée de l'air, mécanicien de bord de la marine nationale, mécanicien volant de l'armée de terre) ;
+
+8° Avoir satisfait à l'épreuve complémentaire d'anglais prévue par l'arrêté du 5 novembre 1984 modifié fixant le programme et le régime des examens pour l'obtention du brevet et de la licence de mécanicien navigant,
+
+ou avoir réussi l'épreuve d'anglais prévue au paragraphe FCL 1. 200 de l'annexe FCL 1 de l'arrêté du 29 mars 1999 modifié relatif aux licences et qualifications de membre d'équipage de conduite d'avions (FCL 1),
+
+ou avoir réussi l'épreuve d'anglais prévue au paragraphe FCL 2. 200 de l'arrêté du 12 juillet 2005 modifié relatif aux licences et qualifications de membre d'équipage de conduite d'hélicoptères (FCL 2),
+
+ou avoir réussi l'épreuve d'anglais prévue à l'appendice 3 du paragraphe FCL 4. 160 de l'annexe de l'arrêté du 28 octobre 2002 modifié relatif à la licence et aux qualifications de mécanicien navigant avion (FCL 4) ;
 
 9° Etre ou avoir été titulaire d'une licence de pilote professionnel ou privé, avion ou hélicoptère.
 
-5. 1. 2. Privilèges du titulaire de la licence.
+5.1.2. Privilèges du titulaire de la licence.
 
-La licence de mécanicien navigant d'essais permet à son titulaire de remplir les fonctions de mécanicien navigant sur tout aéronef au cours de tous vols d'essais et de réceptions.
+La licence de mécanicien navigant d'essais permet à son titulaire de remplir les fonctions de mécanicien navigant sur tout aéronef au cours de tous vols d'essais et de réceptions de vols de convoyage et de vols de transport non commerciaux.
 
 5. 1. 3. Conditions exigées pour le renouvellement de la licence
 
