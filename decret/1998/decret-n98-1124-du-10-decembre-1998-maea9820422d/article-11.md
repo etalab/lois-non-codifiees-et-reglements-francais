@@ -6,4 +6,4 @@ Elle représente l'Etat devant les instances internationales à caractère arbit
 
 Elle est consultée sur tout projet de traité ou d'accord international et associée en tant que de besoin à la négociation de ces instruments.
 
-Elle est responsable de toute question relative au droit de la mer et au statut de l'Antarctique.
+Elle est responsable de toute question relative au droit de la mer, au droit fluvial et aux pôles.
