@@ -16,7 +16,7 @@ Centre d'étude et de valorisation des algues (CEVA) ;
 
 Centre d'expérimentation et de valorisation des produits de la mer (CEVPM) ;
 
-Centre régional d'innovation et de transfert de technologie agro-alimentaire et biotechnologie (CRITT2ABI) ;
+Centre régional d'innovation et de transfert de technologie agro-alimentaire et biotechnologie (CRITT 2ABI) d'UB-Filiale ;
 
 Centre de valorisation des glucides (CVG) ;
 
