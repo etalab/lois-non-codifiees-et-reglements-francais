@@ -2,7 +2,7 @@
 
 **ZONES RÉGLEMENTÉES : ZONES GÉOGRAPHIQUES DU TERRITOIRE FRANÇAIS DANS LESQUELLES DES ZONES DE PROTECTION ET DE SURVEILLANCE SONT INSTITUÉES**
 
-Zone A (sérotypes 1, 2, 4 et 16)
+_Zone A (sérotypes 1, 2, 4 et 16)_
 
 Zone de protection :
 
@@ -10,7 +10,7 @@ Zone de protection :
 
 - département de la Haute-Corse.
 
-Zone B (sérotype 8)
+_Zone B (sérotype 8)_
 
 Zone de protection :
 
@@ -42,7 +42,7 @@ Zone de protection :
 
 - département du Cher ;
 
-- département de la Corrèze : arrondissement d'Ussel et cantons d'Egletons, Lapleau, Saint-Privat, Treignac ;
+- département de la Corrèze : arrondissements de Tulle, Ussel et cantons de Juillac, Lubersac, Vigeois ;
 
 - département de la Côte-d'Or ;
 
@@ -150,7 +150,7 @@ Zone de protection :
 
 - département de la Vienne ;
 
-- département de la Haute-Vienne : arrondissement de Bellac et cantons d'Ambazac, Châteauneuf-la-Forêt, Eymoutiers, Laurière, Nieul, Saint-Junien-Est, Saint-Léonard-de-Noblat, Limoges-Isle, Limoges-Couzeix, Limoges-Le Palais, Limoges-Panazol, Saint-Junien-Ouest, Saint-Junien, Limoges ;
+- département de la Haute-Vienne ;
 
 - département des Vosges ;
 
@@ -168,7 +168,7 @@ Zone de protection :
 
 - département du Val-d'Oise.
 
-Zone C. - Zone d'outre-mer
+_Zone C. - Zone d'outre-mer_
 
 Zone de protection :
 
@@ -180,7 +180,7 @@ Zone de protection :
 
 - département de la Réunion.
 
-Zone E (sérotypes 1 et 8)
+_Zone E (sérotypes 1 et 8)_
 
 Zone de protection :
 
@@ -194,7 +194,7 @@ Zone de protection :
 
 - département de la Charente-Maritime ;
 
-- département de la Corrèze : arrondissement de Brive-la-Gaillarde et cantons d'Argentat, Corrèze, Mercœur, La Roche-Canillac, Seilhac, Uzerche, Tulle-Campagne-Nord, Tulle-Campagne-Sud, Tulle ;
+- département de la Corrèze : cantons d'Ayen, Beaulieu-sur-Dordogne, Beynat, Donzenac, Larche, Meyssac, Brive-la-Gaillarde-Sud-Est, Brive-la-Gaillarde-Sud-Ouest, Malemort-sur-Corrèze, Brive-la-Gaillarde ;
 
 - département de la Dordogne ;
 
@@ -220,6 +220,4 @@ Zone de protection :
 
 - département du Tarn ;
 
-- département de Tarn-et-Garonne ;
-
-- département de la Haute-Vienne : cantons d'Aixe-sur-Vienne, Châlus, Nexon, Oradour-sur-Vayres, Pierre-Buffière, Rochechouart, Saint-Germain-les-Belles, Saint-Laurent-sur-Gorre, Saint-Mathieu, Saint-Yrieix-la-Perche, Limoges-Condat.
+- département de Tarn-et-Garonne.
