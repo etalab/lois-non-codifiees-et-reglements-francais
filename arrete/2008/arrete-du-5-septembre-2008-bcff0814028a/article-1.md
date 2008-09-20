@@ -1,0 +1,3 @@
+# Article 1
+
+Peuvent être titularisés dans le corps des agents administratifs de Mayotte, créé par le décret du 17 février 2005 susvisé, au titre de sa constitution initiale, après réussite à un examen professionnel, les agents titulaires et non titulaires de la collectivité territoriale de Mayotte remplissant les conditions fixées aux articles 12 et 14 du décret du 17 février 2005 précité. Les agents qui exercent des fonctions d'encadrement, d'expertise ou de coordination peuvent être intégrés au grade d'agent administratif principal. Un examen professionnel est organisé pour l'accès à chacun des grades. Cet examen est organisé dans les conditions fixées ci-après.
