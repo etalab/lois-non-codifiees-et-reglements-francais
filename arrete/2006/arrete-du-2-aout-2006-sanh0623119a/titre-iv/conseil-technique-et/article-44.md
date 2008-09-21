@@ -1,8 +1,8 @@
 # Article 44
 
-Dans chaque centre de formation de préparateurs en pharmacie hospitalière, le directeur est assisté d'un conseil technique, qui est consulté sur toute question relative à la formation des élèves. Ce conseil est constitué par arrêté du préfet de région.
+Dans chaque centre de formation de préparateurs en pharmacie hospitalière, est mis en place un conseil technique, qui est consulté sur toute question relative à la formation des élèves. Ce conseil est constitué par arrêté du préfet de région.
 
-Le conseil technique est présidé par le directeur régional des affaires sanitaires et sociales ou son représentant pharmacien inspecteur de santé publique, dans la région où se situe le centre de formation. Il comprend, outre le directeur du centre de formation et le conseiller scientifique :
+Le conseil technique est présidé par le directeur régional des affaires sanitaires et sociales ou son représentant pharmacien inspecteur de santé publique, dans la région où se situe le centre de formation. Il comprend, outre le président du conseil régional ou son représentant, le directeur du centre de formation et le conseiller scientifique :
 
 a) Un représentant de l'organisme gestionnaire ;
 
@@ -22,7 +22,7 @@ Le cas échéant,
 
 h) Le coordonnateur général des soins de l'établissement dont dépend le centre de formation de préparateurs en pharmacie hospitalière ou son représentant.
 
-A l'exception du point d, les membres sont désignés pour trois ans par le directeur régional des affaires sanitaires et sociales.
+A l'exception du point e, les membres sont désignés pour trois ans par le directeur régional des affaires sanitaires et sociales.
 
 Les membres du conseil peuvent se faire représenter par un suppléant désigné dans les mêmes conditions que le titulaire.
 

@@ -1,10 +1,10 @@
 # Article 39
 
-Ces centres, dénommés " centres de formation de préparateurs en pharmacie hospitalière ", sont agréés par le ministre chargé de la santé sur la base d'un dossier comportant l'avis motivé du directeur régional des affaires sanitaires et sociales.
+Ces centres, dénommés " centres de formation de préparateurs en pharmacie hospitalière ", sont agréés par le ministre chargé de la santé, pour une durée de cinq ans, sur la base d'un dossier comportant l'avis motivé du directeur régional des affaires sanitaires et sociales.
 
 Ce dossier comporte :
 
-- la capacité d'accueil ;
+- le projet de fonctionnement du centre de formation ;
 
 - le projet pédagogique ;
 
