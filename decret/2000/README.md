@@ -110,7 +110,6 @@
 - [Décret n°2000-825 du 28 août 2000 (INTE0000233D)](decret-n2000-825-du-28-aout-2000-inte0000233d)
 - [Décret n°2000-609 du 29 juin 2000 (MCCB0000009D)](decret-n2000-609-du-29-juin-2000-mccb0000009d)
 - [Décret n°99-1153 du 29 décembre 1999 (MAEA9920519D)](decret-n99-1153-du-29-decembre-1999-maea9920519d)
-- [Décret du 29 mai 2000 (AGRP0000329D)](decret-du-29-mai-2000-agrp0000329d)
 - [Décret n°2000-456 du 29 mai 2000 (ECOX0004146D)](decret-n2000-456-du-29-mai-2000-ecox0004146d)
 - [Décret n°2000-465 du 29 mai 2000 (ECOI0000190D)](decret-n2000-465-du-29-mai-2000-ecoi0000190d)
 - [Décret n°2000-1159 du 30 novembre 2000 (MAEA0020385D)](decret-n2000-1159-du-30-novembre-2000-maea0020385d)
