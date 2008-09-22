@@ -50,8 +50,6 @@
 - [Décret n°2005-1421 du 15 novembre 2005 (SANH0523732D)](decret-n2005-1421-du-15-novembre-2005-sanh0523732d)
 - [Décret n°2005-796 du 15 juillet 2005 (DEFP0500934D)](decret-n2005-796-du-15-juillet-2005-defp0500934d)
 - [Décret n°98-1057 du 16 novembre 1998 (DEFP9801941D)](decret-n98-1057-du-16-novembre-1998-defp9801941d)
-- [Décret du 16 mai 2005 (AGRP0500455D)](decret-du-16-mai-2005-agrp0500455d)
-- [Décret du 16 mai 2005 (AGRP0500456D)](decret-du-16-mai-2005-agrp0500456d)
 - [Décret n°2005-469 du 16 mai 2005 (PRMX0508393D)](decret-n2005-469-du-16-mai-2005-prmx0508393d)
 - [Décret n°2005-471 du 16 mai 2005 (EQUP0500599D)](decret-n2005-471-du-16-mai-2005-equp0500599d)
 - [Décret n°2005-475 du 16 mai 2005 (DEVO0530027D)](decret-n2005-475-du-16-mai-2005-devo0530027d)
