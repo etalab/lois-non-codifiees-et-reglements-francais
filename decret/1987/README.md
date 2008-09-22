@@ -305,7 +305,6 @@
 - [Décret n°87-748 du 28 août 1987 (MENF8700475D)](decret-n87-748-du-28-aout-1987-menf8700475d)
 - [Décret n°87-788 du 28 septembre 1987 (ASEH8701019D)](decret-n87-788-du-28-septembre-1987-aseh8701019d)
 - [Décret n°70-989 du 29 octobre 1970](decret-n70-989-du-29-octobre-1970)
-- [Décret n°86-1361 du 29 décembre 1986](decret-n86-1361-du-29-decembre-1986)
 - [Décret n°86-1363 du 29 décembre 1986](decret-n86-1363-du-29-decembre-1986)
 - [Décret n°86-1423 du 29 décembre 1986 (INTB8700004D)](decret-n86-1423-du-29-decembre-1986-intb8700004d)
 - [Décret n°87-293 du 29 avril 1987 (INTB8700111D)](decret-n87-293-du-29-avril-1987-intb8700111d)
