@@ -1,0 +1,12 @@
+# Décret n° 2008-980 du 18 septembre 2008 autorisant le Commissariat à l'énergie atomique à procéder aux opérations de mise à l'arrêt définitif et de démantèlement de l'installation nucléaire de base n° 36 dénommée Station de traitement de déchets radioactifs et de l'installation nucléaire de base n° 79 dénommée Stockage provisoire de décroissance de déchets radioactifs situées sur le territoire de la commune de Grenoble (Isère)
+
+- [Article 1](article-1.md)
+- [Article 2](article-2.md)
+- [Article 3](article-3.md)
+- [Article 4](article-4.md)
+- [Article 5](article-5.md)
+- [Article 6](article-6.md)
+- [Article 7](article-7.md)
+- [Article 8](article-8.md)
+- [Article 9](article-9.md)
+- [Article 10](article-10.md)
