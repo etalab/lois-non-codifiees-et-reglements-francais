@@ -1,0 +1,3 @@
+# Article 3
+
+Les candidatures s'effectuent sur le site internet mentionné à l'article 2 dans les trente jours à partir de la date d'ouverture des registres des candidatures précisée pour chaque emploi sur ce site. Les candidats accèdent au centre serveur sous la rubrique « nouveau candidat » s'ils ne se sont jamais connectés. Le centre serveur leur délivre un numéro de candidat et un mot de passe personnel qui assurent la confidentialité et l'authentification de l'opération. Les personnes disposant d'un numéro de candidat et d'un mot de passe personnel qui leur a été attribué par l'application ANTARES/ANTEE continuent de l'utiliser. La déclaration de candidature doit être imprimée et conservée tout au long de la procédure.
