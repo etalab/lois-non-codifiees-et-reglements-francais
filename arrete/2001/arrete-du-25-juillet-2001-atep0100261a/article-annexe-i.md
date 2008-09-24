@@ -44,7 +44,13 @@ Lorsque l'installation change d'exploitant, le nouvel exploitant ou son représe
 
 Lorsqu'une installation cesse l'activité au titre de laquelle elle était déclarée, son exploitant doit en informer le préfet au moins un mois avant l'arrêt définitif. La notification de l'exploitant indique les mesures de remise en état prévues ou réalisées (référence : article 34-1 du décret du 21 septembre 1977).
 
-1.8 (*) (cf. note 2)
+1.8. Contrôles périodiques
+
+L'installation est soumise à des contrôles périodiques par des organismes agréés dans les conditions définies par les articles R. 512-55 à R. 512-60 du code de l'environnement.
+
+Ces contrôles ont pour objet de vérifier la conformité de l'installation aux prescriptions listées en annexe IV, éventuellement modifiées par arrêté préfectoral, lorsqu'elles lui sont applicables.
+
+L'exploitant conserve le rapport de visite que l'organisme agréé lui adresse dans le dossier "installations classées" prévu au point 1.4. Si le rapport fait apparaître des non-conformités aux dispositions faisant l'objet du contrôle, l'exploitant met en œuvre les actions correctives nécessaires pour y remédier. Ces actions ainsi que leurs dates de mise en œuvre sont formalisées et conservées dans le dossier susmentionné.
 
 2. Implantation. - Aménagement
 
@@ -426,7 +432,7 @@ III. - Valeurs limites d'émission en COV, NOx, CO et CH4 en cas d'utilisation d
 
 Dans le cas de l'utilisation d'une technique d'oxydation pour l'élimination COV, la valeur limite d'émission en COV exprimée en carbone total est de 20 mg par m³ ou 50 mg par m³ si le rendement d'épuration est supérieur à 98 %. La teneur en oxygène de référence pour la vérification de la conformité aux valeurs limites d'émission est celle mesurée dans les effluents en sortie d'équipement d'oxydation. L'exploitant examine notamment la possibilité d'installer un dispositif de récupération secondaire d'énergie. En outre, l'exploitant s'assurera du respect des valeurs limites d'émission définies ci-dessous pour les oxydes d'azote (NOx), le monoxyde de carbone (CO) et le méthane (CH4) :
 
-- (cf. note 3) NOx (en équivalent NO2) : 100 mg par m³ ;
+- (cf. note 2) NOx (en équivalent NO2) : 100 mg par m³ ;
 
 - CH4 : 50 mg par m³ ;
 
@@ -708,10 +714,8 @@ En fin d'exploitation, tous les produits dangereux ainsi que tous les déchets s
 
 Les cuves ayant contenu des produits susceptibles de polluer les eaux sont vidées, nettoyées, dégazées et le cas échéant décontaminées. Elles sont si possible enlevées, sinon et dans le cas spécifique des cuves enterrées, elles sont rendues inutilisables par remplissage avec un matériau solide inerte.
 
-NOTE (S) :
+NOTE(S) :
 
 (1) Un modèle a été constitué pour la rédaction des arrêtés de prescriptions générales applicables aux installations soumises à déclaration. Certaines dispositions de ce modèle, qui ne se justifient pas pour les installations visées par la rubrique n° 2351, ont été supprimées. Néanmoins, la numérotation a été conservée pour permettre une homogénéité entre les arrêtés de prescriptions générales de toutes les rubriques de la nomenclature.
 
-(2) Un modèle a été constitué pour la rédaction des arrêtés de prescriptions générales applicables aux installations soumises à déclaration. Certaines dispositions de ce modèle, qui ne se justifient pas pour les installations visées par la rubrique n° 2330, ont été supprimées. Néanmoins, la numérotation a été conservée pour permettre une homogénéité entre les arrêtés de prescriptions générales de toutes les rubriques de la nomenclature
-
-(3) Une dérogation à cette valeur pourra être accordée par le préfet si les effluents à traiter contiennent des composés azotés (amines, amides...).
+(2) Une dérogation à cette valeur pourra être accordée par le préfet si les effluents à traiter contiennent des composés azotés (amines, amides...).
