@@ -53,6 +53,7 @@
 - [Arrêté du 8 décembre 2006 (JUSA0600335A)](arrete-du-8-decembre-2006-jusa0600335a)
 - [Arrêté du 8 décembre 2006 (SANS0624984A)](arrete-du-8-decembre-2006-sans0624984a)
 - [Arrêté du 8 juin 2006 (AGRG0601032A)](arrete-du-8-juin-2006-agrg0601032a)
+- [Arrêté du 8 juin 2006 (ECOP0600249A)](arrete-du-8-juin-2006-ecop0600249a)
 - [Arrêté du 8 novembre 2006 (EQUT0602200A)](arrete-du-8-novembre-2006-equt0602200a)
 - [Arrêté du 8 novembre 2006 (MENS0602576A)](arrete-du-8-novembre-2006-mens0602576a)
 - [Arrêté du 8 novembre 2006 (SANP0624618A)](arrete-du-8-novembre-2006-sanp0624618a)
