@@ -1,8 +1,8 @@
 # Article Annexe
 
-**ZONES RÉGLEMENTÉES : ZONES GÉOGRAPHIQUES DU TERRITOIRE FRANÇAIS DANS LESQUELLES DES ZONES DE PROTECTION ET DE SURVEILLANCE SONT INSTITUÉES**
+ZONES RÉGLEMENTÉES : ZONES GÉOGRAPHIQUES DU TERRITOIRE FRANÇAIS DANS LESQUELLES DES ZONES DE PROTECTION ET DE SURVEILLANCE SONT INSTITUÉES
 
-_Zone A (sérotypes 1, 2, 4 et 16)_
+Zone A (sérotypes 1, 2, 4 et 16)
 
 Zone de protection :
 
@@ -10,7 +10,7 @@ Zone de protection :
 
 - département de la Haute-Corse.
 
-_Zone B (sérotype 8)_
+Zone B (sérotype 8)
 
 Zone de protection :
 
@@ -38,7 +38,7 @@ Zone de protection :
 
 - département du Calvados ;
 
-- département du Cantal ;
+- département du Cantal : arrondissements de Saint-Flour, Mauriac et cantons de Aurillac 2e canton, Laroquebrou, Montsalvy, Saint-Cernin, Saint-Mamet-la-Salvetat, Vic-sur-Cère, Aurillac 4e canton, Arpajon-sur-Cère, Jussac, Aurillac ;
 
 - département du Cher ;
 
@@ -60,7 +60,7 @@ Zone de protection :
 
 - département du Finistère ;
 
-- département du Gard ;
+- département du Gard : arrondissements d'Alès, Nîmes et cantons de Lasalle, Quissac, Saint-André-de-Valborgne, Saint-Hippolyte-du-Fort, Sauve, Sumène, Valleraugue ;
 
 - département d'Ille-et-Vilaine ;
 
@@ -168,7 +168,7 @@ Zone de protection :
 
 - département du Val-d'Oise.
 
-_Zone C. - Zone d'outre-mer_
+Zone C. - Zone d'outre-mer
 
 Zone de protection :
 
@@ -180,7 +180,7 @@ Zone de protection :
 
 - département de la Réunion.
 
-_Zone E (sérotypes 1 et 8)_
+Zone E (sérotypes 1 et 8)
 
 Zone de protection :
 
@@ -190,6 +190,8 @@ Zone de protection :
 
 - département de l'Aveyron : arrondissements de Millau, Villefranche-de-Rouergue et cantons de Bozouls, Cassagnes-Bégonhès, Laissac, Marcillac-Vallon, Naucelle, Pont-de-Salars, Réquista, Rignac, Rodez-Est, Salvetat-Peyralès, Baraqueville-Sauveterre, Rodez-Ouest, Rodez-Nord, Rodez ;
 
+- département du Cantal : canton de Maurs ;
+
 - département de la Charente ;
 
 - département de la Charente-Maritime ;
@@ -197,6 +199,8 @@ Zone de protection :
 - département de la Corrèze : cantons d'Ayen, Beaulieu-sur-Dordogne, Beynat, Donzenac, Larche, Meyssac, Brive-la-Gaillarde-Sud-Est, Brive-la-Gaillarde-Sud-Ouest, Malemort-sur-Corrèze, Brive-la-Gaillarde ;
 
 - département de la Dordogne ;
+
+- département du Gard : cantons de Alzon, Trèves, Vigan ;
 
 - département de la Haute-Garonne ;
 
