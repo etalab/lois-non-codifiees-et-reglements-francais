@@ -1,3 +1,7 @@
 # Article 3
 
-Les représentants des personnels assujettis à l'I.R.C.A.N.T.E.C. sont désignés sur proposition des organisations syndicales représentatives dans les conditions fixées par un arrêté du ministre de l'économie et des finances, du ministre de la santé publique et de la sécurité sociale et du secrétaire d'Etat auprès du Premier ministre, chargé de la fonction publique et des réformes administratives.
+Les critères de solvabilité à long terme du régime de retraite mentionnés au III de l'article 2 du décret n° 70-1277 du 23 décembre 1970 modifié sont les suivants :
+
+1° Le régime dispose au terme de vingt ans d'un montant de réserve équivalent à une fois et demie le montant annuel prévu des prestations du régime au titre du vingtième exercice de projection ;
+
+2° Le paiement des prestations est couvert par les cotisations prévisionnelles et les réserves du régime sur une durée de trente ans.

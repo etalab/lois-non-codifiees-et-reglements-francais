@@ -2,13 +2,13 @@
 
 Paragraphe 1. L'allocation de retraite est normalement liquidée à l'âge de soixante-cinq ans. Cependant elle peut faire l'objet d'une anticipation, au plus tôt à cinquante-cinq ans. Dans ce cas, le total des points de retraite est affecté des coefficients de réduction ci-après.
 
-A cinquante-cinq ans, les points effectivement inscrits au compte de l'intéressé sont affectés du coefficient 0,43 ;
+A cinquante-cinq ans, les points effectivement inscrits au compte de l'intéressé sont affectés du coefficient 0, 43 ;
 
-En cas de prise de retraite entre cinquante-cinq et soixante ans, le coefficient ci-dessus est majoré de 0,017 5 par trimestre écoulé entre l'âge de cinquante-cinq ans et l'âge atteint lors de la liquidation de la retraite ;
+En cas de prise de retraite entre cinquante-cinq et soixante ans, le coefficient ci-dessus est majoré de 0, 017 5 par trimestre écoulé entre l'âge de cinquante-cinq ans et l'âge atteint lors de la liquidation de la retraite ;
 
-En cas de prise de retraite entre soixante ans et soixante-deux ans, le coefficient applicable à soixante ans, soit 0,78, est majoré de 0,012 5 par trimestre écoulé entre l'âge de soixante ans et l'âge atteint lors de la liquidation de la retraite ;
+En cas de prise de retraite entre soixante ans et soixante-deux ans, le coefficient applicable à soixante ans, soit 0, 78, est majoré de 0, 012 5 par trimestre écoulé entre l'âge de soixante ans et l'âge atteint lors de la liquidation de la retraite ;
 
-En cas de prise de retraite entre soixante-deux ans et soixante-cinq ans, le coefficient applicable à soixante-deux ans, soit 0,88, est majoré de 0,01 par trimestre écoulé entre l'âge de soixante-deux ans et l'âge atteint lors de la liquidation de de la retraite.
+En cas de prise de retraite entre soixante-deux ans et soixante-cinq ans, le coefficient applicable à soixante-deux ans, soit 0, 88, est majoré de 0, 01 par trimestre écoulé entre l'âge de soixante-deux ans et l'âge atteint lors de la liquidation de de la retraite.
 
 Toutefois, ce coefficient de réduction n'est pas applicable :
 
@@ -36,14 +36,18 @@ Dans ce cas, le total des points de retraite est affecté des coefficients de r�
 
 Toutefois, le total des points de retraite ainsi calculé ne pourra être inférieur à celui qui aurait été obtenu après application du coefficient d'abattement correspondant à l'âge de l'intéressé.
 
-Paragraphe 3.  Lorsque, à partir du 1er octobre 1989, l'agent bénéficie de la retraite progressive en application des articles L. 351-15 et L. 351-16 du code de la sécurité sociale l'Ircantec procède à une liquidation provisoire de la pension et sert une fraction de celle-ci jusqu'à la liquidation définitive.
+Paragraphe 3. Lorsque, à partir du 1er octobre 1989, l'agent bénéficie de la retraite progressive en application des articles L. 351-15 et L. 351-16 du code de la sécurité sociale l'Ircantec procède à une liquidation provisoire de la pension et sert une fraction de celle-ci jusqu'à la liquidation définitive.
 
 La fraction de pension servie par l'Ircantec est fixée à :
 
-30 p. 100 lorsque la durée de travail à temps partiel est au plus égale à 80 p. 100 et au moins égale à 60 p. 100 de la durée de travail à temps complet ;
+30 % lorsque la durée de travail à temps partiel est au plus égale à 80 % et au moins égale à 60 % de la durée de travail à temps complet ;
 
-50 p. 100 lorsque la durée de travail à temps partiel est inférieure à 60 p. 100 et au moins égale à 40 p. 100 de la durée de travail à temps complet ;
+50 % lorsque la durée de travail à temps partiel est inférieure à 60 % et au moins égale à 40 % de la durée de travail à temps complet ;
 
-70 p. 100 lorsque la durée de travail à temps partiel est inférieure à 40 p. 100 de la durée de travail à temps complet.
+70 % lorsque la durée de travail à temps partiel est inférieure à 40 % de la durée de travail à temps complet.
 
 Lors de la liquidation définitive, il est tenu compte du nombre de points de retraite acquis par cotisations au régime depuis la liquidation provisoire.
+
+Paragraphe 4. A compter du 1er janvier 2010, lorsque la liquidation de la pension est demandée par le participant après l'âge normal de soixante-cinq ans, le nombre total de points est majoré de 0, 75 % par trimestre entier écoulé entre le soixante-cinquième anniversaire de l'assuré et la date d'entrée en jouissance de la pension mentionnée à l'article 17.
+
+En outre, la durée d'assurance ayant donné lieu à cotisations à la charge de l'assuré accomplie après l'âge et la limite prévus à l'article L. 351-1 du code de la sécurité sociale et avant l'âge de soixante-cinq ans donne lieu à une majoration du total des points égale à 0, 625 % par trimestre accompli.

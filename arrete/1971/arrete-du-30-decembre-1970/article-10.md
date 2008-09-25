@@ -2,7 +2,7 @@
 
 Il est ouvert au nom de chaque participant un compte de points.
 
-Le nombre de points de retraite inscrits à ce compte au cours d'une année civile déterminée s'obtient en divisant le montant des cotisations afférentes à cette année, calculées en appliquant les taux prévus à l'article 7 du décret du 23 décembre 1970 susvisé, par le salaire de référence de l'année considérée.
+Le nombre de points de retraite inscrits à ce compte au cours d'une année civile déterminée s'obtient en divisant le montant des cotisations afférentes à cette année, calculées en appliquant les taux prévus à l'article 7 du décret du 23 décembre 1970 modifié susvisé, par le salaire de référence de l'année considérée.
 
 Le salaire de référence est revalorisé chaque année au 1er janvier. Le coefficient de revalorisation est celui qui est fixé en application des deux premiers alinéas de l'article L. 161-23-1 du code de la sécurité sociale.
 

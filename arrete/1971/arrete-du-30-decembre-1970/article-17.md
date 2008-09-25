@@ -6,13 +6,9 @@ La liquidation ne peut être opérée que sur demande de l'intéressé, accompag
 
 a) D'une justification attestant qu'il n'est plus assujetti au présent régime de retraite ;
 
-b) D'une fiche familiale d'état civil.
+b) D'un justificatif d'état civil ;
 
-c) Le cas échéant :
-
-D'une pièce émanant de la caisse de sécurité sociale compétente établissant que l'intéressé a été reconnu inapte au travail ;
-
-Ou d'une copie, certifiée conforme, de la carte de déporté ou d'interné de la Résistance ou de la carte de déporté ou d'interné politique ;
+c) Le cas échéant, de toute pièce justifiant l'attribution de droits supplémentaires.
 
 Ou de la notification d'attribution d'une pension de la sécurité sociale au titre de la loi n° 73-1051 du 21 novembre 1973 ou du décret n° 74-428 du 15 mai 1974 permettant aux anciens combattants et aux anciens prisonniers de guerre de bénéficier, entre soixante et soixante-cinq ans, d'une pension de retraite calculée sur le taux applicable à l'âge de soixante-cinq ans.
 
