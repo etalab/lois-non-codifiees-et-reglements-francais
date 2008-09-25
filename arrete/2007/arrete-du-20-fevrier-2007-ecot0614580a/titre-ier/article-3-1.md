@@ -1,6 +1,6 @@
 # Article 3-1
 
-Par dérogation à l'article 2-1, les entreprises d'investissement assujetties qui ne sont pas agréées pour fournir l'un des services d'investissement visés à l'article L. 321-1 points 3, 5 et 6, du code monétaire et financier détiennent en permanence des fonds propres d'un montant au moins égal au plus élevé des deux montants suivants :
+Par dérogation à l'article 2-1, les entreprises d'investissement assujetties qui ne sont pas agréées pour fournir l'un des services d'investissement visés aux points 3, 6-1, 6-2 et 7 de l'article L. 321-1 du code monétaire et financier détiennent en permanence des fonds propres d'un montant au moins égal au plus élevé des deux montants suivants :
 
 a) La somme des exigences des articles 2-2 et 2-3 ;
 

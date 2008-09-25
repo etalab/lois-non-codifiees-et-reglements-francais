@@ -2,7 +2,7 @@
 
 Les établissements qui utilisent leurs estimations des facteurs de conversion satisfont les exigences suivantes :
 
-a) Les facteurs de conversion sont estimés par note de transaction ou par lot, à partir de la moyenne des facteurs de conversion attendus. Cette moyenne, calculée pour toute note de transaction ou lot, est pondérée par le nombre de défauts observés dans les différentes sources de données ;
+a) Les facteurs de conversion sont estimés par note de transaction ou par lot, à partir de la moyenne des facteurs de conversion attendus. Cette moyenne, calculée pour toute note de transaction ou lot, est pondérée par les défauts observés dans les différentes sources de données ;
 
 b) Les établissements assujettis utilisent les estimations des facteurs de conversion qui s'appliqueraient en cas de ralentissement économique, si ces estimations sont plus prudentes que la moyenne calculée sur longue période. Dans la mesure où il est attendu que les valeurs des facteurs de conversion par note ou par lot soient relativement stables dans le temps, les établissements assujettis apportent à leurs estimations des paramètres de risque par note ou par lot les ajustements nécessaires pour limiter l'impact d'un ralentissement économique sur leurs fonds propres ;
 

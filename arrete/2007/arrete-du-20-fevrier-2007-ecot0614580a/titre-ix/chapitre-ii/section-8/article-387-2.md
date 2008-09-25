@@ -12,4 +12,4 @@ a) Pour chaque portefeuille couvert :
 
 b) Le champ d'application de l'autorisation de la Commission bancaire ;
 
-c) Une présentation des méthodes mises en oeuvre pour satisfaire les exigences visées à la section 2, chapitre Ier, du titre VII.
+c) Une description de la mesure du respect des exigences visées à la section 2, chapitre II du titre VII et des méthodes appliquées à cet effet.

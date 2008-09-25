@@ -2,7 +2,7 @@
 
 Les instruments éligibles en tant que sûreté visés à l'article 164-1 doivent satisfaire les exigences minimales suivantes :
 
-a) La qualité de crédit du débiteur et la valeur de l'instrument ne sont pas corrélées positivement de manière significative. Les titres de créance émis par le débiteur, ou par toute entité appartenant au même groupe, ne sont pas éligibles.
+a) La qualité de crédit du débiteur et la valeur de l'instrument ne sont pas corrélées positivement de manière significative. Les instruments émis par le débiteur, ou par toute entité appartenant au même groupe, ne sont pas éligibles.
 
 Les obligations foncières, ou autres ressources bénéficiant du privilège mentionnées au 2° du I de l'article L. 515-13 du code monétaire et financier, émises par le débiteur sont éligibles lorsqu'elles sont reçues en pension et lorsque la qualité de crédit du débiteur et la valeur de ces obligations ou ressources ne sont pas corrélées positivement de manière significative ;
 

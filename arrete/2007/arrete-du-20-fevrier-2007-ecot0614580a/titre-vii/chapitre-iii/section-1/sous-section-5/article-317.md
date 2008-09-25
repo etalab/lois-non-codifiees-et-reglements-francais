@@ -26,9 +26,9 @@ i) la position correspond aux situations visées au ii) de l'alinéa a, mais la 
 
 - l'emprunteur est identique pour l'engagement sous-jacent et l'actif de référence. Ces derniers sont assortis de clauses de défaut croisé ou de paiement anticipé croisé qui peuvent être effectivement mises en oeuvre ;
 
-ii) les deux jambes sont constituées d'instruments totalement identiques ou la position correspond aux situations visées à l'alinéa a, mais il existe une asymétrie de devise ou d'échéance entre la protection de crédit et l'actif sous-jacent. Les cas d'asymétrie de devises font partie des informations transmises au titre du risque de change, conformément à la section 1 du chapitre IV ;
+ii) les deux jambes sont constituées d'instruments totalement identiques ou la position correspond aux situations visées à l'alinéa b, mais il existe une asymétrie de devise ou d'échéance entre la protection de crédit et l'actif sous-jacent. Les cas d'asymétrie de devises font partie des informations transmises au titre du risque de change, conformément à la section 1 du chapitre IV ;
 
-iii) la position correspond aux situations visées à l'alinéa a, mais la correspondance entre la position au comptant et le dérivé de crédit est imparfaite. L'actif sous-jacent fait cependant l'objet d'une livraison physique en accord avec la documentation du contrat de dérivé de crédit.
+iii) la position correspond aux situations visées à l'alinéa b, mais la correspondance entre la position au comptant et le dérivé de crédit est imparfaite. L'actif sous-jacent fait cependant l'objet d'une livraison physique en accord avec la documentation du contrat de dérivé de crédit.
 
 Dans chacune de ces situations, les établissements assujettis retiennent la plus élevée des deux exigences de fonds propres au titre du risque spécifique se rapportant à chaque jambe de l'opération ;
 

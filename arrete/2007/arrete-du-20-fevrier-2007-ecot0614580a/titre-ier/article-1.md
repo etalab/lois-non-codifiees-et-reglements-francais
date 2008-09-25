@@ -4,9 +4,9 @@ Les entreprises assujetties au présent arrêté, dénommées ci-après établis
 
 - les établissements de crédit ;
 
-- les entreprises d'investissement visées à l'article L. 531-4 du code monétaire et financier autres que les sociétés de gestion de portefeuille visées à l'article L. 532-9 du même code et autres que les entreprises d'investissement qui ne détiennent ni fonds ni titres appartenant à la clientèle et qui fournissent exclusivement le service d'investissement visé à l'article L. 321-1.1 du même code ;
+- les entreprises d'investissement visées à l'article L. 531-4 du code monétaire et financier autres que les sociétés de gestion de portefeuille visées à l'article L. 532-9 du même code et autres que les entreprises d'investissement qui ne détiennent ni fonds ni titres appartenant à la clientèle et qui fournissent exclusivement, de manière cumulative ou non, le ou les services d'investissement visés aux points 1 et 5 de l'article L. 321-1 du même code ;
 
-- les compagnies financières dont la Commission bancaire assure la surveillance sur base consolidée en application du règlement n° 2000-03 susvisé ;
+- les compagnies financières ainsi que les compagnies financières holding mixtes dont la Commission bancaire assure la surveillance sur base consolidée en application du règlement n° 2000-03 susvisé ;
 
 - les personnes mentionnées au point 4 de l'article L. 442-2 et au point 5 de l'article L. 542-1 du code monétaire et financier.
 

@@ -6,4 +6,4 @@ a) Tous les risques opérationnels encourus par les établissements assujettis s
 
 b) L'établissement assujetti démontre à la Commission bancaire que la méthodologie appliquée couvre les différentes activités, localisations géographiques, structures juridiques et autre découpage pertinent déterminés par l'établissement assujetti ;
 
-c) Les critères visés aux chapitres II et III s'appliquent effectivement aux parties respectives de l'activité soumise à l'approche standard et à l'approche de mesure avancée.
+c) Les critères visés aux chapitres III et IV s'appliquent effectivement aux parties respectives de l'activité soumise à l'approche standard et à l'approche de mesure avancée.

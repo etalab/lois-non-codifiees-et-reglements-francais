@@ -4,7 +4,9 @@ Les établissements assujettis utilisant l'approche notations internes avancée 
 
 a) Pour un instrument soumis à un échéancier de trésorerie, la durée est calculée conformément à la formule suivante :
 
-<div/>
+Vous pouvez consulter le tableau dans le JO
+
+n° 51 du 01/03/2007 texte numéro 12
 
 où CFt (cash flow, CF en anglais) indique les flux de trésorerie en principal, intérêts et commissions que le débiteur est contractuellement tenu de payer durant la période t, exprimée en années ;
 
@@ -22,12 +24,14 @@ e) Pour tout instrument autre que ceux visés dans cet article, ou lorsqu'un ét
 
 f) Lorsqu'un établissement assujetti utilise la méthode des modèles internes pour le risque de contrepartie visée au titre VI, la valeur de (M) des expositions auxquelles ladite méthode est appliquée lorsque ces expositions sont incluses dans un ensemble de compensation où l'échéance du contrat ayant la durée de vie la plus longue est supérieure à un an est déterminée selon la formule ci-dessous :
 
-<div/>
+Vous pouvez consulter le tableau dans le JO
+
+n° 51 du 01/03/2007 texte numéro 12
 
 où dfk est le taux d'actualisation sans risque pour la période future tk.
 
 Lorsqu'il recourt à un modèle interne pour calculer un ajustement unilatéral de l'évaluation de crédit, un établissement assujetti peut, sous réserve de l'autorisation de la Commission bancaire, prendre pour valeur de (M) la duration effective du crédit telle qu'estimée par ledit modèle.
 
-Sous réserve des dispositions de l'article 89-2, la formule précédente s'applique pour les ensembles de compensation ne comprenant que des contrats d'une échéance initiale inférieure à un an.
+Sous réserve des dispositions de l'article 89-2, la formule mentionnée au point a s'applique pour les ensembles de compensation ne comprenant que des contrats d'une échéance initiale inférieure à un an.
 
 Pour l'application du traitement du double défaut, la durée (M) correspond à l'échéance effective de la protection de crédit. (M) ne peut être inférieure à un an.
