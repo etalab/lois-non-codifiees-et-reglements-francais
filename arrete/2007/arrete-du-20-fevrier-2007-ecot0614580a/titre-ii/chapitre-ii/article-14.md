@@ -26,8 +26,8 @@ b) Les établissements assujettis appliquent un taux de pondération de 0 % aux 
 
 - la Banque européenne d'investissement ;
 
-- le Fonds d'investissement européen ;
+- le Fonds européen d'investissement ;
 
-- l'Agence multilatérale de garantie d'investissement ;
+- l'Agence multilatérale de garantie des investissements ;
 
 c) Un taux de pondération de 20 % est appliqué sur le capital souscrit mais non versé au Fonds européen d'investissement.
