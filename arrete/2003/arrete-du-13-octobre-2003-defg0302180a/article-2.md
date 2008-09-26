@@ -4,7 +4,7 @@ Les catégories d'informations enregistrées sont :
 
 - pour la diffusion d'informations nominatives relatives à des personnes appartenant à la gendarmerie nationale : nom, prénom, grade, adresses postale et professionnelle de courrier électronique, numéros de téléphone et de télécopie professionnels, service, photographie ;
 
-- pour la mise en oeuvre de la messagerie électronique : l'adresse de messagerie électronique de l'émetteur du message, les dates et heures d'émission et de réception du message ainsi que son contenu, l'identité du visiteur (nom, prénom) ;
+- pour la collecte de données personnelles par le biais d'un formulaire en ligne permettant d'accéder au site : nom, prénom, date de naissance, numéro d'identification du gendarme, identifiant, mot de passe, courriel, grade, statut, région administrative d'affectation, informations libres ;
 
 - pour la collecte de données personnelles par le biais d'un formulaire en ligne permettant d'accéder au site : nom, prénom, date de naissance, numéro d'identification du gendarme et numéro de carte professionnelle (pour les personnels militaires), identifiant, mot de passe, adresse professionnelle de courrier électronique, grade, informations libres ;
 

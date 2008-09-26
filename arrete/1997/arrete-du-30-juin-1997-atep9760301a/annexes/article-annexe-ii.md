@@ -1,5 +1,7 @@
 # Article Annexe II
 
+Dispositions applicables aux installations existantes.
+
 Les dispositions sont applicables aux installations existantes selon calendrier suivant :
 
 AU 1er OCTOBRE 1997
@@ -45,3 +47,5 @@ AU 1er OCTOBRE 2001
 6.3. Air, mesure périodique
 
 8.4. Bruit, mesure périodique
+
+Les dispositions du point 1.8 sont applicables aux installations existantes dans les conditions fixées par l'article 5 du décret n° 2006-435 du 13 avril 2006 fixant les modalités du contrôle périodique de certaines catégories d'installations classées soumises à déclaration.
