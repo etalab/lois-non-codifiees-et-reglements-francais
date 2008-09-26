@@ -8,7 +8,9 @@ Pour chacune des commissions techniques spécialisées les membres nommés par a
 
 - deux représentants des consommateurs ou des utilisateurs des instruments de mesure concernés ;
 
-- deux personnalités compétentes dans les domaines concernés.
+- un représentant du Comité français d'accréditation (COFRAC) ;
+
+- au moins deux personnalités compétentes dans les domaines concernés.
 
 En cas de remplacement de l'un de ces membres en cours de mandat, son successeur est nommé pour la durée du mandat restant à accomplir.
 

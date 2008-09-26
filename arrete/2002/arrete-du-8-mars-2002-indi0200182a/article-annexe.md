@@ -4,7 +4,7 @@ A N N E X E
 
 COMPÉTENCES DES COMMISSIONS TECHNIQUES SPÉCIALISÉES
 
-Commission « mesurage des masses » pour les catégories :
+Commission  mesurage des masses  pour les catégories :
 
 - mesures matérialisées de masse (poids) ;
 
@@ -12,19 +12,19 @@ Commission « mesurage des masses » pour les catégories :
 
 - instruments de pesage à fonctionnement automatique.
 
-Commission « mesurage des fluides » pour les catégories :
+Commission  mesurage des fluides  pour les catégories :
 
-- compteurs d'eau froide ;
+- compteurs d'eau froide propre ;
 
-- compteurs d'eau chaude ;
+- compteurs d'eau chaude propre ;
 
 - ensembles de mesurage de liquides autres que l'eau ;
 
 - voludéprimomètres pour mesurage des volumes de gaz ;
 
-- compteurs de volume de gaz ;
+- compteurs de quantité de gaz combustible ou de gaz pur ;
 
-- ensembles de conversion de volume de gaz ;
+- dispositifs de conversion de volume de gaz combustible ou de gaz pur ;
 
 - ensembles de mesurage de masse de gaz ;
 
@@ -40,7 +40,7 @@ Commission « mesurage des fluides » pour les catégories :
 
 - alcoomètres, aéromètres pour alcool et tables alcoométriques.
 
-Commission « transport, environnement » pour les catégories :
+Commission  transport, environnement  pour les catégories :
 
 - éthylomètres ;
 
@@ -60,15 +60,15 @@ Commission « transport, environnement » pour les catégories :
 
 - thermomètres pour denrées périssables utilisés par les agents de l'Etat pour le contrôle des denrées périssables ou à l'occasion d'expertises portant sur les mêmes denrées ;
 
-- instruments équipant les installations thermiques en vue de réduire la pollution atmosphérique et d'économiser l'énergie.
+- instruments de mesure de la distance entre véhicules ou ensemble de véhicules.
 
-Commission « mesurages divers » pour les catégories :
+Commission  mesurages divers  pour les catégories :
 
 - compteurs d'énergie électrique ;
 
 - humidimètres pour grains de céréales et graines oléagineuses ;
 
-- saccharimètres automatiques pour la réception des betteraves livrées aux sucreries et aux distilleries ;
+- saccharimètres automatiques pour la réception des betteraves livrées aux sucreries et aux distilleries et balances proportionneuses ;
 
 - réfractomètres utilisés pour mesurer la teneur en sucre des moûts de raisin naturels ;
 
@@ -78,8 +78,8 @@ Commission « mesurages divers » pour les catégories :
 
 - mesures matérialisées de capacité pour grains ;
 
-- mesures matérialisées de longueur ;
+- instruments de mesure multidimensionnelle ;
 
-- instruments mesureurs de longueur ;
+- odomètres ;
 
 - machines planimétriques.
