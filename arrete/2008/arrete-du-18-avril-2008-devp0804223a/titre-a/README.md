@@ -1,4 +1,4 @@
-# Arrêté du 4 février 2002 portant organisation interne du service de l'information aéronautique.
+# TITRE A : DISPOSITIONS COMMUNES AUX INSTALLATIONS  NOUVELLES ET EXISTANTES
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

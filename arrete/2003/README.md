@@ -925,7 +925,6 @@
 - [Arrêté du 27 janvier 2003 (AGRG0202766A)](arrete-du-27-janvier-2003-agrg0202766a)
 - [Arrêté du 27 janvier 2003 (AGRG0202767A)](arrete-du-27-janvier-2003-agrg0202767a)
 - [Arrêté du 27 janvier 2003 (BUDL0300014A)](arrete-du-27-janvier-2003-budl0300014a)
-- [Arrêté du 27 janvier 2003 (EQUA0300218A)](arrete-du-27-janvier-2003-equa0300218a)
 - [Arrêté du 27 juillet 2004 (AGRA0401217A)](arrete-du-27-juillet-2004-agra0401217a)
 - [Arrêté du 27 juin 2003 (DEFP0301508A)](arrete-du-27-juin-2003-defp0301508a)
 - [Arrêté du 27 juin 2003 (INDI0301683A)](arrete-du-27-juin-2003-indi0301683a)
