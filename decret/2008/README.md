@@ -621,6 +621,7 @@
 - [Décret n°2008-74 du 23 janvier 2008 (DEVO0755333D)](decret-n2008-74-du-23-janvier-2008-devo0755333d)
 - [Décret n°2008-77 du 23 janvier 2008 (PREX0711222D)](decret-n2008-77-du-23-janvier-2008-prex0711222d)
 - [Décret n°2008-996 du 23 septembre 2008 (BCFZ0821430D)](decret-n2008-996-du-23-septembre-2008-bcfz0821430d)
+- [Décret n°2008-998 du 23 septembre 2008 (AGRP0816270D)](decret-n2008-998-du-23-septembre-2008-agrp0816270d)
 - [Décret n°2001-443 du 23 mai 2001 (MESG0120597D)](decret-n2001-443-du-23-mai-2001-mesg0120597d)
 - [Décret n°2007-1267 du 24 août 2007 (ECEA0760899D)](decret-n2007-1267-du-24-aout-2007-ecea0760899d)
 - [Décret n°2007-1268 du 24 août 2007 (ECEA0760871D)](decret-n2007-1268-du-24-aout-2007-ecea0760871d)

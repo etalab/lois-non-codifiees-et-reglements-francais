@@ -1,0 +1,3 @@
+# Article 3
+
+Les analyses de la qualité des eaux de baignade, mentionnées à l'article D. 1332-24 du code de la santé publique, portent sur les paramètres Entérocoques intestinaux et Escherichia coli et sont réalisées selon les méthodes de référence fixées conformément aux prescriptions, respectivement, de la norme NF EN 7899-1 et de la norme NF EN 9308-3.L'utilisation d'autres méthodes d'analyses que celles mentionnées au présent article peut être autorisée par le ministre chargé de la santé après avis d'un organisme de certification indépendant si ces méthodes fournissent des résultats équivalents au sens de la norme ISO 17994 : 2004 (E) Qualité de l'eau ― Critères permettant d'établir l'équivalence de méthodes microbiologiques.
