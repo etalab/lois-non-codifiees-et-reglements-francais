@@ -1,3 +1,3 @@
 # Article 4
 
-L'octroi de la prime de technicité est exclusif du versement de la prime de service existant antérieurement à la publication du présent décret et de l'indemnité de sujétion spéciale prévue par le décret du 1er août 1990 susvisé.
+Nonobstant les dispositions mentionnées à l'article 4, toutes dispositions antérieures relatives au versement de primes aux ingénieurs de l'Assistance publique - hôpitaux de Paris sont abrogées.

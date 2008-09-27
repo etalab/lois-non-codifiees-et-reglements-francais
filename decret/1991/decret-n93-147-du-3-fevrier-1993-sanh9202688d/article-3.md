@@ -1,3 +1,3 @@
 # Article 3
 
-Le crédit global qui est affecté au paiement de la prime de technicité est fixé pour un exercice donné dans la limite de 40 p. 100 du montant des crédits effectivement utilisés au cours dudit exercice pour la liquidation des traitements budgétaires bruts des ingénieurs de l'Assistance publique - hôpitaux de Paris en position d'activité.
+L'octroi de la prime de technicité est exclusif du versement de la prime de service existant antérieurement à la publication du présent décret et de l'indemnité de sujétion spéciale prévue par le décret du 1er août 1990 susvisé.
