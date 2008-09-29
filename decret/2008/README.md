@@ -699,6 +699,7 @@
 - [Décret n°2007-600 du 26 avril 2007 (DEFX0750541D)](decret-n2007-600-du-26-avril-2007-defx0750541d)
 - [Décret n°2007-601 du 26 avril 2007 (DEFX0750539D)](decret-n2007-601-du-26-avril-2007-defx0750539d)
 - [Décret n°2008-1002 du 26 septembre 2008 (PRMX0823128D)](decret-n2008-1002-du-26-septembre-2008-prmx0823128d)
+- [Décret n°2008-1009 du 26 septembre 2008 (DEVE0818028D)](decret-n2008-1009-du-26-septembre-2008-deve0818028d)
 - [Décret n°2008-182 du 26 février 2008 (IOCB0760591D)](decret-n2008-182-du-26-fevrier-2008-iocb0760591d)
 - [Décret n°2008-183 du 26 février 2008 (ECEC0800548D)](decret-n2008-183-du-26-fevrier-2008-ecec0800548d)
 - [Décret n°2008-184 du 26 février 2008 (ECEC0766931D)](decret-n2008-184-du-26-fevrier-2008-ecec0766931d)
