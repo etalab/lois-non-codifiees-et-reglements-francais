@@ -1,3 +1,5 @@
 # Article 2-5
 
-L'autorité administrative compétente désigne, au vu des dossiers présentés dans les conditions prévues aux articles 2-2 à 2-4 ci-dessus, le candidat admis à présenter la demande de concession.
+Après examen des actes de candidature, l'autorité compétente dresse la liste des candidats admis à présenter une offre.
+
+Les candidats admis à présenter une offre en sont avisés, par lettre recommandée avec demande d'avis de réception, accompagnée du dossier de consultation prévu à l'article 2-6. Les autres candidats sont informés des motifs du rejet de leur candidature par la même voie.

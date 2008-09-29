@@ -1,3 +1,3 @@
 # Article 20
 
-En cas de refus de la concession, la décision de l'autorité administrative est motivée.
+Lorsque à l'issue de l'instruction l'autorité compétente décide de ne pas donner suite à la demande, elle en informe le pétitionnaire par une décision motivée.

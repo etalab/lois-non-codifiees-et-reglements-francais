@@ -1,25 +1,13 @@
 # Article 31
 
-Dans tous les cas, à la demande du préfet et, en tout état de cause, au plus tard deux ans avant la fin de la concession, le concessionnaire doit fournir à l'autorité administrative compétente un dossier dit "de fin de concession".
+Un an avant la fin de la concession, le concessionnaire remet au service de contrôle un dossier qui certifie le bon état de marche et d'entretien des dépendances de la concession et indique les conditions dans lesquelles il cessera l'exploitation.
 
-Ce dossier comporte les pièces suivantes :
+Le service chargé du contrôle peut demander au concessionnaire sortant des informations et expertises complémentaires et faire procéder, si nécessaire, à une expertise par un organisme tiers, aux frais du concessionnaire sortant.
 
-1. Un plan des ouvrages ;
+L'autorité compétente donne acte de ce dossier ou, le cas échéant, communique à l'exploitant les mesures complémentaires qu'elle envisage de prescrire afin de garantir les conditions de cessation de l'exploitation.L'exploitant dispose d'un délai d'un mois pour présenter des observations écrites ou orales et proposer un programme de travaux soumis à l'appréciation du service chargé du contrôle.L'autorité compétente prescrit alors les mesures qu'elle estime nécessaires pour garantir les conditions de cessation de l'exploitation.
 
-2. Un état de la production de chacune des dix dernières années ;
+L'autorité compétente constate, par un écrit qu'elle transmet au concessionnaire sortant, la mise en œuvre de ces mesures par procès-verbal d'exécution ou de récolement.
 
-3. Un dossier de bornage (plans et procès-verbaux) comprenant :
+En cas de retard ou de défaillance dans l'exécution de ces mesures, le préfet peut, conformément aux dispositions de l'article 34 du cahier des charges type annexé au décret du 11 octobre 1999, obliger le concessionnaire à consigner entre les mains d'un comptable public une somme correspondant à l'estimation du montant des travaux à réaliser ; il est, le cas échéant, procédé au recouvrement de cette somme comme en matière domaniale. Cette somme sera soit restituée au fur et à mesure de l'exécution de cette opération par le concessionnaire, soit utilisée d'office pour son exécution aux frais et risques du concessionnaire.
 
-- un état parcellaire cadastral des immeubles bâtis et non bâtis à remettre à l'Etat ;
-
-- une description détaillée des ouvrages et équipements concédés à remettre à l'Etat, ainsi que de ceux qui ne sont pas concédés et sont néanmoins indispensables à l'exploitation de la chute ;
-
-4. Une note sur l'état des ouvrages et équipements concédés ;
-
-5. La liste des travaux de remise en état en cours ou envisagés avant la fin de la concession et de ceux qui ont été effectués durant la dernière décennie ;
-
-6. Une copie du décret de concession et du règlement d'eau ;
-
-7. Une copie des actes de propriété et de servitudes ;
-
-8. Une copie des accords en cours (usage touristique ou sportif, convention de soutien d'étiage, occupation du domaine concédé...).
+A la fin de la concession, le cas échéant après désignation du futur concessionnaire, le concessionnaire sortant établit, contradictoirement avec l'Etat et, le cas échéant, en présence du futur concessionnaire, un procès-verbal dressant l'état des dépendances de la concession, auquel le futur concessionnaire peut demander que ses remarques soient annexées.

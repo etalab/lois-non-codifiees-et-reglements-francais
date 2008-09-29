@@ -1,0 +1,7 @@
+# Article 2-8
+
+Le règlement de la consultation précise les modalités selon lesquelles l'autorité compétente peut inviter les candidats admis à présenter une offre à participer à une phase de dialogue qui a pour objet de permettre à chaque candidat de présenter son analyse des caractéristiques et variantes indiquées dans le document de présentation mentionné au 2° de l'article 2-6.
+
+Au cours du dialogue, chaque candidat est entendu dans des conditions d'égalité. Sans préjudice des dispositions des articles L. 124-1 et suivants du code de l'environnement, l'autorité compétente ne peut donner d'informations susceptibles d'avantager certains candidats par rapport à d'autres. Elle ne peut révéler des informations confidentielles communiquées par un candidat dans le cadre du dialogue, sans l'accord de celui-ci.
+
+L'autorité administrative informe les candidats de la clôture de la phase de dialogue ainsi que, le cas échéant, des modifications apportées aux caractéristiques quantitatives et qualitatives des prestations attendues. Ces modifications ne peuvent porter que sur des modifications justifiées par les objectifs poursuivis mentionnés au 4° de l'article 2-6 et de portée limitée, ou sur l'exclusion de variantes, ou sur les conséquences à tirer d'éléments qui n'avaient pu être pris en considération lors de la conception du règlement, notamment du document mentionné à l'article 2-7, et ne doivent pas présenter un caractère discriminatoire entre les candidats.

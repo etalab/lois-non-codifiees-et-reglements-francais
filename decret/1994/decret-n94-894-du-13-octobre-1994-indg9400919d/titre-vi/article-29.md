@@ -1,19 +1,9 @@
 # Article 29
 
-Avant la onzième année précédant la date normale d'expiration du titre de concession, le concessionnaire, par lettre adressée à l'autorité administrative compétente, fait part de son intention, soit de continuer l'exploitation au-delà de cette date, soit d'y renoncer.
+Dans un délai de dix-huit mois suivant la demande de l'autorité administrative compétente et au plus tard cinq ans avant la date normale d'expiration du titre de concession, le concessionnaire fournit à celle-ci, en un nombre d'exemplaires qu'elle fixe, un dossier de fin de concession.
 
-Cette lettre énonce :
+Ce dossier comporte, selon des modalités de réalisation et de remise précisées par arrêté du ministre de l'énergie, les éléments permettant à l'autorité compétente de disposer de tous les documents relatifs à la concession, notamment les documents administratifs, les actes sous seing privé ou notariés et les contrats permettant d'apprécier son étendue, sa consistance et sa gestion, l'historique et la description ainsi que l'appréciation de l'état des équipements, bâtiments, travaux et aménagements, l'impact de la concession sur l'environnement et notamment sur l'eau, les conditions financières, économiques et sociales de l'exploitation.
 
-1. S'il s'agit d'une personne physique, ses nom, prénom et domicile et, s'il s'agit d'une personne morale, sa dénomination ou sa raison sociale, sa forme juridique, l'adresse de son siège social ainsi que la qualité du signataire ;
+Le préfet compétent peut faire procéder, aux frais du concessionnaire sortant, à une expertise de tout ou partie du dossier par un organisme tiers et peut, par une demande motivée, demander au concessionnaire sortant des pièces, informations et expertises complémentaires.
 
-2. Les références du titre actuel (nom de la ou des chutes, date de l'acte de concession, date de publication) ;
-
-3. L'intention du concessionnaire.
-
-Dans le cas où le concessionnaire sollicite l'octroi d'une nouvelle concession, il complète sa demande par les pièces mentionnées à l'article 2-2 du présent décret, à l'exception du 10°. Sont joints à la demande un bilan économique d'exploitation portant sur les dix dernières années et un rapport faisant état des effets constatés sur le milieu au cours de la concession, notamment en ce qui concerne le débit maintenu dans la rivière, la circulation des poissons, les éventuels incidents survenus et, le cas échéant, les modalités de réalisation des opérations de vidange.
-
-Si le dossier est incomplet, l'autorité administrative demande au concessionnaire de le compléter. Faute pour le concessionnaire d'obtempérer dans les douze mois suivant cette demande, l'autorité administrative peut considérer que le concessionnaire renonce à demander une nouvelle concession. Elle en avise le concessionnaire pa lettre recommandée avec demande d'avis de réception.
-
-S'il s'agit d'une demande de nouvelle concession qui est soumise à l'obligation de mise en concurrence prévue à l'article 38 de la loi du 29 janvier 1993 précitée et dans la mesure où l'autorité administrative envisage d'instituer une nouvelle concession, il est procédé, au cours de la sixième année qui précède la date normale de fin de concession, comme indiqué à l'article 2-3 du présent décret. En application de l'article 13 de la loi du 16 octobre 1919 susvisée, les avis de mise en concurrence mentionnent que le concessionnaire actuel a un droit de préférence lors de l'établissement de la nouvelle concession s'il accepte les conditions du nouveau cahier des charges.
-
-S'il s'agit d'une demande de nouvelle concession qui n'est pas soumise à l'obligation de mise en concurrence instituée par la loi du 29 janvier 1993 précitée et dans la mesure où l'autorité administrative envisage d'instituer une nouvelle concession, il est procédé comme indiqué à l'article 2-4 ci-dessus.
+Si le concessionnaire refuse de fournir une pièce ou une information qu'il détient et est nécessaire à l'examen du dossier dans le délai indiqué dans la mise en demeure que lui adresse le préfet compétent, l'autorité compétente peut, après avoir mis le concessionnaire à même de présenter ses observations écrites ou orales, lui infliger l'amende prévue au quatrième alinéa de l'article 1er de la loi du 16 octobre 1919 ; elle l'en avise par lettre recommandée avec demande d'avis de réception.

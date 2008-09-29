@@ -1,3 +1,5 @@
 # Article 27
 
 Aucun travail modifiant celles des dispositions des ouvrages qui ont fait l'objet de l'autorisation administrative ne peut être exécuté postérieurement au procès-verbal de récolement des travaux sans l'accomplissement des formalités prévues au présent titre.
+
+Lorsque les travaux et modifications envisagés sont susceptibles d'avoir une incidence sur les intérêts mentionnés à l'article L. 211-1 du code de l'environnement, le projet d'exécution des travaux prévu à l'article 21 est accompagné de tous les éléments nécessaires à l'appréciation de cette incidence. Dans ce cas, l'arrêté d'autorisation d'exécution des travaux fixe, s'il y a lieu, les prescriptions complémentaires après avis du conseil départemental de l'environnement et des risques sanitaires et technologiques. Le projet d'arrêté est notifié au concessionnaire, qui a la faculté de se faire entendre par le conseil ou de désigner à cet effet un mandataire. Il doit être informé par le préfet au moins huit jours à l'avance de la réunion du conseil.

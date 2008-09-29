@@ -1,5 +1,3 @@
 # Article 18
 
-Le préfet compétent en application de l'article 2 ci-dessus accuse réception du dépôt du dossier de demande de concession.
-
-Si le pétitionnaire entend bénéficier des dispositions de l'article 7 de la loi du 16 octobre 1919 susvisée, le préfet recueille l'avis du ministre chargé du budget et du ministre chargé de l'électricité.
+Le préfet compétent prépare l'avis de l'Etat, et, dans le cadre du titre Ier, instruit la demande de concession du pétitionnaire retenu. Il invite le pétitionnaire à fournir, dans un délai qu'il fixe, le nombre de dossiers nécessaires à l'enquête publique et aux consultations prévues aux articles 10 à 16 du présent décret.
