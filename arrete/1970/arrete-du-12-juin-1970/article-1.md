@@ -105,7 +105,7 @@ Le siège et le ressort des bureaux des hypothèques sont fixés conformément a
 <tr>
 <td valign="top" width="132"/>
 <td valign="top" width="132">
-<p>Cusset</p>
+<p>Cusset 1er bureau</p>
 </td>
 <td valign="top" width="416">
 <p>Cantons de Cusset-Nord, Cusset-Sud, Le Donjon, Jaligny-sur-Besbre, Lapalisse, Le Mayet-de-Montagne, Varennes-sur-Allier, Vichy-Nord, Vichy-Sud.</p>
@@ -114,7 +114,7 @@ Le siège et le ressort des bureaux des hypothèques sont fixés conformément a
 <tr>
 <td valign="top" width="132"/>
 <td valign="top" width="132">
-<p>Gannat</p>
+<p>Cusset 2e bureau</p>
 </td>
 <td valign="top" width="416">
 <p>Cantons de Chantelle, Ebreuil, Escurolles, Gannat, Saint-Pourçain-sur-Sioule.</p>
