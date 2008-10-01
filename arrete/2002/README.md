@@ -425,7 +425,6 @@
 - [Arrêté du 16 avril 2002 (MCCB0200290A)](arrete-du-16-avril-2002-mccb0200290a)
 - [Arrêté du 16 avril 2002 (MENE0200961A)](arrete-du-16-avril-2002-mene0200961a)
 - [Arrêté du 16 décembre 2002 (EQUA0201698A)](arrete-du-16-decembre-2002-equa0201698a)
-- [Arrêté du 16 décembre 2002 (EQUT0201891A)](arrete-du-16-decembre-2002-equt0201891a)
 - [Arrêté du 16 janvier 2002 (INTD0200024A)](arrete-du-16-janvier-2002-intd0200024a)
 - [Arrêté du 16 janvier 2002 (MESH0220268A)](arrete-du-16-janvier-2002-mesh0220268a)
 - [Arrêté du 16 janvier 2002 (MESH0220269A)](arrete-du-16-janvier-2002-mesh0220269a)
