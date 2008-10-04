@@ -1,9 +1,15 @@
 # Article 24
 
-Pour l'établissement des listes mentionnées aux articles 22 et 23 :
+I. - Pour l'établissement de la liste mentionnée à l'article 22 :
+
+1° Le candidat absent à l'une des épreuves ne peut être déclaré reçu ;
+
+2° Le candidat ayant obtenu une note inférieure ou égale à 6 sur 20 à l'une des épreuves ne peut être déclaré reçu.
+
+II. - Pour l'établissement de la liste mentionnée à l'article 23 :
 
 1° Le candidat absent à l'une des épreuves ne peut être déclaré reçu ;
 
 2° Le candidat ayant obtenu une note inférieure ou égale à 6 sur 20 à l'une des épreuves ne peut être déclaré reçu ;
 
-3° La note minimale en dessous de laquelle les candidats ne sont pas inscrits sur la liste des reçus est fixée par un vote du jury, après avoir arrêté les notations. En cas de partage égal des voix, la voix du président du jury est prépondérante.
+3° Pour être déclaré admis, le candidat à l'autorisation ministérielle d'exercice visé à l'article 23 doit obtenir une note moyenne d'au moins 10 sur 20 pour l'ensemble des épreuves.
