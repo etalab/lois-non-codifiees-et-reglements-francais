@@ -4,7 +4,17 @@ PREAMBULE
 
 Les normes fixées par le présent arrêté relatives aux équipements de communication, de navigation, de surveillance et d'anti-abordage à bord des aéronefs sont issues de :
 
-- l'annexe 10 (Télécommunications aéronautiques) - amendement 77 - à la convention relative à l'aviation civile internationale (1) ;
+- l'annexe 10 (Télécommunications aéronautiques) à la convention relative à l'aviation civile internationale (1) :
+
+- volume I, 6e édition y compris l'amendement 82 ;
+
+- volume II, 6e édition y compris l'amendement 82 ;
+
+- volume III, 2e édition y compris l'amendement 82 ;
+
+- volume IV, 4e édition y compris l'amendement 82 ;
+
+- volume V, 6e édition y compris l'amendement 82.
 
 - la norme Eurocontrol - Doc 003-93 - Version 2.2 - Equipement de navigation de surface - Besoins opérationnels et besoins fonctionnels (2).
 
