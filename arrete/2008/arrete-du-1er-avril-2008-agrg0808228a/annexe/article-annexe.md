@@ -38,11 +38,11 @@ Zone de protection :
 
 - département du Calvados ;
 
-- département du Cantal : arrondissements de Saint-Flour, Mauriac et cantons de Aurillac 2e canton, Laroquebrou, Montsalvy, Saint-Cernin, Saint-Mamet-la-Salvetat, Vic-sur-Cère, Aurillac 4e canton, Arpajon-sur-Cère, Jussac, Aurillac ;
+- département du Cantal : arrondissements de Saint-Flour, Mauriac et cantons de Aurillac (2e canton), Laroquebrou, Montsalvy, Saint-Cernin, Saint-Mamet-la-Salvetat, Vic-sur-Cère, Aurillac (4e canton), Arpajon-sur-Cère, Jussac, Aurillac ;
 
 - département du Cher ;
 
-- département de la Corrèze : arrondissements de Tulle, Ussel et cantons de Juillac, Lubersac, Vigeois ;
+- département de la Corrèze : arrondissements de Tulle, Ussel et cantons de Lubersac, Vigeois ;
 
 - département de la Côte-d'Or ;
 
@@ -138,7 +138,7 @@ Zone de protection :
 
 - département des Yvelines ;
 
-- département des Deux-Sèvres ;
+- département des Deux-Sèvres : arrondissement de Bressuire et cantons de Airvault, Ménigoute, Moncoutant, Parthenay, Saint-Loup-Lamairé, Secondigny, Thénezay ;
 
 - département de la Somme ;
 
@@ -146,11 +146,11 @@ Zone de protection :
 
 - département de Vaucluse :
 
-- département de la Vendée ;
+- département de la Vendée : arrondissements des Sables-d'Olonne, La Roche-sur-Yon et cantons de Chaillé-les-Marais, La Châtaigneraie, Fontenay-le-Comte, L'Hermenault, Luçon, Pouzauges, Sainte-Hermine, Saint-Hilaire-des-Loges ;
 
-- département de la Vienne ;
+- département de la Vienne : arrondissement de Châtellerault et cantons de Chauvigny, Isle-Jourdain, Lussac-les-Châteaux, Mirebeau, Montmorillon, Neuville-de-Poitou, Poitiers (1er canton), Poitiers (2e canton), Saint-Georges-lès-Baillargeaux, Saint-Julien-l'Ars, Saint-Savin, La Trimouille, Villedieu-du-Clain, Vivonne, Vouillé, Poitiers (3e canton), Poitiers (4e canton), Poitier (5e canton), Poitiers (6e canton), Poitiers (7e canton), Poitiers ;
 
-- département de la Haute-Vienne ;
+- département de la Haute-Vienne : arrondissement de Bellac et cantons de Aixe-sur-Vienne, Ambazac, Châteauneuf-la-Forêt, Eymouthiers, Laurière, Nexon, Nieul, Pierre-Buffière, Saint-Germain-les-Belles, Saint-Junien-Est, Saint-Laurent-sur-Gorre, Saint-Léonard-de-Noblat, Saint-Yrieix-la-Perche, Limoges-Isle, Limoges-Couzeix, Limoges-Le Palais, Limoges-Condat, Limoges-Panazol, Saint-Junien-Ouest, Saint-Junien, Limoges ;
 
 - département des Vosges ;
 
@@ -196,7 +196,7 @@ Zone de protection :
 
 - département de la Charente-Maritime ;
 
-- département de la Corrèze : cantons d'Ayen, Beaulieu-sur-Dordogne, Beynat, Donzenac, Larche, Meyssac, Brive-la-Gaillarde-Sud-Est, Brive-la-Gaillarde-Sud-Ouest, Malemort-sur-Corrèze, Brive-la-Gaillarde ;
+- département de la Corrèze : cantons de Ayen, Beaulieu-sur-Dordogne, Beynat, Donzenac, Juillac, Larche, Meyssac, Brive-la-Gaillarde - Sud-Est, Brive-la-Gaillarde - Sud-Ouest, Malemort-sur-Corrèze, Brive-la-Gaillarde ;
 
 - département de la Dordogne ;
 
@@ -222,6 +222,14 @@ Zone de protection :
 
 - département des Pyrénées-Orientales ;
 
+- département des Deux-Sèvres : arrondissement de Niort et canton de Mazières-en-Gâtine ;
+
 - département du Tarn ;
 
-- département de Tarn-et-Garonne.
+- département de Tarn-et-Garonne ;
+
+- département de la Vendée : canton de Maillezais ;
+
+- département de la Vienne : cantons de Availles-Limouzine, Charroux, Civray, Couhé, Gençay, Lusignan ;
+
+- département de la Haute-Vienne : cantons de Châlus, Oradour-sur-Vayres, Rochechouart, Saint-Mathieu.
