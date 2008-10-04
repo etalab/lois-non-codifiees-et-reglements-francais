@@ -2,7 +2,7 @@
 
 Le soutien financier à la production, à la préparation et à la distribution d'oeuvres audiovisuelles destinées à la télévision prévu au paragraphe II (1°) de l'article 1er du décret n° 98-35 du 14 janvier 1998 relatif au soutien financier de l'industrie audiovisuelle contribue au financement de la production, de la préparation et de la distribution d'oeuvres audiovisuelles à vocation patrimoniale et présentant un intérêt particulier d'ordre culturel, social, scientifique, technique ou économique. Il est destiné :
 
-I. - A l'octroi d'aides dites d'investissement
+I.-A l'octroi d'aides dites d'investissement
 
 1° Ces aides sont accordées aux entreprises de production n'étant pas titulaires d'un compte ouvert à leur nom au Centre national de la cinématographie conformément au paragraphe 1 de l'article 6 du présent décret. Elles concourent :
 
@@ -20,7 +20,7 @@ c) A la production d'oeuvres audiovisuelles dites pilotes appartenant au genre a
 
 Une convention établie entre le Centre national de la cinématographie et l'organisme bénéficiaire fixe les modalités d'attribution et les conditions de versement des subventions accordées. La convention précise également les circonstances dans lesquelles les subventions accordées sont sujettes à répétition.
 
-II. - A l'octroi d'aides dites de réinvestissement
+II.-A l'octroi d'aides dites de réinvestissement
 
 Ces aides sont accordées aux entreprises de production titulaires d'un compte ouvert à leur nom au Centre national de la cinématographie conformément au paragraphe I de l'article 6 du présent décret. Elles concourent :
 
@@ -28,7 +28,7 @@ Ces aides sont accordées aux entreprises de production titulaires d'un compte o
 
 2° A la préparation de la réalisation des oeuvres audiovisuelles appartenant à l'un des genres mentionnés au 1° ci-dessus.
 
-III. - A l'octroi d'aides dites de réinvestissement
+III.-A l'octroi d'aides dites de réinvestissement
 
 complémentaire
 
@@ -40,7 +40,7 @@ Ces aides prennent la forme d'avances, partiellement remboursables, sur les somm
 
 Les modalités de calcul, d'attribution et de remboursement de ces aides sont fixées par arrêté conjoint du ministre chargé de l'économie, du ministre chargé de la culture et du ministre chargé du budget.
 
-IV. - A l'octroi d'aides à l'utilisation des nouvelles techniques de l'image et du son.
+IV.-A l'octroi d'aides à l'utilisation des nouvelles techniques de l'image et du son.
 
 Ces aides sont accordées aux entreprises de production qui font appel aux nouvelles techniques de fabrication et de traitement de l'image et du son.
 
@@ -48,9 +48,9 @@ Ces aides sont accordées en considération du caractère innovant des technique
 
 Les décisions relatives à l'octroi des aides sont prises par le directeur général du Centre national de la cinématographie après examen d'un dossier remis par l'entreprise de production. Pour l'analyse de la demande, le directeur général du Centre national de la cinématographie peut notamment faire appel à des experts spécialisés.
 
-Le montant de ces aides ne peut excéder 100 000 euros par entreprise sur trois ans conformément au règlement (CE) n° 69/2001 de la Commission du 12 janvier 2001 concernant l'application des articles 87 et 88 du traité CE aux aides de minimis.
+Le montant de ces aides ne peut excéder 200 000 euros par entreprise sur une période de trois exercices fiscaux consécutifs conformément au règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 concernant l'application des articles 87 et 88 du traité aux aides de minimis.
 
-V. - A l'octroi d'aides dites de promotion
+V.-A l'octroi d'aides dites de promotion
 
 Ces aides sont accordées aux entreprises de production et de distribution sous réserve qu'elles remplissent les conditions du paragraphe I de l'article 3 du présent décret.
 
@@ -62,7 +62,7 @@ Ces aides sont attribuées après avis d'une commission.
 
 Les conditions et modalités d'attribution et de versement de ces aides ainsi que la composition et les modalités d'organisation et de fonctionnement de la commission sont fixées par arrêté du ministre chargé de la culture.
 
-VI. - A l'octroi d'aides destinées à des coproductions réalisées dans le cadre d'accords intergouvernementaux.
+VI.-A l'octroi d'aides destinées à des coproductions réalisées dans le cadre d'accords intergouvernementaux.
 
 Ces aides sont accordées selon les critères fixés par des accords intergouvernementaux et dans les conditions fixées par le présent décret :
 

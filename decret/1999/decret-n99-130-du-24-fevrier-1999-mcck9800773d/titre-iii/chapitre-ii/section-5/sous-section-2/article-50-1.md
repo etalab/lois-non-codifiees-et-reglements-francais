@@ -5,5 +5,3 @@ Les sommes investies par les entreprises de production pour la préparation de l
 1° Les travaux de préparation font l'objet de dépenses effectuées en France pour au moins 80 % de leur coût ;
 
 2° Les travaux de préparation portant sur la conception, l'adaptation et l'écriture donnent lieu à l'élaboration de documents littéraires et artistiques écrits ou exprimés en langue française ou dans une langue régionale en usage en France.
-
-Pour la part des sommes investies par les entreprises de production et affectées à des dépenses correspondant aux travaux mentionnés au 2° ci-dessus, l'allocation est égale à 50 % du montant de cette part lorsque les dépenses sont acquittées avant la mise en production de l'œuvre.

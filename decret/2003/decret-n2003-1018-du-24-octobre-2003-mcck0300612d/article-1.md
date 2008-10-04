@@ -1,6 +1,6 @@
 # Article 1
 
-Les subventions versées au Centre national de la cinématographie en application du b du 1° du II de l'article 57 de la loi de finances pour 1996 susvisée sont destinées, en ce qui concerne l'industrie vidéographique, à accorder :
+Les subventions versées au Centre national de la cinématographie en application du a du 2° du A du I de l'article 50 de la loi de finances pour 2006 (n° 2005-1719 du 30 décembre 2005) sont destinées, en ce qui concerne l'industrie vidéographique, à accorder :
 
 1° Des subventions proportionnelles ou sélectives en vue de concourir à l'édition de vidéogrammes destinés à l'usage privé du public ;
 
