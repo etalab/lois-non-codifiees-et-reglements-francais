@@ -237,6 +237,7 @@
 - [Décret n°2006-1645 du 20 décembre 2006 (EQUP0602129D)](decret-n2006-1645-du-20-decembre-2006-equp0602129d)
 - [Décret n°2006-1648 du 20 décembre 2006 (MCCB0600855D)](decret-n2006-1648-du-20-decembre-2006-mccb0600855d)
 - [Décret n°2006-1649 du 20 décembre 2006 (MCCB0600856D)](decret-n2006-1649-du-20-decembre-2006-mccb0600856d)
+- [Décret n°2006-324 du 20 mars 2006 (MCCK0600199D)](decret-n2006-324-du-20-mars-2006-mcck0600199d)
 - [Décret n°2006-1030 du 21 août 2006 (MENF0601865D)](decret-n2006-1030-du-21-aout-2006-menf0601865d)
 - [Décret n°2006-1410 du 21 novembre 2006 (INTR0600213D)](decret-n2006-1410-du-21-novembre-2006-intr0600213d)
 - [Décret n°2006-1421 du 21 novembre 2006 (BUDF0620439D)](decret-n2006-1421-du-21-novembre-2006-budf0620439d)
