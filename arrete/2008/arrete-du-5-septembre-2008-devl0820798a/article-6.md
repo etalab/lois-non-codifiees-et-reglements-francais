@@ -1,0 +1,3 @@
+# Article 6
+
+Le jury du concours est présidé par un conseiller d'Etat ou un conseiller maître, désigné par le vice-président du Conseil d'Etat ou par le premier président de la Cour des comptes. Le jury est composé du vice-président du Conseil général de l'environnement et du développement durable ou son représentant et de trois membres choisis parmi les inspecteurs généraux de l'équipement. Un vice-président peut être désigné au sein du jury. La composition du jury fait l'objet d'un arrêté du ministre chargé de l'écologie, de l'énergie, du développement durable et de l'aménagement du territoire.
