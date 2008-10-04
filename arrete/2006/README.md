@@ -232,6 +232,7 @@
 - [Arrêté du 28 juillet 2006 (DEFP0600984A)](arrete-du-28-juillet-2006-defp0600984a)
 - [Arrêté du 28 juillet 2006 (ECOP0600478A)](arrete-du-28-juillet-2006-ecop0600478a)
 - [Arrêté du 28 juin 2006 (SOCF0611404A)](arrete-du-28-juin-2006-socf0611404a)
+- [Arrêté du 28 septembre 2006 (MENE0601958A)](arrete-du-28-septembre-2006-mene0601958a)
 - [Arrêté du 29 décembre 2005 (BUDB0510048A)](arrete-du-29-decembre-2005-budb0510048a)
 - [Arrêté du 29 décembre 2005 (BUDB0510056A)](arrete-du-29-decembre-2005-budb0510056a)
 - [Arrêté du 29 décembre 2005 (BUDB0510060A)](arrete-du-29-decembre-2005-budb0510060a)

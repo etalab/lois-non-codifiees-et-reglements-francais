@@ -1,4 +1,4 @@
-# Arrêté du 22 mars 1999 pris pour l'application des dispositions du chapitre III du titre IV du décret no 99-130 du 24 février 1999 relatif au soutien financier de l'industrie cinématographique et concernant le soutien financier sélectif à la production et à la préparation des oeuvres cinématographiques de courte durée
+# Arrêté du 28 septembre 2006 relatif aux sections internationales de lycée.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -9,12 +9,11 @@
 - [Article 7](article-7.md)
 - [Article 8](article-8.md)
 - [Article 9](article-9.md)
-- [Article 9-1](article-9-1.md)
-- [Article 9-2](article-9-2.md)
 - [Article 10](article-10.md)
 - [Article 11](article-11.md)
 - [Article 12](article-12.md)
-- [Article 13](article-13.md)
 - [Article 14](article-14.md)
 - [Article 15](article-15.md)
+- [Article 16](article-16.md)
 - [Article 17](article-17.md)
+- [Annexe](annexe)
