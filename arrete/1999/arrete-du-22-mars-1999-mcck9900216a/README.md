@@ -3,5 +3,4 @@
 - [Article 1](article-1.md)
 - [Section 1 : Calcul du soutien financier](section-1)
 - [Section 2 : Admission au bénéfice du soutien financier](section-2)
-- [Section 3 : Admission au bénéfice du soutien financier](section-3)
 - [Dispositions diverses](dispositions-diverses)
