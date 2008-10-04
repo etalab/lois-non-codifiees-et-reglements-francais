@@ -1,14 +1,14 @@
 # Article 6
 
-Les traitements et soldes annuels correspondant à chacun des groupes hors échelle sont fixés comme suit à compter du 1er mars 2008 :
+Les traitements et soldes annuels correspondant à chacun des groupes hors échelle sont fixés à compter du 1er octobre 2008 comme suit :
 
 <table>
 <tbody>
 <tr>
 <th colspan="4">
-<br/>TRAITEMENTS ET SOLDES ANNUELS BRUTS <br/>
-<br/>soumis à retenue pour pension à compter du 1er mars 2008 <br/>
-<br/>(en euros) <br/>
+<br/>TRAITEMENTS ET SOLDES ANNUELS BRUTS <p>soumis à retenue pour pension à compter du 1er octobre 2008 </p>
+<p>(en euros) <br/>
+</p>
 </th>
 </tr>
 <tr>
@@ -36,13 +36,13 @@ Les traitements et soldes annuels correspondant à chacun des groupes hors éche
 <br/>A <br/>
 </td>
 <td align="center">
-<br/>48   176,08 <br/>
+<br/>48 320, 65 <br/>
 </td>
 <td align="center">
-<br/>50   089,99 <br/>
+<br/>50 240, 31 <br/>
 </td>
 <td align="center">
-<br/>52   660,11 <br/>
+<br/>52 818, 14 <br/>
 </td>
 </tr>
 <tr>
@@ -50,13 +50,13 @@ Les traitements et soldes annuels correspondant à chacun des groupes hors éche
 <br/>B <br/>
 </td>
 <td align="center">
-<br/>52   660,11 <br/>
+<br/>52 818, 14 <br/>
 </td>
 <td align="center">
-<br/>54   902,13 <br/>
+<br/>55 066, 89 <br/>
 </td>
 <td align="center">
-<br/>57   855,04 <br/>
+<br/>58 028, 66 <br/>
 </td>
 </tr>
 <tr>
@@ -64,13 +64,13 @@ Les traitements et soldes annuels correspondant à chacun des groupes hors éche
 <br/>B bis <br/>
 </td>
 <td align="center">
-<br/>57   855,04 <br/>
+<br/>58 028, 66 <br/>
 </td>
 <td align="center">
-<br/>59   386,17 <br/>
+<br/>59 564, 39 <br/>
 </td>
 <td align="center">
-<br/>60   971,99 <br/>
+<br/>61 154, 96 <br/>
 </td>
 </tr>
 <tr>
@@ -78,13 +78,13 @@ Les traitements et soldes annuels correspondant à chacun des groupes hors éche
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>60   971,99 <br/>
+<br/>61 154, 96 <br/>
 </td>
 <td align="center">
-<br/>62   284,39 <br/>
+<br/>62 471, 30 <br/>
 </td>
 <td align="center">
-<br/>63   651,48 <br/>
+<br/>63 842, 49 <br/>
 </td>
 </tr>
 <tr>
@@ -92,13 +92,13 @@ Les traitements et soldes annuels correspondant à chacun des groupes hors éche
 <br/>D <br/>
 </td>
 <td align="center">
-<br/>63   651,48 <br/>
+<br/>63 842, 49 <br/>
 </td>
 <td align="center">
-<br/>66   549,70 <br/>
+<br/>66 749, 41 <br/>
 </td>
 <td align="center">
-<br/>69   447,92 <br/>
+<br/>69 656, 33 <br/>
 </td>
 </tr>
 <tr>
@@ -106,10 +106,10 @@ Les traitements et soldes annuels correspondant à chacun des groupes hors éche
 <br/>E <br/>
 </td>
 <td align="center">
-<br/>69   447,92 <br/>
+<br/>69 656, 33 <br/>
 </td>
 <td align="center">
-<br/>72   182,09 <br/>
+<br/>72 398, 70 <br/>
 </td>
 <td align="center">
 <br/>- <br/>
@@ -120,7 +120,7 @@ Les traitements et soldes annuels correspondant à chacun des groupes hors éche
 <br/>F <br/>
 </td>
 <td align="center">
-<br/>74   861,57 <br/>
+<br/>75 086, 23 <br/>
 </td>
 <td align="center">
 <br/>- <br/>
@@ -134,7 +134,7 @@ Les traitements et soldes annuels correspondant à chacun des groupes hors éche
 <br/>G <br/>
 </td>
 <td align="center">
-<br/>82   079,78 <br/>
+<br/>82 326, 10 <br/>
 </td>
 <td align="center">
 <br/>- <br/>
