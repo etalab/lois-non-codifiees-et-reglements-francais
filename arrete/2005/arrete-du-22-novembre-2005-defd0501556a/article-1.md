@@ -2,36 +2,40 @@
 
 Le service d'infrastructure de la défense comprend :
 
-Une direction centrale composée de :
+I.-Une direction centrale composée de :
 
-- la sous-direction études et prospective ;
+-la sous-direction études et prospectives ;
 
-- la sous-direction opérationnelle et technique ;
+-la sous-direction opérationnelle et technique ;
 
-- la sous-direction organisation et ressources ;
+-la sous-direction organisation et ressources ;
 
-- la sous-direction administration finances ;
+-la sous-direction administration finances ;
 
-- la sous-direction des systèmes d'information et de communication ;
+-la sous-direction des systèmes d'information et de communication ;
 
-- le bureau pilotage, contrôle de gestion et contrôle interne ;
+-le bureau pilotage, contrôle de gestion et contrôle interne ;
 
-- le bureau affaires réservées, communication et soutien général.
+-le bureau affaires réservées, communication et soutien général.
 
-Les organismes extérieurs suivants dont l'organisation et le fonctionnement sont fixés par des textes particuliers :
+II.-Des organismes extérieurs :
 
-- les directions régionales du génie et les établissements du génie qui leur sont rattachés ;
+1. Relevant directement de la direction centrale :
 
-- les directions des travaux maritimes :
+-le service technique des bâtiments, fortifications et travaux ;
 
-- la direction régionale du service d'infrastructure de la défense "Ile-de-France", les établissements du génie et le service technique des travaux immobiliers et maritimes qui lui sont rattachés ;
+-les directions régionales du service d'infrastructure de la défense ;
 
-- le service technique des bâtiments, fortifications et travaux ;
+-les directions d'infrastructure de la défense ;
 
-- l'Ecole nationale des travaux maritimes ;
+-les services locaux constructeurs mis en place auprès des forces prépositionnées ;
 
-- les directions de travaux outre-mer et à l'étranger ;
+-l'Ecole nationale des travaux maritimes ;
 
-- les services locaux constructeurs à l'étranger mis en place auprès des forces prépositionnées.
+2. Relevant des directions régionales du service d'infrastructure de la défense :
+
+-les établissements d'infrastructure de la défense.
+
+Les missions, l'organisation et le fonctionnement des organismes extérieurs sont fixés par instruction.
 
 Conformément à l'article 32-3 du décret du 8 mars 1999 susvisé, le service d'infrastructure de la défense a recours aux directions et services du ministère chargé des transports et de l'équipement.
