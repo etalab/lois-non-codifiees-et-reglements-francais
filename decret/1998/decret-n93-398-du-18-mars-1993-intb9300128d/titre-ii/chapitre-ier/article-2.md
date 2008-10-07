@@ -26,12 +26,16 @@ l'épreuve d'admission consiste en un entretien permettant d'apprécier la motiv
 
 - d'agents sociaux territoriaux pour le grade d'agent social de 1re classe ;
 
-- d'agents territoriaux spécialisés des écoles maternelles ;
+- d'agents territoriaux spécialisés des écoles maternelles,
+
+l'épreuve d'admissibilité consiste en un questionnaire à choix multiples portant sur des notions élémentaires relatives à l'organisation et au fonctionnement des collectivités locales, ainsi qu'à la compréhension de consignes élémentaires d'hygiène et de sécurité, dans le cadre de l'exercice des missions incombant aux membres du cadre d'emplois concerné (durée : quarante-cinq minutes ; coefficient 1),
+
+l'épreuve d'admission consiste en un entretien permettant d'apprécier la motivation du candidat et son aptitude à exercer les missions incombant aux membres du cadre d'emplois concerné (durée : quinze minutes ; coefficient 2).
+
+3° S'agissant des cadres d'emplois :
 
 - d'auxiliaires de puériculture territoriaux ;
 
 - d'auxiliaires de soins territoriaux,
 
-l'épreuve d'admissibilité consiste en un questionnaire à choix multiples portant sur des notions élémentaires relatives à l'organisation et au fonctionnement des collectivités locales, ainsi qu'à la compréhension de consignes élémentaires d'hygiène et de sécurité, dans le cadre de l'exercice des missions incombant aux membres du cadre d'emplois concerné (durée : quarante-cinq minutes ; coefficient 1),
-
-l'épreuve d'admission consiste en un entretien permettant d'apprécier la motivation du candidat et son aptitude à exercer les missions incombant aux membres du cadre d'emplois concerné (durée : quinze minutes ; coefficient 2).
+le concours de recrutement comprend une épreuve d'admission qui consiste en un entretien permettant d'apprécier les capacités professionnelles du candidat, ses motivations et son aptitude à exercer les missions incombant aux membres du cadre d'emplois concerné (durée : quinze minutes).
