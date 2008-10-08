@@ -153,8 +153,7 @@
 <td>Groupe des ports situés sur le littoral de la région de la Réunion</td>
 <td>Le Port (Réunion)</td>
 <td>
-<p align="center">31</p>
-<br/>
+<p align="center">27</p>
 </td>
 </tr>
 </tbody>

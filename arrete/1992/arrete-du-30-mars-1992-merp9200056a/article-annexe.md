@@ -18,14 +18,14 @@
 <td>Dunkerque</td>
 <td>Dunkerque (Nord)</td>
 <td>
-<p align="center">20</p>
+<p align="center">12</p>
 </td>
 </tr>
 <tr>
 <td>Boulogne-sur-mer</td>
 <td>Boulogne-sur-mer (Pas-de-Calais)</td>
 <td>
-<p align="center">42</p>
+<p align="center">36</p>
 </td>
 </tr>
 <tr>
@@ -36,14 +36,14 @@
 <p>Dieppe (Seine-Maritime)</p>
 </td>
 <td>
-<p align="center">40</p>
+<p align="center">21</p>
 </td>
 </tr>
 <tr>
 <td>Fécamp</td>
 <td>Fécamp (Seine-Maritime)</td>
 <td>
-<p align="center">12</p>
+<p align="center">10</p>
 </td>
 </tr>
 <tr>
@@ -99,7 +99,7 @@
 <td>Saint-Malo</td>
 <td>Saint-Malo (Ille-et-Vilaine)</td>
 <td>
-<p align="center">40</p>
+<p align="center">30</p>
 </td>
 </tr>
 <tr>
@@ -113,14 +113,14 @@
 <td>Paimpol</td>
 <td>Paimpol (Côtes d'Armor)</td>
 <td>
-<p align="center">25</p>
+<p align="center">26</p>
 </td>
 </tr>
 <tr>
 <td>Nord-Finistere</td>
 <td>Plougastel-Daoulas (Finistere)</td>
 <td>
-<p align="center">52</p>
+<p align="center">29</p>
 </td>
 </tr>
 <tr>
@@ -141,7 +141,7 @@
 <td>Le Guilvinec</td>
 <td>Le Guilvinec (Finistere)</td>
 <td>
-<p align="center">64</p>
+<p align="center">34</p>
 </td>
 </tr>
 <tr>
@@ -169,14 +169,14 @@
 <td>La Turballe</td>
 <td>La Turballe (Loire-Atlantique)</td>
 <td>
-<p align="center">20</p>
+<p align="center">13</p>
 </td>
 </tr>
 <tr>
 <td>Loire-Atlantique-Sud</td>
 <td>Le Croisic (Loire-Atlantique)</td>
 <td>
-<p align="center">26</p>
+<p align="center">18</p>
 </td>
 </tr>
 <tr>
@@ -190,7 +190,7 @@
 <td>Ile-d'Yeu</td>
 <td>Port-Joinville (Vendée)</td>
 <td>
-<p align="center">28 </p>
+<p align="center">20</p>
 </td>
 </tr>
 <tr>
@@ -204,7 +204,7 @@
 <td>Les Sables d'Olonne</td>
 <td>Les Sables d'Olonne (Vendée)</td>
 <td>
-<p align="center">26</p>
+<p align="center">20</p>
 </td>
 </tr>
 <tr>
@@ -246,7 +246,7 @@
 <td>Port-vendres</td>
 <td>Port-vendres (Pyrénées-Orientales)</td>
 <td>
-<p align="center">27</p>
+<p align="center">23</p>
 </td>
 </tr>
 <tr>
@@ -286,9 +286,9 @@
 </tr>
 <tr>
 <td>Nice</td>
-<td> Nice (Alpes-Maritimes)</td>
+<td>Nice (Alpes-Maritimes)</td>
 <td>
-<p align="center"> 18</p>
+<p align="center">18</p>
 </td>
 </tr>
 </tbody>
