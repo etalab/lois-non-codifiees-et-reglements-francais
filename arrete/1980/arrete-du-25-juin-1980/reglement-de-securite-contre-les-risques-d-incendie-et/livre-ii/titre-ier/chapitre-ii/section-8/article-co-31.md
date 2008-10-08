@@ -18,7 +18,7 @@ L'exigence pare-flammes de traversée 30 minutes est réputée satisfaite :
 
 - pour les conduits métalliques à point de fusion supérieur à 850 °C ;
 
-- pour les conduits en PVC classés M 1 de diamètre nominal inférieur ou égal à 125 millimètres possédant une épaisseur renforcée réalisée comme indiqué au paragraphe 8 ci-après. Ce renforcement peut cependant être supprimé dans les parois suivantes :
+- pour les conduits en PVC classés B-s3, d0 et admis à la marque NF Me de diamètre nominal inférieur ou égal à 125 millimètres possédant une épaisseur renforcée réalisée comme indiqué au paragraphe 8 ci-après. Ce renforcement peut cependant être supprimé dans les parois suivantes :
 
 - toutes parois des bâtiments à simple rez-de-chaussée ;
 
@@ -44,15 +44,13 @@ A l'intérieur d'un même niveau, ces mêmes exigences ne sont imposées que dan
 
 § 6. Dans le cas où le conduit ou la gaine traverse une paroi séparant un établissement recevant du public d'un tiers, le coupe-feu de traversée doit être égal au degré coupe-feu de la paroi franchie.
 
-Pour les conduits d'eau situés à l'intérieur d'un parc de stationnement de capacité inférieure ou égale à 250 véhicules et dépendant d'un établissement recevant du public, aucune résistance au feu n'est exigée. Toutefois, l'exigence de la résistance au feu prévue à l'alinéa premier ci-dessus doit être maintenue à la traversée de la paroi séparant l'établissement recevant du public du parc de stationnement.
-
 § 7. Les conduits doivent être disposés séparément et la distance minimale entre axes à respecter entre deux conduits doit être au moins égale à la somme de leurs diamètres nominaux.
 
 Cette condition n'est pas imposée si le conduit est pare-flammes de traversée trente minutes avec ou sans adjonction d'un dispositif d'obturation automatique ou s'il est placé dans une gaine conforme au paragraphe 4 ci-dessus.
 
-§ 8. Les renforcements éventuels des conduits en PVC classés M 1 prévus au paragraphe 3 doivent répondre aux dispositions suivantes :
+§ 8. Les renforcements éventuels des conduits en PVC classés B-s3, d0 et admis à la marque NF Me prévus au paragraphe 3 doivent répondre aux dispositions suivantes :
 
-- ils doivent être en PVC classé M 1 ;
+- ils doivent être en PVC classés B-s3, d0 et admis à la marque NF Me ;
 
 - leur épaisseur doit être au moins égale à celle du conduit ;
 
@@ -61,7 +59,3 @@ Cette condition n'est pas imposée si le conduit est pare-flammes de traversée 
 - la partie extérieure à la paroi traversée doit être située au-dessous de la paroi si celle-ci est horizontale ou de part et d'autre de la paroi si celle-ci est verticale.
 
 Ces renforcements peuvent par exemple être réalisés par deux demi-conduits coupés suivant une génératrice et plaqués contre le conduit à protéger.
-
-§ 9. Les conduits et les renforcements en PVC, visés respectivement aux paragraphes 3 et 8 du présent article, doivent de plus faire l'objet du marquage NF Réaction au feu M 1, ou de tout autre certification de qualité en vigueur dans un Etat membre de la Communauté économique européenne.
-
-Cette certification devra alors présenter des garanties équivalentes à celles de la marque NF Réaction au feu, notamment en ce qui concerne l'intervention d'une tierce partie indépendante, et le classement en réaction au feu.
