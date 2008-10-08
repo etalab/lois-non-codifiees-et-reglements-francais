@@ -139,6 +139,7 @@
 - [Décret n°2008-906 du 5 septembre 2008 (MCCT0772097D)](decret-n2008-906-du-5-septembre-2008-mcct0772097d)
 - [Décret n°2008-431 du 5 mai 2008 (IOCB0800199D)](decret-n2008-431-du-5-mai-2008-iocb0800199d)
 - [Décret n°2008-432 du 5 mai 2008 (SJSG0801014D)](decret-n2008-432-du-5-mai-2008-sjsg0801014d)
+- [Décret n°2008-1023 du 6 octobre 2008 (JUSD0813301D)](decret-n2008-1023-du-6-octobre-2008-jusd0813301d)
 - [Décret n°2008-110 du 6 février 2008 (MTSA0774715D)](decret-n2008-110-du-6-fevrier-2008-mtsa0774715d)
 - [Décret n°2008-218 du 6 mars 2008 (PRMX0806045D)](decret-n2008-218-du-6-mars-2008-prmx0806045d)
 - [Décret n°2008-222 du 6 mars 2008 (IMIK0803290D)](decret-n2008-222-du-6-mars-2008-imik0803290d)
