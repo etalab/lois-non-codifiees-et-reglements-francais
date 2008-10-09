@@ -6,7 +6,7 @@ Membres titulaires
 
 Le secrétaire général.
 
-Le vice-président du Conseil général de l'environnement et du développement durable.
+Le président de la sixième section (personnels et services) du Conseil général de l'environnement et du développement durable.
 
 La commissaire générale au développement durable.
 
@@ -52,7 +52,7 @@ Le directeur de l'Ecole nationale des travaux publics de l'Etat.
 
 Le directeur de l'Institut géographique national.
 
-Le directeur de l'établissement public  Parcs nationaux de France .
+Le directeur de l'établissement public Parcs nationaux de France .
 
 Le directeur général de l'Office national de la chasse et de la faune sauvage.
 
