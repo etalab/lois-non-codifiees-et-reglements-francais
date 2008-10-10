@@ -1,0 +1,3 @@
+# Article 12
+
+Au sein du RPVJ, la liste des données utilisées pour l'identification et l'habilitation de l'avocat comporte un indicateur « inscrit à la communication électronique », les données relatives au barreau d'appartenance, la qualité, le numéro CNBF et l'adresse de la boîte aux lettres sécurisée associée, directement ou indirectement, au certificat électronique. Si l'avocat appartient à une structure d'exercice professionnelle conformément aux dispositions de l'article 93 du décret du 27 novembre 1991 susvisé, elle comporte également le numéro SIREN de la structure et un indicateur « niveau d'habilitation ».
