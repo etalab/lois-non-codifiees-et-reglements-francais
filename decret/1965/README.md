@@ -22,7 +22,6 @@
 - [Décret n°65-937 du 8 novembre 1965](decret-n65-937-du-8-novembre-1965)
 - [Décret n°65-938 du 8 novembre 1965](decret-n65-938-du-8-novembre-1965)
 - [Décret n°65-939 du 8 novembre 1965](decret-n65-939-du-8-novembre-1965)
-- [Décret n°65-940 du 8 novembre 1965](decret-n65-940-du-8-novembre-1965)
 - [Décret n°65-773 du 9 septembre 1965](decret-n65-773-du-9-septembre-1965)
 - [Décret n°65-862 du 9 octobre 1965](decret-n65-862-du-9-octobre-1965)
 - [Décret n°65-29 du 11 janvier 1965](decret-n65-29-du-11-janvier-1965)
