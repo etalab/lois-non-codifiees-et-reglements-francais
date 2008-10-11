@@ -4,7 +4,7 @@ La Commission nationale des formations aux soins d'urgence et à la gestion de c
 
 1° Du directeur général de la santé ou son représentant, président ;
 
-2° Du directeur de l'hospitalisation et de l'organisation des soins ou son représentant  ;
+2° Du directeur de l'hospitalisation et de l'organisation des soins ou son représentant ;
 
 3° Du chef du département des urgences sanitaires ou son représentant ;
 
@@ -17,6 +17,8 @@ La Commission nationale des formations aux soins d'urgence et à la gestion de c
 7° De deux personnes ayant une expérience dans le domaine de la gestion de crises sanitaires ;
 
 8° De deux personnalités qualifiées dont au moins une qualifiée en sciences de l'éducation.
+
+Les membres de la commission prévus aux 4°, 5° et 6° ont un suppléant, désigné dans les mêmes conditions que le membre titulaire.
 
 Ses membres sont nommés par arrêté du ministre chargé de la santé pour une durée de trois ans renouvelable.
 
