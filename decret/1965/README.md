@@ -17,7 +17,6 @@
 - [Décret n°65-536 du 5 juillet 1965](decret-n65-536-du-5-juillet-1965)
 - [Décret n°65-961 du 5 novembre 1965](decret-n65-961-du-5-novembre-1965)
 - [Décret n°65-858 du 6 octobre 1965](decret-n65-858-du-6-octobre-1965)
-- [Décret n°65-935 du 8 novembre 1965](decret-n65-935-du-8-novembre-1965)
 - [Décret n°65-937 du 8 novembre 1965](decret-n65-937-du-8-novembre-1965)
 - [Décret n°65-773 du 9 septembre 1965](decret-n65-773-du-9-septembre-1965)
 - [Décret n°65-862 du 9 octobre 1965](decret-n65-862-du-9-octobre-1965)
