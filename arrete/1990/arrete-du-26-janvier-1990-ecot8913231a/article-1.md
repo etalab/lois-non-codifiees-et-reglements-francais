@@ -2,9 +2,9 @@
 
 Les sommes déposées sur les livrets de développement durable ouverts dans les établissements de crédit sont :
 
-1° Placées en titres pour le développement industriel émis par la Caisse des dépôts et consignations à raison d'au moins 6,5 % du montant total des dépôts, et d'au moins 9 % à compter du 1er janvier 2008.
+1° Placées en titres pour le développement industriel émis par la Caisse des dépôts et consignations.
 
-Les établissements de crédit peuvent demander le remboursement des titres pour le développement industriel déjà souscrits dont l'encours excède ces limites.
+Les établissements de crédit peuvent demander le remboursement des titres pour le développement industriel déjà souscrits.
 
 2° Sous réserve des dispositions de l'article 3 ci-dessous, placées en obligations :
 
