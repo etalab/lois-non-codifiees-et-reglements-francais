@@ -529,7 +529,6 @@
 - [Décret n°2004-1006 du 20 septembre 2004 (DEFP0400978D)](decret-n2004-1006-du-20-septembre-2004-defp0400978d)
 - [Décret n°2004-1234 du 20 novembre 2004 (DOMA0400036D)](decret-n2004-1234-du-20-novembre-2004-doma0400036d)
 - [Décret n°2004-1372 du 20 décembre 2004 (SANX0407866D)](decret-n2004-1372-du-20-decembre-2004-sanx0407866d)
-- [Décret n°2004-1378 du 20 décembre 2004 (EQUK0401710D)](decret-n2004-1378-du-20-decembre-2004-equk0401710d)
 - [Décret n°2004-1401 du 20 décembre 2004 (ECOF0426172D)](decret-n2004-1401-du-20-decembre-2004-ecof0426172d)
 - [Décret n°2004-167 du 20 février 2004 (MAEX0300204D)](decret-n2004-167-du-20-fevrier-2004-maex0300204d)
 - [Décret n°2004-332 du 20 avril 2004 (DEFD0400336D)](decret-n2004-332-du-20-avril-2004-defd0400336d)
