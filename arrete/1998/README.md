@@ -239,7 +239,6 @@
 - [Arrêté du 8 septembre 1998 (MESH9822944A)](arrete-du-8-septembre-1998-mesh9822944a)
 - [Arrêté du 8 septembre 1998 (MESS9822936A)](arrete-du-8-septembre-1998-mess9822936a)
 - [Arrêté du 9 avril 1998 (ECOB9810010A)](arrete-du-9-avril-1998-ecob9810010a)
-- [Arrêté du 9 avril 1998 (ECOC9800025A)](arrete-du-9-avril-1998-ecoc9800025a)
 - [Arrêté du 9 avril 1998 (ECOI9800370A)](arrete-du-9-avril-1998-ecoi9800370a)
 - [Arrêté du 9 avril 1998 (ECOT9836678A)](arrete-du-9-avril-1998-ecot9836678a)
 - [Arrêté du 9 avril 1998 (MESA9821523A)](arrete-du-9-avril-1998-mesa9821523a)

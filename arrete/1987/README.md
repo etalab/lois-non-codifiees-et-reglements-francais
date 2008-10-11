@@ -318,7 +318,6 @@
 - [Arrêté du 17 novembre 1987 (BUDR8703132A)](arrete-du-17-novembre-1987-budr8703132a)
 - [Arrêté du 17 novembre 1987 (EQUP8700885A)](arrete-du-17-novembre-1987-equp8700885a)
 - [Arrêté du 17 novembre 1987 (TRST8700420A)](arrete-du-17-novembre-1987-trst8700420a)
-- [Arrêté du 17 octobre 1984](arrete-du-17-octobre-1984)
 - [Arrêté du 17 septembre 1987 (DEFP8701719A)](arrete-du-17-septembre-1987-defp8701719a)
 - [Arrêté du 17 septembre 1987 (DEFP8701720A)](arrete-du-17-septembre-1987-defp8701720a)
 - [Arrêté du 17 septembre 1987 (JUSE8740050A)](arrete-du-17-septembre-1987-juse8740050a)

@@ -85,7 +85,6 @@
 - [Arrêté du 17 décembre 1985](arrete-du-17-decembre-1985)
 - [Arrêté du 17 juillet 1985](arrete-du-17-juillet-1985)
 - [Arrêté du 17 juin 1985](arrete-du-17-juin-1985)
-- [Arrêté du 17 octobre 1984](arrete-du-17-octobre-1984)
 - [Arrêté du 17 octobre 1985](arrete-du-17-octobre-1985)
 - [Arrêté du 18 février 1985](arrete-du-18-fevrier-1985)
 - [Arrêté du 18 juillet 1985](arrete-du-18-juillet-1985)

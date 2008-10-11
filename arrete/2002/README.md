@@ -93,7 +93,6 @@
 - [Arrêté du 3 mai 2002 (AGRA0200882A)](arrete-du-3-mai-2002-agra0200882a)
 - [Arrêté du 3 mai 2002 (DEFP0201565A)](arrete-du-3-mai-2002-defp0201565a)
 - [Arrêté du 3 mai 2002 (ECOL0200068A)](arrete-du-3-mai-2002-ecol0200068a)
-- [Arrêté du 3 mai 2002 (ECOL0200069A)](arrete-du-3-mai-2002-ecol0200069a)
 - [Arrêté du 3 mai 2002 (ECOP0100647A)](arrete-du-3-mai-2002-ecop0100647a)
 - [Arrêté du 3 mai 2002 (EQUP0200577A)](arrete-du-3-mai-2002-equp0200577a)
 - [Arrêté du 3 mai 2002 (EQUU0200768A)](arrete-du-3-mai-2002-equu0200768a)
