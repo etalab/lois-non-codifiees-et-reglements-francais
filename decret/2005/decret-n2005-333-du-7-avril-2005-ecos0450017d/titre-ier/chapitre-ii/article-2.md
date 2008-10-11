@@ -16,7 +16,7 @@ e) Cinq représentants du Mouvement des entreprises de France, deux représentan
 
 f) Un représentant de la Fédération des sociétés coopératives ouvrières de production désigné par arrêté du ministre chargé de l'économie sur proposition du ministre chargé de l'économie sociale ;
 
-g) Un représentant du Haut Conseil du secteur public désigné par arrêté du Premier ministre sur proposition de ce Haut Conseil et une personnalité appartenant à une entreprise publique désignée par arrêté du ministre chargé de l'économie sur proposition du ministre chargé de l'industrie ;
+g) Une personnalité appartenant à une entreprise publique désignée par arrêté du ministre chargé de l'économie sur proposition, le cas échéant, du ministre chargé de l'industrie ;
 
 h) Un représentant de la fédération bancaire française, un représentant de la fédération française des sociétés d'assurances et un représentant de l'Union nationale des associations de professions libérales désignés par arrêté du ministre chargé de l'économie ;
 

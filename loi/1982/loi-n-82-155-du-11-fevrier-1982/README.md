@@ -14,7 +14,6 @@
 - [Article 50](article-50.md)
 - [Article 51](article-51.md)
 - [Article 52](article-52.md)
-- [Article 53](article-53.md)
 - [NATIONALISATION DE BANQUES](nationalisation-de-banques)
 - [Nationalisation de cinq sociétés industrielles.](nationalisation-de-cinq-societes-industrielles)
 - [NATIONALISATION DE DEUX COMPAGNIES FINANCIERES](nationalisation-de-deux-compagnies-financieres)
