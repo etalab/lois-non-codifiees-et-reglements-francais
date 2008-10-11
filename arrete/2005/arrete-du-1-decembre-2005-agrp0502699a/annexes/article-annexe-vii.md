@@ -1,5 +1,0 @@
-# Article Annexe VII
-
-MODÈLE DE FICHE D'ENREGISTREMENT DES TEMPS DE TRAVAUX À REMPLIR OBLIGATOIREMENT POUR CHAQUE SEMAINE
-
-(Modèle non reproduit - Consulter le fac-similé)
