@@ -1,8 +1,8 @@
 # Article 1
 
-1. La récolte des semences identifiées destinées à des fins forestières est autorisée sous réserve du respect des dispositions suivantes :
+1. La récolte de semences dans des sources de graines admises au registre national en catégorie identifiée est autorisée sous réserve du respect des dispositions suivantes :
 
-- les zones de récoltes doivent comprendre un ou plusieurs ensembles d'arbres bien répartis et suffisamment nombreux pour assurer une interfécondation satisfaisante et éviter les effets défavorables de la consanguinité. La récolte d'arbres isolés (des arbres de parc notamment) et d'alignements (en particulier des haies bocagères ou des plantations de faible largeur en bord de route) n'est pas autorisée ;
+- les zones de récoltes doivent comprendre un ou plusieurs ensembles d'arbres bien répartis et suffisamment nombreux pour assurer une interfécondation satisfaisante et éviter les effets défavorables de la consanguinité. La récolte d'arbres isolés (des arbres de parc notamment) et d'alignements (en particulier des haies bocagères ou des plantations de faible largeur en bord de route) n'est pas autorisée. Pour le cas particulier du cormier, les récoltes sur arbres d'alignements et sur arbres isolés sont autorisées jusqu'au 30 juin 2014, à condition qu'au moins 20 arbres soient récoltés, puis les graines de ces arbres mélangées, afin que le lot de graines puisse être certifié ;
 
 - les individus récoltés doivent clairement présenter une adaptation aux conditions écologiques prévalant dans la région de provenance ;
 
