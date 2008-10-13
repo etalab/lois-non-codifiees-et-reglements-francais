@@ -4,7 +4,6 @@
 - [Titre Ier : Abattoirs et ateliers de découpage agréés](titre-ier)
 - [Article 2](article-2.md)
 - [Titre II : Inspection sanitaire](titre-ii)
-- [Titre III : Tueries de lapins.](titre-iii)
 - [Titre IV : Echanges et importations.](titre-iv)
 - [Article 59](article-59.md)
 - [Annexes](annexes)

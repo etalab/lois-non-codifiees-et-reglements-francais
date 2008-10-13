@@ -7,7 +7,6 @@
 - [Titre III : Abattage de certains gibiers d'élevage à plumes.](titre-iii)
 - [Titre IV : Salle d'abattage agréée pour les palmipèdes gras.](titre-iv)
 - [Titre V : Abattoirs dérogatoires de faible capacité.](titre-v)
-- [Titre VI : Tueries de volailles.](titre-vi)
 - [Titre VII : Dispositions générales.](titre-vii)
 - [Article 64](article-64.md)
 - [Annexes](annexes)
