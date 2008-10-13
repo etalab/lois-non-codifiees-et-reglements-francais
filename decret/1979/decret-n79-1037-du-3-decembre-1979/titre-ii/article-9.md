@@ -1,5 +1,3 @@
 # Article 9
 
-Les documents déposés dans les conservations des hypothèques depuis plus de cinquante ans et moins de cent ans [*délai*] sont versés dans des centres d'archives spéciaux, habilités à en délivrer des copies ou extraits suivant les modalités déterminées par un arrêté des ministres de la justice et du budget.
-
-Les documents déposés dans les conservations depuis plus de cent ans sont obligatoirement versés, à Paris, aux archives nationales et, au chef-lieu de chaque département, aux archives départementales.
+Les documents déposés dans les conservations des hypothèques depuis plus de cinquante ans ainsi que ceux produits pour leur exploitation sont versés aux services départementaux d'archives dans les conditions prévues par l'article 10 du décret n° 55-22 du 4 janvier 1955 portant réforme de la publicité foncière.
