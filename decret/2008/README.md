@@ -311,6 +311,7 @@
 - [Décret n°2008-960 du 12 septembre 2008 (DEFH0801281D)](decret-n2008-960-du-12-septembre-2008-defh0801281d)
 - [Décret n°2007-1606 du 13 novembre 2007 (MTSS0766464D)](decret-n2007-1606-du-13-novembre-2007-mtss0766464d)
 - [Décret n°2007-1752 du 13 décembre 2007 (MTSS0765119D)](decret-n2007-1752-du-13-decembre-2007-mtss0765119d)
+- [Décret n°2008-1056 du 13 octobre 2008 (ECED0822190D)](decret-n2008-1056-du-13-octobre-2008-eced0822190d)
 - [Décret n°2008-137 du 13 février 2008 (DEVN0771265D)](decret-n2008-137-du-13-fevrier-2008-devn0771265d)
 - [Décret n°2008-138 du 13 février 2008 (AGRF0770326D)](decret-n2008-138-du-13-fevrier-2008-agrf0770326d)
 - [Décret n°2008-140 du 13 février 2008 (MCCH0754431D)](decret-n2008-140-du-13-fevrier-2008-mcch0754431d)

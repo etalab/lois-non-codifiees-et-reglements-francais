@@ -538,7 +538,7 @@ Prolifix, avenue du Général-Patton, 45330 Malesherbes : de 1979 à 1983 ;
 
 Sitram Inox, 36170 Saint-Benoît-du-sault : de sa création à 1999 ;
 
-SOCIETE POUJAUD SA, Agence de Chinon, 37420 Avoine : De 1933 à 1996 ;
+SOCIETE POUJAUD SA, Agence de Chinon, 37420 Avoine : De 1993 à 1996 ;
 
 SOFITHER ISOLATION, Agence de Saint-Laurent-des-Eaux, 41 (centrale), agence de Chinon, 37420 Avoine : De 1973 à 1993 ;
 
@@ -549,8 +549,6 @@ Wanner Isofi, Chemin des Plantes, 45500 Saint-Gordon : depuis sa création.
 Champagne-Ardenne
 
 Ardam (Société ardennaise de fabrication d'appareils électroménagers)/UFAM SA (Usines et fonderies Arthur Martin), 5, rue Jean-Jacques-Rousseau, 08500 Revin : - usine 1 (gaz, charbon, mazout) : de 1973 à 1977 ; usine 2 (cuisson, charbon, mazout) : de 1969 à 1974 ;
-
-Chausson, puis Valéo Chausson Thermique, puis Valéo Thermique Moteur, 4, rue du Colonel-Charbonneaux, 51100 Reims : de 1960 à 1996 ;
 
 Deville, 76, rue Forest, 08000 Charleville-Mézières : de 1950 à 1992 ;
 
