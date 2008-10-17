@@ -1,6 +1,6 @@
 # Article 1
 
-Le Haut Conseil pour l'avenir de l'assurance maladie mentionné à l'article 72 de la loi du 19 décembre 2005 susvisée est composé de cinquante-huit membres répartis comme suit :
+Le Haut Conseil pour l'avenir de l'assurance maladie mentionné à l'article 72 de la loi du 19 décembre 2005 susvisée est composé de soixante et un membres répartis comme suit :
 
 1° Quinze membres représentant les assurés sociaux et les employeurs ou les régimes d'assurance maladie :
 
@@ -60,7 +60,7 @@ b) Un représentant désigné par le centre technique des institutions de prévo
 
 c) Un représentant désigné par la Fédération française des sociétés d'assurance (FFSA) ;
 
-8° Cinq représentants des professions de santé libérales désignés par l'Union nationale des professions de santé (UNPS), dont au moins un médecin généraliste, un médecin spécialiste, un pharmacien officinal et un infirmier ;
+8° Six représentants des professions de santé libérales désignés par l'Union nationale des professions de santé (UNPS), dont au moins deux médecins, un pharmacien officinal et un infirmier ;
 
 9° Cinq représentants des établissements de santé :
 
@@ -74,9 +74,11 @@ d) Deux représentants désignés conjointement par les présidents des confére
 
 10° Un représentant des industries du médicament désigné par Les Entreprises du médicament (LEEM) ;
 
-11° Trois représentants des usagers désignés par le ministre chargé de la santé ;
+11° Un représentant des industries des dispositifs médicaux désigné par le Syndicat national de l'industrie des technologies médicales (SNITEM) ;
 
-12° Huit personnalités choisies en raison de leur compétence et de leur expérience, nommées conjointement par les ministres chargés de la santé et de l'assurance maladie.
+12° Trois représentants des usagers désignés par le ministre chargé de la santé ;
+
+13° Neuf personnalités choisies en raison de leur compétence et de leur expérience, nommées conjointement par les ministres chargés de la santé et de l'assurance maladie.
 
 Les ministres chargés de la santé et de l'assurance maladie désignent conjointement le président et le vice-président du haut conseil parmi les membres mentionnés au 12°.
 
