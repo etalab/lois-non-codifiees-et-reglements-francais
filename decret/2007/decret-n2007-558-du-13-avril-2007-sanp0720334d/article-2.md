@@ -80,6 +80,10 @@ Deux représentants d'associations de consommateurs.
 
 Un représentant d'une association de personnes obèses.
 
-Huit personnalités qualifiées.
+Un représentant désigné par la Fédération française d'éducation physique et de gymnastique volontaire.
+
+Un représentant désigné par le Comité national olympique et sportif français.
+
+Onze personnalités qualifiées.
 
 Pour chacun des membres mentionnés au 2, à l'exception des personnalités qualifiées, un suppléant est désigné dans les mêmes conditions.
