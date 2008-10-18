@@ -184,7 +184,6 @@
 - [Arrêté du 22 décembre 2006 (EQUA0601887A)](arrete-du-22-decembre-2006-equa0601887a)
 - [Arrêté du 22 décembre 2006 (EQUA0602269A)](arrete-du-22-decembre-2006-equa0602269a)
 - [Arrêté du 22 décembre 2006 (EQUA0602369A)](arrete-du-22-decembre-2006-equa0602369a)
-- [Arrêté du 22 décembre 2006 (SANP0623104A)](arrete-du-22-decembre-2006-sanp0623104a)
 - [Arrêté du 22 décembre 2006 (SOCT0612564A)](arrete-du-22-decembre-2006-soct0612564a)
 - [Arrêté du 22 novembre 2006 (PRMX0609706A)](arrete-du-22-novembre-2006-prmx0609706a)
 - [Arrêté du 23 décembre 2006 (SANS0624760A)](arrete-du-23-decembre-2006-sans0624760a)
