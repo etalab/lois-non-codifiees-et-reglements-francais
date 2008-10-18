@@ -1,6 +1,6 @@
 # Article Annexe
 
-ZONES RÉGLEMENTÉES : ZONES GÉOGRAPHIQUES DU TERRITOIRE FRANÇAIS DANS LESQUELLES DES ZONES DE PROTECTION ET DE SURVEILLANCE SONT INSTITUÉES
+**ZONES RÉGLEMENTÉES : ZONES GÉOGRAPHIQUES DU TERRITOIRE FRANÇAIS DANS LESQUELLES DES ZONES DE PROTECTION ET DE SURVEILLANCE SONT INSTITUÉES**
 
 Zone A (sérotypes 1, 2, 4 et 16)
 
@@ -32,13 +32,11 @@ Zone de protection :
 
 - département de l'Aube ;
 
-- département de l'Aveyron : cantons de Espalion, Laguiole, Saint-Chély-d'Aubrac, Saint-Geniez-d'Olt ;
-
 - département des Bouches-du-Rhône ;
 
 - département du Calvados ;
 
-- département du Cantal : arrondissements de Saint-Flour et canton de Champs-sur-Tarentaine-Marchal ;
+- département du Cantal : cantons de Allanche, Champs-sur-Tarentaine-Marchal, Condat, Massiac, Murat, Ruynes-en-Margeride, Saint-Flour-Nord, Saint-Flour-Sud, Saint-Flour ;
 
 - département du Cher ;
 
@@ -60,7 +58,7 @@ Zone de protection :
 
 - département du Finistère ;
 
-- département du Gard : arrondissements d'Alès, Nîmes et cantons de Lasalle, Quissac, Saint-André-de-Valborgne, Saint-Hippolyte-du-Fort, Sauve, Sumène, Valleraugue ;
+- département du Gard : arrondissements d'Alès, Nîmes ;
 
 - département d'Ille-et-Vilaine ;
 
@@ -82,7 +80,7 @@ Zone de protection :
 
 - département du Loiret ;
 
-- département de la Lozère ;
+- département de la Lozère : cantons de Bleymard, Châteauneuf-de-Randon, Grandrieu, Langogne, Malzieu-Ville, Mende-Nord, Pont-de-Montvert, Saint-Alban-sur-Limagnole, Saint-Amans, Saint-Chély-d'Apcher, Saint-Germain-de-Calberte, Villefort, Mende-Sud, Mende ;
 
 - département de Maine-et-Loire ;
 
@@ -144,13 +142,13 @@ Zone de protection :
 
 - département du Var ;
 
-- département de Vaucluse :
+- département de Vaucluse ;
 
 - département de la Vendée : arrondissements des Sables-d'Olonne, La Roche-sur-Yon et cantons de Chaillé-les-Marais, La Châtaigneraie, Fontenay-le-Comte, L'Hermenault, Luçon, Pouzauges, Sainte-Hermine, Saint-Hilaire-des-Loges ;
 
-- département de la Vienne : arrondissement de Châtellerault et cantons de Chauvigny, Isle-Jourdain, Lussac-les-Châteaux, Mirebeau, Montmorillon, Neuville-de-Poitou, Poitiers (1er canton), Poitiers (2e canton), Saint-Georges-lès-Baillargeaux, Saint-Julien-l'Ars, Saint-Savin, La Trimouille, Villedieu-du-Clain, Vivonne, Vouillé, Poitiers (3e canton), Poitiers (4e canton), Poitiers (5e canton), Poitiers (6e canton), Poitiers (7e canton), Poitiers ;
+- département de la Vienne : arrondissement de Châtellerault et cantons de Chauvigny, Isle-Jourdain, Lussac-les-Châteaux, Mirebeau, Montmorillon, Neuville-de-Poitou, Poitiers (1er canton), Poitiers (2e canton), Saint-Georges-lès-Baillargeaux, Saint-Julien-l'Ars, Saint-Savin, Trimouille, Villedieu-du-Clain, Vivonne, Vouillé, Poitiers (3e canton), Poitiers (4e canton), Poitiers (5e canton), Poitiers (6e canton), Poitiers (7e canton), Poitiers ;
 
-- département de la Haute-Vienne : arrondissement de Bellac et cantons de Aixe-sur-Vienne, Ambazac, Châteauneuf-la-Forêt, Eymouthiers, Laurière, Nexon, Nieul, Pierre-Buffière, Saint-Junien-Est, Saint-Laurent-sur-Gorre, Saint-Léonard-de-Noblat, Limoges-Isle, Limoges-Couzeix, Limoges-Le Palais, Limoges-Condat, Limoges-Panazol, Saint-Junien-Ouest, Saint-Junien, Limoges ;
+- département de la Haute-Vienne : arrondissement de Bellac et cantons de Aixe-sur-Vienne, Ambazac, Châteauneuf-la-Forêt, Eymoutiers, Laurière, Nexon, Nieul, Pierre-Buffière, Saint-Junien-Est, Saint-Laurent-sur-Gorre, Saint-Léonard-de-Noblat, Limoges-Isle, Limoges-Couzeix, Limoges-Le Palais, Limoges-Condat, Limoges-Panazol, Saint-Junien-Ouest, Saint-Junien, Limoges ;
 
 - département des Vosges ;
 
@@ -188,19 +186,19 @@ Zone de protection :
 
 - département de l'Aude ;
 
-- département de l'Aveyron : arrondissements de Millau, Villefranche-de-Rouergue et cantons de Bozouls, Cassagnes-Bégonhès, Laissac, Marcillac-Vallon, Naucelle, Pont-de-Salars, Réquista, Rignac, Rodez-Est, Salvetat-Peyralès, Baraqueville-Sauveterre, Rodez-Ouest, Rodez-Nord, Rodez, Conques, Entraygues-sur-Truyère, Estaing, Mur-de-Barrez, Saint-Amand-des-Cots, Sainte-Geneviève-sur-Argence ;
+- département de l'Aveyron ;
 
-- département du Cantal : arrondissement d'Aurillac et cantons de Mauriac, Pleaux, Riom-ès-Montagnes, Saignes, Salers ;
+- département du Cantal : arrondissement d'Aurillac et cantons de Chaudes-Aigues, Mauriac, Pierrefort, Pleaux, Riom-ès-Montagnes, Saignes, Salers ;
 
 - département de la Charente ;
 
 - département de la Charente-Maritime ;
 
-- département de la Corrèze : arrondissement de Brive-la-Gaillarde, Tulle et cantons de Bugeat, Meymac, Neuvic, Ussel-Ouest ;
+- département de la Corrèze : arrondissements de Brive-la-Gaillarde, Tulle et cantons de Bugeat, Meymac, Neuvic, Ussel-Ouest ;
 
 - département de la Dordogne ;
 
-- département du Gard : cantons de Alzon, Trèves, Vigan ;
+- département du Gard : arrondissement de Vigan ;
 
 - département de la Haute-Garonne ;
 
@@ -216,13 +214,15 @@ Zone de protection :
 
 - département de Lot-et-Garonne ;
 
+- département de la Lozère : cantons de Aumont-Aubrac, Barre-des-Cévennes, La Canourgue, Chanac, Florac, Fournels, Marvejols, Massegros, Meyrueis, Nasbinals, Sainte-Enimie, Saint-Germain-du-Teil ;
+
 - département des Pyrénées-Atlantiques ;
 
 - département des Hautes-Pyrénées ;
 
 - département des Pyrénées-Orientales ;
 
-- département des Deux-Sèvres : arrondissement de Niort et canton de Mazinières-en-Gâtine ;
+- département des Deux-Sèvres : arrondissement de Niort et canton de Mazières-en-Gâtine ;
 
 - département du Tarn ;
 
