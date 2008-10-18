@@ -424,6 +424,7 @@
 - [Décret n°2007-1776 du 17 décembre 2007 (JUSK0769976D)](decret-n2007-1776-du-17-decembre-2007-jusk0769976d)
 - [Décret n°2007-1777 du 17 décembre 2007 (JUSK0769991D)](decret-n2007-1777-du-17-decembre-2007-jusk0769991d)
 - [Décret n°2007-1780 du 17 décembre 2007 (ESRH0761709D)](decret-n2007-1780-du-17-decembre-2007-esrh0761709d)
+- [Décret n°2008-1062 du 17 octobre 2008 (PRMX0824857D)](decret-n2008-1062-du-17-octobre-2008-prmx0824857d)
 - [Décret n°2008-264 du 17 mars 2008 (AGRS0769549D)](decret-n2008-264-du-17-mars-2008-agrs0769549d)
 - [Décret n°2008-265 du 17 mars 2008 (ESRS0801075D)](decret-n2008-265-du-17-mars-2008-esrs0801075d)
 - [Décret n°2008-266 du 17 mars 2008 (DEFH0801073D)](decret-n2008-266-du-17-mars-2008-defh0801073d)
