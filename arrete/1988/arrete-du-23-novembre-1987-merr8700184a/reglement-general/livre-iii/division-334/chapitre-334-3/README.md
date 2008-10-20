@@ -11,4 +11,3 @@
 - [Article 334-3.09](article-334-3-09.md)
 - [Article 334-3.10](article-334-3-10.md)
 - [Article Annexe 334-A.1](article-annexe-334-a-1.md)
-- [Article Annexe 334-A.2](article-annexe-334-a-2.md)
