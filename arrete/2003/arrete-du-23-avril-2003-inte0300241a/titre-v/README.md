@@ -1,3 +1,0 @@
-# TITRE V : TENUE DES JEUNES SAPEURS-POMPIERS.
-
-- [Article 15](article-15.md)
