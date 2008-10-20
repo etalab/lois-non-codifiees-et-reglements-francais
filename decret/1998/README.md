@@ -755,7 +755,6 @@
 - [Décret n°98-955 du 27 octobre 1998 (MESP9823192D)](decret-n98-955-du-27-octobre-1998-mesp9823192d)
 - [Décret n°98-982 du 27 octobre 1998 (FPPA9810012D)](decret-n98-982-du-27-octobre-1998-fppa9810012d)
 - [Décret n°98-983 du 27 octobre 1998 (FPPA9810013D)](decret-n98-983-du-27-octobre-1998-fppa9810013d)
-- [Décret du 27 mai 1998 (ECOC9700228D)](decret-du-27-mai-1998-ecoc9700228d)
 - [Décret n°98-407 du 27 mai 1998 (MENF9800777D)](decret-n98-407-du-27-mai-1998-menf9800777d)
 - [Décret n°98-408 du 27 mai 1998 (MENF9800776D)](decret-n98-408-du-27-mai-1998-menf9800776d)
 - [Décret n°98-418 du 27 mai 1998 (AGRA9800654D)](decret-n98-418-du-27-mai-1998-agra9800654d)
