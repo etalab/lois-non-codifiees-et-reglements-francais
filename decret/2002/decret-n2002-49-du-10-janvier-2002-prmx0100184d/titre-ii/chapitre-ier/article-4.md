@@ -4,7 +4,7 @@ Le conseil d'administration est présidé par le vice-président du Conseil d'Et
 
 Il comprend en outre :
 
-1° Le directeur général de l'administration et de la fonction publique ;
+1°           Le directeur général de l'administration et de la fonction publique ou son représentant nommément désigné ;
 
 2° Sept personnalités choisies, sur proposition du ministre chargé de la fonction publique, en raison de leur expérience en matière de formation ou de gestion des ressources humaines. Une de ces personnalités est de nationalité étrangère ; quatre autres sont en fonction dans les administrations auxquelles prépare l'école ;
 
