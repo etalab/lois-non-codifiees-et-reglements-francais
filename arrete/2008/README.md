@@ -386,6 +386,7 @@
 - [Arrêté du 20 juin 2008 (SJSH0815170A)](arrete-du-20-juin-2008-sjsh0815170a)
 - [Arrêté du 20 mars 2008 (DEFD0809045A)](arrete-du-20-mars-2008-defd0809045a)
 - [Arrêté du 20 novembre 2008 (JUSA0823192A)](arrete-du-20-novembre-2008-jusa0823192a)
+- [Arrêté du 20 octobre 2008 (ECET0824896A)](arrete-du-20-octobre-2008-ecet0824896a)
 - [Arrêté du 20 octobre 2008 (SJSH0824990A)](arrete-du-20-octobre-2008-sjsh0824990a)
 - [Arrêté du 20 octobre 2008 (SJSH0825003A)](arrete-du-20-octobre-2008-sjsh0825003a)
 - [Arrêté du 21 août 2008 (AGRG0820404A)](arrete-du-21-aout-2008-agrg0820404a)
