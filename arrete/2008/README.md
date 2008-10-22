@@ -129,6 +129,7 @@
 - [Arrêté du 8 septembre 2008 (JUSB0822529A)](arrete-du-8-septembre-2008-jusb0822529a)
 - [Arrêté du 8 septembre 2008 (SJSK0819158A)](arrete-du-8-septembre-2008-sjsk0819158a)
 - [Arrêté du 9 avril 1998 (ECOC9800025A)](arrete-du-9-avril-1998-ecoc9800025a)
+- [Arrêté du 9 avril 2008 (IOCB0809748A)](arrete-du-9-avril-2008-iocb0809748a)
 - [Arrêté du 9 décembre 2003 (SOCF0311959A)](arrete-du-9-decembre-2003-socf0311959a)
 - [Arrêté du 9 décembre 2008 (DEFH0823318A)](arrete-du-9-decembre-2008-defh0823318a)
 - [Arrêté du 9 décembre 2008 (DEFH0823319A)](arrete-du-9-decembre-2008-defh0823319a)
