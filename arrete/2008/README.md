@@ -563,6 +563,7 @@
 - [Arrêté du 28 août 2008 (ECEG0817741A)](arrete-du-28-aout-2008-eceg0817741a)
 - [Arrêté du 28 août 2008 (IOCC0818655A)](arrete-du-28-aout-2008-iocc0818655a)
 - [Arrêté du 28 août 2008 (IOCC0818683A)](arrete-du-28-aout-2008-iocc0818683a)
+- [Arrêté du 28 août 2008 (MCCB0817804A)](arrete-du-28-aout-2008-mccb0817804a)
 - [Arrêté du 28 août 2008 (SJSF0821008A)](arrete-du-28-aout-2008-sjsf0821008a)
 - [Arrêté du 28 août 2008 (SJSG0821012A)](arrete-du-28-aout-2008-sjsg0821012a)
 - [Arrêté du 28 août 2008 (SJSS0817632A)](arrete-du-28-aout-2008-sjss0817632a)
