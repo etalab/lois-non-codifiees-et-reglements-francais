@@ -273,6 +273,7 @@
 - [Arrêté du 14 août 2008 (SJSP0820218A)](arrete-du-14-aout-2008-sjsp0820218a)
 - [Arrêté du 14 novembre 2008 (AGRS0822589A)](arrete-du-14-novembre-2008-agrs0822589a)
 - [Arrêté du 14 novembre 2008 (AGRS0822591A)](arrete-du-14-novembre-2008-agrs0822591a)
+- [Arrêté du 14 octobre 2008 (AGRS0824539A)](arrete-du-14-octobre-2008-agrs0824539a)
 - [Arrêté du 14 octobre 2008 (JUSA0824686A)](arrete-du-14-octobre-2008-jusa0824686a)
 - [Arrêté du 14 octobre 2008 (SJSP0824523A)](arrete-du-14-octobre-2008-sjsp0824523a)
 - [Arrêté du 14 mai 2008 (DEVU0802216A)](arrete-du-14-mai-2008-devu0802216a)

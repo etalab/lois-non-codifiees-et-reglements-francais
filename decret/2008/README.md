@@ -562,6 +562,7 @@
 - [Décret n°2008-470 du 20 mai 2008 (AGRP0802248D)](decret-n2008-470-du-20-mai-2008-agrp0802248d)
 - [Décret n°2008-479 du 20 mai 2008 (JUSC0806841D)](decret-n2008-479-du-20-mai-2008-jusc0806841d)
 - [Décret n°2007-1811 du 21 décembre 2007 (BCFS0764774D)](decret-n2007-1811-du-21-decembre-2007-bcfs0764774d)
+- [Décret n°2008-1073 du 21 octobre 2008 (CCOZ0821853D)](decret-n2008-1073-du-21-octobre-2008-ccoz0821853d)
 - [Décret n°2008-157 du 21 février 2008 (IOCM0802910D)](decret-n2008-157-du-21-fevrier-2008-iocm0802910d)
 - [Décret n°2008-165 du 21 février 2008 (ECET0770595D)](decret-n2008-165-du-21-fevrier-2008-ecet0770595d)
 - [Décret n°2008-166 du 21 février 2008 (ECET0774791D)](decret-n2008-166-du-21-fevrier-2008-ecet0774791d)
