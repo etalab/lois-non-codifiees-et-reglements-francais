@@ -5,3 +5,5 @@ Les membres titulaires et suppléants du comité technique paritaire sont désig
 Le président peut, par décision, mettre fin au mandat d'un représentant de l'administration du conseil.
 
 Les membres du comité technique paritaire doivent soit appartenir en qualité de fonctionnaire ou en qualité d'agent non titulaire au conseil, soit être détachés auprès de lui ou mis à disposition en application de l'article 41 de la loi du 11 janvier 1984 susvisée.
+
+La durée du mandat des membres du comité technique paritaire peut être exceptionnellement prorogée dans un intérêt de service par décision du président du Conseil de la concurrence. Cette prorogation ne peut excéder un an.
