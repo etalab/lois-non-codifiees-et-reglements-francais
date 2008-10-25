@@ -184,6 +184,7 @@
 - [Arrêté du 9 octobre 2008 (AGRG0824050A)](arrete-du-9-octobre-2008-agrg0824050a)
 - [Arrêté du 9 octobre 2008 (AGRP0823687A)](arrete-du-9-octobre-2008-agrp0823687a)
 - [Arrêté du 9 octobre 2008 (AGRP0823993A)](arrete-du-9-octobre-2008-agrp0823993a)
+- [Arrêté du 9 octobre 2008 (DEFD0824605A)](arrete-du-9-octobre-2008-defd0824605a)
 - [Arrêté du 9 octobre 2008 (DEVE0824278A)](arrete-du-9-octobre-2008-deve0824278a)
 - [Arrêté du 9 octobre 2008 (DEVE0824301A)](arrete-du-9-octobre-2008-deve0824301a)
 - [Arrêté du 9 octobre 2008 (DEVE0824530A)](arrete-du-9-octobre-2008-deve0824530a)
