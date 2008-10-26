@@ -1,5 +1,7 @@
 # Article 3
 
+Eligibilité de l'aéronef :
+
 Le CDNR peut être délivré à un propriétaire d'aéronef par le ministre chargé de l'aviation civile lorsque :
 
 - le type d'aéronef est inscrit sur la liste prévue à l'article 2 ;

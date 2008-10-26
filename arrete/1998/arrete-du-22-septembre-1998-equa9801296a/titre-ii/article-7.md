@@ -1,5 +1,7 @@
 # Article 7
 
+Déclaration d'éligibilité :
+
 Le ministre chargé de l'aviation civile déclare le kit éligible lorsque :
 
 a) Le fournisseur a déclaré qu'il a rempli l'ensemble des obligations fixées à l'article 5 ;

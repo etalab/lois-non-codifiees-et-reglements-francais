@@ -1,5 +1,7 @@
 # Article 9
 
+Conditions à satisfaire :
+
 Le monteur peut postuler à la délivrance d'un CNSK lorsque :
 
 a) Le kit a été déclaré éligible ;

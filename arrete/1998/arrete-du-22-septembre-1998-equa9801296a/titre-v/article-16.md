@@ -1,3 +1,5 @@
 # Article 16
 
-Le propriétaire est tenu d'informer le fournisseur de tout événement causé par une déficience de la conception ou de la fabrication du kit ayant affecté, ou pouvant affecter, de façon significative la navigabilité de l'aéronef.
+Utilisation hors du territoire français :
+
+Sauf accord du pays survolé, le CNSK n'est valable que dans les limites du territoire de l'Etat français au sens de l'article 2 de la convention relative à l'aviation civile internationale du 7 décembre 1944.

@@ -1,3 +1,4 @@
-# TITRE VI : UTILISATION.
+# TITRE VI : GESTION DE LA NAVIGABILITÉ DE L'AÉRONEF
 
 - [Article 17](article-17.md)
+- [Article 18](article-18.md)

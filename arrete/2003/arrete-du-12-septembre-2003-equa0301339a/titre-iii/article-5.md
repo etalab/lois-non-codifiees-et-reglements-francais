@@ -1,10 +1,12 @@
 # Article 5
 
+Aptitude au vol :
+
 Sans préjudice des conditions d'utilisation définies au titre V, un CDNR n'autorise un aéronef à circuler que s'il est apte au vol, à savoir :
 
 a) L'aéronef est conforme à l'état dans lequel il était lors de la délivrance du CDNR ;
 
-b) L'aéronef n'a pas subi de réparations ou de modifications significatives non approuvées conformément aux conditions définies par instruction du ministre chargé de l'aviation civile ;
+b) L'aéronef n'a pas subi de réparations ou de modifications significatives non approuvées ;
 
 c) L'aéronef est entretenu conformément aux dispositions réglementaires applicables, notamment quant à l'application des consignes de navigabilité ;
 

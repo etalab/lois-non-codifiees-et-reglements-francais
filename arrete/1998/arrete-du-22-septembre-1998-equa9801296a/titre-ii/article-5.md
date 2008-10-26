@@ -1,5 +1,7 @@
 # Article 5
 
+Demande d'éligibilité :
+
 Le fournisseur peut présenter une demande d'éligibilité pour un kit lorsque :
 
 a) L'aéronef de référence répond à la définition prévue à l'article 2 du présent arrêté ;
