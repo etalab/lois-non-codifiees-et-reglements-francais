@@ -1,0 +1,3 @@
+# Article 71
+
+Dans tous les cas où des actes déposés au service de la conservation de la propriété immobilière aux fins d'inscription nécessitent une opération topographique préalable, ils sont inscrits sur le livre foncier avant l'exécution de cette opération, sur la requête écrite des parties ou d'office par le conservateur, si celui-ci est saisi d'une nouvelle demande régulière d'inscription intéressant l'immeuble. Dans les deux cas, les mentions utiles sont portées sur le livre foncier sous réserve des opérations topographiques à effectuer. Celles-ci sont ultérieurement mentionnées, à la date courante, en marge ou à la suite des premières inscriptions.

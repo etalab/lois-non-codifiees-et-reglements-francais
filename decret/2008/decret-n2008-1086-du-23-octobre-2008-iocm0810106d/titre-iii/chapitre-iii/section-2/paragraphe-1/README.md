@@ -1,0 +1,6 @@
+# PARAGRAPHE 1 : CONTENU DU BORDEREAU D'INSCRIPTION DE PRIVILEGE OU D'HYPOTHEQUE
+
+- [Article 98](article-98.md)
+- [Article 99](article-99.md)
+- [Article 100](article-100.md)
+- [Article 101](article-101.md)

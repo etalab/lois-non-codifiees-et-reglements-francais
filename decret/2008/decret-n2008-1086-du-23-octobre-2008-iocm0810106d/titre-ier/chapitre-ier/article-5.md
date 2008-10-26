@@ -1,0 +1,3 @@
+# Article 5
+
+Sauf dispositions contraires, les actes reçus par les officiers publics ou ministériels étrangers et les décisions rendues par les juridictions étrangères ne peuvent être publiés ou constituer le titre d'une inscription de privilège ou d'hypothèque que s'ils ont été légalisés par un fonctionnaire qualifié du ministère français des affaires étrangères et déposés au rang des minutes d'un notaire français ou s'il ont été rendus exécutoires en France. Ils doivent être accompagnés, s'ils sont rédigés en langue étrangère, d'une traduction en français, certifiée conforme soit par le fonctionnaire susvisé, soit par un interprète habituellement commis par les tribunaux.

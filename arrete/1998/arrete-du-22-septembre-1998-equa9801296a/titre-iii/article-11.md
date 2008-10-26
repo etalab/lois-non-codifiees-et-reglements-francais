@@ -1,9 +1,21 @@
 # Article 11
 
-Le ministre chargé de l'aviation civile délivre le CNSK lorsque le monteur a fourni une attestation de conformité à un kit éligible délivrée par le fournisseur du kit et a déclaré qu'il a rempli l'ensemble des obligations fixées à l'article 9.
+Laissez-passer :
 
-Le ministre annote le CNSK pour indiquer des restrictions d'emploi de l'aéronef, ou pour indiquer que l'aéronef répond à des conditions additionnelles exigées pour un emploi particulier, notamment pour la formation.
+Le ministre chargé de l'aviation civile délivre au postulant au CNSK un laissez-passer afin de lui permettre de procéder aux épreuves de vérification en vol et aux vols d'endurance, sous réserve que :
 
-Lorsqu'un aéronef a été déclaré éligible, le ministre chargé de l'aviation civile peut délivrer, à la demande du propriétaire, un CNSK aux aéronefs prototypes qui ont été utilisés pour les démonstrations nécessaires à la déclaration d'éligibilité. Ces dispositions ne s'appliquent pas aux variantes d'aéronefs.
+a) Les services en charge du contrôle technique aient effectué un contrôle technique jugé satisfaisant ;
 
-Les résultats du programme de vérification ainsi que l'aéronef en kit doivent être tenus à la disposition des personnes ou organismes habilités par le ministre chargé de l'aviation civile à effectuer les vérifications et la surveillance nécessaires pour la détermination de l'aptitude au vol de l'aéronef.
+b) Le postulant ait obtenu de l'autorité responsable de l'aérodrome l'autorisation d'effectuer ou de faire effectuer les épreuves de vérification en vol et les vols d'endurance.
+
+Le contrôle technique doit permettre au ministre chargé de l'aviation civile de s'assurer que l'aéronef a été réalisé dans les règles de l'art, et que le postulant dispose :
+
+- des documents associés à l'aéronef ;
+
+- du manuel de montage ;
+
+- du programme d'épreuves de vérification en vol.
+
+Les épreuves de vérification en vol et les vols d'endurance sont effectués par un seul pilote à bord dont le nom figure sur le laissez-passer, éventuellement accompagné d'un seul personnel technique dont la fonction à bord est jugée nécessaire à la bonne exécution des vols, et dont le nom figure sur le laissez-passer.
+
+La validité du laissez-passer, qui est toujours limitée dans le temps, est précisée dans le texte du laissez-passer.
