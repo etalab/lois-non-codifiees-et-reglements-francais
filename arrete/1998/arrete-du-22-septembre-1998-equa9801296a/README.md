@@ -8,5 +8,4 @@
 - [TITRE VI : GESTION DE LA NAVIGABILITÉ DE L'AÉRONEF](titre-vi)
 - [TITRE VII : CESSION.](titre-vii)
 - [TITRE VIII : DISPOSITIONS FINALES](titre-viii)
-- [TITRE IX : APPLICATION ET EXÉCUTION.](titre-ix)
 - [Article 24](article-24.md)
