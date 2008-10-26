@@ -2,11 +2,11 @@
 
 Le présent décret est applicable à Mayotte à l'exception des articles 139 à 150.
 
-Pour leur application à Mayotte :
+I.-Pour leur application à Mayotte :
 
 1° L'article 62 est ainsi rédigé :
 
-Art. 62. -     La vente forcée ne peut être reportée que pour un cas de force majeure. ;
+Art. 62.-La vente forcée ne peut être reportée que pour un cas de force majeure. ;
 
 2° Les parties ne sont pas tenues de se faire représenter et peuvent se présenter en personne ;
 
@@ -20,8 +20,10 @@ Art. 62. -     La vente forcée ne peut être reportée que pour un cas de force
 
 7° Les références au bureau des hypothèques et au conservateur des hypothèques s'entendent respectivement, jusqu'au 31 décembre 2007, des références faites au bureau de la conservation de la propriété et des droits fonciers et au conservateur de la propriété foncière et, à compter du 1er janvier 2008, aux références faites au service de la conservation de la propriété immobilière et au conservateur de la propriété immobilière ;
 
-8° La référence au registre prévu à l'article 2453 du code civil s'entend de la référence faite au livre foncier ;
+8° La référence au registre prévu à l'article 2453 du code civil s'entend de la référence faite au registre des dépôts des actes et documents à produire ;
 
 9° La référence faite à la consignation à la Caisse des dépôts et consignations s'entend de la référence faite au Trésor public ;
 
 10° La référence aux journaux d'annonces légales diffusés dans l'arrondissement s'entend de la référence faite aux journaux d'annonces légales diffusés dans la collectivité départementale.
+
+II.-L'autorisation mentionnée au deuxième alinéa de l'article 2533 du code civil est rendue par ordonnance sur requête. Elle désigne le ou les immeubles qui font l'objet de la poursuite.
