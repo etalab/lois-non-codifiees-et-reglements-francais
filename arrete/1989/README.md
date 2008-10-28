@@ -195,6 +195,7 @@
 - [Arrêté du 11 septembre 1989 (TEFT8903721A)](arrete-du-11-septembre-1989-teft8903721a)
 - [Arrêté du 11 mai 1989 (AGRG8900849A)](arrete-du-11-mai-1989-agrg8900849a)
 - [Arrêté du 11 mai 1989 (SPSI8900974A)](arrete-du-11-mai-1989-spsi8900974a)
+- [Arrêté du 12 avril 1989 (FPPA8900007A)](arrete-du-12-avril-1989-fppa8900007a)
 - [Arrêté du 12 avril 1989 (MENK8970071A)](arrete-du-12-avril-1989-menk8970071a)
 - [Arrêté du 12 avril 1989 (SPSH8900812A)](arrete-du-12-avril-1989-spsh8900812a)
 - [Arrêté du 12 décembre 1988 (TEFT8804181A)](arrete-du-12-decembre-1988-teft8804181a)
