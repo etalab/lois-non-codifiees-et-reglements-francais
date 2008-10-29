@@ -8,7 +8,7 @@ Ces informations, détaillées à l'annexe 1 du protocole, concernent :
 
 -les caractéristiques des décomptes de remboursement ;
 
--les numéros d'anonymat de l'assuré et du bénéficiaire, le sexe, l'année et le mois de naissance, le département et la commune de résidence ;
+-les numéros d'anonymat de l'assuré et du bénéficiaire, le sexe,        l'année et le mois de naissance, le cas échéant, la date de décès, le département et la commune de résidence ;
 
 -les informations relatives aux prestations servies :
 
@@ -20,7 +20,7 @@ Ces informations, détaillées à l'annexe 1 du protocole, concernent :
 
 -informations médico-administratives (notamment le numéro d'affection de longue durée au sens de l'article D. 322-1 du code de la sécurité sociale, le numéro de maladie professionnelle, les codes de pathologie suivant la codification internationale des maladies en vigueur, les dates de grossesse, le numéro de dent) ;
 
-- les informations relatives au parcours de soins ;
+-les informations relatives au parcours de soins ;
 
 -montant, cotation et coefficient de la prestation ;
 
