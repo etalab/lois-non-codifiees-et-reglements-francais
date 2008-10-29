@@ -1,6 +1,6 @@
 # Article 4
 
-Pour tout traitement de données individuelles relatives aux bénéficiaires de l'assurance maladie, seuls les médecins-conseils et les personnels placés sous leur responsabilité, nommément désignés par les médecins responsables selon l'organisation des régimes, sont autorisés à effectuer des recherches mettant en oeuvre simultanément plus d'une des trois variables sensibles (code commune, date des soins, mois et année de naissance) avec d'autres données.
+Pour tout traitement de données individuelles relatives aux bénéficiaires de l'assurance maladie, seuls les médecins-conseils et les personnels placés sous leur responsabilité, nommément désignés par les médecins responsables selon l'organisation des régimes, sont autorisés à effectuer des recherches mettant en œuvre simultanément plus d'une des quatre variables sensibles (code commune, date des soins, mois et année de naissance, date de décès) avec d'autres données.
 
 Les destinataires des informations contenues dans le système national d'information interrégimes de l'assurance maladie sont, à raison de leurs fonctions et selon les règles d'habilitation détaillées à l'annexe 2 du protocole :
 
@@ -10,13 +10,13 @@ Les destinataires des informations contenues dans le système national d'informa
 
 - les agents du ministère chargé de l'assurance maladie, de la santé, de l'action sociale des personnes handicapées et de la dépendance ou de ses services déconcentrés nommément désignés par les directeurs d'administration centrale ou des services déconcentrés de ce ministère ;
 
-- les agents des agences sanitaires sous tutelle du ministère chargé de l'assurance maladie et de la santé nommément désignés par les directeurs de ces agences, notamment l'Institut de veille sanitaire (InVS) et l'Agence française de sécurité sanitaire des produits de santé (AFSSAPS) ;
+- les agents des agences sanitaires sous tutelle du ministère chargé de l'assurance maladie et de la santé nommément désignés par les directeurs de ces agences, notamment l'agence technique de l'information sur l'hospitalisation (ATIH), l'Institut de veille sanitaire (InVS) et l'Agence française de sécurité sanitaire des produits de santé (AFSSAPS) ;
 
 - les agents des agences régionales de l'hospitalisation nommément désignés par les directeurs de ces agences ;
 
 - les agents habilités et nommément désignés par le directeur général de la forêt et des affaires rurales au ministère chargé de l'agriculture, pour les données relatives aux ressortissants des régimes de protection sociale agricole ;
 
-- les agents du ministère chargé de l'économie, des finances et de l'industrie nommément désignés par le directeur du budget ou par le directeur de la prévision ;
+- Les agents des ministères chargés de l'économie, des finances et du budget, nommément désignés par le directeur général du Trésor et de la politique économique ou le directeur du budget ;
 
 - les membres du Haut Conseil pour l'avenir de l'assurance maladie nommément désignés par leur président ;
 
@@ -40,8 +40,12 @@ Les destinataires des informations contenues dans le système national d'informa
 
 - les agents habilités et nommément désignés par le président du conseil d'administration du centre technique d'appui et de formation des centres d'examens de santé ;
 
-- les chercheurs des services chargés de l'assurance maladie, de la santé, de l'action sociale, des personnes handicapées ou de la dépendance, habilités et nommément désignés par le président du conseil d'administration de l'Institut national de la santé et de la recherche médicale ;
+- les chercheurs des services chargés de l'assurance maladie, de la santé, de l'action sociale, des personnes handicapées ou de la dépendance, habilités et nommément désignés par le directeur général de l'Institut national de la santé et de la recherche médicale ;
 
-- les chercheurs des services chargés de l'assurance maladie, de la santé, de l'action sociale, des personnes handicapées ou de la dépendance habilités et nommément désignés par le président du conseil d'administration du Centre national de la recherche scientifique.
+- les chercheurs des services chargés de l'assurance maladie, de la santé, de l'action sociale, des personnes handicapées ou de la dépendance habilités et nommément désignés par le président du conseil d'administration du Centre national de la recherche scientifique ;
+
+6° Pour l'ensemble des informations énumérées à l'article 3, à l'exclusion de l'échantillon généraliste, sous forme de statistiques agrégées, les données relatives aux bénéficiaires de l'assurance maladie comprenant l'ensemble des données relatives aux professionnels de santé ou aux établissements de santé à l'exclusion de toute donnée d'identification des professionnels de santé :
+
+- les membres des membres de l'institut des données de santé (IDS) nommément désignés par le président de l'IDS.
 
 Le traitement des informations énumérées à l'article 3 demandé par tout autre organisme de recherche, des universités, écoles ou autres structures d'enseignement liés à la recherche que ceux mentionnés au paragraphe précédent est soumis à l'approbation du conseil d'administration de l'Institut des données de santé. Aucun organisme de recherche, université, école ou autre structure d'enseignement lié à la recherche poursuivant un but lucratif ne peut accéder aux informations de l'article 3. La CNIL, conformément aux dispositions du chapitre X de la loi du 6 janvier 1978 susvisée, autorise ces traitements.
