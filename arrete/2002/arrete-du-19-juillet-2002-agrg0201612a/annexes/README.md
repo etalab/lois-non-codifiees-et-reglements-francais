@@ -1,6 +1,5 @@
 # Annexes
 
-- [Certificat sanitaire pour l'importation en France de Lagomorphes (Lepus europaeus, Oryctolagus cuniculus) en provenance des pays tiers destinés à des établissements de ventes, d'élevage ou de présentation au public, des établissements d'expérimentation animale, des établissements d'élevage spécialisés, des établissements fournisseurs (au sens du décret n° 87-848 du 19 octobre 1987).](certificat-sanitaire-pour-l-importation-en-france-de-lagomorphes-lepus-europaeus-oryctolagus-cuniculus-en-provenance-des-pays-tiers-destines-a)
 - [Certificat sanitaire pour l'importation en France de lagomorphes (Lepus europeaus, Oryctolagus cuniculus) en provenance de pays tiers.](certificat-sanitaire-pour-l-importation-en-france-de-lagomorphes-lepus-europeaus-oryctolagus-cuniculus-en-provenance-de-pays-tiers)
 - [Certificat sanitaire pour l'importation et le transit sur le territoire métropolitain et dans les départements d'outre-mer d'oiseaux destinés à des concours et des expositions ou à des établissements de présentation au public.](certificat-sanitaire-pour-l-importation-et)
 - [Conditions d'agrément, d'aménagement et de fonctionnement des établissements dans lesquels des poissons vivants et leurs gamètes, des mollusques vivants et leurs gamètes et des crustacés vivants sont importés ou hébergés après importation.](conditions-d-agrement-d-amenagement-et)
