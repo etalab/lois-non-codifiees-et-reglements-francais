@@ -2,7 +2,7 @@
 
 Le déclarant est tenu de s'assurer :
 
-a) Préalablement à toute importation, que l'établissement de première destination ainsi que l'établissement utilisateur des animaux importés satisfont aux exigences législatives et réglementaires, et notamment celles prévues par le présent arrêté, par le décret n° 87-848 du 19 octobre 1987 modifié par le code de l'environnement, par le livre II (nouveau) du code rural relatif à la protection de la nature, ainsi qu'aux textes réglementaires pris pour leur application ;
+a) Préalablement à toute importation, que l'établissement de première destination ainsi que l'établissement utilisateur des animaux importés satisfont aux exigences législatives et réglementaires, et notamment celles prévues par le présent arrêté, par le livre II de la partie réglementaire du code rural (nouveau), ainsi qu'aux textes réglementaires pris pour leur application ;
 
 b) Que les moyens de transport et conteneurs dans lesquels les animaux seront embarqués conformément aux normes internationales applicables au transport des animaux vivants sont préalablement nettoyés et désinfectés et qu'ils sont conçus de telle sorte que les déjections, la litière ou l'alimentation ne puissent pas s'écouler pendant le transport ;
 

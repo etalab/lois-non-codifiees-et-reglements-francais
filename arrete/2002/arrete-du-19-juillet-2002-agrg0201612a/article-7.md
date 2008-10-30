@@ -1,8 +1,10 @@
 # Article 7
 
-a) Pour pouvoir être importés, les animaux et certains de leurs produits tels que définis à l'article 1er du présent arrêté doivent être accompagnés des certificats sanitaires ou des documents d'accompagnement conformes aux modèles présentés en annexe du présent arrêté et, en tant que de besoin, des résultats des analyses requises.
+a) Pour pouvoir être importés ou transiter à destination d'un pays tiers, sur le territoire métropolitain et dans les départements d'outre-mer, les animaux et certains de leurs produits tels que définis à l'article 1er du présent arrêté doivent être accompagnés des certificats sanitaires ou des documents d'accompagnement conformes aux modèles présentés en annexe du présent arrêté et, en tant que de besoin, des résultats des analyses requises.
 
-En cas de transit, les animaux doivent être accompagnés des documents ou certificats sanitaires exigés par l'autorité compétente des pays de destination. Ces documents doivent être rédigés dans la langue officielle de l'Etat membre dans lequel est effectuée l'inspection à la frontière ou être accompagnés d'une traduction certifiée dans cette langue.
+En cas de transit à destination d'un autre Etat membre, les animaux doivent être accompagnés des documents ou certificats sanitaires exigés par l'autorité compétente des pays de destination ou, à défaut, des documents et certificats prévus par le présent arrêté. Ces documents doivent être rédigés dans la langue officielle de l'Etat membre dans lequel est effectuée l'inspection à la frontière ou être accompagnés d'une traduction certifiée dans cette langue.
+
+Une dérogation à ces dispositions peut être accordée par le vétérinaire responsable d'un poste d'inspection frontalier aéroportuaire dans le cas des transbordements aériens pour les animaux transitant sur le territoire national ou dans les départements d'outre-mer à destination d'autres Etats membres de l'Union européenne ou de pays tiers à l'Union européenne.
 
 b) Une dérogation à cette disposition peut être accordée aux animaux des établissements de présentation au public à caractère mobile pour les animaux initialement originaires du territoire métropolitain et des départements d'outre-mer ayant été exportés temporairement, pendant une période n'excédant pas soixante jours, dans des pays tiers en provenance desquels les importations des animaux des espèces correspondantes sont autorisées. Ces animaux doivent être accompagnés d'un document officiel de chaque autorité compétente des pays tiers concernés précisant que les animaux :
 

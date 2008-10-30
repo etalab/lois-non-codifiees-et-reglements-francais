@@ -1,0 +1,7 @@
+# Article 2 bis
+
+a) Tout animal vivant ou produit visé par le présent arrêté, en provenance des pays tiers, est soumis lors de son introduction sur le territoire métropolitain ou dans les départements d'outre-mer aux contrôles vétérinaires dans un poste d'inspection frontalier.
+
+b) Le déclarant est tenu de communiquer aux agents officiels du poste d'inspection frontalier, au minimum un jour ouvrable avant l'arrivée physique du lot sur le territoire de la Communauté, les informations relatives au lot présenté au moyen du document vétérinaire commun d'entrée selon le modèle prévu par le règlement (CE) n° 282 / 2004 de la Commission du 18 février 2004 relatif à l'établissement d'un document pour la déclaration et le contrôle vétérinaire des animaux en provenance des pays tiers et introduits dans la Communauté. Cette communication est effectuée au moyen du système informatique vétérinaire intégré prévu par la décision 2004 / 292 / CE de la Commission du 30 mars 2004 relative à la mise en application du système TRACES et modifiant la décision 92 / 486 / CEE.
+
+c) Les modalités de contrôle des animaux vivants introduits sur le territoire métropolitain et dans les départements d'outre-mer s'appliquent conformément aux dispositions fixées par la décision 97 / 794 / CE de la Commission du 12 novembre 1997 fixant certaines modalités d'application de la directive 91 / 496 / CEE du Conseil en ce qui concerne les contrôles vétérinaires des animaux sur pied en provenance des pays tiers et le règlement (CE) n° 282 / 2004 déjà mentionné.
