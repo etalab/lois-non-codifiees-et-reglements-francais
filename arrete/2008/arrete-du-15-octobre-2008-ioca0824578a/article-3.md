@@ -1,0 +1,3 @@
+# Article 3
+
+Les listes de candidats ainsi que les déclarations de candidature devront être déposées par les organisations syndicales représentatives au secrétariat général, direction des ressources humaines (sous-direction des personnels, bureau des affaires générales des études et des statuts), 7, rue Nélaton, 75015 Paris, au plus tard le mercredi 3 décembre 2008, à 17 heures. Ces déclarations devront être signées par le représentant habilité de chaque organisation et porter le nom d'un délégué habilité à les représenter dans toutes les opérations électorales. Les contestations éventuelles sur la recevabilité des déclarations de candidature pourront être déposées devant le tribunal administratif jusqu'au vendredi 12 décembre 2008.
