@@ -1,35 +1,21 @@
 # Article 11
 
-Les épreuves du diplôme d'Etat d'assistant de service social comprennent :
+Le référentiel de certification comprend quatre domaines, conformément à l'annexe II " Référentiel de certification " du présent arrêté. Chacun des domaines comporte une épreuve organisée selon le cas par l'établissement de formation ou par une direction régionale des affaires sanitaires et sociales (DRASS), centre d'examen interrégional, conformément à l'annexe II précitée.
 
-1° Une épreuve de dossier de communication réalisée en établissement de formation ;
+Les épreuves en centre d'examen interrégional sont les suivantes :
 
-2° Trois épreuves organisées en centres d'examen interrégionaux :
+-domaine de certification 1 : présentation et soutenance d'un dossier de pratiques professionnelles ;
 
-- une épreuve de connaissance des politiques sociales ;
+-domaine de certification 2 : présentation et soutenance d'un mémoire d'initiation à la recherche dans le champ professionnel ;
 
-- la présentation et la soutenance d'un dossier de pratiques professionnelles ;
+-domaine de certification 4 : épreuve de connaissance des politiques sociales et implication dans les dynamiques partenariales institutionnelles et interinstitutionnelles.
 
-- la présentation et la soutenance d'un mémoire d'initiation à la recherche dans le champ professionnel.
+L'épreuve réalisée en établissement de formation concerne :
 
-Ces épreuves et leurs objectifs sont détaillés en annexe II " référentiel de certification " du présent arrêté.
+-domaine de certification 3 : dossier de communication.
 
-Les modalités de certification mises en place par l'établissement de formation sont agréées par le préfet de région.
+Les domaines de certification 2 et 4 comportent, par ailleurs, un contrôle continu noté sur 20. Les modalités de ces contrôles continus sont précisées à l'annexe II " Référentiel de certification " du présent arrêté.
 
-Chacune de ces quatre épreuves de certification doit être validée séparément sans compensation de notes.
+Chaque domaine de certification doit être validé séparément. Un domaine est validé lorsque le candidat obtient une note moyenne au moins égale à 10 sur 20 pour ce domaine. Les résultats obtenus aux contrôles continus et au domaine de certification 3 sont portés au livret de formation du candidat.
 
-Les candidats titulaires d'un diplôme en travail social de niveau III délivré par l'Etat et mentionné à l'article L. 451-1 du code de l'action sociale et des familles bénéficient de la validation automatique de l'épreuve de dossier de communication et de l'épreuve de connaissance des politiques sociales.
-
-Une épreuve est validée :
-
-- soit par le jury pour les candidats ayant subi l'épreuve et ayant obtenu une note au moins égale à 10 sur 20 ;
-
-- soit automatiquement s'agissant des épreuves de dossier de communication et de connaissance des politiques sociales pour les candidats titulaires d'un diplôme en travail social de niveau III délivré par l'Etat ;
-
-- soit par dispense accordée par le jury dans le cadre de la validation des acquis de l'expérience en vertu de l'article 14 du présent arrêté.
-
-Les résultats obtenus aux épreuves, les validations automatiques ainsi que les dispenses de certification obtenues sont également portés au livret de formation du candidat.
-
-Sur décision du jury, le diplôme est délivré par le préfet de région aux candidats ayant validé les quatre épreuves de certification.
-
-Nul ne peut se présenter plus de trois fois aux épreuves du diplôme d'assistant de service social.
+Les candidats titulaires d'un diplôme de travail social de niveau III délivré par l'Etat et mentionné à l'article L. 451-1 du code de l'action sociale et des familles bénéficient de la validation automatique des domaines de compétence 3 et 4 et donc de la dispense des épreuves de certification s'y rapportant.
