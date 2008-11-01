@@ -2,7 +2,7 @@
 
 L'autorité de gestion de l'allocation de préretraite est le préfet de département.
 
-1° La demande de préretraite peut être déposée auprès du préfet par un agriculteur âgé de cinquante-six ans et neuf mois au moins et n'ayant pas atteint l'âge de soixante ans ;
+1° La demande de préretraite peut être déposée auprès du préfet par un agriculteur âgé de cinquante-six ans et neuf mois au moins au 30 septembre 2008 et n'ayant pas atteint l'âge de soixante ans ;
 
 2° Le préfet vérifie que le demandeur est contraint de cesser son activité agricole à la suite d'une des procédures prévues par le chapitre I du titre V du livre III du code rural, ou après examen de la situation de son exploitation par la section " Agriculteurs en difficulté " de la commission départementale d'orientation agricole et constat de la non-viabilité de son exploitation ;
 
