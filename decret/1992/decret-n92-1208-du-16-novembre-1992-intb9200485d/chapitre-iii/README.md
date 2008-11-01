@@ -1,3 +1,3 @@
-# CHAPITRE III : d'outre-mer et de la collectivité territoriale de Mayotte.
+# CHAPITRE III : Modalités d'application propres aux élus d'outre-mer.
 
 - [Article 14](article-14.md)
