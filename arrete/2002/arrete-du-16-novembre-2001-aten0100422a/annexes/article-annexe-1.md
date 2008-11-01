@@ -240,6 +240,21 @@
 </td>
 </tr>
 <tr>
+<td>
+<p align="left">Structures sous-marines causées<br/>par des émissions de gaz </p>
+</td>
+<td>
+<p align="center">1180</p>
+</td>
+<td/>
+<td/>
+<td/>
+<td/>
+<td>
+<p align="center">X</p>
+</td>
+</tr>
+<tr>
 <td valign="top" width="211">
 <p>Falaises maritimes et plages de galets</p>
 </td>
