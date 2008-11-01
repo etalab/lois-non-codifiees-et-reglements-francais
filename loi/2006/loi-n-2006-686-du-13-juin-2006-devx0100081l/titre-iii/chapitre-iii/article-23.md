@@ -2,7 +2,7 @@
 
 Il est créé un Haut Comité pour la transparence et l'information sur la sécurité nucléaire.
 
-Il est composé de membres nommés pour six ans par décret, au nombre de quatre pour les parlementaires et de cinq au titre de chacune des autres catégories, ainsi répartis :
+Il est composé de membres nommés pour six ans par décret, au nombre de quatre pour les parlementaires et de six au titre de chacune des autres catégories, ainsi répartis :
 
 1° Deux députés désignés par l'Assemblée nationale et deux sénateurs désignés par le Sénat ;
 
