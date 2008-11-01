@@ -1,0 +1,3 @@
+# Article 12
+
+Les conseillers d'administration du ministère de la justice régis par le décret n° 2002-553 du 29 avril 2002 relatif à l'emploi de conseiller d'administration du ministère de la justice, qui occupent un des emplois mentionnés à l'article 3 du présent décret, sont maintenus dans ces fonctions et détachés pour la durée du détachement restant à courir dans l'emploi de conseiller d'administration du ministère de la justice. Ils sont classés dans cet emploi à l'échelon comportant un indice égal ou à défaut immédiatement supérieur à celui dont ils bénéficiaient précédemment. Ils conservent leur ancienneté d'échelon dans les mêmes conditions et limites que celles fixées aux troisième et quatrième alinéas de l'article 7 du présent décret.

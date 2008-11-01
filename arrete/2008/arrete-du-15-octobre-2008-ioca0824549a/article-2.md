@@ -1,0 +1,3 @@
+# Article 2
+
+La liste électorale sera affichée le mardi 30 décembre 2008. Dans les huit jours qui suivent leur publication, les électeurs pourront vérifier les inscriptions et, le cas échéant, présenter des demandes d'inscription. Dans le même délai et pendant trois jours à compter de son expiration, des réclamations pourront être formulées contre les inscriptions ou omissions sur les listes électorales. Les demandes d'inscription seront reçues jusqu'au lundi 12 janvier 2009, à 17 heures, au secrétariat général, direction des ressources humaines (sous-direction des personnels, bureau des affaires générales des études et des statuts bureau 848), 7, rue Nélaton, 75015 Paris.

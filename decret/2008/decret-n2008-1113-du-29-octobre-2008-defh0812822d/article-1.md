@@ -1,0 +1,3 @@
+# Article 1
+
+Les militaires de carrière, les militaires servant en vertu d'un contrat et les militaires réservistes qui exercent une activité au titre d'un engagement à servir dans la réserve opérationnelle ou au titre de la disponibilité, lorsqu'ils sont radiés des cadres ou rayés des contrôles sans droit à pension et affiliés rétroactivement au régime général de la sécurité sociale bénéficient d'une indemnité au titre des trimestres obtenus en vertu de l'article L. 12 (c) et (d) du code des pensions civiles et militaires de retraite, à l'exception de ceux rémunérant des services accomplis dans les départements et collectivités d'outre-mer et en Nouvelle-Calédonie.
