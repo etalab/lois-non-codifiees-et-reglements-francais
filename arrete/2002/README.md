@@ -493,7 +493,6 @@
 - [Arrêté du 19 avril 2002 (JUSA0200080A)](arrete-du-19-avril-2002-jusa0200080a)
 - [Arrêté du 19 avril 2002 (JUSA0200081A)](arrete-du-19-avril-2002-jusa0200081a)
 - [Arrêté du 19 avril 2002 (JUSA0200082A)](arrete-du-19-avril-2002-jusa0200082a)
-- [Arrêté du 19 avril 2002 (JUSG0260023A)](arrete-du-19-avril-2002-jusg0260023a)
 - [Arrêté du 19 avril 2002 (MENE0200891A)](arrete-du-19-avril-2002-mene0200891a)
 - [Arrêté du 19 avril 2002 (MENE0200892A)](arrete-du-19-avril-2002-mene0200892a)
 - [Arrêté du 19 avril 2002 (MESH0220704A)](arrete-du-19-avril-2002-mesh0220704a)
