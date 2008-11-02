@@ -8,7 +8,7 @@ Toutefois, les agents des services ayant signalé un risque de fraude conservent
 
 2. Les agents dûment habilités des services d'enquête sont destinataires des informations relatives aux enquêtes qui leur sont confiées. Les agents des autres services sont informés qu'une personne fait l'objet d'une demande d'enquête.
 
-3. Tous les agents investis d'une mission de lutte contre la fraude et ayant reçu une habilitation peuvent être destinataires des informations relatives aux constatations réalisées, aux résultats des analyses effectuées par les laboratoires des douanes et des informations contenues dans les avis de fraude.
+3. Tous les agents, y compris les agents des douanes habilités à effectuer des enquêtes judiciaires, investis d'une mission de lutte contre la fraude et ayant reçu une habilitation peuvent être destinataires des informations relatives aux constatations réalisées, aux résultats des analyses effectuées par les laboratoires des douanes et des informations contenues dans les avis de fraude.
 
 4. Les agents habilités des laboratoires des douanes sont destinataires des demandes d'analyse et d'expertise de marchandises qui leur sont confiées.
 
