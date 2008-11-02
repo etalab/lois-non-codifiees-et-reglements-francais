@@ -1,6 +1,6 @@
 # Article 9
 
-I. - a) Les candidats reçus aux concours prévus au 1 du a et au b de l'article 6 ci-dessus sont nommés élèves ingénieurs électroniciens des systèmes de la sécurité aérienne par arrêté du ministre chargé de l'aviation civile.
+I. - a) Les candidats reçus aux concours prévus au a et au b de l'article 6 ci-dessus sont nommés élèves ingénieurs électroniciens des systèmes de la sécurité aérienne par arrêté du ministre chargé de l'aviation civile.
 
 Ils sont appelés à suivre une formation initiale de trois ans à l'Ecole nationale de l'aviation civile et dans les services de la navigation aérienne, comportant une période d'enseignement théorique et des stages pratiques. Le programme et les modalités de la formation initiale sont fixés par arrêté du ministre chargé de l'aviation civile.
 
@@ -12,19 +12,11 @@ A leur entrée à l'école et pendant la durée d'un an et éventuellement penda
 
 Les ingénieurs stagiaires perçoivent pendant la durée de leur stage et sa prolongation éventuelle le traitement afférent à l'échelon de stagiaire.
 
-b) Les candidats reçus au second concours externe prévu au 2° du a de l'article 6 ci-dessus sont nommés ingénieurs électroniciens stagiaires des systèmes de la sécurité aérienne par arrêté du ministre chargé de l'aviation civile.
+b) Abrogé ;
 
-Ils sont appelés à suivre un stage théorique et pratique d'une durée maximum de deux ans à l'Ecole nationale de l'aviation civile et dans les services de la navigation aérienne. Le programme et les modalités en sont fixés par arrêté du ministre chargé de l'aviation civile.
+c) Les élèves ingénieurs du contrôle de la navigation aérienne intégrés dans le corps des ingénieurs électroniciens des systèmes de la sécurité aérienne en application du d du I de l'article 6 ci-dessus sont nommés élèves ingénieurs électroniciens des systèmes de la sécurité aérienne dans les mêmes conditions que les candidats admis au concours mentionné au a du I de l'article 6.
 
-A titre exceptionnel, ils peuvent être autorisés à accomplir un complément de stage d'une durée d'un an au maximum sans que la durée totale de stage puisse excéder trois ans.
-
-Au terme du stage, les ingénieurs stagiaires sont soit titularisés dans les conditions prévues à l'article 10 ci-après, s'ils ont obtenu une qualification technique délivrée en application de l'article 4 ci-dessus et un diplôme de fin de scolarité délivré par l'Ecole nationale de l'aviation civile, soit licenciés, soit réintégrés dans leurs anciens corps, cadre d'emploi ou emploi d'origine.
-
-Les ingénieurs stagiaires perçoivent pendant la durée de leur stage le traitement afférent à l'échelon de stagiaire.
-
-c) Les élèves ingénieurs du contrôle de la navigation aérienne intégrés dans le corps des ingénieurs électroniciens des systèmes de la sécurité aérienne en application du d du I de l'article 6 ci-dessus sont nommés élèves ingénieurs électroniciens des systèmes de la sécurité aérienne dans les mêmes conditions que les candidats admis au concours mentionné au 1° du a du I de l'article 6.
-
-II. - Les fonctionnaires et agents de l'Etat issus de l'examen professionnel prévu à l'article 6 ci-dessus sont nommés ingénieurs électroniciens stagiaires des systèmes de la sécurité aérienne par arrêté du ministre chargé de l'aviation civile.
+II. - Les fonctionnaires et agents de l'Etat issus des examens professionnels prévus à l'article 6 ci-dessus sont nommés ingénieurs électroniciens stagiaires des systèmes de la sécurité aérienne par arrêté du ministre chargé de l'aviation civile.
 
 Ils effectuent un stage de dix-huit mois au maximum en tout ou partie à l'Ecole nationale de l'aviation civile ou dans les services de la navigation aérienne.
 
