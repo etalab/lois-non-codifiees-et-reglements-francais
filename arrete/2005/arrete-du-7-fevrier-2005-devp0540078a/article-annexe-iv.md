@@ -104,7 +104,7 @@ Objet du contrôle :
 
 - présence d'un compteur d'eau ;
 
-- en cas de forage : présence d'un récépissé de déclaration ou d'un arrêté d'autorisation lorsque la réglementation le prévoit.
+- en cas de forage : le forage est mentionné dans le dossier de déclaration ou de demande d'autorisation
 
 5.3. Réseau de collecte :
 
