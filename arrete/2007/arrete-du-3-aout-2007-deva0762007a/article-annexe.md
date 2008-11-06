@@ -92,9 +92,9 @@ Paris―Tel-Aviv (Israël).
 
 Jusqu'au 30 septembre 2012 :
 
-- Paris-Cancún (Mexique)
+Paris-Cancún (Mexique)
 
-- Paris-Mexico (Mexique).
+Paris-Mexico (Mexique).
 
 Jusqu'au 31 mars  2013 :
 
@@ -106,6 +106,16 @@ Paris―Toronto (Canada).
 
 Jusqu'au 31 mai 2013 :
 
-― Paris―Al Ain (Emirats arabes unis)  (fret uniquement) ;
+Paris―Al Ain (Emirats arabes unis)  (fret uniquement) ;
 
-― Paris―Rabat (Maroc)
+Paris―Rabat (Maroc).
+
+Jusqu'au 31  octobre 2013 :
+
+Paris―Fès (Maroc) ;
+
+Paris―Marrakech (Maroc) ;
+
+Paris―La Havane (Cuba)  ;
+
+Paris―Santiago (Cuba).
