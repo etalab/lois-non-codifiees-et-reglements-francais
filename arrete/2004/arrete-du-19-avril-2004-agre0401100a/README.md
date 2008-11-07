@@ -2,5 +2,4 @@
 
 - [Article 1](article-1.md)
 - [TITRE Ier :   ACCÈS À L'ENSHAP](titre-ier)
-- [TITRE II :   ACCÈS A L'ENIHP](titre-ii)
 - [TITRE III :   DISPOSITIONS COMMUNES](titre-iii)
