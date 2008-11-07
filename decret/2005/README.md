@@ -1,6 +1,5 @@
 # 2005
 
-- [Décret du 2 février 2005 (AGRP0500004D)](decret-du-2-fevrier-2005-agrp0500004d)
 - [Décret du 2 février 2005 (AGRP0500006D)](decret-du-2-fevrier-2005-agrp0500006d)
 - [Décret n°2004-1172 du 2 novembre 2004 (SANS0422912D)](decret-n2004-1172-du-2-novembre-2004-sans0422912d)
 - [Décret n°2005-1096 du 2 septembre 2005 (MCCT0500408D)](decret-n2005-1096-du-2-septembre-2005-mcct0500408d)
