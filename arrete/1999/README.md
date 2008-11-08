@@ -501,7 +501,6 @@
 - [Arrêté du 22 mars 1999 (MCCK9900222A)](arrete-du-22-mars-1999-mcck9900222a)
 - [Arrêté du 22 mars 1999 (MCCT9900243A)](arrete-du-22-mars-1999-mcct9900243a)
 - [Arrêté du 22 octobre 1999 (MENE9902322A)](arrete-du-22-octobre-1999-mene9902322a)
-- [Arrêté du 22 septembre 1999 (AGRG9902024A)](arrete-du-22-septembre-1999-agrg9902024a)
 - [Arrêté du 22 septembre 1999 (ECOC9900105A)](arrete-du-22-septembre-1999-ecoc9900105a)
 - [Arrêté du 22 septembre 1999 (ECOT9910383A)](arrete-du-22-septembre-1999-ecot9910383a)
 - [Arrêté du 23 août 1999 (EQUA9901247A)](arrete-du-23-aout-1999-equa9901247a)

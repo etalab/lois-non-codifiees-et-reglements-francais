@@ -277,7 +277,6 @@
 - [Arrêté du 9 mai 1997 (FPPA9710080A)](arrete-du-9-mai-1997-fppa9710080a)
 - [Arrêté du 9 mai 1997 (INTD9700199A)](arrete-du-9-mai-1997-intd9700199a)
 - [Arrêté du 9 mai 1997 (MIPP9700084A)](arrete-du-9-mai-1997-mipp9700084a)
-- [Arrêté du 10 avril 1997 (AGRG9602528A)](arrete-du-10-avril-1997-agrg9602528a)
 - [Arrêté du 10 avril 1997 (JUSE9740033A)](arrete-du-10-avril-1997-juse9740033a)
 - [Arrêté du 10 avril 1997 (TAST9710200A)](arrete-du-10-avril-1997-tast9710200a)
 - [Arrêté du 10 décembre 1996 (FPPA9600042A)](arrete-du-10-decembre-1996-fppa9600042a)
