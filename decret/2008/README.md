@@ -156,6 +156,8 @@
 - [Décret n°2008-432 du 5 mai 2008 (SJSG0801014D)](decret-n2008-432-du-5-mai-2008-sjsg0801014d)
 - [Décret n°2008-1023 du 6 octobre 2008 (JUSD0813301D)](decret-n2008-1023-du-6-octobre-2008-jusd0813301d)
 - [Décret n°2008-110 du 6 février 2008 (MTSA0774715D)](decret-n2008-110-du-6-fevrier-2008-mtsa0774715d)
+- [Décret n°2008-1143 du 6 novembre 2008 (DEVT0816302D)](decret-n2008-1143-du-6-novembre-2008-devt0816302d)
+- [Décret n°2008-1144 du 6 novembre 2008 (IOCA0816839D)](decret-n2008-1144-du-6-novembre-2008-ioca0816839d)
 - [Décret n°2008-218 du 6 mars 2008 (PRMX0806045D)](decret-n2008-218-du-6-mars-2008-prmx0806045d)
 - [Décret n°2008-222 du 6 mars 2008 (IMIK0803290D)](decret-n2008-222-du-6-mars-2008-imik0803290d)
 - [Décret n°2008-223 du 6 mars 2008 (IMIK0804033D)](decret-n2008-223-du-6-mars-2008-imik0804033d)

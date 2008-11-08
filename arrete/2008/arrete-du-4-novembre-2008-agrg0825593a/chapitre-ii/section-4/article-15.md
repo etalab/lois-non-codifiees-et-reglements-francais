@@ -1,0 +1,3 @@
+# Article 15
+
+Les animaux aquatiques sauvages appartenant à des espèces sensibles à une ou plusieurs des maladies exotiques ou endémiques et qui ont été capturés dans une zone ou un compartiment non indemnes de maladies et destinés à être introduits dans une ferme aquacole ou une zone d'élevage de mollusques située dans une zone ou un compartiment indemnes de la maladie concernée sont placés en quarantaine, sous la supervision du directeur départemental des services vétérinaires ou du directeur régional des affaires maritimes, selon leur domaine de compétence, dans des installations appropriées dont les eaux sont indemnes de l'agent pathogène concerné. La durée et les modalités de quarantaine doivent être suffisantes pour réduire le risque de transmission de la maladie.

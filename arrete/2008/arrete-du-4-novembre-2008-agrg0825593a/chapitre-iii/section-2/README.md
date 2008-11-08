@@ -1,0 +1,5 @@
+# SECTION 2 : MESURES DE LUTTE APPLICABLES EN CAS DE CONFIRMATION  D'UNE MALADIE EXOTIQUE CHEZ DES ANIMAUX D'AQUACULTURE
+
+- [Article 20](article-20.md)
+- [Article 21](article-21.md)
+- [Article 22](article-22.md)

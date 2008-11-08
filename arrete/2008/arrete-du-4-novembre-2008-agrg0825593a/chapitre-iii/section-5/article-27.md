@@ -1,0 +1,3 @@
+# Article 27
+
+Lorsqu'une maladie non répertoriée en tant que maladie exotique ou endémique constitue un risque significatif pour la santé des animaux sauvages ou d'aquaculture ou que les mesures prévues par le présent chapitre sont jugées inadaptées à la situation épizootique dans le cas des maladies répertoriées ou qu'il est manifeste que ladite maladie se propage en dépit des mesures prises en application du présent chapitre, le ministre chargé de l'agriculture et de la pêche prend, par arrêté, les mesures appropriées pour prévenir l'introduction de cette maladie ou pour lutter contre celle-ci.
