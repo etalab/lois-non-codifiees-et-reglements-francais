@@ -126,6 +126,7 @@
 - [Arrêté du 8 juillet 2008 (MAEA0816362A)](arrete-du-8-juillet-2008-maea0816362a)
 - [Arrêté du 8 juillet 2008 (MENE0816877A)](arrete-du-8-juillet-2008-mene0816877a)
 - [Arrêté du 8 juillet 2008 (SJSC0817759A)](arrete-du-8-juillet-2008-sjsc0817759a)
+- [Arrêté du 8 juin 2006 (AGRG0601032A)](arrete-du-8-juin-2006-agrg0601032a)
 - [Arrêté du 8 mars 1996 (BUDZ9600005A)](arrete-du-8-mars-1996-budz9600005a)
 - [Arrêté du 8 octobre 2008 (ECEC0815925A)](arrete-du-8-octobre-2008-ecec0815925a)
 - [Arrêté du 8 octobre 2008 (ECET0823757A)](arrete-du-8-octobre-2008-ecet0823757a)
