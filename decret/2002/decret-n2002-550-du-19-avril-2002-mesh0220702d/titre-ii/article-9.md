@@ -12,6 +12,4 @@ filière infirmière, filière de rééducation, filière médico-technique. Il 
 
 Peuvent également se présenter à ces concours selon des modalités précisées par arrêté du ministre chargé de la santé les ressortissants des Etats membres de la Communauté européenne ou des autres Etats parties à l'accord sur l'Espace économique européen.
 
-Les candidats doivent être âgés de cinquante ans au plus. Cette limite d'âge est reculée ou supprimée dans les conditions prévues par les textes législatifs et réglementaires en vigueur.
-
 Le jury est commun aux deux concours. Le programme, la nature des épreuves et les modalités d'organisation des concours ainsi que la composition du jury sont fixés par arrêté du ministre chargé de la santé. Le directeur général du Centre national de gestion des praticiens hospitaliers et des personnels de direction de la fonction publique hospitalière assure l'organisation matérielle des concours et arrête la liste nominative des membres du jury.

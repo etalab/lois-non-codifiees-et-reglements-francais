@@ -16,6 +16,4 @@ Peuvent faire acte de candidature les personnes titulaires :
 
 3° Du diplôme de psychologie délivré par l'école des psychologues praticiens de l'Institut catholique de Paris.
 
-Les candidats doivent être âgés de quarante-cinq ans au plus au 1er janvier de l'année du concours. Cette limite d'âge est reculée ou supprimée dans les conditions prévues par les dispositions législatives et réglementaires en vigueur.
-
 Un arrêté du ministre chargé de la santé fixe la composition du jury.
