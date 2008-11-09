@@ -1,6 +1,6 @@
 # Article 1
 
-Il est institué auprès de la directrice de l'action régionale, de la qualité et de la sécurité industrielle trois commissions administratives paritaires compétentes à l'égard des corps de fonctionnaires suivants :
+Les commissions administratives paritaires des corps de fonctionnaires désignées ci-après sont placées auprès du directeur général des entreprises :
 
 - commission administrative paritaire n° 1 : corps des ingénieurs de l'industrie et des mines ;
 
