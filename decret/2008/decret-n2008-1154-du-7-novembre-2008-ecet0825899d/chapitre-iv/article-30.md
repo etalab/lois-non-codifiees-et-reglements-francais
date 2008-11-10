@@ -1,0 +1,3 @@
+# Article 30
+
+Les entreprises qui, dans un délai de trois mois à compter de l'entrée en vigueur du présent décret, demandent au Comité des entreprises d'assurance de constater la caducité de tous leurs agréments administratifs pour des branches d'assurance dans les conditions prévues à l'article R. 321-21 du code des assurances sont dispensées de présenter à l'Autorité de contrôle des assurances et des mutuelles le programme de liquidation prévu à l'article R. 321-22 du même code, sous réserve qu'elles obtiennent, dans un délai de trois mois à compter de la décision constatant la caducité des agréments susmentionnés, l'agrément prévu au III de l'article L. 310-1-1 du même code.

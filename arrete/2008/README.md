@@ -110,6 +110,7 @@
 - [Arrêté du 7 juillet 2008 (SJSH0816729A)](arrete-du-7-juillet-2008-sjsh0816729a)
 - [Arrêté du 7 novembre 2008 (AGRG0826714A)](arrete-du-7-novembre-2008-agrg0826714a)
 - [Arrêté du 7 novembre 2008 (AGRG0826715A)](arrete-du-7-novembre-2008-agrg0826715a)
+- [Arrêté du 7 novembre 2008 (ECET0826178A)](arrete-du-7-novembre-2008-ecet0826178a)
 - [Arrêté du 7 octobre 2008 (BCFD0823948A)](arrete-du-7-octobre-2008-bcfd0823948a)
 - [Arrêté du 7 octobre 2008 (ESRH0823388A)](arrete-du-7-octobre-2008-esrh0823388a)
 - [Arrêté du 7 octobre 2008 (MTSS0823808A)](arrete-du-7-octobre-2008-mtss0823808a)

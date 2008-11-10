@@ -1,0 +1,3 @@
+# Article 32
+
+Les institutions de prévoyance qui, dans un délai de trois mois à compter de l'entrée en vigueur du présent décret, demandent au ministre chargé de la sécurité sociale de constater la caducité de tous leurs agréments administratifs pour des branches d'assurance dans les conditions prévues à l'article R. 931-6-2 du code de la sécurité sociale sont dispensées de présenter à l'Autorité de contrôle des assurances et des mutuelles le programme de liquidation prévu à l'article R. 931-6-4 du même code, sous réserve qu'elles obtiennent, dans un délai de trois mois à compter de la décision constatant la caducité des agréments susmentionnés, l'agrément prévu au II de l'article L. 931-1-1 du même code.
