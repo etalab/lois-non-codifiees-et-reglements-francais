@@ -44,7 +44,7 @@ Zone de protection :
 
 - département de la Côte-d'Or ;
 
-- département des Côtes-d'Armor ;
+- département des Côtes-d'Armor : arrondissements de Dinan, Lannion et cantons de Bégard, Belle-Isle-en-Terre, Bourbriac, Châtelaudren, Etables-sur-Mer, Guingamp, Lamballe, Langueux, Lanvollon, Moncontour, Paimpol, Pléneuf-Val-André, Plérin, Plœuc-sur-Lié, Plouagat, Ploufragan, Plouguenast, Plouha, Pontrieux, Quintin, Saint-Brieuc ;
 
 - département de la Creuse ;
 
@@ -55,8 +55,6 @@ Zone de protection :
 - département de l'Eure ;
 
 - département d'Eure-et-Loir ;
-
-- département du Finistère : canton de Arzano, Pont-Aven, Quimperlé ;
 
 - département du Gard : arrondissements d'Alès, Nîmes ;
 
@@ -96,7 +94,7 @@ Zone de protection :
 
 - département de la Meuse ;
 
-- département du Morbihan : arrondissement de Vannes, Lorient et cantons de Baud, Cléguérec, Guéméné-sur-Scorff, Josselin, Locminé, Pontivy, Rohan, Saint-Jean-Brévelay ;
+- département du Morbihan : cantons de Allaire, La Gacilly, Guer, Malestroit, Mauron, Muzillac, Ploërmel, Questembert, La Roche-Bernard, Rochefort-en-Terre, La Trinité-Porhoët ;
 
 - département de la Moselle ;
 
@@ -146,7 +144,7 @@ Zone de protection :
 
 - département de la Vendée : arrondissements des Sables-d'Olonne, La Roche-sur-Yon et cantons de Chaillé-les-Marais, La Châtaigneraie, Fontenay-le-Comte, L'Hermenault, Luçon, Pouzauges, Sainte-Hermine, Saint-Hilaire-des-Loges ;
 
-- département de la Vienne : arrondissement de Châtellerault et cantons de Chauvigny, Isle-Jourdain, Lussac-les-Châteaux, Mirebeau, Montmorillon, Neuville-de-Poitou, Poitiers (1er canton), Poitiers (2e canton), Saint-Georges-lès-Baillargeaux, Saint-Julien-l'Ars, Saint-Savin, Trimouille, Villedieu-du-Clain, Vivonne, Vouillé, Poitiers (3e canton), Poitiers (4e canton), Poitiers (5e canton), Poitiers (6e canton), Poitiers (7e canton), Poitiers ;
+- département de la Vienne : arrondissement de Châtellerault et cantons de Chauvigny, L'Isle-Jourdain, Lussac-les-Châteaux, Mirebeau, Montmorillon, Neuville-de-Poitou, Poitiers (1er canton), Poitiers (2e canton), Saint-Georges-lès-Baillargeaux, Saint-Julien-l'Ars, Saint-Savin, Trimouille, Villedieu-du-Clain, Vivonne, Vouillé, Poitiers (3e canton), Poitiers (4e canton), Poitiers (5e canton), Poitiers (6e canton), Poitiers (7e canton), Poitiers ;
 
 - département de la Haute-Vienne : arrondissement de Bellac et cantons de Aixe-sur-Vienne, Ambazac, Châteauneuf-la-Forêt, Eymoutiers, Laurière, Nexon, Nieul, Pierre-Buffière, Saint-Junien-Est, Saint-Laurent-sur-Gorre, Saint-Léonard-de-Noblat, Limoges-Isle, Limoges-Couzeix, Limoges-Le Palais, Limoges-Condat, Limoges-Panazol, Saint-Junien-Ouest, Saint-Junien, Limoges ;
 
@@ -196,9 +194,11 @@ Zone de protection :
 
 - département de la Corrèze : arrondissements de Brive-la-Gaillarde, Tulle et cantons de Bugeat, Meymac, Neuvic, Ussel-Ouest ;
 
+- département des Côtes-d'Armor : cantons de Callac, La Chèze, Corlay, Gouarec, Loudéac, Maël-Carhaix, Mûr-de-Bretagne, Rostrenen, Saint-Nicolas-du-Pélem, Uzel ;
+
 - département de la Dordogne ;
 
-- département du Finistère : arrondissement de Brest, Châteaulin, Morlaix et cantons de Bannalec, Briec, Concarneau, Douarnenez, Fouesnant, Plogastel-Saint-Germain, Pont-Croix, Pont-l'Abbé, Rosporden, Scaër, Quimper 2e canton, Guilvinec, Quimper 3e canton, Quimper, Ouessant ;
+- département du Finistère ;
 
 - département du Gard : arrondissement du Vigan ;
 
@@ -218,7 +218,7 @@ Zone de protection :
 
 - département de la Lozère : cantons de Aumont-Aubrac, Barre-des-Cévennes, La Canourgue, Chanac, Florac, Fournels, Marvejols, Massegros, Meyrueis, Nasbinals, Sainte-Enimie, Saint-Germain-du-Teil ;
 
-- département du Morbihan : cantons de Faouët, Gourin ;
+- département du Morbihan : arrondissements de Lorient, Pontivy et cantons de Elven, Grand-Champ, Sarzeau, Vannes-Est, Vannes-Ouest, Vannes ;
 
 - département des Pyrénées-Atlantiques ;
 
@@ -237,5 +237,3 @@ Zone de protection :
 - département de la Vienne : cantons de Availles-Limouzine, Charroux, Civray, Couhé, Gençay, Lusignan ;
 
 - département de la Haute-Vienne : cantons de Châlus, Oradour-sur-Vayres, Rochechouart, Saint-Mathieu, Saint-Germain-les-Belles, Saint-Yrieix-la-Perche.
-
-.
