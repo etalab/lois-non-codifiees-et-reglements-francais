@@ -21,13 +21,13 @@
 <tr>
 <td align="center">Aquitaine<br/>
 </td>
-<td align="center">6 607 504<br/>
+<td align="center">6 607 564<br/>
 </td>
 </tr>
 <tr>
 <td align="center">Auvergne<br/>
 </td>
-<td align="center">3 462 608<br/>
+<td align="center">3 472 507<br/>
 </td>
 </tr>
 <tr>
