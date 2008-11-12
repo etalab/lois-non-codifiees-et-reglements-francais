@@ -32,7 +32,7 @@ Diplôme d'Etat d'éducateur spécialisé ;
 
 Diplôme d'éducateur de la protection judiciaire de la jeunesse ;
 
-Moniteur chef interarmées d'entraînement physique et sportif ;
+Moniteur chef interarmées d'entraînement physique, militaire et sportif ;
 
 Certificat technique branche entraînement physique et sportif ;
 
@@ -46,4 +46,12 @@ Agrégation du second degré ;
 
 Certificat d'aptitude aux fonctions de conseiller d'éducation ou conseiller principal d'éducation ;
 
-Attestation du suivi avec succès de la formation préalable à la titularisation en qualité de conseiller d'éducation populaire et de jeunesse ou de professeur de sport, de conseiller technique et pédagogique supérieur.
+Attestation du suivi avec succès de la formation préalable à la titularisation en qualité de conseiller d'éducation populaire et de jeunesse ou de professeur de sport, de conseiller technique et pédagogique supérieur ;
+
+Diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport ;
+
+Diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du sport ;
+
+Diplôme d'études universitaires scientifiques et techniques (DEUST) animation et gestion des activités physiques, sportives et culturelles ;
+
+Licence animation sociale, éducative, culturelle et des loisirs.

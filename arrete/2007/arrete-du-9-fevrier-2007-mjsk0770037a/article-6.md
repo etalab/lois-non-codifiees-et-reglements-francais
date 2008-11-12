@@ -1,3 +1,3 @@
 # Article 6
 
-Le directeur de la vie associative, de l'emploi et des formations est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+L'arrêté du 21 mars 2003 fixant les titres et diplômes permettant d'exercer les fonctions d'animation et de direction en centres de vacances et de loisirs est abrogé.

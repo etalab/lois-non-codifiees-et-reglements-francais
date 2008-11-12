@@ -16,7 +16,7 @@ Diplôme universitaire de technologie (DUT) spécialité carrières sociales ;
 
 Certificat d'aptitude aux fonctions de moniteur-éducateur (CAFME) ;
 
-Moniteur interarmées d'entraînement physique et sportif ;
+Moniteur interarmées d'entraînement physique, militaire et sportif ;
 
 Certificat d'aptitude professionnelle (CAP) petite enfance ;
 
