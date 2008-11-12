@@ -68,7 +68,6 @@
 - [Arrêté du 3 novembre 2005 (SANS0524091A)](arrete-du-3-novembre-2005-sans0524091a)
 - [Arrêté du 3 octobre 2005 (ECOC0500126A)](arrete-du-3-octobre-2005-ecoc0500126a)
 - [Arrêté du 3 mai 1995 (MCCK9500137A)](arrete-du-3-mai-1995-mcck9500137a)
-- [Arrêté du 3 mai 2005 (DEVO0540165A)](arrete-du-3-mai-2005-devo0540165a)
 - [Arrêté du 3 mai 2005 (EQUP0500291A)](arrete-du-3-mai-2005-equp0500291a)
 - [Arrêté du 3 mai 2005 (MENS0500756A)](arrete-du-3-mai-2005-mens0500756a)
 - [Arrêté du 4 août 2005 (AGRF0501906A)](arrete-du-4-aout-2005-agrf0501906a)
