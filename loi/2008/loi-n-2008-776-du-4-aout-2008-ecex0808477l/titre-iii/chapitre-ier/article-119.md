@@ -1,3 +1,0 @@
-# Article 119
-
-Dans le respect des objectifs visés au II de l'article L. 32-1 du code des postes et des communications électroniques et afin de faciliter la progression de la couverture du territoire en radiocommunications mobiles de troisième génération, l'Autorité de régulation des communications électroniques et des postes détermine, après consultation publique et au plus tard six mois après la promulgation de la présente loi, les conditions et la mesure dans lesquelles sera mis en œuvre, en métropole, un partage des installations de réseau de troisième génération de communications électroniques mobiles, et notamment le seuil de couverture de la population au-delà duquel ce partage sera mis en œuvre.

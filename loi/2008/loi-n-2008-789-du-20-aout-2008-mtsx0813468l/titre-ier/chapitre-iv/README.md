@@ -1,3 +1,0 @@
-# CHAPITRE IV : LE REPRESENTANT DE LA SECTION SYNDICALE
-
-- [Article 6](article-6.md)

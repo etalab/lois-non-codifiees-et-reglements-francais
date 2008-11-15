@@ -1,3 +1,0 @@
-# CHAPITRE V : DISPOSITIONS RELATIVES AUX DECHETS
-
-- [Article 11](article-11.md)

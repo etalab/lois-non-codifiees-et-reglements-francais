@@ -1,3 +1,0 @@
-# Article 14
-
-Pour prendre en compte les caractéristiques communes aux activités de manutention, d'exploitation d'outillages et de maintenance des outillages de quai, les organisations professionnelles représentant les entreprises de manutention, les organisations professionnelles représentant les ports, les organisations syndicales représentatives des salariés des ports et les organisations syndicales représentatives des salariés des entreprises de manutention engagent, dès l'entrée en vigueur de la présente loi, une négociation dont l'objet est de définir le champ d'application d'une convention collective en vue de sa conclusion avant le 30 juin 2009.

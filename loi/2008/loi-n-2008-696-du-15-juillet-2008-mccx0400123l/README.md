@@ -1,4 +1,0 @@
-# LOI n° 2008-696 du 15 juillet 2008 relative aux archives (1)
-
-- [TITRE IER : DISPOSITIONS PORTANT MODIFICATION  DU CODE DU PATRIMOINE](titre-ier)
-- [TITRE II : DISPOSITIONS DIVERSES](titre-ii)

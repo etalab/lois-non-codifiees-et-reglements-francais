@@ -1,5 +1,0 @@
-# Article 51
-
-Dans les conditions prévues par l'article 38 de la Constitution, le Gouvernement est autorisé à prendre, par ordonnances, dans un délai de douze mois à compter de la publication de la présente loi, dans le respect de la transparence et de la bonne information du public, les mesures nécessaires pour harmoniser et rendre compatible avec le droit communautaire, notamment avec les directives 2007/66/CE du Parlement européen et du Conseil, du 11 décembre 2007, modifiant les directives 89/665/CEE et 92/13/CEE du Conseil en ce qui concerne l'amélioration de l'efficacité des procédures de recours en matière de passation des marchés publics et 2004/18/CE du Parlement européen et du Conseil, du 31 mars 2004, relative à la coordination des procédures de passation des marchés publics de travaux, de fournitures et de services, les dispositions législatives relatives à la passation, à l'exécution et au contrôle juridictionnel des contrats de la commande publique.
-
-Un projet de loi de ratification est déposé devant le Parlement dans un délai de trois mois à compter de la publication des ordonnances mentionnées à l'alinéa précédent.

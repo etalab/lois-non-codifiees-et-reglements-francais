@@ -1,3 +1,0 @@
-# Article 118
-
-Avant le 31 décembre 2008, l'Autorité de régulation des communications électroniques et des postes remet au Parlement et au Gouvernement un rapport public présentant un premier bilan des interventions des collectivités territoriales en application de l'article L. 1425-1 du code général des collectivités territoriales. Ce bilan précise notamment les impacts de ces interventions en termes de couverture du territoire, de développement de la concurrence, de tarifs, de services offerts, ainsi que les différentes formes juridiques de ces interventions. Il comprend également une analyse des différents moyens susceptibles d'assurer l'accès de tous à l'internet haut débit et des modalités possibles de financement de cet accès.

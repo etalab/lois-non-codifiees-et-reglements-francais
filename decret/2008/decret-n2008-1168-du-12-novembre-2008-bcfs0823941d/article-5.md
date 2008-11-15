@@ -1,0 +1,7 @@
+# Article 5
+
+Le montant annuel des revenus tirés de l'activité économique réduite en deçà duquel est ouvert le bénéfice de l'affiliation prévue au I de l'article 20 de la loi du 19 décembre 2007 susvisée est égal au salaire de base annuel retenu pour le calcul des prestations familiales.
+
+Lorsque les revenus dégagés par l'activité économique réduite dépassent ce montant, la personne exerçant ladite activité cesse définitivement, l'année suivant celle au cours de laquelle ce montant a été dépassé, de bénéficier de l'affiliation prévue au I de l'article 20 de la loi du 19 décembre 2007 susvisée.
+
+En cas de cessation par l'intéressé de l'exercice de l'activité économique réduite ou de décision de l'association agréée de mettre fin à l'accompagnement de cette personne, il appartient à l'association d'en informer le centre des formalités des entreprises compétent par lettre recommandée avec accusé de réception dont il est adressé copie à l'Union de recouvrement des cotisations de sécurité sociale et d'allocations familiales (URSSAF) compétente et à l'organisme chargé du recouvrement des cotisations d'assurance chômage. Dans un délai d'un mois à compter de la réception de la copie de cette lettre, l'Union de recouvrement des cotisations de sécurité sociale et d'allocations familiales (URSSAF) informe l'intéressé qu'il est mis fin à son affiliation prévue au I de l'article 20 de la loi du 19 décembre 2007 susvisée.
