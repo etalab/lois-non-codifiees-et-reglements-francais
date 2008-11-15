@@ -1,3 +1,3 @@
 # Article 4
 
-Le concours comporte des épreuves écrites et des épreuves orales.
+L'organisation du concours se déroule dans les conditions fixées par l'arrêté du 21 février 1975 susvisé relatif à l'exécution des épreuves des concours d'accès aux emplois des services extérieurs de la marine marchande.

@@ -52,13 +52,13 @@ M. Jean-Pierre Landau, inspecteur général des finances, sous-gouverneur de la 
 
 Mme Anne Lauvergeon, présidente du directoire d'Areva ;
 
-M. Bruno Lasserre, conseiller d'Etat, président du Conseil de la concurrence ;
+M. Bruno Lasserre, conseiller d'Etat, président    de l'Autorité de la concurrence ;
 
 M. Eric Le Boucher, journaliste ;
 
 M. Hervé Le Bras, démographe, directeur d'études à l'Ecole des hautes études en sciences sociales ;
 
-Mme Reine-Claude Mader Saussaye, présidente de la Confédération de la consommation, du logement et du cadre de vie, membre du Conseil de la concurrence ;
+Mme Reine-Claude Mader Saussaye, présidente de la Confédération de la consommation, du logement et du cadre de vie, membre    de l'Autorité de la concurrence ;
 
 M. Mario Monti, président de l'université Bocconi de Milan (Italie), ancien commissaire européen ;
 
@@ -88,4 +88,4 @@ Mme Dinah Weissmann, présidente-directrice générale de Biocortech ;
 
 M. Theodore Zeldin, écrivain, sociologue, historien, doyen du Saint Anthony's College d'Oxford (Grande-Bretagne).
 
-Mme Josseline de Clausade, conseiller d'Etat, est nommée rapporteur général de la commission. M. Emmanuel Macron, inspecteur des finances, est nommé rapporteur général adjoint.
+Mme Josseline de Clausade, conseiller d'Etat, est nommée rapporteur général de la commission.M. Emmanuel Macron, inspecteur des finances, est nommé rapporteur général adjoint.

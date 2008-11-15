@@ -1,28 +1,20 @@
 # Article Annexe II
 
-I DROIT MARITIME
+I NOTIONS DE DROIT MARITIME
 
 1. DROIT PRIVE
 
 1.1 Le navire
 
-Nationalité, propriété.
+Nationalité, propriété
 
 1.2 Le navire, élément du patrimoine
 
-Le crédit tiré du navire (hypothèque, privilège).
-
-La responsabilité du propriétaire du navire.
-
-Droit des créanciers sur le navire.
+Le crédit tiré du navire (hypothèque, privilèges), la responsabilité du propriétaire du navire, droit des créanciers sur le navire.
 
 1.3 L'exploitation du navire
 
-Les formes juridiques de l'armement.
-
-Opérations principales d'exploitation du navire : les contrats d'affrètement, le contrat de transport.
-
-Les ventes maritimes.
+Les formes juridiques de l'armement, les opérations principales d'exploitation du navire (les contrats d'affrètement, le contrat de transport), les ventes maritimes.
 
 1.4 Les événements de mer
 
@@ -30,7 +22,7 @@ Abordage, assistance et sauvetage, avaries communes.
 
 1.5 Les assurances maritimes
 
-2. DROIT INTERNATIONAL PUBLIC
+2. DROIT PUBLIC INTERNATIONAL
 
 2.1 Les eaux intérieures
 
@@ -52,13 +44,15 @@ Nature juridique, régime juridique, police de la haute mer, utilisation économ
 
 Notions
 
-II DROIT PENAL GENERAL ET PROCEDURE PENALE
+II NOTIONS DE DROIT PENAL ET DE PROCEDURE PENALE
 
 1. DROIT PENAL
 
+L'infraction, la tentative et la complicité.
+
 La classification des infractions : crimes, délits, contraventions.
 
-Echelle des peines.
+Echelle des peines, étude sommaire de chacune des peines.
 
 L'imputabilité, les faits justificatifs, les excuses, la minorité pénale, les circonstances atténuantes, la récidive, le casier judiciaire, le sursis, la grâce, l'amnistie, la réhabilitation.
 
@@ -74,39 +68,45 @@ Les juridictions répressives : organisation, compétence, procédure.
 
 Les voies de recours.
 
-III DROIT SOCIAL
+III NOTIONS DE DROIT SOCIAL
 
-1. DROIT DU TRAVAIL
+1. DROIT DU TRAVAIL.
 
-1.1 Les sources du droit du travail
+1.1 Objet, nature et caractères fondamentaux du droit de travail
 
-1.2 L'entreprise
+1.2 Les sources du droit du travail, l'organisation et les services administratifs
 
-Le chef d'entreprise, le personnel, les institutions représentatives du personnel.
+1.3 Les rapports individuels de travail
 
-1.3 Les groupements professionnels
+Définition et critère du contrat de travail.
 
-Le syndicalisme.
+Principe de la liberté du travail. Apprentissage et formation professionnelle. Restrictions légales (mineurs, femmes, étrangers, contrôle de l'embauchage).
 
-Les syndicats de travailleurs.
+Restrictions conventionnelles.
 
-Les groupements patronaux.
+Conditions de formation et preuve du contrat.
 
-1.4 Le contrat de travail
+Le salaire (forme, montant, modalités et garanties de paiement).
 
-Principe de la liberté du travail, définition, critère du contrat de travail, apprentissage et formation professionnelle, formation et preuve du contrat, obligations des parties, extinction du contrat, conflits individuels du travail.
+La réglementation des conditions de travail (durée, repos hebdomadaire, congés payés).
 
-1.5 Les conventions collectives
+La cessation du contrat de travail.
 
-1.6 Les conflits collectifs du travail
+Les litiges individuels.
 
-La grève, le lock-out et leurs effets, règlement des conflits collectifs.
+1.4 Les rapports collectifs
 
-2. LA SECURITE SOCIALE
+L'entreprise : règlement intérieur, délégués du personnel, comités d'entreprise.
+
+Les syndicats.
+
+Les conventions collectives.
+
+Les conflits collectifs du travail.
+
+2. LA SECURITE SOCIALE (NOTIONS SOMMAIRES)
 
 2.1 Les assurances sociales
-
-Assurance maladie, assurance invalidité, assurance vieillesse.
 
 2.2 Les prestations familiales
 

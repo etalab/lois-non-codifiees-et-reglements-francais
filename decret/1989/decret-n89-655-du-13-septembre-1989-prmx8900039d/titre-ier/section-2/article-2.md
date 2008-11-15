@@ -60,7 +60,7 @@ A Paris, lorsque les membres des corps et les autorités assistent aux cérémon
 
 29° Le président de la Commission nationale de l'informatique et des libertés ;
 
-30° Le président du Conseil de la concurrence ;
+30° Le président    de l'Autorité de la concurrence ;
 
 31° Le président de l'Autorité des marchés financiers ;
 

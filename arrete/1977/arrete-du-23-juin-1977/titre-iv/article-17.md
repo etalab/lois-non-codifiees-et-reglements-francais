@@ -1,3 +1,3 @@
 # Article 17
 
-Le directeur de l'administration générales et des gens de mer et l'inspecteur général des services des affaires maritimes sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+L'arrêté du 24 décembre 1970 fixant les conditions d'admission à l'école d'administration des affaires maritimes des licenciés en droit, ès sciences économiques, ès lettres, ès sciences, des titulaires du diplôme de l'école des hautes études commerciales ou d'un institut d'études politiques est abrogé.

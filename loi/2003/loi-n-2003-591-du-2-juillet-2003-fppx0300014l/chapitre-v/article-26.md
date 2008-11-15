@@ -20,4 +20,4 @@ Dans les conditions prévues par l'article 38 de la Constitution, le Gouvernemen
 
 9° Assouplir les règles relatives aux marchés d'intérêt national et ouvrir à de nouvelles catégories de personnes la gestion de ces marchés ;
 
-10° Instituer une procédure accélérée pour l'examen, par le Conseil de la concurrence, des affaires inférieures à un seuil déterminé et relever le seuil du chiffre d'affaires des entreprises soumises au contrôle des opérations de concentration.
+10° Instituer une procédure accélérée pour l'examen, par    l'Autorité de la concurrence, des affaires inférieures à un seuil déterminé et relever le seuil du chiffre d'affaires des entreprises soumises au contrôle des opérations de concentration.

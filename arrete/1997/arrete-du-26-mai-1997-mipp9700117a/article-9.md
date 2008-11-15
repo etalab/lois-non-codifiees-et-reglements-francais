@@ -1,0 +1,3 @@
+# Article 9
+
+En cas d'inobservation des conditions de l'autorisation, l'Autorité de régulation des communications électroniques et des postes pourra prendre les sanctions prévues par le code des postes et des communications électroniques. Cette autorisation pourra en particulier être retirée par l'Autorité de régulation des communications électroniques et des postes sans mise en demeure préalable en cas de changements substantiels intervenant dans la composition du capital social qui n'auraient pas été préalablement approuvés. Aucune des sanctions légalement prises en vertu du présent paragraphe n'ouvre droit à indemnité au bénéfice de l'opérateur.

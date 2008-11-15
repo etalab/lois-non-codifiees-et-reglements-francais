@@ -6,6 +6,6 @@ Le conseil se prononce dans un délai de deux mois, qu'il peut porter à quatre 
 
 La décision du conseil précise les conditions permettant d'assurer le respect des obligations et des principes mentionnés au premier alinéa. Le cas échéant, le conseil modifie en conséquence les autorisations délivrées.
 
-Lorsque les faits à l'origine du différend sont susceptibles de restreindre l'offre de services de communications électroniques, le conseil recueille l'avis de l'Autorité de régulation des communications électroniques et des postes, qui se prononce dans un délai d'un mois. Lorsque ces faits sont susceptibles de constituer une infraction aux dispositions du titre II du livre IV du code de commerce, il saisit le Conseil de la concurrence. Dans ce cas, le délai prévu au deuxième alinéa est suspendu jusqu'à ce que le Conseil de la concurrence se soit prononcé sur sa compétence.
+Lorsque les faits à l'origine du différend sont susceptibles de restreindre l'offre de services de communications électroniques, le conseil recueille l'avis de l'Autorité de régulation des communications électroniques et des postes, qui se prononce dans un délai d'un mois. Lorsque ces faits sont susceptibles de constituer une infraction aux dispositions du titre II du livre IV du code de commerce, il saisit    l'Autorité de la concurrence. Dans ce cas, le délai prévu au deuxième alinéa est suspendu jusqu'à ce que    l'Autorité de la concurrence se soit prononcé sur sa compétence.
 
 Un décret en Conseil d'Etat fixe les modalités d'application du présent article.

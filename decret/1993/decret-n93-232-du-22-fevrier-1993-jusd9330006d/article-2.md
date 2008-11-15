@@ -12,7 +12,7 @@ Les avis du service central de prévention de la corruption prévus au troisièm
 
 5. Le président de la Commission nationale des comptes de campagne et des financements politiques ;
 
-6. Le président du Conseil de la concurrence ;
+6. Le président    de l'Autorité de la concurrence ;
 
 7. Le président de l'Autorité des marchés financiers ;
 

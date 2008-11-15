@@ -84,7 +84,7 @@ I.-Sont abrogés :
 
 41° Le décret n° 87-601 du 29 juillet 1987 relatif aux conditions d'accès à la profession de greffier de tribunal de commerce ;
 
-42° Le décret n° 87-849 du 19 octobre 1987 relatif aux recours exercés devant la cour d'appel de Paris contre les décisions du Conseil de la concurrence ;
+42° Le décret n° 87-849 du 19 octobre 1987 relatif aux recours exercés devant la cour d'appel de Paris contre les décisions    de l'Autorité de la concurrence ;
 
 43° Le décret n° 88-694 du 9 mai 1988 relatif aux commissions départementales de conciliation en matière de baux d'immeubles ou locaux à usage commercial ;
 
@@ -114,7 +114,7 @@ I.-Sont abrogés :
 
 56° Le décret n° 96-650 du 19 juillet 1996 relatif aux centres de formalités des entreprises ;
 
-57° Le décret n° 96-740 du 14 août 1996 instituant une procédure de distribution des deniers en dehors de toute procédure d'exécution et modifiant le code de l'organisation judiciaire et le    code de procédure civile ;
+57° Le décret n° 96-740 du 14 août 1996 instituant une procédure de distribution des deniers en dehors de toute procédure d'exécution et modifiant le code de l'organisation judiciaire et le code de procédure civile ;
 
 58° Le décret n° 96-1097 du 16 décembre 1996 pris pour l'application du titre III, chapitre Ier, de la loi n° 96-603 du 5 juillet 1996 et relatif aux ventes en liquidation, ventes au déballage, ventes en soldes et ventes en magasins d'usines ;
 

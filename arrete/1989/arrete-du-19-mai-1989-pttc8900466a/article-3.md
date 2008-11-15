@@ -6,4 +6,4 @@ De coordonner l'élaboration des textes législatifs et réglementaires relatifs
 
 De répondre aux demandes de conseil formulées par les autres sous-directions sur toute question juridique ;
 
-De traiter les dossiers de plainte ou de réclamation liés à la réglementation générale et de suivre les affaires éventuellement portées devant le Conseil de la concurrence ou les juridictions compétentes.
+De traiter les dossiers de plainte ou de réclamation liés à la réglementation générale et de suivre les affaires éventuellement portées devant    l'Autorité de la concurrence ou les juridictions compétentes.
