@@ -1107,7 +1107,6 @@
 - [Décret n°2007-1513 du 22 octobre 2007 (DEVA0758733D)](decret-n2007-1513-du-22-octobre-2007-deva0758733d)
 - [Décret n°2007-1514 du 22 octobre 2007 (DEVA0759337D)](decret-n2007-1514-du-22-octobre-2007-deva0759337d)
 - [Décret n°2007-1515 du 22 octobre 2007 (AGRP0763839D)](decret-n2007-1515-du-22-octobre-2007-agrp0763839d)
-- [Décret n°2007-1516 du 22 octobre 2007 (AGRF0765574D)](decret-n2007-1516-du-22-octobre-2007-agrf0765574d)
 - [Décret n°2007-1519 du 22 octobre 2007 (JUSA0751771D)](decret-n2007-1519-du-22-octobre-2007-jusa0751771d)
 - [Décret n°2007-1520 du 22 octobre 2007 (JUSA0751774D)](decret-n2007-1520-du-22-octobre-2007-jusa0751774d)
 - [Décret n°2007-1642 du 22 novembre 2007 (PRMX0770865D)](decret-n2007-1642-du-22-novembre-2007-prmx0770865d)
