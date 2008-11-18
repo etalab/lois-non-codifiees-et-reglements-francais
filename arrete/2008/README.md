@@ -291,6 +291,7 @@
 - [Arrêté du 12 octobre 1989 (SPSM8901919A)](arrete-du-12-octobre-1989-spsm8901919a)
 - [Arrêté du 12 octobre 2007 (ECED0768187A)](arrete-du-12-octobre-2007-eced0768187a)
 - [Arrêté du 12 septembre 2008 (DEFH0822072A)](arrete-du-12-septembre-2008-defh0822072a)
+- [Arrêté du 12 septembre 2008 (DEVS0820537A)](arrete-du-12-septembre-2008-devs0820537a)
 - [Arrêté du 12 septembre 2008 (MENH0818387A)](arrete-du-12-septembre-2008-menh0818387a)
 - [Arrêté du 12 septembre 2008 (MENH0820974A)](arrete-du-12-septembre-2008-menh0820974a)
 - [Arrêté du 12 septembre 2008 (MENH0820977A)](arrete-du-12-septembre-2008-menh0820977a)

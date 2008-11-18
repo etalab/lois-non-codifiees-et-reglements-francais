@@ -482,6 +482,7 @@
 - [Décret n°2008-1068 du 17 octobre 2008 (AGRP0819005D)](decret-n2008-1068-du-17-octobre-2008-agrp0819005d)
 - [Décret n°2008-1069 du 17 octobre 2008 (MTST0823104D)](decret-n2008-1069-du-17-octobre-2008-mtst0823104d)
 - [Décret n°2008-1070 du 17 octobre 2008 (BCFF0818951D)](decret-n2008-1070-du-17-octobre-2008-bcff0818951d)
+- [Décret n°2008-1189 du 17 novembre 2008 (PRMX0827190D)](decret-n2008-1189-du-17-novembre-2008-prmx0827190d)
 - [Décret n°2008-264 du 17 mars 2008 (AGRS0769549D)](decret-n2008-264-du-17-mars-2008-agrs0769549d)
 - [Décret n°2008-265 du 17 mars 2008 (ESRS0801075D)](decret-n2008-265-du-17-mars-2008-esrs0801075d)
 - [Décret n°2008-266 du 17 mars 2008 (DEFH0801073D)](decret-n2008-266-du-17-mars-2008-defh0801073d)
