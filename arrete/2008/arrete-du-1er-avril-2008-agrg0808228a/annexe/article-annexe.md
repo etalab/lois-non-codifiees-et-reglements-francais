@@ -44,7 +44,7 @@ Zone de protection :
 
 - département de la Côte-d'Or ;
 
-- département des Côtes-d'Armor : arrondissements de Dinan, Lannion et cantons de Bégard, Belle-Isle-en-Terre, Bourbriac, Châtelaudren, Etables-sur-Mer, Guingamp, Lamballe, Langueux, Lanvollon, Moncontour, Paimpol, Pléneuf-Val-André, Plérin, Plœuc-sur-Lié, Plouagat, Ploufragan, Plouguenast, Plouha, Pontrieux, Quintin, Saint-Brieuc ;
+- département des Côtes-d'Armor : arrondissement de Dinan et cantons de Bégard, Bourbriac, Châtelaudren, Etables-sur-Mer, Guingamp, Lamballe, Langueux, Lannion, Lanvollon, Lézardrieux, Moncontour, Paimpol, Perros-Guirec, Pléneuf-Val-André, Plérin, Ploufragan, Plœuc-sur-Lié, Plouagat, Plouguenast, Plouha, Pontrieux, Quintin, Roche-Derrien, Saint-Brieuc, Tréguier ;
 
 - département de la Creuse ;
 
@@ -194,7 +194,7 @@ Zone de protection :
 
 - département de la Corrèze : arrondissements de Brive-la-Gaillarde, Tulle et cantons de Bugeat, Meymac, Neuvic, Ussel-Ouest ;
 
-- département des Côtes-d'Armor : cantons de Callac, La Chèze, Corlay, Gouarec, Loudéac, Maël-Carhaix, Mûr-de-Bretagne, Rostrenen, Saint-Nicolas-du-Pélem, Uzel ;
+- département des Côtes-d'Armor : cantons de Belle-Isle-en-Terre, Callac, La Chèze, Corlay, Gouarec, Loudéac, Maël-Carhaix, Mûr-de-Bretagne, Plestin-les-Grèves, Plouaret, Rostrenen, Saint-Nicolas-du-Pélem, Uzel ;
 
 - département de la Dordogne ;
 
