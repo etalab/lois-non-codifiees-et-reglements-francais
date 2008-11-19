@@ -8,6 +8,6 @@ Le dossier est ensuite soumis au comité médical compétent. Si le médecin agr
 
 Le comité médical transmet son avis à l'autorité investie du pouvoir de nomination.
 
-En cas de contestation par cette autorité ou par l'intéressé, ou dans l'hypothèse prévue au deuxième alinéa de l'article 18 ci-dessus, l'avis du comité médical est soumis au comité médical supérieur.
+En cas de contestation par cette autorité ou par l'intéressé, l'avis du comité médical est soumis au comité médical supérieur.
 
 Si la demande de congé est présentée au cours d'un congé antérieurement accordé dans les conditions prévues à l'article 41 (3°, premier alinéa) de la loi du 9 janvier 1986 susvisée, la première période de congé de longue maladie ou de longue durée part du jour de la première constatation médicale de la maladie dont est atteint le fonctionnaire.
