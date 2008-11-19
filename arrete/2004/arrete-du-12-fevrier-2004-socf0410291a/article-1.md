@@ -1,6 +1,6 @@
 # Article 1
 
-Le titre professionnel de technicien(ne) d'atelier de plasturgie est créé.
+Le titre professionnel de technicien (ne) de production en plasturgie est créé.
 
 Il est délivré dans les conditions prévues par l'arrêté du 25 novembre 2002 susvisé.
 
