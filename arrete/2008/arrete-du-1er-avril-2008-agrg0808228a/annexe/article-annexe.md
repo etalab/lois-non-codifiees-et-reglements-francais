@@ -36,7 +36,7 @@ Zone de protection :
 
 - département du Calvados ;
 
-- département du Cantal : cantons de Allanche, Champs-sur-Tarentaine-Marchal, Condat, Massiac, Murat, Ruynes-en-Margeride, Saint-Flour-Nord, Saint-Flour-Sud, Saint-Flour ;
+- département du Cantal : cantons de Allanche, Champs-sur-Tarentaine-Marchal, Condat, Massiac, Murat, Saint-Flour-Nord, Saint-Flour ;
 
 - département du Cher ;
 
@@ -44,7 +44,7 @@ Zone de protection :
 
 - département de la Côte-d'Or ;
 
-- département des Côtes-d'Armor : arrondissement de Dinan et cantons de Bégard, Bourbriac, Châtelaudren, Etables-sur-Mer, Guingamp, Lamballe, Langueux, Lannion, Lanvollon, Lézardrieux, Moncontour, Paimpol, Perros-Guirec, Pléneuf-Val-André, Plérin, Ploufragan, Plœuc-sur-Lié, Plouagat, Plouguenast, Plouha, Pontrieux, Quintin, Roche-Derrien, Saint-Brieuc, Tréguier ;
+- département des Côtes-d'Armor : arrondissement de Dinan et cantons de Bégard, Bourbriac, Châtelaudren, Etables-sur-Mer, Guingamp, Lamballe, Lannion, Lanvollon, Lézardrieux, Moncontour, Paimpol, Perros-Guirec, Pléneuf-Val-André, Plœuc-sur-Lié, Plouagat, Plouguenast, Plouha, Pontrieux, Quintin, Roche-Derrien, Tréguier, Langueux, Plérin, Ploufragan, Saint-Brieuc ;
 
 - département de la Creuse ;
 
@@ -78,7 +78,7 @@ Zone de protection :
 
 - département du Loiret ;
 
-- département de la Lozère : cantons de Bleymard, Châteauneuf-de-Randon, Grandrieu, Langogne, Malzieu-Ville, Mende-Nord, Pont-de-Montvert, Saint-Alban-sur-Limagnole, Saint-Amans, Saint-Chély-d'Apcher, Saint-Germain-de-Calberte, Villefort, Mende-Sud, Mende ;
+- département de la Lozère : cantons de Grandrieu, Langogne, Saint-Germain-de-Calberte, Villefort ;
 
 - département de Maine-et-Loire ;
 
@@ -186,7 +186,7 @@ Zone de protection :
 
 - département de l'Aveyron ;
 
-- département du Cantal : arrondissement d'Aurillac et cantons de Chaudes-Aigues, Mauriac, Pierrefort, Pleaux, Riom-ès-Montagnes, Saignes, Salers ;
+- département du Cantal : arrondissement d'Aurillac et cantons de Chaudes-Aigues, Mauriac, Pierrefort, Pleaux, Riom-ès-Montagnes, Saignes, Salers, Ruynes-en-Margeride, Saint-Flour-Sud ;
 
 - département de la Charente ;
 
@@ -216,7 +216,7 @@ Zone de protection :
 
 - département de Lot-et-Garonne ;
 
-- département de la Lozère : cantons de Aumont-Aubrac, Barre-des-Cévennes, La Canourgue, Chanac, Florac, Fournels, Marvejols, Massegros, Meyrueis, Nasbinals, Sainte-Enimie, Saint-Germain-du-Teil ;
+- département de la Lozère : cantons de Aumont-Aubrac, Barre-des-Cévennes, La Canourgue, Chanac, Florac, Fournels, Marvejols, Massegros, Meyrueis, Nasbinals, Sainte-Enimie, Saint-Germain-du-Teil, Bleymard, Châteauneuf-de-Randon, Malzieu-Ville, Mende-Nord, Pont-de-Montvert, Saint-Alban-sur-Limagnole, Saint-Amans, Saint-Chély-d'Apcher, Mende-Sud, Mende ;
 
 - département du Morbihan : arrondissements de Lorient, Pontivy et cantons de Elven, Grand-Champ, Sarzeau, Vannes-Est, Vannes-Ouest, Vannes ;
 
