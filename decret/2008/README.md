@@ -487,6 +487,8 @@
 - [Décret n°2008-1189 du 17 novembre 2008 (PRMX0827190D)](decret-n2008-1189-du-17-novembre-2008-prmx0827190d)
 - [Décret n°2008-1191 du 17 novembre 2008 (SJSG0819474D)](decret-n2008-1191-du-17-novembre-2008-sjsg0819474d)
 - [Décret n°2008-1192 du 17 novembre 2008 (MCCT0819734D)](decret-n2008-1192-du-17-novembre-2008-mcct0819734d)
+- [Décret n°2008-1194 du 17 novembre 2008 (ECEC0819888D)](decret-n2008-1194-du-17-novembre-2008-ecec0819888d)
+- [Décret n°2008-1195 du 17 novembre 2008 (MTSA0819917D)](decret-n2008-1195-du-17-novembre-2008-mtsa0819917d)
 - [Décret n°2008-264 du 17 mars 2008 (AGRS0769549D)](decret-n2008-264-du-17-mars-2008-agrs0769549d)
 - [Décret n°2008-265 du 17 mars 2008 (ESRS0801075D)](decret-n2008-265-du-17-mars-2008-esrs0801075d)
 - [Décret n°2008-266 du 17 mars 2008 (DEFH0801073D)](decret-n2008-266-du-17-mars-2008-defh0801073d)
