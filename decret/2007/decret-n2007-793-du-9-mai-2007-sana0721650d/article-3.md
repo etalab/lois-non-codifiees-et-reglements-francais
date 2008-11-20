@@ -1,6 +1,6 @@
 # Article 3
 
-Pour les établissements mentionnés au quatrième alinéa du I bis de l'article L. 313-12 du code de l'action sociale et des familles, les forfaits de soins attribués conformément aux dispositions de l'article 5 de la loi n° 2001-647 du 20 juillet 2001 susvisée sont maintenus au-delà du 1er janvier 2008, sous réserve que ces établissements aient exercé l'option mentionnée à l'article 2 :
+Pour les établissements mentionnés au quatrième alinéa du I bis de l'article L. 313-12 du code de l'action sociale et des familles, les forfaits de soins attribués antérieurement par l'autorité compétente de l'Etat sont maintenus au-delà du 1er janvier 2008, sous réserve que ces établissements aient exercé l'option mentionnée à l'article 2 :
 
 1° A due proportion du nombre de résidents non couverts par la convention mentionnée au I de l'article L. 313-12 précité ;
 
