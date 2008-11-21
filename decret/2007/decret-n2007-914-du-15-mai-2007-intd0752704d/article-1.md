@@ -16,8 +16,6 @@ Relèvent des dispositions du dernier alinéa du I de l'article 30 de la loi du 
 
 7. Arrêté relatif au traitement automatisé d'informations nominatives " fichier du personnel de la DGSE " mis en oeuvre par la direction générale de la sécurité extérieure ;
 
-8. Arrêté relatif au traitement automatisé d'informations nominatives de personnes étrangères mis en oeuvre par la direction du renseignement militaire ;
-
-9. Décret portant création au profit de la direction centrale de la sécurité publique d'un traitement automatisé de données à caractère personnel dénommé EDVIGE.
+8. Arrêté relatif au traitement automatisé d'informations nominatives de personnes étrangères mis en oeuvre par la direction du renseignement militaire.
 
 Les demandes d'avis portant sur les traitements énumérés au présent article comportent les mentions figurant à l'article 16 du décret du 20 octobre 2005 susvisé.
