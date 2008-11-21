@@ -772,7 +772,6 @@
 - [Décret n°96-681 du 30 juillet 1996 (ECOT9651539D)](decret-n96-681-du-30-juillet-1996-ecot9651539d)
 - [Décret n°96-75 du 30 janvier 1996 (EQUA9501420D)](decret-n96-75-du-30-janvier-1996-equa9501420d)
 - [Décret n°96-77 du 30 janvier 1996 (ECOT9510239D)](decret-n96-77-du-30-janvier-1996-ecot9510239d)
-- [Décret n°96-777 du 30 août 1996 (INDF9600382D)](decret-n96-777-du-30-aout-1996-indf9600382d)
 - [Décret n°96-80 du 30 janvier 1996 (MENF9502604D)](decret-n96-80-du-30-janvier-1996-menf9502604d)
 - [Décret n°96-83 du 30 janvier 1996 (FPPA9500149D)](decret-n96-83-du-30-janvier-1996-fppa9500149d)
 - [Décret n°96-85 du 30 janvier 1996 (AGRA9502213D)](decret-n96-85-du-30-janvier-1996-agra9502213d)
