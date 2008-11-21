@@ -15,3 +15,5 @@ Toutefois, si une journée prévue comme ne devant pas comporter tout ou partie 
 6. Pendant les coupures, les agents doivent disposer d'un local aménagé comportant, au minimum, une table, un siège, un appareil de chauffage, un réchaud, le matériel indispensable pour préparer un repas, un fauteuil ou une banquette permettant de se reposer.
 
 Si ce local est éloigné du lieu où l'agent cesse ou reprend son service, les temps nécessaires pour s'y rendre ou en revenir sont décomptés comme travail effectif.
+
+7. Les dispositions du présent article s'appliquent sous réserve des dispositions particulières de l'article 11-1 applicables au personnel roulant effectuant des services d'interopérabilité transfrontalière défini au 7 de l'article 5.

@@ -15,3 +15,5 @@ Dans le cas où la pause pour repas est prolongée d'un laps de temps portant sa
 3. Il ne doit être prévu de pause pour repas que dans les lieux où il existe un local équipé pour le réchauffage des aliments et la possibilité de se laver les mains.
 
 Lorsque le local équipé est éloigné du point de stationnement de la machine ou du train, les temps nécessaires pour s'y rendre ou en revenir ne sont pas inclus dans le temps de la pause pour repas.
+
+4. Les dispositions du présent article s'appliquent sous réserve des dispositions particulières de l'article 11-1 applicables au personnel roulant effectuant des services d'interopérabilité transfrontalière défini au 7 de l'article 5.
