@@ -636,7 +636,6 @@
 - [Arrêté du 17 janvier 1995 (AGRE9402458A)](arrete-du-17-janvier-1995-agre9402458a)
 - [Arrêté du 17 janvier 1995 (EQUA9500167A)](arrete-du-17-janvier-1995-equa9500167a)
 - [Arrêté du 17 janvier 1995 (INDB9500115A)](arrete-du-17-janvier-1995-indb9500115a)
-- [Arrêté du 17 janvier 1995 (SPSH9500298A)](arrete-du-17-janvier-1995-spsh9500298a)
 - [Arrêté du 17 juillet 1995 (ECOT9591040A)](arrete-du-17-juillet-1995-ecot9591040a)
 - [Arrêté du 17 juillet 1995 (MENH9501613A)](arrete-du-17-juillet-1995-menh9501613a)
 - [Arrêté du 17 mars 1995 (DEFA9501326A)](arrete-du-17-mars-1995-defa9501326a)
