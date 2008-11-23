@@ -38,13 +38,15 @@ Directeur des retraites supplémentaires à l'établissement d'Angers.
 
 Responsable du service du pilotage de la relation clients à l'établissement de Bordeaux.
 
+Directeur de la solidarité et des risques professionnels à l'établissement de Bordeaux.
+
 _Direction du développement territorial_
 
 Directeur interrégional adjoint de la Caisse des dépôts pour l'interrégion Est.
 
-Directeur régional de la Caisse des dépôts pour la région Auvergne.
-
 Directeur régional de la Caisse des dépôts pour la région Champagne-Ardenne.
+
+Directeur régional de la CDC pour l'océan Indien.
 
 _Caisse générale, direction des back-offices_
 
