@@ -1,3 +1,3 @@
 # Article 11
 
-A consistance du réseau et à volume de circulations ferroviaires inchangés par rapport à 1996, le montant global annuel des redevances prévues à l'article 1er perçues par Réseau ferré de France ne devra pas dépasser 5,85 milliards de francs en 1997 et 6 milliards de francs en 1998.
+Pour la période 2010-2015, afin de faciliter le développement du réseau ferré national et pour tenir compte de la valeur économique tirée de l'utilisation des lignes à grande vitesse de ce réseau, les règles d'évolution des prix kilométriques de la redevance de réservation de ces lignes sont fixées par un arrêté des ministres chargés des transports, de l'économie et du budget, pris sur proposition de Réseau ferré de France.

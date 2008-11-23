@@ -1,16 +1,20 @@
 # Article 6
 
-Le terme correspondant à la réservation est calculé à partir d'un prix kilométrique déterminé par catégorie ou par sous-catégorie de section élémentaire. Ce prix kilométrique peut être majoré pour tenir compte des aménagements réalisés sur la section élémentaire concernée. Il peut être modulé dans des conditions non discriminatoires pour tenir compte :
+La redevance de réservation est destinée à couvrir tout ou partie des coûts du capital investi.
+
+Elle est calculée à partir d'un prix kilométrique fixé par catégorie ou par sous-catégorie de section élémentaire et appliqué à toute la longueur de la section. Ce prix kilométrique peut être nul pour les catégories ou sous-catégories de lignes faiblement fréquentées.
+
+Ce prix kilométrique peut être modulé dans des conditions non discriminatoires pour tenir compte :
 
 a) De l'origine ou de la destination du trajet ;
 
 b) De la période horaire d'utilisation de la section élémentaire ;
 
-c) Du type de convoi ou de trafic ;
+c) Du type de convoi, notamment de sa capacité d'emport, ou du type de services ;
 
 d) De la qualité des sillons proposés ;
 
-e) De la rareté des capacités d'une ligne ou section de ligne saturée ;
+e) De la rareté des capacités d'une ligne ou section de ligne saturée, y compris en gare ;
 
 f) Du caractère limité des capacités d'une ligne ou section de ligne donnée ;
 
@@ -22,4 +26,8 @@ i) De la régularité d'utilisation par le demandeur ;
 
 j) Du délai entre la demande et la date prévue pour l'utilisation de la capacité d'infrastructure.
 
-Ce prix kilométrique peut être assorti d'un complément correspondant à la réservation de capacité d'un arrêt en gare.
+Elle peut être majorée, lorsque le marché s'y prête, dans des conditions respectant les principes d'efficacité, de transparence et de non-discrimination.
+
+La redevance de réservation est due par toute entreprise ferroviaire utilisant le réseau ferré national.
+
+Une somme d'un montant égal à la redevance de réservation est due à titre de garantie financière par l'attributaire d'un sillon qui n'est pas une entreprise ferroviaire. Lorsqu'une entreprise ferroviaire utilise le sillon mis à sa disposition par cet attributaire, cette somme est réputée avoir été versée en paiement de la redevance de réservation due par cette entreprise.

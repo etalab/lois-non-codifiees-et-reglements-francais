@@ -12,4 +12,4 @@ Pour le calcul des redevances, les sections élémentaires composant le réseau 
 
 Les sections composant les catégories peuvent être regroupées en sous-catégories correspondant à des niveaux de trafic.
 
-Les redevances dues par un utilisateur du réseau ferré national sont la somme des redevances dues pour chaque section élémentaire.
+Sans préjudice des dispositions de l'article 5, les redevances dues pour l'utilisation du réseau ferré national sont égales à la somme des redevances dues pour chaque section élémentaire.
