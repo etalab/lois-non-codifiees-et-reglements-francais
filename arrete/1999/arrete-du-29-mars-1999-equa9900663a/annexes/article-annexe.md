@@ -25,3 +25,5 @@ Arrêté 2007-09-03 : voir JO du 5 octobre 2007.
 Arrêté 2008-03-03 : voir JO du 6 mars 2008.
 
 Arrêté 2008-07-30 : voir JO du 7 août 2008.
+
+Arrêté 2008-11-03 : voir JO du 22 novembre 2008.
