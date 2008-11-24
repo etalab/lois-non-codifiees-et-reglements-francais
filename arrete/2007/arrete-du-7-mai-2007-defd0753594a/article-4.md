@@ -1,6 +1,6 @@
 # Article 4
 
-Pour l'exercice de ses attributions, telles que définies à l'article 10 de l'arrêté du 7 mai 2007 susvisé, le sous-chef « performance et synthèse » de l'état-major de l'armée de terre a sous ses ordres :
+Pour l'exercice de ses attributions, telles que définies à l'article 10 de l'arrêté du 7 mai 2007 susvisé, le sous-chef performance et synthèse de l'état-major de l'armée de terre a sous ses ordres :
 
 1. Le bureau programmation finances budget ;
 
@@ -10,4 +10,6 @@ Pour l'exercice de ses attributions, telles que définies à l'article 10 de l'a
 
 4. Le bureau prospective études et synthèse ;
 
-5. La cellule juridique.
+5. La cellule juridique ;
+
+6. La délégation au patrimoine de l'armée de terre.

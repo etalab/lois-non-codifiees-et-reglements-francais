@@ -1,6 +1,6 @@
 # Article 8
 
-Le sous-chef d'état-major « emploi et soutien » :
+Le sous-chef d'état-major emploi et soutien :
 
 1. S'assure du respect des contrats opérationnels fixés à l'armée de terre par le chef d'état-major des armées ;
 
@@ -18,6 +18,8 @@ Le sous-chef d'état-major « emploi et soutien » :
 
 8. Elabore la politique relative à la prévention et à la maîtrise des risques dans l'armée de terre selon les directives générales émanant du chef d'état-major des armées et du secrétaire général pour l'administration ;
 
-9. Supervise le traitement des affaires et missions particulières confiées par le major général.
+9. Supervise le traitement des affaires et missions particulières confiées par le major général ;
+
+10. Définit la politique d'emploi ainsi que les conditions et modalités d'emploi des réserves de l'armée de terre.
 
 Il est assisté d'un adjoint.
