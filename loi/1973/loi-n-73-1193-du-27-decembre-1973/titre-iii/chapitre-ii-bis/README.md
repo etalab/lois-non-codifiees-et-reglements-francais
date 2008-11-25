@@ -1,5 +1,0 @@
-# Chapitre II bis : Les équipements cinématographiques.
-
-- [Article 36-3](article-36-3.md)
-- [Article 36-5](article-36-5.md)
-- [Article 36-6](article-36-6.md)
