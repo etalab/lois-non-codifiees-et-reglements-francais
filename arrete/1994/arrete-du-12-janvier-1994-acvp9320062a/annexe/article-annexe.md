@@ -1,41 +1,34 @@
-# Article ANNEXE
+# Article Annexe
+
+Services ouvrant droit au bénéfice des dispositions de l'article L. 253 ter du code des pensions militaires d'invaladité et des victimes de la guerre
 
 <table>
 <tbody>
 <tr>
 <td>
 <p align="center">
-<font size="2">
-<strong>
-<font size="3">Etat ou territoires concernés</font>
-</strong>
-</font>
+<strong>Etat ou territoires concernés </strong>
 </p>
 </td>
 <td>
 <p align="center">
-<font size="3">
-<strong>
-<font size="1">Début de période</font>
-</strong>
-</font>
+<strong>Début de période</strong>
 </p>
 </td>
 <td>
 <p align="center">
-<strong>
-<font size="3">Fin de période</font>
-</strong>
+<strong>Fin de période</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td>Afghanistan Pays et eaux avoisinants, opération Héraclès, Pamir et Epidote</td>
+<td>Afghanistan, pays et eaux avoisinants, notamment le Kirghizstan <p>Opérations Héraclès, Pamir et Epidote </p>
+</td>
 <td>
 <p align="center">3 octobre 2001</p>
 </td>
 <td>
-<p align="center">2 octobre 2007</p>
+<p align="center">2 octobre 2009</p>
 </td>
 </tr>
 <tr>
@@ -55,18 +48,14 @@
 </td>
 <td>
 <p align="center">
-<em>
-<font size="2">1re période</font>
-</em>
+<em>1re période</em>
 </p>
 <p align="center">17 décembre 1956</p>
 </td>
 <td>
 <br/>
 <p align="center">
-<em>
-<font size="2">1re période</font>
-</em>
+<em>1re période</em>
 </p>
 <p align="center">31 décembre 1958</p>
 </td>
@@ -78,18 +67,14 @@
 <td>
 <br/>
 <p align="center">
-<font size="2">
 <em>2e période</em>
-</font>
 </p>
 <p align="center">1er juin 1959</p>
 </td>
 <td>
 <br/>
 <p align="center">
-<font size="2">
 <em>2e période</em>
-</font>
 </p>
 <p align="center">28 mars 1963</p>
 </td>
@@ -124,29 +109,45 @@
 <p align="center">2 juin 2003</p>
 </td>
 <td>
-<p align="center">1er juin 2007</p>
+<p align="center">1er juin 2009</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">Opérations maritimes du golfe Persique et du golfe d'Oman</p>
+<p align="center">Golfe Persique et golfe d'Oman</p>
+<p align="center">
+<br/>
+</p>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p>Opérations maritimes</p>
 </td>
 <td>
 <p align="center">30 juillet 1987</p>
+<p align="center">
+<br/>
+</p>
 </td>
 <td>
-<p align="center">En cours</p>
+<p align="center">29 juillet 2003</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">Régions du golfe Persique et du golfe d'Oman </p>
-</td>
+<br/>Opérations militaires</td>
 <td>
 <p align="center">30 juillet 1990</p>
 </td>
 <td>
-<p align="center">En cours</p>
+<p align="center">29 juillet 2003</p>
 </td>
 </tr>
 <tr>
@@ -176,7 +177,7 @@
 <p align="center">22 mars 1978</p>
 </td>
 <td>
-<p align="center">22 mars 2005</p>
+<p align="center">22 mars 2007</p>
 </td>
 </tr>
 <tr>
@@ -209,17 +210,13 @@
 </td>
 <td>
 <p align="center">
-<font size="2">
 <em>1re période :</em>
-</font>
 </p>
 <p align="center">1er janvier 1957</p>
 </td>
 <td>
 <p align="center">
-<font size="2">
-<em>1re période</em> :</font>
-</p>
+<em>1re période</em> :</p>
 <p align="center">31 décembre 1959</p>
 </td>
 </tr>
@@ -229,17 +226,13 @@
 </td>
 <td>
 <p align="center">
-<font size="2">
 <em>2e période</em>
-</font>
 </p>
 <p align="center">1er novembre 1977</p>
 </td>
 <td>
 <p align="center">
-<em>
-<font size="2">2e période</font>
-</em>
+<em>2e période</em>
 </p>
 <p align="center">30 octobre 1980</p>
 </td>
@@ -263,7 +256,7 @@
 <p align="center">2 juin 2003</p>
 </td>
 <td>
-<p align="center">1er juin 2007</p>
+<p align="center">1er juin 2009</p>
 </td>
 </tr>
 <tr>
@@ -272,17 +265,13 @@
 </td>
 <td>
 <p align="center">
-<font size="2">
 <em>1re période</em>
-</font>
 </p>
 <p align="center">20 septembre 1979</p>
 </td>
 <td>
 <p align="center">
-<font size="2">
 <em>1re période</em>
-</font>
 </p>
 <p align="center">19 septembre 1982</p>
 </td>
@@ -293,17 +282,13 @@
 </td>
 <td>
 <p align="center">
-<font size="2">
 <em>2e période</em>
-</font>
 </p>
 <p align="center">18 mai 1996</p>
 </td>
 <td>
 <p align="center">
-<font size="2">
 <em>2e période</em>
-</font>
 </p>
 <p align="center">17 mai 1999</p>
 </td>
@@ -314,17 +299,13 @@
 </td>
 <td>
 <p align="center">
-<font size="2">
 <em>3e période</em>
-</font>
 </p>
 <p align="center">3 décembre 2002</p>
 </td>
 <td>
 <p align="center">
-<font size="2">
 <em>3e période</em>
-</font>
 </p>
 <p align="center">2 décembre 2008</p>
 </td>
@@ -337,7 +318,7 @@
 <p align="center">2 juin 2003</p>
 </td>
 <td>
-<p align="center">1er juin 2007</p>
+<p align="center">1er juin 2009</p>
 </td>
 </tr>
 <tr>
@@ -353,13 +334,13 @@
 </tr>
 <tr>
 <td>
-<p align="center">Tchad, pays avoisinants.</p>
+<p align="center">Tchad et pays avoisinants, notamment le Cameroun </p>
 </td>
 <td>
 <p align="center">15 mars 1969</p>
 </td>
 <td>
-<p align="center">31 décembre 2007</p>
+<p align="center">31 décembre 2009</p>
 </td>
 </tr>
 <tr>
@@ -376,13 +357,13 @@
 <tr>
 <td>
 <br/>
-<p align="center">Yougoslavie : Pays limitrophes et eaux avoisinantes.</p>
+<p align="center">Yougoslavie, pays et eaux avoisinantes </p>
 </td>
 <td>
 <p align="center">1er janvier 1992</p>
 </td>
 <td>
-<p align="center">31 décembre 2007</p>
+<p align="center">31 décembre 2009</p>
 </td>
 </tr>
 <tr>
