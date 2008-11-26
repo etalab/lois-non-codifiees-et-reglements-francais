@@ -762,6 +762,7 @@
 - [Décret n°2007-1832 du 24 décembre 2007 (ESRS0771934D)](decret-n2007-1832-du-24-decembre-2007-esrs0771934d)
 - [Décret n°2008-1000 du 24 septembre 2008 (SJSH0816812D)](decret-n2008-1000-du-24-septembre-2008-sjsh0816812d)
 - [Décret n°2008-1001 du 24 septembre 2008 (BCFD0807993D)](decret-n2008-1001-du-24-septembre-2008-bcfd0807993d)
+- [Décret n°2008-1212 du 24 novembre 2008 (ECEA0824628D)](decret-n2008-1212-du-24-novembre-2008-ecea0824628d)
 - [Décret n°2008-390 du 24 avril 2008 (ESRS0806195D)](decret-n2008-390-du-24-avril-2008-esrs0806195d)
 - [Décret n°2008-400 du 24 avril 2008 (BCFX0810134D)](decret-n2008-400-du-24-avril-2008-bcfx0810134d)
 - [Décret n°2008-402 du 24 avril 2008 (ECEQ0804798D)](decret-n2008-402-du-24-avril-2008-eceq0804798d)
