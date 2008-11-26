@@ -253,17 +253,6 @@ COMITÉS TECHNIQUES PARITAIRES CENTRAUX D'ÉTABLISSEMENTS PUBLICS RELEVANT DU MI
 </tr>
 <tr>
 <td valign="top" width="425">
-<p>Centre universitaire de formation et de recherche Jean-François Champollion </p>
-</td>
-<td valign="top" width="96">
-<p align="center">5</p>
-</td>
-<td valign="top" width="84">
-<p align="center">5</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="425">
 <p>Observatoire de la Côte d'Azur </p>
 </td>
 <td valign="top" width="96">
@@ -370,6 +359,33 @@ COMITÉS TECHNIQUES PARITAIRES CENTRAUX D'ÉTABLISSEMENTS PUBLICS RELEVANT DU MI
 </td>
 <td valign="top" width="84">
 <p align="center">3</p>
+</td>
+</tr>
+<tr>
+<td>Ecole nationale supérieure de céramique industrielle </td>
+<td>
+<p align="center">3</p>
+</td>
+<td>
+<p align="center">3</p>
+</td>
+</tr>
+<tr>
+<td>Institut d'études politiques de Toulouse</td>
+<td>
+<p align="center">3</p>
+</td>
+<td>
+<p align="center">3 </p>
+</td>
+</tr>
+<tr>
+<td>Ecole nationale supérieure de chimie de Paris </td>
+<td>
+<p align="center">7</p>
+</td>
+<td>
+<p align="center">7</p>
 </td>
 </tr>
 </tbody>
