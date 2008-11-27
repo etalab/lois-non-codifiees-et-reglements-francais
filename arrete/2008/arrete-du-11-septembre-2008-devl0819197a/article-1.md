@@ -48,13 +48,13 @@ La directrice de l'eau et de la biodiversité.
 
 La directrice du laboratoire des ponts et chaussées.
 
-Le chef du département des relations sociales de la direction ressources humaines au sein du secrétariat général.
+Le directeur de l'Ecole nationale des travaux publics de l'Etat.
 
-Le chargé du service emplois et compétences de la direction des ressources humaines au sein du secrétariat général.
+Le directeur de l'Institut géographique national.
 
 Le directeur de l'établissement public Parcs nationaux de France .
 
-Le chargé du service de la gestion du personnel de la direction des ressources humaines au sein du secrétariat général.
+Le directeur général de l'Office national de la chasse et de la faune sauvage.
 
 Une directrice régionale de l'environnement.
 
