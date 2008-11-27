@@ -36,7 +36,7 @@ Zone de protection :
 
 - département du Calvados ;
 
-- département du Cantal : cantons de Allanche, Champs-sur-Tarentaine-Marchal, Condat, Massiac, Murat, Saint-Flour-Nord, Saint-Flour ;
+- département du Cantal : cantons de Allanche, Champs-sur-Tarentaine-Marchal, Condat, Massiac, Murat, Saint-Flour - Nord, Saint-Flour ;
 
 - département du Cher ;
 
@@ -44,7 +44,7 @@ Zone de protection :
 
 - département de la Côte-d'Or ;
 
-- département des Côtes-d'Armor : arrondissement de Dinan et cantons de Bégard, Bourbriac, Châtelaudren, Etables-sur-Mer, Guingamp, Lamballe, Lannion, Lanvollon, Lézardrieux, Moncontour, Paimpol, Perros-Guirec, Pléneuf-Val-André, Plœuc-sur-Lié, Plouagat, Plouguenast, Plouha, Pontrieux, Quintin, Roche-Derrien, Tréguier, Langueux, Plérin, Ploufragan, Saint-Brieuc ;
+- département des Côtes-d'Armor : arrondissement de Dinan et cantons de Bégard, Bourbriac, Châtelaudren, Etables-sur-Mer, Guingamp, Lamballe, Lannion, Lanvollon, Lézardrieux, Moncontour, Paimpol, Perros-Guirec, Pléneuf-Val-André, Plœuc-sur-Lié, Plouagat, Plouguenast, Plouha, Pontrieux, Quintin, La Roche-Derrien, Tréguier, Langueux, Plérin, Ploufragan, Saint-Brieuc ;
 
 - département de la Creuse ;
 
@@ -142,11 +142,11 @@ Zone de protection :
 
 - département de Vaucluse ;
 
-- département de la Vendée : arrondissements des Sables-d'Olonne, La Roche-sur-Yon et cantons de Chaillé-les-Marais, La Châtaigneraie, Fontenay-le-Comte, L'Hermenault, Luçon, Pouzauges, Sainte-Hermine, Saint-Hilaire-des-Loges ;
+- département de la Vendée : arrondissement de La Roche-sur-Yon et cantons de Beauvoir-sur-Mer, Challans, La Châtaigneraie, Fontenay-le-Comte, L'Hermenault, L'Ile-d'Yeu, La Mothe-Achard, Noirmoutier-en-l'Ile, Palluau, Pouzauges, Les Sables-d'Olonne, Saint-Gilles-Croix-de-Vie, Sainte-Hermine, Saint-Hilaire-des-Loges, Saint-Jean-de-Monts, Talmont-Saint-Hilaire ;
 
 - département de la Vienne : arrondissement de Châtellerault et cantons de Chauvigny, L'Isle-Jourdain, Lussac-les-Châteaux, Mirebeau, Montmorillon, Neuville-de-Poitou, Poitiers (1er canton), Poitiers (2e canton), Saint-Georges-lès-Baillargeaux, Saint-Julien-l'Ars, Saint-Savin, Trimouille, Villedieu-du-Clain, Vivonne, Vouillé, Poitiers (3e canton), Poitiers (4e canton), Poitiers (5e canton), Poitiers (6e canton), Poitiers (7e canton), Poitiers ;
 
-- département de la Haute-Vienne : arrondissement de Bellac et cantons de Aixe-sur-Vienne, Ambazac, Châteauneuf-la-Forêt, Eymoutiers, Laurière, Nexon, Nieul, Pierre-Buffière, Saint-Junien-Est, Saint-Laurent-sur-Gorre, Saint-Léonard-de-Noblat, Limoges-Isle, Limoges-Couzeix, Limoges-Le Palais, Limoges-Condat, Limoges-Panazol, Saint-Junien-Ouest, Saint-Junien, Limoges ;
+- département de la Haute-Vienne : arrondissement de Bellac et cantons de Aixe-sur-Vienne, Ambazac, Châteauneuf-la-Forêt, Eymoutiers, Laurière, Nexon, Nieul, Pierre-Buffière, Saint-Junien - Est, Saint-Laurent-sur-Gorre, Saint-Léonard-de-Noblat, Limoges-Isle, Limoges-Couzeix, Limoges-Le Palais, Limoges-Condat, Limoges-Panazol, Saint-Junien - Ouest, Saint-Junien, Limoges ;
 
 - département des Vosges ;
 
@@ -186,15 +186,15 @@ Zone de protection :
 
 - département de l'Aveyron ;
 
-- département du Cantal : arrondissement d'Aurillac et cantons de Chaudes-Aigues, Mauriac, Pierrefort, Pleaux, Riom-ès-Montagnes, Saignes, Salers, Ruynes-en-Margeride, Saint-Flour-Sud ;
+- département du Cantal : arrondissement d'Aurillac et cantons de Chaudes-Aigues, Mauriac, Pierrefort, Pleaux, Riom-ès-Montagnes, Saignes, Salers, Ruynes-en-Margeride, Saint-Flour - Sud ;
 
 - département de la Charente ;
 
 - département de la Charente-Maritime ;
 
-- département de la Corrèze : arrondissements de Brive-la-Gaillarde, Tulle et cantons de Bugeat, Meymac, Neuvic, Ussel-Ouest ;
+- département de la Corrèze : arrondissements de Brive-la-Gaillarde, Tulle et cantons de Bugeat, Meymac, Neuvic, Ussel - Ouest ;
 
-- département des Côtes-d'Armor : cantons de Belle-Isle-en-Terre, Callac, La Chèze, Corlay, Gouarec, Loudéac, Maël-Carhaix, Mûr-de-Bretagne, Plestin-les-Grèves, Plouaret, Rostrenen, Saint-Nicolas-du-Pélem, Uzel ;
+- département des Côtes-d'Armor : cantons de Belle-Isle-en-Terre, Callac, Chèze, Corlay, Gouarec, Loudéac, Maël-Carhaix, Mur-de-Bretagne, Plestin-les-Grèves, Plouaret, Rostrenen, Saint-Nicolas-du-Pélem, Uzel ;
 
 - département de la Dordogne ;
 
@@ -212,13 +212,13 @@ Zone de protection :
 
 - département des Landes ;
 
-- département du Lot ;
+- département de Lot ;
 
 - département de Lot-et-Garonne ;
 
-- département de la Lozère : cantons de Aumont-Aubrac, Barre-des-Cévennes, La Canourgue, Chanac, Florac, Fournels, Marvejols, Massegros, Meyrueis, Nasbinals, Sainte-Enimie, Saint-Germain-du-Teil, Bleymard, Châteauneuf-de-Randon, Malzieu-Ville, Mende-Nord, Pont-de-Montvert, Saint-Alban-sur-Limagnole, Saint-Amans, Saint-Chély-d'Apcher, Mende-Sud, Mende ;
+- département de la Lozère : cantons de Aumont-Aubrac, Barre-des-Cévennes, La Canourgue, Chanac, Florac, Fournels, Marvejols, Massegros, Meyrueis, Nasbinals, Sainte-Enimie, Saint-Germain-du-Teil, Le Bleymard, Châteauneuf-de-Randon, Malzieu-Ville, Mende-Nord, Pont-de-Montvert, Saint-Alban-sur-Limagnole, Saint-Amans, Saint-Chély-d'Apcher, Mende - Sud, Mende ;
 
-- département du Morbihan : arrondissements de Lorient, Pontivy et cantons de Elven, Grand-Champ, Sarzeau, Vannes-Est, Vannes-Ouest, Vannes ;
+- département du Morbihan : arrondissements de Lorient, Pontivy et cantons de Elven, Grand-Champ, Sarzeau, Vannes - Est, Vannes - Ouest, Vannes ;
 
 - département des Pyrénées-Atlantiques ;
 
@@ -228,11 +228,11 @@ Zone de protection :
 
 - département des Deux-Sèvres : arrondissement de Niort et canton de Mazières-en-Gâtine ;
 
-- département du Tarn ;
+- département de Tarn ;
 
 - département de Tarn-et-Garonne ;
 
-- département de la Vendée : canton de Maillezais ;
+- département de la Vendée : cantons de Chaillé-les-Marais, Luçon, Maillezais, Moutiers-les-Mauxfaits ;
 
 - département de la Vienne : cantons de Availles-Limouzine, Charroux, Civray, Couhé, Gençay, Lusignan ;
 
