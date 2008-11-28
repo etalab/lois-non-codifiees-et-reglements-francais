@@ -1,3 +1,0 @@
-# Article 28
-
-Le premier ministre, le ministre d'Etat chargé de la défense nationale, le ministre l'Etat chargé des réformes administratives, le ministre des affaires culturelles, le ministre de l'économie et des finances, le ministre du développement industriel et scientifique, le ministre des transports, le secrétaire d'Etat auprès du Premier ministre, chargé de la fonction publique, le secrétaire d'Etat auprès du Premier ministre, chargé de la jeunesse, des sports et des loisirs, et le secrétaire l'Etat auprès du ministre de l'économie et des finances, chargé du budget, sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.

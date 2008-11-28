@@ -29,7 +29,6 @@
 - [Décret n°68-253 du 19 mars 1968](decret-n68-253-du-19-mars-1968)
 - [Décret n°68-351 du 19 avril 1968](decret-n68-351-du-19-avril-1968)
 - [Décret n°68-65 du 19 janvier 1968](decret-n68-65-du-19-janvier-1968)
-- [Décret n°68-1074 du 20 novembre 1968](decret-n68-1074-du-20-novembre-1968)
 - [Décret n°68-269 du 20 mars 1968](decret-n68-269-du-20-mars-1968)
 - [Décret n°69-448 du 20 mai 1969](decret-n69-448-du-20-mai-1969)
 - [Décret n°68-268 du 21 mars 1968](decret-n68-268-du-21-mars-1968)

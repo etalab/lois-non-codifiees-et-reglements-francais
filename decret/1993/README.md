@@ -531,7 +531,6 @@
 - [Décret n°93-455 du 23 mars 1993 (SPSC9300352D)](decret-n93-455-du-23-mars-1993-spsc9300352d)
 - [Décret n°93-456 du 23 mars 1993 (SPSS9300219D)](decret-n93-456-du-23-mars-1993-spss9300219d)
 - [Décret n°93-464 du 23 mars 1993 (MAEA9320008D)](decret-n93-464-du-23-mars-1993-maea9320008d)
-- [Décret n°93-467 du 23 mars 1993 (DEFD9301251D)](decret-n93-467-du-23-mars-1993-defd9301251d)
 - [Décret n°93-469 du 23 mars 1993 (ECOT9394191D)](decret-n93-469-du-23-mars-1993-ecot9394191d)
 - [Décret n°93-470 du 23 mars 1993 (ECOT9394192D)](decret-n93-470-du-23-mars-1993-ecot9394192d)
 - [Décret n°93-476 du 23 mars 1993 (EQUP9300178D)](decret-n93-476-du-23-mars-1993-equp9300178d)

@@ -450,7 +450,6 @@
 - [Décret n°97-975 du 20 octobre 1997 (ECOP9700626D)](decret-n97-975-du-20-octobre-1997-ecop9700626d)
 - [Décret n°97-976 du 20 octobre 1997 (ECOP9700627D)](decret-n97-976-du-20-octobre-1997-ecop9700627d)
 - [Décret n°98-222 du 20 mars 1998 (MCCB9800016D)](decret-n98-222-du-20-mars-1998-mccb9800016d)
-- [Décret n°97-506 du 20 mai 1997 (DEFD9701435D)](decret-n97-506-du-20-mai-1997-defd9701435d)
 - [Décret n°97-507 du 20 mai 1997 (TASG9720231D)](decret-n97-507-du-20-mai-1997-tasg9720231d)
 - [Décret n°97-159 du 21 février 1997 (ECOT9794538D)](decret-n97-159-du-21-fevrier-1997-ecot9794538d)
 - [Décret n°97-161 du 21 février 1997 (DEFP9701024D)](decret-n97-161-du-21-fevrier-1997-defp9701024d)

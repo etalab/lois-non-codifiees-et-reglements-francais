@@ -797,8 +797,6 @@
 - [Décret n°94-764 du 30 août 1994 (BUDF9400013D)](decret-n94-764-du-30-aout-1994-budf9400013d)
 - [Décret n°94-773 du 30 août 1994 (SPSP9401987D)](decret-n94-773-du-30-aout-1994-spsp9401987d)
 - [Décret n°94-776 du 30 août 1994 (BUDF9420713D)](decret-n94-776-du-30-aout-1994-budf9420713d)
-- [Décret n°94-844 du 30 septembre 1994 (DEFD9401550D)](decret-n94-844-du-30-septembre-1994-defd9401550d)
-- [Décret n°94-846 du 30 septembre 1994 (DEFD9401552D)](decret-n94-846-du-30-septembre-1994-defd9401552d)
 - [Décret n°94-849 du 30 septembre 1994 (ECOT9440215D)](decret-n94-849-du-30-septembre-1994-ecot9440215d)
 - [Décret n°94-850 du 30 septembre 1994 (ECOT9426114D)](decret-n94-850-du-30-septembre-1994-ecot9426114d)
 - [Décret n°94-851 du 30 septembre 1994 (EQUU9401435D)](decret-n94-851-du-30-septembre-1994-equu9401435d)
