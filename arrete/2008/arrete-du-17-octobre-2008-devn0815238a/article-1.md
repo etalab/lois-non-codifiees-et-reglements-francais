@@ -1,0 +1,3 @@
+# Article 1
+
+Est désigné sous l'appellation « site Natura 2000 massif de la Vanoise » (zone spéciale de conservation FR 8201783) l'espace délimité sur la carte d'assemblage au 1/250 000 ainsi que sur les trente-huit cartes au 1/25 000 ci-jointes, s'étendant sur une partie du territoire des communes suivantes du département de la Savoie : Les Allues, Aussois, Bessans, Bonneval-sur-Arc, Bozel, Champagny-en-Vanoise, Lanslebourg-Mont-Cenis, Lanslevillard, Modane, Orelle, Peisey-Nancroix, Planay, Pralognan-la-Vanoise, Saint-André, Saint-Bon-Tarentaise, Sainte-Foy-Tarentaise, Sollières-Sardières, Termignon, Tignes, Val-d'Isère, Villarodin-Bourget, Villaroger.
