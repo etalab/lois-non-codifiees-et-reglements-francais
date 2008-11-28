@@ -7,7 +7,9 @@
 <p align="center">comité local des pêches maritimes et </p>
 <p align="center">des élevages marins </p>
 </td>
-<td>siège du comité</td>
+<td>
+<p align="center">siège du comité</p>
+</td>
 <td>
 <p align="center">nombre de </p>
 <p align="center">membres</p>
@@ -113,7 +115,7 @@
 <td>Paimpol</td>
 <td>Paimpol (Côtes d'Armor)</td>
 <td>
-<p align="center">26</p>
+<p align="center">25</p>
 </td>
 </tr>
 <tr>
@@ -281,7 +283,7 @@
 <td>Var</td>
 <td>Toulon (Var)</td>
 <td>
-<p align="center">20</p>
+<p align="center">12</p>
 </td>
 </tr>
 <tr>
