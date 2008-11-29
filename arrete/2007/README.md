@@ -1024,7 +1024,6 @@
 - [Arrêté du 26 décembre 2007 (SJSH0773175A)](arrete-du-26-decembre-2007-sjsh0773175a)
 - [Arrêté du 26 février 2007 (CPTX0710026A)](arrete-du-26-fevrier-2007-cptx0710026a)
 - [Arrêté du 26 février 2007 (ECOP0700012A)](arrete-du-26-fevrier-2007-ecop0700012a)
-- [Arrêté du 26 février 2007 (JUSG0660078A)](arrete-du-26-fevrier-2007-jusg0660078a)
 - [Arrêté du 26 février 2007 (PRMX0709979A)](arrete-du-26-fevrier-2007-prmx0709979a)
 - [Arrêté du 26 janvier 2007 (SOCC0710160A)](arrete-du-26-janvier-2007-socc0710160a)
 - [Arrêté du 26 janvier 2007 (SOCK0710228A)](arrete-du-26-janvier-2007-sock0710228a)
