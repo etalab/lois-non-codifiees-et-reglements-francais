@@ -979,7 +979,6 @@
 - [Arrêté du 25 octobre 2007 (BCFL0768077A)](arrete-du-25-octobre-2007-bcfl0768077a)
 - [Arrêté du 25 septembre 2007 (DEVA0759192A)](arrete-du-25-septembre-2007-deva0759192a)
 - [Arrêté du 25 septembre 2007 (DEVT0765320A)](arrete-du-25-septembre-2007-devt0765320a)
-- [Arrêté du 25 septembre 2007 (ESRF0758691A)](arrete-du-25-septembre-2007-esrf0758691a)
 - [Arrêté du 25 septembre 2007 (PRMG0765922A)](arrete-du-25-septembre-2007-prmg0765922a)
 - [Arrêté du 25 mai 2007 (PRMD0753669A)](arrete-du-25-mai-2007-prmd0753669a)
 - [Arrêté du 26 avril 1995 (MEND9500847A)](arrete-du-26-avril-1995-mend9500847a)
