@@ -1,0 +1,3 @@
+# Article 3
+
+Les élèves candidats au concours d'admission en deuxième année de formation initiale des ENSTIM pour les filières MP, PC et PSI doivent s'inscrire au concours commun des ENSTIM dans la banque Mines-Ponts, selon les modalités décrites dans la notice 2009 relative à l'organisation du concours commun Mines-Ponts (filières MP, PC et PSI) visée à l'article 21 : le concours commun des ENSTIM utilisant, dans le cadre de la banque Mines-Ponts comme les concours TPE/EIVP, ENSAE (statistique), TELECOM INT et Centrale-Supélec (cycle international), les épreuves écrites du concours Mines-Ponts.
