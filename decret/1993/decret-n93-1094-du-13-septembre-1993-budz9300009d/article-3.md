@@ -1,6 +1,6 @@
 # Article 3
 
-L'autorisation d'ouvrir un entrepôt fiscal de stockage d'huiles minérales est accordée par le directeur général des douanes et droits indirects à la demande de l'entrepositaire agréé souhaitant l'exploiter.
+L'autorisation d'ouvrir un entrepôt fiscal de stockage d'huiles minérales est accordée par       le ministre chargé des douanes à la demande de l'entrepositaire agréé souhaitant l'exploiter.
 
 Cette demande comporte les renseignements et les documents requis par l'administration des douanes concernant l'exploitant, les installations, les produits et les opérations envisagées.
 

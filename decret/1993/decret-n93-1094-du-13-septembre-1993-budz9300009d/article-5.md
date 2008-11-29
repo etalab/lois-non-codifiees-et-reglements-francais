@@ -1,6 +1,6 @@
 # Article 5
 
-La fermeture de l'entrepôt fiscal de stockage fait l'objet d'une décision du directeur général des douanes et droits indirects qui peut intervenir :
+La fermeture de l'entrepôt fiscal de stockage fait l'objet d'une décision du ministre chargé des douanes qui peut intervenir :
 
 à la demande du titulaire de l'autorisation d'exploiter ;
 
