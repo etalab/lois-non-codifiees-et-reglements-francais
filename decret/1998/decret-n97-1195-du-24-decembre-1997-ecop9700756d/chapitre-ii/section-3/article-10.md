@@ -1,14 +1,16 @@
 # Article 10
 
-Sont prises par les directeurs interrégionaux, les chefs de service interrégional et les directeurs régionaux des douanes et droits indirects, dans le cadre de leurs attributions, les décisions administratives individuelles suivantes :
+Sont prises par les directeurs interrégionaux, les chefs de service à compétence nationale et les directeurs régionaux des douanes et droits indirects, dans le cadre de leurs attributions, les décisions administratives individuelles suivantes :
 
 1° Octroi du statut d'exportateur agréé en application de l'article 21 du protocole 4 de l'accord sur l'Espace économique européen relatif aux règles d'origine, ainsi que des accords d'association entre les Communautés européennes et leurs Etats membres et les pays tiers ;
+
+1° bis Agrément des véhicules routiers et des conteneurs pouvant être admis au transport international sous scellement douanier, prévu par les articles 12 et 13 et les annexes 3 et 7 de la convention relative au transport international de marchandises sous le couvert de carnets TIR du 14 novembre 1975 ;
 
 2° Autorisation de recourir au régime du préfinancement valable dans une ou plusieurs circonscriptions régionales douanières françaises prévue par les articles 4, 5 et 7 du règlement (CE) n° 565 / 80 du Conseil du 4 mars 1980 susvisé ;
 
 2 bis Autorisation d'importer et d'exporter des marchandises en franchise de droits de douane, prévue par le règlement du 28 mars 1983 susvisé ;
 
-2 ter Suspension de la mainlevée et retenue des marchandises prévues au 1 des articles 4 et 9 du règlement (CE) n° 1383 / 2003 du Conseil du 22 juillet 2003 ;
+2 ter La mainlevée et sa suspension, la retenue et la levée de la retenue des marchandises, prévues au 1 des articles 4 et 9, et au 1 des articles 13 et 14 du règlement (CE) n° 1383 / 2003 du Conseil du 22 juillet 2003 ;
 
 2 quater : Décisions de prélèvement d'échantillons et de leur remise au titulaire du droit, prévues par l'article 9 du règlement (CE) n° 1383 / 2003 du Conseil du 22 juillet 2003 et par les articles L. 521-17 et L. 716-8-3 du code de la propriété intellectuelle ;
 
@@ -48,9 +50,9 @@ Sont prises par les directeurs interrégionaux, les chefs de service interrégio
 
 22° Autorisation d'utiliser du carburéacteur " sous condition d'emploi " prévue par l'alinéa 2 de l'article 3 de l'arrêté du 6 décembre 1993 fixant les mesures auxquelles doivent se conformer les fournisseurs et les utilisateurs de carburéacteur " sous condition d'emploi " pour les besoins du contrôle fiscal de ce produit ;
 
-23° Autorisation de transmission directe de données mises en forme par le système informatique propre à l'assujetti à la déclaration d'échanges de biens prévue par l'article 1er de l'arrêté du 19 décembre 1994 portant approbation du cahier des charges pour la transmission par voie informatique de la déclaration d'échanges de biens entre Etats membres de la Communauté européenne ;
+23° Autorisation de transmission directe des données mises en forme par le système informatique propre au déclarant pour les déclarations d'échange de biens, prévue à l'article 1er de l'arrêté du 4 janvier 2002 portant approbation du cahier des charges pour la transmission par voie informatique de la déclaration d'échanges de biens entre les Etats membres de la Communauté européenne ;
 
-24° Autorisation d'utilisation d'un serveur de l'administration permettant de saisir et de transmettre la déclaration d'échanges de biens prévue par l'article 1er de l'arrêté du 19 décembre 1994 précité ;
+24° Autorisation d'utilisation d'un serveur de l'administration pour la saisie et la transmission des déclarations d'échanges de biens, prévue à l'article 1er de l'arrêté du 4 janvier 2002 précité ;
 
 25° Octroi d'une réduction de la taxe intérieure de consommation sur le fioul lourd à haute teneur en soufre utilisé dans les installations de combustion dotées de dispositifs de désulfuration des rejets prévu par l'article 2 de l'arrêté du 25 juillet 1996 pris pour l'application de l'article 15 de la loi de finances pour 1995 (n° 94-1162 du 29 décembre 1994) ;
 
@@ -72,4 +74,16 @@ Sont prises par les directeurs interrégionaux, les chefs de service interrégio
 
 34° Autorisation de rétrocession de produits pétroliers admis en exonération des droits et taxes, prévue par l'article 28 de l'arrêté du 1er juillet 2004 susmentionné ;
 
-35° Privation, à titre provisoire ou définitif, de mesures dérogatoires au régime de l'avitaillement des navires, prévue par l'article 30 de l'arrêté du 1er juillet 2004 susmentionné.
+35° Privation, à titre provisoire ou définitif, de mesures dérogatoires au régime de l'avitaillement des navires, prévue par l'article 30 de l'arrêté du 1er juillet 2004 susmentionné ;
+
+36° Enregistrement des distributeurs de carburants en acquitté, prévu par le décret n° 2005-958 du 9 août 2005 ;
+
+37° Habilitation des entrepositaires agréés titulaires d'un entrepôt fiscal de production d'huiles végétales pures, et délivrance d'autorisation constitutive d'un entrepôt fiscal de production d'huiles végétales pures, prévues par le titre IV du décret n° 2006-1574 du 11 décembre 2006 ;
+
+38° Enregistrement des distributeurs d'huiles végétales pures, non titulaires d'entrepôt fiscal de production d'huiles végétales pures, prévu par le décret n° 2007-446 du 25 mars 2007 ;
+
+39° Décisions relatives à l'implantation et à l'exploitation des débits de tabac ordinaires permanents ou saisonniers, prévues par les articles 4 à 19 du décret n° 2007-906 du 15 mai 2007 relatif à la gérance et au transfert des débits de tabac ;
+
+40° Décisions relatives à l'implantation et à l'exploitation des débits de tabac spéciaux, prévues par les articles 20 à 22 du décret n° 2007-906 du 15 mai 2007 relatif à la gérance et au transfert des débits de tabac ;
+
+41° Décisions relatives à la faculté de revendre des tabacs manufacturés, prévues par l'article 26 du décret n° 2007-906 du 15 mai 2007 relatif à la gérance et au transfert des débits de tabac.
