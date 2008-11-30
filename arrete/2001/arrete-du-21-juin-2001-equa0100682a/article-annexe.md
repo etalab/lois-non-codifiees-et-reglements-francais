@@ -2,7 +2,17 @@
 
 _PREAMBULE_
 
-Les normes fixées par le présent arrêté relatives aux équipements de communication, de navigation, de surveillance et d'anti-abordage à bord des aéronefs sont issues de l'annexe 10 (Télécommunications aéronautiques) - amendement 74 - à la convention relative à l'aviation civile internationale (1).
+Les normes fixées par le présent arrêté relatives aux équipements de communication, de navigation, de surveillance et d'anti-abordage à bord des aéronefs sont issues de l'annexe 10 (Télécommunications aéronautiques) à la convention relative à l'aviation civile internationale (1) :
+
+- volume I, 6e édition y compris l'amendement 82 ;
+
+- volume II, 6e édition y compris l'amendement 82 ;
+
+- volume III, 2e édition y compris l'amendement 82 ;
+
+- volume IV, 4e édition y compris l'amendement 82 ;
+
+- volume V, 6e édition y compris l'amendement 82.
 
 Les différences entre les dispositions du présent arrêté et celles de l'annexe 10 à la convention relative à l'aviation civile internationale sont signalées par le symbole - X .
 
@@ -23,6 +33,8 @@ Dispositif de mesure de distance/Distance Measuring Equipment
 FM
 
 Modulation de fréquence/Frequency Modulation
+
+GNSS Système mondial de navigation par satellite/Global Navigation Satellite System.
 
 HF
 
@@ -146,6 +158,8 @@ Volume I :
 
 § 3.6. Spécifications des radiobornes VHF de navigation en route (75 MHz) ;
 
+§ 3.7 : Dispositions relatives au système mondial par satellite (GNSS) ;
+
 § 3.9. Caractéristiques de système des systèmes récepteurs ADF de bord.
 
 2.2. _Obligations d'emport_
@@ -184,13 +198,23 @@ Tout aéronef dispose des équipements de bord lui permettant d'exploiter les mo
 
 2.2.1.4. RVSM :
 
-Polynésie française :
+a) Polynésie française :
 
 Tout aéronef évoluant dans le volume d'espace aérien compris entre les niveaux de vol 290 et 410, inclusivement, dans la région d'information de vol de Tahiti, est homologué RVSM (3).
 
-Mesure transitoire :
+Dérogation occasionnelle :
 
-Des dérogations, dont la validité ne peut excéder le 31 décembre 2001, peuvent être accordées par l'autorité compétente des services de la circulation aérienne, sur demande motivée des intéressés. Une séparation verticale de 600 mètres (2 000 pieds) est alors appliquée.
+Des dérogations occasionnelles peuvent être accordées par l'autorité compétente des services de la circulation aérienne, sur demande motivée des intéressés. Une séparation verticale de 600 mètres (2 000 pieds) est alors appliquée.
+
+Les conditions de délivrance de ces dérogations et la procédure à suivre sont portées à la connaissance des usagers par la voie de l'information aéronautique.
+
+Exemption :
+
+Les aéronefs d'Etat sont exemptés de cette obligation. Ils se conforment alors à des procédures particulières établies avec l'autorité compétente des services de la circulation aérienne.
+
+b) Guyane.
+
+A compter du 20 janvier 2005, tout aéronef évoluant dans le volume d'espace aérien compris entre les niveaux de vol 290 et 410, inclusivement, dans les régions d'information de vol de Rochambeau, est homologué RVSM.
 
 Dérogation occasionnelle :
 
@@ -208,27 +232,17 @@ a) Définition :
 
 Immunité FM : Immunité des équipements récepteurs de bord embarqués vis à vis des brouillages générés par les stations de radiodiffusion en modulation de fréquences (FM).
 
-b) Dispositions jusqu'au 31 décembre 2001 :
+b) Performances d'immunité des récepteurs VOR à l'égard du brouillage :
 
-Jusqu'au 31 décembre 2001, l'utilisation de certaines procédures de départ normalisé aux instruments (SID), d'arrivée normalisée aux instruments (STAR) et d'approche aux instruments (ILS, LLZ et VOR) peut être interdite aux aéronefs dont les équipements de radionavigation VHF ne sont pas conformes aux normes d'immunité FM de l'annexe 10 de l'OACI.
+Tout système récepteur VOR embarqué assure une immunité suffisante à l'égard du brouillage FM conformément aux normes OACI, annexe 10, volume I, paragraphe 3.3.8 (Performances d'immunité des récepteurs VOR à l'égard du brouillage) ;
 
-Ces restrictions sont portées à la connaissance des usagers par la voie de l'information aéronautique.
+c) Performances d'immunité des récepteurs d'alignement de piste ILS à l'égard du brouillage :
 
-c) Performances d'immunité des récepteurs VOR à l'égard du brouillage :
+Tout système récepteur d'alignement de piste ILS embarqué assure une immunité suffisante à l'égard du brouillage FM conformément aux normes OACI, annexe 10, volume I, paragraphe 3.1.4 (Caractéristiques d'immunité des récepteurs d'alignement de piste ILS à l'égard du brouillage) ;
 
-A compter du 1er janvier 2002, tout système récepteur VOR embarqué assure une immunité suffisante à l'égard du brouillage FM conformément aux normes OACI. - Annexe 10. - Volume I. - § 3.3.8. - Performances d'immunité des récepteurs VOR à l'égard du brouillage.
+d) Exemption :
 
-( -X OACI. - Annexe 10. - Volume I. - § 3.3.8. - Cette obligation est en vigueur depuis le 1er janvier 1998.)
-
-d) Performances d'immunité des récepteurs d'alignement de piste ILS à l'égard du brouillage :
-
-A compter du 1er janvier 2002, tout système récepteur d'alignement de piste ILS embarqué assure une immunité suffisante à l'égard du brouillage FM conformément aux normes OACI. - Annexe 10. - Volume I. - § 3.1.4. - Caractéristiques d'immunité des récepteurs d'alignement de piste ILS à l'égard du brouillage.
-
-( -X OACI. - Annexe 10. - Volume I. - § 3.1.4. - Cette obligation est en vigueur depuis le 1er janvier 1998.)
-
-e) Exemption :
-
-A compter du 1er janvier 2002, les aéronefs d'Etat sont exemptés des dispositions des paragraphes c et d ci-dessus. Ils se conforment alors à des procédures particulières prévues à cet effet.
+Les aéronefs d'Etat sont exemptés des dispositions des paragraphes b et c ci-dessus. Ils se conforment alors à des procédures particulières prévues à cet effet.
 
 2.2.2. Aéronefs en vol VFR
 
@@ -294,7 +308,7 @@ Néant.
 
 A l'exception de certains itinéraires ou portions d'espace aérien publiés par la voie de l'information aéronautique, tout aéronef évoluant à l'intérieur des zones de contrôle et régions de contrôle terminales de Fort-de-France et Pointe-à-Pitre et à l'intérieur des régions d'information de vol de Rochambeau est équipé d'un transpondeur mode A + C avec alticodeur ou d'un transpondeur mode S niveau 2 au moins avec alticodeur.
 
-Des dérogations, sous réserve de l'observation de certaines conditions, peuvent être accordées par l'autorité compétente sur demande motivée des intéressés.
+Des dérogations, sous réserve de l'observation de certaines conditions, peuvent être accordées par le représentant de l'Etat ou les fonctionnaires du service d'Etat de l'aviation civile placés sous son autorité sur demande motivée des intéressés lorsque le demandeur justifie par des conditions d'utilisation particulières d'un niveau de sécurité équivalent.
 
 3.2.2.2. Réunion, Mayotte et îles Eparses :
 
@@ -302,7 +316,9 @@ Néant.
 
 3.2.2.3. Polynésie française :
 
-Néant.
+A l'exception de certains itinéraires ou portions d'espace aérien publiés par la voie de l'information aéronautique, à compter du 1er septembre 2008, tout aéronef évoluant à l'intérieur de la région d'information de vol de Tahiti est équipé d'un transpondeur mode A + C avec alticodeur ou d'un transpondeur mode S niveau 2 au moins avec alticodeur.
+
+Des dérogations, sous réserve de l'observation de certaines conditions, peuvent être accordées par le représentant de l'Etat ou les fonctionnaires du service d'Etat de l'aviation civile placés sous son autorité sur demande motivée des intéressés lorsque le demandeur justifie par des conditions d'utilisation particulières d'un niveau de sécurité équivalent.
 
 3.2.2.4. Nouvelle-Calédonie et Wallis-et-Futuna :
 
@@ -332,7 +348,9 @@ A compter du 1er janvier 2005, tout aéronef civil à voilure fixe et à propuls
 
 4.3.2. Guyane
 
-Néant.
+A compter du 1er janvier 2003, tout aéronef civil à voilure fixe et à propulsion par turbine est équipé d'un système d'anti-abordage de type ACAS II au moins, lorsque la masse maximale certifiée au décollage est supérieure à 15 000 kilogrammes ou lorsque la configuration maximale approuvée en sièges passagers est supérieure à 30.
+
+A compter du 1er janvier 2005, tout aéronef civil à voilure fixe et à propulsion par turbine est équipé d'un système d'anti-abordage de type ACAS II au moins, lorsque la masse maximale certifiée au décollage est supérieure à 5 700 kilogrammes ou lorsque la configuration maximale approuvée en sièges passagers est supérieure à 19.
 
 4.3.3. Réunion, Mayotte et îles Eparses
 
@@ -350,8 +368,38 @@ A compter du 1er janvier 2005, tout aéronef civil à voilure fixe et à propuls
 
 Néant.
 
+4.3.6. Des dérogations aux 4.3.1 à 4.3.5 ci-dessus peuvent être accordées par l'autorité compétente, pour les vols suivants :
+
+- vol de convoyage, avant ou pour livraison de l'aéronef dans une région où l'équipement ACAS II n'est pas obligatoire ;
+
+- vol de convoyage, en provenance d'une région où l'équipement ACAS II n'est pas obligatoire ;
+
+- vol pour maintenance, en provenance ou à destination d'une région où l'équipement ACAS II n'est pas obligatoire.
+
+- Vol d'évacuation sanitaire.
+
+Les catégories suivantes d'aéronefs peuvent également faire l'objet de dérogations aux paragraphes 4.3.1 à 4.3.5 ci-dessus par l'autorité compétente, assorties éventuellement de restrictions d'utilisation :
+
+- aéronefs répondant aux mêmes définitions que ceux visés aux alinéas a, b, c et d de l'annexe II du règlement (CE) n° 1592/2002 du Parlement européen et du Conseil du 15 juillet 2002 concernant des règles communes dans le domaine de l'aviation civile et instituant une Agence européenne de la sécurité aérienne ;
+
+- aéronefs effectuant des vols dans le cadre du chapitre III (Activités particulières) de l'annexe à l'arrêté du 24 juillet 1991 modifié relatif aux conditions d'utilisation des aéronefs civils en aviation générale, et dont les caractéristiques techniques ou opérationnelles interdisent l'installation ou l'utilisation de l'ACAS II dans des conditions normales, ou ont un impact négatif sur l'installation ou l'utilisation de l'ACAS II.
+
+Les conditions de délivrance de ces dérogations et la procédure à suivre sont portées à la connaissance des usagers par la voie de l'information aéronautique.
+
+4.3.7. Mesures transitoires.
+
+Jusqu'au 30 septembre 2006, des dérogations aux exigences des 4.3.1 à 4.3.5 ci-dessus relatives aux aéronefs ayant une masse maximale certifiée au décollage supérieure à 5 700 kg ou dont la configuration maximale approuvée en sièges passagers est supérieure à 19 peuvent être accordées par l'autorité compétente aux exploitants d'aéronefs qui ne sont pas en mesure de se conformer à la date du 1er janvier 2005 pour les motifs suivants :
+
+a) Aéronefs pour lesquels les exploitants combinent l'installation d'un ACAS II et d'un transpondeur Mode S en s'alignant sur les visites de maintenance et les échéances d'entretien de l'aéronef ;
+
+b) Aéronefs pour lesquels l'ACAS II ne peut pas être installé avant la date limite à cause d'un retard dans la fourniture du service bulletin (SB) de l'avionneur et/ou dans le développement d'un supplément au certificat de type (STC) par un tiers ;
+
+c) Aéronefs qui seront retirés du service avant le 30 septembre 2006.
+
+Les conditions de délivrance de ces dérogations et la procédure à suivre sont portées à la connaissance des usagers par la voie de l'information aéronautique.
+
 (1) Cette annexe est disponible auprès de l'Organisation de l'aviation civile internationale (OACI), 3 bis, villa Emile-Bergerat, 92522 Neuilly-sur-Seine.
 
 (2) Route conventionnelle : route s'appuyant sur des moyens de navigation conventionnels (VOR, VOR/DME, NDB).
 
-(3) Homologation RVSM » : cf. procédures complémentaires régionales de l'OACI (Doc 7030 PAC).
+(3) Homologation RVSM : cf. procédures complémentaires régionales de l'OACI (Doc 7030 PAC).
