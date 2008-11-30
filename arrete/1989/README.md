@@ -375,7 +375,6 @@
 - [Arrêté du 22 juin 1989 (SPSS8901296A)](arrete-du-22-juin-1989-spss8901296a)
 - [Arrêté du 22 mars 1989 (MENU8900647A)](arrete-du-22-mars-1989-menu8900647a)
 - [Arrêté du 22 mars 1989 (PTTT8900273A)](arrete-du-22-mars-1989-pttt8900273a)
-- [Arrêté du 22 novembre 1989 (AGRA8902347A)](arrete-du-22-novembre-1989-agra8902347a)
 - [Arrêté du 22 novembre 1989 (SPSH8902529A)](arrete-du-22-novembre-1989-spsh8902529a)
 - [Arrêté du 22 septembre 1989 (BUDL8900150A)](arrete-du-22-septembre-1989-budl8900150a)
 - [Arrêté du 22 septembre 1989 (BUDL8900151A)](arrete-du-22-septembre-1989-budl8900151a)
