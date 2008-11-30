@@ -86,6 +86,8 @@ Entreprise Le Bot, 49, rue Albert-Thomas, 44600 Saint-Nazaire : de 1964 à 1969.
 
 Entreprise Renaud P.-Louis, rue des Parcs, 44490 Le Croisic, de sa création à 1969.
 
+Electronavale. 6, rue Brunellière, puis, 6, quai des Frégates, 44600 Saint-Nazaire. De 1946 à 1993.
+
 ERBOS :
 
 - Cale Crucy, 44100 Nantes : de 1960 à 1982.
@@ -165,6 +167,8 @@ OTGS :
 Pluriservices :
 
 - 19, rue des Chantiers, 44600 Saint-Nazaire : depuis sa création.
+
+Préfabrication et montage de l'Ouest (PMO). 2, rue Georges-Clemenceau, 44600 Saint-Nazaire. De 1975 à 1982. Rue Jean-Marie-Perret, 44570 Trignac. De 1982 à 1984.
 
 RAMI (Représentations applications marines et industrielles), 67, boulevard de la Liberté, 44600 Saint-Nazaire : de 1976 à 1978
 
@@ -409,6 +413,8 @@ Chreatech, zone d'entreprise des Playes-Jean-Monnet, 83500 La Seyne-sur-Mer : de
 CNIF : chaudronnerie navale industrielle et ferroviaire 45, rue Victor-Clappier 83000 Toulon De 1974 à 1978
 
 CNL : constructions navales du littoral Boulevard Toussaint-Merle 83500 La Seyne-sur-Mer de 1987 à 1990
+
+CNL - Constructions navales du littoral. 17, quai de Stalingrad, 13600 La Ciotat. De 1988 à 1996.
 
 CIRES 40, quai Hoche 83500 La Seyne-sur-Mer de 1977 à 1980
 
@@ -852,6 +858,8 @@ SARL SMECA mécanique générale, industrielle maritime, 3, boulevard Bernabo, M
 
 SARL SOTER. 1, avenue Kennedy, 13600 La Ciotat. De 1973 à 1978.
 
+SARL Soudure industrie marine (SIM). 3, traverse de l'Oasis, zone Artisanord, lot n° D 410, 13015 Marseille. De 1981 à 1984.
+
 Satim industrie, 146, chemin de la Madrague ville, 13015 Marseille : de 1993 à 1994.
 
 SERVAUX, 173, chemin de la Madrague-Ville, 13002 Marseille, de 1912 à 1997, puis anse de Saumaty, 710, chemin du Littoral, 13016 Marseille, depuis 1997
@@ -1089,6 +1097,8 @@ SORAMA, centre de la réparation navale de Mourepiane, 13002 Marseille, puis dom
 SOREM Industrie :
 
 - BP 173, 83088 Toulon Cedex 9 : de 1990 à 1996.
+
+SOTOMEC - Société toulonnaise de mécanique. RN 98, La Pauline, 83130 La Garde. De 1970 à 1979.
 
 SOTRAS, Société des travaux du Sud, avenue Jean-Moulin, 13701 La Ciotat, de 1981 à 1984.
 

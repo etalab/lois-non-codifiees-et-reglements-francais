@@ -98,6 +98,8 @@ CDM/CDMSA/ACDM/ACPP :
 
 - ZI, route de Flamanville, 50340 Les Pieux, et route de Beaumont, 50440 Digulleville : de 1987 à 1992.
 
+Chantiers ALLARD André. Rue du Maréchal-Montgomery, 14520 Port-en-Bessin - Huppain 1970 à 1985.
+
 DCN (Direction des constructions navales)/Schneider Electrique :
 
 - place Bruat, 50115 Cherbourg Naval : de 1968 à 1993.
@@ -132,6 +134,8 @@ SA Industrielle plomb plastique mécanique/Machinox :
 
 Mecagena, quai de l'Ancien-Arsenal, 50100 Cherbourg : de 1974 à 1986.
 
+Nautic Port Bois. Rue du Maréchal-Montgomery, 14520 Porten-Bessin - Huppain. De 1985 à 1996.
+
 Omnium technique d'études et contrôle de montages industriels (OTECMI), ZA La Belle Jardinière, BP 41, 50120 Equeurdreville, de 1980 à 1990.
 
 RMO (Rectification mécanique de l'Ouest) :
@@ -147,6 +151,8 @@ SEPFA, 5, rue Dom-Pedro, 50100 Cherbourg : de 1974 à 1992.
 SGC (Société générale de carénage) :
 
 - zone artisanale, 50690 Martinvast, et 31, avenue Aristide-Briand, 50100 Cherbourg : depuis 1955.
+
+SMCT ETS de Cherbourg, puis SMCTC. Bureau, BP 112, 44602 Saint-Nazaire. 1985 à 1990. 87, rue de la Polle, 50100 Cherbourg-Octeville. 1991 à 1996.
 
 SNC Dehayes Entreprise :
 
@@ -366,7 +372,15 @@ Chantiers de marine Yves Ouerrien Anse du Roudouie, 29900 Concarneau : Depuis 19
 
 Chantiers et ateliers de La Perriere, 8, boulevard Abbé-Le Cam, 56100 Lorient, puis 32, rue de l'Ingénieur-Verrière, 56100 Lorient : de 1960 à 1992.
 
+Chantier naval de Douarnenez. Le Port, 29100 Douarnenez. De 1985 à 1993.
+
+Chantier naval Glehen Pierre et fils. Le Port, 29100 Douarnenez. De 1994 à 1996.
+
+Chantier naval Glehen Pierre et fils. Rue Rémy-Le Lay, 29750 Loctudy. De 1987 à 1996.
+
 Chantiers navals de Pors-Moro, Pors-Moro, 29120 Pont-Labé : depuis 1995.
+
+Chantiers navals GAY. 35780 La Richardais. De 1973 à 1976.
 
 Chantiers Rameau/Rameau André :
 
@@ -389,6 +403,14 @@ Chouteau :
 COFRETH puis COFETH 1-3, rue Henri-Moissan 29200 Brest : depuis 1962
 
 Concarneau électronique service, quai Est, 29110 Concarneau : de 1987 à 1996.
+
+Constructions navales malouines (CNM). 6-8, avenue Louis-Martin, 35400 Saint-Malo. De 1973 à 1994.
+
+Constructions navales malouines R. Labbé.
+
+Chantiers R. Labbé SA.
+
+Construction Labbé R. SARL. 6-8, avenue Louis-Martin, 35400 Saint-Malo. De 1995 à 1996.
 
 Constructions navales Robert Hus 3, rue du Clos-du-Noyer, ZI, 35400 Saint-Malo. De 1971 à 1990.
 
@@ -624,6 +646,8 @@ Les Ateliers de Kergroise Rue Emile-Marcesche, 56100 Lorient, puis 18, avenue de
 
 Lip Sudest, puis Lips France, ZI de Petite-Synthe, 59140 Dunkerque : de 1965 à 1991.
 
+Lorient forge marine (Le Dref Patrice). 17, quai du Pourquoi-Pas, 56100 Lorient. De 1987 à 1996.
+
 Lorient industrie, 13, rue P.-Martin, 29200 Brest : depuis sa création.
 
 Lorient industries 14 rue des Frères-Lumière, ZI LannGazec, 56600 Lanester. De 1981 à 1997
@@ -762,6 +786,8 @@ SCOP navale de Cornouaille, place Victor-Salez, port de Tréboul, 29100 Douarnen
 
 SDO, puis SNDO, terre-plein du Port, 29730 Le Guilvinec : depuis 1982.
 
+SEIM - Société d'électricité industrielle et maritime. ZI du Moros, 29187 Concarneau. De 1980 à 1983.
+
 SEITHA, 13, rue Maupertuis, ZI de Kergonan, 29200 Brest, puis 5, rue Robert-Schuman, ZAC de Kerjean, 29480 Le Relecq Kerhuon, depuis sa création.
 
 SELF-SAPELEC :
@@ -779,6 +805,8 @@ SERIMA, 33, rue du Commandant-Drogou, 29200 Brest, et 31, rue Frédéric-Chopin,
 SERN, route de l'Aéroport, 29700 Plufguffan : de 1975 à 1989.
 
 Serra frères, Arsenal, 29200 Brest : depuis sa création.
+
+SERTICEL SA - Société d'études et de réalisations de tôlerie et de câblage électrique. ZI du Moros, 29187 Concarneau, De 1982 à 1984.
 
 SFCMM (Société française chaudron mécanique tuyauterie montage) :
 
