@@ -1,12 +1,12 @@
 # Article 3
 
-Les commissions consultatives paritaires comprennent
+Les commissions consultatives paritaires comprennent :
 
-- le directeur de l'administration générale, président ;
+- le responsable de l'administration générale, président ;
 
-- un fonctionnaire de catégorie A ou agent non titulaire de niveau équivalent désigné sur proposition du directeur de l'administration générale ;
+- un fonctionnaire de catégorie A ou agent non titulaire de niveau équivalent désigné sur proposition du responsable de l'administration générale ;
 
-- deux représentants du personnel désignés comme membres titulaires dans les conditions fixées à l'article 6 ci-après.
+- deux représentants du personnel désignés comme membres titulaires dans les conditions fixées à l'article 6 du présent arrêté.
 
 Les commissions comprennent, en outre, des membres suppléants dont le nombre est au plus égal à celui des titulaires.
 
