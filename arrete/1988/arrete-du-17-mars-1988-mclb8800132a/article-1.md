@@ -1,15 +1,9 @@
 # Article 1
 
-L'examen professionnel d'accès au grade d'attaché principal comporte deux épreuves écrites et deux épreuves orales dont les sujets sont choisis par le jury d'examen. Ces épreuves consistent en :
+L'examen professionnel d'accès au grade d'attaché principal comporte deux épreuves dont les sujets sont choisis par le jury d'examen. Ces épreuves sont les suivantes :
 
-1° Epreuves écrites
+1° Une épreuve écrite d'admissibilité, consistant en la rédaction d'une note, à partir d'un dossier de mise en situation professionnelle, ayant pour objet de vérifier l'aptitude du candidat à l'analyse et la capacité à proposer des solutions opérationnelles argumentées (durée : quatre heures ; coefficient 1) ;
 
-a) Rédaction du procès-verbal d'une conférence ou d'une réunion à partir de documents écrits, oraux ou audiovisuels (au choix du jury) (durée : quatre heures) ;
+2° Une épreuve orale d'admission, consistant en un entretien ayant pour point de départ un exposé du candidat sur son expérience professionnelle. L'entretien vise ensuite à apprécier les aptitudes de l'intéressé, en particulier en matière d'encadrement, ses connaissances administratives générales, notamment sur le fonctionnement et les activités des collectivités territoriales, ainsi que sa motivation à exercer les fonctions généralement assumées par les attachés territoriaux principaux (durée : vingt minutes, dont cinq minutes au plus d'exposé ; coefficient 1).
 
-b) Rédaction d'une note à partir soit d'un dossier, soit de textes législatifs ou réglementaires fournis au candidat. Le candidat pourra avoir le choix entre deux sujets (durée : trois heures).
-
-2° Epreuves orales
-
-a) Interrogation portant sur les activités des collectivités locales. Le candidat choisira au moment de l'inscription à l'examen l'une des options suivantes : Administration générale, Finances, Comptabilité et statistiques, Urbanisme et environnement, Informatique, Action sanitaire et sociale, animation (durée : dix minutes avec préparation de même durée) ;
-
-b) Conversation avec les membres du jury sur des questions de culture générale en relation avec l'action administrative locale (durée : dix minutes).
+Peuvent seuls être autorisés à se présenter à l'épreuve d'admission les candidats déclarés admissibles par le jury.
