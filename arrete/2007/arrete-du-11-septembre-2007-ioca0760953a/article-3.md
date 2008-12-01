@@ -1,13 +1,9 @@
 # Article 3
 
-La sous-direction des affaires politiques et de la vie associative comprend :
+La sous-direction de la circulation et de la sécurité routières comprend :
 
-- le bureau des élections et des études politiques ;
+- le bureau des usagers de la route et de la réglementation des véhicules ;
 
-- le bureau des groupements et associations ;
+- le bureau de la sécurité et de la réglementation routières ;
 
-- le bureau central des cultes ;
-
-- le bureau des cultes du Bas-Rhin, du Haut-Rhin et de la Moselle ;
-
-- la cellule du dépôt légal des périodiques.
+- le service du fichier national des permis de conduire.

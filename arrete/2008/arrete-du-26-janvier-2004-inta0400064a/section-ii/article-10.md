@@ -11,5 +11,3 @@ Elle détermine le nombre des recrutements à réaliser et assure, sous réserve
 Elle assure également le fonctionnement des instances paritaires garantissant l'exercice du dialogue social au plan national.
 
 Elle assure le secrétariat du comité médical et de la commission de réforme ministériels.
-
-Elle a la responsabilité des contentieux relatifs à la situation individuelle des fonctionnaires et agents relevant de sa compétence.
