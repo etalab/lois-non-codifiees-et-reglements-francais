@@ -8,4 +8,4 @@ Toutefois, l'aide juridictionnelle peut être accordée à titre exceptionnel au
 
 L'aide juridictionnelle est accordée sans condition de résidence aux étrangers lorsqu'ils sont mineurs, témoins assistés, inculpés, prévenus, accusés, condamnés ou parties civiles ou lorsqu'ils font l'objet de la procédure de comparution sur reconnaissance préalable de culpabilité, ainsi qu'aux personnes faisant l'objet de l'une des procédures prévues aux articles L. 222-1 à L. 222-6, L. 312-2, L. 511-1, L. 512-1 à L. 512-4, L. 522-1, L. 522-2 et L. 552-1 à L. 552-10 du code de l'entrée et du séjour des étrangers et du droit d'asile, ou lorsqu'il est fait appel des décisions mentionnées aux articles L. 512-1 à L. 512-4 du même code.
 
-Devant la commission des recours des réfugiés, elle est accordée aux étrangers qui résident habituellement et sont entrés régulièrement en France ou qui détiennent un titre de séjour d'une durée de validité au moins égale à un an.
+Devant la commission des recours des réfugiés, elle est accordée aux étrangers qui résident habituellement en France.
