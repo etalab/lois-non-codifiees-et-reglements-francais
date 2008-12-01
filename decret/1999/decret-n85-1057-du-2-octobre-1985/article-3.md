@@ -10,7 +10,7 @@ Il élabore et propose les principes généraux de gestion des ressources humain
 
 Il anime l'action territoriale du ministère, à l'exception de celle relevant de la direction générale de la police nationale.
 
-Il est chargé des affaires politiques et des cultes.
+Il est chargé des affaires politiques.
 
 Il dirige les activités des directions et services suivants :
 

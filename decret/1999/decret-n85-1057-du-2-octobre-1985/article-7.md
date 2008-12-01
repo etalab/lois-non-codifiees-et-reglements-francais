@@ -6,10 +6,10 @@ a) D'assurer l'animation et la gestion du réseau des préfectures et des sous-p
 
 b) D'animer et d'organiser la politique de modernisation de l'administration centrale et territoriale ;
 
-c) D'assurer la gestion et le management du corps préfectoral et des administrateurs civils et de traiter les contentieux relatifs à la situation de ces agents ;
+c) D'assurer la gestion et le management du corps préfectoral et des administrateurs civils ;
 
-d) De préparer et mettre en oeuvre la législation relative aux scrutins, les analyses politiques, le financement de la vie politique et des campagnes électorales ;
+d) De préparer, mettre en œuvre et codifier la législation relative aux élections politiques et au financement de la vie politique. Elle organise les élections politiques, traite les contentieux afférents et représente le ministre devant les juridictions compétentes. Elle assure une mission d'analyse politique ;
 
-e) De préparer et de mettre en oeuvre la législation sur les cultes, les associations et les fondations ;
+e) De préparer et de mettre en oeuvre la législation relative aux polices administratives ;
 
-f) Du dépôt légal.
+f) De préparer et de mettre en œuvre la législation relative à la circulation et la sécurité routières.

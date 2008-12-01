@@ -1,9 +1,15 @@
 # Article 6
 
-Le directeur des libertés publiques et des affaires juridiques dirige les services chargés :
+I. - La direction des libertés publiques et des affaires juridiques exerce une fonction de conception, de conseil, d'expertise et d'assistance juridiques auprès de l'ensemble des services du ministère.
 
-1° De la réglementation intérieure en matière de libertés publiques, notamment en ce qui concerne la sûreté de l'Etat, l'ordre public, la salubrité et la tranquillité publiques, la circulation et la sécurité routières ;
+Elle assure le suivi de l'application des lois et de la transposition des directives européennes. Elle participe, en tant que de besoin, à la codification des textes législatifs et réglementaires. Elle promeut la qualité de la sécurité juridique et de la réglementation ainsi que la régularité de la commande publique.
 
-2° Du contentieux général et des affaires juridiques.
+A l'exception du contentieux électoral, elle traite le contentieux de niveau central du ministère, en liaison avec les directions compétentes, et représente le ministre devant les juridictions compétentes. Elle assure la protection des agents du ministère.
 
-Il assure une fonction d'expertise des actes des services du ministère qui le saisissent à cette fin.
+Elle assure la diffusion des connaissances juridiques et contribue au développement des compétences dans ce domaine.
+
+II. - La direction des libertés publiques et des affaires juridiques est chargée de préparer et mettre en œuvre la législation relative aux libertés publiques, notamment celle concernant les cultes, les associations et fondations, et la protection de la liberté individuelle. Elle prépare aussi la réglementation en matière de délivrance des titres d'identité et de voyage.
+
+Elle conduit l'examen de la législation et des procédures concernant le refus opposé pour des motifs d'ordre public au séjour d'étrangers sur le territoire français.
+
+Elle est chargée de préparer et mettre en œuvre la législation relative aux casinos et cercles de jeux.
