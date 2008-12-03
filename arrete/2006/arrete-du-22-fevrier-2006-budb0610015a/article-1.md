@@ -1,0 +1,3 @@
+# Article 1
+
+Avant le 15 novembre de chaque année, La Française des jeux soumet à l'approbation du ministre chargé du budget un programme des jeux pour l'année suivante. Celui-ci contient notamment la description des nouveaux jeux envisagés, leurs probabilités de gains, le chiffre d'affaires attendu et une indication de leur impact au regard des objectifs mentionnés aux articles 1ers des décrets susvisés. Il présente également les évolutions envisagées pour les jeux existants, le réseau de distribution et la commercialisation des jeux. La Française des jeux soumet également à l'approbation du ministre chargé du budget tout nouveau jeu non prévu au programme initial. En fin d'année, elle rend compte au ministre de l'exécution du programme des jeux.
