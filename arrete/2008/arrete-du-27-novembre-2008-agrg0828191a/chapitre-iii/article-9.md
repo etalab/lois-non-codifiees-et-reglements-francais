@@ -1,0 +1,3 @@
+# Article 9
+
+Toute personne qui, dans le cadre de son activité professionnelle, souhaite planter une parcelle destinée à contenir du matériel de propagation ou de multiplication doit en informer le service chargé de la protection des végétaux de la direction régionale de l'agriculture et de la forêt, au plus tard le 1er avril pour une plantation prévue à l'automne de la même année ou à l'hiver suivant, qui lui communiquera en retour des données relatives à la situation phytosanitaire de la zone concernée. Tout matériel de multiplication prélevé, utilisé ou mis en circulation doit provenir d'une parcelle de production de matériel de multiplication ou de propagation ayant fait l'objet d'une déclaration préalable auprès de la DRAF-SRPV.
