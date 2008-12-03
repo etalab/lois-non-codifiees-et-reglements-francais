@@ -559,6 +559,7 @@
 - [Arrêté du 20 août 2008 (SJSP0810743A)](arrete-du-20-aout-2008-sjsp0810743a)
 - [Arrêté du 20 août 2008 (SJSP0818662A)](arrete-du-20-aout-2008-sjsp0818662a)
 - [Arrêté du 20 août 2008 (SJSP0820351A)](arrete-du-20-aout-2008-sjsp0820351a)
+- [Arrêté du 20 décembre 2007 (DEVT0773209A)](arrete-du-20-decembre-2007-devt0773209a)
 - [Arrêté du 20 janvier 1989 (ECOC8800129A)](arrete-du-20-janvier-1989-ecoc8800129a)
 - [Arrêté du 20 juin 1989 (ECOC8900034A)](arrete-du-20-juin-1989-ecoc8900034a)
 - [Arrêté du 20 juin 1989 (ECOC8900035A)](arrete-du-20-juin-1989-ecoc8900035a)
