@@ -1,0 +1,9 @@
+# Article 32
+
+Dans un délai de trois ans à compter de la publication de la présente loi, le Gouvernement réunit une conférence nationale associant notamment des représentants des collectivités territoriales, les organisations syndicales de salariés et d'employeurs représentatives au niveau national et interprofessionnel, des associations de lutte contre les exclusions et des représentants des bénéficiaires du revenu de solidarité active aux fins, d'une part, d'évaluer la performance du revenu de solidarité active et des autres dispositifs sociaux et fiscaux en matière de lutte contre la pauvreté et d'incitation à la reprise d'activité et, d'autre part, d'établir un bilan financier de coûts induits par cette prestation. La conférence analyse enfin les conséquences du dispositif sur le recours au temps partiel dans les secteurs marchand et non marchand.
+
+Un comité d'évaluation comprenant des représentants des départements, de l'Etat, de la Caisse nationale d'allocations familiales, de la Caisse centrale de la mutualité sociale agricole, de l'institution mentionnée à l'article L. 5312-1 du code du travail, des personnalités qualifiées dont la compétence est reconnue en matière d'évaluation des politiques publiques ainsi que des représentants des bénéficiaires du revenu de solidarité active, est chargé de préparer les travaux de cette conférence nationale.
+
+Chaque année, jusqu'à la réunion de la conférence nationale mentionnée au premier alinéa, le comité remet au Gouvernement et au Parlement un rapport d'évaluation intermédiaire. Il est complété d'un rapport du Gouvernement qui établit notamment un bilan comparatif de l'effet de l'article 1649-0 A du code général des impôts et de celui du III de l'article L. 262-24 du code de l'action sociale et des familles, en termes d'équité et de justice fiscale.
+
+La présente loi sera exécutée comme loi de l'Etat.
