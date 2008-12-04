@@ -13,3 +13,7 @@ A cette rampe peuvent être associés, le cas échéant, des feux spéciaux à l
 Ces dispositifs doivent être visibles tous azimuts, le véhicule étant à vide, pour un observateur situé à 50 mètres. Lorsque l'un ou l'autre de ces dispositifs ne permet pas d'assurer une visibilité tous azimuts, cette signalisation pourra être complétée soit par une rampe, soit par un ou deux autres feux individuels.
 
 Ils peuvent continuer à être utilisés lorsque les véhicules qui en sont munis stationnent sur les lieux de leur intervention.
+
+Ces dispositifs lumineux spéciaux peuvent être complétés par deux feux à éclat directionnel de couleur bleue, dits feux de pénétration, orientés vers l'avant du véhicule.
+
+Les feux visés au présent article peuvent être à source lumineuse non à incandescence telle que diode électroluminescente.
