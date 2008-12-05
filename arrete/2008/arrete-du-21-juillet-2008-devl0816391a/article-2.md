@@ -20,7 +20,7 @@ b) Membres avec voix consultative :
 
 ― une ou plusieurs personnalités qualifiées dont la présence est estimée utile par le président ;
 
-― ne relèvent pas de cette commission les services à compétence nationale ainsi que les services énumérés ci-après qui disposent d'une commission spécifique :
+Ne relèvent pas de cette commission les services à compétence nationale autres que la délégation à l'action foncière et immobilière ni les services énumérés ci-après qui disposent d'une commission spécifique :
 
 ― la direction générale de l'aviation civile ;
 

@@ -1,4 +1,4 @@
-# Arrêté du 21 juillet 2008 portant composition de la commission d'appel d'offres pour les marchés de travaux, fournitures ou services passés pour le compte du ministère de l'écologie, de l'énergie, du développement durable et de l'aménagement du territoire
+# Arrêté du 21 juillet 2008 portant composition de la commission d'appel d'offres pour les marchés publics et accords-cadres de travaux, fournitures ou services passés pour le compte du ministère de l'écologie, de l'énergie, du développement durable et de l'aménagement du territoire
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
