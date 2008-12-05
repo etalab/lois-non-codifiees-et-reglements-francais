@@ -1,6 +1,6 @@
 # Article 1
 
-Les critères permettant de vérifier que les conditions de fonctionnement du laboratoire qui sollicite l'autorisation mentionnée au troisième alinéa de l'article L. 6211-2-1 susvisé sont ceux contenus dans le guide de bonne éxecution des analyses de biologie médicale ou sont équivalentes à celles imposées aux laboratoires d'analyses de biologie médicale implantés sur le territoire français sont les suivants :
+Les critères permettant de vérifier que les conditions de fonctionnement du laboratoire qui sollicite l'autorisation mentionnée au troisième alinéa de l'article L. 6211-2-1 susvisé sont celles contenues dans le guide de bonne éxecution des analyses de biologie médicale ou sont équivalentes à celles imposées aux laboratoires d'analyses de biologie médicale implantés sur le territoire français sont les suivants :
 
 **I.-Organisation générale**
 
@@ -50,9 +50,13 @@ En cas de collaboration avec d'autres laboratoires, les laboratoires sous-traita
 
 **II.-Exécution des analyses**
 
-Les modalités d'exécution des analyses doivent permettre d'éviter les erreurs ou pertes de données et garantir la confidentialité de leur réalisation.
+Les modalités d'exécution des analyses doivent permettre d'éviter les erreurs ou pertes de données et garantir la confidentialité de leur réalisation. Elles doivent également garantir l'information du patient sur le coût et les conditions de son remboursement par les régimes obligatoires d'assurance maladie.
 
-1° Prélèvements
+1° Prélèvements.
+
+Dès lors que le préleveur a l'intention de transmettre un prélèvement, pour analyse, à un laboratoire établi hors de France dans un Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen, il doit en informer le patient, avant même de réaliser le prélèvement.
+
+Il doit également lui indiquer les conséquences de l'absence de déclaration ou d'autorisation du laboratoire en termes de remboursement. En cas de non-déclaration ou de non-autorisation du laboratoire, le patient peut refuser le prélèvement.
 
 Les prélèvements doivent faire l'objet d'une procédure de suivi permettant d'établir la conformité des échantillons biologiques acceptés sous la responsabilité du laboratoire, leur identification, le maintien de leur intégrité et leur traçabilité.
 
@@ -88,6 +92,6 @@ Les conditions de conservation des échantillons doivent être garanties, et les
 
 L'élimination des échantillons doit être réalisée conformément aux instructions ou aux recommandations locales relatives à la gestion des déchets.
 
-III. - Inspection et contrôle
+**III.-Inspection et contrôle**
 
 Les modalités d'inspection et de contrôle des laboratoires et l'existence d'évaluations externes de la qualité à caractère obligatoire sont précisées.
