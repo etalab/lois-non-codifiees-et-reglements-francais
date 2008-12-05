@@ -221,6 +221,7 @@
 - [Décret n°2006-1636 du 19 décembre 2006 (MENF0602651D)](decret-n2006-1636-du-19-decembre-2006-menf0602651d)
 - [Décret n°2006-1637 du 19 décembre 2006 (SANP0623014D)](decret-n2006-1637-du-19-decembre-2006-sanp0623014d)
 - [Décret n°2006-1639 du 19 décembre 2006 (DEVG0630034D)](decret-n2006-1639-du-19-decembre-2006-devg0630034d)
+- [Décret n°2006-710 du 19 juin 2006 (AGRP0601110D)](decret-n2006-710-du-19-juin-2006-agrp0601110d)
 - [Décret n°2006-1287 du 20 octobre 2006 (INTA0600168D)](decret-n2006-1287-du-20-octobre-2006-inta0600168d)
 - [Décret n°2006-1291 du 20 octobre 2006 (AGRS0601852D)](decret-n2006-1291-du-20-octobre-2006-agrs0601852d)
 - [Décret n°2006-1292 du 20 octobre 2006 (AGRS0601854D)](decret-n2006-1292-du-20-octobre-2006-agrs0601854d)
