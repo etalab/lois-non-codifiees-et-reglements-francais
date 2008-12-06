@@ -5,177 +5,180 @@ Les épreuves orales d'admission et leurs coefficients sont les suivants :
 <table>
 <tbody>
 <tr>
-<td rowspan="2" width="233">
-<p align="center">NATURE DES ÉPREUVES</p>
+<th>
+<br/>NATURE DES ÉPREUVES<br/>
+</th>
+<th>
+<br/>FILIÈRE MP<br/>
+</th>
+<th>
+<br/>FILIÈRE PC<br/>
+</th>
+<th colspan="2">
+<br/>FILIÈRE PSI<br/>
+</th>
+</tr>
+<tr>
+<th/>
+<th colspan="3">
+<br/>Coefficients<br/>
+</th>
+<th>
+<br/>DURÉE<br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Mathématiques 1<br/>
 </td>
-<td width="72">
-<p align="center">FILIÈRE MP</p>
+<td align="center">
+<br/>12<br/>
 </td>
-<td width="72">
-<p align="center">FILIÈRE PC</p>
+<td align="center">
+<br/>13<br/>
 </td>
-<td width="84">
-<p align="center">FILIÈRE PSI</p>
+<td align="center">
+<br/>11<br/>
 </td>
-<td rowspan="2" width="144">
-<p align="center">DURÉE</p>
+<td align="center">
+<br/>30 minutes<br/>
 </td>
 </tr>
 <tr>
-<td colspan="3" width="228">
-<p align="center">Coefficients</p>
+<td align="center">
+<br/>Physique 1<br/>
+</td>
+<td align="center">
+<br/>11<br/>
+</td>
+<td align="center">
+<br/>11<br/>
+</td>
+<td align="center">
+<br/>12<br/>
+</td>
+<td align="center">
+<br/>30 minutes<br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="233">
-<p>Mathématiques 1</p>
+<td align="center">
+<br/>Mathématiques 2<br/>
 </td>
-<td valign="top" width="72">
-<p align="center">12</p>
+<td align="center">
+<br/>12<br/>
 </td>
-<td valign="top" width="72">
-<p align="center">13</p>
+<td align="center">
+<br/>-<br/>
 </td>
-<td valign="top" width="84">
-<p align="center">11</p>
+<td align="center">
+<br/>-<br/>
 </td>
-<td valign="top" width="144">
-<p align="center">30 minutes</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="233">
-<p>Physique 1</p>
-</td>
-<td valign="top" width="72">
-<p align="center">11</p>
-</td>
-<td valign="top" width="72">
-<p align="center">11</p>
-</td>
-<td valign="top" width="84">
-<p align="center">12</p>
-</td>
-<td valign="top" width="144">
-<p align="center">30 minutes</p>
+<td align="center">
+<br/>30 minutes<br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="233">
-<p>Mathématiques 2</p>
+<td align="center">
+<br/>Physique 2<br/>
 </td>
-<td valign="top" width="72">
-<p align="center">12</p>
+<td align="center">
+<br/>-<br/>
 </td>
-<td valign="top" width="72">
-<p align="center">-</p>
+<td align="center">
+<br/>11<br/>
 </td>
-<td valign="top" width="84">
-<p align="center">-</p>
+<td align="center">
+<br/>-<br/>
 </td>
-<td valign="top" width="144">
-<p align="center">30 minutes</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="233">
-<p>Physique 2</p>
-</td>
-<td valign="top" width="72">
-<p align="center">-</p>
-</td>
-<td valign="top" width="72">
-<p align="center">11</p>
-</td>
-<td valign="top" width="84">
-<p align="center">-</p>
-</td>
-<td valign="top" width="144">
-<p align="center">30 minutes</p>
+<td align="center">
+<br/>30 minutes<br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="233">
-<p>Sciences industrielles</p>
+<td align="center">
+<br/>Sciences industrielles<br/>
 </td>
-<td valign="top" width="72">
-<p align="center">-</p>
+<td align="center">
+<br/>-<br/>
 </td>
-<td valign="top" width="72">
-<p align="center">-</p>
+<td align="center">
+<br/>-<br/>
 </td>
-<td valign="top" width="84">
-<p align="center">12</p>
+<td align="center">
+<br/>12<br/>
 </td>
-<td valign="top" width="144">
-<p align="center">30 minutes</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="233">
-<p>Travaux d'initiative personnelle encadrés (TIPE)</p>
-</td>
-<td valign="top" width="72">
-<p align="center">10</p>
-</td>
-<td valign="top" width="72">
-<p align="center">10</p>
-</td>
-<td valign="top" width="84">
-<p align="center">10</p>
-</td>
-<td valign="top" width="144">
-<p align="center">Dans le cadre d'une banque d'épreuves</p>
+<td align="center">
+<br/>30 minutes<br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="233">
-<p>Langue vivante</p>
+<td align="center">
+<br/>Travaux d'initiative personnelle encadrés (TIPE)<br/>
 </td>
-<td valign="top" width="72">
-<p align="center">5</p>
+<td align="center">
+<br/>10<br/>
 </td>
-<td valign="top" width="72">
-<p align="center">5</p>
+<td align="center">
+<br/>10<br/>
 </td>
-<td valign="top" width="84">
-<p align="center">5</p>
+<td align="center">
+<br/>10<br/>
 </td>
-<td valign="top" width="144">
-<p align="center">30 minutes</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="233">
-<p>Français</p>
-</td>
-<td valign="top" width="72">
-<p align="center">10</p>
-</td>
-<td valign="top" width="72">
-<p align="center">10</p>
-</td>
-<td valign="top" width="84">
-<p align="center">10</p>
-</td>
-<td valign="top" width="144">
-<p align="center">30 minutes</p>
+<td align="center">
+<br/>Dans le cadre<br/>
+<br/>d'une banque d'épreuves<br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="233">
-<p>Total</p>
+<td align="center">
+<br/>Langue vivante<br/>
 </td>
-<td valign="top" width="72">
-<p align="center">60</p>
+<td align="center">
+<br/>5<br/>
 </td>
-<td valign="top" width="72">
-<p align="center">60</p>
+<td align="center">
+<br/>5<br/>
 </td>
-<td valign="top" width="84">
-<p align="center">60</p>
+<td align="center">
+<br/>5<br/>
 </td>
-<td valign="top" width="144">
+<td align="center">
+<br/>30 minutes<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Français<br/>
+</td>
+<td align="center">
+<br/>10<br/>
+</td>
+<td align="center">
+<br/>10<br/>
+</td>
+<td align="center">
+<br/>10<br/>
+</td>
+<td align="center">
+<br/>30 minutes<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Total<br/>
+</td>
+<td align="center">
+<br/>60<br/>
+</td>
+<td align="center">
+<br/>60<br/>
+</td>
+<td align="center">
+<br/>60<br/>
+</td>
+<td align="center">
+<br/>
 <br/>
 </td>
 </tr>
@@ -185,92 +188,98 @@ Les épreuves orales d'admission et leurs coefficients sont les suivants :
 <table>
 <tbody>
 <tr>
-<td rowspan="2" width="305">
-<p align="center">NATURE DES ÉPREUVES</p>
+<th>
+<br/>NATURE DES ÉPREUVES<br/>
+</th>
+<th colspan="2">
+<br/>FILIÈRE TSI<br/>
+</th>
+</tr>
+<tr>
+<th/>
+<th>
+<br/>Coefficient<br/>
+</th>
+<th>
+<br/>Durée<br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Epreuve de mathématiques<br/>
 </td>
-<td colspan="2" width="300">
-<p align="center">FILIÈRE TSI</p>
+<td align="center">
+<br/>13<br/>
+</td>
+<td align="center">
+<br/>30 minutes<br/>
 </td>
 </tr>
 <tr>
-<td width="150">
-<p align="center">Coefficient</p>
+<td align="center">
+<br/>Epreuve de physique et de chimie<br/>
 </td>
-<td width="150">
-<p align="center">Durée</p>
+<td align="center">
+<br/>12<br/>
 </td>
-</tr>
-<tr>
-<td width="305">
-<p>Epreuve de mathématiques</p>
-</td>
-<td width="150">
-<p align="center">13</p>
-</td>
-<td width="150">
-<p align="center">30 minutes</p>
+<td align="center">
+<br/>30 minutes<br/>
 </td>
 </tr>
 <tr>
-<td width="305">
-<p>Epreuve de physique et de chimie</p>
+<td align="center">
+<br/>Epreuve de travaux pratiques de technologie<br/>
 </td>
-<td width="150">
-<p align="center">12</p>
+<td align="center">
+<br/>10<br/>
 </td>
-<td width="150">
-<p align="center">30 minutes</p>
-</td>
-</tr>
-<tr>
-<td width="305">
-<p>Epreuve de travaux pratiques de technologie</p>
-</td>
-<td width="150">
-<p align="center">10</p>
-</td>
-<td width="150">
-<p align="center">4 heures</p>
+<td align="center">
+<br/>4 heures<br/>
 </td>
 </tr>
 <tr>
-<td width="305">
-<p>Epreuve de langue vivante</p>
+<td align="center">
+<br/>Epreuve de langue vivante<br/>
 </td>
-<td width="150">
-<p align="center">5</p>
+<td align="center">
+<br/>5<br/>
 </td>
-<td width="150">
-<p align="center">30 minutes</p>
-</td>
-</tr>
-<tr>
-<td width="305">
-<p>Travaux d'initiative personnelle encadrés (TIPE)</p>
-</td>
-<td width="150">
-<p align="center">10</p>
-</td>
-<td rowspan="2" width="150">
-<p align="center">Dans le cadre d'une banque d'épreuves</p>
+<td align="center">
+<br/>30 minutes<br/>
 </td>
 </tr>
 <tr>
-<td width="305">
-<p>Français (reprise des notes d'écrit)</p>
+<td align="center">
+<br/>Travaux d'initiative personnelle encadrés (TIPE)<br/>
 </td>
-<td width="150">
-<p align="center">10</p>
+<td align="center">
+<br/>10<br/>
+</td>
+<td align="center">
+<br/>Dans le cadre<br/>
+<br/>d'une banque d'épreuves<br/>
 </td>
 </tr>
 <tr>
-<td width="305">
-<p>Total</p>
+<td align="center">
+<br/>Français (reprise des notes d'écrit)<br/>
 </td>
-<td width="150">
-<p align="center">60</p>
+<td align="center">
+<br/>10<br/>
 </td>
-<td width="150">
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Total<br/>
+</td>
+<td align="center">
+<br/>60<br/>
+</td>
+<td align="center">
+<br/>
 <br/>
 </td>
 </tr>
@@ -280,111 +289,111 @@ Les épreuves orales d'admission et leurs coefficients sont les suivants :
 <table>
 <tbody>
 <tr>
-<td rowspan="2" width="305">
-<p align="center">NATURE DES ÉPREUVES</p>
+<th>
+<br/>NATURE DES ÉPREUVES<br/>
+</th>
+<th colspan="2">
+<br/>FILIÈRE BCPST<br/>
+</th>
+</tr>
+<tr>
+<th/>
+<th>
+<br/>Coefficient<br/>
+</th>
+<th>
+<br/>Durée<br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Mathématiques<br/>
 </td>
-<td colspan="2" width="309">
-<p align="center">FILIÈRE BCPST</p>
+<td align="center">
+<br/>6<br/>
+</td>
+<td align="center">
+<br/>20 minutes<br/>
 </td>
 </tr>
 <tr>
-<td width="150">
-<p align="center">Coefficient</p>
+<td align="center">
+<br/>Physique<br/>
 </td>
-<td width="160">
-<p align="center">Durée</p>
+<td align="center">
+<br/>6<br/>
 </td>
-</tr>
-<tr>
-<td valign="top" width="305">
-<p>Mathématiques</p>
-</td>
-<td valign="top" width="150">
-<p align="center">6</p>
-</td>
-<td valign="top" width="160">
-<p align="center">20 minutes</p>
+<td align="center">
+<br/>20 minutes<br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="305">
-<p>Physique</p>
+<td align="center">
+<br/>Chimie<br/>
 </td>
-<td valign="top" width="150">
-<p align="center">6</p>
+<td align="center">
+<br/>1<br/>
 </td>
-<td valign="top" width="160">
-<p align="center">20 minutes</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="305">
-<p>Chimie</p>
-</td>
-<td valign="top" width="150">
-<p align="center">1</p>
-</td>
-<td valign="top" width="160">
-<p align="center">20 minutes</p>
+<td align="center">
+<br/>20 minutes<br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="305">
-<p>Géologie pratique</p>
+<td align="center">
+<br/>Géologie pratique<br/>
 </td>
-<td valign="top" width="150">
-<p align="center">3</p>
+<td align="center">
+<br/>3<br/>
 </td>
-<td valign="top" width="160">
-<p align="center">20 minutes</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="305">
-<p>Langue vivante (*)</p>
-</td>
-<td valign="top" width="150">
-<p align="center">3</p>
-</td>
-<td valign="top" width="160">
-<p align="center">20 minutes</p>
+<td align="center">
+<br/>20 minutes<br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="305">
-<p>Travaux d'initiative personnelle encadrés (TIPE)</p>
+<td align="center">
+<br/>Langue vivante (*)<br/>
 </td>
-<td valign="top" width="150">
-<p align="center">5</p>
+<td align="center">
+<br/>3<br/>
 </td>
-<td valign="top" width="160">
-<p align="center">Dans le cadre d'une banque d'épreuves</p>
+<td align="center">
+<br/>20 minutes<br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="305">
-<p>Total</p>
+<td align="center">
+<br/>Travaux d'initiative personnelle encadrés (TIPE)<br/>
 </td>
-<td valign="top" width="150">
-<p align="center">24</p>
+<td align="center">
+<br/>5<br/>
 </td>
-<td valign="top" width="160">
+<td align="center">
+<br/>Dans le cadre<br/>
+<br/>d'une banque d'épreuves<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Total<br/>
+</td>
+<td align="center">
+<br/>24<br/>
+</td>
+<td align="center">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td colspan="3" valign="top" width="614">
-<p align="justify">(*) Cette épreuve porte, au choix du (de la) candidat(e), sur l'une des langues vivantes suivantes : allemand, anglais, espagnol.</p>
+<td colspan="3">
+<br/>(*) Cette épreuve porte, au choix du (de la) candidat(e), sur l'une des langues vivantes suivantes : allemand, anglais, espagnol.<br/>
 </td>
 </tr>
 </tbody>
 </table>
 
-<div align="justify">
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>Les programmes des épreuves scientifiques orales d'admission portent sur les mêmes programmes que les épreuves scientifiques écrites.</div>
-<div align="justify">L'épreuve de langue vivante doit se passer dans la même langue que celle choisie pour l'écrit. Cette épreuve porte sur un texte contemporain (article de presse ou autre document) remis au (à la) candidat(e) et rédigé dans une autre langue étrangère. Le (la) candidat(e) doit dégager brièvement les idées principales du texte qui lui est remis, puis dialoguer avec l'examinateur(trice).</div>
-<div align="justify">L'épreuve de français porte sur un texte contemporain que le (la) candidat(e) doit analyser. Il en développe ensuite l'un des thèmes. Cet exposé et l'entretien qui le suit permettent au (à la) candidat(e) de faire valoir sa culture générale, ses qualités d'expression, d'analyse et de synthèse.</div>
+Les programmes des épreuves scientifiques orales d'admission portent sur les mêmes programmes que les épreuves scientifiques écrites.
+
+L'épreuve de langue vivante doit se passer dans la même langue que celle choisie pour l'écrit. Cette épreuve porte sur un texte contemporain (article de presse ou autre document) remis au (à la) candidat(e) et rédigé dans cette langue étrangère. Le (la) candidat(e) doit dégager brièvement les idées principales du texte qui lui est remis, puis dialoguer avec l'examinateur(trice).
+
+L'épreuve de français porte sur un texte contemporain que le (la) candidat(e) doit analyser. Il en développe ensuite l'un des thèmes. Cet exposé et l'entretien qui le suit permettent au (à la) candidat(e) de faire valoir sa culture générale, ses qualités d'expression, d'analyse et de synthèse.
