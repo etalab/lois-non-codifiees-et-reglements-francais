@@ -112,6 +112,7 @@
 - [Décret n°2008-1264 du 4 décembre 2008 (ECET0827029D)](decret-n2008-1264-du-4-decembre-2008-ecet0827029d)
 - [Décret n°2008-1265 du 4 décembre 2008 (ECET0827024D)](decret-n2008-1265-du-4-decembre-2008-ecet0827024d)
 - [Décret n°2008-1266 du 4 décembre 2008 (ECET0827027D)](decret-n2008-1266-du-4-decembre-2008-ecet0827027d)
+- [Décret n°2008-1272 du 4 décembre 2008 (ECEP0821874D)](decret-n2008-1272-du-4-decembre-2008-ecep0821874d)
 - [Décret n°2008-15 du 4 janvier 2008 (BCFX0770560D)](decret-n2008-15-du-4-janvier-2008-bcfx0770560d)
 - [Décret n°2008-217 du 4 mars 2008 (ECET0769418D)](decret-n2008-217-du-4-mars-2008-ecet0769418d)
 - [Décret n°2008-311 du 4 avril 2008 (PRMX0808723D)](decret-n2008-311-du-4-avril-2008-prmx0808723d)

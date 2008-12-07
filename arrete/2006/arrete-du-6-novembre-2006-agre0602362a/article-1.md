@@ -1,3 +1,15 @@
 # Article 1
 
-L'Institut national agronomique Paris-Grignon, les écoles nationales supérieures agronomiques de Montpellier et Toulouse, l'école nationale supérieure agronomique de l'Institut national d'enseignement supérieur et de recherche agronomique et agroalimentaire de Rennes (Agrocampus Rennes), l'Ecole nationale supérieure d'agronomie et des industries alimentaires de Nancy, l'Ecole nationale supérieure des industries agricoles et alimentaires de Massy, l'école nationale supérieure d'horticulture et d'aménagement du paysage de l'Institut national d'horticulture d'Angers et l'Ecole nationale du génie de l'eau et de l'environnement de Strasbourg sont autorisés à recruter par la voie d'un concours B des élèves en première année de formation d'ingénieurs dans les conditions définies par le présent arrêté.
+Il est organisé un concours B (filière licence) d'admission en première année des cursus d'ingénieur des établissements d'enseignement supérieur suivants :
+
+- Centre international d'études supérieures en sciences agronomiques (Montpellier Sup Agro) (cursus ingénieur agronome à vocation générale) ;
+
+- Ecole nationale du génie de l'eau et de l'environnement de Strasbourg ;
+
+- Ecole nationale supérieure agronomique de Toulouse ;
+
+- Ecole nationale supérieure d'agronomie et des industries alimentaires de Nancy ;
+
+- Institut des sciences et industries du vivant et de l'environnement (Agro Paris Tech) (cursus ingénieur agronome à vocation générale, cursus ingénieur des industries agricoles et alimentaires et cursus ingénieur forestier) ;
+
+- Institut supérieur des sciences agronomiques, agroalimentaires, horticoles et du paysage (Agro campus Ouest) (cursus ingénieur agronome à vocation générale et cursus ingénieur spécialiste des domaines de l'horticulture et du paysage en trois ans).
