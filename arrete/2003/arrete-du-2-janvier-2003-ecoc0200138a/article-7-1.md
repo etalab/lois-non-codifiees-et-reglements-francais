@@ -6,13 +6,11 @@ II. - Toutefois, une couche qui n'est pas en contact direct avec la denrée alim
 
 1° Ne pas respecter les restrictions et spécifications prévues par le présent arrêté ;
 
-2° Etre fabriquée avec des substances citées dans le présent arrêté qui peuvent ne pas respecter les restrictions et spécifications prévues dans le présent arrêté ;
-
-3° Etre fabriquée avec d'autres substances que celles citées dans le présent arrêté ou celles qui ont fait l'objet d'un avis favorable du Conseil supérieur d'hygiène publique de France ou de l'Agence française de sécurité sanitaire des aliments.
+2° Etre fabriquée avec d'autres substances que celles citées dans le présent arrêté ou celles qui ont fait l'objet d'un avis favorable du Conseil supérieur d'hygiène publique de France ou de l'Agence française de sécurité sanitaire des aliments.
 
 III. - La migration des substances mentionnées au 2° du II, dans la denrée alimentaire ou le simulant, ne doit pas dépasser 0, 01mg / kg, mesurée avec la certitude statistique requise par une méthode d'analyse conformément à l'article 11 du règlement (CE) n° 882 / 2004. Cette limite est toujours exprimée en concentration dans les denrées alimentaires ou les simulants. Elle s'applique à un groupe de composés, s'ils sont structurellement et toxicologiquement liés, en particulier les isomères ou composés avec le même groupe fonctionnel pertinent, et elle inclut un éventuel transfert non désiré.
 
-IV. - Les substances mentionnées aux 2° et 3° du II n'appartiennent pas à l'une des catégories suivantes :
+IV. - Les substances mentionnées au 2° du II n'appartiennent pas à l'une des catégories suivantes :
 
 - substances classées comme substances " cancérogènes ", " mutagènes " ou " toxiques pour la reproduction ", avérées ou suspectées de l'être, à l'annexe I de la directive 67 / 548 / CEE ;
 
