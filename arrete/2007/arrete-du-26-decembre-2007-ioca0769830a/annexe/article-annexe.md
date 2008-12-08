@@ -1,8 +1,8 @@
 # Article Annexe
 
-LISTE DES EMPLOIS DE CONSEILLER D'ADMINISTRATION
+LISTE DES EMPLOIS DE CONSEILLER D'ADMINISTRATION DE L'INTÉRIEUR
 
-DE L'INTÉRIEUR ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
+ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 
 <table>
 <tbody>
@@ -29,8 +29,7 @@ DE L'INTÉRIEUR ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 </p>
 </td>
 <td align="center">
-<p align="left">Directeur de la réglementation et des libertés publiques.<br/>
-</p>
+<p align="left">Directeur des étrangers et de l'accueil en France.</p>
 </td>
 </tr>
 <tr>
@@ -80,7 +79,8 @@ DE L'INTÉRIEUR ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 </p>
 </td>
 <td align="center">
-<p align="left">Directeur de la citoyenneté et des libertés publiques.<br/>
+<p align="left">Directeur de la citoyenneté et des libertés publiques. </p>
+<p align="left">Directeur du management, des moyens et de la modernisation.<br/>
 </p>
 </td>
 </tr>
