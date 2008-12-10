@@ -16,4 +16,4 @@ f) sixième niveau : 100° don (femmes) ou 150° don (hommes) ;
 
 g) septième niveau : 200° don et au-delà.
 
-Aux diplômes des premier, quatrième, cinquième, sixième et septième niveaux sont adjoints des insignes distinctifs au port desquels ils donnent droit lors des manifestations publiques ayant un lien avec la promotion du don de produits ou d'éléments du corps humain, ou avec la transfusion sanguine.
+A ces diplômes sont adjoints des insignes distinctifs au port desquels ils donnent droit lors des manifestations publiques ayant un lien avec la promotion du don de produits et d'éléments du corps humain ou avec la transfusion sanguine.
