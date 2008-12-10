@@ -184,7 +184,7 @@ Panneau B 49.-Fin d'obligation dont la nature est mentionnée par une inscriptio
 
 Les signaux de fin d'obligation sont de forme circulaire. Ils sont à fond bleu et sont bordés d'un listel blanc. Les pictogrammes sont blancs barrés de rouge. Les inscriptions sont de couleur blanche.
 
-E.-Panneaux de prescription zonale ;
+E.-Panneaux de prescription zonale
 
 Panneau B. 6b 1. Entrée d'une zone à stationnement interdit ;
 
@@ -218,6 +218,14 @@ Panneau B. 50 e-ancien. Sortie de zone à stationnement unilatéral à alternanc
 
 Panneau B. 51. Sortie d'une zone à vitesse limitée à 30 km / h.
 
+Panneau B 52. - Entrée d'une zone de rencontre.
+
+Panneau B 53. - Sortie d'une zone de rencontre.
+
+Panneau B 54. - Entrée d'aire piétonne.
+
+Panneau B 55. - Sortie d'aire piétonne.
+
 Les signaux de type B6b sont de forme carrée. Ils sont à fond blanc et bordés d'un listel rouge. Les pictogrammes qu'ils portent, outre le signal de type B6a, sont noirs.
 
 Le signal B30 est de forme rectangulaire, le petit côté étant horizontal. Il est à fond blanc, écriture noire, et bordé d'un listel rouge. Il comporte la reproduction du signal B14 approprié.
@@ -225,3 +233,7 @@ Le signal B30 est de forme rectangulaire, le petit côté étant horizontal. Il 
 Les signaux de type B50 sont de forme carrée. Ils sont à fond blanc et bordés d'un listel noir. Ils comportent la reproduction d'un signal de type B6a où la couleur rouge est remplacée par la couleur grise et la couleur bleue par la couleur noire. Les autres pictogrammes et la barre oblique sont noirs.
 
 Le signal B51 est de forme rectangulaire, le petit côté étant horizontal. Il est à fond blanc, écriture noire, et bordé d'un listel noir. Il comporte la reproduction du signal B14 approprié où la couleur rouge est remplacée par du gris. Les autres pictogrammes et la barre oblique sont noirs.
+
+Les panneaux de type B 52 et B 54 sont de forme carrée. Ils sont à fond bleu bordé d'un listel blanc. Les pictogrammes qu'ils portent sont blancs. Le panneau B 52 comporte la reproduction du signal B 14 approprié, celui-ci étant à fond blanc, couronne rouge et chiffres noirs.
+
+Les panneaux de type B 53 et B 55 sont de forme carrée. Ils sont à fond bleu bordé d'un listel blanc et barré d'une diagonale rouge. Les pictogrammes qu'ils portent sont blancs. Le panneau B 53 comporte la reproduction du signal B 14 où la couleur rouge est remplacée par la couleur grise.

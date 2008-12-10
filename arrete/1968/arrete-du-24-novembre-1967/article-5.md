@@ -124,14 +124,6 @@ Les dérogations aux prescriptions énoncées ci-dessus sont portées à la conn
 
 Signal C108 : Fin de route à accès réglementé.
 
-Signal C109 : Aire piétonne.
-
-Ce signal délimite le début d'une zone affectée à la circulation des piétons et des cyclistes roulant à l'allure du pas, à l'intérieur du périmètre de laquelle la circulation et le stationnement des véhicules automobiles sont réglementés.
-
-Signal C110 : Fin d'aire piétonne.
-
-Ce signal indique la fin des réglementations édictées par le panneau C109.
-
 Signal C111. Entrée d'un tunnel.
 
 Ce signal indique l'entrée d'un tunnel où il est interdit de faire demi-tour, de s'arrêter et de stationner en dehors des emplacements d'arrêt d'urgence prévus à cet effet en application de l'article R. 417-10 du code de la route et où l'allumage des feux de croisement est obligatoire.
@@ -166,7 +158,7 @@ Les signaux de type C sont à fond bleu avec un listel blanc. Les pictogrammes e
 
 -le panneau C3 qui est à fond blanc avec une bordure rouge, un listel blanc et un pictogramme polychrome ;
 
--les panneaux C4b, C108, C110, C114 et C208 qui sont traversés par une barre oblique de couleur rouge ;
+-les panneaux C4b, C108, C114 et C208 qui sont traversés par une barre oblique de couleur rouge ;
 
 -les panneaux C13, C18, C25a, C25b, C26a et C26b dont un élément du pictogramme est de couleur rouge ;
 
@@ -914,7 +906,7 @@ ID16a : Monument historique.
 
 ID16b : Site classé.
 
-ID16d. Musée ayant reçu l'appellation " musée de France ", créée par la loi n° 2002-5 du 4 janvier 2002 ».
+ID16d. Musée ayant reçu l'appellation " musée de France ", créée par la loi n° 2002-5 du 4 janvier 2002 .
 
 ID16e. Parc ou jardin ayant reçu le label " jardin remarquable " décerné par le ministère de la culture.
 
