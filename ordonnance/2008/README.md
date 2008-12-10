@@ -4,6 +4,7 @@
 - [Ordonnance n° 2008-527 du 5 juin 2008 (IOCX0810021R)](ordonnance-n-2008-527-du-5-juin-2008-iocx0810021r)
 - [Ordonnance n° 2008-1145 du 6 novembre 2008 (ECET0824302R)](ordonnance-n-2008-1145-du-6-novembre-2008-ecet0824302r)
 - [Ordonnance n° 2005-1529 du 8 décembre 2005 (SANX0500289R)](ordonnance-n-2005-1529-du-8-decembre-2005-sanx0500289r)
+- [Ordonnance n° 2008-1278 du 8 décembre 2008 (JUSC0815761R)](ordonnance-n-2008-1278-du-8-decembre-2008-jusc0815761r)
 - [Ordonnance n° 2008-697 du 11 juillet 2008 (IOCX0811847R)](ordonnance-n-2008-697-du-11-juillet-2008-iocx0811847r)
 - [Ordonnance n° 2008-698 du 11 juillet 2008 (ECET0807614R)](ordonnance-n-2008-698-du-11-juillet-2008-ecet0807614r)
 - [Ordonnance n° 2007-329 du 12 mars 2007 (SOCX0700017R)](ordonnance-n-2007-329-du-12-mars-2007-socx0700017r)

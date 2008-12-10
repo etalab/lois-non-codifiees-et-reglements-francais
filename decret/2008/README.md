@@ -148,6 +148,7 @@
 - [Décret n°2008-1273 du 5 décembre 2008 (DEVP0819581D)](decret-n2008-1273-du-5-decembre-2008-devp0819581d)
 - [Décret n°2008-1274 du 5 décembre 2008 (ECEA0824546D)](decret-n2008-1274-du-5-decembre-2008-ecea0824546d)
 - [Décret n°2008-1276 du 5 décembre 2008 (JUSC0815933D)](decret-n2008-1276-du-5-decembre-2008-jusc0815933d)
+- [Décret n°2008-1279 du 5 décembre 2008 (BCFZ0822347D)](decret-n2008-1279-du-5-decembre-2008-bcfz0822347d)
 - [Décret n°2008-219 du 5 mars 2008 (DEVN0802086D)](decret-n2008-219-du-5-mars-2008-devn0802086d)
 - [Décret n°2008-220 du 5 mars 2008 (DEVN0802087D)](decret-n2008-220-du-5-mars-2008-devn0802087d)
 - [Décret n°2008-221 du 5 mars 2008 (IOCN0772942D)](decret-n2008-221-du-5-mars-2008-iocn0772942d)
