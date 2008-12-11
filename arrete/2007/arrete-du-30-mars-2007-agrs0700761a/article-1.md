@@ -2,9 +2,9 @@
 
 En application de l'article 2 du décret du 4 janvier 2006 susvisé, la liste des emplois de chef de mission de l'agriculture et de l'environnement s'établit à compter du 1er janvier 2007 comme suit :
 
-I.-Dans les services du ministère de l'agriculture et de la pêche
+**I.-Dans les services du ministère de l'agriculture et de la pêche**
 
-a) En administration centrale :
+**a) En administration centrale** :
 
 -chef de section au bureau du cabinet ;
 
@@ -38,7 +38,7 @@ a) En administration centrale :
 
 -chef du bureau des pôles de compétences et des établissements d'enseignement supérieur à la direction générale de l'enseignement et de la recherche ;
 
--chef de la mission développement agricole et rural à la direction générale de l'enseignement et de la recherche ;
+-Chef du bureau des initiatives de partenariats et d'innovation à la direction générale de l'enseignement et de la recherche (a compter du 2 juillet 2008) ;
 
 -chef du bureau de l'emploi et du développement de l'activité à la direction générale de la forêt et des affaires rurales ;
 
@@ -48,7 +48,7 @@ a) En administration centrale :
 
 -chef du bureau de l'installation à la direction générale de la forêt et des affaires rurales ;
 
--chef du département de la santé des forêts à la direction générale de la forêt et des affaires rurales ;
+-Chef du département de la santé des forêts à la direction générale de l'alimentation (A compter du 2 juillet 2008) ;
 
 -chef du bureau des procédures juridiques communautaires à la direction générale des politiques économique, européenne et internationale ;
 
@@ -56,25 +56,21 @@ a) En administration centrale :
 
 -chef du bureau des signes de qualité et de l'agriculture biologique à la direction générale des politiques économique, européenne et internationale ;
 
--chef du bureau de la conjoncture et de l'observation économique des marchés à la direction générale des politiques économique, européenne et internationale ;
+-chef du bureau de la conjoncture et de l'observation économique des marchés au service des nouvelles des marchés au secrétariat général (A compter du 2 juillet 2008);
 
--chef du bureau de la modernisation des exploitations à la direction générale de la forêt et des affaires rurales.
+-Chef du bureau de l'installation et de la modernisation à la direction générale des politiques agricole, agroalimentaires et des territoires (A compter du 2 juillet 2008).
 
-b) Dans les services déconcentrés :
+**b) Dans les services déconcentrés** :
 
 -secrétaire général de la direction départementale de l'agriculture et de la forêt et de la direction départementale des services vétérinaires de l'Ain ;
 
--chef du service de l'environnement à la direction départementale de l'agriculture et de la forêt de l'Aisne ; (ajouté à compter du 17 juin 2008)
+-chef du service de l'environnement à la direction départementale de l'agriculture et de la forêt de l'Aisne (ajouté à compter du 17 juin 2008) ;
 
 -secrétaire général de la direction départementale de l'agriculture et de la forêt et de la direction départementale des services vétérinaires de l'Allier ;
 
 -chef du service d'économie agricole et des industries agroalimentaires à la direction départementale de l'agriculture et de la forêt de l'Allier ;
 
--chef du service environnement à la direction départementale de l'agriculture et de la forêt de l'Allier ;
-
 -chef du service d'économie agricole à la direction départementale de l'agriculture et de la forêt des Alpes-de-Haute-Provence ;
-
--chef du service d'économie agricole à la direction départementale de l'agriculture et de la forêt de l'Ardèche ;
 
 -directeur départemental de l'agriculture et de la forêt des Ardennes ; (ajouté à compter du 16 juin 2008) ;
 
@@ -125,6 +121,8 @@ b) Dans les services déconcentrés :
 -secrétaire général de la direction départementale de l'agriculture et de la forêt et de la direction départementale des services vétérinaires d'Indre-et-Loire ;
 
 -chef du service de l'aménagement rural, adjoint au directeur départemental de l'agriculture et de la forêt d'Indre-et-Loire ;
+
+-Directeur départemental de l'agriculture et de la forêt d'Indre-et-Loire (Ajouté à compter du 1er novembre 2008) ;
 
 -chef du service géomatique et données à la direction départementale de l'agriculture et de la forêt de l'Isère ;
 
@@ -192,8 +190,6 @@ b) Dans les services déconcentrés :
 
 -chef du service d'économie agricole et des industries agroalimentaires à la direction départementale de l'agriculture et de la forêt de la Haute-Savoie ;
 
--chef du service appui aux collectivités locales à la direction départementale de l'agriculture et de la forêt de la Haute-Savoie ;
-
 - chef du service d'appui aux collectivités locales à la direction départementale de l'agriculture et de la forêt de la Seine-Maritime ;
 
 -secrétaire général de la direction départementale de l'agriculture et de la forêt et de la direction départementale des services vétérinaires de Seine-et-Marne ;
@@ -210,15 +206,11 @@ b) Dans les services déconcentrés :
 
 -secrétaire général de la direction départementale de l'agriculture et de la forêt et de la direction départementale des services vétérinaires de la Vendée ;
 
--chef du service d'économie agricole à la direction départementale de l'agriculture et de la forêt de la Vendée ;
-
 -secrétaire général de la direction départementale de l'agriculture et de la forêt et de la direction départementale des services vétérinaires de la Vienne ;
 
 -directeur départemental délégué de la direction départementale de l'agriculture et de la forêt de la Haute-Vienne ;
 
 -chef du service équipements et aménagement rural à la direction départementale de l'agriculture et de la forêt de la Haute-Vienne ;
-
-- chef du service de l'ingénierie d'appui territorial à la direction départementale de l'agriculture et de la forêt des Vosges ;
 
 - chef du service de l'action territoriale et interministérielle à la direction départementale de l'agriculture et de la forêt de l'Yonne ;
 
@@ -290,11 +282,9 @@ b) Dans les services déconcentrés :
 
 -animateur technique de l'ingénierie d'appui territorial pour l'interrégion Aquitaine-Poitou-Charentes-Limousin et Midi-Pyrénées ;
 
--animateur technique de l'ingénierie d'appui territorial pour l'interrégion Alsace, Lorraine, Champagne-Ardenne, Ile-de-France, Nord-Pas-de-Calais, Picardie, Bourgogne et Franche-Comté.
+-animateur technique de l'ingénierie d'appui territorial pour l'interrégion Alsace, Lorraine, Champagne-Ardenne, Ile-de-France, Nord-Pas-de-Calais, Picardie, Bourgogne et Franche-Comté ;
 
-II.-Dans les établissements d'enseignement
-
-relevant du ministre chargé de l'agriculture
+**II.-Dans les établissements d'enseignement relevant du ministre chargé de l'agriculture**
 
 Agent comptable de l'agence comptable de l'Ecole nationale vétérinaire de Lyon.
 
@@ -350,17 +340,15 @@ Chargé de mission du Centre national de promotion rurale de Marmilhat, du Centr
 
 Secrétaire général de l'Institut national de formation des personnels du ministère de l'agriculture (INFOMA).
 
-III.-Dans les services du ministère de l'écologie
+**III.-Dans les services du ministère de l'écologie et du développement durable**
 
-et du développement durable
-
-a) En administration centrale :
+**a) En administration centrale** :
 
 -chef du bureau de la gestion prévisionnelle des compétences et des carrières à la direction générale de l'administration ;
 
 -chef du bureau de la stratégie nationale de développement durable au ministère de l'écologie, de l'énergie, du développement durable et de l'aménagement du territoire.
 
-b) Dans les services déconcentrés :
+**b) Dans les services déconcentrés** :
 
 -directeur adjoint de la direction régionale de l'environnement d'Alsace ;
 
@@ -368,19 +356,17 @@ b) Dans les services déconcentrés :
 
 -chef de la division connaissance du service de l'eau, des milieux aquatiques et des risques naturels, adjoint au chef du service de l'eau et des milieux aquatiques à la direction régionale de l'environnement de Bretagne ;
 
--chef du service de la nature et des paysages, adjoint au directeur régional de l'environnement de Bretagne ; (à compter du 1er octobre 2008)
+-chef du service de la nature et des paysages, adjoint au directeur régional de l'environnement de Bretagne (à compter du 1er octobre 2008) ;
 
 - chef du service d'assistance aux collectivités à la direction départementale de l'équipement d'Eure-et-Loir ;
 
 -chef du service de l'eau et des milieux aquatiques à la direction régionale de l'environnement de la Guadeloupe ;
 
--secrétaire général de la direction régionale de l'environnement de la Martinique. (Ajouté à compter du 3 novembre 2008)
+-secrétaire général de la direction régionale de l'environnement de la Martinique. (Ajouté à compter du 3 novembre 2008) ;
 
-IV.-Dans les établissements publics qui dépendent du ministère
+**IV.-Dans les établissements publics qui dépendent du ministère chargé de l'agriculture et / ou du ministère chargé de l'environnement**
 
-chargé de l'agriculture et / ou du ministère chargé de l'environnement
-
-a) Dans les services de l'établissement public Les Haras nationaux :
+**a) Dans les services de l'établissement public Les Haras nationaux** :
 
 -délégué régional d'Auvergne et de Limousin ;
 
@@ -388,22 +374,24 @@ a) Dans les services de l'établissement public Les Haras nationaux :
 
 -directeur territorial pour l'Ouest ;
 
--responsable du secteur de Normandie ; (ajouté à compter du 1er juillet 2008)
+-responsable du secteur de Normandie (ajouté à compter du 1er juillet 2008) ;
 
--délégué régional de Midi-Pyrénées. (ajouté à compter du 1er juillet 2008)
+-délégué régional de Midi-Pyrénées ; (ajouté à compter du 1er juillet 2008) ;
 
-b) Dans les services de l'Inventaire forestier national :
+-Responsable du pôle hippique du Lion d'Angers (Ajouté à compter du 1er juillet 2008).
+
+**b) Dans les services de l'Inventaire forestier national** :
 
 -directeur administratif et financier ;
 
 -chef de l'échelon interrégional de Montpellier.
 
-c) Dans les services du Centre national du machinisme agricole, du génie rural, des eaux et des forêts :
+**c) Dans les services du Centre national du machinisme agricole, du génie rural, des eaux et des forêts** :
 
 -chef du service financier ;
 
-- responsable national du thème de recherche "maîtrise des écoulements et des transferts pour préserver l'hygiène des aliments au groupement de Rennes" ;
+-responsable national du thème de recherche "maîtrise des écoulements et des transferts pour préserver l'hygiène des aliments au groupement de Rennes" ;
 
-- expert de niveau international en informatique scientifique au groupement de Clermont-Ferrand ;
+-expert de niveau international en informatique scientifique au groupement de Clermont-Ferrand ;
 
-- expert de niveau international en gestion des déchets municipaux au groupement de Rennes.
+-expert de niveau international en gestion des déchets municipaux au groupement de Rennes.
