@@ -19,3 +19,5 @@ Les opérations de prophylaxie collective de la leucose bovine enzootique faisan
 8. Visites de conformité telles que définies à l'article 4, paragraphe 10, ci-dessus ;
 
 9. Visites de contrôle des expéditions à l'abattoir de bovins sous laissez-passer, telles que définies à l'article 19 de l'arrêté du 8 août 1995 fixant les conditions sanitaires relatives à la détention, à la mise en circulation et à la commercialisation des animaux de l'espèce bovine.
+
+_Les actes mentionnés aux 4°, 5°, 6° et 8° peuvent également être rémunérés selon un tarif horaire (1)._

@@ -11,3 +11,5 @@ Les opérations de prophylaxie collective de la maladie d'Aujeszky dans l'espèc
 4. Actes de vaccination, non compris la fourniture de vaccin contre la maladie d'Aujeszky par le vétérinaire sanitaire (à l'unité) ;
 
 5. Actes de marquage des animaux infectés ou contaminés (à l'unité).
+
+Les actes mentionnés aux 3°, 4° et 5° peuvent également être rémunérés selon un tarif horaire (1).

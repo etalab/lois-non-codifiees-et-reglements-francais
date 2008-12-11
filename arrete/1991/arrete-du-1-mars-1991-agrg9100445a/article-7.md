@@ -17,3 +17,5 @@ Les opérations de prophylaxie collective de la brucellose ovine et caprine fais
 7. (alinéa supprimé) ;
 
 8. Actes de vaccination, non compris la fourniture du vaccin antibrucellique par le vétérinaire sanitaire (à l'unité).
+
+_Les actes mentionnés aux 4°, 5°, 6° et 8° peuvent également être rémunérés selon un tarif horaire (1)._

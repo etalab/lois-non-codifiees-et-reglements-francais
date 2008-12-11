@@ -4,8 +4,10 @@ Les opérations de prophylaxie collective de la fièvre catarrhale ovine faisant
 
 1° Visites d'exploitations que nécessite la vaccination à titre prophylactique lorsqu'elle est obligatoire ;
 
-2° Acte de vaccination à titre prophylactique lorsqu'elle est obligatoire, y compris la fourniture du vaccin, par le vétérinaire (à l'unité), pour les bovins ;
+2° Acte de vaccination à titre prophylactique lorsqu'elle est obligatoire, non compris la fourniture du vaccin, par le vétérinaire (à l'unité), pour les bovins ;
 
-3° Acte de vaccination à titre prophylactique lorsqu'elle est obligatoire, y compris la fourniture du vaccin, par le vétérinaire (à l'unité), pour les ovins ;
+3° Acte de vaccination à titre prophylactique lorsqu'elle est obligatoire, non compris la fourniture du vaccin, par le vétérinaire (à l'unité), pour les ovins ;
 
-4° Acte de vaccination à titre prophylactique lorsqu'elle est obligatoire, y compris la fourniture du vaccin, par le vétérinaire (à l'unité), pour les caprins.
+4° Acte de vaccination à titre prophylactique lorsqu'elle est obligatoire, non compris la fourniture du vaccin, par le vétérinaire (à l'unité), pour les caprins.
+
+_Les actes mentionnés aux 4°, 5°, 6° et 8° peuvent également être rémunérés selon un tarif horaire (1)._

@@ -5,3 +5,5 @@ Les opérations de prophylaxie collective de la rhinotrachéite infectieuse bovi
 1. Visite nécessaire au contrôle à l'égard de l'IBR des bovins introduits dans une exploitation.
 
 2. Prélèvements de sang destinés au diagnostic sérologique (à l'unité).
+
+_Les actes mentionnés aux 3° et 4° peuvent également être rémunérés selon un tarif horaire (1)._

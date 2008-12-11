@@ -23,3 +23,5 @@ Les opérations de prophylaxie collective de la brucellose bovine faisant l'obje
 10. Visites de conformité des cheptels d'engraissement nécessaires au maintien d'une dérogation aux contrôles individuels de prophylaxie à l'égard de la tuberculose, de la brucellose et de la leucose bovine enzootique ;
 
 11. Visites de contrôle des expéditions à l'abattoir de bovins sous laissez-passer, telles que définies à l'article 19 de l'arrêté du 8 août 1995 fixant les conditions sanitaires relatives à la détention, à la mise en circulation et à la commercialisation des animaux de l'espèce bovine.
+
+_Les actes mentionnés aux 4°, 5°, 6° et 8° peuvent également être rémunérés selon un tarif horaire (1)._
