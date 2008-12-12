@@ -18,7 +18,7 @@ Au titre de sa mission, l'agence doit notamment :
 
 La liste des titres sécurisés qui comprend notamment les titres d'identité et de voyage, les titres de séjour, les visas et les certificats d'immatriculation des véhicules est fixée par décret.
 
-L'agence accomplit sa mission dans le respect des orientations générales arrêtées par l'Etat en matière de titres sécurisés et dans le cadre de la coopération européenne et internationale. Sa mission exclut l'instruction des demandes et la délivrance des titres ainsi que l'accès aux données individuelles et la gestion des fichiers correspondants.
+L'agence accomplit sa mission dans le respect des orientations générales arrêtées par l'Etat en matière de titres sécurisés et dans le cadre de la coopération européenne et internationale. Sa mission exclut l'instruction des demandes et la délivrance des titres. Avec l'accord du ministre responsable de la délivrance des titres et dans les conditions fixées par la convention prévue au treizième alinéa, l'agence peut être autorisée à gérer pour le compte des administrations de l'Etat les traitements automatisés correspondants. Les personnels de l'agence pourront accéder aux données à caractère personnel enregistrées dans ces traitements dans les conditions définies par la loi du 6 janvier 1978 susvisée et les actes réglementaires autorisant ces traitements.
 
 L'agence peut être chargée par son autorité de tutelle d'émettre des recommandations sur la politique générale de l'Etat en matière de titres sécurisés.
 
