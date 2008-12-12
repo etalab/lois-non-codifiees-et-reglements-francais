@@ -22,10 +22,6 @@ Sanglier (sus scrofa).
 
 Vison d'Amérique (mustela vison).
 
-Belette (Mustela nivalis).
-
-Martre (Martes martes).
-
 Putois (Mustela putorius).
 
 Oiseaux
