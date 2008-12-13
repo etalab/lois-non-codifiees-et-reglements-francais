@@ -145,7 +145,6 @@
 - [Décret n°2007-1431 du 4 octobre 2007 (PRMX0758019D)](decret-n2007-1431-du-4-octobre-2007-prmx0758019d)
 - [Décret n°2007-1435 du 4 octobre 2007 (IOCI0760823D)](decret-n2007-1435-du-4-octobre-2007-ioci0760823d)
 - [Décret n°2007-1436 du 4 octobre 2007 (MTSA0757429D)](decret-n2007-1436-du-4-octobre-2007-mtsa0757429d)
-- [Décret n°2007-1437 du 4 octobre 2007 (MTSS0763978D)](decret-n2007-1437-du-4-octobre-2007-mtss0763978d)
 - [Décret n°2007-1438 du 4 octobre 2007 (SJSH0765307D)](decret-n2007-1438-du-4-octobre-2007-sjsh0765307d)
 - [Décret n°2007-1439 du 4 octobre 2007 (SJSK0754179D)](decret-n2007-1439-du-4-octobre-2007-sjsk0754179d)
 - [Décret n°2007-1712 du 4 décembre 2007 (AGRP0764600D)](decret-n2007-1712-du-4-decembre-2007-agrp0764600d)
