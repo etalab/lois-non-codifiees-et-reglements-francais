@@ -668,7 +668,6 @@
 - [Arrêté du 20 décembre 1996 (ECOT9620053A)](arrete-du-20-decembre-1996-ecot9620053a)
 - [Arrêté du 20 décembre 1996 (ENVE9650459A)](arrete-du-20-decembre-1996-enve9650459a)
 - [Arrêté du 20 décembre 1996 (INTE9600554A)](arrete-du-20-decembre-1996-inte9600554a)
-- [Arrêté du 20 décembre 1996 (MCCK9600703A)](arrete-du-20-decembre-1996-mcck9600703a)
 - [Arrêté du 20 décembre 1996 (TAST9611780A)](arrete-du-20-decembre-1996-tast9611780a)
 - [Arrêté du 20 février 1996 (ENVN9650039A)](arrete-du-20-fevrier-1996-envn9650039a)
 - [Arrêté du 20 février 1996 (ENVN9650040A)](arrete-du-20-fevrier-1996-envn9650040a)
