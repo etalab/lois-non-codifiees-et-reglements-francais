@@ -58,7 +58,9 @@ Tarbes-Ossun-Lourdes ;
 
 Tahiti-Faaa ;
 
-Saint-Pierre
+Saint-Martin-Grand-Case ;
+
+Saint-Pierre ;
 
 (Saint-Pierre-et-Miquelon) ;
 

@@ -146,6 +146,8 @@ Vesoul-Frotey ;
 
 Vichy-Charmeil ;
 
+Saint-Barthélemy ;
+
 Wallis-Hififo.
 
 Les modalités de l'ouverture au trafic international des aérodromes de Hyères-Le Palyvestre, Orléans-Bricy et Lorient - Lann-Bihoué feront l'objet d'un protocole conclu pour chacun de ces aérodromes entre le ministère de la défense et le ministère chargé de l'aviation civile.
