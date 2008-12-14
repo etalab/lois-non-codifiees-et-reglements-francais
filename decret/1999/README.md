@@ -364,7 +364,6 @@
 - [Décret n°99-217 du 15 mars 1999 (INTA9800289D)](decret-n99-217-du-15-mars-1999-inta9800289d)
 - [Décret n°99-26 du 15 janvier 1999 (ATEP9860073D)](decret-n99-26-du-15-janvier-1999-atep9860073d)
 - [Décret n°99-27 du 15 janvier 1999 (MESS9823995D)](decret-n99-27-du-15-janvier-1999-mess9823995d)
-- [Décret n°99-294 du 15 avril 1999 (DEFP9901246D)](decret-n99-294-du-15-avril-1999-defp9901246d)
 - [Décret n°99-295 du 15 avril 1999 (EQUT9900381D)](decret-n99-295-du-15-avril-1999-equt9900381d)
 - [Décret n°99-296 du 15 avril 1999 (EQUZ9900328D)](decret-n99-296-du-15-avril-1999-equz9900328d)
 - [Décret n°99-297 du 15 avril 1999 (AGRB9801362D)](decret-n99-297-du-15-avril-1999-agrb9801362d)
