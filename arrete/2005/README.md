@@ -640,7 +640,6 @@
 - [Arrêté du 27 juillet 2004 (EQUS0401066A)](arrete-du-27-juillet-2004-equs0401066a)
 - [Arrêté du 27 juillet 2005 (EQUA0401384A)](arrete-du-27-juillet-2005-equa0401384a)
 - [Arrêté du 27 juillet 2005 (INTE0500442A)](arrete-du-27-juillet-2005-inte0500442a)
-- [Arrêté du 27 juin 2005 (DEFP0500901A)](arrete-du-27-juin-2005-defp0500901a)
 - [Arrêté du 27 octobre 2005 (AGRG0502403A)](arrete-du-27-octobre-2005-agrg0502403a)
 - [Arrêté du 27 octobre 2005 (MENS0502328A)](arrete-du-27-octobre-2005-mens0502328a)
 - [Arrêté du 27 septembre 2005 (DEFP0501368A)](arrete-du-27-septembre-2005-defp0501368a)
