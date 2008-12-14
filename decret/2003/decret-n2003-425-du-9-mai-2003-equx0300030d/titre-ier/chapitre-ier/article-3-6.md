@@ -1,0 +1,3 @@
+# Article 3-6
+
+L'expert ou l'organisme qualifié agréé qui se voit confier une mission d'évaluation de la sécurité prévue au présent décret, sans disposer des agréments couvrant l'ensemble des domaines techniques dont relève le système ou la modification substantielle à évaluer, est chargé de coordonner l'intervention des autres experts ou organismes agréés dont la participation à la mission est requise pour couvrir ces domaines, et demeure seul compétent pour signer les rapports, avis ou attestations prévus par le présent décret. Lorsqu'il s'agit d'un organisme, ces documents sont signés par l'un de ses dirigeants responsables des évaluations.
