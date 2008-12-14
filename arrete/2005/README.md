@@ -578,7 +578,6 @@
 - [Arrêté du 25 avril 2005 (EQUH0500822A)](arrete-du-25-avril-2005-equh0500822a)
 - [Arrêté du 25 avril 2005 (SANA0521531A)](arrete-du-25-avril-2005-sana0521531a)
 - [Arrêté du 25 avril 2005 (SOCT0510792A)](arrete-du-25-avril-2005-soct0510792a)
-- [Arrêté du 25 février 2005 (EQUH0500544A)](arrete-du-25-fevrier-2005-equh0500544a)
 - [Arrêté du 25 février 2005 (INDI0404097A)](arrete-du-25-fevrier-2005-indi0404097a)
 - [Arrêté du 25 février 2005 (MENE0500401A)](arrete-du-25-fevrier-2005-mene0500401a)
 - [Arrêté du 25 février 2005 (SANP0520699A)](arrete-du-25-fevrier-2005-sanp0520699a)
