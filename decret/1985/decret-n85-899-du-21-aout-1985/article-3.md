@@ -12,6 +12,18 @@ a) L'établissement de la liste d'aptitude d'accès au corps ;
 
 b) L'établissement du tableau d'avancement au choix au grade d'attaché principal ;
 
+c) Les sanctions disciplinaires des premier et deuxième groupes mentionnées à l'article 66 de la loi du 11 janvier 1984 susvisée et aux 1°, 2° et 3° de l'article 10 du décret du 7 octobre 1994 susmentionné ;
+
+d) Les décisions de radiation des cadres prononcées :
+
+-soit consécutivement à une démission acceptée ;
+
+-soit par anticipation, conformément aux articles L. 27 et L. 29 du code des pensions civiles et militaires de retraite ;
+
+-soit en vue de l'admission à la retraite, tant à leur demande que d'office par limite d'âge ;
+
+-soit consécutivement à un abandon de poste.
+
 3° L'octroi du congé de fin d'activité créé par la loi n° 96-1093 du 16 décembre 1996 relative à l'emploi dans la fonction publique et à diverses mesures d'ordre statutaire ;
 
 4° Pour les personnels enseignants, d'éducation, d'information et d'orientation :
@@ -22,12 +34,22 @@ b) Le détachement, dans le cas prévu au 10° de l'article 14 du décret du 16 
 
 c) Les décisions de radiation des cadres prononcées :
 
+-soit consécutivement à une démission acceptée ;
+
+-soit par anticipation, conformément aux articles L. 27 et L. 29 du code des pensions civiles et militaires de retraite ;
+
+-soit en vue de l'admission à la retraite, tant à leur demande que d'office en raison de leur âge ;
+
+-soit consécutivement à un abandon de poste ;
+
+d) Les sanctions disciplinaires des premier et deuxième groupes de l'article 66 de la loi du 11 janvier 1984 susvisée et des 1°, 2° et 3° de l'article 10 du décret du 7 octobre 1994 susmentionné.
+
+5° Pour le corps des conseillers techniques de service social et le corps des médecins de l'éducation nationale, les décisions de radiation des cadres prononcées :
+
 - soit consécutivement à une démission acceptée ;
 
 - soit par anticipation, conformément aux articles L. 27 et L. 29 du code des pensions civiles et militaires de retraite ;
 
-- soit en vue de l'admission à la retraite, tant à leur demande que d'office en raison de leur âge ;
+- soit en vue de l'admission à la retraite, tant à leur demande que d'office par limite d'âge ;
 
-- soit consécutivement à un abandon de poste ;
-
-d) Les sanctions disciplinaires des premier et deuxième groupes de l'article 66 de la loi du 11 janvier 1984 susvisée et des 1°, 2° et 3° de l'article 10 du décret du 7 octobre 1994 susmentionné.
+- soit consécutivement à un abandon de poste.
