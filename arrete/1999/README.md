@@ -462,7 +462,6 @@
 - [Arrêté du 21 juillet 1999 (MENR9901597A)](arrete-du-21-juillet-1999-menr9901597a)
 - [Arrêté du 21 juillet 1999 (MENT9901603A)](arrete-du-21-juillet-1999-ment9901603a)
 - [Arrêté du 21 juillet 1999 (MESG9921371A)](arrete-du-21-juillet-1999-mesg9921371a)
-- [Arrêté du 21 juin 1999 (DEFP9901247A)](arrete-du-21-juin-1999-defp9901247a)
 - [Arrêté du 21 juin 1999 (MESP9921892A)](arrete-du-21-juin-1999-mesp9921892a)
 - [Arrêté du 21 octobre 1999 (EQUH9901568A)](arrete-du-21-octobre-1999-equh9901568a)
 - [Arrêté du 21 octobre 1999 (INTA9900471A)](arrete-du-21-octobre-1999-inta9900471a)
