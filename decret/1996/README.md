@@ -248,7 +248,6 @@
 - [Décret n°96-198 du 11 mars 1996 (ENVP9530091D)](decret-n96-198-du-11-mars-1996-envp9530091d)
 - [Décret n°96-201 du 11 mars 1996 (MAEJ9630004D)](decret-n96-201-du-11-mars-1996-maej9630004d)
 - [Décret n°96-26 du 11 janvier 1996 (ENVN9530060D)](decret-n96-26-du-11-janvier-1996-envn9530060d)
-- [Décret n°96-617 du 11 juillet 1996 (ACVE9550038D)](decret-n96-617-du-11-juillet-1996-acve9550038d)
 - [Décret n°96-619 du 11 juillet 1996 (INTX9600003D)](decret-n96-619-du-11-juillet-1996-intx9600003d)
 - [Décret n°96-622 du 11 juillet 1996 (AVIX9600065D)](decret-n96-622-du-11-juillet-1996-avix9600065d)
 - [Décret n°96-640 du 11 juillet 1996 (AGRA9600541D)](decret-n96-640-du-11-juillet-1996-agra9600541d)
