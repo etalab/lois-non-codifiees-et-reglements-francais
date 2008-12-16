@@ -1,3 +1,0 @@
-# Article 1
-
-Les carcasses et les pièces de découpe non désossées obtenues à partir de muscles attenants à la colonne vertébrale, à l'exclusion des vertèbres caudales, issues d'animaux des espèces ovine et caprine ne peuvent être présentées à la vente au consommateur final et remises au consommateur final, en l'état ou après transformation, qu'après avoir été débarrassées de la moelle épinière.
