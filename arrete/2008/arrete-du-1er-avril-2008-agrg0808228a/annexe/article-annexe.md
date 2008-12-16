@@ -10,9 +10,81 @@ Zone de protection :
 
 - département de la Haute-Corse.
 
-Zone B (sérotype 8)
+Zone C (zone d'outre-mer)
 
 Zone de protection :
+
+- département de la Guadeloupe ;
+
+- département de la Guyane ;
+
+- département de la Martinique ;
+
+- département de la Réunion.
+
+Zone E (sérotypes 1 et 8)
+
+Zone de protection :
+
+- département de l'Ariège ;
+
+- département de l'Aude ;
+
+- département de l'Aveyron ;
+
+- département du Cantal : arrondissement d'Aurillac et cantons de Chaudes-Aigues, Mauriac, Pierrefort, Pleaux, Riom-ès-Montagnes, Saignes, Salers, Ruynes-en-Margeride, Saint-Flour - Sud ;
+
+- département de la Charente ;
+
+- département de la Charente-Maritime ;
+
+- département de la Corrèze : arrondissements de Brive-la-Gaillarde, Tulle et cantons de Bugeat, Meymac, Neuvic, Ussel-Ouest ;
+
+- département des Côtes-d'Armor : cantons de Belle-Isle-en-Terre, Callac, Chèze, Corlay, Gouarec, Loudéac, Maël-Carhaix, Mur-de-Bretagne, Plestin-les-Grèves, Plouaret, Rostrenen, Saint-Nicolas-du Pélem, Uzel ;
+
+- département de la Dordogne ;
+
+- département du Finistère ;
+
+- département du Gard : arrondissement du Vigan ;
+
+- département de la Haute-Garonne ;
+
+- département du Gers ;
+
+- département de la Gironde ;
+
+- département de l'Hérault ;
+
+- département des Landes ;
+
+- département du Lot ;
+
+- département de Lot-et-Garonne ;
+
+- département de la Lozère : cantons d'Aumont-Aubrac, Barre-des-Cévennes, La Canourgue, Chanac, Florac, Fournels, Marvejols, Massegros, Meyrueis, Nasbinals, Sainte-Enimie, Saint-Germain-du-Teil, Le Bleymard, Châteauneuf-de-Randon, Malzieu-Ville, Mende-Nord, Pont-de-Montvert, Saint-Alban-sur-Limagnole, Saint-Amans, Saint-Chély-d'Apcher, Mende-Sud, Mende ;
+
+- département du Morbihan : arrondissements de Lorient, Pontivy et cantons d'Elven, Grand-Champ, Sarzeau, Vannes-Est, Vannes-Ouest, Vannes ;
+
+- département des Pyrénées-Atlantiques ;
+
+- département des Hautes-Pyrénées ;
+
+- département des Pyrénées-Orientales ;
+
+- département des Deux-Sèvres : arrondissement de Niort et canton de Mazières-en-Gâtine ;
+
+- département du Tarn ;
+
+- département de Tarn-et-Garonne ;
+
+- département de la Vendée : cantons de Chaillé-les-Marais, Luçon, Maillezais, Moutiers-les-Mauxfaits ;
+
+- département de la Vienne : cantons d'Availles-Limouzine, Charroux, Civray, Couhé, Gençay, Lusignan ;
+
+- département de la Haute-Vienne : cantons de Châlus, Oradour-sur-Vayres, Rochechouart, Saint-Mathieu, Saint-Germain-les-Belles, Saint-Yrieix-la-Perche.
+
+**ZONE VACCINALE SANS CIRCULATION VIRALE, AU TITRE DU SEROTYPE 1, AU SENS DE L'ARTICLE 15 BIS DE L'ARRETE MINISTERIEL DU 1ER AVRIL 2008 MODIFIE FIXANT LES MESURES TECHNIQUES RELATIVES A LA FIEVRE CATARRHALE DU MOUTON**
 
 - département de l'Ain ;
 
@@ -36,7 +108,7 @@ Zone de protection :
 
 - département du Calvados ;
 
-- département du Cantal : cantons de Allanche, Champs-sur-Tarentaine-Marchal, Condat, Massiac, Murat, Saint-Flour - Nord, Saint-Flour ;
+- département du Cantal : cantons d'Allanche, Champs-sur-Tarentaine-Marchal, Condat, Massiac, Murat, Saint-Flour - Nord, Saint-Flour ;
 
 - département du Cher ;
 
@@ -94,7 +166,7 @@ Zone de protection :
 
 - département de la Meuse ;
 
-- département du Morbihan : cantons de Allaire, La Gacilly, Guer, Malestroit, Mauron, Muzillac, Ploërmel, Questembert, La Roche-Bernard, Rochefort-en-Terre, La Trinité-Porhoët ;
+- département du Morbihan : cantons d'Allaire, La Gacilly, Guer, Malestroit, Mauron, Muzillac, Ploërmel, Questembert, La Roche-Bernard, Rochefort-en-Terre, La Trinité-Porhoët ;
 
 - département de la Moselle ;
 
@@ -134,7 +206,7 @@ Zone de protection :
 
 - département des Yvelines ;
 
-- département des Deux-Sèvres : arrondissement de Bressuire et cantons de Airvault, Ménigoute, Moncoutant, Parthenay, Saint-Loup-Lamairé, Secondigny, Thénezay ;
+- département des Deux-Sèvres : arrondissement de Bressuire et cantons d'Airvault, Ménigoute, Moncoutant, Parthenay, Saint-Loup-Lamairé, Secondigny, Thénezay ;
 
 - département de la Somme ;
 
@@ -144,9 +216,9 @@ Zone de protection :
 
 - département de la Vendée : arrondissement de La Roche-sur-Yon et cantons de Beauvoir-sur-Mer, Challans, La Châtaigneraie, Fontenay-le-Comte, L'Hermenault, L'Ile-d'Yeu, La Mothe-Achard, Noirmoutier-en-l'Ile, Palluau, Pouzauges, Les Sables-d'Olonne, Saint-Gilles-Croix-de-Vie, Sainte-Hermine, Saint-Hilaire-des-Loges, Saint-Jean-de-Monts, Talmont-Saint-Hilaire ;
 
-- département de la Vienne : arrondissement de Châtellerault et cantons de Chauvigny, L'Isle-Jourdain, Lussac-les-Châteaux, Mirebeau, Montmorillon, Neuville-de-Poitou, Poitiers (1er canton), Poitiers (2e canton), Saint-Georges-lès-Baillargeaux, Saint-Julien-l'Ars, Saint-Savin, Trimouille, Villedieu-du-Clain, Vivonne, Vouillé, Poitiers (3e canton), Poitiers (4e canton), Poitiers (5e canton), Poitiers (6e canton), Poitiers (7e canton), Poitiers ;
+- département de la Vienne : arrondissement de Châtellerault et cantons de Chauvigny, L'Isle-Jourdain, Lussac-les-Châteaux, Mirebeau, Montmorillon, Neuville-de-Poitou, Poitiers (1er canton), Poitiers (2e canton), Saint-Georges-lès-Baillargeaux, Saint-Julien-l'Ars, Saint-Savin, La Trimouille, Villedieu-du-Clain, Vivonne, Vouillé, Poitiers (3e canton), Poitiers (4e canton), Poitiers (5e canton), Poitiers (6e canton), Poitiers (7e canton), Poitiers ;
 
-- département de la Haute-Vienne : arrondissement de Bellac et cantons de Aixe-sur-Vienne, Ambazac, Châteauneuf-la-Forêt, Eymoutiers, Laurière, Nexon, Nieul, Pierre-Buffière, Saint-Junien - Est, Saint-Laurent-sur-Gorre, Saint-Léonard-de-Noblat, Limoges-Isle, Limoges-Couzeix, Limoges-Le Palais, Limoges-Condat, Limoges-Panazol, Saint-Junien - Ouest, Saint-Junien, Limoges ;
+- département de la Haute-Vienne : arrondissement de Bellac et cantons d'Aixe-sur-Vienne, Ambazac, Châteauneuf-la-Forêt, Eymoutiers, Laurière, Nexon, Nieul, Pierre-Buffière, Saint-Junien - Est, Saint-Laurent-sur-Gorre, Saint-Léonard-de-Noblat, Limoges-Isle, Limoges-Couzeix, Limoges-Le Palais, Limoges-Condat, Limoges-Panazol, Saint-Junien - Ouest, Saint-Junien, Limoges ;
 
 - département des Vosges ;
 
@@ -163,77 +235,3 @@ Zone de protection :
 - département du Val-de-Marne ;
 
 - département du Val-d'Oise.
-
-Zone C. - Zone d'outre-mer
-
-Zone de protection :
-
-- département de la Guadeloupe ;
-
-- département de la Guyane ;
-
-- département de la Martinique ;
-
-- département de la Réunion.
-
-Zone E (sérotypes 1 et 8)
-
-Zone de protection :
-
-- département de l'Ariège ;
-
-- département de l'Aude ;
-
-- département de l'Aveyron ;
-
-- département du Cantal : arrondissement d'Aurillac et cantons de Chaudes-Aigues, Mauriac, Pierrefort, Pleaux, Riom-ès-Montagnes, Saignes, Salers, Ruynes-en-Margeride, Saint-Flour - Sud ;
-
-- département de la Charente ;
-
-- département de la Charente-Maritime ;
-
-- département de la Corrèze : arrondissements de Brive-la-Gaillarde, Tulle et cantons de Bugeat, Meymac, Neuvic, Ussel - Ouest ;
-
-- département des Côtes-d'Armor : cantons de Belle-Isle-en-Terre, Callac, Chèze, Corlay, Gouarec, Loudéac, Maël-Carhaix, Mur-de-Bretagne, Plestin-les-Grèves, Plouaret, Rostrenen, Saint-Nicolas-du-Pélem, Uzel ;
-
-- département de la Dordogne ;
-
-- département du Finistère ;
-
-- département du Gard : arrondissement du Vigan ;
-
-- département de la Haute-Garonne ;
-
-- département du Gers ;
-
-- département de la Gironde ;
-
-- département de l'Hérault ;
-
-- département des Landes ;
-
-- département de Lot ;
-
-- département de Lot-et-Garonne ;
-
-- département de la Lozère : cantons de Aumont-Aubrac, Barre-des-Cévennes, La Canourgue, Chanac, Florac, Fournels, Marvejols, Massegros, Meyrueis, Nasbinals, Sainte-Enimie, Saint-Germain-du-Teil, Le Bleymard, Châteauneuf-de-Randon, Malzieu-Ville, Mende-Nord, Pont-de-Montvert, Saint-Alban-sur-Limagnole, Saint-Amans, Saint-Chély-d'Apcher, Mende - Sud, Mende ;
-
-- département du Morbihan : arrondissements de Lorient, Pontivy et cantons de Elven, Grand-Champ, Sarzeau, Vannes - Est, Vannes - Ouest, Vannes ;
-
-- département des Pyrénées-Atlantiques ;
-
-- département des Hautes-Pyrénées ;
-
-- département des Pyrénées-Orientales ;
-
-- département des Deux-Sèvres : arrondissement de Niort et canton de Mazières-en-Gâtine ;
-
-- département de Tarn ;
-
-- département de Tarn-et-Garonne ;
-
-- département de la Vendée : cantons de Chaillé-les-Marais, Luçon, Maillezais, Moutiers-les-Mauxfaits ;
-
-- département de la Vienne : cantons de Availles-Limouzine, Charroux, Civray, Couhé, Gençay, Lusignan ;
-
-- département de la Haute-Vienne : cantons de Châlus, Oradour-sur-Vayres, Rochechouart, Saint-Mathieu, Saint-Germain-les-Belles, Saint-Yrieix-la-Perche.
