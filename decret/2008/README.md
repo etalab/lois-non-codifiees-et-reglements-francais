@@ -458,6 +458,7 @@
 - [Décret n°2008-1064 du 15 octobre 2008 (MTSS0817640D)](decret-n2008-1064-du-15-octobre-2008-mtss0817640d)
 - [Décret n°2008-1065 du 15 octobre 2008 (SJSP0810015D)](decret-n2008-1065-du-15-octobre-2008-sjsp0810015d)
 - [Décret n°2008-1190 du 15 novembre 2008 (SJSP0826039D)](decret-n2008-1190-du-15-novembre-2008-sjsp0826039d)
+- [Décret n°2008-1318 du 15 décembre 2008 (PRMX0830074D)](decret-n2008-1318-du-15-decembre-2008-prmx0830074d)
 - [Décret n°2008-144 du 15 février 2008 (MCCB0760481D)](decret-n2008-144-du-15-fevrier-2008-mccb0760481d)
 - [Décret n°2008-146 du 15 février 2008 (JUSA0774037D)](decret-n2008-146-du-15-fevrier-2008-jusa0774037d)
 - [Décret n°2008-147 du 15 février 2008 (MTSS0800417D)](decret-n2008-147-du-15-fevrier-2008-mtss0800417d)

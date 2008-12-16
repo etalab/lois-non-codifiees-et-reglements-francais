@@ -403,6 +403,7 @@
 - [Arrêté du 14 octobre 2008 (SJSP0824523A)](arrete-du-14-octobre-2008-sjsp0824523a)
 - [Arrêté du 14 mai 2008 (DEVU0802216A)](arrete-du-14-mai-2008-devu0802216a)
 - [Arrêté du 15 avril 2003 (SANH0321339A)](arrete-du-15-avril-2003-sanh0321339a)
+- [Arrêté du 15 décembre 2008 (AGRG0830046A)](arrete-du-15-decembre-2008-agrg0830046a)
 - [Arrêté du 15 juillet 2008 (AGRG0817630A)](arrete-du-15-juillet-2008-agrg0817630a)
 - [Arrêté du 15 juillet 2008 (DEFH0817520A)](arrete-du-15-juillet-2008-defh0817520a)
 - [Arrêté du 15 juillet 2008 (DEFH0817521A)](arrete-du-15-juillet-2008-defh0817521a)
