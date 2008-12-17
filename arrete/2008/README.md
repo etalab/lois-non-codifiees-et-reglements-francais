@@ -11,6 +11,7 @@
 - [Arrêté du 2 décembre 2008 (ECED0828484A)](arrete-du-2-decembre-2008-eced0828484a)
 - [Arrêté du 2 décembre 2008 (ECEI0827314A)](arrete-du-2-decembre-2008-ecei0827314a)
 - [Arrêté du 2 décembre 2008 (MTSS0829141A)](arrete-du-2-decembre-2008-mtss0829141a)
+- [Arrêté du 2 janvier 2008 (SJSS0800579A)](arrete-du-2-janvier-2008-sjss0800579a)
 - [Arrêté du 2 juillet 2008 (BCFR0817254A)](arrete-du-2-juillet-2008-bcfr0817254a)
 - [Arrêté du 2 juillet 2008 (DEVA0816279A)](arrete-du-2-juillet-2008-deva0816279a)
 - [Arrêté du 2 juillet 2008 (DEVL0816801A)](arrete-du-2-juillet-2008-devl0816801a)
