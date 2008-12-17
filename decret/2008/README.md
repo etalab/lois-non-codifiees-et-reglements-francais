@@ -489,6 +489,7 @@
 - [Décret n° 2008-361 du 16 avril 2008 (JUSD0806359Z)](decret-n-2008-361-du-16-avril-2008-jusd0806359z)
 - [Décret n°2003-518 du 16 juin 2003 (ECOP0300231D)](decret-n2003-518-du-16-juin-2003-ecop0300231d)
 - [Décret n°2007-566 du 16 avril 2007 (BUDL0750462D)](decret-n2007-566-du-16-avril-2007-budl0750462d)
+- [Décret n°2008-1319 du 16 décembre 2008 (PRMX0830158D)](decret-n2008-1319-du-16-decembre-2008-prmx0830158d)
 - [Décret n°2008-353 du 16 avril 2008 (PRMX0809745D)](decret-n2008-353-du-16-avril-2008-prmx0809745d)
 - [Décret n°2008-357 du 16 avril 2008 (DEVE0760018D)](decret-n2008-357-du-16-avril-2008-deve0760018d)
 - [Décret n°2008-358 du 16 avril 2008 (DEVN0806253D)](decret-n2008-358-du-16-avril-2008-devn0806253d)
