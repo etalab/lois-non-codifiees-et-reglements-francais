@@ -281,7 +281,6 @@
 - [Arrêté du 9 septembre 2008 (IOCC0814157A)](arrete-du-9-septembre-2008-iocc0814157a)
 - [Arrêté du 9 septembre 2008 (PRMX0821677A)](arrete-du-9-septembre-2008-prmx0821677a)
 - [Arrêté du 9 mai 2008 (DEVA0811623A)](arrete-du-9-mai-2008-deva0811623a)
-- [Arrêté du 10 avril 2008 (AGRG0809300A)](arrete-du-10-avril-2008-agrg0809300a)
 - [Arrêté du 10 avril 2008 (ESRH0806607A)](arrete-du-10-avril-2008-esrh0806607a)
 - [Arrêté du 10 décembre 2002 (ECOP0201034A)](arrete-du-10-decembre-2002-ecop0201034a)
 - [Arrêté du 10 juillet 2008 (AGRG0814677A)](arrete-du-10-juillet-2008-agrg0814677a)
