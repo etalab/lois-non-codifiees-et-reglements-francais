@@ -1,15 +1,33 @@
 # Article 62
 
-Sous réserve des règlements particuliers prévus à l'article 9 en ce qui concerne l'exercice de la traction nul ne peut, si ce n'est à pied, circuler sur les digues et chemins de halage des canaux, des dérivations, des rigoles et des réservoirs, non plus que sur les chemins de halages construits par l'Etat le long des rivières navigables, s'il n'est porteur d'une autorisation écrite.
+Nul ne peut circuler sur les digues et chemins de halage des canaux, des dérivations, des rigoles et des réservoirs, non plus que sur les chemins de halages et d'exploitation construits le long des cours d'eau domaniaux appartenant à l'Etat, s'il n'est porteur d'une autorisation écrite délivrée par l'autorité gestionnaire du domaine.
 
-Les autorisations sont délivrées par les ingénieurs à titre précaire et révocable ; elles porteront indication de la section du chemin de halage à laquelle elles s'appliquent ainsi que de leur durée de validité qui ne pourra excéder deux ans.
+L'autorisation individuelle de circuler visée au premier alinéa peut être délivrée, à la condition qu'elle ne soit pas susceptible d'être une cause de gêne pour la navigation et la sécurité du domaine public fluvial :
 
-Toutefois, les mariniers et les membres de leur famille navigant avec eux peuvent être munis, par les soins d'un ingénieur en chef de la navigation ou de son délégué, d'autorisations écrites individuelles, valables pendant cinq ans, de circuler au moyen d'un cycle, d'un cyclomoteur ou d'un vélomoteur, à deux roues seulement, sur les digues et chemins visés au présent article ; ces autorisations sont valables sur l'ensemble des voies navigables.
+-aux professionnels du transport fluvial et aux membres de leur famille naviguant avec eux ;
 
-La circulation se fera aux risques et périls des bénéficiaires. Elle ne devra jamais gêner la traction ni le halage. Le ministre ou son délégué aura le droit de suspendre, de limiter ou de retirer les autorisations si l'intérêt public le commande.
+-aux entrepreneurs de travaux publics travaillant pour le compte de l'autorité gestionnaire du domaine public fluvial ;
 
-La circulation visée au premier alinéa ne peut être autorisée qu'à la condition qu'elle ne soit pas susceptible d'être une cause de gêne pour l'exploitation de la voie navigable. Si cette circulation est de nature à présenter un caractère onéreux pour l'Etat, l'autorisation est subordonnée à l'obligation pour son bénéficiaire de réparer le dommage causé soit en nature, soit en argent.
+-aux personnes dont l'activité présente un intérêt pour le domaine public fluvial ;
 
-L'autorisation de circuler en automobile ne peut toutefois être donnée qu'aux entrepreneurs de travaux publics travaillant pour le compte du service de la navigation, aux entrepreneurs des services de traction dûment autorisés et exceptionnellement aux personnes dont l'activité présenterait un intérêt vital pour le personnel de la batellerie ou pour celui du service de navigation. Elle est annulée de plein droit dès que le motif de sa délivrance a cessé d'être valable.
+-aux bénéficiaires d'autorisations domaniales dont l'accès aux dépendances occupées n'est pas possible par d'autres voies ;
 
-Sont dispensés d'autorisation quel que soit le mode de transport employé et pour les besoins de leur service, les ingénieurs et agents du service de la navigation, les agents de la force publique, les employés et agents des domaines, des contributions indirectes et des douanes et les facteurs des postes et télécommunications.
+-aux titulaires de la carte de stationnement pour personnes handicapées prévue à l'article L. 241-3-2 du code de l'action sociale et des familles justifiant d'un motif légitime de circulation et de stationnement sur le domaine public visé au premier alinéa ;
+
+-aux cyclistes.
+
+L'autorisation est délivrée à titre individuel, temporaire et précaire. Elle peut être à tout moment suspendue, limitée ou retirée sans indemnité pour des motifs liés à l'exploitation ou à la préservation du domaine public fluvial ou encore à la sécurité de la navigation ou pour tout autre motif d'intérêt général.
+
+L'autorisation comporte la durée de sa validité, le cas échéant, la désignation du véhicule, ainsi que la mention de la section du domaine public concerné. Le bénéficiaire doit être en permanence porteur de l'autorisation. Si le véhicule comporte un pare-brise, l'autorisation y est apposée en évidence de manière à être vue aisément par les agents habilités à constater les infractions.
+
+La circulation se fait aux risques et périls du bénéficiaire. Si cette circulation est de nature à présenter un caractère onéreux pour l'autorité gestionnaire, l'autorisation est subordonnée au paiement d'une indemnité correspondant aux frais engagés.
+
+L'autorisation prend fin de plein droit dès que le motif de sa délivrance a cessé d'être valable.
+
+Par dérogation aux dispositions du premier alinéa, sont dispensés d'autorisation :
+
+-pour les besoins de leur service, les agents de l'autorité gestionnaire du domaine public fluvial, les agents des personnes publiques mentionnées à l'article L. 1 du code général de la propriété des personnes publiques, les personnes chargées de la distribution du courrier et les personnes conduisant un véhicule d'intérêt général défini à l'article R. 311-1 du code de la route ;
+
+-les piétons ;
+
+-les autres usagers lorsque la circulation leur est ouverte dans le cadre d'une superposition d'affectation.
