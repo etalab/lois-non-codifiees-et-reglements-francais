@@ -1,8 +1,8 @@
 # Article 1
 
-I. - Chaque chambre de métiers et de l'artisanat est constituée de trente-six membres répartis entre deux collèges :
+I.-Chaque chambre de métiers et de l'artisanat est constituée de trente-six membres répartis entre deux collèges :
 
-1° Le collège des activités comprend vingt-quatre membres répartis en quatre catégories qui regroupent les activités figurant en annexe au présent décret :
+1° Le collège des activités comprend vingt-quatre membres répartis en quatre catégories qui regroupent les activités figurant en annexe du décret du 2 avril 1998 susvisé :
 
 1. Alimentation ;
 
@@ -16,4 +16,4 @@ Lors de chaque renouvellement des chambres de métiers et de l'artisanat et de l
 
 2° Le collège des organisations professionnelles comprend douze membres.
 
-II. - (Paragraphe modificateur).
+II.-(Paragraphe modificateur).

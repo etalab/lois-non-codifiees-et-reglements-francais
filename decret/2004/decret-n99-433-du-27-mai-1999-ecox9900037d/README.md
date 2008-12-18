@@ -9,4 +9,3 @@
 - [Titre VI : Dispositions applicables à la chambre des métiers et de l'artisanat de Mayotte.](titre-vi)
 - [Titre VII : Dispositions diverses et transitoires.](titre-vii)
 - [Article 38](article-38.md)
-- [Annexe](annexe)
