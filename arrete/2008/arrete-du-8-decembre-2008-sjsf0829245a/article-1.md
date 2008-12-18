@@ -1,0 +1,3 @@
+# Article 1
+
+Le titulaire du certificat de compétences professionnelles 1 (CCP 1) « Participer à des réseaux institutionnels et développer ses propres réseaux en fonction de sa mission » du titre professionnel technicien(ne) médiation services obtient de droit l'unité capitalisable 2 (UC 2) « Etre capable de prendre en compte les caractéristiques des publics pour préparer une action éducative » et l'unité capitalisable 3 (UC 3) « Etre capable de préparer un projet ainsi que son évaluation » du brevet professionnel de la jeunesse, de l'éducation populaire et du sport spécialité « animation sociale ».

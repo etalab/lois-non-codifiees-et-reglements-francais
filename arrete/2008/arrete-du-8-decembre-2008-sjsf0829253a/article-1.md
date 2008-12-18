@@ -1,0 +1,3 @@
+# Article 1
+
+Le titulaire du diplôme d'Etat d'assistant de service social, du diplôme d'Etat d'éducateur spécialisé, du diplôme d'Etat d'éducateur de jeunes enfants, du diplôme d'Etat d'éducateur technique spécialisé ou du diplôme d'Etat de conseiller en économie sociale familiale obtient de droit l'unité capitalisable 1 (UC 1) « Etre capable de concevoir un projet d'action » et l'unité capitalisable 2 (UC 2) « Etre capable de coordonner la mise en œuvre d'un projet d'action » du diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport, spécialité « animation socio-éducative ou culturelle ».

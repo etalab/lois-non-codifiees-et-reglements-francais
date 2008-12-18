@@ -9,3 +9,4 @@
 - [Article 227-6.07](article-227-6-07.md)
 - [Article 227-6.08](article-227-6-08.md)
 - [Article 227-6.09](article-227-6-09.md)
+- [Article 227-6.10](article-227-6-10.md)

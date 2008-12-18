@@ -1,0 +1,3 @@
+# Article 2
+
+Le titulaire du certificat de compétences professionnelles 3 (CCP 3) « Promouvoir et organiser des activités supports à la médiation sociale » du titre professionnel technicien(ne) médiation services obtient de droit l'unité capitalisable 3 UC 3) « Etre capable de préparer un projet ainsi que son évaluation », l'unité capitalisable 4 (UC 4) « Etre capable de participer au fonctionnement de la structure » et l'unité capitalisable 8 (UC 8) « Etre capable de conduire une action d'animation visant l'expression et le développement de la relation sociale, l'insertion sociale ou le maintien de l'autonomie de la personne » du brevet professionnel de la jeunesse, de l'éducation populaire et du sport, spécialité « animation sociale ».

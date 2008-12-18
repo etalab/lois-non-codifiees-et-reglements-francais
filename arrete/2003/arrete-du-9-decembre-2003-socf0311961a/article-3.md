@@ -1,11 +1,11 @@
 # Article 3
 
-Le titre professionnel de technicien(ne) supérieur(e) gestionnaire de ressources informatiques est composé de trois unités constitutives dont la liste suit :
+Le titre professionnel de technicien (ne) supérieur (e) gestionnaire exploitant (e) de ressources informatiques est composé des trois unités constitutives dont la liste suit :
 
-1. Assurer l'administration et l'exploitation courantes de tout ou partie des ressources informatiques.
+1. Assurer l'administration et l'exploitation courantes d'un serveur, d'un réseau et des postes de travail connectés.
 
-2. Mettre en exploitation, ou remettre en exploitation suite à un incident, tout ou partie des ressources informatiques.
+2. Exploiter et mettre en exploitation les ressources d'un système informatique.
 
-3. Apporter aux décideurs les éléments nécessaires à la supervision de la production informatique.
+3. Proposer aux décideurs des solutions techniquement et financièrement valides lors des évolutions du système informatique.
 
-Elles peuvent être sanctionnées par des certificats de compétences professionnelles (CCP) dans les conditions prévues par l'arrêté du 25 novembre 2002 susvisé.
+Elles peuvent être sanctionnées par des certificats de compétences professionnelles (CCP) dans les conditions prévues par l'arrêté du 9 mars 2006 susvisé.
