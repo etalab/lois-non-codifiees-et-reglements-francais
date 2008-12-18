@@ -1,6 +1,6 @@
 # Article 1
 
-Le titre professionnel technicien(ne) supérieur(e) gestionnaire de ressources informatiques est créé (ancien intitulé : technicien supérieur en informatique de gestion production-exploitation).
+Le titre professionnel technicien (ne) supérieur (e) gestionnaire exploitant (e) de ressources informatiques est créé (ancien intitulé : technicien supérieur en informatique de gestion production-exploitation).
 
 Il est délivré dans les conditions prévues par l'arrêté du 25 novembre 2002 susvisé.
 

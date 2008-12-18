@@ -1,6 +1,6 @@
 # Article 1
 
-Le titre professionnel de technicien (ne) supérieur (e) en réseaux et télécommunications d'entreprise est créé.
+Le titre professionnel de technicien(ne) supérieur(e) en réseaux informatiques et télécommunications est créé.
 
 Il est délivré dans les conditions prévues par l'arrêté du 25 novembre 2002 susvisé.
 
