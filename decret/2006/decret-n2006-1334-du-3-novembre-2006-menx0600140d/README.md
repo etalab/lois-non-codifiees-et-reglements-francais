@@ -3,6 +3,6 @@
 - [Chapitre Ier : Le conseil de l'agence.](chapitre-ier)
 - [Chapitre II : Le président de l'agence.](chapitre-ii)
 - [Chapitre III : Les sections de l'agence.](chapitre-iii)
-- [Chapitre IV : Les comités d'évaluation de l'agence.](chapitre-iv)
+- [Chapitre IV : Les comités d'experts et les rapports d'évaluation de l'agence.](chapitre-iv)
 - [Chapitre V : Règles de déontologie de l'agence.](chapitre-v)
 - [Chapitre VI : Dispositions transitoires et finales.](chapitre-vi)

@@ -10,7 +10,9 @@ Le conseil de l'agence délibère sur :
 
 4° Un programme pluriannuel d'évaluation compatible avec les échéances des procédures de contractualisation des établissements avec l'Etat ;
 
-5° La validation des avis des sections et des rapports de synthèse préparés par les sections au vu des rapports des comités d'évaluation ; le conseil peut confier la validation de ces avis et rapports à des formations spécialisées constituées en son sein pour chaque section et composées d'au moins cinq membres ;
+5° La validation des avis des sections et des rapports de synthèse préparés par les sections au vu des rapports d'évaluation.
+
+Le conseil peut confier la validation de ces avis et rapports à des formations spécialisées constituées en son sein sur proposition du président et composées d'au moins cinq membres ;
 
 6° Le rapport annuel prévu à l'article L. 114-3-7 du code de la recherche ;
 
@@ -19,3 +21,5 @@ Le conseil de l'agence délibère sur :
 8° Le règlement intérieur de l'agence.
 
 Le conseil arrête, sur proposition du président, l'organisation et le règlement des services et sections de l'agence.
+
+9° Les conditions de remboursement, dans la limite des montants réellement engagés, des frais de déplacement et de séjour exposés par l'ensemble des personnes intervenant pour le compte de l'agence ainsi que par son président.

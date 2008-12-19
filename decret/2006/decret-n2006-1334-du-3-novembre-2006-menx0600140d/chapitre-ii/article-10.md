@@ -1,6 +1,8 @@
 # Article 10
 
-Le président de l'agence établit une liste des personnalités, françaises ou étrangères, parmi lesquelles sont choisis les membres des comités d'évaluation prévus à l'article 12 sur proposition :
+Le président de l'agence établit une liste d'experts, français ou étrangers, parmi lesquels sont choisis les membres des comités d'experts.
+
+Cette liste est établie sur proposition :
 
 1° Des membres du conseil et des directeurs des sections ;
 
