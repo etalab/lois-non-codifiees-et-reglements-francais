@@ -699,7 +699,6 @@
 - [Arrêté du 30 décembre 2004 (AGRB0402528A)](arrete-du-30-decembre-2004-agrb0402528a)
 - [Arrêté du 30 décembre 2004 (AGRB0402529A)](arrete-du-30-decembre-2004-agrb0402529a)
 - [Arrêté du 30 décembre 2004 (AGRB0402530A)](arrete-du-30-decembre-2004-agrb0402530a)
-- [Arrêté du 30 décembre 2004 (AGRB0402531A)](arrete-du-30-decembre-2004-agrb0402531a)
 - [Arrêté du 30 décembre 2004 (EQUT0401775A)](arrete-du-30-decembre-2004-equt0401775a)
 - [Arrêté du 30 décembre 2004 (MCCF0401008A)](arrete-du-30-decembre-2004-mccf0401008a)
 - [Arrêté du 30 décembre 2005 (AGRS0502880A)](arrete-du-30-decembre-2005-agrs0502880a)
