@@ -14,7 +14,7 @@ b) Précise, dans les documents de la consultation, la nature des achats envisag
 
 c) Offre par voie électronique, dès la publication de l'avis et jusqu'à expiration du système, un accès libre, direct et complet aux documents de la consultation et indique dans l'avis l'adresse internet à laquelle ces documents peuvent être consultés.
 
-3° Le système est ouvert pendant toute sa durée à tous les opérateurs économiques satisfaisant aux critères de sélection et ayant présenté une offre indicative conforme aux documents de la consultation et aux documents complémentaires éventuels. Les offres indicatives peuvent être améliorées à tout moment.
+3° Le système est ouvert pendant toute sa durée à tous les opérateurs économiques satisfaisant aux critères de sélection et ayant présenté une offre indicative conforme aux documents de la consultation et aux documents complémentaires éventuels. Les offres indicatives peuvent être améliorées à tout moment à condition qu'elles demeurent conformes aux documents de la consultation.
 
 Le pouvoir adjudicateur procède à l'évaluation des candidatures et des offres indicatives dans un délai maximum de quinze jours à compter de leur présentation. Il peut prolonger cette période d'évaluation pour autant qu'il n'engage, entre-temps, aucune procédure de passation de marché dans le cadre du système d'acquisition dynamique susceptible d'intéresser les candidats évalués. Le pouvoir adjudicateur informe sans délai les opérateurs de leur admission dans le système d'acquisition dynamique ou du rejet de leur candidature ou de leur offre indicative.
 

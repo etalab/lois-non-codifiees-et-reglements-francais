@@ -4,3 +4,5 @@
 - [Section 2 : Procédures négociées.](section-2)
 - [Section 3 : Procédure de dialogue compétitif.](section-3)
 - [Section 4 : Concours.](section-4)
+- [Section 5 : Marché de conception-réalisation.](section-5)
+- [Section 6 : Marché de maîtrise d'œuvre.](section-6)

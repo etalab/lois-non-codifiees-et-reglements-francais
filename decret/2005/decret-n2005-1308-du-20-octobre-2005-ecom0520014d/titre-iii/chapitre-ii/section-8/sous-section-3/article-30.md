@@ -8,6 +8,8 @@ L'entité adjudicatrice ne peut recourir aux enchères électroniques de façon 
 
 III. - L'enchère électronique porte sur le prix, sur d'autres critères quantifiables ou à la fois sur le prix et d'autres critères quantifiables.
 
+Elle intervient après une première évaluation complète des offres, mettant en œuvre le cas échéant les critères non quantifiables au sens de l'alinéa précédent, et permettant d'effectuer leur classement final sur la base d'un traitement automatisé.
+
 IV. - L'entité adjudicatrice qui décide de recourir à une enchère électronique en fait mention dans l'avis d'appel à concurrence.
 
 Les documents de la consultation comportent, au moins, les informations suivantes :
@@ -26,7 +28,7 @@ Les documents de la consultation comportent, au moins, les informations suivante
 
 V. - L'enchère électronique commence après que les offres ont été évaluées au regard des critères ne faisant pas l'objet de l'enchère.
 
-Tous les candidats ayant présenté des offres recevables au sens du I de l'article 29 sont invités simultanément par voie électronique à participer à l'enchère en présentant de nouveaux prix ou de nouvelles valeurs.
+Tous les candidats ayant présenté des offres conformes au sens du I de l'article 29 sont invités simultanément par voie électronique à participer à l'enchère en présentant de nouveaux prix ou de nouvelles valeurs.
 
 Lorsque le choix de l'attributaire du marché n'est pas fondé sur le seul critère du prix, l'invitation adressée à chaque candidat est accompagnée du résultat de l'évaluation de son offre réalisée en application du premier alinéa.
 

@@ -1,5 +1,0 @@
-# Article 1
-
-Lorsque, en application du I de l'article 18 de la loi du 12 juillet 1985 susvisée, le maître de l'ouvrage confie par contrat à un groupement de personnes de droit privé ou, pour les seuls ouvrages d'infrastructure, à une personne de droit privé une mission portant à la fois sur l'établissement des études et l'exécution des travaux, il passe un contrat dit de conception-réalisation.
-
-Il ne peut recourir au contrat de conception-réalisation que si l'association de l'entrepreneur aux études est nécessaire pour réaliser l'ouvrage, en raison de motifs techniques liés à sa destination ou à sa mise en oeuvre technique. Sont concernées des opérations dont la finalité majeure est une production dont le processus conditionne la conception, la réalisation et la mise en oeuvre ainsi que des opérations dont les caractéristiques intrinsèques (dimensions exceptionnelles, difficultés techniques particulières) appellent une exécution dépendant des moyens et de la technicité des entreprises.

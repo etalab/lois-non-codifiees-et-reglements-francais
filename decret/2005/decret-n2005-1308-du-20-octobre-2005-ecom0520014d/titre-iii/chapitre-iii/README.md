@@ -3,3 +3,5 @@
 - [Section 1 : Procédure négociée avec mise en concurrence préalable.](section-1)
 - [Section 2 : Appel d'offres.](section-2)
 - [Section 3 : Concours.](section-3)
+- [Section 5 : Marché de conception-réalisation](section-5)
+- [Section 6 : Marché de maîtrise d'œuvre](section-6)

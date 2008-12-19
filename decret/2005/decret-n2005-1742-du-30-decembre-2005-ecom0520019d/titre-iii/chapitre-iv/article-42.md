@@ -1,12 +1,12 @@
 # Article 42
 
-I. - Les accords-cadres définis à l'article 1er de l'ordonnance du 6 juin 2005 susvisée sont passés selon la procédure de l'appel d'offres, du marché négocié ou du dialogue compétitif dans les conditions prévues par les chapitres Ier à IV du présent titre. Ils peuvent prévoir un minimum et un maximum en valeur ou en quantité ou être conclus sans minimum ni maximum.
+I. - Les accords-cadres définis à l'article 1er de l'ordonnance du 6 juin 2005 susvisée sont passés selon les procédures et dans les conditions prévues par les chapitres Ier à IV du présent titre. Dans ces accords, le pouvoir adjudicateur a la faculté de prévoir un minimum et un maximum en valeur ou en quantité, ou un minimum, ou un maximum, ou encore être conclus sans minimum ni maximum.
 
 II. - Les marchés passés sur le fondement d'un accord-cadre sont des documents écrits qui précisent les caractéristiques des prestations demandées qui n'ont pas été fixées dans l'accord-cadre. La conclusion des marchés passés sur le fondement d'un accord-cadre intervient soit lors de la survenance du besoin, soit selon une périodicité prévue par l'accord-cadre.
 
 III. - Lorsqu'un accord-cadre est attribué à plusieurs opérateurs économiques, ceux-ci sont au moins au nombre de trois, sous réserve d'un nombre suffisant d'offres conformes au sens du I de l'article 24. Les marchés qui sont passés sur le fondement de cet accord sont précédés d'une mise en concurrence organisée entre les titulaires de l'accord-cadre et respectent les dispositions suivantes :
 
-1° Lorsque la remise en concurrence est organisée au moment de la survenance du besoin et que le contrat a été divisé en lots ne portant pas sur les mêmes prestations, seuls sont consultés les titulaires des lots correspondant à l'objet du marché fondé sur l'accord-cadre.
+1° Lorsque la remise en concurrence est organisée au moment de la survenance du besoin et que le contrat a été divisé en lots, seuls sont consultés les titulaires des lots correspondant à l'objet du marché fondé sur l'accord-cadre.
 
 2° Lorsque la remise en concurrence est organisée selon une périodicité prévue par l'accord-cadre, elle porte sur tous les lots.
 

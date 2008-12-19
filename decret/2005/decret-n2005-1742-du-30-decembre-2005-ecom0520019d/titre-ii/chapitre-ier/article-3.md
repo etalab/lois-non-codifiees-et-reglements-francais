@@ -21,3 +21,5 @@ V. - Lorsque les performances ou les exigences fonctionnelles définies en appli
 4° Que l'éco-label soit accessible à toutes les parties intéressées.
 
 Le pouvoir adjudicateur peut indiquer dans les documents de la consultation que les produits ou services ayant obtenu un éco-label sont présumés satisfaire aux caractéristiques environnementales mentionnées dans les spécifications techniques mais est tenu d'accepter tout moyen de preuve approprié.
+
+VI. - Le pouvoir adjudicateur peut exiger que les candidats joignent une traduction en français, certifiée conforme à l'original par un traducteur assermenté, aux documents rédigés dans une autre langue qu'ils remettent en application du présent article.

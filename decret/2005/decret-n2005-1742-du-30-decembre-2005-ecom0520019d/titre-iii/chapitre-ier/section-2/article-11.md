@@ -4,7 +4,7 @@ I. - Le montant estimé du ou des marchés destinés à satisfaire un besoin est
 
 Le pouvoir adjudicateur ne peut pas se soustraire à l'application du présent décret en scindant ses achats ou en utilisant des modalités de calcul de la valeur estimée des marchés autres que celles prévues par le présent article.
 
-1° En ce qui concerne les travaux, sont prises en compte la valeur globale des travaux se rapportant à une opération portant sur un ou plusieurs ouvrages ainsi que la valeur des fournitures et services nécessaires à leur réalisation que le pouvoir adjudicateur met à disposition de l'opérateur.
+1° En ce qui concerne les travaux, sont prises en compte la valeur globale des travaux se rapportant à une opération portant sur un ou plusieurs ouvrages ainsi que la valeur des fournitures nécessaires à leur réalisation que le pouvoir adjudicateur met à disposition de l'opérateur.
 
 Il y a opération de travaux lorsque le pouvoir adjudicateur prend la décision de mettre en oeuvre, dans une période de temps et un périmètre limités, un ensemble de travaux caractérisé par son unité fonctionnelle, technique ou économique.
 

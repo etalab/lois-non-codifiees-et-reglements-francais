@@ -8,6 +8,6 @@ Pour les marchés passés en application d'un système d'acquisition dynamique, 
 
 II. - L'avis d'appel à concurrence est envoyé pour publication au Journal officiel de l'Union européenne.
 
-Lorsque le pouvoir adjudicateur décide d'ajouter à la publication mentionnée à l'alinéa précédent une autre publication, l'avis destiné à cette autre publication ne peut être envoyé avant l'envoi de l'avis à l'Office des publications officielles de l'Union européenne, dont il mentionne la date, et ne peut fournir de renseignements autres que ceux qui sont publiés au Journal officiel de l'Union européenne ou publiés sur un profil d'acheteur.
+Lorsque le pouvoir adjudicateur décide d'ajouter à la publication mentionnée à l'alinéa précédent une autre publication, l'avis destiné à cette autre publication ne peut être envoyé avant l'envoi de l'avis à l'Office des publications officielles de l'Union européenne, dont il mentionne la date, et ne peut fournir plus de renseignements que ceux qui sont publiés au Journal officiel de l'Union européenne ou publiés sur un profil d'acheteur.
 
 Le pouvoir adjudicateur doit être en mesure de faire la preuve de la date d'envoi des avis.

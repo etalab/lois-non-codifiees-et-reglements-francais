@@ -1,16 +1,18 @@
 # Article 7
 
-I.-Au-dessus du seuil de 412 000 Euros HT pour les marchés de fournitures et de services et du seuil de 5 150 000 Euros HT pour les marchés de travaux, les marchés et les accords-cadres sont passés selon l'une des procédures formalisées suivantes, librement choisie par l'entité adjudicatrice :
+I.-Au-dessus du seuil de 412 000 euros HT pour les marchés de fournitures et de services et du seuil de 5 150 000 euros HT pour les marchés de travaux, les marchés et les accords-cadres sont passés selon l'une des procédures formalisées suivantes, librement choisie par l'entité adjudicatrice :
 
 1° La procédure négociée avec mise en concurrence préalable ;
 
 2° L'appel d'offres ouvert ou restreint ;
 
-3° La procédure du concours.
+3° La procédure du concours ;
+
+4° Le système d'acquisition dynamique.
 
 II.-Les entités adjudicatrices peuvent également recourir à la procédure négociée sans mise en concurrence préalable dans les cas suivants :
 
-1° Pour les marchés qui n'ont fait l'objet d'aucune offre ou d'aucune offre appropriée ou pour lesquels aucune candidature n'a été déposée dans le cadre d'une procédure formalisée, pour autant que les conditions initiales du marché ne soient pas substantiellement modifiées ;
+1° Pour les marchés qui n'ont fait l'objet d'aucune offre ou d'aucune offre appropriée ou pour lesquels aucune candidature n'a été déposée dans le cadre d'une procédure formalisée, pour autant que les conditions initiales du marché ne soient pas substantiellement modifiées est qualifiée d'inappropriée une offre présentant une réponse sans rapport avec le besoin de l'entité adjudicatrice qui équivaut à une absence d'offre ;
 
 2° Pour les marchés conclus uniquement à des fins de recherche, d'essai, d'expérimentation, d'étude ou de développement sans objectif de rentabilité ou de récupération des coûts de recherche et de développement et dans la mesure où la passation d'un tel marché ne porte pas préjudice à la mise en concurrence des marchés subséquents qui poursuivent notamment un tel objectif ;
 
@@ -40,4 +42,4 @@ Le premier marché doit avoir indiqué la possibilité de recourir à cette proc
 
 12° Pour les marchés de services qui sont attribués à un ou plusieurs lauréats d'un concours. Lorsqu'il y a plusieurs lauréats, ils sont tous invités à négocier.
 
-III.-Les marchés peuvent également être passés sur la base d'un accord-cadre ou d'un système d'acquisition dynamique conformément aux articles 42 et 43.
+III. - Les marchés peuvent également être passés sur la base d'un accord-cadre conformément à l'article 42.

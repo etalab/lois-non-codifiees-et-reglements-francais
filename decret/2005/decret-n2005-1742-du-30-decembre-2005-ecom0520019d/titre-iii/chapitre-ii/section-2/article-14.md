@@ -12,4 +12,6 @@ II. - Les règles ci-après sont applicables aux dispositifs de transmission et 
 
 3° La transmission des candidatures et des offres fait l'objet d'une date certaine de réception ;
 
-4° Toutes les mesures techniques nécessaires, notamment de cryptage et de sécurité, sont prises pour que personne ne puisse avoir accès aux données transmises par les candidats avant les dates limites de réception des candidatures et des offres, et que toute violation de cette interdiction soit facilement détectable.
+4° Toutes les mesures techniques nécessaires, notamment de cryptage et de sécurité, sont prises pour que personne ne puisse avoir accès aux données transmises par les candidats avant les dates limites de réception des candidatures et des offres, et que toute violation de cette interdiction soit facilement détectable ;
+
+5° Lorsque les candidats transmettent leurs documents par voie électronique, ils peuvent adresser au pouvoir adjudicateur, sur support papier ou sur support physique électronique, une copie de sauvegarde des documents établie selon des modalités fixées par arrêté du ministre chargé de l'économie. Cette copie ne peut être prise en considération que si elle est parvenue au pouvoir adjudicateur dans le délai prescrit pour le dépôt, selon le cas, des candidatures ou des offres.

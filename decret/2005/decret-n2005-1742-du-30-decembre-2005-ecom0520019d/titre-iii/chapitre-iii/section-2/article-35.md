@@ -18,6 +18,4 @@ Cette lettre de consultation comporte au moins :
 
 7° La pondération des critères d'attribution du marché ou, le cas échéant, leur hiérarchisation, si ces renseignements ne figurent pas dans l'avis d'appel à concurrence ou dans les documents de la consultation.
 
-II. - Les renseignements complémentaires sont envoyés aux opérateurs économiques qui les demandent en temps utile, six jours au plus tard avant la date limite fixée pour la réception des offres.
-
-En cas de délais réduits du fait de l'urgence, ces renseignements sont communiqués quatre jours au plus tard avant la date limite fixée pour la réception des offres.
+II. - Les renseignements complémentaires sont envoyés aux opérateurs économiques qui les demandent en temps utile, six jours au plus tard avant la date limite fixée pour la réception des offres. Ce délai est ramené à quatre jours en cas de délais réduits du fait de l'urgence.

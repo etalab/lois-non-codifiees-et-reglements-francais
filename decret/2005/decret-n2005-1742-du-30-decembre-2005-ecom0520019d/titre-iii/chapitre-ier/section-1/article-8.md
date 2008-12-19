@@ -4,13 +4,13 @@ Sont soumis, en ce qui concerne leur passation, aux règles prévues par le pré
 
 1° Services d'entretien et de réparation ;
 
-2° Services de transports terrestres, y compris les services de véhicules blindés et les services de courrier ;
+2° Services de transports terrestres, y compris les services de véhicules blindés et les services de courrier, à l'exclusion des services de transports ferroviaires ;
 
 3° Services de transports aériens de voyageurs et de marchandises ;
 
 4° Services de transports de courrier par transport terrestre et par air ;
 
-5° Services de télécommunications ;
+5° Services des communications électroniques ;
 
 6° Services financiers : services d'assurances, services bancaires et d'investissement, sous réserve des dispositions des 2° et 3° de l'article 7 de l'ordonnance du 6 juin 2005 susvisée ;
 

@@ -8,6 +8,8 @@ Le pouvoir adjudicateur ne peut recourir aux enchères électroniques de façon 
 
 III. - L'enchère électronique porte sur le prix, sur d'autres critères quantifiables ou à la fois sur le prix et d'autres critères quantifiables.
 
+Elle intervient après une première évaluation complète des offres, mettant en œuvre le cas échéant les critères non quantifiables au sens de l'article précédent, et permettant d'effectuer leur classement final sur la base d'un traitement automatisé.
+
 IV. - Le pouvoir adjudicateur qui décide de recourir à une enchère électronique en fait mention dans l'avis d'appel à concurrence.
 
 Les documents de la consultation comportent, au moins, les informations suivantes :

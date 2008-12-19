@@ -2,9 +2,7 @@
 
 Le concours est la procédure par laquelle l'entité adjudicatrice choisit, après mise en concurrence et avis d'un jury, un plan ou un projet, notamment dans le domaine de l'aménagement du territoire, de l'urbanisme, de l'architecture, de l'ingénierie ou des traitements de données, avant d'attribuer, à l'un des lauréats du concours, un marché.
 
-Le concours peut être ouvert ou restreint.
-
-Sans préjudice des prescriptions particulières prévues par le titre Ier du décret n° 93-1269 du 29 novembre 1993 susvisé, la procédure de concours se déroule ainsi qu'il suit.
+Le concours peut être ouvert ou restreint. La procédure de concours se déroule ainsi qu'il suit.
 
 Un avis de concours est publié dans les conditions de l'article 16.
 
