@@ -6,7 +6,7 @@ En tant que de besoin, l'expérimentation peut déroger aux dispositions suivant
 
 1° Articles L. 162-5, L. 162-5-9, L. 162-9, L. 162-11, L. 162-12-2, L. 162-12-9, L. 162-14, L. 162-14-1 et L. 162-32-1 en tant qu'ils concernent les tarifs, honoraires, rémunérations et frais accessoires dus aux professionnels de santé par les assurés sociaux et par l'assurance maladie ;
 
-2° 1°,2°,6° et 9° de l'article L. 321-1 en tant qu'ils concernent les frais couverts par l'assurance maladie ;
+2° 1°, 2°, 6° et 9° de l'article L. 321-1 en tant qu'ils concernent les frais couverts par l'assurance maladie ;
 
 3° Article L. 162-2 en tant qu'il concerne le paiement direct des honoraires par le malade ;
 
@@ -22,13 +22,13 @@ Une évaluation annuelle de ces expérimentations, portant notamment sur le nomb
 
 II.-A titre expérimental, à compter du 1er janvier 2008 et pour une période n'excédant pas cinq ans, les missions régionales de santé volontaires prévues à l'article L. 162-47 du code de la sécurité sociale fixent, par dérogation à l'article L. 162-5 du même code, le montant et les modalités des rémunérations des médecins assurant la permanence des soins. Elles financent également des actions et des structures concourant à l'amélioration de la permanence des soins, en particulier les maisons médicales de garde, les centres de santé, ainsi que, le cas échéant, des établissements de santé.
 
-A cette fin, les missions régionales de santé se voient déléguer par le fonds d'intervention pour la qualité et la coordination des soins mentionné à l'article L. 221-1-1 du code de la sécurité sociale les crédits nécessaires. Ce fonds précise les limites dans lesquelles les missions régionales de santé fixent les montants des rémunérations des médecins assurant la permanence des soins.
+Un arrêté du ministre chargé de la santé et du ministre chargé de la sécurité sociale précise les limites dans lesquelles les missions régionales de santé fixent les montants des rémunérations des médecins assurant la permanence des soins, ainsi que le montant maximal de dépenses au titre de ces rémunérations pour chaque mission régionale volontaire.
 
-Les missions régionales de santé réalisent annuellement l'évaluation des expérimentations qu'elles ont conduites et la transmettent au fonds d'intervention pour la qualité et la coordination des soins de ville ainsi qu'au Parlement.
+Les missions régionales de santé réalisent annuellement l'évaluation des expérimentations qu'elles ont conduites et la transmettent aux ministres chargés de la santé et de la sécurité sociale ainsi qu'au Parlement.
 
 Les modalités de mise en oeuvre de ces expérimentations sont déterminées par décret, après avis du Conseil national de l'ordre des médecins et des organisations syndicales représentatives des médecins.
 
-III. à V. - A modifié les dispositions suivantes
+III. à V.-A modifié les dispositions suivantes
 
 Code de la sécurité sociale
 

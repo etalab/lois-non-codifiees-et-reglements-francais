@@ -18,7 +18,7 @@ Il peut également financer des dépenses d'investissement d'établissements hos
 
 III. bis-Le fonds est également chargé de verser aux établissements de santé les sommes dues au titre des dépenses évitées par la mise en oeuvre des accords nationaux ou locaux mentionnés à l'article L. 6113-12 du code de la santé publique.
 
-III ter.-Le fonds prend en charge les frais de fonctionnement d'une mission chargée de concevoir les modalités de financement des activités de soins des établissements de santé et de conduire les expérimentations visées au I de l'article 77 de la loi n° 2006-1640 du 21 décembre 2006 de financement de la sécurité sociale pour 2007.
+III ter.-Le fonds peut prendre en charge le financement des missions de conception des modalités de financement des activités de soins des établissements de santé et de conduite des expérimentations prévues au I de l'article 77 de la loi n° 2006-1640 du 21 décembre 2006 de financement de la sécurité sociale pour 2007 exercées par l'agence technique de l'information sur l'hospitalisation
 
 III quater.-Le fonds prend en charge les frais de fonctionnement d'une mission d'expertise et d'audit hospitaliers placée auprès des ministres chargés de la santé et de la sécurité sociale, chargée de procéder ou de faire procéder à des audits de la gestion et de l'organisation de l'ensemble des activités des établissements de santé et de diffuser auprès de ces établissements des références et recommandations de gestion hospitalière.
 

@@ -1,12 +1,12 @@
 # Article 57
 
-I. - L'âge de soixante ans mentionné au 1° du I de l'article L. 24 du code des pensions civiles et militaires de retraite est abaissé pour les fonctionnaires affiliés à la Caisse nationale de retraites des agents des collectivités locales qui justifient, dans ce régime et, le cas échéant, dans un ou plusieurs autres régimes obligatoires, d'une durée d'assurance ou de périodes reconnues équivalentes au moins égales à cent soixante-huit trimestres :
+I. - L'âge de soixante ans mentionné au 1° du I de l'article L. 24 du code des pensions civiles et militaires de retraite est abaissé pour les fonctionnaires affiliés à la Caisse nationale de retraites des agents des collectivités locales qui justifient, dans ce régime et, le cas échéant, dans un ou plusieurs autres régimes obligatoires, d'une durée d'assurance ou de périodes reconnues équivalentes au moins égales à la durée d'assurance ou de services et bonifications définie à l'article 5 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites et applicable l'année où l'assuré atteint l'âge précité, majorée de huit trimestres :
 
-1° A compter du 1er janvier 2008, à cinquante-six ans pour les fonctionnaires qui justifient d'une durée d'activité ayant donné lieu à cotisations à leur charge au moins égale à cent soixante-huit trimestres et ayant débuté leur activité avant l'âge de seize ans ;
+1° A compter du 1er janvier 2008, à cinquante-six ans pour les fonctionnaires qui justifient d'une durée d'activité ayant donné lieu à cotisations à leur charge au moins égale à la durée d'assurance ou de services et bonifications définie au premier alinéa, et ayant débuté leur activité avant l'âge de seize ans ;
 
-2° A compter du 1er juillet 2006, à cinquante-huit ans pour les fonctionnaires qui justifient d'une durée d'activité ayant donné lieu à cotisations à leur charge au moins égale à cent soixante-quatre trimestres et ayant débuté leur activité avant l'âge de seize ans ;
+2° A compter du 1er juillet 2006, à cinquante-huit ans pour les fonctionnaires qui justifient d'une durée d'activité ayant donné lieu à cotisations à leur charge au moins égale à la durée d'assurance ou de services et bonifications définie au premier alinéa, minorée de quatre trimestres, et ayant débuté leur activité avant l'âge de seize ans ;
 
-3° A compter du 1er janvier 2005, à cinquante-neuf ans pour les fonctionnaires qui justifient d'une durée d'activité ayant donné lieu à cotisations à leur charge au moins égale à cent soixante trimestres et ayant débuté leur activité avant l'âge de dix-sept ans.
+3° A compter du 1er janvier 2005, à cinquante-neuf ans pour les fonctionnaires qui justifient d'une durée d'activité ayant donné lieu à cotisations à leur charge au moins égale à la durée d'assurance ou de services et bonifications définie au premier alinéa, minorée de huit trimestres, et ayant débuté leur activité avant l'âge de dix-sept ans.
 
 Pour l'application de la condition d'âge de début d'activité définie au 1°, au 2° et au 3°, sont considérés comme ayant débuté leur activité avant l'âge de seize ou dix-sept ans les fonctionnaires justifiant :
 
