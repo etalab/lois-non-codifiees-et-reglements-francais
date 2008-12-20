@@ -1,113 +1,131 @@
 # Article Annexe II
 
-I NOTIONS DE DROIT MARITIME
+**PROGRAMME DES MATIERES TECHNIQUES DU CONCOURS**
 
-1. DROIT PRIVE
+I. TECHNOLOGIE DU NAVIRE :
 
-1.1 Le navire
+1. Description et principales caractéristiques du navire : la coque, oeuvres vives et oeuvres mortes, longueurs, largeurs, creux, jauges, tirants d'eau, déplacement.
 
-Nationalité, propriété
+2. Construction du navire :
 
-1.2 Le navire, élément du patrimoine
+- les différents matériaux utilisés : bois, métaux, résine armée, ferrociment, tissus caoutchoutés,
 
-Le crédit tiré du navire (hypothèque, privilèges), la responsabilité du propriétaire du navire, droit des créanciers sur le navire.
+- résistance des matériaux à la flexion, au cisaillement, à la torsion, au flambage,
 
-1.3 L'exploitation du navire
+- mise en oeuvre des matériaux : découpage, usinage, formage, assemblage,
 
-Les formes juridiques de l'armement, les opérations principales d'exploitation du navire (les contrats d'affrètement, le contrat de transport), les ventes maritimes.
+- plans du navire,
 
-1.4 Les événements de mer
+- charpente du navire : quille, varangues, membrures, porques, barrots, carlingues, lisses, hiloires,
 
-Abordage, assistance et sauvetage, avaries communes.
+- bordés de fond, de murailles, de pont,
 
-1.5 Les assurances maritimes
+- ouvertures dans les bordés et moyens d'obturation : différents types de panneaux de cales, portes,
 
-2. DROIT PUBLIC INTERNATIONAL
+- superstructures et roofs.
 
-2.1 Les eaux intérieures
+3. Propulsion par moteurs diesel :
 
-Nature juridique, étendue, condition juridique des navires de guerre et de commerce étrangers dans les eaux intérieures.
+- principe des moteurs à deux et quatre temps,
 
-2.2 La mer territoriale
+- description des organes principaux,
 
-Nature juridique, étendue, problème de la zone contiguë, régime juridique.
+- alimentation en combustible : circuit et différents organes,
 
-2.3 Le plateau continental
+- alimentation en air,
 
-Nature juridique, étendue, régime juridique.
+- graissage : circuit, différents organes,
 
-2.4 La haute mer
+- refroidissement,
 
-Nature juridique, régime juridique, police de la haute mer, utilisation économique.
+- évacuation des gaz brûlés,
 
-2.5 La guerre maritime
+- appareils de contrôle et mesures de sécurité,
 
-Notions
+- télécommandes, télécontrôles, automatismes (notions),
 
-II NOTIONS DE DROIT PENAL ET DE PROCEDURE PENALE
+- réducteurs,
 
-1. DROIT PENAL
+- arbres et paliers,
 
-L'infraction, la tentative et la complicité.
+- hélices.
 
-La classification des infractions : crimes, délits, contraventions.
+4. Electricité à bord des navires :
 
-Echelle des peines, étude sommaire de chacune des peines.
+- courants alternatif et continu,
 
-L'imputabilité, les faits justificatifs, les excuses, la minorité pénale, les circonstances atténuantes, la récidive, le casier judiciaire, le sursis, la grâce, l'amnistie, la réhabilitation.
+- moteurs synchrones et asynchrones,
 
-2. PROCEDURE PENALE
+- production : lignes, tableaux, protections,
 
-L'action publique et l'action civile.
+- conduite des installations électriques, dangers.
 
-Les preuves en matière pénale.
+5. Installations hydrauliques : production, utilisation.
 
-La police judiciaire et l'instruction.
+6. Installations frigorifiques : production, conduite, dangers.
 
-Les juridictions répressives : organisation, compétence, procédure.
+7. Appareils à gouverner et gouvernails :
 
-Les voies de recours.
+- différents types,
 
-III NOTIONS DE DROIT SOCIAL
+- fonctionnement, commande, contrôles.
 
-1. DROIT DU TRAVAIL.
+8. Apparaux de mouillage, d'amarrage et de levage, cas des grands navires.
 
-1.1 Objet, nature et caractères fondamentaux du droit de travail
+9. Description des différents types de navires à propulsion mécanique :
 
-1.2 Les sources du droit du travail, l'organisation et les services administratifs
+- navires à passagers,
 
-1.3 Les rapports individuels de travail
+- navires transportant des marchandises diverses : cargos, porte-conteneurs, rouliers, porte-bagages, polythermes,
 
-Définition et critère du contrat de travail.
+- navires transportant des marchandises liquides en vrac : pétroliers, sourriers, transporteurs de gaz, de produits chimiques,
 
-Principe de la liberté du travail. Apprentissage et formation professionnelle. Restrictions légales (mineurs, femmes, étrangers, contrôle de l'embauchage).
+- navires transportant des marchandises sèches en vrac : vraquiers, minéraliers, aluminiers, sabliers,
 
-Restrictions conventionnelles.
+- navires de servitude : remorqueurs, dragues, câbliers, navires de l'off-shore,
 
-Conditions de formation et preuve du contrat.
+- navires de pêche : chalutiers, dragueurs, ligneurs, senneurs, caseyeurs,
 
-Le salaire (forme, montant, modalités et garanties de paiement).
+- navires de plaisance.
 
-La réglementation des conditions de travail (durée, repos hebdomadaire, congés payés).
+II. SECURITE DE LA NAVIGATION :
 
-La cessation du contrat de travail.
+1. Protection contre l'envahissement :
 
-Les litiges individuels.
+- franc bord,
 
-1.4 Les rapports collectifs
+- stabilité transversale,
 
-L'entreprise : règlement intérieur, délégués du personnel, comités d'entreprise.
+- compartimentage, portes étanches,
 
-Les syndicats.
+- assèchement : circuit.
 
-Les conventions collectives.
+2. Protection contre l'incendie :
 
-Les conflits collectifs du travail.
+- classification des incendies,
 
-2. LA SECURITE SOCIALE (NOTIONS SOMMAIRES)
+- cloisonnement, porte d'incendie,
 
-2.1 Les assurances sociales
+- ventilation : arrêt, obturation,
 
-2.2 Les prestations familiales
+- détection : différents moyens,
 
-2.3 Les accidents du travail
+- lutte contre l'incendie : installations fixes d'extinction par eau sous pression, par eau pulvérisée, par gaz inerte, par mousse,
+
+- extincteurs : différents types, utilisation, matériel d'incendie, équipement de protection, armoires d'incendie, plans.
+
+3. Règlement pour prévenir les abordages : règles de route, feux, signaux sonores, balisage.
+
+4. Documents nautiques.
+
+5. Matériel de navigation (principes, description sommaire)
+
+- compas magnétique et gyroscopiques,
+
+- radiogoniomètre,
+
+- sondeur,
+
+- radar.
+
+6. Matériel de sauvetage.
