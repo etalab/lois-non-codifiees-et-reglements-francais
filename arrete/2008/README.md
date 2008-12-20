@@ -226,7 +226,6 @@
 - [Arrêté du 8 septembre 2008 (DEFD0822470A)](arrete-du-8-septembre-2008-defd0822470a)
 - [Arrêté du 8 septembre 2008 (DEVP0821753A)](arrete-du-8-septembre-2008-devp0821753a)
 - [Arrêté du 8 septembre 2008 (ECES0821714A)](arrete-du-8-septembre-2008-eces0821714a)
-- [Arrêté du 8 septembre 2008 (JUSB0822529A)](arrete-du-8-septembre-2008-jusb0822529a)
 - [Arrêté du 8 septembre 2008 (SJSK0819158A)](arrete-du-8-septembre-2008-sjsk0819158a)
 - [Arrêté du 9 avril 1998 (ECOC9800025A)](arrete-du-9-avril-1998-ecoc9800025a)
 - [Arrêté du 9 avril 2008 (IOCB0809748A)](arrete-du-9-avril-2008-iocb0809748a)
