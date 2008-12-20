@@ -1,102 +1,104 @@
 # Article 2
 
-<div>
-<br/>En application de l'article 3 du décret du 17 septembre 2008 susvisé, la liste des emplois de chef de mission permettant l'accès à l'échelon spécial est :<br/>
-<div align="center">
+En application de l'article 3 du décret du 17 septembre 2008 susvisé, la liste des emplois de chef de mission permettant l'accès à l'échelon spécial est :
 
 <table>
+<tbody>
 <tr>
-<th>
-<br/>SERVICES OU DIRECTIONS</th>
-<th colspan="2">
-<br/>DÉSIGNATION DE L'EMPLOI</th>
+<th>SERVICES OU DIRECTIONS<br/>
+</th>
+<th colspan="2">DÉSIGNATION DE L'EMPLOI<br/>
+</th>
 </tr>
 <tr>
-<td align="center">
-<br/>Agence nationale des fréquences</td>
-<td align="center">
-<br/>Directeur adjoint de la direction technique du contrôle du spectre</td>
+<td align="center">Agence nationale des fréquences<br/>
+</td>
+<td align="center">Directeur adjoint de la direction technique du contrôle du spectre<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Direction des affaires juridiques</td>
-<td align="center">
-<br/>Chef du bureau du personnel et des affaires générales</td>
+<td align="center">Direction des affaires juridiques<br/>
+</td>
+<td align="center">Chef du bureau du personnel et des affaires générales<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Service de la communication</td>
-<td align="center">
-<br/>Chef du bureau des éditions numériques</td>
+<td align="center">Service de la communication<br/>
+</td>
+<td align="center">Chef du bureau des éditions numériques<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Conseil général des mines</td>
-<td align="center">
-<br/>Chargé de mission auprès du président de la section « innovation et entreprises »</td>
+<td align="center">Conseil général des mines<br/>
+</td>
+<td align="center">Chargé de mission auprès du président de la section  innovation et entreprises <br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Service du contrôle général économique et financier</td>
-<td align="center">
-<br/>Responsable de la formation professionnelle</td>
+<td align="center">Service du contrôle général économique et financier<br/>
+</td>
+<td align="center">Responsable de la formation professionnelle<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Direction générale des douanes et droits indirects</td>
-<td align="center">
-<br/>Adjoint au chef du bureau du budget et de la programmation, des affaires financières et du réseau comptable</td>
+<td align="center">Direction générale des douanes et droits indirects<br/>
+</td>
+<td align="center">Adjoint au chef du bureau du budget et de la programmation, des affaires financières et du réseau comptable<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Direction générale des douanes et droits indirects</td>
-<td align="center">
-<br/>Adjoint au chef du bureau du budget et de la programmation, des affaires financières et du réseau comptable, responsable de la section « programmation pluriannuelle et contrôle de gestion »</td>
+<td align="center">Direction générale des douanes et droits indirects<br/>
+</td>
+<td align="center">Adjoint au chef du bureau du budget et de la programmation, des affaires financières et du réseau comptable, responsable de la section  programmation pluriannuelle et contrôle de gestion <br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Délégation générale à l'emploi et à la formation professionnelle</td>
-<td align="center">
-<br/>Chef du bureau « ressources humaines et affaires générales »</td>
+<td align="center">Délégation générale à l'emploi et à la formation professionnelle<br/>
+</td>
+<td align="center">Chef du bureau  ressources humaines et affaires générales <br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Mission « Parlement européen »</td>
-<td align="center">
-<br/>Adjoint au chef de la mission « Parlement européen »</td>
+<td align="center">Mission  Parlement européen <br/>
+</td>
+<td align="center">Adjoint au chef de la mission  Parlement européen <br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Service des pensions</td>
-<td align="center">
-<br/>Chef du bureau de l'accueil des usagers</td>
+<td align="center">Service des pensions<br/>
+</td>
+<td align="center">Chef du bureau de l'accueil des usagers<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Direction des personnels et de l'adaptation de l'environnement professionnel</td>
-<td align="center">
-<br/>Chargé de mission auprès du chef du bureau des politiques sociales</td>
+<td align="center">Direction des personnels et de l'adaptation de l'environnement professionnel<br/>
+</td>
+<td align="center">Chargé de mission auprès du chef du bureau des politiques sociales<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Direction générale du Trésor et de la politique économique</td>
-<td align="center">
-<br/>Chef du bureau « pôle informatique et systèmes d'information »</td>
+<td align="center">Direction générale du Trésor et de la politique économique<br/>
+</td>
+<td align="center">Chef du bureau  pôle informatique et systèmes d'information <br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Secrétariat général</td>
-<td align="center">
-<br/>Chargé de mission au service des systèmes d'information</td>
+<td align="center">Secrétariat général<br/>
+</td>
+<td align="center">Chargé de mission au service des systèmes d'information<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Secrétariat général des affaires européennes</td>
-<td align="center">
-<br/>Chef du bureau « coordination générale, administration du service et informatique »</td>
+<td align="center">Secrétariat général des affaires européennes<br/>
+</td>
+<td align="center">Chef du bureau  coordination générale, administration du service et informatique <br/>
+</td>
 </tr>
+<tr>
+<td> Direction générale de la conccurrence, de la consommation et de la repression des fraudes</td>
+<td>
+<p align="center"> adjoint au directeur du service de l'informatique </p>
+</td>
+</tr>
+</tbody>
 </table>
-
-</div>
-<br/>
-</div>
