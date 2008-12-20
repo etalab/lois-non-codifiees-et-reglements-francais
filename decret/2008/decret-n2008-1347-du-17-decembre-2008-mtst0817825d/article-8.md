@@ -1,0 +1,3 @@
+# Article 8
+
+Pour l'application du présent décret aux entreprises et établissements mentionnés au 1° de l'article L. 4111-4 du code du travail, les expressions : « document unique d'évaluation des risques » ainsi que « délégués du personnel » et « agents de l'inspection du travail » désignent respectivement le « document de sécurité et de santé », les « délégués mineurs, délégués permanents de la surface ou délégués du personnel concernés » selon le cas et s'ils existent et les « agents de l'autorité administrative compétents en matière de police des mines et carrières exerçant les fonctions de l'inspection du travail ».
