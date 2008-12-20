@@ -6,7 +6,7 @@ Pour examiner les questions relatives à l'hygiène et la sécurité du travail,
 
 - auprès du directeur de l'aviation civile, composé de cinq représentants de l'administration et huit représentants du personnel, pour les personnels de la direction de l'aviation civile Centre-Est et du service de la navigation aérienne Centre-Est ;
 
-- auprès du directeur de l'aviation civile, composé de cinq représentants de l'administration et neuf représentants du personnel,  pour les personnels de la direction de l'aviation civile Nord et du service de la navigation aérienne Nord ;
+- auprès du directeur de l'aviation civile, composé de cinq représentants de l'administration et neuf représentants du personnel, pour les personnels de la direction de l'aviation civile Nord et du service de la navigation aérienne Nord ;
 
 - auprès du directeur de l'aviation civile, composé de cinq représentants de l'administration et sept représentants du personnel, pour les personnels de la direction de l'aviation civile Nord-Est et du service de la navigation aérienne Nord-Est ;
 
@@ -56,4 +56,6 @@ Pour examiner les questions relatives à l'hygiène et la sécurité du travail,
 
 - auprès du chef du service d'Etat de l'aviation civile, composé de cinq représentants de l'administration et sept représentants du personnel, pour les personnels du service d'Etat de l'aviation civile Nouvelle-Calédonie ;
 
-- auprès du chef de service du service d'Etat de l'aviation civile, composé de trois représentants de l'administration et cinq représentants du personnel, pour les personnels du service d'Etat de l'aviation civile Polynésie française.
+- auprès du chef de service du service d'Etat de l'aviation civile, composé de trois représentants de l'administration et cinq représentants du personnel, pour les personnels du service d'Etat de l'aviation civile Polynésie française ;
+
+- auprès du chef du service national d'ingénierie aéroportuaire, composé de quatre représentants de l'administration et de six représentants du personnel.

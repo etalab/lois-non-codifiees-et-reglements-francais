@@ -1,9 +1,17 @@
 # Article 4
 
-La sous-direction des professions paramédicales et des personnels hospitaliers comprend :
+La sous-direction des ressources humaines du système de santé comprend :
 
-- le bureau de la formation et de l'exercice des professions paramédicales et des personnels hospitaliers ;
+- le bureau de la démographie et des formations initiales ;
 
-- le bureau des ressources humaines et de la vie au travail ;
+- le bureau de l'exercice, de la déontologie et des formations continues ;
 
-- le bureau des statuts hospitaliers.
+- le bureau de l'organisation des relations sociales et des politiques sociales ;
+
+- le bureau des ressources humaines hospitalières ;
+
+- la cellule des statistiques ;
+
+- la mission des études d'impact et de prospective ;
+
+- la cellule de la gestion.
