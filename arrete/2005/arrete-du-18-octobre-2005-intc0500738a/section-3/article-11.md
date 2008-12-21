@@ -6,4 +6,4 @@ Les attributions des tuteurs sont les suivantes :
 
 - impliquer les élèves dans des situations de travail diversifiées et formatives compatibles avec le strict respect du niveau acquis de leurs connaissances ;
 
-- s'assurer de la bonne utilisation des outils d'accompagnement pédagogique, en collaboration avec les formateurs et les accompagnateurs.
+- s'assurer de la bonne utilisation des outils d'accompagnement pédagogique, en collaboration avec les formateurs et les chefs de brigades ou d'unités.
