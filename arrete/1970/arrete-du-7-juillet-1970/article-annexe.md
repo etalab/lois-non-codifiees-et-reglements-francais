@@ -131,33 +131,13 @@
 <p>Adjoints administratifs</p>
 </td>
 <td>
-<p align="center">3</p>
+<p align="center">4</p>
 </td>
 <td>
-<p align="center">3</p>
+<p align="center">4</p>
 </td>
 <td>
-<pre> </pre>
-</td>
-<td>
-<pre> </pre>
-</td>
-<td>
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td>
-<pre> </pre>
-</td>
-<td>
-<pre> </pre>
-</td>
-<td>
-<pre> </pre>
-</td>
-<td>
-<p>Adjoint administratif principal de 1re classe</p>
+<p>Adjoint administratif principal de 1ere classe </p>
 </td>
 <td>
 <p align="center">1</p>
@@ -197,7 +177,7 @@
 <pre> </pre>
 </td>
 <td>
-<p>Adjoint administratif</p>
+<p>Adjoint administratif de 1ere classe</p>
 </td>
 <td>
 <p align="center">1</p>
@@ -208,9 +188,6 @@
 </tr>
 <tr>
 <td>
-<p align="center">Commission n° 3</p>
-</td>
-<td>
 <pre> </pre>
 </td>
 <td>
@@ -220,24 +197,7 @@
 <pre> </pre>
 </td>
 <td>
-<pre> </pre>
-</td>
-<td>
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td>
-<p>Agents administratifs</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p>Agent administratif</p>
+<p>Adjoint administratif de 2e classe</p>
 </td>
 <td>
 <p align="center">1</p>
