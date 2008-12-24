@@ -10,13 +10,13 @@ Le président de la sixième section (personnels et services) du Conseil génér
 
 La commissaire générale au développement durable.
 
-Le directeur général de l'énergie et du climat.
+Le chargé du service emplois et compétences de la direction des ressources humaines au sein du secrétariat général.
 
 Le directeur général des infrastructures, des transports et de la mer.
 
 Le directeur général de l'aviation civile.
 
-Le directeur général de l'aménagement, du logement et de la nature.
+Le chargé du service de la gestion du personnel de la direction des ressources humaines au sein du secrétariat général.
 
 Le directeur général de la prévention des risques.
 
@@ -44,7 +44,7 @@ La directrice de la recherche et de l'innovation.
 
 Le directeur des affaires maritimes.
 
-La directrice de l'eau et de la biodiversité.
+La chef du département des relations sociales de la direction ressources humaines au sein du secrétariat général.
 
 La directrice du laboratoire des ponts et chaussées.
 
@@ -52,7 +52,7 @@ Le directeur de l'Ecole nationale des travaux publics de l'Etat.
 
 Le directeur de l'Institut géographique national.
 
-Le directeur de l'établissement public Parcs nationaux de France .
+Le directeur de l'établissement public Parcs nationaux de France.
 
 Le directeur général de l'Office national de la chasse et de la faune sauvage.
 
