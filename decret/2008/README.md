@@ -666,6 +666,7 @@
 - [Décret n°2008-1373 du 19 décembre 2008 (BCFS0822796D)](decret-n2008-1373-du-19-decembre-2008-bcfs0822796d)
 - [Décret n°2008-1374 du 19 décembre 2008 (BCFS0826228D)](decret-n2008-1374-du-19-decembre-2008-bcfs0826228d)
 - [Décret n°2008-1375 du 19 décembre 2008 (BCFS0829467D)](decret-n2008-1375-du-19-decembre-2008-bcfs0829467d)
+- [Décret n°2008-1380 du 19 décembre 2008 (DEVE0822050D)](decret-n2008-1380-du-19-decembre-2008-deve0822050d)
 - [Décret n°2008-149 du 19 février 2008 (SJSP0766174D)](decret-n2008-149-du-19-fevrier-2008-sjsp0766174d)
 - [Décret n°2008-150 du 19 février 2008 (JUSD0770028D)](decret-n2008-150-du-19-fevrier-2008-jusd0770028d)
 - [Décret n°2008-151 du 19 février 2008 (SJSF0774660D)](decret-n2008-151-du-19-fevrier-2008-sjsf0774660d)
