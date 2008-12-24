@@ -1,3 +1,0 @@
-# CONTENU DU LIVRET DE FORMATION : À LA GESTION ASSOCIATIVE.
-
-- [Article ANNEXE 3](article-annexe-3.md)
