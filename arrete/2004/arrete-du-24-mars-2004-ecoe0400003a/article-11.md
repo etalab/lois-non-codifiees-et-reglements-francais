@@ -1,3 +1,3 @@
 # Article 11
 
-Le présent arrêté sera publié au Journal officiel de la République française.
+L'arrêté du 30 novembre 2000 fixant certaines conditions d'application du volontariat civil à l'étranger est abrogé.

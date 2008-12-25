@@ -1,3 +1,3 @@
 # Article 6
 
-Toute période de congés passée en France par les VIE de nationalité française est imputée sur la durée de séjour autorisée sur le territoire français.
+Les séjours des VIE sur le territoire français, missions ou congés, font l'objet d'une déclaration écrite de l'organisme d'accueil à UBIFRANCE.

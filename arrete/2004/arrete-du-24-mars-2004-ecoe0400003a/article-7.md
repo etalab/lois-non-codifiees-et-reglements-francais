@@ -1,3 +1,3 @@
 # Article 7
 
-UBIFRANCE assure aux VIE pour le compte des organismes d'accueil visés à l'article L. 122-3 du code du service national le service des prestations prévues à l'article L. 122-14 dudit code.
+Toute période de congés passée en France par les VIE de nationalité française est imputée sur la durée de séjour autorisée sur le territoire français.

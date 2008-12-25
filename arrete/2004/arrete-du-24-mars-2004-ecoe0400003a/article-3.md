@@ -8,4 +8,4 @@ Les VIE peuvent se voir confier toute mission contribuant à l'internationalisat
 
 - la recherche de partenaires, agents ou distributeurs ;
 
-- la création et la mise en place de structures locales.
+- l'appui à la création et à la mise en place de structures locales.
