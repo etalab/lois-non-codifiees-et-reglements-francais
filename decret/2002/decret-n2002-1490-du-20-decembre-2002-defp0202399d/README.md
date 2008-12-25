@@ -4,5 +4,6 @@
 - [Chapitre II : Recrutement.](chapitre-ii)
 - [Chapitre III : Avancement.](chapitre-iii)
 - [Chapitre IV : Formation spécialisée.](chapitre-iv)
+- [Chapitre IV bis : Dispositions spécifiques relatives à la procédure disciplinaire.](chapitre-iv-bis)
 - [Chapitre VI : Dispositions finales.](chapitre-vi)
 - [Article 17](article-17.md)
