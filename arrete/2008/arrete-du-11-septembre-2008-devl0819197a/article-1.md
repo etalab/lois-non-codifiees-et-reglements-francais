@@ -14,7 +14,7 @@ Le chargé du service emplois et compétences de la direction des ressources hum
 
 Le directeur général des infrastructures, des transports et de la mer.
 
-Le directeur général de l'aviation civile.
+Le secrétaire général de la direction générale de l'aviation civile.
 
 Le chargé du service de la gestion du personnel de la direction des ressources humaines au sein du secrétariat général.
 
