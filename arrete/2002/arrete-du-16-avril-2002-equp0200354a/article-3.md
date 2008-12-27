@@ -1,19 +1,23 @@
 # Article 3
 
-I. - Pour les postes définis au II du présent article, le montant maximal déplafonné annuel de la prime de métier est fixé à :
+I.-Pour les postes définis au II du présent article, le montant maximal déplafonné annuel de la prime de métier est fixé à :
 
 4 304 euros pour les personnels à partir du niveau de classification de maître compagnon jusqu'au niveau de classification terminal de chaque filière (chef d'exploitation C, chef d'atelier C, chef magasinier B) et pour les techniciens ;
 
 4 104 euros pour les personnels relevant des niveaux de classification d'ouvrier qualifié, d'ouvrier expérimenté et de compagnon.
 
-II. - Les postes de travail auxquels ces plafonds peuvent être appliqués sont :
+II.-Les postes de travail auxquels ces plafonds peuvent être appliqués sont :
 
-- certains postes liés à l'exploitation, à l'entretien et aux travaux routiers dans les zones connaissant des conditions particulières, notamment climatiques ;
+-certains postes liés à l'exploitation, à l'entretien et aux travaux routiers dans les zones connaissant des conditions particulières, notamment climatiques ;
 
-- certains postes liés à l'exploitation et à l'entretien des voies routières à fort trafic et à l'exploitation des tunnels ;
+-certains postes liés à l'exploitation et à l'entretien des voies routières à fort trafic et à l'exploitation des tunnels ;
 
-- certains postes liés à l'exploitation et à l'entretien des voies navigables ;
+-certains postes liés à l'exploitation et à l'entretien des voies navigables ;
 
-- certains postes liés à l'exploitation, à l'entretien et aux travaux dans le domaine maritime, portuaire, de la navigation ou des bases aériennes et qui soit exigent une technicité particulière, soit font partie d'équipes spécialisées ;
+-certains postes liés à l'exploitation, à l'entretien et aux travaux dans le domaine maritime, portuaire, de la navigation ou des bases aériennes et qui soit exigent une technicité particulière, soit font partie d'équipes spécialisées ;
 
-- certains postes en atelier dans les parcs liés à des contraintes spécifiques.
+-certains postes en atelier dans les parcs liés à des contraintes spécifiques.
+
+III.-Pour les postes définis à l'article 2 du décret du 16 avril 2002 susvisé, le montant maximal déplafonné annuel de la prime de métier est fixé à 4 500 € pour les personnels affectés dans les directions interdépartementales des routes.
+
+IV.-Les postes de travail auxquels ces plafonds peuvent être appliqués sont : les postes d'opérateurs dans les centres d'ingénierie et de gestion du trafic ainsi que les postes de chargés du contrôle de la gestion du trafic.
