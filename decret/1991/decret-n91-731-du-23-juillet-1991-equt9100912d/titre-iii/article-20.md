@@ -10,4 +10,4 @@ Le retrait définitif est prononcé, après que le titulaire ait été entendu, 
 
 Le retrait peut faire l'objet d'un recours devant le ministre.
 
-Lorsque le conducteur en infraction est titulaire d'un titre de conduite en mer mentionné au sixième alinéa de l'article 7 délivré par les autorités maritimes françaises, l'autorité compétente informe l'autorité qui a délivré le titre de conduite des constatations faites et des décisions qu'il a prises.
+Lorsque le conducteur en infraction est titulaire d'un des documents énumérés à l'article 13, l'autorité compétente pour décider du retrait du certificat de capacité informe l'autorité qui a délivré le certificat des constatations faites et des décisions qu'elle a prises ou qu'elle envisage de prendre. Elle peut retirer l'équivalence normalement reconnue au document étranger et elle peut exiger l'arrêt immédiat du bateau si la sécurité du bateau ou de ses occupants est mise en cause.
