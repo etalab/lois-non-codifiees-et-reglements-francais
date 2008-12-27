@@ -6,7 +6,7 @@ En vue de prévenir la propagation d'un incendie à l'entrepôt ou entre parties
 
 - les murs extérieurs sont construits en matériaux M0, sauf si le bâtiment est doté d'un dispositif d'extinction automatique d'incendie ;
 
-- en ce qui concerne la toiture, ses éléments de support sont réalisés en matériaux M0 et l'isolant thermique (s'il existe) est réalisé en matériaux M0 ou M1 de pouvoir calorifique supérieur (PCS) inférieur ou égal à 8,4 MJ/kg. L'ensemble de la toiture (éléments de support, isolant et étanchéité) doit satisfaire la classe et l'indice T 30/1 ;
+- en ce qui concerne la toiture, ses éléments de support sont réalisés en matériaux M0 et l'isolant thermique (s'il existe) est réalisé en matériaux M0 ou M1 de pouvoir calorifique supérieur (PCS) inférieur ou égal à 8,4 MJ/kg. Cette disposition n'est pas applicable si la structure porteuse est en lamellé-collé, en bois massif ou en matériaux reconnus équivalents par le comité d'étude et de classification des matériaux et éléments de construction par rapport au risque incendie (CECMI). Par ailleurs, la toiture et la couverture de toiture satisfont la classe BROOF (t3) ;
 
 - les matériaux utilisés pour l'éclairage naturel ne doivent pas, lors d'un incendie, produire de gouttes enflammées ;
 
@@ -16,4 +16,4 @@ En vue de prévenir la propagation d'un incendie à l'entrepôt ou entre parties
 
 - les ateliers d'entretien du matériel sont isolés par une paroi et un plafond coupe-feu de degré 2 heures ou situés dans un local distant d'au moins 10 mètres des cellules de stockage. Les portes d'intercommunication sont coupe-feu de degré 2 heures et sont munies d'un ferme-porte ;
 
-- les bureaux et les locaux sociaux, à l'exception des bureaux dits de « quais » destinés à accueillir le personnel travaillant directement sur les stockages et les quais, sont situés dans un local clos distant d'au moins 10 mètres des cellules de stockage, ou isolés par une paroi, un plafond et des portes d'intercommunication munies d'un ferme-porte, qui sont tous coupe-feu de degré 2 heures, sans être contigus avec les cellules où sont présentes des matières dangereuses.
+- les bureaux et les locaux sociaux, à l'exception des bureaux dits de  quais  destinés à accueillir le personnel travaillant directement sur les stockages et les quais, sont situés dans un local clos distant d'au moins 10 mètres des cellules de stockage, ou isolés par une paroi, un plafond et des portes d'intercommunication munies d'un ferme-porte, qui sont tous coupe-feu de degré 2 heures, sans être contigus avec les cellules où sont présentes des matières dangereuses.
