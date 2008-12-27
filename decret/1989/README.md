@@ -84,7 +84,6 @@
 - [Décret n°89-372 du 8 juin 1989 (SPSH8900912D)](decret-n89-372-du-8-juin-1989-spsh8900912d)
 - [Décret n°89-376 du 8 juin 1989 (SPSH8900325D)](decret-n89-376-du-8-juin-1989-spsh8900325d)
 - [Décret n°89-563 du 8 août 1989 (SPSH8901130D)](decret-n89-563-du-8-aout-1989-spsh8901130d)
-- [Décret n°89-79 du 8 février 1989 (ECOT8813101D)](decret-n89-79-du-8-fevrier-1989-ecot8813101d)
 - [Décret n°89-80 du 8 février 1989 (INTX8910033D)](decret-n89-80-du-8-fevrier-1989-intx8910033d)
 - [Décret n°89-81 du 8 février 1989 (INTX8900012D)](decret-n89-81-du-8-fevrier-1989-intx8900012d)
 - [Décret n°89-87 du 8 février 1989 (MAEJ8930005D)](decret-n89-87-du-8-fevrier-1989-maej8930005d)

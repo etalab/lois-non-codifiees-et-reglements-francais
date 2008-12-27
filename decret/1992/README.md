@@ -217,7 +217,6 @@
 - [Décret n°92-783 du 6 août 1992 (SANH9201439D)](decret-n92-783-du-6-aout-1992-sanh9201439d)
 - [Décret n°92-417 du 6 mai 1992 (INTB9200182D)](decret-n92-417-du-6-mai-1992-intb9200182d)
 - [Décret du 7 juillet 1992 (ENVP9200026D)](decret-du-7-juillet-1992-envp9200026d)
-- [Décret n°83-914 du 7 octobre 1983](decret-n83-914-du-7-octobre-1983)
 - [Décret n°90-211 du 7 mars 1990 (INTA9000046D)](decret-n90-211-du-7-mars-1990-inta9000046d)
 - [Décret n°90-212 du 7 mars 1990 (INTA9000047D)](decret-n90-212-du-7-mars-1990-inta9000047d)
 - [Décret n°92-1266 du 7 décembre 1992 (PRMX9200228D)](decret-n92-1266-du-7-decembre-1992-prmx9200228d)
