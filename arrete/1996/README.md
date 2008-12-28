@@ -159,7 +159,6 @@
 - [Arrêté du 6 août 1996 (COPC9600042A)](arrete-du-6-aout-1996-copc9600042a)
 - [Arrêté du 6 août 1996 (EQUT9600725A)](arrete-du-6-aout-1996-equt9600725a)
 - [Arrêté du 6 août 1996 (TASH9623062A)](arrete-du-6-aout-1996-tash9623062a)
-- [Arrêté du 6 décembre 1995 (DEFA9601126A)](arrete-du-6-decembre-1995-defa9601126a)
 - [Arrêté du 6 décembre 1995 (MCCE9500700A)](arrete-du-6-decembre-1995-mcce9500700a)
 - [Arrêté du 6 décembre 1995 (TASS9523413A)](arrete-du-6-decembre-1995-tass9523413a)
 - [Arrêté du 6 décembre 1996 (DEFA9602170A)](arrete-du-6-decembre-1996-defa9602170a)
