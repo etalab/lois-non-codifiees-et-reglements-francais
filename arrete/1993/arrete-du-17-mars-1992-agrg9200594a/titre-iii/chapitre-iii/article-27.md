@@ -12,7 +12,9 @@ A. - Le vétérinaire inspecteur doit, en outre, effectuer systématiquement :
 
 - pour les viandes fraîches provenant de solipèdes importés d'Europe centrale ou de l'Est, la recherche doit porter sur un échantillon de 10 grammes par carcasse.
 
-4. Un test de dépistage de l'encéphalopathie spongiforme bovine, selon des modalités définies par instruction du ministre chargé de l'agriculture, sur tous les animaux de l'espèce bovine âgés de plus de trente mois. Néanmoins, ce test sera réalisé sur les animaux de l'espèce bovine âgés de plus de vingt-quatre mois suivants :
+4. En application de l'article 2, alinéa a, de la décision 2008 / 908 / CE susvisée, un test de dépistage de l'encéphalopathie spongiforme bovine, selon des modalités définies par instruction du ministre chargé de l'agriculture, sur tous les animaux de l'espèce bovine visés à l'annexe III, chapitre A, partie I, point 2. 2, du règlement (CE) n° 999 / 2001 susvisé.
+
+Néanmoins, ce test sera réalisé sur les animaux de l'espèce bovine âgés de plus de vingt-quatre mois suivants :
 
 - les bovins accidentés abattus à l'abattoir ;
 
