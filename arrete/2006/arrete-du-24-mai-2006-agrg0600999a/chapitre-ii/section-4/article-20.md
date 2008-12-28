@@ -1,6 +1,6 @@
 # Article 20
 
-I. - Lorsque les contrôles sont destinés à être effectués dans les lieux de destination des marchandises, l'importateur ou toute autre personne responsable des lieux où les contrôles doivent être effectués adresse une demande d'agrément au préfet du département concerné afin que ces contrôles s'effectuent dans les lieux indiqués dans la demande.
+I.-Lorsque les contrôles sont destinés à être effectués dans les lieux de destination des marchandises, l'importateur ou toute autre personne responsable des lieux où les contrôles doivent être effectués adresse une demande d'agrément au préfet du département concerné afin que ces contrôles s'effectuent dans les lieux indiqués dans la demande.
 
 II.-La demande d'agrément, initiale ou de reconduction, comprend un dossier technique permettant d'établir si les lieux proposés peuvent être agréés en tant que lieux d'inspection. Ce dossier comprend les éléments suivants :
 
@@ -24,12 +24,12 @@ b) Et, le cas échéant, lorsque les produits concernés sont destinés à une p
 
 III.-Après examen du dossier technique par l'organisme officiel du point de destination et sur sa proposition, le préfet délivre un agrément initial ou une reconduction d'agrément pour une durée maximale de 1 an ou 3 ans respectivement, par arrêté préfectoral, pour le lieu proposé comme lieu d'inspection agréé. Le refus d'agrément est motivé. L'arrêté préfectoral doit être soumis, dans la quinzaine, à l'approbation du ministre chargé de l'agriculture et du ministre chargé des douanes.
 
-IV. - L'importateur ou la personne responsable du lieu d'inspection agréé est tenu de notifier immédiatement au directeur régional de l'agriculture et de la forêt ou au directeur de l'agriculture et de la forêt pour les départements d'outre-mer dont il relève :
+IV.-L'importateur ou la personne responsable du lieu d'inspection agréé est tenu de notifier immédiatement au directeur régional de l'agriculture et de la forêt ou au directeur de l'agriculture et de la forêt pour les départements d'outre-mer dont il relève :
 
-1° Toute contamination des végétaux, produits végétaux et autres objets par des organismes nuisibles ou la présence de végétaux visés à l'article R. 251-1 ;
+1° Toute contamination des végétaux, produits végétaux et autres objets par des organismes nuisibles ou la présence de végétaux visés à l'article D. 251-2 ;
 
 2° Tout événement à l'origine ou susceptible d'être à l'origine d'une fuite dans l'environnement d'un des organismes mentionnés ci-dessus ;
 
 3° Toute modification apportée aux informations transmises en vertu des points a et b du II du présent article.
 
-V. - Le ministre chargé de l'agriculture et le ministre chargé des douanes peuvent, par arrêté conjoint, définir des conditions supplémentaires jugées nécessaires pour désigner un lieu proposé comme lieu d'inspection agréé.
+V.-Le ministre chargé de l'agriculture et le ministre chargé des douanes peuvent, par arrêté conjoint, définir des conditions supplémentaires jugées nécessaires pour désigner un lieu proposé comme lieu d'inspection agréé.
