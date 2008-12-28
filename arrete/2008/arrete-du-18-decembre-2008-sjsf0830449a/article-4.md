@@ -1,0 +1,3 @@
+# Article 4
+
+Les titulaires, au 28 août 2007, du brevet de guide de tourisme équestre obtiennent sur demande, auprès du directeur régional de la jeunesse, des sports et de la vie associative, le brevet professionnel de la jeunesse, de l'éducation populaire et du sport, spécialité "activités équestres", mention "tourisme équestre", s'ils justifient, dans le domaine du tourisme équestre, d'une expérience d'encadrement ou d'accompagnement en qualité de bénévole ou de professionnel d'une durée de vingt-quatre mois, dont au moins mille deux cents heures. Cette expérience est attestée par le responsable de la structure.
