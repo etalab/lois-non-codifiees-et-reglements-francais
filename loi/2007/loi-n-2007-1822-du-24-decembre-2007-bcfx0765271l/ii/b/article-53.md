@@ -2,9 +2,9 @@
 
 I. - Par dérogation aux articles L. 131-7 et L. 139-2 du code de la sécurité sociale, le financement des mesures définies aux articles L. 241-17 et L. 241-18 du même code est assuré par une affectation d'impôts et de taxes aux caisses et régimes de sécurité sociale.
 
-(1) II. - Les impôts et taxes mentionnés au I sont :
+II. - Les impôts et taxes mentionnés au I sont :
 
-1° Une fraction égale à 50,57 % de la taxe sur les véhicules de société mentionnée à l'article 1010 du code général des impôts ;
+1° (Abrogé) ;
 
 2° La contribution mentionnée à l'article 235 ter ZC du même code ;
 
