@@ -4,7 +4,7 @@ La société est constituée sous la condition suspensive de son inscription sur
 
 Elle jouit de la personnalité morale à compter de cette inscription.
 
-La demande d'inscription doit être présentée collectivement par les associés dans l'année de la constitution de la société, par lettre recommandée avec demande d'avis de réception, au commissaire de la République du département dans lequel ils projettent d'établir le siège de la société.
+La demande d'inscription doit être présentée collectivement par les associés dans l'année de la constitution de la société, par lettre recommandée avec demande d'avis de réception, au Comité national mentionné à l'article L. 171-1 du code rural.
 
 Elle doit être accompagnée des pièces justificatives suivantes :
 
@@ -12,6 +12,6 @@ Elle doit être accompagnée des pièces justificatives suivantes :
 
 2° Les documents établissant l'état civil de chacun des associés ;
 
-3° Les associés non encore inscrits doivent joindre les documents nécessaires à leur demande d'inscription personnelle sur la liste, énumérés à l'article 4 du décret du 27 octobre 1975 susvisé ;
+3° Les associés non encore inscrits doivent joindre les documents nécessaires à leur demande d'inscription personnelle sur la liste, énumérés à l'article R. 171-12 du code rural ;
 
 4° Une attestation du greffier du tribunal de commerce ou du tribunal de grande instance statuant commercialement du lieu du siège social constatant le dépôt au greffe de la demande et des pièces nécessaires à l'immatriculation ultérieure de la société au registre du commerce et des sociétés.

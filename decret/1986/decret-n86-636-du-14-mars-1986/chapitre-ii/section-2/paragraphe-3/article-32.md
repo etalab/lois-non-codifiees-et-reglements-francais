@@ -1,3 +1,3 @@
 # Article 32
 
-Dans le délai d'un mois, le cessionnaire informe de la cession le commissaire de la République qui en informe à son jour le secrétariat de la commission nationale des experts agricoles et fonciers et des experts forestiers.
+Dans le délai d'un mois, le cessionnaire informe de la cession le Comité national mentionné à l'article L. 171-1 du code rural.
