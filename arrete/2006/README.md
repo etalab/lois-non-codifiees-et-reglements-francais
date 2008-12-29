@@ -211,6 +211,7 @@
 - [Arrêté du 24 mai 2006 (AGRG0600999A)](arrete-du-24-mai-2006-agrg0600999a)
 - [Arrêté du 25 avril 2006 (INDI0607334A)](arrete-du-25-avril-2006-indi0607334a)
 - [Arrêté du 25 avril 2006 (SSHA0621570A)](arrete-du-25-avril-2006-ssha0621570a)
+- [Arrêté du 25 octobre 2006 (INDI0608782A)](arrete-du-25-octobre-2006-indi0608782a)
 - [Arrêté du 25 septembre 1998 (MESS9823151A)](arrete-du-25-septembre-1998-mess9823151a)
 - [Arrêté du 26 décembre 2005 (MENR0502778A)](arrete-du-26-decembre-2005-menr0502778a)
 - [Arrêté du 26 décembre 2006 (EQUA0602482A)](arrete-du-26-decembre-2006-equa0602482a)
