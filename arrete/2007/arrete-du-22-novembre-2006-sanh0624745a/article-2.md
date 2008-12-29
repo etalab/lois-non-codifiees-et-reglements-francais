@@ -18,19 +18,15 @@ e) Code postal du lieu de résidence du patient ou code du pays de résidence du
 
 a) Numéro de l'établissement de santé dans le fichier national des établissements sanitaires et sociaux (FINESS) ;
 
-b) Numéro d'unité médicale ;
+b) Numéro d'unité médicale et type d'autorisation ;
 
-c) Type d'activité décrivant le type de prise en charge du patient ;
+c) Type d'hospitalisation décrivant le type de prise en charge du patient ;
 
 d) Numéro de semaine ;
 
 e) Journées de présence du patient ;
 
-f) Uniquement pour les patients en hospitalisation complète ou de semaine :
-
-- dates et modes d'entrée et de sortie du patient dans l'unité médicale de soins de suite ou de réadaptation ;
-
-- le cas échéant, type de mutation ou transfert (provenance, destination du patient) ;
+f) Dates et modes d'entrée et de sortie, le cas échéant provenance et destination, du patient dans l'unité médicale de soins de suite ou de réadaptation ;
 
 g) Finalité principale de prise en charge ;
 
@@ -46,9 +42,7 @@ l) Actes médicaux ;
 
 m) Cotation de la dépendance du patient selon une grille spécifique au PMSI ;
 
-n) Utilisation d'un fauteuil roulant pendant le séjour ;
-
-o) Temps/intervenants hebdomadaires pour les activités de rééducation ou de réadaptation.
+n) Actes et codes intervenants pour les activités de soins de suite ou de réadaptation.
 
 Ces informations doivent être conformes au contenu du dossier médical.
 
