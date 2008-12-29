@@ -536,6 +536,12 @@ CLASSE 4. - COMPTES DE TIERS
 
 4487. Produits à recevoir.
 
+458. Opérations d'investissement sous mandat (à subdiviser par mandat).
+
+4581.  Dépenses (à subdiviser par mandat).
+
+4582. Recettes (à subdiviser par mandat).
+
 46. Débiteurs et créditeurs divers.
 
 461. Dons et legs en instance.
@@ -1199,6 +1205,8 @@ CLASSE 7. - COMPTES DE PRODUITS
 70871. Par la collectivité de rattachement.
 
 70872. Par les budgets annexes.
+
+70878. Remboursement de frais - Par d'autres redevables.
 
 71. Production stockée (ou déstockage).
 
