@@ -388,7 +388,6 @@
 - [Décret n°96-327 du 16 avril 1996 (TASP9620064D)](decret-n96-327-du-16-avril-1996-tasp9620064d)
 - [Décret n°96-37 du 16 janvier 1996 (COMA9500056D)](decret-n96-37-du-16-janvier-1996-coma9500056d)
 - [Décret n°96-38 du 16 janvier 1996 (DEFP9601007D)](decret-n96-38-du-16-janvier-1996-defp9601007d)
-- [Décret n°96-627 du 16 juillet 1996 (MENX9600073D)](decret-n96-627-du-16-juillet-1996-menx9600073d)
 - [Décret n°96-632 du 16 juillet 1996 (BUDF9620653D)](decret-n96-632-du-16-juillet-1996-budf9620653d)
 - [Décret n°96-633 du 16 juillet 1996 (AGRS9600809D)](decret-n96-633-du-16-juillet-1996-agrs9600809d)
 - [Décret n°96-634 du 16 juillet 1996 (DEFD9601621D)](decret-n96-634-du-16-juillet-1996-defd9601621d)
