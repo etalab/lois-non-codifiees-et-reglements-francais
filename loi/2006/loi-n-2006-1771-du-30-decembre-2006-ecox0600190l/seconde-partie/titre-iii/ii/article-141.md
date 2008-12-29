@@ -2,8 +2,7 @@
 
 I.-Des ensembles d'actifs immobiliers appartenant à l'Etat ou à ses établissements publics peuvent être transférés en pleine propriété à une société détenue par l'Etat chargée d'en assurer la valorisation dans des conditions adaptées à leurs caractéristiques particulières, pour un montant, fixé par arrêté conjoint des ministres concernés, égal à leur valeur nette comptable ou, à défaut, à leur valeur évaluée par le ministre chargé des domaines. Dans les conditions prévues par voie de convention, ces transferts peuvent être effectués afin que les actifs immobiliers soient cédés par ladite société à l'Etat ou ses établissements publics.
 
-Ces transferts peuvent également être effectués au profit d'une société appartenant au secteur public et sur laquelle la société mentionnée au précédent alinéa exerce son contrôle au sens du I de l'article L. 233-3 du code de commerce
-.
+Ces transferts peuvent également être effectués au profit d'une société appartenant au secteur public et dont la société mentionnée au premier alinéa détient une partie du capital social.
 
 Ces transferts sont réalisés soit par arrêté des ministres intéressés, soit par acte notarié.
 

@@ -28,6 +28,8 @@ Ces documents sont relatifs aux politiques suivantes :
 
 12° Politique française de l'immigration et de l'intégration.
 
+13° Politique de l'égalité entre les femmes et les hommes.
+
 Le document relatif à la politique mentionnée au 2° comporte également :
 
 - une information détaillée sur les remises de dettes consenties à titre multilatéral et bilatéral sur le fondement de l'article 64 de la loi de finances rectificative pour 1991 (n° 91-1323 du 30 décembre 1991) ;
