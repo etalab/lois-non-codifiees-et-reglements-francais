@@ -7,7 +7,6 @@
 - [Décret n°69-525 du 2 juin 1969](decret-n69-525-du-2-juin-1969)
 - [Décret n°80-393 du 2 juin 1980](decret-n80-393-du-2-juin-1980)
 - [Décret n°80-395 du 2 juin 1980](decret-n80-395-du-2-juin-1980)
-- [Décret n°80-6 du 2 janvier 1980](decret-n80-6-du-2-janvier-1980)
 - [Décret n°80-691 du 2 septembre 1980](decret-n80-691-du-2-septembre-1980)
 - [Décret n°80-692 du 2 septembre 1980](decret-n80-692-du-2-septembre-1980)
 - [Décret n°80-699 du 2 septembre 1980](decret-n80-699-du-2-septembre-1980)

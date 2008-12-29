@@ -76,7 +76,6 @@
 - [Décret n°89-819 du 7 novembre 1989 (TEFT8903764D)](decret-n89-819-du-7-novembre-1989-teft8903764d)
 - [Décret n°89-820 du 7 novembre 1989 (AGRS8901989D)](decret-n89-820-du-7-novembre-1989-agrs8901989d)
 - [Décret n°89-822 du 7 novembre 1989 (SPSH8901762D)](decret-n89-822-du-7-novembre-1989-spsh8901762d)
-- [Décret n°90-1003 du 7 novembre 1990 (MENX9000089D)](decret-n90-1003-du-7-novembre-1990-menx9000089d)
 - [Décret n°91-259 du 7 mars 1991 (MENF9002880D)](decret-n91-259-du-7-mars-1991-menf9002880d)
 - [Décret n°89-152 du 8 mars 1989 (PRME8961322D)](decret-n89-152-du-8-mars-1989-prme8961322d)
 - [Décret n°89-157 du 8 mars 1989 (SPSS8900145D)](decret-n89-157-du-8-mars-1989-spss8900145d)

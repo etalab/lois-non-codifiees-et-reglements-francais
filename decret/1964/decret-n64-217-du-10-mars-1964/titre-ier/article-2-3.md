@@ -1,3 +1,0 @@
-# Article 2-3
-
-Les maîtres et les documentalistes ayant obtenu un contrat provisoire bénéficient des dispositions du décret n° 94-874 du 7 octobre 1994 fixant les dispositions communes applicables aux stagiaires de l'Etat et de ses établissements publics, à l'exception des dispositions de ce décret relatives au détachement, à la discipline, au congé accordé pour donner des soins au conjoint, à un enfant ou à un ascendant à la suite d'un accident ou d'une maladie graves, au congé accordé pour suivre son conjoint, au congé pour convenances personnelles et à la consultation de la commission administrative paritaire.

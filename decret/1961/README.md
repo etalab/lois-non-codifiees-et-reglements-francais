@@ -47,5 +47,3 @@
 - [Décret n°46-2959 du 31 décembre 1946](decret-n46-2959-du-31-decembre-1946)
 - [Décret n°61-303 du 31 mars 1961](decret-n61-303-du-31-mars-1961)
 - [Décret n°61-858 du 31 juillet 1961](decret-n61-858-du-31-juillet-1961)
-- [Décret n°61-544 du 31 mai 1961](decret-n61-544-du-31-mai-1961)
-- [Décret n°61-545 du 31 mai 1961](decret-n61-545-du-31-mai-1961)
