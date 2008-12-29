@@ -8,9 +8,9 @@ La fraction de tarif mentionnée à l'alinéa précédent est calculée de sorte
 
 Jusqu'à la connaissance des montants définitifs des quantités de carburants et des droits à compensation susmentionnés, cette fraction de tarif est fixée à :
 
-a) 1,11 euro par hectolitre, s'agissant des supercarburants sans plomb ;
+a) 1, 11 euro par hectolitre, s'agissant des supercarburants sans plomb ;
 
-b) 0,79 euro par hectolitre, s'agissant du gazole.
+b) 0, 79 euro par hectolitre, s'agissant du gazole.
 
 Le niveau définitif de cette fraction est arrêté par la plus prochaine loi de finances après la connaissance des montants définitifs des droits à compensation.
 
@@ -32,11 +32,13 @@ En 2006, en 2007 et en 2008 la participation des familles prévue au deuxième a
 
 A compter de 2006, le montant de la compensation servant au calcul de la fraction de taux mentionnée au premier alinéa du présent III est minoré du montant, constaté en 2004, de la participation des familles prévue au deuxième alinéa de l'article 2 du décret n° 85-934 du 4 septembre 1985 précité.
 
-A compter de 2008, la fraction de tarif de la taxe sur les conventions d'assurance perçue en application du 5° bis de l'article 1001 du code général des impôts est fixée à 11,550 %. En 2008, la fraction de tarif de la taxe intérieure de consommation sur les produits pétroliers est fixée à 0,456 euros par hectolitre s'agissant des supercarburants sans plomb et 0,323 euros par hectolitre s'agissant du gazole présentant un point éclair inférieur à 120° C.
+A compter de 2009, la fraction de tarif de la taxe sur les conventions d'assurance perçue en application du 5° bis de l'article 1001 du code général des impôts est fixée à 11, 550 %. En 2008, la fraction de tarif de la taxe intérieure de consommation sur les produits pétroliers est fixée à 0, 456 euro par hectolitre s'agissant des supercarburants sans plomb et 0, 323 euro par hectolitre s'agissant du gazole présentant un point éclair inférieur à 120° C.
 
-Le niveau définitif de la fraction mentionnée au premier alinéa du présent III est arrêté par la plus prochaine loi de finances après la connaissance des montants définitifs des droits à compensation.
+Le niveau définitif de la fration mentionnée au premier alinéa du présent III est arrêté par la plus prochaine loi de finances après la connaissance des montants définitifs des droits à compensation.
 
-Chaque département reçoit un produit de taxe correspondant à un pourcentage de la somme des produits de la taxe sur les conventions d'assurance et de la taxe intérieure de consommation sur les produits pétroliers mentionnés au premier alinéa du présent III. Ce pourcentage est fixé, pour chaque département, en rapportant, d'une part, le droit à compensation de ce département, augmenté du produit reçu en 2004 par ce département au titre de la taxe différentielle sur les véhicules à moteur et minoré du montant, constaté en 2004 dans ce même département, de la participation des familles prévue au deuxième alinéa de l'article 2 du décret n° 85-934 du 4 septembre 1985 précité et, d'autre part, le montant de la compensation de l'ensemble des départements calculé selon les modalités prévues aux deuxième et quatrième alinéas du présent III. En 2008, ces pourcentages sont fixés comme suit :
+Chaque département reçoit un produit de taxe correspondant à un pourcentage de la somme des produits de la taxe sur les conventions d'assurance et de la taxe intérieure de consommation sur les produits pétroliers mentionnés au premier alinéa du présent III. Ce pourcentage est fixé, pour chaque département, en rapportant, d'une part, le droit à compensation de ce département, augmenté du produit reçu en 2004 par ce département au titre de la taxe différentielle sur les véhicules à moteur ainsi que de la compensation financière des charges résultant de l'allongement de la durée de la formation initiale obligatoire des assistants maternels et de l'instauration d'une formation d'initiation aux gestes de secourisme prévus en application de l'article L. 421-14 du code de l'action sociale et des familles, et minoré du montant, constaté en 2004 dans ce même département, de la participation des familles prévue au deuxième alinéa de l'article 2 du décret n° 85-934 du 4 septembre 1985 précité et, d'autre part, le montant de la compensation de l'ensemble des départements calculé selon les modalités prévues aux deuxième et quatrième alinéas du présent III. En 2009, ces pourcentages sont fixés comme suit :
+
+<div align="center">
 
 <table>
 <tbody>
@@ -45,7 +47,8 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>DÉPARTEMENTS <br/>
 </th>
 <th>
-<br/>
+<br/>POURCENTAGE <p>(%) <br/>
+</p>
 </th>
 </tr>
 <tr>
@@ -53,7 +56,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Ain <br/>
 </td>
 <td align="center">
-<br/>0,989536 % <br/>
+<br/>1, 038717 <br/>
 </td>
 </tr>
 <tr>
@@ -61,7 +64,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Aisne <br/>
 </td>
 <td align="center">
-<br/>0,826700 % <br/>
+<br/>0, 930378 <br/>
 </td>
 </tr>
 <tr>
@@ -69,7 +72,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Allier <br/>
 </td>
 <td align="center">
-<br/>0,805046 % <br/>
+<br/>0, 755101 <br/>
 </td>
 </tr>
 <tr>
@@ -77,7 +80,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Alpes-de-Haute-Provence <br/>
 </td>
 <td align="center">
-<br/>0,433678 % <br/>
+<br/>0, 519484 <br/>
 </td>
 </tr>
 <tr>
@@ -85,7 +88,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Hautes-Alpes <br/>
 </td>
 <td align="center">
-<br/>0,345878 % <br/>
+<br/>0, 384726 <br/>
 </td>
 </tr>
 <tr>
@@ -93,7 +96,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Alpes-Maritimes <br/>
 </td>
 <td align="center">
-<br/>1,738731 % <br/>
+<br/>1, 667435 <br/>
 </td>
 </tr>
 <tr>
@@ -101,7 +104,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Ardèche <br/>
 </td>
 <td align="center">
-<br/>0,752362 % <br/>
+<br/>0, 754730 <br/>
 </td>
 </tr>
 <tr>
@@ -109,7 +112,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Ardennes <br/>
 </td>
 <td align="center">
-<br/>0,723098 % <br/>
+<br/>0, 648394 <br/>
 </td>
 </tr>
 <tr>
@@ -117,7 +120,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Ariège <br/>
 </td>
 <td align="center">
-<br/>0,353848 % <br/>
+<br/>0, 388609 <br/>
 </td>
 </tr>
 <tr>
@@ -125,7 +128,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Aube <br/>
 </td>
 <td align="center">
-<br/>0,749004 % <br/>
+<br/>0, 727693 <br/>
 </td>
 </tr>
 <tr>
@@ -133,7 +136,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Aude <br/>
 </td>
 <td align="center">
-<br/>0,840593 % <br/>
+<br/>0, 767943 <br/>
 </td>
 </tr>
 <tr>
@@ -141,7 +144,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Aveyron <br/>
 </td>
 <td align="center">
-<br/>0,759038 % <br/>
+<br/>0, 739211 <br/>
 </td>
 </tr>
 <tr>
@@ -149,7 +152,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Bouches-du-Rhône <br/>
 </td>
 <td align="center">
-<br/>2,599947 % <br/>
+<br/>2, 399600 <br/>
 </td>
 </tr>
 <tr>
@@ -157,7 +160,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Calvados <br/>
 </td>
 <td align="center">
-<br/>0,905006 % <br/>
+<br/>1, 045865 <br/>
 </td>
 </tr>
 <tr>
@@ -165,7 +168,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Cantal <br/>
 </td>
 <td align="center">
-<br/>0,325326 % <br/>
+<br/>0, 457278 <br/>
 </td>
 </tr>
 <tr>
@@ -173,7 +176,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Charente <br/>
 </td>
 <td align="center">
-<br/>0,647028 % <br/>
+<br/>0, 627035 <br/>
 </td>
 </tr>
 <tr>
@@ -181,7 +184,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Charente-Maritime <br/>
 </td>
 <td align="center">
-<br/>1,067830 % <br/>
+<br/>1, 015021 <br/>
 </td>
 </tr>
 <tr>
@@ -189,7 +192,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Cher <br/>
 </td>
 <td align="center">
-<br/>0,664057 % <br/>
+<br/>0, 622989 <br/>
 </td>
 </tr>
 <tr>
@@ -197,7 +200,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Corrèze <br/>
 </td>
 <td align="center">
-<br/>0,771269 % <br/>
+<br/>0, 747724 <br/>
 </td>
 </tr>
 <tr>
@@ -205,7 +208,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Corse-du-Sud <br/>
 </td>
 <td align="center">
-<br/>0,208677 % <br/>
+<br/>0, 204691 <br/>
 </td>
 </tr>
 <tr>
@@ -213,7 +216,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Haute-Corse <br/>
 </td>
 <td align="center">
-<br/>0,265195 % <br/>
+<br/>0, 208442 <br/>
 </td>
 </tr>
 <tr>
@@ -221,7 +224,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Côte-d'Or <br/>
 </td>
 <td align="center">
-<br/>1,253588 % <br/>
+<br/>1, 156067 <br/>
 </td>
 </tr>
 <tr>
@@ -229,7 +232,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Côtes-d'Armor <br/>
 </td>
 <td align="center">
-<br/>1,009610 % <br/>
+<br/>0, 939462 <br/>
 </td>
 </tr>
 <tr>
@@ -237,7 +240,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Creuse <br/>
 </td>
 <td align="center">
-<br/>0,295361 % <br/>
+<br/>0, 404369 <br/>
 </td>
 </tr>
 <tr>
@@ -245,7 +248,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Dordogne <br/>
 </td>
 <td align="center">
-<br/>0,748234 % <br/>
+<br/>0, 739289 <br/>
 </td>
 </tr>
 <tr>
@@ -253,7 +256,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Doubs <br/>
 </td>
 <td align="center">
-<br/>0,921717 % <br/>
+<br/>0, 883350 <br/>
 </td>
 </tr>
 <tr>
@@ -261,7 +264,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Drôme <br/>
 </td>
 <td align="center">
-<br/>0,916108 % <br/>
+<br/>0, 858751 <br/>
 </td>
 </tr>
 <tr>
@@ -269,7 +272,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Eure <br/>
 </td>
 <td align="center">
-<br/>0,941435 % <br/>
+<br/>0, 981607 <br/>
 </td>
 </tr>
 <tr>
@@ -277,7 +280,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Eure-et-Loir <br/>
 </td>
 <td align="center">
-<br/>0,672427 % <br/>
+<br/>0, 804939 <br/>
 </td>
 </tr>
 <tr>
@@ -285,7 +288,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Finistère <br/>
 </td>
 <td align="center">
-<br/>1,120733 % <br/>
+<br/>1, 057765 <br/>
 </td>
 </tr>
 <tr>
@@ -293,7 +296,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Gard <br/>
 </td>
 <td align="center">
-<br/>1,192760 % <br/>
+<br/>1, 078127 <br/>
 </td>
 </tr>
 <tr>
@@ -301,7 +304,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Haute-Garonne <br/>
 </td>
 <td align="center">
-<br/>1,857569 % <br/>
+<br/>1, 679533 <br/>
 </td>
 </tr>
 <tr>
@@ -309,7 +312,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Gers <br/>
 </td>
 <td align="center">
-<br/>0,512908 % <br/>
+<br/>0, 474787 <br/>
 </td>
 </tr>
 <tr>
@@ -317,7 +320,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Gironde <br/>
 </td>
 <td align="center">
-<br/>1,799213 % <br/>
+<br/>1, 855473 <br/>
 </td>
 </tr>
 <tr>
@@ -325,7 +328,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Hérault <br/>
 </td>
 <td align="center">
-<br/>1,368875 % <br/>
+<br/>1, 283954 <br/>
 </td>
 </tr>
 <tr>
@@ -333,7 +336,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Ille-et-Vilaine <br/>
 </td>
 <td align="center">
-<br/>1,316291 % <br/>
+<br/>1, 183055 <br/>
 </td>
 </tr>
 <tr>
@@ -341,7 +344,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Indre <br/>
 </td>
 <td align="center">
-<br/>0,362819 % <br/>
+<br/>0, 485531 <br/>
 </td>
 </tr>
 <tr>
@@ -349,7 +352,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Indre-et-Loire <br/>
 </td>
 <td align="center">
-<br/>0,931667 % <br/>
+<br/>0, 973666 <br/>
 </td>
 </tr>
 <tr>
@@ -357,7 +360,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Isère <br/>
 </td>
 <td align="center">
-<br/>1,986293 % <br/>
+<br/>1, 863591 <br/>
 </td>
 </tr>
 <tr>
@@ -365,7 +368,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Jura <br/>
 </td>
 <td align="center">
-<br/>0,578420 % <br/>
+<br/>0, 641485 <br/>
 </td>
 </tr>
 <tr>
@@ -373,7 +376,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Landes <br/>
 </td>
 <td align="center">
-<br/>0,752133 % <br/>
+<br/>0, 724564 <br/>
 </td>
 </tr>
 <tr>
@@ -381,7 +384,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Loir-et-Cher <br/>
 </td>
 <td align="center">
-<br/>0,562341 % <br/>
+<br/>0, 590089 <br/>
 </td>
 </tr>
 <tr>
@@ -389,7 +392,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Loire <br/>
 </td>
 <td align="center">
-<br/>1,166232 % <br/>
+<br/>1, 136475 <br/>
 </td>
 </tr>
 <tr>
@@ -397,7 +400,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Haute-Loire <br/>
 </td>
 <td align="center">
-<br/>0,591460 % <br/>
+<br/>0, 600636 <br/>
 </td>
 </tr>
 <tr>
@@ -405,7 +408,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Loire-Atlantique <br/>
 </td>
 <td align="center">
-<br/>1,667144 % <br/>
+<br/>1, 527443 <br/>
 </td>
 </tr>
 <tr>
@@ -413,7 +416,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Loiret <br/>
 </td>
 <td align="center">
-<br/>0,997362 % <br/>
+<br/>0, 974155 <br/>
 </td>
 </tr>
 <tr>
@@ -421,7 +424,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Lot <br/>
 </td>
 <td align="center">
-<br/>0,619071 % <br/>
+<br/>0, 602995 <br/>
 </td>
 </tr>
 <tr>
@@ -429,7 +432,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Lot-et-Garonne <br/>
 </td>
 <td align="center">
-<br/>0,421441 % <br/>
+<br/>0, 499219 <br/>
 </td>
 </tr>
 <tr>
@@ -437,7 +440,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Lozère <br/>
 </td>
 <td align="center">
-<br/>0,353119 % <br/>
+<br/>0, 392197 <br/>
 </td>
 </tr>
 <tr>
@@ -445,7 +448,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Maine-et-Loire <br/>
 </td>
 <td align="center">
-<br/>1,081335 % <br/>
+<br/>1, 113827 <br/>
 </td>
 </tr>
 <tr>
@@ -453,7 +456,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Manche <br/>
 </td>
 <td align="center">
-<br/>0,889798 % <br/>
+<br/>0, 933375 <br/>
 </td>
 </tr>
 <tr>
@@ -461,7 +464,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Marne <br/>
 </td>
 <td align="center">
-<br/>0,929746 % <br/>
+<br/>0, 926809 <br/>
 </td>
 </tr>
 <tr>
@@ -469,7 +472,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Haute-Marne <br/>
 </td>
 <td align="center">
-<br/>0,531745 % <br/>
+<br/>0, 578806 <br/>
 </td>
 </tr>
 <tr>
@@ -477,7 +480,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Mayenne <br/>
 </td>
 <td align="center">
-<br/>0,523467 % <br/>
+<br/>0, 551876 <br/>
 </td>
 </tr>
 <tr>
@@ -485,7 +488,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Meurthe-et-Moselle <br/>
 </td>
 <td align="center">
-<br/>1,176378 % <br/>
+<br/>1, 068141 <br/>
 </td>
 </tr>
 <tr>
@@ -493,7 +496,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Meuse <br/>
 </td>
 <td align="center">
-<br/>0,459266 % <br/>
+<br/>0, 521035 <br/>
 </td>
 </tr>
 <tr>
@@ -501,7 +504,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Morbihan <br/>
 </td>
 <td align="center">
-<br/>1,012946 % <br/>
+<br/>0, 957196 <br/>
 </td>
 </tr>
 <tr>
@@ -509,7 +512,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Moselle <br/>
 </td>
 <td align="center">
-<br/>1,301975 % <br/>
+<br/>1, 535503 <br/>
 </td>
 </tr>
 <tr>
@@ -517,7 +520,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Nièvre <br/>
 </td>
 <td align="center">
-<br/>0,687106 % <br/>
+<br/>0, 635850 <br/>
 </td>
 </tr>
 <tr>
@@ -525,7 +528,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Nord <br/>
 </td>
 <td align="center">
-<br/>3,511758 % <br/>
+<br/>3, 196150 <br/>
 </td>
 </tr>
 <tr>
@@ -533,7 +536,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Oise <br/>
 </td>
 <td align="center">
-<br/>1,123399 % <br/>
+<br/>1, 084175 <br/>
 </td>
 </tr>
 <tr>
@@ -541,7 +544,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Orne <br/>
 </td>
 <td align="center">
-<br/>0,713348 % <br/>
+<br/>0, 678056 <br/>
 </td>
 </tr>
 <tr>
@@ -549,7 +552,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Pas-de-Calais <br/>
 </td>
 <td align="center">
-<br/>2,328084 % <br/>
+<br/>2, 219579 <br/>
 </td>
 </tr>
 <tr>
@@ -557,7 +560,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Puy-de-Dôme <br/>
 </td>
 <td align="center">
-<br/>1,523941 % <br/>
+<br/>1, 438771 <br/>
 </td>
 </tr>
 <tr>
@@ -565,7 +568,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Pyrénées-Atlantiques <br/>
 </td>
 <td align="center">
-<br/>0,921523 % <br/>
+<br/>0, 945588 <br/>
 </td>
 </tr>
 <tr>
@@ -573,7 +576,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Hautes-Pyrénées <br/>
 </td>
 <td align="center">
-<br/>0,556167 % <br/>
+<br/>0, 563653 <br/>
 </td>
 </tr>
 <tr>
@@ -581,7 +584,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Pyrénées-Orientales <br/>
 </td>
 <td align="center">
-<br/>0,703192 % <br/>
+<br/>0, 697831 <br/>
 </td>
 </tr>
 <tr>
@@ -589,7 +592,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Bas-Rhin <br/>
 </td>
 <td align="center">
-<br/>1,492799 % <br/>
+<br/>1, 383497 <br/>
 </td>
 </tr>
 <tr>
@@ -597,7 +600,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Haut-Rhin <br/>
 </td>
 <td align="center">
-<br/>1,009120 % <br/>
+<br/>0, 923986 <br/>
 </td>
 </tr>
 <tr>
@@ -605,7 +608,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Rhône <br/>
 </td>
 <td align="center">
-<br/>2,079691 % <br/>
+<br/>2, 064875 <br/>
 </td>
 </tr>
 <tr>
@@ -613,7 +616,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Haute-Saône <br/>
 </td>
 <td align="center">
-<br/>0,416004 % <br/>
+<br/>0, 443886 <br/>
 </td>
 </tr>
 <tr>
@@ -621,7 +624,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Saône-et-Loire <br/>
 </td>
 <td align="center">
-<br/>1,125480 % <br/>
+<br/>1, 062472 <br/>
 </td>
 </tr>
 <tr>
@@ -629,7 +632,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Sarthe <br/>
 </td>
 <td align="center">
-<br/>1,044489 % <br/>
+<br/>1, 032071 <br/>
 </td>
 </tr>
 <tr>
@@ -637,7 +640,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Savoie <br/>
 </td>
 <td align="center">
-<br/>1,160302 % <br/>
+<br/>1, 136664 <br/>
 </td>
 </tr>
 <tr>
@@ -645,7 +648,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Haute-Savoie <br/>
 </td>
 <td align="center">
-<br/>1,408087 % <br/>
+<br/>1, 283599 <br/>
 </td>
 </tr>
 <tr>
@@ -653,7 +656,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Paris <br/>
 </td>
 <td align="center">
-<br/>2,671567 % <br/>
+<br/>2, 418194 <br/>
 </td>
 </tr>
 <tr>
@@ -661,7 +664,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Seine-Maritime <br/>
 </td>
 <td align="center">
-<br/>1,764476 % <br/>
+<br/>1, 696647 <br/>
 </td>
 </tr>
 <tr>
@@ -669,7 +672,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Seine-et-Marne <br/>
 </td>
 <td align="center">
-<br/>1,776027 % <br/>
+<br/>1, 905135 <br/>
 </td>
 </tr>
 <tr>
@@ -677,7 +680,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Yvelines <br/>
 </td>
 <td align="center">
-<br/>1,666751 % <br/>
+<br/>1, 780299 <br/>
 </td>
 </tr>
 <tr>
@@ -685,7 +688,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Deux-Sèvres <br/>
 </td>
 <td align="center">
-<br/>0,729285 % <br/>
+<br/>0, 659779 <br/>
 </td>
 </tr>
 <tr>
@@ -693,7 +696,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Somme <br/>
 </td>
 <td align="center">
-<br/>0,825497 % <br/>
+<br/>0, 920318 <br/>
 </td>
 </tr>
 <tr>
@@ -701,7 +704,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Tarn <br/>
 </td>
 <td align="center">
-<br/>0,723370 % <br/>
+<br/>0, 681113 <br/>
 </td>
 </tr>
 <tr>
@@ -709,7 +712,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Tarn-et-Garonne <br/>
 </td>
 <td align="center">
-<br/>0,454615 % <br/>
+<br/>0, 446680 <br/>
 </td>
 </tr>
 <tr>
@@ -717,7 +720,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Var <br/>
 </td>
 <td align="center">
-<br/>1,423457 % <br/>
+<br/>1, 369517 <br/>
 </td>
 </tr>
 <tr>
@@ -725,7 +728,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Vaucluse <br/>
 </td>
 <td align="center">
-<br/>0,819437 % <br/>
+<br/>0, 749789 <br/>
 </td>
 </tr>
 <tr>
@@ -733,7 +736,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Vendée <br/>
 </td>
 <td align="center">
-<br/>0,968616 % <br/>
+<br/>0, 928498 <br/>
 </td>
 </tr>
 <tr>
@@ -741,7 +744,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Vienne <br/>
 </td>
 <td align="center">
-<br/>0,704029 % <br/>
+<br/>0, 671860 <br/>
 </td>
 </tr>
 <tr>
@@ -749,7 +752,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Haute-Vienne <br/>
 </td>
 <td align="center">
-<br/>0,641264 % <br/>
+<br/>0, 634806 <br/>
 </td>
 </tr>
 <tr>
@@ -757,7 +760,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Vosges <br/>
 </td>
 <td align="center">
-<br/>0,848088 % <br/>
+<br/>0, 766261 <br/>
 </td>
 </tr>
 <tr>
@@ -765,7 +768,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Yonne <br/>
 </td>
 <td align="center">
-<br/>0,716105 % <br/>
+<br/>0, 742268 <br/>
 </td>
 </tr>
 <tr>
@@ -773,7 +776,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Territoire de Belfort <br/>
 </td>
 <td align="center">
-<br/>0,219243 % <br/>
+<br/>0, 208194 <br/>
 </td>
 </tr>
 <tr>
@@ -781,7 +784,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Essonne <br/>
 </td>
 <td align="center">
-<br/>1,654780 % <br/>
+<br/>1, 562777 <br/>
 </td>
 </tr>
 <tr>
@@ -789,7 +792,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Hauts-de-Seine <br/>
 </td>
 <td align="center">
-<br/>2,053375 % <br/>
+<br/>2, 028684 <br/>
 </td>
 </tr>
 <tr>
@@ -797,7 +800,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Seine-Saint-Denis <br/>
 </td>
 <td align="center">
-<br/>1,661365 % <br/>
+<br/>1, 964672 <br/>
 </td>
 </tr>
 <tr>
@@ -805,7 +808,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Val-de-Marne <br/>
 </td>
 <td align="center">
-<br/>1,397520 % <br/>
+<br/>1, 473857 <br/>
 </td>
 </tr>
 <tr>
@@ -813,7 +816,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Val-d'Oise <br/>
 </td>
 <td align="center">
-<br/>1,449906 % <br/>
+<br/>1, 513632 <br/>
 </td>
 </tr>
 <tr>
@@ -821,7 +824,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Guadeloupe <br/>
 </td>
 <td align="center">
-<br/>0,337371 % <br/>
+<br/>0, 593797 <br/>
 </td>
 </tr>
 <tr>
@@ -829,7 +832,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Martinique <br/>
 </td>
 <td align="center">
-<br/>0,467447 % <br/>
+<br/>0, 527758 <br/>
 </td>
 </tr>
 <tr>
@@ -837,7 +840,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Guyane <br/>
 </td>
 <td align="center">
-<br/>0,259298 % <br/>
+<br/>0, 354885 <br/>
 </td>
 </tr>
 <tr>
@@ -845,7 +848,7 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>La Réunion <br/>
 </td>
 <td align="center">
-<br/>0,367786 % <br/>
+<br/>1, 379672 <br/>
 </td>
 </tr>
 <tr>
@@ -853,10 +856,12 @@ Chaque département reçoit un produit de taxe correspondant à un pourcentage d
 <br/>Total <br/>
 </td>
 <td align="center">
-<br/>100 % <br/>
+<br/>100 <br/>
 </td>
 </tr>
 </tbody>
 </table>
+
+</div>
 
 Si le produit de la taxe spéciale sur les conventions d'assurance attribué pour une année donnée à un département en application du pourcentage de la fraction de taux applicable à ce département pour cette même année représente un montant inférieur à son droit à compensation pour l'année considérée, tel que défini au I de l'article 119 de la loi n° 2004-809 du 13 août 2004 précitée, la différence fait l'objet d'une attribution à due concurrence d'une part du produit de la taxe spéciale sur les conventionsd'assurance revenant à l'Etat.

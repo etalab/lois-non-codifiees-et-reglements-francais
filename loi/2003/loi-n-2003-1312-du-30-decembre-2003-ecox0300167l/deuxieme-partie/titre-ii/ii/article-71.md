@@ -52,6 +52,8 @@ VI.-La taxe est exigible à la date du fait générateur.
 
 VII.-Le taux de la taxe est fixé à 0,20 % pour les produits du secteur de l'industrie de l'ameublement et à 0,1 % pour les produits du secteur de l'industrie du bois.
 
+Les entreprises dont l'activité dominante est la mise en œuvre de produits en bois de menuiserie, charpente ou agencement, assortie d'une activité de fabrication de produits entrant dans le champ de la taxe, peuvent retenir pour assiette de la taxe 40 % du chiffre d'affaires total hors taxes correspondant à ces opérations, fourniture et pose incluses, en y appliquant les taux indiqués ci-dessus, les entreprises de moins de vingt salariés appliquant cependant le taux unique de 0, 10 %.
+
 Pour le secteur de l'industrie de l'ameublement, son produit est affecté à hauteur de 70 % au comité, à hauteur de 24 % au Centre technique du bois et de l'ameublement et à hauteur de 6 % au Centre technique de la mécanique.
 
 Pour le secteur des industries du bois, son produit est affecté à hauteur de 70 % au comité et à hauteur de 30 % au Centre technique du bois et de l'ameublement.

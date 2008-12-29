@@ -4,7 +4,7 @@ I. - Paragraphe modificateur.
 
 II. - 1° Alinéa modificateur.
 
-2° Les centres de gestion agréés tels que mentionnés aux II, III et IV de l'article 1649 quater D du code général des impôts sont habilités à tenir des comptabilités jusqu'au 31 décembre 2008. Les dispositions de l'article 1649 quater E-0 bis du même code s'appliquent également jusqu'à cette même date ;
+2° Les centres de gestion agréés tels que mentionnés aux II, III et IV de l'article 1649 quater D du code général des impôts sont habilités à tenir des comptabilités jusqu'au 31 décembre 2009. Les dispositions de l'article 1649 quater E-0 bis du même code s'appliquent également jusqu'à cette même date ;
 
 3° Les opérations de transfert de biens, droits et obligations réalisées par un centre de gestion agréé et habilité, mentionné aux II à IV de l'article 1649 quater D du code général des impôts, et rendues nécessaires par la mise en oeuvre de la présente ordonnance ne donnent lieu à aucune indemnité ou perception d'impôts, droits ou taxes.
 

@@ -11,8 +11,7 @@ Jusqu'à la connaissance des montants définitifs des quantités de carburants e
 <table>
 <tbody>
 <tr>
-<th>
-<br/>RÉGION <br/>
+<th>RÉGION <br/>
 </th>
 <th>
 <br/>GAZOLE <br/>
@@ -27,10 +26,10 @@ Jusqu'à la connaissance des montants définitifs des quantités de carburants e
 <br/>Alsace <br/>
 </td>
 <td align="center">
-<br/>4, 55 <br/>
+<br/>4, 59 <br/>
 </td>
 <td align="center">
-<br/>6, 44 <br/>
+<br/>6, 48 <br/>
 </td>
 </tr>
 <tr>
@@ -38,10 +37,10 @@ Jusqu'à la connaissance des montants définitifs des quantités de carburants e
 <br/>Aquitaine <br/>
 </td>
 <td align="center">
-<br/>4, 00 <br/>
+<br/>4, 37 <br/>
 </td>
 <td align="center">
-<br/>5, 66 <br/>
+<br/>6, 19 <br/>
 </td>
 </tr>
 <tr>
@@ -49,10 +48,10 @@ Jusqu'à la connaissance des montants définitifs des quantités de carburants e
 <br/>Auvergne <br/>
 </td>
 <td align="center">
-<br/>4, 87 <br/>
+<br/>5, 56 <br/>
 </td>
 <td align="center">
-<br/>6, 89 <br/>
+<br/>7, 87 <br/>
 </td>
 </tr>
 <tr>
@@ -60,10 +59,10 @@ Jusqu'à la connaissance des montants définitifs des quantités de carburants e
 <br/>Bourgogne <br/>
 </td>
 <td align="center">
-<br/>3, 87 <br/>
+<br/>4, 01 <br/>
 </td>
 <td align="center">
-<br/>5, 48 <br/>
+<br/>5, 69 <br/>
 </td>
 </tr>
 <tr>
@@ -71,10 +70,10 @@ Jusqu'à la connaissance des montants définitifs des quantités de carburants e
 <br/>Bretagne <br/>
 </td>
 <td align="center">
-<br/>4, 26 <br/>
+<br/>4, 54 <br/>
 </td>
 <td align="center">
-<br/>6, 02 <br/>
+<br/>6, 42 <br/>
 </td>
 </tr>
 <tr>
@@ -82,10 +81,10 @@ Jusqu'à la connaissance des montants définitifs des quantités de carburants e
 <br/>Centre <br/>
 </td>
 <td align="center">
-<br/>3, 80 <br/>
+<br/>4, 25 <br/>
 </td>
 <td align="center">
-<br/>5, 38 <br/>
+<br/>6, 00 <br/>
 </td>
 </tr>
 <tr>
@@ -93,10 +92,10 @@ Jusqu'à la connaissance des montants définitifs des quantités de carburants e
 <br/>Champagne-Ardenne <br/>
 </td>
 <td align="center">
-<br/>4, 35 <br/>
+<br/>4, 72 <br/>
 </td>
 <td align="center">
-<br/>6, 15 <br/>
+<br/>6, 69 <br/>
 </td>
 </tr>
 <tr>
@@ -104,10 +103,10 @@ Jusqu'à la connaissance des montants définitifs des quantités de carburants e
 <br/>Corse <br/>
 </td>
 <td align="center">
-<br/>5, 01 <br/>
+<br/>9, 31 <br/>
 </td>
 <td align="center">
-<br/>7, 09 <br/>
+<br/>13, 16 <br/>
 </td>
 </tr>
 <tr>
@@ -115,10 +114,10 @@ Jusqu'à la connaissance des montants définitifs des quantités de carburants e
 <br/>Franche-Comté <br/>
 </td>
 <td align="center">
-<br/>5, 32 <br/>
+<br/>5, 84 <br/>
 </td>
 <td align="center">
-<br/>7, 51 <br/>
+<br/>8, 28 <br/>
 </td>
 </tr>
 <tr>
@@ -126,10 +125,10 @@ Jusqu'à la connaissance des montants définitifs des quantités de carburants e
 <br/>Ile-de-France <br/>
 </td>
 <td align="center">
-<br/>11, 33 <br/>
+<br/>11, 97 <br/>
 </td>
 <td align="center">
-<br/>16, 02 <br/>
+<br/>16, 92 <br/>
 </td>
 </tr>
 <tr>
@@ -137,10 +136,10 @@ Jusqu'à la connaissance des montants définitifs des quantités de carburants e
 <br/>Languedoc-Roussillon <br/>
 </td>
 <td align="center">
-<br/>3, 93 <br/>
+<br/>4, 02 <br/>
 </td>
 <td align="center">
-<br/>5, 56 <br/>
+<br/>5, 70 <br/>
 </td>
 </tr>
 <tr>
@@ -148,10 +147,10 @@ Jusqu'à la connaissance des montants définitifs des quantités de carburants e
 <br/>Limousin <br/>
 </td>
 <td align="center">
-<br/>7, 35 <br/>
+<br/>7, 89 <br/>
 </td>
 <td align="center">
-<br/>10, 39 <br/>
+<br/>11, 18 <br/>
 </td>
 </tr>
 <tr>
@@ -159,10 +158,10 @@ Jusqu'à la connaissance des montants définitifs des quantités de carburants e
 <br/>Lorraine <br/>
 </td>
 <td align="center">
-<br/>4, 54 <br/>
+<br/>7, 18 <br/>
 </td>
 <td align="center">
-<br/>6, 43 <br/>
+<br/>10, 16 <br/>
 </td>
 </tr>
 <tr>
@@ -170,10 +169,10 @@ Jusqu'à la connaissance des montants définitifs des quantités de carburants e
 <br/>Midi-Pyrénées <br/>
 </td>
 <td align="center">
-<br/>4, 46 <br/>
+<br/>4, 65 <br/>
 </td>
 <td align="center">
-<br/>6, 30 <br/>
+<br/>6, 57 <br/>
 </td>
 </tr>
 <tr>
@@ -181,10 +180,10 @@ Jusqu'à la connaissance des montants définitifs des quantités de carburants e
 <br/>Nord-Pas-de-Calais <br/>
 </td>
 <td align="center">
-<br/>6, 44 <br/>
+<br/>6, 73 <br/>
 </td>
 <td align="center">
-<br/>9, 10 <br/>
+<br/>9, 54 <br/>
 </td>
 </tr>
 <tr>
@@ -192,10 +191,10 @@ Jusqu'à la connaissance des montants définitifs des quantités de carburants e
 <br/>Basse-Normandie <br/>
 </td>
 <td align="center">
-<br/>4, 68 <br/>
+<br/>5, 06 <br/>
 </td>
 <td align="center">
-<br/>6, 61 <br/>
+<br/>7, 17 <br/>
 </td>
 </tr>
 <tr>
@@ -203,10 +202,10 @@ Jusqu'à la connaissance des montants définitifs des quantités de carburants e
 <br/>Haute-Normandie <br/>
 </td>
 <td align="center">
-<br/>4, 80 <br/>
+<br/>5, 01 <br/>
 </td>
 <td align="center">
-<br/>6, 78 <br/>
+<br/>7, 11 <br/>
 </td>
 </tr>
 <tr>
@@ -214,10 +213,10 @@ Jusqu'à la connaissance des montants définitifs des quantités de carburants e
 <br/>Pays de la Loire <br/>
 </td>
 <td align="center">
-<br/>3, 80 <br/>
+<br/>3, 96 <br/>
 </td>
 <td align="center">
-<br/>5, 39 <br/>
+<br/>5, 59 <br/>
 </td>
 </tr>
 <tr>
@@ -225,10 +224,10 @@ Jusqu'à la connaissance des montants définitifs des quantités de carburants e
 <br/>Picardie <br/>
 </td>
 <td align="center">
-<br/>4, 83 <br/>
+<br/>5, 28 <br/>
 </td>
 <td align="center">
-<br/>6, 82 <br/>
+<br/>7, 48 <br/>
 </td>
 </tr>
 <tr>
@@ -236,10 +235,10 @@ Jusqu'à la connaissance des montants définitifs des quantités de carburants e
 <br/>Poitou-Charentes <br/>
 </td>
 <td align="center">
-<br/>3, 97 <br/>
+<br/>4, 19 <br/>
 </td>
 <td align="center">
-<br/>5, 62 <br/>
+<br/>5, 92 <br/>
 </td>
 </tr>
 <tr>
@@ -247,10 +246,10 @@ Jusqu'à la connaissance des montants définitifs des quantités de carburants e
 <br/>Provence-Alpes-Côte d'Azur <br/>
 </td>
 <td align="center">
-<br/>3, 61 <br/>
+<br/>3, 91 <br/>
 </td>
 <td align="center">
-<br/>5, 11 <br/>
+<br/>5, 52 <br/>
 </td>
 </tr>
 <tr>
@@ -258,11 +257,10 @@ Jusqu'à la connaissance des montants définitifs des quantités de carburants e
 <br/>Rhône-Alpes <br/>
 </td>
 <td align="center">
-<br/>3, 89 <br/>
+<br/>4, 10 <br/>
 </td>
 <td align="center">
-<br/>5, 50 <br/>
-</td>
+<br/>5, 81</td>
 </tr>
 </tbody>
 </table>

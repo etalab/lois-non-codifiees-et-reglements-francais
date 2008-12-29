@@ -1,8 +1,8 @@
 # Article 83
 
-I. - Les orientations prioritaires des programmes pluriannuels d'intervention des agences de l'eau pour les années 2007 à 2012 sont les suivantes :
+I.-Les orientations prioritaires des programmes pluriannuels d'intervention des agences de l'eau pour les années 2007 à 2012 sont les suivantes :
 
-1° Contribuer à la réalisation des objectifs du schéma mentionné à l'article L. 212-1 du code de l'environnement, en application de la directive 2000/60/CE du Parlement européen et du Conseil, du 23 octobre 2000, établissant un cadre pour une politique communautaire dans le domaine de l'eau ;
+1° Contribuer à la réalisation des objectifs du schéma mentionné à l'article L. 212-1 du code de l'environnement, en application de la directive 2000 / 60 / CE du Parlement européen et du Conseil, du 23 octobre 2000, établissant un cadre pour une politique communautaire dans le domaine de l'eau ;
 
 2° Contribuer à la réalisation des objectifs du schéma mentionné à l'article L. 212-3 du même code ;
 
@@ -28,4 +28,4 @@ I. - Les orientations prioritaires des programmes pluriannuels d'intervention de
 
 Les délibérations des agences de l'eau doivent être compatibles avec les orientations ci-dessus.
 
-II. - Le montant des dépenses des agences de l'eau pour les années 2007 à 2012 ne peut excéder 14 milliards d'euros, hors primes mentionnées au I de l'article L. 213-9-2 du code de l'environnement et contribution à l'Office national de l'eau et des milieux aquatiques. Le montant des dépenses spécifiques versées par les agences de l'eau au titre de la solidarité avec les communes rurales ne peut être inférieur à un milliard d'euros entre 2007 et 2012. Le total des contributions des agences de l'eau aux ressources financières de l'Office national de l'eau et des milieux aquatiques ne peut excéder 108 millions d'euros par an.
+II.-Le montant des dépenses des agences de l'eau pour les années 2007 à 2012 ne peut excéder 14 milliards d'euros, hors primes mentionnées au I de l'article L. 213-9-2 du code de l'environnement et contribution à l'Office national de l'eau et des milieux aquatiques. Le montant des dépenses spécifiques versées par les agences de l'eau au titre de la solidarité avec les communes rurales ne peut être inférieur à un milliard d'euros entre 2007 et 2012. Le total des contributions, hors versements opérés en application du V de l'article L. 213-10-8 du même code, des agences de l'eau aux ressources financières de l'Office national de l'eau et des milieux aquatiques ne peut excéder 108 millions d'euros par an.

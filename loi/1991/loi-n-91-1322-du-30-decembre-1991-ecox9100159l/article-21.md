@@ -4,9 +4,9 @@ I. Paragraphe modificateur
 
 II. Il est instauré un prélèvement sur les recettes de l'Etat destiné à compenser la perte de recettes résultant des exonérations visées au I pour les collectivités locales ou les groupements dotés d'une fiscalité propre.
 
-En ce qui concerne les exonérations mentionnées aux a et d du I, cette compensation est égale, chaque année et pour chacune des taxes, au montant des bases d'imposition exonérées au titre de l'année précédente en application du I, multiplié par le taux voté par chaque collectivité ou groupement pour l'année 1991.
+En ce qui concerne les exonérations mentionnées aux a et d du I, cette compensation est égale, chaque année et pour chacune des taxes, au montant des bases d'imposition exonérées au titre de l'année précédente en application du I, multiplié par le taux voté par chaque collectivité ou groupement pour l'année 1991. Au titre de 2009, la compensation des exonérations visées au d du I, y compris lorsqu'elles visent les personnes mentionnées au e du I, calculée selon les dispositions qui précèdent est minorée par application d'un taux correspondant à l'écart entre le montant total versé en 2008 au titre de l'ensemble des compensations mentionnées aux I à X de l'article 48 de la loi n° 2008-1425 du 27 décembre 2008 de finances pour 2009 et le montant total de ces mêmes compensations prévu à cette fin pour 2009 par le XI de ce même article.
 
-En 2002, la compensation des exonérations visées au a du I versée au profit de chaque région et de la collectivité territoriale de Corse est égale à la compensation de l'année 2001 revalorisée en fonction du taux d'évolution de la dotation globale de fonctionnement. A compter de 2003, le montant de cette compensation évolue chaque année comme la dotation globale de fonctionnement.
+En 2002, la compensation des exonérations visées au a du I versée au profit de chaque région et de la collectivité territoriale de Corse est égale à la compensation de l'année 2001 revalorisée en fonction du taux d'évolution de la dotation globale de fonctionnement.A compter de 2003, le montant de cette compensation évolue chaque année comme la dotation globale de fonctionnement.
 
 Pour les exonérations visées au c du I, le taux à retenir pour le calcul de la compensation est celui de 1992.
 

@@ -8,7 +8,7 @@ Les opérations en compte au titre des chapitres de dépenses n°s 02, 04, 05, 0
 
 Les opérations en compte au titre du chapitre de dépenses n° 12 de ce compte sont transférées à l'établissement public chargé du développement du sport.
 
-Sont également transférés à cet établissement les droits et obligations afférents à la gestion des subventions d'équipement sportif aux collectivités territoriales ou à leurs établissements publics relevant des crédits de la mission Sport, jeunesse et vie associative du budget général.
+Sont également transférés à cet établissement les droits et obligations afférents à la gestion des subventions d'équipement sportif relevant des crédits de la mission Sport, jeunesse et vie associative du budget général.
 
 II. 1. - Paragraphe modificateur.
 

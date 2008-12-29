@@ -1,3 +1,3 @@
 # Article 46
 
-Une fraction égale à 70 % du produit du droit de timbre et des taxes perçus en application de l'article 953 du code général des impôts est affectée,                                      dans la limite de 47,5 millions d'euros, à l'Agence nationale des titres sécurisés .
+Le produit du droit de timbre perçu en application de l'article 953 du code général des impôts est affecté, dans la limite d'un montant de 131 millions d'euros, à l'Agence nationale des titres sécurisés.

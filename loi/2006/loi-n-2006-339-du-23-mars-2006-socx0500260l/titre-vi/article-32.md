@@ -2,7 +2,7 @@
 
 I.-Dans les conditions prévues par l'article 38 de la Constitution, le Gouvernement est autorisé à prendre par ordonnance toute mesure visant à :
 
-1° Instituer, à titre expérimental pour une durée qui ne saurait excéder quatre ans, en lieu et place de la convention de reclassement personnalisé prévue à l'article L. 321-4-2 du code du travail, un contrat de transition professionnelle, ayant pour objet le suivi d'un parcours de transition professionnelle pouvant comprendre des mesures d'accompagnement, des périodes de formation et des périodes de travail au sein d'entreprises ou d'organismes publics, au profit des personnes dont le licenciement est envisagé pour motif économique par les entreprises non soumises aux dispositions de l'article L. 321-4-3 du code du travail, implantées dans certains bassins d'emploi ;
+1° Instituer, à titre expérimental pour une durée qui ne saurait excéder cinq ans, en lieu et place de la convention de reclassement personnalisé prévue à l'article L. 321-4-2 du code du travail, un contrat de transition professionnelle, ayant pour objet le suivi d'un parcours de transition professionnelle pouvant comprendre des mesures d'accompagnement, des périodes de formation et des périodes de travail au sein d'entreprises ou d'organismes publics, au profit des personnes dont le licenciement est envisagé pour motif économique par les entreprises non soumises aux dispositions de l'article L. 321-4-3 du code du travail, implantées dans certains bassins d'emploi ;
 
 2° Fixer les conditions dans lesquelles l'employeur est tenu de proposer au salarié dont il envisage le licenciement le contrat mentionné au 1° et les conséquences de l'acceptation du salarié sur son contrat de travail ;
 

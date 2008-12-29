@@ -6,7 +6,7 @@ Le montant de la quote-part de la France dans le Fonds monétaire international 
 
 II. - Est autorisée l'approbation du quatrième amendement aux statuts du Fonds monétaire international qui a été adopté le 23 septembre 1997 par le conseil des gouverneurs de cette institution, et dont la traduction est annexée à la présente loi.
 
-III. - Le Gouvernement remettra chaque année au Parlement, au plus tard le 30 juin, un rapport présentant :
+III. - Chaque année avant le 15 septembre, le Gouvernement remet aux commissions du Parlement chargées des finances et des affaires étrangères un rapport présentant :
 
 a) L'activité du Fonds monétaire international au cours de son dernier exercice budgétaire, notamment les actions entreprises par le Fonds monétaire international pour assurer un suivi de la situation économique des Etats membres qui font appel à son concours ;
 

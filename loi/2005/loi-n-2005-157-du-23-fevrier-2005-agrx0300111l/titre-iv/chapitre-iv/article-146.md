@@ -12,6 +12,8 @@ Pour les communes qui appartiennent en 2003 à un établissement public de coop�
 
 Pour les communes qui sont membres d'un établissement public de coopération intercommunale soumis, à compter du 1er janvier 2004, aux dispositions de l'article 1609 nonies C du code général de impôts, le taux appliqué en 2003 dans la commune est majoré du taux voté en 2003 par l'établissement.
 
+Au titre de 2009, la compensation calculée selon les dispositions qui précèdent est minorée par application d'un taux correspondant à l'écart entre le montant total versé en 2008 au titre de l'ensemble des compensations mentionnées aux I à X de l'article 48 de la loi n° 2008-1425 du 27 décembre 2008 de finances pour 2009 et le montant total de ces mêmes compensations prévu à cette fin pour 2009 par le XI de ce même article.
+
 C. - Les dispositions du A s'appliquent aux impositions établies à compter du 1er janvier 2006.
 
 D. - (paragraphe modificateur).

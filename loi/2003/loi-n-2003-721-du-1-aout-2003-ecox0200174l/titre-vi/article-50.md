@@ -32,6 +32,6 @@ Le régime financier et comptable de l'agence est soumis aux articles 190 à 225
 
 Les biens et droits à caractère mobilier du domaine privé de l'Etat attachés aux services de la direction générale du Trésor et de la politique économique à l'étranger et qui sont nécessaires à l'accomplissement des missions d'UBIFrance lui sont transférés en pleine propriété. Les biens ainsi transférés relèvent du domaine privé de l'agence.
 
-Les biens immobiliers du domaine privé de l'Etat qui sont nécessaires à l'accomplissement des missions d'UBIFrance sont mis gratuitement à la disposition de l'agence à titre de dotation.L'agence supporte les coûts d'aménagement et les grosses réparations afférents à ces immeubles.
+Les biens immobiliers du domaine privé de l'Etat qui sont nécessaires à l'accomplissement des missions d'UBIFrance sont mis à la disposition de l'agence, directement ou par le canal d'une entité publique  appropriée de portage immobilier, dans des conditions financières fixées par le  ministre chargé du domaine ou, s'il y a lieu, par le conseil d'administration de  l'entité en cause.
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent article.

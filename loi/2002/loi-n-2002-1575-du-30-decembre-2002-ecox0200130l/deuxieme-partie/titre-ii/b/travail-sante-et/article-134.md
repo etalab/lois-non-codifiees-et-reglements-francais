@@ -7,3 +7,5 @@ II. - La prise en charge par les régions et la collectivité territoriale de Co
 Le montant de cette compensation est égal au montant de la dépense supportée par l'Etat en 2002 au titre de l'indemnité compensatrice forfaitaire. Ce montant évolue chaque année, dès 2003, comme la dotation globale de fonctionnement.
 
 Toutefois, en 2003, 2004 et 2005, le montant total de la compensation versée aux régions et à la collectivité territoriale de Corse est respectivement égal à 6 %, 63 % et 97 % du montant tel que calculé en application de l'alinéa précédent.
+
+A titre dérogatoire, l'évolution prévue au deuxième alinéa ne s'applique pas en 2009.

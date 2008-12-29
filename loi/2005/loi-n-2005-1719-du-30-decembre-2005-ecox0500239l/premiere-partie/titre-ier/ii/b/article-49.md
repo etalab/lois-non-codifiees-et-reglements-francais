@@ -1,6 +1,6 @@
 # Article 49
 
-I. - Il est ouvert dans les écritures du Trésor un compte d'affectation spéciale intitulé : Contrôle et sanction automatisés des infractions au code de la route.
+I.-Il est ouvert dans les écritures du Trésor un compte d'affectation spéciale intitulé : Contrôle et sanction automatisés des infractions au code de la route.
 
 Ce compte retrace :
 
@@ -14,9 +14,9 @@ b) Les dépenses effectuées au titre des frais d'impression, de personnalisatio
 
 Il est autorisé un découvert de 30 millions d'euros durant les trois mois suivant la création du compte d'affectation spéciale.
 
-II. - Par dérogation à l'article L. 2334-24 du code général des collectivités territoriales, le produit des amendes perçues par la voie de systèmes automatiques de contrôle et sanction est affecté successivement :
+II.-Par dérogation à l'article L. 2334-24 du code général des collectivités territoriales, le produit des amendes perçues par la voie de systèmes automatiques de contrôle et sanction est affecté successivement :
 
-1° Au compte d'affectation spéciale " Contrôle et sanction automatisés des infractions au code de la route , dans la limite de 194 millions d'euros ;
+1° Au compte d'affectation spéciale " Contrôle et sanction automatisés des infractions au code de la route, dans la limite de 212, 05 millions d'euros ;
 
 2° Aux bénéficiaires de la répartition de recettes prévue à l'article L. 2334-24 du code général des collectivités territoriales, dans les conditions prévues par cet article, dans la limite de 100 millions d'euros ;
 

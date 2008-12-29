@@ -40,7 +40,7 @@ b) Les projets de recherche et de développement sont agréés par les services 
 
 - implication, notamment financière, des collectivités territoriales et de leurs établissements publics de coopération intercommunale dotés d'une fiscalité propre.
 
-3. Les projets de recherche et de développement ne peuvent être présentés après le 31 décembre 2008.
+3. Les projets de recherche et de développement ne peuvent être présentés après le 31 décembre 2011.
 
 II. - Paragraphe modificateur
 

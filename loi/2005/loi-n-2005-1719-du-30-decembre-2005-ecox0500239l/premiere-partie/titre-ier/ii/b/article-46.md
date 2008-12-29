@@ -32,11 +32,11 @@ La première section, pour laquelle le ministre chargé de l'économie est ordon
 
 La seconde section, pour laquelle le ministre chargé du budget est ordonnateur principal, retrace, respectivement en dépenses et en recettes, le versement et le remboursement des avances sur le montant des impositions revenant aux régions, départements, communes, établissements et divers organismes.
 
-Cette section retrace notamment le versement de la part du produit de la taxe intérieure de consommation sur les produits pétroliers affectée à chaque département en application du I de l'article 59 de la loi de finances pour 2004 (n° 2003-1311 du 30 décembre 2003), dans les conditions suivantes :
+Cette section retrace notamment le versement de la part du produit de la taxe intérieure de consommation sur les produits pétroliers affectée à chaque département en application du I de l'article 59 de la loi de finances pour 2004 (n° 2003-1311 du 30 décembre 2003) et du I de l'article 51 de la loi n° 2008-1425 du 27 décembre 2008 de finances pour 2009, dans les conditions suivantes :
 
 1° Cette part est versée mensuellement, à raison d'un douzième du montant du droit à compensation du département ;
 
-2° Si le produit affecté à chaque département en vertu du pourcentage de la fraction de tarif qui lui est attribué par la loi de finances représente un montant annuel supérieur au montant total de son droit à compensation au titre de l'allocation de revenu minimum d'insertion et de l'allocation de revenu de solidarité, la différence fait l'objet d'un versement complémentaire dès ce montant connu.
+2° Si le produit affecté à chaque département en vertu du pourcentage de la fraction de tarif qui lui est attribué par la loi de finances représente un montant annuel supérieur au montant total de son droit à compensation au titre de l'allocation de revenu de solidarité active dans les conditions prévues par la loi n° 2008-1249 du 1er décembre 2008 généralisant le revenu de solidarité active et réformant les politiques d'insertion, la différence fait l'objet d'un versement complémentaire dès ce montant connu.
 
 III.-A compter du 1er janvier 2006, il est ouvert dans les écritures du Trésor un compte de concours financiers intitulé :
 
@@ -86,27 +86,27 @@ Ce compte retrace, respectivement en dépenses et en recettes, le versement et l
 
 VI.-1.A compter du 1er janvier 2006, il est ouvert dans les écritures du Trésor un compte de concours financiers intitulé :
 
-Avances à l'audiovisuel public.
+Avances à l'audiovisuel.
 
 Le ministre chargé du budget est l'ordonnateur principal de ce compte, qui reprend en balance d'entrée le solde des opérations antérieurement enregistrées par le compte d'avances n° 903-60 Avances aux organismes de l'audiovisuel public.
 
 Ce compte retrace :
 
-1° En dépenses : le montant des avances accordées aux sociétés et à l'établissement public visés par les articles 44,45 et 49 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication ;
+1° En dépenses  : d'une part, le montant des avances accordées aux sociétés et à l'établissement  public visés par les articles 44, 45 et 49 de la loi n° 86-1067 du 30 septembre  1986  relative à la liberté de communication et, d'autre part, jusqu'au 31 décembre  2011, le montant des avances accordées au groupement d'intérêt public visé à  l'article 100 de la loi n° 86 1067  du 30 septembre 1986 précitée ;
 
-2° En recettes : d'une part, les remboursements d'avances correspondant au produit de la redevance audiovisuelle, déduction faite des frais d'assiette et de recouvrement et du montant des intérêts sur les avances, et, d'autre part, le montant des dégrèvements de redevance audiovisuelle pris en charge par le budget général de l'Etat. Cette prise en charge par le budget général de l'Etat est limitée à 545,7 millions d'euros en 2008.
+2° En recettes : d'une part, les remboursements d'avances correspondant au produit de la redevance audiovisuelle, déduction faite des frais d'assiette et de recouvrement et du montant des intérêts sur les avances, et, d'autre part, le montant des dégrèvements de redevance audiovisuelle pris en charge par le budget général de l'Etat. Cette prise en charge par le budget général de l'Etat est limitée à 546 millions d'euros en 2009.
 
 Les frais d'assiette et de recouvrement sont calculés conformément au XI de l'article 1647 du code général des impôts.
 
 Le taux d'intérêt est celui des obligations ou bons du Trésor de même échéance que les avances ou, à défaut, d'échéance la plus proche.
 
-2. Les avances sont versées chaque mois aux organismes bénéficiaires à raison d'un douzième du montant prévisionnel des recettes du compte. Le montant des avances mensuelles est ajusté sur la base des recettes prévisionnelles attendues en fonction des mises en recouvrement dès que celles-ci sont connues.
+2. Les avances sont versées chaque mois aux organismes bénéficiaires à raison d'un douzième du montant prévisionnel des recettes du compte. Toutefois,  lorsque l'organisme bénéficiaire est celui institué à l'article 100 de la loi n° 86-1067 du 30 septembre 1986  précitée, le rythme  de versement des avances est déterminé par l'ordonnateur du compte. Le montant des avances mensuelles est ajusté sur la base des recettes prévisionnelles attendues en fonction des mises en recouvrement dès que celles-ci sont connues.
 
 Le solde est versé lors des opérations de répartition des recettes arrêtées au 31 décembre de l'année considérée.
 
 Les versements ne peuvent avoir pour effet de porter les avances effectuées pendant l'année civile à un montant supérieur aux recettes effectives du compte.
 
-3. Si les encaissements de redevance nets en 2008 sont inférieurs à 2 345 millions d'euros, la limite de la prise en charge par le budget général de l'Etat prévue au cinquième alinéa (2°) du 1 est majorée à due concurrence.
+3. Si les encaissements de redevance nets en 2009 sont  inférieurs à 2 451,7 millions d'euros, la limite de la prise en charge par le budget général de l'Etat prévue au cinquième alinéa (2°) du 1 est majorée à due concurrence.
 
 VII.-A compter du 1er janvier 2006, il est ouvert dans les écritures du Trésor un compte de concours financiers intitulé :
 
