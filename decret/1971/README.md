@@ -56,7 +56,6 @@
 - [Décret n°71-942 du 26 novembre 1971](decret-n71-942-du-26-novembre-1971)
 - [Décret n°71-323 du 28 avril 1971](decret-n71-323-du-28-avril-1971)
 - [Décret n°71-507 du 28 juin 1971](decret-n71-507-du-28-juin-1971)
-- [Décret n°71-912 du 28 octobre 1971](decret-n71-912-du-28-octobre-1971)
 - [Décret n°71-328 du 29 avril 1971](decret-n71-328-du-29-avril-1971)
 - [Décret n°71-343 du 29 avril 1971](decret-n71-343-du-29-avril-1971)
 - [Décret n°71-1105 du 30 décembre 1971](decret-n71-1105-du-30-decembre-1971)

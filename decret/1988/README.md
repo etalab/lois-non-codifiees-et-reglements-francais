@@ -40,7 +40,6 @@
 - [Décret n°88-673 du 6 mai 1988 (ASES8800725D)](decret-n88-673-du-6-mai-1988-ases8800725d)
 - [Décret du 7 avril 1988 (TRST8800109D)](decret-du-7-avril-1988-trst8800109d)
 - [Décret n°88-1034 du 7 novembre 1988 (SPSA8801306D)](decret-n88-1034-du-7-novembre-1988-spsa8801306d)
-- [Décret n°88-228 du 7 mars 1988 (TRST8800010D)](decret-n88-228-du-7-mars-1988-trst8800010d)
 - [Décret n°88-321 du 7 avril 1988 (RESK8800250D)](decret-n88-321-du-7-avril-1988-resk8800250d)
 - [Décret n°88-951 du 7 octobre 1988 (SPSH8801011D)](decret-n88-951-du-7-octobre-1988-spsh8801011d)
 - [Décret n°88-952 du 7 octobre 1988 (PRMX8810856D)](decret-n88-952-du-7-octobre-1988-prmx8810856d)
