@@ -6,4 +6,4 @@ L'usage professionnel du titre d'ostéopathe est réservé :
 
 2° Aux titulaires d'un diplôme délivré par un établissement agréé dans les conditions prévues aux articles 5 à 9 du décret du 25 mars 2007 susvisé ;
 
-3° Aux titulaires d'une autorisation d'exercice de l'ostéopathie ou d'user du titre d'ostéopathe délivrée par l'autorité administrative en application des articles 9 ou 16 du présent décret.
+3° Aux titulaires d'une autorisation d'exercice de l'ostéopathie ou d'user du titre d'ostéopathe délivrée par l'autorité administrative en application des articles 6 ou 16 du présent décret.

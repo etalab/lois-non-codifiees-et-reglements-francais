@@ -1,5 +1,7 @@
 # Article 10
 
-Les modalités de présentation de la demande d'autorisation d'exercice, et notamment la composition du dossier accompagnant cette demande, sont fixées par arrêté du ministre chargé de la santé.
+L'ostéopathe doit posséder les connaissances linguistiques nécessaires à  l'exercice de cette activité en France.
 
-Un récépissé est délivré à l'intéressé à la réception du dossier complet.
+Le préfet de  département apprécie le caractère suffisant de la maîtrise de la langue  française par l'intéressé lors de la procédure prévue à l'article 5 du présent  décret.
+
+Si les connaissances linguistiques s'avèrent  insuffisantes, la procédure est suspendue. Cette décision peut être contestée  devant le préfet de région.

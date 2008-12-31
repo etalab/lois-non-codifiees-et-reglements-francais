@@ -1,11 +1,7 @@
 # Article 9
 
-L'autorisation d'exercice est délivrée lorsque sont réunies les conditions définies à l'article 6.
+L'ostéopathe peut faire usage de son titre de formation dans la langue de l'Etat  qui le lui a délivré. Il est tenu de faire figurer le lieu et l'établissement où  il a été obtenu.
 
-Toutefois, dans les cas prévus à l'article 7, la délivrance de l'autorisation d'exercice est subordonnée à la vérification de la capacité du demandeur à l'exercice de la profession en France.
+Dans le cas où ce titre de formation est  susceptible d'être confondu avec un titre exigeant en France une formation  complémentaire que le professionnel n'a pas suivie, le préfet de région peut  décider que celui-ci doit porter le titre de formation de l'Etat membre  d'origine dans une forme appropriée qu'il lui indique.
 
-Cette vérification est effectuée, au choix du demandeur :
-
-1° Soit par une épreuve d'aptitude ;
-
-2° Soit à l'issue d'un stage d'adaptation dont la durée ne peut excéder trois ans.
+L'ostéopathe exerce son activité sous le titre professionnel français.
