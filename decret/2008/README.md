@@ -583,7 +583,6 @@
 - [Décret n°86-1130 du 17 octobre 1986](decret-n86-1130-du-17-octobre-1986)
 - [Décret n°2008-1193 du 18 novembre 2008 (PRMX0827272D)](decret-n2008-1193-du-18-novembre-2008-prmx0827272d)
 - [Décret n°2008-1197 du 18 novembre 2008 (DEVP0822438D)](decret-n2008-1197-du-18-novembre-2008-devp0822438d)
-- [Décret n°2008-1200 du 18 novembre 2008 (AGRP0816288D)](decret-n2008-1200-du-18-novembre-2008-agrp0816288d)
 - [Décret n°2008-1342 du 18 décembre 2008 (ECEA0824529D)](decret-n2008-1342-du-18-decembre-2008-ecea0824529d)
 - [Décret n°2008-1343 du 18 décembre 2008 (ECEA0824545D)](decret-n2008-1343-du-18-decembre-2008-ecea0824545d)
 - [Décret n°2008-1349 du 18 décembre 2008 (BCFS0829363D)](decret-n2008-1349-du-18-decembre-2008-bcfs0829363d)
