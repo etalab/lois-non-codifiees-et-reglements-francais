@@ -94,7 +94,6 @@
 - [Décret n°88-385 du 15 avril 1988 (ASES8800469D)](decret-n88-385-du-15-avril-1988-ases8800469d)
 - [Décret n°88-926 du 15 septembre 1988 (EQUU8800617D)](decret-n88-926-du-15-septembre-1988-equu8800617d)
 - [Décret n°88-931 du 16 septembre 1988 (AGRS8801405D)](decret-n88-931-du-16-septembre-1988-agrs8801405d)
-- [Décret n°90-1022 du 16 novembre 1990 (PRMG8970365D)](decret-n90-1022-du-16-novembre-1990-prmg8970365d)
 - [Décret n°88-1044 du 17 novembre 1988 (DOME8800036D)](decret-n88-1044-du-17-novembre-1988-dome8800036d)
 - [Décret n°88-1045 du 17 novembre 1988 (DOME8800037D)](decret-n88-1045-du-17-novembre-1988-dome8800037d)
 - [Décret n°88-1046 du 17 novembre 1988 (DOME8800038D)](decret-n88-1046-du-17-novembre-1988-dome8800038d)
