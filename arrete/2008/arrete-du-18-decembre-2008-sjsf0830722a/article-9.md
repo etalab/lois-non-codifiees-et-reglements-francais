@@ -1,0 +1,3 @@
+# Article 9
+
+L'annexe de l'arrêté du 8 mai 1974 susvisé relative à l'examen de formation spécifique du brevet d'Etat d'éducateur sportif du premier degré option « judo-jujitsu », l'arrêté du 19 août 1986 relatif à la formation conduisant au brevet d'Etat d'éducateur sportif du premier degré option judo, jiu-jitsu, organisée sous forme de contrôle continu des connaissances par un établissement ou service de l'Etat relevant du ministre chargé des sports et l'arrêté du 15 septembre 1989 relatif à la formation spécifique du brevet d'Etat d'éducateur sportif du premier degré option « judo, jujitsu » sont abrogés à compter du 1er janvier 2012.

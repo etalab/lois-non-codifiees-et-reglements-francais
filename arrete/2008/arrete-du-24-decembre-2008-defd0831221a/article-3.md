@@ -1,0 +1,3 @@
+# Article 3
+
+Ils sont responsables de l'administration générale et des soutiens communs des formations et organismes du ministère de la défense de leur base de défense expérimentale respective. Ils assurent en outre la coordination locale des soutiens délivrés aux formations et organismes de la base de défense expérimentale par les services et organismes du ministère, à l'exclusion du maintien en condition opérationnelle des matériels du ressort de la structure intégrée de maintien en condition des matériels aéronautiques de la défense, du service de soutien de la flotte et du service du matériel de l'armée de terre.

@@ -1,0 +1,3 @@
+# Article 20
+
+En cas de dommage causé par une opération spatiale ou la production d'un objet spatial à une personne participant à cette opération ou à cette production, la responsabilité de toute autre personne participant à l'opération spatiale ou à la production de l'objet spatial à l'origine du dommage et liée à la précédente par un contrat ne peut être recherchée à raison de ce dommage, sauf stipulation expresse contraire portant sur les dommages causés pendant la phase de production d'un objet spatial destiné à être maîtrisé dans l'espace extra-atmosphérique ou pendant sa maîtrise en orbite, ou cas de faute intentionnelle.
