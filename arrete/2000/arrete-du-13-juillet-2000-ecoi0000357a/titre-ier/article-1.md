@@ -10,4 +10,6 @@ Au sens du présent arrêté :
 
 - les gaz combustibles sont les combustibles gazeux à la température de 15 °C, à la pression atmosphérique, définis au sein de la norme NF EN 437 ainsi que le gaz de biomasse convenablement épuré ;
 
-- un opérateur est l'organisme responsable de la conception, de la construction, de la mise en service, de l'exploitation et de la maintenance d'un réseau.
+- un opérateur est l'organisme responsable de la conception, de la construction, de la mise en service, de l'exploitation et de la maintenance d'un réseau ;
+
+- sont considérées comme techniques utilisant un dispositif de guidage et de localisation de l'outil les techniques dites de forages dirigés et de microtunneliers.

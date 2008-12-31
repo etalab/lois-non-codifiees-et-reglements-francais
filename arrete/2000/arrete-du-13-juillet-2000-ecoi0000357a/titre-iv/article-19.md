@@ -6,6 +6,8 @@ Travaux réalisés par l'opérateur de réseau.
 
 L'opérateur de réseau met en oeuvre les moyens nécessaires pour que ses travaux n'engagent pas la sécurité des personnes et des biens. En outre, les opérations de terrassement ne doivent pas être susceptibles de dégrader les équipements des autres occupants du sous-sol.
 
+Lorsqu'il prévoit d'employer une technique de travaux sans tranchée à proximité d'un réseau défini aux articles 1er et 2 du présent arrêté, l'opérateur de réseau applique les recommandations techniques fixées par les deuxième et troisième alinéas de l'article 18.
+
 Sauf cas d'urgence, l'opérateur met en oeuvre avant intervention sur un élément quelconque du réseau des moyens adéquats lui permettant de s'assurer de la pertinence du repérage cartographique.
 
 Les dispositions à mettre en oeuvre pour réaliser cette investigation sont précisées dans un cahier des charges.
