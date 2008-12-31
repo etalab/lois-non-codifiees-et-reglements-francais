@@ -52,11 +52,11 @@ Jusqu'au 31 décembre 2010 :
 
 Paris-Louqsor (Egypte).
 
-Jusqu'au 28 février 2011 et à raison d'un maximum cumulé de deux fréquences hebdomadaires :
+Jusqu'au 28 février 2011 :
 
-Paris-Maurice (île Maurice) ;
+Paris―Maurice (île Maurice) ;
 
-Lyon-Maurice (île Maurice).
+Lyon―Maurice (île Maurice).
 
 Jusqu'au 31 juillet 2011 :
 
@@ -96,26 +96,34 @@ Paris-Cancún (Mexique)
 
 Paris-Mexico (Mexique).
 
-Jusqu'au 31 mars  2013 :
+Jusqu'au 31 mars 2013 :
 
 Paris―Halifax (Canada) ;
 
-Paris―Québec  (Canada) ;
+Paris―Québec (Canada) ;
 
 Paris―Toronto (Canada).
 
 Jusqu'au 31 mai 2013 :
 
-Paris―Al Ain (Emirats arabes unis)  (fret uniquement) ;
+Paris―Al Ain (Emirats arabes unis) (fret uniquement) ;
 
 Paris―Rabat (Maroc).
 
-Jusqu'au 31  octobre 2013 :
+Jusqu'au 31 octobre 2013 :
 
 Paris―Fès (Maroc) ;
 
 Paris―Marrakech (Maroc) ;
 
-Paris―La Havane (Cuba)  ;
+Paris―La Havane (Cuba) ;
 
 Paris―Santiago (Cuba).
+
+Jusqu'au 30 novembre 2013 :
+
+Marseille―Maurice (île Maurice) ;
+
+Nantes―Maurice (île Maurice) ;
+
+Toulouse―Maurice (île Maurice).
