@@ -6,7 +6,7 @@ Chaque table de texas hold'em poker possède une cagnotte distincte portant le m
 
 Le taux du prélèvement opéré au profit de la cagnotte sur le montant effectif de chaque pot est de 4 %.
 
-Le montant du prélèvement est arrondi à la dizaine de centimes d'euro la plus voisine.
+Le montant du prélèvement est arrondi au demi-euro supérieur.
 
 Le taux du prélèvement fait l'objet d'un affichage permanent, à disposition du public, situé à chaque table de jeu.
 

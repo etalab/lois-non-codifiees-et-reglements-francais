@@ -20,4 +20,4 @@ Ces résultats sont consignés sur un état mensuel du relevé des compteurs (mo
 
 Dans le cas où le casino adopterait une gestion comptable informatisée, cet état mensuel du relevé des compteurs peut être établi par procédé informatique garantissant la traçabilité des opérations.
 
-L'état mensuel de détermination des produits, théorique et réel, des jeux des machines à sous, visé à l'article 74 du présent arrêté, est établi à cette occasion.
+L'état récapitulatif mensuel de détermination du produit des jeux des machines à sous, visé à l'article 74 du présent arrêté, est établi à cette occasion.

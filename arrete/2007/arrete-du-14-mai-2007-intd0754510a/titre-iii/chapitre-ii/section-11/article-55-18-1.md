@@ -6,7 +6,7 @@ Le jeu du hold'em poker de contrepartie se joue avec un jeu de cinquante-deux ca
 
 Les dispositions des articles 39 et 40 relatives au dépôt, à la conservation, à l'usage des cartes sont applicables au jeu du hold'em poker de contrepartie.
 
-Après leur comptée et leur vérification, le croupier mélange ostensiblement les cartes devant les joueurs. Un mélangeur de cartes peut être utilisé dans les conditions décrites à l'article  40-1 du présent arrêté. Dans ce cas, l'utilisation de deux jeux de cartes de format américain et de couleurs différentes est requise.
+Après leur comptée et leur vérification, le croupier mélange ostensiblement les cartes devant les joueurs. Un mélangeur de cartes peut être utilisé dans les conditions décrites à l'article 40-1 du présent arrêté. Dans ce cas, l'utilisation de deux jeux de cartes de format américain et de couleurs différentes est requise.
 
 Le croupier affecté à la table anime la partie et contrôle son bon déroulement, invite les joueurs à miser. Il assure également la distribution des cartes.
 
@@ -32,7 +32,7 @@ Une fois leur mise effectuée, les joueurs ne peuvent ni miser à nouveau, ni ch
 
 Le croupier procède alors à la donne des cartes collectives au centre de la table.
 
-Il " brûle " une carte, puis retourne les trois cartes suivantes (le flop).
+Il "brûle" une carte, puis retourne les trois cartes suivantes (le flop).
 
 Les joueurs qui n'ont pas encore misé sur les cases A 3 ou A 4 ont le choix :
 
@@ -40,7 +40,7 @@ a) Ne rien faire ou
 
 b) Miser sur la case A 2, égale à 2 fois la valeur de leur première mise (Ante).
 
-Ensuite, le croupier " brûle " une carte, puis retourne une quatrième carte (" le Turn ") sur le tapis.
+Ensuite, le croupier "brûle" une carte, puis retourne une quatrième carte ("le Turn") sur le tapis.
 
 Les joueurs qui n'ont pas misé sur les cases A 2, A 3 ou A 4 ont le choix de :
 
@@ -48,7 +48,7 @@ a) Abandonner ;
 
 b) Mettre une mise sur A0,5 T (Turn) égale à la moitié de leur première mise.
 
-Ensuite, le croupier " brûle " une carte, puis retourne la cinquième et dernière carte (" le River ") sur le tapis.
+Ensuite, le croupier "brûle" une carte, puis retourne la cinquième et dernière carte ("le River") sur le tapis.
 
 Les joueurs qui ont misé sur la case A0,5 T (Turn) ont le choix de :
 
@@ -94,7 +94,7 @@ Toutes les autres mises, à l'exception du bonus (voir ci-après) ne sont ni pay
 
 Jeu et paiement du Bonus :
 
-La case Bonus est facultative et indépendante du reste du jeu. Les mises qui y sont placées doivent être comprises entre le minimum et le maximum des mises autorisées à la table, qu'elles soient inférieures ou supérieures à celles placées sur Ante et Super Ante.
+La case Bonus est facultative et indépendante du reste du jeu. Les mises qui y sont placées ne peuvent en aucun cas excéder dix fois le montant de la mise initiale dans la limite du maximum autorisé à la table.
 
 La case Bonus est payée à partir du brelan, et selon le tableau de paiements ci-dessous et repris sur le tapis, dans tous les cas, banque qualifiée ou non, main du joueur supérieure à la banque ou non :
 

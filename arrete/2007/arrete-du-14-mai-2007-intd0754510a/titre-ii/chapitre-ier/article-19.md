@@ -4,11 +4,11 @@ Documents à fournir à l'autorité administrative.
 
 Le directeur responsable du casino est tenu :
 
-1° D'adresser au préfet, par l'intermédiaire du commissaire de police chef du service des renseignements généraux de la circonscription où se trouve le casino, avant le 5 de chaque mois, deux exemplaires de la situation mensuelle (modèle n° 5) ;
+1° D'adresser au préfet, par l'intermédiaire du chef du service de la direction centrale de la police judiciaire territorialement compétent, avant le 5 de chaque mois, deux exemplaires de la situation mensuelle (modèle n° 5) ;
 
-2° De remettre au chef de service des renseignements généraux de la circonscription où se trouve le casino, avant leur prise de fonction, la liste nominative précisant le ou les emplois des personnes employées dans les salles de jeux.
+2° De remettre au chef du service de la direction centrale de la police judiciaire territorialement compétent, avant leur prise de fonction, la liste nominative précisant le ou les emplois des personnes employées dans les salles de jeux ;
 
-3° D'adresser directement au ministre de l'intérieur (service central des courses et jeux) :
+3° D'adresser directement au ministre de l'intérieur, direction centrale de la police judiciaire (service central des courses et jeux) :
 
 Avant le 5 de chaque mois, un exemplaire de la situation mensuelle (modèle n° 5) ;
 

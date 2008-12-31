@@ -2,13 +2,13 @@
 
 Organisation de tournois de texas hold'em poker avec mise en jeu de lots.
 
-Les casinos peuvent organiser des tournois de texas hold'em poker, avec mise en jeux de lots, dans leurs salles de jeux ou des locaux annexes situés dans leur enceinte.
+Les casinos peuvent organiser des tournois de texas hold'em poker, avec mise en jeux de lots, dans leur salle de jeux ou dans des locaux présentant les mêmes garanties de sincérité et de sécurité des jeux.
 
 Lorsque les tournois sont organisés dans les locaux annexes aux salles de jeux, les garanties de sécurité et de sincérité des jeux doivent être les mêmes que celles offertes dans les salles de jeux.
 
-Les conditions d'organisation du tournoi doivent être portées à la connaissance du ministre de l'intérieur et du trésorier-payeur général ou de son représentant et du comptable du Trésor, chef de poste, au moins deux mois à l'avance par le directeur responsable qui leur en communique les modalités du règlement dans le même délai.
+Les conditions d'organisation du tournoi doivent être portées à la connaissance du ministre de l'intérieur (service central des courses et jeux de la direction centrale de la police judiciaire), du préfet et du comptable du Trésor, chef de poste, au moins vingt et un jours à l'avance par le directeur responsable qui leur en communique les modalités du règlement dans les mêmes délais.
 
-Pour les tournois, du personnel supplémentaire peut être recruté temporairement par le casino, à la condition d'en informer le correspondant local du service des courses et jeux dans le délai précité en tenant à sa disposition un dossier conforme à celui prévu à l'article 15 du présent arrêté pour chaque employé.
+Pour les tournois, du personnel supplémentaire peut être recruté temporairement par le casino, à la condition d'en informer le chef du service de la direction centrale de la police judiciaire territorialement compétent au moins 21 jours à l'avance en lui transmettant un dossier conforme à celui prévu à l'article 15 du présent arrêté pour chaque employé.
 
 Le directeur responsable est le garant de la régularité du tournoi et de la sincérité des jeux. Il a seul, ainsi que les membres du comité de direction, qualité pour garantir cette régularité et cette sincérité.
 

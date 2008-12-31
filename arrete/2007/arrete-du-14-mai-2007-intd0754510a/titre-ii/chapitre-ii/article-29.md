@@ -10,9 +10,9 @@ Sont admis de droit dans les salles de jeux les divers fonctionnaires de l'ordre
 
 3° Les membres de l'inspection générale de l'administration ;
 
-4° Les fonctionnaires du service des courses et des jeux de la direction générale de la police nationale ;
+4° Les fonctionnaires de la direction centrale de la police judiciaire (service central des courses et jeux) ;
 
-5° Les fonctionnaires de police chargés spécialement de la surveillance du casino ;
+5° Les fonctionnaires de police des services territoriaux de la direction centrale de la police judiciaire chargés spécialement du contrôle et de la surveillance du casino ;
 
 6° Les magistrats du parquet et les juges d'instruction appartenant aux cours ou tribunaux ayant dans leur ressort la commune où est situé le casino ;
 
@@ -26,6 +26,6 @@ Sont admis de droit dans les salles de jeux les divers fonctionnaires de l'ordre
 
 11° Les membres de la commission chargée d'examiner les demandes d'autorisation et de renouvellement d'autorisation de jeux ;
 
-12° Les agents du service à compétence nationale TRACFIN dans le cadre de l'exercice du droit de communication des opérations de change prévus à l'article 564.2 du code monétaire et financier.
+12° Les agents du service à compétence nationale TRACFIN dans le cadre de l'exercice du droit de communication des opérations de change prévus à l'article 564-2 du code monétaire et financier.
 
 13° Les fonctionnaires et militaires en uniforme dans le cadre de l'exercice de leurs missions.

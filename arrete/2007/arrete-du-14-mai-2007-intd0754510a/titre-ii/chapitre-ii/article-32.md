@@ -10,4 +10,4 @@ Le directeur responsable peut solliciter des dispositions particulières d'ouver
 
 2° Adaptations soumises à déclaration préalable :
 
-A condition d'en informer le sous-directeur des courses et jeux au ministère de l'intérieur, le chef du service des renseignements généraux locaux et le comptable du Trésor chef de poste huit jours à l'avance, le directeur responsable peut, dans la limite de l'arrêté d'autorisation, augmenter ou diminuer le nombre de tables installées pour chaque type de jeux.
+A condition d'en informer au ministère de l'intérieur le directeur central de la police judiciaire, le chef du service de la direction centrale de la police judiciaire territorialement compétent et le comptable du Trésor, chef de poste, huit jours à l'avance, le directeur responsable peut, dans la limite de l'arrêté d'autorisation, augmenter ou diminuer le nombre de tables installées pour chaque type de jeux.

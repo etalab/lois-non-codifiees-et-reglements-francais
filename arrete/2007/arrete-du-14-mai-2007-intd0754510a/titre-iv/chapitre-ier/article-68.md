@@ -16,9 +16,9 @@ c) Pour les jeux des machines à sous sont tenus :
 
 - un carnet de comptabilité (modèle n° 29) par machine à sous sur lequel sont retracés les éléments servant à déterminer le produit brut réel des jeux de chaque appareil ;
 
-- un relevé mensuel des compteurs des machines à sous, visé à l'article 67-25 du présent arrêté, qui permet de fixer le produit brut théorique des jeux des machines à sous (modèle n° 32) ;
+- un relevé mensuel des compteurs des machines à sous, visé à l'article 67-25 du présent arrêté (modèle 32) ;
 
-- un état mensuel de détermination des produits, théorique et réel, des jeux des machines à sous (modèle n° 35) établi à partir des documents visés aux deux alinéas précédents.
+- un état récapitulatif mensuel de détermination du produit des jeux des machines à sous (modèle 35) établi à partir des documents visés aux alinéas précédents ;
 
 Les résultats de ce dernier état et du registre de contrôle susvisé sont ensuite reportés sur un carnet des prélèvements (modèle n° 13) qui sert à déterminer le montant des différents prélèvements auxquels le casino est assujetti.
 
@@ -26,4 +26,4 @@ Cotés et paraphés avant tout usage par le comptable du Trésor, chef de poste,
 
 Il est établi, en outre, une fois par mois, un bordereau de versement du prélèvement revenant à la commune en vertu du cahier des charges (modèle n° 14) et un décompte contradictoire des prélèvements visé à l'article 75 du présent arrêté.
 
-Lorsque la gestion comptable est informatisée, les carnets d'avance de la comptabilité peuvent être établis par informatique garantissant la traçabilité des opérations et validés par signature électronique.
+Lorsque la gestion comptable est informatisée, les documents de la comptabilité spéciale peuvent être établis par informatique garantissant la traçabilité des opérations et validés par signature électronique.

@@ -10,21 +10,21 @@ Le directeur responsable est tenu d'afficher, de manière visible, à l'entrée 
 
 --les mineurs, même émancipés ;
 
-- les fonctionnaires ou militaires en uniforme en dehors de l'exercice de leur mission ;
+-les fonctionnaires ou militaires en uniforme en dehors de l'exercice de leur mission ;
 
-- les personnes en état d'ivresse ou susceptibles de provoquer du scandale ou des incidents ;
+-les personnes en état d'ivresse ou susceptibles de provoquer du scandale ou des incidents ;
 
-- les personnes dont le ministre de l'intérieur a requis l'exclusion. "
+-les personnes dont le ministre de l'intérieur a requis l'exclusion. "
 
 2° Une affiche indiquant que :
 
-- les jeux ne peuvent être pratiqués qu'argent comptant ;
+-les jeux ne peuvent être pratiqués qu'argent comptant ;
 
-- tout enjeu sur parole est interdit ;
+-tout enjeu sur parole est interdit ;
 
-- toute association de joueurs est interdite ;
+-toute association de joueurs est interdite ;
 
-- toute utilisation d'artifices dans le cours du jeu est interdite.
+-toute utilisation d'artifices dans le cours du jeu est interdite.
 
 3° Les heures d'ouverture et de fermeture et, le cas échéant, le montant du droit d'entrée.
 
@@ -34,7 +34,7 @@ Par ailleurs, le directeur responsable est tenu d'apposer :
 
 Dans les salles de jeux où sont exploités les jeux de la boule et du vingt-trois :
 
-A. - Une affiche :
+A.-Une affiche :
 
 1° Indiquant que :
 
@@ -78,13 +78,13 @@ Dans tous les cas, le joueur gagnant conserve sa mise.
 
 Le maximum des mises s'applique par cylindre à chaque joueur considéré isolément. "
 
-B. - Un avis précisant le taux minimal et maximal des mises et le montant des avances, et indiquant :
+B.-Un avis précisant le taux minimal et maximal des mises et le montant des avances, et indiquant :
 
 " Les avances de caisse, de même que l'encaisse, restant en fin de partie sont comptées ostensiblement devant le public et assez lentement pour que les assistants puissent suivre l'opération dans tous ses détails et qu'elles soient clairement identifiables sur les enregistrements du système de vidéosurveillance. La somme reconnue est appelée à haute voix et inscrite immédiatement au carnet d'avances. Toute personne présente peut demander communication de ce carnet pour s'assurer que les sommes portées correspondent exactement aux sommes appelées. "
 
 Dans les salles affectées aux jeux de cercle et aux jeux de contrepartie :
 
-A. - L'avis suivant :
+A.-L'avis suivant :
 
 " Les jeux ne peuvent être pratiqués qu'argent comptant. Tout enjeu sur parole est interdit. Les sommes sont représentées :
 
@@ -92,13 +92,13 @@ Par des billets de banque et des pièces de monnaie ayant cours légal en France
 
 Par des jetons ou plaques ou titres de valeur fournis par l'établissement à ses risques et périls (décret du 22 décembre 1959). "
 
-B. - Une affiche portant les prescriptions suivantes :
+B.-Une affiche portant les prescriptions suivantes :
 
 " Jeux de cercles :
 
 Aux jeux dits de cercle, la somme en banque ne doit comprendre que des jetons ou plaques. Les mises des pontes peuvent être représentées par des billets de banque, mais l'échange en devient obligatoire en cas de perte. Il ne peut être procédé à aucune opération de change à table. Le change s'effectue soit à la caisse, soit, pour les joueurs assis à table, par l'intermédiaire d'un employé chargé exclusivement de cette fonction, possesseur d'une caisse contenant une somme fixée à l'avance par la direction, et qui se tient debout devant le croupier, et reproduisant l'article 58 et l'article 57 relatifs au texas hold'em poker du présent arrêté. "
 
-C. - Une affiche :
+C.-Une affiche :
 
 1. Portant les prescriptions suivantes :
 
@@ -146,15 +146,15 @@ Chacune des mains d'un même joueur est considérée individuellement et suit l'
 
 5. Reproduisant, outre les règlements particuliers à l'établissement pour l'entrée des joueurs ou tireurs dans le jeu, les extraits suivants des articles 55-6 et 55-7 du présent arrêté :
 
-" Le jeu du craps se joue avec deux dés de couleurs différentes. A chaque séance, trois paires de dés en parfait état et différentes de celles utilisées lors de la précédente séance sont mises à la disposition de chaque table. Le stickman préposé aux dés est chargé d'en vérifier le bon état en tant que de besoin en cours de partie, de les passer aux joueurs et est seul habilité à faire les différentes annonces nécessitées par le déroulement du jeu. Les dés sont proposés successivement aux joueurs en partant, en début de partie, de celui qui se trouve à gauche des croupiers, puis dans le sens des aiguilles d'une montre. Si un joueur refuse son tour, les dés passent au joueur suivant dans l'ordre prévu. Le stickman passe les dés au joueur au moyen de sa canne et doit éviter de les toucher, sauf pour les examiner ou les ramasser lorsqu'ils sont tombés de la table. Le joueur qui lance les dés, ou tireur, doit les jeter immédiatement après l'annonce du " Rien ne va plus " et ne doit ni les frotter ni les garder dans la main. Un cornet transparent peut être utilisé pour le lancer. Les dés sont lancés de telle manière qu'ils s'immobilisent dans la partie de la table opposée à la place d'où ils ont été jetés après que l'un au moins ait frappé le bord opposé au joueur. Ils doivent rouler et non glisser et, pour être valables, être immobilisés à plat sur le tapis. En cas de dés cassés, superposés, à cheval ou arrêtés sur un jeton ou tombés de la table et à chaque fois que le lancer n'a pas été régulier, le manieur de canne annonce " Coup nul ". Le chef de table peut retirer à un joueur son tour de jeter les dés s'il viole de façon répétée les règles du lancer. Aucune mise ne peut être déposée après le " Rien ne va plus ". Le tireur doit avoir déposé une mise soit sur la ligne gagnante, soit sur la ligne perdante avant de jeter les dés ; il peut en outre jouer à son gré sur toutes les autres chances possibles. Les joueurs ne peuvent faire usage que des quatre chances suivantes :
+" Le jeu du craps se joue avec deux dés de couleurs différentes.A chaque séance, trois paires de dés en parfait état et différentes de celles utilisées lors de la précédente séance sont mises à la disposition de chaque table. Le stickman préposé aux dés est chargé d'en vérifier le bon état en tant que de besoin en cours de partie, de les passer aux joueurs et est seul habilité à faire les différentes annonces nécessitées par le déroulement du jeu. Les dés sont proposés successivement aux joueurs en partant, en début de partie, de celui qui se trouve à gauche des croupiers, puis dans le sens des aiguilles d'une montre. Si un joueur refuse son tour, les dés passent au joueur suivant dans l'ordre prévu. Le stickman passe les dés au joueur au moyen de sa canne et doit éviter de les toucher, sauf pour les examiner ou les ramasser lorsqu'ils sont tombés de la table. Le joueur qui lance les dés, ou tireur, doit les jeter immédiatement après l'annonce du " Rien ne va plus " et ne doit ni les frotter ni les garder dans la main. Un cornet transparent peut être utilisé pour le lancer. Les dés sont lancés de telle manière qu'ils s'immobilisent dans la partie de la table opposée à la place d'où ils ont été jetés après que l'un au moins ait frappé le bord opposé au joueur. Ils doivent rouler et non glisser et, pour être valables, être immobilisés à plat sur le tapis. En cas de dés cassés, superposés, à cheval ou arrêtés sur un jeton ou tombés de la table et à chaque fois que le lancer n'a pas été régulier, le manieur de canne annonce " Coup nul ". Le chef de table peut retirer à un joueur son tour de jeter les dés s'il viole de façon répétée les règles du lancer. Aucune mise ne peut être déposée après le " Rien ne va plus ". Le tireur doit avoir déposé une mise soit sur la ligne gagnante, soit sur la ligne perdante avant de jeter les dés ; il peut en outre jouer à son gré sur toutes les autres chances possibles. Les joueurs ne peuvent faire usage que des quatre chances suivantes :
 
-- chances simples ;
+-chances simples ;
 
-- chances multiples ;
+-chances multiples ;
 
-- chances associées ;
+-chances associées ;
 
-- paris définis. "
+-paris définis. "
 
 6. Reproduisant les dispositions des deux premiers paragraphes de l'article 51 et les articles 55-10, 55-11 et 55-12 du présent arrêté concernant le jeu de la roulette anglaise ;
 
@@ -172,7 +172,7 @@ Chacune des mains d'un même joueur est considérée individuellement et suit l'
 
 " Aux jeux de contrepartie, les avances de caisse, de même que l'encaisse restant en fin de partie, sont comptées assez lentement pour que ceux-ci soient clairement identifiables sur les enregistrements effectués par le système de vidéosurveillance. La somme reconnue est appelée à haute voix et inscrite immédiatement dans le carnet d'avances. Toute personne présente peut demander communication de ce carnet pour s'assurer que les sommes portées correspondent exactement aux sommes appelées. "
 
-D. - Une affiche de grande dimension portant le texte suivant :
+D.-Une affiche de grande dimension portant le texte suivant :
 
 " Avis au public :
 
@@ -202,4 +202,4 @@ Les gains sont délivrés soit directement, en pièces de monnaies, en jetons ou
 
 Les opérations de change s'effectuent soit en caisse, soit auprès de changeurs itinérants spécialement affectés à cette tâche. Aucune opération de change de fausses pièces ou de monnaies étrangères provenant de la machine ne peut être effectuée à la demande du joueur par les changeurs ou caissiers.
 
-Les fonctionnaires de la sous-direction des courses et des jeux du ministère de l'Intérieur ou ses représentants dans les départements, ainsi que les fonctionnaires du ministère chargé de l'économie, des finances et du budget ou leurs représentants sont chargés du contrôle et de la sincérité du fonctionnement de ces jeux.
+Les fonctionnaires de la direction centrale de la police judiciaire au ministère de l'intérieur (service central des courses et jeux) ou ses représentants dans les services territoriaux de police judiciaire, ainsi que les fonctionnaires du ministère chargé de l'économie, des finances et du budget ou leurs représentants sont chargés du contrôle et de la sincérité du fonctionnement de ces jeux.

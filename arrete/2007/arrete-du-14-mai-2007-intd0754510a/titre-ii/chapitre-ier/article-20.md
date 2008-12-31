@@ -18,4 +18,4 @@ Le directeur responsable du casino est tenu :
 
 7° De transmettre au trésorier-payeur général ou à son représentant, au début de chaque saison, une note relative au mode de partage des pourboires (modèle n° 3) et dans les huit jours qui suivent la clôture de la saison et en double expédition l'état d'attribution des pourboires (modèle n° 4) appuyé d'une copie certifiée du compte du grand livre intitulé " pourboires " ;
 
-8° D'adresser au trésorier-payeur général ou à son représentant, dans les huit jours qui suivent la clôture de la saison, un exemplaire de la situation mensuelle du dernier mois de la saison (modèle n° 5).
+8° D'adresser au trésorier-payeur général ou à son représentant, avant le 5 de chaque mois, un exemplaire de la situation mensuelle (modèle n° 5).

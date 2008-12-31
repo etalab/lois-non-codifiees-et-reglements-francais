@@ -2,17 +2,13 @@
 
 Versement des prélèvements.
 
-Bien qu'elles ne soient pas immédiatement exigibles, les sommes représentant le montant des prélèvements sont la propriété de leurs bénéficiaires :
+Le montant des prélèvements doit être versé au comptable du Trésor, chef de poste, le jour même de sa vérification, ou le lendemain, si le casino se trouve dans la même localité que le poste comptable et, dans le cas contraire, dans un délai maximum de trois jours.
 
-- dès leur entrée dans la cagnotte pour les jeux de cercle et la forme électronique de ces jeux ;
+Ces délais sont de rigueur et ne peuvent être dépassés sous aucun prétexte.
 
-- dès leur inscription sur les carnets de prélèvements (modèle n° 13) pour les jeux de contrepartie et la forme électronique de ces jeux ainsi que les appareils mentionnés à l'article 2 de la loi n° 83-628 du 12 juillet 1983.
+Dans l'attente de ce versement, le directeur est tenu de mettre en réserve, chaque jour sur un compte bancaire spécialement ouvert à cet effet, une somme représentant un trentième du montant des prélèvements assis sur le produit des jeux réalisé au titre du mois précédent. Le directeur du casino est constitué comptable du transfert de ces fonds sur le compte susvisé.L'emploi, même momentané, de ces fonds à un autre usage constitue un détournement au détriment de leurs bénéficiaires et entraîne le retrait immédiat de l'autorisation de jeux.
 
-Le directeur est constitué comptable de ces fonds à partir de ce moment. Ils sont mis en réserve pour être exactement versés au comptable du Trésor, chef de poste, le jour même de la vérification, ou le lendemain, si le casino se trouve dans la même localité que le poste comptable et, dans le cas contraire, dans un délai maximum de trois jours.
-
-Ces délais sont de rigueur et ne peuvent être dépassés sous aucun prétexte. L'emploi, même momentané, de ces fonds à un autre usage constitue un détournement au détriment de leurs bénéficiaires et entraîne le retrait immédiat de l'autorisation de jeux.
-
-Le directeur responsable peut en lieu et place de cette mise en réserve lui substituer une garantie bancaire permettant d'assurer le versement des fonds au comptable du Trésor, chef de poste, dans les délais visés ci-après.
+Le directeur peut en lieu et place de cette mise en réserve lui substituer une garantie bancaire à première demande permettant d'assurer le versement des fonds au comptable du Trésor, chef de poste, dans les délais visés ci-après.
 
 Cette garantie doit être constituée avant le commencement de la saison des jeux auprès d'un établissement bancaire établi en France. Son montant revu annuellement doit correspondre à un douzième du montant des prélèvements versés au titre de l'année précédente, majoré de 5 %.
 

@@ -16,7 +16,7 @@ Il lui est remis, à chaque début de séance, une caisse de change qui doit êt
 
 Le croupier ne peut pas être relevé pendant le coup.
 
-Le chef de partie, ou le chef de table placé sous sa surveillance, est affecté au contrôle de deux tables au plus pour assurer la clarté et la régularité du jeu, des paiements et de toutes les opérations effectuées aux tables.
+Un chef de partie ou un chef de table placé sous sa surveillance, ou celle d'un membre du comité de direction, est affecté au contrôle de deux tables au plus pour assurer la clarté et la régularité du jeu, des paiements et de toutes les opérations effectuées aux tables.
 
 A défaut d'une salle consacrée uniquement au texas hold'hem poker dont l'accès est soumis à l'enregistrement de l'identité des joueurs, les casinos exploitant ce jeu doivent agencer un espace qui lui est dédié spécifiquement et dont l'accès est soumis au même enregistrement.
 
@@ -32,11 +32,11 @@ Les joueurs ne disposent que d'une seule main et ne peuvent pas miser sur des em
 
 En cours de partie, aucun joueur n'est autorisé à changer de place. Seul le chef de partie ou le chef de table a la faculté d'intervenir pour l'attribution des places assises.
 
-Avant le début de la séance ou lorsque toutes les places aux tables de jeu sont attribuées, les joueurs ont la possibilité de se faire inscrire sur une liste d'attente qui est placée sous la responsabilité du chef de partie.
+Avant le début de la séance ou lorsque toutes les places aux tables de jeu sont attribuées, les joueurs ont la possibilité de se faire inscrire sur une liste d'attente qui est placée sous la responsabilité du chef de partie ou d'un membre du comité de direction.
 
 Ce dernier procède à l'appel, par ordre d'inscription, des joueurs qui se sont inscrits à l'avance. Si l'un ou plusieurs de ces joueurs ne répondent pas à l'appel, celui-ci continue jusqu'à ce que l'un d'entre eux y réponde et prenne place à la table de jeu. L'attribution des places assises est effectuée par le chef de partie de façon aléatoire.
 
-Durant une partie, un joueur peut s'absenter en laissant ses mises à la table de jeu sous la surveillance du croupier. La direction du casino a la possibilité, dans son règlement intérieur, de fixer la durée maximale de cette absence.
+L'attribution des places assises est effectuée par le chef de partie ou un membre du comité de direction, de façon aléatoire.
 
 Dans le cas où le joueur s'absente au-delà de la durée maximale prévue, le chef de partie ou le chef de table consigne la mise au nom du joueur et procède à l'attribution de la place vacante. Si la mise consignée n'est pas réclamée avant la fin de la séance, elle est portée au registre des orphelins.
 
@@ -44,7 +44,7 @@ Il ne peut être procédé à aucune opération de change à table.
 
 Les mises ne peuvent être représentées que par des jetons ou des plaques. Aucun enjeu sur parole n'est toléré.
 
-Les joueurs doivent se présenter à la table de jeu avec une mise initiale dite cave constituée de plaques et jetons dont le change est effectué en caisse. Le montant minimum de la cave initiale est déterminé par la direction de l'établissement, à chaque début de séance, et ne peut plus être modifié avant la séance suivante.
+Le montant de la cave peut être modifié en cours de séance et au début d'une partie dans les conditions prévues à l'article 57-3 du présent arrêté, à condition d'avoir procédé au préalable à la détermination du montant de la cagnotte de la partie terminée.
 
 A leur installation à la table de jeu, les joueurs disposent leur cave bien en évidence sur le tapis, à la vue du croupier et des autres joueurs. Seules sont considérées comme participant au jeu les mises de chaque joueur disposées sur le tapis, à la vue du croupier et des autres joueurs. La somme totale de ces mises constitue le tapis du joueur.
 
@@ -160,10 +160,10 @@ La plus haute des cartes qui composent la combinaison départage les combinaison
 
 En cas d'égalité entre les combinaisons de deux joueurs ou plus, faisant appel à moins de cinq cartes, la main la plus forte sera celle comportant la carte du joueur la plus élevée en dehors de ces combinaisons.
 
-En cas d'égalité parfaite, le pot sera partagé entre toutes les mains ex aequo. Il y a égalité parfaite lorsque les joueurs ont la même combinaison composée de cinq cartes issues de leurs deux cartes ou de l'une de leurs deux cartes et du board, ou seulement du board.
+En cas d'égalité entre les combinaisons composées de moins de cinq cartes obtenues par deux joueurs ou plus, la main de cinq cartes gagnante sera celle qui comportera en complément, issues de la main du joueur ou du board, la ou les cartes les plus fortes.
 
 Le croupier soumet le pot au prélèvement opéré au profit de l'établissement. Le montant du prélèvement est immédiatement versé dans la cagnotte encastrée dans la table de jeu.
 
 A l'issue de l'opération de prélèvement, le croupier remet au gagnant la totalité du pot minorée du prélèvement.
 
-Pour arrêter la partie, les trois dernières mains devront être annoncées préalablement.
+Pour arrêter la partie, la dernière main devra être annoncée préalablement.

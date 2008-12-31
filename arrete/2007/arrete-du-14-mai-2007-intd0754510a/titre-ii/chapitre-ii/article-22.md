@@ -14,4 +14,4 @@ Le ministre de l'intérieur prononce l'exclusion des salles de jeux :
 
 Ces mesures sont susceptibles d'être révisées périodiquement.
 
-Les décisions d'exclusion ou de radiation de la liste des personnes exclues sont communiquées par le ministère de l'intérieur, tous les mois, par voie électronique sous forme d'un fichier sécurisé et réplicable informatiquement au directeur responsable de chaque casino. Le directeur responsable doit faire tenir un fichier des exclus de jeu. Ce fichier peut être informatisé dans des conditions conformes à la loi n° 78-17 du 6 janvier 1978 modifiée relative à l'informatique, aux fichiers et aux libertés.
+Les décisions d'exclusion ou de radiation de la liste des personnes exclues sont communiquées par le ministère de l'intérieur, tous les mois, avec effet sous deux jours ouvrables, par voie électronique sous forme d'un fichier sécurisé et réplicable informatiquement au directeur responsable de chaque casino.

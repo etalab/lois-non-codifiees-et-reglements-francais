@@ -6,7 +6,7 @@ Les seuls fonctionnaires qui ont qualité, à l'exclusion de tous autres agents 
 
 1° Le préfet et le sous-préfet ;
 
-2° Les fonctionnaires du ministère de l'intérieur affectés au service central des courses et des jeux ou dans un service local des renseignements généraux ;
+2° Les fonctionnaires du ministère de l'intérieur affectés à la direction centrale de la police judiciaire (service central des courses et jeux) ou exerçant la mission de surveillance et de contrôle des casinos dans un de ses services territoriaux ;
 
 3° Les inspecteurs des finances ;
 

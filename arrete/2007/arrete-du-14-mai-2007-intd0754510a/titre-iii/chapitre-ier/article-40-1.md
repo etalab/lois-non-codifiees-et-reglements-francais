@@ -4,6 +4,8 @@ Mélangeur-distributeur automatique de cartes de jeux.
 
 Les casinos peuvent utiliser un mélangeur automatique de cartes de jeu pour le stud poker, le black jack, le punto banco, le hold'em poker et le Texas hold'em poker.
 
+Les cartes agréées pour les mélangeurs-distributeurs le sont également pour les jeux conduits manuellement.
+
 L'utilisation du mélangeur est optionnelle et peut, au choix de l'exploitant, n'être adoptée que sur une partie seulement des tables de jeu du casino.
 
 A. - Pour le stud poker, le hold'em poker et le texas hold'em poker, le mélangeur automatique de cartes agréé est utilisé parallèlement au déroulement habituel du jeu.
@@ -34,7 +36,7 @@ B. - Pour le black jack, le mélangeur automatique de cartes doit être muni de 
 
 Avant le début du jeu, le croupier doit soulever le capot de l'appareil couvrant la roue qui reçoit les cartes afin de presser le bouton de mise en marche.
 
-Sur sollicitation d'un joueur, il doit montrer l'absence de carte dans la machine. L'employé règle, par pression sur les touches de contrôle, le jeu de black jack afin d'afficher sur l'écran " black jack 6 jeux ".
+Sur sollicitation d'un joueur, il doit montrer l'absence de carte dans la machine. L'employé règle, par pression sur les touches de contrôle, le jeu de black jack afin d'afficher sur l'écran "black jack 6 jeux".
 
 Une fois le capot refermé, l'appareil est prêt à son utilisation.
 
@@ -56,14 +58,14 @@ C. - Pour le punto banco, le mélangeur automatique de cartes est utilisé paral
 
 Avant le début du jeu, le croupier doit soulever le capot de l'appareil couvrant la roue qui reçoit les cartes afin d'appuyer sur le bouton de mise en marche.
 
-Sur sollicitation d'un joueur, il doit montrer l'absence de carte dans la machine. L'employé règle, par pression sur les touches de contrôle afin d'afficher sur l'écran " 6 jeux ". Une fois le capot refermé, l'appareil est prêt à son utilisation.
+Sur sollicitation d'un joueur, il doit montrer l'absence de carte dans la machine. L'employé règle, par pression sur les touches de contrôle afin d'afficher sur l'écran "6 jeux". Une fois le capot refermé, l'appareil est prêt à son utilisation.
 
 Le croupier peut alors préparer les cartes conformément à l'article précédent, en comptant et en vérifiant les cartes des six jeux.
 
 Une fois la totalité des six jeux insérés et après le mélange automatique opéré par l'appareil, la première carte apparaît, face cachée, dans l'embout distributeur.
 
-La partie se déroule comme avec un sabot manuel, la première carte retournée figure au-dessus. La valeur de cette carte (les figures valant 10 pour cette opération) indique le nombre de cartes qui seront " brûlées " avant de commencer le jeu.
+La partie se déroule comme avec un sabot manuel, la première carte retournée figure au-dessus. La valeur de cette carte (les figures valant 10 pour cette opération) indique le nombre de cartes qui seront "brûlées" avant de commencer le jeu.
 
-A la fin de la première main, les cartes utilisées pour le jeu et les cartes " brûlées " sont réintroduites dans l'appareil. Le jeu se poursuit de la même manière avec les cartes utilisées, qui sont réintroduites dans l'appareil avant le début de chaque nouvelle donne.
+A la fin de la première main, les cartes utilisées pour le jeu et les cartes "brûlées" sont réintroduites dans l'appareil. Le jeu se poursuit de la même manière avec les cartes utilisées, qui sont réintroduites dans l'appareil avant le début de chaque nouvelle donne.
 
 En fin de séance, les cartes sont retirées manuellement de l'appareil, le mélangeur est déconnecté et les jeux de cartes sont remis dans l'armoire à cartes après vérification.
