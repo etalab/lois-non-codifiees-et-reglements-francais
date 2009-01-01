@@ -11,10 +11,10 @@ A. - Pour les épreuves d'examens théoriques aux brevets, licences, qualificati
 <p align="center">EXAMEN THÉORIQUE</p>
 </td>
 <td width="137">
-<p align="center">TARIF<br/>par preuve<br/>(en euros)</p>
+<p align="center">TARIF<br/>par preuve isolée<br/>(en euros)</p>
 </td>
 <td width="138">
-<p align="center">FORFAIT<br/>pour l'ensemble<br/>des épreuves d'un examen<br/>(en euros)</p>
+<p align="center">FORFAIT<br/>pour l'examen<br/>(en euros)</p>
 </td>
 </tr>
 <tr>
@@ -22,10 +22,10 @@ A. - Pour les épreuves d'examens théoriques aux brevets, licences, qualificati
 <p>Pilote de ligne</p>
 </td>
 <td width="137">
-<p align="center">71</p>
+<p align="center">75</p>
 </td>
 <td width="138">
-<p align="center">950</p>
+<p align="center">970</p>
 </td>
 </tr>
 <tr>
@@ -33,10 +33,10 @@ A. - Pour les épreuves d'examens théoriques aux brevets, licences, qualificati
 <p>Pilote professionnel</p>
 </td>
 <td width="137">
-<p align="center">50</p>
+<p align="center">60</p>
 </td>
 <td width="138">
-<p align="center">300</p>
+<p align="center">350</p>
 </td>
 </tr>
 <tr>
@@ -44,21 +44,10 @@ A. - Pour les épreuves d'examens théoriques aux brevets, licences, qualificati
 <p>Qualification de vol aux instruments</p>
 </td>
 <td width="137">
-<p align="center">36</p>
+<p align="center">60</p>
 </td>
 <td width="138">
-<p align="center">220</p>
-</td>
-</tr>
-<tr>
-<td width="387">
-<p>Certificat de sécurité sauvetage</p>
-</td>
-<td width="137">
-<br/>
-</td>
-<td width="138">
-<p align="center">62</p>
+<p align="center">300</p>
 </td>
 </tr>
 <tr>
@@ -69,7 +58,7 @@ A. - Pour les épreuves d'examens théoriques aux brevets, licences, qualificati
 <br/>
 </td>
 <td width="138">
-<p align="center">68</p>
+<p align="center">70</p>
 </td>
 </tr>
 <tr>
@@ -80,18 +69,29 @@ A. - Pour les épreuves d'examens théoriques aux brevets, licences, qualificati
 <br/>
 </td>
 <td width="138">
-<p align="center">80</p>
+<p align="center">100</p>
 </td>
 </tr>
 <tr>
 <td width="387">
-<p>Contrôle du niveau de compétence linguistique (FCL 1.028/ FCL 2028)</p>
+<p>Contrôle du niveau de compétence linguistique IFR</p>
 </td>
 <td width="137">
 <br/>
 </td>
 <td width="138">
-<p align="center">60</p>
+<p align="center">100</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Contrôle du niveau de compétence linguistique VFR</p>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<p align="center">75</p>
 </td>
 </tr>
 <tr>
@@ -102,7 +102,7 @@ A. - Pour les épreuves d'examens théoriques aux brevets, licences, qualificati
 <br/>
 </td>
 <td width="138">
-<p align="center">60</p>
+<p align="center">65</p>
 </td>
 </tr>
 <tr>
@@ -113,18 +113,18 @@ A. - Pour les épreuves d'examens théoriques aux brevets, licences, qualificati
 <br/>
 </td>
 <td width="138">
-<p align="center">64</p>
+<p align="center">65</p>
 </td>
 </tr>
 <tr>
 <td width="387">
-<p>Préévaluation d'instructeur de vol avion FI(A)</p>
+<p>Préévaluation d'instructeur de vol avion (FI [A])</p>
 </td>
 <td width="137">
 <br/>
 </td>
 <td width="138">
-<p align="center">52</p>
+<p align="center">60</p>
 </td>
 </tr>
 <tr>
@@ -135,7 +135,7 @@ A. - Pour les épreuves d'examens théoriques aux brevets, licences, qualificati
 <br/>
 </td>
 <td width="138">
-<p align="center">52</p>
+<p align="center">60</p>
 </td>
 </tr>
 <tr>
@@ -146,7 +146,14 @@ A. - Pour les épreuves d'examens théoriques aux brevets, licences, qualificati
 <br/>
 </td>
 <td width="138">
-<p align="center">21</p>
+<p align="center">30</p>
+</td>
+</tr>
+<tr>
+<td>Evaluation théorique d'instructeur de pilote d'ULM </td>
+<td/>
+<td>
+<p align="center">30</p>
 </td>
 </tr>
 </tbody>
@@ -169,7 +176,7 @@ B. - Pour les épreuves pratiques d'aptitude aux brevets, licences, qualificatio
 <p>Pilote de ligne</p>
 </td>
 <td valign="top" width="151">
-<p align="center">880</p>
+<p align="center">940</p>
 </td>
 </tr>
 <tr>
@@ -177,7 +184,7 @@ B. - Pour les épreuves pratiques d'aptitude aux brevets, licences, qualificatio
 <p>Pilote en équipage multiple</p>
 </td>
 <td valign="top" width="151">
-<p align="center">880</p>
+<p align="center">940</p>
 </td>
 </tr>
 <tr>
@@ -185,7 +192,7 @@ B. - Pour les épreuves pratiques d'aptitude aux brevets, licences, qualificatio
 <p>Mécanicien navigant</p>
 </td>
 <td valign="top" width="151">
-<p align="center">590</p>
+<p align="center">630</p>
 </td>
 </tr>
 <tr>
@@ -193,7 +200,7 @@ B. - Pour les épreuves pratiques d'aptitude aux brevets, licences, qualificatio
 <p>Pilote professionnel </p>
 </td>
 <td valign="top" width="151">
-<p align="center">440</p>
+<p align="center">470</p>
 </td>
 </tr>
 <tr>
@@ -201,15 +208,7 @@ B. - Pour les épreuves pratiques d'aptitude aux brevets, licences, qualificatio
 <p>Qualification de vol aux instruments</p>
 </td>
 <td valign="top" width="151">
-<p align="center">440</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="548">
-<p>Certificat de sécurité sauvetage</p>
-</td>
-<td valign="top" width="151">
-<p align="center">210</p>
+<p align="center">470</p>
 </td>
 </tr>
 <tr>
@@ -217,7 +216,7 @@ B. - Pour les épreuves pratiques d'aptitude aux brevets, licences, qualificatio
 <p>Certificat de formation à la sécurité</p>
 </td>
 <td valign="top" width="151">
-<p align="center">260</p>
+<p align="center">280</p>
 </td>
 </tr>
 <tr>
@@ -225,7 +224,7 @@ B. - Pour les épreuves pratiques d'aptitude aux brevets, licences, qualificatio
 <p>Parachutiste professionnel</p>
 </td>
 <td valign="top" width="151">
-<p align="center">220</p>
+<p align="center">240</p>
 </td>
 </tr>
 <tr>
@@ -233,8 +232,10 @@ B. - Pour les épreuves pratiques d'aptitude aux brevets, licences, qualificatio
 <p>Photographe navigant professionnel</p>
 </td>
 <td valign="top" width="151">
-<p align="center">220</p>
+<p align="center">240</p>
 </td>
 </tr>
 </tbody>
 </table>
+
+En cas d'absence d'un candidat à l'un des examens ou épreuves donnant lieu à l'une des redevances fixées par le présent article, la redevance d'examen acquittée lors de l'inscription reste due et ne peut ni être remboursée ni être reportée d'une session à une autre.

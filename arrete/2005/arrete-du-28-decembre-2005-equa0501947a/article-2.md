@@ -1,8 +1,6 @@
 # Article 2
 
-Redevance de gestion de navigabilité.
-
-Le mode de calcul et les conditions servant à l'établissement du montant de la redevance de gestion de navigabilité prévue par le II de l'article R. 611-3 du code de l'aviation civile ainsi que celles relatives à son paiement sont fixés ainsi qu'il suit.
+Redevance de gestion de navigabilité. - Le mode de calcul et les conditions servant à l'établissement du montant de la redevance de gestion de navigabilité prévue par le II de l'article R. 611-3 du code de l'aviation civile ainsi que celles relatives à son paiement sont fixés ainsi qu'il suit.
 
 A. - Tout organisme titulaire de l'agrément prévu par la sous-partie G de la partie M du règlement (CE) n° 2042/2003 susvisé doit acquitter une redevance de suivi de l'agrément (R) dont le montant est la combinaison de deux composantes :
 
@@ -18,9 +16,9 @@ et
 
 (RG) = k<sub>1</sub> x [1,1 x m<sup>0.8</sup> + P] sans que (R) puisse être inférieur à (20 x k<sub>1</sub>) lorsque l'organisme est un transporteur aérien soumis à la redevance d'exploitant d'aéronef ou à (5 x k<sub>1</sub>) dans les autres cas.
 
-(RI) = 0,05 x (RG) dans la limite de 0,6 x k<sub>1</sub> x (6,9 x A<sub>1</sub> + 3,6 x A<sub>2</sub>).
+(RI) = 0,05 x (RG) dans la limite de 0,6 x k<sub>1</sub> x (6,9 x A<sub>1</sub> + 3,6 x A<sub>2</sub>) 4 × N<sub>en</sub> × k<sub>1</sub>.
 
-où les paramètres "m, "P, "k<sub>1</sub>", "A<sub>1</sub>" et "A<sub>2</sub>" sont définis comme suit :
+où les paramètres "m, "P, "k<sub>1</sub>", "A<sub>1</sub>" et "A<sub>2</sub>" et N<sub>en</sub> sont définis comme suit :
 
 - "m" est la somme, exprimée en tonnes, des masses maximales au décollage (MMD) des aéronefs enregistrés dans les spécifications d'agrément opérationnel du transporteur aérien ou dont l'organisme assure la gestion du maintien de la navigabilité dans le cadre d'un contrat conforme à l'appendice I de la partie M du règlement (CE) n° 2042/2003 susvisé ; la MMD retenue est celle figurant au manuel de vol ou dans un document équivalent de chaque aéronef concerné et affectée d'un coefficient "α" dont la valeur est donnée dans le tableau suivant en fonction de la catégorie d'aéronef ;
 
@@ -304,7 +302,9 @@ Par "type d'aéronef", on entend :
 
 - "A<sub>1</sub>" est le nombre d'examens de navigabilité réalisés sur des aéronefs certifiés selon les codes de navigabilité communautaires CS25 ou CS29 ou selon des codes équivalents, soit par l'autorité pour les aéronefs enregistrés dans les spécifications d'agrément opérationnel du transporteur aérien ou dont l'organisme assure la gestion du maintien de la navigabilité dans le cadre d'un contrat conforme à l'appendice I de la partie M du règlement (CE) n° 2042/2003 susvisé, soit par l'organisme pour n'importe quel aéronef, sur la période de douze mois courant à compter du 1er janvier de l'année n - 1 ;
 
-- "A<sub>2</sub>" est le nombre d'examens de navigabilité déterminé de la même façon qu'A<sub>1</sub> ci-dessus mais pour les aéronefs certifiés selon les autres codes de navigabilité.
+- "A<sub>2</sub>" est le nombre d'examens de navigabilité déterminé de la même façon qu'A<sub>1</sub> ci-dessus mais pour les aéronefs certifiés selon les autres codes de navigabilité ;
+
+- "N<sub>en</sub>" est le nombre de personnels ayant effectué, sur la période de douze mois courant à compter du en 1er janvier de l'année N - 1, au moins un examen de navigabilité sur un aéronef dont l'organisme n'assure pas la gestion du maintien de la navigabilité dans le cadre d'un contrat conforme à l'appendice I de la partie M du règlement (CE) n° 2042/2003 susvisé.
 
 Lorsqu'un organisme de gestion du maintien de navigabilité autre qu'un transporteur aérien soumis à la redevance d'exploitant d'aéronef est soumis à une redevance de maintenance, le montant total des redevances de suivi des agréments de gestion de navigabilité et de maintenance est réduit d'un montant égal à :
 
@@ -312,7 +312,7 @@ Lorsqu'un organisme de gestion du maintien de navigabilité autre qu'un transpor
 
 - 20 % de la plus petite des redevances dans les autres cas.
 
-Pour 2008, lorsqu'un organisme de gestion du maintien de navigabilité autre qu'un transporteur aérien soumis à la redevance d'exploitant d'aéronef est soumis à la redevance de suivi de l'agrément de maintenance prévue à l'article 3 C du présent arrêté, cette redevance de maintenance rémunère également le suivi de l'agrément de gestion du maintien de navigabilité.
+Pour 2009, lorsqu'un organisme de gestion du maintien de navigabilité autre qu'un transporteur aérien soumis à la redevance d'exploitant d'aéronef est soumis à la redevance de suivi de l'agrément de maintenance prévue à l'article 3 C du présent arrêté, cette redevance de maintenance rémunère également le suivi de l'agrément de gestion du maintien de navigabilité.
 
 La redevance de suivi de gestion de navigabilité est acquittée mensuellement auprès du GSAC. Chaque mensualité est égale au douzième du montant résultant de l'application de la formule précitée, les paramètres "m", et "P" étant évalués par le GSAC en retenant les éléments utiles contenus dans les spécifications d'agrément opérationnel du transporteur aérien ou les spécifications d'agrément de gestion du maintien de la navigabilité dont il dispose au 10e jour du mois de facturation.
 
@@ -465,5 +465,7 @@ Cette redevance est due pour chaque examen de navigabilité effectué sous la su
 En cas d'évolution significative de l'organisme de gestion du maintien de la navigabilité, qui nécessite une instruction complémentaire durant la période de validité de l'autorisation, les interventions correspondantes donnent lieu à une redevance calculée sur la base du temps passé dans la limite du montant de la redevance d'instruction initiale défini en application du présent article.
 
 Les redevances liées à l'instruction initiale de l'agrément ou à l'instruction complémentaire durant la période de validité de l'autorisation sont acquittées mensuellement en fonction de l'avancement de l'instruction.
+
+En cas de suspension de l'agrément de l'organisme, les interventions liées au suivi particulier de l'organisme en vue du rétablissement de l'agrément donnent lieu à une redevance calculée sur la base du temps passé, dans la limite du montant de la redevance d'instruction initiale défini en application du présent article.
 
 Les montants calculés sur la base du temps passé dans le présent article sont évalués par application du taux horaire fixé dans l'annexe au présent arrêté.

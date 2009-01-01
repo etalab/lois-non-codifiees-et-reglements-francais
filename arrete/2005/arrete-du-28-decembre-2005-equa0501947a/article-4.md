@@ -79,6 +79,8 @@ L'instruction effectuée en vue de délivrer un agrément d'organisme de formati
 
 En cas d'évolution significative de l'organisme de formation de personnel de maintenance, qui nécessite une instruction complémentaire durant la période de validité de l'autorisation, les interventions correspondantes donnent lieu à une redevance calculée sur la base du temps passé dans la limite du montant de la redevance défini en application du présent article.
 
+En cas de suspension de l'agrément de l'organisme, les interventions liées au suivi particulier de l'organisme en vue du rétablissement de l'agrément donnent lieu à une redevance calculée sur la base du temps passé, dans la limite du montant de la redevance d'instruction initiale défini en application du présent article.
+
 Dans ces deux cas, la redevance est acquittée mensuellement en fonction de l'avancement de l'instruction.
 
 Les montants calculés sur la base du temps passé dans le présent article sont évalués par application du taux horaire fixé dans l'annexe au présent arrêté.

@@ -93,6 +93,8 @@ où :
 </tbody>
 </table>
 
+Pour l'application du tableau, lorsque plusieurs aéronefs d'un même type relèvent de tranches différentes de MMD, le coefficient "p" le plus petit est retenu.
+
 - "k<sub>4</sub>" et "k<sub>5</sub>" sont des coefficients de proportionnalité fonction du taux horaire et du nombre d'unités de surveillance déterminé ; ils se déduisent du coût complet des contrôles organisés sur l'ensemble des exploitants d'aéronefs considérés. Les valeurs de "k<sub>4</sub>" et "k<sub>5</sub>" sont fixées en annexe au présent arrêté.
 
 Le montant de la redevance est plafonné, compte tenu du volume maximal d'activité de contrôle que l'administration de l'aviation civile exerce, à une valeur fixée par l'annexe au présent arrêté.
@@ -103,4 +105,6 @@ Pour l'application du présent article, mois de facturation s'entend comme le mo
 
 L'instruction effectuée en vue de la délivrance d'un certificat de transporteur aérien donne lieu à paiement d'une redevance égale au double de la redevance définie en application du présent article. Dans ce cas, le paramètre "epax" est évalué en retenant le nombre de passagers estimé pendant une période de douze mois par le postulant à l'occasion de la demande de licence d'exploitation prévue à l'article L. 330-1 du code de l'aviation civile. La redevance d'instruction est exigible mensuellement en fonction de l'avancement de l'instruction.
 
-B. - Le montant de la redevance des transporteurs aériens postulant à l'autorisation spéciale mentionnée à l'article R. 133-6 du code de l'aviation civile est fixé à 1 000 €. Cette redevance est exigible à la demande de l'autorisation.
+En cas de suspension du certificat de transporteur aérien, les interventions liées au suivi particulier de l'entreprise en vue du rétablissement de l'agrément donnent lieu au paiement d'une redevance calculée sur la base de la redevance d'instruction initiale définie en application du présent article pendant la durée de la suspension et dans la limite de douze mois.
+
+B. - Le montant de la redevance d'exploitant d'aéronef pour les personnes postulant à l'autorisation spéciale mentionnée à l'article R. 133-6 du code de l'aviation civile est fixé à 1 000 €. Cette redevance est exigible à la demande de l'autorisation.

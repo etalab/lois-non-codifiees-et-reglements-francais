@@ -4,145 +4,219 @@ Redevance de qualification d'entraîneur synthétique de vol.
 
 Le montant de la redevance de qualification d'entraîneur synthétique de vol (STD), relative à la qualification des dispositifs de simulation, prévue au 2° de l'article 1er du décret du 23 décembre 2006 susvisé, par référence au II de l'article R. 611-5 du code de l'aviation civile, est fixé selon la catégorie du moyen de simulation et de la nature du contrôle. Il est établi selon le tableau suivant :
 
-<div align="center">
-
 <table>
 <tbody>
 <tr>
-<th> 										CATÉGORIE<br/>
+<th>
+<br/>CATÉGORIE<br/>
 </th>
-<th> 										MOYEN DE SIMULATION<br/>
+<th>
+<br/>MOYEN DE SIMULATION<br/>
 </th>
-<th> 										ÉVALUATION<br/> 										initiale<br/>
+<th>
+<br/>ÉVALUATION <p>initiale<br/>
+</p>
 </th>
-<th> 										ÉVALUATION<br/> 										récurrente<br/>
+<th>
+<br/>ÉVALUATION <p>récurrente<br/>
+</p>
 </th>
-<th> 										ÉVALUATION<br/> 										spéciale<br/>
+<th>
+<br/>ÉVALUATION <p>spéciale<br/>
+</p>
 </th>
 </tr>
 <tr>
-<td align="center"> 										A<br/>
+<td align="center">
+<br/>A<br/>
 </td>
-<td align="center"> 										Simulateur de vol basique avec 1 modèle de vol et 1 modèle de motorisation représentatif d'un type d'aéronef.<br/>
+<td align="center">
+<br/>Simulateur de vol basique avec 1 modèle de vol et 1 modèle de motorisation représentatif d'un type d'aéronef.<br/>
 </td>
-<td align="center"> 										10 200 €<br/>
+<td align="center">
+<br/>18 000 €<br/>
 </td>
-<td align="center"> 										3 400 €<br/>
+<td align="center">
+<br/>6 000 €<br/>
 </td>
-<td align="center"> 										1 700 €<br/>
-</td>
-</tr>
-<tr>
-<td align="center"> 										B<br/>
-</td>
-<td align="center"> 										Simulateur de vol convertible avec 1 modèle de vol et 2 modèles de motorisation.<br/>
-</td>
-<td align="center"> 										15 300 €<br/>
-</td>
-<td align="center"> 										5 100 €<br/>
-</td>
-<td align="center"> 										2 550 €<br/>
+<td align="center">
+<br/>3 000 €<br/>
 </td>
 </tr>
 <tr>
-<td align="center"> 										C<br/>
+<td align="center">
+<br/>B<br/>
 </td>
-<td align="center"> 										Simulateur de vol convertible avec 2 ou 3 modèles de vol et plus de 1 modèle de motorisation. <br/>
+<td align="center">
+<br/>Simulateur de vol convertible avec 1 modèle de vol et 2 modèles de motorisation.<br/>
 </td>
-<td align="center"> 										25 500 €<br/>
+<td align="center">
+<br/>27 000 €<br/>
 </td>
-<td align="center"> 										8 500 €<br/>
+<td align="center">
+<br/>9 000 €<br/>
 </td>
-<td align="center"> 										4 225 €<br/>
-</td>
-</tr>
-<tr>
-<td align="center"> 										D<br/>
-</td>
-<td align="center"> 										Simulateur de vol convertible avec 4 modèles de vol. <br/>
-</td>
-<td align="center"> 										30 600 €<br/>
-</td>
-<td align="center"> 										10 200 €<br/>
-</td>
-<td align="center"> 										5 100 €<br/>
+<td align="center">
+<br/>4 500 €<br/>
 </td>
 </tr>
 <tr>
-<td align="center"> 										E<br/>
+<td align="center">
+<br/>C<br/>
 </td>
-<td align="center"> 										Simulateur de vol convertible plus de 5 modèles de vol. <br/>
+<td align="center">
+<br/>Simulateur de vol convertible avec 2 ou 3 modèles de vol et plus de 1 modèle de motorisation.<br/>
 </td>
-<td align="center"> 										35 700 €<br/>
+<td align="center">
+<br/>45 000 €<br/>
 </td>
-<td align="center"> 										11 900 €<br/>
+<td align="center">
+<br/>15 000 €<br/>
 </td>
-<td align="center"> 										5 950 €<br/>
-</td>
-</tr>
-<tr>
-<td align="center"> 										F<br/>
-</td>
-<td align="center"> 										Système d'entraînement au vol (FTD). <br/>
-</td>
-<td align="center"> 										7 650 €<br/>
-</td>
-<td align="center"> 										2 550 €<br/>
-</td>
-<td align="center"> 										1 225 €<br/>
+<td align="center">
+<br/>7 500 €<br/>
 </td>
 </tr>
 <tr>
-<td align="center"> 										G<br/>
+<td align="center">
+<br/>D<br/>
 </td>
-<td align="center"> 										Système d'entraînement au vol (FTD) avec plus de 1 modèle de vol ou plus de 1 modèle de motorisation.<br/>
+<td align="center">
+<br/>Simulateur de vol convertible avec 4 modèles de vol.<br/>
 </td>
-<td align="center"> 										10 200 €<br/>
+<td align="center">
+<br/>54 000 €<br/>
 </td>
-<td align="center"> 										3 400 €<br/>
+<td align="center">
+<br/>18 000 €<br/>
 </td>
-<td align="center"> 										1 700 €<br/>
-</td>
-</tr>
-<tr>
-<td align="center"> 										H<br/>
-</td>
-<td align="center"> 										Système d'entraînement au vol (FTD) représentatif de plus de deux types d'aéronefs.<br/>
-</td>
-<td align="center"> 										15 300 €<br/>
-</td>
-<td align="center"> 										5 100 €<br/>
-</td>
-<td align="center"> 										2 550 €<br/>
+<td align="center">
+<br/>9 000 €<br/>
 </td>
 </tr>
 <tr>
-<td align="center"> 										I<br/>
+<td align="center">
+<br/>E<br/>
 </td>
-<td align="center"> 										Système d'entraînement aux procédures de vol et à la navigation (FNPT) de catégorie 2 ou de catégorie 3 pour les formations en équipage MCC.<br/>
+<td align="center">
+<br/>Simulateur de vol convertible avec plus de 5 modèles de vol.<br/>
 </td>
-<td align="center"> 										6 120 €<br/>
+<td align="center">
+<br/>63 000 €<br/>
 </td>
-<td align="center"> 										2 040 €<br/>
+<td align="center">
+<br/>21 000 €<br/>
 </td>
-<td align="center"> 										1 020 €<br/>
+<td align="center">
+<br/>10 500 €<br/>
 </td>
 </tr>
 <tr>
-<td align="center"> 										J<br/>
+<td align="center">
+<br/>F<br/>
 </td>
-<td align="center"> 										Système d'entraînement aux procédures de vol et à la navigation (FNPT) de catégorie 2 ou de catégorie 3. <br/>
+<td align="center">
+<br/>Système d'entraînement au vol (FTD).<br/>
 </td>
-<td align="center"> 										5 100 €<br/>
+<td align="center">
+<br/>13 500 €<br/>
 </td>
-<td align="center"> 										1 700 €<br/>
+<td align="center">
+<br/>4 500 €<br/>
 </td>
-<td align="center"> 										850 €<br/>
+<td align="center">
+<br/>2 250 €<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>G<br/>
+</td>
+<td align="center">
+<br/>Système d'entraînement au vol (FTD) avec plus de 1 modèle de vol ou plus de 1 modèle de motorisation.<br/>
+</td>
+<td align="center">
+<br/>18 000 €<br/>
+</td>
+<td align="center">
+<br/>6 000 €<br/>
+</td>
+<td align="center">
+<br/>3 000 €<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>H<br/>
+</td>
+<td align="center">
+<br/>Système d'entraînement au vol (FTD) représentatif de plus de deux types d'aéronefs.<br/>
+</td>
+<td align="center">
+<br/>27 000 €<br/>
+</td>
+<td align="center">
+<br/>9 000 €<br/>
+</td>
+<td align="center">
+<br/>4 500 €<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>I<br/>
+</td>
+<td align="center">
+<br/>Système d'entraînement aux procédures de vol et à la navigation (FNPT) de catégorie 2 ou de catégorie 3 pour les formations en équipage MCC.<br/>
+</td>
+<td align="center">
+<br/>10 800 €<br/>
+</td>
+<td align="center">
+<br/>3 600 €<br/>
+</td>
+<td align="center">
+<br/>1 800 €<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>J<br/>
+</td>
+<td align="center">
+<br/>Système d'entraînement aux procédures de vol et à la navigation (FNPT) de catégorie 2 ou de catégorie 3.<br/>
+</td>
+<td align="center">
+<br/>9 000 €<br/>
+</td>
+<td align="center">
+<br/>3 000 €<br/>
+</td>
+<td align="center">
+<br/>1 500 €<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>K<br/>
+</td>
+<td align="center">
+<br/>Système d'entraînement aux procédures de vol et à la navigation (FNPT) de catégorie 1.<br/>
+</td>
+<td align="center">
+<br/>7 200 €<br/>
+</td>
+<td align="center">
+<br/>2 400 €<br/>
+</td>
+<td align="center">
+<br/>1 200 €<br/>
 </td>
 </tr>
 </tbody>
 </table>
 
+<div align="left">
+<br/>La redevance applicable aux entraîneurs synthétiques de vol qualifiés selon deux normes est la somme des deux redevances applicables réduite d'un montant égal à 50 % de la plus petite de ces deux redevances.</div>
+<div align="left">Le montant de la redevance pour les prestations relatives aux audits qualité STD réalisés chez les exploitants de simulateurs de vol et de systèmes d'entraînement au vol est fixé à 6 000 €. <br/>
 </div>
-
-La redevance applicable aux entraîneurs synthétiques de vol qualifiés selon deux normes est la somme des deux redevances applicables réduite d'un montant égal à 50 % de la plus petite de ces deux redevances.

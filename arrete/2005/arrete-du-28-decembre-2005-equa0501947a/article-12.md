@@ -10,7 +10,7 @@ A. - Pour les certificats de navigabilité d'aéronefs (CdN) ou, le cas échéan
 
 (R) = 3 × (16 × N) en ce qui concerne les aéronefs non motorisés. Les montants calculés sur la base du temps passé sont évalués par application du taux horaire fixé dans l'annexe au présent arrêté.
 
-Cette redevance couvre également l'établissement du certificat d'examen de navigabilité (CEN) associé, du certificat de limitation de nuisances (CLN) et la délivrance de la licence de station d'aéronef (LSA).
+Cette redevance couvre également l'établissement du certificat d'examen de navigabilité (CEN), du certificat de limitation de nuisances (CLN), la délivrance de la licence de station d'aéronef (LSA) et l'approbation du programme d'entretien associés.
 
 2. Le montant de la redevance pour le renouvellement d'un certificat de navigabilité ou, le cas échéant, la redevance pour la délivrance d'un CEN est établi comme suit :
 
@@ -60,7 +60,7 @@ Pour les autres aéronefs, le montant de la redevance (R) est établi selon les 
 </tr>
 <tr>
 <td valign="top" width="283">
-<p align="left">Si W &gt; 30 000, Rb = [768 + 0,07 x W] × N.</p>
+<p align="left">Si W &gt; 30 000, Rb = [768 + 0,007 x W] × N.</p>
 </td>
 </tr>
 <tr>
@@ -289,23 +289,41 @@ F. - Pour ce qui concerne les aéronefs ultra-légers motorisés (ULM), le monta
 <p align="center">DOCUMENT</p>
 </td>
 <td valign="top" width="151">
-<p align="center">TARIF</p>
+<p align="center">TARIF<br/>(en euros)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="548">
-<p>Délivrance initiale de la fiche d'identification d'ULM</p>
+<p>Délivrance initiale de fiche d'identification d'ULM construit en série </p>
 </td>
 <td valign="top" width="151">
-<p align="center">20 €</p>
+<p align="center">100</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="548">
-<p>Délivrance initiale de la carte d'identification d'ULM</p>
+<p>Délivrance initiale de fiche d'identification d'ULM autre que construit en série </p>
 </td>
 <td valign="top" width="151">
-<p align="center">20 €</p>
+<p align="center">20</p>
+</td>
+</tr>
+<tr>
+<td>Délivrance initiale de carte d'identification d'ULM </td>
+<td>
+<p align="center">20</p>
+</td>
+</tr>
+<tr>
+<td>Délivrance initiale de carte d'identification constructeur d'ULM </td>
+<td>
+<p align="center">30</p>
+</td>
+</tr>
+<tr>
+<td>Duplicata </td>
+<td>
+<p align="center">20</p>
 </td>
 </tr>
 </tbody>
@@ -366,7 +384,7 @@ G. - Pour ce qui concerne les laissez-passer délivrés en application du IV de 
 
 La redevance est exigible à la délivrance du document et acquittée auprès de l'administration de l'aviation civile ou du GSAC pour les laissez-passer délivrés par cet organisme.
 
-H. - Le montant de la redevance d'aptitude au vol relative à la délivrance d'une dérogation en application du paragraphe 10.3 du règlement (CE) n° 1592/2002 du Parlement européen et du Conseil du 15 juillet 2002 est déterminé selon les conditions d'instruction de la dérogation et la catégorie d'aéronefs concernée. Il est établi selon le tableau suivant :
+H. - Le montant de la redevance d'aptitude au vol relative à la délivrance d'une dérogation en application de l'article 14 du règlement (CE) n° 216/2008 du Parlement européen et du Conseil du 20 février 2008 est déterminé selon les conditions d'instruction de la dérogation et la catégorie d'aéronefs concernée. Il est établi selon le tableau suivant :
 
 <table>
 <tbody>

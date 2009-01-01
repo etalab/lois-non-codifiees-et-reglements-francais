@@ -16,7 +16,7 @@ où
 
 "E" = 1 pour les autres FTO et pour les organismes de formation au certificat de formation à la sécurité (CFS) ;
 
-"E" = 0,5 pour les organismes, entreprises ou personnes physiques ayant reçu une homologation en vue de dispenser une formation sur avion ou hélicoptère ou dispensant un enseignement homologué sur avion ou hélicoptère ;
+- "E" = 0,5 pour les organismes, entreprises ou personnes physiques ayant reçu une homologation en vue de dispenser une formation sur avion ou hélicoptère ou ultraléger motorisé ou dispensant un enseignement homologué sur avion, hélicoptère, planeur ou ultraléger motorisé ;
 
 - "(1 + C)" est un coefficient relatif aux cours approuvés où C est la somme, pour l'ensemble des cours approuvés au cours d'une période de douze mois des coefficients "c" fixés pour chacun d'eux par le tableau suivant :
 
@@ -702,20 +702,6 @@ où
 </tr>
 <tr>
 <td valign="top" width="60">
-<p align="center">52</p>
-</td>
-<td valign="top" width="348">
-<p>Cours de formation aux connaissances JAR/OPS 1-JAR/FCL 1 et 3</p>
-</td>
-<td valign="top" width="116">
-<p align="center">0,05</p>
-</td>
-<td valign="top" width="175">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="60">
 <p align="center">53</p>
 </td>
 <td valign="top" width="348">
@@ -783,6 +769,50 @@ où
 <td valign="top" width="175">
 <br/>
 </td>
+</tr>
+<tr>
+<td>
+<p align="center">58</p>
+</td>
+<td>Cours d'instructeurs de pilote de planeur (ITP) ou de vol a voile (ITV)</td>
+<td>
+<p align="center">0,2 </p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p align="center">59</p>
+</td>
+<td>
+<p align="left">Cours d'actualisation des connaissances d'instructeur de pilote de planeur et d'instructeur de pilote de vol à voile (ATC) </p>
+</td>
+<td>
+<p align="center">0,1 </p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p align="center">60</p>
+</td>
+<td>Cours d'instructeur de pilote d'ULM </td>
+<td>
+<p align="center">0,2</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p align="center">61</p>
+</td>
+<td>
+<p align="left">Formation et contrôles des connaissances des instructeurs de pilote d'ULM </p>
+</td>
+<td>
+<p align="center">0,2 </p>
+</td>
+<td/>
 </tr>
 </tbody>
 </table>

@@ -8,7 +8,7 @@ Ces entreprises sont :
 
 A. - Les entreprises titulaires d'un agrément de production prévu par la sous-partie G des sections A et B de la partie 21 du règlement (CE) n° 1702/2003 de la Commission du 24 septembre 2003 établissant des règles d'application pour la certification de navigabilité et environnementale des aéronefs et produits, pièces et équipements associés, ainsi que pour la certification des organismes de conception et de production.
 
-Le montant annuel de la redevance est calculé à partir d'une redevance de référence pour l'année .
+Le montant annuel de la redevance est calculé à partir d'une redevance de référence pour l'année.
 
 (i) La redevance de référence pour l'année est fixée pour chaque tranche de chiffre d'affaires par le tableau suivant :
 
@@ -91,7 +91,7 @@ Le montant annuel de la redevance est calculé à partir d'une redevance de réf
 <p>Supérieur à 21 000 000 et inférieur ou égal à 42 000 000</p>
 </td>
 <td valign="top" width="151">
-<p align="center">27 000</p>
+<p align="center">25 500</p>
 </td>
 </tr>
 <tr>
@@ -99,7 +99,7 @@ Le montant annuel de la redevance est calculé à partir d'une redevance de réf
 <p>Supérieur à 42 000 000 et inférieur ou égal à 70 000 000</p>
 </td>
 <td valign="top" width="151">
-<p align="center">47 500</p>
+<p align="center">45 000</p>
 </td>
 </tr>
 <tr>
@@ -107,7 +107,7 @@ Le montant annuel de la redevance est calculé à partir d'une redevance de réf
 <p>Supérieur à 70 000 000 et inférieur ou égal à 84 000 000</p>
 </td>
 <td valign="top" width="151">
-<p align="center">64 000</p>
+<p align="center">59 000</p>
 </td>
 </tr>
 <tr>
@@ -115,7 +115,7 @@ Le montant annuel de la redevance est calculé à partir d'une redevance de réf
 <p>Supérieur à 84 000 000 et inférieur ou égal à 105 000 000</p>
 </td>
 <td valign="top" width="151">
-<p align="center">87 000</p>
+<p align="center">72 000</p>
 </td>
 </tr>
 <tr>
@@ -123,7 +123,7 @@ Le montant annuel de la redevance est calculé à partir d'une redevance de réf
 <p>Supérieur à 105 000 000 et inférieur ou égal à 140 000 000</p>
 </td>
 <td valign="top" width="151">
-<p align="center">116 000</p>
+<p align="center">92 000</p>
 </td>
 </tr>
 <tr>
@@ -131,7 +131,7 @@ Le montant annuel de la redevance est calculé à partir d'une redevance de réf
 <p>Supérieur à 140 000 000 et inférieur ou égal à 420 000 000</p>
 </td>
 <td valign="top" width="151">
-<p align="center">173 000</p>
+<p align="center">152 000</p>
 </td>
 </tr>
 <tr>
@@ -139,7 +139,7 @@ Le montant annuel de la redevance est calculé à partir d'une redevance de réf
 <p>Supérieur à 420 000 000 et inférieur ou égal à 700 000 000</p>
 </td>
 <td valign="top" width="151">
-<p align="center">298 000</p>
+<p align="center">237 000</p>
 </td>
 </tr>
 <tr>
@@ -147,7 +147,7 @@ Le montant annuel de la redevance est calculé à partir d'une redevance de réf
 <p>Supérieur à 700 000 000 et inférieur ou égal à 1 400 000 000</p>
 </td>
 <td valign="top" width="151">
-<p align="center">489 500</p>
+<p align="center">409 000</p>
 </td>
 </tr>
 <tr>
@@ -155,7 +155,7 @@ Le montant annuel de la redevance est calculé à partir d'une redevance de réf
 <p>Supérieur à 1 400 000 000 et inférieur ou égal à 2 100 000 000</p>
 </td>
 <td valign="top" width="151">
-<p align="center">587 000</p>
+<p align="center">545 000</p>
 </td>
 </tr>
 <tr>
@@ -163,7 +163,7 @@ Le montant annuel de la redevance est calculé à partir d'une redevance de réf
 <p>Supérieur à 2 100 000 000</p>
 </td>
 <td valign="top" width="151">
-<p align="center">1 082 000</p>
+<p align="center">898 000</p>
 </td>
 </tr>
 </tbody>
@@ -183,13 +183,13 @@ B. - Les entreprises postulant à la délivrance ou titulaires d'une autorisatio
 
 Le montant de la redevance est établi, y compris dans le cas où cette redevance concerne l'instruction de la demande d'autorisation, par le ministre chargé de l'aviation civile en fonction du temps passé.
 
-C. - Les autres entreprises de production, notamment celles titulaires d'un certificat de reconnaissance du système de production de matières premières de qualité aéronautique.
-
-Le montant de la redevance est établi, y compris dans le cas où cette redevance concerne l'instruction de la demande d'autorisation par le ministre chargé de l'aviation civile en fonction du temps passé.
+C. - (supprimé)
 
 D. - Pour les entreprises produisant des aéronefs, le montant de la redevance de production correspondant aux vérifications et aux frais d'élaboration des documents de navigabilité, y compris les certificats destinés à une autorité de l'aviation civile étrangère, est calculé en fonction du temps passé évalué forfaitairement à une heure par aéronef, sauf pour les aéronefs dont le type est certifié pour le transport de plus de 80 passagers. Dans ce dernier cas, est prise en compte une durée de 5 heures si les documents de navigabilité sont délivrés pendant les heures ouvrables ou de 15 heures si les documents de navigabilité sont délivrés en dehors des heures ouvrables.
 
 En cas d'évolution significative de l'organisme de production qui nécessite une instruction complémentaire durant la période de validité de l'autorisation, les interventions correspondantes donnent lieu à une redevance calculée sur la base du temps passé dans la limite du montant défini en application du tableau et des conditions fixées au A du présent article.
+
+En cas de suspension de l'agrément de l'organisme, les interventions liées au suivi particulier de l'organisme en vue du rétablissement de l'agrément donnent lieu à une redevance calculée sur la base du temps passé, dans la limite du montant de la redevance d'instruction initiale défini en application du présent article.
 
 Les montants calculés sur la base du temps passé dans le présent article sont évalués par application du taux horaire fixé dans l'annexe au présent arrêté.
 

@@ -9,7 +9,7 @@ Pour l'année N, le montant annuel de cette redevance (R) est calculé selon la 
 (R) = k<sub>8</sub> x (npax)<sup>0,8<br/>
 </sup>où :
 
-- "npax" est le nombre total de passagers embarqués au départ sur la totalité des aérodromes du transporteur aérien sur le territoire de la République française, pendant une période de douze mois ; ne sont comptés qu'une fois les passagers en transit direct effectuant un arrêt momentané sur un aérodrome et repartant par le même aéronef avec un numéro de vol au départ identique au numéro de vol de l'aéronef à bord duquel ils sont arrivés, de même que les passagers reprenant leur vol après un atterrissage forcé ; la redevance n'est pas due si ce nombre est inférieur au seuil fixé en annexe au présent arrêté ;
+- "npax" est le nombre total de passagers embarqués au départ sur la totalité des aérodromes du transporteur aérien sur le territoire de la République française, pendant une période de douze mois ; ne sont comptés qu'une fois les passagers en transit direct effectuant un arrêt momentané sur un aérodrome et repartant par le même aéronef avec un numéro de vol au départ identique au numéro de vol de l'aéronef à bord duquel ils sont arrivés, de même que les passagers reprenant leur vol après un atterrissage forcé ;
 
 - "k<sub>8</sub>" est un coefficient de proportionnalité fonction du taux horaire et du nombre d'unités de surveillance déterminé ; il se déduit du coût complet des contrôles organisés sur l'ensemble des transporteurs aériens considérés. La valeur de "k<sub>8</sub>" est fixée en annexe au présent arrêté.
 

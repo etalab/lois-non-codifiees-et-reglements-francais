@@ -10,11 +10,11 @@ A. - Les organismes titulaires d'un agrément conformément à la partie 145 du 
 
 Pour les organismes de maintenance de classe A, au sens de la partie 145 du règlement précité :
 
-(R) = k<sub>2 </sub>× 0,95 × [3,8 × (effectif)<sup>0,8</sup> + 15 × Nbase + 8 × Nligne + 15]
+(R) = k<sub>2 </sub>× 0,90 × [3,8 × (effectif)<sup>0,8</sup> + 15 × Nbase + 8 × Nligne + 15]
 
 Pour les autres organismes :
 
-(R) = k<sub>2</sub>× 0,95 × [3,8 × (effectif)<sup>0,8</sup> + 15 × Nbase + 8 × Nligne]
+(R) = k<sub>2 </sub>× 0,90 × [3,8 × (effectif)<sup>0,8</sup> + 15 × Nbase + 8× Nligne]
 
 où les paramètres "effectif", "Nbase" "Nligne" et "k<sub>2</sub>" sont définis comme suit :
 
@@ -40,13 +40,13 @@ où les paramètres "effectif", "Nbase" et "k<sub>2</sub>" sont définis comme s
 
 - "k<sub>2</sub>" est un coefficient de proportionnalité fonction du taux horaire et du nombre d'unités de surveillance déterminé ; il se déduit du coût complet des contrôles organisés sur l'ensemble des organismes de maintenance. La valeur de "k<sub>2</sub>" est fixée en annexe au présent arrêté.
 
-C. - Les autres organismes de maintenance doivent acquitter au titre du suivi de l'agrément une redevance (R) dont le montant est la combinaison de trois composantes (R 1), (R 2) et (R 3) :
+C. - Les autres organismes de maintenance doivent acquitter au titre du suivi de l'agrément une redevance (R), dont le montant est la combinaison de deux composantes (R 2) et (R 3) :
 
-(R) = 0,3 × (R1) + 0,7 × [(R2) + (R3) - 0,5 × min. ((R2); (R3))],
+(R) = (R2) + (R3) - 0,5 × min. [(R2)]; [(R3)],
 
 sans que (R) puisse être inférieur à (R 2) ;
 
-où min.((R 2) ; (R 3)) désigne le plus petit des montants (R 2) et (R 3) et où (R 1), (R 2) et (R 3) sont définis comme suit :
+où min. [(R 2) ; (R 3)] désigne le plus petit des montants (R 2) et (R 3) et où (R 2) et (R 3) sont définis comme suit :
 
 (R 1) est calculé en prenant en compte les aéronefs dont le propriétaire a confié l'entretien à l'organisme de maintenance pour lesquels :
 
@@ -429,6 +429,8 @@ Autres organismes :
 La redevance de suivi de l'agrément de maintenance définie au C du présent article acquittée par un organisme de maintenance prévu au 3° de l'article R. 133-1-1 du code de l'aviation civile rémunère également l'instruction de toute demande d'agrément de maintenance selon la sous-partie F de la partie M du règlement (CE) n° 2003/2042 susvisé déposée par un tel organisme.
 
 En cas d'évolution significative de l'organisme de maintenance, qui nécessite une instruction complémentaire durant la période de validité de l'autorisation, les interventions correspondantes donnent lieu à une redevance calculée sur la base du temps passé dans la limite du montant de la redevance d'instruction initiale correspondante définie en application du présent article.
+
+En cas de suspension de l'agrément de l'organisme, les interventions liées au suivi particulier de l'organisme en vue du rétablissement de l'agrément donnent lieu à une redevance calculée sur la base du temps passé, dans la limite du montant de la redevance d'instruction initiale défini en application du présent article.
 
 Les redevances liées à l'instruction initiale de l'agrément ou à l'instruction complémentaire durant la période de validité de l'autorisation sont acquittées mensuellement en fonction de l'avancement de l'instruction.
 
