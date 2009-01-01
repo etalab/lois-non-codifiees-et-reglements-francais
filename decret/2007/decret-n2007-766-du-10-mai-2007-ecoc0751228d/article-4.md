@@ -1,3 +1,3 @@
 # Article 4
 
-Le décret du 8 juillet 1992 susvisé est abrogé en tant qu'il concerne les matériaux et objets destinés à entrer en contact avec les denrées alimentaires compris dans le champ d'application du règlement du 27 octobre 2004 susvisé.
+Il est interdit de détenir en vue de la vente, de mettre en vente, de vendre ou  de distribuer à titre gratuit des matériaux et objets destinés à être mis en  contact avec des denrées alimentaires qui ne répondent pas aux dispositions des  arrêtés pris en application de l'article 3.
