@@ -8,6 +8,8 @@ VII.-Les gains et rémunérations au sens de l'article L. 242-1 du code de la s�
 
 L'exonération est ouverte au titre de l'emploi de salariés dont l'activité réelle, régulière et indispensable à l'exécution du contrat de travail s'exerce en tout ou partie dans un bassin d'emploi à redynamiser.
 
+Lorsque l'employeur n'a pas rempli au cours d'une année civile l'obligation définie au 1° de l'article L. 2242-8 du code du travail dans les conditions prévues aux articles L. 2242-1 à L. 2242-4 du même code, le montant de l'exonération est diminué de 10 % au titre des rémunérations versées cette même année. Il est diminué de 100 % lorsque l'employeur ne remplit pas cette obligation pour la troisième année consécutive.
+
 Dans des conditions fixées par décret, l'exonération s'applique également aux gains et rémunérations versés aux salariés recrutés à l'occasion d'une extension d'établissement ouvrant droit à l'exonération de taxe professionnelle prévue au I quinquies A de l'article 1466 A du code général des impôts.
 
 L'exonération prévue au premier alinéa n'est pas applicable aux gains et rémunérations afférents aux emplois transférés par une entreprise dans une zone d'emploi à redynamiser pour lesquels l'employeur a bénéficié, au titre d'une ou plusieurs des cinq années précédant celle du transfert soit de l'exonération prévue à l'article L. 322-13 du code du travail, soit du versement de la prime d'aménagement du territoire.
@@ -18,7 +20,7 @@ En cas d'embauche de salariés dans les sept années suivant la date de l'implan
 
 Le bénéfice de l'exonération mentionnée au premier alinéa du présent VII est subordonné au respect du règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 concernant l'application des articles 87 et 88 du traité aux aides de minimis (1).
 
-Toutefois, lorsque le bénéfice des exonérations fiscales figurant aux articles 44 duodecies,1383 H et au I quinquies A de l'article 1466 A du code général des impôts est subordonné au respect du règlement (CE) n° 1628 / 2006 de la Commission du 24 octobre 2006 concernant l'application des articles 87 et 88 du traité CE aux aides nationales à l'investissement à finalité régionale, le bénéfice de l'exonération mentionnée au premier alinéa du présent VII est subordonné au respect du même règlement (1).
+Toutefois, lorsque le bénéfice des exonérations fiscales figurant aux articles 44 duodecies, 1383 H et au I quinquies A de l'article 1466 A du code général des impôts est subordonné au respect du règlement (CE) n° 1628 / 2006 de la Commission du 24 octobre 2006 concernant l'application des articles 87 et 88 du traité CE aux aides nationales à l'investissement à finalité régionale, le bénéfice de l'exonération mentionnée au premier alinéa du présent VII est subordonné au respect du même règlement.
 
 Le droit à l'exonération prévue au premier alinéa est subordonné à la condition que l'employeur soit à jour de ses obligations à l'égard de l'organisme de recouvrement des cotisations patronales de sécurité sociale et d'allocations familiales ou ait souscrit un engagement d'apurement progressif de ses dettes.
 
