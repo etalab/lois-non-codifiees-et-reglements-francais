@@ -1,3 +1,3 @@
 # Article 34
 
-Le présent décret est applicable dans les territoires d'outre-mer et dans la collectivité territoriale de Mayotte.
+Le présent décret est applicable à Wallis-et-Futuna, en Polynésie française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises.

@@ -8,4 +8,4 @@ Les messages d'intérêt général à caractère non publicitaire tels que ceux 
 
 Le volume sonore des séquences publicitaires ainsi que des écrans qui les précèdent et qui les suivent ne doit pas excéder le volume sonore moyen du reste du programme.
 
-La publicité isolée doit être exceptionnelle.
+La publicité isolée doit être exceptionnelle sauf lors de la diffusion de manifestations sportives.
