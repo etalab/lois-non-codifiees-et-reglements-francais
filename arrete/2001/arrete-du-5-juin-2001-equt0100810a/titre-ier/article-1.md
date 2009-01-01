@@ -34,10 +34,10 @@ En ce qui concerne les numéros cités dans le présent arrêté :
 
 6. Le présent arrêté ne s'applique pas :
 
-a) Aux transports exclus par les 1.1.3.1, 1.1.3.2 et 1.1.3.3 ;
+a) Aux transports exclus par les 1. 1. 3. 1, 1. 1. 3. 2, 1. 1. 3. 3, 1. 1. 3. 5 et 1. 1. 3. 7 ;
 
 b) Aux transports des matières dangereuses qui sont chargées dans des engins de transport pour servir à leur fonctionnement et à leurs divers mécanismes, chauffage, production de froid, éclairage et signalisation (et notamment les pétards pour signaux d'arrêts), ou qui sont emportées par les conducteurs et convoyeurs dans le même but ;
 
 c) Aux transports effectués entièrement sur des voies ferrées dans le périmètre d'une entreprise, lesquels sont néanmoins soumis aux dispositions de l'article 15.
 
-d) aux transports de marchandises dangereuses de la classe 7 exclus 2.2.7.1.2
+d) aux transports de marchandises dangereuses de la classe 7 exclus 1.7.1.4.

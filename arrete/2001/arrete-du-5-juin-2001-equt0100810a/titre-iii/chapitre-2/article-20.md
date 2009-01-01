@@ -6,9 +6,7 @@ Déclaration de chargement de matières dangereuses et marquage des colis.
 
 L'obligation figurant au 5.4.1.1.1, consistant à porter une croix dans la case prévue à cet effet du document de transport, ne s'applique pas si l'on utilise un contrat de transport ou un bordereau de suivi pour un transport de déchets.
 
-2. Transports pour compte propre.
-
-Les transports pour les besoins propres du transporteur ferroviaire, en quantité n'excédant pas les limites fixées au tableau du 1.1.3.1, ne sont pas soumis à l'obligation de déclaration de chargement prévue à l'article 11.
+2. Les transports pour les besoins propres du transporteur ferroviaire, en quantité n'excédant pas les limites fixées au tableau du 1. 1. 3. 1 ne sont pas soumis à l'obligation de document prévue au 5. 4. 0
 
 3. Transports au départ d'un centre de messagerie.
 

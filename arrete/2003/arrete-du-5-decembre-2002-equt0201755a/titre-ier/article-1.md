@@ -40,6 +40,6 @@ En ce qui concerne les numéros cités dans le présent arrêté :
 
 6. Le présent arrêté ne s'applique pas :
 
-a) Aux transports exclus par les 1.1.3.1, 1.1.3.2 et 1.1.3.3 ;
+a) aux transports exclus par les 1.1.3.1, 1.1.3.2, 1.1.3.3 et 1.1.3.7 ;
 
 b) Aux transports des marchandises dangereuses qui sont chargées dans des engins de transport pour servir à leur fonctionnement et à leurs divers mécanismes, chauffage, production de froid, éclairage et signalisation.

@@ -6,4 +6,4 @@ Les voyageurs empruntant des trains ne peuvent emporter sur eux ou dans leurs co
 
 Les récipients portables de gaz à usage médical transportés par des malades présentant des difficultés respiratoires sont admis dans la limite des quantités nécessaires pour un voyage.
 
-Seules les dispositions relatives à l'emballage, au marquage et à l'étiquetage des colis prescrites au 4.1 et 5.2 ou au 3.4 sont applicables.
+Seules les dispositions relatives à l'emballage, au marquage et à l'étiquetage des colis prescrites au 4.1 et 5.2 ou au 3.4 ou au 3.5 sont applicables.
