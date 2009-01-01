@@ -16,4 +16,6 @@ Le versement de l'indemnité de fonctions et d'objectifs est exclusif de :
 
 ― l'indemnité pour charges pénitentiaires ;
 
+_ toutes indemnités pour travaux dangereux, insalubres, incommodes ou salissants ;
+
 ― toutes autres indemnités liées à la manière de servir.
