@@ -64,7 +64,6 @@
 - [Décret du 24 août 1976](decret-du-24-aout-1976)
 - [Décret n°76-1088 du 24 novembre 1976](decret-n76-1088-du-24-novembre-1976)
 - [Décret n°76-1227 du 24 décembre 1976](decret-n76-1227-du-24-decembre-1976)
-- [Décret n°76-1228 du 24 décembre 1976](decret-n76-1228-du-24-decembre-1976)
 - [Décret n°76-831 du 24 août 1976](decret-n76-831-du-24-aout-1976)
 - [Décret n°76-1096 du 25 novembre 1976](decret-n76-1096-du-25-novembre-1976)
 - [Décret n°76-561 du 25 juin 1976](decret-n76-561-du-25-juin-1976)
