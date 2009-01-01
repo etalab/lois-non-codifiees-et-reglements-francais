@@ -17,7 +17,6 @@
 - [Décret n°98-561 du 1 juillet 1998 (MENR9801070D)](decret-n98-561-du-1-juillet-1998-menr9801070d)
 - [Décret n°98-562 du 1 juillet 1998 (INTM9800016D)](decret-n98-562-du-1-juillet-1998-intm9800016d)
 - [Décret n°98-563 du 1 juillet 1998 (MCCB9800318D)](decret-n98-563-du-1-juillet-1998-mccb9800318d)
-- [Décret n°98-782 du 1 septembre 1998 (DEFP9801628D)](decret-n98-782-du-1-septembre-1998-defp9801628d)
 - [Décret n°98-784 du 1 septembre 1998 (EQUS9800167D)](decret-n98-784-du-1-septembre-1998-equs9800167d)
 - [Décret n°98-785 du 1 septembre 1998 (EQUU9800120D)](decret-n98-785-du-1-septembre-1998-equu9800120d)
 - [Décret n°98-786 du 1 septembre 1998 (AGRS9801521D)](decret-n98-786-du-1-septembre-1998-agrs9801521d)
