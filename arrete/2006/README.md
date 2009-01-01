@@ -184,7 +184,6 @@
 - [Arrêté du 21 septembre 2006 (AGRG0601963A)](arrete-du-21-septembre-2006-agrg0601963a)
 - [Arrêté du 22 août 2006 (SOCT0611445A)](arrete-du-22-aout-2006-soct0611445a)
 - [Arrêté du 22 décembre 2006 (DEFP0601711A)](arrete-du-22-decembre-2006-defp0601711a)
-- [Arrêté du 22 décembre 2006 (ECOC0600180A)](arrete-du-22-decembre-2006-ecoc0600180a)
 - [Arrêté du 22 décembre 2006 (EQUA0601887A)](arrete-du-22-decembre-2006-equa0601887a)
 - [Arrêté du 22 décembre 2006 (EQUA0602269A)](arrete-du-22-decembre-2006-equa0602269a)
 - [Arrêté du 22 décembre 2006 (EQUA0602369A)](arrete-du-22-decembre-2006-equa0602369a)
