@@ -422,7 +422,6 @@
 - [Arrêté du 13 juin 1994 (ECOS9450016A)](arrete-du-13-juin-1994-ecos9450016a)
 - [Arrêté du 13 juin 1994 (ECOT9410212A)](arrete-du-13-juin-1994-ecot9410212a)
 - [Arrêté du 13 juin 1994 (ENVN9430207A)](arrete-du-13-juin-1994-envn9430207a)
-- [Arrêté du 13 juin 1994 (ENVP9430224A)](arrete-du-13-juin-1994-envp9430224a)
 - [Arrêté du 13 juin 1994 (EQUT9401047A)](arrete-du-13-juin-1994-equt9401047a)
 - [Arrêté du 13 juin 1994 (TEFE9400608A)](arrete-du-13-juin-1994-tefe9400608a)
 - [Arrêté du 13 octobre 1994 (AGRM9402241A)](arrete-du-13-octobre-1994-agrm9402241a)
