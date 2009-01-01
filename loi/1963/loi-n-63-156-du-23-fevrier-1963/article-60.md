@@ -22,13 +22,13 @@ Elle ne peut être mise en jeu à raison de la gestion de leurs prédécesseurs 
 
 Les sommes allouées en remise gracieuse aux régisseurs ou cel les dont ceux-ci ont été déclarés responsables mais qui ne pourraient pas être recouvrées ne peuvent être mises à la charge du comptable assignataire par le juge des comptes ou le ministre, sauf si le débet est lié à une faute ou une négligence caractérisée commise par le comptable public à l'occasion de son contrôle sur pièces ou sur place.
 
-IV - La responsabilité pécuniaire d'un comptable public ne peut être mise en jeu que par le ministre dont il relève, le ministre de l'économie et des finances ou le juge des comptes. Les ministres concernés peuvent déléguer cette compétence.
+IV - La responsabilité pécuniaire d'un comptable public ne peut être mise en jeu que par le ministre dont il relève, le ministre chargé du budget ou le juge des comptes. Les ministres concernés peuvent déléguer cette compétence.
 
-Le premier acte de la mise en jeu de la responsabilité ne peut plus intervenir au-delà du 31 décembre de la sixième année suivant celle au cours de laquelle le comptable a produit ses comptes au juge des comptes ou, lorsqu'il n'est pas tenu à cette obligation, celle au cours de laquelle il a produit les justifications de ses opérations.
+Le premier acte de la mise en jeu de la responsabilité ne peut plus intervenir au-delà du 31 décembre de la cinquième année suivant celle au cours de laquelle le comptable a produit ses comptes au juge des comptes ou, lorsqu'il n'est pas tenu à cette obligation, celle au cours de laquelle il a produit les justifications de ses opérations.
 
 Pour les comptes et les justifications des opérations qui ont été produits au plus tard le 31 décembre 2004, le délai prévu à l'alinéa précédent est décompté à partir de la production de ces comptes ou justifications.
 
-Dès lors qu'aucune charge provisoire n'a été notifiée dans ce délai à son encontre, le comptable est déchargé de sa gestion au titre de l'exercice concerné. Dans le cas où le comptable est sorti de fonction au cours de cet exercice et si aucune charge définitive n'existe ou ne subsiste à son encontre pour l'ensemble de sa gestion, il est réputé quitte de cette gestion.
+Dès lors qu'aucune charge n'a été notifiée dans ce délai à son encontre, le comptable est déchargé de sa gestion au titre de l'exercice concerné. Dans le cas où le comptable est sorti de fonction au cours de cet exercice et si aucune charge n'existe ou ne subsiste à son encontre pour l'ensemble de sa gestion, il est quitte de cette gestion.
 
 V. - Lorsque le ministre dont relève le comptable public, le ministre chargé du budget ou le juge des comptes constate l'existence de circonstances constitutives de la force majeure, il ne met pas en jeu la responsabilité personnelle et pécuniaire du comptable public.
 
@@ -36,11 +36,13 @@ Pour les ministres concernés, les modalités de constatation de la force majeur
 
 Les déficits résultant de circonstances de force majeure sont supportés par le budget de l'organisme intéressé. Toutefois, ils font l'objet d'une prise en charge par le budget de l'Etat dans les cas et conditions fixés par l'un des décrets prévus au XII. L'Etat est subrogé dans tous les droits des organismes publics à concurrence des sommes qu'il a prises en charge.
 
-VI - Le comptable public dont la responsabilité pécuniaire est mise en jeu a l'obligation de verser immédiatement de ses deniers personnels une somme égale, soit au montant de la perte de recette subie, de la dépense irrégulièrement payée, de l'indemnité versée, de son fait, à un autre organisme public ou à un tiers, de la rétribution d'un commis d'office par l'organisme public intéressé, soit, dans le cas où il en tient la comptabilité matière, à la valeur du bien manquant.
+VI - Le comptable public dont la responsabilité pécuniaire est mise en jeu par le ministre dont il relève, le ministre chargé du budget ou le juge des compte a l'obligation de verser immédiatement de ses deniers personnels une somme égale, soit au montant de la perte de recette subie, de la dépense irrégulièrement payée, de l'indemnité versée, de son fait, à un autre organisme public ou à un tiers, de la rétribution d'un commis d'office par l'organisme public intéressé, soit, dans le cas où il en tient la comptabilité matière, à la valeur du bien manquant.
 
 Toutefois, le comptable public peut obtenir le sursis de versement de la somme fixée à l'alinéa précédent.
 
-VII - Le comptable public dont la responsabilité pécuniaire est mise en jeu et qui n'a pas versé la somme prévue au paragraphe VI ci-dessus peut être constitué en débet soit par l'émission à son encontre d'un titre ayant force exécutoire, soit par arrêt ou jugement du juge des comptes.
+Lorsque le ministère public près le juge des comptes requiert l'instruction d'une charge à l'égard du comptable public, ce dernier a la faculté de verser immédiatement de ses deniers personnels une somme égale soit au montant de la perte de recette subie, de la dépense irrégulièrement payée, de l'indemnité versée de son fait à un autre organisme public ou à un tiers, de la rétribution d'un commis d'office par l'organisme public intéressé, soit, dans le cas où il en tient la comptabilité matière, à la valeur du bien manquant.
+
+VII - Le comptable public dont la responsabilité pécuniaire est mise en jeu par le ministre dont il relève ou le ministre chargé du budget et qui n'a pas versé la somme prévue au VI peut être constitué en débet par l'émission à son encontre d'un titre ayant force exécutoire.
 
 Le comptable public qui a couvert sur ses deniers personnels le montant d'un déficit est en droit de poursuivre à titre personnel le recouvrement de la somme correspondante.
 
@@ -60,7 +62,7 @@ Il en est de même pour toute personne qui reçoit ou manie directement ou indir
 
 Les gestions de fait sont soumises aux mêmes juridictions et entraînent les mêmes obligations et responsabilités que les gestions régulières. Néanmoins, le juge des comptes peut, hors le cas de mauvaise foi ou d'infidélité du comptable de fait, suppléer par des considérations d'équité à l'insuffisance des justifications produites.
 
-Les comptables de fait pourront, dans le cas où ils n'ont pas fait l'objet des poursuites au titre du délit prévu et réprimé par l'article 433-12 du Code pénal, être condamnés aux amendes prévues par la loi.
+Les comptables de fait pourront, dans le cas où ils n'ont pas fait l'objet pour les mêmes opérations des poursuites au titre du délit prévu et réprimé par l'article 433-12 du Code pénal, être condamnés aux amendes prévues par la loi.
 
 XII - Les modalités d'application du présent article sont fixées soit par le décret portant règlement général sur la comptabilité publique, soit par décrets contresignés par le ministre des finances.
 
