@@ -437,7 +437,6 @@
 - [Arrêté du 15 janvier 1998 (MESH9820420A)](arrete-du-15-janvier-1998-mesh9820420a)
 - [Arrêté du 15 janvier 1998 (MESP9820139A)](arrete-du-15-janvier-1998-mesp9820139a)
 - [Arrêté du 15 janvier 1998 (MESP9820140A)](arrete-du-15-janvier-1998-mesp9820140a)
-- [Arrêté du 15 juillet 1998 (ECOT9840390A)](arrete-du-15-juillet-1998-ecot9840390a)
 - [Arrêté du 15 juillet 1998 (EQUT9800949A)](arrete-du-15-juillet-1998-equt9800949a)
 - [Arrêté du 15 juillet 1998 (MESG9810759A)](arrete-du-15-juillet-1998-mesg9810759a)
 - [Arrêté du 15 juin 1998 (AGRS9801120A)](arrete-du-15-juin-1998-agrs9801120a)

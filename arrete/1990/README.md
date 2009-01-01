@@ -662,7 +662,6 @@
 - [Arrêté du 26 décembre 1990 (SPSS9002577A)](arrete-du-26-decembre-1990-spss9002577a)
 - [Arrêté du 26 décembre 1990 (SPSS9002578A)](arrete-du-26-decembre-1990-spss9002578a)
 - [Arrêté du 26 décembre 1990 (SPSS9002579A)](arrete-du-26-decembre-1990-spss9002579a)
-- [Arrêté du 26 janvier 1990 (ECOT8913231A)](arrete-du-26-janvier-1990-ecot8913231a)
 - [Arrêté du 26 janvier 1990 (EQUS9000143A)](arrete-du-26-janvier-1990-equs9000143a)
 - [Arrêté du 26 janvier 1990 (MERG9000013A)](arrete-du-26-janvier-1990-merg9000013a)
 - [Arrêté du 26 juillet 1990 (AGRS9001613A)](arrete-du-26-juillet-1990-agrs9001613a)
