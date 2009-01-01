@@ -12,4 +12,4 @@
 
 4. Les jeunes travailleurs des deux sexes âgés de moins de dix-huit ans ne peuvent être employés à un travail effectif de plus de huit heures par jour et de trente-cinq heures par semaine ou par grande période de travail.
 
-Toutefois, à titre exceptionnel, des dérogations peuvent être accordées, dans la limite de cinq heures par semaine ou par grande période de travail, par l'inspecteur du travail des transports après avis conforme du médecin du travail de l'établissement.
+Toutefois, à titre exceptionnel, des dérogations peuvent être accordées, dans la limite de cinq heures par semaine ou par grande période de travail, par l'inspecteur du travail après avis conforme du médecin du travail de l'établissement.

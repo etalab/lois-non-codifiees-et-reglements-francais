@@ -8,4 +8,4 @@ Ces dispositions sont également applicables aux trajets haut-le-pied nécessit�
 
 Dans ce cas d'application du bout en bout, un repos journalier est attribué à l'issue du premier trajet.
 
-Toutefois, dans le cas où, sur des relations données, les prolongations ainsi envisagées seraient supérieures à deux heures ou lorsque le service de bout en bout devra être assuré en aller-retour, l'accord de l'inspecteur du travail des transports est requis, après avis des délégués du personnel.
+Toutefois, dans le cas où, sur des relations données, les prolongations ainsi envisagées seraient supérieures à deux heures ou lorsque le service de bout en bout devra être assuré en aller-retour, l'accord de l'inspecteur du travail est requis, après avis des délégués du personnel.

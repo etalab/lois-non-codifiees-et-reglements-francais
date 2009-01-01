@@ -1,6 +1,6 @@
 # Article 49
 
-1. En vue de permettre d'établir des conditions de travail répondant aux aspirations du personnel, les roulements de service, tableaux de service et tableaux de roulement peuvent être modifiés au plan local, en aménageant certaines limites fixées par le présent décret.A cet effet, le chef d'établissement est habilité, sur la demande du personnel et en accord avec les délégués du personnel concernés, à réaliser de telles modifications. Celles-ci sont portées à la connaissance de l'inspecteur du travail des transports.
+1. En vue de permettre d'établir des conditions de travail répondant aux aspirations du personnel, les roulements de service, tableaux de service et tableaux de roulement peuvent être modifiés au plan local, en aménageant certaines limites fixées par le présent décret.A cet effet, le chef d'établissement est habilité, sur la demande du personnel et en accord avec les délégués du personnel concernés, à réaliser de telles modifications. Celles-ci sont portées à la connaissance de l'inspecteur du travail.
 
 2. Par ailleurs, pour l'activité du transport de fret, le chef d'établissement est habilité à apporter aux roulements de service, tableaux de service ou tableaux de roulement les modifications ci-après, qui ne peuvent être appliquées qu'aux agents ayant donné leur accord explicite :
 
@@ -40,4 +40,4 @@ Les membres du comité du travail concerné sont informés de ces dérogations.
 
 La mise en œuvre des dérogations prévues au présent article s'accompagne de contreparties, notamment financières, définies par accord d'entreprise ou, à défaut, par décision unilatérale de l'entreprise.
 
-3. Les décisions prises en application    du 1 ci-dessus sont adressées, pour information, aux délégués du personnel concernés.
+3. Les décisions prises en application du 1 ci-dessus sont adressées, pour information, aux délégués du personnel concernés.

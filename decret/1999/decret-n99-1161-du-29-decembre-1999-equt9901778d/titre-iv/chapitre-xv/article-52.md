@@ -6,7 +6,7 @@ a) En cas d'interruption d'une journée au plus, la récupération des heures pe
 
 b) En cas d'interruption de huit jours au plus, la récupération des heures perdues peut s'effectuer dans un délai maximum de deux mois à dater du jour de la reprise du travail ;
 
-c) En cas d'interruption excédant huit jours, la récupération des heures perdues ne peut s'effectuer au-delà de la limite indiquée à l'alinéa précédent qu'avec une autorisation écrite de l'inspecteur du travail des transports intéressé après avis du comité d'établissement.
+c) En cas d'interruption excédant huit jours, la récupération des heures perdues ne peut s'effectuer au-delà de la limite indiquée à l'alinéa précédent qu'avec une autorisation écrite de l'inspecteur du travail intéressé après avis du comité d'établissement.
 
 La demande d'autorisation doit indiquer la nature, la cause, la date de l'interruption collective, les modifications que l'on se propose d'apporter temporairement au tableau de service en vue de récupérer les heures perdues, ainsi que le nombre d'agents auxquels s'applique cette modification.
 
