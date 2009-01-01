@@ -6,7 +6,7 @@ Les recrutements font l'objet d'une publicité préalable dans les conditions su
 
 1° Les avis de recrutement précisent le nombre des postes à pourvoir ainsi que la date limite de dépôt des candidatures et sont affichés, quinze jours au moins avant cette date, dans les locaux de la structure dans laquelle ces postes sont à pourvoir. Ces avis mentionnent que seuls seront convoqués à l'entretien prévu par le présent I, les candidats préalablement retenus par la commission prévue ci-dessous, instituée pour ce recrutement.
 
-2° Les avis peuvent également être affichés dans les agences locales de l'Agence nationale pour l'emploi situées dans le département.
+2° Les avis peuvent également être affichés dans les agences locales de l'     institution mentionnée à l'article L. 5312-1 du code du travail  situées dans le département.
 
 3° Ces avis peuvent également être mis en ligne sur le ou les systèmes télématiques dont disposent éventuellement les structures dans lesquelles les emplois sont à pourvoir.
 

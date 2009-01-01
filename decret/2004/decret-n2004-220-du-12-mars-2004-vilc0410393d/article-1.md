@@ -20,17 +20,17 @@ Ce comité comprend :
 
 8° Les chefs des services déconcentrés des administrations civiles de l'Etat suivants ou le suppléant désigné par chacun d'eux :
 
-- le trésorier-payeur général ;
+-le trésorier-payeur général ;
 
-- le directeur des services fiscaux ;
+-le directeur des services fiscaux ;
 
-- le directeur départemental du travail, de l'emploi et de la formation professionnelle ;
+-le directeur départemental du travail, de l'emploi et de la formation professionnelle ;
 
-- le directeur départemental de l'équipement ;
+-le directeur départemental de l'équipement ;
 
-- le directeur départemental de la concurrence, de la consommation et de la répression des fraudes ;
+-le directeur départemental de la concurrence, de la consommation et de la répression des fraudes ;
 
-- le délégué régional au commerce et à l'artisanat ;
+-le délégué régional au commerce et à l'artisanat ;
 
 9° Le président de chacune des chambres de commerce et d'industrie territorialement compétentes ou son suppléant désigné par lui parmi les membres de cette chambre ;
 
@@ -40,4 +40,4 @@ Ce comité comprend :
 
 12° Un représentant désigné par chacune des organisations d'employeurs représentatives au plan national.
 
-Le préfet peut associer aux travaux du comité, sans voix délibérative, toute personne dont la participation est jugée utile, notamment des représentants des organismes de recouvrement des cotisations de sécurité sociale et de l'Agence nationale pour l'emploi.
+Le préfet peut associer aux travaux du comité, sans voix délibérative, toute personne dont la participation est jugée utile, notamment des représentants des organismes de recouvrement des cotisations de sécurité sociale et de l'     institution mentionnée à l'article L. 5312-1 du code du travail .

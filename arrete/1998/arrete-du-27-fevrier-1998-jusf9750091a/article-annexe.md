@@ -30,7 +30,7 @@ Le service public de l'emploi :
 
 L'organisation nationale ;
 
-L'organisation déconcentrée (directions départementales du travail, de l'emploi et de la formation professionnelle, l'Agence nationale pour l'emploi, l'Association nationale pour la formation professionnelle des adultes, les missions locales et les permanences d'accueil, d'information et d'orientation ...) ;
+L'organisation déconcentrée (directions départementales du travail, de l'emploi et de la formation professionnelle, l'institution mentionnée à l'article L. 5312-1 du code du travail, l'Association nationale pour la formation professionnelle des adultes, les missions locales et les permanences d'accueil, d'information et d'orientation ...) ;
 
 Les principaux dispositifs d'aide à l'emploi et à l'insertion (Fonds national de l'emploi ...).
 

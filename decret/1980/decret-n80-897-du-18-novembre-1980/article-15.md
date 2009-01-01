@@ -4,7 +4,7 @@ La collectivité ou l'organisme qui a procédé au licenciement cesse de verser 
 
 1° Aux travailleurs exerçant une nouvelle activité professionnelle ;
 
-2° Aux allocataires qui, sans motif valable, ont refusé un emploi offert par la collectivité ou l'organisme qui les employait précédemment, ou par l'Agence nationale pour l'emploi.
+2° Aux allocataires qui, sans motif valable, ont refusé un emploi offert par la collectivité ou l'organisme qui les employait précédemment, ou par l'     institution mentionnée à l'article L. 5312-1 du code du travail .
 
 L'emploi offert doit ressortir soit à leur spécialité, soit à toute autre activité professionnelle compatible avec leur formation antérieure et leurs aptitudes. Il doit être rétribué au taux des salaires normalement pratiqués dans la profession et la région. Cet emploi doit se situer dans les limites de la France métropolitaine.
 

@@ -1,3 +1,5 @@
 # Article 4
 
-Les fichiers départementaux prévus à l'article 2 sont exploités sur un ordinateur placé dans les locaux de la direction départementale du travail et de l'emploi. Les informations transmises au niveau central seront exploitées sur l'ordinateur du centre informatique du ministère.
+Les traitements automatisés, dans les départements où ils sont mis en oeuvre, seront effectués sur des ordinateurs installés dans les locaux du secrétariat de la Cotorep.
+
+Aucune interconnexion ou rapprochement de fichiers n'est autorisé.

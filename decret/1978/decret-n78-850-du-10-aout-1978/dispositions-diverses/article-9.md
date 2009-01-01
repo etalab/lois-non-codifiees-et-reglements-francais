@@ -2,7 +2,7 @@
 
 La limite de 150 000 F visée à l'article 6 de la loi du 5 juillet 1978 s'entend de la moyenne des cessions de l'année considérée et des deux années précédentes dans les cas suivants :
 
-1° Licenciement du contribuable ou de son conjoint. Bénéficient de cette disposition les personnes qui se trouvent privées d'activité professionnelle pour des raisons indépendantes de leur volonté et sont inscrites comme demandeurs d'emploi à l'Agence nationale pour l'emploi ;
+1° Licenciement du contribuable ou de son conjoint. Bénéficient de cette disposition les personnes qui se trouvent privées d'activité professionnelle pour des raisons indépendantes de leur volonté et sont inscrites comme demandeurs d'emploi à l'     institution mentionnée à l'article L. 5312-1 du code du travail  ;
 
 2° Mise à la retraite du contribuable ou de son conjoint. Bénéficient de la mesure les personnes qui ont cessé toute activité professionnelle après avoir atteint l'âge auquel correspond la prise d'effet de la pension de vieillesse de leur régime de sécurité sociale ;
 

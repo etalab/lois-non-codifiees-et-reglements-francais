@@ -1,72 +1,72 @@
 # Article 43
 
-Les agents statutaires de l'ANPE sont classés dans les niveaux d'emplois créés aux articles 3 et 42 conformément au tableau de correspondance suivant :
+Les agents statutaires de l'institution mentionnée à l'article L. 5312-1 du code du travail sont classés dans les niveaux d'emplois créés aux articles 3 et 42 conformément au tableau de correspondance suivant :
 
 <table>
 <tbody>
 <tr>
 <td>
-<p align="center">CADRES D'EMPLOIS D'ORIGINE  </p>
+<p align="center">CADRES D'EMPLOIS D'ORIGINE </p>
 </td>
 <td>
 <p align="center">NIVEAUX D'EMPLOIS</p>
-<p align="center"> de transposition </p>
+<p align="center">de transposition </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center"> Assistants de gestion</p>
+<p align="center">Assistants de gestion</p>
 </td>
 <td>
-<p align="center">  Niveau I bis </p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center"> Conseillers adjoints</p>
-</td>
-<td>
-<p align="center">  Niveau I </p>
+<p align="center">Niveau I bis </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center"> Conseillers</p>
+<p align="center">Conseillers adjoints</p>
 </td>
 <td>
-<p align="center"> Niveau II </p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center"> Conseillers principaux</p>
-</td>
-<td>
-<p align="center"> Niveau III </p>
+<p align="center">Niveau I </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center"> Administrateurs de classe normale</p>
+<p align="center">Conseillers</p>
 </td>
 <td>
-<p align="center"> Niveau IV B bis</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center"> Administrateurs de 1re classe</p>
-</td>
-<td>
-<p align="center"> Niveau V A </p>
+<p align="center">Niveau II </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center"> Administrateurs hors classe</p>
+<p align="center">Conseillers principaux</p>
 </td>
 <td>
-<p align="center"> Niveau V B</p>
+<p align="center">Niveau III </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Administrateurs de classe normale</p>
+</td>
+<td>
+<p align="center">Niveau IV B bis</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Administrateurs de 1re classe</p>
+</td>
+<td>
+<p align="center">Niveau V A </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Administrateurs hors classe</p>
+</td>
+<td>
+<p align="center">Niveau V B</p>
 </td>
 </tr>
 </tbody>

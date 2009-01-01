@@ -8,6 +8,6 @@ Les recrutements organisés en application de l'article 2 font l'objet d'une pub
 
 a) Dans les locaux de l'établissement ou de la collectivité qui organise le recrutement ;
 
-b) Dans les agences locales de l'Agence nationale pour l'emploi situées dans le ou les départements où les emplois sont offerts. Ces avis sont transmis aux directeurs départementaux du travail, de l'emploi et de la formation professionnelle de ce ou de ces mêmes départements pour diffusion au sein du réseau des organismes concourant au service public de l'emploi, notamment les associations pour l'emploi dans l'industrie et le commerce, les missions locales et les maisons pour l'emploi.
+b) Dans les agences locales de l'     institution mentionnée à l'article L. 5312-1 du code du travail  situées dans le ou les départements où les emplois sont offerts. Ces avis sont transmis aux directeurs départementaux du travail, de l'emploi et de la formation professionnelle de ce ou de ces mêmes départements pour diffusion au sein du réseau des organismes concourant au service public de l'emploi, notamment les associations pour l'emploi dans l'industrie et le commerce, les missions locales et les maisons pour l'emploi.
 
 3° Ces avis sont également publiés, au moins un mois avant la date de limite de dépôt des candidatures dans au moins un quotidien d'information générale à diffusion régionale.

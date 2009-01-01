@@ -1,6 +1,6 @@
 # Article 4
 
-La convention, qui est conclue entre l'Agence nationale pour l'emploi, agissant au nom de l'Etat, et l'employeur doit préciser notamment [*contenu - mentions obligatoires*] :
+La convention, qui est conclue entre l' institution mentionnée à l'article L. 5312-1 du code du travail , agissant au nom de l'Etat, et l'employeur doit préciser notamment  :
 
 a) Le nom et l'adresse du bénéficiaire ;
 
@@ -36,4 +36,4 @@ La convention prend effet à compter de la date d'embauche du salarié.
 
 Copie en est remise au salarié.
 
-L'employeur doit signaler à la direction départementale du travail et de l'emploi et à l'Agence nationale pour l'emploi toute rupture du contrat de travail qui interviendrait avant la fin de la convention.
+L'employeur doit signaler à la direction départementale du travail et de l'emploi et à l' institution mentionnée à l'article L. 5312-1 du code du travail toute rupture du contrat de travail qui interviendrait avant la fin de la convention.

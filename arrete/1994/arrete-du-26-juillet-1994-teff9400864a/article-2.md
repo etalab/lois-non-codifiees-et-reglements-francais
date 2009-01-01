@@ -16,7 +16,7 @@ Les catégories d'informations nominatives, enregistrées après accord de l'int
 
 - mobilité géographique ;
 
-- inscription à l'Agence nationale pour l'emploi ;
+- inscription à l'institution mentionnée à l'article L. 5312-1 du code du travail ;
 
 - diplômes scolaires et professionnels ;
 

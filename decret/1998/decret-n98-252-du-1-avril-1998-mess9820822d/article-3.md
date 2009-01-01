@@ -6,25 +6,25 @@ Les modalités de cette communication sont fixées par des conventions bilatéra
 
 a) Soit par l'Agence centrale des organismes de sécurité sociale avec :
 
-- le ministre chargé du travail ;
+-le ministre chargé du travail ;
 
-- l'Union nationale interprofessionnelle pour l'emploi dans l'industrie et le commerce ;
+-l'Union nationale interprofessionnelle pour l'emploi dans l'industrie et le commerce ;
 
-- l'Agence nationale pour l'emploi ;
+-l'     institution mentionnée à l'article L. 5312-1 du code du travail  ;
 
-- la Caisse nationale de l'assurance maladie des travailleurs salariés ;
+-la Caisse nationale de l'assurance maladie des travailleurs salariés ;
 
-- la Caisse nationale d'assurance vieillesse des travailleurs salariés ;
+-la Caisse nationale d'assurance vieillesse des travailleurs salariés ;
 
 b) Soit par la Caisse centrale de la mutualité sociale agricole avec :
 
-- le ministre chargé du travail ;
+-le ministre chargé du travail ;
 
-- l'Union nationale interprofessionnelle pour l'emploi dans l'industrie et le commerce ;
+-l'Union nationale interprofessionnelle pour l'emploi dans l'industrie et le commerce ;
 
-- l'Agence nationale pour l'emploi ;
+-l'     institution mentionnée à l'article L. 5312-1 du code du travail  ;
 
-- les institutions de retraite complémentaire et de prévoyance visées à l'article 1050 du code rural.
+-les institutions de retraite complémentaire et de prévoyance visées à l'article 1050 du code rural.
 
 Ces conventions sont conclues dans les trois mois suivant la publication du présent décret.
 

@@ -104,7 +104,7 @@ La représentation des organisations syndicales d'exploitants agricoles est dét
 
 5. Siègent, à titre consultatif, dans la commission professionnelle consultative des experts désignés en tant que de besoin par le ministre chargé de l'agriculture :
 
-- un représentant de l'Agence nationale pour l'emploi ;
+- un représentant de l'institution mentionnée à l'article L. 5312-1 du code du travail ;
 
 - un représentant de l'Association pour l'emploi des cadres, ingénieurs et techniciens agricoles ;
 

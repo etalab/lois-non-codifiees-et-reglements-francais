@@ -36,7 +36,7 @@ II. - Pour certains demandeurs
 
 Le dossier comprend en outre :
 
-a) Pour toutes les personnes mentionnées à l'article R. 351-41 du code du travail, à l'exception des personnes visées au 2°, un historique de leur situation de demandeur d'emploi sur dix-huit mois délivré par l'A.N.P.E. ;
+a) Pour toutes les personnes mentionnées à l'article R. 351-41 du code du travail, à l'exception des personnes visées au 2°, un historique de leur situation de demandeur d'emploi sur dix-huit mois délivré par l'institution mentionnée à l'article L. 5312-1 du code du travail ;
 
 b) Pour les personnes mentionnées au 2° de l'article R. 351-41 du code du travail :
 
@@ -56,7 +56,7 @@ Salariés adhérant à une convention de conversion :
 
 - la notification d'ouverture des droits aux allocations spécifiques de conversion ;
 
-- l'attestation d'inscription à l'Agence nationale pour l'emploi à l'issue de la période passée en convention de conversion.
+- l'attestation d'inscription à l'institution mentionnée à l'article L. 5312-1 du code du travail à l'issue de la période passée en convention de conversion.
 
 Stagiaires de formation professionnelle :
 

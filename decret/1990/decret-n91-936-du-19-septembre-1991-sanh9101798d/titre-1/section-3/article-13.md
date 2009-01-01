@@ -6,7 +6,7 @@ Les recrutements font l'objet d'une publicité préalable dans les conditions su
 
 1° Les avis de recrutement précisent le nombre des postes à pourvoir ainsi que la date limite de dépôt des candidatures et sont affichés, quinze jours au moins avant cette date, dans les locaux de la structure dans laquelle les emplois sont à pourvoir. Ces avis mentionnent que seuls seront convoqués à l'entretien prévu par le présent I, les candidats préalablement retenus par la commission prévue ci-dessous, instituée pour ce recrutement ;
 
-2° Les avis peuvent également être affichés dans les agences locales de l'Agence nationale pour l'emploi situées dans le département ;
+2° Les avis peuvent également être affichés dans les agences locales de l'institution mentionnée à l'article L. 5312-1 du code du travail situées dans le département ;
 
 3° Ces avis peuvent également être mis en ligne sur le ou les systèmes télématiques dont disposent éventuellement les services dans lesquels les emplois sont à pourvoir.
 
@@ -18,7 +18,7 @@ Les candidats à un emploi dans la spécialité conduite de véhicules » doiven
 
 Au terme de l'examen du dossier de chaque candidat, la commission auditionne ceux dont elle a retenu la candidature. Cette audition est publique.
 
-La commission se prononce en prenant en compte les critères professionnels qu'elle détermine préalablement. A l'issue des auditions, la commission arrête, par ordre d'aptitude, la liste des candidats déclarés aptes. Cette liste peut comporter un nombre de candidats supérieur à celui des postes à pourvoir. Les candidats sont nommés dans l'ordre de la liste. En cas de renoncement d'un candidat, il est fait appel au premier candidat restant sur la liste. Si un ou plusieurs postes ne figurant pas initialement dans le nombre de postes ouverts au recrutement deviennent vacants, le directeur général de l'Assistance publique-hôpitaux de Paris peut faire appel aux candidats figurant sur la liste dans l'ordre de celle-ci. La liste des candidats déclarés aptes demeure valable jusqu'à la date d'ouverture du recrutement suivant.
+La commission se prononce en prenant en compte les critères professionnels qu'elle détermine préalablement.A l'issue des auditions, la commission arrête, par ordre d'aptitude, la liste des candidats déclarés aptes. Cette liste peut comporter un nombre de candidats supérieur à celui des postes à pourvoir. Les candidats sont nommés dans l'ordre de la liste. En cas de renoncement d'un candidat, il est fait appel au premier candidat restant sur la liste. Si un ou plusieurs postes ne figurant pas initialement dans le nombre de postes ouverts au recrutement deviennent vacants, le directeur général de l'Assistance publique-hôpitaux de Paris peut faire appel aux candidats figurant sur la liste dans l'ordre de celle-ci. La liste des candidats déclarés aptes demeure valable jusqu'à la date d'ouverture du recrutement suivant.
 
 II.-Les ouvriers professionnels qualifiés sont recrutés par un concours sur titres ouvert aux candidats titulaires de l'un des diplômes, certifications ou équivalences suivants :
 

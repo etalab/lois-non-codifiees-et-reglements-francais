@@ -10,4 +10,4 @@ Elle peut, en outre, comporter à la demande des agents :
 
 2° La validation interne de compétences et d'acquis professionnels correspondant à la filière et au niveau d'emplois occupé.
 
-Les modalités de l'évaluation, de la certification de compétences, de la validation de compétences et d'acquis professionnels et les conditions de la prise en compte de l'évaluation dans la gestion de la carrière des agents sont fixées par décision du directeur général de l'agence, après avis du comité consultatif paritaire national.
+Les modalités de l'évaluation, de la certification de compétences, de la validation de compétences et d'acquis professionnels et les conditions de la prise en compte de l'évaluation dans la gestion de la carrière des agents sont fixées par décision du directeur général de l'institution, après avis du comité consultatif paritaire national.

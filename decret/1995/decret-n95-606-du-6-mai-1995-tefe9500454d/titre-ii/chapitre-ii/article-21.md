@@ -8,11 +8,11 @@ Les élections ont lieu à bulletin secret.
 
 La répartition entre les différentes listes des sièges de représentants du personnel soumis à élection est faite à la représentation proportionnelle dans les conditions suivantes :
 
-1°Chaque liste a droit à autant de représentants titulaires que le nombre moyen de voix recueillies par elle contient de fois le quotient électoral ;
+1° Chaque liste a droit à autant de représentants titulaires que le nombre moyen de voix recueillies par elle contient de fois le quotient électoral ;
 
-2°Les représentants titulaires restant éventuellement à élire le sont selon la règle de la plus forte moyenne ;
+2° Les représentants titulaires restant éventuellement à élire le sont selon la règle de la plus forte moyenne ;
 
-3°Pour les comités régionaux et des départements d'outre-mer, un représentant supplémentaire est attribué, le cas échéant, à la liste ayant obtenu au moins 5 p. 100 des suffrages et qui n'a pu obtenir un représentant au titre des 1° et 2° ci-dessus. Si plusieurs listes sont dans ce cas, un représentant supplémentaire est attribué à celle d'entre elles qui a recueilli le plus de suffrages.
+3° Pour les comités régionaux et des départements d'outre-mer, un représentant supplémentaire est attribué, le cas échéant, à la liste ayant obtenu au moins 5 p. 100 des suffrages et qui n'a pu obtenir un représentant au titre des 1° et 2° ci-dessus. Si plusieurs listes sont dans ce cas, un représentant supplémentaire est attribué à celle d'entre elles qui a recueilli le plus de suffrages.
 
 A l'issue des opérations électorales, les représentants titulaires puis les représentants suppléants sont déclarés élus dans l'ordre de présentation de la liste.
 
@@ -20,7 +20,7 @@ La durée du mandat d'un ou plusieurs comités peut être exceptionnellement ré
 
 Sauf le cas visé à l'alinéa ci-dessus, les élections ont lieu quatre mois au plus et quinze jours au moins avant la date d'expiration du mandat des comités. La date de ces élections est fixée par décision du directeur général de l'agence.
 
-Les représentants du personnel, membres titulaires ou suppléants des comités institués par le présent titre, venant au cours de leur mandat à cesser les fonctions au sein de l'Agence nationale pour l'emploi au titre desquelles ils ont été élus, sont remplacés par leur suivant de liste.
+Les représentants du personnel, membres titulaires ou suppléants des comités institués par le présent titre, venant au cours de leur mandat à cesser les fonctions au sein de l'     institution mentionnée à l'article L. 5312-1 du code du travail  au titre desquelles ils ont été élus, sont remplacés par leur suivant de liste.
 
 Le mandat des remplaçants prend fin en même temps que celui des autres membres du comité.
 

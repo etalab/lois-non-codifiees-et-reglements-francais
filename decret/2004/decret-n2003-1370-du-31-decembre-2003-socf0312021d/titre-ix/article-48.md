@@ -4,7 +4,7 @@ I. - Nonobstant les dispositions de l'article 2, les agents en contrat à durée
 
 II. - Les agents en contrat à durée déterminée, en fonctions à la date d'effet du présent décret, peuvent être recrutés, en qualité d'agent statutaire, par sélection professionnelle, dans le niveau d'emplois dont ils relèvent, pendant une période de deux ans à compter de la date d'effet du présent décret, sous réserve de satisfaire aux conditions suivantes :
 
-1° Justifier de services effectifs d'une durée équivalente à six ans au moins de service à temps complet à l'agence à la date de clôture des inscriptions ;
+1° Justifier de services effectifs d'une durée équivalente à six ans au moins de service à temps complet à l'institution à la date de clôture des inscriptions ;
 
 2° Répondre aux conditions posées aux articles 5 et 13.
 

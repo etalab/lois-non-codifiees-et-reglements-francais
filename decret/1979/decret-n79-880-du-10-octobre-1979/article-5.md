@@ -10,7 +10,7 @@ Du directeur du service régional de la sécurité sociale ou du directeur régi
 
 D'un représentant de l'institution visée à l'article L. 351-2 du code du travail ;
 
-Du chef de la section départementale de l'agence nationale pour l'emploi ;
+Du chef de la section départementale de l' institution mentionnée à l'article L. 5312-1 du code du travail ;
 
 Du directeur de la caisse primaire d'assurance maladie ou de son représentant ;
 

@@ -198,7 +198,7 @@ B. - Le marché du travail :
 
 Organisation et fonctionnement :
 
-Le service public de l'emploi : les services du ministère chargé du travail, de l'emploi et de la formation professionnelle ; l'Agence nationale pour l'emploi ; l'Association nationale pour la formation professionnelle des adultes ; les organismes de l'assurance chômage.
+Le service public de l'emploi : les services du ministère chargé du travail, de l'emploi et de la formation professionnelle ; l'institution mentionnée à l'article L. 5312-1 du code du travail ; l'Association nationale pour la formation professionnelle des adultes ; les organismes de l'assurance chômage.
 
 C. - Les travailleurs privés d'emploi :
 
@@ -284,7 +284,7 @@ Opérations d'inventaire et établissement des documents de synthèse :
 
 - le bilan ;
 
-- le tableau de financement et étude de l'annexe  ;
+- le tableau de financement et étude de l'annexe ;
 
 - principes de consolidation des comptes : les états comptables consolidés.
 

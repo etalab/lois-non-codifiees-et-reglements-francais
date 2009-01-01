@@ -20,7 +20,7 @@ Cette information est assurée :
 
 9. Par le centre d'information et de documentation jeunesse et l'ensemble des éléments du réseau d'information pour la jeunesse ;
 
-10. Par les organismes de formation, notamment l'Association nationale pour la formation des adultes, ainsi que par les organismes de recherche d'emploi et d'aide à l'insertion, en particulier l'Agence nationale pour l'emploi ;
+10. Par les organismes de formation, notamment l'Association nationale pour la formation des adultes, ainsi que par les organismes de recherche d'emploi et d'aide à l'insertion, en particulier l'     institution mentionnée à l'article L. 5312-1 du code du travail  ;
 
 11. Par les organismes de sécurité sociale et les organismes débiteurs de prestations familiales ;
 

@@ -10,4 +10,4 @@ Ne peuvent prétendre au bénéfice de l'allocation d'année préparatoire à l'
 
 4° Les candidats effectuant le service national, pour tout ou partie, durant l'année universitaire au titre de laquelle l'allocation est attribuée ;
 
-5° Les étudiants inscrits à l'Agence nationale pour l'emploi (A.N.P.E.) comme demandeurs d'emploi ou bénéficiaires d'allocations de formation professionnelle durant l'année universitaire au titre de laquelle l'allocation est attribuée.
+5° Les étudiants inscrits à l'     institution mentionnée à l'article L. 5312-1 du code du travail  (A.N.P.E.) comme demandeurs d'emploi ou bénéficiaires d'allocations de formation professionnelle durant l'année universitaire au titre de laquelle l'allocation est attribuée.

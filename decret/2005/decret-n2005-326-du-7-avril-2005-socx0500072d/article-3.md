@@ -48,7 +48,7 @@ g) Le directeur général de l'Institut national de la statistique et des étude
 
 h) Le directeur de l'animation de la recherche, des études et des statistiques ;
 
-i) Le directeur général de l'Agence nationale pour l'emploi (ANPE) ;
+i) Le directeur général de l'     institution mentionnée à l'article L. 5312-1 du code du travail  (ANPE) ;
 
 j) Le directeur général de l'Association nationale pour la formation professionnelle des adultes (AFPA) ;
 

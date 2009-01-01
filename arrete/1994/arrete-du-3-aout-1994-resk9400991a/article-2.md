@@ -12,7 +12,7 @@ Pour l'inscription à l'université sont assimilés de plein droit à une activi
 
 - toute période consacrée à l'éducation d'un enfant ;
 
-- l'inscription à l'Agence nationale pour l'emploi ;
+- l'inscription à  l'institution mentionnée à l'article L. 5312-1 du code du travail ;
 
 - la participation à un dispositif de formation professionnelle destiné aux jeunes à la recherche d'un emploi ou d'une qualification ;
 

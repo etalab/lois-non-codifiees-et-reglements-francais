@@ -1,6 +1,6 @@
 # Article 4-2
 
-I. - L'avis de recrutement indique :
+I.-L'avis de recrutement indique :
 
 1° Le nombre des postes à pourvoir ;
 
@@ -14,8 +14,8 @@ I. - L'avis de recrutement indique :
 
 6° Les conditions dans lesquelles les candidats préalablement sélectionnés par la commission mentionnée à l'article 4-3 sont convoqués à l'entretien prévu au même article.
 
-II. - L'avis de recrutement est affiché, quinze jours au moins avant la date limite de dépôt des candidatures, dans les locaux de l'établissement où les postes sont à pourvoir.
+II.-L'avis de recrutement est affiché, quinze jours au moins avant la date limite de dépôt des candidatures, dans les locaux de l'établissement où les postes sont à pourvoir.
 
-Cet avis peut en outre être affiché dans les agences locales pour l'emploi de l'Agence nationale pour l'emploi situées dans le ou les départements concernés.
+Cet avis peut en outre être affiché dans les agences locales pour l'emploi de l'     institution mentionnée à l'article L. 5312-1 du code du travail  situées dans le ou les départements concernés.
 
-III. - L'avis de recrutement est en outre publié, dans le même délai, sur les services de communication publique en ligne du ministère de l'agriculture et de l'établissement où les postes sont à pourvoir ainsi que dans un journal local.
+III.-L'avis de recrutement est en outre publié, dans le même délai, sur les services de communication publique en ligne du ministère de l'agriculture et de l'établissement où les postes sont à pourvoir ainsi que dans un journal local.

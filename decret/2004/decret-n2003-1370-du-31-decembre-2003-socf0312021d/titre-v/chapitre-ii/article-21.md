@@ -1,6 +1,6 @@
 # Article 21
 
-Les actions de formation organisées par l'ANPE ont notamment pour objet :
+Les actions de formation organisées par l'institution mentionnée à l'article L. 5312-1 du code du travail ont notamment pour objet :
 
 1° La formation à l'emploi des agents changeant de filière, qui est obligatoire ;
 

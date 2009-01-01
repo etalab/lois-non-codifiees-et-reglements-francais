@@ -70,7 +70,7 @@ Au titre des établissements publics
 
 Le directeur général de l'Agence nationale pour la rénovation urbaine, ou son représentant.
 
-Le directeur général de l'Agence nationale pour l'emploi, ou son représentant.
+Le directeur général de l'     institution mentionnée à l'article L. 5312-1 du code du travail , ou son représentant.
 
 Le directeur de l'agence centrale des organismes de sécurité sociale, ou son représentant.
 

@@ -8,7 +8,7 @@ Le ménage bénéficie, en cas de levée d'option, de la garantie de rachat de s
 
 -mobilité professionnelle impliquant un trajet de plus de 70 km entre le nouveau lieu de travail et le logement financé ;
 
--chômage d'une durée supérieure à un an attestée par l'inscription à l'Agence nationale pour l'emploi ;
+-chômage d'une durée supérieure à un an attestée par l'inscription à l'institution mentionnée à l'article L. 5312-1 du code du travail ;
 
 -invalidité reconnue soit par la carte d'invalidité prévue à l'article 173 du code de la famille et de l'aide sociale, soit par la décision de la commission technique d'orientation et de reclassement professionnel (COTOREP) ;
 

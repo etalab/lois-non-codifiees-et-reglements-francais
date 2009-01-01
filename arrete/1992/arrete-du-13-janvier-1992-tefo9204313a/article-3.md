@@ -20,7 +20,7 @@ Peuvent seuls être destinataires de ces informations, dans la limite de leurs a
 
 - le directeur de l'administration générale et de la modernisation des services ;
 
-- les responsables régionaux et départementaux de l'Agence nationale pour l'emploi ;
+- les responsables régionaux et départementaux de l'institution mentionnée à l'article L. 5312-1 du code du travail ;
 
 - les directeurs des associations pour l'emploi dans l'industrie et le commerce ;
 

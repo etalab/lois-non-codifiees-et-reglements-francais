@@ -4,7 +4,7 @@ Les emplois de directeur régional, directeur régional adjoint et de directeur 
 
 Quatre échelons fonctionnels sont créés dans le niveau V A qui ne sont accessibles qu'aux agents assurant les fonctions de directeur délégué et deux échelons fonctionnels sont créés dans le niveau V B qui ne sont accessibles qu'aux agents assurant les fonctions de directeur régional et de directeur régional adjoint.
 
-Les délégations départementales et les délégations régionales de l'ANPE sont classées en deux groupes, suivant l'importance et la complexité d'exercice des fonctions, par décision du directeur général visée du membre du corps du contrôle général économique et financier.
+Les délégations départementales et les délégations régionales de l'l'institution mentionnée à l'article L. 5312-1 du code du travail sont classées en deux groupes, suivant l'importance et la complexité d'exercice des fonctions, par décision du directeur général visée du membre du corps du contrôle général économique et financier.
 
 Les agents accédant aux échelons fonctionnels sont classés à l'échelon doté d'un indice immédiatement supérieur à celui détenu avec conservation de l'ancienneté d'échelon dans la limite de la durée à passer dans l'échelon fonctionnel.
 

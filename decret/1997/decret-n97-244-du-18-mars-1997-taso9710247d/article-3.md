@@ -4,4 +4,4 @@ Le délégué général à l'emploi et à la formation professionnelle prépare,
 
 Le délégué général exerce les attributions précédemment dévolues au délégué à l'emploi et au délégué à la formation professionnelle.
 
-Il exerce en outre les attributions dévolues au ministre chargé du travail en ce qui concerne l'Agence nationale pour l'emploi, le fonds de solidarité créé par l'article 1er de la loi du 4 novembre 1982 susvisée et l'association pour la formation professionnelle des adultes.
+Il exerce en outre les attributions dévolues au ministre chargé du travail en ce qui concerne l'     institution mentionnée à l'article L. 5312-1 du code du travail , le fonds de solidarité créé par l'article 1er de la loi du 4 novembre 1982 susvisée et l'association pour la formation professionnelle des adultes.

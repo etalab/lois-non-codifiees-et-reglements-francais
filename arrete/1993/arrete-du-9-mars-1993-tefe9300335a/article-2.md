@@ -10,7 +10,7 @@ Les informations traitées concernent les personnes physiques. Elles portent sur
 
 - le passé professionnel (dernier emploi occupé avant le chômage) ;
 
-- la date et le motif d'inscription à l'Agence nationale pour l'emploi ;
+- la date et le motif d'inscription à l'institution mentionnée à l'article L. 5312-1 du code du travail ;
 
 - la situation professionnelle actuelle ;
 

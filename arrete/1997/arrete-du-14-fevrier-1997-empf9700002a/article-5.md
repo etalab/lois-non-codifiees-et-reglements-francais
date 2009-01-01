@@ -10,7 +10,7 @@ Pour être inscrits sur la liste mentionnée à l'article 3, les centres d'infor
 
 - promouvoir, en liaison avec d'autres associations et collectivités publiques ou privées, l'information sur les droits des femmes dans les domaines mentionnés à l'article 1er ;
 
-- susciter et participer à la mise en oeuvre, en concertation avec les administrations et organismes concernés, notamment avec les déléguées régionales et les chargées de mission départementales aux droits des femmes, les directions régionales et départementales du travail, de l'emploi et de la formation professionnelle, l'Agence nationale pour l'emploi, des actions en faveur de l'emploi des femmes ;
+- susciter et participer à la mise en oeuvre, en concertation avec les administrations et organismes concernés, notamment avec les déléguées régionales et les chargées de mission départementales aux droits des femmes, les directions régionales et départementales du travail, de l'emploi et de la formation professionnelle, l'institution mentionnée à l'article L. 5312-1 du code du travail, des actions en faveur de l'emploi des femmes ;
 
 - proposer des actions d'information dans les domaines mentionnés à l'article 1er du présent arrêté, notamment par l'édition et la diffusion de brochures, après recensement des besoins correspondants ;
 

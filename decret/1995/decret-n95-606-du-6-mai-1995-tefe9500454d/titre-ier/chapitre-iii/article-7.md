@@ -2,7 +2,7 @@
 
 Le Comité consultatif paritaire national est compétent pour connaître des questions relatives :
 
-Aux problèmes généraux relatifs à l'exécution des missions de l'Agence nationale pour l'emploi, notamment aux programmes de modernisation des méthodes et techniques de travail, et à leur incidence sur la situation du personnel ;
+Aux problèmes généraux relatifs à l'exécution des missions de l'     institution mentionnée à l'article L. 5312-1 du code du travail , notamment aux programmes de modernisation des méthodes et techniques de travail, et à leur incidence sur la situation du personnel ;
 
 A l'organisation générale et au fonctionnement du service ;
 

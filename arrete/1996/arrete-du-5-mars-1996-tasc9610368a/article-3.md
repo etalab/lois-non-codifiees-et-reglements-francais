@@ -24,7 +24,7 @@ b) De membres de droit :
 
 - le directeur général de l'Association nationale pour la formation professionnelle des adultes ou son représentant ;
 
-- le directeur général de l'Agence nationale pour l'emploi ou son représentant ;
+- le directeur général de l'institution mentionnée à l'article L. 5312-1 du code du travail ou son représentant ;
 
 - le directeur de l'Agence nationale pour l'amélioration des conditions de travail ou son représentant ;
 

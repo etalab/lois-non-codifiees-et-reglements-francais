@@ -16,15 +16,15 @@ Les comités régionaux et départementaux de la formation professionnelle, de l
 
 Le comité de coordination des programmes régionaux d'apprentissage et de formation professionnelle continue ;
 
-Le bureau et l'assemblée générale de l'Association nationale pour la formation professionnelle des adultes (A.F.P.A.) ;
+Le bureau et l'assemblée générale de l'Association nationale pour la formation professionnelle des adultes (A. F. P. A.) ;
 
 Le comité supérieur de l'emploi et sa commission permanente ;
 
 Les commissions professionnelles consultatives placées auprès du ministre de la formation professionnelle ainsi que leurs sous-commissions et groupes de travail.
 
-Le conseil d'administration, les comités régionaux et les comités départementaux de l'agence nationale pour l'emploi ;
+Le conseil d'administration, les comités régionaux et les comités départementaux de l'institution mentionnée à l'article L. 5312-1 du code du travail ;
 
-La commission départementale chargée de donner son avis en cas de recours gracieux formé contre une décision d'exclusion du bénéfice des allocations aux travailleurs privés d'emploi (art.R. 351-10 du code du travail).
+La commission départementale chargée de donner son avis en cas de recours gracieux formé contre une décision d'exclusion du bénéfice des allocations aux travailleurs privés d'emploi (art. R. 351-10 du code du travail).
 
 Le conseil supérieur pour le reclassement professionnel et social des travailleurs handicapés ;
 
@@ -84,7 +84,7 @@ Le conseil supérieur de l'enseignement de la formation professionnelle et de pr
 
 Les conseils d'établissement d'enseignement agricole ;
 
-Les conseils de centre des centres de formation professionnelle et de promotion agricoles (C.F.P.P.A.) ;
+Les conseils de centre des centres de formation professionnelle et de promotion agricoles (C. F. P. P. A.) ;
 
 Le Haut Conseil des professions paramédicales. La commission nationale pour la formation à l'animation ;
 

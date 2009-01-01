@@ -2,7 +2,7 @@
 
 Les destinataires des données à caractère personnel enregistrées sont, en fonction de leurs attributions respectives et du besoin d'en connaître :
 
-- l'Agence nationale pour l'emploi ;
+- l'institution mentionnée à l'article L. 5312-1 du code du travail ;
 
 - l'agence locale pour l'emploi ;
 

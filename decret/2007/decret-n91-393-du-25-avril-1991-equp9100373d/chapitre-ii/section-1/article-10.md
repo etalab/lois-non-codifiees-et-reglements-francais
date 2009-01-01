@@ -1,6 +1,6 @@
 # Article 10
 
-I. - L'avis de recrutement indique :
+I.-L'avis de recrutement indique :
 
 1° Le nombre des postes à pourvoir ;
 
@@ -16,8 +16,8 @@ I. - L'avis de recrutement indique :
 
 7° Les modalités de déroulement de l'entretien prévu à l'article 11.
 
-II. - L'avis de recrutement est affiché, quinze jours au moins avant la date limite de dépôt des candidatures, dans les locaux du ou des services organisant le recrutement.
+II.-L'avis de recrutement est affiché, quinze jours au moins avant la date limite de dépôt des candidatures, dans les locaux du ou des services organisant le recrutement.
 
-Cet avis peut en outre être affiché dans les agences locales pour l'emploi de l'Agence nationale pour l'emploi situées dans le ou les départements concernés.
+Cet avis peut en outre être affiché dans les agences locales pour l'emploi de l'     institution mentionnée à l'article L. 5312-1 du code du travail  situées dans le ou les départements concernés.
 
-III. - L'avis de recrutement est en outre publié, dans le même délai, sur le service de communication publique en ligne relevant du ministre chargé de l'équipement et ceux du ou des services organisant le recrutement, ainsi que dans un journal local.
+III.-L'avis de recrutement est en outre publié, dans le même délai, sur le service de communication publique en ligne relevant du ministre chargé de l'équipement et ceux du ou des services organisant le recrutement, ainsi que dans un journal local.

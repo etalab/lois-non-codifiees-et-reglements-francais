@@ -8,4 +8,4 @@ Le renouvellement de la demande d'emploi peut également s'effectuer par tous mo
 
 Les dates limites de réception de ce renouvellement sont fixées chaque année par arrêté du ministre chargé de l'emploi.
 
-Ces obligations sont précisées dans le cadre de conventions passées entre l'Agence nationale pour l'emploi et l'Union pour l'emploi dans l'industrie et le commerce faisant l'objet d'une publication au Journal officiel de la République française.
+Ces obligations sont précisées dans le cadre de conventions passées entre l'institution mentionnée à l'article L. 5312-1 du code du travail et l'Union pour l'emploi dans l'industrie et le commerce faisant l'objet d'une publication au Journal officiel de la République française.

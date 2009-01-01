@@ -1,6 +1,6 @@
 # Article 28
 
-Par dérogation aux dispositions de l'article 43 du décret du 17 janvier 1986 susvisé, les sanctions disciplinaires susceptibles d'être appliquées aux agents de l'agence sont réparties en quatre groupes :
+Par dérogation aux dispositions de l'article 43 du décret du 17 janvier 1986 susvisé, les sanctions disciplinaires susceptibles d'être appliquées aux agents de l'institution sont réparties en quatre groupes :
 
 Premier groupe :
 

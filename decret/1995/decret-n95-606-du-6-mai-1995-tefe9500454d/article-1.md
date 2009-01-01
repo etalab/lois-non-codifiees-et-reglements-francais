@@ -1,6 +1,6 @@
 # Article 1
 
-Il est institué à l'Agence nationale pour l'emploi, dans les conditions définies par le présent décret :
+Il est institué à l'     institution mentionnée à l'article L. 5312-1 du code du travail , dans les conditions définies par le présent décret :
 
 a) Des comités consultatifs paritaires ;
 

@@ -6,7 +6,7 @@ Sont, pour l'inscription aux épreuves d'admission assimilés de plein droit à 
 
 - l'éducation d'un enfant au sens de la loi n° 80-490 du 1er juillet 1980 susvisée ;
 
-- l'inscription à l'agence nationale pour l'emploi en qualité de demandeur d'emploi ;
+- l'inscription à l'institution mentionnée à l'article L. 5312-1 du code du travail en qualité de demandeur d'emploi ;
 
 - la participation à un dispositif de formation professionnelle destiné aux jeunes à la recherche d'un emploi ou d'une qualification ;
 

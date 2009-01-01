@@ -32,7 +32,7 @@ Il comprend les membres suivants :
 
 14° Le directeur départemental du travail, de l'emploi et de la formation professionnelle de Guyane ;
 
-15° Le directeur départemental de l'Agence nationale pour l'emploi de Guyane ;
+15° Le directeur départemental de l'     institution mentionnée à l'article L. 5312-1 du code du travail  de Guyane ;
 
 16° Le trésorier-payeur général de Guyane ;
 

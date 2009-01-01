@@ -1,6 +1,6 @@
 # Article 19
 
-Les agents de l'ANPE ont droit, après service fait, à une rémunération mensuelle calculée en fonction de l'indice afférent à leur échelon de classement. La valeur du point d'indice est celle de la fonction publique et suit son évolution.
+Les agents de l'institution mentionnée à l'article L. 5312-1 du code du travail ont droit, après service fait, à une rémunération mensuelle calculée en fonction de l'indice afférent à leur échelon de classement. La valeur du point d'indice est celle de la fonction publique et suit son évolution.
 
 A cette rémunération s'ajoutent, le cas échéant, une indemnité de résidence et le supplément familial de traitement dans les conditions prévues pour les fonctionnaires de l'Etat, ainsi que des indemnités prévues par décret.
 

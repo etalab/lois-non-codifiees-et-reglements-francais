@@ -59,15 +59,6 @@
 </tr>
 <tr>
 <td>
-<p>Agence nationale pour l'emploi</p>
-</td>
-<td>
-<p>Directeur général</p>
-</td>
-<td/>
-</tr>
-<tr>
-<td>
 <p>Agence nationale pour l'indemnisation des Français d'outre mer</p>
 </td>
 <td>
@@ -513,6 +504,15 @@
 </td>
 <td>
 <p>Directeur</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Institution mentionnée à l'article L. 5312-1 du code du travail</p>
+</td>
+<td>
+<p>Directeur général</p>
 </td>
 <td/>
 </tr>

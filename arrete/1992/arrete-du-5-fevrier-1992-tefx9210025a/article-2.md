@@ -1,6 +1,6 @@
 # Article 2
 
-Les demandeurs d'emploi inscrits à l'Agence nationale pour l'emploi sont classés en 5 catégories, dont les définitions sont les suivantes :
+Les demandeurs d'emploi inscrits à l'institution mentionnée à l'article L. 5312-1 du code du travail sont classés en 5 catégories, dont les définitions sont les suivantes :
 
 Catégorie 1 : personnes sans emploi, immédiatement disponibles au sens de l'article R. 311-3-3, tenues d'accomplir des actes positifs de recherche d'emploi, à la recherche d'un emploi à durée indéterminée à plein temps ;
 

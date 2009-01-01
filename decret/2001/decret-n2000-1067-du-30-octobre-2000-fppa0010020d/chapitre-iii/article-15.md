@@ -4,6 +4,6 @@ Chaque session de concours fait l'objet d'un arrêté qui précise la date limit
 
 Les arrêtés d'ouverture des concours sont publiés au Journal officiel de la République française deux mois au moins avant la date limite du dépôt des dossiers de candidature.
 
-En outre, ils sont affichés dans les locaux du centre de gestion qui organise les concours, de la délégation régionale ou interdépartementale du Centre national de la fonction publique territoriale du ressort de l'autorité organisatrice, ainsi que, pour les concours externes, dans les locaux de l'Agence nationale pour l'emploi.
+En outre, ils sont affichés dans les locaux du centre de gestion qui organise les concours, de la délégation régionale ou interdépartementale du Centre national de la fonction publique territoriale du ressort de l'autorité organisatrice, ainsi que, pour les concours externes, dans les locaux de l'     institution mentionnée à l'article L. 5312-1 du code du travail .
 
 Le président du centre de gestion compétent assure cette publicité.

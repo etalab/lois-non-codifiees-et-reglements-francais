@@ -1,6 +1,6 @@
 # Article 24
 
-Les vacances de postes font l'objet d'une publication dans tous les services de l'ANPE. Ces postes peuvent être pourvus par mutation, par promotion interne ou par recrutement externe.
+Les vacances de postes font l'objet d'une publication dans tous les services de l'institution mentionnée à l'article L. 5312-1 du code du travail. Ces postes peuvent être pourvus par mutation, par promotion interne ou par recrutement externe.
 
 La mutation est constituée soit par un changement de résidence administrative, soit par un changement de filière dans un emploi de même niveau. Elle est ouverte aux agents mentionnés à l'article 1er.
 

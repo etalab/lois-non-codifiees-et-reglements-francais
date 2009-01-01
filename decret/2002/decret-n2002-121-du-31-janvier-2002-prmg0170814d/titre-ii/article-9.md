@@ -2,7 +2,7 @@
 
 Les recrutements organisés en application du présent titre font l'objet d'une publicité préalable qui répond aux conditions suivantes :
 
-1° Les avis de recrutement précisent le nombre des postes à pourvoir ainsi que la date limite de dépôt des candidatures et sont affichés, un mois au moins avant cette date, dans les locaux du ministère, de l'établissement public, du service organisateur ou de la préfecture du ou des départements concernés ; ils peuvent également être affichés dans les agences locales pour l'emploi de l'Agence nationale pour l'emploi situées dans le ou les départements concernés ; ces avis mentionnent que seuls seront convoqués à l'entretien prévu à l'article 11 les candidats préalablement retenus par la commission mentionnée au même article.
+1° Les avis de recrutement précisent le nombre des postes à pourvoir ainsi que la date limite de dépôt des candidatures et sont affichés, un mois au moins avant cette date, dans les locaux du ministère, de l'établissement public, du service organisateur ou de la préfecture du ou des départements concernés ; ils peuvent également être affichés dans les agences locales pour l'emploi de l'     institution mentionnée à l'article L. 5312-1 du code du travail  situées dans le ou les départements concernés ; ces avis mentionnent que seuls seront convoqués à l'entretien prévu à l'article 11 les candidats préalablement retenus par la commission mentionnée au même article.
 
 2° Ils sont publiés :
 

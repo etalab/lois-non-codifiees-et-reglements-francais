@@ -12,7 +12,7 @@ Le médecin inspecteur du travail et de la main-d'oeuvre de la circonscription o
 
 Le directeur régional des affaires sanitaires et sociales ou son représentant ;
 
-Le chef du centre régional de l'Agence nationale pour l'emploi ou son représentant ;
+Le chef du centre régional de l'institution mentionnée à l'article L. 5312-1 du code du travail ou son représentant ;
 
 Le directeur régional du travail et de la protection sociale agricoles.
 
@@ -26,9 +26,9 @@ c) Au titre des techniciens spécialisés des questions de reclassement des trav
 
 Un médecin du travail désigné sur proposition du directeur régional du travail et de l'emploi, après avis du médecin inspecteur du travail et de la main-d'oeuvre ;
 
-Un psychotechnicien des services de sélection de l'Association nationale pour la formation professionnelle des adultes (A.F.P.A.) [*AFPA*], sur proposition du délégué régional de L'A.F.P.A. ;
+Un psychotechnicien des services de sélection de l'Association nationale pour la formation professionnelle des adultes (A.F.P.A.) sur proposition du délégué régional de L'A.F.P.A. ;
 
-Un prospecteur placier spécialisé de l'A.N.P.E. ou d'une équipe de préparation et de suite, sur proposition du chef de centre régional de l'A.N.P.E..
+Un prospecteur placier spécialisé de l'institution mentionnée à l'article L. 5312-1 du code du travail ou d'une équipe de préparation et de suite, sur proposition du chef de centre régional de l'institution mentionnée à l'article L. 5312-1 du code du travail.
 
 d) Au titre des organisations d'employeurs et de travailleurs :
 

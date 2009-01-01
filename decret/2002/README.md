@@ -85,6 +85,7 @@
 - [Décret n°2002-90 du 16 janvier 2002 (MCCB0200030D)](decret-n2002-90-du-16-janvier-2002-mccb0200030d)
 - [Décret n°2002-566 du 17 avril 2002 (EQUT0200508D)](decret-n2002-566-du-17-avril-2002-equt0200508d)
 - [Décret n°2002-78 du 17 janvier 2002 (INTC0100358D)](decret-n2002-78-du-17-janvier-2002-intc0100358d)
+- [Décret n°2002-82 du 17 janvier 2002 (MESF0111613D)](decret-n2002-82-du-17-janvier-2002-mesf0111613d)
 - [Décret n°65-1117 du 17 décembre 1965](decret-n65-1117-du-17-decembre-1965)
 - [Décret n°2002-1273 du 18 octobre 2002 (AGRP0202063D)](decret-n2002-1273-du-18-octobre-2002-agrp0202063d)
 - [Décret n°2002-1358 du 18 novembre 2002 (SANH0223509D)](decret-n2002-1358-du-18-novembre-2002-sanh0223509d)

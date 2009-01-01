@@ -12,7 +12,7 @@ Un représentant du ministre concerné en raison de la branche d'activité dont 
 
 Un représentant du centre d'études et de recherches sur les qualifications ;
 
-Un représentant de l'Agence nationale pour l'emploi.
+Un représentant de l'institution mentionnée à l'article L. 5312-1 du code du travail ;
 
 2. Cinq à neuf représentants des employeurs proposés par les organisations professionnelles patronales ;
 

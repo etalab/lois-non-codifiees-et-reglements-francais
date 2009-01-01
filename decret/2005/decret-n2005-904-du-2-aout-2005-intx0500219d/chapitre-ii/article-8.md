@@ -1,6 +1,6 @@
 # Article 8
 
-L'examen des candidatures transmises par les services de l'Agence nationale pour l'emploi est confié à une commission de sélection dont le président et les membres sont nommés par l'autorité responsable des opérations préalables au recrutement mentionnée au dernier alinéa de l'article 2.
+L'examen des candidatures transmises par les services de l'     institution mentionnée à l'article L. 5312-1 du code du travail  est confié à une commission de sélection dont le président et les membres sont nommés par l'autorité responsable des opérations préalables au recrutement mentionnée au dernier alinéa de l'article 2.
 
 Cette commission est composée d'au moins trois membres. Elle comporte un membre désigné parmi les personnels des organismes publics concourant au service public de l'emploi, un représentant de la ou des collectivités ou du ou des établissements publics dans lesquels des postes sont à pourvoir, ainsi qu'une personnalité compétente extérieure à ces collectivités ou établissements publics, qui en assure la présidence.
 

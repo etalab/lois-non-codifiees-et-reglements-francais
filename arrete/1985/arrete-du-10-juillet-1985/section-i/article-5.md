@@ -10,7 +10,7 @@ Le chef de la mission centrale d'appui et de coordination des services déconcen
 
 Le chef de l'inspection générale des affaires sociales ou son représentant ;
 
-Le directeur général de l'Agence nationale pour l'emploi, le directeur de l'Association nationale pour la formation professionnelle des adultes ;
+Le directeur général de l'institution mentionnée à l'article L. 5312 du code du travail, le directeur de l'Association nationale pour la formation professionnelle des adultes ;
 
 Un représentant de chacune des organisations syndicales les plus représentatives dans les services concernés ;
 

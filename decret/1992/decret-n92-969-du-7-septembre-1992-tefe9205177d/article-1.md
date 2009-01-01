@@ -8,4 +8,4 @@ a) Pour le compte du régime d'assurance chômage afin de vérifier les droits d
 
 b) Pour le compte de l'Etat afin de vérifier les droits des intéressés aux allocations mentionnées à l'article L. 351-2 (2°) du code du travail et de procéder au contrôle de la recherche d'emploi, y compris la détection des situations de fraude ;
 
-c) Pour le compte de l'Agence nationale pour l'emploi pour assurer la gestion de la liste des demandeurs d'emploi mentionnée à l'article L. 311-5 du code du travail.
+c) Pour le compte de l'     institution mentionnée à l'article L. 5312-1 du code du travail  pour assurer la gestion de la liste des demandeurs d'emploi mentionnée à l'article L. 311-5 du code du travail.
