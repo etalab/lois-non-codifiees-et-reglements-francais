@@ -75,6 +75,7 @@
 - [Décret n°2005-1441 du 22 novembre 2005 (DEFP0501442D)](decret-n2005-1441-du-22-novembre-2005-defp0501442d)
 - [Décret n°2004-1419 du 23 décembre 2004 (SANS0424266D)](decret-n2004-1419-du-23-decembre-2004-sans0424266d)
 - [Décret n°2002-670 du 24 avril 2002 (DEFP0201414D)](decret-n2002-670-du-24-avril-2002-defp0201414d)
+- [Décret n°2005-1023 du 24 août 2005 (SANS0522239D)](decret-n2005-1023-du-24-aout-2005-sans0522239d)
 - [Décret n°2005-1070 du 24 août 2005 (EQUA0500692D)](decret-n2005-1070-du-24-aout-2005-equa0500692d)
 - [Décret n°2005-701 du 24 juin 2005 (EQUX0500011D)](decret-n2005-701-du-24-juin-2005-equx0500011d)
 - [Décret n°2005-703 du 24 juin 2005 (MCCX0500075D)](decret-n2005-703-du-24-juin-2005-mccx0500075d)
