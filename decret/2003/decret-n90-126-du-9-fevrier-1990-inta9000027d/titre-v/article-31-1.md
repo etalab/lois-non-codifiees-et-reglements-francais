@@ -1,6 +1,6 @@
 # Article 31-1
 
-Pour l'intégration et l'avancement dans le grade d'ingénieur territorial des ingénieurs des travaux publics de l'Etat, en application des dispositions de l'article 109 de la loi n° 2004-809 du 13 août 2004 relative aux libertés et responsabilités locales, sont créés les échelons provisoires suivants :
+Pour l'intégration et l'avancement dans le grade d'ingénieur territorial des       ingénieurs des travaux publics de l'Etat et des ingénieurs de l'agriculture et de l'environnement, en application des dispositions de l'article 109 de la loi n° 2004-809 du 13 août 2004 relative aux libertés et responsabilités locales, sont créés les échelons provisoires suivants :
 
 <table>
 <tbody>
