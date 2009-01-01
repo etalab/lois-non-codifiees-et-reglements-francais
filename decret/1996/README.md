@@ -739,7 +739,6 @@
 - [Décret n°96-72 du 29 janvier 1996 (TASS9523381D)](decret-n96-72-du-29-janvier-1996-tass9523381d)
 - [Décret n°96-760 du 29 août 1996 (FPPA9610021D)](decret-n96-760-du-29-aout-1996-fppa9610021d)
 - [Décret n°96-765 du 29 août 1996 (INDG9600537D)](decret-n96-765-du-29-aout-1996-indg9600537d)
-- [Décret n°96-766 du 29 août 1996 (AGRA9601514D)](decret-n96-766-du-29-aout-1996-agra9601514d)
 - [Décret n°96-84 du 29 janvier 1996 (MENF9502896D)](decret-n96-84-du-29-janvier-1996-menf9502896d)
 - [Décret n°96-949 du 29 octobre 1996 (EQUI9601296D)](decret-n96-949-du-29-octobre-1996-equi9601296d)
 - [Décret n°96-961 du 29 octobre 1996 (TASH9623076D)](decret-n96-961-du-29-octobre-1996-tash9623076d)
