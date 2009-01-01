@@ -48,4 +48,8 @@ Artois ;
 
 Montpellier-II ;
 
-Nancy-I.
+Nancy-I ;
+
+Strasbourg ;
+
+Corse.
