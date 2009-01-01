@@ -1,3 +1,3 @@
 # Article 3
 
-Les dispositions des articles 10 et 34 du code des marchés publics sont applicables à l'établissement public dénommé "Union des groupements d'achats publics".
+Les actes de l'établissement public pris pour son organisation sont publiés au recueil des actes administratifs des services de l'Etat en Seine-et-Marne, et sur le site internet de l'établissement.

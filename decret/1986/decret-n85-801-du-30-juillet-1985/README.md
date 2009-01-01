@@ -7,6 +7,5 @@
 - [Article 3](article-3.md)
 - [Titre III : Dispositions relatives au régime financier et comptable et au contrôle économique et financier de l'Etat.](titre-iii)
 - [Titre IV : Dispositions relatives aux marchés.](titre-iv)
-- [Titre V : Dispositions relatives au personnel.](titre-v)
 - [Titre VI : Dispositions diverses.](titre-vi)
 - [Article 31](article-31.md)

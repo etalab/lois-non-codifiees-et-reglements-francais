@@ -1,3 +1,3 @@
 # Article 13
 
-Les conditions et modalités de versement d'avances à l'établissement par les personnes publiques et privées visées à l'article 1er sont définies par un arrêté du ministre chargé de l'économie, des finances et du budget.
+Des avances peuvent être versées à l'établissement par les personnes publiques et privées mentionnées à l'article 1er, sans limitation de montant. Les conditions et modalités de ces avances sont fixées en tant que de besoin par la convention prévue à l'article 25 ci-dessous.

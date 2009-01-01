@@ -1,21 +1,7 @@
 # Article 12
 
-Il est créé un comité technique qui peut être consulté par le conseil d'administration et par le président sur les questions ayant trait à l'analyse et à la prévision des marchés et à l'information technique relative aux produits et matériels.
+Le conseil d'administration peut créer les commissions qu'il estime nécessaires au bon accomplissement de ses missions. Il définit leur composition et, le cas échéant, les pouvoirs de décision qui leur sont délégués ainsi que les conditions dans lesquelles il lui est rendu compte des décisions prises.
 
-Ce comité est composé des membres suivants :
+Ces commissions sont présidées par le président du conseil d'administration ou par un administrateur élu par le conseil d'administration.
 
-Un représentant du ministre chargé de la défense ;
-
-Un représentant du ministre chargé de l'intérieur et de la décentralisation ;
-
-Un représentant du ministre chargé de l'industrie ;
-
-Un représentant du ministre chargé de l'éducation nationale ;
-
-Un représentant du ministre chargé des postes et télécommunications ;
-
-Un représentant du ministre chargé des transports ;
-
-Un représentant du ministre chargé de la santé ;
-
-Quatre personnalités qualifiées choisies par le conseil d'administration sur proposition du président.
+Le président d'une commission peut inviter à une séance toute personne dont la présence lui paraît utile.
