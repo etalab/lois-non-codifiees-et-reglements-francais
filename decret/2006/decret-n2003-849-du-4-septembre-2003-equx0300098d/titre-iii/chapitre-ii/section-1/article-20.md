@@ -4,7 +4,7 @@ I. - Lorsqu'une convention ou un accord collectif étendu ou une convention ou u
 
 Le nombre maximum de journées de travail de ces personnels est fixé à deux cent dix-sept jours par année civile complète de travail.
 
-Un état de présence totalisant le nombre de jours et de demi-journées travaillés est établi pour chaque salarié au forfait annuel. Les documents permettant de vérifier le nombre de jours travaillés sont archivés et tenus à la disposition de l'inspecteur du travail des transports pendant trois ans.
+Un état de présence totalisant le nombre de jours et de demi-journées travaillés est établi pour chaque salarié au forfait annuel. Les documents permettant de vérifier le nombre de jours travaillés sont archivés et tenus à la disposition de l'inspecteur du travail pendant trois ans.
 
 II. - Tout dépassement du plafond annuel fixé par l'accord fera l'objet de récupérations au plus tard avant la fin du premier trimestre de l'année suivante. Ces jours seront comptabilisés comme du temps de travail effectif sur le plafond annuel de cette même année.
 

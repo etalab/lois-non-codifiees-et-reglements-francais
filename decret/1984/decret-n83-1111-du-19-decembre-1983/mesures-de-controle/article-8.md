@@ -2,15 +2,13 @@
 
 1° Personnel visé à l'article 2.
 
-Dans tous les établissements soumis aux dispositions du présent décret, y compris ceux qui bénéficient de l'autorisation de déroger à l'horaire collectif dans les conditions prévues par l'article
-
-L. 212-4-1 du code du travail, un horaire de travail doit être affiché de manière à assurer l'information immédiate et permanente des salariés concernés ainsi que celle de l'autorité chargée du contrôle. L'horaire doit être maintenu en bon état de lisibilité.
+Dans tous les établissements soumis aux dispositions du présent décret, y compris ceux qui bénéficient de l'autorisation de déroger à l'horaire collectif dans les conditions prévues par l'article L. 212-4-1 du code du travail, un horaire de travail doit être affiché de manière à assurer l'information immédiate et permanente des salariés concernés ainsi que celle de l'autorité chargée du contrôle.L'horaire doit être maintenu en bon état de lisibilité.
 
 Cet horaire est daté et signé par le chef d'établissement ou sous sa responsabilité par le personnel qu'il a désigné à cet effet.
 
 Les rectificatifs qui doivent être établis en cas de recours à des heures supplémentaires doivent être également datés, signés et affichés.
 
-Un double de l'horaire et des modifications doit être adressé à l'inspecteur du travail des transports avant sa mise en service ou avant l'entrée en vigueur de toute modification.
+Un double de l'horaire et des modifications doit être adressé à l'inspecteur du travail avant sa mise en service ou avant l'entrée en vigueur de toute modification.
 
 Les salariés ne peuvent être occupés, réserve faite pour le cas d'horaires individualisés institués selon l'article L. 212-4-1 susvisé, que conformément aux indications d'un horaire qui mentionne, pour chaque journée, les heures de début et de fin de travail ainsi que celle des repos et l'indicateur de paiement et de non-paiement de ces heures de repos. Il précise éventuellement le régime particulier auquel sont soumises certaines catégories de travailleurs et mentionne en outre, s'il y a lieu, la base juridique des heures supplémentaires ou des heures de récupération qu'il comporte.
 
@@ -22,7 +20,7 @@ La durée du temps de travail est enregistrée, attestée et contrôlée au moye
 
 Un récapitulatif hebdomadaire et mensuel des feuillets quotidiens du livret de contrôle est établi par l'employeur ou sous sa responsabilité par le personnel qu'il a désigné à cet effet.
 
-Pour le personnel relevant du paragraphe 1 du I de l'article  3, le livret de contrôle peut être remplacé par un journal de bord.
+Pour le personnel relevant du paragraphe 1 du I de l'article 3, le livret de contrôle peut être remplacé par un journal de bord.
 
 Les modèles du livret de contrôle et du journal de bord sont fixés par un arrêté du ministre chargé des transports. Les données relevées dans les livrets de contrôle et les journaux de bord peuvent être enregistrées au moyen de procédés informatiques sécurisés.
 

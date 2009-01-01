@@ -6,4 +6,4 @@ Ces observations et réclamations doivent être portées sur le registre avant l
 
 Sous le bénéfice des dispositions qui précèdent, les agents ne peuvent en aucun cas invoquer la prolongation de la durée de leur service pour abandonner leurs poste ou refuser le service qui leur est commandé.
 
-Les dérogations occasionnées par des incidents imprévus font l'objet d'un compte rendu mensuel adressé par l'établissement à l'inspecteur du travail des transports compétent.
+Les dérogations occasionnées par des incidents imprévus font l'objet d'un compte rendu mensuel adressé par l'établissement à l'inspecteur du travail compétent.

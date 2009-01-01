@@ -1,12 +1,12 @@
 # Article 3
 
-I. - Dispositions applicables au personnel navigant des entreprises de transport de fret.
+I.-Dispositions applicables au personnel navigant des entreprises de transport de fret.
 
 Deux régimes de travail sont applicables en fonction de l'organisation spécifique des entreprises :
 
-- le régime de flotte exploitée en relèves applicable aux membres d'équipages travaillant sur des bateaux exploités selon des systèmes de relèves dont les cycles alternent des durées de présence à bord suivies de durées de repos à terre ;
+-le régime de flotte exploitée en relèves applicable aux membres d'équipages travaillant sur des bateaux exploités selon des systèmes de relèves dont les cycles alternent des durées de présence à bord suivies de durées de repos à terre ;
 
-- le régime de flotte classique applicable aux membres d'équipages qui ne sont pas soumis à une organisation du travail par cycles, qu'ils soient ou non logés à bord du bateau sur lequel ils travaillent.
+-le régime de flotte classique applicable aux membres d'équipages qui ne sont pas soumis à une organisation du travail par cycles, qu'ils soient ou non logés à bord du bateau sur lequel ils travaillent.
 
 Paragraphe 1
 
@@ -46,7 +46,7 @@ En outre, la durée maximale hebdomadaire moyenne de présence ne peut être sup
 
 Toutefois, une convention ou un accord collectif étendu peut prévoir la possibilité pour un salarié de dépasser cette durée maximale hebdomadaire moyenne de présence de quarante-huit heures sur une période de référence de six mois, dans le respect des durées maximales prévues aux troisième et quatrième alinéas du présent paragraphe 2, à condition qu'il ait donné son accord écrit. La mise en place d'une telle organisation du travail ne peut être effectuée qu'après consultation du comité d'entreprise ou, à défaut, des délégués du personnel, s'ils existent. Chaque salarié auquel ce dépassement est proposé doit être informé qu'il n'est pas tenu de donner son accord et qu'il ne peut subir aucun préjudice s'il le refuse.
 
-La répartition de la durée de présence hebdomadaire sur un nombre de jours inférieur à cinq ne peut être effectuée qu'avec l'accord du comité d'entreprise ou, à défaut, des délégués du personnel, s'ils existent. Dans les entreprises qui ne sont pas légalement dotées d'une représentation du personnel, cette répartition pourra être autorisée par l'inspecteur du travail des transports après enquête auprès des salariés.
+La répartition de la durée de présence hebdomadaire sur un nombre de jours inférieur à cinq ne peut être effectuée qu'avec l'accord du comité d'entreprise ou, à défaut, des délégués du personnel, s'ils existent. Dans les entreprises qui ne sont pas légalement dotées d'une représentation du personnel, cette répartition pourra être autorisée par l'inspecteur du travail après enquête auprès des salariés.
 
 Sauf dans les cas prévus à l'article 7 du présent décret, l'adoption d'une répartition de la durée de présence hebdomadaire sur un nombre de jours inférieur à cinq exclut toute dérogation à la durée maximale de présence journalière.
 
@@ -54,17 +54,17 @@ Chaque salarié bénéficie de repos journaliers et hebdomadaires selon les disp
 
 Tout salarié dont le temps de travail pendant la journée d'embarquement est supérieur à six heures bénéficie d'une pause dans les conditions prévues à l'article L. 220-2 du code du travail ou, à défaut, d'une période équivalente de repos compensateur dans les conditions prévues à l'article L. 220-3 du code du travail.
 
-II. - Dispositions applicables au personnel navigant des entreprises de transport de passagers.
+II.-Dispositions applicables au personnel navigant des entreprises de transport de passagers.
 
 Quatre régimes de travail sont applicables :
 
-- le régime d'exploitation diurne, dans lequel la navigation du bateau est limitée à seize heures par jour ;
+-le régime d'exploitation diurne, dans lequel la navigation du bateau est limitée à seize heures par jour ;
 
-- le régime d'exploitation diurne prolongée, dans lequel la navigation du bateau est limitée à dix-huit heures par jour ;
+-le régime d'exploitation diurne prolongée, dans lequel la navigation du bateau est limitée à dix-huit heures par jour ;
 
-- le régime d'exploitation semi-continue, dans lequel la navigation du bateau est limitée à vingt heures par jour ;
+-le régime d'exploitation semi-continue, dans lequel la navigation du bateau est limitée à vingt heures par jour ;
 
-- le régime d'exploitation continue.
+-le régime d'exploitation continue.
 
 Les dispositions ci-après sont applicables à tous les salariés quel que soit le régime d'exploitation mis en oeuvre par l'entreprise (exploitation diurne, exploitation diurne prolongée, exploitation semi-continue, exploitation continue).
 
@@ -78,6 +78,6 @@ Chaque salarié doit disposer d'un repos journalier d'au moins huit heures dont 
 
 La durée maximale hebdomadaire moyenne de travail calculée sur une période de trois mois, ou de quatre mois par convention ou accord collectif étendu ou par convention ou accord d'entreprise ou d'établissement, est de quarante-six heures, sans pouvoir dépasser quarante-huit heures sur une semaine isolée.
 
-La répartition de cette durée de travail sur un nombre de jours inférieur à cinq ne peut être effectuée qu'avec l'accord du comité d'entreprise ou, à défaut, des délégués du personnel, s'ils existent. Dans les entreprises qui ne sont pas légalement dotées d'une représentation du personnel, cette répartition pourra être autorisée par l'inspecteur du travail des transports après enquête auprès des salariés.
+La répartition de cette durée de travail sur un nombre de jours inférieur à cinq ne peut être effectuée qu'avec l'accord du comité d'entreprise ou, à défaut, des délégués du personnel, s'ils existent. Dans les entreprises qui ne sont pas légalement dotées d'une représentation du personnel, cette répartition pourra être autorisée par l'inspecteur du travail après enquête auprès des salariés.
 
 Sauf dans les cas prévus à l'article 7 du présent décret, l'adoption d'une répartition de la durée légale hebdomadaire du travail sur un nombre de jours inférieur à cinq exclut toute dérogation à la limitation de la durée quotidienne de travail prévue par le deuxième alinéa dudit article L. 212-1.

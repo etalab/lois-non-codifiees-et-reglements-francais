@@ -10,4 +10,4 @@ Cette faculté de prolongation est illimitée pendant un jour. Elle est limitée
 
 Les heures ainsi accomplies sont rémunérées comme des heures supplémentaires. Elles ouvrent droit, s'il y a lieu, au repos compensateur dans les conditions prévues par le premier alinéa de l'article L. 212-5-1 du code du travail. Elle ne sont pas imputées sur le contingent déterminé selon les dispositions de l'article L. 212-6 dudit code.
 
-Le chef d'entreprise qui veut faire usage des dérogations prévues au présent article doit en informer immédiatement l'inspecteur du travail des transports.
+Le chef d'entreprise qui veut faire usage des dérogations prévues au présent article doit en informer immédiatement l'inspecteur du travail.
