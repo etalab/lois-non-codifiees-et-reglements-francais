@@ -2,4 +2,4 @@
 
 Les professeurs de l'enseignement maritime sont, jusqu'au grade de professeur en chef de 1re classe inclus, répartis en diverses branches.
 
-Les ministres de la défense et de la marine marchande déterminent par arrêté les différentes branches et fixent leurs attributions.
+Le ministre de la défense et le ministre chargé de la mer déterminent par arrêté conjoint les différentes branches et fixent leurs attributions.

@@ -1,3 +1,3 @@
 # Article 23
 
-Par dérogation aux dispositions des articles 5 à 8, le recrutement effectué au cours de l'année 1976 est organisé sur le fondement de la réglementation en vigueur au 31 décembre 1975.
+Lorsque la mise en œuvre des articles 21 et 22, dans leur rédaction en vigueur au 1er janvier 2009, place le professeur de l'enseignement maritime dans un échelon comportant un indice inférieur à celui qu'il détenait précédemment, il conserve son ancien indice jusqu'à ce qu'il remplisse les conditions statutaires lui permettant d'atteindre un échelon comportant un indice supérieur.
