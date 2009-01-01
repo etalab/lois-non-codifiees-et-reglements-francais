@@ -16,6 +16,8 @@ BAP F :information : documentation, culture, communication, édition, technologi
 
 BAP G : patrimoine, logistique, prévention et restauration ;
 
-BAP H : gestion scientifique et technique des établissements publics scientifiques et technologiques ;
+BAP H : (abrogé) ;
 
-BAP I : gestion scientifique et technique des établissements publics à caractère scientifique, culturel et professionnel.
+BAP I : (abrogé) ;
+
+BAP J : gestion et pilotage.
