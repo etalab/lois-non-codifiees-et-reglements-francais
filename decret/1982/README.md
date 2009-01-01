@@ -69,7 +69,6 @@
 - [Décret n°81-859 du 15 septembre 1981](decret-n81-859-du-15-septembre-1981)
 - [Décret n°81-860 du 15 septembre 1981](decret-n81-860-du-15-septembre-1981)
 - [Décret n°82-1063 du 15 décembre 1982](decret-n82-1063-du-15-decembre-1982)
-- [Décret n°82-1067 du 15 décembre 1982](decret-n82-1067-du-15-decembre-1982)
 - [Décret n°82-1068 du 15 décembre 1982](decret-n82-1068-du-15-decembre-1982)
 - [Décret n°82-1069 du 15 décembre 1982](decret-n82-1069-du-15-decembre-1982)
 - [Décret n°82-1073 du 15 décembre 1982](decret-n82-1073-du-15-decembre-1982)
