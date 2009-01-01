@@ -47,7 +47,6 @@
 - [Décret n°76-87 du 21 janvier 1976](decret-n76-87-du-21-janvier-1976)
 - [Décret n°76-966 du 21 octobre 1976](decret-n76-966-du-21-octobre-1976)
 - [Décret n°76-972 du 21 octobre 1976](decret-n76-972-du-21-octobre-1976)
-- [Décret n°75-1207 du 22 décembre 1975](decret-n75-1207-du-22-decembre-1975)
 - [Décret n°76-1062 du 22 novembre 1976](decret-n76-1062-du-22-novembre-1976)
 - [Décret n°76-721 du 23 juillet 1976](decret-n76-721-du-23-juillet-1976)
 - [Décret du 24 août 1976](decret-du-24-aout-1976)
