@@ -624,7 +624,7 @@ Tout avion atterrissant ou décollant sur une altisurface doit contenir le maté
 
 L'emport d'une balise de détresse (ELT ou PLB) est obligatoire dans les conditions prévues aux paragraphes 2.11.2 et suivants, pour tout avion et tout hélicoptère, à l'exception des CNRA, CDNR, CNRAC, CNSK et ULM, des aéronefs évoluant dans la circulation d'aérodrome, ainsi que des aéronefs utilisés pour la voltige aérienne lors des trajets entre un aérodrome et un axe de voltige porté à la connaissance des usagers aériens par la voie de l'information aéronautique et situé à moins de 25 NM de l'aérodrome, en vue d'y pratiquer la voltige aérienne, et lors des évolutions de voltige sur cet axe.
 
-2.11.2. Avions et hélicoptères autres que ceux visés au 2.11.3
+2.11.2. Avions et hélicoptères autres que ceux visés au 2.11.3.
 
 2.11.2.1.
 
