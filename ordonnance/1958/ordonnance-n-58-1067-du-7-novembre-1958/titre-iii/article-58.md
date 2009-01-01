@@ -1,5 +1,3 @@
 # Article 58
 
-Cette commission examinera [*attribution*] les contestations concernant l'élection des sénateurs élus le 8 juin 1958 ainsi que des sénateurs élus depuis cette date qui lui seront transmises par le bureau du Sénat dans le délai de dix jours suivant la publication de la présente ordonnance. Elle statuera sur lesdites contestations d'après la législation en vigueur à la date de l'élection et dans les conditions prévues par le présente texte.
-
-La commission instituera elle-même son secrétariat et pourra faire appel à des rapporteurs choisis dans les grands corps de l'Etat.
+Les articles L. 211-3, L. 212-1, L. 212-2, L. 212-3, L. 212-4, L. 213-3, L. 214-1, L. 214-3, L. 214-4, L. 214-5, L. 214-9 et L. 214-10 du code du patrimoine s'appliquent aux archives qui procèdent de l'activité du Conseil constitutionnel. Ces archives peuvent être librement consultées à l'expiration du délai fixé au 1° du I de l'article L. 213-2 du même code.
