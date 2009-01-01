@@ -343,7 +343,6 @@
 - [Décret n°2004-1124 du 14 octobre 2004 (SANS0423245D)](decret-n2004-1124-du-14-octobre-2004-sans0423245d)
 - [Décret n°2004-1365 du 14 décembre 2004 (DOMC0400044D)](decret-n2004-1365-du-14-decembre-2004-domc0400044d)
 - [Décret n°2004-327 du 14 avril 2004 (DOMA0400013D)](decret-n2004-327-du-14-avril-2004-doma0400013d)
-- [Décret n°2004-534 du 14 juin 2004 (DEFP0400525D)](decret-n2004-534-du-14-juin-2004-defp0400525d)
 - [Décret n°2004-535 du 14 juin 2004 (DEFP0400526D)](decret-n2004-535-du-14-juin-2004-defp0400526d)
 - [Décret n°2004-536 du 14 juin 2004 (DEFP0400527D)](decret-n2004-536-du-14-juin-2004-defp0400527d)
 - [Décret n°2004-537 du 14 juin 2004 (DEFP0400528D)](decret-n2004-537-du-14-juin-2004-defp0400528d)
