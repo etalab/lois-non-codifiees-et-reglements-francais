@@ -6,13 +6,13 @@ II. - Paragraphe modificateur
 
 B. - Dans tous les textes législatifs, notamment dans l'article L. 162-2 du code monétaire et financier et dans les articles 9 et 13 du code des instruments monétaires et des médailles, les références à l'administration des Monnaies et médailles sont remplacées par des références à la Monnaie de Paris.
 
-III. - L'ensemble des biens et droits à caractère mobilier et immobilier du domaine public ou privé de l'Etat attachés aux missions des services relevant du budget annexe des Monnaies et médailles est, à l'exception de l'hôtel des Monnaies sis au 11, quai de Conti, à Paris, transféré de plein droit et en pleine propriété à l'établissement public La Monnaie de Paris, à compter du 1er janvier 2007. Tous les biens transférés relèvent du domaine privé de l'établissement public, à l'exception des collections historiques qui sont incorporées à cette même date dans le domaine public de l'établissement.
+III. - L'ensemble des biens et droits à caractère mobilier et immobilier du domaine public ou privé de l'Etat attachés aux missions des services relevant du budget annexe des Monnaies et médailles est, à l'exception des biens  situés à Paris, transféré de plein droit et en pleine propriété à l'établissement public La Monnaie de Paris, à compter du 1er janvier 2007. Tous les biens transférés relèvent du domaine privé de l'établissement public, à l'exception des collections historiques qui sont incorporées à cette même date dans le domaine public de l'établissement.
 
 L'ensemble des droits, obligations, contrats, conventions et autorisations de toute nature attachés aux missions des services relevant du budget annexe des Monnaies et médailles sont transférés de plein droit et sans formalité à l'établissement.
 
 Les transferts mentionnés aux deux alinéas précédents n'ont aucune incidence sur ces biens, droits, obligations, contrats, conventions et autorisations et n'entraînent pas leur résiliation. Ils sont réalisés à titre gratuit et ne donnent lieu au paiement d'aucun impôt, droit, taxe, indemnité, rémunération, salaire ou honoraires au profit de l'Etat, de ses agents ou de toute autre personne publique.
 
-L'hôtel des Monnaies est mis gratuitement à la disposition de l'établissement public La Monnaie de Paris à titre de dotation. L'établissement est substitué à l'Etat pour la gestion et l'entretien dudit immeuble. Il supporte également le coût des travaux d'aménagement et des grosses réparations afférents à cet immeuble.
+L'hôtel des Monnaies, cadastré  sections 06-01-AB-N° 49 et 06-01-AB-N° 52,  est mis gratuitement à la disposition de l'établissement public La Monnaie de Paris à titre de dotation. L'établissement est substitué à l'Etat pour la gestion et l'entretien dudit immeuble. Il supporte également le coût des travaux d'aménagement et des grosses réparations afférents à cet immeuble.
 
 IV. - A. - Les personnels en fonction au 31 décembre 2006 dans les services relevant du budget annexe des Monnaies et médailles sont placés de plein droit, à la date de création de l'établissement public La Monnaie de Paris, sous l'autorité du président de son conseil d'administration.
 

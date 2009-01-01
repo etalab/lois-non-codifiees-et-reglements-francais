@@ -14,9 +14,7 @@ Les charges mentionnées au présent 1° sont déterminées dans les conditions 
 
 2° a. Le solde visé au b du 1° donne lieu à prélèvement à due concurrence sur la dotation générale de décentralisation de la région de la Guadeloupe, prévue par l'article L. 1614-4 du même code.
 
-b. Si le solde final visé au c du 1° est positif, il est opéré un prélèvement à due concurrence sur la dotation générale de décentralisation du département de la Guadeloupe, prévue par le même article L. 1614-4.
-
-Si le solde final visé au c du 1° est négatif, il est opéré un abondement à due concurrence de la dotation générale de décentralisation due au département de la Guadeloupe et à une réfaction, à due concurrence, sur la dotation globale de compensation due à Saint-Martin en 2008 au terme des dispositions du I ;
+b. Le solde final visé au c du 1° donne lieu à  prélèvement à due concurrence sur la dotation générale de décentralisation du département de la Guadeloupe, prévue par le même article L. 1614-4.
 
 3° La dotation globale de compensation visée au 1° est abondée :
 
@@ -32,7 +30,7 @@ Si le solde final visé au c du 1° est négatif, il est opéré un abondement �
 
 ― et du montant correspondant à la moyenne annuelle des crédits de paiement de la dotation globale d'équipement des communes versés à la commune de Saint-Martin au titre des exercices 1998 à 2007 inclus, en application des articles L. 2334-32 à L. 2334-34 du même code ;
 
-4° Le montant de la dotation globale de compensation calculé au profit de Saint-Martin, le montant du prélèvement opéré sur la dotation générale de décentralisation de la région de la Guadeloupe et les montants du prélèvement ou de l'abondement de la dotation générale de décentralisation du département de la Guadeloupe sont fixés par arrêté conjoint du ministre chargé de l'outre-mer et du ministre chargé du budget, après avis de la commission consultative d'évaluation des charges de Saint-Martin.
+4° Le montant de la dotation globale de compensation calculé au profit de Saint-Martin, le montant du prélèvement opéré sur la dotation générale de décentralisation de la région de la Guadeloupe et les montants du prélèvement de la dotation générale de décentralisation du département de la Guadeloupe sont fixés par arrêté conjoint du ministre chargé de l'outre-mer et du ministre chargé du budget, après avis de la commission consultative d'évaluation des charges de Saint-Martin.
 
 II.-Les modalités de calcul de la dotation globale de compensation de Saint-Barthélemy visée à l'article LO 6371-5 du code général des collectivités territoriales sont les suivantes :
 
@@ -48,9 +46,7 @@ Les charges mentionnées au présent 1° sont déterminées dans les conditions 
 
 2° a. Le solde visé au b du 1° donne lieu à prélèvement à due concurrence sur la dotation générale de décentralisation de la région de la Guadeloupe, prévue par l'article L. 1614-4 du même code.
 
-b. Si le solde visé au c du 1° est positif, il est opéré un prélèvement à due concurrence sur la dotation générale de décentralisation du département de la Guadeloupe, prévue par l'article L. 1614-4 du même code.
-
-Si le solde visé au c du 1° est négatif, il est à la charge de l'Etat ;
+b. Le solde visé au c du 1° donne lieu à un abondement à due concurrence sur la dotation générale de décentralisation du département de la Guadeloupe, prévue par l'article L. 1614-4 du même code.
 
 3° La dotation globale de compensation visée au 1° est abondée :
 
@@ -70,23 +66,19 @@ Si le solde visé au c du 1° est négatif, il est à la charge de l'Etat ;
 
 ― et du montant de dotation globale de construction et d'équipement scolaire, calculé au profit de la collectivité de Saint-Barthélemy en 2008, en application de l'article L. 6264-5 du même code.
 
-Le montant de la dotation globale de compensation, après abondements, est à la charge de l'Etat ;
+Le montant de la dotation globale de compensation, après abondements, fait l'objet d'un titre de perception émis chaque année par le préfet de la région Guadeloupe durant le mois de janvier de l'année considérée, pour paiement au plus tard six mois après son émission. Par exception, pour la récupération du trop-versé en 2008, il est émis deux titres de perception, l'un en 2009, l'autre en 2010, portant chacun sur un montant de 2 814 129 €.
 
-4° Le montant de la dotation globale de compensation calculé au profit de Saint-Barthélemy, le montant du prélèvement opéré sur la dotation générale de décentralisation de la région de la Guadeloupe et le montant du prélèvement ou de l'abondement de la dotation générale de décentralisation du département de la Guadeloupe sont fixés par arrêté conjoint du ministre chargé de l'outre-mer et du ministre chargé du budget, après avis de la commission consultative d'évaluation des charges de Saint-Barthélemy.
+4° Le montant de la dotation globale de compensation calculé au profit de Saint-Barthélemy, le montant du prélèvement opéré sur la dotation générale de décentralisation de la région de la Guadeloupe et le montant de l'abondement de la dotation générale de décentralisation du département de la Guadeloupe sont fixés par arrêté conjoint du ministre chargé de l'outre-mer et du ministre chargé du budget, après avis de la commission consultative d'évaluation des charges de Saint-Barthélemy.
 
 III.-En application des articles LO 6271-5 et LO 6371-5 du code général des collectivités territoriales instituant une dotation globale de fonctionnement pour la collectivité d'outre-mer de Saint-Barthélemy et pour celle de Saint-Martin, le code général des collectivités territoriales est ainsi modifié :
 
-1°
-
-A modifié les dispositions suivantes :
+1° A modifié les dispositions suivantes :
 
 > Code général des collectivités territoriales
 > > Art. L6264-3, Art. L6364-3, Art. L3334-1, Art. L1613-1, Art. L2334-13
 IV.-A compter de 2008, il est institué un prélèvement sur les recettes de l'Etat au titre de la dotation globale de construction et d'équipement scolaire prévue aux articles L. 6264-5 et L. 6364-5 du code général des collectivités territoriales.
 
-1.
-
-A modifié les dispositions suivantes :
+1.A modifié les dispositions suivantes :
 > Code général des collectivités territoriales
 > > Art. L3443-2, Art. L4434-8, Art. L6264-5, Art. L6364-5
 > >

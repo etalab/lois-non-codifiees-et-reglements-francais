@@ -16,7 +16,7 @@ I. - La société anonyme Natexis ou toute société qu'elle contrôle, au sens 
 
 7° De la gestion de prêts consentis au titre du compte : "Prêts du Fonds de développement économique et social" ;
 
-8° De la gestion des garanties antérieurement accordées par la Banque française du commerce extérieur aux investissements dans les Etats étrangers en application de l'article 26 de la loi de finances rectificative pour 1971 (n° 71-1025 du 24 décembre 1971) ;
+8° De la gestion des garanties antérieurement accordées par la Banque française du commerce extérieur aux investissements dans les Etats étrangers ;
 
 9° De la gestion des opérations antérieurement engagées par la Banque française du commerce extérieur en application de l'article 5 de la loi de finances rectificative pour 1965 (n° 65-1154 du 30 décembre 1965) ;
 

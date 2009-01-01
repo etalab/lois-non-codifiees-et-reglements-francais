@@ -38,7 +38,7 @@ IV.-Les opérations suivantes sont exonérées de la taxe :
 
 2° Les reventes en l'état ;
 
-3° Les importations de produits en provenance des Etats membres de la Communauté européenne ou des autres Etats parties à l'accord sur l'Espace économique européen et les importations de produits qui sont mis en libre pratique dans l'un de ces Etats.
+3° Les importations en provenance d'un Etat membre de la Communauté européenne, d'un autre Etat partie à l'accord sur l'Espace économique européen ou de Turquie et les importations qui sont mises en libre pratique dans l'un de ces Etats.
 
 V.-Le fait générateur de la taxe est constitué par :
 
@@ -50,7 +50,7 @@ V.-Le fait générateur de la taxe est constitué par :
 
 VI.-La taxe est exigible à la date du fait générateur.
 
-VII.-Le taux de la taxe est fixé à 0,20 % pour les produits du secteur de l'industrie de l'ameublement et à 0,1 % pour les produits du secteur de l'industrie du bois.
+VII.-Le taux de la taxe est fixé à 0, 20 % pour les produits du secteur de l'industrie de l'ameublement et à 0, 1 % pour les produits du secteur de l'industrie du bois.
 
 Les entreprises dont l'activité dominante est la mise en œuvre de produits en bois de menuiserie, charpente ou agencement, assortie d'une activité de fabrication de produits entrant dans le champ de la taxe, peuvent retenir pour assiette de la taxe 40 % du chiffre d'affaires total hors taxes correspondant à ces opérations, fourniture et pose incluses, en y appliquant les taux indiqués ci-dessus, les entreprises de moins de vingt salariés appliquant cependant le taux unique de 0, 10 %.
 
@@ -140,7 +140,7 @@ IV.-Les opérations suivantes sont exonérées de la taxe :
 
 3° Les ventes de cuir et peaux semi-finis et finis, lorsque ces entreprises vendent en France ces produits pour une destination autre que la fabrication d'articles destinés à la consommation finale ;
 
-4° Les importations de produits en provenance des Etats membres de la Communauté européenne ou des autres Etats parties à l'accord sur l'Espace économique européen et les importations de produits qui sont mis en libre pratique dans l'un de ces Etats.
+4° Les importations en provenance d'un Etat membre de la Communauté européenne, d'un autre Etat partie à l'accord sur l'Espace économique européen ou de Turquie et les importations qui sont mises en libre pratique dans l'un de ces Etats.
 
 V.-Le fait générateur de la taxe est constitué par :
 
@@ -152,7 +152,7 @@ V.-Le fait générateur de la taxe est constitué par :
 
 VI.-La taxe est exigible à la date du fait générateur.
 
-VII.-Le taux de la taxe est fixé à 0,18 %.
+VII.-Le taux de la taxe est fixé à 0, 18 %.
 
 VIII.-1. Lorsque le montant de la taxe dû au titre d'une année est supérieur à 1 000 euros, les redevables déposent, au plus tard le 25 de chaque mois de l'année suivante, la déclaration du chiffre d'affaires imposable qu'ils ont réalisé le mois précédent.
 
@@ -206,7 +206,7 @@ Elle a pour objet de financer les missions dévolues à cet organisme par la loi
 
 Les opérations financées au moyen du produit de la taxe font l'objet d'une comptabilité distincte tenue par le comité.
 
-II.-La taxe est due par les fabricants et détaillants établis en France des produits du secteur de l'horlogerie, de la bijouterie, de la joaillerie et de l'orfèvrerie ainsi que du secteur des arts de la table et, à l'importation, par la personne désignée comme destinataire réel des biens sur la déclaration en douane ou, solidairement, par le déclarant en douane qui agit dans le cadre d'un mandat de représentation indirecte, tel que défini par l'article 5 du code des douanes communautaire. Ces produits sont recensés par voie réglementaire et par référence à la nomenclature d'activités et de produits en vigueur.
+II.-La taxe est due par les fabricants et détaillants établis en France des produits du secteur de l'horlogerie, de la bijouterie, de la joaillerie et de l'orfèvrerie ainsi que du secteur des arts de la table et, à l'importation, par la personne désignée comme destinataire réel des biens sur la déclaration en douane ou, solidairement, par le déclarant en douane qui agit dans le cadre d'un mandat de représentation indirecte, tel que défini par l'article 5 du code des douanes communautaire. Ces produits sont recensés par voie réglementaire et par référence à la nomenclature d'activités et de produits en vigueur. Les produits d'occasion ne sont pas soumis à la taxe.
 
 Constituent des fabricants au sens de l'alinéa précédent les entreprises qui :
 
@@ -232,7 +232,7 @@ IV.-Les opérations suivantes sont exonérées de la taxe :
 
 1. Les exportations à destination de pays qui ne sont ni membres de la Communauté européenne ni parties à l'accord sur l'Espace économique européen ;
 
-2. Les importations de produits en provenance des Etats membres de la Communauté européenne ou des autres Etats parties à l'accord sur l'Espace économique européen et les importations de produits qui sont mis en libre pratique dans l'un de ces Etats.
+2. Les importations en provenance d'un Etat membre de la Communauté européenne, d'un autre Etat partie à l'accord sur l'Espace économique européen ou de Turquie et les importations qui sont mises en libre pratique dans l'un de ces Etats.
 
 V.-Le fait générateur de la taxe est constitué par :
 
@@ -242,7 +242,7 @@ V.-Le fait générateur de la taxe est constitué par :
 
 VI.-La taxe est exigible à la date du fait générateur.
 
-VII.-Le taux de la taxe est fixé à 0,20 %.
+VII.-Le taux de la taxe est fixé à 0, 20 %.
 
 VIII.-1. Lorsque le montant de la taxe dû au titre d'une année est supérieur à 1 000 euros, les redevables déposent, au plus tard le 25 de chaque mois de l'année suivante, la déclaration du chiffre d'affaires imposable qu'ils ont réalisé le mois précédent.
 
@@ -328,7 +328,7 @@ IV.-Les opérations suivantes sont exonérées de la taxe :
 
 2° Les exportations à destination de pays tiers qui ne sont ni membres de la Communauté européenne ni parties à l'accord sur l'Espace économique européen ;
 
-3° Les importations de produits en provenance des Etats membres de la Communauté européenne ou des autres Etats parties à l'accord sur l'Espace économique européen et les importations de produits qui sont mis en libre pratique dans l'un de ces Etats ;
+3° Les importations en provenance d'un Etat membre de la Communauté européenne, d'un autre Etat partie à l'accord sur l'Espace économique européen ou de Turquie et les importations qui sont mises en libre pratique dans l'un de ces Etats ;
 
 4° Les ventes de produits, prestations de services et opérations à façon entre entreprises détenues à plus de 50 % par une même entreprise, ou entre cette entreprise et ses filiales détenues à plus de 50 %, sous réserve que les ventes, prestations de services ou opérations à façon réalisées par l'une ou plusieurs des entreprises du groupe ainsi défini auprès d'entreprises extérieures, ou directement au détail, soient assujetties à la taxe lorsqu'elle est due.
 
@@ -342,7 +342,7 @@ V.-Le fait générateur de la taxe est constitué par :
 
 VI.-La taxe est exigible à la date du fait générateur.
 
-VII.-Le taux de la taxe est fixé à 0,07 %.
+VII.-Le taux de la taxe est fixé à 0, 07 %.
 
 VIII.-1. Lorsque le montant de la taxe dû au titre d'une année est supérieur à 1 000 euros, les redevables déposent, au plus tard le 25 de chaque mois de l'année suivante, la déclaration du chiffre d'affaires imposable qu'ils ont réalisé le mois précédent.
 
@@ -442,13 +442,13 @@ La circonstance qu'un produit ou une prestation qui est pris en compte pour le c
 
 VII.-Le taux de la taxe est fixé comme suit :
 
-1° Pour les produits des secteurs de la mécanique : 0,1 % ;
+1° Pour les produits des secteurs de la mécanique : 0, 1 % ;
 
-2° Pour les matériels et consommables de soudage et les produits du décolletage : 0,112 % ;
+2° Pour les matériels et consommables de soudage et les produits du décolletage : 0, 112 % ;
 
-3° Pour les produits du secteur de la construction métallique : 0,3 % ;
+3° Pour les produits du secteur de la construction métallique : 0, 3 % ;
 
-4° Pour les produits du secteur des matériels aérauliques et thermiques : 0,14 %.
+4° Pour les produits du secteur des matériels aérauliques et thermiques : 0, 14 %.
 
 VIII.-Le Comité de coordination des centres de recherche en mécanique recouvre la taxe.
 
@@ -524,7 +524,7 @@ Les opérations suivantes sont exonérées de la taxe :
 
 1° Les reventes en l'état ;
 
-2° Les importations en provenance d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen et les importations qui sont mises en libre pratique dans l'un de ces Etats ;
+2° Les importations en provenance d'un Etat membre de la Communauté européenne, d'un autre Etat partie à l'accord sur l'Espace économique européen ou de Turquie et les importations qui sont mises en libre pratique dans l'un de ces Etats ;
 
 3° La vente de produits de roches ornementales et de construction destinés à être directement mis en oeuvre dans des monuments historiques classés ou inscrits ou dans du petit patrimoine rural non protégé, et définis sur une liste fixée par arrêté.
 
@@ -538,11 +538,11 @@ V.-La taxe est exigible à la date du fait générateur.
 
 VI.-Le taux de la taxe est fixé à :
 
-1° 0,35 % pour les produits du secteur de l'industrie du béton ;
+1° 0, 35 % pour les produits du secteur de l'industrie du béton ;
 
-2° 0,40 % pour les produits du secteur de la terre cuite ;
+2° 0, 40 % pour les produits du secteur de la terre cuite ;
 
-3° 0,20 % pour les produits du secteur des roches ornementales et de construction.
+3° 0, 20 % pour les produits du secteur des roches ornementales et de construction.
 
 VII.-1. Lorsque le montant de la taxe dû au titre d'une année est supérieur ou égal à 450 euros, les redevables déposent, au plus tard le 25 du mois qui suit la fin de chaque trimestre de l'année suivante, la déclaration du chiffre d'affaires imposable qu'ils ont réalisé au titre du trimestre échu.
 

@@ -10,5 +10,4 @@
 - [Article 39](article-39.md)
 - [Article 72](article-72.md)
 - [Article 78](article-78.md)
-- [Article 83](article-83.md)
 - [Article 100](article-100.md)

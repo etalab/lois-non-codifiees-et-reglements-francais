@@ -8,7 +8,7 @@ II. ― La garantie de l'Etat est accordée au titre des garanties de loyers ver
 
 L'assiette de la garantie de l'Etat est constituée par les sinistres constatés.
 
-III. ― L'octroi de la garantie de l'Etat prévue aux I et II est subordonné au respect de conditions d'éligibilité, notamment en termes de solvabilité, des locataires des logements concernés.
+III. ― L'octroi de la garantie de l'Etat prévue aux I et II est subordonné au respect des conditions d'éligibilité des locataires des logements concernés. Sous réserve du respect des autres conditions d'éligibilité, la garantie de l'Etat est accordée dans tous les cas où le montant du loyer est inférieur à 50 % des ressources du locataire.
 
 La garantie de l'Etat couvre la fraction des sinistres qui excède un seuil qui ne saurait être inférieur à 1,1 % du montant des revenus locatifs concernés, dans la limite d'un plafond.
 

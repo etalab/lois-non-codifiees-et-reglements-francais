@@ -82,93 +82,74 @@ Le décret mentionné au III ci-dessus fixe également les conditions d'applicat
 
 V. - Il est créé trois taxes additionnelles à la taxe sur les installations nucléaires de base. Le montant de ces taxes additionnelles, dites respectivement de "recherche", "d'accompagnement" et de "diffusion technologique", est déterminé, selon chaque catégorie d'installations, par application d'un coefficient multiplicateur à une somme forfaitaire. Les coefficients sont fixés par décret en Conseil d'Etat après avis des conseils généraux concernés et des groupements d'intérêt public définis à l'article L. 542-11 du code de l'environnement pour ce qui concerne les taxes dites "d'accompagnement" et de "diffusion technologique", dans les limites indiquées dans le tableau ci-dessous et des besoins de financement, en fonction des quantités et de la toxicité des colis de déchets radioactifs produits et à produire ne pouvant pas être stockés en surface ou en faible profondeur que peut produire chaque catégorie d'installations.
 
-CATEGORIE
-
-Réacteurs nucléaires de production d'énergie autres que ceux consacrés à titre principal à la recherche (par tranche)
-
-SOMMES FORFAITAIRES Déchets (en millions d'euros)
-
-0,28
-
-COEFFICIENT MULTIPLICATEUR
-
-Recherche
-
-(0,5-5)
-
-Accompagnement
-
-(0,6-2)
-
-Diffusion technologique
-
-(0,6-1)
-
-CATEGORIE
-
-Réacteurs nucléaires de production d'énergie consacrés à titre principal à la recherche
-
-SOMMES FORFAITAIRES Déchets (en millions d'euros)
-
-0,25
-
-COEFFICIENT MULTIPLICATEUR
-
-Recherche
-
-(0,5-5)
-
-Accompagnement
-
-(0,6-2)
-
-Diffusion technologique
-
-(0,6-1)
-
-CATEGORIE
-
-Autres réacteurs nucléaires
-
-SOMMES FORFAITAIRES Déchets (en millions d'euros)
-
-0,25
-
-COEFFICIENT MULTIPLICATEUR
-
-Recherche
-
-(0,5-5)
-
-Accompagnement
-
-(0,6-2)
-
-Diffusion technologique
-
-(0,6-1)
-
-CATEGORIE
-
-Usines de traitement de combustibles nucléaires usés
-
-SOMMES FORFAITAIRES Déchets (en millions d'euros)
-
-0,28
-
-COEFFICIENT MULTIPLICATEUR
-
-Recherche
-
-(0,5-5)
-
-Accompagnement
-
-(0,6-2)
-
-Diffusion technologique
-
-(0,6-1)
+<table>
+<tbody>
+<tr>
+<td align="center" rowspan="2">CATÉGORIES <br/>
+</td>
+<td align="center" rowspan="2">SOMMES <br/>forfaitaires <br/>déchets <br/>(en millions <br/>d'euros) <br/>
+</td>
+<td align="center" colspan="3">COEFFICIENT MULTIPLICATEUR <br/>
+</td>
+</tr>
+<tr>
+<td align="center">Recherche <br/>
+</td>
+<td align="center">Accompagnement <br/>
+</td>
+<td align="center">Diffusion <br/>technologique <br/>
+</td>
+</tr>
+<tr>
+<td>Réacteurs nucléaires de production d'énergie autres que <br/>ceux consacrés à titre principal à la recherche (par <br/>tranche). <br/>
+</td>
+<td align="center">0, 28 <br/>
+</td>
+<td align="center">[0, 5 - 6, 5] <br/>
+</td>
+<td align="center">[0, 6 - 2] <br/>
+</td>
+<td align="center">[0, 6 - 1] <br/>
+</td>
+</tr>
+<tr>
+<td>Réacteurs nucléaires de production d'énergie consacrés à <br/>titre principal à la recherche. <br/>
+</td>
+<td align="center">0, 25 <br/>
+</td>
+<td align="center">[0, 5 - 6, 5] <br/>
+</td>
+<td align="center">[0, 6 - 2] <br/>
+</td>
+<td align="center">[0, 6 - 1] <br/>
+</td>
+</tr>
+<tr>
+<td>Autres réacteurs nucléaires. <br/>
+</td>
+<td align="center">0, 25 <br/>
+</td>
+<td align="center">[0, 5 - 6, 5] <br/>
+</td>
+<td align="center">[0, 6 - 2] <br/>
+</td>
+<td align="center">[0, 6 - 1] <br/>
+</td>
+</tr>
+<tr>
+<td>Usines de traitement de combustibles nucléaires usés. <br/>
+</td>
+<td align="center">0, 28 <br/>
+</td>
+<td align="center">[0, 5 - 6, 5] <br/>
+</td>
+<td align="center">[0, 6 - 2] <br/>
+</td>
+<td align="center">[0, 6 - 1]<br/>
+</td>
+</tr>
+</tbody>
+</table>
 
 Ces taxes sont dues par l'exploitant, sans réduction possible, à compter de la création de l'installation et jusqu'à la décision de radiation de la liste des installations nucléaires de base.
 

@@ -28,15 +28,13 @@ Le président de la société France Télévisions présente chaque année devan
 
 Les conseils d'administration de l'Institut national de l'audiovisuel et des sociétés Radio France et Radio France Internationale, ainsi que l'organe compétent de la société ARTE-France, approuvent leurs contrats d'objectifs et de moyens respectifs et délibèrent sur leur exécution annuelle.
 
-III. - Chaque année, à l'occasion du vote de la loi de finances, le Parlement, sur le rapport d'un membre de chacune des commissions des finances de l'Assemblée nationale et du Sénat ayant les pouvoirs de rapporteur spécial, approuve la répartition des ressources publiques affectées au compte d'emploi de la redevance entre les sociétés France Télévisions, Radio France, Radio France Internationale, la société ARTE-France et l'Institut national de l'audiovisuel.
+III. - Chaque année, à l'occasion du vote de la loi de finances, le Parlement, sur le rapport d'un membre de chacune des commissions des finances de l'Assemblée nationale et du Sénat ayant les pouvoirs de rapporteur spécial, approuve la répartition entre les  organismes affectataires des ressources publiques retracées au compte de  concours financiers institué au VI  de l'article 46 de la loi n° 2005-1719 du 30 décembre 2005 de finances pour 2006.
 
 Les ressources publiques allouées aux organismes du secteur audiovisuel public en compensation des obligations de service public mises à leur charge n'excèdent pas le montant du coût d'exécution desdites obligations.
 
-IV. - Le montant des ressources publiques allouées à la société France Télévisions est versé à cette société qui l'affecte intégralement, dans les conditions définies par le contrat d'objectifs et de moyens, aux sociétés France 2, France 3 et France 5 et Réseau France outre-mer ainsi qu'aux filiales mentionnées au dernier alinéa du I de l'article 44.
+IV. Le  montant des ressources publiques retracées au compte mentionné au III allouées  aux sociétés mentionnées à l'article 44 est versé à ces sociétés qui en  affectent, le cas échéant, une part à leurs filiales chargées de missions de  service public.
 
-A cette fin, le conseil d'administration de la société France Télévisions approuve un état prévisionnel des recettes et des dépense de cette société et de ses filiales pour chaque exercice. Il approuve également, après consultation des conseils d'administration des sociétés concernées, les modifications apportées, le cas échéant, en cours d'exercice, à la répartition du montant des ressources publiques allouées par la loi de finances à la société France Télévisions.
-
-V. - Les exonérations de redevance audiovisuelle décidées pour des motifs sociaux donnent lieu à remboursement intégral du budget général de l'Etat "Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 2000-433 DC du 27 juillet 2000".
+V. - Les exonérations de redevance audiovisuelle décidées pour des motifs sociaux donnent lieu à remboursement intégral du budget général de l'Etat "Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 2000-433 DC du 27 juillet 2000.
 
 Ce remboursement est calculé sur le fondement des exonérations en vigueur à la date de publication de la loi n° 2000-719 du 1er août 2000 précitée ainsi que celles qui pourraient intervenir postérieurement.
 

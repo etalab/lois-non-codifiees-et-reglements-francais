@@ -2,7 +2,7 @@
 
 Des politiques renforcées et différenciées de développement sont mises en oeuvre dans les zones caractérisées par des handicaps géographiques, économiques ou sociaux.
 
-Ces zones comprennent les zones d'aménagement du territoire, les territoires ruraux de développement prioritaire, les zones urbaines sensibles, les bassins d'emploi à redynamiser et les régions ultrapériphériques françaises. ;
+Ces zones comprennent les zones d'aménagement du territoire, les territoires ruraux de développement prioritaire, les zones urbaines sensibles, les bassins d'emploi à redynamiser, les zones de restructuration de la défense et les régions ultrapériphériques françaises.
 
 1. Les zones d'aménagement du territoire sont caractérisées notamment par leur faible niveau de développement économique et par l'insuffisance du tissu industriel ou tertiaire.
 
@@ -31,5 +31,25 @@ Tous les trois ans, à compter de la promulgation de la loi n° 99-533 du 25 jui
 3° Une variation annuelle moyenne négative de l'emploi total entre 2000 et 2004 supérieure en valeur absolue à 0,75 %.
 
 Les références statistiques utilisées pour la détermination de ces bassins d'emploi sont fixées par voie réglementaire.
+
+3 ter. Les zones de restructuration de la défense se répartissent en deux catégories :
+
+1° Les territoires dans lesquels la majorité des actifs résident et travaillent, incluant une ou plusieurs communes, d'une part, caractérisées par une perte d'au moins cinquante emplois directs du fait de la réorganisation des unités militaires et établissements du ministère de la défense sur le territoire national et, d'autre part, dont le territoire est couvert par un contrat de redynamisation de site de défense. Ces territoires doivent satisfaire à l'un des critères suivants :
+
+a) Un taux de chômage supérieur de trois points à la moyenne nationale ;
+
+b) Une variation annuelle moyenne négative de la population entre les deux derniers recensements connus supérieure en valeur absolue à 0, 15 % ;
+
+c) Une variation annuelle moyenne négative de l'emploi total sur une période de trois ans supérieure en valeur absolue à 0, 75 % ;
+
+d) Un rapport entre la perte locale d'emplois directs du fait de la réorganisation des unités militaires sur le territoire national et la population salariée d'au moins 5 %.
+
+Les références statistiques utilisées pour la détermination de ces territoires sont fixées par voie réglementaire ;
+
+2° Les communes, le cas échéant visées au 1°, caractérisées par une perte d'au moins cinquante emplois directs du fait de la réorganisation des unités militaires et établissements du ministère de la défense sur le territoire national et dont le territoire est couvert par un contrat de redynamisation de site de défense.
+
+Les contrats de redynamisation de site de défense sont conclus entre, d'une part, l'Etat et, d'autre part, les communes ou groupements de collectivités territoriales correspondant aux sites les plus affectés par la réorganisation du fait d'une perte nette de nombreux emplois directs et d'une grande fragilité économique et démographique. Ils sont d'une durée de trois ans, reconductible une fois pour deux ans.
+
+Les zones de restructuration de la défense sont délimitées par un arrêté conjoint des ministres chargés de l'économie, du budget et de l'aménagement du territoire qui détermine, pour chaque zone, celle des années comprises entre 2009 et 2013 au titre de laquelle elle est reconnue.
 
 4. Les régions ultrapériphériques françaises recouvrent les départements d'outre-mer.

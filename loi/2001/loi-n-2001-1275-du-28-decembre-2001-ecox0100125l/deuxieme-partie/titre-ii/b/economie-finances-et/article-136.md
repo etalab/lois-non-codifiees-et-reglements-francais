@@ -1,15 +1,13 @@
 # Article 136
 
-Il est créé un Comité des normes de comptabilité publique, chargé d'émettre un avis préalable sur les règles applicables à la comptabilité générale de l'Etat. Ce comité consultatif est placé auprès du ministre chargé du budget. Son président est nommé par le ministre chargé du budget.
+I. - Il est créé un conseil de normalisation des comptes publics chargé d'émettre un avis préalable sur les règles applicables à la comptabilité générale de l'Etat et, sans préjudice des compétences de l'autorité mentionnée au a du 1° de l'article 152 de la loi n° 2008-776 du 4 août 2008 de modernisation de l'économie, des autres personnes publiques et des personnes privées financées majoritairement par des ressources publiques et notamment des prélèvements obligatoires. Cet organisme consultatif est placé auprès du ministre chargé du budget. Son président est nommé par le ministre chargé du budget.
 
-Le Comité des normes de comptabilité publique est composé de représentants de l'administration, de professionnels comptables et de personnalités qualifiées.
+II. - Le conseil de normalisation des comptes publics est consulté sur tout projet de norme de comptabilité générale applicable aux personnes mentionnées au I. Ces normes comptables ne sont pas soumises à l'avis du comité prévu à l'article L. 1211-4-2 du code général des collectivités territoriales.
 
-Le Comité des normes de comptabilité publique traite de toutes questions d'ordre comptable relevant de l'Etat ou de ses établissements publics de type administratif et organismes assimilés. Il a pour missions :
+III. - Le conseil de normalisation des comptes publics peut proposer toutes mesures relatives à la présentation et à l'exploitation des comptes publics visant à donner une image sincère et fidèle de la situation patrimoniale et financière des organismes publics, à faciliter l'analyse des coûts des politiques publiques et à assurer la cohérence des règles comptables applicables aux administrations publiques et des règles relatives à la comptabilité nationale, dans le respect des spécificités de ces dernières.
 
-- d'émettre un avis préalable sur les projets de normes de comptabilité publique qui lui sont présentés par les services du ministère de l'économie, des finances et de l'industrie ;
+IV. - Le conseil de normalisation des comptes publics peut être consulté sur toute autre question intéressant la comptabilité des personnes morales de droit public, en particulier sur les projets de normes élaborés par des organismes internationaux.
 
-- de proposer toutes mesures relatives à la présentation et à l'exploitation des comptes publics visant à donner une image sincère et fidèle de la situation patrimoniale et financière des organismes publics, à faciliter l'analyse des coûts des politiques publiques, et à assurer la cohérence avec les règles de la comptabilité nationale concernant les administrations publiques.
+V. - Les avis du conseil de normalisation des comptes publics sont publics.
 
-Il peut être consulté sur toute autre question intéressant la comptabilité publique, en particulier sur les projets de normes élaborés par des organismes internationaux.
-
-Le Comité des normes de comptabilité publique élabore un rapport d'activité annuel qui est déposé sur le bureau des assemblées parlementaires.
+VI. - Le conseil de normalisation des comptes publics élabore un rapport d'activité annuel déposé auprès des commissions chargées des finances des deux assemblées.
