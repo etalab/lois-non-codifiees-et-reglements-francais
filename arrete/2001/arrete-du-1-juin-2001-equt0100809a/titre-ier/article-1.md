@@ -2,13 +2,13 @@
 
 Objet du présent arrêté.
 
-1. Le présent arrêté a pour objet de compléter les dispositions des annexes A et B de l'accord ADR visé à l'article 2 et, le cas échéant, de définir les règles spécifiques aux transports de marchandises dangereuses effectués en France par route, que ces transports soient nationaux ou internationaux. Il comporte quatre annexes : les annexes A et B de l'accord ADR et les annexes C et D.
+1. Le présent arrêté a pour objet de compléter les dispositions des annexes A et B de l'accord ADR visé à l'article 2, et le cas échéant, définir les règles spécifiques aux transports de marchandises dangereuses effectués en France par route, que ces transports soient nationaux ou internationaux. Il comporte quatre annexes : les annexes A et B de l'accord ADR et les annexes C et D.
 
 En ce qui concerne les numéros cités dans le présent arrêté :
 
-- un numéro d'article vise un article du présent arrêté ;
+- un numéro d'article vise un article du présent arrêté,
 
-- un numéro de partie vise une partie des annexes A et B ;
+- un numéro de Partie vise une Partie des annexes A et B,
 
 - un numéro tout court vise une référence numérotée en marge des annexes A et B.
 
@@ -20,7 +20,7 @@ En ce qui concerne les numéros cités dans le présent arrêté :
 
 - la construction, les épreuves, l'agrément, le marquage, les contrôles périodiques et les conditions d'utilisation des emballages, des récipients, des GRV, des grands emballages, des conteneurs et des citernes ;
 
-- l'étiquetage des emballages, des récipients, des GRV et des grands emballages ;
+-l'étiquetage des emballages, des récipients, des GRV et des grands emballages ;
 
 - le placardage et la signalisation des conteneurs et des citernes ;
 
@@ -38,14 +38,16 @@ En ce qui concerne les numéros cités dans le présent arrêté :
 
 6. Le présent arrêté ne s'applique pas :
 
-a) Aux transports exclus par les 1.1.3.1, 1.1.3.2 et 1.1.3.3 ;
+a) aux transports exclus par les 1.1.3.1, 1.1.3.2, 1.1.3.3 et 1.1.3.7 ;
 
-b) Aux transports effectués entièrement dans le périmètre d'un espace clos.
+b) aux transports effectués entièrement dans le périmètre d'un espace clos.
 
-7. Les transports effectués au moyen de véhicules autres que ceux définis à l'article 2 ne sont soumis qu'aux dispositions relatives à l'emballage, au marquage et à l'étiquetage des colis prescrites aux 4.1 et 5.2 ou au 3.4.
+c) aux transports de marchandises dangereuses de la classe 7 exclus au 1.7.1.4
+
+7. Les transports effectués au moyen de véhicules autres que ceux définis à l'article2 ne sont soumis qu'aux dispositions relatives à l'emballage, au marquage et à l'étiquetage des colis prescrites aux 4.1 et 5.2 ou au 3.4.
 
 Toutefois :
 
-- l'usage de véhicules à deux ou trois roues pour le transport des marchandises dangereuses de la classe 7, des déchets d'activités de soins à risques infectieux et assimilés ou des pièces anatomiques est interdit ;
+- l'usage des véhicules à deux ou trois roues est interdit pour le transport des déchets d'activités de soins à risques infectieux et assimilés ou des pièces anatomiques ainsi que pour le transport des marchandises dangereuses de la classe 7 sauf dans le cas d'un transport pour compte propre des matières du numéro ONU 2911;
 
 - les transports agricoles, y compris ceux effectués avec des véhicules agricoles autres que ceux définis à l'article 2, font l'objet de dispositions spécifiques décrites à l'article 29.
