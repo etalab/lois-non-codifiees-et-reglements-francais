@@ -11,4 +11,6 @@
 - [Article 221-XII/09](article-221-xii-09.md)
 - [Article 221-XII/10](article-221-xii-10.md)
 - [Article 221-XII/11](article-221-xii-11.md)
+- [Article 221-XII/12](article-221-xii-12.md)
+- [Article 221-XII/13](article-221-xii-13.md)
 - [Article 221-XII/14](article-221-xii-14.md)
