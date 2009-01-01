@@ -1,6 +1,6 @@
 # Article Annexe B
 
-<font size="2">B. - Fonctions exercées dans les services déconcentrés du ministère chargé de l'éducation nationale</font>
+B. - FONCTIONS EXERCÉES DANS LES SERVICES DÉCONCENTRÉS DU MINISTÈRE CHARGÉ DE L'ÉDUCATION NATIONALE
 
 <table>
 <tbody>
@@ -380,7 +380,7 @@
 </tr>
 <tr>
 <td>
-<p align="center">4. Secrétaire général d'académie, en fonctions dans les académies de</p>
+<p align="center">4. Secrétaire général d'académie en fonctions dans les académies de </p>
 </td>
 <td>
 <pre> </pre>
@@ -391,10 +391,10 @@
 </tr>
 <tr>
 <td>
-<p>Créteil, Lille, Versailles</p>
+<p align="left">Créteil, Lille, Versailles, Aix-Marseille, Bordeaux, Grenoble, Lyon, Nantes, Rennes, Toulouse, Montpellier, Orléans-Tours, Nancy-Metz</p>
 </td>
 <td>
-<p align="center">3</p>
+<p align="center">13</p>
 </td>
 <td>
 <p align="center">110</p>
@@ -402,10 +402,10 @@
 </tr>
 <tr>
 <td>
-<p>Aix-Marseille, Bordeaux, Grenoble, Lyon, Montpellier, Nancy-Metz, Nantes, Orléans-Tours, Paris, Rennes, Toulouse</p>
+<p>Paris, Amiens, Nice, Rouen, Poitiers, Strasbourg, Dijon, Caen, Reims, La Réunion </p>
 </td>
 <td>
-<p align="center">11</p>
+<p align="center">10</p>
 </td>
 <td>
 <p align="center">100</p>
@@ -413,10 +413,10 @@
 </tr>
 <tr>
 <td>
-<p>Amiens, Besançon, Caen, Clermont-Ferrand, Corse, Dijon, Guadeloupe, Guyane, Limoges, Martinique, Nice, Paris (chancellerie), Poitiers, Reims, Réunion, Rouen, Strasbourg</p>
+<p>Besançon, Clermont-Ferrand, Corse, Guadeloupe, Guyane, Limoges, Martinique, Paris (chancellerie) </p>
 </td>
 <td>
-<p align="center">17</p>
+<p align="center">8</p>
 </td>
 <td>
 <p align="center">80</p>
@@ -588,13 +588,13 @@
 </td>
 </tr>
 <tr>
-<td rowspan="2">
+<td>
 <p>8. Directeur du service interacadémique des examens et concours des académies de Créteil, Paris et Versailles</p>
 </td>
-<td rowspan="2">
+<td>
 <p align="center">1</p>
 </td>
-<td rowspan="2">
+<td>
 <p align="center">80</p>
 </td>
 </tr>

@@ -31,58 +31,56 @@ EXERCICE DE MISSIONS D'ETUDES ET D'EXPLOITATION ET D'ACTIVITES DE HAUTE RESPONSA
 </tbody>
 </table>
 
-EXERCICE DE FONCTIONS CORRESPONDANT A LA QUALIFICATION DE PREMIER CONTRÔLEUR,
+EXERCICE DE FONCTIONS CORRESPONDANT AU TITRE DE PREMIER CONTRÔLEUR ET
 
-DE PREMIER CONTRÔLEUR D'APPROCHE OU A LA QUALIFICATION DE CONTRÔLEUR D'APPROCHE
+DE CONTRÔLEUR
 
 <table>
 <tbody>
 <tr>
-<td width="283">
-<p align="center">FONCTIONS EXERCÉES <br/>par les ingénieurs du contrôle de la navigation aérienne (ICNA)</p>
+<td>
+<p align="center">FONCTIONS EXERCÉES</p>
+<p align="center">par les ingénieurs du contrôle de la navigation aérienne (ICNA)</p>
 </td>
-<td width="284">
+<td colspan="2">
 <p align="center">QUALIFICATION ET EXPÉRIENCE</p>
 </td>
 </tr>
 <tr>
-<td width="283">
-<p>Premier contrôleur dans un CRNA, Orly et Roissy.</p>
+<td align="center">
+<br/>Premier contrôleur dans un organisme de contrôle de la circulation aérienne classé dans le groupe A.<br/>
 </td>
-<td width="284">
-<p>Détention de la qualification correspondante depuis au moins neuf ans.</p>
-</td>
-</tr>
-<tr>
-<td width="283">
-<p>Premier contrôleur d'approche.</p>
-</td>
-<td width="284">
-<p>Détention de la qualification correspondante depuis au moins dix ans.</p>
+<td align="center">
+<br/>Détention d'une licence de contrôleur de la circulation aérienne, avec l'ensemble des mentions d'unité correspondantes, depuis au moins neuf ans.<br/>
 </td>
 </tr>
 <tr>
-<td width="283">
-<p>Contrôleur d'approche.</p>
+<td align="center">
+<br/>Premier contrôleur dans un organisme de contrôle de la circulation aérienne classé dans les groupes B ou C.<br/>
 </td>
-<td width="284">
-<p>Détention de la qualification correspondante depuis au moins onze ans.</p>
-</td>
-</tr>
-<tr>
-<td width="283">
-<p>Missions d'encadrement, d'instruction, d'étude ou de direction de service ou de partie de service.</p>
-</td>
-<td width="284">
-<p>Exercice de ces fonctions pendant au moins vingt ans pour les ICNA parvenus au grade de divisionnaire ou de principal.</p>
+<td align="center">
+<br/>Détention d'une licence de contrôleur de la circulation aérienne, avec l'ensemble des mentions d'unité correspondantes, depuis au moins dix ans.<br/>
 </td>
 </tr>
 <tr>
-<td width="283">
-<p>Exercice de fonctions ou acquis professionnels jugés équivalents aux précédents.</p>
+<td align="center">
+<br/>Contrôleur dans un organisme de contrôle de la circulation aérienne classé dans les groupes D ou E.<br/>
 </td>
-<td width="284">
-<br/>
+<td align="center">
+<br/>Détention d'une licence de contrôleur de la circulation aérienne, avec l'ensemble des mentions d'unité correspondantes, depuis au moins onze ans.<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Missions d'encadrement, d'instruction, d'étude ou de direction de service ou de partie de service<br/>
+</td>
+<td align="center">
+<br/>Exercice de ces fonctions pendant au moins vingt ans pour les ICNA parvenus au grade de divisionnaire ou de principal.<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Exercice de fonctions ou acquis professionnels jugés équivalents aux précédents.<br/>
 </td>
 </tr>
 </tbody>

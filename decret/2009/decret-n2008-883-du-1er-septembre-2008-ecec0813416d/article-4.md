@@ -1,0 +1,5 @@
+# Article 4
+
+Dans le cas mentionné au 1° de l'article 3, le responsable de la première mise sur le marché d'un éthylotest électronique tient à la disposition des agents chargés du contrôle les documents comprenant une description détaillée de l'appareil ainsi que les rapports des essais, réalisés pour chaque modèle, attestant de la conformité de l'appareil à ces normes, ainsi que l'adresse des lieux de production ou d'entreposage en vue de la mise sur le marché.
+
+Dans le cas mentionné au 2° de l'article 3, le responsable de la première mise sur le marché des produits tient à la disposition des agents chargés du contrôle un dossier comportant l'attestation de conformité aux exigences de fiabilité des mesures, ou une copie certifiée conforme, une description détaillée du modèle et des moyens par lequel le fabricant s'assure de la conformité de sa production au modèle ayant fait l'objet d'un examen de type, ainsi que l'adresse des lieux de production ou d'entreposage en vue de la mise sur le marché.

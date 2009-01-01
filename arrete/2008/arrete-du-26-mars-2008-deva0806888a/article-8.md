@@ -1,3 +1,3 @@
 # Article 8
 
-Le directeur général de l'aviation civile est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+L'arrêté du 28 août 1978 relatif à l'obligation d'emport de radiobalises de détresse fonctionnant automatiquement à l'impact est abrogé à compter du 1er janvier 2009.

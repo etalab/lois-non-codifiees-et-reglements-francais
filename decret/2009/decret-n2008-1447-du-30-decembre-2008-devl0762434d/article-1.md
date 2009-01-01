@@ -1,0 +1,3 @@
+# Article 1
+
+Les fonctionnaires nommés dans l'emploi de conseiller d'administration de l'écologie, du développement et de l'aménagement durables, régi par le décret du 6 septembre 2007 susvisé, perçoivent, à compter de leur détachement dans l'un de ces emplois, outre la rémunération afférente à leur emploi et à leur échelon, une nouvelle bonification indiciaire d'un montant de 40 points d'indice majoré, versée mensuellement. La liste des emplois éligibles à la nouvelle bonification indiciaire est celle fixée par l'arrêté du ministre chargé de l'écologie, du développement et de l'aménagement durables prévu à l'article 3 du décret du 6 septembre 2007 susvisé.

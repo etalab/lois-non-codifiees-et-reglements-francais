@@ -1,0 +1,5 @@
+# Article 3
+
+Par dérogation aux dispositions de l'article L. 2334-24 du code général des collectivités territoriales, une fraction d'un montant de 85 millions d'euros du produit des amendes forfaitaires de la police de la circulation est affectée, à hauteur de 50 millions d'euros, au solde de la dotation d'aménagement prévue à l'article L. 2334-13 du même code mis en répartition en 2009 et, à hauteur de 35 millions d'euros, au titre de 2008, à l'Agence nationale pour la cohésion sociale et l'égalité des chances régie par les articles L. 121-14 à L. 121-18 du code de l'action sociale et des familles afin de financer la réalisation d'actions de prévention de la délinquance dans les conditions définies à l'article L. 2215-2 du code général des collectivités territoriales.
+
+Par dérogation aux dispositions de l'article L. 2334-24 du même code, une fraction d'un montant de 50 millions d'euros du produit des amendes forfaitaires de police de la circulation routière encaissé au titre de 2008 est mise en réserve et n'est pas prise en compte dans le montant à répartir au titre de 2008.

@@ -1,0 +1,6 @@
+# Décret n° 2008-955 du 12 septembre 2008 relatif aux volontariats militaires
+
+- [CHAPITRE IER : DISPOSITIONS GENERALES](chapitre-ier)
+- [CHAPITRE II : LE VOLONTARIAT DANS LES ARMEES](chapitre-ii)
+- [CHAPITRE III : LES VOLONTAIRES STAGIAIRES DU SERVICE MILITAIRE ADAPTE](chapitre-iii)
+- [CHAPITRE IV : DISPOSITIONS DIVERSES ET FINALES](chapitre-iv)

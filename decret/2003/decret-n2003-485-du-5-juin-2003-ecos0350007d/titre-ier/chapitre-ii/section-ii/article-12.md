@@ -2,7 +2,7 @@
 
 Les articles R. 114-1 à R. 114-7 du code des communes applicable à Mayotte sont remplacés par les articles suivants :
 
-"Art. R. 114-1. -     I. - Les personnes prises en compte dans les catégories de population définies ci-dessous sont les personnes résidant dans les logements d'une commune, celles résidant dans les communautés telles que définies aux V et VI du présent article, les personnes sans abri et les personnes résidant habituellement dans des habitations mobiles.
+"Art. R. 114-1. - I. - Les personnes prises en compte dans les catégories de population définies ci-dessous sont les personnes résidant dans les logements d'une commune, celles résidant dans les communautés telles que définies aux V et VI du présent article, les personnes sans abri et les personnes résidant habituellement dans des habitations mobiles.
 
 "II. - Les catégories de population sont :
 
@@ -74,13 +74,13 @@ Les articles R. 114-1 à R. 114-7 du code des communes applicable à Mayotte son
 
 "La population d'une fraction de commune est la population municipale calculée pour cette fraction de commune.
 
-"Art. R. 114-2. -     Le chiffre de la population qui sert de base à l'assiette de l'impôt et, le cas échéant, à l'application des dispositions du code général des collectivités territoriales ou du code des communes applicables à Mayotte est celui de la population totale, obtenu par addition au chiffre de la population municipale de celui de la population comptée à part.
+"Art. R. 114-2. - Le chiffre de la population qui sert de base à l'assiette de l'impôt et, le cas échéant, à l'application des dispositions du code général des collectivités territoriales ou du code des communes applicables à Mayotte est celui de la population totale, obtenu par addition au chiffre de la population municipale de celui de la population comptée à part.
 
-"Art. R. 114-3. -     Le chiffre de population auquel il convient de se référer en matière électorale, notamment dans les cas prévus par l'article R. 121-2 du présent code, est le dernier chiffre de population municipale authentifié avant l'élection."
+"Art. R. 114-3. - Le chiffre de population auquel il convient de se référer en matière électorale, notamment dans les cas prévus par l'article R. 121-2 du présent code, est le dernier chiffre de population municipale authentifié avant l'élection."
 
-"Art. R. 114-4. -     Lorsque, par suite de l'exécution d'un programme de construction, l'évolution constatée de la population d'une commune à Mayotte répond à la formule suivante :
+"Art. R. 114-4. - Lorsque, par suite de l'exécution d'un programme de construction, l'évolution constatée de la population d'une commune à Mayotte répond à la formule suivante :
 
-"B + C  supérieur ou = à 15 % de A
+"B + C supérieur ou = à 15 % de A
 
 dans laquelle :
 
@@ -92,4 +92,10 @@ dans laquelle :
 
 les chiffres de sa population peuvent être rectifiés par arrêté du ministre de l'intérieur et du ministre de l'outre-mer pris sur la proposition du ministre chargé de l'économie, sa nouvelle population totale devenant A + B.
 
-"Art. R. 114-5. -     Lorsque, par suite de la mise en chantier d'un ou plusieurs programmes de construction, la population d'une commune à Mayotte a subi une variation répondant à la formule énoncée à l'article R. 114-4, un arrêté conjoint du ministre de l'intérieur et du ministre de l'outre-mer, pris sur la proposition du ministre chargé de l'économie, peut décider qu'il est ajouté à la population totale de cette commune une population fictive correspondant à quatre fois le nombre de logements en chantier, c'est-à-dire situés dans un immeuble dont les fondations ont commencé à être coulées (chiffre C de l'article R. 114-4) pour le calcul des dotations et subventions de l'Etat aux collectivités locales et pour toute répartition de fonds commun."
+"Art. R. 114-5. - Lorsque, par suite de la mise en chantier d'un ou plusieurs programmes de construction, la population d'une commune à Mayotte a subi une variation répondant à la formule énoncée à l'article R. 114-4, un arrêté conjoint du ministre de l'intérieur et du ministre de l'outre-mer, pris sur la proposition du ministre chargé de l'économie, peut décider qu'il est ajouté à la population totale de cette commune une population fictive correspondant à quatre fois le nombre de logements en chantier, c'est-à-dire situés dans un immeuble dont les fondations ont commencé à être coulées (chiffre C de l'article R. 114-4) pour le calcul des dotations et subventions de l'Etat aux collectivités locales et pour toute répartition de fonds commun."
+
+Art.R. 114-6.-Il est procédé simultanément aux opérations de recensement complémentaire et d'attribution de population fictive prévue aux articles R. 114-4 et R. 114-5.
+
+Art.R. 114-7.-Les majorations de population fictive sont attribuées uniformément pour deux ans, avec recensement obligatoire à l'expiration de ce délai et sans qu'à cette date puisse être laissé à la commune le bénéfice d'une population fictive résiduelle.
+
+En outre, il ne peut être procédé pour une même commune à l'exécution d'un nouveau recensement complémentaire après l'attribution d'une nouvelle population fictive dans l'année qui suit la première attribution et qui précède celle de son recensement complémentaire obligatoire.

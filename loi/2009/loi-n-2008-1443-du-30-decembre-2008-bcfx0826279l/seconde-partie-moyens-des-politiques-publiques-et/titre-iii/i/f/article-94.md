@@ -1,0 +1,5 @@
+# Article 94
+
+I. ― Par dérogation au quatrième alinéa du I de l'article 220 quinquies du code général des impôts, peuvent être remboursées sur demande, en 2009, les créances non utilisées autres que celles cédées dans les conditions prévues par les articles L. 313-23 à L. 313-35 du code monétaire et financier, nées d'une option exercée au titre d'un exercice clos au plus tard le 30 septembre 2009.
+
+II. ― Pour l'application des dispositions du I, les entreprises qui estiment pouvoir bénéficier de ces dispositions au titre d'un exercice clos pour lequel la liquidation de l'impôt n'est pas intervenue peuvent, dès le lendemain de la clôture, exercer l'option visée au premier alinéa du I de l'article 220 quinquies du code général des impôts. Toutefois, lorsque le montant de la créance remboursée résultant de cette option excède de plus de 20 % le montant de la créance déterminée à partir de la déclaration de résultats déposée au titre de cet exercice, l'intérêt de retard prévu à l'article 1727 et la majoration prévue à l'article 1731 du même code sont appliqués à l'excédent indûment remboursé.

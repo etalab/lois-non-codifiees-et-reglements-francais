@@ -1,0 +1,3 @@
+# Article 9
+
+Au vu des listes établies par les jurys des concours, le ministre de la défense arrête la liste des candidats admis et oriente chacun d'eux en qualité d'élève officier de l'air, d'élève officier mécanicien de l'air ou d'élève officier des bases de l'air, compte tenu du nombre de places offertes par l'arrêté prévu à l'article 10, du rang de classement ou de la nature du titre détenu, des préférences exprimées au moment du dépôt des candidatures, des conditions d'âges prévues aux articles 4 et 5 et des conditions d'aptitude définies, pour chaque corps, par arrêté du ministre de la défense.

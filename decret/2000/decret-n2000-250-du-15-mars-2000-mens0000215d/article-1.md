@@ -150,12 +150,6 @@ Saint-Etienne.
 
 Strasbourg.
 
-Strasbourg-I.
-
-Strasbourg-II.
-
-Strasbourg-III.
-
 Toulon.
 
 Toulouse-I.

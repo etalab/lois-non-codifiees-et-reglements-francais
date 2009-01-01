@@ -1,0 +1,3 @@
+# Article 93
+
+Les entreprises qui estiment que le montant des acomptes d'impôt sur les sociétés mentionnés à l'article 1668 du code général des impôts versés au titre d'un exercice clos au plus tard le 30 septembre 2009 et pour lequel la liquidation de l'impôt n'est pas intervenue excède la cotisation totale d'impôt sur les sociétés dû au titre de cet exercice peuvent demander le remboursement de cet excédent dès le lendemain de la clôture. Toutefois, lorsque le montant non remboursé des acomptes est inférieur à 80 % du montant de la cotisation totale d'impôt sur les sociétés, l'intérêt de retard prévu à l'article 1727 et la majoration prévue à l'article 1731 du même code sont appliqués à l'excédent d'acomptes indûment remboursés.

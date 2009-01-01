@@ -1,0 +1,3 @@
+# Article 16
+
+Les officiers et les fonctionnaires civils qui, avant le 1er janvier 2009, ont été recrutés directement au grade de contrôleur des armées et qui, en raison de l'indice qu'ils détenaient avant leur nomination dans le corps du contrôle général des armées, ont bénéficié d'une indemnité compensatrice, sont classés, à compter du 1er janvier 2009, dans un échelon du grade de contrôleur des armées correspondant à cet indice ou, à défaut, à l'indice immédiatement supérieur. Ceux qui, dans leur corps d'origine ou au titre d'un statut d'emploi occupé depuis moins de trois ans, bénéficiaient d'un indice supérieur à l'indice de l'échelon terminal du grade de contrôleur des armées, sont rétablis dans le bénéfice de cet indice.

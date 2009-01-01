@@ -83,7 +83,7 @@ Direction départementale de l'équipement de la Guyane
 </tr>
 <tr>
 <td valign="top">
-<p align="left">Chef du service des constructions publiques</p>
+<p align="left">Adjoint au chef du service habitat, aménagement, urbanisme et construction </p>
 </td>
 <td>
 <p align="center">A</p>
@@ -97,7 +97,7 @@ Direction départementale de l'équipement de la Guyane
 </tr>
 <tr>
 <td valign="top">
-<p align="left">Chef de la cellule ville, chargé des problèmes d'insalubrité et du logement social</p>
+<p align="left">Chef de cellule ville, chargé des problèmes d'insalubrité et du logement social</p>
 </td>
 <td>
 <p align="center">A</p>

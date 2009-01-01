@@ -1,0 +1,3 @@
+# Article 46
+
+A compter du 1er janvier 2010 et jusqu'au 1er janvier 2015, le Gouvernement présente annuellement au Parlement un rapport dressant un bilan statistique de la mise en oeuvre de la mesure d'accompagnement social personnalisé mentionnée à l'article L. 271-1 du code de l'action sociale et des familles ainsi que des évolutions du nombre de mesures de protection judiciaire des majeurs. Ce rapport indique les coûts respectivement supportés par l'Etat, les organismes versant les prestations sociales aux majeurs protégés ainsi que les collectivités débitrices et il expose, en cas d'alourdissement constaté des charges supportées par les départements, les compensations financières auxquelles l'Etat a procédé en lois de finances.

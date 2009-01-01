@@ -1,3 +1,5 @@
 # Article 6
 
-Une décision du procureur général près la cour d'appel dans le ressort de laquelle sont établis les offices intéressés , après avis de la commission de localisation des offices d'huissier de justice, pourra exceptionnellement étendre la compétence des huissiers de justice au ressort d'un ou de plusieurs tribunaux d'instance autres que celui de leur résidence et dépendant territorialement du même tribunal de grande instance, en toutes matières, à l'exception des affaires pénales et de celles portées devant le tribunal d'instance jusqu'à la signification incluse du jugement sur le fond.
+Au cas où il n'existe qu'un huissier de justice dans le ressort d'un tribunal de grande instance, le premier président de la cour d'appel peut, si l'intérêt des parties l'exige, autoriser un huissier de justice établi dans le ressort d'un tribunal voisin dépendant territorialement de la même cour d'appel à faire les actes prévus aux premier et deuxième alinéas de l'article 1er de l'ordonnance du 2 novembre 1945 susvisée.
+
+A défaut d'huissier de justice dans le ressort d'un tribunal de grande instance, lesdits actes sont faits par les huissiers de justice établis dans les ressorts des tribunaux de grande instance limitrophes dépendant territorialement de la même cour d'appel.

@@ -2,11 +2,11 @@
 
 1. Bénéficient du taux moyen annuel de la première catégorie fixé à l'article 1er du présent arrêté les secrétaires généraux d'académie affectés dans les académies suivantes :
 
-Créteil, Lille et Versailles.
+Créteil, Lille et Versailles, Aix-Marseille, Bordeaux, Lyon, Grenoble, Nantes, Rennes, Toulouse, Montpellier, Orléans-Tours, Nancy-Metz.
 
 2. Bénéficient du taux moyen annuel de la deuxième catégorie fixé à l'article 1er du présent arrêté les secrétaires généraux d'académie affectés dans les académies suivantes :
 
-Aix-Marseille, Bordeaux, Grenoble, Lyon, Montpellier, Nancy-Metz, Nantes, Orléans-Tours, Paris, Rennes et Toulouse.
+Paris,  Amiens, Nice, Poitiers, Rouen, Strasbourg, Dijon, Caen, Reims, La Réunion.
 
 3. Bénéficient du taux moyen annuel de la troisième catégorie fixé à l'article 1er du présent arrêté les secrétaires généraux d'académie affectés dans les académies autres que celles citées aux 1 et 2 de la présente annexe.
 

@@ -2,89 +2,190 @@
 
 Les taux maximaux annuels de l'indemnité prévue à l'article 6 du décret du 28 septembre 1972 susvisé sont fixés ainsi qu'il suit :
 
-<div align="center">
-
+<div align="left">
 <table>
 <tbody>
 <tr>
-<th>CLASSEMENT DES ÉTABLISSEMENTS<br/>
+<th>
+<font size="1">NOMBRE D'ÉTABLISSEMENTS </font>
+<p>
+<font size="1">au sein de l'agence</font>
+</p>
+<p>
+<font size="1">comptable<br/>
+</font>
+</p>
 </th>
-<th>TAUX<br/>(en euros)<br/>
+<th>
+<br/>
+<font size="1">CHIFFRE TOTAL </font>
+<p>
+<font size="1">des recettes budgétaires<br/>
+</font>
+</p>
+</th>
+<th>
+<br/>
+<font size="1">TAUX </font>
+<p>
+<font size="1">(en euros)<br/>
+</font>
+</p>
 </th>
 </tr>
 <tr>
-<td align="center">Première catégorie : moins de 152 450 €<br/>
+<td align="center">
+<br/>1<br/>
 </td>
-<td align="center">1 829,39<br/>
+<td align="center">
+<br/>Moins de 1 500 000 euros<br/>
 </td>
-</tr>
-<tr>
-<td align="center">Deuxième catégorie : de 152 450 à 304 899 €<br/>
-</td>
-<td align="center">1 966,59<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Troisième catégorie : de 304 900 à 457 349 €<br/>
-</td>
-<td align="center">2 027,57<br/>
+<td align="center">
+<br/>1 100<br/>
 </td>
 </tr>
 <tr>
-<td align="center">Quatrième catégorie : de 457 350 à 609 799 €<br/>
+<td align="center"/>
+<td align="center">
+<br/>1 500 000 euros ou plus <br/>
 </td>
-<td align="center">2 103,80<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Cinquième catégorie : de 609 800 à 762 239 €<br/>
-</td>
-<td align="center">2 180,02<br/>
+<td align="center">
+<br/>1 300<br/>
 </td>
 </tr>
 <tr>
-<td align="center">Sixième catégorie : de 762 240 à 1 067 139 €<br/>
+<td align="center">
+<br/>2<br/>
 </td>
-<td align="center">2 256,25<br/>
+<td align="center">
+<br/>Moins de 1 500 000 euros<br/>
 </td>
-</tr>
-<tr>
-<td align="center">Septième catégorie : de 1 067 140 à 1 524 489 €<br/>
-</td>
-<td align="center">2 332,47<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Huitième catégorie : de 1 524 490 à 1 981 839 €<br/>
-</td>
-<td align="center">2 423,94<br/>
+<td align="center">
+<br/>2 300<br/>
 </td>
 </tr>
 <tr>
-<td align="center">Neuvième catégorie : de 1 981 840 à 2 439 179 €<br/>
+<td align="center"/>
+<td align="center">
+<br/>1 500 000 euros ou plus <br/>
 </td>
-<td align="center">2 530,65<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Dixième catégorie : de 2 439 180 à 2 896 529 €<br/>
-</td>
-<td align="center">2 637,37<br/>
+<td align="center">
+<br/>2 750<br/>
 </td>
 </tr>
 <tr>
-<td align="center">Onzième catégorie : de 2 896 530 à 3 353 879 €<br/>
+<td align="center">
+<br/>3<br/>
 </td>
-<td align="center">2 744,08<br/>
+<td align="center">
+<br/>Moins de 2 000 000 euros<br/>
+</td>
+<td align="center">
+<br/>4 880<br/>
 </td>
 </tr>
 <tr>
-<td align="center">Douzième catégorie : 3 353 880 € et plus<br/>
+<td align="center"/>
+<td align="center">
+<br/>De 2 000 000 à 5 000 000 euros<br/>
 </td>
-<td align="center">2 850,80<br/>
+<td align="center">
+<br/>5 600<br/>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">
+<br/>Plus de 5 000 000 euros<br/>
+</td>
+<td align="center">
+<br/>5 900<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>4<br/>
+</td>
+<td align="center">
+<br/>Moins de 2 000 000 euros<br/>
+</td>
+<td align="center">
+<br/>5 000<br/>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">
+<br/>De 2 000 000 à 5 000 000 euros<br/>
+</td>
+<td align="center">
+<br/>5 600<br/>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">
+<br/>Plus de 5 000 000 euros<br/>
+</td>
+<td align="center">
+<br/>6 100<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>5<br/>
+</td>
+<td align="center">
+<br/>Moins de 5 000 000 euros<br/>
+</td>
+<td align="center">
+<br/>5 900<br/>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">
+<br/>5 000 000 euros ou plus <br/>
+</td>
+<td align="center">
+<br/>6 400<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>6<br/>
+</td>
+<td align="center">
+<br/>Moins de 5 000 000 euros<br/>
+</td>
+<td align="center">
+<br/>7 600<br/>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">
+<br/>5 000 000 euros ou plus <br/>
+</td>
+<td align="center">
+<br/>8 200<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>7<br/>
+</td>
+<td align="center">
+<br/>-<br/>
+</td>
+<td align="center">
+<br/>8 700<br/>
 </td>
 </tr>
 </tbody>
 </table>
+</div>
+<div align="left">Pour les agences regroupant huit établissements ou plus, le montant annuel maximal de l'indemnité de caisse et de responsabilité est de 8 700 euros majoré de 500 euros par établissement supplémentaire au-delà de sept. </div>
+<div>
 
 </div>

@@ -1,0 +1,3 @@
+# Article 6
+
+Les agents contractuels recrutés en application de l'article 27 de la loi du 11 janvier 1984 susvisée et qui ont vocation à être titularisés dans les corps soit des adjoints administratifs d'administration centrale du ministère de la justice, soit des adjoints administratifs des services judiciaires, soit des adjoints administratifs des services déconcentrés de l'administration pénitentiaire, soit des adjoints administratifs des services déconcentrés de la direction de la protection judiciaire de la jeunesse ou soit des adjoints administratifs de la grande chancellerie de la Légion d'honneur sont maintenus en fonctions et ont vocation à être titularisés dans le corps des adjoints administratifs du ministère de la justice.

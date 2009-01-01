@@ -1,0 +1,3 @@
+# Article 4
+
+Les adjoints administratifs d'administration centrale du ministère de la justice, les adjoints administratifs des services judiciaires, les adjoints administratifs des services déconcentrés de l'administration pénitentiaire, les adjoints administratifs des services déconcentrés de la direction de la protection judiciaire de la jeunesse et les adjoints administratifs de la grande chancellerie de la Légion d'honneur stagiaires poursuivent leur stage dans le corps des adjoints administratifs du ministère de la justice, en qualité d'adjoints administratifs du ministère de la justice stagiaires.

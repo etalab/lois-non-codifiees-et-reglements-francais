@@ -1,0 +1,5 @@
+# Article 34
+
+Lors des recrutements prévus aux articles 4, 5, 11 et 17 et lors des avancements de grade, les officiers sont classés au 1er échelon de leur nouveau grade. Dans le cas où ce classement a pour effet d'attribuer aux officiers un indice inférieur à celui qu'ils détenaient précédemment, ils conservent leur ancien indice à titre personnel jusqu'à ce qu'ils atteignent dans le corps un échelon comportant un indice au moins égal.
+
+Lors des recrutements prévus à l'article 16, les officiers sont classés à l'échelon de leur grade comportant un indice égal ou, à défaut, immédiatement supérieur à celui qu'ils détenaient précédemment et sont considérés, pour l'avancement d'échelon, comme bénéficiant d'une ancienneté égale à celle prévue par le présent décret pour atteindre l'échelon du grade dans lequel ils ont été classés. Toutefois, si le grade ne comporte que des indices inférieurs à celui détenu précédemment, les officiers sont classés à l'échelon terminal du grade et conservent leur ancien indice à titre personnel, jusqu'à ce qu'ils atteignent dans le corps un échelon comportant un indice au moins égal.

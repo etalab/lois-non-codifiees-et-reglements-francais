@@ -41,3 +41,31 @@ II.-L'âge prévu au premier alinéa du I du présent article est abaissé :
 4° A cinquante-huit ans pour ceux qui ont accompli, dans les conditions prévues au 1°, une durée d'assurance ou de périodes reconnues équivalentes au moins égale à la limite définie au deuxième alinéa du I de l'article 85 ci-dessous diminuée de 70 trimestres et une durée d'assurance ayant donné lieu à cotisations à leur charge au moins égale à cette même limite diminuée de 90 trimestres ;
 
 5° A cinquante-neuf ans pour ceux qui ont accompli, dans les conditions prévues au 1°, une durée d'assurance ou de périodes reconnues équivalentes au moins égale à la limite définie au deuxième alinéa du I de l'article 85 ci-dessous diminuée de 80 trimestres et une durée d'assurance ayant donné lieu à cotisations à leur charge au moins égale à cette même limite diminuée de 100 trimestres.
+
+III.-1° L'âge de soixante ans mentionné au I est abaissé pour les assurés relevant du régime spécial de retraite des clercs et employés de notaires qui justifient, dans ce régime et, le cas échéant, dans un ou plusieurs autres régimes obligatoires, d'une durée d'assurance, ou de périodes reconnues équivalentes, au moins égale à la durée nécessaire pour obtenir le pourcentage maximum de la pension prévue au I de l'article 85 du présent décret et applicable l'année où l'assuré atteint l'âge précité, majorée de huit trimestres :
+
+a) A cinquante-six ans pour les assurés qui justifient d'une durée d'activité ayant donné lieu à cotisations à leur charge au moins égale à la durée d'assurance définie au premier alinéa du présent III, et ayant commencé leur activité avant l'âge de seize ans ;
+
+b) A cinquante-huit ans pour les assurés qui justifient d'une durée d'activité ayant donné lieu à cotisations à leur charge au moins égale à la durée d'assurance définie au premier alinéa du présent III, minorée de quatre trimestres, et ayant commencé leur activité avant l'âge de seize ans ;
+
+c) A cinquante-neuf ans pour les assurés qui justifient d'une durée d'activité ayant donné lieu à cotisations à leur charge au moins égale à la durée d'assurance définie au premier alinéa du présent III, minorée de huit trimestres, et ayant commencé leur activité avant l'âge de dix-sept ans.
+
+Pour l'application de la condition d'âge de début d'activité définie aux a, b et c, sont considérés comme ayant commencé leur activité avant l'âge de seize ou dix-sept ans les assurés justifiant :
+
+-soit d'une durée d'assurance d'au moins cinq trimestres à la fin de l'année au cours de laquelle est survenu, respectivement, leur seizième ou leur dix-septième anniversaire ;
+
+-soit, s'ils sont nés au cours du quatrième trimestre et ne justifient pas de la durée d'assurance prévue à l'alinéa précédent, d'une durée d'assurance d'au moins quatre trimestres au titre de l'année au cours de laquelle est survenu, respectivement, leur seizième ou leur dix-septième anniversaire.
+
+Pour l'application de la condition de durée d'activité ayant donné lieu à cotisations à la charge des assurés définie aux a, b et c, sont réputées avoir donné lieu à cotisations :
+
+-les périodes de service national, à raison d'un trimestre par période d'au moins quatre-vingt-dix jours, consécutifs ou non. Lorsque la période couvre deux années civiles, elle peut être affectée à l'une ou l'autre de ces années, la solution la plus favorable étant retenue ;
+
+-les périodes pendant lesquelles les assurés ont été placés en congé de maladie ainsi que les périodes comptées comme périodes d'assurance dans un ou plusieurs autres régimes obligatoires au titre de la maladie, de la maternité et de l'inaptitude temporaire.
+
+Ces périodes sont retenues respectivement dans la limite de quatre trimestres et sans que le nombre de trimestres ayant donné lieu à cotisations ou réputés tels puisse excéder quatre pour une même année civile.
+
+Pour l'application de cette même condition de durée d'activité ayant donné lieu à cotisations à la charge des assurés, il est retenu un nombre de trimestres au plus égal à quatre au titre de chaque année civile au cours de laquelle l'assuré a été affilié successivement ou simultanément à plusieurs des régimes considérés.
+
+Pour l'application de la condition de durée d'assurance ou de périodes reconnues équivalentes définie au premier alinéa, sont prises en compte les majorations de durée d'assurance mentionnées à l'article 92.
+
+2° L'année au cours de laquelle sont réunies les conditions définies au 1° du présent article est l'année retenue pour l'application des dispositions du I et du II de l'article 85-2, à condition que l'assuré demande à bénéficier des dispositions du présent article avant son soixantième anniversaire.

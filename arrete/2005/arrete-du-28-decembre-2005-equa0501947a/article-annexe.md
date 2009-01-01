@@ -41,7 +41,7 @@ I. - La valeur des coefficients de proportionnalité "k" mentionnés dans le pr�
 <p>Redevance d'exploitant d'aéronefs.</p>
 </td>
 <td valign="top" width="151">
-<p align="center">k<sub>4</sub> = 248<br/>k<sub>5</sub> = 124</p>
+<p align="center">k<sub>4</sub> = 287<br/>k<sub>5</sub> = 143</p>
 </td>
 </tr>
 <tr>
@@ -49,7 +49,7 @@ I. - La valeur des coefficients de proportionnalité "k" mentionnés dans le pr�
 <p>Redevance de sécurité et de sûreté d'exploitant d'aérodrome.</p>
 </td>
 <td valign="top" width="151">
-<p align="center">k<sub>6</sub> = 1,12<br/>k<sub>7</sub> = 0,31</p>
+<p align="center">k<sub>6</sub> = 1,14<br/>k<sub>7</sub> = 0,32</p>
 </td>
 </tr>
 <tr>
@@ -57,7 +57,7 @@ I. - La valeur des coefficients de proportionnalité "k" mentionnés dans le pr�
 <p>Redevance de sûreté aérienne de transporteur.</p>
 </td>
 <td valign="top" width="151">
-<p align="center">K<sub>8</sub> = 0,75</p>
+<p align="center">K<sub>8</sub> = 0,80</p>
 </td>
 </tr>
 <tr>
@@ -65,7 +65,7 @@ I. - La valeur des coefficients de proportionnalité "k" mentionnés dans le pr�
 <p>Redevance d'organisme de formation de personnel navigant.</p>
 </td>
 <td valign="top" width="151">
-<p align="center">k<sub>9</sub> = 700</p>
+<p align="center">k<sub>9</sub> = 750</p>
 </td>
 </tr>
 <tr>
@@ -79,14 +79,12 @@ I. - La valeur des coefficients de proportionnalité "k" mentionnés dans le pr�
 </tbody>
 </table>
 
-Dans le tableau ci-dessus, le montant de Th est fixé au VI ci-dessous.
+Dans le tableau ci-dessus, le montant de Th est fixé au V ci-dessous.
 
-II. - Le plafond du montant de la redevance d'exploitant d'aéronefs, mentionné à l'article 5 du présent arrêté, est fixé à 6 000 000 €.
+II. - Le plafond du montant de la redevance d'exploitant d'aéronef mentionné à l'article 5 du présent arrêté est fixé à 6 150 000 €.
 
-III. - Le seuil mentionné à l'article 7 du présent arrêté, en dessous duquel la redevance de sûreté aérienne de transporteur n'est pas due, est fixé à 1 000 000 de passagers.
+III. - La valeur du coefficient N mentionné à l'article 12 est fixée à 8,81.
 
-IV. - La valeur du coefficient N mentionné à l'article 12 est fixée à 8,81.
+IV. - Le tarif des frais d'édition des documents mentionnés à l'article 12 du présent arrêté est fixé, par édition d'un document, à 50 €.
 
-V. - Le tarif des frais d'édition des documents mentionnés à l'article 12 du présent arrêté est fixé, par édition d'un document, à 50 €.
-
-VI. - La valeur du taux horaire mentionné dans le présent arrêté est fixée à 129 €.
+V. - La valeur du taux horaire mentionné dans le présent arrêté est fixée à 129 €.

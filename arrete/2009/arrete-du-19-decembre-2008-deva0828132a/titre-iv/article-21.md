@@ -1,0 +1,3 @@
+# Article 21
+
+Les DSAC/IR sont chargées de prendre toutes les actions, les mesures et les décisions requises à l'égard des personnes physiques ou morales publiques ou privées soumises aux exigences des textes communautaires et nationaux en matière de suivi économique et financier, de sécurité, de sûreté et d'environnement pour celles de ces actions, mesures et décisions qui relèvent des préfets de zone, des préfets de région et des préfets de département, selon les méthodes et les procédures définies par ces autorités administratives ou par la direction du transport aérien lorsque elle est en charge des politiques correspondantes. Elles instruisent les décisions administratives correspondantes ou les prennent lorsque qu'elles leur ont été déléguées.

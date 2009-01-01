@@ -1,0 +1,3 @@
+# Article 1
+
+Pour les contrats d'avenir conclus avant le 31 décembre 2008 avec des ateliers et chantiers d'insertion conventionnés par l'Etat, la rémunération brute mentionnée à l'article D. 5134-78 du code du travail et versée pour les mois de janvier 2008 à  décembre 2008 s'entend du salaire et des cotisations dues par l'employeur au titre de l'assurance chômage, des accidents du travail et maladies professionnelles et de la protection complémentaire au sens de l'article L. 911-2 du code de la sécurité sociale, lorsque celles-ci résultent de dispositions législatives ou réglementaires ou d'accords collectifs rendus obligatoires par des dispositions législatives ou réglementaires.

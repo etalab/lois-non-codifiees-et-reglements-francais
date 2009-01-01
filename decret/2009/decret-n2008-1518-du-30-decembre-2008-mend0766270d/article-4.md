@@ -1,0 +1,3 @@
+# Article 4
+
+Les fonctionnaires maintenus dans leurs fonctions et détachés dans un emploi d'administrateur de l'éducation nationale, de l'enseignement supérieur et de la recherche, en application des dispositions de l'article 3, ne peuvent être, à l'issue de leur détachement, renouvelés dans le même emploi que pour une nouvelle période de cinq ans. A l'issue de cette nouvelle période, ceux qui se trouvent dans la position de solliciter la liquidation de leur droit à pension dans un délai de deux ans peuvent bénéficier d'une prolongation exceptionnelle de détachement dans le même emploi pour une durée de deux ans maximum.

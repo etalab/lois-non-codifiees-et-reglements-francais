@@ -3,7 +3,8 @@
 <table>
 <tbody>
 <tr>
-<th>DÉSIGNATION DE L'EMPLOI <p>justifiant de l'obtention </p>
+<th>
+<br/>DÉSIGNATION DE L'EMPLOI <p>justifiant de l'obtention </p>
 <p>de la nouvelle bonification indiciaire <br/>
 </p>
 </th>
@@ -25,16 +26,17 @@
 </tr>
 <tr>
 <td align="center">
-<br/>Responsable du budget et / ou du contrôle de gestion et / ou des moyens généraux et / ou du service du personnel et / ou du contentieux d'une direction <br/>
+<p align="center">Responsable du budget et / ou du contrôle de gestion et / ou des moyens généraux et / ou du service du personnel et / ou du contentieux d'une direction</p>
 </td>
 <td align="center">
-<br/>A <br/>
+<p align="center">A</p>
 </td>
 <td align="center">
-<br/>2 <br/>
+<p align="center">2</p>
+<p align="center">1 (5)</p>
 </td>
 <td align="center">
-<br/>40 <br/>
+<p align="center">40</p>
 </td>
 </tr>
 <tr>
@@ -126,27 +128,32 @@
 <br/>Agent ayant un pouvoir de décision, d'animation et de coordination du niveau d'un responsable d'unité ou assistant d'un chef de service <br/>
 </td>
 <td align="center">
-<br/>A <br/>
+<p align="center">A</p>
 </td>
 <td align="center">
-<br/>51 (1)<br/>
+<p align="center">52</p>
+<p align="center">54 (3)</p>
+<p align="center">55 (4)</p>
+<p align="center">57 (5)</p>
 </td>
 <td align="center">
-<br/>30 <br/>
+<p align="center">
+<br/>30</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef de projet <br/>
+<p align="center">Chef de projet</p>
 </td>
 <td align="center">
 <br/>A <br/>
 </td>
 <td align="center">
-<br/>2 <br/>
+<p align="center">2</p>
+<p align="center">1 (3)</p>
 </td>
 <td align="center">
-<br/>30 <br/>
+<p align="center">30</p>
 </td>
 </tr>
 <tr>
@@ -193,7 +200,7 @@
 </tr>
 <tr>
 <td align="center">
-<br/>Développeur micro-informatique pour le réseau habitat de l'ensemble des directions régionales et pour le réseau équipement <br/>
+<br/>Développeur micro informatique pour le réseau habitat de l'ensemble des directions régionales et pour le réseau équipement <br/>
 </td>
 <td align="center">
 <br/>B <br/>
@@ -207,13 +214,13 @@
 </tr>
 <tr>
 <td align="center">
-<br/>Agent assurant, par délégation d'un chef d'unité, la gestion d'un secteur d'activité comportant une technicité particulièrement étendue en termes de connaissance bancaire ou des marchés financiers <br/>
+<br/>Agent assurant, par délégation d'un chef d'unité, la gestion d'un secteur d'activité comportant une technicité particulièrement étendue en termes de connaissances bancaires ou des marchés financiers <br/>
 </td>
 <td align="center">
 <br/>B <br/>
 </td>
 <td align="center">
-<br/>17 <br/>
+<br/>16 <br/>
 </td>
 <td align="center">
 <br/>25 <br/>
@@ -269,7 +276,7 @@
 <br/>B <br/>
 </td>
 <td align="center">
-<br/>2 <br/>
+<br/>1 <br/>
 </td>
 <td align="center">
 <br/>25 <br/>
@@ -297,7 +304,7 @@
 <br/>B <br/>
 </td>
 <td align="center">
-<br/>34 <br/>
+<br/>38 <br/>
 </td>
 <td align="center">
 <br/>20 <br/>
@@ -325,7 +332,7 @@
 <br/>B <br/>
 </td>
 <td align="center">
-<br/>15 <br/>
+<br/>19 <br/>
 </td>
 <td align="center">
 <br/>20 <br/>
@@ -381,7 +388,7 @@
 <br/>B <br/>
 </td>
 <td align="center">
-<br/>6 <br/>
+<br/>5 <br/>
 </td>
 <td align="center">
 <br/>20 <br/>
@@ -389,13 +396,13 @@
 </tr>
 <tr>
 <td align="center">
-<br/>Gestionnaire de plusieurs systèmes d'information <br/>
+<br/>Gestionnaire de plusieurs systèmes d'information..<br/>
 </td>
 <td align="center">
 <br/>B <br/>
 </td>
 <td align="center">
-<br/>38 <br/>
+<br/>36 <br/>
 </td>
 <td align="center">
 <br/>20 <br/>
@@ -409,7 +416,7 @@
 <br/>B <br/>
 </td>
 <td align="center">
-<br/>45 <br/>
+<br/>49 <br/>
 </td>
 <td align="center">
 <br/>20 <br/>
@@ -423,7 +430,7 @@
 <br/>B <br/>
 </td>
 <td align="center">
-<br/>38 <br/>
+<br/>39 <br/>
 </td>
 <td align="center">
 <br/>20 <br/>
@@ -501,16 +508,18 @@
 </tr>
 <tr>
 <td align="center">
-<br/>Chargé de la communication d'un département ou d'une direction <br/>
+<p align="center">Chargé de la communication d'un département ou d'une direction</p>
 </td>
 <td align="center">
-<br/>B <br/>
+<p align="center">B</p>
 </td>
 <td align="center">
-<br/>8 (1)<br/>
+<p align="center">8</p>
+<p align="center">10 (4)</p>
 </td>
 <td align="center">
-<br/>20 </td>
+<p align="center">20</p>
+</td>
 </tr>
 <tr>
 <td align="center">
@@ -528,7 +537,7 @@
 </tr>
 <tr>
 <td align="center">
-<br/>Responsable du standard de Paris <br/>
+<br/>Responsable du standard de Paris....<br/>
 </td>
 <td align="center">
 <br/>B <br/>
@@ -590,7 +599,7 @@
 <br/>B <br/>
 </td>
 <td align="center">
-<br/>25 <br/>
+<br/>24 <br/>
 </td>
 <td align="center">
 <br/>20 <br/>
@@ -618,7 +627,7 @@
 <br/>B <br/>
 </td>
 <td align="center">
-<br/>8 <br/>
+<br/>6 <br/>
 </td>
 <td align="center">
 <br/>20 <br/>
@@ -632,7 +641,7 @@
 <br/>B <br/>
 </td>
 <td align="center">
-<br/>6 <br/>
+<br/>7 <br/>
 </td>
 <td align="center">
 <br/>20 <br/>
@@ -654,21 +663,23 @@
 </tr>
 <tr>
 <td align="center">
-<br/>Gestionnaire expert <br/>
+<p align="center">Gestionnaire expert</p>
 </td>
 <td align="center">
-<br/>B <br/>
+<p align="center">B</p>
 </td>
 <td align="center">
-<br/>103 (1)<br/>
+<p align="center">95</p>
+<p align="center">94 (3)</p>
+<p align="center">90 (4)</p>
 </td>
 <td align="center">
-<br/>15 <br/>
+<p align="center">15</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Responsable du contentieux et des affaires générales au sein d'une unité administrative chargée de la gestion d'un fonds de la branche caisses de retraites de Bordeaux <br/>
+<br/>Responsable du contentieux et des affaires générales au sein d'une unité administrative chargée de la gestion d'un fonds de la branche caisses de retraite de Bordeaux <br/>
 </td>
 <td align="center">
 <br/>B <br/>
@@ -688,7 +699,7 @@
 <br/>B <br/>
 </td>
 <td align="center">
-<br/>23 <br/>
+<br/>22 <br/>
 </td>
 <td align="center">
 <br/>15 <br/>
@@ -702,7 +713,7 @@
 <br/>B <br/>
 </td>
 <td align="center">
-<br/>159 (1)<br/>
+<br/>158 <br/>
 </td>
 <td align="center">
 <br/>15 <br/>
@@ -716,13 +727,21 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<br/>10 <br/>
+<p>9</p>
+<p>8 (2)</p>
 </td>
 <td align="center">
-<br/>15<br/>
-</td>
+<br/>15</td>
 </tr>
 </tbody>
 </table>
 
-(1) Le nombre d'emplois éligibles était pour chaque emploi désigné respectivement de 50, 7, 105, et 160 au 1er janvier 2008.
+(1) A compter du 1er janvier 2009
+
+(2) A compter du 1er février 2009
+
+(3) A compter du 1er mars 2009
+
+(4) A compter du 1er avril 2009
+
+(5) A compter du 1er mai 2009

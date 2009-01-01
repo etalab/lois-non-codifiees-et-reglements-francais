@@ -1,0 +1,5 @@
+# Article 2
+
+I. ― Le module I de la formation est obligatoire pour tout candidat souhaitant suivre le module II et ne répondant pas aux conditions de l'annexe III. Ce module concerne la connaissance des matériels de pulvérisation, l'initiation au protocole de contrôle et les relations entre l'inspecteur et son client. Sa durée minimale est de trois jours et une demi-journée. Il donne lieu à une évaluation écrite. Une attestation de réussite à l'épreuve est délivrée, s'il y a lieu, par les centres de formation.
+
+II. ― Le module II de la formation est obligatoire pour obtenir le certificat d'inspecteur pour les pulvérisateurs à rampe et pour arbres et arbustes. Ce module concerne le cadre de l'exercice du métier d'inspecteur, la maîtrise du protocole, la santé et la sécurité de l'inspecteur et le bon fonctionnement des matériels de contrôle. Il est d'une durée minimale de deux jours. Il donne lieu à une évaluation pratique et orale. Le certificat est délivré par les centres de formation aux candidats ayant satisfait à cette évaluation.

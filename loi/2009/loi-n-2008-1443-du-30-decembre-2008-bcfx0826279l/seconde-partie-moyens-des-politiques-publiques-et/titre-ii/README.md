@@ -1,0 +1,3 @@
+# TITRE II : RATIFICATION DE DECRETS D'AVANCE
+
+- [Article 21](article-21.md)

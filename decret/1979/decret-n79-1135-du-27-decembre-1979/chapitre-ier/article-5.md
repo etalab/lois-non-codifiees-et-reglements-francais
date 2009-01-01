@@ -2,18 +2,18 @@
 
 Les grades mentionnés à l'article 4 comportent les échelons ci-après :
 
-Ingénieur de 3e classe : trois échelons ;
+- ingénieur de 3e classe : un échelon ;
 
-Ingénieur de 2e classe : cinq échelons ;
+- ingénieur de 2e classe : quatre échelons ;
 
-Ingénieur de 1re classe : cinq échelons ;
+- ingénieur de 1re classe : cinq échelons et un échelon exceptionnel ;
 
-Ingénieur principal : trois échelons ;
+- ingénieur principal : quatre échelons et deux échelons exceptionnels ;
 
-Ingénieur en chef de 2e classe : quatre échelons ;
+- ingénieur en chef de 2e classe : quatre échelons et deux échelons exceptionnels ;
 
-Ingénieur en chef de 1re classe : deux échelons et deux échelons exceptionnels ;
+- ingénieur en chef de 1re classe : trois échelons et un échelon exceptionnel ;
 
-Ingénieur général de 2e classe : un échelon et un échelon exceptionnel ;
+- ingénieur général de 2e classe : un échelon ;
 
-Ingénieur général de 1re classe : deux échelons.
+- ingénieur général de 1re classe : un échelon.

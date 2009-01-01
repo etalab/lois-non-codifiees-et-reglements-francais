@@ -1,0 +1,3 @@
+# Article 15
+
+Les agents contractuels recrutés en application de l'article 27 de la loi du 11 janvier 1984 susvisée et qui ont vocation à être titularisés dans les corps soit des adjoints techniques d'administration centrale du ministère de la justice, soit des adjoints techniques des services judiciaires, soit des adjoints techniques des services déconcentrés de la direction de la protection judiciaire de la jeunesse, soit des adjoints techniques de la grande chancellerie de la Légion d'honneur sont maintenus en fonctions et ont vocation à être titularisés dans le corps des adjoints techniques du ministère de la justice.
