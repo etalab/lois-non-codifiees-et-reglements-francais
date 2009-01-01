@@ -1014,7 +1014,6 @@
 - [Arrêté du 26 décembre 2007 (IOCA0770229A)](arrete-du-26-decembre-2007-ioca0770229a)
 - [Arrêté du 26 décembre 2007 (MAEA0774086A)](arrete-du-26-decembre-2007-maea0774086a)
 - [Arrêté du 26 décembre 2007 (MAEA0774198A)](arrete-du-26-decembre-2007-maea0774198a)
-- [Arrêté du 26 décembre 2007 (MTSS0772751A)](arrete-du-26-decembre-2007-mtss0772751a)
 - [Arrêté du 26 décembre 2007 (SJSH0773175A)](arrete-du-26-decembre-2007-sjsh0773175a)
 - [Arrêté du 26 février 2007 (CPTX0710026A)](arrete-du-26-fevrier-2007-cptx0710026a)
 - [Arrêté du 26 février 2007 (ECOP0700012A)](arrete-du-26-fevrier-2007-ecop0700012a)
