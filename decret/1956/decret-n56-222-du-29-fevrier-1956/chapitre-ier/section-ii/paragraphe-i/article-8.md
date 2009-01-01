@@ -1,3 +1,0 @@
-# Article 8
-
-Par dérogation aux dispositions qui précèdent et en cas de difficultés exceptionnelles de communications dans le ressort d'un tribunal d'instance dépourvu d'huissier de justice et le reste du ressort du tribunal de grande instance dans lequel il est compris, le procureur général près la cour d'appel dans le ressort de laquelle est situé ce tribunal d'instance pourra autoriser à instrumenter dans cette circonscription les huissiers établis dans le ressort des tribunaux d'instance limitrophes, non situés dans le ressort du même tribunal de grande instance ou de la même cour d' appel.
