@@ -1,8 +1,8 @@
 # Article 10 bis
 
-I. - Lors de sa demande d'immatriculation, la personne physique mariée sous un régime de communauté légale ou conventionnelle fournit un justificatif, conformément au modèle défini par arrêté du garde des sceaux, ministre de la justice, établissant que son conjoint a été informé des conséquences sur les biens communs des dettes contractées dans l'exercice de sa profession.
+I. - Lors de sa demande d'immatriculation ou de la déclaration d'activité effectuée en application du V de l'article 19 de la loi n° 96-603 du 5 juillet 1996 relative au développement et à la promotion du commerce et de l'artisanat, la personne physique mariée sous un régime de communauté légale ou conventionnelle fournit un justificatif, conformément au modèle défini par arrêté du garde des sceaux, ministre de la justice, établissant que son conjoint a été informé des conséquences sur les biens communs des dettes contractées dans l'exercice de sa profession.
 
-II. - Lorsqu'en application des articles L. 526-1 à L. 526-3 du code de commerce la personne physique déclare insaisissables ses droits sur l'immeuble où est fixée sa résidence principale, une mention de cette déclaration est portée au répertoire.
+II. - Lorsqu'en application des articles L. 526-1 à L. 526-3 du code de commerce la personne physique déclare insaisissables ses droits sur l'immeuble où est fixée sa résidence principale ou sur tout bien foncier non affecté à son usage professionnel, une mention de cette déclaration est portée au répertoire.
 
 Le cas échéant, la déclaration de remploi des fonds et la renonciation à la déclaration d'insaisissabilité ou de remploi, dans les conditions prévues à l'article L. 526-3 du même code, font également l'objet d'une mention.
 

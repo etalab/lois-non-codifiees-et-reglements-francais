@@ -8,4 +8,6 @@ a) L'intervention prépondérante de personnes ayant une formation professionnel
 
 b) Le travail n'est pas divisé entre les intervenants de telle façon que chacun soit affecté en permanence à un même poste comportant l'exécution de travaux parcellaires précis, de caractère généralement répétitif et étroitement limité ;
 
-2° Les travaux et ouvrages sont effectués ou réalisés pour le compte de tiers.
+2° Les travaux et ouvrages sont effectués ou réalisés pour le compte de tiers ;
+
+L'obligation d'immatriculation à la deuxième section du registre ne s'applique pas aux personnes physiques bénéficiant des dispositions du V de l'article 19 de la loi n° 96-603 du 5 juillet 1996 relative au développement et à la promotion du commerce et de l'artisanat.
