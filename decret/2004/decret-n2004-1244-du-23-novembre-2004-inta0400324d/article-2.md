@@ -10,4 +10,4 @@ Les missions et fonctions exercées par les préfets hors cadre et le montant mo
 
 4e catégorie : étude à caractère général.
 
-L'attribution individuelle de l'indemnité spécifique de fonction est égale au produit du montant moyen mensuel fixé pour la catégorie dont relève l'activité exercée et d'un coefficient de modulation compris entre 0,5 et 1,5 pour les catégories 1 et 2 et entre 0,6 et 1,4 pour les catégories 3 et 4. Chacun des coefficients est fixé par le ministre de l'intérieur selon les caractéristiques propres à l'activité et selon la manière de servir des intéressés.
+L'attribution individuelle de l'indemnité spécifique de fonction est égale au produit du montant moyen mensuel fixé pour la catégorie dont relève l'activité exercée et d'un coefficient de modulation compris entre 0,5 et 1,88 pour les catégories 1 et 2, entre 0,5 et 1,7 pour la catégorie 3 et entre 0,5 et 1,64 pour la catégorie 4. Chacun des coefficients est fixé par le ministre de l'intérieur selon les caractéristiques propres à l'activité et selon la manière de servir des intéressés.
