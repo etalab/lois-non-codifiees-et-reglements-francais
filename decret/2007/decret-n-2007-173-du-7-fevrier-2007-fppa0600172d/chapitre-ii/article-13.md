@@ -4,7 +4,7 @@ Le conseil d'administration délibère sur toutes les questions d'ordre généra
 
 1° Le règlement intérieur ;
 
-2° Les comptes annuels ;
+2° Les comptes annuels qu'il approuve dans les conditions mentionnées à l'article 22 ;
 
 3° Le budget de gestion ;
 

@@ -19,3 +19,5 @@ Ces trimestres d'études ne doivent pas avoir donné lieu à une affiliation à 
 Sur demande de l'intéressé et sur présentation de la copie du diplôme, le fonds spécial établit une proposition de rachat.
 
 Un décret fixe les modalités d'application du présent article par référence aux dispositions du décret du 26 décembre 2003 susvisé.
+
+Les versements mentionnés à l'article L. 173-7 du code de la sécurité sociale ne sont pas pris en compte pour le bénéfice des dispositions de l'article 22 bis du présent décret.

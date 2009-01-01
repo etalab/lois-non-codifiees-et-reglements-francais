@@ -2,13 +2,13 @@
 
 I.-Le droit à pension est ouvert :
 
-- à quarante ans d'âge pour les artistes du ballet ;
+-à quarante ans d'âge pour les artistes du ballet ;
 
-- à cinquante ans d'âge, pour les artistes du chant et les artistes des choeurs ;
+-à cinquante ans d'âge, pour les artistes du chant et les artistes des choeurs ;
 
-- à cinquante-cinq ans d'âge, pour les machinistes, les électriciens, les régisseurs ayant la responsabilité du spectacle et les pompiers civils ainsi que pour les emplois des autres catégories qui seraient reconnus comme comportant des fatigues exceptionnelles par arrêté conjoint des ministres chargés de la culture, de la sécurité sociale et du budget ;
+-à cinquante-cinq ans d'âge, pour les machinistes, les électriciens, les régisseurs ayant la responsabilité du spectacle et les pompiers civils ainsi que pour les emplois des autres catégories qui seraient reconnus comme comportant des fatigues exceptionnelles par arrêté conjoint des ministres chargés de la culture, de la sécurité sociale et du budget ;
 
-- à soixante ans d'âge, pour les autres catégories de personnel.
+-à soixante ans d'âge, pour les autres catégories de personnel.
 
 II.-Le droit à pension est acquis après un minimum d'un an de services effectifs au théâtre entraînant l'affiliation à la caisse de retraites dans les conditions prévues à l'article 2.
 
@@ -20,11 +20,11 @@ L'âge à partir duquel sont comptées les années de services au théâtre vala
 
 III.-Sont assimilés aux services effectifs pour le calcul de la pension :
 
-- les services militaires, à l'exclusion de ceux effectués en temps de paix avant l'âge de seize ans ;
+-les services militaires, à l'exclusion de ceux effectués en temps de paix avant l'âge de seize ans ;
 
-- les périodes mentionnées au c du 4° de l'article R. 351-12 du code de la sécurité sociale et immédiatement consécutives à une période d'affiliation à la caisse de retraites des personnels de l'Opéra national de Paris ;
+-les périodes mentionnées au c du 4° de l'article R. 351-12 du code de la sécurité sociale et immédiatement consécutives à une période d'affiliation à la caisse de retraites des personnels de l'Opéra national de Paris ;
 
-- dans les conditions prévues à l'article 13 bis du présent décret, les périodes de versement de l'indemnité de soins aux tuberculeux mentionnées à l'article L. 161-21 du code de la sécurité sociale.
+-dans les conditions prévues à l'article 13 bis du présent décret, les périodes de versement de l'indemnité de soins aux tuberculeux mentionnées à l'article L. 161-21 du code de la sécurité sociale.
 
 L'application des dispositions du présent article ne saurait conduire à la prise en compte de plus de douze mois par an.
 
@@ -45,6 +45,8 @@ Les périodes d'études ayant permis l'obtention d'un diplôme équivalent déli
 L'admission dans les grandes écoles et classes du second degré préparatoire à ces études est assimilée à l'obtention d'un diplôme.
 
 Ces trimestres ne doivent pas avoir donné lieu à une validation dans un régime de retraite de base obligatoire.
+
+Les versements mentionnés à l'article L. 173-7 du code de la sécurité sociale ne sont pas pris en compte pour le bénéfice des dispositions des articles 6 bis et 6 ter du présent décret.
 
 2° Les périodes d'interruption ou de réduction d'activité durant lesquelles les assurés ont bénéficié d'un congé de présence parentale, d'un congé parental d'éducation, d'un congé de disponibilité pour éducation d'enfants ou d'un temps partiel accordé pour élever un enfant. La durée ainsi prise en compte est limitée à un an pour les enfants nés ou adoptés avant le 1er juillet 2008 et à trois ans pour les enfants nés ou adoptés à compter de cette date. En cas de réduction d'activité, la durée prise en compte est la durée non travaillée.L'interruption d'activité doit avoir eu une durée continue d'au moins deux mois.
 

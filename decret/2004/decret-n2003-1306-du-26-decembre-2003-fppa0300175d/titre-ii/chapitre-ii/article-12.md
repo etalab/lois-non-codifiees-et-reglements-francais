@@ -19,3 +19,5 @@ Ces trimestres d'études ne doivent pas avoir donné lieu à une affiliation à 
 Sur demande du fonctionnaire et sur présentation de la copie du diplôme, la Caisse nationale de retraites des agents des collectivités locales établit une proposition de rachat.
 
 Les conditions d'application du présent article sont réglées conformément aux dispositions du décret n° 2003-1308 du 26 décembre 2003 susvisé.
+
+Les versements mentionnés à l'article L. 173-7 du code de la sécurité sociale ne sont pas pris en compte pour le bénéfice des dispositions du II de l'article 25 du présent décret.

@@ -8,7 +8,9 @@ I. - Le conseil d'administration de la caisse de retraite et de prévoyance des 
 
 3° De fixer le montant de l'encaisse que l'agent comptable est autorisé à conserver ;
 
-4° D'élaborer le règlement intérieur de la caisse, qui est approuvé par arrêté du garde des sceaux, ministre de la justice, du ministre chargé de la sécurité sociale et du ministre chargé du budget. Le règlement intérieur détermine les modalités de fonctionnement du conseil d'administration et l'organisation interne de la caisse. Il définit les formalités auxquelles sont tenus les assurés pour bénéficier des prestations et les employeurs pour s'acquitter de leurs obligations, et leur est opposable lorsqu'il a été porté à leur connaissance.
+4° D'élaborer le règlement intérieur de la caisse, qui est approuvé par arrêté du garde des sceaux, ministre de la justice, du ministre chargé de la sécurité sociale et du ministre chargé du budget. Le règlement intérieur détermine les modalités de fonctionnement du conseil d'administration et l'organisation interne de la caisse. Il définit les formalités auxquelles sont tenus les assurés pour bénéficier des prestations et les employeurs pour s'acquitter de leurs obligations, et leur est opposable lorsqu'il a été porté à leur connaissance ;
+
+5° D'approuver sur présentation du directeur et de l'agent comptable, sauf vote contraire à la majorité des deux tiers des membres, les comptes annuels du régime, au vu de l'opinion émise par l'instance chargée de la certification.
 
 II. - Le conseil d'administration, sur proposition du directeur, détermine :
 

@@ -20,8 +20,8 @@ Pour le calcul de la durée d'assurance, les périodes de services accomplis à 
 
 III. - Lorsque la durée d'assurance est supérieure au nombre de trimestres nécessaires pour obtenir le pourcentage maximum mentionné à l'article 13 et que l'intéressé a atteint l'âge de soixante ans, un coefficient de majoration s'applique au montant de la pension liquidée en application des articles 13 et 14.
 
-Le nombre de trimestres pris en compte pour ce calcul est égal, à la date de liquidation de la pension, au nombre de trimestres de services effectués après le 1er janvier 2004, au-delà de l'âge de soixante ans et en sus du nombre de trimestres nécessaires pour obtenir le pourcentage maximum mentionné à l'article 13.
+Le nombre de trimestres pris en compte pour ce calcul est égal, à la date de liquidation de la pension, au nombre de trimestres d'assurance effectués après le 1er janvier 2004, au-delà de l'âge de soixante ans et en sus du nombre de trimestres nécessaires pour obtenir le pourcentage maximum mentionné à l'article 13.
 
-Le nombre de trimestres correspondant est arrondi à l'entier supérieur.
+Sont pris en compte pour ce calcul les trimestres entiers cotisés.
 
-Le coefficient de majoration est de 0,75 % par trimestre supplémentaire, dans la limite de vingt trimestres.
+Le coefficient de majoration est de 1,25 % par trimestre supplémentaire, dans la limite de vingt trimestres.

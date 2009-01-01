@@ -1,6 +1,6 @@
 # Article 12
 
-I.-La durée des services et des bonifications prévus aux articles 6,7,10 bis,11 et 11 bis et admissibles en liquidation s'exprime en trimestres. Dans le décompte final des trimestres liquidables, la fraction de trimestre égale ou supérieure à quarante-cinq jours est comptée pour un trimestre. La fraction de trimestre inférieure à quarante-cinq jours est négligée.
+I.-La durée des services et des bonifications prévus aux articles 6, 7, 10 bis, 11 et 11 bis et admissibles en liquidation s'exprime en trimestres. Dans le décompte final des trimestres liquidables, la fraction de trimestre égale ou supérieure à quarante-cinq jours est comptée pour un trimestre. La fraction de trimestre inférieure à quarante-cinq jours est négligée.
 
 Sous réserve des dispositions du V du présent article, le nombre de trimestres nécessaire pour obtenir le pourcentage maximum de la pension est fixé à cent soixante trimestres et il évolue comme la durée des services et bonifications exigée des fonctionnaires de l'Etat pour obtenir le pourcentage maximum d'une pension civile dans les conditions définies à l'article 5 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites.
 
@@ -28,7 +28,7 @@ III.-Lorsque la durée d'assurance définie au IV ci-après est supérieure au n
 
 Le nombre de trimestres pris en compte pour ce calcul est égal, à la date de liquidation de la pension, au nombre de trimestres d'assurance au sens du IV ci-après, cotisés et effectués après le 1er juillet 2008, au-delà de l'âge de soixante ans et en sus du nombre de trimestres mentionné à l'alinéa précédent. Toutefois, lorsque l'activité est exercée à temps partiel, le nombre de trimestres ainsi déterminé est retenu pour une fraction égale à celle que définit le régime de travail autorisé.
 
-Le nombre de trimestres correspondant est arrondi à l'entier supérieur.
+Sont pris en compte pour ce calcul les trimestres entiers cotisés.
 
 Le taux du coefficient de majoration est égal, par trimestre supplémentaire dans la limite de vingt trimestres, à celui prévu pour les fonctionnaires de l'Etat en application du III de l'article L. 14 du code des pensions civiles et militaires.
 
@@ -42,7 +42,7 @@ Pour le calcul de la durée d'assurance :
 
 V.-Dispositions transitoires.
 
-La durée des services et bonifications nécessaire à l'obtention du pourcentage maximum de la pension mentionné au I ci-dessus est fixée à 151 trimestres pour les personnes remplissant les conditions définies à l'article 6 entre le 1er juillet et le 31 décembre 2008 inclus. Pour les personnes remplissant les conditions définies audit article postérieurement au 31 décembre 2008, elle augmente d'un trimestre au 1er janvier et au 1er juillet de chaque année jusqu'au 1er juillet 2012 inclus, d'un trimestre au 1er décembre 2012, puis d'un trimestre au 1er juillet de chaque année jusqu'à atteindre la durée maximum définie à l'article 5 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites. A compter de 2013, le calendrier de cette augmentation est ajusté, le cas échéant, dans les mêmes délais que ceux prévus par le décret mentionné au III de cet article.
+La durée des services et bonifications nécessaire à l'obtention du pourcentage maximum de la pension mentionné au I ci-dessus est fixée à 151 trimestres pour les personnes remplissant les conditions définies à l'article 6 entre le 1er juillet et le 31 décembre 2008 inclus. Pour les personnes remplissant les conditions définies audit article postérieurement au 31 décembre 2008, elle augmente d'un trimestre au 1er janvier et au 1er juillet de chaque année jusqu'au 1er juillet 2012 inclus, d'un trimestre au 1er décembre 2012, puis d'un trimestre au 1er juillet de chaque année jusqu'à atteindre la durée maximum définie à l'article 5 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites.A compter de 2013, le calendrier de cette augmentation est ajusté, le cas échéant, dans les mêmes délais que ceux prévus par le décret mentionné au III de cet article.
 
 Le coefficient de minoration prévu au II ci-dessus n'est applicable qu'aux personnes remplissant les conditions définies à l'article 6 à compter du 1er juillet 2010. Pour les personnes remplissant les conditions définies à l'article 6 entre le 1er juillet 2010 et le 30 juin 2011 inclus, il est fixé par trimestre manquant à un dixième du taux prévu au premier alinéa du II ci-dessus. Pour les personnes remplissant les conditions définies audit article postérieurement au 30 juin 2011 ce taux augmente du même montant au 1er juillet de chaque année jusqu'à égaler le taux prévu au premier alinéa du II ci-dessus.
 

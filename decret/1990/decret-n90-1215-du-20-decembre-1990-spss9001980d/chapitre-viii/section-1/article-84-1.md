@@ -17,3 +17,5 @@ L'admission dans les grandes écoles et classes du second degré préparatoires 
 Ces trimestres ne doivent pas avoir donné lieu à une validation dans un régime de retraite de base obligatoire.
 
 Les périodes précitées ne sont pas prises en compte dans la détermination du salaire annuel moyen visé à l'article 89.
+
+Les versements mentionnés à l'article L. 173-7 du code de la sécurité sociale ne sont pas pris en compte pour le bénéfice des dispositions des II et III de l'article 84 du présent décret.
