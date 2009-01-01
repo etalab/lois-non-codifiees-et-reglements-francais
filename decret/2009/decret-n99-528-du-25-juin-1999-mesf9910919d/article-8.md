@@ -1,0 +1,3 @@
+# Article 8
+
+Le directeur général de l'institution mentionnée à l'article L. 5312-1 du code du travail conclut, avec un ou plusieurs organismes mentionnés à l'article 1er de la loi n° 89-1009 du 31 décembre 1989 modifiée renforçant les garanties offertes aux personnes assurées contre certains risques, les contrats nécessaires à la mise en œuvre des garanties instituées par le présent décret. Il fixe, en application de ces contrats, le montant du capital et des rentes versés au titre de la garantie décès, de la rente versée au titre de la garantie dépendance et le niveau de garantie de remboursement des frais de santé relatifs au risque d'atteinte à l'intégrité physique ou liés à la maternité, prévus respectivement aux articles 2-3 à 2-5.
