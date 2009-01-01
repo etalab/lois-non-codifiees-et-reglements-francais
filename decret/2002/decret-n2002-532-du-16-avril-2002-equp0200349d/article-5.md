@@ -2,15 +2,15 @@
 
 Le montant des attributions individuelles au titre de la seconde part de l'indemnité de sujétions horaires est calculé en application des taux de bonification à la rémunération versée au titre des heures décalées comprises dans l'horaire de travail. Ces taux sont les suivants :
 
-- heures de soirée (entre 18 heures et 22 heures) : 10 % ;
+-heures de soirée (entre 18 heures et 22 heures) : 10 % ;
 
-- heures de nuit (entre 22 heures, le soir, et 7 heures, le matin) : 30 % (1) ;
+-heures de nuit (entre 22 heures, le soir, et 7 heures, le matin) : 70 % ;
 
-- heures du samedi, y compris heures de soirée (du vendredi 18 heures au samedi 18 heures) : 10 % ;
+-heures du samedi, y compris heures de soirée (du vendredi 18 heures au samedi 18 heures) : 10 % ;
 
-- heures du dimanche, y compris heures de soirée (du samedi 18 heures au lundi 7 heures) : 20 % ;
+-heures du dimanche, y compris heures de soirée (du samedi 18 heures au lundi 7 heures) : 20 % ;
 
-- heures de jour férié, y compris heures de soirée (de la veille 18 heures au lendemain 7 heures) : 50 %.
+-heures de jour férié, y compris heures de soirée (de la veille 18 heures au lendemain 7 heures) : 50 %.
 
 La rémunération horaire est déterminée en prenant pour base le montant du traitement ou du salaire brut annuel de l'agent concerné au moment de l'exécution des travaux augmenté, le cas échéant, de l'indemnité de résidence.
 
