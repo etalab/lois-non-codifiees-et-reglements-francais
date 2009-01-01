@@ -8,7 +8,7 @@ FINANCEMENT, COTISATIONS
 
 Article 1er
 
-Conformément à l'article 23 du décret du 16 janvier 1808, la Banque de France tient une caisse de retraite dénommée "Caisse de réserve des employés de la Banque de France" et destinée à assurer le service des pensions de retraite des agents titulaires.
+Conformément à l'article 23 du décret du 16 janvier 1808, la Banque de France tient une caisse de retraite dénommée " Caisse de réserve des employés de la Banque de France " et destinée à assurer le service des pensions de retraite des agents titulaires.
 
 Article 2
 
@@ -30,7 +30,7 @@ Le capital constitué par le portefeuille de la caisse de réserve existant à l
 
 Toutefois, dans le cas où les dépenses d'exploitation de la Banque se révéleraient, à la clôture d'un exercice, supérieures aux recettes, le conseil général pourrait, dans la limite où cette mesure s'imposerait, décider de laisser à la caisse de réserve la charge de couvrir une partie du paiement des pensions de cet exercice :
 
-- soit au moyen de la retenue de 7,85 % effectuée sur les rémunérations payées au cours de l'exercice ;
+- soit au moyen de la retenue de 7, 85 % effectuée sur les rémunérations payées au cours de l'exercice ;
 
 - soit même par prélèvement sur les retenues des exercices antérieurs capitalisées, depuis le 1er octobre 1950, pour former une réserve distincte de celle visée au premier alinéa du présent article.
 
@@ -60,21 +60,21 @@ Article 8
 
 Les périodes de services effectifs sont :
 
-- les périodes au cours desquelles l'agent a perçu une rémunération d'agent titulaire de la Banque de France ; les périodes pendant lesquelles l'agent a été autorisé à accomplir un service à temps partiel sont comptées pour la totalité de leur durée ;
+-les périodes au cours desquelles l'agent a perçu une rémunération d'agent titulaire de la Banque de France ; les périodes pendant lesquelles l'agent a été autorisé à accomplir un service à temps partiel sont comptées pour la totalité de leur durée ;
 
-- le temps passé en service détaché ;
+-le temps passé en service détaché ;
 
-- le temps accompli au titre du service national, dans la limite de la durée légale du service national actif obligatoire ;
+-le temps accompli au titre du service national, dans la limite de la durée légale du service national actif obligatoire ;
 
-- le temps accompli au titre du volontariat civil, dans les conditions prévues par les articles L. 122-1 et suivants du code du service national ;
+-le temps accompli au titre du volontariat civil, dans les conditions prévues par les articles L. 122-1 et suivants du code du service national ;
 
-- les périodes de mobilisation et de captivité, ainsi que des périodes durant lesquelles les intéressés ont été engagés volontaires en temps de guerre, déportés ou internés résistants ou politiques.
+-les périodes de mobilisation et de captivité, ainsi que des périodes durant lesquelles les intéressés ont été engagés volontaires en temps de guerre, déportés ou internés résistants ou politiques.
 
 Peuvent également être pris en compte :
 
-- les périodes de stage et le temps de service accompli dans le cadre auxiliaire permanent à la Banque de France, si ces périodes ont donné lieu au rappel prévu à l'article 19 ;
+-les périodes de stage et le temps de service accompli dans le cadre auxiliaire permanent à la Banque de France, si ces périodes ont donné lieu au rappel prévu à l'article 19 ;
 
-- les services effectués en qualité de contractuel accomplis à la Banque de France, si la validation de ces services a été autorisée par un règlement du gouverneur et si elle est demandée dans les deux années qui suivent la date de titularisation. Le délai dont dispose l'agent pour accepter ou refuser la notification de validation est d'un an.
+-les services effectués en qualité de contractuel accomplis à la Banque de France, si la validation de ces services a été autorisée par un règlement du gouverneur et si elle est demandée dans les deux années qui suivent la date de titularisation. Le délai dont dispose l'agent pour accepter ou refuser la notification de validation est d'un an.
 
 Ne peuvent être pris en compte les services militaires dont la durée entre en compte pour le calcul d'une autre pension ou retraite civile ou militaire.
 
@@ -178,6 +178,8 @@ L'admission dans les grandes écoles et classes du second degré préparatoires 
 
 Ces trimestres ne doivent pas avoir donné lieu à une affiliation à un régime de retraite de base obligatoire.
 
+Les versements mentionnés à l'article L. 173-7 du code de la sécurité sociale ne sont pas pris en compte pour le bénéfice des dispositions des articles 28 et 29 du présent règlement.
+
 Article 19
 
 A condition de verser à la caisse de réserve les cotisations fixées par l'article 20 ci-après, les agents titulaires de la Banque de France ont la faculté d'obtenir, sur leur demande, le rappel pour la détermination du nombre des annuités comptant pour la retraite :
@@ -258,7 +260,7 @@ b) Lorsque l'agent est admis à la retraite à la suite d'une invalidité ;
 
 c) Lorsque l'agent, au moment où il cesse ses fonctions :
 
-- est parent de trois enfants vivants ou décédés par faits de guerre ou d'un enfant vivant âgé de plus de un an et atteint d'une invalidité égale ou supérieure à 80 %, à condition d'avoir, pour chaque enfant, interrompu son activité dans les conditions fixées à l'article 27. L'invalidité de l'enfant est appréciée dans les formes prévues à l'article 42.
+- est parent de trois enfants vivants ou décédés par faits de guerre ou d'un enfant vivant âgé de plus de un an et atteint d'une invalidité égale ou supérieure à 80 %, à condition d'avoir, pour chaque enfant, interrompu son activité dans les conditions fixées à l'article 27.L'invalidité de l'enfant est appréciée dans les formes prévues à l'article 42.
 
 Sont assimilés aux enfants visés à l'alinéa précédent les enfants énumérés au II de l'article 35 que l'agent a élevés dans les conditions prévues au III dudit article ;
 
@@ -278,7 +280,7 @@ Aucune durée minimale d'interruption d'activité n'est exigée lorsque la naiss
 
 Article 28
 
-I. - Sous réserve des dispositions transitoires de l'article 68, l'âge de soixante ans mentionné au a de l'article 26 est abaissé pour les agents relevant du présent règlement qui justifient, dans ce régime et, le cas échéant, dans un ou plusieurs autres régimes obligatoires, d'une durée d'assurance, ou de périodes reconnues équivalentes, au moins égale à 168 trimestres à cinquante-six ans pour les agents ayant débuté leur activité avant l'âge de seize ans.
+I. - Sous réserve des dispositions transitoires de l'article 68, l'âge de soixante ans mentionné au a de l'article 26 est abaissé pour les agents relevant du présent règlement qui justifient, dans ce régime et, le cas échéant, dans un ou plusieurs autres régimes obligatoires, d'une durée d'assurance, ou de périodes reconnues équivalentes, au moins égale à la durée nécessaire pour obtenir le pourcentage maximum de la pension prévue à l'article 31 du présent règlement et applicable l'année où l'assuré atteint l'âge précité, majorée de 8 trimestres, à cinquante-six ans pour les agents ayant débuté leur activité avant l'âge de seize ans.
 
 Sont considérés comme ayant débuté leur activité avant l'âge de seize ans les agents justifiant :
 
@@ -352,11 +354,13 @@ Pour le calcul de la durée d'assurance visée au présent article, les période
 
 Article 33
 
-Lorsque la durée d'assurance définie à l'article 15 est supérieure au nombre de trimestres nécessaires pour obtenir le pourcentage maximum mentionné au deuxième alinéa de l'article 31 et que l'agent a atteint l'âge de soixante ans, un coefficient de majoration calculé sur la base de 0,75 % par trimestre supplémentaire s'applique au montant de la pension liquidée en application des articles 30 et 31 dans la limite de vingt trimestres.
+Lorsque la durée d'assurance définie à l'article 15 est supérieure au nombre de trimestres nécessaires pour obtenir le pourcentage maximum mentionné au deuxième alinéa de l'article 31 et que l'agent a atteint l'âge de soixante ans, un coefficient de majoration calculé sur la base de 1,25 % par trimestre supplémentaire s'applique au montant de la pension liquidée en application des articles 30 et 31 dans la limite de vingt trimestres.
 
-Le nombre de trimestres supplémentaires pris en compte pour ce calcul est égal, à la date de liquidation de la pension, au nombre de trimestres de services effectués après le 1er avril 2007, au-delà de l'âge de soixante ans et en sus du nombre de trimestres nécessaires pour obtenir le pourcentage maximum mentionné au deuxième alinéa de l'article 31.
+Le nombre de trimestres supplémentaires pris en compte pour ce calcul est égal, à la date de liquidation de la pension, au nombre de trimestres d'assurance effectués après le 1er avril 2007, au-delà de l'âge de soixante ans et en sus du nombre de trimestres nécessaires pour obtenir le pourcentage maximum mentionné au deuxième alinéa de l'article 31.
 
 Pour le calcul de la durée d'assurance visée au présent article, les périodes de service à temps partiel sont retenues pour la fraction de leur durée égale à celle qui définit le régime de travail autorisé.
+
+Sont pris en compte pour ce calcul les trimestres entiers cotisés.
 
 Article 34
 
@@ -364,7 +368,7 @@ Aux fins de liquidation de la pension, le montant de celle-ci ne peut, sous rés
 
 a) Lorsque la pension rémunère au moins quarante années de services effectifs, à un montant correspondant à la rémunération cotisable associée à la valeur au 1er avril 2007 de l'indice 182 ;
 
-b) Lorsque la pension rémunère quinze années de services effectifs, à 57,5 % du montant défini à l'alinéa précédent, ce taux étant augmenté de 2,5 points par année supplémentaire de services effectifs de quinze à trente ans et de 0,5 point par année de services effectifs de trente à quarante ans ;
+b) Lorsque la pension rémunère quinze années de services effectifs, à 57, 5 % du montant défini à l'alinéa précédent, ce taux étant augmenté de 2, 5 points par année supplémentaire de services effectifs de quinze à trente ans et de 0, 5 point par année de services effectifs de trente à quarante ans ;
 
 c) Lorsque la pension rémunère moins de quinze années de services effectifs, à un quinzième du montant défini à l'alinéa précédent pour cette durée de quinze ans, par année de services effectifs.
 
@@ -398,7 +402,7 @@ III. - Le bénéfice de la majoration est accordé :
 
 - soit ultérieurement, au moment où l'enfant atteint l'âge de seize ans ou cesse, après cet âge, d'être à charge.
 
-IV. - Le taux de la majoration de la pension est fixé à 8,5 % de son montant pour les trois premiers enfants et à 4,25 % par enfant au-delà du troisième, sans que le montant de la pension majorée puisse excéder celui la rémunération cotisable déterminée à l'article 30.
+IV. - Le taux de la majoration de la pension est fixé à 8, 5 % de son montant pour les trois premiers enfants et à 4, 25 % par enfant au-delà du troisième, sans que le montant de la pension majorée puisse excéder celui la rémunération cotisable déterminée à l'article 30.
 
 TITRE IV
 
@@ -480,7 +484,7 @@ Ce montant est porté à 80 % des émoluments si l'invalidité résulte d'un att
 
 En outre, si l'agent est dans l'obligation d'avoir recours d'une manière constante à l'assistance d'une tierce personne pour accomplir les actes ordinaires de la vie, il a droit à une majoration spéciale dont le montant est calculé dans les conditions prévues à l'article R. 341-6 du code de la sécurité sociale.
 
-Cette majoration est accordée pour une période de cinq ans. A l'expiration de cette période, les droits des intéressés font l'objet d'un nouvel examen et la majoration est soit accordée à titre définitif s'il est reconnu que le titulaire continue de recueillir les conditions pour en bénéficier, soit, dans le cas contraire, supprimée. Postérieurement, elle peut être à tout moment rétablie suivant la même procédure à compter de la date de la demande du pensionné si celui-ci justifie être à nouveau en droit d'y prétendre.
+Cette majoration est accordée pour une période de cinq ans.A l'expiration de cette période, les droits des intéressés font l'objet d'un nouvel examen et la majoration est soit accordée à titre définitif s'il est reconnu que le titulaire continue de recueillir les conditions pour en bénéficier, soit, dans le cas contraire, supprimée. Postérieurement, elle peut être à tout moment rétablie suivant la même procédure à compter de la date de la demande du pensionné si celui-ci justifie être à nouveau en droit d'y prétendre.
 
 Cette majoration n'est pas cumulable à concurrence de son montant avec toute autre prestation ayant le même objet.
 
@@ -566,7 +570,7 @@ III. - Dispositions communes
 
 Article 56
 
-Le total des pensions attribuées du chef de la réversibilité aux conjoints survivants ou aux enfants d'un ou plusieurs lits ne peut excéder, toutes majorations comprises, la pension dont bénéficiait ou aurait bénéficié l'agent toutes majorations comprises le jour de son décès. A cette pension de réversion s'ajoute la moitié de la rente viagère d'invalidité dont aurait pu bénéficier l'agent de manière à ce que le total ne soit pas inférieur à un montant correspondant à la valeur de l'indice 182 au 1er avril 2007.
+Le total des pensions attribuées du chef de la réversibilité aux conjoints survivants ou aux enfants d'un ou plusieurs lits ne peut excéder, toutes majorations comprises, la pension dont bénéficiait ou aurait bénéficié l'agent toutes majorations comprises le jour de son décès.A cette pension de réversion s'ajoute la moitié de la rente viagère d'invalidité dont aurait pu bénéficier l'agent de manière à ce que le total ne soit pas inférieur à un montant correspondant à la valeur de l'indice 182 au 1er avril 2007.
 
 Lorsque le montant total des pensions doit être réduit, par application du maximum fixé ci-dessus, cette réduction affecte proportionnellement la pension de chaque ayant droit. La pension de chaque ayant droit accroît celle des autres bénéficiaires lors de son extinction jusqu'à ce que, dans la limite du maximum fixé ci-dessus, la pension des bénéficiaires atteigne la quotité à laquelle ils peuvent respectivement prétendre.
 
@@ -606,9 +610,7 @@ Le compte ouvert au nom de la caisse de réserve des employés sur les livres de
 
 Article 61
 
-A compter du 1er janvier 2008, les pensions sont revalorisées chaque année par un règlement du gouverneur conformément à l'évolution prévisionnelle de l'indice des prix à la consommation hors du tabac prévue dans le rapport économique, social et financier annexé à la loi de finances pour l'année considérée.
-
-Si l'évolution constatée des prix à la consommation hors du tabac, telle que mentionnée dans le rapport économique, social et financier annexé à la loi de finances pour l'année suivante, est différente de celle qui avait été initialement prévue, il est procédé, dans des conditions fixées par un règlement du gouverneur, à un ajustement destiné à assurer, pour ladite année suivante, une revalorisation conforme à ce constat.
+Les pensions sont revalorisées par un règlement du gouverneur du taux et à la date prévus pour les fonctionnaires de l'Etat en application de l'article L. 16 du code des pensions civiles et militaires de retraite.
 
 Article 62
 
@@ -670,9 +672,9 @@ Jusqu'au 31 décembre 2010, les dispositions du premier alinéa du I de l'articl
 
 L'âge de soixante ans visé au a de l'article 26 est abaissé pour les agents relevant du présent règlement qui justifient, dans ce régime et, le cas échéant, dans un ou plusieurs autres régimes obligatoires, d'une durée d'assurance, ou de périodes reconnues équivalentes :
 
-- à compter du 1er janvier 2008, à cinquante-neuf ans pour les agents qui justifient d'une durée d'activité ayant donné lieu à cotisations à leur charge au moins égale à 160 trimestres et ayant débuté leur activité avant l'âge de dix-sept ans ;
+- à compter du 1er janvier 2008, à cinquante-neuf ans pour les agents qui justifient d'une durée d'activité ayant donné lieu à cotisations à leur charge au moins égale à la durée d'assurance définie au premier alinéa du I de l'article 28, minorée de huit trimestres, et ayant débuté leur activité avant l'âge de dix-sept ans ;
 
-- à compter du 1er juillet 2009, à cinquante-huit ans pour les agents qui justifient d'une durée d'activité ayant donné lieu à cotisations à leur charge au moins égale à 164 trimestres et ayant débuté leur activité avant l'âge de seize ans.
+- à compter du 1er juillet 2009, à cinquante-huit ans pour les agents qui justifient d'une durée d'activité ayant donné lieu à cotisations à leur charge au moins égale à la durée d'assurance définie au premier alinéa du I de l'article 28, minorée de quatre trimestres, et ayant débuté leur activité avant l'âge de seize ans.
 
 Sont considérés comme ayant débuté leur activité avant l'âge de dix-sept ans les agents justifiant :
 
@@ -696,16 +698,16 @@ I. - Jusqu'au 1er juillet 2011, par dérogation au premier alinéa de l'article 
 </tr>
 <tr>
 <td valign="top" width="359">
-<p align="left">Jusqu'au 31 mars 2007.</p>
-<p align="left">2e trimestre 2007.</p>
-<p align="left">2e semestre 2007.</p>
-<p align="left">1er semestre 2008.</p>
-<p align="left">2e semestre 2008.</p>
-<p align="left">1er semestre 2009.</p>
-<p align="left">2e semestre 2009.</p>
+<p>Jusqu'au 31 mars 2007.</p>
+<p>2e trimestre 2007.</p>
+<p>2e semestre 2007.</p>
+<p>1er semestre 2008.</p>
+<p>2e semestre 2008.</p>
+<p>1er semestre 2009.</p>
+<p>2e semestre 2009.</p>
 <p>1er semestre 2010.</p>
-<p align="left">2e semestre 2010.</p>
-<p align="left">1er semestre 2011. </p>
+<p>2e semestre 2010.</p>
+<p>1er semestre 2011. </p>
 </td>
 <td valign="top" width="359">
 <p align="center">150</p>
@@ -751,7 +753,7 @@ Jusqu'au 30 juin 2022, sont fixés comme indiqué dans le tableau suivant :
 </tr>
 <tr>
 <td width="208">
-<p align="left">Jusqu'au 31 décembre 2008.</p>
+<p>Jusqu'au 31 décembre 2008.</p>
 </td>
 <td width="151">
 <p align="center">Sans objet</p>
@@ -765,7 +767,7 @@ Jusqu'au 30 juin 2022, sont fixés comme indiqué dans le tableau suivant :
 </tr>
 <tr>
 <td width="208">
-<p align="left">Du 1er janvier 2009 au 30 juin 2009.</p>
+<p>Du 1er janvier 2009 au 30 juin 2009.</p>
 </td>
 <td width="151">
 <p align="center">0,125 %</p>
@@ -779,7 +781,7 @@ Jusqu'au 30 juin 2022, sont fixés comme indiqué dans le tableau suivant :
 </tr>
 <tr>
 <td width="208">
-<p align="left">Du 1er juillet 2009 au 31 décembre 2009.</p>
+<p>Du 1er juillet 2009 au 31 décembre 2009.</p>
 </td>
 <td width="151">
 <p align="center">0,125 %</p>
@@ -793,7 +795,7 @@ Jusqu'au 30 juin 2022, sont fixés comme indiqué dans le tableau suivant :
 </tr>
 <tr>
 <td width="208">
-<p align="left">Du 1er janvier 2010 au 30 juin 2010.</p>
+<p>Du 1er janvier 2010 au 30 juin 2010.</p>
 </td>
 <td width="151">
 <p align="center">0,250 %</p>
@@ -807,7 +809,7 @@ Jusqu'au 30 juin 2022, sont fixés comme indiqué dans le tableau suivant :
 </tr>
 <tr>
 <td width="208">
-<p align="left">Du 1er juillet 2010 au 31 décembre 2010.</p>
+<p>Du 1er juillet 2010 au 31 décembre 2010.</p>
 </td>
 <td width="151">
 <p align="center">0,250 %</p>
@@ -835,7 +837,7 @@ Jusqu'au 30 juin 2022, sont fixés comme indiqué dans le tableau suivant :
 </tr>
 <tr>
 <td width="208">
-<p align="left">Du 1er juillet 2011 au 31 décembre 2011. </p>
+<p>Du 1er juillet 2011 au 31 décembre 2011. </p>
 </td>
 <td width="151">
 <p align="center">0,375 %</p>
@@ -849,7 +851,7 @@ Jusqu'au 30 juin 2022, sont fixés comme indiqué dans le tableau suivant :
 </tr>
 <tr>
 <td width="208">
-<p align="left">Du 1er janvier 2012 au 30 juin 2012. </p>
+<p>Du 1er janvier 2012 au 30 juin 2012. </p>
 </td>
 <td width="151">
 <p align="center">0,500 %</p>
@@ -863,7 +865,7 @@ Jusqu'au 30 juin 2022, sont fixés comme indiqué dans le tableau suivant :
 </tr>
 <tr>
 <td width="208">
-<p align="left">Du 1er juillet 2012 au 31 décembre 2012. </p>
+<p>Du 1er juillet 2012 au 31 décembre 2012. </p>
 </td>
 <td width="151">
 <p align="center">0,500 %</p>
@@ -877,7 +879,7 @@ Jusqu'au 30 juin 2022, sont fixés comme indiqué dans le tableau suivant :
 </tr>
 <tr>
 <td width="208">
-<p align="left">Du 1er janvier 2013 au 30 juin 2013. </p>
+<p>Du 1er janvier 2013 au 30 juin 2013. </p>
 </td>
 <td width="151">
 <p align="center">0,625 %</p>
@@ -891,7 +893,7 @@ Jusqu'au 30 juin 2022, sont fixés comme indiqué dans le tableau suivant :
 </tr>
 <tr>
 <td width="208">
-<p align="left">Du 1er juillet 2013 au 31 décembre 2013. </p>
+<p>Du 1er juillet 2013 au 31 décembre 2013. </p>
 </td>
 <td width="151">
 <p align="center">0,625 %</p>
@@ -905,7 +907,7 @@ Jusqu'au 30 juin 2022, sont fixés comme indiqué dans le tableau suivant :
 </tr>
 <tr>
 <td width="208">
-<p align="left">Du 1er janvier 2014 au 30 juin 2014. </p>
+<p>Du 1er janvier 2014 au 30 juin 2014. </p>
 </td>
 <td width="151">
 <p align="center">0,750 %</p>
@@ -919,7 +921,7 @@ Jusqu'au 30 juin 2022, sont fixés comme indiqué dans le tableau suivant :
 </tr>
 <tr>
 <td width="208">
-<p align="left">Du 1er juillet 2014 au 31 décembre 2014. </p>
+<p>Du 1er juillet 2014 au 31 décembre 2014. </p>
 </td>
 <td width="151">
 <p align="center">0,750 %</p>
@@ -933,7 +935,7 @@ Jusqu'au 30 juin 2022, sont fixés comme indiqué dans le tableau suivant :
 </tr>
 <tr>
 <td width="208">
-<p align="left">Du 1er janvier 2015 au 30 juin 2015. </p>
+<p>Du 1er janvier 2015 au 30 juin 2015. </p>
 </td>
 <td width="151">
 <p align="center">0,875 %</p>
@@ -947,7 +949,7 @@ Jusqu'au 30 juin 2022, sont fixés comme indiqué dans le tableau suivant :
 </tr>
 <tr>
 <td width="208">
-<p align="left">Du 1er juillet 2015 au 31 décembre 2015. </p>
+<p>Du 1er juillet 2015 au 31 décembre 2015. </p>
 </td>
 <td width="151">
 <p align="center">0,875 %</p>
@@ -961,7 +963,7 @@ Jusqu'au 30 juin 2022, sont fixés comme indiqué dans le tableau suivant :
 </tr>
 <tr>
 <td width="208">
-<p align="left">Du 1er janvier 2016 au 30 juin 2016. </p>
+<p>Du 1er janvier 2016 au 30 juin 2016. </p>
 </td>
 <td width="151">
 <p align="center">1,000 %</p>
@@ -975,7 +977,7 @@ Jusqu'au 30 juin 2022, sont fixés comme indiqué dans le tableau suivant :
 </tr>
 <tr>
 <td width="208">
-<p align="left">Du 1er juillet 2016 au 31 décembre 2016. </p>
+<p>Du 1er juillet 2016 au 31 décembre 2016. </p>
 </td>
 <td width="151">
 <p align="center">1,000 %</p>
@@ -989,7 +991,7 @@ Jusqu'au 30 juin 2022, sont fixés comme indiqué dans le tableau suivant :
 </tr>
 <tr>
 <td width="208">
-<p align="left">Du 1er janvier 2017 au 30 juin 2017. </p>
+<p>Du 1er janvier 2017 au 30 juin 2017. </p>
 </td>
 <td width="151">
 <p align="center">1,125 %</p>
@@ -1003,7 +1005,7 @@ Jusqu'au 30 juin 2022, sont fixés comme indiqué dans le tableau suivant :
 </tr>
 <tr>
 <td width="208">
-<p align="left">Du 1er juillet 2017 au 31 décembre 2017. </p>
+<p>Du 1er juillet 2017 au 31 décembre 2017. </p>
 </td>
 <td width="151">
 <p align="center">1,125 %</p>
@@ -1017,7 +1019,7 @@ Jusqu'au 30 juin 2022, sont fixés comme indiqué dans le tableau suivant :
 </tr>
 <tr>
 <td width="208">
-<p align="left">Du 1er janvier 2018 au 30 juin 2018. </p>
+<p>Du 1er janvier 2018 au 30 juin 2018. </p>
 </td>
 <td width="151">
 <p align="center">1,250 %</p>
@@ -1031,7 +1033,7 @@ Jusqu'au 30 juin 2022, sont fixés comme indiqué dans le tableau suivant :
 </tr>
 <tr>
 <td width="208">
-<p align="left">Du 1er juillet 2018 au 30 juin 2019. </p>
+<p>Du 1er juillet 2018 au 30 juin 2019. </p>
 </td>
 <td width="151">
 <p align="center">1,250 %</p>
@@ -1045,7 +1047,7 @@ Jusqu'au 30 juin 2022, sont fixés comme indiqué dans le tableau suivant :
 </tr>
 <tr>
 <td width="208">
-<p align="left">Du 1er juillet 2019 au 30 juin 2020. </p>
+<p>Du 1er juillet 2019 au 30 juin 2020. </p>
 </td>
 <td width="151">
 <p align="center">1,250 %</p>
@@ -1059,7 +1061,7 @@ Jusqu'au 30 juin 2022, sont fixés comme indiqué dans le tableau suivant :
 </tr>
 <tr>
 <td width="208">
-<p align="left">Du 1er juillet 2020 au 30 juin 2021. </p>
+<p>Du 1er juillet 2020 au 30 juin 2021. </p>
 </td>
 <td width="151">
 <p align="center">1,250 %</p>
@@ -1073,7 +1075,7 @@ Jusqu'au 30 juin 2022, sont fixés comme indiqué dans le tableau suivant :
 </tr>
 <tr>
 <td width="208">
-<p align="left">Du 1er juillet 2021 au 30 juin 2022. </p>
+<p>Du 1er juillet 2021 au 30 juin 2022. </p>
 </td>
 <td width="151">
 <p align="center">1,250 %</p>
@@ -1110,7 +1112,7 @@ II. - Jusqu'au 31 décembre 2016, les dispositions présentées dans le tableau 
 <p align="center">PAR ANNÉE<br/>supplémentaire<br/>de services<br/>effectifs de 15 à :</p>
 </td>
 <td width="132">
-<p align="center">ET, PAR ANNÉE<br/>supplémentaire<br/>au-delà<br/>de cette dernière durée<br/>jusqu'à 40 années, de :</p>
+<p align="center">ET, PAR ANNÉE<br/>supplémentaire<br/>au-delà<br/>de cette dernière durée<br/>jusqu'à<br/>40 années, de :</p>
 </td>
 </tr>
 <tr>

@@ -6,7 +6,7 @@ II. ― Le coefficient de minoration prévu au I de l'article 24 n'est applicabl
 
 L'âge auquel le coefficient de minoration s'annule correspond, pour la période comprise entre le 1er juillet 2010 et le 30 juin 2011 inclus, à l'âge de référence mentionné au 1° du I de l'article 24 diminué de seize trimestres. Pour les périodes postérieures au 30 juin 2011, cette diminution est réduite de deux trimestres au 1er juillet de chaque année jusqu'au 30 juin 2013 inclus puis d'un trimestre au 1er juillet de chaque année jusqu'au 30 juin 2024 inclus.
 
-III. ― Le coefficient de revalorisation des pensions applicable au 1er janvier 2009 est fixé par arrêté du ministre chargé de la sécurité sociale conformément au premier alinéa de l'article L. 16 du code des pensions civiles et militaires de retraite.
+III. ― Le coefficient de revalorisation des pensions applicable au 1er avril 2009  est fixé par arrêté du ministre chargé de la sécurité sociale conformément au premier alinéa de l' article L. 161-23-1 du  code de la sécurité sociale.
 
 IV. ― Les assurés ayant travaillé à temps partiel antérieurement au 1er juillet 2008 bénéficient pour les périodes en cause des dispositions de l'article 18 si elles en font la demande avant le 1er juillet 2009. Les modalités de paiement des cotisations sont définies par arrêté du ministre chargé de la sécurité sociale.
 

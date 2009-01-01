@@ -24,9 +24,9 @@ e) Pour la période comprise entre le 1er janvier 2013 et le 31 décembre 2013 :
 
 f) Pour la période comprise entre le 1er janvier 2014 et le 31 décembre 2014 : 2, 028 % et 3, 042 % ;
 
-g) Pour la période comprise entre le 1er janvier 2013 et le 31 décembre 2015 : 2, 112 % et 3, 168 % ;
+g) Pour la période comprise entre le 1er janvier 2015 et le 31 décembre 2015 : 2, 112 % et 3, 168 % ;
 
-h) Pour la période comprise entre le 1er janvier 2014 et le 31 décembre 2016 : 2, 176 % et 3, 264 % ;
+h) Pour la période comprise entre le 1er janvier 2016 et le 31 décembre 2016 : 2, 176 % et 3, 264 % ;
 
 i) A compter du 1er janvier 2017 : 2, 24 % et 3, 36 %.
 

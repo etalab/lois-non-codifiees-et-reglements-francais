@@ -12,7 +12,7 @@ Le conjoint survivant vivant en concubinage au moment du décès de l'agent ou d
 
 II. ― Le conjoint divorcé a droit à pension de réversion, pourvu qu'il réunisse les deux conditions suivantes :
 
-1° N'avoir pas contracté de nouveau mariage avant le décès de l'agent ou ne pas vivre en concubinage au moment de ce décès ;
+1° N'avoir pas contracté de nouveau mariage ou conclu de  pacte civil de solidarité avant le décès de l'agent ou ne pas vivre en concubinage au moment de ce décès ;
 
 2° Justifier de deux années de mariage avec l'agent pendant la période des versements des cotisations salariales, ou, si cette condition n'est pas remplie, de quatre ans au moment du divorce ; cette durée est ramenée à deux ans s'il existe un ou plusieurs enfants issus du mariage.
 

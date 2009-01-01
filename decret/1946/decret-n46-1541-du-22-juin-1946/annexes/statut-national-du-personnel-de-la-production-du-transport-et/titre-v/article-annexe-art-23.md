@@ -4,7 +4,7 @@ Régime spécial de sécurité sociale.
 
 Paragraphe 1.
 
-Les agents statutaires en activité, en inactivité de service et pensionnés de tous ordres, ainsi que leurs ayants droit au sens de la législation de la sécurité sociale et ceux définis par un arrêté des ministres chargés de la sécurité sociale, du budget et de l'énergie, relèvent, pour les prestations en nature des assurances maladie, maternité, accidents du travail et maladies professionnelles, d'un régime spécial au sens de l'article L. 711-1 du code de la sécurité sociale. Toutefois, pour les titulaires de pensions de vieillesse, de pensions temporaires d'orphelin attribuées au titre d'un agent décédé en situation d'inactivité ou de pensions de réversion à l'exception de celles résultant du décès de l'ouvrant droit suite à un accident du travail ou à une maladie professionnelle, l'affiliation au régime spécial est subordonnée à une condition d'ancienneté minimale de quinze années de l'agent auquel la pension de vieillesse est versée ou au titre duquel la pension temporaire d'orphelin ou la pension de réversion est attribuée. Cette ancienneté est appréciée dans les conditions définies aux troisième alinéa et suivants du quatrième paragraphe de l'article 26 du présent statut, le cas échéant période d'invalidité comprise. Pour les ouvrants droit ne percevant pas de rémunération d'un employeur des industries électriques et gazières ou de pension de la Caisse nationale des industries électriques et gazières, cet arrêté précise, en tant que de besoin, l'assiette, le taux et les modalités de versement des cotisations dues au titre des prestations servies par le régime complémentaire.
+Les agents statutaires en activité, en inactivité de service et pensionnés de tous ordres, ainsi que leurs ayants droit au sens de la législation de la sécurité sociale et ceux définis par un arrêté des ministres chargés de la sécurité sociale, du budget et de l'énergie, relèvent, pour les prestations en nature des assurances maladie, maternité, accidents du travail et maladies professionnelles, d'un régime spécial au sens de l'article L. 711-1 du code de la sécurité sociale.                                                          Toutefois, pour les titulaires de pensions de vieillesse et les titulaires de pensions temporaires d'orphelin ou de réversion attribuées au titre d'un agent décédé en situation d'inactivité, l'affiliation au régime spécial est subordonnée à une condition d'ancienneté minimale de quinze années de l'agent auquel la pension de vieillesse est versée ou au titre duquel la pension temporaire d'orphelin ou la pension de réversion est attribuée. Cette ancienneté est appréciée dans les conditions définies aux troisième alinéa et suivants du quatrième paragraphe de l'article 26 du présent statut, le cas échéant période d'invalidité comprise. Pour les ouvrants droit ne percevant pas de rémunération d'un employeur des industries électriques et gazières ou de pension de la Caisse nationale des industries électriques et gazières, cet arrêté précise, en tant que de besoin, l'assiette, le taux et les modalités de versement des cotisations dues au titre des prestations servies par le régime complémentaire.
 
 Ces prestations comprennent :
 
@@ -88,7 +88,7 @@ Ses missions consistent à :
 
 4° Gérer la trésorerie du régime complémentaire ;
 
-5° Arrêter les comptes du régime complémentaire en distinguant les opérations relatives aux actifs et à leurs ayants droit, d'une part, et celles relatives aux inactifs et pensionnés de tous ordres et à leurs ayants droit, d'autre part ;
+5° Arrêter les comptes du régime complémentaire, dans les  conditions définies au paragraphe 12 du présent article,  en distinguant les opérations relatives aux actifs et à leurs ayants droit, d'une part, et celles relatives aux inactifs et pensionnés de tous ordres et à leurs ayants droit, d'autre part ;
 
 6° Tenir une comptabilité analytique qui permet notamment de distinguer et d'évaluer les coûts de gestion au titre de sa participation prévue au septième alinéa du présent A pour les prestations du régime général et au titre des prestations complémentaires ;
 
@@ -230,7 +230,7 @@ Les délibérations de la commission sont transmise pour approbation aux ministr
 
 Les dispositions des articles R. 142-1, R. 142-3 à R. 142-6 du code de la sécurité sociale sont applicables à la commission de recours amiable et aux décisions du conseil prises après avis de cette commission.
 
-H.-Les dispositions des articles D. 253-64 à D. 253-66 du code de la sécurité sociale sont applicables à la commission de contrôle constituée au sein du conseil d'administration de la caisse d'assurance maladie des industries électriques et gazières, sous réserve du nombre de ses membres fixé à au moins cinq et au plus neuf administrateurs.
+H. - Abrogé.
 
 J.-Le directeur de la caisse d'assurance maladie des industries électriques et gazières est nommé pour un mandat de six ans. Ce mandat n'est pas renouvelable.
 
@@ -449,7 +449,7 @@ D.-Les dépenses inscrites aux budgets de gestion administrative et de gestion d
 
 Pour l'application des dispositions des articles L. 153-1 à L. 153-9 et R. 153-7 à R. 153-9 du code de la sécurité sociale aux budgets de gestion administrative et de gestion du risque de la caisse d'assurance maladie des industries électriques et gazières, les autorités compétentes de l'Etat sont les ministres chargés de la sécurité sociale et du budget.
 
-Les budgets de gestion technique, de gestion administrative et de gestion du risque sont communiqués, dans les dix jours suivant leur adoption, à la commission paritaire nationale de suivi prévue au paragraphe 6 du présent article. Le relevé de décisions de la réunion au cours de laquelle ont été adoptés ces budgets est transmis dans le même délai suivant son adoption à cette commission.
+Les budgets de gestion administrative et de gestion du risque sont communiqués, dans les dix jours suivant leur adoption, à la commission paritaire nationale de suivi prévue au paragraphe 6 du présent article. Le relevé de décisions de la réunion au cours de laquelle ont été adoptés ces budgets est transmis dans le même délai suivant son adoption à cette commission.
 
 En annexe du budget de gestion du risque est établie la liste des actions mentionnées au troisième alinéa du 3° du A du présent paragraphe 9 et le coût de chacune de ces actions.
 
@@ -485,7 +485,7 @@ Les produits financiers de l'année sont affectés au Fonds national de gestion 
 
 Paragraphe 12.
 
-Les comptes du régime complémentaire, faisant apparaître les opérations de la gestion technique, de la gestion administrative et de la gestion du risque pour les opérations relatives aux actifs et à leurs ayants droit, d'une part, et celles relatives aux inactifs et pensionnés de tous ordres, d'autre part, sont établis par la caisse d'assurance maladie des industries électriques et gazières dans les trois mois suivant la clôture de l'exercice comptable.
+Les comptes du régime complémentaire, faisant apparaître les opérations de la gestion technique, de la gestion administrative et de la gestion du risque pour les opérations relatives aux actifs et à leurs ayants droit, d'une part, et celles relatives aux inactifs et pensionnés de tous ordres, d'autre part, sont établis  par l'agent comptable et arrêtés par le directeur dans les trois mois suivant la  clôture de l'exercice comptable. Les comptes annuels sont ensuite présentés par  le directeur et l'agent comptable au conseil d'administration qui, au vu de  l'opinion émise par l'instance chargée de la certification, les approuve, sauf  vote contraire de la majorité des deux tiers des membres.
 
 Ils sont certifiés par un commissaire aux comptes choisi par la caisse d'assurance maladie des industries électriques et gazières, après avis de la commission nationale paritaire de suivi prévue au paragraphe 6 du présent article. Les rapports établis par le commissaire aux comptes sont accompagnés des documents comptables, financiers et administratifs relatifs à la gestion administrative et à la gestion du risque. Ces rapports distinguent les opérations relatives aux actifs et à leurs ayants droit, d'une part, et aux inactifs et pensionnés de tous ordres et à leurs ayants droit, d'autre part. Ils sont communiqués aux administrateurs, à la commission nationale paritaire de suivi précitée ainsi qu'aux ministres chargés de la sécurité sociale, du budget et de l'énergie.
 

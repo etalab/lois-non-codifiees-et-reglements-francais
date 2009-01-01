@@ -46,7 +46,7 @@ Toutes les nominations susvisées sont soumises à l'agrément du préfet de ré
 
 Le directeur de la caisse autonome nationale est nommé par décret rendu sur le rapport du ministre chargé de la sécurité sociale. Son directeur adjoint est nommé par arrêté des ministres chargés de la sécurité sociale, du budget et des mines, son agent comptable par arrêté des ministres chargés de la sécurité sociale et du budget sur proposition du directeur. Les autres agents de direction sont nommés, par le directeur, après avis du conseil d'administration.
 
-Les directeurs et les agents comptables des organismes mentionnés à l'article 10 exercent leurs fonctions dans les conditions prévues par les articles D. 253-4 à D. 253-7, D. 253-9 à D. 253-13 et D. 253-64 à D. 253-83 du code de la sécurité sociale.
+Les directeurs et les agents comptables des organismes mentionnés à l'article 10 exercent leurs fonctions dans les conditions prévues par les articles D. 253-4 à D. 253-7, D. 253-9 à D. 253-13, D. 253-67 et D. 253-68 du code de la sécurité sociale.
 
 Ces dispositions ne s'appliquent pas au directeur et à l'agent comptable de la Caisse autonome nationale pour les missions confiées à la Caisse des dépôts et consignations.
 

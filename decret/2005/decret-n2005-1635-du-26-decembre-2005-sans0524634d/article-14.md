@@ -15,3 +15,5 @@ Le directeur peut, sous sa responsabilité, déléguer sa signature à un ou plu
 Sous réserve des dispositions du premier alinéa, les dispositions du chapitre II du titre II du livre Ier ainsi que celles du chapitre III du titre V du livre II du code de la sécurité sociale, en tant qu'elles concernent l'agent comptable, s'appliquent à l'agent comptable de la caisse de retraites du personnel de la Régie autonome des transports parisiens.
 
 L'agent comptable doit refuser de déférer à l'ordre de réquisition lorsque la suspension de paiement est motivée par l'opposition d'un ou plusieurs ministres à la décision du conseil d'administration.
+
+Les comptes annuels du régime sont établis par l'agent comptable et arrêtés par le directeur. Les comptes annuels sont ensuite présentés par le directeur et l'agent comptable au conseil d'administration.

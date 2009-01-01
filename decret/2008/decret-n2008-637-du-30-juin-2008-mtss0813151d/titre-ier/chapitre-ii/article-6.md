@@ -20,4 +20,4 @@ c) Lorsqu'il est justifié, selon les modalités prévues au dernier alinéa de 
 
 3° A l'âge de cinquante-cinq ans pour les assurés qui justifient de vingt-cinq années de services valables dans un emploi de la deuxième catégorie figurant au tableau A annexé au présent décret, sous réserve des dispositions des articles 8 à 11 ;
 
-4° A l'âge de soixante ans dans tous les autres cas, sous réserve des dispositions des articles 7 et 8, du deuxième alinéa des articles 9 et 10 et du deuxième alinéa du I de l'article 11.
+4° A l'âge de soixante ans dans tous les autres cas, sous réserve des dispositions des articles 7 , 7-1 et 8, du deuxième alinéa des articles 9 et 10 et du deuxième alinéa du I de l'article 11.

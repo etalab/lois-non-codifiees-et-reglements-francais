@@ -1,6 +1,6 @@
 # Article 71
 
-En plus des commissions prévues à titre obligatoire par les articles R. 142-1 et D. 253-64 du code de la sécurité sociale et par les dispositions réglementaires prises en application de l'article L. 124-4 dudit code, le conseil d'administration peut constituer en son sein toute autre commission à laquelle il peut éventuellement donner une délégation de pouvoir.
+En plus des commissions prévues à titre obligatoire par l'article R. 142-1 du code de la sécurité sociale et par les dispositions réglementaires prises en application de l'article L. 124-4 dudit code, le conseil d'administration peut constituer en son sein toute autre commission à laquelle il peut éventuellement donner une délégation de pouvoir.
 
 Ces dernières commissions ainsi que celle prévue à l'article D. 253-64 du code de la sécurité sociale comportent au maximum :
 

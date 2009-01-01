@@ -15,3 +15,5 @@ Le directeur peut, sous sa responsabilité, déléguer sa signature au directeur
 Sous réserve des dispositions du premier alinéa, outre les dispositions du livre Ier du code de la sécurité sociale, sont applicables celles du chapitre III du titre V du livre II du même code, en tant qu'elles concernent l'agent comptable de la caisse de prévoyance et de retraite du personnel de la Société nationale des chemins de fer français.
 
 L'agent comptable doit refuser de déférer à l'ordre de réquisition lorsque la suspension de paiement est motivée par l'opposition d'un ou plusieurs ministres à la décision du conseil d'administration.
+
+Les comptes annuels du régime sont établis par l'agent comptable et arrêtés par le directeur. Les comptes annuels sont ensuite présentés par le directeur et l'agent comptable au conseil d'administration.
