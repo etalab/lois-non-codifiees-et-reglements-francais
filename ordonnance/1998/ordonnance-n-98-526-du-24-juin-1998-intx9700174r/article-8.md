@@ -1,6 +1,6 @@
 # Article 8
 
-A l'initiative du préfet, de trois membres de la commission ou du demandeur, la décision de la commission territoriale peut, dans un délai de deux mois à compter de sa notification ou de son intervention implicite, faire l'objet d'un recours auprès de la Commission nationale d'équipement commercial prévue à l'article L. 720-11 du code de commerce, qui se prononce dans un délai de quatre mois.
+A l'initiative du préfet, de trois membres de la commission ou du demandeur, la décision de la commission territoriale peut, dans un délai de deux mois à compter de sa notification ou de son intervention implicite, faire l'objet d'un recours auprès de la     Commission nationale d'aménagement commercial prévue à l'article L. 720-11 du code de commerce, qui se prononce dans un délai de quatre mois.
 
 Les commissions autorisent ou refusent les projets dans leur totalité.
 
