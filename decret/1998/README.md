@@ -562,7 +562,6 @@
 - [Décret n°75-789 du 21 août 1975](decret-n75-789-du-21-aout-1975)
 - [Décret n°97-795 du 21 août 1997 (EQUX9700093D)](decret-n97-795-du-21-aout-1997-equx9700093d)
 - [Décret n°98-1168 du 21 décembre 1998 (MAEA9820312D)](decret-n98-1168-du-21-decembre-1998-maea9820312d)
-- [Décret n°98-1169 du 21 décembre 1998 (ECOB9860040D)](decret-n98-1169-du-21-decembre-1998-ecob9860040d)
 - [Décret n°98-1170 du 21 décembre 1998 (ECOT9851765D)](decret-n98-1170-du-21-decembre-1998-ecot9851765d)
 - [Décret n°98-1174 du 21 décembre 1998 (JUSC9820786D)](decret-n98-1174-du-21-decembre-1998-jusc9820786d)
 - [Décret n°98-1175 du 21 décembre 1998 (EQUU9801268D)](decret-n98-1175-du-21-decembre-1998-equu9801268d)
