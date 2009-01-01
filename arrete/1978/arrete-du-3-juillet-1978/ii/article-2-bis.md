@@ -29,17 +29,17 @@ II.-En application de l'article R. 351-22-1, les plafonds de loyers visés à l'
 </p>
 </th>
 <th>
-<br/>COUPLE SANS PERSONNE <p>à charge </p>
-<p>(en euros) <br/>
+<br/>COUPLE SANS PERSONNE <p>à charge (en euros) <br/>
 </p>
 </th>
 <th>
-<br/>PERSONNE SEULE OU COUPLE <p>ayant une personne à charge </p>
-<p>(en euros) <br/>
+<br/>PERSONNE SEULE <p>ou couple </p>
+<p>ayant une personne </p>
+<p>à charge (en euros) <br/>
 </p>
 </th>
 <th>
-<br/>PAR PERSONNE À CHARGE <p>supplémentaire </p>
+<br/>PAR PERSONNE <p>à charge supplémentaire </p>
 <p>(en euros) <br/>
 </p>
 </th>
@@ -49,16 +49,16 @@ II.-En application de l'article R. 351-22-1, les plafonds de loyers visés à l'
 <br/>I <br/>
 </td>
 <td align="center">
-<br/>270,09 <br/>
+<br/>278, 06 <br/>
 </td>
 <td align="center">
-<br/>325,75 <br/>
+<br/>335, 36 <br/>
 </td>
 <td align="center">
-<br/>368,17 <br/>
+<br/>379, 03 <br/>
 </td>
 <td align="center">
-<br/>53,39 <br/>
+<br/>54, 97 <br/>
 </td>
 </tr>
 <tr>
@@ -66,16 +66,16 @@ II.-En application de l'article R. 351-22-1, les plafonds de loyers visés à l'
 <br/>II <br/>
 </td>
 <td align="center">
-<br/>235,39 <br/>
+<br/>242, 33 <br/>
 </td>
 <td align="center">
-<br/>288,12 <br/>
+<br/>296, 62 <br/>
 </td>
 <td align="center">
-<br/>324,21 <br/>
+<br/>333, 77 <br/>
 </td>
 <td align="center">
-<br/>47,18 <br/>
+<br/>48, 57 <br/>
 </td>
 </tr>
 <tr>
@@ -83,16 +83,16 @@ II.-En application de l'article R. 351-22-1, les plafonds de loyers visés à l'
 <br/>III <br/>
 </td>
 <td align="center">
-<br/>220,62 <br/>
+<br/>227, 13 <br/>
 </td>
 <td align="center">
-<br/>267,46 <br/>
+<br/>275, 35 <br/>
 </td>
 <td align="center">
-<br/>299,87 <br/>
+<br/>308, 72 <br/>
 </td>
 <td align="center">
-<br/>42,98 <br/>
+<br/>44, 25 <br/>
 </td>
 </tr>
 </tbody>

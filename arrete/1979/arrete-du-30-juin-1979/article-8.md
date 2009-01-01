@@ -1,9 +1,5 @@
 # Article 8
 
-Pour l'application de l'article R. 351-7-2, le montant auquel sont réputées égales les ressources du bénéficiaire et, le cas échéant, de son conjoint, en cas de ressources inférieures audit montant, est fixé comme suit compte tenu de la demande d'ouverture du droit :
+Pour l'application de l'article R. 351-7-2, le montant auquel sont réputées égales les ressources du bénéficiaire et, le cas échéant, de son conjoint, en cas de ressources inférieures audit montant, est fixé à 5 500 €.
 
-1° Pour les demandes antérieures au 1er juillet 1999 :
-
-4 600 euros ;
-
-2° Pour les demandes postérieures au 30 juin 1999 : 5 300 euros, minoré de 700 euros lorsque le demandeur est titulaire d'une bourse de l'enseignement supérieur qui n'est pas assujettie à l'impôt sur le revenu.
+Toutefois, lorsque le demandeur est titulaire d'une bourse de l'enseignement supérieur qui n'est pas assujettie à l'impôt sur le revenu, le montant minimal de ressources est fixé à 4 700 €.

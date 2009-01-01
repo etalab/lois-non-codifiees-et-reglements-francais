@@ -6,7 +6,7 @@ Pp = P0 + Tp Rp,
 
 dans laquelle :
 
-P0 représente la participation minimale et est égale à la plus élevée des deux valeurs suivantes : 8, 5 % de la dépense éligible définie à l'article R. 351-17-3 ou 31 euros ;
+P0 représente la participation minimale et est égale à la plus élevée des deux valeurs suivantes : 8, 5 % de la dépense éligible définie à l'article R. 351-17-3 ou 33 euros ;
 
 Tp représente le taux de participation personnelle ; son montant est calculé selon les dispositions définies à l'article 2 quater ;
 
@@ -21,68 +21,70 @@ où R1 et R2, sont respectivement un pourcentage du montant du revenu minimum d'
 <table>
 <tbody>
 <tr>
-<td width="302">
-<p align="center">BENEFICIAIRE</p>
+<td>
+<p align="center">BENEFICIAIRE </p>
 </td>
-<td width="151">
-<p align="center">R1 du RMI<br/>(en pourcentage)</p>
+<td>
+<p align="center">R1 du RMI</p>
+<p align="center">(en pourcentage) </p>
 </td>
-<td width="151">
-<p align="center">R2 de la BMAF<br/>(en pourcentage)</p>
-</td>
-</tr>
-<tr>
-<td width="302">
-<p>Personne isolée sans personne à charge</p>
-</td>
-<td width="151">
-<p align="center">88</p>
-</td>
-<td width="151">
-<p align="center">néant</p>
+<td>
+<p align="center">R2 de la BMAF</p>
+<p align="center">(en pourcentage)</p>
 </td>
 </tr>
 <tr>
-<td width="302">
-<p>Couple sans personne à charge</p>
+<td>
+<p align="center">Personne isolée sans personne à charge </p>
 </td>
-<td width="151">
-<p align="center">126</p>
+<td>
+<p align="center">88 </p>
 </td>
-<td width="151">
-<p align="center">néant</p>
-</td>
-</tr>
-<tr>
-<td width="302">
-<p>Personne isolée ou couple avec une personne à charge</p>
-</td>
-<td width="151">
-<p align="center">150,3</p>
-</td>
-<td width="151">
-<p align="center">néant</p>
+<td>
+<p align="center">-</p>
 </td>
 </tr>
 <tr>
-<td width="302">
-<p>Personne isolée ou couple avec deux personnes à charge</p>
+<td>
+<p align="center">Couple sans personne à charge </p>
 </td>
-<td width="151">
+<td>
+<p align="center">126 </p>
+</td>
+<td>
+<p align="center">-</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Personne isolée ou couple avec une personne à charge </p>
+</td>
+<td>
+<p align="center">150,3 </p>
+</td>
+<td>
+<p align="center">-</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Personne isolée ou couple avec deux personnes à charge </p>
+</td>
+<td>
 <p align="center">180,3</p>
 </td>
-<td width="151">
+<td>
 <p align="center">32</p>
 </td>
 </tr>
 <tr>
-<td width="302">
-<p>Majoration par personne à charge supplémentaire</p>
+<td>
+<p align="center">Majoration par personne à charge supplémentaire </p>
 </td>
-<td width="151">
+<td>
 <p align="center">40</p>
 </td>
-<td width="151">
+<td>
 <p align="center">41</p>
 </td>
 </tr>

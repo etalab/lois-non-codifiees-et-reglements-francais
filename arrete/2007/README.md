@@ -989,7 +989,6 @@
 - [Arrêté du 26 décembre 2006 (MENA0603163A)](arrete-du-26-decembre-2006-mena0603163a)
 - [Arrêté du 26 décembre 2007 (AGRG0772584A)](arrete-du-26-decembre-2007-agrg0772584a)
 - [Arrêté du 26 décembre 2007 (AGRG0774604A)](arrete-du-26-decembre-2007-agrg0774604a)
-- [Arrêté du 26 décembre 2007 (AGRS0769488A)](arrete-du-26-decembre-2007-agrs0769488a)
 - [Arrêté du 26 décembre 2007 (BCFD0773283A)](arrete-du-26-decembre-2007-bcfd0773283a)
 - [Arrêté du 26 décembre 2007 (BCFD0773286A)](arrete-du-26-decembre-2007-bcfd0773286a)
 - [Arrêté du 26 décembre 2007 (BCFD0773302A)](arrete-du-26-decembre-2007-bcfd0773302a)

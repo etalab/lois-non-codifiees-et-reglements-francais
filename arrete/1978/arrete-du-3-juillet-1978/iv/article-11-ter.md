@@ -1,6 +1,7 @@
 # Article 11 ter
 
 En application de l'article R. 351-22-1, le montant forfaitaire des charges est fixé comme suit :
+
 <table>
 <tbody>
 <tr>
@@ -14,26 +15,26 @@ En application de l'article R. 351-22-1, le montant forfaitaire des charges est 
 </tr>
 <tr>
 <td align="center">
-<br/>Bénéficiaire isolé ou couple sans personne à charge. <br/>
+<br/>Bénéficiaire isolé ou couple sans personne à charge <br/>
 </td>
 <td align="center">
-<br/>49,14 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Bénéficiaire isolé ou couple ayant une personne à charge. <br/>
-</td>
-<td align="center">
-<br/>60,26 <br/>
+<br/>50, 59 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Par personne supplémentaire à charge. <br/>
+<br/>Bénéficiaire isolé ou couple ayant une personne à charge <br/>
 </td>
 <td align="center">
-<br/>11,12 <br/>
+<br/>62, 04 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Par personne supplémentaire à charge <br/>
+</td>
+<td align="center">
+<br/>11, 45 <br/>
 </td>
 </tr>
 </tbody>
@@ -54,42 +55,42 @@ Toutefois, dans le cas des colocataires ou des copropriétaires prévu aux artic
 </tr>
 <tr>
 <td align="center">
-<br/>Bénéficiaire isolé. <br/>
+<br/>Bénéficiaire isolé <br/>
 </td>
 <td align="center">
-<br/>24,56 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Couple sans personne à charge. <br/>
-</td>
-<td align="center">
-<br/>49,14 <br/>
+<br/>25, 28 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Bénéficiaire isolé ayant une personne à charge. <br/>
+<br/>Couple sans personne à charge <br/>
 </td>
 <td align="center">
-<br/>35,68 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Couple ayant une personne à charge. <br/>
-</td>
-<td align="center">
-<br/>60,26 <br/>
+<br/>50, 59 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Par personne supplémentaire à charge. <br/>
+<br/>Bénéficiaire isolé ayant une personne à charge <br/>
 </td>
 <td align="center">
-<br/>11,12<br/>
+<br/>36, 73 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Couple ayant une personne à charge <br/>
+</td>
+<td align="center">
+<br/>62, 04 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Par personne supplémentaire à charge <br/>
+</td>
+<td align="center">
+<br/>11, 45<br/>
 </td>
 </tr>
 </tbody>

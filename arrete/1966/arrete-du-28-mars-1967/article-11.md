@@ -8,9 +8,9 @@ Consul général ;
 
 Consul ;
 
-Emploi comportant la direction de services consulaires ou d'une chancellerie lorsque l'intérim est confié à un agent occupant un emploi moins élevé que le titulaire de l'emploi vacant ;
+Emploi comportant la direction de services consulaires, d'une chancellerie ou d'un service administratif et financier, dénommé ci-après emploi de coordonnateur d'administration générale, lorsque l'intérim est confié à un agent occupant un emploi moins élevé que le titulaire de l'emploi vacant ;
 
-Emploi diplomatique ou consulaire ou emploi de chiffreur lorsque ceux-ci appartiennent à un poste autre que celui auquel est affecté l'intérimaire.
+Emploi diplomatique, consulaire ou de spécialiste des systèmes d'information lorsque ceux-ci appartiennent à un poste autre que celui auquel est affecté l'intérimaire.
 
 Les fonctionnaires des cadres de chancellerie et les agents contractuels peuvent, sur décision du ministre des affaires étrangères, être chargés de l'intérim de postes consulaires ou d'emplois de consul adjoint, de vice-consul ou d'attaché de consulat, ou d'emplois comportant la direction d'une chancellerie.
 

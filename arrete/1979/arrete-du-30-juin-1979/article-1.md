@@ -9,15 +9,15 @@ Les équivalences de loyer et de charges locatives de référence sont fixées c
 <br/>DÉSIGNATION <br/>
 </th>
 <th>
-<br/>ZONE 1 <p>(en euros) <br/>
+<br/>ZONE I <p>(en euros) <br/>
 </p>
 </th>
 <th>
-<br/>ZONE 2 <p>(en euros) <br/>
+<br/>ZONE II <p>(en euros) <br/>
 </p>
 </th>
 <th>
-<br/>ZONE 3 <p>(en euros) <br/>
+<br/>ZONE III <p>(en euros) <br/>
 </p>
 </th>
 </tr>
@@ -26,13 +26,13 @@ Les équivalences de loyer et de charges locatives de référence sont fixées c
 <br/>Bénéficiaire isolé. <br/>
 </td>
 <td align="center">
-<br/>404,42 <br/>
+<br/>416, 35 <br/>
 </td>
 <td align="center">
-<br/>369,82 <br/>
+<br/>380, 73 <br/>
 </td>
 <td align="center">
-<br/>351,02 <br/>
+<br/>361, 38 <br/>
 </td>
 </tr>
 <tr>
@@ -40,13 +40,13 @@ Les équivalences de loyer et de charges locatives de référence sont fixées c
 <br/>Couple sans personne à charge. <br/>
 </td>
 <td align="center">
-<br/>474,09 <br/>
+<br/>488, 08 <br/>
 </td>
 <td align="center">
-<br/>431,62 <br/>
+<br/>444, 35 <br/>
 </td>
 <td align="center">
-<br/>408,28 <br/>
+<br/>420, 32 <br/>
 </td>
 </tr>
 <tr>
@@ -54,13 +54,13 @@ Les équivalences de loyer et de charges locatives de référence sont fixées c
 <br/>Bénéficiaire isolé ou couple ayant une personne à charge. <br/>
 </td>
 <td align="center">
-<br/>505,52 <br/>
+<br/>520, 43 <br/>
 </td>
 <td align="center">
-<br/>460,19 <br/>
+<br/>473, 77 <br/>
 </td>
 <td align="center">
-<br/>433,15 <br/>
+<br/>445, 93 <br/>
 </td>
 </tr>
 <tr>
@@ -68,13 +68,13 @@ Les équivalences de loyer et de charges locatives de référence sont fixées c
 <br/>Bénéficiaire isolé ou couple ayant deux personnes à charge. <br/>
 </td>
 <td align="center">
-<br/>540,99 <br/>
+<br/>556, 95 <br/>
 </td>
 <td align="center">
-<br/>492,63 <br/>
+<br/>507, 16 <br/>
 </td>
 <td align="center">
-<br/>461,73 <br/>
+<br/>475, 35 <br/>
 </td>
 </tr>
 <tr>
@@ -82,13 +82,13 @@ Les équivalences de loyer et de charges locatives de référence sont fixées c
 <br/>Bénéficiaire isolé ou couple ayant trois personnes à charge. <br/>
 </td>
 <td align="center">
-<br/>576,62 <br/>
+<br/>593, 63 <br/>
 </td>
 <td align="center">
-<br/>524,92 <br/>
+<br/>540, 41 <br/>
 </td>
 <td align="center">
-<br/>490,32 <br/>
+<br/>504, 78 <br/>
 </td>
 </tr>
 <tr>
@@ -96,13 +96,13 @@ Les équivalences de loyer et de charges locatives de référence sont fixées c
 <br/>Bénéficiaire isolé ou couple ayant quatre personnes à charge. <br/>
 </td>
 <td align="center">
-<br/>621,94 <br/>
+<br/>640, 29 <br/>
 </td>
 <td align="center">
-<br/>559,35 <br/>
+<br/>575, 85 <br/>
 </td>
 <td align="center">
-<br/>522,44 <br/>
+<br/>537, 85 <br/>
 </td>
 </tr>
 <tr>
@@ -110,13 +110,13 @@ Les équivalences de loyer et de charges locatives de référence sont fixées c
 <br/>Par personne supplémentaire à charge. <br/>
 </td>
 <td align="center">
-<br/>64,51 <br/>
+<br/>66, 41 <br/>
 </td>
 <td align="center">
-<br/>58,30 <br/>
+<br/>60, 02 <br/>
 </td>
 <td align="center">
-<br/>54,10 <br/>
+<br/>55, 70 <br/>
 </td>
 </tr>
 </tbody>
