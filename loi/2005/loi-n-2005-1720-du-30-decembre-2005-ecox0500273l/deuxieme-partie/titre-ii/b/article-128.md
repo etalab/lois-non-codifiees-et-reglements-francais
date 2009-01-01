@@ -26,9 +26,11 @@ Ces documents sont relatifs aux politiques suivantes :
 
 11° Orientation et insertion professionnelle des jeunes ;
 
-12° Politique française de l'immigration et de l'intégration.
+12° Politique française de l'immigration et de l'intégration ;
 
-13° Politique de l'égalité entre les femmes et les hommes.
+13° Politique de l'égalité entre les femmes et les hommes ;
+
+14° Politique publique de lutte contre les drogues et les toxicomanies.
 
 Le document relatif à la politique mentionnée au 2° comporte également :
 
