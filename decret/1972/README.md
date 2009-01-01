@@ -36,6 +36,7 @@
 - [Décret n°72-678 du 20 juillet 1972](decret-n72-678-du-20-juillet-1972)
 - [Décret n°74-522 du 20 mai 1974](decret-n74-522-du-20-mai-1974)
 - [Décret n°72-1162 du 22 décembre 1972](decret-n72-1162-du-22-decembre-1972)
+- [Décret n°72-221 du 22 mars 1972](decret-n72-221-du-22-mars-1972)
 - [Décret n°72-513 du 22 juin 1972](decret-n72-513-du-22-juin-1972)
 - [Décret n°72-862 du 22 septembre 1972](decret-n72-862-du-22-septembre-1972)
 - [Décret n°73-979 du 22 octobre 1973](decret-n73-979-du-22-octobre-1973)
