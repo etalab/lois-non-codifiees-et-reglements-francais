@@ -1,3 +1,5 @@
 # Article 8
 
-Il est interdit aux administrateurs de prendre ou de conserver un intérêt personnel direct ou indirect dans une entreprise concluant un marché avec Voies navigables de France. Toutefois, avis en étant donné au soumis au contrôle permanent d'un membre du corps du contrôle général économique et financier, le commissaire du gouvernement peut autoriser des dérogations à cette règle à titre exceptionnel. Dans ce cas, l'administrateur intéressé ne prend pas part au vote relatif au projet du marché et si le conseil d'administration autorise la passation de ce marché, il doit se défaire de ses intérêts dans l'entreprise considérée, sauf si le commissaire du gouvernement l'autorise à les conserver.
+Il est interdit aux administrateurs de prendre ou de conserver un intérêt personnel direct ou indirect dans une entreprise concluant un marché avec Voies navigables de France, sauf accord du commissaire du Gouvernement, après avis du membre du corps du contrôle général économique et financier.
+
+Lorsque le conseil d'administration examine un marché ou une convention susceptibles d'être passés avec une entreprise dans laquelle un administrateur détient un intérêt personnel direct ou indirect, l'administrateur intéressé ne prend pas part à la délibération.

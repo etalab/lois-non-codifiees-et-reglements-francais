@@ -8,7 +8,7 @@ Ils peuvent être désignés ordonnateurs secondaires ou délégués de l'établ
 
 Ils peuvent saisir de toute question les commissions territoriales de leur circonscription.
 
-Dans l'accomplissement des missions que leurs services exercent comme services mis à disposition de l'établissement, ils relèvent de l'autorité fonctionnelle du président de celui-ci.
+Dans l'accomplissement des missions que leurs services exercent comme services mis à disposition de l'établissement, ils relèvent de l'autorité fonctionnelle du directeur général de celui-ci.
 
 Ils ont autorité sur les agents des services déconcentrés de l'établissement qui leur sont rattachés.
 

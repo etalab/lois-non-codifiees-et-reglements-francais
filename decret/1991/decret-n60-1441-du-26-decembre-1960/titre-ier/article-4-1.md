@@ -1,8 +1,8 @@
 # Article 4-1
 
-Le ministre chargé des voies navigables fixe les caractéristiques générales des voies navigables et arrête le tracé des voies navigables nouvelles.
+Le ministre chargé des transports fixe les caractéristiques générales des voies navigables et arrête le tracé des voies navigables nouvelles.
 
-Voies navigables de France prépare les projets techniques correspondant aux opérations à réaliser. Il soumet pour chaque opération les projets techniques correspondant à l'approbation préalable du ministre chargé des voies navigables :
+Voies navigables de France prépare les projets techniques correspondant aux opérations à réaliser. Il soumet pour chaque opération les projets techniques correspondant à l'approbation préalable du ministre chargé des transports :
 
 1° Lorsque l'opération relève d'une convention internationale ;
 

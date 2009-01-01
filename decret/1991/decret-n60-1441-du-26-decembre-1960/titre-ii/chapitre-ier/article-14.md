@@ -1,5 +1,3 @@
 # Article 14
 
-Le conseil d'administration peut déléguer une partie de ses attributions à son président.
-
-Les délibérations fixant les attributions déléguées au président sont soumises à l'approbation du ministre chargé des voies navigables et du ministre chargé du budget.
+Dans des conditions qu'il détermine, et à l'exclusion notamment de l'approbation de l'état prévisionnel des recettes et des dépenses et du compte financier, le conseil d'administration peut déléguer une partie de ses pouvoirs au directeur général, sous réserve pour lui d'agir dans le cadre des programmes de l'établissement et dans la limite des crédits ouverts par ses budgets. Le directeur général rend compte au conseil d'administration des décisions qu'il a prises par délégation de ce conseil.

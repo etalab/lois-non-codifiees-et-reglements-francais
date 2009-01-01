@@ -1,6 +1,6 @@
 # Article 16
 
-Le président met en oeuvre la politique arrêtée par le conseil d'administration.
+Le directeur général met en œuvre la politique arrêtée par le conseil d'administration et assure l'exécution de ses délibérations.
 
 Il est responsable de la bonne marche de l'établissement, de sa bonne gestion économique et financière.
 
@@ -20,4 +20,4 @@ Il arrête les comptes de l'établissement.
 
 Il présente chaque année au conseil le rapport annuel d'activité de l'établissement et l'état prévisionnel de recettes et de dépenses.
 
-Il peut déléguer, après accord du conseil d'administration, une partie des attributions qui lui sont propres ou qui lui ont été déléguées, au directeur général. Il peut également lui déléguer sa signature.
+En cas d'urgence, il modifie les jours et horaires de navigation ainsi que les périodes de chômage ; il rend compte de ses décisions à la séance du conseil d'administration la plus proche (1).
