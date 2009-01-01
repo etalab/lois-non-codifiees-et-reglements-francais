@@ -1,13 +1,15 @@
 # Article 6
 
-Le jury de l'examen est composé au plus de six personnes compétentes dans les matières prévues au programme et comprend :
+Le jury de l'examen est composé de cinq personnes compétentes dans les matières prévues au programme et comprend :
 
-- un représentant du ministre chargé des transports par voies navigables ;
+- un représentant du ministre chargé des transports, président du jury, et son suppléant ;
 
-- deux représentants de Voies navigables de France, dont le président ;
+- un représentant de VNF et son suppléant, proposés par VNF ;
 
-- un représentant des associations de formation professionnelle liées par une convention avec le ministre chargé des transports fluviaux ;
+- deux représentants des organisations professionnelles de transporteurs fluviaux les plus représentatives sur le plan national et un suppléant pour chacun d'entre eux, proposés par les organisations professionnelles ;
 
-- deux représentants des organisations professionnelles de transporteurs fluviaux les plus représentatives sur le plan national ou, en cas d'empêchement de l'un d'entre eux, le suppléant désigné pour le remplacer.
+- une personne qualifiée intervenant en matière de formation dans le secteur des transports et son suppléant.
 
-Un arrêté pris par le ministre chargé des transports par voies navigables nomme les membres du jury et désigne le président.
+Les membres suppléants ne peuvent siéger qu'en remplacement des membres titulaires.
+
+Les membres du jury et leurs suppléants respectifs sont nommés par arrêté du ministre chargé des transports fluviaux.
