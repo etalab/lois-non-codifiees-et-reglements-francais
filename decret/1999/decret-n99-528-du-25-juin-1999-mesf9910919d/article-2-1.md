@@ -1,3 +1,0 @@
-# Article 2-1
-
-La garantie contre le risque d'incapacité de travail assure à l'agent, sans condition d'ancienneté et pendant toute la durée du bénéfice des indemnités journalières de sécurité sociale, le versement d'une prestation différentielle. Cette prestation maintient à l'agent des ressources mensuelles égales au douzième de sa rémunération annuelle nette totale au cours des douze mois ayant précédé la date d'arrêt de travail initial. Cette prestation est calculée après déduction de la rémunération totale ou partielle maintenue par l'employeur, des indemnités journalières de sécurité sociale et des prestations complémentaires versées en application de l'article 2.

@@ -1124,7 +1124,6 @@
 - [Arrêté du 28 décembre 1994 (TEFO9500013A)](arrete-du-28-decembre-1994-tefo9500013a)
 - [Arrêté du 28 décembre 1994 (TEFO9500014A)](arrete-du-28-decembre-1994-tefo9500014a)
 - [Arrêté du 28 février 1995 (AGRH9500452A)](arrete-du-28-fevrier-1995-agrh9500452a)
-- [Arrêté du 28 février 1995 (DEFP9501162A)](arrete-du-28-fevrier-1995-defp9501162a)
 - [Arrêté du 28 février 1995 (INTD9500183A)](arrete-du-28-fevrier-1995-intd9500183a)
 - [Arrêté du 28 février 1995 (JUSC9520179A)](arrete-du-28-fevrier-1995-jusc9520179a)
 - [Arrêté du 28 février 1995 (TEFT9500280A)](arrete-du-28-fevrier-1995-teft9500280a)

@@ -612,7 +612,6 @@
 - [Décret n°84-304 du 25 avril 1984](decret-n84-304-du-25-avril-1984)
 - [Décret n°99-1003 du 25 novembre 1999 (MESS9922538D)](decret-n99-1003-du-25-novembre-1999-mess9922538d)
 - [Décret n°99-51 du 25 janvier 1999 (ECOT9810354D)](decret-n99-51-du-25-janvier-1999-ecot9810354d)
-- [Décret n°99-528 du 25 juin 1999 (MESF9910919D)](decret-n99-528-du-25-juin-1999-mesf9910919d)
 - [Décret n°99-531 du 25 juin 1999 (ECOP9900292D)](decret-n99-531-du-25-juin-1999-ecop9900292d)
 - [Décret n°99-534 du 25 juin 1999 (MESS9921801D)](decret-n99-534-du-25-juin-1999-mess9921801d)
 - [Décret n°99-743 du 25 août 1999 (EQUS9900985D)](decret-n99-743-du-25-aout-1999-equs9900985d)
