@@ -6,4 +6,6 @@ Les prestations familiales comprennent :
 
 2° L'allocation de rentrée scolaire ;
 
-3° L'allocation de logement.
+3° L'allocation de logement ;
+
+4° L'allocation d'éducation de l'enfant handicapé.
