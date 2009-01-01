@@ -453,7 +453,6 @@
 - [Décret n°2006-1204 du 29 septembre 2006 (MJSK0670206D)](decret-n2006-1204-du-29-septembre-2006-mjsk0670206d)
 - [Décret n°2006-1478 du 29 novembre 2006 (JUSK0640263D)](decret-n2006-1478-du-29-novembre-2006-jusk0640263d)
 - [Décret n°2006-1479 du 29 novembre 2006 (EQUP0601981D)](decret-n2006-1479-du-29-novembre-2006-equp0601981d)
-- [Décret n°2006-1481 du 29 novembre 2006 (SANH0624680D)](decret-n2006-1481-du-29-novembre-2006-sanh0624680d)
 - [Décret n°2006-1482 du 29 novembre 2006 (INTA0600267D)](decret-n2006-1482-du-29-novembre-2006-inta0600267d)
 - [Décret n°2006-1485 du 29 novembre 2006 (DEFS0601490D)](decret-n2006-1485-du-29-novembre-2006-defs0601490d)
 - [Décret n°2006-1493 du 29 novembre 2006 (MENF0601967D)](decret-n2006-1493-du-29-novembre-2006-menf0601967d)
