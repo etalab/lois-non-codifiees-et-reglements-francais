@@ -26,4 +26,10 @@ k) Récupération de TVA ;
 
 l) Taxe d'apprentissage ;
 
-m) Produits de la vente de documents, ouvrages ou produits dérivés.
+m) Produits de la vente de documents, ouvrages ou produits dérivés ;
+
+n) Restitution de toutes ou parties d'avances indûment versées au titre des dépenses énumérées à l'article 6 du présent arrêté ;
+
+o) Cessions à titre onéreux de produits pétroliers ou assimilés ;
+
+p) Produit des insertions publicitaires, petites annonces, abonnements, ventes par correspondance et en kiosque.
