@@ -1,43 +1,31 @@
 # Article 2
 
-I - Chaque assujetti opte pour l'une des classes de cotisation du régime complémentaire obligatoire.
+I-A partir du 1er juillet 2009, chaque assujetti opte pour l'une des classes de cotisation du régime complémentaire obligatoire.
 
-L'assujetti qui n'a pas expressément opté est classé d'office dans la classe 1 de ce régime.
+L'assujetti qui n'a pas expressément opté est classé d'office dans la classe 3 de ce régime.
 
 Le choix exercé à l'origine peut être modifié par l'assujetti dans les conditions fixées par les statuts mentionnés à l'article 4 ci-après.
 
-II - A partir du 1er janvier 1987, l'assujetti opte pour l'une des classes de cotisation 1, 3, 5, 7, 9, 11 et 13 ci-après :
+II-A partir du 1er juillet 2009, l'assujetti opte pour l'une des classes de cotisation 3, 5, 7, 9, 11 et 13 ci-après :
 
-Classe 1 - Cotisation égale à cinq fois la cotisation de référence ;
+Classe 3-Cotisation égale à sept fois la cotisation de réference ;
 
-Classe 3 - Cotisation égale à sept fois la cotisation de réference ;
+Classe 5-Cotisation égale à neuf fois la cotisation de référence ;
 
-Classe 5 - Cotisation égale à neuf fois la cotisation de référence ;
+Classe 7-Cotisation égale à onze fois la cotisation de réference ;
 
-Classe 7 - Cotisation égale à onze fois la cotisation de réference ;
+Classe 9-Cotisation égale à treize fois la cotisation de référence ;
 
-Classe 9 - Cotisation égale à treize fois la cotisation de référence ;
+Classe 11-Cotisation égale à quinze fois la cotisation de référence ;
 
-Classe 11 - Cotisation égale à quinze fois la cotisation de référence ;
+Classe 13-Cotisation égale à dix-sept fois la cotisation de référence.
 
-Classe 13 - Cotisation égale à dix-sept fois la cotisation de référence.
+III.-A partir du 1er juillet 2009, les assujettis qui sont demeurés inscrits à titre transitoire dans la classe 2 ou la classe 4 sont classés d'office dans la classe 3.
 
-III - Des dispositions transitoires fixées par les statuts mentionnés à l'article 4 ci-après déterminent les modalités de maintien dans les classes 2 et 4 des assujettis qui ont opté pour l'une ou l'autre de ces classes avant le 31 décembre 1973 et désirent y rester inscrits.
+IV.-Des dispositions transitoires fixées par les statuts mentionnés à l'article 4 déterminent les modalités de maintien dans la classe 1 des assujettis qui ont opté pour cette classe avant le 1er juillet 2009.
 
-Les cotisations desdites classes sont égales respectivement, à partir du 1er janvier 1987, à six fois et huit fois la cotisation de référence.
+V.-A partir du 1er janvier 2009, le montant de la cotisation de référence est fixé chaque année par décret sur proposition du conseil d'administration de la section professionnelle.
 
-IV - La cotisation de référence est fixée chaque année [*périodicité*] par le conseil d'administration de la section professionnelle des pharmaciens.
+Cette proposition est établie selon les modalités prévues par les statuts mentionnés à l'article 4.
 
-Cette cotisation est assise sur la somme du prix de vente hors taxe de certains médicaments (spécialités et produits de droguerie pharmaceutique) et de la rémunération du pharmacien assistant bénéficiant du coefficient hiérarchique 400 de l'échelle des salaires (groupe III, classe A).
-
-Son taux est calculé chaque année en multipliant le taux mathématique établi pour l'année précédente par un coefficient déterminé comme suit, le résultat étant arrondi à l'euro supérieur.
-
-Le coefficient est égal à la moyenne :
-
-1° du rapport de la rémunération du pharmacien assistant en vigueur pendant le dernier exercice à la rémunération en vigueur pendant l'avant-dernier exercice ;
-
-2° du rapport des prix de vente hors taxe de quatre-vingts spécialités et vingt produits de droguerie pharmaceutique pratiqués pendant le dernier exercice aux prix pratiqués pendant l'avant-dernier exercice ;
-
-La liste des spécialités et des produits de droguerie pharmaceutique entrant en ligne de compte est arrêtée par le conseil d'administration de la section professionnelle des pharmaciens.
-
-Des réductions de cotisations peuvent être accordées aux pharmaciens dans les conditions fixées à l'article D. 642-4 du code de la sécurité sociale.
+Des réductions de cotisations pour insuffisance de revenus et des exonérations de cotisations pour incapacité temporaire d'exercice peuvent être accordées aux pharmaciens dans les conditions fixées par les mêmes statuts.
