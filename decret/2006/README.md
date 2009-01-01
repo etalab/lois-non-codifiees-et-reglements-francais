@@ -63,6 +63,7 @@
 - [Décret n°2006-1559 du 7 décembre 2006 (SANS0623995D)](decret-n2006-1559-du-7-decembre-2006-sans0623995d)
 - [Décret n°2006-1567 du 7 décembre 2006 (SANG0624103D)](decret-n2006-1567-du-7-decembre-2006-sang0624103d)
 - [Décret n°2006-665 du 7 juin 2006 (ECOJ0600006D)](decret-n2006-665-du-7-juin-2006-ecoj0600006d)
+- [Décret n°2006-670 du 7 juin 2006 (SANS0621558D)](decret-n2006-670-du-7-juin-2006-sans0621558d)
 - [Décret n°2006-814 du 7 juillet 2006 (ECOP0600334D)](decret-n2006-814-du-7-juillet-2006-ecop0600334d)
 - [Décret n°2006-130 du 8 février 2006 (SANA0620591D)](decret-n2006-130-du-8-fevrier-2006-sana0620591d)
 - [Décret n°2006-1352 du 8 novembre 2006 (JUSK0640236D)](decret-n2006-1352-du-8-novembre-2006-jusk0640236d)
