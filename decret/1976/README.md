@@ -39,7 +39,6 @@
 - [Décret n°76-548 du 16 juin 1976](decret-n76-548-du-16-juin-1976)
 - [Décret n°76-550 du 16 juin 1976](decret-n76-550-du-16-juin-1976)
 - [Décret n°57-1176 du 17 octobre 1957](decret-n57-1176-du-17-octobre-1957)
-- [Décret n°77-965 du 17 août 1977](decret-n77-965-du-17-aout-1977)
 - [Décret n°77-179 du 18 février 1977](decret-n77-179-du-18-fevrier-1977)
 - [Décret n°76-435 du 18 mai 1976](decret-n76-435-du-18-mai-1976)
 - [Décret n°76-451 du 18 mai 1976](decret-n76-451-du-18-mai-1976)
