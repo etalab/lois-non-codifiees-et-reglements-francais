@@ -22,7 +22,7 @@ La contribution de l'Etat à la rétribution des avocats qui prêtent leur conco
 <p align="center">3 majorations)</p>
 </td>
 <td rowspan="2">
-<p align="center"> Mesures de médiation ordonnées par le juge</p>
+<p align="center">Mesures de médiation ordonnées par le juge </p>
 </td>
 <td colspan="2" width="137">
 <p align="center">Expertises</p>
@@ -647,7 +647,7 @@ La contribution de l'Etat à la rétribution des avocats qui prêtent leur conco
 <p>IV.5. Requête</p>
 </td>
 <td width="58">
-<p align="center">4</p>
+<p align="center">4 (9)</p>
 </td>
 <td width="79">
 <br/>
@@ -809,7 +809,7 @@ La contribution de l'Etat à la rétribution des avocats qui prêtent leur conco
 </tr>
 <tr>
 <td colspan="8" valign="top" width="605">
-<p>(1) Ces incidents sont ceux qui donnent lieu, après discussion contradictoire, à une décision du magistrat chargé de l'instruction de l'affaire, dans les cas prévus aux 1° à 4° de l'article 771 du nouveau code de procédure civile et aux articles 911, 912 et 944 du même code.</p>
+<p>(1) Ces incidents sont ceux qui donnent lieu, après discussion contradictoire, à une décision du magistrat chargé de l'instruction de l'affaire, dans les cas prévus aux 1° à 4° de l'article 771 du code de procédure civile et aux articles 911, 912 et 944 du même code.</p>
 <p>(2) Porté à 50 UV quand le même avocat représente deux époux et que ceux-ci ont tous deux l'aide juridictionnelle.</p>
 <p>(3) Ainsi qu'en cas de renvoi à la formation collégiale (art. L. 311-12-2 du code de l'organisation judiciaire).</p>
 <p>(4) Le nombre d'UV est de 26 pour les missions d'aide juridictionnelles achevées à compter du 1er janvier 2004 ; il est de 24 pour les missions achevées entre la date de publication du décret n° 2003-853 du 5 septembre 2003 et le 31 décembre 2003.</p>
@@ -818,6 +818,7 @@ La contribution de l'Etat à la rétribution des avocats qui prêtent leur conco
 <p>(7) Ces coefficients sont portés respectivement à 20 et 24 en cas de procédure d'appel sans représentation obligatoire.</p>
 <p>(8) Ce coefficient est porté à 36 UV en cas de projet d'acte notarié de liquidation du régime matrimonial homologué par le juge aux affaires familiales lors du prononcé du divorce. <br/>
 </p>
+<p>(9) Y compris l'ouverture d'une mesure judiciaire d'aide à la gestion du budget familial sur requête ou saisine d'office du juge.</p>
 </td>
 </tr>
 </tbody>
@@ -1238,7 +1239,9 @@ La contribution de l'Etat à la rétribution des avocats qui prêtent leur conco
 </td>
 </tr>
 <tr>
-<td align="center" valign="top" width="535">XVI. - Assistance d'un requérant devant le tribunal départemental des  pensions ou la cour régionale des pensions et les autres juridictions  administratives, sauf le Conseil d'Etat</td>
+<td align="center" valign="top" width="535">
+<p>XVI. - Assistance d'un requérant devant le tribunal départemental des  pensions ou la cour régionale des pensions et les autres juridictions  administratives, sauf le Conseil d'Etat</p>
+</td>
 <td valign="top" width="69">
 <br/>
 <br/>
