@@ -8,7 +8,7 @@ Confédération française démocratique du travail (C.F.D.T.) :
 
 trois dont un retraité.
 
-Confédération générale du travail-Force ouvrière (C.G.T. F.O.) : trois dont un retraité.
+Confédération générale du travail-Force ouvrière (C.G.T.F.O.) : trois dont un retraité.
 
 Confédération française des travailleurs chrétiens (C.F.T.C.) :
 
@@ -16,6 +16,8 @@ un.
 
 Confédération générale des cadres (C.G.C.) : un.
 
-/M/Fédération générale des cadres fonctionnaires (union des cadres et techniciens (U.C.T.) : un/M/ARR. 1979-07-20 :
+/ M / Fédération générale des cadres fonctionnaires (union des cadres et techniciens (U.C.T.) : un / M / ARR. 1979-07-20 :
 
-Union nationale des syndicats autonomes : deux    Fédération syndicale unifiée (F.S.U.) : un.
+Union nationale des syndicats autonomes : deux Fédération syndicale unifiée (F.S.U.) : un.
+
+Union syndicale solidaires : un.

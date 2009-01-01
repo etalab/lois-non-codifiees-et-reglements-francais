@@ -4,7 +4,7 @@ Les comités du travail se réunissent trois fois par an. Une réunion exception
 
 Les délégués des comités du travail disposent de la journée qui précède la réunion pour examiner en commun les questions figurant à l'ordre du jour.
 
-Le comité du travail ne peut se tenir sans la participation du directeur régional du travail des transports ou de son représentant. Le comité du travail se tient même en cas d'absence d'un ou de plusieurs de ses membres régulièrement convoqués.
+Le comité du travail ne peut se tenir sans la participation directeur régional du travail, de l'emploi et de la formation professionnelle ou de son représentant. Le comité du travail se tient même en cas d'absence d'un ou de plusieurs de ses membres régulièrement convoqués.
 
 Les délégués des comités du travail des agents de conduite et des agents d'accompagnement des trains de voyageurs ainsi que le représentant de l'inspection du travail des transports reçoivent les roulements de service établis par la région ainsi que les rectificatifs qui y sont apportés. Ils reçoivent également chaque mois les fiches d'étude des dérogations chroniques et, chaque trimestre civil, un état donnant, par établissement, une statistique des dépassements aux limites maximales prévues par le décret du 29 décembre 1999 susvisé, telles qu'elles sont définies dans l'arrêté du 27 juillet 2001 relatif aux dépassements de limites maximales réglementaires ouvrant droit à indemnités pris en application de l'article 53 du décret n° 99-1161 du 29 décembre 1999.
 

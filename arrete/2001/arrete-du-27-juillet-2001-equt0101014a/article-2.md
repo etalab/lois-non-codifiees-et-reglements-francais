@@ -22,4 +22,4 @@ Comités du travail du personnel sédentaire :
 
 Les comités du travail du personnel des organismes de la direction de l'entreprise comportent le même nombre de délégués que les comités du travail du personnel sédentaire. Pour chacun de ces comités, leur répartition entre les différentes catégories de personnel est fixée par la SNCF, après avis de la commission nationale mixte, selon la répartition des effectifs des personnels des organismes concernés entre lesdites catégories.
 
-Le directeur régional du travail des transports territorialement compétent ou son représentant participe aux réunions des comités.
+Le directeur régional du travail, de l'emploi et de la formation professionnelle territorialement compétent ou son représentant participe aux réunions des comités.

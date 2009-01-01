@@ -4,7 +4,7 @@
 
 Il invite chacun des candidats, dont il a transmis le dossier à la commission, à se présenter devant celle-ci en vue d'un entretien destiné à vérifier que ses connaissances sont suffisantes pour lui permettre d'assurer la direction d'une entreprise de transport routier de marchandises ou de location de véhicules industriels avec conducteur.
 
-2. La commission consultative régionale demande les avis du directeur régional de l'équipement et du directeur régional du travail des transports concernant notamment le comportement, au regard des réglementations des transports, du travail et de la sécurité, de l'entreprise dans laquelle le demandeur a exercé son activité professionnelle.
+2. La commission consultative régionale demande les avis du directeur régional de l'équipement et du directeur régional du travail, de l'emploi et de la formation professionnelle concernant notamment le comportement, au regard des réglementations des transports, du travail et de la sécurité, de l'entreprise dans laquelle le demandeur a exercé son activité professionnelle.
 
 A la suite de l'entretien avec le candidat, la commission délivre un avis favorable ou défavorable.
 

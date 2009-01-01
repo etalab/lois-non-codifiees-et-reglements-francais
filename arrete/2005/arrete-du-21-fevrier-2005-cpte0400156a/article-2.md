@@ -13,6 +13,12 @@ Les crédits budgétaires ouverts pour le service de la prime de rendement prév
 </td>
 </tr>
 <tr>
+<td>Président de chambre à la Cour des comptes</td>
+<td>
+<p align="center">276</p>
+</td>
+</tr>
+<tr>
 <td valign="top" width="454">
 <p>Président de chambre maintenu </p>
 </td>

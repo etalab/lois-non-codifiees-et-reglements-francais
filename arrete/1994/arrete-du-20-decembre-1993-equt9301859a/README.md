@@ -6,4 +6,3 @@
 - [TITRE IV : Dispositions diverses.](titre-iv)
 - [Article 13](article-13.md)
 - [Annexe](annexe)
-- [Annexes](annexes)

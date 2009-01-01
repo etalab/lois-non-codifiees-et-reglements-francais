@@ -1,6 +1,6 @@
 # Article 4
 
-Le contrôle de l'application de la réglementation du travail faisant l'objet du décret du 29 décembre 1999 susvisé ainsi que de l'instruction prise pour son application et homologuée par décision du ministre chargé des transports du 12 décembre 2000 est assuré par les inspecteurs du travail des transports.
+Le contrôle de l'application de la réglementation du travail faisant l'objet du décret du 29 décembre 1999 susvisé ainsi que de l'instruction prise pour son application et homologuée par décision du ministre chargé des transports du 12 décembre 2000 est assuré par les inspecteurs du travail.
 
 Dans le cadre de leur mission, les délégués du personnel sont habilités à présenter au directeur de l'établissement les réclamations portant sur l'application de cette réglementation.A cet effet, ils peuvent consulter l'état des dérogations et dépassements et des fiches d'étude de dérogations et obtenir, s'ils en font la demande, un extrait des données de commande se rapportant aux journées de travail à propos desquelles une difficulté d'application a été constatée, pour autant que ce document ne comporte aucune information relative à la situation personnelle des agents. Ils peuvent demander l'examen des difficultés constatées en réunion de délégués du personnel.
 

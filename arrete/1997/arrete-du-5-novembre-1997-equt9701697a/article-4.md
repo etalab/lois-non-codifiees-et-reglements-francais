@@ -2,7 +2,7 @@
 
 La commission comprend, outre son président et son président délégué :
 
-- six représentants désignés par le ministre chargé des transports, dont trois représentants de la direction des transports ferroviaires et collectifs, un représentant de l'inspection générale du travail des transports, un représentant d'une mission d'inspection générale intervenant sur des zones de montagne et un représentant des services déconcentrés ;
+- six représentants désignés par le ministre chargé des transports, dont trois représentants de la direction des transports ferroviaires et collectifs, un représentant de la direction générale du travail, un représentant d'une mission d'inspection générale intervenant sur des zones de montagne et un représentant des services déconcentrés ;
 
 - un représentant désigné par le ministre chargé du tourisme ;
 
