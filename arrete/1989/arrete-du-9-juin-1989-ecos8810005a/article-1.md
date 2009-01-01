@@ -49,3 +49,5 @@ Le département de l'organisation et des méthodes de la production comprend :
 -la division d'organisation de la production ;
 
 -la division de la collecte.
+
+La sous-direction " centre d'enquêtes statistiques " comprend le bureau des méthodes et de la coordination de la production, la division des moyens d'enquêtes et de diffusion, la division informatique et quatre divisions sectorielles. La sous-direction de l'ingénierie et de la coordination statistiques comprend le bureau de la méthodologie statistique et le bureau des nomenclatures. La sous-direction de l'informatique et de la bureautique comprend le bureau de la production et des infrastructures informatiques et le bureau de la politique et du développement des applications informatiques. Ces trois sous-directions sont coordonnées par un responsable de pôle auquel est rattachée la mission des affaires générales.
