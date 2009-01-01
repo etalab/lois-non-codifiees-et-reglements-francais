@@ -6,4 +6,4 @@ Peuvent accéder aux données enregistrées dans le traitement prévu à l'artic
 
 -les agents des services de renseignement du ministère de la défense chargés des missions de prévention des actes de terrorisme individuellement désignés et spécialement habilités respectivement par le directeur général de la sécurité extérieure, le directeur de la protection et de la sécurité de la défense ou le directeur du renseignement militaire.
 
-Les dispositions du présent article sont applicables jusqu'au 31 décembre 2008.
+Les dispositions du présent article sont applicables jusqu'au 31 décembre 2012.
