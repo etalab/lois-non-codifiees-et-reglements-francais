@@ -8,23 +8,9 @@ II.-Par dérogation au I, sont créés les corps suivants, régis par le titre I
 
 a) Le corps des adjoints administratifs de la police nationale.
 
-2° Au sein du ministère de la justice, jusqu'au 31 décembre 2008 :
+2° (supprimé)
 
-a) Le corps des adjoints administratifs d'administration centrale du ministère de la justice ;
-
-b) Le corps des adjoints administratifs des services judiciaires ;
-
-c) Le corps des adjoints administratifs des services déconcentrés de l'administration pénitentiaire ;
-
-d) Le corps des adjoints administratifs des services déconcentrés de la direction de la protection judiciaire de la jeunesse ;
-
-e) Le corps des adjoints administratifs de la grande chancellerie de la Légion d'honneur.
-
-3° Au sein du ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche, jusqu'au 31 décembre 2008 :
-
-a) Le corps des adjoints administratifs d'administration centrale du ministère de l'éducation nationale ;
-
-b) Le corps des adjoints administratifs des services déconcentrés du ministère de l'éducation nationale.
+3° (supprimé)
 
 4° Au sein du ministère de l'économie, des finances et de l'industrie :
 

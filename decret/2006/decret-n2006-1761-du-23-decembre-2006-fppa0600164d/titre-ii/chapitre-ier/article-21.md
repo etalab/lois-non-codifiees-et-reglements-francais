@@ -4,15 +4,7 @@ I.-Sous réserve des dispositions de l'article 39, il est créé, au sein de cha
 
 II.-Par dérogation au I, sont créés les corps suivants, régis par le titre Ier du présent décret :
 
-1° Au sein du ministère de la justice, jusqu'au 31 décembre 2008 :
-
-a) Le corps des adjoints techniques d'administration centrale du ministère de la justice ;
-
-b) Le corps des adjoints techniques des services judiciaires ;
-
-c) Le corps des adjoints techniques des services déconcentrés de la direction de la protection judiciaire de la jeunesse ;
-
-d) Le corps des adjoints techniques de la grande chancellerie de la Légion d'honneur.
+1°  (supprimé)
 
 2° Au sein du ministère de l'intérieur et de l'aménagement du territoire :
 
