@@ -11,7 +11,7 @@ Dès lors qu'ils exercent en services déconcentrés ou dans les établissements
 </tr>
 <tr>
 <td valign="top">
-<p>Secrétaires généraux d'administration scolaire et universitaire. </p>
+<p>Administrateurs de l'éducation nationale, de l'enseignement supérieur et de la recherche. </p>
 <p>Conseillers d'administration scolaire et universitaire. </p>
 <p>Attachés principaux d'administration scolaire et universitaire de 1re et de 2e classe. </p>
 <p>Attachés principaux d'administration de recherche et de formation de 1re et de 2e classe. </p>
