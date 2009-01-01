@@ -1,5 +1,485 @@
 # Article 20
 
-Pour l'application de l'article L. 16 du code des pensions civiles et militaires de retraite, les assimilations prévues pour fixer les nouveaux indices de solde mentionnés à l'article L. 15 dudit code seront déterminées conformément au tableau de correspondance ci-après : [*tableau non reproduit*].
+Tant que l'officier n'a pas accédé au grade supérieur à celui dans lequel il a été reclassé, l'avancement dans les échelons s'effectue conformément au tableau suivant :
 
-Les pensions des officiers admis à la retraite avant l'entrée en vigueur du présent décret et celles de leurs ayants droit seront revisées à compter de la date de son application aux officiers en activité.
+<table>
+<tbody>
+<tr>
+<th>
+<br/>GRADES <br/>
+</th>
+<th>
+<br/>DÉSIGNATION <p>des échelons <br/>
+</p>
+</th>
+<th>
+<br/>CONDITIONS <p>d'accès à l'échelon <br/>
+</p>
+</th>
+<th>
+<br/>RÈGLES <p>particulières <br/>
+</p>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Général de division <br/>
+</td>
+<td align="center">
+<br/>Echelon unique <br/>
+</td>
+<td align="center">
+<br/>/ <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Général de brigade <br/>
+</td>
+<td align="center">
+<br/>Echelon unique <br/>
+</td>
+<td align="center">
+<br/>/ <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Colonel <br/>
+</td>
+<td align="center">
+<br/>Echelon exceptionnel <br/>
+</td>
+<td align="center">
+<br/>Après 5 ans de grade, dont 1 an dans l'échelon précédent, pour les colonels nommés à un emploi fonctionnel figurant sur une liste fixée par décision du ministre de la défense ; ou après 7 ans de grade dont 1 an dans l'échelon précédent. <br/>
+</td>
+<td align="center">
+<br/>Echelon accessible dans la limite d'un contingent numérique fixé par arrêté du ministre de la défense et des ministres chargés du budget et de la fonction publique. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>3e échelon <br/>
+</td>
+<td align="center">
+<br/>Après 3 ans dans l'échelon précédent <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>2e échelon <br/>
+</td>
+<td align="center">
+<br/>Après 1 an dans l'échelon précédent <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>1er échelon <br/>
+</td>
+<td align="center">
+<br/>/ <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Lieutenant-colonel <br/>
+</td>
+<td align="center">
+<br/>2e échelon exceptionnel <br/>
+</td>
+<td align="center">
+<br/>Après 3 ans à l'échelon précédent <br/>
+</td>
+<td align="center">
+<br/>Echelon attribué dans la limite de 25 % de l'effectif de l'échelon précédent (1). <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>1er échelon exceptionnel <br/>
+</td>
+<td align="center">
+<br/>Après 9 ans de grade <p>et avant 13 ans de grade <br/>
+</p>
+</td>
+<td align="center">
+<br/>Echelon attribué dans la limite de 7 % de l'effectif du grade (1). <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>4e échelon <br/>
+</td>
+<td align="center">
+<br/>Après 2 ans dans l'échelon précédent <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>3e échelon <br/>
+</td>
+<td align="center">
+<br/>Après 1 an dans l'échelon précédent <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>2e échelon <br/>
+</td>
+<td align="center">
+<br/>Après 1 an dans l'échelon précédent <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>1er échelon <br/>
+</td>
+<td align="center">
+<br/>/ <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Commandant <br/>
+</td>
+<td align="center">
+<br/>2e échelon exceptionnel <br/>
+</td>
+<td align="center">
+<br/>Après 3 ans à l'échelon précédent <br/>
+</td>
+<td align="center">
+<br/>Echelon attribué dans la limite de 25 % de l'effectif de l'échelon précédent (1). <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>1er échelon exceptionnel <br/>
+</td>
+<td align="center">
+<br/>Après 8 ans de grade <p>et avant 11 ans de grade <br/>
+</p>
+</td>
+<td align="center">
+<br/>Echelon attribué dans la limite de 5 % de l'effectif du grade (1). <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>4e échelon <br/>
+</td>
+<td align="center">
+<br/>Après 4 ans dans l'échelon précédent <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>3e échelon <br/>
+</td>
+<td align="center">
+<br/>Après 1 an dans l'échelon précédent <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>2e échelon <br/>
+</td>
+<td align="center">
+<br/>Après 1 an dans l'échelon précédent <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>1er échelon <br/>
+</td>
+<td align="center">
+<br/>/ <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Capitaine <br/>
+</td>
+<td align="center">
+<br/>Echelon exceptionnel <br/>
+</td>
+<td align="center">
+<br/>Après 10 ans de grade <p>et avant 14 ans de grade <br/>
+</p>
+</td>
+<td align="center">
+<br/>Echelon attribué dans la limite de 3 % de l'effectif du grade (1). <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>5e échelon <br/>
+</td>
+<td align="center">
+<br/>Après 4 ans dans l'échelon précédent <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>4e échelon <br/>
+</td>
+<td align="center">
+<br/>Après 1 an dans l'échelon précédent <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>3e échelon <br/>
+</td>
+<td align="center">
+<br/>Après 1 an dans l'échelon précédent <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>2e échelon <br/>
+</td>
+<td align="center">
+<br/>Après 1 an dans l'échelon précédent <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>1er échelon <br/>
+</td>
+<td align="center">
+<br/>/ <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Lieutenant <br/>
+</td>
+<td align="center">
+<br/>4e échelon <br/>
+</td>
+<td align="center">
+<br/>Après 1 an dans l'échelon précédent <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>3e échelon <br/>
+</td>
+<td align="center">
+<br/>Après 1 an dans l'échelon précédent <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>2e échelon <br/>
+</td>
+<td align="center">
+<br/>Après 1 an dans l'échelon précédent <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>1er échelon <br/>
+</td>
+<td align="center">
+<br/>/ <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Sous-lieutenant <br/>
+</td>
+<td align="center">
+<br/>Echelon unique <br/>
+</td>
+<td align="center">
+<br/>/ <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<br/>(1) Ce nombre est arrondi à l'unité supérieure. <br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+Lorsque l'officier accède au grade supérieur, l'avancement dans les échelons s'effectue dans les conditions prévues à l'article 14.

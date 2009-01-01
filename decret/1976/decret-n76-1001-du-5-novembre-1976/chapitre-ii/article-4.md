@@ -1,7 +1,3 @@
 # Article 4
 
-Les officiers du cadre spécial de l'armée de terre sont recrutés, dans les conditions fixées aux articles suivants, parmi :
-
-1° Les officiers de carrière des armes de l'armée de terre d'un grade au plus égal à celui de colonel ;
-
-2° Dans la limite des pourcentages fixés à l'article 7, les officiers de carrière du corps technique et administratif de l'armée de terre des grades de capitaine, commandant ou lieutenant-colonel.
+Il n'est plus procédé au recrutement dans le corps des officiers du cadre spécial de l'armée de terre à compter du 1er janvier 2009, ni à l'admission dans ce corps par application des dispositions de l'article L. 4133-1 du code de la défense.

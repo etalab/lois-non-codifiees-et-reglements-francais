@@ -1,5 +1,5 @@
 # Article 18
 
-Un arrêté du ministre de la défense fixe chaque année les contingents d'officiers qui peuvent bénéficier, par arrêté de ce ministre, des dispositions de l'article 80-1 et du c de l'article 69 de la loi du 13 juillet 1972 susvisée.
+Les officiers ne pouvant pas bénéficier d'une pension de retraite dans les conditions fixées par les dispositions du II de l'article L. 24 du code des pensions civiles et militaires de retraite peuvent déposer une demande de démission en application de l'article L. 4139-13 du code de la défense.
 
-Le nombre des officiers susceptibles de bénéficier chaque année de chacune de ces dispositions ne peut être inférieur à cinq pour cent du nombre de nominations effectuées chaque année au grade de capitaine.
+Sous réserve des dispositions prévues au deuxième alinéa de l'article L. 4139-13, le nombre de démissions agréées chaque année par le ministre de la défense en application du premier alinéa du présent article ne peut être inférieur à 0, 5 pour 100, arrondis à l'unité supérieure, de l'effectif du corps.
