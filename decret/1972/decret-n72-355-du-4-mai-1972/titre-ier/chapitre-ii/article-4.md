@@ -26,7 +26,7 @@ Un magistrat ancien auditeur de justice ayant moins de sept ans de services effe
 
 Un membre des professions judiciaires ;
 
-Trois personnalités qualifiées, dont une personne exerçant l'une des fonctions à la formation desquelles l'Ecole nationale de la magistrature peut contribuer, en application de l'article 41-2.
+Trois personnalités qualifiées, dont une personne exerçant l'une des fonctions à la formation desquelles l'Ecole nationale de la magistrature peut contribuer, en application du b de l'article 1er-1.
 
 c) Deux membres nommés par arrêté conjoint du garde des Sceaux, ministre de la justice, et du ministre de l'éducation nationale :
 
@@ -34,16 +34,14 @@ Un directeur d'institut d'études judiciaires ;
 
 Un professeur des universités.
 
-d) Un chargé de formation ou son suppléant, élus au scrutin uninominal à deux tours et à bulletin secret par l'ensemble des chargés de formation réunis en collège par le directeur.
+d) Un coordonnateur de formation ou coordonnateur régional de formation ou son suppléant, élus au scrutin uninominal majoritaire à un tour et à bulletin secret par l'ensemble des coordonnateurs de formation, coordonnateurs régionaux de formation et enseignants associés réunis en collège par le directeur.
 
-e) Un magistrat délégué à la formation et un directeur de centre de stage, nommés par arrêté du garde des sceaux, ministre de la justice, sur proposition du directeur de l'école.
+e) Un magistrat délégué à la formation et un directeur de centre de stage, ou leur suppléant, élus au scrutin uninominal majoritaire à un tour et à bulletin secret par l'ensemble des directeurs de centre de stage et des magistrats délégués à la formation réunis en collège par le directeur.
 
-f) Un représentant de chaque syndicat ou organisation professionnelle représentatif à l'égard des magistrats d'après le nombre de voix recueillies lors de l'élection du collège des magistrats, désigné par le garde des sceaux, ministre de la justice, sur proposition desdits syndicats ou organisations.
+f) Un représentant du personnel ou son suppléant, élus au scrutin uninominal majoritaire à un tour et à bulletin secret par l'ensemble des membres du personnel administratif et technique.
 
-g) Deux représentants des auditeurs de justice de chaque promotion, élus dans les conditions prévues à l'article 6.
+g) Deux représentants des auditeurs de justice de chacune des promotions en cours de formation en deuxième et troisième année, élus au scrutin uninominal majoritaire à un tour et à bulletin secret.
 
 Les membres du conseil d'administration mentionnés au g ne participent pas aux travaux du conseil portant nomination de magistrats délégués à la formation, de directeurs de centre de stage ou de membres de jurys prévus par le présent décret.
 
-Les membres du conseil d'administration visés au f ont voix consultative.
-
-Le directeur de l'école, le membre du corps du contrôle général économique et financier et l'agent comptable assistent aux délibérations du conseil. Le directeur peut se faire accompagner par toute personne de son choix appartenant au personnel de direction ou l'enseignement de l'école. Le président peut également appeler toute personne de son choix à participer aux délibérations. Les personnes mentionnées au présent alinéa ont voix consultative.
+Un représentant de chaque syndicat ou organisation professionnelle représentatif à l'égard des magistrats d'après le nombre de voix recueillies lors de l'élection du collège des magistrats, désigné par le garde des sceaux, ministre de la justice, sur proposition desdits syndicats ou organisations, et deux représentants des auditeurs de justice de la promotion en cours de formation en première année élus dans les conditions prévues au g siègent au conseil d'administration avec voix consultative. Siègent également au conseil, avec voix consultative, le directeur de l'école, le membre du corps du contrôle général économique et financier et l'agent comptable. Le directeur peut se faire accompagner par toute personne de son choix appartenant au personnel de direction ou d'enseignement de l'école. Le président peut également appeler toute personne de son choix à assister aux délibérations.

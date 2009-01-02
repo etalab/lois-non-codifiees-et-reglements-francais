@@ -1,9 +1,5 @@
 # Article 3
 
-Le directeur est secondé par un directeur de la formation initiale et des recrutements, par un directeur de la formation continue et du département international et par un secrétaire général.
-
-Le directeur de la formation initiale et des recrutements est secondé par un sous-directeur des études et par deux sous-directeurs des stages.
-
-Le directeur de la formation continue et du département international est secondé par un sous-directeur de la formation continue et par un sous-directeur chargé du département international.
-
-Les fonctions de directeur adjoint sont exercées soit par le directeur de la formation initiale et des recrutements, soit par le directeur de la formation continue et du département international.
+Le directeur est secondé par les personnels de direction mentionnés à l'
+article 1er du décret n° 99-1073 du 21 décembre 1999
+modifié régissant les emplois de l'Ecole nationale de la magistrature.

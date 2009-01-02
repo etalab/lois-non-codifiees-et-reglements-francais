@@ -1,9 +1,11 @@
 # Article 37
 
-La note de l'épreuve d'exercices physiques est attribuée à la suite d'exercices différents et suivant une échelle de cotation spécifique pour les candidats de l'un et l'autre sexe.
+Nul ne peut être nommé plus de trois fois membre d'un jury de concours d'accès à l'Ecole nationale de la magistrature et plus de quatre fois examinateur spécialisé.
 
-Les candidats déclarés par une commission médicale inaptes à subir tout ou partie de l'épreuve d'exercices physiques prévue aux articles 18, 31 et 32-5 ci-dessus sont dispensés de cette épreuve par décision du président du jury.
+Ne peut être nommée membre d'un jury de concours d'accès à l'Ecole nationale de la magistrature et d'examinateur spécialisé une personne occupant l'une des positions et fonctions suivantes :
 
-Il est attribué d'office à chaque candidat dispensé une note égale à la moyenne de l'ensemble des notes obtenues par lui, après application des coefficients, aux autres épreuves d'admissibilité et d'admission.
+a) Détachement à l'Ecole nationale de la magistrature dans des fonctions de direction et d'enseignement ;
 
-Cette note ne pourra toutefois excéder la moyenne des notes obtenues selon le cas par l'ensemble des candidats ou des candidates ayant participé à l'épreuve considérée.
+b) Enseignant associé ;
+
+c) Enseignant dans un établissement public ou privé assurant une préparation des candidats aux concours d'accès à l'école, jusqu'à l'expiration d'un délai de trois ans suivant la cessation de ces fonctions.

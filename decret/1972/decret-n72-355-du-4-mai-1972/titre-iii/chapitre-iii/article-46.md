@@ -2,9 +2,9 @@
 
 Le classement est établi compte tenu :
 
-1° De la note d'études, affectée du coefficient 10 ;
+1° De la note d'études, affectée du coefficient 3 ;
 
-2° De la note de stage juridictionnel, affectée du coefficient 12 ;
+2° De la note de stage juridictionnel, affectée du coefficient 3 ;
 
 3° De la note de l'examen institué à l'article suivant, affectée du coefficient 6.
 

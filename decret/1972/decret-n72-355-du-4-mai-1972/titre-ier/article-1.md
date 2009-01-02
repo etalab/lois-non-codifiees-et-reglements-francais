@@ -1,3 +1,3 @@
 # Article 1
 
-L'école nationale de la magistrature, établissement public à caractère administratif, est administrée par un conseil d'administration et un directeur.
+L'Ecole nationale de la magistrature est un établissement public à caractère administratif placé sous la tutelle du garde des sceaux, ministre de la justice. Son siège est à Bordeaux.

@@ -1,15 +1,31 @@
 # Article 8
 
-Le conseil d'administration délibère sur les questions qui lui sont soumises par le garde des Sceaux, ministre de la justice. Il est obligatoirement consulté sur celles qui concernent l'organisation et le fonctionnement de l'école.
+Le conseil d'administration délibère sur :
 
-Il délibère également sur le règlement intérieur de l'école qui est établi par le directeur et doit être approuvé par le garde des Sceaux, ministre de la justice.
+1° Les orientations générales de l'école ;
 
-Il délibère en outre sur :
+2° Le budget et ses modifications ;
 
-1° Les questions qui sont de sa compétence en vertu des textes législatifs ou réglementaires en vigueur, et notamment des articles 14 à 25 du décret du 10 décembre 1953 et 151 à 189 du décret du 29 décembre 1962 susvisés ;
+3° Le compte financier et l'affectation des résultats ;
 
-2° Le rapport annuel du directeur sur l'activité et le fonctionnement administratif et financier de l'école, avant sa transmission au garde des Sceaux, ministre de la justice.
+4° Les acquisitions, aliénations et échanges d'immeubles ;
 
-Sous réserve des dispositions particulières du présent décret, les délibérations du conseil d'administration comportant une décision sont exécutoires un mois après leur transmission au garde des Sceaux, ministre de la justice, à moins que celui-ci n'y fasse opposition.
+5° Les emprunts, dons et legs ;
 
-Toutefois, les délibérations portant sur le budget et ses modifications, le compte financier et les emprunts ne sont exécutoires qu'après approbation par le garde des Sceaux ministre de la justice et par le ministre de l'économie et des finances. Ces ministres peuvent exempter d'approbation certaines délibérations relatives aux modifications du budget.
+6° Les actions en justice et les transactions ;
+
+7° La création de filiales et les conventions conclues entre celles-ci et l'établissement, notamment du point de vue de leur équilibre financier ;
+
+8° Le programme de la formation initiale et de la formation continue ;
+
+9° Le rapport annuel du directeur sur l'activité et le fonctionnement administratif et financier de l'école, avant sa transmission au garde des sceaux, ministre de la justice ;
+
+10° Le règlement intérieur de l'école établi par le directeur, avant sa transmission pour approbation au garde des sceaux, ministre de la justice ;
+
+Il est obligatoirement consulté sur les règles fixant l'organisation et le fonctionnement de l'établissement.
+
+Sous réserve des dispositions particulières du présent décret, les délibérations du conseil d'administration sont exécutoires un mois après leur transmission au garde des sceaux, ministre de la justice, à moins que celui-ci n'y fasse opposition.
+
+Toutefois, les délibérations portant sur le budget et ses modifications, le compte financier et les emprunts sont exécutoires dans les conditions fixées par le
+décret n° 99-575 du 8 juillet 1999
+relatif aux modalités d'approbation de certaines décisions financières des établissements publics de l'Etat.

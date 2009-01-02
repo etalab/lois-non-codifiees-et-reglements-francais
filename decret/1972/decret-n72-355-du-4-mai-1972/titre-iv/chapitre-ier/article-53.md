@@ -1,6 +1,6 @@
 # Article 53
 
-Les dispositions des articles 6, 19, 21, 22, 23, 24, 25 et 27 du décret du 7 octobre 1994 susvisé fixant les dispositions communes aux stagiaires de l'Etat et de ses établissements publics sont applicables aux auditeurs de justice.
+Les dispositions des articles 6, 19, 21, 22, 23, 24 et 25 du décret du 7 octobre 1994 susvisé fixant les dispositions communes aux stagiaires de l'Etat et de ses établissements publics sont applicables aux auditeurs de justice.
 
 Les mesures prévues par les articles 19, alinéa 2, et 24, alinéa 2, du décret du 7 octobre 1994 précité susvisé sont prises à l'égard des auditeurs de justice après consultation du comité ou de la commission prévus à l'alinéa suivant.
 

@@ -1,5 +1,7 @@
 # Article 42
 
-Les dispositions du règlement intérieur relatives au régime de la scolarité et aux conditions de notation des auditeurs de justice sont établies après avis de la commission pédagogique.
+Le conseil pédagogique assiste le directeur dans sa mission pédagogique.
 
-Celle-ci est également consultée sur les programmes de formation initiale et de formation continue.
+Il contribue, par ses avis qui sont transmis au conseil d'administration, à la définition des grandes orientations pédagogiques, à l'élaboration et à la mise en œuvre des programmes de formation initiale et continue et à l'évaluation de la pédagogie.
+
+Les dispositions du règlement intérieur relatives au régime de la scolarité et aux conditions d'évaluation des auditeurs de justice sont également établies après avis du conseil pédagogique.

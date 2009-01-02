@@ -1,6 +1,6 @@
 # Article 13
 
-L'emploi de chargé de formation à l'Ecole nationale de la magistrature comporte huit échelons, le huitième échelon n'étant accessible qu'aux magistrats placés hors hiérarchie nommés dans un emploi de chargé de formation.
+les emplois de coordonnateur de formation ou de coordonnateur régional de formation à l'Ecole nationale de la magistrature comportent huit échelons, le huitième échelon n'étant accessible qu'aux magistrats placés hors hiérarchie nommés dans un emploi de chargé de formation.
 
 Le temps passé dans chacun des échelons de l'emploi de chargé de formation à l'Ecole nationale de la magistrature est fixé comme suit :
 

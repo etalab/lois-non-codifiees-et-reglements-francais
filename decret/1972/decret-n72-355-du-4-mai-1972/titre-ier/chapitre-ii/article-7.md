@@ -14,4 +14,6 @@ Les décisions sont prises à la majorité des membres présents. En cas de part
 
 Les avis et décisions du conseil font l'objet de procès-verbaux signés par le président et adressés au garde des Sceaux, ministre de la justice, ainsi qu'à tous les membres du conseil, dans le mois qui suit la date de la séance.
 
+Un membre du conseil d'administration peut donner pouvoir à un autre membre du conseil lorsque lui-même et, le cas échéant, son représentant ou son suppléant sont empêchés de siéger. Aucun membre ne peut recevoir plus de deux pouvoirs.
+
 Les membres du conseil et les personnes appelées à y siéger à titre consultatif sont tenus au secret des délibérations.

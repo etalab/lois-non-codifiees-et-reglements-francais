@@ -1,5 +1,7 @@
 # Article 49
 
+La décision d'écarter un auditeur de justice de l'accès aux fonctions judiciaires ou de lui imposer le renouvellement d'une année d'études prévue à l'article 21 de l'ordonnance du 22 décembre 1958 susvisée est portée à la connaissance de l'intéressé, au cours d'un entretien individuel avec le président ou un membre du jury désigné par lui.
+
 La recommandation et, le cas échéant, les réserves prévues à l'article 21 de l'ordonnance du 22 décembre 1958 susvisée sont adressées par le jury au garde des sceaux, ministre de la justice. Le directeur de l'école en reçoit copie.
 
 Le président ou un membre du jury désigné par lui remet à chaque auditeur de justice la recommandation et, le cas échéant, les réserves qui le concernent. En cas d'impossibilité, elles sont notifiées par lettre recommandée avec demande d'avis de réception.
