@@ -5,3 +5,5 @@ Les délibérations du conseil d'administration sont exécutoires de plein droit
 Les délibérations du conseil d'administration relatives à l'état prévisionnel des recettes et des dépenses et à ses modifications, au compte financier et à l'affectation des résultats sont soumises à l'approbation du ministre chargé du budget et du ministre chargé du commerce extérieur. A défaut d'approbation expresse par les ministres précités dans le délai d'un mois, les délibérations deviennent exécutoires dans les conditions fixées à l'article 1er du décret du 8 juillet 1999 susvisé.
 
 Les délibérations autorisant les emprunts, les prises de participation, les créations de filiales, les acquisitions, échanges et aliénations de biens immobiliers ne sont exécutoires qu'après approbation expresse du ministre chargé du budget et du ministre chargé du commerce extérieur.
+
+Pour répondre à des besoins spécifiques, des entités de droit local dépendant d'Ubifrance, Agence française pour le développement international des entreprises, peuvent être créées à l'étranger sur autorisation expresse du ministre chargé de l'économie.

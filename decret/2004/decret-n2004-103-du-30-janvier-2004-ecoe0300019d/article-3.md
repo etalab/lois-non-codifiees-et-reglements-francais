@@ -10,7 +10,7 @@ a) Des affaires étrangères ;
 
 b) De l'économie ;
 
-c) De l'équipement ;
+c) Du développement durable ;
 
 d) De l'agriculture ;
 
@@ -30,6 +30,6 @@ Les membres du conseil d'administration autres que les parlementaires, les repr�
 
 Le président est choisi, sur proposition du conseil d'administration, parmi les parlementaires ou les personnalités qualifiées. Sur rapport du ministre chargé du commerce extérieur, il est nommé par décret.
 
-Le vice-président est choisi parmi les membres du conseil d'administration, sur proposition de son président. Il est nommé par arrêté du ministre chargé du commerce extérieur.
+Le vice-président est choisi parmi les membres du conseil d'administration, sur proposition de son président. Il est nommé par arrêté du ministre chargé du commerce extérieur. En l'absence du président, le vice-président préside les séances du conseil d'administration.
 
 Le président, le vice-président et les autres membres du conseil d'administration exercent leur fonction à titre gratuit. Ils bénéficient du remboursement de leurs frais dans les conditions prévues par la réglementation applicable aux fonctionnaires de l'Etat.

@@ -6,7 +6,7 @@ Le conseil d'administration délibère notamment sur :
 
 2° Le règlement financier ;
 
-3° Les conventions définies au troisième alinéa de l'article 2 ;
+3° Les conventions définies à l'article 2 et au dernier alinéa de l'article 2-1 ;
 
 4° Le programme des activités ;
 
@@ -18,7 +18,7 @@ Le conseil d'administration délibère notamment sur :
 
 8° Les emprunts, création de filiales, participation dans des sociétés, des groupements d'intérêt économique ou public, en France et à l'étranger et, plus largement, les prises, extension et cessions de participations financières ;
 
-9° Les acquisitions, échanges et aliénations de biens immobiliers ;
+9° Les acquisitions, échanges et aliénations de biens immobiliers relevant du domaine propre de l'établissement public ;
 
 10° Les acquisitions et cessions de droits de propriété industrielle, l'acceptation ou le refus de dons et legs ;
 
