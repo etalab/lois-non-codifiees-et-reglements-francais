@@ -1,6 +1,6 @@
 # Article 3
 
-I. ― A défaut d'accord collectif conclu avant le 31 décembre 2008 et sans préjudice des dispositions du livre VI du code de commerce, la conversion est réalisée dans les conditions prévues au présent article.
+I. ― A défaut d'accord collectif conclu avant le 31 décembre 2009 et sans préjudice des dispositions du livre VI du code de commerce, la conversion est réalisée dans les conditions prévues au présent article.
 
 II. ― Lorsque la valeur de réalisation des actifs est inférieure à la valeur des engagements relatif à des droits déjà liquidés, les provisions ou réserves sont transformées en rentes viagères au profit des bénéficiaires ayant liquidé leur retraite ou de leurs ayants droit, au prorata des engagements individuels.
 
