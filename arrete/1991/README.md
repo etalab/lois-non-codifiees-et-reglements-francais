@@ -804,7 +804,6 @@
 - [Arrêté du 28 octobre 1991 (BUDF9100033A)](arrete-du-28-octobre-1991-budf9100033a)
 - [Arrêté du 28 octobre 1991 (SPSH9102454A)](arrete-du-28-octobre-1991-spsh9102454a)
 - [Arrêté du 28 mai 1991 (JUSC9120301A)](arrete-du-28-mai-1991-jusc9120301a)
-- [Arrêté du 29 août 1991 (DEFA9101917A)](arrete-du-29-aout-1991-defa9101917a)
 - [Arrêté du 29 août 1991 (DEFA9101924A)](arrete-du-29-aout-1991-defa9101924a)
 - [Arrêté du 29 août 1991 (SPSG9102220A)](arrete-du-29-aout-1991-spsg9102220a)
 - [Arrêté du 29 avril 1991 (AGRE9100580A)](arrete-du-29-avril-1991-agre9100580a)
