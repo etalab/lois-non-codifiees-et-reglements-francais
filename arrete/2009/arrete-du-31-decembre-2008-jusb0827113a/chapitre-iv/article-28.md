@@ -1,0 +1,3 @@
+# Article 28
+
+L'arrêté modifié du 5 mars 1973 relatif aux modalités d'organisation, règles de discipline, programme, déroulement et correction des épreuves des trois concours d'accès à l'Ecole nationale de la magistrature, l'arrêté du 26 janvier 1984 relatif à l'organisation de l'épreuve d'exercices physiques des concours d'accès à l'Ecole nationale de la magistrature, l'arrêté modifié du 24 mars 1973 relatif à la commission médicale des concours d'entrée à l'Ecole nationale de la magistrature et l'arrêté du 28 novembre 1974 relatif à la rémunération des membres de la commission médicale des concours d'entrée à l'Ecole nationale de la magistrature sont abrogés.
