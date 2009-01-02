@@ -71,6 +71,7 @@
 - [Arrêté du 23 décembre 2008 (AGRS0831148A)](arrete-du-23-decembre-2008-agrs0831148a)
 - [Arrêté du 23 décembre 2008 (AGRS0831150A)](arrete-du-23-decembre-2008-agrs0831150a)
 - [Arrêté du 23 décembre 2008 (MTSS0831030A)](arrete-du-23-decembre-2008-mtss0831030a)
+- [Arrêté du 24 décembre 2003 (SOCF0312092A)](arrete-du-24-decembre-2003-socf0312092a)
 - [Arrêté du 24 décembre 2008 (DEFH0831210A)](arrete-du-24-decembre-2008-defh0831210a)
 - [Arrêté du 24 décembre 2008 (DEVA0830178A)](arrete-du-24-decembre-2008-deva0830178a)
 - [Arrêté du 24 décembre 2008 (JUSC0830156A)](arrete-du-24-decembre-2008-jusc0830156a)
