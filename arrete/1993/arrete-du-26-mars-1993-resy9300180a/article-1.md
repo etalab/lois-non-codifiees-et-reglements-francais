@@ -6,8 +6,6 @@ Commission n° 1 : directeurs de recherche ;
 
 Commission n° 2 : chargés de recherche ;
 
-Commission n° 3 : ingénieurs de recherche, ingénieurs d'études, assistants ingénieurs et attachés d'administration de la recherche ;
+Commission n° 3 : ingénieurs de recherche, ingénieurs d'études, assistants ingénieurs ;
 
-Commission n° 4 : techniciens de la recherche et secrétaires d'administration de la recherche ;
-
-Commission n° 5 : adjoints techniques de la recherche.
+Commission n° 4 : techniciens de la recherche.

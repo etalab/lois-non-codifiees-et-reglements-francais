@@ -114,7 +114,7 @@ La composition des commissions administratives paritaires à l'article 1er ci-de
 <p>3</p>
 </td>
 <td valign="top">
-<p>Ingénieurs d'études de 2e classe </p>
+<p>Ingénieurs de recherche de 2e classe </p>
 </td>
 <td valign="top">
 <p align="center">1</p>
@@ -134,7 +134,7 @@ La composition des commissions administratives paritaires à l'article 1er ci-de
 <pre> </pre>
 </td>
 <td valign="top">
-<p>Ingénieurs de recherche de 2<sup>e</sup> classe et attachés d'administration de la recherche</p>
+<p>Ingénieurs d'études de 2<sup>e</sup> classe </p>
 </td>
 <td valign="top">
 <p align="center">1</p>
@@ -163,18 +163,30 @@ La composition des commissions administratives paritaires à l'article 1er ci-de
 <p align="center">2</p>
 </td>
 <td valign="top">
-<p align="center">3</p>
+<br/>
 </td>
 <td valign="top">
-<p align="center">3</p>
+<br/>
 </td>
+</tr>
+<tr>
+<td/>
+<td>Techniciens de la recherche de classe exceptionnelle</td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
+<td/>
+<td/>
 </tr>
 <tr>
 <td valign="top">
 <p>4</p>
 </td>
 <td valign="top">
-<p>Techniciens de la recherche de classe exceptionnelle et secrétaires d'administration de la recherche de classe exceptionnelle</p>
+<p>Techniciens de la recherche de classe supérieure</p>
 </td>
 <td valign="top">
 <p align="center">1</p>
@@ -182,60 +194,20 @@ La composition des commissions administratives paritaires à l'article 1er ci-de
 <td valign="top">
 <p align="center">1</p>
 </td>
-<td valign="top">
-<pre> </pre>
+<td valign="middle">
+<div align="center">
+<pre> 3</pre>
+</div>
 </td>
-<td valign="top">
-<pre> </pre>
+<td valign="middle">
+<div align="center">
+<pre> 3</pre>
+</div>
 </td>
 </tr>
 <tr>
-<td valign="top">
-<pre> </pre>
-</td>
-<td valign="top">
-<p>Techniciens de la recherche de classe supérieure et secrétaires d'administration de la recherche de classe supérieure</p>
-</td>
-<td valign="top">
-<p align="center">1</p>
-</td>
-<td valign="top">
-<p align="center">1</p>
-</td>
-<td valign="top">
-<p align="center">4</p>
-</td>
-<td valign="top">
-<p align="center">4</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<pre> </pre>
-</td>
-<td valign="top">
-<p>Techniciens de la recherche de classe normale et secrétaires d'administration de la recherche de classe normale</p>
-</td>
-<td valign="top">
-<p>2</p>
-</td>
-<td valign="top">
-<p align="center">2</p>
-</td>
-<td valign="top">
-<pre> </pre>
-</td>
-<td valign="top">
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td rowspan="2" valign="top">
-<p>5</p>
-</td>
-<td rowspan="2" valign="top">
-<p>Adjoints techniques principaux de la recherche et adjoints techniques de la recherche</p>
-</td>
+<td rowspan="2" valign="top"/>
+<td rowspan="2" valign="top">Techniciens de la recherche de classe normale</td>
 <td rowspan="2" valign="top">
 <p align="center">1</p>
 </td>
@@ -243,10 +215,10 @@ La composition des commissions administratives paritaires à l'article 1er ci-de
 <p align="center">1</p>
 </td>
 <td rowspan="2" valign="top">
-<p align="center">1</p>
+<br/>
 </td>
 <td rowspan="2" valign="top">
-<p align="center">1</p>
+<br/>
 </td>
 </tr>
 </tbody>
