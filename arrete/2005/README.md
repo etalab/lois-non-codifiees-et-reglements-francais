@@ -487,7 +487,6 @@
 - [Arrêté du 21 janvier 2005 (ECOT0510521A)](arrete-du-21-janvier-2005-ecot0510521a)
 - [Arrêté du 21 juin 2005 (DEVP0540257A)](arrete-du-21-juin-2005-devp0540257a)
 - [Arrêté du 21 juin 2005 (ECOS0550028A)](arrete-du-21-juin-2005-ecos0550028a)
-- [Arrêté du 21 juin 2005 (MAEA0520060A)](arrete-du-21-juin-2005-maea0520060a)
 - [Arrêté du 21 novembre 2005 (DEFP0501565A)](arrete-du-21-novembre-2005-defp0501565a)
 - [Arrêté du 21 novembre 2005 (INTC0500700A)](arrete-du-21-novembre-2005-intc0500700a)
 - [Arrêté du 21 octobre 2004 (ECOC0400104A)](arrete-du-21-octobre-2004-ecoc0400104a)
