@@ -736,7 +736,6 @@
 - [Arrêté du 23 juillet 2003 (MENP0301613A)](arrete-du-23-juillet-2003-menp0301613a)
 - [Arrêté du 23 juillet 2003 (SANH0322762A)](arrete-du-23-juillet-2003-sanh0322762a)
 - [Arrêté du 23 juillet 2003 (SANS0322874A)](arrete-du-23-juillet-2003-sans0322874a)
-- [Arrêté du 23 juillet 2003 (SANS0322875A)](arrete-du-23-juillet-2003-sans0322875a)
 - [Arrêté du 23 juin 2003 (AGRG0301321A)](arrete-du-23-juin-2003-agrg0301321a)
 - [Arrêté du 23 juin 2003 (DEFF0301735A)](arrete-du-23-juin-2003-deff0301735a)
 - [Arrêté du 23 juin 2003 (DEFT0301755A)](arrete-du-23-juin-2003-deft0301755a)
