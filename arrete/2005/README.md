@@ -398,7 +398,6 @@
 - [Arrêté du 18 novembre 2005 (ECOP0500908A)](arrete-du-18-novembre-2005-ecop0500908a)
 - [Arrêté du 18 novembre 2005 (EQUS0501451A)](arrete-du-18-novembre-2005-equs0501451a)
 - [Arrêté du 18 novembre 2005 (SANS0524241A)](arrete-du-18-novembre-2005-sans0524241a)
-- [Arrêté du 18 octobre 2005 (EQUT0501655A)](arrete-du-18-octobre-2005-equt0501655a)
 - [Arrêté du 18 octobre 2005 (INTC0500737A)](arrete-du-18-octobre-2005-intc0500737a)
 - [Arrêté du 18 octobre 2005 (INTC0500738A)](arrete-du-18-octobre-2005-intc0500738a)
 - [Arrêté du 18 octobre 2005 (INTE0500759A)](arrete-du-18-octobre-2005-inte0500759a)
