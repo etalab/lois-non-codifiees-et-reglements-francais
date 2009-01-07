@@ -6,13 +6,19 @@
 <tbody>
 <tr>
 <td>
-<p align="center">Désignation des emplois correspondant<br/>aux fonctions mentionnées au I de l'article 1er du décret du 26 octobre 2001</p>
+<p align="center">Désignation des emplois correspondant<br/>aux fonctions mentionnées au I de l'article 1er du décret du 26 octobre 2001
+</p>
 </td>
 <td>
 <p align="center">Nombre d'emplois </p>
 </td>
 <td>
 <p align="center">Nombre<br/>de points<br/>par emploi </p>
+</td>
+<td>
+<div align="center">DATE <p>d'effet<br/>
+</p>
+</div>
 </td>
 </tr>
 <tr>
@@ -21,10 +27,13 @@
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -36,6 +45,7 @@
 <td>
 <p align="center">180 </p>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -47,6 +57,7 @@
 <td>
 <p align="center">180 </p>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -58,6 +69,7 @@
 <td>
 <p align="center">180 </p>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -69,6 +81,7 @@
 <td>
 <p align="center">140 </p>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -80,6 +93,7 @@
 <td>
 <p align="center">180 </p>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -91,6 +105,7 @@
 <td>
 <p align="center">180 </p>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -102,6 +117,7 @@
 <td>
 <p align="center">180 </p>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -113,6 +129,7 @@
 <td>
 <p align="center">140 </p>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -124,6 +141,7 @@
 <td>
 <p align="center">180 </p>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -135,6 +153,7 @@
 <td>
 <p align="center">140 </p>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -142,10 +161,13 @@
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -157,6 +179,7 @@
 <td>
 <p align="center">180 </p>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -164,10 +187,13 @@
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -179,6 +205,7 @@
 <td>
 <p align="center">120 </p>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -186,10 +213,13 @@
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -201,6 +231,7 @@
 <td>
 <p align="center">140 </p>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -212,6 +243,7 @@
 <td>
 <p align="center">140 </p>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -219,10 +251,13 @@
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -234,6 +269,7 @@
 <td>
 <p align="center">80 </p>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -243,10 +279,13 @@
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -254,10 +293,13 @@
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -269,6 +311,7 @@
 <td>
 <p align="center">120 </p>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -280,6 +323,7 @@
 <td>
 <p align="center">120 </p>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -287,10 +331,13 @@
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -302,6 +349,7 @@
 <td>
 <p align="center">120 </p>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -313,6 +361,7 @@
 <td>
 <p align="center">120 </p>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -324,6 +373,7 @@
 <td>
 <p align="center">120 </p>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -331,10 +381,13 @@
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -346,6 +399,7 @@
 <td>
 <p align="center">120 </p>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -357,6 +411,7 @@
 <td>
 <p align="center">120 </p>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -364,10 +419,13 @@
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -379,6 +437,7 @@
 <td>
 <p align="center">110 </p>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -386,10 +445,13 @@
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -401,6 +463,7 @@
 <td>
 <p align="center">120 </p>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -412,6 +475,7 @@
 <td>
 <p align="center">120 </p>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -419,10 +483,19 @@
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
+<td/>
+</tr>
+<tr>
+<td>Chef du service, adjoint au directeur général des ressources humaines</td>
+<td align="center">1</td>
+<td align="center">120</td>
+<td align="center">9 septembre 2008</td>
 </tr>
 <tr>
 <td>
@@ -434,6 +507,7 @@
 <td>
 <p align="center">120 </p>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -445,6 +519,7 @@
 <td>
 <p align="center">120 </p>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -456,6 +531,7 @@
 <td>
 <p align="center">120 </p>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -463,10 +539,13 @@
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -478,6 +557,7 @@
 <td>
 <p align="center">120 </p>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -489,6 +569,7 @@
 <td>
 <p align="center">120 </p>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -496,10 +577,13 @@
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -511,6 +595,7 @@
 <td>
 <p align="center">120 </p>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -522,6 +607,7 @@
 <td>
 <p align="center">110 </p>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -529,10 +615,13 @@
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -544,6 +633,7 @@
 <td>
 <p align="center">110 </p>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -551,10 +641,13 @@
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -566,6 +659,7 @@
 <td>
 <p align="center">120 </p>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -573,10 +667,13 @@
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -588,6 +685,7 @@
 <td>
 <p align="center">110 </p>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -595,10 +693,13 @@
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
+<td/>
 </tr>
 <tr>
 <td rowspan="2">
@@ -608,7 +709,10 @@
 <p align="center">1 </p>
 </td>
 <td rowspan="2">
-<p align="center">80 </p>
+<p align="center">110 </p>
+</td>
+<td rowspan="2">
+<p align="center">1er janvier 2007</p>
 </td>
 </tr>
 </tbody>
@@ -629,17 +733,25 @@
 <br/>
 <p align="center">par emploi </p>
 </td>
+<td>
+<div align="center">DATE <p>d'effet<br/>
+</p>
+</div>
+</td>
 </tr>
 <tr>
 <td>
-<p align="center">6. Sous-directeur </p>
+<p align="center">7. Sous-directeur </p>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -647,10 +759,13 @@
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -662,6 +777,7 @@
 <td>
 <p align="center">110</p>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -673,6 +789,7 @@
 <td>
 <p align="center">110</p>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -684,6 +801,7 @@
 <td>
 <p align="center">110</p>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -695,6 +813,7 @@
 <td>
 <p align="center">80</p>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -706,6 +825,7 @@
 <td>
 <p align="center">80 </p>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -713,10 +833,13 @@
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -728,6 +851,7 @@
 <td>
 <p align="center">110</p>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -739,6 +863,7 @@
 <td>
 <p align="center">80</p>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -750,6 +875,7 @@
 <td>
 <p align="center">80</p>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -761,6 +887,7 @@
 <td>
 <p align="center">110</p>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -772,6 +899,7 @@
 <td>
 <p align="center">110</p>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -783,6 +911,7 @@
 <td>
 <p align="center">80 </p>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -790,10 +919,13 @@
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -805,6 +937,7 @@
 <td>
 <p align="center">110 </p>
 </td>
+<td/>
 </tr>
 <tr>
 <td valign="top">
@@ -812,10 +945,13 @@
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 <td valign="top">
 <pre/>
+<br/>
 </td>
+<td/>
 </tr>
 <tr>
 <td valign="top">
@@ -827,6 +963,7 @@
 <td valign="top">
 <p align="center">110 </p>
 </td>
+<td/>
 </tr>
 <tr>
 <td valign="top">
@@ -838,6 +975,7 @@
 <td valign="top">
 <p align="center">110 </p>
 </td>
+<td/>
 </tr>
 <tr>
 <td valign="top">
@@ -849,6 +987,7 @@
 <td valign="top">
 <p align="center">110 </p>
 </td>
+<td/>
 </tr>
 <tr>
 <td valign="top">
@@ -858,7 +997,9 @@
 <p align="center">1 </p>
 </td>
 <td valign="top">
-<p align="center">80 </p>
+<p align="center">110 </p>
+</td>
+<td>1er janvier 2007<br/>
 </td>
 </tr>
 <tr>
@@ -871,6 +1012,7 @@
 <td valign="top">
 <p align="center">110 </p>
 </td>
+<td/>
 </tr>
 <tr>
 <td valign="top">
@@ -882,6 +1024,7 @@
 <td valign="top">
 <p align="center">80 </p>
 </td>
+<td/>
 </tr>
 <tr>
 <td valign="top">
@@ -893,6 +1036,7 @@
 <td valign="top">
 <p align="center">80 </p>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -900,10 +1044,13 @@
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 <td valign="top">
 <pre/>
+<br/>
 </td>
+<td/>
 </tr>
 <tr>
 <td valign="top">
@@ -915,6 +1062,7 @@
 <td valign="top">
 <p align="center">110 </p>
 </td>
+<td/>
 </tr>
 <tr>
 <td valign="top">
@@ -926,6 +1074,7 @@
 <td valign="top">
 <p align="center">80 </p>
 </td>
+<td/>
 </tr>
 <tr>
 <td valign="top">
@@ -937,6 +1086,7 @@
 <td valign="top">
 <p align="center">110 </p>
 </td>
+<td/>
 </tr>
 <tr>
 <td valign="top">
@@ -948,6 +1098,7 @@
 <td valign="top">
 <p align="center">110 </p>
 </td>
+<td/>
 </tr>
 <tr>
 <td valign="top">
@@ -959,6 +1110,7 @@
 <td valign="top">
 <p align="center">110 </p>
 </td>
+<td/>
 </tr>
 <tr>
 <td valign="top">
@@ -970,6 +1122,7 @@
 <td valign="top">
 <p align="center">110 </p>
 </td>
+<td/>
 </tr>
 <tr>
 <td valign="top">
@@ -981,6 +1134,7 @@
 <td valign="top">
 <p align="center">110 </p>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -988,10 +1142,13 @@
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 <td valign="top">
 <pre/>
+<br/>
 </td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -1003,6 +1160,7 @@
 <td>
 <p align="center">110 </p>
 </td>
+<td/>
 </tr>
 <tr>
 <td rowspan="2" valign="top">
@@ -1014,6 +1172,7 @@
 <td rowspan="2" valign="top">
 <p align="center">110 </p>
 </td>
+<td rowspan="2"/>
 </tr>
 </tbody>
 </table>
@@ -1040,9 +1199,11 @@
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1095,9 +1256,11 @@
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1128,9 +1291,11 @@
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1172,9 +1337,11 @@
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1205,9 +1372,11 @@
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 <td>
 <pre/>
+<br/>
 </td>
 </tr>
 <tr>

@@ -1,6 +1,7 @@
 # 2006
 
 - [Arrêté du 1 août 2006 (AGRG0601520A)](arrete-du-1-aout-2006-agrg0601520a)
+- [Arrêté du 1 août 2006 (MJSK0670189A)](arrete-du-1-aout-2006-mjsk0670189a)
 - [Arrêté du 1 août 2006 (SOCU0611477A)](arrete-du-1-aout-2006-socu0611477a)
 - [Arrêté du 1 août 2006 (SOCU0611478A)](arrete-du-1-aout-2006-socu0611478a)
 - [Arrêté du 1 décembre 2006 (AGRS0602471A)](arrete-du-1-decembre-2006-agrs0602471a)
