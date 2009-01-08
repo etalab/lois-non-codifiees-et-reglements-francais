@@ -20,6 +20,7 @@
 - [Décret n°2009-637 du 8 juin 2009 (IOCB0903340D)](decret-n2009-637-du-8-juin-2009-iocb0903340d)
 - [Décret n°2008-1288 du 9 décembre 2008 (JUSC0825878D)](decret-n2008-1288-du-9-decembre-2008-jusc0825878d)
 - [Décret n°2008-1053 du 10 octobre 2008 (AGRF0810800D)](decret-n2008-1053-du-10-octobre-2008-agrf0810800d)
+- [Décret n°72-27 du 10 janvier 1972](decret-n72-27-du-10-janvier-1972)
 - [Décret n°2002-1268 du 11 octobre 2002 (MCCK0200582D)](decret-n2002-1268-du-11-octobre-2002-mcck0200582d)
 - [Décret n°2008-1299 du 11 décembre 2008 (DEVA0813870D)](decret-n2008-1299-du-11-decembre-2008-deva0813870d)
 - [Décret n°2008-1309 du 11 décembre 2008 (JUSF0821730D)](decret-n2008-1309-du-11-decembre-2008-jusf0821730d)
