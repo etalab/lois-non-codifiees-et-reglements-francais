@@ -1,32 +1,28 @@
 # Article Annexe
 
-INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES Intitulé :
+**INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES**
+
+Intitulé :
 
 Titre professionnel : sellier harnacheur.
 
 Niveau : V.
 
-Code NSF : 243 s.
+Code NSF : 243 r.
 
 Résumé du référentiel d'emploi
 
-Le sellier harnacheur réalise, à partir de données fournies (mesures, gabarits), les articles destinés au cheval pour la pratique de l'équitation, la randonnée, l'attelage. Il est appelé à effectuer des réparations sur les articles qui lui sont confiés.
+Le sellier harnacheur réalise, à partir de données fournies (mesures, gabarits), les articles destinés aux équidés pour la pratique de l'équitation, la randonnée, l'attelage de loisir et de travail. Il est également en mesure de réparer les articles concernés.
 
-Il peut être en situation de partage des tâches ou de réalisation complète des articles.
+Il effectue son travail comme salarié en atelier de moins de 50 personnes, affectées à la production de séries, ou de manière plus unitaire, comme travailleur indépendant.
 
-Il exécute les travaux demandés en mettant en oeuvre les matériels nécessaires, en appliquant les techniques du métier et en s'appuyant sur les documents techniques à sa disposition.
+La gamme de produits est importante, essentiellement à base de cuir, mettant en œuvre des fournitures très différentes les unes des autres (accessoires, bouclerie, garnitures).
 
-Il peut participer au maintien de l'approvisionnement en articles et fournitures nécessaires à la pratique des activités.
+La fabrication des articles de harnachement est à forte dominance manuelle, surtout pour la couture.
 
-En situation d'artisan, le sellier harnacheur peut avoir à effectuer de nombreux déplacements pour collecter auprès des utilisateurs de chevaux les articles à réparer ou prendre des mesures et commandes d'articles à fabriquer. Il est parfois en capacité de réaliser les petites réparations sur place.
+Capacités attestées et descriptif  des composantes de la certification
 
-Capacités attestées et descriptif
-
-des composantes de la certification
-
-1. Réaliser des articles de sellerie
-
-harnachement à dominante cousu main
+1. Réaliser des articles de sellerie harnachement  à dominante cousu main
 
 Couper avec différents outils manuels les éléments en cuir destinés à des articles de harnachement.
 
@@ -50,6 +46,8 @@ Constituer et assembler des sous-ensembles d'articles de protection du cheval pa
 
 3. Réaliser des selles d'équitation
 
+Couper à la main les pièces constitutives de selles anglaises à partir de leur gabarit.
+
 Préparer et sangler des arçons de selle anglaise.
 
 Mettre en forme un siège de selle anglaise.
@@ -58,23 +56,19 @@ Préparer les pièces en cuir et les sous-ensembles d'une selle anglaise.
 
 Assembler les sous-ensembles d'une selle anglaise.
 
-Secteurs d'activités ou types d'emploi accessibles
+Secteurs d'activités et types d'emploi  accessibles par le détenteur du titre
 
-par le détenteur du titre
+Entreprises de fabrication d'articles de sellerie harnachement et articles de sport lourd.
 
-Fabricants d'articles de sellerie harnachement, de protection du cheval.
+Ouvrier d'Etat en sellerie harnachement (sur concours).
 
-Fabricants d'articles de sellerie maroquinerie cousu main.
-
-Artisan sellier harnacheur.
+Travailleur indépendant sellier harnacheur.
 
 Code ROME :
 
-47221 - Fabricant d'articles en cuir et autres matériaux souples hors vêtements.
+47221-Fabricant (e) d'articles en cuir et matériaux souples (hors vêtement).
 
-Réglementation de l'activité :
-
-Néant.
+Réglementation de l'activité : néant.
 
 Autorité responsable de la certification :
 
@@ -82,8 +76,6 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
-
-Arrêté du 25 novembre 2002.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
