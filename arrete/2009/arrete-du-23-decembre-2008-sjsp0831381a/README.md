@@ -1,0 +1,6 @@
+# Arrêté du 23 décembre 2008 fixant les modalités de déclaration des activités de tatouage par effraction cutanée, y compris de maquillage permanent, et de perçage corporel
+
+- [CHAPITRE IER : DECLARATION DES ACTIVITES DE TATOUAGE,  DE MAQUILLAGE PERMANENT ET DE PERCAGE CORPOREL](chapitre-ier)
+- [CHAPITRE II : DECLARATION DE TRANSFERT OU DE CESSATION D'ACTIVITE](chapitre-ii)
+- [CHAPITRE III : DISPOSITIONS PARTICULIERES A LA MISE EN ŒUVRE PONCTUELLE SUR UN LIEU D'ACTIVITES DE TATOUAGE, DE MAQUILLAGE PERMANENT OU DE PERCAGE CORPOREL](chapitre-iii)
+- [CHAPITRE IV : DISPOSITIONS TRANSITOIRES](chapitre-iv)

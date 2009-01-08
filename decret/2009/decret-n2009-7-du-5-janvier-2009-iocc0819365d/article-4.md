@@ -1,0 +1,3 @@
+# Article 4
+
+A titre transitoire, et dans le respect des dispositions du décret du 9 mai 1995 susvisé, les commissaires de police qui, à la date de publication du présent décret, sont affectés depuis moins de quatre ans sur un poste dont l'occupation permet de remplir l'obligation de mobilité au titre du b et du c de l'article 14 du décret du 2 août 2005 susvisé dans sa rédaction issue du présent décret peuvent, lorsqu'il ne s'agit pas de leur première affectation, demander à accomplir leur mobilité sur ce poste. La mobilité est considérée comme accomplie à l'expiration d'une période de deux ans à compter de la date de publication du présent décret.
