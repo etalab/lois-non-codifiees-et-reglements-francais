@@ -8,4 +8,4 @@ La demande de l'avocat commis ou désigné d'office ou de la personne agréée q
 
 3° Nature de l'affaire et juridiction saisie.
 
-L'avocat ou la personne agréée fournit, sur les ressources de son client, toutes les indications et les pièces que celui-ci lui a données ou remises à l'appui de sa demande.
+A l'appui de la demande, l'avocat ou la personne agréée fournit, sur la situation économique et familiale de son client, toutes les indications et les pièces que celui-ci lui a données ou remises et, le cas échéant, une copie des pièces de la procédure relatives à cette situation. En l'absence de telles indications et pièces, l'avocat ou la personne agréée fournit une attestation, établie à sa demande par le greffe, relative aux déclarations faites à l'audience par le prévenu sur sa situation économique et familiale.

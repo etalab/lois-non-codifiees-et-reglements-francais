@@ -46,6 +46,10 @@ II. 6. Assistance d'un prévenu devant le tribunal correctionnel ou le tribunal 
 
 4
 
+II-7 Assistance d'une personne faisant l'objet de la procédure de comparution sur reconnaissance préalable de culpabilité
+
+3
+
 III. Procédures contraventionnelles
 
 III. 1. Assistance d'un prévenu majeur devant le tribunal de police (contraventions de police de la 5e classe).
@@ -80,11 +84,11 @@ VI-1 Article 32 : commission d'expulsion
 
 6
 
-VI-2 Article 48 : rétention administrative
+VI-2 Article 48 : Prolongation de la rétention dans des locaux ne relevant pas de l'administration pénitentiaire
 
 4
 
-VI-3 Article 50 : maintien en zone d'attente
+VI-3 Article 50 : Prolongation du maintien en zone d'attente
 
 4
 
@@ -98,11 +102,11 @@ VII-2 Article 34 : commission d'expulsion
 
 6
 
-VII-3 Article 50 : rétention administrative
+VII-3 Article 50 : Prolongation de la rétention dans des locaux ne relevant pas de l'administration pénitentiaire
 
 4
 
-VII-4 Article 52 : maintien en zone d'attente
+VII-4 Article 52 : Prolongation du maintien en zone d'attente
 
 4
 
