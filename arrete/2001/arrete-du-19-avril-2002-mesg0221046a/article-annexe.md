@@ -76,19 +76,8 @@ A. - Emplois en administration centrale
 </td>
 </tr>
 <tr>
-<td width="411">
-<p>Délégué général à l'emploi et à la formation professionnelle </p>
-</td>
-<td width="88">
-<p align="center">1</p>
-</td>
-<td width="106">
-<p align="center">180</p>
-</td>
-</tr>
-<tr>
 <td colspan="3" width="411">
-<p align="center">                                      Directeur général d'administration centrale :</p>
+<p align="center">Directeur général d'administration centrale :</p>
 </td>
 </tr>
 <tr>
@@ -122,17 +111,6 @@ A. - Emplois en administration centrale
 </td>
 <td width="106">
 <p align="center">180</p>
-</td>
-</tr>
-<tr>
-<td width="411">
-<p>Délégué général adjoint à l'emploi et à la formation professionnelle</p>
-</td>
-<td width="88">
-<p align="center">1</p>
-</td>
-<td width="106">
-<p align="center">150</p>
 </td>
 </tr>
 <tr>
@@ -175,7 +153,7 @@ A. - Emplois en administration centrale
 </tr>
 <tr>
 <td width="411">
-<p>Directeur de l'hospitalisation et de l'organisation des soins</p>
+<p>Directeur, adjoint au directeur général de la santé (à compter du 5 juillet 2007)</p>
 </td>
 <td width="88">
 <p align="center">1</p>
@@ -186,7 +164,7 @@ A. - Emplois en administration centrale
 </tr>
 <tr>
 <td width="411">
-<p>Directeur de la population et des migrations</p>
+<p>Directeur de l'hospitalisation et de l'organisation des soins</p>
 </td>
 <td width="88">
 <p align="center">1</p>
@@ -357,10 +335,10 @@ A. - Emplois en administration centrale
 </tr>
 <tr>
 <td width="472">
-<p>Chef de service, direction générale de la santé</p>
+<p>Chef de service, secrétaire général, direction générale de la santé (à compter du 11 mai 2007) </p>
 </td>
 <td width="71">
-<p align="center">2</p>
+<p align="center">1</p>
 </td>
 <td width="63">
 <p align="center">120</p>
@@ -383,17 +361,6 @@ A. - Emplois en administration centrale
 </td>
 <td width="71">
 <p align="center">2</p>
-</td>
-<td width="63">
-<p align="center">120</p>
-</td>
-</tr>
-<tr>
-<td width="472">
-<p>Chef de service, direction de la population et des migrations</p>
-</td>
-<td width="71">
-<p align="center">1</p>
 </td>
 <td width="63">
 <p align="center">120</p>
@@ -428,10 +395,10 @@ A. - Emplois en administration centrale
 </tr>
 <tr>
 <td width="472">
-<p>Chef de service, délégation générale à l'emploi et à la formation professionnelle</p>
+<p>Chef du service des ressources humaines, direction de l'administration générale, du personnel et du budget</p>
 </td>
 <td width="71">
-<p align="center">2</p>
+<p align="center">1</p>
 </td>
 <td width="63">
 <p align="center">120</p>
@@ -439,7 +406,7 @@ A. - Emplois en administration centrale
 </tr>
 <tr>
 <td width="472">
-<p>Chef du service des ressources humaines, direction de l'administration générale, du personnel et du budget</p>
+<p>Chef de service chargé de la coordination des fonctions de soutien et de la gestion interne de la direction, direction de l'administration générale, du personnel et du budget</p>
 </td>
 <td width="71">
 <p align="center">1</p>
@@ -461,57 +428,13 @@ A. - Emplois en administration centrale
 </tr>
 <tr>
 <td width="472">
-<p>Chef du service, de l'information et de la communication </p>
+<p>Chef de service, délégué à l'information et à la communication (à compter du 15 janvier 2007)</p>
 </td>
 <td width="71">
 <p align="center">1</p>
 </td>
 <td width="63">
 <p align="center">120</p>
-</td>
-</tr>
-<tr>
-<td width="472">
-<p>Délégation générale à l'emploi et à la formation professionnelle : sous-directeur de l'insertion et de la cohésion sociale (à compter du 12 octobre 2005)</p>
-</td>
-<td width="71">
-<p align="center">1</p>
-</td>
-<td width="63">
-<p align="center">110</p>
-</td>
-</tr>
-<tr>
-<td width="472">
-<p>Délégation générale à l'emploi et à la formation professionnelle : sous-directeur des politiques de formation et du contrôle (à compter du 12 octobre 2005)</p>
-</td>
-<td width="71">
-<p align="center">1</p>
-</td>
-<td width="63">
-<p align="center">110</p>
-</td>
-</tr>
-<tr>
-<td width="472">
-<p>Délégation générale à l'emploi et à la formation professionnelle : sous-directeur des mutations économiques (à compter du 12 octobre 2005)</p>
-</td>
-<td width="71">
-<p align="center">1</p>
-</td>
-<td width="63">
-<p align="center">110</p>
-</td>
-</tr>
-<tr>
-<td width="472">
-<p>Délégation générale à l'emploi et à la formation professionnelle : sous-directeur du service public de l'emploi (à compter du 12 octobre 2005)</p>
-</td>
-<td width="71">
-<p align="center">1</p>
-</td>
-<td width="63">
-<p align="center">110</p>
 </td>
 </tr>
 <tr>
@@ -571,7 +494,7 @@ A. - Emplois en administration centrale
 </tr>
 <tr>
 <td width="472">
-<p>Direction générale de la santé : sous-directeur pathologies et santé</p>
+<p>Direction générale de la santé : sous-directeur de la politique des pratiques et des produits de santé (à compter du 11 mai 2007)</p>
 </td>
 <td width="71">
 <p align="center">1</p>
@@ -582,7 +505,7 @@ A. - Emplois en administration centrale
 </tr>
 <tr>
 <td width="472">
-<p>Direction générale de la santé : sous-directeur gestion des risques des milieux</p>
+<p>Direction générale de la santé : sous-directeur de la promotion de la santé et de la prévention des maladies chroniques (à compter du 11 mai 2007)</p>
 </td>
 <td width="71">
 <p align="center">1</p>
@@ -593,7 +516,18 @@ A. - Emplois en administration centrale
 </tr>
 <tr>
 <td width="472">
-<p>Direction générale de la santé : sous-directeur de la politique des produits de santé</p>
+<p>Direction générale de la santé : sous-directeur de la prévention des risques liés à l'environnement et à l'alimentation (à compter du 11 mai 2007)</p>
+</td>
+<td width="71">
+<p align="center">1</p>
+</td>
+<td width="63">
+<p align="center">110</p>
+</td>
+</tr>
+<tr>
+<td width="472">
+<p>Direction générale de la santé : sous-directeur, chef du département des urgences sanitaires (à compter du 11 mai 2007)</p>
 </td>
 <td width="71">
 <p align="center">1</p>
@@ -652,17 +586,6 @@ A. - Emplois en administration centrale
 <tbody>
 <tr>
 <td width="454">
-<p>Direction de la population et des migrations : sous-directeur des naturalisations</p>
-</td>
-<td width="76">
-<p align="center">1</p>
-</td>
-<td width="76">
-<p align="center">110</p>
-</td>
-</tr>
-<tr>
-<td width="454">
 <p>Direction de la sécurité sociale : sous-directeur du financement du système de soins</p>
 </td>
 <td width="76">
@@ -707,24 +630,13 @@ A. - Emplois en administration centrale
 </tr>
 <tr>
 <td width="454">
-<p>Direction de l'administration générale, du personnel et du budget : sous-directeur du budget, des finances et du contrôle de gestion</p>
+<p>Direction de l'administration générale, du personnel et du budget, sous-directeur des affaires financières (à compter du 20 novembre 2006)</p>
 </td>
 <td width="76">
 <p align="center">1</p>
 </td>
 <td width="76">
 <p align="center">110</p>
-</td>
-</tr>
-<tr>
-<td width="454">
-<p>Délégation générale à l'emploi et à la formation professionnelle : sous-directeur du Fonds social européen (à compter du 12 octobre 2005)</p>
-</td>
-<td width="76">
-<p align="center">1</p>
-</td>
-<td width="76">
-<p align="center">80</p>
 </td>
 </tr>
 <tr>
@@ -762,17 +674,6 @@ A. - Emplois en administration centrale
 </tr>
 <tr>
 <td width="454">
-<p>Direction de l'administration générale et de la modernisation des services : sous-directeur de la communication et de l'animation (à compter du 25 avril 2003)</p>
-</td>
-<td width="76">
-<p align="center">1</p>
-</td>
-<td width="76">
-<p align="center">80</p>
-</td>
-</tr>
-<tr>
-<td width="454">
 <p>Direction de l'administration générale et de la modernisation des services : sous-directeur des systèmes d'information (à compter du 25 avril 2003)</p>
 </td>
 <td width="76">
@@ -784,7 +685,7 @@ A. - Emplois en administration centrale
 </tr>
 <tr>
 <td width="454">
-<p>Direction générale de la santé : sous-directeur de la qualité du système de santé</p>
+<p>Direction générale de la santé : sous-directeur de la prévention des risques infectieux (à compter du 11 mai 2007) </p>
 </td>
 <td width="76">
 <p align="center">1</p>
@@ -795,29 +696,7 @@ A. - Emplois en administration centrale
 </tr>
 <tr>
 <td width="454">
-<p>Direction générale de la santé : sous-directeur santé et société</p>
-</td>
-<td width="76">
-<p align="center">1</p>
-</td>
-<td width="76">
-<p align="center">80</p>
-</td>
-</tr>
-<tr>
-<td width="454">
-<p>Direction générale de la santé : sous-directeur politiques de santé et stratégies</p>
-</td>
-<td width="76">
-<p align="center">1</p>
-</td>
-<td width="76">
-<p align="center">80</p>
-</td>
-</tr>
-<tr>
-<td width="454">
-<p>Direction générale de la santé : sous-directeur coordination des services et affaires juridiques</p>
+<p>Direction générale de la santé : sous-directeur, secrétaire général adjoint (à compter du 11 mai 2007)</p>
 </td>
 <td width="76">
 <p align="center">1</p>
@@ -872,7 +751,7 @@ A. - Emplois en administration centrale
 </tr>
 <tr>
 <td width="454">
-<p>Direction de l'hospitalisation et de l'organisation des soins : sous-directeur des professions médicales et des personnels médicaux hospitaliers</p>
+<p>Direction de l'hospitalisation et de l'organisation des soins : sous-directeur des professions médicales et des personnels médicaux (à compter du 11 mai 2007)</p>
 </td>
 <td width="76">
 <p align="center">1</p>
@@ -895,28 +774,6 @@ A. - Emplois en administration centrale
 <tr>
 <td width="454">
 <p>Direction de l'hospitalisation et de l'organisation des soins : sous-directeur des affaires financières</p>
-</td>
-<td width="76">
-<p align="center">1</p>
-</td>
-<td width="76">
-<p align="center">80</p>
-</td>
-</tr>
-<tr>
-<td width="454">
-<p>Direction de la population et des migrations : sous-directeur de la démographie, des mouvements de population et des questions internationales</p>
-</td>
-<td width="76">
-<p align="center">1</p>
-</td>
-<td width="76">
-<p align="center">80</p>
-</td>
-</tr>
-<tr>
-<td width="454">
-<p>Direction de la population et des migrations : sous-directeur de l'accueil et de l'intégration</p>
 </td>
 <td width="76">
 <p align="center">1</p>
@@ -971,7 +828,7 @@ A. - Emplois en administration centrale
 </tr>
 <tr>
 <td width="454">
-<p>Direction de l'administration générale, du personnel et du budget : sous-directeur de l'administration des services centraux</p>
+<p>Direction de l'administration générale, du personnel et du budget : sous-directeur des services généraux et de l'immobilier (à compter du 10 avril 2008)</p>
 </td>
 <td width="76">
 <p align="center">1</p>
@@ -983,17 +840,6 @@ A. - Emplois en administration centrale
 <tr>
 <td width="454">
 <p>Direction de l'administration générale, du personnel et du budget : sous-directeur des systèmes d'information et des télécommunications</p>
-</td>
-<td width="76">
-<p align="center">1</p>
-</td>
-<td width="76">
-<p align="center">80</p>
-</td>
-</tr>
-<tr>
-<td width="454">
-<p>Direction de l'administration générale, du personnel et du budget : sous-directeur de la modernisation des services</p>
 </td>
 <td width="76">
 <p align="center">1</p>
@@ -1036,49 +882,16 @@ A. - Emplois en administration centrale
 </td>
 </tr>
 <tr>
-<td width="454">
-<p>Délégation aux affaires européennes et internationales : sous-directeur des affaires européennes</p>
-</td>
-<td width="76">
-<p align="center">1</p>
-</td>
-<td width="76">
-<p align="center">80</p>
-</td>
-</tr>
-<tr>
-<td width="454">
-<p>Délégation aux affaires européennes et internationales : sous-directeur des affaires internationales</p>
-</td>
-<td width="76">
-<p align="center">1</p>
-</td>
-<td width="76">
-<p align="center">80</p>
-</td>
-</tr>
-<tr>
 <td colspan="3" width="454">
 <p align="center">Directeur de projet :</p>
 </td>
 </tr>
 <tr>
 <td width="454">
-<p>Secrétaire général des ministères chargés des affaires sociales (à compter du 9 février 2005)</p>
+<p>Secrétaire général des ministères chargés des affaires sociales (à compter du 21 février 2008)</p>
 </td>
 <td width="76">
-<p align="center">2</p>
-</td>
-<td width="76">
-<p align="center">80</p>
-</td>
-</tr>
-<tr>
-<td width="454">
-<p>Délégation générale à l'emploi et à la formation professionnelle (à compter du 3 mai 2006)</p>
-</td>
-<td width="76">
-<p align="center">2</p>
+<p align="center">3</p>
 </td>
 <td width="76">
 <p align="center">80</p>
@@ -1086,7 +899,7 @@ A. - Emplois en administration centrale
 </tr>
 <tr>
 <td width="454">
-<p>Direction des relations du travail</p>
+<p>Direction générale du travail ( à compter du 22 août 2006)</p>
 </td>
 <td width="76">
 <p align="center">1</p>
@@ -1119,10 +932,10 @@ A. - Emplois en administration centrale
 </tr>
 <tr>
 <td width="454">
-<p>Direction générale de la santé</p>
+<p>Direction générale de la santé (à compter du 1<sup>er</sup> décembre 2006)</p>
 </td>
 <td width="76">
-<p align="center">2</p>
+<p align="center">3</p>
 </td>
 <td width="76">
 <p align="center">80</p>
@@ -1130,10 +943,21 @@ A. - Emplois en administration centrale
 </tr>
 <tr>
 <td width="454">
-<p>Direction générale de l'action sociale (à compter du 12 août 2005)</p>
+<p>Direction générale de la santé (à compter du 28 juin 2007)</p>
 </td>
 <td width="76">
-<p align="center">2</p>
+<p align="center">4</p>
+</td>
+<td width="76">
+<p align="center">80</p>
+</td>
+</tr>
+<tr>
+<td width="454">
+<p>Direction générale de l'action sociale (à compter du 9 février 2008)</p>
+</td>
+<td width="76">
+<p align="center">3</p>
 </td>
 <td width="76">
 <p align="center">80</p>
@@ -1163,10 +987,21 @@ A. - Emplois en administration centrale
 </tr>
 <tr>
 <td width="454">
-<p>Direction de la sécurité sociale </p>
+<p>Direction de la sécurité sociale (à compter du 5 mars 2008)</p>
 </td>
 <td width="76">
-<p align="center">2</p>
+<p align="center">3</p>
+</td>
+<td width="76">
+<p align="center">80</p>
+</td>
+</tr>
+<tr>
+<td width="454">
+<p>Délégation aux affaires européennes et internationales (à compter du 23 août 2007)</p>
+</td>
+<td width="76">
+<p align="center">1</p>
 </td>
 <td width="76">
 <p align="center">80</p>
@@ -1192,7 +1027,7 @@ A. - Emplois en administration centrale
 </tr>
 <tr>
 <td colspan="3" width="406">
-<p align="right">Chef de mission :</p>
+<p align="center">Chef de mission :</p>
 </td>
 </tr>
 <tr>
