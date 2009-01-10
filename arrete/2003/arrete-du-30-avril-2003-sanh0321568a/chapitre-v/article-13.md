@@ -64,19 +64,17 @@ pour les périodes effectuées la nuit, le dimanche ou jour férié.
 
 Ces sommes sont réduites de moitié pour les demi-périodes et le samedi après-midi.
 
-C. - Les assistants associés et les praticiens attachés associés :
+C. ― Les  assistants associés et les praticiens attachés associés :
 
-1. Indemnité de sujétion correspondant au temps de travail effectué dans le cadre des obligations de service hebdomadaires, la nuit, le samedi après-midi, le dimanche ou jour férié :
+1.  Indemnité de sujétion correspondant au temps de travail effectué dans le cadre  des obligations de service hebdomadaires, la nuit, le samedi après-midi, le  dimanche ou jour férié :
 
 Montant pour :
 
-- une nuit, un dimanche et jour férié : 205,40 Euros ;
+―  une nuit, un dimanche et jour férié : 205,40 € ;
 
-- une demi-nuit, un samedi après-midi : 102,70 Euros.
+― une  demi-nuit, un samedi après-midi : 102,70 €.
 
-Afin de maintenir la situation indemnitaire de certains assistants associés, les indemnités fixées ci-dessus peuvent, au plus tard, jusqu'au 31 décembre 2004, à titre exceptionnel et dérogatoire, être majorées à concurrence d'un montant fixé à 238 Euros.
-
-Afin de maintenir la situation indemnitaire de certains praticiens attachés associés et assistants associés, les montants des indemnités de sujétion mentionnés ci-dessus peuvent, au plus tard jusqu'au 31 décembre 2006, à titre exceptionnel et dérogatoire, être majorés à concurrence d'un montant fixé à 238 euros.
+Afin de maintenir  la situation indemnitaire de certains praticiens attachés associés et assistants  associés en fonction à la date du 30 janvier 2002, le montant de l'indemnité de  sujétion mentionné ci-dessus peut, au plus tard jusqu'au 31 décembre 2011, à  titre exceptionnel et dérogatoire, être majoré à concurrence d'un montant de 238  euros pour une nuit, un dimanche ou jour férié et de 119 euros pour une  demi-nuit ou un samedi après-midi.
 
 2. Indemnité forfaitaire pour toute période de temps de travail additionnel accompli, de jour et de nuit, sur la base du volontariat, au-delà des obligations de service hebdomadaires :
 
