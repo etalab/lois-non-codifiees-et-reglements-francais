@@ -8,5 +8,6 @@
 - [Division 332 : Dispositifs d'alarme d'homme à la mer et d'actions de sauvetage (DAHMAS).](division-332)
 - [Division 333 : Engins collectifs de sauvetage.](division-333)
 - [Division 334 : Entretien à terre des radiobalises de localisation des sinistres par satellite.](division-334)
+- [Division 335 : Système d’identification et de suivi des navires a grande distance (LRIT).](division-335)
 - [Division 351 : Système d’alerte de sûreté du navire.](division-351)
 - [Division 361 : Dispositifs de détection et d'alarme d'envahissement.](division-361)
