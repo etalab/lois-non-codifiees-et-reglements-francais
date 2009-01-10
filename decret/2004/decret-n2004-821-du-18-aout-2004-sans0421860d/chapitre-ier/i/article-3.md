@@ -1,17 +1,29 @@
 # Article 3
 
-I. - Pour les salariés dont la rémunération ne peut être déterminée au cours du mois en fonction d'un nombre d'heures de travail rémunérées, le nombre d'heures de travail pris en compte au titre du calcul du coefficient mentionné à l'article 2 est réputé égal :
+I. ― Pour la détermination de celle des formules de calcul du coefficient  applicable à l'entreprise en vertu de l'article 2 :
 
-1° Pour les salariés dont la durée du travail est fixée par une convention individuelle de forfait annuel en jours, au produit de la durée légale du travail calculée sur le mois et du rapport entre ce forfait et deux cent dix-huit jours ;
+1°  L'effectif de l'entreprise est calculé au 31 décembre, tous établissements  confondus, en fonction de la moyenne, au cours de l'année civile, des effectifs  déterminés chaque mois conformément aux
+dispositions des  articles L. 1111-2 et L. 1251-54 du code du travail
+.
 
-2° Pour les salariés dont la durée du travail est fixée par une convention individuelle de forfait annuel en heures, à cinquante-deux douzièmes de leur durée moyenne hebdomadaire de travail ;
+2° Pour une entreprise créée en cours d'année, l'effectif est calculé à la date  de sa création. Au titre de l'année suivante, l'effectif de cette entreprise est  calculé dans les conditions définies au 1°, en fonction de la moyenne des  effectifs de chacun des mois d'existence de la première année.
 
-3° Pour les autres salariés, à l'application de la durée collective du travail applicable dans l'établissement ou la partie de l'établissement où est employé le salarié calculée sur le mois lorsque la rémunération versée au cours du mois est au moins égale au produit de cette durée collective par la valeur du salaire minimum de croissance. Si leur rémunération est inférieure à cette rémunération de référence d'une activité à temps plein, le nombre d'heures déterminé comme ci-dessus est réduit selon le rapport entre la rémunération versée et cette rémunération de référence.
+II. ― Dans la formule de calcul déterminée en application du I  :
 
-II. - Dans les cas visés au I du présent article, lorsque la période d'emploi rémunérée couvre une partie du mois civil, le nombre d'heures rémunérées au cours du mois est réputé égal au produit du nombre de jours calendaires compris dans la période par un trentième du nombre d'heures reconstitué conformément aux dispositions prévues au I du présent article.
+1° Le montant mensuel du salaire minimum de croissance à  prendre en compte est égal à la valeur de 151,67 fois le salaire minimum de  croissance prévu par l'
+article L. 3231-2 du code du travail
+. Pour les salariés dont la rémunération contractuelle  n'est ni fixée pour l'ensemble du mois, considéré sur la base d'une durée  hebdomadaire, ni rapportée à la durée du cycle de 35 heures ou à une durée  annuelle de 1 607 heures, le montant mensuel du salaire minimum de croissance  ainsi déterminé est corrigé à proportion de la durée de travail ou de la durée  équivalente au sens de l'
+article L. 3121-9 du code du travail
+, hors heures supplémentaires et complémentaires au sens  de l'
+article 81 quater du code  général des impôts
+, inscrite à leur contrat  de travail au titre de la période où ils sont présents dans l'entreprise et  rapportée à la durée qui correspond à la durée légale du travail.
 
-Par dérogation à l'alinéa précédent, si le contrat de travail du salarié est suspendu avec maintien total ou partiel de sa rémunération mensuelle brute, le nombre d'heures pris en compte au titre de ces périodes de suspension est égal au produit du nombre d'heures rémunérées reconstitué conformément aux dispositions du I du présent article par le pourcentage de la rémunération demeuré à la charge de l'employeur et soumis à cotisations.
+2° La rémunération mensuelle brute hors heures supplémentaires et  complémentaires est constituée de la somme des gains et rémunérations tels que  définis à l'
+article L. 242-1 du code de la sécurité sociale
+, versés au salarié au cours  du mois civil, dont est soustraite la rémunération des heures complémentaires et  supplémentaires, dans la limite, pour ce qui concerne la majoration salariale  correspondante, du montant correspondant aux taux de 25 % ou de 50 % prévus à  l'
+article L. 3121-22 du code  du travail
+.
 
-Pour l'application de ces dispositions, dans le cas des salariés visés au 3° du I du présent article, la rémunération à comparer à la rémunération de référence d'une activité à temps plein est celle qu'aurait perçue le salarié s'il avait effectué son activité sur la totalité du mois civil.
+3°  En cas de suspension du contrat de travail avec maintien partiel de la  rémunération mensuelle brute du salarié, le montant mensuel du salaire minimum  de croissance pris en compte pour le calcul du coefficient est réduit à  proportion de la part de la rémunération demeurée à la charge de l'employeur et  soumise à cotisations.
 
-III. - La durée collective calculée sur le mois mentionnée ci-dessus est égale à cinquante-deux douzièmes de la durée hebdomadaire ou de la durée moyenne hebdomadaire en cas de modulation de la durée hebdomadaire du travail en application des articles L. 212-8 du code du travail ou du V de l'article 8 de la loi du 19 janvier 2000 relative à la réduction négociée du temps de travail ou en cas de réduction du temps de travail en application du II de l'article L. 212-9 du code du travail.
+4° Le résultat obtenu par application  de l'une ou l'autre de ces formules est arrondi à trois décimales, au millième  le plus proche. Pour les entreprises de un à dix-neuf salariés, il est pris en  compte pour une valeur égale à 0,281 s'il est supérieur à 0,281. Pour les  entreprises de plus de dix-neuf salariés, il est pris en compte pour une valeur  égale à 0,260 s'il est supérieur à 0,260. Dans l'un ou l'autre cas, s'il est  négatif, il est pris en compte pour une valeur de 0.

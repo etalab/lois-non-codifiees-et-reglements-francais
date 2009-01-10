@@ -1,6 +1,8 @@
 # Article 17
 
-Le nombre d'heures rémunérées pris en compte pour le calcul du coefficient défini aux articles 2 et 6 du présent décret est réputé égal au produit de la durée légale du travail calculée sur le mois et du rapport entre le nombre de jours de service accomplis au cours du mois et la durée de trente jours.
+Le montant mensuel du salaire minimum de croissance utilisé par les formules de  calcul de l'article 2 est réputé égal au produit de la valeur de 151, 67 fois le  salaire minimum de croissance prévu par l'
+article L. 3231-2 du code du travail
+et du rapport entre le nombre de jours de travail  correspondant à la rémunération mensuelle utilisée au dénominateur des formules  de calcul et 30 jours.
 
 Pour les marins titulaires d'un contrat de travail à temps partiel, le nombre de jours de service accomplis au cours du mois est réduit dans la même proportion que celle appliquée au salaire forfaitaire visé au 1° de l'article 14.
 
