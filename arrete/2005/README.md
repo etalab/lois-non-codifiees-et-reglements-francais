@@ -514,7 +514,6 @@
 - [Arrêté du 22 décembre 2004 (SOCF0412568A)](arrete-du-22-decembre-2004-socf0412568a)
 - [Arrêté du 22 décembre 2004 (SOCF0412569A)](arrete-du-22-decembre-2004-socf0412569a)
 - [Arrêté du 22 décembre 2005 (AGRS0502863A)](arrete-du-22-decembre-2005-agrs0502863a)
-- [Arrêté du 22 décembre 2005 (INTC0500863A)](arrete-du-22-decembre-2005-intc0500863a)
 - [Arrêté du 22 décembre 2005 (INTC0500880A)](arrete-du-22-decembre-2005-intc0500880a)
 - [Arrêté du 22 février 2005 (AGRG0500489A)](arrete-du-22-fevrier-2005-agrg0500489a)
 - [Arrêté du 22 juillet 2005 (MENA0501601A)](arrete-du-22-juillet-2005-mena0501601a)
