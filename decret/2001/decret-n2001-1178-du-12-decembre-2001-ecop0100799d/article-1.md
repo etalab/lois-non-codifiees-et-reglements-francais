@@ -12,4 +12,6 @@ En application des dispositions législatives et réglementaires régissant les 
 
 5° Elle traite les affaires internationales se rapportant à ses attributions ;
 
-6° Elle établit la programmation des enquêtes réalisées par ses services déconcentrés et à compétence nationale.
+6° Elle établit la programmation des enquêtes réalisées par ses services déconcentrés et à compétence nationale ;
+
+7° Elle assure la mise en œuvre des contrôles de métrologie légale, en liaison avec la direction générale de la compétitivité, de l'industrie et des services.
