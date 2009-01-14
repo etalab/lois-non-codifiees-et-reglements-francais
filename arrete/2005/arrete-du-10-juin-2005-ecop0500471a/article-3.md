@@ -30,7 +30,7 @@ Participation aux travaux en matière d'hygiène et de sécurité dans les domai
 
 Le bureau de la loyauté :
 
-Politique générale et avis juridiques sur la réglementation en matière de conformité des produits, des services et des organismes génétiquement modifiés ; pouvoirs d'enquêtes (consommation) ; étiquetage et allégations ; valorisation et maîtrise de la qualité ; normalisation, certification, assurance qualité, appellations d'origine, labels, chartes professionnelles ; relations avec le codex alimentarius et l'Organisation mondiale du commerce.
+Politique générale et avis juridiques sur la réglementation en matière de conformité des produits, des services et des organismes génétiquement modifiés ; pouvoirs d'enquêtes (consommation) ; étiquetage et allégations ; valorisation et maîtrise de la qualité ;                normalisation, certification, assurance qualité, appellations d'origine, labels, chartes professionnelles ; métrologie, en liaison avec la direction générale de la compétitivité, de l'industrie et des services ; relations avec le codex alimentarius et l'Organisation mondiale du commerce.
 
 Le bureau des institutions et des associations de consommateurs :
 
@@ -70,7 +70,7 @@ Autos, cycles et motocycles ; textiles et cuirs, meubles, parfumerie, jouets et 
 
 Le bureau du commerce et de l'artisanat :
 
-Equipement commercial ; paracommercialisme ; foires et salons ; relations commerciales entre producteurs et distributeurs ; services aux particuliers ; hôtellerie et restauration ; commerce électronique ; soldes et ventes réglementées.
+Paracommercialisme ; foires et salons ; relations commerciales entre producteurs et distributeurs ; services aux particuliers ; hôtellerie et restauration ; commerce électronique ; soldes et ventes réglementées.
 
 La sous-direction des services et des réseaux est chargée de la régulation des marchés et de la protection du consommateur dans les secteurs de l'énergie, de la chimie, du bâtiment et des travaux publics, des transports, de la communication, des services financiers et des professions organisées. Elle coordonne l'activité de la direction générale en matière environnementale. Elle comprend :
 

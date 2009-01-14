@@ -66,9 +66,9 @@ Elle définit et conduit la politique de contrôle de la formation professionnel
 
 Elle représente le ministère chargé de l'emploi au Conseil national de la formation tout au long de la vie.
 
-5° La sous-direction des mutations économiques comprend :
+5° La sous-direction des mutations de l'emploi et du développement de l'activité comprend :
 
-- la mission des interventions sectorielles ;
+- la mission de l'anticipation et de l'accompagnement des plans de sauvegarde de l'emploi ;
 
 - la mission du développement de l'emploi et des compétences ;
 
