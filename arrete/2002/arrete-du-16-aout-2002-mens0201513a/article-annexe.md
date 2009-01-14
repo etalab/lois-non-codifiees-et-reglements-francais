@@ -388,5 +388,32 @@ COMITÉS TECHNIQUES PARITAIRES CENTRAUX D'ÉTABLISSEMENTS PUBLICS RELEVANT DU MI
 <p align="center">7</p>
 </td>
 </tr>
+<tr>
+<td valign="top"> Ecole nationale supérieure Louis Lumière</td>
+<td align="center"> 3<br/>
+</td>
+<td align="center"> 3<br/>
+</td>
+</tr>
+<tr>
+<td> Institut d'administration des entreprises de Paris</td>
+<td align="center"> 4</td>
+<td align="center"> 4</td>
+</tr>
+<tr>
+<td> Institut français de mécanique avancée</td>
+<td align="center"> 4</td>
+<td align="center"> 4</td>
+</tr>
+<tr>
+<td> Ecole nationale supérieure de chimie de Lille</td>
+<td align="center"> 4</td>
+<td align="center"> 4</td>
+</tr>
+<tr>
+<td> Ecole nationale d'ingénieurs de Saint-Etienne</td>
+<td align="center"> 5</td>
+<td align="center"> 5</td>
+</tr>
 </tbody>
 </table>
