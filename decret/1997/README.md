@@ -1,6 +1,5 @@
 # 1997
 
-- [Décret n°93-1272 du 1 décembre 1993 (INDA9300854D)](decret-n93-1272-du-1-decembre-1993-inda9300854d)
 - [Décret n°97-1118 du 1 décembre 1997 (ECOK9700044D)](decret-n97-1118-du-1-decembre-1997-ecok9700044d)
 - [Décret n°97-309 du 1 avril 1997 (MJSK9670143D)](decret-n97-309-du-1-avril-1997-mjsk9670143d)
 - [Décret n°97-312 du 1 avril 1997 (ENVN9750023D)](decret-n97-312-du-1-avril-1997-envn9750023d)
