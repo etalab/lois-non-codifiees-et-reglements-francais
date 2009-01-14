@@ -1,0 +1,3 @@
+# Article 5
+
+L'article 5 du décret du 16 février 1968 susmentionné, le tableau 1 figurant en annexe du même décret, l'arrêté du 2 août 2005 fixant l'échelonnement indiciaire applicable au corps de conception et de direction de la police nationale, l'arrêté du 22 décembre 2005 fixant l'échelonnement indiciaire applicable aux responsables d'unité locale de police, l'arrêté du 17 avril 2008 fixant l'échelonnement indiciaire applicable au corps de commandement de la police nationale et l'arrêté du 17 avril 2008 fixant l'échelonnement indiciaire applicable au corps d'encadrement et d'application de la police nationale sont abrogés.
