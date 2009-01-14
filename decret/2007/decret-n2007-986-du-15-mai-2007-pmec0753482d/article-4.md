@@ -2,7 +2,7 @@
 
 La Commission nationale du commerce équitable établit son règlement intérieur.
 
-Son secrétariat est assuré par la direction du commerce, de l'artisanat, des services et des professions libérales.
+Son secrétariat est assuré par la direction générale de la compétitivité, de l'industrie et des services.
 
 Les demandes de reconnaissance sont adressées au secrétariat et font objet d'un accusé de réception délivré par celui-ci.
 

@@ -10,9 +10,9 @@ b) Le directeur des affaires économiques et internationales auprès du ministre
 
 c) Le directeur du budget ou son représentant ;
 
-d) Le        directeur de la sécurité civile ou son représentant ;
+d) Le directeur de la sécurité civile ou son représentant ;
 
-e) Le directeur général des entreprises ou son représentant ;
+e) Le directeur général de la compétitivité, de l'industrie et des services ou son représentant ;
 
 2° Un représentant de l'Etat choisi parmi les membres du Conseil général des ponts et chaussées ;
 

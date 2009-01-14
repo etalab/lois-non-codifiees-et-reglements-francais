@@ -12,15 +12,13 @@ I. - Le ministre de l'économie, des finances et de l'emploi a autorité sur :
 
 - la direction générale de la concurrence, de la consommation et de la répression des fraudes ;
 
-- la direction du commerce, de l'artisanat, des services et des professions libérales ;
+- la direction générale de la compétitivité, de l'industrie et des services ;
 
 - la délégation générale à l'emploi et à la formation professionnelle ;
 
 - l'inspection générale du tourisme ;
 
-- la direction du tourisme,
-
-ainsi que les autres services relevant de ses attributions.
+-ainsi que les autres services relevant de ses attributions.
 
 II. - Conjointement avec le ministre du budget, des comptes publics et de la fonction publique, il a autorité sur :
 
@@ -46,7 +44,7 @@ II. - Conjointement avec le ministre du budget, des comptes publics et de la fon
 
 III. - Conjointement avec le ministre du travail, des relations sociales et de la solidarité, il a autorité sur la direction de l'animation de la recherche, des études et de la statistique, ainsi que sur la délégation interministérielle à l'innovation, à l'expérimentation sociale et à l'économie sociale.
 
-IV. - Il a autorité sur la direction générale des entreprises conjointement avec le ministre d'Etat, ministre de l'écologie, du développement et de l'aménagement durables, pour l'exercice des attributions de ce dernier en matière de sécurité industrielle.
+IV. - Il a autorité sur la direction générale de la compétitivité, de l'industrie et des services conjointement avec le ministre d'Etat, ministre de l'écologie, du développement et de l'aménagement durables, pour l'exercice des attributions de ce dernier en matière de sécurité industrielle.
 
 V. - Conjointement avec le ministre d'Etat, ministre de l'écologie, du développement et de l'aménagement durables, et le ministre de la santé, de la jeunesse et des sports, il a autorité sur la direction de l'action régionale, de la qualité et de la sécurité industrielle lorsque celle-ci exerce ses compétences en matière de sûreté nucléaire et de radioprotection.
 

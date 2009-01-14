@@ -14,7 +14,7 @@ Le directeur de la demande et des marchés énergétiques ou son représentant ;
 
 Le directeur général du Trésor et de la politique économique ou son représentant ;
 
-Le directeur du commerce, de l'artisanat, des services et des professions libérales ;
+Le directeur général de la compétitivité, de l'industrie et des services ;
 
 Le chef de la mission de contrôle général économique et financier placée auprès d'Electricité de France et de Gaz de France ou son représentant ;
 

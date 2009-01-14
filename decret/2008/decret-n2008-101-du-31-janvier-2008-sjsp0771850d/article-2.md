@@ -34,7 +34,7 @@ c) Le président de l'Organisme professionnel de prévention du bâtiment et des
 
 Sont associés en tant que de besoin :
 
-― le directeur général des entreprises ou son représentant ;
+― le directeur général de la compétitivité, de l'industrie et des services ou son représentant ;
 
 ― le directeur général de la concurrence, de la consommation et de la répression des fraudes ou son représentant ;
 

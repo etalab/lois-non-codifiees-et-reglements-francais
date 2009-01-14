@@ -6,7 +6,7 @@ Le premier collège comprend :
 
 1. Des personnalités qualifiées choisies en raison de leur compétence dans le domaine du développement des entreprises, de leur financement, de l'innovation et des PME dont le nombre ne pourra être supérieur à vingt ;
 
-2. Le directeur général du Trésor et de la politique économique ou son représentant, le directeur du commerce, de l'artisanat et des professions libérales ou son représentant, le directeur général des entreprises ou son représentant ;
+2. Le directeur général du Trésor et de la politique économique ou son représentant, le directeur général de la compétitivité, de l'industrie et des services ou son représentant ;
 
 3. Le directeur général de la Caisse des dépôts et consignations et le président de CDC entreprises.
 

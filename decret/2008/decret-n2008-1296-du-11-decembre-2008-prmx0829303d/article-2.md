@@ -6,7 +6,7 @@ Dans la limite de ses attributions, le ministre auprès du Premier ministre, cha
 
 ― la direction générale des finances publiques ;
 
-― la direction générale des entreprises ;
+― la direction générale de la compétitivité, de l'industrie et des services ;
 
 ― la direction générale de l'énergie et du climat ;
 
@@ -23,8 +23,6 @@ Dans la limite de ses attributions, le ministre auprès du Premier ministre, cha
 ― la direction des affaires juridiques au ministère de l'économie, de l'industrie et de l'emploi ;
 
 ― la direction de l'architecture et du patrimoine ;
-
-― la direction du commerce, de l'artisanat, des services et des professions libérales ;
 
 ― la direction de l'hospitalisation et de l'organisation des soins ;
 

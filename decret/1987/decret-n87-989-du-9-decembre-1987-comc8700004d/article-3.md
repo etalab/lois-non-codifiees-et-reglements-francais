@@ -18,9 +18,7 @@ Le directeur des relations économiques extérieures ;
 
 Le délégué interministériel aux professions libérales ;
 
-Le directeur du tourisme ;
-
-Le directeur des entreprises commerciales, artisanales et de services ;
+Le directeur général de la compétitivité, de l'industrie et des services ;
 
 Le directeur de l'animation de la recherche, des études et des statistiques au ministère de l'emploi et de la solidarité ;
 

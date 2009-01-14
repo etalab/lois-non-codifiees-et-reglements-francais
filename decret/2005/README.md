@@ -82,6 +82,7 @@
 - [Décret n°2005-703 du 24 juin 2005 (MCCX0500075D)](decret-n2005-703-du-24-juin-2005-mccx0500075d)
 - [Décret n°2005-532 du 24 mai 2005 (JUSF0550030D)](decret-n2005-532-du-24-mai-2005-jusf0550030d)
 - [Décret du 25 octobre 2005 (AGRP0501894D)](decret-du-25-octobre-2005-agrp0501894d)
+- [Décret n°2005-1021 du 25 août 2005 (ECOX0500212D)](decret-n2005-1021-du-25-aout-2005-ecox0500212d)
 - [Décret n°2005-1321 du 25 octobre 2005 (MENE0501520D)](decret-n2005-1321-du-25-octobre-2005-mene0501520d)
 - [Décret n°2005-875 du 25 juillet 2005 (ECOT0420065D)](decret-n2005-875-du-25-juillet-2005-ecot0420065d)
 - [Décret n°95-979 du 25 août 1995 (PRMG9570441D)](decret-n95-979-du-25-aout-1995-prmg9570441d)

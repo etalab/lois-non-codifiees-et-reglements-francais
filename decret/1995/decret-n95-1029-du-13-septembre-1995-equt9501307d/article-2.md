@@ -28,7 +28,7 @@ La commission interministérielle du transport des matières dangereuses est com
 
 - le chef de la mission de la sûreté nucléaire et de la radioprotection ou son représentant ;
 
-- le directeur général des entreprises ou son représentant ;
+- le directeur général de la compétitivité, de l'industrie et des services ou son représentant ;
 
 - le directeur général des douanes et droits indirects ou son représentant ;
 
