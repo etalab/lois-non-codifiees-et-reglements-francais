@@ -501,7 +501,6 @@
 - [Arrêté du 16 octobre 2003 (MENF0301912A)](arrete-du-16-octobre-2003-menf0301912a)
 - [Arrêté du 16 octobre 2003 (SOCO0311565A)](arrete-du-16-octobre-2003-soco0311565a)
 - [Arrêté du 16 octobre 2003 (SPRK0370195A)](arrete-du-16-octobre-2003-sprk0370195a)
-- [Arrêté du 16 septembre 2003 (AGRE0302007A)](arrete-du-16-septembre-2003-agre0302007a)
 - [Arrêté du 16 septembre 2003 (DEFP0302039A)](arrete-du-16-septembre-2003-defp0302039a)
 - [Arrêté du 16 septembre 2003 (INTA0300542A)](arrete-du-16-septembre-2003-inta0300542a)
 - [Arrêté du 16 mai 2003 (BUDR0303019A)](arrete-du-16-mai-2003-budr0303019a)
