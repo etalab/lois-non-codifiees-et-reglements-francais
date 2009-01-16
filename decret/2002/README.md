@@ -58,7 +58,6 @@
 - [Décret n°2002-994 du 11 juillet 2002 (DEFD0201703D)](decret-n2002-994-du-11-juillet-2002-defd0201703d)
 - [Décret n°90-601 du 11 juillet 1990 (MCCB9000404D)](decret-n90-601-du-11-juillet-1990-mccb9000404d)
 - [Décret n°92-239 du 11 mars 1992 (ECOM9200049D)](decret-n92-239-du-11-mars-1992-ecom9200049d)
-- [Décret du 12 novembre 2002 (AGRP0201430D)](decret-du-12-novembre-2002-agrp0201430d)
 - [Décret n° 70-738 du 12 août 1970](decret-n-70-738-du-12-aout-1970)
 - [Décret n°2002-1161 du 12 septembre 2002 (AGRB0201501D)](decret-n2002-1161-du-12-septembre-2002-agrb0201501d)
 - [Décret n°2002-212 du 12 février 2002 (EQUA0101663D)](decret-n2002-212-du-12-fevrier-2002-equa0101663d)
