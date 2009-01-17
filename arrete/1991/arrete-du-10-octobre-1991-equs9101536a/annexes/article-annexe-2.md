@@ -94,7 +94,7 @@
 <p>- un représentant de l'administration (*)</p>
 <p>- un enseignant de la conduite (*)</p>
 <p>- un psychologue agréé pour la formation des conducteurs infractionnistes</p>
-<p>- un chargé de mission de sécurité routière ou un inspecteur départemental de sécurité routière.</p>
+<p>- un chargé de mission de sécurité routière ou un intervenant départemental de sécurité routière</p>
 </td>
 </tr>
 <tr>
@@ -133,15 +133,14 @@
 <p>Pédagogie en salle</p>
 </td>
 <td colspan="2" valign="top" width="74">
-<p align="center">30'</p>
-<p align="center">après 30'</p>
-<p align="center">de prép.</p>
+<p align="center">55 minutes après 45 minutes de préparation, à compter de la session de 2009 </p>
 </td>
 <td valign="top" width="52">
 <p align="center">3</p>
 </td>
 <td valign="top" width="171">
-<p>Le candidat dispense un cours théorique à un auditoire. Il développe l'un des deux sujets tirés au sort dans la banque de sujets illustrés élaborés par le ministère chargé des transports.</p>
+<p>Le candidat dispense un cours théorique à un auditoire. Il développe l'un des deux sujets tirés au sort dans la banque de sujets élaborés par le ministère chargé des transports.</p>
+<p>A l'issue du cours, le candidat expose ses choix pédagogiques aux examinateurs.</p>
 </td>
 <td valign="top" width="172">
 <p>Un enseignant de la conduite (*) et au choix :</p>
@@ -165,7 +164,7 @@
 </td>
 <td valign="top" width="172">
 <p>Un enseignant de la conduite (*) et au choix :</p>
-<p>- un inspecteur du permis de conduire et de la sécurité routière</p>
+<p>- un inspecteur du permis de conduire et de la sécurité routière ou un délégué au permis de conduire et à la sécurité routière</p>
 <p>- un psychologue agréé pour la formation des conducteurs infractionnistes</p>
 <p>- à défaut, un enseignant de la conduite (*).</p>
 </td>
@@ -175,19 +174,20 @@
 <p>Pédagogie sur véhicule</p>
 </td>
 <td colspan="2" valign="top" width="74">
-<p align="center">1 H</p>
+<p align="center">65 minutes à compter de la session de 2009</p>
 </td>
 <td valign="top" width="52">
 <p align="center">3</p>
 </td>
 <td valign="top" width="171">
 <p>Le candidat dispense un cours pratique à un élève en cours de préparation au permis de conduire de la catégorie "B" ou titulaire de ce permis depuis moins d'un an.</p>
+<p>A l'issue du cours, le candidat expose ses choix pédagogiques aux examinateurs.</p>
 </td>
 <td valign="top" width="172">
 <p>Un enseignant de la conduite (*) et, au choix :</p>
-<p>- un inspecteur du permis de conduire et de la sécurité routière</p>
+<p>- un inspecteur du permis de conduire et de la sécurité routière ou un délégué au permis de conduire et à la sécurité routière</p>
 <p>- un professionnel de la formation des formateurs</p>
-<p>- un chargé de mission de sécurité routière ou un inspecteur départemental de la sécurité routière</p>
+<p>- un chargé de mission de sécurité routière ou un intervenant départemental de sécurité routière</p>
 <p>- un psychologue agréé pour la formation des conducteurs infractionnistes.</p>
 </td>
 </tr>
@@ -207,7 +207,7 @@
 </td>
 <td valign="top" width="172">
 <p>Un enseignant de la conduite (*) et au choix :</p>
-<p>- un chargé de mission de sécurité routière ou un inspecteur départemental de la sécurité routière</p>
+<p>- un chargé de mission de sécurité routière ou un intervenant départemental de sécurité routière</p>
 <p>- un psychologue agréé pour la formation des conducteurs infractionnistes</p>
 <p>- un professionnel de la formation des formateurs</p>
 <p>- un représentant de l'administration (*).</p>
