@@ -12,11 +12,13 @@ I. - Les conducteurs et la conduite
 
 3. Avoir des notions sur les systèmes homme, machine, environnement.
 
-4. Comprendre les particularités de l'apprentissage de la conduite.
+4. Connaître les principes et les techniques de l'éco-conduite.
 
-5. Comprendre la fonction des permis de conduire.
+5. Comprendre les particularités de l'apprentissage de la conduite.
 
-6. Comprendre les éléments de statistiques.
+6. Comprendre la fonction des permis de conduire.
+
+7. Comprendre les éléments de statistiques.
 
 II. - La circulation routière
 
@@ -39,6 +41,10 @@ III. - Les véhicules
 3. Avoir des notions sur la sécurité active et passive.
 
 4. Avoir des notions d'histoire de l'automobile.
+
+5. Avoir des notions sur l'impact du choix du véhicule, de son entretien et de ses équipements sur la sécurité, la consommation de carburant et les émissions polluantes.
+
+6. Avoir des notions sur l'impact du chargement du véhicule et l'utilisation de ses accessoires sur la sécurité, la consommation de carburant et les émissions polluantes.
 
 IV. - La sécurité routière
 
@@ -94,32 +100,6 @@ VI. - L'instruction professionnelle et civique
 
 VII. - Les stages pratiques
 
-1. Faire l'expérience de stages pratiques et comprendre leur utilité.
+Faire l'expérience de stages pratiques en établissement d'enseignement de la conduite et de la sécurité routière.
 
-Ces stages doivent être effectués :
-
-Dans un ou des établissements d'enseignement de la conduite automobile ;
-
-Dans un ou des organismes ayant trait à l'éducation ou à la sécurité routière, notamment :
-
-- préfectures (bureau de la circulation, commission REAGIR, commission de retrait de permis, protection civile...) ;
-
-- direction départementale de l'équipement (études de points noirs, aménagements de route, opérations rase campagne, sécurité des piétons en zone urbaine...) ;
-
-- gendarmerie, police ;
-
-- Éducation nationale ;
-
-- secours d'urgence et services hospitaliers (préparation au brevet national de secourisme...) ;
-
-- organismes spécialisés dans la recherche et la sécurité automobile ;
-
-- organismes dispensant des actions de formation à la sécurité routière à leurs agents ;
-
-- instances nationales ou locales œuvrant pour une plus grande sécurité routière (associations d'usagers ou de victimes de la route...) ;
-
-- autres.
-
-2. Être capable de produire un mémoire écrit à l'issue de ces stages portant sur un thème lié à la pédagogie de la conduite ou à la sécurité routière.
-
-3. Être capable de présenter oralement un mémoire, d'en argumenter les composantes, d'en expliquer la démarche, d'en commenter les résultats.
+Ces stages doivent comporter des phases d'observation et de participation à la formation théorique et pratique des élèves conducteurs. Lorsque l'élève stagiaire assure la formation notamment pratique d'élèves conducteurs, il doit obligatoirement être accompagné d'un enseignant qualifié sous la responsabilité d'un tuteur. Ce tuteur est désigné dans une convention de stage conclue entre l'organisme de formation et l'établissement d'enseignement de la conduite et de la sécurité routière.L'enseignant et le tuteur doivent être enseignants de la conduite et de la sécurité routière titulaires d'une autorisation d'enseigner en cours de validité valable pour l'enseignement dispensé.

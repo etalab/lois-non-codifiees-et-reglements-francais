@@ -12,9 +12,11 @@ I. - Les utilisateurs et l'usage des deux roues
 
 3. Avoir des notions sur les systèmes homme, machine, environnement.
 
-4. Comprendre les particularités de l'apprentissage des deux roues.
+4. Connaître les principes et les techniques de l'éco-conduite.
 
-5. Comprendre les éléments de statistiques.
+5. Comprendre les particularités de l'apprentissage des deux roues.
+
+6. Comprendre les éléments de statistiques.
 
 II. - La circulation des deux roues
 
@@ -37,6 +39,10 @@ III. - Les véhicules à deux roues
 3. Avoir des notions sur la sécurité active et passive.
 
 4. Avoir des notions sur l'histoire des deux roues.
+
+5. Avoir des notions sur l'impact du choix du véhicule, de son entretien et de ses équipements sur la sécurité, la consommation de carburant et les émissions polluantes.
+
+6. Avoir des notions sur l'impact du chargement du véhicule et l'utilisation de ses accessoires sur la sécurité, la consommation de carburant et les émissions polluantes.
 
 IV. - La sécurité des deux roues
 
@@ -72,10 +78,6 @@ VI. - La réglementation de l'enseignement de la conduite des véhicules à deux
 
 VII. - Les stages pratiques
 
-Faire l'expérience de stages pratiques et comprendre leur utilité.
+Faire l'expérience de stages pratiques dans un ou des établissements d'enseignement de la conduite et de la sécurité routière spécialisés dans l'enseignement de la conduite des deux-roues.
 
-Ces stages doivent être effectués :
-
-- dans un ou des établissements d'enseignement de la conduite des véhicules à moteur et de la sécurité routière spécialisés dans l'enseignement de la conduite des deux roues ;
-
-- et/ou dans un ou des organismes formant des jeunes à l'usage des deux roues.
+Ces stages doivent comporter des phases d'observation et de participation à la formation théorique et pratique des élèves conducteurs. Lorsque l'élève stagiaire assure la formation notamment pratique d'élèves conducteurs de deux-roues, il doit obligatoirement être accompagné d'un enseignant qualifié sous la responsabilité d'un tuteur. Ce tuteur est désigné dans une convention de stage conclue entre l'organisme de formation et l'établissement d'enseignement de la conduite et de la sécurité routière.L'enseignant et le tuteur doivent être enseignants de la conduite et de la sécurité routière titulaires d'une autorisation d'enseigner en cours de validité valable pour l'enseignement dispensé.

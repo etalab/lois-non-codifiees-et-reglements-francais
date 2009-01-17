@@ -14,9 +14,11 @@ I. - Les conducteurs et. la conduite des véhicules du groupe lourd
 
 4. Avoir des notions sur les systèmes homme, machine, environnement.
 
-5. Comprendre les particularités de l'apprentissage de la conduite des véhicules du groupe lourd.
+5. Connaître les principes et les techniques de l'éco-conduite.
 
-6. Comprendre les éléments de statistiques.
+6. Comprendre les particularités de l'apprentissage de la conduite des véhicules du groupe lourd.
+
+7. Comprendre les éléments de statistiques.
 
 II. - La circulation des véhicules du groupe lourd
 
@@ -39,6 +41,10 @@ III. - Les véhicules du groupe lourd
 3. Avoir des notions sur la sécurité active et passive.
 
 4. Avoir des notions sur l'histoire des véhicules du groupe lourd.
+
+5. Avoir des notions sur l'impact du choix du véhicule, de son entretien et de ses équipements sur la sécurité, la consommation de carburant et les émissions polluantes.
+
+6. Avoir des notions sur l'impact du chargement du véhicule et l'utilisation de ses accessoires sur la sécurité, la consommation de carburant et les émissions polluantes.
 
 IV. - La sécurité des véhicules du groupe lourd
 
@@ -72,22 +78,16 @@ VI. - L'instruction professionnelle et civique dans le transport routier de marc
 
 4. Comprendre la réglementation sociale française et européenne relative au personnel de conduite.
 
-5. Comprendre la réglementation relative à la coordination des transports nationaux et internationaux.
+5. Connaître les formations professionnelles.
 
-6. Connaître les formations professionnelles.
+6. Connaître la réglementation sur le transport des matières dangereuses et les transports spéciaux.
 
-7. Connaître la réglementation sur le transport des matières dangereuses et les transports spéciaux.
+7. Connaître l'organisation et la réglementation des transports d'enfants.
 
-8. Connaître l'organisation et la réglementation des transports d'enfants.
-
-9. Connaître tous les documents réglementaires.
+8. Connaître tous les documents réglementaires.
 
 VII. - Les stages pratiques
 
-Faire l'expérience de stages pratiques et comprendre leur utilité.
+Faire l'expérience de stages pratiques dans un ou des établissements d'enseignement de la conduite et de la sécurité routière spécialisés dans l'enseignement de la conduite des véhicules du groupe lourd.
 
-Ces stages sont effectués :
-
-- dans un ou des établissements d'enseignement de la conduite des véhicules à moteur et de la sécurité routière spécialisés dans l'enseignement de la conduite des véhicules du groupe lourd ;
-
-- et/ou dans un organisme professionnel du secteur des transports ou en milieu "entreprise".
+Ces stages doivent comporter des phases d'observation et de participation à la formation théorique et pratique des élèves conducteurs. Lorsque l'élève stagiaire assure la formation notamment pratique d'élèves conducteurs, il doit obligatoirement être accompagné d'un enseignant qualifié sous la responsabilité d'un tuteur. Ce tuteur désigné dans une convention de stage conclue entre l'organisme de formation et l'établissement d'enseignement de la conduite et de la sécurité routière.L'enseignant et le tuteur doivent être enseignants de la conduite et de la sécurité routière titulaires d'une autorisation d'enseigner en cours de validité valable pour l'enseignement dispensé.

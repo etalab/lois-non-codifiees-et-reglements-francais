@@ -27,7 +27,7 @@ B.E.P.E.C.A.S.E.R. mention "groupe lourd"
 <p>• Épreuve de maîtrise du véhicule sur aire de manœuvre fermée à la circulation.</p>
 </td>
 <td valign="top" width="69">
-<p align="center">5'</p>
+<p align="center">5' par essai</p>
 </td>
 <td valign="top" width="52">
 <p align="center">1</p>
@@ -80,13 +80,14 @@ B.E.P.E.C.A.S.E.R. mention "groupe lourd"
 <p>- soit en circulation (après tirage au sort).</p>
 </td>
 <td valign="top" width="69">
-<p align="center">50'</p>
+<p align="center">65'</p>
 </td>
 <td valign="top" width="52">
 <p align="center">5</p>
 </td>
 <td valign="top" width="170">
 <p>Le candidat dispense un cours pratique à un élève en cours de formation au permis de conduire de la catégorie E(C) ou D ou titulaire de l'un de ces permis depuis moins d'un an.</p>
+<p>A l'issue du cours, le candidat expose ses choix pédagogiques aux examinateurs.</p>
 </td>
 <td width="180">
 <p align="center">-</p>

@@ -2,11 +2,11 @@
 
 Le jury comporte neuf membres titulaires et neuf membres suppléants désignés pour une durée de trois ans par arrêté du préfet chargé d'organiser l'examen :
 
-- le préfet, président, et son représentant ;
+- le préfet, président, ou son représentant, et son suppléant ;
 
-- un représentant de la sous-direction de la formation du conducteur et son suppléant ;
+- un représentant de l'administration en charge de l'éducation routière et son suppléant ;
 
-- un représentant de la gendarmerie ou de la police et son suppléant ; ce représentant doit être inspecteur départemental de la sécurité routière ou chargé de mission sécurité routière ;
+- un représentant de la gendarmerie ou de la police et son suppléant ; ce représentant doit être un chargé de mission de sécurité routière ou un intervenant départemental de la sécurité routière ou un représentant des forces de l'ordre impliqué dans le domaine de la sécurité routière ;
 
 - un représentant de l'éducation nationale et son suppléant ;
 
@@ -16,7 +16,9 @@ Le jury comporte neuf membres titulaires et neuf membres suppléants désignés 
 
 Sur ces huit membres enseignants de la conduite, deux titulaires et deux suppléants doivent être choisis parmi les enseignants salariés et deux au moins doivent être titulaires du brevet d'aptitude à la formation des moniteurs (B.A.F.M.), ces deux conditions n'étant pas exclusives.
 
-Le coordinateur pédagogique ou son suppléant nommé par arrêté du ministre chargé des transports siège de droit au jury. En l'absence d'un ou plusieurs de ses membres, le jury peut néanmoins délibérer valablement dans la mesure où la moitié au moins de ses membres sont présents.
+Le ou les coordinateurs pédagogiques ou leurs suppléants nommés par arrêté chargé des transports siègent de droit au jury. En l'absence d'un ou plusieurs de ses membres, le jury peut néanmoins délibérer valablement dans la mesure où la moitié au moins de ses membres sont présents.
+
+Pour délibérer à l'issue de l'épreuve de contrôle de niveau, des épreuves de rattrapage et des épreuves des mentions, le jury peut donner délégation à un jury restreint composé au moins du président du jury, d'un représentant des administrations, d'un représentant des enseignants de la conduite membres du jury et d'un coordinateur pédagogique.
 
 Le préfet désigne en outre, en tant que de besoin, des correcteurs et des examinateurs, conformément aux annexes II, IV et VI du présent arrêté.
 

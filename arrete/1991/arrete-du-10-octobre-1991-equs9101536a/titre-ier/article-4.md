@@ -7,3 +7,5 @@ Un délai maximum de deux mois sépare la date de l'épreuve spéciale de contr�
 Un délai minimum de cinq mois sépare la date des épreuves d'admissibilité de celles des épreuves d'admission.
 
 Un délai minimum de trois mois sépare la date de l'épreuve écrite d'admission de celle de l'épreuve écrite de rattrapage.
+
+Un délai minimum de deux mois sépare la date des épreuves des mentions de la date d'une session de rattrapage pour la mention " groupe lourd " .
