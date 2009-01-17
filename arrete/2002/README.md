@@ -258,7 +258,6 @@
 - [Arrêté du 8 novembre 2002 (MENP0202647A)](arrete-du-8-novembre-2002-menp0202647a)
 - [Arrêté du 8 novembre 2002 (SPRK0270185A)](arrete-du-8-novembre-2002-sprk0270185a)
 - [Arrêté du 8 novembre 2002 (SPRK0270330A)](arrete-du-8-novembre-2002-sprk0270330a)
-- [Arrêté du 8 novembre 2002 (SPRK0270331A)](arrete-du-8-novembre-2002-sprk0270331a)
 - [Arrêté du 8 octobre 2002 (JUSA0200425A)](arrete-du-8-octobre-2002-jusa0200425a)
 - [Arrêté du 9 août 2002 (EQUP0201235A)](arrete-du-9-aout-2002-equp0201235a)
 - [Arrêté du 9 août 2002 (EQUT0201269A)](arrete-du-9-aout-2002-equt0201269a)
