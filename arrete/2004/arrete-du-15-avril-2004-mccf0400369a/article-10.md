@@ -1,3 +1,3 @@
 # Article 10
 
-Les opérations électorales ont lieu uniquement par correspondance selon les modalités fixées par le directeur de l'Ecole du Louvre.
+Les opérations électorales se déroulent publiquement dans les locaux de l'Ecole du Louvre, et pendant les heures d'ouverture, à une date fixée par le directeur de l'Ecole du Louvre.

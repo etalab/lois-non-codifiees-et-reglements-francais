@@ -12,6 +12,10 @@ Centre hospitalier, rue Marcelin-Berthelot, 02000 Laon.
 
 Centre hospitalier, avenue de Michel-de-l'Hôpital, 02100 Saint-Quentin.
 
+05- Hautes-Alpes
+
+Centre hospitalier des Escartons, service de médecine-gériatrie-santé publique-hémovigilance, 25, avenue Adrien-Daurelle, 05105 Briançon Cedex.
+
 06 - Alpes-Maritimes
 
 Centre hospitalier universitaire de Nice, hôpital de l'Archet, 151, route de Saint-Antoine-de-Ginestière, 06202 Nice Cedex 1.
@@ -142,8 +146,6 @@ Institut Bouisson-Bertrand, rue de la Croix-Verte, parc Euromédecine, 34090 Mon
 
 Service communal de santé publique, caserne Saint-Jacques, 34500 Béziers.
 
-CHU de Montpellier, service des maladies infectieuses et tropicales, hôpital Gui de Chauliac, 80, avenue Augustin-Fliche, 34295 Montpellier Cedex 5.
-
 35 - Ille-et-Vilaine
 
 Centre hospitalier régional universitaire, hôpital Pontchaillou (centre de conseil aux voyageurs et vaccination antiamarile), 2, rue Henri-Le Guillou, 35033 Rennes Cedex 9.
@@ -162,15 +164,9 @@ Centre hospitalier universitaire de Grenoble, boulevard de la Chantourne, 38700 
 
 Service communal d'hygiène et de santé, 33, rue Joseph-Chanrion, 38000 Grenoble ;
 
-ISBA Santé Prévention, centre de vaccinations internationales, 31, rue des Glairons, 38400 Saint-Martin-d'Hères.
-
 40 - Landes
 
 Centre hospitalier de Dax, boulevard Yves-du-Manoir, BP 323, 40107 Dax Cedex ;
-
-41 - Loir-et-Cher
-
-Centre hospitalier de Blois, mail Pierre-Charlot, 41016 Blois Cedex.
 
 42 - Loire
 
@@ -199,8 +195,6 @@ Centre hospitalier universitaire (vaccinations internationales), 4, rue Larrey, 
 50 - Manche
 
 Centre hospitalier Louis Pasteur, rue Trottebec, BP 208, 50102 Cherbourg-Octeville ;
-
-Centre hospitalier de Valognes, 1, avenue du 8-Mai-1945, 50700 Valognes.
 
 51 - Marne
 
@@ -258,8 +252,6 @@ Direction de la solidarité départementale (centre de santé), place Ferré, BP
 
 Service communal d'hygiène et de santé, 11, rue Emile-Zola, 66000 Perpignan ;
 
-Centre hospitalier Saint-Jean, service des maladies infectieuses et tropicales, 20, avenue du Languedoc, BP 4052, 66046 Perpignan Cedex.
-
 67 - Bas-Rhin
 
 Service de vaccination internationales et de conseils aux voyageurs, Hôpitaux Universitaires de Strasbourg, 1, place de l'Hôpital, 67000 Strasbourg
@@ -276,11 +268,9 @@ Clinique du Tonkin, 35, rue du Tonkin, 69100 Villeurbanne ;
 
 Fondation Dispensaire de Lyon, 10, rue de Sévigné, 69003 Lyon ;
 
+Hôpital de la Croix-Rousse (service de parasitologie du Pr Peyron), 94, Grand-Rue de la Croix-Rousse, 69004 Lyon ;
+
 Hôpital d'instruction des armées Desgenettes, 108, boulevard Pinel, 69275 Lyon Cedex 03 ;
-
-Hôpital de la Croix-Rousse (service des maladies infectieuses et tropicales du professeur Peyramond), 103, Grande-Rue de la Croix-Rousse, 69317 Lyon Cedex 04 ;
-
-Hôpital de la Croix-Rousse (service de parasitologie du professeur Peyron), 103, Grand-Rue de la Croix-Rousse, 69317 Lyon Cedex 04 ;
 
 70 - Haute-Saône
 
@@ -294,21 +284,15 @@ Centre hospitalier de Paray le Monial, 15, rue Pasteur, 71604 Paray-le-Monial Ce
 
 72 - Sarthe
 
-Service santé environnement, 4 ter, boulevard Alexandre-Oyon, quartier Novaxis, 72000 Le Mans.
+Service communal d'hygiène et de santé, 10, rue Barbier, 72000 Le Mans.
 
 73 - Savoie
 
 Service communal d'hygiène et de santé, immeuble Le Cristal, 1, place du Forum, Cambéry-le-Haut, 73000 Chambéry.
 
-Centre hospitalier de Chambéry, pavillon Sainte-Hélène, 5, rue Pierre-et-Marie-Curie, 73000 Chambéry.
-
 74 - Haute-Savoie
 
 Centre hospitalier, BP 2333, 1, avenue de Trésum, 74011 Annecy Cedex.
-
-Centre hospitalier de la région d'Annecy, centre de vaccination internationale, 1, avenue du Trésum, BP 2333, 74011 Annecy Cedex.
-
-Centre hospitalier intercommunal Annemasse-Bonneville, service de pneumologie infectiologie, 17, rue du Jura, BP 525, 74107 Annemasse Cedex.
 
 75 - Paris
 
@@ -319,6 +303,8 @@ Assistance publique - hôpitaux de Paris, hôpital Saint-Louis, 1, avenue Claude
 Assistance publique - hôpitaux de Paris, hôpital Tenon, 4, rue de la Chine, 75020 Paris.
 
 Centre médical des entreprises travaillant à l'extérieur, 10, rue du Colonel-Driant, 75001 Paris ;
+
+Centre Montaigne santé, 53, avenue Montaigne, 75008 Paris ;
 
 Centre de santé René Laborie (Mutuelle des réalisations sanitaires et sociales de la communication), 29, rue de Turbigo, 75081 Paris Cedex 02.
 
@@ -343,8 +329,6 @@ Hôpital d'enfants Armand Trousseau (centre municipal de vaccination), 8 à 28, 
 Hôpital Saint-Antoine, 184, rue du Faubourg-Saint-Antoine, 75571 Paris Cedex 12.
 
 Institut Alfred Fournier, 25, boulevard Saint-Jacques, 75680 Paris Cedex 14.
-
-SCMGU SOS Médecins Ile-de-France, 87 et 91, boulevard de Port-Royal, 75013 Paris.
 
 UNESCO, place de Fontenoy, 75007 Paris.
 
@@ -386,8 +370,6 @@ Centre hospitalier de Montauban, 100, rue Léon-Cladel, BP 765, 82013 Montauban 
 
 Hôpital d'instruction des armées Sainte-Anne, 2, boulevard Sainte-Anne, BP 600, 83800 Toulon Naval.
 
-Centre hospitalier intercommunal de Toulon, service infectiologie (site de Chalucet), BP 1412, 83056 Toulon Cedex.
-
 84 - Vaucluse
 
 Service communal d'hygiène et de santé (service de vaccination antiamarile), 116, rue Carreterie, 84000 Avignon.
@@ -422,8 +404,6 @@ Hôpital d'instruction des armées Percy, 101, avenue Henri-Barbusse, 92141 Clam
 
 Hôpital Ambroise-Paré, service de médecine interne, 9, avenue Charles-de-Gaulle, 92104 Boulogne.
 
-Hôpital franco-britannique, service pédiatrie, 3, rue Barbès, 92300 Levallois-Perret.
-
 93 - Seine-Saint-Denis
 
 Assistance publique - hôpitaux de Paris, hôpital Avicenne, 125, route de Stalingrad, 93000 Bobigny.
@@ -439,8 +419,6 @@ Centre hospitalier de Bicêtre, 78, rue du Général-Leclerc, 94270 Le Kremlin-B
 Centre hospitalier intercommunal, 40, allée de la Source, 94190 Villeneuve-Saint-Georges.
 
 Aéroports de Paris (ADP), service médical, Orly Sud 103, 94386 Orly Aérogare.
-
-Hôpital Paul Brousse, service des maladies infectieuses et tropicales, 14, avenue Paul-Vaillant-Couturier, 94804 Villejuif.
 
 95 - Val-d'Oise
 
@@ -501,14 +479,6 @@ Centre de prévention et de vaccination, lot. Koulans, 97360 Mana.
 Centre de prévention et de vaccination, rue Lionel-Bacé, 97355 Macouria.
 
 Centre de santé, 1, rue du Général-de-Gaulle, 97390 Regina.
-
-Centre hospitalier Andrée Rosemon (unité des maladies infectieuses et tropicales), avenue des Flamboyants, BP 6006, 97306 Cayenne Cedex.
-
-Service départemental de PMI de Barrat, conseil général de la Guyane, 1, rue du Docteur-Roland-Barrat, 97300 Cayenne.
-
-Service départemental de PMI de Ronjon, conseil général de la Guyane, rue de la Digue-Ronjon, 97300 Cayenne.
-
-Centre de prévention santé de Kourou et ses antennes, 4-6, place Nobel, 97310 Kourou.
 
 974 - Réunion
 

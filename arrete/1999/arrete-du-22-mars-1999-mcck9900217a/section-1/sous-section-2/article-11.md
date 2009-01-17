@@ -2,7 +2,7 @@
 
 La commission est formée de trois collèges.
 
-Le premier collège comprend le président, un vice-président et sept autres membres. Il est compétent pour examiner les demandes d'avances avant réalisation présentées pour une première ou une deuxième oeuvre de longue durée d'un réalisateur et pour proposer l'octroi de subventions à l'élaboration de documents préparatoires à la réalisation.
+Le premier collège comprend le président, un vice-président et sept autres membres. Il est compétent pour examiner les demandes d'avances avant réalisation présentées pour une première   oeuvre de longue durée d'un réalisateur et pour proposer l'octroi de subventions à l'élaboration de documents préparatoires à la réalisation.
 
 Le deuxième collège comprend le président, un vice-président et sept autres membres. Il est compétent pour examiner les demandes d'avances avant réalisation autres que celles mentionnées à l'alinéa précédent.
 
