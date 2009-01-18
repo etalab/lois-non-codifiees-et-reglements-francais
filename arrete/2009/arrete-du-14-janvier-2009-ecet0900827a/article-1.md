@@ -1,0 +1,3 @@
+# Article 1
+
+La garantie autonome à première demande inconditionnelle et irrévocable de l'Etat est accordée, pour un montant global en principal de dix milliards de dollars américains (USD) auquel s'ajoutent tous intérêts et frais y afférents, aux titres de créances de toute nature libellés en dollars américains émis par la Société de financement de l'économie française en France ou à l'étranger au plus tard le 30 avril 2009 dans le cadre du programme d'émissions en dollars américains approuvé par la décision du conseil d'administration de la Société de financement de l'économie française en date du 18 décembre 2008.
