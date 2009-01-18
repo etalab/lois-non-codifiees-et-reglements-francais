@@ -4,46 +4,34 @@ Le concours interne normal comporte les épreuves d'admissibilité et d'admissio
 
 I. - Epreuves écrites d'admissibilité
 
-Epreuve no 1 : analyse d'un ou plusieurs dossiers portant sur les missions et/ou l'organisation de la direction générale des impôts (durée : trois heures ; coefficient 4).
+Epreuve n° 1 (durée : trois heures ; coefficient 5) : analyse d'un dossier à caractère administratif, et réponse à des questions à partir de ce dossier.
 
-Epreuve no 2 : au choix du candidat (durée : deux heures ; coefficient 3) : a) Epreuve de mathématiques : résolution d'un ou plusieurs problèmes ;
+Epreuve n° 2 (durée : trois heures ; coefficient : 5) : au choix du candidat :
 
-b) Epreuve de comptabilité commerciale : résolution d'un ou plusieurs problèmes ;
+a) Analyse d'un dossier consistant en la réponse à une ou plusieurs questions, et pouvant comporter la résolution de cas. Les candidats disposent éventuellement d'une documentation.
 
-c) Epreuve de droit : élaboration d'une ou plusieurs notes et/ou réponse à des questions portant sur des connaissances générales de droit privé et de droit public ;
+Les candidats ont le choix entre les options suivantes :
 
-d) Rédaction d'une note à caractère administratif à partir d'un ou plusieurs documents.
+- fiscalité personnelle ;
 
-Epreuve no 3 : épreuve professionnelle à option consistant en la réponse à une ou plusieurs questions et pouvant comporter la résolution de cas. Les candidats disposent éventuellement d'une documentation.
+- fiscalité patrimoniale et enregistrement ;
 
-Les candidats ont le choix entre les dix options suivantes (durée : deux heures trente ; coefficient 5) :
+- gestion et recouvrement des impôts professionnels ;
 
-1o Impôt sur le revenu ;
+- fiscalité professionnelle ;
 
-2o Impôts directs locaux ;
+- publicité foncière ;
 
-3o Fiscalité des entreprises ;
+- cadastre ;
 
-4o Recouvrement ;
+- gestion administrative.
 
-5o Cadastre ;
+b) Résolution d'un ou plusieurs exercices de comptabilité privée.
 
-6o Publicité foncière ;
-
-7o Fiscalité immobilière et enregistrement ;
-
-8o Domaine ;
-
-9o Informatique ;
-
-10o Gestion administrative.
-
-Epreuve facultative no 4 : épreuve de langue allemande, anglaise, espagnole ou italienne consistant en une version effectuée sans dictionnaire (durée :
-
-une heure trente : coefficient 1).
+Epreuve n° 3 facultative (durée : une heure trente minutes ; coefficient 1) : traduction sans dictionnaire d'un document rédigé dans l'une des langues suivantes : allemand, anglais, espagnol ou italien.
 
 II. - Epreuve orale d'admission
 
-Conversation avec le jury portant notamment sur les missions et l'organisation de la direction générale des impôts, à partir de l'expérience professionnelle du candidat (durée : de vingt à vingt-cinq minutes ;
+Entretien portant sur l'expérience professionnelle du candidat et son aptitude à exercer des fonctions d'un niveau supérieur.
 
-coefficient 6).
+L'entretien comprend une présentation par le candidat de son parcours professionnel antérieur. Le candidat fournira en amont une fiche de présentation de celui-ci (durée : vingt-cinq minutes ; coefficient : 8).
