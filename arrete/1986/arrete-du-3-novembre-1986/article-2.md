@@ -86,15 +86,13 @@ II. - Classes terminales :
 
 3. Biochimie - génie biologique
 
-8. Classes terminales S.M.S. :
+8. Classes terminales ST2S.
 
-1. Sciences médico-sociales (*)
+1. Sciences et techiniques sanitaires et sociales.
 
-9. Classes terminales S.T.T. :
+9. Classes terminales STG.
 
-1. Economie - droit : 6 heures
-
-(*) De 6 heures à 16 heures (en fonction des séries, des spécialités ainsi que de la nature du sujet).
+1. Economie-droit.
 
 10. Classe terminale hôtellerie :
 
