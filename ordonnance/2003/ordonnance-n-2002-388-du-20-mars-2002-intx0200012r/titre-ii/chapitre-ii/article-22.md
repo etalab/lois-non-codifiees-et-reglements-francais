@@ -18,6 +18,6 @@ Sauf si la présence de l'étranger constitue une menace pour l'ordre public, la
 
 8° Abrogé
 
-L'enfant visé aux 2°, 5° et 6° du présent article s'entend de l'enfant légitime ou naturel ayant une filiation légalement établie ainsi que de l'enfant adopté, en vertu d'une décision d'adoption, sous réserve de la vérification par le ministère public de la régularité de celle-ci lorsqu'elle a été prononcée à l'étranger.
+L'enfant visé aux 2°, 5° et 6° du présent article s'entend de l'enfant ayant une filiation légalement établie selon les dispositions du titre VII du livre Ier du code civil ainsi que de l'enfant adopté, en vertu d'une décision d'adoption, sous réserve de la vérification par le ministère public de la régularité de celle-ci lorsqu'elle a été prononcée à l'étranger.
 
 La carte de résident est délivrée de plein droit à l'étranger qui remplit les conditions d'acquisition de la nationalité française prévues à l'article 21-7 du code civil.

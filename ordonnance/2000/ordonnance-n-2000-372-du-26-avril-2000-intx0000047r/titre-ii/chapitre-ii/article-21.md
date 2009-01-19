@@ -10,7 +10,7 @@ b) A l'étranger qui est père ou mère d'un enfant français résidant en Polyn
 
 c) A l'étranger marié depuis au moins trois ans avec un ressortissant de nationalité française, à condition que la communauté de vie entre les époux n'ait pas cessé depuis le mariage, que le conjoint ait conservé la nationalité française et, lorsque le mariage a été célébré à l'étranger, qu'il ait été transcrit préalablement sur les registres de l'état civil français.
 
-L'enfant visé au présent article s'entend de l'enfant légitime ou naturel ayant une filiation légalement établie ainsi que de l'enfant adopté, en vertu d'une décision d'adoption, sous réserve de la vérification par le ministère public de la régularité de celle-ci lorsqu'elle a été prononcée à l'étranger.
+L'enfant visé au présent article s'entend de l'enfant ayant une filiation légalement établie selon les dispositions du titre VII du livre Ier du code civil ainsi que de l'enfant adopté, en vertu d'une décision d'adoption, sous réserve de la vérification par le ministère public de la régularité de celle-ci lorsqu'elle a été prononcée à l'étranger.
 
 Dans tous les cas prévus au présent article, la décision d'accorder la carte de résident est subordonnée au respect de conditions prévues à l'article 6.
 

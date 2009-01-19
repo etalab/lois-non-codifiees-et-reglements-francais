@@ -24,7 +24,7 @@ L'arrêté du 20 prairial an XI (sur le mode de délivrance des dispenses relati
 
 L'ordonnance du 26 novembre 1823, sur la vérification des registres ;
 
-La loi du 10 décembre 1850, ayant pour objet de faciliter le mariage des indigents, la légitimation de leurs enfants naturels et le retrait de ces enfants déposés dans les hospices ;
+13 (Supprimé)
 
 La loi du 2 mai 1861, relative à la légalisation de la signature des officiers de l'état civil et des notaires ;
 
