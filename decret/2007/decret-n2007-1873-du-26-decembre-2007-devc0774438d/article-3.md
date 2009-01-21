@@ -14,7 +14,7 @@ a) Pour les véhicules, acquis ou pris en location par des personnes physiques, 
 <tbody>
 <tr>
 <td rowspan="3" width="377">
-<p align="center">TAUX D'ÉMISSION<br/>de dioxyde de carbone<br/>(en grammes par kilomètre)</p>
+<p align="center">TAUX D'ÉMISSION<br/>de dioxyde de carbone(en grammes par kilomètre)</p>
 </td>
 <td colspan="5" width="304">
 <p align="center">MONTANT DE L'AIDE<br/>(en euros)</p>
@@ -105,19 +105,16 @@ a) Pour les véhicules, acquis ou pris en location par des personnes physiques, 
 </tbody>
 </table>
 </div>
+<div align="left"/>
+<div align="left"/>
 
-b) Pour les autres véhicules :
+b) Pour les autres véhicules y compris ceux visés au a lorsque leur taux d'émission de dioxyde de carbone est inférieur ou égal à 60 grammes de CO2/km :
 
-<div align="left"/>
-<div align="left"/>
-<div align="left"/>
-<div align="left"/>
-<div align="left">
 <table>
 <tbody>
 <tr>
 <td rowspan="3" width="377">
-<p align="center">TAUX D'ÉMISSION<br/>de dioxyde de carbone<br/>(en grammes par kilomètre)</p>
+<p align="center">TAUX D'ÉMISSION<br/>de dioxyde de carbone (en grammes par kilomètre)</p>
 </td>
 <td colspan="5" width="304">
 <p align="center">MONTANT DE L'AIDE<br/>(en euros)</p>
@@ -125,7 +122,7 @@ b) Pour les autres véhicules :
 </tr>
 <tr>
 <td colspan="5" width="304">
-<p align="center">Année d'acquisition ou de prise en location</p>
+<p align="center">Année de facturation</p>
 </td>
 </tr>
 <tr>
@@ -347,8 +344,10 @@ b) Pour les autres véhicules :
 </tr>
 </tbody>
 </table>
-</div>
+<div align="left"/>
 
-Pour les véhicules dont le taux d'émission de dioxyde de carbone par kilomètre est inférieur ou égal à 60 grammes, l'aide accordée ne peut pas excéder 20 % du coût d'acquisition toute taxe comprise du véhicule augmenté, s'il y a lieu, du coût de la batterie si celle-ci est prise en location ;
+Pour les véhicules dont le taux d'émission de dioxyde de carbone par kilomètre est nul ou inférieur ou égal à 60 grammes, l'aide accordée ne peut pas excéder 20 % du coût d'acquisition toute taxe comprise du véhicule augmenté, s'il y a lieu, du coût de la batterie si celle-ci est prise en location ;
 
-2° Pour les véhicules mentionnés au b du 5° de l'article 1er, à 200 euros.
+2° Pour les véhicules mentionnés au b du 5° de l'article 1er, à 200 euros ;
+
+3° Pour les véhicules mentionnés au c du 5° de l'article 1er, à 5 000 euros.
