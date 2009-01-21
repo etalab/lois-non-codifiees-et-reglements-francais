@@ -56,7 +56,6 @@
 - [Arrêté du 4 octobre 2001 (DEFP0102156A)](arrete-du-4-octobre-2001-defp0102156a)
 - [Arrêté du 4 octobre 2001 (EQUU0100060A)](arrete-du-4-octobre-2001-equu0100060a)
 - [Arrêté du 4 octobre 2001 (EQUU0100061A)](arrete-du-4-octobre-2001-equu0100061a)
-- [Arrêté du 4 mai 2001 (ECOA0120020A)](arrete-du-4-mai-2001-ecoa0120020a)
 - [Arrêté du 4 mai 2001 (ECOB0130019A)](arrete-du-4-mai-2001-ecob0130019a)
 - [Arrêté du 4 mai 2001 (MENE0101004A)](arrete-du-4-mai-2001-mene0101004a)
 - [Arrêté du 5 décembre 2000 (ATEN0090435A)](arrete-du-5-decembre-2000-aten0090435a)

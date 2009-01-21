@@ -869,7 +869,6 @@
 - [Arrêté du 26 juin 2003 (FPPA0300050A)](arrete-du-26-juin-2003-fppa0300050a)
 - [Arrêté du 26 juin 2003 (FPPA0300051A)](arrete-du-26-juin-2003-fppa0300051a)
 - [Arrêté du 26 juin 2003 (FPPA0300052A)](arrete-du-26-juin-2003-fppa0300052a)
-- [Arrêté du 26 juin 2003 (JUSC0320193A)](arrete-du-26-juin-2003-jusc0320193a)
 - [Arrêté du 26 juin 2003 (SANS0321767A)](arrete-du-26-juin-2003-sans0321767a)
 - [Arrêté du 26 juin 2003 (SANS0322312A)](arrete-du-26-juin-2003-sans0322312a)
 - [Arrêté du 26 mars 2003 (ECOC0200140A)](arrete-du-26-mars-2003-ecoc0200140a)

@@ -1024,7 +1024,6 @@
 - [Arrêté du 28 novembre 1996 (MIPP9600424A)](arrete-du-28-novembre-1996-mipp9600424a)
 - [Arrêté du 28 octobre 1996 (AGRP9602336A)](arrete-du-28-octobre-1996-agrp9602336a)
 - [Arrêté du 28 octobre 1996 (FCEC9600202A)](arrete-du-28-octobre-1996-fcec9600202a)
-- [Arrêté du 28 octobre 1996 (INDZ9600722A)](arrete-du-28-octobre-1996-indz9600722a)
 - [Arrêté du 28 octobre 1996 (MCCB9600616A)](arrete-du-28-octobre-1996-mccb9600616a)
 - [Arrêté du 28 mai 1996 (ECOT9613880A)](arrete-du-28-mai-1996-ecot9613880a)
 - [Arrêté du 28 mai 1996 (MIPP9600185A)](arrete-du-28-mai-1996-mipp9600185a)

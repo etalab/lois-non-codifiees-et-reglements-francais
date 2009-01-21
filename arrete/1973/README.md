@@ -29,7 +29,6 @@
 - [Arrêté du 15 février 1973](arrete-du-15-fevrier-1973)
 - [Arrêté du 15 janvier 1973](arrete-du-15-janvier-1973)
 - [Arrêté du 16 novembre 1973](arrete-du-16-novembre-1973)
-- [Arrêté du 17 décembre 1973](arrete-du-17-decembre-1973)
 - [Arrêté du 17 juillet 1973](arrete-du-17-juillet-1973)
 - [Arrêté du 17 septembre 1973](arrete-du-17-septembre-1973)
 - [Arrêté du 18 décembre 1972](arrete-du-18-decembre-1972)

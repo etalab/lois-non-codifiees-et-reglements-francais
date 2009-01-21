@@ -161,7 +161,6 @@
 - [Arrêté du 27 août 1986](arrete-du-27-aout-1986)
 - [Arrêté du 27 avril 1987 (DEFP8701224A)](arrete-du-27-avril-1987-defp8701224a)
 - [Arrêté du 27 février 1986](arrete-du-27-fevrier-1986)
-- [Arrêté du 27 janvier 1986](arrete-du-27-janvier-1986)
 - [Arrêté du 27 juin 1986](arrete-du-27-juin-1986)
 - [Arrêté du 27 novembre 1986](arrete-du-27-novembre-1986)
 - [Arrêté du 27 octobre 1986](arrete-du-27-octobre-1986)

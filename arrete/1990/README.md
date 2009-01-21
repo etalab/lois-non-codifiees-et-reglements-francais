@@ -322,7 +322,6 @@
 - [Arrêté du 14 août 1990 (AGRS9001776A)](arrete-du-14-aout-1990-agrs9001776a)
 - [Arrêté du 14 août 1990 (EQUS9001184A)](arrete-du-14-aout-1990-equs9001184a)
 - [Arrêté du 14 août 1990 (MERG9000141A)](arrete-du-14-aout-1990-merg9000141a)
-- [Arrêté du 14 décembre 1989 (ECOT8920124A)](arrete-du-14-decembre-1989-ecot8920124a)
 - [Arrêté du 14 décembre 1989 (INDD8901006A)](arrete-du-14-decembre-1989-indd8901006a)
 - [Arrêté du 14 décembre 1989 (INDD8901007A)](arrete-du-14-decembre-1989-indd8901007a)
 - [Arrêté du 14 décembre 1989 (INDD8901008A)](arrete-du-14-decembre-1989-indd8901008a)

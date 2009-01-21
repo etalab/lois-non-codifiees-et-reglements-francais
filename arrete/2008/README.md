@@ -402,7 +402,6 @@
 - [Arrêté du 12 décembre 2008 (SJSP0830157A)](arrete-du-12-decembre-2008-sjsp0830157a)
 - [Arrêté du 12 juin 2008 (AGRG0814129A)](arrete-du-12-juin-2008-agrg0814129a)
 - [Arrêté du 12 juin 2008 (BCFD0808540A)](arrete-du-12-juin-2008-bcfd0808540a)
-- [Arrêté du 12 juin 2008 (ECEA0810900A)](arrete-du-12-juin-2008-ecea0810900a)
 - [Arrêté du 12 novembre 2008 (DEFD0827010A)](arrete-du-12-novembre-2008-defd0827010a)
 - [Arrêté du 12 novembre 2008 (DEFD0827011A)](arrete-du-12-novembre-2008-defd0827011a)
 - [Arrêté du 12 novembre 2008 (DEFD0827012A)](arrete-du-12-novembre-2008-defd0827012a)
