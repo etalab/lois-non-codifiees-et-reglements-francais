@@ -1,0 +1,3 @@
+# Article 10
+
+Les listes des bénéficiaires résultant des critères d'attribution visés ci-dessus et des contingents fixés aux articles 1er, 2, 3, 4, 5, 6, 7, 8 et 9 du présent arrêté peuvent être consultées auprès du ministère de l'agriculture et de la pêche (DGPAAT, bureau du vin et des autres boissons), 3, rue Barbet-de-Jouy, 75007 Paris, auprès des directions départementales de l'agriculture et de la forêt des départements concernés, auprès des services régionaux de l'institut national de l'origine et de la qualité et des délégations régionales de l'Office national interprofessionnel des fruits, des légumes, des vins et de l'horticulture. Ces listes comportent les parcelles et surfaces concernées.

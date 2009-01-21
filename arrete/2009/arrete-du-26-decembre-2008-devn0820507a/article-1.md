@@ -1,0 +1,3 @@
+# Article 1
+
+Est désigné sous l'appellation « site Natura 2000 la Moder et ses affluents » (zone spéciale de conservation FR 4201795) l'espace délimité sur la carte d'assemblage ainsi que sur les deux cartes au 1/100 000 ci-jointes, s'étendant sur une partie du territoire des communes suivantes du département du Bas-Rhin : Dambach, Erckartswiller, Ingwiller, Langensoultzbach, Lichtenberg, Menchhoffen, Niederbronn-les-Bains, Oberbronn, Obermodern-Zutzendorf, Obersteinbach, Offwiller, La Petite-Pierre, Reichshoffen, Reipertswiller, Rosteig, Rothbach, Schillersdorf, Sparsbach, Weinbourg, Wimmenau, Windstein, Wingen-sur-Moder, Zittersheim.

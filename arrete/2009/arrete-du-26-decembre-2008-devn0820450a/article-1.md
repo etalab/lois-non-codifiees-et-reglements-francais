@@ -1,0 +1,3 @@
+# Article 1
+
+Est désigné sous l'appellation « site Natura 2000 moyenne vallée de la Somme » (zone spéciale de conservation FR 2200357) l'espace délimité sur la carte d'assemblage au 1/100 000 ainsi que sur les quatre cartes au 1/25 000 ci-jointes, s'étendant sur une partie du territoire des communes suivantes du département de la Somme : Bray-sur-Somme, Cappy, Cerisy, Chipilly, Chuignolles, Cléry-sur-Somme, Corbie, Curlu, Feuillères, Frise, Le Hamel, Hamelet, Hem-Monacu, Maricourt, Morcourt, Méricourt-sur-Somme, La Neuville-lès-Bray, Proyart, Sailly-Laurette, Sailly-le-Sec, Suzanne, Vaire-sous-Corbie, Vaux-sur-Somme, Eclusier-Vaux, Etinehem.
