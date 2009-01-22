@@ -75,6 +75,7 @@
 - [Arrêté du 11 décembre 2006 (DEFP0601671A)](arrete-du-11-decembre-2006-defp0601671a)
 - [Arrêté du 11 décembre 2006 (ECOP0600612A)](arrete-du-11-decembre-2006-ecop0600612a)
 - [Arrêté du 12 avril 2006 (EQUA0600918A)](arrete-du-12-avril-2006-equa0600918a)
+- [Arrêté du 12 décembre 2005 (INDI0506414A)](arrete-du-12-decembre-2005-indi0506414a)
 - [Arrêté du 12 décembre 2006 (EQUT0602485A)](arrete-du-12-decembre-2006-equt0602485a)
 - [Arrêté du 12 février 2006 (BUDD0570028A)](arrete-du-12-fevrier-2006-budd0570028a)
 - [Arrêté du 12 juin 2006 (DEFD0600709A)](arrete-du-12-juin-2006-defd0600709a)
