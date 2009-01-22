@@ -368,7 +368,6 @@
 - [Arrêté du 17 janvier 2005 (BUDL0500007A)](arrete-du-17-janvier-2005-budl0500007a)
 - [Arrêté du 17 janvier 2005 (DEFD0401453A)](arrete-du-17-janvier-2005-defd0401453a)
 - [Arrêté du 17 janvier 2005 (DEFD0401455A)](arrete-du-17-janvier-2005-defd0401455a)
-- [Arrêté du 17 janvier 2005 (DEVN0540030A)](arrete-du-17-janvier-2005-devn0540030a)
 - [Arrêté du 17 juin 2005 (AGRE0501542A)](arrete-du-17-juin-2005-agre0501542a)
 - [Arrêté du 17 juin 2005 (AGRF0501469A)](arrete-du-17-juin-2005-agrf0501469a)
 - [Arrêté du 17 mars 2005 (DEFP0500290A)](arrete-du-17-mars-2005-defp0500290a)
