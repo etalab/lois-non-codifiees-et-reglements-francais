@@ -1,0 +1,6 @@
+# Arrêté du 14 janvier 2009 constatant le montant du droit à compensation attribué aux régions au titre de la prise en charge des comptes épargne-temps des personnels de l'inventaire général du patrimoine culturel transférés en application de l'article 95 de la loi n° 2004-809 du 13 août 2004 relative aux libertés et responsabilités locales
+
+- [Article 1](article-1.md)
+- [Article 2](article-2.md)
+- [Article 3](article-3.md)
+- [Annexe](annexe)
