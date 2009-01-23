@@ -630,7 +630,6 @@
 - [Arrêté du 20 avril 1994 (EQUS9400803A)](arrete-du-20-avril-1994-equs9400803a)
 - [Arrêté du 20 avril 1994 (MENP9400813A)](arrete-du-20-avril-1994-menp9400813a)
 - [Arrêté du 20 avril 1994 (RESK9490499A)](arrete-du-20-avril-1994-resk9490499a)
-- [Arrêté du 20 avril 1994 (TEFT9400404A)](arrete-du-20-avril-1994-teft9400404a)
 - [Arrêté du 20 décembre 1993 (EQUS9301953A)](arrete-du-20-decembre-1993-equs9301953a)
 - [Arrêté du 20 décembre 1993 (EQUT9301839A)](arrete-du-20-decembre-1993-equt9301839a)
 - [Arrêté du 20 décembre 1993 (EQUT9301859A)](arrete-du-20-decembre-1993-equt9301859a)
