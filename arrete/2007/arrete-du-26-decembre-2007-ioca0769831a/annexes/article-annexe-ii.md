@@ -163,7 +163,7 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'
 <tr>
 <td align="center">19 Corrèze<br/>
 </td>
-<td align="center">2<br/>
+<td align="center">3<br/>
 </td>
 <td align="center">20<br/>
 </td>

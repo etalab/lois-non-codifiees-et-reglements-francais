@@ -83,17 +83,17 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'
 </tr>
 <tr>
 <td>
-<p align="center"> 21</p>
+<p align="center">21</p>
 </td>
 <td>
-<p align="center"> Délégation régionale de Dijon.<br/>
+<p align="center">Délégation régionale de Dijon.<br/>
 </p>
 </td>
 <td>
-<p align="center"> 1</p>
+<p align="center">1</p>
 </td>
 <td>
-<p align="center"> 30</p>
+<p align="center">30</p>
 </td>
 </tr>
 <tr>
@@ -115,9 +115,9 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'
 </tr>
 <tr>
 <td/>
-<td>  Chargé de mission auprès du préfet délégué pour la sécurité et la défense.</td>
+<td>Chargé de mission auprès du préfet délégué pour la sécurité et la défense.</td>
 <td>
-<p align="center"> 1</p>
+<p align="center">1</p>
 </td>
 <td>
 <p align="center">60 </p>
@@ -126,15 +126,16 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'
 <tr>
 <td>
 <br/>
+<br/>
 </td>
 <td>
-<p align="center"> Directeur de l'administration générale et des finances.</p>
+<p align="center">Directeur de l'administration générale et des finances.</p>
 </td>
 <td>
-<p align="center"> 1</p>
+<p align="center">1</p>
 </td>
 <td>
-<p align="center">50 </p>
+<p align="center">60 </p>
 </td>
 </tr>
 <tr>
@@ -148,13 +149,13 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION DE L'INTÉRIEUR ET DE L'
 </tr>
 <tr>
 <td>
-<p align="center"> 78</p>
+<p align="center">78</p>
 </td>
 <td>
-<p align="center"> SGAP de Versailles</p>
+<p align="center">SGAP de Versailles</p>
 </td>
 <td>
-<p align="center"> 2</p>
+<p align="center">2</p>
 </td>
 <td>
 <p align="center">60 </p>
