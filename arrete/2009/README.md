@@ -144,6 +144,7 @@
 - [Arrêté du 19 mars 2009 (ESRH0904483A)](arrete-du-19-mars-2009-esrh0904483a)
 - [Arrêté du 19 mars 2010 (DEFH1001295A)](arrete-du-19-mars-2010-defh1001295a)
 - [Arrêté du 19 octobre 2009 (DEFH0919704A)](arrete-du-19-octobre-2009-defh0919704a)
+- [Arrêté du 20 avril 1994 (TEFT9400404A)](arrete-du-20-avril-1994-teft9400404a)
 - [Arrêté du 20 novembre 2009 (MEND0909198A)](arrete-du-20-novembre-2009-mend0909198a)
 - [Arrêté du 20 octobre 2008 (DEFH0825729A)](arrete-du-20-octobre-2008-defh0825729a)
 - [Arrêté du 20 mai 2010 (DEVK1011081A)](arrete-du-20-mai-2010-devk1011081a)
