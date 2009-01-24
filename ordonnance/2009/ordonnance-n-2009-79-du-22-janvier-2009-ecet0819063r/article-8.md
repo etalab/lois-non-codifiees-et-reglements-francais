@@ -1,0 +1,3 @@
+# Article 8
+
+Les membres du Conseil national de la comptabilité et du Comité de la réglementation comptable sont maintenus en fonction jusqu'à la première réunion de l'Autorité des normes comptables. Jusqu'à cette date, le Conseil national de la comptabilité, le Comité de la réglementation comptable et le ministre chargé de l'économie exercent les compétences qui leur sont respectivement dévolues par les dispositions législatives et réglementaires en vigueur à la date de publication de la présente ordonnance. Le règlement intérieur du Conseil national de la comptabilité et celui du Comité de la réglementation comptable demeurent applicables jusqu'à l'adoption de son règlement par l'Autorité des normes comptables.
