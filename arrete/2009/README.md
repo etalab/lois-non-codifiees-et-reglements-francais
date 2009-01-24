@@ -357,6 +357,7 @@
 - [Arrêté du 30 décembre 2008 (MTST0829783A)](arrete-du-30-decembre-2008-mtst0829783a)
 - [Arrêté du 30 décembre 2008 (PRMX0831171A)](arrete-du-30-decembre-2008-prmx0831171a)
 - [Arrêté du 30 décembre 2008 (SJSH0831444A)](arrete-du-30-decembre-2008-sjsh0831444a)
+- [Arrêté du 30 janvier 1996 (MENF9502605A)](arrete-du-30-janvier-1996-menf9502605a)
 - [Arrêté du 30 juin 2009 (MENH0908632A)](arrete-du-30-juin-2009-menh0908632a)
 - [Arrêté du 31 décembre 2003 (SOCF0312110A)](arrete-du-31-decembre-2003-socf0312110a)
 - [Arrêté du 31 décembre 2008 (DEVA0828650A)](arrete-du-31-decembre-2008-deva0828650a)
