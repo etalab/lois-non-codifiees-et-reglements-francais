@@ -222,7 +222,6 @@
 - [Arrêté du 7 mars 2003 (SANS0320888A)](arrete-du-7-mars-2003-sans0320888a)
 - [Arrêté du 7 novembre 2003 (AGRA0301827A)](arrete-du-7-novembre-2003-agra0301827a)
 - [Arrêté du 7 novembre 2003 (AGRA0301828A)](arrete-du-7-novembre-2003-agra0301828a)
-- [Arrêté du 7 novembre 2003 (ECOP0300752A)](arrete-du-7-novembre-2003-ecop0300752a)
 - [Arrêté du 7 novembre 2003 (ECOS0370014A)](arrete-du-7-novembre-2003-ecos0370014a)
 - [Arrêté du 7 novembre 2003 (SOCN0324452A)](arrete-du-7-novembre-2003-socn0324452a)
 - [Arrêté du 7 octobre 2003 (AGRA0301796A)](arrete-du-7-octobre-2003-agra0301796a)

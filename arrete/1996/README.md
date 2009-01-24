@@ -1094,7 +1094,6 @@
 - [Arrêté du 30 décembre 1996 (MIPP9600525A)](arrete-du-30-decembre-1996-mipp9600525a)
 - [Arrêté du 30 décembre 1996 (TASS9624542A)](arrete-du-30-decembre-1996-tass9624542a)
 - [Arrêté du 30 janvier 1996 (BUDL9600024A)](arrete-du-30-janvier-1996-budl9600024a)
-- [Arrêté du 30 janvier 1996 (MENF9502605A)](arrete-du-30-janvier-1996-menf9502605a)
 - [Arrêté du 30 janvier 1996 (TASP9620391A)](arrete-du-30-janvier-1996-tasp9620391a)
 - [Arrêté du 30 janvier 1996 (TASS9620285A)](arrete-du-30-janvier-1996-tass9620285a)
 - [Arrêté du 30 juillet 1996 (BUDF9600027A)](arrete-du-30-juillet-1996-budf9600027a)
