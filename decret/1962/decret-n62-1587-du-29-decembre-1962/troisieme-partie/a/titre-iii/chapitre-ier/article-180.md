@@ -4,4 +4,4 @@ En ce qui concerne la comptabilité générale, le plan comptable particulier de
 
 Le plan comptable type s'inspire du plan comptable général.
 
-Le plan comptable particulier établi par le directeur et l'agent comptable est présenté au conseil national de la comptabilité et soumis à l'approbation du ministre des finances.
+Le plan comptable particulier établi par le directeur et l'agent comptable est présenté à l'Autorité des normes comptables et soumis à l'approbation du ministre des finances.

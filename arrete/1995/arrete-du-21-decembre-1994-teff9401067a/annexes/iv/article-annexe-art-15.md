@@ -18,7 +18,7 @@ avant le
 
 Un exemplaire doit être transmis au S.A.I.A. ou au D.R.A.F. concerné.
 
-(6) Le plan comptable des C.F.A. a fait l'objet d'un avis de conformité du Conseil national de la comptabilité le 4 mai 1983. Les C.F.A. publics agricoles sont soumis au plan comptable conforme à l'instruction M 9-11 qui s'applique aux établissements publics locaux d'enseignement et de formation professionnelle agricoles dont ils sont centres constitutifs.
+(6) Le plan comptable des C.F.A. a fait l'objet d'un avis de conformité de l'Autorité des normes comptables le 4 mai 1983. Les C.F.A. publics agricoles sont soumis au plan comptable conforme à l'instruction M 9-11 qui s'applique aux établissements publics locaux d'enseignement et de formation professionnelle agricoles dont ils sont centres constitutifs.
 
 Les charges et produits relatifs à l'évaluation des compétences sont individualisés dans les budgets et comptes financiers. Un tableau spécifique sera ajouté au fascicule portant application des dispositions de la convention.
 

@@ -4,4 +4,4 @@ Les opérations de chaque géomètre expert sont retracées dans des documents c
 
 Cette comptabilité est distincte de celle des autres opérations du cabinet. Lorsque le géomètre expert exerce les deux activités d'entremise immobilière et de gestion immobilière, il est tenu une comptabilité distincte pour chacune de ces activités.
 
-Les modalités selon lesquelles sera tenue la comptabilité des opérations de gestion et d'entremise immobilière seront fixées, après avis du Conseil national de la comptabilité, par le règlement intérieur de l'ordre des géomètres experts.
+Les modalités selon lesquelles sera tenue la comptabilité des opérations de gestion et d'entremise immobilière seront fixées, après avis de l'Autorité des normes comptables, par le règlement intérieur de l'ordre des géomètres experts.

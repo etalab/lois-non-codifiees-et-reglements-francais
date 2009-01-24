@@ -16,4 +16,4 @@ Les méthodes d'évaluation des stocks ;
 
 Les normes d'élaboration de la comptabilité analytique d'exploitation, de manière à assurer la connaissance des prix de revient.
 
-Ce plan comptable est approuvé par arrêté conjoint du ministre chargé des transports et du ministre de l'économie et des finances, après avis du conseil national de la comptabilité.
+Ce plan comptable est approuvé par arrêté conjoint du ministre chargé des transports et du ministre de l'économie et des finances, après avis de l'Autorité des normes comptables.

@@ -8,7 +8,7 @@ Il prépare la législation et la réglementation relative aux marchés d'instru
 
 Il suit l'évolution du droit des valeurs mobilières, ainsi que du droit des sociétés cotées, participe à l'élaboration des règles en matière d'information financière. Il élabore la réglementation relative à la gestion de capitaux pour le compte de tiers. Il est chargé de la réglementation et du suivi du marché de la titrisation.
 
-Il est chargé des relations avec le Conseil national de la comptabilité et son comité d'urgence et participe à l'élaboration du droit comptable.
+Il est chargé des relations avec l'Autorité des normes comptables et son comité d'urgence et participe à l'élaboration du droit comptable.
 
 Il réalise les études générales sur l'épargne, suit la fiscalité dans ce domaine et élabore les mesures générales d'incitation à l'épargne. Il prépare la législation en matière de protection de l'épargne du public et en matière de démarchage financier. Il participe à la préparation des textes et au suivi des dispositifs d'épargne salariale.
 
@@ -20,6 +20,6 @@ Il analyse les conditions du financement des entreprises, propose et met en oeuv
 
 Il représente la direction dans les organismes ou comités qui contribuent au financement des entreprises et exerce notamment la tutelle de la BDPME (Banque de développement des petites et moyennes entreprises).
 
-Il analyse les conditions du développement de l'innovation da ns les entreprises, ainsi que du secteur de l'audiovisuel. A ce titre, il représente la direction dans les organismes ou comités qui contribuent au financement de l'innovation, notamment l'Agence nationale de valorisation de la recherche (ANVAR), le FCPR gestion, l'Institut pour le financement des industries culturelles et du cinéma (IFICC) et le Centre national de la cinématographie.
+Il analyse les conditions du développement de l'innovation da ns les entreprises, ainsi que du secteur de l'audiovisuel.A ce titre, il représente la direction dans les organismes ou comités qui contribuent au financement de l'innovation, notamment l'Agence nationale de valorisation de la recherche (ANVAR), le FCPR gestion, l'Institut pour le financement des industries culturelles et du cinéma (IFICC) et le Centre national de la cinématographie.
 
 Il assure le secrétariat général du Comité interministériel de restructuration industrielle (CIRI). Il traite des cas spécifiques d'entreprises privées et des aspects généraux liés au traitement des entreprises en difficulté.

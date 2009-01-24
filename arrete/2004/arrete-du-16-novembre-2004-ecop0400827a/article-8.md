@@ -8,7 +8,7 @@ Il prépare la législation et la réglementation relative aux marchés d'instru
 
 Il suit l'évolution du droit des valeurs mobilières ainsi que du droit des sociétés cotées, participe à l'élaboration des règles en matière d'information financière. Il élabore la réglementation relative à la gestion de capitaux pour le compte de tiers. Il est chargé de la réglementation et du suivi du marché de la titrisation.
 
-Il est chargé des relations avec le Conseil national de la comptabilité et son comité d'urgence et participe à l'élaboration du droit comptable.
+Il est chargé des relations avec l'Autorité des normes comptables et son comité d'urgence et participe à l'élaboration du droit comptable.
 
 Il élabore les mesures générales relatives à l'épargne. Il prépare la législation en matière de protection de l'épargne du public et en matière de démarchage financier. Il participe à la préparation des textes et au suivi des dispositifs d'épargne salariale.
 

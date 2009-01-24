@@ -24,7 +24,7 @@ Le Centre national des oeuvres universitaires et scolaires ;
 
 Le service du contrôle d'Etat du ministère de l'économie et des finances ;
 
-Le Conseil national de la comptabilité ;
+L'Autorité des normes comptables ;
 
 L'Union des groupements d'achats publics ;
 
