@@ -221,6 +221,7 @@
 - [Décret n°2008-1536 du 30 décembre 2008 (BCFF0831059D)](decret-n2008-1536-du-30-decembre-2008-bcff0831059d)
 - [Décret n°2008-1537 du 30 décembre 2008 (BCFS0825398D)](decret-n2008-1537-du-30-decembre-2008-bcfs0825398d)
 - [Décret n°2008-1544 du 30 décembre 2008 (BCFS0831117D)](decret-n2008-1544-du-30-decembre-2008-bcfs0831117d)
+- [Décret n°96-80 du 30 janvier 1996 (MENF9502604D)](decret-n96-80-du-30-janvier-1996-menf9502604d)
 - [Décret n°97-599 du 30 mai 1997 (DEFP9701465D)](decret-n97-599-du-30-mai-1997-defp9701465d)
 - [Décret n°2008-1546 du 31 décembre 2008 (PRMX0831580D)](decret-n2008-1546-du-31-decembre-2008-prmx0831580d)
 - [Décret n°2008-1548 du 31 décembre 2008 (ECET0825891D)](decret-n2008-1548-du-31-decembre-2008-ecet0825891d)

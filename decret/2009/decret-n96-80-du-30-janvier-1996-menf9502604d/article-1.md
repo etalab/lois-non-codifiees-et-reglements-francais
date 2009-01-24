@@ -1,0 +1,5 @@
+# Article 1
+
+Les personnes qui assurent les études dirigées ou l'accompagnement éducatif hors temps scolaire et qui ne relèvent pas pour la rémunération de leurs travaux supplémentaires du décret n° 50-1253 du 6 octobre 1950 fixant les taux de rémunération des heures supplémentaires d'enseignement effectuées par les personnels enseignants des établissements d'enseignement du second degré ou du décret n° 66-787 du 14 octobre 1966 fixant les taux de rémunération de certains travaux supplémentaires effectués par les personnels enseignants du premier degré en dehors de leur service normal peuvent percevoir, pour chaque heure assurée, une rémunération dont le montant est fixé par arrêté conjoint des ministres chargés de l'éducation nationale, du budget et de la fonction publique.
+
+Pour les personnels de l'éducation nationale, la participation aux études dirigées ou à l'accompagnement éducatif ne donne lieu à cette rémunération que si elle intervient en dépassement de la durée du travail dont ils sont redevables réglementairement ou aux termes de leur contrat de travail.
