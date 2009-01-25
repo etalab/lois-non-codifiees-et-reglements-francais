@@ -11,19 +11,22 @@ Les droits unitaires de stockage correspondant aux profils de consommation visé
 <p align="center">PROFIL DE CONSOMMATION </p>
 </td>
 <td>
-<p align="center">DROIT UNITAIRE EXPRIMÉ<br/>en volume utile en MWh<br/>pour 1 000 MWh de consommation<br/>annuelle de référence </p>
+<p align="center">DROIT UNITAIRE EXPRIMÉ EN VOLUME <br/>utile en MWh pour 1 000 MWh<br/>de consommation annuelle de référence </p>
 </td>
 <td>
-<p align="center">DROIT UNITAIRE EXPRIMÉ<br/>en débit de soutirage<br/>en MWh/j pour 1 000 MWh de consommation<br/>annuelle de référence </p>
+<p align="center">DROIT UNITAIRE EXPRIMÉ EN DÉBIT<br/>de soutirage en MWh/j pour 1 000 MWh<br/>de consommation annuelle de référence</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Client final raccordé<br/>au réseau de distribution <br/>
+<br/>Client final raccordé au réseau de distribution <br/>
 </td>
+</tr>
+<tr>
 <td align="center">
-<br/>
+<br/>Station météo d'Agen <br/>
 </td>
+<td align="center"/>
 <td align="center"/>
 </tr>
 <tr>
@@ -31,10 +34,10 @@ Les droits unitaires de stockage correspondant aux profils de consommation visé
 <br/>P11 <br/>
 </td>
 <td align="center">
-<br/>63,00 <br/>
+<br/>93 <br/>
 </td>
 <td align="center">
-<br/>1,55 <br/>
+<br/>2,1 <br/>
 </td>
 </tr>
 <tr>
@@ -42,21 +45,21 @@ Les droits unitaires de stockage correspondant aux profils de consommation visé
 <br/>P12 <br/>
 </td>
 <td align="center">
-<br/>365,00 <br/>
+<br/>375 <br/>
 </td>
 <td align="center">
-<br/>7,15 <br/>
+<br/>8,1 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>P13<br/>
+<br/>P13 <br/>
 </td>
 <td align="center">
-<br/>-155,00<br/>
+<br/>- 120 <br/>
 </td>
 <td align="center">
-<br/>-2,40 <br/>
+<br/>- 0,72 <br/>
 </td>
 </tr>
 <tr>
@@ -64,10 +67,10 @@ Les droits unitaires de stockage correspondant aux profils de consommation visé
 <br/>P14 <br/>
 </td>
 <td align="center">
-<br/>0,58 <br/>
+<br/>7,3 <br/>
 </td>
 <td align="center">
-<br/>1,20 <br/>
+<br/>1,2 <br/>
 </td>
 </tr>
 <tr>
@@ -75,7 +78,2551 @@ Les droits unitaires de stockage correspondant aux profils de consommation visé
 <br/>P15 <br/>
 </td>
 <td align="center">
-<br/>98,50 <br/>
+<br/>84,5 <br/>
+</td>
+<td align="center">
+<br/>1,5 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P16 <br/>
+</td>
+<td align="center">
+<br/>255 <br/>
+</td>
+<td align="center">
+<br/>5,6 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P17 <br/>
+</td>
+<td align="center">
+<br/>350 <br/>
+</td>
+<td align="center">
+<br/>8,2 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P18 <br/>
+</td>
+<td align="center">
+<br/>465 <br/>
+</td>
+<td align="center">
+<br/>12 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P19 <br/>
+</td>
+<td align="center">
+<br/>545 <br/>
+</td>
+<td align="center">
+<br/>14 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Station météo d'Auxerre <br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<br/>P11 <br/>
+</td>
+<td align="center">
+<br/>93 <br/>
+</td>
+<td align="center">
+<br/>2,1 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P12 <br/>
+</td>
+<td align="center">
+<br/>430 <br/>
+</td>
+<td align="center">
+<br/>8,8 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P13 <br/>
+</td>
+<td align="center">
+<br/>- 120 <br/>
+</td>
+<td align="center">
+<br/>- 0,72 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P14 <br/>
+</td>
+<td align="center">
+<br/>7,3 <br/>
+</td>
+<td align="center">
+<br/>1,2 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P15 <br/>
+</td>
+<td align="center">
+<br/>68 <br/>
+</td>
+<td align="center">
+<br/>1,35 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P16 <br/>
+</td>
+<td align="center">
+<br/>300 <br/>
+</td>
+<td align="center">
+<br/>6,5 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P17 <br/>
+</td>
+<td align="center">
+<br/>390 <br/>
+</td>
+<td align="center">
+<br/>8,15 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P18 <br/>
+</td>
+<td align="center">
+<br/>480 <br/>
+</td>
+<td align="center">
+<br/>10 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P19 <br/>
+</td>
+<td align="center">
+<br/>600 <br/>
+</td>
+<td align="center">
+<br/>13 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Station météo de Bâle-Mulhouse <br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<br/>P11 <br/>
+</td>
+<td align="center">
+<br/>93 <br/>
+</td>
+<td align="center">
+<br/>2,1 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P12 <br/>
+</td>
+<td align="center">
+<br/>535 <br/>
+</td>
+<td align="center">
+<br/>9,35 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P13 <br/>
+</td>
+<td align="center">
+<br/>- 120 <br/>
+</td>
+<td align="center">
+<br/>- 0,72 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P14 <br/>
+</td>
+<td align="center">
+<br/>7,3 <br/>
+</td>
+<td align="center">
+<br/>1,2 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P15 <br/>
+</td>
+<td align="center">
+<br/>68 <br/>
+</td>
+<td align="center">
+<br/>1,35 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P16 <br/>
+</td>
+<td align="center">
+<br/>375 <br/>
+</td>
+<td align="center">
+<br/>6,9 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P17 <br/>
+</td>
+<td align="center">
+<br/>480 <br/>
+</td>
+<td align="center">
+<br/>8,65 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P18 <br/>
+</td>
+<td align="center">
+<br/>590 <br/>
+</td>
+<td align="center">
+<br/>10,5 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P19 <br/>
+</td>
+<td align="center">
+<br/>740 <br/>
+</td>
+<td align="center">
+<br/>14 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Station météo de Besançon <br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<br/>P11 <br/>
+</td>
+<td align="center">
+<br/>93 <br/>
+</td>
+<td align="center">
+<br/>2,1 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P12 <br/>
+</td>
+<td align="center">
+<br/>445 <br/>
+</td>
+<td align="center">
+<br/>6,85 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P13 <br/>
+</td>
+<td align="center">
+<br/>- 120 <br/>
+</td>
+<td align="center">
+<br/>- 0,72 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P14 <br/>
+</td>
+<td align="center">
+<br/>7,3 <br/>
+</td>
+<td align="center">
+<br/>1,2 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P15 <br/>
+</td>
+<td align="center">
+<br/>165 <br/>
+</td>
+<td align="center">
+<br/>3,5 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P16 <br/>
+</td>
+<td align="center">
+<br/>345 <br/>
+</td>
+<td align="center">
+<br/>5,75 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P17 <br/>
+</td>
+<td align="center">
+<br/>440 <br/>
+</td>
+<td align="center">
+<br/>7,2 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P18 <br/>
+</td>
+<td align="center">
+<br/>545 <br/>
+</td>
+<td align="center">
+<br/>9 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P19 <br/>
+</td>
+<td align="center">
+<br/>695 <br/>
+</td>
+<td align="center">
+<br/>12,5 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Station météo de Biarritz-Anglet <br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<br/>P11 <br/>
+</td>
+<td align="center">
+<br/>93 <br/>
+</td>
+<td align="center">
+<br/>2,1 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P12 <br/>
+</td>
+<td align="center">
+<br/>290 <br/>
+</td>
+<td align="center">
+<br/>5,75 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P13 <br/>
+</td>
+<td align="center">
+<br/>- 120 <br/>
+</td>
+<td align="center">
+<br/>- 0,72 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P14 <br/>
+</td>
+<td align="center">
+<br/>7,3 <br/>
+</td>
+<td align="center">
+<br/>1,2 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P15 <br/>
+</td>
+<td align="center">
+<br/>73 <br/>
+</td>
+<td align="center">
+<br/>3 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P16 <br/>
+</td>
+<td align="center">
+<br/>185 <br/>
+</td>
+<td align="center">
+<br/>4,7 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P17 <br/>
+</td>
+<td align="center">
+<br/>250 <br/>
+</td>
+<td align="center">
+<br/>5,9 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P18 <br/>
+</td>
+<td align="center">
+<br/>320 <br/>
+</td>
+<td align="center">
+<br/>7,45 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P19 <br/>
+</td>
+<td align="center">
+<br/>385 <br/>
+</td>
+<td align="center">
+<br/>10,5 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Station météo de Bonneville <br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<br/>P11 <br/>
+</td>
+<td align="center">
+<br/>93 <br/>
+</td>
+<td align="center">
+<br/>2,1 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P12 <br/>
+</td>
+<td align="center">
+<br/>445 <br/>
+</td>
+<td align="center">
+<br/>8,45 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P13 <br/>
+</td>
+<td align="center">
+<br/>- 120 <br/>
+</td>
+<td align="center">
+<br/>- 0,72 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P14 <br/>
+</td>
+<td align="center">
+<br/>7,3 <br/>
+</td>
+<td align="center">
+<br/>1,2 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P15 <br/>
+</td>
+<td align="center">
+<br/>68 <br/>
+</td>
+<td align="center">
+<br/>1,35 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P16 <br/>
+</td>
+<td align="center">
+<br/>310 <br/>
+</td>
+<td align="center">
+<br/>6,2 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P17 <br/>
+</td>
+<td align="center">
+<br/>400 <br/>
+</td>
+<td align="center">
+<br/>7,8 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P18 <br/>
+</td>
+<td align="center">
+<br/>495 <br/>
+</td>
+<td align="center">
+<br/>9,65 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P19 <br/>
+</td>
+<td align="center">
+<br/>615 <br/>
+</td>
+<td align="center">
+<br/>12,5 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Station météo de Bordeaux-Mérignac <br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<br/>P11 <br/>
+</td>
+<td align="center">
+<br/>93 <br/>
+</td>
+<td align="center">
+<br/>2,1 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P12 <br/>
+</td>
+<td align="center">
+<br/>450 <br/>
+</td>
+<td align="center">
+<br/>9,1 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P13 <br/>
+</td>
+<td align="center">
+<br/>- 120 <br/>
+</td>
+<td align="center">
+<br/>- 0,72 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P14 <br/>
+</td>
+<td align="center">
+<br/>7,3 <br/>
+</td>
+<td align="center">
+<br/>1,2 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P15 <br/>
+</td>
+<td align="center">
+<br/>99 <br/>
+</td>
+<td align="center">
+<br/>1,65 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P16 <br/>
+</td>
+<td align="center">
+<br/>310 <br/>
+</td>
+<td align="center">
+<br/>6,7 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P17 <br/>
+</td>
+<td align="center">
+<br/>405 <br/>
+</td>
+<td align="center">
+<br/>8,45 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P18 <br/>
+</td>
+<td align="center">
+<br/>505 <br/>
+</td>
+<td align="center">
+<br/>10,5 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P19 <br/>
+</td>
+<td align="center">
+<br/>630 <br/>
+</td>
+<td align="center">
+<br/>13,5 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Station météo de Bourges <br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<br/>P11 <br/>
+</td>
+<td align="center">
+<br/>93 <br/>
+</td>
+<td align="center">
+<br/>2,1 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P12 <br/>
+</td>
+<td align="center">
+<br/>385 <br/>
+</td>
+<td align="center">
+<br/>7,75 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P13 <br/>
+</td>
+<td align="center">
+<br/>- 120 <br/>
+</td>
+<td align="center">
+<br/>- 0,72 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P14 <br/>
+</td>
+<td align="center">
+<br/>7,3 <br/>
+</td>
+<td align="center">
+<br/>1,2 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P15 <br/>
+</td>
+<td align="center">
+<br/>68 <br/>
+</td>
+<td align="center">
+<br/>1,35 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P16 <br/>
+</td>
+<td align="center">
+<br/>260 <br/>
+</td>
+<td align="center">
+<br/>5,35 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P17 <br/>
+</td>
+<td align="center">
+<br/>365 <br/>
+</td>
+<td align="center">
+<br/>7,9 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P18 <br/>
+</td>
+<td align="center">
+<br/>500 <br/>
+</td>
+<td align="center">
+<br/>11,5 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P19 <br/>
+</td>
+<td align="center">
+<br/>575 <br/>
+</td>
+<td align="center">
+<br/>13 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Station météo de Brest-Guipavas <br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<br/>P11 <br/>
+</td>
+<td align="center">
+<br/>93 <br/>
+</td>
+<td align="center">
+<br/>2,1 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P12 <br/>
+</td>
+<td align="center">
+<br/>290 <br/>
+</td>
+<td align="center">
+<br/>5,7 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P13 <br/>
+</td>
+<td align="center">
+<br/>- 120 <br/>
+</td>
+<td align="center">
+<br/>- 0,72 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P14 <br/>
+</td>
+<td align="center">
+<br/>7,3 <br/>
+</td>
+<td align="center">
+<br/>1,2 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P15 <br/>
+</td>
+<td align="center">
+<br/>68 <br/>
+</td>
+<td align="center">
+<br/>1,35 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P16 <br/>
+</td>
+<td align="center">
+<br/>200 <br/>
+</td>
+<td align="center">
+<br/>4,2 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P17 <br/>
+</td>
+<td align="center">
+<br/>265 <br/>
+</td>
+<td align="center">
+<br/>5, 35 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P18 <br/>
+</td>
+<td align="center">
+<br/>330 <br/>
+</td>
+<td align="center">
+<br/>6,65 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P19 <br/>
+</td>
+<td align="center">
+<br/>405 <br/>
+</td>
+<td align="center">
+<br/>8,75 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Station météo de Chambéry-Aix <br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<br/>P11 <br/>
+</td>
+<td align="center">
+<br/>93 <br/>
+</td>
+<td align="center">
+<br/>2,1 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P12 <br/>
+</td>
+<td align="center">
+<br/>445 <br/>
+</td>
+<td align="center">
+<br/>7,7 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P13 <br/>
+</td>
+<td align="center">
+<br/>- 120 <br/>
+</td>
+<td align="center">
+<br/>- 0,72 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P14 <br/>
+</td>
+<td align="center">
+<br/>7,3 <br/>
+</td>
+<td align="center">
+<br/>1,2 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P15 <br/>
+</td>
+<td align="center">
+<br/>68 <br/>
+</td>
+<td align="center">
+<br/>1,35 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P16 <br/>
+</td>
+<td align="center">
+<br/>310 <br/>
+</td>
+<td align="center">
+<br/>5,65 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P17 <br/>
+</td>
+<td align="center">
+<br/>400 <br/>
+</td>
+<td align="center">
+<br/>7,15 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P18 <br/>
+</td>
+<td align="center">
+<br/>495 <br/>
+</td>
+<td align="center">
+<br/>8,85 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P19 <br/>
+</td>
+<td align="center">
+<br/>615 <br/>
+</td>
+<td align="center">
+<br/>11,5 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Station météo de Chartres <br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<br/>P11 <br/>
+</td>
+<td align="center">
+<br/>93 <br/>
+</td>
+<td align="center">
+<br/>2,1 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P12 <br/>
+</td>
+<td align="center">
+<br/>465 <br/>
+</td>
+<td align="center">
+<br/>8,35 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P13 <br/>
+</td>
+<td align="center">
+<br/>- 120 <br/>
+</td>
+<td align="center">
+<br/>- 0,72 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P14 <br/>
+</td>
+<td align="center">
+<br/>7,3 <br/>
+</td>
+<td align="center">
+<br/>1,2 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P15 <br/>
+</td>
+<td align="center">
+<br/>68 <br/>
+</td>
+<td align="center">
+<br/>1,35 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P16 <br/>
+</td>
+<td align="center">
+<br/>325 <br/>
+</td>
+<td align="center">
+<br/>6,15 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P17 <br/>
+</td>
+<td align="center">
+<br/>415 <br/>
+</td>
+<td align="center">
+<br/>7,7 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P18 <br/>
+</td>
+<td align="center">
+<br/>515 <br/>
+</td>
+<td align="center">
+<br/>9,55 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P19 <br/>
+</td>
+<td align="center">
+<br/>645 <br/>
+</td>
+<td align="center">
+<br/>12,5 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Station météo de Clermont-Ferrand <br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<br/>P11 <br/>
+</td>
+<td align="center">
+<br/>93 <br/>
+</td>
+<td align="center">
+<br/>2,1 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P12 <br/>
+</td>
+<td align="center">
+<br/>465 <br/>
+</td>
+<td align="center">
+<br/>9,2 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P13 <br/>
+</td>
+<td align="center">
+<br/>- 120 <br/>
+</td>
+<td align="center">
+<br/>- 0,72 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P14 <br/>
+</td>
+<td align="center">
+<br/>7,3 <br/>
+</td>
+<td align="center">
+<br/>1,2 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P15 <br/>
+</td>
+<td align="center">
+<br/>74 <br/>
+</td>
+<td align="center">
+<br/>1,4 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P16 <br/>
+</td>
+<td align="center">
+<br/>320 <br/>
+</td>
+<td align="center">
+<br/>6,8 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P17 <br/>
+</td>
+<td align="center">
+<br/>420 <br/>
+</td>
+<td align="center">
+<br/>8,55 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P18 <br/>
+</td>
+<td align="center">
+<br/>520 <br/>
+</td>
+<td align="center">
+<br/>10,5 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P19 <br/>
+</td>
+<td align="center">
+<br/>645 <br/>
+</td>
+<td align="center">
+<br/>13,5 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Station météo de Cognac <br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<br/>P11 <br/>
+</td>
+<td align="center">
+<br/>93 <br/>
+</td>
+<td align="center">
+<br/>2,1 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P12 <br/>
+</td>
+<td align="center">
+<br/>285 <br/>
+</td>
+<td align="center">
+<br/>6,1 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P13 <br/>
+</td>
+<td align="center">
+<br/>- 120 <br/>
+</td>
+<td align="center">
+<br/>- 0,72 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P14 <br/>
+</td>
+<td align="center">
+<br/>7,3 <br/>
+</td>
+<td align="center">
+<br/>1,2 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P15 <br/>
+</td>
+<td align="center">
+<br/>90,5 <br/>
+</td>
+<td align="center">
+<br/>3,15 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P16 <br/>
+</td>
+<td align="center">
+<br/>205 <br/>
+</td>
+<td align="center">
+<br/>5,1 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P17 <br/>
+</td>
+<td align="center">
+<br/>270 <br/>
+</td>
+<td align="center">
+<br/>6,4 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P18 <br/>
+</td>
+<td align="center">
+<br/>335 <br/>
+</td>
+<td align="center">
+<br/>8 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P19 <br/>
+</td>
+<td align="center">
+<br/>415 <br/>
+</td>
+<td align="center">
+<br/>11 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Station météo de Colmar-Houssen <br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<br/>P11 <br/>
+</td>
+<td align="center">
+<br/>93 <br/>
+</td>
+<td align="center">
+<br/>2,1 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P12 <br/>
+</td>
+<td align="center">
+<br/>450 <br/>
+</td>
+<td align="center">
+<br/>6,4 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P13 <br/>
+</td>
+<td align="center">
+<br/>- 120 <br/>
+</td>
+<td align="center">
+<br/>- 0,72 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P14 <br/>
+</td>
+<td align="center">
+<br/>7,3 <br/>
+</td>
+<td align="center">
+<br/>1,2 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P15 <br/>
+</td>
+<td align="center">
+<br/>165 <br/>
+</td>
+<td align="center">
+<br/>3,3 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P16 <br/>
+</td>
+<td align="center">
+<br/>345 <br/>
+</td>
+<td align="center">
+<br/>5,35 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P17 <br/>
+</td>
+<td align="center">
+<br/>445 <br/>
+</td>
+<td align="center">
+<br/>6,7 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P18 <br/>
+</td>
+<td align="center">
+<br/>555 <br/>
+</td>
+<td align="center">
+<br/>8,45 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P19 <br/>
+</td>
+<td align="center">
+<br/>705 <br/>
+</td>
+<td align="center">
+<br/>11,5 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Station météo de Dijon-Longvic <br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<br/>P11 <br/>
+</td>
+<td align="center">
+<br/>93 <br/>
+</td>
+<td align="center">
+<br/>2,1 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P12 <br/>
+</td>
+<td align="center">
+<br/>470 <br/>
+</td>
+<td align="center">
+<br/>9,2 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P13 <br/>
+</td>
+<td align="center">
+<br/>- 120 <br/>
+</td>
+<td align="center">
+<br/>- 0,72 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P14 <br/>
+</td>
+<td align="center">
+<br/>7,3 <br/>
+</td>
+<td align="center">
+<br/>1,2 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P15 <br/>
+</td>
+<td align="center">
+<br/>68 <br/>
+</td>
+<td align="center">
+<br/>1,35 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P16 <br/>
+</td>
+<td align="center">
+<br/>325 <br/>
+</td>
+<td align="center">
+<br/>6,8 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P17 <br/>
+</td>
+<td align="center">
+<br/>425 <br/>
+</td>
+<td align="center">
+<br/>8,5 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P18 <br/>
+</td>
+<td align="center">
+<br/>525 <br/>
+</td>
+<td align="center">
+<br/>10,5 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P19 <br/>
+</td>
+<td align="center">
+<br/>650 <br/>
+</td>
+<td align="center">
+<br/>13,5 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Station météo de Dinard-Pleurtuit <br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<br/>P11 <br/>
+</td>
+<td align="center">
+<br/>93 <br/>
+</td>
+<td align="center">
+<br/>2,1 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P12 <br/>
+</td>
+<td align="center">
+<br/>315 <br/>
+</td>
+<td align="center">
+<br/>6,85 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P13 <br/>
+</td>
+<td align="center">
+<br/>- 120 <br/>
+</td>
+<td align="center">
+<br/>- 0,72 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P14 <br/>
+</td>
+<td align="center">
+<br/>7,3 <br/>
+</td>
+<td align="center">
+<br/>1,2 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P15 <br/>
+</td>
+<td align="center">
+<br/>68 <br/>
+</td>
+<td align="center">
+<br/>1,35 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P16 <br/>
+</td>
+<td align="center">
+<br/>215 <br/>
+</td>
+<td align="center">
+<br/>5,05 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P17 <br/>
+</td>
+<td align="center">
+<br/>285 <br/>
+</td>
+<td align="center">
+<br/>6,35 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P18 <br/>
+</td>
+<td align="center">
+<br/>355 <br/>
+</td>
+<td align="center">
+<br/>7,9 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P19 <br/>
+</td>
+<td align="center">
+<br/>435 <br/>
+</td>
+<td align="center">
+<br/>10,5 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Station météo d'Entzheim <br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<br/>P11 <br/>
+</td>
+<td align="center">
+<br/>93 <br/>
+</td>
+<td align="center">
+<br/>2,1 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P12 <br/>
+</td>
+<td align="center">
+<br/>450 <br/>
+</td>
+<td align="center">
+<br/>7,25 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P13 <br/>
+</td>
+<td align="center">
+<br/>- 120 <br/>
+</td>
+<td align="center">
+<br/>- 0,72 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P14 <br/>
+</td>
+<td align="center">
+<br/>7,3 <br/>
+</td>
+<td align="center">
+<br/>1,2 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P15 <br/>
+</td>
+<td align="center">
+<br/>165 <br/>
+</td>
+<td align="center">
+<br/>3,7 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P16 <br/>
+</td>
+<td align="center">
+<br/>345 <br/>
+</td>
+<td align="center">
+<br/>6,1 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P17 <br/>
+</td>
+<td align="center">
+<br/>445 <br/>
+</td>
+<td align="center">
+<br/>7,65 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P18 <br/>
+</td>
+<td align="center">
+<br/>550 <br/>
+</td>
+<td align="center">
+<br/>9,55 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P19 <br/>
+</td>
+<td align="center">
+<br/>700 <br/>
+</td>
+<td align="center">
+<br/>13 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Station météo de Grenoble-Saint-Geoirs <br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<br/>P11 <br/>
+</td>
+<td align="center">
+<br/>93 <br/>
+</td>
+<td align="center">
+<br/>2,1 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P12 <br/>
+</td>
+<td align="center">
+<br/>420 <br/>
+</td>
+<td align="center">
+<br/>6,85 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P13 <br/>
+</td>
+<td align="center">
+<br/>- 120 <br/>
+</td>
+<td align="center">
+<br/>- 0,72 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P14 <br/>
+</td>
+<td align="center">
+<br/>7,3 <br/>
+</td>
+<td align="center">
+<br/>1,2 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P15 <br/>
+</td>
+<td align="center">
+<br/>150 <br/>
+</td>
+<td align="center">
+<br/>3,5 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P16 <br/>
+</td>
+<td align="center">
+<br/>320 <br/>
+</td>
+<td align="center">
+<br/>5,75 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P17 <br/>
+</td>
+<td align="center">
+<br/>415 <br/>
+</td>
+<td align="center">
+<br/>7,2 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P18 <br/>
+</td>
+<td align="center">
+<br/>510 <br/>
+</td>
+<td align="center">
+<br/>9,05 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P19 <br/>
+</td>
+<td align="center">
+<br/>650 <br/>
+</td>
+<td align="center">
+<br/>12,5 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Station météo de Lille-Lesquin <br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<br/>P11 <br/>
+</td>
+<td align="center">
+<br/>93 <br/>
+</td>
+<td align="center">
+<br/>2,1 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P12 <br/>
+</td>
+<td align="center">
+<br/>400 <br/>
+</td>
+<td align="center">
+<br/>7 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P13 <br/>
+</td>
+<td align="center">
+<br/>- 120 <br/>
+</td>
+<td align="center">
+<br/>- 0,72 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P14 <br/>
+</td>
+<td align="center">
+<br/>7,3 <br/>
+</td>
+<td align="center">
+<br/>1,2 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P15 <br/>
+</td>
+<td align="center">
+<br/>145 <br/>
+</td>
+<td align="center">
+<br/>3,55 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P16 <br/>
+</td>
+<td align="center">
+<br/>305 <br/>
+</td>
+<td align="center">
+<br/>5,9 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P17 <br/>
+</td>
+<td align="center">
+<br/>395 <br/>
+</td>
+<td align="center">
+<br/>7,35 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P18 <br/>
+</td>
+<td align="center">
+<br/>485 <br/>
+</td>
+<td align="center">
+<br/>9,2 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P19 <br/>
+</td>
+<td align="center">
+<br/>620 <br/>
+</td>
+<td align="center">
+<br/>13 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Station météo de Luxeuil <br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<br/>P11 <br/>
+</td>
+<td align="center">
+<br/>93 <br/>
+</td>
+<td align="center">
+<br/>2,1 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P12 <br/>
+</td>
+<td align="center">
+<br/>480 <br/>
+</td>
+<td align="center">
+<br/>7,55 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P13 <br/>
+</td>
+<td align="center">
+<br/>- 120 <br/>
+</td>
+<td align="center">
+<br/>- 0,72 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P14 <br/>
+</td>
+<td align="center">
+<br/>7,3 <br/>
+</td>
+<td align="center">
+<br/>1,2 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P15 <br/>
+</td>
+<td align="center">
+<br/>180 <br/>
+</td>
+<td align="center">
+<br/>3,85 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P16 <br/>
+</td>
+<td align="center">
+<br/>375 <br/>
+</td>
+<td align="center">
+<br/>6,4 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P17 <br/>
+</td>
+<td align="center">
+<br/>480 <br/>
+</td>
+<td align="center">
+<br/>8 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P18 <br/>
+</td>
+<td align="center">
+<br/>595 <br/>
+</td>
+<td align="center">
+<br/>10 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P19 <br/>
+</td>
+<td align="center">
+<br/>760 <br/>
+</td>
+<td align="center">
+<br/>14 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Station météo de Lyon-Bron <br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<br/>P11 <br/>
+</td>
+<td align="center">
+<br/>93 <br/>
+</td>
+<td align="center">
+<br/>2,1 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P12 <br/>
+</td>
+<td align="center">
+<br/>430 <br/>
+</td>
+<td align="center">
+<br/>7,85 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P13 <br/>
+</td>
+<td align="center">
+<br/>- 120 <br/>
+</td>
+<td align="center">
+<br/>- 0,72 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P14 <br/>
+</td>
+<td align="center">
+<br/>7,3 <br/>
+</td>
+<td align="center">
+<br/>1,2 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P15 <br/>
+</td>
+<td align="center">
+<br/>68 <br/>
+</td>
+<td align="center">
+<br/>1,35 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P16 <br/>
+</td>
+<td align="center">
+<br/>295 <br/>
+</td>
+<td align="center">
+<br/>5,75 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P17 <br/>
+</td>
+<td align="center">
+<br/>385 <br/>
+</td>
+<td align="center">
+<br/>7,25 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P18 <br/>
+</td>
+<td align="center">
+<br/>480 <br/>
+</td>
+<td align="center">
+<br/>9 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P19 <br/>
+</td>
+<td align="center">
+<br/>595 <br/>
+</td>
+<td align="center">
+<br/>11,5 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Station météo de Marignane <br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<br/>P11 <br/>
+</td>
+<td align="center">
+<br/>93 <br/>
+</td>
+<td align="center">
+<br/>2,1 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P12 <br/>
+</td>
+<td align="center">
+<br/>240 <br/>
+</td>
+<td align="center">
+<br/>6,2 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P13 <br/>
+</td>
+<td align="center">
+<br/>- 120 <br/>
+</td>
+<td align="center">
+<br/>- 0,72 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P14 <br/>
+</td>
+<td align="center">
+<br/>7,3 <br/>
+</td>
+<td align="center">
+<br/>1,2 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P15 <br/>
+</td>
+<td align="center">
+<br/>68 <br/>
+</td>
+<td align="center">
+<br/>1,35 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P16 <br/>
+</td>
+<td align="center">
+<br/>165 <br/>
+</td>
+<td align="center">
+<br/>4,6 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P17 <br/>
+</td>
+<td align="center">
+<br/>220 <br/>
+</td>
+<td align="center">
+<br/>5,8 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P18 <br/>
+</td>
+<td align="center">
+<br/>275 <br/>
+</td>
+<td align="center">
+<br/>7,2 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P19 <br/>
+</td>
+<td align="center">
+<br/>335 <br/>
+</td>
+<td align="center">
+<br/>9,45 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Station météo de Metz-Frescaty <br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<br/>P11 <br/>
+</td>
+<td align="center">
+<br/>93 <br/>
+</td>
+<td align="center">
+<br/>2,1 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P12 <br/>
+</td>
+<td align="center">
+<br/>470 <br/>
+</td>
+<td align="center">
+<br/>7,6 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P13 <br/>
+</td>
+<td align="center">
+<br/>- 120 <br/>
+</td>
+<td align="center">
+<br/>- 0,72 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P14 <br/>
+</td>
+<td align="center">
+<br/>7,3 <br/>
+</td>
+<td align="center">
+<br/>1,2 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P15 <br/>
+</td>
+<td align="center">
+<br/>68 <br/>
+</td>
+<td align="center">
+<br/>1,35 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P16 <br/>
+</td>
+<td align="center">
+<br/>315 <br/>
+</td>
+<td align="center">
+<br/>5,25 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P17 <br/>
+</td>
+<td align="center">
+<br/>450 <br/>
+</td>
+<td align="center">
+<br/>7,75 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P18 <br/>
+</td>
+<td align="center">
+<br/>635 <br/>
+</td>
+<td align="center">
+<br/>11,5 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P19 <br/>
+</td>
+<td align="center">
+<br/>715 <br/>
+</td>
+<td align="center">
+<br/>13 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Station météo de Montélimar <br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<br/>P11 <br/>
+</td>
+<td align="center">
+<br/>93 <br/>
+</td>
+<td align="center">
+<br/>2,1 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P12 <br/>
+</td>
+<td align="center">
+<br/>320 <br/>
+</td>
+<td align="center">
+<br/>5,5 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P13 <br/>
+</td>
+<td align="center">
+<br/>- 120 <br/>
+</td>
+<td align="center">
+<br/>- 0,72 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P14 <br/>
+</td>
+<td align="center">
+<br/>7,3 <br/>
+</td>
+<td align="center">
+<br/>1,2 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P15 <br/>
+</td>
+<td align="center">
+<br/>105 <br/>
+</td>
+<td align="center">
+<br/>2,85 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P16 <br/>
+</td>
+<td align="center">
+<br/>235 <br/>
+</td>
+<td align="center">
+<br/>4,55 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P17 <br/>
+</td>
+<td align="center">
+<br/>305 <br/>
+</td>
+<td align="center">
+<br/>5,7 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P18 <br/>
+</td>
+<td align="center">
+<br/>380 <br/>
+</td>
+<td align="center">
+<br/>7,15 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P19 <br/>
+</td>
+<td align="center">
+<br/>480 <br/>
+</td>
+<td align="center">
+<br/>9,95 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Station météo de Nantes-Bouguenais <br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<br/>P11 <br/>
+</td>
+<td align="center">
+<br/>93 <br/>
+</td>
+<td align="center">
+<br/>2,1 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P12 <br/>
+</td>
+<td align="center">
+<br/>290 <br/>
+</td>
+<td align="center">
+<br/>5,7 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P13 <br/>
+</td>
+<td align="center">
+<br/>- 120 <br/>
+</td>
+<td align="center">
+<br/>- 0,72 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P14 <br/>
+</td>
+<td align="center">
+<br/>7,3 <br/>
+</td>
+<td align="center">
+<br/>1,2 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P15 <br/>
+</td>
+<td align="center">
+<br/>92,5 <br/>
 </td>
 <td align="center">
 <br/>2,95 <br/>
@@ -86,10 +2633,10 @@ Les droits unitaires de stockage correspondant aux profils de consommation visé
 <br/>P16 <br/>
 </td>
 <td align="center">
-<br/>245,00 <br/>
+<br/>205 <br/>
 </td>
 <td align="center">
-<br/>4,95 <br/>
+<br/>4,75 <br/>
 </td>
 </tr>
 <tr>
@@ -97,10 +2644,10 @@ Les droits unitaires de stockage correspondant aux profils de consommation visé
 <br/>P17 <br/>
 </td>
 <td align="center">
-<br/>330,00 <br/>
+<br/>270 <br/>
 </td>
 <td align="center">
-<br/>6,55 <br/>
+<br/>5,95 <br/>
 </td>
 </tr>
 <tr>
@@ -108,10 +2655,10 @@ Les droits unitaires de stockage correspondant aux profils de consommation visé
 <br/>P18 <br/>
 </td>
 <td align="center">
-<br/>410,00 <br/>
+<br/>340 <br/>
 </td>
 <td align="center">
-<br/>8,25 <br/>
+<br/>7,45 <br/>
 </td>
 </tr>
 <tr>
@@ -119,58 +2666,175 @@ Les droits unitaires de stockage correspondant aux profils de consommation visé
 <br/>P19 <br/>
 </td>
 <td align="center">
-<br/>525,00 <br/>
+<br/>425 <br/>
 </td>
 <td align="center">
-<br/>12,00 <br/>
+<br/>10,5 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Client final raccordé<br/>au réseau de transport <br/>
+<br/>Station météo de Nice <br/>
 </td>
 <td align="center"/>
 <td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>P21<br/>
+<br/>P11 <br/>
 </td>
 <td align="center">
-<br/>-210,00<br/>
+<br/>93 <br/>
 </td>
 <td align="center">
-<br/>-1,95 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>P22 <br/>
-</td>
-<td align="center">
-<br/>115,00 <br/>
-</td>
-<td align="center">
-<br/>7,15 <br/>
+<br/>2,1 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>P23 <br/>
+<br/>P12 <br/>
 </td>
 <td align="center">
-<br/>335,00 <br/>
+<br/>165 <br/>
 </td>
 <td align="center">
-<br/>3,95 <br/>
+<br/>3,8 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>P24 <br/>
+<br/>P13 <br/>
 </td>
 <td align="center">
-<br/>200,00 <br/>
+<br/>- 120 <br/>
+</td>
+<td align="center">
+<br/>- 0,72 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P14 <br/>
+</td>
+<td align="center">
+<br/>7,3 <br/>
+</td>
+<td align="center">
+<br/>1,2 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P15 <br/>
+</td>
+<td align="center">
+<br/>34,5 <br/>
+</td>
+<td align="center">
+<br/>2 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P16 <br/>
+</td>
+<td align="center">
+<br/>97,5 <br/>
+</td>
+<td align="center">
+<br/>3,05 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P17 <br/>
+</td>
+<td align="center">
+<br/>135 <br/>
+</td>
+<td align="center">
+<br/>3,85 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P18 <br/>
+</td>
+<td align="center">
+<br/>175 <br/>
+</td>
+<td align="center">
+<br/>4,85 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P19 <br/>
+</td>
+<td align="center">
+<br/>205 <br/>
+</td>
+<td align="center">
+<br/>6,75 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Station météo de Nîmes-Courbessac <br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<br/>P11 <br/>
+</td>
+<td align="center">
+<br/>93 <br/>
+</td>
+<td align="center">
+<br/>2,1 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P12 <br/>
+</td>
+<td align="center">
+<br/>240 <br/>
+</td>
+<td align="center">
+<br/>5,3 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P13 <br/>
+</td>
+<td align="center">
+<br/>- 120 <br/>
+</td>
+<td align="center">
+<br/>- 0,72 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P14 <br/>
+</td>
+<td align="center">
+<br/>7,3 <br/>
+</td>
+<td align="center">
+<br/>1,2 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P15 <br/>
+</td>
+<td align="center">
+<br/>70 <br/>
 </td>
 <td align="center">
 <br/>2,75 <br/>
@@ -178,27 +2842,968 @@ Les droits unitaires de stockage correspondant aux profils de consommation visé
 </tr>
 <tr>
 <td align="center">
-<br/>P25 <br/>
+<br/>P16 <br/>
 </td>
 <td align="center">
-<br/>78,5 <br/>
+<br/>165 <br/>
 </td>
 <td align="center">
-<br/>1,650 <br/>
+<br/>4,4 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>P26<br/>
+<br/>P17 <br/>
 </td>
 <td align="center">
-<br/>-5,95 <br/>
+<br/>220 <br/>
 </td>
 <td align="center">
-<br/>0,180 <br/>
+<br/>5,5 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P18 <br/>
+</td>
+<td align="center">
+<br/>275 <br/>
+</td>
+<td align="center">
+<br/>6,9 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P19 <br/>
+</td>
+<td align="center">
+<br/>340 <br/>
+</td>
+<td align="center">
+<br/>9,6 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Station météo de Paris-Montsouris <br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<br/>P11 <br/>
+</td>
+<td align="center">
+<br/>93 <br/>
+</td>
+<td align="center">
+<br/>2,1 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P12 <br/>
+</td>
+<td align="center">
+<br/>360 <br/>
+</td>
+<td align="center">
+<br/>6,35 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P13 <br/>
+</td>
+<td align="center">
+<br/>- 120 <br/>
+</td>
+<td align="center">
+<br/>- 0,72 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P14 <br/>
+</td>
+<td align="center">
+<br/>7,3 <br/>
+</td>
+<td align="center">
+<br/>1,2 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P15 <br/>
+</td>
+<td align="center">
+<br/>125 <br/>
+</td>
+<td align="center">
+<br/>3,25 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P16 <br/>
+</td>
+<td align="center">
+<br/>265 <br/>
+</td>
+<td align="center">
+<br/>5,35 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P17 <br/>
+</td>
+<td align="center">
+<br/>345 <br/>
+</td>
+<td align="center">
+<br/>6,65 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P18 <br/>
+</td>
+<td align="center">
+<br/>430 <br/>
+</td>
+<td align="center">
+<br/>8,35 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P19 <br/>
+</td>
+<td align="center">
+<br/>540 <br/>
+</td>
+<td align="center">
+<br/>11,5 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Station météo de Pau-Uzein <br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<br/>P11 <br/>
+</td>
+<td align="center">
+<br/>93 <br/>
+</td>
+<td align="center">
+<br/>2,1 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P12 <br/>
+</td>
+<td align="center">
+<br/>415 <br/>
+</td>
+<td align="center">
+<br/>6,5 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P13 <br/>
+</td>
+<td align="center">
+<br/>- 120 <br/>
+</td>
+<td align="center">
+<br/>- 0,72 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P14 <br/>
+</td>
+<td align="center">
+<br/>7,3 <br/>
+</td>
+<td align="center">
+<br/>1,2 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P15 <br/>
+</td>
+<td align="center">
+<br/>130 <br/>
+</td>
+<td align="center">
+<br/>3,35 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P16 <br/>
+</td>
+<td align="center">
+<br/>295 <br/>
+</td>
+<td align="center">
+<br/>5,35 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P17 <br/>
+</td>
+<td align="center">
+<br/>390 <br/>
+</td>
+<td align="center">
+<br/>6,75 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P18 <br/>
+</td>
+<td align="center">
+<br/>485 <br/>
+</td>
+<td align="center">
+<br/>8,45 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P19 <br/>
+</td>
+<td align="center">
+<br/>605 <br/>
+</td>
+<td align="center">
+<br/>11,5 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Station météo de Perpignan <br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<br/>P11 <br/>
+</td>
+<td align="center">
+<br/>93 <br/>
+</td>
+<td align="center">
+<br/>2,1 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P12 <br/>
+</td>
+<td align="center">
+<br/>245 <br/>
+</td>
+<td align="center">
+<br/>5,3 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P13 <br/>
+</td>
+<td align="center">
+<br/>- 120 <br/>
+</td>
+<td align="center">
+<br/>- 0,72 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P14 <br/>
+</td>
+<td align="center">
+<br/>7,3 <br/>
+</td>
+<td align="center">
+<br/>1,2 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P15 <br/>
+</td>
+<td align="center">
+<br/>53 <br/>
+</td>
+<td align="center">
+<br/>2,75 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P16 <br/>
+</td>
+<td align="center">
+<br/>150 <br/>
+</td>
+<td align="center">
+<br/>4,3 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P17 <br/>
+</td>
+<td align="center">
+<br/>205 <br/>
+</td>
+<td align="center">
+<br/>5,45 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P18 <br/>
+</td>
+<td align="center">
+<br/>260 <br/>
+</td>
+<td align="center">
+<br/>6,85 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P19 <br/>
+</td>
+<td align="center">
+<br/>310 <br/>
+</td>
+<td align="center">
+<br/>9,5 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Station météo de Reims-Courcy <br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<br/>P11 <br/>
+</td>
+<td align="center">
+<br/>93 <br/>
+</td>
+<td align="center">
+<br/>2,1 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P12 <br/>
+</td>
+<td align="center">
+<br/>430 <br/>
+</td>
+<td align="center">
+<br/>8,4 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P13 <br/>
+</td>
+<td align="center">
+<br/>- 120 <br/>
+</td>
+<td align="center">
+<br/>- 0,72 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P14 <br/>
+</td>
+<td align="center">
+<br/>7,3 <br/>
+</td>
+<td align="center">
+<br/>1,2 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P15 <br/>
+</td>
+<td align="center">
+<br/>68 <br/>
+</td>
+<td align="center">
+<br/>1,35 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P16 <br/>
+</td>
+<td align="center">
+<br/>290 <br/>
+</td>
+<td align="center">
+<br/>5,75 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P17 <br/>
+</td>
+<td align="center">
+<br/>415 <br/>
+</td>
+<td align="center">
+<br/>8,55 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P18 <br/>
+</td>
+<td align="center">
+<br/>575 <br/>
+</td>
+<td align="center">
+<br/>12,5 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P19 <br/>
+</td>
+<td align="center">
+<br/>655 <br/>
+</td>
+<td align="center">
+<br/>14,5 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Station météo de Rouen-Boos <br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<br/>P11 <br/>
+</td>
+<td align="center">
+<br/>93 <br/>
+</td>
+<td align="center">
+<br/>2,1 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P12 <br/>
+</td>
+<td align="center">
+<br/>375 <br/>
+</td>
+<td align="center">
+<br/>6,55 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P13 <br/>
+</td>
+<td align="center">
+<br/>- 120 <br/>
+</td>
+<td align="center">
+<br/>- 0,72 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P14 <br/>
+</td>
+<td align="center">
+<br/>7,3 <br/>
+</td>
+<td align="center">
+<br/>1,2 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P15 <br/>
+</td>
+<td align="center">
+<br/>130 <br/>
+</td>
+<td align="center">
+<br/>3,35 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P16 <br/>
+</td>
+<td align="center">
+<br/>280 <br/>
+</td>
+<td align="center">
+<br/>5,5 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P17 <br/>
+</td>
+<td align="center">
+<br/>365 <br/>
+</td>
+<td align="center">
+<br/>6,85 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P18 <br/>
+</td>
+<td align="center">
+<br/>450 <br/>
+</td>
+<td align="center">
+<br/>8,6 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P19 <br/>
+</td>
+<td align="center">
+<br/>570 <br/>
+</td>
+<td align="center">
+<br/>12 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Station météo de Saint-Etienne-Bouthéon <br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<br/>P11 <br/>
+</td>
+<td align="center">
+<br/>93 <br/>
+</td>
+<td align="center">
+<br/>2,1 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P12 <br/>
+</td>
+<td align="center">
+<br/>400 <br/>
+</td>
+<td align="center">
+<br/>7,6 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P13 <br/>
+</td>
+<td align="center">
+<br/>- 120 <br/>
+</td>
+<td align="center">
+<br/>- 0,72 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P14 <br/>
+</td>
+<td align="center">
+<br/>7,3 <br/>
+</td>
+<td align="center">
+<br/>1,2 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P15 <br/>
+</td>
+<td align="center">
+<br/>140 <br/>
+</td>
+<td align="center">
+<br/>3,85 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P16 <br/>
+</td>
+<td align="center">
+<br/>300 <br/>
+</td>
+<td align="center">
+<br/>6,45 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P17 <br/>
+</td>
+<td align="center">
+<br/>390 <br/>
+</td>
+<td align="center">
+<br/>8,05 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P18 <br/>
+</td>
+<td align="center">
+<br/>485 <br/>
+</td>
+<td align="center">
+<br/>10 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P19 <br/>
+</td>
+<td align="center">
+<br/>615 <br/>
+</td>
+<td align="center">
+<br/>14 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Station météo de Toulouse-Blagnac <br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<br/>P11 <br/>
+</td>
+<td align="center">
+<br/>93 <br/>
+</td>
+<td align="center">
+<br/>2,1 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P12 <br/>
+</td>
+<td align="center">
+<br/>430 <br/>
+</td>
+<td align="center">
+<br/>7,6 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P13 <br/>
+</td>
+<td align="center">
+<br/>- 120 <br/>
+</td>
+<td align="center">
+<br/>- 0,72 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P14 <br/>
+</td>
+<td align="center">
+<br/>7,3 <br/>
+</td>
+<td align="center">
+<br/>1,2 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P15 <br/>
+</td>
+<td align="center">
+<br/>135 <br/>
+</td>
+<td align="center">
+<br/>3,9 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P16 <br/>
+</td>
+<td align="center">
+<br/>305 <br/>
+</td>
+<td align="center">
+<br/>6,35 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P17 <br/>
+</td>
+<td align="center">
+<br/>400 <br/>
+</td>
+<td align="center">
+<br/>7,95 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P18 <br/>
+</td>
+<td align="center">
+<br/>500 <br/>
+</td>
+<td align="center">
+<br/>10 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P19 <br/>
+</td>
+<td align="center">
+<br/>625 <br/>
+</td>
+<td align="center">
+<br/>14 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Station météo de Tours <br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<br/>P11 <br/>
+</td>
+<td align="center">
+<br/>93 <br/>
+</td>
+<td align="center">
+<br/>2,1 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P12 <br/>
+</td>
+<td align="center">
+<br/>355 <br/>
+</td>
+<td align="center">
+<br/>6,55 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P13 <br/>
+</td>
+<td align="center">
+<br/>- 120 <br/>
+</td>
+<td align="center">
+<br/>- 0,72 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P14 <br/>
+</td>
+<td align="center">
+<br/>7,3 <br/>
+</td>
+<td align="center">
+<br/>1,2 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P15 <br/>
+</td>
+<td align="center">
+<br/>120 <br/>
+</td>
+<td align="center">
+<br/>3,35 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P16 <br/>
+</td>
+<td align="center">
+<br/>260 <br/>
+</td>
+<td align="center">
+<br/>5,5 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P17 <br/>
+</td>
+<td align="center">
+<br/>340 <br/>
+</td>
+<td align="center">
+<br/>6,9 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P18 <br/>
+</td>
+<td align="center">
+<br/>420 <br/>
+</td>
+<td align="center">
+<br/>8,65 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P19 <br/>
+</td>
+<td align="center">
+<br/>535 <br/>
+</td>
+<td align="center">
+<br/>12 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Client final raccordé au réseau de transport <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P21 <br/>
+</td>
+<td align="center">
+<br/>- 335 <br/>
+</td>
+<td align="center">
+<br/>- 1,95 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P22 <br/>
+</td>
+<td align="center">
+<br/>135 <br/>
+</td>
+<td align="center">
+<br/>7,95 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P23 <br/>
+</td>
+<td align="center">
+<br/>400 <br/>
+</td>
+<td align="center">
+<br/>6,6 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P24 <br/>
+</td>
+<td align="center">
+<br/>240 <br/>
+</td>
+<td align="center">
+<br/>4,45 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P25 <br/>
+</td>
+<td align="center">
+<br/>89 <br/>
+</td>
+<td align="center">
+<br/>2,5 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>P26 <br/>
+</td>
+<td align="center">
+<br/>- 11,5 <br/>
+</td>
+<td align="center">
+<br/>0,125<br/>
 </td>
 </tr>
 </tbody>
 </table>
 
-Les valeurs des droits unitaires sont actualisées, en tant que de besoin, annuellement.
+Les valeurs des droits unitaires sont actualisées,en tant que de besoin,annuellement.
