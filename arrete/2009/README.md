@@ -143,7 +143,6 @@
 - [Arrêté du 18 décembre 2008 (ECEC0825339A)](arrete-du-18-decembre-2008-ecec0825339a)
 - [Arrêté du 18 décembre 2008 (ECEC0825342A)](arrete-du-18-decembre-2008-ecec0825342a)
 - [Arrêté du 18 décembre 2008 (ECET0823006A)](arrete-du-18-decembre-2008-ecet0823006a)
-- [Arrêté du 18 janvier 2009 (SASP0901533A)](arrete-du-18-janvier-2009-sasp0901533a)
 - [Arrêté du 18 novembre 2003 (SOCF0311784A)](arrete-du-18-novembre-2003-socf0311784a)
 - [Arrêté du 19 décembre 2008 (DEVA0827141A)](arrete-du-19-decembre-2008-deva0827141a)
 - [Arrêté du 19 décembre 2008 (DEVA0827429A)](arrete-du-19-decembre-2008-deva0827429a)
