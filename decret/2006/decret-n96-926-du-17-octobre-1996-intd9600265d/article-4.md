@@ -1,0 +1,3 @@
+# Article 4
+
+La demande d'autorisation d'un système de vidéosurveillance mis en oeuvre par un service, établissement ou entreprise intéressant la défense nationale est présentée par la personne responsable du système. Dans le cas où la protection des installations, du matériel ou du secret des recherches, études ou fabrications dont la sauvegarde est en cause s'oppose à la transmission de tout ou partie des informations prévues à l'article 1er (2° à 10°), le dossier de demande d'autorisation mentionne les raisons qui justifient l'absence de ces informations. Le préfet peut demander au ministre dont relève le demandeur de se prononcer sur les raisons invoquées.
