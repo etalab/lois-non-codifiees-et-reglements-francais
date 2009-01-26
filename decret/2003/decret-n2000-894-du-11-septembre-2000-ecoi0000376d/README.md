@@ -5,3 +5,4 @@
 - [Titre III : Procédures d'information, de consultation et de proposition.](titre-iii)
 - [Titre IV : Règlements intérieurs du collège et du comité de règlement des différends et des sanctions](titre-iv)
 - [Article 24](article-24.md)
+- [Article 26](article-26.md)
