@@ -1,6 +1,6 @@
 # Article 3
 
-Les diplômes nationaux visés à l'article 2 ci-dessus doivent, pour pouvoir être assimilés à une pratique professionnelle, avoir été obtenus dans une ou plusieurs des sept disciplines suivantes :
+Les diplômes nationaux visés à l'article 2 ci-dessus doivent, pour pouvoir être assimilés à une pratique professionnelle, avoir été obtenus dans une ou plusieurs des huit disciplines suivantes :
 
 1. Santé publique : épidémiologie, environnement, biologie, économie de la santé, gestion et droit de la santé, informatique médicale, santé communautaire ;
 
@@ -14,4 +14,6 @@ Les diplômes nationaux visés à l'article 2 ci-dessus doivent, pour pouvoir ê
 
 6. Informatique ;
 
-7. Mathématiques appliquées.
+7. Mathématiques appliquées ;
+
+8. Langues étrangères.

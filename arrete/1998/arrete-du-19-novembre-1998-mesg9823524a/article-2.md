@@ -4,8 +4,6 @@ Sont pris en compte au titre de la pratique professionnelle et, selon la durée 
 
 Licence : six mois ;
 
-Maîtrise : neuf mois ;
+Maîtrise ou master 1 : neuf mois ;
 
-Diplôme d'études supérieures spécialisées (DESS) : un an ;
-
-Diplôme d'études approfondies (DEA) : un an.
+Diplôme d'études supérieures spécialisées (DESS), diplôme d'études approfondies (DEA) ou master 2 : un an.
