@@ -3,4 +3,5 @@
 - [Titre Ier : Différends portant sur l'accès aux réseaux ou leur utilisation](titre-ier)
 - [Titre II : Sanctions et mesures conservatoires](titre-ii)
 - [Titre III : Procédures d'information, de consultation et de proposition.](titre-iii)
+- [Titre IV : Règlements intérieurs du collège et du comité de règlement des différends et des sanctions](titre-iv)
 - [Article 24](article-24.md)

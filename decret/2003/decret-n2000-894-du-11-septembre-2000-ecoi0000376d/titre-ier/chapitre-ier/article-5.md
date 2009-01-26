@@ -2,7 +2,7 @@
 
 Les séances de la Commission de régulation de l'énergie sont publiques, sauf demande de l'ensemble des parties. Si une telle demande n'émane pas de toutes les parties, la commission statue sur l'opportunité d'y donner suite, en fonction de la nécessité d'assurer le respect des secrets protégés par la loi.
 
-Le président de la Commission de régulation de l'énergie dirige les débats lors des séances et des délibérations.
+Le président du comité du règlement des différends et des sanctions de la Commission de régulation de l'énergie dirige les débats lors des séances et des délibérations.
 
 Les parties peuvent présenter des observations orales pendant la séance et se faire représenter ou assister de la personne de leur choix.
 
