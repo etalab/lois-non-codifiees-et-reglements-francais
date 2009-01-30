@@ -5,3 +5,5 @@ Placée sous l'autorité directe du directeur général, l'inspection des servic
 Elle formule les propositions qui lui paraissent de nature à améliorer l'efficacité et la qualité du service.
 
 Elle assure, avec le concours des services déconcentrés et des bureaux de la direction générale, la préparation et le suivi opérationnel des missions de contrôle des instances communautaires.
+
+Le chef de l'inspection des services a rang de sous-directeur.
