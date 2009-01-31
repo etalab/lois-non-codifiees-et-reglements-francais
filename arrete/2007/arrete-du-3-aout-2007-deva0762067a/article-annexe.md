@@ -1,7 +1,5 @@
 # Article Annexe
 
-ANNEXE
-
 LIAISONS RÉGULIÈRES DE PASSAGERS,
 
 DE COURRIER ET DE FRET
@@ -51,3 +49,7 @@ Paris-Cancún (Mexique).
 Jusqu'au 31 juillet 2012 :
 
 Paris-Dakar (Sénégal).
+
+Jusqu'au 31 décembre 2013 :
+
+Paris - Nassau (Bahamas).
