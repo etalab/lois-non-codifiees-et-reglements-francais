@@ -66,7 +66,6 @@
 - [Arrêté du 3 décembre 2003 (AGRE0302579A)](arrete-du-3-decembre-2003-agre0302579a)
 - [Arrêté du 3 décembre 2004 (FPPA0400147A)](arrete-du-3-decembre-2004-fppa0400147a)
 - [Arrêté du 3 décembre 2004 (MENS0402683A)](arrete-du-3-decembre-2004-mens0402683a)
-- [Arrêté du 3 février 2004 (EQUR0400186A)](arrete-du-3-fevrier-2004-equr0400186a)
 - [Arrêté du 3 mars 2004 (AGRP0400659A)](arrete-du-3-mars-2004-agrp0400659a)
 - [Arrêté du 3 mars 2004 (DEFP0400218A)](arrete-du-3-mars-2004-defp0400218a)
 - [Arrêté du 3 mars 2004 (INTF0400158A)](arrete-du-3-mars-2004-intf0400158a)

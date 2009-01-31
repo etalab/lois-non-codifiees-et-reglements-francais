@@ -801,7 +801,6 @@
 - [Arrêté du 21 octobre 2008 (MLVU0824006A)](arrete-du-21-octobre-2008-mlvu0824006a)
 - [Arrêté du 21 mai 2008 (IMIK0809082A)](arrete-du-21-mai-2008-imik0809082a)
 - [Arrêté du 22 août 2008 (AGRG0820452A)](arrete-du-22-aout-2008-agrg0820452a)
-- [Arrêté du 22 août 2008 (DEVR0819707A)](arrete-du-22-aout-2008-devr0819707a)
 - [Arrêté du 22 août 2008 (IOCB0819629A)](arrete-du-22-aout-2008-iocb0819629a)
 - [Arrêté du 22 août 2008 (JUSB0768621A)](arrete-du-22-aout-2008-jusb0768621a)
 - [Arrêté du 22 août 2008 (SJSH0815584A)](arrete-du-22-aout-2008-sjsh0815584a)
