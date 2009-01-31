@@ -1,8 +1,6 @@
 # Article Annexe I
 
-**LIAISONS RÉGULIÈRES DE PASSAGERS,
-
-DE COURRIER ET DE FRET**
+LIAISONS RÉGULIÈRES DE PASSAGERS, DE COURRIER ET DE FRET
 
 1. Liaisons entre la France métropolitaine et les collectivités territoriales d'outre-mer associées à la Communauté européenne
 
@@ -400,6 +398,8 @@ Maurice (jusqu'au 31 décembre 2012)
 
 Paris-Maurice.
 
+Paris-Rodrigue.
+
 Mauritanie (jusqu'au 31 décembre 2012)
 
 Paris-Nouakchott.
@@ -641,6 +641,14 @@ Fort-de-France-Caracas.
 Madagascar (jusqu'au 31 décembre 2012)
 
 Réunion-Antananarivo.
+
+Saint-Denis de la Réunion-Maurice (exclusivement dans le cadre de l'article R. 330-9 du code de l'aviation civile).
+
+Saint-Denis de la Réunion-Rodrigue (exclusivement dans le cadre de l'article R. 330-9 du code de l'aviation civile).
+
+Saint-Pierre de la Réunion-Maurice (exclusivement dans le cadre de l'article R. 330-9 du code de l'aviation civile).
+
+Saint-Pierre de la Réunion-Rodrigue (exclusivement dans le cadre de l'article R. 330-9 du code de l'aviation civile).
 
 2.4. De/vers Mayotte
 
