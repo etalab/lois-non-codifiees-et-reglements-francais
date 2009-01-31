@@ -1,0 +1,3 @@
+# Article 2
+
+Pour les entrepreneurs de travaux forestiers et les exploitants agricoles qui à la date de publication du présent décret exercent régulièrement leur activité au regard de la levée de présomption de salariat, la caisse de mutualité sociale agricole à laquelle sont affiliés les intéressés établit, sur demande de ces derniers, l'attestation mentionnée aux premier et deuxième alinéas de l'article D. 722-3-1 du code rural, dans un délai de soixante jours suivant la date de publication du présent décret. Une attestation est établie dans les mêmes conditions pour les entrepreneurs de travaux forestiers redevables de la cotisation de solidarité prévue à l'article L. 731-23 du même code.
