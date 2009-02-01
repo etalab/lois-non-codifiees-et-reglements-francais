@@ -1,3 +1,0 @@
-# Article 2
-
-La mission de tutelle des écoles des mines prévue à l'article 3 du décret du 9 mai 2007 susvisé est responsable de l'ensemble des tâches de tutelle administrative des écoles des mines, de leurs groupements et de leurs filiales. Elle prépare les actes administratifs les concernant. Elle propose la répartition des ressources budgétaires et l'affectation de personnel aux écoles, en tenant compte des orientations stratégiques validées par le vice-président du Conseil général des mines. En liaison avec les services gestionnaires compétents, elle propose la politique de gestion des ressources humaines des écoles et veille à sa mise en oeuvre.
