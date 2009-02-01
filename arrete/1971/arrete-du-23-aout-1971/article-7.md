@@ -29,3 +29,5 @@ vingt minutes environ après vingt minutes de préparation ; coefficient 1) ;
 3° Critique d'une leçon de conduite donnée par un moniteur à bord d'un véhicule (durée : trente minutes de leçon sur véhicule ; quinze minutes environ d'exposé critique après quinze minutes de préparation ; coefficient 3).
 
 Nul ne pourra être déclaré admis à l'examen s'il ne réunit un total de 144 points sur 240 points.
+
+En cas d'échec ou d'absence aux épreuves d'admission à compter de la session de 2008, les candidats conservent le bénéfice de leur réussite à l'admissibilité pour les deux sessions suivantes.
