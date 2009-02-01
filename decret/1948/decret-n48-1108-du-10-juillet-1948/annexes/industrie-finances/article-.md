@@ -154,9 +154,18 @@
 <p>Ingénieur général des mines</p>
 </td>
 <td valign="top" width="113">
-<p align="center">HEB - HED (HEE)</p>
+<p align="center">HEB - HED </p>
 </td>
 <td valign="top" width="151">
+<br/>
+</td>
+</tr>
+<tr>
+<td/>
+<td>
+<p align="center"> HEE</p>
+</td>
+<td>
 <p>Echelon spécial</p>
 </td>
 </tr>
