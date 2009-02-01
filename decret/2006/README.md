@@ -151,6 +151,7 @@
 - [Décret n°2006-1604 du 14 décembre 2006 (BUDF0600059D)](decret-n2006-1604-du-14-decembre-2006-budf0600059d)
 - [Décret n°2006-1606 du 14 décembre 2006 (INDI0609038D)](decret-n2006-1606-du-14-decembre-2006-indi0609038d)
 - [Décret n°2006-1608 du 14 décembre 2006 (DEVN0640055D)](decret-n2006-1608-du-14-decembre-2006-devn0640055d)
+- [Décret n°2006-440 du 14 avril 2006 (SOCC0610906D)](decret-n2006-440-du-14-avril-2006-socc0610906d)
 - [Décret du 15 février 2006 (AGRP0502883D)](decret-du-15-fevrier-2006-agrp0502883d)
 - [Décret n°2006-1385 du 15 novembre 2006 (EQUA0601805D)](decret-n2006-1385-du-15-novembre-2006-equa0601805d)
 - [Décret n°2006-1387 du 15 novembre 2006 (ECOP0600617D)](decret-n2006-1387-du-15-novembre-2006-ecop0600617d)
