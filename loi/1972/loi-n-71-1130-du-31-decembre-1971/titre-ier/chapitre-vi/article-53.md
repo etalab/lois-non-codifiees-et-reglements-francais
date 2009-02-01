@@ -16,9 +16,9 @@ Ils présentent notamment :
 
 6° La procédure de règlement des contestations concernant le paiement des frais et honoraires des avocats ;
 
-7° et 8° - Alinéas supprimés.
+7° et 8°-Alinéas supprimés.
 
-9° Les conditions d'application de l'article 27 et, notamment, les conditions des garanties, les modalités du contrôle et les conditions dans lesquelles les avocats reçoivent des fonds, effets ou valeurs pour le compte de leurs clients, les déposent dans une caisse créée obligatoirement à cette fin par chaque barreau ou en commun par plusieurs barreaux et en effectuent le règlement;
+9° Les conditions d'application de l'article 27 et, notamment, les conditions des garanties, les modalités du contrôle et les conditions dans lesquelles les avocats reçoivent des fonds, effets ou valeurs pour le compte de leurs clients, les déposent , sauf lorsqu'ils agissent en qualité de fiduciaire, dans une caisse créée obligatoirement à cette fin par chaque barreau ou en commun par plusieurs barreaux et en effectuent le règlement ;
 
 10° Les conditions de délivrance d'un certificat de spécialisation et les cas et les conditions dans lesquels une mention de spécialisation pourra être adjointe à la dénomination d'avocat et les dérogations qui pourront y être apportées ;
 
