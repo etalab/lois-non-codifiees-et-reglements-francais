@@ -32,7 +32,7 @@ En application de l'article 3 du décret n° 2008-1314 du 12 décembre 2008 et d
 
 ― chef du bureau des invalidités, accidents du travail et maladies professionnelles à la direction des ressources humaines du ministère de la défense ;
 
-― secrétaire général de la direction des travaux maritimes de Toulon ;
+― secrétaire général de la direction régionale du service d'infrastructure de la défense de Toulon ;
 
 ― adjoint au sous-directeur de la réglementation et de la gestion du service national à la direction du service national ;
 
