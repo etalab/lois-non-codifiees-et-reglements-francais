@@ -6,4 +6,6 @@ a) A toute personne à l'égard de laquelle a été prononcée une mesure défin
 
 b) Aux administrateurs judiciaires et mandataires judiciaires au redressement et à la liquidation des entreprises ayant fait l'objet d'une décision de radiation de la liste prévue aux articles L. 811-12 et L. 812-9 du code de commerce ;
 
-c) Aux membres et anciens membres des professions libérales soumises à un statut législatif ou réglementaire ou dont le titre est protégé ayant fait l'objet d'une décision définitive prononçant une interdiction d'exercer d'une durée au moins égale à six mois.
+c) Aux membres et anciens membres des professions libérales soumises à un statut législatif ou réglementaire ou dont le titre est protégé ayant fait l'objet d'une décision définitive prononçant une interdiction d'exercer d'une durée au moins égale à six mois ;
+
+d) A toute personne morale dont les associés ou actionnaires détenant au moins 25 % des parts ou des droits de vote ont fait l'objet d'une condamnation irrévocable depuis moins de dix ans pour les infractions visées à l'article 9.

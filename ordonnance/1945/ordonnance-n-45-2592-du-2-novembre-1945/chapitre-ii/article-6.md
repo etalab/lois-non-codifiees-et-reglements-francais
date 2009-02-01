@@ -10,7 +10,7 @@ La chambre départementale a pour attribution :
 
 4° D'examiner toutes réclamations de la part des tiers contre les huissiers à l'occasion de l'exercice de leur profession, et notamment en ce qui concerne la taxe des frais, et de réprimer par voie disciplinaire, les infractions, sans préjudice de l'action devant les tribunaux, s'il y a lieu ;
 
-5° [*alinéa abrogé*] ;
+5° De vérifier le respect par les huissiers de justice de leurs obligations prévues par le chapitre Ier du titre VI du livre V du code monétaire et financier en matière de lutte contre le blanchiment des capitaux et le financement du terrorisme et de se faire communiquer, dans des conditions fixées par décret en Conseil d'Etat, les documents relatifs au respect de ces obligations ;
 
 6° De donner son avis, lorsqu'elle en est requise :
 

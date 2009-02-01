@@ -12,7 +12,7 @@ La chambre de discipline a pour attributions :
 
 5° D'examiner toutes réclamations de la part des tiers contre les commissaires-priseurs judiciaires , à l'occasion de l'exercice de leur profession, et de réprimer les infractions par voie disciplinaire, sans préjudice de l'action devant les tribunaux, s'il y a lieu ;
 
-6° De vérifier la tenue de la comptabilité dans les études de commissaires-priseurs judiciaires ;
+6° De vérifier la tenue de la comptabilité dans les études de commissaires-priseurs judiciaires ainsi que le respect par les commissaires-priseurs judiciaires de leurs obligations prévues par le chapitre Ier du titre VI du livre V du code monétaire et financier en matière de lutte contre le blanchiment des capitaux et le financement du terrorisme en se faisant communiquer, dans des conditions fixées par décret pris en Conseil d'Etat, les documents relatifs au respect de ces obligations ;
 
 7° De donner son avis, toutes les fois qu'elle en est requise, sur les actions en dommages-intérêts intentées contre les commissaires-priseurs judiciaires en raison d'actes de leurs fonctions, sur les difficultés concernant la taxe et le règlement des frais, ainsi que sur les différends soumis à cet égard au tribunal de grande instance ;
 

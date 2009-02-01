@@ -28,6 +28,8 @@ La formation restreinte peut renvoyer l'examen de l'affaire à la formation plé
 
 11° De veiller à ce que les avocats aient satisfait à l'obligation de formation continue prévue par l'article 14-2 ;
 
-12° De collaborer avec les autorités compétentes des Etats membres de la Communauté européenne ou des autres Etats parties à l'accord sur l'Espace économique européen pour faciliter l'application de la directive 2005 / 36 / CE du Parlement européen et du Conseil du 7 septembre 2005 relative à la reconnaissance des qualifications professionnelles.
+12° De collaborer avec les autorités compétentes des Etats membres de la Communauté européenne ou des autres Etats parties à l'accord sur l'Espace économique européen pour faciliter l'application de la directive 2005 / 36 / CE du Parlement européen et du Conseil du 7 septembre 2005 relative à la reconnaissance des qualifications professionnelles ;
+
+13° De vérifier le respect par les avocats de leurs obligations prévues par le chapitre Ier du titre VI du livre V du code monétaire et financier en matière de lutte contre le blanchiment des capitaux et le financement du terrorisme et de se faire communiquer, dans des conditions fixées par décret en Conseil d'Etat, les documents relatifs au respect de ces obligations.
 
 Les contrats de collaboration ou de travail conclus par les avocats sont communiqués au conseil de l'ordre qui peut, dans des conditions fixées par décret en Conseil d'Etat, mettre en demeure les avocats de modifier les contrats dont les stipulations seraient contraires aux dispositions de l'article 7.

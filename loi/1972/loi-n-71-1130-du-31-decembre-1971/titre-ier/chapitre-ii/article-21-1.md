@@ -7,3 +7,5 @@ Le Conseil national des barreaux est, en outre, chargé de définir les principe
 Il est en outre chargé d'arrêter la liste des personnes susceptibles de bénéficier de la directive 2005 / 36 / CE du 7 septembre 2005 précitée et celle des candidats admis à subir les épreuves de l'examen de contrôle des connaissances prévu au dernier alinéa de l'article 11.
 
 Lorsque le Conseil national des barreaux siège en matière de formation professionnelle, des magistrats et des membres de l'enseignement supérieur lui sont adjoints.
+
+Le Conseil national des barreaux peut, dans les conditions prévues par décret en Conseil d'Etat, assister le conseil de l'ordre dans l'exercice de sa mission définie au 13° de l'article 17.

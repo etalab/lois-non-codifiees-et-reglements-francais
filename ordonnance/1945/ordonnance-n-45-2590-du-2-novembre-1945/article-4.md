@@ -22,7 +22,9 @@ b) Sur les difficultés concernant le règlement des honoraires et vacations des
 
 8° De recevoir en dépôt les états des minutes dépendant des études de notaires supprimées ;
 
-9° De préparer le budget de la compagnie et d'en proposer le vote à l'assemblée générale, de gérer la bourse commune et de poursuivre le recouvrement des cotisations.
+9° De préparer le budget de la compagnie et d'en proposer le vote à l'assemblée générale, de gérer la bourse commune et de poursuivre le recouvrement des cotisations ;
+
+10° De vérifier le respect par les notaires de leurs obligations prévues par le chapitre Ier du titre VI du livre V du code monétaire et financier en matière de lutte contre le blanchiment des capitaux et le financement du terrorisme et de se faire communiquer, dans des conditions fixées par décret en Conseil d'Etat, les documents relatifs au respect de ces obligations.
 
 La chambre des notaires, siégeant en comité mixte, a pour attributions les questions relatives :
 
