@@ -1,3 +1,0 @@
-# Article 18
-
-La commission administrative paritaire du corps des ingénieurs des mines est placée auprès du vice-président du Conseil général des mines. Les représentants de l'administration sont nommés par le ministre chargé de l'industrie, après avis des ministres intéressés. Le nombre des représentants de chaque ministre intéressé est proportionnel à celui des ingénieurs des mines en fonction dans son département. Toutefois, il pourra n'être désigné qu'un seul représentant pour plusieurs ministres lorsque le nombre d'ingénieurs des mines rattaché à chacun d'entre eux est insuffisant pour permettre la désignation d'un représentant par ministre.

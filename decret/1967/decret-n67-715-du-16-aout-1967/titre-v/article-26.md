@@ -1,3 +1,0 @@
-# Article 26
-
-Par dérogation aux dispositions de l'article 7, l'âge minimum imposé aux candidats aux cinq examens professionnels qui seront ouverts immédiatement après la date d'entrée en vigueur du présent décret sera fixé à trente-cinq ans pour le premier de ces examens, trente-six ans pour le deuxième, trente-sept ans pour le troisième, trente-huit ans pour le quatrième et trente-neuf ans pour le cinquième ; en outre, l'ancienneté de services effectifs dans la branche des télécommunications exigée des candidats sera fixée à douze ans pour le premier de ces examens, treize ans pour le deuxième et quatorze ans pour le troisième.
