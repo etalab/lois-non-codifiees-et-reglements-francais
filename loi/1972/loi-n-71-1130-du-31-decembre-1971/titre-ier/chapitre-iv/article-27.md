@@ -6,4 +6,4 @@ Il doit également être justifié d'une assurance au profit de qui il appartien
 
 Le bâtonnier informe le procureur général des garanties constituées.
 
-Les responsabilités inhérentes aux activités visées au deuxième alinéa de l'article 6 et à l'article 6 bis sont supportées exclusivement par les avocats qui les exercent; elles doivent faire l'objet d'assurances spéciales qui sont contractées à titre individuel ou collectif, dans les conditions fixées par la loi du 13 juillet 1930 relative au contrat d'assurance.
+Les responsabilités inhérentes à l'activité de fiduciaire et aux activités visées au deuxième alinéa de l'article 6 et à l'article 6 bis sont supportées exclusivement par les avocats qui les exercent ; elles doivent faire l'objet d'assurances spéciales qui sont contractées à titre individuel ou collectif, dans les conditions fixées par la loi du 13 juillet 1930 relative au contrat d'assurance.
