@@ -228,7 +228,6 @@
 - [Décret n°97-488 du 12 mai 1997 (TASS9721207D)](decret-n97-488-du-12-mai-1997-tass9721207d)
 - [Décret n°97-489 du 12 mai 1997 (MCCB9700131D)](decret-n97-489-du-12-mai-1997-mccb9700131d)
 - [Décret n°2000-513 du 13 juin 2000 (INTC0000127D)](decret-n2000-513-du-13-juin-2000-intc0000127d)
-- [Décret n°96-1092 du 13 décembre 1996 (MIPP9600415D)](decret-n96-1092-du-13-decembre-1996-mipp9600415d)
 - [Décret n°97-1040 du 13 novembre 1997 (ECOA9710005D)](decret-n97-1040-du-13-novembre-1997-ecoa9710005d)
 - [Décret n°97-1056 du 13 novembre 1997 (MESS9723266D)](decret-n97-1056-du-13-novembre-1997-mess9723266d)
 - [Décret n°97-1061 du 13 novembre 1997 (ECOB9720002D)](decret-n97-1061-du-13-novembre-1997-ecob9720002d)
