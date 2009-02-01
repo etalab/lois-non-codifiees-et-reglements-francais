@@ -381,7 +381,7 @@ Les montants ci-dessous sont exprimés en francs jusqu'à l'année 2001 et en eu
 <tr>
 <td align="center">1991<br/>
 </td>
-<td align="center">130 320<br/>
+<td align="center">103 320<br/>
 </td>
 </tr>
 <tr>
