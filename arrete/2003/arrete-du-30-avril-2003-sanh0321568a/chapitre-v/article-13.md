@@ -42,7 +42,7 @@ Ces sommes sont réduites de moitié pour les demi-périodes et le samedi après
 
 Les indemnités mentionnées aux 1 et 2 ci-dessus ne peuvent se cumuler pour une même période de temps de travail.
 
-B. - Les personnels enseignants et hospitaliers  :
+B. - Les personnels enseignants et hospitaliers :
 
 Indemnité de garde correspondant au temps de travail effectué, au titre de la permanence sur place, au-delà des obligations de service, la nuit, le samedi après-midi, le dimanche ou jour férié :
 
@@ -64,17 +64,17 @@ pour les périodes effectuées la nuit, le dimanche ou jour férié.
 
 Ces sommes sont réduites de moitié pour les demi-périodes et le samedi après-midi.
 
-C. ― Les  assistants associés et les praticiens attachés associés :
+C. ― Les assistants associés et les praticiens attachés associés :
 
-1.  Indemnité de sujétion correspondant au temps de travail effectué dans le cadre  des obligations de service hebdomadaires, la nuit, le samedi après-midi, le  dimanche ou jour férié :
+1. Indemnité de sujétion correspondant au temps de travail effectué dans le cadre des obligations de service hebdomadaires, la nuit, le samedi après-midi, le dimanche ou jour férié :
 
 Montant pour :
 
-―  une nuit, un dimanche et jour férié : 205,40 € ;
+― une nuit, un dimanche et jour férié : 214,60 € ;
 
-― une  demi-nuit, un samedi après-midi : 102,70 €.
+― une demi-nuit, un samedi après-midi : 107,30 €.
 
-Afin de maintenir  la situation indemnitaire de certains praticiens attachés associés et assistants  associés en fonction à la date du 30 janvier 2002, le montant de l'indemnité de  sujétion mentionné ci-dessus peut, au plus tard jusqu'au 31 décembre 2011, à  titre exceptionnel et dérogatoire, être majoré à concurrence d'un montant de 238  euros pour une nuit, un dimanche ou jour férié et de 119 euros pour une  demi-nuit ou un samedi après-midi.
+Afin de maintenir la situation indemnitaire de certains praticiens attachés associés et assistants associés en fonction à la date du 30 janvier 2002, le montant de l'indemnité de sujétion mentionné ci-dessus peut, au plus tard jusqu'au 31 décembre 2011, à titre exceptionnel et dérogatoire, être majoré à concurrence d'un montant de 238 euros pour une nuit, un dimanche ou jour férié et de 119 euros pour une demi-nuit ou un samedi après-midi.
 
 2. Indemnité forfaitaire pour toute période de temps de travail additionnel accompli, de jour et de nuit, sur la base du volontariat, au-delà des obligations de service hebdomadaires :
 
