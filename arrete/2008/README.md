@@ -1215,7 +1215,6 @@
 - [Arrêté du 30 juin 2008 (DEVT0814250A)](arrete-du-30-juin-2008-devt0814250a)
 - [Arrêté du 30 juin 2008 (DEVT0816080A)](arrete-du-30-juin-2008-devt0816080a)
 - [Arrêté du 30 juin 2008 (ECEI0816129A)](arrete-du-30-juin-2008-ecei0816129a)
-- [Arrêté du 30 juin 2008 (IOCC0811190A)](arrete-du-30-juin-2008-iocc0811190a)
 - [Arrêté du 30 juin 2008 (IOCC0814931A)](arrete-du-30-juin-2008-iocc0814931a)
 - [Arrêté du 30 juin 2008 (MAEA0815864A)](arrete-du-30-juin-2008-maea0815864a)
 - [Arrêté du 30 juin 2008 (MCCF0813051A)](arrete-du-30-juin-2008-mccf0813051a)
