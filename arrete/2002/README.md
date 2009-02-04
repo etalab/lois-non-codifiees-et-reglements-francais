@@ -187,7 +187,6 @@
 - [Arrêté du 6 juin 2002 (SANH0221937A)](arrete-du-6-juin-2002-sanh0221937a)
 - [Arrêté du 6 juin 2002 (SANH0221938A)](arrete-du-6-juin-2002-sanh0221938a)
 - [Arrêté du 6 juin 2002 (SANH0221939A)](arrete-du-6-juin-2002-sanh0221939a)
-- [Arrêté du 6 mars 2002 (AGRG0200488A)](arrete-du-6-mars-2002-agrg0200488a)
 - [Arrêté du 6 mars 2002 (AGRS0200376A)](arrete-du-6-mars-2002-agrs0200376a)
 - [Arrêté du 6 mars 2002 (MESH0220905A)](arrete-du-6-mars-2002-mesh0220905a)
 - [Arrêté du 6 novembre 2001 (ECOB0120018A)](arrete-du-6-novembre-2001-ecob0120018a)
