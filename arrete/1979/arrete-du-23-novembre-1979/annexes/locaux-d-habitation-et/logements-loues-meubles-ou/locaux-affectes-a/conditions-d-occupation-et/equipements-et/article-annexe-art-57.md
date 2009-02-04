@@ -4,7 +4,7 @@
 
 Dans ces locaux, chaque unité de location doit avoir une porte indépendante.
 
-57-2 - Les chambres, pour être autorisées à la location en meublé ou en garni, ou à l'usage d'hôtel, doivent répondre aux conditions minimales ci-après :
+57-2 - Les chambres à la location en meublé ou en garni, ou à l'usage d'hôtel, doivent répondre aux conditions minimales ci-après :
 
 1° Avoir une hauteur minimale sous plafond de 2,20 mètres ;
 
