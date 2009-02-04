@@ -152,7 +152,6 @@
 - [Arrêté du 6 août 2008 (SJSP0819920A)](arrete-du-6-aout-2008-sjsp0819920a)
 - [Arrêté du 6 janvier 1986](arrete-du-6-janvier-1986)
 - [Arrêté du 6 juin 2008 (DEFD0816650A)](arrete-du-6-juin-2008-defd0816650a)
-- [Arrêté du 6 juin 2008 (DEFD0817951A)](arrete-du-6-juin-2008-defd0817951a)
 - [Arrêté du 6 novembre 2008 (IMIG0823305A)](arrete-du-6-novembre-2008-imig0823305a)
 - [Arrêté du 6 novembre 2008 (IOCA0816892A)](arrete-du-6-novembre-2008-ioca0816892a)
 - [Arrêté du 6 novembre 2008 (IOCB0812929A)](arrete-du-6-novembre-2008-iocb0812929a)
