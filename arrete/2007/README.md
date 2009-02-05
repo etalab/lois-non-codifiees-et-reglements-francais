@@ -126,7 +126,6 @@
 - [Arrêté du 4 septembre 2007 (MTSS0762647A)](arrete-du-4-septembre-2007-mtss0762647a)
 - [Arrêté du 4 septembre 2008 (DEVA0771506A)](arrete-du-4-septembre-2008-deva0771506a)
 - [Arrêté du 4 mai 1992 (AGRP9200883A)](arrete-du-4-mai-1992-agrp9200883a)
-- [Arrêté du 4 mai 2007 (AGRM0753332A)](arrete-du-4-mai-2007-agrm0753332a)
 - [Arrêté du 4 mai 2007 (AGRS0751320A)](arrete-du-4-mai-2007-agrs0751320a)
 - [Arrêté du 4 mai 2007 (AGRS0753692A)](arrete-du-4-mai-2007-agrs0753692a)
 - [Arrêté du 4 mai 2007 (BUDB0750054A)](arrete-du-4-mai-2007-budb0750054a)
