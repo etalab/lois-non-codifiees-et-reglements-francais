@@ -26,6 +26,8 @@ Rectification d'erreurs matérielles par requête : 50,00
 
 Requête en poursuite de procédure 100,00
 
+Requête en limitation : 250, 00
+
 Délivrance et impression du fascicule : 86,00
 
 Redevance annuelle de maintien en vigueur d'un brevet ou d'un certificat d'utilité :
@@ -210,6 +212,6 @@ Conversion du capital social d'une société à l'euro près :
 
 - acte modificatif : Gratuit
 
-<font color="#808080">
+<font color="#808080" size="1">
 <em>(1) Redevance non exigible lorsque le recours en restauration ou la requête en relevé de déchéance sont justifiés par une erreur autre que celle du demandeur ou celle de son mandataire. </em>
 </font>
