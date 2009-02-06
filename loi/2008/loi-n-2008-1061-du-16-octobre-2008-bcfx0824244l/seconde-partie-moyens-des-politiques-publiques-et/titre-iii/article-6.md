@@ -28,7 +28,7 @@ Peuvent être mobilisés en application du présent article :
 
 4° Les prêts aux entreprises bénéficiant au moins du quatrième meilleur échelon de qualité de crédit établi par un organisme externe d'évaluation de crédit reconnu par la Commission bancaire conformément à l'article L. 511-44 du même code ;
 
-5° Les prêts à la consommation consentis aux particuliers résidant en France ;
+5° Les prêts à la consommation consentis aux particuliers résidant en France ou, selon des modalités à définir par la société mentionnée au premier alinéa, ceux consentis à des particuliers résidant dans d'autres Etats membres de l'Union européenne ;
 
 6° Les crédits à l'exportation assurés ou garantis par une agence de crédit export d'un Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen, des Etats-Unis d'Amérique, de la Confédération suisse, du Japon, du Canada, de l'Australie ou de la Nouvelle-Zélande.
 

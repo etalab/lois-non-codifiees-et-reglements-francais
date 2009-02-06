@@ -5,3 +5,5 @@ La garantie de l'Etat est octroyée à titre onéreux à la Caisse centrale de r
 La Caisse centrale de réassurance n'est financièrement exposée au titre de ces opérations que pour autant que l'assureur-crédit, cosignataire du traité de réassurance, conserve une exposition au risque sur les entreprises concernées.
 
 Un décret précise les conditions d'exercice de cette garantie, notamment la part minimale de risque que l'assureur-crédit cosignataire du traité de réassurance conserve à sa charge.
+
+La garantie de l'Etat mentionnée au présent article est accordée pour un montant maximal de 20 milliards d'euros.
