@@ -485,7 +485,6 @@
 - [Arrêté du 15 avril 1996 (ECOT9610268A)](arrete-du-15-avril-1996-ecot9610268a)
 - [Arrêté du 15 avril 1996 (EQUS9600534A)](arrete-du-15-avril-1996-equs9600534a)
 - [Arrêté du 15 décembre 1995 (INDB9501235A)](arrete-du-15-decembre-1995-indb9501235a)
-- [Arrêté du 15 février 1996 (DEFA9601171A)](arrete-du-15-fevrier-1996-defa9601171a)
 - [Arrêté du 15 février 1996 (DEFT9601191A)](arrete-du-15-fevrier-1996-deft9601191a)
 - [Arrêté du 15 février 1996 (DEFT9601192A)](arrete-du-15-fevrier-1996-deft9601192a)
 - [Arrêté du 15 février 1996 (MENL9502764A)](arrete-du-15-fevrier-1996-menl9502764a)
