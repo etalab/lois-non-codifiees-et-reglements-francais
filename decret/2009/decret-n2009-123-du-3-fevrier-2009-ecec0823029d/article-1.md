@@ -1,0 +1,3 @@
+# Article 1
+
+Les dispositions des articles 2 à 5 et 18 à 20 du règlement du 23 février 2005 susvisé ainsi que les annexes auxquelles ces articles renvoient, dans leur rédaction issue du règlement du Parlement européen et du Conseil n° 299/2008 du 11 mars 2008 et des règlements de la Commission n° 178/2006 du 1er février 2006, n° 149/2008 du 29 janvier 2008, n° 260/2008 du 18 mars 2008 et n° 839/2008 du 31 juillet 2008, constituent les mesures d'exécution prévues à l'article L. 214-1 du code de la consommation. Il en est de même des dispositions des règlements communautaires, ayant le même objet, qui les modifieraient ou seraient pris pour leur application.
