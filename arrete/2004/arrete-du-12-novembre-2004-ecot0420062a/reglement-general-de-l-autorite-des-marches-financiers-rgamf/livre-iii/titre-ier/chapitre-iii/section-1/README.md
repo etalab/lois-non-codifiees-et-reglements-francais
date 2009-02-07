@@ -3,6 +3,8 @@
 
 - [Sous-section 1 : Dispositif de conformité](sous-section-1)
 - [Sous-section 2 : Responsabilités des dirigeants et des instances de surveillance](sous-section-2)
+- [Sous-section 2 bis : Vérification du niveau de  connaissances
+de certaines personnes](sous-section-2-bis)
 - [Sous-section 3 : Traitement des réclamations](sous-section-3)
 - [Sous-section 4 : Transactions personnelles](sous-section-4)
 - [Sous-section 5 : Protection des avoirs des clients](sous-section-5)
