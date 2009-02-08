@@ -271,7 +271,6 @@
 - [Arrêté du 15 février 2001 (EQUT0100465A)](arrete-du-15-fevrier-2001-equt0100465a)
 - [Arrêté du 15 février 2001 (MCCB0100095A)](arrete-du-15-fevrier-2001-mccb0100095a)
 - [Arrêté du 15 février 2001 (MENS0100287A)](arrete-du-15-fevrier-2001-mens0100287a)
-- [Arrêté du 15 janvier 2001 (ATEN0100019A)](arrete-du-15-janvier-2001-aten0100019a)
 - [Arrêté du 15 janvier 2001 (ATEN0100034A)](arrete-du-15-janvier-2001-aten0100034a)
 - [Arrêté du 15 janvier 2001 (DEFP0101072A)](arrete-du-15-janvier-2001-defp0101072a)
 - [Arrêté du 15 janvier 2001 (ECOB0150003A)](arrete-du-15-janvier-2001-ecob0150003a)

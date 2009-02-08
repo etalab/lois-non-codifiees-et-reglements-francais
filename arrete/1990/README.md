@@ -531,7 +531,6 @@
 - [Arrêté du 21 septembre 1990 (SPSH9001848A)](arrete-du-21-septembre-1990-spsh9001848a)
 - [Arrêté du 21 septembre 1990 (SPSS9002068A)](arrete-du-21-septembre-1990-spss9002068a)
 - [Arrêté du 21 mai 1990 (ECOT9051008A)](arrete-du-21-mai-1990-ecot9051008a)
-- [Arrêté du 21 mai 1990 (SPSS9001078A)](arrete-du-21-mai-1990-spss9001078a)
 - [Arrêté du 21 mai 1990 (SPSS9001079A)](arrete-du-21-mai-1990-spss9001079a)
 - [Arrêté du 21 mai 1990 (TEFT9003479A)](arrete-du-21-mai-1990-teft9003479a)
 - [Arrêté du 22 août 1990 (AGRS9001819A)](arrete-du-22-aout-1990-agrs9001819a)
