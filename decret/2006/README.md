@@ -127,6 +127,7 @@
 - [Décret n°2006-1381 du 13 novembre 2006 (SOCN0611993D)](decret-n2006-1381-du-13-novembre-2006-socn0611993d)
 - [Décret n°2006-1382 du 13 novembre 2006 (MCCT0600797D)](decret-n2006-1382-du-13-novembre-2006-mcct0600797d)
 - [Décret n°2006-155 du 13 février 2006 (BUDD0570027D)](decret-n2006-155-du-13-fevrier-2006-budd0570027d)
+- [Décret n°2006-156 du 13 février 2006 (BUDD0570029D)](decret-n2006-156-du-13-fevrier-2006-budd0570029d)
 - [Décret n°2006-1584 du 13 décembre 2006 (PRMX0609766D)](decret-n2006-1584-du-13-decembre-2006-prmx0609766d)
 - [Décret n°2006-1585 du 13 décembre 2006 (SANH0624847D)](decret-n2006-1585-du-13-decembre-2006-sanh0624847d)
 - [Décret n°2006-1591 du 13 décembre 2006 (SANS0624448D)](decret-n2006-1591-du-13-decembre-2006-sans0624448d)
