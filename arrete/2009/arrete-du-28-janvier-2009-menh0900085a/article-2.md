@@ -1,0 +1,3 @@
+# Article 2
+
+Un centre d'épreuves est ouvert à l'administration centrale et dans chaque académie ou vice-rectorat où les concours sont organisés. Les candidats peuvent, le cas échéant, au titre d'une même année, faire acte de candidature auprès d'une ou plusieurs académies. La liste des candidats autorisés à concourir est arrêtée par le ministre chargé de l'éducation nationale pour les concours ouverts à l'administration centrale, le recteur d'académie ou le vice-recteur pour les concours ouverts dans les académies. Pour l'académie de Paris, cette liste est arrêtée par le directeur du service interacadémique des examens et concours, créé par le décret n° 82-245 du 15 mars 1982.
