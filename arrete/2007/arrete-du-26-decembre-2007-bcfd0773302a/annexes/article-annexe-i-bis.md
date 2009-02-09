@@ -8,7 +8,7 @@ Déclaration des quantités de tabacs manufacturés
 
 livrés aux débitants de Corse
 
-**I. ― Opérations sur des débits :**
+I. ― Opérations sur des débits :
 
 1. Livraisons de cigares et cigarillos du mois (1) :
 
@@ -22,7 +22,7 @@ euros
 
 euros
 
-4. Remise brute due aux débitants au titre des autres produits du tabac (10,753 %) :
+4. Remise brute due aux débitants au titre des autres produits du tabac (10,920 %) :
 
 euros
 
@@ -30,7 +30,7 @@ euros
 
 euros
 
-6. Remise nette due aux débitants au titre des autres produits du tabac (8,167 %) :
+6. Remise nette due aux débitants au titre des autres produits du tabac (8,330 %) :
 
 euros
 
@@ -56,7 +56,7 @@ euros
 
 euros
 
-**II. ― Montant à payer (ligne 7 + ligne 8) :**
+II. ― Montant à payer (ligne 7 + ligne 8) :
 
 La présente déclaration est certifiée conforme au contenu de la déclaration mensuelle des livraisons transmise au centre informatique douanier.
 
@@ -66,6 +66,4 @@ Signature
 
 Cette déclaration doit être adressée, accompagnée du moyen de paiement, pour le 25 du mois suivant celui au titre duquel elle a été établie, à la recette régionale des douanes de Paris-Ile-de-France,14, rue Yves-Toudic,75010 Paris.
 
-<font color="#808080">
-<em>(1) Il s'agit des livraisons brutes moins les corrections mais sans les reprises.</em>
-</font>
+(1) Il s'agit des livraisons brutes moins les corrections mais sans les reprises.
