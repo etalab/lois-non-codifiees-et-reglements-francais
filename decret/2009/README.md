@@ -16,6 +16,7 @@
 - [Décret n°2009-124 du 4 février 2009 (ECED0901767D)](decret-n2009-124-du-4-fevrier-2009-eced0901767d)
 - [Décret n°2009-126 du 4 février 2009 (BCFB0902440D)](decret-n2009-126-du-4-fevrier-2009-bcfb0902440d)
 - [Décret n°2009-127 du 4 février 2009 (DEFD0901322D)](decret-n2009-127-du-4-fevrier-2009-defd0901322d)
+- [Décret n°65-845 du 4 octobre 1965](decret-n65-845-du-4-octobre-1965)
 - [Décret n°2009-10 du 5 janvier 2009 (JUSJ0817626D)](decret-n2009-10-du-5-janvier-2009-jusj0817626d)
 - [Décret n°2009-11 du 5 janvier 2009 (JUSC0824250D)](decret-n2009-11-du-5-janvier-2009-jusc0824250d)
 - [Décret n°2009-12 du 5 janvier 2009 (DEFH0820791D)](decret-n2009-12-du-5-janvier-2009-defh0820791d)
