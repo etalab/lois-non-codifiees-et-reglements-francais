@@ -28,6 +28,7 @@
 - [Décret n°2009-131 du 6 février 2009 (MCCB0831314D)](decret-n2009-131-du-6-fevrier-2009-mccb0831314d)
 - [Décret n°2009-132 du 6 février 2009 (BCFR0830685D)](decret-n2009-132-du-6-fevrier-2009-bcfr0830685d)
 - [Décret n°2009-133 du 6 février 2009 (BCFD0831068D)](decret-n2009-133-du-6-fevrier-2009-bcfd0831068d)
+- [Décret n°2009-134 du 6 février 2009 (SJSG0823534D)](decret-n2009-134-du-6-fevrier-2009-sjsg0823534d)
 - [Décret n°50-28 du 6 janvier 1950](decret-n50-28-du-6-janvier-1950)
 - [Décret n°2003-1065 du 7 novembre 2003 (ECOP0300751D)](decret-n2003-1065-du-7-novembre-2003-ecop0300751d)
 - [Décret n°2009-14 du 7 janvier 2009 (JUSC0825439D)](decret-n2009-14-du-7-janvier-2009-jusc0825439d)
