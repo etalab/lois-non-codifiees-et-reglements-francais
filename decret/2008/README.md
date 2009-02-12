@@ -753,7 +753,6 @@
 - [Décret n°2008-1203 du 21 novembre 2008 (PRMX0826454D)](decret-n2008-1203-du-21-novembre-2008-prmx0826454d)
 - [Décret n°2008-157 du 21 février 2008 (IOCM0802910D)](decret-n2008-157-du-21-fevrier-2008-iocm0802910d)
 - [Décret n°2008-165 du 21 février 2008 (ECET0770595D)](decret-n2008-165-du-21-fevrier-2008-ecet0770595d)
-- [Décret n°2008-166 du 21 février 2008 (ECET0774791D)](decret-n2008-166-du-21-fevrier-2008-ecet0774791d)
 - [Décret n°2008-274 du 21 mars 2008 (MAEA0773280D)](decret-n2008-274-du-21-mars-2008-maea0773280d)
 - [Décret n°2008-278 du 21 mars 2008 (JUSJ0770656D)](decret-n2008-278-du-21-mars-2008-jusj0770656d)
 - [Décret n°2008-280 du 21 mars 2008 (DEFH0773647D)](decret-n2008-280-du-21-mars-2008-defh0773647d)
