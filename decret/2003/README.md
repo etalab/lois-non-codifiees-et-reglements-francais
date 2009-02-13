@@ -229,7 +229,6 @@
 - [Décret n°2003-981 du 13 octobre 2003 (INDI0320442D)](decret-n2003-981-du-13-octobre-2003-indi0320442d)
 - [Décret n°95-1007 du 13 septembre 1995 (PRMX9500117D)](decret-n95-1007-du-13-septembre-1995-prmx9500117d)
 - [Décret n°2003-430 du 13 mai 2003 (MAEA0220667D)](decret-n2003-430-du-13-mai-2003-maea0220667d)
-- [Décret n°2003-432 du 13 mai 2003 (SANG0321114D)](decret-n2003-432-du-13-mai-2003-sang0321114d)
 - [Décret n°2003-433 du 13 mai 2003 (SANG0321116D)](decret-n2003-433-du-13-mai-2003-sang0321116d)
 - [Décret n°2003-434 du 13 mai 2003 (SANG0321118D)](decret-n2003-434-du-13-mai-2003-sang0321118d)
 - [Décret n°2003-435 du 13 mai 2003 (JUSF0350020D)](decret-n2003-435-du-13-mai-2003-jusf0350020d)
