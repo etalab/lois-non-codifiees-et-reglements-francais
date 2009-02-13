@@ -1478,7 +1478,6 @@
 - [Décret n°2007-637 du 27 avril 2007 (AGRF0700716D)](decret-n2007-637-du-27-avril-2007-agrf0700716d)
 - [Décret n°2007-638 du 27 avril 2007 (PMED0751489D)](decret-n2007-638-du-27-avril-2007-pmed0751489d)
 - [Décret n°98-419 du 27 mai 1998 (AGRA9800653D)](decret-n98-419-du-27-mai-1998-agra9800653d)
-- [Décret du 28 février 2007 (AGRP0700279D)](decret-du-28-fevrier-2007-agrp0700279d)
 - [Décret du 28 février 2007 (SANS0720595D)](decret-du-28-fevrier-2007-sans0720595d)
 - [Décret du 28 mars 2007 (AGRP0700220D)](decret-du-28-mars-2007-agrp0700220d)
 - [Décret du 28 mars 2007 (AGRP0700430D)](decret-du-28-mars-2007-agrp0700430d)

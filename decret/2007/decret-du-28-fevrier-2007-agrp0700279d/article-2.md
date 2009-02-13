@@ -1,5 +1,0 @@
-# Article 2
-
-Pour avoir droit à la dénomination " Vin de pays Vignobles de France ", les vins doivent être issus de vins de pays, obtenus à partir de vendanges récoltées dans les départements suivants : Ain, Allier, Alpes-de-Haute-Provence, Hautes-Alpes, Alpes-Maritimes, Ardèche, Ariège, Aude, Aveyron, Bouches-du-Rhône, Cantal, Charente, Charente-Maritime, Cher, Corrèze, Corse-du-Sud, Haute-Corse, Côte-d'Or, Creuse, Dordogne, Doubs, Drôme, Gard, Haute-Garonne, Gers, Gironde, Hérault, Indre, Indre-et-Loire, Isère, Jura, Landes, Loir-et-Cher, Loire, Haute-Loire, Loire-Atlantique, Loiret, Lot, Lot-et-Garonne, Lozère, Maine-et-Loire, Haute-Marne, Meuse, Nièvre, Puy-de-Dôme, Pyrénées-Atlantiques, Hautes-Pyrénées, Pyrénées-Orientales, Rhône, Haute-Saône, Saône-et-Loire, Sarthe, Savoie, Haute-Savoie, Seine-et-Marne, Deux-Sèvres, Tarn, Tarn-et-Garonne, Var, Vaucluse, Vendée, Vienne, Haute-Vienne, Yonne.
-
-Seuls les vins ayant fait l'objet d'un agrément en vin de pays de département ou en vin de pays de zone, avec indication de cépage ou issus de l'assemblage de tels vins, peuvent prétendre à un agrément en " Vin de pays Vignobles de France ".
