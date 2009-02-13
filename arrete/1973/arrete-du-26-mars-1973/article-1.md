@@ -226,7 +226,7 @@ Adjoint au directeur de la météorologie nationale chef des services climatolog
 
 Départements et territoires d'outre mer
 
-Haut-commissaire de la République dans le Territoire français des Afars et des Issas.
+Haut-commissaire dans le Territoire français des Afars et des Issas.
 
 Justice (grande chancellerie de la Légion d'honneur)
 
@@ -271,7 +271,3 @@ Chef de service de comptabilité des postes et télécommunications, mentionné 
 Ministère de l'industrie et du commerce extérieur :
 
 Chef de mission du ministère de l'industrie et du commerce extérieur mentionné dans le décret n° 92-213 du 4 mars 1992.
-
-Ministère de la santé et des solidarités :
-
-Directeur du fonds de financement de la protection complémentaire de la couverture universelle du risque maladie mentionné dans le décret n° 2003-432 du 13 mai 2003 relatif aux conditions de nomination et d'avancement dans l'emploi de directeur du fonds de financement de la protection complémentaire de la couverture universelle du risque maladie.
