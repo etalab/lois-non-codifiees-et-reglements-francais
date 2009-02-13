@@ -28,8 +28,6 @@ Le bureau enquêtes-accidents-mer (*).
 
 Le bureau d'enquêtes sur les accidents de transport terrestre (*).
 
-Le bureau d'enquêtes et d'analyses pour la sécurité de l'aviation civile (*).
-
 La délégation à l'action foncière et immobilière (DAFI) (rattachée au BVS du SG).
 
 L'institut de formation de l'environnement (rattaché au BVS du SG).
