@@ -1,12 +1,8 @@
 # Article Annexe
 
-A. - **TAXE POUR LE DÉVELOPPEMENT DES INDUSTRIES
+A. - **TAXE POUR LE DÉVELOPPEMENT DES INDUSTRIES DE L'AMEUBLEMENT ET DES INDUSTRIES DU BOIS**
 
-DE L'AMEUBLEMENT ET DES INDUSTRIES DU BOIS**
-
-A-I. - **Produits, activités et prestations
-
-relevant de l'institut technique forêt cellulose bois ameublement**
+A-I. - **Produits, activités et prestations relevant de l'institut technique forêt cellulose bois ameublement**
 
 a) Produits, activités et prestations relevant des industries de l'ameublement :
 
@@ -45,43 +41,57 @@ a) Produits, activités et prestations relevant des industries de l'ameublement 
 </td>
 </tr>
 <tr>
-<td align="center">31. 00. 11 <br/>
+<td align="center">
+<strong>31. 00. 11 <br/>
+</strong>
 </td>
 <td align="left">Sièges avec bâti en métal, à l'exclusion des sièges avec bâti en métal pliants. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">31. 00. 12 <br/>
+<td align="center">
+<strong>31. 00. 12</strong>
+<br/>
 </td>
 <td align="left">Sièges avec bâti en bois. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">31. 00. 13 <br/>
+<td align="center">
+<strong>31. 00. 13</strong>
+<br/>
 </td>
 <td align="left">Autres sièges, à l'exclusion des sièges en matières plastiques synthétiques, des sièges pour enfants pour automobiles et des sièges avec bâti en métal pliants autres que ceux cités en 31. 00. 11. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">31. 00. 14 <br/>
+<td align="center">
+<strong>31. 00. 14</strong>
+<br/>
 </td>
 <td align="left">Parties de sièges, à l'exclusion des parties de sièges avec bâti en métal pliants. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">31. 00. 20 <br/>
+<td align="center">
+<strong>31. 00. 20 <br/>
+</strong>
 </td>
 <td align="left">Parties de meubles, à l'exclusion des mécanismes et accessoires métalliques divers (à l'exclusion des sièges). <br/>
 </td>
 </tr>
 <tr>
-<td align="center">31. 00. 91 <br/>
+<td align="center">
+<strong>31. 00. 91 <br/>
+</strong>
 </td>
 <td align="left">Garnissage de sièges. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">31. 00. 99 <br/>
+<td align="center">
+<strong>31. 00. 99 <br/>
+</strong>
 </td>
 <td align="left">Opérations sous-traitées intervenant dans la fabrication de sièges, de leurs parties et de parties de meubles. <br/>
 </td>
@@ -137,20 +147,24 @@ a) Produits, activités et prestations relevant des industries de l'ameublement 
 </tbody>
 </table>
 
-**A-II. - Produits, activités et prestations
-
-relevant du centre technique des industries mécaniques**
+**A-II. - Produits, activités et prestations relevant du centre technique des industries mécaniques**
 
 <table>
 <tbody>
 <tr>
-<td align="center">31. 09. 11 <br/>
+<td align="center">
+<strong>31. 09. 11 <br/>
+</strong>
 </td>
-<td align="center">Meubles métalliques divers. <br/>
+<td align="center">
+<strong>Meubles métalliques divers. <br/>
+</strong>
 </td>
 </tr>
 <tr>
-<td align="center">31. 01. 11 <br/>
+<td align="center">
+<strong>31. 01. 11</strong>
+<br/>
 </td>
 <td align="center">Mobilier métallique de bureau. <br/>
 </td>
@@ -171,7 +185,14 @@ b) Produits, activités et prestations relevant des industries du bois :
 </td>
 </tr>
 <tr>
-<td align="center">Sous-catégorie 16. 10. 91 <br/>
+<td align="center">
+<p>
+<strong>Sous-catégorie </strong>
+</p>
+<p>
+<strong>16. 10. 91</strong>
+<br/>
+</p>
 </td>
 <td align="left">Séchage, imprégnation ou traitement chimique du bois, à l'exclusion du séchage. <br/>
 </td>
@@ -185,19 +206,30 @@ b) Produits, activités et prestations relevant des industries du bois :
 </td>
 </tr>
 <tr>
-<td align="center">Catégorie <br/>16. 21. 1 <br/>
+<td align="center">
+<strong>Catégorie <br/>16. 21. 1 <br/>
+</strong>
 </td>
 <td align="left">Bois contreplaqués, bois plaqués et bois stratifiés similaires ; panneaux de particules et panneaux similaires en bois ou en autres matières ligneuses <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Sous-catégorie 16. 21. 22 <br/>
+<td align="center">
+<p>
+<strong>Sous-catégorie </strong>
+</p>
+<p>
+<strong>16. 21. 22</strong>
+<br/>
+</p>
 </td>
 <td align="left">Bois densifiés en blocs, planches, lames, profilés. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Catégorie <br/>16. 21. 9 <br/>
+<td align="center">
+<strong>Catégorie <br/>16. 21. 9 <br/>
+</strong>
 </td>
 <td align="left">Finition de contreplaqués et panneaux à base de bois ; opérations sous-traitées intervenant dans la fabrication de panneaux et placages à base de bois. <br/>
 </td>
@@ -219,7 +251,14 @@ b) Produits, activités et prestations relevant des industries du bois :
 </td>
 </tr>
 <tr>
-<td align="center">Sous-catégorie 16. 23. 12 <br/>
+<td align="center">
+<p>
+<strong>Sous-catégorie </strong>
+</p>
+<p>
+<strong>16. 23. 12</strong>
+<br/>
+</p>
 </td>
 <td align="left">Coffrages pour le bétonnage, bardeaux, en bois. <br/>
 </td>
@@ -233,19 +272,40 @@ b) Produits, activités et prestations relevant des industries du bois :
 </td>
 </tr>
 <tr>
-<td align="center">Sous-catégorie 16. 29. 11 <br/>
+<td align="center">
+<p>
+<strong>Sous-catégorie</strong>
+</p>
+<p>
+<strong>16. 29. 11</strong>
+<br/>
+</p>
 </td>
 <td align="left">Outils, manches, montures d'outils, de balais et de brosses, en bois ; blocs pour la fabrication de pipes ; embauchoirs et tendeurs à chaussures, en bois. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Sous-catégorie 16. 29. 14 <br/>
+<td align="center">
+<p>
+<strong>Sous-catégorie </strong>
+</p>
+<p>
+<strong>16. 29. 14</strong>
+<br/>
+</p>
 </td>
 <td align="left">Cadres en bois pour tableaux, photographies, miroirs ou objets similaires et autres articles en bois, à l'exclusion des cadres et éléments d'encadrement en bois. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Sous-catégorie 16. 29. 91 <br/>
+<td align="center">
+<p>
+<strong>Sous-catégorie </strong>
+</p>
+<p>
+<strong>16. 29. 91</strong>
+<br/>
+</p>
 </td>
 <td align="left">Services liés à la fabrication d'articles en bois et en liège, à l'exclusion de meubles, et façons de vannerie et de sparterie, à l'exclusion des services liés à la fabrication des articles en liège. <br/>
 </td>
@@ -261,9 +321,7 @@ b) Produits, activités et prestations relevant des industries du bois :
 </tbody>
 </table>
 
-B. - **TAXE POUR LE DÉVELOPPEMENT DES INDUSTRIES
-
-DU CUIR, DE LA MAROQUINERIE ET DE LA CHAUSSURE**
+B. - **TAXE POUR LE DÉVELOPPEMENT DES INDUSTRIES DU CUIR, DE LA MAROQUINERIE ET DE LA CHAUSSURE**
 
 a) Cuirs et peaux bruts pour les produits ci-après désignés :
 
@@ -454,6 +512,188 @@ c) Articles de maroquinerie, de voyage et de chasse, articles divers en cuir, y 
 </tbody>
 </table>
 
+<div align="center">
+<table>
+<tbody>
+<tr>
+<td align="center">15. 20 <br/>
+</td>
+<td align="center">
+<br/>Articles chaussants. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>15. 20. 1 <br/>
+</td>
+<td align="center">
+<br/>Chaussures, autres que chaussures de sport et de protection et chaussures orthopédiques. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>15. 20. 11 <br/>
+</td>
+<td align="center">
+<br/>Chaussures étanches à semelles extérieures et dessus en caoutchouc ou en matière plastique, autres que chaussures comportant une coquille de protection en métal. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>15. 20. 12 <br/>
+</td>
+<td align="center">
+<br/>Chaussures à semelles extérieures et dessus en caoutchouc ou en matière plastique, autres que chaussures étanches et chaussures de sport. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>15. 20. 13 <br/>
+</td>
+<td align="center">
+<br/>Chaussures à dessus en cuir, autres que chaussures de sport, chaussures comportant une coquille de protection en métal et chaussures spéciales diverses. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>15. 20. 14 <br/>
+</td>
+<td align="center">
+<br/>Chaussures à dessus en textile, autres que chaussures de sport. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>15. 20. 2 <br/>
+</td>
+<td align="center">
+<br/>Chaussures de sport. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>32. 30. 12 <br/>
+</td>
+<td align="center">
+<br/>Chaussures de ski et de sports de neige. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>15. 20. 21 <br/>
+</td>
+<td align="center">
+<br/>Chaussures de tennis, basket, gymnastique et similaires. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>15. 20. 29 <br/>
+</td>
+<td align="center">
+<br/>Autres chaussures de sport, à l'exclusion des chaussures de ski et de surf des neiges. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>15. 20. 3 <br/>
+</td>
+<td align="center">
+<br/>Chaussures de protection et autres chaussures NCA. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>15. 20. 31 <br/>
+</td>
+<td align="center">
+<br/>Chaussures comportant une coquille de protection en métal. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>15. 20. 32 <br/>
+</td>
+<td align="center">
+<br/>Chaussures en bois, chaussures spéciales diverses et autres chaussures NCA. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>15. 20. 4 <br/>
+</td>
+<td align="center">
+<br/>Parties de chaussure en cuir ; semelles intérieures amovibles, talonnettes et articles similaires ; guêtres, jambières et articles similaires, et leurs parties. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>16. 29. 14 <br/>
+</td>
+<td align="center">
+<br/>Cadres en bois pour tableaux, photographies, miroirs ou objets similaires et autres articles en bois : parties ou accessoires de chaussure en bois. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>22. 19. 73 <br/>
+</td>
+<td align="center">
+<br/>Autres articles en caoutchouc vulcanisé NCA ; caoutchouc durci sous toutes formes et articles en caoutchouc durci ; revêtements de sol et tapis en caoutchouc vulcanisé alvéolaire : parties ou accessoires de chaussure en caoutchouc. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>22. 29. 29 <br/>
+</td>
+<td align="center">
+<br/>Autres articles en matières plastiques : parties ou accessoires de chaussure en matières plastiques. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>27. 40. 42 <br/>
+</td>
+<td align="center">
+<br/>Parties d'appareils d'éclairage : en cuir. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>32. 30. 11 <br/>
+</td>
+<td align="center">
+<br/>Skis et autres équipements pour sports de neige, à l'exclusion des chaussures ; patins à glace et patins à roulettes ; et leurs parties : chaussures de patinage à roulette. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>32. 30. 15 <br/>
+</td>
+<td align="center">
+<br/>Autres matériels de sports et de jeux en extérieur ; piscines et pataugeoires : en cuir. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>32. 13. 10 <br/>
+</td>
+<td align="center">
+<br/>Articles joaillerie en imitation et articles similaires : en cuir. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>32. 99. 23 <br/>
+</td>
+<td align="center">
+<br/>Bouton-pression et leurs parties ; boutons ; fermetures à glissière : boutons en cuir.<br/>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+
 C. - **TAXE POUR LE DÉVELOPPEMENT DES INDUSTRIES DE L'HORLOGERIE, DE LA BIJOUTERIE, DE LA JOAILLERIE, DE L'ORFÈVRERIE ET DES ARTS DE LA**TABLE
 
 <table>
@@ -509,286 +749,379 @@ C. - **TAXE POUR LE DÉVELOPPEMENT DES INDUSTRIES DE L'HORLOGERIE, DE LA BIJOUTE
 </tbody>
 </table>
 
-D. - **TAXE POUR LE DÉVELOPPEMENT
-
-DES INDUSTRIES DE L'HABILLEMENT**
+D. - **TAXE POUR LE DÉVELOPPEMENT DES INDUSTRIES DE L'HABILLEMENT**
 
 <table>
 <tbody>
 <tr>
-<td align="center">14. 11 <br/>
+<td align="center">
+<br/>14. 11 <br/>
 </td>
-<td align="left">Vêtements en cuir. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">14. 11. 10 <br/>
-</td>
-<td align="left">Vêtements en cuir naturel ou reconstitué : <br/>Manteaux, vestes, blousons, costumes, pantalons, y compris vêtements de travail et hors gants de travail en cuir. <br/>
+<td align="center">
+<br/>Vêtements en cuir. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">14. 11. 99 <br/>
+<td align="center">
+<br/>14. 11. 10 <br/>
 </td>
-<td align="left">Opérations sous-traitées intervenant dans la fabrication des vêtements en cuir : <br/>Opérations élémentaires du processus de production des produits concernés, réalisés par un sous-traitant sur des demi-produits fournis par le donneur d'ordre et pour le compte de celui-ci. <br/>Ces opérations sont rémunérées pour le travail qu'elles représentent et peuvent comprendre la fourniture des matières premières nécessaires. Par exemple : découpe à façon des pièces de cuir. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">18. 2 <br/>
-</td>
-<td align="left">Vêtements en textile et services associés : <br/>
+<td align="center">
+<br/>Vêtements en cuir naturel ou reconstitué : manteaux, vestes, blousons, costumes, pantalons, y compris vêtements de travail et hors gants de travail en cuir. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">14. 12. 11 <br/>
+<td align="center">
+<br/>14. 11. 99 <br/>
 </td>
-<td align="left">Ensembles et vestes de travail pour hommes : combinaisons, vêtements de protection, treillis militaires, etc., pour hommes. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">14. 12. 12 <br/>
-</td>
-<td align="left">Pantalons, salopettes, culottes et shorts de travail pour hommes. <br/>
+<td align="center">
+<br/>Opérations sous-traitées intervenant dans la fabrication des vêtements en cuir : <p>Opérations élémentaires du processus de production des produits concernés, réalisés par un sous-traitant sur des demi-produits fournis par le donneur d'ordre et pour le compte de celui-ci. </p>
+<p>Ces opérations sont rémunérées pour le travail qu'elles représentent et peuvent comprendre la fourniture des matières premières nécessaires. Par exemple : découpe à façon des pièces de cuir. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">14. 12. 21 <br/>
+<td align="center">
+<br/>14. 12. 11 <br/>
 </td>
-<td align="left">Ensembles et vestes de travail pour femmes : combinaisons, vêtements de protection, etc., pour femmes. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">14. 12. 22 <br/>
-</td>
-<td align="left">Pantalons, salopettes, culottes et shorts de travail pour femmes. <br/>
+<td align="center">
+<br/>Ensembles et vestes de travail pour hommes : combinaisons, vêtements de protection, treillis militaires, etc., pour hommes. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">14. 12. 30 <br/>
+<td align="center">
+<br/>14. 12. 12 <br/>
 </td>
-<td align="left">Autres vêtements de travail. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">14. 12. 99 <br/>
-</td>
-<td align="left">Opérations sous-traitées intervenant dans la confection de vêtements de travail. <br/>
+<td align="center">
+<br/>Pantalons, salopettes, culottes et shorts de travail pour hommes. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">14. 13. 21 <br/>
+<td align="center">
+<br/>14. 12. 21 <br/>
 </td>
-<td align="left">Manteaux, pardessus, imperméables, paletots, pèlerines, anoraks, coupe-vent, parkas et articles similaires, en tissu, pour hommes et garçonnets. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">14. 13. 22 <br/>
-</td>
-<td align="left">Costumes et complets en tissu pour hommes et garçonnets. <br/>
+<td align="center">
+<br/>Ensembles et vestes de travail pour femmes : combinaisons, vêtements de protection, etc., pour femmes. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">14. 13. 23 <br/>
+<td align="center">
+<br/>14. 12. 22 <br/>
 </td>
-<td align="left">Vestes et vestons, en tissu, pour hommes et garçonnets. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">14. 13. 24 <br/>
-</td>
-<td align="left">Pantalons, salopettes, culottes et shorts, en tissu, pour hommes et garçonnets : <br/>
+<td align="center">
+<br/>Pantalons, salopettes, culottes et shorts de travail pour femmes. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">14. 13. 31 <br/>
+<td align="center">
+<br/>14. 12. 30 <br/>
 </td>
-<td align="left">Manteaux, pardessus, paletots, pèlerines, anoraks, coupe-vent, parkas et articles similaires, en tissu, pour femmes et fillettes. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">14. 13. 32 <br/>
-</td>
-<td align="left">Costumes-tailleurs et ensembles, en tissu, pour femmes et fillettes. <br/>
+<td align="center">
+<br/>Autres vêtements de travail. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">14. 13. 33 <br/>
+<td align="center">
+<br/>14. 12. 99 <br/>
 </td>
-<td align="left">Vestes et vestons, en tissu, pour femmes. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">14. 13. 34 <br/>
-</td>
-<td align="left">Robes, jupes et jupes-culottes, en tissu, pour femmes et fillettes. <br/>
+<td align="center">
+<br/>Opérations sous-traitées intervenant dans la confection de vêtements de travail. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">14. 13. 35 <br/>
+<td align="center">
+<br/>14. 13. 21 <br/>
 </td>
-<td align="left">Pantalons, salopettes, culottes et shorts, en tissu, pour femmes et fillettes. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">14. 13. 40 <br/>
-</td>
-<td align="left">Fripes. <br/>
+<td align="center">
+<br/>Manteaux, pardessus, imperméables, paletots, pèlerines, anoraks, coupe-vent, parkas et articles similaires, en tissu, pour hommes et garçonnets. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">14. 13. 99. <br/>
+<td align="center">
+<br/>14. 13. 22 <br/>
 </td>
-<td align="left">Opérations sous-traitées intervenant dans la confection de vêtements de dessus : <br/>Opérations élémentaires du processus de production des produits concernés, réalisés par un sous-traitant sur des demi-produits fournis par le donneur d'ordre et pour le compte de celui-ci. <br/>Ces opérations sont rémunérées pour le travail qu'elles représentent et peuvent comprendre la fourniture des matières premières nécessaires. Par exemple : découpe à façon des pièces de tissu, broderies à façon sur articles d'habillement. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">14. 14. 21 <br/>
-</td>
-<td align="left">Chemises et chemisettes, en tissu, pour hommes. <br/>
+<td align="center">
+<br/>Costumes et complets en tissu pour hommes et garçonnets. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">14. 14. 22 <br/>
+<td align="center">
+<br/>14. 13. 23 <br/>
 </td>
-<td align="left">Maillots et autres tricots de corps, slips, caleçons, pyjamas, peignoirs, robes de chambre, en tissu, pour hommes et garçonnets. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">14. 14. 23 <br/>
-</td>
-<td align="left">Chemisiers et tuniques, en tissu, pour femmes et fillettes : <br/>Chemisiers, tuniques, blouses-chemisiers, chemisettes, en tissu ou dentelle, pour femmes et fillettes. <br/>
+<td align="center">
+<br/>Vestes et vestons, en tissu, pour hommes et garçonnets. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">14. 14. 24 <br/>
+<td align="center">
+<br/>14. 13. 24 <br/>
 </td>
-<td align="left">Maillots et autres tricots de corps, slips, culottes, jupons, combinaisons, chemises de nuit, pyjamas, robes de chambre, déshabillés, peignoirs et articles similaires, en tissu, pour femmes et fillettes. <br/>Combinaisons, jupons, fonds de robe, slips, etc., en tissu ou dentelle, pour femmes et fillettes. <br/>Pyjamas, chemises de nuit, peignoirs, déshabillés, robes de chambres, en tissu ou dentelle, pour femmes et fillettes. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">14. 14. 25 <br/>
-</td>
-<td align="left">Soutien-gorge, corsets, gaines, bustiers, porte-jarretelles, jarretières et articles similaires, et leurs parties, en maille ou en tissu ; <br/>Soutien-gorge, corsets, gaines, bustiers, panties, bodies, porte-jarretelles, jarretières, etc., en tissu en dentelle, ou en maille. <br/>
+<td align="center">
+<br/>Pantalons, salopettes, culottes et shorts, en tissu, pour hommes et garçonnets. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">14. 14. 99 <br/>
+<td align="center">
+<br/>14. 13. 31 <br/>
 </td>
-<td align="left">Opérations sous-traitées intervenant dans la confection de vêtements de dessous : <br/>Opérations élémentaires du processus de production des produits concernés, réalisés par un sous-traitant sur des demi-produits fournis par le donneur d'ordre et pour le compte de celui-ci. <br/>Ces opérations sont rémunérées pour le travail qu'elles représentent et peuvent comprendre la fourniture des matières premières nécessaires. Par exemple : découpe à façon des pièces de tissu, broderies à façon sur articles d'habillement. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">14. 19. 21 <br/>
-</td>
-<td align="left">Layette et accessoires du vêtement, en tissu : <br/>Vêtements et accessoires du vêtement, en tissu ou dentelle, pour bébés : nids d'ange, barboteuses, bavoirs, langes, etc. <br/>
+<td align="center">
+<br/>Manteaux, pardessus, paletots, pèlerines, anoraks, coupe-vent, parkas et articles similaires, en tissu, pour femmes et fillettes. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">14. 19. 22 <br/>
+<td align="center">
+<br/>14. 13. 32 <br/>
 </td>
-<td align="left">Survêtements, ensembles de ski et maillots de bain, autres vêtements de sport ou de loisir, en tissu : <br/>
-</td>
-</tr>
-<tr>
-<td align="center">14. 19. 23 <br/>
-</td>
-<td align="left">Mouchoirs, châles, écharpes, voiles, cravates, nœuds papillons et autres accessoires ; parties de vêtements et d'accessoires, en tissu, NCA : <br/>Gants, mouchoirs, pochettes, en tissu ou dentelle ; <br/>Châles, écharpes, foulards, mantilles, voiles et voilettes, cravates et nœuds papillons, en tissu ou dentelle ; <br/>Bretelles et ceintures en textiles. <br/>
+<td align="center">
+<br/>Costumes-tailleurs et ensembles, en tissu, pour femmes et fillettes. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">14. 19. 32 <br/>
+<td align="center">
+<br/>14. 13. 33 <br/>
 </td>
-<td align="left">Vêtements confectionnés en feutres, en non-tissés ou en textiles enduits ou imprégnés : <br/>Vêtements confectionnés en textiles enduits ou imprégnés de caoutchouc ou de plastiques (imperméables, cirés, etc.) ; <br/>Combinaisons isothermes de plongée. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">14. 19. 41 <br/>
-</td>
-<td align="left">Cloches et formes pour chapeaux, capuchons de feutre ; plateaux et manchons de feutre ; formes de chapeau, tressées ou fabriquées par l'assemblage de bandes. <br/>
+<td align="center">
+<br/>Vestes et vestons, en tissu, pour femmes. <br/>
 </td>
 </tr>
 <tr>
-<td align="center" rowspan="4">14. 19. 42 <br/>
+<td align="center">
+<br/>14. 13. 34 <br/>
 </td>
-<td align="left" rowspan="4">Chapeaux et autres coiffures, en feutre, en matières tressées ou assemblées, en bonneterie, en dentelle ou en tissu ; filets à cheveux ; <br/>Chapeaux en feutre, coiffures en tissu ou en matières tressées ; <br/>Coiffures en bonneterie (bonnets, bérets, fez, chéchias, etc.) ; <br/>Résilles et filets à cheveux, coiffes en dentelle. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">14. 19. 43 <br/>
-</td>
-<td align="left">Autres coiffures, à l'exclusion des coiffures en caoutchouc ou en plastique, des casques de sécurité et des casques en amiante ; bandeaux serre-tête, doublures, couvertures, bases et carcasses pour chapeaux, visières et mentonnières ; <br/>Coiffures et toques en fourrure ou en cuir, chapkas ; <br/>Parties de coiffures (visières jugulaires, etc.). <br/>
+<td align="center">
+<br/>Robes, jupes et jupes-culottes, en tissu, pour femmes et fillettes. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">14. 19. 99 <br/>
+<td align="center">
+<br/>14. 13. 35 <br/>
 </td>
-<td align="left">Opérations sous-traitées intervenant dans la confection d'autres vêtements et accessoires. <br/>Opérations élémentaires du processus de production des produits concernés, réalisés par un sous-traitant sur des demi-produits fournis par le donneur d'ordre et pour le compte de celui-ci. <br/>Ces opérations sont rémunérées pour le travail qu'elles représentent et peuvent comprendre la fourniture des matières premières nécessaires. Par ex. : découpe à façon des pièces de tissus, broderies à façon sur articles d'habillement. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">18. 30 <br/>
-</td>
-<td align="left">Pelleteries et fourrures et services associés : <br/>
+<td align="center">
+<br/>Pantalons, salopettes, culottes et shorts, en tissu, pour femmes et fillettes. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">18. 30. 11 <br/>
+<td align="center">
+<br/>14. 13. 40 <br/>
 </td>
-<td align="left">Peaux tannées ou apprêtées : <br/>Pelleteries tannées ou apprêtées, entières ou en morceaux, assemblées ou non. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">14. 20. 10 <br/>
-</td>
-<td align="left">Vêtements, accessoires et autres articles en fourrure, à l'exclusion des coiffures : <br/>Manteaux, vestes, etc., en fourrure ou comportant de la fourrure ; <br/>Vêtements en peaux lainées ou doublés de fourrure ; <br/>Accessoires du vêtement (étoles, manchons et autres parures en fourrure). <br/>Articles en pelleteries (poufs, tapis, etc.). <br/>
+<td align="center">
+<br/>Fripes. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">18. 30. 13 <br/>
+<td align="center">
+<br/>14. 13. 99 <br/>
 </td>
-<td align="left">Pelleteries factices : <br/>Imitations de pelleteries obtenues à l'aide de fibres rapportées, collées ou cousues sur un support ; <br/>Articles en pelleteries factices. <br/>
-</td>
-</tr>
-<tr>
-<td align="center">14. 20. 99 <br/>
-</td>
-<td align="left">Opérations sous-traitées intervenant dans la confection de fourrures : <br/>Opérations élémentaires du processus de production des produits concernés, réalisés par un sous-traitant sur des demi-produits fournis par le donneur d'ordre et pour le compte de celui-ci. <br/>Ces opérations sont rémunérées pour le travail qu'elles représentent et peuvent comprendre la fourniture des matières premières nécessaires. Par ex. : couture de parties diverses sur des articles de fourrure, ajout de boutons, de fermetures Eclair, d'étiquettes, etc., peignage et préparation de fourrures. <br/>
+<td align="center">
+<br/>Opérations sous-traitées intervenant dans la confection de vêtements de dessus : <p>Opérations élémentaires du processus de production des produits concernés, réalisés par un sous-traitant sur des demi-produits fournis par le donneur d'ordre et pour le compte de celui-ci. </p>
+<p>Ces opérations sont rémunérées pour le travail qu'elles représentent et peuvent comprendre la fourniture des matières premières nécessaires. Par exemple : découpe à façon des pièces de tissu, broderies à façon sur articles d'habillement. <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">25. 24 <br/>
+<td align="center">
+<br/>14. 14. 21 <br/>
 </td>
-<td align="left">Articles divers en matières plastiques et services associés : <br/>
-</td>
-</tr>
-<tr>
-<td align="center">22. 29. 10 <br/>
-</td>
-<td align="left">Vêtements et accessoires du vêtement (y compris gants) en matières plastiques : <br/>Vêtements réalisés à partir de matières plastiques en feuilles ; <br/>Gants et accessoires du vêtement en matière plastique (ceintures, bavoirs, capuchons). <br/>
+<td align="center">
+<br/>Chemises et chemisettes, en tissu, pour hommes. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">36. 63 <br/>
+<td align="center">
+<br/>14. 14. 22 <br/>
 </td>
-<td align="left">Autres produits manufacturés et produits associés : <br/>
-</td>
-</tr>
-<tr>
-<td align="center">32. 99. 21 <br/>
-</td>
-<td align="left">Parapluies, parasols et ombrelles ; cannes, cannes-sièges, fouets, cravaches et articles similaires. <br/>NC : Cannes, cannes-sièges, fouets, cravaches et article similaires. <br/>
+<td align="center">
+<br/>Maillots et autres tricots de corps, slips, caleçons, pyjamas, peignoirs, robes de chambre, en tissu, pour hommes et garçonnets. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">23. 99. 23 <br/>
+<td align="center">
+<br/>14. 14. 23 <br/>
 </td>
-<td align="left">Boutons-pression et leurs parties ; boutons ; fermetures à glissière. <br/>NC : les boutons en cuirs. <br/>
+<td align="center">
+<br/>Chemisiers et tuniques, en tissu, pour femmes et fillettes : chemisiers, tuniques, blouses-chemisiers, chemisettes, en tissu ou dentelle, pour femmes et fillettes. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">32. 99. 24 <br/>
+<td align="center">
+<br/>14. 14. 24 <br/>
 </td>
-<td align="left">Formes pour boutons et autres parties de boutons ; ébauches de boutons ; parties de fermetures à glissières.<br/>
+<td align="center">
+<br/>Maillots et autres tricots de corps, slips, culottes, jupons, combinaisons, chemises de nuit, pyjamas, robes de chambre, déshabillés, peignoirs et articles similaires, en tissu, pour femmes et fillettes. <p>Combinaisons, jupons, fonds de robe, slips, etc., en tissu ou dentelle, pour femmes et fillettes. </p>
+<p>Pyjamas, chemises de nuit, peignoirs, déshabillés, robes de chambres, en tissu ou dentelle, pour femmes et fillettes. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>14. 14. 25 <br/>
+</td>
+<td align="center">
+<br/>Soutien-gorge, corsets, gaines, bustiers, porte-jarretelles, jarretières et articles similaires, et leurs parties, en maille ou en tissu ; soutien-gorge, corsets, gaines, bustiers, panties, bodies, porte-jarretelles, jarretières, etc., en tissu en dentelle, ou en maille. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>14. 14. 99 <br/>
+</td>
+<td align="center">
+<br/>Opérations sous-traitées intervenant dans la confection de vêtements de dessous : <p>Opérations élémentaires du processus de production des produits concernés, réalisés par un sous-traitant sur des demi-produits fournis par le donneur d'ordre et pour le compte de celui-ci. </p>
+<p>Ces opérations sont rémunérées pour le travail qu'elles représentent et peuvent comprendre la fourniture des matières premières nécessaires. Par exemple : découpe à façon des pièces de tissu, broderies à façon sur articles d'habillement. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>14. 19. 21 <br/>
+</td>
+<td align="center">
+<br/>Layette et accessoires du vêtement, en tissu : <p>Vêtements et accessoires du vêtement, en tissu ou dentelle, pour bébés : nids d'ange, barboteuses, bavoirs, langes, etc. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>14. 19. 22 <br/>
+</td>
+<td align="center">
+<br/>Survêtements, ensembles de ski et maillots de bain, autres vêtements de sport ou de loisir, en tissu. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>14. 19. 23 <br/>
+</td>
+<td align="center">
+<br/>Mouchoirs, châles, écharpes, voiles, cravates, nœuds papillon et autres accessoires ; parties de vêtements et d'accessoires, en tissu, NCA : <p>Gants, mouchoirs, pochettes, en tissu ou dentelle ; </p>
+<p>Châles, écharpes, foulards, mantilles, voiles et voilettes, cravateset nœuds papillon, en tissu ou dentelle ; </p>
+<p>Bretelles et ceintures en textiles. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>14. 19. 32 <br/>
+</td>
+<td align="center">
+<br/>Vêtements confectionnés en feutres, en non-tissés ou en textiles enduits ou imprégnés : <p>Vêtements confectionnés en textiles enduits ou imprégnés de caoutchouc ou de plastiques (imperméables, cirés, etc.) ; </p>
+<p>Combinaisons isothermes de plongée. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>14. 19. 41 <br/>
+</td>
+<td align="center">
+<br/>Cloches et formes pour chapeaux, capuchons de feutre ; plateaux et manchons de feutre ; formes de chapeau, tressées ou fabriquées par l'assemblage de bandes. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>14. 19. 42 <br/>
+</td>
+<td align="center">
+<br/>Chapeaux et autres coiffures, en feutre, en matières tressées ou assemblées, en bonneterie, en dentelle ou en tissu ; filets à cheveux ; <p>Chapeaux en feutre, coiffures en tissu ou en matières tressées ; </p>
+<p>Coiffures en bonneterie (bonnets, bérets, fez, chéchias, etc.) ; </p>
+<p>Résilles et filets à cheveux, coiffes en dentelle. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>14. 19. 43 <br/>
+</td>
+<td align="center">
+<br/>Autres coiffures, à l'exclusion des coiffures en caoutchouc ou en plastique, des casques de sécurité et des casques en amiante ; bandeaux serre-tête, doublures, couvertures, bases et carcasses pour chapeaux, visières et mentonnières ; <p>Coiffures et toques en fourrure ou en cuir, chapkas ; </p>
+<p>Parties de coiffures (visières jugulaires, etc.). <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>14. 19. 99 <br/>
+</td>
+<td align="center">
+<br/>Opérations sous-traitées intervenant dans la confection d'autres vêtements et accessoires. <p>Opérations élémentaires du processus de production des produits concernés, réalisés par un sous-traitant sur des demi-produits fournis par le donneur d'ordre et pour le compte de celui-ci. </p>
+<p>Ces opérations sont rémunérées pour le travail qu'elles représentent et peuvent comprendre la fourniture des matières premières nécessaires. Par ex. : découpe à façon des pièces de tissus, broderies à façon sur articles d'habillement. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>15. 11. 10 <br/>
+</td>
+<td align="center">
+<br/>Peaux tannées ou apprêtées : <p>Pelleteries tannées ou apprêtées, entières ou en morceaux, assemblées ou non. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>14. 20. 10 <br/>
+</td>
+<td align="center">
+<br/>Vêtements, accessoires et autres articles en fourrure, à l'exclusion des coiffures : <p>Manteaux, vestes, etc., en fourrure ou comportant de la fourrure ; </p>
+<p>Vêtements en peaux lainées ou doublés de fourrure ; </p>
+<p>Accessoires du vêtement (étoles, manchons et autres parures en fourrure). </p>
+<p>Articles en pelleteries (poufs, tapis, etc.). <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>13. 20. 50 et <p>13. 91. 19 <br/>
+</p>
+</td>
+<td align="center">
+<br/>Pelleteries factices. <p>Imitations de pelleteries obtenues à l'aide de fibres rapportées, collées ou cousues sur un support ; </p>
+<p>Articles en pelleteries factices. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>14. 20. 99 <br/>
+</td>
+<td align="center">
+<br/>Opérations sous-traitées intervenant dans la confection de fourrures : <p>Opérations élémentaires du processus de production des produits concernés, réalisés par un sous-traitant sur des demi-produits fournis par le donneur d'ordre et pour le compte de celui-ci. </p>
+<p>Ces opérations sont rémunérées pour le travail qu'elles représentent et peuvent comprendre la fourniture des matières premières nécessaires. Par ex. : couture de parties diverses sur des articles de fourrure, ajout de boutons, de fermetures Eclair, d'étiquettes, etc., peignage et préparation de fourrures. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>22. 29. 10 <br/>
+</td>
+<td align="center">
+<br/>Vêtements et accessoires du vêtement (y compris gants) en matières plastiques : <p>Vêtements réalisés à partir de matières plastiques en feuilles ; </p>
+<p>Gants et accessoires du vêtement en matière plastique (ceintures, bavoirs, capuchons). <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>32. 99. 21 <br/>
+</td>
+<td align="center">
+<br/>Parapluies, parasols et ombrelles ; cannes, cannes-sièges, fouets, cravaches et articles similaires. <p>NC : Cannes, cannes-sièges, fouets, cravaches et articles similaires. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>32. 99. 23 <br/>
+</td>
+<td align="center">
+<br/>Boutons-pression et leurs parties ; boutons ; fermetures à glissière. <p>NC : les boutons en cuir. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>32. 99. 24 <br/>
+</td>
+<td align="center">
+<br/>Formes pour boutons et autres parties de boutons ; ébauches de boutons ; parties de fermetures à glissière.<br/>
 </td>
 </tr>
 </tbody>
@@ -796,9 +1129,7 @@ DES INDUSTRIES DE L'HABILLEMENT**
 
 E. - **TAXE POUR LE DÉVELOPPEMENT DES INDUSTRIES DE LA MÉCANIQUE, DES MATÉRIELS ET CONSOMMABLES DE SOUDAGE, DU DÉCOLLETAGE, DE LA CONSTRUCTION MÉTALLIQUE ET DES MATÉRIELS AÉRAULIQUE ET THERMIQUES**
 
-E-I. - **Produits, activités et prestations
-
-relevant du centre technique des industries mécaniques**
+E-I. - **Produits, activités et prestations relevant du centre technique des industries mécaniques :**
 
 <table>
 <tbody>
@@ -1381,9 +1712,7 @@ relevant du centre technique des industries mécaniques**
 </tbody>
 </table>
 
-E-II. - **Produits, activités et prestations
-
-relevant de l'institut de soudure**
+E-II. - **Produits, activités et prestations relevant de l'institut de soudure**
 
 <table>
 <tbody>
@@ -1462,9 +1791,7 @@ relevant de l'institut de soudure**
 </tbody>
 </table>
 
-E-III. - **Produits, activités et prestations relevant
-
-du centre technique de l'industrie du décolletage**
+E-III. - **Produits, activités et prestations relevant du centre technique de l'industrie du décolletage**
 
 <table>
 <tbody>
@@ -1489,9 +1816,7 @@ du centre technique de l'industrie du décolletage**
 </tbody>
 </table>
 
-E-IV. - **Produits, activités et prestations relevant
-
-du centre technique industriel de la construction métallique**
+E-IV. - **Produits, activités et prestations relevant du centre technique industriel de la construction métallique**
 
 <table>
 <tbody>
@@ -1584,9 +1909,7 @@ du centre technique industriel de la construction métallique**
 </tbody>
 </table>
 
-E-V. - **Produits, activités et prestations relevant
-
-du centre technique des industries aérauliques et thermiques**
+E-V. - **Produits, activités et prestations relevant du centre technique des industries aérauliques et thermiques**
 
 <table>
 <tbody>
@@ -1731,13 +2054,9 @@ du centre technique des industries aérauliques et thermiques**
 </tbody>
 </table>
 
-F.-**TAXE POUR LE DÉVELOPPEMENT DES INDUSTRIES
+F.-**TAXE POUR LE DÉVELOPPEMENT DES INDUSTRIES DES MATÉRIAUX DE CONSTRUCTION**
 
-DES MATÉRIAUX DE CONSTRUCTION**
-
-F-1. - **Produits relevant du centre d'études et de recherche
-
-de l'industrie du béton**
+F-1. - **Produits relevant du centre d'études et de recherche de l'industrie du béton**
 
 <table>
 <tbody>
@@ -1966,9 +2285,513 @@ de l'industrie du béton**
 </tbody>
 </table>
 
-F-II. - **Produits relevant du centre technique
+F-2. - **Produits relevant du centre technique des matériaux naturels de construction**
 
-des matériaux naturels de construction**
+<table>
+<tbody>
+<tr>
+<td align="center">
+<br/>08. 1 <br/>
+</td>
+<td align="center">
+<br/>Pierres, sables et argiles. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>08. 11. 11 <br/>
+</td>
+<td align="center">
+<br/>Marbres et autres pierres marbrières (calcaire et marbre) : <p>Blocs bruts équarris marchands extraits de vos propres carrières : <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>08. 11. 11. 50. 2 <br/>
+</td>
+<td align="center">
+<br/>- de pierre tendre ; <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>08. 11. 11. 33. 1 <br/>
+</td>
+<td align="center">
+<br/>- de pierre ferme ; <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>08. 11. 11. 33. 2 <br/>
+</td>
+<td align="center">
+<br/>- de pierre marbrière ; <p>- de marbre. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">
+<br/>Blocs bruts équarris marchands importés (et transformés dans votre entreprise). <p>Tranches sciées de marbre importées (et transformées dans votre entreprise). </p>
+<p>Tranches sciées marchandes (produites à partir de blocs extraits de vos propres carrières ou achetées) : <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>08. 11. 11. 36. 1 <br/>
+</td>
+<td align="center">
+<br/>- d'épaisseur inférieure à 5 cm ; <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>08. 11. 11. 36. 2 <br/>
+</td>
+<td align="center">
+<br/>- d'épaisseur comprise entre 5 et 25 cm. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>08. 11. 11. 36. 3 <br/>
+</td>
+<td align="center">
+<br/>Autres produits sciés (opus). <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>08. 11. 11. 36. 4 <br/>
+</td>
+<td align="center">
+<br/>Autres produits d'extraction (moellons bruts, chutes de blocs, relève d'extraction, loups...). <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>08. 11. 11. 36. 5 <br/>
+</td>
+<td align="center">
+<br/>Autres produits non sciés. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>08. 11. 11. 50. 4 <br/>
+</td>
+<td align="center">
+<br/>Moellons taillés ou éclatés. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>08. 11. 11. 50. 5 <br/>
+</td>
+<td align="center">
+<br/>Autres produits. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>08. 11. 12 <br/>
+</td>
+<td align="center">
+<br/>Granit, grès et autres pierres ornementales ou de construction. <br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+Granit et autres roches similaires
+
+<table>
+<tbody>
+<tr>
+<td align="center">
+<br/>08. 11. 12. 33. 0 <br/>
+</td>
+<td align="center">
+<br/>Blocs bruts équarris marchands extraits de vos propres carrières. <p>Blocs bruts équarris marchands en granit étranger transformés dans votre propre entreprise (ne pas déclarer les blocs importés et revendus en l'état). <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>08. 11. 12. 36. 0 <br/>
+</td>
+<td align="center">
+<br/>Tranches sciées brutes, toutes épaisseurs. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>08. 11. 12. 36. 1 <br/>
+</td>
+<td align="center">
+<br/>Moellons tout venant. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>08. 11. 12. 36. 2 <br/>
+</td>
+<td align="center">
+<br/>Moellons équarris, toutes hauteurs, toutes longueurs. <br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+Grès
+
+<table>
+<tbody>
+<tr>
+<td align="center">
+<br/>08. 11. 12. 50. 0 <br/>
+</td>
+<td align="center">
+<br/>Blocs bruts équarris marchands extraits de vos propres carrières. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>08. 11. 12. 50. 1 <br/>
+</td>
+<td align="center">
+<br/>Tranches sciées. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>08. 11. 12. 50. 2 <br/>
+</td>
+<td align="center">
+<br/>Moellons taillés pour la construction. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>08. 11. 12. 50. 3 <br/>
+</td>
+<td align="center">
+<br/>Pierres taillées pour la construction. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>08. 11. 12. 50. 4 <br/>
+</td>
+<td align="center">
+<br/>Moellons bruts de construction. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>08. 11. 12. 50. 4 <br/>
+</td>
+<td align="center">
+<br/>Autres produits en grès. <br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+Lave
+
+<table>
+<tbody>
+<tr>
+<td align="center">
+<br/>08. 11. 12. 90. 2 <br/>
+</td>
+<td align="center">
+<br/>Blocs bruts équarris marchands extraits de vos propres carrières. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>08. 11. 12. 90. 3 <br/>
+</td>
+<td align="center">
+<br/>Moellons bruts de construction. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>08. 11. 12. 90. 4 <br/>
+</td>
+<td align="center">
+<br/>Morceaux ouvrés, y compris moellons taillés. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>08. 11. 12. 90. 5 <br/>
+</td>
+<td align="center">
+<br/>Autres produits. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>08. 11. 40 <br/>
+</td>
+<td align="center">
+<br/>Ardoise. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>08. 11. 40. 00. 1 <br/>
+</td>
+<td align="center">
+<br/>Pierres pour maçonnerie en ardoise. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>08. 11. 40. 00. 2 <br/>
+</td>
+<td align="center">
+<br/>Pierres pour dallage en ardoise. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>23. 7 <br/>
+</td>
+<td align="center">
+<br/>Pierre taillée, maçonnée et finie. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>23. 70. 11 <br/>
+</td>
+<td align="center">
+<br/>Marbre, travertin, albâtre, travaillés, et ouvrages en marbre, travertin et albâtre (à l'exclusion des pavés, bordures, dalles, carreaux, cubes et articles similaires) ; granulats, débris et poudre de marbre, travertin et albâtre, colorés artificiellement (calcaire et marbre). <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>23. 70. 11. 00. 1 <br/>
+</td>
+<td align="center">
+<br/>Produits minces (jusqu'à 5 cm d'épaisseur) pour revêtements de façades et dallages. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>23. 70. 11. 00. 2 <br/>
+</td>
+<td align="center">
+<br/>Pierre pré-sciée à partir de 5 cm d'épaisseur. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>23. 70. 11. 00. 3 <br/>
+</td>
+<td align="center">
+<br/>Monuments funéraires. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>23. 70. 11. 00. 4 <br/>
+</td>
+<td align="center">
+<br/>Grosse taille (balustres, objets décoratifs, statues, appuis, bandeaux, corniches, socles, éléments de moulures, dessus de meubles, pendules...). <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>23. 70. 12 <br/>
+</td>
+<td align="center">
+<br/>Autres pierres de taille ou de construction travaillées et ouvrages en ces pierres ; autres granulats et poudre de pierre naturelle colorés artificiellement ; ouvrages en ardoise agglomérée. <br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+Granit et roches similiaires
+
+<table>
+<tbody>
+<tr>
+<td align="center">
+<br/>23. 70. 12. 60. 1 <br/>
+</td>
+<td align="center">
+<br/>Produits ouvrés pour le bâtiment (angles, jambages, linteaux, appuis, moellons, assises, corniches, balustres, pilastres, chevronières, cintres, meneaux, limons, contreforts, seuils, marches...). <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>23. 70. 12. 10. 1 <br/>
+</td>
+<td align="center">
+<br/>Pavés d'échantillon et boutisses. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>23. 70. 12. 10. 2 <br/>
+</td>
+<td align="center">
+<br/>Pavés mosaïque. <p>Bordures de trottoirs : <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>23. 70. 12. 10. 3 <br/>
+</td>
+<td align="center">
+<br/>- ébauchées ou éclatées ; <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>23. 70. 12. 10. 4 <br/>
+</td>
+<td align="center">
+<br/>- smillés ; <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>23. 70. 12. 10. 5 <br/>
+</td>
+<td align="center">
+<br/>- bouchardés. <br/>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">
+<br/>Dalles de trottoirs ou caniveaux : <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>23. 70. 12. 10. 6 <br/>
+</td>
+<td align="center">
+<br/>- smillés ; <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>23. 70. 12. 10. 7 <br/>
+</td>
+<td align="center">
+<br/>- bouchardés. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>23. 70. 12. 60. 2 <br/>
+</td>
+<td align="center">
+<br/>Produits pour travaux spéciaux de génie civil (écluses, bordures de quais...). <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>23. 70. 12. 60. 3 <br/>
+</td>
+<td align="center">
+<br/>Autres produits. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>23. 70. 12. 10. 8 <br/>
+</td>
+<td align="center">
+<br/>Dallage en pierre : produits minces (jusqu'à 5 cm d'épaisseur) pour revêtements de façades et dallages. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>23. 70. 12. 60. 4 <br/>
+</td>
+<td align="center">
+<br/>Monuments funéraires. <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>23. 70. 12. 60. 7 <br/>
+</td>
+<td align="center">
+<br/>Articles d'ornementation en pierre. <br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+Grès
+
+<table>
+<tbody>
+<tr>
+<td align="center">
+<br/>23. 70. 12. 10. 9 <br/>
+</td>
+<td align="center">
+<br/>Dallage en pierre : dalles brutes en opus incertum. <br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+Lave
+
+<table>
+<tbody>
+<tr>
+<td align="center">
+<br/>23. 72. 12. 70. 1 <br/>
+</td>
+<td align="center">
+<br/>Monuments funéraires. <br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+Ardoises
+
+<table>
+<tbody>
+<tr>
+<td align="center">
+<br/>23. 70. 12. 80. 1 <br/>
+</td>
+<td align="center">
+<br/>Ardoises de couverture (y compris pour bardage, non compris dalles et parements). <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>23. 70. 12. 80. 2 <br/>
+</td>
+<td align="center">
+<br/>Dallage en pierre : dalles et parements en ardoise.<br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+F-II. - **Produits relevant du centre technique des matériaux naturels de construction**
 
 <table>
 <tbody>
