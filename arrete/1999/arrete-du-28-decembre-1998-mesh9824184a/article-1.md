@@ -14,6 +14,8 @@ Centre de formation syndicale de la Confédération française de l'encadrement-
 
 Institut de formation syndicale de la Fédération générale autonome des fonctionnaires (FGAF), 30, avenue de la Résistance, 93100 Montreuil ;
 
+CEFI Solidaires, 144, boulevard de la Villette, 75019 Paris ;
+
 Institut du travail de l'université Strasbourg-III, 39, avenue de la Forêt-Noire, 67000 Strasbourg ;
 
 Institut des sciences sociales du travail de l'université Paris-I, 37, avenue du Président-Franklin-Roosevelt, 92330 Sceaux ;
