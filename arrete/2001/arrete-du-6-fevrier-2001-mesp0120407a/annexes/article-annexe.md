@@ -342,24 +342,6 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </tr>
 <tr>
 <td>
-<p align="center">10</p>
-</td>
-<td>Diaminophénols (1)</td>
-<td>
-<p>Colorants d'oxydation pour la coloration des cheveux :</p>
-<p>a) Usage général</p>
-<p>b) Usage professionnel</p>
-</td>
-<td>
-<p align="center">10 % (en base libre).</p>
-</td>
-<td/>
-<td>
-<p align="center">a) Peut provoquer une réaction allergique. Contient des diaminophénols. Ne pas employer pour la coloration des cils et des sourcils.<br/>b) Réservé aux professionnels. Contient des diaminophénols. Peut provoquer une réaction allergique. Porter des gants appropriés.</p>
-</td>
-</tr>
-<tr>
-<td>
 <p align="center">11</p>
 </td>
 <td>
@@ -420,38 +402,22 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </tr>
 <tr>
 <td>
-<p align="center">14 </p>
+<p align="center">14</p>
 </td>
 <td>
 <p align="center">Hydroquinone (3xx).</p>
 </td>
 <td>
-<p align="center">a) Agent colorant d'oxydation pour la teinture des cheveux </p>
-<p align="center">1. Usage général</p>
 <br/>
-</td>
-<td>
-<p align="center">0, 3 %</p>
 </td>
 <td>
 <br/>
 </td>
 <td>
-<p align="center">a) 1. Ne pas employer pour la coloration des cils ou des sourcils Rincer immédiatement les yeux si le produit entre en contact zvec ceux-ci Contient de l'hydroquinone</p>
-<br/>
 <br/>
 </td>
-</tr>
-<tr>
-<td/>
-<td/>
 <td>
-<p align="center">2. Usage professionnel </p>
-</td>
-<td/>
-<td/>
-<td>
-<p align="center">b) Pour usage professionnel uniquement. - Eviter le contact avec la peau. - Lire attentivement le mode d'emploi.</p>
+<br/>
 </td>
 </tr>
 <tr>
@@ -485,7 +451,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <p align="center">a) Solvant des cuticules des ongles.<br/>b) Produits pour le défrisage des cheveux :<br/>1. Usage général.<br/>2. Usage professionnel.<br/>c) Régulateur de pH dans le cas des dépilatoires.<br/>d) Régulateur de pH dans le cas des autres usages.</p>
 </td>
 <td>
-<p align="center">a) 5 % en masse (3xxx).<br/>b) 1. 2 % en masse (4).<br/>b) 2. 4,5 % en masse (4).<br/>c) Jusqu'au pH 12,7.<br/>d) Jusqu'au pH 11.</p>
+<p align="center">a) 5 % en masse (3xxx).<br/>b) 1. 2 % en masse (3xxx).<br/>b) 2. 4,5 % en masse (3xxx).<br/>c) Jusqu'au pH 12,7.<br/>d) Jusqu'au pH 11.</p>
 </td>
 <td>
 <br/>
@@ -739,7 +705,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <p align="center">22</p>
 </td>
 <td>
-<p align="center">Résorcine (3a).</p>
+<p align="center">Résorcine (3).</p>
 </td>
 <td>
 <p align="center">a) Colorant d'oxydation pour la coloration des cheveux :<br/>1. Usage général.<br/>2. Usage professionnel.<br/>b) Lotions capillaires et shampooings.</p>
@@ -1389,7 +1355,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <p align="center">2 %.</p>
 </td>
 <td>
-<p align="center">Comme agent conservateur : voir arrêté fixant la liste des agents conservateurs, au no 43.</p>
+<p align="center">Comme agent conservateur : voir arrêté fixant la liste des agents conservateurs, au n° 43.</p>
 </td>
 <td>
 <br/>
@@ -1517,7 +1483,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </tr>
 <tr>
 <td>
-<p align="center">61</p>
+<p align="center">61 </p>
 </td>
 <td>
 <p align="center">Monoalkylamines, monoalcanolamines et leurs sels.</p>
@@ -2132,7 +2098,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <br/>
 </td>
 <td>
-<p align="center">La présence de la substance doit être indiquée dans la liste des ingrédients mentionnés au 8° de l'article R. 5131-4 du code de la santé publique lorsque sa concentration est supérieure :<br/>- à 0,001 % dans les produits non rincés ;<br/>- à 0,01 % dans les produits rincés.</p>
+<p align="center">La présence de la substance doit être indiquée dans la liste des ingrédients mentionnés au 8o de l'article R. 5131-4 du code de la santé publique lorsque sa concentration est supérieure :<br/>- à 0,001 % dans les produits non rincés ;<br/>- à 0,01 % dans les produits rincés.</p>
 </td>
 <td>
 <br/>
@@ -2152,7 +2118,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <br/>
 </td>
 <td>
-<p align="center">La présence de la substance doit être indiquée dans la liste des ingrédients mentionnés au 8° de l'article R. 5131-4 du code de la santé publique lorsque sa concentration est supérieure :<br/>- à 0,001 % dans les produits non rincés ;<br/>- à 0,01 % dans les produits rincés.</p>
+<p align="center">La présence de la substance doit être indiquée dans la liste des ingrédients mentionnés au 8o de l'article R. 5131-4 du code de la santé publique lorsque sa concentration est supérieure :<br/>- à 0,001 % dans les produits non rincés ;<br/>- à 0,01 % dans les produits rincés.</p>
 </td>
 <td>
 <br/>
@@ -2172,7 +2138,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <br/>
 </td>
 <td>
-<p align="center">La présence de la substance doit être indiquée dans la liste des ingrédients mentionnés au 8° de l'article R. 5131-4 du code de la santé publique lorsque sa concentration est supérieure :<br/>- à 0,001 % dans les produits non rincés ;<br/>- à 0,01 % dans les produits rincés.</p>
+<p align="center">La présence de la substance doit être indiquée dans la liste des ingrédients mentionnés au 8o de l'article R. 5131-4 du code de la santé publique lorsque sa concentration est supérieure :<br/>- à 0,001 % dans les produits non rincés ;<br/>- à 0,01 % dans les produits rincés.</p>
 </td>
 <td>
 <br/>
@@ -2309,9 +2275,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <td>
 <p align="center">a) Teintures capillaires oxydantes.<br/>b) Produits de défrisage des cheveux.<br/>c) Autobronzants pour le visage.<br/>d) Autres.</p>
 </td>
-<td>
-<p align="center">a) 0,67 % exprimé en SO2 libre.<br/>b) 6,7 % exprimé en SO2 libre.<br/>c) 0,45 % exprimé en SO2 libre.<br/>d) 0,40 % exprimé en SO2 libre.</p>
-</td>
+<td>a) 0,67 % exprimé en SO2 libre.<br/>b) 6,7 % exprimé en SO2 libre.<br/>c) 0,45 % exprimé en SO2 libre.<br/>d) 0,40 % exprimé en SO2 libre.</td>
 <td>
 <p align="center">A des fins autres qu'inhiber le développement de micro-organismes dans le produit, cette fin doit ressortir de la présentation du produit.</p>
 </td>
@@ -2850,7 +2814,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <br/>
 </td>
 <td>
-<p align="center">Indice de peroxyde inférieur à 10 mmoles/L (***).</p>
+<p align="center">Indice de peroxyde inférieur à 10 mmoles/L (**).</p>
 </td>
 <td>
 <br/>
@@ -3734,7 +3698,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <br/>
 </td>
 <td>
-<p align="center">Indice de péroxyde inférieur à 20 mmoles/L (***).</p>
+<p align="center">Indice de péroxyde inférieur à 20 mmoles/L (**).</p>
 </td>
 <td>
 <br/>
@@ -3754,7 +3718,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <br/>
 </td>
 <td>
-<p align="center">Indice de péroxyde inférieur à 20 mmoles/L (***).</p>
+<p align="center">Indice de péroxyde inférieur à 20 mmoles/L (**).</p>
 </td>
 <td>
 <br/>
@@ -4124,10 +4088,64 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <br/>
 </td>
 </tr>
+<tr>
+<td>
+<p align="center">185</p>
+</td>
+<td>
+<p align="center">Toluène.<br/>N° CAS 108-88-3.<br/>N° CE 203-625-9.</p>
+</td>
+<td>
+<p align="center">Produits pour les ongles. <br/>
+</p>
+</td>
+<td>25 %</td>
+<td/>
+<td>Tenir hors de portée des enfants.<br/>A utiliser par des adultes uniquement. <br/>
+</td>
+</tr>
+<tr>
+<td>186</td>
+<td>Diéthylène-glycol (DEG).<br/>N° CAS 111-46-6.<br/>N° CE 203-872-2. <br/>2, 2'-oxydiéthanol. <br/>
+</td>
+<td>Trace dans les ingrédients. <br/>
+</td>
+<td>0,1 %</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>187</td>
+<td>Butoxy-diglycol.<br/>N° CAS 112-34-5.<br/>N° CE 203-961-6. <br/>Diéthylène-glycol <br/>monobutyl-éther <br/>(DEGBE). </td>
+<td>Solvant pour colorant d'oxydation pour la coloration des cheveux. </td>
+<td>9 %</td>
+<td>Ne pas utiliser dans des atomiseurs.</td>
+<td/>
+</tr>
+<tr>
+<td>188</td>
+<td>
+<p>Butoxy-éthanol.<br/>N° CAS 111-76-2.<br/>N° CE 203-905-0. </p>
+<p>Ethylène-glycol <br/>monobutyl-éther <br/>(EGBE). </p>
+</td>
+<td>
+<p>Solvant pour colorant d'oxydation pour la coloration des cheveux. </p>
+<p>Solvant pour colorant non oxydant pour la coloration des cheveux. <br/>
+</p>
+</td>
+<td>
+<p>4 %</p>
+<p>2 %</p>
+</td>
+<td>Ne pas utiliser dans des atomiseurs. </td>
+<td/>
+</tr>
 </tbody>
 </table>
 
 (1) Ces substances peuvent être employées seules ou en mélange entre elles en quantité telle que la somme des rapports des teneurs du produit cosmétique en chacune de ces substances à la teneur maximale autorisée pour chacune d'elles ne soit pas supérieure à 1.
+
+(2) Uniquement si la concentration est supérieure à 0,05 %
 
 (3xx) Ces substances peuvent être employées seules ou en mélange entre elles en quantité telle que la somme des rapports des teneurs du produit cosmétique en chacune de ces substances à la teneur maximale autorisée pour chacune d'elles ne dépasse pas 2.
 

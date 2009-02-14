@@ -1,4 +1,4 @@
-# Arrêté du 16 août 1984 relatif à la mise à la disposition des centres des impôts fonciers des moyens informatiques assurant la gestion décentralisée de la documentation cadastrale sur support magnétique (MAJIC 3)
+# Arrêté du 4 février 2009 portant organisation du service d'exploitation de la formation aéronautique
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -8,3 +8,4 @@
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
 - [Article 8](article-8.md)
+- [Article 10](article-10.md)
