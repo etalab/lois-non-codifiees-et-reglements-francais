@@ -885,28 +885,6 @@
 </tr>
 <tr>
 <td valign="top" width="50">
-<p align="center">57 p</p>
-</td>
-<td valign="top" width="153">
-<p>Basic Blue 26 (n° CAS 2580-56-5) et ses sels.</p>
-</td>
-<td valign="top" width="115">
-<p>a) Colorant d'oxydation pour la coloration des cheveux.<br/>b) Colorant non oxydant pour la coloration des cheveux.</p>
-</td>
-<td valign="top" width="71">
-<p>a) 0,5 %.</p>
-<p>b) 0,5 %.</p>
-</td>
-<td valign="top" width="139">
-<p>En combinaison avec du peroxyde d'hydrogène, la concentration maximale d'utilisation à l'application est de 0,25 %.</p>
-</td>
-<td valign="top" width="96"/>
-<td valign="top" width="96">
-<p align="center">31 décembre 2009</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="50">
 <p align="center">58 p</p>
 </td>
 <td valign="top" width="153">
@@ -922,49 +900,6 @@
 <td valign="top" width="96"/>
 <td valign="top" width="96">
 <p align="center">31 décembre 2009</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="50">
-<p align="center">59 p</p>
-</td>
-<td valign="top" width="153">
-<p>Ponceau SX (n° CAS 4548-53-2) (CI 14700)) et ses sels.</p>
-</td>
-<td valign="top" width="115">
-<p>Colorant non oxydant pour la coloration des cheveux.</p>
-</td>
-<td valign="top" width="71">
-<p>2,0 %.</p>
-</td>
-<td valign="top" width="139"/>
-<td valign="top" width="96"/>
-<td valign="top" width="96">
-<p align="center">31 décembre 2009</p>
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50">
-<p align="center">60 p</p>
-</td>
-<td valign="top" width="153">
-<p>Basic Violet 14 (n° CAS 632-969-5) (CI 42510) et ses sels.</p>
-</td>
-<td valign="top" width="115">
-<p>a) Colorant d'oxydation pour la coloration des cheveux.<br/>b) Colorant non oxydant pour la coloration des cheveux.</p>
-</td>
-<td valign="top" width="71">
-<p>a) 0,3 %.</p>
-<p>b) 0,3 %.</p>
-</td>
-<td valign="top" width="139">
-<p>En combinaison avec du peroxyde d'hydrogène, la concentration maximale d'utilisation à l'application est de 0,15 %.</p>
-</td>
-<td valign="top" width="96"/>
-<td valign="top" width="96">
-<p align="center">31 décembre 2009</p>
-<br/>
 </td>
 </tr>
 </tbody>
