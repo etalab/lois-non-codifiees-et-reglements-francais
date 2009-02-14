@@ -438,7 +438,6 @@
 - [Arrêté du 14 octobre 2004 (MCCB0400813A)](arrete-du-14-octobre-2004-mccb0400813a)
 - [Arrêté du 14 octobre 2004 (MCCB0400814A)](arrete-du-14-octobre-2004-mccb0400814a)
 - [Arrêté du 14 octobre 2004 (MCCB0400815A)](arrete-du-14-octobre-2004-mccb0400815a)
-- [Arrêté du 14 mai 2004 (AGRG0401264A)](arrete-du-14-mai-2004-agrg0401264a)
 - [Arrêté du 14 mai 2004 (JUSC0420365A)](arrete-du-14-mai-2004-jusc0420365a)
 - [Arrêté du 14 mai 2004 (JUSC0420366A)](arrete-du-14-mai-2004-jusc0420366a)
 - [Arrêté du 14 mai 2004 (SANY0421742A)](arrete-du-14-mai-2004-sany0421742a)

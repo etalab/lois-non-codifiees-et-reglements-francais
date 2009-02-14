@@ -669,7 +669,6 @@
 - [Arrêté du 20 février 1996 (LOGC9600012A)](arrete-du-20-fevrier-1996-logc9600012a)
 - [Arrêté du 20 février 1996 (LOGC9600013A)](arrete-du-20-fevrier-1996-logc9600013a)
 - [Arrêté du 20 février 1996 (TASA9620766A)](arrete-du-20-fevrier-1996-tasa9620766a)
-- [Arrêté du 20 juin 1996 (AGRG9601417A)](arrete-du-20-juin-1996-agrg9601417a)
 - [Arrêté du 20 juin 1996 (INDB9600461A)](arrete-du-20-juin-1996-indb9600461a)
 - [Arrêté du 20 juin 1996 (MENU9601598A)](arrete-du-20-juin-1996-menu9601598a)
 - [Arrêté du 20 juin 1996 (MENU9601599A)](arrete-du-20-juin-1996-menu9601599a)
