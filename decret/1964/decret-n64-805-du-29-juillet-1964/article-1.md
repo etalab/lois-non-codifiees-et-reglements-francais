@@ -4,4 +4,4 @@ Les préfets sont nommés par décret du Président de la République en conseil
 
 Les nominations impliquent affectation sur un poste territorial.
 
-Cependant, dans la limite de sept postes, les sous-préfets et les administrateurs civils peuvent être nommés préfets hors cadre pour occuper des emplois supérieurs comportant une mission de service public relevant du Gouvernement, dès lors qu'ils ont occupé pendant trois ans au moins un emploi de sous-préfet en poste territorial.
+Cependant, des nominations peuvent également être prononcées, dans la limite de sept postes, sur des emplois supérieurs comportant une mission de service public relevant du Gouvernement. Les intéressés sont alors placés sur un emploi de préfet hors cadre pour une durée maximale de trois ans qui peut être prolongée de deux ans.

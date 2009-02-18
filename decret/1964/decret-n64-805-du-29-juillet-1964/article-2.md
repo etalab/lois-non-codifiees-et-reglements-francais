@@ -2,7 +2,7 @@
 
 Les sous-préfets qui exercent des fonctions territoriales peuvent être nommés préfets en poste territorial s'ils occupent depuis deux ans ou ont occupé pendant deux ans un poste territorial de 1re catégorie.
 
-Pour pouvoir être nommés préfets en poste territorial, les sous-préfets n'exerçant pas de fonctions territoriales et les administrateurs civils doivent justifier, à compter de leur titularisation dans l'un ou l'autre de ces corps, de dix ans au moins de services effectifs dans ces mêmes corps ou de services en position de détachement auprès d'une administration de l'Etat dans un emploi conduisant ou non à pension du code des pensions civiles et militaires de retraite. Cette condition est applicable à ceux qui ont été nommés dans un emploi de préfet hors cadre en application du troisième alinéa de l'article 1er.
+Pour pouvoir être nommés préfets en poste territorial, les sous-préfets n'exerçant pas de fonctions territoriales et les administrateurs civils doivent justifier, à compter de leur titularisation dans l'un ou l'autre de ces corps, de dix ans au moins de services effectifs dans ces mêmes corps ou de services en position de détachement auprès d'une administration de l'Etat dans un emploi conduisant ou non à pension du code des pensions civiles et militaires de retraite.
 
 Peuvent également être pris en compte dans les dix ans requis à l'alinéa précédent, à concurrence de quatre ans, y compris, le cas échéant, la période de mobilité obligatoire, les services accomplis en position de détachement après leur titularisation :
 

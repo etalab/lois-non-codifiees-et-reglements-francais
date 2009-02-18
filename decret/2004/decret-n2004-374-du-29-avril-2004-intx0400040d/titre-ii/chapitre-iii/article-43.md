@@ -16,4 +16,6 @@ Le préfet de département peut donner délégation de signature :
 
 7° En matière de police administrative, à l'exclusion de ce qui relève de la participation des forces armées au maintien de l'ordre, au commandant du groupement départemental de gendarmerie ;
 
-8° Pour l'ensemble du département, aux sous-préfets ou au fonctionnaire qui assure le service de permanence pour prendre toute décision nécessitée par une situation d'urgence.
+8° Pour l'ensemble du département, aux sous-préfets ou au fonctionnaire qui assure le service de permanence pour prendre toute décision nécessitée par une situation d'urgence ;
+
+9° Pour les matières relevant de leurs attributions et dans le cas prévu au dernier alinéa de l'article 18, aux chefs des services des administrations civiles de l'Etat dans la région et aux responsables de leurs unités et délégations territoriales.
