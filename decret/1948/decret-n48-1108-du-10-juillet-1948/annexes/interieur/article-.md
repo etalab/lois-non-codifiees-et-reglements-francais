@@ -142,11 +142,9 @@
 <p>Classe normale</p>
 </td>
 <td valign="top" width="113">
-<p align="center">HEBbis - HEE</p>
+<p align="center">HEC - HEE</p>
 </td>
-<td valign="top" width="151">
-<p>A compter du 1er janvier 2003</p>
-</td>
+<td valign="top" width="151"/>
 </tr>
 <tr>
 <td valign="top" width="378">
@@ -197,7 +195,7 @@
 <p align="center">(HEA) 750 - 1015</p>
 </td>
 <td valign="top" width="151">
-<p>Echelon fonctionnel</p>
+<p>Echelon spécial</p>
 </td>
 </tr>
 <tr>
@@ -239,7 +237,9 @@
 </tr>
 <tr>
 <td/>
-<td>750 - 1015</td>
+<td>
+<p align="center">750 - 1015</p>
+</td>
 <td/>
 </tr>
 <tr>
@@ -291,7 +291,9 @@
 </tr>
 <tr>
 <td/>
-<td>801 - 1015</td>
+<td>
+<p align="center">801 - 1015</p>
+</td>
 <td/>
 </tr>
 <tr>
@@ -305,7 +307,9 @@
 </tr>
 <tr>
 <td/>
-<td>(593)</td>
+<td>
+<p align="center">(593)</p>
+</td>
 <td>
 <p>Echelon provisoire</p>
 </td>
@@ -324,7 +328,7 @@
 <p>Ingénieur des services techniques (grade provisoire)</p>
 </td>
 <td valign="top" width="113">
-<p align="center">379 - 710</p>
+<p align="center">379 - 668</p>
 </td>
 <td valign="top" width="151"/>
 </tr>
@@ -604,8 +608,12 @@
 </tr>
 <tr>
 <td/>
-<td>(528) (588)</td>
-<td>Echelons provisoires</td>
+<td>
+<p align="center">(528) (588)</p>
+</td>
+<td>
+<p align="left">Echelons provisoires</p>
+</td>
 </tr>
 <tr>
 <td valign="top" width="378">
@@ -655,9 +663,11 @@
 </tr>
 <tr>
 <td/>
-<td>(315)</td>
 <td>
-<p>Echelon provisoire </p>
+<p align="center">(315)</p>
+</td>
+<td>
+<p align="left">Echelon provisoire </p>
 </td>
 </tr>
 <tr>
@@ -955,9 +965,7 @@
 <td>
 <p align="center">(616)</p>
 </td>
-<td>
-<p align="left">Classe exceptionnelle </p>
-</td>
+<td>Classe exceptionnelle </td>
 </tr>
 <tr>
 <td valign="top" width="378">
@@ -983,6 +991,57 @@
 </td>
 <td valign="top" width="113">
 <p align="center">187 - 441</p>
+</td>
+<td valign="top" width="151"/>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<td width="378">
+<p align="center">OUTRE-MER GRADES ET EMPLOIS</p>
+</td>
+<td width="113">
+<p align="center">CLASSEMENT hiérarchique</p>
+</td>
+<td width="151">
+<p align="center">OBSERVATIONS</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="378">
+<p>EMPLOIS COMPORTANT DES INDICES FONCTIONNELS</p>
+</td>
+<td valign="top" width="113">
+<br/>
+</td>
+<td valign="top" width="151"/>
+</tr>
+<tr>
+<td valign="top" width="378">
+<p>Secrétaire général de la Nouvelle Calédonie </p>
+</td>
+<td valign="top" width="113">
+<p align="center">801 - HEB</p>
+</td>
+<td valign="top" width="151"/>
+</tr>
+<tr>
+<td valign="top" width="378">
+<p>Secrétaire général de la Polynésie française </p>
+</td>
+<td valign="top" width="113">
+<p align="center">801 - HEB</p>
+</td>
+<td valign="top" width="151"/>
+</tr>
+<tr>
+<td valign="top" width="378">
+<p>Secrétaire général des Terres australes et antarctiques française </p>
+</td>
+<td valign="top" width="113">
+<p align="center">528 - 966</p>
 </td>
 <td valign="top" width="151"/>
 </tr>

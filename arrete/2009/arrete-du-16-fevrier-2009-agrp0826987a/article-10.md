@@ -1,0 +1,5 @@
+# Article 10
+
+1. Le demandeur doit mentionner, pour chaque lot de produit enrichissant reçu ou élaboré au sein de l'entreprise pour l'usage duquel l'aide est demandée, la zone vitivinicole dont sont issus les raisins ayant servi à l'élaborer par une inscription sur le registre de détention au vu des documents d'accompagnement et des documents commerciaux relatifs à ce produit enrichissant. Le demandeur doit également mentionner l'identification du récipient dans lequel ce produit est logé par une inscription sur le registre de détention.
+
+2. Lorsque les informations relatives au paragraphe 1 ci-dessus sont manquantes, le demandeur peut les apporter par la production de pièces complémentaires au plus tard le 31 mai de la campagne ou, au-delà de cette date, dans un délai d'un mois suivant la notification par l'établissement créé en application de l'article L. 621-1 du code rural, compétent en matière viticole. Dans ce cas et sous réserve de la conformité des opérations, l'aide sera versée sans minoration.
