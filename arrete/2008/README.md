@@ -901,7 +901,6 @@
 - [Arrêté du 24 juin 2008 (BCFB0809295A)](arrete-du-24-juin-2008-bcfb0809295a)
 - [Arrêté du 24 juin 2008 (BCFB0809296A)](arrete-du-24-juin-2008-bcfb0809296a)
 - [Arrêté du 24 juin 2008 (DEVA0814476A)](arrete-du-24-juin-2008-deva0814476a)
-- [Arrêté du 24 juin 2008 (DEVA0814478A)](arrete-du-24-juin-2008-deva0814478a)
 - [Arrêté du 24 juin 2008 (DEVE0811966A)](arrete-du-24-juin-2008-deve0811966a)
 - [Arrêté du 24 juin 2008 (DEVO0813942A)](arrete-du-24-juin-2008-devo0813942a)
 - [Arrêté du 24 juin 2008 (ECED0815846A)](arrete-du-24-juin-2008-eced0815846a)
