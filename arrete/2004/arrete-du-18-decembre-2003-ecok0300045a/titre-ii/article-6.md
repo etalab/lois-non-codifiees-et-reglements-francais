@@ -20,7 +20,11 @@ Le pouvoir de notation s'exerce dans les conditions suivantes :
 
 - Le caissier général, directeur des back-offices ;
 
-2° Le directeur adjoint des ressources humaines de la Caisse des dépôts et consignations est investi du pouvoir de notation, sur proposition des responsables hiérarchiques, s'agissant :
+- le directeur des ressources humaines du groupe Caisse des dépôts et consignations ;
+
+- le directeur des ressources humaines de l'établissement public Caisse des dépôts et consignations ;
+
+2° Le directeur des ressources humaines de l'établissement public Caisse des dépôts et consignations est investi du pouvoir de notation, sur proposition des responsables hiérarchiques, s'agissant :
 
 - des fonctionnaires relevant d'une autorité autre que celles énumérées au 1° ci-dessus ;
 
