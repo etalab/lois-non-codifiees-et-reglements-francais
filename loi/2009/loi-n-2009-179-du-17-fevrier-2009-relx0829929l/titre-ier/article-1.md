@@ -1,0 +1,3 @@
+# Article 1
+
+Jusqu'au 31 décembre 2010, et par dérogation au premier alinéa de l'article L. 123-13 du code de l'urbanisme, les modifications d'un plan local d'urbanisme ou d'un plan d'occupation des sols ayant pour objet d'autoriser l'implantation de constructions en limite séparative ne donnent pas lieu à enquête publique. Le projet de modification et l'exposé de ses motifs sont portés à la connaissance du public, en vue de lui permettre de formuler des observations, pendant un délai d'un mois, préalablement à la convocation du conseil municipal ou de l'organe délibérant de l'établissement public de coopération intercommunale compétent, qui se prononce par délibération motivée.

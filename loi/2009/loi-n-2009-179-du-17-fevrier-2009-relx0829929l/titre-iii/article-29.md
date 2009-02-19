@@ -1,0 +1,3 @@
+# Article 29
+
+Sous réserve des décisions passées en force de chose jugée, le plan de remembrement des communes de Neuvy-le-Roy, Neuillé-Pont-Pierre et Beaumont-la-Ronce, lié à la construction de la section Alençon―Le Mans―Tours de l'autoroute A 28, ainsi que les transferts de propriété intervenus en conséquence du dépôt en mairie de ce plan sont validés en tant qu'ils seraient remis en cause par le motif que les décisions de la commission départementale d'aménagement foncier d'Indre-et-Loire ou l'arrêté ordonnant la clôture de ces opérations seraient privés de base légale, ou auraient été annulés, en raison de l'annulation, du fait d'une délibération tardive de la commission intercommunale de remembrement, de l'arrêté qui a ordonné ce remembrement.
