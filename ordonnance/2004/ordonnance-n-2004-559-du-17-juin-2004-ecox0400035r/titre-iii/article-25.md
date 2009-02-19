@@ -5,3 +5,7 @@ Le titre Ier ainsi que les articles 25-1, 26 et 27 de la présente ordonnance so
 Le chapitre III de la loi n° 2008-735 du 28 juillet 2008 relative aux contrats de partenariat leur est également applicable.
 
 [Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2008-567 DC du 24 juillet 2008.]
+
+Pour les contrats d'un montant égal ou supérieur à un seuil défini par décret,  les entités adjudicatrices mentionnées à l'article 4 de l'ordonnance n° 2005-649  du 6 juin 2005 précitée peuvent également recourir à la procédure négociée avec  mise en concurrence préalable précédée d'un appel public à la concurrence, dans  les conditions définies par le décret en Conseil d'Etat mentionné à l'article 12  de ladite ordonnance pour les entités adjudicatrices.
+
+Lorsque le montant du contrat est inférieur au seuil mentionné à l'alinéa  précédent, ces entités adjudicatrices peuvent recourir à la procédure négociée  prévue au III de l'article 7 de la présente ordonnance.
