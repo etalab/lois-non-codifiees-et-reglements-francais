@@ -12,6 +12,6 @@ Trois membres de la Cour des comptes, dont au moins un président de chambre ou 
 
 Deux personnalités qualifiées en matière de sondages.
 
-Ces membres sont nommés pour trois ans par décret en conseil des ministres et, pour ceux qui sont mentionnés aux troisième, quatrième et cinquième alinéas, sur proposition respective du vice-président du Conseil d'Etat, du premier président de la Cour de cassation et du premier président de la Cour des comptes.
+Ces membres sont nommés pour trois ans par décret et, pour ceux qui sont mentionnés aux troisième, quatrième et cinquième alinéas, sur proposition respective du vice-président du Conseil d'Etat, du premier président de la Cour de cassation et du premier président de la Cour des comptes.
 
 Chacun des membres mentionnés aux troisième, quatrième et cinquième alinéas peut se faire remplacer par un suppléant nommé dans les mêmes conditions.
