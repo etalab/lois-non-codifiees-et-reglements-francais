@@ -1,0 +1,3 @@
+# Article 1
+
+La composition et les caractéristiques des pièces de 5 000 €, de 1 000 €, de 500 €, de 250 €, de 200 €, de 100 €, de 50 € et de 5 € en or, de 50 €, de 20 €, de 15 €, de 10 € et de 5 € en argent, ainsi que de 1 1/2 € en métal commun, définies par le présent arrêté, sont fixées conformément aux trois tableaux figurant en annexe. Ces pièces sont frappées au millésime 2009 par La Monnaie de Paris pour le compte de l'Etat. Elles comportent deux  différents , celui de La Monnaie de Paris (corne d'abondance) et celui du responsable de l'atelier de gravure (cor de chasse), marques garantissant le titre de l'alliage, la masse des pièces et leur gravure.
