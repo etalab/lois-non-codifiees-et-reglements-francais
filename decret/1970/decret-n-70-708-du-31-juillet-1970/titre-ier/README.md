@@ -2,4 +2,3 @@
 
 - [Article 1](article-1.md)
 - [Chapitre Ier : Délivrance de récépissés aux personnes pourvues d'un domicile ou d'une résidence fixe.](chapitre-ier)
-- [Chapitre II : Délivrance des titres de circulation.](chapitre-ii)

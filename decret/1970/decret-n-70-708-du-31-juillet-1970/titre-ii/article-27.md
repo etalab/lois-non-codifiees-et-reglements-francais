@@ -1,3 +1,0 @@
-# Article 27
-
-Le commissaire de la République ou le commissaire adjoint de la République saisi de la demande de changement de la commune de rattachement en avise sans délai, en lui communiquant les justifications fournies, le commissaire de la République ou le commissaire adjoint de la République dont dépend la commune à laquelle le rattachement est demandé. Le commissaire de la République ou le commissaire adjoint de la République recueille l'avis du maire dans les conditions prévues à l'article 24 ci-dessus et fait connaître sa décision au commissaire de la République ou au commissaire adjoint de la République initialement saisi, qui avise le requérant. Si cette décision est positive, elle est communiquée au maire de l'ancienne commune de rattachement.
