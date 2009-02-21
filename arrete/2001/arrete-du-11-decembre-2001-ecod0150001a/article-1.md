@@ -32,6 +32,8 @@ Les marchandises relevant de la réglementation communautaire au titre des biens
 
 Les spécimens d'espèces de la faune et de la flore sauvages menacées d'extinction, inscrites aux annexes de la convention signée à Washington le 3 mars 1973 ou aux annexes du règlement communautaire mettant, notamment en oeuvre cette convention, ainsi que les produits ou parties issus de ces spécimens.
 
+Les substances classifiées en catégorie 1 par les annexes I du règlement (CE) n° 273 / 2004 du Parlement européen et du Conseil du 11  février 2004 relatif aux précurseurs de drogues et du règlement (CE) n°  111 / 2005 du Conseil du 22 décembre 2004 fixant les règles pour la  surveillance du commerce des précurseurs des drogues entre la Communauté et les  pays tiers.
+
 6. Marchandises faisant l'objet d'un courant de fraude international et d'un marché clandestin préjudiciant aux intérêts légitimes du commerce régulier et à ceux du Trésor.
 
 L'alcool et les spiritueux, mentionnés au b de l'article 401 du code général des impôts, à l'exclusion :
