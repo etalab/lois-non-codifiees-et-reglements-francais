@@ -1,6 +1,6 @@
 # Article 5
 
-Le conseil d'administration du service universitaire des étudiants étrangers comprend :
+Le conseil du service universitaire des étudiants étrangers comprend :
 
 Le président de l'université ou son représentant, président ;
 

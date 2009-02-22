@@ -1,6 +1,6 @@
 # Article 4
 
-En application de l'article 44 de la loi n° 84-52 du 26 janvier 1984 susvisée, il peut être créé un service de la formation des formateurs commun à plusieurs établissements publics à caractère scientifique, culturel et professionnel.
+En application de l'article L. 714-2 du code de l'éducation, il peut être créé un service de la formation des formateurs commun à plusieurs établissements publics à caractère scientifique, culturel et professionnel.
 
 La décision de création d'un service commun à plusieurs établissements est soumise à la conclusion, par les établissements concernés, d'une convention à durée limitée, tacitement renouvelable, fixant les conditions de fonctionnement du service commun.
 

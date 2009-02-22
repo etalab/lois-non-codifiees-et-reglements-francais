@@ -4,7 +4,7 @@ Le service commun universitaire de la formation des formateurs est dirigé par u
 
 Les statuts du service commun précisent la durée du mandat du directeur.
 
-Le directeur est chargé [*attributions*] de conduire l'action du service commun.
+Le directeur est chargé de conduire l'action du service commun.
 
 Il exerce notamment les compétences suivantes :
 
@@ -12,6 +12,6 @@ Il exerce notamment les compétences suivantes :
 
 - il prépare le budget du service commun qu'il soumet à l'approbation du conseil d'administration ;
 
-- il peut recevoir du président de l'université délégation de signature et mission de représenter l'université auprès des instances concernées par la formation des formateurs et la recherche en éducation, en formation et en didactique des disciplines, notamment auprès des missions académiques à la formation des personnels de l'éducation nationale.
+- il peut recevoir du président de l'université mission de représenter l'université auprès des instances concernées par la formation des formateurs et la recherche en éducation, en formation et en didactique des disciplines, notamment auprès des missions académiques à la formation des personnels de l'éducation nationale.
 
 Le directeur du service commun prépare un rapport annuel qu'il présente au conseil d'administration sur les activités organisées par l'université dans le cadre des missions prévues à l'article 2 du présent décret ; ce rapport est transmis au ministre chargé des universités.

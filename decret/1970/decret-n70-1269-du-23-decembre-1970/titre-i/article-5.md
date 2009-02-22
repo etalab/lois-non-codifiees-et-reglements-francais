@@ -2,4 +2,4 @@
 
 Le service universitaire des activités physiques, sportives et de plein air est dirigé par un directeur, choisi parmi les professeurs d'éducation physique et sportive affectés à l'université ou à l'établissement.
 
-Le directeur est nommé, sur proposition du conseil des sports, par le président de l'université ou de l'établissement. Il gère le service sous l'autorité du président de l'université. Il est de droit ordonnateur secondaire du budget propre de l'université pour l'exécution du budget propre au service.
+Le directeur est nommé, sur proposition du conseil des sports, par le président de l'université ou de l'établissement. Il gère le service sous l'autorité du président de l'université.

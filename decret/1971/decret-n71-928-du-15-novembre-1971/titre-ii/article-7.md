@@ -1,3 +1,3 @@
 # Article 7
 
-Lorsqu'un service interuniversitaire des étudiants étrangers est créé conformément aux dispositions du présent décret, les universités intéressées établissent un projet de convention pour régler l'organisation et le fonctionnement de ce service commun. Cette convention est soumise à l'approbation du ministre de l'éducation nationale.
+Lorsqu'un service interuniversitaire des étudiants étrangers est créé conformément aux dispositions du présent décret, les universités intéressées établissent un projet de convention pour régler l'organisation et le fonctionnement de ce service commun.
