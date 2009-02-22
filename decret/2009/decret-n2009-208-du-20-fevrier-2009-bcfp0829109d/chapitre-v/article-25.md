@@ -1,0 +1,3 @@
+# Article 25
+
+A compter de l'entrée en vigueur du présent décret et jusqu'à la constitution de la commission administrative paritaire du corps des administrateurs des finances publiques, au plus tard le 31 décembre 2012, les représentants aux commissions administratives paritaires des trésoriers-payeurs généraux, des chefs des services fiscaux, des receveurs des finances de 1re catégorie, des directeurs départementaux des impôts, des directeurs départementaux et inspecteurs principaux du Trésor public, des directeurs divisionnaires et des conservateurs des hypothèques siègent en formation commune pour les actes concernant les agents du corps des administrateurs des finances publiques.

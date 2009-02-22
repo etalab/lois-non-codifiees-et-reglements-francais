@@ -1,0 +1,3 @@
+# Article 13
+
+Les nominations au grade d'administrateur des finances publiques interviennent à l'échelon du grade comportant un indice égal ou, à défaut, immédiatement supérieur à celui détenu dans le grade ou emploi d'origine. Dans la limite de l'ancienneté moyenne exigée pour une promotion à l'échelon supérieur, ils conservent l'ancienneté acquise dans l'échelon de l'ancien grade ou emploi lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle que leur aurait procurée un avancement d'échelon dans leur ancien grade ou emploi ou qui a résulté de leur nomination audit échelon si cet échelon était le plus élevé de leur précédent grade ou emploi.
