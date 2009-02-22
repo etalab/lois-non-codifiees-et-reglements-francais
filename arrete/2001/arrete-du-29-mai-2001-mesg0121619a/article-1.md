@@ -1,43 +1,39 @@
 # Article 1
 
-La gestion des fonctionnaires de catégories A, B et C affectés dans les instituts nationaux de jeunes sourds, à l'Institut national des jeunes aveugles et aux Thermes nationaux d'Aix-les-Bains est déléguée au directeur de l'établissement concerné dans les conditions suivantes :
+La gestion des fonctionnaires de catégories A, B et C affectés dans les instituts nationaux de jeunes sourds et à l'Institut national des jeunes aveugles est déléguée au directeur de l'établissement concerné dans les conditions suivantes :
 
-I. - Pour les personnels appartenant aux corps en voie d'extinction énumérés ci-après, la totalité des pouvoirs de gestion est déléguée :
+I.-Pour les aides-soignants des instituts nationaux de jeunes sourds et de l'Institut national des jeunes aveugles, la totalité des pouvoirs de gestion est déléguée.
 
-Personnel technique du service de physiothérapie des Thermes nationaux d'Aix-les-Bains ;
+II.-Pour les personnels des catégories A, B et C autres que celui mentionné au I ci-dessus, la délégation porte sur tout ou partie des décisions de gestion, à l'exception des actes suivants :
 
-Aide-soignant des instituts nationaux de jeunes sourds et de l'Institut national des jeunes aveugles.
+1° Décision initiale d'ouverture des concours ;
 
-II. - Pour les personnels des catégories A, B et C autres que ceux mentionnés au I ci-dessus, la délégation porte sur tout ou partie des décisions de gestion, à l'exception des actes suivants :
+2° Recrutement ;
 
-1o Décision initiale d'ouverture des concours ;
+3° Affectation après concours ;
 
-2o Recrutement ;
+4° Nomination et titularisation ;
 
-3o Affectation après concours ;
+5° Avancement de grade et changement de corps ;
 
-4o Nomination et titularisation ;
+6° Mutation ;
 
-5o Avancement de grade et changement de corps ;
+7° Détachement autre que de droit ;
 
-6o Mutation ;
+8° Mise en position hors cadres ;
 
-7o Détachement autre que de droit ;
+9° Mise à disposition ;
 
-8o Mise en position hors cadres ;
+10° Disponibilité autre que de droit ;
 
-9o Mise à disposition ;
+11° Péréquation de la notation ;
 
-10o Disponibilité autre que de droit ;
+12° Avancement accéléré d'échelon ;
 
-11o Péréquation de la notation ;
+13° Sanctions disciplinaires ;
 
-12o Avancement accéléré d'échelon ;
+14° Décisions entraînant la cessation définitive de fonctions ;
 
-13o Sanctions disciplinaires ;
+15° Congés pour formation syndicale et décharge d'activité de service ;
 
-14o Décisions entraînant la cessation définitive de fonctions ;
-
-15o Congés pour formation syndicale et décharge d'activité de service ;
-
-16o Réintégration, à l'issue de la mise en position hors cadres, de la mise à disposition du détachement dans le cas mentionné au 7o ci-dessus et la disponibilité dans le cas mentionné au 10o ci-dessus.
+16° Réintégration, à l'issue de la mise en position hors cadres, de la mise à disposition du détachement dans le cas mentionné au 7° ci-dessus et la disponibilité dans le cas mentionné au 10° ci-dessus.
