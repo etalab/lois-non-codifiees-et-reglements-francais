@@ -1,6 +1,7 @@
 # Section 4 : Conduites, organes de coupure et de détente
 
 - [Article GZ 12](article-gz-12.md)
+- [Article GZ 13](article-gz-13.md)
 - [Article GZ 14](article-gz-14.md)
 - [Article GZ 15](article-gz-15.md)
 - [Article GZ 16](article-gz-16.md)
