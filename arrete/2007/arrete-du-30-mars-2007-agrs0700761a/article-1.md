@@ -16,49 +16,53 @@ En application de l'article 2 du décret du 4 janvier 2006 susvisé, la liste de
 
 -adjoint au sous-directeur de la logistique et du patrimoine au secrétariat général ;
 
--chef du bureau des chambres d'agriculture et de leur assemblée permanente au secrétariat général ;
-
--chargé de mission politique immobilière au secrétariat général ;
-
--adjoint au sous-directeur de la gestion des personnels au secrétariat général ;
-
 -chef du projet "droit à l'information sur les retraites" auprès du chef de service des ressources humaines au secrétariat général ;
 
--responsable de la mission de coordination de la paye au secrétariat général ;
+-chef du bureau de la coordination de la paye et des régimes indemnitaires au secrétariat général (à compter du 2/7/2008) ;
 
 -chef du bureau de la filière administrative au secrétariat général ;
 
--chef du bureau des concours au secrétariat général ;
+-chef du bureau des concours et des examens professionnels au secrétariat général (à compter du 2/7/2008) ;
 
--chef du bureau des affaires générales à la direction générale de l'alimentation ;
+-chef du bureau des pensions au secrétariat général (A compter du 1er janvier 2009) ;
 
--chef du bureau des moyens financiers et du contrôle de gestion à la direction générale de l'alimentation ;
+-chef du bureau de l'assujettissement et des cotisations sociales au secrétariat général (A compter du 1er janvier 2009) ;
+
+-chef de la mission des procédures et de la diffusion de l'information juridique au secrétariat général (A compter du 1er janvier 2009) ;
+
+-chef du bureau du droit de l'administration au secrétariat général (A compter du 1er janvier 2009) ;
+
+-chef de la mission des affaires générales à la direction générale de l'alimentation (à compter du 2/7/2008) ;
+
+-adjoint au chef de la mission des affaires générales à la direction générale de l'alimentation (à compter du 2/7/2008) ;
+
+-adjoint au sous-directeur de l'enseignement supérieur et de la recherche à la direction générale de l'enseignement et de la recherche (à compter du 2/7/2008) ;
 
 -chef de la mission des affaires générales à la direction générale de l'enseignement et de la recherche ;
 
--chef du bureau des pôles de compétences et des établissements d'enseignement supérieur à la direction générale de l'enseignement et de la recherche ;
+-chef du bureau des établissements et des contrats à la direction générale de l'enseignement et de la recherche (à compter du 2/7/2008) ;
 
 -Chef du bureau des initiatives de partenariats et d'innovation à la direction générale de l'enseignement et de la recherche (a compter du 2 juillet 2008) ;
 
--chef du bureau de l'emploi et du développement de l'activité à la direction générale de la forêt et des affaires rurales ;
+-chargé de mission et de communication à la direction générale des politiques agricole, agroalimentaire et des territoires (à compter du 2/7/2008) ;
 
--chargé de mission et de communication à la direction générale de la forêt et des affaires rurales ;
-
--chef du bureau des statuts et des structures à la direction générale de la forêt et des affaires rurales ;
+-chef du bureau des statuts et structures à la direction générale des politiques agricole, agroalimentaire et des territoires (à compter du 2/7/2008) ;
 
 -chef du bureau de l'installation à la direction générale de la forêt et des affaires rurales ;
 
 -Chef du département de la santé des forêts à la direction générale de l'alimentation (A compter du 2 juillet 2008) ;
 
--chef du bureau des procédures juridiques communautaires à la direction générale des politiques économique, européenne et internationale ;
+- chef du bureau du management au service des nouvelles des marchés au secrétariat général (A compter du 2 juillet 2008) ;
 
--chef du bureau du management à la direction générale des politiques économique, européenne et internationale ;
+- chef du bureau de la politique structurelle et des concours publics à la direction des pêches maritimes et de l'aquaculture (A compter du 2 juillet 2008) ;
 
--chef du bureau des signes de qualité et de l'agriculture biologique à la direction générale des politiques économique, européenne et internationale ;
+-chef de la mission de liaison et de coordination pour l'outre-mer à la direction générale des politiques agricole, agroalimentaire et des territoires (A compter du 1er janvier 2009) ;
 
 -chef du bureau de la conjoncture et de l'observation économique des marchés au service des nouvelles des marchés au secrétariat général (A compter du 2 juillet 2008);
 
--Chef du bureau de l'installation et de la modernisation à la direction générale des politiques agricole, agroalimentaires et des territoires (A compter du 2 juillet 2008).
+-Chef du bureau de l'installation et de la modernisation à la direction générale des politiques agricole, agroalimentaires et des territoires (A compter du 2 juillet 2008) :
+
+- adjoint au chef du bureau de l'installation et de la modernisation à la direction générale des politiques agricole, agroalimentaire et des territoires (A compter du 2 juillet 2008).
 
 **b) Dans les services déconcentrés** :
 
@@ -83,6 +87,8 @@ En application de l'article 2 du décret du 4 janvier 2006 susvisé, la liste de
 -chef du service d'économie agricole à la direction départementale de l'agriculture et de la forêt de l'Aude ;
 
 -directeur départemental de l'agriculture et de la forêt de l'Aude ; (ajouté à compter du 15 mars 2008) ;
+
+-secrétaire général de la direction départementale de l'équipement et de l'agriculture de l'Aude (à compter du 1er mars 2009) ;
 
 -chef du service de l'espace rural, de l'environnement et de la forêt, chef de la mission interservices de l'eau à la direction départementale de l'agriculture et de la forêt de l'Aveyron ;
 
@@ -142,13 +148,9 @@ En application de l'article 2 du décret du 4 janvier 2006 susvisé, la liste de
 
 -chef du service des équipements publics à la direction départementale de l'agriculture et de la forêt de la Loire-Atlantique ;
 
--directeur départemental délégué à la direction départementale de l'agriculture et de la forêt du Loiret ;
-
 -chef du service de l'eau, forêt et environnement à la direction départementale de l'équipement et de l'agriculture du Lot ;
 
 -directeur adjoint de la direction départementale de l'équipement et de l'agriculture du Lot ; (ajouté à compter du 14 avril 2008) ;
-
--adjoint au secrétaire général de la direction départementale de l'équipement et de l'agriculture et de la direction départementale des services vétérinaires du Lot ;
 
 -chef du service équipement rural à la direction départementale de l'agriculture et de la forêt de Maine-et-Loire ;
 
@@ -170,8 +172,6 @@ En application de l'article 2 du décret du 4 janvier 2006 susvisé, la liste de
 
 -chef du service environnement à la direction départementale de l'agriculture et de la forêt de la Nièvre ;
 
--directeur départemental délégué à la direction départementale de l'agriculture et de la forêt du Nord ;
-
 -chef du service de l'ingénierie de l'eau et des équipements ruraux à la direction départementale de l'agriculture et de la forêt Nord ;
 
 -chef du service eaux et forêts, chef de la mission interservices de l'eau à la direction départementale de l'agriculture et de la forêt de l'Oise ;
@@ -186,13 +186,13 @@ En application de l'article 2 du décret du 4 janvier 2006 susvisé, la liste de
 
 -chef du service d'économie agricole à la direction départementale de l'agriculture et de la forêt de la Sarthe ;
 
+-secrétaire général de la direction départementale de l'équipement et de l'agriculture de la Haute-Saône (ajouté à compter du 1er janvier 2009) ;
+
 -chef du service d'économie agricole à la direction départementale de l'agriculture et de la forêt de la Savoie (ajouté à compter du 17 octobre 2008) ;
 
 -chef du service d'économie agricole et des industries agroalimentaires à la direction départementale de l'agriculture et de la forêt de la Haute-Savoie ;
 
 - chef du service d'appui aux collectivités locales à la direction départementale de l'agriculture et de la forêt de la Seine-Maritime ;
-
--secrétaire général de la direction départementale de l'agriculture et de la forêt et de la direction départementale des services vétérinaires de Seine-et-Marne ;
 
 -secrétaire général de la direction départementale de l'agriculture et de la forêt et de la direction départementale des services vétérinaires des Deux-Sèvres ;
 
@@ -204,11 +204,7 @@ En application de l'article 2 du décret du 4 janvier 2006 susvisé, la liste de
 
 -chef du service d'économie agricole à la direction départementale de l'équipement et de l'agriculture du Territoire de Belfort ;
 
--secrétaire général de la direction départementale de l'agriculture et de la forêt et de la direction départementale des services vétérinaires de la Vendée ;
-
 -secrétaire général de la direction départementale de l'agriculture et de la forêt et de la direction départementale des services vétérinaires de la Vienne ;
-
--directeur départemental délégué de la direction départementale de l'agriculture et de la forêt de la Haute-Vienne ;
 
 -chef du service équipements et aménagement rural à la direction départementale de l'agriculture et de la forêt de la Haute-Vienne ;
 
@@ -236,8 +232,6 @@ En application de l'article 2 du décret du 4 janvier 2006 susvisé, la liste de
 
 -secrétaire général de la direction régionale de l'agriculture et de la forêt de Bretagne, de la direction départementale de l'agriculture et de la forêt d'Ille-et-Vilaine et de la direction départementale des services vétérinaires d'Ille-et-Vilaine ;
 
--secrétaire général de la direction régionale de l'agriculture et de la forêt du Centre, de la direction départementale de l'agriculture et de la forêt du Loiret et de la direction départementale des services vétérinaires du Loiret ;
-
 -secrétaire général de la direction régionale de l'agriculture et de la forêt de Champagne-Ardenne, de la direction départementale de l'agriculture et de la forêt de la Marne et de la direction départementale des services vétérinaires de la Marne ;
 
 -chef du service régional d'information statistique et économique à la direction régionale et de l'agriculture et de la forêt Champagne-Ardenne ;
@@ -249,6 +243,8 @@ En application de l'article 2 du décret du 4 janvier 2006 susvisé, la liste de
 - chargé de mission régional assurance qualité auprès du directeur départemental des services vétérinaires de l'Hérault ;
 
 -délégué régional à la formation continue à la direction régionale de l'agriculture et de la forêt de Languedoc-Roussillon ;
+
+-secrétaire général de la direction régionale de l'alimentation, de l'agriculture et de la forêt de Languedoc-Roussillon (ajouté à compter du 1er janvier 2009) ;
 
 -chef du service régional de la formation et du développement à la direction régionale de l'agriculture et de la forêt de Lorraine ;
 
@@ -274,23 +270,13 @@ En application de l'article 2 du décret du 4 janvier 2006 susvisé, la liste de
 
 -secrétaire général de la direction régionale et interdépartementale de l'agriculture et de la forêt d'Ile-de-France et de la direction départementale des services vétérinaires de Paris ;
 
--animateur du réseau juridique Sud-Est ;
-
--animateur du réseau juridique Sud-Ouest ;
-
--animateur du réseau juridique Grand Ouest ;
-
 -animateur technique de l'ingénierie d'appui territorial pour l'interrégion Aquitaine-Poitou-Charentes-Limousin et Midi-Pyrénées ;
 
--animateur technique de l'ingénierie d'appui territorial pour l'interrégion Alsace, Lorraine, Champagne-Ardenne, Ile-de-France, Nord-Pas-de-Calais, Picardie, Bourgogne et Franche-Comté ;
+-animateur technique de l'ingénierie d'appui territorial pour l'interrégion Alsace, Lorraine, Champagne-Ardenne, Ile-de-France, Nord-Pas-de-Calais, Picardie, Bourgogne et Franche-Comté.
 
 **II.-Dans les établissements d'enseignement relevant du ministre chargé de l'agriculture**
 
-Agent comptable de l'agence comptable de l'Ecole nationale vétérinaire de Lyon.
-
 Agent comptable de l'agence comptable regroupant l'Ecole nationale d'ingénieurs des travaux agricoles de Clermont-Ferrand et le Centre national de promotion rurale de Marmilhat.
-
-Directeur des achats publics d'Agro ParisTech.
 
 Adjoint au secrétaire général et responsable des ressources humaines de l'Ecole nationale vétérinaire de Toulouse.
 
@@ -298,21 +284,19 @@ Chef du service financier de Montpellier Sup Agro.
 
 Gestionnaire administratif et financier de l'Etablissement national d'enseignement supérieur agronomique de Dijon.
 
-Gestionnaire administratif et financier de l'établissement public local d'Angoulême, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique.
-
 Gestionnaire administratif et financier de l'établissement public local d'Avize, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique.
 
 Gestionnaire administratif et financier de l'établissement public local de Bordeaux-Blanquefort, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique.
 
 Gestionnaire administratif et financier de l'établissement public local de Chambéry, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique.
 
-Gestionnaire administratif et financier de l'établissement public local de La Côte-Saint-André, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique.
-
-Gestionnaire administratif et financier de l'établissement public local de Grenoble-Saint-Ismier, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique.
-
 Gestionnaire administratif et financier de l'établissement public local de l'Hérault, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique.
 
-Gestionnaire administratif et financier de l'établissement public local du Calvados Le Robillard, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique.
+Gestionnaire administratif et financier de l'établissement public local des Landes, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique (ajouté à compter du 1er janvier 2009).
+
+Gestionnaire administratif et financier de l'établissement public local de Lons-le-Saunier, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique (ajouté à compter du 1er janvier 2009).
+
+Responsable du service financier de l'Ecole nationale d'ingénieurs des techniques des industries agricoles et alimentaires de Nantes (ajouté à compter du 1er janvier 2009).
 
 Gestionnaire administratif et financier de l'établissement public local de Nevers-Cosnes, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique.
 
@@ -320,25 +304,23 @@ Gestionnaire administratif et financier de l'établissement public local de Nîm
 
 Gestionnaire administratif et financier de l'établissement public local d'Ondes, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique.
 
-Gestionnaire administratif et financier de l'établissement public local de Pau Montardon, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique.
-
 Gestionnaire administratif et financier de l'établissement public local de Pontivy, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique.
 
 Gestionnaire administratif et financier de l'établissement public local de Rennes-Le Rheu, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique.
 
-Gestionnaire administratif et financier de l'établissement public local de La Roche-sur-Foron, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique.
+Gestionnaire administratif et financier de l'établissement public local de Romans, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique (ajouté à compter du 1er janvier 2009).
 
 Gestionnaire administratif et financier de l'établissement public local de Saint-Germain-en-Laye, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique.
+
+Gestionnaire administratif et financier de l'établissement public local de Saint-Joseph, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique (ajouté à compter du 1er janvier 2009).
 
 Gestionnaire administratif et financier de l'établissement public local de Toulouse, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique.
 
 Gestionnaire administratif et financier de l'établissement public local de Valence, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique.
 
-Gestionnaire administratif et financier de l'établissement public local de Venours, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique.
-
-Chargé de mission du Centre national de promotion rurale de Marmilhat, du Centre d'enseignement zootechnique de Rambouillet et du Centre d'étude du milieu et de pédagogie appliquée du ministère de l'agriculture.
-
 Secrétaire général de l'Institut national de formation des personnels du ministère de l'agriculture (INFOMA).
+
+Gestionnaire administratif et financier de l'établissement public local de la Guadeloupe, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique (ajouté à compter du 1er janvier 2009).
 
 **III.-Dans les services du ministère de l'écologie et du développement durable**
 
@@ -360,9 +342,11 @@ Secrétaire général de l'Institut national de formation des personnels du mini
 
 - chef du service d'assistance aux collectivités à la direction départementale de l'équipement d'Eure-et-Loir ;
 
+- secrétaire général de la direction départementale de l'équipement d'Indre-et-Loire (A compter du 1er septembre 2008) ;
+
 -chef du service de l'eau et des milieux aquatiques à la direction régionale de l'environnement de la Guadeloupe ;
 
--secrétaire général de la direction régionale de l'environnement de la Martinique. (Ajouté à compter du 3 novembre 2008) ;
+-secrétaire général de la direction régionale de l'environnement de la Martinique. (à compter du 3 novembre 2008) ;
 
 **IV.-Dans les établissements publics qui dépendent du ministère chargé de l'agriculture et / ou du ministère chargé de l'environnement**
 
