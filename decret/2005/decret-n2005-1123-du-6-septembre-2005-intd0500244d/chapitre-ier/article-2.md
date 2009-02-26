@@ -1,6 +1,6 @@
 # Article 2
 
-La certification professionnelle atteste notamment des connaissances et de savoir-faire relatifs :
+La certification professionnelle et le certificat de qualification professionnelle attestent notamment des connaissances et de savoir-faire relatifs :
 
 a) A la loi du 12 juillet 1983 susvisée et ses décrets d'application, et plus spécifiquement aux conditions de moralité requises pour l'accès à la profession, aux dispositions visant à éviter la confusion avec un service public, à l'interdiction d'entrave au libre usage des biens ainsi qu'à l'interdiction de coercition à l'égard des personnes et aux sanctions y afférentes ;
 
