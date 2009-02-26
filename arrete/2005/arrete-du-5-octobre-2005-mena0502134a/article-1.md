@@ -4,7 +4,7 @@ Les recteurs d'académie reçoivent, dans les limites fixées aux articles 2 à 
 
 1. Corps de catégorie C
 
-a) Adjoints administratifs des services déconcentrés régis par le décret n° 2006-1760 du 23 décembre 2006.
+a) Adjoints administratifs de l'éducation nationale et de l'enseignement supérieur régis par le décret n° 2006-1760 du 23 décembre 2006.
 
 b) Adjoints techniques des établissements d'enseignement du ministère chargé de l'éducation nationale régis par le décret n° 91-462 du 14 mai 1991.
 
@@ -12,7 +12,7 @@ c) Adjoints techniques de laboratoire régis par le décret n° 2006-1762 du 23 
 
 2. Corps de catégorie B
 
-a) Secrétaires d'administration scolaire et universitaire régis par le décret n° 94-1017 du 18 novembre 1994.
+a) Secrétaires administratifs de l'éducation nationale et de l'enseignement supérieur régis par le décret n° 94-1017 du 18 novembre 1994.
 
 b) Infirmières et infirmiers du ministère chargé de l'éducation nationale régis par le décret n° 94-1020 du 23 novembre 1994.
 
