@@ -8,9 +8,9 @@ a) Composition sur un sujet relatif aux bibliothèques, aux services de document
 
 coefficient 3);
 
-b) Rédaction des notices bibliographiques de monographies et de publications en série en langue française et en langues étrangères. L'utilisation des normes officielles de catalogage est autorisée (durée: trois heures;
+b) Traitement de questions et (ou) résolution de cas pratiques portant sur l'information bibliographique, sa structure et ses accès) conformément au programme annexé au présent arrêté (durée : trois heures ; coefficient 2).
 
-coefficient 2).
+L'utilisation des normes officielles de catalogage est autorisée.
 
 Toute note inférieure à 5 est éliminatoire.
 
@@ -22,11 +22,7 @@ a) Interrogation sur un sujet tiré au sort au début de l'épreuve portant sur 
 
 conversation: environ dix minutes; coefficient 3.)
 
-b) Epreuve de recherche documentaire à partir d'un sujet tiré au sort au début de l'épreuve, suivie de questions sur les répertoires bibliographiques et les banques de données, leur classement et leur indexation.
-
-(Préparation vingt minutes; interrogation environ vingt minutes;
-
-coefficient 2.)
+b) Epreuve de méthodologie de recherche documentaire consistant à traiter un cas concret, tiré au sort au début de l'épreuve, élaboré conformément au programme annexé au présent arrêté. Cette épreuve comprend un exposé suivi de questions sur les ressources documentaires (outils et contenus), leur nature, leur organisation et leurs accès (préparation : vingt minutes ; dix minutes pour l'exposé et dix minutes pour les questions ; coefficient 2).
 
 3. Epreuves d'admission facultatives:
 
@@ -37,9 +33,3 @@ Seuls sont pris en compte en vue de l'admission les points au-dessus de la moyen
 (Préparation: vingt minutes; traduction: environ dix minutes; commentaire:
 
 environ dix minutes; coefficient 1.)
-
-b) En application du décret no 86-441 du 14 mars 1986, épreuve portant sur le traitement automatisé de l'information dont le programme est fixé en annexe du présent arrêté.
-
-Seuls sont pris en compte en vue de l'admission les points au-dessus de la moyenne.
-
-(Préparation vingt minutes; interrogation vingt minutes; coefficient 1.)
