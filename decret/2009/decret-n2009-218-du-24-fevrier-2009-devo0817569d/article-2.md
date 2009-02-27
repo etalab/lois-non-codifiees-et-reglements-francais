@@ -1,0 +1,3 @@
+# Article 2
+
+Par dérogation aux dispositions de l'article R. 213-76-4 du code de l'environnement, pour l'année 2009, le montant des encaissements réalisés visés au troisième alinéa de cet article peut être calculé en multipliant le montant des redevances émises par le rapport entre le montant des factures d'eau acquittées et le montant des factures d'eau émises, ces montants étant hors TVA. Le montant des redevances émises est la somme du produit du volume d'eau facturé par le taux de la redevance mentionnée à l'article L. 213-10-3 et du produit du volume soumis à la redevance communale d'assainissement par le taux de la redevance mentionnée à l'article L. 213-10-6.

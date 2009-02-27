@@ -1,0 +1,3 @@
+# Article 1
+
+Les conditions techniques de production adoptées par le Comité national des indications géographiques protégées, labels rouges et spécialités traditionnelles garanties en sa séance du 11 février 2009 relatives aux cahiers des charges des labels rouges : LA 01-65, LA 04-72, LA 02-71, LA 01-79, LA 01-78, LA 07-00, LA 09-82, LA 06-88, LA 03-00, LA 12-89, LA 01-81, LA 08-85, LA 07-86, LA 12-77, LA 10-77 et des indications géographiques protégées : « Volailles des Landes », « Volailles de Gascogne », « Volailles du Gers » et « Canard à foie gras du Sud-Ouest » sont approuvées. Ces conditions sont applicables à compter du 24 janvier 2009 pour une durée de quatre mois.
