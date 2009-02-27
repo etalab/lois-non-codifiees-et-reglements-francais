@@ -389,31 +389,76 @@ COMITÉS TECHNIQUES PARITAIRES CENTRAUX D'ÉTABLISSEMENTS PUBLICS RELEVANT DU MI
 </td>
 </tr>
 <tr>
-<td valign="top"> Ecole nationale supérieure Louis Lumière</td>
-<td align="center"> 3<br/>
+<td valign="top">Ecole nationale supérieure Louis Lumière</td>
+<td align="center">3<br/>
 </td>
-<td align="center"> 3<br/>
+<td align="center">3<br/>
 </td>
 </tr>
 <tr>
-<td> Institut d'administration des entreprises de Paris</td>
-<td align="center"> 4</td>
-<td align="center"> 4</td>
+<td>Institut d'administration des entreprises de Paris</td>
+<td align="center">4</td>
+<td align="center">4</td>
 </tr>
 <tr>
-<td> Institut français de mécanique avancée</td>
-<td align="center"> 4</td>
-<td align="center"> 4</td>
+<td>Institut français de mécanique avancée</td>
+<td align="center">4</td>
+<td align="center">4</td>
 </tr>
 <tr>
-<td> Ecole nationale supérieure de chimie de Lille</td>
-<td align="center"> 4</td>
-<td align="center"> 4</td>
+<td>Ecole nationale supérieure de chimie de Lille</td>
+<td align="center">4</td>
+<td align="center">4</td>
 </tr>
 <tr>
-<td> Ecole nationale d'ingénieurs de Saint-Etienne</td>
-<td align="center"> 5</td>
-<td align="center"> 5</td>
+<td>Ecole nationale d'ingénieurs de Saint-Etienne</td>
+<td align="center">5</td>
+<td align="center">5</td>
+</tr>
+<tr>
+<td>  Institut d'études politiques d'Aix-en-Provence </td>
+<td>
+<p align="center"> 3</p>
+</td>
+<td>
+<p align="center"> 3</p>
+</td>
+</tr>
+<tr>
+<td> Institut d'études politiques de Lille </td>
+<td>
+<p align="center"> 3</p>
+</td>
+<td>
+<p align="center"> 3</p>
+</td>
+</tr>
+<tr>
+<td> Institut d'études politiques de Lyon </td>
+<td>
+<p align="center"> 3</p>
+</td>
+<td>
+<p align="center"> 3</p>
+</td>
+</tr>
+<tr>
+<td> Institut d'études politiques de Rennes </td>
+<td>
+<p align="center"> 3</p>
+</td>
+<td>
+<p align="center"> 3</p>
+</td>
+</tr>
+<tr>
+<td> Ecole nationale supérieure d'ingénieurs de Caen </td>
+<td>
+<p align="center"> 5</p>
+</td>
+<td>
+<p align="center"> 5</p>
+</td>
 </tr>
 </tbody>
 </table>
