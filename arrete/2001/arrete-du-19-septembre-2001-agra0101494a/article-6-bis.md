@@ -546,86 +546,121 @@ Concours externe
 <table>
 <tbody>
 <tr>
-<td valign="top">
-<p align="center">NATURE DES ÉPREUVES</p>
+<th>
+<br/>NATURE DES ÉPREUVES<br/>
+</th>
+<th>
+<br/>DURÉE<br/>
+</th>
+<th>
+<br/>COEFFICIENT<br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Epreuve d'admissibilité<br/>
 </td>
-<td valign="top">
-<p align="center">DURÉE</p>
+<td align="center">
+<br/>
+<br/>
 </td>
-<td valign="top">
-<p align="center">COEFFICIENT</p>
+<td align="center">
+<br/>
+<br/>
 </td>
 </tr>
 <tr>
-<td valign="top">
-<p align="center">Epreuve d'admissibilité</p>
+<td align="center">
+<br/>Epreuve écrite, scientifique et technique de biochimie, microbiologie et de biologie appliquée (a)<br/>
 </td>
-<td valign="top">
-<pre> </pre>
+<td align="center">
+<br/>4 heures<br/>
 </td>
-<td valign="top">
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p>Epreuve écrite, scientifique et technique de biochimie, microbiologie et de biologie appliquée (a).</p>
-</td>
-<td valign="top">
-<p align="center">4 heures</p>
-</td>
-<td valign="top">
-<p align="center">4</p>
+<td align="center">
+<br/>4<br/>
 </td>
 </tr>
 <tr>
-<td valign="top">
-<p align="center">Epreuves d'admission</p>
+<td align="center">
+<br/>Epreuves d'admission<br/>
 </td>
-<td valign="top">
-<pre> </pre>
+<td align="center">
+<br/>
+<br/>
 </td>
-<td valign="top">
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p>1. Exposé scientifique et technique (b)</p>
-</td>
-<td valign="top">
-<p align="center">Préparation: 2 heures Epreuve: 2 heures maximum</p>
-</td>
-<td valign="top">
-<p align="center">3</p>
+<td align="center">
+<br/>
+<br/>
 </td>
 </tr>
 <tr>
-<td valign="top">
-<p>2. Epreuve pratique (c).</p>
+<td align="center">
+<br/>1. Exposé scientifique et technique (b)<br/>
 </td>
-<td valign="top">
-<p align="center">Préparation: 2 heures Epreuve: 50 minutes maximum (exposé: 20 minutes maximum, entretien: 30 minutes maximum)</p>
+<td align="center">
+<br/>Préparation : 2 heures<br/>
 </td>
-<td valign="top">
-<p align="center">3</p>
+<td align="center">
+<br/>3<br/>
 </td>
 </tr>
 <tr>
-<td colspan="3" rowspan="2" valign="top">
-<p>(a) L'épreuve a pour but de vérifier que le candidat maîtrise les connaissances fondamentales dans les divers domaines de la biochimie, de la microbiologie et du génie biologique. </p>
-<p>Le sujet pourra comporter une ou plusieurs questions, liées ou indépendantes. II pourra faire appel à l'utilisation de documents. </p>
-<p>L'évaluation devra permettre d'apprécier: </p>
-<p>- le niveau et l'actualité des connaissances; </p>
-<p>- l'aptitude à la réflexion et au raisonnement scientifique; </p>
-<p>- la clarté et la rigueur de l'expression écrite. </p>
-<p>(b) Epreuve sur dossier: </p>
-<p>Elle permet d'apprécier que le candidat: </p>
-<p>- connaît les contenus d'enseignement et les programmes de la discipline; </p>
-<p>- a réfléchi aux finalités et à l'évolution de la discipline ainsi que sur les relations de celle-ci avec les autres disciplines; </p>
-<p>- a des aptitudes à l'expression orale, à l'analyse, à la synthèse et à la communication. </p>
-<p>Elle prend appui sur un dossier, fourni par le jury, pouvant comprendre: des articles à caractère scientifique ou professionnel, des textes réglementaires, des documents ou supports d'enseignement (extraits de référentiels, annales...). </p>
-<p>(c) Epreuve pratique: Elle permet d'apprécier: - les capacités d'exécution des techniques dans des conditions satisfaisantes de sécurité et d'efficacité; - l'aptitude à appliquer ces techniques à des situations courantes du laboratoire, à organiser le travail et à choisir des méthodes adaptées, à exploiter les résultats et à juger de leur validité.</p>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>Epreuve : 50 minutes maximum<br/>
+<br/>(exposé : 20 minutes maximum<br/>
+<br/>entretien : 30 minutes maximum)<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>2. Epreuve pratique (c)<br/>
+</td>
+<td align="center">
+<br/>Préparation : 2 heures<br/>
+</td>
+<td align="center">
+<br/>3<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>Epreuve : 2 heures maximum<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<br/>a) L'épreuve a pour but de vérifier que le candidat maîtrise les connaissances fondamentales dans les divers domaines de la biochimie, de la microbiologie et du génie biologique.<br/>
+<br/>Le sujet pourra comporter une ou plusieurs questions, liées ou indépendantes. Il pourra faire appel à l'utilisation de documents.<br/>
+<br/>L'évaluation devra permettre d'apprécier :<br/>
+<br/>- le niveau et l'actualité des connaissances ;<br/>
+<br/>- l'aptitude à la réflexion et au raisonnement scientifique ;<br/>
+<br/>- la clarté et la rigueur de l'expression écrite.<br/>
+<br/>b) Epreuve sur dossier :<br/>
+<br/>Elle permet d'apprécier que le candidat :<br/>
+<br/>- connaît les contenus d'enseignement et les programmes de la discipline ;<br/>
+<br/>- a réfléchi aux finalités et à l'évolution de la discipline ainsi que sur les relations de celle-ci avec les autres disciplines ;<br/>
+<br/>- a des aptitudes à l'expression orale, à l'analyse, à la synthèse et à la communication.<br/>
+<br/>Elle prend appui sur un dossier, fourni par le jury, pouvant comprendre des articles à caractère scientifique ou professionnel, des textes réglementaires, des documents ou supports d'enseignement (extraits de référentiels, annales...).<br/>
+<br/>c) Epreuve pratique :<br/>
+<br/>Elle permet d'apprécier :<br/>
+<br/>- les capacités d'exécution des techniques dans des conditions satisfaisantes de sécurité et d'efficacité ;<br/>
+<br/>- l'aptitude à appliquer ces techniques à des situations courantes du laboratoire, à organiser le travail et à choisir des méthodes adaptées, à exploiter les résultats et à juger de leur validité.<br/>
 </td>
 </tr>
 </tbody>
