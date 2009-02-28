@@ -1,0 +1,3 @@
+# Article 7 bis
+
+L'établissement de formation est tenu d'assurer une durée de formation minimale obligatoire de 630 heures, stages inclus, pour le tronc commun, de 210 heures pour la mention " deux-roues " et de 245 heures pour la mention " groupe lourd ". Dans le cadre de stages pratiques en entreprise, les candidats inscrits en centre de formation peuvent dispenser des séances de formation théorique et pratique, à titre onéreux, à des élèves conducteurs dans les conditions définies dans l'arrêté du 10 octobre 1991 modifié relatif aux conditions d'exercice de la profession d'enseignant de la conduite automobile et de la sécurité routière.
