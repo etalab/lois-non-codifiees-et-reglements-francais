@@ -4,11 +4,15 @@ Tout rapport de sécurité établi par un EOQA respecte le plan ci-après ; les 
 
 1. Identification de l'EOQA
 
-1.1. Nom, prénom et numéro d'agrément de l'expert.
+1. 1. Nom, prénoms et numéro d'agrément de l'expert ou, pour un organisme, sa raison sociale et son numéro d'agrément.
 
-1.2. Identification et numéro d'agrément de l'organisme qualifié de rattachement.
+1. 2. Dans le cas d'un organisme, les nom et prénoms du dirigeant responsable des évaluations désigné pour la mission en cause.
 
-1.3. Identification des experts non agréés ayant participé à la présente évaluation et description de leur rôle.
+1 bis. Liste des personnes ayant participé à l'évaluation
+
+1 bis. 1. Identification des personnes ayant participé à la mission d'évaluation et description de leur rôle.
+
+1 bis. 2. Attestation signée de chacune des personnes ayant participé à la mission d'évaluation de leur non-participation à la conception ou à la réalisation du système sur lequel porte l'évaluation.
 
 2. Champ de l'évaluation de l'EOQA
 
@@ -26,9 +30,7 @@ Tout rapport de sécurité établi par un EOQA respecte le plan ci-après ; les 
 
 2.3.4. Liste des tests et essais examinés.
 
-3. Conclusions de l'EOQA lorsque son intervention
-
-porte sur une phase de conception
+3. Conclusions de l'EOQA lorsque son intervention porte sur une phase de conception
 
 3.1. Evaluation des risques naturels et technologiques ainsi que des autres risques, tels qu'ils ont été identifiés par l'autorité organisatrice des transports.
 
@@ -50,9 +52,7 @@ porte sur une phase de conception
 
 3.8. Evaluation des dispositions destinées à assurer la sécurité des personnes à mobilité réduite.
 
-4. Conclusions de l'EOQA lorsque son intervention
-
-porte sur le système de transport réalisé ou en cours de réalisation
+4. Conclusions de l'EOQA lorsque son intervention porte sur le système de transport réalisé ou en cours de réalisation
 
 4.1. Rappel des risques identifiés.
 
@@ -82,6 +82,12 @@ Les conclusions sont classées selon les rubriques ci-après :
 
 5.3. Défauts de sécurité majeurs.
 
-6. Signature
+6. Signature .
 
-Date et signature de l'EOQA et, le cas échéant, signature du responsable de l'organisme qualifié de rattachement.
+Date et signature de l'expert agréé ou, pour un organisme, du dirigeant responsable des évaluations.
+
+7. Rapports d'évaluation préparatoires au rapport de sécurité de l'EOQA
+
+7. 1. Pour chacun des domaines techniques mentionnés au II de l'article 3-1 du décret du 9 mai 2003 susvisé pour lequel une expertise est requise, le rapport d'évaluation de la sécurité de ce domaine technique préparatoire au rapport de sécurité établi par l'EOQA.
+
+7. 2. L'identification des signataires des rapports d'évaluation préparatoires.
