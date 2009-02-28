@@ -1,4 +1,5 @@
 # Arrêté du 19 septembre 2001 fixant les sections et les modalités d'organisation des concours d'accès du corps des professeurs de lycée professionnel agricole.
 
 - [Article 1](article-1.md)
+- [Article 3 bis (I)](article-3-bis-i.md)
 - [Article 3 bis (III)](article-3-bis-iii.md)
