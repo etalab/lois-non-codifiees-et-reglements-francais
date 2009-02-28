@@ -1,3 +1,0 @@
-# Article Annexe art. 4
-
-Pour chaque caisse mutuelle complémentaire et d'action sociale, la liste électorale comprend tous les membres du conseil d'administration qui en font partie un mois avant la date fixée pour les élections ; cette liste est arrêtée par la commission secondaire ou paritaire du service, de l'unité particulière d'exploitation ou de l'entreprise auprès duquel ou de laquelle a été constituée la caisse mutuelle complémentaire et d'action sociale considérée ; les listes électorales sont notifiées au président de la commission supérieure nationale du personnel vingt jours au moins avant la date fixée pour les élections ; elles sont communiquées par celui-ci aux délégués des listes de candidats prévus à l'article 5 ci-après.

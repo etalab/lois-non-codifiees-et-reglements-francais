@@ -1,3 +1,0 @@
-# Article 1
-
-Les cours d'eau du domaine public dans lesquels les membres des associations agréées de pêche et de pisciculture qui ont acquitté la taxe d'Etat afférente à la pêche du saumon ont la faculté, en dehors des cantonnements de leurs associations respectives, de s'adonner, en marchant dans l'eau, à la pêche de ce poisson sont tous les cours d'eau qui ont été classés ou qui seront classés parmi les cours d'eau dits à saumons par arrêté ministériel pris par application des dispositions de l'article 1er du décret du 29 août 1939 sur la pêche fluviale, modifié par décret du 23 janvier 1954.
