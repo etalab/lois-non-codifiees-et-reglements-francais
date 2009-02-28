@@ -370,7 +370,6 @@
 - [Arrêté du 19 octobre 2001 (AGRG0102092A)](arrete-du-19-octobre-2001-agrg0102092a)
 - [Arrêté du 19 octobre 2001 (INTC0100605A)](arrete-du-19-octobre-2001-intc0100605a)
 - [Arrêté du 19 septembre 2001 (AGRA0101494A)](arrete-du-19-septembre-2001-agra0101494a)
-- [Arrêté du 19 septembre 2001 (AGRA0101495A)](arrete-du-19-septembre-2001-agra0101495a)
 - [Arrêté du 20 avril 1995 (EQUS9500855A)](arrete-du-20-avril-1995-equs9500855a)
 - [Arrêté du 20 avril 1995 (EQUS9500857A)](arrete-du-20-avril-1995-equs9500857a)
 - [Arrêté du 20 avril 2001 (MESH0120779A)](arrete-du-20-avril-2001-mesh0120779a)
