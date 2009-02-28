@@ -236,6 +236,10 @@ Centre hospitalier Laennec, boulevard Laennec, 60109 Creil Cedex ;
 
 Centre hospitalier, 25, rue de Fresnay, BP 354, 61014 Alençon Cedex ;
 
+62-Pas-de-Calais
+
+Centre hospitalier Germon-et-Gautier-de-Béthune, service infectiologie, rue Delbecque, BP 809, 62408 Béthune.
+
 63 - Puy-de-Dôme
 
 Centre hospitalier universitaire, service Villemin-Pasteur, hôtel-Dieu, 63000 Clermont-Ferrand ;
@@ -295,6 +299,8 @@ Service communal d'hygiène et de santé, immeuble Le Cristal, 1, place du Forum
 Centre hospitalier, BP 2333, 1, avenue de Trésum, 74011 Annecy Cedex.
 
 75 - Paris
+
+ABCOS Santé (Centre médical ABCOS Santé), 14 bis, rue Daru, 75008 Paris.
 
 APAS, 52, avenue du Général-Michel-Bizot, 75012 Paris.
 

@@ -488,7 +488,6 @@
 - [Arrêté du 15 février 1996 (DEFT9601191A)](arrete-du-15-fevrier-1996-deft9601191a)
 - [Arrêté du 15 février 1996 (DEFT9601192A)](arrete-du-15-fevrier-1996-deft9601192a)
 - [Arrêté du 15 février 1996 (MENL9502764A)](arrete-du-15-fevrier-1996-menl9502764a)
-- [Arrêté du 15 janvier 1996 (AGRR9502257A)](arrete-du-15-janvier-1996-agrr9502257a)
 - [Arrêté du 15 janvier 1996 (BUDZ9600003A)](arrete-du-15-janvier-1996-budz9600003a)
 - [Arrêté du 15 janvier 1996 (ECOT9610259A)](arrete-du-15-janvier-1996-ecot9610259a)
 - [Arrêté du 15 janvier 1996 (ECOT9610260A)](arrete-du-15-janvier-1996-ecot9610260a)
