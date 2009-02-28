@@ -118,6 +118,7 @@
 - [Arrêté du 15 décembre 2006 (SANG0625049A)](arrete-du-15-decembre-2006-sang0625049a)
 - [Arrêté du 15 février 2006 (INTC0600116A)](arrete-du-15-fevrier-2006-intc0600116a)
 - [Arrêté du 15 mai 2006 (SOCT0611077A)](arrete-du-15-mai-2006-soct0611077a)
+- [Arrêté du 16 août 2006 (SANP0623370A)](arrete-du-16-aout-2006-sanp0623370a)
 - [Arrêté du 16 février 2006 (METF0610390A)](arrete-du-16-fevrier-2006-metf0610390a)
 - [Arrêté du 16 janvier 2006 (MAEA0520524A)](arrete-du-16-janvier-2006-maea0520524a)
 - [Arrêté du 16 janvier 2006 (SANP0620363A)](arrete-du-16-janvier-2006-sanp0620363a)
