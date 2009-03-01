@@ -763,7 +763,6 @@
 - [Décret n°93-597 du 26 mars 1993 (AGRA9300426D)](decret-n93-597-du-26-mars-1993-agra9300426d)
 - [Décret n°92-476 du 26 mai 1992 (SPSS9200931D)](decret-n92-476-du-26-mai-1992-spss9200931d)
 - [Décret n° 92-322 du 27 mars 1992 (AGRA9200003D)](decret-n-92-322-du-27-mars-1992-agra9200003d)
-- [Décret n°83-568 du 27 juin 1983](decret-n83-568-du-27-juin-1983)
 - [Décret n°91-1197 du 27 novembre 1991 (JUSX9110304D)](decret-n91-1197-du-27-novembre-1991-jusx9110304d)
 - [Décret n°91-1321 du 27 décembre 1991 (EQUS9101240D)](decret-n91-1321-du-27-decembre-1991-equs9101240d)
 - [Décret n°91-1404 du 27 décembre 1991 (SPSS9102274D)](decret-n91-1404-du-27-decembre-1991-spss9102274d)

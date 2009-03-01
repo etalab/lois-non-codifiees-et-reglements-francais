@@ -53,7 +53,6 @@
 - [Arrêté du 6 février 2009 (SASH0903239A)](arrete-du-6-fevrier-2009-sash0903239a)
 - [Arrêté du 6 février 2009 (SASP0903371A)](arrete-du-6-fevrier-2009-sasp0903371a)
 - [Arrêté du 6 février 2009 (SJSG0824493A)](arrete-du-6-fevrier-2009-sjsg0824493a)
-- [Arrêté du 6 janvier 2009 (DEFH0828698A)](arrete-du-6-janvier-2009-defh0828698a)
 - [Arrêté du 6 janvier 2009 (DEFH0831433A)](arrete-du-6-janvier-2009-defh0831433a)
 - [Arrêté du 6 janvier 2009 (IOCA0820592A)](arrete-du-6-janvier-2009-ioca0820592a)
 - [Arrêté du 6 mars 2008 (DEVA0774384A)](arrete-du-6-mars-2008-deva0774384a)
