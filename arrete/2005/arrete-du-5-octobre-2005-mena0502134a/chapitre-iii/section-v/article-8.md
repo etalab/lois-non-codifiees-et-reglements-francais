@@ -65,3 +65,13 @@ IV.-En matière de mutation
 1° Ouverture du droit à la prise en charge des frais de changement de résidence.
 
 2° Ouverture du droit à l'attribution de l'indemnité d'éloignement, de la prime spécifique d'installation et de l'indemnité particulière de sujétion et d'installation.
+
+V. En matière de cessation de fonctions :
+
+1° Acceptation de démission.
+
+2° Radiation des cadres en application des articles L. 27 et L. 29 du titre V du livre Ier du code des pensions civiles et militaires de retraite.
+
+3° Admission à la retraite.
+
+4° Radiation des cadres en cas d'abandon de poste.

@@ -68,8 +68,6 @@ LISTE DES INSTALLATIONS VISÉES À L'ARTICLE 2 (PAR RUBRIQUE DE LA NOMENCLATURE 
 
 2111 Volailles, gibier à plume (activités d'élevage de), à partir d'une capacité de 40 000.
 
-2170 Engrais et supports de culture (fabrication des), à partir de matières organiques, à partir d'une capacité de production de 50 t/j.
-
 2210 Abattage d'animaux, à partir d'une capacité de production de 50 t/j.
 
 2220 Alimentaires (préparation ou conservation de produits) d'origine végétale, à partir d'une capacité de production de 300 t/j.
@@ -80,7 +78,7 @@ LISTE DES INSTALLATIONS VISÉES À L'ARTICLE 2 (PAR RUBRIQUE DE LA NOMENCLATURE 
 
 2226 Amidonneries, féculeries, dextrineries, à partir d'une capacité de production de 300 t/j.
 
-2230 Lait (réception, stockage, traitement, transformation, etc., du), à partir d'une capacité de production de 200 t/j.
+2230 Lait (réception, stockage, traitement, transformation, etc., du), à partir d'une capacité de traitement 200 t/j.
 
 2240 Huiles végétales, huiles animales, corps gras (extraction ou traitement des), à partir d'une capacité de production de 75 t/j.
 
@@ -92,11 +90,11 @@ LISTE DES INSTALLATIONS VISÉES À L'ARTICLE 2 (PAR RUBRIQUE DE LA NOMENCLATURE 
 
 2253 Boissons (préparation, conditionnement de), à partir d'une capacité de production de 300 t/j.
 
+2260-1 Broyage, concassage, criblage, déchiquetage, ensachage, pulvérisation, trituration, granulation, nettoyage, tamisage, blutage, mélange, épluchage et décortication des substances végétales et de tous produits organiques naturels, y compris la fabrication d'aliments composés pour animaux, mais à l'exclusion des activités visées par les rubriques 2220, 2221, 2225, 2226. Traitement et transformation destinés à la fabrication de produits alimentaires, à partir d'une capacité de production de produits finis supérieure à 300 t / j.
+
 2311 Fibres d'origine végétale, cocons de vers à soie, fibres artificielles ou synthétiques (traitement de, par battage, cardage, lavage, etc.), à partir d'une capacité de traitement de 10 t/j.
 
 2312 Lavage des laines de peaux, laines brutes, laines en suint, à partir d'une capacité de traitement de 10 t/j.
-
-2315 Fabrication de fibres végétales artificielles et produits manufacturés dérivés, à partir d'une capacité de production de 20 t/j.
 
 2330 Teintures, impression, apprêt, enduction, blanchiment et délavage de matières textiles, à partir d'une capacité de traitement de 10 t/j.
 
@@ -110,7 +108,7 @@ LISTE DES INSTALLATIONS VISÉES À L'ARTICLE 2 (PAR RUBRIQUE DE LA NOMENCLATURE 
 
 2450 Imprimerie ou ateliers de reproduction graphique, à partir d'une capacité de consommation de solvant de plus de 150 kg par heure ou de plus de 200 tonnes par an.
 
-2520 Ciments, chaux, plâtres (fabrication de produits), à partir d'une capacité de production de 50 t/j.
+2520 Ciments, chaux, (fabrication de) fabrication de ciments dans des fours rotatifs d'une capacité de production supérieure à 500 t / j ou dans d'autres types de fours à partir d'une capacité de production supérieure à 50 t / j, fabrication de chaux dans tout type de fours à partir d'une capacité de production supérieure à 50 t / j.
 
 2523 Céramiques et réfractaires (fabrication de produits), à partir d'une capacité de production de 75 t/j.
 
@@ -132,13 +130,11 @@ LISTE DES INSTALLATIONS VISÉES À L'ARTICLE 2 (PAR RUBRIQUE DE LA NOMENCLATURE 
 
 2552 Fonderie (fabrication de produits moulés) de métaux et alliages non ferreux, à partir d'une capacité de production de 20 t/j.
 
-2560 Métaux et alliages (travail mécanique des), à partir d'une puissance calorifique de 20 000 kW.
-
-2564 Nettoyage, dégraissage, décapage de surfaces, à partir d'une capacité de consommation de solvant de plus de 150 kg par heure ou de plus de 200 tonnes par an.
+2560 Métaux et alliages (travail mécanique des métaux ferreux) par laminage à chaud avec une capacité supérieure à 20 tonnes d'acier brut par heure, par forgeage à l'aide de marteaux dont l'énergie de frappe dépasse 50 kilojoules par marteau et lorsque la puissance calorifique mise en œuvre est supérieure à 20 MW. 2564 Nettoyage, dégraissage, décapage de surfaces, à partir d'une capacité de consommation de solvant de plus de 150 kg par heure ou de plus de 200 tonnes par an.
 
 2565 Revêtement métallique ou traitement de surfaces par voie électrolytique ou chimique, à partir d'un volume de cuves de bain de traitement de 30 000 l.
 
-2567 Métaux (galvanisation, étamage de) ou revêtement métallique d'un matériau quelconque par immersion ou par pulvérisation de métal fondu, à partir d'un volume de bain de traitement de 10 000 l.
+2567 Métaux (galvanisation, étamage de) ou revêtement métallique d'un matériau quelconque par immersion ou par pulvérisation de métal fondu, à partir d'une capacité de traitement supérieure à 2 tonnes d'acier brut par heure.
 
 2610 Superphosphates (fabrication des).
 
@@ -150,11 +146,7 @@ LISTE DES INSTALLATIONS VISÉES À L'ARTICLE 2 (PAR RUBRIQUE DE LA NOMENCLATURE 
 
 2660 Polymère (matières plastiques, caoutchoucs, élastomères, résines et adhésifs synthétiques) (fabrication industrielle ou régénération).
 
-2680 Organismes génétiquement modifiés (installations où sont mis en oeuvre dans un processus de production industrielle ou commercial des).
-
 2681 Micro-organismes naturels pathogènes (mise en oeuvre dans des installations de production industrielle).
-
-2690 Produits opothérapiques (préparation de).
 
 2730 Sous-produits d'origine animale, y compris débris, issues et cadavres (traitement de), à partir d'une capacité de traitement de 10 t/j.
 

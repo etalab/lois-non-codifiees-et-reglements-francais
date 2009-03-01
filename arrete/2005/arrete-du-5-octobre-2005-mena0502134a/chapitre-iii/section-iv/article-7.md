@@ -2,7 +2,7 @@
 
 Les pouvoirs délégués aux recteurs d'académie en matière de recrutement et de gestion des personnels appartenant au corps des attachés d'administration de l'éducation nationale et de l'enseignement supérieur mentionnés au 3 de l'article 1er sont les suivants :
 
-I. - En matière de recrutement
+I.-En matière de recrutement
 
 1° Etablissement de la liste des candidats autorisés à prendre part aux épreuves des concours et des examens professionnels.
 
@@ -12,7 +12,7 @@ I. - En matière de recrutement
 
 4° Reclassement, en application du décret du 30 novembre 1984 susvisé.
 
-II. - En matière de modalités d'exercice des fonctions
+II.-En matière de modalités d'exercice des fonctions
 
 1° Octroi des congés prévus à l'article 34 de la loi du 11 janvier 1984 susvisée, sauf dans les cas où l'avis du Comité médical supérieur est requis.
 
@@ -50,7 +50,7 @@ II. - En matière de modalités d'exercice des fonctions
 
 18° Détachement dans un centre de formation d'apprentis.
 
-III. - En matière de déroulement de carrière
+III.-En matière de déroulement de carrière
 
 1° Etablissement de la liste des candidats autorisés à prendre part à l'épreuve de l'examen professionnel préalable à l'avancement de grade.
 
@@ -74,10 +74,28 @@ III. - En matière de déroulement de carrière
 
 11° Instruction des demandes de validation pour la retraite des services de non-titulaires.
 
-IV. - En matière de mutation
+IV.-En matière de mutation
 
 1° Ouverture du droit à la prise en charge des frais de changement de résidence.
 
 2° Ouverture du droit à l'attribution de l'indemnité d'éloignement, de la prime spécifique d'installation et de l'indemnité particulière de sujétion et d'installation.
 
 3° Opérations de mutations intra-académiques.
+
+V.-En matière disciplinaire :
+
+1° Instruction des dossiers disciplinaires et saisine de la commission administrative paritaire académique siégeant en conseil de discipline.
+
+2° Sanctions disciplinaires des premier et deuxième groupes mentionnées à l'article 66 de la loi du 11 janvier 1984 susvisée.
+
+3° Sanctions disciplinaires mentionnées aux 1°, 2° et 3° de l'article 10 du décret du 7 octobre 1994 susvisé.
+
+VI.-En matière de cessation de fonctions :
+
+1° Acceptation de démission.
+
+2° Radiation des cadres en application des articles L. 27 et L. 29 du titre V du livre Ier du code des pensions civiles et militaires de retraite.
+
+3° Admission à la retraite.
+
+4° Radiation des cadres en cas d'abandon de poste.

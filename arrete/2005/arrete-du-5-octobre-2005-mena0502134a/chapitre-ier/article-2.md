@@ -119,3 +119,5 @@ VI.-En matière de cessation de fonctions
 8° Radiation des cadres pour inaptitude physique conformément aux dispositions du dernier alinéa de l'article 49 du décret du 16 septembre 1985 susvisé.
 
 9° Radiation après intégration dans un autre corps ou cadre d'emplois.
+
+10° Radiation des cadres en application des articles L. 27 et L. 29 du titre V du livre Ier du code des pensions civiles et militaires de retraite.

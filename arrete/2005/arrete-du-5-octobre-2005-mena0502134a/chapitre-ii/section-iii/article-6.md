@@ -71,3 +71,5 @@ V.-En matière de cessation de fonctions
 3° Radiation des cadres en cas d'abandon de poste.
 
 4° Radiation après intégration dans un autre corps ou cadre d'emplois.
+
+5° Radiation des cadres en application des articles L. 27 et L. 29 du titre V du livre Ier du code des pensions civiles et militaires de retraite.
