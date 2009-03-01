@@ -2,7 +2,7 @@
 
 Le dossier de demande d'autorisation d'une recherche biomédicale portant sur un tissu ou un organe se compose des quatre parties suivantes :
 
-I. - Un dossier administratif contenant les informations suivantes
+I.-Un dossier administratif contenant les informations suivantes
 
 1° Un courrier de demande d'autorisation, daté et signé, disponible en version électronique sur le site internet de l'Agence française de sécurité sanitaire des produits de santé ou en version papier, sur demande auprès de l'Agence française de sécurité sanitaire des produits de santé, comprenant notamment, si le tissu est préparé selon un procédé autorisé en France, son numéro d'autorisation et sa dénomination ;
 
@@ -24,11 +24,9 @@ d) Le cas échéant, pour l'importation du tissu ;
 
 6° Une copie de tout avis scientifique rendu au promoteur, sur le produit ou sur la recherche, par l'Agence française de sécurité sanitaire des produits de santé ou par toute autorité compétente d'un Etat membre de la Communauté européenne ;
 
-7° En cas de soumission de données relatives à un tissu préparé selon un procédé appartenant à un tiers, en application du 3° de l'article 4 du présent arrêté, l'autorisation délivrée par ce dernier au promoteur pour communiquer ces données ;
+7° En cas de soumission de données relatives à un tissu préparé selon un procédé appartenant à un tiers, en application du 3° de l'article 4 du présent arrêté, l'autorisation délivrée par ce dernier au promoteur pour communiquer ces données.
 
-8° Le justificatif du versement des taxes prévues à l'article L. 1123-8 du code de la santé publique.
-
-II. - Un dossier sur la recherche biomédicale contenant les informations suivantes
+II.-Un dossier sur la recherche biomédicale contenant les informations suivantes
 
 1° Le protocole de la recherche, tel que défini à l'article R. 1123-20 du code de la santé publique, daté et comportant un numéro de version.
 
@@ -42,7 +40,7 @@ II. - Un dossier sur la recherche biomédicale contenant les informations suivan
 
 6° Le cas échéant, l'avis d'un comité scientifique consulté par le promoteur.
 
-III. - Un dossier technique relatif aux produits utilisés dans le cadre de la recherche
+III.-Un dossier technique relatif aux produits utilisés dans le cadre de la recherche
 
 1° Pour chaque tissu ou organe sur lequel porte la recherche, le promoteur transmet un dossier technique.
 
@@ -64,4 +62,4 @@ Le promoteur tient à la disposition de l'Agence française de sécurité sanita
 
 2° Si la recherche portant sur le tissu ou l'organe prévoit d'utiliser ou d'étudier d'autres produits, il appartient au demandeur de fournir la documentation adaptée relative à ces produits, telle que définie dans les arrêtés relatifs à la demande d'autorisation de recherche biomédicale soumise à l'autorité compétente portant sur de tels produits, permettant à l'Agence française de sécurité sanitaire des produits de santé d'apprécier la sécurité des personnes qui se prêtent à la recherche conformément aux dispositions de l'article R. 1123-29 du code de la santé publique.
 
-IV. - La copie de l'avis final du comité de protection des personnes mentionné à l'article L. 1121-4 du code de la santé publique, s'il est disponible.
+IV.-La copie de l'avis final du comité de protection des personnes mentionné à l'article L. 1121-4 du code de la santé publique, s'il est disponible.

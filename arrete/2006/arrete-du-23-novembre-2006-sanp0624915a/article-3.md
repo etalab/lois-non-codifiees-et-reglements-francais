@@ -12,6 +12,4 @@ Le dossier de demande de modification substantielle d'une recherche biomédicale
 
 5° Les informations justifiant le bien-fondé de la modification demandée incluant notamment, le cas échéant, un résumé des nouvelles données, une évaluation actualisée des bénéfices et des risques et les conséquences éventuelles pour les personnes déjà incluses dans la recherche ainsi que pour l'interprétation des résultats de la recherche ;
 
-6° Sans préjudice du 3°, si la modification substantielle entraîne une modification du document d'information destiné aux personnes se prêtant à la recherche et nécessite le recueil d'un nouveau consentement, la demande transmise pour avis au Comité de protection des personnes concerné comprend une description des modalités envisagées pour recueillir ce nouveau consentement ;
-
-7° Le justificatif du versement de la taxe prévue à l'article L. 1123-8 du code de la santé publique.
+6° Sans préjudice du 3°, si la modification substantielle entraîne une modification du document d'information destiné aux personnes se prêtant à la recherche et nécessite le recueil d'un nouveau consentement, la demande transmise pour avis au Comité de protection des personnes concerné comprend une description des modalités envisagées pour recueillir ce nouveau consentement.

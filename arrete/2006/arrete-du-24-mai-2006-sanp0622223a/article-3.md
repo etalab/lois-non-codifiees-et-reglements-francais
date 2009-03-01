@@ -2,7 +2,7 @@
 
 Le dossier de demande d'autorisation d'une recherche biomédicale portant sur un médicament à usage humain se compose des quatre parties suivantes :
 
-I. - Un dossier administratif contenant les informations suivantes :
+I.-Un dossier administratif contenant les informations suivantes :
 
 1° Un courrier de demande d'autorisation daté et signé, disponible en version électronique sur le site internet de l'Agence française de sécurité sanitaire des produits de santé, ou en version papier, sur demande auprès de l'Agence française de sécurité sanitaire des produits de santé, comprenant notamment :
 
@@ -22,11 +22,9 @@ b) Le cas échéant, les raisons pour lesquelles le promoteur ne considère pas 
 
 7° Le cas échéant, une copie de tout avis scientifique rendu au promoteur, sur le médicament expérimental ou sur la recherche, par l'Agence française de sécurité sanitaire des produits de santé, par l'Agence européenne des médicaments, ou par toute autorité compétente d'un Etat membre de la Communauté européenne ;
 
-8° En cas de soumission de données relatives à un médicament expérimental appartenant à un tiers, en application du 4° de l'article 4 du présent arrêté, l'autorisation délivrée par ce dernier au promoteur pour communiquer ces données ;
+8° En cas de soumission de données relatives à un médicament expérimental appartenant à un tiers, en application du 4° de l'article 4 du présent arrêté, l'autorisation délivrée par ce dernier au promoteur pour communiquer ces données.
 
-9° Le justificatif du versement des taxes prévues à l'article L. 1123-8 du code de la santé publique.
-
-II. - Un dossier sur la recherche biomédicale contenant les informations suivantes :
+II.-Un dossier sur la recherche biomédicale contenant les informations suivantes :
 
 1° Le protocole de la recherche tel que défini à l'article R. 1123-20 du code de la santé publique, daté et comportant un numéro de version ;
 
@@ -42,9 +40,9 @@ II. - Un dossier sur la recherche biomédicale contenant les informations suivan
 
 7° Si la brochure pour l'investigateur appartient à un tiers, l'autorisation du tiers délivrée au promoteur pour l'utiliser.
 
-III. - Un dossier technique relatif aux produits utilisés dans le cadre de la recherche :
+III.-Un dossier technique relatif aux produits utilisés dans le cadre de la recherche :
 
-1° Pour chaque médicament expérimental, le promoteur transmet un dossier technique dénommé  dossier du médicament expérimental .
+1° Pour chaque médicament expérimental, le promoteur transmet un dossier technique dénommé dossier du médicament expérimental.
 
 Ce dossier, dont le format est décrit en annexe 1 du présent arrêté, comporte trois parties composées d'une synthèse de toutes les informations disponibles sur le médicament expérimental relatives :
 
@@ -58,17 +56,17 @@ Ce dossier comprend également une analyse critique, au regard de l'évaluation 
 
 La partie du dossier mentionnée au a est complétée, le cas échéant, par les informations suivantes :
 
-- si le médicament est fabriqué dans un autre Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen et s'il ne bénéficie pas d'une autorisation de mise sur le marché dans un Etat membre de la Communauté européenne, la copie de l'autorisation d'ouverture de l'établissement de fabrication du médicament expérimental indiquant les opérations, les types de médicaments et les formes pharmaceutiques auxquels cette autorisation s'applique ;
+-si le médicament est fabriqué dans un autre Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen et s'il ne bénéficie pas d'une autorisation de mise sur le marché dans un Etat membre de la Communauté européenne, la copie de l'autorisation d'ouverture de l'établissement de fabrication du médicament expérimental indiquant les opérations, les types de médicaments et les formes pharmaceutiques auxquels cette autorisation s'applique ;
 
-- si le médicament n'est pas fabriqué dans un Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen et s'il ne bénéficie pas d'une autorisation de mise sur le marché dans un Etat membre de la Communauté européenne, la copie de l'autorisation d'ouverture de l'établissement importateur du médicament expérimental indiquant les opérations, les types de médicaments et les formes pharmaceutiques auxquels cette autorisation s'applique et une attestation établie par la personne qualifiée de l'établissement importateur établissant que le médicament expérimental a été fabriqué selon des normes au moins équivalentes aux bonnes pratiques de fabrication mentionnées à l'article L. 5121-5 du code de la santé publique ;
+-si le médicament n'est pas fabriqué dans un Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen et s'il ne bénéficie pas d'une autorisation de mise sur le marché dans un Etat membre de la Communauté européenne, la copie de l'autorisation d'ouverture de l'établissement importateur du médicament expérimental indiquant les opérations, les types de médicaments et les formes pharmaceutiques auxquels cette autorisation s'applique et une attestation établie par la personne qualifiée de l'établissement importateur établissant que le médicament expérimental a été fabriqué selon des normes au moins équivalentes aux bonnes pratiques de fabrication mentionnées à l'article L. 5121-5 du code de la santé publique ;
 
-- le certificat d'analyse du médicament expérimenté dans les cas où sont détectées soit des impuretés qui ne sont pas justifiées par les spécifications précisées dans le dossier du médicament expérimental relatif aux données sur la qualité pharmaceutique, chimique et biologique, soit des impuretés inattendues qui ne sont pas couvertes par ces spécifications.
+-le certificat d'analyse du médicament expérimenté dans les cas où sont détectées soit des impuretés qui ne sont pas justifiées par les spécifications précisées dans le dossier du médicament expérimental relatif aux données sur la qualité pharmaceutique, chimique et biologique, soit des impuretés inattendues qui ne sont pas couvertes par ces spécifications.
 
 Pour la constitution du dossier du médicament expérimental, le promoteur tient compte des lignes directrices et des indications détaillées sur la réglementation des médicaments dans la Communauté européenne, publiées par la Commission européenne, ainsi que des recommandations spécifiques de l'Agence européenne des médicaments.
 
 Le promoteur peut faire référence aux données non cliniques et cliniques présentées dans la brochure pour l'investigateur lorsque celles-ci sont suffisamment détaillées pour permettre une appréciation précise de la sécurité d'emploi du médicament expérimental dans la recherche biomédicale.
 
-Le promoteur atteste que les études servant de base aux données non cliniques et cliniques présentées dans le dossier du médicament expérimental ont été menées conformément aux principes de bonnes pratiques de laboratoire et aux principes de bonnes pratiques cliniques. A défaut, le promoteur présente les raisons pour lesquelles il ne peut pas fournir cette attestation.
+Le promoteur atteste que les études servant de base aux données non cliniques et cliniques présentées dans le dossier du médicament expérimental ont été menées conformément aux principes de bonnes pratiques de laboratoire et aux principes de bonnes pratiques cliniques.A défaut, le promoteur présente les raisons pour lesquelles il ne peut pas fournir cette attestation.
 
 Le promoteur tient à la disposition de l'Agence française de sécurité sanitaire des produits de santé, à sa demande, les données complètes des études référencées dans le dossier du médicament expérimental, sauf exception dûment justifiée.
 
@@ -92,4 +90,4 @@ d) Les données non cliniques et, le cas échéant, cliniques relatives au dispo
 
 4° Si la recherche portant sur le médicament prévoit d'utiliser ou d'étudier d'autres produits que les médicaments non expérimentaux et les dispositifs médicaux mentionnés respectivement aux 2° et 3° du III du présent article, il appartient au demandeur de fournir la documentation adaptée relative à ces produits, telle que définie dans les arrêtés relatifs à la demande d'autorisation de recherche biomédicale soumise à l'autorité compétente portant sur de tels produits, permettant à l'Agence française de sécurité sanitaire des produits de santé d'apprécier la sécurité des personnes qui se prêtent à la recherche conformément aux dispositions de l'article R. 1123-29 du code de la santé publique.
 
-IV. - La copie de l'avis final du comité de protection des personnes mentionné à l'article L. 1121-4 du code de la santé publique, s'il est disponible.
+IV.-La copie de l'avis final du comité de protection des personnes mentionné à l'article L. 1121-4 du code de la santé publique, s'il est disponible.

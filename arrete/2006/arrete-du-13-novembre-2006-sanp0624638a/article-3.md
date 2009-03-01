@@ -2,11 +2,11 @@
 
 Le dossier de demande d'autorisation d'une recherche biomédicale portant sur un produit sanguin labile se compose des quatre parties suivantes :
 
-I. - Un dossier administratif contenant les informations suivantes :
+I.-Un dossier administratif contenant les informations suivantes :
 
 1° Un courrier de demande d'autorisation, daté et signé, disponible en version électronique sur le site internet de l'Agence française de sécurité sanitaire des produits de santé ou en version papier, sur demande auprès de l'Agence française de sécurité sanitaire des produits de santé, comprenant notamment :
 
-a) La dénomination du produit sanguin labile sur lequel porte la recherche et du (des) dispositif(s) médical (médicaux) permettant de l'obtenir ;
+a) La dénomination du produit sanguin labile sur lequel porte la recherche et du (des) dispositif (s) médical (médicaux) permettant de l'obtenir ;
 
 b) Le cas échéant, la mention de l'inscription de ce produit sur la liste mentionnée au 1° de l'article L. 1221-8 du code de la santé publique ou la mention que ce produit a été évalué par l'Agence française de sécurité sanitaire des produits de santé et a fait l'objet d'un avis favorable ;
 
@@ -22,11 +22,9 @@ c) Les coordonnées du promoteur ;
 
 6° La copie de tout avis scientifique rendu au promoteur sur le produit sanguin labile sur lequel porte la recherche ou sur la recherche, par l'Agence française de sécurité sanitaire des produits de santé ou par toute autorité compétente d'un Etat membre de la Communauté européenne ;
 
-7° En cas de soumission de données relatives à un produit sanguin labile sur lequel porte la recherche appartenant à un tiers, en application du 3° du III du présent article, l'autorisation délivrée par ce dernier au promoteur pour communiquer ces données ;
+7° En cas de soumission de données relatives à un produit sanguin labile sur lequel porte la recherche appartenant à un tiers, en application du 3° du III du présent article, l'autorisation délivrée par ce dernier au promoteur pour communiquer ces données.
 
-8° Le justificatif du versement des taxes prévues à l'article L. 1123-8 du code de la santé publique.
-
-II. - Un dossier sur la recherche biomédicale contenant les informations suivantes :
+II.-Un dossier sur la recherche biomédicale contenant les informations suivantes :
 
 1° Le protocole de la recherche tel que défini à l'article R. 1123-20 du code de la santé publique, daté et comportant un numéro de version ;
 
@@ -40,7 +38,7 @@ II. - Un dossier sur la recherche biomédicale contenant les informations suivan
 
 6° Le cas échéant, l'avis d'un comité scientifique consulté par le promoteur.
 
-III. - Un dossier technique relatif aux produits utilisés dans le cadre de la recherche :
+III.-Un dossier technique relatif aux produits utilisés dans le cadre de la recherche :
 
 1° Pour chaque produit sanguin labile, sur lequel porte la recherche, le promoteur transmet un dossier technique.
 
