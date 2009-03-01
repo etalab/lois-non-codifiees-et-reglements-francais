@@ -3,4 +3,3 @@
 - [CHAPITRE Ier : Dispositions générales.](chapitre-ier)
 - [CHAPITRE II : Missions des directions régionales de l'environnement.](chapitre-ii)
 - [CHAPITRE III : Organisation des directions régionales de l'environnement et dispositions diverses.](chapitre-iii)
-- [Article 17](article-17.md)
