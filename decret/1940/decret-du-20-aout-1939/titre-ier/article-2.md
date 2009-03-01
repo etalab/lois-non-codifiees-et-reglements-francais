@@ -4,4 +4,4 @@ Pour l'application du présent décret, il est procédé au classement du littor
 
 Dans le cas contraire, le classement est réalisé par décision du ministre chargé de la marine marchande sur la proposition du directeur de l'institut scientifique et technique des pêches maritimes.
 
-Dans tous les cas, l'ingénieur en chef des ponts et chaussées du service maritime est consulté.
+Dans tous les cas, le directeur régional de l'environnement, de l'aménagement et du logement du service maritime est consulté.

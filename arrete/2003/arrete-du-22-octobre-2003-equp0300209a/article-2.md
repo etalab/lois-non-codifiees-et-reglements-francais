@@ -4,6 +4,6 @@ Les taux maxima de la prime de service et de rendement institués par l'article 
 
 -ingénieur général des ponts et chaussées : 38 % du traitement le plus élevé du grade ;
 
--ingénieur en chef des ponts et chaussées : 34 % du traitement le plus élevé du grade ;
+-      directeur régional de l'environnement, de l'aménagement et du logement  : 34 % du traitement le plus élevé du grade ;
 
 -ingénieur des ponts et chaussées : 30 % du traitement le plus élevé du grade.

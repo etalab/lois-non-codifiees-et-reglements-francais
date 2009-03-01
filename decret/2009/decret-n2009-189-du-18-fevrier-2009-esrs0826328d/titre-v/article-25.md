@@ -1,0 +1,3 @@
+# Article 25
+
+Le diplôme délivré à un étudiant inscrit, à la date de création de l'Institut national supérieur des sciences agronomiques, de l'alimentation et de l'environnement, à l'Etablissement national d'enseignement supérieur agronomique de Dijon et à l'Ecole nationale supérieure de biologie appliquée à la nutrition et à l'alimentation de l'université de Dijon l'est au titre de l'Institut national supérieur des sciences agronomiques, de l'alimentation et de l'environnement. Toutefois, les étudiants qui en font la demande peuvent recevoir, au lieu et place de ce diplôme, celui de l'établissement dans lequel ils étaient antérieurement inscrits.

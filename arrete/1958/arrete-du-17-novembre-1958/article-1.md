@@ -1,0 +1,3 @@
+# Article 1
+
+Des arrêtés préfectoraux, pris avec avis du conservateur des eaux et forêts, du directeur régional de l'environnement, de l'aménagement et du logement et de la Fédération départementale des associations de pêche et de pisciculture, pourront autoriser, dans les conditions indiquées aux articles ci-après, les membres des associations de pêche et de pisciculture à pêcher dans les eaux de la deuxième catégorie durant la période de fermeture générale afférente à ces eaux, fixée par l'article 3 du décret du 16 septembre 1958, les dimanches et jours fériés, sauf toutefois dans les réservoirs d'alimentation des canaux de navigation.

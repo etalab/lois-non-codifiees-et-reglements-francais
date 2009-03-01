@@ -24,7 +24,7 @@ IV.-Les prescriptions arrêtées par l'Autorité de sûreté nucléaire peuvent 
 
 5° La gestion des sources radioactives nécessaires au fonctionnement de l'installation, y compris en matière de transport de ces sources ;
 
-6° Les moyens nécessaires aux analyses et mesures utiles au contrôle de l'installation et à la surveillance de ses effets sur l'environnement, ainsi que les conditions dans lesquelles les résultats de ces analyses et mesures sont portés à la connaissance de l'Autorité de sûreté nucléaire et, le cas échéant, du service chargé de la police des eaux et de la direction régionale de l'industrie, de la recherche et de l'environnement ;
+6° Les moyens nécessaires aux analyses et mesures utiles au contrôle de l'installation et à la surveillance de ses effets sur l'environnement, ainsi que les conditions dans lesquelles les résultats de ces analyses et mesures sont portés à la connaissance de l'Autorité de sûreté nucléaire et, le cas échéant, du service chargé de la police des eaux et de la              direction régionale de l'environnement, de l'aménagement et du logement  ;
 
 7° Les informations et rapports que l'exploitant doit fournir à l'Autorité de sûreté nucléaire périodiquement ou en cas de situation particulière ;
 

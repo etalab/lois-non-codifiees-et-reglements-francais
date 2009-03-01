@@ -1,6 +1,6 @@
 # Article 3
 
-Peuvent être nommés à un emploi de directeur départemental de l'équipement les ingénieurs en chef des ponts et chaussées du cadre normal et du cadre spécial et les architectes et urbanistes en chef de l'Etat.
+Peuvent être nommés à un emploi de directeur départemental de l'équipement les directeurs régionaux de l'environnement, de l'aménagement et du logement du cadre normal et du cadre spécial et les architectes et urbanistes en chef de l'Etat.
 
 Peuvent également être nommés à un tel emploi, les ingénieurs des ponts et chaussées du cadre normal et du cadre spécial, les architectes et urbanistes de l'Etat, les administrateurs civils ainsi que les chefs de service administratif des services déconcentrés et les ingénieurs divisionnaires des travaux publics de l'Etat occupant un emploi d'ingénieur en chef des travaux publics de l'Etat du 2e groupe ou d'ingénieur en chef des travaux publics de l'Etat du 1er groupe.
 

@@ -4,27 +4,27 @@ Le conseil d'administration des Thermes nationaux d'Aix-les-Bains comprend quinz
 
 1° Cinq membres représentant l'Etat, nommés par décret :
 
-- le chef de l'inspection générale des affaires sociales ou son représentant ;
+-le chef de l'inspection générale des affaires sociales ou son représentant ;
 
-- le trésorier-payeur général de la région Rhône-Alpes ou son représentant ;
+-le trésorier-payeur général de la région Rhône-Alpes ou son représentant ;
 
-- le directeur régional des affaires sanitaires et sociales ou son représentant ;
+-le directeur régional des affaires sanitaires et sociales ou son représentant ;
 
-- le directeur de l'agence régionale de l'hospitalisation ou son représentant ;
+-le directeur de l'agence régionale de l'hospitalisation ou son représentant ;
 
-- le directeur régional de l'équipement ou son représentant.
+-le     directeur régional de l'environnement, de l'aménagement et du logement  ou son représentant.
 
 2° Cinq membres nommés par décret pour cinq ans :
 
-- une personnalité choisie en raison de sa compétence en matière de thermalisme, sur proposition du ministre chargé de la santé ;
+-une personnalité choisie en raison de sa compétence en matière de thermalisme, sur proposition du ministre chargé de la santé ;
 
-- le président du conseil général de la Savoie ou son représentant, désigné par le conseil général en son sein ;
+-le président du conseil général de la Savoie ou son représentant, désigné par le conseil général en son sein ;
 
-- le maire de la commune d'Aix-les-Bains ou son représentant, désigné par le conseil municipal en son sein ;
+-le maire de la commune d'Aix-les-Bains ou son représentant, désigné par le conseil municipal en son sein ;
 
-- le président de l'union régionale des caisses d'assurance maladie ou son représentant désigné par le conseil d'administration de l'union en son sein ;
+-le président de l'union régionale des caisses d'assurance maladie ou son représentant désigné par le conseil d'administration de l'union en son sein ;
 
-- un représentant d'une société d'usagers des établissements thermaux, choisi sur proposition du ministre chargé de la santé.
+-un représentant d'une société d'usagers des établissements thermaux, choisi sur proposition du ministre chargé de la santé.
 
 3° Cinq représentants des fonctionnaires, des agents et des salariés de l'établissement élus pour cinq ans selon les modalités définies par la loi du 26 juillet 1983 et le décret du 26 décembre 1983 susvisés.
 

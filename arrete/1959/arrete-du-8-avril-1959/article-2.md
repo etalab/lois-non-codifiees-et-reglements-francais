@@ -4,15 +4,15 @@ Le comité paritaire d'hygiène et de sécurité comprend en nombre égal des re
 
 Le nombre des représentants susvisés est fixé comme suit :
 
-Trois représentants dont un agent de maîtrise dans les ports occupant au plus 1.000 dockers titulaires de la carte de professionnel ou de la carte d'occasionnel ;
+Trois représentants dont un agent de maîtrise dans les ports occupant au plus 1. 000 dockers titulaires de la carte de professionnel ou de la carte d'occasionnel ;
 
-Quatre représentants dont deux agents de maîtrise dans les ports occupant plus de 1.000 dockers titulaires de la carte de professionnel ou de la carte d'occasionnel.
+Quatre représentants dont deux agents de maîtrise dans les ports occupant plus de 1. 000 dockers titulaires de la carte de professionnel ou de la carte d'occasionnel.
 
 Des membres suppléants en même nombre sont désignés dans les mêmes conditions.
 
 Les membres du comité paritaire d'hygiène et de sécurité sont choisis parmi les personnes exerçant depuis cinq ans au moins une profession ou un métier se rattachant aux activités des entreprises visées par l'article 1er ci-dessus.
 
-Le directeur du port ou l'ingénieur en chef des ponts et chaussées responsable est chargé de suivre l'activité du comité et joue le rôle d'arbitre en cas de nécessité.
+Le directeur du port ou le directeur régional de l'environnement, de l'aménagement et du logement responsable est chargé de suivre l'activité du comité et joue le rôle d'arbitre en cas de nécessité.
 
 En outre, sont invités à participer aux travaux du comité :
 
