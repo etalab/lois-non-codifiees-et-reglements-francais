@@ -154,7 +154,9 @@ Il est procédé, le cas échéant, à la déduction :
 
 2° Des provisions versées à l'avocat par la Carpa ;
 
-3° Des sommes recouvrées sur le fondement de l'article 37 de la loi du 10 juillet 1991 et mentionnées sur l'attestation de mission délivrée par le greffe ou le secrétariat de la juridiction.
+3° Des sommes recouvrées sur le fondement de l'article 37 de la loi du 10 juillet 1991 et mentionnées sur l'attestation de mission délivrée par le greffe ou le secrétariat de la juridiction ;
+
+4° Des sommes versées au titre d'un contrat d'assurance de protection juridique ou d'un autre système de protection telles qu'elles sont indiquées dans l'attestation de mission, conformément aux dispositions de l'article 102 du décret du 19 décembre 1991 précité.
 
 Article 18
 
@@ -268,7 +270,7 @@ Article 28
 
 Il peut être versé une provision pour une mission d'aide juridictionnelle totale diligentée par un avocat du barreau.
 
-Le montant et les conditions du versement de cette provision sont librement fixés dans la limite d'un plafond égal à 50 p. 100 du montant de la part contributive due par l'Etat pour la procédure engagée.
+Le montant et les conditions du versement de cette provision sont librement fixés dans la limite d'un plafond égal à 50 % du montant de la part contributive due par l'Etat pour la procédure engagée.
 
 Article 29
 

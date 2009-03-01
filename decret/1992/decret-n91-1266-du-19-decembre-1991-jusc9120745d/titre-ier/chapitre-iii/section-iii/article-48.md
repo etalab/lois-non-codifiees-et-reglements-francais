@@ -18,7 +18,9 @@ II. - En cas d'admission à l'aide juridictionnelle totale ou partielle, les dé
 
 5° S'il y a lieu, le nom et la résidence de l'avocat et des officiers publics ou ministériels désignés dans les conditions prévues aux articles 75 à 77 ;
 
-6° Si l'aide juridictionnelle est accordée en vue d'une instance, la mention que son bénéfice reste acquis si une transaction intervient avant que celle-ci soit introduite.
+6° Si l'aide juridictionnelle est accordée en vue d'une instance, la mention que son bénéfice reste acquis si une transaction intervient avant que celle-ci soit introduite ;
+
+7° Le plafond de remboursement des frais, émoluments et honoraires couverts par un contrat d'assurance de protection juridique ou par un autre système de protection lorsque ce plafond est inférieur à la contribution de l'Etat à la rétribution de l'avocat ou des officiers publics ou ministériels.
 
 III. - En cas d'admission à l'aide juridictionnelle partielle, les décisions précisent, en outre, le montant de la part contributive de l'Etat.
 

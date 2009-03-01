@@ -18,4 +18,8 @@ Elle contient les indications suivantes :
 
 Tout changement de domicile qui survient postérieurement à la demande d'aide doit être déclaré sans délai au bureau d'aide juridictionnelle initialement saisi.
 
-En outre, le requérant doit préciser s'il a ou non antérieurement bénéficié de l'aide juridictionnelle pour le même différend, que la demande d'aide soit formée en vue de parvenir à une transaction avant l'introduction de l'instance ou pour introduire une instance.
+En outre, le requérant doit préciser :
+
+a) S'il dispose d'un ou plusieurs contrats d'assurance de protection juridique ou d'un autre système de protection couvrant la rémunération des auxiliaires de justice et les frais afférents au différend pour lequel le bénéfice de l'aide est demandé ;
+
+b) S'il a ou non bénéficié de l'aide juridictionnelle pour le même différend, que la demande d'aide soit formée en vue de parvenir à une transaction avant l'introduction de l'instance ou pour introduire une instance.
