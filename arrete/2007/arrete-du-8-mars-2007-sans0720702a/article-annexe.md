@@ -2,7 +2,7 @@
 
 A N N E X E
 
-CONVENTION DE GESTION ET DE CAUTIONNEMENT DES PRÊTS À INTÉRÊTS BONIFIÉS DESTINÉS À FINANCER DES DÉPENSES LIÉES À L'ACCÈS À UN NOUVEL EMPLOI, DITS « PRÊTS JEUNES AVENIR »
+CONVENTION DE GESTION ET DE CAUTIONNEMENT DES PRÊTS À INTÉRÊTS BONIFIÉS DESTINÉS À FINANCER DES DÉPENSES LIÉES À L'ACCÈS À UN NOUVEL EMPLOI, DITS PRÊTS JEUNES AVENIR
 
 [Code contrat...]
 
@@ -16,45 +16,45 @@ Vu la loi n° 2006-1640 du 21 décembre 2006 de financement de la sécurité soc
 
 Vu le décret n° 62-1587 du 29 décembre 1962 modifié portant règlement général sur la comptabilité publique ;
 
-Vu le décret n° 2007-327 du 8 mars 2007 créant une aide au financement des dépenses liées à l'accès à un nouvel emploi dite « prêt jeunes avenir » ;
+Vu le décret n° 2007-327 du 8 mars 2007 créant une aide au financement des dépenses liées à l'accès à un nouvel emploi dite prêt jeunes avenir ;
 
-Vu l'arrêté du 8 mars 2007 approuvant la convention type prévue à l'article 1er du décret n° 2007-327 du 8 mars 2007 créant une aide au financement des dépenses liées à l'accès à un nouvel emploi dite « prêt jeunes avenir »,
+Vu l'arrêté du 8 mars 2007 approuvant la convention type prévue à l'article 1er du décret n° 2007-327 du 8 mars 2007 créant une aide au financement des dépenses liées à l'accès à un nouvel emploi dite prêt jeunes avenir,
 
 Il est convenu ce qui suit entre les soussignés :
 
-La Caisse des dépôts et consignations, établissement spécial créé par la loi du 28 avril 1816 codifiée aux articles L. 518-2 et suivants du code monétaire et financier, ayant son siège au 56, rue de Lille, 75007 Paris, en qualité de gestionnaire du Fonds de cohésion sociale mentionné au 1 du préambule de la présente convention, représentée par [... ...], [habilité à l'effet des présentes],
+La Caisse des dépôts et consignations, établissement spécial créé par la loi du 28 avril 1816 codifiée aux articles L. 518-2 et suivants du code monétaire et financier, ayant son siège au 56, rue de Lille, 75007 Paris, en qualité de gestionnaire du Fonds de cohésion sociale mentionné au 1 du préambule de la présente convention, représentée par [......], [habilité à l'effet des présentes],
 
-ci-après dénommée la « Caisse des dépôts »,
+ci-après dénommée la Caisse des dépôts,
 
 La Caisse nationale des allocations familiales, établissement public, ayant son siège au 32, avenue de la Sibelle, 75685 Paris Cedex 14, représentée par son directeur,
 
-ci-après dénommée la « CNAF », et
+ci-après dénommée la CNAF, et
 
 [raison sociale]
 
-ci-après dénommée l'« établissement de crédit »,
+ci-après dénommée l'établissement de crédit,
 
-La Caisse des dépôts, la CNAF et l'Etablissement de crédit étant ci-après dénommés ensemble les « parties » et individuellement une « partie ».
+La Caisse des dépôts, la CNAF et l'Etablissement de crédit étant ci-après dénommés ensemble les parties et individuellement une partie.
 
 Préambule
 
-1. Le Fonds de cohésion sociale (ci-après le « FCS »), mentionné au III de l'article 80 de la loi n° 2005-32 du 18 janvier 2005 de programmation pour la cohésion sociale a pour objet notamment de garantir à des fins sociales des prêts à des personnes physiques ou morales.
+1. Le Fonds de cohésion sociale (ci-après le FCS), mentionné au III de l'article 80 de la loi n° 2005-32 du 18 janvier 2005 de programmation pour la cohésion sociale a pour objet notamment de garantir à des fins sociales des prêts à des personnes physiques ou morales.
 
-2. Par convention du 5 avril 2005, l'Etat a confié à la Caisse des dépôts la gestion du FCS et a doté celui-ci d'une instance de gouvernance et d'orientation dénommée le « Comité d'orientation et de suivi de l'emploi des fonds » (ci-après le « COSEF »), ainsi que d'une instance d'agrément dénommée le « Comité d'agrément du FCS » (ci-après le « CAFCS »).
+2. Par convention du 5 avril 2005, l'Etat a confié à la Caisse des dépôts la gestion du FCS et a doté celui-ci d'une instance de gouvernance et d'orientation dénommée le Comité d'orientation et de suivi de l'emploi des fonds (ci-après le COSEF), ainsi que d'une instance d'agrément dénommée le Comité d'agrément du FCS (ci-après le CAFCS).
 
-3. L'article 126 de la loi n° 2006-1640 du 21 décembre 2006 de financement de la sécurité sociale pour 2007 crée un dispositif (ci-après le « dispositif prêt jeunes avenir » ou « dispositif PJA ») destiné à permettre à des établissements de crédit d'octroyer des prêts à taux bonifié à des personnes âgées de 18 à 25 ans pour les aider dans leur insertion professionnelle, les personnes physiques assumant la charge d'un mineur titulaire du contrat de travail mentionné à l'article L. 117-1 du code du travail pouvant également bénéficier de ces prêts (ci-après les « prêts jeunes avenir » ou « PJA »).
+3.L'article 126 de la loi n° 2006-1640 du 21 décembre 2006 de financement de la sécurité sociale pour 2007 crée un dispositif (ci-après le dispositif prêt jeunes avenir ou dispositif PJA) destiné à permettre à des établissements de crédit d'octroyer des prêts à taux bonifié à des personnes âgées de 18 à 25 ans pour les aider dans leur insertion professionnelle, les personnes physiques assumant la charge d'un mineur titulaire du contrat de travail mentionné à l'article L. 117-1 du code du travail pouvant également bénéficier de ces prêts (ci-après les prêts jeunes avenir ou PJA).
 
-4. L'article 126 de la loi n° 2006-1640 prévoit également que :
+4.L'article 126 de la loi n° 2006-1640 prévoit également que :
 
-- le FCS peut garantir les PJA accordés par des établissements de crédit avec lesquels il a passé convention ;
+-le FCS peut garantir les PJA accordés par des établissements de crédit avec lesquels il a passé convention ;
 
-- la CNAF peut participer au financement de la garantie accordée aux établissements de crédit par le FCS. Le décret n° 2007-327 du 8 mars 2007 (ci-après le « Décret PJA ») définit les modalités de mise en oeuvre du dispositif PJA. Il prévoit notamment dans son article [10] que la CNAF, conformément à l'article 126 de la loi n° 2006-1640, finance la garantie du FCS dans le cadre du dispositif PJA ;
+-la CNAF peut participer au financement de la garantie accordée aux établissements de crédit par le FCS. Le décret n° 2007-327 du 8 mars 2007 (ci-après le Décret PJA) définit les modalités de mise en oeuvre du dispositif PJA. Il prévoit notamment dans son article [10] que la CNAF, conformément à l'article 126 de la loi n° 2006-1640, finance la garantie du FCS dans le cadre du dispositif PJA ;
 
-- le coût de la bonification des intérêts liés aux PJA est à la charge de la CNAF. L'article [8] du Décret PJA dispose que les intérêts liés aux PJA sont pris en charge par la CNAF et que la bonification d'intérêts est versée annuellement à l'établissement de crédit prêteur.
+-le coût de la bonification des intérêts liés aux PJA est à la charge de la CNAF.L'article [8] du Décret PJA dispose que les intérêts liés aux PJA sont pris en charge par la CNAF et que la bonification d'intérêts est versée annuellement à l'établissement de crédit prêteur.
 
-5. L'article [1er] du Décret PJA prévoit que les établissements de crédit doivent signer une convention avec l'Etat, la Caisse des dépôts et la CNAF, conforme à une convention type approuvée par arrêté afin d'être habilités à consentir les PJA. L'arrêté du 8 mars 2007 approuvant la convention type prévue à l'article 1er du Décret PJA a été adopté le 8 mars 2007.
+5.L'article [1er] du Décret PJA prévoit que les établissements de crédit doivent signer une convention avec l'Etat, la Caisse des dépôts et la CNAF, conforme à une convention type approuvée par arrêté afin d'être habilités à consentir les PJA.L'arrêté du 8 mars 2007 approuvant la convention type prévue à l'article 1er du Décret PJA a été adopté le 8 mars 2007.
 
-L'établissement de crédit a été sélectionné au terme d'un appel à projet (ci-après « l'appel à projet ») par décision d'un jury composé de représentants du ministère délégué à la sécurité sociale, à la famille, aux personnes âgées et aux personnes handicapées, du ministère de l'économie, des finances et de l'industrie, de la CNAF et de la Caisse des dépôts du [...] et a obtenu un agrément du CAFCS afin de pouvoir consentir les PJA et bénéficier de la garantie du FCS.
+L'établissement de crédit a été sélectionné au terme d'un appel à projet (ci-après l'appel à projet) par décision d'un jury composé de représentants du ministère délégué à la sécurité sociale, à la famille, aux personnes âgées et aux personnes handicapées, du ministère de l'économie, des finances et de l'industrie, de la CNAF et de la Caisse des dépôts du [...] et a obtenu un agrément du CAFCS afin de pouvoir consentir les PJA et bénéficier de la garantie du FCS.
 
 La présente convention a été élaborée conformément à la convention type approuvée par l'arrêté du 8 mars 2007.
 
@@ -68,7 +68,7 @@ Article 2
 
 Volume d'encours distribués
 
-L'établissement de crédit s'engage à distribuer une enveloppe de PJA avant le 31 décembre 2008, dont les caractéristiques sont définies à l'article 4, d'un montant de [...] MEUR (... millions d'euros), à des emprunteurs remplissant les conditions définies à l'article 3 (les « emprunteurs »).
+L'établissement de crédit s'engage à distribuer une enveloppe de PJA avant le 31 décembre 2009, dont les caractéristiques sont définies à l'article 4, d'un montant de [...] MEUR (... millions d'euros), à des emprunteurs remplissant les conditions définies à l'article 3 (les emprunteurs).
 
 L'établissement de crédit s'engage à mobiliser l'ensemble du réseau dont il dispose pour distribuer les PJA à compter du [30] mars 2007. Aucune proposition commerciale proche ou s'inscrivant dans le cadre du dispositif PJA ne peut être menée avant cette date.
 
@@ -88,15 +88,15 @@ de crédit dans le cadre de l'octroi du PJA
 
 Les PJA doivent remplir les conditions suivantes :
 
-- conformément aux articles [2], [3] et [6] du Décret PJA, être octroyés par l'établissement de crédit à des emprunteurs remplissant les critères définis à l'article 3 sous la forme de prêts personnels soumis aux dispositions des articles L. 311-1 et suivants du code de la consommation, remboursables mensuellement, d'un montant maximal en principal de 5 000 EUR (cinq mille euros) et d'une durée comprise entre 24 (vingt-quatre) et 60 (soixante) mois inclus ;
+-conformément aux articles [2], [3] et [6] du Décret PJA, être octroyés par l'établissement de crédit à des emprunteurs remplissant les critères définis à l'article 3 sous la forme de prêts personnels soumis aux dispositions des articles L. 311-1 et suivants du code de la consommation, remboursables mensuellement, d'un montant maximal en principal de 5 000 euros (cinq mille euros) et d'une durée comprise entre 24 (vingt-quatre) et 60 (soixante) mois inclus ;
 
-- conformément à l'article [6] du Décret PJA, être versés en une seule fois sur le compte bancaire des emprunteurs ;
+-conformément à l'article [6] du Décret PJA, être versés en une seule fois sur le compte bancaire des emprunteurs ;
 
-- conformément à l'article [5] du Décret PJA, être destinés exclusivement au financement des dépenses visées audit article ;
+-conformément à l'article [5] du Décret PJA, être destinés exclusivement au financement des dépenses visées audit article ;
 
-- conformément à l'article [6] du Décret PJA, ne pas constituer une réserve d'argent ;
+-conformément à l'article [6] du Décret PJA, ne pas constituer une réserve d'argent ;
 
-- ne pas donner lieu à des frais de dossier ni à des pénalités et intérêts de retard à la charge de l'emprunteur, sous réserve de l'alinéa 2 de l'article 6 de la présente convention.
+-ne pas donner lieu à des frais de dossier ni à des pénalités et intérêts de retard à la charge de l'emprunteur, sous réserve de l'alinéa 2 de l'article 6 de la présente convention.
 
 Article 5
 
@@ -104,7 +104,7 @@ Définition de la garantie du FCS
 
 Les PJA tels qu'ils sont définis à l'article 4 bénéficient d'une garantie de la Caisse des dépôts, en sa qualité de gestionnaire du FCS, dans les conditions précisées au paragraphe suivant.
 
-La Caisse des dépôts, en tant que gestionnaire du FCS, au vu de la décision du CAFCS en date du [...], déclare, sur la base des sommes versées au FCS par la CNAF, se porter caution solidaire envers l'établissement de crédit à concurrence d'un montant maximum de [...] EUR ([...] euros). Ce montant correspond à un taux définitif de pertes pouvant être supportées par le FCS de [...] % du montant de l'enveloppe de PJA fixé à l'article 2. Cette caution a pour objet de garantir à l'établissement de crédit, dans les conditions et limites définies par la présente convention, le remboursement de 50 % du capital restant dû, en cas de défaillance de l'emprunteur, des PJA octroyés par l'établissement de crédit aux emprunteurs, et inclus dans le portefeuille de financements couverts (ci-après le « portefeuille ») tel que porté à la connaissance de la Caisse des dépôts dans le respect des conditions fixées à l'article 8.
+La Caisse des dépôts, en tant que gestionnaire du FCS, au vu de la décision du CAFCS en date du [...], déclare, sur la base des sommes versées au FCS par la CNAF, se porter caution solidaire envers l'établissement de crédit à concurrence d'un montant maximum de [...] euros ([...] euros). Ce montant correspond à un taux définitif de pertes pouvant être supportées par le FCS de [...] % du montant de l'enveloppe de PJA fixé à l'article 2. Cette caution a pour objet de garantir à l'établissement de crédit, dans les conditions et limites définies par la présente convention, le remboursement de 50 % du capital restant dû, en cas de défaillance de l'emprunteur, des PJA octroyés par l'établissement de crédit aux emprunteurs, et inclus dans le portefeuille de financements couverts (ci-après le portefeuille) tel que porté à la connaissance de la Caisse des dépôts dans le respect des conditions fixées à l'article 8.
 
 Il est précisé que cette caution ne porte que sur le capital restant dû et non sur les intérêts ni les éventuelles cotisations d'assurance.
 
@@ -126,7 +126,7 @@ Facturation annuelle de la bonification d'intérêts à la CNAF
 
 La bonification d'intérêts est facturée à la CNAF, annuellement par l'établissement de crédit, arrêtée à la date du dernier jour ouvré de l'année.
 
-L'établissement de crédit adresse à l'agent comptable de la CNAF, au plus tard le 31 janvier de l'année n pour l'exercice de l'année n - 1, la facture annuelle certifiée correspondant au montant total des intérêts courus au titre de l'année n - 1. Une copie de cette facture sera adressée à la Caisse des dépôts. Il joint à cette facture une liste détaillée et certifiée exacte des PJA octroyés pour l'année  n - 1, sur la base du modèle de tableau figurant en annexe 3, sous forme papier et sous forme électronique (à l'adresse [à compléter...). Le calcul des intérêts au taux S mentionné à l'article 6 est effectué par l'Établissement de crédit.
+L'établissement de crédit adresse à l'agent comptable de la CNAF, au plus tard le 31 janvier de l'année n pour l'exercice de l'année n-1, la facture annuelle certifiée correspondant au montant total des intérêts courus au titre de l'année n-1. Une copie de cette facture sera adressée à la Caisse des dépôts. Il joint à cette facture une liste détaillée et certifiée exacte des PJA octroyés pour l'année n-1, sur la base du modèle de tableau figurant en annexe 3, sous forme papier et sous forme électronique (à l'adresse [à compléter...). Le calcul des intérêts au taux S mentionné à l'article 6 est effectué par l'Établissement de crédit.
 
 La CNAF honorera le paiement de la facture adressée par l'établissement de crédit par virement à l'adresse bancaire : [à compléter-relevé d'identité bancaire figurant en annexe 4].
 
@@ -146,27 +146,27 @@ Reportings à la Caisse des dépôts
 
 L'établissement de crédit, à la fin de chaque mois, adresse à la Caisse des dépôts, sur la base du modèle de tableau de reporting figurant en annexe 1, une liste détaillée des PJA composant le portefeuille.
 
-La date d'arrêté du décompte est le dernier jour ouvré du mois à partir duquel l'établissement de crédit dispose d'un délai de 15 (quinze) jours calendaires pour adresser à la Caisse des dépôts le tableau de reporting mentionné ci-dessus sous forme papier et sous forme électronique (à l'adresse FCS@caissedesdepots.fr).
+La date d'arrêté du décompte est le dernier jour ouvré du mois à partir duquel l'établissement de crédit dispose d'un délai de 15 (quinze) jours calendaires pour adresser à la Caisse des dépôts le tableau de reporting mentionné ci-dessus sous forme papier et sous forme électronique (à l'adresse FCS @ caissedesdepots. fr).
 
 Par ailleurs, l'établissement de crédit, à la fin de chaque trimestre civil, adresse à la Caisse des dépôts, sur la base du modèle de tableau de reporting figurant en annexe 2, une liste détaillée des PJA pour lesquels des incidents de paiement ont été constatés.
 
-La date d'arrêté du décompte de ces PJA ayant donné lieu à des incidents de paiement mentionné au paragraphe précédent est le dernier jour ouvré du trimestre à partir duquel l'établissement de crédit dispose d'un délai de 15 (quinze) jours calendaires pour adresser à la Caisse des dépôts le tableau de reporting mentionné ci-dessus sous forme papier et sous forme électronique (à l'adresse FCS@caissedesdepots.fr).
+La date d'arrêté du décompte de ces PJA ayant donné lieu à des incidents de paiement mentionné au paragraphe précédent est le dernier jour ouvré du trimestre à partir duquel l'établissement de crédit dispose d'un délai de 15 (quinze) jours calendaires pour adresser à la Caisse des dépôts le tableau de reporting mentionné ci-dessus sous forme papier et sous forme électronique (à l'adresse FCS @ caissedesdepots. fr).
 
 Article 9
 
 Mise en place de la garantie du FCS pour chaque PJA
 
-Sous réserve des sanctions prévues à l'article 15, la garantie du FCS est acquise à l'établissement de crédit dès la mise à disposition du PJA. Dans la limite du montant visé à l'article 5, la garantie du FCS couvre 50 % du montant en principal de chaque PJA (ci-après la « quotité garantie »). Pour chaque PJA, la durée de la garantie du FCS est égale à la durée initiale du PJA couvert. En outre, dans l'hypothèse où l'établissement de crédit distribuerait des PJA au-delà de l'enveloppe attribuée au titre de l'article 2, les PJA ainsi distribués ne bénéficieront pas de la garantie du FCS.
+Sous réserve des sanctions prévues à l'article 15, la garantie du FCS est acquise à l'établissement de crédit dès la mise à disposition du PJA. Dans la limite du montant visé à l'article 5, la garantie du FCS couvre 50 % du montant en principal de chaque PJA (ci-après la quotité garantie). Pour chaque PJA, la durée de la garantie du FCS est égale à la durée initiale du PJA couvert. En outre, dans l'hypothèse où l'établissement de crédit distribuerait des PJA au-delà de l'enveloppe attribuée au titre de l'article 2, les PJA ainsi distribués ne bénéficieront pas de la garantie du FCS.
 
 Article 10
 
 Mise en jeu de la garantie
 
-10.1. Procédure de mise en jeu de la garantie
+10. 1. Procédure de mise en jeu de la garantie
 
 L'établissement de crédit informe la Caisse des dépôts de tout incident de paiement d'un emprunteur. Il lui adresse la liste des PJA donnant lieu à la mise en jeu de la garantie du FCS dans le cadre des reportings prévus à l'article 8 précité.
 
-La procédure d'inscription de l'emprunteur au fichier national des incidents de remboursement des crédits aux particuliers, prévu à l'article L. 333-4 du code de la consommation (ci-après le « FICP »), sera activée par l'établissement de crédit dans les conditions fixées par les textes applicables au FICP. Il est expressément précisé que la défaillance d'un emprunteur n'est constatée qu'après 3 (trois) incidents de paiements consécutifs au titre de son PJA.
+La procédure d'inscription de l'emprunteur au fichier national des incidents de remboursement des crédits aux particuliers, prévu à l'article L. 333-4 du code de la consommation (ci-après le FICP), sera activée par l'établissement de crédit dans les conditions fixées par les textes applicables au FICP. Il est expressément précisé que la défaillance d'un emprunteur n'est constatée qu'après 3 (trois) incidents de paiements consécutifs au titre de son PJA.
 
 La garantie du FCS est mise en jeu en cas de troisième impayé de l'emprunteur, entraînant l'exigibilité anticipée du PJA.
 
@@ -174,15 +174,15 @@ La Caisse des dépôts procède, pour le compte du FCS, au règlement entre les 
 
 En cas de défaillance constatée dans les conditions susvisées, donnant lieu à la mise en jeu de la garantie du FCS, l'établissement de crédit sera alors habilité à poursuivre les diligences nécessaires en vue du recouvrement de sa créance, sous réserve d'en aviser préalablement la Caisse des dépôts, qui lui fournira un mandat spécial lui permettant de poursuivre pour son compte le remboursement des sommes réglées par la Caisse des dépôts au titre de l'appel en garantie effectué pour le PJA et pour lesquelles cette dernière est en principe légalement subrogée, conformément à l'article 1251 (3°) du code civil. En cas de succès de la procédure de recouvrement, l'établissement de crédit est redevable à la Caisse des dépôts agissant pour le compte du FCS de la moitié du montant ainsi récupéré et le reverse au dernier jour ouvré de chaque trimestre civil pour abondement de la ligne budgétaire spécifique affectée au PJA.
 
-10.2. Plafond de sinistres
+10. 2. Plafond de sinistres
 
-Dès que la garantie du FCS aura été appelée pour un montant supérieur à 50 % du montant maximum défini à l'article 5, les parties se réuniront dans un délai d'un mois en vue d'examiner les modalités de poursuite de la convention et les éventuels ajustements dudit plafond. Après accord des parties sur les modalités de cette poursuite de la convention, celles-ci donneront lieu à la signature d'un avenant à la convention, conclu en ce sens entre la Caisse des dépôts, la CNAF et l'établissement de crédit, étant entendu, dans cette perspective, que l'accord préalable du CAFCS sera requis, le cas échéant, notamment en cas de modification du montant de la garantie du FCS et/ou du plafond défini au présent article.
+Dès que la garantie du FCS aura été appelée pour un montant supérieur à 50 % du montant maximum défini à l'article 5, les parties se réuniront dans un délai d'un mois en vue d'examiner les modalités de poursuite de la convention et les éventuels ajustements dudit plafond. Après accord des parties sur les modalités de cette poursuite de la convention, celles-ci donneront lieu à la signature d'un avenant à la convention, conclu en ce sens entre la Caisse des dépôts, la CNAF et l'établissement de crédit, étant entendu, dans cette perspective, que l'accord préalable du CAFCS sera requis, le cas échéant, notamment en cas de modification du montant de la garantie du FCS et / ou du plafond défini au présent article.
 
 Article 11
 
 Responsabilité
 
-11.1. Responsabilité de l'établissement de crédit
+11. 1. Responsabilité de l'établissement de crédit
 
 Sous réserve de la production par l'emprunteur de l'attestation d'éligibilité mentionnée à l'article 3, il est expressément convenu que l'établissement de crédit demeure seul responsable de l'étude des dossiers de demande de PJA et des décisions prises quant à l'octroi desdits PJA.
 
@@ -190,7 +190,7 @@ En conséquence, l'établissement de crédit sera seul responsable, tant à l'é
 
 En particulier, l'établissement de crédit ne peut accorder de PJA à toute personne [se trouvant en situation objective de surendettement ou] inscrite au FICP ou faisant l'objet d'une procédure de rétablissement personnel régie par les articles L. 332-5 et suivants du code de la consommation ou d'une autre procédure de faillite, de règlement ou de liquidation judiciaire, que ce soit en qualité de particulier, de profession libérale ou de commerçant.
 
-11.2. Responsabilité de la Caisse des dépôts
+11. 2. Responsabilité de la Caisse des dépôts
 
 Il est rappelé, en tant que de besoin, que l'engagement de caution solidaire, souscrit par la Caisse des dépôts en vertu de la présente convention, l'est pour un montant déterminé et en sa seule qualité de gestionnaire du FCS.
 
@@ -208,33 +208,33 @@ Accompagnement ; promotion du dispositif PJA
 
 et communication sur le PJA
 
-13.1. Accompagnement
+13. 1. Accompagnement
 
 L'établissement de crédit s'engage à mettre en oeuvre le dispositif d'accompagnement des PJA tel qu'il l'a proposé en réponse à l'appel à projet.
 
-13.2. Garanties
+13. 2. Garanties
 
 L'établissement de crédit s'engage à mettre en oeuvre le dispositif des PJA selon les modalités propres aux garanties personnelles ou réelles qui pourraient être demandées aux emprunteurs et dont la nature et les limites figurent en réponse à l'appel à projet.
 
-13.3. Promotion du dispositif et communication
+13. 3. Promotion du dispositif et communication
 
-Toute action de communication relative au PJA doit respecter une charte de communication créée et mise à disposition de la Caisse des dépôts et de l'établissement de crédit par la CNAF préalablement ou au plus tard à la date de signature de la présente convention. Les programmes de communication de l'établissement de crédit relatifs au PJA sont mis en place en liaison étroite avec la CNAF et la Caisse des dépôts. L'établissement de crédit s'engage à relayer activement, dans son réseau, la communication du ministère chargé de la famille, de la CNAF et de la Caisse des dépôts dans le cadre de cette opération.
+Toute action de communication relative au PJA doit respecter une charte de communication créée et mise à disposition de la Caisse des dépôts et de l'établissement de crédit par la CNAF préalablement ou au plus tard à la date de signature de la présente convention. Les programmes de communication de l'établissement de crédit relatifs au PJA sont mis en place en liaison étroite avec la CNAF et la Caisse des dépôts.L'établissement de crédit s'engage à relayer activement, dans son réseau, la communication du ministère chargé de la famille, de la CNAF et de la Caisse des dépôts dans le cadre de cette opération.
 
 L'établissement de crédit est responsable de la création de ses propres outils de communication qui sont conformes à la charte de communication mise à disposition de l'établissement de crédit par la CNAF.
 
-L'établissement de crédit est tenu de faire figurer dans son offre de prêt la mention suivante : « La prise en charge des intérêts correspondant au montant de votre emprunt est intégralement assurée par la Caisse nationale des allocations familiales. » Il fait également figurer dans tous ses documents commerciaux, et utilise dans ses actions commerciales, la dénomination « prêt jeunes avenir » pour désigner le PJA.
+L'établissement de crédit est tenu de faire figurer dans son offre de prêt la mention suivante : La prise en charge des intérêts correspondant au montant de votre emprunt est intégralement assurée par la Caisse nationale des allocations familiales. Il fait également figurer dans tous ses documents commerciaux, et utilise dans ses actions commerciales, la dénomination prêt jeunes avenir pour désigner le PJA.
 
 Article 14
 
 Contrôles
 
-14.1. Contrôle interne à l'établissement de crédit
+14. 1. Contrôle interne à l'établissement de crédit
 
 L'établissement de crédit s'engage à mettre en place une procédure de contrôle interne permettant à ses auditeurs de contrôler au plus proche du terrain les conditions d'attribution des PJA, le respect de la présente convention et les remontées d'informations à l'intérieur du réseau.
 
-14.2. Contrôle de l'établissement de crédit
+14. 2. Contrôle de l'établissement de crédit
 
-L'établissement de crédit accepte que les conditions d'exécution de la présente convention, notamment pour ce qui concerne les procédures d'octroi des PJA, les calculs de la bonification d'intérêts et les procédures mises en oeuvre en vue du recouvrement des créances impayées et la procédure de contrôle visée à l'article 14.1, puissent donner lieu, à tout moment, à un contrôle par la Caisse des dépôts, par la CNAF ou par tout organisme mandaté par l'une d'elles.
+L'établissement de crédit accepte que les conditions d'exécution de la présente convention, notamment pour ce qui concerne les procédures d'octroi des PJA, les calculs de la bonification d'intérêts et les procédures mises en oeuvre en vue du recouvrement des créances impayées et la procédure de contrôle visée à l'article 14. 1, puissent donner lieu, à tout moment, à un contrôle par la Caisse des dépôts, par la CNAF ou par tout organisme mandaté par l'une d'elles.
 
 L'établissement de crédit s'engage à faciliter le déroulement des contrôles effectués en son sein par des agents mandatés par la Caisse des dépôts ou la CNAF et fait droit à toute demande de renseignement sur les PJA délivrés. Tout contrôle diligenté par la Caisse des dépôts ou par la CNAF sur l'établissement de crédit donnera lieu à l'établissement d'un rapport qui sera transmis aux deux parties.
 
@@ -254,27 +254,27 @@ a) Si l'établissement de crédit n'est pas en mesure de présenter le contrat d
 
 b) Si les caractéristiques du PJA mentionnées à l'article 4 n'ont pas été respectées ;
 
-c) Si les conditions de mise en jeu de la responsabilité de l'établissement de crédit mentionnées aux alinéas 2 et 3 de l'article 11.1 sont réunies.
+c) Si les conditions de mise en jeu de la responsabilité de l'établissement de crédit mentionnées aux alinéas 2 et 3 de l'article 11. 1 sont réunies.
 
 Si la totalité ou une partie de la bonification d'intérêts de la CNAF a déjà été versée à l'établissement de crédit au moment où le manquement est constaté, l'établissement de crédit sera tenu de reverser son montant à la CNAF assorti d'une pénalité de 100 %. Ce remboursement au profit de la CNAF est effectué à l'appui d'un titre de perception recouvré par l'agent comptable conformément aux dispositions prévues aux articles 80 et suivants du décret du 29 décembre 1962 susvisé.
 
 Si la garantie du FCS a déjà joué au moment où le manquement est constaté, l'établissement de crédit rembourse à la Caisse des dépôts, en tant que gestionnaire du FCS, les sommes perçues au titre de cette garantie assorties d'une pénalité de 20 % desdites sommes.
 
-2. Une pénalité de 1 000 EUR (mille euros) par jour de retard en cas de retard dans la transmission d'un reporting mensuel ou trimestriel mentionné à l'article 8 ou d'irrégularité dans ce reporting.
+2. Une pénalité de 1 000 euros (mille euros) par jour de retard en cas de retard dans la transmission d'un reporting mensuel ou trimestriel mentionné à l'article 8 ou d'irrégularité dans ce reporting.
 
 Article 16
 
 Durée, révision, résiliation, délai d'appel de la garantie
 
-16.1. Durée
+16. 1. Durée
 
 La présente convention entre en vigueur à la date de sa signature et expire au règlement de toute somme due par les emprunteurs au titre des PJA octroyés jusqu'au 31 décembre 2008 ou jusqu'à la date d'extinction des poursuites diligentées par l'établissement de crédit pour le recouvrement de toute somme due au titre de la présente convention si cette date est postérieure.
 
-16.2. Révision
+16. 2. Révision
 
 La présente convention peut être révisée à tout moment, d'un commun accord entre les parties, par voie d'avenant, sous réserve que les modifications ainsi effectuées ne remettent pas en cause l'économie générale de la présente convention. Les modifications sont exécutoires dans un délai de trois mois après signature de cet avenant.
 
-16.3. Résiliation
+16. 3. Résiliation
 
 En cas d'inexécution ou de violation, par l'une des parties, de l'une quelconque des dispositions de la convention, celle-ci pourra être résiliée unilatéralement par l'une ou l'autre partie, 30 (trente) jours après l'envoi d'une mise en demeure par lettre recommandée avec accusé de réception restée sans effet, et ceci sans préjudice de tous dommages et intérêts qui pourraient être réclamés à la partie défaillante.
 
@@ -306,7 +306,7 @@ Annexe 4 : relevé d'identité bancaire de l'établissement de crédit signatair
 
 Article 19
 
-Droit applicable - Juridictions compétentes
+Droit applicable-Juridictions compétentes
 
 La présente convention est régie par le droit français.
 
@@ -328,7 +328,7 @@ Pour la Caisse des dépôts et consignations,
 
 Mention manuscrite Caisse des dépôts :
 
-« Bon pour cautionnement solidaire dans les conditions ci-dessus à concurrence d'un montant maximum de [...] (en chiffres et en lettres) [...] EUR en principal, »
+Bon pour cautionnement solidaire dans les conditions ci-dessus à concurrence d'un montant maximum de [...] (en chiffres et en lettres) [...] euros en principal,
 
 Pour la Caisse nationale des allocations familiales,
 
@@ -352,7 +352,7 @@ Prêt jeunes avenir
 
 Reporting mensuel
 
-Récapitulatif des prêts accordés au mois de ......
+Récapitulatif des prêts accordés au mois de......
 
 Nom de l'établissement
 
@@ -380,13 +380,15 @@ Reporting trimestriel des incidents de paiement
 
 Récapitulatif des prêts accordés depuis le ** mars 2007 (stocks)
 
-<div/>
+Vous pouvez consulter le tableau dans le JO
+
+n° 60 du 11 / 03 / 2007 texte numéro 10
 
 Visé et approuvé le :
 
 Signature du responsable :
 
-A N N E X E  3
+A N N E X E 3
 
 MODÈLE DE TABLEAU DE REPORTING ANNUEL À LA CNAF JOINT À LA FACTURATION
 
@@ -398,7 +400,9 @@ Prêt jeunes avenir
 
 Facturation annuelle pour les PJA octroyés entre le 1er janvier et le 31 décembre 2007
 
-<div/>
+Vous pouvez consulter le tableau dans le JO
+
+n° 60 du 11 / 03 / 2007 texte numéro 10
 
 Je soussigné, nom du responsable, qualité du responsable, certifie exactes les informations contenues dans ce document.
 
