@@ -8,11 +8,11 @@ Le service est chargé :
 
 1° A l'échelon national :
 
-― d'une mission d'appui aux services de prévision des crues. A ce titre, il exerce une mission d'organisation, d'animation, d'assistance, de conseil et de formation auprès des services et des établissements intervenant dans le domaine de la prévision des crues et, plus généralement, de l'hydrologie et de l'hydrométrie. Le service assure également au plan national la coordination scientifique et technique du domaine de la prévision des crues en liaison avec les organismes scientifiques et techniques de l'Etat ;
+― d'une mission d'appui aux services de prévision des crues.A ce titre, il exerce une mission d'organisation, d'animation, d'assistance, de conseil et de formation auprès des services et des établissements intervenant dans le domaine de la prévision des crues et, plus généralement, de l'hydrologie et de l'hydrométrie. Le service assure également au plan national la coordination scientifique et technique du domaine de la prévision des crues en liaison avec les organismes scientifiques et techniques de l'Etat ;
 
 ― d'établir, en liaison avec les services de prévision des crues et les services déconcentrés concernés, une carte de vigilance crue, et de collaborer avec Météo-France et les services concernés pour l'établissement de la carte de vigilance météorologique.
 
-Le service tient informé la direction générale de la prévention des risques, la direction générale de l'aménagement, du logement et de la nature et les directions régionales de l'environnement concernées de l'évolution de la situation hydrométéorologique.
+Le service tient informé la direction générale de la prévention des risques, la direction générale de l'aménagement, du logement et de la nature et les     directions régionales de l'environnement, de l'aménagement et du logement  concernées de l'évolution de la situation hydrométéorologique.
 
 Le chef du service est nommé par arrêté du ministre chargé de l'environnement.
 
@@ -20,7 +20,7 @@ Le chef du service est nommé par arrêté du ministre chargé de l'environnemen
 
 Il contribue, en tant que représentant du chef du service des risques naturels et hydrauliques et en liaison avec le représentant de l'Etat dans le département, aux actions de communication sur les événements hydrologiques en cours, en privilégiant une vision globale et synthétique en complément des services de prévision des crues et en liaison avec les centres interrégionaux et le centre national de prévision de Météo-France concernés.
 
-Le service comporte un secrétariat général et des pôles sectoriels. L'organisation interne du service est fixée par arrêté du ministre chargé de l'environnement.
+Le service comporte un secrétariat général et des pôles sectoriels.L'organisation interne du service est fixée par arrêté du ministre chargé de l'environnement.
 
 Le service est doté de deux organes consultatifs : le conseil d'orientation et le conseil scientifique et technique :
 

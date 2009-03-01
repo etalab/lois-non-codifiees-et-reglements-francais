@@ -1,6 +1,6 @@
 # Article 7
 
-Toute modification des caractéristiques de l'installation fait l'objet d'une déclaration au préfet (directeur régional de l'industrie, de la recherche et de l'environnement).
+Toute modification des caractéristiques de l'installation fait l'objet d'une déclaration au préfet (              directeur régional de l'environnement, de l'aménagement et du logement).
 
 La modification substantielle d'une des caractéristiques de l'installation objet du certificat ou de son fonctionnement entraîne le retrait du certificat.
 

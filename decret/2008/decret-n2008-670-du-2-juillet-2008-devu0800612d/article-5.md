@@ -62,7 +62,7 @@ d) Trois représentants des autres établissements publics de coopération inter
 
 ― le trésorier-payeur général de la région Languedoc-Roussillon, ou son représentant ;
 
-― le directeur régional de l'équipement de la région Languedoc-Roussillon, ou son représentant.
+― le     directeur régional de l'environnement, de l'aménagement et du logement  de la région Languedoc-Roussillon, ou son représentant.
 
 Les représentants de l'Etat ne prennent pas part au vote lors de l'examen de la délibération fixant le montant de la taxe spéciale d'équipement.
 

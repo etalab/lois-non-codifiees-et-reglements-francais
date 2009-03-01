@@ -4,7 +4,7 @@ Les fonctionnaires régis par les dispositions du présent décret participent a
 
 Les contrôleurs des transports terrestres exercent le contrôle sur route des personnels, des véhicules et des chargements ainsi que le contrôle sur pièces au siège de l'entreprise.
 
-Les contrôleurs divisionnaires encadrent l'action des personnels de contrôle placés sous l'autorité du directeur régional de l'équipement. Ils veillent en particulier à la bonne coordination des actions de contrôle.
+Les contrôleurs divisionnaires encadrent l'action des personnels de contrôle placés sous l'autorité du     directeur régional de l'environnement, de l'aménagement et du logement . Ils veillent en particulier à la bonne coordination des actions de contrôle.
 
 Ils participent à l'élaboration et à la mise en oeuvre du plan régional de contrôle des transports routiers.
 

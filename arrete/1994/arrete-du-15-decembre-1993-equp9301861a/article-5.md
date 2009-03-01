@@ -14,11 +14,11 @@ directeur du Centre d'études sur les réseaux, les transports, l'urbanisme et l
 
 du directeur du Centre d'études des tunnels ;
 
-du directeur régional de l'équipement d'Ile-de-France,
+du     directeur régional de l'environnement, de l'aménagement et du logement  d'Ile-de-France,
 
 et des personnalités désignées par arrêté du ministre de l'équipement, des transports et du tourisme, pour une durée de trois ans :
 
-un directeur régional de l'équipement ;
+un     directeur régional de l'environnement, de l'aménagement et du logement  ;
 
 un directeur de centre d'études techniques de l'équipement ;
 

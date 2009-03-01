@@ -4,34 +4,34 @@ La direction du personnel, de la modernisation et de l'administration est autori
 
 1° Les agents du ministère de l'économie, des finances et de l'industrie ayant accès à l'intranet sont les membres du réseau MINEFI au service des entreprises désignés par les chefs de service suivants :
 
-- les trésoriers-payeurs généraux ;
+-les trésoriers-payeurs généraux ;
 
-- les directeurs régionaux des douanes et droits indirects ;
+-les directeurs régionaux des douanes et droits indirects ;
 
-- les directeurs régionaux du commerce extérieur ;
+-les directeurs régionaux du commerce extérieur ;
 
-- les directeurs régionaux et départementaux de la concurrence, de la consommation et de la répression des fraudes ;
+-les directeurs régionaux et départementaux de la concurrence, de la consommation et de la répression des fraudes ;
 
-- les directeurs régionaux de l'industrie, de la recherche et de l'environnement ;
+-les              directeurs régionaux de l'environnement, de l'aménagement et du logement  ;
 
-- les directeurs régionaux de l'INSEE ;
+-les directeurs régionaux de l'INSEE ;
 
-- les directeurs départementaux des services fiscaux ;
+-les directeurs départementaux des services fiscaux ;
 
-- les délégués régionaux au commerce et à l'artisanat.
+-les délégués régionaux au commerce et à l'artisanat.
 
 2° L'intranet MINEFI au service des entreprises sera déployé sur l'ensemble du territoire français.
 
 3° L'intranet offre les services suivants :
 
-- une messagerie ;
+-une messagerie ;
 
-- un ou plusieurs forums ;
+-un ou plusieurs forums ;
 
-- des informations générales, économiques et réglementaires, locales et nationales ;
+-des informations générales, économiques et réglementaires, locales et nationales ;
 
-- des informations relatives au réseau MINEFI au service des entreprises ;
+-des informations relatives au réseau MINEFI au service des entreprises ;
 
-- des informations publiques et factuelles sur les entreprises ;
+-des informations publiques et factuelles sur les entreprises ;
 
-- un outil de suivi des demandes des entreprises.
+-un outil de suivi des demandes des entreprises.

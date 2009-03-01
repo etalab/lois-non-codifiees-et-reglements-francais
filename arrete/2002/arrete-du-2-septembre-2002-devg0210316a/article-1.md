@@ -38,7 +38,7 @@ Sont éligibles au dispositif d'indemnités horaires pour travaux supplémentair
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="justify">Agences de l'eau et services chargés de l'hydrométrie, de l'annonce des crues et des laboratoires dans les directions régionales de l'environnement. </p>
+<p align="justify">Agences de l'eau et services chargés de l'hydrométrie, de l'annonce des crues et des laboratoires dans les     directions régionales de l'environnement, de l'aménagement et du logement . </p>
 </td>
 <td align="left" valign="middle">
 <p align="justify">Agents chargés de prélèvement et d'analyse, de mesures et contrôles, jaugeurs, agents chargés de la maintenance des installations, prévisionnistes. </p>

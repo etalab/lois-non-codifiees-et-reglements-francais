@@ -14,9 +14,9 @@ d) Le directeur général de la santé ;
 
 2° Des représentants des services déconcentrés concernés :
 
-a) Un représentant des directions régionales de l'équipement ou des directions départementales de l'équipement, désigné par le ministre chargé de la construction ;
+a) Un représentant des     directions régionales de l'environnement, de l'aménagement et du logement  ou des directions départementales de l'équipement, désigné par le ministre chargé de la construction ;
 
-b) Un représentant des directions régionales de l'industrie, de la recherche et de l'environnement, désigné par le ministre chargé de l'environnement ;
+b) Un représentant des directions régionales de l'environnement, de l'aménagement et du logement, de l'aménagement et du logement, désigné par le ministre chargé de l'environnement ;
 
 c) Un représentant des directions régionales du travail, de l'emploi et de la formation professionnelle ou directions départementales du travail, de l'emploi et de la formation professionnelle, désigné par le ministre chargé du travail ;
 
@@ -42,7 +42,7 @@ Sont associés en tant que de besoin :
 
 ― toute autre direction d'administration centrale ;
 
-― un représentant des directions régionales de l'environnement ;
+― un représentant des directions régionales de l'environnement, de l'aménagement et du logement ;
 
 ― le directeur général de l'Institut de veille sanitaire ou son représentant ;
 

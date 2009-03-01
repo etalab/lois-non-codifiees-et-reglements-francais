@@ -26,7 +26,7 @@ Le directeur du Centre d'études des tunnels ;
 
 Le directeur du Centre d'études sur les réseaux, les transports, l'urbanisme et les constructions publiques ;
 
-Les directeurs régionaux de l'équipement ;
+Les     directeurs régionaux de l'environnement, de l'aménagement et du logement  ;
 
 Les directeurs interdépartementaux des routes ;
 
@@ -52,7 +52,7 @@ Les directeurs des centres interrégionaux de formation professionnelle ;
 
 Les directeurs de l'Ecole nationale des ponts et chaussées, de l'Ecole nationale des travaux publics de l'Etat, de l'Ecole nationale des techniciens de l'équipement et de ses établissements, du Centre d'évaluation, de documentation et d'innovation pédagogiques (CEDIP), de l'Ecole nationale de l'aviation civile ;
 
-Les directeurs des ports autonomes de Bordeaux, Dunkerque, La Rochelle, Le Havre, Marseille, Nantes - Saint-Nazaire, Paris, Rouen, Strasbourg et de la Guadeloupe ;
+Les directeurs des ports autonomes de Bordeaux, Dunkerque, La Rochelle, Le Havre, Marseille, Nantes-Saint-Nazaire, Paris, Rouen, Strasbourg et de la Guadeloupe ;
 
 Les directeurs des travaux maritimes à Lorient et Rochefort ;
 

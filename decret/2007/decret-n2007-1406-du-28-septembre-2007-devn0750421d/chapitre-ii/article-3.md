@@ -14,7 +14,7 @@ d) Le directeur départemental de l'équipement du Finistère ;
 
 e) Le directeur départemental de l'agriculture et de la forêt du Finistère ;
 
-f) Le directeur régional de l'industrie, de la recherche et de l'environnement de Bretagne ;
+f) Le              directeur régional de l'environnement, de l'aménagement et du logement de Bretagne ;
 
 2° Onze représentants des collectivités territoriales ou de leurs groupements :
 

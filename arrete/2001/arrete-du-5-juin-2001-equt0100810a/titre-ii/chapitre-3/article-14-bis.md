@@ -2,39 +2,39 @@
 
 Le conseiller à la sécurité.
 
-Le présent article a pour objet de compléter les dispositions du chapitre 1.8.3.
+Le présent article a pour objet de compléter les dispositions du chapitre 1. 8. 3.
 
 1. Exemptions.
 
-Les entreprises exemptées de l'application du 1.8.3 dans le cadre du 1.8.3.2 sont celles dont les seules activités concernées figurent parmi les suivantes :
+Les entreprises exemptées de l'application du 1. 8. 3 dans le cadre du 1. 8. 3. 2 sont celles dont les seules activités concernées figurent parmi les suivantes :
 
-- transports de marchandises dangereuses exclus des prescriptions de la réglementation du transport des marchandises dangereuses applicable au mode terrestre considéré, et opérations de chargement, de déchargement ou d'emballage liées à de tels transports ;
+-transports de marchandises dangereuses exclus des prescriptions de la réglementation du transport des marchandises dangereuses applicable au mode terrestre considéré, et opérations de chargement, de déchargement ou d'emballage liées à de tels transports ;
 
-- transports de marchandises dangereuses en colis, en quantités inférieures, par unité de transport wagon, aux seuils définis au 1.1.3.6 du RID, et opérations de chargement ou de déchargement de marchandises dangereuses en colis en quantités inférieures, par opération, à ces seuils ;
+-transports de marchandises dangereuses en colis, en quantités inférieures, par unité de transport wagon, aux seuils définis au 1. 1. 3. 6 du RID, et opérations de chargement ou de déchargement de marchandises dangereuses en colis en quantités inférieures, par opération, à ces seuils ;
 
-- opérations de déchargement de marchandises dangereuses.
+-opérations de déchargement de marchandises dangereuses.
 
 Toutefois, les entreprises qui effectuent des opérations de déchargement dans des installations relevant des cas suivants ne peuvent pas bénéficier de cette exemption :
 
-- installations soumises à autorisation dans le cadre de la législation des installations nucléaires de base ;
+-installations soumises à autorisation dans le cadre de la législation des installations nucléaires de base ;
 
-- installations soumises à autorisation dans le cadre de la législation des installations classées pour la protection de l'environnement, dès lors que les marchandises déchargées sont mentionnées dans la désignation des activités soumises à autorisation de la rubrique correspondante de la nomenclature des installations classées pour la protection de l'environnement ;
+-installations soumises à autorisation dans le cadre de la législation des installations classées pour la protection de l'environnement, dès lors que les marchandises déchargées sont mentionnées dans la désignation des activités soumises à autorisation de la rubrique correspondante de la nomenclature des installations classées pour la protection de l'environnement ;
 
 2. Désignation du conseiller.
 
-Le chef de toute entreprise concernée doit indiquer l'identité de son conseiller, ou, le cas échéant, de ses conseillers suivant le modèle de déclaration CERFA n° 12251-02 figurant en annexe D 9 de l'arrêté ADR, au préfet de région (direction régionale de l'équipement) où l'entreprise est domiciliée.
+Le chef de toute entreprise concernée doit indiquer l'identité de son conseiller, ou, le cas échéant, de ses conseillers suivant le modèle de déclaration CERFA n° 12251-02 figurant en annexe D 9 de l'arrêté ADR, au préfet de région (     direction régionale de l'environnement, de l'aménagement et du logement ) où l'entreprise est domiciliée.
 
 Le chef d'entreprise doit être en possession d'une copie du certificat du conseiller et, lorsque le conseiller est une personne extérieure à l'entreprise, d'une attestation de celui-ci indiquant qu'il accepte cette mission.
 
-Les entreprises ayant obtenu leur accréditation du préfet de région - direction régionale de l'équipement - peuvent accéder par internet au système des téléprocédures (DEMOSTEN) du ministère chargé des transports, pour y effectuer la déclaration du conseiller à la sécurité.
+Les entreprises ayant obtenu leur accréditation du préfet de région-     direction régionale de l'environnement, de l'aménagement et du logement -peuvent accéder par internet au système des téléprocédures (DEMOSTEN) du ministère chargé des transports, pour y effectuer la déclaration du conseiller à la sécurité.
 
 Lorsqu'une entreprise désigne plusieurs conseillers, elle doit préciser le champ de compétence (géographique, thématique ou autre) de chacun d'eux.
 
-Lorsque le conseiller n'est plus en mesure d'exercer ses fonctions, le chef de l'entreprise est tenu de désigner un nouveau conseiller, au plus tard dans le délai de deux mois. Le chef d'entreprise doit indiquer dans un délai de quinze jours ce changement au préfet de région - direction régionale de l'équipement - où l'entreprise est domiciliée. Plus généralement, le chef d'entreprise doit déclarer au préfet de région (direction régionale de l'équipement) toutes modifications des données contenues dans la déclaration initiale du conseiller.
+Lorsque le conseiller n'est plus en mesure d'exercer ses fonctions, le chef de l'entreprise est tenu de désigner un nouveau conseiller, au plus tard dans le délai de deux mois. Le chef d'entreprise doit indiquer dans un délai de quinze jours ce changement au préfet de région-     direction régionale de l'environnement, de l'aménagement et du logement -où l'entreprise est domiciliée. Plus généralement, le chef d'entreprise doit déclarer au préfet de région (     direction régionale de l'environnement, de l'aménagement et du logement ) toutes modifications des données contenues dans la déclaration initiale du conseiller.
 
 3. Retrait du certificat.
 
-Le certificat peut être retiré par décision du ministre compétent s'il s'avère que le conseiller a failli dans l'exercice des missions qui lui sont dévolues (notamment au paragraphe 1 du 1.8.3.3 et aux points 4 et 5 du présent article).
+Le certificat peut être retiré par décision du ministre compétent s'il s'avère que le conseiller a failli dans l'exercice des missions qui lui sont dévolues (notamment au paragraphe 1 du 1. 8. 3. 3 et aux points 4 et 5 du présent article).
 
 4. Rapport d'accident.
 
@@ -48,7 +48,7 @@ Les rapports d'accidents sont tenus à disposition de l'administration pendant c
 
 5. Rapport annuel.
 
-Le rapport annuel mentionné au 1.8.3.3 quantifie les activités de l'entreprise entrant dans le champ de compétence du conseiller et doit également comporter un résumé de ses actions conformément aux taches reprises au 1.8.3.3 et des propositions faites pour l'amélioration de la sécurité, ainsi qu'un résumé des accidents survenus.
+Le rapport annuel mentionné au 1. 8. 3. 3 quantifie les activités de l'entreprise entrant dans le champ de compétence du conseiller et doit également comporter un résumé de ses actions conformément aux taches reprises au 1. 8. 3. 3 et des propositions faites pour l'amélioration de la sécurité, ainsi qu'un résumé des accidents survenus.
 
 Lorsque le chef de l'entreprise a désigné plusieurs conseillers, il doit établir un rapport de synthèse pour l'ensemble de l'entreprise, comportant en annexe les rapports de ses différents conseillers.
 
@@ -58,6 +58,6 @@ Le rapport annuel doit être conservé par l'entreprise pendant cinq ans et êtr
 
 6. Organismes agréés.
 
-Après avis de la commission interministérielle du transport des matières dangereuses, le ministre compétent désigne par arrêté l'organisme chargé d'organiser les examens et de délivrer les certificats, conformément au 1.8.3.10. L'arrêté précise la composition et les modalités particulières de fonctionnement de l'organisme ainsi que la composition du jury.
+Après avis de la commission interministérielle du transport des matières dangereuses, le ministre compétent désigne par arrêté l'organisme chargé d'organiser les examens et de délivrer les certificats, conformément au 1. 8. 3. 10.L'arrêté précise la composition et les modalités particulières de fonctionnement de l'organisme ainsi que la composition du jury.
 
 Le ministère chargé des transports est informé, par un rapport annuel détaillé, de l'activité de cet organisme. Le recueil des questions d'examens et autres documents ou archives sont tenus à sa disposition et transmis périodiquement à sa demande.

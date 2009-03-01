@@ -6,10 +6,10 @@ Pour l'application du présent arrêté, on entend par " bassin versant l'ensemb
 
 Sauf indication contraire, les indications " amont de ou " aval de, utilisées dans l'énumération ci-après des bassins versants hydrographiques classés en zone sensible, doivent être interprétées de la façon suivante :
 
-- pour un nom de commune, celle-ci est incluse dans le zonage ;
+-pour un nom de commune, celle-ci est incluse dans le zonage ;
 
-- pour les bassins versants des cours d'eau affluents, ils sont inclus dans le zonage après les expressions " en amont de sa confluence avec... et " les affluents de rive gauche ou droite entre... ; ils sont exclus après l'expression " en aval de sa confluence avec....
+-pour les bassins versants des cours d'eau affluents, ils sont inclus dans le zonage après les expressions " en amont de sa confluence avec... et " les affluents de rive gauche ou droite entre... ; ils sont exclus après l'expression " en aval de sa confluence avec....
 
 Nota :
 
-(1) Cette carte peut être consultée et mise à la disposition du public dans chaque direction régionale de l'environnement (Diren) et au ministère de l'environnement (direction de l'eau).
+(1) Cette carte peut être consultée et mise à la disposition du public dans chaque     direction régionale de l'environnement, de l'aménagement et du logement  (Diren) et au ministère de l'environnement (direction de l'eau).

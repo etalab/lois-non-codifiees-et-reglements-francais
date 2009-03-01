@@ -6,4 +6,4 @@ La demande de prolongation ne fait pas l'objet d'une mise en concurrence et n'es
 
 Si le demandeur n'a pas satisfait à toutes ses obligations, le préfet l'informe par lettre recommandée avec demande d'avis de réception des objections auxquelles donne lieu sa demande dans le délai de deux mois à compter de la réception de celle-ci. Le demandeur dispose d'un délai d'un mois pour répondre.
 
-Le préfet transmet au ministre chargé des mines la demande et ses annexes, les avis prévus, selon les cas, par les articles 20 ou 28, les rapport et avis du directeur régional de l'industrie, de la recherche et de l'environnement ainsi que son propre avis.
+Le préfet transmet au ministre chargé des mines la demande et ses annexes, les avis prévus, selon les cas, par les articles 20 ou 28, les rapport et avis du              directeur régional de l'environnement, de l'aménagement et du logement ainsi que son propre avis.

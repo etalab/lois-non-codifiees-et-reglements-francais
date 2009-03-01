@@ -14,7 +14,7 @@ d) Un à trois maires désignés parmi les maires de la région par l'Associatio
 
 e) Un à trois membres désignés par les autorités organisatrices de transport urbain dans la région ;
 
-f) Le directeur régional de l'équipement ou son représentant ;
+f) Le     directeur régional de l'environnement, de l'aménagement et du logement  ou son représentant ;
 
 g) Le directeur régional SNCF ou son représentant ;
 

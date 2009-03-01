@@ -2,36 +2,36 @@
 
 **LISTE DES SERVICES DÉCONCENTRÉS VISÉS DANS L'ARTICLE 1er, § 3**
 
-Direction régionale de l'environnement Alsace.
+direction régionale de l'environnement, de l'aménagement et du logement  Alsace.
 
-Direction régionale de l'environnement Aquitaine.
+direction régionale de l'environnement, de l'aménagement et du logement  Aquitaine.
 
-Direction régionale de l'environnement Auvergne.
+direction régionale de l'environnement, de l'aménagement et du logement  Auvergne.
 
-Direction régionale de l'environnement Basse-Normandie.
+direction régionale de l'environnement, de l'aménagement et du logement  Basse-Normandie.
 
-Direction régionale de l'environnement Bourgogne.
+direction régionale de l'environnement, de l'aménagement et du logement  Bourgogne.
 
-Direction régionale de l'environnement Bretagne.
+direction régionale de l'environnement, de l'aménagement et du logement  Bretagne.
 
-Direction régionale de l'environnement Centre.
+direction régionale de l'environnement, de l'aménagement et du logement  Centre.
 
-Direction régionale de l'environnement Franche-Comté.
+direction régionale de l'environnement, de l'aménagement et du logement  Franche-Comté.
 
-Direction régionale de l'environnement Guadeloupe.
+direction régionale de l'environnement, de l'aménagement et du logement  Guadeloupe.
 
-Direction régionale de l'environnement Guyane.
+direction régionale de l'environnement, de l'aménagement et du logement  Guyane.
 
-Direction régionale de l'environnement Ile-de-France.
+direction régionale de l'environnement, de l'aménagement et du logement  Ile-de-France.
 
-Direction régionale de l'environnement Languedoc-Roussillon.
+direction régionale de l'environnement, de l'aménagement et du logement  Languedoc-Roussillon.
 
-Direction régionale de l'environnement Limousin.
+direction régionale de l'environnement, de l'aménagement et du logement  Limousin.
 
-Direction régionale de l'environnement Lorraine.
+direction régionale de l'environnement, de l'aménagement et du logement  Lorraine.
 
-Direction régionale de l'environnement Martinique.
+direction régionale de l'environnement, de l'aménagement et du logement  Martinique.
 
-Direction régionale de l'environnement Poitou-Charentes.
+direction régionale de l'environnement, de l'aménagement et du logement  Poitou-Charentes.
 
-Direction régionale de l'environnement Réunion.
+direction régionale de l'environnement, de l'aménagement et du logement  Réunion.

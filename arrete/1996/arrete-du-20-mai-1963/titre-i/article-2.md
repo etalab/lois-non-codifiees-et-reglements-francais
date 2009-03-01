@@ -1,8 +1,8 @@
 # Article 2
 
-§ 1. - Pour chaque type d'extincteur le constructeur établit une notice descriptive définissant les caractéristiques de l'appareil, avec référence à un dessin d'ensemble coté. Cette notice doit notamment :
+§ 1.-Pour chaque type d'extincteur le constructeur établit une notice descriptive définissant les caractéristiques de l'appareil, avec référence à un dessin d'ensemble coté. Cette notice doit notamment :
 
-a) Indiquer la pression choisie par le constructeur comme base de calcul de l'appareil, ci-après dénommée "pression de calcul", et les limites de température d'emploi ;
+a) Indiquer la pression choisie par le constructeur comme base de calcul de l'appareil, ci-après dénommée " pression de calcul ", et les limites de température d'emploi ;
 
 b) Définir la nature des matériaux employés et les traitements thermiques éventuellement pratiqués ;
 
@@ -24,9 +24,9 @@ Lorsque le corps de l'enceinte est de fabrication forgée et que le constructeur
 
 Les mémoires prévus ci-dessus sont contresignés par le constructeur. Ils sont considérés comme faisant partie de la notice descriptive pour l'application des articles 2 (paragraphe 3) et 15 du présent arrêté.
 
-§ 2. - S'il s'agit d'un appareil construit hors des frontières de l'Union européenne, la notice descriptive est suivie d'un certificat signé du constructeur attestant que l'appareil est conforme à la réglementation en vigueur pour l'emploi dans le pays d'origine ainsi que d'un certificat des vérifications prescrites à l'article 3 du décret du 18 janvier 1943, le tout visé pour légalisation de la signature du constructeur par le consul de France du pays d'origine sauf application de la convention du 5 octobre 1961 supprimant l'exigence de la légalisation des actes publics étrangers. Lesdits certificats ne dispensent pas l'appareil de satisfaire aux prescriptions des règlements français, et en particulier à celles du présent arrêté.
+§ 2.-S'il s'agit d'un appareil construit hors des frontières de l'Union européenne, la notice descriptive est suivie d'un certificat signé du constructeur attestant que l'appareil est conforme à la réglementation en vigueur pour l'emploi dans le pays d'origine ainsi que d'un certificat des vérifications prescrites à l'article 3 du décret du 18 janvier 1943, le tout visé pour légalisation de la signature du constructeur par le consul de France du pays d'origine sauf application de la convention du 5 octobre 1961 supprimant l'exigence de la légalisation des actes publics étrangers. Lesdits certificats ne dispensent pas l'appareil de satisfaire aux prescriptions des règlements français, et en particulier à celles du présent arrêté.
 
-§ 3. - La notice descriptive du type est remise au directeur régional de l'industrie, de la recherche et de l'environnement de l'autorité duquel relève le constructeur, qui, le cas échéant, fait connaître ses observations.
+§ 3.-La notice descriptive du type est remise au              directeur régional de l'environnement, de l'aménagement et du logement de l'autorité duquel relève le constructeur, qui, le cas échéant, fait connaître ses observations.
 
 Elle est présentée à l'expert à l'occasion de la vérification expérimentale prévue à l'article 9.
 

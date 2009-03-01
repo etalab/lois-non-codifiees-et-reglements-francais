@@ -2,7 +2,7 @@
 
 Les actions de prévention exercées par la Caisse autonome nationale dans le cadre défini à l'article 202 sont les suivantes :
 
-1° La caisse nationale peut, sur avis du comité technique visé à l'article 72, inviter un exploitant ou plusieurs exploitants exerçant une même activité, à adopter certaines mesures de prévention. L'application de ces mesures est soumise à l'homologation préalable du ou des directeurs régionaux de l'industrie, de la recherche et de l'environnement intéressés. Le recours hiérarchique éventuel contre ces décisions est adressé au ministre chargé des mines.
+1° La caisse nationale peut, sur avis du comité technique visé à l'article 72, inviter un exploitant ou plusieurs exploitants exerçant une même activité, à adopter certaines mesures de prévention.L'application de ces mesures est soumise à l'homologation préalable du ou des              directeurs régionaux de l'environnement, de l'aménagement et du logement  intéressés. Le recours hiérarchique éventuel contre ces décisions est adressé au ministre chargé des mines.
 
 2° La Caisse autonome nationale peut signaler au directeur régional de l'industrie et de la recherche les défauts d'application parvenus à sa connaissance en ce qui concerne les mesures prévues par la réglementation du travail dans les mines.
 
@@ -18,7 +18,7 @@ Pour obtenir les données nécessaires à l'exercice des missions définies au p
 
 Elle favorise l'enseignement de la prévention en liaison avec les services extérieurs compétents de l'Etat, les ministères intéressés et les organismes qu'ils contrôlent et fait appel au concours des organisations professionnelles, patronales et ouvrières pour les associer à cette oeuvre d'éducation.
 
-5° La Caisse autonome nationale peut faire procéder, sur les conditions d'hygiène et de sécurité, aux enquêtes qu'elle juge utiles. Elle s'adresse, à cet effet, à un enquêteur désigné à sa demande, par le directeur régional de l'industrie, de la recherche et de l'environnement parmi les fonctionnaires sous ses ordres ou les délégués mineurs des circonscriptions intéressées.
+5° La Caisse autonome nationale peut faire procéder, sur les conditions d'hygiène et de sécurité, aux enquêtes qu'elle juge utiles. Elle s'adresse, à cet effet, à un enquêteur désigné à sa demande, par le directeur régional de l'environnement, de l'aménagement et du logement parmi les fonctionnaires sous ses ordres ou les délégués mineurs des circonscriptions intéressées.
 
 6° La Caisse autonome nationale peut, dans la limite d'un montant fixé par arrêté conjoint des ministres chargés respectivement de la sécurité sociale, du budget et des mines :
 

@@ -4,7 +4,7 @@
 
 Il invite chacun des candidats dont il a transmis le dossier à la commission à se présenter devant celle-ci en vue d'un entretien destiné à vérifier que ses connaissances sont suffisantes pour lui permettre d'exercer la profession de commissionnaire de transport.
 
-2. La commission consultative régionale prend connaissance des avis du directeur régional de l'équipement et du directeur régional du travail des transports concernant notamment le comportement de l'entreprise dans laquelle le demandeur a exercé son activité professionnelle au regard des réglementations des transports, du travail et de la sécurité.
+2. La commission consultative régionale prend connaissance des avis du     directeur régional de l'environnement, de l'aménagement et du logement  et du directeur régional du travail des transports concernant notamment le comportement de l'entreprise dans laquelle le demandeur a exercé son activité professionnelle au regard des réglementations des transports, du travail et de la sécurité.
 
 A la suite de l'entretien avec le candidat, la commission délivre un avis favorable ou défavorable.
 

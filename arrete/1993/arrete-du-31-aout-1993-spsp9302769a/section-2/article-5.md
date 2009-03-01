@@ -1,6 +1,6 @@
 # Article 5
 
-La commission régionale d'agrément visée à l'article 4 du présent arrêté est présidée par le préfet de région ou son représentant. Elle est composée d'un représentant de la direction régionale des affaires sanitaires et sociales, de la direction régionale de l'environnement, de la direction régionale de l'industrie, de la recherche et de l'environnement, de la direction régionale de l'agriculture, de la direction régionale de l'équipement et des services compétents du ministère de l'éducation nationale.
+La commission régionale d'agrément visée à l'article 4 du présent arrêté est présidée par le préfet de région ou son représentant. Elle est composée d'un représentant de la direction régionale des affaires sanitaires et sociales, de la direction régionale de l'environnement, de l'aménagement et du logement, de la direction régionale de l'environnement, de l'aménagement et du logement, de l'aménagement et du logement, de la direction régionale de l'agriculture, de la     direction régionale de l'environnement, de l'aménagement et du logement  et des services compétents du ministère de l'éducation nationale.
 
 Chaque directeur départemental des affaires sanitaires et sociales ou son représentant participe, le cas échéant, aux travaux de la commission régionale d'agrément.
 

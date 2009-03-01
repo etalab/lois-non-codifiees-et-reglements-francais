@@ -1,6 +1,6 @@
 # Article 13
 
-Les fonctions de directeur peuvent être confiées au directeur régional de l'industrie, de la recherche et de l'environnement de Midi-Pyrénées.
+Les fonctions de directeur peuvent être confiées au              directeur régional de l'environnement, de l'aménagement et du logement de Midi-Pyrénées.
 
 Le directeur est nommé par décret pour une durée de cinq ans renouvelable.
 

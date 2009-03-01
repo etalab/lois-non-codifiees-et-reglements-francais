@@ -19,10 +19,10 @@ En application de l'article 2 du décret du 13 mars 2000 susvisé, les services 
 </tr>
 <tr>
 <td valign="top">
-<p align="center">F </p>
+<p align="center">F</p>
 </td>
 <td valign="top">
-<p>Directions régionales de l'environnement </p>
+<p>     directions régionales de l'environnement, de l'aménagement et du logement  </p>
 </td>
 <td valign="top">
 <p align="center">1, 18 </p>

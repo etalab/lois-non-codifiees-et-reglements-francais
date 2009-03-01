@@ -8,57 +8,57 @@ Le directeur du personnel, de la modernisation et de l'administration.
 
 **Pour les services ayant une compétence ou une vocation nationale :**
 
-- le directeur des vérifications nationales et internationales ;
+-le directeur des vérifications nationales et internationales ;
 
-- le directeur national des enquêtes fiscales ;
+-le directeur national des enquêtes fiscales ;
 
-- le directeur national des interventions domaniales ;
+-le directeur national des interventions domaniales ;
 
-- le directeur national des vérifications des situations fiscales ;
+-le directeur national des vérifications des situations fiscales ;
 
-- le directeur du service de la documentation nationale du cadastre ;
+-le directeur du service de la documentation nationale du cadastre ;
 
-- le directeur des résidents à l'étranger et des services généraux ;
+-le directeur des résidents à l'étranger et des services généraux ;
 
-- le directeur du centre de services informatiques de la DGI ;
+-le directeur du centre de services informatiques de la DGI ;
 
-- le directeur des grandes entreprises ;
+-le directeur des grandes entreprises ;
 
-- le directeur de l'Ecole nationale du Trésor public ;
+-le directeur de l'Ecole nationale du Trésor public ;
 
-- le directeur national du renseignement et des enquêtes douanières ;
+-le directeur national du renseignement et des enquêtes douanières ;
 
-- le directeur national des statistiques du commerce extérieur ;
+-le directeur national des statistiques du commerce extérieur ;
 
-- le directeur national du recrutement et de la formation professionnelle de la douane ;
+-le directeur national du recrutement et de la formation professionnelle de la douane ;
 
-- le chef du service informatique douanier ;
+-le chef du service informatique douanier ;
 
-- le directeur de l'Ecole nationale des douanes ;
+-le directeur de l'Ecole nationale des douanes ;
 
-- le directeur de l'Ecole nationale des brigades des douanes ;
+-le directeur de l'Ecole nationale des brigades des douanes ;
 
-- le président du Conseil de la concurrence ;
+-le président du Conseil de la concurrence ;
 
-- le directeur de l'Ecole de la concurrence, de la consommation et de la répression des fraudes ;
+-le directeur de l'Ecole de la concurrence, de la consommation et de la répression des fraudes ;
 
-- le directeur national des enquêtes de concurrence ;
+-le directeur national des enquêtes de concurrence ;
 
-- le directeur national des enquêtes de répression des fraudes ;
+-le directeur national des enquêtes de répression des fraudes ;
 
-- le directeur de l'Ecole nationale de la statistique et de l'analyse de l'information ;
+-le directeur de l'Ecole nationale de la statistique et de l'analyse de l'information ;
 
-- le chef du centre de formation de l'INSEE à Libourne ;
+-le chef du centre de formation de l'INSEE à Libourne ;
 
-- le directeur de l'Ecole nationale supérieure des mines ;
+-le directeur de l'Ecole nationale supérieure des mines ;
 
-- le directeur de l'Ecole nationale supérieure des techniques industrielles et des mines ;
+-le directeur de l'Ecole nationale supérieure des techniques industrielles et des mines ;
 
-- le directeur de l'Ecole supérieure de métrologie ;
+-le directeur de l'Ecole supérieure de métrologie ;
 
-- le directeur des Monnaies et médailles ;
+-le directeur des Monnaies et médailles ;
 
-- le directeur général de l'Institut national de la propriété industrielle.
+-le directeur général de l'Institut national de la propriété industrielle.
 
 **Pour les établissements des services déconcentrés** :
 
@@ -110,7 +110,7 @@ Etablissements relevant de la direction à l'action régionale
 
 et de la petite et moyenne industrie
 
-Les directeurs régionaux de l'industrie, de la recherche et de l'environnement.
+Les              directeurs régionaux de l'environnement, de l'aménagement et du logement .
 
 Etablissements relevant de la direction
 

@@ -10,7 +10,7 @@ Un représentant de la direction de l'eau au titre du service central d'hydromé
 
 Un représentant de la direction de la prévention des pollutions et des risques.
 
-Un représentant d'une direction régionale de l'environnement.
+Un représentant d'une     direction régionale de l'environnement, de l'aménagement et du logement .
 
 Un représentant d'un service de prévision des crues.
 

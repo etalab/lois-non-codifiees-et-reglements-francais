@@ -4,8 +4,8 @@ Les autorisations sont demandées au moyen du formulaire CERFA n° 11551, établ
 
 Ces autorisations ne sont valables que lorsqu'elles sont accompagnées à bord des véhicules des certificats de conformité correspondants.
 
-Le formulaire CERFA ci-dessus est disponible auprès des directions régionales de l'équipement et sur le site du ministère chargé des transports à l'adresse suivante :
+Le formulaire CERFA ci-dessus est disponible auprès des     directions régionales de l'environnement, de l'aménagement et du logement  et sur le site du ministère chargé des transports à l'adresse suivante :
 
-www.transports.developpement-durable.gouv.fr
+www. transports. developpement-durable. gouv. fr
 
-Les formulaires CERFA peuvent être transmis aux directions régionales de l'équipement sous forme papier ou sous forme électronique, via internet.
+Les formulaires CERFA peuvent être transmis aux     directions régionales de l'environnement, de l'aménagement et du logement  sous forme papier ou sous forme électronique, via internet.

@@ -142,7 +142,7 @@ Au sein de la direction de l'action régionale
 
 et de la petite et moyenne industrie
 
-Directions régionales de l'industrie, de la recherche et de l'environnement.
+directions régionales de l'environnement, de l'aménagement et du logement .
 
 Centres de contrôle des véhicules.
 

@@ -2,7 +2,7 @@
 
 Les destinataires de ces informations sont :
 
-les directeurs départementaux et les directeurs régionaux de l'équipement de France métropolitaine pour les informations qui les concernent ;
+les directeurs départementaux et les     directeurs régionaux de l'environnement, de l'aménagement et du logement  de France métropolitaine pour les informations qui les concernent ;
 
 le commissaire aux entreprises de travaux publics et de bâtiment ;
 

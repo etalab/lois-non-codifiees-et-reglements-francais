@@ -10,6 +10,6 @@ En application de l'article 1er du décret du 30 mai 2005 susvisé, les fonction
 
 -expert de notoriété nationale, reconnu par une instance d'évaluation affecté au service technique de l'énergie électrique et des grands barrages ;
 
--adjoint au directeur ou chef de division d'une direction régionale de l'industrie, de la recherche et de l'environnement ;
+-adjoint au directeur ou chef de division d'une              direction régionale de l'environnement, de l'aménagement et du logement  ;
 
--chargé de mission ou de projet auprès du directeur d'une direction régionale de l'industrie, de la recherche et de l'environnement.
+-chargé de mission ou de projet auprès du directeur d'une              direction régionale de l'environnement, de l'aménagement et du logement .

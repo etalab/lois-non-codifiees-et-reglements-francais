@@ -14,6 +14,6 @@ Les candidats doivent présenter un dossier comportant les pièces suivantes :
 
 6° Le cas échéant, les photocopies de l'attestation des pouvoirs bancaires délivrée par la banque et des délégations de signature dont a pu disposer le candidat pour toute la durée de ses fonctions.
 
-Ce dossier est adressé par le candidat au préfet de la région (direction régionale de l'équipement), où il est domicilié.
+Ce dossier est adressé par le candidat au préfet de la région (     direction régionale de l'environnement, de l'aménagement et du logement ), où il est domicilié.
 
-Accusé de réception lui est donné par le préfet de région (direction régionale de l'équipement) qui l'invite, le cas échéant, à compléter son dossier à peine de rejet de sa demande.
+Accusé de réception lui est donné par le préfet de région (     direction régionale de l'environnement, de l'aménagement et du logement ) qui l'invite, le cas échéant, à compléter son dossier à peine de rejet de sa demande.

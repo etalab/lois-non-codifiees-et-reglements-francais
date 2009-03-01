@@ -2,7 +2,7 @@
 
 Des cahiers des charges, approuvés par le directeur des transports terrestres, fixent le contenu, les méthodes d'enseignement et le dispositif de contrôle des connaissances des stages prévus aux articles 7, 10, 11 et 14 du présent arrêté.
 
-Les organismes de formation professionnelle font parvenir, contre accusé de réception, au préfet de la région (direction régionale de l'équipement) dans laquelle aura lieu le stage leur dossier de demande d'agrément.
+Les organismes de formation professionnelle font parvenir, contre accusé de réception, au préfet de la région (     direction régionale de l'environnement, de l'aménagement et du logement ) dans laquelle aura lieu le stage leur dossier de demande d'agrément.
 
 Seuls peuvent être agréés les stages qui imposent une présence effective du candidat.
 

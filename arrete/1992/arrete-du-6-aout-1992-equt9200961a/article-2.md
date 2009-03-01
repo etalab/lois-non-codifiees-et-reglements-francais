@@ -1,6 +1,6 @@
 # Article 2
 
-Le montant exigible de la capacité financière résulte d'un calcul dont les règles sont précisées par une fiche dont le modèle est disponible auprès des directions régionales de l'équipement.
+Le montant exigible de la capacité financière résulte d'un calcul dont les règles sont précisées par une fiche dont le modèle est disponible auprès des     directions régionales de l'environnement, de l'aménagement et du logement .
 
 Cette fiche décrit en particulier le parc des moyens de transport de l'entreprise ; elle est signée par le représentant légal de l'entreprise.
 

@@ -68,11 +68,11 @@ Au ministère de l'écologie, du développement et de l'aménagement durables :
 
 -la direction des études économiques et de l'évaluation environnementale ;
 
--les unités statistiques ou d'études des directions régionales de l'environnement ;
+-les unités statistiques ou d'études des directions régionales de l'environnement, de l'aménagement et du logement ;
 
 -la direction générale de l'urbanisme, de l'habitat et de la construction ;
 
--les unités statistiques ou d'études des directions régionales de l'équipement ;
+-les unités statistiques ou d'études des directions régionales de l'environnement, de l'aménagement et du logement ;
 
 -les unités statistiques ou d'études des directions départementales de l'équipement dans les départements d'outre-mer ;
 

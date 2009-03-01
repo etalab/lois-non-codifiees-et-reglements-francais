@@ -4,7 +4,7 @@ Décret n° 70-912 du 5 octobre 1970 modifié relatif aux conditions de nominati
 
 Décret n° 70-1094 du 30 novembre 1970 modifié fixant les conditions de nomination et d'avancement dans les emplois de secrétaire général d'université.
 
-Décret n° 76-818 du 24 août 1976 modifié relatif aux conditions de désignation des directeurs régionaux de l'industrie, de la recherche et de l'environnement.
+Décret n° 76-818 du 24 août 1976 modifié relatif aux conditions de désignation des              directeurs régionaux de l'environnement, de l'aménagement et du logement .
 
 Décret n° 76-1133 du 9 décembre 1976 modifié relatif aux emplois de directeur départemental et de directeur régional de la jeunesse, des sports et des loisirs.
 

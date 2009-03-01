@@ -6,6 +6,6 @@ Le système de gestion de la sécurité est défini conformément aux dispositio
 
 L'exploitant affecte des moyens appropriés au système de gestion de la sécurité. Il veille à son bon fonctionnement.
 
-Il tient à la disposition du préfet et du directeur régional de l'industrie, de la recherche et de l'environnement les bilans mentionnés au point 6 de l'annexe I du présent arrêté.
+Il tient à la disposition du préfet et du              directeur régional de l'environnement, de l'aménagement et du logement les bilans mentionnés au point 6 de l'annexe I du présent arrêté.
 
-Il transmet chaque année au préfet et au directeur régional de l'industrie, de la recherche et de l'environnement une note synthétique présentant les résultats de l'analyse définie au point 7.3 de l'annexe I.
+Il transmet chaque année au préfet et au              directeur régional de l'environnement, de l'aménagement et du logement une note synthétique présentant les résultats de l'analyse définie au point 7. 3 de l'annexe I.

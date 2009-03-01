@@ -20,6 +20,6 @@ f) Pour les personnes de nationalité française, le document justifiant leur si
 articles L. 113-4 et L. 114-6 du code du service national
 .
 
-Chaque dossier dûment rempli est adressé par le candidat au préfet de la région (direction régionale de l'équipement) où il est domicilié.
+Chaque dossier dûment rempli est adressé par le candidat au préfet de la région (     direction régionale de l'environnement, de l'aménagement et du logement ) où il est domicilié.
 
-Accusé de réception lui est donné par le préfet de la région (direction régionale de l'équipement) qui l'invite, le cas échéant, à compléter son dossier à peine de rejet de sa demande.
+Accusé de réception lui est donné par le préfet de la région (     direction régionale de l'environnement, de l'aménagement et du logement ) qui l'invite, le cas échéant, à compléter son dossier à peine de rejet de sa demande.

@@ -10,7 +10,7 @@ a) Sept membres de droit :
 
 3. Le directeur régional de l'environnement ;
 
-4. Le directeur régional de l'équipement ;
+4. Le     directeur régional de l'environnement, de l'aménagement et du logement  ;
 
 5. Le conservateur régional des monuments historiques ;
 

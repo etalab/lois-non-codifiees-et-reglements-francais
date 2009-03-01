@@ -79,7 +79,7 @@ Comités techniques paritaires spéciaux et locaux institués dans les services 
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="justify">Direction régionale de l'équipement d'Ile-de-France </p>
+<p align="justify">direction régionale de l'environnement, de l'aménagement et du logement d'Ile-de-France </p>
 </td>
 <td align="left" valign="middle">
 <p align="center">10 </p>
@@ -91,12 +91,12 @@ Comités techniques paritaires spéciaux et locaux institués dans les services 
 <p align="center">10 </p>
 </td>
 <td align="left" valign="middle">
-<p align="center">10 </p>
+<p align="center">10</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="justify">Directions régionales de l'équipement dont l'effectif se situe au-delà de 100 agents </p>
+<p align="justify">directions régionales de l'environnement, de l'aménagement et du logement dont l'effectif se situe au-delà de 100 agents </p>
 </td>
 <td align="left" valign="middle">
 <p align="center">5 </p>
@@ -108,12 +108,12 @@ Comités techniques paritaires spéciaux et locaux institués dans les services 
 <p align="center">5 </p>
 </td>
 <td align="left" valign="middle">
-<p align="center">5 </p>
+<p align="center">5</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="justify">Directions régionales de l'équipement dont l'effectif se situe entre 51 et 100 agents </p>
+<p align="justify">directions régionales de l'environnement, de l'aménagement et du logement dont l'effectif se situe entre 51 et 100 agents </p>
 </td>
 <td align="left" valign="middle">
 <p align="center">4 </p>
@@ -125,12 +125,12 @@ Comités techniques paritaires spéciaux et locaux institués dans les services 
 <p align="center">4 </p>
 </td>
 <td align="left" valign="middle">
-<p align="center">4 </p>
+<p align="center">4</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="justify">Directions régionales de l'équipement dont l'effectif se situe entre 25 et 50 agents </p>
+<p align="justify">directions régionales de l'environnement, de l'aménagement et du logement dont l'effectif se situe entre 25 et 50 agents </p>
 </td>
 <td align="left" valign="middle">
 <p align="center">3 </p>
@@ -143,57 +143,6 @@ Comités techniques paritaires spéciaux et locaux institués dans les services 
 </td>
 <td align="left" valign="middle">
 <p align="center">3 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="justify">Service maritime des ports de Boulogne-sur-Mer et de Calais </p>
-</td>
-<td align="left" valign="middle">
-<p align="center">10 </p>
-</td>
-<td align="left" valign="middle">
-<p align="center">10 </p>
-</td>
-<td align="left" valign="middle">
-<p align="center">10 </p>
-</td>
-<td align="left" valign="middle">
-<p align="center">10 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="justify">Service maritime du Nord </p>
-</td>
-<td align="left" valign="middle">
-<p align="center">5 </p>
-</td>
-<td align="left" valign="middle">
-<p align="center">5 </p>
-</td>
-<td align="left" valign="middle">
-<p align="center">5 </p>
-</td>
-<td align="left" valign="middle">
-<p align="center">5 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="justify">Service maritime et de navigation du Languedoc-Roussillon </p>
-</td>
-<td align="left" valign="middle">
-<p align="center">6 </p>
-</td>
-<td align="left" valign="middle">
-<p align="center">6 </p>
-</td>
-<td align="left" valign="middle">
-<p align="center">6 </p>
-</td>
-<td align="left" valign="middle">
-<p align="center">6 </p>
 </td>
 </tr>
 <tr>

@@ -32,7 +32,7 @@ Fonctions exercées dans les services déconcentrées du ministère de l'agricul
 
 14. Contrôleur de pépinière ;
 
-15.(Supprimé) ;
+15. (Supprimé) ;
 
 16. Chef de dépôt d'étalons aux Haras nationaux ;
 
@@ -64,7 +64,7 @@ TABLEAU II
 
 Fonctions exercées dans les établissements d'enseignement technique agricole ou d'enseignement supérieur agricole et vétérinaire pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire :
 
-I. - Etablissements d'enseignement supérieur agricole et vétérinaire :
+I.-Etablissements d'enseignement supérieur agricole et vétérinaire :
 
 1. Responsable d'un service administratif, comptable, logistique ou technique ou du service de la formation continue dans les établissements d'enseignement supérieur agricole et vétérinaire (à l'exception des personnels détachés sur statut d'emploi) ;
 
@@ -72,7 +72,7 @@ I. - Etablissements d'enseignement supérieur agricole et vétérinaire :
 
 3. Responsable technique ou logistique dans les établissements d'enseignement supérieur agricole et vétérinaire (encadrement, équipements scientifiques lourds ou dangereux, ateliers).
 
-II. - Etablissements d'enseignement technique agricole :
+II.-Etablissements d'enseignement technique agricole :
 
 1. Responsable de la gestion dans les établissements publics locaux et nationaux d'enseignement technique agricole (lycées, lycées professionnels) ;
 
@@ -96,7 +96,7 @@ Agent chargé de mission auprès d'un directeur, d'un chef de service ou d'un so
 
 2. Adjoint à un chef de bureau ou expert de catégorie A :
 
-Adjoint à un chef de bureau exerçant des responsabilités d'encadrement dans un bureau de taille importante ou responsable d'un projet ou d'un dossier intéressant plusieurs directions, services ou sous-directions, ou cadre confirmé exerçant des fonctions requérant une grande expérience dans un domaine technique ou juridique et appelé, à ce titre, à représenter le ministère auprès d'autres administrations, de juridictions ou d'instances internationales, ou exerçant des fonctions d'encadrement d'un effectif important et/ou requérant une expérience de spécialiste en matière de gestion de personnel, ou dans un domaine logistique, administratif, financier ou informatique.
+Adjoint à un chef de bureau exerçant des responsabilités d'encadrement dans un bureau de taille importante ou responsable d'un projet ou d'un dossier intéressant plusieurs directions, services ou sous-directions, ou cadre confirmé exerçant des fonctions requérant une grande expérience dans un domaine technique ou juridique et appelé, à ce titre, à représenter le ministère auprès d'autres administrations, de juridictions ou d'instances internationales, ou exerçant des fonctions d'encadrement d'un effectif important et / ou requérant une expérience de spécialiste en matière de gestion de personnel, ou dans un domaine logistique, administratif, financier ou informatique.
 
 3. Assistant ou expert de catégorie B :
 
@@ -108,7 +108,7 @@ Agent exerçant des fonctions de secrétariat soit auprès de cadres chargés de
 
 TABLEAU IV
 
-A. - Fonctions exercées à l'administration centrale du ministère chargé de l'environnement pouvant ouvrir droit au versement de la nouvelle bonification indiciaire :
+A.-Fonctions exercées à l'administration centrale du ministère chargé de l'environnement pouvant ouvrir droit au versement de la nouvelle bonification indiciaire :
 
 1. Chargé de mission ou expert de catégorie A :
 
@@ -122,10 +122,10 @@ Agent exerçant des fonctions d'assistant auprès de cadres chargés de fonction
 
 Agent exerçant des fonctions de secrétariat soit auprès de cadres chargés de fonctions importantes, soit, seul, auprès d'un chef de bureau, soit dans un bureau présentant un effectif important ou ayant des missions contraignantes, ou agent exerçant des fonctions autonomes en matière de gestion de personnel ou dans un domaine logistique, administratif, financier, informatique ou technique.
 
-B. - Fonctions exercées dans les services déconcentrés du ministère chargé de l'environnement pouvant ouvrir droit au versement de la nouvelle bonification indiciaire :
+B.-Fonctions exercées dans les services déconcentrés du ministère chargé de l'environnement pouvant ouvrir droit au versement de la nouvelle bonification indiciaire :
 
-1. Secrétaire général d'une direction régionale de l'environnement ;
+1. Secrétaire général d'une     direction régionale de l'environnement, de l'aménagement et du logement  ;
 
-2. Responsable de l'unité de programmation et d'ingénierie financières au sein du secrétariat général de la direction régionale de l'environnement de Nord - Pas-de-Calais ;
+2. Responsable de l'unité de programmation et d'ingénierie financières au sein du secrétariat général de la     direction régionale de l'environnement, de l'aménagement et du logement  de Nord-Pas-de-Calais ;
 
-3. Responsable de la gestion comptable ou de la gestion du personnel en direction régionale de l'environnement.
+3. Responsable de la gestion comptable ou de la gestion du personnel en     direction régionale de l'environnement, de l'aménagement et du logement .

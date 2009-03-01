@@ -8,19 +8,13 @@ A. - Fonctions exercées en administration centrale
 <tbody>
 <tr>
 <th>
-<br/>
-<font size="1">DÉSIGNATION DE L'EMPLOI <br/>
-</font>
+<br/>DÉSIGNATION DE L'EMPLOI <br/>
 </th>
 <th>
-<br/>
-<font size="1">NOMBRE D'EMPLOIS <br/>
-</font>
+<br/>NOMBRE D'EMPLOIS <br/>
 </th>
 <th>
-<br/>
-<font size="1">NOMBRE DE POINTS PAR EMPLOI</font>
-<br/>
+<br/>NOMBRE DE POINTS PAR EMPLOI <br/>
 </th>
 </tr>
 <tr>
@@ -43,19 +37,13 @@ A. - Fonctions exercées en administration centrale
 <tbody>
 <tr>
 <th>
-<br/>
-<font size="1">DÉSIGNATION DE L'EMPLOI <br/>
-</font>
+<br/>DÉSIGNATION DE L'EMPLOI <br/>
 </th>
 <th>
-<br/>
-<font size="1">NOMBRE D'EMPLOIS <br/>
-</font>
+<br/>NOMBRE D'EMPLOIS <br/>
 </th>
 <th>
-<br/>
-<font size="1">NOMBRE DE POINTS PAR EMPLOI <br/>
-</font>
+<br/>NOMBRE DE POINTS PAR EMPLOI <br/>
 </th>
 </tr>
 <tr>
@@ -342,19 +330,13 @@ A. - Fonctions exercées en administration centrale
 <tbody>
 <tr>
 <th>
-<br/>
-<font size="1">DÉSIGNATION DE L'EMPLOI <br/>
-</font>
+<br/>DÉSIGNATION DE L'EMPLOI <br/>
 </th>
 <th>
-<br/>
-<font size="1">NOMBRE D'EMPLOIS <br/>
-</font>
+<br/>NOMBRE D'EMPLOIS <br/>
 </th>
 <th>
-<br/>
-<font size="1">NOMBRE DE POINTS PAR EMPLOI</font>
-<br/>
+<br/>NOMBRE DE POINTS PAR EMPLOI <br/>
 </th>
 </tr>
 <tr>
@@ -701,19 +683,13 @@ A. - Fonctions exercées en administration centrale
 <tbody>
 <tr>
 <th>
-<br/>
-<font size="1">DÉSIGNATION DE L'EMPLOI <br/>
-</font>
+<br/>DÉSIGNATION DE L'EMPLOI <br/>
 </th>
 <th>
-<br/>
-<font size="1">NOMBRE D'EMPLOIS <br/>
-</font>
+<br/>NOMBRE D'EMPLOIS <br/>
 </th>
 <th>
-<br/>
-<font size="1">NOMBRE DE POINTS PAR EMPLOI</font>
-<br/>
+<br/>NOMBRE DE POINTS PAR EMPLOI <br/>
 </th>
 </tr>
 <tr>
@@ -1847,20 +1823,20 @@ A. - Fonctions exercées en administration centrale
 </tbody>
 </table>
 
-B. - Fonctions exercées dans un service déconcentré
+B.-Fonctions exercées dans un service déconcentré
 
-1° Directeur régional de l'équipement ou directeur régional et départemental de l'équipement :
+1° directeur régional de l'environnement, de l'aménagement et du logement ou directeur régional et départemental de l'équipement :
 
 <table>
 <tbody>
 <tr>
 <td>
-<p align="center">DÉSIGNATION DE L'EMPLOI</p>
+<p align="center">DÉSIGNATION DE L'EMPLOI </p>
 </td>
 <td>
 <p align="center">NOMBRE </p>
 <br/>
-<p align="center">d'emplois</p>
+<p align="center">d'emplois </p>
 </td>
 <td>
 <p align="center">NOMBRE </p>
@@ -1870,21 +1846,21 @@ B. - Fonctions exercées dans un service déconcentré
 </tr>
 <tr>
 <td>
-<p>Directeur régional de l'équipement d'lle-de-France</p>
+<p>directeur régional de l'environnement, de l'aménagement et du logement d'lle-de-France </p>
 </td>
 <td>
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 <td>
-<p align="center">140</p>
+<p align="center">140 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Directeur régional et départemental de l'équipement dans les régions : Nord-Pas-de-Calais, Provence-Alpes-Côte d'Azur, Rhône-Alpes</p>
+<p>Directeur régional et départemental de l'équipement dans les régions : Nord-Pas-de-Calais, Provence-Alpes-Côte d'Azur, Rhône-Alpes </p>
 </td>
 <td>
-<p align="center">3</p>
+<p align="center">3 </p>
 </td>
 <td>
 <p align="center">130</p>
@@ -1892,10 +1868,10 @@ B. - Fonctions exercées dans un service déconcentré
 </tr>
 <tr>
 <td>
-<p>Directeur régional de l'équipement ou directeur régional et départemental de l'équipement dans les régions : Alsace, Aquitaine, Bretagne, Centre, Haute-Normandie, Languedoc-Roussilon, Lorraine, Midi-Pyrénées, Pays de la Loire</p>
+<p>directeur régional de l'environnement, de l'aménagement et du logement ou directeur régional et départemental de l'équipement dans les régions : Alsace, Aquitaine, Bretagne, Centre, Haute-Normandie, Languedoc-Roussilon, Lorraine, Midi-Pyrénées, Pays de la Loire </p>
 </td>
 <td>
-<p align="center">9</p>
+<p align="center">9 </p>
 </td>
 <td>
 <p align="center">120</p>
@@ -1903,13 +1879,13 @@ B. - Fonctions exercées dans un service déconcentré
 </tr>
 <tr>
 <td rowspan="2">
-<p>Directeur régional de l'équipement ou directeur régional et départemental de l'équipement dans les régions : Auvergne, Basse-Normandie, Bourgogne, Champagne-Ardenne, Corse, Franche-Comté, Limousin, Picardie, Poitou-Charentes</p>
+<p>directeur régional de l'environnement, de l'aménagement et du logement ou directeur régional et départemental de l'équipement dans les régions : Auvergne, Basse-Normandie, Bourgogne, Champagne-Ardenne, Corse, Franche-Comté, Limousin, Picardie, Poitou-Charentes </p>
 </td>
 <td rowspan="2">
-<p align="center">9</p>
+<p align="center">9 </p>
 </td>
 <td rowspan="2">
-<p align="center">110</p>
+<p align="center">110 </p>
 </td>
 </tr>
 </tbody>
@@ -1921,50 +1897,50 @@ B. - Fonctions exercées dans un service déconcentré
 <tbody>
 <tr>
 <td>
-<p align="center">DÉSIGNATION DE L'EMPLOI</p>
+<p align="center">DÉSIGNATION DE L'EMPLOI </p>
 </td>
 <td>
 <p align="center">NOMBRE </p>
 <br/>
-<p align="center">d'emplois</p>
+<p align="center">d'emplois </p>
 </td>
 <td>
 <p align="center">NOMBRE </p>
 <br/>
-<p align="center">de points par emploi</p>
+<p align="center">de points par emploi </p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Directeur départemental de l'équipement dans les départements suivants : Ain, Aisne, Alpes-Maritimes, Charente-Maritime, Côtes-d'Armor, Eure, Finistère, Gard, Indre-et-Loire, Isère, Loire, Maine-et-Loire, Manche, Meurthe-et-Moselle, Morbihan, Oise, Pas-de-Calais, Pyrénées-Atlantiques, Haut-Rhin, Saône-et-Loire, Sarthe, Savoie, Haute-Savoie, Seine-et-Marne, Yvelines, Var, Vendée, Essonne, Hauts-de-Seine, Seine-Saint-Denis, Val-de-Marne, Val-d'Oise, Réunion</p>
+<p>Directeur départemental de l'équipement dans les départements suivants : Ain, Aisne, Alpes-Maritimes, Charente-Maritime, Côtes-d'Armor, Eure, Finistère, Gard, Indre-et-Loire, Isère, Loire, Maine-et-Loire, Manche, Meurthe-et-Moselle, Morbihan, Oise, Pas-de-Calais, Pyrénées-Atlantiques, Haut-Rhin, Saône-et-Loire, Sarthe, Savoie, Haute-Savoie, Seine-et-Marne, Yvelines, Var, Vendée, Essonne, Hauts-de-Seine, Seine-Saint-Denis, Val-de-Marne, Val-d'Oise, Réunion </p>
 </td>
 <td>
-<p align="center">33</p>
+<p align="center">33 </p>
 </td>
 <td>
-<p align="center">100</p>
+<p align="center">100 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Directeur départemental de l'équipement dans les départements suivants : Allier, Ardèche, Ardennes, Aube, Aude, Aveyron, Charente, Cher, Corrèze, Dordogne, Drôme, Eure-et-Loir, Indre, Jura, Landes, Loir-et-Cher, Haute-Loire, Lot-et-Garonne, Haute-Marne, Mayenne, Nièvre, Orne, Hautes-Pyrénées, Pyrénées-Orientales, Haute-Saône, Deux-Sèvres, Tarn, Vaucluse, Vosges, Yonne, Guadeloupe, Martinique</p>
+<p>Directeur départemental de l'équipement dans les départements suivants : Allier, Ardèche, Ardennes, Aube, Aude, Aveyron, Charente, Cher, Corrèze, Dordogne, Drôme, Eure-et-Loir, Indre, Jura, Landes, Loir-et-Cher, Haute-Loire, Lot-et-Garonne, Haute-Marne, Mayenne, Nièvre, Orne, Hautes-Pyrénées, Pyrénées-Orientales, Haute-Saône, Deux-Sèvres, Tarn, Vaucluse, Vosges, Yonne, Guadeloupe, Martinique </p>
 </td>
 <td>
-<p align="center">32</p>
+<p align="center">32 </p>
 </td>
 <td>
-<p align="center">90</p>
+<p align="center">90 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p>Directeur départemental de l'équipement dans les départements suivants : Alpes-de-Haute-Provence, Hautes-Alpes, Ariège, Cantal, Haute-Corse, Creuse, Gers, Lot, Lozère, Meuse, Tarn-et-Garonne, Territoire de Belfort, Guyane</p>
+<p>Directeur départemental de l'équipement dans les départements suivants : Alpes-de-Haute-Provence, Hautes-Alpes, Ariège, Cantal, Haute-Corse, Creuse, Gers, Lot, Lozère, Meuse, Tarn-et-Garonne, Territoire de Belfort, Guyane </p>
 </td>
 <td rowspan="2">
-<p align="center">13</p>
+<p align="center">13 </p>
 </td>
 <td rowspan="2">
-<p align="center">80</p>
+<p align="center">80 </p>
 </td>
 </tr>
 </tbody>
@@ -1987,7 +1963,7 @@ B. - Fonctions exercées dans un service déconcentré
 </tr>
 <tr>
 <td>
-<p>Directeur délégué régional de l'équipement en région Ile-de-France .. </p>
+<p>Directeur délégué régional de l'équipement en région Ile-de-France.. </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1998,7 +1974,7 @@ B. - Fonctions exercées dans un service déconcentré
 </tr>
 <tr>
 <td>
-<p>Directeur délégué régional de l'équipement dans les régions : Nord -Pas-de-Calais, Provence-Alpes-Côte d'Azur, Rhône-Alpes</p>
+<p>Directeur délégué régional de l'équipement dans les régions : Nord-Pas-de-Calais, Provence-Alpes-Côte d'Azur, Rhône-Alpes </p>
 </td>
 <td>
 <p align="center">3 </p>
@@ -2009,7 +1985,7 @@ B. - Fonctions exercées dans un service déconcentré
 </tr>
 <tr>
 <td>
-<p>Directeur délégué départemental de l'équipement dans les départements : Bouches-du-Rhône, Haute-Garonne, Gironde, Hérault, Ille-et-Vilaine, Loire-Atlantique, Moselle, Nord, Bas-Rhin, Rhône .</p>
+<p>Directeur délégué départemental de l'équipement dans les départements : Bouches-du-Rhône, Haute-Garonne, Gironde, Hérault, Ille-et-Vilaine, Loire-Atlantique, Moselle, Nord, Bas-Rhin, Rhône. </p>
 </td>
 <td>
 <p align="center">10 </p>
@@ -2020,7 +1996,7 @@ B. - Fonctions exercées dans un service déconcentré
 </tr>
 <tr>
 <td>
-<p>Directeur délégué départemental de l'équipement dans les départements : Côte-d'Or, Loiret, Marne, Puy-de-Dôme, Seine-Maritime, Somme</p>
+<p>Directeur délégué départemental de l'équipement dans les départements : Côte-d'Or, Loiret, Marne, Puy-de-Dôme, Seine-Maritime, Somme </p>
 </td>
 <td>
 <p align="center">6 </p>
@@ -2031,7 +2007,7 @@ B. - Fonctions exercées dans un service déconcentré
 </tr>
 <tr>
 <td rowspan="2">
-<p>Directeur délégué départemental de l'équipempent dans les départements : Calvados, Doubs, Vienne, Haute- Vienne</p>
+<p>Directeur délégué départemental de l'équipempent dans les départements : Calvados, Doubs, Vienne, Haute-Vienne </p>
 </td>
 <td rowspan="2">
 <p align="center">4 </p>
@@ -2049,72 +2025,72 @@ B. - Fonctions exercées dans un service déconcentré
 <tbody>
 <tr>
 <td>
-<p align="center">DÉSIGNATION DE L'EMPLOI</p>
+<p align="center">DÉSIGNATION DE L'EMPLOI </p>
 </td>
 <td>
 <p align="center">NOMBRE </p>
 <br/>
-<p align="center">d'emplois</p>
+<p align="center">d'emplois </p>
 </td>
 <td>
 <p align="center">NOMBRE </p>
 <br/>
-<p align="center">de points par emploi</p>
+<p align="center">de points par emploi </p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Chef du service de navigation de Nord-Pas-de-Calais ou de Nancy</p>
+<p>Chef du service de navigation de Nord-Pas-de-Calais ou de Nancy </p>
 </td>
 <td>
-<p align="center">2</p>
+<p align="center">2 </p>
 </td>
 <td>
-<p align="center">100</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Chef du service de navigation Rhône-Saône ou de Toulouse</p>
-</td>
-<td>
-<p align="center">2</p>
-</td>
-<td>
-<p align="center">80</p>
+<p align="center">100 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Chef du service maritime Boulogne-sur-Mer-Calais ou Languedoc-Roussillon</p>
+<p>Chef du service de navigation Rhône-Saône ou de Toulouse </p>
 </td>
 <td>
-<p align="center">2</p>
+<p align="center">2 </p>
 </td>
 <td>
-<p align="center">80</p>
+<p align="center">80 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Chef du service spécial des bases aériennes Ile-de-France, Sud-Est ou Sud-Ouest</p>
+<p>Chef du service maritime Boulogne-sur-Mer-Calais ou Languedoc-Roussillon </p>
 </td>
 <td>
-<p align="center">3</p>
+<p align="center">2 </p>
 </td>
 <td>
-<p align="center">80</p>
+<p align="center">80 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Chef du service spécial des bases aériennes Ile-de-France, Sud-Est ou Sud-Ouest </p>
+</td>
+<td>
+<p align="center">3 </p>
+</td>
+<td>
+<p align="center">80 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p>Chef du service de navigation délégué de la Seine</p>
+<p>Chef du service de navigation délégué de la Seine </p>
 </td>
 <td rowspan="2">
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 <td rowspan="2">
-<p align="center">90</p>
+<p align="center">90 </p>
 </td>
 </tr>
 </tbody>
@@ -2126,39 +2102,39 @@ B. - Fonctions exercées dans un service déconcentré
 <tbody>
 <tr>
 <td>
-<p align="center">DÉSIGNATION DE L'EMPLOI</p>
+<p align="center">DÉSIGNATION DE L'EMPLOI </p>
 </td>
 <td>
 <p align="center">NOMBRE </p>
 <br/>
-<p align="center">d'emplois</p>
+<p align="center">d'emplois </p>
 </td>
 <td>
 <p align="center">NOMBRE </p>
 <br/>
-<p align="center">de points par emploi</p>
+<p align="center">de points par emploi </p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Directeur de centre d'études techniques de l'équipement : Lyon, Méditerranée, Sud-Ouest</p>
+<p>Directeur de centre d'études techniques de l'équipement : Lyon, Méditerranée, Sud-Ouest </p>
 </td>
 <td>
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 <td>
-<p align="center">110</p>
+<p align="center">110 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p>Directeur de centre d'études techniques de l'équipement : Est, Nord-Picardie, Normandie-Centre, Ouest</p>
+<p>Directeur de centre d'études techniques de l'équipement : Est, Nord-Picardie, Normandie-Centre, Ouest </p>
 </td>
 <td rowspan="2">
-<p align="center">4</p>
+<p align="center">4 </p>
 </td>
 <td rowspan="2">
-<p align="center">90</p>
+<p align="center">90 </p>
 </td>
 </tr>
 </tbody>
@@ -2170,39 +2146,39 @@ B. - Fonctions exercées dans un service déconcentré
 <tbody>
 <tr>
 <td>
-<p align="center">DÉSIGNATION DE L'EMPLOI</p>
+<p align="center">DÉSIGNATION DE L'EMPLOI </p>
 </td>
 <td>
 <p align="center">NOMBRE </p>
 <br/>
-<p align="center">d'emplois</p>
+<p align="center">d'emplois </p>
 </td>
 <td>
 <p align="center">NOMBRE </p>
 <br/>
-<p align="center">de points par emploi</p>
+<p align="center">de points par emploi </p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Contrôleur général du travail des transports</p>
+<p>Contrôleur général du travail des transports </p>
 </td>
 <td>
-<p align="center">2</p>
+<p align="center">2 </p>
 </td>
 <td>
-<p align="center">90</p>
+<p align="center">90 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p>Directeur régional du travail des transports des régions Ile-de-France, Nord-Pas-de-Calais, Rhône-Alpes, Provence-Alpes-Côte d'Azur et Aquitaine</p>
+<p>Directeur régional du travail des transports des régions Ile-de-France, Nord-Pas-de-Calais, Rhône-Alpes, Provence-Alpes-Côte d'Azur et Aquitaine </p>
 </td>
 <td rowspan="2">
-<p align="center">5</p>
+<p align="center">5 </p>
 </td>
 <td rowspan="2">
-<p align="center">80</p>
+<p align="center">80 </p>
 </td>
 </tr>
 </tbody>
@@ -2214,61 +2190,61 @@ B. - Fonctions exercées dans un service déconcentré
 <tbody>
 <tr>
 <td>
-<p align="center">DÉSIGNATION DE L'EMPLOI</p>
+<p align="center">DÉSIGNATION DE L'EMPLOI </p>
 </td>
 <td>
 <p align="center">NOMBRE </p>
 <br/>
-<p align="center">d'emplois</p>
+<p align="center">d'emplois </p>
 </td>
 <td>
 <p align="center">NOMBRE </p>
 <br/>
-<p align="center">de points par emploi</p>
+<p align="center">de points par emploi </p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Directeur régional des affaires maritimes de Bretagne, de Haute-Normandie, de Provence-Alpes-Côte d'Azur</p>
+<p>Directeur régional des affaires maritimes de Bretagne, de Haute-Normandie, de Provence-Alpes-Côte d'Azur </p>
 </td>
 <td>
-<p align="center">3</p>
+<p align="center">3 </p>
 </td>
 <td>
-<p align="center">110</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur régional des affaires maritimes d'Aquitaine, des Pays de la Loire, de Martinique, de Réunion-îles Eparses.</p>
-</td>
-<td>
-<p align="center">4</p>
-</td>
-<td>
-<p align="center">100</p>
+<p align="center">110 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Directeur régional des affaires maritimes de Basse-Normandie, de Nord-Pas-de-Calais - Picardie, de Poitou-Charentes, de Languedoc-Roussillon, de Corse</p>
+<p>Directeur régional des affaires maritimes d'Aquitaine, des Pays de la Loire, de Martinique, de Réunion-îles Eparses. </p>
 </td>
 <td>
-<p align="center">5</p>
+<p align="center">4 </p>
 </td>
 <td>
-<p align="center">90</p>
+<p align="center">100 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Directeur régional des affaires maritimes de Basse-Normandie, de Nord-Pas-de-Calais-Picardie, de Poitou-Charentes, de Languedoc-Roussillon, de Corse </p>
+</td>
+<td>
+<p align="center">5 </p>
+</td>
+<td>
+<p align="center">90 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p>Directeur régional des affaires maritimes de Guadeloupe, de Guyane</p>
+<p>Directeur régional des affaires maritimes de Guadeloupe, de Guyane </p>
 </td>
 <td rowspan="2">
-<p align="center">2</p>
+<p align="center">2 </p>
 </td>
 <td rowspan="2">
-<p align="center">80</p>
+<p align="center">80 </p>
 </td>
 </tr>
 </tbody>
@@ -2280,28 +2256,28 @@ B. - Fonctions exercées dans un service déconcentré
 <tbody>
 <tr>
 <td>
-<p align="center">DÉSIGNATION DE L'EMPLOI</p>
+<p align="center">DÉSIGNATION DE L'EMPLOI </p>
 </td>
 <td>
 <p align="center">NOMBRE </p>
 <br/>
-<p align="center">d'emplois</p>
+<p align="center">d'emplois </p>
 </td>
 <td>
 <p align="center">NOMBRE </p>
 <br/>
-<p align="center">de points par emploi</p>
+<p align="center">de points par emploi </p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p>Directeur départemental des affaires maritimes du Finistère, du Morbihan, de la Vendée.</p>
+<p>Directeur départemental des affaires maritimes du Finistère, du Morbihan, de la Vendée. </p>
 </td>
 <td rowspan="2">
-<p align="center">3</p>
+<p align="center">3 </p>
 </td>
 <td rowspan="2">
-<p align="center">80</p>
+<p align="center">80 </p>
 </td>
 </tr>
 </tbody>
@@ -2313,39 +2289,39 @@ B. - Fonctions exercées dans un service déconcentré
 <tbody>
 <tr>
 <td>
-<p align="center">DÉSIGNATION DE L'EMPLOI</p>
+<p align="center">DÉSIGNATION DE L'EMPLOI </p>
 </td>
 <td>
 <p align="center">NOMBRE </p>
 <br/>
-<p align="center">d'emplois</p>
+<p align="center">d'emplois </p>
 </td>
 <td>
 <p align="center">NOMBRE </p>
 <br/>
-<p align="center">de points par emploi</p>
+<p align="center">de points par emploi </p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Directeur interdépartemental des routes : Ile-de-France, Ouest, Centre-Est, Est</p>
+<p>Directeur interdépartemental des routes : Ile-de-France, Ouest, Centre-Est, Est </p>
 </td>
 <td>
-<p align="center">4</p>
+<p align="center">4 </p>
 </td>
 <td>
-<p align="center">100</p>
+<p align="center">100 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p>Directeur interdépartemental des routes : Nord, Nord-Ouest, Centre-Ouest, Atlantique, Sud-Ouest, Massif-central, Méditerranée</p>
+<p>Directeur interdépartemental des routes : Nord, Nord-Ouest, Centre-Ouest, Atlantique, Sud-Ouest, Massif-central, Méditerranée </p>
 </td>
 <td rowspan="2">
-<p align="center">7</p>
+<p align="center">7 </p>
 </td>
 <td rowspan="2">
-<p align="center">90</p>
+<p align="center">90 </p>
 </td>
 </tr>
 </tbody>
@@ -2357,19 +2333,13 @@ Directeur ou délégué ou chef de service ou chef de centre :
 <tbody>
 <tr>
 <th>
-<br/>
-<font size="1">DÉSIGNATION DE L'EMPLOI <br/>
-</font>
+<br/>DÉSIGNATION DE L'EMPLOI <br/>
 </th>
 <th>
-<br/>
-<font size="1">NOMBRE D'EMPLOIS <br/>
-</font>
+<br/>NOMBRE D'EMPLOIS <br/>
 </th>
 <th>
-<br/>
-<font size="1">NOMBRE DE POINTS PAR EMPLOI <br/>
-</font>
+<br/>NOMBRE DE POINTS PAR EMPLOI <br/>
 </th>
 </tr>
 <tr>

@@ -1,6 +1,6 @@
 # Article 3
 
-Le dossier devra comporter, pour chaque contingent au titre duquel une autorisation est sollicitée, une demande établie sur les imprimés édités à cet effet par l'administration et qui seront mis à la disposition des entreprises par les directeurs régionaux de l'équipement.
+Le dossier devra comporter, pour chaque contingent au titre duquel une autorisation est sollicitée, une demande établie sur les imprimés édités à cet effet par l'administration et qui seront mis à la disposition des entreprises par les     directeurs régionaux de l'environnement, de l'aménagement et du logement .
 
 Le dossier comprendra également :
 

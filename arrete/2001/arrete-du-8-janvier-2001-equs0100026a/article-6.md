@@ -8,11 +8,11 @@ Tout véhicule à moteur destiné à l'enseignement professionnel de la conduite
 
 L'autorisation est délivrée par inscription de la mention susvisée sur le certificat d'immatriculation, sur présentation :
 
-- d'un certificat de conformité du constructeur, lorsque le véhicule neuf a fait l'objet d'une construction en série pour l'enseignement de la conduite ;
+-d'un certificat de conformité du constructeur, lorsque le véhicule neuf a fait l'objet d'une construction en série pour l'enseignement de la conduite ;
 
-- d'un procès-verbal de réception à titre isolé, délivré par la direction régionale de l'industrie, de la recherche et de l'environnement, chargée de vérifier la conformité du véhicule aux alinéas 1 à 6 de la partie b du présent article lorsque le véhicule est aménagé individuellement ;
+-d'un procès-verbal de réception à titre isolé, délivré par la              direction régionale de l'environnement, de l'aménagement et du logement , chargée de vérifier la conformité du véhicule aux alinéas 1 à 6 de la partie b du présent article lorsque le véhicule est aménagé individuellement ;
 
-- de la preuve que le véhicule répond aux conditions requises pour être maintenu en circulation, lorsque le véhicule dont l'âge et la catégorie le soumet à contrôle technique.
+-de la preuve que le véhicule répond aux conditions requises pour être maintenu en circulation, lorsque le véhicule dont l'âge et la catégorie le soumet à contrôle technique.
 
 Lorsque le véhicule cesse d'être utilisé en tant que véhicule destiné à l'enseignement professionnel de la conduite, les dispositifs techniques spécifiques mentionnés à l'alinéa 3 de la partie b du présent arrêté doivent être démontés.
 
@@ -22,7 +22,7 @@ La mention spéciale portée sur le certificat d'immatriculation est supprimée,
 
 Les véhicules sont soumis à contrôle technique conformément aux textes relatifs à leurs catégories de poids et d'utilisation respectives.
 
-Le contrôleur agréé ou l'expert en charge du contrôle technique est celui désigné respectivement par l'article R. 323-7 du code de la route pour les véhicules dont le poids total autorisé en charge n'excède pas 3,5 tonnes et non affectés au transport en commun de personnes et par l'arrêté du 15 novembre 1954 susvisé ou l'arrêté du 2 juillet 1982 susvisé pour les autres catégories de véhicules.
+Le contrôleur agréé ou l'expert en charge du contrôle technique est celui désigné respectivement par l'article R. 323-7 du code de la route pour les véhicules dont le poids total autorisé en charge n'excède pas 3, 5 tonnes et non affectés au transport en commun de personnes et par l'arrêté du 15 novembre 1954 susvisé ou l'arrêté du 2 juillet 1982 susvisé pour les autres catégories de véhicules.
 
 Il vérifie en outre que le véhicule satisfait aux dispositions des 3, 4 et 6 de la partie b du présent article.
 
@@ -34,9 +34,9 @@ Les véhicules automobiles professionnels utilisés pour l'enseignement doivent 
 
 2° Avoir été mis pour la première fois en circulation depuis moins de :
 
-- six ans pour les motocyclettes et les véhicules dont le PTAC n'excède pas 3 500 kilogrammes ;
+-six ans pour les motocyclettes et les véhicules dont le PTAC n'excède pas 3 500 kilogrammes ;
 
-- quinze ans pour les véhicules de transport en commun de personnes et de transport de marchandises.
+-quinze ans pour les véhicules de transport en commun de personnes et de transport de marchandises.
 
 Les véhicules dotés d'équipements spéciaux autres que ceux prévus à l'alinéa 3 ci-après et destinés uniquement à la formation des personnes handicapées ne peuvent être utilisés au-delà d'une durée de dix ans ; ils sont soumis à une visite technique tous les deux ans.
 
@@ -46,21 +46,21 @@ Ne sont pas concernées par ces limites d'âge les remorques et semi-remorques.
 
 Pour les véhicules dont le PTAC n'excède pas 3 500 kilogrammes :
 
-- un dispositif de double commande de freinage et de débrayage ;
+-un dispositif de double commande de freinage et de débrayage ;
 
-- un dispositif de double commande d'accélération, neutralisable lorsque le véhicule est utilisé pour les épreuves de l'examen du permis de conduire ;
+-un dispositif de double commande d'accélération, neutralisable lorsque le véhicule est utilisé pour les épreuves de l'examen du permis de conduire ;
 
-- deux rétroviseurs intérieurs réglés pour l'élève et l'enseignant, un rétroviseur latéral extérieur gauche réglé pour être utilisé par l'élève, un rétroviseur latéral extérieur droit réglé pour être utilisé par l'élève et un deuxième rétroviseur ou dispositif de rétrovision équivalent latéral extérieur droit, réglé pour l'enseignant ;
+-deux rétroviseurs intérieurs réglés pour l'élève et l'enseignant, un rétroviseur latéral extérieur gauche réglé pour être utilisé par l'élève, un rétroviseur latéral extérieur droit réglé pour être utilisé par l'élève et un deuxième rétroviseur ou dispositif de rétrovision équivalent latéral extérieur droit, réglé pour l'enseignant ;
 
-- un dispositif de double commande d'avertisseur sonore, de feux (position, croisement, route) et d'indicateur de changement de direction à portée immédiate de l'enseignant.
+-un dispositif de double commande d'avertisseur sonore, de feux (position, croisement, route) et d'indicateur de changement de direction à portée immédiate de l'enseignant.
 
 Pour les véhicules de transport de marchandises ou de transport en commun de personnes :
 
-- un dispositif de double commande de freinage et de débrayage ;
+-un dispositif de double commande de freinage et de débrayage ;
 
-- deux rétroviseurs extérieurs réglés pour être utilisés par l'élève et deux autres réglés pour être utilisés par l'enseignant ;
+-deux rétroviseurs extérieurs réglés pour être utilisés par l'élève et deux autres réglés pour être utilisés par l'enseignant ;
 
-- un dispositif de double commande d'accélération, neutralisable lorsque le véhicule est utilisé pour les épreuves de l'examen du permis de conduire.
+-un dispositif de double commande d'accélération, neutralisable lorsque le véhicule est utilisé pour les épreuves de l'examen du permis de conduire.
 
 Pour les autres véhicules : deux rétroviseurs, l'un à droite, l'autre à gauche, réglés pour être utilisés par l'élève.
 
@@ -80,4 +80,4 @@ Pour les cyclomoteurs et les motocyclettes, la mention " moto-école " doit appa
 
 6° Les véhicules à embrayage automatique dont le PTAC n'excède pas 3 500 kilogrammes servant à l'enseignement doivent répondre aux conditions susvisées, à l'exception de l'obligation du double dispositif de débrayage.
 
-7° Pour les personnes handicapées de l'appareil locomoteur, lorsque l'enseignement pratique est dispensé à bord d'un véhicule fourni par elles-mêmes et spécialement adapté à leur handicap, l'équipement du véhicule doit répondre aux conditions susvisées au b (3°) de cet article. L'aménagement du véhicule est quant à lui soumis à l'avis du délégué à la formation du conducteur.
+7° Pour les personnes handicapées de l'appareil locomoteur, lorsque l'enseignement pratique est dispensé à bord d'un véhicule fourni par elles-mêmes et spécialement adapté à leur handicap, l'équipement du véhicule doit répondre aux conditions susvisées au b (3°) de cet article.L'aménagement du véhicule est quant à lui soumis à l'avis du délégué à la formation du conducteur.

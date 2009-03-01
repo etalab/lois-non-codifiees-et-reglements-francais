@@ -10,6 +10,6 @@ A la direction générale de la sûreté nucléaire et de la radioprotection, 99
 
 A la direction de la demande et des marchés énergétiques, 99, rue de Grenelle, Paris (7e) ;
 
-A la direction régionale de l'industrie, de la recherche et de l'environnement, 146, rue Pierre-Corneille, Lyon (Rhône) ;
+A la              direction régionale de l'environnement, de l'aménagement et du logement , 146, rue Pierre-Corneille, Lyon (Rhône) ;
 
 A la préfecture de l'Isère, place de Verdun, Grenoble (Isère).

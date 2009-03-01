@@ -901,6 +901,7 @@
 - [Arrêté du 26 avril 1996 (TASH9621415A)](arrete-du-26-avril-1996-tash9621415a)
 - [Arrêté du 26 avril 1996 (TAST9610664A)](arrete-du-26-avril-1996-tast9610664a)
 - [Arrêté du 26 décembre 1995 (EQUT9501855A)](arrete-du-26-decembre-1995-equt9501855a)
+- [Arrêté du 26 décembre 1995 (INDB9501271A)](arrete-du-26-decembre-1995-indb9501271a)
 - [Arrêté du 26 décembre 1995 (INDB9501272A)](arrete-du-26-decembre-1995-indb9501272a)
 - [Arrêté du 26 décembre 1995 (TASW9511366A)](arrete-du-26-decembre-1995-tasw9511366a)
 - [Arrêté du 26 décembre 1996 (BUDB9610080A)](arrete-du-26-decembre-1996-budb9610080a)

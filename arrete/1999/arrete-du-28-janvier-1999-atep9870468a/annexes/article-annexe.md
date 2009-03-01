@@ -10,25 +10,25 @@ Article 2
 
 Le dossier de candidature comprend, en trois exemplaires :
 
-- un engagement sur le respect des obligations mises à la charge du ramasseur agréé, mentionnant, notamment, l'enlèvement de tout lot supérieur à 600 litres ;
+-un engagement sur le respect des obligations mises à la charge du ramasseur agréé, mentionnant, notamment, l'enlèvement de tout lot supérieur à 600 litres ;
 
-- une fiche de renseignements sur l'entreprise. Elle comporte toutes les indications sur la structure juridique et financière, sur les activités antérieures (en particulier, dans le cas où l'activité objet de l'agrément a déjà été pratiquée, les tonnages collectés livrés aux éliminateurs agréés, la ou les zones de ramassage et le chiffre d'affaires des deux dernières années) et les autres activités dans le domaine des déchets ;
+-une fiche de renseignements sur l'entreprise. Elle comporte toutes les indications sur la structure juridique et financière, sur les activités antérieures (en particulier, dans le cas où l'activité objet de l'agrément a déjà été pratiquée, les tonnages collectés livrés aux éliminateurs agréés, la ou les zones de ramassage et le chiffre d'affaires des deux dernières années) et les autres activités dans le domaine des déchets ;
 
-- une fiche de renseignements sur les moyens mis en oeuvre pour le ramassage et le stockage des huiles usagées. Cette fiche précise notamment :
+-une fiche de renseignements sur les moyens mis en oeuvre pour le ramassage et le stockage des huiles usagées. Cette fiche précise notamment :
 
-- l'effectif et le statut du personnel affecté à cette tâche ;
+-l'effectif et le statut du personnel affecté à cette tâche ;
 
-- le nombre et les caractéristiques des véhicules utilisés pour la collecte ;
+-le nombre et les caractéristiques des véhicules utilisés pour la collecte ;
 
-- le volume, l'adresse et les autres caractéristiques des installations de stockage ;
+-le volume, l'adresse et les autres caractéristiques des installations de stockage ;
 
-- les caractéristiques du fichier clientèle existant ou envisagé ;
+-les caractéristiques du fichier clientèle existant ou envisagé ;
 
-- les moyens de prospection existants ou envisagés ;
+-les moyens de prospection existants ou envisagés ;
 
-- une fiche de prévisions d'exploitation quantitative et économique établie sur cinq ans ;
+-une fiche de prévisions d'exploitation quantitative et économique établie sur cinq ans ;
 
-- un certificat attestant le dépôt de la consignation.
+-un certificat attestant le dépôt de la consignation.
 
 Article 3
 
@@ -60,13 +60,13 @@ En aucun cas, il ne pourra être exigé du détenteur une rétribution pour l'en
 
 Article 8
 
-Lors de tout enlèvement, le ramasseur doit procéder contradictoirement à un double échantillonnage avant mélange avec tout autre lot en vue notamment de la détection des polychlorobiphényles. L'un des échantillons est remis au détenteur. L'autre échantillon doit être conservé par le ramasseur jusqu'au traitement du chargement. Le bon d'enlèvement remis au détenteur doit être paraphé par celui-ci et indiquer qu'un échantillon lui a été remis.
+Lors de tout enlèvement, le ramasseur doit procéder contradictoirement à un double échantillonnage avant mélange avec tout autre lot en vue notamment de la détection des polychlorobiphényles.L'un des échantillons est remis au détenteur.L'autre échantillon doit être conservé par le ramasseur jusqu'au traitement du chargement. Le bon d'enlèvement remis au détenteur doit être paraphé par celui-ci et indiquer qu'un échantillon lui a été remis.
 
 Stockage des huiles usagées
 
 Article 9
 
-Le ramasseur agréé doit disposer d'une capacité de stockage au moins égale à 1/12 du tonnage collecté annuellement et d'au minimum 50 mètres cubes assurant la séparation entre les huiles stockées et tous autres déchets et substances d'une autre nature et permettant la séparation entre les différentes qualités d'huiles collectées (huiles usagées moteurs, huiles industrielles claires). Cette capacité de stockage devra être conforme à la réglementation des installations classées pour la protection de l'environnement.
+Le ramasseur agréé doit disposer d'une capacité de stockage au moins égale à 1 / 12 du tonnage collecté annuellement et d'au minimum 50 mètres cubes assurant la séparation entre les huiles stockées et tous autres déchets et substances d'une autre nature et permettant la séparation entre les différentes qualités d'huiles collectées (huiles usagées moteurs, huiles industrielles claires). Cette capacité de stockage devra être conforme à la réglementation des installations classées pour la protection de l'environnement.
 
 Article 10
 
@@ -78,11 +78,11 @@ Cession des huiles usagées
 
 Article 11
 
-Le ramasseur agréé doit livrer les huiles usagées collectées à des éliminateurs agréés ou munis d'une autorisation obtenue dans un autre Etat membre de la Communauté européenne en application des dispositions de l'article 6 de la directive 75/439/CEE modifiée susvisée, ou à un ramasseur autorisé dans un autre Etat membre de la Communauté économique européenne en application de l'article 5 de cette même directive, à l'exception des huiles claires lorsqu'elles sont destinées à un réemploi en l'état.
+Le ramasseur agréé doit livrer les huiles usagées collectées à des éliminateurs agréés ou munis d'une autorisation obtenue dans un autre Etat membre de la Communauté européenne en application des dispositions de l'article 6 de la directive 75 / 439 / CEE modifiée susvisée, ou à un ramasseur autorisé dans un autre Etat membre de la Communauté économique européenne en application de l'article 5 de cette même directive, à l'exception des huiles claires lorsqu'elles sont destinées à un réemploi en l'état.
 
 Article 12
 
-Les contrats conclus entre les ramasseurs et les éliminateurs sont communiqués dans les meilleurs délais à l'Agence de l'environnement et de la maîtrise de l'énergie et à sa demande à la direction régionale de l'industrie, de la recherche et de l'environnement concernée.
+Les contrats conclus entre les ramasseurs et les éliminateurs sont communiqués dans les meilleurs délais à l'Agence de l'environnement et de la maîtrise de l'énergie et à sa demande à la              direction régionale de l'environnement, de l'aménagement et du logement  concernée.
 
 Fourniture d'informations
 

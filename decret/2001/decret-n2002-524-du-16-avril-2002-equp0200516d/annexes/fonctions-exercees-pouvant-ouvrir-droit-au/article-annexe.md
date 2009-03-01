@@ -1,9 +1,5 @@
 # Article ANNEXE
 
-FONCTIONS POUVANT OUVRIR DROIT
-
-AU VERSEMENT D'UNE NOUVELLE BONIFICATION INDICIAIRE
-
 A. - Fonctions exercées en administration centrale
 
 1. Vice-président du Conseil général de l'environnement et du développement durable.
@@ -16,7 +12,7 @@ A. - Fonctions exercées en administration centrale
 
 B.-Fonctions exercées dans un service déconcentré
 
-1° Directeur régional de l'équipement.
+1° Directeur régional de l'environnement, de l'aménagement et du logement .
 
 2° Directeur départemental de l'équipement.
 
@@ -34,6 +30,6 @@ B.-Fonctions exercées dans un service déconcentré
 
 9° Directeur interdépartemental des routes.
 
-C.-Fonctions exercées dans un service à compétence nationale ou dans un service technique central
+C. - Fonctions exercées dans un service à compétence nationale ou dans un service technique central
 
 Directeur ou délégué ou chef de service ou chef de centre.

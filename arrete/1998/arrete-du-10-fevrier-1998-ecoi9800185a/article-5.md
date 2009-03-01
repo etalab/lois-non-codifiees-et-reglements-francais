@@ -4,4 +4,4 @@ Le préfet peut solliciter l'avis de l'inspecteur de l'armement pour les poudres
 
 Lorsqu'il s'agit d'une installation dont le site d'exploitation est connu, le préfet consulte le maire ainsi que les services de police et de gendarmerie concernés.
 
-La direction régionale de l'industrie, de la recherche et de l'environnement instruit la demande d'agrément technique.
+La              direction régionale de l'environnement, de l'aménagement et du logement  instruit la demande d'agrément technique.

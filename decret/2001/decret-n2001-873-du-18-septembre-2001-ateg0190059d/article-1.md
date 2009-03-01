@@ -6,4 +6,4 @@ Une nouvelle bonification indiciaire, prise en compte et soumise à cotisation p
 
 2. Aux fonctionnaires, titulaires d'un département ou d'une mission directement rattaché au directeur général ou à un directeur, exerçant une des fonctions en administration centrale figurant en annexe au présent décret ;
 
-3. Aux fonctionnaires titulaires d'emplois de direction régionale de l'environnement exerçant une des fonctions figurant en annexe au présent décret.
+3. Aux fonctionnaires titulaires d'emplois de     direction régionale de l'environnement, de l'aménagement et du logement  exerçant une des fonctions figurant en annexe au présent décret.

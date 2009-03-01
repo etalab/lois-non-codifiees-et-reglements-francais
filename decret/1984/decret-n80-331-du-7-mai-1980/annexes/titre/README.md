@@ -1,4 +1,4 @@
-# Titre : Bruit BR-1-R
+# Titre : Véhicule sur pistes VP-1-R
 
 - [Article 1](article-1.md)
 - [Section 1 : Dispositions communes à tous les travaux et installations](section-1)
