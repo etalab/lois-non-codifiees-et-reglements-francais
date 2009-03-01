@@ -26,6 +26,8 @@ Institut national d'histoire de l'art ;
 
 Institut national des langues et civilisations orientales ;
 
+l'Institut national supérieur des sciences agronomiques, de l'alimentation et de l'environnement (Agrosup Dijon) ;
+
 Institut polytechnique de Grenoble ;
 
 Muséum national d'histoire naturelle ;

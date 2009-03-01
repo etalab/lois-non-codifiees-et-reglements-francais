@@ -16,8 +16,6 @@ Ecole supérieure d'ingénieurs en emballage et conditionnement, Reims ;
 
 Ecole supérieure d'informatique et applications de Lorraine, Nancy-I ;
 
-Ecole nationale supérieure de biologie appliquée à la nutrition et à l'alimentation de Dijon ;
-
 Ecole nationale supérieure d'ingénieurs de Limoges, Limoges ;
 
 Ecole nationale supérieure en génie des technologies industrielles, Pau ;
