@@ -1,6 +1,6 @@
 # Article 12
 
-Les délais prévus par les articles 18, 40, 44, 48 et 64 ainsi que les délais de deux et trois mois prévus par l'article 38 sont prescrits à peine de caducité du commandement de payer valant saisie.
+Les délais prévus par les articles 13, 18, 40, 44, 48 et 64 ainsi que les délais de deux et trois mois prévus par l'article 38 sont prescrits à peine de caducité du commandement de payer valant saisie.
 
 Toute partie intéressée peut demander au juge de l'exécution de déclarer la caducité et d'ordonner, en tant que de besoin, qu'il en soit fait mention en marge de la copie du commandement publié au bureau des hypothèques.
 

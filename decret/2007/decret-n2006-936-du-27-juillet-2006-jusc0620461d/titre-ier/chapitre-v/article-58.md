@@ -1,6 +1,6 @@
 # Article 58
 
-A l'audience à laquelle l'affaire est rappelée, le juge s'assure que l'acte de vente est conforme aux conditions qu'il a fixées, que le prix a été consigné et que l'état ordonné des créances a été dressé. Il ne constate la vente que lorsque ces conditions sont remplies. Il ordonne alors la radiation des inscriptions d'hypothèque et de privilège prises du chef du débiteur.
+A l'audience à laquelle l'affaire est rappelée, le juge s'assure que l'acte de vente est conforme aux conditions qu'il a fixées et que le prix a été consigné. Il ne constate la vente que lorsque ces conditions sont remplies. Il ordonne alors la radiation des inscriptions d'hypothèque et de privilège prises du chef du débiteur.
 
 Le jugement ainsi rendu n'est pas susceptible d'appel.
 

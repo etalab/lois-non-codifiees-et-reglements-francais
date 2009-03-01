@@ -1,6 +1,6 @@
 # Article 39
 
-Outre les mentions prescrites par l'article 56 du    code de procédure civile, l'assignation comprend, à peine de nullité :
+Outre les mentions prescrites par l'article 56 du code de procédure civile, l'assignation comprend, à peine de nullité :
 
 1° L'indication des lieu, jour et heure de l'audience d'orientation du juge de l'exécution ;
 
@@ -8,7 +8,7 @@ Outre les mentions prescrites par l'article 56 du    code de procédure civile, 
 
 3° L'information que, si le débiteur n'est pas présent ou représenté par un avocat à l'audience, la procédure sera poursuivie en vente forcée, sur les seules indications fournies par le créancier ;
 
-4° La sommation de prendre connaissance des conditions de la vente figurant dans le cahier des conditions de vente qui peut être consulté au greffe du juge de l'exécution où il sera déposé le cinquième jour ouvrable au plus tard après l'assignation ;
+4° La sommation de prendre connaissance des conditions de la vente figurant dans le cahier des conditions de vente qui peut être consulté au greffe du juge de l'exécution où il sera déposé le cinquième jour ouvrable au plus tard après l'assignation ou au cabinet de l'avocat du créancier poursuivant ;
 
 5° L'indication de la mise à prix telle que fixée dans le cahier des conditions de vente et de la possibilité d'en contester le montant pour insuffisance manifeste ;
 
