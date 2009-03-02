@@ -1,0 +1,3 @@
+# Article 18
+
+Le secrétaire général à l'aviation civile et commerciale, le directeur de la comptabilité publique et le directeur du budget au ministère des finances et des affaires économiques, le gouverneur général de l'Algérie, le directeur de l'administration générale, départementale et communale au ministère de l'intérieur, le directeur du commerce intérieur au ministère de l'industrie et du commerce et le chef du service de I'infrastructure (air) au ministère de la défense nationale et des forces armées sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
