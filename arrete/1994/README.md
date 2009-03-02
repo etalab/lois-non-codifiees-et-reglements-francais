@@ -472,7 +472,6 @@
 - [Arrêté du 15 décembre 1993 (MAEA9320207A)](arrete-du-15-decembre-1993-maea9320207a)
 - [Arrêté du 15 décembre 1994 (AGRG9402396A)](arrete-du-15-decembre-1994-agrg9402396a)
 - [Arrêté du 15 février 1994 (AGRH9400325A)](arrete-du-15-fevrier-1994-agrh9400325a)
-- [Arrêté du 15 février 1994 (BUDP9300626A)](arrete-du-15-fevrier-1994-budp9300626a)
 - [Arrêté du 15 février 1994 (EQUS9400371A)](arrete-du-15-fevrier-1994-equs9400371a)
 - [Arrêté du 15 février 1994 (INDP9400222A)](arrete-du-15-fevrier-1994-indp9400222a)
 - [Arrêté du 15 juillet 1994 (ACVP9420034A)](arrete-du-15-juillet-1994-acvp9420034a)
