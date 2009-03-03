@@ -572,7 +572,6 @@
 - [Arrêté du 19 février 2004 (SOCF0410354A)](arrete-du-19-fevrier-2004-socf0410354a)
 - [Arrêté du 19 février 2004 (SOCF0410355A)](arrete-du-19-fevrier-2004-socf0410355a)
 - [Arrêté du 19 février 2004 (SOCF0410356A)](arrete-du-19-fevrier-2004-socf0410356a)
-- [Arrêté du 19 février 2004 (SOCF0410358A)](arrete-du-19-fevrier-2004-socf0410358a)
 - [Arrêté du 19 janvier 2004 (DOMA0300056A)](arrete-du-19-janvier-2004-doma0300056a)
 - [Arrêté du 19 janvier 2004 (MCCB0300943A)](arrete-du-19-janvier-2004-mccb0300943a)
 - [Arrêté du 19 janvier 2004 (SANH0420256A)](arrete-du-19-janvier-2004-sanh0420256a)
