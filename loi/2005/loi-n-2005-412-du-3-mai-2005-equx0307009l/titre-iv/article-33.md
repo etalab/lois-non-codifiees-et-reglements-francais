@@ -1,6 +1,6 @@
 # Article 33
 
-Les casinos autorisés sur le fondement de l'article 1er-1 de la loi du 15 juin 1907 réglementant les jeux dans les casinos des stations balnéaires, thermales et climatiques et dans les casinos installés à bord des navires immatriculés au registre international français sont redevables :
+Les casinos autorisés sur le fondement de l'article 1er-1 de la loi du 15 juin 1907 relative aux casinos (1) sont redevables :
 
 1° D'un prélèvement progressif spécial opéré par l'Etat sur le produit brut des jeux, diminué d'un abattement de 25 %.
 

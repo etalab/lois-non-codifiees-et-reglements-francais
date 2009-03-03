@@ -30,7 +30,7 @@ II. - A une peine d'au moins trois mois d'emprisonnement sans sursis pour :
 
 12° Pratique de prêt usuraire ;
 
-13° L'une des infractions prévues par la loi du 21 mai 1836 portant prohibition des loteries, par la loi du 15 juin 1907 réglementant les jeux dans les cercles et les casinos des stations balnéaires, thermales et climatiques et par la loi n° 83-628 du 12 juillet 1983 relative aux jeux de hasard ;
+13° L'une des infractions prévues par la loi du 21 mai 1836 portant prohibition des loteries, par la loi du 15 juin 1907 relative aux casinos et par la loi n° 83-628 du 12 juillet 1983 relative aux jeux de hasard ;
 
 14° Infraction à la législation et à la réglementation des relations financières avec l'étranger ;
 
