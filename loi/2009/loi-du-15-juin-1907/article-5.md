@@ -7,3 +7,5 @@ Aura exercé les fonctions de directeur ou de membre du comité de direction san
 Ou aura fait fonctionner des jeux de hasard en infraction aux dispositions de l'arrêté d'autorisation,
 
 Ou aura dissimulé ou tenté de dissimuler tout ou partie du produit des jeux servant de base aux prélèvements.
+
+Quiconque aura fait de la publicité, par quelque moyen que ce soit, en faveur d'une activité de casino non autorisée est puni de 30 000 EUR d'amende. Le tribunal peut porter le montant de l'amende au quadruple du montant des dépenses publicitaires consacrées à l'opération illégale.
