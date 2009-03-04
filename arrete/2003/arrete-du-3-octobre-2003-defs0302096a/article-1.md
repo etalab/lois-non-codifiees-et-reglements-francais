@@ -6,6 +6,8 @@ Il est créé au ministère de la défense, à la direction de la mémoire, du p
 
 - le fichier des morts pour la France en Indochine ;
 
+- le fichier des Morts pour la France en 1939-1945 et en Corée ;
+
 - le fichier des personnels de l'aéronautique militaire 1914-1918 ;
 
 - le fichier des fusillés du mont Valérien ;
