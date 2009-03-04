@@ -23,7 +23,7 @@
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Ecole nationale supérieure de l'aéronautique et de l'espace</p>
+<p>Institut supérieur de l'aéronautique et de l'espace</p>
 </td>
 <td valign="top" width="151">
 <p align="center">I</p>
@@ -44,35 +44,50 @@
 </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Ecole nationale supérieure des ingénieurs des constructions aéronautiques</p>
-</td>
-<td valign="top" width="151">
-<p align="center">I bis</p>
+<td> Centre des hautes études de l'armement</td>
+<td>
+<p align="center"> I</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Ecole technique normale</p>
+<td> Centre de formation de l'Ile-de-France<br/>
 </td>
-<td valign="top" width="151">
-<p align="center">II</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="454">
-<p>Ecoles de formation technique :</p>
-</td>
-<td valign="top" width="151">
-<br/>
+<td>
+<p align="center">  I bis</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>2e et 3e années</p>
+<td> Centre d'instruction en sécurité industrielle et d'armement (CISIA)<br/>
 </td>
-<td valign="top" width="151">
-<p align="center">IV</p>
+<td>
+<p align="center"> I bis</p>
+</td>
+</tr>
+<tr>
+<td> Centre français de formation pour l'interdiction des armes chimiques (CEFFIAC</td>
+<td>
+<p align="center"> I bis</p>
+</td>
+</tr>
+<tr>
+<td> Centre de formation de Bourges<br/>
+</td>
+<td>
+<p align="center"> I bis</p>
+</td>
+</tr>
+<tr>
+<td> Centre de formation de Latresne<br/>
+</td>
+<td>
+<p align="center"> I bis</p>
+</td>
+</tr>
+<tr>
+<td> Centre de formation de Lorient<br/>
+</td>
+<td>
+<p align="center"> II</p>
 </td>
 </tr>
 <tr>
