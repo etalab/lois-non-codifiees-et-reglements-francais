@@ -6,6 +6,7 @@
 - [Décret n°2009-118 du 2 février 2009 (PRMX0901996D)](decret-n2009-118-du-2-fevrier-2009-prmx0901996d)
 - [Décret n°2009-120 du 2 février 2009 (BCFS0831202D)](decret-n2009-120-du-2-fevrier-2009-bcfs0831202d)
 - [Décret n°2009-2 du 2 janvier 2009 (IMIK0831315D)](decret-n2009-2-du-2-janvier-2009-imik0831315d)
+- [Décret n°2009-241 du 2 mars 2009 (ECED0903991D)](decret-n2009-241-du-2-mars-2009-eced0903991d)
 - [Décret n°2009-3 du 2 janvier 2009 (MAEX0831174D)](decret-n2009-3-du-2-janvier-2009-maex0831174d)
 - [Décret n°2009-4 du 2 janvier 2009 (AGRS0830858D)](decret-n2009-4-du-2-janvier-2009-agrs0830858d)
 - [Décret n°2009-5 du 2 janvier 2009 (SJSP0819969D)](decret-n2009-5-du-2-janvier-2009-sjsp0819969d)
