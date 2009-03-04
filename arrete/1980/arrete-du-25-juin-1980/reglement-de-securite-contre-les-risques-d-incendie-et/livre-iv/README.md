@@ -5,3 +5,4 @@
 - [Chapitre III : Etablissements du type SG - Structures gonflables](chapitre-iii)
 - [Chapitre IV : Etablissements du type OA - Hôtels-restaurants d'altitude](chapitre-iv)
 - [Chapitre V : Etablissements du type REF - Refuges de montagne](chapitre-v)
+- [Chapitre VI : Etablissements de type PS - Parcs de stationnement couverts](chapitre-vi)
