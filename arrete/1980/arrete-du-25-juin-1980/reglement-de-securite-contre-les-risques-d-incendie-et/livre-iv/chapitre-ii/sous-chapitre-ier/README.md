@@ -5,5 +5,6 @@ Chapiteaux, tentes et structures itinérants
 - [Section 2 : Construction](section-2)
 - [Section 3 : Dégagements](section-3)
 - [Section 4 : Aménagements](section-4)
+- [Section 5 : Installations de chauffage ou de cuisson](section-5)
 - [Section 9 : Moyens de secours](section-9)
 - [Section 10 : Exploitation](section-10)
