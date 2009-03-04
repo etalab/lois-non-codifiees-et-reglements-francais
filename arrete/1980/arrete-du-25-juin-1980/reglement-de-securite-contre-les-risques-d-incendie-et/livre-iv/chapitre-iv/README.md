@@ -1,5 +1,6 @@
 # Chapitre IV : Etablissements du type OA - Hôtels-restaurants d'altitude
 
+- [Section 1 : Généralités](section-1)
 - [Section 2 : Construction](section-2)
 - [Section 5 : Désenfumage](section-5)
 - [Section 6 : Chauffage](section-6)
