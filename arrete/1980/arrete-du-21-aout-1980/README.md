@@ -5,7 +5,6 @@
 - [Article 2](article-2.md)
 - [Titre II : Construction.](titre-ii)
 - [Titre III : Approbation de modèle.](titre-iii)
-- [Titre IV : Agrément du dispositif répétiteur lumineux.](titre-iv)
 - [Titre VII : Dispositions transitoires.](titre-vii)
 - [Titre VIII : Taxes et redevances.](titre-viii)
 - [Article 29](article-29.md)
