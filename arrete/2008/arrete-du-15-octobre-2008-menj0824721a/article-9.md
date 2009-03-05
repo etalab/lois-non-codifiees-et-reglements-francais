@@ -1,8 +1,8 @@
 # Article 9
 
-Les opérations de dépouillement ont lieu le 18 mars 2009, à partir de 14 heures.
+Les opérations de dépouillement ont lieu le 29 avril 2009, à partir de 14 heures.
 
-Seuls sont pris en compte les plis adressés au plus tard le 6 mars 2009 (le cachet de la poste faisant foi) et reçus, au plus tard, à l'ouverture des opérations de dépouillement.
+Seuls sont pris en compte les plis adressés au plus tard le 14 avril 2009 (le cachet de la poste faisant foi) et reçus, au plus tard, à l'ouverture des opérations de dépouillement.
 
 Sont considérés comme nuls les suffrages n'ayant pas été émis selon la procédure décrite aux articles 6 et 7 du présent arrêté.
 

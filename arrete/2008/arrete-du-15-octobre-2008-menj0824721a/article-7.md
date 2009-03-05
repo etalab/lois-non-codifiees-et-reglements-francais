@@ -8,4 +8,4 @@ Il introduit l'enveloppe n° 1 dans l'enveloppe n° 2 comportant la mention de l
 
 Il introduit l'enveloppe n° 2, préalablement fermée, dans l'enveloppe n° 3 (enveloppe T dispensée d'affranchissement).
 
-Cette enveloppe n° 3 doit être postée au plus tard le 6 mars 2009, date de clôture du scrutin (le cachet de la poste faisant foi).
+Cette enveloppe n° 3 doit être postée au plus tard le 14 avril 2009, date de clôture du scrutin (le cachet de la poste faisant foi).
