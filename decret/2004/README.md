@@ -896,7 +896,6 @@
 - [Décret n°2004-1021 du 27 septembre 2004 (JUSD0430171D)](decret-n2004-1021-du-27-septembre-2004-jusd0430171d)
 - [Décret n°2004-1140 du 27 octobre 2004 (INDI0403692D)](decret-n2004-1140-du-27-octobre-2004-indi0403692d)
 - [Décret n°2004-1141 du 27 octobre 2004 (SOCX0407723D)](decret-n2004-1141-du-27-octobre-2004-socx0407723d)
-- [Décret n°2004-1145 du 27 octobre 2004 (ECOM0400470D)](decret-n2004-1145-du-27-octobre-2004-ecom0400470d)
 - [Décret n°2004-189 du 27 février 2004 (SANS0420646D)](decret-n2004-189-du-27-fevrier-2004-sans0420646d)
 - [Décret n°2004-191 du 27 février 2004 (DOMA0400008D)](decret-n2004-191-du-27-fevrier-2004-doma0400008d)
 - [Décret n°2004-370 du 27 avril 2004 (SANS0420915D)](decret-n2004-370-du-27-avril-2004-sans0420915d)
