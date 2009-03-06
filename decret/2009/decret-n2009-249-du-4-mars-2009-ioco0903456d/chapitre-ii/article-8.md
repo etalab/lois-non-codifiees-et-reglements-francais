@@ -1,0 +1,3 @@
+# Article 8
+
+La durée d'émission télévisée et radiodiffusée mise, en vertu de l'article L. 565 du code électoral, à la disposition des partis et groupements politiques habilités à participer à la campagne par la société nationale de programme Réseau France outre-mer (RFO) dans ses programmes diffusés à Mayotte est fixée à deux heures d'émission radiodiffusée et deux heures d'émission télévisée. Toutefois, le temps d'émission de chacun des partis et groupements politiques habilités est porté à cinq minutes d'émission radiodiffusée et cinq minutes d'émission télévisée lorsque l'application des règles définies ci-dessus conduirait à lui accorder une durée inférieure.
