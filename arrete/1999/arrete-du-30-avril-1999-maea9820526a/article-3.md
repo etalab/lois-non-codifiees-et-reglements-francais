@@ -406,8 +406,6 @@ Centre culturel et de coopération linguistique d'Amman.
 
 Kenya
 
-Maison française de Nairobi.
-
 Laos
 
 Centre culturel et de coopération linguistique de Vientiane.
