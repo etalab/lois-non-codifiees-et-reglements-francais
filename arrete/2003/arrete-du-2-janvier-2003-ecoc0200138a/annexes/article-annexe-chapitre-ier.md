@@ -296,6 +296,22 @@ Liste des monomères et autres substances de départ autorisés
 </td>
 </tr>
 <tr>
+<td>
+<p align="center">15404</p>
+</td>
+<td>
+<p align="center">000652-67-5</p>
+</td>
+<td>
+<p align="center">
+<br/>1, 4 : 3, 6-Dianhydrosorbitol. <br/>
+</p>
+</td>
+<td>
+<p align="center">LMS = 5 mg / kg. A utiliser uniquement comme comonomère du poly (éthylène-co-isosorbide téréphtalate.)</p>
+</td>
+</tr>
+<tr>
 <td align="center">11470<br/>
 </td>
 <td align="center">000140-88-5<br/>
@@ -1183,6 +1199,17 @@ Liste des monomères et autres substances de départ autorisés
 </td>
 </tr>
 <tr>
+<td>
+<p align="center">15404</p>
+</td>
+<td>000652-67-5</td>
+<td>
+<p align="center">1,4 : 3,6-Dianhydrosorbitol.</p>
+</td>
+<td>LMS = 5 mg / kg.A utiliser uniquement comme comonomère du poly (éthylène-co-isosorbide téréphtalate. <br/>
+</td>
+</tr>
+<tr>
 <td align="center">15565<br/>
 </td>
 <td align="center">000106-46-7<br/>
@@ -1837,13 +1864,26 @@ Liste des monomères et autres substances de départ autorisés
 </td>
 </tr>
 <tr>
-<td align="center">19150<br/>
+<td align="center" valign="middle">19150<br/>
 </td>
 <td align="center">000121-91-5<br/>
 </td>
 <td align="center">Acide isophthalique.<br/>
 </td>
-<td align="center">LMS = 5 mg/kg.<br/>
+<td align="center">LMS (T) = 5 mg/kg (43).<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">19180</p>
+</td>
+<td>000099-63-8</td>
+<td>
+<p align="center">Dichlorure de l'acide isophthalique.</p>
+</td>
+<td>
+<p align="center">LMS (T) = 5 mg / kg (43) (exprimé en acide isophthalique). <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -3277,6 +3317,19 @@ Liste des monomères et autres substances de départ autorisés
 <td align="center">N-vinyl-N-méthylacétamide.<br/>
 </td>
 <td align="center">QM = 2 mg/kg de PF.<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">26305</p>
+</td>
+<td>000078-08-0</td>
+<td>
+<p align="center">Vinyltriéthoxysilane.</p>
+</td>
+<td>
+<p align="center">LMS = 0, 05 mg / kg.A utiliser uniquement comme agent pour traitement de surfaces. <br/>
+</p>
 </td>
 </tr>
 <tr>

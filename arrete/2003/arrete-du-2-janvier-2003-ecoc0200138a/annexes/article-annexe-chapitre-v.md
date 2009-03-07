@@ -1,6 +1,6 @@
 # Article Annexe Chapitre V
 
-**Notes concernant la colonne restrictions et / ou spécifications**
+Notes concernant la colonne restrictions et / ou spécifications
 
 (1) Avertissement : la LMS risque d'être dépassée dans les simulateurs d'aliments gras.
 
@@ -72,11 +72,11 @@
 
 (35) LMS (T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées sous les numéros références 25540 et 25550.
 
-(36) LMS (T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées sous les numéros références 10690, 10750, 10780, 10810, 10840, 11470, 11590, 11680, 11710, 11830, 11890, 11980 et 31500.
+(36) LMS (T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées aux numéros de référence 10690, 10750, 10780, 10810, 10840, 11470, 11590, 11680, 11710, 11830, 11890, 11980, 31500 et 76463.
 
 (37) LMS (T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées sous les numéros références 20020, 20080, 20110, 20140, 20170, 20890, 21010, 21100, 21130, 21190, 21280, 21340 et 21460.
 
-(38) LMS (T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées sous les numéros références 81515, 96190, 96240 et 96320 ainsi que les sels (y compris les sels doubles et les sels acides) de zinc des acides, phénols et alcools autorisés. La restriction prévue pour le zinc s'applique également aux dénominations qui contiennent acide (s)... sels  et qui figurent dans les listes si l'acide ou les acides libres correspondant n'y figurent pas.
+(38) LMS (T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées sous les numéros références 81515, 96190, 96240 et 96320 ainsi que les sels (y compris les sels doubles et les sels acides) de zinc des acides, phénols et alcools autorisés. La restriction prévue pour le zinc s'applique également aux dénominations qui contiennent acide (s)... sels et qui figurent dans les listes si l'acide ou les acides libres correspondant n'y figurent pas.
 
 (39) La limite de migration peut être dépassée à très haute température.
 
@@ -85,3 +85,5 @@
 (41) LMS (T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées sous les numéros références 47600 et 67360.
 
 (42) LMS (T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées sous les numéros références 75100 et 75105.
+
+43) LMS (T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées aux numéros de référence 19150 et 19180.

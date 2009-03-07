@@ -87,6 +87,17 @@ Autres spécifications
 </td>
 </tr>
 <tr>
+<td>
+<p align="center">60025</p>
+</td>
+<td>
+<p align="center">Spécifications : </p>
+<p align="center">- viscosité minimale (à 100° C) = 3, 8 cSt ; </p>
+<p align="center">- PM moyen ¹ 450. <br/>
+</p>
+</td>
+</tr>
+<tr>
 <td align="center">64990 <br/>
 </td>
 <td align="center">Sel de sodium du copolymère du styrène et de l'anhydride maléique. <br/>Fraction PM &lt; 1 000 inférieure à 0, 05 % (p / p). <br/>
@@ -109,6 +120,26 @@ Autres spécifications
 </td>
 <td align="center">POLYDIMÉTHYLSILOXANE (pm &gt; 6 800). <br/>Viscosité minimale : 100 × 10-6m ² / s (= 100 centistokes) à 25° C. <br/>
 </td>
+</tr>
+<tr>
+<td>
+<p align="center">76723</p>
+</td>
+<td>Spécifications : <p>La fraction dont le poids moléculaire est inférieur à 1 000 ne doit pas dépasser 1, 5 % p / p. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">76725</p>
+</td>
+<td>Spécifications : <p>La fraction dont le poids moléculaire est inférieur à 1 000 ne doit pas dépasser 1 % p / p. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td/>
+<td/>
 </tr>
 <tr>
 <td align="center">76815 <br/>
@@ -166,6 +197,16 @@ Autres spécifications
 <td align="center">88640 <br/>
 </td>
 <td align="center">HUILE DE SOJA EPOXYDÉE. <br/>Oxirane &lt; 8 %, indice d'iode &lt; 6. <br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">95858</p>
+</td>
+<td>Spécifications : <p>- poids moléculaire moyen au moins égal à 350 ; </p>
+<p>- viscosité minimale à 100° C de 2, 5 cSt ; </p>
+<p>- teneur en hydrocarbures minéraux avec un nombre de carbones inférieur à 25 : pas plus de 40 % (p / p). <br/>
+</p>
 </td>
 </tr>
 <tr>
