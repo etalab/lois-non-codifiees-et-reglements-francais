@@ -1,3 +1,0 @@
-# DESCRIPTION DES ÉPREUVES PHYSIQUES ET SPORTIVES
-
-- [Article ANNEXE I](article-annexe-i.md)
