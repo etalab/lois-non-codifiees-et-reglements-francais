@@ -16,19 +16,19 @@ I. - Est puni de trois ans d'emprisonnement et de 45 000 Euros d'amende :
 
 7° Le fait de sous-traiter l'exercice d'une activité mentionnée à l'article 1er à une entreprise dépourvue de l'autorisation prévue à l'article 7.
 
-II. - Est puni d'un an d'emprisonnement et de 15 000 Euros d'amende :
+II. - Est puni de deux ans d'emprisonnement et de 30 000 Euros d'amende :
 
-1° Le fait d'employer une personne en vue de la faire participer à l'une des activités mentionnées à l'article 1er en violation des dispositions des 2° à 5° de l'article 6 ;
+1° Le fait d'employer une personne non titulaire de la carte professionnelle visée à l'article 6, en vue de la faire participer à l'une des activités mentionnées à l'article 1er ;
 
 2° Le fait d'exercer ou de faire exercer des fonctions de surveillance sur la voie publique sans l'autorisation prévue au second alinéa de l'article 3.
 
-III. - Est puni d'une peine de six mois d'emprisonnement et de 7 500 Euros d'amende :
+III. - Est puni d'une peine d'un an d'emprisonnement et de 15 000 Euros d'amende :
 
-1° Le fait de ne pas avoir souscrit l'une des déclarations prévues au IV de l'article 7 ou la déclaration prévue au 1° de l'article 6 ;
+1° Le fait de ne pas avoir souscrit l'une des déclarations prévues au IV de l'article 7 ;
 
 2° Le fait de mettre obstacle à l'accomplissement des contrôles exercés, dans les conditions prévues à l'article 13, par les agents mentionnés au premier alinéa de cet article ;
 
-3° Le fait d'être l'employé d'une entreprise exerçant une activité mentionnée à l'article 1er, en vue de participer à l'une des activités mentionnées à cet article en violation des dispositions des 2° à 5° de l'article 6.
+3° Le fait de conclure un contrat de travail en tant que salarié d'une entreprise exerçant une activité mentionnée à l'article 1er, en vue de participer à l'une des activités mentionnées à cet article sans être titulaire de la carte professionnelle visée à l'article 6.
 
 IV. - Est puni d'une amende de 3 750 Euros :
 

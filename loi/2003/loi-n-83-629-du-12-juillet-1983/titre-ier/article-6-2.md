@@ -1,6 +1,6 @@
 # Article 6-2
 
-Sous réserve des dispositions transitoires fixées par le décret en Conseil d'Etat prévu au 5° de l'article 6, le contrat de travail du salarié qui cesse de remplir les conditions posées aux 2° à 5° de cet article est rompu de plein droit.
+Sous réserve des dispositions transitoires fixées par le décret en Conseil d'Etat prévu au 4° de l'article 6, le contrat de travail du salarié qui cesse de remplir les conditions posées aux 1° à 3° de cet article est rompu de plein droit.
 
 Cette rupture ouvre droit au versement, par l'employeur, de l'indemnité légale de licenciement dans les conditions prévues à l'article L. 122-9 du code du travail, sauf dispositions conventionnelles plus favorables.
 
