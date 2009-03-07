@@ -628,8 +628,6 @@
 - [Arrêté du 21 août 1998 (MESH9822808A)](arrete-du-21-aout-1998-mesh9822808a)
 - [Arrêté du 21 avril 1998 (FPPA9810006A)](arrete-du-21-avril-1998-fppa9810006a)
 - [Arrêté du 21 avril 1998 (MESS9821742A)](arrete-du-21-avril-1998-mess9821742a)
-- [Arrêté du 21 décembre 1998 (DEFD9802038A)](arrete-du-21-decembre-1998-defd9802038a)
-- [Arrêté du 21 décembre 1998 (DEFD9802039A)](arrete-du-21-decembre-1998-defd9802039a)
 - [Arrêté du 21 décembre 1998 (INTM9800061A)](arrete-du-21-decembre-1998-intm9800061a)
 - [Arrêté du 21 décembre 1998 (MAEA9820313A)](arrete-du-21-decembre-1998-maea9820313a)
 - [Arrêté du 21 décembre 1998 (MEST9811380A)](arrete-du-21-decembre-1998-mest9811380a)
