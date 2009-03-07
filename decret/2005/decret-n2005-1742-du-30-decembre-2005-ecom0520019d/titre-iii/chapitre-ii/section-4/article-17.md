@@ -1,6 +1,6 @@
 # Article 17
 
-I.-Le pouvoir adjudicateur ne peut exiger des candidats que des renseignements permettant d'évaluer leur expérience, leurs capacités professionnelles, techniques et financières ainsi que des documents relatifs aux pouvoirs des personnes habilitées à les engager et, en ce qui concerne les marchés passés pour les besoins de la défense, à sa nationalité et, si l'objet ou les conditions d'exécution du marché le justifient, à son habilitation préalable, ou sa demande d'habilitation préalable, en application du décret n° 98-608 du 17 juillet 1998 susvisé.
+I.-Le pouvoir adjudicateur ne peut exiger des candidats que des renseignements permettant d'évaluer leur expérience, leurs capacités professionnelles, techniques et financières ainsi que des documents relatifs aux pouvoirs des personnes habilitées à les engager et, en ce qui concerne les marchés passés pour les besoins de la défense, à sa nationalité et, si l'objet ou les conditions d'exécution du marché le justifient, à son habilitation préalable, ou sa demande d'habilitation préalable, en application des articles R. 2311-1 et suivants du code de la défense.
 
 La liste de ces renseignements et documents est fixée par arrêté du ministre chargé de l'économie.
 
