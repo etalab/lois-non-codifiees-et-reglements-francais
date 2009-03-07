@@ -77,7 +77,6 @@
 - [Décret n°80-824 du 17 octobre 1980](decret-n80-824-du-17-octobre-1980)
 - [Décret n°80-909 du 17 novembre 1980](decret-n80-909-du-17-novembre-1980)
 - [Décret du 18 août 1980](decret-du-18-aout-1980)
-- [Décret n°80-156 du 18 février 1980](decret-n80-156-du-18-fevrier-1980)
 - [Décret n°80-567 du 18 juillet 1980](decret-n80-567-du-18-juillet-1980)
 - [Décret n°80-732 du 18 septembre 1980](decret-n80-732-du-18-septembre-1980)
 - [Décret n°80-744 du 18 septembre 1980](decret-n80-744-du-18-septembre-1980)

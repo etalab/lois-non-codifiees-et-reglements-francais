@@ -1,3 +1,0 @@
-# Article 7
-
-Sous réserve des dispositions des articles 13 et 15 ci-après, l'ordre de de réquisition est donné par écrit sur un bulletin extrait d'un carnet à souche. Il doit porter les nom, prénoms et qualité de l'autorité requérante, la nature, le quantum ou la durée de la prestation, le nom du propriétaire et, à défaut, le nom de la personne à qui l'ordre a été remis, la date et le lieu de la réquisition et la signature de l'autorité chargée de la réquisition ; pour les biens requis, il précisera si la réquisition ne porte que sur le droit d'usage ou si elle s'étend à la propriété de ces biens. Il est délivré reçu des prestations fournies sur un bulletin extrait d'un carnet à souche.
