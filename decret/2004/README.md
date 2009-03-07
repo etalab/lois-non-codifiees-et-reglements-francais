@@ -240,7 +240,6 @@
 - [Décret n°2004-963 du 9 septembre 2004 (ECOZ0400043D)](decret-n2004-963-du-9-septembre-2004-ecoz0400043d)
 - [Décret n°2004-964 du 9 septembre 2004 (SOCU0410773D)](decret-n2004-964-du-9-septembre-2004-socu0410773d)
 - [Décret n°2004-965 du 9 septembre 2004 (SANS0422822D)](decret-n2004-965-du-9-septembre-2004-sans0422822d)
-- [Décret n°2004-1190 du 10 novembre 2004 (EQUX0402765D)](decret-n2004-1190-du-10-novembre-2004-equx0402765d)
 - [Décret n°2004-1212 du 10 novembre 2004 (INDI0420716D)](decret-n2004-1212-du-10-novembre-2004-indi0420716d)
 - [Décret n°2004-132 du 10 février 2004 (SOCS0324735D)](decret-n2004-132-du-10-fevrier-2004-socs0324735d)
 - [Décret n°2004-133 du 10 février 2004 (SANG0420222D)](decret-n2004-133-du-10-fevrier-2004-sang0420222d)
