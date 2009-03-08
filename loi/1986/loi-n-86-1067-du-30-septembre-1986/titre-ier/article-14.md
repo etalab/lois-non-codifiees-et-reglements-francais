@@ -1,6 +1,6 @@
 # Article 14
 
-Le Conseil supérieur de l'audiovisuel exerce un contrôle, par tous moyens appropriés, sur l'objet, le contenu et les modalités de programmation des émissions publicitaires diffusées par les sociétés nationales de programme et par les titulaires des autorisations délivrées pour des services de communication audiovisuelle en vertu de la présente loi.
+Le Conseil supérieur de l'audiovisuel exerce un contrôle, par tous moyens appropriés, sur l'objet, le contenu et les modalités de programmation des émissions publicitaires diffusées par les services de communication audiovisuelle en vertu de la présente loi. Il peut prendre en compte les recommandations des autorités d'autorégulation mises en place dans le secteur de la publicité.
 
 Les émissions publicitaires à caractère politique sont interdites.
 

@@ -21,3 +21,9 @@ Les industriels et distributeurs d'équipements électroniques grand public sont
 IV.-Seuls les terminaux permettant la réception des services gratuits de radio numérique diffusés dans les bandes III et L, selon les caractéristiques techniques précisées par application de l'article 12 de la loi n° 86-1067 du 30 septembre 1986 précitée, peuvent se voir accorder le label " Prêt pour la radio numérique ".
 
 Les industriels et les distributeurs d'équipement électronique grand public sont tenus d'informer de façon détaillée et visible les consommateurs des capacités des récepteurs de radio numérique et de télévision mobile personnelle à recevoir les services numériques de radio, notamment en faisant état, le cas échéant, de la labellisation mentionnée à l'alinéa précédent.
+
+V. - A partir du 1er septembre 2010, lors de leur mise en vente par un professionnel à un particulier, les terminaux neufs dédiés à titre principal à la réception de services de radio et capables d'afficher des contenus multimédias, à l'exception des terminaux équipant les véhicules automobiles, permettent la réception des services de radio par voie hertzienne terrestre en mode numérique dans les bandes de fréquences visées au quatrième alinéa du II de l'article 29-1 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication.
+
+A partir du 1er septembre 2012, cette obligation s'applique à tous les terminaux neufs dédiés à titre principal à la réception de services de radio ainsi qu'aux terminaux neufs permettant la réception de services de radio et capables d'afficher des contenus multimédias, à l'exception des terminaux équipant les véhicules automobiles.
+
+A partir du 1er septembre 2013, cette obligation s'applique à tous les terminaux permettant la réception de services de radio.

@@ -1,5 +1,13 @@
 # Article 47-3
 
-Le président de la société Radio France est nommé pour cinq ans par le Conseil supérieur de l'audiovisuel, à la majorité des membres qui le composent, parmi les personnalités qu'il a désignées au sein du conseil d'administration.
+Le conseil d'administration de la société en charge de l'audiovisuel extérieur de la France comprend, outre le président, quatorze membres dont le mandat est de cinq ans :
 
-Le président de la société Radio France Internationale est nommé pour cinq ans par le Conseil supérieur de l'audiovisuel, à la majorité des membres qui le composent, parmi les représentants de l'Etat au sein du conseil d'administration.
+1° Deux parlementaires désignés respectivement par les commissions chargées des affaires culturelles de l'Assemblée nationale et du Sénat ;
+
+2° Cinq représentants de l'Etat ;
+
+3° Cinq personnalités indépendantes nommées par le Conseil supérieur de l'audiovisuel à raison de leur compétence, dont une au moins disposant d'une expérience reconnue dans le domaine de la francophonie ;
+
+4° Deux représentants du personnel élus conformément au titre II de la loi n° 83-675 du 26 juillet 1983 précitée.
+
+Le président de la société en charge de l'audiovisuel extérieur de la France est également président, président-directeur général, directeur général ou président du directoire de chacune des sociétés éditrices de programmes filiales de cette société.

@@ -1,6 +1,6 @@
 # Article 47-5
 
-Les mandats des présidents des conseils d'administration des sociétés mentionnées aux articles 47-1 à 47-3 peuvent leur être retirés dans les mêmes formes que celles dans lesquelles ils leur ont été confiés.
+Le mandat des présidents des sociétés France Télévisions et Radio France et de la société en charge de l'audiovisuel extérieur de la France peut leur être retiré par décret motivé, après avis conforme, également motivé, du Conseil supérieur de l'audiovisuel, émis à la majorité des membres le composant, et avis public des commissions parlementaires compétentes [Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2009-577 DC du 3 mars 2009].
 
 En cas de partage des voix au sein d'un organe dirigeant de l'une de ces sociétés, celle du président est prépondérante.
 

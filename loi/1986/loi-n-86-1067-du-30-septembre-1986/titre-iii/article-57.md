@@ -2,7 +2,7 @@
 
 I. - Les droits des personnels et des journalistes des organismes mentionnés au présent titre ne sauraient dépendre de leurs opinions, croyances ou appartenances syndicales ou politiques. Le recrutement, la nomination, l'avancement et la mutation s'effectuent sans autres conditions que les capacités professionnelles requises et le respect du service public ouvert à tous.
 
-II. - En cas de cessation concertée du travail dans les sociétés nationales de programme ou dans les sociétés mentionnées au dernier alinéa du I de l'article 44, la continuité du service est assurée dans les conditions suivantes :
+II. - En cas de cessation concertée du travail dans les sociétés nationales de programme ou dans des filiales répondant à des missions de service public définies à l'article 43-11, la continuité du service est assurée dans les conditions suivantes :
 
 - le préavis de grève doit parvenir au président des organismes visés à l'alinéa précédent dans un délai de cinq jours francs avant le déclenchement de la grève. Il doit fixer le lieu, la date et l'heure du début ainsi que la durée, limitée ou non, de la grève envisagée ;
 

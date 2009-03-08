@@ -1,3 +1,5 @@
 # Article 47-4
 
-Les nominations par le Conseil supérieur de l'audiovisuel des présidents des conseils d'administration des sociétés mentionnées aux articles 47-1 à 47-3 font l'objet d'une décision motivée [Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 2000-433 DC du 27 juillet 2000].
+Les présidents des sociétés France Télévisions et Radio France et de la société en charge de l'audiovisuel extérieur de la France sont nommés par décret pour cinq ans après avis conforme du Conseil supérieur de l'audiovisuel et après avis des commissions parlementaires compétentes conformément à la loi organique n° 2009-257 du 5 mars 2009 relative à la nomination des présidents des sociétés France Télévisions et Radio France et de la société en charge de l'audiovisuel extérieur de la France.
+
+Pour l'application du présent article, la commission parlementaire compétente dans chaque assemblée est celle chargée des affaires culturelles.

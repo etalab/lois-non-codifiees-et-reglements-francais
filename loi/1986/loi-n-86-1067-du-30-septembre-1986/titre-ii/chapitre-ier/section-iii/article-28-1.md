@@ -16,6 +16,8 @@ Les autorisations délivrées en application des articles 29, 29-1, 30 et 30-1 s
 
 A compter du 1er janvier 2002, les autorisations prévues aux articles 30 et 30-1 ne sont reconduites, hors appel aux candidatures, qu'une seule fois pour une période maximale de cinq ans, sauf dans les cas visés aux 1° et 5° ci-dessus.
 
+I bis. - Par dérogation aux dispositions du I, les autorisations délivrées aux services de radio diffusés par voie hertzienne terrestre en Nouvelle-Calédonie avant le 1er janvier 2008 et en vigueur au 1er janvier 2009 sont reconduites jusqu'au 31 décembre 2009.
+
 II. - Un an avant l'expiration de l'autorisation délivrée en application des articles 29 ou 30, le Conseil supérieur de l'audiovisuel publie sa décision motivée de recourir ou non à la procédure de reconduction hors appel aux candidatures. Ce délai est de dix-huit mois pour l'autorisation délivrée en application des articles 29-1 et 30-1.
 
 Dans l'hypothèse où le Conseil supérieur de l'audiovisuel décide de recourir à la reconduction hors appel aux candidatures, sa décision mentionne, pour les services de communication audiovisuelle autres que radiophoniques, les points principaux de la convention en vigueur qu'il souhaite voir réviser, ainsi que ceux dont le titulaire demande la modification.

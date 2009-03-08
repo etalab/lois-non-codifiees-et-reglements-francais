@@ -18,6 +18,8 @@ Dans la mesure de la ressource radioélectrique disponible et au vu des proposit
 
 Le Conseil supérieur de l'audiovisuel attribue une part significative des ressources hertziennes disponibles ou rendues disponibles par l'extinction du service analogique de télévision en bande III et en bande L pour la diffusion du service de radio numérique terrestre, conformément aux accords internationaux souscrits par la France.
 
+Le Conseil supérieur de l'audiovisuel publie, avant le 30 juin 2009, le calendrier des appels à candidatures à venir ainsi que la liste des zones associées, afin de permettre le déploiement des services de radio numérique sur le territoire métropolitain, en prenant en compte les fréquences libérées par l'arrêt de la diffusion analogique dans le respect des orientations du schéma national de réutilisation de ces fréquences. Avant le 1er juillet 2010, le Gouvernement dépose devant le Parlement un rapport sur les modalités de passage à la diffusion numérique des radios associatives et des radios indépendantes.
+
 Les sociétés chargées de faire assurer les opérations techniques nécessaires à la transmission et à la diffusion des services autorisés sur une même fréquence auprès du public sont désignées et autorisées dans les conditions définies à l'article 30-2.
 
 Les services déjà autorisés en mode analogique, conformément à l'article 29, faisant l'objet d'une autorisation d'émettre en mode numérique, à l'occasion des premiers appels à candidatures du Conseil supérieur de l'audiovisuel en application des dispositions du présent article, se voient accorder une prolongation de plein droit de leurs autorisations d'émettre en mode analogique de cinq ans.

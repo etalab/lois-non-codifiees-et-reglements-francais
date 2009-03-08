@@ -8,15 +8,15 @@ La convention porte notamment sur un ou plusieurs des points suivants :
 
 1° La durée et les caractéristiques générales du programme propre ;
 
-2° Le temps consacré à la diffusion d'oeuvres audiovisuelles d'expression originale française en première diffusion en France, la part du chiffre d'affaires consacrée à l'acquisition des droits de diffusion de ces oeuvres ainsi que la grille horaire de leur programmation ;
+2° Les modalités permettant d'assurer la contribution au développement de la production d'œuvres audiovisuelles en tenant compte des accords conclus entre l'éditeur de services et une ou plusieurs organisations professionnelles de l'industrie audiovisuelle, s'agissant notamment de la durée des droits ;
 
 2° bis. La proportion substantielle d'oeuvres musicales d'expression française ou interprétées dans une langue régionale en usage en France, qui doit atteindre un minimum de 40 % de chansons d'expression française, dont la moitié au moins provenant de nouveaux talents ou de nouvelles productions, diffusées aux heures d'écoute significative par chacun des services de radio autorisés par le Conseil supérieur de l'audiovisuel, pour la part de ses programmes composée de musique de variétés.
 
 Par dérogation, le Conseil supérieur de l'audiovisuel peut autoriser, pour des formats spécifiques, les proportions suivantes :
 
-- soit pour les radios spécialisées dans la mise en valeur du patrimoine musical : 60 % de titres francophones, dont un pourcentage de nouvelles productions pouvant aller jusqu'à 10 % du total, avec au minimum un titre par heure en moyenne ;
+-soit pour les radios spécialisées dans la mise en valeur du patrimoine musical : 60 % de titres francophones, dont un pourcentage de nouvelles productions pouvant aller jusqu'à 10 % du total, avec au minimum un titre par heure en moyenne ;
 
-- soit pour les radios spécialisées dans la promotion de jeunes talents : 35 % de titres francophones, dont 25 % au moins du total provenant de nouveaux talents ;
+-soit pour les radios spécialisées dans la promotion de jeunes talents : 35 % de titres francophones, dont 25 % au moins du total provenant de nouveaux talents ;
 
 3° alinéa abrogé ;
 
@@ -26,7 +26,9 @@ Par dérogation, le Conseil supérieur de l'audiovisuel peut autoriser, pour des
 
 5° La diffusion de programmes éducatifs et culturels ainsi que d'émissions destinées à faire connaître les différentes formes d'expression artistique ;
 
-5° bis Les proportions substantielles des programmes qui, par des dispositifs adaptés et en particulier aux heures de grande écoute, sont accessibles aux personnes sourdes ou malentendantes. Pour les services dont l'audience moyenne annuelle dépasse 2,5 % de l'audience totale des services de télévision, cette obligation s'applique, dans un délai maximum de cinq ans suivant la publication de la loi n° 2005-102 du 11 février 2005 pour l'égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées, à la totalité de leurs programmes, à l'exception des messages publicitaires. La convention peut toutefois prévoir des dérogations justifiées par les caractéristiques de certains programmes. Pour les services de télévision à vocation locale, la convention peut prévoir un allègement des obligations d'adaptation ;
+5° bis Les proportions substantielles des programmes qui, par des dispositifs adaptés et en particulier aux heures de grande écoute, sont accessibles aux personnes sourdes ou malentendantes. Pour les services de télévision dont l'audience moyenne annuelle dépasse 2, 5 % de l'audience totale des services de télévision, cette obligation s'applique, dans un délai maximum de cinq ans suivant la publication de la loi n° 2005-102 du 11 février 2005 pour l'égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées, à la totalité de leurs programmes, à l'exception des messages publicitaires. La convention peut toutefois prévoir des dérogations justifiées par les caractéristiques de certains programmes. Pour les services de télévision à vocation locale, la convention peut prévoir un allègement des obligations d'adaptation ;
+
+5° ter. Pour les services de télévision diffusés par voie hertzienne terrestre en mode numérique dont l'audience moyenne annuelle dépasse 2, 5 % de l'audience totale des services de télévision, les proportions de programmes qui, par des dispositifs adaptés et en particulier aux heures de grande écoute, sont accessibles aux personnes aveugles ou malvoyantes ;
 
 6° Les dispositions propres à assurer l'indépendance des producteurs à l'égard des diffuseurs ;
 
@@ -45,6 +47,8 @@ Par dérogation, le Conseil supérieur de l'audiovisuel peut autoriser, pour des
 13° Les engagements en matière d'extension de la couverture du territoire ;
 
 14° Les modalités de rediffusion, intégrale ou partielle, par un réseau de communications électroniques au sens du 2° de l'article L. 32 du code des postes et des communications électroniques, du service de télévision en plusieurs programmes, dans des conditions fixées par décret. Dans la limite d'un tiers de leur temps de diffusion, ces rediffusions peuvent toutefois comprendre des programmes différents du programme principal dont elles sont issues. Elles doivent s'effectuer selon un principe identique en ce qui concerne le recours ou non à une rémunération de la part des usagers. Les obligations mentionnées aux 3° et 4° de l'article 27 portent alors globalement sur le service, et les obligations mentionnées aux 1°, 2° et 5° dudit article portent sur chacun des programmes le constituant ;
+
+14° bis. Les modalités de mise à disposition, sur un service de médias audiovisuels à la demande, des programmes d'un service de télévision dans le cadre d'un service dit de télévision de rattrapage. En matière audiovisuelle, les obligations mentionnées aux 3° et 4° de l'article 27 portent alors globalement sur ces services ;
 
 15° Les données associées au programme principal destinées à l'enrichir et à le compléter ;
 

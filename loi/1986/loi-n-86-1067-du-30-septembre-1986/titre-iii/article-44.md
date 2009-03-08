@@ -1,31 +1,33 @@
 # Article 44
 
-I. - Il est créé une société, dénommée France Télévisions, chargée de définir les orientations stratégiques, de coordonner et de promouvoir les politiques de programmes et l'offre de services, de conduire les actions de développement en veillant à intégrer les nouvelles techniques de diffusion et de production et de gérer les affaires communes des sociétés suivantes, dont elle détient la totalité du capital :
+I. - La société nationale de programme France Télévisions est chargée de concevoir et programmer des émissions de télévision à caractère national, régional et local ainsi que des émissions de radio ultramarines. Elle édite et diffuse également plusieurs services de communication audiovisuelle, y compris des services de médias audiovisuels à la demande, répondant aux missions de service public définies à l'article 43-11 et dans son cahier des charges.
 
-1° La société nationale de programme, dénommée France 2, chargée de concevoir et de programmer des émissions de télévision destinées à être diffusées sur l'ensemble du territoire métropolitain. Cette société propose une programmation généraliste, de référence et diversifiée à l'intention du public le plus large, favorise la création de productions télévisuelles originales et assure une information nationale et internationale ;
+Les caractéristiques respectives de ces services sont précisées par son cahier des charges. Elle peut les éditer par l'intermédiaire de filiales dont la totalité du capital est détenue, directement ou indirectement, par des personnes publiques.
 
-2° La société nationale de programme, dénommée France 3, chargée de concevoir et de programmer des émissions de télévision à caractère national, régional et local, destinées à être diffusées sur tout ou partie du territoire métropolitain. Cette société propose une programmation généraliste et diversifiée. Elle assure en particulier une information de proximité et rend compte des événements régionaux et locaux ;
+Elle tient compte du développement des technologies numériques pour assurer l'accès de tous les publics à ses programmes.
 
-3° La société nationale de programme, dénommée France 5, chargée de concevoir et de programmer des émissions de télévision à caractère éducatif et favorisant l'accès au savoir, à la connaissance, à la formation et à l'emploi, destinées à être diffusées sur l'ensemble du territoire métropolitain. Cette programmation doit contribuer à l'éducation à l'image et aux médias.
+Dans le respect de l'identité des lignes éditoriales de chacun des services qu'elle édite et diffuse, France Télévisions veille par ses choix de programmation et ses acquisitions d'émissions et d'œuvres audiovisuelles et cinématographiques à garantir la diversité de la création et de la production.
 
-Cette société favorise la diffusion de programmes éducatifs et de formation sur des supports diversifiés ainsi que leur utilisation par d'autres services de communication audiovisuelle et par les organismes d'enseignement et de formation.
+France Télévisions reflète dans sa programmation la diversité de la société française et veille à engager une action adaptée pour améliorer la présence de cette diversité dans les programmes.
 
-4° La société nationale de programme, dénommée Réseau France outre-mer, chargée de concevoir et de programmer des émissions de télévision et de radio destinées à être diffusées dans les collectivités françaises d'outre-mer. Cette société assure la promotion de la langue française ainsi que celle des langues et cultures régionales. Les émissions des autres sociétés nationales de programme sont mises à sa disposition à titre gratuit. Les programmes qu'elle produit sont mis gratuitement à la disposition de la société France Télévisions ainsi que de la société Radio France qui assurent la promotion et le rayonnement des cultures de la France d'outre-mer en métropole.
+France Télévisions conçoit et diffuse en région des programmes qui contribuent à la connaissance et au rayonnement de ces territoires et, le cas échéant, à l'expression des langues régionales. Ces programmes sont diffusés à travers des décrochages spécifiques, y compris aux heures de grande écoute, et peuvent être repris au niveau national. Ils reflètent la diversité de la vie économique, sociale et culturelle en région et proposent une information de proximité.
 
-Elle assure la continuité territoriale des autres sociétés nationales de programme, suivant des dispositifs qui peuvent être différenciés, en prenant en compte les particularités propres des départements d'outre-mer ou de la collectivité départementale de Mayotte selon des modalités déterminées par son cahier des missions et des charges après consultation de chaque conseil régional.
+Lorsqu'ils diffusent des journaux télévisés, les services de la société France Télévisions disposent d'une ligne éditoriale indépendante.
 
-Elle conclut des accords pluriannuels de coopération avec la société Radio France, notamment en matière de développement, de production, de programmes et d'information.
-
-Les sociétés visées à l'article L. 321-1 du code de la propriété intellectuelle passent avec l'autorité administrative compétente des conventions prévoyant les conditions dans lesquelles les établissements d'enseignement et de formation sont autorisés à réaliser et à utiliser à des fins pédagogiques des copies de programmes diffusés par cette société.
-
-La société France Télévisions peut créer des filiales ayant pour objet d'éditer des services de télévision diffusés en mode numérique ne donnant pas lieu au paiement d'une rémunération de la part des usagers et répondant à des missions de service public définies à l'article 43-11 et par leurs cahiers des charges. Le capital de ces sociétés est détenu directement ou indirectement par des personnes publiques.
+La principale source de financement de la société France Télévisions est constituée par le produit de la contribution à l'audiovisuel public.
 
 II. - Abrogé.
 
 III. - La société nationale de programme dénommée Radio France est chargée de concevoir et de programmer des émissions de radio à caractère national et local, destinées à être diffusées sur tout ou partie du territoire métropolitain. Elle favorise l'expression régionale sur ses antennes décentralisées sur l'ensemble du territoire. Elle valorise le patrimoine et la création artistique, notamment grâce aux formations musicales dont elle assure la gestion et le développement.
 
-IV. - La société nationale de programme dénommée Radio France Internationale est chargée de contribuer à la diffusion de la culture française par la conception et la programmation d'émissions de radio en français ou en langue étrangère destinées aux auditoires étrangers ainsi qu'aux Français résidant à l'étranger. Cette société assure une mission d'information relative à l'actualité française et internationale.
+IV. - La société en charge de l'audiovisuel extérieur de la France, société nationale de programme, a pour mission de contribuer à la diffusion et à la promotion de la langue française, des cultures française et francophone, ainsi qu'au rayonnement de la France dans le monde, notamment par la programmation et la diffusion d'émissions de télévision et de radio ou de services de communication au public en ligne relatifs à l'actualité française, francophone, européenne et internationale.
 
-V. - Dans les conditions fixées par voie réglementaire, notamment par leurs cahiers des missions et des charges, les sociétés nationales de programme et les filiales mentionnées au dernier alinéa du I peuvent produire pour elles-mêmes et à titre accessoire des oeuvres et documents audiovisuels et participent à des accords de coproduction.
+A cette fin, elle définit ou contribue à définir les orientations stratégiques et la coordination des services de communication audiovisuelle, en français ou en langues étrangères, destinés en particulier au public français résidant à l'étranger et au public étranger, édités par des sociétés dont elle détient tout ou partie du capital. Elle peut les financer. Elle peut également concevoir et programmer elle-même de tels services.
 
-Elles ne peuvent investir en parts de coproducteur dans le financement d'une oeuvre cinématographique que par l'intermédiaire d'une filiale, propre à chacune d'elles et ayant cet objet social exclusif.
+Le cahier des charges de la société nationale de programme en charge de l'audiovisuel extérieur de la France établi en application de l'article 48 définit ou contribue à définir les obligations de service public auxquelles sont soumis les services mentionnés à l'alinéa précédent et les conditions dans lesquelles la société assure, par l'ensemble de ces services, la diversité et le pluralisme des programmes.
+
+V. - Dans les conditions fixées par voie réglementaire, notamment par leurs cahiers des missions et des charges, les sociétés nationales de programme peuvent produire pour elles-mêmes et à titre accessoire des oeuvres et documents audiovisuels et participent à des accords de coproduction.
+
+Elles ne peuvent investir en parts de coproducteur dans le financement d'une oeuvre cinématographique que par l'intermédiaire de filiales ayant cet objet social exclusif.
+
+VI. - Tout journaliste d'une société nationale de programme a le droit de refuser toute pression, de refuser de divulguer ses sources, de refuser de signer une émission ou une partie d'émission dont la forme ou le contenu auraient été modifiés à son insu ou contre sa volonté. Il ne peut être contraint à accepter un acte contraire à son intime conviction professionnelle.

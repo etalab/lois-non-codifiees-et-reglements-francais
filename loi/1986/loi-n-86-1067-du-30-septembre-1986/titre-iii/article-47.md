@@ -1,5 +1,5 @@
 # Article 47
 
-L'Etat détient directement la totalité du capital des sociétés France Télévisions et Radio France et, directement ou indirectement, la totalité du capital de la société Radio France Internationale.
+L'Etat détient directement la totalité du capital des sociétés France Télévisions et Radio France et de la société en charge de l'audiovisuel extérieur de la France.
 
-Ces sociétés, ainsi que les sociétés France 2, France 3, France 5 et Réseau France outre-mer sont soumises à la législation sur les sociétés anonymes, sauf dispositions contraires de la loi. Leurs statuts sont approuvés par décret.
+Ces sociétés sont soumises à la législation sur les sociétés anonymes, sauf dispositions contraires de la loi. Leurs statuts sont approuvés par décret.

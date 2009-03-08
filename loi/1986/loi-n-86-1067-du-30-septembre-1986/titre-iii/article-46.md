@@ -1,3 +1,5 @@
 # Article 46
 
-Il est créé, auprès de la société France télévisions, un Conseil consultatif des programmes chargé d'émettre des avis et des recommandations sur les programmes, et dont la composition, les missions et les modalités de fonctionnement sont précisées par décret en Conseil d'Etat.
+La société nationale de programme France Télévisions crée en son sein un conseil consultatif des programmes composé de téléspectateurs, chargé d'émettre des avis et des recommandations sur les programmes.
+
+Chaque année, le président de la société nationale de programme France Télévisions rend compte de l'activité et des travaux de ce conseil à l'occasion de la présentation du rapport sur l'exécution du contrat d'objectifs et de moyens de la société devant les commissions chargées des affaires culturelles et des finances de l'Assemblée nationale et du Sénat.
