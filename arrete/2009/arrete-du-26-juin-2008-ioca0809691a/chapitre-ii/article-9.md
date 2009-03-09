@@ -1,0 +1,5 @@
+# Article 9
+
+L'agent dont la valeur professionnelle, appréciée dans le cadre de l'entretien professionnel et exprimée dans le compte rendu, est distinguée par rapport aux autres agents du même service ayant des responsabilités équivalentes peut bénéficier d'un mois ou de trois mois de réduction de la durée du temps à passer dans l'échelon prévue à l'article 2 des arrêtés du 27 janvier 2004 fixant les indices de rémunération applicables aux personnels navigants contractuels de la base d'avions de la sécurité civile au groupement des moyens aériens et du 30 mai 2005 fixant les indices de rémunération applicables aux personnels navigants contractuels du groupement d'hélicoptères de la sécurité civile au groupement des moyens aériens.
+
+Les réductions d'ancienneté sont attribuées par le directeur des ressources humaines sur proposition du directeur de la défense et de la sécurité civiles, selon les modalités prévues aux articles 11 et 12, après avis des commissions consultatives paritaires compétentes.
