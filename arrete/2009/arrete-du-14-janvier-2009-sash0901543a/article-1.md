@@ -2,11 +2,9 @@
 
 Le montant des ressources d'assurance maladie versées pour 2009 est ainsi fixé :
 
-1° Le montant des forfaits annuels mentionnés à l'article D. 162-5 du code de la sécurité sociale est fixé à 10 042 702 euros, réparti comme suit :
+1° Le montant des forfaits annuels mentionnés à l'article D. 162-5 du code de la sécurité sociale est fixé à 10 042 701 euros, réparti comme suit :
 
 9 530 632 euros pour le forfait annuel relatif à l'accueil et au traitement des urgences ;
-
-364 923 euros pour le forfait annuel relatif aux prélèvements d'organes ;
 
 147 146 euros pour le forfait annuel relatif à l'activité de transplantation d'organes et de greffe de cellules souches hématopoïétiques.
 
