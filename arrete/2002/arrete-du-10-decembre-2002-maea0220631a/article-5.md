@@ -8,6 +8,4 @@ Biélorussie ;
 
 Géorgie ;
 
-Ouzbékistan ;
-
-Zimbabwe.
+Ouzbékistan.
