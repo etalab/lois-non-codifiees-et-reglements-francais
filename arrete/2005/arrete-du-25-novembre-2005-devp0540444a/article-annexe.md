@@ -32,7 +32,7 @@ Le plomb dans les composants électroniques en céramique (par exemple les dispo
 
 9. Le chrome hexavalent comme anticorrosif pour les systèmes de refroidissement en acier au carbone dans les réfrigérateurs à absorption.
 
-10. Le décabromodiphényléther dans les applications polymérisées.
+10. (Abrogé).
 
 11. Le plomb dans les coussinets et demi-coussinets en plomb / bronze.
 
@@ -48,7 +48,7 @@ Le plomb dans les composants électroniques en céramique (par exemple les dispo
 
 17. Le plomb contenu dans les lampes à incandescence de forme linéaire dont les tubes ont un revêtement de silicate.
 
-18.L'halogénure de plomb utilisé comme activateur de rayonnement dans les lampes à décharge à haute intensité destinées aux applications de reprographie professionnelle.
+18. L'halogénure de plomb utilisé comme activateur de rayonnement dans les lampes à décharge à haute intensité destinées aux applications de reprographie professionnelle.
 
 19. Le plomb comme activateur dans la poudre fluorescente (maximum 1 % de plomb en poids) des lampes à décharge utilisées comme lampes de bronzage contenant des luminophores tels que BaSi2O5 : Pb (BSP) ou utilisées comme lampes spéciales pour la photochimie et de durcissement, contenant des luminophores tels que (Sr, Ba) 2MgSi2O7 : Pb (SMS).
 
@@ -73,3 +73,9 @@ Le plomb dans les composants électroniques en céramique (par exemple les dispo
 29. Le chrome hexavalent dans les revêtements anticorrosion de feuilles de métal non peintes et de fixations utilisées pour la protection contre la corrosion et les interférences électromagnétiques dans les équipements relevant de la catégorie 3 de l'annexe 1 du décret n° 2005-829 du 20 juillet 2005 relatif à la composition des équipements électriques et électroniques et à l'élimination des déchets issus de ces équipements. Exemption accordée jusqu'au 1er juillet 2007.
 
 30. Le plomb contenu dans le verre cristal conformément à l'annexe 1 (catégories 1, 2, 3 et 4) de la directive 69 / 493 / CEE du Conseil du 15 décembre 1969 modifiée concernant le rapprochement des législations des Etats membres relatives au verre cristal.
+
+31. Les alliages de cadmium comme joints de soudure électrique / mécanique des conducteurs électriques situés directement sur la bobine acoustique des transducteurs utilisés dans les haut-parleurs d'une puissance supérieure ou égale à 100 dB (A).
+
+32. Le plomb dans les matériaux de soudure des lampes fluorescentes plates sans mercure (destinées, par exemple, aux afficheurs à cristaux liquides et à l'éclairage décoratif ou industriel).
+
+33.L'oxyde de plomb dans le joint de scellement des fenêtres entrant dans la fabrication des tubes laser à l'argon et au krypton.
