@@ -328,7 +328,6 @@
 - [Arrêté du 15 novembre 1999 (ECOI9900540A)](arrete-du-15-novembre-1999-ecoi9900540a)
 - [Arrêté du 15 novembre 1999 (ECOI9900541A)](arrete-du-15-novembre-1999-ecoi9900541a)
 - [Arrêté du 15 novembre 1999 (EQUA9901690A)](arrete-du-15-novembre-1999-equa9901690a)
-- [Arrêté du 15 novembre 1999 (EQUT9901623A)](arrete-du-15-novembre-1999-equt9901623a)
 - [Arrêté du 15 mai 1997 (ENVP9760169A)](arrete-du-15-mai-1997-envp9760169a)
 - [Arrêté du 16 août 1999 (JUSC9920510A)](arrete-du-16-aout-1999-jusc9920510a)
 - [Arrêté du 16 août 1999 (MESP9922518A)](arrete-du-16-aout-1999-mesp9922518a)

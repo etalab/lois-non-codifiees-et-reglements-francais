@@ -57,7 +57,6 @@
 - [Arrêté du 2 mai 2003 (MCCB0300337A)](arrete-du-2-mai-2003-mccb0300337a)
 - [Arrêté du 2 mai 2003 (SANS0321580A)](arrete-du-2-mai-2003-sans0321580a)
 - [Arrêté du 3 avril 2003 (EQUA0300869A)](arrete-du-3-avril-2003-equa0300869a)
-- [Arrêté du 3 février 2003 (AGRA0300119A)](arrete-du-3-fevrier-2003-agra0300119a)
 - [Arrêté du 3 février 2003 (EQUA0300367A)](arrete-du-3-fevrier-2003-equa0300367a)
 - [Arrêté du 3 février 2003 (EQUA0300368A)](arrete-du-3-fevrier-2003-equa0300368a)
 - [Arrêté du 3 février 2003 (EQUA0300369A)](arrete-du-3-fevrier-2003-equa0300369a)
