@@ -1,4 +1,3 @@
-# Titre IV : Direction
+# Titre IV : Instituts thématiques.
 
-- [Article 17](article-17.md)
-- [Article 18](article-18.md)
+- [Article 10-2](article-10-2.md)
