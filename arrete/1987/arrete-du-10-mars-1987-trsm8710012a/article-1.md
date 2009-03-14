@@ -14,7 +14,7 @@ Commission n° 5.-Assistants ingénieurs ;
 
 Commission n° 6.-Techniciens de la recherche et secrétaires d'administration de la recherche ;
 
-Commission n° 7.-Adjoints techniques de la recherche, adjoints administratifs de la recherche et agents techniques de la recherche ;
+Commission n° 7 : Adjoints techniques de la recherche ;
 
 Commission n° 8.-(supprimée) ;
 
