@@ -6,7 +6,9 @@ La sous-direction du climat et de la qualité de l'air :
 
 ― contribue à la définition de la position française dans les négociations internationales relatives à l'effet de serre ;
 
-― réalise des études et recherches sur les risques liés au réchauffement climatique et aux phénomènes extrêmes, et évalue leurs impacts sur l'économie et l'environnement.
+― réalise des études et recherches sur les risques liés au réchauffement climatique et aux phénomènes extrêmes, et évalue leurs impacts sur l'économie et l'environnement ;
+
+- élabore et propose la stratégie de gestion des actifs carbone de l'Etat et d'intervention sur les marchés carbone en cas de recours à des achats ou cessions de droits ou quotas d'émission.
 
 ― en coordination avec la direction générale de la prévention des risques, connaît et évalue les pollutions et les nuisances atmosphériques créées par les installations fixes et les activités de transport et veille à leur prévention ; élabore la réglementation de la lutte contre la pollution atmosphérique et définit les conditions de surveillance de la qualité de l'air, de ses effets sur la santé et sur l'environnement ; veille à l'application de ces dispositions ;
 
@@ -26,14 +28,16 @@ La sous-direction du climat et de la qualité de l'air :
 
 Elle comprend :
 
-― le département « lutte contre l'effet de serre » ;
+― le département  lutte contre l'effet de serre  ;
 
-― le bureau « qualité de l'air » ;
+- le bureau " marchés carbone " ;
 
-― le bureau « maîtrise de la demande » ;
+― le bureau  qualité de l'air  ;
 
-― le bureau « chaleur et équipements ».
+― le bureau  maîtrise de la demande  ;
+
+― le bureau  chaleur et équipements .
 
 L'Observatoire national sur les effets du réchauffement climatique, mentionné à l'article L. 229-2 du code de l'environnement, est rattaché au département de lutte contre l'effet de serre.
 
-Le bureau « qualité de l'air » est mis à disposition de la direction générale de la prévention des risques pour l'exercice de ses compétences.
+Le bureau  qualité de l'air  est mis à disposition de la direction générale de la prévention des risques pour l'exercice de ses compétences.
