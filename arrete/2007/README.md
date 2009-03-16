@@ -21,7 +21,6 @@
 - [Arrêté du 1 octobre 2007 (ESRF0766565A)](arrete-du-1-octobre-2007-esrf0766565a)
 - [Arrêté du 1 octobre 2007 (IOCC0766721A)](arrete-du-1-octobre-2007-iocc0766721a)
 - [Arrêté du 1 octobre 2007 (MTSS0767017A)](arrete-du-1-octobre-2007-mtss0767017a)
-- [Arrêté du 1 octobre 2007 (SJSP0767333A)](arrete-du-1-octobre-2007-sjsp0767333a)
 - [Arrêté du 2 août 2007 (AGRP0762295A)](arrete-du-2-aout-2007-agrp0762295a)
 - [Arrêté du 2 août 2007 (BCFX0710675A)](arrete-du-2-aout-2007-bcfx0710675a)
 - [Arrêté du 2 août 2007 (DEVA0761120A)](arrete-du-2-aout-2007-deva0761120a)
