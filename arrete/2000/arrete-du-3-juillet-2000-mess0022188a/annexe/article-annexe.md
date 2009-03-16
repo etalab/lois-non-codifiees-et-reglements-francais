@@ -966,6 +966,8 @@ Isotherma, 4, rue du Moulin, 60001 Goincourt : de 1962 à 1999 ;
 
 Levis SA peintures techniques, Akzo Coatings SA, rue Jeanne-d'Arc, 60540 Bornel, de 1970 à 1990 ;
 
+MANUFACTURE DES GLACES ET PRODUITS CHIMIQUES DE SAINT-GOBAIN CHAUNY et CIREY puis PECHINEY SAINT-GOBAIN puis RHONE PROGIL puis RHONE POULENC INDUSTRIES puis CHLOE CHIMIE et RHONE POULENC puis ATOCHEM et CHARBONNAGES DE France CHIMIE puis RHODIA, 2, rue de Soissons, 02300 Chauny : De 1944 à 1996 ;
+
 Matériel scientifique moderne, 4 bis, rue des Archers, 80000 Amiens, de 1950 à 1991.
 
 Max Perles et Cie, 4, rue du Professeur Dubos, 60119 Henonville, de 1970 à 1996.
