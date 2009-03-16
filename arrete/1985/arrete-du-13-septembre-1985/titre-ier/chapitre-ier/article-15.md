@@ -4,9 +4,11 @@ L'enregistrement d'un pari entraîne la remise au parieur, après versement de s
 
 Les enjeux sont réglés en espèces et au comptant ou par débit d'un compte ouvert au Pari mutuel urbain ou auprès des sociétés ou de leur mandataire visés à l'article 9 du présent arrêté. Dans les postes d'enregistrement connectés au système informatique central du Pari mutuel urbain fonctionnant en temps réel et aux guichets des hippodromes connectés à ce système, offrant ce service, les enjeux peuvent également être réglés par "chèque pari".
 
-Les enjeux peuvent également être réglés par carte bancaire dans les postes d'enregistrement visés aux articles 97 et 98 du présent arrêté et habilités par le Pari mutuel urbain à accepter ce mode de règlement.
+Les enjeux peuvent également être réglés par carte bancaire dans les postes d'enregistrement visés à l'article 97 du présent arrêté et habilités par le Pari mutuel urbain à accepter ce mode de règlement.
 
-Les montants des paiements autorisés, compris entre un minimum de 15 euros et un maximum de 760 euros, des enjeux par carte bancaire sont portés à la connaissance du public dans chaque établissement.
+Les montants autorisés des paiements des enjeux par carte bancaire sont portés à la connaissance du public dans chaque établissement.
+
+Les enjeux réglés par carte bancaire ne sont pas remboursables en espèces.
 
 Tout pari dont le montant est supérieur à un seuil porté à la connaissance des parieurs ne peut être engagé qu'en compte courant, selon les dispositions des articles 100 à 107 et 109 à 111, aux guichets des hippodromes connectés au système central du Pari mutuel urbain fonctionnant en temps réel ou dans les agences du Pari mutuel urbain.
 
