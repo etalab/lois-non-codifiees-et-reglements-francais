@@ -17,7 +17,7 @@ Les crédits budgétaires ouverts pour le service de la prime forfaitaire de fon
 <p>Premier président de la Cour des comptes </p>
 </td>
 <td width="151">
-<p align="center">1600</p>
+<p align="center">1324</p>
 </td>
 </tr>
 <tr>
@@ -25,7 +25,7 @@ Les crédits budgétaires ouverts pour le service de la prime forfaitaire de fon
 <p>Procureur général près la Cour des comptes </p>
 </td>
 <td width="151">
-<p align="center">1600</p>
+<p align="center">1324</p>
 </td>
 </tr>
 <tr>
