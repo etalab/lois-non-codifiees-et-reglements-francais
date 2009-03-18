@@ -1,6 +1,7 @@
 # Décret n° 2006-572 du 17 mai 2006 fixant l'organisation de l'administration centrale des ministères de l'éducation nationale et de l'enseignement supérieur et de la recherche
 
 - [Article 1](article-1.md)
+- [Article 2](article-2.md)
 - [Article 2 bis](article-2-bis.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
@@ -15,3 +16,5 @@
 - [Article 14](article-14.md)
 - [Article 15](article-15.md)
 - [Article 16](article-16.md)
+- [Article 17](article-17.md)
+- [Article 18](article-18.md)
