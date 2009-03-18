@@ -472,7 +472,6 @@
 - [Arrêté du 26 janvier 2001 (EQUA0100158A)](arrete-du-26-janvier-2001-equa0100158a)
 - [Arrêté du 26 mars 2001 (AGRS0100708A)](arrete-du-26-mars-2001-agrs0100708a)
 - [Arrêté du 26 novembre 2001 (DEFP0102360A)](arrete-du-26-novembre-2001-defp0102360a)
-- [Arrêté du 26 octobre 2001 (MENF0101927A)](arrete-du-26-octobre-2001-menf0101927a)
 - [Arrêté du 26 octobre 2001 (MENF0102351A)](arrete-du-26-octobre-2001-menf0102351a)
 - [Arrêté du 26 septembre 2001 (AGRP0101908A)](arrete-du-26-septembre-2001-agrp0101908a)
 - [Arrêté du 27 avril 2001 (ECOD0170010A)](arrete-du-27-avril-2001-ecod0170010a)
