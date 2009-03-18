@@ -50,7 +50,7 @@ LISTE DES OBJECTIFS NUTRITIONNELS PARTICULIERS
 </td>
 </tr>
 <tr>
-<td rowspan="6" valign="top" width="113">
+<td rowspan="14" valign="top" width="113">
 <p>Soutien de la fonction rénale en cas d'insuffisance rénale chronique (1).</p>
 </td>
 <td rowspan="6" valign="top" width="113">
@@ -60,18 +60,21 @@ LISTE DES OBJECTIFS NUTRITIONNELS PARTICULIERS
 <p>Chiens et chats.</p>
 </td>
 <td valign="top" width="110">
-<p>Sources de protéines.</p>
+<p>Source(s) de protéines.</p>
 </td>
 <td rowspan="6" valign="top" width="103">
 <p>Au départ jusqu'à six mois (2).</p>
 </td>
-<td rowspan="5" valign="top" width="142">
-<p>Indiquer sur l'emballage, le récipient ou l'étiquette : "Avant utilisation ou avant prolongation de la durée d'utilisation, il est recommandé de demander l'avis d'un vétérinaire." </p>
+<td valign="top" width="142">
+<p>Indiquer sur l'emballage, le récipient ou l'étiquette : "Avant utilisation ou avant prolongation de la durée d'utilisation, il est recommandé de demander l'avis d'un vétérinaire. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="110">
 <p>Calcium.</p>
+</td>
+<td rowspan="5" valign="top" width="142">
+<p>Indiquer dans le mode d'emploi : "Eau disponible en permanence." </p>
 </td>
 </tr>
 <tr>
@@ -93,8 +96,64 @@ LISTE DES OBJECTIFS NUTRITIONNELS PARTICULIERS
 <td valign="top" width="110">
 <p>Teneur en acides gras essentiels (si ajoutés).</p>
 </td>
-<td valign="top" width="142">
-<p>Indiquer dans le mode d'emploi : "Eau disponible en permanence." </p>
+</tr>
+<tr>
+<td width="113">
+<p>ou</p>
+</td>
+<td width="63"/>
+<td valign="top" width="110"/>
+<td width="103"/>
+<td width="142"/>
+</tr>
+<tr>
+<td rowspan="7" valign="top" width="113">
+<p>Diminution de l'absorption de phosphore grâce à l'adjonction de carbonate de lanthanum octahydrate.</p>
+</td>
+<td rowspan="7" valign="top" width="63">
+<p>Chats adultes.</p>
+</td>
+<td valign="top" width="110">
+<p>Source(s) de protéines.</p>
+</td>
+<td rowspan="7" valign="top" width="103">
+<p>Au départ jusqu'à six mois (2).</p>
+</td>
+<td width="142">
+<p>Indiquer sur l'emballage, le récipient ou l'étiquette : "Avant utilisation ou avant prolongation de la durée d'utilisation, il est recommandé de demander l'avis d'un vétérinaire. </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="110">
+<p>Calcium.</p>
+</td>
+<td rowspan="6" valign="top" width="142">
+<p>Indiquer dans le mode d'emploi : "Eau disponible en permanence."</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="110">
+<p>Phosphore.</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="110">
+<p>Potassium.</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="110">
+<p>Sodium.</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="110">
+<p>Carbonate de lanthanum octahydrate</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="110">
+<p>Teneur en acides gras essentiels (si ajoutés).</p>
 </td>
 </tr>
 <tr>
@@ -403,7 +462,7 @@ LISTE DES OBJECTIFS NUTRITIONNELS PARTICULIERS
 <td valign="top" width="113">
 <p>Sources de protéines sélectionnées,</p>
 </td>
-<td valign="top" width="63">
+<td rowspan="4" valign="top" width="63">
 <p>Chiens et chats.</p>
 </td>
 <td valign="top" width="110">
@@ -418,7 +477,6 @@ LISTE DES OBJECTIFS NUTRITIONNELS PARTICULIERS
 <td valign="top" width="113">
 <p>et/ou</p>
 </td>
-<td valign="top" width="63"/>
 <td valign="top" width="110">
 <p>Teneur en acides gras essentiels (si ajoutés).</p>
 </td>
@@ -427,13 +485,11 @@ LISTE DES OBJECTIFS NUTRITIONNELS PARTICULIERS
 <td rowspan="2" valign="top" width="113">
 <p>Sources de glucides sélectionnées.</p>
 </td>
-<td valign="top" width="63"/>
 <td valign="top" width="110">
 <p>Sources de glucides.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="63"/>
 <td valign="top" width="110">
 <p>Teneur en acides gras essentiels (si ajoutés).</p>
 </td>
@@ -687,7 +743,7 @@ LISTE DES OBJECTIFS NUTRITIONNELS PARTICULIERS
 <p>Réduction de l'accumulation hépatique du cuivre.</p>
 </td>
 <td valign="top" width="112">
-<p>Faible teneur en cuivre</p>
+<p>Faible teneur en cuivre.</p>
 </td>
 <td valign="top" width="64">
 <p>Chiens.</p>
@@ -785,7 +841,7 @@ LISTE DES OBJECTIFS NUTRITIONNELS PARTICULIERS
 <td valign="top" width="110">
 <p>Calcium.</p>
 </td>
-<td valign="top" width="102">
+<td rowspan="3" valign="top" width="102">
 <p>Une à quatre semaines avant le vêlage. </p>
 </td>
 <td valign="top" width="141">
@@ -796,8 +852,7 @@ LISTE DES OBJECTIFS NUTRITIONNELS PARTICULIERS
 <td valign="top" width="110">
 <p>Phosphore.</p>
 </td>
-<td valign="top" width="102"/>
-<td valign="top" width="141">
+<td rowspan="2" valign="top" width="141">
 <p>"Arrêter l'administration à partir du vêlage."</p>
 </td>
 </tr>
@@ -805,8 +860,6 @@ LISTE DES OBJECTIFS NUTRITIONNELS PARTICULIERS
 <td valign="top" width="110">
 <p>Magnésium.</p>
 </td>
-<td valign="top" width="102"/>
-<td valign="top" width="141"/>
 </tr>
 <tr>
 <td valign="top" width="112">
@@ -823,7 +876,7 @@ LISTE DES OBJECTIFS NUTRITIONNELS PARTICULIERS
 <td valign="top" width="110">
 <p>Calcium. </p>
 </td>
-<td valign="top" width="102">
+<td rowspan="6" valign="top" width="102">
 <p>Une à quatre semaines avant le vêlage.</p>
 </td>
 <td valign="top" width="141">
@@ -834,8 +887,7 @@ LISTE DES OBJECTIFS NUTRITIONNELS PARTICULIERS
 <td valign="top" width="110">
 <p>Phosphore. </p>
 </td>
-<td valign="top" width="102"/>
-<td valign="top" width="141">
+<td rowspan="5" valign="top" width="141">
 <p>"Arrêter l'administration à partir du vêlage." </p>
 </td>
 </tr>
@@ -843,29 +895,21 @@ LISTE DES OBJECTIFS NUTRITIONNELS PARTICULIERS
 <td valign="top" width="110">
 <p>Sodium. </p>
 </td>
-<td valign="top" width="102"/>
-<td valign="top" width="141"/>
 </tr>
 <tr>
 <td valign="top" width="110">
 <p>Potassium. </p>
 </td>
-<td valign="top" width="102"/>
-<td valign="top" width="141"/>
 </tr>
 <tr>
 <td valign="top" width="110">
 <p>Chlorures. </p>
 </td>
-<td valign="top" width="102"/>
-<td valign="top" width="141"/>
 </tr>
 <tr>
 <td valign="top" width="110">
 <p>Soufre. </p>
 </td>
-<td valign="top" width="102"/>
-<td valign="top" width="141"/>
 </tr>
 <tr>
 <td valign="top" width="112">
@@ -879,10 +923,10 @@ LISTE DES OBJECTIFS NUTRITIONNELS PARTICULIERS
 <td rowspan="3" valign="top" width="112">
 <p>Teneur élevée en zéolite (aluminosilicate de sodium de synthèse). </p>
 </td>
-<td valign="top" width="110">
+<td rowspan="3" valign="top" width="110">
 <p>Teneur en aluminosilicate de sodium de synthèse. </p>
 </td>
-<td valign="top" width="102">
+<td rowspan="3" valign="top" width="102">
 <p>Les deux semaines précédant le vêlage. </p>
 </td>
 <td valign="top" width="141">
@@ -890,15 +934,11 @@ LISTE DES OBJECTIFS NUTRITIONNELS PARTICULIERS
 </td>
 </tr>
 <tr>
-<td valign="top" width="110"/>
-<td valign="top" width="102"/>
 <td valign="top" width="141">
 <p>"Il faut limiter la quantité d'aliments de manière à ne pas dépasser une dose journalière de 500 g d'aluminosilicate de sodium par animal." </p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="110"/>
-<td valign="top" width="102"/>
 <td valign="top" width="141">
 <p>"Arrêter l'administration à partir du vêlage." </p>
 </td>
@@ -915,10 +955,10 @@ LISTE DES OBJECTIFS NUTRITIONNELS PARTICULIERS
 <td rowspan="3" valign="top" width="112">
 <p>Teneur élevée en calcium sous la forme de sels de calcium à haute disponibilité. </p>
 </td>
-<td valign="top" width="110">
+<td rowspan="3" valign="top" width="110">
 <p>Teneur totale en calcium, sources et quantités respectives de calcium. </p>
 </td>
-<td valign="top" width="102">
+<td rowspan="3" valign="top" width="102">
 <p>Dès les premiers signes de la parturition et jusqu'à deux jours après celle-ci. </p>
 </td>
 <td valign="top" width="141">
@@ -926,15 +966,11 @@ LISTE DES OBJECTIFS NUTRITIONNELS PARTICULIERS
 </td>
 </tr>
 <tr>
-<td valign="top" width="110"/>
-<td valign="top" width="102"/>
 <td valign="top" width="141">
 <p>- le mode d'emploi, c'est-à-dire le nombre d'applications et la durée avant et après le vêlage ;</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="110"/>
-<td valign="top" width="102"/>
 <td valign="top" width="141">
 <p>- la mention : "Avant utilisation, il est recommandé de demander l'avis d'un vétérinaire." </p>
 </td>
@@ -1018,7 +1054,7 @@ LISTE DES OBJECTIFS NUTRITIONNELS PARTICULIERS
 <p>Réduction du risque d'acidose.</p>
 </td>
 <td rowspan="3" valign="top" width="112">
-<p>Faible teneur en glucides très fermentescibles et haute capacité tampon</p>
+<p>Faible teneur en glucides très fermentescibles et haute capacité tampon.</p>
 </td>
 <td rowspan="3" valign="top" width="64">
 <p>Ruminants.</p>
@@ -1165,22 +1201,22 @@ LISTE DES OBJECTIFS NUTRITIONNELS PARTICULIERS
 <table>
 <tbody>
 <tr>
-<td rowspan="4" valign="top" width="113">
+<td rowspan="4" valign="top" width="114">
 <p>Atténuations des réactions au stress.</p>
 </td>
 <td valign="top" width="112">
 <p>Teneur en magnésium élevée,</p>
 </td>
-<td rowspan="4" valign="top" width="65">
+<td rowspan="4" valign="top" width="63">
 <p>Porcs.</p>
 </td>
-<td rowspan="2" valign="top" width="112">
+<td rowspan="2" valign="top" width="111">
 <p>Magnésium.</p>
 </td>
-<td rowspan="4" valign="top" width="98">
+<td rowspan="4" valign="top" width="103">
 <p>Un à sept jours.</p>
 </td>
-<td rowspan="4" valign="top" width="144">
+<td rowspan="4" valign="top" width="140">
 <p>Préciser les situations pour lesquelles l'utilisation de cet aliment est appropriée.</p>
 </td>
 </tr>
@@ -1193,47 +1229,47 @@ LISTE DES OBJECTIFS NUTRITIONNELS PARTICULIERS
 <td rowspan="2" valign="top" width="112">
 <p>Ingrédients très digestibles.</p>
 </td>
-<td valign="top" width="112">
+<td valign="top" width="111">
 <p>Ingrédients très digestibles incluant le traitement éventuel.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="112">
+<td valign="top" width="111">
 <p>Teneur en acides gras n-3 (si ajoutés).</p>
 </td>
 </tr>
 <tr>
-<td rowspan="7" valign="top" width="113">
+<td rowspan="7" valign="top" width="114">
 <p>Stabilisation de la digestion physiologique.</p>
 </td>
 <td rowspan="4" valign="top" width="112">
 <p>Faible capacité tampon et ingrédients très digestibles.</p>
 </td>
-<td rowspan="4" valign="top" width="65">
+<td rowspan="4" valign="top" width="63">
 <p>Porcelets.</p>
 </td>
-<td valign="top" width="112">
+<td valign="top" width="111">
 <p>Ingrédients très digestibles incluant leur traitement éventuel.</p>
 </td>
-<td rowspan="7" valign="top" width="98">
+<td rowspan="7" valign="top" width="103">
 <p>Deux à quatre semaines.</p>
 </td>
-<td rowspan="7" valign="top" width="144">
+<td rowspan="7" valign="top" width="140">
 <p>Indiquer sur l'emballage, le récipient ou l'étiquette : "En cas de risque de troubles digestifs, pendant et après ceux-ci." </p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="112">
+<td valign="top" width="111">
 <p>Capacité tampon.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="112">
+<td valign="top" width="111">
 <p>Sources des substances astringentes (si ajoutées).</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="112">
+<td valign="top" width="111">
 <p>Sources des substances mucilagineuses (si ajoutées).</p>
 </td>
 </tr>
@@ -1241,357 +1277,357 @@ LISTE DES OBJECTIFS NUTRITIONNELS PARTICULIERS
 <td rowspan="3" valign="top" width="112">
 <p>Ingrédients très digestibles.</p>
 </td>
-<td rowspan="3" valign="top" width="65">
+<td rowspan="3" valign="top" width="63">
 <p>Porcs.</p>
 </td>
-<td valign="top" width="112">
+<td valign="top" width="111">
 <p>Ingrédients très digestibles incluant leur traitement éventuel.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="112">
+<td valign="top" width="111">
 <p>Sources des substances astringentes (si ajoutées).</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="112">
+<td valign="top" width="111">
 <p>Sources des substances mucilagineuses (si ajoutées).</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="113">
+<td valign="top" width="114">
 <p>Réduction du risque de constipation.</p>
 </td>
 <td valign="top" width="112">
 <p>Ingrédients stimulant le transit intestinal.</p>
 </td>
-<td valign="top" width="65">
+<td valign="top" width="63">
 <p>Truies.</p>
 </td>
-<td valign="top" width="112">
+<td valign="top" width="111">
 <p>Ingrédients stimulant le transit intestinal.</p>
 </td>
-<td valign="top" width="98">
+<td valign="top" width="103">
 <p>Dix à quatorze jours avant et dix à quatorze jours après la mise bas.</p>
 </td>
-<td valign="top" width="144"/>
+<td valign="top" width="140"/>
 </tr>
 <tr>
-<td rowspan="3" valign="top" width="113">
+<td rowspan="3" valign="top" width="114">
 <p>Réduction du risque du syndrome de la stéatose hépatique.</p>
 </td>
 <td rowspan="3" valign="top" width="112">
 <p>Faible niveau d'énergie et proportion élevée d'énergie métabolisable provenant des lipides avec teneur élevée en acides gras polyinsaturés.</p>
 </td>
-<td rowspan="3" valign="top" width="65">
+<td rowspan="3" valign="top" width="63">
 <p>Poules pondeuses.</p>
 </td>
-<td valign="top" width="112">
+<td valign="top" width="111">
 <p>Valeur énergétique (calculée selon l'arrêté du 16 mars 1989 portant application du décret n° 86-1037).</p>
 </td>
-<td rowspan="3" valign="top" width="98">
+<td rowspan="3" valign="top" width="103">
 <p>Jusqu'à douze semaines.</p>
 </td>
-<td rowspan="3" valign="top" width="144"/>
+<td rowspan="3" valign="top" width="140"/>
 </tr>
 <tr>
-<td valign="top" width="112">
+<td valign="top" width="111">
 <p>Pourcentage d'énergie métabolisable provenant des lipides.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="112">
+<td valign="top" width="111">
 <p>Teneur en acides gras polyinsaturés.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="5" valign="top" width="113">
+<td rowspan="5" valign="top" width="114">
 <p>Compensation de la malabsorption.</p>
 </td>
 <td rowspan="5" valign="top" width="112">
 <p>Faible teneur en acides gras saturés et teneur élevée en vitamines liposolubles.</p>
 </td>
-<td rowspan="5" valign="top" width="65">
+<td rowspan="5" valign="top" width="63">
 <p>Volaille, à l'exclusion des oies et des pigeons.</p>
 </td>
-<td valign="top" width="112">
+<td valign="top" width="111">
 <p>Pourcentage d'acides gras saturés par rapport aux acides gras totaux.</p>
 </td>
-<td rowspan="5" valign="top" width="98">
+<td rowspan="5" valign="top" width="103">
 <p>Pendant les deux premières semaines après éclosion.</p>
 </td>
-<td rowspan="5" valign="top" width="144"/>
+<td rowspan="5" valign="top" width="140"/>
 </tr>
 <tr>
-<td valign="top" width="112">
+<td valign="top" width="111">
 <p>Vitamine A totale.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="112">
+<td valign="top" width="111">
 <p>Vitamine D totale.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="112">
+<td valign="top" width="111">
 <p>Vitamine E totale.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="112">
+<td valign="top" width="111">
 <p>Vitamine K totale.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" valign="top" width="113">
+<td rowspan="2" valign="top" width="114">
 <p>Compensation de l'insuffisance chronique de la fonction de l'intestin grêle.</p>
 </td>
 <td rowspan="2" valign="top" width="112">
 <p>Glucides, protéines et matières grasses à digestibilité précaecale élevée.</p>
 </td>
-<td rowspan="2" valign="top" width="65">
+<td rowspan="2" valign="top" width="63">
 <p>Equidés (13).</p>
 </td>
-<td rowspan="2" valign="top" width="112">
+<td rowspan="2" valign="top" width="111">
 <p>Ingrédients sources de glucides, de protéines et de matières grasses à digestibilité élevée, incluant le traitement éventuel.</p>
 </td>
-<td rowspan="2" valign="top" width="98">
+<td rowspan="2" valign="top" width="103">
 <p>Au départ, jusqu'à six mois.</p>
 </td>
-<td valign="top" width="144">
+<td valign="top" width="140">
 <p>Préciser les situations pour lesquelles l'utilisation de l'aliment est appropriée et le mode de distribution, en indiquant si plusieurs petits repas par jour sont nécessaires.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="144">
+<td valign="top" width="140">
 <p>Indiquer sur l'emballage, le récipient ou l'étiquette : "Avant utilisation ou avant prolongation de la période d'utilisation, il est recommandé de demander l'avis d'un vétérinaire."</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" valign="top" width="113">
+<td rowspan="2" valign="top" width="114">
 <p>Compensation de troubles digestifs chroniques du gros intestin.</p>
 </td>
 <td rowspan="2" valign="top" width="112">
 <p>Fibre très digestible.</p>
 </td>
-<td rowspan="2" valign="top" width="65">
+<td rowspan="2" valign="top" width="63">
 <p>Equidés.</p>
 </td>
-<td valign="top" width="112">
+<td valign="top" width="111">
 <p>Sources de fibres.</p>
 </td>
-<td rowspan="2" valign="top" width="98">
+<td rowspan="2" valign="top" width="103">
 <p>Au départ, jusqu'à six mois</p>
 </td>
-<td valign="top" width="144">
+<td valign="top" width="140">
 <p>Préciser les situations pour lesquelles l'utilisation de l'aliment est appropriée et le mode de distribution.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="112">
+<td valign="top" width="111">
 <p>Teneur en acides gras n-3 (si ajoutés).</p>
 </td>
-<td valign="top" width="144">
+<td valign="top" width="140">
 <p>Indiquer sur l'emballage, le récipient ou l'étiquette : "Avant utilisation ou avant prolongation de la période d'utilisation, il est recommandé de demander l'avis d'un vétérinaire."</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" valign="top" width="113">
+<td rowspan="3" valign="top" width="114">
 <p>Atténuation des réactions au stress.</p>
 </td>
 <td rowspan="3" valign="top" width="112">
 <p>Ingrédients très digestibles.</p>
 </td>
-<td rowspan="3" valign="top" width="65">
+<td rowspan="3" valign="top" width="63">
 <p>Equidés.</p>
 </td>
-<td valign="top" width="112">
+<td valign="top" width="111">
 <p>Magnésium.</p>
 </td>
-<td rowspan="3" valign="top" width="98">
+<td rowspan="3" valign="top" width="103">
 <p>Deux à quatre semaines.</p>
 </td>
-<td rowspan="3" valign="top" width="144">
+<td rowspan="3" valign="top" width="140">
 <p>Indiquer les situations précises pour lesquelles l'utilisation de l'aliment est appropriée.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="112">
+<td valign="top" width="111">
 <p>Ingrédients très digestibles, le cas échéant traités.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="112">
+<td valign="top" width="111">
 <p>Teneur en acides gras n-3 (si ajoutés).</p>
 </td>
 </tr>
 <tr>
-<td rowspan="6" valign="top" width="113">
+<td rowspan="6" valign="top" width="114">
 <p>Compensation de la perte d'électrolytes en cas de forte sudation.</p>
 </td>
 <td rowspan="6" valign="top" width="112">
 <p>Principalement électrolytes et glucides facilement assimilables.</p>
 </td>
-<td rowspan="6" valign="top" width="65">
+<td rowspan="6" valign="top" width="63">
 <p>Equidés.</p>
 </td>
-<td valign="top" width="112">
+<td valign="top" width="111">
 <p>Calcium.</p>
 </td>
-<td rowspan="6" valign="top" width="98">
+<td rowspan="6" valign="top" width="103">
 <p>Un à trois jours.</p>
 </td>
-<td valign="top" width="144">
+<td valign="top" width="140">
 <p>Préciser les situations pour lesquelles l'utilisation de l'aliment est appropriée.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="112">
+<td valign="top" width="111">
 <p>Sodium.</p>
 </td>
-<td valign="top" width="144">
+<td valign="top" width="140">
 <p>Dans le cas où l'aliment intervient pour une part importante dans la ration journalière, des conseils doivent être donnés pour prévenir le risque lié à une modification brutale de la nature de l'alimentation.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="112">
+<td valign="top" width="111">
 <p>Magnésium.</p>
 </td>
-<td rowspan="4" valign="top" width="144">
+<td rowspan="4" valign="top" width="140">
 <p>Indiquer dans le mode d'emploi : "Eau disponible en permanence."</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="112">
+<td valign="top" width="111">
 <p>Potassium.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="112">
+<td valign="top" width="111">
 <p>Chlorures.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="112">
+<td valign="top" width="111">
 <p>Glucose.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" valign="top" width="113">
+<td rowspan="2" valign="top" width="114">
 <p>Récupération nutritionnelle, convalescence.</p>
 </td>
 <td rowspan="2" valign="top" width="112">
 <p>Teneur élevée en nutriments essentiels et ingrédients très disgestibles.</p>
 </td>
-<td rowspan="2" valign="top" width="65">
+<td rowspan="2" valign="top" width="63">
 <p>Equidés.</p>
 </td>
-<td valign="top" width="112">
+<td valign="top" width="111">
 <p>Ingrédients très digestibles, le cas échéant traités.</p>
 </td>
-<td rowspan="2" valign="top" width="98">
+<td rowspan="2" valign="top" width="103">
 <p>Jusqu'à récupération complète.</p>
 </td>
-<td valign="top" width="144">
+<td valign="top" width="140">
 <p>Préciser les situations pour lesquelles l'utilisation de l'aliment est appropriée.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="112">
+<td valign="top" width="111">
 <p>Teneur en acides gras n-3 et n-6 (si ajoutés).</p>
 </td>
-<td valign="top" width="144">
+<td valign="top" width="140">
 <p>Dans le cas d'aliments spécialement présentés pour être administrés par intubation, indiquer sur l'emballage, le récipient ou l'étiquette : "Administration sous surveillance vétérinaire."</p>
 </td>
 </tr>
 <tr>
-<td rowspan="5" valign="top" width="113">
+<td rowspan="5" valign="top" width="114">
 <p>Soutien de la fonction hépatique en cas d'insuffisance hépatique chronique.</p>
 </td>
 <td rowspan="5" valign="top" width="112">
 <p>Faible teneur en protéines mais protéines de qualité élevée et glucides très digestibles.</p>
 </td>
-<td rowspan="5" valign="top" width="65">
+<td rowspan="5" valign="top" width="63">
 <p>Equidés.</p>
 </td>
-<td valign="top" width="112">
+<td valign="top" width="111">
 <p>Sources de protéines et de fibres.</p>
 </td>
-<td rowspan="5" valign="top" width="98">
+<td rowspan="5" valign="top" width="103">
 <p>Au départ jusqu'à six mois.</p>
 </td>
-<td valign="top" width="144">
+<td valign="top" width="140">
 <p>Préciser le mode de distribution en indiquant si plusieurs petits repas par jour sont nécessaires.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="112">
+<td valign="top" width="111">
 <p>Glucides très digestibles, le cas échéant traités.</p>
 </td>
-<td rowspan="4" valign="top" width="144">
+<td rowspan="4" valign="top" width="140">
 <p>Indiquer sur l'emballage, le récipient ou l'étiquette : "Avant utilisation ou avant prolongation de la période d'utilisation, il est recommandé de demander l'avis d'un vétérinaire."</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="112">
+<td valign="top" width="111">
 <p>Méthionine.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="112">
+<td valign="top" width="111">
 <p>Choline.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="112">
+<td valign="top" width="111">
 <p>Teneur en acides gras n-3 (si ajoutés).</p>
 </td>
 </tr>
 <tr>
-<td rowspan="6" valign="top" width="113">
+<td rowspan="6" valign="top" width="114">
 <p>Soutien de la fonction rénale en cas d'insuffisance rénale chronique.</p>
 </td>
 <td rowspan="6" valign="top" width="112">
 <p>Faible teneur en protéines, mais protéines de qualité élevée et faible teneur en phosphore.</p>
 </td>
-<td rowspan="6" valign="top" width="65">
+<td rowspan="6" valign="top" width="63">
 <p>Equidés.</p>
 </td>
-<td valign="top" width="112">
+<td valign="top" width="111">
 <p>Sources de protéines.</p>
 </td>
-<td rowspan="6" valign="top" width="98">
+<td rowspan="6" valign="top" width="103">
 <p>Au départ jusqu'à six mois.</p>
 </td>
-<td valign="top" width="144">
-<p>Indiquer sur l'emballage, le récipient ou l'étiquette : "Avant utilisation ou avant prolongation de la période d'utilisation, il est recommandé de demander l'avis d'un vétérinaire. </p>
+<td valign="top" width="140">
+<p>Indiquer sur l'emballage, le récipient ou l'étiquette : "Avant utilisation ou avant prolongation de la période d'utilisation, il est recommandé de demander l'avis d'un vétérinaire."</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="112">
+<td valign="top" width="111">
 <p>Calcium.</p>
 </td>
-<td rowspan="5" valign="top" width="144">
-<p>Indiquer dans le mode d'emploi : "Eau disponible en permanence." </p>
+<td rowspan="5" valign="top" width="140">
+<p>Indiquer dans le mode d'emploi : "Eau disponible en permanence."</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="112">
-<p>Phosphore,</p>
+<td valign="top" width="111">
+<p>Phosphore.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="112">
+<td valign="top" width="111">
 <p>Potassium.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="112">
+<td valign="top" width="111">
 <p>Magnésium.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="112">
+<td valign="top" width="111">
 <p>Sodium.</p>
 </td>
 </tr>
