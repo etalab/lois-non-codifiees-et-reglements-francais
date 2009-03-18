@@ -1,0 +1,17 @@
+# Article 1
+
+L'administration centrale des ministères de l'éducation nationale et de l'enseignement supérieur et de la recherche comprend :
+
+I. - Au titre des ministères de l'éducation nationale et de l'enseignement supérieur et de la recherche, outre l'inspection générale de l'administration de l'éducation nationale et de la recherche, le médiateur de l'éducation nationale et de l'enseignement supérieur, le haut fonctionnaire de défense et de sécurité et les bureaux des cabinets qui sont directement rattachés aux ministres :
+
+- le secrétariat général.
+
+II. - Au titre du ministère de l'éducation nationale, outre l'inspection générale de l'éducation nationale directement rattachée au ministre :
+
+- la direction générale de l'enseignement scolaire.
+
+III. - Au titre du ministère de l'enseignement supérieur et de la recherche, outre l'inspection générale des bibliothèques et la délégation aux usages de l'internet, directement rattachées au ministre :
+
+- la direction générale pour l'enseignement supérieur et l'insertion professionnelle ;
+
+- la direction générale pour la recherche et l'innovation.
