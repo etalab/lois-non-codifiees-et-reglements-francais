@@ -240,7 +240,7 @@
 </td>
 </tr>
 <tr>
-<td rowspan="18" valign="top" width="151">
+<td rowspan="19" valign="top" width="151">
 <p>3. Fluor (c).</p>
 </td>
 <td valign="top" width="340">
@@ -324,7 +324,7 @@
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>- contenant &gt; 4 % de phosphore ;</p>
+<p>- contenant &gt; 4 % de phosphore.</p>
 </td>
 <td valign="top" width="151">
 <p align="center">125 pour 1 % de phosphore</p>
@@ -340,7 +340,7 @@
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>- aliments complets pour bovins, ovins et caprins.</p>
+<p>- aliments complets pour bovins, ovins et caprins :</p>
 </td>
 <td valign="top" width="151">
 <br/>
@@ -348,7 +348,7 @@
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>- - en lactation.</p>
+<p>- en lactation ;</p>
 </td>
 <td valign="top" width="151">
 <p align="center">30</p>
@@ -356,7 +356,7 @@
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>- - autres.</p>
+<p>- autres ;</p>
 </td>
 <td valign="top" width="151">
 <p align="center">50</p>
@@ -364,7 +364,7 @@
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>- aliments complets pour porcs.</p>
+<p>- aliments complets pour porcs ;</p>
 </td>
 <td valign="top" width="151">
 <p align="center">100</p>
@@ -372,7 +372,7 @@
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>- aliments complets pour volaille.</p>
+<p>- aliments complets pour volaille ;</p>
 </td>
 <td valign="top" width="151">
 <p align="center">350</p>
@@ -380,10 +380,18 @@
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>- aliments complets pour poussins.</p>
+<p>- aliments complets pour poussins ;</p>
 </td>
 <td valign="top" width="151">
 <p align="center">250</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>- aliments complets pour poissons.</p>
+</td>
+<td valign="top" width="151">
+<p align="center">350</p>
 </td>
 </tr>
 <tr>
@@ -484,7 +492,7 @@
 <td valign="top" width="340">
 <p>Aliments complets, à l'exception de :</p>
 </td>
-<td rowspan="2" valign="top" width="151">
+<td rowspan="2" width="151">
 <p align="center">15 (exprimé en nitrite de sodium)</p>
 </td>
 </tr>
@@ -912,7 +920,8 @@
 </tr>
 <tr>
 <td valign="top" width="151">
-<p>8. Graines de mauvaises herbes et fruits non moulus ni broyés contenant des alcaloïdes, des glucocides ou autres substances toxiques, isolément ou ensemble, dont :</p>
+<p>8. Graines de mauvaises herbes et fruits non moulus ni broyés contenant des alcaloïdes, des glucosides ou autres substances toxiques, isolément ou ensemble :</p>
+<br/>
 </td>
 <td valign="top" width="340">
 <p>Tous les aliments</p>
@@ -923,29 +932,11 @@
 </tr>
 <tr>
 <td valign="top" width="151">
-<p>a) Lolium temulentum L.</p>
+<p>Datura stramonium L.</p>
 </td>
 <td valign="top" width="340"/>
 <td valign="top" width="151">
 <p align="center">1 000</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="151">
-<p>b) Lolium remotum Schrank.</p>
-</td>
-<td valign="top" width="340"/>
-<td valign="top" width="151">
-<p align="center">1 000</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="151">
-<p>c) Datura stramonium L.</p>
-</td>
-<td valign="top" width="340"/>
-<td valign="top" width="151">
-<br/>
 </td>
 </tr>
 <tr>
@@ -1049,10 +1040,10 @@
 </tr>
 <tr>
 <td rowspan="2" valign="top" width="151">
-<p>15. DDT (somme des isomères de DDT, TDE et DDE, calculée sous forme de DDT).</p>
+<p>15. DDT (somme des isomères de DDT, DDD [ou TDE] et DDE, calculée sous forme de DDT).</p>
 </td>
 <td valign="top" width="340">
-<p>Tous les aliments, à l'exception :</p>
+<p>Tous les aliments à l'exception :</p>
 </td>
 <td valign="top" width="151">
 <p align="center">0,05</p>
@@ -1473,28 +1464,13 @@
 </tr>
 <tr>
 <td valign="top" width="151">
-<p>1. Abricots-Prunus armeniaca L.</p>
-</td>
-<td rowspan="12" width="340">
-<p>Tous les aliments</p>
-</td>
-<td rowspan="12" width="151">
-<p align="center">Les graines et fruits et dérivés de leur transformation des espèces végétales ci-contre ne peuvent se trouver dans les aliments des animaux qu'en quantité indécelable.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="151">
-<p>2. Amande amère -Prunus dulcis (Mill.) DA Webb var. amara (DC.) Focke (= Prunus amygdalus Batsch var. Amara (DC.) Focke).</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="151">
 <p>3. Faîne non décortiquée -Fagus silvatica (L.).</p>
 </td>
-</tr>
-<tr>
-<td valign="top" width="151">
-<p>4. Cameline-Camelina sativa (L.) Crantz.</p>
+<td rowspan="9" width="340">
+<p>Tous les aliments</p>
+</td>
+<td rowspan="9" width="151">
+<p>Les graines et fruits et dérivés de leur transformation des espèces végétales ci-contre ne peuvent se trouver dans les aliments des animaux qu'en quantité indécelable.</p>
 </td>
 </tr>
 <tr>
