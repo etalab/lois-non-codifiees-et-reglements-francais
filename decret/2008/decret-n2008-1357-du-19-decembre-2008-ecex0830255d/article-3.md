@@ -1,6 +1,6 @@
 # Article 3
 
-L'aide est accordée pour les gains et rémunérations versés aux salariés dont le contrat de travail est à durée indéterminée ou a été conclu en application de l'article L. 1242-2 du code du travail pour une durée supérieure à un mois.
+L'aide est accordée pour les gains et rémunérations versés aux salariés dont le contrat de travail est à durée indéterminée ou a été conclu en application        des articles L. 1242-2 ou L. 1242-3 du code du travail pour une durée supérieure à un mois.
 
 Est considéré comme une embauche au sens de l'article 1er du présent décret le renouvellement d'un contrat à durée déterminée pour une durée supérieure à un mois ou la transformation d'un contrat à durée déterminée en contrat à durée indéterminée.
 

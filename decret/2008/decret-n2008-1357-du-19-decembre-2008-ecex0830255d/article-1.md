@@ -1,6 +1,6 @@
 # Article 1
 
-Les entreprises de moins de dix salariés peuvent demander le bénéfice d'une aide de l'Etat à l'embauche pour les embauches réalisées à compter du 4 décembre 2008, au titre des gains et rémunérations versés pour les mois de janvier 2009 à décembre 2009 ouvrant droit à la réduction prévue à l'article L. 241-13 du code de la sécurité sociale.
+Les entreprises de moins de dix salariés peuvent demander le bénéfice d'une aide de l'Etat à l'embauche pour les embauches réalisées à compter du 4 décembre 2008, au titre des gains et rémunérations versés pour les mois de janvier 2009 à décembre 2009  et dans le champ d'éligibilité de la réduction prévue à l'article L. 241-13 du code de la sécurité sociale.
 
 L'effectif de l'entreprise est apprécié au 30 novembre 2008, tous établissements confondus, en fonction de la moyenne, au cours des onze premiers mois de 2008, des effectifs déterminés chaque mois.
 
