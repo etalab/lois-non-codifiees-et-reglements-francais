@@ -1,0 +1,3 @@
+# Article 1
+
+Jusqu'au 4 juillet 2011, le personnel d'un opérateur est considéré comme détenant l'attestation d'aptitude prévue au 1° de l'article R. 543-106 du code de l'environnement à condition qu'il justifie avoir acquis avant le 4 juillet 2008 une expérience dans l'une des catégories d'activités telles que définies à l'annexe I de l'arrêté du 30 juin 2008 susvisé ou qu'il a suivi une des formations figurant dans la liste II de l'avis susvisé et à condition que l'opérateur s'engage sur l'honneur à présenter avant le 1er janvier 2011 un échéancier prévisionnel des évaluations d'aptitude de son personnel.
