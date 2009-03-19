@@ -6,8 +6,6 @@ Cette liste indique, de manière séparée, les marchés relatifs aux travaux, a
 
 Pour chacun de ces trois types de prestations, les marchés sont regroupés en fonction de leur prix selon les tranches suivantes :
 
-― 4 000 euros HT à 19 999,99 euros HT ;
-
 ― 20 000 euros HT à 49 999,99 euros HT ;
 
 ― 50 000 euros HT à 89 999,99 euros HT ;
