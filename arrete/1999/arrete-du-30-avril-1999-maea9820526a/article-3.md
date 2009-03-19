@@ -16,8 +16,6 @@ Allemagne
 
 Centre Marc-Bloch (Berlin).
 
-Mission historique française de Göttingen.
-
 Chine
 
 Centre d'études françaises sur la Chine contemporaine (Hong-Kong).
@@ -140,23 +138,7 @@ Allemagne
 
 Centre culturel et de coopération linguistique de Berlin.
 
-Centre culturel et de coopération linguistique de Brême.
-
-Centre culturel et de coopération linguistique de Düsseldorf.
-
-Centre culturel et de coopération linguistique de Francfort.
-
-Centre culturel et de coopération linguistique de Hambourg.
-
-Centre culturel et de coopération linguistique de Leipzig.
-
-Centre culturel et de coopération linguistique de Mayence.
-
-Centre culturel et de coopération linguistique de Munich.
-
 Institut français de Rostock.
-
-Centre culturel et de coopération linguistique de Stuttgart.
 
 Argentine
 
@@ -539,8 +521,6 @@ Centre d'études Saint-Louis-de-France (Rome).
 Sénégal
 
 Institut français Léopold Sédar Senghor.
-
-Institut français Jean Mermoz.
 
 Serbie
 
