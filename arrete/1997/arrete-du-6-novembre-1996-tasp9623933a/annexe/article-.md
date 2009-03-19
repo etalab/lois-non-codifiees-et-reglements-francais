@@ -58,9 +58,7 @@ III. - Règles spécifiques
 
 1. Greffe simultanée de deux organes différents
 
-1.1. Un receveur inscrit sur la liste nationale d'attente en vue de la greffe simultanée d'organes différents dont l'un est le coeur, le poumon ou le foie est prioritaire à l'échelon interrégional.
-
-1.2. Pour les greffes du bloc coeur-poumons, voir au chapitre 2.
+1.1. Un receveur inscrit sur la liste nationale d'attente en vue de la greffe simultanée d'organes différents dont l'un est le cœur ou le poumon est prioritaire à l'échelon interrégional.1.2. Pour les greffes du bloc coeur-poumons, voir au chapitre 2.
 
 1.3. En cas de proposition pour greffe simultanée de deux organes différents dont l'un est un rein et l'autre un coeur-poumons, un poumon, un coeur ou un foie, ce sont les règles de répartition et d'attribution de l'organe dont la durée d'ischémie est la plus courte qui s'appliquent : coeur-poumons, poumon, coeur ou foie.
 
@@ -76,29 +74,23 @@ III. - Règles spécifiques
 
 2.3. Une règle d'attribution prioritaire des greffons cardiaques, pulmonaires ou cardio-pulmonaires à l'échelon interrégional, pour des malades dont la vie est menacée à très court terme, doit être approuvée par l'Agence de la biomédecine. Pour ces malades, une dérogation à la règle décrite au point II.10 est possible, selon des modalités définies par l'Agence de la biomédecine qui comportent le recours au collège d'experts.
 
-2.3. les enfants de moins de 16 ans sont prioritaires à l'échelon national selon des modalités définies par l'Agence de la biomédecine et tenant compte du poids et de l'âge du donneur
-
 2.4. Pour les malades pour lesquels la probabilité d'accès à un greffon apparié est faible, une dérogation à la règle décrite au point II.10 est possible, selon des modalités définies par l'Agence de la biomédecine qui comportent le recours au collège d'experts.
 
 2.5. Si le coeur et les poumons ne trouvent pas de receveur à l'échelon local, ils sont proposés aux autres équipes de l'interrégion avec une priorité pour le bloc coeur-poumons. En l'absence d'acceptation du coeur et des poumons dans l'interrégion, ils sont proposés à l'échelon national avec priorité pour le bloc coeur-poumons.
 
 3. Greffons hépatiques
 
-3.1. Les malades dont la vie est menacée à très court terme du fait d'une hépatite fulminante, d'une forme suraiguë de maladie de Wilson ou parce qu'une retransplantation est jugée nécessaire dans les huit jours suivant la greffe précédente sont prioritaires à l'échelon national. Dans ce cas, il peut être dérogé à la règle décrite au point II-10.
+3.1. Les malades dont la vie est menacée à très court terme du fait d'une hépatite fulminante, d'une forme suraiguë de maladie de Wilson ou parce qu'une retransplantation est jugée nécessaire dans les huit jours suivant la greffe précédente sont prioritaires à l'échelon national. Les enfants âgés de moins de dix-huit ans, chez lesquels, du fait de l'urgence, la probabilité d'obtention d'un greffon dans un délai convenable est très faible et qui s'inscrivent dans les catégories suivantes sont prioritaires à l'échelon interrégional : nécrose ischémique dans l'atrésie des voies biliaires, présentation aiguë de certaines maladies métaboliques, défaillance fonctionnelle rapide d'un greffon précédent.
+
+Dans ce cas, il peut être dérogé à la règle décrite au point II-10.
 
 La possibilité d'inscription dans cette catégorie prioritaire est offerte selon des modalités définies par l'Agence de la biomédecine qui comportent le recours au collège d'experts.
 
 3.2. Les enfants de moins de dix-huit ans sont prioritaires à l'échelon national selon des modalités définies par l'Agence de la biomédecine et à l'échelon interrégional pour les greffons prélevés chez des donneurs de moins de trente ans à condition que le greffon soit partagé.
 
-3.3. Les malades chez lesquels, du fait de l'urgence, la probabilité d'obtention d'un greffon dans un délai convenable est très faible et qui s'inscrivent dans les catégories suivantes sont prioritaires à l'échelon interrégional : nécrose ischémique dans l'atrésie des voies biliaires ; présentation aiguë de certaines maladies métaboliques ; défaillance fonctionnelle rapide d'un greffon précédent.
+3.3. Pour les malades pour lesquels la probabilité d'accès à un greffon apparié est faible, une dérogation à la règle décrite au point II.10 est possible, selon des modalités définies par l'Agence de la biomédecine qui comportent le recours au collège d'experts.
 
-L'inscription dans ces catégories prioritaires est faite selon des modalités définies par l'Agence de la biomédecine et qui comportent le recours au collège d'experts. Dans ce cas, il peut être dérogé à la règle décrite au point II-10.
-
-3.3. Les enfants de moins de seize ans sont prioritaires à l'échelon national pour les greffons prélevés chez les donneurs de moins de seize ans et pour les greffons prélevés chez les donneurs de moins de trente ans à condition que le greffon soit partagé.
-
-3.4. Pour les malades pour lesquels la probabilité d'accès à un greffon apparié est faible, une dérogation à la règle décrite au point II.10 est possible, selon des modalités définies par l'Agence de la biomédecine qui comportent le recours au collège d'experts.
-
-3.5. Si un greffon ne trouve pas receveur à l'échelon local, les autres équipes de l'interrégion et des autres interrégions sont appelées suivant des modalités définies par l'Agence de la biomédecine.
+3.4. Si un greffon ne trouve pas receveur à l'échelon local, les autres équipes de l'interrégion et des autres interrégions sont appelées suivant des modalités définies par l'Agence de la biomédecine.
 
 4. Greffons rénaux.
 
