@@ -1,6 +1,6 @@
 # Article 413-35-1
 
-Par dérogation à l'article 411-35, un OPCVM contractuel né de la scission d'un autre OPCVM peut être ouvert à tout porteur de parts ou actionnaire de l'OPCVM scindé lorsque les conditions suivantes sont réunies :
+Par dérogation à l'article 413-35, un OPCVM contractuel né de la scission d'un autre OPCVM peut être ouvert à tout porteur de parts ou actionnaire de l'OPCVM scindé lorsque les conditions suivantes sont réunies :
 
 1° La scission est réalisée en vue d'isoler certains actifs qui, s'ils étaient maintenus dans l'OPCVM scindé, ne permettraient pas à ce dernier de remplir ses obligations en matière de rachat dans des conditions conformes à l'intérêt des porteurs ou actionnaires ;
 
