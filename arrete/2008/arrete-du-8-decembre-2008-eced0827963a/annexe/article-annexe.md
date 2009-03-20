@@ -60,15 +60,17 @@ I.-A l'issue de la session de validation, le jury dresse un procès-verbal sign�
 
 II.-A l'issue de la session de validation, les membres du binôme d'évaluateurs établissent et signent un procès-verbal sur lequel figurent les décisions d'attribution ou de refus des certificats de compétences professionnelles.
 
+III. - Les résultats de la délibération du jury ou du binôme d'évaluateurs sont communiqués sous forme orale ou écrite à chaque candidat par le jury ou le centre organisateur à l'issue de la session de validation. Cette restitution ne préjuge pas de la décision du directeur départemental du travail, de l'emploi et de la formation professionnelle.
+
 3. 2. Information de l'autorité administrative et notification des résultats.
 
 Les procès-verbaux des sessions de validation sont remis par le jury ou le binôme d'évaluateurs au responsable du centre organisateur ou à son représentant dûment habilité.
 
-Le responsable du centre organisateur adresse les procès-verbaux originaux au directeur départemental du travail, de l'emploi et de la formation professionnelle. Celui-ci les enregistre, leur attribue un numéro d'ordre et en adresse une copie au centre organisateur.
+Le responsable du centre organisateur adresse les procès-verbaux originaux au directeur départemental du travail, de l'emploi et de la formation professionnelle.
 
-Dès réception des copies des procès-verbaux revêtus du cachet du directeur départemental du travail, de l'emploi et de la formation professionnelle, le responsable du centre organisateur établit la liste des candidats admis par catégorie de certifications (TP, CCS, CCP) et notifie les résultats aux candidats.
+Sur le fondement de ces procès-verbaux et après vérification de la conformité des conditions de déroulement de la session de validation aux dispositions les régissant, le directeur départemental du travail, de l'emploi et de la formation professionnelle établit et signe au nom du ministre chargé de l'emploi les titres professionnels, les certificats complémentaires de spécialisation ainsi que les livrets de certification relatifs aux certificats de compétences professionnelles et les adresse aux candidats concernés. Il notifie également leurs résultats aux candidats n'ayant validé ni le titre professionnel ou certificat complémentaire de spécialisation, ni aucun certificat de compétences professionnelles. Il adresse au centre organisateur les copies des procès-verbaux revêtus de son cachet.
 
-Le directeur départemental du travail, de l'emploi et de la formation professionnelle établit et signe au nom du ministre chargé de l'emploi les titres professionnels, les certificats complémentaires de spécialisation ainsi que les livrets de certification relatifs aux certificats de compétences professionnelles et les adresse aux candidats concernés.
+Dès réception de ces copies, le responsable du centre organisateur affiche la liste des candidats admis par catégorie de certifications (titre professionnel, certificat complémentaire de spécialisation, certificat de compétences professionnelles).
 
 4. Conservation des procès-verbaux
 
