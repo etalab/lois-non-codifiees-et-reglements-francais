@@ -70,7 +70,7 @@ RÉPARTITION DES RESSORTS DES TRIBUNAUX ADMINISTRATIFS PAR ORGANISMES
 <td align="center">
 <br/>Direction du commissariat de la marine à Toulon.</td>
 <td align="center">
-<br/>Bastia, Marseille, Montpellier, Nice, Nîmes.</td>
+<br/>Bastia, Marseille, Montpellier, Nice, Nîmes, Toulon.</td>
 </tr>
 <tr>
 <td align="center">
