@@ -80,7 +80,6 @@
 - [Décret n°77-286 du 24 mars 1977](decret-n77-286-du-24-mars-1977)
 - [Décret n°77-907 du 27 juillet 1977](decret-n77-907-du-27-juillet-1977)
 - [Décret n°78-117 du 27 janvier 1978](decret-n78-117-du-27-janvier-1978)
-- [Décret n°77-699 du 27 mai 1977](decret-n77-699-du-27-mai-1977)
 - [Décret n°77-1477 du 28 décembre 1977](decret-n77-1477-du-28-decembre-1977)
 - [Décret n°77-307 du 28 mars 1977](decret-n77-307-du-28-mars-1977)
 - [Décret n°77-363 du 28 mars 1977](decret-n77-363-du-28-mars-1977)
