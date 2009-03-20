@@ -1,6 +1,6 @@
 # Article 4
 
-Indépendamment des autorités judiciaires, des officiers de police judiciaire agissant en application des dispositions du code de procédure pénale et des agents de la direction générale des impôts et de la direction de la comptabilité publique sont autorisés, dans la limite des dérogations à la règle du secret professionnel prévues par la loi, à demander et à recevoir communication des informations gérées par le fichier des comptes bancaires et assimilés :
+Indépendamment des autorités judiciaires, des officiers de police judiciaire agissant en application des dispositions du code de procédure pénale et des agents de la direction générale des finances publiques sont autorisés, dans la limite des dérogations à la règle du secret professionnel prévues par la loi, à demander et à recevoir communication des informations gérées par le fichier des comptes bancaires et assimilés :
 
 -les agents de la direction générale des douanes et des droits indirects, en vertu des articles 64 A et 455 du code des douanes et L. 134 du livre des procédures fiscales ;
 
@@ -22,7 +22,7 @@ Indépendamment des autorités judiciaires, des officiers de police judiciaire a
 
 -les huissiers de justice chargés par le créancier de former une demande de paiement direct d'une pension alimentaire, visés à l'article L. 151 du livre des procédures fiscales, ou qui agissent aux fins d'assurer l'exécution d'un titre exécutoire visé par l'article L. 151 A du livre des procédures fiscales ;
 
--les organismes et services chargés de la gestion d'un régime obligatoire de sécurité sociale, la direction générale de la comptabilité publique et les institutions de retraite complémentaire chargées de déterminer l'assiette, le montant et le recouvrement des cotisations et contributions, visées à l'article L. 152 du livre des procédures fiscales susvisé ;
+-les organismes et services chargés de la gestion d'un régime obligatoire de sécurité sociale, la direction générale des finances publique et les institutions de retraite complémentaire chargées de déterminer l'assiette, le montant et le recouvrement des cotisations et contributions, visées à l'article L. 152 du livre des procédures fiscales susvisé ;
 
 -les organismes débiteurs de prestations familiales chargés de poursuivre le recouvrement des créances alimentaires impayées, visés à l'article L. 162 A du livre des procédures fiscales ;
 
@@ -32,4 +32,6 @@ Indépendamment des autorités judiciaires, des officiers de police judiciaire a
 
 -les agents comptables du budget annexe de l'aviation civile en vertu de l'article L. 81, troisième alinéa, du livre des procédures fiscales ;
 
--le Fonds de garantie des victimes des actes de terrorisme et d'autres infractions (FGA) visé par l'article L. 135 M du livre des procédures fiscales.
+-le Fonds de garantie des victimes des actes de terrorisme et d'autres infractions (FGA) visé par l'article L. 135 M du livre des procédures fiscales ;
+
+-les établissements bancaires en application de l'article L. 166 A du livre des procédures fiscales.

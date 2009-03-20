@@ -14,13 +14,13 @@ Pour les personnes morales, leur dénomination ou raison sociale, forme juridiqu
 
 Les informations d'état civil des personnes physiques (nom, prénom, date et lieu de naissance, sexe) font l'objet de demandes de certification auprès de l'Institut national de la statistique et des études économiques (INSEE). En retour, l'INSEE certifie ou infirme l'état civil de la personne sans communiquer à cette occasion le numéro d'inscription au Répertoire national d'identification des personnes physiques.
 
-L'INSEE communique également à la direction générale des impôts (DGI) toute modification affectant les éléments d'état civil précités des personnes physiques ayant fait antérieurement l'objet d'une certification ainsi que les décès.
+L'INSEE communique également à la direction générale des finances publiques toute modification affectant les éléments d'état civil précités des personnes physiques ayant fait antérieurement l'objet d'une certification ainsi que les décès.
 
-La DGI utilise le fichier SIRENE pour certifier les éléments d'identification des personnes morales et intégrer les modifications éventuelles (changement de dénomination ou de raison sociale, d'adresse ou de siège social, de forme juridique ; cession, cessation d'activité).
+La direction générale des finances publiques utilise le fichier SIRENE pour certifier les éléments d'identification des personnes morales et intégrer les modifications éventuelles (changement de dénomination ou de raison sociale, d'adresse ou de siège social, de forme juridique ; cession, cessation d'activité).
 
 Ces données sont conservées trois ans révolus après l'enregistrement de la clôture du compte pour les comptes dont le titulaire est une personne physique et dix ans révolus après l'enregistrement de la clôture du compte pour les comptes dont le titulaire est une personne morale.
 
-II. - Les informations nominatives utilisées pour permettre l'accès aux agents de la DGI, de la DGDDI et de l'ORGANIC sont issues de l'application "Annuaire DGI". Ces informations sont les suivantes :
+II. - Les informations à caractère personnel utilisées pour permettre l'accès aux agents de la DGFIP, de la DGDDI, de la branche recouvrement du régime général de la sécurité sociale, du régime social indépendant et de la mutualité sociale agricole sont issues des applications Annuaire DGI et APTERA. Ces informations sont les suivantes :
 
 - nom, prénom ;
 
@@ -29,8 +29,6 @@ II. - Les informations nominatives utilisées pour permettre l'accès aux agents
 - numéro d'identification professionnelle ;
 
 - mot de passe.
-
-Les informations nominatives utilisées pour permettre l'accès aux agents de la DGCP sont issues de l'application "Annuaire DGCP".
 
 III. - En outre, les connexions font l'objet d'une journalisation qui se traduit par la conservation de la date et de l'heure de chaque connexion, des éléments d'identification de l'auteur, des éléments relatifs aux interrogations et aux restitutions. Ces informations sont conservées pendant trois ans.
 
