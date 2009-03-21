@@ -24,6 +24,10 @@ Vison d'Amérique (mustela vison).
 
 Putois (Mustela putorius).
 
+Martre (Martes martes).
+
+Belette (Mustela nivalis).
+
 Oiseaux
 
 Corbeau freux (corvus frugilegus).
