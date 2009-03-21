@@ -395,7 +395,6 @@
 - [Arrêté du 12 août 2008 (DEVO0812518A)](arrete-du-12-aout-2008-devo0812518a)
 - [Arrêté du 12 août 2008 (DEVT0819962A)](arrete-du-12-aout-2008-devt0819962a)
 - [Arrêté du 12 août 2008 (DEVT0819965A)](arrete-du-12-aout-2008-devt0819965a)
-- [Arrêté du 12 août 2008 (ECET0819128A)](arrete-du-12-aout-2008-ecet0819128a)
 - [Arrêté du 12 août 2008 (IOCA0818667A)](arrete-du-12-aout-2008-ioca0818667a)
 - [Arrêté du 12 avril 2002 (INTB0200126A)](arrete-du-12-avril-2002-intb0200126a)
 - [Arrêté du 12 décembre 2008 (AGRP0829411A)](arrete-du-12-decembre-2008-agrp0829411a)
