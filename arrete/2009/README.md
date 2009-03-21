@@ -347,6 +347,7 @@
 - [Arrêté du 17 février 2009 (SASA0904321A)](arrete-du-17-fevrier-2009-sasa0904321a)
 - [Arrêté du 17 février 2009 (SASP0903965A)](arrete-du-17-fevrier-2009-sasp0903965a)
 - [Arrêté du 17 juillet 2008 (DEVE0817977A)](arrete-du-17-juillet-2008-deve0817977a)
+- [Arrêté du 17 mars 1988 (TRST8800174A)](arrete-du-17-mars-1988-trst8800174a)
 - [Arrêté du 17 mars 2009 (BCFP0826068A)](arrete-du-17-mars-2009-bcfp0826068a)
 - [Arrêté du 17 novembre 2008 (SJSA0825829A)](arrete-du-17-novembre-2008-sjsa0825829a)
 - [Arrêté du 17 novembre 2008 (SJSG0900925A)](arrete-du-17-novembre-2008-sjsg0900925a)
