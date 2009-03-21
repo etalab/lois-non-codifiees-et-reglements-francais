@@ -280,7 +280,6 @@
 - [Arrêté du 17 mars 1988 (ECOZ8800001A)](arrete-du-17-mars-1988-ecoz8800001a)
 - [Arrêté du 17 mars 1988 (MCLB8800132A)](arrete-du-17-mars-1988-mclb8800132a)
 - [Arrêté du 17 mars 1988 (TRST8800173A)](arrete-du-17-mars-1988-trst8800173a)
-- [Arrêté du 17 mars 1988 (TRST8800174A)](arrete-du-17-mars-1988-trst8800174a)
 - [Arrêté du 17 novembre 1988 (ACVE8850024A)](arrete-du-17-novembre-1988-acve8850024a)
 - [Arrêté du 17 octobre 1988 (JUSD8830100A)](arrete-du-17-octobre-1988-jusd8830100a)
 - [Arrêté du 17 octobre 1988 (TRST8800494A)](arrete-du-17-octobre-1988-trst8800494a)
