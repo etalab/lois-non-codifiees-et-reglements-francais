@@ -147,6 +147,7 @@
 - [Arrêté du 9 janvier 2009 (AGRG0900704A)](arrete-du-9-janvier-2009-agrg0900704a)
 - [Arrêté du 9 janvier 2009 (DEVA0827815A)](arrete-du-9-janvier-2009-deva0827815a)
 - [Arrêté du 9 janvier 2009 (ECEA0829500A)](arrete-du-9-janvier-2009-ecea0829500a)
+- [Arrêté du 9 mars 2004 (SOCF0410436A)](arrete-du-9-mars-2004-socf0410436a)
 - [Arrêté du 9 mars 2009 (BCFR0905281A)](arrete-du-9-mars-2009-bcfr0905281a)
 - [Arrêté du 9 mars 2009 (MTSS0905632A)](arrete-du-9-mars-2009-mtss0905632a)
 - [Arrêté du 9 mars 2010 (DEFH1005444A)](arrete-du-9-mars-2010-defh1005444a)
