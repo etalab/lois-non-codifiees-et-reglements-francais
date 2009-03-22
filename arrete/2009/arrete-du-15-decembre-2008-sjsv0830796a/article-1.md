@@ -14,7 +14,7 @@ Fédération française de basket-ball : basket-ball.
 
 Fédération française de boxe : boxe anglaise.
 
-Fédération française de canoë-kayak : slalom, descente, freestyle, course en ligne-marathon, kayak-polo, mérathon (ocean racing), wawe-ski sur les supports suivants : canoë, kayak, surf-ski, embarcations gonflables (raft...), dragon boat, pirogue polynésienne (va'a), activités se pratiquant avec une embarcation propulsée à la pagaie, en eau calme, en mer et en eau vive (balade, randonnée, expédition ou raid).
+Fédération française de canoë-kayak : slalom, descente, freestyle, course en ligne-marathon, kayak-polo, merathon (ocean racing), wave-ski sur les supports suivants : canoë, kayak, surf-ski, embarcations gonflables (raft), dragon boat, pirogue polynésienne (va'a), activités se pratiquant avec une embarcation propulsée à la pagaie, en eau calme, en mer et en eau vive (balade, randonnée, expédition ou raid).
 
 Fédération française de cyclisme : cyclisme (sur route, sur piste, en salle), cyclo-cross, bicross, vélo tout-terrain (cross-country, descente, trial, dual-slalom, rallye), vélo trial, polo-vélo, figures libres en vélo (free style).
 
@@ -40,7 +40,7 @@ Fédération française de natation : natation course, natation synchronisée, n
 
 Fédération française de pentathlon moderne : pentathlon moderne.
 
-Fédération française de taekwondo : taekwondo, hapkido sous toutes ses formes (sin moo hapkido, hapkido jin jung kwan...), tang-soo-do, soo bahk do.
+Fédération française de taekwondo : taekwondo, hapkido sous toutes ses formes (sin moo hapkido, hapkido jin jung kwan), tang-soo-do, soo bahk do.
 
 Fédération française de tennis : tennis, tennis de plage (beach tennis), courte paume.
 

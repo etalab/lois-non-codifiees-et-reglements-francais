@@ -40,7 +40,7 @@ Fédération française de karaté et disciplines associées : karaté-do, karat
 
 Fédération française de longue paume : longue paume.
 
-Fédération française de la montagne et de l'escalade : escalade, ski, alpinisme, canyonisme, raquette à neige.
+Fédération française de la montagne et de l'escalade : escalade, ski alpinisme, canyonisme, raquette à neige.
 
 Fédération française de motocyclisme : motocyclisme.
 
@@ -50,7 +50,7 @@ Fédération française de parachutisme : parachutisme, chute libre en souffleri
 
 Fédération française de pêche sportive au coup : pêche au coup en eau douce.
 
-Fédération française des pêcheurs en mer : toutes pêches en mer « lancer ».
+Fédération française des pêcheurs en mer : toutes pêches en mer  lancer .
 
 Fédération française de pêche à la mouche et au lancer : pêche à la mouche, pêche au lancer en eau douce.
 
