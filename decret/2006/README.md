@@ -171,6 +171,7 @@
 - [Décret n°2006-190 du 15 février 2006 (INDI0606550D)](decret-n2006-190-du-15-fevrier-2006-indi0606550d)
 - [Décret n°2006-191 du 15 février 2006 (INDI0606549D)](decret-n2006-191-du-15-fevrier-2006-indi0606549d)
 - [Décret n°2006-302 du 15 mars 2006 (DEVP0640011D)](decret-n2006-302-du-15-mars-2006-devp0640011d)
+- [Décret n°2006-698 du 15 juin 2006 (MENX0600071D)](decret-n2006-698-du-15-juin-2006-menx0600071d)
 - [Décret n°2006-1262 du 16 octobre 2006 (PRMX0609623D)](decret-n2006-1262-du-16-octobre-2006-prmx0609623d)
 - [Décret n°2006-1263 du 16 octobre 2006 (PRMX0609624D)](decret-n2006-1263-du-16-octobre-2006-prmx0609624d)
 - [Décret n°2006-1264 du 16 octobre 2006 (ECOC0600134D)](decret-n2006-1264-du-16-octobre-2006-ecoc0600134d)
