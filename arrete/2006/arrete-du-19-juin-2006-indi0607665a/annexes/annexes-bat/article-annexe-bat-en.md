@@ -1698,46 +1698,31 @@ Mise en  place réalisée par un professionnel.
 
 </div>
 
+<div align="center"/>
 <div align="center">
+
 <p align="left">Certificats d'économies d'énergie</p>
 <p align="left">Opération n° BAT-EN-07-GT</p>
-<p align="left">Isolation des toitures terrasses et couvertures<br/>de pente &lt; 5  % dans bâtiment de grande taille<br/>
+<div align="left">
+<p>Isolation des toitures  terrasses et couvertures de pente &lt; 5 %<br/>
 </p>
 </div>
-
-1. Secteur d'application :
-
-Bâtiment  tertiaire :  locaux du secteur tertiaire existants réservés à une  utilisation  professionnelle, de surface totale chauffée comprise entre 5  000 et 10 000  m².
-
-2. Dénomination :
-
-Mise  en place d'une isolation  de résistance thermique R ≥ 2,6 m².K/W en  toiture terrasse ou couverture de  pente inférieure à 5 %.
-
-3. Conditions pour la délivrance de  certificats :
-
-Les  isolants ont une certification ACERMI ou des  caractéristiques de  performance et de qualité équivalentes établies par un mode  de preuve  légal dans un Etat membre de l'Union européenne ou un Etat partie à   l'accord instituant l'Espace économique européen ou en Turquie.
-
-Mise en place réalisée par un professionnel.
-
-4. Durée  de vie conventionnelle :
-
-35 ans.
-
-5. Montant de  certificats en kWh cumac :
-
-<div align="center">
+<p align="left">dans bâtiment de grande taille</p>
+<p align="left">1. Secteur d'application :<br/>Bâtiment  tertiaire :  locaux du secteur tertiaire existants réservés à une  utilisation  professionnelle, de surface totale chauffée comprise entre 5  000 et 10 000  m².<br/>2. Dénomination :<br/>Mise  en place d'une isolation  de résistance thermique R ≥ 2,6 m² K/W en  toiture terrasse ou couverture de  pente inférieure à 5 %.<br/>3. Conditions pour la délivrance de  certificats :<br/>Les  isolants ont une certification ACERMI ou des  caractéristiques de  performance et de qualité équivalentes établies par un mode  de preuve  légal dans un Etat membre de l'Union européenne ou un Etat partie à   l'accord instituant l'Espace économique européen ou en Turquie.<br/>Mise en place réalisée par un professionnel.<br/>4. Durée  de vie conventionnelle :<br/>35 ans.<br/>5. Montant de  certificats en kWh cumac :<br/>
+</p>
 
 <table>
 <tbody>
 <tr>
-<td align="center" colspan="5">MONTANT UNITAIRE<br/>en kWh cumac/m²  d'isolant<br/>
+<td colspan="5">MONTANT (en kWh cumac/m² d'isolant)<br/>
 </td>
-<td align="center" rowspan="9">
-<br/>X<br/>
+<td align="center" rowspan="9" valign="middle">
+<b>X </b>
+<br/>
 </td>
-<td align="center" rowspan="3">SECTEUR<br/>d'activité<br/>
+<td rowspan="3">SECTEUR<br/>d'activité<br/>
 </td>
-<td align="center" rowspan="3">FACTEUR<br/>correctif<br/>
+<td rowspan="3">FACTEUR<br/>correctif<br/>
 </td>
 </tr>
 <tr>
@@ -1747,15 +1732,17 @@ Mise en place réalisée par un professionnel.
 </td>
 </tr>
 <tr>
-<td align="center">2 m².K/W ≤ R ≤ 2,6 m².K/W<br/>(uniquement pour des  actions engagées avant<br/>le 1er janvier 2008)<br/>
+<td align="center">2 m² K/W ≤ R &lt; 2,6 m² K/W<br/>(uniquement pour des  actions engagées avant<br/>le 1er janvier 2008)<br/>
 </td>
-<td align="center">2,6 m².K/W ≤ R &lt; 3,5 m².K/W<br/>
+<td align="center">2,6 m² K/W <br/>≤ R &lt; 3,5 m² K/W<br/>
 </td>
-<td align="center">R ≥ 3,5 m².K/W<br/>
+<td align="center">
+<br/>R 3,5 m² K/W<br/>
 </td>
 </tr>
 <tr>
-<td rowspan="3">Electricité</td>
+<td align="center" rowspan="3">Electricité<br/>
+</td>
 <td align="center">H1<br/>
 </td>
 <td align="center">1 100<br/>
@@ -1764,9 +1751,9 @@ Mise en place réalisée par un professionnel.
 </td>
 <td align="center">2 300<br/>
 </td>
-<td align="center">Bureaux<br/>
+<td align="center" rowspan="2">Bureaux<br/>
 </td>
-<td align="center">0,5<br/>
+<td align="center" rowspan="2">0,5<br/>
 </td>
 </tr>
 <tr>
@@ -1778,10 +1765,6 @@ Mise en place réalisée par un professionnel.
 </td>
 <td align="center">1 900<br/>
 </td>
-<td align="center" rowspan="2">Enseignement<br/>
-</td>
-<td align="center" rowspan="2">0,4<br/>
-</td>
 </tr>
 <tr>
 <td align="center">H3<br/>
@@ -1791,6 +1774,10 @@ Mise en place réalisée par un professionnel.
 <td align="center">600<br/>
 </td>
 <td align="center">1 200<br/>
+</td>
+<td align="center">Enseignement<br/>
+</td>
+<td align="center">0,4<br/>
 </td>
 </tr>
 <tr>
@@ -1818,7 +1805,7 @@ Mise en place réalisée par un professionnel.
 </td>
 <td align="center">3 000<br/>
 </td>
-<td align="center">Hôtellerie-<br/>restauration<br/>
+<td align="center">Hôtellerie-restauration<br/>
 </td>
 <td align="center">0,4<br/>
 </td>

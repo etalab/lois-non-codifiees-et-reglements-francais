@@ -1,5 +1,7 @@
 # Article Annexe BAT-EQ
 
+<div align="left"/>
+
 <div align="left">Certificats d'économies d'énergie <p>Opération n° BAT-EQ-01</p>
 <p>Luminaire pour tube fluorescent T5 électronique<br/>avec ou sans dispositif de contrôle<br/>
 </p>
@@ -413,6 +415,10 @@ Attestation par l'installateur de la valeur de  l'intensité d'éclairage en lux
 </table>
 
 </div>
+<div align="center"/>
+<div align="center"/>
+<div align="center"/>
+<div align="center"/>
 <div align="left">Certificats d'économie d'énergie</div>
 <div align="left">Opération n° BAT-EQ-12</div>
 <div align="left">Porte non chauffante à haute performance d'isolation<br/>
@@ -580,7 +586,9 @@ Information sur la durée d'utilisation en heure par  type de lampe.
 
 </div>
 
-En application de l'article 3 du décret n° 2006-603 du 23 mai 2006   relatif aux certificats d'économies d'énergie, il est attribué le  double du  montant des kWh cumac obtenu par le calcul ci-dessus pour  cette action menée  dans les DOM. <div align="left">Certificats d'économies d'énergie <p>Opération n° BAT-EQ-17</p>
+En application de l'article 3 du décret n° 2006-603 du 23 mai 2006   relatif aux certificats d'économies d'énergie, il est attribué le  double du  montant des kWh cumac obtenu par le calcul ci-dessus pour  cette action menée  dans les DOM.
+
+<div align="left">Certificats d'économies d'énergie <p>Opération n° BAT-EQ-17</p>
 <p>Installation frigorifique négative de type cascade<br/>utilisant du CO2<br/>
 </p>
 </div>
@@ -633,3 +641,29 @@ Une  attestation  d'un sous-refroidissement du liquide de l'installation de  pro
 8 700 kWh  cumac × P.
 
 P = puissance frigorifique négative en  kWh de l'installation.
+
+<div align="left">Certificats d'économies d'énergie</div>
+
+Opération n° BAT-EQ-19
+
+Coupe-veille automatique
+
+1. Secteur d'application :
+
+Bâtiment tertiaire :  locaux du secteur tertiaire existants réservés à une utilisation  professionnelle.
+
+2. Dénomination :
+
+Mise  en place  d'un coupe-veille automatique sur lequel sont raccordés des  appareils  électriques et électroniques. Le coupe-veille fonctionne  automatiquement par  détection de l'utilisation des appareils raccordés.
+
+La puissance  du coupe-veille, pour sa propre consommation, ne dépasse pas 0,5 watt.
+
+3. Conditions pour la délivrance de certificats :
+
+Sans  objet.
+
+4. Durée de vie conventionnelle :
+
+10 ans.
+
+5. Montant de certificats en kWh cumac : 870 kWh cumac.

@@ -157,6 +157,99 @@ Vous pouvez consulter le tableau dans le JO
 
 n° 303 du 31/12/2006 texte numéro 60
 
+<div align="left">Certificats d'économies d'énergie</div>
+
+Opération n° RES-CH-03-GT
+
+<div align="left">
+<br/>Réhabilitation d'un poste de livraison de  chaleur<br/>dans bâtiment tertiaire de grande taille<br/>
+</div>
+
+1. Secteur d'application :
+
+Bâtiment  tertiaire :  locaux du secteur tertiaire existants réservés à une  utilisation  professionnelle, de surface totale chauffée comprise entre 5  000 et 10 000 m²,  et raccordés à un réseau de chauffage urbain.
+
+2. Dénomination :
+
+Réhabilitation  d'un poste de livraison par le remplacement de la  totalité des  éléments suivants, constitutifs du primaire du poste de livraison,  par  des équipements neufs :
+
+― échangeurs ;
+
+―  régulation ;
+
+― pompes ;
+
+― isolation thermique.
+
+3. Conditions pour la délivrance de certificats :
+
+Mise  en place réalisée par un professionnel.
+
+4. Durée de vie  conventionnelle :
+
+20 ans.
+
+5. Montant de certificats  en kWh cumac :
+
+<table>
+<tbody>
+<tr>
+<td align="center" colspan="3">MONTANT UNITAIRE<br/>(en kWh cumac/m²)<br/>
+</td>
+<td align="center" rowspan="5">
+<br/>
+<div align="center">X<br/>
+</div>
+</td>
+<td align="center">SURFACE<br/>chauffée (en m²)</td>
+<td align="center" rowspan="5">X</td>
+<td align="center">BRANCHE<br/>
+</td>
+<td align="center">FACTEUR<br/>correctif </td>
+</tr>
+<tr>
+<td align="center" rowspan="4">
+<br/>Zone climatique<br/>
+</td>
+<td align="center">H1<br/>
+</td>
+<td align="center">190<br/>
+</td>
+<td align="center" rowspan="4">S</td>
+<td align="center">Bureaux <br/>
+</td>
+<td align="center">1,3<br/>
+</td>
+</tr>
+<tr>
+<td align="center">H2<br/>
+</td>
+<td align="center">160<br/>
+</td>
+<td align="center">Commerces </td>
+<td align="center">1,1<br/>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">H3 </td>
+<td align="center" rowspan="2">110 </td>
+<td align="center">Hôtellerie-restauration</td>
+<td align="center">1,4<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Santé<br/>
+</td>
+<td align="center">0,9<br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+<div align="left">
+<br/>
+</div>
+
 Certificats d'économies d'énergie
 
 Opération n° RES-CH-04

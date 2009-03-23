@@ -37,10 +37,6 @@ Vous pouvez consulter le tableau dans le JO
 
 n° 303 du 31/12/2006 texte numéro 60
 
-<div align="left">
-<br/>
-</div>
-
 Certificats d'économies d'énergie
 
 Opération n° BAR-TH-02
@@ -824,7 +820,7 @@ Informations à fournir impérativement : ancienneté  du bâtiment (avant ou ap
 
 </div>
 
-<div align="left">(1) Le  facteur correctif est déterminé à partir soit du nombre de pièces principales,  soit de la surface habitable.</div>
+(1) Le  facteur correctif est déterminé à partir soit du nombre de pièces principales,  soit de la surface habitable.
 
 Certificats d'économies d'énergie
 
@@ -1553,9 +1549,6 @@ Pour la chaudière :
 </table>
 
 </div>
-<div align="left">
-<br/>
-</div>
 
 Certificats d'économies d'énergie
 
@@ -1817,11 +1810,8 @@ Le  montant de kWh cumac attribué à la chaudière sur la base du  tableau  pr�
 
 </div>
 
-<div align="left"/>
-<div align="left">
-<br/>
-</div>
-<div align="left"/>
+<div align="center"/>
+<div align="center"/>
 <div align="left">Certificats d'économies d'énergie </div>
 <div align="left">
 <p>Opération n° BAR-TH-15</p>
@@ -1997,7 +1987,11 @@ Informations à fournir impérativement : ancienneté  du bâtiment (avant ou ap
 
 </div>
 
-<div align="left">Certificats d'économies d'énergie <p>Opération n° BAR-TH-18</p>
+<div align="center"/>
+<div align="center"/>
+<div align="left">Certificats d'économies d'énergie </div>
+<div align="left">
+<p>Opération n° BAR-TH-18</p>
 <p>Programmateur d'intermittence sur une chaudière existante  pour un chauffage individuel à combustible<br/>
 </p>
 </div>
@@ -2221,7 +2215,7 @@ Informations à fournir impérativement : ancienneté du bâtiment (avant  ou ap
 
 </div>
 
-<div align="left">(1) Le facteur correctif est déterminé à partir soit du nombre de  pièces principales, soit de la surface habitable. </div>
+(1) Le facteur correctif est déterminé à partir soit du nombre de  pièces principales, soit de la surface habitable.
 
 <div align="left">Certificats d'économies d'énergie <p>Opération n° BAR-TH-19</p>
 <p>Programmateur d'intermittence sur une chaudière  existante<br/>pour un chauffage collectif à combustible<br/>
@@ -3016,7 +3010,7 @@ Information à fournir  impérativement : ancienneté du bâtiment (avant ou apr
 
 </div>
 
-<div align="left">(1)  Le facteur correctif est déterminé à partir soit du nombre de pièces  principales, soit de la surface habitable.</div>
+(1)  Le facteur correctif est déterminé à partir soit du nombre de pièces  principales, soit de la surface habitable.
 
 Certificats d'économies d'énergie
 
@@ -3308,7 +3302,7 @@ La valeur de consommation s'entend au sens des règles  Th-C.
 
 </div>
 
-<div align="left">(1) Le facteur correctif est déterminé à partir soit du nombre de  pièces principales, soit de la surface habitable.</div>
+(1) Le facteur correctif est déterminé à partir soit du nombre de  pièces principales, soit de la surface habitable.
 
 Certificats d'économies d'énergie
 
@@ -3561,7 +3555,9 @@ Opération n° BAR-TH-34
 
 Ventilation naturelle hygroréglable
 
-<div align="left">1. Secteur d'application :<br/>Bâtiment résidentiel :  maison individuelle et appartement existants.<br/>2. Dénomination :<br/>Mise en place d'une ventilation naturelle hygroréglable dans un  logement avec chauffage à combustible ou électrique.<br/>3. Conditions  pour la délivrance de certificats :<br/>Mise  en place réalisée par un  professionnel qui s'assurera que l'étanchéité  du bâtiment atteint un niveau de  performance compatible avec les  performances de la ventilation naturelle  hygroréglable.<br/>Information à fournir impérativement : ancienneté  du bâtiment (avant ou après 75).<br/>4. Durée de vie conventionnelle  :<br/>16 ans.<br/>5. Montant de certificats en kWh cumac  :<br/>
+<div align="left">
+<div align="left">1. Secteur d'application :<br/>
+</div>Bâtiment résidentiel :  maison individuelle et appartement existants.<br/>2. Dénomination :<br/>Mise en place d'une ventilation naturelle hygroréglable dans un  logement avec chauffage à combustible ou électrique.<br/>3. Conditions  pour la délivrance de certificats :<br/>Mise  en place réalisée par un  professionnel qui s'assurera que l'étanchéité  du bâtiment atteint un niveau de  performance compatible avec les  performances de la ventilation naturelle  hygroréglable.<br/>Information à fournir impérativement : ancienneté  du bâtiment (avant ou après 75).<br/>4. Durée de vie conventionnelle  :<br/>16 ans.<br/>5. Montant de certificats en kWh cumac  :<br/>
 </div>
 <div align="center">
 
@@ -3765,7 +3761,7 @@ Ventilation naturelle hygroréglable
 
 </div>
 
-<div align="left">(1) Le  facteur correctif est déterminé à partir soit du nombre de pièces principales,  soit de la surface habitable.</div>
+(1) Le  facteur correctif est déterminé à partir soit du nombre de pièces principales,  soit de la surface habitable.
 
 Certificats d'économies d'énergie
 
@@ -4414,4 +4410,71 @@ Mise en place réalisée par un professionnel.
 </tbody>
 </table>
 
+</div>
+
+Certificats d'économies d'énergie
+
+Opération n° BAR-TH-41
+
+Remplacement d'un climatiseur existant
+
+par un  climatiseur de classe A (DOM)
+
+1. Secteur d'application :
+
+Bâtiment résidentiel :  maisons individuelles et appartements existants dans les départements  d'outre-mer.
+
+2. Dénomination :
+
+Remplacement  d'un  climatiseur existant par un climatiseur fixe de classe A,  individuel (monosplit)  ou regroupé (multisplit), pour des applications  dont les besoins en  climatisation sont inférieurs ou égaux à 9 000  BTU/h froid par pièce.
+
+3. Conditions pour la délivrance des certificats :
+
+L'appareil  a une certification Eurovent ou des caractéristiques de  performance et  de qualité équivalentes établies par un mode de preuve légal dans  un  Etat membre de l'Union européenne ou un Etat partie à l'accord  instituant  l'Espace économique européen ou en Turquie.
+
+Une attestation de  dépose de l'ancien climatiseur doit être fournie par l'installateur.
+
+Mise en place par un professionnel.
+
+4. Durée de vie  conventionnelle :
+
+9 ans.
+
+5. Montant de certificats  en kWh cumac :
+
+<table>
+<tbody>
+<tr>
+<td align="center" colspan="5">MONTANT EN KWH CUMAC<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Puissance de l'appareil en BTU/h<br/>
+</td>
+<td align="center">4,5 &gt; COP ≥ 3,2<br/>
+</td>
+<td align="center" colspan="3">COP ≥ 4,5<br/>
+</td>
+</tr>
+<tr>
+<td align="center">7 000<br/>
+</td>
+<td align="center">6 200<br/>
+</td>
+<td align="center">15 000<br/>
+</td>
+</tr>
+<tr>
+<td align="center">9 000<br/>
+</td>
+<td align="center">7 400<br/>
+</td>
+<td align="center">17 000<br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+<div align="left">
+<br/>En application de l'article 3 du décret n° 2006-603 du 23  mai 2006  relatif aux certificats d'économies d'énergie, il est  attribué le  double du montant des kWh cumac obtenu par le calcul ci-dessus pour   cette action menée dans les DOM.<br/>
 </div>
