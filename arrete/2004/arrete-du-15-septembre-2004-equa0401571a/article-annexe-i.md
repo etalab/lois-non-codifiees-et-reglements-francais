@@ -486,6 +486,8 @@ Paris-Pékin.
 
 Paris-Shanghai.
 
+Paris - Wuhan.
+
 Roumanie (jusqu'au 31 décembre 2012)
 
 Paris-Bucarest.
@@ -642,7 +644,9 @@ Madagascar (jusqu'au 31 décembre 2012)
 
 Réunion-Antananarivo.
 
-Saint-Denis de la Réunion-Maurice (exclusivement dans le cadre de l'article R. 330-9 du code de l'aviation civile).
+Maurice(jusqu'au 31 décembre 2012)
+
+Saint-D enis de la Réunion-Maurice (exclusivement dans le cadre de l'article R. 330-9 du code de l'aviation civile).
 
 Saint-Denis de la Réunion-Rodrigue (exclusivement dans le cadre de l'article R. 330-9 du code de l'aviation civile).
 
