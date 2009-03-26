@@ -306,6 +306,8 @@ Provence-Alpes-Côte d'Azur
 
 Entreprise nouvelle isotherma, BP 78, 13110 Port-de-Bouc : de 1972 à 1983 ;
 
+Entreprise générale d'isolation Edouard POUJAUD, 30, avenue Mirabeau, La Mède, 13220 Châteauneuf-lès-Martigues, de 1947 à 1980 ", " Société d'exploitation POUJAUD Edouard, 30, avenue Mirabeau, La Mède, 13220 Châteauneuf-lès-Martigues, de 1981 à 1987 ", " Entreprise générale d'isolation POUJAUD, 30, avenue Mirabeau, La Mède, 13220 Châteauneuf-lès-Martigues, de 1966 à 1987 ", puis " POUJAUD SA, 30, avenue Mirabeau, La Mède, 13220 Châteauneuf-lès-Martigues, de 1988 à 1996 ;
+
 Eternit, établissement de Caronte, Croix-Sainte, 13500 Martigues : de 1957 à 1978 ;
 
 Heraud SA, La Malautière, RN 7, 84700 Sorgues : de 1945 à 1984 ;
@@ -315,8 +317,6 @@ Isolfeu 13/Wanner, 13220 Châteauneuf-lès-Martigues : de 1944 à 1966 ;
 Joseph Oliva isolation, 94, avenue Roger-Salengro, 13003 Marseille : de 1965 à 1981 ;
 
 Alpha, puis Rochette Cempa, puis Rochette Alfa, puis Filtralfa, puis Eurofiltec : RN 7, 84130 Le Pontet : de 1947 à 1996 ;
-
-Poujaud isolation, 30, avenue Mirabeau, 13220 La Mède : de 1954 à 1973 ;
 
 Société phocéenne de travaux maritimes et industriels, 37, boulevard Oddo, puis 258, chemin de la Madrague, 13015 Marseille : de 1961 à 1994 ;
 
@@ -1028,6 +1028,8 @@ ELF Atochem, BP 3, 13117 Lavera, de 1970 à 2001 ;
 
 France Joints , zone industrielle, 1re avenue, 11e rue, îlot M, 06510 Carros : de 1992 à 1993 ;
 
+FRIEDLANDER, boulevard du Progrès, 13014 Marseille, de 1960 à 1966 ", puis " 39-41, boulevard Sainte-Lucie, 13007 Marseille, de 1966 à 1988 ", puis " 550, rue Pierre-Berthier, parc de Pichaury, BP 348000, 13799 Aix-en-Provence : de 1988 à 1996 ;
+
 Isotec, 13, quai de Tourette, 13002 Marseille : de 1984 à 1999 ;
 
 L'Aeraulique, le logis du Bonneau, quartier des Mourettes, 06270 Villeneuve-Loubet : de 1975 à 1989 ;
@@ -1049,8 +1051,6 @@ SOCIÉTÉ D'ENTREPRISES ET DE FUMISTERIE INDUSTRIELLE (SEFI), 60, cours Pierre-P
 Société française de plaques de plâtre (SFPP)/Pregypan/Pregypan Rigips/Plâtres Lafarge, établissement de Carpentras, chemin de Villefranche, BP 135, 84204 Carpentras Cedex : de 1967 à 1982 ;
 
 Société de projection de matériaux isolants (SPMI), route de Saint-Cézaire, lieudit Grange de Jourdan, 06460 Saint-Vallier-de-Thiey : de 1989 à 1992 ;
-
-société de tuyauterie et de montage Friedlander, boulevard du Progrès, 13014 Marseille : de 1960 à 1966, puis 39-41, boulevard Sainte-Lucie, 13007 Marseille : de 1966 à 1988, puis 550, rue Pierre-Berthier, parc de Pichaury, BP 348000, 13799 Aix-en-Provence : depuis 1988 ;
 
 Société industrielle de tuyauterie d'usine et de bâtiment, 23-25, 4e-Avenue, BP 2157, 13847 Vitrolles Cedex : depuis sa création ;
 
