@@ -42,13 +42,13 @@ Forges et chantiers de la Gironde 125, quai de Brazza, 33100 Bordeaux : Depuis s
 
 GAME STEMA 110, rue Achard, 33000 Bordeaux : De 1960 à 1985
 
+MORGERE SAS Réparation navale. 10, avenue Louis-Martin, BP 170, 35408 Saint-Malo Cedex. De 1970 à 1996.
+
 Service technique de l'outillage, des ateliers et centre d'activité de la réparation navale et du dragage du Port autonome de Bordeaux, palais de la Bourse, 3, place Gabriel, 33075 Bordeaux : de 1947 à 1997.
 
 Basse-Normandie
 
-ACE société ACE (GIE) :
-
-- 1, rue des Claires, BP 59, 50460 Querqueville : depuis sa création.
+ACE Société ACE (GIE), 1, rue des Claires, BP 59, de sa création à 1996, puis 7, rue des Claires, BP 59, 50460 Querqueville, depuis 1996.
 
 ACMC Bâtiment 8, terre-plein des Mielles, 50110 Tourlaville. De 1999 à 2003.
 
@@ -86,9 +86,7 @@ Bastide :
 
 Bellot : quai de l'Ancien-Arsenal 50100 Cherbourg et rue Aristide-Briand, 50110 Tourlaville : de 1960 à 1997.
 
-BFA :
-
-- 14, rue des Carmes, 50100 Cherbourg : de 1975 à 1977.
+BFA, 24, rue de la Paix, 50100 Cherbourg, de 1975 à 1977.
 
 Briffer :
 
@@ -850,7 +848,7 @@ SMCT (Société de montage en chaudronnerie et tuyauterie), de 1984 à 1992, pui
 
 SMPO (Société métallurgique des peinture de l'Ouest), 11, rue Amiral-Troude, 29200 Brest : de 1969 à 1989.
 
-SNEF, 18, rue Saint-Pierre, 56100 Lorient : depuis sa création.
+SNEF, 18, rue Saint-Pierre, 56100 Lorient, depuis sa création à 2005 , puis ZAC du Parco, avenue Lavoisier, 56700 Hennebont, depuis 2006.
 
 SNEF Electric flux, puis SNEF, 14, rue de l'Amiral-Troude, 29200 Brest, puis 4, rue Jean-Charles-Chevillotte, 29200 Brest : depuis 1946.
 
