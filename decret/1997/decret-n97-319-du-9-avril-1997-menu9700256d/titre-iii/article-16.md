@@ -20,6 +20,8 @@ Le directeur exerce notamment les compétences suivantes :
 
 8° Il est chargé de l'organisation des opérations électorales ;
 
-9° Il présente au conseil d'administration le bilan annuel des activités d'enseignement et de recherche de l'établissement.
+9° Il présente au conseil d'administration le bilan annuel des activités d'enseignement et de recherche de l'établissement ;
+
+10° Il nomme les membres des jurys d'examen et préside ces derniers.
 
 Le directeur peut déléguer sa signature au secrétaire général, au directeur des études et au directeur de la recherche.

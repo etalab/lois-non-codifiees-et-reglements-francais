@@ -1,5 +1,7 @@
 # Article 14
 
-Les représentants des personnels et des élèves sont élus au scrutin de liste à la représentation proportionnelle au plus fort reste, sans panachage ni liste incomplète. Toutefois, lorsqu'un seul siège est à pourvoir dans un collège, le représentant est élu au scrutin majoritaire uninominal à deux tours, le premier tour à la majorité absolue, le second à la majorité relative. En cas d'égalité des voix au second tour, le siège est attribué au candidat le plus âgé.
+L'élection des membres a lieu au scrutin plurinominal majoritaire à deux tours ou, lorsqu'un seul siège est à pourvoir, au scrutin uninominal majoritaire à deux tours. Le vote est secret.
+
+L'élection de chacun des membres est acquise à la majorité absolue des suffrages exprimés au premier tour, à la majorité relative au second tour. En cas d'égalité des voix à l'issue du second tour, le siège est attribué au candidat le plus âgé.
 
 Le règlement intérieur de l'établissement fixe les modalités d'application de ces dispositions.

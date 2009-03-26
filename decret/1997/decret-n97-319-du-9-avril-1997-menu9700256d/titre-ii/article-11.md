@@ -1,8 +1,8 @@
 # Article 11
 
-Le conseil scientifique comprend quatorze membres :
+Le conseil scientifique comprend, outre le directeur de l'école, président, quatorze membres :
 
-1° Six membres nommés, en raison de leurs compétences dans les domaines définis à l'article 2, par arrêté du ministre chargé de l'enseignement supérieur, dont deux sur proposition du ministre chargé de la défense et deux sur proposition du ministre chargé de l'industrie ;
+1° Six membres nommés, en raison de leurs compétences dans les domaines définis à l'article 2, par le recteur de l'académie d'Orléans-Tours, dont deux sur proposition du ministre chargé de la défense et deux sur proposition du ministre chargé de l'industrie ;
 
 2° Un membre du conseil scientifique de l'université d'Orléans désigné en son sein par celui-ci ;
 
@@ -16,8 +16,6 @@ Un représentant des autres personnels d'enseignement et de recherche ;
 
 Un représentant des ingénieurs et des personnels techniques ;
 
-Un représentant des élèves ingénieurs de dernière année et des étudiants de troisième cycle.
+Un représentant des élèves ingénieurs de dernière année et des étudiants de niveau égal ou supérieur au master.
 
 Le directeur de l'école, le directeur de la recherche et le directeur des études assistent aux séances avec voix consultative.
-
-Les modalités de fonctionnement de ce conseil sont précisées par le règlement intérieur.
