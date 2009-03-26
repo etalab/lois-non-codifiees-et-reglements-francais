@@ -1,65 +1,75 @@
 # Article 2
 
-La composition de la commission administrative paritaire mentionnée à l'article 1er est fixée ainsi qu'il suit :
-
 <table>
 <tbody>
 <tr>
-<td rowspan="2" valign="top"/>
-<td colspan="2">
-<p align="center">MEMBRES</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">Titulaires</p>
-</td>
-<td>
-<p align="center">Suppléants</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p>a) Représentants du personnel :</p>
-</td>
-<td>
+<th>
 <br/>
+</th>
+<th>
+<br/>MEMBRES <p>titulaires <br/>
+</p>
+</th>
+<th>
+<br/>MEMBRES <p>suppléants <br/>
+</p>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>a) Représentants du personnel : <p>Techniciens opérationnels principaux <br/>
+</p>
 </td>
-<td>
-<br/>
+<td align="center">
+<br/>2 <br/>
+</td>
+<td align="center">
+<br/>3 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top">
-<p>Technicien opérationnel</p>
+<td align="center">
+<br/>Techniciens opérationnels <br/>
 </td>
-<td>
-<p align="center">3</p>
+<td align="center">
+<br/>3 <br/>
 </td>
-<td>
-<p align="center">3</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p>b) Représentants de l'administration</p>
-</td>
-<td>
-<p align="center">3</p>
-</td>
-<td>
-<p align="center">3</p>
+<td align="center">
+<br/>3 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top">
-<p>Total</p>
+<td align="center">
+<br/>b) Représentants de l'administration : <p>Techniciens opérationnels principaux <br/>
+</p>
 </td>
-<td>
-<p align="center">6</p>
+<td align="center">
+<br/>2 <br/>
 </td>
-<td>
-<p align="center">6</p>
+<td align="center">
+<br/>2 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Techniciens opérationnels <br/>
+</td>
+<td align="center">
+<br/>3 <br/>
+</td>
+<td align="center">
+<br/>3 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Total <br/>
+</td>
+<td align="center">
+<br/>10 <br/>
+</td>
+<td align="center">
+<br/>10<br/>
 </td>
 </tr>
 </tbody>
