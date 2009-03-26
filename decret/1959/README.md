@@ -44,6 +44,5 @@
 - [Décret n°59-1028 du 31 août 1959](decret-n59-1028-du-31-aout-1959)
 - [Décret n°59-1080 du 31 août 1959](decret-n59-1080-du-31-aout-1959)
 - [Décret n°59-1081 du 31 août 1959](decret-n59-1081-du-31-aout-1959)
-- [Décret n°59-909 du 31 juillet 1959](decret-n59-909-du-31-juillet-1959)
 - [Décret n°59-930 du 31 juillet 1959](decret-n59-930-du-31-juillet-1959)
 - [Décret n°59-936 du 31 juillet 1959](decret-n59-936-du-31-juillet-1959)
