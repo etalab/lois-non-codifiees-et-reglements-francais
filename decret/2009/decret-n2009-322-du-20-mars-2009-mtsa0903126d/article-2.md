@@ -1,0 +1,3 @@
+# Article 2
+
+Dispositions transitoires. Les dispositions du présent décret s'appliquent aux établissements et services mentionnés à l'article D. 344-5-1 autorisés à la date d'entrée en vigueur du présent décret dans les conditions suivantes : dans un délai de cinq ans à compter de cette entrée en vigueur et dans le respect des articles L. 313-13 à L. 313-20 du même code, l'autorité qui a délivré l'autorisation s'assure que l'établissement ou le service satisfait aux dispositions de la présente section.L'autorité précise, le cas échéant, par écrit, à la personne physique ou morale gestionnaire de l'établissement ou du service les mesures de nature à garantir la qualité de l'accueil ou de l'accompagnement des personnes concernées.
