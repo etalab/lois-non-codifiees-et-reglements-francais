@@ -61,7 +61,6 @@
 - [Arrêté du 3 octobre 2008 (DEVL0821168A)](arrete-du-3-octobre-2008-devl0821168a)
 - [Arrêté du 3 octobre 2008 (DEVO0773099A)](arrete-du-3-octobre-2008-devo0773099a)
 - [Arrêté du 3 octobre 2008 (MCCB0823241A)](arrete-du-3-octobre-2008-mccb0823241a)
-- [Arrêté du 3 octobre 2008 (MCCB0823479A)](arrete-du-3-octobre-2008-mccb0823479a)
 - [Arrêté du 3 septembre 2008 (AGRF0821465A)](arrete-du-3-septembre-2008-agrf0821465a)
 - [Arrêté du 3 septembre 2008 (AGRG0821393A)](arrete-du-3-septembre-2008-agrg0821393a)
 - [Arrêté du 3 septembre 2008 (DEVA0821396A)](arrete-du-3-septembre-2008-deva0821396a)
