@@ -8,7 +8,7 @@ Le mode historique de réception de la télévision va s'arrêter.
 
 Depuis son lancement en mars 2005, la télévision numérique terrestre (TNT) connaît un très grand succès et près d'un foyer français sur trois la reçoit déjà. Ce succès s'explique par les atouts qu'elle offre aujourd'hui : 18 chaînes gratuites, 11 chaînes payantes et de plus en plus souvent une, voire plusieurs chaînes locales, le tout avec une qualité d'image et de son largement supérieure à celle de la diffusion hertzienne analogique. La couverture de la TNT sera d'environ 87 % de la population métropolitaine à la fin de cette année et sera progressivement portée, d'ici à la fin 2011, au minimum à 95 % de la population.
 
-Il existe donc actuellement deux modes de réception de la télévision par la voie hertzienne terrestre, c'est-à-dire reçue via une antenne rateau sur le toit de l'habitation ou une antenne individuelle : la télévision hertzienne terrestre analogique, qui a constitué historiquement le premier mode de diffusion, et la TNT. Or, l'offre de programmes de la première, objectivement redondante avec celle de la TNT, est inférieure (seulement 6 chaînes nationales), tout comme sa qualité d'image et de son ; par ailleurs le maintien de la diffusion analogique hertzienne freine, voire empêche, l'extension de la couverture géographique de la TNT et interdit le lancement de nouveaux services sur les fréquences qu'elle continue d'occuper. L'arrêt de la diffusion hertzienne analogique terrestre permettra de surcroît aux éditeurs des chaînes de télévision de réaliser d'importantes économies sur les frais de diffusion technique.
+Il existe donc actuellement deux modes de réception de la télévision par la voie hertzienne terrestre, c'est-à-dire reçue via une antenne rateau sur le toit de l'habitation ou une antenne individuelle : la télévision hertzienne terrestre analogique, qui a constitué historiquement le premier mode de diffusion, et la TNT. Or, l'offre de programmes de la première, objectivement redondante avec celle de la TNT, est inférieure (seulement 6 chaînes nationales), tout comme sa qualité d'image et de son ; par ailleurs le maintien de la diffusion analogique hertzienne freine, voire empêche, l'extension de la couverture géographique de la TNT et interdit le lancement de nouveaux services sur les fréquences qu'elle continue d'occuper.L'arrêt de la diffusion hertzienne analogique terrestre permettra de surcroît aux éditeurs des chaînes de télévision de réaliser d'importantes économies sur les frais de diffusion technique.
 
 Il importe de noter que l'ensemble des pays, aussi bien les Etats-Unis, la Russie ou le Japon que nos voisins de l'Union européenne, sont concernés par l'arrêt de la télévision analogique terrestre puisque ce passage vers la télévision tout numérique est la conséquence inéluctable d'une révolution technologique mondiale, celle du numérique, dont chacun doit s'attacher à tirer les bénéfices. Tous les pays de l'Union européenne se sont d'ailleurs engagés à cesser leur diffusion analogique au plus tard en 2012 et certains ont déjà réalisé cette mutation (Finlande, Luxembourg, Suisse, Suède, Pays-Bas, Communauté flamande de Belgique et, récemment, Allemagne) ou envisagent de le faire avant la France (Espagne).
 
@@ -36,13 +36,13 @@ Le Gouvernement jouera pleinement son rôle pour le succès de cette opération 
 
 Cette transition sera organisée au travers du présent document, le schéma national d'arrêt et de basculement vers le numérique, qu'approuve à ce jour le Premier ministre. Conformément à la loi du 5 mars 2007 déjà citée (1), le CSA a lancé le 11 décembre 2007 une consultation publique pour éclairer la préparation de ce schéma et a, le 16 avril 2008, communiqué ses recommandations au Gouvernement (2).
 
-Ce schéma sera complété en fonction de l'établissement du calendrier complet d'arrêt de l'analogique, des enseignements tirés des premiers arrêts, en particulier en matière d'assistance et d'accompagnement des foyers et, enfin, des contraintes résultant de la nécessaire coordination avec les pays voisins dans la mise en œuvre des différents programmes de basculement de l'analogique vers le numérique. L'un de ces compléments permettra également d'étendre le présent schéma aux départements, territoires et collectivités territoriales d'outre-mer.
+Ce schéma sera complété en fonction de l'établissement du calendrier complet d'arrêt de l'analogique, des enseignements tirés des premiers arrêts, en particulier en matière d'assistance et d'accompagnement des foyers et, enfin, des contraintes résultant de la nécessaire coordination avec les pays voisins dans la mise en œuvre des différents programmes de basculement de l'analogique vers le numérique.L'un de ces compléments permettra également d'étendre le présent schéma aux départements, territoires et collectivités territoriales d'outre-mer.
 
 Le Premier ministre a confié la responsabilité de la conduite de cette importante transition à Eric Besson, secrétaire d'Etat chargé de la prospective, de l'évaluation des politiques publiques et du développement de l'économie numérique, qui préside par délégation du Premier ministre le comité stratégique pour le numérique.
 
 Ce comité comprend les ministres chargés de la communication audiovisuelle, des communications électroniques et de l'aménagement du territoire ; il associe également à titre permanent les présidents du Conseil supérieur de l'audiovisuel (CSA) et de l'Autorité de régulation des communications électroniques et des postes (ARCEP) ainsi que trois personnalités qualifiées. Il poursuivra sa mission d'orientation et de coordination au titre de ce programme, en étroite liaison avec le Conseil supérieur de l'audiovisuel et en s'appuyant tout particulièrement sur le groupe d'intérêt public France Télé Numérique et sur l'Agence nationale des fréquences.
 
-**I. ― Pourquoi arrêter la diffusion hertzienne analogique de la télévision** ?
+**I. ― Pourquoi arrêter la diffusion hertzienne analogique de la télévision**?
 
 L'arrêt de la diffusion analogique permettra d'utiliser les fréquences ainsi libérées pour l'extension de la TNT et la diffusion de nouveaux services. Sachant qu'à contenu et couverture équivalents la diffusion analogique consomme environ six fois plus de fréquences que la diffusion numérique, l'arrêt de la diffusion des six chaînes analogiques rendra disponibles des fréquences, aux qualités par ailleurs très intéressantes en matière de propagation et de pénétration dans les bâtiments. Le lancement de nouveaux services sur ces fréquences devenues ainsi disponibles constitue l'objectif principal de l'arrêt de l'analogique.
 
@@ -64,7 +64,7 @@ La loi a prévu que la majorité des fréquences libérées sera affectée aux s
 
 **C. ― Pour permettre l'accès à l'internet mobile à très haut débit pour tous**.
 
-Une partie des fréquences libérées sera utilisée pour permettre l'accès à l'internet mobile à très haut débit (c'est-à-dire avec un débit moyen d'environ une dizaine de mégabits/s par utilisateur) sur tout le territoire métropolitain, et notamment sur les 70 % du territoire moins densément peuplés qui n'auraient pas, en leur absence, bénéficié de ces services.
+Une partie des fréquences libérées sera utilisée pour permettre l'accès à l'internet mobile à très haut débit (c'est-à-dire avec un débit moyen d'environ une dizaine de mégabits / s par utilisateur) sur tout le territoire métropolitain, et notamment sur les 70 % du territoire moins densément peuplés qui n'auraient pas, en leur absence, bénéficié de ces services.
 
 La fourniture de l'internet mobile à très haut débit, comme le développement de l'offre audiovisuelle numérique, s'intègre dans les objectifs du Gouvernement visant à faire de la France une grande nation numérique et, en matière d'aménagement du territoire, à éviter toute fracture numérique entre les Français selon leur lieu de résidence.
 
@@ -86,7 +86,7 @@ Elles sont au nombre de quatre :
 
 ― large information préalable sur la date et les modalités du basculement ;
 
-― accompagnement spécifique de certaines catégories de foyers, sur le plan financier et/ou en matière d'aide à l'installation ;
+― accompagnement spécifique de certaines catégories de foyers, sur le plan financier et / ou en matière d'aide à l'installation ;
 
 ― continuité de la réception et garantie d'accès, à la fin du basculement et pour tous les foyers, quel que soit leur mode de réception, à une offre sans abonnement comprenant au moins les 18 chaînes gratuites de la TNT.
 
@@ -122,7 +122,7 @@ Une large période de diffusion parallèle de la TNT et de l'analogique avant l'
 
 Dans la majorité des cas, l'arrivée de la diffusion de la TNT précédera l'arrêt de la diffusion analogique sur la zone. Cette diffusion préalable de la TNT, parallèlement au maintien de l'analogique, permettra aux foyers de s'équiper et de vérifier le bon fonctionnement de leur appareil avant l'arrêt.
 
-Toutefois, dans un nombre réduit de zones concernant des populations limitées, l'arrivée de la TNT pourra n'être que partielle jusqu'à l'arrêt de l'analogique et/ou ne précéder que d'un laps de temps réduit cet arrêt, obligeant donc les foyers à une transition plus rapide.
+Toutefois, dans un nombre réduit de zones concernant des populations limitées, l'arrivée de la TNT pourra n'être que partielle jusqu'à l'arrêt de l'analogique et / ou ne précéder que d'un laps de temps réduit cet arrêt, obligeant donc les foyers à une transition plus rapide.
 
 Le programme d'extension de la TNT sera naturellement établi en cohérence avec le calendrier d'arrêt de l'analogique afin que les prochaines phases de déploiement de la couverture de la TNT s'inscrivent dans le choix des premières régions où l'analogique sera arrêté.
 
@@ -142,7 +142,7 @@ Quel que soit le délai entre les deux étapes, les téléspectateurs disposeron
 
 Ces informations permettront aux téléspectateurs, aux gestionnaires d'immeubles collectifs et aux antennistes de se préparer avec anticipation à la seconde étape.
 
-Pour permettre le développement dans les meilleurs délais de l'offre de télévision numérique terrestre, conformément à la loi et aux engagements pris par le Président de la République et le Premier ministre à l'occasion du lancement du plan France Numérique 2012 , il est demandé au Conseil supérieur de l'audiovisuel de privilégier un passage rapide après l'arrêt de la diffusion analogique sur les fréquences définitives de diffusion des multiplexes de télévision.
+Pour permettre le développement dans les meilleurs délais de l'offre de télévision numérique terrestre, conformément à la loi et aux engagements pris par le Président de la République et le Premier ministre à l'occasion du lancement du plan France Numérique 2012, il est demandé au Conseil supérieur de l'audiovisuel de privilégier un passage rapide après l'arrêt de la diffusion analogique sur les fréquences définitives de diffusion des multiplexes de télévision.
 
 Plus particulièrement, afin de préparer la libération des fréquences 790-862 MHz affectées aux nouveaux services de communications électroniques, le CSA est invité à ne pas planifier de services audiovisuels dans ces fréquences après l'arrêt de l'analogique. Les exceptions à ce principe ne pourront être accordées par le Gouvernement qu'à titre transitoire et pour assurer la continuité de la réception des services audiovisuels existant dans la zone considérée à l'issue de l'arrêt de l'analogique, ou, si cela s'avère nécessaire, pour permettre le basculement au plan cible d'une région voisine, ou en raison de contraintes spécifiques aux frontières.
 
@@ -150,7 +150,7 @@ Arrêt de Canal + et Outre-mer :
 
 Arrêt de Canal + :
 
-La loi prévoit que la diffusion de la chaîne de télévision Canal+ par la voie hertzienne terrestre en mode analogique s'achèvera le 6 décembre 2010. Les modalités d'arrêt et d'accompagnement des téléspectateurs de Canal + seront précisées dans les prochains mois par l'éditeur de cette chaîne, le Conseil supérieur de l'audiovisuel et le GIP France Télé Numérique et intégrées dans une prochaine actualisation du présent schéma.
+Les modalités d'arrêt et d'accompagnement des téléspectateurs de Canal + seront progressivement précisées dans les prochains mois par l'éditeur de cette chaîne, le Conseil supérieur de l'audiovisuel et le GIP France Télé Numérique et intégrées dans une actualisation du présent schéma. Les modalités d'arrêt et d'accompagnement des téléspectateurs de Canal + seront précisées dans les prochains mois par l'éditeur de cette chaîne, le Conseil supérieur de l'audiovisuel et le GIP France Télé Numérique et intégrées dans une prochaine actualisation du présent schéma.
 
 Outre-mer :
 
@@ -158,7 +158,7 @@ Les modalités de lancement de la TNT outre-mer en 2010 seront prochainement fix
 
 **III. ― Les téléspectateurs disposeront d'une très large information et d'une assistance adaptée**.
 
-Si la participation des chaînes de télévision au basculement est essentielle, la réussite du basculement dépendra cependant en premier lieu des téléspectateurs. C'est pourquoi un très large dispositif d'information et d'assistance sera mis en place par le GIP France Télé Numérique en charge du programme d'arrêt. Il comportera des volets spécifiques pour certaines catégories de téléspectateurs, moins aisés ou nécessitant une aide adaptée.
+Si la participation des chaînes de télévision au basculement est essentielle, la réussite du basculement dépendra cependant en premier lieu des téléspectateurs.C'est pourquoi un très large dispositif d'information et d'assistance sera mis en place par le GIP France Télé Numérique en charge du programme d'arrêt. Il comportera des volets spécifiques pour certaines catégories de téléspectateurs, moins aisés ou nécessitant une aide adaptée.
 
 Conformément à la loi, l'Etat et les chaînes analogiques hertziennes nationales ont en effet créé le Groupement d'intérêt public France Télé Numérique afin d'assurer la conduite du programme d'arrêt de l'analogique en coordonnant l'ensemble des opérations pratiques au bénéfice du téléspectateur. Les missions du groupement seront prochainement explicitement étendues au basculement sur les fréquences définitives de la TNT. France Télé Numérique disposera par ailleurs de structures lui permettant d'associer l'ensemble des professionnels concernés ainsi que les associations de consommateurs.
 
@@ -247,6 +247,8 @@ A cet arrêt succéderont ceux des régions Lorraine, puis Champagne-Ardenne, pu
 A l'Ouest, seront arrêtées aux premier et deuxième trimestres 2010 les régions Basse-Normandie (hors la zone de Cherbourg, déjà arrêtée), puis Pays de la Loire, puis Bretagne.
 
 Le basculement de ces régions sur le plan de fréquences définitif interviendra quelques semaines après l'arrêt, sauf pour la région Basse-Normandie, où il interviendra en coordination avec l'arrêt de l'analogique dans les régions sud-ouest du Royaume-Uni.
+
+Dans les régions Provence et Côte d'Azur et par anticipation sur l'arrêt de la diffusion des autres services analogiques, la diffusion analogique hertzienne terrestre de Canal + cessera le 25 novembre 2009.
 
 Seront également arrêtés au plus tard en 2010 les réémetteurs entravant la diffusion de la télévision numérique terrestre à partir des émetteurs régionaux d'Aurillac, Besançon, Chambéry, Gex, Limoges et Privas.
 
