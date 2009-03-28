@@ -1367,7 +1367,6 @@
 - [Décret n°2007-1888 du 26 décembre 2007 (ECES0770059D)](decret-n2007-1888-du-26-decembre-2007-eces0770059d)
 - [Décret n°2007-1889 du 26 décembre 2007 (ECET0773213D)](decret-n2007-1889-du-26-decembre-2007-ecet0773213d)
 - [Décret n°2007-1890 du 26 décembre 2007 (IMID0759221D)](decret-n2007-1890-du-26-decembre-2007-imid0759221d)
-- [Décret n°2007-1892 du 26 décembre 2007 (IMIK0774351D)](decret-n2007-1892-du-26-decembre-2007-imik0774351d)
 - [Décret n°2007-1893 du 26 décembre 2007 (JUSF0769550D)](decret-n2007-1893-du-26-decembre-2007-jusf0769550d)
 - [Décret n°2007-1894 du 26 décembre 2007 (AGRS0760722D)](decret-n2007-1894-du-26-decembre-2007-agrs0760722d)
 - [Décret n°2007-1895 du 26 décembre 2007 (AGRS0770862D)](decret-n2007-1895-du-26-decembre-2007-agrs0770862d)

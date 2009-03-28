@@ -185,7 +185,6 @@
 - [Arrêté du 7 juillet 2008 (ECED0816928A)](arrete-du-7-juillet-2008-eced0816928a)
 - [Arrêté du 7 juillet 2008 (ECED0816971A)](arrete-du-7-juillet-2008-eced0816971a)
 - [Arrêté du 7 juillet 2008 (ECEP0813148A)](arrete-du-7-juillet-2008-ecep0813148a)
-- [Arrêté du 7 juillet 2008 (IMIK0816480A)](arrete-du-7-juillet-2008-imik0816480a)
 - [Arrêté du 7 juillet 2008 (SJSH0816729A)](arrete-du-7-juillet-2008-sjsh0816729a)
 - [Arrêté du 7 novembre 2008 (AGRG0826714A)](arrete-du-7-novembre-2008-agrg0826714a)
 - [Arrêté du 7 novembre 2008 (AGRG0826715A)](arrete-du-7-novembre-2008-agrg0826715a)
