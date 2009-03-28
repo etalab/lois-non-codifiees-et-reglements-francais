@@ -2,7 +2,6 @@
 
 - [SERVICES DU PREMIER MINISTRE.](services-du-premier)
 - [Article 115](article-115.md)
-- [Article 116](article-116.md)
 - [ANCIENS COMBATTANTS.](anciens-combattants)
 - [EDUCATION NATIONALE.](education-nationale)
 - [AGRICULTURE ET PÊCHE.](agriculture-et)

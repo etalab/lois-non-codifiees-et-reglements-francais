@@ -6,7 +6,6 @@
 - [Loi n° 98-1146 du 16 décembre 1998 (MAEX9700152L)](loi-n-98-1146-du-16-decembre-1998-maex9700152l)
 - [Loi n° 98-1147 du 16 décembre 1998 (MAEX9800002L)](loi-n-98-1147-du-16-decembre-1998-maex9800002l)
 - [Loi n° 98-1163 du 18 décembre 1998 (JUSX9800057L)](loi-n-98-1163-du-18-decembre-1998-jusx9800057l)
-- [Loi n° 98-1164 du 18 décembre 1998 (EQUX9800144L)](loi-n-98-1164-du-18-decembre-1998-equx9800144l)
 - [Loi n° 98-1166 du 18 décembre 1998 (MAEX9700039L)](loi-n-98-1166-du-18-decembre-1998-maex9700039l)
 - [Loi n° 98-117 du 2 mars 1998 (MAEX9600068L)](loi-n-98-117-du-2-mars-1998-maex9600068l)
 - [Loi n° 98-1171 du 18 décembre 1998 (EQUX9800132L)](loi-n-98-1171-du-18-decembre-1998-equx9800132l)
