@@ -4,7 +4,7 @@ En application du troisième alinéa de l'article 1er du décret du 13 novembre 
 
 ― en Allemagne : le chef de poste consulaire à Francfort, au titre des circonscriptions consulaires de la mission diplomatique et des postes consulaires à Düsseldorf, Hambourg, Munich, Sarrebruck et Stuttgart ;
 
-― en Algérie : le chef du poste consulaire à Alger, au titre des circonscriptions consulaires des postes consulaires à Annaba et Oran, en ce qui concerne les visas pour long séjour délivrés dans le cadre des procédures relevant de l'Agence nationale de l'accueil des étrangers et des migrations ;
+― en Algérie : le chef du poste consulaire à Alger, au titre des circonscriptions consulaires des postes consulaires à Annaba et Oran, en ce qui concerne les visas pour long séjour délivrés dans le cadre des procédures relevant de l'          Office français de l'immigration et de l'intégration  ;
 
 ― en Belgique : le chef de poste consulaire à Bruxelles, au titre des circonscriptions consulaires des postes consulaires à Anvers et Liège, ainsi que de la circonscription consulaire du poste consulaire à Luxembourg ;
 
@@ -36,7 +36,7 @@ En application du troisième alinéa de l'article 1er du décret du 13 novembre 
 
 ― en Macédoine : le chef de la mission diplomatique, au titre de la circonscription consulaire de la mission diplomatique au Kosovo ;
 
-― au Maroc : le chef de poste consulaire à Casablanca, au titre des circonscriptions consulaires des postes consulaires à Agadir, Fès, Marrakech, Rabat et Tanger, en ce qui concerne les visas pour long séjour délivrés dans le cadre des procédures relevant de l'Agence nationale de l'accueil des étrangers et des migrations ;
+― au Maroc : le chef de poste consulaire à Casablanca, au titre des circonscriptions consulaires des postes consulaires à Agadir, Fès, Marrakech, Rabat et Tanger, en ce qui concerne les visas pour long séjour délivrés dans le cadre des procédures relevant de l'          Office français de l'immigration et de l'intégration  ;
 
 ― au Pakistan : le chef de la mission diplomatique, au titre de la circonscription consulaire du poste consulaire à Karachi ;
 
@@ -44,8 +44,8 @@ En application du troisième alinéa de l'article 1er du décret du 13 novembre 
 
 ― au Portugal : le chef de la mission diplomatique, au titre de la circonscription consulaire du poste consulaire à Porto ;
 
-― au Sénégal : le chef de poste consulaire à Dakar, au titre de la circonscription consulaire du poste consulaire à Saint-Louis, en ce qui concerne les visas pour long séjour délivrés dans le cadre des procédures relevant de l'Agence nationale de l'accueil des étrangers et des migrations ;
+― au Sénégal : le chef de poste consulaire à Dakar, au titre de la circonscription consulaire du poste consulaire à Saint-Louis, en ce qui concerne les visas pour long séjour délivrés dans le cadre des procédures relevant de l'          Office français de l'immigration et de l'intégration  ;
 
 ― en Serbie : le chef de la mission diplomatique, au titre de la circonscription consulaire de la mission diplomatique au Monténégro ;
 
-― en Turquie : le chef de poste consulaire à Istanbul, au titre de la circonscription consulaire de la mission diplomatique, en ce qui concerne les visas pour long séjour délivrés dans le cadre des procédures relevant de l'Agence nationale de l'accueil des étrangers et des migrations.
+― en Turquie : le chef de poste consulaire à Istanbul, au titre de la circonscription consulaire de la mission diplomatique, en ce qui concerne les visas pour long séjour délivrés dans le cadre des procédures relevant de l'          Office français de l'immigration et de l'intégration .

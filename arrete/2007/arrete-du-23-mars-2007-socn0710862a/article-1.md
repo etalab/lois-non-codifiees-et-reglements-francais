@@ -1,6 +1,6 @@
 # Article 1
 
-La liste nominative des personnes prises en charge dans un centre d'accueil pour demandeur d'asile, transmise chaque mois par l'Agence nationale de l'accueil des étrangers et des migrations aux institutions gestionnaires chargées du service de l'allocation en application de l'article R. 351-6 du code du travail, comporte, pour chaque personne hébergée, les informations suivantes :
+La liste nominative des personnes prises en charge dans un centre d'accueil pour demandeur d'asile, transmise chaque mois par l'          Office français de l'immigration et de l'intégration  aux institutions gestionnaires chargées du service de l'allocation en application de l'article R. 351-6 du code du travail, comporte, pour chaque personne hébergée, les informations suivantes :
 
 -nom de famille, nom d'usage, prénom ;
 
