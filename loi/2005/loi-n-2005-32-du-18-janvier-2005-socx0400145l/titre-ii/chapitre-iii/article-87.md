@@ -29,7 +29,7 @@ Compte non tenu du programme national de rénovation urbaine prévu par les arti
 </tr>
 <tr>
 <td valign="top" width="221">
-<p>Montant des crédits</p>
+<p>Logements financés par des prêts locatifs à usage social et des prêts locatifs aidés d'intégration</p>
 </td>
 <td valign="top" width="81">
 <p align="center">58 000</p>
@@ -225,7 +225,7 @@ Les crédits alloués par l'Etat à ce programme et aux autres actions consacré
 
 Comme en métropole, les départements d'outre-mer sont éligibles à l'ensemble des mesures de soutien et de relance du logement social, à la mise en place du volet logement du plan de cohésion sociale avec notamment la mobilisation de la ligne budgétaire unique.
 
-II. - Dans les départements d'outre-mer, à Mayotte et à Saint-Pierre-et-Miquelon, 37 500 logements sociaux seront créés au cours des années 2007 à 2009, selon la programmation suivante :
+II.-Dans les départements d'outre-mer, à Mayotte et à Saint-Pierre-et-Miquelon, 37 500 logements sociaux seront créés au cours des années 2007 à 2009, selon la programmation suivante :
 
 <table>
 <tbody>
