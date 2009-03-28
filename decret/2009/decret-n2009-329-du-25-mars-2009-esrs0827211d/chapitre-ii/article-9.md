@@ -1,0 +1,3 @@
+# Article 9
+
+Le règlement intérieur de l'établissement, conformément aux dispositions législatives et réglementaires en vigueur, précise notamment, sous réserve des dispositions de l'article 6, les règles de composition des conseils, les règles de quorum et modalités de délibérations des conseils, les modalités de convocation, d'établissement et d'envoi de l'ordre du jour des conseils ainsi que la présidence de ceux-ci en cas d'empêchement de leurs présidents respectifs. Il définit en outre la liste des personnes qui peuvent assister aux séances des conseils avec voix consultative ainsi que les règles de publicité des délibérations.
