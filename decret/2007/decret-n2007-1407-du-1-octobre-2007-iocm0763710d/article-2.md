@@ -32,7 +32,7 @@ Il comprend les membres suivants :
 
 14° Le directeur départemental du travail, de l'emploi et de la formation professionnelle de Guyane ;
 
-15° Le directeur départemental de l'     institution mentionnée à l'article L. 5312-1 du code du travail  de Guyane ;
+15° Le directeur départemental de l'institution mentionnée à l'article L. 5312-1 du code du travail de Guyane ;
 
 16° Le trésorier-payeur général de Guyane ;
 
@@ -62,6 +62,6 @@ Il comprend les membres suivants :
 
 29° Le directeur de l'INSEE Guyane ;
 
-30° Le délégué régional de l'Agence nationale de l'accueil des étrangers et des migrations en Guyane ;
+30° Le délégué régional de l'          Office français de l'immigration et de l'intégration  en Guyane ;
 
 31° Trois personnes qualifiées désignées par le préfet.
