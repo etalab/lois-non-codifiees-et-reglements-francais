@@ -1,8 +1,8 @@
 # Article 25
 
-I. - Il est créé une taxe intitulée : "taxe au profit de l'Office national d'intervention chargé du lait et des produits laitiers".
+I. - Il est créé une taxe intitulée : "taxe au profit de l'établissement national des produits de l'agriculture et de la mer (FranceAgriMer) ".
 
-La taxe est affectée à l'Office national d'intervention chargé du lait et des produits laitiers pour assurer le financement des actions qu'il met en oeuvre en sa qualité d'office agricole au bénéfice du marché des produits laitiers en application de l'article L. 621-3 du code rural.
+La taxe est affectée à l'établissement national des produits de l'agriculture et de la mer (FranceAgriMer) pour assurer le financement des actions qu'il met en oeuvre au bénéfice du marché des produits laitiers en application de l'article L. 621-3 du code rural.
 
 Les opérations financées au moyen du produit de cette taxe font l'objet d'une comptabilité distincte tenue par l'office.
 
@@ -14,7 +14,7 @@ III. - La taxe est assise :
 
 2° Sur la quantité de lait de vache vendue ou cédée ou utilisée pour fabriquer des produits laitiers vendus ou cédés par le producteur pendant la période mentionnée au 1° et qui dépasse la quantité de référence notifiée à ce producteur pour les ventes directes de cette période.
 
-Ces quantités peuvent être diminuées d'un abattement fixé par arrêté conjoint du ministre chargé de l'agriculture et du ministre chargé du budget pris après avis du conseil de direction de l'Office national d'intervention chargé du lait et des produits laitiers.
+Ces quantités peuvent être diminuées d'un abattement fixé par arrêté conjoint du ministre chargé de l'agriculture et du ministre chargé du budget pris après avis du conseil d'administration de l'établissement national des produits de l'agriculture et de la mer (FranceAgriMer).
 
 Dans le cas d'un abattement proportionnel aux quantités de référence individuelles des producteurs, le taux de cet abattement est compris entre 1 % et 15 %. Dans le cas d'un abattement mesuré en poids, ce poids est compris entre 0 et 20 600 kilogrammes de lait. Ces deux types d'abattement peuvent être cumulables.
 
@@ -36,8 +36,8 @@ Les acheteurs de lait versent à cet office, dans le mois suivant cette notifica
 
 Les producteurs effectuant des ventes directes versent à cet office, dans le mois suivant cette notification, le produit de la taxe dont ils sont redevables.
 
-VII. - En cas de défaut de paiement, le directeur de l'office mentionné au I poursuit le recouvrement de cette taxe suivant les dispositions qui régissent la comptabilité publique.
+VII. - En cas de défaut de paiement, le directeur de l'établissement mentionné au I poursuit le recouvrement de cette taxe suivant les dispositions qui régissent la comptabilité publique.
 
-VIII. - Le directeur de l'office mentionné au I diligente les contrôles, effectue les redressements et reçoit les recours formulés par les acheteurs de lait ou les producteurs concernant l'assiette de la taxe suivant les dispositions du code rural relatives à la maîtrise de la production de lait de vache et aux modalités de recouvrement d'un prélèvement supplémentaire à la charge des acheteurs et des producteurs de lait de vache.
+VIII. - Le directeur de l'établissement mentionné au I diligente les contrôles, effectue les redressements et reçoit les recours formulés par les acheteurs de lait ou les producteurs concernant l'assiette de la taxe suivant les dispositions du code rural relatives à la maîtrise de la production de lait de vache et aux modalités de recouvrement d'un prélèvement supplémentaire à la charge des acheteurs et des producteurs de lait de vache.
 
 IX. - Un décret précise, en tant que de besoin, les modalités d'application du présent article.

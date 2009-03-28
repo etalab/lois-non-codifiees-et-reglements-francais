@@ -2,7 +2,7 @@
 
 Dans les conditions prévues par l'article 38 de la Constitution, le Gouvernement est autorisé à prendre par ordonnance les dispositions législatives nécessaires pour :
 
-1° Créer un nouvel établissement public administratif en regroupant l'Agence unique de paiement et le Centre national pour l'aménagement des structures des exploitations agricoles, et définir ses missions et ses conditions générales d'organisation et de fonctionnement ;
+1° Créer un nouvel établissement public administratif en regroupant l'Agence de services et de paiement et le Centre national pour l'aménagement des structures des exploitations agricoles, et définir ses missions et ses conditions générales d'organisation et de fonctionnement ;
 
 2° Préciser les obligations des collectivités territoriales et de leurs délégataires en matière de rémunération des stagiaires de la formation professionnelle ainsi que les conditions dans lesquelles ces collectivités ou leurs établissements publics peuvent confier à un tiers par voie de convention de mandat l'attribution ou le paiement d'aides qu'elles instituent ;
 
