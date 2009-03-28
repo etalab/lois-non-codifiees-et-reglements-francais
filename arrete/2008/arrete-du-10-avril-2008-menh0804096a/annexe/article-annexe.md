@@ -87,7 +87,7 @@
 <tr>
 <td align="center">Corps des inspecteurs de l'éducation nationale <br/>régi par le décret n° 90-675 du 18 juillet 1990 modifié portant statuts particuliers des inspecteurs d'académie-inspecteurs pédagogiques régionaux et des inspecteurs de l'éducation nationale <br/>Inspecteur de l'éducation nationale hors classe <br/>
 </td>
-<td align="center">28 % <br/>
+<td align="center">34,5 % <br/>
 </td>
 </tr>
 <tr>
