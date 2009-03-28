@@ -12,7 +12,7 @@ Dans le cas prévu au paragraphe 3°, lorsque l'immeuble a été acquis à titre
 
 Cependant, aucun de ces bénéficiaires ne peut exercer ce droit de reprise sur un logement s'il est propriétaire, dans la même agglomération, d'un autre local libre de tout locataire ou occupant et correspondant à ses besoins et à ceux de sa famille.
 
-Le propriétaire doit prévenir, suivant les usages locaux et au moins six mois à l'avance, par acte extrajudiciaire, le locataire ou l'occupant dont il se propose de reprendre le local ; ledit acte doit, à peine de nullité :
+Le propriétaire doit prévenir,     au moins six mois à l'avance, par acte extrajudiciaire, le locataire ou l'occupant dont il se propose de reprendre le local ; ledit acte doit, à peine de nullité :
 
 Indiquer que le droit de reprise est exercé en vertu du présent article ;
 

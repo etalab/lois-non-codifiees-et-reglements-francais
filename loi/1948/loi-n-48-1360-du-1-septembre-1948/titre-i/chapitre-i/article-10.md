@@ -4,7 +4,7 @@ N'ont pas droit au maintien dans les lieux les personnes définies aux articles 
 
 1° Qui ont fait ou feront l'objet d'une décision judiciaire devenue définitive ayant prononcé leur expulsion par application du droit commun ou de dispositions antérieures permettant l'exercice du droit de reprise ou qui feront l'objet d'une semblable décision prononçant leur expulsion pour l'une des causes et aux conditions admises par la présente loi ; toutefois, lorsque la décision n'aura ordonné l'expulsion qu'en raison de l'expiration du bail ou d'un précédent maintien dans les lieux accordé par les lois antérieures, l'occupant ne sera pas privé du droit au maintien dans les lieux ;
 
-2° Qui n'ont pas occupé effectivement par elles-mêmes les locaux loués ou ne les ont pas fait occuper par les personnes qui vivaient habituellement avec elles et qui sont, soit membres de leur famille, soit à leur charge. L'occupation doit avoir duré huit mois au cours d'une année de location, à moins que la profession, la fonction de l'occupant ou tout autre motif légitime ne justifie une occupation d'une durée moindre. En particulier, lorsque l'occupant apportera la preuve qu'il est tenu par ses obligations professionnelles à résider temporairement hors de la France métropolitaine, la durée d'occupation susvisée pourra être réduite à six mois pour une période de trois années.
+2° Qui n'ont pas occupé effectivement par elles-mêmes les locaux loués ou ne les ont pas fait occuper par les personnes qui vivaient habituellement avec elles et qui sont, soit membres de leur famille, soit à leur charge.L'occupation doit avoir duré huit mois au cours d'une année de location, à moins que la profession, la fonction de l'occupant ou tout autre motif légitime ne justifie une occupation d'une durée moindre. En particulier, lorsque l'occupant apportera la preuve qu'il est tenu par ses obligations professionnelles à résider temporairement hors de la France métropolitaine, la durée d'occupation susvisée pourra être réduite à six mois pour une période de trois années.
 
 3° Qui ont plusieurs habitations, sauf pour celle constituant leur principal établissement, à moins qu'elles ne justifient que leur fonction ou leur profession les y oblige ;
 
@@ -16,7 +16,7 @@ Toutefois, lorsque l'interdiction n'a été édictée qu'à titre temporaire ou 
 
 6° Qui occupent des locaux de plaisance, pour lesdits locaux ;
 
-7° Qui, à Paris, dans un rayon de 50 kilomètres de l'emplacement des anciennes fortifications de Paris et dans les communes dont la population municipale est égale ou supérieure à 10.000 habitants ne remplissent pas à l'expiration d'un délai de six mois à compter de la signification du congé les conditions d'occupation suffisante fixées en application de l'article 327 du code de l'urbanisme et de l'habitation.
+7° Qui, dans les communes comprises, au sens du recensement général de la population, dans une agglomération de plus de 50 000 habitants et comprenant au moins une commune de plus de 15 000 habitants ainsi que dans les communes de plus de 20 000 habitants ne remplissent pas à l'expiration d'un délai de six mois à compter de la signification du congé les conditions d'occupation suffisante fixées en application de l'article L. 621-2 du code de la construction et de l'habitation.
 
 Ces dispositions pourront être rendues applicables aux communes non visées ci-dessus par décret pris sur le rapport de la construction.
 

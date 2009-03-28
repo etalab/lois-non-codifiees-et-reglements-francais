@@ -1,13 +1,11 @@
 # Article 37
 
-I. - La consultation au service du livre foncier ou à distance des données essentielles est libre. Les données essentielles, au sens de la publicité foncière, sont les nom et prénoms du titulaire de droits, sa dénomination s'il s'agit d'une personne morale, l'identification cadastrale de l'immeuble ainsi que la nature des droits, des servitudes, des sûretés et des charges relatifs à celui-ci.
+I. - La consultation des données du livre foncier et du registre des dépôts sur place ou à distance est libre.
 
-II. - Les agents spécialement habilités des services administratifs de l'Etat, des collectivités territoriales et de leurs établissements publics de coopération, pour l'exercice de leurs compétences, les notaires, les avocats, les huissiers de justice, les géomètres experts dans l'exercice d'un mandat légal, ont accès sur place ou à distance à l'ensemble des données de publicité foncière détenues par un bureau foncier. En outre, toute personne peut accéder sur place ou à distance à l'ensemble des données relatives à un bien, en justifiant d'une autorisation du titulaire du droit de propriété au sens de l'article 543 du code civil, d'un titre exécutoire ou d'une autorisation judiciaire.
+II. - Toute personne qui consulte ces données peut en obtenir une copie délivrée par le greffe ou l'établissement public. La copie est délivrée par l'établissement public à titre de simple renseignement.
 
-III. - L'inscription d'un droit au livre foncier doit être portée à la connaissance des titulaires de droits concernés avec l'indication de leur droit d'accès et de rectification.
+III. - L'inscription d'un droit sur le registre destiné à la publicité des droits sur les immeubles doit être portée à la connaissance des titulaires de droits concernés avec l'indication de leur droit d'accès et de rectification.
 
-Toute personne peut obtenir communication des informations concernant ses biens et ses droits et, sous réserve des droits des tiers, exiger la rectification, la modification ou la suppression d'une information inexacte, incomplète ou périmée.
+Toute personne peut obtenir communication des informations concernant ses biens et ses droits et, sous réserve des droits des tiers, exiger la rectification, la modification ou la suppression d'une information inexacte, incomplète ou périmée par requête présentée au juge du livre foncier.
 
-IV. - La consultation et la communication des données détenues par le service du livre foncier peuvent donner lieu au versement d'une redevance dans des conditions fixées par décret.
-
-V. - Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
+IV. - Un décret en Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés, détermine les conditions d'application du présent article et, notamment, la liste des données consultables outre les droits énumérés à l'article 38 ainsi que les modes de consultation et les conditions dans lesquelles s'exerce le libre accès aux données du livre foncier et du registre des dépôts.

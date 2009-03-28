@@ -13,9 +13,8 @@ I. à IV. - A modifié les dispositions suivantes :
 > >
 > >
 > >
-> >
 > > Art. L176
 
-V. - Les I à IV sont applicables aux opérations engagées du 1er janvier 2008 jusqu'au 31 décembre 2009.
+V. - Les I à IV sont applicables aux opérations engagées du 1er janvier 2008 jusqu'au 31 décembre 2010.
 
 > >

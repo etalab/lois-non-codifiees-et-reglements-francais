@@ -1,3 +1,7 @@
 # Article 7
 
-Les crédits consacrés par l'Etat à la mise en oeuvre du programme national de rénovation urbaine, ouverts par les lois de finances entre 2004 et 2013, sont fixés à 6 milliards d'euros, aucune dotation annuelle au cours de cette période ne pouvant être inférieure à 465 millions d'euros. Ils sont affectés, dans les conditions fixées par les lois de finances, à l'Agence nationale pour la rénovation urbaine créée par l'article 10.
+Les moyens financiers consacrés à la mise en œuvre du programme national de rénovation urbaine, entre 2004 et 2013, sont fixés à 12 milliards d'euros.
+
+Ces moyens sont affectés à l'Agence nationale pour la rénovation urbaine, créée par l'article 10, à partir des contributions versées, notamment, par l'Etat et l'Union d'économie sociale du logement mentionnée à l'article L. 313-17 du code de la construction et de l'habitation.
+
+L'Etat met en place, en complément des moyens mobilisés au titre de l'alinéa précédent, des crédits à hauteur de 350 millions d'euros pour accompagner les projets mis en œuvre dans le cadre du programme national de rénovation urbaine.

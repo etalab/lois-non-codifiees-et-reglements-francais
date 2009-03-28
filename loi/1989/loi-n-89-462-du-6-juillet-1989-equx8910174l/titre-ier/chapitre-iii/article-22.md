@@ -9,3 +9,5 @@ Il est restitué dans un délai maximal de deux mois à compter de la restitutio
 Le montant de ce dépôt de garantie ne porte pas intérêt au bénéfice du locataire. Il ne doit faire l'objet d'aucune révision durant l'exécution du contrat de location, éventuellement renouvelé.
 
 A défaut de restitution dans le délai prévu, le solde du dépôt de garantie restant dû au locataire, après arrêté des comptes, produit intérêt au taux légal au profit du locataire.
+
+En cas de mutation à titre gratuit ou onéreux des locaux loués, la restitution du dépôt de garantie incombe au nouveau bailleur. Toute convention contraire n'a d'effet qu'entre les parties à la mutation.

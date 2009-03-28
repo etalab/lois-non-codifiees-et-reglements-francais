@@ -2,7 +2,7 @@
 
 L'inscription des droits a lieu sur requête.
 
-Les requêtes sont portées sur un registre spécial, au fur et à mesure de leur dépôt.
+Les requêtes sont portées sur le registre des dépôts, au fur et à mesure de leur dépôt.
 
 Ce registre peut être tenu sous forme électronique dans les conditions définies à l'article 1316-1 du code civil.
 

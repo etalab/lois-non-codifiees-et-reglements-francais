@@ -1,6 +1,6 @@
 # Article 13 bis
 
-Le local mis à la disposition des personnes évincées, en application des articles 11 et 12, doit être en bon état d'habitation, remplir les conditions d'hygiène normales et correspondre à leurs besoins personnels ou familiaux et, le cas échéant, professionnels, et à leurs possibilités. Il doit en outre être situé :
+Le local mis à la disposition des personnes évincées, en application des articles 11 et 12, doit satisfaire aux caractéristiques définies en application des premier et deuxième alinéas de l'article 6 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986 et correspondre à leurs besoins personnels ou familiaux et, le cas échéant, professionnels, et à leurs possibilités. Il doit en outre être situé :
 
 Dans le même arrondissement ou les arrondissements limitrophes ou les communes limitrophes de l'arrondissement où se trouve le local, objet de la reprise, si celui-ci est situé dans une commune divisée en arrondissements ;
 

@@ -10,7 +10,9 @@ c) Les travaux comportant transformation, addition ou amélioration, à l'except
 
 d) La demande d'individualisation des contrats de fourniture d'eau et la réalisation des études et travaux nécessaires à cette individualisation prévus par l'article 93 de la loi n° 2000-1208 du 13 décembre 2000 relative à la solidarité et au renouvellement urbains ;
 
-e) Les modalités d'ouverture des portes d'accès aux immeubles. En cas de fermeture totale de l'immeuble, celle-ci doit être compatible avec l'exercice d'une activité autorisée par le règlement de copropriété. La décision d'ouverture est valable jusqu'à la tenue de l'assemblée générale suivante.
+e) Les modalités d'ouverture des portes d'accès aux immeubles. En cas de fermeture totale de l'immeuble, celle-ci doit être compatible avec l'exercice d'une activité autorisée par le règlement de copropriété. La décision d'ouverture est valable jusqu'à la tenue de l'assemblée générale suivante ;
+
+f) La suppression du poste de concierge ou de gardien et l'aliénation du logement affecté au concierge ou au gardien lorsqu'il appartient au syndicat, sous réserve qu'elles ne portent pas atteinte à la destination de l'immeuble ou aux modalités de jouissance des parties privatives de l'immeuble.
 
 L'assemblée générale ne peut, à quelque majorité que ce soit, imposer à un copropriétaire une modification à la destination de ses parties privatives ou aux modalités de leur jouissance, telles qu'elles résultent du règlement de copropriété.
 

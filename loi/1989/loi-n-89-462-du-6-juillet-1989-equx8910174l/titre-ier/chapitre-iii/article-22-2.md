@@ -30,6 +30,6 @@ En préalable à l'établissement du contrat de location, le bailleur ne peut de
 
 -extrait de casier judiciaire ;
 
--remise sur un compte bloqué de biens, d'effets, de valeurs ou d'une somme d'argent correspondant à plus de deux mois de loyer en principal en l'absence du dépôt de garantie ou de la souscription de la garantie autonome prévue à l'article 2321 du code civil ;
+-remise sur un compte bloqué de biens, d'effets, de valeurs ou d'une somme d'argent correspondant à plus d'un mois de loyer en principal en l'absence du dépôt de garantie ou de la souscription de la garantie autonome prévue à l'article 2321 du code civil ;
 
 -production de plus de deux bilans pour les travailleurs indépendants.

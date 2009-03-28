@@ -1,7 +1,6 @@
 # Chapitre Ier : Dispositions relatives à la garantie du droit au logement.
 
 - [Article 3](article-3.md)
-- [Article 4](article-4.md)
 - [Article 10](article-10.md)
 - [Article 12](article-12.md)
 - [Article 13](article-13.md)
