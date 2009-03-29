@@ -14,7 +14,7 @@ a) Soit à la création nette d'au moins vingt-cinq emplois permanents et à une
 
 b) Soit à la création nette d'au moins cinquante emplois permanents ;
 
-c) Soit enfin à la réalisation d'au moins 25 millions d'euros d'investissements éligibles.
+c) Soit à la réalisation d'au moins 10 millions d'euros d'investissements éligibles.
 
 3. Une prime d'aménagement du territoire peut être accordée dans les cas de reprises d'activité sous trois conditions :
 
@@ -22,4 +22,4 @@ a) Que la situation de l'emploi dans le bassin concernée soit très dégradée 
 
 b) Que le projet de reprise rétablisse de manière durable et structurelle la compétitivité de l'entreprise et contribue à la diversification de ses débouchés ;
 
-c) Et, enfin, que le programme primé conduise à la reprise d'au moins 150 emplois et à la réalisation d'au moins 15 millions d'euros d'investissements éligibles.
+c) Et enfin que le programme primé conduise à la reprise d'au moins 80 emplois et à la réalisation d'au moins 5 millions d'euros d'investissements éligibles, hors rachat du capital de la société faisant l'objet de la reprise.
