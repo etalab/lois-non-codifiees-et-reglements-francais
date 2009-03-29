@@ -8,11 +8,11 @@ Partie A
 
 Chapitre 1er
 
-Organismes nuisibles mentionnés à l'annexe I, partie A, chapitre 1er, de la directive 2000/29/CE du 8 mai 2000 dans sa rédaction issue de la directive 2005/16/CE de la Commission du 2 mars 2005.
+Organismes nuisibles mentionnés à l'annexe I, partie A, chapitre Ier, de la directive 2000/29/CE du 8 mai 2000 dans sa rédaction issue de la directive 2009/7/CE de la Commission du 10 février 2009.
 
 Chapitre 2
 
-Organismes nuisibles mentionnés à l'annexe I, partie A, chapitre II, de la directive 2000 / 29 / CE du 8 mai 2000 dans sa rédaction issue de la directive 2008 / 64 / CE de la Commission du 27 juin 2008.
+Organismes nuisibles mentionnés à l'annexe I, partie A, chapitre II, de la directive 2000/29/CE du 8 mai 2000 dans sa rédaction issue de la directive 2009/7/CE de la Commission du 10 février 2009.
 
 Partie B
 
