@@ -558,7 +558,6 @@
 - [Arrêté du 23 décembre 2006 (MEND0603020A)](arrete-du-23-decembre-2006-mend0603020a)
 - [Arrêté du 23 décembre 2008 (AGRS0831137A)](arrete-du-23-decembre-2008-agrs0831137a)
 - [Arrêté du 23 décembre 2008 (AGRS0831148A)](arrete-du-23-decembre-2008-agrs0831148a)
-- [Arrêté du 23 décembre 2008 (AGRS0831150A)](arrete-du-23-decembre-2008-agrs0831150a)
 - [Arrêté du 23 décembre 2008 (DEVE0831192A)](arrete-du-23-decembre-2008-deve0831192a)
 - [Arrêté du 23 décembre 2008 (DEVE0831204A)](arrete-du-23-decembre-2008-deve0831204a)
 - [Arrêté du 23 décembre 2008 (ECED0830947A)](arrete-du-23-decembre-2008-eced0830947a)
