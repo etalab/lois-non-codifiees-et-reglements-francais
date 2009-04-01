@@ -2,10 +2,6 @@
 
 Constituent de établissements publics à caractère administratif rattachés à un établissement public à caractère scientifique, culturel et professionnel en application de l'article 43 de la loi du 26 janvier 1984 et régis par le décret du 14 mars 1986 susvisé les écoles d'ingénieurs suivantes :
 
-L'école nationale supérieure de chimie et de physique de Bordeaux, rattachée à l'université de Bordeaux-I ;
-
-L'école nationale Supérieure d'électronique, informatique et radiocommunications de Bordeaux rattachée à l'université Bordeaux-I ;
-
 L'école nationale supérieure d'ingénieurs de Caen, rattachée à l'université de Caen ;
 
 L'école nationale supérieure de chimie de Clermont-Ferrand, rattachée à l'université de Clermont-Ferrand-II ;

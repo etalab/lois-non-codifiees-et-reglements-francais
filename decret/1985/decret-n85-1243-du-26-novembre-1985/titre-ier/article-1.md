@@ -26,13 +26,9 @@ Ecole supérieure de microbiologie et sécurité alimentaire, Brest ;
 
 Ecole d'ingénieurs de Cherbourg, Caen ;
 
-Ecole supérieure de technologie des biomolécules de Bordeaux (ESTBB), Bordeaux II ;
-
 Ecole nationale supérieure d'ingénieurs du Mans (ENSIM), Le Mans ;
 
 Ecole européenne de chimie, polymères et matériaux de Strasbourg, Strasbourg-I ;
-
-Ecole d'ingénieurs en modélisation mathématique et mécanique (MATMECA), Bordeaux-I ;
 
 Ecole supérieure d'ingénieurs de recherche en matériaux (ESIREM), Dijon ;
 
