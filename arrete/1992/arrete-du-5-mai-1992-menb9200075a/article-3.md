@@ -4,9 +4,9 @@ La phase d'admissibilité comprend les épreuves ci-après :
 
 1. Une épreuve orale se divisant en :
 
-- une interrogation sur un programme d'histoire de l'art lié au métier (préparation quinze minutes; durée vingt minutes ; coefficient 2) ;
+- une interrogation sur un programme d'histoire de l'art lié au métier dont le coefficient est fixé à 2 pour le concours externe et à 1 pour le concours interne (préparation : vingt minutes ; durée : vingt minutes) ;
 
-- une interrogation sur les techniques du métier (préparation : quinze minutes ; durée: vingt minutes ; coefficient 1) ;
+- une interrogation sur les techniques du métier dont le coefficient est fixé à 1 pour le concours externe et à 2 pour le concours interne (préparation : vingt minutes ; durée : vingt minutes).
 
 2. Une épreuve écrite relative à la technique de la spécialité.
 

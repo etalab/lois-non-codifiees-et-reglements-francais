@@ -40,7 +40,7 @@ Théorie des couleurs ; dessin à vue et à main levée : laquelle, le dessin te
 
 3. Programme relatif aux techniques des spécialités
 
-3.1. Ebéniste
+3. 1. Ebéniste
 
 Programme de l'épreuve
 
@@ -56,7 +56,7 @@ Descriptif de l'épreuve pratique (vingt heures)
 
 2. Réalisation d'une partie de l'objet étudié par application des techniques manuelles de la spécialité, utilisation des machines mono-opérationnelles et, s'il y a lieu, de tous moyens dont le professionnel garde la maîtrise, c'est-à-dire effectuer ou coordonner les opérations prévues (durée : seize heures).
 
-3.2. Menuisier en sièges
+3. 2. Menuisier en sièges
 
 Programme de l'épreuve
 
@@ -76,7 +76,7 @@ Descriptif de l'épreuve pratique (vingt heures)
 
 2. Réalisation d'une partie de l'objet étudié par application des techniques manuelles de la spécialité, utilisation des machines mono-opérationnelles et, s'il y a lieu, de tous moyens dont le professionnel garde la maîtrise, c'est-à-dire effectuer ou coordonner les opérations prévues (durée : seize heures).
 
-3.3. Créateur de prototypes mobilier
+3. 3. Créateur de prototypes mobilier
 
 Programme de l'épreuve
 
@@ -84,7 +84,7 @@ Connaissance des matériaux contemporains et des technologies nouvelles.
 
 Etude des techniques du galbe.
 
-Descriptif de l'épreuve pratique (vingt heures)
+Descriptif de l'épreuve pratique (vingt heure)
 
 1. Plan de construction à l'échelle 1 de l'ensemble ou d'une partie du meuble présenté (vues superposées par rabattement sur la face avec utilisation des couleurs conventionnelles et indication des rotations et translations) (durée : quatre heures).
 
@@ -108,7 +108,7 @@ Connaissance des techniques de conservation et de restauration des fibres textil
 
 3. Programme relatif aux techniques des spécialités
 
-3.1. Tapissier en garniture
+3. 1. Tapissier en garniture
 
 Programme de l'épreuve
 
@@ -126,7 +126,7 @@ Garniture à lame de couteau à des dimensions données, sans toile blanche, dos
 
 Levé de plan, terre et mural à l'échelle, d'une pièce des immeubles du Mobilier national aux fins de pose d'un tapis moquette, d'une tenture murale et de rideaux de croisée (six heures).
 
-3.2. Tapissier en décoration
+3. 2. Tapissier en décoration
 
 Programme de l'épreuve
 
@@ -148,7 +148,7 @@ Métrage, coupe, préparation et exécution d'après des mesures et des tissus d
 
 Epreuve de dessin : reproduction d'un élément de décoration donné (quatre heures).
 
-3.3. Rentrayeur en tapis
+3. 3. Rentrayeur en tapis
 
 Programme de l'épreuve
 
@@ -158,13 +158,19 @@ Connaissance des styles, des techniques de fabrication du tapis de la Savonnerie
 
 Connaissance de l'histoire du garde-meubles du Mobilier national.
 
-Descriptif de l'épreuve pratique (quatre semaines et neuf heures)
+Descriptif de l'épreuve pratique (cinq semaines et vingt-neuf heures)
 
-Reconstitution à l'aiguille d'un fragment de tapis de la Savonnerie d'après un modèle donné avec chaînage, tramage et calque du modèle, recherche des couleurs, tissage (quatre semaines).
+Reconstitution à l'aiguille d'un fragment de tapis de la Savonnerie d'après un modèle donné avec chaînage, tramage et calque du modèle, recherche des couleurs, tissage (cinq semaines).
 
-Epreuves de dessin : dessin de recherche de rythmes (trois heures) et esquisse en couleur d'après un tapis ou une tapisserie (six heures).
+Epreuve de dessin :
 
-3.4. Rentrayeur en tapisserie
+-dessin d'observation d'une nature morte ou modèle vivant (quatre heures) ;
+
+-étude de rythme en noir et blanc d'après un tapis ou une tapisserie (quatre heures) ;
+
+-agrandissement aux carreaux et mise en couleur (vingt et une heures).
+
+3. 4. Rentrayeur en tapisserie
 
 Programme de l'épreuve
 
@@ -176,13 +182,19 @@ Connaissance des styles, des techniques de fabrication des tapisseries.
 
 Connaissance des techniques de conservation : conservation préventive ; terminaison de la tapisserie après restauration.
 
-Descriptif de l'épreuve pratique (quatre semaines et neuf heures)
+Descriptif de l'épreuve pratique (cinq semaines et vingt-neuf heures)
 
-Travail de tissage à l'aiguille d'un fragment de tapisserie d'après un sujet donné avec chaînage, à la dimension du sujet et à la grosseur des chaînes données, montage, calque de modèle, tracé du sujet sur chaîne, choix des couleurs et couture des relais (quatre semaines).
+Travail de tissage à l'aiguille d'un fragment de tapisserie d'après un sujet donné avec chaînage à la dimension du sujet et à la grosseur de chaînes données, montage, calque de modèle, tracé du sujet sur la chaîne, choix des couleurs et couture des relais (cinq semaines).
 
-Epreuve de dessin : dessin de recherches et de rythmes et esquisse en couleur d'après une tapisserie donnée (neuf heures).
+Epreuve de dessin :
 
-3.5. Artiste en dentelle
+-dessin d'observation d'une nature morte ou modèle vivant (quatre heures) ;
+
+-étude de rythme en noir et blanc d'après un tapis ou une tapisserie (quatre heures) ;
+
+-agrandissement aux carreaux et mise en couleur (vingt et une heures).
+
+3. 5. Artiste en dentelle
 
 Programme de l'épreuve
 
@@ -196,7 +208,7 @@ Dessin d'un modèle, préparation de la fiche de fabrication, des matières d'oe
 
 Epreuve de dessin : création d'un ou plusieurs dessins dentelliers et de leurs supports, détermination des matières d'oeuvre et des outils à utiliser (une semaine).
 
-3.6. Artiste licier
+3. 6. Artiste licier
 
 Programme de l'épreuve
 
@@ -212,37 +224,43 @@ La maîtrise des outils.
 
 Les procédés techniques relatifs à la mise en oeuvre et à la réalisation du tapis et de la tapisserie ;
 
-- techniques de préparation ;
+-techniques de préparation ;
 
-- analyse du modèle et des techniques d'application ;
+-analyse du modèle et des techniques d'application ;
 
-- utilisation des matières d'oeuvre et des détails ;
+-utilisation des matières d'oeuvre et des détails ;
 
-- ourdissage, installation et réglage de la chaîne sur le métier ;
+-ourdissage, installation et réglage de la chaîne sur le métier ;
 
-- fabrication des lisses ;
+-fabrication des lisses ;
 
-- transfert technique du modèle (calque, traçage sur la chaîne) ;
+-transfert technique du modèle (calque, traçage sur la chaîne) ;
 
-- techniques de mise en oeuvre ;
+-techniques de mise en oeuvre ;
 
-- positionnement du lissier et études des gestes de base ;
+-positionnement du lissier et études des gestes de base ;
 
-- les différents éléments techniques du tapis : lisières, points noués, armature du tapis, dessin, enlevages, tonte, méthode de contrôle de réalisation et de l'observance des tracés ou du calque, méthodes de finition (démêler, ranger) ;
+-les différents éléments techniques du tapis : lisières, points noués, armature du tapis, dessin, enlevages, tonte, méthode de contrôle de réalisation et de l'observance des tracés ou du calque, méthodes de finition (démêler, ranger) ;
 
-- les différents éléments techniques de la tapisserie de haute et basse lisse ;
+-les différents éléments techniques de la tapisserie de haute et basse lisse ;
 
-- les différents procédés d'interpénétration des couleurs pour les tapis et tapisseries ;
+-les différents procédés d'interpénétration des couleurs pour les tapis et tapisseries ;
 
-- les différents types de réalisation en tapis et tapisseries.
+-les différents types de réalisation en tapis et tapisseries.
 
-Descriptif de l'épreuve pratique (huit semaines)
+Descriptif de l'épreuve pratique (cinq semaines et vingt-neuf heures)
 
-Réalisation d'un fragment de tapis ou de tapisserie d'après un modèle donné, après avoir fait l'échantillonnage et le calque technique.
+Réalisation d'un fragment de tapis ou de tapisserie d'après un modèle donné, après avoir fait l'échantillonnage et le calque technique (cinq semaines).
 
-Epreuve de dessin : dessin d'observation (nature morte ou modèle vivant) et agrandissement à main levée de motifs simples et colorés et mise en couleurs conformément au modèle fourni de cet agrandissement (huit heures).
+Epreuve de dessin :
 
-3.7. Artiste teinturier
+-dessin d'observation d'une nature morte ou modèle vivant (quatre heures) ;
+
+-étude de rythme en noir et blanc d'après un tapis ou une tapisserie (quatre heures) ;
+
+-agrandissement aux carreaux et mise en couleur (vingt et une heures).
+
+3. 7. Artiste teinturier
 
 Programme de l'épreuve
 
@@ -262,7 +280,7 @@ Exécution de travaux de teinture avec utilisation de produits tinctoriaux natur
 
 Réalisation d'un schéma concernant le cercle chromatique et ses soixante-douze couleurs franches d'après Chevreul (deux heures).
 
-3.8. Lingère d'art
+3. 8. Lingère d'art
 
 Programme de l'épreuve
 
@@ -278,7 +296,7 @@ Confection à la main ou à la machine à coudre et application d'un ou plusieur
 
 Dessins d'un plan de table à l'échelle avec nappe (deux heures).
 
-3.9. Restaurateur de costumes
+3. 9. Restaurateur de costumes
 
 Le programme de l'épreuve et le descriptif de celle-ci feront l'objet d'un arrêté ultérieur.
 
@@ -298,7 +316,7 @@ Connaissance des causes d'altération et de destruction des documents ; procéd�
 
 3. Programme relatif aux techniques des spécialités
 
-3.1. Reliure
+3. 1. Reliure
 
 Programme de l'épreuve
 
@@ -336,13 +354,13 @@ Restauration de feuillets endommagés par les insectes ou par l'humidité.
 
 Montage sous matériaux de consolidation.
 
-3.2. Doreur sur cuir
+3. 2. Doreur sur cuir
 
 Programme de l'épreuve
 
 Histoire de l'art et des techniques de la dorure.
 
-Evolution des procédés techniques;
+Evolution des procédés techniques ;
 
 Evolution des décors en reliure.
 
@@ -352,7 +370,7 @@ Restauration de la dorure d'un plat d'une reliure d'époque ornée (fers au choi
 
 Reprise de dorure et patinage.
 
-3.3. Monteur en dessin
+3. 3. Monteur en dessin
 
 Programme de l'épreuve
 
@@ -380,7 +398,7 @@ Réalisation d'un sous-verre complet.
 
 Réparation d'un cadre en bois par collage, patine.
 
-3.4. Restaurateur de papier ou de parchemin
+3. 4. Restaurateur de papier ou de parchemin
 
 Programme de l'épreuve
 
@@ -396,7 +414,7 @@ Descriptif de l'épreuve pratique (sept heures)
 
 Restauration d'un cahier de six feuillets papier et restauration d'un feuillet double de parchemin.
 
-3.5. Restaurateur d'estampes
+3. 5. Restaurateur d'estampes
 
 Programme de l'épreuve
 
@@ -406,7 +424,7 @@ Descriptif de l'épreuve pratique (dix heures)
 
 Restauration d'une lacune dans une pièce, confection d'un passe-partout biseauté avec filets de réencadrement pour exposition.
 
-3.6. Restaurateur de globes
+3. 6. Restaurateur de globes
 
 Programme de l'épreuve
 
@@ -428,7 +446,7 @@ Restauration de fuseau sur fond tendu et remontage.
 
 Réfection de l'enduit et du carton sous le papier.
 
-3.7 Spécialiste des éditions
+3. 7 Spécialiste des éditions
 
 Programme de l'épreuve
 
@@ -454,15 +472,49 @@ Histoire de la céramique en France du XVIIIe siècle à nos jours.
 
 Histoire de la manufacture de Sèvres.
 
-2. Programme relatif aux techniques du métier
+2. Programme relatif aux techniques du métier.
 
-Connaissance des différents procédés de fabrication et de décoration des pièces en porcelaine ; tournage, moulage, coulage, estampage, techniques de décor en grand feu et petit feu.
+Connaissance de la technologie des différents procédés de fabrication et de décoration des pièces en céramique, des matières premières et de leur préparation (pâtes, émaux, métaux précieux).
 
-Notions de technologie sur les matières premières et les préparations destinées à la réalisation d'objets en porcelaine.
+Notions de physique et de chimie liées à la spécialité.
 
-Descriptif de l'épreuve pratique (quatorze heures)
+3. Programme relatif aux techniques de la spécialité.
 
-Réalisation d'un modelage d'après un modèle (huit heures) et réalisation d'un dessin d'après un plâtre (six heures).
+Descriptif de l'épreuve pratique (quatorze heures).
+
+Exécution d'une des étapes de production d'un objet céramique, au choix du candidat exprimé lors de l'inscription (dix heures) :
+
+L'épreuve portera sur l'une ou plusieurs des étapes de production réparties dans les six catégories énumérées ci-dessous :
+
+1. Technologie-chimie
+
+Préparation chimique de couleurs, émaux, métaux précieux et formulation des pâtes.
+
+Préparation des pâtes et couvertes.
+
+2. Technologie-cuisson.
+
+Enfournement et cuisson.
+
+3. Façonnage
+
+Modelage de figures, modelage de formes, moulage-tournage plâtre, moulage-réparage, petit coulage, grand coulage, tournage, calibrage, garnissage-découpage, polissage-ajustage.
+
+4. Dessin
+
+Dessin d'épure, dessin de modèle.
+
+5. Décoration
+
+Emaillage, gravure, impression, décalquage impression, impression offset, décalquage offset, pose de fond, peinture, filage dorure, brunissage.
+
+6. Montage-ciselure
+
+Montage et ciselure :
+
+-réalisation d'un dessin à main levée d'après modèle (quatre heures).
+
+L'arrêté d'ouverture du concours fixe les étapes de production sur lesquelles l'épreuve pratique peut porter.
 
 METIERS DE L'AUDIOVISUEL ET DES NOUVELLES TECHNOLOGIES DE L'INFORMATION ET DE LA COMMUNICATION
 
@@ -478,7 +530,7 @@ Evolution des outils, connaissance des techniques et de leur mutation ainsi que 
 
 3. Programme relatif aux techniques des spécialités
 
-3.1. Spécialité Photo
+3. 1. Spécialité Photo
 
 Programme de l'épreuve
 
@@ -488,21 +540,21 @@ Les émulsions.
 
 Les procédés :
 
-- biochromatiques noir et blanc ;
+-biochromatiques noir et blanc ;
 
-- positif direct ;
+-positif direct ;
 
-- négatif-positif.
+-négatif-positif.
 
 Le noircissement direct ; révélation de l'image latente ;
 
-- couleur :
+-couleur :
 
-- synthèse additive ;
+-synthèse additive ;
 
-- synthèse soustractive ;
+-synthèse soustractive ;
 
-- les procédés pigmentaires.
+-les procédés pigmentaires.
 
 Les procédés chromogènes.
 
@@ -516,11 +568,11 @@ Notions de sensitométrie.
 
 Notions d'optique :
 
-- les lentilles et les objectifs (aberrations et corrections, etc.) :
+-les lentilles et les objectifs (aberrations et corrections, etc.) :
 
-- la perspective ;
+-la perspective ;
 
-- la profondeur de champ.
+-la profondeur de champ.
 
 Technologie des appareils de prises de vue : types, formats.
 
@@ -528,15 +580,15 @@ Maîtrise des techniques de prises de vue, de tirage, de reproduction des photos
 
 Notions d'éclairage et l'électricité :
 
-- différents types de lumières ;
+-différents types de lumières ;
 
-- notions pratiques d'électricité.
+-notions pratiques d'électricité.
 
 La conservation des documents photographiques :
 
-- les ennemis ;
+-les ennemis ;
 
-- les remèdes.
+-les remèdes.
 
 Conditions d'un bon traitement en vue de résultats durables.
 
@@ -566,7 +618,7 @@ Finition : présentation, repiques ou retouches éventuelles (une heure trente).
 
 Rédaction d'une fiche technique et des fiches de classement.
 
-3.2. Spécialité Audiovisuel
+3. 2. Spécialité Audiovisuel
 
 Programme de l'épreuve
 
@@ -582,7 +634,7 @@ Descriptif de l'épreuve pratique (douze heures)
 
 Travail réalisé à l'aide des outils et des technologies relevant du champ audiovisuel accompagné d'un commentaire du projet et des choix opérés.
 
-3.3. Spécialiste du multimédia
+3. 3. Spécialiste du multimédia
 
 Programme de l'épreuve
 
@@ -608,9 +660,9 @@ Histoire de l'art des jardins en France de la Renaissance à nos jours.
 
 2. Programme d'histoire des techniques du métier
 
-2.1. Connaissances de botanique et de techniques professionnelles agricoles ou horticoles
+2. 1. Connaissances de botanique et de techniques professionnelles agricoles ou horticoles
 
-Morphologie végétale : cellules et tissus ; la racine, la tige, la fleur, le fruit, la graine;
+Morphologie végétale : cellules et tissus ; la racine, la tige, la fleur, le fruit, la graine ;
 
 Physiologie végétale : composition des végétaux ; les grandes fonctions.
 
@@ -620,25 +672,25 @@ Reproduction végétale : reproduction sexuée et reproduction asexuée de phan�
 
 Notions de génétique : l'hérédité, les lois de Mendel, l'hybridation, les mutations et somations, la sélection.
 
-Climat et végétation : répartition des végétaux d'après le climat : applications de la climatologie : applications de la physiologie à l'horticulture;
+Climat et végétation : répartition des végétaux d'après le climat : applications de la climatologie : applications de la physiologie à l'horticulture ;
 
 Notions de pédologie : genèse des sols, qualités physico-chimiques écologiques, évolution d'un sol, corrections possibles.
 
-Les techniques horticoles : chaleur et froid en horticulture, travaux du sol ; l'eau en horticulture : irrigation, arrosages, drainages ; techniques culturales;
+Les techniques horticoles : chaleur et froid en horticulture, travaux du sol ; l'eau en horticulture : irrigation, arrosages, drainages ; techniques culturales ;
 
-Les engrais;
+Les engrais ;
 
 La lutte contre les parasites divers, les insectes et les maladies.
 
 Conduite de sculptures sous serres, bâches et abris.
 
-2.2. Dessin linéaire et d'ornement concernant la composition d'un jardin à partir de données topographiques, climatiques, architecturales, historiques.
+2. 2. Dessin linéaire et d'ornement concernant la composition d'un jardin à partir de données topographiques, climatiques, architecturales, historiques.
 
-2.3. Notions de topographie, planimétrie, altimétrie, relevés de plans, etc.
+2. 3. Notions de topographie, planimétrie, altimétrie, relevés de plans, etc.
 
-2.4. Horticulture, l'utilisation des végétaux, l'arboriculture d'ornement, la floriculture de plein air et de serre, les végétaux d'orangerie
+2. 4. Horticulture, l'utilisation des végétaux, l'arboriculture d'ornement, la floriculture de plein air et de serre, les végétaux d'orangerie
 
-2.5. Utilisation, fonctionnement et entretien du matériel agricole et horticole.
+2. 5. Utilisation, fonctionnement et entretien du matériel agricole et horticole.
 
 Descriptif de l'épreuve pratique (une heure quarante-cinq minutes)
 
@@ -662,7 +714,7 @@ Evolution des techniques de présentation des collections dans les musées.
 
 3. Programme relatif aux techniques des spécialités
 
-3.1. Peintre-décorateur
+3. 1. Peintre-décorateur
 
 Programme de l'épreuve
 
@@ -678,7 +730,7 @@ Descriptif de l'épreuve pratique (seize heures)
 
 Réalisation d'un élément de décor.
 
-3.2. Eclairagiste
+3. 2. Eclairagiste
 
 Programme de l'épreuve
 
@@ -692,7 +744,7 @@ Descriptif de l'épreuve pratique (huit heures)
 
 Mise en éclairage d'une salle équipée d'oeuvres.
 
-3.3. Installateur-monteur d'objet d'art
+3. 3. Installateur-monteur d'objet d'art
 
 Programme de l'épreuve
 
@@ -702,9 +754,9 @@ Techniques de présentation et de sécurité des oeuvres.
 
 Descriptif de l'épreuve pratique (huit heures)
 
-Préparation et réalisation d'un montage d'oeuvre et/ou de documents en vitrine ou sur cimaise.
+Préparation et réalisation d'un montage d'oeuvre et / ou de documents en vitrine ou sur cimaise.
 
-3.4. Encadreur-doreur
+3. 4. Encadreur-doreur
 
 Programme de l'épreuve
 
@@ -722,7 +774,7 @@ Descriptif de l'épreuve pratique (dix-huit heures)
 
 Réalisation d'un relevé d'empreinte et dorure.
 
-3.5. Métallier
+3. 5. Métallier
 
 Programme de l'épreuve
 
@@ -756,7 +808,7 @@ Evolution des procédés techniques et de l'utilisation des différents supports
 
 3. Programme relatif aux techniques des spécialités
 
-3.1. Argentier d'art
+3. 1. Argentier d'art
 
 Programme de l'épreuve
 
@@ -770,7 +822,7 @@ Remise en état d'une pièce d'argenterie à la pierre d'agate (deux heures).
 
 Exécution d'un plan de table de dîner officiel (une heure).
 
-3.2. Bronzier
+3. 2. Bronzier
 
 Programme de l'épreuve
 
@@ -784,15 +836,15 @@ Descriptif de l'épreuve pratique (soixante-dix heures)
 
 Exécution aux dimensions réelles d'une applique composée de trois parties (soixante heures) ;
 
-- tournage avec pose de mollettes ;
+-tournage avec pose de mollettes ;
 
-- ciselure ;
+-ciselure ;
 
-- monture ;
+-monture ;
 
 Réalisation du dessin coté aux dimensions réelles de l'applique (dix heures).
 
-3.3. Lustrier
+3. 3. Lustrier
 
 Programme de l'épreuve
 
@@ -806,15 +858,15 @@ Descriptif de l'épreuve pratique (soixante-dix heures)
 
 Exécution aux dimensions réelles d'une applique composée de trois parties (soixante heures) ;
 
-- tournage avec pose de mollettes ;
+-tournage avec pose de mollettes ;
 
-- ciselure ;
+-ciselure ;
 
-- monture.
+-monture.
 
 Réalisation du dessin coté aux dimensions réelles de l'applique (dix heures).
 
-3.4. Marbrier
+3. 4. Marbrier
 
 Programme de l'épreuve
 
@@ -840,7 +892,7 @@ Mise au plan d'un élément du projet pour réalisation (exemple : gaine moulur�
 
 Réalisation d'une partie du projet dessiné (durée : quatorze heures).
 
-3.5. Restaurateur-mouleur de sceaux
+3. 5. Restaurateur-mouleur de sceaux
 
 Programme de l'épreuve
 
@@ -866,7 +918,7 @@ Epreuve de moulage consistant en :
 
 5° Moulage de trois reproductions en porcelaine synthétique (Giluform ou autre masse de coulée) dans trois moules fournis. Après séchage, réalisation de patines colorées. (Durée totale de l'épreuve de moulage : cinq heures)
 
-3.6. Restaurateur de monnaies
+3. 6. Restaurateur de monnaies
 
 Programme de l'épreuve
 
@@ -900,11 +952,11 @@ Connaissances en matière de sécurité.
 
 3. Programme relatif aux techniques des spécialités
 
-3.1. Maquettiste
+3. 1. Maquettiste
 
 Le programme de l'épreuve et son descriptif feront l'objet d'un arrêté ultérieur.
 
-3.2. Spécialiste des volumes
+3. 2. Spécialiste des volumes
 
 Programme de l'épreuve
 
@@ -914,10 +966,10 @@ Descriptif de l'épreuve pratique (12 heures)
 
 A partir d'un dessin, travail de mise en volume en utilisant un ou plusieurs des matériaux fournis accompagné d'un commentaire du projet et des choix proposés.
 
-3.3. Spécialiste des moulages
+3. 3. Spécialiste des moulages
 
 Le programme de l'épreuve et son descriptif feront l'objet d'un arrêté ultérieur.
 
-3.4. Réalisateur de prototypes
+3. 4. Réalisateur de prototypes
 
 Le programme de l'épreuve et son descriptif feront l'objet d'un arrêté ultérieur.
