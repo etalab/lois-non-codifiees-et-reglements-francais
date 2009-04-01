@@ -4,9 +4,9 @@ I. - Le prospectus doit faire l'objet d'une diffusion effective sous l'une des f
 
 1° Publication dans un ou plusieurs journaux à diffusion nationale ou à large diffusion ;
 
-2° Mise à disposition gratuitement au siège de l'émetteur ou auprès de l'entreprise gérant le marché sur lequel les instruments financiers sont admis aux négociations et auprès des intermédiaires financiers qui placent ou négocient les instruments concernés, y compris ceux chargés du service financier des instruments financiers ;
+2° Mise à disposition gratuitement au siège de l'émetteur ou auprès de l'entreprise gérant le marché sur lequel les titres financiers sont admis aux négociations et auprès des intermédiaires financiers qui placent ou négocient les titres concernés, y compris ceux chargés du service financier des instruments financiers ;
 
-3° Mise en ligne sur le site de l'émetteur et, le cas échéant, sur celui des intermédiaires financiers qui placent ou négocient les instruments concernés, y compris ceux chargés du service financier des instruments financiers ;
+3° Mise en ligne sur le site de l'émetteur et, le cas échéant, sur celui des intermédiaires financiers qui placent ou négocient les titres  concernés, y compris ceux chargés du service financier des titres financiers ;
 
 4° Mise en ligne sur le site du marché réglementé où l'admission aux négociations est sollicitée.
 

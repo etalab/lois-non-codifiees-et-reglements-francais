@@ -1,4 +1,4 @@
-# Section 2 : Appel public à l'épargne
+# Section 2 : Offre au public
 
 - [Article 423-4](article-423-4.md)
 - [Article 423-5](article-423-5.md)

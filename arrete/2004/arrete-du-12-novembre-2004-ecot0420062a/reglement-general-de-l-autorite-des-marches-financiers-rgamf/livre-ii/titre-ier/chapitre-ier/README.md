@@ -1,4 +1,8 @@
-# Chapitre Ier : Information à diffuser lors de l'admission aux négociations sur un marché réglementé d'instruments financiers et lors de l'émission d'instruments financiers dont l'admission aux négociations sur un marché réglementé est demandée
+# Chapitre Ier : Champ d'application
 
 - [Section 3 : Coopération entre les Etats membres de la Communauté européenne ou les Etats parties à l'accord sur l'Espace économique européen](section-3)
 - [Section 4 : Dispositions diverses](section-4)
+- [Article 211-1](article-211-1.md)
+- [Article 211-2](article-211-2.md)
+- [Article 211-2-1](article-211-2-1.md)
+- [Article 211-3](article-211-3.md)

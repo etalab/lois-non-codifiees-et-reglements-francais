@@ -2,13 +2,13 @@
 
 I. - Le prospectus comprend un résumé, sauf lorsque la demande d'admission aux négociations sur un marché réglementé porte sur des titres de créance dont la valeur nominale s'élève au moins à 50 000 euros ou à la contre-valeur de ce montant en devises.
 
-II. - Le résumé expose brièvement et dans un langage non technique les principales caractéristiques de l'émetteur, des garants éventuels et des instruments financiers qui font l'objet de l'opération. Le résumé expose également les principaux risques présentés par l'émetteur, les garants éventuels et les instruments financiers concernés.
+II. - Le résumé expose brièvement et dans un langage non technique les principales caractéristiques de l'émetteur, des garants éventuels et des titres financiers qui font l'objet de l'offre au public ou dont l'admission aux négociations sur un marché réglementé est demandée. Le résumé expose également les principaux risques présentés par l'émetteur, les garants éventuels et les instruments financiers concernés.
 
 III. - Le résumé comporte également un avertissement mentionnant :
 
 1° Qu'il doit être lu comme une introduction au prospectus ;
 
-2° Que toute décision d'investir dans les instruments financiers qui font l'objet de l'opération doit être fondée sur un examen exhaustif du prospectus ;
+2° Que toute décision d'investir dans les titres financiers qui font l'objet de l'offre au public ou dont l'admission aux négociations sur un marché réglementé est demandée doit être fondée sur un examen exhaustif du prospectus ;
 
 3° Que lorsqu'une action concernant l'information contenue dans le prospectus est intentée devant un tribunal, l'investisseur plaignant peut, selon la législation nationale des Etats membres de la Communauté européenne ou parties à l'accord sur l'Espace économique européen, avoir à supporter les frais de traduction du prospectus avant le début de la procédure judiciaire ;
 

@@ -1,6 +1,6 @@
 # Article 111-7
 
-Le président peut procéder à tout contrôle qu'il juge utile du respect, par les membres, des présentes dispositions. A cette fin, les membres doivent lever à son profit le secret bancaire sur chacun des comptes d'instruments financiers dont ils sont titulaires.
+Le président peut procéder à tout contrôle qu'il juge utile du respect, par les membres, des présentes dispositions. A cette fin, les membres doivent lever à son profit le secret bancaire sur chacun des comptes-titres dont ils sont titulaires.
 
 Pour assurer ce contrôle, le président peut se faire assister par une personne de son choix.
 

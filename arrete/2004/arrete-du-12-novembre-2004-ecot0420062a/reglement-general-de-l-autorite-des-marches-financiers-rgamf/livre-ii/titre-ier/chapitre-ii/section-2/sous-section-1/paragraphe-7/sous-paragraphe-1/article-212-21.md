@@ -6,6 +6,6 @@ Si le dossier est incomplet, l'AMF en informe la personne ayant déposé le proj
 
 L'AMF notifie son visa dans les dix jours de négociation qui suivent la délivrance de l'avis de dépôt ou, le cas échéant, de l'avis de réception.
 
-En vue d'une opération par appel public à l'épargne, lorsque l'émetteur a établi un document de référence enregistré conformément à l'article 212-13, il dépose, dans les conditions précisées par une instruction de l'AMF, une note relative aux instruments financiers au plus tard cinq jours de négociation avant la date projetée d'obtention du visa demandé pour cette opération.
+En vue d'une offre au public ou d'une admission de titres financiers aux négociations sur un marché réglementé, lorsque l'émetteur a établi un document de référence enregistré conformément à l'article 212-13, il dépose, dans les conditions précisées par une instruction de l'AMF, une note relative aux titres financiers au plus tard cinq jours de négociation avant la date projetée d'obtention du visa demandé pour cette offre au public ou admission.
 
 Au cours de l'instruction du dossier, lorsque l'AMF indique que les documents sont incomplets ou que des informations complémentaires doivent y être insérées, les délais mentionnés aux troisième et quatrième alinéas ne courent qu'à partir de la réception par l'AMF des compléments d'information.

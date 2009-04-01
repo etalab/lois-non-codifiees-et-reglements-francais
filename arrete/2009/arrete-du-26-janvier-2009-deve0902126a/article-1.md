@@ -1,0 +1,3 @@
+# Article 1
+
+Le supercarburant sans plomb 95-E10 ne peut être détenu en vue de la vente ou vendu que s'il est conforme aux exigences minimales définies à l'article 2 ci-après ou de toute norme ou spécification en vigueur dans un Etat membre de l'Union européenne, de tout autre Etat membre de l'Espace économique européen ou de la Turquie garantissant un niveau de qualité équivalent pour les mêmes conditions climatiques.

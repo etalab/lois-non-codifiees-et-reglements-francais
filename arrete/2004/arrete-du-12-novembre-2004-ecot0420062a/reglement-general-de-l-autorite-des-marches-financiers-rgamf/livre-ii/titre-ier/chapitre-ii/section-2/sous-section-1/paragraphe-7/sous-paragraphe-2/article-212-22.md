@@ -1,6 +1,6 @@
 # Article 212-22
 
-L'article 212-21 ne s'applique pas en cas de première opération par appel public à l'épargne.
+L'article 212-21 ne s'applique pas en cas de première offre au public ou de première admission aux négociations sur un marché réglementé.
 
 Le dépôt du projet de prospectus doit être accompagné de la remise à l'AMF d'une documentation nécessaire à l'instruction du dossier et dont le contenu est précisé par une instruction de l'AMF.
 

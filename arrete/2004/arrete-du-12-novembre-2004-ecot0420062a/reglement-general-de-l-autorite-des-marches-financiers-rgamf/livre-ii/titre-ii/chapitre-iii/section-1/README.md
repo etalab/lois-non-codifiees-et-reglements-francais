@@ -1,6 +1,7 @@
 # Section 1 : Obligation d'information du public
 
 - [Article 223-1](article-223-1.md)
+- [Article 223-1 A](article-223-1-a.md)
 - [Article 223-2](article-223-2.md)
 - [Article 223-3](article-223-3.md)
 - [Article 223-4](article-223-4.md)

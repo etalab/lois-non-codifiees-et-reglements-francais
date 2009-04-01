@@ -1,4 +1,4 @@
-# Section 2 : Appel public à l'épargne
+# Section 2 : Offre au public
 
 - [Article 422-4](article-422-4.md)
 - [Article 422-5](article-422-5.md)

@@ -12,4 +12,4 @@ Une copie de cette lettre de fin de travaux sur le prospectus est transmise par 
 
 En cas de difficulté, les commissaires aux comptes d'un émetteur français peuvent interroger I'AMF pour toute question relative à l'information financière contenue dans un prospectus, un document de référence ou, le cas échéant, leurs actualisations ou leurs rectifications.
 
-III. - Les dispositions du II ne s'appliquent pas au prospectus établi en vue de l'admission sur un marché réglementé des instruments financiers mentionnés au 2° du I de l'article L. 211-1 du code monétaire et financier ou en vue de l'admission d'instruments financiers sur le compartiment mentionné à l'article 516-18.
+III. - Les dispositions du II ne s'appliquent pas au prospectus établi en vue de l'admission sur un marché réglementé de titres de créance ou en vue de l'admission de titres financiers sur le compartiment mentionné à l'article 516-18.

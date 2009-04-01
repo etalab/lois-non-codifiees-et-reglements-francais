@@ -1,4 +1,4 @@
-# Paragraphe 2 : Dispositions du cahier des charges du teneur de compte conservateur applicables aux personnes morales effectuant des opérations par appel public à l'épargne et inscrivant les instruments financiers émis dans des comptes de nominatif pur
+# Paragraphe 2 : Dispositions du cahier des charges du teneur de compte conservateur applicables aux personnes morales effectuant des opérations d'offre au public ou d'admission aux négociations sur un marché réglementé et inscrivant les titres financiers émis dans des comptes de nominatif pur
 
 - [Article 322-73](article-322-73.md)
 - [Article 322-74](article-322-74.md)

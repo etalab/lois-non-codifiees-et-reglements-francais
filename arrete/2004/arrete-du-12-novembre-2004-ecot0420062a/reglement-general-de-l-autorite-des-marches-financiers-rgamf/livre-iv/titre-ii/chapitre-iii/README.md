@@ -1,7 +1,7 @@
 # Chapitre III : Sociétés d'épargne forestière
 
 - [Section 1 : Constitution](section-1)
-- [Section 2 : Appel public à l'épargne](section-2)
+- [Section 2 : Offre au public](section-2)
 - [Section 3 : Fonctionnement](section-3)
 - [Section 4 : Information délivrée par la société d'épargne forestière](section-4)
 - [Section 5 : Des parts](section-5)

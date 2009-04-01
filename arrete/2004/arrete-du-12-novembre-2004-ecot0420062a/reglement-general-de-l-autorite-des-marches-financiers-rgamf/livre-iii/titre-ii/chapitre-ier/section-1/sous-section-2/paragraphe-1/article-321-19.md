@@ -6,4 +6,4 @@ Les opérations réalisées dans le cadre d'une gestion de fonds ainsi que leur 
 
 La société de gestion doit s'abstenir de toute initiative qui aurait pour objet de privilégier ses intérêts propres, ou ceux de ses associés, actionnaires ou sociétaires, au détriment des intérêts des porteurs.
 
-Les placements réalisés pour les besoins de la gestion des fonds propres ne doivent pas être de nature à mettre en cause le respect des dispositions de l'article 331-5.
+Les placements réalisés pour les besoins de la gestion des fonds propres ne doivent pas être de nature à mettre en cause le respect des dispositions de l'article 321-5.

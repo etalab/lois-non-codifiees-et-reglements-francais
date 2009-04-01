@@ -2,9 +2,7 @@
 
 Au sens du présent titre :
 
-1° Le terme : "émetteur désigne toute entité ou toute personne morale ayant le statut d'émetteur faisant appel public à l'épargne ou dont les instruments financiers sont supports d'un contrat à terme ou d'un instrument financier admis aux négociations sur un marché réglementé ;
-
-2° Lorsque les instruments financiers de l'émetteur sont admis aux négociations sur un marché réglementé, le terme : "information réglementée désigne les documents et informations suivants :
+1° Lorsque les titres financiers de l'émetteur sont admis aux négociations sur un marché réglementé, le terme : " information réglementée désigne les documents et informations suivants :
 
 a) Le rapport financier annuel mentionné à l'article 222-3 ;
 
@@ -12,7 +10,7 @@ b) Le rapport financier semestriel mentionné à l'article 222-4 ;
 
 c) L'information financière trimestrielle mentionnée au IV de l'article L. 451-1-2 du code monétaire et financier ;
 
-d) Les rapports mentionnés à l'article 222-9 sur les conditions de préparation et d'organisation des travaux du conseil d'administration ou de surveillance et les procédures de contrôle interne mises en place par les émetteurs ;
+d) Les rapports mentionnés à l'article 222-9 sur les conditions de préparation et d'organisation des travaux du conseil d'administration ou de surveillance et les procédures de contrôle interne et de gestion des risques mises en place par les émetteurs ;
 
 e) Le communiqué relatif aux honoraires des contrôleurs légaux des comptes mentionnés à l'article 222-8 ;
 
@@ -28,8 +26,8 @@ j) Un communiqué qui précise les modalités de mise à disposition ou de consu
 
 k) Les informations publiées en application de l'article 223-21 ;
 
-Lorsque l'émetteur n'a aucun instrument financier admis aux négociations sur un marché réglementé, le terme : "information réglementée désigne les documents et informations mentionnés aux points d, e, h et i.
+Lorsque les titres financiers de l'émetteur sont admis aux négociations sur un système multilatéral de négociation organisé au sens de l'article 524-1, le terme : information réglementée désigne les documents et informations mentionnés aux points h et i.
 
-3° Le terme : "personne désigne une personne physique ou une personne morale.
+2° Le terme : " personne désigne une personne physique ou une personne morale.
 
 Les dispositions du présent titre sont également applicables aux dirigeants de l'émetteur, de l'entité ou de la personne morale concernés.

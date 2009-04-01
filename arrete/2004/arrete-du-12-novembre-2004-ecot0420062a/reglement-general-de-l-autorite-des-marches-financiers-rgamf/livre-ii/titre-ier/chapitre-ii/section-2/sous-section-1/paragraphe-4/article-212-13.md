@@ -22,8 +22,8 @@ Est significative toute omission ou inexactitude, au regard du présent règleme
 
 Les autres observations formulées par l'AMF sont portées à la connaissance de l'émetteur, qui en tient compte dans le document de référence ultérieur.
 
-VI. - Lorsque le document de référence déposé ou enregistré par l'AMF est rendu public dans les quatre mois suivant la clôture de l'exercice et comprend les informations mentionnées aux a et e du 2° de l'article 221-1, l'émetteur est dispensé de la publication séparée de ces informations.
+VI. - Lorsque le document de référence déposé ou enregistré par l'AMF est rendu public dans les quatre mois suivant la clôture de l'exercice et comprend les informations mentionnées aux a et e du 1° de l'article 221-1, l'émetteur est dispensé de la publication séparée de ces informations.
 
-VII. - Lorsqu'une actualisation du document de référence est rendue publique dans les deux mois qui suivent la fin du premier semestre ou dans les quarante-cinq jours qui suivent la fin des premier ou troisième trimestres de l'exercice et comprend les informations mentionnées au b ou c du 2° de l'article 221-1, l'émetteur est dispensé de la publication séparée de ces informations.
+VII. - Lorsqu'une actualisation du document de référence est rendue publique dans les deux mois qui suivent la fin du premier semestre ou dans les quarante-cinq jours qui suivent la fin des premier ou troisième trimestres de l'exercice et comprend les informations mentionnées au b ou c du 1° de l'article 221-1, l'émetteur est dispensé de la publication séparée de ces informations.
 
 VIII. - Afin de bénéficier des dispenses de publication mentionnées aux VI et VII, l'émetteur diffuse, conformément à l'article 221-3, un communiqué précisant les modalités de mise à disposition du document de référence ou de ses actualisations.

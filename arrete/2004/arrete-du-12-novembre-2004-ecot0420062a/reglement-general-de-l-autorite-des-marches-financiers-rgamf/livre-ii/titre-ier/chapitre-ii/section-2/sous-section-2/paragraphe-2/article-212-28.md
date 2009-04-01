@@ -1,6 +1,6 @@
 # Article 212-28
 
-Les communications à caractère promotionnel se rapportant à une opération par appel public à l'épargne, quels que soient leur forme et leur mode de diffusion, sont communiquées à l'AMF préalablement à leur diffusion.
+Les communications à caractère promotionnel se rapportant à une offre au public ou à une admission aux négociations sur un marché réglementé, quels que soient leur forme et leur mode de diffusion, sont communiquées à l'AMF préalablement à leur diffusion.
 
 Les communications mentionnées au premier alinéa doivent :
 
@@ -14,4 +14,4 @@ Les communications mentionnées au premier alinéa doivent :
 
 5° Comporter une mention attirant l'attention du public sur la rubrique "facteurs de risques du prospectus ;
 
-6° Le cas échéant, comporter, à la demande de l'AMF, un avertissement sur certaines caractéristiques exceptionnelles présentées par l'émetteur, les garants éventuels ou les instruments financiers qui font l'objet de l'opération.
+6° Le cas échéant, comporter, à la demande de l'AMF, un avertissement sur certaines caractéristiques exceptionnelles présentées par l'émetteur, les garants éventuels ou les titres financiers qui font l'objet de l'offre au public ou l'admission aux négociations sur un marché réglementé.
