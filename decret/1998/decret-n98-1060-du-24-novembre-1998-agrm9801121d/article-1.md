@@ -12,7 +12,7 @@ c) Un représentant du ministre chargé des gens de mer ;
 
 d) Un représentant du ministre chargé de l'outre-mer ;
 
-e) Les présidents du Comité national des pêches maritimes et des élevages marins et de l'Office interprofessionnel des produits de la mer ;
+e) Les présidents du Comité national des pêches maritimes et des élevages marins et de l'Etablissement national des produits de l'agriculture et de la mer (FranceAgriMer) ;
 
 f) Douze représentants de la production halieutique ;
 

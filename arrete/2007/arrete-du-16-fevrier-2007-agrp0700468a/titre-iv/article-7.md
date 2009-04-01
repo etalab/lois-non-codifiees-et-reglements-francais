@@ -16,8 +16,8 @@ Les demandes de concours financier comportent :
 
 Seuls les projets d'investissements retenus par le groupement de producteurs sont adressés par celle-ci à l'Association nationale interprofessionnelle technique du tabac (ANITTA), avant le 1er mars de l'année.
 
-L'ANITTA adresse à VINIFLHOR l'ensemble des projets d'investissements qu'elle a retenus, avant le 15 mars de l'année.
+L'ANITTA adresse à FranceAgriMer l'ensemble des projets d'investissements qu'elle a retenus, avant le 15 mars de l'année.
 
-A compter de leur réception, VINIFLHOR instruit les demandes et délivre une autorisation de commencer les travaux (ACT) au demandeur, au plus tard le 1er avril de l'année.
+A compter de leur réception, FranceAgriMer instruit les demandes et délivre une autorisation de commencer les travaux (ACT) au demandeur, au plus tard le 1er avril de l'année.
 
-Les demandes de concours financier retenues et non retenues par VINIFLHOR sont notifiées aux groupements de producteurs concernées. Pour les demandes de concours retenues, VINIFLHOR notifie (communique) au plus tard le 1er août à chaque groupement de producteurs, les aides prévisionnelles maximales des projets.
+Les demandes de concours financier retenues et non retenues par FranceAgriMer  sont notifiées aux groupements de producteurs concernées. Pour les demandes de concours retenues, FranceAgriMer  notifie (communique) au plus tard le 1er août à chaque groupement de producteurs, les aides prévisionnelles maximales des projets.

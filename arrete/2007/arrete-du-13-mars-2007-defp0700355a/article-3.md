@@ -4,7 +4,7 @@ Les destinataires des données à caractère personnel enregistrées sont, en fo
 
 - l'Etablissement public d'insertion de la défense (EPIDe) ;
 
-- le Centre national d'aménagement des structures pour l'exploitation agricole (CNASEA) ;
+- l'Agence de services et de paiement ;
 
 - les services du secrétariat général pour l'administration ;
 

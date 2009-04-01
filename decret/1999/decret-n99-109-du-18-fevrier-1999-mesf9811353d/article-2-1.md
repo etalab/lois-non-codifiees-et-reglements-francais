@@ -4,6 +4,6 @@ Le montant annuel de l'aide prévue à l'article 2 est déterminé pour chaque a
 
 L'aide est attribuée pour le financement des dépenses directement exposées par l'association au titre des actions de suivi et d'accompagnement.
 
-L'aide est versée par le Centre national pour l'aménagement des structures des exploitations agricoles mentionné à l'article L. 313-3 du code rural.
+L'aide est versée par           l'Agence de services et de paiement mentionné à l'article L. 313-3 du code rural.
 
 Un arrêté du ministre chargé de l'emploi et du ministre chargé du budget fixe le montant maximal de l'aide et précise les modalités d'attribution de l'aide.

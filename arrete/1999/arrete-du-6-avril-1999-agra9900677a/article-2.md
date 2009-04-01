@@ -28,13 +28,13 @@ Elle comprend :
 
 -le directeur des pêches maritimes et des cultures marines ;
 
--le     délégué à l'information et à la communication ;
+-le délégué à l'information et à la communication ;
 
 -le chef du service des haras, des courses et de l'équitation ;
 
 -le directeur général de l'Office national des forêts ;
 
--le directeur général du Centre national pour l'aménagement des structures des exploitations agricoles ;
+-le directeur général de l'Agence de services et de paiement ;
 
 -le directeur de l'institut de formation des personnels du ministère de l'agriculture et de la pêche ;
 

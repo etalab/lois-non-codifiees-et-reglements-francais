@@ -12,7 +12,7 @@ Sont seuls habilités à avoir communication des informations nominatives relati
 
 - le directeur et le chef de service ainsi que les agents de la direction régionale de l'agriculture et de la forêt à laquelle appartient chaque direction concernée mentionnée à l'article 1er pour des usages relevant de ses attributions réglementaires ;
 
-- le directeur général et les chefs de service ainsi que les agents du Centre national pour l'aménagement des structures des exploitations agricoles et ses délégations régionales dans la limite des droits liés à leurs attributions réglementaires dans les procédures traitées ;
+- le directeur général et les chefs de service ainsi que les agents de l'Agence de services et de paiement et ses délégations régionales dans la limite des droits liés à leurs attributions réglementaires dans les procédures traitées ;
 
 - le directeur général ainsi que les agents des sièges sociaux des établissements de crédit habilités à distribuer des prêts bonifiés à l'agriculture ;
 

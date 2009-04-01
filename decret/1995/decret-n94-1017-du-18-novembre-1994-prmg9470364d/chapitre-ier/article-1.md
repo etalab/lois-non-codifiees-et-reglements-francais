@@ -4,7 +4,7 @@ Les dispositions du décret du 18 novembre 1994 susvisé et celles du présent d
 
 1. Corps d'administration centrale des administrations de l'Etat :
 
-- secrétaires administratifs d'administration centrale.
+-secrétaires administratifs d'administration centrale.
 
 Les secrétaires administratifs d'administration centrale des services généraux du Premier ministre peuvent être affectés dans les établissements publics administratifs placés sous la tutelle du Premier ministre.
 
@@ -12,39 +12,39 @@ Les secrétaires administratifs d'administration centrale des services générau
 
 a) Corps des services déconcentrés des administrations de l'Etat :
 
-- secrétaires administratifs des services déconcentrés du travail, de l'emploi et de la formation professionnelle ;
+-secrétaires administratifs des services déconcentrés du travail, de l'emploi et de la formation professionnelle ;
 
-- secrétaires administratifs de police ;
+-secrétaires administratifs de police ;
 
-- secrétaires administratifs de l'intérieur et de l'outre-mer ;
+-secrétaires administratifs de l'intérieur et de l'outre-mer ;
 
 Les personnels appartenant aux corps des services déconcentrés des ministères mentionnés ci-dessus peuvent être affectés dans les établissements publics administratifs placés sous leur tutelle.
 
 b) Corps d'établissements publics de l'Etat :
 
-- secrétaires administratifs de l'Office national des forêts ;
+-secrétaires administratifs de l'Office national des forêts ;
 
-- secrétaires administratifs de l'Office national interprofessionnel des grandes cultures et de l'Agence unique de paiement ;
+-secrétaires administratifs de l'Etablissement national des produits de l'agriculture et de la mer (FranceAgriMer) et de l'   Agence de services et de paiement ;
 
-- secrétaires d'administration de la Caisse des dépôts et consignations.
+-secrétaires d'administration de la Caisse des dépôts et consignations.
 
 3. Corps communs aux services déconcentrés et à l'administration centrale :
 
-- assistants d'administration de l'aviation civile ;
+-assistants d'administration de l'aviation civile ;
 
-- secrétaires administratifs du ministère de l'économie, des finances et de l'industrie ;
+-secrétaires administratifs du ministère de l'économie, des finances et de l'industrie ;
 
-- secrétaires administratifs du ministère de la défense.
+-secrétaires administratifs du ministère de la défense.
 
-- secrétaires administratifs du ministère de la culture et de la communication.
+-secrétaires administratifs du ministère de la culture et de la communication.
 
-- secrétaires administratifs de l'équipement.
+-secrétaires administratifs de l'équipement.
 
-- secrétaires administratifs du ministère de la justice. Les membres de ce corps peuvent exercer leurs fonctions dans les services et les établissements publics relevant du ministère de la justice ainsi qu'à la grande chancellerie de la Légion d'honneur.
+-secrétaires administratifs du ministère de la justice. Les membres de ce corps peuvent exercer leurs fonctions dans les services et les établissements publics relevant du ministère de la justice ainsi qu'à la grande chancellerie de la Légion d'honneur.
 
-- secrétaires administratifs relevant des ministres chargés des affaires sociales.
+-secrétaires administratifs relevant des ministres chargés des affaires sociales.
 
-- secrétaires administratifs de l'éducation nationale et de l'enseignement supérieur.
+-secrétaires administratifs de l'éducation nationale et de l'enseignement supérieur.
 
 Les personnels appartenant aux corps communs aux services déconcentrés et à l'administration centrale des ministères mentionnés ci-dessus peuvent être affectés dans les établissements publics administratifs placés sous leur tutelle.
 
@@ -54,7 +54,7 @@ Les personnels appartenant aux corps communs aux services déconcentrés et à l
 
 6. Corps communs aux services déconcentrés, à l'administration centrale et à l'administration scolaire et universitaire :
 
-- secrétaires administratifs du ministère de l'agriculture et de la pêche.
+-secrétaires administratifs du ministère de l'agriculture et de la pêche.
 
 Relèvent également des dispositions du présent décret les corps de secrétaires administratifs du Conseil d'Etat, de secrétaires administratifs du Conseil économique et social et de secrétaires administratifs des juridictions financières. Les membres de ce dernier corps ont vocation à servir à la Cour des comptes, dans les chambres régionales et territoriales des comptes ainsi que dans les institutions associées à la Cour des comptes.
 

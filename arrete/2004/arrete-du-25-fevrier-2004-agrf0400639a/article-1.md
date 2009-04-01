@@ -12,10 +12,10 @@ Sont également impliqués dans la mise en oeuvre du traitement :
 
 - les directions régionales de l'agriculture et de la forêt ;
 
-- les établissements publics sous tutelle du ministère chargé de l'agriculture dans l'exercice de leurs missions de service public dûment déléguées par le ministère, dont le CNASEA, Centre national d'aménagement des structures des exploitations agricoles ;
+- les établissements publics sous tutelle du ministère chargé de l'agriculture dans l'exercice de leurs missions de service public dûment déléguées par le ministère, dont l'Agence de services et de paiement ;
 
 - les organismes de droit privé référencés ci-dessus dans l'exercice de leurs missions de service public faisant l'objet d'un conventionnement avec le représentant du ministère chargé de l'agriculture.
 
 Le traitement ACTE permet aux associations départementales d'aménagement des structures des exploitations agricoles d'utiliser dans le cadre des procédures CTE/CAD et des missions qui leur sont confiées à ce titre le même dispositif informatique que celui proposé aux directions départementales de l'agriculture et de la forêt ou directions de l'agriculture et de la forêt.
 
-Le traitement ACTE permet aussi l'automatisation des échanges nécessaires entre les directions départementales de l'agriculture et de la forêt et les directions de l'agriculture et de la forêt et les délégations régionales du Centre national d'aménagement des structures des exploitations agricoles pour le paiement des aides et l'alimentation de la banque de données nationale sur les CTE/CAD.
+Le traitement ACTE permet aussi l'automatisation des échanges nécessaires entre les directions départementales de l'agriculture et de la forêt et les directions de l'agriculture et de la forêt et les délégations régionales de l'Agence de services et de paiement pour le paiement des aides et l'alimentation de la banque de données nationale sur les CTE/CAD.

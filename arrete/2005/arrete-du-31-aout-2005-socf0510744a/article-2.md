@@ -2,7 +2,7 @@
 
 Cette aide est financée sur la section travail du budget du ministère de l'emploi, de la cohésion sociale et du logement.
 
-L'aide est versée par le Centre national pour l'aménagement des structures des exploitations agricoles (CNASEA) en deux fois.
+L'aide est versée par l'Agence de services et de paiement en deux fois.
 
 Le premier versement est effectué à la conclusion de la convention et correspond à 50 % du montant total de l'aide inscrit à l'annexe financière de la convention.
 

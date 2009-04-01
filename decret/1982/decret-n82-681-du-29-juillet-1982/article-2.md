@@ -12,7 +12,7 @@ Un représentant du ministre de la santé ;
 
 Cinq représentants des organismes professionnels ;
 
-Un représentant de l'office national interprofessionnel des fruits, des légumes, des vins et de l'horticulture ;
+Un représentant de l'               Etablissement national des produits de l'agriculture et de la mer (FranceAgriMer) ;
 
 Un représentant de l'Institut national de l'origine et de la qualité (I.N.A.O).
 

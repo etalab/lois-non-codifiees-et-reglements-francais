@@ -62,7 +62,7 @@ Secrétaires administratifs du ministère de l'économie, des finances et de l'i
 
 Secrétaires administratifs du ministère de la défense.
 
-Secrétaires administratifs de l'Office national interprofessionnel des grandes cultures et de l'Agence unique de paiement.
+Secrétaires administratifs de l'Etablissement national des produits de l'agriculture et de la mer (FranceAgriMer) et de l'   Agence de services et de paiement.
 
 Secrétaires administratifs du Conseil d'Etat.
 

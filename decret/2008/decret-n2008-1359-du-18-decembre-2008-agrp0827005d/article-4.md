@@ -20,7 +20,7 @@ c) Au maximum quatre représentants des services déconcentrés de l'Etat ;
 
 d) Un ou des présidents des chambres d'agriculture ou leurs représentants ;
 
-e) Le directeur de VINIFLHOR ou son représentant ;
+e) Le directeur de FranceAgriMer ou son représentant ;
 
 f) Le directeur de l'INAO ou son représentant.
 

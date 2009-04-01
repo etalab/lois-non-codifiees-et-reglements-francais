@@ -1,0 +1,3 @@
+# Article 10
+
+L'instruction des demandes est effectuée sous l'autorité du préfet. Elle vise à vérifier les conditions d'éligibilité à l'aide définies aux articles 4, 5, 6 et 7 du présent arrêté. Cette vérification se fera sur la base des déclarations figurant sur l'imprimé de demande d'aide. Sur 10 % des dossiers sélectionnés de manière aléatoire, le préfet fera procéder à un contrôle plus approfondi sur la base des pièces déjà présentes au sein des directions départementales de l'agriculture et de la forêt. Le cas échéant, le préfet pourra demander des pièces complémentaires auprès du bénéficiaire de l'aide. Ce contrôle approfondi devra être réalisé avant le 31 décembre de l'année d'octroi de cette aide. Il ne retarde pas la mise en paiement des demandes d'aide.

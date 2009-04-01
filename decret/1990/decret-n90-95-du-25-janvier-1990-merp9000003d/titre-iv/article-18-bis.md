@@ -4,10 +4,10 @@ Lorsqu'un ou plusieurs sous-quotas ont été attribués à une organisation de p
 
 Ces plans comportent notamment :
 
-- des plans de capture destinés à prévenir des déséquilibres du marché au cours de la campagne de pêche et, le cas échéant, à y remédier, comportant notamment des mesures de limitation des apports ou d'étalement des débarquements ;
+-des plans de capture destinés à prévenir des déséquilibres du marché au cours de la campagne de pêche et, le cas échéant, à y remédier, comportant notamment des mesures de limitation des apports ou d'étalement des débarquements ;
 
-- les mesures destinées à assurer le suivi de la consommation de leurs sous-quotas et la prévision des apports ;
+-les mesures destinées à assurer le suivi de la consommation de leurs sous-quotas et la prévision des apports ;
 
-- les mesures prévues en cas de non-respect par ses adhérents des dispositions susvisées.
+-les mesures prévues en cas de non-respect par ses adhérents des dispositions susvisées.
 
-Les plans de gestion ainsi établis sont adressés à chacun des adhérents de l'organisation de producteurs et sont notifiés à l'Office national interprofessionnel des produits de la mer et de l'aquaculture.
+Les plans de gestion ainsi établis sont adressés à chacun des adhérents de l'organisation de producteurs et sont notifiés à l'            Etablissement national des produits de l'agriculture et de la mer (FranceAgriMer).

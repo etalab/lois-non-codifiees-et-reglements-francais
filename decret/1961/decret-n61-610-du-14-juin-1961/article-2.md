@@ -6,7 +6,7 @@ Seules peuvent être agréées les sociétés dont les statuts prévoient ou qui
 
 2° Les mesures de nature à assurer le respect des dispositions des derniers alinéas de l'article 15 de la loi du 5 août 1960 susvisée relatifs au but non lucratif des sociétés.
 
-3° La présence au sein du conseil d'administration de la société de représentants des catégories déterminées au 4° du présent article parmi lesquels des représentants des collectivités territoriales dans les conditions fixées à l'article 15 de la loi du 5 août 1960 susvisée et d'un représentant du Centre national pour l'aménagement des structures des exploitations agricoles (C.N.A.S.E.A.).
+3° La présence au sein du conseil d'administration de la société de représentants des catégories déterminées au 4° du présent article parmi lesquels des représentants des collectivités territoriales dans les conditions fixées à l'article 15 de la loi du 5 août 1960 susvisée et d'un représentant de l'Agence de services et de paiement.
 
 La représentation des collectivités territoriales est assurée, le cas échéant, dans les mêmes conditions que celles prévues pour les sociétés d'économie mixte locales, par l'article 8 de la loi n° 83-597 du 7 juillet 1983 et son décret d'application n° 85-491 du 9 mai 1985.
 

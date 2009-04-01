@@ -34,4 +34,4 @@ Peuvent seuls être destinataires de ces informations, dans la limite de leurs a
 
 - le directeur de l'Association nationale pour la formation professionnelle des adultes et les agents habilités de ces administrations et organismes ;
 
-- le directeur du Centre national pour l'aménagement des structures des exploitations agricoles.
+- le directeur de l'Agence de services et de paiement.

@@ -1,6 +1,6 @@
 # Article 5
 
-Le centre national pour l'aménagement des structures des exploitations agricoles (C.N.A.S.E.A.) :
+L'Agence de services et de paiement :
 
 Rembourse aux organismes formateurs le montant des parts ouvrières et patronales des cotisations sociales des stagiaires qu'ils ont versé aux caisses intéressées ;
 

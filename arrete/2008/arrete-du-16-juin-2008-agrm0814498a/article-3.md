@@ -10,7 +10,7 @@ Les destinataires de ces informations sont :
 
 ― le Comité national des pêches maritimes et des élevages marins (CNPMEM) ;
 
-― l'Office national interprofessionnel des produits de la mer (OFIMER) en qualité d'autorité nationale compétente pour les opérations financées par le Fonds européen agricole de garantie (FEAGA) ;
+― l'Etablissement national des produits de l'agriculture et de la mer (FranceAgriMer) en qualité d'autorité nationale compétente pour les opérations financées par le Fonds européen agricole de garantie (FEAGA) ;
 
 ― l'Institut français de recherche pour l'exploitation de la mer (IFREMER).
 
@@ -26,7 +26,7 @@ Les destinataires de ces informations sont :
 
 ― au titre du ministère de l'intérieur, de l'outre-mer et des collectivités territoriales, les agents de la direction centrale de la sécurité publique et ceux des directions départementales de la sécurité publique ;
 
-― les agents de l'Office national interprofessionnel des produits de la mer (OFIMER) ;
+― les agents de l'Etablissement national des produits de l'agriculture et de la mer (FranceAgriMer) ;
 
 ― les fonctionnaires de la Commission européenne ;
 

@@ -4,4 +4,4 @@ Le candidat à la préretraite dépose sa demande de préretraite auprès du pr�
 
 Dans le cadre de l'enveloppe budgétaire annuelle qui lui est allouée, le préfet du département où est situé le siège de l'exploitation accorde le bénéfice de la préretraite, après avis de la commission départementale d'orientation de l'agriculture. Le demandeur dispose de douze mois à compter de l'autorisation de cession accordée par le préfet pour céder les terres qu'il exploite, les bâtiments qu'il détient et pour vendre son cheptel.
 
-La liquidation et le paiement de l'allocation de préretraite et de l'aide structurelle sont assurés par le Centre national pour l'aménagement des structures des exploitations agricoles.
+La liquidation et le paiement de l'allocation de préretraite et de l'aide structurelle sont assurés par           l'Agence de services et de paiement.

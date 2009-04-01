@@ -4,4 +4,4 @@ I. - Le montant au-delà duquel les entreprises de boucherie acquittent une rede
 
 II. - On entend par entreprise de boucherie au sens du I, toute entreprise comprenant au moins un atelier de boucherie autorisé à recevoir et à découper des viandes de bovins de plus de 12 mois comprenant des os de la colonne vertébrale, conformément à l'article 20 bis de l'arrêté du 17 mars 1992 modifié susvisé, et dont la liste est publiée au Journal officiel.
 
-III. - Les factures relatives à la collecte et à la destruction des déchets mentionnés au I sont établies par la personne chargée de l'exécution du service public de l'équarrissage à l'ordre du directeur général du Centre national pour l'aménagement des structures des exploitations agricoles (CNASEA) dans la limite du montant mentionné au I.
+III. - Les factures relatives à la collecte et à la destruction des déchets mentionnés au I sont établies par la personne chargée de l'exécution du service public de l'équarrissage à l'ordre du directeur général de l'Agence de services et de paiement dans la limite du montant mentionné au I.
