@@ -1,6 +1,6 @@
 # Article Annexe I
 
-TABLEAU RELATIF À LA COMPOSITION DES COMMISSIONS ADMINISTRATIVES PARITAIRES LOCALES
+TABLEAU RELATIF À LA COMPOSITION DES COMMISSIONS ADMINISTRATIVES PARITAIRES CENTRALES
 
 <table>
 <tbody>
@@ -413,16 +413,16 @@ TABLEAU RELATIF À LA COMPOSITION DES COMMISSIONS ADMINISTRATIVES PARITAIRES LOC
 <p>Technicien supérieur d'études et de fabrications de 1re classe</p>
 </td>
 <td valign="top" width="94">
-<p align="center">3</p>
+<p align="center">2</p>
 </td>
 <td valign="top" width="92">
-<p align="center">3</p>
+<p align="center">2</p>
 </td>
 <td valign="top" width="93">
-<p align="center">9</p>
+<p align="center">8</p>
 </td>
 <td valign="top" width="94">
-<p align="center">9</p>
+<p align="center">8</p>
 </td>
 </tr>
 <tr>
