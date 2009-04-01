@@ -26,7 +26,6 @@
 - [Arrêté du 2 août 2005 (SANS0522871A)](arrete-du-2-aout-2005-sans0522871a)
 - [Arrêté du 2 août 2005 (SOCV0510671A)](arrete-du-2-aout-2005-socv0510671a)
 - [Arrêté du 2 décembre 2005 (AGRM0502702A)](arrete-du-2-decembre-2005-agrm0502702a)
-- [Arrêté du 2 février 2005 (AGRF0500395A)](arrete-du-2-fevrier-2005-agrf0500395a)
 - [Arrêté du 2 février 2005 (FPPA0400115A)](arrete-du-2-fevrier-2005-fppa0400115a)
 - [Arrêté du 2 février 2005 (SANS0520035A)](arrete-du-2-fevrier-2005-sans0520035a)
 - [Arrêté du 2 mars 2004 (SOCT0410465A)](arrete-du-2-mars-2004-soct0410465a)
