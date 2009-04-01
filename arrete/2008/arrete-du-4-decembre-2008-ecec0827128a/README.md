@@ -1,4 +1,0 @@
-# Arrêté du 4 décembre 2008 commissionnant en 2009 les agents de l'Office national interprofessionnel de l'élevage et de ses productions en application de l'article L. 215-1 (8°) du code de la consommation
-
-- [Article 1](article-1.md)
-- [Article 2](article-2.md)

@@ -145,7 +145,6 @@
 - [Arrêté du 5 avril 2001 (AGRG0100778A)](arrete-du-5-avril-2001-agrg0100778a)
 - [Arrêté du 5 avril 2002 (AGRG0200683A)](arrete-du-5-avril-2002-agrg0200683a)
 - [Arrêté du 5 avril 2002 (DEFP0201492A)](arrete-du-5-avril-2002-defp0201492a)
-- [Arrêté du 5 avril 2002 (ECOL0200031A)](arrete-du-5-avril-2002-ecol0200031a)
 - [Arrêté du 5 avril 2002 (EQUS0200369A)](arrete-du-5-avril-2002-equs0200369a)
 - [Arrêté du 5 avril 2002 (EQUS0200370A)](arrete-du-5-avril-2002-equs0200370a)
 - [Arrêté du 5 avril 2002 (INTE0200183A)](arrete-du-5-avril-2002-inte0200183a)

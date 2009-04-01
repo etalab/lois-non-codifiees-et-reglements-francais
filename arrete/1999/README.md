@@ -187,7 +187,6 @@
 - [Arrêté du 8 mars 1999 (ECOC9900019A)](arrete-du-8-mars-1999-ecoc9900019a)
 - [Arrêté du 8 mars 1999 (EQUA9900308A)](arrete-du-8-mars-1999-equa9900308a)
 - [Arrêté du 8 mars 1999 (MENR9900444A)](arrete-du-8-mars-1999-menr9900444a)
-- [Arrêté du 8 novembre 1999 (AGRM9901327A)](arrete-du-8-novembre-1999-agrm9901327a)
 - [Arrêté du 8 novembre 1999 (MCCB9900681A)](arrete-du-8-novembre-1999-mccb9900681a)
 - [Arrêté du 8 septembre 1999 (DEFD9901817A)](arrete-du-8-septembre-1999-defd9901817a)
 - [Arrêté du 8 septembre 1999 (DEFD9901818A)](arrete-du-8-septembre-1999-defd9901818a)
