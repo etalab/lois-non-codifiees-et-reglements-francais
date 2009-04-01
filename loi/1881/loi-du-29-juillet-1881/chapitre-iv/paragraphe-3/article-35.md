@@ -2,7 +2,7 @@
 
 La vérité du fait diffamatoire, mais seulement quand il est relatif aux fonctions, pourra être établie par les voies ordinaires, dans le cas d'imputations contre les corps constitués, les armées de terre, de mer ou de l'air, les administrations publiques et contre toutes les personnes énumérées dans l'article 31.
 
-La vérité des imputations diffamatoires et injurieuses pourra être également établie contre les directeurs ou administrateurs de toute entreprise industrielle, commerciale ou financière, faisant publiquement appel à l'épargne ou au crédit.
+La vérité des imputations diffamatoires et injurieuses pourra être également établie contre les directeurs ou administrateurs de toute entreprise industrielle, commerciale ou financière, dont les titres financiers sont admis aux négociations sur un marché réglementé ou offerts au public sur un système multilatéral de négociation ou au crédit.
 
 La vérité des faits diffamatoires peut toujours être prouvée, sauf :
 

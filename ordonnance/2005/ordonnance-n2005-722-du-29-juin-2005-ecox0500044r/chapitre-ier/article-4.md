@@ -12,4 +12,4 @@ Les ressources de l'établissement public sont constituées par :
 
 5° Tous autres concours financiers.
 
-L'établissement public peut, dès sa création, faire appel public à l'épargne et émettre tout titre représentatif d'un droit de créance.
+L'établissement public peut, dès sa création,      procéder à une offre au public de titres financiers et émettre tout titre représentatif d'un droit de créance.

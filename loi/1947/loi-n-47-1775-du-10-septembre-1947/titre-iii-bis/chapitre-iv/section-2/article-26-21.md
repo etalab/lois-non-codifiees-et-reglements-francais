@@ -6,4 +6,4 @@ Toutefois, si les statuts le prévoient, ils peuvent être nommés par l'assembl
 
 A peine de nullité de la nomination, les membres du directoire sont des personnes physiques. Ils peuvent être choisis en dehors des associés.
 
-Le nombre des membres du directoire est fixé par les statuts, sans pouvoir excéder cinq membres. Toutefois, lorsque la société coopérative européenne fait appel public à l'épargne, ce nombre peut être porté à sept.
+Le nombre des membres du directoire est fixé par les statuts, sans pouvoir excéder cinq membres. Toutefois, lorsque la société coopérative européenne entend procéder à une offre au public de ses parts, ce nombre peut être porté à sept.

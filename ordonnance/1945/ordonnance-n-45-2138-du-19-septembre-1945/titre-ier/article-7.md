@@ -6,7 +6,7 @@ I. Les experts-comptables sont également admis à constituer, pour exercer leur
 
 2° Aucune personne ou groupement d'intérêts, extérieurs à l'ordre, ne doit détenir, directement ou par personne interposée, une partie du capital ou des droits de vote de nature à mettre en péril l'exercice de la profession ou l'indépendance des associés experts-comptables, ainsi que le respect par ces derniers des règles inhérentes à leur statut et à leur déontologie ;
 
-3° L'appel public à l'épargne n'est autorisé que dans les sociétés anonymes et pour des titres excluant l'accès même différé ou conditionnel au capital ;
+3° L'offre au public de titres financiers n'est autorisé que dans les sociétés anonymes et pour des titres excluant l'accès même différé ou conditionnel au capital ;
 
 4° Les statuts subordonnent l'admission de tout nouvel actionnaire à l'agrément préalable du conseil d'administration ou du conseil de surveillance ;
 
@@ -20,7 +20,7 @@ II. Les experts-comptables peuvent également constituer des sociétés ayant po
 
 Il est interdit à toute société mentionnée au I de détenir des participations financières dans des entreprises de toute nature à l'exception, et sous le contrôle du conseil régional de l'ordre, de celles ayant pour objet l'exercice des activités visées aux articles 2 et 22, 7e alinéa, sans que cette détention constitue l'objet principal de son activité.
 
-III. Dans l'hypothèse où l'une des conditions définies au présent article viendrait à ne plus être remplie, le conseil de l'ordre dont la société relève peut accorder à celle-ci un délai pour se mettre en conformité avec les dispositions de la présente loi. A défaut de régularisation dans le délai imparti, tout intéressé peut demander en justice la dissolution de la société. Le tribunal peut accorder à la société un délai maximum de six mois pour régulariser sa situation. La dissolution ne peut être prononcée si, au jour où il est statué sur le fond, cette régularisation a eu lieu.
+III. Dans l'hypothèse où l'une des conditions définies au présent article viendrait à ne plus être remplie, le conseil de l'ordre dont la société relève peut accorder à celle-ci un délai pour se mettre en conformité avec les dispositions de la présente loi.A défaut de régularisation dans le délai imparti, tout intéressé peut demander en justice la dissolution de la société. Le tribunal peut accorder à la société un délai maximum de six mois pour régulariser sa situation. La dissolution ne peut être prononcée si, au jour où il est statué sur le fond, cette régularisation a eu lieu.
 
 IV. Un expert-comptable ne peut participer à la gérance, au conseil d'administration ou au conseil de surveillance de plus de quatre sociétés membres de l'ordre.
 
