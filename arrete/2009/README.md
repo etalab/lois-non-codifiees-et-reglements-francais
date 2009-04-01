@@ -782,6 +782,7 @@
 - [Arrêté du 28 janvier 2009 (MENH0900089A)](arrete-du-28-janvier-2009-menh0900089a)
 - [Arrêté du 28 janvier 2009 (SASH0902383A)](arrete-du-28-janvier-2009-sash0902383a)
 - [Arrêté du 28 juillet 2009 (DEFH0917028A)](arrete-du-28-juillet-2009-defh0917028a)
+- [Arrêté du 28 novembre 1989 (BUDB8960069A)](arrete-du-28-novembre-1989-budb8960069a)
 - [Arrêté du 28 novembre 2008 (DEFH0826135A)](arrete-du-28-novembre-2008-defh0826135a)
 - [Arrêté du 28 novembre 2008 (DEFH0827868A)](arrete-du-28-novembre-2008-defh0827868a)
 - [Arrêté du 28 novembre 2008 (DEVL0827754A)](arrete-du-28-novembre-2008-devl0827754a)
