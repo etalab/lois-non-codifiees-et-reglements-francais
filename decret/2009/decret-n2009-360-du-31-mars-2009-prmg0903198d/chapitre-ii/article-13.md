@@ -1,0 +1,7 @@
+# Article 13
+
+Peuvent être nommés dans l'un des emplois des groupes I et II mentionnés à l'article 2 du présent décret les fonctionnaires relevant de la fonction publique de l'Etat, de la fonction publique territoriale ou de la fonction publique hospitalière et appartenant à un corps ou à un cadre d'emplois classé dans la catégorie A dont l'indice terminal est supérieur à l'indice brut 1015, les magistrats de l'ordre judiciaire et les officiers de carrière détenant au moins le grade de colonel ou assimilé, qui justifient de huit ans de services accomplis dans un ou plusieurs de ces corps ou cadres d'emplois ou en position de détachement sur un emploi.
+
+Pour être nommés, les fonctionnaires appartenant aux corps auxquels donne accès l'Ecole nationale d'administration et au corps des administrateurs des postes et télécommunications doivent avoir satisfait à l'obligation de mobilité prévue à l'article 1er du décret n° 2008-15 du 4 janvier 2008 relatif à la mobilité et au détachement des fonctionnaires recrutés par la voie de l'Ecole nationale d'administration. De même, les administrateurs territoriaux doivent avoir satisfait à l'obligation prévue par le 2 de l'article 15 du décret n° 87-1097 du 30 décembre 1987 modifié portant statut particulier du cadre d'emplois des administrateurs territoriaux.
+
+Peuvent également être nommés dans l'un des emplois des groupes I et II mentionnés à l'article 2 du présent décret les agents ayant occupé un ou des emplois du groupe III pendant une durée minimum de quatre ans.
