@@ -666,6 +666,7 @@
 - [Arrêté du 29 décembre 2005 (INDI0506493A)](arrete-du-29-decembre-2005-indi0506493a)
 - [Arrêté du 29 décembre 2005 (INTC0500885A)](arrete-du-29-decembre-2005-intc0500885a)
 - [Arrêté du 29 décembre 2005 (MCCB0500873A)](arrete-du-29-decembre-2005-mccb0500873a)
+- [Arrêté du 29 janvier 1993 (SPSI9300305A)](arrete-du-29-janvier-1993-spsi9300305a)
 - [Arrêté du 29 juillet 2005 (DEFM0501074A)](arrete-du-29-juillet-2005-defm0501074a)
 - [Arrêté du 29 juillet 2005 (DEVP0540333A)](arrete-du-29-juillet-2005-devp0540333a)
 - [Arrêté du 29 juillet 2005 (JUSB0510475A)](arrete-du-29-juillet-2005-jusb0510475a)
