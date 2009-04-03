@@ -1,4 +1,4 @@
-# Titre II : Dispositions applicables aux ressortissants des Etats membres de la Communauté européenne ou parties à l'accord sur l'espace économique européen.
+# Titre II : Liberté d'établissement du ressortissant d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen.
 
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)
