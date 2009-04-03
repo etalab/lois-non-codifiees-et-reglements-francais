@@ -2,7 +2,7 @@
 
 **ZONES RÉGLEMENTÉES : ZONES GÉOGRAPHIQUES DU TERRITOIRE FRANÇAIS DANS LESQUELLES DES ZONES DE PROTECTION ET DE SURVEILLANCE SONT INSTITUÉES**
 
-Zone A (sérotypes 1, 2, 4 et 16)
+Zone A (sérotypes 1, 2, 4, 8 et 16)
 
 Zone de protection :
 
@@ -40,7 +40,7 @@ Zone de protection :
 
 - département de la Corrèze : arrondissements de Brive-la-Gaillarde, Tulle et cantons de Bugeat, Meymac, Neuvic, Ussel-Ouest ;
 
-- département des Côtes-d'Armor : cantons de Belle-Isle-en-Terre, Callac, Chèze, Corlay, Gouarec, Loudéac, Maël-Carhaix, Mur-de-Bretagne, Plestin-les-Grèves, Plouaret, Rostrenen, Saint-Nicolas-du Pélem, Uzel ;
+- département des Côtes-d'Armor : cantons de Belle-Isle-en-Terre, Callac, Chèze, Corlay, Gouarec, Loudéac, Maël-Carhaix, Mur-de-Bretagne, Plestin-les-Grèves, Plouaret, Rostrenen, Saint-Nicolas-du-Pélem, Uzel ;
 
 - département de la Dordogne ;
 
@@ -62,7 +62,7 @@ Zone de protection :
 
 - département de Lot-et-Garonne ;
 
-- département de la Lozère : cantons d'Aumont-Aubrac, Barre-des-Cévennes, La Canourgue, Chanac, Florac, Fournels, Marvejols, Massegros, Meyrueis, Nasbinals, Sainte-Enimie, Saint-Germain-du-Teil, Le Bleymard, Châteauneuf-de-Randon, Malzieu-Ville, Mende-Nord, Pont-de-Montvert, Saint-Alban-sur-Limagnole, Saint-Amans, Saint-Chély-d'Apcher, Mende-Sud, Mende ;
+- département de la Lozère : cantons d'Aumont-Aubrac, Barre-des-Cévennes, La Canourgue, Chanac, Florac, Fournels, Marvejols, Massegros, Meyrueis, Nasbinals, Sainte-Enimie, Saint-Germain-du-Teil, Le Bleymard, Châteauneuf-de-Randon, Malzieu-Ville, Mende-Nord, Le Pont-de-Montvert, Saint-Alban-sur-Limagnole, Saint-Amans, Saint-Chély-d'Apcher, Mende-Sud, Mende ;
 
 - département du Morbihan : arrondissements de Lorient, Pontivy et cantons d'Elven, Grand-Champ, Sarzeau, Vannes-Est, Vannes-Ouest, Vannes ;
 
@@ -84,7 +84,7 @@ Zone de protection :
 
 - département de la Haute-Vienne : cantons de Châlus, Oradour-sur-Vayres, Rochechouart, Saint-Mathieu, Saint-Germain-les-Belles, Saint-Yrieix-la-Perche.
 
-**ZONE VACCINALE SANS CIRCULATION VIRALE, AU TITRE DU SEROTYPE 1, AU SENS DE L'ARTICLE 15 BIS DE L'ARRETE MINISTERIEL DU 1ER AVRIL 2008 MODIFIE FIXANT LES MESURES TECHNIQUES RELATIVES A LA FIEVRE CATARRHALE DU MOUTON**
+Zone vaccinale sans circulation virale, au titre du sérotype 1, au sens de l'article 15 bis de l'arrêté ministériel du 1er avril 2008 modifié fixant les mesures techniques relatives à la fièvre catarrhale du mouton :
 
 - département de l'Ain ;
 
@@ -212,13 +212,13 @@ Zone de protection :
 
 - département du Var ;
 
-- département de Vaucluse ;
+- département de Vaucluse :
 
-- département de la Vendée : arrondissement de La Roche-sur-Yon et cantons de Beauvoir-sur-Mer, Challans, La Châtaigneraie, Fontenay-le-Comte, L'Hermenault, L'Ile-d'Yeu, La Mothe-Achard, Noirmoutier-en-l'Ile, Palluau, Pouzauges, Les Sables-d'Olonne, Saint-Gilles-Croix-de-Vie, Sainte-Hermine, Saint-Hilaire-des-Loges, Saint-Jean-de-Monts, Talmont-Saint-Hilaire ;
+- département de la Vendée : arrondissement de La-Roche-sur-Yon et cantons de Beauvoir-sur-Mer, Challans, La Châtaigneraie, Fontenay-le-Comte, Hermenault, L'Ile-d'Yeu, La Mothe-Achard, Noirmoutier-en-l'Île, Palluau, Pouzauges, Les Sables-d'Olonne, Saint-Gilles-Croix-de-Vie, Sainte-Hermine, Saint-Hilaire-des-Loges, Saint-Jean-de-Monts, Talmont-Saint-Hilaire ;
 
-- département de la Vienne : arrondissement de Châtellerault et cantons de Chauvigny, L'Isle-Jourdain, Lussac-les-Châteaux, Mirebeau, Montmorillon, Neuville-de-Poitou, Poitiers (1er canton), Poitiers (2e canton), Saint-Georges-lès-Baillargeaux, Saint-Julien-l'Ars, Saint-Savin, La Trimouille, Villedieu-du-Clain, Vivonne, Vouillé, Poitiers (3e canton), Poitiers (4e canton), Poitiers (5e canton), Poitiers (6e canton), Poitiers (7e canton), Poitiers ;
+- département de la Vienne : arrondissement de Châtellerault et cantons de Chauvigny, L'Isle-Jourdain, Lussac-les-Châteaux, Mirebeau, Montmorillon, Neuville-de-Poitou, Poitiers 1er canton, Poitiers 2e canton, Saint-Georges-lès-Baillargeaux, Saint-Julien-l'Ars, Saint-Savin, Trimouille, Villedieu-du-Clain, Vivonne, Vouillé, Poitiers 3e canton, Poitiers 4e canton, Poitiers 5e canton, Poitiers 6e canton, Poitiers 7e canton, Poitiers ;
 
-- département de la Haute-Vienne : arrondissement de Bellac et cantons d'Aixe-sur-Vienne, Ambazac, Châteauneuf-la-Forêt, Eymoutiers, Laurière, Nexon, Nieul, Pierre-Buffière, Saint-Junien - Est, Saint-Laurent-sur-Gorre, Saint-Léonard-de-Noblat, Limoges-Isle, Limoges-Couzeix, Limoges-Le Palais, Limoges-Condat, Limoges-Panazol, Saint-Junien - Ouest, Saint-Junien, Limoges ;
+- département de la Haute-Vienne : arrondissement de Bellac et cantons d'Aixe-sur-Vienne, Ambazac, Châteauneuf-la-Forêt, Eymoutiers, Laurière, Nexon, Nieul, Pierre-Buffière, Saint-Junien-Est, Saint-Laurent-sur-Gorre, Saint-Léonard-de-Noblat, Limoges-Isle, Limoges-Couzeix, Limoges-Le Palais, Limoges-Condat, Limoges-Panazol, Saint-Junien-Ouest, Saint-Junien, Limoges ;
 
 - département des Vosges ;
 
