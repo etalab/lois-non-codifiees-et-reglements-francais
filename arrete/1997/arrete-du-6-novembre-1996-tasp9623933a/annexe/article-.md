@@ -20,7 +20,7 @@ II. - Règles communes
 
 4. Toute possibilité de prélèvement d'organe doit être portée sans délai à la connaissance de l'Agence de la biomédecine.
 
-5. l'Agence de la biomédecine est chargé d'appliquer les règles de répartition. Elle a la responsabilité de la proposition du greffon pour un malade ou un groupe de malades dont une équipe médico-chirurgicale de greffe a la charge.
+5. l'Agence de la biomédecine est chargée d'appliquer les règles de répartition. Elle a la responsabilité de la proposition du greffon pour un malade ou un groupe de malades dont une équipe médico-chirurgicale de greffe a la charge.
 
 6. L'attribution définitive du greffon à un malade est sous la responsabilité de l'équipe médico-chirurgicale de greffe. Cette attribution ne peut contredire les aspects communs et spécifiques des règles de répartition et d'attribution des greffons. L'équipe doit porter par écrit à la connaissance de l'Agence de la biomédecine les procédures qu'elle utilise pour déterminer l'attribution définitive des greffons.
 
@@ -80,7 +80,9 @@ III. - Règles spécifiques
 
 3. Greffons hépatiques
 
-3.1. Les malades dont la vie est menacée à très court terme du fait d'une hépatite fulminante, d'une forme suraiguë de maladie de Wilson ou parce qu'une retransplantation est jugée nécessaire dans les huit jours suivant la greffe précédente sont prioritaires à l'échelon national. Les enfants âgés de moins de dix-huit ans, chez lesquels, du fait de l'urgence, la probabilité d'obtention d'un greffon dans un délai convenable est très faible et qui s'inscrivent dans les catégories suivantes sont prioritaires à l'échelon interrégional : nécrose ischémique dans l'atrésie des voies biliaires, présentation aiguë de certaines maladies métaboliques, défaillance fonctionnelle rapide d'un greffon précédent.
+3.1. Les malades dont la vie est menacée à très court terme du fait d'une hépatite fulminante, d'une forme suraiguë de maladie de Wilson ou parce qu'une retransplantation est jugée nécessaire dans les huit jours suivant la greffe précédente sont prioritaires à l'échelon national.
+
+Les enfants âgés de moins de dix-huit ans, chez lesquels, du fait de l'urgence, la probabilité d'obtention d'un greffon dans un délai convenable est très faible et qui s'inscrivent dans les catégories suivantes sont prioritaires à l'échelon national : nécrose ischémique dans l'atrésie des voies biliaires, présentation aiguë de certaines maladies métaboliques, défaillance fonctionnelle rapide d'un greffon précédent.
 
 Dans ce cas, il peut être dérogé à la règle décrite au point II-10.
 
