@@ -150,7 +150,6 @@
 - [Décret n°2006-1377 du 14 novembre 2006 (INTX0600134D)](decret-n2006-1377-du-14-novembre-2006-intx0600134d)
 - [Décret n°2006-1378 du 14 novembre 2006 (INTD0600235D)](decret-n2006-1378-du-14-novembre-2006-intd0600235d)
 - [Décret n°2006-1383 du 14 novembre 2006 (DEFD0601211D)](decret-n2006-1383-du-14-novembre-2006-defd0601211d)
-- [Décret n°2006-1600 du 14 décembre 2006 (INTA0600278D)](decret-n2006-1600-du-14-decembre-2006-inta0600278d)
 - [Décret n°2006-1601 du 14 décembre 2006 (BUDD0630003D)](decret-n2006-1601-du-14-decembre-2006-budd0630003d)
 - [Décret n°2006-1602 du 14 décembre 2006 (BUDF0620471D)](decret-n2006-1602-du-14-decembre-2006-budf0620471d)
 - [Décret n°2006-1603 du 14 décembre 2006 (BUDF0600056D)](decret-n2006-1603-du-14-decembre-2006-budf0600056d)
