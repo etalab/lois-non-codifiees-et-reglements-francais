@@ -16,10 +16,4 @@ En application des dispositions de l'article 10 du décret du 25 août 2000 susv
 
 -adjoints aux sous-directeurs ;
 
--chefs de bureau de catégorie A ;
-
--chargés de mission auprès des directeurs ;
-
--rédacteurs de catégorie A ;
-
--autres agents de catégorie A.
+-chefs de bureau de catégorie A.
