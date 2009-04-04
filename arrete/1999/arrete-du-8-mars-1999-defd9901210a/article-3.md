@@ -10,9 +10,7 @@ A ce titre, elle est notamment chargée :
 
 -de tenir à jour la collection des textes législatifs et réglementaires intéressant le ministère de la défense, d'animer les activités et d'assurer le secrétariat de la commission de publication et de refonte du Bulletin officiel des armées et, à ce titre, d'en assurer la diffusion électronique, dans des conditions définies par instruction ;
 
--d'élaborer la réglementation en matière d'inventions du personnel ;
-
--d'établir les récépissés de déclaration et les actes d'autorisation des installations classées du ministère de la défense.
+-d'élaborer la réglementation en matière d'inventions du personnel.
 
 Elle fixe, en outre, en liaison avec l'Institut national de la statistique et des études économiques, les modalités d'immatriculation des services du ministère de la défense au répertoire des entreprises et de leurs établissements, institué par le décret du 14 mars 1973 susvisé, et en assure la mise en oeuvre.
 
