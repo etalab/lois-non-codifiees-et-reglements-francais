@@ -12,6 +12,8 @@ En application de l'article 2 du décret du 4 janvier 2006 susvisé, la liste de
 
 -chargé de mission auprès du contrôleur budgétaire et comptable ministériel ;
 
+-responsable des études à l'Observatoire des missions et des métiers ;
+
 -adjoint au sous-directeur de la logistique et du patrimoine au secrétariat général ;
 
 -chef du projet droit à l'information sur les retraites auprès du chef de service des ressources humaines au secrétariat général ;
@@ -50,17 +52,17 @@ En application de l'article 2 du décret du 4 janvier 2006 susvisé, la liste de
 
 -Chef du département de la santé des forêts à la direction générale de l'alimentation (A compter du 2 juillet 2008) ;
 
+- chef du bureau du management au service des nouvelles des marchés au secrétariat général (A compter du 2 juillet 2008) ;
+
 - adjoint au chef du bureau de l'installation et de la modernisation à la direction générale des politiques agricole, agroalimentaire et des territoires (A compter du 2 juillet 2008) ;
 
 - chef du bureau de la politique structurelle et des concours publics à la direction des pêches maritimes et de l'aquaculture (A compter du 2 juillet 2008) ;
 
--Chef du bureau de l'installation et de la modernisation à la direction générale des politiques agricole, agroalimentaires et des territoires (A compter du 2 juillet 2008) ;
+-chef de la mission de liaison et de coordination pour l'outre-mer à la direction générale des politiques agricole, agroalimentaire et des territoires (A compter du 1er janvier 2009) ;
 
--Chef du bureau synthèses statistiques conjoncturelles au service de la statistique et prospective du secrétariat général (ajouté à compter du 1er janvier 2009) ;
+-chef du bureau de la conjoncture et de l'observation économique des marchés au service des nouvelles des marchés au secrétariat général (A compter du 2 juillet 2008);
 
--Chef du département des systèmes décisionnels au centre d'études et réalisations informatiques de Toulouse au secrétariat général (ajouté à compter du 1er janvier 2009) ;
-
--chef de la mission du droit des usagers et de la coordination des procédures juridiques communautaires au service des affaires juridiques du secrétariat général (ajouté à compter du 20 avril 2009) ;
+-Chef du bureau de l'installation et de la modernisation à la direction générale des politiques agricole, agroalimentaires et des territoires (A compter du 2 juillet 2008).
 
 **b) Dans les services déconcentrés** :
 
@@ -68,23 +70,27 @@ En application de l'article 2 du décret du 4 janvier 2006 susvisé, la liste de
 
 -chef du service de l'environnement à la direction départementale de l'agriculture et de la forêt de l'Aisne (ajouté à compter du 17 juin 2008) ;
 
-- chef du service environnement de la direction départementale de l'agriculture et de la forêt de l'Aisne (ajouté à compter du 1er juillet 2009) ;
-
 -secrétaire général de la direction départementale de l'agriculture et de la forêt et de la direction départementale des services vétérinaires de l'Allier ;
 
 -chef du service d'économie agricole et des industries agroalimentaires à la direction départementale de l'agriculture et de la forêt de l'Allier ;
 
 -chef du service d'économie agricole à la direction départementale de l'agriculture et de la forêt des Alpes-de-Haute-Provence ;
 
+-directeur départemental de l'agriculture et de la forêt des Ardennes ; (ajouté à compter du 16 juin 2008) ;
+
 - chef de la mission connaissance des territoires à la direction départementale de l'équipement et de l'agriculture de l'Ariège ;
 
 -chef du service d'économie agricole à la direction départementale de l'équipement et de l'agriculture de l'Ariège ;
 
+-chef du service d'économie agricole à la direction départementale de l'équipement et de l'agriculture de l'Aube ;
+
+-chef du service d'économie agricole à la direction départementale de l'agriculture et de la forêt de l'Aude ;
+
+-directeur départemental de l'agriculture et de la forêt de l'Aude ; (ajouté à compter du 15 mars 2008) ;
+
 -secrétaire général de la direction départementale de l'équipement et de l'agriculture de l'Aude (à compter du 1er mars 2009) ;
 
 -chef du service de l'espace rural, de l'environnement et de la forêt, chef de la mission interservices de l'eau à la direction départementale de l'agriculture et de la forêt de l'Aveyron ;
-
-- secrétaire général de la direction départementale de l'équipement et de l'agriculture de l'Aveyron (à compter 1er juillet 2009) ;
 
 -chef de la subdivision d'Arles à la direction départementale de l'agriculture et de la forêt des Bouches-du-Rhône ;
 
@@ -98,13 +104,7 @@ En application de l'article 2 du décret du 4 janvier 2006 susvisé, la liste de
 
 -chef du service de l'environnement à la direction départementale de l'agriculture et de la forêt de la Haute-Corse ;
 
-- chef du service économie agricole de la direction départementale de l'équipement et de l'agriculture des Côtes-d'Armor (ajouté à compter du 1er juillet 2009) ;
-
 -chef du service équipements publics ruraux à la direction départementale de l'agriculture et de la forêt de la Côte-d'Or ;
-
-- directrice départementale des services vétérinaires de la Creuse (ajouté à compter du 1er juillet 2009) ;
-
--Secrétaire général de la direction départementale de l'équipement et de l'agriculture de la Drôme (ajouté à compter du 1er janvier 2009) ;
 
 -chef du service appui aux collectivités locales à la direction départementale de l'agriculture et de la forêt de l'Eure ;
 
@@ -114,8 +114,6 @@ En application de l'article 2 du décret du 4 janvier 2006 susvisé, la liste de
 
 -chef du service des équipements publics ruraux à la direction départementale de l'agriculture et de la forêt du Finistère ;
 
--Chef du service santé protection animale à la direction départementale des services vétérinaires du Gard (ajouté à compter du 1er janvier 2009) ;
-
 -chef du service de l'ingénierie de l'eau et des équipements ruraux à la direction départementale de l'agriculture et de la forêt de la Gironde ;
 
 -chef du service d'économie agricole et des industries agroalimentaires à la direction départementale de l'agriculture et de la forêt de la Gironde ;
@@ -124,9 +122,13 @@ En application de l'article 2 du décret du 4 janvier 2006 susvisé, la liste de
 
 -chef du service environnement à la direction départementale de l'agriculture et de la forêt d'Ille-et-Vilaine ;
 
+-directeur départemental délégué à la direction départementale de l'agriculture et de la forêt d'Ille-et-Vilaine ; (ajouté à compter du 1er janvier 2008) ;
+
 -secrétaire général de la direction départementale de l'agriculture et de la forêt et de la direction départementale des services vétérinaires d'Indre-et-Loire ;
 
 -chef du service de l'aménagement rural, adjoint au directeur départemental de l'agriculture et de la forêt d'Indre-et-Loire ;
+
+-Directeur départemental de l'agriculture et de la forêt d'Indre-et-Loire (Ajouté à compter du 1er novembre 2008) ;
 
 -chef du service géomatique et données à la direction départementale de l'agriculture et de la forêt de l'Isère ;
 
@@ -142,11 +144,9 @@ En application de l'article 2 du décret du 4 janvier 2006 susvisé, la liste de
 
 -chef du service d'ingénierie d'appui territorial à la direction départementale de l'agriculture et de la forêt de la Loire ; (ajouté à compter du 17 juin 2008)
 
--Chef du service santé protection animale à la direction départementale des services vétérinaires de la Loire (ajouté à compter du 1er janvier 2009) ;
-
 -chef du service eau à la direction départementale de l'agriculture et de la forêt de la Loire-Atlantique ;
 
--Chef du service économie agricole de la direction départementale de l'équipement et de l'agriculture de la Loire-Atlantique (ajouté à compter du 1er janvier 2009) ;
+-chef du service des équipements publics à la direction départementale de l'agriculture et de la forêt de la Loire-Atlantique ;
 
 -chef du service de l'eau, forêt et environnement à la direction départementale de l'équipement et de l'agriculture du Lot ;
 
@@ -160,19 +160,11 @@ En application de l'article 2 du décret du 4 janvier 2006 susvisé, la liste de
 
 - chef du service aménagements fonciers et environnement à la direction départementale de l'agriculture et de la forêt de la Manche ;
 
-- chef du service environnement de la direction départementale de l'agriculture et de la forêt de la Marne (ajouté à compter du 1er juillet 2009) ;
-
 -secrétaire général de la direction départementale de l'équipement et de l'agriculture de la Haute-Marne (ajouté à compter du 1er janvier 2009) ;
-
--Chef du service économie agricole de la direction départementale de l'équipement et de l'agriculture de la Haute-Marne (ajouté à compter du 1er janvier 2009) ;
 
 - directeur adjoint à la direction départementale de l'agriculture et de la forêt de la Mayenne ;
 
 -chef du service de l'environnement et de l'eau, adjoint au directeur départemental de l'agriculture et de la forêt de Meurthe-et-Moselle ;
-
-- chef du service environnement de la direction départementale de l'agriculture et de la forêt de la Meuse (ajouté à compter du 1er septembre 2009) ;
-
-- chef du service économie agricole de la direction départementale de l'agriculture et de la forêt de la Meuse (ajouté à compter du 15 septembre 2009) ;
 
 -secrétaire général de la direction départementale de l'agriculture et de la forêt et de la direction départementale des services vétérinaires du Morbihan ;
 
@@ -184,17 +176,13 @@ En application de l'article 2 du décret du 4 janvier 2006 susvisé, la liste de
 
 -chef du service de l'ingénierie de l'eau et des équipements ruraux à la direction départementale de l'agriculture et de la forêt Nord ;
 
-- chef du service environnement de la direction départementale de l'agriculture et de la forêt du Nord (ajouté à compter du 1er juillet 2009) ;
-
 -chef du service eaux et forêts, chef de la mission interservices de l'eau à la direction départementale de l'agriculture et de la forêt de l'Oise ;
 
 -chef du service équipement rural à la direction départementale de l'agriculture et de la forêt de l'Oise ;
 
-- secrétaire général de la direction départementale de l'équipement et de l'agriculture du Puy-de-Dôme (ajouté à compter du 1er juillet 2009) ;
+-chef d'arrondissement de Bayonne à la direction départementale de l'agriculture et de la forêt des Pyrénées-Atlantiques ;
 
-- Chef du service économie agroalimentaire et développement à la direction départementale de l'équipement et de l'agriculture des Pyrénées-Atlantiques (à compter du 1er mars 2009) ;
-
--Chef de la mission géomatique et de valorisation de données de la direction départementale de l'équipement et de l'agriculture des Hautes-Pyrénées (ajouté à compter du 1er janvier 2009) ;
+-chef du service d'économie agricole à la direction départementale de l'agriculture et de la forêt des Pyrénées-Atlantiques ;
 
 -chef du service équipement rural, adjoint au directeur départemental de l'agriculture et de la forêt du Haut-Rhin ;
 
@@ -206,27 +194,19 @@ En application de l'article 2 du décret du 4 janvier 2006 susvisé, la liste de
 
 - chef du service d'appui aux collectivités locales à la direction départementale de l'agriculture et de la forêt de la Seine-Maritime ;
 
-- chef du service économie agricole de la direction départementale de l'équipement et de l'agriculture de Seine-et-Marne (à compter du 1er juillet 2009) ;
-
 -secrétaire général de la direction départementale de l'agriculture et de la forêt et de la direction départementale des services vétérinaires des Deux-Sèvres ;
 
--chef du service eau et environnement, chef de la mission interservices de l'eau à la direction départementale de l'agriculture et de la forêt de Tarn-et-Garonne ;
+-chef du service d'ingénierie d'appui territorial, adjoint au directeur à la direction départementale de l'agriculture et de la forêt du Tarn ;
 
-- chef du service environnement de la direction départementale de l'équipement et de l'agriculture de Tarn-et-Garonne (ajouté à compter du 1er juillet 2009) ;
+-chef du service eau et environnement, chef de la mission interservices de l'eau à la direction départementale de l'agriculture et de la forêt de Tarn-et-Garonne ;
 
 -chef du service environnement à la direction départementale de l'équipement et de l'agriculture du Territoire de Belfort ;
 
 -chef du service d'économie agricole à la direction départementale de l'équipement et de l'agriculture du Territoire de Belfort ;
 
-- chef du service eau et milieux aquatiques de la direction départementale de l'équipement et de l'agriculture du Var (ajouté à compter du 1er juillet 2009) ;
-
 -secrétaire général de la direction départementale de l'agriculture et de la forêt et de la direction départementale des services vétérinaires de la Vienne ;
 
 -chef du service équipements et aménagement rural à la direction départementale de l'agriculture et de la forêt de la Haute-Vienne ;
-
-- chef du service économie agricole de la direction départementale de l'agriculture et de la forêt de la Haute-Vienne (ajouté à compter du 1er juillet 2009) ;
-
--Secrétaire général de la direction départementale de l'équipement et de l'agriculture des Vosges (ajouté à compter du 1er janvier 2009) ;
 
 - chef du service de l'action territoriale et interministérielle à la direction départementale de l'agriculture et de la forêt de l'Yonne ;
 
@@ -238,7 +218,7 @@ En application de l'article 2 du décret du 4 janvier 2006 susvisé, la liste de
 
 -chef du service formation et développement à la direction de l'agriculture et de la forêt de la Guadeloupe ;
 
--chef du service environnement forêt foncier à la direction de l'agriculture et de la forêt de Guyane (à compter du 1er septembre 2009) ;
+-chef du service eau et environnement à la direction de l'agriculture et de la forêt de la Martinique ;
 
 -secrétaire général de la direction de l'agriculture et de la forêt et de la direction des services vétérinaires de la Réunion ;
 
@@ -247,8 +227,6 @@ En application de l'article 2 du décret du 4 janvier 2006 susvisé, la liste de
 -secrétaire général de la direction de l'agriculture et de la forêt et de la direction des services vétérinaires de Mayotte ;
 
 -chef du service forêt et bois à la direction régionale de l'agriculture et de la forêt d'Aquitaine ;
-
-- contrôleur de gestion à la direction régionale de l'alimentation, de l'agriculture et de la pêche d'Aquitaine (ajouté à compter du 1er juillet 2009) ;
 
 -chef du service régional d'information statistique et économique à la direction régionale de l'agriculture et de la forêt d'Auvergne ;
 
@@ -262,9 +240,7 @@ En application de l'article 2 du décret du 4 janvier 2006 susvisé, la liste de
 
 -chef du service régional d'information statistique et économique à la direction régionale de l'agriculture et de la forêt de Franche-Comté ;
 
--Chef du service régional de l'alimentation de la direction régionale de l'alimentation, de l'agriculture et de la forêt de Franche-Comté (ajouté à compter du 1er janvier 2009) ;
-
-- Chargé de mission régional assurance qualité au service régional de l'alimentation de la direction régionale de l'alimentation, de l'agriculture et de la forêt de Languedoc-Roussillon (à compter du 1er janvier 2009) ;
+- chargé de mission régional assurance qualité auprès du directeur départemental des services vétérinaires de l'Hérault ;
 
 -délégué régional à la formation continue à la direction régionale de l'agriculture et de la forêt de Languedoc-Roussillon ;
 
@@ -288,15 +264,13 @@ En application de l'article 2 du décret du 4 janvier 2006 susvisé, la liste de
 
 -chargé de mission interrégionale d'inspection de l'apprentissage agricole au service régional de la formation et du développement à la direction régionale et départementale de l'agriculture et de la forêt de Provence-Alpes-Côte d'Azur ;
 
-- chef de l'unité sites, paysages, impacts à la direction régionale de l'environnement, de l'aménagement et du logement de Provence-Alpes-Côte d'Azur (à compter du 1er septembre 2009) ;
-
 -secrétaire général de la direction régionale de l'agriculture et de la forêt de Provence-Alpes-Côte d'Azur, de la direction départementale de l'agriculture et de la forêt des Bouches-du-Rhône et de la direction départementale des services vétérinaires des Bouches-du-Rhône ;
 
 -responsable de la division administrative et financière au service régional de la formation et du développement à la direction régionale de l'agriculture et de la forêt de Rhône-Alpes ;
 
 -secrétaire général de la direction régionale et interdépartementale de l'agriculture et de la forêt d'Ile-de-France et de la direction départementale des services vétérinaires de Paris ;
 
--Animateur technique de l'ingénierie territoriale à la direction régionale de l'alimentation, de l'agriculture et de la forêt d'Aquitaine (à compter du 1er janvier 2009) ;
+-animateur technique de l'ingénierie d'appui territorial pour l'interrégion Aquitaine-Poitou-Charentes-Limousin et Midi-Pyrénées ;
 
 -animateur technique de l'ingénierie d'appui territorial pour l'interrégion Alsace, Lorraine, Champagne-Ardenne, Ile-de-France, Nord-Pas-de-Calais, Picardie, Bourgogne et Franche-Comté.
 
@@ -354,29 +328,25 @@ Gestionnaire administratif et financier de l'établissement public local de la G
 
 -chef du bureau de la gestion prévisionnelle des compétences et des carrières à la direction générale de l'administration ;
 
--chef du bureau de la stratégie nationale de développement durable au ministère de l'écologie, de l'énergie, du développement durable et de l'aménagement du territoire ;
-
--chef du bureau des milieux aquatiques à la sous-direction des espaces naturels, direction de l'eau et de la biodiversité de la direction générale de l'aménagement, du logement et de la nature (ajouté à compter du 12 novembre 2008) ;
-
-- adjoint à la sous-directrice du changement climatique et développement durable au ministère de l'écologie, de l'énergie, du développement durable et de la mer, en charge des technologies vertes et des négociations sur le climat (ajouté à compter du 1er juillet 2009).
+-chef du bureau de la stratégie nationale de développement durable au ministère de l'écologie, de l'énergie, du développement durable et de l'aménagement du territoire.
 
 **b) Dans les services déconcentrés** :
 
--directeur adjoint de la direction régionale de l'environnement, de l'aménagement et du logement d'Alsace ;
+-directeur adjoint de la direction régionale de l'environnement d'Alsace ;
 
--secrétaire général à la direction régionale de l'environnement, de l'aménagement et du logement d'Aquitaine ;
+-secrétaire général à la direction régionale de l'environnement d'Aquitaine ;
 
-- adjoint du directeur régional de l'environnement d'Aquitaine (ajouté à compter du 1er juillet 2009) ;
+-chef de la division connaissance du service de l'eau, des milieux aquatiques et des risques naturels, adjoint au chef du service de l'eau et des milieux aquatiques à la direction régionale de l'environnement de Bretagne ;
 
--chef du service de la nature et des paysages, adjoint au directeur régional de l'environnement, de l'aménagement et du logement de Bretagne (à compter du 1er octobre 2008) ;
+-chef du service de la nature et des paysages, adjoint au directeur régional de l'environnement de Bretagne (à compter du 1er octobre 2008) ;
+
+- chef du service d'assistance aux collectivités à la direction départementale de l'équipement d'Eure-et-Loir ;
 
 - secrétaire général de la direction départementale de l'équipement d'Indre-et-Loire (A compter du 1er septembre 2008) ;
 
-- Chef du service eaux et milieux aquatiques de la direction régionale de l'environnement de Poitou-Charentes (ajouté à compter du 1er janvier 2009) ;
+-chef du service de l'eau et des milieux aquatiques à la direction régionale de l'environnement de la Guadeloupe ;
 
--chef du service de l'eau et des milieux aquatiques à la direction régionale de l'environnement, de l'aménagement et du logement de la Guadeloupe ;
-
--secrétaire général de la direction régionale de l'environnement, de l'aménagement et du logement de la Martinique. (à compter du 3 novembre 2008) ;
+-secrétaire général de la direction régionale de l'environnement de la Martinique. (à compter du 3 novembre 2008) ;
 
 **IV.-Dans les établissements publics qui dépendent du ministère chargé de l'agriculture et / ou du ministère chargé de l'environnement**
 
