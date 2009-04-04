@@ -852,8 +852,6 @@
 - [Arrêté du 23 avril 2007 (SANS0753360A)](arrete-du-23-avril-2007-sans0753360a)
 - [Arrêté du 23 décembre 2006 (ECOP0600791A)](arrete-du-23-decembre-2006-ecop0600791a)
 - [Arrêté du 23 décembre 2006 (INTA0601015A)](arrete-du-23-decembre-2006-inta0601015a)
-- [Arrêté du 23 décembre 2006 (INTA0601016A)](arrete-du-23-decembre-2006-inta0601016a)
-- [Arrêté du 23 décembre 2006 (INTA0601017A)](arrete-du-23-decembre-2006-inta0601017a)
 - [Arrêté du 23 décembre 2006 (INTA0601054A)](arrete-du-23-decembre-2006-inta0601054a)
 - [Arrêté du 23 décembre 2006 (INTA0601055A)](arrete-du-23-decembre-2006-inta0601055a)
 - [Arrêté du 23 décembre 2006 (JUSC0620943A)](arrete-du-23-decembre-2006-jusc0620943a)
