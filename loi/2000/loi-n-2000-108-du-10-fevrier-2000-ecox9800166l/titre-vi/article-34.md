@@ -1,17 +1,43 @@
 # Article 34
 
-En dehors des cas visés à l'article 33, les fonctionnaires et agents habilités en vertu du même article ne peuvent procéder aux visites en tous lieux, ainsi qu'à la saisie de pièces et de documents, dans le cadre d'enquêtes demandées par le ministre de l'énergie, le ministre chargé de l'économie ou la Commission de régulation de l'énergie, que sur autorisation judiciaire, donnée par ordonnance du président du tribunal de grande instance dans le ressort duquel sont situés les lieux à visiter ou d'un juge délégué par lui. Lorsque ces lieux sont situés dans le ressort de plusieurs juridictions et qu'une action simultanée doit être menée dans chacun d'eux, une ordonnance unique peut être délivrée par l'un des présidents compétents.
+I. - En dehors des cas mentionnés à l'article 33, les fonctionnaires et agents habilités en vertu du même article ne peuvent procéder aux visites en tous lieux, ainsi qu'à la saisie de pièces et de documents, dans le cadre d'enquêtes demandées par le ministre de l'énergie, le ministre chargé de l'économie ou la Commission de la régulation de l'énergie, que sur autorisation judiciaire dans les conditions définies par le présent article.
 
-Le juge vérifie que la demande d'autorisation qui lui est soumise comporte tous les éléments d'information de nature à justifier la visite.
+La visite est autorisée par ordonnance du juge des libertés et de la détention du tribunal de grande instance dans le ressort duquel sont situés les lieux à visiter.
 
-La visite et la saisie s'effectuent sous l'autorité et le contrôle du juge qui les a autorisées. Il désigne un ou plusieurs officiers de police judiciaire chargés d'assister à ces opérations et de le tenir informé de leur déroulement. Lorsqu'elles ont lieu en dehors du ressort de la juridiction à laquelle il appartient, il délivre une commission rogatoire pour exercer ce contrôle au président du tribunal de grande instance dans le ressort duquel s'effectue la visite.
+L'ordonnance comporte l'adresse des lieux à visiter, le nom et la qualité du ou des fonctionnaires ou agents habilités à procéder aux opérations de visite et de saisie ainsi que les heures auxquelles ils sont autorisés à se présenter.
 
-Le juge peut se rendre dans les locaux pendant l'intervention, dont il peut, à tout moment, décider la suspension ou l'arrêt.
+L'ordonnance est exécutoire au seul vu de la minute.
 
-L'ordonnance mentionnée au premier alinéa n'est susceptible que d'un pourvoi en cassation selon les règles prévues par le code de procédure pénale. Ce pourvoi n'est pas suspensif.
+II. - L'ordonnance est notifiée sur place au moment de la visite, à l'occupant des lieux ou à son représentant qui en reçoit copie intégrale contre récépissé ou émargement au procès-verbal de visite. En l'absence de l'occupant des lieux ou de son représentant, l'ordonnance est notifiée, après la visite, par lettre recommandée avec demande d'avis de réception. La notification est réputée faite à la date de réception figurant sur l'avis.A défaut de réception, il est procédé à la signification de l'ordonnance par acte d'huissier de justice.
 
-La visite, qui ne peut commencer avant 6 heures ou après 21 heures, est effectuée en présence de l'occupant des lieux ou de son représentant.
+L'acte de notification comporte mention des voies et délais de recours contre l'ordonnance ayant autorisé la visite et contre le déroulement des opérations de visite. Il mentionne également que le juge ayant autorisé la visite peut être saisi d'une demande de suspension ou d'arrêt de cette visite.
 
-Les enquêteurs, l'occupant des lieux ou son représentant ainsi que l'officier de police judiciaire peuvent seuls prendre connaissance des pièces et documents avant leur saisie.
+III. - La visite et la saisie de documents s'effectuent sous l'autorité et le contrôle du juge des libertés et de la détention qui les a autorisées. Le juge des libertés et de la détention peut, s'il l'estime utile, se rendre dans les locaux pendant l'intervention.A tout moment, il peut décider la suspension ou l'arrêt de la visite. La saisine du juge des libertés et de la détention aux fins de suspension ou d'arrêt des opérations de visite et de saisie n'a pas d'effet suspensif.
 
-Les inventaires et mises sous scellés sont réalisés conformément à l'article 56 du code de procédure pénale. Les originaux du procès-verbal et de l'inventaire sont transmis au juge qui a ordonné la visite. Les pièces et documents qui ne sont plus utiles à la manifestation de la vérité sont restitués à l'occupant des lieux.
+IV. - La visite ne peut commencer avant 6 heures et après 21 heures. Elle est effectuée en présence de l'occupant des lieux ou de son représentant, qui peut se faire assister de l'avocat de son choix. En l'absence de l'occupant des lieux, les agents chargés de la visite ne peuvent procéder à celle-ci qu'en présence de deux témoins qui ne sont pas placés sous leur autorité.
+
+Les fonctionnaires et agents habilités, l'occupant des lieux ou son représentant peuvent seuls prendre connaissance des pièces et documents avant leur saisie.
+
+Un procès-verbal relatant les modalités et le déroulement de l'opération et consignant les constatations effectuées est dressé sur-le-champ par les agents habilités à procéder à la visite. Un inventaire des pièces et documents saisis lui est annexé s'il y a lieu. Le procès-verbal et l'inventaire sont signés par les agents habilités et l'occupant des lieux ou, le cas échéant, par son représentant et les témoins. En cas de refus de signer, mention en est faite au procès-verbal.
+
+Les originaux du procès-verbal et de l'inventaire sont, dès qu'ils ont été établis, adressés au juge qui a autorisé la visite. Une copie de ces mêmes documents est remise ou adressée par lettre recommandée avec demande d'avis de réception à l'occupant des lieux ou à son représentant.
+
+Le procès-verbal et l'inventaire mentionnent le délai et les voies de recours.
+
+Les pièces saisies sont conservées pour les besoins de la procédure, à moins qu'une décision insusceptible de pourvoi en cassation par les parties n'en ordonne la restitution.
+
+V. - L'ordonnance autorisant la visite peut faire l'objet d'un appel devant le premier président de la cour d'appel suivant les règles prévues par le code de procédure civile. Les parties ne sont pas tenues de constituer avoué.
+
+Cet appel est formé par déclaration remise ou adressée par pli recommandé au greffe de la cour dans un délai de quinze jours. Ce délai court à compter de la notification de l'ordonnance. Cet appel n'est pas suspensif.
+
+Le greffe du tribunal de grande instance transmet sans délai le dossier de l'affaire au greffe de la cour d'appel où les parties peuvent le consulter.
+
+L'ordonnance du premier président de la cour d'appel est susceptible d'un pourvoi en cassation, selon les règles prévues par le code de procédure civile. Le délai du pourvoi en cassation est de quinze jours.
+
+VI. - Le premier président de la cour d'appel connaît des recours contre le déroulement des opérations de visite ou de saisie autorisées par le juge des libertés et de la détention suivant les règles prévues par le code de procédure civile. Les parties ne sont pas tenues de constituer avoué.
+
+Le recours est formé par déclaration remise ou adressée par pli recommandé au greffe de la cour dans un délai de quinze jours. Ce délai court à compter de la remise ou de la réception soit du procès-verbal, soit de l'inventaire, mentionnés au premier alinéa. Ce recours n'est pas suspensif.
+
+L'ordonnance du premier président de la cour d'appel est susceptible d'un pourvoi en cassation selon les règles prévues par le code de procédure civile. Le délai du pourvoi en cassation est de quinze jours.
+
+VII. - Le présent article est reproduit dans l'acte de notification de l'ordonnance du juge des libertés et de la détention autorisant la visite.

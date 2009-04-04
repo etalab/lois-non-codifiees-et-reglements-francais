@@ -14,14 +14,12 @@ I. ― Sont habilités à procéder aux contrôles nécessaires en vue de vérif
 
 Les agents mentionnés aux 1° à 5° sont astreints au secret professionnel dans les conditions et sous les sanctions prévues aux articles 226-13 et 226-14 du code pénal.
 
-II. ― Les agents mentionnés au I ont accès à tout moment aux établissements, aux locaux et aux installations où sont réalisées les opérations spatiales ainsi qu'à l'objet spatial. Ces dispositions ne sont pas applicables à la partie des locaux servant de domicile, sauf entre six heures et vingt et une heures, et sur autorisation du président du tribunal de grande instance ou du magistrat qu'il délègue à cette fin.
+II. ― Les agents mentionnés au I ont accès à tout moment aux établissements, aux locaux et aux installations où sont réalisées les opérations spatiales ainsi qu'à l'objet spatial. Au plus tard au début des opérations de contrôle, l'opérateur spatial est avisé qu'il peut assister à la visite et se faire assister de toute personne de son choix, ou s'y faire représenter. Lorsque les locaux ou une partie de ceux-ci constituent un domicile, les visites sont autorisées dans les conditions définies à l'article 7-1.
 
-Au plus tard au début des opérations de contrôle, l'opérateur est avisé qu'il peut assister aux opérations et se faire assister de toute personne de son choix, ou s'y faire représenter.
-
-III. ― Dans le cadre de leur mission de contrôle, les agents mentionnés au I peuvent demander communication de tous les documents ou pièces utiles, quel qu'en soit le support. Ils peuvent en prendre copie et recueillir sur convocation ou sur place les renseignements et justifications nécessaires.
+III. ― Dans le cadre de leur mission de contrôle, hormis les saisies réalisées selon la procédure prévue à l'article 7-1, les agents mentionnés au I peuvent demander communication de tous les documents ou pièces utiles, quel qu'en soit le support. Ils peuvent en prendre copie et recueillir sur convocation ou sur place les renseignements et justifications nécessaires.
 
 Les agents ne peuvent emporter des documents qu'après établissement d'une liste contresignée par l'opérateur. La liste précise la nature des documents et leur nombre.
 
 L'opérateur est informé par l'autorité administrative mentionnée à l'article 2 des suites du contrôle. Il peut lui faire part de ses observations.
 
-IV. ― Si l'opérateur ou la personne ayant qualité pour autoriser l'accès à l'établissement, au local ou à l'installation ne peut être atteint ou s'il s'oppose à l'accès, les agents mentionnés au I peuvent demander au président du tribunal de grande instance ou au juge délégué par lui à y être autorisés.
+IV. ― Si l'opérateur ou la personne ayant qualité pour autoriser l'accès à l'installation ne peut être atteint ou s'il s'oppose à l'accès, les agents mentionnés au I peuvent y être autorisés dans les conditions prévues à l'article 7-1.
