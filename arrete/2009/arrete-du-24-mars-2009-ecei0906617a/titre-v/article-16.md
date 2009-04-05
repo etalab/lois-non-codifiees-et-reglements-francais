@@ -1,0 +1,3 @@
+# Article 16
+
+Lorsqu'elle n'est pas effectuée dans le cadre du système d'assurance de la qualité d'un installateur, la vérification de l'installation est réalisée par un organisme désigné à cet effet par le ministre chargé de l'industrie dans les conditions prévues à l'article 36 du décret du 3 mai 2001 et à l'article 26 de l'arrêté du 31 décembre 2001 susvisés. Les obligations faites aux organismes désignés pour la vérification primitive par l'arrêté du 25 février 2002 susvisé s'appliquent, avec les adaptations nécessaires, aux organismes désignés pour la vérification de l'installation des jaugeurs.

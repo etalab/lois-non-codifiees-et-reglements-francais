@@ -1,0 +1,5 @@
+# Article 11
+
+Un réparateur dont le système d'assurance de la qualité n'est pas approuvé peut remettre un jaugeur en service après s'être assuré qu'il satisfait aux exigences réglementaires et avoir apposé sa marque sur les scellements ainsi que la vignette provisoire définie à l'article 51 de l'arrêté du 31 décembre 2001 susvisé. Conformément à l'article 40 du décret du 3 mai 2001 susvisé, même dans ce cas, la remise en service par le réparateur doit être précédée de la réalisation des examens et essais prévus pour la vérification primitive jaugeur installé. Le jaugeur peut être utilisé pendant quinze jours. Au-delà de ce délai, la vérification primitive après réparation devra avoir été effectuée par un organisme désigné à cet effet. En aucun cas cette vignette provisoire ne peut tenir lieu de vignette de vérification périodique.
+
+Sur demande expresse de l'autorité locale en charge de la métrologie légale, les réparateurs doivent lui communiquer toutes informations relatives à certaines réparations.
