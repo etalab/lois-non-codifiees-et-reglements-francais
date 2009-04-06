@@ -474,6 +474,7 @@
 - [Décret n°2009-357 du 30 mars 2009 (AGRP0900836D)](decret-n2009-357-du-30-mars-2009-agrp0900836d)
 - [Décret n°2009-358 du 30 mars 2009 (AGRP0900835D)](decret-n2009-358-du-30-mars-2009-agrp0900835d)
 - [Décret n°2009-359 du 30 mars 2009 (AGRP0900843D)](decret-n2009-359-du-30-mars-2009-agrp0900843d)
+- [Décret n°79-267 du 30 mars 1979](decret-n79-267-du-30-mars-1979)
 - [Décret n°96-80 du 30 janvier 1996 (MENF9502604D)](decret-n96-80-du-30-janvier-1996-menf9502604d)
 - [Décret n°97-599 du 30 mai 1997 (DEFP9701465D)](decret-n97-599-du-30-mai-1997-defp9701465d)
 - [Décret n°2008-1546 du 31 décembre 2008 (PRMX0831580D)](decret-n2008-1546-du-31-decembre-2008-prmx0831580d)
