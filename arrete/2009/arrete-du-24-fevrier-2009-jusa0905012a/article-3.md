@@ -2,15 +2,17 @@
 
 Pour chacun des concours, le garde des sceaux, ministre de la justice, arrête la composition du jury qui est présidé par un agent appartenant à l'un des corps suivants :
 
-― magistrat ;
+- magistrat de l'ordre judiciaire ;
 
-― administrateur civil ;
+- administrateur civil ;
 
-― directeur des services pénitentiaires ;
+- greffier en chef des services judiciaires ;
 
-― directeur de la protection judiciaire de la jeunesse ;
+- directeur des services pénitentiaires ;
 
-― attaché.
+- directeur de la protection judiciaire de la jeunesse ;
+
+- attaché d'administration.
 
 Les autres membres du jury sont choisis parmi des fonctionnaires du ministère de la justice de catégorie A ou du grade sommital de la catégorie B de telle sorte que le secrétariat général, la direction des services judiciaires, la direction de l'administration pénitentiaire et la direction de la protection judiciaire de la jeunesse soient représentés.
 
