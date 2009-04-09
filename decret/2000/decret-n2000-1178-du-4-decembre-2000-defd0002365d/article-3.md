@@ -40,7 +40,7 @@ e) La direction des statuts, des pensions et de la réinsertion sociale ;
 
 f) La direction du service national ;
 
-g) Le service des moyens généraux ;
+g) Le service parisien de soutien de l'administration centrale ;
 
 h) La direction centrale du service d'infrastructure de la défense ;
 
