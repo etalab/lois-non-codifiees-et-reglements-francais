@@ -180,7 +180,6 @@
 - [Arrêté du 8 mars 1999 (ATEN9870438A)](arrete-du-8-mars-1999-aten9870438a)
 - [Arrêté du 8 mars 1999 (DEFD9901210A)](arrete-du-8-mars-1999-defd9901210a)
 - [Arrêté du 8 mars 1999 (DEFD9901212A)](arrete-du-8-mars-1999-defd9901212a)
-- [Arrêté du 8 mars 1999 (DEFD9901213A)](arrete-du-8-mars-1999-defd9901213a)
 - [Arrêté du 8 mars 1999 (DEFD9901215A)](arrete-du-8-mars-1999-defd9901215a)
 - [Arrêté du 8 mars 1999 (DEFD9901231A)](arrete-du-8-mars-1999-defd9901231a)
 - [Arrêté du 8 mars 1999 (DEFD9901236A)](arrete-du-8-mars-1999-defd9901236a)
