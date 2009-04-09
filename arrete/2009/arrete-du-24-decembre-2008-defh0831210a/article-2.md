@@ -42,11 +42,11 @@ En application de l'article 3 du décret n° 2008-1314 du 12 décembre 2008 et d
 
 ― directeur du bureau du service national de Versailles ;
 
-― chef du bureau de la diffusion multimédia au service des moyens généraux ;
+― chef du bureau de la diffusion multimédia au   service parisien de soutien de l'administration centrale  ;
 
-― chef du bureau de la cité de l'air au service des moyens généraux ;
+― chef du bureau de la cité de l'air au   service parisien de soutien de l'administration centrale  ;
 
-― chef du bureau de la rémunération et des frais de déplacements au service des moyens généraux ;
+― chef du bureau de la rémunération et des frais de déplacements au   service parisien de soutien de l'administration centrale  ;
 
 ― chef du bureau des cabinets à la sous-direction des bureaux des cabinets ;
 

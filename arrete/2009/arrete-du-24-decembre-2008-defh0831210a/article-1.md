@@ -30,7 +30,7 @@ En application de l'article 5 du décret n° 2008-1314 du 12 décembre 2008 et d
 
 ― chef du bureau des pensions de retraite à la direction des ressources humaines du ministère de la défense ;
 
-― adjoint au sous-directeur des achats au service des moyens généraux ;
+― adjoint au sous-directeur des achats au   service parisien de soutien de l'administration centrale  ;
 
 ― directeur interrégional des anciens combattants de Marseille ;
 
