@@ -979,7 +979,6 @@
 - [Arrêté du 27 mars 1996 (TASP9621028A)](arrete-du-27-mars-1996-tasp9621028a)
 - [Arrêté du 27 mars 1996 (TASS9621013A)](arrete-du-27-mars-1996-tass9621013a)
 - [Arrêté du 27 mars 1996 (TASS9621014A)](arrete-du-27-mars-1996-tass9621014a)
-- [Arrêté du 27 novembre 1995 (ECOC9500129A)](arrete-du-27-novembre-1995-ecoc9500129a)
 - [Arrêté du 27 novembre 1996 (COMA9600034A)](arrete-du-27-novembre-1996-coma9600034a)
 - [Arrêté du 27 novembre 1996 (ECOP9600227A)](arrete-du-27-novembre-1996-ecop9600227a)
 - [Arrêté du 27 novembre 1996 (MENF9603157A)](arrete-du-27-novembre-1996-menf9603157a)
