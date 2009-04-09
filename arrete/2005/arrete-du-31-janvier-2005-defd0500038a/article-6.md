@@ -4,4 +4,4 @@ La direction de la qualité et du progrès a autorité sur les organismes extér
 
 1° Le service de la qualité ;
 
-2° L'établissement central de soutien.
+2° (abrogé).
