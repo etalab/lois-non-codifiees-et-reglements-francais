@@ -64,6 +64,11 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td/>
+<td/>
+<td> Emploi d'expertise dans la réalisation des missions relatives à la sécurité et à la protection des consommateurs.</td>
+</tr>
+<tr>
+<td/>
 <td>Basse-Terre </td>
 <td>Emploi de responsable du contentieux. <br/>
 </td>
@@ -210,7 +215,7 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <td/>
 <td>Aurillac <br/>
 </td>
-<td>Emploi d'expertise dans la réalisation des contrôles de la première mise sur le marché. <br/>
+<td>Emploi d'expertise dans la réalisation des contrôles de la première mise sur le marché.  (supprimé à compter du 18 mai 2009)<br/>
 </td>
 </tr>
 <tr>
@@ -613,7 +618,7 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <tr>
 <td/>
 <td/>
-<td> Emploi d'expertise au titre des activités syndicales exercées.</td>
+<td>Emploi d'expertise au titre des activités syndicales exercées.</td>
 </tr>
 <tr>
 <td>
@@ -1761,6 +1766,11 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 </tr>
 <tr>
 <td/>
+<td/>
+<td> AC - Emploi d'expertise en matière de régulation concurrentielle des marchés.</td>
+</tr>
+<tr>
+<td/>
 <td>AC C1 <br/>
 </td>
 <td>AC - Emploi d'expertise en matière de protection économique du consommateur. <br/>
@@ -1803,7 +1813,7 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <p align="left">AC D4. </p>
 </td>
 <td align="left" valign="middle">
-<p align="left">AC-Emploi d'expertise en matière de régulation concurrentielle des marchés. </p>
+<p align="left">AC-Emploi d'expertise en matière de régulation concurrentielle des marchés. (supprimé à compter du 1er janvier 2009)</p>
 </td>
 </tr>
 <tr>
