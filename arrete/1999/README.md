@@ -38,7 +38,6 @@
 - [Arrêté du 2 décembre 1998 (INTD9800538A)](arrete-du-2-decembre-1998-intd9800538a)
 - [Arrêté du 2 février 1999 (DEFP9802209A)](arrete-du-2-fevrier-1999-defp9802209a)
 - [Arrêté du 2 février 1999 (MESS9920447A)](arrete-du-2-fevrier-1999-mess9920447a)
-- [Arrêté du 2 juillet 1999 (AGRA9900474A)](arrete-du-2-juillet-1999-agra9900474a)
 - [Arrêté du 2 juillet 1999 (EQUH9900979A)](arrete-du-2-juillet-1999-equh9900979a)
 - [Arrêté du 2 juillet 1999 (EQUH9900981A)](arrete-du-2-juillet-1999-equh9900981a)
 - [Arrêté du 2 juillet 1999 (MENS9901444A)](arrete-du-2-juillet-1999-mens9901444a)
