@@ -2126,15 +2126,15 @@ A compter de la saison aéronautique d'été 2008 :
 <tbody>
 <tr>
 <td>
-<p align="center"> TERMINAL</p>
+<p align="center">TERMINAL</p>
 </td>
 <td>
-<p align="center"> FLUX MAXIMAL DE PASSAGERS PAR HEURE AU DEPART</p>
+<p align="center">FLUX MAXIMAL DE PASSAGERS PAR HEURE AU DEPART</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center"> 1</p>
+<p align="center">1</p>
 </td>
 <td>
 <p align="center">1 450 </p>
@@ -2142,67 +2142,167 @@ A compter de la saison aéronautique d'été 2008 :
 </tr>
 <tr>
 <td>
-<p align="center"> 2 A</p>
+<p align="center">2 A</p>
 </td>
 <td>
-<p align="center"> 900</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center"> 2 B</p>
-</td>
-<td>
-<p align="center"> 1 200</p>
+<p align="center">900</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center"> 2 C</p>
+<p align="center">2 B</p>
 </td>
 <td>
-<p align="center"> 900</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center"> 2 D</p>
-</td>
-<td>
-<p align="center"> 1 400</p>
+<p align="center">1 200</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center"> 2E</p>
+<p align="center">2 C</p>
 </td>
 <td>
-<p align="center"> 2 500</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center"> 2F1</p>
-</td>
-<td>
-<p align="center"> 1 200</p>
+<p align="center">900</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center"> 2F2</p>
+<p align="center">2 D</p>
 </td>
 <td>
-<p align="center"> 1 100</p>
+<p align="center">1 400</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center"> 3</p>
+<p align="center">2E</p>
 </td>
 <td>
-<p align="center"> 1 000</p>
+<p align="center">2 500</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">2F1</p>
+</td>
+<td>
+<p align="center">1 200</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">2F2</p>
+</td>
+<td>
+<p align="center">1 100</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">3</p>
+</td>
+<td>
+<p align="center">1 000</p>
 </td>
 </tr>
 </tbody>
 </table>
+
+.
+
+À COMPTER DE LA SAISON AÉRONAUTIQUE D'HIVER 2009-2010
+
+<div>
+<table>
+<tbody>
+<tr>
+<td>
+<p align="center">TERMINAL</p>
+</td>
+<td>
+<p align="center">FLUX MAXIMAL DE PASSAGERS PAR HEURE AU DEPART</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">1 950 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">2 A</p>
+</td>
+<td>
+<p align="center">900</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">2 B</p>
+</td>
+<td>
+<p align="center">1 200</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">2 C</p>
+</td>
+<td>
+<p align="center">900</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">2 D</p>
+</td>
+<td>
+<p align="center">1 400</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">2E</p>
+</td>
+<td>
+<p align="center">2 500</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">2F1</p>
+</td>
+<td>
+<p align="center">1 200</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">2F2</p>
+</td>
+<td>
+<p align="center">1 100</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center"> 2 G</p>
+</td>
+<td>
+<p align="center"> 500</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">3</p>
+</td>
+<td>
+<p align="center">1 000</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+</div>
