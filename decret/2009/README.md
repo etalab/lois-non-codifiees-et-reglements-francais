@@ -115,6 +115,7 @@
 - [Décret n°2009-32 du 9 janvier 2009 (MTST0828651D)](decret-n2009-32-du-9-janvier-2009-mtst0828651d)
 - [Décret n°2009-33 du 9 janvier 2009 (ESRS0828157D)](decret-n2009-33-du-9-janvier-2009-esrs0828157d)
 - [Décret n°2009-34 du 9 janvier 2009 (BCFS0831067D)](decret-n2009-34-du-9-janvier-2009-bcfs0831067d)
+- [Décret n°2009-396 du 9 avril 2009 (MCCT0904155D)](decret-n2009-396-du-9-avril-2009-mcct0904155d)
 - [Décret n°2008-1053 du 10 octobre 2008 (AGRF0810800D)](decret-n2008-1053-du-10-octobre-2008-agrf0810800d)
 - [Décret n°2009-145 du 10 février 2009 (MENE0900056D)](decret-n2009-145-du-10-fevrier-2009-mene0900056d)
 - [Décret n°2009-151 du 10 février 2009 (ECEZ0822445D)](decret-n2009-151-du-10-fevrier-2009-ecez0822445d)
