@@ -10,4 +10,4 @@ La déclaration valant saisie prévue à l'article 57 de la loi du 9 juillet 199
 
 4° Le décompte distinct des sommes réclamées, en principal, frais et intérêts échus.
 
-Cette déclaration est signifiée au préfet du département dans lequel le véhicule est immatriculé.
+Cette déclaration est signifiée au préfet du département     du lieu où demeure le débiteur.
