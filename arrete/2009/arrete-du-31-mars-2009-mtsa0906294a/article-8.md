@@ -1,0 +1,3 @@
+# Article 8
+
+Les ressortissants européens établis et exerçant légalement la profession d'assistant de service social dans l'un des Etats mentionnés à l'article L. 411-1-1 du code de l'action sociale et des familles, qui envisagent d'exercer en France de façon temporaire et occasionnelle, sont soumis, au préalable, à la déclaration prévue aux articles L. 411-1-1 et R. 411-7 du même code. Cette déclaration doit être établie en français sur le formulaire type figurant en annexe V du présent arrêté. Elle doit être adressée au ministre chargé des affaires sociales accompagnée des pièces listées à l'article R. 411-8 du code précité.
