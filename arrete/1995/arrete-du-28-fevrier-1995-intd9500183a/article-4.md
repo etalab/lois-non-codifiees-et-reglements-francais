@@ -2,16 +2,16 @@
 
 Les catégories d'informations délivrées au demandeur sont les suivantes :
 
-- numéro d'immatriculation ;
+-numéro d'immatriculation ;
 
-- marque ;
+-marque ;
 
-- type de véhicule ;
+-type de véhicule ;
 
-- numéro de série ;
+-numéro de série ;
 
-- date du certificat (carte grise) en cours ;
+-date du certificat (certificat d'immatriculation) en cours ;
 
-- absence d'inscription de gage ;
+-absence d'inscription de gage ;
 
-- absence d'inscription d'opposition au transfert de la carte grise.
+-absence d'inscription d'opposition au transfert du certificat d'immatriculation.

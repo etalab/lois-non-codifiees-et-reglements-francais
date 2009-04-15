@@ -1,6 +1,6 @@
 # Article 16
 
-Pour obtenir l'immatriculation d'un véhicule démuni de carte grise, son propriétaire doit fournir les pièces suivantes :
+Pour obtenir l'immatriculation d'un véhicule démuni de certificat d'immatriculation, son propriétaire doit fournir les pièces suivantes :
 
 1. Une demande de certificat d'immatriculation sur l'imprimé réglementaire ;
 
@@ -8,4 +8,4 @@ Pour obtenir l'immatriculation d'un véhicule démuni de carte grise, son propri
 
 3. Les pièces justificatives de son identité et de son domicile ;
 
-4. Les pièces prouvant l'origine de propriété du véhicule (notamment certificat d'annulation de carte grise ou récépissé de destruction visés aux articles 6 et 7 du présent arrêté) ainsi que, le cas échéant, un certificat de cession.
+4. Les pièces prouvant l'origine de propriété du véhicule (notamment certificat d'annulation de certificat d'immatriculation ou récépissé de destruction visés aux articles 6 et 7 du présent arrêté) ainsi que, le cas échéant, un certificat de cession.

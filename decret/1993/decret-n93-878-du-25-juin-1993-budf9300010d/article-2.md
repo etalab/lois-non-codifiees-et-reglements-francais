@@ -14,7 +14,7 @@ b) De la facture de vente ou du document en tenant lieu établi par le demandeur
 
 c) De l'original ou d'une copie certifiée :
 
--de la carte grise annotée conformément à la réglementation applicable en matière d'immatriculation des véhicules terrestres à moteur ;
+-du certificat d'immatriculation annotée conformément à la réglementation applicable en matière d'immatriculation des véhicules terrestres à moteur ;
 
 -du certificat de radiation de l'immatriculation pour les aéronefs et les bateaux destinés à la navigation intérieure ;
 

@@ -4,7 +4,7 @@ Tout véhicule soumis à immatriculation en application des titres II, III et IV
 
 Il existe deux types d'immatriculation :
 
-A. - Les immatriculations pour lesquelles sont délivrés des certificats dits "cartes grises". Elles comportent :
+A.-Les immatriculations pour lesquelles sont délivrés des certificats dits " certificats d'immatriculation ". Elles comportent :
 
 a) Les séries normales ;
 
@@ -12,7 +12,7 @@ b) Les séries spéciales TT et I.T. ;
 
 c) Les séries spéciales diplomatiques et assimilées CMD, CD, C et K dont les conditions d'attribution et les modalités de délivrance sont définies par une réglementation interministérielle.
 
-B. - Les immatriculations pour lesquelles sont délivrés des certificats spéciaux.
+B.-Les immatriculations pour lesquelles sont délivrés des certificats spéciaux.
 
 Elles comportent :
 

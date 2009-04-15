@@ -12,13 +12,13 @@ En ce qui concerne la préfecture de police de Paris, peuvent également être p
 
 5. Les taxes diverses concernant les étrangers afférentes :
 
-- à la délivrance et au renouvellement des cartes de séjour ;
+-à la délivrance et au renouvellement des cartes de séjour ;
 
-- à la délivrance des titres d'identité et de voyage ;
+-à la délivrance des titres d'identité et de voyage ;
 
-- au visa des passeports des étrangers ;
+-au visa des passeports des étrangers ;
 
-- à la délivrance et au renouvellement des autorisations de travail des travailleurs étrangers ;
+-à la délivrance et au renouvellement des autorisations de travail des travailleurs étrangers ;
 
 6. Les droits de chancellerie ;
 
@@ -40,7 +40,7 @@ En ce qui concerne la préfecture de police de Paris, peuvent également être p
 
 15. Les droits afférents aux permis de conduire internationaux ;
 
-16. Les taxes frappant la délivrance des primata et duplicata des récépissés de déclaration de mise en circulation des véhicules automobiles (cartes grises) ;
+16. Les taxes frappant la délivrance des primata et duplicata des récépissés de déclaration de mise en circulation des véhicules automobiles ( certificats d'immatriculation) ;
 
 17. Les taxes sur les automobiles (Fonds national de solidarité) instituées par la loi du 30 juin 1956 ;
 

@@ -6,7 +6,7 @@ au transport public de personnes, à adresser au préfet
 
 Je soussigné (propriétaire du véhicule)
 
-Déclare, à propos du véhicule suivant (voir les informations sur la carte grise) :
+Déclare, à propos du véhicule suivant (voir les informations sur le certificat d'immatriculation) :
 
 Marque :
 
@@ -20,21 +20,21 @@ Date d'échéance du contrôle technique :
 
 1. Déclaration d'affectation :
 
-- affecter ce véhicule au transport public de personnes, à compter du
+-affecter ce véhicule au transport public de personnes, à compter du
 
-- être à jour de visite technique pour cette utilisation, en application de l'arrêté du 29 novembre 1994 relatif aux visites techniques des véhicules de moins de neuf places affectés au transport public de personnes (ci-joint copie de la carte grise et, si nécessaire, copie du procès-verbal de visite technique).
+-être à jour de visite technique pour cette utilisation, en application de l'arrêté du 29 novembre 1994 relatif aux visites techniques des véhicules de moins de neuf places affectés au transport public de personnes (ci-joint copie de la certificat d'immatriculation et, si nécessaire, copie du procès-verbal de visite technique).
 
-Fait à , le
+Fait à, le
 
 Signature :
 
 2. Déclaration de cessation d'affectation :
 
-- cesser d'affecter ce véhicule au transport public de personnes, à compter du
+-cesser d'affecter ce véhicule au transport public de personnes, à compter du
 
-- être à jour de visite technique pour cette utilisation, en application de l'arrêté du 29 novembre 1994 relatif aux visites techniques des véhicules de moins de neuf places affectés au transport public de personnes, jusqu'à la date de cessation d'affectation au transport public de personnes (ci-joint copie de la carte grise et, si nécessaire, copie du procès-verbal de visite technique).
+-être à jour de visite technique pour cette utilisation, en application de l'arrêté du 29 novembre 1994 relatif aux visites techniques des véhicules de moins de neuf places affectés au transport public de personnes, jusqu'à la date de cessation d'affectation au transport public de personnes (ci-joint copie de la certificat d'immatriculation et, si nécessaire, copie du procès-verbal de visite technique).
 
-Fait à , le
+Fait à, le
 
 Signature :
 

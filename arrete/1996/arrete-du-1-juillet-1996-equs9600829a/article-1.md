@@ -2,7 +2,7 @@
 
 Tout véhicule soumis à immatriculation en application des dispositions du code de la route est affecté d'un numéro d'ordre dit "numéro d'immatriculation" délivré par le préfet du département du domicile du propriétaire du véhicule.
 
-Ce numéro est porté sur le certificat d'immatriculation (carte grise) qui est remis au propriétaire du véhicule, en application de l'article R. 322-2 du code de la route.
+Ce numéro est porté sur le certificat d'immatriculation (certificat d'immatriculation) qui est remis au propriétaire du véhicule, en application de l'article R. 322-2 du code de la route.
 
 Le numéro d'immatriculation est reproduit d'une manière très apparente à l'avant et à l'arrière du véhicule sur une surface dite "plaque d'immatriculation".
 

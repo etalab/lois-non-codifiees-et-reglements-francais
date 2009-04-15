@@ -1,3 +1,3 @@
 # Article 2
 
-A compter du 1er janvier 1987, il sera interdit de détenir en vue de la vente, de mettre en vente, de vendre ou d'importer des paratonnerres comportant des radioéléments.
+Les services administratifs départementaux d'immatriculation sont chargés de transmettre au ministère des transports, département des statistiques des transports (D.S.T.) , les informations recueillies à l'occasion de la délivrance, de la modification ou de la suppression du certificat d'immatriculation.

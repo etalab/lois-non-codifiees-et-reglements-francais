@@ -4,4 +4,4 @@ Le troisième volet, de format 100 mm " 187 mm, constitue l'avis de contraventio
 
 Au recto, sont portées les mentions prévues par le deuxième alinéa de l'article 3, qui sont établies par duplication du deuxième volet, ainsi qu'un code informatique attribué à chaque infraction. Il comporte la signature de l'agent verbalisateur.
 
-Au verso, figurent les informations relatives au contrevenant et au conducteur ainsi que, le cas échéant, au titulaire de la carte grise ou au propriétaire.
+Au verso, figurent les informations relatives au contrevenant et au conducteur ainsi que, le cas échéant, au titulaire du certificat d'immatriculation ou au propriétaire.

@@ -1,3 +1,11 @@
 # Article 3
 
-Le directeur général de la santé, le directeur du service central de protection contre les rayonnements ionisants, le directeur général des douanes et droits indirects, le directeur de la consommation et de la répression des fraudes, le directeur des industries chimiques, textiles et diverses et le directeur de la prévention des pollutions sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Les finalités de ce fichier sont définies limitativement comme il suit :
+
+Suivi des immatriculations et du parc des véhicules en circulation :
+
+Fourniture d'informations statistiques et nominatives [*droit d'accès*] :
+
+a) Aux administrations visées à l'article 7 ci-après, dans le cadre de l'exercice de leurs attributions ;
+
+b) Aux constructeurs français et aux importateurs en France de véhicules dans le cadre du développement des activités industrielles ou commerciales du secteur automobile.

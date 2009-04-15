@@ -4,7 +4,7 @@
 
 Certificat de conformité d'un véhicule d'occasion de catégorie internationale M 1 ou N 1 conforme à un type national et importé d'un pays tiers à la France
 
-Je soussigné (nom, prénom) : ,
+Je soussigné (nom, prénom) :,
 
 constructeur ou représentant dûment accrédité (1), certifie que le véhicule :
 
@@ -12,7 +12,7 @@ constructeur ou représentant dûment accrédité (1), certifie que le véhicule
 
 2. Marque :
 
-3. Type ([*) :  Version (*]) :
+3. Type ([*) : Version (*]) :
 
 4. Numéro d'identification ou numéro dans la série du type ([*) :
 
@@ -26,17 +26,17 @@ constructeur ou représentant dûment accrédité (1), certifie que le véhicule
 
 9. Dimensions (2) :
 
-Largeur :  Longueur :  Surface :
+Largeur : Longueur : Surface :
 
-10. P.T.A.C. (*]) :  (tonne).
+10.P.T.A.C. (*]) : (tonne).
 
-11. P.V. en ordre de marche :  (tonne).
+11.P.V. en ordre de marche : (tonne).
 
-12. P.T.R.A. ([*) :  (tonne).
+12.P.T.R.A. ([*) : (tonne).
 
-13. Charge utile (2) :  (tonne).
+13. Charge utile (2) : (tonne).
 
-14. Niveau sonore :  (dBA).
+14. Niveau sonore : (dBA).
 
 15. Régime de rotation moteur lui correspondant :
 
@@ -50,21 +50,21 @@ Largeur :  Longueur :  Surface :
 
 19. Titulaire du précédent certificat d'immatriculation :
 
-A. - A été importé par nos soins en France le :
+A.-A été importé par nos soins en France le :
 
-B. - A été vérifié sous notre responsabilité le : ,
+B.-A été vérifié sous notre responsabilité le :,
 
-à : ,
+à :,
 
-et est entièrement conforme au type (3) : ,
+et est entièrement conforme au type (3) :,
 
 version (3) :,
 
-réceptionné par type sous le numéro : ,
+réceptionné par type sous le numéro :,
 
 par la D.R.I.R.E. :
 
-A  le
+A le
 
 Signature :
 
@@ -72,6 +72,6 @@ Signature :
 
 (2) Uniquement pour les N 1.
 
-(3) Lorsque la référence du type étranger diffère de celui réceptionné en France, le type français est à reporter en mention libre sur la carte grise avec l'indication suivante : " Est entièrement conforme aux type et version français suivants :  "
+(3) Lorsque la référence du type étranger diffère de celui réceptionné en France, le type français est à reporter en mention libre sur le certificat d'immatriculation avec l'indication suivante : " Est entièrement conforme aux type et version français suivants : "
 
 (*]) Eléments à reprendre de la plaque constructeur.

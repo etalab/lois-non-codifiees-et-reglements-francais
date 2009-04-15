@@ -1,12 +1,12 @@
 # Article 6
 
-A. - Doit donner lieu à une déclaration auprès de la préfecture dans un délai d'un mois suivant sa mutation, le non-maintien en circulation d'un véhicule par son nouveau propriétaire.
+A.-Doit donner lieu à une déclaration auprès de la préfecture dans un délai d'un mois suivant sa mutation, le non-maintien en circulation d'un véhicule par son nouveau propriétaire.
 
-Cette déclaration peut être établie soit sur un imprimé (disponible en préfecture) appelé "Demande d'annulation de carte grise", dont le modèle figure en annexe IV du présent arrêté, soit sur papier libre.
+Cette déclaration peut être établie soit sur un imprimé (disponible en préfecture) appelé " Demande d'annulation de certificat d'immatriculation ", dont le modèle figure en annexe IV du présent arrêté, soit sur papier libre.
 
-Elle doit être adressée, accompagnée de la carte grise (sur laquelle le précédent propriétaire aura porté la mention "vendu le" ou "cédé le" suivie de sa signature) et du certificat de cession, à la préfecture qui a délivré ladite carte grise.
+Elle doit être adressée, accompagnée du certificat d'immatriculation (sur laquelle le précédent propriétaire aura porté la mention " vendu le " ou " cédé le " suivie de sa signature) et du certificat de cession, à la préfecture qui a délivré ladite certificat d'immatriculation.
 
-Il sera alors procédé à l'annulation de la carte grise dans les conditions prévues à l'article 7 ci-après.
+Il sera alors procédé à l'annulation du certificat d'immatriculation dans les conditions prévues à l'article 7 ci-après.
 
 B. 1. En cas de remise (à titre gratuit ou onéreux) d'un véhicule pour destruction, le propriétaire remet à un démolisseur ou à un broyeur agréés un certificat de cession pour destruction dont le modèle figure en annexe V au présent arrêté.
 
@@ -26,7 +26,7 @@ L'autorité ayant délivré le certificat d'immatriculation procède alors à l'
 
 Le broyeur agréé conserve en archive pendant cinq ans un exemplaire du certificat de destruction.
 
-4. Dans le cas où le démolisseur agréé ayant pris en charge le véhicule le destine pour destruction à un broyeur agréé d'un autre Etat membre de l'Union européenne, il renseigne, outre le "récépissé de prise en charge d'un véhicule pour destruction", le "certificat de destruction" (numéro d'agrément du broyeur et pays).
+4. Dans le cas où le démolisseur agréé ayant pris en charge le véhicule le destine pour destruction à un broyeur agréé d'un autre Etat membre de l'Union européenne, il renseigne, outre le " récépissé de prise en charge d'un véhicule pour destruction ", le " certificat de destruction " (numéro d'agrément du broyeur et pays).
 
 Le démolisseur agréé adresse le récépissé de prise en charge pour destruction et l'un des documents mentionnés au deuxième alinéa du point 1, ainsi que le certificat de destruction à l'autorité ayant délivré l'immatriculation en vue de l'enregistrement de la destruction et de l'annulation de l'immatriculation.
 
@@ -36,4 +36,4 @@ Le démolisseur agréé conserve en archive pendant cinq ans un exemplaire du r�
 
 6. Les informations figurant sur le formulaire précité peuvent être transmises par voie électronique à l'autorité ayant délivré l'immatriculation par les professionnels habilités à cet effet.
 
-C. - Les entreprises d'assurance sont autorisées à retourner aux préfectures concernées les cartes grises des véhicules volés non retrouvés après un délai d'un an. Ces véhicules seront alors considérés comme détruits dès réception de ces cartes grises dont l'envoi devra être accompagné d'une liste précise, datée et signée.
+C.-Les entreprises d'assurance sont autorisées à retourner aux préfectures concernées les certificats d'immatriculation des véhicules volés non retrouvés après un délai d'un an. Ces véhicules seront alors considérés comme détruits dès réception de ces certificats d'immatriculation dont l'envoi devra être accompagné d'une liste précise, datée et signée.

@@ -6,4 +6,4 @@ Ceux-ci doivent présenter à toute réquisition des services de contrôle, avec
 
 La durée de validité d'une telle attestation est limitée à dix jours au plus.
 
-La présence à bord du véhicule du titulaire de la carte grise gratuite ou de son préposé n'est pas obligatoire dans ce cas.
+La présence à bord du véhicule du titulaire du certificat d'immatriculation gratuit ou de son préposé n'est pas obligatoire dans ce cas.

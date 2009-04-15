@@ -10,4 +10,4 @@ Sont précisés également le montant de l'amende forfaitaire, la possibilité d
 
 Au verso, sont indiqués, à droite, l'emplacement où doit être apposé le timbre-amende, l'intitulé et l'adresse du destinataire de la carte de paiement.
 
-Il est, en outre, prévu un emplacement où sont portées des informations relatives au contrevenant ou au conducteur ainsi que, le cas échéant, au titulaire de la carte grise ou au propriétaire. Sur ce volet sont indiquées les conséquences du défaut de paiement et de l'absence de requête dans le délai imparti.
+Il est, en outre, prévu un emplacement où sont portées des informations relatives au contrevenant ou au conducteur ainsi que, le cas échéant, au titulaire du certificat d'immatriculation ou au propriétaire. Sur ce volet sont indiquées les conséquences du défaut de paiement et de l'absence de requête dans le délai imparti.
