@@ -1,0 +1,3 @@
+# CHAPITRE 9 : LA PROCEDURE DE DESTRUCTION
+
+- [Article 16](article-16.md)
