@@ -53,3 +53,7 @@ Paris-Dakar (Sénégal).
 Jusqu'au 31 décembre 2013 :
 
 Paris - Nassau (Bahamas).
+
+Jusqu'au 31 mars 2014 :
+
+Paris - New York (Etats-Unis).
