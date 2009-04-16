@@ -127,3 +127,11 @@ Marseille―Maurice (île Maurice) ;
 Nantes―Maurice (île Maurice) ;
 
 Toulouse―Maurice (île Maurice).
+
+Jusqu'au 31 mars 2014 :
+
+Fort-de-France - Montréal (Canada) ;
+
+Pointe-à-Pitre - Montréal (Canada) ;
+
+Nantes - Québec (Canada).
