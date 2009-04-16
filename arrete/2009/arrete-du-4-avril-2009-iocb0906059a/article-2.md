@@ -1,0 +1,3 @@
+# Article 2
+
+Le directeur général des collectivités locales, le directeur général des finances publiques, les préfets et les trésoriers-payeurs généraux des départements de l'Ain, de l'Ariège, de l'Aube, des Bouches-du-Rhône, de la Côte-d'Or, d'Eure-et-Loir, d'Indre-et-Loire, de l'Isère, du Jura, de la Manche, de la Marne, de la Meuse, de la Moselle, du Nord, de l'Orne, du Pas-de-Calais, des Pyrénées-Atlantiques, du Haut-Rhin, de la Savoie, de la Seine-Maritime, de Seine-et-Marne, des Yvelines et de la Haute-Vienne sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
