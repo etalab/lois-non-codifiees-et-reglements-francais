@@ -28,4 +28,6 @@ f) Une présentation indicative des emplois rémunérés par les organismes bén
 
 6° Des annexes explicatives développant, pour chaque budget annexe et chaque compte spécial, le montant du découvert ou des recettes et des crédits proposés par programme ou par dotation. Ces annexes sont accompagnées du projet annuel de performances de chacun d'entre eux, dans les conditions prévues au 5° en justifiant les prévisions de recettes et, le cas échéant, son découvert ;
 
-7° Des annexes générales prévues par les lois et règlements destinées à l'information et au contrôle du Parlement.
+7° Des annexes générales prévues par les lois et règlements destinées à l'information et au contrôle du Parlement ;
+
+8° Pour les dispositions relevant du 2° du I et du 7° du II de l'article 34, une évaluation préalable comportant les documents visés aux dix derniers alinéas de l'article 8 de la loi organique n° 2009-403 du 15 avril 2009 relative à l'application des articles 34-1, 39 et 44 de la Constitution.
