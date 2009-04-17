@@ -30,7 +30,6 @@
 - [Décret n°66-319 du 20 mai 1966](decret-n66-319-du-20-mai-1966)
 - [Décret n°67-1169 du 22 décembre 1967](decret-n67-1169-du-22-decembre-1967)
 - [Décret n°67-259 du 23 mars 1967](decret-n67-259-du-23-mars-1967)
-- [Décret n°67-265 du 23 mars 1967](decret-n67-265-du-23-mars-1967)
 - [Décret n°67-268 du 23 mars 1967](decret-n67-268-du-23-mars-1967)
 - [Décret n°67-624 du 23 juillet 1967](decret-n67-624-du-23-juillet-1967)
 - [Décret n°67-953 du 23 octobre 1967](decret-n67-953-du-23-octobre-1967)
