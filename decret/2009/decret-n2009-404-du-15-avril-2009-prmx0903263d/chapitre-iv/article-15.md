@@ -1,0 +1,7 @@
+# Article 15
+
+Le foyer dont l'un des membres bénéficie au titre du mois de mai 2009 de la prime forfaitaire mentionnée à l'article L. 262-11 du code de l'action sociale et des familles ou à l'article L. 524-5 du code de la sécurité sociale, dans leur rédaction antérieure à l'entrée en vigueur de la loi n° 2008-1249 du 1er décembre 2008 généralisant le revenu de solidarité active et réformant les politiques d'insertion, continue à en bénéficier si cela lui est plus favorable que le droit au revenu de solidarité active. Son droit au revenu minimum d'insertion ou à l'allocation de parent isolé continue alors à être calculé selon les dispositions applicables avant l'entrée en vigueur de cette loi, jusqu'à ce que les versements de la prime forfaitaire s'interrompent. A compter du mois où ces versements s'interrompent, le foyer bénéficie du revenu de solidarité active selon les modalités prévues au IV de l'article 31 de cette loi.
+
+Dans le cas contraire, le foyer bénéficie dès le 1er juin 2009 du revenu de solidarité active selon les modalités prévues au IV de l'article 31.
+
+Dans le cas mentionné au premier alinéa, lorsqu'un membre du foyer accroît ou reprend une activité professionnelle ou une formation rémunérée postérieurement au 1er juin 2009, le foyer bénéficie du revenu de solidarité active selon les modalités prévues au IV de l'article 31. Le droit à la prime forfaitaire est maintenu jusqu'à ce que ses conditions ne soient plus réunies.

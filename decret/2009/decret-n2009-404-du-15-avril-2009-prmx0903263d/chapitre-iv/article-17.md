@@ -1,0 +1,5 @@
+# Article 17
+
+Pour l'application du II de l'article 31 de la loi du 1er décembre 2008 susvisée, l'organisme chargé du service du revenu de solidarité active compare, à la date de l'ouverture de droit potentielle au revenu de solidarité active, les droits dont pourrait bénéficier le foyer aux titres, respectivement, de ladite allocation et d'autre part de l'une ou l'autre des primes forfaitaires mentionnées aux articles L. 262-11 du code de l'action sociale et des familles et L. 524-5 du code de la sécurité sociale, dans leur rédaction antérieure à l'entrée en vigueur de ladite loi. Seule la prestation dont le montant est le plus élevé est servie.
+
+Lorsqu'en application du premier alinéa, une prime forfaitaire continue d'être versée après le 1er juin 2009 et qu'un autre membre du foyer débute ou reprend une activité professionnelle, un stage ou une formation, le foyer peut ouvrir droit au revenu de solidarité active. Cependant, par exception au I de l'article 16, il est tenu compte pour le calcul de ce droit de la prime forfaitaire perçue par le foyer.

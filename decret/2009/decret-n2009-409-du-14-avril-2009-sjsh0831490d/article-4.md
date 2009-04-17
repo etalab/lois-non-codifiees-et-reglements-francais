@@ -1,0 +1,7 @@
+# Article 4
+
+Pendant la période de dépôt des demandes d'autorisation ouverte, conformément à l'article R. 6122-29 du code de la santé publique, dans les deux mois suivant la publication des schémas régionaux d'organisation sanitaire révisés en application de l'article 3 ci-dessus, les titulaires d'une autorisation qui, à la date de publication du présent décret, exercent l'activité de soins mentionnée au 11° de l'article R. 6122-25 du code de la santé publique doivent demander l'autorisation prévue à l'article R. 6123-128. Les demandeurs peuvent poursuivre leurs activités jusqu'à ce qu'il ait été statué sur leur demande dans les conditions prévues à l'article L. 6122-9 du même code.
+
+Cette autorisation leur est accordée sous réserve que soient remplies les conditions prévues aux 1° et 2° de l'article L. 6122-2 du code de la santé publique, à condition qu'ils se mettent en conformité, dans un délai de seize mois à compter de la date de notification de l'autorisation, avec les dispositions des articles R. 6123-129 à R. 6123-133 ainsi qu'avec les conditions techniques de fonctionnement fixées en application de l'article L. 6124-1.
+
+Lorsque, à l'expiration de ces délais, il est constaté que le titulaire de l'autorisation ne s'est pas mis en conformité avec les dispositions du code de la santé publique mentionnées à l'alinéa précédent, il est fait application des dispositions de l'article L. 6122-13 de ce code.

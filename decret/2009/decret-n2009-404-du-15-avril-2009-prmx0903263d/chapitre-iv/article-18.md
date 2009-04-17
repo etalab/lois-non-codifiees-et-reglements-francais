@@ -1,0 +1,3 @@
+# Article 18
+
+A compter du 1er juin 2009, les personnes titulaires d'un contrat d'avenir, d'un contrat d'insertion-revenu minimum d'activité ou d'un contrat conclu dans le cadre des expérimentations destinées à simplifier l'accès au contrat d'avenir et au contrat d'insertion-revenu minimum d'activité, lorsqu'elles ne sont plus tenues aux obligations mentionnées à l'article L. 262-28 du code de l'action sociale et des familles, bénéficient, jusqu'à l'échéance de la convention individuelle attachée auxdits contrats, du droit à l'accompagnement prévu en application de l'article L. 262-29 du même code.

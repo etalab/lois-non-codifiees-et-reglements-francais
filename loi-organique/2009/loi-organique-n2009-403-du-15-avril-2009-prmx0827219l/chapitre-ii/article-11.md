@@ -1,0 +1,7 @@
+# Article 11
+
+L'article 8 n'est pas applicable aux projets de révision constitutionnelle, aux projets de loi de finances, aux projets de loi de financement de la sécurité sociale, aux projets de loi de programmation visés au vingt et unième alinéa de l'article 34 de la Constitution ainsi qu'aux projets de loi prorogeant des états de crise.
+
+Les dispositions des projets de loi par lesquelles le Gouvernement demande au Parlement, en application de l'article 38 de la Constitution, l'autorisation de prendre des mesures par ordonnances sont accompagnées, dès leur transmission au Conseil d'Etat, des documents visés aux deuxième à septième alinéas et à l'avant-dernier alinéa de l'article 8. Ces documents sont déposés sur le bureau de la première assemblée saisie en même temps que les projets de loi comprenant les dispositions auxquelles ils se rapportent.
+
+L'article 8 n'est pas applicable aux projets de loi présentés au titre de l'article 53 de la Constitution. Toutefois, le dépôt de ces projets est accompagné de documents précisant les objectifs poursuivis par les traités ou accords, estimant leurs conséquences économiques, financières, sociales et environnementales, analysant leurs effets sur l'ordre juridique français et présentant l'historique des négociations, l'état des signatures et des ratifications, ainsi que, le cas échéant, les réserves ou déclarations interprétatives exprimées par la France.
