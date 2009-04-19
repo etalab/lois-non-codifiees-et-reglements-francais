@@ -1,0 +1,3 @@
+# Article 5
+
+Une indemnité de départ volontaire peut être attribuée par l'Agence nationale pour la cohésion sociale et l'égalité des chances aux agents en contrat à durée indéterminée quittant définitivement l'agence à la suite d'une démission régulièrement acceptée. Toutefois, dans le cadre d'un départ volontaire pour mener un projet personnel en dehors de la création ou la reprise d'entreprise, l'agence n'est pas tenue de verser l'indemnité de départ volontaire lorsque le départ est susceptible de porter atteinte à la continuité du service ou si l'effectif restant ne permet pas d'assurer l'ensemble des missions confiées au service.
