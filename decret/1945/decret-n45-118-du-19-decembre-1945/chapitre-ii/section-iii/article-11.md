@@ -17,3 +17,5 @@ Les membres du jury sont désignés par arrêté du garde des sceaux, ministre d
 Des suppléants sont désignés en nombre égal dans les mêmes conditions.
 
 Une session d'examen est organisée chaque année au cours du mois de novembre.
+
+Toutefois, le garde des sceaux, ministre de la justice, peut, par arrêté, organiser au cours de l'année 2009 des sessions d'examen supplémentaires.

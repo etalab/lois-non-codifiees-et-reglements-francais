@@ -19,3 +19,5 @@ L'admission à subir les épreuves de l'examen est prononcée par le garde des s
 Nul ne peut se présenter plus de trois fois à l'examen de contrôle des connaissances techniques.
 
 Un certificat d'aptitude aux fonctions de notaire est décerné aux personnes ayant subi avec succès l'examen de contrôle des connaissances prévu au présent article.
+
+III.-Pour l'application de l'avant-dernier alinéa du II, les présentations à l'examen de contrôle des connaissances techniques antérieures au 11 juin 2008 ne sont prises en compte que si elles sont intervenues au cours de trois sessions consécutives.
