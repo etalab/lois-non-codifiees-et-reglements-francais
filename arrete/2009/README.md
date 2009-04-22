@@ -737,7 +737,6 @@
 - [Arrêté du 25 mars 2009 (AGRG0906295A)](arrete-du-25-mars-2009-agrg0906295a)
 - [Arrêté du 25 mars 2009 (AGRG0907165A)](arrete-du-25-mars-2009-agrg0907165a)
 - [Arrêté du 25 mars 2009 (DEVA0903228A)](arrete-du-25-mars-2009-deva0903228a)
-- [Arrêté du 25 mars 2009 (ECEC0827825A)](arrete-du-25-mars-2009-ecec0827825a)
 - [Arrêté du 25 mars 2009 (ECEC0905967A)](arrete-du-25-mars-2009-ecec0905967a)
 - [Arrêté du 25 mars 2009 (ECED0907142A)](arrete-du-25-mars-2009-eced0907142a)
 - [Arrêté du 25 mars 2009 (MTSO0906399A)](arrete-du-25-mars-2009-mtso0906399a)
