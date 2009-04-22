@@ -30,7 +30,7 @@ Un directeur régional de l'équipement.
 
 Un directeur régional de l'industrie, de la recherche et de l'environnement.
 
-Une directrice départementale de l'équipement déléguée.
+Le chef de service, adjoint au directeur des ressources humaines au sein du secrétariat général.
 
 Membres suppléants
 
