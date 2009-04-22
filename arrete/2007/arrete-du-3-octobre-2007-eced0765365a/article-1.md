@@ -138,9 +138,8 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="center"> 5 ans</td>
 <td align="center">
-<p> Association du centre de formation et de </p>
-<p>promotion des maisons familiales et </p>
-<p>rurales. </p>
+<p>Union nationale des maisons familiales </p>
+<p>rurales d'éducation et d'orientation. </p>
 </td>
 </tr>
 <tr>

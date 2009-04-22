@@ -199,9 +199,8 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="center"> 5 ans</td>
 <td align="center">
-<p> Ministère de la défense. - Armée de l'air. - Ecole de </p>
-<p>formation des sous-officiers de l'armée de l'air </p>
-<p>(EFSOAA). </p>
+<p> Ministère de la défense. - Armée de terre. - Ecole du matériel </p>
+<p>des écoles de Bourges. </p>
 </td>
 </tr>
 <tr>
@@ -363,9 +362,11 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="center"> 5 ans</td>
 <td align="center">
-<p> Ecole de formation d'animateurs sociaux (EFAS) Lille / </p>
-<p>Fédération nationale des associations d'accueil et de</p>
-<p>réinsertion sociale (FNARS). </p>
+<p>Ecole de service social de la région Nord </p>
+<p>(Association ESSRN) - Institut social de </p>
+<p>Lille (ISL) / Fédération Nationale des </p>
+<p>Associations d'accueil et de Réinsertion</p>
+<p>Sociale (FNARS). </p>
 </td>
 </tr>
 <tr>
@@ -566,9 +567,8 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="center"> 5 ans</td>
 <td align="center">
-<p> Ministère de la défense. - Armée de l'air. - Ecole de </p>
-<p>formation des sous-officiers de l'armée de l'air </p>
-<p>(EFSOAA). </p>
+<p> Ministère de la défense. - Armée de terre. - Ecole du matériel </p>
+<p>des écoles de Bourges. </p>
 </td>
 </tr>
 <tr>

@@ -1,152 +1,152 @@
 # Article 2
 
-<div>
-<br/>Les certificats de qualification professionnelles ci-dessous énumérés sont enregistrés au répertoire national des certifications professionnelles, avec mention du code de la nomenclature des spécialités de formation et de la durée.<br/>
+Les certificats de qualification professionnelles ci-dessous énumérés sont enregistrés au répertoire national des certifications professionnelles, avec mention du code de la nomenclature des spécialités de formation et de la durée.
+
 <div align="center">
 
 <table>
+<tbody>
 <tr>
-<th>
-<br/>INTITULÉ DE LA CERTIFICATION<br/>professionnelle</th>
-<th>
-<br/>CODE NSF</th>
-<th>
-<br/>DURÉE</th>
-<th>
-<br/>ORGANISME DÉLIVRANT<br/>la certification professionnelle</th>
+<th>INTITULÉ DE LA CERTIFICATION<br/>professionnelle<br/>
+</th>
+<th>CODE NSF<br/>
+</th>
+<th>DURÉE<br/>
+</th>
+<th>ORGANISME DÉLIVRANT<br/>la certification professionnelle<br/>
+</th>
 </tr>
 <tr>
-<td align="center">
-<br/>Vendeur en jardinerie-graineterie, option végétaux.</td>
-<td align="center">
-<br/>211w</td>
-<td align="center">
-<br/>5 ans</td>
-<td align="center">
-<br/>CPNE-FP DES JARDINERIES-GRAINETERIES.</td>
+<td align="center">Vendeur en jardinerie-graineterie, option végétaux.<br/>
+</td>
+<td align="center">211w<br/>
+</td>
+<td align="center">5 ans<br/>
+</td>
+<td align="center">CPNE-FP DES JARDINERIES-GRAINETERIES.<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Vendeur en jardinerie-graineterie, option animalerie.</td>
-<td align="center">
-<br/>211w</td>
-<td align="center">
-<br/>5 ans</td>
-<td align="center">
-<br/>CPNE-FP DES JARDINERIES-GRAINETERIES.</td>
+<td align="center">Vendeur en jardinerie-graineterie, option animalerie.<br/>
+</td>
+<td align="center">211w<br/>
+</td>
+<td align="center">5 ans<br/>
+</td>
+<td align="center">CPNE-FP DES JARDINERIES-GRAINETERIES.<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Ouvrier docker spécialisé pointeur.</td>
-<td align="center">
-<br/>311</td>
-<td align="center">
-<br/>5 ans</td>
-<td align="center">
-<br/>UNION NATIONALE DES INDUSTRIES DE LA MANUTENTION DANS LES PORTS FRANÇAIS.</td>
+<td align="center">Ouvrier docker spécialisé pointeur.<br/>
+</td>
+<td align="center">311<br/>
+</td>
+<td align="center">5 ans<br/>
+</td>
+<td align="center">UNION NATIONALE DES INDUSTRIES DE LA MANUTENTION DANS LES PORTS FRANÇAIS.<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Chargé(e) de relation clientèle assurance.</td>
-<td align="center">
-<br/>313t</td>
-<td align="center">
-<br/>5 ans</td>
-<td align="center">
-<br/>FFSA ― GEMA.</td>
+<td align="center">Chargé(e) de relation clientèle assurance.<br/>
+</td>
+<td align="center">313t<br/>
+</td>
+<td align="center">5 ans<br/>
+</td>
+<td align="center">FFSA ― GEMA.<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Gestionnaire assurances de personnes.</td>
-<td align="center">
-<br/>313t</td>
-<td align="center">
-<br/>2 ans</td>
-<td align="center">
-<br/>CHAMBRE SYNDICALE DES COURTIERS D'ASSURANCE (CSCA).</td>
+<td align="center">Gestionnaire assurances de personnes.<br/>
+</td>
+<td align="center">313t<br/>
+</td>
+<td align="center">2 ans<br/>
+</td>
+<td align="center">CHAMBRE SYNDICALE DES COURTIERS D'ASSURANCE (CSCA).<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Gestionnaire production incendie, accident risques divers (IARD).</td>
-<td align="center">
-<br/>313t</td>
-<td align="center">
-<br/>5 ans</td>
-<td align="center">
-<br/>CHAMBRE SYNDICALE DES COURTIERS D'ASSURANCE (CSCA).</td>
+<td align="center">Gestionnaire production incendie, accident risques divers (IARD).<br/>
+</td>
+<td align="center">313t<br/>
+</td>
+<td align="center">5 ans<br/>
+</td>
+<td align="center">CHAMBRE SYNDICALE DES COURTIERS D'ASSURANCE (CSCA).<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Gestionnaire de sinistre production incendie, accident risques divers (IARD).</td>
-<td align="center">
-<br/>313t</td>
-<td align="center">
-<br/>5 ans</td>
-<td align="center">
-<br/>CHAMBRE SYNDICALE DES COURTIERS D'ASSURANCE (CSCA).</td>
+<td align="center">CQP gestionnaire de sinistre incendie, accident risques divers (IARD).<br/>
+</td>
+<td align="center">313t<br/>
+</td>
+<td align="center">5 ans<br/>
+</td>
+<td align="center">CHAMBRE SYNDICALE DES COURTIERS D'ASSURANCE (CSCA).<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Chargé(e) de clientèle.</td>
-<td align="center">
-<br/>313t,<br/>312t</td>
-<td align="center">
-<br/>2 ans</td>
-<td align="center">
-<br/>CHAMBRE SYNDICALE DES COURTIERS D'ASSURANCE (CSCA).</td>
+<td align="center">Chargé(e) de clientèle.<br/>
+</td>
+<td align="center">313t,<br/>312t<br/>
+</td>
+<td align="center">2 ans<br/>
+</td>
+<td align="center">CHAMBRE SYNDICALE DES COURTIERS D'ASSURANCE (CSCA).<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Prothésiste dentaire spécialisé en orthodontie.</td>
-<td align="center">
-<br/>331</td>
-<td align="center">
-<br/>2 ans</td>
-<td align="center">
-<br/>UNION NATIONALE PATRONALE DES PROTHESISTES DENTAIRES ― COMMISSION PARITAIRE NATIONALE DE L'EMPLOI (CPNE) DE LA CCN DES PROTHESISTES DENTAIRES ET PROFESSIONNELS DE LABORATOIRES DE PROTHESE DENTAIRE.</td>
+<td align="center">Prothésiste dentaire spécialisé en orthodontie.<br/>
+</td>
+<td align="center">331<br/>
+</td>
+<td align="center">2 ans<br/>
+</td>
+<td align="center">UNION NATIONALE PATRONALE DES PROTHESISTES DENTAIRES ― COMMISSION PARITAIRE NATIONALE DE L'EMPLOI (CPNE) DE LA CCN DES PROTHESISTES DENTAIRES ET PROFESSIONNELS DE LABORATOIRES DE PROTHESE DENTAIRE.<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Prothésiste dentaire spécialisé prothèse amovible.</td>
-<td align="center">
-<br/>331</td>
-<td align="center">
-<br/>2 ans</td>
-<td align="center">
-<br/>UNION NATIONALE PATRONALE DES PROTHESISTES DENTAIRES ― COMMISSION PARITAIRE NATIONALE DE L'EMPLOI (CPNE) DE LA CCN DES PROTHESISTES DENTAIRES ET PROFESSIONNELS DE LABORATOIRES DE PROTHESE DENTAIRE.</td>
+<td align="center">Prothésiste dentaire spécialisé prothèse amovible.<br/>
+</td>
+<td align="center">331<br/>
+</td>
+<td align="center">2 ans<br/>
+</td>
+<td align="center">UNION NATIONALE PATRONALE DES PROTHESISTES DENTAIRES ― COMMISSION PARITAIRE NATIONALE DE L'EMPLOI (CPNE) DE LA CCN DES PROTHESISTES DENTAIRES ET PROFESSIONNELS DE LABORATOIRES DE PROTHESE DENTAIRE.<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Prothésiste dentaire spécialisé prothèse conjointe.</td>
-<td align="center">
-<br/>331</td>
-<td align="center">
-<br/>2 ans</td>
-<td align="center">
-<br/>UNION NATIONALE PATRONALE DES PROTHESISTES DENTAIRES ― COMMISSION PARITAIRE NATIONALE DE L'EMPLOI (CPNE) DE LA CCN DES PROTHESISTES DENTAIRES ET PROFESSIONNELS DE LABORATOIRES DE PROTHESE DENTAIRE.</td>
+<td align="center">Prothésiste dentaire spécialisé prothèse conjointe.<br/>
+</td>
+<td align="center">331<br/>
+</td>
+<td align="center">2 ans<br/>
+</td>
+<td align="center">UNION NATIONALE PATRONALE DES PROTHESISTES DENTAIRES ― COMMISSION PARITAIRE NATIONALE DE L'EMPLOI (CPNE) DE LA CCN DES PROTHESISTES DENTAIRES ET PROFESSIONNELS DE LABORATOIRES DE PROTHESE DENTAIRE.<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Assistant moniteur de tennis.</td>
-<td align="center">
-<br/>335t</td>
-<td align="center">
-<br/>3 ans</td>
-<td align="center">
-<br/>FFT PAR DELEGATION DE LA CPNE SPORT.</td>
+<td align="center">Assistant moniteur de tennis.<br/>
+</td>
+<td align="center">335t<br/>
+</td>
+<td align="center">3 ans<br/>
+</td>
+<td align="center">FFT PAR DELEGATION DE LA CPNE SPORT.<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Educateur grimpe d'arbres.</td>
-<td align="center">
-<br/>335t</td>
-<td align="center">
-<br/>5 ans</td>
-<td align="center">
-<br/>SNGEA PAR DELEGATION DE LA CPNEF SPORT.</td>
+<td align="center">Educateur grimpe d'arbres.<br/>
+</td>
+<td align="center">335t<br/>
+</td>
+<td align="center">5 ans<br/>
+</td>
+<td align="center">SNGEA PAR DELEGATION DE LA CPNEF SPORT.<br/>
+</td>
 </tr>
+</tbody>
 </table>
 
-</div>
-<br/>
 </div>
