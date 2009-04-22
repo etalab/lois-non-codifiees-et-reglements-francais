@@ -1,0 +1,3 @@
+# Article 3
+
+Le contrôleur est informé de la préparation et de l'exécution du budget de Pôle emploi et de ses décisions modificatives. Les documents et les informations nécessaires lui sont adressés en temps utile, dans un délai préalable de quinze jours pour les documents soumis à l'adoption du conseil d'administration et au fur et à mesure de leur élaboration pour les autres documents. Le projet de budget lui est communiqué accompagné de ses annexes. Le contrôleur fixe, après consultation du directeur général, la nature et le contenu des documents prévisionnels qui lui sont adressés à l'appui du projet de budget.
