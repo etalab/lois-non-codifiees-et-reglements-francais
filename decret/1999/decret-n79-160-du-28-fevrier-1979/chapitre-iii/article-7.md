@@ -1,3 +1,5 @@
 # Article 7
 
-Les bulletins de vote comportent le titre de la liste, la circonscription dans laquelle celle-ci se présente et les nom et prénoms de chacun des candidats dans l'ordre de leur présentation, tel qu'il résulte de la publication prévue à l'article 5.
+Les bulletins de vote comportent le titre de la liste, la circonscription dans laquelle celle-ci se présente et les nom et prénoms de chacun des candidats dans l'ordre de leur présentation.
+
+Pour la circonscription outre-mer, les bulletins de vote comportent, en outre, la mention de la section dont relève chaque candidat.

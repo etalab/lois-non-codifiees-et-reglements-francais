@@ -1,3 +1,19 @@
 # Article 6
 
-Par dérogation à l'article R. 28 du code électoral, les emplacements d'affichage déterminés à l'article L. 51 du même code sont attribués aux listes par la commission prévue à l'article 22 de la loi susvisée du 7 juillet 1977, dans l'ordre de leur publication au Journal officiel.
+Pour l'application de l'article R. 38 du code électoral, les départements chefs-lieux de circonscription sont les suivants :
+
+1° Circonscription Nord-Ouest : Nord ;
+
+2° Circonscription Ouest : Loire-Atlantique ;
+
+3° Circonscription Est : Bas-Rhin ;
+
+4° Circonscription Sud-Ouest : Gironde ;
+
+5° Circonscription Sud-Est : Bouches-du-Rhône ;
+
+6° Circonscription Massif central-Centre : Loiret ;
+
+7° Circonscription Ile-de-France : Paris ;
+
+8° Circonscription outre-mer : La Réunion.

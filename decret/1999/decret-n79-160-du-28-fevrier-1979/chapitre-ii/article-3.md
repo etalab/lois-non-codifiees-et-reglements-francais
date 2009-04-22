@@ -1,9 +1,11 @@
 # Article 3
 
-Les déclarations de candidature sont reçues au ministère de l'intérieur à compter du quatrième lundi précédant le jour du scrutin.
+Les déclarations de candidature sont reçues à compter du quatrième lundi précédant le jour du scrutin. Elles doivent être déposées au plus tard à 18 heures, heure de Paris.
 
 Elles sont rédigées sur papier libre.
 
 Elles sont accompagnées de la désignation d'un délégué, ayant qualité pour suivre la procédure prévue à l'article 12 de la loi du 7 juillet 1977 susvisée.
 
 Chaque déclaration est accompagnée de la copie d'une des pièces mentionnées au I de l'article R. 109-2 du code électoral.
+
+Pour la circonscription outre-mer, la déclaration de candidature indique, en outre, les noms et prénoms de tous les candidats composant la liste, énumérés dans l'ordre de présentation, avec la mention de la section dont relève chaque candidat.
