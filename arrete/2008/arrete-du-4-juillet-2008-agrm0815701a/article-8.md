@@ -1,5 +1,0 @@
-# Article 8
-
-Transmission des BCD et BFTRC validés. ― Les officiers et agents habilités à valider les BCD et BFTRC transmettent sans délai les BCD et BFTRC validés à la direction des pêches maritimes et de l'aquaculture par courrier électronique (bcp.dpma@agriculture.gouv.fr) ou par télécopie (01-49-55-80-37). La direction des pêches maritimes et de l'aquaculture transmet ces documents aux autorités compétentes du pays dans lequel le thon rouge fait l'objet d'une commercialisation nationale, d'un transfert ou d'une importation et à la Commission européenne pour transmission à la CICTA.
-
-Conformément au paragraphe 8 c de la recommandation de la CICTA n° 07-10 susvisée, la validation du BCD ne sera plus exigée si l'ensemble des navires de pêche sous pavillon français débarquant du thon rouge adoptent un système de marquage des queues. Ce système devra faire l'objet d'une validation par la direction des pêches maritimes et de l'aquaculture et d'une notification à la CICTA via la Commission européenne.
