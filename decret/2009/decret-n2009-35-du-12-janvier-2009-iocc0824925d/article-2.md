@@ -1,183 +1,231 @@
 # Article 2
 
-<div>
-<br/>L'échelonnement indiciaire applicable aux membres du corps de commandement de la police nationale régis par le décret du 29 juin 2005 susvisé est fixé ainsi qu'il suit :<br/>
-<div align="center">
+L'échelonnement indiciaire applicable aux membres du corps de commandement de la police nationale régis par le décret du 29 juin 2005 susvisé est fixé ainsi qu'il suit :
 
 <table>
+<tbody>
 <tr>
 <th>
-<br/>GRADES ET ÉCHELONS</th>
+<br/>GRADES ET ÉCHELONS <br/>
+</th>
 <th>
-<br/>INDICES BRUTS</th>
+<br/>INDICES BRUTS <br/>
+</th>
 </tr>
 <tr>
 <td align="center">
-<br/>Commandant emploi fonctionnel</td>
+<br/>Commandant emploi fonctionnel <br/>
+</td>
+<td align="center"/>
+</tr>
+<tr>
 <td align="center">
+<br/>2e échelon <br/>
+</td>
+<td align="center">
+<br/>922 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>1er échelon <br/>
+</td>
+<td align="center">
+<br/>871 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Commandant <br/>
+</td>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<br/>5e échelon <br/>
+</td>
+<td align="center">
+<br/>864 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>4e échelon <br/>
+</td>
+<td align="center">
+<br/>822 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>3e échelon <br/>
+</td>
+<td align="center">
+<br/>774 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>2e échelon <br/>
+</td>
+<td align="center">
+<br/>728 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>1er échelon <br/>
+</td>
+<td align="center">
+<br/>678 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Capitaine de police <br/>
+</td>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<br/>Echelon exceptionnel <br/>
+</td>
+<td align="center">
+<br/>800 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>5e échelon <br/>
+</td>
+<td align="center">
+<br/>767 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>4e échelon <br/>
+</td>
+<td align="center">
+<br/>725 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>3e échelon <br/>
+</td>
+<td align="center">
+<br/>684 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>2e échelon <br/>
+</td>
+<td align="center">
+<br/>646 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>1er échelon <br/>
+</td>
+<td align="center">
+<br/>611 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Lieutenant de police <br/>
+</td>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>2e échelon</td>
+<br/>8e échelon <br/>
+</td>
 <td align="center">
-<br/>909</td>
-</tr>
-<tr>
-<td align="center">
-<br/>1er échelon</td>
-<td align="center">
-<br/>861</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Commandant</td>
-<td align="center">
-<br/>
+<br/>676 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>5e échelon</td>
+<br/>7e échelon <br/>
+</td>
 <td align="center">
-<br/>852</td>
-</tr>
-<tr>
-<td align="center">
-<br/>4e échelon</td>
-<td align="center">
-<br/>812</td>
-</tr>
-<tr>
-<td align="center">
-<br/>3e échelon</td>
-<td align="center">
-<br/>765</td>
-</tr>
-<tr>
-<td align="center">
-<br/>2e échelon</td>
-<td align="center">
-<br/>720</td>
-</tr>
-<tr>
-<td align="center">
-<br/>1er échelon</td>
-<td align="center">
-<br/>665</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Capitaine de police</td>
-<td align="center">
-<br/> </td>
-</tr>
-<tr>
-<td align="center">
-<br/>Echelon exceptionnel</td>
-<td align="center">
-<br/>791</td>
-</tr>
-<tr>
-<td align="center">
-<br/>5e échelon</td>
-<td align="center">
-<br/>757</td>
-</tr>
-<tr>
-<td align="center">
-<br/>4e échelon</td>
-<td align="center">
-<br/>716</td>
-</tr>
-<tr>
-<td align="center">
-<br/>3e échelon</td>
-<td align="center">
-<br/>678</td>
-</tr>
-<tr>
-<td align="center">
-<br/>2e échelon</td>
-<td align="center">
-<br/>640</td>
-</tr>
-<tr>
-<td align="center">
-<br/>1er échelon</td>
-<td align="center">
-<br/>604</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Lieutenant de police</td>
-<td align="center">
-<br/>
+<br/>645 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>8e échelon</td>
+<br/>6e échelon <br/>
+</td>
 <td align="center">
-<br/>669</td>
+<br/>608 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>7e échelon</td>
+<br/>5e échelon <br/>
+</td>
 <td align="center">
-<br/>638</td>
+<br/>576 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>6e échelon</td>
+<br/>4e échelon <br/>
+</td>
 <td align="center">
-<br/>603</td>
+<br/>540 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>5e échelon</td>
+<br/>3e échelon <br/>
+</td>
 <td align="center">
-<br/>570</td>
+<br/>508 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>4e échelon</td>
+<br/>2e échelon <br/>
+</td>
 <td align="center">
-<br/>537</td>
+<br/>468 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>3e échelon</td>
+<br/>1er échelon <br/>
+</td>
 <td align="center">
-<br/>507</td>
+<br/>421 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>2e échelon</td>
+<br/>Stagiaire élève <br/>
+</td>
 <td align="center">
-<br/>467</td>
+<br/>359<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>1er échelon</td>
-<td align="center">
-<br/>420</td>
+<td>
+<p align="center">Elève</p>
+</td>
+<td>
+<p align="center">316</p>
+</td>
 </tr>
-<tr>
-<td align="center">
-<br/>Stagiaire</td>
-<td align="center">
-<br/>359</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Elève</td>
-<td align="center">
-<br/>314</td>
-</tr>
+</tbody>
 </table>
-
-</div>
-<br/>
-</div>
