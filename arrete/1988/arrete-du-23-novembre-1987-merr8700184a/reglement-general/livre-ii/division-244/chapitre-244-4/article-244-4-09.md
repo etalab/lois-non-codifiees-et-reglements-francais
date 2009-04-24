@@ -1,0 +1,7 @@
+# Article 244-4.09
+
+Source de secours
+
+I. - Les navires de longueur de coque égale ou supérieure à 24 m disposent d'une source électrique de secours indépendante de la source d'alimentation principale, située à l'extérieur des locaux de machines, et bénéficiant d'une distribution séparée. Indépendamment du système d'éclairage général, elle doit permettre pendant au moins 3 heures l'alimentation des feux de navigation, l'éclairage des chemins d'évacuation des locaux d'habitation ou de travail vers les lieux de rassemblement, l'éclairage de la mise à l'eau des moyens de sauvetage collectifs et des zones prévues pour l'embarquement. En outre, cet éclairage, complété éventuellement par des moyens portatifs, doit permettre les réparations d'urgence des machines.
+
+II. - Lorsqu'un générateur électrique de secours est installé, il se situe au-dessus du pont complet le plus haut. Toutefois, il peut se situer sous ce pont à condition d'être protégé des conséquences d'un incendie ou d'un envahissement. Dans tous les cas, le générateur de secours est facilement accessible à partir du pont exposé aux intempéries, et il est séparé des générateurs principaux et du tableau de distribution principal par une cloison garantissant la continuité de son fonctionnement. Le local abritant ce générateur de secours n'a aucune cloison commune avec le compartiment machine et se situe à plus d'un mètre du bordé.

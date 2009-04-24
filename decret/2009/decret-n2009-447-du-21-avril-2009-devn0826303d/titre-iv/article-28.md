@@ -1,0 +1,5 @@
+# Article 28
+
+Jusqu'à l'entrée en vigueur du décret d'approbation de la charte du parc, les maires mentionnés au b du 2° du I de l'article 24 sont désignés par l'ensemble des maires des communes concernées par le cœur et des communes qui ont vocation à constituer l'aire d'adhésion et les représentants d'établissements publics de coopération intercommunale mentionnés au c du 2° du I de l'article 24 sont désignés pour l'ensemble des communes concernées par le cœur et des communes qui ont vocation à constituer l'aire d'adhésion.
+
+Jusqu'à la même date, pour l'application de l'article 24, est considérée comme habitant dans le parc toute personne ayant sa résidence dans le cœur du parc ou sur le territoire d'une commune qui a vocation à être comprise dans l'aire d'adhésion. Les activités professionnelles de sport et de loisir exercées dans le parc national s'entendent des activités exercées dans le cœur du parc et l'aire optimale d'adhésion définie par le troisième alinéa de l'article 1er du présent décret.
