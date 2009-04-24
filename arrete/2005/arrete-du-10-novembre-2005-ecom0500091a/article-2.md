@@ -8,4 +8,4 @@ Le comité exécutif propose les objectifs de l'observatoire ainsi que son plan 
 
 Les documents préparés par les groupes de travail techniques sont soumis à l'avis d'un conseil scientifique préalablement à leur validation par le comité exécutif. La composition du conseil scientifique est déterminée par l'observatoire.
 
-Le secrétariat général de l'observatoire est assuré par la direction des affaires juridiques du ministère de l'économie, des finances et de l'industrie.
+Le secrétariat général de l'observatoire est assuré par la direction des affaires juridiques du ministère chargé de l'économie.
