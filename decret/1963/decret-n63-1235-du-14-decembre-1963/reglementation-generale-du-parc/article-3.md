@@ -1,3 +1,0 @@
-# Article 3
-
-Conformément aux dispositions de l'article 14 du décret du 31 octobre 1961, le conseil d'administration [*attributions*] définit les principes que doit observer le directeur de l'établissement qui gère le parc, lorsqu'il prend les arrêtés et décisions, donne les autorisations ou émet les avis prévus au présent chapitre pour l'application de la réglementation générale du parc.
