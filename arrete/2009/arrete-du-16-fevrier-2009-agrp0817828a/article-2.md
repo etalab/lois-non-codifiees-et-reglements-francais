@@ -8,9 +8,7 @@ Elles satisfont à cette obligation en livrant à un distillateur :
 
 a) La totalité des marcs et des lies et,
 
-b) Eventuellement, du vin si la distillation des marcs et des lies ne permet pas d'obtenir la quantité minimale d'alcool fixée au paragraphe 2.
-
-Toutefois, cette obligation ne s'applique pas aux producteurs pour la partie de leur production issue de la vinification des raisins des cépages à double fin cuve / eau-de-vie AOC effectivement livrée à la distillation dans le cadre de la production d'eau-de-vie de vin d'appellation d'origine contrôlée.
+b) Eventuellement, du vin si la distillation des marcs et des lies ne permet pas d'obtenir la quantité minimale d'alcool fixée au paragraphe 2, sauf pour les producteurs de vin aptes à la production d'eau-de-vie de vin à appellation d'origine contrôlée, pour la partie de leur production issue de la vinification des raisins aptes à produire de l'eau-de-vie de vin à appellation d'origine contrôlée effectivement livrée à la distillation dans le cadre de la production de cette eau-de-vie.
 
 2. La quantité d'alcool contenue dans les sous-produits doit être au moins égale à :
 
