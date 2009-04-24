@@ -850,7 +850,6 @@
 - [Arrêté du 28 avril 2004 (EQUI0400300A)](arrete-du-28-avril-2004-equi0400300a)
 - [Arrêté du 28 avril 2004 (EQUT0400563A)](arrete-du-28-avril-2004-equt0400563a)
 - [Arrêté du 28 avril 2004 (EQUT0400630A)](arrete-du-28-avril-2004-equt0400630a)
-- [Arrêté du 28 avril 2004 (JUSB0410116A)](arrete-du-28-avril-2004-jusb0410116a)
 - [Arrêté du 28 décembre 2003 (DOMG0300064A)](arrete-du-28-decembre-2003-domg0300064a)
 - [Arrêté du 28 juillet 2004 (AGRA0401212A)](arrete-du-28-juillet-2004-agra0401212a)
 - [Arrêté du 28 juillet 2004 (DEFF0400866A)](arrete-du-28-juillet-2004-deff0400866a)
