@@ -6,7 +6,6 @@
 - [Décret n°63-456 du 2 mai 1963](decret-n63-456-du-2-mai-1963)
 - [Décret n°63-1196 du 3 décembre 1963](decret-n63-1196-du-3-decembre-1963)
 - [Décret n°63-1007 du 4 octobre 1963](decret-n63-1007-du-4-octobre-1963)
-- [Décret n°63-651 du 6 juillet 1963](decret-n63-651-du-6-juillet-1963)
 - [Décret n°63-455 du 6 mai 1963](decret-n63-455-du-6-mai-1963)
 - [Décret n°63-94 du 8 février 1963](decret-n63-94-du-8-fevrier-1963)
 - [Décret n°63-96 du 8 février 1963](decret-n63-96-du-8-fevrier-1963)

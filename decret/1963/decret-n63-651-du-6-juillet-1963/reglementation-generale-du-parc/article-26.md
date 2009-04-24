@@ -1,3 +1,0 @@
-# Article 26
-
-Les champs de tir de circonstances situés à l'intérieur du parc national et le champ de tir d'artillerie du Sappey sont supprimés. L'autorité militaire pourra continuer à utiliser le champ de tir d'infanterie de Polset pour l'usage des seules armes légères d'infanterie, à l'exclusion des armes lourdes telles que mortiers et canons sans recul, suivant un seul axe de tir Sud-Est Nord-Ouest et, conformément au gabarit figurant sur le plan relatif à la commune de Saint-André, annexé au présent décret. Le directeur du parc doit être averti, huit jours au moins à l'avance, des tirs envisagés.
