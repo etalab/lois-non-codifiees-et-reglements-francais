@@ -212,6 +212,8 @@ Centre hospitalier universitaire de Nancy, hôpitaux de Brabois (service des mal
 
 Centre hospitalier de Bretagne-Sud, 27, rue du Docteur-Lettry, BP 2233, 56322 Lorient Cedex ;
 
+Centre hospitalier de centre Bretagne, site de Pontivy, 1, place Ernest-Jan, 56306 Pontivy.
+
 57 - Moselle
 
 Hôpital d'instructions des armées Legouest, 27, avenue de Plantières, BP 10, 57998 Metz Armées ;
