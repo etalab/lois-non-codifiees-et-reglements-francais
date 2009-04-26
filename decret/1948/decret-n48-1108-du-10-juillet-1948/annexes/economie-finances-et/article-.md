@@ -697,7 +697,7 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Inspecteur principal</p>
+<p>Inspecteur principal du Trésor public</p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -897,7 +897,7 @@
 <td valign="top" width="113">
 <br/>
 </td>
-<td valign="top" width="151"/>
+<td valign="top" width="151">D 95-866</td>
 </tr>
 <tr>
 <td valign="top" width="378">
@@ -922,7 +922,7 @@
 <p>Directeur départemental </p>
 </td>
 <td valign="top" width="113">
-<p align="center">875 - 1 015</p>
+<p align="center">875 - 1015</p>
 </td>
 <td valign="top" width="151"/>
 </tr>
@@ -1525,22 +1525,18 @@
 <p>1re catégorie </p>
 </td>
 <td valign="top" width="113">
-<p align="center">553 - 713</p>
+<p align="center">553 - 745</p>
 </td>
-<td valign="top" width="151">
-<p>A compter du 1er août 1996 </p>
-</td>
+<td valign="top" width="151"/>
 </tr>
 <tr>
 <td valign="top" width="378">
 <p>2e catégorie </p>
 </td>
 <td valign="top" width="113">
-<p align="center">490 - 634</p>
+<p align="center">490 - 666</p>
 </td>
-<td valign="top" width="151">
-<p>A compter du 1er août 1996 </p>
-</td>
+<td valign="top" width="151"/>
 </tr>
 <tr>
 <td valign="top" width="378">
