@@ -1,0 +1,9 @@
+# Article 7
+
+Les services accomplis en qualité de chef de clinique des universités-assistant des hôpitaux, de chef de clinique des universités de médecine générale, d'assistant hospitalier universitaire de médecine ou de pharmacie, d'assistant hospitalier universitaire des centres de soins, d'enseignement et de recherche dentaires ou de praticien hospitalier universitaire par les personnels nommés maîtres de conférences des universités-praticiens hospitaliers, maîtres de conférences des universités-praticiens hospitaliers des disciplines pharmaceutiques, maîtres de conférences des universités-praticiens hospitaliers des centres de soins, d'enseignement et de recherche dentaires ou maîtres de conférences des universités de médecine générale sont pris en compte lors de leur nomination dans le corps d'accueil en qualité de stagiaire, dans les conditions suivantes :
+
+1° Pour les personnes justifiant d'au moins quatre ans de fonctions en ces qualités, les services accomplis sont retenus à raison de trois ans ;
+
+2° Pour les personnes ayant exercé des fonctions en ces qualités pendant moins de quatre ans, les services accomplis sont retenus à raison de la moitié de leur durée.
+
+Les personnes mentionnées au premier alinéa du présent article sont classées, selon le cas, à un échelon de la deuxième classe du corps des maîtres de conférences des universités-praticiens hospitaliers ou du corps des maîtres de conférences des universités-praticiens hospitaliers des disciplines pharmaceutiques ou du corps des maîtres de conférences des universités-praticiens hospitaliers des centres de soins, d'enseignement et de recherche dentaires ou du corps des maîtres de conférences des universités de médecine générale, déterminé sur la base des durées de service fixées pour l'avancement à l'ancienneté pour chacun des échelons de ces corps.
