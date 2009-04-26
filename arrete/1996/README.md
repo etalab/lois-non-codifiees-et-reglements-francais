@@ -195,7 +195,6 @@
 - [Arrêté du 7 mars 1996 (AGRA9600381A)](arrete-du-7-mars-1996-agra9600381a)
 - [Arrêté du 7 mars 1996 (ECOS9670001A)](arrete-du-7-mars-1996-ecos9670001a)
 - [Arrêté du 7 mars 1996 (TASH9523380A)](arrete-du-7-mars-1996-tash9523380a)
-- [Arrêté du 7 mars 1997 (ECOP9600553A)](arrete-du-7-mars-1997-ecop9600553a)
 - [Arrêté du 7 novembre 1996 (ACVP9620036A)](arrete-du-7-novembre-1996-acvp9620036a)
 - [Arrêté du 7 novembre 1996 (ENVE9650397A)](arrete-du-7-novembre-1996-enve9650397a)
 - [Arrêté du 7 novembre 1996 (ENVE9650398A)](arrete-du-7-novembre-1996-enve9650398a)
