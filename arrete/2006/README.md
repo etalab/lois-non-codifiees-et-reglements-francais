@@ -275,6 +275,7 @@
 - [Arrêté du 29 décembre 2006 (PRMX0609799A)](arrete-du-29-decembre-2006-prmx0609799a)
 - [Arrêté du 29 juin 2006 (FPPA0600069A)](arrete-du-29-juin-2006-fppa0600069a)
 - [Arrêté du 29 juin 2006 (FPPA0600070A)](arrete-du-29-juin-2006-fppa0600070a)
+- [Arrêté du 29 juin 2006 (INDI0607710A)](arrete-du-29-juin-2006-indi0607710a)
 - [Arrêté du 29 novembre 2006 (DEFK0601597A)](arrete-du-29-novembre-2006-defk0601597a)
 - [Arrêté du 29 novembre 2006 (MAEA0620420A)](arrete-du-29-novembre-2006-maea0620420a)
 - [Arrêté du 29 novembre 2006 (SANP0625050A)](arrete-du-29-novembre-2006-sanp0625050a)
