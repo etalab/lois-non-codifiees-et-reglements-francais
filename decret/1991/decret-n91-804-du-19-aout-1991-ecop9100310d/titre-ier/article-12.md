@@ -1,74 +1,59 @@
 # Article 12
 
-Les durées moyennes et les durées minimales du temps passé dans chacun des échelons sont fixées ainsi qu'il suit :
+Le temps passé à chaque échelon pour accéder à l'échelon supérieur est fixé dans le tableau suivant :
 
 <table>
 <tbody>
 <tr>
-<td align="left" valign="middle">
-<p align="center">
-<strong>ECHELONS</strong>
-</p>
+<th>
+<br/>
+<font size="1">ÉCHELONS<br/>
+</font>
+</th>
+<th>
+<br/>
+<font size="1">DURÉES<br/>
+</font>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>5e échelon<br/>
 </td>
-<td align="left" colspan="2" valign="middle">
-<p align="center">
-<strong>DUREE</strong>
-</p>
+<td align="center">
+<br/>5 ans<br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<pre> </pre>
+<td align="center">
+<br/>4e échelon<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">Moyenne</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">Minimale</p>
+<td align="center">
+<br/>4 ans<br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">1<sup>er</sup> échelon</p>
+<td align="center">
+<br/>3e échelon<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">3 ans</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">2 ans</p>
+<td align="center">
+<br/>3 ans<br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">2<sup>e</sup> échelon</p>
+<td align="center">
+<br/>2e échelon<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">3 ans</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">2 ans</p>
+<td align="center">
+<br/>3 ans<br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">3<sup>e</sup> échelon</p>
+<td align="center">
+<br/>1er échelon<br/>
 </td>
-<td align="left" valign="middle">
-<p align="center">3 ans</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">2 ans</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="justify">4<sup>e</sup> échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">5 ans</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">3 ans</p>
+<td align="center">
+<br/>3 ans<br/>
 </td>
 </tr>
 </tbody>
