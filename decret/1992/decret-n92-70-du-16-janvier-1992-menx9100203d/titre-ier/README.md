@@ -1,4 +1,4 @@
-# TITRE Ier : DISPOSITIONS GENERALES.
+# TITRE Ier : LES MISSIONS DU CONSEIL NATIONAL DES UNIVERSITES.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
