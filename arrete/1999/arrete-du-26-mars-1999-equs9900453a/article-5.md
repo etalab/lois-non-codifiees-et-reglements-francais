@@ -1,3 +1,3 @@
 # Article 5
 
-Les dispositions du présent arrêté remplacent les spécifications correspondantes définies pour les mêmes véhicules par l'arrêté du 28 février 1986 relatif aux conditions d'attelage des remorques caravanes.
+Les dispositions de l'article 2 sont applicables pour la réception CE par type, la réception CE par type de petites séries, la réception nationale par type de petites séries et la réception individuelle des véhicules neufs d'un poids total autorisé en charge supérieur à 3,5 tonnes.
