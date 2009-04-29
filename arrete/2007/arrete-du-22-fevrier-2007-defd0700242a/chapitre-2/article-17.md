@@ -12,6 +12,4 @@ La sous-direction de la gestion collective du personnel civil comprend :
 
 - le bureau de la gestion collective et des carrières des personnels d'encadrement et des agents non titulaires ;
 
-- le bureau de la gestion collective et des carrières des personnels des catégories B et C des services déconcentrés ;
-
-- le bureau de la gestion des personnels des catégories B et C de l'administration centrale.
+- le bureau de la gestion collective et des carrières des personnels des catégories B et C des services déconcentrés.
