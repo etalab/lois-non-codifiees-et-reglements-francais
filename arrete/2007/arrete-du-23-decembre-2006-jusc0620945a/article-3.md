@@ -1,6 +1,6 @@
 # Article 3
 
-Les candidatures sont adressées, par lettre recommandée avec demande d'avis de réception, au garde des sceaux, ministre de la justice, au plus tard le 31 mai de chaque année. Le dossier de candidature comprend :
+Les candidatures sont adressées, par lettre recommandée avec demande d'avis de réception, au garde des sceaux, ministre de la justice,        deux mois au moins avant la date fixée pour les épreuves. Le dossier de candidature comprend :
 
 1° Une requête de l'intéressé ;
 
