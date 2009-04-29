@@ -518,8 +518,6 @@
 - [Arrêté du 16 novembre 1994 (SPSA9403540A)](arrete-du-16-novembre-1994-spsa9403540a)
 - [Arrêté du 16 septembre 1994 (DOMP9400046A)](arrete-du-16-septembre-1994-domp9400046a)
 - [Arrêté du 16 septembre 1994 (ECOT9410219A)](arrete-du-16-septembre-1994-ecot9410219a)
-- [Arrêté du 16 septembre 1994 (EQUS9401512A)](arrete-du-16-septembre-1994-equs9401512a)
-- [Arrêté du 16 septembre 1994 (EQUS9401513A)](arrete-du-16-septembre-1994-equs9401513a)
 - [Arrêté du 16 septembre 1994 (EQUS9401514A)](arrete-du-16-septembre-1994-equs9401514a)
 - [Arrêté du 16 mai 1994 (BUDD9469014A)](arrete-du-16-mai-1994-budd9469014a)
 - [Arrêté du 16 mai 1994 (ECOC9400044A)](arrete-du-16-mai-1994-ecoc9400044a)
