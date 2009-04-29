@@ -22,7 +22,7 @@ c) La prescription d'écartement des barres, rambardes ou poignées de maintien 
 
 - l'article 18 bis ne sera pas applicable ;
 
-- par dérogation à l'article 19, le nombre total d'issues (non compris les trappes d'évacuation de personnes) pourra être de trois pour un nombre de places inférieur ou égal à 22, de quatre pour un nombre de places compris entre 23 et 35 et de cinq pour un nombre de places supérieur à 35 ; ces nombres de places s'entendent non compris le conducteur (1) ;
+- par dérogation à l'article 19, le nombre total d'issues (non compris les trappes d'évacuation de personnes) pourra être de trois pour un nombre de places inférieur ou égal à vingt-deux, de quatre pour un nombre de places compris entre vingt-trois et trente-cinq et de cinq pour un nombre de places supérieur à trente-cinq ; ces nombres de places s'entendent non compris le conducteur ;
 
 - par dérogation à l'article 22 a (septième alinéa), le délai s'écoulant entre l'action d'une commande d'ouverture et la possibilité d'ouverture effective d'une porte pourra être supérieur à huit secondes ;
 
