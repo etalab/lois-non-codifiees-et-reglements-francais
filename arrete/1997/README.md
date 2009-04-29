@@ -847,7 +847,6 @@
 - [Arrêté du 25 septembre 1997 (MESP9723081A)](arrete-du-25-septembre-1997-mesp9723081a)
 - [Arrêté du 26 août 1997 (ECOI9700555A)](arrete-du-26-aout-1997-ecoi9700555a)
 - [Arrêté du 26 avril 1989 (ECOS8950031A)](arrete-du-26-avril-1989-ecos8950031a)
-- [Arrêté du 26 décembre 1996 (AGRA9602563A)](arrete-du-26-decembre-1996-agra9602563a)
 - [Arrêté du 26 décembre 1996 (AGRA9602589A)](arrete-du-26-decembre-1996-agra9602589a)
 - [Arrêté du 26 décembre 1996 (ECOS9670005A)](arrete-du-26-decembre-1996-ecos9670005a)
 - [Arrêté du 26 décembre 1996 (EQUA9601762A)](arrete-du-26-decembre-1996-equa9601762a)
