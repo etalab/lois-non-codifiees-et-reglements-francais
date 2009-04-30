@@ -56,4 +56,8 @@ Paris - Nassau (Bahamas).
 
 Jusqu'au 31 mars 2014 :
 
-Paris - New York (Etats-Unis).
+Paris - New York (Etats-Unis) ;
+
+Paris - Freeport (Bahamas) ;
+
+Paris - Samana (République dominicaine).
