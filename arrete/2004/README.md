@@ -465,7 +465,6 @@
 - [Arrêté du 15 octobre 2004 (AGRA0402086A)](arrete-du-15-octobre-2004-agra0402086a)
 - [Arrêté du 15 octobre 2004 (AGRA0402087A)](arrete-du-15-octobre-2004-agra0402087a)
 - [Arrêté du 15 octobre 2004 (AGRG0402267A)](arrete-du-15-octobre-2004-agrg0402267a)
-- [Arrêté du 15 octobre 2004 (DEFP0401155A)](arrete-du-15-octobre-2004-defp0401155a)
 - [Arrêté du 15 octobre 2004 (MENE0402339A)](arrete-du-15-octobre-2004-mene0402339a)
 - [Arrêté du 15 octobre 2004 (MENF0402121A)](arrete-du-15-octobre-2004-menf0402121a)
 - [Arrêté du 15 octobre 2004 (MENF0402333A)](arrete-du-15-octobre-2004-menf0402333a)
