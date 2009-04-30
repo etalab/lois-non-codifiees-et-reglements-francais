@@ -134,4 +134,6 @@ Fort-de-France - Montréal (Canada) ;
 
 Pointe-à-Pitre - Montréal (Canada) ;
 
-Nantes - Québec (Canada).
+Nantes - Québec (Canada) ;
+
+Paris - Port-au-Prince (Haïti).
