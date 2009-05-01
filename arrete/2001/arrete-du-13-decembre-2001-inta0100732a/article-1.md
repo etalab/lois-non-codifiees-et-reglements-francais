@@ -5,179 +5,176 @@ Les indices de référence servant au calcul des rémunérations des agents cont
 <table>
 <tbody>
 <tr>
-<td align="left" valign="middle">
-<p align="center">ÉCHELONS </p>
+<td rowspan="2" width="171">
+<p align="center">ÉCHELONS</p>
 </td>
-<td align="left" colspan="3" valign="middle">
-<p align="center">INDICES BRUTS </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<pre/>
-</td>
-<td align="left" valign="middle">
-<p align="center">Catégorie I </p>
-</td>
-<td align="left" valign="middle">
-<p align="center">Catégorie II </p>
-</td>
-<td align="left" valign="middle">
-<p align="center">Catégorie III </p>
+<td colspan="3" width="510">
+<p align="center">INDICES BRUTS</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">11e échelon. </p>
+<td width="169">
+<p align="center">Catégorie I</p>
 </td>
-<td align="left" valign="middle">
-<p align="center">388 </p>
+<td width="169">
+<p align="center">Catégorie II</p>
 </td>
-<td align="left" valign="middle">
-<p align="center">409 </p>
-</td>
-<td align="left" valign="middle">
-<p align="center">449 </p>
+<td width="171">
+<p align="center">Catégorie III</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">10e échelon. </p>
+<td valign="top" width="171">
+<p>11e échelon.</p>
 </td>
-<td align="left" valign="middle">
-<p align="center">364 </p>
+<td width="169">
+<p align="center">388</p>
 </td>
-<td align="left" valign="middle">
-<p align="center">382 </p>
+<td width="169">
+<p align="center">413</p>
 </td>
-<td align="left" valign="middle">
-<p align="center">396 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="left">9e échelon. </p>
-</td>
-<td align="left" valign="middle">
-<p align="center">347 </p>
-</td>
-<td align="left" valign="middle">
-<p align="center">374 </p>
-</td>
-<td align="left" valign="middle">
-<p align="center">396 </p>
+<td width="171">
+<p align="center">449</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">8e échelon. </p>
+<td valign="top" width="171">
+<p>10e échelon.</p>
 </td>
-<td align="left" valign="middle">
-<p align="center">333 </p>
+<td width="169">
+<p align="center">364</p>
 </td>
-<td align="left" valign="middle">
-<p align="center">360 </p>
+<td width="169">
+<p align="center">389</p>
 </td>
-<td align="left" valign="middle">
-<p align="center">379 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="left">7e échelon. </p>
-</td>
-<td align="left" valign="middle">
-<p align="center">324 </p>
-</td>
-<td align="left" valign="middle">
-<p align="center">343 </p>
-</td>
-<td align="left" valign="middle">
-<p align="center">363 </p>
+<td width="171">
+<p align="center">427</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">6e échelon. </p>
+<td valign="top" width="171">
+<p>9e échelon.</p>
 </td>
-<td align="left" valign="middle">
-<p align="center">314 </p>
+<td width="169">
+<p align="center">348</p>
 </td>
-<td align="left" valign="middle">
-<p align="center">333 </p>
+<td width="169">
+<p align="center">374</p>
 </td>
-<td align="left" valign="middle">
-<p align="center">347 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="left">5e échelon. </p>
-</td>
-<td align="left" valign="middle">
-<p align="center">305 </p>
-</td>
-<td align="left" valign="middle">
-<p align="center">320 </p>
-</td>
-<td align="left" valign="middle">
-<p align="center">334 </p>
+<td width="171">
+<p align="center">398</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">4e échelon. </p>
+<td valign="top" width="171">
+<p>8e échelon.</p>
 </td>
-<td align="left" valign="middle">
-<p align="center">298 </p>
+<td width="169">
+<p align="center">337</p>
 </td>
-<td align="left" valign="middle">
-<p align="center">307 </p>
+<td width="169">
+<p align="center">360</p>
 </td>
-<td align="left" valign="middle">
-<p align="center">321 </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="left">3e échelon. </p>
-</td>
-<td align="left" valign="middle">
-<p align="center">293 </p>
-</td>
-<td align="left" valign="middle">
-<p align="center">298 </p>
-</td>
-<td align="left" valign="middle">
-<p align="center">307 </p>
+<td width="171">
+<p align="center">380</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">2e échelon. </p>
+<td valign="top" width="171">
+<p>7e échelon.</p>
 </td>
-<td align="left" valign="middle">
-<p align="center">287 </p>
+<td width="169">
+<p align="center">328</p>
 </td>
-<td align="left" valign="middle">
-<p align="center">290 </p>
+<td width="169">
+<p align="center">347</p>
 </td>
-<td align="left" valign="middle">
-<p align="center">298 </p>
+<td width="171">
+<p align="center">364</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">1er échelon. </p>
+<td valign="top" width="171">
+<p>6e échelon.</p>
 </td>
-<td align="left" valign="middle">
-<p align="center">281 </p>
+<td width="169">
+<p align="center">318</p>
 </td>
-<td align="left" valign="middle">
-<p align="center">287 </p>
+<td width="169">
+<p align="center">333</p>
 </td>
-<td align="left" valign="middle">
-<p align="center">290</p>
+<td width="171">
+<p align="center">351</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="171">
+<p>5e échelon.</p>
+</td>
+<td width="169">
+<p align="center">310</p>
+</td>
+<td width="169">
+<p align="center">323</p>
+</td>
+<td width="171">
+<p align="center">336</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="171">
+<p>4e échelon.</p>
+</td>
+<td width="169">
+<p align="center">303</p>
+</td>
+<td width="169">
+<p align="center">310</p>
+</td>
+<td width="171">
+<p align="center">322</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="171">
+<p>3e échelon.</p>
+</td>
+<td width="169">
+<p align="center">299</p>
+</td>
+<td width="169">
+<p align="center">303</p>
+</td>
+<td width="171">
+<p align="center">307</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="171">
+<p>2e échelon.</p>
+</td>
+<td width="169">
+<p align="center">298</p>
+</td>
+<td width="169">
+<p align="center">299</p>
+</td>
+<td width="171">
+<p align="center">302</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="171">
+<p>1er échelon.</p>
+</td>
+<td width="169">
+<p align="center">297</p>
+</td>
+<td width="169">
+<p align="center">298</p>
+</td>
+<td width="171">
+<p align="center">299</p>
 </td>
 </tr>
 </tbody>
