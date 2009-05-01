@@ -1,4 +1,4 @@
-# Chapitre II : Nomination dans un office vacant.
+# Chapitre II : Nomination dans un office vacant ou dans un office créé
 
 - [Article 24](article-24.md)
 - [Article 25](article-25.md)

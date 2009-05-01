@@ -2,7 +2,7 @@
 
 La demande d'agrément de la société régie par le présent titre est présentée collectivement par les associés, qui désignent un mandataire commun, au garde des sceaux, ministre de la justice.
 
-Elle est adressée au procureur de la République près le tribunal de grande instance dans le ressort duquel la société établit son siège.
+Elle est adressée au procureur            général près la cour d'appel dans le ressort de laquelle la société établit son siège.
 
 La demande est accompagnée des pièces justificatives suivantes :
 
