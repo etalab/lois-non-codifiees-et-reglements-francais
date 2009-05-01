@@ -1,0 +1,33 @@
+# Article 
+
+Départements :
+
+AISNE.
+
+ALLIER.
+
+HAUTES-ALPES.
+
+AUBE.
+
+AUDE.
+
+CHARENTE.
+
+CREUSE.
+
+DORDOGNE.
+
+HÉRAULT.
+
+INDRE.
+
+LOIR-ET-CHER.
+
+LOT.
+
+LOT-ET-GARONNE.
+
+MAYENNE.
+
+VOSGES.

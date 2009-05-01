@@ -1,0 +1,3 @@
+# Article 8
+
+La ministre de l'intérieur, de l'outre-mer et des collectivités territoriales, la ministre de l'économie, de l'industrie et de l'emploi, le ministre du travail, des relations sociales, de la famille, de la solidarité et de la ville, le ministre de l'agriculture et de la pêche, le ministre auprès du Premier ministre, chargé de la mise en œuvre du plan de relance, le ministre du budget, des comptes publics et de la fonction publique, le secrétaire d'Etat chargé de l'emploi, la secrétaire d'Etat chargée de la solidarité, le secrétaire d'Etat chargé de l'outre-mer et la secrétaire d'Etat chargée de la famille sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.
