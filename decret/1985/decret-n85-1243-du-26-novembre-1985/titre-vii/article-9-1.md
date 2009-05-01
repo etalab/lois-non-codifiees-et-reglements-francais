@@ -52,4 +52,8 @@ Nancy-I ;
 
 Strasbourg ;
 
-Corse.
+Corse ;
+
+Nouvelle-Calédonie ;
+
+Polynésie française.
