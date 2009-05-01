@@ -891,7 +891,6 @@
 - [Décret n°92-106 du 30 janvier 1992 (ACVC9200004D)](decret-n92-106-du-30-janvier-1992-acvc9200004d)
 - [Décret n°92-1066 du 30 septembre 1992 (SPSS9202370D)](decret-n92-1066-du-30-septembre-1992-spss9202370d)
 - [Décret n°92-107 du 30 janvier 1992 (FPPX9200020D)](decret-n92-107-du-30-janvier-1992-fppx9200020d)
-- [Décret n°92-1180 du 30 octobre 1992 (MEND9203234D)](decret-n92-1180-du-30-octobre-1992-mend9203234d)
 - [Décret n°92-1182 du 30 octobre 1992 (PTTS9200496D)](decret-n92-1182-du-30-octobre-1992-ptts9200496d)
 - [Décret n°92-1183 du 30 octobre 1992 (PTTS9200497D)](decret-n92-1183-du-30-octobre-1992-ptts9200497d)
 - [Décret n°92-1258 du 30 novembre 1992 (PRMG9270615D)](decret-n92-1258-du-30-novembre-1992-prmg9270615d)
