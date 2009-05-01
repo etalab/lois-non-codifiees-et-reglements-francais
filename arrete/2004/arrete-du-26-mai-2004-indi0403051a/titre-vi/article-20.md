@@ -4,7 +4,7 @@ En cas de changement de lieu d'utilisation et s'il y a démontage de l'instrumen
 
 En cas de changement de lieu sans démontage :
 
-- si un ajustage n'est pas nécessaire, l'instrument doit faire l'objet d'une nouvelle vérification périodique ;
+- si un ajustage n'est pas nécessaire, l'instrument doit faire l'objet d'une nouvelle vérification périodique sauf s'il s'agit d'un instrument muni d'un dispositif automatique d'ajustage ;
 
 - si un ajustage est nécessaire, notamment pour prendre en compte la variation de la gravité, l'instrument doit être soumis à la vérification primitive des instruments réparés.
 

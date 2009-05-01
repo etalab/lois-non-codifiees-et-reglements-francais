@@ -22,7 +22,7 @@ Les essais métrologiques comprennent :
 
 - les essais particuliers prévus, le cas échéant, par le certificat d'examen de type ou décision de portée équivalente.
 
-Ces essais sont réalisés conformément aux procédures de la norme NF EN 45501 : Aspects métrologiques des instruments de pesage à fonctionnement non automatique.
+Ces essais sont réalisés conformément aux procédures de la norme NF EN 45501 : Aspects métrologiques des instruments de pesage à fonctionnement non automatique ou de la recommandation 76 (édition 2007) de l'Organisation internationale de métrologie légale (OIML). Toutefois, pour les instruments destinés à la vente directe au public et de portée maximale inférieure ou égale à 30 kg, un essai de justesse à 1 kg en charge croissante doit être systématiquement effectué. Une décision du ministre chargé de l'industrie peut prévoir pour certains types d'instruments des essais ou procédures particuliers.
 
 A l'issue de la vérification périodique, le vérificateur doit remplir le carnet métrologique.
 
@@ -39,3 +39,5 @@ En cas de refus, le vérificateur appose la marque de refus visée à l'article 
 L'instrument ne peut alors plus être utilisé pour les usages visés à l'article 1er, point 1, du décret du 27 mars 1991 susvisé, tant qu'il n'a pas été réparé si la cause du refus le nécessite et n'a pas reçu une nouvelle marque de vérification périodique.
 
 Lorsque l'instrument a été revêtu d'une marque de refus à l'issue d'un contrôle par les agents de l'Etat les mêmes dispositions s'appliquent.
+
+La vérification périodique des instruments peut être effectuée en dehors du lieu d'utilisation sous réserve que les instruments ne fassent pas l'objet d'un démontage pour le transport, qu'ils ne soient pas connectés à un dispositif terminal point de vente ou à un dispositif de stockage de données et que les caractéristiques métrologiques et de construction permettent de considérer qu'une vérification faite en un autre lieu est valable pour le lieu d'utilisation. Le carnet métrologique devra comporter les informations permettant de justifier cette situation particulière.
