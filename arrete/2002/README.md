@@ -555,7 +555,6 @@
 - [Arrêté du 21 janvier 2002 (MAEA0120553A)](arrete-du-21-janvier-2002-maea0120553a)
 - [Arrêté du 21 janvier 2002 (MAEA0120554A)](arrete-du-21-janvier-2002-maea0120554a)
 - [Arrêté du 21 janvier 2002 (MAEA0120555A)](arrete-du-21-janvier-2002-maea0120555a)
-- [Arrêté du 21 juin 2002 (JUSE0240090A)](arrete-du-21-juin-2002-juse0240090a)
 - [Arrêté du 21 mars 2002 (AGRP0200612A)](arrete-du-21-mars-2002-agrp0200612a)
 - [Arrêté du 21 mars 2002 (ATEN0210091A)](arrete-du-21-mars-2002-aten0210091a)
 - [Arrêté du 21 novembre 2002 (MCCB0200772A)](arrete-du-21-novembre-2002-mccb0200772a)
