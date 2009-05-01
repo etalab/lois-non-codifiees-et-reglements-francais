@@ -68,7 +68,6 @@
 - [Arrêté du 3 avril 2002 (AGRR0200904A)](arrete-du-3-avril-2002-agrr0200904a)
 - [Arrêté du 3 avril 2002 (AGRR0200905A)](arrete-du-3-avril-2002-agrr0200905a)
 - [Arrêté du 3 avril 2002 (CPTE0200037A)](arrete-du-3-avril-2002-cpte0200037a)
-- [Arrêté du 3 avril 2002 (FPPA0210023A)](arrete-du-3-avril-2002-fppa0210023a)
 - [Arrêté du 3 avril 2002 (INTE0200162A)](arrete-du-3-avril-2002-inte0200162a)
 - [Arrêté du 3 avril 2002 (INTE0200164A)](arrete-du-3-avril-2002-inte0200164a)
 - [Arrêté du 3 avril 2003 (PRMX0306499A)](arrete-du-3-avril-2003-prmx0306499a)
