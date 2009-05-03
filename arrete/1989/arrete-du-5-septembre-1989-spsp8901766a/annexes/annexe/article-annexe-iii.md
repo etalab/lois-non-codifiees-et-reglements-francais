@@ -2,7 +2,7 @@
 
 Une demande d'inscription à l'examen sur papier libre rédigée par le candidat ;
 
-2° Une fiche d'état civil ;
+2° Une photocopie d'une pièce d'identité en cours de validité ;
 
 3° Un certificat délivré par un médecin agréé attestant que le candidat présente les aptitudes physiques et psychologiques nécessaires à l'exercice de la profession ;
 

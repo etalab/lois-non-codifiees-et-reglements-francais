@@ -1,6 +1,6 @@
 # Article 8
 
-Pour accéder à la deuxième année, les étudiants doivent obligatoirement avoir validé chacun des quatre modules et les stages hospitaliers qui composent la première année.
+Pour accéder à la deuxième année, les étudiants doivent obligatoirement avoir validé chacun des quatre modules et le parcours de stage qui composent la première année.
 
 L'élève qui ne satisfait pas à ces conditions mais qui a obtenu une note moyenne à l'ensemble des modules de première année égale ou supérieure à 5 sur 20 à l'issue des examens de rattrapage est autorisé à redoubler.
 

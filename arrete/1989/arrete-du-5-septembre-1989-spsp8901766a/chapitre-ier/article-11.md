@@ -1,8 +1,8 @@
 # Article 11
 
-Les terrains de stage sont agréés annuellement par le médecin inspecteur régional de la santé ou son représentant, médecin inspecteur de la santé, sur proposition du directeur de l'école après avis du conseil technique.
+Les terrains de stage sont agréés annuellement par le directeur régional des affaires sanitaires et sociales, ou son représentant, sur proposition du directeur de l'institut de formation en masso-kinésithérapie après avis du conseil pédagogique.
 
-Une indemnité de stage est versée aux étudiants pendant la durée des stages réalisés au cours de la deuxième et troisième année de formation.
+Ces terrains de stage sont situés dans toutes structures susceptibles de concourir à la construction des compétences professionnelles attendues de l'étudiant. Ces terrains peuvent notamment être situés dans des structures hospitalières, médico-sociales, de réseau, publiques ou privées, en cabinets libéraux, dans des structures associatives, éducatives, sportives.
 
 Le montant de cette indemnité est égal à celui fixé par l'article 4 de l'arrêté du 28 septembre 2001 susvisé sur la base d'une durée de stage de 35 heures par semaine.
 
@@ -26,4 +26,4 @@ Conditions particulières applicables aux deux stages hospitaliers à temps plei
 
 -le stage peut être réalisé en dehors de la région d'implantation de l'institut ou d'une région limitrophe ;
 
--le remboursement des frais de transport correspond pour toute la durée du stage, à un aller-retour, dans la limite d'un montant calculé sur la base d'une distance maximale aller-retour de 1 200 kilomètres effectués dans un véhicule d'une puissance fiscale au plus égal à 5 CV.
+-Pour les stages temps plein réalisés en dehors de la région d'implantation de l'institut ou d'une région limitrophe, le remboursement des frais de transport correspond pour toute la durée du stage à un aller-retour, dans la limite d'un montant calculé sur la base d'une distance maximale aller-retour de 1 200 kilomètres effectués dans un véhicule d'une puissance fiscale au plus égale à 5 CV.

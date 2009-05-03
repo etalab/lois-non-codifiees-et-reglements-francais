@@ -1,15 +1,19 @@
 # Article 12
 
-Le stage hospitalier est validé par le chef de service du service d'affectation de l'élève.
-
-La validation est prononcée :
-
-- au vu de la démonstration pratique accompagnée d'une interrogation orale devant le chef de service ou un praticien du service et un moniteur cadre de masso-kinésithérapie, désigné à cet effet par le chef de service,
-
-et selon les critères suivants :
+La validation du stage clinique est prononcée par le référent au vu de :
 
 - l'assiduité au stage ;
 
-- la participation du candidat à l'activité de masso-kinésithérapie du service, en fonction du programme pédagogique établi par l'école et le service d'accueil du stagiaire.
+- la participation de l'étudiant à l'activité de masso-kinésithérapie, en fonction de l'objectif de formation établi conjointement par l'institut de formation en masso-kinésithérapie, le lieu d'accueil du stagiaire et l'étudiant.
 
-Lorsque, pour une année scolaire, l'élève a validé l'ensemble des stages hospitaliers, à l'exception de l'un d'entre eux, il bénéficie pour celui-ci d'un stage de rattrapage organisé avant la fin de l'année scolaire dans des conditions définies par le directeur de l'école après avis du conseil technique.
+Une démonstration pratique peut être adjointe à cette validation en accord avec le directeur de l'IFMK.
+
+La validation du stage " hors clinique " est prononcée par le référent selon les critères suivants :
+
+- l'assiduité au stage ;
+
+- la participation de l'étudiant à une activité en lien avec la formation du masseur-kinésithérapeute, en fonction de l'objectif de formation établi conjointement par l'institut de formation en masso-kinésithérapie, la structure d'accueil du stagiaire et l'étudiant.
+
+L'orientation de ce parcours de stage doit s'organiser autour des trois axes convergents que sont le parcours clinique, le parcours " hors clinique " et le travail personnel.
+
+Lorsque, pour une année scolaire, l'étudiant a validé une partie du parcours de stages, il bénéficie pour la partie non validée d'un stage de rattrapage organisé avant la fin de l'année scolaire dans des conditions définies par le directeur de l'institut de formation en masso-kinésithérapie après avis du conseil pédagogique.
