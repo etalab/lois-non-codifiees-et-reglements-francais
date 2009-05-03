@@ -127,7 +127,6 @@
 - [Arrêté du 5 mai 2004 (EQUP0400673A)](arrete-du-5-mai-2004-equp0400673a)
 - [Arrêté du 5 mai 2004 (PRMX0407327A)](arrete-du-5-mai-2004-prmx0407327a)
 - [Arrêté du 5 mai 2004 (SOCF0410885A)](arrete-du-5-mai-2004-socf0410885a)
-- [Arrêté du 5 mai 2004 (SOCF0410886A)](arrete-du-5-mai-2004-socf0410886a)
 - [Arrêté du 5 mai 2004 (SOCF0410887A)](arrete-du-5-mai-2004-socf0410887a)
 - [Arrêté du 5 mai 2004 (SOCF0410889A)](arrete-du-5-mai-2004-socf0410889a)
 - [Arrêté du 5 mai 2004 (SOCF0410890A)](arrete-du-5-mai-2004-socf0410890a)
