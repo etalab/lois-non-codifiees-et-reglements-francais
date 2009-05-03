@@ -1,7 +1,5 @@
 # Article Annexe
 
-A N N E X E
-
 INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
 Intitulé :
@@ -14,63 +12,49 @@ Code NSF : 254 v.
 
 Résumé du référentiel d'emploi
 
-Le ferronnier fabrique tous les éléments métalliques forgés du bâtiment, tels que les ouvrages d'accès (porte, portail...), les ouvrages décoratifs (panneaux de volutes, garde-corps, rampes...), les ouvrages défensifs (grilles...), les outils utilisés par les corps d'état du bâtiment (burins...). Il réalise également la quincaillerie utilisée en menuiserie tels les gonds, loquets, targettes.
+Le ferronnier fabrique à partir de plans ou de croquis tous les éléments métalliques forgés du bâtiment, les ouvrages d'accès (portes et portails) et les ouvrages décoratifs (panneaux de volutes, garde-corps, rampes, grilles). Il fabrique également du mobilier en fer forgé, des outils tels que les burins et pointerolles et des quincailleries pour la menuiserie bois : gond, penture, loquet et targette.
 
-Le ferronnier travaille à l'atelier, principalement dans de petites entreprises. Les horaires sont réguliers.
+Le ferronnier exerce son emploi à l'atelier et ponctuellement sur chantier pour poser ses productions. Il travaille souvent seul et ses horaires sont réguliers. Il exerce dans de petites entreprises qui adoptent des méthodes de travail destinées à réduire les exigences physiques notamment pour la manutention de charges lourdes et pour la frappe de grosses sections (utilisation du marteau-pilon).
 
-Le ferronnier travaille souvent seul. Toutefois, les plus expérimentés travaillent avec une petite équipe qui peut être composée d'apprentis, d'ouvriers spécialisés.
-
-Il exécute les travaux courants de sa spécialité à partir de directives générales et sous contrôle ponctuel du chef d'entreprise. Il dispose d'une certaine autonomie dans le choix des moyens de production. L'exercice des activités nécessite le maintien prolongé dans la station debout et le port de charges lourdes, mais le travail en hauteur est peu fréquent. Dans tous les cas, il doit appliquer strictement les consignes de sécurité.
+Dans tous les cas, le ferronnier doit appliquer strictement les consignes de sécurité.
 
 Capacités attestées et descriptif
 
 des composantes de la certification
 
-1. Fabriquer les ouvrages de protection
+1. Fabriquer des ouvrages plans courants de métallerie
 
-des biens et des personnes : grilles, garde-corps
+Fabriquer des ouvrages barreaudés en profilés laminés.
 
-Débiter des barres en métallerie-serrurerie.
+Fabriquer des ouvrages de métallerie en tôle.
 
-Conformer manuellement des barres en métallerie-serrurerie.
+Assembler des profils tubulaires et laminés par soudage électrique.
 
-Usiner des barres en métallerie-serrurerie.
+Réaliser au plan des châssis fixes et ouvrants en acier.
 
-Souder au chalumeau en métallerie-serrurerie.
+2. Fabriquer des ouvrages de ferronnerie
 
-Souder à l'électrode enrobée et au metal inert gas/metal activ gas (MIG/MAG) en métallerie-serrurerie.
+Adapter une structure en ferronnerie en harmonie avec le style de la construction.
 
-Monter et assembler des ouvrages plans simples de métallerie-serrurerie.
+Rénover des ouvrages de ferronnerie.
 
-2. Fabriquer des ouvrages mixtes de métallerie-ferronnerie
+Elaborer une production de ferronnerie suivant un plan.
 
-Transformer des sections par forgeage : trancher, étirer, refouler...
+Poser des ouvrages de ferronnerie.
 
-Conformer des barres par forgeage.
+3. Réaliser du mobilier et des objets décoratifs en ferronnerie
 
-Forger et rebattre des outils utilisés dans le bâtiment.
+Réaliser un élément de lustrerie.
 
-Tracer et forger des volutes avec noyaux par forgeage.
+Façonner des objets décoratifs et utilitaires en ferronnerie.
 
-3. Fabriquer des ouvrages de ferronnerie
+Assurer la finition et la protection des structures ou objets de ferronnerie.
 
-Réaliser des éléments décoratifs de ferronnerie : corne de bélier, graine.
-
-Réaliser des assemblages de ferronnerie : collier, tenon, embrèvement.
-
-Fabriquer des ouvrages plans courants de ferronnerie par montage assemblage d'éléments forgés.
-
-Secteurs d'activités ou types d'emploi
-
-accessibles par le détenteur du titre
-
-Entreprises, à dominante artisanale, du secteur du bâtiment : métallerie, serrurerie, décoration.
-
-Entreprises de travail intérimaire.
+Réaliser des traitements thermiques.
 
 Code ROME :
 
-47311 - Métallier(ère) artisanal(e).
+47311 : Métallier (ère) artisanal (e).
 
 Réglementation de l'activité :
 
@@ -82,8 +66,6 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
-
-Arrêté du 25 novembre 2002.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
