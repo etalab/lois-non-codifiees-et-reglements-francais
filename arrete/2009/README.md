@@ -120,6 +120,7 @@
 - [Arrêté du 5 novembre 2009 (DEFH0924205A)](arrete-du-5-novembre-2009-defh0924205a)
 - [Arrêté du 5 novembre 2009 (DEFH0924213A)](arrete-du-5-novembre-2009-defh0924213a)
 - [Arrêté du 5 octobre 2010 (DEVA1014452A)](arrete-du-5-octobre-2010-deva1014452a)
+- [Arrêté du 5 mai 2004 (SOCF0410886A)](arrete-du-5-mai-2004-socf0410886a)
 - [Arrêté du 6 avril 2009 (AGRP0905214A)](arrete-du-6-avril-2009-agrp0905214a)
 - [Arrêté du 6 avril 2009 (DEFD0905940A)](arrete-du-6-avril-2009-defd0905940a)
 - [Arrêté du 6 avril 2009 (DEFD0905946A)](arrete-du-6-avril-2009-defd0905946a)
