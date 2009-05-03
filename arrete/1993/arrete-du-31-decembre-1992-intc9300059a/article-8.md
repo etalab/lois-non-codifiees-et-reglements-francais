@@ -1,3 +1,3 @@
 # Article 8
 
-Le directeur général de la police nationale est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Il est créé à Béthune, au sein de la compagnie républicaine de sécurité n° 15, une antenne de l'école nationale de police de Roubaix-Hem.

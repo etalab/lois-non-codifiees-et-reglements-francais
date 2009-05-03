@@ -1,4 +1,4 @@
-# Arrêté du 27 septembre 1995 portant création de l'Ecole nationale supérieure d'application de la police nationale de Nice
+# Arrêté du 28 juillet 2006 portant organisation de l'Ecole nationale supérieure d'application de la police nationale de Toulouse
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

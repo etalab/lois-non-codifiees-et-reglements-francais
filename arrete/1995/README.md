@@ -1102,7 +1102,6 @@
 - [Arrêté du 27 septembre 1995 (ECOR9505012A)](arrete-du-27-septembre-1995-ecor9505012a)
 - [Arrêté du 27 septembre 1995 (ECOS9550032A)](arrete-du-27-septembre-1995-ecos9550032a)
 - [Arrêté du 27 septembre 1995 (ILEA9502987A)](arrete-du-27-septembre-1995-ilea9502987a)
-- [Arrêté du 27 septembre 1995 (INTC9500534A)](arrete-du-27-septembre-1995-intc9500534a)
 - [Arrêté du 27 septembre 1995 (INTC9500535A)](arrete-du-27-septembre-1995-intc9500535a)
 - [Arrêté du 28 août 1995 (MENU9501990A)](arrete-du-28-aout-1995-menu9501990a)
 - [Arrêté du 28 août 1995 (MIPP9500842A)](arrete-du-28-aout-1995-mipp9500842a)
