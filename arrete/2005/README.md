@@ -560,7 +560,6 @@
 - [Arrêté du 24 mars 2005 (DEVN0540114A)](arrete-du-24-mars-2005-devn0540114a)
 - [Arrêté du 24 novembre 2005 (SANH0522785A)](arrete-du-24-novembre-2005-sanh0522785a)
 - [Arrêté du 24 octobre 2005 (AGRG0502384A)](arrete-du-24-octobre-2005-agrg0502384a)
-- [Arrêté du 24 octobre 2005 (DEFP0501464A)](arrete-du-24-octobre-2005-defp0501464a)
 - [Arrêté du 24 octobre 2005 (DEVN0540407A)](arrete-du-24-octobre-2005-devn0540407a)
 - [Arrêté du 24 octobre 2005 (MENE0502320A)](arrete-du-24-octobre-2005-mene0502320a)
 - [Arrêté du 24 mai 2005 (AGRP0500900A)](arrete-du-24-mai-2005-agrp0500900a)
