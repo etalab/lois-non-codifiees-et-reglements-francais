@@ -1,6 +1,6 @@
 # Article 6
 
-Les aéroports de Paris - Charles-de-Gaulle, Paris-Orly, Lyon - Saint-Exupéry, Nice - Côte d'Azur, Marseille-Provence, Bordeaux-Mérignac, Toulouse-Blagnac, Fort-de-France et Pointe-à-Pitre sont désignés en tant que point d'entrée du territoire au sens du règlement sanitaire international (2005).
+Les aéroports de Paris - Charles-de-Gaulle, Paris-Orly, Lyon - Saint-Exupéry, Nice - Côte d'Azur, Marseille-Provence, Bordeaux-Mérignac, Toulouse-Blagnac, Nantes-Atlantique, Fort-de-France et Pointe-à-Pitre sont désignés en tant que point d'entrée du territoire au sens du règlement sanitaire international (2005).
 
 Les autorités sanitaires peuvent accéder à l'ensemble des installations de ces points d'entrée.
 
