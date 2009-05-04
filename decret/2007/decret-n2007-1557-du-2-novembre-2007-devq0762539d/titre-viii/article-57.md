@@ -4,6 +4,8 @@ I.-Les installations, ouvrages, travaux et activités, implantés ou réalisés 
 
 II.-Les demandes d'autorisation et les déclarations sont adressées à l'Autorité de sûreté nucléaire. Celle-ci transmet les demandes d'autorisation au préfet pour qu'il procède ou fasse procéder aux consultations et enquêtes prévues par la section 1 du chapitre IV du titre Ier du livre II du code de l'environnement ou le titre Ier du livre V du même code. Le préfet transmet à l'Autorité de sûreté nucléaire, avec son avis, le résultat des consultations et enquêtes.
 
+Le cas échéant, l'autorité administrative de l'Etat compétente en matière d'environnement mentionnée à l'article L. 122-1 du code de l'environnement est celle qui serait compétente si l'installation, l'ouvrage, les travaux ou les activités étaient implantés ou réalisés hors du périmètre d'une installation nucléaire de base.
+
 Si l'exploitant dépose simultanément auprès de l'Autorité de sûreté nucléaire une demande d'autorisation au titre de l'un des régimes mentionnés au I du présent article et une demande d'autorisation mentionnée au I, au II, au V ou au VI de l'article 29 de la loi du 13 juin 2006 susvisée, les consultations et les enquêtes sur ces diverses demandes peuvent être menées conjointement.
 
 III.-L'Autorité de sûreté nucléaire est substituée au préfet ou au ministre chargé des installations classées pour recevoir les informations ou prendre les décisions individuelles prévues par les régimes mentionnés au I à l'exception de celles mentionnées à l'article L. 515-9 du code de l'environnement.

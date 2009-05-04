@@ -4,7 +4,7 @@ I.-Le préfet soumet la demande d'autorisation et le dossier dont elle est assor
 
 L'enquête est ouverte au moins dans chacune des communes dont une partie du territoire est distante de moins de cinq kilomètres du périmètre proposé par l'exploitant.
 
-Le dossier d'enquête publique mentionné au 1° du II de l'article R. 123-6 du code de l'environnement comprend le dossier transmis en application de l'article 12 ci-dessus, à l'exception du rapport préliminaire de sûreté, et, si ces avis ont été émis avant l'ouverture de l'enquête publique, l'avis de l'Autorité de sûreté nucléaire rendu en application de l'article 6 et, le cas échéant, l'avis émis par le ministre chargé de l'environnement en application de l'article L. 122-1 du code de l'environnement.
+Le dossier d'enquête publique mentionné au 1° du II de l'article R. 123-6 du code de l'environnement comprend le dossier transmis en application de l'article 12 ci-dessus, à l'exception du rapport préliminaire de sûreté, et, si ces avis ont été émis avant l'ouverture de l'enquête publique, l'avis de l'Autorité de sûreté nucléaire rendu en application de l'article 6 et, le cas échéant, l'avis de l'autorité administrative de l'Etat compétente en matière d'environnement mentionnée à l'article L. 122-1 du code de l'environnement.
 
 Le rapport préliminaire de sûreté peut être consulté par le public pendant toute la durée de l'enquête publique selon les modalités fixées par l'arrêté organisant l'enquête.
 
