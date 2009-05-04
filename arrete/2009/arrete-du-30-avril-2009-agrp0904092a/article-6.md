@@ -1,0 +1,3 @@
+# Article 6
+
+En application du deuxième alinéa de l'article D. 615-49, les cultures irriguées mentionnées au premier alinéa de l'article D. 615-49 sont les cultures citées à l'article 1er du présent arrêté, auxquelles s'ajoutent les vergers de fruits à coque et d'oliviers, le houblon, les vergers de prunes d'Ente, de pêches Pavie et de poires Williams ou Rocha destinées à la transformation, les cultures fourragères, les prairies permanentes ou temporaires, les cultures énergétiques pluriannuelles ou permanentes sous contrat, les cultures non alimentaires pluriannuelles ou permanentes sous contrat sur des terres éligibles au titre du gel.
