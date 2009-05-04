@@ -74,6 +74,7 @@
 - [Arrêté du 9 mai 2006 (MENE0601244A)](arrete-du-9-mai-2006-mene0601244a)
 - [Arrêté du 9 mai 2006 (MENE0601246A)](arrete-du-9-mai-2006-mene0601246a)
 - [Arrêté du 9 mai 2006 (MENE0601247A)](arrete-du-9-mai-2006-mene0601247a)
+- [Arrêté du 10 août 2006 (BUDF0620458A)](arrete-du-10-aout-2006-budf0620458a)
 - [Arrêté du 10 janvier 2006 (INDI0606591A)](arrete-du-10-janvier-2006-indi0606591a)
 - [Arrêté du 10 juillet 2006 (INDI0607867A)](arrete-du-10-juillet-2006-indi0607867a)
 - [Arrêté du 10 mars 2006 (DEFD0600310A)](arrete-du-10-mars-2006-defd0600310a)
