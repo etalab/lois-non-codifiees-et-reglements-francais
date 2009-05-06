@@ -1,0 +1,3 @@
+# Article 9
+
+Les titulaires du brevet d'Etat d'éducateur sportif du premier degré option « baseball, softball » obtiennent sur demande auprès du directeur régional de la jeunesse, des sports et de la vie associative le diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport spécialité « perfectionnement sportif », mention « baseball, softball et cricket », s'ils justifient au cours des cinq dernières années d'une expérience d'encadrement d'une équipe en compétition de niveau régional ou national, de gestion d'une équipe technique de niveau régional, d'encadrement dans un centre d'entraînement régional ou d'un pôle figurant sur la liste établie par le ministre chargé des sports en application de l'article R. 221-26 du code du sport.
