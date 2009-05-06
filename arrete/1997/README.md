@@ -866,7 +866,6 @@
 - [Arrêté du 26 février 1997 (ECOT9713922A)](arrete-du-26-fevrier-1997-ecot9713922a)
 - [Arrêté du 26 février 1997 (EQUS9700132A)](arrete-du-26-fevrier-1997-equs9700132a)
 - [Arrêté du 26 février 1997 (EQUT9700478A)](arrete-du-26-fevrier-1997-equt9700478a)
-- [Arrêté du 26 février 1997 (INDA9700037A)](arrete-du-26-fevrier-1997-inda9700037a)
 - [Arrêté du 26 février 1997 (JUSG9760009A)](arrete-du-26-fevrier-1997-jusg9760009a)
 - [Arrêté du 26 février 1997 (MAEA9720089A)](arrete-du-26-fevrier-1997-maea9720089a)
 - [Arrêté du 26 juin 1997 (ATEN9760280A)](arrete-du-26-juin-1997-aten9760280a)
