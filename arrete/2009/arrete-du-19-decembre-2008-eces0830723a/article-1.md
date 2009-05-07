@@ -300,6 +300,24 @@ ENQUETES STATISTIQUES PUBLIQUES D'INITIATIVE REGIONALE POUR 2009
 </td>
 </tr>
 <tr>
+<td>
+<p align="center">
+<strong>Ministère de l'économie, de l'industrie et de l'emploi</strong>
+</p>
+<p align="center">
+<em>Institut national de la statistique et des études économiques</em>
+</p>
+<p align="center">
+<br/>Direction régionale d'Auvergne</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>Enquête de fréquentation des meublés classés de tourisme en Auvergne.</td>
+<td>L'objectif de l'enquête est d'observer la fréquentation de la clientèle française et étrangère par département pour l'ensemble des meublés classés touristiques de la région Auvergne et par organismes d'affiliation (hors centrale de réservation) et de mesurer les retombées économiques du tourisme, dont le thermalisme. La collecte se déroule chaque mois d'avril à septembre, par voie postale, auprès d'un échantillon d'environ 1 000 meublés et gîtes de la région. <br/>
+</td>
+</tr>
+<tr>
 <td colspan="2" valign="top" width="454">
 <p>(*) Enquête nouvelle, rénovée ou enquête de périodicité supérieure à l'année.</p>
 </td>
