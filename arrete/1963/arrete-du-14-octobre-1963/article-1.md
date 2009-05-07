@@ -22,13 +22,13 @@ Programme à loyer réduit
 
 Taux minimum : 2
 
-Taux maximum : 4,5
+Taux maximum : 4, 5
 
 CATEGORIE DE LOGEMENTS :
 
 H.L.M. ordinaires
 
-Taux minimum : 3,5
+Taux minimum : 3, 5
 
 Taux maximum : 6
 
@@ -38,7 +38,7 @@ Immeubles à loyer moyen (construits en application du titre II de la loi du 13 
 
 TAUX minimum : 6
 
-TAUX maximum : 7,9
+TAUX maximum : 7, 9
 
 CATEGORIE DE LOGEMENTS :
 
@@ -46,6 +46,6 @@ Immeubles à loyer normal
 
 TAUX minimum : 6
 
-TAUX maximum : 7,9.
+TAUX maximum : 7, 9.
 
-Les valeurs minima et maxima obtenues sont révisées le 1er juillet de chaque année en fonction des variations de la moyenne sur quatre trimestres de l'indice du coût de la construction publié par l'I.N.S.E.E. Cette moyenne est celle de l'indice à la date de référence et des indices des trois trimestres qui la précèdent. La date de référence de l'indice est celle du quatrième trimestre de l'année précédente.
+Les valeurs minima et maxima obtenues sont révisées le 1er janvier de chaque année dans les conditions prévues à l'article 17 de la loi n° 89-462 du 6 juillet 1989 modifiée, sur la base de l'indice de référence des loyers (IRL). La date de référence de l'IRL est celle du deuxième trimestre de l'année précédente.
