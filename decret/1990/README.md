@@ -408,7 +408,6 @@
 - [Décret n°92-268 du 20 mars 1992 (AGRA9200002D)](decret-n92-268-du-20-mars-1992-agra9200002d)
 - [Décret n°92-455 du 20 mai 1992 (ACVA9210050D)](decret-n92-455-du-20-mai-1992-acva9210050d)
 - [Décret du 21 août 1990 (ECOC9000098D)](decret-du-21-aout-1990-ecoc9000098d)
-- [Décret n°81-972 du 21 octobre 1981](decret-n81-972-du-21-octobre-1981)
 - [Décret n°90-1034 du 21 novembre 1990 (SPSS9002002D)](decret-n90-1034-du-21-novembre-1990-spss9002002d)
 - [Décret n°90-1053 du 21 novembre 1990 (INDX9000139D)](decret-n90-1053-du-21-novembre-1990-indx9000139d)
 - [Décret n°90-1137 du 21 décembre 1990 (MERE9000045D)](decret-n90-1137-du-21-decembre-1990-mere9000045d)
