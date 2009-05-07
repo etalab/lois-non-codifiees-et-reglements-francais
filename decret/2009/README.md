@@ -338,6 +338,7 @@
 - [Décret n°2009-82 du 21 janvier 2009 (DEFH0831438D)](decret-n2009-82-du-21-janvier-2009-defh0831438d)
 - [Décret n°2009-83 du 21 janvier 2009 (DEFH0820804D)](decret-n2009-83-du-21-janvier-2009-defh0820804d)
 - [Décret n°2009-84 du 21 janvier 2009 (BCFF0827759D)](decret-n2009-84-du-21-janvier-2009-bcff0827759d)
+- [Décret n°81-972 du 21 octobre 1981](decret-n81-972-du-21-octobre-1981)
 - [Décret du 22 avril 2009 (DEVN0906517D)](decret-du-22-avril-2009-devn0906517d)
 - [Décret n°2008-1413 du 22 décembre 2008 (PRMX0828185D)](decret-n2008-1413-du-22-decembre-2008-prmx0828185d)
 - [Décret n°2008-1414 du 22 décembre 2008 (PRMX0828186D)](decret-n2008-1414-du-22-decembre-2008-prmx0828186d)
