@@ -551,7 +551,6 @@
 - [Arrêté du 18 décembre 2008 (DEVT0829963A)](arrete-du-18-decembre-2008-devt0829963a)
 - [Arrêté du 18 décembre 2008 (ECEC0825339A)](arrete-du-18-decembre-2008-ecec0825339a)
 - [Arrêté du 18 décembre 2008 (ECEC0825342A)](arrete-du-18-decembre-2008-ecec0825342a)
-- [Arrêté du 18 décembre 2008 (ECET0823006A)](arrete-du-18-decembre-2008-ecet0823006a)
 - [Arrêté du 18 février 2009 (AGRP0902253A)](arrete-du-18-fevrier-2009-agrp0902253a)
 - [Arrêté du 18 février 2009 (AGRP0904438A)](arrete-du-18-fevrier-2009-agrp0904438a)
 - [Arrêté du 18 février 2009 (AGRS0824403A)](arrete-du-18-fevrier-2009-agrs0824403a)
