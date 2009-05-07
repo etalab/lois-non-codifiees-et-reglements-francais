@@ -1,6 +1,6 @@
 # Article 2
 
-Elle assure, concurremment avec les autres services des impôts compétents :
+Elle assure, concurremment avec les autres services de la direction générale des finances publiques compétents :
 
 a) Le contrôle des déclarations qui doivent être souscrites ainsi que l'assiette, le contrôle et le recouvrement des impôts, droits, taxes et sommes, quelle qu'en soit la nature, dus par :
 
@@ -22,4 +22,6 @@ c) L'instruction et le contrôle des exonérations, abattements, remboursements 
 
 d) Le contrôle des systèmes de télétransmission des factures dans les conditions prévues aux articles 289 bis du code général des impôts et 96 I de l'annexe III au même code ;
 
-e) L'exécution de tâches de toute nature ou de missions particulières qui lui sont confiées par le directeur général des impôts.
+e) L'exécution de tâches de toute nature ou de missions particulières qui lui sont confiées par le directeur général des finances publiques ;
+
+f) L'instruction des demandes d'exonération fiscale présentées par les représentations étrangères en France et les organisations internationales ainsi que la gestion et le contrôle des documents relatifs aux pensions versées par les organisations coordonnées.

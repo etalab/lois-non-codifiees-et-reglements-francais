@@ -1,6 +1,6 @@
 # Article 5
 
-Elle assure, pour l'ensemble des fonctionnaires relevant de statuts donnant vocation à exercer dans les services déconcentrés de la direction générale des impôts :
+Elle assure, pour l'ensemble des fonctionnaires relevant de statuts donnant vocation à exercer dans les services déconcentrés mentionnés au 1° du I de l'article 1er du décret n° 2008-309 du 3 avril 2008 :
 
 a) Toutes les missions concourant à la cessation de fonctions et à la détermination des droits à pension ;
 
