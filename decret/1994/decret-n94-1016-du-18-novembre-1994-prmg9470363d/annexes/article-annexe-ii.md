@@ -16,7 +16,7 @@ Contrôleurs sanitaires des services du ministère de l'agriculture.
 
 Techniciens des établissements publics de l'enseignement technique agricole.
 
-Techniciens opérationnels de l'Office national des forêts.
+Techniciens opérationnels forestiers de l'Office national des forêts.
 
 Personnels techniques du service de physiothérapie des Thermes nationaux d'Aix-les-Bains.
 
