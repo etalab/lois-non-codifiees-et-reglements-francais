@@ -12,10 +12,10 @@ d) de se conformer, lorsqu'elle met en œuvre une telle inspection filtrage, aux
 
 II. - L'entreprise de transport aérien ou l'entreprise opérant pour son compte peut déroger au a et mettre en place une procédure d'inspection filtrage unique pour les bagages de soute accompagnés lorsque :
 
-- ces bagages proviennent des aérodromes visés à l'article 39 du présent arrêté ou des aérodromes des autres pays membres de l'Union européenne ainsi que de l'Islande, la Norvège et la Suisse, où s'appliquent les dispositions du chapitre 5 de l'annexe au règlement (CE) n° 2320 / 2002 susvisé ;
+- ces bagages proviennent des aérodromes visés à l'article 39 du présent arrêté ou des aérodromes des autres pays membres de l'Union européenne ainsi que de l'Islande, la Norvège et la Suisse, où s'appliquent les normes communes de base et les mesures nécessaires pour leur mise en œuvre et leur adaptation technique prévues par le règlement (CE) n° 2320 / 2002 susvisé ;
 
 - ces bagages sont protégés de toute intervention non autorisée pendant la correspondance ;
 
 - l'entreprise de transport aérien ou l'entreprise opérant pour son compte a informé l'exploitant de l'aérodrome et les services de l'aviation civile de cette procédure avant sa mise en œuvre.
 
-Lorsque les circonstances le justifient et qu'il a été décidé la mise en œuvre de mesures complémentaires plus strictes dans un délai bien défini, ou la suspension de l'inspection filtrage unique, le préfet territorialement compétent ou son représentant le notifie à l'entreprise de transport aérien ou à l'entreprise opérant pour son compte.
+Lorsque les circonstances le justifient et qu'il a été décidé la mise en œuvre de mesures complémentaires plus strictes dans un délai bien défini, le préfet territorialement compétent ou son représentant le notifie à l'entreprise de transport aérien ou à l'entreprise opérant pour son compte.
