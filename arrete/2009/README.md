@@ -73,7 +73,6 @@
 - [Arrêté du 4 février 2009 (DEVA0901801A)](arrete-du-4-fevrier-2009-deva0901801a)
 - [Arrêté du 4 février 2009 (SASV0902977A)](arrete-du-4-fevrier-2009-sasv0902977a)
 - [Arrêté du 4 février 2009 (SASV0902989A)](arrete-du-4-fevrier-2009-sasv0902989a)
-- [Arrêté du 4 février 2009 (SASV0902997A)](arrete-du-4-fevrier-2009-sasv0902997a)
 - [Arrêté du 4 mars 2009 (AGRS0905288A)](arrete-du-4-mars-2009-agrs0905288a)
 - [Arrêté du 4 mars 2009 (DEFD0830890A)](arrete-du-4-mars-2009-defd0830890a)
 - [Arrêté du 4 mars 2009 (DEFD0830903A)](arrete-du-4-mars-2009-defd0830903a)
