@@ -1,6 +1,6 @@
 # Article 24
 
-La note sur dossier (coefficient 1) est attribuée par le jury au vu des éléments suivants qui composent le dossier de candidature :
+L'épreuve d'admissibilité consiste en une note sur dossier (coefficient 1) attribuée par le jury au vu des éléments suivants qui composent le dossier de candidature :
 
 1. Une lettre manuscrite du candidat, qui ne doit pas excéder trois pages recto, adressée au ministre de l'intérieur, direction de la défense et de la sécurité civiles, mettant en évidence ses motivations pour l'exercice des fonctions de lieutenant auxquelles il postule et faisant ressortir son parcours professionnel et les activités exercées ;
 

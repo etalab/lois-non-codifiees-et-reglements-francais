@@ -1,3 +1,3 @@
 # Article 23
 
-L'examen professionnel comporte deux épreuves : une note sur dossier et une épreuve orale.
+L'examen professionnel d'accès au grade de lieutenant comporte une épreuve d'admissibilité et une épreuve orale d'admission.

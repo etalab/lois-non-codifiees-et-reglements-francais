@@ -1,6 +1,6 @@
 # Article 25
 
-L'épreuve est un entretien oral avec le jury, sans préparation (durée : quinze minutes, dont cinq minutes maximum permettant au candidat de se présenter, coefficient 1).
+L'épreuve d'admission consiste en un entretien oral avec le jury, sans préparation (durée : quinze minutes, dont cinq minutes maximum permettant au candidat de se présenter) (coefficient 1).
 
 Le point de départ de cette épreuve est un court exposé du candidat sur son parcours professionnel et ses motivations pour l'exercice des fonctions de lieutenant de sapeurs-pompiers professionnels.
 
