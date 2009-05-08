@@ -107,7 +107,6 @@
 - [Décret n°2004-1058 du 5 octobre 2004 (ECOC0400078D)](decret-n2004-1058-du-5-octobre-2004-ecoc0400078d)
 - [Décret n°2004-1059 du 5 octobre 2004 (INTB0400261D)](decret-n2004-1059-du-5-octobre-2004-intb0400261d)
 - [Décret n°2004-1072 du 5 octobre 2004 (JUSK0440099D)](decret-n2004-1072-du-5-octobre-2004-jusk0440099d)
-- [Décret n°2004-11 du 5 janvier 2004 (DOMB0300028D)](decret-n2004-11-du-5-janvier-2004-domb0300028d)
 - [Décret n°2004-114 du 5 février 2004 (SOCT0410034D)](decret-n2004-114-du-5-fevrier-2004-soct0410034d)
 - [Décret n°2004-119 du 5 février 2004 (AGRA0302334D)](decret-n2004-119-du-5-fevrier-2004-agra0302334d)
 - [Décret n°2004-13 du 5 janvier 2004 (MENE0302858D)](decret-n2004-13-du-5-janvier-2004-mene0302858d)
