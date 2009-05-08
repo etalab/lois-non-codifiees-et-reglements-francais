@@ -5,4 +5,3 @@
 - [TITRE III : AVANCEMENT.](titre-iii)
 - [TITRE IV : DISPOSITIONS DIVERSES.](titre-iv)
 - [TITRE V : DISPOSITIONS TRANSITOIRES.](titre-v)
-- [Article 17](article-17.md)
