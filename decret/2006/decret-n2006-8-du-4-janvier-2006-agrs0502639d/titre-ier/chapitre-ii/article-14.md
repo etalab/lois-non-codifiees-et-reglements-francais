@@ -2,15 +2,15 @@
 
 Peuvent se présenter à l'examen professionnel mentionné au 3° de l'article 6 :
 
-1° Les cadres techniques de l'Office national des forêts n'ayant pas atteint le 7e échelon de leur grade et justifiant, au plus tard au 1er janvier de l'année des épreuves, de huit années de services publics ;
+1° Les cadres techniques de l'Office national des forêts n'ayant pas atteint le 7e échelon de leur grade et justifiant de huit années de services publics ;
 
-2° Les techniciens supérieurs des services du ministère chargé de l'agriculture et les techniciens supérieurs forestiers de l'Office national des forêts n'ayant pas atteint le 8e échelon du grade de chef technicien et justifiant, au plus tard au 1er janvier de l'année des épreuves, de huit années de services publics ;
+2° Les techniciens supérieurs des services du ministère chargé de l'agriculture et les techniciens supérieurs forestiers de l'Office national des forêts n'ayant pas atteint le 8e échelon du grade de chef technicien et justifiant de huit années de services publics ;
 
-3° Les techniciens de l'environnement n'ayant pas atteint le dernier échelon du grade de chef technicien et justifiant, au plus tard au 1er janvier de l'année des épreuves, de dix années de services publics ;
+3° Les techniciens de l'environnement n'ayant pas atteint le dernier échelon du grade de chef technicien et justifiant de dix années de services publics ;
 
-4° Les contrôleurs sanitaires et les techniciens opérationnels de l'Office national des forêts justifiant, au plus tard au 1er janvier de l'année des épreuves, de dix années de services publics.
+4° Les contrôleurs sanitaires et les techniciens opérationnels forestiers de l'Office national des forêts justifiant de dix années de services publics.
 
-Aucun candidat ne peut se présenter plus de trois fois à l'examen professionnel.
+Les conditions requises sont appréciées au 1er janvier de l'année des épreuves.
 
 Les modalités d'organisation de l'examen sont fixées par arrêté conjoint du ministre chargé de l'agriculture, du ministre chargé de l'environnement et du ministre chargé de la fonction publique.
 

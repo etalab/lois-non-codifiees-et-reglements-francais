@@ -1,6 +1,6 @@
 # Article 29
 
-Peuvent être détachés dans le corps des ingénieurs de l'agriculture et de l'environnement les fonctionnaires appartenant à un corps ou à un cadre d'emplois de catégorie A ou de niveau équivalent.
+Peuvent être détachés dans le corps des ingénieurs de l'agriculture et de l'environnement les fonctionnaires appartenant à un corps ou à un cadre d'emplois de catégorie A ou de niveau équivalent et ayant une expérience ou une technicité en adéquation avec les fonctions mentionnées à l'article 3.
 
 Le détachement est prononcé à équivalence de grade et d'échelon comportant un traitement égal ou, à défaut, immédiatement supérieur à celui dont l'intéressé bénéficiait dans son corps ou cadre d'emplois d'origine. Le fonctionnaire détaché conserve, dans la limite de la durée de service exigée pour l'accès à l'échelon supérieur de son nouveau grade, l'ancienneté d'échelon acquise dans son précédent grade lorsque le détachement lui procure un avantage inférieur à celui qui aurait résulté d'un avancement d'échelon dans son grade d'origine ou qui a résulté de sa nomination audit échelon si cet échelon était le plus élevé de son précédent emploi. Les fonctionnaires détachés concourent pour les avancements de grade et d'échelon avec l'ensemble des fonctionnaires de ce corps.
 

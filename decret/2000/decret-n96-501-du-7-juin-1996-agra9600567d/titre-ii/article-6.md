@@ -7,3 +7,5 @@ L'organisation de chaque concours et la nomination des membres du jury sont fix�
 Pour chaque spécialité, les emplois ouverts au titre de l'un des concours, externe ou interne, et non pourvus peuvent être reportés sur l'autre concours dans la limite du nombre total de places offertes aux deux concours.
 
 Les emplois demeurant non pourvus au titre d'un concours dans une spécialité peuvent être reportés sur les autres spécialités du même concours et, dans la limite de 25 % du nombre de places offertes aux deux concours, sur les autres spécialités de l'autre concours.
+
+Les emplois demeurant non pourvus au titre de l'examen professionnel dans une spécialité peuvent être reportés sur les autres spécialités.

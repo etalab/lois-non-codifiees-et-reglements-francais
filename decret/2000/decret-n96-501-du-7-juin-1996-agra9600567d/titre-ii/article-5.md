@@ -2,7 +2,7 @@
 
 I.-Les techniciens supérieurs des services du ministère chargé de l'agriculture sont recrutés selon l'une des modalités suivantes :
 
-1° Par la voie d'un concours externe, ouvert, pour chacune des spécialités, aux candidats titulaires d'un baccalauréat ou d'un titre ou diplôme classé au moins au niveau IV, ou d'une qualification reconnue comme équivalente à l'un de ces titres ou diplômes dans les conditions fixées par arrêté des ministres chargés de la fonction publique et de l'agriculture ;
+1° Par la voie d'un concours externe, ouvert, pour chacune des spécialités, aux candidats titulaires d'un baccalauréat ou d'un titre ou diplôme classé au moins au niveau IV, ou d'une qualification reconnue comme équivalente à l'un de ces titres ou diplômes dans les conditions fixées par le décret n° 2007-196 du 13 février 2007 relatif aux équivalences de diplômes requises pour se présenter aux concours d'accès aux corps et cadres d'emplois de la fonction publique ;
 
 2° Par la voie d'un concours interne ouvert, pour chacune des spécialités, aux fonctionnaires et agents non titulaires de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent ainsi qu'aux militaires en activité, en détachement, en congé parental ou accomplissant le service national à la date de clôture des inscriptions et aux agents des organisations internationales intergouvernementales en fonction à la date de clôture des inscriptions et justifiant, au 1er janvier de l'année du concours, de quatre années de services publics ;
 
