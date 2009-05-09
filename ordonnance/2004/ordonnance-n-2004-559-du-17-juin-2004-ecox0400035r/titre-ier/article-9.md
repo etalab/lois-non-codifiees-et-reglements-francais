@@ -1,6 +1,10 @@
 # Article 9
 
-Dès qu'elle a choisi l'attributaire du contrat, la personne publique informe les autres candidats du rejet de leur offre. Un délai d'au moins dix jours est respecté entre la date de notification de cette information et la date de signature du contrat.
+Dès qu'elle a choisi l'attributaire du contrat, la personne publique informe les autres candidats du rejet de leur offre.
+
+En cas de transmission postale, un délai d'au moins seize jours est respecté entre la date à laquelle le courrier portant notification aux candidats de la décision d'attribuer le contrat est envoyé et la date de conclusion du contrat.
+
+En cas de transmission électronique à l'ensemble des candidats, ce délai est réduit à au moins onze jours.
 
 Quand elle renonce à poursuivre la passation du contrat, la personne publique en informe les candidats.
 
