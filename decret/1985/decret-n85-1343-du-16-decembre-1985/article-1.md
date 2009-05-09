@@ -8,6 +8,6 @@ a) Soit à l'un des centres de transfert de données sociales créés en applica
 
 b) Soit à la Caisse nationale d'assurance vieillesse des travailleurs salariés, pour les déclarations effectuées par voie électronique.
 
-Les centres de transfert de données sociales et la Caisse nationale d'assurance vieillesse des travailleurs salariés répartissent les informations ainsi rassemblées entre les administrations, organismes, institutions et établissements énumérés à l'article 7 ci-dessous, en vertu de la réglementation en vigueur, conformément à un tableau fixé par arrêté du ministre chargé de la sécurité sociale, du ministre chargé de l'économie, du ministre chargé du budget et du ministre chargé de l'emploi, pris après avis de la Commission nationale de l'informatique et des libertés.
+Les centres de transfert de données sociales et la Caisse nationale d'assurance vieillesse des travailleurs salariés répartissent les informations ainsi rassemblées entre les administrations, organismes, institutions et établissements énumérés à l'article 7 ci-dessous, en vertu de la réglementation en vigueur, conformément à un tableau fixé par arrêté du ministre chargé de la sécurité sociale, du ministre chargé de l'économie et du ministre chargé du budget, pris après avis de la Commission nationale de l'informatique et des libertés.
 
 Ne sont modifiées ni les obligations des déclarants quant aux renseignements à fournir, ni la spécification des services auxquels ceux-ci sont destinés, ni celle des informations dont chacun des services est habilité à connaître.

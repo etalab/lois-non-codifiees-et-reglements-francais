@@ -1,6 +1,6 @@
 # Article 2
 
-Sous réserve des exceptions déterminées par le décret n° 85-1344 du 16 décembre 1985 susvisé modifiant le contenu et les modalités de dépôt des déclarations prévues aux articles 87,88,240 et 241 du code général des impôts, sont regroupés dans la déclaration unique :
+Sous réserve des exceptions déterminées par le décret n° 85-1344 du 16 décembre 1985 susvisé modifiant le contenu et les modalités de dépôt des déclarations prévues aux articles 87, 88, 240 et 241 du code général des impôts, sont regroupés dans la déclaration unique :
 
 -la déclaration de traitements, émoluments, salaires ou autres rétributions imposables prescrites à l'article 87 du code général des impôts ;
 
@@ -22,6 +22,10 @@ Sous réserve des exceptions déterminées par le décret n° 85-1344 du 16 déc
 
 -la déclaration prud'homale mentionnée au I de l'article L. 513-3 du code du travail ;
 
--la déclaration mentionnée à l'article 15 du décret n° 2004-569 du 18 juin 2004 susvisé.
+-la déclaration mentionnée à l'article 15 du décret n° 2004-569 du 18 juin 2004 susvisé ;
 
--la déclaration adressée à la Caisse nationale des barreaux français par les employeurs d'avocats salariés.
+-la déclaration adressée à la Caisse nationale des barreaux français par les employeurs d'avocats salariés ;
+
+-la déclaration mentionnée à l'article L. 1221-18 du code du travail ;
+
+-la déclaration prévue par l'article 8 du décret n° 2007-1796 du 19 décembre 2007 relatif à la cotisation et à la contribution dues pour la couverture des charges de pensions et allocations temporaires d'invalidité des fonctionnaires de l'Etat, des magistrats et des militaires détachés ainsi que des agents des offices ou établissements de l'Etat dotés de l'autonomie financière.
