@@ -14,7 +14,9 @@ Les comités techniques paritaires spéciaux sont mis en place pour :
 
 - la direction des pêches maritimes et de l'aquaculture ;
 
-- les services directement rattachés au ministre (cabinet, bureau du cabinet, Conseil général de l'agriculture, de l'alimentation et des espaces ruraux, mission défense, contrôle financier) ;
+- le Conseil général de l'agriculture, de l'alimentation et des espaces ruraux ;
+
+- les services suivants directement rattachés au ministre : cabinet, bureau du cabinet, mission défense, service du contrôle budgétaire et comptable ministériel ;
 
 - les services centraux de Toulouse-Auzeville.
 
