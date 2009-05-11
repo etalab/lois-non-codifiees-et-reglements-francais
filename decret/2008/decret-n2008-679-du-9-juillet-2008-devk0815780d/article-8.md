@@ -8,6 +8,4 @@ Après avis du bureau, le vice-président attribue individuellement ou collectiv
 
 Les membres permanents qui animent et coordonnent les travaux des groupes permanents formés au sein du Conseil général de l'environnement et du développement durable pour assurer l'inspection générale d'un ensemble de services sont désignés par le ministre de l'écologie, de l'énergie, du développement durable et de l'aménagement du territoire sur proposition du vice-président formulée après avis du bureau.
 
-Les missions portant sur les questions présentant un lien avec le tourisme s'exercent au sein d'un groupe permanent commun comprenant des membres du Conseil général de l'environnement et du développement durable et du service chargé de l'inspection générale du tourisme.
-
 En cas d'absence ou d'empêchement, le vice-président est suppléé dans les compétences qu'il tient du présent décret par un président qu'il désigne, ou à défaut par le président de section le plus ancien dans cette fonction.
