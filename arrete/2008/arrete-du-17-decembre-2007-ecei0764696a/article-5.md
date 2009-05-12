@@ -1,0 +1,3 @@
+# Article 5
+
+Le présent arrêté s'applique uniquement aux stations ou installations radioélectriques fixes. Par dérogation aux dispositions de l'article 4, les installations radioélectriques de radioamateurs établies en application de l'article L. 33-3 (1°) du code susvisé, dont la puissance apparente rayonnée (PAR) est supérieure à 5 watts, sont déclarées par l'exploitant à l'Agence nationale des fréquences dans un délai de deux mois à compter de la date de leur installation. Les informations déclarées sont les coordonnées géographiques " WGS 84 " de l'installation radioélectrique, la puissance apparente rayonnée maximum (PAR) en HF, VHF, UHF et SHF.

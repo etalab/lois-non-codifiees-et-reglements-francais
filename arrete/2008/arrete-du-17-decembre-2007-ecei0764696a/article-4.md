@@ -1,0 +1,3 @@
+# Article 4
+
+L'Agence nationale des fréquences est informée dans un délai de deux mois des implantations, transfert, modifications des installations établies en application des dispositions de l'article L. 33-3 du code susvisé et dont la PIRE, dans toute direction d'élévation inférieure à 5 degrés par rapport à l'horizontale, est supérieure à 5 watts ainsi que de l'arrêt desdites installations. Les informations transmises à l'Agence nationale des fréquences sont la localisation de l'installation radioélectrique ou de la station, l'adresse de son exploitant ainsi que le type et la hauteur de l'antenne, la puissance de l'émetteur et la fréquence utilisée.
