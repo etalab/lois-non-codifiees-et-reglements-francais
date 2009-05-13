@@ -41,6 +41,6 @@ Inspecteur de l'armement pour l'aéronautique et l'espace.
 
 Inspecteur de l'armement pour les poudres et explosifs.
 
-Directeur du service de la maintenance aéronautique.
+Directeur central du service industriel de l'aéronautique.
 
 Directeur central du service de soutien de la flotte (1).
