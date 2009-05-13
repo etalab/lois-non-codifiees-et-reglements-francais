@@ -161,6 +161,7 @@
 - [Décret n°2009-278 du 11 mars 2009 (ESRR0830204D)](decret-n2009-278-du-11-mars-2009-esrr0830204d)
 - [Décret n°2009-279 du 11 mars 2009 (MCCX0828098D)](decret-n2009-279-du-11-mars-2009-mccx0828098d)
 - [Décret n°2007-813 du 11 mai 2007 (JUSC0753766D)](decret-n2007-813-du-11-mai-2007-jusc0753766d)
+- [Décret n°2009-525 du 11 mai 2009 (MAEF0906470D)](decret-n2009-525-du-11-mai-2009-maef0906470d)
 - [Décret n°2005-785 du 12 juillet 2005 (BUDB0560009D)](decret-n2005-785-du-12-juillet-2005-budb0560009d)
 - [Décret n°2008-930 du 12 septembre 2008 (DEFH0801136D)](decret-n2008-930-du-12-septembre-2008-defh0801136d)
 - [Décret n°2008-931 du 12 septembre 2008 (DEFH0801138D)](decret-n2008-931-du-12-septembre-2008-defh0801138d)
