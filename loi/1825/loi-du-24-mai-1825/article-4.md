@@ -8,4 +8,4 @@ Les établissements dûment autorisés pourront, avec l'autorisation spéciale d
 
 3° Aliéner les biens immeubles, les rentes ou valeurs garanties par l'Etat dont ils seraient propriétaires.
 
-Ils peuvent également accepter des libéralités dans les conditions prévues par le deuxième alinéa de l'article 910 du code civil.
+Ils peuvent également accepter des libéralités dans les conditions prévues par les deux derniers alinéas de l'article 910 du code civil.
