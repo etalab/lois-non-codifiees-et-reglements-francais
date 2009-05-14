@@ -16,15 +16,15 @@ Elle est composée d'un échelon central, des services de la navigation aérienn
 
 1° L'échelon central de la direction des opérations de la DSNA comprend :
 
-― la structure de direction, constituée du directeur, d'un adjoint « en-route », d'un adjoint « approches et aérodromes contrôlés », d'un chef des services de la navigation aérienne région parisienne (SNA/RP), d'un secrétaire général et d'un chargé de mission en charge du management de la sécurité et de la qualité ;
+― la structure de direction, constituée du directeur, d'un adjoint " opérationnel", d'un adjoint " ressources ", du chef des services de la navigation aérienne région parisienne (SNA / RP), adjoint au directeur, et d'un responsable du système de management intégré (SMI) ;
 
-― trois départements techniques : le département « sécurité et performances », le département « espace », le département « systèmes, infrastructures et programmation technique » ;
+― trois départements techniques : le département sécurité et performances , le département espace , le département systèmes, infrastructures et programmation technique ;
 
-― un département « administration » ;
+― un département administration ;
 
 ― deux services spécialisés : le service de l'information aéronautique et le centre d'exploitation des systèmes de la navigation aérienne centraux.
 
-a) Le département « sécurité et performances » (DO/l) est chargé de coordonner et d'organiser, au sein de la direction des opérations, les activités relatives à la sécurité et celles relatives à la qualité du service rendu, comportant l'analyse des performances, le dimensionnement opérationnel et technique des organismes et les relations avec les usagers.
+a) Le département sécurité et performances (DO/l) est chargé de coordonner et d'organiser, au sein de la direction des opérations, les activités relatives à la sécurité et celles relatives à la qualité du service rendu, comportant l'analyse des performances, le dimensionnement opérationnel et technique des organismes et les relations avec les usagers.
 
 Il intervient pour :
 
@@ -32,7 +32,7 @@ Il intervient pour :
 
 ― tenir à jour les bases de données relatives à l'écoulement du trafic, aux retards, aux ouvertures des secteurs des CRNA et des SNA ; assurer l'élaboration, le suivi et la publication des indicateurs de performance ; définir, harmoniser et actualiser les besoins opérationnels et techniques des CRNA et des SNA en vérifiant l'adéquation de ceux-ci aux besoins du trafic et aux équipements maintenus par ces organismes.
 
-b) Le département « espace » (DO/2) est chargé des études relatives à l'organisation stratégique de l'espace aérien, de la gestion pré-tactique de l'espace aérien et de la gestion des flux de trafic, de la mise au point des procédures de coordination entre aviations civile et militaire pré-tactique et en temps réel, de la gestion flexible et dynamique de l'espace et de la régulation des flux de trafic, de l'organisation de la performance opérationnelle de la direction des opérations et, dans son domaine d'activité, de la coordination avec les partenaires institutionnels nationaux et étrangers de la navigation aérienne.
+b) Le département espace (DO/2) est chargé des études relatives à l'organisation stratégique de l'espace aérien, de la gestion pré-tactique de l'espace aérien et de la gestion des flux de trafic, de la mise au point des procédures de coordination entre aviations civile et militaire pré-tactique et en temps réel, de la gestion flexible et dynamique de l'espace et de la régulation des flux de trafic, de l'organisation de la performance opérationnelle de la direction des opérations et, dans son domaine d'activité, de la coordination avec les partenaires institutionnels nationaux et étrangers de la navigation aérienne.
 
 Il intervient pour :
 
@@ -44,7 +44,7 @@ Il intervient pour :
 
 ― définir et mettre en œuvre des procédures de coordination entre aviations civile et militaire au niveau stratégique, pré-tactique et temps réel, préparer et gérer des événements aéronautiques particuliers, organiser et assurer le suivi de la permanence opérationnelle de la direction, assurer le suivi de la composante civile de la cellule nationale de gestion de l'espace aérien (CNGE) et le suivi en temps réel des opérations du contrôle aérien français, assurer les relations avec les usagers de l'espace aérien, notamment les compagnies aériennes.
 
-c) Le département « systèmes, infrastructures et programmation technique » (DO/3) est chargé de définir et de suivre les systèmes et les moyens opérationnels des organismes de la circulation aérienne et des méthodes de travail correspondantes, de participer à la planification de leur déploiement, ainsi qu'à celle des installations et des infrastructures de la navigation aérienne.
+c) Le département systèmes, infrastructures et programmation technique (DO/3) est chargé de définir et de suivre les systèmes et les moyens opérationnels des organismes de la circulation aérienne et des méthodes de travail correspondantes, de participer à la planification de leur déploiement, ainsi qu'à celle des installations et des infrastructures de la navigation aérienne.
 
 Il intervient pour :
 
@@ -60,7 +60,9 @@ Il intervient pour :
 
 ― participer à la définition et à la conduite des opérations d'installations et d'infrastructures de la navigation aérienne.
 
-d) Le département « administration » (DO/4) est chargé des affaires financières, de la gestion administrative des ressources humaines et de la mise en œuvre de la logistique et des moyens généraux des services de l'échelon central de la direction des opérations implantés sur le site d'Athis-Mons.
+d) Le département administration (DO / 4) est chargé de la gestion des ressources des services de l'échelon central sis à Athis-Mons et contribue à la gestion centralisée des ressources de la direction des opérations.
+
+Il assiste le directeur des opérations dans la mise en œuvre des règles d'hygiène et de sécurité du travail pour les services de l'échelon central sis à Athis-Mons.
 
 e) Le service de l'information aéronautique (DO/SIA) est chargé d'assurer le service d'information aéronautique tel qu'il est défini à l'annexe 15 de la convention du 7 décembre 1944. Il assure :
 

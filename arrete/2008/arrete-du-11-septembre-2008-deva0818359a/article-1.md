@@ -24,10 +24,10 @@ La direction des opérations (DSNA/DO) constituée par :
 
 ― les services de la navigation aérienne (DO/SNA).
 
-La direction de la technique et de l'innovation (DSNA/DTI) constituée par :
+La direction de la technique et de l'innovation (DSNA / DTI), constituée par :
 
-― une structure de direction ;
+- une structure de direction ;
 
-― un secrétariat général ;
+- un domaine support ;
 
-― cinq domaines techniques.
+- cinq domaines techniques.

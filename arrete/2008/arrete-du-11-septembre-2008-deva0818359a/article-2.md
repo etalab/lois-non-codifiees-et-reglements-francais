@@ -4,71 +4,77 @@ L'échelon central de la direction des services de la navigation aérienne compr
 
 1° La sous-direction de la planification et de la stratégie (DSNA / SDPS), chargée :
 
-― d'établir la stratégie interne à la DSNA en ce qui concerne les services à rendre, les programmes techniques, d'études et de recherche appliquée, ainsi que les coopérations et les partenariats avec des organismes homologues de pays tiers, les coopérations et participations à des projets internationaux ;
+- d'établir la stratégie interne à la DSNA en ce qui concerne les services à rendre, les programmes techniques, d'études et de recherche appliquée, ainsi que les coopérations et les partenariats avec des organismes homologues de pays tiers, les coopérations et participations à des projets internationaux ;
 
-― d'établir une planification pluriannuelle du niveau des services à rendre et des moyens de communication, de navigation, de surveillance et de gestion du trafic aérien (CNS / ATM) correspondants et de proposer les objectifs et des indicateurs de performance associés ;
+- recueillir et prendre en compte les attentes des usagers de l'espace aérien et des parties intéressées ;
 
-― de contribuer à la coordination des relations entre autorités civiles et militaires au niveau stratégique portant notamment sur la gestion de l'espace aérien, l'exploitation ou les systèmes relevant de la DSNA ;
+- d'établir une planification pluriannuelle du niveau des services à rendre et des moyens de communication, de navigation, de surveillance (CNS) et de gestion du trafic aérien (ATM) et d'information aéronautique (AIM) correspondants et de proposer les objectifs et des indicateurs de performance associés ;
 
-― d'assurer la coordination générale des contributions de la DSNA à la construction du Ciel unique européen ;
+- de contribuer à la coordination des relations entre autorités civiles et militaires au niveau stratégique portant notamment sur la gestion de l'espace aérien, l'exploitation ou les systèmes relevant de la DSNA ;
 
-― d'assurer le management des exigences réglementaires relatives à son domaine de compétence ;
+- d'assurer la coordination générale des contributions de la DSNA à la construction du Ciel unique européen ;
 
-― d'élaborer la politique de gestion des fréquences aéronautiques.
+- d'assurer le management des exigences réglementaires relatives à son domaine de compétence ;
+
+- d'élaborer la politique de gestion des fréquences aéronautiques.
 
 Elle comporte trois départements :
 
 a) Le département de la planification et des programmes (SDPS / P), chargé :
 
-― de planifier les services à fournir aux usagers dans les espaces aériens du champ de compétence de la DSNA ;
+- de planifier les services à fournir aux usagers dans les espaces aériens du champ de compétence de la DSNA ;
 
-― de planifier les moyens de communication, de navigation, de surveillance et de gestion du trafic aérien nécessaires (CNS / ATM) ;
+- de planifier les moyens de communication, de navigation, de surveillance (CNS) et de gestion du trafic aérien (ATM) et d'information aéronautique (AIM) nécessaires ;
 
-― d'établir le plan national d'harmonisation et de mise en œuvre des moyens CNS / ATM dans le cadre du plan européen établi par l'Organisation européenne pour la sécurité de la navigation aérienne (EUROCONTROL) ;
+- d'établir le plan national d'harmonisation et de mise en œuvre des moyens CNS, ATM et AIM dans le cadre du plan européen établi par l'Organisation européenne pour la sécurité de la navigation aérienne (EUROCONTROL) ;
 
-― de définir en conséquence les projets majeurs de génie civil, d'équipements et d'informatique relatifs à la navigation aérienne ;
+- de définir en conséquence les projets majeurs de génie civil, d'équipements et d'informatique relatifs à la navigation aérienne ;
 
-― d'établir le programme pluriannuel des investissements et, suivre son exécution ;
+- d'établir le programme pluriannuel des investissements et suivre son exécution ;
 
-― de s'assurer que les moyens CNS / ATM et les services fournis correspondent aux besoins des usagers civils et militaires ;
+- de s'assurer que les moyens et les services fournis correspondent aux besoins des usagers civils et militaires ;
 
-― de veiller à la coordination entre autorités civiles et militaires de niveau stratégique ;
+- de s'assurer de la coordination des activités liées à la mise en œuvre des procédures de circulation aérienne et à la publication de l'information aéronautique associée ;
 
-― de veiller à la coordination avec Météo-France en matière de services rendus pour les besoins de la navigation aérienne.
+- de veiller à la coordination avec les exploitants d'aéroport ou leurs représentants en matière de développement des activités aéroportuaires ;
+
+- de veiller à la coordination entre autorités civiles et militaires de niveau stratégique ;
+
+- de veiller à la coordination avec Météo-France en matière de services rendus pour les besoins de la navigation aérienne ;
 
 b) Le département de la prospective et de la stratégie (SDPS / S), chargé :
 
-― d'établir le plan stratégique de la DSNA et sa mise à jour annuelle ;
+- d'établir le plan stratégique de la DSNA et sa déclinaison annuelle, d'établir le bilan annuel et de procéder aux mises à jour périodiques du plan stratégique ;
 
-― de définir la stratégie de développement des services à fournir aux usagers ;
+- de définir la stratégie de développement des services à fournir aux usagers ;
 
-― de définir les objectifs d'études et de recherche appliquée en vue de préparer les évolutions techniques et opérationnelles, en liaison avec les programmes européens ; il assure le fonctionnement du comité d'orientation des études et de la recherche appliquée et coordonne le programme annuel d'études relatives à la navigation aérienne ;
+- d'assurer la fonction de " correspondant clients de la DSNA"  afin de rendre des services de la navigation aérienne satisfaisants au regard des attentes des usagers de l'espace aérien et des parties intéressées ;
 
-― de veiller à la participation de la DSNA aux travaux d'élaboration de normes et règlements nationaux, européens et internationaux relatifs à la navigation aérienne ;
+- de définir les objectifs d'études et de recherche appliquée en vue de préparer les évolutions techniques et opérationnelles, en liaison avec les programmes européens ; il assure le fonctionnement du comité d'orientation des études et de la recherche appliquée et coordonne le programme annuel d'études relatives à la navigation aérienne ;
 
-― de définir la stratégie d'utilisation du spectre radioélectrique et participer aux travaux nationaux, européens et internationaux sur le sujet ;
+- de veiller à la participation de la DSNA aux travaux d'élaboration de normes et règlements nationaux, européens et internationaux relatifs à la navigation aérienne ;
 
-― d'établir la stratégie de coopération avec les autres prestataires de services de navigation aérienne européens ou internationaux, dans le cadre de relations bilatérales ou multilatérales et de projets communs.
+- de définir la stratégie d'utilisation du spectre radioélectrique et participer aux travaux nationaux, européens et internationaux sur le sujet ;
 
-c) Le département « recherche et sauvetage » (SDPS / A), chargé :
+- d'établir la stratégie de coopération avec les autres prestataires de service de navigation aérienne européens ou internationaux, dans le cadre de relations bilatérales ou multilatérales et de projets communs ;
 
-― des relations avec les organisations internationales, les organismes de recherche et de sauvetage (SAR) étrangers et avec les administrations nationales ;
+c) Le département " recherche et sauvetage " (SDPS / A), chargé :
 
-― de la préparation des décisions en matière de politique générale et d'organisation ;
+- des relations avec les organisations internationales, les organismes de recherche et de sauvetage (SAR) étrangers pour l'élaboration des textes d'accord et avec les administrations nationales ;
 
-― de l'harmonisation du plan d'intervention SAR avec les autres plans de secours ;
+- de la préparation des décisions en matière de politique générale et d'organisation ;
 
-― de la participation aux études et programmes d'équipement en matériels spécifiques ;
+- de l'harmonisation du plan d'intervention SAR avec les autres plans de secours ;
 
-― de l'élaboration des procédures et de la réglementation SAR, y compris celles du service d'alerte ;
+- de la participation aux études et programmes d'équipement en matériels spécifiques ;
 
-― de la participation aux travaux d'élaboration de la réglementation SAR ;
+- de l'élaboration des procédures et de la réglementation SAR, y compris celles du service d'alerte ;
 
-― de l'élaboration des programmes de formation et de qualification ;
+- de l'élaboration des programmes d'entraînement, de formation et de qualification ;
 
-― de l'étude des comptes rendus d'opérations SAR ;
+- de l'étude des comptes rendus d'opérations SAR ;
 
-― de la liaison avec l'organisme d'études et de coordination pour la recherche et le sauvetage maritime (SECMAR).
+- de la liaison avec l'organisme d'études et de coordination pour la recherche et le sauvetage maritime (SECMAR).
 
 2° La sous-direction des ressources humaines (DSNA / SDRH), chargée :
 
@@ -206,7 +212,7 @@ a) Le département des redevances et du contrôle de gestion (SDFI / R), chargé
 
 b) Le département des dépenses et recettes hors redevances (SDFI / D), chargé :
 
-― de préparer la loi de finances initiale, en liaison avec le département des redevances et du contrôle de gestion, pour le programme « navigation aérienne » ;
+― de préparer la loi de finances initiale, en liaison avec le département des redevances et du contrôle de gestion, pour le programme  navigation aérienne  ;
 
 ― de préparer et d'exécuter ou de faire exécuter les budgets et de procéder à leur ajustement ;
 
