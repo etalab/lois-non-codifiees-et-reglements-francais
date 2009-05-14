@@ -9,5 +9,6 @@
 - [LOI n° 2009-323 du 25 mars 2009 (LOGX0815554L)](loi-n-2009-323-du-25-mars-2009-logx0815554l)
 - [LOI n° 2009-39 du 13 janvier 2009 (IOCX0821083L)](loi-n-2009-39-du-13-janvier-2009-iocx0821083l)
 - [LOI n° 2009-431 du 20 avril 2009 (BCFX0904813L)](loi-n-2009-431-du-20-avril-2009-bcfx0904813l)
+- [LOI n° 2009-526 du 12 mai 2009 (BCFX0824886L)](loi-n-2009-526-du-12-mai-2009-bcfx0824886l)
 - [LOI n° 2009-61 du 16 janvier 2009 (JUSX0500201L)](loi-n-2009-61-du-16-janvier-2009-jusx0500201l)
 - [LOI n°2009-135 du 9 février 2009 (BCFX0822494L)](loi-n2009-135-du-9-fevrier-2009-bcfx0822494l)

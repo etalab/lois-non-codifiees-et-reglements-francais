@@ -3,3 +3,4 @@
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [TITRE II : Avancement.](titre-ii)
+- [TITRE III : Dispositions transitoires.](titre-iii)

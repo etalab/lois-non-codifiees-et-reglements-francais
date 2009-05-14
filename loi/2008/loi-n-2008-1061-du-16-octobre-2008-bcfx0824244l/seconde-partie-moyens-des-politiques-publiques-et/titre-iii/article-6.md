@@ -10,7 +10,7 @@ Seuls les établissements de crédit satisfaisant aux exigences de fonds propres
 
 La société mentionnée au premier alinéa peut acquérir des billets à ordre, régis par les articles L. 313-43 à L. 313-49, émis par des établissements de crédit, souscrire ou acquérir des parts ou titres de créances émis par des organismes visés aux articles L. 214-42-1 à L. 214-49-14 ou des fiducies.
 
-Pour les besoins de son activité, la société de refinancement bénéficie des dispositions des articles L. 431-7 à L. 431-7-5 au même titre que les établissements de crédit.
+Pour les besoins de son activité, la société de refinancement bénéficie des dispositions des articles L. 211-36 à L. 211-40au même titre que les établissements de crédit.
 
 Ces parts, titres de créances ou billets à ordre confèrent à la société de refinancement :
 
