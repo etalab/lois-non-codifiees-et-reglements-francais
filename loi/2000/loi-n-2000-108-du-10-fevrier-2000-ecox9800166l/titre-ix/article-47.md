@@ -12,8 +12,6 @@ Toute personne physique ou morale qui produit, transporte, distribue, importe, e
 
 La liste des données à fournir est fixée par arrêté du ministre chargé de l'énergie.
 
-Le Gouvernement communique la synthèse de ces données aux commissions du Parlement compétentes en matière d'électricité. Cette synthèse fait, le cas échéant, l'objet d'une publication.
-
 Les agents chargés de recueillir et exploiter ces données sont tenus au secret professionnel.
 
 Les informations recueillies en application du présent article, lorsqu'elles sont protégées par un secret visé à l'article 6 de la loi n° 78-753 du 17 juillet 1978 précitée, ne peuvent être divulguées.

@@ -6,6 +6,6 @@ a) Les frais nécessaires exposés par le syndicat, notamment les frais de mise 
 
 b) Les honoraires du syndic afférents aux prestations qu'il doit effectuer pour l'établissement de l'état daté à l'occasion de la mutation à titre onéreux d'un lot ou d'une fraction de lot.
 
-Le copropriétaire qui, à l'issue d'une instance judiciaire l'opposant au syndicat, voit sa prétention déclarée fondée par le juge, est dispensé de toute participation à la dépense commune des frais de procédure, dont la charge est répartie entre les autres copropriétaires.
+Le copropriétaire qui, à l'issue d'une instance judiciaire l'opposant au syndicat, voit sa prétention déclarée fondée par le juge, est dispensé, même en l'absence de demande de sa part, de toute participation à la dépense commune des frais de procédure, dont la charge est répartie entre les autres copropriétaires.
 
 Le juge peut toutefois en décider autrement en considération de l'équité ou de la situation économique des parties au litige.

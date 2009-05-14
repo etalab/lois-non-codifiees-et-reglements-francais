@@ -24,7 +24,7 @@ Toutefois, toute personne qui, à la date de publication de la présente loi, ex
 
 Lorsque les conditions d'exercice de l'activité déterminées au I sont remplies uniquement par le chef d'entreprise et que celui-ci cesse l'exploitation de l'entreprise, les dispositions relatives à la qualification professionnelle exigée pour les activités prévues au I ne sont pas applicables, pendant une période de trois ans à compter de la cessation d'exploitation, aux activités exercées par le conjoint de ce chef d'entreprise appelé à assurer la continuité de l'exploitation, sous réserve qu'il relève d'un des statuts mentionnés à l'article L. 121-4 du code de commerce depuis au moins trois années et qu'il s'engage dans une démarche de validation des acquis de son expérience conformément au I de l'article L. 335-5 du code de l'éducation.
 
-III.-Dans un délai de deux ans à compter de la promulgation de la présente loi, le Gouvernement présentera au Parlement un rapport qui dressera le bilan des dispositions du présent article et qui proposera, le cas échéant, l'actualisation de la liste des activités pour lesquelles est exigée une qualification professionnelle.
+III.-abrogé
 
 IV.-Les dispositions du présent article ne font pas obstacle à l'application des dispositions législatives spécifiques à la profession de coiffeur.
 

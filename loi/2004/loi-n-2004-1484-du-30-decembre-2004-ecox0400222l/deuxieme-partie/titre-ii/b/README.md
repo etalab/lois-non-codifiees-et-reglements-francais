@@ -8,5 +8,4 @@
 - [Anciens combattants.](anciens-combattants)
 - [Charges communes.](charges-communes)
 - [Agriculture, alimentation, pêche et affaires rurales.](agriculture-alimentation-peche-et)
-- [Culture et communication.](culture-et)
 - [Travail, santé et cohésion sociale](travail-sante-et)

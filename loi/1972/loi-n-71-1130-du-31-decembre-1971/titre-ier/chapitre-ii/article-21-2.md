@@ -11,3 +11,5 @@ Chaque collège élit la moitié des membres du Conseil national des barreaux.
 L'élection dans chaque collège a lieu sur la base d'une ou plusieurs circonscriptions.
 
 En cas de pluralité de circonscriptions, la répartition des sièges à pourvoir entre les circonscriptions est proportionnelle au nombre des avocats inscrits dans chacune d'elles.
+
+Le président de la conférence des bâtonniers et le bâtonnier de l'ordre des avocats au barreau de Paris en exercice sont membres de droit du Conseil national des barreaux.

@@ -3,7 +3,6 @@
 - [Loi n° 2000-108 du 10 février 2000 (ECOX9800166L)](loi-n-2000-108-du-10-fevrier-2000-ecox9800166l)
 - [Loi n° 2000-1207 du 13 décembre 2000 (INTX0000028L)](loi-n-2000-1207-du-13-decembre-2000-intx0000028l)
 - [Loi n° 2000-1208 du 13 décembre 2000 (EQUX9900145L)](loi-n-2000-1208-du-13-decembre-2000-equx9900145l)
-- [Loi n° 2000-1209 du 13 décembre 2000 (MESX0004381L)](loi-n-2000-1209-du-13-decembre-2000-mesx0004381l)
 - [Loi n° 2000-121 du 16 février 2000 (PARX9903608L)](loi-n-2000-121-du-16-fevrier-2000-parx9903608l)
 - [Loi n° 2000-1257 du 23 décembre 2000 (MESX0000144L)](loi-n-2000-1257-du-23-decembre-2000-mesx0000144l)
 - [Loi n° 2000-1352 du 30 décembre 2000 (ECOX0000141L)](loi-n-2000-1352-du-30-decembre-2000-ecox0000141l)

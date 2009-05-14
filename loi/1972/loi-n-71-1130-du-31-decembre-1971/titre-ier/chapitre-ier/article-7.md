@@ -12,4 +12,4 @@ Le contrat de collaboration ou le contrat de travail ne doit pas comporter de st
 
 En aucun cas, les contrats ou l'appartenance à une société, une association ou un groupement ne peuvent porter atteinte aux règles déontologiques de la profession d'avocat, et notamment au respect des obligations en matière d'aide judiciaire et de commission d'office, et à la faculté pour l'avocat collaborateur ou salarié de demander à être déchargé d'une mission qu'il estime contraire à sa conscience ou susceptible de porter atteinte à son indépendance.
 
-Les litiges nés à l'occasion d'un contrat de travail ou de la convention de rupture, de l'homologation ou du refus d'homologation de cette convention sont soumis à l'arbitrage du bâtonnier, à charge d'appel devant la cour d'appel siégeant en chambre du conseil.
+Les litiges nés à l'occasion d'un contrat de travail ou de la convention de rupture, de l'homologation ou du refus d'homologation de cette convention ainsi que ceux nés à l'occasion d'un contrat de collaboration libérale sont soumis à l'arbitrage du bâtonnier, à charge d'appel devant la cour d'appel.

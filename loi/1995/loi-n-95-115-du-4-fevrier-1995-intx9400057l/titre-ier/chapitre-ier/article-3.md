@@ -6,7 +6,7 @@ Le secrétariat général du Conseil national de l'aménagement et du développe
 
 II. - Le Conseil national de l'aménagement et du développement du territoire formule des avis et des suggestions sur les orientations et les conditions de mise en oeuvre de la politique d'aménagement et de développement durable du territoire par l'Etat, les collectivités territoriales et l'Union européenne.
 
-Il est consulté sur les projets de directives territoriales d'aménagement prévues à l'article L. 111-1-1 du code de l'urbanisme et sur les projets de lois de programmation prévus à l'article 32 de la présente loi.
+Il est consulté sur les projets de lois de programmation prévus à l'article 32 de la présente loi.
 
 Il peut se saisir de toute question relative à l'aménagement et au développement durable du territoire.
 

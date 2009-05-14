@@ -8,8 +8,6 @@ Seront saisis et confisqués tous les fonds, sommes ou effets de toute nature pr
 
 Le tribunal pourra ordonner la fermeture temporaire ou définitive de tout établissement ouvert au public dont le propriétaire ou gérant aura commis l'une des infractions prévues au présent article.
 
-En cas de récidive, la durée de l'emprisonnement et le montant de l'amende pénale pourront être doublés.
-
 Seront réputés complices du délit ci-dessus déterminé :
 
 1° Tout intermédiaire pour les paris dont il s'agit, tout dépositaire préalable des enjeux ou toute personne qui aura sciemment facilité, sous une forme quelconque, l'exploitation des paris ;

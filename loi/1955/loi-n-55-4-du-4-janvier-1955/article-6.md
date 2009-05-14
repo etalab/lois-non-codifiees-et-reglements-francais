@@ -99,3 +99,31 @@ Cette liste de journaux susceptibles de recevoir les annonces légales, soit en 
 d) Au septième alinéa, les mots : "de l'article 3" sont remplacés par les mots : "des dispositions applicables localement" ;
 
 4° A l'article 4, après les mots : "9 000 Euros", sont insérés les mots : "ou son équivalent en monnaie locale".
+
+VII. - Pour l'application de la présente loi à Saint-Barthélemy :
+
+1° A l'article 1er :
+
+a) Au début, les mots : " Dans chaque département " sont remplacés par les mots : " A Saint-Barthélemy " ;
+
+b) Sont ajoutés les mots : " ou à défaut au Journal officiel de Saint-Barthélemy " ;
+
+2° Aux 2° et 3° de l'article 2, les mots : " dans le département ", " pour le département " et " du département " sont respectivement remplacés par les mots : " à Saint-Barthélemy ", " pour Saint-Barthélemy " et " de Saint-Barthélemy " ;
+
+3° Aux articles 2 à 5, le mot : " préfet " est remplacé, par sept fois, par les mots : " représentant de l'Etat " ;
+
+4° A l'article 2 :
+
+a) Le premier alinéa est ainsi rédigé :
+
+" Tous les journaux d'information générale, judiciaire ou technique ne consacrant pas à la publicité plus de deux tiers de leur surface et justifiant une diffusion par abonnement ou par dépositaires sont inscrits de droit sur la liste prévue ci-dessous, sous les conditions suivantes : " ;
+
+b) Au 3°, le mot : " décret " est remplacé par les mots : " arrêté du représentant de l'Etat " et les mots : " ou de ses arrondissements " sont supprimés ;
+
+c) Au cinquième alinéa, le mot : " départementale " est supprimé, après le mot : " représentant ", sont insérés les mots : " ou, à défaut, du greffier du tribunal de grande instance ", le mot : " trois " et les mots : " deux directeurs de journaux " sont remplacés respectivement par le mot : " deux " et par les mots : " un directeur de journal " ;
+
+d) L'avant-dernier alinéa est ainsi rédigé :
+
+" Cette liste de journaux susceptibles de recevoir les annonces légales à Saint-Barthélemy est publiée par arrêté du représentant de l'Etat. " ;
+
+5° A la fin du premier alinéa de l'article 3, les mots : " du département " sont remplacés par les mots : " de Saint-Barthélemy ".

@@ -1,6 +1,6 @@
 # Article 11
 
-I. - Le comité interprofessionnel des vins doux naturels créé par la loi du 12 avril 1943 susvisée, le conseil interprofessionnel des vins d'Anjou et de Saumur créé par la loi du 16 juillet 1952 susvisée, le comité interprofessionnel des vins des Côtes de Provence créé par la loi du 28 juin 1956 susvisée, ainsi que le comité interprofessionnel des vins de Gaillac créé par le décret du 25 septembre 1959 susvisé validé par la loi du 7 juillet 1977 susvisée sont dissous et liquidés selon des modalités fixées par un arrêté conjoint des ministres chargés de l'agriculture, de l'économie et du budget.
+I. - Le comité interprofessionnel des vins doux naturels créé par la loi du 2 avril 1943 susvisée, le conseil interprofessionnel des vins d'Anjou et de Saumur créé par la loi du 16 juillet 1952 susvisée, le comité interprofessionnel des vins des Côtes de Provence créé par la loi du 28 juin 1956 susvisée, ainsi que le comité interprofessionnel des vins de Gaillac créé par le décret du 25 septembre 1959 susvisé validé par la loi du 7 juillet 1977 susvisée sont dissous et liquidés selon des modalités fixées par un arrêté conjoint des ministres chargés de l'agriculture, de l'économie et du budget.
 
 II. - Les boni issus de la liquidation du patrimoine des comités et du conseil susmentionnés, y compris ceux acquis au moyen de taxes parafiscales, peuvent être dévolus à un organisme tiers du secteur vitivinicole par arrêté conjoint des ministres chargés de l'agriculture, de l'économie et du budget.
 

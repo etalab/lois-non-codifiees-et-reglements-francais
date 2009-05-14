@@ -12,6 +12,4 @@ VII. - Les dispositions qui précèdent, autres que celles mentionnées au VI, s
 
 3° Des biens meubles corporels commandés, mais non encore livrés au 15 septembre 1997, si la commande a été accompagnée du versement d'acomptes égaux à 50 % au moins de leur prix.
 
-VIII. - Le Gouvernement présentera avant le 30 juin 1998 un rapport établissant, en concertation avec les élus locaux, le bilan de l'application du dispositif de défiscalisation dans les départements et territoires d'outre-mer et dans les collectivités territoriales de Mayotte et Saint-Pierre-et-Miquelon.
-
 Une commission de suivi se tiendra dans chaque département, territoire et collectivité territoriale d'outre-mer sous la présidence du représentant du Gouvernement. Sa composition, qui prévoira la représentation des élus locaux, sera fixée par décret.

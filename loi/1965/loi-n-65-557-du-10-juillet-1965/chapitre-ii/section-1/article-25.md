@@ -2,7 +2,7 @@
 
 Ne sont adoptées qu'à la majorité des voix de tous les copropriétaires les décisions concernant :
 
-a) Toute délégation du pouvoir de prendre l'une des décisions visées à l'article précédent ;
+a) Toute délégation du pouvoir de prendre l'une des décisions visées à l'article 24 ;
 
 b) L'autorisation donnée à certains copropriétaires d'effectuer à leurs frais des travaux affectant les parties communes ou l'aspect extérieur de l'immeuble, et conformes à la destination de celui-ci ;
 

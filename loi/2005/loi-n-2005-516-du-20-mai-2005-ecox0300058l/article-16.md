@@ -18,7 +18,7 @@ Pendant une durée qui ne peut excéder deux ans à compter de la publication de
 
 6. Les modalités d'application du présent article, notamment les conditions dans lesquelles les biens, droits et obligations visés au 2 sont transférés à l'établissement de crédit mentionné au 1 par l'intermédiaire de La Poste, sont précisées par décret en Conseil d'Etat, pris après avis de la commission de surveillance de la Caisse des dépôts et consignations.
 
-7. Au plus tard dans les deux ans qui suivent le transfert prévu au 1, la Cour des comptes élabore un rapport sur la création de l'établissement de crédit visé au 1, sur son fonctionnement et sur les relations de toute nature existant entre cet établissement de crédit et les autres entreprises du groupe La Poste. Ce rapport est transmis au Parlement.
+7. abrogé.
 
 III. - 1. La Poste et l'établissement de crédit mentionné au 1 du II concluent une ou plusieurs conventions au sens du deuxième alinéa de l'article L. 518-25 du code monétaire et financier en vue de déterminer les conditions dans lesquelles cet établissement recourt, pour la réalisation de son objet, aux moyens de La Poste, notamment à son personnel. Ces conventions déterminent notamment les conditions dans lesquelles les titulaires de comptes ou livrets ouverts auprès de cet établissement peuvent procéder à toute opération de retrait ou de dépôt auprès de La Poste.
 

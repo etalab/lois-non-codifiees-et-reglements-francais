@@ -6,7 +6,7 @@ II. - Paragraphe modificateur
 
 III. - Paragraphe modificateur
 
-IV. - Le Gouvernement présente au Parlement, avant le 15 septembre 2007, un rapport dressant le bilan de l'application des aides fiscales en faveur de l'investissement locatif. Ce rapport analyse les effets de ces mesures sur l'investissement immobilier locatif, notamment en ce qui concerne leurs coûts et leurs bénéficiaires.
+IV. - abrogé
 
 V. - Un décret fixe les conditions d'application du présent article. Ce décret précise les obligations des propriétaires des logements et des associés des sociétés propriétaires des logements.
 

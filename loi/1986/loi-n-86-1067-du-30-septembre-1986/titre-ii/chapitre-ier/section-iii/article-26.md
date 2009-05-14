@@ -15,5 +15,3 @@ Le Conseil supérieur de l'audiovisuel accorde en priorité à la chaîne visée
 Le Conseil supérieur de l'audiovisuel veille à regrouper sur une ou plusieurs fréquences les services des sociétés diffusés en mode numérique qui bénéficient des dispositions des trois alinéas précédents.
 
 L'Autorité de régulation des communications électroniques et des postes assigne la ressource radioélectrique nécessaire à la transmission des programmes de radio et de télévision dans les conditions prévues à l'article L. 36-7 du code des postes et télécommunications. Lorsqu'elle assigne, réaménage ou retire cette ressource, elle prend en compte les exigences liées aux missions de service public des sociétés prévues à l'article 44 ou à leurs filiales répondant à des obligations de service public et aux missions confiées à la chaîne culturelle européenne par le traité du 2 octobre 1990.
-
-Le Gouvernement présente au Parlement un rapport triennal sur l'exécution des ses missions par la chaîne culturelle européenne.

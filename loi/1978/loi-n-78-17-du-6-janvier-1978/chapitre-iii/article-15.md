@@ -20,6 +20,6 @@ La commission peut charger le président ou le vice-président délégué d'exer
 
 - aux articles 63, 64 et 65 ;
 
-- au dernier alinéa de l'article 69 ;
+- aux deux derniers alinéas de l'article 69, à l'exception des traitements mentionnés aux I ou II de l'article 26 ;
 
 - au premier alinéa de l'article 70.

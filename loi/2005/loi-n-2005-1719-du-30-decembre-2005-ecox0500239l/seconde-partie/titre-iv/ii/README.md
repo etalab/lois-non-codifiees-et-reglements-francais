@@ -13,4 +13,3 @@
 - [Relations avec les collectivités territoriales.](relations-avec-les-collectivites-territoriales)
 - [Sécurité.](securite)
 - [Sécurité sanitaire.](securite-sanitaire)
-- [Transports.](transports)

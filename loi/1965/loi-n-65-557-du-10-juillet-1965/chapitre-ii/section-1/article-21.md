@@ -8,9 +8,9 @@ Il peut prendre connaissance, et copie, à sa demande, et après en avoir donné
 
 Il reçoit, en outre sur sa demande, communication de tout document intéressant le syndicat.
 
-Les membres du conseil syndical sont désignés par l'assemblée générale parmi les copropriétaires, les associés dans le cas prévu par le premier alinéa de l'article 23 de la présente loi, les accédants ou les acquéreurs à terme mentionnés à l'article 41 de la loi n° 84-595 du 12 juillet 1984 (1) définissant la location-accession à la propriété immobilière, leurs conjoints ou leurs représentants légaux. Lorsqu'une personne morale est nommée en qualité de membre du conseil syndical, elle peut s'y faire représenter, à défaut de son représentant légal ou statutaire, par un fondé de pouvoir spécialement habilité à cet effet.
+Les membres du conseil syndical sont désignés par l'assemblée générale parmi les copropriétaires, les associés dans le cas prévu par le premier alinéa de l'article 23 de la présente loi, les accédants ou les acquéreurs à terme, leurs conjoints, les partenaires liés à eux par un pacte civil de solidarité, leurs représentants légaux, ou leurs usufruitiers. Lorsqu'une personne morale est nommée en qualité de membre du conseil syndical, elle peut s'y faire représenter, à défaut de son représentant légal ou statutaire, par un fondé de pouvoir spécialement habilité à cet effet.
 
-Le syndic, son conjoint, ses ascendants ou descendants, ses préposés, même s'ils sont copropriétaires, associés ou acquéreurs à terme, ne peuvent être membres du conseil syndical. Les dispositions du présent alinéa ne sont pas applicables aux syndicats coopératifs.
+Le syndic, son conjoint, le partenaire lié à lui par un pacte civil de solidarité, ses ascendants ou descendants, ses préposés, même s'ils sont copropriétaires, associés ou acquéreurs à terme, ne peuvent être membres du conseil syndical. Les dispositions du présent alinéa ne sont pas applicables aux syndicats coopératifs.
 
 Le conseil syndical élit son président parmi ses membres.
 

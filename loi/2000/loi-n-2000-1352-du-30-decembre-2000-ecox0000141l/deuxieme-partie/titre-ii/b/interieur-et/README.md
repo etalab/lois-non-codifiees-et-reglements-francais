@@ -1,3 +1,0 @@
-# INTERIEUR ET DECENTRALISATION.
-
-- [Article 127](article-127.md)
