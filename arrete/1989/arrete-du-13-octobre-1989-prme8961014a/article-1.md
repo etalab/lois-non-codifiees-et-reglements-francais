@@ -12,17 +12,17 @@ Toutes les espèces de lichens fruticuleux.
 
 Bryophytes
 
-Sphagnum spp.   Sphaignes (toutes les espèces).
+Sphagnum spp. Sphaignes (toutes les espèces).
 
 Leucobryum glaucum (Hedw.) Coussinet des bois Angstr.
 
 Ptéridophytes
 
-Lycopodium annotinum L.    Lycopode à rameaux d'un an.
+Lycopodium annotinum L. Lycopode à rameaux d'un an.
 
-Lycopodium clavatum L.     Lycopode en massue.
+Lycopodium clavatum L. Lycopode en massue.
 
-Osmunda regalis L.         Osmonde royale.
+Osmunda regalis L. Osmonde royale.
 
 Polystichum aculeatum (L.) Roth Polystic à frondes munies d'aiguillons.
 
@@ -40,112 +40,116 @@ Phanérogames angiospermes
 
 1. Monocotylédones :
 
-Asparagus acutifolius L.    Asperge sauvage.
+Asparagus acutifolius L. Asperge sauvage.
 
 Asparagus officinalis L. ssp. prostratus (Dumort.) Corb. Asperge prostrée.
 
-Convallaria maialis L.      Muguet.
+Convallaria maialis L. Muguet.
 
 Rythronium dens-canis L. Dent de chien.
 
-Fritillaria meleagris L.    Fritillaire pintade.
+Fritillaria meleagris L. Fritillaire pintade.
 
-Fritillaria tubiformis GG.  Fritillaire du Dauphiné.
+Fritillaria tubiformis GG. Fritillaire du Dauphiné.
 
-Galanthus nivalis L.        Perce-neige.
+Galanthus nivalis L. Perce-neige.
 
 Hyacinthoides non-scripta (L.) Ch. Jacinthe sauvage.
 
-Iris chamaeiris Bertol.    Iris nain.
+Iris chamaeiris Bertol. Iris nain.
 
-Leucoium vernum L.         Nivéole du printemps.
+Leucoium vernum L. Nivéole du printemps.
 
-Lilium croceum Chaix<      Lis orangé, lis faux-safran.
+Lilium croceum Chaix< Lis orangé, lis faux-safran.
 
-Lilium martagon L.         Lis martagon.
+Lilium martagon L. Lis martagon.
 
-Lilium rubrum Lmk.         Lis de Pompone, Lis turban.
+Lilium rubrum Lmk. Lis de Pompone, Lis turban.
 
-Narcissus bulbocodium L.   Trompette de Méduse.
+Narcissus bulbocodium L. Trompette de Méduse.
 
-Narcissus juncifolius Lagasca  Narcisse à feuilles de jonc.
+Narcissus juncifolius Lagasca Narcisse à feuilles de jonc.
 
-Narcissus poeticus L.      Narcisse des poètes.
+Narcissus poeticus L. Narcisse des poètes.
 
-Narcissus pseudonarcissus L.   Jonquille.
+Narcissus pseudonarcissus L. Jonquille.
 
-Narcissus tazzetta L. s.l.     Narcisses à bouquet du groupe tazette.
+Narcissus tazzetta L. s.l. Narcisses à bouquet du groupe tazette.
 
-Ornithogalum pyrenaicum L.     Aspergette.
+Ornithogalum pyrenaicum L. Aspergette.
 
-Ruscus aculeatus L.            Fragon, petit-houx.
+Ruscus aculeatus L. Fragon, petit-houx.
 
-Tamus communis L.              Tamier commun.
+Tamus communis L. Tamier commun.
 
 2. Dicotylédones :
 
-Aconitum napellus L. s.l.      Aconits du groupe napel.
+Aconitum napellus L. s.l. Aconits du groupe napel.
 
-Aconitum paniculatum Lam.      Aconit paniculé.
+Aconitum paniculatum Lam. Aconit paniculé.
 
-Antennaria dioica (L.) Gaertn.   Pied de chat.
+Antennaria dioica (L.) Gaertn. Pied de chat.
 
-Arnica montana L.              Arnica des montagnes.
+Arnica montana L. Arnica des montagnes.
 
-Artemisia eriantha Ten.        Genépi à fleurs cotonneuses.
+Artemisia eriantha Ten. Genépi à fleurs cotonneuses.
 
-Artemisia genipi Weber         Genépi vrai, genépi noir.
+Artemisia genipi Weber Genépi vrai, genépi noir.
 
-Artemisia glacialis L.      Genépi des glaciers.
+Artemisia glacialis L. Genépi des glaciers.
 
-Artemisia umbelliformis Lam.  Genépi blanc, genépi jaune.
+Artemisia umbelliformis Lam. Genépi blanc, genépi jaune.
 
-Buxus sempervirens L.       Buis.
+Buxus sempervirens L. Buis.
 
 Carlina acanthifolia All. Carline à feuills d'acanthe, chardousse.
 
-Carlina acaulis L.  Carline acaule.
+Carlina acaulis L. Carline acaule.
 
 Cyclamem purpurascens Miller Cyclamem d'Europe.
 
-Crithmum maritimum L.       Criste marine.
+Crithmum maritimum L. Criste marine.
 
-Daphne mezereum L.          Bois-joli.
+Daphne mezereum L. Bois-joli.
 
-Delphinium elatum L.        Dauphinelle élevée.
+Delphinium elatum L. Dauphinelle élevée.
 
-Delphinium fissum Waldst.   Dauphinelle fendue.
+Delphinium fissum Waldst. Dauphinelle fendue.
 
 & Kit.
 
-Dianthus spp.               OEillets (toutes les espèces).
+Dianthus spp. OEillets (toutes les espèces).
 
 Doronicum plantaginium L. Doronic à feuilles de plantain.
 
-Eryngium maritimum L.                 Panicaut de mer.
+Eryngium maritimum L. Panicaut de mer.
 
-Gentiana lutea L.                     Gentiane jaune.
+Euphorbia spinosa L. Euphorbe épineuse.
 
-Helichrysum stoechas (L.) DC.         Immortelles du groupe stoechas.    s.l.
+Gentiana lutea L. Gentiane jaune.
+
+Helichrysum italicum (Roth) G. Don Immortelle d'Italie.
+
+Helichrysum stoechas (L.) DC. Immortelles du groupe stoechas. s.l.
 
 Hypericum nummularium L. Vulnéraire des chartreux.
 
-Ilex aquifolium L.                    Houx.
+Ilex aquifolium L. Houx.
 
-Leontopodium alpinum Cass.            Edelweiss.
+Leontopodium alpinum Cass. Edelweiss.
 
-Limonium spp.                    Lavande de mer (toutes les espèces).
+Limonium spp. Lavande de mer (toutes les espèces).
 
-Otanthus maritimus (L.) Hoffm. et Link.   Diotis blanc.
+Otanthus maritimus (L.) Hoffm. et Link. Diotis blanc.
 
 Papever rhaeticum Leresche. Pavot des Alpes.
 
 Potentilla nitida L. Potentille luisante.
 
-Pulsatilla vulgaris Miller        Anémone pulsatille.
+Pulsatilla vulgaris Miller Anémone pulsatille.
 
-Salicornia spp.      Salicornes (toutes les espèces annuelles).
+Salicornia spp. Salicornes (toutes les espèces annuelles).
 
-Vaccinium spp.       Airelles (toutes les espèces).
+Vaccinium spp. Airelles (toutes les espèces).
 
-Viscum album L.      Gui.
+Viscum album L. Gui.
