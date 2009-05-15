@@ -697,7 +697,6 @@
 - [Arrêté du 19 décembre 2008 (DEVO0827839A)](arrete-du-19-decembre-2008-devo0827839a)
 - [Arrêté du 19 décembre 2008 (DEVP0827677A)](arrete-du-19-decembre-2008-devp0827677a)
 - [Arrêté du 19 décembre 2008 (DEVP0827679A)](arrete-du-19-decembre-2008-devp0827679a)
-- [Arrêté du 19 décembre 2008 (JUSC0828437A)](arrete-du-19-decembre-2008-jusc0828437a)
 - [Arrêté du 19 décembre 2008 (JUSK0822686A)](arrete-du-19-decembre-2008-jusk0822686a)
 - [Arrêté du 19 décembre 2008 (MLVU0820748A)](arrete-du-19-decembre-2008-mlvu0820748a)
 - [Arrêté du 19 décembre 2008 (MLVU0820756A)](arrete-du-19-decembre-2008-mlvu0820756a)
