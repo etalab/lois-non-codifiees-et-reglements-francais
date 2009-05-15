@@ -114,7 +114,6 @@
 - [Décret n°92-911 du 2 septembre 1992 (MENF9203169D)](decret-n92-911-du-2-septembre-1992-menf9203169d)
 - [Décret n°92-912 du 2 septembre 1992 (MENF9203053D)](decret-n92-912-du-2-septembre-1992-menf9203053d)
 - [Décret n°92-916 du 2 septembre 1992 (ECOT9213545D)](decret-n92-916-du-2-septembre-1992-ecot9213545d)
-- [Décret n°92-918 du 2 septembre 1992 (EQUM9201452D)](decret-n92-918-du-2-septembre-1992-equm9201452d)
 - [Décret n°92-922 du 2 septembre 1992 (SPSS9201760D)](decret-n92-922-du-2-septembre-1992-spss9201760d)
 - [Décret n°92-923 du 2 septembre 1992 (SPSS9202055D)](decret-n92-923-du-2-septembre-1992-spss9202055d)
 - [Décret n°93-171 du 2 février 1993 (PRMG9370024D)](decret-n93-171-du-2-fevrier-1993-prmg9370024d)
