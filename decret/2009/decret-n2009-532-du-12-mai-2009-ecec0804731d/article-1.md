@@ -1,0 +1,3 @@
+# Article 1
+
+Les dispositions des paragraphes 2 et 3 de l'article 1er, des articles 2 à 7, du paragraphe 1er de l'article 8, de l'article 9, des paragraphes 1er à 3 de l'article 10, de l'article 12, du paragraphe 1er de l'article 13 et de l'article 28 du règlement (CE) n° 1924/2006 du 20 décembre 2006 susvisé ainsi que de l'annexe à laquelle ces articles renvoient, dans leur rédaction issue des règlements (CE) n° 107/2008 et (CE) n° 109/2008 du Parlement européen et du Conseil du 15 janvier 2008 susvisés, constituent les mesures d'exécution prévues à l'article L. 214-1 du code de la consommation. Il en est de même des dispositions des règlements communautaires, ayant le même objet, qui les modifieraient ou seraient pris pour leur application.
