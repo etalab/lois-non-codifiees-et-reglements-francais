@@ -4,7 +4,7 @@ Les demandes d'aides sont transmises à la direction du développement des médi
 
 Ces demandes doivent être accompagnées des documents suivants :
 
-1° Une déclaration, certifiée par un membre de l'ordre des experts-comptables et des comptables agréés, faisant apparaître le nombre d'exemplaires distribués par portage en France au cours des trois années précédant celle de l'attribution de l'aide et le nombre d'exemplaires supplémentaires portés en France entre le 1er janvier et le 31 décembre de chacune des deux années précédant celle de l'attribution de l'aide ;
+1° Une déclaration, certifiée par un membre de l'ordre des experts-comptables et des comptables agréés, faisant apparaître le nombre d'exemplaires distribués par portage en France au cours des trois années précédant celle de l'attribution de l'aide et le nombre d'exemplaires supplémentaires portés en France entre le 1er janvier et le 31 décembre de chacune des  trois années précédant celle de l'attribution de l'aide ;
 
 2° Un exemplaire de chacun des trois derniers numéros parus avant la date du dépôt de la demande ;
 
