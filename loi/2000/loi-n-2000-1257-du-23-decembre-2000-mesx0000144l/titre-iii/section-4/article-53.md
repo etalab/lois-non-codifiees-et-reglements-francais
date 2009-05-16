@@ -61,3 +61,5 @@ IX. - Les demandes d'indemnisation des préjudices causés par l'exposition à l
 X. - Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
 
 Le délai fixé au IV est porté à neuf mois pendant l'année qui suit la publication du décret mentionné à l'alinéa précédent.
+
+XI. - Le fonds peut gérer, pour le compte de la Nouvelle-Calédonie, un dispositif d'indemnisation des victimes de l'amiante défini par cette collectivité dans le cadre de ses compétences, dans des conditions fixées par une convention conclue entre le fonds et la Nouvelle-Calédonie.

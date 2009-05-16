@@ -6,6 +6,7 @@
 - [LOI n° 2008-1330 du 17 décembre 2008 (BCFX0823210L)](loi-n-2008-1330-du-17-decembre-2008-bcfx0823210l)
 - [LOI n° 2008-1350 du 19 décembre 2008 (IOCX0827772L)](loi-n-2008-1350-du-19-decembre-2008-iocx0827772l)
 - [LOI n° 2008-1425 du 27 décembre 2008 (BCFX0821595L)](loi-n-2008-1425-du-27-decembre-2008-bcfx0821595l)
+- [LOI n° 2008-174 du 25 février 2008 (JUSX0768872L)](loi-n-2008-174-du-25-fevrier-2008-jusx0768872l)
 - [LOI n° 2008-518 du 3 juin 2008 (ESRX0700048L)](loi-n-2008-518-du-3-juin-2008-esrx0700048l)
 - [LOI n° 2008-595 du 25 juin 2008 (DEVX0771876L)](loi-n-2008-595-du-25-juin-2008-devx0771876l)
 - [LOI n° 2008-660 du 4 juillet 2008 (DEVX0809024L)](loi-n-2008-660-du-4-juillet-2008-devx0809024l)

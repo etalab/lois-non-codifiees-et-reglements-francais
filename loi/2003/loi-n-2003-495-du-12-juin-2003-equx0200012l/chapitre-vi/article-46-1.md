@@ -11,3 +11,5 @@ II. - Chacun des articles L. 243-1, L. 244-1 et L. 245-1 du code de la route est
 3° Les trois derniers alinéas reproduisant les articles L. 234-10 et L. 234-11 du code de la route sont supprimés.
 
 III. - Les dispositions des articles L. 243-1, L. 244-1 et L. 245-1 du code de la route reproduisant l'article L. 234-11 de ce code, ainsi que celles du deuxième alinéa de l'article 434-10 du code pénal, dans leur rédaction antérieure à la publication de l'ordonnance n° 2004-567 du 17 juin 2004, demeurent applicables, en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna, aux infractions commises avant cette publication.
+
+IV. - Les III et IV de l'article 8 de la présente loi sont applicables en Nouvelle-Calédonie.

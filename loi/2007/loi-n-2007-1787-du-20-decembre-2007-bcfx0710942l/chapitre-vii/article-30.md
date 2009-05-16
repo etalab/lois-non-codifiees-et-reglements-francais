@@ -2,7 +2,7 @@
 
 I. - L'article 1er de la présente loi est applicable à Mayotte, dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie.
 
-II. - Pour l'application du I de l'article 2 de la présente loi à Mayotte, dans les îles Wallis et Futuna, en Polynésie française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises, les mots : en matière prud'homale sont remplacés par les mots : devant le tribunal du travail.
+II. - Pour l'application du I de l'article 2 de la présente loi à Mayotte, dans les îles Wallis et Futuna, en Polynésie française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises, les mots : en matière prud'homalesont remplacés par les mots : devant le tribunal du travail.
 
 III. - Le III de l'article 8 de la présente loi est applicable à Mayotte et dans les îles Wallis et Futuna.
 
@@ -10,7 +10,7 @@ IV. - Le 2° du III de l'article 12 de la présente loi est applicable à Mayott
 
 V. - 1. Les V à VII de l'article 13 de la présente loi sont applicables aux communes de Mayotte et de la Polynésie française sous réserve de l'adaptation suivante :
 
-Pour l'application du 4° de l'article L. 2122-22 du code général des collectivités territoriales aux communes de la Polynésie française,les mots : à un seuil défini par décret sont supprimés.
+Pour l'application du 4° de l'article L. 2122-22 du code général des collectivités territoriales aux communes de la Polynésie française,les mots : à un seuil défini par décretsont supprimés.
 
 2. Le 1 du VIII du même article 13 est applicable aux communes de Mayotte.
 

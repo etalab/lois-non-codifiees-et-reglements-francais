@@ -14,7 +14,7 @@ Le conseil de l'accès au droit qui exerce les attributions dévolues au conseil
 
 6° La chambre des notaires de Polynésie française ;
 
-7° Un représentant des huissiers de justice ;
+7° Un représentant des huissiers de justice désigné par le procureur général près la cour d'appel ;
 
 8° Une association oeuvrant dans le domaine de l'accès au droit désignée conjointement par le président du tribunal de première instance et les membres mentionnés aux 3° à 7°, sur la proposition du haut-commissaire.
 
