@@ -78,6 +78,7 @@
 - [Décret n°2000-716 du 24 juillet 2000 (MESM0021328D)](decret-n2000-716-du-24-juillet-2000-mesm0021328d)
 - [Décret n°2000-788 du 24 août 2000 (MAEA0020136D)](decret-n2000-788-du-24-aout-2000-maea0020136d)
 - [Décret n°2000-789 du 24 août 2000 (MAEA0020137D)](decret-n2000-789-du-24-aout-2000-maea0020137d)
+- [Décret n°2000-796 du 24 août 2000 (VILC0020484D)](decret-n2000-796-du-24-aout-2000-vilc0020484d)
 - [Décret n°2000-800 du 24 août 2000 (INTC0000230D)](decret-n2000-800-du-24-aout-2000-intc0000230d)
 - [Décret du 25 août 2000 (ECOC0000037D)](decret-du-25-aout-2000-ecoc0000037d)
 - [Décret du 25 août 2000 (ECOC0000039D)](decret-du-25-aout-2000-ecoc0000039d)

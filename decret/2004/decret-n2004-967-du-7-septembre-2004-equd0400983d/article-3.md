@@ -6,7 +6,7 @@ L'Observatoire des territoires est présidé par le ministre chargé de l'aména
 
 Le délégué à l'aménagement du territoire et à l'action régionale, ou son représentant ;
 
-Le délégué interministériel à la ville et au développement social urbain, ou son représentant ;
+Le         secrétaire général du comité interministériel des villes, ou son représentant ;
 
 Le directeur général de l'Institut national de la statistique et des études économiques, ou son représentant ;
 

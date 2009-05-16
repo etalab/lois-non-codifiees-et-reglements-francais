@@ -26,6 +26,6 @@ Dans la limite de ses attributions, le ministre auprès du Premier ministre, cha
 
 ― la direction de l'hospitalisation et de l'organisation des soins ;
 
-― la délégation interministérielle à la ville et au développement social urbain ;
+― la         secrétariat général du comité interministériel des villes ;
 
 ― la délégation générale à l'emploi et à la formation professionnelle.

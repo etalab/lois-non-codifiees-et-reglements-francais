@@ -2,7 +2,7 @@
 
 Liste des zones de redynamisation urbaine des communes des départements d'outre-mer.
 
-Les documents relatifs aux délimitations rue par rue des quartiers figurant dans cette liste peuvent être consultés à la délégation interministérielle à la ville et au développement social urbain, 194, avenue du Président-Wilson, 93217 La Plaine-Saint-Denis Cedex, auprès des préfectures et des directions des services fiscaux des départements concernés et auprès des mairies des communes concernées.
+Les documents relatifs aux délimitations rue par rue des quartiers figurant dans cette liste peuvent être consultés à la         secrétariat général du comité interministériel des villes, 194, avenue du Président-Wilson, 93217 La Plaine-Saint-Denis Cedex, auprès des préfectures et des directions des services fiscaux des départements concernés et auprès des mairies des communes concernées.
 
 DEPARTEMENT : Guadeloupe (971).
 
@@ -12,7 +12,7 @@ QUARTIERS : Rivière des Pères.
 
 COMMUNE : Les Abymes.
 
-QUARTIERS : Grand Camp ; Boissard (1)  ; sortie Sud-Est (1) :
+QUARTIERS : Grand Camp ; Boissard (1) ; sortie Sud-Est (1) :
 
 Carénage (1).
 

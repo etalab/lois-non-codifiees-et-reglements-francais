@@ -4,25 +4,25 @@ L'établissement est administré par un conseil d'administration qui comprend vi
 
 1° Dix membres de droit :
 
-- le directeur du budget au ministère chargé du budget ou son représentant ;
+-le directeur du budget au ministère chargé du budget ou son représentant ;
 
-- le directeur des musées de France au ministère chargé de la culture ou son représentant ;
+-le directeur des musées de France au ministère chargé de la culture ou son représentant ;
 
-- le délégué au développement et aux affaires internationales au ministère chargé de la culture ou son représentant ;
+-le délégué au développement et aux affaires internationales au ministère chargé de la culture ou son représentant ;
 
-- le directeur général de l'enseignement scolaire au ministère chargé de l'éducation nationale ou son représentant ;
+-le directeur général de l'enseignement scolaire au ministère chargé de l'éducation nationale ou son représentant ;
 
-- le directeur de la population et des migrations au ministère chargé des affaires sociales ou son représentant ;
+-le directeur de la population et des migrations au ministère chargé des affaires sociales ou son représentant ;
 
-- le directeur des libertés publiques et des affaires juridiques au ministère chargé de l'intérieur ou son représentant ;
+-le directeur des libertés publiques et des affaires juridiques au ministère chargé de l'intérieur ou son représentant ;
 
-- le directeur général de la recherche et de l'innovation au ministère chargé de la recherche ou son représentant ;
+-le directeur général de la recherche et de l'innovation au ministère chargé de la recherche ou son représentant ;
 
-- le délégué interministériel à la ville et au développement social urbain ou son représentant ;
+-le         secrétaire général du comité interministériel des villes ou son représentant ;
 
-- le directeur général de l'Agence nationale pour la cohésion sociale et l'égalité des chances ou son représentant ;
+-le directeur général de l'Agence nationale pour la cohésion sociale et l'égalité des chances ou son représentant ;
 
-- le président du Haut Conseil à l'intégration ou son représentant ;
+-le président du Haut Conseil à l'intégration ou son représentant ;
 
 2° Deux représentants de la ville de Paris ;
 

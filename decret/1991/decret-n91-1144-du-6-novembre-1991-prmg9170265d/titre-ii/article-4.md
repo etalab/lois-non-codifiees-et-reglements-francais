@@ -10,7 +10,7 @@ Le directeur général de l'administration et de la fonction publique ou son rep
 
 Le directeur du budget ou son représentant ;
 
-Le délégué interministériel à la ville et au développement social urbain ou son représentant ;
+Le         secrétaire général du comité interministériel des villes ou son représentant ;
 
 Cinq personnalités choisies en raison de leur compétence, dont une notamment dans le domaine de la politique de la ville.
 

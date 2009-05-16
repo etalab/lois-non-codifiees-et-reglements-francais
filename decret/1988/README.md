@@ -169,7 +169,6 @@
 - [Décret n°49-1655 du 28 décembre 1949](decret-n49-1655-du-28-decembre-1949)
 - [Décret n°78-721 du 28 juin 1978](decret-n78-721-du-28-juin-1978)
 - [Décret n°88-1012 du 28 octobre 1988 (MENU8801507D)](decret-n88-1012-du-28-octobre-1988-menu8801507d)
-- [Décret n°88-1015 du 28 octobre 1988 (EQUX8800138D)](decret-n88-1015-du-28-octobre-1988-equx8800138d)
 - [Décret n°88-1189 du 28 décembre 1988 (BUDZ8800015D)](decret-n88-1189-du-28-decembre-1988-budz8800015d)
 - [Décret n°88-295 du 28 mars 1988 (DOME8800009D)](decret-n88-295-du-28-mars-1988-dome8800009d)
 - [Décret n°88-461 du 28 avril 1988 (PTTT8800385D)](decret-n88-461-du-28-avril-1988-pttt8800385d)
