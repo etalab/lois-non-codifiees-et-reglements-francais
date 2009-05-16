@@ -102,28 +102,74 @@ d) Au septième alinéa, les mots : "de l'article 3" sont remplacés par les mot
 
 VII. - Pour l'application de la présente loi à Saint-Barthélemy :
 
-1° A l'article 1er :
+1° Les mots : " Dans chaque département " , " dans le département ", " pour le département " et " du département " sont respectivement remplacés par les mots : " A Saint-Barthélemy ", " à Saint-Barthélemy ", " pour Saint-Barthélemy " et " de Saint-Barthélemy " ;
 
-a) Au début, les mots : " Dans chaque département " sont remplacés par les mots : " A Saint-Barthélemy " ;
+2° La référence au préfet est remplacée par la référence au représentant de l'Etat ;
 
-b) Sont ajoutés les mots : " ou à défaut au Journal officiel de Saint-Barthélemy " ;
-
-2° Aux 2° et 3° de l'article 2, les mots : " dans le département ", " pour le département " et " du département " sont respectivement remplacés par les mots : " à Saint-Barthélemy ", " pour Saint-Barthélemy " et " de Saint-Barthélemy " ;
-
-3° Aux articles 2 à 5, le mot : " préfet " est remplacé, par sept fois, par les mots : " représentant de l'Etat " ;
+3° A l'article 1er, après les mots : " prévues à l'article 2 " sont insérés les mots : " ou à défaut au Journal officiel de Saint-Barthélemy " ;
 
 4° A l'article 2 :
 
 a) Le premier alinéa est ainsi rédigé :
 
-" Tous les journaux d'information générale, judiciaire ou technique ne consacrant pas à la publicité plus de deux tiers de leur surface et justifiant une diffusion par abonnement ou par dépositaires sont inscrits de droit sur la liste prévue ci-dessous, sous les conditions suivantes : " ;
+Tous les journaux d'information générale, judiciaire ou technique ne consacrant pas à la publicité plus des deux tiers de leur surface et justifiant une diffusion par abonnements ou par dépositaires sont inscrits de droit sur la liste prévue ci-dessous, sous les conditions suivantes : ;
 
-b) Au 3°, le mot : " décret " est remplacé par les mots : " arrêté du représentant de l'Etat " et les mots : " ou de ses arrondissements " sont supprimés ;
+b) Le mot : " décret " est remplacé par les mots : " arrêté du représentant de l'Etat " ;
 
-c) Au cinquième alinéa, le mot : " départementale " est supprimé, après le mot : " représentant ", sont insérés les mots : " ou, à défaut, du greffier du tribunal de grande instance ", le mot : " trois " et les mots : " deux directeurs de journaux " sont remplacés respectivement par le mot : " deux " et par les mots : " un directeur de journal " ;
+c) Les mots : " du département ou de ses arrondissements " sont remplacés par les mots : " de Saint-Barthélemy " ;
 
-d) L'avant-dernier alinéa est ainsi rédigé :
+d) Les mots : " chambre départementale des notaires " sont remplacés par les mots : " chambre des notaires " ;
 
-" Cette liste de journaux susceptibles de recevoir les annonces légales à Saint-Barthélemy est publiée par arrêté du représentant de l'Etat. " ;
+e) Après le mot : " représentant " sont ajoutés les mots : " ou, à défaut, d'un greffier du tribunal de grande instance désigné par son président " ;
 
-5° A la fin du premier alinéa de l'article 3, les mots : " du département " sont remplacés par les mots : " de Saint-Barthélemy ".
+f) Les mots : " de trois directeurs de journaux " sont remplacés par les mots : " de deux directeurs de journaux " et les mots : " dont au moins deux directeurs de journaux " sont remplacés par les mots : " dont au moins un directeur de journal " ;
+
+g) Le sixième alinéa est remplacé par les dispositions suivantes :
+
+Cette liste de journaux susceptibles de recevoir les annonces légales à Saint-Barthélemy est publiée par arrêté du représentant de l'Etat.
+
+VIII. - Pour l'application de la présente loi à Saint-Martin :
+
+1° Les mots : " Dans chaque département ", " dans le département ", " pour le département " et " du département " sont respectivement remplacés par les mots : " A Saint-Martin ", " à Saint-Martin ", " pour Saint-Martin " et " de Saint-Martin " ;
+
+2° La référence au préfet est remplacée par la référence au représentant de l'Etat ;
+
+3° A l'article 1er, après les mots : " prévues à l'article 2 " sont insérés les mots : " ou, à défaut au Journal officiel de Saint-Martin " ;
+
+4° A l'article 2 :
+
+a) Le mot : " décret " est remplacé par les mots : " arrêté du représentant de l'Etat " ;
+
+b) Les mots : " du département ou de ses arrondissements " sont remplacés par les mots : " de Saint-Martin " ;
+
+c) Les mots : " chambre départementale des notaires " sont remplacés par les mots : " chambre des notaires " ;
+
+d) Après le mot : " représentant " sont ajoutés les mots : " ou, à défaut, d'un greffier du tribunal de grande instance désigné par son président " ;
+
+e) Les mots : " de trois directeurs de journaux " sont remplacés par les mots : " de deux directeurs de journaux " et les mots : " dont au moins deux directeurs de journaux " sont remplacés par les mots : " dont au moins un directeur de journal " ;
+
+f) Le sixième alinéa est remplacé par les dispositions suivantes :
+
+Cette liste de journaux susceptibles de recevoir les annonces légales à Saint-Martin est publiée par arrêté du représentant de l'Etat.
+
+IX. - Pour l'application de la présente loi à Saint-Pierre-et-Miquelon :
+
+1° Les mots : " Dans chaque département ", " dans le département ", " pour le département " et " du département " sont respectivement remplacés par les mots : " A Saint-Pierre-et-Miquelon ", " à Saint-Pierre-et-Miquelon ", " pour Saint-Pierre-et-Miquelon " et " de Saint-Pierre-et-Miquelon " ;
+
+2° La référence au préfet est remplacée par la référence au représentant de l'Etat ;
+
+3° A l'article 1er, après les mots : " prévues à l'article 2 " sont insérés les mots : " ou, à défaut, au Journal officiel de Saint-Pierre-et-Miquelon " ;
+
+4° A l'article 2 :
+
+a) Le mot : " décret " est remplacé par les mots : " arrêté du représentant de l'Etat " ;
+
+b) Les mots : " du département ou de ses arrondissements " sont remplacés par les mots : " de Saint-Pierre-et-Miquelon " ;
+
+c) Après le mot : " représentant " sont ajoutés les mots : " ou, à défaut, d'un greffier du tribunal de première instance désigné par son président " ;
+
+d) Les mots : " de trois directeurs de journaux " sont remplacés par les mots : " de deux directeurs de journaux " et les mots : " dont au moins deux directeurs de journaux " sont remplacés par les mots : " dont au moins un directeur de journal " ;
+
+e) Le sixième alinéa est remplacé par les dispositions suivantes :
+
+Cette liste de journaux susceptibles de recevoir les annonces légales à Saint-Pierre-et-Miquelon est publiée par arrêté du représentant de l'Etat.

@@ -4,7 +4,7 @@ La première fraction des aides prévues à l'article 8 est attribuée :
 
 -soit aux partis et groupements politiques qui ont présenté lors du plus récent renouvellement de l'Assemblée nationale des candidats ayant obtenu chacun au moins 1 % des suffrages exprimés dans au moins cinquante circonscriptions ;
 
--soit aux partis et groupements politiques qui n'ont présenté des candidats lors du plus récent renouvellement de l'Assemblée nationale que dans un ou plusieurs départements d'outre-mer, ou à Saint-Pierre-et-Miquelon, à Mayotte, en Nouvelle-Calédonie, en Polynésie française ou dans les îles Wallis et Futuna et dont les candidats ont obtenu au moins 1 % des suffrages exprimés dans l'ensemble des circonscriptions dans lesquelles ils se sont présentés.
+-soit aux partis et groupements politiques qui n'ont présenté des candidats lors du plus récent renouvellement de l'Assemblée nationale que dans un ou plusieurs départements d'outre-mer, ou à Saint-Pierre-et-Miquelon, Saint-Barthélemy, Saint-Martin, à Mayotte, en Nouvelle-Calédonie, en Polynésie française ou dans les îles Wallis et Futuna et dont les candidats ont obtenu au moins 1 % des suffrages exprimés dans l'ensemble des circonscriptions dans lesquelles ils se sont présentés.
 
 La répartition est effectuée proportionnellement au nombre de suffrages obtenus au premier tour de ces élections par chacun des partis et groupements en cause. Il n'est pas tenu compte des suffrages obtenus par les candidats déclarés inéligibles au titre de l'article L.O. 128 du code électoral.
 

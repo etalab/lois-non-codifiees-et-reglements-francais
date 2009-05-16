@@ -12,8 +12,6 @@ Il est ordonnateur des recettes et des dépenses civiles de l'Etat et peut dél�
 
 En matière de défense, il exerce les fonctions prévues par la législation et la réglementation en vigueur en Polynésie française.
 
-Il peut proclamer l'état d'urgence dans les conditions prévues par les lois et décrets. Il en rend compte au ministre chargé de l'outre-mer et en informe le président de la Polynésie française.
-
 Le haut-commissaire est habilité à engager l'Etat envers la Polynésie française, les communes ou leurs groupements et à s'exprimer au nom de l'Etat devant leurs assemblées délibérantes.
 
 Il signe, au nom de l'Etat, les conventions conclues entre l'Etat et la Polynésie française.

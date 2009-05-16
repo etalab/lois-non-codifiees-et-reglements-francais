@@ -543,7 +543,6 @@
 - [Décret n°2007-839 du 11 mai 2007 (SANH0721624D)](decret-n2007-839-du-11-mai-2007-sanh0721624d)
 - [Décret n°2007-840 du 11 mai 2007 (SANG0721638D)](decret-n2007-840-du-11-mai-2007-sang0721638d)
 - [Décret n°2007-843 du 11 mai 2007 (SANH0721625D)](decret-n2007-843-du-11-mai-2007-sanh0721625d)
-- [Décret du 12 décembre 1874](decret-du-12-decembre-1874)
 - [Décret du 12 janvier 2007 (AGRP0602465D)](decret-du-12-janvier-2007-agrp0602465d)
 - [Décret du 12 janvier 2007 (AGRP0602466D)](decret-du-12-janvier-2007-agrp0602466d)
 - [Décret du 12 janvier 2007 (AGRP0602469D)](decret-du-12-janvier-2007-agrp0602469d)

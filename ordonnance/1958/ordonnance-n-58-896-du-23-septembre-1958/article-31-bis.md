@@ -1,3 +1,3 @@
 # Article 31 bis
 
-Le 2° de l'article 31 de la présente ordonnance est applicable à Mayotte.
+Les dispositions de l'article 31 de la présente ordonnance sont applicables à Mayotte ainsi qu'aux communes et groupements de communes de Polynésie française et de Nouvelle-Calédonie et à leurs établissements publics.

@@ -7,3 +7,5 @@ Dans toutes les dispositions législatives en vigueur qui ne sont pas de nature 
 2° La référence à l'assemblée territoriale de la Nouvelle-Calédonie est remplacée par la référence au congrès de la Nouvelle-Calédonie ;
 
 3° La référence à l'exécutif de la Nouvelle-Calédonie est remplacée par la référence au gouvernement de la Nouvelle-Calédonie.
+
+Dans toutes les dispositions législatives en vigueur et dans les intitulés des lois, des ordonnances et des décrets, les mots : " Nouvelle-Calédonie et dépendances " sont remplacés par les mots : " Nouvelle-Calédonie ".

@@ -1,3 +1,0 @@
-# Article 7
-
-Les communes de Nouvelle-Calédonie peuvent créer des centres communaux d'action sociale dont les attributions, l'organisation et le fonctionnement sont régis par les dispositions des premier, deuxième et quatrième alinéas de l'article 137 et des articles 138 à 140 du code de la famille et de l'aide sociale. Les centres communaux d'action sociale ainsi créés disposent des biens, exercent les droits et assurent les obligations des bureaux de bienfaisance et des bureaux d'assistance auxquels ils se substituent, sans qu'il puisse être porté atteinte aux affectations régulièrement établies.

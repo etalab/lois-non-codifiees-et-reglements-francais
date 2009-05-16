@@ -6,6 +6,4 @@ Pour l'exercice de ces compétences dans le territoire, la République dispose d
 
 L'administration de la justice relève également de la République.
 
-Le territoire des îles Wallis et Futuna fait partie de la zone de défense du Pacifique. Les forces de terre, de mer et de l'air stationnées dans ce territoire relèvent de l'autorité du haut-commissaire de la République dans l'océan Pacifique.
-
 La République assume la charge des dépenses de fonctionnement et d'équipement des services visés ci-dessus.

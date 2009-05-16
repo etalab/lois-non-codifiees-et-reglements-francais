@@ -1,3 +1,3 @@
 # Article 2
 
-Le présent décret sera soumis à la ratification des Chambres, conformément aux dispositions de l'article 36 de la loi du 28 février 1934.
+Les dispositions du présent décret sont applicables dans les collectivités d'outre-mer régies par l'article 74 de la Constitution et en Nouvelle-Calédonie.
