@@ -6,6 +6,6 @@ Le montant de la part fixe de l'indemnité d'activité et de service peut être 
 
 Ce complément forfaitaire n'est pas attribué aux membres du corps militaire du contrôle général des armées qui disposent à titre permanent d'un véhicule de service pour l'exercice de leurs fonctions.
 
-Le bénéfice du complément forfaitaire exclut la perception des indemnités kilométriques prévues aux articles 22 à 29 du décret n° 92-159 du 21 février 1992 susvisé.
+Le bénéfice du complément forfaitaire exclut la perception des indemnités kilométriques prévues au décret 2009-545 du 14 mai 2009 fixant les conditions et les modalités de règlement des frais occasionnés par les déplacements temporaires du personnel militaire.
 
 Le montant de la part fixe, du complément forfaitaire et le montant maximum de la part variable de l'indemnité d'activité et de service sont fixés par arrêté conjoint des ministres chargés de la défense, du budget et de la fonction publique.
