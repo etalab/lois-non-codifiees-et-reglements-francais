@@ -1,0 +1,3 @@
+# Article 5
+
+La valeur professionnelle de l'agent est appréciée en tenant compte, d'une part, des résultats obtenus par rapport aux objectifs assignés initialement ou révisés, le cas échéant, au cours de l'année de référence et, d'autre part, de sa manière de servir évaluée au regard de ses compétences techniques, son efficacité, ses qualités relationnelles dans l'exercice des fonctions, ses capacités d'initiative, d'adaptation et d'organisation du travail, son sens du service public, ses capacités à exercer des responsabilités de niveau supérieur et, le cas échéant, ses capacités à animer, à gérer et à contrôler une équipe.
