@@ -19,7 +19,7 @@ En application du troisième alinéa de l'article 2 du décret du 14 janvier 200
 </tr>
 <tr>
 <td>
-<p>Adjoint de classe exceptionnelle. </p>
+<p>Personnel de la catégorie A3 de classe exceptionnelle</p>
 </td>
 <td>
 <p>Agents de catégorie C rémunérés en échelle nouvel espace indiciaire. </p>
@@ -27,7 +27,7 @@ En application du troisième alinéa de l'article 2 du décret du 14 janvier 200
 </tr>
 <tr>
 <td>
-<p>Adjoint de classe supérieure. </p>
+<p>Personnel de la catégorie A3 de classe supérieure </p>
 </td>
 <td>
 <p>Agents de catégorie C rémunérés en échelle 5. </p>
@@ -35,7 +35,7 @@ En application du troisième alinéa de l'article 2 du décret du 14 janvier 200
 </tr>
 <tr>
 <td>
-<p>Adjoint de classe normale. </p>
+<p>Personnel de la catégorie A3 de classe normale</p>
 </td>
 <td>
 <p>Agents de catégorie C rémunérés en échelle 4. </p>
@@ -43,7 +43,7 @@ En application du troisième alinéa de l'article 2 du décret du 14 janvier 200
 </tr>
 <tr>
 <td>
-<p>Secrétaire de classe normale dont la rémunération est au plus égale à celle qui correspond à l'indice brut 380. </p>
+<p>Personnel de la catégorie A2 de classe normale dont la rémunération est au plus égale à celle qui correspond à l'indice brut 380</p>
 </td>
 <td>
 <p>Agents du 1er grade de la catégorie B.</p>

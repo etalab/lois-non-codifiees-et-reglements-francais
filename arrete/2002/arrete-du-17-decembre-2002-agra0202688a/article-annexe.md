@@ -47,7 +47,7 @@ PERSONNELS TECHNIQUES
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Ingénieurs de classe principale</p>
+<p>Personnels de la catégorie T1 de classe principale </p>
 </td>
 <td width="227">
 <p align="center">11 872</p>
@@ -55,7 +55,7 @@ PERSONNELS TECHNIQUES
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Ingénieurs de classe normale.</p>
+<p>Personnels de la catégorie T1 de classe normale</p>
 </td>
 <td width="227">
 <p align="center">8 116</p>
@@ -63,7 +63,7 @@ PERSONNELS TECHNIQUES
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Techniciens de classe exceptionnelle</p>
+<p>Personnels de la catégorie T2 de classe exceptionnelle</p>
 </td>
 <td width="227">
 <p align="center">6 193</p>
@@ -71,7 +71,7 @@ PERSONNELS TECHNIQUES
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Techniciens de classe supérieure</p>
+<p>Personnels de la catégorie T2 de classe supérieure</p>
 </td>
 <td width="227">
 <p align="center">6 079</p>
@@ -79,7 +79,7 @@ PERSONNELS TECHNIQUES
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Techniciens de classe normale</p>
+<p>Personnels de la catégorie T2 de classe normale</p>
 </td>
 <td width="227">
 <p align="center">5 770</p>
@@ -111,7 +111,7 @@ PERSONNELS ADMINISTRATIFS
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>- attachés de classe exceptionnelle</p>
+<p>Personnels de la catégorie A1 de classe exceptionnelle</p>
 </td>
 <td width="227">
 <p align="center">8 333</p>
@@ -119,7 +119,7 @@ PERSONNELS ADMINISTRATIFS
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>- attachés de classe supérieure</p>
+<p>Personnels de la catégorie A1 de classe supérieure</p>
 </td>
 <td width="227">
 <p align="center">5 707</p>
@@ -127,7 +127,7 @@ PERSONNELS ADMINISTRATIFS
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>- attachés de classe normale</p>
+<p>Personnels de la catégorie A1 de classe normale</p>
 </td>
 <td width="227">
 <p align="center">3 766</p>
@@ -135,7 +135,7 @@ PERSONNELS ADMINISTRATIFS
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Attachés de classe exceptionnelle</p>
+<p>Personnels de la catégorie A1 de classe exceptionnelle</p>
 </td>
 <td width="227">
 <p align="center">5 380</p>
@@ -143,7 +143,7 @@ PERSONNELS ADMINISTRATIFS
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Attachés de classe supérieure</p>
+<p>Personnels de la catégorie A1 de classe supérieure</p>
 </td>
 <td width="227">
 <p align="center">3 685</p>
@@ -151,7 +151,7 @@ PERSONNELS ADMINISTRATIFS
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Attachés de classe normale</p>
+<p>Personnels de la catégorie A1 de classe normale</p>
 </td>
 <td width="227">
 <p align="center">2 441</p>
@@ -159,7 +159,7 @@ PERSONNELS ADMINISTRATIFS
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Secrétaires de classe exceptionnelle</p>
+<p>Personnels de la catégorie A2 de classe exceptionnelle</p>
 </td>
 <td width="227">
 <p align="center">2 461</p>
@@ -167,7 +167,7 @@ PERSONNELS ADMINISTRATIFS
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Secrétaires de classe supérieure</p>
+<p>Personnels de la catégorie A2 de classe supérieure</p>
 </td>
 <td width="227">
 <p align="center">2 303</p>
@@ -175,7 +175,7 @@ PERSONNELS ADMINISTRATIFS
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Secrétaires de classe normale</p>
+<p>Personnels de la catégorie A2 de classe normale</p>
 </td>
 <td width="227">
 <p align="center">1 906</p>
@@ -183,7 +183,7 @@ PERSONNELS ADMINISTRATIFS
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Adjoints de classe exceptionnelle</p>
+<p>Personnels de la catégorie A3 de classe normale</p>
 </td>
 <td width="227">
 <p align="center">2 186</p>
@@ -191,7 +191,7 @@ PERSONNELS ADMINISTRATIFS
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Adjoints de classe supérieure</p>
+<p>Personnels de la catégorie A3 de classe supérieure</p>
 </td>
 <td width="227">
 <p align="center">1 650</p>
@@ -199,7 +199,7 @@ PERSONNELS ADMINISTRATIFS
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Adjoints de classe normale</p>
+<p>Personnels de la catégorie A3 de classe normale</p>
 </td>
 <td width="227">
 <p align="center">1 615</p>
