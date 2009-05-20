@@ -36,7 +36,7 @@ La composition de ces commissions est fixée ainsi qu'il suit :
 </tr>
 <tr>
 <td valign="top">
-<p>N° 4</p>
+<p>Magasinier des bibliothèques :</p>
 </td>
 <td valign="top">
 <br/>
@@ -53,24 +53,7 @@ La composition de ces commissions est fixée ainsi qu'il suit :
 </tr>
 <tr>
 <td valign="top">
-<p>Magasinier en chef :</p>
-</td>
-<td valign="top">
-<br/>
-</td>
-<td valign="top">
-<br/>
-</td>
-<td valign="top">
-<br/>
-</td>
-<td valign="top">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p>Magasinier en chef principal</p>
+<p>Magasinier principal de 1re classe</p>
 </td>
 <td valign="top">
 <p align="center">2</p>
@@ -79,66 +62,15 @@ La composition de ces commissions est fixée ainsi qu'il suit :
 <p align="center">2</p>
 </td>
 <td valign="top">
-<br/>
+<p align="center">8</p>
 </td>
 <td valign="top">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p>Magasinier en chef</p>
-</td>
-<td valign="top">
-<p align="center">2</p>
-</td>
-<td valign="top">
-<p align="center">2</p>
-</td>
-<td valign="top">
-<p align="center">4</p>
-</td>
-<td valign="top">
-<p align="center">4</p>
+<p align="center">8</p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<p>N° 5</p>
-</td>
-<td valign="top">
-<br/>
-</td>
-<td valign="top">
-<br/>
-</td>
-<td valign="top">
-<br/>
-</td>
-<td valign="top">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p>Magasinier spécialisé :</p>
-</td>
-<td valign="top">
-<br/>
-</td>
-<td valign="top">
-<br/>
-</td>
-<td valign="top">
-<br/>
-</td>
-<td valign="top">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p>Magasinier spécialisé hors classe</p>
+<p>Magasinier principal de 2e classe</p>
 </td>
 <td valign="top">
 <p align="center">2</p>
@@ -154,38 +86,26 @@ La composition de ces commissions est fixée ainsi qu'il suit :
 </td>
 </tr>
 <tr>
-<td valign="top">
-<p>Magasinier spécialisé de 1re classe</p>
+<td>Magasinier de 1re classe</td>
+<td>
+<p align="center"> 2</p>
 </td>
-<td valign="top">
-<p align="center">2</p>
+<td>
+<p align="center"> 2</p>
 </td>
-<td valign="top">
-<p align="center">2</p>
-</td>
-<td valign="top">
-<p align="center">6</p>
-</td>
-<td valign="top">
-<p align="center">6</p>
-</td>
+<td/>
+<td/>
 </tr>
 <tr>
-<td valign="top">
-<p>Magasinier spécialisé de 2e classe</p>
+<td>Magasinier de 2e classe</td>
+<td>
+<p align="center"> 2</p>
 </td>
-<td valign="top">
-<p align="center">2</p>
+<td>
+<p align="center"> 2</p>
 </td>
-<td valign="top">
-<p align="center">2</p>
-</td>
-<td valign="top">
-<br/>
-</td>
-<td valign="top">
-<br/>
-</td>
+<td/>
+<td/>
 </tr>
 <tr>
 <td valign="top">
