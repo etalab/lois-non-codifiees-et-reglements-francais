@@ -1,64 +1,44 @@
 # Article Annexe 1
 
-**CRITÈRES CONTRIBUANT À LA DÉFINITION DES NIVEAUX DE RISQUE ÉPIZOOTIQUE**
+CRITÈRES CONTRIBUANT À LA DÉFINITION DES NIVEAUX DE RISQUE ÉPIZOOTIQUE
 
 <table>
 <tbody>
 <tr>
-<th>
-<br/>CRITÈRES DE DÉFINITION DU NIVEAU DE RISQUE ÉPIZOOTIQUE<br/>
-</th>
-<th>
-<br/>NIVEAU DE RISQUE <p>épizootique<br/>
-</p>
-</th>
-</tr>
-<tr>
-<td align="center">
-<br/>Absence de cas dans les zones de départ et dans les couloirs migratoires des oiseaux sauvages arrivant ou transitant en France et absence de cas en France.<br/>
+<td align="center">CRITÈRES DE DÉFINITION DU NIVEAU DE RISQUE ÉPIZOOTIQUE <br/>
 </td>
-<td align="center">
-<br/>Négligeable 1<br/>
+<td align="center">NIVEAU DE RISQUE <br/>épizootique <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Présence avérée ou possible de cas dans les zones de départ, absence de cas dans les couloirs migratoires des oiseaux sauvages transitant en France et absence de cas en France.<br/>
+<td>Absence de cas en France et absence de cas dans les couloirs migratoires des oiseaux <br/>sauvages arrivant et transitant en France, qu'il y ait ou non des cas dans les zones de départ. <br/>
 </td>
-<td align="center">
-<br/>Négligeable 2<br/>
+<td align="center">Négligeable <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Présence de cas dans les couloirs migratoires des oiseaux sauvages transitant en France, ou présence de cas dans des pays non voisins de la France métropolitaine et absence de cas en France.<br/>
+<td>Absence de cas en France et présence de cas dans les couloirs migratoires des oiseaux <br/>sauvages transitant en France, ou présence de cas dans des pays non voisins de la France <br/>métropolitaine. <br/>
 </td>
-<td align="center">
-<br/>Faible<br/>
+<td align="center">Faible <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Présence d'au moins un cas dans un pays voisin de la France métropolitaine et absence de cas en France.<br/>
+<td>Absence de cas en France et présence d'au moins un cas dans un pays voisin de la France <br/>métropolitaine. <br/>
 </td>
-<td align="center">
-<br/>Modéré<br/>
+<td align="center">Modéré <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Présence de quelques cas isolés en France ou cas groupés dans une unité écologique (la notion d'unité écologique infectée correspond à la détermination d'un périmètre écologiquement homogène en termes de fréquentation par l'avifaune sauvage, considéré comme infecté dès lors que plus de deux cas d'oiseaux sauvages infectés y sont identifiés).<br/>
+<td>Présence de quelques cas isolés en France ou cas groupés dans une unité écologique (la <br/>notion " d'unité écologique infectée " correspond à la détermination d'un périmètre écolo-<br/>giquement homogène en termes de fréquentation par l'avifaune sauvage, considéré comme <br/>infecté dès lors que plus de deux cas d'oiseaux sauvages infectés y sont identifiés). <br/>
 </td>
-<td align="center">
-<br/>Elevé<br/>
+<td align="center">Elevé <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Présence de plusieurs cas isolés en France ou cas groupés dans deux unités écologiques ou plus.<br/>
+<td>Présence de plusieurs cas isolés en France ou cas groupés dans deux unités écologiques ou <br/>plus. <br/>
 </td>
-<td align="center">
-<br/>Très élevé</td>
+<td align="center">Très élevé <br/>
+</td>
 </tr>
 </tbody>
 </table>
