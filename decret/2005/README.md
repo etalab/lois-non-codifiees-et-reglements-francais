@@ -70,6 +70,7 @@
 - [Décret n°2005-840 du 20 juillet 2005 (SANP0522707D)](decret-n2005-840-du-20-juillet-2005-sanp0522707d)
 - [Décret du 20 mai 2005 (AGRP0500838D)](decret-du-20-mai-2005-agrp0500838d)
 - [Décret n°2005-1191 du 21 septembre 2005 (MENF0501749D)](decret-n2005-1191-du-21-septembre-2005-menf0501749d)
+- [Décret n°2005-1312 du 21 octobre 2005 (MENF0501328D)](decret-n2005-1312-du-21-octobre-2005-menf0501328d)
 - [Décret n°2002-252 du 22 février 2002 (RECR0200060D)](decret-n2002-252-du-22-fevrier-2002-recr0200060d)
 - [Décret n°2005-1017 du 22 août 2005 (AGRA0501047D)](decret-n2005-1017-du-22-aout-2005-agra0501047d)
 - [Décret n°2005-1441 du 22 novembre 2005 (DEFP0501442D)](decret-n2005-1441-du-22-novembre-2005-defp0501442d)
