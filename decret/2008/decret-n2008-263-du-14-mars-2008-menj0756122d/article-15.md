@@ -12,7 +12,7 @@ Sont abrogés :
 
 5° Le décret du 16 janvier 1894 relatif aux pensionnats primaires installés dans les écoles primaires publiques ;
 
-6° Les articles 29 et 31 du décret du 16 août 1901 portant règlement d'administration publique pour l'exécution de la loi du 1er juillet 1901 relative au contrat d'association, en ce qui concerne les mots : « et le registre prévu à l'article 29 par l'inspecteur d'académie ou son délégué » ;
+6° Les articles 29 et 31 du décret du 16 août 1901 portant règlement d'administration publique pour l'exécution de la loi du 1er juillet 1901 relative au contrat d'association, en ce qui concerne les mots : et le registre prévu à l'article 29 par l'inspecteur d'académie ou son délégué ;
 
 7° Le décret du 14 septembre 1925 relatif à l'administration financière des collèges communaux de garçons et de jeunes filles ;
 
@@ -144,7 +144,7 @@ Sont abrogés :
 
 71° Le décret n° 2005-675 du 16 juin 2005 portant organisation du cycle d'enseignement professionnel initial et création des diplômes nationaux d'orientation professionnelle de musique, de danse et d'art dramatique ;
 
-72° Les premier, troisième et cinquième alinéas de l'article 2, l'article 7 et les premier et troisième alinéas de l'article 10, en ce qui concerne le Centre national de documentation pédagogique, le Centre international d'études pédagogiques, l'Office national d'information sur les enseignements et les professions, le Centre d'études et de recherches sur les qualifications, l'Institut national de recherche pédagogique et le Centre national d'enseignement à distance, du décret n° 2005-1312 du 21 octobre 2005 relatif aux conditions de nomination et d'avancement dans les emplois de directeur adjoint et de secrétaire général de certains établissements publics nationaux à caractère administratif ;
+72° Les articles 2 et 7 et les premier et troisième alinéas de l'article 10, en ce qui concerne le Centre national de documentation pédagogique, le Centre international d'études pédagogiques, l'Office national d'information sur les enseignements et les professions, le Centre d'études et de recherches sur les qualifications, l'Institut national de recherche pédagogique et le Centre national d'enseignement à distance, du décret n° 2005-1312 du 21 octobre 2005 relatif aux conditions de nomination et d'avancement dans les emplois de directeur adjoint et de secrétaire général de certains établissements publics nationaux à caractère administratif ;
 
 73° L'article 3 du décret n° 2005-1321 du 25 octobre 2005 modifiant le décret n° 86-164 du 31 janvier 1986 portant organisation administrative et financière des établissements d'enseignement dont la responsabilité et la charge incombent entièrement à l'Etat et portant dispositions diverses applicables aux établissements d'enseignement de second degré municipaux ou départementaux ;
 
