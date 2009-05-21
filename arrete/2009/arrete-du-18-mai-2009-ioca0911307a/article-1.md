@@ -1,0 +1,3 @@
+# Article 1
+
+L'interdiction, prévue à l'article 1er de l'arrêté du 28 mars 2006 susvisé, pour les véhicules ou ensembles de véhicules de plus de 7, 5 tonnes de poids total autorisé en charge, affectés au transport routier de marchandises, de circuler les samedis et veilles de jours fériés à partir de 22 heures et jusqu'à 22 heures les dimanches et jours fériés est levée pour les poids lourds assurant l'acheminement de la propagande des candidats aux élections européennes, aux dates suivantes : les jeudi 21 mai 2009, samedi 23 mai 2009, dimanche 24 mai 2009, samedi 30 mai 2009, dimanche 31 mai 2009 et lundi 1er juin 2009.
