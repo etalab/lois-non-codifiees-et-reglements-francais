@@ -1146,7 +1146,7 @@
 <p>Enzymes.</p>
 </td>
 <td valign="top" width="114">
-<p>Panification (à l'exception du pain de tradition française) et panification spéciale.</p>
+<p>Panification ( à l'exception du pain de tradition française) et panification spéciale.</p>
 </td>
 <td valign="top" width="174">
 <p>Hydrolyse des liaisons bêta 1-3 et 1-4 des glucanes.</p>
@@ -2112,6 +2112,25 @@
 </td>
 </tr>
 <tr>
+<td>
+<p>Pectine méthylestérase produite par la souche recombinée d'Aspergillus niger PME 44.</p>
+</td>
+<td>
+<p>Enzymes.</p>
+</td>
+<td>
+<p>Fruits et légumes destinés à la mise en conserve et à la congélation.</p>
+<p>Jus de fruits. </p>
+<p>Préparations de fruits et de tomates.</p>
+</td>
+<td>
+<p>Déméthoxylation des pectines (avec formation d'un gel en présence de calcium).</p>
+</td>
+<td>
+<p>Teneur résiduelle techniquement inévitable.</p>
+</td>
+</tr>
+<tr>
 <td valign="top" width="152">
 <p>Pentosanase d'Humicola insolens (DSM 1800).</p>
 </td>
@@ -2119,7 +2138,7 @@
 <p>Enzymes.</p>
 </td>
 <td valign="top" width="114">
-<p>Panification (à l'exception du pain de tradition française) et panification spéciale.</p>
+<p>Panification ( à l'exception du pain de tradition française) et panification spéciale.</p>
 </td>
 <td valign="top" width="174">
 <p>Hydrolyse des pentosanes insolubles, présents dans les hémicelluloses.</p>
@@ -2262,6 +2281,23 @@
 </td>
 <td valign="top" width="118">
 <p>Dose techniquement inévitable.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Phospholipase C produite par la souche de Pichia pastoris génétiquement modifiée DVSA-PLC-004.</p>
+</td>
+<td>
+<p>Enzymes.</p>
+</td>
+<td>
+<p>Huiles végétales.</p>
+</td>
+<td>
+<p>Hydrolyse des phospholipides en vue de la démucilagination des huiles végétales.</p>
+</td>
+<td>
+<p>Teneur résiduelle techniquement inévitable.</p>
 </td>
 </tr>
 <tr>
@@ -2986,6 +3022,23 @@
 </td>
 <td valign="top" width="118">
 <p>Dose techniquement inévitable.</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="152">
+<p>Xylanase de Trichoderma longibrachiatum (souche QM 9414, ATCC 26921). </p>
+</td>
+<td valign="top" width="122">
+<p>Enzymes.</p>
+</td>
+<td valign="top" width="114">
+<p>Industrie de l'alcool.</p>
+</td>
+<td valign="top" width="174">
+<p>Hydrolyse des liaisons osidiques des hémicelluloses.</p>
+</td>
+<td valign="top" width="118">
+<p>Teneur résiduelle techniquement inévitable.</p>
 </td>
 </tr>
 </tbody>
