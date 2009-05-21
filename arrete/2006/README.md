@@ -286,6 +286,7 @@
 - [Arrêté du 29 septembre 2006 (AGRE0602152A)](arrete-du-29-septembre-2006-agre0602152a)
 - [Arrêté du 29 septembre 2006 (ECOP0600623A)](arrete-du-29-septembre-2006-ecop0600623a)
 - [Arrêté du 29 septembre 2006 (SANP0623877A)](arrete-du-29-septembre-2006-sanp0623877a)
+- [Arrêté du 29 mai 2006 (AGRF0600968A)](arrete-du-29-mai-2006-agrf0600968a)
 - [Arrêté du 30 décembre 2005 (AGRP0502750A)](arrete-du-30-decembre-2005-agrp0502750a)
 - [Arrêté du 30 décembre 2005 (INTC0500859A)](arrete-du-30-decembre-2005-intc0500859a)
 - [Arrêté du 30 décembre 2005 (INTC0500860A)](arrete-du-30-decembre-2005-intc0500860a)
