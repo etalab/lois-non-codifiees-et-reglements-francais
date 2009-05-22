@@ -14,4 +14,4 @@ Le montant des ressources comprend les subventions et produits de toute nature l
 
 Les établissements publics de l'Etat mentionnés au premier alinéa de l'article 30 de la loi du 1er mars 1984 précitée ne sont plus tenus de recourir à un commissaire aux comptes dès lors qu'ils n'ont pas dépassé les seuils de deux des trois critères fixés aux deuxième, troisième et quatrième alinéas du présent article pendant les deux exercices précédant l'expiration du mandat du commissaire aux comptes.
 
-2. Lorsque l'établissement fait appel public à l'épargne, le ministre chargé de l'économie saisit pour avis l'Autorité des marchés financiers avant de procéder à la nomination des commissaires aux comptes. A défaut de réponse de l'autorité dans un délai d'un mois, l'accord de cette dernière est réputé acquis.
+2. Lorsque les titres financiers de l'établissement sont admis aux négociations sur un marché réglementé, le ministre chargé de l'économie saisit pour avis l'Autorité des marchés financiers avant de procéder à la nomination des commissaires aux comptes. A défaut de réponse de l'autorité dans un délai d'un mois, l'accord de cette dernière est réputé acquis.
