@@ -1,23 +1,25 @@
 # Article 1
 
-Le directeur des services de la navigation aérienne peut déléguer sa signature en qualité d'ordonnateur secondaire du budget annexe « contrôle et exploitation aériens » aux agents exerçant les fonctions suivantes :
+Le directeur des services de la navigation aérienne peut déléguer sa signature en qualité d'ordonnateur secondaire du budget annexe contrôle et exploitation aériens aux agents exerçant les fonctions suivantes :
 
-― directeur des opérations ;
+- directeur des opérations ;
 
-― directeur de la technique et de l'innovation ;
+- directeur de la technique et de l'innovation ;
 
-― chef du service de l'information aéronautique ;
+- chef du service de l'information aéronautique ;
 
-― chef de centre en route de la navigation aérienne ;
+- chef de centre en route de la navigation aérienne ;
 
-― chef de service de navigation aérienne ;
+- chef de service de navigation aérienne ;
 
-― secrétaire général ;
+- secrétaire général ;
 
-― adjoint au directeur ;
+- adjoint au directeur ;
 
-― sous-directeur ou son adjoint ;
+- sous-directeur ou son adjoint ;
 
-― chef de bureau, de département, de service ou de division ou son adjoint ;
+- chef de bureau, de département, de service ou de division ou son adjoint ;
 
-― responsable de la comptabilité.
+- responsable de la comptabilité ;
+
+- chef d'organisme.
