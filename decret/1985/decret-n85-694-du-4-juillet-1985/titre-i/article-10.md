@@ -1,6 +1,6 @@
 # Article 10
 
-Le directeur dirige le service commun de la documentation.
+Le directeur dirige le service commun de la documentation et les personnels qui y sont affectés.
 
 Il prépare le budget du service commun, qu'il soumet à l'approbation du conseil d'administration de l'université après avis du conseil du service commun.
 

@@ -1,6 +1,6 @@
 # Article 16
 
-Le directeur dirige le service interétablissements de coopération documentaire.
+Le directeur dirige le service interétablissements de coopération documentaire et les personnels qui y sont affectés.
 
 Il prépare le budget du service interétablissements de coopération documentaire, qu'il soumet à l'approbation du conseil d'administration de l'établissement de rattachement, après avis du conseil du service interétablissements de coopération documentaire.
 
