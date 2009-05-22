@@ -1,6 +1,6 @@
 # Article 8
 
-Huit jours au moins avant la date prévue à l'article précédent la société publie un avis dans un journal habilité à recevoir les annonces légales dans le département du siège social et, si la société fait publiquement appel à l'épargne, au bulletin des annonces légales obligatoires.
+Huit jours au moins avant la date prévue à l'article précédent la société publie un avis dans un journal habilité à recevoir les annonces légales dans le département du siège social et, si toutes les parts de la société ne revêtent pas la forme nominative, au bulletin des annonces légales obligatoires.
 
 Cet avis contient les indications suivantes :
 

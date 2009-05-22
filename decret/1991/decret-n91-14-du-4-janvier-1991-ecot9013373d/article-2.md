@@ -4,7 +4,7 @@ L'avis de convocation des titulaires de certificats coopératifs d'investissemen
 
 L'avis de convocation indique les conditions dans lesquelles les titulaires de certificats coopératifs d'investissement peuvent voter par correspondance et les lieux et conditions dans lesquelles ils peuvent obtenir les formulaires nécessaires et les documents qui y sont annexés.
 
-L'avis de convocation est inséré dans un journal habilité à recevoir les annonces légales dans le département du siège social et, en outre, si la société fait publiquement appel à l'épargne, au Bulletin des Annonces légales obligatoires.
+L'avis de convocation est inséré dans un journal habilité à recevoir les annonces légales dans le département du siège social et, en outre, si tous les certificats coopératifs d'investissement ne revêtent pas la forme nominative, au Bulletin des Annonces légales obligatoires.
 
 Si tous les certificats coopératifs d'investissement sont nominatifs, les insertions prévues à l'alinéa précédent peuvent être remplacées par une convocation faite, aux frais de la société, par lettre simple ou recommandée adressée à chaque porteur.
 

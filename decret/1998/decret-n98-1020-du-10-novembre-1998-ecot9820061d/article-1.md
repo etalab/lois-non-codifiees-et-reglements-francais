@@ -1,6 +1,6 @@
 # Article 1
 
-Une personne morale publique ou privée qui convertit des titres de créance, en application du II de l'article 18 de la loi du 2 juillet 1998 susvisée et sans réunion des porteurs des titres de créance ni de la masse prévue à l'article 293 de la loi du 24 juillet 1966 susvisée, publie, trente jours au moins avant la date de conversion, un avis dans un journal habilité à recevoir les annonces légales dans le département où elle est sise et, si elle fait publiquement appel à l'épargne, au Bulletin des Annonces légales obligatoires.
+Une personne morale publique ou privée qui convertit des titres de créance, en application du II de l'article 18 de la loi du 2 juillet 1998 susvisée et sans réunion des porteurs des titres de créance ni de la masse prévue à l'article 293 de la loi du 24 juillet 1966 susvisée, publie, trente jours au moins avant la date de conversion, un avis dans un journal habilité à recevoir les annonces légales dans le département où elle est sise et, si tous ses titres de créance ne revêtent pas la forme nominative, au Bulletin des Annonces légales obligatoires.
 
 Cet avis indique, le cas échéant :
 

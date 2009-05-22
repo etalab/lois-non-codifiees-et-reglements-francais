@@ -32,9 +32,9 @@ Article 3
 
 Dénomination
 
-La dénomination sociale est "Electricité de France". La société peut aussi être légalement désignée par le seul sigle "EDF".
+La dénomination sociale est " Electricité de France ". La société peut aussi être légalement désignée par le seul sigle " EDF ".
 
-Dans tous les actes et documents émanant de la société et destinés aux tiers, notamment les lettres, factures, annonces et publications diverses, la dénomination sociale doit toujours être suivie immédiatement et lisiblement des mots écrits en toutes lettres "Société Anonyme", de l'énonciation du montant du capital social, du lieu et du numéro d'immatriculation de la société au registre du commerce et des sociétés.
+Dans tous les actes et documents émanant de la société et destinés aux tiers, notamment les lettres, factures, annonces et publications diverses, la dénomination sociale doit toujours être suivie immédiatement et lisiblement des mots écrits en toutes lettres " Société Anonyme ", de l'énonciation du montant du capital social, du lieu et du numéro d'immatriculation de la société au registre du commerce et des sociétés.
 
 Article 4
 
@@ -84,7 +84,7 @@ Forme des actions
 
 Existant initialement uniquement sous la forme nominative, les actions, une fois admises à la cote d'un marché réglementé, seront nominatives ou au porteur, au choix de l'actionnaire, sous réserve des dispositions législatives et réglementaires.
 
-Les actions peuvent être inscrites au nom d'un intermédiaire dans les conditions prévues aux articles L. 228-1 et suivants du code de commerce. L'intermédiaire est tenu de déclarer sa qualité d'intermédiaire détenant des titres pour le compte d'autrui, dans les conditions législatives et réglementaires.
+Les actions peuvent être inscrites au nom d'un intermédiaire dans les conditions prévues aux articles L. 228-1 et suivants du code de commerce.L'intermédiaire est tenu de déclarer sa qualité d'intermédiaire détenant des titres pour le compte d'autrui, dans les conditions législatives et réglementaires.
 
 Les dispositions des alinéas ci-dessus sont également applicables aux autres valeurs mobilières émises par la société.
 
@@ -98,11 +98,11 @@ Cession et transmission des actions
 
 Les actions sont librement négociables sous réserve des dispositions législatives et réglementaires. Elles font l'objet d'une inscription en compte et se transmettent par voie de virement de compte à compte. Ces dispositions sont également applicables aux autres titres de toute nature émis par la société.
 
-A compter de l'admission à la cote d'un marché réglementé, outre l'obligation légale d'informer la société de la détention de certaines fractions du capital ou des droits de vote, toute personne physique ou morale, agissant seule ou de concert, qui viendrait à détenir directement ou indirectement un nombre de titres correspondant à 0,5 % du capital ou des droits de vote de la société est tenue, dans les cinq jours de bourse à compter de l'inscription des titres qui lui permettent d'atteindre ou de franchir ce seuil, de déclarer à la société, par lettre recommandée avec accusé de réception, le nombre total d'actions, de droits de vote et de titres donnant accès au capital qu'elle possède.
+A compter de l'admission à la cote d'un marché réglementé, outre l'obligation légale d'informer la société de la détention de certaines fractions du capital ou des droits de vote, toute personne physique ou morale, agissant seule ou de concert, qui viendrait à détenir directement ou indirectement un nombre de titres correspondant à 0, 5 % du capital ou des droits de vote de la société est tenue, dans les cinq jours de bourse à compter de l'inscription des titres qui lui permettent d'atteindre ou de franchir ce seuil, de déclarer à la société, par lettre recommandée avec accusé de réception, le nombre total d'actions, de droits de vote et de titres donnant accès au capital qu'elle possède.
 
 L'intermédiaire inscrit comme détenteur des titres conformément à l'alinéa 2 ci-dessus est tenu, sans préjudice des obligations des propriétaires des titres, d'effectuer les déclarations prévues au présent article.
 
-Cette déclaration doit être renouvelée dans les conditions ci-dessus, chaque fois qu'un nouveau seuil de 0,5 % est atteint ou franchi, à la hausse comme à la baisse, quelle qu'en soit la raison, et ce y compris au-delà du seuil de 5 % prévu à l'article L. 233-7 du code de commerce.
+Cette déclaration doit être renouvelée dans les conditions ci-dessus, chaque fois qu'un nouveau seuil de 0, 5 % est atteint ou franchi, à la hausse comme à la baisse, quelle qu'en soit la raison, et ce y compris au-delà du seuil de 5 % prévu à l'article L. 233-7 du code de commerce.
 
 En cas d'inobservation des dispositions ci-dessus, le ou les actionnaires concernés sont, dans les conditions et limites fixées par la loi, privés du droit de vote afférent aux titres dépassant les seuils soumis à déclaration.
 
@@ -124,7 +124,7 @@ Chaque fois qu'il sera nécessaire de posséder plusieurs actions pour exercer u
 
 Article 12
 
-Indivisibilité des actions. - Usufruit
+Indivisibilité des actions.-Usufruit
 
 1. Les actions sont indivisibles à l'égard de la société.
 
@@ -136,31 +136,31 @@ Article 13
 
 Conseil d'administration
 
-I. - La société est administrée par un conseil d'administration de dix-huit membres composé conformément aux dispositions de la loi précitée du 26 juillet 1983 modifiée relative à la démocratisation du secteur public, notamment ses articles 5 et 6, et aux dispositions du décret-loi modifié du 30 octobre 1935 organisant le contrôle financier de l'Etat sur les entreprises ayant fait appel au concours financier de l'Etat.
+I.-La société est administrée par un conseil d'administration de dix-huit membres composé conformément aux dispositions de la loi précitée du 26 juillet 1983 modifiée relative à la démocratisation du secteur public, notamment ses articles 5 et 6, et aux dispositions du décret-loi modifié du 30 octobre 1935 organisant le contrôle financier de l'Etat sur les entreprises ayant fait appel au concours financier de l'Etat.
 
 Dans ce cadre, le conseil d'administration comprend notamment six représentants des salariés élus conformément aux dispositions du titre II de la loi du 26 juillet 1983.
 
 Il peut comprendre au plus deux parlementaires ou détenteurs d'un mandat électoral local, choisis en raison de leur connaissance des aspects régionaux, départementaux et locaux des questions énergétiques.
 
-II. - Le conseil nomme un secrétaire, qu'il peut choisir en dehors de ses membres.
+II.-Le conseil nomme un secrétaire, qu'il peut choisir en dehors de ses membres.
 
 Le président-directeur général est tenu de communiquer à chaque administrateur tous les documents et informations nécessaires à l'accomplissement de sa mission.
 
-III. - La durée du mandat des membres du conseil d'administration est de cinq ans. En cas de vacance pour quelque cause que ce soit du siège d'un membre du conseil d'administration, son remplaçant n'exerce ses fonctions que pour la durée restant à courir jusqu'au renouvellement de la totalité du conseil d'administration.
+III.-La durée du mandat des membres du conseil d'administration est de cinq ans. En cas de vacance pour quelque cause que ce soit du siège d'un membre du conseil d'administration, son remplaçant n'exerce ses fonctions que pour la durée restant à courir jusqu'au renouvellement de la totalité du conseil d'administration.
 
-IV. - L'assemblée générale fixe le montant des jetons de présence alloués, le cas échéant, aux administrateurs. Le mandat des administrateurs qui ne sont pas nommés par l'assemblée générale est gratuit, à l'exception, le cas échéant, des administrateurs désignés en application du troisième alinéa (2°) de l'article 5 de la loi précitée du 26 juillet 1983.
+IV.-L'assemblée générale fixe le montant des jetons de présence alloués, le cas échéant, aux administrateurs. Le mandat des administrateurs qui ne sont pas nommés par l'assemblée générale est gratuit, à l'exception, le cas échéant, des administrateurs désignés en application du troisième alinéa (2°) de l'article 5 de la loi précitée du 26 juillet 1983.
 
 Les frais exposés par les administrateurs pour l'exercice de leur mandat sont remboursés par la société sur justificatifs.
 
 Les représentants des salariés bénéficient d'un crédit d'heures égal à la moitié de la durée légale du travail.
 
-V. - Chaque administrateur nommé par l'assemblée générale est révocable par elle et doit être propriétaire d'au moins une action de la société détenue sous la forme nominative.
+V.-Chaque administrateur nommé par l'assemblée générale est révocable par elle et doit être propriétaire d'au moins une action de la société détenue sous la forme nominative.
 
-VI. - A l'initiative du président-directeur général, le conseil d'administration peut, s'il l'estime nécessaire et en fonction de l'ordre du jour, inviter des membres de l'entreprise ou des personnalités extérieures à l'entreprise à assister aux réunions du conseil d'administration sans voix délibérative.
+VI.-A l'initiative du président-directeur général, le conseil d'administration peut, s'il l'estime nécessaire et en fonction de l'ordre du jour, inviter des membres de l'entreprise ou des personnalités extérieures à l'entreprise à assister aux réunions du conseil d'administration sans voix délibérative.
 
 Le secrétaire du comité d'entreprise ou de l'organisme en tenant lieu assiste au conseil d'administration sans voix délibérative.
 
-VII. - Les personnes appelées à assister aux délibérations du conseil d'administration sont tenues aux mêmes obligations de discrétion que les administrateurs.
+VII.-Les personnes appelées à assister aux délibérations du conseil d'administration sont tenues aux mêmes obligations de discrétion que les administrateurs.
 
 Article 14
 
@@ -218,7 +218,7 @@ Sur proposition du président-directeur général, le conseil d'administration p
 
 Lorsque le président-directeur général cesse ou est empêché d'exercer ses fonctions, les directeurs généraux délégués conservent, sauf décision contraire du conseil, leurs fonctions et leurs attributions jusqu'à la nomination du nouveau président-directeur général.
 
-Le président-directeur général a la faculté de substituer partiellement dans ses pouvoirs autant de mandataires qu'il avisera. A l'égard des tiers, les directeurs généraux délégués disposent des mêmes pouvoirs.
+Le président-directeur général a la faculté de substituer partiellement dans ses pouvoirs autant de mandataires qu'il avisera.A l'égard des tiers, les directeurs généraux délégués disposent des mêmes pouvoirs.
 
 Article 18
 
@@ -226,17 +226,17 @@ Supervision de la gestion
 
 du réseau de distribution d'électricité
 
-18.1. Conformément au titre III de la loi du 9 août 2004 précitée, l'activité de gestionnaire de réseau de distribution d'électricité est confiée à une direction dénommée "EDF réseau distribution" dont la mission est notamment de définir et de conduire les politiques d'exploitation, d'investissement et de développement des actifs des réseaux de distribution concédés à la société, de négocier et cosigner les contrats de concession et leurs avenants, d'assurer le caractère non discriminatoire du raccordement et de l'accès au réseau de distribution ainsi que d'assurer la responsabilité des relations avec l'ensemble des autorités de régulation de l'énergie (ministère chargé de l'énergie, commission de régulation de l'énergie, autorités concédantes de la distribution publique) au titre de ces activités.
+18. 1. Conformément au titre III de la loi du 9 août 2004 précitée, l'activité de gestionnaire de réseau de distribution d'électricité est confiée à une direction dénommée " EDF réseau distribution " dont la mission est notamment de définir et de conduire les politiques d'exploitation, d'investissement et de développement des actifs des réseaux de distribution concédés à la société, de négocier et cosigner les contrats de concession et leurs avenants, d'assurer le caractère non discriminatoire du raccordement et de l'accès au réseau de distribution ainsi que d'assurer la responsabilité des relations avec l'ensemble des autorités de régulation de l'énergie (ministère chargé de l'énergie, commission de régulation de l'énergie, autorités concédantes de la distribution publique) au titre de ces activités.
 
-18.2. Dans l'exercice de sa mission, EDF réseau distribution s'appuie notamment sur le service commun avec Gaz de France obligatoirement constitué en application de l'article 5 de la loi n° 46-628 du 8 avril 1946 précitée et dénommé "EDF Gaz de France distribution".
+18. 2. Dans l'exercice de sa mission, EDF réseau distribution s'appuie notamment sur le service commun avec Gaz de France obligatoirement constitué en application de l'article 5 de la loi n° 46-628 du 8 avril 1946 précitée et dénommé " EDF Gaz de France distribution ".
 
 En tant qu'il relève d'EDF, EDF Gaz de France distribution a pour missions la réalisation des travaux de construction, de développement et de maintenance sur les ouvrages de distribution d'électricité, l'exploitation technique du réseau et ouvrages de distribution, la réalisation des activités de comptage, les relations quotidiennes avec les collectivités locales, les autorités concédantes, la clientèle non éligible.
 
-18.3. La direction d'EDF réseau distribution et EDF Gaz de France distribution sont chacun dirigés par un directeur nommé par le président-directeur général pour une durée de trois ans. Le directeur d'EDF Gaz de France distribution est nommé conjointement par le président-directeur général de la société Gaz de France. Ces directeurs disposent de délégations de pouvoir leur permettant dans les conditions qu'elles définissent d'assumer, de manière indépendante vis-à-vis de toute activité de production et de fourniture d'électricité, la gestion des activités dont ils ont la charge.
+18. 3. La direction d'EDF réseau distribution et EDF Gaz de France distribution sont chacun dirigés par un directeur nommé par le président-directeur général pour une durée de trois ans. Le directeur d'EDF Gaz de France distribution est nommé conjointement par le président-directeur général de la société Gaz de France. Ces directeurs disposent de délégations de pouvoir leur permettant dans les conditions qu'elles définissent d'assumer, de manière indépendante vis-à-vis de toute activité de production et de fourniture d'électricité, la gestion des activités dont ils ont la charge.
 
 Ils ne peuvent être révoqués avant la fin de leur mandat que par le président-directeur général et dans les formes prévues à l'article 15 de la loi du 9 août 2004 précitée.
 
-18.4. Le budget et le plan pluriannuel d'investissements d'EDF réseau distribution, ainsi que le budget et le plan pluriannuel d'investissements d'EDF Gaz de France distribution en ce qui concerne le réseau de distribution d'électricité, sont préparés par leurs directeurs respectifs. Ils sont soumis au président-directeur général ou à la personne qu'il délègue à cette fin par le directeur d'EDF réseau de distribution.
+18. 4. Le budget et le plan pluriannuel d'investissements d'EDF réseau distribution, ainsi que le budget et le plan pluriannuel d'investissements d'EDF Gaz de France distribution en ce qui concerne le réseau de distribution d'électricité, sont préparés par leurs directeurs respectifs. Ils sont soumis au président-directeur général ou à la personne qu'il délègue à cette fin par le directeur d'EDF réseau de distribution.
 
 Ils sont arrêtés par le président-directeur général préalablement à leur présentation, au conseil d'administration pour approbation.
 
@@ -246,9 +246,9 @@ Le président-directeur général ou la personne qu'il désigne à cette fin s'a
 
 Le directeur d'EDF réseau distribution et le directeur d'EDF Gaz de France distribution transmettent mensuellement au président-directeur général ou à la personne qu'il désigne à cette fin les données nécessaires à l'établissement des comptes d'EDF. Plus généralement, ils lui donnent accès à toute information nécessaire au respect et à l'exercice de ses obligations législatives ou réglementaires.
 
-18.5. Le directeur d'EDF réseau distribution élabore un code de bonne conduite contenant les mesures d'organisation interne prises pour prévenir toute pratique discriminatoire en matière d'accès des tiers au réseau. Il l'adresse à la Commission de régulation de l'énergie. Il présente annuellement au conseil d'administration ainsi qu'à la Commission de régulation de l'énergie un rapport sur la mise en oeuvre de ce code, qui est applicable à l'ensemble des activités de distribution, y compris celles exercées par EDF Gaz de France distribution pour autant qu'elles relèvent de la part électrique de son activité.
+18. 5. Le directeur d'EDF réseau distribution élabore un code de bonne conduite contenant les mesures d'organisation interne prises pour prévenir toute pratique discriminatoire en matière d'accès des tiers au réseau. Il l'adresse à la Commission de régulation de l'énergie. Il présente annuellement au conseil d'administration ainsi qu'à la Commission de régulation de l'énergie un rapport sur la mise en oeuvre de ce code, qui est applicable à l'ensemble des activités de distribution, y compris celles exercées par EDF Gaz de France distribution pour autant qu'elles relèvent de la part électrique de son activité.
 
-18.6. Sous réserve des pouvoirs dévolus au conseil d'administration, le président-directeur général d'EDF délègue aux directeurs d'EDF réseau distribution et d'EDF Gaz de France distribution, dans leurs domaines respectifs, notamment les pouvoirs en matière :
+18. 6. Sous réserve des pouvoirs dévolus au conseil d'administration, le président-directeur général d'EDF délègue aux directeurs d'EDF réseau distribution et d'EDF Gaz de France distribution, dans leurs domaines respectifs, notamment les pouvoirs en matière :
 
 a) D'investissements de réseau dans la limite de 50 MEuros (cinquante millions d'euros) par opération ;
 
@@ -258,7 +258,7 @@ c) De cessions d'actifs dans la limite de 1 MEuros (un million d'euros) par opé
 
 d) Sans préjudice des dispositions de l'article L. 225-35 du code de commerce et de l'article 89 du décret n° 67-236 du 23 mars 1967, de constitution de sûretés ou garanties de toute nature pour un montant qui n'excède pas 1 MEuros (un million d'euros) et dans la limite de l'habilitation annuelle délivrée par le conseil.
 
-Pour l'exercice d'activités qui ne relèvent pas des missions qui leur sont confiées selon les paragraphes 18.1 et 18.2 du présent article, le directeur d'EDF réseau distribution et le directeur d'EDF Gaz de France distribution doivent recueillir l'accord préalable du président-directeur général.
+Pour l'exercice d'activités qui ne relèvent pas des missions qui leur sont confiées selon les paragraphes 18. 1 et 18. 2 du présent article, le directeur d'EDF réseau distribution et le directeur d'EDF Gaz de France distribution doivent recueillir l'accord préalable du président-directeur général.
 
 Article 19
 
@@ -278,7 +278,7 @@ Le contrôle des comptes de la société est exercé, à l'issue de l'approbatio
 
 Ils sont convoqués, en application de l'article L. 225-238 du code de commerce, à toutes les réunions du conseil d'administration qui examinent ou arrêtent des comptes annuels ou intermédiaires, ainsi qu'à toute assemblée d'actionnaires.
 
-Conformément à l'article L. 225-228 du code de commerce, le président-directeur général et, le cas échéant, les directeurs généraux délégués, s'ils sont administrateurs, ne prennent pas part au vote du conseil d'administration qui propose la nomination des commissaires aux comptes à l'assemblée générale, dès lors que la société fait appel public à l'épargne.
+Conformément à l'article L. 225-228 du code de commerce, le président-directeur général et, le cas échéant, les directeurs généraux délégués, s'ils sont administrateurs, ne prennent pas part au vote du conseil d'administration qui propose la nomination des commissaires aux comptes à l'assemblée générale, dès lors que les actions de la société sont admises aux négociations sur un marché réglementé.
 
 Des commissaires aux comptes suppléants sont nommés pour remplacer les commissaires aux comptes titulaires en cas de refus, d'empêchement, de démission ou de décès.
 
@@ -298,7 +298,7 @@ L'accès à l'assemblée générale est ouvert à ses membres sur simple justifi
 
 Tout actionnaire peut donner pouvoir à son conjoint ou à un autre actionnaire en vue d'être représenté à une assemblée générale. Les propriétaires des titres régulièrement inscrits au nom d'un intermédiaire dans les conditions prévues à l'article L. 228-1 du code de commerce peuvent se faire représenter dans les conditions prévues audit article par un intermédiaire inscrit.
 
-Il peut également voter par correspondance après avoir fait attester de sa qualité d'actionnaire, cinq jours au moins avant la réunion de l'assemblée, par le dépositaire du ou des certificats d'inscription ou d'immobilisation de ses titres. A compter de cette attestation, l'actionnaire ne peut choisir un autre mode de participation à l'assemblée générale. Le formulaire de vote doit être reçu par la société au plus tard trois jours avant la date de la réunion de l'assemblée.
+Il peut également voter par correspondance après avoir fait attester de sa qualité d'actionnaire, cinq jours au moins avant la réunion de l'assemblée, par le dépositaire du ou des certificats d'inscription ou d'immobilisation de ses titres.A compter de cette attestation, l'actionnaire ne peut choisir un autre mode de participation à l'assemblée générale. Le formulaire de vote doit être reçu par la société au plus tard trois jours avant la date de la réunion de l'assemblée.
 
 Les pouvoirs et les formulaires de vote par correspondance, de même que les attestations d'immobilisation des actions, peuvent être établis sur support électronique dûment signé dans les conditions prévues par les dispositions législatives et réglementaires applicables en France.
 
@@ -306,7 +306,7 @@ Les pouvoirs et les formulaires de vote par correspondance, de même que les att
 
 La convocation est faite quinze jours au moins avant la date de l'assemblée. Lorsque l'assemblée n'a pu délibérer faute de réunir le quorum requis, la deuxième assemblée et, le cas échéant, la deuxième assemblée prorogée sont convoquées six jours au moins à l'avance, dans les mêmes formes que la première.
 
-3. L'ordre du jour de l'assemblée figure sur l'avis de convocation ; il est arrêté par l'auteur de la convocation.
+3.L'ordre du jour de l'assemblée figure sur l'avis de convocation ; il est arrêté par l'auteur de la convocation.
 
 L'assemblée ne peut délibérer que sur les questions figurant à son ordre du jour.
 
@@ -314,7 +314,7 @@ Un ou plusieurs actionnaires représentant au moins la quotité du capital prév
 
 A chaque assemblée est tenue une feuille de présence contenant les indications prescrites par la loi.
 
-Les assemblées sont présidées par le président-directeur général ou, en son absence, par un administrateur délégué à cet effet par le conseil. A défaut, l'assemblée élit elle-même son président.
+Les assemblées sont présidées par le président-directeur général ou, en son absence, par un administrateur délégué à cet effet par le conseil.A défaut, l'assemblée élit elle-même son président.
 
 Les fonctions de scrutateurs sont remplies par les deux membres de l'assemblée, présents et acceptant ces fonctions, qui disposent par eux-mêmes ou comme mandataires du plus grand nombre de voix.
 
@@ -328,9 +328,9 @@ L'assemblée générale ordinaire est celle qui est appelée à prendre toutes d
 
 Elle ne délibère valablement, sur première convocation, que si les actionnaires présents ou représentés, ou ayant voté par correspondance, possèdent au moins le quart des actions ayant droit de vote. Sur deuxième convocation, aucun quorum n'est requis. Elle statue à la majorité des voix dont disposent les actionnaires présents, représentés ou ayant voté par correspondance.
 
-6. L'assemblée générale extraordinaire est seule habilitée à modifier les statuts dans toutes leurs dispositions. Elle ne peut, toutefois, augmenter les engagements des actionnaires, sous réserve des opérations résultant d'un regroupement d'actions régulièrement effectuées.
+6.L'assemblée générale extraordinaire est seule habilitée à modifier les statuts dans toutes leurs dispositions. Elle ne peut, toutefois, augmenter les engagements des actionnaires, sous réserve des opérations résultant d'un regroupement d'actions régulièrement effectuées.
 
-Sous réserve des dispositions légales applicables aux augmentations de capital réalisées par incorporation de réserves, bénéfices, ou primes d'émission, elle ne délibère valablement que si les actionnaires présents, représentés ou ayant voté par correspondance possèdent au moins, sur première convocation le tiers, et, sur deuxième convocation, le quart des actions ayant droit de vote. A défaut de ce dernier quorum, la deuxième assemblée peut être prorogée à une date postérieure de deux mois au plus à celle à laquelle elle avait été convoquée.
+Sous réserve des dispositions légales applicables aux augmentations de capital réalisées par incorporation de réserves, bénéfices, ou primes d'émission, elle ne délibère valablement que si les actionnaires présents, représentés ou ayant voté par correspondance possèdent au moins, sur première convocation le tiers, et, sur deuxième convocation, le quart des actions ayant droit de vote.A défaut de ce dernier quorum, la deuxième assemblée peut être prorogée à une date postérieure de deux mois au plus à celle à laquelle elle avait été convoquée.
 
 Sous la même réserve, elle statue à la majorité des deux tiers des voix des actionnaires présents, représentés ou ayant voté par correspondance.
 
@@ -364,7 +364,7 @@ Le bénéfice distribuable est constitué par le bénéfice de l'exercice, dimin
 
 En outre, l'assemblée générale peut décider la mise en distribution de sommes prélevées sur les réserves dont elle a la disposition, en indiquant expressément les postes de réserves sur lesquels les prélèvements sont effectués. Toutefois, les dividendes sont prélevés par priorité sur le bénéfice distribuable de l'exercice.
 
-Hors le cas de réduction du capital, aucune distribution ne peut être faite aux actionnaires lorsque les capitaux propres sont ou deviendraient à la suite de celle-ci inférieurs au montant du capital augmenté des réserves que la loi ou les statuts ne permettent pas de distribuer. L'écart de réévaluation n'est pas distribuable ; il peut être incorporé en tout ou partie au capital.
+Hors le cas de réduction du capital, aucune distribution ne peut être faite aux actionnaires lorsque les capitaux propres sont ou deviendraient à la suite de celle-ci inférieurs au montant du capital augmenté des réserves que la loi ou les statuts ne permettent pas de distribuer.L'écart de réévaluation n'est pas distribuable ; il peut être incorporé en tout ou partie au capital.
 
 La perte, s'il en existe une, est inscrite à un compte spécial pour être imputée sur les bénéfices des exercices ultérieurs jusqu'à extinction ou pour être apurée par voie de réduction de capital.
 
@@ -390,7 +390,7 @@ A défaut d'élection de domicile, les assignations ou significations sont valab
 
 Article 28
 
-Dissolution. - Liquidation
+Dissolution.-Liquidation
 
 En cas d'expiration ou de dissolution de la société, l'assemblée ordinaire règle le mode de liquidation et nomme un ou plusieurs liquidateurs dont elle détermine les pouvoirs conformément à la loi.
 
@@ -418,4 +418,4 @@ d) Suppléant : société Auditex.
 
 e) Titulaire : Mazars & Guerard Audit ;
 
-f)  Suppléant : cabinet Caderas Martin.
+f) Suppléant : cabinet Caderas Martin.
