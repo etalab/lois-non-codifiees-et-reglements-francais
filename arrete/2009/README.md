@@ -188,6 +188,7 @@
 - [Arrêté du 6 novembre 2008 (DEVO0826674A)](arrete-du-6-novembre-2008-devo0826674a)
 - [Arrêté du 6 novembre 2009 (MENH0910398A)](arrete-du-6-novembre-2009-menh0910398a)
 - [Arrêté du 6 octobre 2008 (MENF0806945A)](arrete-du-6-octobre-2008-menf0806945a)
+- [Arrêté du 6 mai 2009 (AGRM0908943A)](arrete-du-6-mai-2009-agrm0908943a)
 - [Arrêté du 6 mai 2009 (BCFS0907297A)](arrete-du-6-mai-2009-bcfs0907297a)
 - [Arrêté du 6 mai 2009 (DEVN0906278A)](arrete-du-6-mai-2009-devn0906278a)
 - [Arrêté du 6 mai 2009 (IOCA0910389A)](arrete-du-6-mai-2009-ioca0910389a)
