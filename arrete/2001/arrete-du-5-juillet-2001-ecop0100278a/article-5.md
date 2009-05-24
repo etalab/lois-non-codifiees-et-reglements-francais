@@ -1,27 +1,9 @@
 # Article 5
 
-Un comité stratégique, présidé par le secrétaire général du ministère de l'économie, des finances et de l'industrie, ou son adjoint, donne son avis sur les orientations dans les différents domaines de compétence de l'institut de la gestion publique et du développement économique, sans préjudice des attributions de la commission scientifique prévue par l'arrêté du 4 décembre 1992 susvisé.
+Dans le cadre de ses activités de recherche historique, l'institut est assisté d'un comité pour l'histoire économique et financière de la France.
 
-Le comité, qui se réunit au moins deux fois par an, comprend, outre son président :
+Les membres de ce comité sont choisis, dans la limite de vingt-cinq personnes, parmi les agents de l'Etat, et notamment parmi les professeurs de l'enseignement supérieur, en raison de leurs compétences particulières dans le domaine de l'histoire économique et financière.
 
-- le directeur général de l'administration et de la fonction publique ou son représentant ;
+Les intéressés sont désignés pour une durée de trois ans par le secrétaire général des ministères économique et financier, sur proposition du directeur général de l'institut.
 
-- le directeur général de la modernisation de l'Etat ou son représentant ;
-
-- le directeur des personnels et de l'adaptation de l'environnement professionnel ;
-
-- le directeur général de la comptabilité publique ;
-
-- le directeur général des impôts ;
-
-- le directeur général des douanes et droits indirects ;
-
-- le directeur général de la concurrence, de la consommation et de la répression des fraudes ;
-
-- le directeur général de l'Institut national de la statistique et des études économiques ;
-
-- le directeur général des entreprises ;
-
-- quatre personnalités qualifiées nommées par arrêté du ministre de l'économie, des finances et de l'industrie.
-
-Le secrétariat du comité stratégique est assuré par l'institut de la gestion publique et du développement économique.
+Le comité est présidé par le directeur général de l'institut.
