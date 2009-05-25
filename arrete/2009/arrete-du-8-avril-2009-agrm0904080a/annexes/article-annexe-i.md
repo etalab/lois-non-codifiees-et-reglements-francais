@@ -3,304 +3,423 @@
 <table>
 <tbody>
 <tr>
-<th>NUMÉRO<br/>
+<th>NUMÉRO <br/>
 </th>
-<th>NOM DU NAVIRE<br/>
+<th>
+<br/>NOM DU NAVIRE <br/>
 </th>
-<th>QUOTA 2009 (EN TONNES)<br/>en mer Méditerranée<br/>
+<th>
+<br/>QUOTA 2009 (EN TONNES) <p>en mer Méditerranée <br/>
+</p>
 </th>
-<th>QUOTA 2009 (EN TONNES)<br/>en océan Atlantique<br/>à l'est de la longitude 45° ouest<br/>
+<th>
+<br/>QUOTA 2009 (EN TONNES) <p>en océan Atlantique </p>
+<p>à l'est de la longitude 45° Ouest <br/>
+</p>
 </th>
 </tr>
 <tr>
-<td align="center">160035<br/>
+<td align="center">
+<br/>160035 <br/>
 </td>
-<td align="center">OUED SOUSS<br/>
+<td align="center">
+<br/>OUED SOUSS <br/>
 </td>
-<td align="center">3<br/>
+<td align="center">
+<br/>3 <br/>
 </td>
-<td align="center">0<br/>
-</td>
-</tr>
-<tr>
-<td align="center">308341<br/>
-</td>
-<td align="center">JUANICO LUCIEN RAFAEL<br/>
-</td>
-<td align="center">158<br/>
-</td>
-<td align="center">0<br/>
-</td>
-</tr>
-<tr>
-<td align="center">314949<br/>
-</td>
-<td align="center">SAINTE BERNADETTE 2<br/>
-</td>
-<td align="center">3<br/>
-</td>
-<td align="center">0<br/>
-</td>
-</tr>
-<tr>
-<td align="center">480821<br/>
-</td>
-<td align="center">VENT DU NORD<br/>
-</td>
-<td align="center">164<br/>
-</td>
-<td align="center">0<br/>
-</td>
-</tr>
-<tr>
-<td align="center">669329<br/>
-</td>
-<td align="center">GERARD LUC 3<br/>
-</td>
-<td align="center">87<br/>
-</td>
-<td align="center">0<br/>
-</td>
-</tr>
-<tr>
-<td align="center">781462<br/>
-</td>
-<td align="center">JEAN MARIE CHRISTIAN 3<br/>
-</td>
-<td align="center">138<br/>
-</td>
-<td align="center">0<br/>
-</td>
-</tr>
-<tr>
-<td align="center">819571<br/>
-</td>
-<td align="center">JANVIER GIORDANO<br/>
-</td>
-<td align="center">96<br/>
-</td>
-<td align="center">0<br/>
-</td>
-</tr>
-<tr>
-<td align="center">819572<br/>
-</td>
-<td align="center">ANNE ANTOINE 2<br/>
-</td>
-<td align="center">89<br/>
-</td>
-<td align="center">0<br/>
-</td>
-</tr>
-<tr>
-<td align="center">859074<br/>
-</td>
-<td align="center">JEAN MARIE CHRISTIAN 5<br/>
-</td>
-<td align="center">209<br/>
-</td>
-<td align="center">0<br/>
-</td>
-</tr>
-<tr>
-<td align="center">859076<br/>
-</td>
-<td align="center">SAINT SOPHIE FRANCOIS 2<br/>
-</td>
-<td align="center">92<br/>
-</td>
-<td align="center">0<br/>
-</td>
-</tr>
-<tr>
-<td align="center">860730<br/>
-</td>
-<td align="center">VILLE D'ARZEW 2<br/>
-</td>
-<td align="center">81<br/>
-</td>
-<td align="center">0<br/>
-</td>
-</tr>
-<tr>
-<td align="center">863686<br/>
-</td>
-<td align="center">CHRISDERIC II<br/>
-</td>
-<td align="center">88<br/>
-</td>
-<td align="center">0<br/>
-</td>
-</tr>
-<tr>
-<td align="center">900236<br/>
-</td>
-<td align="center">GERARD LUC IV<br/>
-</td>
-<td align="center">94<br/>
-</td>
-<td align="center">0<br/>
-</td>
-</tr>
-<tr>
-<td align="center">900265<br/>
-</td>
-<td align="center">JEAN MARIE CHRISTIAN 6<br/>
-</td>
-<td align="center">174<br/>
-</td>
-<td align="center">0<br/>
-</td>
-</tr>
-<tr>
-<td align="center">900270<br/>
-</td>
-<td align="center">JEAN MARIE CHRISTIAN 7<br/>
-</td>
-<td align="center">209<br/>
-</td>
-<td align="center">0<br/>
-</td>
-</tr>
-<tr>
-<td align="center">900271<br/>
-</td>
-<td align="center">RAYMOND ELISE III<br/>
-</td>
-<td align="center">91<br/>
-</td>
-<td align="center">0<br/>
-</td>
-</tr>
-<tr>
-<td align="center">914221<br/>
-</td>
-<td align="center">MARCAL 3<br/>
-</td>
-<td align="center">94<br/>
-</td>
-<td align="center">0<br/>
-</td>
-</tr>
-<tr>
-<td align="center">914222<br/>
-</td>
-<td align="center">SALVADOR PIERRE JOSE<br/>
-</td>
-<td align="center">88<br/>
-</td>
-<td align="center">0<br/>
-</td>
-</tr>
-<tr>
-<td align="center">914223<br/>
-</td>
-<td align="center">PROVENCE COTE D'AZUR<br/>
-</td>
-<td align="center">91<br/>
-</td>
-<td align="center">0<br/>
-</td>
-</tr>
-<tr>
-<td align="center">916344<br/>
-</td>
-<td align="center">GERALD JEAN III<br/>
-</td>
-<td align="center">88<br/>
-</td>
-<td align="center">0<br/>
-</td>
-</tr>
-<tr>
-<td align="center">916346<br/>
-</td>
-<td align="center">SAINT ANTOINE MARIE II<br/>
-</td>
-<td align="center">166<br/>
-</td>
-<td align="center">0<br/>
-</td>
-</tr>
-<tr>
-<td align="center">916469<br/>
-</td>
-<td align="center">GERALD JEAN IV<br/>
-</td>
-<td align="center">82<br/>
-</td>
-<td align="center">0<br/>
-</td>
-</tr>
-<tr>
-<td align="center">923751<br/>
-</td>
-<td align="center">CISBERLANDE 5<br/>
-</td>
-<td align="center">92<br/>
-</td>
-<td align="center">0<br/>
-</td>
-</tr>
-<tr>
-<td align="center">923752<br/>
-</td>
-<td align="center">SAINT SOPHIE FRANCOIS 3<br/>
-</td>
-<td align="center">91<br/>
-</td>
-<td align="center">0<br/>
-</td>
-</tr>
-<tr>
-<td align="center">924860<br/>
-</td>
-<td align="center">ERIC MARIN<br/>
-</td>
-<td align="center">89<br/>
-</td>
-<td align="center">0<br/>
-</td>
-</tr>
-<tr>
-<td align="center">924863<br/>
-</td>
-<td align="center">ROGER CHRISTIAN IV<br/>
-</td>
-<td align="center">88<br/>
-</td>
-<td align="center">0<br/>
-</td>
-</tr>
-<tr>
-<td align="center">924880<br/>
-</td>
-<td align="center">VILLE D'AGDE IV<br/>
-</td>
-<td align="center">89<br/>
-</td>
-<td align="center">0<br/>
-</td>
-</tr>
-<tr>
-<td align="center">925310<br/>
-</td>
-<td align="center">JANVIER LOUIS RAPHAEL<br/>
-</td>
-<td align="center">183<br/>
-</td>
-<td align="center">0<br/>
+<td align="center">
+<br/>0 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>
+<br/>308341 <br/>
 </td>
-<td align="center">Total<br/>
+<td align="center">
+<br/>JUANICO LUCIEN RAFAEL <br/>
 </td>
-<td align="center">3 017<br/>
+<td align="center">
+<br/>158 <br/>
 </td>
-<td align="center">0<br/>
+<td align="center">
+<br/>0 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>314949 <br/>
+</td>
+<td align="center">
+<br/>SAINTE BERNADETTE 2 <br/>
+</td>
+<td align="center">
+<br/>0, 187 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>480821 <br/>
+</td>
+<td align="center">
+<br/>VENT DU NORD <br/>
+</td>
+<td align="center">
+<br/>166, 813 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>669329 <br/>
+</td>
+<td align="center">
+<br/>GERARD LUC 3 <br/>
+</td>
+<td align="center">
+<br/>87 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>781462 <br/>
+</td>
+<td align="center">
+<br/>JEAN MARIE CHRISTIAN 3 <br/>
+</td>
+<td align="center">
+<br/>138 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>819571 <br/>
+</td>
+<td align="center">
+<br/>JANVIER GIORDANO <br/>
+</td>
+<td align="center">
+<br/>96 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>819572 <br/>
+</td>
+<td align="center">
+<br/>ANNE ANTOINE 2 <br/>
+</td>
+<td align="center">
+<br/>89 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>859074 <br/>
+</td>
+<td align="center">
+<br/>JEAN MARIE CHRISTIAN 5 <br/>
+</td>
+<td align="center">
+<br/>209 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>859076 <br/>
+</td>
+<td align="center">
+<br/>ST SOPHIE FRANÇOIS 2 <br/>
+</td>
+<td align="center">
+<br/>92 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>860730 <br/>
+</td>
+<td align="center">
+<br/>VILLE D'ARZEW 2 <br/>
+</td>
+<td align="center">
+<br/>81 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>863686 <br/>
+</td>
+<td align="center">
+<br/>CHRISDERIC II <br/>
+</td>
+<td align="center">
+<br/>88 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>900236 <br/>
+</td>
+<td align="center">
+<br/>GERARD LUC IV <br/>
+</td>
+<td align="center">
+<br/>94 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>900265 <br/>
+</td>
+<td align="center">
+<br/>JEAN MARIE CHRISTIAN 6 <br/>
+</td>
+<td align="center">
+<br/>174 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>900270 <br/>
+</td>
+<td align="center">
+<br/>JEAN MARIE CHRISTIAN 7 <br/>
+</td>
+<td align="center">
+<br/>209 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>900271 <br/>
+</td>
+<td align="center">
+<br/>RAYMOND ELISE III <br/>
+</td>
+<td align="center">
+<br/>91 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>914221 <br/>
+</td>
+<td align="center">
+<br/>MARCAL 3 <br/>
+</td>
+<td align="center">
+<br/>94 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>914222 <br/>
+</td>
+<td align="center">
+<br/>SALVADOR PIERRE JOSE <br/>
+</td>
+<td align="center">
+<br/>88 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>914223 <br/>
+</td>
+<td align="center">
+<br/>PROVENCE COTE D'AZUR <br/>
+</td>
+<td align="center">
+<br/>91 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>916344 <br/>
+</td>
+<td align="center">
+<br/>GERALD JEAN III <br/>
+</td>
+<td align="center">
+<br/>88 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>916346 <br/>
+</td>
+<td align="center">
+<br/>ST ANTOINE MARIE II <br/>
+</td>
+<td align="center">
+<br/>166 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>916469 <br/>
+</td>
+<td align="center">
+<br/>GERALD JEAN IV <br/>
+</td>
+<td align="center">
+<br/>82 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>923751 <br/>
+</td>
+<td align="center">
+<br/>CISBERLANDE 5 <br/>
+</td>
+<td align="center">
+<br/>92 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>923752 <br/>
+</td>
+<td align="center">
+<br/>ST SOPHIE FRANÇOIS 3 <br/>
+</td>
+<td align="center">
+<br/>91 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>924860 <br/>
+</td>
+<td align="center">
+<br/>ERIC MARIN <br/>
+</td>
+<td align="center">
+<br/>89 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>924863 <br/>
+</td>
+<td align="center">
+<br/>ROGER CHRISTIAN IV <br/>
+</td>
+<td align="center">
+<br/>88 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>924880 <br/>
+</td>
+<td align="center">
+<br/>VILLE D'AGDE IV <br/>
+</td>
+<td align="center">
+<br/>89 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>925310 <br/>
+</td>
+<td align="center">
+<br/>JANVIER LOUIS RAPHAEL <br/>
+</td>
+<td align="center">
+<br/>183 <br/>
+</td>
+<td align="center">
+<br/>0 <br/>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">
+<br/>Total <br/>
+</td>
+<td align="center">
+<br/>3 017 <br/>
+</td>
+<td align="center">
+<br/>0<br/>
 </td>
 </tr>
 </tbody>
