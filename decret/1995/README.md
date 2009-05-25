@@ -349,7 +349,6 @@
 - [Décret n°95-709 du 9 mai 1995 (LOGC9500032D)](decret-n95-709-du-9-mai-1995-logc9500032d)
 - [Décret n°95-711 du 9 mai 1995 (DOME9500023D)](decret-n95-711-du-9-mai-1995-dome9500023d)
 - [Décret n°95-712 du 9 mai 1995 (DOMX9500799D)](decret-n95-712-du-9-mai-1995-domx9500799d)
-- [Décret n°95-713 du 9 mai 1995 (MJSK9570049D)](decret-n95-713-du-9-mai-1995-mjsk9570049d)
 - [Décret n°95-714 du 9 mai 1995 (SPSA9501356D)](decret-n95-714-du-9-mai-1995-spsa9501356d)
 - [Décret n°95-715 du 9 mai 1995 (SPSS9501129D)](decret-n95-715-du-9-mai-1995-spss9501129d)
 - [Décret n°95-716 du 9 mai 1995 (SPSS9501432D)](decret-n95-716-du-9-mai-1995-spss9501432d)
