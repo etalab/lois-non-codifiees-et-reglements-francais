@@ -399,7 +399,6 @@
 - [Arrêté du 13 octobre 1998 (AGRG9801958A)](arrete-du-13-octobre-1998-agrg9801958a)
 - [Arrêté du 13 octobre 1998 (EQUI9800827A)](arrete-du-13-octobre-1998-equi9800827a)
 - [Arrêté du 13 octobre 1998 (MESP9823287A)](arrete-du-13-octobre-1998-mesp9823287a)
-- [Arrêté du 13 octobre 1998 (MJSK9870077A)](arrete-du-13-octobre-1998-mjsk9870077a)
 - [Arrêté du 13 mai 1998 (DEFG9801499A)](arrete-du-13-mai-1998-defg9801499a)
 - [Arrêté du 13 mai 1998 (EQUS9800676A)](arrete-du-13-mai-1998-equs9800676a)
 - [Arrêté du 13 mai 1998 (EQUS9800677A)](arrete-du-13-mai-1998-equs9800677a)
