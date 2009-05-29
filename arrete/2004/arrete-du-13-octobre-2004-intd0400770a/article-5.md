@@ -14,4 +14,10 @@ Dans le cadre des finalités prévues à l'article 1er et sous réserve du respe
 
 - les systèmes de télépaiement des amendes mis en oeuvre par les services compétents du Trésor public ;
 
-- les traitements automatisés relatifs au traitement des ordonnances pénales et jugements devant les tribunaux de police.
+- les traitements automatisés relatifs au traitement des ordonnances pénales et jugements devant les tribunaux de police ;
+
+- l'application de gestion centrale ;
+
+- le système d'immatriculation des véhicules ;
+
+- la base satellite des véhicules volés.

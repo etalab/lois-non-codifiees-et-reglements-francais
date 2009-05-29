@@ -6,17 +6,17 @@ Sont enregistrées dans le système contrôle automatisé les catégories de don
 
 - clichés concernant le véhicule et ses passagers relatifs aux infractions visées à l'article 1er (1°) ;
 
-- données relatives à l'infraction : nature de l'infraction, lieu, date et heure, voie contrôlée, moyens de constatation, identifiant et nom de l'officier ou agent de police judiciaire de la police ou de la gendarmerie nationales, pour les équipements embarqués ;
+- données relatives à l'infraction : nature de l'infraction, lieu, date et heure, voie contrôlée, moyens de constatation, identifiant et nom, corps et unité ou service d'affectation des agents verbalisateurs ;
 
-- identification du véhicule : numéro d'immatriculation du véhicule ayant servi à l'infraction ;
+- identification du véhicule : catégorie et numéro d'immatriculation du véhicule ayant servi à l'infraction ;
 
 - identification du titulaire du certificat d'immatriculation :
 
-état civil : nom, nom d'usage, prénoms, date et lieu de naissance, nationalité, adresse ;
+- état civil : nom, nom d'usage, prénoms, date et lieu de naissance, nationalité, adresse ;
 
 - identification du conducteur du véhicule : état civil : nom, nom d'usage, prénoms, date et lieu de naissance, nationalité, adresse ;
 
-- numéro de permis de conduire du conducteur du véhicule ;
+- catégorie et numéro de permis de conduire du conducteur du véhicule ;
 
 - montant de l'amende, nature ;
 
