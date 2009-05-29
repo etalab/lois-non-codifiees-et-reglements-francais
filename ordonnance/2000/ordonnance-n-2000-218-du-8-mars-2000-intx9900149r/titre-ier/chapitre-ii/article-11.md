@@ -1,6 +1,6 @@
 # Article 11
 
-Les personnes majeures mentionnées à l'article 1er nées avant la publication de la présente ordonnance doivent choisir un nom :
+La commission instituée à l'article 18, saisie par les personnes majeures nées avant la publication de la présente ordonnance, décide de l'établissement d'un nom figurant :
 
 1° Parmi les vocables figurant dans leur acte de naissance ;
 

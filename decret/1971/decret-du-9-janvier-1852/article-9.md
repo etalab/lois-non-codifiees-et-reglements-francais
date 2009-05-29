@@ -4,4 +4,4 @@ Dans les eaux maritimes placées sous souveraineté ou juridiction française, l
 
 Par dérogation au premier alinéa du présent article, des autorisations de pêche à bord des navires battant pavillon d'Etats non membres de la communauté économique européenne peuvent être délivrées dans les conditions prévues par le traité instituant la communauté économique européenne le traité instituant la communauté économique européenne et les règlements pris pour son application ainsi que par des accords internationaux passés par la communauté économique européenne dans les limites de leur application.
 
-Dans les eaux dont l'accès en matière de pêche ne relève pas de la communauté économique européenne, les activités de pêche pratiquées par des navires battant pavillon d'un Etat étranger peuvent être autorisées en vertu d'un accord international passé avec l'Etat du pavillon de ces navires, aux conditions fixées par cet accord.
+Des autorisations de pêche dans les zones économiques exclusives de Mayotte et de l'île de Clipperton peuvent être accordées à des navires étrangers dans des conditions et selon des modalités fixées par décret.

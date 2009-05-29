@@ -4,7 +4,7 @@ La commission est composée :
 
 1° D'un magistrat du siège désigné par ordonnance du président du tribunal supérieur d'appel, qui la préside ;
 
-2° Du préfet, représentant du Gouvernement à Mayotte, ou de son représentant ;
+2° Du préfet, représentant du Gouvernement à Mayotte, vice-président, ou de son représentant ;
 
 3° Du président du conseil général ou de son représentant ;
 
