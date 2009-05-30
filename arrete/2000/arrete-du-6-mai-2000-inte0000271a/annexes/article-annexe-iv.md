@@ -1,8 +1,8 @@
 # Article Annexe IV
 
-**Portant spécifications générales des tenues des personnels masculins et féminins**
+Portant spécifications générales des tenues des personnels masculins et féminins
 
-**du service de santé et de secours médical**
+du service de santé et de secours médical
 
 Annexe non reproduite
 
