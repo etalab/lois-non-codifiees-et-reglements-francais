@@ -10,8 +10,6 @@ Vespertilion des marais Myotis dasycneme.
 
 Grand hamster Cricetus cricetus.
 
-Loup Canis lupus.
-
 Ours brun Ursus arctos.
 
 Vison d'Europe Mustela lutreola.
