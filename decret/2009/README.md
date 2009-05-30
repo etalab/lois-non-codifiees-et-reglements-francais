@@ -537,6 +537,7 @@
 - [Décret n°2009-477 du 27 avril 2009 (IMIK0906186D)](decret-n2009-477-du-27-avril-2009-imik0906186d)
 - [Décret n°2009-92 du 27 janvier 2009 (IOCA0901614D)](decret-n2009-92-du-27-janvier-2009-ioca0901614d)
 - [Décret n°83-568 du 27 juin 1983](decret-n83-568-du-27-juin-1983)
+- [Décret n°2009-602 du 27 mai 2009 (MTSA0910478D)](decret-n2009-602-du-27-mai-2009-mtsa0910478d)
 - [Décret n°2008-1102 du 28 octobre 2008 (ECEP0812022D)](decret-n2008-1102-du-28-octobre-2008-ecep0812022d)
 - [Décret n°2008-867 du 28 août 2008 (DEVQ0815847D)](decret-n2008-867-du-28-aout-2008-devq0815847d)
 - [Décret n°2008-874 du 28 août 2008 (ESRS0818071D)](decret-n2008-874-du-28-aout-2008-esrs0818071d)
