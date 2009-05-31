@@ -97,3 +97,8 @@ Jusqu'au 31 janvier 2014
 Paris - Abidjan (Côte d'Ivoire) ;
 
 Lille - Oran (Algérie).
+
+<div align="center">Jusqu'au 31 mai  2014 :<br/>
+</div>
+
+Paris―Beyrouth (Liban).

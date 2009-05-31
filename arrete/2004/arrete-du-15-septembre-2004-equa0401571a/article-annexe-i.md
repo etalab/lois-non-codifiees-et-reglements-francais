@@ -140,6 +140,10 @@ Paris-Montréal.
 
 Paris-Toronto.
 
+Paris - Calgary
+
+Paris - Vancouver.
+
 Chili (jusqu'au 31 décembre 2012)
 
 Paris-Santiago.
