@@ -695,7 +695,6 @@
 - [Arrêté du 20 septembre 1996 (MCCF9600520A)](arrete-du-20-septembre-1996-mccf9600520a)
 - [Arrêté du 20 mai 1963](arrete-du-20-mai-1963)
 - [Arrêté du 20 mai 1996 (CPTE9600062A)](arrete-du-20-mai-1996-cpte9600062a)
-- [Arrêté du 20 mai 1996 (DEFP9601486A)](arrete-du-20-mai-1996-defp9601486a)
 - [Arrêté du 20 mai 1996 (ECOT9651508A)](arrete-du-20-mai-1996-ecot9651508a)
 - [Arrêté du 20 mai 1996 (ECOT9651513A)](arrete-du-20-mai-1996-ecot9651513a)
 - [Arrêté du 20 mai 1996 (MCCB9600302A)](arrete-du-20-mai-1996-mccb9600302a)
