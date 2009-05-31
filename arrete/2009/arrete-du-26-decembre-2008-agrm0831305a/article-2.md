@@ -46,7 +46,7 @@ Conditions d'éligibilité cumulatives :
 
 Conditions d'éligibilité :
 
-― navires détenteurs, au moment de la demande de sortie de flotte, d'une licence CIPE au titre de la délibération n° 6/2006 du 26 juin 2006 du CNPMEM fixant un contingent de licences et de timbres pour la pêche dans les estuaires et de la pêche des poissons migrateurs.
+― navires détenteurs, au moment de la demande de sortie de flotte, d'une licence CIPE au titre de la délibération n° 30/2008 du 18 septembre 2008 du CNPMEM portant contingent de licences pour la pêche dans les estuaires et de la pêche des poissons migrateurs (CIPE) pour l'année 2009.
 
 7. Langoustine :
 
