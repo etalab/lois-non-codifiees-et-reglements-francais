@@ -1,21 +1,21 @@
 # Article Annexe II
 
-Plafonds de ressources annuelles (revenu fiscal de référence) prévus à l'article R. 331-12 du code de la construction et d l'habitation applicables aux logements mentionnés au II de l'article R. 331-1 (PLA d'intégration)
+PLAFONDS DE RESSOURCES ANNUELLES IMPOSABLES PRÉVUS À L'ARTICLE R. 331-12 DU CODE DE LA CONSTRUCTION ET DE L'HABITATION APPLICABLES AUX LOGEMENTS MENTIONNÉS AU II DE L'ARTICLE R. 331-1 (PLA D'INTÉGRATION)
 
 <table>
 <tbody>
 <tr>
 <td>
-<p align="center">CATÉGORIE DE MÉNAGES </p>
+<p align="center">CATÉGORIE DE MÉNAGES</p>
 </td>
 <td>
 <p align="center">PARIS<br/>et communes limitrophes<br/>(en euros) </p>
 </td>
 <td>
-<p align="center">ÎLE-DE-FRANCE HORS PARIS<br/>et communes limitrophes<br/>(en euros)</p>
+<p align="center">ILE-DE-FRANCE<br/>hors Paris<br/>et communes limitrophes<br/>(en euros) </p>
 </td>
 <td>
-<p align="center">AUTRES RÉGIONS<br/>(en euros)</p>
+<p align="center">AUTRES RÉGIONS<br/>(en euros) </p>
 </td>
 </tr>
 <tr>
@@ -23,13 +23,13 @@ Plafonds de ressources annuelles (revenu fiscal de référence) prévus à l'art
 <br/>1 <br/>
 </td>
 <td align="center">
-<br/>12 956 <br/>
+<br/>11 993 <br/>
 </td>
 <td align="center">
-<br/>12 956 <br/>
+<br/>11 993 <br/>
 </td>
 <td align="center">
-<br/>11 261 <br/>
+<br/>10 424 <br/>
 </td>
 </tr>
 <tr>
@@ -37,13 +37,13 @@ Plafonds de ressources annuelles (revenu fiscal de référence) prévus à l'art
 <br/>2 <br/>
 </td>
 <td align="center">
-<br/>21 120 <br/>
+<br/>19 551 <br/>
 </td>
 <td align="center">
-<br/>21 120 <br/>
+<br/>19 551 <br/>
 </td>
 <td align="center">
-<br/>16 407 <br/>
+<br/>15 188 <br/>
 </td>
 </tr>
 <tr>
@@ -51,13 +51,13 @@ Plafonds de ressources annuelles (revenu fiscal de référence) prévus à l'art
 <br/>3 <br/>
 </td>
 <td align="center">
-<br/>27 686 <br/>
+<br/>25 629 <br/>
 </td>
 <td align="center">
-<br/>25 388 <br/>
+<br/>23 501 <br/>
 </td>
 <td align="center">
-<br/>19 730 <br/>
+<br/>18 264 <br/>
 </td>
 </tr>
 <tr>
@@ -65,13 +65,13 @@ Plafonds de ressources annuelles (revenu fiscal de référence) prévus à l'art
 <br/>4 <br/>
 </td>
 <td align="center">
-<br/>30 303 <br/>
+<br/>28 051 <br/>
 </td>
 <td align="center">
-<br/>27 875 <br/>
+<br/>25 804 <br/>
 </td>
 <td align="center">
-<br/>21 955 <br/>
+<br/>20 323 <br/>
 </td>
 </tr>
 <tr>
@@ -79,13 +79,13 @@ Plafonds de ressources annuelles (revenu fiscal de référence) prévus à l'art
 <br/>5 <br/>
 </td>
 <td align="center">
-<br/>36 050 <br/>
+<br/>33 371 <br/>
 </td>
 <td align="center">
-<br/>33 001 <br/>
+<br/>30 549 <br/>
 </td>
 <td align="center">
-<br/>25 686 <br/>
+<br/>23 778 <br/>
 </td>
 </tr>
 <tr>
@@ -93,13 +93,13 @@ Plafonds de ressources annuelles (revenu fiscal de référence) prévus à l'art
 <br/>6 <br/>
 </td>
 <td align="center">
-<br/>40 568 <br/>
+<br/>37 554 <br/>
 </td>
 <td align="center">
-<br/>37 135 <br/>
+<br/>34 376 <br/>
 </td>
 <td align="center">
-<br/>28 947 <br/>
+<br/>26 796 <br/>
 </td>
 </tr>
 <tr>
@@ -107,13 +107,13 @@ Plafonds de ressources annuelles (revenu fiscal de référence) prévus à l'art
 <br/>Par personne supplémentaire <br/>
 </td>
 <td align="center">
-<br/>4 521 <br/>
+<br/>4 185 <br/>
 </td>
 <td align="center">
-<br/>4 138 <br/>
+<br/>3 830 <br/>
 </td>
 <td align="center">
-<br/>3 228<br/>
+<br/>2 988<br/>
 </td>
 </tr>
 </tbody>
