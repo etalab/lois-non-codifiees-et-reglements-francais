@@ -51,6 +51,7 @@
 - [Décret n°98-1057 du 16 novembre 1998 (DEFP9801941D)](decret-n98-1057-du-16-novembre-1998-defp9801941d)
 - [Décret n°2005-469 du 16 mai 2005 (PRMX0508393D)](decret-n2005-469-du-16-mai-2005-prmx0508393d)
 - [Décret n°2005-471 du 16 mai 2005 (EQUP0500599D)](decret-n2005-471-du-16-mai-2005-equp0500599d)
+- [Décret n°2005-473 du 16 mai 2005 (EQUA0500675D)](decret-n2005-473-du-16-mai-2005-equa0500675d)
 - [Décret n°2005-475 du 16 mai 2005 (DEVO0530027D)](decret-n2005-475-du-16-mai-2005-devo0530027d)
 - [Décret n°2005-1426 du 18 novembre 2005 (INTT0500312D)](decret-n2005-1426-du-18-novembre-2005-intt0500312d)
 - [Décret n°2005-1429 du 18 novembre 2005 (ECOP0500907D)](decret-n2005-1429-du-18-novembre-2005-ecop0500907d)
