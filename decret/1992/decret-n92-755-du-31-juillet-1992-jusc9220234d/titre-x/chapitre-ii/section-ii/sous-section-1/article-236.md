@@ -14,4 +14,4 @@ Cet acte contient, à peine de nullité :
 
 5° La reproduction des articles 210 à 219 ;
 
-6° L'indication, en cas de saisie de compte, que le titulaire du compte peut demander au tiers saisi, dans les 15 jours suivant la saisie, la mise à disposition d'une somme d'un montant au plus égal au revenu minimum d'insertion pour un allocataire, dans la limite du solde créditeur du compte au jour de la réception de la demande.
+6° L'indication, en cas de saisie de compte, que le titulaire du compte peut demander au tiers saisi, dans les 15 jours suivant la saisie, la mise à disposition d'une somme au plus égale au montant forfaitaire du revenu de solidarité active mentionné au 2° de l'article L. 262-2 du code de l'action sociale et des familles applicable à un foyer composé d'une seule personne, dans la limite du solde créditeur du compte au jour de la réception de la demande.
