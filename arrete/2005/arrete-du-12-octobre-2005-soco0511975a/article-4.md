@@ -1,6 +1,6 @@
 # Article 4
 
-Le service des politiques de l'emploi et de la formation professionnelle comprend deux départements et quatre sous-directions :
+Le service des politiques de l'emploi et de la formation professionnelle comprend, outre une unité de traitement des questions écrites et des courriers parlementaires directement rattachée au chef de service, deux départements et quatre sous-directions :
 
 1° Le département des synthèses est compétent pour le suivi de l'ensemble des questions économiques et sociales en lien avec le marché du travail, les politiques d'emploi et de formation professionnelle.
 

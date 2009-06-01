@@ -6,4 +6,6 @@ La délégation générale à l'emploi et à la formation professionnelle compre
 
 - le service des politiques de l'emploi et de la formation professionnelle ;
 
-- la mission de la communication.
+- la mission de la communication ;
+
+- l'unité de conseil juridique.

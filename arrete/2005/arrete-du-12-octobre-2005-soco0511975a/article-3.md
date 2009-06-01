@@ -28,19 +28,17 @@ Il centralise, pour la délégation générale, les relations avec les correspon
 
 2° Le département des ressources et du développement comprend :
 
-- la mission des ressources humaines ;
-
-- la mission des affaires générales ;
+- la mission des ressources humaines et des affaires générales ;
 
 - la mission de l'informatique et des systèmes d'information ;
 
 - la mission de la documentation.
 
-Il conduit et accompagne les démarches de modernisation concernant la délégation générale, et cela, dans le cadre des politiques du ministère conduites par la DAGEMO.
+Il conduit et accompagne les démarches de modernisation concernant la délégation générale, et cela, dans le cadre des politiques du ministère conduites par le secrétariat général du ministère.
 
 Il est chargé de la gestion administrative des situations individuelles des agents.
 
-Il suscite et recueille les besoins de formation, participe à l'élaboration du plan de formation de l'administration centrale et en assure l'exécution en relation avec la DAGEMO.
+Il suscite et recueille les besoins de formation, participe à l'élaboration du plan de formation de l'administration centrale et en assure l'exécution en relation avec la direction des personnels et de l'adaptation de l'environnement professionnel (DPAEP).
 
 Il participe à la définition de la politique de gestion prévisionnelle des emplois et des compétences et suit l'ensemble des relations humaines et sociales internes à la délégation générale.
 
@@ -56,11 +54,15 @@ Il est responsable de l'accès de tous les agents à une documentation actualis�
 
 3° La sous-direction du fonds social européen comprend :
 
-- la mission de l'action régionale ;
+- la mission gestion du volet central ;
 
-- la mission des interventions nationales ;
+- la mission méthodes et appui ;
 
-- la mission d'appui aux systèmes de gestion.
+- la mission gestion des programmes FSE ;
+
+- la mission budget et finances ;
+
+- l'unité de certification.
 
 Elle est chargée de la définition des orientations et du pilotage national des programmes communautaires financés par le fonds social européen en appui de la stratégie européenne pour l'emploi et des politiques nationales. Elle est responsable de la gestion des programmes nationaux et exerce une responsabilité d'ensemble pour les programmes que le fonds social européen contribue à financer.
 
@@ -78,7 +80,7 @@ En liaison avec le secrétariat général des affaires européennes (SGAE) et la
 
 Elle est chargée de l'élaboration des procédures nationales et veille à l'appel des fonds communautaires.
 
-Elle assure dans les fonctions d'autorité de paiement des programmes nationaux la certification des dépenses déclarées en s'assurant de leur régularité et de leur réalité, et vérifie les systèmes de gestion et de contrôle de la dépense mis en place par les gestionnaires.
+Elle assure dans les fonctions d'autorité de paiement des programmes nationaux de la programmation 2000-2006 la certification des dépenses déclarées en s'assurant de leur régularité et de leur réalité, et vérifie les systèmes de gestion et de contrôle de la dépense mis en place par les gestionnaires.
 
 Elle assure la communication relative à l'intervention du fonds social européen au titre des obligations communautaires.
 
