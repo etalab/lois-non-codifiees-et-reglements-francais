@@ -63,7 +63,7 @@
 <p>I.-Administration centrale (y compris le ministère chargé de la jeunesse et des sports et le ministère chargé de l'enseignement supérieur) </p>
 </td>
 <td valign="top" width="74">
-<p align="center">f</p>
+<p align="center">f </p>
 </td>
 <td valign="top">
 <br/>
@@ -592,7 +592,7 @@
 </tr>
 <tr>
 <td valign="top" width="149">
-<p>Secrétaire général et chef de division (sauf lorsque ces fonctions sont exercées par des Administrateurs de l'éducation nationale, de l'enseignement supérieur et de la recherche)</p>
+<p>Secrétaire général et chef de division (sauf lorsque ces fonctions sont exercées par des Administrateurs de l'éducation nationale, de l'enseignement supérieur et de la recherche) </p>
 </td>
 <td valign="top" width="74">
 <p align="center">A </p>
@@ -668,7 +668,7 @@
 </tr>
 <tr>
 <td valign="top" width="149">
-<p>4. Personnels nommés dans l'emploi d' administrateur de l'éducation nationale, de l'enseignement supérieur et de la recherche </p>
+<p>4. Personnels nommés dans l'emploi d'administrateur de l'éducation nationale, de l'enseignement supérieur et de la recherche </p>
 </td>
 <td valign="top" width="74">
 <p align="center">A </p>
@@ -2094,7 +2094,7 @@
 </tr>
 <tr>
 <td valign="top">
-<p>a) Personnels enseignants du premier degré titulaires d'un diplôme spécialisé pour l'enseignement des jeunes handicapés affectés soit dans une classe d'intégration scolaire, soit dans une classe de perfectionnement créées dans une école maternelle ou élémentaire, ou chargés exclusivement du soutien pédagogique itinérant à l'intégration individuelle d'enfants handicapés dans une école maternelle ou assurant le secrétariat d'une commission départementale d'éducation spéciale : </p>
+<p>a) Personnels enseignants du premier degré affectés soit dans une classe d'intégration scolaire, soit dans une classe de perfectionnement créées dans une école maternelle ou élémentaire, ou chargés exclusivement du soutien pédagogique itinérant à l'intégration individuelle d'enfants handicapés dans une école maternelle ou assurant le secrétariat d'une commission départementale d'éducation spéciale : </p>
 </td>
 <td valign="top">
 <br/>
