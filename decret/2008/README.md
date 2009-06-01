@@ -653,6 +653,7 @@
 - [Décret n°2008-1357 du 19 décembre 2008 (ECEX0830255D)](decret-n2008-1357-du-19-decembre-2008-ecex0830255d)
 - [Décret n°2008-1365 du 19 décembre 2008 (MLVX0829747D)](decret-n2008-1365-du-19-decembre-2008-mlvx0829747d)
 - [Décret n°2008-1366 du 19 décembre 2008 (MLVX0829749D)](decret-n2008-1366-du-19-decembre-2008-mlvx0829749d)
+- [Décret n°2008-1370 du 19 décembre 2008 (ECEC0821871D)](decret-n2008-1370-du-19-decembre-2008-ecec0821871d)
 - [Décret n°2008-1371 du 19 décembre 2008 (JUSC0824387D)](decret-n2008-1371-du-19-decembre-2008-jusc0824387d)
 - [Décret n°2008-1372 du 19 décembre 2008 (AGRS0825176D)](decret-n2008-1372-du-19-decembre-2008-agrs0825176d)
 - [Décret n°2008-1373 du 19 décembre 2008 (BCFS0822796D)](decret-n2008-1373-du-19-decembre-2008-bcfs0822796d)
