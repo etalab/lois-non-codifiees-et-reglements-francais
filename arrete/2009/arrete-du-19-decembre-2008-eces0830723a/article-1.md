@@ -318,6 +318,32 @@ ENQUETES STATISTIQUES PUBLIQUES D'INITIATIVE REGIONALE POUR 2009
 </td>
 </tr>
 <tr>
+<td>
+<p align="center">
+<strong>Ministère de l'économie, de l'industrie et de l'emploi</strong>
+</p>
+<p align="center">
+<em>Institut national de la statistique et des études économiques</em>
+</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>(*) Enquête trimestrielle sur les ressources en transmissions oléo-hydrauliques et pneumatiques.<br/>
+</p>
+</td>
+<td>L'enquête vise à poursuivre l'enquête trimestrielle de branche correspondante menée auparavant avec le Sessi. Elle a pour objectif principal de suivre le chiffre d'affaires livré sur le territoire national afin de mieux appréhender le total des ressources par grands segments de produits en composants et systèmes de transmission oléo-hydrauliques et pneumatiques. La collecte aura lieu chaque trimestre par voie postale auprès d'environ 60 entreprises de 20 salariés et plus (code NAF 28. 12Z), en France métropolitaine. Cette enquête est réalisée par l'organisme professionnel agréé Artema. <br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">(*) Enquête nouvelle, rénovée ou enquête de périodicité supérieure à l'année.<br/>
+</p>
+</td>
+<td/>
+</tr>
+<tr>
 <td colspan="2" valign="top" width="454">
 <p>(*) Enquête nouvelle, rénovée ou enquête de périodicité supérieure à l'année.</p>
 </td>
