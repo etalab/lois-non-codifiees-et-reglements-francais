@@ -18,6 +18,8 @@
 - [Décret n°2009-379 du 2 avril 2009 (BCFS0902374D)](decret-n2009-379-du-2-avril-2009-bcfs0902374d)
 - [Décret n°2009-4 du 2 janvier 2009 (AGRS0830858D)](decret-n2009-4-du-2-janvier-2009-agrs0830858d)
 - [Décret n°2009-5 du 2 janvier 2009 (SJSP0819969D)](decret-n2009-5-du-2-janvier-2009-sjsp0819969d)
+- [Décret n°2009-610 du 2 juin 2009 (DEVN0908280D)](decret-n2009-610-du-2-juin-2009-devn0908280d)
+- [Décret n°2009-612 du 2 juin 2009 (ECED0810713D)](decret-n2009-612-du-2-juin-2009-eced0810713d)
 - [Décret n°75-557 du 2 juillet 1975](decret-n75-557-du-2-juillet-1975)
 - [Décret n°2008-13 du 3 janvier 2008 (JUSG0770774D)](decret-n2008-13-du-3-janvier-2008-jusg0770774d)
 - [Décret n°2009-123 du 3 février 2009 (ECEC0823029D)](decret-n2009-123-du-3-fevrier-2009-ecec0823029d)

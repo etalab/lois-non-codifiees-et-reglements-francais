@@ -4,4 +4,5 @@
 - [D. - Personnels civils envoyés en mission temporaire
 à l'étranger.](d)
 - [A. - Personnels militaires en service à l'étranger.](a)
+- [B. - Personnels civils en service à l'étranger.](b)
 - [E. - Dispositions communes.](e)
