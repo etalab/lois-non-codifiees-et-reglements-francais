@@ -206,7 +206,6 @@
 - [Arrêté du 9 juillet 1999 (ATEN9980083A)](arrete-du-9-juillet-1999-aten9980083a)
 - [Arrêté du 9 juillet 1999 (ATEN9980224A)](arrete-du-9-juillet-1999-aten9980224a)
 - [Arrêté du 9 juillet 1999 (EQUH9901058A)](arrete-du-9-juillet-1999-equh9901058a)
-- [Arrêté du 9 juin 1999 (DEFP9901613A)](arrete-du-9-juin-1999-defp9901613a)
 - [Arrêté du 9 juin 1999 (MESP9921859A)](arrete-du-9-juin-1999-mesp9921859a)
 - [Arrêté du 9 juin 1999 (MESS9921592A)](arrete-du-9-juin-1999-mess9921592a)
 - [Arrêté du 9 novembre 1999 (EQUT9901586A)](arrete-du-9-novembre-1999-equt9901586a)

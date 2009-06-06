@@ -132,17 +132,6 @@ COMITÉS TECHNIQUES PARITAIRES CENTRAUX D'ÉTABLISSEMENTS PUBLICS RELEVANT DU MI
 </tr>
 <tr>
 <td valign="top" width="425">
-<p>Institut universitaire de formations des maîtres du Pacifique</p>
-</td>
-<td valign="top" width="96">
-<p align="center">3</p>
-</td>
-<td valign="top" width="84">
-<p align="center">3</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="425">
 <p>Centre technique du livre de l'enseignement supérieure</p>
 </td>
 <td valign="top" width="96">
@@ -275,28 +264,6 @@ COMITÉS TECHNIQUES PARITAIRES CENTRAUX D'ÉTABLISSEMENTS PUBLICS RELEVANT DU MI
 </tr>
 <tr>
 <td valign="top" width="425">
-<p>Ecole nationale supérieure d'électronique, informatique et radiocommunications de Bordeaux </p>
-</td>
-<td valign="top" width="96">
-<p align="center">5</p>
-</td>
-<td valign="top" width="84">
-<p align="center">5</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="425">
-<p>Ecole nationale supérieure de chimie et de physique de Bordeaux</p>
-</td>
-<td valign="top" width="96">
-<p align="center">4</p>
-</td>
-<td valign="top" width="84">
-<p align="center">4</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="425">
 <p>Ecole nationale supérieure de mécanique et des microtechniques</p>
 </td>
 <td valign="top" width="96">
@@ -416,48 +383,57 @@ COMITÉS TECHNIQUES PARITAIRES CENTRAUX D'ÉTABLISSEMENTS PUBLICS RELEVANT DU MI
 <td align="center">5</td>
 </tr>
 <tr>
-<td>  Institut d'études politiques d'Aix-en-Provence </td>
+<td>Institut d'études politiques d'Aix-en-Provence </td>
 <td>
-<p align="center"> 3</p>
+<p align="center">3</p>
 </td>
 <td>
-<p align="center"> 3</p>
-</td>
-</tr>
-<tr>
-<td> Institut d'études politiques de Lille </td>
-<td>
-<p align="center"> 3</p>
-</td>
-<td>
-<p align="center"> 3</p>
+<p align="center">3</p>
 </td>
 </tr>
 <tr>
-<td> Institut d'études politiques de Lyon </td>
+<td>Institut d'études politiques de Lille </td>
 <td>
-<p align="center"> 3</p>
+<p align="center">3</p>
 </td>
 <td>
-<p align="center"> 3</p>
-</td>
-</tr>
-<tr>
-<td> Institut d'études politiques de Rennes </td>
-<td>
-<p align="center"> 3</p>
-</td>
-<td>
-<p align="center"> 3</p>
+<p align="center">3</p>
 </td>
 </tr>
 <tr>
-<td> Ecole nationale supérieure d'ingénieurs de Caen </td>
+<td>Institut d'études politiques de Lyon </td>
 <td>
-<p align="center"> 5</p>
+<p align="center">3</p>
 </td>
 <td>
-<p align="center"> 5</p>
+<p align="center">3</p>
+</td>
+</tr>
+<tr>
+<td>Institut d'études politiques de Rennes </td>
+<td>
+<p align="center">3</p>
+</td>
+<td>
+<p align="center">3</p>
+</td>
+</tr>
+<tr>
+<td>Ecole nationale supérieure d'ingénieurs de Caen </td>
+<td>
+<p align="center">5</p>
+</td>
+<td>
+<p align="center">5</p>
+</td>
+</tr>
+<tr>
+<td>Institut d'études politiques de Bordeaux</td>
+<td>
+<p align="center">5</p>
+</td>
+<td>
+<p align="center">5</p>
 </td>
 </tr>
 </tbody>
