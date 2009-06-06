@@ -1,0 +1,3 @@
+# Article 12
+
+La mise en œuvre des traitements répondant aux finalités prévues au présent arrêté est subordonnée à l'envoi préalable à la Commission nationale de l'informatique et des libertés, en application du IV de l'article 26 de la loi du 6 janvier 1978 susvisée, d'une déclaration faisant référence au présent arrêté et précisant le lieu exact d'implantation du traitement automatisé, les modalités d'exercice du droit d'accès ainsi que l'engagement spécifique du maire qu'ont été mises en œuvre des mesures de sécurité et de confidentialité des données et des modalités d'habilitation individuelle des personnels communaux ayant accès à ces fichiers.
