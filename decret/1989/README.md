@@ -241,7 +241,6 @@
 - [Décret n°89-926 du 19 décembre 1989 (DEFP8901704D)](decret-n89-926-du-19-decembre-1989-defp8901704d)
 - [Décret n°89-108 du 20 février 1989 (MENU8802480D)](decret-n89-108-du-20-fevrier-1989-menu8802480d)
 - [Décret n°89-110 du 20 février 1989 (SPSS8801656D)](decret-n89-110-du-20-fevrier-1989-spss8801656d)
-- [Décret n°89-144 du 20 février 1989 (PRME8861199D)](decret-n89-144-du-20-fevrier-1989-prme8861199d)
 - [Décret n°89-251 du 20 avril 1989 (FPPX8900051D)](decret-n89-251-du-20-avril-1989-fppx8900051d)
 - [Décret n°89-405 du 20 juin 1989 (EQUT8900289D)](decret-n89-405-du-20-juin-1989-equt8900289d)
 - [Décret n°89-418 du 20 juin 1989 (PRMZ8905047D)](decret-n89-418-du-20-juin-1989-prmz8905047d)
