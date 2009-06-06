@@ -83,6 +83,7 @@
 - [Décret n°2006-1563 du 8 décembre 2006 (SANP0624416D)](decret-n2006-1563-du-8-decembre-2006-sanp0624416d)
 - [Décret n°2006-1564 du 8 décembre 2006 (AGRF0602330D)](decret-n2006-1564-du-8-decembre-2006-agrf0602330d)
 - [Décret n°2006-1565 du 8 décembre 2006 (AGRP0601951D)](decret-n2006-1565-du-8-decembre-2006-agrp0601951d)
+- [Décret n°2006-672 du 8 juin 2006 (BUDX0600088D)](decret-n2006-672-du-8-juin-2006-budx0600088d)
 - [Décret n°2006-1233 du 9 octobre 2006 (MENS0601883D)](decret-n2006-1233-du-9-octobre-2006-mens0601883d)
 - [Décret n°2006-1234 du 9 octobre 2006 (MENS0601882D)](decret-n2006-1234-du-9-octobre-2006-mens0601882d)
 - [Décret n°2006-1360 du 9 novembre 2006 (SOCX0609700D)](decret-n2006-1360-du-9-novembre-2006-socx0609700d)
