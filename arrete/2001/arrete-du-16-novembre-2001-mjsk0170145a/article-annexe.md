@@ -11,35 +11,37 @@ A. - Emplois en administration centrale
 <p align="center">DÉSIGNATION DE L'EMPLOI</p>
 </td>
 <td>
-<p align="center">NOMBRE </p>
-<br/>
-<p align="center">d'emplois</p>
+<p align="center">NOMBRE D'EMPLOIS</p>
 </td>
 <td>
-<p align="center">NOMBRE </p>
-<br/>
-<p align="center">de points </p>
-<br/>
-<p align="center">par emploi</p>
+<p align="center">NOMBRE DE POINTS <br/>par emploi</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2">
-<p>Directeur d'administration centrale du ministère de la santé, de la jeunesse et des sports</p>
+<td align="center">
+<p align="left">Directeur des sports</p>
 </td>
-<td rowspan="2">
-<p align="center">4</p>
+<td align="center">1</td>
+<td align="center">150</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Directeur de la jeunesse, de l'éducation populaire et de la vie associative</p>
 </td>
-<td rowspan="2">
-<p align="center">140</p>
+<td align="center">1</td>
+<td align="center">150</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Directeur des affaires financières, juridiques et des services</p>
 </td>
+<td align="center">1</td>
+<td align="center">150</td>
 </tr>
 </tbody>
 </table>
 
-2° Chef du service de l'inspection générale
-
-de la jeunesse et des sports
+2° Chef du service de l'inspection générale de la jeunesse et des sports
 
 <table>
 <tbody>
@@ -48,28 +50,18 @@ de la jeunesse et des sports
 <p align="center">DÉSIGNATION DE L'EMPLOI</p>
 </td>
 <td>
-<p align="center">NOMBRE </p>
-<br/>
-<p align="center">d'emplois</p>
+<p align="center">NOMBRE D'EMPLOIS</p>
 </td>
 <td>
-<p align="center">NOMBRE </p>
-<br/>
-<p align="center">de points </p>
-<br/>
-<p align="center">par emploi</p>
+<p align="center">NOMBRE DE POINTS <br/>par emploi</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2">
-<p>Chef du service de l'inspection générale</p>
+<td align="center">
+<p align="left">Chef du service de l'inspection générale</p>
 </td>
-<td rowspan="2">
-<p align="center">1</p>
-</td>
-<td rowspan="2">
-<p align="center">140</p>
-</td>
+<td align="center">1</td>
+<td align="center">140</td>
 </tr>
 </tbody>
 </table>
@@ -83,60 +75,54 @@ de la jeunesse et des sports
 <p align="center">DÉSIGNATION DE L'EMPLOI</p>
 </td>
 <td>
-<p align="center">NOMBRE </p>
-<br/>
-<p align="center">d'emplois</p>
+<p align="center">NOMBRE D'EMPLOIS</p>
 </td>
 <td>
-<p align="center">NOMBRE </p>
-<br/>
-<p align="center">de points </p>
-<br/>
-<p align="center">par emploi</p>
+<p align="center">NOMBRE DE POINTS <br/>par emploi</p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Adjoint au directeur des sports</p>
+<td align="center">
+<p align="left">Ajouter la mention : à compter du 1er mars 2010</p>
 </td>
-<td>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Chef de service, adjoint à la directrice des ressources humaines</p>
+</td>
+<td align="center">
 <p align="center">1</p>
 </td>
-<td>
-<p align="center">110</p>
+<td align="center">
+<p align="center">120</p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Adjoint au directeur de la jeunesse et de l'éducation populaire</p>
+<td align="center">
+<p align="left">Adjoint au directeur des sports</p>
 </td>
-<td>
+<td align="center">
 <p align="center">1</p>
 </td>
-<td>
-<p align="center">110</p>
+<td align="center">
+<p align="center">120</p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Adjoint au directeur de la vie associative, de l'emploi et des formations</p>
+<td align="center">
+<p align="left">Adjoint au directeur de la jeunesse, de l'éducation populaire et de la vie associative</p>
 </td>
-<td>
+<td align="center">
 <p align="center">1</p>
 </td>
-<td>
-<p align="center">110</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2">
-<p>Adjoint au directeur des ressources humaines, de l'administration et de la coordination générale</p>
-</td>
-<td rowspan="2">
-<p align="center">2</p>
-</td>
-<td rowspan="2">
-<p align="center">110</p>
+<td align="center">
+<p align="center">120</p>
 </td>
 </tr>
 </tbody>
@@ -151,28 +137,46 @@ de la jeunesse et des sports
 <p align="center">DÉSIGNATION DE L'EMPLOI</p>
 </td>
 <td>
-<p align="center">NOMBRE </p>
-<br/>
-<p align="center">d'emplois</p>
+<p align="center">NOMBRE D'EMPLOIS</p>
 </td>
 <td>
-<p align="center">NOMBRE </p>
-<br/>
-<p align="center">de points </p>
-<br/>
-<p align="center">par emploi</p>
+<p align="center">NOMBRE DE POINTS <br/>par emploi</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2">
-<p>Sous-directeur au ministère de la santé, de la jeunesse et des sports</p>
+<td align="center">
+<p align="left">Sous-directeur à la direction des sports</p>
 </td>
-<td rowspan="2">
-<p align="center">6</p>
+<td align="center">3</td>
+<td align="center">110</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Sous-directeur à la direction de la jeunesse, de l'éducation populaire et de la vie associative</p>
 </td>
-<td rowspan="2">
-<p align="center">100</p>
+<td align="center">1</td>
+<td align="center">110</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Sous-directeur des affaires financières</p>
 </td>
+<td align="center">1</td>
+<td align="center">100</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Ajouter la mention : à compter du 1er mars 2010</p>
+</td>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Sous-directeur des services généraux et de l'immobilier, direction des affaires financières, juridiques et des services</p>
+</td>
+<td align="center">1</td>
+<td align="center">80</td>
 </tr>
 </tbody>
 </table>
@@ -186,28 +190,32 @@ de la jeunesse et des sports
 <p align="center">DÉSIGNATION DE L'EMPLOI</p>
 </td>
 <td>
-<p align="center">NOMBRE </p>
-<br/>
-<p align="center">d'emplois</p>
+<p align="center">NOMBRE D'EMPLOIS</p>
 </td>
 <td>
-<p align="center">NOMBRE </p>
-<br/>
-<p align="center">de points </p>
-<br/>
-<p align="center">par emploi</p>
+<p align="center">NOMBRE DE POINTS<br/>par emploi</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2">
-<p>Directeur de projet "politique de gestion des ressources humaines"</p>
+<td align="center">
+<p align="left">Directeur de projet suivi des dossiers relatifs à l'administration territoriale </p>
 </td>
-<td rowspan="2">
-<p align="center">1</p>
+<td align="center">1</td>
+<td align="center">80</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Directeur de projet politique de gestion des ressources humaines </p>
 </td>
-<td rowspan="2">
-<p align="center">80</p>
+<td align="center">1</td>
+<td align="center">80</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Directeur de projet animation des réseaux </p>
 </td>
+<td align="center">1</td>
+<td align="center">80</td>
 </tr>
 </tbody>
 </table>
@@ -223,16 +231,10 @@ B. - Emplois en services déconcentrés
 <p align="center">DÉSIGNATION DE L'EMPLOI</p>
 </td>
 <td>
-<p align="center">NOMBRE </p>
-<br/>
-<p align="center">d'emplois</p>
+<p align="center">NOMBRE<br/>d'emplois</p>
 </td>
 <td>
-<p align="center">NOMBRE </p>
-<br/>
-<p align="center">de points </p>
-<br/>
-<p align="center">par emploi</p>
+<p align="center">NOMBRE<br/>de points<br/>par emploi</p>
 </td>
 </tr>
 <tr>
@@ -544,16 +546,10 @@ B. - Emplois en services déconcentrés
 <p align="center">DÉSIGNATION DE L'EMPLOI</p>
 </td>
 <td>
-<p align="center">NOMBRE </p>
-<br/>
-<p align="center">d'emplois</p>
+<p align="center">NOMBRE<br/>d'emplois</p>
 </td>
 <td>
-<p align="center">NOMBRE </p>
-<br/>
-<p align="center">de points </p>
-<br/>
-<p align="center">par emploi</p>
+<p align="center">NOMBRE<br/>de points<br/>par emploi</p>
 </td>
 </tr>
 <tr>
@@ -680,9 +676,7 @@ B. - Emplois en services déconcentrés
 </tbody>
 </table>
 
-3° Directeur régional adjoint de la jeunesse,
-
-des sports et des loisirs
+3° Directeur régional adjoint de la jeunesse,des sports et des loisirs
 
 <table>
 <tbody>
@@ -691,16 +685,10 @@ des sports et des loisirs
 <p align="center">DÉSIGNATION DE L'EMPLOI</p>
 </td>
 <td>
-<p align="center">NOMBRE </p>
-<br/>
-<p align="center">d'emplois</p>
+<p align="center">NOMBRE<br/>d'emplois</p>
 </td>
 <td>
-<p align="center">NOMBRE </p>
-<br/>
-<p align="center">de points </p>
-<br/>
-<p align="center">par emploi</p>
+<p align="center">NOMBRE<br/>de points<br/>par emploi</p>
 </td>
 </tr>
 <tr>
