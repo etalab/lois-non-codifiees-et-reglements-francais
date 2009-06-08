@@ -1,6 +1,6 @@
 # Article 4
 
-Les commissions contentieuses et la commission supérieure des soins gratuits ont qualité :
+Les tribunaux départementaux des pensions, ou les tribunaux des pensions dans les collectivités d'outre-mer, et les cours régionales des pensions, ou les cours des pensions d'outre-mer dans les collectivités d'outre-mer, ont qualité :
 
 1° Pour opérer tous redressements et abattements sur les mémoires qui leur sont déférés ;
 
