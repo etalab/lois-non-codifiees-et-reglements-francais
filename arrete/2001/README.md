@@ -418,7 +418,6 @@
 - [Arrêté du 23 février 2001 (AGRA0100408A)](arrete-du-23-fevrier-2001-agra0100408a)
 - [Arrêté du 23 février 2001 (ATEE0100046A)](arrete-du-23-fevrier-2001-atee0100046a)
 - [Arrêté du 23 février 2001 (ATEE0100047A)](arrete-du-23-fevrier-2001-atee0100047a)
-- [Arrêté du 23 janvier 2001 (DEFP0101111A)](arrete-du-23-janvier-2001-defp0101111a)
 - [Arrêté du 23 janvier 2001 (MENS0100117A)](arrete-du-23-janvier-2001-mens0100117a)
 - [Arrêté du 23 juillet 2001 (PRMX0105014A)](arrete-du-23-juillet-2001-prmx0105014a)
 - [Arrêté du 23 novembre 2001 (AGRG0102351A)](arrete-du-23-novembre-2001-agrg0102351a)
