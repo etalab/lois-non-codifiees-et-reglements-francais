@@ -31,7 +31,7 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, la liste
 <tr>
 <td align="center">Conseil général des mines<br/>
 </td>
-<td align="center">Chargé de mission auprès du président de la section  innovation et entreprises <br/>
+<td align="center">Chargé de mission auprès du président de la section innovation et entreprises <br/>
 </td>
 </tr>
 <tr>
@@ -49,19 +49,19 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, la liste
 <tr>
 <td align="center">Direction générale des douanes et droits indirects<br/>
 </td>
-<td align="center">Adjoint au chef du bureau du budget et de la programmation, des affaires financières et du réseau comptable, responsable de la section  programmation pluriannuelle et contrôle de gestion <br/>
+<td align="center">Adjoint au chef du bureau du budget et de la programmation, des affaires financières et du réseau comptable, responsable de la section programmation pluriannuelle et contrôle de gestion <br/>
 </td>
 </tr>
 <tr>
 <td align="center">Délégation générale à l'emploi et à la formation professionnelle<br/>
 </td>
-<td align="center">Chef du bureau  ressources humaines et affaires générales <br/>
+<td align="center">Chef du bureau ressources humaines et affaires générales <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Mission  Parlement européen <br/>
+<td align="center">Mission Parlement européen <br/>
 </td>
-<td align="center">Adjoint au chef de la mission  Parlement européen <br/>
+<td align="center">Adjoint au chef de la mission Parlement européen <br/>
 </td>
 </tr>
 <tr>
@@ -79,7 +79,7 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, la liste
 <tr>
 <td align="center">Direction générale du Trésor et de la politique économique<br/>
 </td>
-<td align="center">Chef du bureau  pôle informatique et systèmes d'information <br/>
+<td align="center">Chef du bureau pôle informatique et systèmes d'information <br/>
 </td>
 </tr>
 <tr>
@@ -91,13 +91,23 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, la liste
 <tr>
 <td align="center">Secrétariat général des affaires européennes<br/>
 </td>
-<td align="center">Chef du bureau  coordination générale, administration du service et informatique <br/>
+<td align="center">Chef du bureau coordination générale, administration du service et informatique <br/>
 </td>
 </tr>
 <tr>
-<td> Direction générale de la conccurrence, de la consommation et de la repression des fraudes</td>
 <td>
-<p align="center"> adjoint au directeur du service de l'informatique </p>
+<p align="center">Direction générale de la conccurrence, de la consommation et de la repression des fraudes</p>
+</td>
+<td>
+<p align="center">adjoint au directeur du service de l'informatique </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center"> Direction des personnels et de l'adaptation de l'environnement professionnel</p>
+</td>
+<td>
+<p align="center">Délégué ministériel au handicap, responsable de la cellule de recrutement et d'insertion des personnes handicapées</p>
 </td>
 </tr>
 </tbody>
