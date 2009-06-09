@@ -627,7 +627,6 @@
 - [Arrêté du 19 janvier 1996 (FCEC9610025A)](arrete-du-19-janvier-1996-fcec9610025a)
 - [Arrêté du 19 janvier 1996 (INTF9600131A)](arrete-du-19-janvier-1996-intf9600131a)
 - [Arrêté du 19 janvier 1996 (INTF9600132A)](arrete-du-19-janvier-1996-intf9600132a)
-- [Arrêté du 19 janvier 1996 (TASP9620381A)](arrete-du-19-janvier-1996-tasp9620381a)
 - [Arrêté du 19 juillet 1996 (ECOS9650024A)](arrete-du-19-juillet-1996-ecos9650024a)
 - [Arrêté du 19 juillet 1996 (ECOS9650028A)](arrete-du-19-juillet-1996-ecos9650028a)
 - [Arrêté du 19 juillet 1996 (EQUK9600977A)](arrete-du-19-juillet-1996-equk9600977a)

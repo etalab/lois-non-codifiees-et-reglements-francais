@@ -1,6 +1,5 @@
 # 1980
 
-- [Décret n°72-828 du 1 septembre 1972](decret-n72-828-du-1-septembre-1972)
 - [Décret n°80-793 du 1 octobre 1980](decret-n80-793-du-1-octobre-1980)
 - [Décret n°80-968 du 1 décembre 1980](decret-n80-968-du-1-decembre-1980)
 - [Décret n°80-975 du 1 décembre 1980](decret-n80-975-du-1-decembre-1980)
@@ -69,7 +68,6 @@
 - [Décret n°80-356 du 14 mai 1980](decret-n80-356-du-14-mai-1980)
 - [Décret n°80-148 du 15 février 1980](decret-n80-148-du-15-fevrier-1980)
 - [Décret n°80-274 du 15 avril 1980](decret-n80-274-du-15-avril-1980)
-- [Décret n°80-277 du 15 avril 1980](decret-n80-277-du-15-avril-1980)
 - [Décret n°80-533 du 15 juillet 1980](decret-n80-533-du-15-juillet-1980)
 - [Décret n°80-31 du 17 janvier 1980](decret-n80-31-du-17-janvier-1980)
 - [Décret n°80-33 du 17 janvier 1980](decret-n80-33-du-17-janvier-1980)

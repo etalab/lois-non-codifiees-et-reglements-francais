@@ -122,7 +122,6 @@
 - [Arrêté du 4 juin 2003 (AGRA0301004A)](arrete-du-4-juin-2003-agra0301004a)
 - [Arrêté du 4 juin 2003 (ECOP0300248A)](arrete-du-4-juin-2003-ecop0300248a)
 - [Arrêté du 4 juin 2003 (MAEF0310027A)](arrete-du-4-juin-2003-maef0310027a)
-- [Arrêté du 4 juin 2003 (MENS0300799A)](arrete-du-4-juin-2003-mens0300799a)
 - [Arrêté du 4 juin 2003 (MENS0300801A)](arrete-du-4-juin-2003-mens0300801a)
 - [Arrêté du 4 juin 2003 (PRMX0306673A)](arrete-du-4-juin-2003-prmx0306673a)
 - [Arrêté du 4 juin 2004 (MENF0401174A)](arrete-du-4-juin-2004-menf0401174a)

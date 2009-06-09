@@ -9,4 +9,3 @@
 - [TITRE VII : CESSION.](titre-vii)
 - [TITRE VIII : QUALIFICATION DE TYPE D'AÉRONEF DE COLLECTION.](titre-viii)
 - [TITRE IX : DISPOSITIONS FINALES.](titre-ix)
-- [Article 29](article-29.md)

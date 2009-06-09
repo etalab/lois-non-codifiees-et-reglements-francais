@@ -4,7 +4,6 @@
 - [Arrêté du 4 janvier 1960](arrete-du-4-janvier-1960)
 - [Arrêté du 5 décembre 1961](arrete-du-5-decembre-1961)
 - [Arrêté du 5 janvier 1961](arrete-du-5-janvier-1961)
-- [Arrêté du 7 juin 1960](arrete-du-7-juin-1960)
 - [Arrêté du 9 août 1960](arrete-du-9-aout-1960)
 - [Arrêté du 9 janvier 1960](arrete-du-9-janvier-1960)
 - [Arrêté du 10 février 1960](arrete-du-10-fevrier-1960)

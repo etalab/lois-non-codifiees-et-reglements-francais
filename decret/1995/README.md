@@ -759,7 +759,6 @@
 - [Décret n°95-454 du 25 avril 1995 (DOMP9500016D)](decret-n95-454-du-25-avril-1995-domp9500016d)
 - [Décret n°95-459 du 25 avril 1995 (INDP9500410D)](decret-n95-459-du-25-avril-1995-indp9500410d)
 - [Décret n°95-460 du 25 avril 1995 (INDP9500411D)](decret-n95-460-du-25-avril-1995-indp9500411d)
-- [Décret n°95-492 du 25 avril 1995 (DEFD9501284D)](decret-n95-492-du-25-avril-1995-defd9501284d)
 - [Décret n°95-493 du 25 avril 1995 (MENL9500168D)](decret-n95-493-du-25-avril-1995-menl9500168d)
 - [Décret n°95-494 du 25 avril 1995 (INDG9500211D)](decret-n95-494-du-25-avril-1995-indg9500211d)
 - [Décret n°95-495 du 25 avril 1995 (BUDD9550010D)](decret-n95-495-du-25-avril-1995-budd9550010d)
