@@ -562,7 +562,6 @@
 - [Arrêté du 15 janvier 2009 (DEVT0826291A)](arrete-du-15-janvier-2009-devt0826291a)
 - [Arrêté du 15 janvier 2009 (ESRH0830815A)](arrete-du-15-janvier-2009-esrh0830815a)
 - [Arrêté du 15 janvier 2009 (ESRH0830817A)](arrete-du-15-janvier-2009-esrh0830817a)
-- [Arrêté du 15 novembre 1999 (EQUT9901623A)](arrete-du-15-novembre-1999-equt9901623a)
 - [Arrêté du 15 mai 2009 (AGRF0909670A)](arrete-du-15-mai-2009-agrf0909670a)
 - [Arrêté du 15 mai 2009 (AGRP0908193A)](arrete-du-15-mai-2009-agrp0908193a)
 - [Arrêté du 15 mai 2009 (AGRS0765081A)](arrete-du-15-mai-2009-agrs0765081a)
