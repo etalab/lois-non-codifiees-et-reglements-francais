@@ -10,8 +10,6 @@ Outre, d'une part, l'inspection générale des affaires sociales, la délégatio
 
 -la direction de la sécurité sociale ;
 
--la direction de l'administration générale, du personnel et du budget ;
-
 -la direction de la recherche, des études, de l'évaluation et des statistiques ;
 
 -la délégation interministérielle à la famille ;

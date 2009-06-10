@@ -16,6 +16,8 @@ Elle contribue à assurer la protection des mineurs pendant leur temps de vacanc
 
 Elle assure le suivi des actions d'information destinées aux jeunes, relatives à leur vie quotidienne et à leurs droits et devoirs. Elle favorise l'expression des jeunes et soutient les structures de participation et de dialogue qui leur sont ouvertes. Elle soutient la prise d'initiatives et l'engagement des jeunes.
 
+Elle assure l'animation générale du fonds d'expérimentation pour la jeunesse créé par l'article 25 de la loi n° 2008-1249 du 1er décembre 2008 généralisant le revenu de solidarité active et réformant les politiques d'insertion. Elle assure le secrétariat du conseil scientifique et du conseil de gestion de ce fonds.
+
 Elle concourt à la mise en oeuvre des politiques visant à prévenir les comportements qui entraînent des risques pour la santé et soutient les actions en faveur de l'insertion sociale et professionnelle.
 
 Elle contribue au développement des programmes d'action européens et internationaux en matière de jeunesse et d'éducation populaire.
