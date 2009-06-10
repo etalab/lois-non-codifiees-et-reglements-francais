@@ -1,0 +1,3 @@
+# Article 5
+
+L'établissement est habilité à acquérir des participations dans des sociétés, groupements ou organismes dont l'objet concourt à la réalisation de ses missions, selon les modalités du dernier alinéa de l'article 18.
