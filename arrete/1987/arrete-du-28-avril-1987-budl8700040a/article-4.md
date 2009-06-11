@@ -14,6 +14,12 @@ Les informations traitées sont les suivantes :
 
 -montant des salaires et des éléments de rémunération afférent aux heures supplémentaires et complémentaires exonéré au sens de l'article 81 quater du code général des impôts.
 
+2° bis  Concernant les bénéficiaires d'indemnités temporaires visées au 8° de  l'article 81 du code général des impôts :
+
+― nom(s) et prénoms, sexe, date et  lieu de naissance, adresse complète ;
+
+― montant des  indemnités temporaires.
+
 3° Concernant les seules personnes physiques faisant l'objet de déclarations transmises par les tiers déclarants visés à l'article R. * 81 A du livre des procédures fiscales : numéro d'inscription au répertoire national d'identification des personnes physiques ;
 
 4° Concernant les salariés ayant exercé leur activité professionnelle sur une partie seulement de l'année civile, à l'exception de ceux qui n'étaient pas rémunérés en fonction d'un horaire de travail, et les salariés ayant exercé leur activité professionnelle à temps partiel : nombre d'heures effectivement rémunérées au cours de l'année civile ; pour les agents de l'Etat et de ses établissements publics, ceux des collectivités territoriales et de leurs établissements publics et pour les agents des établissements mentionnés à l'article 2 de la loi n° 86-33 du 9 janvier 1986 susvisée, lorsqu'ils ont exercé leur activité professionnelle à temps partiel ou non complet et n'étaient pas soumis à une durée de travail résultant d'une convention collective :
