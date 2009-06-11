@@ -12,4 +12,4 @@ Commission n° 4 : assistants ingénieurs ;
 
 Commission n° 5 : techniciens et secrétaires d'administration de la recherche ;
 
-Commission n° 6 : adjoints techniques de la recherche et agents techniques de la recherche.
+Commission n° 6 : adjoints techniques de la recherche.

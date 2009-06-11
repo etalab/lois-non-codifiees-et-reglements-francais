@@ -193,35 +193,48 @@ La composition des commissions administratives paritaires visées à l'article 1
 </td>
 </tr>
 <tr>
-<td rowspan="2" valign="top" width="74">
+<td rowspan="4" valign="top" width="74">
 <p align="center">6</p>
 </td>
 <td valign="top" width="275">
-<p>Adjoints techniques principaux de la recherche et agents techniques principaux de la recherche </p>
+<p>Adjoints techniques principaux de la recherche de 1re classe </p>
 </td>
 <td width="65">
-<p align="center">1</p>
+<p align="center">―</p>
 </td>
 <td width="70">
-<p align="center">1</p>
+<p align="center">―</p>
 </td>
-<td rowspan="2" width="57">
-<p align="center">3</p>
+<td rowspan="4" width="57">
+<p align="center">2</p>
 </td>
-<td rowspan="2">
-<p align="center">3</p>
+<td rowspan="4">
+<p align="center">2</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="275">
-<p>Adjoints techniques de la recherche et agents techniques de la recherche</p>
+<p>Adjoints techniques principaux de 2e classe</p>
 </td>
 <td width="65">
-<p align="center">2</p>
+<p align="center">1</p>
 </td>
 <td width="70">
-<p align="center">2</p>
+<p align="center">1</p>
 </td>
+</tr>
+<tr>
+<td>Adjoints techniques de la recherche de 1re classe<br/>
+</td>
+<td align="center">―<br/>
+</td>
+<td align="center">―<br/>
+</td>
+</tr>
+<tr>
+<td>Adjoints techniques de la recherche de 2e classe</td>
+<td align="center">1</td>
+<td align="center">1</td>
 </tr>
 </tbody>
 </table>
