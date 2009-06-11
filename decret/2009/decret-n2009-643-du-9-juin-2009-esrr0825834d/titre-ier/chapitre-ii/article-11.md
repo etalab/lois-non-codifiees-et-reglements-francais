@@ -1,0 +1,7 @@
+# Article 11
+
+Toute personne responsable de la conception ou du développement d'un système ou d'un sous-système critique au regard de la sécurité des personnes et des biens et de la protection de la santé publique et de l'environnement au sens de la réglementation technique prévue au premier alinéa de l'article 4 de la loi du 3 juin 2008 susvisée, destiné à être utilisé dans le cadre d'une opération spatiale, peut soumettre au Centre national d'études spatiales un dossier en décrivant les caractéristiques techniques générales ainsi que son plan de développement, en vue de permettre au centre d'en attester la conformité, en tout ou partie, à la réglementation technique précitée.
+
+Le Centre national d'études spatiales prescrit les contrôles, essais et analyses requis par la réglementation technique. Au terme de cet examen, le président du centre remet au soumissionnaire, pour chaque étape du développement réalisée, un document attestant la conformité du système ou du sous-système critique à la réglementation technique, qui peut être produit à l'appui d'une demande d'autorisation présentée dans les conditions prévues au chapitre Ier ci-dessus.
+
+Les documents attestant de cette conformité ne sauraient valoir autorisation au sens de l'article 2 de la loi du 3 juin 2008 susvisée. Ils ne préjugent pas de la conformité dudit système ou sous-système à la réglementation technique pour une utilisation dans un cadre autre que celui prévu dans le dossier technique soumis pour l'opération spatiale considérée.
