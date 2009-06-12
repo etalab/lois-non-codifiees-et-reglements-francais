@@ -1,6 +1,6 @@
 # Article 1
 
-Les montants de la prime de restructuration de service instituée par le décret du 17 avril 2008 susvisé pouvant être attribuée aux fonctionnaires et agents non titulaires de l'Etat en fonction dans les services de la direction générale de l'aviation civile, mutés ou déplacés dans le cadre d'opérations de restructuration des services mentionnés dans l'annexe à l'arrêté du 15 juillet 2008 susvisé, sont fixés ainsi qu'il suit :
+Les montants de la prime de restructuration de service instituée par le décret du 17 avril 2008 susvisé pouvant être attribuée aux        fonctionnaires, agents non titulaires et personnels ouvriers de l'Etat en fonction dans les services de la direction générale de l'aviation civile, mutés ou déplacés dans le cadre d'opérations de restructuration des services mentionnés dans l'annexe à l'arrêté du 15 juillet 2008 susvisé, sont fixés ainsi qu'il suit :
 
 1° En cas de changement du lieu de travail de l'agent entraînant un changement de résidence familiale, sous réserve que le trajet aller-retour entre la résidence familiale initiale et le nouveau lieu de travail soit allongé d'une distance égale ou supérieure à vingt kilomètres :
 

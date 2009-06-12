@@ -6,7 +6,7 @@ Elle propose la définition de la politique des finances publiques, de la politi
 
 Elle est compétente sur les référentiels relatifs aux fonctions support de l'Etat, à la fonction immobilière et aux partenariats public-privé.
 
-Elle est chargée de la mission " provisions ", en lien avec la deuxième sous-direction, ainsi que des missions " accords monétaires internationaux ", " avances à divers services de l'Etat ou organismes gérant des services publics ", " avances aux collectivités territoriales, " remboursements et dégrèvements" et "gestion du patrimoine immobilier de l'Etat". Elle a également compétence pour le programme " charge de la dette et trésorerie de l'Etat ".
+Elle est chargée de la mission " provisions ", en lien avec la deuxième sous-direction, ainsi que des missions " accords monétaires internationaux ", " avances à divers services de l'Etat ou organismes gérant des services publics ", " avances aux collectivités territoriales, " remboursements et dégrèvements" et "gestion du patrimoine immobilier de l'Etat". Elle a également compétence pour le programme " charge de la dette et trésorerie de l'Etat " et pour le programme " entretien des bâtiments de l'Etat ".
 
 II. - La première sous-direction comprend :
 

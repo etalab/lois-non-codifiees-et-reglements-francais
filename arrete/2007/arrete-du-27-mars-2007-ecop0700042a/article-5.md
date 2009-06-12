@@ -1,8 +1,8 @@
 # Article 5
 
-I. - La quatrième sous-direction est chargée des missions "écologie, développement et aménagement durables" (à l'exception du programme "protection de l'environnement et prévention des risques"), " contrôle et exploitation aériens ", " politique des territoires ", " outre-mer ", " ville et logement ", ainsi que des programmes " épargne " et " radars ".
+I. - La quatrième sous-direction est chargée des missions "écologie, développement et aménagement durables", " contrôle et exploitation aériens ", " politique des territoires ", " ville et logement ", " avances au fonds d'aide à l'acquisition de véhicules propres ", ainsi que des programmes " épargne " et " radars ".
 
-Elle assure la synthèse des travaux budgétaires relatifs aux ministères ou aux organismes en charge des politiques de l'équipement, des transports, de la mer, de l'énergie et des matières premières », de l'aménagement du territoire, de l'outre-mer, de la ville et du logement.
+Elle assure la synthèse des travaux budgétaires relatifs aux ministères ou aux organismes en charge des politiques de l'équipement, de l'environnement, des transports, de la mer, de l'énergie et des matières premières , de l'aménagement du territoire, de la ville et du logement.
 
 II. - La quatrième sous-direction comprend :
 
@@ -14,16 +14,20 @@ Il concourt à l'exercice de la tutelle des entreprises et établissements publi
 
 Il traite des questions relatives au financement des politiques et infrastructures de transport.
 
-Le bureau " équipement et politique des territoires " :
+Le bureau " développement durable " :
 
 Il est chargé des missions et des programmes précisés dans l'annexe au présent arrêté.
 
-Il traite des questions statutaires et indemnitaires relatives aux personnels relevant des ministères chargés de l'équipement, des transports et de la mer, du budget annexe du contrôle et de l'exploitation aériens ainsi qu'aux personnels de la ville et du logement relevant des corps de l'équipement.
+Il traite des questions statutaires et indemnitaires relatives aux personnels relevant des corps des ministères chargés de l'équipement, de l'environnement, des transports, de l'aviation civile et de la mer ainsi qu'aux personnels de la ville et du logement relevant des corps de l'équipement.
 
-Le bureau " ville, logement et outre-mer " :
+Il assure la coordination des différents bureaux de la direction sur les problématiques relatives au développement durable et à la fiscalité écologique. Il concourt à l'exercice de la tutelle des entreprises et établissements publics des secteurs de l'équipement, de l'environnement et de gestion de l'après-mines.
+
+Le bureau " logement, ville et territoires " :
 
 Il est chargé des missions et des programmes précisés dans l'annexe au présent arrêté.
 
-Il traite des questions relatives au financement des politiques du logement, de la ville et de l'outre-mer et assure la coordination des différents bureaux dans le domaine de l'énergie et des transports. Il concourt à l'exercice de la tutelle des entreprises et établissements publics des secteurs de la ville, du logement, de l'outre-mer et de l'énergie (après-mines).
+Il traite des questions relatives au financement des politiques du logement, de la ville, de l'urbanisme et de l'aménagement des territoires. Il assure la synthèse budgétaire des contrats de projet Etat-région et coordonne l'action des bureaux de la direction en la matière.
 
-Dans son domaine de compétence, chacun des bureaux assure la synthèse des travaux budgétaires relatifs aux ministères ou aux organismes en charge des politiques correspondantes. La coordination de la mission "écologie, développement et aménagement durables" est assurée par le bureau "Transports" aux différentes étapes de la procédure budgétaire.
+Il concourt à l'exercice de la tutelle des entreprises et établissements publics des secteurs de la ville, du logement, de l'urbanisme et de l'équipement.
+
+Dans son domaine de compétence, chacun des bureaux assure la synthèse des travaux budgétaires relatifs aux ministères ou aux organismes en charge des politiques correspondantes. La coordination de la mission "écologie, développement et aménagement durables" est assurée par le bureau "Transports" aux différentes étapes de la procédure budgétaire et celle de la mission " ville et logement " est assurée par le bureau " logement, ville et territoires " .

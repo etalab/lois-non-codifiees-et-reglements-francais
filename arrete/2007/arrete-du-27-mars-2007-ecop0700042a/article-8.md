@@ -1,14 +1,14 @@
 # Article 8
 
-I. - La septième sous-direction est chargée des missions " action extérieure de l'Etat ", " aide publique au développement ", " prêts à des Etats étrangers ", " agriculture, pêche, forêt et affaires rurales ", "immigration, asile et intégration" et du programme " appels en garantie de l'Etat ". Elle est également chargée des programmes " sécurité et qualité sanitaires de l'alimentation ", " enseignement technique agricole ", " enseignement supérieur et recherche agricole ", " Radio France internationale " et " audiovisuel extérieur "ainsi que du compte d'affectation spéciale "développement agricole et rural.
+I.-La septième sous-direction est chargée des missions " action extérieure de l'Etat ", " aide publique au développement ", " prêts à des Etats étrangers ", " agriculture, pêche, alimentation, forêt et affaires rurales ", " immigration, asile et intégration " et du programme " appels en garantie de l'Etat ". Elle est également chargée des programmes, " enseignement technique agricole ", " enseignement supérieur et recherche agricole ",   ainsi que du compte d'affectation spéciale " développement agricole et rural.
 
 Elle traite des dispositifs d'aide au commerce extérieur.
 
-Elle assure la synthèse des travaux budgétaires relatifs aux ministères ou aux organismes en charge de l'agriculture, des affaires européennes, des affaires étrangères, de la coopération, de l'aide publique au développement du commerce extérieur et de l'immigration, de l'asile et de l'intégration .
+Elle assure la synthèse des travaux budgétaires relatifs aux ministères ou aux organismes en charge de l'agriculture, des affaires européennes, des affaires étrangères, de la coopération, de l'aide publique au développement du commerce extérieur et de l'immigration, de l'asile et de l'intégration.
 
 Elle assure le suivi des aspects budgétaires des travaux relatifs aux politiques européennes.
 
-II. - La septième sous-direction comprend :
+II.-La septième sous-direction comprend :
 
 Le bureau " agriculture " :
 
