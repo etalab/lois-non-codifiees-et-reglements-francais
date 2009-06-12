@@ -80,7 +80,7 @@
 <p align="left">Caisse de garantie du logement locatif social </p>
 </td>
 <td align="left" valign="middle">
-<p align="left">Emplois de niveau A requérant une compétence spécifique en matière d'analyse financière. </p>
+<p align="left">Emplois de niveau A requérant une compétence spécifique en matière d'analyse financière.</p>
 </td>
 </tr>
 <tr>
@@ -216,7 +216,7 @@
 <p align="left">Ecole polytechnique </p>
 </td>
 <td align="left" valign="middle">
-<p align="left">Emplois d'enseignement, ainsi qu'emplois scientifiques, techniques et administratifs de recherche de catégories A et B </p>
+<p align="left">Emplois d'enseignement, ainsi qu'emplois scientifiques, techniques et administratifs de recherche de catégories A et B.</p>
 </td>
 </tr>
 <tr>
@@ -308,7 +308,7 @@
 <p align="left">Laboratoire national de dépistage du dopage </p>
 </td>
 <td align="left" valign="middle">
-<p align="left">Emplois requérant une compétence spécifique de chef de département, cadre technique ou technicien d'analyses spécialisé dans la détection des produits et procédés dopants.</p>
+<p align="left">Emplois requérant une compétence spécifique de chef de département, cadre technique ou technicien d'analyses spécialisé dans la détection des produits et procédés dopants </p>
 </td>
 </tr>
 <tr>
@@ -364,12 +364,12 @@
 <p align="left">Agence nationale des titres sécurisés </p>
 </td>
 <td>
-<p align="left">Emplois de catégories A et B requérant des compétences spécialisées dans les domaines des technologies et des systèmes d'information indispensables à la conception et à la gestion des titres sécurisés. Emplois de catégorie C liés à des fonctions de téléopérateur ou d'assistance informatique, technique et administrative au sein du centre d'appels.</p>
+<p align="left">Emplois de catégories A et B requérant des compétences spécialisées dans les domaines des technologies et des systèmes d'information indispensables à la conception et à la gestion des titres sécurisés. Emplois de catégorie C liés à des fonctions de téléopérateur ou d'assistance informatique, technique et administrative au sein du centre d'appels </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="left">Etablissement public du parc national de la Réunion</p>
+<p align="left">Etablissement public du parc national de la Réunion. </p>
 </td>
 <td>
 <p align="left">Emplois de catégories B et C nécessaires à l'information, la médiation, l'aménagement et la mise en valeur du patrimoine requérant des connaissances spécialisées du patrimoine naturel et culturel réunionnais. </p>
@@ -390,6 +390,14 @@
 <td>
 <p align="left">Les emplois de catégories A et B requérant des connaissances spécialisées en matière de programmation culturelle et production, d'animation du réseau et des partenariats et de développement des publics, applicables dans le domaine des populations et de l'histoire de l'immigration. </p>
 <p align="left">Les emplois de catégories A et B liés à la médiation.</p>
+</td>
+</tr>
+<tr>
+<td align="left">
+<p align="left">Etablissement de retraite additionnelle de la fonction publique</p>
+</td>
+<td>
+<p align="left">Emplois requérant des compétences spécifiques en matière de gestion et d'analyse financière ainsi que ceux requérant des compétences spécialisées en actuariat.</p>
 </td>
 </tr>
 </tbody>
