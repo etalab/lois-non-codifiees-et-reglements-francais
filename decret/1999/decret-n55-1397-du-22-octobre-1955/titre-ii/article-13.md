@@ -4,6 +4,6 @@ Les droits d'accès et de rectification prévus aux articles 39 et 40 de la loi 
 
 1° Pour les personnes résidant dans un département, auprès du bureau chargé de l'établissement des cartes nationales d'identité de la préfecture ou de la sous-préfecture ;
 
-2° Pour les personnes résidant dans un territoire d'outre-mer ou la Mayotte ou de Saint-Pierre-et-Miquelon et en Nouvelle-Calédonie, auprès des services du représentant de l'Etat chargés de l'établissement des cartes nationales d'identité ;
+2° Pour les  personnes résidant dans une collectivité régie par l'article 74 de la  Constitution et en Nouvelle-Calédonie, auprès des services du représentant de  l'Etat chargés de l'établissement des cartes nationales d'identité ;
 
 3° Pour les personnes résidant à l'étranger, auprès du poste consulaire ou de la section consulaire du poste diplomatique ainsi qu'auprès des services du ministère des affaires étrangères chargés de l'établissement des cartes nationales d'identité.

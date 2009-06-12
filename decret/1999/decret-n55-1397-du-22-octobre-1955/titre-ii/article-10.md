@@ -8,6 +8,6 @@ Sous réserve des dispositions des articles 11 et 11-1 ci-après, ne peuvent êt
 
 a) Dans les préfectures et les sous-préfectures ;
 
-b) Dans les services du représentant de l'Etat dans les territoires d'outre-mer et les collectivités territoriales de Mayotte et de Saint-Pierre-et-Miquelon et en Nouvelle-Calédonie ;
+b) Dans les  services du représentant de l'Etat dans les collectivités régies par l'article  74 de la Constitution et en Nouvelle-Calédonie ;
 
 c) Dans les postes diplomatiques pourvus d'une section consulaire et dans les postes consulaires à l'étranger ainsi que dans les services du ministère des affaires étrangères chargés de suivre l'établissement des cartes.
