@@ -1,0 +1,5 @@
+# Article 4
+
+L'information prévue à l'article 2 doit inclure l'ensemble des composantes tarifaires du prix total de l'appel susceptible d'être facturé par le fournisseur de services de communications électroniques.
+
+Lorsque la tarification distingue un prix de communication téléphonique et un prix destiné à rémunérer la prestation de service, la première composante tarifaire peut être qualifiée dans le message de « prix d'une communication normale » sans précision complémentaire dès lors que son prix n'excède pas le tarif souscrit par le consommateur auprès de son fournisseur de services de communications électroniques pour les appels vers les numéros fixes français, hors communications entre territoires des départements, régions et collectivités d'outre-mer ou entre ces territoires et le territoire métropolitain. L'information relative à la première composante peut également être remplacée par une information sur les conditions dans lesquelles elle peut être obtenue par le consommateur.
