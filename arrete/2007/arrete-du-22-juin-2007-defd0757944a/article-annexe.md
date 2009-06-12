@@ -151,7 +151,7 @@
 <p>Directeur de l'établissement administratif et technique du service des essences des armées</p>
 </td>
 <td valign="top" width="227">
-<p align="center">MAPA × 100</p>
+<p align="center">Sans limitation</p>
 </td>
 </tr>
 <tr>
@@ -172,7 +172,7 @@
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Directeur du laboratoire du service des essences des armées</p>
+<p>Directeurs du laboratoire du service des essences des armées</p>
 </td>
 <td valign="top" width="227">
 <p align="center">MAPA × 20</p>
