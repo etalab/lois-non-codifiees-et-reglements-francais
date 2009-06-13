@@ -56,7 +56,6 @@
 - [Arrêté du 3 janvier 1997 (ECOR9705003A)](arrete-du-3-janvier-1997-ecor9705003a)
 - [Arrêté du 3 juillet 1996 (MAEA9620314A)](arrete-du-3-juillet-1996-maea9620314a)
 - [Arrêté du 3 juillet 1997 (AGRS9701272A)](arrete-du-3-juillet-1997-agrs9701272a)
-- [Arrêté du 3 juillet 1997 (JUSF9750039A)](arrete-du-3-juillet-1997-jusf9750039a)
 - [Arrêté du 3 juillet 1997 (MESP9722211A)](arrete-du-3-juillet-1997-mesp9722211a)
 - [Arrêté du 3 juillet 1997 (MESS9722210A)](arrete-du-3-juillet-1997-mess9722210a)
 - [Arrêté du 3 juillet 1997 (MJSK9770067A)](arrete-du-3-juillet-1997-mjsk9770067a)
