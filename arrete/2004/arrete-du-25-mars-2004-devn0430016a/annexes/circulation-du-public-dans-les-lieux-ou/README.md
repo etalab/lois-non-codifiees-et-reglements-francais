@@ -1,3 +1,0 @@
-# CIRCULATION DU PUBLIC DANS LES LIEUX Où SONT HÉBERGÉS OU CIRCULENT DES ANIMAUX.
-
-- [Article Annexe 2](article-annexe-2.md)

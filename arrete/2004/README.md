@@ -744,7 +744,6 @@
 - [Arrêté du 25 juin 2004 (AGRE0401483A)](arrete-du-25-juin-2004-agre0401483a)
 - [Arrêté du 25 juin 2004 (AGRG0401495A)](arrete-du-25-juin-2004-agrg0401495a)
 - [Arrêté du 25 juin 2004 (MENS0401376A)](arrete-du-25-juin-2004-mens0401376a)
-- [Arrêté du 25 mars 2004 (DEVN0430016A)](arrete-du-25-mars-2004-devn0430016a)
 - [Arrêté du 25 mars 2004 (EQUS0400500A)](arrete-du-25-mars-2004-equs0400500a)
 - [Arrêté du 25 mars 2005 (EQUA0500180A)](arrete-du-25-mars-2005-equa0500180a)
 - [Arrêté du 25 novembre 2003 (SANP0324633A)](arrete-du-25-novembre-2003-sanp0324633a)
