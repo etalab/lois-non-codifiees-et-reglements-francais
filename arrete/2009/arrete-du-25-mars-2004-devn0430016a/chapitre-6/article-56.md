@@ -1,0 +1,3 @@
+# Article 56
+
+Sauf s'ils sont utilisés pour les besoins propres de l'établissement en matière de diffusion des connaissances ou de conservation, l'exploitant doit tenir à la disposition des institutions à caractère scientifique ou pédagogique les cadavres d'animaux susceptibles de présenter un intérêt particulier notamment en ce qui concerne les espèces rares, menacées ou protégées dont il importe que tous les éléments soient conservés dans les archives et collections patrimoniales. Ces cadavres ne doivent pas constituer une source de transmission de maladies à d'autres animaux ou aux personnes.
