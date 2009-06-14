@@ -1035,7 +1035,6 @@
 - [Arrêté du 30 septembre 1994 (SPSS9403096A)](arrete-du-30-septembre-1994-spss9403096a)
 - [Arrêté du 30 septembre 1994 (TEFE9401046A)](arrete-du-30-septembre-1994-tefe9401046a)
 - [Arrêté du 30 mai 1994 (EQUH9400995A)](arrete-du-30-mai-1994-equh9400995a)
-- [Arrêté du 30 mai 1994 (EQUK9401015A)](arrete-du-30-mai-1994-equk9401015a)
 - [Arrêté du 31 août 1994 (ECOT9440198A)](arrete-du-31-aout-1994-ecot9440198a)
 - [Arrêté du 31 août 1994 (ENVP9430309A)](arrete-du-31-aout-1994-envp9430309a)
 - [Arrêté du 31 août 1994 (EQUP9401505A)](arrete-du-31-aout-1994-equp9401505a)
