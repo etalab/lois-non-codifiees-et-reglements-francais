@@ -4,7 +4,6 @@
 - [Article 6](article-6.md)
 - [Article 8](article-8.md)
 - [Article 9](article-9.md)
-- [Article 18](article-18.md)
 - [Article 27](article-27.md)
 - [Article 30](article-30.md)
 - [Article 34](article-34.md)
