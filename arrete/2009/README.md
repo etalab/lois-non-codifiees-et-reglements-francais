@@ -1079,6 +1079,7 @@
 - [Arrêté du 25 février 2009 (MTSC0828564A)](arrete-du-25-fevrier-2009-mtsc0828564a)
 - [Arrêté du 25 juillet 1973](arrete-du-25-juillet-1973)
 - [Arrêté du 25 juin 1999 (MESF9910920A)](arrete-du-25-juin-1999-mesf9910920a)
+- [Arrêté du 25 mars 2004 (DEVN0430016A)](arrete-du-25-mars-2004-devn0430016a)
 - [Arrêté du 25 mars 2009 (AGRG0906295A)](arrete-du-25-mars-2009-agrg0906295a)
 - [Arrêté du 25 mars 2009 (AGRG0907165A)](arrete-du-25-mars-2009-agrg0907165a)
 - [Arrêté du 25 mars 2009 (AGRP0907222A)](arrete-du-25-mars-2009-agrp0907222a)
