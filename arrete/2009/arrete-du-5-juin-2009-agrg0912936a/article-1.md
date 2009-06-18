@@ -1,0 +1,3 @@
+# Article 1
+
+Dans le cadre de la lutte obligatoire, conduite après avis des directions régionales de l'alimentation, de l'agriculture et de la forêt-services régionaux de l'alimentation (DRAAF-SRAL), les traitements préventifs appropriés visés à l'annexe I aux points 2 (c, i) et 2 (d, i) de la décision de la Commission susvisée et certaines mesures appropriées visées à l'annexe II, au point 1 a, la décision de la Commission susvisée sont réalisés, sur palmiers non alimentaires, à l'aide de produits phytopharmaceutiques en concentré soluble à base de 200 g/l d'imidaclopride dans les conditions d'emploi figurant en annexe du présent arrêté.

@@ -1,0 +1,3 @@
+# Article 3
+
+Dans le cadre de la lutte obligatoire, conduite après avis des directions régionales de l'alimentation, de l'agriculture et de la forêt-services régionaux de l'alimentation (DRAAF-SRAL), les traitements contre Paysandisia archon sur palmiers non alimentaires à l'aide d'un produit phytopharmaceutique formulé sous forme de microgranulés contenant des spores de Beauveria bassiana 147 à raison de 5 × 10e8 par gramme de matière sèche, autorisé à la mise sur le marché pour le traitement des parties aériennes des arbres et arbustes d'ornement, dans les conditions d'emploi figurant en annexe du présent arrêté, sont recommandés.

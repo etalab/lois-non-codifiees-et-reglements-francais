@@ -1,0 +1,3 @@
+# Article 4
+
+Dans le cadre de la lutte obligatoire, conduite après avis de directions de l'agriculture et de la forêt-service de la protection des végétaux de La Réunion (DAF-SPV), les traitements de lutte contre les larves d'Hoplochelus marginalis et d'Alissonotum piceum sur canne à sucre et en traitements généraux du sol dans le département de La Réunion peuvent être réalisés à l'aide de produits phytopharmaceutiques microgranulés contenant des spores de Beauveria tenella 96 à raison de 0,2 × 10e8 par gramme de matière sèche, dans les conditions d'emploi figurant en annexe du présent arrêté.

@@ -1,0 +1,3 @@
+# Article 2
+
+Sont également admis à suivre la formation conduisant à la délivrance du diplôme d'études supérieures de la marine marchande les candidats issus du cycle de formation de capitaine de 1re classe de la navigation maritime, titulaires du brevet d'officier de la marine marchande, qui ont accompli, en qualité d'officier breveté, postérieurement à la délivrance de leur brevet d'officier de la marine marchande, huit mois de navigation effective dans les conditions fixées par l'arrêté du 1er juillet 1999 susvisé, soit dans la fonction d'officier polyvalent, soit à raison de quatre mois dans chacun des services pont et machine.

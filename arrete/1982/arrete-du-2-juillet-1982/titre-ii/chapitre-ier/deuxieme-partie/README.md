@@ -4,3 +4,4 @@
 - [2° Usage des strapontins.](2-usage-des-strapontins)
 - [4° Transport en commun d'enfants.](4-transport-en-commun-d-enfants)
 - [5° Transport de personnes handicapées en fauteuils roulants.](5-transport-de-personnes-handicapees-en-fauteuils-roulants)
+- [3° Dérogations aux spécifications générales.](3-derogations-aux)
