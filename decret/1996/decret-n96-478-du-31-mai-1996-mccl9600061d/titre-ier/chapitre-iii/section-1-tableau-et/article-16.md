@@ -16,7 +16,7 @@ Le tableau comporte pour chaque personne physique inscrite :
 
 3° La date et le numéro d'inscription au tableau ;
 
-4° Le diplôme ou le titre pris en considération pour l'inscription ;
+4° La mention du diplôme prévu au a du 4° de l'article 3 de la loi du 7 mai 1946 susvisée ou la date de la décision ministérielle portant reconnaissance de qualification, le cas échéant accompagnée de la mention du titre de formation pris en compte pour reconnaître la qualification ;
 
 5° Le mode d'exercice de la profession ;
 

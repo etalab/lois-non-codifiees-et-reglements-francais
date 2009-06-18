@@ -1,3 +1,11 @@
 # Article 40
 
-Le professionnel mentionné à l'article 37 communique au conseil régional toute modification affectant la déclaration qu'il a souscrite, et, pour ceux d'entre eux dont la validité est limitée dans le temps, toute prorogation ou tout renouvellement de documents venus à expiration.
+La déclaration prévue à l'article 39 est accompagnée des documents suivants :
+
+- une attestation certifiant que le professionnel est légalement établi dans un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen pour y exercer la profession de géomètre expert ;
+
+- lorsque ni la profession de géomètre expert ni la formation conduisant à cette profession ne sont réglementées dans cet Etat d'établissement, la preuve par tout moyen que le professionnel a exercé cette profession pendant au moins deux ans au cours des dix années qui précèdent la prestation.
+
+A ces documents sont jointes en tant que de besoin leurs traductions en langue française.
+
+La déclaration prévue à l'article 39 est aussi accompagnée de ces documents en cas de changement matériel relatif à la situation établie par eux.

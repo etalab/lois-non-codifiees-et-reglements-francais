@@ -53,7 +53,7 @@ Code de l'aviation civile
 <tr>
 <td>2 </td>
 <td>Décision de classement des aérodromes. </td>
-<td>Article R. 222-3 </td>
+<td>Article R. 222-3</td>
 </tr>
 <tr>
 <td>3 </td>
@@ -909,6 +909,26 @@ Décret n° 2005-276 du 24 mars 2005 relatif à l'interopérabilité des systèm
 <p>système ferroviaire transeuropéen conventionnel. </p>
 </td>
 <td>Article 10 </td>
+</tr>
+</tbody>
+</table>
+
+_Mesure prise par le ministre chargé de l'urbanisme_
+
+Décret n° 96-478 du 31 mai 1996 portant règlement de la profession de géomètre expert et code des devoirs professionnels
+
+<table>
+<tbody>
+<tr>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>Décision relative à la reconnaissance de qualifications professionnelles de ressortissants d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen <br/>
+</td>
+<td align="center">
+<br/>Article 11, premier et deuxième alinéa <br/>
+</td>
 </tr>
 </tbody>
 </table>

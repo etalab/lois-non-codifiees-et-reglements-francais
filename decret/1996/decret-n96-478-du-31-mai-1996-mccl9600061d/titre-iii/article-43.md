@@ -1,5 +1,3 @@
 # Article 43
 
-En cas de manquement aux dispositions du présent titre, les professionnels mentionnés à l'article 37 sont soumis aux dispositions du titre VI du présent décret relatives à la discipline des géomètres experts et passibles des peines disciplinaires mentionnées au dernier alinéa de l'article 24 de la loi du 7 mai 1946 modifiée susvisée.
-
-L'autorité disciplinaire française peut demander à l'autorité compétente de l'Etat membre dans lequel est établi le professionnel concerné communication des renseignements professionnels concernant ce dernier. Elle informe cette autorité de toutes décisions prises. Ces communications ne portent pas atteinte au caractère confidentiel des renseignements fournis.
+En cas de manquement au secret professionnel ou à l'obligation d'assurance prévus à l'article 2-1 de la loi du 7 mai 1946 susvisée ou au respect des règles mentionnées à l'article 42 ci-dessus, le professionnel est passible des sanctions disciplinaires prévues au dernier alinéa de l'article 24 de cette loi prononcées dans les conditions de l'article 82 et des chapitres II, III et IV du titre VI du présent décret.

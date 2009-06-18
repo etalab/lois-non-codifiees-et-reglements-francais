@@ -1,6 +1,6 @@
 # Article 49
 
-Le géomètre expert doit s'attacher à la satisfaction du client mais doit refuser toute mission non compatible avec les règles édictées par le présent chapitre.
+Le géomètre expert doit s'attacher à la satisfaction du client mais doit refuser toute mission non compatible avec les règles édictées par le présent titre.
 
 Il conseille le client dans le choix du travail qui correspond le mieux aux besoins de celui-ci.
 

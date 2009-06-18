@@ -1,3 +1,5 @@
 # Article 42
 
-Les dispositions du chapitre III du titre II du présent décret sont applicables à la conciliation des conflits d'ordre professionnel qui opposent les professionnels mentionnés à l'article 37 exécutant les prestations de services et les géomètres experts, géomètres experts associés et sociétés de géomètres experts.
+Le professionnel est tenu au respect des dispositions des articles 45, 46, 48, 49, alinéas 2 et 3, 49-1, 50, 55, alinéa 1, et 56 pour les prestations qu'il exécute sur le territoire national.
+
+Il doit s'attacher à la satisfaction du client mais doit refuser toute mission non compatible avec les dispositions du précédent alinéa.
