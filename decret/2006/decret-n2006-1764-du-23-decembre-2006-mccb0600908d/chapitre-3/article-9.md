@@ -15,3 +15,5 @@ Les membres mentionnés aux 3° et 4° sont désignés par arrêté du ministre 
 Le comité d'experts peut entendre toute personne dont l'audition lui paraît de nature à éclairer ses choix. Il ne peut délibérer valablement et arrêter ses choix que si trois au moins de ses membres sont présents ou représentés.
 
 En cas de partage égal des voix, celle du président est prépondérante.
+
+Le comité d'experts peut, si l'ensemble de ses membres en sont d'accord, statuer sur une ou plusieurs demandes d'agrément provisoire ou définitif par voie électronique.

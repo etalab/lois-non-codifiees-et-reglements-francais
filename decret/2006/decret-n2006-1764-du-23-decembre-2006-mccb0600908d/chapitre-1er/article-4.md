@@ -10,10 +10,10 @@ La demande d'agrément à titre provisoire est accompagnée des pièces suivante
 
 4° Pour le calcul du seuil mentionné au dernier alinéa du III de l'article 220 octies du code général des impôts, la liste de l'ensemble des productions telles que définies au c du 1° du II du même article, commercialisées les deux années précédant l'année de référence pour le calcul du crédit d'impôt ;
 
-5° Une déclaration sur l'honneur attestant que le projet de production remplit les conditions prévues aux a et b du 1° du II de l'article 220 octies du code général des impôts ;
+5° Une déclaration sur l'honneur attestant que le projet de production ou de développement remplit les conditions prévues aux a et b du 1° du II de l'article 220 octies du code général des impôts ;
 
 6° Une déclaration sur l'honneur que l'entreprise respecte l'ensemble des obligations légales, fiscales et sociales ;
 
-7° Un devis détaillant pour chaque enregistrement phonographique ou vidéographique les dépenses de production ;
+7° Un devis détaillant pour chaque enregistrement phonographique ou vidéographique les dépenses de production ou de développement ;
 
 8° La liste nominative des prestataires techniques pressentis.

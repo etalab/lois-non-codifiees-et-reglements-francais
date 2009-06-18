@@ -2,7 +2,7 @@
 
 La demande d'agrément à titre définitif est accompagnée des pièces justificatives suivantes :
 
-1° Un document comptable certifié par un expert-comptable et un commissaire aux comptes indiquant le coût définitif de l'oeuvre ayant bénéficié d'un agrément provisoire, les moyens de son financement et faisant apparaître le détail des dépenses qui ont été engagées pour la production et le développement ;
+1° Un document comptable certifié par un expert-comptable     indiquant le coût définitif de l'oeuvre ayant bénéficié d'un agrément provisoire, les moyens de son financement et faisant apparaître le détail des dépenses qui ont été engagées pour la production et le développement ;
 
 2° Un justificatif attestant la publication de l'oeuvre ;
 
