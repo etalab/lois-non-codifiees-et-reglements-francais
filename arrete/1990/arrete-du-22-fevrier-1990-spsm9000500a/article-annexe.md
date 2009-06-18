@@ -146,7 +146,7 @@ Cette partie comprend les préparations ci-après mentionnées :
 
 - préparations autres qu'injectables renfermant de la phentermine ou ses sels ;
 
-préparations injectables renfermant de l'acide gamma-hydroxybutyrique ou ses sels .
+- préparations injectables renfermant de l'acide gamma-hydroxybutyrique ou ses sels .
 
 **Troisième partie**
 
@@ -154,4 +154,6 @@ Cette partie comprend les substances ci-après énumérées ainsi que leurs sels
 
 - zaléplone ;
 
-- zopiclone.
+- zopiclone ;
+
+- butorphanol, à l'exception de ses préparations injectables.
