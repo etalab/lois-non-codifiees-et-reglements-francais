@@ -5,7 +5,6 @@
 - [Arrêté du 1 avril 1994 (EQUU9400666A)](arrete-du-1-avril-1994-equu9400666a)
 - [Arrêté du 1 avril 1994 (EQUU9400667A)](arrete-du-1-avril-1994-equu9400667a)
 - [Arrêté du 1 avril 1994 (EQUU9400668A)](arrete-du-1-avril-1994-equu9400668a)
-- [Arrêté du 1 avril 1994 (MCCB9400181A)](arrete-du-1-avril-1994-mccb9400181a)
 - [Arrêté du 1 décembre 1987 (AGRG8701620A)](arrete-du-1-decembre-1987-agrg8701620a)
 - [Arrêté du 1 décembre 1994 (AGRP9402292A)](arrete-du-1-decembre-1994-agrp9402292a)
 - [Arrêté du 1 décembre 1994 (BUDR9405026A)](arrete-du-1-decembre-1994-budr9405026a)

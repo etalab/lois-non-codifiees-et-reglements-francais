@@ -1008,7 +1008,6 @@
 - [Arrêté du 30 juin 2003 (SOCF0310878A)](arrete-du-30-juin-2003-socf0310878a)
 - [Arrêté du 30 juin 2003 (SPRK0370086A)](arrete-du-30-juin-2003-sprk0370086a)
 - [Arrêté du 30 octobre 2003 (AGRF0302240A)](arrete-du-30-octobre-2003-agrf0302240a)
-- [Arrêté du 30 octobre 2003 (JUSG0360056A)](arrete-du-30-octobre-2003-jusg0360056a)
 - [Arrêté du 30 septembre 2003 (ECOC0300075A)](arrete-du-30-septembre-2003-ecoc0300075a)
 - [Arrêté du 30 septembre 2003 (EQUP0301192A)](arrete-du-30-septembre-2003-equp0301192a)
 - [Arrêté du 30 septembre 2003 (MCCB0300599A)](arrete-du-30-septembre-2003-mccb0300599a)
