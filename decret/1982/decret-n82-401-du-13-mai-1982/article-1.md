@@ -10,7 +10,7 @@ La Banque de France ;
 
 Les banques inscrites ;
 
-La caisse centrale des banques populaires et la banque fédérale des banques populaires ;
+La caisse centrale des banques populaires et     l'organe central des caisses d'épargne et des banques populaires  ;
 
 La Comité fédérale des banques populaires ;
 
