@@ -107,6 +107,11 @@ Code de la santé publique
 <p>R. 231-53-2.</p>
 </td>
 </tr>
+<tr>
+<td align="center">13</td>
+<td>Agrément des organismes chargés de l'enlèvement et de la destruction des médicaments à usage humain non utilisés (conjointement avec le ministre chargé de l'environnement). </td>
+<td>R. 4211-28</td>
+</tr>
 </tbody>
 </table>
 
