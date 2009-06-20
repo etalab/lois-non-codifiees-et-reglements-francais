@@ -837,7 +837,6 @@
 - [Arrêté du 28 juillet 2004 (AGRA0401212A)](arrete-du-28-juillet-2004-agra0401212a)
 - [Arrêté du 28 juillet 2004 (DEFF0400866A)](arrete-du-28-juillet-2004-deff0400866a)
 - [Arrêté du 28 juillet 2004 (EQUA0401055A)](arrete-du-28-juillet-2004-equa0401055a)
-- [Arrêté du 28 juillet 2004 (MENF0401190A)](arrete-du-28-juillet-2004-menf0401190a)
 - [Arrêté du 28 juin 2004 (EQUT0400749A)](arrete-du-28-juin-2004-equt0400749a)
 - [Arrêté du 28 juin 2005 (AGRM0501473A)](arrete-du-28-juin-2005-agrm0501473a)
 - [Arrêté du 28 novembre 2003 (AGRG0400190A)](arrete-du-28-novembre-2003-agrg0400190a)
