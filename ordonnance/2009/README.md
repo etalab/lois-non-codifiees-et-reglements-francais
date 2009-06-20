@@ -8,6 +8,7 @@
 - [Ordonnance n° 2009-536 du 14 mai 2009 (IOCX0824145R)](ordonnance-n-2009-536-du-14-mai-2009-iocx0824145r)
 - [Ordonnance n° 2009-537 du 14 mai 2009 (IOCO0900932R)](ordonnance-n-2009-537-du-14-mai-2009-ioco0900932r)
 - [Ordonnance n° 2009-538 du 14 mai 2009 (IOCX0901329R)](ordonnance-n-2009-538-du-14-mai-2009-iocx0901329r)
+- [Ordonnance n° 2009-717 du 18 juin 2009 (DEVT0909151R)](ordonnance-n-2009-717-du-18-juin-2009-devt0909151r)
 - [Ordonnance n° 2009-79 du 22 janvier 2009 (ECET0819063R)](ordonnance-n-2009-79-du-22-janvier-2009-ecet0819063r)
 - [Ordonnance n° 2009-80 du 22 janvier 2009 (ECET0825537R)](ordonnance-n-2009-80-du-22-janvier-2009-ecet0825537r)
 - [Ordonnance n° 2009-325 du 25 mars 2009 (AGRS0904078R)](ordonnance-n-2009-325-du-25-mars-2009-agrs0904078r)
