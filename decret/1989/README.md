@@ -79,7 +79,6 @@
 - [Décret n°91-259 du 7 mars 1991 (MENF9002880D)](decret-n91-259-du-7-mars-1991-menf9002880d)
 - [Décret n°89-152 du 8 mars 1989 (PRME8961322D)](decret-n89-152-du-8-mars-1989-prme8961322d)
 - [Décret n°89-157 du 8 mars 1989 (SPSS8900145D)](decret-n89-157-du-8-mars-1989-spss8900145d)
-- [Décret n°89-371 du 8 juin 1989 (SPSS8900433D)](decret-n89-371-du-8-juin-1989-spss8900433d)
 - [Décret n°89-372 du 8 juin 1989 (SPSH8900912D)](decret-n89-372-du-8-juin-1989-spsh8900912d)
 - [Décret n°89-376 du 8 juin 1989 (SPSH8900325D)](decret-n89-376-du-8-juin-1989-spsh8900325d)
 - [Décret n°89-563 du 8 août 1989 (SPSH8901130D)](decret-n89-563-du-8-aout-1989-spsh8901130d)
