@@ -287,7 +287,6 @@
 - [Arrêté du 9 juillet 2008 (MENE0817080A)](arrete-du-9-juillet-2008-mene0817080a)
 - [Arrêté du 9 juillet 2008 (MENE0817095A)](arrete-du-9-juillet-2008-mene0817095a)
 - [Arrêté du 9 juillet 2008 (MENH0814259A)](arrete-du-9-juillet-2008-menh0814259a)
-- [Arrêté du 9 juin 2008 (AGRM0813539A)](arrete-du-9-juin-2008-agrm0813539a)
 - [Arrêté du 9 juin 2008 (ESRS0813177A)](arrete-du-9-juin-2008-esrs0813177a)
 - [Arrêté du 9 juin 2008 (ESRS0813187A)](arrete-du-9-juin-2008-esrs0813187a)
 - [Arrêté du 9 juin 2008 (MENE0813208A)](arrete-du-9-juin-2008-mene0813208a)

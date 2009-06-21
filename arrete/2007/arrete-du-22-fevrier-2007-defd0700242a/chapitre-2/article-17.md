@@ -1,15 +1,19 @@
 # Article 17
 
-La sous-direction de la gestion collective du personnel civil comprend :
+La sous-direction de la gestion ministérielle des ressources humaines civiles comprend :
 
-- le bureau du suivi et de la gestion prévisionnelle des effectifs ;
+- le pôle conseil de carrière et parcours professionnels ;
 
-- le bureau des concours et des examens professionnels ;
+- le pôle coordination juridique et administrative ;
+
+- le bureau de la gestion prévisionnelle des effectifs et du dialogue de gestion ;
 
 - le bureau de la formation professionnelle et de la valorisation des compétences ;
 
-- le bureau des règles ministérielles de gestion ;
+- le bureau des concours et des examens professionnels ;
 
-- le bureau de la gestion collective et des carrières des personnels d'encadrement et des agents non titulaires ;
+- le bureau de la gestion des administrateurs civils et de la filière administrative ;
 
-- le bureau de la gestion collective et des carrières des personnels des catégories B et C des services déconcentrés.
+- le bureau des filières technique, paramédicale et sociale ;
+
+- le bureau des agents non titulaires.
