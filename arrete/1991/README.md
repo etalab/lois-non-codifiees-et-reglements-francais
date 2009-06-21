@@ -529,7 +529,6 @@
 - [Arrêté du 20 mars 1991 (MENP9003214A)](arrete-du-20-mars-1991-menp9003214a)
 - [Arrêté du 20 mars 1991 (MENZ9100507A)](arrete-du-20-mars-1991-menz9100507a)
 - [Arrêté du 20 mars 1991 (SPSS9100789A)](arrete-du-20-mars-1991-spss9100789a)
-- [Arrêté du 20 novembre 1991 (DEFM9101820A)](arrete-du-20-novembre-1991-defm9101820a)
 - [Arrêté du 20 novembre 1991 (MCCB9100518A)](arrete-du-20-novembre-1991-mccb9100518a)
 - [Arrêté du 20 novembre 1991 (MERP9100218A)](arrete-du-20-novembre-1991-merp9100218a)
 - [Arrêté du 20 novembre 1991 (SPSS9102548A)](arrete-du-20-novembre-1991-spss9102548a)
