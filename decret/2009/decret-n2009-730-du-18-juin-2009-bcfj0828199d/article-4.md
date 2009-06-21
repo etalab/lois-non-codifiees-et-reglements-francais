@@ -1,0 +1,7 @@
+# Article 4
+
+Le ministre chargé de la réforme de l'Etat fixe par arrêté les conditions générales d'utilisation de l'espace de stockage en ligne, et notamment ses fonctionnalités, la gratuité de ce service et l'absence de commercialisation des informations et documents transmis par l'usager au moyen du service, les modalités d'ouverture du compte, les modalités de clôture sans préavis ni indemnité en cas d'utilisation illicite ou frauduleuse, les conditions d'évolution et de suspension du service et le régime de la responsabilité du gestionnaire du service. Ces conditions générales d'utilisation sont accessibles sur le portail personnalisé « mon.service-public.fr ».
+
+Le ministre chargé de la réforme de l'Etat fixe également comme fonctions de sécurité applicables à l'espace de stockage en ligne les fonctions suivantes : d'identification, d'horodatage, de confidentialité et d'intégrité des informations et documents stockés et transmis et qui sont assurées au moyen de dispositifs de cryptologie et, le cas échéant, de signature électronique.
+
+Les modalités des échanges entre les autorités administratives et l'espace de stockage en ligne nécessaires à la réalisation des démarches administratives des usagers sont prévues par des conventions entre ces autorités et le ministre chargé de la réforme de l'Etat. Ces conventions sont accessibles sur le portail personnalisé « mon.service-public.fr ».

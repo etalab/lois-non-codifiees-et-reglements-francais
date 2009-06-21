@@ -1,0 +1,3 @@
+# Article 1
+
+Est désigné sous l'appellation « site Natura 2000 marais de Brouage (et marais nord d'Oléron) » (zone spéciale de conservation FR 5400431) l'espace délimité sur la carte d'assemblage au 1/160 000 ainsi que sur les dix cartes au 1/25 000 ci-jointes, s'étendant sur une partie du territoire des communes suivantes du département de la Charente-Maritime : Beaugeay, Bourcefranc-le-Chapus, La Brée-les-Bains, Le Château-d'Oléron, Dolus-d'Oléron, La Gripperie-Saint-Symphorien, Hiers-Brouage, Marennes, Moëze, Port-des-Barques, Saint-Agnant, Saint-Denis-d'Oléron, Saint-Froult, Saint-Georges-d'Oléron, Saint-Jean-d'Angle, Saint-Just-Luzac, Saint-Nazaire-sur-Charente, Saint-Pierre-d'Oléron, Saint-Sornin.

@@ -1,0 +1,3 @@
+# Article 1
+
+Est désigné sous l'appellation « site Natura 2000 vallée de la Charente (basse vallée) » (zone spéciale de conservation FR 5400430) l'espace délimité sur la carte d'assemblage au 1/120 000 ainsi que sur les huit cartes au 1/25 000 ci-jointes, s'étendant sur une partie du territoire des communes suivantes du département de la Charente-Maritime : Bords, Cabariot, Champdolent, Fouras, Geay, Lussant, Le Mung, Port-des-Barques, Puy-du-Lac, Rochefort, Romegoux, Saint-Coutant-le-Grand, Saint-Hippolyte, Saint-Laurent-de-la-Prée, Saint-Nazaire-sur-Charente, Saint-Porchaire, Saint-Savinien, Soubise, Tonnay-Charente, La Vallée, Vergeroux, Echillais, Ile-d'Aix.

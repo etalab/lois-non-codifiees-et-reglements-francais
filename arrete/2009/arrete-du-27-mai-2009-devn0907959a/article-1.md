@@ -1,0 +1,3 @@
+# Article 1
+
+Est désigné sous l'appellation « site Natura 2000 marais et falaises des coteaux de Gironde » (zone spéciale de conservation FR 5400438) l'espace délimité sur la carte d'assemblage au 1/130 000 ainsi que sur les huit cartes au 1/25 000 ci-jointes, s'étendant sur une partie du territoire des communes suivantes du département de la Charente-Maritime : Arces, Barzan, Boutenac-Touvent, Brie-sous-Mortagne, Chenac-Saint-Seurin-d'Uzet, Floirac, Lorignac, Meschers-sur-Gironde, Mortagne-sur-Gironde, Médis, Royan, Saint-Bonnet-sur-Gironde, Saint-Dizant-du-Gua, Saint-Fort-sur-Gironde, Saint-Georges-de-Didonne, Saint-Georges-des-Agoûts, Saint-Romain-sur-Gironde, Saint-Sorlin-de-Conac, Saint-Thomas-de-Conac, Semussac, Talmont-sur-Gironde, Epargnes.

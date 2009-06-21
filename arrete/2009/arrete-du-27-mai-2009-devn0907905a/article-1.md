@@ -1,0 +1,3 @@
+# Article 1
+
+Est désigné sous l'appellation « site Natura 2000 marais de Rochefort » (zone spéciale de conservation FR 5400429) l'espace délimité sur la carte d'assemblage au 1/85 000 ainsi que sur les neuf cartes au 1/25 000 ci-jointes, s'étendant sur une partie du territoire des communes suivantes du département de la Charente-Maritime : Angoulins, Ardillières, Ballon, Breuil-Magné, Châtelaillon-Plage, Ciré-d'Aunis, Fouras, Genouillé, Landrais, Loire-les-Marais, Moragne, Muron, Rochefort, Saint-Crépin, Saint-Laurent-de-la-Prée, Saint-Vivien, Salles-sur-Mer, Thairé, Tonnay-Charente, Vergeroux, Yves.
