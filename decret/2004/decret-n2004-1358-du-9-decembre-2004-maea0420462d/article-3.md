@@ -10,7 +10,7 @@ b) Neuf membres de droit :
 
 - le directeur général des affaires politiques et de sécurité du ministère des affaires étrangères ;
 
-- le directeur général de la coopération internationale et du développement du ministère des affaires étrangères ;
+- le directeur général de la mondialisation, du développement et des partenariats du ministère des affaires étrangères ;
 
 - le directeur des affaires juridiques du ministère des affaires étrangères ;
 
