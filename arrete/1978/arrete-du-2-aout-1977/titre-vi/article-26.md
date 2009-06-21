@@ -2,7 +2,7 @@
 
 Contrôle des installations
 
-Avant leur mise en gaz ou la fourniture du gaz par le distributeur, les installations de gaz situées à l'intérieur des bâtiments d'habitation et de leurs dépendances et soumises à l'établissement du certificat de conformité prévu à l'article 25 font l'objet des contrôles et des procédures suivants :
+Avant leur mise en gaz ou la livraison du gaz par le distributeur, les installations de gaz situées à l'intérieur des bâtiments d'habitation et de leurs dépendances et soumises à l'établissement du certificat de conformité prévu à l'article 25 font l'objet des contrôles et des procédures suivants :
 
 I. - Installations placées sous la garde du distributeur :
 
@@ -24,17 +24,19 @@ a) Les certificats de conformité :
 
 - des installations dont le distributeur n'a pas la garde et situées avant le compteur ou, à défaut de celui-ci, avant l'organe de coupure prévu à l'article 13 (2°), ne portent effet que s'ils sont revêtus du visa d'un des organismes agréés par le ministre chargé de la sécurité du gaz.
 
-b) Avant la fourniture du gaz, le distributeur s'assure a minima :
+b) Avant la livraison du gaz, le distributeur s'assure a minima :
 
 - qu'il dispose du ou des certificats de conformité de l'installation et que ce ou ces certificats sont revêtus du visa de l'organisme chargé du contrôle ;
 
 - de l'étanchéité apparente des tuyauteries fixes de l'installation.
 
-c) De plus, dans le cas des logements, le distributeur remet à son client une notice conforme à un modèle approuvé par le ministre chargé de la sécurité du gaz rappelant succinctement les dispositions du présent arrêté, mentionnant les principales précautions à observer dans l'emploi du gaz, et mettant en garde l'usager contre les fausses manoeuvres. Cette notice est remise également lors de la fourniture du gaz à un nouveau client dans une installation existante.
+c) De plus, dans le cas des logements, le fournisseur de gaz remet à son client une notice conforme à un modèle approuvé par le ministre chargé de la sécurité du gaz rappelant succinctement les dispositions du présent arrêté, mentionnant les principales précautions à observer dans l'emploi du gaz, et mettant en garde l'usager contre les fausses manoeuvres. Cette notice est remise également lors de la fourniture du gaz à un nouveau client dans une installation existante.
 
 III. - Compléments et modifications d'installations intérieures existantes et d'alimentation de chaufferies :
 
 a) Les certificats de conformité relatifs aux compléments ou aux modifications réalisés sur des installations intérieures de gaz des logements et des chaufferies ou aux remplacements d'appareils ne portent effet que s'ils sont revêtus du visa d'un des organismes agréés susvisés.
+
+Les installations correspondantes peuvent donner lieu à des contrôles effectués par l'organisme agréé selon des procédures approuvées par le ministre chargé de la sécurité du gaz.
 
 b) La mise en gaz du complément ou de la modification d'installation est effectuée par l'installateur.
 
@@ -46,4 +48,6 @@ Les installations correspondantes sont soumises à des contrôles par sondage, r
 
 Le maintien de la qualification des installateurs précités doit être subordonné au résultat satisfaisant de ces contrôles par sondage.
 
-b) Lorsque les interventions effectuées sur les installations visées aux points II et III ci-dessus sont réalisées par un installateur ne répondant pas aux critères définis au point a ci-avant, le visa de l'organisme agréé est apposé après réalisation par cet organisme d'un contrôle systématique de chaque installation.
+b) Lorsque les interventions effectuées sur les installations visées aux points II et III ci-dessus sont réalisées par un installateur ne répondant pas aux critères définis au point a ci-avant, le visa de l'organisme agréé est apposé après réalisation par cet organisme d'un contrôle systématique de chaque installation ;
+
+c) Toute installation à l'origine d'un accident ou d'une intoxication suffisamment grave pour entraîner de la part du distributeur l'interruption de la livraison de gaz en application de l'article 31 doit, après remise en conformité de la partie défaillante et avant nouvelle livraison du gaz par le distributeur, faire l'objet d'un contrôle de conformité systématique par un organisme agréé, dans le cadre des dispositions du présent article et selon les modalités prévues pour le contrôle des installations neuves.

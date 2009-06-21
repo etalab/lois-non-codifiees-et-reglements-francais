@@ -40,6 +40,8 @@ b) Le raccordement à un conduit d'un appareil ne satisfaisant pas aux critères
 
 5° Le raccordement individuel de la hauteur d'un étage à un conduit collecteur n'est pas obligatoirement maçonné.
 
+II - Prescriptions concernant les bâtiments anciens.
+
 Dans tous les cas non visés au chapitre Ier ci-dessus, les conduits d'évacuation des produits de combustion de gaz doivent satisfaire :
 
 soit aux prescriptions du I-B s'il s'agit de conduits "spéciaux gaz" ;
@@ -64,14 +66,36 @@ III. - Alvéoles techniques.
 
 Les dispositions qui précèdent s'appliquent aux conduits desservant les alvéoles techniques ; toutefois, par dérogation au 1° du paragraphe I-A ci-dessus, il n'est pas nécessaire que ces conduits comportent des départs individuels.
 
-IV. - Appareils en circuit étanche.
+IV. - Appareils à circuit de combustion étanche.
 
-Les dispositifs d'alimentation en air et d'évacuation des produits de combustion des appareils à circuit étanche prélèvent l'air et renvoient les gaz brûlés à l'extérieur, soit directement à travers une paroi extérieure (mur, toiture, terrasse, ...), soit par l'intermédiaire d'un conduit collecteur spécial pouvant desservir plusieurs niveaux tel que décrit dans l'instruction relative aux aménagements généraux du DTU n° 61-1. Dans le second cas, le nombre de locaux desservis par un même conduit est au maximum de deux par niveau d'habitation.
+Les dispositifs d'alimentation en air et d'évacuation des produits de combustion des appareils étanches prélèvent l'air à l'extérieur et renvoient les gaz brûlés également à l'extérieur.
 
-Ne peuvent être mis en oeuvre que les dispositifs dont les caractéristiques sont définies dans les notices d'installation des appareils.
+L'alimentation en air et l'évacuation des produits de combustion doivent être réalisées selon les instructions du fabricant de l'appareil.
 
-Les orifices d'évacuation des appareils à circuit étanche rejetant les gaz brûlés à travers une paroi extérieure (mur, toiture, terrasse, ...) doivent être situés à 0,40 mètre au moins de toute baie ouvrante et à 0,60 mètre de tout orifice d'entrée d'air de ventilation. Ces deux distances s'entendent de l'axe de l'orifice d'évacuation des gaz brûlés au point le plus proche de la baie ouvrante ou de l'orifice de ventilation.
+Elles se font par des conduits reliant l'appareil :
 
-Les orifices d'évacuation et de prise d'air des appareils à circuit étanche débouchant à moins de 1,80 mètre au-dessus du sol doivent être protégés efficacement contre toute intervention extérieure susceptible de nuire à leur fonctionnement normal.
+a) Soit directement à un terminal positionné à l'extérieur du bâtiment. Dans ce cas, les conduits éventuellement placés en dehors du local où est installé l'appareil doivent respecter les prescriptions suivantes :
 
-Les orifices d'évacuation débouchant directement sur une circulation extérieure (notamment voie publique ou privée) à moins de 1,80 mètre au-dessus du sol doivent, hormis pour les appareils à condensation, comporter un déflecteur inamovible donnant aux gaz évacués une direction sensiblement parallèle au mur.
+1.A l'intérieur du logement ou de ses dépendances, les conduits doivent être protégés contre les chocs mécaniques.
+
+2. Dans la traversée des autres logements ou des parties communes, les conduits doivent être d'allure verticale et placés à l'intérieur d'une gaine de degré coupe-feu conforme à la réglementation contre l'incendie et de degré 1 / 2 heure au moins.
+
+b) Soit à un conduit collecteur spécial pouvant desservir plusieurs niveaux dans les conditions prévues par la norme NF DTU 61. 1.
+
+A l'intérieur du logement ou de ses dépendances, les conduits reliant l'appareil au conduit collecteur éventuellement placés en dehors du local où est installé l'appareil doivent être protégés contre les chocs mécaniques.
+
+Dans le cas du a ci-dessus :
+
+- les orifices d'évacuation des appareils à circuit étanche rejetant les gaz brûlés à travers une paroi extérieure (mur, toiture, terrasse, etc.) doivent être situés à 0, 40 mètre au moins de toute baie ouvrante et à 0, 60 mètre de tout orifice d'entrée d'air de ventilation. Ces deux distances s'entendent de l'axe de l'orifice d'évacuation des gaz brûlés au point le plus proche de la baie ouvrante ou de l'orifice de ventilation ;
+
+- les orifices d'évacuation et de prise d'air des appareils à circuit étanche débouchant à moins de 1, 80 mètre au-dessus du sol doivent être protégés efficacement contre toute intervention extérieure susceptible de nuire à leur fonctionnement normal ;
+
+- les orifices d'évacuation débouchant directement sur une circulation extérieure (notamment voie publique ou privée) à moins de 1, 80 mètre au-dessus du sol doivent, hormis pour les appareils à condensation, comporter un déflecteur inamovible donnant aux gaz évacués une direction sensiblement parallèle au mur.
+
+Dans le cas du a et du b ci-dessus :
+
+- le conduit d'évacuation des produits de combustion sous pression est entièrement entouré par le conduit qui alimente l'appareil en air de combustion. Cet ensemble répond à des exigences garantissant de manière pérenne qu'aucune fuite de produits de combustion ne puisse se produire à l'intérieur des locaux ;
+
+- le conduit d'évacuation peut aussi être entièrement entouré par une enveloppe (gaine, fourreau) mise à l'air libre à son débouché à l'extérieur et en partie supérieure. Cette enveloppe doit permettre d'assurer l'évacuation vers l'extérieur des produits de combustion en cas de fuite du conduit.L'ensemble constitué par le conduit et son enveloppe répondent à des exigences garantissant, de manière pérenne, qu'aucune fuite de produits de combustion ne puisse se produire à l'intérieur des locaux ;
+
+- d'autres solutions permettant de garantir, de manière pérenne, un niveau de sécurité reconnu équivalent par le ministre chargé de la sécurité du gaz peuvent être, le cas échéant, mises en œuvre.
