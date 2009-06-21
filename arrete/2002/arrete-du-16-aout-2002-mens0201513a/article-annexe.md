@@ -436,5 +436,10 @@ COMITÉS TECHNIQUES PARITAIRES CENTRAUX D'ÉTABLISSEMENTS PUBLICS RELEVANT DU MI
 <p align="center">5</p>
 </td>
 </tr>
+<tr>
+<td>Ecole nationale d'ingénieurs de Metz </td>
+<td align="center">5</td>
+<td align="center">5</td>
+</tr>
 </tbody>
 </table>
