@@ -217,6 +217,7 @@
 - [Arrêté du 23 décembre 2006 (SANS0624760A)](arrete-du-23-decembre-2006-sans0624760a)
 - [Arrêté du 23 décembre 2006 (SOCU0612273A)](arrete-du-23-decembre-2006-socu0612273a)
 - [Arrêté du 23 décembre 2006 (SOCU0612274A)](arrete-du-23-decembre-2006-socu0612274a)
+- [Arrêté du 23 janvier 2007 (JUSA0700020A)](arrete-du-23-janvier-2007-jusa0700020a)
 - [Arrêté du 23 novembre 2006 (SANP0624349A)](arrete-du-23-novembre-2006-sanp0624349a)
 - [Arrêté du 23 novembre 2006 (SANP0624915A)](arrete-du-23-novembre-2006-sanp0624915a)
 - [Arrêté du 23 octobre 2006 (AGRF0602336A)](arrete-du-23-octobre-2006-agrf0602336a)
