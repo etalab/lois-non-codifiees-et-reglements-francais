@@ -1206,7 +1206,6 @@
 - [Arrêté du 31 août 1995 (INTD9500486A)](arrete-du-31-aout-1995-intd9500486a)
 - [Arrêté du 31 août 1995 (INTD9500487A)](arrete-du-31-aout-1995-intd9500487a)
 - [Arrêté du 31 décembre 1994 (ECOT9413786A)](arrete-du-31-decembre-1994-ecot9413786a)
-- [Arrêté du 31 décembre 1994 (LOGC9400072A)](arrete-du-31-decembre-1994-logc9400072a)
 - [Arrêté du 31 janvier 1995 (DEFP9501151A)](arrete-du-31-janvier-1995-defp9501151a)
 - [Arrêté du 31 janvier 1995 (ENVE9540032A)](arrete-du-31-janvier-1995-enve9540032a)
 - [Arrêté du 31 janvier 1995 (EQUB9500266A)](arrete-du-31-janvier-1995-equb9500266a)
