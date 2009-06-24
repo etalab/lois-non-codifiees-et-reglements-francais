@@ -14,9 +14,9 @@ Un arrêté du ministre chargé de la culture fixe, selon l'objet des travaux, l
 
 Le service départemental de l'architecture et du patrimoine transmet sans délai deux exemplaires de la demande et du dossier au préfet de région pour examen au titre du code du patrimoine et, lorsque les travaux requièrent son accord, un exemplaire à l'autorité compétente pour statuer sur les demandes de permis de construire.
 
-Si le préfet de région estime que le dossier est incomplet, il fait connaître au pétitionnaire, dans le délai d'un mois à partir de la réception de la demande, la liste et le contenu des pièces complémentaires à fournir. A défaut d'une demande de pièces complémentaires dans ce délai, le dossier est réputé complet.
+Si le préfet de région estime que le dossier est incomplet, il fait connaître au pétitionnaire, dans le délai d'un mois à partir de la réception de la demande, la liste et le contenu des pièces complémentaires à fournir.A défaut d'une demande de pièces complémentaires dans ce délai, le dossier est réputé complet.
 
-Lorsque le dossier est complet, le préfet de région fait connaître au pétitionnaire ainsi qu'à l'autorité compétente pour statuer sur les demandes de permis de construire, la date et le numéro d'enregistrement de la demande.
+Lorsque le dossier est complet, le préfet de région fait connaître au pétitionnaire ainsi qu'à l'autorité compétente pour statuer sur les demandes de permis de construire, la date et le numéro d'enregistrement de la demande. Lorsque des pièces complémentaires ont été demandées dans ce délai, à défaut de réception de ces pièces dans un délai de trois mois, la demande fait l'objet d'une décision tacite de rejet.
 
 L'accord de l'autorité compétente pour statuer sur les demandes de permis de construire est transmis au préfet de région dans le délai de deux mois à compter de la date d'enregistrement du dossier complet faute de quoi son accord est réputé donné.
 

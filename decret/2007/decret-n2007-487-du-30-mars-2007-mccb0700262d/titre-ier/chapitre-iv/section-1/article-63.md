@@ -10,6 +10,6 @@ Le conservateur des antiquités et des objets d'art ou le service départemental
 
 Si le préfet de région estime que le dossier est incomplet, il fait connaître au demandeur, dans le délai d'un mois à partir de la réception de la demande, la liste et le contenu des pièces complémentaires à fournir. A défaut d'une demande de pièces complémentaires dans ce délai, le dossier est réputé complet.
 
-Lorsque le dossier est complet, le préfet de région fait connaître au demandeur la date et le numéro d'enregistrement de sa demande.
+Lorsque le dossier est complet, le préfet de région fait connaître au demandeur la date et le numéro d'enregistrement de sa demande. Lorsque des pièces complémentaires ont été demandées dans ce délai, à défaut de réception de ces pièces dans un délai de trois mois, la demande fait l'objet d'une décision tacite de rejet.
 
 Toute modification de la nature et de l'importance des travaux fait l'objet d'une demande d'autorisation nouvelle.
