@@ -555,6 +555,49 @@
 </td>
 </tr>
 <tr>
+<td>
+<p align="left">Essonne</p>
+</td>
+<td>
+<p align="left">CGT-PJJ</p>
+</td>
+<td>
+<p align="left">2</p>
+</td>
+<td>
+<p align="left">2</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+<p align="left">SNPES-PJJ/FSU</p>
+</td>
+<td>
+<p align="left">5</p>
+</td>
+<td>
+<p align="left">5</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td>
+<p align="left">UNSA-SPJJ</p>
+</td>
+<td>
+<p align="left">1</p>
+</td>
+<td>
+<p align="left">1</p>
+</td>
+</tr>
+<tr>
 <td align="center">
 <p align="left">Eure<br/>
 </p>
@@ -610,22 +653,18 @@
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">
+<td>
 <br/>
-</p>
 </td>
-<td align="center">
+<td>
 <p align="left">UNSA-SPJJ<br/>
 </p>
 </td>
-<td align="center">
-<p align="left">2<br/>
-</p>
+<td>
+<p align="left">2</p>
 </td>
-<td align="center">
-<p align="left">2<br/>
-</p>
+<td>
+<p align="left">2</p>
 </td>
 </tr>
 <tr>
@@ -1875,6 +1914,34 @@
 </td>
 </tr>
 <tr>
+<td>
+<p align="left">Oise </p>
+</td>
+<td>
+<p align="left">CGT-PJJ</p>
+</td>
+<td>
+<p align="left">2</p>
+</td>
+<td>
+<p align="left">2</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td>
+<p align="left">SNPES-PJJ/FSU</p>
+</td>
+<td>
+<p align="left">4</p>
+</td>
+<td>
+<p align="left">4</p>
+</td>
+</tr>
+<tr>
 <td align="center">
 <p align="left">Paris<br/>
 </p>
@@ -2490,6 +2557,35 @@
 </td>
 </tr>
 <tr>
+<td>
+<p align="left">Seine-et-Marne </p>
+</td>
+<td>
+<p align="left">SNPES-PJJ/FSU</p>
+</td>
+<td>
+<p align="left">5</p>
+</td>
+<td>
+<p align="left">5</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td>
+<p align="left">UNSA-SPJJ<br/>
+</p>
+</td>
+<td>
+<p align="left">1</p>
+</td>
+<td>
+<p align="left">1</p>
+</td>
+</tr>
+<tr>
 <td align="center">
 <p align="left">Seine-Saint-Denis<br/>
 </p>
@@ -3067,3 +3163,8 @@
 </tr>
 </tbody>
 </table>
+
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
