@@ -1,0 +1,3 @@
+# Article 1
+
+Est désigné sous l'appellation « site Natura 2000 pelouses de la région vésulienne et vallée de la Colombine » (zone spéciale de conservation FR 4301338) l'espace délimité sur la carte d'assemblage au 1/50 000 ainsi que sur les sept cartes au 1/25 000 ci-jointes, s'étendant sur une partie du territoire des communes suivantes du département de la Haute-Saône : Andelarrot, Borey, Calmoutier, Chariez, Colombe-lès-Vesoul, Comberjon, Dampvalley-lès-Colombe, La Demie, Frotey-lès-Vesoul, Mont-le-Vernois, Montcey, Navenne, Noroy-le-Bourg, Pusey, Quincey, Vaivre-et-Montoille, Vellefaux, Vesoul, Echenoz-la-Méline.

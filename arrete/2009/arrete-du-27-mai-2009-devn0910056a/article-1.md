@@ -1,0 +1,3 @@
+# Article 1
+
+Est désigné sous l'appellation « site Natura 2000 vallée et côtes de la Bienne, du Tacon et du Flumen » (zone spéciale de conservation FR 4301331) l'espace délimité sur la carte d'assemblage au 1/120 000 ainsi que sur les onze cartes au 1/25 000 ci-jointes, s'étendant sur une partie du territoire des communes suivantes du département du Jura : Avignon-lès-Saint-Claude, Les Bouchoux, Chancia, Chassal, Coiserette, Jeurre, Lavancia-Epercy, Lavans-lès-Saint-Claude, Lect, Longchaumois, Lézat, Molinges, Les Molunes, Montcusel, Morbier, Morez, La Mouille, Les Moussières, La Pesse, Ponthoux, Pratz, La Rixouse, Saint-Claude, Septmoncel, Tancua, Vaux-lès-Saint-Claude, Villard-Saint-Sauveur, Villard-sur-Bienne.
