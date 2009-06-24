@@ -22,7 +22,7 @@ Rédaction d'une note de synthèse à partir d'un dossier relatif aux questions 
 
 5° Epreuve d'anglais :
 
-a) Réponse à un questionnaire à choix multiple portant sur la grammaire, les structures et les usages de la langue anglaise (durée : une heure trente) ;
+a) Réponse à un questionnaire à choix multiple portant sur la grammaire, les structures et les usages de la langue anglaise (durée : trente minutes) ;
 
 b) Rédaction en anglais d'une note à partir de documents ou d'informations en anglais ;
 
@@ -32,7 +32,7 @@ c) Rédaction en français d'une fiche de synthèse à partir de documents en an
 
 Au moment de son inscription, le candidat au cadre général choisira une deuxième langue étrangère parmi les langues suivantes : espagnol, italien ou portugais.
 
-a) Réponse à un questionnaire à choix multiple portant sur la grammaire, les structures et les usages de la langue choisie (durée : une heure trente) ;
+a) Réponse à un questionnaire à choix multiple portant sur la grammaire, les structures et les usages de la langue choisie (durée : trente minutes) ;
 
 b) Rédaction, dans la langue choisie, d'une note à partir de documents ou d'informations dans cette langue ;
 

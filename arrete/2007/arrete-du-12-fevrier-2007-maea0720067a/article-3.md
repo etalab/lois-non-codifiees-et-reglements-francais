@@ -2,7 +2,7 @@
 
 Les épreuves écrites d'admissibilité des concours externe et interne pour l'accès à l'emploi de conseiller des affaires étrangères (cadre d'Orient) sont les suivantes :
 
-1° Composition portant sur l'évolution générale économique et sociale du monde ainsi que sur le mouvement des idées du milieu du xviiie siècle à nos jours (durée : cinq heures ; coefficient 7). Toute note inférieure à 10 sur 20 est éliminatoire.
+1° Composition portant sur l'évolution générale économique et sociale du monde ainsi que sur le mouvement des idées du milieu du XVIIIe siècle à nos jours (durée : cinq heures ; coefficient 7). Toute note inférieure à 10 sur 20 est éliminatoire.
 
 Le programme figure en annexe I au présent arrêté et fera l'objet d'une publication au Journal officiel.
 
@@ -20,11 +20,11 @@ Le programme figure en annexe II au présent arrêté et fera l'objet d'une publ
 
 3° Epreuve à option consistant :
 
-- soit en la rédaction, à partir d'un dossier, d'une note ayant pour objet de vérifier l'aptitude à l'analyse et au raisonnement juridiques pour les candidats ayant choisi l'option droit public.
+-soit en la rédaction, à partir d'un dossier, d'une note ayant pour objet de vérifier l'aptitude à l'analyse et au raisonnement juridiques pour les candidats ayant choisi l'option droit public.
 
 Le programme figure en annexe III au présent arrêté et fera l'objet d'une publication au Journal officiel ;
 
-- soit en la rédaction d'une note de présentation et d'interprétation de documents économiques, pouvant comporter des calculs simples et permettant d'apprécier les connaissances dans le domaine des techniques quantitatives, pour les candidats ayant choisi l'option économie.
+-soit en la rédaction d'une note de présentation et d'interprétation de documents économiques, pouvant comporter des calculs simples et permettant d'apprécier les connaissances dans le domaine des techniques quantitatives, pour les candidats ayant choisi l'option économie.
 
 Le programme figure en annexe IV au présent arrêté et fera l'objet d'une publication au Journal officiel (durée : quatre heures ; coefficient 5). Toute note inférieure à 8 sur 20 est éliminatoire.
 
@@ -32,7 +32,7 @@ Le programme figure en annexe IV au présent arrêté et fera l'objet d'une publ
 
 5° Epreuve d'anglais :
 
-a) Réponse à un questionnaire à choix multiples portant sur la grammaire, les structures et les usages de la langue anglaise (durée : une heure trente) ;
+a) Réponse à un questionnaire à choix multiples portant sur la grammaire, les structures et les usages de la langue anglaise (durée : trente minutes) ;
 
 b) Rédaction en anglais d'une note à partir de documents ou d'informations en anglais ;
 
@@ -44,13 +44,13 @@ Toute note inférieure à 12 sur 20 est éliminatoire.
 
 6° Epreuve de langue obligatoire de la section choisie :
 
-- section Europe centrale et orientale : allemand, néerlandais ou russe ;
+-section Europe centrale et orientale : allemand, néerlandais ou russe ;
 
-- section Asie méridionale et Extrême-Orient : chinois, hindi ou japonais ;
+-section Asie méridionale et Extrême-Orient : chinois, hindi ou japonais ;
 
-- section Méditerranée orientale, Maghreb, Afrique : arabe littéral, swahili ou turc.
+-section Méditerranée orientale, Maghreb, Afrique : arabe littéral, swahili ou turc.
 
-a) Réponse à un questionnaire à choix multiples portant sur la grammaire, les structures et les usages de la langue choisie (durée : une heure trente) ;
+a) Réponse à un questionnaire à choix multiples portant sur la grammaire, les structures et les usages de la langue choisie (durée : trente minutes) ;
 
 b) Rédaction, dans la langue choisie, d'une note à partir de documents ou d'informations dans cette langue ;
 

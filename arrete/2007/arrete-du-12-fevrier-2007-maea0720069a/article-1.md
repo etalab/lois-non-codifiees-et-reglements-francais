@@ -28,7 +28,7 @@ Epreuve n° 3
 
 Epreuve commune aux deux concours consistant en :
 
-a) La réponse à un questionnaire à choix multiples portant sur la grammaire, les structures et les usages de la langue anglaise (durée : une heure) ;
+a) La réponse à un questionnaire à choix multiples portant sur la grammaire, les structures et les usages de la langue anglaise ( durée : trente minutes) ;
 
 b) La traduction sans dictionnaire en français d'un texte en anglais et en anglais d'un texte en français (durée totale : deux heures ; coefficient 2).
 
