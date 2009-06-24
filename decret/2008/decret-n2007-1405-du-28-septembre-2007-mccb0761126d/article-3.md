@@ -17,5 +17,3 @@ Dans la circonscription territoriale et pour les monuments dont ils sont chargé
 3° De proposer à l'Etat et aux propriétaires publics ou privés ou affectataires domaniaux, les mesures qu'ils jugent nécessaires pour assurer la bonne conservation des immeubles, et de prendre, avec l'accord du préfet de région, toutes mesures conservatoires utiles pour les immeubles classés dont la sauvegarde serait menacée.
 
 III. - Les architectes en chef des monuments historiques assurent la maîtrise d'oeuvre des travaux de restauration sur les immeubles classés au titre des monuments historiques appartenant à l'Etat ou qu'il a remis en dotation à ses établissements publics, dont ils assurent la surveillance en application du II du présent article.
-
-L'architecte territorialement compétent assure également la maîtrise d'oeuvre des travaux sur les monuments historiques classés n'appartenant pas à l'Etat, lorsqu'aucun maître d'oeuvre, notamment parmi ceux mentionnés aux articles 5 et 9, n'aura pu être retenu par le maître d'ouvrage.

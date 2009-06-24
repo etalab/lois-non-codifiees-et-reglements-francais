@@ -181,7 +181,6 @@
 - [Décret n°84-1202 du 27 décembre 1984](decret-n84-1202-du-27-decembre-1984)
 - [Décret n°84-1203 du 27 décembre 1984](decret-n84-1203-du-27-decembre-1984)
 - [Décret n°84-1204 du 27 décembre 1984](decret-n84-1204-du-27-decembre-1984)
-- [Décret n°84-145 du 27 février 1984](decret-n84-145-du-27-fevrier-1984)
 - [Décret n°84-146 du 27 février 1984](decret-n84-146-du-27-fevrier-1984)
 - [Décret n°84-151 du 27 février 1984](decret-n84-151-du-27-fevrier-1984)
 - [Décret n°83-1018 du 28 novembre 1983](decret-n83-1018-du-28-novembre-1983)
