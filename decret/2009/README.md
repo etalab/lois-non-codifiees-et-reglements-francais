@@ -1,6 +1,5 @@
 # 2009
 
-- [Décret n°2008-306 du 2 avril 2008 (SJSX0807451D)](decret-n2008-306-du-2-avril-2008-sjsx0807451d)
 - [Décret n°2008-652 du 2 juillet 2008 (DEVO0801300D)](decret-n2008-652-du-2-juillet-2008-devo0801300d)
 - [Décret n°2009-1 du 2 janvier 2009 (ECEL0831158D)](decret-n2009-1-du-2-janvier-2009-ecel0831158d)
 - [Décret n°2009-118 du 2 février 2009 (PRMX0901996D)](decret-n2009-118-du-2-fevrier-2009-prmx0901996d)
@@ -12,7 +11,6 @@
 - [Décret n°2009-244 du 2 mars 2009 (ECEM0831569D)](decret-n2009-244-du-2-mars-2009-ecem0831569d)
 - [Décret n°2009-245 du 2 mars 2009 (ECEM0831571D)](decret-n2009-245-du-2-mars-2009-ecem0831571d)
 - [Décret n°2009-247 du 2 mars 2009 (AGRP0804927D)](decret-n2009-247-du-2-mars-2009-agrp0804927d)
-- [Décret n°2009-3 du 2 janvier 2009 (MAEX0831174D)](decret-n2009-3-du-2-janvier-2009-maex0831174d)
 - [Décret n°2009-367 du 2 avril 2009 (PRMX0907771D)](decret-n2009-367-du-2-avril-2009-prmx0907771d)
 - [Décret n°2009-378 du 2 avril 2009 (MTSA0903196D)](decret-n2009-378-du-2-avril-2009-mtsa0903196d)
 - [Décret n°2009-379 du 2 avril 2009 (BCFS0902374D)](decret-n2009-379-du-2-avril-2009-bcfs0902374d)
@@ -362,7 +360,6 @@
 - [Décret n°2009-57 du 16 janvier 2009 (PRMX0901180D)](decret-n2009-57-du-16-janvier-2009-prmx0901180d)
 - [Décret n°2009-58 du 16 janvier 2009 (AGRS0828756D)](decret-n2009-58-du-16-janvier-2009-agrs0828756d)
 - [Décret n°2009-59 du 16 janvier 2009 (SJSX0900860D)](decret-n2009-59-du-16-janvier-2009-sjsx0900860d)
-- [Décret n°2009-60 du 16 janvier 2009 (SJSX0900875D)](decret-n2009-60-du-16-janvier-2009-sjsx0900875d)
 - [Décret n°2009-62 du 16 janvier 2009 (DEVT0819659D)](decret-n2009-62-du-16-janvier-2009-devt0819659d)
 - [Décret n°2009-63 du 16 janvier 2009 (ECEP0824730D)](decret-n2009-63-du-16-janvier-2009-ecep0824730d)
 - [Décret n°2009-64 du 16 janvier 2009 (ECEP0827531D)](decret-n2009-64-du-16-janvier-2009-ecep0827531d)
