@@ -1,0 +1,3 @@
+# Article 2
+
+La ministre de l'intérieur, de l'outre-mer et des collectivités territoriales, le ministre du travail, des relations sociales, de la famille, de la solidarité et de la ville, la garde des sceaux, ministre de la justice, le ministre de l'éducation nationale, la ministre de l'enseignement supérieur et de la recherche, le ministre de la défense, la ministre de la santé et des sports, la secrétaire d'Etat chargée de la famille et le haut-commissaire aux solidarités actives contre la pauvreté, haut-commissaire à la jeunesse, sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.
