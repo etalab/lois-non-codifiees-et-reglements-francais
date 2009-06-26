@@ -13,7 +13,6 @@
 - [Décret du 3 octobre 1984](decret-du-3-octobre-1984)
 - [Décret n°84-1073 du 3 décembre 1984](decret-n84-1073-du-3-decembre-1984)
 - [Décret n°84-816 du 3 septembre 1984](decret-n84-816-du-3-septembre-1984)
-- [Décret du 3 mai 1984](decret-du-3-mai-1984)
 - [Décret n°84-323 du 3 mai 1984](decret-n84-323-du-3-mai-1984)
 - [Décret n°84-329 du 3 mai 1984](decret-n84-329-du-3-mai-1984)
 - [Décret n°84-1079 du 4 décembre 1984](decret-n84-1079-du-4-decembre-1984)

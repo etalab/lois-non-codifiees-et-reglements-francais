@@ -385,7 +385,6 @@
 - [Décret n°94-718 du 16 août 1994 (SPSS9402118D)](decret-n94-718-du-16-aout-1994-spss9402118d)
 - [Décret n°94-811 du 16 septembre 1994 (FPPX9400118D)](decret-n94-811-du-16-septembre-1994-fppx9400118d)
 - [Décret n°94-812 du 16 septembre 1994 (EQUS9401391D)](decret-n94-812-du-16-septembre-1994-equs9401391d)
-- [Décret n°94-813 du 16 septembre 1994 (MICT9400026D)](decret-n94-813-du-16-septembre-1994-mict9400026d)
 - [Décret n°94-379 du 16 mai 1994 (SPSS9401132D)](decret-n94-379-du-16-mai-1994-spss9401132d)
 - [Décret n°94-387 du 16 mai 1994 (MENF9400330D)](decret-n94-387-du-16-mai-1994-menf9400330d)
 - [Décret n°94-404 du 16 mai 1994 (SPSS9401188D)](decret-n94-404-du-16-mai-1994-spss9401188d)

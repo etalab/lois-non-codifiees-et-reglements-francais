@@ -298,7 +298,6 @@
 - [Décret n°87-42 du 28 janvier 1987 (MERE8700002D)](decret-n87-42-du-28-janvier-1987-mere8700002d)
 - [Décret n°87-607 du 28 juillet 1987](decret-n87-607-du-28-juillet-1987)
 - [Décret n°87-635 du 28 juillet 1987 (ENVP8700012D)](decret-n87-635-du-28-juillet-1987-envp8700012d)
-- [Décret n°87-717 du 28 août 1987 (MCCT8700384D)](decret-n87-717-du-28-aout-1987-mcct8700384d)
 - [Décret n°87-725 du 28 août 1987 (ECOX8798398D)](decret-n87-725-du-28-aout-1987-ecox8798398d)
 - [Décret n°87-728 du 28 août 1987 (FPPA8700026D)](decret-n87-728-du-28-aout-1987-fppa8700026d)
 - [Décret n°87-748 du 28 août 1987 (MENF8700475D)](decret-n87-748-du-28-aout-1987-menf8700475d)
