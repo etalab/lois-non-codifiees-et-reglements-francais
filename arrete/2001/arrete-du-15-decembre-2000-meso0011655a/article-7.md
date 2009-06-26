@@ -1,13 +1,13 @@
 # Article 7
 
-A l'ouverture de la séance, il est donné lecture aux candidats du texte de la loi du 23 décembre 1901 réprimant les fraudes dans les examens et concours publics.
+Au début de chaque épreuve écrite, le président de la commission de surveillance ouvre, en présence des candidats, le pli cacheté contenant ladite épreuve.
 
-Toute communication des candidats entre eux ou avec l'extérieur, sous quelque forme que ce soit, est formellement interdite pendant la durée des épreuves.
+Les compositions sont rédigées sur des feuilles fournies par l'administration.
 
-Il est également interdit aux candidats de consulter des documents non mentionnés sur leur convocation et d'utiliser une calculatrice électronique quand ce n'est pas expressément autorisé par la convocation.
+Ces compositions ne doivent comporter aucun signe permettant l'identification du candidat. Tout candidat qui enfreint cette interdiction fera l'objet d'une décision d'exclusion du concours par le jury.
 
-Toute fraude, tentative de fraude ou infraction au règlement du concours entraîne l'exclusion du concours.
+A la clôture de chaque séance, les candidats remettent leur composition aux membres de la commission de surveillance.
 
-Aucune sanction immédiate n'est prise en cas de constatation du flagrant déli. Le surveillant responsable établit un rapport qu'il transmet au jury.
+Les compositions sont placées dans une enveloppe qui est immédiatement cachetée et revêtue de la signature des membres de la commission de surveillance.
 
-L'exclusion du concours est prononcée par le jury qui peut, en outre, proposer au ministre de l'emploi l'interdiction temporaire ou définitive de se présenter à un concours d'inspecteur du travail.
+Les opérations de la commission font, par ailleurs, l'objet d'un procès-verbal qui est transmis à la direction de l'administration générale et de la modernisation des services en même temps que le pli contenant les compositions.

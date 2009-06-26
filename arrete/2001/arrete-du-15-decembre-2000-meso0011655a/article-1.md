@@ -1,5 +1,3 @@
 # Article 1
 
-Les deux concours institués à l'article 5 du décret du 1er août 2000 susvisé en vue du recrutement des inspecteurs du travail sont autorisés, par arrêté conjoint des ministres chargés de l'emploi, de l'agriculture, des transports et de la fonction publique, et annoncés par la publication au Journal officiel de la République française.
-
-La date d'ouverture des concours, la date de clôture des inscriptions ainsi que l'indication des centres d'examen sont fixées dans les mêmes conditions.
+Les deux concours institués par l'article 5 du décret n° 2003-770 du 20 août 2003 portant statut particulier du corps de l'inspection du travail en vue du recrutement des inspecteurs du travail sont autorisés par arrêté conjoint des ministres chargés du travail et de l'emploi après avis conforme du ministre chargé de la fonction publique, conformément aux dispositions de l'article 2 du décret n° 2004-1105 du 19 octobre 2004 relatif à l'ouverture des procédures de recrutement dans la fonction publique de l'Etat et annoncés par publication au Journal officiel de la République française.
