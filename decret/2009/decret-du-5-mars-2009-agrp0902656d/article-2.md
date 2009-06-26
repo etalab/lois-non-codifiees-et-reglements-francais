@@ -4,7 +4,7 @@ La superficie minimale à laquelle le droit de préemption de la Société d'am�
 
 Ce seuil est ramené à zéro :
 
-― pour les parcelles classées en zones agricoles et naturelles des documents d'urbanisme (zones « NC » et « ND » des plans d'occupation des sols ; zones « A » et « N » des plans locaux d'urbanisme rendus publics) ;
+― pour les parcelles classées en zones agricoles et naturelles des documents d'urbanisme (zones NC et ND des plans d'occupation des sols ; zones A et N des plans locaux d'urbanisme rendus publics) ;
 
 ― dans les périmètres de protection et de mise en valeur des espaces agricoles et naturels périurbains visés à l'article L. 143-1 du code de l'urbanisme ;
 
@@ -14,10 +14,14 @@ Ce seuil est ramené à zéro :
 
 ― dans les périmètres d'aménagement foncier rural en cours définis au 1° du deuxième alinéa de l'article L. 121-1 du code rural, entre les dates fixées par arrêté préfectoral, délibération du conseil général ou arrêté du président du conseil général ordonnant l'ouverture et la clôture des opérations, ainsi que dans le cas de parcelles enclavées au sens de l'article 682 du code civil ;
 
-― dans les communes incluses dans la zone de production en appellation « Champagne » et les communes suivantes :
+- dans les communes incluses dans la zone de production en appellation " Champagne " ;
 
-― Aube : Arrelles, Balnot-la-Grange, Bossancourt, Bouilly, Etourvy, Fontvannes, Javernant, Laines-au-Bois, Macey, Messon, Prugny, Saint-Germain-l'Epine, Souligny, Torvilliers, Villery ;
+- dans les communes suivantes :
 
-― Marne : Baslieux-lès-Fismes, Blacy, Boissy-le-Repos, Bouvancourt, Breuil-sur-Vesle, Bussy-le-Repos, Champfleury, Courlandon, Courcy, Courdemanges, Fismes, Huiron, La Ville-sous-Orbay, Le Thoult-Trosnay, Loivre, Montmirail, Mont-sur-Courville, Péas, Romain, Saint-Loup, Soulanges, Ventelay ;
+- Aube : Arrelles, Balnot-la-Grange, Bossancourt, Bouilly, Etourvy, Fontvannes, Javernant, Laines-au-Bois, Macey, Messon, Prugny, Saint-Germain-l'Epine, Souligny, Torvilliers, Villery ;
 
-― Haute-Marne : Champcourt, Harricourt.
+- Haute-Marne : Champcourt, Harricourt ;
+
+- Marne, à l'exception des parcelles mentionnées au dernier alinéa du présent article : Baslieux-lès-Fismes, Blacy, Boissy-le-Repos, Bouvancourt, Breuil-sur-Vesle, Bussy-le-Repos, Champfleury, Courlandon, Courcy, Courdemanges, Fismes, Huiron, La Ville-sous-Orbay, Le Thoult-Trosnay, Loivre, Montmirail, Mont-sur-Courville, Péas, Romain, Saint-Loup, Soulanges, Ventelay.
+
+Il est ramené, dans le département de la Marne, à 3 ares pour les parcelles situées en zone de production en appellation " Champagne ".
