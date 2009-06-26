@@ -356,7 +356,6 @@
 - [Décret n°99-1086 du 15 décembre 1999 (AGRM9902131D)](decret-n99-1086-du-15-decembre-1999-agrm9902131d)
 - [Décret n°99-1088 du 15 décembre 1999 (JUSC9920672D)](decret-n99-1088-du-15-decembre-1999-jusc9920672d)
 - [Décret n°99-1094 du 15 décembre 1999 (DEFP9902228D)](decret-n99-1094-du-15-decembre-1999-defp9902228d)
-- [Décret n°99-1095 du 15 décembre 1999 (AGRE9902199D)](decret-n99-1095-du-15-decembre-1999-agre9902199d)
 - [Décret n°99-1102 du 15 décembre 1999 (FPPA9900179D)](decret-n99-1102-du-15-decembre-1999-fppa9900179d)
 - [Décret n°99-121 du 15 février 1999 (EQUP9900222D)](decret-n99-121-du-15-fevrier-1999-equp9900222d)
 - [Décret n°99-194 du 15 mars 1999 (MESS9920330D)](decret-n99-194-du-15-mars-1999-mess9920330d)

@@ -233,7 +233,6 @@
 - [Décret n°2003-434 du 13 mai 2003 (SANG0321118D)](decret-n2003-434-du-13-mai-2003-sang0321118d)
 - [Décret n°2003-435 du 13 mai 2003 (JUSF0350020D)](decret-n2003-435-du-13-mai-2003-jusf0350020d)
 - [Décret du 14 octobre 2003 (AGRP0301283D)](decret-du-14-octobre-2003-agrp0301283d)
-- [Décret n°2003-1003 du 14 octobre 2003 (AGRE0301267D)](decret-n2003-1003-du-14-octobre-2003-agre0301267d)
 - [Décret n°2003-1070 du 14 novembre 2003 (FPPA0310015D)](decret-n2003-1070-du-14-novembre-2003-fppa0310015d)
 - [Décret n°2003-1071 du 14 novembre 2003 (FPPA0310016D)](decret-n2003-1071-du-14-novembre-2003-fppa0310016d)
 - [Décret n°2003-1072 du 14 novembre 2003 (INTB0300280D)](decret-n2003-1072-du-14-novembre-2003-intb0300280d)
