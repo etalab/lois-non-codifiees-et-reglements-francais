@@ -11,6 +11,8 @@
 - [Ordonnance n° 2009-717 du 18 juin 2009 (DEVT0909151R)](ordonnance-n-2009-717-du-18-juin-2009-devt0909151r)
 - [Ordonnance n° 2009-79 du 22 janvier 2009 (ECET0819063R)](ordonnance-n-2009-79-du-22-janvier-2009-ecet0819063r)
 - [Ordonnance n° 2009-80 du 22 janvier 2009 (ECET0825537R)](ordonnance-n-2009-80-du-22-janvier-2009-ecet0825537r)
+- [Ordonnance n° 2009-797 du 24 juin 2009 (ECET0908443R)](ordonnance-n-2009-797-du-24-juin-2009-ecet0908443r)
+- [Ordonnance n° 2009-799 du 24 juin 2009 (ECET0908470R)](ordonnance-n-2009-799-du-24-juin-2009-ecet0908470r)
 - [Ordonnance n° 2009-325 du 25 mars 2009 (AGRS0904078R)](ordonnance-n-2009-325-du-25-mars-2009-agrs0904078r)
 - [Ordonnance n° 2009-229 du 26 février 2009 (DEVX0900966R)](ordonnance-n-2009-229-du-26-fevrier-2009-devx0900966r)
 - [Ordonnance n° 2009-233 du 26 février 2009 (ECET0822074R)](ordonnance-n-2009-233-du-26-fevrier-2009-ecet0822074r)
