@@ -16,4 +16,6 @@ AO de Provence et de Corse : 1,68 ha.
 
 AO de la Vallée du Rhône : 3,37 ha.
 
+AO  Vins doux naturels  : 3 ha.
+
 Les autorisations sont valables jusqu'au 31 juillet 2011.

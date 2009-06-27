@@ -1,10 +1,10 @@
 # Article 1
 
-Sont autorisées au titre de la campagne 2008-2009, pour les exploitants non titulaires d'une dotation jeune agriculteur ou d'un prêt MTS « jeune agriculteur », les plantations de vignes destinées à la production de vins à appellation d'origine dans la limite des contingents fixés ainsi qu'il suit :
+Sont autorisées au titre de la campagne 2008-2009, pour les exploitants non titulaires d'une dotation jeune agriculteur ou d'un prêt MTS  jeune agriculteur , les plantations de vignes destinées à la production de vins à appellation d'origine dans la limite des contingents fixés ainsi qu'il suit :
 
 AO de la région Bourgogne, Franche-Comté et Savoie : 142,15 ha.
 
-AO de la région Alsace-Est : 24,10 ha.
+AO de la région Alsace-Est : 24,9 ha.
 
 AO de la région Champagne : 125,00 ha.
 
