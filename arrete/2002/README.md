@@ -216,7 +216,6 @@
 - [Arrêté du 7 mars 2002 (ECOB0230002A)](arrete-du-7-mars-2002-ecob0230002a)
 - [Arrêté du 7 novembre 2002 (AGRP0202426A)](arrete-du-7-novembre-2002-agrp0202426a)
 - [Arrêté du 7 novembre 2002 (INTC0200575A)](arrete-du-7-novembre-2002-intc0200575a)
-- [Arrêté du 7 octobre 1986](arrete-du-7-octobre-1986)
 - [Arrêté du 8 août 2002 (AGRG0201994A)](arrete-du-8-aout-2002-agrg0201994a)
 - [Arrêté du 8 avril 2002 (EQUS0200683A)](arrete-du-8-avril-2002-equs0200683a)
 - [Arrêté du 8 avril 2002 (MAEA0220143A)](arrete-du-8-avril-2002-maea0220143a)

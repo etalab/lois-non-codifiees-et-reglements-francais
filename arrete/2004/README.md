@@ -920,6 +920,5 @@
 - [Arrêté du 31 décembre 2003 (INTB0400079A)](arrete-du-31-decembre-2003-intb0400079a)
 - [Arrêté du 31 décembre 2003 (SANP0420086A)](arrete-du-31-decembre-2003-sanp0420086a)
 - [Arrêté du 31 décembre 2003 (SANS0324995A)](arrete-du-31-decembre-2003-sans0324995a)
-- [Arrêté du 31 mars 1999 (MESP9921063A)](arrete-du-31-mars-1999-mesp9921063a)
 - [Arrêté du 31 mars 2005 (PRMX0407778A)](arrete-du-31-mars-2005-prmx0407778a)
 - [Arrêté du 31 octobre 2003 (SOCS0324335A)](arrete-du-31-octobre-2003-socs0324335a)
