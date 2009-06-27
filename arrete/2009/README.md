@@ -271,6 +271,7 @@
 - [Arrêté du 7 janvier 2009 (SJSP0831365A)](arrete-du-7-janvier-2009-sjsp0831365a)
 - [Arrêté du 7 juillet 2008 (IMIK0816480A)](arrete-du-7-juillet-2008-imik0816480a)
 - [Arrêté du 7 novembre 2003 (ECOP0300752A)](arrete-du-7-novembre-2003-ecop0300752a)
+- [Arrêté du 7 octobre 1986](arrete-du-7-octobre-1986)
 - [Arrêté du 7 octobre 2008 (SJSG0831016A)](arrete-du-7-octobre-2008-sjsg0831016a)
 - [Arrêté du 7 mai 2009 (BCFD0906707A)](arrete-du-7-mai-2009-bcfd0906707a)
 - [Arrêté du 7 mai 2009 (DEVA0910148A)](arrete-du-7-mai-2009-deva0910148a)
