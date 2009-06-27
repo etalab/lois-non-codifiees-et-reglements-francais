@@ -17,9 +17,7 @@ LISTE DES SUBSTANCES QUI NE PEUVENT ENTRER DANS LA COMPOSITION DES PRODUITS COSM
 <td width="130">
 <p align="center">1329</p>
 </td>
-<td width="550">
-<p>4-[(4-aminophényl)(4-iminocyclohexa-2,5-diène-1-ylidène)méthyl]-o-toluidine (CAS : 3248-93-9 ; EINECS : 221-832-2) et son sel d'hydrochlorate (Basic Violet 14 ; CI 42510) (CAS : 632-99-5 ; EINECS : 211-189-6) en cas d'utilisation comme substance dans les teintures capillaires. </p>
-</td>
+<td width="550">4-[(4-aminophényl) (4-iminocyclohexa-2, 5-diène-1-ylidène) méthyl]-o-toluidine (CAS : 3248-93-9 ; EINECS : 221-832-2) et son sel de chlorhydrate (Basic Violet 14 ; CI 42510) (CAS : 632-99-5 ; EINECS : 211-189-6) en cas d'utilisation comme substance dans les teintures capillaires.</td>
 </tr>
 <tr>
 <td width="130">
@@ -90,7 +88,7 @@ LISTE DES SUBSTANCES QUI NE PEUVENT ENTRER DANS LA COMPOSITION DES PRODUITS COSM
 <p align="center">1338</p>
 </td>
 <td width="550">
-<p>1-hydroxy-2,4-diaminobenzène (2,4-diaminophényl) (CAS : 95-86-3 ; EINECS : 202-459-4) et son sel de dihydrochlorate (2,4-Diaminophenol HCl) (CAS : 137-09-7 ; EINECS : 205-279-4) en cas d'utilisation comme substance dans les teintures capillaires. </p>
+<p>1-hydroxy-2, 4-diaminobenzène (2, 4-diaminophényl) (CAS : 95-86-3 ; EINECS : 202-459-4) et son sel de dichlorhydrate (2, 4-Diaminophenol HCl) (CAS : 137-09-7 ; EINECS : 205-279-4) en cas d'utilisation comme substance dans les teintures capillaires. </p>
 </td>
 </tr>
 <tr>

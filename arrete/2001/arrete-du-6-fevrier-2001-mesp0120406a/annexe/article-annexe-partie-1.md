@@ -1583,7 +1583,7 @@ LISTE DES SUBSTANCES QUI NE PEUVENT ENTRER DANS LA COMPOSITION DES PRODUITS COSM
 <td>
 <p align="center">167</p>
 </td>
-<td>Esters de l'acide p-aminobenzoique (avec le groupe amino libre)</td>
+<td>Esters de l'acide p-aminobenzoique et ses esters (avec le groupe amino libre)</td>
 </tr>
 <tr>
 <td valign="top" width="113">
@@ -3155,9 +3155,9 @@ LISTE DES SUBSTANCES QUI NE PEUVENT ENTRER DANS LA COMPOSITION DES PRODUITS COSM
 </tr>
 <tr>
 <td>
-<p align="center"> 419</p>
+<p align="center">419</p>
 </td>
-<td> Matières de catégorie 1 et matières de catégorie 2, telles que définies aux articles 4 et 5 du règlement (CE) n° 1774/2002 du Parlement européen et du Conseil (**), et ingrédients dérivés.</td>
+<td>Matières de catégorie 1 et matières de catégorie 2, telles que définies aux articles 4 et 5 du règlement (CE) n° 1774/2002 du Parlement européen et du Conseil (**), et ingrédients dérivés.</td>
 </tr>
 <tr>
 <td valign="top" width="151">

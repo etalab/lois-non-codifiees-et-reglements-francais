@@ -26,9 +26,7 @@ LISTE DES FILTRES ULTRAVIOLETS QUE PEUVENT CONTENIR LES PRODUITS COSMETIQUES
 <p align="center">AUTRES LIMITATIONS<br/>et exigences</p>
 </td>
 <td>
-<p align="center">CONDITIONS D'EMPLOI<br/>et avertissements à reprendre<br/>obligatoirement sur l'étiquetage<br/>
-<br/>
-</p>
+<p align="center">CONDITIONS D'EMPLOI<br/>et avertissements à reprendre<br/>obligatoirement sur l'étiquetage</p>
 </td>
 </tr>
 <tr>
@@ -46,23 +44,6 @@ LISTE DES FILTRES ULTRAVIOLETS QUE PEUVENT CONTENIR LES PRODUITS COSMETIQUES
 </td>
 <td>
 <p align="center">e</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">Acide 4-aminobenzoïque (PABA).</p>
-</td>
-<td>
-<p align="center">5 %</p>
-</td>
-<td>
-<br/>
-</td>
-<td>
-<br/>
 </td>
 </tr>
 <tr>
@@ -110,7 +91,7 @@ LISTE DES FILTRES ULTRAVIOLETS QUE PEUVENT CONTENIR LES PRODUITS COSMETIQUES
 <p align="center">10 %</p>
 </td>
 <td>
-<p align="center">La mention  Contient de l'oxybenzone.  n'est pas exigée si la concentration est égale ou inférieure à 0,5 % et si la substance n'est utilisée que pour protéger le produit.</p>
+<p align="center">La mention Contient de l'oxybenzone. n'est pas exigée si la concentration est égale ou inférieure à 0,5 % et si la substance n'est utilisée que pour protéger le produit.</p>
 </td>
 <td>
 <p align="center">Contient de l'oxybenzone.</p>
@@ -498,7 +479,7 @@ LISTE DES FILTRES ULTRAVIOLETS QUE PEUVENT CONTENIR LES PRODUITS COSMETIQUES
 <p align="center">Acide benzoïque 2-[-4-(diéthylamino)-2-hydroxybenzoyl]-, hexyl-ester (nom INCI : Diethylamino Hydroxybenzoyl Hexyl Benzoate n° CAS 302776-68-7).</p>
 </td>
 <td>
-<p align="center">10 % dans les produits de protection solaire.</p>
+<p align="center">10 %</p>
 </td>
 <td>
 <br/>
