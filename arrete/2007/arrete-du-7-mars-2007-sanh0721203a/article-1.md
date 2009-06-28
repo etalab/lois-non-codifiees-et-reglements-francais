@@ -5,92 +5,77 @@ A compter du 1er mars 2007, le montant des indemnités forfaitaires représentat
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center">CORPS </p>
-</td>
-<td colspan="2">
-<p align="center">TAUX </p>
-</td>
-</tr>
-<tr>
-<td>
-<pre/>
-</td>
-<td>
-<p align="center">Moyen annuel </p>
+<th>
 <br/>
-<p align="center">(en euros) </p>
-</td>
-<td>
-<p align="center">Maximum annuel </p>
+<font size="1">CORPS<br/>
+</font>
+</th>
+<th colspan="2">
 <br/>
-<p align="center">(eu euros) </p>
+<font size="1">TAUX </font>
+<p>
+<font size="1">(annuels en euros)<br/>
+</font>
+</p>
+</th>
+</tr>
+<tr>
+<th>
+<font size="1"/>
+</th>
+<th>
+<br/>
+<font size="1">Taux moyens<br/>
+</font>
+</th>
+<th>
+<br/>
+<font size="1">Taux maximums</font>
+<br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Corps des attachés d'administration hospitalière : Attaché principal<br/>
+</td>
+<td align="center">
+<br/>1 219<br/>
+</td>
+<td align="center">
+<br/>2 438<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Corps des attachés : </p>
+<td align="center">
+<br/>Corps des attachés d'administration hospitalière : Attaché<br/>
 </td>
-<td>
-<pre/>
+<td align="center">
+<br/>1 067<br/>
 </td>
-<td>
-<pre/>
-</td>
-</tr>
-<tr>
-<td>
-<p>Attaché principal de 1re classe </p>
-</td>
-<td>
-<p align="center">1 219 </p>
-</td>
-<td>
-<p align="center">2 438 </p>
+<td align="center">
+<br/>2 134<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Attaché principal de 2e classe </p>
+<td align="center">
+<br/>Corps des adjoints des cadres hospitaliers<br/>
 </td>
-<td>
-<p align="center">1 143 </p>
+<td align="center">
+<br/>839,69<br/>
 </td>
-<td>
-<p align="center">2 286 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Attaché </p>
-</td>
-<td>
-<p align="center">1 067 </p>
-</td>
-<td>
-<p align="center">2 134 </p>
+<td align="center">
+<br/>1 679,38<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Corps des adjoints des cadres hospitaliers </p>
+<td align="center">
+<br/>Corps des secrétaires médicaux<br/>
 </td>
-<td>
-<p align="center">839, 69 </p>
+<td align="center">
+<br/>699,74<br/>
 </td>
-<td>
-<p align="center">1 679, 38 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="2">
-<p>Corps des secrétaires médicaux </p>
-</td>
-<td rowspan="2">
-<p align="center">699, 74 </p>
-</td>
-<td rowspan="2">
-<p align="center">1 399, 48</p>
+<td align="center">
+<br/>1 399,48<br/>
 </td>
 </tr>
 </tbody>

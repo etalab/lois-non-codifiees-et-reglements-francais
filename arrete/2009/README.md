@@ -922,6 +922,7 @@
 - [Arrêté du 19 juin 2009 (AGRP0906330A)](arrete-du-19-juin-2009-agrp0906330a)
 - [Arrêté du 19 juin 2009 (IOCD0914113A)](arrete-du-19-juin-2009-iocd0914113a)
 - [Arrêté du 19 juin 2009 (SASH0910637A)](arrete-du-19-juin-2009-sash0910637a)
+- [Arrêté du 19 mars 2006 (MCCB0600350A)](arrete-du-19-mars-2006-mccb0600350a)
 - [Arrêté du 19 mars 2009 (AGRP0906350A)](arrete-du-19-mars-2009-agrp0906350a)
 - [Arrêté du 19 mars 2009 (DEVA0903225A)](arrete-du-19-mars-2009-deva0903225a)
 - [Arrêté du 19 mars 2009 (DEVT0770280A)](arrete-du-19-mars-2009-devt0770280a)
