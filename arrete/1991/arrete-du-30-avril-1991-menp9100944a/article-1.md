@@ -32,4 +32,6 @@ Section Langue corse ;
 
 Section Langues régionales : basque, breton, catalan, créole, occitan-langue d'oc ;
 
-Section Tahitien.
+Section Tahitien ;
+
+Section Langue des signes française.

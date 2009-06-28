@@ -74,7 +74,7 @@ b) Epreuve orale d'admission :
 
 Epreuve professionnelle : le jury propose un ou plusieurs documents de nature professionnelle en rapport avec le niveau d'enseignement (collège ou lycée) dans lequel le candidat a une expérience. Le candidat fait connaître ce niveau au moment de l'inscription au concours.
 
-L'épreuve comporte un exposé suivi d'un entretien avec le jury. Le candidat mène une étude critique d'un ou plusieurs documents (notamment, extraits de manuel(s), copies d'élèves, extraits de cahier de textes, tests d'évaluation, sujets d'examen) en analysant les choix didactiques effectués. Il précise l'utilisation qu'il ferait, dans sa classe, de ces documents.
+L'épreuve comporte un exposé suivi d'un entretien avec le jury. Le candidat mène une étude critique d'un ou plusieurs documents (notamment, extraits de manuel (s), copies d'élèves, extraits de cahier de textes, tests d'évaluation, sujets d'examen) en analysant les choix didactiques effectués. Il précise l'utilisation qu'il ferait, dans sa classe, de ces documents.
 
 L'entretien a pour base la situation d'enseignement ainsi définie. Il est étendu à certains aspects de l'expérience professionnelle du candidat.
 
@@ -116,7 +116,7 @@ SECTION LANGUES VIVANTES ÉTRANGÈRES
 
 a) Epreuve écrite d'admissibilité :
 
-Commentaire guidé en langue étrangère d'un texte en langue étrangère accompagné d'un exercice de traduction (version et/ou thème).
+Commentaire guidé en langue étrangère d'un texte en langue étrangère accompagné d'un exercice de traduction (version et / ou thème).
 
 Durée de l'épreuve : cinq heures ; coefficient 1.
 
@@ -196,7 +196,7 @@ Si l'exploitation pédagogique des documents concerne la physique, la réalisati
 
 Si l'exploitation pédagogique des documents concerne la chimie, la réalisation de la séquence expérimentale appartient au domaine de la physique ;
 
-3. L'entretien porte sur le thème de physique et sur le thème de chimie qui correspondent à l'épreuve et s'étend à des aspects plus larges de l'expérience professionnelle du candidat.
+3.L'entretien porte sur le thème de physique et sur le thème de chimie qui correspondent à l'épreuve et s'étend à des aspects plus larges de l'expérience professionnelle du candidat.
 
 Durée de la préparation : deux heures ; durée de l'épreuve : une heure maximum (exposé : vingt minutes maximum ; présentation d'une séquence expérimentale : vingt minutes maximum ; entretien : vingt minutes maximum) ; coefficient 2.
 
@@ -226,7 +226,7 @@ Si l'exploitation pédagogique des documents concerne la physique, la réalisati
 
 Si l'exploitation pédagogique des documents concerne l'électricité appliquée, la réalisation d'un montage appartient au domaine de la physique ;
 
-3. L'entretien porte sur l'ensemble de l'épreuve et s'étend à des aspects plus larges de l'expérience professionnelle du candidat.
+3.L'entretien porte sur l'ensemble de l'épreuve et s'étend à des aspects plus larges de l'expérience professionnelle du candidat.
 
 Durée de la préparation : trois heures ; durée de l'épreuve : une heure maximum (exposé : vingt minutes maximum ; présentation d'un montage : vingt minutes maximum ; entretien : vingt minutes maximum) ; coefficient 2.
 
@@ -254,7 +254,7 @@ Le programme se rapporte au programme des lycées d'enseignement général et te
 
 b) Epreuve orale d'admission :
 
-Epreuve professionnelle. Cette épreuve comporte un exposé suivi d'un entretien avec le jury. L'exposé s'appuie sur l'exploitation d'un dossier se rapportant à une situation expérimentale et intègre la réalisation pratique que celle-ci comporte. L'entretien a pour base la situation d'enseignement proposée et s'étend à d'autres aspects de l'expérience professionnelle du candidat.
+Epreuve professionnelle. Cette épreuve comporte un exposé suivi d'un entretien avec le jury.L'exposé s'appuie sur l'exploitation d'un dossier se rapportant à une situation expérimentale et intègre la réalisation pratique que celle-ci comporte.L'entretien a pour base la situation d'enseignement proposée et s'étend à d'autres aspects de l'expérience professionnelle du candidat.
 
 Le jury tient compte du niveau d'enseignement (collège ou lycée) dans lequel le candidat a une expérience. Le candidat fait connaître ce niveau au moment de l'inscription au concours.
 
@@ -328,7 +328,7 @@ Au cours de l'exposé, le candidat :
 
 analyse tout ou partie du dossier proposé par le jury ;
 
-présente un ou plusieurs points relatifs aux approches didactiques et aux démarches pédagogiques qu'il serait possible d'élaborer à partir du dossier. A cette occasion, il peut s'appuyer sur des expériences vécues, notamment lorsqu'elles établissent des relations avec les autres domaines artistiques, les autres disciplines, le volet artistique et culturel du projet d'établissement, les partenaires des domaines artistiques et culturels ; ou lorsqu'elles mettent en pratique les nouvelles techniques et technologies.
+présente un ou plusieurs points relatifs aux approches didactiques et aux démarches pédagogiques qu'il serait possible d'élaborer à partir du dossier.A cette occasion, il peut s'appuyer sur des expériences vécues, notamment lorsqu'elles établissent des relations avec les autres domaines artistiques, les autres disciplines, le volet artistique et culturel du projet d'établissement, les partenaires des domaines artistiques et culturels ; ou lorsqu'elles mettent en pratique les nouvelles techniques et technologies.
 
 Au cours de l'entretien avec le jury, les échanges portent sur les analyses et les propositions du candidat.
 
@@ -374,7 +374,7 @@ A partir d'un dossier thématique de trois à cinq documents concernant les fina
 
 2. De développer, dans un cadre précisé par le texte de l'épreuve, une réflexion personnelle, prenant en compte les missions du professeur documentaliste, sur la ou les questions soulevées ;
 
-3. D'élaborer pour un ou deux de ces documents :
+3.D'élaborer pour un ou deux de ces documents :
 
 La référence bibliographique, en suivant le format préétabli donné par le sujet et en respectant les normes en vigueur ;
 
@@ -384,7 +384,7 @@ Durée de l'épreuve : cinq heures ; coefficient 1.
 
 b) Epreuve orale d'admission
 
-Epreuve professionnelle : cette épreuve comporte un exposé suivi d'un entretien avec les membres du jury. Elle prend appui sur un dossier élaboré par le candidat. L'exposé porte sur un sujet proposé par le jury à partir du dossier.
+Epreuve professionnelle : cette épreuve comporte un exposé suivi d'un entretien avec les membres du jury. Elle prend appui sur un dossier élaboré par le candidat.L'exposé porte sur un sujet proposé par le jury à partir du dossier.
 
 Le dossier, dactylographié, ne doit pas comporter plus de dix pages et comprend deux parties.
 
@@ -438,7 +438,7 @@ SECTION LANGUES RÉGIONALES : BASQUE, BRETON, CATALAN, CRÉOLE, OCCITAN-LANGUE D
 
 a) Epreuves écrites d'admissibilité :
 
-1. Commentaire guidé en langue régionale d'un texte en langue régionale accompagné d'une traduction d'un ou de plusieurs passages de ce texte (version et/ou thème).
+1. Commentaire guidé en langue régionale d'un texte en langue régionale accompagné d'une traduction d'un ou de plusieurs passages de ce texte (version et / ou thème).
 
 Durée de l'épreuve : six heures ; coefficient 3.
 
@@ -454,7 +454,7 @@ La nature, la durée et, le cas échéant, le programme sont, pour chacune des o
 
 b) Epreuves orales d'admission :
 
-1. Exploitation pédagogique de documents en langue régionale (notamment documents audio, textuels, vidéo) soumis au candidat par le jury. L'épreuve se compose d'un exposé en langue régionale suivi d'un entretien en langue régionale comportant l'explication en français de faits de langue.
+1. Exploitation pédagogique de documents en langue régionale (notamment documents audio, textuels, vidéo) soumis au candidat par le jury.L'épreuve se compose d'un exposé en langue régionale suivi d'un entretien en langue régionale comportant l'explication en français de faits de langue.
 
 Durée de la préparation : deux heures ; durée de l'épreuve : une heure maximum (exposé : trente minutes maximum ; entretien : trente minutes maximum) ; coefficient 4.
 
@@ -464,7 +464,7 @@ Durée de la préparation : deux heures ; durée de l'épreuve : quarante-cinq m
 
 Option français : à partir d'un ou de plusieurs textes postérieurs à 1500 d'auteurs de langue française, le candidat expose pour une classe déterminée de lycée les modalités d'exploitation d'un, de plusieurs ou de la totalité des textes.
 
-Il définit ses objectifs, propose des exercices, donne le schéma d'une correction et prévoit une évaluation. L'exposé est suivi d'un entretien avec les membres du jury.
+Il définit ses objectifs, propose des exercices, donne le schéma d'une correction et prévoit une évaluation.L'exposé est suivi d'un entretien avec les membres du jury.
 
 Option anglais et option espagnol :
 
@@ -480,7 +480,7 @@ BRETON
 
 a) Epreuves écrites d'admissibilité
 
-1. Commentaire guidé en breton d'un texte en breton accompagné d'une traduction d'un ou de plusieurs passages de ce texte (version et/ou thème).
+1. Commentaire guidé en breton d'un texte en breton accompagné d'une traduction d'un ou de plusieurs passages de ce texte (version et / ou thème).
 
 Durée de l'épreuve : six heures ; coefficient 3.
 
@@ -492,7 +492,7 @@ La nature, la durée et, le cas échéant, le programme sont, pour chacune des o
 
 b) Epreuves orales d'admission
 
-1. Exploitation pédagogique de documents en breton (notamment documents audio, textuels, vidéo) soumis au candidat par le jury. L'épreuve se compose d'un exposé en breton suivi d'un entretien en breton comportant l'explication en français de faits de langue.
+1. Exploitation pédagogique de documents en breton (notamment documents audio, textuels, vidéo) soumis au candidat par le jury.L'épreuve se compose d'un exposé en breton suivi d'un entretien en breton comportant l'explication en français de faits de langue.
 
 Durée de la préparation : deux heures ; durée de l'épreuve : une heure maximum (exposé : trente minutes maximum ; entretien : trente minutes maximum) ; coefficient 4.
 
@@ -500,7 +500,7 @@ Durée de la préparation : deux heures ; durée de l'épreuve : une heure maxim
 
 Durée de la préparation : deux heures ; durée de l'épreuve : quarante-cinq minutes ; coefficient 3.
 
-Option français : à partir d'un ou de plusieurs textes postérieurs à 1500, d'auteurs de langue française, le candidat expose pour une classe déterminée de lycée les modalités d'exploitation d'un, de plusieurs ou de la totalité des textes. Il définit ses objectifs, propose des exercices, donne le schéma d'une correction et prévoit une évaluation. L'exposé est suivi d'un entretien avec les membres du jury.
+Option français : à partir d'un ou de plusieurs textes postérieurs à 1500, d'auteurs de langue française, le candidat expose pour une classe déterminée de lycée les modalités d'exploitation d'un, de plusieurs ou de la totalité des textes. Il définit ses objectifs, propose des exercices, donne le schéma d'une correction et prévoit une évaluation.L'exposé est suivi d'un entretien avec les membres du jury.
 
 Option anglais : à partir d'un dossier fourni au candidat, exposé de la préparation d'un cours comportant des exercices écrits et oraux suivis d'un entretien avec les membres du jury.
 
@@ -514,7 +514,7 @@ CATALAN
 
 a) Epreuves écrites d'admissibilité
 
-1. Commentaire guidé en catalan d'un texte en catalan accompagné d'une traduction d'un ou de plusieurs passages de ce texte (version et/ou thème) ;
+1. Commentaire guidé en catalan d'un texte en catalan accompagné d'une traduction d'un ou de plusieurs passages de ce texte (version et / ou thème) ;
 
 Durée de l'épreuve : six heures ; coefficient 3.
 
@@ -526,7 +526,7 @@ La nature, la durée et, le cas échéant, le programme sont, pour chacune des o
 
 b) Epreuves orales d'admission
 
-1. Exploitation pédagogique de documents en catalan (notamment documents audio, textuels, vidéo) soumis au candidat par le jury. L'épreuve se compose d'un exposé en catalan suivi d'un entretien en catalan comportant l'explication en français de faits de langue.
+1. Exploitation pédagogique de documents en catalan (notamment documents audio, textuels, vidéo) soumis au candidat par le jury.L'épreuve se compose d'un exposé en catalan suivi d'un entretien en catalan comportant l'explication en français de faits de langue.
 
 Durée de la préparation : deux heures ; durée de l'épreuve : une heure maximum (exposé : trente minutes maximum ; entretien : trente minutes maximum) ; coefficient 4.
 
@@ -534,7 +534,7 @@ Durée de la préparation : deux heures ; durée de l'épreuve : une heure maxim
 
 Durée de la préparation : deux heures ; durée de l'épreuve : quarante-cinq minutes ; coefficient 3.
 
-Option français : à partir d'un ou de plusieurs textes postérieurs à 1500, d'auteurs de langue française, le candidat expose pour une classe déterminée de lycée les modalités d'exploitation d'un, de plusieurs ou de la totalité des textes. Il définit ses objectifs, propose des exercices, donne le schéma d'une correction et prévoit une évaluation. L'exposé est suivi d'un entretien avec les membres du jury.
+Option français : à partir d'un ou de plusieurs textes postérieurs à 1500, d'auteurs de langue française, le candidat expose pour une classe déterminée de lycée les modalités d'exploitation d'un, de plusieurs ou de la totalité des textes. Il définit ses objectifs, propose des exercices, donne le schéma d'une correction et prévoit une évaluation.L'exposé est suivi d'un entretien avec les membres du jury.
 
 Option anglais ;
 
@@ -548,7 +548,7 @@ CREOLE
 
 a) Epreuves écrites d'admissibilité :
 
-1. Commentaire guidé en créole d'un texte en créole accompagné d'une traduction d'un ou de plusieurs passages de ce texte (version et/ou thème) (durée de l'épreuve : six heures ; coefficient 3).
+1. Commentaire guidé en créole d'un texte en créole accompagné d'une traduction d'un ou de plusieurs passages de ce texte (version et / ou thème) (durée de l'épreuve : six heures ; coefficient 3).
 
 2. Epreuve à options (coefficient 1).
 
@@ -558,11 +558,11 @@ La nature, la durée et, le cas échéant, le programme sont, pour chacune des o
 
 b) Epreuves orales d'admission :
 
-1. Exploitation pédagogique de documents en créole (notamment documents audio, textuels, vidéo) soumis au candidat par le jury. L'épreuve se compose d'un exposé en créole suivi d'un entretien en créole comportant l'explication en français de faits de langue (durée de la préparation : deux heures ; durée de l'épreuve : une heure maximum exposé : trente minutes maximum ; entretien : trente minutes maximum ; coefficient 4).
+1. Exploitation pédagogique de documents en créole (notamment documents audio, textuels, vidéo) soumis au candidat par le jury.L'épreuve se compose d'un exposé en créole suivi d'un entretien en créole comportant l'explication en français de faits de langue (durée de la préparation : deux heures ; durée de l'épreuve : une heure maximum exposé : trente minutes maximum ; entretien : trente minutes maximum ; coefficient 4).
 
 2. Epreuve à options : les candidats passent cette épreuve dans l'option choisie pour la seconde épreuve écrite d'admissibilité (durée de la préparation : deux heures ; durée de l'épreuve : quarante-cinq minutes ; coefficient 3).
 
-Option français : à partir d'un ou de plusieurs textes postérieurs à 1500, d'auteurs de langue française, le candidat expose pour une classe déterminée de lycée les modalités d'exploitation d'un, de plusieurs ou de la totalité des textes. Il définit ses objectifs, propose des exercices, donne le schéma d'une correction et prévoit une évaluation. L'exposé est suivi d'un entretien avec les membres du jury ;
+Option français : à partir d'un ou de plusieurs textes postérieurs à 1500, d'auteurs de langue française, le candidat expose pour une classe déterminée de lycée les modalités d'exploitation d'un, de plusieurs ou de la totalité des textes. Il définit ses objectifs, propose des exercices, donne le schéma d'une correction et prévoit une évaluation.L'exposé est suivi d'un entretien avec les membres du jury ;
 
 Option anglais et option espagnol : à partir d'un dossier fourni au candidat dans la langue choisie, exposé de la préparation d'un cours comportant des exercices écrits et oraux suivis d'un entretien avec les membres du jury ;
 
@@ -574,7 +574,7 @@ OCCITAN-LANGUE D'OC
 
 a) Epreuves écrites d'admissibilité
 
-1. Commentaire guidé en occitan-langue d'oc d'un texte en occitan-langue d'oc accompagné d'une traduction d'un ou de plusieurs passages de ce texte (version et/ou thème).
+1. Commentaire guidé en occitan-langue d'oc d'un texte en occitan-langue d'oc accompagné d'une traduction d'un ou de plusieurs passages de ce texte (version et / ou thème).
 
 Durée : six heures ; coefficient 3.
 
@@ -586,7 +586,7 @@ La nature, la durée et, le cas échéant, le programme sont, pour chacune des o
 
 b) Epreuves orales d'admission
 
-1. Exploitation pédagogique de documents en occitan-langue d'oc (notamment documents audio, textuels, vidéo) soumis au candidat par le jury. L'épreuve se compose d'un exposé en occitan-langue d'oc suivi d'un entretien en occitan-langue d'oc comportant l'explication en français de faits de langue.
+1. Exploitation pédagogique de documents en occitan-langue d'oc (notamment documents audio, textuels, vidéo) soumis au candidat par le jury.L'épreuve se compose d'un exposé en occitan-langue d'oc suivi d'un entretien en occitan-langue d'oc comportant l'explication en français de faits de langue.
 
 Durée de la préparation : deux heures ; durée de l'épreuve : une heure maximum (exposé : trente minutes maximum ; entretien : trente minutes maximum) ; coefficient 4.
 
@@ -594,7 +594,7 @@ Durée de la préparation : deux heures ; durée de l'épreuve : une heure maxim
 
 Durée de la préparation : deux heures ; durée de l'épreuve : quarante-cinq minutes ; coefficient 3.
 
-Option français : à partir d'un ou de plusieurs textes postérieurs à 1500, d'auteurs de langue française, le candidat expose pour une classe déterminée de lycée les modalités d'exploitation d'un, de plusieurs ou de la totalité des textes. Il définit ses objectifs, propose des exercices, donne le schéma d'une correction et prévoit une évaluation. L'exposé est suivi d'un entretien avec les membres du jury.
+Option français : à partir d'un ou de plusieurs textes postérieurs à 1500, d'auteurs de langue française, le candidat expose pour une classe déterminée de lycée les modalités d'exploitation d'un, de plusieurs ou de la totalité des textes. Il définit ses objectifs, propose des exercices, donne le schéma d'une correction et prévoit une évaluation.L'exposé est suivi d'un entretien avec les membres du jury.
 
 Option anglais ;
 
@@ -608,7 +608,7 @@ SECTION TAHITIEN
 
 a) Epreuves écrites d'admissibilité :
 
-1. Commentaire guidé en tahitien d'un texte en tahitien accompagné d'une traduction d'un ou de plusieurs passages de ce texte (version et/ou thème).
+1. Commentaire guidé en tahitien d'un texte en tahitien accompagné d'une traduction d'un ou de plusieurs passages de ce texte (version et / ou thème).
 
 Durée de l'épreuve : six heures ; coefficient 3.
 
@@ -622,7 +622,7 @@ La nature, la durée et, le cas échéant, le programme sont, pour chacune des o
 
 b) Epreuves orales d'admission :
 
-1. Exploitation pédagogique de documents en tahitien (notamment documents audio, textuels, vidéo) soumis au candidat par le jury. L'épreuve se compose d'un exposé en tahitien suivi d'un entretien en tahitien comportant l'explication en français de faits de langue.
+1. Exploitation pédagogique de documents en tahitien (notamment documents audio, textuels, vidéo) soumis au candidat par le jury.L'épreuve se compose d'un exposé en tahitien suivi d'un entretien en tahitien comportant l'explication en français de faits de langue.
 
 Durée de la préparation : deux heures ; durée de l'épreuve : une heure maximum (exposé : trente minutes maximum ; entretien : trente minutes maximum) ; coefficient 4.
 
@@ -632,7 +632,7 @@ Durée de la préparation : deux heures ; durée de l'épreuve : quarante-cinq m
 
 Option français : à partir d'un ou de plusieurs textes postérieurs à 1500 d'auteurs de langue française, le candidat expose pour une classe déterminée de lycée les modalités d'exploitation d'un, de plusieurs ou de la totalité des textes.
 
-Il définit ses objectifs, propose des exercices, donne le schéma d'une correction et prévoit une évaluation. L'exposé est suivi d'un entretien avec les membres du jury.
+Il définit ses objectifs, propose des exercices, donne le schéma d'une correction et prévoit une évaluation.L'exposé est suivi d'un entretien avec les membres du jury.
 
 Option anglais :
 
@@ -643,3 +643,31 @@ Option histoire et géographie : commentaire, analyse scientifique et utilisatio
 Option mathématiques : exposé d'une séquence d'enseignement sur un thème donné suivi d'un entretien avec le jury sur les questions soulevées par l'exposé du candidat.
 
 La graphie à utiliser pour cette section de concours est celle définie par l'arrêté du 20 octobre 1982 faisant suite à une délibération de l'assemblée territoriale de Polynésie française.
+
+ÉPREUVES DU CONCOURS INTERNE DU CAPES
+
+SECTION LANGUE DES SIGNES FRANCAISE
+
+a) Epreuve d'admissibilité :
+
+Commentaire dirigé en langue des signes française d'un texte littéraire ou de civilisation en français, mettant en jeu des problématiques proposées par les programmes des collèges et des lycées. Ce texte peut être accompagné de documents annexes dont le nombre est fixé à cinq au maximum, destinés à en faciliter la mise en perspective.
+
+Le commentaire effectué par le candidat consiste en une production vidéo en langue des signes française d'une durée d'une heure au maximum.
+
+Durée : cinq heures ; coefficient 2.
+
+b) Epreuve d'admission :
+
+Présentation d'une leçon en relation avec les programmes des classes des collèges et des lycées.
+
+L'épreuve prend appui sur un dossier composé de documents proposés par le jury, qui se rapportent à l'une des notions culturelles des programmes des collèges ou des lycées. Ces documents peuvent être des textes, des documents iconographiques, des enregistrements vidéo.
+
+L'épreuve comporte deux parties :
+
+-une première partie en langue des signes française, consistant en la présentation, l'étude et la mise en relation des documents, suivie d'un entretien en langue des signes française ;
+
+-une seconde partie en langue des signes française ou en français, consistant en la proposition de pistes d'exploitation didactiques et pédagogiques de ces documents, en fonction des compétences linguistiques (lexicales, grammaticales) qu'ils mobilisent et des activités langagières qu'ils permettent de mettre en pratique, suivi d'un entretien en langue des signes française ou en français au cours duquel le candidat est amené à justifier ses choix.
+
+Chaque partie compte pour moitié dans la notation.
+
+Durée de la préparation : trois heures ; durée de l'épreuve : une heure (première partie : exposé : vingt minutes ; entretien : dix minutes ; seconde partie : exposé : vingt minutes ; entretien : dix minutes) ; coefficient 2.

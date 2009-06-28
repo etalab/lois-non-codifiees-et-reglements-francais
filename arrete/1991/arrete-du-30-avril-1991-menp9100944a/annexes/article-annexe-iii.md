@@ -113,3 +113,39 @@ b) Epreuves pratiques et orales d'admission :
 2. Deuxième épreuve : deuxième épreuve d'admission du concours externe du CAPES de documentation. Outre les objectifs de l'épreuve d'admission du concours externe, l'épreuve doit aussi permettre au candidat de démontrer qu'il a réfléchi à l'apport que son expérience professionnelle constitue pour l'exercice de son futur métier et dans ses relations avec l'institution scolaire, en intégrant et en valorisant les acquis de son expérience et de ses connaissances professionnelles à la problématique du dossier et dans ses réponses aux questions du jury (coefficient 1).
 
 Le programme des épreuves est celui des épreuves correspondantes du concours externe du CAPES de documentation.
+
+SECTION LANGUE DES SIGNES FRANCAISE
+
+a) Epreuve d'admissibilité :
+
+Commentaire dirigé en langue des signes française d'un texte littéraire ou de civilisation en français, mettant en jeu des problématiques proposées par les programmes des collèges et des lycées. Ce texte peut être accompagné de documents annexes dont le nombre est fixé à cinq au maximum, destinés à en faciliter la mise en perspective.
+
+Le commentaire effectué par le candidat consiste en une production vidéo en langue des signes française d'une durée d'une heure au maximum.
+
+Durée : cinq heures ; coefficient 3.
+
+b) Epreuves d'admission :
+
+1. Présentation d'une leçon en relation avec les programmes des classes des collèges et des lycées.
+
+L'épreuve prend appui sur un dossier composé de documents proposés par le jury, qui se rapportent à l'une des notions culturelles des programmes des collèges ou des lycées. Ces documents peuvent être des textes, des documents iconographiques, des enregistrements vidéo.
+
+L'épreuve comporte deux parties :
+
+- une première partie en langue des signes française, consistant en la présentation, l'étude et la mise en relation des documents, suivie d'un entretien en langue des signes française ;
+
+- une seconde partie en langue des signes française ou en français, consistant en la proposition de pistes d'exploitation didactiques et pédagogiques de ces documents, en fonction des compétences linguistiques (lexicales, grammaticales) qu'ils mobilisent et des activités langagières qu'ils permettent de mettre en pratique, suivi d'un entretien en langue des signes française ou en français au cours duquel le candidat est amené à justifier ses choix.
+
+Chaque partie compte pour moitié dans la notation.
+
+Durée de la préparation : trois heures ; durée de l'épreuve : une heure (première partie : exposé : vingt minutes ; entretien : dix minutes ; seconde partie : exposé : vingt minutes ; entretien : dix minutes) ; coefficient 3.
+
+2. Epreuve en langue des signes française :
+
+L'épreuve prend appui sur un document d'actualité (écrit ou vidéo).
+
+Le candidat en prend connaissance au début de l'épreuve et en fait un bref compte rendu en langue des signes française qui sert de point de départ à l'entretien avec le jury.
+
+L'entretien a pour but de vérifier la capacité du candidat à s'exprimer avec aisance en langue des signes française, et à réagir avec pertinence aux sollicitations du jury.
+
+Epreuve sans préparation ; durée de l'épreuve : trente minutes maximum ; coefficient 3.
