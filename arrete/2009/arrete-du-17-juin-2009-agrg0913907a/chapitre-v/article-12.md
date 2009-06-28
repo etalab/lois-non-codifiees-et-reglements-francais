@@ -1,0 +1,3 @@
+# Article 12
+
+Les participations financières et indemnités prévues au présent arrêté ne sont pas attribuées s'il est établi par l'autorité administrative compétente que les bénéficiaires ont contrevenu à une ou plusieurs prescriptions des arrêtés du 15 septembre 2003 fixant les mesures techniques et administratives relatives à la prophylaxie collective et à la police sanitaire de la tuberculose des bovinés et des caprins ou du 22 avril 2008 fixant les mesures techniques et administratives relatives à la prophylaxie collective et à la police sanitaire de la brucellose des bovinés ainsi que des arrêtés préfectoraux pris pour leur application.
