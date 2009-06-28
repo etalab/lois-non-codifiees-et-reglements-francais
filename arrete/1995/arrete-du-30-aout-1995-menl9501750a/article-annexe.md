@@ -1,5 +1,54 @@
 # Article Annexe
 
-Nota. - Le présent arrêté et son annexe seront publiés au Bulletin officiel du ministère de l'éducation nationale et du ministère de l'enseignement supérieur et de la recherche du 15 mai 2008 au prix de 2,50 €, disponible au Centre national de documentation pédagogique, 13, rue du Four, 75006 Paris, ainsi que dans les centres régionaux et départementaux de documentation pédagogique.
+LISTE DES ÉTABLISSEMENTS HABILITÉS À DÉLIVRER LE DIPLÔME NATIONAL DE TECHNOLOGIE
 
-L'arrêté et son annexe seront diffusés par les centres précités et mis en ligne sur le site www.education.gouv.fr. et www.enseignementsup-recherche.gouv.fr.
+SPÉCIALISÉ DANS LES SPÉCIALITÉS SUIVANTES POUR L'ANNÉE UNIVERSITAIRE 2008-2009
+
+<table>
+<tbody>
+<tr>
+<th>
+<br/>ACADÉMIE <br/>
+</th>
+<th>
+<br/>ÉTABLISSEMENT <br/>
+</th>
+<th>
+<br/>SPÉCIALITÉ <br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Créteil <br/>
+</td>
+<td align="center">
+<br/>Lycée André Malraux, Montereau-Fault-Yonne <br/>
+</td>
+<td align="center">
+<br/>Maintenance nucléaire <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Nantes <br/>
+</td>
+<td align="center">
+<br/>Lycée Chevrollier, Angers <br/>
+</td>
+<td align="center">
+<br/>Vente de solutions informatiques <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Paris <br/>
+</td>
+<td align="center">
+<br/>Ecole nationale de commerce, Paris <br/>
+</td>
+<td align="center">
+<br/>Vente de solutions informatiques<br/>
+</td>
+</tr>
+</tbody>
+</table>

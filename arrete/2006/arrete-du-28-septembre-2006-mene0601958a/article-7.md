@@ -6,37 +6,151 @@ Ces aménagements sont fixés après concertation avec le pays ou l'organisme in
 
 Lorsque la discipline non linguistique faisant l'objet d'un aménagement est l'histoire-géographie, la durée totale de l'enseignement est de quatre heures par semaine, assurées pour moitié par un enseignant français, pour moitié par un enseignant étranger.
 
-Lorsque la discipline non linguistique faisant l'objet d'un aménagement est les mathématiques, la durée totale de cet enseignement est fixée dans le tableau suivant :
+<div align="left">Lorsque la discipline non linguistique faisant l'objet d'un aménagement est les mathématiques, la durée totale de l'enseignement obligatoire est fixée dans les tableaux suivants :</div>
+<div align="left">
+<br/>
+</div>
+SECONDE GÉNÉRALE ET TECHNOLOGIQUE
 
 <table>
 <tbody>
 <tr>
+<th/>
 <th>
+<br/>HORAIRE DE L'ENSEIGNEMENT <p>dispensé en français<br/>
+</p>
+</th>
+<th>
+<br/>HORAIRE DE L'ENSEIGNEMENT DISPENSÉ DANS <p>la langue de la section<br/>
+</p>
+</th>
+<th>
+<br/>TOTAL<br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Classe de seconde <br/>
+</td>
+<td align="center">
+<br/>3,5 heures dont 1 heure en classe dédoublée<br/>
+</td>
+<td align="center">
+<br/>1,5 heure dont 1 heure en classe dédoublée (*)<br/>
+</td>
+<td align="center">
+<br/>5 heures<br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+CYCLE TERMINAL DES SÉRIES GÉNÉRALES
+
+<table>
+<tbody>
+<tr>
+<th/>
+<th>
+<br/>HORAIRE DE L'ENSEIGNEMENT <p>dispensé en français<br/>
+</p>
+</th>
+<th>
+<br/>HORAIRE DE L'ENSEIGNEMENT DISPENSÉ DANS <p>la langue de la section<br/>
+</p>
+</th>
+<th>
+<br/>TOTAL<br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Classe de première série économique et sociale <br/>
+</td>
+<td align="center">
+<br/>3 heures dont 1,5 heure en classe dédoublée <br/>
+</td>
+<td align="center">
+<br/>1,5 heure dont 1 heure en classe dédoublée (*)<br/>
+</td>
+<td align="center">
+<br/>4,5 heures<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Classe de première série littéraire <br/>
+</td>
+<td align="center">
+<br/>2 heures dont 1 heure en classe dédoublée<br/>
+</td>
+<td align="center">
+<br/>1,5 heure dont 1 heure en classe dédoublée (*) <br/>
+</td>
+<td align="center">
+<br/>3,5 heures<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Classe de première série scientifique <br/>
+</td>
+<td align="center">
+<br/>5 heures dont 1 heure en classe dédoublée <br/>
+</td>
+<td align="center">
+<br/>1,5 heure dont 1 heure en classe dédoublée (*) <br/>
+</td>
+<td align="center">
+<br/>6,5 heures<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Classe terminale série économique et sociale <br/>
+</td>
+<td align="center">
+<br/>4 heures<br/>
+</td>
+<td align="center">
+<br/>1,5 heure dont 1 heure en classe dédoublée (*)<br/>
+</td>
+<td align="center">
+<br/>5,5 heures<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Classe terminale série littéraire <br/>
+</td>
+<td align="center">
 <br/>
-</th>
-<th>
-<br/>ENSEIGNEMENT <p>en classe entière<br/>
-</p>
-</th>
-<th>
-<br/>ENSEIGNEMENT <p>en classe dédoublée<br/>
-</p>
-</th>
-</tr>
-<tr>
-<td align="center">
-<br/>Seconde générale et technologique<br/>
 </td>
 <td align="center">
-<br/>3 heures, dont au moins la moitié est dispensée dans la langue de la section par un enseignant étranger(*).<br/>
+<br/>1,5 heure dont 1 heure en classe dédoublée (*)<br/>
 </td>
 <td align="center">
-<br/>2 heures, dispensées pour moitié dans la langue de la section par un enseignant étranger(*). <br/>
+<br/>1,5 heure<br/>
 </td>
 </tr>
 <tr>
-<td colspan="3">
-<br/>(*) La période de référence pour le calcul de cette répartition est, au choix de l'établissement, la semaine ou le trimestre. </td>
+<td align="center">
+<br/>Classe terminale série scientifique <br/>
+</td>
+<td align="center">
+<br/>5,5 heures dont une heure dédoublée <br/>
+</td>
+<td align="center">
+<br/>1,5 heure dont 1 heure en classe dédoublée (*) <br/>
+</td>
+<td align="center">
+<br/>7 heures <br/>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<br/>(*) La période de référence pour le calcul de cette répartition est, au choix de l'établissement, la semaine ou le trimestre.<br/>
+</td>
 </tr>
 </tbody>
 </table>
