@@ -20,7 +20,7 @@ b) Pour les exploitations, autres que l'exploitation de naissance, dans lesquell
 
 3° Interdiction d'introduire de nouveaux animaux dans l'exploitation ;
 
-4° Euthanasie dans un délai d'un mois de tous les bovins marqués de l'exploitation ;
+4° Euthanasie dans un délai d'un mois de tous les bovins marqués de l'exploitation, et réalisation d'un test rapide spécifique à l'ESB sur ceux âgés de plus de 24 mois ;
 
 5° Destruction par incinération, conformément à l'article 10 du présent arrêté, des cadavres des bovins marqués euthanasiés ou morts dans l'exploitation.
 
@@ -34,7 +34,7 @@ B. - Sans préjudice des dispositions mises en oeuvre conformément au paragraph
 
 3° Interdiction de sortir de l'exploitation des bovins marqués, sauf à destination directe d'un établissement d'équarrissage sur autorisation du directeur des services vétérinaires et sous couvert d'un laissez-passer ;
 
-4° Euthanasie dans un délai de quinze jours du ou des bovins marqués ;
+4° Euthanasie dans un délai de quinze jours du ou des bovins marqués et réalisation d'un test rapide spécifique à l'ESB sur ceux âgés de plus de 24 mois ;
 
 5° Destruction par incinération conformément à l'article 10 ci-dessous du ou des cadavres des bovins euthanasiés.
 
