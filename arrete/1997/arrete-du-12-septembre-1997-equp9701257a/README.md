@@ -1,6 +1,5 @@
 # Arrêté du 12 septembre 1997 portant création de comités techniques paritaires au sein des services du ministère des transports, de l'équipement, du tourisme et de la mer (ancien titre portant création de comités techniques paritaires à l'administration centrale et dans les services déconcentrés du ministère de l'équipement, des transports et du logement)
 
-- [Article 1](article-1.md)
 - [Article 1-2](article-1-2.md)
 - [Article 1-3](article-1-3.md)
 - [Article 1-4](article-1-4.md)
