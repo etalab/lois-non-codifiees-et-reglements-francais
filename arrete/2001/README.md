@@ -324,8 +324,6 @@
 - [Arrêté du 17 octobre 2001 (MESH0123720A)](arrete-du-17-octobre-2001-mesh0123720a)
 - [Arrêté du 17 septembre 2001 (MENI0101392A)](arrete-du-17-septembre-2001-meni0101392a)
 - [Arrêté du 17 septembre 2001 (PRMX0105083A)](arrete-du-17-septembre-2001-prmx0105083a)
-- [Arrêté du 17 mai 2001 (ATEP0100165A)](arrete-du-17-mai-2001-atep0100165a)
-- [Arrêté du 17 mai 2001 (ATEP0100166A)](arrete-du-17-mai-2001-atep0100166a)
 - [Arrêté du 17 mai 2001 (DEFC0101372A)](arrete-du-17-mai-2001-defc0101372a)
 - [Arrêté du 18 avril 2001 (MENA0100658A)](arrete-du-18-avril-2001-mena0100658a)
 - [Arrêté du 18 décembre 2000 (ATEP0100002A)](arrete-du-18-decembre-2000-atep0100002a)
