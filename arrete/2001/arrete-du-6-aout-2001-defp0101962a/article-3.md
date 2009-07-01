@@ -1,6 +1,8 @@
 # Article 3
 
-Les missions du comité social recouvrent des domaines particuliers qui relèvent du cadre d'intervention des représentants du personnel :
+Les missions des comités sociaux sont définies comme suit :
+
+- informés des orientations de la politique d'action sociale du ministère, ils font connaître les besoins exprimés par les ressortissants, donnent des avis et font des propositions sur toute mesure susceptible de mieux les satisfaire ;
 
 - informés des orientations de la politique d'action sociale du ministère, les représentants du personnel font connaître les besoins exprimés par les ressortissants, donnent des avis et font des propositions sur toute mesure susceptible de mieux les satisfaire. Ils contribuent à l'information des ressortissants sur la politique mise en oeuvre au niveau national et local ;
 

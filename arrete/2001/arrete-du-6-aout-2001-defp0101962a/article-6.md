@@ -10,8 +10,6 @@ Le comité social est présidé de droit par les personnes suivantes :
 
 - pour la marine : le commandant de la zone territoriale ou de la base aéronautique navale ;
 
-- pour la délégation générale pour l'armement : le directeur de l'établissement de la DGA, support du comité social ;
-
-- pour DCN : le chef d'établissement support du comité social.
+- pour la délégation générale pour l'armement : le directeur de l'établissement de la DGA, support du comité social.
 
 Les présidents des comités sociaux implantés en outre-mer sont désignés par les commandants des forces parmi leurs adjoints, officiers supérieurs.

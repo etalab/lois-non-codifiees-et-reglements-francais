@@ -1,6 +1,6 @@
 # Article 7
 
-Les représentants du personnel, qui disposent seuls d'une voix délibérative, doivent exercer leur activité dans le ressort du comité social et être âgés de dix-huit ans révolus à la date fixée pour le renouvellement du comité social. Leur mandat, d'une durée de quatre ans, est renouvelable.
+Les représentants du personnel, qui disposent d'une voix délibérative, doivent exercer leur activité dans le ressort du comité social et être âgés de dix-huit ans révolus à la date fixée pour le renouvellement du comité social. Leur mandat, d'une durée de quatre ans, est renouvelable.
 
 Les représentants du personnel militaire sont répartis en trois collèges : un collège pour le personnel officier, un collège pour le personnel sous-officier, un collège pour les militaires du rang. Ils sont choisis par le commandement de façon à assurer une représentation équitable des formations, services et établissements du ressort du comité social.
 
