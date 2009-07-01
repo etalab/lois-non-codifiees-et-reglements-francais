@@ -6,437 +6,227 @@ Dès lors qu'ils exercent leurs fonctions dans les services centraux du ministè
 <tbody>
 <tr>
 <td>
-<p align="center">PERSONNELS FONCTIONNAIRES </p>
+<p align="center">
+<strong>PERSONNELS FONCTIONNAIRES</strong>
+</p>
 </td>
 <td>
-<p align="center">FONCTIONNAIRES </p>
-<br/>
-<p align="center">d'administration centrale </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Au-delà de l'indice brut 380 : </p>
-</td>
-<td>
-<p align="center">Secrétaire administratif de classe normale au-delà de l'indice brut 380. </p>
+<p align="center">
+<strong>FONCTIONNAIRES D'ADMINISTRATION CNETRALE</strong>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Adjoints techniques de classe exceptionnelle de l'Imprimerie nationale </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Au-delà de l'indice brut 380 : </td>
+<td>Secrétaire administratif de classe normale au-delà de l'indice brut 380. </td>
 </tr>
 <tr>
-<td>
-<p>Adjoints techniques mécaniciens de la direction des Monnaies et médailles. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Adjoints techniques de classe exceptionnelle de l'Imprimerie nationale </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Agents principaux des services techniques de 2e catégorie. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Adjoints techniques mécaniciens de l'établissement public La Monnaie de Paris.</td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Bibliothécaires adjoints de classe normale. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Agents principaux des services techniques de 2e catégorie. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Chefs d'atelier de l'établissement public La Monnaie de Paris.</p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Bibliothécaires adjoints de classe normale. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Chefs de service intérieur de 1re et 2e catégorie. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Chefs d'atelier de l'établissement public La Monnaie de Paris. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Contrôleurs de 2e classe de la concurrence, de la consommation et de la répression des fraudes. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Chefs de service intérieur de 1re et 2e catégorie. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Contrôleurs de 2e classe et chargés de mission de classe normale de l'Institut national de la statistique et des études économiques. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Contrôleurs de 2e classe de la concurrence, de la consommation et de la répression des fraudes. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Contrôleurs de 2e classe des douanes et droits indirects. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Contrôleurs de 2e classe et chargés de mission de classe normale de l'Institut national de la statistique et des études économiques. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Contrôleurs de 2e classe des impôts. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Contrôleurs de 2e classe des douanes et droits indirects. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Contrôleurs de 2e classe du Trésor public. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Contrôleurs de 2e classe des impôts. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Contrôleurs des alcools de classe normale. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Contrôleurs de 2e classe du Trésor public. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Contrôleurs principaux des installations téléphoniques des finances. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Contrôleurs des alcools de classe normale. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Dessinateurs projeteurs de 2e classe des finances. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Contrôleurs principaux des installations téléphoniques des finances. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Infirmières ou infirmiers de classe normale de l'État. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Dessinateurs projeteurs de 2e classe des finances. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Techniciens de laboratoire de classe normale du ministère de l'économie, des finances et de l'industrie et techniciens de laboratoire de classe normale des écoles nationales supérieures des mines. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Infirmières ou infirmiers de classe normale de l'État. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Techniciens de l'industrie et des mines. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Techniciens de laboratoire de classe normale du ministère de l'économie, des finances et de l'industrie et techniciens de laboratoire de classe normale des écoles nationales supérieures des mines. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Technicien du ministère de l'économie des finances et de l'industrie. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Techniciens de l'industrie et des mines. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Techniciens géomètres du cadastre. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Technicien du ministère de l'économie des finances et de l'industrie. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Agents principaux des services techniques de 1re catégorie. </p>
-</td>
-<td>
-<p align="center">Secrétaire administratif de classe supérieure </p>
-</td>
+<td>Techniciens géomètres du cadastre. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Bibliothécaires adjoints de classe supérieure. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Agents principaux des services techniques de 1re catégorie. </td>
+<td>Secrétaire administratif de classe supérieure </td>
 </tr>
 <tr>
-<td>
-<p>Chefs d'atelier principaux de l'établissement public La Monnaie de Paris.</p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Bibliothécaires adjoints de classe supérieure. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Chefs mécaniciens de l'établissement public La Monnaie de Paris. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Chefs d'atelier principaux de l'établissement public La Monnaie de Paris.</td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Contrôleurs des alcools de classe supérieure. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Chefs mécaniciens de l'établissement public La Monnaie de Paris.</td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Contrôleurs de 1re classe de la concurrence, de la consommation et de la répression des fraudes. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Contrôleurs des alcools de classe supérieure. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Contrôleurs de 1re classe de l'Institut national de la statistique et des études économiques. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Contrôleurs de 1re classe de la concurrence, de la consommation et de la répression des fraudes. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Contrôleurs de 1re classe des impôts. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Contrôleurs de 1re classe de l'Institut national de la statistique et des études économiques. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Contrôleurs de 1re classe du Trésor public. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Contrôleurs de 1re classe des impôts. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Contrôleurs principaux des installations téléphoniques des finances. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Contrôleurs de 1re classe du Trésor public. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Dessinateurs projeteurs de 1re classe des finances. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Contrôleurs principaux des installations téléphoniques des finances. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Géomètres du cadastre. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Dessinateurs projeteurs de 1re classe des finances. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Infirmières et infirmiers de classe supérieure de l'État. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Géomètres du cadastre. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Au-delà de l'indice brut 380 : </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Infirmières et infirmiers de classe supérieure de l'État. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Techniciens de laboratoire de classe supérieure du ministère de l'économie, des finances et de l'industrie. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Au-delà de l'indice brut 380 : </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Techniciens de laboratoire de classe supérieure des écoles nationales supérieures des mines. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Techniciens de laboratoire de classe supérieure du ministère de l'économie, des finances et de l'industrie. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Techniciens principaux du ministère de l'économie, des finances et de l'industrie. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Techniciens de laboratoire de classe supérieure des écoles nationales supérieures des mines. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Techniciens supérieurs de l'industrie et des mines. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Techniciens principaux du ministère de l'économie, des finances et de l'industrie. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Bibliothécaires adjoints de classe exceptionnelle. </p>
-</td>
-<td>
-<p align="center">Secrétaire administratif de classe exceptionnelle. </p>
-</td>
+<td>Techniciens supérieurs de l'industrie et des mines. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Chefs de fabrication adjoints des Monnaies et médailles. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Bibliothécaires adjoints de classe exceptionnelle. </td>
+<td>Secrétaire administratif de classe exceptionnelle. </td>
 </tr>
 <tr>
-<td>
-<p>Contrôleurs principaux de la concurrence de la consommation et de la répression des fraudes. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Chefs de fabrication adjoints des Monnaies et médailles. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Contrôleurs principaux de l'Institut national de la statistique et des études économiques. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Contrôleurs principaux de la concurrence de la consommation et de la répression des fraudes. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Contrôleurs principaux des douanes et droits indirects. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Contrôleurs principaux de l'Institut national de la statistique et des études économiques. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Contrôleurs principaux des impôts. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Contrôleurs principaux des douanes et droits indirects. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Contrôleurs principaux du Trésor public. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Contrôleurs principaux des impôts. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Correcteurs de l'Imprimerie nationale. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Contrôleurs principaux du Trésor public. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Dessinateurs projeteurs en chef des finances. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Correcteurs de l'Imprimerie nationale. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Géomètres principaux du cadastre. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Dessinateurs projeteurs en chef des finances. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Graveurs des Monnaies et médailles. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Géomètres principaux du cadastre. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Infirmières en chef ou infirmiers en chef de l'État. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Graveurs des Monnaies et médailles. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Ingénieurs adjoints à l'administration centrale du ministère de l'économie, des finances et de l'industrie. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Infirmières en chef ou infirmiers en chef de l'État. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Techniciens de laboratoire de classe exceptionnelle du ministère de l'économie, des finances et de l'industrie et techniciens de laboratoire de classe exceptionnelle des écoles nationales supérieures des mines. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Ingénieurs adjoints à l'administration centrale du ministère de l'économie, des finances et de l'industrie. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td rowspan="2">
-<p>Techniciens en chef de l'industrie et des mines. </p>
-</td>
-<td rowspan="2">
-<p align="center">d° </p>
-</td>
+<td>Techniciens de laboratoire de classe exceptionnelle du ministère de l'économie, des finances et de l'industrie et techniciens de laboratoire de classe exceptionnelle des écoles nationales supérieures des mines. </td>
+<td>d° </td>
+</tr>
+<tr>
+<td rowspan="2">Techniciens en chef de l'industrie et des mines. </td>
+<td rowspan="2">d° </td>
 </tr>
 </tbody>
 </table>
@@ -444,501 +234,259 @@ Dès lors qu'ils exercent leurs fonctions dans les services centraux du ministè
 <tbody>
 <tr>
 <td>
-<p align="center">PERSONNELS FONCTIONNAIRES </p>
+<p align="center">
+<strong>PERSONNELS FONCTIONNAIRES</strong>
+</p>
 </td>
 <td>
-<p align="center">FONCTIONNAIRES </p>
-<br/>
-<p align="center">d'administration centrale </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Attachés commerciaux de la direction des relations économiques extérieures. </p>
-</td>
-<td>
-<p align="center">Attaché, chargé d'études documentaires. </p>
+<p align="center">
+<strong>FONCTIONNAIRES D'ADMINISTRATION CNETRALE</strong>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Attachés de l'Institut national de la statistique et des études économiques. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Attachés commerciaux de la direction des relations économiques extérieures. </td>
+<td>Attaché, chargé d'études documentaires. </td>
 </tr>
 <tr>
-<td>
-<p>Chargés de mission de classe normale de l'Institut national de la statistique et des études économiques. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Attachés de l'Institut national de la statistique et des études économiques. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Chefs de fabrication des Monnaies et médailles. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Chargés de mission de classe normale de l'Institut national de la statistique et des études économiques. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Chefs de section des alcools. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Chefs de fabrication des Monnaies et médailles. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Conservateurs du patrimoine de 1re et 2e classe. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Chefs de section des alcools. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Correcteurs principaux de l'Imprimerie nationale. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Conservateurs du patrimoine de 1re et 2e classe. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Huissiers du Trésor public. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Correcteurs principaux de l'Imprimerie nationale. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Ingénieurs de laboratoire du ministère de l'économie, des finances et de l'industrie. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Huissiers du Trésor public. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Ingénieurs de l'industrie et des mines. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Ingénieurs de laboratoire du ministère de l'économie, des finances et de l'industrie. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Inspecteurs de France Télécom. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Ingénieurs de l'industrie et des mines. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Inspecteurs de la concurrence, de la consommation et de la répression des fraudes. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Inspecteurs de France Télécom. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Inspecteurs des douanes et droits indirects. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Inspecteurs de la concurrence, de la consommation et de la répression des fraudes. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Inspecteurs des impôts. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Inspecteurs des douanes et droits indirects. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Inspecteurs du Trésor public. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Inspecteurs des impôts. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Ingénieurs économistes de classe normale de la construction. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Inspecteurs du Trésor public. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Maîtres graveurs des Monnaies et médailles. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Ingénieurs économistes de classe normale de la construction. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Personnels navigants des douanes et droits indirects. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Maîtres graveurs des Monnaies et médailles. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Protes de l'Imprimerie nationale </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Personnels navigants des douanes et droits indirects. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Traducteurs. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Protes de l'Imprimerie nationale </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Vérificateurs des travaux de classe normale. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Traducteurs. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Architectes de classe normale. </p>
-</td>
-<td>
-<p align="center">Attaché principal, chargé d'études documentaires principal (2e classe). </p>
-</td>
+<td>Vérificateurs des travaux de classe normale. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Assistants de la Cour des comptes. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Architectes de classe normale. </td>
+<td>Attaché principal, chargé d'études documentaires principal (2e classe). </td>
 </tr>
 <tr>
-<td>
-<p>Attachés commerciaux principaux de 2e classe de la direction des relations économiques extérieures. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Assistants de la Cour des comptes. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Attachés principaux de 2e classe de l'Institut national de la statistique et des études économiques. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Attachés commerciaux principaux de 2e classe de la direction des relations économiques extérieures. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Chefs de section principaux des alcools. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Attachés principaux de 2e classe de l'Institut national de la statistique et des études économiques. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Directeurs de laboratoire de 2e classe du ministère de l'économie, des finances et de l'industrie. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Chefs de section principaux des alcools. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Graveur général des Monnaies et médailles. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Directeurs de laboratoire de 2e classe du ministère de l'économie, des finances et de l'industrie. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Ingénieurs mécaniciens électriciens de classe normale. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Graveur général des Monnaies et médailles. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Inspecteurs départementaux de 3e classe des impôts. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Ingénieurs mécaniciens électriciens de classe normale. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Inspecteurs départementaux de 2e classe des impôts. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Inspecteurs départementaux de 3e classe des impôts. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Inspecteurs principaux de la concurrence, de la consommation et de la répression des fraudes de 2e classe. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Inspecteurs départementaux de 2e classe des impôts. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Inspecteurs principaux des douanes de 2e classe. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Inspecteurs principaux de la concurrence, de la consommation et de la répression des fraudes de 2e classe. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Inspecteurs principaux des impôts de 2e classe. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Inspecteurs principaux des douanes de 2e classe. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Inspecteurs principaux du Trésor public de 2e classe. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Inspecteurs principaux des impôts de 2e classe. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Receveurs percepteurs du Trésor public. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Inspecteurs principaux du Trésor public de 2e classe. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Receveurs principaux des douanes de 2e classe. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Receveurs percepteurs du Trésor public. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Traducteurs principaux de 2e classe. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Receveurs principaux des douanes de 2e classe. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Vérificateurs des travaux de classe exceptionnelle. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Traducteurs principaux de 2e classe. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Inspecteur départementaux de 3e classe des impôts </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Vérificateurs des travaux de classe exceptionnelle. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Inspecteur départementaux de 2e classe des impôts </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Inspecteur départementaux de 3e classe des impôts </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Architectes de classe exceptionnelle. </p>
-</td>
-<td>
-<p align="center">Attaché principal, chargé d'études documentaires principal (1re classe) et conseiller pour les affaires administratives. </p>
-</td>
+<td>Inspecteur départementaux de 2e classe des impôts </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Attachés commerciaux principaux de 1re classe de la direction des relations économiques extérieures. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Architectes de classe exceptionnelle. </td>
+<td>Attaché principal, chargé d'études documentaires principal (1re classe) et conseiller pour les affaires administratives. </td>
 </tr>
 <tr>
-<td>
-<p>Attachés principaux de 1re classe de l'Institut national de la statistique et des études économiques. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Attachés commerciaux principaux de 1re classe de la direction des relations économiques extérieures. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Chargés de mission de 3e catégorie des impôts. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Attachés principaux de 1re classe de l'Institut national de la statistique et des études économiques. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Chargés de mission de classe exceptionnelle de l'Institut national de la statistique et des études économiques. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Chargés de mission de 3e catégorie des impôts. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Chefs de mission du ministère de l'économie, des finances et de l'industrie. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Chargés de mission de classe exceptionnelle de l'Institut national de la statistique et des études économiques. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Directeurs de laboratoire de 1re classe du ministère de l'économie, des finances et de l'industrie. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Chefs de mission du ministère de l'économie, des finances et de l'industrie. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Ingénieurs économistes de classe supérieure de la construction. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Directeurs de laboratoire de 1re classe du ministère de l'économie, des finances et de l'industrie. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Ingénieurs divisionnaires de l'industrie et des mines. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Ingénieurs économistes de classe supérieure de la construction. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Ingénieurs mécaniciens électriciens de classe exceptionnelle. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Ingénieurs divisionnaires de l'industrie et des mines. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Inspecteurs administratifs des alcools. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Ingénieurs mécaniciens électriciens de classe exceptionnelle. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Inspecteurs départementaux des impôts de 1re classe des impôts. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Inspecteurs administratifs des alcools. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Inspecteurs principaux de la concurrence, de la consommation et de la répression des fraudes de 1re classe. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Inspecteurs départementaux des impôts de 1re classe des impôts. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Inspecteurs principaux des douanes de 1re classe. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Inspecteurs principaux de la concurrence, de la consommation et de la répression des fraudes de 1re classe. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Inspecteurs principaux des impôts de 1re classe. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Inspecteurs principaux des douanes de 1re classe. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Inspecteurs principaux du Trésor public de 1re classe. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Inspecteurs principaux des impôts de 1re classe. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Protes principaux de l'Imprimerie nationale </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Inspecteurs principaux du Trésor public de 1re classe. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Receveurs principaux des douanes de 1re classe. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Protes principaux de l'Imprimerie nationale </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Traducteurs principaux de 1re classe. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Receveurs principaux des douanes de 1re classe. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td rowspan="2">
-<p>Trésoriers principaux. </p>
-</td>
-<td rowspan="2">
-<p align="center">d° </p>
-</td>
+<td>Traducteurs principaux de 1re classe. </td>
+<td>d° </td>
+</tr>
+<tr>
+<td rowspan="2">Trésoriers principaux. </td>
+<td rowspan="2">d° </td>
 </tr>
 </tbody>
 </table>
@@ -946,629 +494,340 @@ Dès lors qu'ils exercent leurs fonctions dans les services centraux du ministè
 <tbody>
 <tr>
 <td>
-<p align="center">PERSONNELS FONCTIONNAIRES </p>
+<p align="center">
+<strong>PERSONNELS FONCTIONNAIRES</strong>
+</p>
 </td>
 <td>
-<p align="center">FONCTIONNAIRES </p>
-<br/>
-<p align="center">d'administration centrale </p>
+<p align="center">
+<strong>FONCTIONNAIRES D'ADMINISTRATION CNETRALE</strong>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Administrateurs de l'Institut national de la statistique et des études économiques. </p>
-</td>
-<td>
-<p align="center">Administrateur civil. </p>
-</td>
+<td>Administrateurs de l'Institut national de la statistique et des études économiques. </td>
+<td>Administrateur civil. </td>
 </tr>
 <tr>
-<td>
-<p>Administrateurs des postes et télécommunications. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Administrateurs des postes et télécommunications. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Administrateurs financiers de 1re et 2e classe de la Caisse nationale de crédit agricole. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Administrateurs financiers de 1re et 2e classe de la Caisse nationale de crédit agricole. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Chargés de mission de 2e catégorie des impôts. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Administrateurs des finances publiques. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Chefs de service départemental de la concurrence, de la consommation et de la répression des fraudes. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Chargés de mission de 2e catégorie des impôts. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Chefs de service du Trésor public. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Chefs de service départemental de la concurrence, de la consommation et de la répression des fraudes. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Commissaires contrôleurs stagiaires, commissaires contrôleurs des assurances. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Chefs de service du Trésor public. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Conseillers commerciaux de 1re et 2e classe de la direction des relations économiques extérieures. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Commissaires contrôleurs stagiaires, commissaires contrôleurs des assurances. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Directeurs adjoints des douanes. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Conseillers commerciaux de 1re et 2e classe de la direction des relations économiques extérieures. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Directeurs de laboratoire de classe supérieure du ministère de l'économie, des finances et de l'industrie. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Directeurs adjoints des douanes. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Directeurs départementaux du Trésor public </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Directeurs de laboratoire de classe supérieure du ministère de l'économie, des finances et de l'industrie. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Directeurs divisionnaires des impôts. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Directeurs départementaux du Trésor public </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Ingénieurs des instruments de mesure (grade). </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Directeurs divisionnaires des impôts. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Ingénieurs-élèves et ingénieurs des mines (grade). </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Ingénieurs des instruments de mesure (grade). </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Ingénieurs des Monnaies et médailles. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Ingénieurs-élèves et ingénieurs des mines (grade). </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Inspecteurs de 3e classe, inspecteurs adjoints et inspecteurs des finances de 2e classe. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Ingénieurs des Monnaies et médailles. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Inspecteurs de l'industrie et du commerce. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Inspecteurs de 3e classe, inspecteurs adjoints et inspecteurs des finances de 2e classe. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Receveurs des finances. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Inspecteurs de l'industrie et du commerce. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Receveurs des finances de 1re catégorie. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Receveurs des finances. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Receveurs divisionnaires des impôts. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Receveurs des finances de 1re catégorie. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Receveurs régionaux des douanes et droits indirects. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Receveurs divisionnaires des impôts. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Trésoriers principaux du Trésor public de 1re catégorie. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Receveurs régionaux des douanes et droits indirects. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Administrateurs de l'Institut national de la statistique et des études économiques hors classe. </p>
-</td>
-<td>
-<p align="center">Administrateur civil hors classe. </p>
-</td>
+<td>Trésoriers principaux du Trésor public de 1re catégorie. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Administrateurs financiers hors classe de la Caisse nationale de crédit agricole. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Administrateurs de l'Institut national de la statistique et des études économiques hors classe. </td>
+<td>Administrateur civil hors classe. </td>
 </tr>
 <tr>
-<td>
-<p>Administrateurs hors classe des postes et télécommunications. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Administrateurs financiers hors classe de la Caisse nationale de crédit agricole. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Chargés de mission de 1re catégorie des impôts. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Administrateurs hors classe des postes et télécommunications. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Chefs de service interrégional des douanes et droits indirects. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Administrateurs généraux des finances publiques </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Chefs de service régional de la concurrence, de la consommation et de la répression des fraudes. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Chargés de mission de 1re catégorie des impôts. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Chefs des services fiscaux de classe normale. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Chefs de service interrégional des douanes et droits indirects. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Commissaires contrôleurs en chef des assurances. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Chefs de service régional de la concurrence, de la consommation et de la répression des fraudes. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Conseillers commerciaux hors classe de la direction des relations économiques extérieures. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Chefs des services fiscaux de classe normale. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Directeurs de laboratoire de classe exceptionnelle du ministère de l'économie, des finances et de l'industrie. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Commissaires contrôleurs en chef des assurances. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Directeurs départementaux de classe exceptionnelle et de classe normale de la concurrence, de la consommation et de la répression des fraudes. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Conseillers commerciaux hors classe de la direction des relations économiques extérieures. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Di recteurs départementaux des impôts. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Directeurs de laboratoire de classe exceptionnelle du ministère de l'économie, des finances et de l'industrie. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Directeurs régionaux de classe fonctionnelle des douanes et droits indirects. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Directeurs départementaux de classe exceptionnelle et de classe normale de la concurrence, de la consommation et de la répression des fraudes. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Directeurs régionaux de classe normale des douanes et droits indirects. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Directeurs départementaux des impôts. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Ingénieurs de recherche hors classe et de 1re classe ORSTOM. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Directeurs régionaux de classe fonctionnelle des douanes et droits indirects. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Ingénieurs en chef des instruments de mesure. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Directeurs régionaux de classe normale des douanes et droits indirects. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Ingénieurs en chef des mines. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Ingénieurs de recherche hors classe et de 1re classe ORSTOM. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Ingénieurs en chef des Monnaies et médailles. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Ingénieurs en chef des instruments de mesure. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Ministres conseillers pour les affaires économiques et commerciales de 2e catégorie de la direction des relations économiques extérieures. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Ingénieurs en chef des mines. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Trésoriers-payeurs généraux de 4e catégorie. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Ingénieurs en chef des Monnaies et médailles. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Chefs des services fiscaux de classe fonctionnelle. </p>
-</td>
-<td>
-<p align="center">Directeur adjoint, sous-directeur et directeur de projet. </p>
-</td>
+<td>Ministres conseillers pour les affaires économiques et commerciales de 2e catégorie de la direction des relations économiques extérieures. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Conseillers financiers de classe exceptionnelle des services financiers à l'étranger. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Trésoriers-payeurs généraux de 4e catégorie. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Conseillers financiers outre-mer. </p>
+<td>Administrateurs généraux des finances publiques <br/>
 </td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Directeur adjoint, sous-directeur et directeur de projet. </td>
 </tr>
 <tr>
-<td>
-<p>Membre du corps du contrôle général économique et financier de 2e classe. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Chefs des services fiscaux de classe fonctionnelle. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Contrôleurs généraux de 2e classe (corps du contrôle général économique et financier) </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Conseillers financiers de classe exceptionnelle des services financiers à l'étranger. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Directeurs régionaux de la concurrence, de la consommation et de la répression des fraudes. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Conseillers financiers outre-mer. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Directeurs interrégionaux des douanes et droits indirects. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Membre du corps du contrôle général économique et financier de 2e classe. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Inspecteurs généraux de la répression des fraudes. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Contrôleurs généraux de 2e classe (corps du contrôle général économique et financier) </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Inspecteurs généraux de l'Institut national de la statistique et des études économiques. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Directeurs régionaux de la concurrence, de la consommation et de la répression des fraudes. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Trésoriers-payeurs généraux de 2e et 3e catégorie. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Directeurs interrégionaux des douanes et droits indirects. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<pre/>
-</td>
-<td>
-<p align="center">Chef de service. </p>
-</td>
+<td>Inspecteurs généraux de la répression des fraudes. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Commissaire du Gouvernement auprès du fonds de garantie au profit des victimes accidentées de la route. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Inspecteurs généraux de l'Institut national de la statistique et des études économiques. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Conseillers économiques de classe exceptionnelle. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Trésoriers-payeurs généraux de 2e et 3e catégorie. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Délégués interrégionaux des impôts. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td/>
+<td>Chef de service. </td>
 </tr>
 <tr>
-<td>
-<p>Ingénieurs généraux des instruments de mesure. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Commissaire du Gouvernement auprès du fonds de garantie au profit des victimes accidentées de la route. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Inspecteurs des finances de 1re classe. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Conseillers économiques de classe exceptionnelle. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Contrôleurs généraux de 1re classe (corps du contrôle général économique et financier) </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Délégués interrégionaux des impôts. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Chefs de mission de contrôle général économique et financier (corps du contrôle général économique et financier) (gr.C-D). </p>
-</td>
-<td>
-<p align="center">Directeur général, directeur (hors échelles C et D). </p>
-</td>
+<td>Ingénieurs généraux des instruments de mesure. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Contrôleurs budgétaires et comptables ministériels (gr.C-D). </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Inspecteurs des finances de 1re classe. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Chef du corps de contrôle des assurances. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Contrôleurs généraux de 1re classe (corps du contrôle général économique et financier) </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Commissaires contrôleurs généraux des assurances. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Administrateurs généraux des finances publiques </td>
+<td>Directeur général </td>
 </tr>
 <tr>
-<td>
-<p>Membre du corps du contrôle général économique et financier de 1re classe. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Chefs de mission de contrôle général économique et financier (corps du contrôle général économique et financier) (gr.C-D). </td>
+<td>Directeur général, directeur (hors échelles C et D). </td>
 </tr>
 <tr>
-<td>
-<p>Contrôleurs généraux de 1re classe (gr.C-D) (corps du contrôle général économique et financier). </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Contrôleurs budgétaires et comptables ministériels (gr.C-D). </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Ingénieurs généraux des mines. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Chef du corps de contrôle des assurances. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Inspecteurs généraux des finances (gr.D). </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Commissaires contrôleurs généraux des assurances. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Ministres conseillers pour les affaires économiques. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Membre du corps du contrôle général économique et financier de 1re classe. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Secrétaire général du comité interministériel pour les questions de coopération économique européenne (gr.C-D). </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Contrôleurs généraux de 1re classe (gr.C-D) (corps du contrôle général économique et financier). </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Trésoriers-payeurs généraux de 1re catégorie. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Ingénieurs généraux des mines. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Vice-président du conseil général des technologies de l'information (gr.D). </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Inspecteurs généraux des finances (gr.D). </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Chefs de mission de contrôle général économique et financier (gr.E). </p>
-</td>
-<td>
-<p align="center">Directeur général, directeur (hors échelle E). </p>
-</td>
+<td>Ministres conseillers pour les affaires économiques. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Contrôleurs budgétaires et comptables ministériels (gr.E). </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Secrétaire général du comité interministériel pour les questions de coopération économique européenne (gr.C-D). </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Inspecteurs généraux des finances (gr.E). </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Trésoriers-payeurs généraux de 1re catégorie. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Ministres conseillers pour les affaires économiques </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Vice-président du conseil général des technologies de l'information (gr.D). </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Présidents de section du Conseil général des mines. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Chefs de mission de contrôle général économique et financier (gr.E). </td>
+<td>Directeur général, directeur (hors échelle E). </td>
 </tr>
 <tr>
-<td rowspan="2">
-<p>Secrétaire général du comité interministériel pour les questions de coopération économique européenne (gr.E). </p>
-</td>
-<td rowspan="2">
-<p align="center">d° </p>
-</td>
+<td>Contrôleurs budgétaires et comptables ministériels (gr.E). </td>
+<td>d° </td>
+</tr>
+<tr>
+<td>Inspecteurs généraux des finances (gr.E). </td>
+<td>d° </td>
+</tr>
+<tr>
+<td>Ministres conseillers pour les affaires économiques </td>
+<td>d° </td>
+</tr>
+<tr>
+<td>Présidents de section du Conseil général des mines. </td>
+<td>d° </td>
+</tr>
+<tr>
+<td rowspan="2">Secrétaire général du comité interministériel pour les questions de coopération économique européenne (gr.E). </td>
+<td rowspan="2">d° </td>
 </tr>
 </tbody>
 </table>
@@ -1576,422 +835,223 @@ Dès lors qu'ils exercent leurs fonctions dans les services centraux du ministè
 <tbody>
 <tr>
 <td>
-<p align="center">PERSONNELS NON TITULAIRES </p>
+<p align="center">
+<strong>PERSONNELS NON TITULAIRES</strong>
+</p>
 </td>
 <td>
-<p align="center">GRADES OU EMPLOIS </p>
-<br/>
-<p align="center">d'administration centrale </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Agents contractuels assimilés aux secrétaires administratifs de classe normale à partir du 8e échelon. </p>
-</td>
-<td>
-<p align="center">Secrétaires administratifs de classe normale à partir du 8e échelon. </p>
+<p align="center">
+<strong>GRADES OU EMPLOIS D'ADMINISTRATION CENTRALE</strong>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Agents contractuels de catégorie B de la direction des relations économiques extérieures à partir du 8e échelon. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Agents contractuels assimilés aux secrétaires administratifs de classe normale à partir du 8e échelon. </td>
+<td>Secrétaires administratifs de classe normale à partir du 8e échelon. </td>
 </tr>
 <tr>
-<td>
-<p>Agents contractuels de catégorie B ex-ANIFOM rémunérés sur un indice supérieur à l'indice brut 380. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Agents contractuels de catégorie B de la direction des relations économiques extérieures à partir du 8e échelon. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Agents contractuels de 2e catégorie du service de la répression des fraudes et du contrôle de la qualité à partir du 7e échelon. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Agents contractuels de catégorie B ex-ANIFOM rémunérés sur un indice supérieur à l'indice brut 380. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Agents contractuels de 1re catégorie (décret n° 75-62 du 28 janvier 1975) à partir du 6e échelon. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Agents contractuels de 2e catégorie du service de la répression des fraudes et du contrôle de la qualité à partir du 7e échelon. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Chargés de mission contractuels de niveau B de l'Institut national de la statistique et des études économiques du 8e au 12e échelon. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Agents contractuels de 1re catégorie (décret n° 75-62 du 28 janvier 1975) à partir du 6e échelon. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Conseillers techniques de la direction générale des douanes et droits indirects à partir du 8e échelon. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Chargés de mission contractuels de niveau B de l'Institut national de la statistique et des études économiques du 8e au 12e échelon. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Infirmières contractuelles et infirmiers contractuels à partir du 4e échelon assimilé (e) s aux infirmières et infirmiers de classe normale de l'Etat. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Conseillers techniques de la direction générale des douanes et droits indirects à partir du 8e échelon. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Agents contractuels assimilés aux secrétaires administratifs de classe supérieure. </p>
-</td>
-<td>
-<p align="center">Secrétaire administratif de classe supérieure. </p>
-</td>
+<td>Infirmières contractuelles et infirmiers contractuels à partir du 4e échelon assimilé (e) s aux infirmières et infirmiers de classe normale de l'Etat. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Conseillers techniques et chargés de mission informaticiens de la direction générale des douanes et droits indirects de l'indice brut 384 à l'indice brut 579. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Agents contractuels assimilés aux secrétaires administratifs de classe supérieure. </td>
+<td>Secrétaire administratif de classe supérieure. </td>
 </tr>
 <tr>
-<td>
-<p>Infirmières contractuelles et infirmiers contractuels assimilé (e) s aux infirmières principales et infirmiers de classe supérieure de l'Etat. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Conseillers techniques et chargés de mission informaticiens de la direction générale des douanes et droits indirects de l'indice brut 384 à l'indice brut 579. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Agents contractuels assimilés aux secrétaires administratifs de classe exceptionnelle. </p>
-</td>
-<td>
-<p align="center">Secrétaire administratif de classe exceptionnelle. </p>
-</td>
+<td>Infirmières contractuelles et infirmiers contractuels assimilé (e) s aux infirmières principales et infirmiers de classe supérieure de l'Etat. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Agents contractuels documentalistes. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Agents contractuels assimilés aux secrétaires administratifs de classe exceptionnelle. </td>
+<td>Secrétaire administratif de classe exceptionnelle. </td>
 </tr>
 <tr>
-<td>
-<p>Agents contractuels ex-PTT de catégorie 2. </p>
-<p>Conseillers techniques et chargés de mission informaticiens de la direction générale des douanes et droits indirects de l'indice brut 425 à l'indice brut 612. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Agents contractuels documentalistes. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Agents non titulaires de droit public relevant du décret du 25 août 1995 assimilés aux attachés élèves de l'Institut national de la statistique et des études économiques aux attachés d'administration élèves, aux chargés d'études documentaires stagiaires, aux ingénieurs stagiaires de laboratoire du ministère de l'économie, des finances et de l'industrie, aux ingénieurs-économistes de la construction stagiaires, aux inspecteurs stagiaires de la concurrence, de la consommation et de la répression des fraudes, aux inspecteurs-élèves des douanes et droits indirects, aux inspecteurs-élèves des impôts, aux inspecteurs-élèves du Trésor public, aux huissiers stagiaires du Trésor public. </p>
-</td>
-<td>
-<p align="center">Attaché, chargé d'études documentaires. </p>
-</td>
+<td>Agents contractuels ex-PTT de catégorie 2. Conseillers techniques et chargés de mission informaticiens de la direction générale des douanes et droits indirects de l'indice brut 425 à l'indice brut 612. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Agents contractuels assimilés aux attachés d'administration centrale. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Agents non titulaires de droit public relevant du décret du 25 août 1995 assimilés aux attachés élèves de l'Institut national de la statistique et des études économiques aux attachés d'administration élèves, aux chargés d'études documentaires stagiaires, aux ingénieurs stagiaires de laboratoire du ministère de l'économie, des finances et de l'industrie, aux ingénieurs-économistes de la construction stagiaires, aux inspecteurs stagiaires de la concurrence, de la consommation et de la répression des fraudes, aux inspecteurs-élèves des douanes et droits indirects, aux inspecteurs-élèves des impôts, aux inspecteurs-élèves du Trésor public, aux huissiers stagiaires du Trésor public. </td>
+<td>Attaché, chargé d'études documentaires. </td>
 </tr>
 <tr>
-<td>
-<p>Agents contractuels de catégorie A ex-ANIFOM. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Agents contractuels assimilés aux attachés d'administration centrale. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Agents contractuels de 1re catégorie du service de la répression des fraudes et du contrôle de la qualité. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Agents contractuels de catégorie A ex-ANIFOM. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Agent contractuel hors catégorie (décret n° 75-62 du 28 janvier 1975). </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Agents contractuels de 1re catégorie du service de la répression des fraudes et du contrôle de la qualité. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Chargés d'études documentaires contractuels. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Agent contractuel hors catégorie (décret n° 75-62 du 28 janvier 1975). </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Chargés de mission contractuels de niveau IV de l'Institut national de la statistique et des études économiques. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Chargés d'études documentaires contractuels. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Chargés de mission de niveau III de l'administration centrale. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Chargés de mission contractuels de niveau IV de l'Institut national de la statistique et des études économiques. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Conseillers techniques et chargés de mission informaticiens de la direction générale des douanes et droits indirects de l'indice brut 379 à l'indice brut 780. (effet du 1er janvier 2002) </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Chargés de mission de niveau III de l'administration centrale. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Rapporteurs permanents de l'Autorité de la concurrence. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Conseillers techniques et chargés de mission informaticiens de la direction générale des douanes et droits indirects de l'indice brut 379 à l'indice brut 780. (effet du 1er janvier 2002) </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Agents contractuels assimilés aux attachés principaux d'administration centrale de 2e classe. </p>
-</td>
-<td>
-<p align="center">Attaché principal, chargé d'études documentaires principal (2e classe). </p>
-</td>
+<td>Rapporteurs permanents de l'Autorité de la concurrence. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Agents contractuels ex-PTT de catégorie 1. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Agents contractuels assimilés aux attachés principaux d'administration centrale de 2e classe. </td>
+<td>Attaché principal, chargé d'études documentaires principal (2e classe). </td>
 </tr>
 <tr>
-<td>
-<p>Chargés d'études documentaires contractuels assimilés aux attachés principaux d'administration centrale de 2e classe. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Agents contractuels ex-PTT de catégorie 1. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Chargés de mission contractuels de niveau III de l'Institut national de la statistique et des études économiques, positions 1 à 9. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Chargés d'études documentaires contractuels assimilés aux attachés principaux d'administration centrale de 2e classe. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Chargés de mission de classe normale (décret n° 75-62 du 28 janvier 1975). </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Chargés de mission contractuels de niveau III de l'Institut national de la statistique et des études économiques, positions 1 à 9. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Conseillers techniques et chargés de mission informaticiens de la direction générale des douanes et droits indirects de l'indice brut 540 à l'indice brut 821. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Chargés de mission de classe normale (décret n° 75-62 du 28 janvier 1975). </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Rapporteurs permanents de l'Autorité de la concurrence. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Conseillers techniques et chargés de mission informaticiens de la direction générale des douanes et droits indirects de l'indice brut 540 à l'indice brut 821. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Agents contractuels assimilés aux attachés principaux d'administration centrale de 1re classe. </p>
-</td>
-<td>
-<p align="center">Attaché principal, chargé d'études documentaires principal (1re classe) et conseiller pour les affaires administratives. </p>
-</td>
+<td>Rapporteurs permanents de l'Autorité de la concurrence. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Agents contractuels de catégorie A de la direction des relations économiques extérieures. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Agents contractuels assimilés aux attachés principaux d'administration centrale de 1re classe. </td>
+<td>Attaché principal, chargé d'études documentaires principal (1re classe) et conseiller pour les affaires administratives. </td>
 </tr>
 <tr>
-<td>
-<p>Chargés d'études documentaires contractuels assimilés aux attachés principaux de 1re classe. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Agents contractuels de catégorie A de la direction des relations économiques extérieures. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Chargés de mission de classe exceptionnelle (décret n° 75-62 du 28 janvier 1975). </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Chargés d'études documentaires contractuels assimilés aux attachés principaux de 1re classe. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Chargés de mission contractuels de niveau III de l'Institut national de la statistique et des études économiques positions 10 à 13. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Chargés de mission de classe exceptionnelle (décret n° 75-62 du 28 janvier 1975). </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Chargés de mission de la concurrence, de la consommation et de la répression des fraudes. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Chargés de mission contractuels de niveau III de l'Institut national de la statistique et des études économiques positions 10 à 13. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Conseillers techniques et chargés de mission informaticiens de la direction générale des douanes et droits indirects de l'indice brut 864 à l'indice brut 966. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Chargés de mission de la concurrence, de la consommation et de la répression des fraudes. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Rapporteurs permanents de l'Autorité de la concurrence. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Conseillers techniques et chargés de mission informaticiens de la direction générale des douanes et droits indirects de l'indice brut 864 à l'indice brut 966. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Agents contractuels assimilés aux administrateurs civils. </p>
-</td>
-<td>
-<p align="center">Administrateur civil. </p>
-</td>
+<td>Rapporteurs permanents de l'Autorité de la concurrence. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Chargés de mission contractuels de niveau Il de l'Institut national de la statistique et des études économiques. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Agents contractuels assimilés aux administrateurs civils. </td>
+<td>Administrateur civil. </td>
 </tr>
 <tr>
-<td>
-<p>Chargés de mission de niveau II d'administration centrale. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Chargés de mission contractuels de niveau Il de l'Institut national de la statistique et des études économiques. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Conseillers techniques et chargés de mission informaticiens de la direction générale des douanes et droits indirects de l'indice brut 759 à l'indice brut 985. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Chargés de mission de niveau II d'administration centrale. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Rapporteurs généraux adjoints de l'Autorité de la concurrence. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Conseillers techniques et chargés de mission informaticiens de la direction générale des douanes et droits indirects de l'indice brut 759 à l'indice brut 985. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Rapporteurs permanents de l'Autorité de la concurrence. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Rapporteurs généraux adjoints de l'Autorité de la concurrence. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Agents contractuels assimilés aux administrateurs civils hors classe, </p>
-</td>
-<td>
-<p align="center">Administrateur civil hors classe. </p>
-</td>
+<td>Rapporteurs permanents de l'Autorité de la concurrence. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Chargés de mission contractuels de niveau I de l'Institut national de la statistique et des études économiques. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Agents contractuels assimilés aux administrateurs civils hors classe, </td>
+<td>Administrateur civil hors classe. </td>
 </tr>
 <tr>
-<td>
-<p>Chargés de mission de niveau I d'administration centrale. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Administrateurs des finances publiques. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Rapporteurs généraux adjoints de l'Autorité de la concurrence. </p>
-</td>
-<td>
-<p align="center">d° </p>
-</td>
+<td>Chargés de mission contractuels de niveau I de l'Institut national de la statistique et des études économiques. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td>
-<p>Rapporteur général de l'Autorité de la concurrence. </p>
-</td>
-<td>
-<p align="center">Directeur adjoint, sous-directeur et directeur de projet. </p>
-</td>
+<td>Chargés de mission de niveau I d'administration centrale. </td>
+<td>d° </td>
 </tr>
 <tr>
-<td rowspan="2">
-<p>Rapporteur général de l'Autorité de la concurrence. </p>
-</td>
-<td rowspan="2">
-<p align="center">Chef de service.</p>
-</td>
+<td>Rapporteurs généraux adjoints de l'Autorité de la concurrence. </td>
+<td>d° </td>
+</tr>
+<tr>
+<td>Rapporteur général de l'Autorité de la concurrence. </td>
+<td>Directeur adjoint, sous-directeur et directeur de projet. </td>
+</tr>
+<tr>
+<td>Rapporteur général de l'Autorité de la concurrence. </td>
+<td>Chef de service.</td>
 </tr>
 </tbody>
 </table>

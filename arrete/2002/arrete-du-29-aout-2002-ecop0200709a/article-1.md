@@ -6,360 +6,231 @@ Dès lors qu'ils exercent leurs fonctions dans les services déconcentrés ou da
 <tbody>
 <tr>
 <td width="454">
-<p align="center">Personnels fonctionnaires </p>
+<p align="center">PERSONNELS FONCTIONNAIRES</p>
 </td>
 <td width="151">
-<p align="center">Catégorie d'indemnité forfaitaire pour travaux supplémentaires des services déconcentrés </p>
+<p align="center">CATEGORIE D'INDEMNITE</p>
+<p align="center">Indemnité forfaitaire pour travaux supplémeantaire des services déconcentrés</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Administrateurs civils (corps). </p>
-</td>
-<td rowspan="29" width="151">
+<td valign="top" width="454">Administrateurs civils (corps). </td>
+<td rowspan="31" width="151">
 <p align="center">1re catégorie </p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Administrateurs de l'Institut national de la statistique et des études économiques. </p>
-</td>
+<td valign="top" width="454">Administrateurs de l'Institut national de la statistique et des études économiques. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Administrateurs financiers de la Caisse nationale de crédit agricole hors classe et de 1re classe. </p>
-</td>
+<td valign="top" width="454">Administrateurs financiers de la Caisse nationale de crédit agricole hors classe et de 1re classe. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Administrateurs des postes et télécommunications (corps). </p>
-</td>
+<td>Administrateurs des finances publiques. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Administrateurs de l'Institut national de la statistique et des études économiques. </p>
-</td>
+<td>Administrateurs généraux des finances publiques. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Architectes. </p>
-</td>
+<td valign="top" width="454">Administrateurs des postes et télécommunications (corps). </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Attachés principaux d'administration centrale. </p>
-</td>
+<td valign="top" width="454">Administrateurs de l'Institut national de la statistique et des études économiques. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Attachés principaux de l'Institut national de la statistique et des études économiques. </p>
-</td>
+<td valign="top" width="454">Architectes. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Chargés d'études documentaires principaux. </p>
-</td>
+<td valign="top" width="454">Attachés principaux d'administration centrale. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Chargés de mission d'administration centrale de classe normale. </p>
-</td>
+<td valign="top" width="454">Attachés principaux de l'Institut national de la statistique et des études économiques. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Chefs de mission du ministère de l'économie, des finances et de l'industrie. </p>
-</td>
+<td valign="top" width="454">Chargés d'études documentaires principaux. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Chefs de section principaux et inspecteurs administratifs des alcools. </p>
-</td>
+<td valign="top" width="454">Chargés de mission d'administration centrale de classe normale. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Conservateurs en chef et de 1re classe du patrimoine. </p>
-</td>
+<td valign="top" width="454">Chefs de mission du ministère de l'économie, des finances et de l'industrie. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Directeurs et attachés régionaux du commerce extérieur. </p>
-</td>
+<td valign="top" width="454">Chefs de section principaux et inspecteurs administratifs des alcools. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Directeurs de laboratoires du ministère de l'économie, des finances et de l'industrie. </p>
-</td>
+<td valign="top" width="454">Conservateurs en chef et de 1re classe du patrimoine. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Directeur général de l'Agence nationale des fréquences. </p>
-</td>
+<td valign="top" width="454">Directeurs et attachés régionaux du commerce extérieur. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Fonctionnaires de catégorie A de la direction générale des impôts, de la direction générale de la comptabilité publique, de la direction générale des douanes et droits indirects et de la direction générale de la concurrence, de la consommation et de la répression des fraudes dont l'indice brut terminal du grade ou de l'emploi est supérieur à 780. </p>
-</td>
+<td valign="top" width="454">Directeurs de laboratoires du ministère de l'économie, des finances et de l'industrie. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Ingénieurs des instruments de mesure (corps). </p>
-</td>
+<td valign="top" width="454">Directeur général de l'Agence nationale des fréquences. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Ingénieurs divisionnaires de l'industrie et des mines. </p>
-</td>
+<td valign="top" width="454">Fonctionnaires de catégorie A de la direction générale des impôts, de la direction générale de la comptabilité publique, de la direction générale des douanes et droits indirects et de la direction générale de la concurrence, de la consommation et de la répression des fraudes dont l'indice brut terminal du grade ou de l'emploi est supérieur à 780. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Ingénieurs économistes de la construction de classe supérieure. </p>
-</td>
+<td valign="top" width="454">Ingénieurs des instruments de mesure (corps). </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Ingénieurs des mines (corps). </p>
-</td>
+<td valign="top" width="454">Ingénieurs divisionnaires de l'industrie et des mines. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Ingénieurs mécaniciens électriciens. </p>
-</td>
+<td valign="top" width="454">Ingénieurs économistes de la construction de classe supérieure. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Inspecteurs généraux de l'Institut national de ta statistique et des études économiques. </p>
-</td>
+<td valign="top" width="454">Ingénieurs des mines (corps). </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Protes principaux de l'Imprimerie nationale. </p>
-</td>
+<td valign="top" width="454">Ingénieurs mécaniciens électriciens. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Traducteurs principaux du ministère de l'économie, des finances et de l'industrie. </p>
-</td>
+<td valign="top" width="454">Inspecteurs généraux de l'Institut national de ta statistique et des études économiques. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Trésoriers-payeurs généraux. </p>
-</td>
+<td valign="top" width="454">Protes principaux de l'Imprimerie nationale. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Vérificateurs des travaux de classe exceptionnelle. </p>
-</td>
+<td valign="top" width="454">Traducteurs principaux du ministère de l'économie, des finances et de l'industrie. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Inspecteurs généraux des postes et télécommunications. </p>
-</td>
+<td valign="top" width="454">Trésoriers-payeurs généraux. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Contrôleurs généraux de 1re et 2e classe (corps du contrôle général économique et financier). </p>
-</td>
+<td valign="top" width="454">Vérificateurs des travaux de classe exceptionnelle. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Administrateurs financiers de 2e classe de la Caisse nationale de crédit agricole. </p>
-</td>
+<td valign="top" width="454">Inspecteurs généraux des postes et télécommunications. </td>
+</tr>
+<tr>
+<td valign="top" width="454">Contrôleurs généraux de 1re et 2e classe (corps du contrôle général économique et financier). </td>
+</tr>
+<tr>
+<td valign="top" width="454">Administrateurs financiers de 2e classe de la Caisse nationale de crédit agricole. </td>
 <td rowspan="16" width="151">
 <p align="center">2e catégorie </p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Attachés d'administration centrale. </p>
-</td>
+<td valign="top" width="454">Attachés d'administration centrale. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Attachés de l'Institut national de la statistique et des études économiques. </p>
-</td>
+<td valign="top" width="454">Attachés de l'Institut national de la statistique et des études économiques. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Chargés d'études documentaires. </p>
-</td>
+<td valign="top" width="454">Chargés d'études documentaires. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Chefs de section des alcools. </p>
-</td>
+<td valign="top" width="454">Chefs de section des alcools. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Conservateurs du patrimoine de 2e classe. </p>
-</td>
+<td valign="top" width="454">Conservateurs du patrimoine de 2e classe. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Correcteurs et correcteurs principaux de l'Imprimerie nationale. </p>
-</td>
+<td valign="top" width="454">Correcteurs et correcteurs principaux de l'Imprimerie nationale. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Fonctionnaires de catégorie A de la direction générale des impôts, de la direction générale de la comptabilité publique, de la direction générale des douanes et droits indirects et de la direction générale de la concurrence, de la consommation et de la répression des fraudes dont l'indice brut terminal du grade ou de l'emploi est au plus égal à 780. </p>
-</td>
+<td valign="top" width="454">Fonctionnaires de catégorie A de la direction générale des impôts, de la direction générale de la comptabilité publique, de la direction générale des douanes et droits indirects et de la direction générale de la concurrence, de la consommation et de la répression des fraudes dont l'indice brut terminal du grade ou de l'emploi est au plus égal à 780. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Huissiers du Trésor public. </p>
-</td>
+<td valign="top" width="454">Huissiers du Trésor public. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Ingénieurs de l'industrie et des mines. </p>
-</td>
+<td valign="top" width="454">Ingénieurs de l'industrie et des mines. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Ingénieurs économistes de la construction de classe normale. </p>
-</td>
+<td valign="top" width="454">Ingénieurs économistes de la construction de classe normale. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Ingénieurs de laboratoire du ministère de l'économie, des finances et de l'industrie. </p>
-</td>
+<td valign="top" width="454">Ingénieurs de laboratoire du ministère de l'économie, des finances et de l'industrie. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Inspecteurs de France Télécom. </p>
-</td>
+<td valign="top" width="454">Inspecteurs de France Télécom. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Protes de l'Imprimerie nationale </p>
-</td>
+<td valign="top" width="454">Protes de l'Imprimerie nationale </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Traducteurs du ministère de l'économie, des finances et de l'industrie. </p>
-</td>
+<td valign="top" width="454">Traducteurs du ministère de l'économie, des finances et de l'industrie. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Vérificateurs des travaux de classe normale. </p>
-</td>
+<td valign="top" width="454">Vérificateurs des travaux de classe normale. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Au-delà de l'indice brut 380 : </p>
-</td>
+<td valign="top" width="454">Au-delà de l'indice brut 380 : </td>
 <td rowspan="23" width="151">
 <p align="center">3e catégorie </p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Agents principaux des services techniques. </p>
-</td>
+<td valign="top" width="454">Agents principaux des services techniques. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Adjoints techniques de classe exceptionnelle de l'Imprimerie nationale </p>
-</td>
+<td valign="top" width="454">Adjoints techniques de classe exceptionnelle de l'Imprimerie nationale </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Bibliothécaires adjoints. </p>
-</td>
+<td valign="top" width="454">Bibliothécaires adjoints. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Chefs de service intérieur. </p>
-</td>
+<td valign="top" width="454">Chefs de service intérieur. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Contrôleurs de la concurrence, de la consommation et de la répression des fraudes. </p>
-</td>
+<td valign="top" width="454">Contrôleurs de la concurrence, de la consommation et de la répression des fraudes. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Contrôleurs des alcools. </p>
-</td>
+<td valign="top" width="454">Contrôleurs des alcools. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Contrôleurs de l'Institut national de la statistique et des éludes économiques. </p>
-</td>
+<td valign="top" width="454">Contrôleurs de l'Institut national de la statistique et des éludes économiques. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Contrôleurs des douanes et droits indirects. </p>
-</td>
+<td valign="top" width="454">Contrôleurs des douanes et droits indirects. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Contrôleurs des impôts, corps des géomètres du cadastre. </p>
-</td>
+<td valign="top" width="454">Contrôleurs des impôts, corps des géomètres du cadastre. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Contrôleurs du Trésor public. </p>
-</td>
+<td valign="top" width="454">Contrôleurs du Trésor public. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Contrôleurs principaux des installations téléphoniques. </p>
-</td>
+<td valign="top" width="454">Contrôleurs principaux des installations téléphoniques. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Dessinateurs projeteurs des finances. </p>
-</td>
+<td valign="top" width="454">Dessinateurs projeteurs des finances. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Infirmières et infirmiers de l'État (corps). </p>
-</td>
+<td valign="top" width="454">Infirmières et infirmiers de l'État (corps). </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Greffiers de chambre de la Cour des comptes. </p>
-</td>
+<td valign="top" width="454">Greffiers de chambre de la Cour des comptes. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Ingénieurs adjoints à l'administration centrale du ministère de l'économie, des finances et de l'industrie. </p>
-</td>
+<td valign="top" width="454">Ingénieurs adjoints à l'administration centrale du ministère de l'économie, des finances et de l'industrie. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Secrétaires administratifs d'administration centrale. </p>
-</td>
+<td valign="top" width="454">Secrétaires administratifs d'administration centrale. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Secrétaires administratifs de l'économie, des finances et de l'industrie. </p>
-</td>
+<td valign="top" width="454">Secrétaires administratifs de l'économie, des finances et de l'industrie. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Secrétaires de documentation de la culture et de l'architecture. </p>
-</td>
+<td valign="top" width="454">Secrétaires de documentation de la culture et de l'architecture. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Techniciens de laboratoire des Écoles nationales supérieures des mines. </p>
-</td>
+<td valign="top" width="454">Techniciens de laboratoire des Écoles nationales supérieures des mines. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Techniciens de laboratoire du ministère de l'économie, des finances et de l'industrie. </p>
-</td>
+<td valign="top" width="454">Techniciens de laboratoire du ministère de l'économie, des finances et de l'industrie. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Techniciens de l'industrie et des mines (corps). </p>
-</td>
+<td valign="top" width="454">Techniciens de l'industrie et des mines (corps). </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Techniciens du ministère de l'économie, des finances et de l'industrie (corps). </p>
-</td>
+<td valign="top" width="454">Techniciens du ministère de l'économie, des finances et de l'industrie (corps). </td>
 </tr>
 </tbody>
 </table>
@@ -367,185 +238,120 @@ Dès lors qu'ils exercent leurs fonctions dans les services déconcentrés ou da
 <tbody>
 <tr>
 <td width="454">
-<p align="center">Agents non titulaires </p>
+<p align="center">AGENTS NON TITULAIRES</p>
 </td>
 <td width="151">
-<p align="center">Catégorie d'indemnité forfaitaires pour travaux supplémentaires des services déconcentrés </p>
+<p align="center">CATEGORIE D'INDEMNITES</p>
+<p align="center">forfaitaires pour travaux supplémentaires des services déconcentrés </p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Agents contractuels assimilés aux administrateurs civils. </p>
-</td>
+<td valign="top" width="454">Agents contractuels assimilés aux administrateurs civils. </td>
 <td rowspan="11" width="151">
 <p align="center">1re catégorie </p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Agents contractuels assimilés aux attachés principaux d'administration centrale. </p>
-</td>
+<td valign="top" width="454">Agents contractuels assimilés aux attachés principaux d'administration centrale. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Agents contractuels exerçant les fonctions de directeurs et d'attachés régionaux du commerce extérieur. </p>
-</td>
+<td valign="top" width="454">Agents contractuels exerçant les fonctions de directeurs et d'attachés régionaux du commerce extérieur. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Agents contractuels de classe exceptionnelle et de 1re catégorie de l'Agence nationale des fréquences. </p>
-</td>
+<td valign="top" width="454">Agents contractuels de classe exceptionnelle et de 1re catégorie de l'Agence nationale des fréquences. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Chargés d'études documentaires contractuels assimilés aux attachés principaux d'administration centrale. </p>
-</td>
+<td valign="top" width="454">Chargés d'études documentaires contractuels assimilés aux attachés principaux d'administration centrale. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Chargés de mission de classe normale et de classe exceptionnelle (décret n° 75-62 du 28 janvier 1975). </p>
-</td>
+<td valign="top" width="454">Chargés de mission de classe normale et de classe exceptionnelle (décret n° 75-62 du 28 janvier 1975). </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Chargés de mission de la concurrence, de la consommation et de la répression des fraudes. </p>
-</td>
+<td valign="top" width="454">Chargés de mission de la concurrence, de la consommation et de la répression des fraudes. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Chargés de mission de niveaux I et II de l'administration centrale. </p>
-</td>
+<td valign="top" width="454">Chargés de mission de niveaux I et II de l'administration centrale. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Chargés de mission de l'ANIFOM (hors classe, de classe exceptionnelle, de 1re et 2e catégorie). </p>
-</td>
+<td valign="top" width="454">Chargés de mission de l'ANIFOM (hors classe, de classe exceptionnelle, de 1re et 2e catégorie). </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Conseillers techniques et chargés de mission informaticiens de la direction générale des douanes et droits indirects dont l'indice brut terminal est supérieur à 780. </p>
-</td>
+<td valign="top" width="454">Conseillers techniques et chargés de mission informaticiens de la direction générale des douanes et droits indirects dont l'indice brut terminal est supérieur à 780. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Secrétaire général de l'ANIFOM. </p>
-</td>
+<td valign="top" width="454">Secrétaire général de l'ANIFOM. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Agents contractuels assimilés aux attachés d'administration centrale. </p>
-</td>
+<td valign="top" width="454">Agents contractuels assimilés aux attachés d'administration centrale. </td>
 <td rowspan="10" width="151">
 <p align="center">2e catégorie </p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Agents contractuels de 2e catégorie de classe supérieure de l'Agence nationale des fréquences. </p>
-</td>
+<td valign="top" width="454">Agents contractuels de 2e catégorie de classe supérieure de l'Agence nationale des fréquences. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Agents contractuels de 1re catégorie de l'ANIFOM. </p>
-</td>
+<td valign="top" width="454">Agents contractuels de 1re catégorie de l'ANIFOM. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Agents contractuels de 1re catégorie du service de la répression des fraudes et du contrôle de la qualité. </p>
-</td>
+<td valign="top" width="454">Agents contractuels de 1re catégorie du service de la répression des fraudes et du contrôle de la qualité. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Agents contractuels de catégorie A ex-ANIFOM. </p>
-</td>
+<td valign="top" width="454">Agents contractuels de catégorie A ex-ANIFOM. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Agents contractuels hors catégorie (décret n° 75-62 du 28 janvier 1975). </p>
-</td>
+<td valign="top" width="454">Agents contractuels hors catégorie (décret n° 75-62 du 28 janvier 1975). </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Agents non titulaires de droit public relevant du décret du 25 août 1995 assimilés aux inspecteurs stagiaires de la concurrence, de la consommation et de la répression des fraudes, aux inspecteurs-élèves des douanes et droits indirects, aux inspecteurs-élèves des impôts, aux inspecteurs-élèves du Trésor public et aux huissiers stagiaires du Trésor public. </p>
-</td>
+<td valign="top" width="454">Agents non titulaires de droit public relevant du décret du 25 août 1995 assimilés aux inspecteurs stagiaires de la concurrence, de la consommation et de la répression des fraudes, aux inspecteurs-élèves des douanes et droits indirects, aux inspecteurs-élèves des impôts, aux inspecteurs-élèves du Trésor public et aux huissiers stagiaires du Trésor public. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Chargés de mission de niveau III d'administration centrale. </p>
-</td>
+<td valign="top" width="454">Chargés de mission de niveau III d'administration centrale. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Chargés d'études documentaires contractuels assimilés aux attachés d'administration </p>
-</td>
+<td valign="top" width="454">Chargés d'études documentaires contractuels assimilés aux attachés d'administration </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Conseillers techniques et chargés de mission informaticiens de la direction générale des douanes et droits indirects dont l'indice brut terminal est égal à 780. </p>
-</td>
+<td valign="top" width="454">Conseillers techniques et chargés de mission informaticiens de la direction générale des douanes et droits indirects dont l'indice brut terminal est égal à 780. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Au-delà de l'indice brut 380 : </p>
-</td>
+<td valign="top" width="454">Au-delà de l'indice brut 380 : </td>
 <td rowspan="12" width="151">
 <p align="center">3e catégorie </p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Agents contractuels assimilés aux secrétaires administratifs. </p>
-</td>
+<td valign="top" width="454">Agents contractuels assimilés aux secrétaires administratifs. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Agents contractuels de 1re catégorie (décret n° 75-62 du 28 janvier 1975). </p>
-</td>
+<td valign="top" width="454">Agents contractuels de 1re catégorie (décret n° 75-62 du 28 janvier 1975). </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Agents contractuels de 2e catégorie de l'ANIFOM. </p>
-</td>
+<td valign="top" width="454">Agents contractuels de 2e catégorie de l'ANIFOM. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Agents contractuels de 2e catégorie de classe normale de l'Agence nationale des fréquences. </p>
-</td>
+<td valign="top" width="454">Agents contractuels de 2e catégorie de classe normale de l'Agence nationale des fréquences. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Agents contractuels de 2e catégorie du service de la répression des fraudes et du contrôle de la qualité. </p>
-</td>
+<td valign="top" width="454">Agents contractuels de 2e catégorie du service de la répression des fraudes et du contrôle de la qualité. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Agents contractuels de catégorie B ex-ANIFOM. </p>
-</td>
+<td valign="top" width="454">Agents contractuels de catégorie B ex-ANIFOM. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Agents contractuels documentalistes. </p>
-</td>
+<td valign="top" width="454">Agents contractuels documentalistes. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Agents contractuels ex-PTT de catégorie 2. </p>
-</td>
+<td valign="top" width="454">Agents contractuels ex-PTT de catégorie 2. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Assistants régionaux du commerce extérieur. </p>
-</td>
+<td valign="top" width="454">Assistants régionaux du commerce extérieur. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Conseillers techniques et chargés de mission informaticiens de la direction générale des douanes et droits indirects du niveau de la catégorie B. </p>
-</td>
+<td valign="top" width="454">Conseillers techniques et chargés de mission informaticiens de la direction générale des douanes et droits indirects du niveau de la catégorie B. </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Infirmières contractuelles et infirmiers contractuels.</p>
-</td>
+<td valign="top" width="454">Infirmières contractuelles et infirmiers contractuels.</td>
 </tr>
 </tbody>
 </table>
