@@ -1,3 +1,7 @@
 # Article 6
 
-Nul ne peut exercer la profession de conducteur de taxi [*conditions requises - interdictions*] lorsqu'il a fait l'objet d'une condamnation définitive mentionnée au bulletin n° 2 du casier judiciaire pour l'un des délits définis aux articles L. 1er, L. 2, L. 4, L. 9, L. 12 ou L. 19 du code de la route ou d'une condamnation à une peine d'au moins six mois fermes d'emprisonnement pour vol, escroquerie, abus de confiance, outrage public à la pudeur, infraction à la législation en matière de stupéfiants ou pour atteinte volontaire à l'intégrité de la personne.
+Nul ne peut exercer la profession de conducteur de taxi si figure au bulletin n° 2 de son casier judiciaire :
+
+1° Une condamnation définitive pour un délit prévu et réprimé par le code de la route qui donne lieu à une réduction de la moitié du nombre maximal de points du permis de conduire ;
+
+2° Une condamnation par une juridiction française ou étrangère à une peine criminelle ou à une peine correctionnelle d'au moins six mois d'emprisonnement pour vol, escroquerie, abus de confiance, atteinte volontaire à l'intégrité de la personne, agression sexuelle ou infraction à la législation sur les stupéfiants.
