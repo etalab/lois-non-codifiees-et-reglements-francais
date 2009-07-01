@@ -1,10 +1,10 @@
 # Article ANNEXE
 
-I. - Devant la préfecture
+I.-Devant la préfecture
 
-CAS - PROCEDURE
+CAS-PROCEDURE
 
-Modification de la puissance administrative sur la carte grise.<RL    TITULAIRE ACTUEL DE LA CARTE GRISE
+Modification de la puissance administrative sur la certificat d'immatriculation. < RL TITULAIRE ACTUEL DE LA certificat d'immatriculation
 
 Oui
 
@@ -16,11 +16,11 @@ ANCIEN TITULAIRE
 
 Non.
 
-CAS - PROCEDURE
+CAS-PROCEDURE
 
 Présentation de la demande.
 
-TITULAIRE ACTUEL DE LA CARTE GRISE
+TITULAIRE ACTUEL DE LA certificat d'immatriculation
 
 Sur formulaire Cerfa habituel (case Rectification cochée + motif).
 
@@ -32,27 +32,27 @@ ANCIEN TITULAIRE
 
 Sur formulaire de demande de situation antérieure d'un véhicule.
 
-CAS - PROCEDURE
+CAS-PROCEDURE
 
 Pièces à joindre par le demandeur.
 
-TITULAIRE ACTUEL DE LA CARTE GRISE
+TITULAIRE ACTUEL DE LA certificat d'immatriculation
 
-Justificatifs d'identité et de domicile + carte grise + photocopie de la carte grise.
+Justificatifs d'identité et de domicile + certificat d'immatriculation + photocopie de la certificat d'immatriculation.
 
 CHANGEMENT DE TITULAIRE
 
-Justificatifs d'identité et de domicile + précédente carte grise + certificat de vente.
+Justificatifs d'identité et de domicile + précédente certificat d'immatriculation + certificat de vente.
 
 ANCIEN TITULAIRE
 
 Justificatifs d'identité et de domicile.
 
-CAS - PROCEDURE
+CAS-PROCEDURE
 
 Taxe applicable.
 
-TITULAIRE ACTUEL DE LA CARTE GRISE
+TITULAIRE ACTUEL DE LA certificat d'immatriculation
 
 Rectification gratuite.
 
@@ -64,11 +64,11 @@ ANCIEN TITULAIRE
 
 Aucune.
 
-CAS - PROCEDURE
+CAS-PROCEDURE
 
-Mention sur la carte grise.
+Mention sur la certificat d'immatriculation.
 
-TITULAIRE ACTUEL DE LA CARTE GRISE
+TITULAIRE ACTUEL DE LA certificat d'immatriculation
 
 Appl. Circ. du 20 septembre 1991.
 
@@ -80,29 +80,29 @@ ANCIEN TITULAIRE
 
 Sans objet.
 
-CAS - PROCEDURE
+CAS-PROCEDURE
 
 Remise documents par la préfecture.
 
-TITULAIRE ACTUEL DE LA CARTE GRISE
+TITULAIRE ACTUEL DE LA certificat d'immatriculation
 
-Carte grise rectifiée + photocopie de l'ancienne carte grise authentifiée.
+certificat d'immatriculation rectifiée + photocopie de l'ancienne certificat d'immatriculation authentifiée.
 
 CHANGEMENT DE TITULAIRE
 
-Carte grise au nom de l'acquéreur avec puissance administrative rectifiée.
+certificat d'immatriculation au nom de l'acquéreur avec puissance administrative rectifiée.
 
 ANCIEN TITULAIRE
 
 Formulaire de demande de situation antérieure du véhicule visé.
 
-II. - Devant les services fiscaux
+II.-Devant les services fiscaux
 
-CAS - PROCEDURE
+CAS-PROCEDURE
 
 Possibilité du remboursement de la vignette.
 
-TITULAIRE ACTUEL DE LA CARTE GRISE
+TITULAIRE ACTUEL DE LA certificat d'immatriculation
 
 Oui.
 
@@ -114,13 +114,13 @@ ANCIEN TITULAIRE
 
 Oui.
 
-CAS - PROCEDURE
+CAS-PROCEDURE
 
 Pièces à joindre.
 
-TITULAIRE ACTUEL DE LA CARTE GRISE
+TITULAIRE ACTUEL DE LA certificat d'immatriculation
 
-Photocopie de la précédente carte grise authentifiée + photocopie de la nouvelle carte grise + preuve de paiement de la vignette.
+Photocopie de la précédente certificat d'immatriculation authentifiée + photocopie de la nouvelle certificat d'immatriculation + preuve de paiement de la vignette.
 
 CHANGEMENT DE TITULAIRE
 
@@ -130,9 +130,9 @@ ANCIEN TITULAIRE
 
 Demande de justificatif de situation antérieure visée par les services fiscaux et la préfecture + preuve de paiement de la vignette.
 
-III. - Délais applicables
+III.-Délais applicables
 
-TITULAIRE ACTUEL DE LA CARTE GRISE
+TITULAIRE ACTUEL DE LA certificat d'immatriculation
 
 Du 1er octobre 1991 au 1er novembre 1992.
 
