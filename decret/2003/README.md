@@ -185,7 +185,6 @@
 - [Décret n°90-928 du 10 octobre 1990 (MENT9001968D)](decret-n90-928-du-10-octobre-1990-ment9001968d)
 - [Décret n°2000-894 du 11 septembre 2000 (ECOI0000376D)](decret-n2000-894-du-11-septembre-2000-ecoi0000376d)
 - [Décret n°2002-1150 du 11 septembre 2002 (JUSC0220270D)](decret-n2002-1150-du-11-septembre-2002-jusc0220270d)
-- [Décret n°2003-1186 du 11 décembre 2003 (EQUX0300133D)](decret-n2003-1186-du-11-decembre-2003-equx0300133d)
 - [Décret n°2003-1189 du 11 décembre 2003 (AGRF0302445D)](decret-n2003-1189-du-11-decembre-2003-agrf0302445d)
 - [Décret n°2003-487 du 11 juin 2003 (SOCS0321332D)](decret-n2003-487-du-11-juin-2003-socs0321332d)
 - [Décret n°2003-502 du 11 juin 2003 (SANH0321558D)](decret-n2003-502-du-11-juin-2003-sanh0321558d)
