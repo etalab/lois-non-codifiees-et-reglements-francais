@@ -1612,7 +1612,6 @@
 - [Arrêté du 29 avril 2009 (ECED0908221A)](arrete-du-29-avril-2009-eced0908221a)
 - [Arrêté du 29 avril 2009 (IMIK0909983A)](arrete-du-29-avril-2009-imik0909983a)
 - [Arrêté du 29 avril 2009 (LOGU0907606A)](arrete-du-29-avril-2009-logu0907606a)
-- [Arrêté du 29 avril 2009 (SASC0910001A)](arrete-du-29-avril-2009-sasc0910001a)
 - [Arrêté du 29 avril 2009 (SASH0903561A)](arrete-du-29-avril-2009-sash0903561a)
 - [Arrêté du 29 avril 2009 (SASH0910587A)](arrete-du-29-avril-2009-sash0910587a)
 - [Arrêté du 29 avril 2009 (SASH0910591A)](arrete-du-29-avril-2009-sash0910591a)
