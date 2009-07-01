@@ -774,7 +774,6 @@
 - [Arrêté du 25 mai 1998 (ATEN9870189A)](arrete-du-25-mai-1998-aten9870189a)
 - [Arrêté du 25 mai 1998 (DEFB9801532A)](arrete-du-25-mai-1998-defb9801532a)
 - [Arrêté du 26 août 1998 (DEFB9801966A)](arrete-du-26-aout-1998-defb9801966a)
-- [Arrêté du 26 août 1998 (DEFT9801838A)](arrete-du-26-aout-1998-deft9801838a)
 - [Arrêté du 26 août 1998 (DEFT9801839A)](arrete-du-26-aout-1998-deft9801839a)
 - [Arrêté du 26 août 1998 (DEFT9801840A)](arrete-du-26-aout-1998-deft9801840a)
 - [Arrêté du 26 août 1998 (ECOB9860027A)](arrete-du-26-aout-1998-ecob9860027a)
