@@ -1,3 +1,3 @@
 # Article 25
 
-Les agents sur contrat sont en principe rayés des contrôles à l'âge de soixante-trois ans. Sur leur demande, ils sont maintenus en activité après soixante-trois ans, sans que ce maintien puisse excéder une durée de deux ans.
+La limite d'âge des agents relevant du présent décret est de 65 ans.
