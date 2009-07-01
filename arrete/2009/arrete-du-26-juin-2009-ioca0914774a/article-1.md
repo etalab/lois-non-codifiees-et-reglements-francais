@@ -1,0 +1,3 @@
+# Article 1
+
+Le 96e Tour de France cycliste, organisé par la société Amaury Sport Organisation, est autorisé à se dérouler du 4 au 26 juillet 2009, conformément aux modalités exposées dans la demande susvisée (1), sur un parcours qui traversera les départements des Alpes-Maritimes, de l'Ardèche, de l'Ariège, de l'Aube, de l'Aude, des Bouches-du-Rhône, du Cher, de la Creuse, du Doubs, de la Drôme, du Gard, de la Haute-Garonne, de l'Hérault, de l'Indre, de l'Isère, de la Haute-Marne, de la Nièvre, des Hautes-Pyrénées, des Pyrénées-Orientales, du Haut-Rhin, de la Savoie, de la Haute-Savoie, de Paris, de Seine-et-Marne, du Var, de Vaucluse, de la Haute-Vienne, des Vosges, de l'Yonne, du Territoire de Belfort, de la Seine-Saint-Denis et du Val-de-Marne.

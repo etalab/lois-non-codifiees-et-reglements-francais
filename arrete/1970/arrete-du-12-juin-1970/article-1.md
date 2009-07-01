@@ -902,7 +902,7 @@ Le siège et le ressort des bureaux des hypothèques sont fixés conformément a
 <tr>
 <td align="left" valign="top"/>
 <td align="left" valign="top">
-<p align="left">Palaiseau </p>
+<p align="left">Massy </p>
 </td>
 <td align="left" valign="top">
 <p align="left">Communes de Bièvres, Boullay-les-Troux, Briis-sous-Forges,<br/>Bures-sur-Yvette, Courson-Monteloup, Fontenay-lès-Briis,<br/>Forges-les-Bains, Gif-sur-Yvette, Gometz-le-Châtel, Gometz-la-Ville,<br/>Igny, Janvry, Limours, Marcoussis, Les Molières, Nozay, Orsay, Palaiseau,<br/>Pecqueuse, Saclay, Saint-Aubin, Saint-Jean-de-Beauregard,<br/>Vaugrigneuse, Vauhallan, Verrières-le-Buisson, La Ville-du-Bois,<br/>Villebon-sur-Yvette, Villejust, Villiers-le-Bâcle, Les Ulis.</p>

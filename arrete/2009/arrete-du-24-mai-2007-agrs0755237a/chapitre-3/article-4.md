@@ -1,0 +1,5 @@
+# Article 4
+
+Les frais de repas en France métropolitaine sont remboursés forfaitairement sur la base de l'indemnité fixée par l'arrêté mentionné à l'article précédent.L'agent certifie par une mention sur l'état de frais ou, le cas échéant, en produisant une attestation signée par ses soins qu'il n'a pas pris de repas dans un restaurant administratif ou assimilé.
+
+L'agent en mission se trouvant en dehors de ses résidences familiale et administrative pendant toute la période comprise entre 11 heures et 14 heures et entre 18 heures et 21 heures peut prétendre au remboursement forfaitaire des frais supplémentaires de repas dans les conditions prévues à l'alinéa précédent. Dans le cas où l'agent ne présente pas l'attestation requise, ou si la mention indiquée ci-dessus n'apparaît pas sur l'état de frais, le remboursement se fera par défaut sur la base d'une demi-indemnité de frais supplémentaires de repas prévue par l'arrêté du 3 juillet 2006 fixant les taux des indemnités de mission prévues à l'article 3 du décret du 3 juillet 2006 susvisés.
