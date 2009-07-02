@@ -1,0 +1,3 @@
+# Article 1
+
+Est désigné sous l'appellation « site Natura 2000 Hardt Nord » (zone spéciale de conservation FR 4201813) l'espace délimité sur la carte d'assemblage au 1/125 000 ainsi que sur les cinq cartes au 1/25 000 ci-jointes, s'étendant sur une partie du territoire des communes suivantes du département du Haut-Rhin : Appenwihr, Bantzenheim, Battenheim, Blodelsheim, Dessenheim, Ensisheim, Fessenheim, Habsheim, Heiteren, Hettenschlag, Hirtzfelden, Meyenheim, Munchhouse, Niederhergheim, Niffer, Oberentzen, Oberhergheim, Rixheim, Roggenhouse, Rumersheim-le-Haut, Rustenhart, Réguisheim, Sainte-Croix-en-Plaine, Sundhoffen, Weckolsheim, Widensolen, Wolfgantzen.

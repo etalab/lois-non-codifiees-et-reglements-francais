@@ -1,0 +1,3 @@
+# Article 1
+
+Est désigné sous l'appellation « site Natura 2000 site à chauves-souris des Vosges haut-rhinoises » (zone spéciale de conservation FR 4202004) l'espace délimité sur la carte d'assemblage au 1/150 000 ainsi que sur les sept cartes au 1/25 000 ci-jointes, s'étendant sur une partie du territoire des communes suivantes du département du Haut-Rhin : Bergheim, Fréland, Hartmannswiller, Hohrod, Kaysersberg, Lapoutroie, Lièpvre, Mollau, Munster, Orbey, Osenbach, Ribeauvillé, Rodern, Rouffach, Sainte-Croix-aux-Mines, Sainte-Marie-aux-Mines, Soultz-Haut-Rhin, Soultzeren, Soultzmatt, Stosswihr, Thannenkirch, Wattwiller, Wuenheim.
