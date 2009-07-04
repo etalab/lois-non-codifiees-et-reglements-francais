@@ -611,7 +611,6 @@
 - [Arrêté du 26 septembre 2005 (MENF0501379A)](arrete-du-26-septembre-2005-menf0501379a)
 - [Arrêté du 26 mai 2005 (JUSF0550048A)](arrete-du-26-mai-2005-jusf0550048a)
 - [Arrêté du 27 août 2005 (EQUG0501441A)](arrete-du-27-aout-2005-equg0501441a)
-- [Arrêté du 27 avril 2005 (ECOS0550017A)](arrete-du-27-avril-2005-ecos0550017a)
 - [Arrêté du 27 décembre 2004 (MAEA0420131A)](arrete-du-27-decembre-2004-maea0420131a)
 - [Arrêté du 27 décembre 2004 (SOCF0412564A)](arrete-du-27-decembre-2004-socf0412564a)
 - [Arrêté du 27 décembre 2004 (SOCF0412565A)](arrete-du-27-decembre-2004-socf0412565a)
