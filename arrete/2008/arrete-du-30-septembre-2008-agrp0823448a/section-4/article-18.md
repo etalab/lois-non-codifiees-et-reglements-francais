@@ -42,14 +42,10 @@ A l'appui de leur demande d'agrément, les organismes s'engagent à :
 
 ― attester des quantités réceptionnées en remplissant un certificat de prise en charge délivré par l'office.
 
-4. Transformation à des fins non alimentaires :
-
-Au plus tard le 30 septembre de l'année qui précède la campagne de retrait, les transformateurs intéressés se déclarent candidats auprès de l'office.
+4. Au plus tard trois mois avant les opérations de retrait, les transformateurs intéressés se déclarent candidats auprès de FranceAgriMer.
 
 L'office assure la sélection des transformateurs dans le cadre d'une procédure d'adjudication permanente européenne.
 
-Après transmission du projet d'attribution du contrat de transformation et décision favorable de la Commission des communautés européennes, l'attribution est effectuée par l'office. Pour chaque lot, l'office informe le transformateur, au fur et à mesure des retraits, des organisations de producteurs chez lesquelles il peut s'approvisionner en produits frais, en lui accordant la priorité par rapport aux autres destinations possibles pour les produits retirés.
+Afin d'assurer l'exécution de l'offre, le transformateur constitue une garantie de prise en charge des retraits. Cette garantie prend la forme d'une caution bancaire au profit de FranceAgriMer.
 
-Afin d'assurer l'exécution de l'offre, le transformateur constitue une garantie de fourniture. Cette garantie prend la forme d'une caution bancaire au profit de l'office.
-
-La cession et l'attribution mentionnées ci-dessus sont effectuées au plus tard trois mois après le début du fonds opérationnel annuel pour le produit en cause.
+Après transmission du projet d'attribution du contrat de transformation et décision favorable de la Commission des Communautés européennes, l'attribution est effectuée par l'office. Pour chaque lot, l'office informe le transformateur, au fur et à mesure des retraits, des organisations de producteurs chez lesquelles il peut s'approvisionner en produits frais, en lui accordant la priorité par rapport aux autres destinations possibles pour les produits retirés.

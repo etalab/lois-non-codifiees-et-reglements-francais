@@ -22,7 +22,7 @@ Demandes d'avances et de libération partielle de garantie.
 
 ― tableau prévisionnel des dépenses trimestrielles ;
 
-― pour les deuxième, troisième et quatrième trimestres : attestation du commissaire aux comptes ou de l'expert-comptable ou du centre de gestion de l'organisation de producteurs confirmant que les contributions financières au fonds opérationnel ont été collectées et que les avances des trimestres précédents ont effectivement été dépensées ;
+― pour les deuxième, troisième et quatrième trimestres : attestation du commissaire aux comptes ou de l'expert-comptable ou du centre de gestion de l'organisation de producteurs confirmant que les contributions financières au fonds opérationnel correspondant aux avances précédentes ont bien été collectées et que les montants relatifs aux avances des trimestres précédents ont effectivement été dépensés ;
 
 ― un relevé d'identité bancaire (original pour la première demande annuelle).
 
@@ -35,3 +35,5 @@ Demandes d'avances et de libération partielle de garantie.
 ― relevé récapitulatif des dépenses sur fonds opérationnel ;
 
 ― pièces justificatives des dépenses réalisées, par mesure.
+
+4. La demande d'avance doit être accompagnée d'un extrait K bis datant de moins de trois mois ou, le cas échéant, d'un avis de situation de l'organisation demandeuse, extrait du répertoire SIRET / SIRENE, datant également de moins de trois mois. Un original de ces documents doit également être transmis lors de tout changement enregistré au répertoire SIRET / SIREN.

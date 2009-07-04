@@ -1,8 +1,8 @@
 # Article Annexe V
 
-**MODÈLE DE FICHE D'ENREGISTREMENT DES TEMPS DE TRAVAUX
+MODÈLE DE FICHE D'ENREGISTREMENT DES TEMPS DE TRAVAUX
 
-À REMPLIR OBLIGATOIREMENT POUR CHAQUE SEMAINE**
+À REMPLIR OBLIGATOIREMENT POUR CHAQUE SEMAINE
 
 FO : année ..............................................................................................................................................................................................
 
@@ -10,7 +10,7 @@ Nom et prénom du salarié : ...................................................
 
 Fonction du salarié (conformément à l'intitulé figurant sur le bulletin de salaire ou dans le contrat de travail) : ....................................................
 
-**Relevé de temps de travail quotidien conservé au siège de l'OP**
+Relevé de temps de travail quotidien conservé au siège de l'OP
 
 <table>
 <tbody>
@@ -115,9 +115,9 @@ Fonction du salarié (conformément à l'intitulé figurant sur le bulletin de s
 </tbody>
 </table>
 
-**Synthèse mensuelle temps de travail à envoyer
+Synthèse mensuelle temps de travail à envoyer
 
-avec l'ensemble des pièces justificatives du dossier au préfet de département**
+avec l'ensemble des pièces justificatives du dossier au directeur général de FranceAgriMer
 
 <table>
 <tbody>

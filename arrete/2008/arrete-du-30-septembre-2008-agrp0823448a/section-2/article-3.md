@@ -2,7 +2,9 @@
 
 Règles complémentaires des Etats membres.
 
-1. Si un acompte permettant de réserver un investissement est versé en année noms n ― 1 à un fournisseur, mais que l'investissement est réalisé en année n et que la facture finale (récapitulant l'acompte et le solde) date de l'année n, le débit relatif à l'acompte n ― 1 est accepté pour le fonds opérationnel de l'année n.
+1. Si un acompte permettant de réserver un investissement et / ou une prestation de services est versé en année n - 1 à un fournisseur, mais que l'investissement ou la prestation est bien réalisé en année n et que la facture finale (récapitulant l'acompte et le solde) date de l'année n, le débit relatif à l'acompte n - 1 est accepté pour le fonds opérationnel de l'année n.
+
+Si une prestation de service de certification ou d'analyses est réalisée en année n - 1 mais facturée en année n, le débit relatif à cette facture est accepté pour le fonds opérationnel de l'année n.
 
 2. Lorsqu'une mesure est mise en œuvre par les salariés de l'organisation de producteurs ou de leurs filiales ou par les adhérents de l'organisation de producteurs ou leurs salariés, les temps de travaux doivent être enregistrés sur la base du modèle figurant en annexe VII. Ces enregistrements doivent être tenus à la disposition de tout corps de contrôle au siège de l'organisation de producteurs. Ils ne sont pas requis pour les salariés employés à temps plein sur une mesure du programme opérationnel.
 

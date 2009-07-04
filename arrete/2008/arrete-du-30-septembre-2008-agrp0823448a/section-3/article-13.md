@@ -16,7 +16,7 @@ La demande de solde ou de paiement de l'aide communautaire au fonds opérationne
 
 ― l'engagement écrit du président de l'organisation de producteurs ou de l'association d'organisations de producteurs de ne pas solliciter de soutien dans le cadre du programme de développement rural hexagonal (PDRH) approuvé au titre du règlement (CE) n° 1698/2005 pour des actions qui sont couvertes par les mesures prévues par le présent arrêté ;
 
-― le formulaire présentant, d'une part, la partie « dépenses » de l'état extra-comptable et, d'autre part, la partie « ressources » du document extra-comptable dont le modèle est joint en annexes VI et VI bis  ;
+― le formulaire présentant, d'une part, la partie  dépenses  de l'état extra-comptable et, d'autre part, la partie  ressources  du document extra-comptable dont le modèle est joint en annexes VI et VI bis ;
 
 ― le rapport annuel ou le rapport final conforme à l'article 98 du règlement (CE) n° 1580/2007 ;
 
@@ -25,3 +25,5 @@ La demande de solde ou de paiement de l'aide communautaire au fonds opérationne
 ― la liste des adhérents de l'organisation de producteurs ayant passé une convention et un ou plusieurs exemplaires par type de conventions selon le modèle de l'annexe VIII du présent arrêté ;
 
 ― le cas échéant, le rapport de synthèse du (des) opérateur(s) désigné(s) par l'organisation de producteurs pour le contrôle interne des forfaits et contresigné par le président de l'organisation de producteurs, reprenant les vérifications effectuées et les résultats des contrôles.
+
+Lors de la première demande de paiement annuel, la demande doit être accompagnée d'un extrait K bis datant de moins de trois mois ou, le cas échéant, d'un avis de situation de l'organisation demandeuse, extrait du répertoire SIRET / SIRENE, datant également de moins de trois mois. Un original de ces documents doit également être transmis lors de tout changement enregistré au répertoire SIRET / SIREN.

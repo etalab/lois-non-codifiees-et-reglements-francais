@@ -2,21 +2,21 @@
 
 Contenu des PO.
 
-La demande d'approbation du programme opérationnel est déposée, auprès du préfet compétent, au plus tard le 30 septembre de l'année précédant la mise en œuvre du programme opérationnel. Les dossiers déposés après cette date sont rejetés. Pour les programmes opérationnels débutant en 2009, cette date est repoussée au 22 octobre 2008.
+La demande d'approbation du programme opérationnel est déposée, auprès du directeur général de FranceAgriMer, au plus tard le 30 septembre de l'année précédant la mise en œuvre du programme opérationnel. Les dossiers déposés après cette date sont rejetés. Pour les programmes opérationnels débutant en 2009, cette date est repoussée au 22 octobre 2008.
 
 La demande doit comporter :
 
 1° Deux ou plusieurs actions engagées en faveur de l'environnement ou au moins 10 % des dépenses engagées par année de fonds opérationnel ;
 
-2° L'engagement écrit du président de l'organisation de producteurs de respecter les règlements (CE) n° 1234/2007 et n° 1580/2007 susvisés et le présent arrêté, et de ne bénéficier, ni pour l'organisation elle-même, ni pour ses membres, ni directement ni indirectement, d'un double financement communautaire ou national pour les mesures et/ou actions ayant droit à un financement communautaire au titre du règlement (CE) n° 1580/2007 ;
+2° L'engagement écrit du président de l'organisation de producteurs de respecter les règlements (CE) n° 1234 / 2007 et n° 1580 / 2007 susvisés et le présent arrêté, et de ne bénéficier, ni pour l'organisation elle-même, ni pour ses membres, ni directement ni indirectement, d'un double financement communautaire ou national pour les mesures et / ou actions ayant droit à un financement communautaire au titre du règlement (CE) n° 1580 / 2007 ;
 
 3° Le cas échéant, les conventions régissant les actions transnationales ou menées par des filières interprofessionnelles. Ces conventions, conclues entre les organisations de producteurs participantes ou entre la ou les organisations de producteurs participantes et l'organisation interprofessionnelle, détaillent notamment les actions menées, le niveau de participation de chaque organisation, les modalités de financement et le maître d'œuvre des actions ;
 
-4° Le cas échéant, les parties du programme opérationnel présentées et/ou mises en œuvre par une association d'organisations de producteurs, ainsi que la demande d'approbation de programme opérationnel présentée par l'association ;
+4° Le cas échéant, les parties du programme opérationnel présentées et / ou mises en œuvre par une association d'organisations de producteurs, ainsi que la demande d'approbation de programme opérationnel présentée par l'association ;
 
 5° Le procès-verbal de l'assemblée générale ou de l'instance compétente de l'organisation de producteurs ayant validé le programme opérationnel ainsi que le mode d'alimentation du fonds opérationnel et, le cas échéant, le niveau de cotisations, y compris les cotisations différenciées ;
 
-6° Le cas échéant, la description des relations avec ses filiales lorsque la valeur de la production commercialisée est calculée « sortie filiale » ou que des mesures sont mises en œuvre par celles-ci ;
+6° Le cas échéant, la description des relations avec ses filiales lorsque la valeur de la production commercialisée est calculée sortie filiale ou que des mesures sont mises en œuvre par celles-ci ;
 
 7° Dans le cas où l'organisation de producteurs fait appel à un prestataire de services, un devis détaillé ou une convention ou un contrat doit être passé entre l'organisation de producteurs et le prestataire. Ce devis, ce contrat ou cette convention définit la nature et le montant des mesures dont la réalisation est confiée au prestataire. Si cette pièce ne peut être fournie au moment du dépôt du programme opérationnel, elle doit être fournie en tout état de cause avec le dossier de paiement et devra être conforme à la mesure agréée ;
 
