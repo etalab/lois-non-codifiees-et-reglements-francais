@@ -1,51 +1,69 @@
 # Article 2
 
-Pour l'application de l'article 9 du décret n° 64-805 du 29 juillet 1964 susvisé, les postes territoriaux suivants ouvrent droit, pour les préfets qui les occupent, à la hors-classe :
+Pour l'application de l'article 9 du décret du 29 juillet 1964 susvisé, les postes territoriaux suivants ouvrent droit, pour les préfets qui les occupent, à la hors-classe :
 
-Alpes-Maritimes
+-Alpes-Maritimes ;
 
-Bouches-du-Rhône
+-Bouches-du-Rhône ;
 
-Calvados
+-Calvados ;
 
-Corse-du-Sud
+-Corse-du-Sud ;
 
-Côte-d'Or
+-Côte-d'Or ;
 
-Doubs
+-Doubs ;
 
-Garonne (Haute-).
+-Garonne (Haute-) ;
 
-Gironde
+-Gironde ;
 
-Hérault
+-Hérault ;
 
-Ille-et-Vilaine.
+-Ille-et-Vilaine ;
 
-Loire-Atlantique
+-Isère ;
 
-Loiret
+-Loire-Atlantique ;
 
-Marne
+-Loiret ;
 
-Moselle
+-Marne ;
 
-Nord
+-Moselle ;
 
-Pas-de-Calais
+-Nord ;
 
-Préfecture de police.
+-Pas-de-Calais ;
 
-Puy-de-Dôme
+-Puy-de-Dôme ;
 
-Rhin (Bas-).
+-Rhin (Bas-) ;
 
-Rhône
+-Rhône ;
 
-Seine-Maritime
+-préfecture de police ;
 
-Somme
+-Seine-Maritime ;
 
-Vienne
+-Seine-et-Marne ;
 
-Vienne (Haute-).
+-Yvelines ;
+
+-Somme ;
+
+-Var ;
+
+-Vienne ;
+
+-Vienne (Haute-) ;
+
+-Essonne ;
+
+-Hauts-de-Seine ;
+
+-Seine-Saint-Denis ;
+
+-Val-de-Marne ;
+
+-Val d'Oise.
