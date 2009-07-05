@@ -662,7 +662,6 @@
 - [Arrêté du 21 avril 1997 (AGRG9700816A)](arrete-du-21-avril-1997-agrg9700816a)
 - [Arrêté du 21 avril 1997 (AGRG9700817A)](arrete-du-21-avril-1997-agrg9700817a)
 - [Arrêté du 21 avril 1997 (TASG9710204A)](arrete-du-21-avril-1997-tasg9710204a)
-- [Arrêté du 21 février 1997 (DEFP9701025A)](arrete-du-21-fevrier-1997-defp9701025a)
 - [Arrêté du 21 février 1997 (DEFP9701026A)](arrete-du-21-fevrier-1997-defp9701026a)
 - [Arrêté du 21 février 1997 (MCCB9700119A)](arrete-du-21-fevrier-1997-mccb9700119a)
 - [Arrêté du 21 janvier 1997 (AGRG9700136A)](arrete-du-21-janvier-1997-agrg9700136a)
