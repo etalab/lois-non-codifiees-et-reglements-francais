@@ -39,6 +39,7 @@
 - [Décret n°2009-826 du 3 juillet 2009 (SASX0914669D)](decret-n2009-826-du-3-juillet-2009-sasx0914669d)
 - [Décret n°2009-827 du 3 juillet 2009 (AGRX0914832D)](decret-n2009-827-du-3-juillet-2009-agrx0914832d)
 - [Décret n°2009-828 du 3 juillet 2009 (EATX0914659D)](decret-n2009-828-du-3-juillet-2009-eatx0914659d)
+- [Décret n°2009-829 du 3 juillet 2009 (EATX0907336D)](decret-n2009-829-du-3-juillet-2009-eatx0907336d)
 - [Décret n°86-5 du 3 janvier 1986](decret-n86-5-du-3-janvier-1986)
 - [Décret n°2009-1097 du 4 septembre 2009 (ECEP0906596D)](decret-n2009-1097-du-4-septembre-2009-ecep0906596d)
 - [Décret n°2009-124 du 4 février 2009 (ECED0901767D)](decret-n2009-124-du-4-fevrier-2009-eced0901767d)
