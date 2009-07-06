@@ -6,6 +6,6 @@ Organisme de gestion du maintien de la navigabilité.
 
 4.2. Abrogé.
 
-4.3. Les conditions de demande, de délivrance, de modification, de suspension ou de retrait de l'agrément d'organisme de gestion du maintien de la navigabilité ainsi que les privilèges associés sont celles de la sous-partie G de la partie M, à l'exception du paragraphe M.A. 712 (f), qui est remplacé, jusqu'au 27 septembre 2009, par les dispositions suivantes :
+4.3. Les conditions de demande, de délivrance, de modification, de suspension ou de retrait de l'agrément d'organisme de gestion du maintien de la navigabilité ainsi que les privilèges associés sont celles de la sous-partie G de la Partie M.
 
-"Dans le cas d'un organisme de petite taille qui n'assure pas la gestion du maintien de la navigabilité d'aéronefs utilisés en transport aérien commercial, le système qualité peut être remplacé, avec l'accord du ministre chargé de l'aviation civile, par des revues d'organisation périodiques sauf si l'organisme délivre des certificats d'examen de navigabilité pour des aéronefs de masse maximale au décollage supérieure à 2 730 kg autre que des ballons. Dans le cas où il n'y a pas de système qualité, l'organisme ne peut pas sous-traiter de tâches de gestion du maintien de navigabilité à d'autres organismes."
+4.4. Les organismes Partie M, sous-partie G, sont également soumis à l'ensemble des autres dispositions de la Partie M qui les concernent. Toutefois, jusqu'au 28 septembre 2009, les dispositions transitoires de l'article 5-1 en matière de maintenance et de l'article 9 en matière de délivrance et prorogation des CEN du présent arrêté peuvent être mises en œuvre y compris pour les aéronefs dont la navigabilité est gérée par un organisme agréé selon la sous-partie G de la Partie M.
