@@ -653,7 +653,6 @@
 - [Décret n°2003-1364 du 30 décembre 2003 (SPRK0370238D)](decret-n2003-1364-du-30-decembre-2003-sprk0370238d)
 - [Décret n°2003-414 du 30 avril 2003 (DEFD0301327D)](decret-n2003-414-du-30-avril-2003-defd0301327d)
 - [Décret n°2003-415 du 30 avril 2003 (INDI0301295D)](decret-n2003-415-du-30-avril-2003-indi0301295d)
-- [Décret n°2003-416 du 30 avril 2003 (EQUS0201837D)](decret-n2003-416-du-30-avril-2003-equs0201837d)
 - [Décret n°2003-586 du 30 juin 2003 (ECOC0300044D)](decret-n2003-586-du-30-juin-2003-ecoc0300044d)
 - [Décret n°2003-587 du 30 juin 2003 (ECOC0300045D)](decret-n2003-587-du-30-juin-2003-ecoc0300045d)
 - [Décret n°2003-700 du 30 juillet 2003 (INDI0301639D)](decret-n2003-700-du-30-juillet-2003-indi0301639d)
