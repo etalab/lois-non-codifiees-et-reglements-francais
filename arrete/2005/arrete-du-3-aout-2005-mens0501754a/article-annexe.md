@@ -9,136 +9,78 @@ Horaires des différentes spécialités du diplôme universitaire de technologie
 <table>
 <tbody>
 <tr>
-<td colspan="2" valign="top" width="643">
-<p align="center">HORAIRES</p>
-</td>
+<td colspan="2" valign="top" width="643">HORAIRES </td>
 </tr>
 <tr>
-<td valign="top" width="321">
-<p align="center">1 800 heures</p>
-</td>
-<td valign="top" width="321">
-<p align="center">1 620 heures</p>
-</td>
+<td valign="top" width="321">1 800 heures </td>
+<td valign="top" width="321">1 620 heures </td>
 </tr>
 <tr>
-<td valign="top" width="321">
-<p align="center">Spécialités :</p>
-</td>
-<td valign="top" width="321">
-<p align="center">Spécialités :</p>
-</td>
+<td valign="top" width="321">Spécialités : </td>
+<td valign="top" width="321">Spécialités : </td>
 </tr>
 <tr>
-<td valign="top" width="321">
-<p>Chimie (CH).</p>
-</td>
-<td valign="top" width="321">
-<p>Carrières juridiques (CJ).</p>
-</td>
+<td valign="top" width="321">Chimie (CH). </td>
+<td valign="top" width="321">Carrières juridiques (CJ). </td>
 </tr>
 <tr>
-<td valign="top" width="321">
-<p>Génie biologique (GB).</p>
-</td>
-<td valign="top" width="321">
-<p>Carrières sociales (CS).</p>
-</td>
+<td valign="top" width="321">Génie biologique (GB). </td>
+<td valign="top" width="321">Carrières sociales (CS). </td>
 </tr>
 <tr>
-<td valign="top" width="321">
-<p>Génie chimique, génie des procédés (G CH GP).</p>
-</td>
-<td valign="top" width="321">
-<p>Gestion administrative et commerciale (GACO).</p>
-</td>
+<td valign="top" width="321">Génie chimique, génie des procédés (G CH GP). </td>
+<td valign="top" width="321">Gestion administrative et commerciale (GACO). </td>
 </tr>
 <tr>
-<td valign="top" width="321">
-<p>Génie civil (GC).</p>
-</td>
-<td valign="top" width="321">
-<p>Gestion des entreprises et des administrations (GEA).</p>
-</td>
+<td valign="top" width="321">Génie civil (GC). </td>
+<td valign="top" width="321">Gestion des entreprises et des administrations (GEA). </td>
 </tr>
 <tr>
-<td valign="top" width="321">
-<p>Génie du conditionnement et de l'emballage (GCE).</p>
-</td>
-<td valign="top" width="321">
-<p>Gestion logistique et transport (GLT).</p>
-</td>
+<td valign="top" width="321">Génie du conditionnement et de l'emballage (GCE). </td>
+<td valign="top" width="321">Gestion logistique et transport (GLT). </td>
 </tr>
 <tr>
-<td valign="top" width="321">
-<p>Génie électrique et informatique industriel (GEII).</p>
-</td>
-<td valign="top" width="321">
-<p>Information-communication (INFO-COM).</p>
-</td>
+<td valign="top" width="321">Génie électrique et informatique industriel (GEII). </td>
+<td valign="top" width="321">Information-communication (INFO-COM). </td>
 </tr>
 <tr>
-<td valign="top" width="321">
-<p>Génie industriel et maintenance (GIM).</p>
-</td>
-<td valign="top" width="321">
-<p>Statistique et traitement informatique des données (STID).</p>
-</td>
+<td valign="top" width="321">Génie industriel et maintenance (GIM).</td>
+<td valign="top" width="321">     Statistique et informatique décisionnelle. </td>
 </tr>
 <tr>
-<td valign="top" width="321">
-<p>Génie mécanique et productique (GMP).</p>
-</td>
-<td valign="top" width="321">
-<p>Techniques de commercialisation (TC).</p>
-</td>
+<td valign="top" width="321">Génie mécanique et productique (GMP). </td>
+<td valign="top" width="321">Techniques de commercialisation (TC). </td>
 </tr>
 <tr>
-<td valign="top" width="321">
-<p>Génie thermique et énergie (G THE).</p>
-</td>
+<td valign="top" width="321">Génie thermique et énergie (G THE). </td>
 <td valign="top" width="321"/>
 </tr>
 <tr>
-<td valign="top" width="321">
-<p>Hygiène, sécurité, environnement (HSE).</p>
-</td>
+<td valign="top" width="321">Hygiène, sécurité, environnement (HSE). </td>
 <td valign="top" width="321"/>
 </tr>
 <tr>
-<td valign="top" width="321">
-<p>Informatique (INFO).</p>
-</td>
+<td valign="top" width="321">Informatique (INFO). </td>
 <td valign="top" width="321"/>
 </tr>
 <tr>
-<td valign="top" width="321">
-<p>Mesures physiques (M PH).</p>
-</td>
+<td valign="top" width="321">Mesures physiques (M PH). </td>
 <td valign="top" width="321"/>
 </tr>
 <tr>
-<td valign="top" width="321">
-<p>Qualité, logistique industrielle et organisation (QLIO).</p>
-</td>
+<td valign="top" width="321">Qualité, logistique industrielle et organisation (QLIO). </td>
 <td valign="top" width="321"/>
 </tr>
 <tr>
-<td valign="top" width="321">
-<p>Réseaux et télécommunications (R &amp; T).</p>
-</td>
+<td valign="top" width="321">Réseaux et télécommunications (R &amp; T). </td>
 <td valign="top" width="321"/>
 </tr>
 <tr>
-<td valign="top" width="321">
-<p>Science et génie des matériaux (SGM).</p>
-</td>
+<td valign="top" width="321">Science et génie des matériaux (SGM). </td>
 <td valign="top" width="321"/>
 </tr>
 <tr>
-<td valign="top" width="321">
-<p>Services et réseaux de communication (SRC).</p>
-</td>
+<td valign="top" width="321">Services et réseaux de communication (SRC).</td>
 <td valign="top" width="321"/>
 </tr>
 </tbody>

@@ -40,6 +40,6 @@ Science et génie des matériaux ;
 
 Services et réseaux de communication ;
 
-Statistique et traitement informatique des données ;
+Statistique et informatique décisionnelle ;
 
 Techniques de commercialisation.
