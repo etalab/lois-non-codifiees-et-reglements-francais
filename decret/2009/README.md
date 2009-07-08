@@ -109,6 +109,7 @@
 - [Décret n°2009-633 du 6 juin 2009 (MCCX0912381D)](decret-n2009-633-du-6-juin-2009-mccx0912381d)
 - [Décret n°2009-634 du 6 juin 2009 (BCFX0912360D)](decret-n2009-634-du-6-juin-2009-bcfx0912360d)
 - [Décret n°2009-635 du 6 juin 2009 (IMIX0912379D)](decret-n2009-635-du-6-juin-2009-imix0912379d)
+- [Décret n°2009-831 du 6 juillet 2009 (DEFX0913389D)](decret-n2009-831-du-6-juillet-2009-defx0913389d)
 - [Décret n°50-28 du 6 janvier 1950](decret-n50-28-du-6-janvier-1950)
 - [Décret n°2009-506 du 6 mai 2009 (IOCO0903793D)](decret-n2009-506-du-6-mai-2009-ioco0903793d)
 - [Décret n°2009-516 du 6 mai 2009 (SJSP0826570D)](decret-n2009-516-du-6-mai-2009-sjsp0826570d)
