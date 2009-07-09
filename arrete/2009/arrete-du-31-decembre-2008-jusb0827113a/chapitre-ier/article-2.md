@@ -7,3 +7,5 @@ Ces derniers ont toutefois la faculté en déposant leur candidature de demander
 Des centres supplémentaires peuvent éventuellement être institués.
 
 Les centres sont énumérés par l'arrêté ouvrant les trois concours ou par des arrêtés complémentaires.
+
+En cas de nécessité, les épreuves d'admissibilité pourront toutefois avoir lieu dans une autre ville du ressort de la cour d'appel où les candidats se sont fait inscrire ou ont demandé à composer.
