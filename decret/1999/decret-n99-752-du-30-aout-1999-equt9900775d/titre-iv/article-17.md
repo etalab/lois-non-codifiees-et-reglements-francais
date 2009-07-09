@@ -22,7 +22,7 @@ b) A titre occasionnel et gracieux, pour les besoins d'une exploitation agricole
 
 c) Pour la collecte du lait lorsque cette activité est le complément d'une activité agricole ;
 
-d) Pour le débardage du bois en grumes entre le lieu d'abattage et le lieu d'exploitation ;
+d) (Abrogé) ;
 
 3° Transports exécutés dans le cadre des groupements d'entreprises agricoles dans les conditions suivantes :
 
