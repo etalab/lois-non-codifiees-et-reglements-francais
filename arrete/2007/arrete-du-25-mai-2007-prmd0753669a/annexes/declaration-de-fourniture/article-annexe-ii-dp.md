@@ -1,20 +1,20 @@
-# Article ANNEXE II(DP)
+# Article ANNEXE II (DP)
 
-Formulaire (1) à adresser en trois exemplaires au secrétariat général de la défense nationale, direction centrale de la sécurité des systèmes d'information (bureau des relations industrielles), 51, boulevard de La Tour-Maubourg, 75700 Paris 07 SP (téléphone :
+Formulaire (1) à adresser en trois exemplaires au secrétariat général de la défense nationale, Agence nationale de la sécurité des systèmes d'information (bureau des relations industrielles), 51, boulevard de La Tour-Maubourg, 75700 Paris 07 SP (téléphone :
 
-33[0]1-71-75-82-75, télécopie : 33[0]1-71-75-82-60).
+33 [0] 1-71-75-82-75, télécopie : 33 [0] 1-71-75-82-60).
 
 Numéro de dossier (réservé à l'administration) :
 
 Déclaration
 
-- Si la prestation consiste en la délivrance de certificats électroniques qualifiés au sens du décret n° 2001-272 du 30 mars 2001 modifié, cocher la case.
+-Si la prestation consiste en la délivrance de certificats électroniques qualifiés au sens du décret n° 2001-272 du 30 mars 2001 modifié, cocher la case.
 
 (1) Formulaire disponible sur le site internet :
 
-www.ssi.gouv.fr.
+www.ssi.gouv.fr
 
-A. - Déclarant
+A.-Déclarant
 
 A-1. Société
 
@@ -64,23 +64,23 @@ Numéro de télécopie :
 
 Adresse du courrier électronique :
 
-B. - Description de la prestation
+B.-Description de la prestation
 
 B-1. Catégories d'utilisateurs
 
 auxquels est destinée la prestation
 
-- Administrations (à préciser) :
+-Administrations (à préciser) :
 
-- Grandes entreprises (préciser le secteur d'activité) :
+-Grandes entreprises (préciser le secteur d'activité) :
 
-- Etablissements financiers :
+-Etablissements financiers :
 
-- PME (préciser le secteur d'activité) :
+-PME (préciser le secteur d'activité) :
 
-- Professions libérales (préciser le secteur d'activité) :
+-Professions libérales (préciser le secteur d'activité) :
 
-- Autres (à préciser avec le secteur d'activité) :
+-Autres (à préciser avec le secteur d'activité) :
 
 B-2. Types de données concernées par la prestation
 
@@ -90,21 +90,21 @@ B-3. Services de cryptologie fournis
 
 Préciser les noms des algorithmes utilisés et la longueur maximale des clés cryptographiques pour chaque algorithme :
 
-- Authentification :
+-Authentification :
 
-- Signature :
+-Signature :
 
-- Confidentialité :
+-Confidentialité :
 
-- Horodatage :
+-Horodatage :
 
-- Archivage sécurisé :
+-Archivage sécurisé :
 
-- Gestion de clés cryptographiques :
+-Gestion de clés cryptographiques :
 
-- Certification de clés ou de données :
+-Certification de clés ou de données :
 
-- Autres (à préciser) :
+-Autres (à préciser) :
 
 B-4. Personne chargée des éléments techniques
 
@@ -120,7 +120,7 @@ Numéro de télécopie :
 
 Adresse du courrier électronique :
 
-C. - Moyens de cryptologie mis en oeuvre par le prestataire
+C.-Moyens de cryptologie mis en oeuvre par le prestataire
 
 Pour les moyens de cryptologie mis en oeuvre par le prestataire pour fournir sa prestation, indiquer :
 
@@ -132,7 +132,7 @@ Version :
 
 Le cas échéant, référence des déclarations ou des autorisations relatives aux moyens :
 
-D. - Attestation
+D.-Attestation
 
 Je soussigné (nom, prénoms) :
 
@@ -140,11 +140,11 @@ agissant en qualité de :
 
 pour le compte de :
 
-représentant le " déclarant ", certifie que les renseignements figurant sur cette déclaration et joints à cette déclaration sont exacts et ont été établis de bonne foi, et que le déclarant s'engage à porter à la connaissance de la direction centrale de la sécurité des systèmes d'information, sans délai, tout élément nouveau de fait ou de droit de nature à modifier cette déclaration ou les éléments joints, toute omission ou toute fausse déclaration exposant le déclarant aux sanctions prévues aux articles 34 et 35 de la loi n° 2004-575 du 21 juin 2004 modifiée et à l'article 13 du décret n° 2007-663 du 2 mai 2007.
+représentant le " déclarant ", certifie que les renseignements figurant sur cette déclaration et joints à cette déclaration sont exacts et ont été établis de bonne foi, et que le déclarant s'engage à porter à la connaissance de l'Agence nationale de la sécurité des systèmes d'information, sans délai, tout élément nouveau de fait ou de droit de nature à modifier cette déclaration ou les éléments joints, toute omission ou toute fausse déclaration exposant le déclarant aux sanctions prévues aux articles 34 et 35 de la loi n° 2004-575 du 21 juin 2004 modifiée et à l'article 13 du décret n° 2007-663 du 2 mai 2007.
 
 Date :
 
-Signature       Eléments techniques à joindre obligatoirement
+Signature Eléments techniques à joindre obligatoirement
 
 à la déclaration de fourniture d'une prestation de cryptologie
 

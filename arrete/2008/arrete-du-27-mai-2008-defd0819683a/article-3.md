@@ -10,7 +10,7 @@ Les destinataires des données à caractère personnel enregistrées sont, en fo
 
 ― le département central de la sécurité de défense et de l'information de la délégation générale pour l'armement ;
 
-― la direction centrale de la sécurité des systèmes d'information du secrétariat général de la défense nationale ;
+― l'Agence nationale de la sécurité des systèmes d'information du secrétariat général de la défense nationale ;
 
 ― les autorités hiérarchiques ;
 

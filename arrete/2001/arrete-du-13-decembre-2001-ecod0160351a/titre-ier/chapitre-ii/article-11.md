@@ -20,4 +20,4 @@ L'obtention de la licence visée à l'article 7 est soumise au dépôt d'une dem
 
 - la copie du récépissé de la demande d'autorisation d'exportation spécifique ou la copie de l'autorisation d'exportation spécifique prévue à l'article 12 du décret du 2 mai 2007 susvisé. La délivrance de la licence, pour lesdits biens, est subordonnée à l'obtention de l'autorisation d'exportation spécifique prévue à l'article 12 de ce même décret ;
 
-- l'engagement à fournir, deux fois par an, au secrétariat général de la défense nationale (DCSSI) la liste des clients servis et les quantités livrées respectives, selon le modèle joint en annexe 6.
+- l'engagement à fournir, deux fois par an, au secrétariat général de la défense nationale (Agence nationale de la sécurité des systèmes d'information) la liste des clients servis et les quantités livrées respectives, selon le modèle joint en annexe 6.

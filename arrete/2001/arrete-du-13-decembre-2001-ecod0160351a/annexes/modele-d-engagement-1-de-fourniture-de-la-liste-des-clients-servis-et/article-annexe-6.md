@@ -1,6 +1,6 @@
 # Article Annexe 6
 
-Je soussigné(e) ... (nom et prénom), agissant en qualité de ..., au nom de l'entreprise ..., adresse ..., m'engage à fournir au secrétariat général de la défense nationale (DCSSI), 51, boulevard Latour-Maubourg, 75700 Paris 07 SP, deux fois par an, les informations suivantes :
+Je soussigné(e) ... (nom et prénom), agissant en qualité de ..., au nom de l'entreprise ..., adresse ..., m'engage à fournir au secrétariat général de la défense nationale (Agence nationale de la sécurité des systèmes d'information), 51, boulevard Latour-Maubourg, 75700 Paris 07 SP, deux fois par an, les informations suivantes :
 
 1. Date d'exportation ;
 

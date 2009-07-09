@@ -1,28 +1,28 @@
-# Article ANNEXE III(AM)
+# Article ANNEXE III (AM)
 
-Formulaire (1) à adresser en trois exemplaires au secrétariat général de la défense nationale, direction centrale de la sécurité des systèmes d'information (bureau des relations industrielles), 51, boulevard de La Tour-Maubourg, 75700 Paris 07 SP (téléphone : 33[0]1-71-75-82-75, télécopie : 33[0]1-71-75-82-60).
+Formulaire (1) à adresser en trois exemplaires au secrétariat général de la défense nationale, Agence nationale de la sécurité des systèmes d'information (bureau des relations industrielles), 51, boulevard de La Tour-Maubourg, 75700 Paris 07 SP (téléphone : 33 [0] 1-71-75-82-75, télécopie : 33 [0] 1-71-75-82-60).
 
 Numéro de dossier (réservé à l'administration) :
 
 Cocher la ou les cases correspondantes :
 
-- Demande d'autorisation de transfert vers un Etat membre de la Communauté européenne pour une durée de
+-Demande d'autorisation de transfert vers un Etat membre de la Communauté européenne pour une durée de
 
 (cinq ans au maximum).
 
-- Demande d'autorisation d'exportation vers un Etat n'appartenant pas à la Communauté européenne pour une durée de
+-Demande d'autorisation d'exportation vers un Etat n'appartenant pas à la Communauté européenne pour une durée de
 
 (cinq ans au maximum).
 
-- Demande de renouvellement d'une autorisation de transfert pour une durée de .............. (cinq ans au maximum).
+-Demande de renouvellement d'une autorisation de transfert pour une durée de.............. (cinq ans au maximum).
 
-- Demande de renouvellement d'une autorisation d'exportation pour une durée de .............. (cinq ans au maximum).
+-Demande de renouvellement d'une autorisation d'exportation pour une durée de.............. (cinq ans au maximum).
 
 (1) Formulaire disponible sur le site internet :
 
-www.ssi.gouv.fr.
+www.ssi.gouv.fr
 
-A. - Demandeur d'autorisation
+A.-Demandeur d'autorisation
 
 A-1. Société
 
@@ -72,7 +72,7 @@ Numéro de télécopie :
 
 Adresse du courrier électronique :
 
-B. - Moyen auquel s'applique la demande d'autorisation
+B.-Moyen auquel s'applique la demande d'autorisation
 
 B-1. Moyen de cryptologie
 
@@ -88,19 +88,19 @@ Description générale du moyen et de ses fonctionnalités :
 
 Classer le moyen de cryptologie dans une ou plusieurs des catégories proposées ci-dessous :
 
-- Logiciel de chiffrement pour ordinateur personnel.
+-Logiciel de chiffrement pour ordinateur personnel.
 
-- Système d'exploitation.
+-Système d'exploitation.
 
-- Messagerie électronique.
+-Messagerie électronique.
 
-- Système de communication sans fil.
+-Système de communication sans fil.
 
-- Moyen de chiffrement au niveau du réseau.
+-Moyen de chiffrement au niveau du réseau.
 
-- Téléphone ou télécopie.
+-Téléphone ou télécopie.
 
-- Autres (à préciser) :
+-Autres (à préciser) :
 
 B-2. Fabricant du moyen de cryptologie (si différent du A-1)
 
@@ -138,27 +138,27 @@ B-4. Services de cryptologie fournis
 
 Préciser les noms des algorithmes utilisés et la longueur maximale des clés cryptographiques pour chaque algorithme :
 
-- Authentification :
+-Authentification :
 
-- Signature :
+-Signature :
 
-- Contrôle d'intégrité :
+-Contrôle d'intégrité :
 
-- Confidentialité :
+-Confidentialité :
 
-- Autres (à préciser) :
+-Autres (à préciser) :
 
 B-5. Mise en oeuvre des algorithmes
 
-- Logiciel.
+-Logiciel.
 
-- Matériel (à préciser) :
+-Matériel (à préciser) :
 
 B-6. Normes ou standards de sécurité du moyen
 
-- Normes ou standards (à préciser) :
+-Normes ou standards (à préciser) :
 
-C. - Renouvellement d'autorisation de transfert
+C.-Renouvellement d'autorisation de transfert
 
 ou d'exportation
 
@@ -170,7 +170,7 @@ Date de l'autorisation :
 
 Numéro de l'autorisation (mentionné sur l'autorisation) :
 
-D. - Attestation
+D.-Attestation
 
 Je soussigné (nom, prénoms) :
 
@@ -178,11 +178,11 @@ agissant en qualité de :
 
 pour le compte de :
 
-représentant le " demandeur d'autorisation ", certifie que les renseignements figurant sur cette demande d'autorisation et joints à cette demande sont exacts et ont été établis de bonne foi, et que le demandeur s'engage à porter à la connaissance de la direction centrale de la sécurité des systèmes d'information, sans délai, tout élément nouveau de fait ou de droit de nature à modifier cette demande ou les éléments joints, toute omission ou toute fausse déclaration exposant le demandeur aux sanctions prévues aux articles 34 et 35 de la loi n° 2004-575 du 21 juin 2004 modifiée.
+représentant le " demandeur d'autorisation ", certifie que les renseignements figurant sur cette demande d'autorisation et joints à cette demande sont exacts et ont été établis de bonne foi, et que le demandeur s'engage à porter à la connaissance de l'Agence nationale de la sécurité des systèmes d'information, sans délai, tout élément nouveau de fait ou de droit de nature à modifier cette demande ou les éléments joints, toute omission ou toute fausse déclaration exposant le demandeur aux sanctions prévues aux articles 34 et 35 de la loi n° 2004-575 du 21 juin 2004 modifiée.
 
 Date :
 
-Signature       Eléments techniques à joindre obligatoirement à la demande
+Signature Eléments techniques à joindre obligatoirement à la demande
 
 d'autorisation d'une opération relative à un moyen de cryptologie
 
@@ -190,7 +190,7 @@ d'autorisation d'une opération relative à un moyen de cryptologie
 
 [sauf pour les éléments visés au point 1])
 
-1. Les éléments nécessaires pour mettre en oeuvre le moyen de cryptologie (à ne fournir que sur demande de la direction centrale de la sécurité des systèmes d'information) :
+1. Les éléments nécessaires pour mettre en oeuvre le moyen de cryptologie (à ne fournir que sur demande de l'Agence nationale de la sécurité des systèmes d'information) :
 
 a) Deux modèles du moyen de cryptologie ;
 
@@ -232,7 +232,7 @@ b) La description des post-traitements des données chiffrées, après leur chif
 
 c) Trois sorties de référence du moyen, sous format électronique, effectuées à partir d'un texte clair et d'une clé choisie arbitrairement, qui seront aussi fournis, dans le but de vérifier la mise en oeuvre du moyen par rapport à la description de celui-ci.
 
-6. Les éléments relatifs à la mise en oeuvre de la cryptologie (à ne fournir que sur demande de la direction centrale de la sécurité des systèmes d'information) :
+6. Les éléments relatifs à la mise en oeuvre de la cryptologie (à ne fournir que sur demande de l'Agence nationale de la sécurité des systèmes d'information) :
 
 a) Le code source du moyen, et les éléments permettant une recompilation du code source ou les références des compilateurs associés ;
 

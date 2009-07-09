@@ -1,6 +1,6 @@
 # Article 14
 
-L'habilitation prévue au premier alinéa de l'article 36 de la loi du 21 juin 2004 susvisée est accordée par arrêté du Premier ministre à des agents en fonction à la direction centrale de la sécurité des systèmes d'information.
+L'habilitation prévue au premier alinéa de l'article 36 de la loi du 21 juin 2004 susvisée est accordée par arrêté du Premier ministre à des agents en fonction à l'Agence nationale de la sécurité des systèmes d'information.
 
 Cette habilitation peut être retirée à tout moment par décision du Premier ministre.
 

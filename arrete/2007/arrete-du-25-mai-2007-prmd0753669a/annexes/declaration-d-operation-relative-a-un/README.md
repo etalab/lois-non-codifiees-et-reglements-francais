@@ -1,3 +1,3 @@
 # DÉCLARATION D'OPÉRATION RELATIVE À UN MOYEN DE CRYPTOLOGIE.
 
-- [Article ANNEXE I(DM)](article-annexe-i-dm.md)
+- [Article ANNEXE I (DM)](article-annexe-i-dm.md)

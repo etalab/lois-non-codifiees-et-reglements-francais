@@ -1,26 +1,26 @@
-# Article ANNEXE I(DM)
+# Article ANNEXE I (DM)
 
-Formulaire (1) à adresser en trois exemplaires au secrétariat général de la défense nationale, direction centrale de la sécurité des systèmes d'information (bureau des relations industrielles), 51, boulevard de La Tour-Maubourg, 75700 Paris 07 SP (téléphone : 33[0]1-71-75-82-75, télécopie : 33[0]1-71-75-82-60).
+Formulaire (1) à adresser en trois exemplaires au secrétariat général de la défense nationale, Agence nationale de la sécurité des systèmes d'information (bureau des relations industrielles), 51, boulevard de La Tour-Maubourg, 75700 Paris 07 SP (téléphone : 33 [0] 1-71-75-82-75, télécopie : 33 [0] 1-71-75-82-60).
 
 Numéro de dossier (réservé à l'administration) :
 
 Cocher la ou les cases correspondantes :
 
-- Déclaration de fourniture.
+-Déclaration de fourniture.
 
-- Déclaration de transfert depuis un Etat membre de la Communauté européenne.
+-Déclaration de transfert depuis un Etat membre de la Communauté européenne.
 
-- Déclaration de transfert vers un Etat membre de la Communauté européenne.
+-Déclaration de transfert vers un Etat membre de la Communauté européenne.
 
-- Déclaration d'importation en provenance de :
+-Déclaration d'importation en provenance de :
 
-- Déclaration d'exportation.
+-Déclaration d'exportation.
 
 (1) Formulaire disponible sur le site internet :
 
-www.ssi.gouv.fr.
+www.ssi.gouv.fr
 
-A. - Déclarant
+A.-Déclarant
 
 A-1. Société
 
@@ -70,7 +70,7 @@ Numéro de télécopie :
 
 Adresse du courrier électronique :
 
-B. - Moyen auquel s'applique la déclaration
+B.-Moyen auquel s'applique la déclaration
 
 B-1. Moyen de cryptologie
 
@@ -86,19 +86,19 @@ Description générale du moyen et de ses fonctionnalités :
 
 Classer le moyen de cryptologie dans une ou plusieurs des catégories proposées ci-dessous :
 
-- Logiciel de chiffrement pour ordinateur personnel.
+-Logiciel de chiffrement pour ordinateur personnel.
 
-- Système d'exploitation.
+-Système d'exploitation.
 
-- Messagerie électronique.
+-Messagerie électronique.
 
-- Système de communication sans fil.
+-Système de communication sans fil.
 
-- Moyen de chiffrement au niveau du réseau.
+-Moyen de chiffrement au niveau du réseau.
 
-- Téléphone ou télécopie.
+-Téléphone ou télécopie.
 
-- Autres (à préciser) :
+-Autres (à préciser) :
 
 B-2. Fabricant du moyen de cryptologie (si différent du A-1)
 
@@ -136,27 +136,27 @@ B-4. Services de cryptologie fournis
 
 Préciser les noms des algorithmes utilisés et la longueur maximale des clés cryptographiques pour chaque algorithme :
 
-- Authentification :
+-Authentification :
 
-- Signature :
+-Signature :
 
-- Contrôle d'intégrité :
+-Contrôle d'intégrité :
 
-- Confidentialité :
+-Confidentialité :
 
-- Autres (à préciser) :
+-Autres (à préciser) :
 
 B-5. Mise en oeuvre des algorithmes
 
-- Logiciel.
+-Logiciel.
 
-- Matériel (à préciser) :
+-Matériel (à préciser) :
 
 B-6. Normes ou standards de sécurité du moyen
 
-- Normes ou standards (à préciser) :
+-Normes ou standards (à préciser) :
 
-C. - Cas d'un moyen de cryptologie relevant de la catégorie 3
+C.-Cas d'un moyen de cryptologie relevant de la catégorie 3
 
 de l'annexe 2 au décret n° 2007-663 du 2 mai 2007
 
@@ -166,7 +166,7 @@ Expliquer pourquoi la fonctionnalité cryptographique ne peut pas être modifié
 
 Expliquer en quoi les modalités d'installation du moyen ne nécessitent pas d'assistance importante ultérieure de la part du fournisseur :
 
-D. - Attestation
+D.-Attestation
 
 Je soussigné (nom, prénoms) :
 
@@ -174,13 +174,13 @@ agissant en qualité de :
 
 pour le compte de :
 
-représentant le " déclarant ", certifie que les renseignements figurant sur cette déclaration et joints à cette déclaration sont exacts et ont été établis de bonne foi, et que le déclarant s'engage à porter à la connaissance de la direction centrale de la sécurité des systèmes d'information, sans délai, tout élément nouveau de fait ou de droit de nature à modifier cette déclaration ou les éléments joints, toute omission ou toute fausse déclaration exposant le déclarant aux sanctions prévues aux articles 34 et 35 de la loi n° 2004-575 du 21 juin 2004 modifiée.
+représentant le " déclarant ", certifie que les renseignements figurant sur cette déclaration et joints à cette déclaration sont exacts et ont été établis de bonne foi, et que le déclarant s'engage à porter à la connaissance de l'Agence nationale de la sécurité des systèmes d'information, sans délai, tout élément nouveau de fait ou de droit de nature à modifier cette déclaration ou les éléments joints, toute omission ou toute fausse déclaration exposant le déclarant aux sanctions prévues aux articles 34 et 35 de la loi n° 2004-575 du 21 juin 2004 modifiée.
 
 Date :
 
-Signature       Caractéristiques techniques à fournir sur demande
+Signature Caractéristiques techniques à fournir sur demande
 
-de la direction centrale de la sécurité des systèmes d'information
+de la Agence nationale de la sécurité des systèmes d'information
 
 (A fournir en trois exemplaires [sauf pour les éléments visés au point 1])
 
