@@ -14,7 +14,9 @@ I. - Pour la gestion du personnel civil et militaire (d'active, de réserve et a
 
 - les membres des corps d'inspection ;
 
-- le bureau condition du personnel de la marine.
+- le bureau condition du personnel de la marine ;
+
+- la direction des ressources humaines du ministère de la défense.
 
 II. - Pour le suivi du temps de travail :
 
