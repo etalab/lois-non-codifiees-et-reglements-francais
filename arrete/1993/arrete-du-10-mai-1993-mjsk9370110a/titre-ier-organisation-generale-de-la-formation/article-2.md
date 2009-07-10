@@ -6,4 +6,4 @@ Il a, pour l'obtention du diplôme d'aspirant guide, une durée de validité de 
 
 L'obtention du diplôme d'aspirant guide entraîne la prorogation de ce livret de formation pour une durée de validité de quatre ans qui peut aussi être prolongée d'une année seulement pour un même motif qu'à l'alinéa précédent.
 
-Dans les deux durées de validité ci-dessus, toute période d'incapacité physique supérieure à un an peut autoriser la neutralisation de cette période sur justificatif médical. Cette décision est soumise à l'avis de la sous-commission spécialisée de la Commission nationale de l'enseignement des activités physiques et sportives créée par le décret du 31 août 1993 susvisé.
+Dans le cas où le titulaire du livret de formation est frappé d'une incapacité physique d'une durée supérieure à un an médicalement justifiée, le directeur de l'Ecole nationale de ski et d'alpinisme peut en autoriser la prorogation pour une durée équivalente, après avis de la section permanente de l'alpinisme du Conseil supérieur des sports de montagne.
