@@ -1,13 +1,19 @@
 # Article 11
 
-Les exploitants des établissements où se pratiquent de façon habituelle la commercialisation, le toilettage, le transit ou la garde de chiens ainsi que les personnels qu'ils emploient ne peuvent effectuer les opérations physiques de tatouage que sous le contrôle et sous la responsabilité d'un vétérinaire ou docteur vétérinaire choisi par l'établissement considéré.
+En application du 1° de l'article D. 212-65 du code rural, le directeur général de l'alimentation du ministère en charge de l'agriculture procède à une comparaison entre les compétences attestées par les diplômes, les titres ou l'expérience et les connaissances et qualifications exigées par la commission mentionnée au 3° de l'article D. 212-65 du code rural.
 
-Cette disposition ne s'applique pas aux responsables des locaux où se pratique de façon habituelle l'élevage de chiens en vue de la vente.
+Le directeur général de l'alimentation peut exiger du demandeur qu'il se soumette à une épreuve d'aptitude sur les points pour lesquels des différences substantielles de nature à nuire à la santé ou à la sécurité des destinataires de services ont été mises en évidence entre la formation et les connaissances du demandeur et la formation exigée en France.
 
-Il ne peut être désigné qu'un seul vétérinaire ou docteur vétérinaire par établissement. En tant que de besoin, celui-ci peut désigner les nom et adresse d'un vétérinaire ou docteur vétérinaire qui, en cas d'empêchement ou d'absence, sera chargé de sa suppléance.
+L'épreuve d'aptitude porte sur tout ou partie de l'examen mentionné à l'article 10, telle qu'estimée nécessaire pour établir que les connaissances et qualifications concernées sont maîtrisées.
 
-Le vétérinaire ou docteur vétérinaire choisi par l'établissement assume l'entière responsabilité de la rédaction et de la signature des cartes d'identification dans les conditions prévues par le présent arrêté.
+2° En application de l'article D. 212-65 du code rural, pour les ressortissants mentionnés au premier alinéa qui ne relèvent pas des dispositions du 1°, le directeur général de l'alimentation procède à une comparaison entre les compétences attestées par les diplômes, les titres ou l'expérience et les connaissances et qualifications exigées par la commission mentionnée au 3° de l'article D. 212-65 du code rural.
 
-Il doit, d'une part, s'assurer de la concordance du nombre de cartes délivrées avec les inscriptions au registre des entrées et sorties prévues à l'article 13 du décret n° 91-823 du 28 août 1991 et, d'autre part, tenir la comptabilité des cartes reçues et délivrées.
+Le directeur général de l'alimentation peut exiger du demandeur qu'il se soumette, selon son choix, à une épreuve d'aptitude ou qu'il accomplisse un stage d'adaptation sur les points pour lesquels des différences substantielles de formation sont mises en évidence.
 
-L'établissement doit alors aviser l'organisme gestionnaire du fichier du nom du vétérinaire qui est responsable des opérations de tatouage dans l'établissement et du nom des employés de l'établissement qui procèdent aux opérations physiques de tatouage.
+L'épreuve d'aptitude porte sur tout ou partie de l'examen mentionné à l'article 10, telle qu'estimée nécessaire pour établir que les connaissances et qualifications exigées par la commission mentionnée au 3° de l'article D. 212-65 du code rural sont maîtrisées.
+
+Le stage d'adaptation fait l'objet d'une convention conclue entre le stagiaire, l'entreprise d'accueil et le directeur général de l'alimentation. Elle détaille le contenu et le déroulement du stage tel qu'établi par le directeur général de l'alimentation, en fonction des compétences à maîtriser. Le stagiaire choisit une entreprise d'accueil parmi des professionnels proposés par le directeur général de l'alimentation. Une évaluation des compétences acquises lors de ce stage est réalisée par le directeur général de l'alimentation.
+
+Lorsque la formation ou les connaissances acquises par le stagiaire le justifient, le directeur général de l'alimentation détermine le contenu de la formation complémentaire que le stagiaire doit suivre parmi les éléments mentionnés au quatrième alinéa.
+
+Le demandeur fournit une copie des documents originaux ainsi que leur traduction en français.
