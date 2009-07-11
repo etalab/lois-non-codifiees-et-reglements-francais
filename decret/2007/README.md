@@ -760,7 +760,6 @@
 - [Décret n°2007-924 du 15 mai 2007 (MENE0700523D)](decret-n2007-924-du-15-mai-2007-mene0700523d)
 - [Décret n°2007-925 du 15 mai 2007 (MENF0753866D)](decret-n2007-925-du-15-mai-2007-menf0753866d)
 - [Décret n°2007-926 du 15 mai 2007 (MENF0753869D)](decret-n2007-926-du-15-mai-2007-menf0753869d)
-- [Décret n°2007-927 du 15 mai 2007 (MENH0754434D)](decret-n2007-927-du-15-mai-2007-menh0754434d)
 - [Décret n°2007-928 du 15 mai 2007 (MENE0754343D)](decret-n2007-928-du-15-mai-2007-mene0754343d)
 - [Décret n°2007-929 du 15 mai 2007 (JUSC0753778D)](decret-n2007-929-du-15-mai-2007-jusc0753778d)
 - [Décret n°2007-930 du 15 mai 2007 (JUSK0752907D)](decret-n2007-930-du-15-mai-2007-jusk0752907d)

@@ -151,7 +151,6 @@
 - [Décret n°89-896 du 12 décembre 1989 (MAEJ8930106D)](decret-n89-896-du-12-decembre-1989-maej8930106d)
 - [Décret n°89-897 du 12 décembre 1989 (MAEJ8930107D)](decret-n89-897-du-12-decembre-1989-maej8930107d)
 - [Décret n°90-50 du 12 janvier 1990 (MENN8902691D)](decret-n90-50-du-12-janvier-1990-menn8902691d)
-- [Décret n°90-51 du 12 janvier 1990 (MENN8902692D)](decret-n90-51-du-12-janvier-1990-menn8902692d)
 - [Décret n°89-307 du 12 mai 1989 (INTA8900144D)](decret-n89-307-du-12-mai-1989-inta8900144d)
 - [Décret n°89-169 du 13 mars 1989 (TRST8900132D)](decret-n89-169-du-13-mars-1989-trst8900132d)
 - [Décret n°89-501 du 13 juillet 1989 (PTTA8900486D)](decret-n89-501-du-13-juillet-1989-ptta8900486d)
