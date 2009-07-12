@@ -2,7 +2,7 @@
 
 L'habilitation ne peut être délivrée qu'aux organismes de formation se conformant aux critères suivants :
 
-1° Formalisation d'un projet éducatif dans une marche d'éducation populaire ;
+1° Formalisation d'un projet éducatif dans une démarche d'éducation populaire ;
 
 2° Existence d'un réseau d'équipes de formateurs qualifiés en rapport avec le ou les brevets préparés et participant régulièrement à l'encadrement de sessions et aux activités de l'association ;
 

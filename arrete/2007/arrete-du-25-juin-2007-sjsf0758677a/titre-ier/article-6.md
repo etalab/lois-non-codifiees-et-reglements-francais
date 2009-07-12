@@ -1,8 +1,8 @@
 # Article 6
 
-La demande d'habilitation doit être déposée avant le 31 octobre de l'année précédente et comporte au minimum les documents suivants :
+La demande d'habilitation doit être déposée avant le 15 septembre de l'année précédente et comporte au minimum les documents suivants :
 
-- l'arrêté d'agrément de l'organisme de formation ;
+- le cas échéant, l'arrêté d'agrément de jeunesse et d'éducation populaire de l'organisme de formation ;
 
 - les modalités d'application des critères fixés à l'article 5 ci-dessus ;
 
