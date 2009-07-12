@@ -26,4 +26,4 @@ III.
 
 1. Au 1er janvier 2008, la valeur d'achat du point est de 3,59 euros, pour l'exercice 2007 ;
 
-2. Au 1er juillet 2008, la valeur de service du point est de 2,02 euros. Cette valeur est révisée le 1er juillet de chaque année, selon les modalités prévues au quatrième alinéa de l'article 4 du décret du 30 octobre 1963 modifié.
+2. Au 1er juillet 2009, la valeur de service du point est de 2,05 euros. Cette valeur est révisée le 1er juillet de chaque année, selon les modalités prévues au quatrième alinéa de l'article 4 du décret du 30 octobre 1963 modifié.

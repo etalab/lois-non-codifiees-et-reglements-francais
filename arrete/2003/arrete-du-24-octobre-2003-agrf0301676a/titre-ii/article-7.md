@@ -12,8 +12,56 @@ Les protocoles d'expérimentation sont conçus conformément à des procédures 
 
 Les matériels de reproduction destinés aux essais comparatifs doivent être élevés, plantés et traités de façon identique, autant que les types de matériel végétal utilisés le permettent.
 
-Des caractères spécifiques doivent être évalués pour l'admission des clones. Le comportement des clones devra être étudié conformément au tableau ci-dessous. D'autres caractères jugés importants, compte tenu de l'objectif spécifique recherché, peuvent également être évalués en fonction des conditions écologiques de la région dans laquelle l'essai est effectué. Les caractères évalués sont précisés pour chaque essai.
+Des caractères spécifiques doivent être évalués pour l'admission des clones. Le comportement des clones devra être étudié conformément au tableau ci-dessous. D'autres caractères jugés importants, compte tenu de l'objectif spécifique recherché, peuvent également être évalués en fonction des conditions écologiques de la région dans laquelle l'essai est effectué. Les caractères évalués sont précisés pour chaque essai. Au moins un de ces sites est implanté dans une zone infestée par le puceron lanigère.
 
-<div/>
+<table>
+<tbody>
+<tr>
+<td/>
+<td>
+<font size="2">comportement pathologique</font>
+</td>
+<td>
+<font size="2">croissance et production</font>
+</td>
+</tr>
+<tr>
+<td>Admission provisoire </td>
+<td>
+<p>Résistance à : </p>
+<p>- Melampsora larici-populina ; </p>
+<p>- Marssonina brunnea. </p>
+</td>
+<td>
+<p>En pépinière : </p>
+<p>- la reprise au bouturage ;</p>
+<p>- durée de la saison de végétation ; -</p>
+<p> diamètre ; </p>
+<p>- hauteur.</p>
+<p>En plantations comparatives : </p>
+<p>reprise en première année, </p>
+<p>mortalité,circonférence, hauteur, </p>
+<p>densité du bois, fourchaison, </p>
+<p>branchaison,rectitude du fût.</p>
+</td>
+</tr>
+<tr>
+<td>Admission définitive</td>
+<td>
+<p>Surveillances sanitaires en pépinière et en plantation.</p>
+<p>Si pas d'admission provisoire préalable : </p>
+<p>éléments demandés dans le cadre ci-dessus ; </p>
+<p>- Xanthomonas populi (chancre bactérien)</p>
+</td>
+<td>
+<p>En plantations comparatives : </p>
+<p>mortalité,circonférence, hauteur, volume </p>
+<p>moyen du bois fort, densité du bois, </p>
+<p>fourchaison, branchaison,</p>
+<p>rectitude du fût.</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 Les sites d'expérimentation doivent être représentatifs des conditions de reboisement pour l'espèce considérée et installés dans des conditions de milieu aussi variées que possible.
