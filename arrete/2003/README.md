@@ -904,7 +904,6 @@
 - [Arrêté du 27 février 2003 (MENP0300471A)](arrete-du-27-fevrier-2003-menp0300471a)
 - [Arrêté du 27 février 2003 (SOCG0211948A)](arrete-du-27-fevrier-2003-socg0211948a)
 - [Arrêté du 27 janvier 2003 (AGRG0202766A)](arrete-du-27-janvier-2003-agrg0202766a)
-- [Arrêté du 27 janvier 2003 (AGRG0202767A)](arrete-du-27-janvier-2003-agrg0202767a)
 - [Arrêté du 27 janvier 2003 (BUDL0300014A)](arrete-du-27-janvier-2003-budl0300014a)
 - [Arrêté du 27 juillet 2004 (AGRA0401217A)](arrete-du-27-juillet-2004-agra0401217a)
 - [Arrêté du 27 juin 2003 (DEFP0301508A)](arrete-du-27-juin-2003-defp0301508a)
