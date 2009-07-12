@@ -1,0 +1,3 @@
+# Article 1
+
+Le bénéfice d'une aide à la cessation définitive d'activité pour les propriétaires de navires d'une longueur hors tout supérieure ou égale à 24 mètres immatriculés, à la date du présent arrêté, dans un port français et ayant pratiqué la pêche des thonidés à la canne dans la zone économique exclusive du Sénégal, dans le cadre du protocole du 25 juin 2002 fixant les possibilités de pêche et la contrepartie financière prévues dans l'accord entre la Communauté économique européenne et le Gouvernement de la République du Sénégal concernant la pêche au large de la côte sénégalaise, au cours des années 2002 à 2008, est ouvert, en application de l'article 23 du règlement (CE) n° 1198/2006 du 27 juillet 2006 relatif au Fonds européen pour la pêche.

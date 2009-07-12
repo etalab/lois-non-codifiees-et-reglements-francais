@@ -1,0 +1,15 @@
+# Article 7
+
+Les titulaires du diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport spécialité « perfectionnement sportif », mention « football américain », obtiennent de droit l'unité capitalisable quatre (UC4) « être capable d'encadrer le football américain en sécurité » du diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du sport spécialité « performance sportive », mention « football américain ».
+
+Les titulaires du diplôme d'éducateur fédéral de football américain délivré par la Fédération française de football américain et les titulaires du tronc commun du brevet d'Etat du deuxième degré pouvant justifier au cours des cinq dernières années de l'une des expérience professionnelles suivantes, attestée par le directeur technique national du football américain :
+
+― quatre cents heures d'entraînement d'une équipe de niveau national, d'un centre d'entraînement ou d'un pôle figurant sur la liste établie par le ministre chargé des sports en application de l'article R. 221-26 du code du sport ;
+
+― de formation de cadres d'une équipe technique de niveau interrégionale attestée par le directeur technique national du football américain ;
+
+― de directeur d'une équipe technique de niveau interrégional attestée par le directeur technique national du football américain,
+
+obtiennent, sur demande auprès du directeur régional de la jeunesse, des sports et de la vie associative, l'unité capitalisable un (UC1) « être capable de construire la stratégie d'une organisation du secteur du football américain » et l'unité capitalisable deux (UC2) « être capable de gérer les ressources humaines et financières d'une organisation du secteur du football américain » du diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du sport spécialité « performance sportive ».
+
+Dans les cinq ans suivant la date de publication du présent arrêté, les titulaires du diplôme d'éducateur fédéral de football américain délivré par la Fédération française de football américain et les titulaires du diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport spécialité « perfectionnement sportif », mention « football américain », obtiennent sur demande auprès du directeur régional de la jeunesse, des sports et de la vie associative l'unité capitalisable trois (UC3) « être capable de diriger un système d'entraînement en football américain » et l'unité capitalisable quatre (UC4) « être capable d'encadrer le football américain en sécurité » du diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du sport spécialité « performance sportive », mention « football américain », s'ils justifient dans les cinq dernières années d'une expérience professionnelle d'au moins quatre cents heures d'entraînement d'une équipe de niveau national, d'un centre d'entraînement ou d'un pôle figurant sur la liste établie par le ministre chargé des sports en application de l'article R. 221-26 du code du sport. L'expérience est attestée par le directeur technique national du football américain.
