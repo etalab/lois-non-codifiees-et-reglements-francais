@@ -1,116 +1,114 @@
 # Article 2
 
-<div>
-<br/>Sauf disposition contraire mentionnée aux articles 3, 4 et 6, les tarifs horaires applicables sont définis ainsi :<br/>
+Sauf disposition contraire mentionnée aux articles 3, 4 et 6, les tarifs horaires applicables sont définis ainsi :
+
 <div align="center">
-
 <table>
+<tbody>
 <tr>
-<th>
-<br/>TARIFS HORAIRES</th>
-<th>
-<br/>AVEC<br/>instructeur</th>
-<th>
-<br/>SANS<br/>instructeur</th>
+<th>TARIFS HORAIRES<br/>
+</th>
+<th>AVEC<br/>instructeur<br/>
+</th>
+<th>SANS<br/>instructeur<br/>
+</th>
 </tr>
 <tr>
-<td align="center">
-<br/>Instructeur pour évaluation.</td>
-<td align="center">
-<br/>225 €</td>
-<td align="center">
-<br/>―</td>
+<td align="center">Instructeur pour évaluation.<br/>
+</td>
+<td align="center">190 €<br/>
+</td>
+<td align="center">―<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Jodel D 140.</td>
-<td align="center">
-<br/>330 €</td>
-<td align="center">
-<br/>180 €</td>
+<td align="center">Jodel D 140.<br/>
+</td>
+<td align="center">330 €<br/>
+</td>
+<td align="center">180 €<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Cap 10.</td>
-<td align="center">
-<br/>345 €</td>
-<td align="center">
-<br/>195 €</td>
+<td align="center">Cap 10.<br/>
+</td>
+<td align="center">345 €<br/>
+</td>
+<td align="center">195 €<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>DA 40.</td>
-<td align="center">
-<br/>345 €</td>
-<td align="center">
-<br/>195 €</td>
+<td align="center">DA 40.<br/>
+</td>
+<td align="center">345 €<br/>
+</td>
+<td align="center">195 €<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>DA 42.</td>
-<td align="center">
-<br/>580 €</td>
-<td align="center">
-<br/>390 €</td>
+<td align="center">DA 42.<br/>
+</td>
+<td align="center">580 €<br/>
+</td>
+<td align="center">390 €<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>TB 10.</td>
-<td align="center">
-<br/>345 €</td>
-<td align="center">
-<br/>195 €</td>
+<td align="center">TB 10.<br/>
+</td>
+<td align="center">345 €<br/>
+</td>
+<td align="center">195 €<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>TB 20.</td>
-<td align="center">
-<br/>460 €</td>
-<td align="center">
-<br/>290 €</td>
+<td align="center">TB 20.<br/>
+</td>
+<td align="center">460 €<br/>
+</td>
+<td align="center">290 €<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Beech 58.</td>
-<td align="center">
-<br/>740 €</td>
-<td align="center">
-<br/>550 €</td>
+<td align="center">Beech 58.<br/>
+</td>
+<td align="center">740 €<br/>
+</td>
+<td align="center">550 €<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Tout simulateur non FNPT II.</td>
-<td align="center">
-<br/>190 €</td>
-<td align="center">
-<br/>―</td>
+<td align="center">Tout simulateur non FNPT II.<br/>
+</td>
+<td align="center">190 €<br/>
+</td>
+<td align="center">―<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>FNPT II monomoteur.</td>
-<td align="center">
-<br/>200 €</td>
-<td align="center">
-<br/>―</td>
+<td align="center">FNPT II monomoteur.<br/>
+</td>
+<td align="center">200 €<br/>
+</td>
+<td align="center">―<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>FNPT II bimoteur.</td>
-<td align="center">
-<br/>300 €</td>
-<td align="center">
-<br/>―</td>
+<td align="center">FNPT II bimoteur.<br/>
+</td>
+<td align="center">300 €<br/>
+</td>
+<td align="center">―<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>FNPT II MCC.</td>
-<td align="center">
-<br/>500 €</td>
-<td align="center">
-<br/>―</td>
+<td align="center">FNPT II MCC.<br/>
+</td>
+<td align="center">500 €<br/>
+</td>
+<td align="center">―<br/>
+</td>
 </tr>
+</tbody>
 </table>
-
-</div>
-<br/>
 </div>

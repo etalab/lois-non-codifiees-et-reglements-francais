@@ -1,60 +1,66 @@
 # Article 6
 
-<div>
-<br/>Les élèves pilotes de ligne (EPL), recrutés sur concours, bénéficient de tarifs préférentiels dans le cadre de leur formation pratique au pilotage.<br/> Les réentraînements au pilotage, renouvellements et prorogations de qualification réalisés au profit d'EPL et soumis à facturation sont ainsi facturés à hauteur de 60 % des tarifs horaires mentionnés dans l'article 2.<br/> Les EPL bénéficient d'un tarif préférentiel pour le logement en centres SEFA, avec un forfait hebdomadaire à 53 euros pour une chambre simple.<br/> Une participation aux frais d'hébergement peut être prise en charge par le SEFA et déduite ainsi du tarif préférentiel hebdomadaire susmentionné. Cette participation aux frais d'hébergement est calculée à partir du nombre hebdomadaire de repas pris dans les restaurants administratifs du SEFA.<br/>
+Les élèves pilotes de ligne (EPL), recrutés sur concours, bénéficient de tarifs préférentiels dans le cadre de leur formation pratique au pilotage.
+
+Les réentraînements au pilotage, renouvellements et prorogations de qualification réalisés au profit d'EPL et soumis à facturation sont ainsi facturés à hauteur de 60 % des tarifs horaires mentionnés dans l'article 2.
+
+Les EPL bénéficient d'un tarif préférentiel pour le logement dans les centres SEFA disposant d'un hébergement propre ou ayant contracté avec un organisme extérieur la mise à disposition d'un hébergement pour les stagiaires, avec un forfait hebdomadaire à 53 euros pour une chambre simple.
+
+Une participation aux frais d'hébergement peut être prise en charge par le SEFA et déduite ainsi du tarif préférentiel hebdomadaire susmentionné. Cette participation aux frais d'hébergement est calculée à partir du nombre hebdomadaire de repas pris dans les restaurants administratifs du SEFA.
+
 <div align="center">
 
 <table>
+<tbody>
 <tr>
-<th>
-<br/>NOMBRE DE REPAS<br/>pris en restaurant administratif<br/>du SEFA durant une semaine</th>
-<th>
-<br/>PARTICIPATION<br/>aux frais d'hébergement</th>
+<th>NOMBRE DE REPAS<br/>pris en restaurant administratif<br/>du SEFA durant une semaine<br/>
+</th>
+<th>PARTICIPATION<br/>aux frais d'hébergement<br/>
+</th>
 </tr>
 <tr>
-<td align="center">
-<br/>0 à 3 repas inclus.</td>
-<td align="center">
-<br/>0 €</td>
+<td align="center">0 à 3 repas inclus.<br/>
+</td>
+<td align="center">0 €<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>4 repas.</td>
-<td align="center">
-<br/>1 €</td>
+<td align="center">4 repas.<br/>
+</td>
+<td align="center">1 €<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>5 repas.</td>
-<td align="center">
-<br/>3 €</td>
+<td align="center">5 repas.<br/>
+</td>
+<td align="center">3 €<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>6 repas.</td>
-<td align="center">
-<br/>6 €</td>
+<td align="center">6 repas.<br/>
+</td>
+<td align="center">6 €<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>7 repas.</td>
-<td align="center">
-<br/>10 €</td>
+<td align="center">7 repas.<br/>
+</td>
+<td align="center">10 €<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>8 repas.</td>
-<td align="center">
-<br/>14 €</td>
+<td align="center">8 repas.<br/>
+</td>
+<td align="center">14 €<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>9 repas et plus.</td>
-<td align="center">
-<br/>19 €</td>
+<td align="center">9 repas et plus.<br/>
+</td>
+<td align="center">19 €<br/>
+</td>
 </tr>
+</tbody>
 </table>
 
-</div>
-<br/>
 </div>
