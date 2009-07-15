@@ -12,8 +12,6 @@ Pour les fonctionnaires titulaires et stagiaires des corps de directeurs des ser
 
 ― octroi des congés annuels ;
 
-― attribution des congés bonifiés ;
-
 ― octroi ou renouvellement des congés ordinaires de maladie ;
 
 ― imputation au service des maladies ou accidents ;

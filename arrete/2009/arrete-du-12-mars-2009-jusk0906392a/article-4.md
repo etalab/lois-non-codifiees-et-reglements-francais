@@ -8,8 +8,6 @@ Pour les fonctionnaires titulaires et stagiaires du corps d'encadrement et d'app
 
 ― octroi des congés annuels ;
 
-― attribution des congés bonifiés ;
-
 ― autorisation d'accomplir un travail à temps partiel, renouvellement et réintégration à temps complet ;
 
 ― octroi ou renouvellement des congés ordinaires de maladie ;
