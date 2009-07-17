@@ -1,0 +1,3 @@
+# Article 12
+
+Les personnes mentionnées à l'article L. 561-2 du code monétaire et financier appliquent à leur clientèle existante en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna les nouvelles obligations de vigilance prévues aux articles L. 561-5 à L. 561-14 de ce même code, dans les meilleurs délais appréciés en fonction des risques et au plus tard dans un délai d'un an à compter de la publication des dernières dispositions réglementaires nécessaires pour rendre applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna la totalité des décrets prévus pour l'application de ces articles et, pour les relations d'affaires inactives, à leur première réactivation.
