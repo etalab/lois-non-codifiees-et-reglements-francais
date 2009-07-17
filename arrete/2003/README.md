@@ -234,7 +234,6 @@
 - [Arrêté du 8 avril 2003 (INTA0300196A)](arrete-du-8-avril-2003-inta0300196a)
 - [Arrêté du 8 avril 2003 (MENS0300779A)](arrete-du-8-avril-2003-mens0300779a)
 - [Arrêté du 8 avril 2003 (MENS0300781A)](arrete-du-8-avril-2003-mens0300781a)
-- [Arrêté du 8 avril 2003 (SANG0224373A)](arrete-du-8-avril-2003-sang0224373a)
 - [Arrêté du 8 avril 2003 (SANP0321340A)](arrete-du-8-avril-2003-sanp0321340a)
 - [Arrêté du 8 décembre 2003 (AGRA0302454A)](arrete-du-8-decembre-2003-agra0302454a)
 - [Arrêté du 8 décembre 2003 (AGRG0302548A)](arrete-du-8-decembre-2003-agrg0302548a)
