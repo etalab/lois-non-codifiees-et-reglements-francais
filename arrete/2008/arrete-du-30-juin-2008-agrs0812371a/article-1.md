@@ -1,6 +1,6 @@
 # Article 1
 
-La direction des pêches maritimes et de l'aquaculture comprend :
+La direction des pêches maritimes et de l'aquaculture comprend, sous l'autorité d'un directeur assisté d'un adjoint qui a rang de chef de service :
 
 1. La sous-direction des ressources halieutiques ;
 
