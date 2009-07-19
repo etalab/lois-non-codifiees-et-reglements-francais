@@ -600,7 +600,6 @@
 - [Arrêté du 21 janvier 2004 (SANY0420298A)](arrete-du-21-janvier-2004-sany0420298a)
 - [Arrêté du 21 juillet 2004 (EQUK0401087A)](arrete-du-21-juillet-2004-equk0401087a)
 - [Arrêté du 21 juillet 2004 (INDI0403527A)](arrete-du-21-juillet-2004-indi0403527a)
-- [Arrêté du 21 juillet 2004 (SOCF0411523A)](arrete-du-21-juillet-2004-socf0411523a)
 - [Arrêté du 21 juin 2004 (AGRE0401464A)](arrete-du-21-juin-2004-agre0401464a)
 - [Arrêté du 21 juin 2004 (DEVG0430199A)](arrete-du-21-juin-2004-devg0430199a)
 - [Arrêté du 21 juin 2004 (DEVP0430194A)](arrete-du-21-juin-2004-devp0430194a)
