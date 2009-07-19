@@ -6,6 +6,8 @@ Elle est chargée de :
 
 ― veiller à la mise en oeuvre et à la cohérence des politiques du personnel de l'armée de l'air ;
 
+- coordonner les actions de formation menées au profit du personnel de l'armée de l'air ;
+
 ― gérer les ressources financières mises à sa disposition ;
 
 ― proposer un avis sur les recours formés contre les décisions relevant des domaines de compétence de la direction des ressources humaines de l'armée de l'air ;
@@ -22,4 +24,6 @@ La sous-direction affaires générales comprend :
 
 ― le bureau systèmes d'information ;
 
-― le bureau gestion financière et précontentieux.
+― le bureau gestion financière et précontentieux ;
+
+- le bureau de la coordination de la formation.

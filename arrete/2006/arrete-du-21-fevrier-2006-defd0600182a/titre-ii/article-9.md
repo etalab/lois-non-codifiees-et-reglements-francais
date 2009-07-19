@@ -10,6 +10,6 @@ b) L'inspecteur du service de santé pour l'armée de l'air.
 
 2. Le service d'information et de relations publiques de l'armée de l'air dont les attributions sont précisées par une instruction particulière ;
 
-3. (Alinéa supprimé)
+3. Le délégué à la condition du personnel ;
 
-4. La musique de l'air.
+4. Le délégué au patrimoine.

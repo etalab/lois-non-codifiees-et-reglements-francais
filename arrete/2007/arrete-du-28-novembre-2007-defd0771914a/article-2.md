@@ -1,20 +1,16 @@
 # Article 2
 
-I. - Le directeur des ressources humaines de l'armée de l'air est assisté d'un officier général chargé de la gestion des hauts potentiels.
+I. - Le directeur des ressources humaines de l'armée de l'air dispose du conseiller pour le personnel civil.
 
-Il est conseillé par :
+Pour l'exercice de ses attributions, il est conseillé par :
 
-1. Le délégué aux réserves, placé auprès du major général de l'armée de l'air, pour le personnel de réserve ;
+1. Le délégué à la condition du personnel, placé auprès du chef d'état-major de l'armée de l'air ;
 
-2. Le conseiller pour le personnel civil.
+2. Le délégué aux réserves, placé auprès du major général de l'armée de l'air.
 
 II. - La direction des ressources humaines de l'armée de l'air comprend :
 
-1. Des bureaux directement rattachés au directeur :
-
-― le bureau politique des ressources humaines ;
-
-― le bureau affaires pénales militaires et affaires disciplinaires.
+1. Le bureau affaires pénales militaires et affaires disciplinaires, directement rattaché au directeur.
 
 2. Des sous-directions :
 
@@ -22,21 +18,23 @@ II. - La direction des ressources humaines de l'armée de l'air comprend :
 
 ― la sous-direction gestion des ressources ;
 
-― la sous-direction personnel dans l'armée de l'air et la société.
+- la sous-direction études, politique des ressources humaines et gestion des hauts potentiels ;
 
-3. Des organismes extérieurs dont les attributions sont fixées par instruction :
+- la sous-direction accompagnement.
 
-― les organismes de formation de l'armée de l'air, à l'exception de ceux relevant de commandements ou de directions de services ;
+3. Des organismes extérieurs relevant directement du directeur des ressources humaines, dont l'organisation et le fonctionnement sont fixés par instruction :
 
-― les bureaux de gestion déconcentrée du personnel civil ;
+- les organismes de formation de l'armée de l'air, à l'exception de ceux relevant de commandements ou de directions de service ;
 
-― le bureau des archives et des réserves de l'armée de l'air ;
+- les bureaux de gestion déconcentrée du personnel civil ;
 
-― le centre d'étude et de recherches psychologiques « air ».
+- le bureau des archives et des réserves de l'armée de l'air ;
+
+- le centre d'étude et de recherches psychologiques "air" .
 
 III. - Relèvent de la direction des ressources humaines de l'armée de l'air :
 
-1. Le cabinet du commandant des formations administratives et les unités chargées de la gestion et de l'administration du personnel au sein de ces mêmes formations ;
+1. Les cabinets des commandants des formations administratives et les unités chargées de la gestion et de l'administration du personnel au sein de ces mêmes formations ;
 
 2. Les formations musicales de l'armée de l'air.
 

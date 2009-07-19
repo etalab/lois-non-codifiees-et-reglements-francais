@@ -1,12 +1,12 @@
 # Article 9
 
-La sous-direction gestion des ressources est chargée de la mise en oeuvre de la gestion prévisionnelle des emplois, des effectifs et des compétences, pour le personnel civil et militaire, d'active ou de réserve de l'armée de l'air, à l'exception des commissaires de l'air et des maîtres ouvriers.
+La sous-direction gestion des ressources est chargée de la mise en oeuvre de la gestion prévisionnelle des emplois, des effectifs et des compétences, pour le personnel civil et militaire d'active de l'armée de l'air, à l'exception des commissaires de l'air et des maîtres ouvriers.
 
 A ce titre, elle est chargée :
 
 ― de mettre en oeuvre la politique de recrutement de l'armée de l'air ;
 
-― de gérer et d'administrer le personnel militaire de l'armée de l'air ;
+― de gérer et d'administrer le personnel militaire en activité de l'armée de l'air ;
 
 ― d'assurer la coordination avec les commandements et les services de l'armée de l'air ainsi qu'avec les organismes d'emploi extérieurs à l'armée de l'air en matière de gestion des ressources ;
 
@@ -20,8 +20,4 @@ La sous-direction gestion des ressources comprend :
 
 ― le bureau gestion administration ;
 
-― le bureau gestion des compétences ;
-
-― le bureau gestion de la réserve ;
-
-― le bureau air mobilité (reclassement reconversion).
+― le bureau gestion des compétences.
