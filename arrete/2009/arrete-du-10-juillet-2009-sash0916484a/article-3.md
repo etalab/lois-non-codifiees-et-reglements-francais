@@ -1,0 +1,3 @@
+# Article 3
+
+Pour l'année 2009, les coûts de fonctionnement des missions d'expertise et d'audit hospitaliers mentionnées à l'article 8-6 du décret du 21 décembre 2001 susvisé sont pris en charge par le fonds pour la modernisation des établissements de santé publics et privés à hauteur de 5,26 millions d'euros pour la mission nationale et à hauteur de 1,83 million d'euros pour l'ensemble des missions régionales ou interrégionales. En matière d'audits, les coûts des nouveaux engagements de 2009 sont pris en charge dans la limite de 16,02 M€ ; le plafond des versements du fonds pour l'exercice 2009 en matière d'audits engagés en 2009 et antérieurement est de 25,71 M€.

@@ -1,0 +1,3 @@
+# Article 2
+
+Pour l'année 2009, conformément aux dispositions de l'article 40-III ter modifié de la loi du 23 décembre 2000 et de l'article 2 du décret du 22 mai 2008 susvisés, les coûts de fonctionnement des missions de conception des modalités de financement des activités de soins des établissements de santé et de conduite des expérimentations prévues au I de l'article 77 de la loi n° 2006-1640 du 21 décembre 2006 de financement de la sécurité sociale pour 2007 exercées par l'agence technique de l'information sur l'hospitalisation sont pris en charge par le fonds pour la modernisation des établissements de santé publics et privés pour un montant de 3, 65 millions d'euros, dont 2, 35 millions d'euros au titre de son budget annexe.
