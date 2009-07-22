@@ -135,7 +135,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="center"> 5 ans</td>
 <td align="center">
-<p> CCI de Quimper-Cornouaille, école Klaxon </p>
+<p> Ecole Klaxon </p>
 <p>rouge. </p>
 </td>
 </tr>
