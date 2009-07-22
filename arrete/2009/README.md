@@ -363,6 +363,7 @@
 - [Arrêté du 8 juin 2009 (SASG0908217A)](arrete-du-8-juin-2009-sasg0908217a)
 - [Arrêté du 8 mars 1999 (DEFD9901213A)](arrete-du-8-mars-1999-defd9901213a)
 - [Arrêté du 8 novembre 1999 (AGRM9901327A)](arrete-du-8-novembre-1999-agrm9901327a)
+- [Arrêté du 8 septembre 2003 (SOCF0311427A)](arrete-du-8-septembre-2003-socf0311427a)
 - [Arrêté du 9 avril 2009 (BCFD0908454A)](arrete-du-9-avril-2009-bcfd0908454a)
 - [Arrêté du 9 avril 2009 (DEFH0908401A)](arrete-du-9-avril-2009-defh0908401a)
 - [Arrêté du 9 avril 2009 (DEVE0908173A)](arrete-du-9-avril-2009-deve0908173a)
