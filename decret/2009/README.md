@@ -531,6 +531,7 @@
 - [Décret n°2009-75 du 20 janvier 2009 (ECEA0831539D)](decret-n2009-75-du-20-janvier-2009-ecea0831539d)
 - [Décret n°2009-76 du 20 janvier 2009 (ECEL0830129D)](decret-n2009-76-du-20-janvier-2009-ecel0830129d)
 - [Décret n°2009-77 du 20 janvier 2009 (SJSP0824284D)](decret-n2009-77-du-20-janvier-2009-sjsp0824284d)
+- [Décret n°2009-878 du 20 juillet 2009 (MTSX0914888D)](decret-n2009-878-du-20-juillet-2009-mtsx0914888d)
 - [Décret du 20 mai 2009 (DEVN0910122D)](decret-du-20-mai-2009-devn0910122d)
 - [Décret n°2009-554 du 20 mai 2009 (PRMX0906893D)](decret-n2009-554-du-20-mai-2009-prmx0906893d)
 - [Décret n°2009-560 du 20 mai 2009 (ECED0901854D)](decret-n2009-560-du-20-mai-2009-eced0901854d)
