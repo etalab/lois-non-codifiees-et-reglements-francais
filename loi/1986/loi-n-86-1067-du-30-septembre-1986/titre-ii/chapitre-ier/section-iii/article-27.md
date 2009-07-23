@@ -16,7 +16,9 @@ En matière audiovisuelle, cette contribution porte, entièrement ou de manière
 
 4° L'acquisition des droits de diffusion, selon les différents modes d'exploitation, et la limitation de la durée de ces droits lorsqu'ils sont exclusifs. Pour les oeuvres cinématographiques diffusées en première exclusivité, la durée des droits exclusifs peut varier en fonction de la nature et du montant de la contribution au développement de la production ;
 
-5° Le régime de diffusion des oeuvres cinématographiques de longue durée et, en particulier, la fixation d'un nombre maximal annuel de diffusions et de rediffusions et la grille horaire de programmation de ces oeuvres.
+5° Le régime de diffusion des oeuvres cinématographiques de longue durée et, en particulier, la fixation d'un nombre maximal annuel de diffusions et de rediffusions et la grille horaire de programmation de ces oeuvres ;
+
+6° Le maintien à niveau sonore constant des séquences publicitaires ainsi que des écrans qui les précèdent et qui les suivent.
 
 Ces décrets peuvent fixer des règles différentes selon que la diffusion a lieu en clair ou fait appel à une rémunération de la part des usagers, ou selon l'étendue de la zone géographique desservie et pourront prévoir une application progressive en fonction du développement de la télévision numérique de terre. Ils peuvent également définir des obligations adaptées à la nature particulière des services de médias audiovisuels à la demande et les exonérer de l'application de certaines des règles prévues pour les autres services.
 

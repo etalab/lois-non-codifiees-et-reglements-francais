@@ -5,3 +5,5 @@ La mise à disposition est la situation du fonctionnaire qui demeure dans son co
 Elle ne peut avoir lieu qu'avec l'accord du fonctionnaire et doit être prévue par une convention conclue entre l'administration d'origine et l'organisme d'accueil.
 
 Le fonctionnaire peut être mis à disposition auprès d'un ou de plusieurs organismes pour y effectuer tout ou partie de son service.
+
+Par dérogation aux dispositions du deuxième alinéa, en cas de transfert ou de regroupement d'activités impliquant plusieurs établissements mentionnés à l'article 2, les fonctionnaires et agents concernés sont de plein droit mis à disposition du ou des établissements assurant la poursuite de ces activités, sur décision de l'autorité investie du pouvoir de nomination. Une convention est alors signée entre l'administration d'origine et l'organisme d'accueil.

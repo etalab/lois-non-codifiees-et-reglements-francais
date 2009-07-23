@@ -16,4 +16,6 @@ Les dispositions du présent titre s'appliquent aux personnes qui, régies par l
 
 7° Centre d'accueil et de soins hospitaliers de Nanterre.
 
-Les dispositions du présent titre ne s'appliquent pas aux médecins, biologistes, pharmaciens et odontologistes mentionnés aux 2° et 3° ainsi qu'à l'avant-dernier alinéa de l'article L. 714-27 du code de la santé publique.
+Le présent titre ne s'applique pas aux médecins, odontologistes et pharmaciens mentionnés aux 1° à 4° de l'article L. 6152-1 du code de la santé publique.
+
+Les structures de coopération de droit public auxquelles adhèrent un ou plusieurs établissements mentionnés au présent article peuvent être assujetties, pour les personnels qu'elles rémunèrent, aux dispositions prévues aux articles 21 et 22 de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires, aux 6°, 6° bis et 6° ter de l'article 41 et à l'article 116-1 de la présente loi, aux articles 21 et 22 de la loi n° 90-579 du 4 juillet 1990 relative au crédit-formation, à la qualité et au contrôle de la formation professionnelle continue et modifiant le livre IX du code du travail, ainsi qu'aux dispositions du II de l'article 16 de l'ordonnance n° 2005-406 du 2 mai 2005 simplifiant le régime juridique des établissements de santé.

@@ -12,14 +12,14 @@ Au premier tour de scrutin, les listes sont présentées par les organisations s
 
 Pour l'application des dispositions de l'alinéa précédent, sont regardées comme représentatives :
 
-- 1° Les organisations syndicales de fonctionnaires régulièrement affiliées à une union de syndicats remplissant les conditions définies à l'article 9 bis de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires ;
+-1° Les organisations syndicales de fonctionnaires régulièrement affiliées à une union de syndicats remplissant les conditions définies à l'article 9 bis de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires ;
 
-- 2° Et les organisations syndicales de fonctionnaires satisfaisant, dans le cadre où est organisée l'élection, aux dispositions de l'article L. 133-2 du code du travail.
+-2° Et les organisations syndicales de fonctionnaires satisfaisant, dans le cadre où est organisée l'élection, aux dispositions de l'article L. 133-2 du code du travail.
 
 Les organisations affiliées à une même union ne peuvent présenter des listes concurrentes à une même élection. Les conditions d'application du présent alinéa sont fixées en tant que de besoin par un décret en Conseil d'Etat.
 
-Les contestations sur la recevabilité des listes déposées sont portées devant le tribunal administratif compétent dans les trois jours qui suivent la date limite du dépôt des candidatures. Le tribunal administratif statue dans les quinze jours qui suivent le dépôt de la requête. L'appel n'est pas suspensif.
+Les contestations sur la recevabilité des listes déposées sont portées devant le tribunal administratif compétent dans les trois jours qui suivent la date limite du dépôt des candidatures. Le tribunal administratif statue dans les quinze jours qui suivent le dépôt de la requête.L'appel n'est pas suspensif.
 
 Les représentants du personnel à l'assemblée délibérante ne peuvent être désignés en qualité de représentants de l'administration aux commissions administratives paritaires.
 
-Les commissions administratives paritaires nationales et départementales sont présidées par l'autorité administrative de l'Etat. Les commissions administratives paritaires locales sont présidées par le président de l'assemblée délibérante ou son représentant.
+Les commissions administratives paritaires nationales sont présidées par l'autorité administrative de l'Etat. Les commissions administratives paritaires départementales sont présidées par le président de l'assemblée délibérante de l'établissement public de santé dont le directeur assure la gestion conformément à la deuxième phrase du premier alinéa de l'article 18. Les commissions administratives paritaires locales sont présidées par le président de l'assemblée délibérante ou son représentant.

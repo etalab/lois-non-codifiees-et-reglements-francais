@@ -10,9 +10,9 @@ A ce titre, il participe au financement :
 
 2° Des actions de modernisation sociale, notamment celles figurant dans le volet social des contrats d'objectifs et de moyens ;
 
-3° Des aides individuelles destinées à favoriser la mobilité et l'adaptation des personnels des établissements engagés dans des opérations de recomposition et de modernisation.
+3° Des aides individuelles destinées à favoriser la mobilité et l'adaptation des personnels des établissements engagés dans des opérations de recomposition et de modernisation ou membres de communautés hospitalières de territoire mentionnées à l'article L. 6132-1 du même code.
 
-III.-Ce fonds finance des dépenses d'investissement et de fonctionnement des établissements de santé et des groupements de coopération sanitaire au moyen de subventions ou d'avances remboursables, dans le cadre d'opérations de modernisation et de restructuration de ces établissements et groupements ou de réorganisation de l'offre de soins.
+III.-Ce fonds finance des dépenses d'investissement et de fonctionnement des établissements de santé et des groupements de coopération sanitaire au moyen de subventions ou d'avances remboursables, dans le cadre d'opérations de modernisation et de restructuration de ces établissements et groupements, de réorganisation de l'offre de soins ou de création de communautés hospitalières de territoire mentionnées au même article L. 6132-1
 
 Il peut également financer des dépenses d'investissement d'établissements hospitaliers de coopération transfrontalière destinés à accueillir des patients résidant en France, ayant fait l'objet d'un accord avec le Gouvernement de la République française et dont les missions sont celles d'un établissement de santé tel que défini par le code de la santé publique. Ces établissements doivent répondre à des besoins de santé fixés par le schéma régional d'organisation sanitaire de la région frontalière.
 
