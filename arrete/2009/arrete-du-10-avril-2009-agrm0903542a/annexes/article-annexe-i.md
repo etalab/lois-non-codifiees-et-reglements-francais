@@ -48,7 +48,7 @@ ET LE TRANSBORDEMENT DE THON ROUGE
 </tr>
 <tr>
 <td width="628">
-<p>Corse : Ajaccio, Bastia</p>
+<p>Corse : Ajaccio, Bastia, Calvi</p>
 </td>
 </tr>
 <tr>

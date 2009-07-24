@@ -1,25 +1,32 @@
 # Article Annexe V
 
-MODÈLE DE DEMANDE D'AUTORISATION DE TRANSFERT ÉTABLIE PAR LE CAPITAINE DU NAVIRE DE PÊCHE AYANT EFFECTUÉ LA CAPTURE (CONFORME À L'ARTICLE 19, ALINÉAS 3 ET 4, DU RÈGLEMENT [CE] N° 1559/2007 DU 17 DÉCEMBRE 2007)
+MODÈLE DE DEMANDE D'AUTORISATION DE TRANSFERT ÉTABLIE PAR LE CAPITAINE DU NAVIRE DE CAPTURE SUR LE QUOTA DUQUEL EST DECOMPTEE LA CAPTURE (CONFORME À L'ARTICLE 22 DU RÈGLEMENT [CE] N° 302/2009 DU 6 AVRIL 2009)
 
 <table>
 <tbody>
 <tr>
 <td width="680">
-<p align="center">DEMANDE D'AUTORISATION DE TRANSFERT</p>
+<p align="center">DEMANDE D'AUTORISATION PREALABLE DE TRANSFERT</p>
 <p align="center">A TRANSMETTRE 6 HEURES AVANT L'HEURE DE TRANSBORDEMENT SOUHAITE</p>
 <p align="center">AU CSP DU CROSS ETEL</p>
 </td>
 </tr>
 <tr>
 <td width="680">
-<p>Nom du navire de pêche français ayant effectué la capture, numéro d'immatriculation et numéro d'inscription au registre de la CICTA des navires autorisés à pêcher du thon rouge :</p>
+<p>Nom du navire de capture français demandant l'autorisation préalable de transfert, numéro d'immatriculation et numéro d'inscription au registre de la CICTA des navires autorisés à pêcher du thon rouge :</p>
 <p>...........................................................................................................</p>
 </td>
 </tr>
 <tr>
 <td width="680">
-<p>Nom du remorqueur, numéro d'immatriculation, pavillon et numéro d'inscription au registre de la CICTA des navires autorisés à pêcher du thon rouge :</p>
+<p>Nom du navire de capture ayant effectué la capture et devant réaliser le transfert, numéro d'immatriculation, pavillon et numéro d'inscription au registre de la CICTA des navires autorisés à pêcher du thon rouge :</p>
+<p>............................................................................................................</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Nom du remorqueur, numéro d'immatriculation, pavillon et numéro d'inscription au registre de la CICTA des navires </p>
+<p>autorisés à pêcher du thon rouge :</p>
 <p>............................................................................................................</p>
 </td>
 </tr>
@@ -84,7 +91,7 @@ MODÈLE DE DEMANDE D'AUTORISATION DE TRANSFERT ÉTABLIE PAR LE CAPITAINE DU NAVI
 </tr>
 <tr>
 <td width="680">
-<p>Demande à transmettre au CSP du CROSS Etel par télex (422) 95 18 92), courrier électronique cs - france.cross-etel@developpement-durable.gouv.fr) ou télécopie (33 (0)2 97 55 23 75) 6 heures avant l'heure de transfert souhaité.</p>
+<p>Demande à transmettre au CSP du CROSS Etel par télex (422) 95 18 92), courrier électronique (csp-france.cross-etel@developpement-durable.gouv.fr) ou télécopie (33 (0)2 97 55 23 75) 6 heures avant l'heure de transfert souhaité.</p>
 </td>
 </tr>
 </tbody>
