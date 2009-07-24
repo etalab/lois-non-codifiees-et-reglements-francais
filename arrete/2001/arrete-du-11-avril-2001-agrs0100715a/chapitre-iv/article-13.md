@@ -64,8 +64,14 @@ Pour l'inscription en deuxième section, le candidat doit justifier d'une durée
 
 Par dérogation à ce qui précède, peut être inscrit sur cette liste, au titre de la deuxième section, le candidat titulaire de l'un des diplômes prévus pour l'accès au second concours d'entrée à l'Ecole nationale supérieure de sécurité sociale et qui justifie en outre avoir tenu un emploi d'encadrement dans un ou plusieurs des organismes mentionnés à l'article 12, pendant une durée minimale de 5 ans.
 
-3o Les emplois d'agent de direction et d'agent comptable dans les associations ou les groupements d'intérêt économique créés entre les caisses de mutualité sociale agricole.
+3° Les emplois d'agent de direction et d'agent comptable dans les associations ou les groupements d'intérêt économique créés entre les caisses de mutualité sociale agricole.
 
 Pour l'inscription aux emplois de direction dans ces organismes, le candidat devra justifier d'une qualification et d'une expérience professionnelles dans les mêmes domaines d'activité que ceux concernés par les associations ou les groupements d'intérêt économique susvisés pendant une durée minimale fixée respectivement à 10 ans pour l'inscription sur la première liste, à 7 ans pour l'inscription sur les deuxième et troisième listes et à 5 ans pour l'inscription sur la quatrième liste.
 
 Ces compétences et cette expérience seront appréciées, au vu des éléments du dossier, par la commission chargée d'établir la liste d'aptitude.
+
+Par dérogation aux dispositions prévues aux c des 1° à 3°, pour être nommé sur un premier emploi d'agent comptable d'un organisme de sécurité sociale mentionné à l'article R. 123-45, un candidat inscrit sur la troisième liste doit répondre à l'une des deux conditions suivantes prévues aux 1° et 2° de l'article R. 123-47-1 :
+
+- soit justifier de l'option comptable pour les anciens élèves de l'Ecole nationale supérieure de sécurité sociale ;
+
+- soit justifier dans des conditions précisées par arrêté conjoint du ministre chargé de l'agriculture et du ministre chargé de la sécurité sociale d'une expérience ou d'un diplôme dans ce domaine ainsi que de l'attestation de formation prévue à l'article 12 délivrée par l'Ecole nationale supérieure de sécurité sociale.

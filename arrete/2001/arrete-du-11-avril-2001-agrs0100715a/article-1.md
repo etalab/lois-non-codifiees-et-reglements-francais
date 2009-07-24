@@ -1,6 +1,6 @@
 # Article 1
 
-Pris en application de l'article R. 123-45 du code de la sécurité sociale, le présent arrêté détermine les conditions d'inscription sur la liste d'aptitude aux emplois de direction suivants : directeur, directeur adjoint, agent comptable, sous-directeur, secrétaire général, dans les organismes de mutualité sociale agricole.
+Pris en application des articles R. 123-45 à R. 123-47-3 du code de la sécurité sociale, le présent arrêté détermine les conditions d'inscription sur la liste d'aptitude aux emplois de direction suivants : directeur, directeur adjoint, agent comptable, sous-directeur, secrétaire général, dans les organismes de mutualité sociale agricole.
 
 Ces organismes sont classés en trois catégories :
 

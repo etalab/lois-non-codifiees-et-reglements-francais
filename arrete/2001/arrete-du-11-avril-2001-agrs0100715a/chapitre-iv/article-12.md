@@ -10,17 +10,11 @@ Par dérogation aux dispositions qui précèdent, la durée d'activité, telle q
 
 -soit dans un emploi de cadre dirigeant dans des institutions de prévoyance ou de retraite complémentaire, des mutuelles ou des associations reconnues d'intérêt général ou d'utilité publique, ou des organismes mentionnés à l'article L. 313-3 et au livre V du code rural ;
 
--soit dans un emploi de cadre dirigeant dans un organisme visé à l'article 1er du décret n° 86-83 du 17 janvier 1986 ;
-
 -soit dans un emploi nécessitant des compétences techniques de haut niveau dans un autre organisme,
 
 sera appréciée, au vu des éléments du dossier, par la commission chargée d'établir la liste d'aptitude. Pour les candidats de la 1re section non diplômés de l'Ecole nationale supérieure de sécurité sociale, la durée d'activité exercée dans les emplois précités peut être prise en compte par la commission dans la limite de 18 mois en vue de l'application de l'article 13.
 
-A l'exception des anciens élèves du Ecole nationale supérieure de sécurité sociale , les candidats doivent, en outre :
-
--être âgés de trente-cinq ans au moins au 1er janvier de l'année pour laquelle la liste est établie ;
-
--avoir obtenu l'attestation de formation délivrée à l'issue du parcours de formation effectué à l'Ecole nationale supérieure de sécurité sociale. Cette condition n'est pas exigée, d'une part, pour l'inscription sur la quatrième liste d'aptitude des candidats exerçant leur activité dans un organisme visé à l'article R. 111-1 du code de la sécurité sociale et, d'autre part, pour l'inscription sur une liste d'aptitude à un emploi de direction d'un organisme de catégorie C.
+A l'exception des anciens élèves de l'Ecole nationale supérieure de sécurité sociale, les candidats doivent en outre avoir obtenu l'attestation de formation délivrée à l'issue du parcours de formation effectué à l'Ecole nationale supérieure de sécurité sociale. Cette condition n'est pas exigée, d'une part, pour l'inscription sur la quatrième liste d'aptitude des candidats exerçant leur activité dans un organisme visé à l'article R. 111-1 du code de la sécurité sociale et, d'autre part, pour l'inscription sur une liste d'aptitude à un emploi de direction d'un organisme de catégorie C.12.
 
 Sont également dispensés de la production de l'attestation de formation :
 

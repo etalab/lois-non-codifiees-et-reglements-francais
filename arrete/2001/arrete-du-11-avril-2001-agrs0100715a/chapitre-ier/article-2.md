@@ -6,9 +6,9 @@ La composition de la commission, présidée par un membre du Conseil d'Etat ou u
 
 1. Représentants de l'administration :
 
-a) Le directeur des exploitations, de la politique sociale et de l'emploi au ministère de l'agriculture et de la pêche ou son représentant ;
+a) Le directeur du service des affaires financières, sociales et logistiques ou son représentant ;
 
-b) Le chef du bureau du contrôle des organismes de protection sociale à la direction des exploitations, de la politique sociale et de l'emploi ou son représentant ;
+b) Le chef du bureau des organismes de protection sociale agricole ou son représentant ;
 
 c) Un chef de service régional de l'inspection du travail, de l'emploi et de la politique sociale agricoles ou son représentant.
 
