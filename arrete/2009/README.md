@@ -1393,7 +1393,6 @@
 - [Arrêté du 25 juin 2009 (ECED0914153A)](arrete-du-25-juin-2009-eced0914153a)
 - [Arrêté du 25 juin 2009 (IMIK0913370A)](arrete-du-25-juin-2009-imik0913370a)
 - [Arrêté du 25 juin 2009 (IOCC0914730A)](arrete-du-25-juin-2009-iocc0914730a)
-- [Arrêté du 25 juin 2009 (SASG0908864A)](arrete-du-25-juin-2009-sasg0908864a)
 - [Arrêté du 25 mars 2004 (DEVN0430016A)](arrete-du-25-mars-2004-devn0430016a)
 - [Arrêté du 25 mars 2009 (AGRG0906295A)](arrete-du-25-mars-2009-agrg0906295a)
 - [Arrêté du 25 mars 2009 (AGRG0907165A)](arrete-du-25-mars-2009-agrg0907165a)
