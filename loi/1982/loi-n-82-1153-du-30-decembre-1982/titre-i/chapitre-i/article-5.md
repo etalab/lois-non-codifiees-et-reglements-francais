@@ -14,7 +14,7 @@ c) Le développement de l'information sur le système de transports ;
 
 d) Le développement de la recherche, des études et des statistiques de nature à faciliter la réalisation des objectifs assignés au système de transports ;
 
-e) L'organisation du transport public.
+e) L'organisation du transport public. Sont considérées comme des transports de marchandises les opérations de transport effectuées dans le cadre d'un déménagement.
 
 L'exécution de ces missions est assurée par l'Etat, les collectivités territoriales et leurs établissements publics en liaison avec les entreprises privées ou publiques qui en sont chargées ou qui y participent en vertu des dispositions de la présente loi.
 
