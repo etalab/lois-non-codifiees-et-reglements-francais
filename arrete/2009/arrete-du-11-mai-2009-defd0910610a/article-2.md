@@ -28,11 +28,13 @@ k) Patrimoine archéologique sous-marin et biens culturels maritimes ;
 
 l) Pêches maritimes ;
 
-m) Recherche ;
+m) Ports et navigation maritime ;
 
-n) Sécurité civile et gestion des crises ;
+n) Recherche ;
 
-o) Tourisme.
+o) Sécurité civile et gestion des crises ;
+
+p) Tourisme.
 
 2. Les autorités ci-après ou leurs représentants respectifs :
 
@@ -74,19 +76,21 @@ j) L'Union nationale des associations de navigateurs ;
 
 k) France Télécom ;
 
-l) L'Institut français de recherche scientifique pour le développement en coopération ;
+l) L'Institut français de recherche pour l'exploitation de la mer ;
 
-m) L'Institut français de navigation ;
+m) L'Institut français de recherche scientifique pour le développement en coopération ;
 
-n) L'Institut français du pétrole ;
+n) L'Institut français de navigation ;
 
-o) L'Institut Paul-Emile Victor ;
+o) L'Institut français du pétrole ;
 
-p) L'Institut géographique national ;
+p) L'Institut Paul-Emile Victor ;
 
-q) Météo-France ;
+q) L'Institut géographique national ;
 
-r) La Fédération des industries nautiques.
+r) Météo-France ;
+
+s) La Fédération des industries nautiques.
 
 4. Les personnalités qualifiées suivantes :
 

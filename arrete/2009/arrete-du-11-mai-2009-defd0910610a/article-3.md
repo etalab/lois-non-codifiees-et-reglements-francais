@@ -6,7 +6,7 @@ Le comité se réunit une fois par an sur convocation de son président, qui arr
 
 Les membres du comité peuvent être assistés d'experts en fonction de l'ordre du jour de la séance.
 
-Le directeur général du SHOM assiste aux séances avec voix consultative.
+Le directeur général du SHOM ou son représentant assiste aux séances avec voix consultative.
 
 Le comité peut, à l'initiative de son président, organiser des commissions thématiques permanentes ou temporaires chargées de préparer ses délibérations.
 
