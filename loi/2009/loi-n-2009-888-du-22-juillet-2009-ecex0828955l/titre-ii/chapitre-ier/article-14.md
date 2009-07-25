@@ -1,0 +1,3 @@
+# Article 14
+
+Deux ans après la promulgation de la présente loi, le Gouvernement dépose sur le bureau de l'Assemblée nationale et du Sénat un rapport relatif au classement dans l'ensemble des hébergements touristiques marchands. Les conclusions de ce rapport permettront, le cas échéant, de rendre obligatoire le classement prévu aux articles L. 311-6, L. 321-1, L. 323-1, L. 324-1, L. 324-3-1, L. 325-1, L. 332-1 et L. 333-1 du code du tourisme, en fonction de l'évolution du nombre d'établissements classés au sein de chaque catégorie d'hébergement concernée. Elles permettront également d'évaluer l'efficacité de la procédure de classement mise en place par les articles 10 et 12 de la présente loi.

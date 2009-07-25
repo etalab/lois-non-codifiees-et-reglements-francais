@@ -621,6 +621,7 @@
 - [Décret n°2009-78 du 22 janvier 2009 (DEVT0900118D)](decret-n2009-78-du-22-janvier-2009-devt0900118d)
 - [Décret n°2009-86 du 22 janvier 2009 (IOCD0828833D)](decret-n2009-86-du-22-janvier-2009-iocd0828833d)
 - [Décret n°2009-87 du 22 janvier 2009 (AGRF0816834D)](decret-n2009-87-du-22-janvier-2009-agrf0816834d)
+- [Décret n°2009-890 du 22 juillet 2009 (ECEI0905817D)](decret-n2009-890-du-22-juillet-2009-ecei0905817d)
 - [Décret n°2009-213 du 23 février 2009 (SJSH0830762D)](decret-n2009-213-du-23-fevrier-2009-sjsh0830762d)
 - [Décret n°2009-214 du 23 février 2009 (IOCD0825236D)](decret-n2009-214-du-23-fevrier-2009-iocd0825236d)
 - [Décret n°2009-215 du 23 février 2009 (ECED0827628D)](decret-n2009-215-du-23-fevrier-2009-eced0827628d)
