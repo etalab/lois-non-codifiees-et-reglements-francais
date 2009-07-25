@@ -114,6 +114,16 @@ Paris-Salvador de Bahia.
 
 Paris-São Paulo.
 
+Paris - Belém ;
+
+Paris - Campinas ;
+
+Paris - Palmas.
+
+Thaïlande :
+
+Paris - Trat.
+
 Bulgarie (jusqu'au 31 décembre 2012)
 
 Paris-Sofia.
