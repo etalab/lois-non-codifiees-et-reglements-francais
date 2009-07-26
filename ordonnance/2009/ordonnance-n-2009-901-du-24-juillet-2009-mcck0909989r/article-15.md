@@ -1,0 +1,3 @@
+# Article 15
+
+Les éditeurs de vidéogrammes qui, à la date de publication de la présente ordonnance, ont déclaré leur activité auprès du Centre national de la cinématographie en vertu de l'article 52 de la loi n° 85-660 du 3 juillet 1985 relative aux droits d'auteur et aux droits des artistes-interprètes, des producteurs de phonogrammes et de vidéogrammes et des entreprises de communication audiovisuelle sont dispensés de faire enregistrer une déclaration auprès du Centre national du cinéma et de l'image animée en application des articles L. 221-1 et L. 221-2 du code du cinéma et de l'image animée.

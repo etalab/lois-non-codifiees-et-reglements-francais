@@ -1,0 +1,3 @@
+# Article 10
+
+Les habilitations délivrées en application de l'article 16 du code de procédure pénale aux officiers de police judiciaire affectés à un emploi comportant l'exercice desdites attributions au sein des sûretés départementales, des compagnies de sécurisation et des circonscriptions de sécurité publique des départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne et, à Paris, de la direction de la police urbaine de proximité de la préfecture de police antérieurement à l'intervention du présent décret continueront à produire leurs effets pendant un délai de six mois à compter de la publication du présent décret au Journal officiel de la République française.
