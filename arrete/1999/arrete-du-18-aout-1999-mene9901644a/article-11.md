@@ -1,6 +1,6 @@
 # Article 11
 
-Le brevet est attribué dans les conditions fixées à l'article 12 :
+Le diplôme national du brevet est attribué dans les conditions fixées à l'article 12 :
 
 - aux candidats scolarisés en classe de troisième dans des établissements non visés à l'article 3 ;
 
