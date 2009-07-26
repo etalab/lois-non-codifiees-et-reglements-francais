@@ -6,7 +6,7 @@ I.-Le ministre du travail, des relations sociales, de la famille, de la solidari
 
 -la direction de l'administration générale et de la modernisation des services ;
 
--la         secrétariat général du comité interministériel des villes ;
+-le secrétariat général du comité interministériel des villes ;
 
 -la délégation interministérielle à la famille ;
 
@@ -32,7 +32,7 @@ III.-Conjointement avec le ministre de la santé et des sports, il a autorité s
 
 -la délégation à l'information et à la communication.
 
-IV.-Conjointement avec le ministre du logement, il a autorité sur la direction générale de l'action sociale.
+IV.-Conjointement avec le ministre d'Etat, ministre de l'écologie, de l'énergie, du développement durable et de la mer, en charge des technologies vertes et des négociations sur le climat, il a autorité sur la direction générale de l'action sociale.
 
 V.-Conjointement avec le ministre de la santé et des sports et le ministre du budget, des comptes publics et de la fonction publique, il a autorité sur la direction de la sécurité sociale et la direction de la recherche, des études, de l'évaluation et des statistiques.
 
