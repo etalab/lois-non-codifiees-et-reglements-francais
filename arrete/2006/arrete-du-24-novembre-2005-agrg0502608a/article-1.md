@@ -12,4 +12,16 @@ Au sens du présent arrêté, on entend par :
 
 - porcin : animal de la famille des suidés et du genre Sus, de l'espèce Sus scrofa et qui comprend notamment le sanglier Sus scrofa scrofa et le porc domestique Sus scrofa domesticus ainsi que leurs croisements, à l'exclusion des animaux de parcs zoologiques, qui relèvent d'une réglementation particulière ;
 
-- porcin reproducteur (ou porcin d'élevage) : porcin utilisé en vue de la multiplication de l'espèce.
+- porcin reproducteur (ou porcin d'élevage) : porcin utilisé en vue de la multiplication de l'espèce ;
+
+- notification de mouvements : transmission à l'autorité compétente des informations décrivant un mouvement de porcins entre un site d'élevage ou une exploitation de départ et un site d'élevage ou une exploitation d'arrivée, en vue de leur saisie dans la base de données nationale d'identification des porcins ;
+
+- tournée : ensemble de chargements et de déchargements de porcins réalisé au sein d'un véhicule. Une tournée débute au premier chargement de porcins dans le véhicule vide et se termine au dernier déchargement, le véhicule étant obligatoirement vide ;
+
+- délégation : le fait de confier la réalisation de la notification des mouvements à un tiers. Le détenteur des animaux reste responsable de la notification ;
+
+- délégataire : tout tiers à qui il a été confié, par délégation, la réalisation de la notification de mouvements ;
+
+- délégant : tout détenteur qui a délégué la réalisation de la notification des mouvements à un tiers ;
+
+- opérateur de transport : tout donneur d'ordre/commanditaire de transport de porcins (organisation de producteurs, abattoir, organisme de sélection porcine, centre d'insémination artificielle, négociant, éleveur lui-même).
