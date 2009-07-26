@@ -14,7 +14,6 @@
 - [Décret n°58-596 du 12 juillet 1958](decret-n58-596-du-12-juillet-1958)
 - [Décret n°54-837 du 14 août 1954](decret-n54-837-du-14-aout-1954)
 - [Décret n°58-436 du 14 avril 1958](decret-n58-436-du-14-avril-1958)
-- [Décret n°58-441 du 14 avril 1958](decret-n58-441-du-14-avril-1958)
 - [Décret n°58-873 du 16 septembre 1958](decret-n58-873-du-16-septembre-1958)
 - [Décret n°58-1239 du 17 décembre 1958](decret-n58-1239-du-17-decembre-1958)
 - [Décret n°58-757 du 20 août 1958](decret-n58-757-du-20-aout-1958)

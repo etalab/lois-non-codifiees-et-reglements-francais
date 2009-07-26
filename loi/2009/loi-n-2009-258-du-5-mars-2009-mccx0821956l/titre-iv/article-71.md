@@ -4,7 +4,7 @@ I. ― Dans les conditions prévues par l'article 38 de la Constitution, le Gouv
 
 1° Nécessaires pour regrouper au sein d'un code l'ensemble des textes de valeur législative, codifiés ou non, relatifs aux domaines du cinéma et des autres arts et industries de l'image animée et procéder aux abrogations rendues nécessaires ;
 
-2° Relatives au Centre national de la cinématographie, dont la dénomination pourra être modifiée, et nécessaires pour :
+2° Relatives au    Centre national du cinéma et de l'image animée, dont la dénomination pourra être modifiée, et nécessaires pour :
 
 a) Clarifier son statut et actualiser ses missions dans les secteurs du cinéma et des autres arts et industries de l'image animée, en distinguant entre les missions que l'établissement public administratif exerce, en qualité d'opérateur de l'Etat, sous la tutelle du ministre chargé de la culture et les prérogatives de puissance publique exercées, à titre personnel et sous l'autorité directe du ministre chargé de la culture, par son président ;
 
@@ -26,9 +26,9 @@ c) Actualiser et clarifier les règles relatives au contrôle des recettes d'exp
 
 5° Relatives au financement du cinéma et des autres arts et industries de l'image animée et nécessaires pour :
 
-a) Confier au Centre national de la cinématographie le recouvrement direct de la taxe sur les éditeurs et distributeurs de services de télévision prévue aux articles 302 bis KB et 302 bis KC du code général des impôts ;
+a) Confier au    Centre national du cinéma et de l'image animée le recouvrement direct de la taxe sur les éditeurs et distributeurs de services de télévision prévue aux articles 302 bis KB et 302 bis KC du code général des impôts ;
 
-b) Confier au conseil d'administration du Centre national de la cinématographie la détermination des conditions générales d'attribution des soutiens financiers au cinéma et aux autres arts et industries de l'image animée ;
+b) Confier au conseil d'administration du    Centre national du cinéma et de l'image animée la détermination des conditions générales d'attribution des soutiens financiers au cinéma et aux autres arts et industries de l'image animée ;
 
 c) Actualiser le régime d'affectation prioritaire du soutien financier à la production cinématographique au désintéressement de certains créanciers et en accroître l'efficacité ;
 

@@ -1,23 +1,19 @@
 # Article 11
 
-I. LA TAXE SUR LA VALEUR AJOUTEE EST PERCUE AU TAUX MAJORE SUR LES CESSIONS DE DROITS PORTANT SUR LES FILMS PORNOGRAPHIQUES OU D'INCITATION A LA VIOLENCE, AINSI QUE SUR LES DROITS D'ENTREE POUR LES SEANCES AU COURS DESQUELLES CES FILMS SONT PROJETES .
+I (Abrogé)
 
-La taxe au taux majoré s'applique indépendamment des exonérations ou des réductions de taux prévues par les dispositions législatives en vigueur. L'augmentation de charge fiscale qui résulte de l'application de ce taux n'est pas prise en compte pour le calcul de la compensation instituée par l'article 20-V de la loi de finances pour 1970 du 24 décembre 1969.
+II. 1 (Abrogé).
 
-II. 1. IL EST INSTITUE UN PRELEVEMENT SPECIAL DE 20 P. 100 SUR LA FRACTION DES BENEFICES INDUSTRIELS ET COMMERCIAUX IMPOSABLES A L'IMPOT SUR LES SOCIETES OU A L'IMPOT SUR LE REVENU QUI RESULTE DE LA PRODUCTION, DE LA DISTRIBUTION OU DE LA REPRESENTATION DE FILMS PORNOGRAPHIQUES OU D'INCITATION A LA VIOLENCE .
+2. Les films pornographiques ou d'incitation à la violence au sens du I ci-dessus, qui ne sont pas soumis aux procédures d'agrément prévues en matière de soutien financier de l'Etat à l'industrie cinématographique ou qui sont produits par des entreprises non établies en France, donnent lieu au versement par les distributeurs d'une taxe spéciale dont le montant est fixé forfaiterement à une somme de 300 000 F pour les films de long métrage et à une somme de 150 000 F pour les films de court métrage.
 
-CETTE FRACTION EST DETERMINEE EN MULTIPLIANT LE BENEFICE FISCAL, HORS REPORT DEFICITAIRE, PAR LE RAPPORT EXISTANT POUR LA PERIODE D' IMPOSITION EN CAUSE ENTRE LE CHIFFRE D'AFFAIRES PASSIBLE DU TAUX MAJORE DE LA TAXE SUR LA VALEUR AJOUTEE EN APPLICATION DU I CI-DESSUS ET LE CHIFFRE D'AFFAIRES TOTAL .
+La taxe est versée au plus tard à la date de la première projection publique du film. Pour les films déjà mis en exploitation avant la date d'entrée en vigueur du présent paragraphe, qui sera fixée par le décret prévu au paragraphe VI, la taxe est versée au plus tard à la date de la première projection publique postérieure à cette entrée en vigueur.
 
-2. LES FILMS PORNOGRAPHIQUES OU D'INCITATION A LA VIOLENCE AU SENS DU I CI-DESSUS, QUI NE SONT PAS SOUMIS AUX PROCEDURES D'AGREMENT PREVUES EN MATIERE DE SOUTIEN FINANCIER DE L'ETAT A L'INDUSTRIE CINEMATOGRAPHIQUE OU QUI SONT PRODUITS PAR DES ENTREPRISES NON ETABLIES EN FRANCE, DONNENT LIEU AU VERSEMENT PAR LES DISTRIBUTEURS D'UNE TAXE SPECIALE DONT LE MONTANT EST FIXE FORFAITAIREMENT A UNE SOMME DE 300 000 F POUR LES FILMS DE LONG METRAGE ET A UNE SOMME DE 150 000 F POUR LES FILMS DE COURT METRAGE .
+3 (Abrogé)
 
-LA TAXE EST VERSEE AU PLUS TARD A LA DATE DE LA PREMIERE PROJECTION PUBLIQUE DU FILM .  POUR LES FILMS DEJA MIS EN EXPLOITATION AVANT LA DATE D'ENTREE EN VIGUEUR DU PRESENT PARAGRAPHE, QUI SERA FIXEE PAR LE DECRET PREVU AU PARAGRAPHE VI, LA TAXE EST VERSEE AU PLUS TARD A LA DATE DE LA PREMIERE PROJECTION PUBLIQUE POSTERIEURE A CETTE ENTREE EN VIGUEUR .
-
-3. LE MONTANT DU PRELEVEMENT ET DE LA TAXE, VERSE EN APPLICATION DES 1 ET 2 DU PRESENT PARAGRAPHE, N'EST PAS ADMIS EN DEDUCTION POUR L'ETABLISSEMENT DE L'IMPOT SUR LES SOCIETES OU DE L'IMPOT SUR LE REVENU .
-
-III. ― Le  produit du prélèvement et de la taxe prévus respectivement aux 1 et 2 du II est  affecté au Centre national de la cinématographie.
+III. ― Le produit du prélèvement et de la taxe prévus respectivement aux 1 et 2 du II est affecté au Centre national du cinéma et de l'image animée.
 
 IV. Paragraphe modificateur
 
-V. LES SPECTACLES CINEMATOGRAPHIQUES AUXQUELS S'APPLIQUENT LES DISPOSITIONS DU PRESENT ARTICLE SONT DESIGNES PAR LE MINISTRE CHARGE DU CINEMA APRES AVIS DE LA COMMISSION DE CONTROLE DES FILMS CINEMATOGRAPHIQUES .  LES RECLAMATIONS ET LES RECOURS CONTENTIEUX RELATIFS A CES DECISIONS SONT INSTRUITS PAR LE DEPARTEMENT DE LA CULTURE .
+V. (Abrogé)
 
-VI. UN DECRET EN CONSEIL D'ETAT DETERMINE LES MODALITES D'APPLICATION DU PRESENT ARTICLE .  IL FIXE EGALEMENT, EN CE QUI CONCERNE LE PRELEVEMENT ET LA TAXE SPECIALE PREVUS AU PARAGRAPHE II CI-DESSUS, LES CONDITIONS D'ETABLISSEMENT ET DE RECOUVREMENT, LES OBLIGATIONS DES REDEVABLES, LES REGLES DE CONTENTIEUX, LES GARANTIES DE RECOUVREMENT ET LES SANCTIONS APPLICABLES .
+VI. Un décret en Conseil d'Etat détermine les modalités d'application du présent article. Il fixe également, en ce qui concerne le prélèvement et la taxe spéciale prévus au paragraphe II ci-dessus, les conditions d'établissement  et de recouvrement, les obligations des redevables, les règles de contentieux, les garanties de recouvrement et les sanctions applicables.
