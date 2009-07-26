@@ -1631,7 +1631,6 @@
 - [Décret n°2007-1561 du 31 octobre 2007 (MTSA0756134D)](decret-n2007-1561-du-31-octobre-2007-mtsa0756134d)
 - [Décret n°2007-1001 du 31 mai 2007 (ESRX0754819D)](decret-n2007-1001-du-31-mai-2007-esrx0754819d)
 - [Décret n°2007-1003 du 31 mai 2007 (BCFX0755111D)](decret-n2007-1003-du-31-mai-2007-bcfx0755111d)
-- [Décret n°2007-995 du 31 mai 2007 (DEVX0755105D)](decret-n2007-995-du-31-mai-2007-devx0755105d)
 - [Décret n°2007-996 du 31 mai 2007 (ECEX0755106D)](decret-n2007-996-du-31-mai-2007-ecex0755106d)
 - [Décret n°2007-997 du 31 mai 2007 (IOCX0755107D)](decret-n2007-997-du-31-mai-2007-iocx0755107d)
 - [Décret n°2007-998 du 31 mai 2007 (IOCX0710420D)](decret-n2007-998-du-31-mai-2007-iocx0710420d)
