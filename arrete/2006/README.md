@@ -227,6 +227,7 @@
 - [Arrêté du 23 octobre 2006 (DEFB0601415A)](arrete-du-23-octobre-2006-defb0601415a)
 - [Arrêté du 23 octobre 2006 (INTE0630165A)](arrete-du-23-octobre-2006-inte0630165a)
 - [Arrêté du 23 octobre 2006 (SANP0624375A)](arrete-du-23-octobre-2006-sanp0624375a)
+- [Arrêté du 24 août 2006 (AGRE0601772A)](arrete-du-24-aout-2006-agre0601772a)
 - [Arrêté du 24 août 2006 (SANP0623514A)](arrete-du-24-aout-2006-sanp0623514a)
 - [Arrêté du 24 août 2006 (SANP0623517A)](arrete-du-24-aout-2006-sanp0623517a)
 - [Arrêté du 24 avril 2006 (BUDD0670013A)](arrete-du-24-avril-2006-budd0670013a)

@@ -35,7 +35,6 @@ Diplômes d'ingénieur délivrés par les écoles suivantes :
 Certaines écoles de l'enseignement supérieur sous tutelle du ministère de l'agriculture ayant changé de dénomination, les diplômes d'ingénieur délivrés par ces écoles sous leur ancienne ou nouvelle dénomination sont à prendre en compte. Elles sont reprises dans le tableau suivant :
 
 <div align="center">
-
 <table>
 <tbody>
 <tr>
@@ -45,9 +44,7 @@ Certaines écoles de l'enseignement supérieur sous tutelle du ministère de l'a
 </th>
 </tr>
 <tr>
-<td align="center">Institut national agronomique de Paris-Grignon. <br/>Ecole nationale du génie rural, des eaux et des forêts. <br/>
-<br/>
-</td>
+<td align="center">Institut national agronomique de Paris-Grignon. <br/>Ecole nationale du génie rural, des eaux et des forêts. </td>
 <td align="center">Institut des sciences et industries du vivant et de l'environnement (AgroParisTech). <br/>
 </td>
 </tr>
@@ -83,7 +80,6 @@ Certaines écoles de l'enseignement supérieur sous tutelle du ministère de l'a
 </tr>
 </tbody>
 </table>
-
 </div>
 
 Institut des sciences et techniques d'outre-mer.
@@ -132,4 +128,8 @@ Institut supérieur d'agriculture de Rhône-Alpes.
 
 ― gestionnaire de domaines agricoles, spécialisation domaines viticoles (CES), en application de l'arrêté du 16 février 2006 susvisé ;
 
-― chef de cultures sous serre.
+― chef de cultures sous serre ;
+
+―Certificat inscrit au répertoire national des certifications professionnelles
+
+Eleveur, délivré par l'Union nationale rurale d'éducation et de promotion (UNREP) dans les deux centres suivants : le centre d'élevage Lucien Biset de Poisy (74) et le pôle de formations élevage, agroéquipement et machinisme, à Bernussou (12).
