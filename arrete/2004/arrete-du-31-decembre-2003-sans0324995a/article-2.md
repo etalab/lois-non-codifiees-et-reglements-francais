@@ -20,7 +20,7 @@ I. - Les volets déclaratifs comportent les mentions suivantes :
 
 3° Mentions relatives au travail rémunéré correspondant à la période d'emploi :
 
-a) Mois d'exercice de l'activité (du  au  mois  année ) :
+a) Mois d'exercice de l'activité (du au mois année ) :
 
 - nombre de jours de congés payés.
 
@@ -43,6 +43,10 @@ c) En cas de garde d'enfant à domicile :
 - option retenue pour le calcul des contributions et cotisations sociales : base forfaitaire ou salaire réel.
 
 4° Date de paiement du salaire et signature de l'employeur.
+
+5° Mention spécifique à la déclaration dématérialisée :
+
+- nombre d'heures de garde en horaires spécifiques comprises dans le nombre total d'heures déclarées.
 
 II. - Les volets d'identification comportent les mentions suivantes :
 
