@@ -232,8 +232,6 @@
 - [Décret n° 2007-313 du 6 mars 2007 (SANP0720908D)](decret-n-2007-313-du-6-mars-2007-sanp0720908d)
 - [Décret n°2006-1533 du 6 décembre 2006 (MENR0602902D)](decret-n2006-1533-du-6-decembre-2006-menr0602902d)
 - [Décret n°2006-1538 du 6 décembre 2006 (INTA0600270D)](decret-n2006-1538-du-6-decembre-2006-inta0600270d)
-- [Décret n°2007-1071 du 6 juillet 2007 (IOCM0759230D)](decret-n2007-1071-du-6-juillet-2007-iocm0759230d)
-- [Décret n°2007-1072 du 6 juillet 2007 (IOCM0759242D)](decret-n2007-1072-du-6-juillet-2007-iocm0759242d)
 - [Décret n°2007-1077 du 6 juillet 2007 (SJSP0757322D)](decret-n2007-1077-du-6-juillet-2007-sjsp0757322d)
 - [Décret n°2007-1313 du 6 septembre 2007 (SJSP0764455D)](decret-n2007-1313-du-6-septembre-2007-sjsp0764455d)
 - [Décret n°2007-1315 du 6 septembre 2007 (DEVL0751090D)](decret-n2007-1315-du-6-septembre-2007-devl0751090d)
