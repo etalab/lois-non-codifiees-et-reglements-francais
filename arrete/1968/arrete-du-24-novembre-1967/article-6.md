@@ -1,6 +1,6 @@
 # Article 6
 
-Les signaux et dispositifs figurant aux annexes G et J du présent arrêté sont employés pour la signalisation de position des dangers suivants :
+Les signaux et dispositifs de types G et J sont employés pour la signalisation de position des dangers suivants :
 
 Panneaux G 1 et G 1 b :
 

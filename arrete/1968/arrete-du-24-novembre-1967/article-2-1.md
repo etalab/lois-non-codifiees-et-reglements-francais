@@ -1,20 +1,20 @@
 # Article 2-1
 
-Les panneaux additionnels désignés sous le nom de panonceaux, de forme rectangulaire, sont placés au-dessous des panneaux de signalisation pour donner des indications qui précédent ou complètent leur signalisation. Seuls les panonceaux de type M10 identifiant une route, une autoroute, un échangeur ou un service sont placés au-dessus du panneau qu'ils complètent.
+Les panneaux additionnels désignés sous le nom de panonceaux, de forme rectangulaireou carrée, sont placés au-dessous des panneaux de signalisation pour donner des indications qui précédent ou complètent leur signalisation. Seuls les panonceaux de type M10 identifiant une route, une autoroute, un échangeur ou un service sont placés au-dessus du panneau qu'ils complètent.
 
 Les panonceaux sont répartis en onze catégories :
 
-PANONCEAUX DE DISTANCE M 1
+**PANONCEAUX DE DISTANCE M 1**
 
 Ils indiquent la longueur de la section comprise entre le signal et le début du passage dangereux ou de la zone où s'applique la réglementation, ou du point qui fait l'objet de l'indication.
 
 Le panonceau M1a indique la marque du distributeur de carburant et la distance restant à parcourir jusqu'au prochain poste de distribution de carburant situé sur une aire de service d'autoroute ou de route à chaussées séparées sans accès riverain.
 
-PANONCEAUX D'ETENDUE M 2
+**PANONCEAUX D'ETENDUE M 2**
 
 Ils indiquent la longueur de la section dangereuse ou soumise à réglementation ou visée par l'indication.
 
-PANONCEAUX DE POSITION OU DIRECTIONNELS M 3
+**PANONCEAUX DE POSITION OU DIRECTIONNELS M 3**
 
 Un panonceau M3 indique la position ou la direction de la voie concernée par le panneau qu'il complète. On distingue les différents types suivants :
 
@@ -24,7 +24,7 @@ Un panonceau M3 indique la position ou la direction de la voie concernée par le
 
 -M3d qui indique que le panneau qu'il complète se rapporte à la voie au-dessus de laquelle il est implanté.
 
-PANONCEAU DE CATEGORIE M 4
+**PANONCEAU DE CATEGORIE M 4**
 
 Il indique que le panneau qu'il complète s'applique à la seule catégorie d'usager qu'il désigne par une silhouette, un symbole ou une inscription.
 
@@ -56,7 +56,7 @@ M 4 k qui désigne les véhicules transportant des marchandises explosives ou fa
 
 M 4 l qui désigne les véhicules transportant des marchandises de nature à polluer les eaux, de nature et en quantité définies par l'arrêté du 1er juin 2001 relatif au transport des marchandises dangereuses par route, et signalés comme tels.
 
-M 4 m qui désigne les véhicules transportant des marchandises dangereuses définies par l'arrêté du 1er juin 2001 relatif au transport des marchandises dangereuses par route, et signalés comme tels.
+M 4 m qui désigne les véhicules transportant des marchandises dangereuses définies par l'arrêté du 1er juin 2001 modifié relatif au transport des marchandises dangereuses par route, et signalés comme tels.
 
 M 4 n qui désigne les installations aménagées pour handicapés physiques.
 
@@ -80,11 +80,11 @@ M 4 x qui désigne les véhicules tractant une caravane ou une remorque de plus 
 
 M4y qui désigne les cavaliers.
 
-PANONCEAU STOP M 5
+**PANONCEAU STOP M 5**
 
 Il indique la distance comprise entre le signal et l'endroit où le conducteur doit marquer l'arrêt et céder le passage.
 
-PANONCEAU COMPLEMENTAIRE AUX PANNEAUX DE STATIONNEMENT ET D'ARRÊT M 6
+**PANONCEAU COMPLEMENTAIRE AUX PANNEAUX DE STATIONNEMENT ET D'ARRÊT M 6**
 
 Il donne des précisions concernant la réglementation relative au stationnement.
 
@@ -112,11 +112,11 @@ M 6 h qui signale que le stationnement est réservé aux véhicules utilisés pa
 
 M 6 i qui signale que le stationnement est réservé aux véhicules électriques pendant la durée de recharge de leurs accumulateurs.
 
-PANONCEAU SCHEMA M 7
+**PANONCEAU SCHEMA M 7**
 
 Il représente par un schéma l'intersection qui va être abordée et indique par un trait large les branches prioritaires. La branche verticale dans la moitié inférieure du panonceau représente la route sur laquelle il est implanté.
 
-PANONCEAU D'APPLICATION DES PRESCRIPTIONS CONCERNANT LE STATIONNEMENT ET L'ARRÊT M 8
+**PANONCEAU D'APPLICATION DES PRESCRIPTIONS CONCERNANT LE STATIONNEMENT ET L'ARRÊT M 8**
 
 Il donne des indications sur les limites de la section sur laquelle s'applique la prescription.
 
@@ -132,7 +132,7 @@ M 8 d, M 8 e, M 8 f indiquant que la section sur laquelle s'applique la prescrip
 
 La distance indiquée sur l'un de ces panonceaux, si elle existe, précise la longueur de la section concernée.
 
-PANONCEAU D'INDICATIONS DIVERSES M 9
+**PANONCEAU D'INDICATIONS DIVERSES M 9**
 
 Il donne des indications complémentaires ou modificatrices à celles données par le panneau qu'il complète.
 
@@ -140,7 +140,7 @@ On distingue les différents types suivants :
 
 M 9 a indiquant que le panneau auquel il est associé concerne une aire de danger aérien.
 
-M 9 b indiquant que, au passage à niveau, la voie ferrée est électrifiée.
+M 9 b indiquant qu'à sa traversée la voie est électrifiée.
 
 Panonceau M 9 c Cédez le passage.
 
@@ -154,7 +154,7 @@ M9j indiquant le risque de heurt de véhicules lents.
 
 M9v indiquant que la prescription donnée par le panneau associé ne s'applique pas aux cyclistes.
 
-Panonceaux d'identification M10 :
+**PANONCEAU D'INDICATIONS M10**
 
 Ils permettent d'identifier une autoroute, un échangeur ou un service et sont placés au-dessus de certains panneaux de signalisation d'indication ou de signalisation des services. On distingue les différents types suivants :
 
@@ -166,7 +166,7 @@ M10z indiquant le nom propre d'un site ou de certains services.
 
 Ces panonceaux sont placés au-dessus du panneau qu'ils complètent.
 
-Panonceaux signalant des dérogations ou des prescriptions M11 :
+**Panonceaux signalant des dérogations ou des prescriptions M11**
 
 M11a signalant les dérogations aux prescriptions qui s'appliquent à une route à accès réglementé ;
 

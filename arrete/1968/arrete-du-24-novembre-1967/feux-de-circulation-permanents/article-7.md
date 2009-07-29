@@ -1,12 +1,14 @@
 # Article 7
 
-Les feux lumineux réglementant la circulation des véhicules ou la traversée des piétons sont verts, jaunes ou rouges, le jaune et le rouge pouvant être clignotants ; ils sont blancs lorsqu'ils ne concernent que les tramways.
+Les feux lumineux réglementant la circulation des véhicules ou la traversée des piétons sont verts, jaunes ou rouges, le jaune et le rouge pouvant être clignotants ; ils peuvent être blancs lorsqu'ils ne concernent que les véhicules des services réguliers de transport en commun.
 
-Ils peuvent être groupés en ensembles de feux tricolores ou bicolores ou unicolores.
+Ils peuvent être groupés en ensembles de feux tricolores, bicolores ou unicolores.
 
-Les feux destinés aux véhicules sont généralement circulaires. Ils peuvent comporter un pictogramme qui précise à quels véhicules ils s'adressent, ou des signes spécifiques pour les feux destinés aux tramways.
+Les feux destinés aux véhicules sont généralement circulaires.
 
-Les feux destinés aux piétons sont verts et rouges. Ils comportent un pictogramme.
+Ils peuvent comporter un pictogramme qui précise à quels véhicules ils s'adressent, ou des signes spécifiques pour les feux exclusivement destinés aux véhicules des services réguliers de transport en commun.
+
+Les feux destinés aux piétons sont verts ou rouges. Ils comportent un pictogramme et éventuellement une mention clignotante.
 
 1. Signification générale des couleurs :
 
@@ -18,13 +20,13 @@ Si un piéton s'engage sur la chaussée lorsque le signal qui lui est destiné e
 
 Un feu jaune fixe signifie aux conducteurs de véhicules interdiction de franchir la ligne d'effet du signal. Cette interdiction ne joue pas dans le cas où, à l'allumage du feu jaune, le conducteur ne peut plus arrêter son véhicule dans des conditions de sécurité suffisante avant la ligne d'effet du signal ;
 
-Un feu rouge, fixe ou clignotant impose l'arrêt absolu au droit de la ligne d'effet. Il autorise le franchissement de la ligne d'effet du signal mais avec une prudence renforcée ;
+Un feu rouge, fixe ou clignotant, signifie aux véhicules l'interdiction de franchir la ligne d'effet du signal. Pour les piétons, le feu rouge fixe et éventuellement clignotant qui leur est destiné signifie l'obligation de dégager au plus vite la zone des conflits ou l'interdiction de s'y engager.
 
-Un feu rouge, fixe ou clignotant, signifie aux véhicules interdiction de passer la ligne d'effet. Pour les piétons, le feu rouge fixe qui lui est destiné signifie interdiction de s'engager sur la chaussée ou obligation de la dégager au plus vite. Un feu blanc ne concerne que les tramways.
+Un feu blanc ne concerne que les véhicules des services réguliers de transport en commun.
 
-2. Signification des signes spécifiques aux feux de tramways :
+2° Signification des signes spécifiques aux signaux pour véhicules des services réguliers de transport en commun :
 
-La barre verticale, le disque fixe, le disque clignotant, la barre horizontale ont respectivement la même signification et le même effet pour les tramways que le feu vert, le feu jaune fixe, le feu jaune clignotant, le feu rouge fixe.
+La barre verticale, le disque fixe, le disque clignotant, la barre horizontale ont respectivement la même signification et le même effet pour les véhicules des services réguliers de transport en commun que le feu vert, le feu jaune fixe, le feu jaune clignotant, le feu rouge fixe.
 
 3. Ligne d'effet des signaux :
 
@@ -38,7 +40,7 @@ Les signaux lumineux d'intersection sont destinés à séparer dans le temps les
 
 Ils se composent de trois feux respectivement vert, jaune et rouge dans cet ordre de bas en haut, ou exceptionnellement de droite à gauche. Ils s'allument de façon cyclique dans l'ordre vert-jaune-rouge-vert, etc. sans clignoter. Ils sont destinés à tous les véhicules qui se présentent sur la chaussée, ou à une partie d'entre eux lorsqu'ils comportent un pictogramme.
 
-Les signaux destinés aux tramways se composent de trois feux blancs, présentant de bas en haut une barre verticale, un disque et une barre horizontale. Ils s'allument de façon cyclique comme les feux tricolores.
+Les signaux destinés aux véhicules des services réguliers de transport en commun se composent de trois feux blancs, présentant de bas en haut une barre verticale, un disque et une barre horizontale.
 
 On utilise également des signaux bicolores destinés aux piétons et, dans certains cas, des signaux unicolores jaunes clignotants, dits d'anticipation.
 
@@ -106,17 +108,17 @@ Dans ces deux cas, en application de l'article R. 411-25 du code de la route, l'
 
 -indications données par ces panneaux de type AB dans le cas contraire.
 
-h) Signaux pour tramways (R 17) :
+h) Signaux pour véhicules des services réguliers de transport en commun (R17).
 
-Ils se composent de trois feux blancs sur fond noir et comportent des signes de formes différentes. Ils s'adressent exclusivement aux tramways.
+Ils se composent de trois feux blancs sur fond noir et comportent des signes de formes différentes. Ils s'adressent exclusivement aux véhicules des services réguliers de transport en commun.
 
-i) Signaux directionnels pour tramways (R 18) :
+i) Signaux directionnels pour véhicules des services réguliers de transports en commun (R18).
 
-Ils se composent de trois feux blancs sur fond noir et comportent des signes de formes différentes. La barre verticale du feu du bas est inclinée à droite ou à gauche pour indiquer la direction autorisée. Ils s'adressent exclusivement aux tramways.
+Ils se composent de trois feux blancs sur fond noir et comportent des signes de formes différentes. La barre verticale du bas est inclinée à droite ou à gauche pour indiquer la direction autorisée. Ils s'adressent exclusivement aux véhicules des services réguliers de transport en commun.
 
 B.-Autres signaux lumineux de circulation.
 
-Les signaux visés ici ont une implantation fixe hors des intersections, et fonctionnent en permanence ou occasionnellement.
+Les signaux visés ici ont une implantation fixe, non liée aux intersections, et fonctionnent en permanence ou occasionnellement.
 
 a) Signaux d'affectation de voies (R 21) :
 
@@ -140,6 +142,10 @@ Le signal de contrôle de flot (R 22) est fourni par un ensemble de trois feux c
 
 Le signal de contrôle individuel (R 23) est fourni par deux feux circulaires vert, rouge ou jaune, clignotant rouge, dans cet ordre de bas en haut. Il permet un contrôle véhicule par véhicule, par exemple sur une voie de péage d'autoroute.
 
-c) Signaux d'arrêt (R 24) :
+c) Signaux d'arrêt (R24, R25) :
 
-Un feu rouge clignotant (R24) ou un ensemble de deux feux rouges clignotants imposent l'arrêt absolu. Il est employé devant un passage à niveau, une traversée de voie de tramway, un pont mobile, avant une zone dangereuse tel qu'un couloir d'avalanche, pour laisser le passage aux véhicules de pompiers ou à l'entrée des tunnels.
+Un feu rouge clignotant (R24), ou un ensemble de deux feux rouges clignotants, impose l'arrêt absolu à tous les véhicules et piétons. Il est employé devant un passage à niveau, une traversée de voie exclusivement réservée aux véhicules des services réguliers de transport en commun, un pont mobile, avant une zone dangereuse telle qu'un couloir d'avalanches, pour laisser le passage aux véhicules de pompiers ou à l'entrée d'un tunnel.
+
+Le signal d'arrêt destiné aux piétons (R25) se compose de deux feux rectangulaires, de couleur rouge, disposés l'un au-dessus de l'autre : celui du haut porte une silhouette de piéton, celui du bas la mention : " STOP ". Lorsqu'il est activé, le feu du haut s'allume fixe, tandis que celui du bas clignote. Au repos, le signal est intégralement éteint.
+
+Il est employé devant une traversée de voie exclusivement réservée aux véhicules des services réguliers de transport en commun.

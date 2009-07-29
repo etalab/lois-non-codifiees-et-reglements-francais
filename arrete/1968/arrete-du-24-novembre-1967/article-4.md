@@ -16,7 +16,7 @@ Les panneaux de fin d'interdiction et les panneaux de fin d'obligation indiquent
 
 -panneaux de prescription zonale.
 
-A.-Panneaux d'interdiction :
+**A.-Panneaux d'interdiction :**
 
 Panneau B 0.-Circulation interdite à tout véhicule dans les deux sens.
 
@@ -90,11 +90,11 @@ Panneau B 16.-Signaux sonores interdits.
 
 Panneau B 17.-Interdiction aux véhicules de circuler sans maintenir entre eux un intervalle au moins égal au nombre indiqué.
 
-Panneau B 18 a.-Accès interdit aux véhicules transportant des marchandises explosives ou facilement inflammables, de nature et en quantité définies par l'arrêté du 1er juin 2001 relatif au transport des marchandises dangereuses par route, et signalés comme tels.
+Panneau B 18 a.-Accès interdit aux véhicules transportant des marchandises explosives ou facilement inflammables, de nature et en quantité définies par l'arrêté du 1er juin 2001 modifié relatif au transport des marchandises dangereuses par route, et signalés comme tels.
 
-Panneau B 18 b.-Accès interdit aux véhicules transportant des marchandises susceptibles de polluer les eaux, de nature et en quantité définies par l'arrêté du 1er juin 2001 relatif au transport des marchandises dangereuses par route, et signalés comme tels.
+Panneau B 18 b.-Accès interdit aux véhicules transportant des marchandises susceptibles de polluer les eaux, de nature et en quantité définies par l'arrêté du 1er juin 2001 modifié relatif au transport des marchandises dangereuses par route, et signalés comme tels.
 
-Panneau B 18 c.-Accès interdit aux véhicules transportant des marchandises dangereuses définies par l'arrêté du 1er juin 2001 relatif au transport des marchandises dangereuses par route, et signalés comme tels.
+Panneau B 18 c.-Accès interdit aux véhicules transportant des marchandises dangereuses définies par l'arrêté du 1er juin 2001 modifié relatif au transport des marchandises dangereuses par route, et signalés comme tels.
 
 Panneau B 19.-Autres interdictions dont la nature est indiquée par une inscription sur le panneau.
 
@@ -104,7 +104,7 @@ Les autres signaux, à l'exception des signaux B6, ont un fond blanc. Ils ont un
 
 Les signaux B6a et B6d sont à fond bleu avec une bordure rouge, elle-même entourée d'un listel blanc. La ou les barres obliques sont rouges. Les inscriptions des signaux B6a2 et B6a3 sont de couleur blanche.
 
-B.-Panneaux d'obligation
+**B.-Panneaux d'obligation**
 
 Panneau B 21-1.-Obligation de tourner à droite avant le panneau.
 
@@ -148,7 +148,7 @@ Panneau B 29.-Autres obligations dont la nature est mentionnée par une inscript
 
 Ces panneaux sont de forme circulaire. Ils ont le fond bleu et sont bordés d'un listel blanc ; les symboles et inscriptions sont blancs.
 
-C.-Panneaux de fin d'interdiction
+**C.-Panneaux de fin d'interdiction**
 
 Panneau B 31.-Fin de toutes les interdictions précédemment signalées, imposées aux véhicules en mouvement.
 
@@ -164,7 +164,7 @@ Panneau B 39.-Fin d'interdiction dont la nature est indiquée sur le panneau.
 
 Les signaux de fin d'interdiction sont de forme circulaire. Ils sont à fond blanc et bordés d'un listel noir. Les pictogrammes ainsi que la barre sont noirs. Les inscriptions sont de couleur noire.
 
-D.-Panneaux de fin d'obligation
+**D.-Panneaux de fin d'obligation**
 
 Panneau B 40.-Fin de piste ou bande obligatoire pour cycle.
 
@@ -176,15 +176,13 @@ Panneau B 43.-Fin de vitesse minimale obligatoire.
 
 Panneau B 44.-Fin d'obligation de l'usage des chaînes à neige.
 
-Panneau B 45 a.-Fin de voie réservée aux véhicules des services réguliers de transport en commun.
-
-Panneau B 45 b. Fin de voie réservée aux tramways.
+Panneau B 45.-Fin de voie réservée aux véhicules des services réguliers de transport en commun.
 
 Panneau B 49.-Fin d'obligation dont la nature est mentionnée par une inscription sur le panneau.
 
 Les signaux de fin d'obligation sont de forme circulaire. Ils sont à fond bleu et sont bordés d'un listel blanc. Les pictogrammes sont blancs barrés de rouge. Les inscriptions sont de couleur blanche.
 
-E.-Panneaux de prescription zonale
+**E.-Panneaux de prescription zonale**
 
 Panneau B. 6b 1. Entrée d'une zone à stationnement interdit ;
 
