@@ -438,7 +438,6 @@
 - [Arrêté du 15 juillet 2004 (SOCF0411500A)](arrete-du-15-juillet-2004-socf0411500a)
 - [Arrêté du 15 juillet 2004 (SOCF0411501A)](arrete-du-15-juillet-2004-socf0411501a)
 - [Arrêté du 15 juillet 2004 (SOCF0411502A)](arrete-du-15-juillet-2004-socf0411502a)
-- [Arrêté du 15 juillet 2004 (SOCF0411503A)](arrete-du-15-juillet-2004-socf0411503a)
 - [Arrêté du 15 juillet 2004 (SOCF0411504A)](arrete-du-15-juillet-2004-socf0411504a)
 - [Arrêté du 15 juillet 2004 (SOCF0411506A)](arrete-du-15-juillet-2004-socf0411506a)
 - [Arrêté du 15 juillet 2004 (SOCF0411508A)](arrete-du-15-juillet-2004-socf0411508a)
