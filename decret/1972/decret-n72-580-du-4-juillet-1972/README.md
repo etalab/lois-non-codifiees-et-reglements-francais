@@ -6,5 +6,4 @@
 - [Chapitre III : Notation et avancement.](chapitre-iii)
 - [Chapitre IV : Discipline.](chapitre-iv)
 - [Chapitre V : Dispositions diverses.](chapitre-v)
-- [Chapitre VI : Dispositions transitoires.](chapitre-vi)
 - [Article 20](article-20.md)
