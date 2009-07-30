@@ -1,6 +1,6 @@
 # Article 3
 
-Sont abrogés, sauf en tant qu'ils sont applicables en Polynésie française et en Nouvelle-Calédonie et sous réserve de l'article 7 :
+Sont abrogés                 et sous réserve de l'article 7 :
 
 1° Le décret n° 60-386 du 22 avril 1960 relatif aux titres de capacité dont doivent justifier les directeurs et maîtres des établissements d'enseignement privés placés sous contrat ;
 

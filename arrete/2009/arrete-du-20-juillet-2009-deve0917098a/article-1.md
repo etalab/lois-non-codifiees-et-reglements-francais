@@ -1,0 +1,3 @@
+# Article 1
+
+Avant la mise en service des ouvrages, le service chargé du contrôle procède au récolement des travaux effectués dans le cadre des dispositions du titre V du décret n° 94-894 du 13 octobre 1994 susvisé. A cette fin, il fixe la date de l'opération, à laquelle il invite, outre les services de l'Etat intéressés, le concessionnaire, les autorités consultées en application de l'article 10 du décret du 13 octobre 1994 précité et, le cas échéant, les gestionnaires de domaines publics sur lesquels se situe l'emprise de l'ouvrage récolé. Le procès-verbal de récolement est visé par l'ensemble des personnes présentes à l'opération de récolement.

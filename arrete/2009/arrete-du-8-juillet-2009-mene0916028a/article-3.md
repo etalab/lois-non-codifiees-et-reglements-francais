@@ -1,0 +1,7 @@
+# Article 3
+
+Pour les candidats sous statut scolaire dans un établissement public local d'enseignement ou dans un établissement privé sous contrat qui sont engagés dans le cycle conduisant à un baccalauréat professionnel et pour les jeunes en formation en vue de préparer un baccalauréat professionnel par la voie de l'apprentissage dans des centres de formation d'apprentis ou des sections d'apprentissage habilités qui auront choisi de se présenter à l'examen, l'épreuve de français, histoire-géographie et éducation civique est évaluée par contrôle ponctuel. Les autres épreuves sont évaluées par contrôle en cours de formation (CCF).
+
+Pour les candidats ayant préparé le diplôme par la voie de la formation professionnelle continue dans un établissement public, l'ensemble des épreuves générales est évalué par contrôle en cours de formation.
+
+Pour les candidats qui sont engagés dans le cycle conduisant au baccalauréat professionnel dans le cadre de l'enseignement à distance ou dans un établissement privé hors contrat, pour ceux qui sont en formation en vue de préparer un baccalauréat professionnel par la voie de l'apprentissage dans des centres de formation d'apprentis ou des sections d'apprentissage non habilités, pour ceux qui ont préparé le diplôme par la voie de la formation professionnelle continue dans un établissement privé et pour les candidats majeurs ne justifiant pas avoir suivi une formation, l'ensemble des épreuves générales est évalué par contrôle ponctuel.
