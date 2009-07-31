@@ -26,6 +26,6 @@ Les entreprises d'assurance et de capitalisation régies par le code des assuran
 
 La caisse centrale de crédit mutuel et les caisses fédérales de crédit mutuel agréées par celle-ci ;
 
-La Banque fédérale des banques populaires ;
+L'organe central des caisses d'épargne et des banques populaires ;
 
 Le crédit foncier communal d'Alsace et de Lorraine.
