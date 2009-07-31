@@ -18,8 +18,18 @@ La liste de ces accords et arrangements est établie et tenue à jour par la com
 
 d) Les armes, munitions et parachutes exportés temporairement à l'occasion de concours internationaux ;
 
-e) Les matériels exportés sous le régime douanier du perfectionnement passif pour réparation tel que ce régime est prévu par les textes cités au deuxième alinéa du b précédent. La dispense ne peut, dans ce cas, bénéficier qu'aux exportations à destination du fabricant.
+e) Les matériels exportés sous le régime douanier du perfectionnement passif pour réparation tel que ce régime est prévu par les textes cités au deuxième alinéa du b précédent. La dispense ne peut, dans ce cas, bénéficier qu'aux exportations à destination du fabricant ;
+
+f) Les fusils et carabines à canon rayé et à percussion centrale mentionnés au paragraphe 2 du II de la 5e catégorie du
+décret n° 95-589 du 6 mai 1995
+et leurs éléments ainsi que leurs munitions et les éléments de celles-ci ;
+
+g) Les armes mentionnées au paragraphe 2 du II de la 4e catégorie du décret du 6 mai 1995 et leurs éléments ainsi que leurs munitions et les éléments de celles-ci ;
+
+h) Les dispositifs de visée optiques dépourvus de traitement électronique de l'image, d'un grossissement supérieur à 4, non spécialement conçus pour l'usage militaire ;
+
+i) Les pièces de forge, de fonderie et autres produits non finis destinés à la fabrication de matériels autres que ceux mentionnés par les catégories 1 à 4 du décret du 6 mai 1995.
 
 Toutefois, à la demande de l'un des membres de la commission interministérielle pour l'étude des exportations de matériels de guerre ou d'un ministère concerné et après avis de la commission interministérielle pour l'étude des exportations de matériels de guerre, ces dérogations pourront être suspendues soit de façon générale, soit pour les expéditions à destination de certains pays nommément désignés, par un avis aux exportateurs signé du Premier ministre et inséré au Journal officiel.
 
-Dans le cas d'une dérogation pour certains pays seulement, les expéditions qui demeurent autorisées donneront lieu, à la sortie, à la délivrance d'un acquit-à-caution ou d'une soumission garantissant l'arrivée au pays de destination et la non-réexpédition des marchandises dans un pays à destination duquel le transit, le transbordement ou la réexportation se trouvent interdits. La délivrance et la décharge de cet acquit-à-caution ou de cette soumission seront effectuées dans les conditions prévues à l'article 12.
+Sauf dispositions contraires prévues par l'avis aux exportateurs mentionné à l'alinéa précédent, dans le cas d'une dérogation pour certains pays seulement, les expéditions qui demeurent autorisées donneront lieu, à la sortie, à la délivrance d'un acquit-à-caution ou d'une soumission garantissant l'arrivée au pays de destination et la non-réexpédition des marchandises dans un pays à destination duquel le transit, le transbordement ou la réexportation se trouvent interdits. La délivrance et la décharge de cet acquit-à-caution ou de cette soumission seront effectuées dans les conditions prévues à l'article 12.

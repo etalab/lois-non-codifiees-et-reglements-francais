@@ -5,3 +5,4 @@
 - [Titre III : Dispositions communes aux autorisations d'importation et d'exportation.](titre-iii)
 - [Titre IV : Dispositions spéciales aux autorisations de transit par route.](titre-iv)
 - [Titre V : Transferts en provenance et à destination d'un autre Etat membre de la communauté européenne de certaines armes, munitions et de leurs éléments.](titre-v)
+- [Titre VI : Dispositions diverses](titre-vi)
