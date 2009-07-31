@@ -1069,7 +1069,6 @@
 - [Arrêté du 19 juin 2009 (IOCD0914113A)](arrete-du-19-juin-2009-iocd0914113a)
 - [Arrêté du 19 juin 2009 (JUSA0911984A)](arrete-du-19-juin-2009-jusa0911984a)
 - [Arrêté du 19 juin 2009 (SASH0910637A)](arrete-du-19-juin-2009-sash0910637a)
-- [Arrêté du 19 juin 2009 (SASP0914280A)](arrete-du-19-juin-2009-sasp0914280a)
 - [Arrêté du 19 mars 2006 (MCCB0600350A)](arrete-du-19-mars-2006-mccb0600350a)
 - [Arrêté du 19 mars 2009 (AGRP0906350A)](arrete-du-19-mars-2009-agrp0906350a)
 - [Arrêté du 19 mars 2009 (DEVA0903225A)](arrete-du-19-mars-2009-deva0903225a)
@@ -1989,4 +1988,3 @@
 - [Arrêté du 1er juillet 2009 (JUSF0915875A)](arrete-du-1er-juillet-2009-jusf0915875a)
 - [Arrêté du 1er juillet 2009 (MCCB0913231A)](arrete-du-1er-juillet-2009-mccb0913231a)
 - [Arrêté du 1er mars 2009 (SASH0905297A)](arrete-du-1er-mars-2009-sash0905297a)
-- [Arrêté du 1er mai 2009 (SASC0910138A)](arrete-du-1er-mai-2009-sasc0910138a)
