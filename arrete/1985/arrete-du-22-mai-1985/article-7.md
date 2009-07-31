@@ -1,6 +1,6 @@
 # Article 7
 
-Pour les épreuves d'examen du diplôme d'études en langue française des trois premiers niveaux, le jury comprend au minimum trois membres.
+Pour les épreuves d'examen du diplôme d'études en langue française des quatre premiers niveaux, le jury comprend au minimum trois membres.
 
 La présidence du jury est confiée obligatoirement à un enseignant appartenant à l'un des corps du ministère de l'éducation nationale.
 

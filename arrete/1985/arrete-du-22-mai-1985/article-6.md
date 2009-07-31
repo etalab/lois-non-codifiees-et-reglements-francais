@@ -1,6 +1,6 @@
 # Article 6
 
-Il est créé une commission nationale de sept membres chargée de veiller à l'organisation des examens, qui se réunit au moins une fois par an sur convocation de son président.
+Il est créé une commission nationale de huit membres chargée de veiller à l'organisation des examens, qui se réunit au moins une fois par an sur convocation de son président.
 
 Cette commission est composée comme suit :
 
@@ -12,7 +12,9 @@ Cette commission est composée comme suit :
 
 - un président d'université ou un ancien président d'université désigné par la conférence des présidents d'université du ministère des affaires étrangères, ou son représen­tant ;
 
-- le directeur de l'enseignement supérieur du ministère chargé de l'enseignement supérieur ou son représentant ;
+- le directeur général pour l'enseignement supérieur et l'insertion professionnelle du ministère chargé de l'enseignement supérieur ou son représentant ;
+
+- le directeur général de l'enseignement scolaire du ministère chargé de l'éducation nationale ou son représentant ;
 
 - un professeur des universités désigné pour un mandat de deux ans, par arrêté du ministre chargé de l'enseignement supérieur ;
 
