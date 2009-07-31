@@ -795,6 +795,7 @@
 - [Décret n°2009-806 du 29 juin 2009 (MENX0914539D)](decret-n2009-806-du-29-juin-2009-menx0914539d)
 - [Décret n°2009-807 du 29 juin 2009 (PRLX0914538D)](decret-n2009-807-du-29-juin-2009-prlx0914538d)
 - [Décret n°2009-809 du 29 juin 2009 (ESRS0911517D)](decret-n2009-809-du-29-juin-2009-esrs0911517d)
+- [Décret n°2009-926 du 29 juillet 2009 (JUSC0916237D)](decret-n2009-926-du-29-juillet-2009-jusc0916237d)
 - [Décret n°93-155 du 29 janvier 1993 (INTB9300025D)](decret-n93-155-du-29-janvier-1993-intb9300025d)
 - [Décret n°93-160 du 29 janvier 1993 (INTB9300030D)](decret-n93-160-du-29-janvier-1993-intb9300030d)
 - [Décret n°98-1260 du 29 décembre 1998 (AGRM9802456D)](decret-n98-1260-du-29-decembre-1998-agrm9802456d)

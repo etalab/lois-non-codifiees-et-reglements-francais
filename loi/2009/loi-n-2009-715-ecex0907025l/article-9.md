@@ -1,0 +1,3 @@
+# Article 9
+
+A l'exception des dispositions des deuxième et quatrième alinéas de l'article 4 et de l'article 7, les dispositions de la présente loi entrent en vigueur, sous réserve de l'agrément du comité des établissements de crédit et des entreprises d'investissement mentionné à l'article 3, à compter de la clôture de l'assemblée générale de l'organe central des caisses d'épargne et des banques populaires approuvant les apports de participations à l'organe central des caisses d'épargne et des banques populaires par la Caisse nationale des caisses d'épargne et de prévoyance et la Banque fédérale des banques populaires et décidant l'émission d'actions en rémunération desdits apports.
