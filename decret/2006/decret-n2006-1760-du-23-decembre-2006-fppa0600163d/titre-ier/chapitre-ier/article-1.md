@@ -8,4 +8,4 @@ II.-Ces corps sont soit des corps communs à l'ensemble des services d'un minist
 
 III.-Par dérogation au II, ces corps peuvent être également, à titre transitoire ou exceptionnel, des corps propres à certains services.
 
-IV.-Sont également régis par le présent décret le corps des adjoints administratifs du Conseil d'Etat, le corps des adjoints administratifs des juridictions financières et le corps des adjoints administratifs du Conseil économique et social.
+IV.-Sont également régis par le présent décret le corps des adjoints administratifs du Conseil d'Etat et le corps des adjoints administratifs des juridictions financières.
