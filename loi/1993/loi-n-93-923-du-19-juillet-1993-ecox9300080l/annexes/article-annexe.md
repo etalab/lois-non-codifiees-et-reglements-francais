@@ -40,6 +40,8 @@ Société nationale d'étude et de construction de moteurs d'aviation.
 
 Société nationale Elf-Aquitaine.
 
+SNPE.
+
 Thomson SA.
 
 Usinor Sacilor.
