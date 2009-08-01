@@ -1,6 +1,6 @@
 # Article 36
 
-Les changes de plaques, jetons, espèces, tickets et cartes de paiement doivent être enregistrés dans les conditions prévues par l'article D. 564-2 du code monétaire et financier. Cotés et paraphés, avant tout usage, par le comptable du Trésor, chef de poste, les registres de change ne doivent présenter ni grattages ni surcharges. En cas d'erreur, les rectifications sont faites à l'encre rouge et approuvées en toutes lettres par le directeur responsable ou un membre du comité de direction.
+Les changes de plaques, jetons, espèces, tickets et cartes de paiement doivent être enregistrés dans les conditions prévues par le code monétaire et financier.  Cotés et paraphés, avant tout usage, par le comptable du Trésor, chef de poste, les registres de change ne doivent présenter ni grattages ni surcharges. En cas d'erreur, les rectifications sont faites à l'encre rouge et approuvées en toutes lettres par le directeur responsable ou un membre du comité de direction.
 
 Dans le cas où le casino adopterait une gestion comptable informatisée, le registre de change peut-être établi par procédé informatique, garantissant la traçabilité des opérations.
 

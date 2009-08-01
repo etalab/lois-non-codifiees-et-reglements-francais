@@ -10,7 +10,7 @@ Après leur comptée et leur vérification, le croupier mélange ostensiblement 
 
 Un mélangeur de cartes peut être utilisé dans les conditions décrites à l'article 40-1 du présent arrêté. Dans ce cas, l'utilisation de deux jeux de cartes de format américain, à teinte unie et de couleurs différentes est requise.
 
-Le croupier affecté à la table anime la partie et contrôle son bon déroulement, invite les joueurs à miser et opère le prélèvement au profit de la cagnotte. Il assure également la distribution des cartes.
+Le croupier affecté à la table anime la partie et contrôle son bon déroulement, invite les joueurs à miser et opère la retenue au profit de la cagnotte. Il assure également la distribution des cartes.
 
 Il lui est remis, à chaque début de séance, une caisse de change qui doit être encastrée dans la table de jeu. Cette caisse doit être pourvue en jetons et plaques de valeurs en quantité suffisante pour assurer un bon déroulement du jeu en relation avec le minimum de la table.
 
@@ -34,9 +34,11 @@ En cours de partie, aucun joueur n'est autorisé à changer de place. Seul le ch
 
 Avant le début de la séance ou lorsque toutes les places aux tables de jeu sont attribuées, les joueurs ont la possibilité de se faire inscrire sur une liste d'attente qui est placée sous la responsabilité du chef de partie ou d'un membre du comité de direction.
 
-Ce dernier procède à l'appel, par ordre d'inscription, des joueurs qui se sont inscrits à l'avance. Si l'un ou plusieurs de ces joueurs ne répondent pas à l'appel, celui-ci continue jusqu'à ce que l'un d'entre eux y réponde et prenne place à la table de jeu. L'attribution des places assises est effectuée par le chef de partie de façon aléatoire.
+Ce dernier procède à l'appel, par ordre d'inscription, des joueurs qui se sont inscrits à l'avance. Si l'un ou plusieurs de ces joueurs ne répondent pas à l'appel, celui-ci continue jusqu'à ce que l'un d'entre eux y réponde et prenne place à la table de jeu.
 
 L'attribution des places assises est effectuée par le chef de partie ou un membre du comité de direction, de façon aléatoire.
+
+Durant une partie, un joueur peut s'absenter en laissant ses mises à la table de jeu sous la surveillance du croupier. La direction du casino a la possibilité, dans son règlement intérieur, de fixer la durée maximale de cette absence.
 
 Dans le cas où le joueur s'absente au-delà de la durée maximale prévue, le chef de partie ou le chef de table consigne la mise au nom du joueur et procède à l'attribution de la place vacante. Si la mise consignée n'est pas réclamée avant la fin de la séance, elle est portée au registre des orphelins.
 
@@ -50,7 +52,7 @@ A leur installation à la table de jeu, les joueurs disposent leur cave bien en 
 
 Au cours d'une partie, le joueur a la possibilité de se recaver. Aucune recave n'est acceptée pendant un coup. Le montant maximum de la recave est fixé par le règlement intérieur.
 
-La partie débute par le placement d'un marqueur appelé " bouton ". Pour déterminer la place du " bouton ", le croupier saisit les cartes de trèfle, en distribue une à chaque joueur face ouverte en commençant par sa gauche. La carte la plus forte (as, roi, dame, etc.) détermine l'emplacement du " bouton ". Une fois le joueur au " bouton " désigné, le croupier ramasse les cartes de trèfle, les joint au reste du paquet et brasse les cartes. La partie peut commencer.
+La partie débute par le placement d'un marqueur appelé "bouton". Pour déterminer la place du "bouton", le croupier saisit les cartes de trèfle, en distribue une à chaque joueur face ouverte en commençant par sa gauche. La carte la plus forte (as, roi, dame, etc.) détermine l'emplacement du "bouton". Une fois le joueur au "bouton" désigné, le croupier ramasse les cartes de trèfle, les joint au reste du paquet et brasse les cartes. La partie peut commencer.
 
 Avant chaque donne, les deux joueurs placés immédiatement à gauche du bouton sont tenus de déposer, devant leur emplacement marqué sur le tapis, une mise initiale obligatoire.
 
@@ -134,7 +136,7 @@ Le croupier procède à un troisième tour d'enchères pour les joueurs encore e
 
 Quand le troisième tour d'enchères est terminé, le croupier ramasse les mises engagées toujours dans le même sens. Les enjeux ramassés sont ajoutés au pot.
 
-A l'issue de ce troisième tour, le croupier brûle la première carte du paquet et expose une carte supplémentaire, figure en dessus, qui détermine le river. Cette carte supplémentaire est commune à tous les joueurs encore en jeu en plus des trois cartes du flop et de la carte du turn. L'ensemble de ces cinq cartes constitue le board.
+A l'issue de ce troisième tour, le croupier brûle la première carte du paquet et expose une carte supplémentaire, figure en dessus, qui détermine le river. Cette carte supplémentaire est commune à tous les joueurs encore en jeu en plus des trois cartes du flop et de la carte du turn.L'ensemble de ces cinq cartes constitue le board.
 
 Le croupier procède au dernier tour d'enchères pour les joueurs encore en jeu. Tous les joueurs se déterminent exactement de la même façon qu'aux deux tours d'enchères précédents.
 
@@ -158,12 +160,10 @@ Dans tous les cas, la meilleure main est déterminée par une combinaison de cin
 
 La plus haute des cartes qui composent la combinaison départage les combinaisons équivalentes.
 
-En cas d'égalité entre les combinaisons de deux joueurs ou plus, faisant appel à moins de cinq cartes, la main la plus forte sera celle comportant la carte du joueur la plus élevée en dehors de ces combinaisons.
+En cas d'égalité entre les combinaisons composées de moins de cinq cartes obtenues par deux joueurs ou plus, la main de cinq cartes gagnante sera celle qui comportera en complément, issues de la main du joueur ou du board, la ou les cartes les plus fortes. En cas d'égalité parfaite, le pot sera partagé entre toutes les mains ex aequo. Il y a égalité parfaite lorsque les joueurs ont la même combinaison composée de cinq cartes issues de leurs deux cartes ou de l'une de leurs deux cartes et du board, ou seulement du board.
 
-En cas d'égalité entre les combinaisons composées de moins de cinq cartes obtenues par deux joueurs ou plus, la main de cinq cartes gagnante sera celle qui comportera en complément, issues de la main du joueur ou du board, la ou les cartes les plus fortes.
+Le croupier soumet le pot à la retenue opérée au profit de l'établissement. Le montant de la retenue est immédiatement versé dans la cagnotte encastrée dans la table de jeu.
 
-Le croupier soumet le pot au prélèvement opéré au profit de l'établissement. Le montant du prélèvement est immédiatement versé dans la cagnotte encastrée dans la table de jeu.
-
-A l'issue de l'opération de prélèvement, le croupier remet au gagnant la totalité du pot minorée du prélèvement.
+A l'issue de l'opération de retenue, le croupier remet au gagnant la totalité du pot minorée de la retenue.
 
 Pour arrêter la partie, la dernière main devra être annoncée préalablement.

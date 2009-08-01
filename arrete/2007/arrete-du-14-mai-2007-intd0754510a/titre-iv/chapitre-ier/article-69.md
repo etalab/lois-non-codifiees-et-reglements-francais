@@ -1,25 +1,41 @@
 # Article 69
 
-Jeux de contrepartie, carnets d'avances et de comptabilité.
+Généralités.
 
-Carnets d'avances :
+a) Pour les jeux de tables, des carnets spéciaux sont tenus par table ou tableau.
 
-Pour les jeux de contrepartie, il est tenu autant de carnets d'avances distincts qu'il y a de tables ou de tableaux alimentés chacun par une caisse recevant une avance distincte.
+Ils décrivent par séance :
 
-Ces carnets doivent être établis conformément au modèle n° 10 et chacun d'eux reçoit un numéro d'ordre correspondant au numéro de la caisse, de la table ou du tableau auxquels il est affecté.
+- pour les jeux de contrepartie, le montant de l'avance initiale et des avances complémentaires éventuelles et le montant de l'encaisse constatée en fin de séance (carnets d'avances modèle n° 10) ;
 
-Après inscription des résultats de la séance sur le carnet afférent à chaque tableau, le directeur responsable ou un membre du comité de direction est tenu de vérifier l'exactitude de cette inscription et de la certifier du mot " exact " suivi de sa signature.
+- pour les jeux de cercle, le montant intégral de la cagnotte sans aucune déduction (carnets d'enregistrement des cagnottes modèles n° s 11 et 11 ter).
 
-Les carnets d'avances sont arrêtés par séance et totalisés par journée. A la fin de chaque journée, les résultats obtenus sont reportés par caisse au registre de contrôle (modèle n° 12) visé à l'article 72 du présent arrêté.
+b) Pour les jeux de contrepartie électroniques sont établis :
 
-L'usage du carnet d'avances est obligatoire et l'inscription directe au registre de contrôle des opérations concernant les jeux de contrepartie n'est admise sous aucun prétexte.
+- un registre de comptabilité (modèle n° 10 bis) tenu par appareil sur lequel sont retracés les résultats de la séance ;
 
-Lorsque le casino utilise une table réversible au cours d'une même séance, il doit ouvrir un nouveau carnet d'avances.
+- un état mensuel du relevé des compteurs des jeux électroniques (modèle n° 33).
 
-A la boule et au vingt-trois, les avances initiales enregistrées sur chaque carnet comportent toutes, pour un même jeu, le même montant.
+c) Pour les jeux de cercle électroniques sont établis :
 
-Aux autres jeux de contrepartie, les carnets d'avances peuvent être visés par les fonctionnaires de contrôle.
+- un état journalier tenu par table de jeu électronique (modèle n° 7) ;
 
-Carnets de comptabilité :
+- un carnet d'enregistrement des cagnottes (modèle n° 11 quater).
 
-Pour les jeux électroniques, il est tenu un registre de comptabilité selon le modèle correspondant pour chaque poste de jeux destiné à comptabiliser les résultats de la séance.
+Les résultats figurant sur ces carnets spéciaux, ce registre de comptabilité ou ces états sont récapitulés, par table ou tableau, par jeu électronique sur un registre de contrôle (modèle n° 12) qui doit être totalisé, arrêté et visé à la fin de chaque journée.
+
+d) Pour les jeux des machines à sous sont établis :
+
+- un carnet de comptabilité (modèle n° 29) par machine à sous sur lequel sont retracés les éléments servant à déterminer le produit brut réel des jeux de chaque appareil ;
+
+- un relevé mensuel des compteurs des machines à sous, visé à l'article 68-25 du présent arrêté (modèle n° 32) ;
+
+- un état récapitulatif mensuel de détermination du produit des jeux des machines à sous (modèle n° 35) établi à partir du carnet de comptabilité (modèle n° 29).
+
+Le montant du produit brut mentionné sur ce dernier état et les résultats du registre de contrôle susvisé sont ensuite reportés sur un carnet des prélèvements (modèle n° 13) qui sert à déterminer le montant des différents prélèvements auxquels le casino est assujetti.
+
+Cotés et paraphés avant tout usage par le comptable du Trésor, chef de poste, les différents registres et carnets (modèles n° s 10, 10 bis, 11, 11 ter, 11 quater, 12, 13, 29, 32, 33 et 35) sont tenus dans les conditions de régularité exigées pour les livres de commerce. Ils ne doivent présenter ni grattages, ni surcharges. En cas d'erreurs, les rectifications sont faites à l'encre rouge et elles sont approuvées en toutes lettres par le directeur ou le membre du comité de direction qui le remplace.
+
+Il est établi, en outre, une fois par mois, un bordereau de versement du prélèvement à la commune en vertu du cahier des charges (modèle n° 14) et un décompte contradictoire des prélèvements visé à l'article 76 du présent arrêté.
+
+Lorsque la gestion comptable est informatisée, les documents de la comptabilité spéciale peuvent être établis par informatique garantissant la traçabilité des opérations et validés par signature électronique.

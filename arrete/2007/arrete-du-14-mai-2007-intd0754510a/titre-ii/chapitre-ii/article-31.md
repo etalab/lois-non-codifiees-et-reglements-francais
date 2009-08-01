@@ -18,9 +18,9 @@ Dans le cas où un casino exploite plusieurs tables ou tableaux de l'un des jeux
 
 Aux tables de jeux, le chef de partie ou le chef de table doit annoncer, en temps utile, à la boule, au vingt-trois, à la roulette, à la roulette américaine, à la roulette anglaise, les trois derniers coups, au black-jack, au punto-banco, au stud poker, au hold'em poker et au texas hold'em poker, la dernière donne et au craps les trois dernières séries. Au trente et quarante, quand une taille est terminée trente minutes avant l'heure de la fermeture, le jeu doit être arrêté, une nouvelle taille ne peut être donnée.
 
-L'organisation des séances d'initiation destinée à la clientèle aux jeux de table est autorisée, avec information préalable du service territorial de police judiciaire  au moins huit jours avant l'opération.
+L'organisation des séances d'initiation destinée à la clientèle aux jeux de table est autorisée, avec information préalable du service territorial de police judiciaire au moins huit jours avant l'opération.
 
-La séance d'initiation peut être organisée dans tous les locaux du casino. Toutefois, lorsqu'elle est organisée dans une salle de jeux, elle doit se terminer une heure avant l'ouverture des jeux de table au public.
+La séance d'initiation peut être organisée dans tous les locaux du casino.
 
 En toute hypothèse, elle ne peut être ouverte qu'après un contrôle de la clientèle visant à interdire les mineurs et les interdits.
 

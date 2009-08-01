@@ -1,5 +1,6 @@
-# Section 2 : Fonctionnement des machines à sous dans les casinos.
+# Section 2 : Règles particulières applicables aux jeux de contrepartie électroniques
 
+- [Sous-section 1 : Roulette électronique](sous-section-1)
 - [Article 67-10](article-67-10.md)
 - [Article 67-11](article-67-11.md)
 - [Article 67-12](article-67-12.md)
@@ -11,11 +12,3 @@
 - [Article 67-18](article-67-18.md)
 - [Article 67-19](article-67-19.md)
 - [Article 67-20](article-67-20.md)
-- [Article 67-20-1](article-67-20-1.md)
-- [Article 67-21](article-67-21.md)
-- [Article 67-22](article-67-22.md)
-- [Article 67-23](article-67-23.md)
-- [Article 67-24](article-67-24.md)
-- [Article 67-25](article-67-25.md)
-- [Article 67-26](article-67-26.md)
-- [Article 67-27](article-67-27.md)

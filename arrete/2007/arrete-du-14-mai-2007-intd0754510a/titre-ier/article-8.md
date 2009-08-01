@@ -1,17 +1,11 @@
 # Article 8
 
-Demandes d'augmentation du parc de machines à sous et demandes d'extension à de nouveaux jeux de table.
+Définition du nombre de machines à sous par table de jeux.
 
-Lorsque la demande concerne une augmentation du parc de machines à sous ou une extension à de nouveaux jeux de table, le dossier à transmettre doit comporter les pièces suivantes, en double exemplaire :
+Le nombre de machines à sous autorisées mentionné à l'article 3-1 du décret du 22 décembre 1959 modifié répond aux conditions suivantes :
 
-1° La demande motivée de l'exploitant, faisant référence, le cas échéant, aux prévisions initiales, précisant le nombre de machines à sous ou les nouveaux jeux de table supplémentaires sollicités, accompagnée du plan d'implantation de ces machines ou jeux ;
+Pour la première table installée de jeux mentionnés aux a et b de l'article 1er du décret du 22 décembre 1959 modifié, sont autorisées 50 machines à sous, pour chacune des tables suivantes sont autorisées 25 machines à sous.
 
-2° L'avis du conseil municipal sur la demande d'extension ;
+Le nombre de tables ouvertes, calculé en moyenne hebdomadaire, doit être au moins égal à la moitié du nombre de tables correspondant au nombre de machines à sous exploitées sur la base du ratio précisé à l'alinéa précédent. Une table ouverte est celle dont l'avance initiale a été contrôlée et encaissée, et pour laquelle les employés de jeu sont en nombre suffisant pour assurer son exploitation.
 
-3° Un état détaillé, pour la saison en cours, des dépenses consacrées à l'animation (interne et externe) ainsi que des données économiques sur le secteur restauration (nombre de couverts, chiffre d'affaires) ;
-
-4° Un état des mesures prises dans le cadre de la prévention de l'abus de jeu ;
-
-5° Une copie du dernier rapport d'exécution de la délégation de service public remis à la commune (art. L. 1411-3 du code général des collectivités territoriales) ;
-
-6° L'avis motivé du préfet.
+Pour assurer une offre diversifiée de jeux, une table de chaque jeu exploité doit être ouverte au moins une fois par semaine, en moyenne mensuelle.

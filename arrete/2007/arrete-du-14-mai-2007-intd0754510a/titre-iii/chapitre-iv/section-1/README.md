@@ -1,4 +1,4 @@
-# Section 1 : Conditions de mise en service et de maintenance.
+# Section 1 : Règles communes applicables aux jeux de contrepartie et aux jeux de cercle électroniques
 
 - [Article 67-2](article-67-2.md)
 - [Article 67-3](article-67-3.md)

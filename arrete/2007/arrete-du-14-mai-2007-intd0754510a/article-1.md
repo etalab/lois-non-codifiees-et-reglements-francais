@@ -8,7 +8,7 @@ Le présent arrêté détermine :
 
 - les règles de fonctionnement des jeux ;
 
-- les règles d'exploitation et de fonctionnement des appareils mentionnés au d de l'article 1er du décret n° 87-684 du 20 août 1987 dits " machines à sous " ;
+- les règles d'exploitation et de fonctionnement des appareils mentionnés au c et au d de l'article 1er du décret du 22 décembre 1959 modifié ;
 
 - les principes de surveillance et de contrôle.
 

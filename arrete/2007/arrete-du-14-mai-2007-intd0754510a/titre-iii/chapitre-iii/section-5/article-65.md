@@ -8,4 +8,4 @@ Si la totalité des mises venait à dépasser le montant de la chouette, les jou
 
 Même dans ce dernier cas, la table doit être disposée de telle sorte que personne ne soit placé derrière le chouetteur et ne puisse voir son jeu.
 
-Le chouetteur est admis à remettre une fois le montant de la chouette, moyennant le paiement d'un prélèvement au profit de la cagnotte égal au prélèvement primitif, mais si la chouette saute une seconde fois, elle doit être mise de nouveau aux enchères.
+Le chouetteur est admis à remettre une fois le montant de la chouette, moyennant le paiement d'une retenue au profit de la cagnotte égale à la retenue primitive, mais si la chouette saute une seconde fois, elle doit être mise de nouveau aux enchères.
