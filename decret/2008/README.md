@@ -54,7 +54,6 @@
 - [Décret n°2008-891 du 2 septembre 2008 (SJSP0814140D)](decret-n2008-891-du-2-septembre-2008-sjsp0814140d)
 - [Décret n°2008-893 du 2 septembre 2008 (ECET0810720D)](decret-n2008-893-du-2-septembre-2008-ecet0810720d)
 - [Décret n°2008-9 du 2 janvier 2008 (MCCB0756281D)](decret-n2008-9-du-2-janvier-2008-mccb0756281d)
-- [Décret n°2008-421 du 2 mai 2008 (DEVX0810687D)](decret-n2008-421-du-2-mai-2008-devx0810687d)
 - [Décret n°2008-429 du 2 mai 2008 (DEFD0807810D)](decret-n2008-429-du-2-mai-2008-defd0807810d)
 - [Décret n°2002-1436 du 3 décembre 2002 (JUSC0220574D)](decret-n2002-1436-du-3-decembre-2002-jusc0220574d)
 - [Décret n°2008-10 du 3 janvier 2008 (DEVM0774174D)](decret-n2008-10-du-3-janvier-2008-devm0774174d)
