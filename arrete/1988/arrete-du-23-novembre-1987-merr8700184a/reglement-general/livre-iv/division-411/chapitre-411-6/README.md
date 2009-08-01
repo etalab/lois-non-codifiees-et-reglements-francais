@@ -4,6 +4,7 @@
 - [Article 411-6.02](article-411-6-02.md)
 - [Article 411-6.03](article-411-6-03.md)
 - [Article 411-6.04](article-411-6-04.md)
+- [Article 411-6.05](article-411-6-05.md)
 - [Article 411-6.06](article-411-6-06.md)
 - [Article 411-6.07](article-411-6-07.md)
 - [Article 411-6.08](article-411-6-08.md)
