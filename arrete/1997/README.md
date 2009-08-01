@@ -609,7 +609,6 @@
 - [Arrêté du 19 novembre 1997 (MENN9703492A)](arrete-du-19-novembre-1997-menn9703492a)
 - [Arrêté du 19 novembre 1997 (MESA9723627A)](arrete-du-19-novembre-1997-mesa9723627a)
 - [Arrêté du 19 novembre 1997 (MESP9722858A)](arrete-du-19-novembre-1997-mesp9722858a)
-- [Arrêté du 19 novembre 1997 (MESP9723621A)](arrete-du-19-novembre-1997-mesp9723621a)
 - [Arrêté du 19 septembre 1996 (DEFP9601933A)](arrete-du-19-septembre-1996-defp9601933a)
 - [Arrêté du 19 septembre 1997 (AGRS9701959A)](arrete-du-19-septembre-1997-agrs9701959a)
 - [Arrêté du 19 septembre 1997 (MESS9722917A)](arrete-du-19-septembre-1997-mess9722917a)
