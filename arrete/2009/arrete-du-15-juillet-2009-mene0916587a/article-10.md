@@ -1,0 +1,3 @@
+# Article 10
+
+Pour chaque établissement et pour chaque diplôme, un projet annuel de protocole d'évaluation précise les ensembles d'épreuves proposés aux élèves et le calendrier des contrôles. Le projet est adressé, pour validation, à la commission académique d'harmonisation et de proposition des notes, placée sous l'autorité du recteur. Il est ensuite transmis pour information au conseil d'administration de l'établissement. Le protocole définitivement validé est porté à la connaissance des élèves. Présidée par le recteur ou son représentant, la commission académique est composée du ou des inspecteurs d'académie-inspecteurs pédagogiques régionaux d'éducation physique et sportive et d'enseignants d'éducation physique et sportive.

@@ -1,0 +1,3 @@
+# Article 2
+
+L'indemnité d'activité sectorielle et de liaison est exclusive de l'indemnité prévue au 3° des articles 26-6 et 30 et au c du 2° de l'article 38 du décret du 24 février 1984 susvisé. Les activités donnant lieu au versement de l'indemnité pour activité dans plusieurs établissements selon des modalités fixées par l'arrêté du 20 février 2007 susvisé ne peuvent pas être prises en compte pour le versement de l'indemnité prévue au présent arrêté. De même, ne sont pas prises en compte, pour l'attribution de cette indemnité, ni l'activité d'intérêt général ni l'activité libérale exercée par le praticien.

@@ -18,4 +18,5 @@
 - [LOI n° 2009-833 du 7 juillet 2009 (ESRX0830378L)](loi-n-2009-833-du-7-juillet-2009-esrx0830378l)
 - [LOI n° 2009-879 du 21 juillet 2009 (SASX0822640L)](loi-n-2009-879-du-21-juillet-2009-sasx0822640l)
 - [LOI n° 2009-888 du 22 juillet 2009 (ECEX0828955L)](loi-n-2009-888-du-22-juillet-2009-ecex0828955l)
+- [LOI n° 2009-928 du 29 juillet 2009 (DEFX0824148L)](loi-n-2009-928-du-29-juillet-2009-defx0824148l)
 - [LOI n°2009-135 du 9 février 2009 (BCFX0822494L)](loi-n2009-135-du-9-fevrier-2009-bcfx0822494l)

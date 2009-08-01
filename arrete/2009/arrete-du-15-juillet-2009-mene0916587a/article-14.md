@@ -1,0 +1,3 @@
+# Article 14
+
+Le présent arrêté prendra effet à compter de la session 2011 de l'examen pour les certificats d'aptitude professionnelle et brevet d'études professionnelles et 2012 pour le baccalauréat professionnel. Les modalités d'organisation du contrôle en cours de formation et de l'examen ponctuel terminal pour l'évaluation de l'enseignement d'éducation physique et sportive, fixées par l'arrêté du 11 juillet 2005, sont abrogées pour ce qui concerne le baccalauréat professionnel à l'issue de la session 2011, le brevet d'études professionnelles et le certificat d'aptitude professionnelle, à l'issue de la session 2010.
