@@ -138,7 +138,6 @@
 - [Arrêté du 4 mars 2009 (DEVP0900412A)](arrete-du-4-mars-2009-devp0900412a)
 - [Arrêté du 4 mars 2009 (IOCD0905338A)](arrete-du-4-mars-2009-iocd0905338a)
 - [Arrêté du 4 mai 2009 (AGRM0906050A)](arrete-du-4-mai-2009-agrm0906050a)
-- [Arrêté du 4 mai 2009 (AGRM0908941A)](arrete-du-4-mai-2009-agrm0908941a)
 - [Arrêté du 4 mai 2009 (DEVA0910068A)](arrete-du-4-mai-2009-deva0910068a)
 - [Arrêté du 4 mai 2009 (DEVE0908618A)](arrete-du-4-mai-2009-deve0908618a)
 - [Arrêté du 4 mai 2009 (DEVE0909909A)](arrete-du-4-mai-2009-deve0909909a)
