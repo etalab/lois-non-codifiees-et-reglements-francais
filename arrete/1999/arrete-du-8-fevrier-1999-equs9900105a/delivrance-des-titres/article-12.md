@@ -82,6 +82,8 @@ Les codes utilisés et leur signification sont les suivants :
 
 79 (12500 kg) : peut concerner la catégorie E (C) ;
 
+79 (motorhome / autocaravane dont le PTAC > 3 500 kg) : concerne la catégorie B ;
+
 101 : catégorie C limitée à 7500 kg jusqu'à vingt et un ans ;
 
 102: catégorie E (C) limitée à 7500 kg jusqu'à vingt et un ans ;
