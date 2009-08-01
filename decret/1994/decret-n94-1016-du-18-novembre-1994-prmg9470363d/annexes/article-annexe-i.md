@@ -62,11 +62,11 @@ Secrétaires administratifs du ministère de l'économie, des finances et de l'i
 
 Secrétaires administratifs du ministère de la défense.
 
-Secrétaires administratifs de l'Etablissement national des produits de l'agriculture et de la mer (FranceAgriMer) et de l'   Agence de services et de paiement.
+Secrétaires administratifs de l'Etablissement national des produits de l'agriculture et de la mer (FranceAgriMer) et de l'Agence de services et de paiement.
 
 Secrétaires administratifs du Conseil d'Etat.
 
-Secrétaires administratifs du Conseil économique et social.
+.
 
 Secrétaires administratifs des juridictions financières.
 
