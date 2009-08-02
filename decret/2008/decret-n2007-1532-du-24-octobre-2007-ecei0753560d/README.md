@@ -5,4 +5,4 @@
 - [Article 2](article-2.md)
 - [Chapitre II : Redevance de gestion de fréquences.](chapitre-ii)
 - [Article 3](article-3.md)
-- [Chapitre III : Autres dispositions.](chapitre-iii)
+- [Chapitre III : Redevance due par les opérateurs exploitant un réseau mobile terrestre de deuxième ou troisième génération ouvert au public](chapitre-iii)
