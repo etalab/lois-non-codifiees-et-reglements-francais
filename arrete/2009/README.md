@@ -236,7 +236,6 @@
 - [Arrêté du 6 février 2009 (BCFD0830937A)](arrete-du-6-fevrier-2009-bcfd0830937a)
 - [Arrêté du 6 février 2009 (DEVA0903226A)](arrete-du-6-fevrier-2009-deva0903226a)
 - [Arrêté du 6 février 2009 (DEVE0905396A)](arrete-du-6-fevrier-2009-deve0905396a)
-- [Arrêté du 6 février 2009 (DEVS0830480A)](arrete-du-6-fevrier-2009-devs0830480a)
 - [Arrêté du 6 février 2009 (ECED0902698A)](arrete-du-6-fevrier-2009-eced0902698a)
 - [Arrêté du 6 février 2009 (ECED0903185A)](arrete-du-6-fevrier-2009-eced0903185a)
 - [Arrêté du 6 février 2009 (ECEK0900010A)](arrete-du-6-fevrier-2009-ecek0900010a)
