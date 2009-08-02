@@ -962,7 +962,6 @@
 - [Arrêté du 25 juillet 2008 (MTSS0818828A)](arrete-du-25-juillet-2008-mtss0818828a)
 - [Arrêté du 25 juin 2008 (BCFD0816706A)](arrete-du-25-juin-2008-bcfd0816706a)
 - [Arrêté du 25 juin 2008 (DEVA0814510A)](arrete-du-25-juin-2008-deva0814510a)
-- [Arrêté du 25 juin 2008 (JUSF0815784A)](arrete-du-25-juin-2008-jusf0815784a)
 - [Arrêté du 25 juin 2008 (SJSS0803521A)](arrete-du-25-juin-2008-sjss0803521a)
 - [Arrêté du 25 juin 2008 (SJSS0803525A)](arrete-du-25-juin-2008-sjss0803525a)
 - [Arrêté du 25 juin 2008 (SJSS0803664A)](arrete-du-25-juin-2008-sjss0803664a)

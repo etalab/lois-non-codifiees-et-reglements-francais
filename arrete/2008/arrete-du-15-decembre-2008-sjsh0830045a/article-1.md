@@ -292,8 +292,6 @@ Maison de retraite, aux Abrets (Isère) ;
 
 Maison de retraite, à Virieu (Isère) ;
 
-Maison d'enfants Le Belvédère, à Corenc (Isère) ;
-
 Maison de retraite, à Corps (Isère) ;
 
 Hôpital local, à Nozeroy (Jura) ;
@@ -315,8 +313,6 @@ Maison de retraite, à Saint-Martin-de-Seignanx (Landes) ;
 Etablissement d'hébergement pour personnes âgées, à Sore (Landes) ;
 
 Etablissement d'hébergement pour personnes âgées, à Pontonx-sur-Adour (Landes) ;
-
-Maison de retraite, à Sabres (Landes) ;
 
 Maison de retraite, à Cour-Cheverny (Loir-et-Cher) ;
 
@@ -734,15 +730,11 @@ Etablissement d'hébergement pour personnes âgées, à Aubigny-en-Artois (Pas-d
 
 Maison de retraite, à Auxi-le-Château (Pas-de-Calais) ;
 
-Maison de retraite, à Graincourt-lès-Havrincourt (Pas-de-Calais) ;
-
 Etablissement d'hébergement pour personnes âgées, à Lestrem (Pas-de-Calais) ;
 
 Etablissement d'hébergement pour personnes âgées, à Nedonchel (Pas-de-Calais) ;
 
 Maison de retraite, à Croisilles (Pas-de-Calais) ;
-
-Institut médico-éducatif Raymond Dufay, à Saint-Omer (Pas-de-Calais) ;
 
 Etablissement d'hébergement pour personnes âgées dépendantes, à Royat (Puy-de-Dôme) ;
 
@@ -910,6 +902,16 @@ Foyer de l'enfance Tandou, à Paris (Paris) ;
 
 Centre d'hébergement et de réinsertion sociale Pixérécourt, à Paris (Paris) ;
 
+Etablissement d'accueil mère-enfant Ledru-Rollin, à Fontenay-aux-Roses (Paris) ;
+
+Centre d'éducation et de formation professionnelle Pontourny, à Beaumont-en-Véron (Paris) ;
+
+Foyer Parent de Rosan, à Paris (Paris) ;
+
+Centre éducatif Dubreuil, à Orsay (Paris) ;
+
+Foyer d'accueil de Forges, à Forges-les-Bains (Paris) ;
+
 EPA Education motricité, surdité et langage, au Havre (Seine-Maritime) ;
 
 Centre d'aide par le travail, à Bacqueville-en-Caux (Seine-Maritime) ;
@@ -933,8 +935,6 @@ Maison de retraite, à Montivilliers (Seine-Maritime) ;
 Etablissement d'hébergement pour personnes âgées, à Montville (Seine-Maritime) ;
 
 Etablissement d'hébergement pour personnes âgées, à Notre-Dame-de-Bondeville (Seine-Maritime) ;
-
-Institut départemental de l'enfance, à Canteleu (Seine-Maritime) ;
 
 Foyer d'accueil de l'enfance, à Elbeuf (Seine-Maritime) ;
 

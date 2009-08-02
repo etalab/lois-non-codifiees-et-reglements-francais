@@ -24,7 +24,7 @@ Centre de long séjour, à Vallauris (Alpes-Maritimes) ;
 
 Hôpital local, à Villeneuve-de-Berg (Ardèche) ;
 
-Etablissement public Argonne, à Belleville-sur-Bar (Ardennes) ;
+Etablissement départemental public d'accompagnement médico-social Jacques Sourdille, à Belleville-sur-Bar (Ardennes)  ;
 
 Hôpital local, à Espalion (Aveyron) ;
 
@@ -82,7 +82,7 @@ Hôpital local, à Pont-Saint-Esprit (Gard) ;
 
 Hôpital local, à Uzès (Gard) ;
 
-Etablissement d'hébergement pour personnes âgées, à Bagnères-de-Luchon (Haute-Garonne) ;
+Centre hospitalier "Les hôpitaux de Luchon", à Bagnères-de-Luchon (Haute-Garonne)  ;
 
 Hôpital local, à Muret (Haute-Garonne) ;
 
@@ -129,6 +129,8 @@ Maison départementale de Mindin, à Saint-Brévin-les-Pins (Loire-Atlantique) ;
 Etablissement public médico-social Le Littoral, à Saint-Brévin-les-Pins (Loire-Atlantique) ;
 
 Hôpital local intercommunal, à Sèvre-et-Loire (Loire-Atlantique) ;
+
+Centre départemental Enfance familles, à Saint-Sébastien-sur-Loire (Loire-Atlantique) ;
 
 Centre hospitalier, à Nérac (Lot-et-Garonne) ;
 
@@ -188,6 +190,10 @@ Institut Vancauwenberghe, à Zuydcoote (Nord) ;
 
 Centre départemental de l'enfance et de la famille, à Beauvais (Oise) ;
 
+Hôpital local, à Crépy-en-Valois (Oise) ;
+
+Hôpital local, à Sées (Orne) ;
+
 Etablissement public départemental de l'enfance et de la famille, à Arras (Pas-de-Calais) ;
 
 Centre hospitalier, à Bapaume (Pas-de-Calais) ;
@@ -230,8 +236,6 @@ Centre hospitalier, à Rumilly (Haute-Savoie) ;
 
 Maison de retraite, à Reignier (Haute-Savoie) ;
 
-Centre de formation professionnelle, à Montevrain (Paris) ;
-
 Centre hospitalier, à Neufchâtel-en-Bray (Seine-Maritime) ;
 
 Centre hospitalier, à Barentin (Seine-Maritime) ;
@@ -245,6 +249,8 @@ Centre hospitalier, à Darnétal (Seine-Maritime) ;
 Centre hospitalier, à Déville-lès-Rouen (Seine-Maritime) ;
 
 Centre hospitalier du Bois Petit, à Sotteville-lès-Rouen (Seine-Maritime) ;
+
+Institut départemental de l'enfance, de la famille et du handicap pour l'insertion (IDEFHI), à Canteleu (Seine-Maritime).
 
 Hôpital local intercommunal, à Jouarre-la-Ferté (Seine-et-Marne) ;
 
@@ -265,8 +271,6 @@ Centre hospitalier, à Ham (Somme) ;
 Centre hospitalier, à Gaillac (Tarn) ;
 
 Hôpital local départemental, au Luc-en-Provence (Var) ;
-
-Etablissement d'hébergement pour personnes âgées, à Pierrefeu (Var) ;
 
 Centre départemental de l'enfance, au Pradet (Var) ;
 
