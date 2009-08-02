@@ -29,3 +29,5 @@ e) La décision de réalisation de travaux d'entretien ;
 f) La gestion de la trésorerie disponible ;
 
 g) Le suivi de l'encaissement des produits et le traitement des contentieux éventuels.
+
+3° L'établissement du prix d'exécution peut être délégué à un prestataire de services d'investissement fournissant le service d'exploitation d'un système multilatéral de négociation ou à une entreprise de marché.
