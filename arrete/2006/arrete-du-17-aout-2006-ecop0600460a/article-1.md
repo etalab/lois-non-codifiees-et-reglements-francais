@@ -25,7 +25,7 @@ Les chefs de service comptable sont classés dans les catégories et groupes pr�
 <p>-Groupe I </p>
 </td>
 <td valign="top">
-<p>Aix-en-Provence, Bayonne, Bordeaux, Le Havre, Marseille, Nantes, Nice, Paris, Paris Est et Perpignan.</p>
+<p>Aix-en-Provence, Bayonne, Bordeaux, Le Havre, Marseille, Nantes, Nice, Ile-de-France, Paris Est et Perpignan.</p>
 </td>
 </tr>
 <tr>
@@ -41,7 +41,7 @@ Les chefs de service comptable sont classés dans les catégories et groupes pr�
 <p>Emploi de 2e catégorie </p>
 </td>
 <td valign="top">
-<p>Annecy, Amiens, Basse-Terre, Bastia, Besançon, Cayenne, centre informatique douanier, Chambéry, Clermont-Ferrand, direction nationale du renseignement et des enquêtes douanières, Dunkerque, Fort-de-France, Metz, Mulhouse, Nancy, Orly, Paris EPA masse, Poitiers, Reims, Roissy-en-France, Saint-Denis Toulouse et Valenciennes. </p>
+<p>Annecy, Amiens, Basse-Terre, Bastia, Besançon, Cayenne, centre informatique douanier, Chambéry, Clermont-Ferrand, direction nationale du renseignement et des enquêtes douanières, Dunkerque, Fort-de-France, Metz, Mulhouse, Nancy, Orly, Paris, Paris EPA masse, Poitiers, Reims, Roissy-en-France, Saint-Denis et Toulouse. </p>
 </td>
 </tr>
 <tr>
