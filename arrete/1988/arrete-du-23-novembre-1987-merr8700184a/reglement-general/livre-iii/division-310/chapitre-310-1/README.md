@@ -3,7 +3,6 @@
 - [Article 310-1.01](article-310-1-01.md)
 - [Article 310-1.02](article-310-1-02.md)
 - [Article 310-1.03](article-310-1-03.md)
-- [Article 310-1.04](article-310-1-04.md)
 - [Article 310-1.05](article-310-1-05.md)
 - [Article 310-1.06](article-310-1-06.md)
 - [Article 310-1.07](article-310-1-07.md)
