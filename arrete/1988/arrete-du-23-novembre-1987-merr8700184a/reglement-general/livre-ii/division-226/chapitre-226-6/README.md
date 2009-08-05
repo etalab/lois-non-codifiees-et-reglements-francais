@@ -4,6 +4,7 @@
 - [Article 226-6.02](article-226-6-02.md)
 - [Article 226-6.03](article-226-6-03.md)
 - [Article 226-6.03-1](article-226-6-03-1.md)
+- [Article 226-6.03-2](article-226-6-03-2.md)
 - [Article 226-6.04](article-226-6-04.md)
 - [Article 226-6.05](article-226-6-05.md)
 - [Article 226-6.06](article-226-6-06.md)

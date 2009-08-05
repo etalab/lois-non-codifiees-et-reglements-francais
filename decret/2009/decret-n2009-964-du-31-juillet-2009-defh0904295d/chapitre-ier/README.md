@@ -1,0 +1,4 @@
+# CHAPITRE IER : DISPOSITIONS APPLICABLES  A L'EMPLOI DE DIRECTEUR GENERAL ADJOINT
+
+- [Article 2](article-2.md)
+- [Article 3](article-3.md)

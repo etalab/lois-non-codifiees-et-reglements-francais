@@ -14,7 +14,7 @@ c) La durée de validité de la convention ;
 
 d) Les obligations de confidentialité à la charge des parties conformément aux lois et règlements en vigueur relatifs au secret professionnel ;
 
-3° Lorsque le dépositaire n'effectue pas la compensation des instruments financiers à terme :
+3° Lorsque le dépositaire n'effectue pas la compensation des contrats financiers :
 
 a) L'identité de l'établissement désigné pour assurer la compensation des instruments financiers à terme ;
 
