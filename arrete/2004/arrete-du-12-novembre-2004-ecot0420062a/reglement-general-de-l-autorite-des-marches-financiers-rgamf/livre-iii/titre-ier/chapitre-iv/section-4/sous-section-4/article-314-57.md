@@ -16,7 +16,7 @@ II. - Pour l'application du 1° du III de l'article L. 533-13 du code monétaire
 
 a) Un instrument financier mentionné à l'article L. 211-1 du code monétaire et financier dès lors qu'il donne le droit d'acquérir ou de vendre un autre instrument financier ou donne lieu à un règlement en espèces, fixé par référence à des instruments financiers, à une monnaie, à un taux d'intérêt ou rendement, aux matières premières ou à d'autres indices ou mesures ;
 
-b) Un instrument financier à terme au sens du 4 du I de l'article L. 211-1 du code monétaire et financier ;
+b) Un contrat financier au sens du III de l'article L. 211-1 du code monétaire et financier ;
 
 2° Les occasions sont fréquentes de céder, rembourser ou réaliser cet instrument, à des prix qui sont disponibles au public et qui sont soit des prix de marché, soit des prix mis à disposition, ou validés, par des systèmes d'évaluation indépendants de l'émetteur ;
 

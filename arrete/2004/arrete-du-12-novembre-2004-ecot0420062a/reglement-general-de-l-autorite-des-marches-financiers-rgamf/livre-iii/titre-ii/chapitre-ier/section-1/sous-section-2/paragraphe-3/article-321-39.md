@@ -6,7 +6,7 @@ La société de gestion peut conclure une convention avec un tiers, ayant la qua
 
 Ce tiers s'engage à communiquer, à la demande de la société de gestion, l'ensemble des éléments permettant à cette dernière de vérifier la conformité des procédures et contrôles mis en oeuvre aux engagements contractuels susvisés.
 
-II. - Lors de la mise en oeuvre de sa politique d'investissement ou de sa stratégie de gestion pour les fonds communs de créances par la conclusion de contrat constituant des instruments financiers à terme, la société de gestion veille à évaluer le risque de blanchiment de capitaux et de financement du terrorisme.
+II. - Lors de la mise en oeuvre de sa politique d'investissement ou de sa stratégie de gestion pour les fonds communs de créances par la conclusion de contrat constituant des contrats financiers, la société de gestion veille à évaluer le risque de blanchiment de capitaux et de financement du terrorisme.
 
 Elle identifie notamment tout instrument financier émis par des personnes morales agissant sous forme ou pour le compte de fonds fiduciaires ou de toute autre structure de gestion d'un patrimoine d'affectation dont l'identité des constituants ou des bénéficiaires n'est pas connue.
 

@@ -1,6 +1,6 @@
 # Article 323-13
 
-Lorsque le dépositaire n'effectue pas la compensation d'instruments financiers à terme, il conclut une convention écrite avec l'établissement chargé de ce service.
+Lorsque le dépositaire n'effectue pas la compensation de contrats financiers, il conclut une convention écrite avec l'établissement chargé de ce service.
 
 Cette convention précise les obligations du dépositaire et de l'établissement compensateur ainsi que les modalités de transmission d'informations de façon à permettre au dépositaire d'exercer la tenue de position des instruments financiers et des espèces concernés.
 

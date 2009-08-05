@@ -10,7 +10,7 @@ a) Les instruments financiers négociés sur un marché réglementé ou sur un m
 
 b) Les OPCVM européens conformes à la directive 85/611/CEE du 20 décembre 1985 et les OPCVM de droit français ouverts à tous souscripteurs ;
 
-c) Les instruments financiers à terme négociés sur un marché figurant sur la liste fixée par arrêté ministériel ;
+c) Les contrats financiers négociés sur un marché figurant sur la liste fixée par arrêté ministériel ;
 
 3° Les modalités d'information du mandant sur la gestion de son portefeuille ;
 
@@ -18,7 +18,7 @@ c) Les instruments financiers à terme négociés sur un marché figurant sur la
 
 5° Le cas échéant, lorsque le mandant n'a pas la qualité d'investisseur qualifié, la possibilité de participer à des opérations ou de souscrire ou acquérir des instruments financiers réservés aux investisseurs qualifiés.
 
-Lorsque le mandat autorise des opérations portant sur les instruments financiers autres que ceux mentionnés au 2° ou à effet de levier, notamment les opérations effectuées sur les instruments financiers à terme, l'accord spécial et exprès du mandant doit être donné, qui indique clairement les instruments autorisés, les modalités de ces opérations et de l'information du mandant ;
+Lorsque le mandat autorise des opérations portant sur les instruments financiers autres que ceux mentionnés au 2° ou à effet de levier, notamment les opérations effectuées sur les contrats financiers, l'accord spécial et exprès du mandant doit être donné, qui indique clairement les instruments autorisés, les modalités de ces opérations et de l'information du mandant ;
 
 6° Le cas échéant, l'indication que la rémunération variable est acquise dès le premier euro de performance lorsque la commission de gestion comprend une part variable liée à la surperformance du portefeuille géré par rapport à l'objectif de gestion.
 

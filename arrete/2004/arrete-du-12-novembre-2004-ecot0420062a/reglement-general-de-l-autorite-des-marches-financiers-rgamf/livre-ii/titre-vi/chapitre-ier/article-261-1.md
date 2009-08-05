@@ -14,6 +14,6 @@ Il en est ainsi notamment dans les cas suivants :
 
 5° Lorsque l'offre porte sur des instruments financiers de catégories différentes et est libellée à des conditions de prix susceptibles de porter atteinte à l'égalité entre les actionnaires ou les porteurs des instruments financiers qui font l'objet de l'offre ;
 
-6° Lorsque l'acquisition de la société visée est rémunérée par des instruments financiers mentionnés au 1° du I de l'article L. 211-1 du code monétaire et financier donnant accès ou pouvant donner accès, directement ou indirectement, au capital ou aux droits de vote de l'initiateur ou d'une société appartenant au groupe de l'initiateur, autres que des actions.
+6° Lorsque l'acquisition de la société visée est rémunérée par des instruments financiers mentionnés au 1° du II de l'article L. 211-1 du code monétaire et financier donnant accès ou pouvant donner accès, directement ou indirectement, au capital ou aux droits de vote de l'initiateur ou d'une société appartenant au groupe de l'initiateur, autres que des actions.
 
 II. - La société visée désigne également un expert indépendant préalablement à la mise en oeuvre d'un retrait obligatoire sous réserve des dispositions de l'article 237-16.
