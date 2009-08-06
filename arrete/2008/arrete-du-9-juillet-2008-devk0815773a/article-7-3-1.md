@@ -8,7 +8,7 @@ La sous-direction des affaires générales est chargée :
 
 ― d'élaborer le plan de formation de la direction générale ;
 
-― de préparer et conclure les marchés et conventions relatifs aux domaines de compétences de la direction générale dans la limite des attributions dévolues au secrétariat général du ministère ;
+― d'assurer un suivi et un contrôle interne de la régularité des procédures d'achat public dans les domaines de compétences de la direction générale de l'aménagement, du logement et de la nature, sans préjudice des attributions dévolues au secrétariat général ;
 
 ― d'assurer le bon fonctionnement interne de la direction générale et de suivre l'utilisation des moyens correspondants ;
 

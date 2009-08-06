@@ -10,11 +10,13 @@ Elle assure la coordination et le suivi des moyens consacrés aux contrats de pl
 
 Elle anime le réseau des correspondants budgétaires et fiscaux du ministère.
 
+Elle est chargée, au titre de la fonction de commissaire du Gouvernement exercée par le secrétaire général auprès de l'Agence de l'environnement et de la maîtrise de l'énergie, de la tutelle financière et budgétaire de l'agence.
+
 Elle assure le pilotage du contrôle interne comptable dans l'ensemble des services du ministère, en lien avec le département comptable ministériel.
 
 Elle élabore, met en œuvre et actualise le Plan d'action ministériel (PAM)
 
-Elle coordonne les travaux du contrôle interne comptable avec les missions d'audit ministérielles. Elle réalise des contrôles comptables de « deuxième niveau ».
+Elle coordonne les travaux du contrôle interne comptable avec les missions d'audit ministérielles. Elle réalise des contrôles comptables de deuxième niveau.
 
 Elle est maître d'ouvrage des formations au contrôle interne comptable.
 

@@ -22,14 +22,6 @@ Elle comprend :
 
 ― le bureau de l'informatique et des réseaux ;
 
-― le bureau des ressources humaines et des moyens ;
+― le bureau des ressources humaines et de la logistique ;
 
-― la mission des actions transversales ;
-
-― la mission partage des connaissances ;
-
-― le centre de documentation et d'information de la sécurité routière ;
-
-― la mission de coordination des relations avec les services déconcentrés, le réseau scientifique et technique ;
-
-― le conseil en gestion et management.
+― le bureau de la coordination et de la synthèse.

@@ -8,8 +8,8 @@ Outre le webmestre du site internet sécurité routière (WEBSR), il comprend :
 
 ― le bureau campagnes nationales et événements ;
 
-― le bureau de la division transport du Centre national d'information routière ;
+― le bureau gestion-production-diffusion ;
 
-― le bureau gestion-production-diffusion.
+― le centre de documentation et d'information de la sécurité routière.
 
-Le bureau de la division transport du Centre national d'information routière est mis à la disposition de la direction générale des infrastructures, des transports et de la mer pour l'exercice de ses compétences en matière de gestion des trafics, conformément à l'article 5.1.1.4.
+La division transport du Centre national d'information routière est mise à la disposition de la délégation à la sécurité et à la circulation routières par la direction générale des infrastructures, des transports et de la mer pour l'exercice de ses compétences en matière de communication "grand public" sur la sécurité routière, conformément à l'article 5.1.1.4.

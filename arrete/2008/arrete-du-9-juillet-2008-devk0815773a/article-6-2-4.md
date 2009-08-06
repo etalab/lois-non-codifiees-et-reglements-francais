@@ -10,7 +10,9 @@ La sous-direction des systèmes d'information et de la modernisation est chargé
 
 ― de définir, selon les orientations du secrétariat général du ministère, la politique immobilière de la direction générale de l'aviation civile et de s'assurer de sa mise en œuvre, en coordination avec le service national d'ingénierie aéroportuaire ; dans le cadre de la politique d'environnement et de développement durable du ministère, elle suit les projets relatifs au plan carbone du ministère et à l'éco-responsabilité ;
 
-― de conduire la politique de conservation et de valorisation du patrimoine historique, selon les orientations du secrétariat général du ministère de gérer les archives de l'administration centrale et des services à compétence nationale et d'animer le réseau des correspondants « archives » de l'ensemble des services de la direction générale de l'aviation civile.
+― de conduire la politique de conservation et de valorisation du patrimoine historique, selon les orientations du secrétariat général du ministère de gérer les archives de l'administration centrale et des services à compétence nationale et d'animer le réseau des correspondants archives de l'ensemble des services de la direction générale de l'aviation civile ;
+
+― d'assurer la gestion des moyens logistiques au niveau central.
 
 Elle comprend :
 
@@ -22,4 +24,6 @@ Elle comprend :
 
 ― le pôle système d'information de gestion et de pilotage ;
 
-― la mission archives.
+― la mission archives ;
+
+― la division de la logistique.

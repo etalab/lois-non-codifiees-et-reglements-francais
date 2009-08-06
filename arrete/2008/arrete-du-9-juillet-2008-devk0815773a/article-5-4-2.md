@@ -4,7 +4,7 @@ La sous-direction du budget et de la synthèse administrative exerce les attribu
 
 En liaison avec les services du secrétariat général, elle prépare et exécute les budgets des programmes relevant de la responsabilité de la direction générale des infrastructures, des transports et de la mer, prépare les documents annuels de performance et est chargée de préparer le dialogue de gestion avec les services et organismes relevant de la direction générale.
 
-Elle est chargée également de préparer et conclure les marchés et conventions relatifs aux domaines de compétences de la direction générale des infrastructures, des transports et de la mer, dans la limite des attributions dévolues au service des politiques support et des systèmes d'information.
+Elle est chargée également d'assurer un suivi et un contrôle interne de la régularité des procédures d'achat public dans les domaines de compétences de la direction générale des infrastructures, des transports et de la mer, sans préjudice des attributions dévolues au secrétariat général.
 
 Elle exerce la tutelle de l'Agence de financement des infrastructures de transports de France.
 

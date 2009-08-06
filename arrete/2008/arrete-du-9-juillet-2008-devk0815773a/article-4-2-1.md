@@ -6,9 +6,9 @@ La sous-direction du climat et de la qualité de l'air :
 
 ― contribue à la définition de la position française dans les négociations internationales relatives à l'effet de serre ;
 
-― réalise des études et recherches sur les risques liés au réchauffement climatique et aux phénomènes extrêmes, et évalue leurs impacts sur l'économie et l'environnement ;
+- élabore et propose la stratégie de gestion des actifs carbone de l'Etat et d'intervention sur les marchés carbone en cas de recours à des achats ou cessions de droits ou quotas d'émission ;
 
-- élabore et propose la stratégie de gestion des actifs carbone de l'Etat et d'intervention sur les marchés carbone en cas de recours à des achats ou cessions de droits ou quotas d'émission.
+― réalise des études et recherches sur les risques liés au réchauffement climatique et aux phénomènes extrêmes, et évalue leurs impacts sur l'économie et l'environnement ;
 
 ― en coordination avec la direction générale de la prévention des risques, connaît et évalue les pollutions et les nuisances atmosphériques créées par les installations fixes et les activités de transport et veille à leur prévention ; élabore la réglementation de la lutte contre la pollution atmosphérique et définit les conditions de surveillance de la qualité de l'air, de ses effets sur la santé et sur l'environnement ; veille à l'application de ces dispositions ;
 
@@ -22,15 +22,13 @@ La sous-direction du climat et de la qualité de l'air :
 
 ― assure le suivi des questions relatives à la distribution collective et aux réseaux de chaleur ;
 
-― apporte son soutien aux opérateurs de son secteur ;
-
-― exerce la tutelle de l'Agence de l'environnement et de la maîtrise de l'énergie.
+― apporte son soutien aux opérateurs du secteur.
 
 Elle comprend :
 
 ― le département  lutte contre l'effet de serre  ;
 
-- le bureau " marchés carbone " ;
+― le bureau " marchés carbone " ;
 
 ― le bureau  qualité de l'air  ;
 
