@@ -1,0 +1,3 @@
+# Article 1-1
+
+Lorsqu'un centre de formation d'apprentis ou une section d'apprentissage est habilité à mettre en œuvre le contrôle en cours de formation en vue de l'obtention d'une spécialité de baccalauréat professionnel, il est également habilité, sans en avoir fait la demande, à mettre en œuvre ce contrôle en vue de l'obtention de la spécialité de certificat d'aptitude professionnelle ou de brevet d'études professionnelles à laquelle peuvent se présenter les apprentis pendant la formation conduisant au baccalauréat professionnel. L'arrêté d'habilitation mentionne les deux spécialités de diplôme concernées.

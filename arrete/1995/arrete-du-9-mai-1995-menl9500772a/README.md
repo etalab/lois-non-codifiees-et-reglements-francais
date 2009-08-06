@@ -1,6 +1,7 @@
 # Arrêté du 9 mai 1995 fixant les conditions d'habilitation à mettre en oeuvre le contrôle en cours de formation en vue de la délivrance du baccalauréat professionnel, du brevet professionnel, et du brevet de technicien supérieur
 
 - [Article 1](article-1.md)
+- [Article 1-1](article-1-1.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)

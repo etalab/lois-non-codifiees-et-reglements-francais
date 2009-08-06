@@ -7,3 +7,5 @@ Elle peut être reconduite après communication au recteur des modifications qui
 Toutefois, le recteur peut retirer l'habilitation ainsi délivrée pour des raisons dûment motivées et notamment au regard du bilan précisé à l'article 5 ci-dessous, après avis des corps d'inspection concernés.
 
 La décision de retrait a pour effet de suspendre l'évaluation sous la forme du contrôle en cours de formation et de lui substituer l'examen sous la forme d'épreuves ponctuelles.
+
+La décision de retrait de l'habilitation à mettre en œuvre le contrôle en cours de formation pour une spécialité de baccalauréat professionnel entraîne le retrait de l'habilitation pour la spécialité de certificat d'aptitude professionnelle ou de brevet d'études professionnelles correspondant.
