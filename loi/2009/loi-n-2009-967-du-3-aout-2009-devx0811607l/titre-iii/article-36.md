@@ -1,0 +1,3 @@
+# Article 36
+
+La réduction des atteintes à l'environnement contribue à l'amélioration de la santé publique et à la compétitivité des entreprises. La sobriété dans la consommation des matières premières, notamment par la prévention des pollutions et des déchets, fournit un élément essentiel d'une nouvelle économie. La mise en œuvre de cette politique sera fondée sur les principes de précaution, de substitution, de participation et de pollueur-payeur. La politique environnementale sera prise en compte comme une composante de la politique de santé dont le lien étroit avec l'environnement et la santé des écosystèmes sera reconnu.

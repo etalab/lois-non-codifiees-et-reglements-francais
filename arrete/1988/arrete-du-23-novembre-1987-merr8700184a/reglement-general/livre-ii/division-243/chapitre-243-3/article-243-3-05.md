@@ -1,0 +1,9 @@
+# Article 243-3.05
+
+Stabilité après avarie des multicoques
+
+I. - A bord des multicoques, le compartimentage assure la flottabilité du navire en cas d'envahissement de la moitié du volume de n'importe quelle coque ou flotteur. Le propriétaire fournit les plans et documents visés par un organisme agréé, faisant apparaître clairement les calculs de flottabilité, sauf si l'autorité compétente estime que ce calcul n'est pas nécessaire compte tenu de la densité du compartimentage ou du volume des compartiments envahissables. De manière alternative, les calculs peuvent être remplacés par des essais en présence d'un représentant de l'autorité compétente.
+
+II. - Les multicoques comportent un moyen d'évacuation pour chaque compartiment habitable, utilisables que le navire soit retourné ou non. Lorsque le navire est retourné, aucun moyen d'évacuation n'est immergé, et ce même en cas d'envahissement de l'un quelconque des compartiments du navire. Le clair de chaque moyen d'évacuation peut contenir au moins une section circulaire de 450 mm de diamètre. Des prises de main et des marchepieds sont disposés de manière à assurer l'usage rapide et aisé de ces moyens, même lorsque le navire est retourné. Le propriétaire fournit à cet effet les plans et documents visé par un organisme agréé, faisant apparaître clairement la position des moyens d'évacuation par rapport à la ligne d'immersion dans chaque cas de compartiment envahi. De manière alternative, les calculs peuvent être remplacés par des essais en présence d'un représentant de l'autorité compétente.
+
+III. - Pour valider les calculs, une pesée en condition lège est effectuée préalablement à la mise en service, en présence d'un représentant de l'autorité compétente. La méthode de pesée est validée par l'autorité compétente sur proposition de l'armateur.

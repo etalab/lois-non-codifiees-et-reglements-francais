@@ -1,0 +1,5 @@
+# Article 29
+
+La trame bleue permettra de préserver et de remettre en bon état les continuités écologiques des milieux nécessaires à la réalisation de l'objectif d'atteindre ou de conserver, d'ici à 2015, le bon état écologique ou le bon potentiel pour les masses d'eau superficielles ; en particulier, l'aménagement des obstacles les plus problématiques pour la migration des poissons sera mis à l'étude. Cette étude, basée sur des données scientifiques, sera menée en concertation avec les acteurs concernés.
+
+Le développement des maîtrises d'ouvrage locales sera recherché, notamment en y associant les collectivités territoriales, afin de remettre en bon état et entretenir les zones humides et les réservoirs biologiques essentiels pour la biodiversité et le bon état écologique des masses d'eau superficielles. En particulier, la création des établissements publics territoriaux de bassin sera encouragée, ainsi que l'investissement des agences de l'eau et des offices de l'eau dans ces actions.

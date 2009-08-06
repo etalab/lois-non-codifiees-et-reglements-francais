@@ -53,6 +53,7 @@
 - [Décret n°2009-256 du 4 mars 2009 (DEFD0830870D)](decret-n2009-256-du-4-mars-2009-defd0830870d)
 - [Décret n°2009-613 du 4 juin 2009 (PRMX0909200D)](decret-n2009-613-du-4-juin-2009-prmx0909200d)
 - [Décret n°2009-617 du 4 juin 2009 (DEVK0905349D)](decret-n2009-617-du-4-juin-2009-devk0905349d)
+- [Décret n°2009-968 du 4 août 2009 (SASS0914689D)](decret-n2009-968-du-4-aout-2009-sass0914689d)
 - [Décret n°65-845 du 4 octobre 1965](decret-n65-845-du-4-octobre-1965)
 - [Décret n°91-1139 du 4 novembre 1991 (ENVE9161941D)](decret-n91-1139-du-4-novembre-1991-enve9161941d)
 - [Décret du 4 mai 2009 (DEVN0907251D)](decret-du-4-mai-2009-devn0907251d)
