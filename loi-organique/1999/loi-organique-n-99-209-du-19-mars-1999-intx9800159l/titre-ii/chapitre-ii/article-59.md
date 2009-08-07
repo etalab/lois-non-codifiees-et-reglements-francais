@@ -19,3 +19,5 @@ S'il est mis fin au détachement, à la demande de l'autorité auprès de laquel
 III. - Les fonctionnaires qui n'ont pas fait usage de leur droit d'option dans les délais prévus au II sont réputés avoir choisi le maintien de leur statut de fonctionnaire de l'Etat et avoir sollicité leur détachement dans les conditions décrites au 1° du II.
 
 Les fonctionnaires qui ont choisi, dans les délais prévus au II, le maintien de leur statut de fonctionnaire de l'Etat sans toutefois avoir fait usage du droit d'option prévu au II sont réputés, à l'issue des délais prévus, avoir sollicité leur détachement dans les conditions décrites au 1° du II.
+
+IV. - Le Gouvernement présente à la commission consultative d'évaluation des charges prévue à l'article 55, dans un délai de six mois à compter du terme de la mise à disposition des personnels prévue au présent article et au deuxième alinéa de l'article 59-1, un bilan portant sur l'évolution, entre l'adoption des lois du pays prévues à l'article 26 et le terme de cette mise à disposition, des emplois de l'Etat visés par les transferts de compétences prévus au III de l'article 21.

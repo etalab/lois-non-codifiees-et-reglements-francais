@@ -1,8 +1,5 @@
 # Loi n° 69-5 du 3 janvier 1969 relative à la création et à l'organisation des communes dans le territoire de la Nouvelle-Calédonie (1)
 
-- [Article 9-1](article-9-1.md)
-- [Article 9-2](article-9-2.md)
-- [Article 9-3](article-9-3.md)
 - [Article 10](article-10.md)
 - [Article 12](article-12.md)
 - [Article 18](article-18.md)

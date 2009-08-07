@@ -1,6 +1,6 @@
 # Article 94
 
-Le congrès peut créer des commissions d'enquête composées à la représentation proportionnelle des groupes d'élus.
+Le congrès, à la demande du bureau ou d'au moins 20 % de ses membres, peut créer des commissions d'enquête composées à la représentation proportionnelle des groupes d'élus.
 
 Les commissions d'enquête sont formées pour recueillir des éléments d'information soit sur des faits déterminés, soit sur la gestion des services publics de la Nouvelle-Calédonie en vue de soumettre leurs conclusions au congrès. Il ne peut être créé de commissions d'enquête sur des faits ayant donné lieu à des poursuites judiciaires et aussi longtemps que ces poursuites sont en cours. Si une commission a déjà été créée, sa mission prend fin dès l'ouverture d'une information judiciaire relative aux faits sur lesquels elle est chargée d'enquêter.
 

@@ -1,0 +1,13 @@
+# Article 55-1
+
+Par dérogation à l'article 55, et pour ce qui concerne la compensation des charges correspondant à l'exercice des compétences nouvelles que la Nouvelle-Calédonie peut exercer en matière d'enseignement public du second cycle du second degré, le droit à compensation des charges d'investissement transférées par la présente loi organique est égal à la moyenne des dépenses actualisées, hors taxe et fonds de concours, constatées sur la période comprise entre 1998 et 2007. Le droit à compensation prévu au présent alinéa évolue chaque année dans la même proportion que la variation de la moyenne sur quatre trimestres de l'indice du coût de la construction en Nouvelle-Calédonie.
+
+Sans préjudice du droit à compensation des charges d'investissement mentionné à l'alinéa précédent, l'Etat assure, jusqu'à leur terme, le financement des opérations de réalisation des lycées d'enseignement général, technique et professionnel du Mont-Dore et de Pouembout qu'il a engagées avant que le transfert ne soit effectif.
+
+A compter du transfert effectif de la compétence en matière de construction de lycées, le président du gouvernement transmet au haut-commissaire, pendant la période de mise à disposition globale prévue à l'article 59-1, le programme prévisionnel d'investissement relatif aux lycées arrêté par le congrès. Sur la base de ce programme prévisionnel, le haut-commissaire arrête la liste des établissements que l'Etat s'engage à pourvoir des postes nécessaires.
+
+A l'issue de la mise à disposition prévue au deuxième alinéa de l'article 59-1, si le transfert des personnels techniciens, ouvriers et de service conduit à ce que leur nombre soit inférieur à la moyenne, calculée dans des conditions fixées par décret, des effectifs de référence dans l'ensemble des départements et régions métropolitains avant le transfert prévu à l'article 82 de la loi n° 2004-809 du 13 août 2004 relative aux libertés et responsabilités locales, une compensation financière correspondant à cet écart est attribuée après l'avis de la commission mentionnée à l'article 55.
+
+A l'occasion du transfert de la compétence visée au premier alinéa, si, au terme de la mise à disposition prévue au deuxième alinéa de l'article 59-1, le transfert des personnels correspondant conduit à ce que leur nombre soit inférieur à celui constaté au 31 décembre de l'avant-dernière année précédant ce terme, une compensation financière correspondant à cet écart est attribuée après l'avis de la commission mentionnée à l'article 55.
+
+Les modalités d'actualisation des dépenses de l'Etat visées au présent article sont fixées par décret.

@@ -2,7 +2,7 @@
 
 La Nouvelle-Calédonie est compétente dans les matières suivantes :
 
-1° Impôts, droits et taxes perçus au bénéfice de la Nouvelle-Calédonie ; création et affectation d'impôts et taxes au profit de fonds destinés à des collectivités territoriales, d'établissements publics ou d'organismes chargés d'une mission de service public ; création d'impôts, droits et taxes provinciaux ou communaux ; réglementation relative aux modalités de recouvrement, au contrôle et aux sanctions ;
+1° Impôts, droits et taxes perçus au bénéfice de la Nouvelle-Calédonie ; création ou affectation d'impôts et taxes au profit de fonds destinés à des collectivités territoriales, d'établissements publics ou d'organismes chargés d'une mission de service public ; création d'impôts, droits et taxes au bénéfice des provinces, des communes, des établissements publics de coopération intercommunale ; réglementation relative aux modalités de recouvrement, au contrôle et aux sanctions ;
 
 2° Droit du travail et droit syndical ; formation professionnelle, sans préjudice des actions des provinces dans ce domaine, et attribution de diplômes à ce titre ; inspection du travail ;
 
@@ -34,15 +34,15 @@ La Nouvelle-Calédonie est compétente dans les matières suivantes :
 
 16° Droit des assurances ;
 
-17° Réglementation des marchés publics et des délégations de service public ;
+17° Règles relatives à la commande publique, dans le respect des principes de liberté d'accès, d'égalité de traitement des candidats, de transparence des procédures, d'efficacité de la commande publique et de bon emploi des deniers publics ;
 
 18° Procédure civile, aide juridictionnelle et administration des services chargés de la protection judiciaire de l'enfance ;
 
-19° Réglementation des poids et mesures ; concurrence et répression des fraudes ;
+19° Réglementation des poids et mesures ; consommation, concurrence et répression des fraudes, droit de la concentration économique ;
 
-20° Réglementation des prix et organisation des marchés ;
+20° Réglementation des prix et organisation des marchés, sous réserve de la compétence des provinces en matière d'urbanisme commercial ;
 
-21° Principes directeurs du droit de l'urbanisme ; cadastre ;
+21° Principes directeurs du droit de l'urbanisme ; normes de constructions ; cadastre ;
 
 22° Réglementation zoosanitaire et phytosanitaire, abattoirs ;
 
@@ -52,7 +52,7 @@ La Nouvelle-Calédonie est compétente dans les matières suivantes :
 
 25° Statistiques intéressant la Nouvelle-Calédonie ;
 
-26° Production et transport d'énergie électrique, équipements portuaires et aéroportuaires du domaine de la Nouvelle-Calédonie ;
+26° Production et transport d'énergie électrique, réglementation de la distribution d'énergie électrique, équipements portuaires et aéroportuaires du domaine de la Nouvelle-Calédonie ;
 
 27° Météorologie ;
 
@@ -64,4 +64,6 @@ La Nouvelle-Calédonie est compétente dans les matières suivantes :
 
 31° Droit domanial de la Nouvelle-Calédonie et des provinces ;
 
-32° Droit de la coopération et de la mutualité.
+32° Droit de la coopération et de la mutualité ;
+
+33° Appareils à pression.

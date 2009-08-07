@@ -4,4 +4,4 @@ Les institutions de la Nouvelle-Calédonie comprennent le congrès, le gouvernem
 
 Le haut-commissaire de la République est dépositaire des pouvoirs de la République. Il représente le Gouvernement.
 
-La Nouvelle-Calédonie est représentée au Parlement et au Conseil économique et social de la République dans les conditions fixées par les lois organiques.
+La Nouvelle-Calédonie est représentée au Parlement et au Conseil économique, social et environnemental de la République dans les conditions fixées par les lois organiques.

@@ -8,11 +8,11 @@ Les lois du pays interviennent dans les matières suivantes correspondant aux co
 
 2° Règles relatives à l'assiette et au recouvrement des impôts, droits et taxes de toute nature ;
 
-3° Principes fondamentaux du droit du travail, du droit syndical et du droit de la sécurité sociale ;
+3° Principes fondamentaux du droit du travail, du droit syndical et du droit de la sécurité sociale ; garanties fondamentales accordées aux fonctionnaires de la Nouvelle-Calédonie et des communes ;
 
 4° Règles relatives à l'accès au travail des étrangers ;
 
-5° Statut civil coutumier, régime des terres coutumières et des palabres coutumiers ; limites des aires coutumières ; modalités de désignation au sénat coutumier et aux conseils coutumiers ;
+5° Statut civil coutumier, régime des terres coutumières et des palabres coutumiers ; limites des aires coutumières ; modalités de désignation au sénat coutumier et aux conseils coutumiers, sous réserve des dispositions des articles 137, 138 et 138-1;
 
 6° Règles concernant les hydrocarbures, le nickel, le chrome et le cobalt ;
 

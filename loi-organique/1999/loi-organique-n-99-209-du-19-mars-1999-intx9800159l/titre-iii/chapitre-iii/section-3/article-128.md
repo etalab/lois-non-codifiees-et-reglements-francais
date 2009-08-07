@@ -5,3 +5,5 @@ Le gouvernement est chargé collégialement et solidairement des affaires de sa 
 Le gouvernement arrête les projets de délibération et projets de loi du pays qui sont soumis au congrès.
 
 Les arrêtés du gouvernement sont signés par le président et contresignés par les membres du gouvernement chargés d'en contrôler l'exécution.
+
+En cas d'absence ou d'empêchement d'un de ses membres, le président du gouvernement peut, en cas d'urgence, désigner un autre membre, en accord avec le groupe d'élus qui a présenté la liste sur laquelle il a été élu, aux fins de contresigner les arrêtés mentionnés à l'alinéa précédent.

@@ -16,4 +16,4 @@ Le territoire de la commune de Poya est réparti entre les provinces Nord et Sud
 
 A l'initiative du gouvernement ou du congrès, les limites des provinces peuvent être modifiées par décret en Conseil d'Etat sur proposition du congrès et après avis des assemblées de province, des conseils municipaux intéressés et du sénat coutumier.
 
-Les aires coutumières de la Nouvelle-Calédonie sont : Hoot Ma Whaap, Paici Camuki, Ajié Aro, Xaracuu, Djubea-Kaponé, Nengone, Drehu, Iaai.
+Les aires coutumières de la Nouvelle-Calédonie sont : Hoot Ma Whaap, Paicî-Cèmuhi, Ajië Aro, Xârâcùù, Drubea-Kapumë, Nengone, Drehu, Iaai.

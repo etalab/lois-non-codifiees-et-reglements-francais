@@ -7,3 +7,5 @@ Il peut être consulté par les mêmes autorités sur tout autre projet ou propo
 Il peut également être consulté par le haut-commissaire sur les questions de la compétence de l'Etat.
 
 L'avis du sénat coutumier saisi dans les conditions prévues aux alinéas précédents est réputé donné s'il n'est pas transmis dans le délai d'un mois à compter de la saisine. Ce délai est porté à deux mois lorsqu'il est fait application de l'alinéa précédent.
+
+Il peut désigner l'un de ses membres pour exposer devant le congrès ou l'assemblée de province l'avis du sénat coutumier sur les projets ou propositions de délibération qui lui ont été soumis.

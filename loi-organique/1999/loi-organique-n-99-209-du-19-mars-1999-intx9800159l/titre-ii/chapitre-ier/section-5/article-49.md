@@ -1,4 +1,4 @@
-# Article 9-1
+# Article 49
 
 Un fonds intercommunal de péréquation pour le fonctionnement des communes reçoit une quote-part des impôts, droits et taxes perçus au profit du budget de la Nouvelle-Calédonie et des recettes de la régie locale des tabacs, achats et frais de fonctionnement déduits, à l'exclusion des impôts, droits et taxes affectés au fonds intercommunal pour le développement de l'intérieur et des îles.
 

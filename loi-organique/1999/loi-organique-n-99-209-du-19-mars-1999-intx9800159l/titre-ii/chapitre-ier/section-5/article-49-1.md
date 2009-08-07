@@ -1,4 +1,4 @@
-# Article 9-2
+# Article 49-1
 
 Un fonds intercommunal de péréquation pour l'équipement des communes peut recevoir des dotations de l'Etat, du territoire et de toutes autres collectivités ou organismes publics. Il est destiné à soutenir le financement des investissements prioritaires des communes et groupements de communes.
 

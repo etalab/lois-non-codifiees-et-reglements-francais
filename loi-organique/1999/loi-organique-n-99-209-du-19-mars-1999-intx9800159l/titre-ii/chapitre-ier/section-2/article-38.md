@@ -9,3 +9,5 @@ Une délibération du congrès fixe les conditions d'organisation et de fonction
 Le conseil est informé chaque année, par les établissements universitaires et les organismes de recherche mentionnés au I, de l'orientation de leur action en Nouvelle-Calédonie et du bilan de leurs travaux.
 
 III. - Le gouvernement et les provinces sont consultés par le haut-commissaire, jusqu'au transfert des compétences mentionnées au 2° du III de l'article 21, sur la création ou la suppression en Nouvelle-Calédonie de filières de formation de l'enseignement secondaire.
+
+IV. - La Nouvelle-Calédonie est consultée pour avis par le haut-commissaire, en application du 2° du I de l'article 133, sur les programmes de l'enseignement du second degré, après le transfert effectif de cette compétence.

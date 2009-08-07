@@ -22,4 +22,8 @@ La dotation est répartie entre les provinces par le haut-commissaire, dans des 
 
 V. - Jusqu'au transfert de compétences prévu au 2° du III de l'article 21, le président de l'assemblée de province transmet au haut-commissaire le programme prévisionnel d'investissement relatif aux collèges arrêté par l'assemblée. Sur la base de ce programme prévisionnel, le haut-commissaire arrête la liste des établissements que l'Etat s'engage à pourvoir des postes nécessaires.
 
+V bis. - A compter du transfert à la Nouvelle-Calédonie de la compétence visée au 2° du III de l'article 21, le président de l'assemblée de province transmet au haut-commissaire et au président du gouvernement de la Nouvelle-Calédonie le programme prévisionnel d'investissement relatif aux collèges arrêté par l'assemblée. Sur la base de ce programme prévisionnel, le haut-commissaire arrête la liste des établissements que l'Etat s'engage à pourvoir des postes nécessaires.
+
+A la fin de la mise à disposition globale prévue à l'article 59-1, le président de l'assemblée de province transmet au président du gouvernement de la Nouvelle-Calédonie le programme prévisionnel d'investissement relatif aux collèges arrêté par l'assemblée.
+
 VI. - Les dispositions des I à IV sont applicables à compter du 1er janvier 2000.

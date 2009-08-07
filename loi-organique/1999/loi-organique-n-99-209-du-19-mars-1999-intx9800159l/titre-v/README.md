@@ -6,3 +6,4 @@
 - [Chapitre IV : Conditions d'éligibilité et incompatibilités.](chapitre-iv)
 - [Chapitre V : Propagande.](chapitre-v)
 - [Chapitre VI : Contentieux.](chapitre-vi)
+- [Chapitre VII : Protection des élus](chapitre-vii)

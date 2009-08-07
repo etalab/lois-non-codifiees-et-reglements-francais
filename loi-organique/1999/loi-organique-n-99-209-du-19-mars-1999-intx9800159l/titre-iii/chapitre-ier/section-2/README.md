@@ -1,7 +1,11 @@
 # Section 2 : Attributions du congrès.
 
 - [Article 83](article-83.md)
+- [Article 83-1](article-83-1.md)
 - [Article 84](article-84.md)
+- [Article 84-1](article-84-1.md)
+- [Article 84-2](article-84-2.md)
+- [Article 84-3](article-84-3.md)
 - [Article 85](article-85.md)
 - [Article 86](article-86.md)
 - [Article 87](article-87.md)

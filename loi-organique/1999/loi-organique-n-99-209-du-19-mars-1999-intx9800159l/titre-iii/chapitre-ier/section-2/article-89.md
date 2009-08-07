@@ -2,7 +2,7 @@
 
 Le congrès est consulté par le haut-commissaire sur les projets de loi autorisant la ratification ou l'approbation des traités ou accords qui ressortissent à la compétence de l'Etat et ont vocation à s'appliquer en Nouvelle-Calédonie.
 
-Le congrès est également consulté sur les propositions d'actes des Communautés européennes et de l'Union européenne qui concernent la Nouvelle-Calédonie et qui lui sont transmises par le haut-commissaire.
+Le congrès est également consulté par le ministre chargé de l'outre-mer sur les projets et propositions d'actes de l'Union européenne et de la Communauté européenne relatifs à l'association des pays et territoires d'outre-mer à l'Union européenne et à la Communauté européenne.
 
 Le congrès dispose d'un délai d'un mois pour rendre son avis. Ce délai peut être réduit à quinze jours en cas d'urgence, à la demande du haut-commissaire. Le délai expiré, l'avis est réputé avoir été donné.
 
