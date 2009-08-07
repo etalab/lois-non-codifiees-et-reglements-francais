@@ -20,4 +20,7 @@
 - [LOI n° 2009-888 du 22 juillet 2009 (ECEX0828955L)](loi-n-2009-888-du-22-juillet-2009-ecex0828955l)
 - [LOI n° 2009-928 du 29 juillet 2009 (DEFX0824148L)](loi-n-2009-928-du-29-juillet-2009-defx0824148l)
 - [LOI n° 2009-967 du 3 août 2009 (DEVX0811607L)](loi-n-2009-967-du-3-aout-2009-devx0811607l)
+- [LOI n° 2009-970 du 3 août 2009 (IOCO0910290L)](loi-n-2009-970-du-3-aout-2009-ioco0910290l)
+- [LOI n° 2009-971 du 3 août 2009 (IOCX0814116L)](loi-n-2009-971-du-3-aout-2009-iocx0814116l)
+- [LOI n° 2009-972 du 3 août 2009 (BCFX0805620L)](loi-n-2009-972-du-3-aout-2009-bcfx0805620l)
 - [LOI n°2009-135 du 9 février 2009 (BCFX0822494L)](loi-n2009-135-du-9-fevrier-2009-bcfx0822494l)

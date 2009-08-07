@@ -1,0 +1,3 @@
+# Article 1
+
+Peut être candidat à l'admission à l'Ecole spéciale militaire, à l'Ecole militaire interarmes ou au recrutement dans le corps des officiers des armes de l'armée de terre tout titulaire de titres reconnus par le ministère de l'enseignement supérieur et de la recherche comme équivalents aux diplômes exigés par le décret n° 2008-940 du 12 septembre 2008 portant statut particulier du corps des officiers des armes de l'armée de terre ou justifiant d'une attestation d'inscription dans un cycle de formation dans un établissement d'enseignement supérieur français dont la condition normale d'accès est d'être titulaire d'un diplôme ou d'un titre de formation au moins de même niveau que les diplômes ou titres fixés par le décret du 12 septembre 2008 précité.
