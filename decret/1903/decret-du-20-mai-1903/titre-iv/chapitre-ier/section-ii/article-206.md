@@ -1,3 +1,0 @@
-# Article 206
-
-Lorsqu'elle trouve des animaux morts sur les chemins et dans les champs, elle en prévient les autorités locales et les requiert de les faire livrer à un atelier d'équarrissage régulièrement autorisé, ou enfouir ou détruire par un procédé chimique ou par combustion, si le propriétaire, après un délai de douze heures, est resté inconnu ; elle se porte, au besoin, de nouveau sur les lieux pour s'assurer que les ordres donnés à cet égard par les autorités ont été exécutés ; en cas de refus ou de négligence, elle dresse procès-verbal, dont une expédition est adressée directement et d'urgence aux préfets ou sous-préfets, afin qu'il soit pris des mesures à cet égard.

@@ -1,3 +1,0 @@
-# Article 272
-
-Les sous-officiers, brigadiers et gendarmes doivent prendre toutes les mesures de précaution pour mettre les prisonniers confiés à leur garde dans l'impossibilité de s'évader ; toute rigueur inutile pour s'assurer de leur personne est expressément interdite. La loi défend à tous, et spécialement aux dépositaires de la force armée, de faire subir aux personnes arrêtées aucun mauvais traitement ni outrage, même d'employer contre elles aucune violence, à moins qu'il n'y ait résistance ou rébellion, auquel cas, seulement, ils sont autorisés à repousser par la force les voies de fait commises contre eux dans l'exercice de leurs fonctions.

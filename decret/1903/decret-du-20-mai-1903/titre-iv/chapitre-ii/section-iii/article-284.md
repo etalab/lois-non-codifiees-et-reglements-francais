@@ -1,7 +1,0 @@
-# Article 284
-
-Dans le cas où des prisonniers en route sous l'escorte de la gendarmerie viennent à s'évader, ceux qui restent sont toujours conduits à destination avec les pièces qui les concernent. Autant que possible, le chef d'escorte se met aussitôt sur les traces des individus évadés, et requiert les agents de l'autorité et les citoyens de lui prêter aide et assistance pour les rechercher et les arrêter. Il en donne partout le signalement et ne cesse la poursuite que lorsqu'il a la certitude qu'elle est sans résultat. Il télégraphie dès qu'il le peut à son commandant de compagnie, qui télégraphie lui-même au commandant de groupement et au commandant de légion et avise sans retard le procureur de la République. Le commandant de la compagnie prescrit, de son côté, les recherches et les poursuites qu'il juge convenables pour atteindre les évadés et établit par une enquête s'il y a eu connivence ou seulement négligence de la part des gendarmes d'escorte. Le procès-verbal constatant l'évasion est adressé dans le plus bref délai, avec les pièces concernant les évadés, au commandant de compagnie, qui transmet aussitôt le tout au procureur de la République.
-
-Il est rendu compte sans délai au ministre des armées par le commandant de légion.
-
-Si l'évasion a eu lieu dans une compagnie autre que celle à laquelle appartient l'escorte, c'est l'officier commandant cette compagnie qui est avisé télégraphiquement par le chef d'escorte et qui doit prendre toutes les mesures indiquées dans le premier alinéa du présent article.

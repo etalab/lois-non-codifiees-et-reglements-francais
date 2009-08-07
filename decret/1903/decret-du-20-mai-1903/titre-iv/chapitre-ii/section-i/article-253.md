@@ -1,3 +1,0 @@
-# Article 253
-
-En cas d'évasion d'un individu tombé malade en route et déposé à l'infirmerie d'un établissement pénitentiaire ou soigné dans un hôpital, le commandant de brigade de gendarmerie, au premier avis qu'il en reçoit, le fait rechercher et poursuivre ; il se rend au lieu de l'évasion pour reconnaître s'il y a eu connivence ou seulement défaut de surveillance de la part des gardiens ; il rend compte au commandant de compagnie et rédige le procès- verbal de ses recherches qu'il adresse sur-le-champ, avec les autres pièces concernant l'évadé, au procureur de la République du lieu de l'évasion.

@@ -1,3 +1,0 @@
-# Article 91
-
-Lorsque la tranquillité publique est menacée, les officiers ou commandants de brigade de gendarmerie ne sont point appelés à discuter l'opportunité des réquisitions que les autorités administratives compétentes croient devoir formuler pour assurer le maintien de l'ordre ; mais il est de leur devoir de désigner les points qui ne peuvent être dégarnis sans danger et de communiquer à ces fonctionnaires tous les renseignements convenables, tant sur la force effective des brigades et leur formation en détachements, que sur les moyens de suppléer au service de ces brigades pendant leur absence.

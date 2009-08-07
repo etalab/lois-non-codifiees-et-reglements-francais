@@ -6,9 +6,9 @@ L'administrateur supérieur assure l'ordre public et concourt au respect des lib
 
 A charge d'en rendre compte au Gouvernement de la République par l'intermédiaire du ministre chargé des territoires d'outre-mer, l'administrateur supérieur peut :
 
-- prendre en cas d'épidémie toutes mesures d'ordre sanitaire ou phytosanitaire, nécessitées par la situation particulière du territoire ;
+-prendre en cas d'épidémie toutes mesures d'ordre sanitaire ou phytosanitaire, nécessitées par la situation particulière du territoire ;
 
-- prendre en toutes matières les mesures qu'il juge devoir être prises d'urgence et être nécessaires à la bonne marche des institutions locales, à la protection des citoyens et de leurs biens, à la sauvegarde des personnes, de l'économie locale ou des libertés.
+-prendre en toutes matières les mesures qu'il juge devoir être prises d'urgence et être nécessaires à la bonne marche des institutions locales, à la protection des citoyens et de leurs biens, à la sauvegarde des personnes, de l'économie locale ou des libertés.
 
 Il dirige les services de l'Etat à Wallis-et-Futuna à l'exclusion des organismes à caractère juridictionnel et sous réserve d'exceptions limitativement énumérées par décret.
 
@@ -20,7 +20,7 @@ Sous réserve des dispositions du code de procédure pénale relatives à l'exer
 
 A cet effet, sans préjudice des missions de la gendarmerie relevant de la défense nationale, il fixe les missions autres que celles qui sont relatives à l'exercice de la police judiciaire et coordonne l'action des différents services et forces dont dispose l'Etat, en matière de sécurité intérieure.
 
-Il dirige l'action de la gendarmerie nationale et de la garde territoriale en matière d'ordre public et de police administrative. Les responsables locaux des unités de gendarmerie et des services de la garde territoriale lui rendent compte de l'exécution et des résultats des missions qui leur ont été fixées.
+Il dirige l'action de la gendarmerie nationale et de la garde territoriale en matière d'ordre public et de police administrative. Dans le respect du statut militaire pour ce qui concerne la gendarmerie nationale, le responsable du commandement de la gendarmerie nationale et celui des services de la garde territoriale sont placés sous son autorité et lui rendent compte de l'exécution et des résultats de leurs missions en ces matières.
 
 Dans le cadre de la lutte contre les activités lucratives non déclarées portant atteinte à l'ordre public et à la sécurité publique et des missions de sécurité intérieure, il s'assure, en tant que de besoin, du concours des agents des services fiscaux, des services des douanes, des services des affaires économiques, du service de l'inspection du travail et des services chargés de la police de la chasse et de la pêche maritime et fluviale ainsi que des agents chargés de la police de l'eau et de ceux qui assurent des responsabilités en matière de sécurité sanitaire des îles Wallis et Futuna.
 

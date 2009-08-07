@@ -1,3 +1,0 @@
-# Article 255
-
-Si le prisonnier décède en cours de trajet ou à la chambre de sûreté, le chef d'escorte ou le commandant de brigade doit en prévenir immédiatement le procureur de la République et le commandant de compagnie. Il avise le maire de la commune dans laquelle ce prisonnier est décédé et l'invite à faire procéder à son inhumation après les délais voulus par la loi ; il signe l'acte de décès, dont il se fait délivrer une copie pour être annexée au procès-verbal de constat ; il y joint également les pièces concernant le prisonnier ; il fait envoi du tout au commandant de compagnie, lequel se conforme aux dispositions de l'article 256.
