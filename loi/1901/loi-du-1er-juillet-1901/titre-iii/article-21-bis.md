@@ -1,6 +1,6 @@
 # Article 21 bis
 
-La présente loi est applicable dans les collectivités d'outre-mer régies par l'article 74 de la Constitution et en Nouvelle-Calédonie, sous réserve des dispositions suivantes :
+La présente loi est applicable dans les collectivités d'outre-mer régies par l'article 74 de la Constitution et en Nouvelle-Calédonie, à l'exception de son article 18 et sous réserve des dispositions suivantes :
 
 I. - Pour l'application de la présente loi à Mayotte :
 
@@ -36,7 +36,7 @@ b) Après les mots : " 16 euros " sont insérés les mots : " ou à un montant �
 
 6° A l'article 15, la référence au préfet est remplacée par la référence à l'administrateur supérieur ;
 
-7° A l'article 18, la référence à la Caisse des dépôts et consignations est remplacée par la référence au Trésor public.
+7° (Abrogé)
 
 IV. - Pour l'application de la présente loi en Polynésie française :
 
