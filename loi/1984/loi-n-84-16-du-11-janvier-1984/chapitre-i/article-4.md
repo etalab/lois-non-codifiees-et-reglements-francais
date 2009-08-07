@@ -11,3 +11,5 @@ Les agents ainsi recrutés sont engagés par des contrats à durée déterminée
 Si, à l'issue de la période maximale de six ans mentionnée à l'alinéa précédent, ces contrats sont reconduits, ils ne peuvent l'être que par décision expresse et pour une durée indéterminée.
 
 Les dispositions de l'alinéa précédent ne s'appliquent pas aux contrats conclus pour la mise en oeuvre d'un programme de formation, d'insertion, de reconversion professionnelles ou de formation professionnelle d'apprentissage.
+
+Pour l'ensemble des règles de droit applicables aux agents non titulaires qui occupent des emplois sur le fondement du présent article, le recrutement de ces personnels particuliers est une entrée au service, et la fin de leur engagement, une sortie de service.

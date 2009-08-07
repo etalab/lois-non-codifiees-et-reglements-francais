@@ -18,4 +18,6 @@ II.-La mise à disposition donne lieu à remboursement. Il peut être dérogé �
 
 1° Lorsqu'elle est prononcée auprès d'une administration de l'Etat ou auprès d'un de ses établissements publics administratifs ;
 
-2° Lorsque le fonctionnaire est mis à disposition d'une organisation internationale intergouvernementale ou d'un Etat étranger.
+2° Lorsque le fonctionnaire est mis à disposition d'une organisation internationale intergouvernementale ou d'un Etat étranger ;
+
+3° Lorsque le fonctionnaire est mis à disposition d'une collectivité territoriale ou de l'un de ses établissements publics ou d'un établissement mentionné à l'article 2 de la loi n° 86-33 du 9 janvier 1986 précitée. Toutefois, cette dérogation ne peut durer plus d'un an et ne peut porter que sur la moitié au plus de la dépense de personnel afférente.

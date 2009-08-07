@@ -1,6 +1,6 @@
 # Article 87
 
-I. - Une commission de déontologie placée auprès du Premier ministre est chargée d'apprécier la compatibilité de toute activité lucrative, salariée ou non, dans une entreprise ou un organisme privé ou toute activité libérale, avec les fonctions effectivement exercées au cours des trois années précédant le début de cette activité par tout agent cessant ses fonctions.
+I.-Une commission de déontologie placée auprès du Premier ministre est chargée d'apprécier la compatibilité de toute activité lucrative, salariée ou non, dans une entreprise ou un organisme privé ou toute activité libérale, avec les fonctions effectivement exercées au cours des trois années précédant le début de cette activité par tout agent cessant ses fonctions.
 
 Ces dispositions sont applicables :
 
@@ -22,19 +22,25 @@ La commission est également chargée d'examiner la compatibilité du projet de 
 
 En application des articles L. 413-3, L. 413-8 et L. 413-14 du code de la recherche, la commission donne son avis sur les autorisations demandées par les personnels de la recherche en vue de participer à la création d'entreprise et aux activités des entreprises existantes.
 
-II. - La saisine de la commission est obligatoire au titre du I pour les agents chargés soit d'assurer la surveillance ou le contrôle d'une entreprise privée, soit de conclure des contrats de toute nature avec une entreprise privée ou de formuler un avis sur de tels contrats, soit de proposer des décisions relatives à des opérations effectuées par une entreprise privée ou de formuler un avis sur de telles décisions.
+II.-La saisine de la commission est obligatoire au titre du I pour les agents chargés soit d'assurer la surveillance ou le contrôle d'une entreprise privée, soit de conclure des contrats de toute nature avec une entreprise privée ou de formuler un avis sur de tels contrats, soit de proposer des décisions relatives à des opérations effectuées par une entreprise privée ou de formuler un avis sur de telles décisions.
 
 Pour l'application du premier alinéa du présent II, est assimilée à une entreprise privée toute entreprise publique exerçant son activité dans un secteur concurrentiel et conformément aux règles du droit privé.
 
-La commission peut être saisie, dans des conditions fixées par décret en Conseil d'Etat, par tout agent entrant dans le champ du I ou par l'administration dont relève cet agent.
+La saisine de la commission est également obligatoire pour les collaborateurs du Président de la République et les membres d'un cabinet ministériel.
 
-Dans tous les cas, la commission est saisie préalablement à l'exercice de l'activité envisagée.
+La commission peut être saisie :
 
-III. - La commission peut être saisie pour rendre un avis sur la compatibilité avec les fonctions précédentes de l'agent, de toute activité lucrative, salariée ou non, dans un organisme ou une entreprise privé ou dans une entreprise publique exerçant son activité conformément aux règles du droit privé dans un secteur concurrentiel ou d'une activité libérale que souhaite exercer l'agent pendant un délai de trois ans suivant la cessation de ses fonctions. La commission examine si cette activité porte atteinte à la dignité des fonctions précédemment exercées ou risque de compromettre ou de mettre en cause le fonctionnement normal, l'indépendance ou la neutralité du service. Au cas où la commission a été consultée et n'a pas émis d'avis défavorable, l'agent public ne peut plus faire l'objet de poursuites disciplinaires et le IV ne lui est pas applicable.
+a) Par tout agent entrant dans le champ du I ou par l'administration dont relève cet agent, préalablement à l'exercice de l'activité envisagée ;
 
-IV. - En cas de méconnaissance des dispositions du présent article, le fonctionnaire retraité peut faire l'objet de retenues sur pension et, éventuellement, être déchu de ses droits à pension après avis du conseil de discipline du corps auquel il appartenait.
+b) Par son président, dans un délai de dix jours à compter de l'embauche de l'agent ou de la création de l'entreprise ou de l'organisme privé. Dans ce cas, la commission émet son avis dans un délai de trois semaines, qui peut être prolongé d'une semaine par décision de son président. Si la commission rend un avis d'incompatibilité, le contrat de travail de l'agent prend fin à la date de la notification de l'avis de la commission, sans préavis et sans indemnité de rupture.
 
-V. - La commission est présidée par un conseiller d'Etat ou son suppléant, conseiller d'Etat. Elle comprend en outre :
+Les collaborateurs de cabinet des autorités territoriales informent la commission avant d'exercer toute activité lucrative.
+
+III.-La commission peut être saisie pour rendre un avis sur la compatibilité avec les fonctions précédentes de l'agent, de toute activité lucrative, salariée ou non, dans un organisme ou une entreprise privé ou dans une entreprise publique exerçant son activité conformément aux règles du droit privé dans un secteur concurrentiel ou d'une activité libérale que souhaite exercer l'agent pendant un délai de trois ans suivant la cessation de ses fonctions. La commission examine si cette activité porte atteinte à la dignité des fonctions précédemment exercées ou risque de compromettre ou de mettre en cause le fonctionnement normal, l'indépendance ou la neutralité du service. Au cas où la commission a été consultée et n'a pas émis d'avis défavorable, l'agent public ne peut plus faire l'objet de poursuites disciplinaires et le IV ne lui est pas applicable.
+
+IV.-En cas de méconnaissance des dispositions du présent article, le fonctionnaire retraité peut faire l'objet de retenues sur pension et, éventuellement, être déchu de ses droits à pension après avis du conseil de discipline du corps auquel il appartenait.
+
+V.-La commission est présidée par un conseiller d'Etat ou son suppléant, conseiller d'Etat. Elle comprend en outre :
 
 1° Un conseiller maître à la Cour des comptes ou son suppléant, conseiller maître à la Cour des comptes ;
 
@@ -60,12 +66,14 @@ La commission ne délibère valablement que si la moitié au moins de ses membre
 
 En cas de partage égal des voix, celle du président est prépondérante.
 
-VI. - La commission peut assortir ses avis de compatibilité rendus au titre du III de réserves prononcées pour trois ans suivant la cessation des fonctions.
+VI.-La commission peut assortir ses avis de compatibilité rendus au titre du III de réserves prononcées pour trois ans suivant la cessation des fonctions.
 
-Le président de la commission peut rendre, au nom de celle-ci, un avis de compatibilité dans le cas où l'activité envisagée est manifestement compatible avec les fonctions antérieures de l'agent. Il peut également rendre, au nom de la commission, un avis d'incompétence, d'irrecevabilité ou constatant qu'il n'y a pas lieu à statuer.
+Lorsqu'elle est saisie en application du sixième alinéa du II, la commission peut rendre un avis d'incompatibilité si elle estime ne pas avoir obtenu de l'agent ou de son administration les éléments nécessaires à son appréciation.
+
+Le président de la commission peut rendre, au nom de celle-ci, un avis de compatibilité dans le cas où l'activité envisagée est manifestement compatible avec les fonctions antérieures ou actuelles de l'agent. Il peut également rendre, au nom de la commission, un avis d'incompétence, d'irrecevabilité ou constatant qu'il n'y a pas lieu à statuer.
 
 L'administration dont relève l'agent est liée par un avis d'incompatibilité rendu au titre du I.
 
 Elle peut solliciter une seconde délibération de la commission dans un délai d'un mois à compter de la notification d'un avis.
 
-VII. - Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
+VII.-Un décret en Conseil d'Etat détermine les conditions d'application du présent article. Il précise les conditions de la saisine visée au II.

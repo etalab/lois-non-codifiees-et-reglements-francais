@@ -10,5 +10,4 @@
 - [Chapitre VII Rémunération.](chapitre-vii)
 - [Chapitre VIII Discipline.](chapitre-viii)
 - [Chapitre IX Cessation définitive de fonctions.](chapitre-ix)
-- [Chapitre IX bis : Dispositions applicables aux fonctionnaires de l'Etat nommés dans des emplois permanents à temps non complet dans certaines zones rurales](chapitre-ix-bis)
 - [Chapitre X Dispositions transitoires et finales.](chapitre-x)

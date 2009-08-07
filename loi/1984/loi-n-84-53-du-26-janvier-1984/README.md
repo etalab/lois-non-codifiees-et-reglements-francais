@@ -8,6 +8,7 @@
 - [Chapitre V : Positions.](chapitre-v)
 - [Chapitre VI : Notation - Avancement - Reclassement](chapitre-vi)
 - [Chapitre VII : Rémunération.](chapitre-vii)
+- [Chapitre VII bis : Action sociale et aide à la protection sociale complémentaire des agents](chapitre-vii-bis)
 - [Chapitre VIII : Discipline.](chapitre-viii)
 - [Chapitre IX : Cessation de fonctions et perte d'emploi](chapitre-ix)
 - [Chapitre X : De l'exercice du droit syndical.](chapitre-x)

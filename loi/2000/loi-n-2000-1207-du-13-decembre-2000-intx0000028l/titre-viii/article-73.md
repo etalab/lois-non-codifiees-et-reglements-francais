@@ -1,6 +1,6 @@
 # Article 73
 
-Un observatoire de la fonction publique est mis en place dans la collectivité territoriale de Saint-Pierre-et-Miquelon. Coprésidé par le préfet et le président du conseil général, il est composé à égalité de deux représentants des services de l'Etat, deux représentants du conseil général, deux représentants des organisations socioprofessionnelles.
+Un observatoire de la fonction publique est mis en place dans la collectivité territoriale de Saint-Pierre-et-Miquelon. Coprésidé par le préfet et le président du conseil territorial, sa composition est déterminée par décret.
 
 Cet observatoire a pour mission :
 

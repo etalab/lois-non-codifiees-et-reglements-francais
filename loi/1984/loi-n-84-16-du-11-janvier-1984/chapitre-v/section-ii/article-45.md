@@ -16,6 +16,12 @@ Le fonctionnaire détaché remis à la disposition de son administration d'origi
 
 Par dérogation à l'alinéa précédent, le fonctionnaire détaché dans l'administration d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen, remis à disposition de son administration d'origine pour une cause autre qu'une faute commise dans l'exercice de ses fonctions, est réintégré, le cas échéant en surnombre, dans son corps d'origine.
 
-A l'expiration de son détachement, le fonctionnaire est obligatoirement réintégré dans son corps d'origine.
+A l'expiration de son détachement, le fonctionnaire est, sauf intégration dans le corps ou cadre d'emplois de détachement, réintégré dans son corps d'origine.
 
-Toutefois, il peut être intégré dans le corps de détachement dans les conditions prévues par le statut particulier de ce corps.
+Il est tenu compte, lors de sa réintégration, du grade et de l'échelon qu'il a atteints dans le corps ou cadre d'emplois de détachement sous réserve qu'ils lui soient plus favorables.
+
+Les dispositions de l'alinéa précédent ne sont pas applicables au fonctionnaire dont le détachement dans un corps ou cadre d'emplois pour l'accomplissement d'un stage ou d'une période de scolarité n'est pas suivi d'une titularisation.
+
+Lorsque le fonctionnaire est intégré dans le corps ou cadre d'emplois de détachement, il est tenu compte du grade et de l'échelon qu'il a atteints dans le corps d'origine, sous réserve qu'ils lui soient plus favorables.
+
+Le renouvellement du détachement est prononcé selon les modalités de classement mentionnées à l'alinéa précédent.

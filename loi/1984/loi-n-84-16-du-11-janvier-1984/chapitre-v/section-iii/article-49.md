@@ -1,6 +1,6 @@
 # Article 49
 
-La position hors cadre est celle dans laquelle un fonctionnaire remplissant les conditions pour être détaché auprès d'une administration ou d'une entreprise publique, dans un emploi ne conduisant pas à pension du régime général de retraite, ou détaché auprès d'organismes internationaux peut être placé, sur sa demande, pour servir dans cette administration ou entreprise ou dans cet organisme.
+La position hors cadre est celle dans laquelle un fonctionnaire remplissant les conditions pour être détaché auprès d'une administration ou d'une entreprise publique, dans un emploi ne conduisant pas à pension du régime général de  retraite, ou pour être détaché auprès d'organismes internationaux peut être placé, sur sa demande, pour servir dans cette administration ou entreprise ou dans cet organisme.
 
 Dans cette position, le fonctionnaire cesse de bénéficier de ses droits à l'avancement et à la retraite.
 

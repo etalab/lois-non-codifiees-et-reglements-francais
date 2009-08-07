@@ -1,5 +1,7 @@
 # Article 25
 
-I. - (Paragraphe modificateur)
+I. A créé les dispositions suivantes :
 
-II. - Les dispositions du présent article prennent effet à compter de l'entrée en vigueur du décret en Conseil d'Etat mentionné au I, pour une durée de trois ans. Avant la fin de cette période, un rapport dressant le bilan de leur application est établi par le ministre chargé de la fonction publique.
+-Loi 84-16 du 11 janvier 1984 Art. 72-1
+
+-II.-abrogé.

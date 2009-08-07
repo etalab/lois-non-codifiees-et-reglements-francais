@@ -8,8 +8,6 @@ Toutefois des distinctions peuvent être faites afin de tenir compte d'éventuel
 
 De même, des conditions d'âge peuvent être fixées, d'une part, pour le recrutement des fonctionnaires dans les corps, cadres d'emplois ou emplois conduisant à des emplois classés dans la catégorie active au sens de l'article L. 24 du code des pensions civiles et militaires de retraite, d'autre part, pour la carrière des fonctionnaires lorsqu'elles résultent des exigences professionnelles, justifiées par l'expérience ou l'ancienneté, requises par les missions qu'ils sont destinés à assurer dans leur corps, cadre d'emplois ou emploi.
 
-Des conditions d'âge peuvent être maintenues par décret pour le recrutement par voie de concours dans des corps, cadres d'emplois ou emplois, lorsque l'accès à ceux-ci est subordonné à l'accomplissement d'une période de scolarité préalable d'une durée au moins égale à deux ans.
-
 Aucune mesure concernant notamment le recrutement, la titularisation, la formation, la notation, la discipline, la promotion, l'affectation et la mutation ne peut être prise à l'égard d'un fonctionnaire en prenant en considération :
 
 1° Le fait qu'il a subi ou refusé de subir des agissements contraires aux principes énoncés au deuxième alinéa du présent article ;

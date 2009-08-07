@@ -10,6 +10,4 @@ Le cadre d'emplois peut regrouper plusieurs grades.
 
 Les grades sont organisés en grade initial et en grades d'avancement.
 
-L'accès aux grades dans chaque cadre d'emplois s'effectue par voie de concours, de promotion interne ou d'avancement, dans les conditions fixées par les statuts particuliers.
-
 Les fonctionnaires territoriaux sont gérés par la collectivité ou l'établissement dont ils relèvent ; leur nomination est faite par l'autorité territoriale.
