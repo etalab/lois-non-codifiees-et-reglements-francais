@@ -765,7 +765,6 @@
 - [Arrêté du 23 mars 1992 (DEFM9201268A)](arrete-du-23-mars-1992-defm9201268a)
 - [Arrêté du 23 mars 1992 (ECOT9220006A)](arrete-du-23-mars-1992-ecot9220006a)
 - [Arrêté du 23 mars 1992 (EQUT9200491A)](arrete-du-23-mars-1992-equt9200491a)
-- [Arrêté du 23 mars 1992 (SANP9200509A)](arrete-du-23-mars-1992-sanp9200509a)
 - [Arrêté du 23 mars 1992 (SPSS9200777A)](arrete-du-23-mars-1992-spss9200777a)
 - [Arrêté du 23 mars 1992 (SPSS9200856A)](arrete-du-23-mars-1992-spss9200856a)
 - [Arrêté du 23 novembre 1992 (AGRS9202312A)](arrete-du-23-novembre-1992-agrs9202312a)
