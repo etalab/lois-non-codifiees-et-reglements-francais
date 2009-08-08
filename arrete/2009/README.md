@@ -1879,7 +1879,6 @@
 - [Arrêté du 29 décembre 2008 (IOCC0827748A)](arrete-du-29-decembre-2008-iocc0827748a)
 - [Arrêté du 29 décembre 2008 (IOCC0831395A)](arrete-du-29-decembre-2008-iocc0831395a)
 - [Arrêté du 29 décembre 2008 (MAEA0828506A)](arrete-du-29-decembre-2008-maea0828506a)
-- [Arrêté du 29 décembre 2008 (MAEF0829151A)](arrete-du-29-decembre-2008-maef0829151a)
 - [Arrêté du 29 décembre 2008 (MTSO0826836A)](arrete-du-29-decembre-2008-mtso0826836a)
 - [Arrêté du 29 décembre 2008 (SJSH0831476A)](arrete-du-29-decembre-2008-sjsh0831476a)
 - [Arrêté du 29 décembre 2008 (SJSS0830505A)](arrete-du-29-decembre-2008-sjss0830505a)
