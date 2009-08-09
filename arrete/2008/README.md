@@ -880,7 +880,6 @@
 - [Arrêté du 23 octobre 2008 (AGRF0825458A)](arrete-du-23-octobre-2008-agrf0825458a)
 - [Arrêté du 23 octobre 2008 (IOCD0823381A)](arrete-du-23-octobre-2008-iocd0823381a)
 - [Arrêté du 23 octobre 2008 (IOCD0823394A)](arrete-du-23-octobre-2008-iocd0823394a)
-- [Arrêté du 23 octobre 2008 (IOCE0825489A)](arrete-du-23-octobre-2008-ioce0825489a)
 - [Arrêté du 23 octobre 2008 (JUSK0826005A)](arrete-du-23-octobre-2008-jusk0826005a)
 - [Arrêté du 23 septembre 2008 (BCFD0821572A)](arrete-du-23-septembre-2008-bcfd0821572a)
 - [Arrêté du 23 septembre 2008 (BCFZ0821432A)](arrete-du-23-septembre-2008-bcfz0821432a)
