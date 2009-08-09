@@ -1,8 +1,8 @@
 # Article 16
 
-La direction « navigabilité et opérations » (DSAC/NO) comprend :
+La direction  navigabilité et opérations  (DSAC/NO) comprend :
 
-Le pôle « agréments et maintien de la navigabilité » (NO/AGR), qui :
+Le pôle  agréments et maintien de la navigabilité  (NO/AGR), qui :
 
 ― est chargé de la certification des organismes de production, d'organismes de maintenance, d'organismes de formation et de centres d'examens des personnels de maintenance ainsi que les reconnaissances des laboratoires d'essais d'inflammabilité. Il organise les méthodes et définit les moyens dans les domaines correspondants ;
 
@@ -14,7 +14,7 @@ Le pôle « agréments et maintien de la navigabilité » (NO/AGR), qui :
 
 ― pour le compte de l'Agence européenne de la sécurité aérienne, gère l'instruction et la surveillance des agréments et prépare les réponses aux recommandations des organismes des pays tiers dans le domaine de la conception.
 
-Le pôle « certification, suivi de navigabilité et aviation générale » (NO/NAV), qui :
+Le pôle  certification, suivi de navigabilité et aviation générale  (NO/NAV), qui :
 
 ― instruit les dossiers de navigabilité et relatifs à la limitation des nuisances des aéronefs, pièces et équipements associés, relevant de la compétence de l'autorité nationale ou pour le compte de l'Agence européenne de la sécurité aérienne ;
 
@@ -24,15 +24,7 @@ Le pôle « certification, suivi de navigabilité et aviation générale » (NO/
 
 ― coordonne l'action des directions interrégionales lorsqu'elles sont en charge de ces activités.
 
-Le pôle « simulateurs » (NO/SIM), qui :
-
-― est chargé de la qualification des entraîneurs synthétiques de vol ;
-
-― traite des questions relatives aux autorisations d'emploi des entraîneurs synthétiques de vol ;
-
-― coordonne l'action des personnels navigants des autres pôles et de l'organisme du contrôle en vol participant à ces activités.
-
-Le pôle « spécialistes et techniques » (NO/ST), qui :
+Le pôle  spécialistes et techniques  (NO/ST), qui :
 
 ― coordonne les activités pour les prestations fournies à la demande de l'Agence européenne de la sécurité aérienne par les autorités françaises relatives au contrôle et à l'inspection des produits, pièces et équipements aéronautiques lors de leur conception, leur production, leur entretien ou leur exploitation ;
 
@@ -42,7 +34,7 @@ Le pôle « spécialistes et techniques » (NO/ST), qui :
 
 ― traite les questions relatives à l'approbation et à l'utilisation opérationnelle des équipements.
 
-Le pôle « surveillance activités internationales et qualité des opérations » (NO/AIQ), qui :
+Le pôle  surveillance activités internationales et qualité des opérations  (NO/AIQ), qui :
 
 ― organise et coordonne les contrôles sur les aérodromes des aéronefs des compagnies françaises, des aéronefs étrangers et des aéronefs immatriculés en France exploités par un exploitant étranger ;
 
@@ -54,7 +46,7 @@ Le pôle « surveillance activités internationales et qualité des opérations 
 
 ― apporte son expertise et peut participer aux contrôles techniques des exploitants dans les domaines du contrôle de la qualité et de la gestion de la sécurité.
 
-Le pôle « opérations avions » (NO/OA), qui :
+Le pôle  opérations avions  (NO/OA), qui :
 
 ― est chargé des questions relatives aux règles d'utilisation des avions, sous réserve des compétences des autres pôles ; il organise les méthodes et définit les moyens dans le domaine correspondant ;
 
@@ -62,7 +54,7 @@ Le pôle « opérations avions » (NO/OA), qui :
 
 ― apporte son expertise technique aux autres directions techniques et aux directions interrégionales et peut participer aux contrôles techniques des exploitants en transport public.
 
-Le pôle « opérations hélicoptères » (NO/OH), qui :
+Le pôle  opérations hélicoptères  (NO/OH), qui :
 
 ― est chargé des questions relatives aux règles d'utilisation des hélicoptères, sous réserve des compétences des autres pôles ; il organise les méthodes et définit les moyens dans le domaine correspondant ;
 
