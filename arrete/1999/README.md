@@ -523,7 +523,6 @@
 - [Arrêté du 23 septembre 1999 (AGRG9902025A)](arrete-du-23-septembre-1999-agrg9902025a)
 - [Arrêté du 23 septembre 1999 (MCCK9900155A)](arrete-du-23-septembre-1999-mcck9900155a)
 - [Arrêté du 24 août 1999 (ECOS9950033A)](arrete-du-24-aout-1999-ecos9950033a)
-- [Arrêté du 24 décembre 1998 (AGRA9802426A)](arrete-du-24-decembre-1998-agra9802426a)
 - [Arrêté du 24 décembre 1998 (AGRA9802634A)](arrete-du-24-decembre-1998-agra9802634a)
 - [Arrêté du 24 décembre 1998 (ECOT9814005A)](arrete-du-24-decembre-1998-ecot9814005a)
 - [Arrêté du 24 décembre 1998 (MESP9824144A)](arrete-du-24-decembre-1998-mesp9824144a)
