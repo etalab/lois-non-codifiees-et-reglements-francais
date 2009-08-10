@@ -1,6 +1,6 @@
 # Article 2-1
 
-Les panneaux additionnels désignés sous le nom de panonceaux, de forme rectangulaireou carrée, sont placés au-dessous des panneaux de signalisation pour donner des indications qui précédent ou complètent leur signalisation. Seuls les panonceaux de type M10 identifiant une route, une autoroute, un échangeur ou un service sont placés au-dessus du panneau qu'ils complètent.
+Les panneaux additionnels désignés sous le nom de panonceaux, de forme rectangulaire ou carrée, sont placés au-dessous des panneaux de signalisation pour donner des indications qui précédent ou complètent leur signalisation. Seuls les panonceaux de type M10 identifiant une route, une autoroute, un échangeur ou un service sont placés au-dessus du panneau qu'ils complètent.
 
 Les panonceaux sont répartis en onze catégories :
 
@@ -79,6 +79,8 @@ M 4 w qui désigne les véhicules tractant une remorque dont le poids total auto
 M 4 x qui désigne les véhicules tractant une caravane ou une remorque de plus de 250 kg et dont le poids total roulant, véhicule plus remorque, n'excède pas 3,5 tonnes.
 
 M4y qui désigne les cavaliers.
+
+M4z qui indique par la lettre qu'il porte, comprise entre B et E, la catégorie d'un tunnel définie en fonction des marchandises dangereuses autorisées à y circuler.
 
 **PANONCEAU STOP M 5**
 

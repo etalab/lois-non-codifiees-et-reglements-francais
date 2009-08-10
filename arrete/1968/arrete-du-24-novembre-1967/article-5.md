@@ -144,6 +144,8 @@ Signal C 116. - Fin de voie verte - voie réservée à la circulation des piéto
 
 Ce signal indique la fin de la réglementation édictée par le panneau C113.
 
+Signaux C117a, b et c. Présignalisation d'une section comportant un tunnel dont l'accès est interdit à certains véhicules transportant des marchandises dangereuses. Ce signal est obligatoirement complété par un panonceau M4z indiquant la catégorie du tunnel.
+
 Signal C207 : Début d'une section d'autoroute.
 
 Ce signal annonce le début de l'application des règles particulières de circulation sur autoroute.
@@ -170,7 +172,9 @@ Les signaux de type C sont à fond bleu avec un listel blanc. Les pictogrammes e
 
 -les signaux C64d dont le pictogramme est orange ou composé d'éléments noirs ;
 
-- les panneaux C115 et C116 dont un élément du pictogramme est de couleur verte.
+- les panneaux C115 et C116 dont un élément du pictogramme est de couleur verte ;
+
+- les panneaux C117 dont l'élément supérieur du pictogramme est une partie du panneau B18c et l'élément inférieur est une partie des panneaux B21c1, B21c2 ou B21e.
 
 **B) SIGNAUX D'INDICATION DES SERVICES DE TYPE CE donnant des informations sur la présence ou la proximité de services ou d'installations susceptibles d'être utiles aux usagers.**
 
@@ -1026,7 +1030,7 @@ SI10 : Signalisation avancée d'une direction interdite aux véhicules transport
 
 SI11 : Signalisation avancée d'une direction interdite aux véhicules transportant des marchandises de nature à polluer les eaux, de nature et en quantité définies par l'arrêté du 1er juin 2001 relatif au transport des marchandises dangereuses par route et signalés comme tels.
 
-SI12 : Signalisation avancée d'une direction interdite aux véhicules transportant des marchandises dangereuses définies par l'arrêté du 1er juin 2001 relatif au transport des marchandises dangereuses par route et signalés comme tels.
+SI12 : Signalisation avancée d'une direction interdite à tout ou partie des véhicules transportant des marchandises dangereuses définies par l'arrêté du 29 mai 2009 relatif aux transports de marchandises dangereuses par voies terrestres (dit " arrêté TMD "), et signalés comme tels.
 
 SI13 : Signalisation avancée d'une direction interdite aux motocyclettes et motocyclettes légères, au sens de l'article R. 311-1 du code de la route.
 
@@ -1062,7 +1066,7 @@ SC10 : Direction conseillée aux véhicules transportant des marchandises explos
 
 SC11 : Direction conseillée aux véhicules transportant des marchandises susceptibles de polluer les eaux, de nature et en quantité définies par l'arrêté du 1er juin 2001 relatif au transport des marchandises dangereuses par route, et signalés comme tels.
 
-SC12 : Direction conseillée aux véhicules transportant des marchandises dangereuses définies par l'arrêté du 1er juin 2001 relatif au transport des marchandises dangereuses par route, et signalés comme tels.
+SC12 : Direction conseillée à tout ou partie des véhicules transportant des marchandises dangereuses définies par l'arrêté du 29 mai 2009 relatif aux transports de marchandises dangereuses par voies terrestres (dit " arrêté TMD "), et signalés comme tels.
 
 SC13 : Direction conseillée aux motocyclettes et motocyclettes légères, au sens de l'article R. 311-1 du code de la route.
 
