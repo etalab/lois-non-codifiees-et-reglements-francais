@@ -11,3 +11,5 @@ Master ingénierie pour la santé , spécialité professionnel et recherche : ph
 Master physique médicale et biologique , spécialité professionnel et recherche : radiophysique médicale, délivré par l'université Paris-Sud ;
 
 Diplôme d'étude approfondie rayonnements et imagerie en médecine, option 1 : physique radiologique et médicale, délivré par l'université Paul Sabatier de Toulouse.
+
+Master professionnel mention physique électronique, spécialité rayonnements ionisants et applications, délivré par l'université de Nantes.
