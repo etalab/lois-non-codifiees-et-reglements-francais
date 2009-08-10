@@ -657,7 +657,6 @@
 - [Arrêté du 12 mai 2009 (IOCD0910746A)](arrete-du-12-mai-2009-iocd0910746a)
 - [Arrêté du 12 mai 2009 (IOCE0911399A)](arrete-du-12-mai-2009-ioce0911399a)
 - [Arrêté du 12 mai 2009 (JUSC0910328A)](arrete-du-12-mai-2009-jusc0910328a)
-- [Arrêté du 12 mai 2009 (MAEA0910695A)](arrete-du-12-mai-2009-maea0910695a)
 - [Arrêté du 12 mai 2009 (MEND0910771A)](arrete-du-12-mai-2009-mend0910771a)
 - [Arrêté du 12 mai 2009 (MENE0910728A)](arrete-du-12-mai-2009-mene0910728a)
 - [Arrêté du 12 mai 2009 (SASP0908775A)](arrete-du-12-mai-2009-sasp0908775a)
