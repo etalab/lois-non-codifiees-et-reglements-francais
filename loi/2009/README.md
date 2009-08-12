@@ -23,4 +23,6 @@
 - [LOI n° 2009-970 du 3 août 2009 (IOCO0910290L)](loi-n-2009-970-du-3-aout-2009-ioco0910290l)
 - [LOI n° 2009-971 du 3 août 2009 (IOCX0814116L)](loi-n-2009-971-du-3-aout-2009-iocx0814116l)
 - [LOI n° 2009-972 du 3 août 2009 (BCFX0805620L)](loi-n-2009-972-du-3-aout-2009-bcfx0805620l)
+- [LOI n° 2009-973 du 10 août 2009 (BCFX0911474L)](loi-n-2009-973-du-10-aout-2009-bcfx0911474l)
+- [LOI n° 2009-974 du 10 août 2009 (MTSX0913926L)](loi-n-2009-974-du-10-aout-2009-mtsx0913926l)
 - [LOI n°2009-135 du 9 février 2009 (BCFX0822494L)](loi-n2009-135-du-9-fevrier-2009-bcfx0822494l)
