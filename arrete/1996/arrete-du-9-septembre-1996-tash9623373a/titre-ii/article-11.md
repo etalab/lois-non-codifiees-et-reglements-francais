@@ -1,3 +1,5 @@
 # Article 11
 
-L'examen professionnel pour l'avancement et l'accès au grade d'ingénieur hospitalier en chef de classe normale de l'Assistance publique-hôpitaux de Paris permet, en application de l'article 69 (2°) de la loi n° 86-33 du 9 janvier 1986 modifiée portant dispositions statutaires relatives à la fonction publique hospitalière susvisé, l'inscription au tableau annuel d'avancement au grade d'ingénieur hospitalier en chef de classe normale prévu au deuxième alinéa de l'article 7 (b) du décret du 3 février 1993 susvisé.
+L'examen professionnel permettant l'inscription sur une liste d'aptitude pour le recrutement des ingénieurs hospitaliers, prévu à l'article 4 (2°) du décret du 3 février 1993 susvisé, est ouvert par arrêté du directeur général à l'Assistance publique-hôpitaux de Paris.
+
+La décision d'ouverture doit préciser les spécialités au titre desquelles l'examen est ouvert et le nombre de postes offerts dans chaque spécialité.

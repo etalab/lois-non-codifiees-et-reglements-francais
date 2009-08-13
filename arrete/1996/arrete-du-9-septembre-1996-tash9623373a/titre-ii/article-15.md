@@ -1,11 +1,13 @@
 # Article 15
 
-L'examen professionnel prévu à l'article 11 comprend les épreuves énumérées ci-après :
+L'examen professionnel comporte les épreuves énumérées ci-après :
 
-1° Epreuve sur dossier d'admissibilité :
+I. - Epreuve d'admissibilité sur dossier :
 
-Un examen du dossier du candidat et de ses titres et travaux ainsi que du rapport présenté par le supérieur hiérarchique du candidat et par le directeur de l'établissement dans lequel le candidat est en fonctions (coefficient 5) ;
+Examen par le jury du dossier du candidat ainsi que d'un rapport établi par son supérieur hiérarchique et par le directeur de l'hôpital ou du service général dans lequel le candidat est en fonctions (coefficient 5).
 
-2° Epreuve orale d'admission :
+II. - Epreuves orales d'admission :
 
-Un entretien avec le jury, destiné à évaluer les aptitudes professionnelles du candidat (durée maximum : trente minutes ; coefficient 5).
+1° Un entretien avec le jury destiné à permettre de juger des aptitudes générales du candidat (durée : trente minutes ; coefficient 4) ;
+
+2° Des questions destinées à apprécier les aptitudes professionnelles et les connaissances administratives et techniques du candidat à partir de la résolution d'un cas concret soumis au candidat trente minutes avant le début de l'épreuve (durée : trente minutes ; coefficient 3).

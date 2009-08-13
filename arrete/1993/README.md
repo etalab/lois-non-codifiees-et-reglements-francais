@@ -363,7 +363,6 @@
 - [Arrêté du 14 décembre 1993 (INTB9300702A)](arrete-du-14-decembre-1993-intb9300702a)
 - [Arrêté du 14 décembre 1993 (SPSA9303510A)](arrete-du-14-decembre-1993-spsa9303510a)
 - [Arrêté du 14 décembre 1993 (SPSH9303524A)](arrete-du-14-decembre-1993-spsh9303524a)
-- [Arrêté du 14 décembre 1993 (SPSH9303525A)](arrete-du-14-decembre-1993-spsh9303525a)
 - [Arrêté du 14 janvier 1993 (FPPA9200086A)](arrete-du-14-janvier-1993-fppa9200086a)
 - [Arrêté du 14 janvier 1993 (MENL9204020A)](arrete-du-14-janvier-1993-menl9204020a)
 - [Arrêté du 14 janvier 1993 (MENZ9204582A)](arrete-du-14-janvier-1993-menz9204582a)
