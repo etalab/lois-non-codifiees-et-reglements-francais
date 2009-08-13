@@ -8,10 +8,16 @@ Darifénacine ;
 
 Dexibuprofène ;
 
-Flunixine (méglunine de) ;
+Fésotérodine ;
+
+Flunixine (méglumine de) ;
 
 Lévocétirizine ;
 
+Ropivacaïne ;
+
 Rupatadine ;
+
+Solifénacine ;
 
 Tépoxalin.

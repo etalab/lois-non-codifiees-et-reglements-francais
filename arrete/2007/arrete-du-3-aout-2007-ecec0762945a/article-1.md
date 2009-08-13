@@ -1,6 +1,6 @@
 # Article 1
 
-La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et de la répression des fraudes prévue à l'article 2 du décret n° 2007-121 du 30 janvier 2007 susvisé est fixée comme suit :
+La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et de la répression des fraudes prévue à l'article 2 du décret n° 2007-121 du 30 janvier 2007  susvisé est fixée comme suit :
 
 <table>
 <tbody>
@@ -14,6 +14,9 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <td>
 <p>MISSION INSPECTEUR EXPERT </p>
 </td>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
@@ -25,18 +28,51 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <td>
 <p>Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs. (supprimé à compter du 26 septembre 2008)</p>
 </td>
-</tr>
-<tr>
-<td/>
-<td/>
-<td>Emploi d'expertise dans la réalisation des contrôles de la première mise sur le marché. <br/>
+<td>
+<br/>
 </td>
 </tr>
 <tr>
-<td/>
-<td>Strasbourg <br/>
+<td>
+<br/>
 </td>
-<td>Emploi de responsable de la cellule d'animation régionale.</td>
+<td>
+<br/>
+</td>
+<td>
+<p>Emploi d'expertise dans la réalisation des contrôles de la première mise sur le marché. </p>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td>
+<p>Strasbourg </p>
+</td>
+<td>
+<p>Emploi de responsable de la cellule d'animation régionale.</p>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<p>Emploi d'expertise dans la réalisation des missions relatives à la sécurité et à la protection des consommateurs </p>
+</td>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
@@ -48,12 +84,13 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <td>
 <p>Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs. </p>
 </td>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
-<pre>
-<br/>
-</pre>
+<pre> </pre>
 </td>
 <td>
 <p>Fort-de-France. </p>
@@ -61,16 +98,36 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <td>
 <p>Emploi d'expertise dans les enquêtes complexes de concurrence. </p>
 </td>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
-<td/>
-<td/>
-<td> Emploi d'expertise dans la réalisation des missions relatives à la sécurité et à la protection des consommateurs.</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<p>Emploi d'expertise dans la réalisation des missions relatives à la sécurité et à la protection des consommateurs.</p>
+</td>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
-<td/>
-<td>Basse-Terre </td>
-<td>Emploi de responsable du contentieux. <br/>
+<td>
+<br/>
+</td>
+<td>
+<p>Basse-Terre </p>
+</td>
+<td>
+<p>Emploi de responsable du contentieux. </p>
+</td>
+<td>
+<br/>
 </td>
 </tr>
 <tr>
@@ -83,51 +140,83 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <td>
 <p>Emploi d'expertise dans les enquêtes complexes de concurrence. </p>
 </td>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
-<pre>
-<br/>
-</pre>
+<pre> </pre>
 </td>
 <td>
-<pre>
-<br/>
-</pre>
+<pre> </pre>
 </td>
 <td>
 <p>Emploi d'expertise dans les enquêtes complexes de concurrence. </p>
 </td>
-</tr>
-<tr>
-<td/>
-<td/>
-<td>Emploi d'expertise dans les enquêtes complexes de concurrence. <br/>
-</td>
-</tr>
-<tr>
-<td/>
-<td/>
-<td>Emploi d'expertise dans les enquêtes complexes de concurrence.</td>
-</tr>
-<tr>
-<td/>
-<td/>
-<td>Emploi d'expertise dans les enquêtes complexes de concurrence. <br/>
-</td>
-</tr>
-<tr>
-<td/>
-<td>Périgueux <br/>
-</td>
-<td>Emploi d'expertise dans les enquêtes complexes de concurrence. <br/>
+<td>
+<br/>
 </td>
 </tr>
 <tr>
 <td>
-<pre>
 <br/>
-</pre>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<p>Emploi d'expertise dans les enquêtes complexes de concurrence. </p>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<p>Emploi d'expertise dans les enquêtes complexes de concurrence.</p>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<p>Emploi d'expertise dans les enquêtes complexes de concurrence. </p>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td>
+<p>Périgueux </p>
+</td>
+<td>
+<p>Emploi d'expertise dans les enquêtes complexes de concurrence. </p>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<pre> </pre>
 </td>
 <td>
 <p>Mont-de-Marsan. </p>
@@ -135,12 +224,13 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <td>
 <p>Emploi d'expertise dans les enquêtes complexes de concurrence. </p>
 </td>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
-<pre>
-<br/>
-</pre>
+<pre> </pre>
 </td>
 <td>
 <p>Pau. </p>
@@ -148,12 +238,13 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <td>
 <p>Emploi d'expertise dans la réalisation des missions afférentes à l'équipement commercial. </p>
 </td>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
-<pre>
-<br/>
-</pre>
+<pre> </pre>
 </td>
 <td>
 <p>Pau (Bayonne). </p>
@@ -161,18 +252,50 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <td>
 <p>Emploi d'expertise dans les enquêtes complexes de concurrence. </p>
 </td>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
-<pre>
-<br/>
-</pre>
+<pre> </pre>
 </td>
 <td>
 <p>Périgueux. </p>
 </td>
 <td>
-<p>Responsable de l'animation d'un réseau spécialisé au niveau national </p>
+<p>Responsable de l'animation d'un réseau spécialisé au niveau national (supprimé à compter du 1er septembre 2009)</p>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td>
+<p>Agen</p>
+</td>
+<td>
+<p>Emploi d'expertise dans les enquêtes complexes de concurrence </p>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td>
+<p>Bayonne </p>
+</td>
+<td>
+<p>Emploi hors quota régional </p>
+</td>
+<td>
+<br/>
 </td>
 </tr>
 <tr>
@@ -185,50 +308,78 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <td>
 <p>Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs. </p>
 </td>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
-<pre>
-<br/>
-</pre>
+<pre> </pre>
 </td>
 <td>
-<pre>
-<br/>
-</pre>
+<pre> </pre>
 </td>
 <td>
 <p>Emploi d'expertise dans la réalisation des "contrôles de la première mise sur le marché". </p>
 </td>
-</tr>
-<tr>
-<td/>
-<td/>
-<td>Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs. </td>
-</tr>
-<tr>
-<td/>
-<td/>
-<td>Emploi d'expertise dans l'exécution des enquêtes de pratiques restrictives de concurrence.</td>
-</tr>
-<tr>
-<td/>
-<td>Aurillac <br/>
-</td>
-<td>Emploi d'expertise dans la réalisation des contrôles de la première mise sur le marché.  (supprimé à compter du 18 mai 2009)<br/>
+<td>
+<br/>
 </td>
 </tr>
 <tr>
 <td>
-<pre>
 <br/>
-</pre>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<p>Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs. </p>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<p>Emploi d'expertise dans l'exécution des enquêtes de pratiques restrictives de concurrence.</p>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td>
+<p>Aurillac </p>
+</td>
+<td>
+<p>Emploi d'expertise dans la réalisation des contrôles de la première mise sur le marché. (supprimé à compter du 18 mai 2009)</p>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<pre> </pre>
 </td>
 <td>
 <p>Moulins. </p>
 </td>
 <td>
 <p>Emploi d'expertise dans la réalisation des "contrôles de la première mise sur le marché". </p>
+</td>
+<td>
+<br/>
 </td>
 </tr>
 <tr>
@@ -241,11 +392,37 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <td>
 <p>Emploi de responsable de la gestion régionale. </p>
 </td>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
-<td/>
-<td>Saint-Lô </td>
-<td>Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs.</td>
+<td>
+<br/>
+</td>
+<td>
+<p>Alençon </p>
+</td>
+<td>
+<p>Emploi d'expertise dans les enquêtes complexes de concurrence </p>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td>
+<p>Saint-Lô </p>
+</td>
+<td>
+<p>Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs.(supprimé à compter du 1er septembre 2009)</p>
+</td>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
@@ -258,22 +435,65 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <p>Emploi d'expertise dans la réalisation des missions afférentes à l'équipement commercial. (Supprimé à compter du 25 mai 2008)</p>
 <br/>
 </td>
-</tr>
-<tr>
-<td/>
-<td/>
-<td>Emploi d'expertise dans l'exécution des enquêtes de pratiques restrictives de concurrence. <br/>
+<td>
+<br/>
 </td>
 </tr>
 <tr>
-<td/>
-<td/>
-<td>Emploi d'expertise dans la réalisation des missions afférentes à l'équipement commercial.</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<p>Emploi d'expertise dans l'exécution des enquêtes de pratiques restrictives de concurrence. </p>
+</td>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
-<td/>
-<td>Nevers </td>
-<td>Emploi d'expertise dans la réalisation des "contrôles de la première mise sur le marché"</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<p>Emploi d'expertise dans la réalisation des missions afférentes à l'équipement commercial.</p>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<p>Responsable de l'animation d'un réseau spécialisé au niveau national </p>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td>
+<p>Nevers </p>
+</td>
+<td>
+<p>Emploi d'expertise dans la réalisation des "contrôles de la première mise sur le marché"</p>
+</td>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
@@ -285,12 +505,13 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <td>
 <p>Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs. (supprimé à compter du 26 septembre 2008)</p>
 </td>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
-<pre>
-<br/>
-</pre>
+<pre> </pre>
 </td>
 <td>
 <p>Rennes. </p>
@@ -298,45 +519,83 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <td>
 <p>Emploi d'expertise dans la réalisation des "contrôles de la première mise sur le marché". </p>
 </td>
-</tr>
-<tr>
-<td/>
-<td/>
-<td>Emploi de responsable du contentieux (supprimé à compter du 25 mai 2008) <br/>
+<td>
+<br/>
 </td>
 </tr>
 <tr>
 <td>
-<pre>
 <br/>
-</pre>
 </td>
 <td>
-<pre>
 <br/>
-</pre>
+</td>
+<td>
+<p>Emploi de responsable du contentieux (supprimé à compter du 25 mai 2008) </p>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<pre> </pre>
+</td>
+<td>
+<pre> </pre>
 </td>
 <td>
 <p>Emploi d'expertise dans les enquêtes complexes de concurrence. </p>
 </td>
-</tr>
-<tr>
-<td/>
-<td/>
-<td>Emploi de responsable de la cellule d'animation régionale. <br/>
-</td>
-</tr>
-<tr>
-<td/>
-<td/>
-<td>Emploi de responsable de la gestion régionale. <br/>
+<td>
+<br/>
 </td>
 </tr>
 <tr>
 <td>
-<pre>
 <br/>
-</pre>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<p>Emploi de responsable de la cellule d'animation régionale. </p>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<p>Emploi de responsable de la gestion régionale. </p>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<p>Emploi d'expertise dans les enquêtes complexes de concurrence </p>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<pre> </pre>
 </td>
 <td>
 <p>Saint-Brieuc. </p>
@@ -344,22 +603,51 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <td>
 <p>Emploi d'expertise dans l'exécution des enquêtes de pratiques restrictives de concurrence. </p>
 </td>
-</tr>
-<tr>
-<td/>
-<td/>
-<td>Emploi d'expertise dans les enquêtes complexes de concurrence. </td>
-</tr>
-<tr>
-<td/>
-<td>Vannes.</td>
-<td>Responsable de l'animation d'un réseau spécialisé au niveau national. (Supprimé à compter du 25 mai 2008)<br/>
+<td>
+<br/>
 </td>
 </tr>
 <tr>
-<td/>
-<td/>
-<td>Emploi d'expertise dans l'exécution des enquêtes de pratiques restrictives de concurrence. </td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<p>Emploi d'expertise dans les enquêtes complexes de concurrence. </p>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td>
+<p>Vannes.</p>
+</td>
+<td>
+<p>Responsable de l'animation d'un réseau spécialisé au niveau national. (Supprimé à compter du 25 mai 2008)</p>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<p>Emploi d'expertise dans l'exécution des enquêtes de pratiques restrictives de concurrence. </p>
+</td>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
@@ -369,28 +657,66 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <p>Blois. </p>
 </td>
 <td>
-<p>Emploi de responsable du contentieux. </p>
+<p>Emploi de responsable du contentieux. (supprimé à compter du 1er septembre 2009)</p>
+</td>
+<td>
+<br/>
 </td>
 </tr>
 <tr>
-<td/>
-<td>Chartres <br/>
+<td>
+<br/>
 </td>
-<td>Emploi d'expertise dans la réalisation des missions afférentes à l'équipement commercial. <br/>
+<td>
+<p>Chartres </p>
+</td>
+<td>
+<p>Emploi d'expertise dans la réalisation des missions afférentes à l'équipement commercial. </p>
+</td>
+<td>
+<br/>
 </td>
 </tr>
 <tr>
-<td/>
-<td>Orléans</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<p>Emploi d'expertise dans la réalisation des  contrôles de la première mise sur le marché  </p>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td>
+<p>Orléans</p>
+</td>
 <td>
 <p>Emploi d'expertise dans les enquêtes complexes de concurrence. </p>
 </td>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
-<td/>
-<td>Tours <br/>
+<td>
+<br/>
 </td>
-<td>Emploi de responsable du contentieux. <br/>
+<td>
+<p>Tours </p>
+</td>
+<td>
+<p>Emploi de responsable du contentieux. </p>
+</td>
+<td>
+<br/>
 </td>
 </tr>
 <tr>
@@ -403,26 +729,50 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <td>
 <p>Emploi d'expertise dans la réalisation des missions afférentes à l'équipement commercial. </p>
 </td>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
-<pre>
 <br/>
-</pre>
 </td>
 <td>
-<pre>
 <br/>
-</pre>
+</td>
+<td>
+<p>Emploi d'expertise dans la réalisation des missions relatives à la sécurité et à la protection des consommateurs </p>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<pre> </pre>
+</td>
+<td>
+<pre> </pre>
 </td>
 <td>
 <p>Emploi d'expertise dans les enquêtes complexes de concurrence. </p>
 </td>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
-<td/>
-<td/>
-<td>Emploi de responsable de la gestion régionale. <br/>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<p>Emploi de responsable de la gestion régionale. </p>
+</td>
+<td>
+<br/>
 </td>
 </tr>
 <tr>
@@ -435,11 +785,22 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <td>
 <p>Emploi d'expertise dans la réalisation des missions afférentes à l'équipement commercial. (supprimé à compter du 26 septembre 2008)</p>
 </td>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
-<td/>
-<td/>
-<td>Emploi d'expertise dans la réalisation des contrôles de la première mise sur le marché. <br/>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<p>Emploi d'expertise dans la réalisation des contrôles de la première mise sur le marché. </p>
+</td>
+<td>
+<br/>
 </td>
 </tr>
 <tr>
@@ -452,12 +813,13 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <td>
 <p>Emploi d'expertise dans la réalisation des missions afférentes à l'équipement commercial. </p>
 </td>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
-<pre>
-<br/>
-</pre>
+<pre> </pre>
 </td>
 <td>
 <p>Besançon. </p>
@@ -465,11 +827,23 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <td>
 <p>Emploi de responsable de la cellule d'animation régionale. </p>
 </td>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
-<td/>
-<td/>
-<td>Emploi d'expertise dans l'exécution des enquêtes de pratiques restrictives de concurrence. </td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<p>Emploi d'expertise dans l'exécution des enquêtes de pratiques restrictives de concurrence. </p>
+</td>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
@@ -479,13 +853,24 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <p>Rouen. </p>
 </td>
 <td>
-<p>Responsable de l'animation d'un réseau spécialisé au niveau national. </p>
+<p>Responsable de l'animation d'un réseau spécialisé au niveau national. (supprimé à compter du 1er septembre 2009)</p>
+</td>
+<td>
+<br/>
 </td>
 </tr>
 <tr>
-<td/>
-<td/>
-<td>Emploi d'expertise dans les enquêtes complexes de concurrence. <br/>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<p>Emploi d'expertise dans les enquêtes complexes de concurrence. </p>
+</td>
+<td>
+<br/>
 </td>
 </tr>
 <tr>
@@ -498,133 +883,167 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <td>
 <p>Emploi d'expertise dans la réalisation des "contrôles de la première mise sur le marché ". </p>
 </td>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
-<pre>
-<br/>
-</pre>
+<pre> </pre>
 </td>
 <td>
-<pre>
-<br/>
-</pre>
+<pre> </pre>
 </td>
 <td>
 <p>Emploi de responsable de la cellule d'animation régionale. </p>
 </td>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
-<pre>
-<br/>
-</pre>
+<pre> </pre>
 </td>
 <td>
-<pre>
-<br/>
-</pre>
+<pre> </pre>
 </td>
 <td>
 <p>Emploi de responsable de la gestion régionale. (supprimé à compter du 26 septembre 2008)</p>
 </td>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
-<pre>
-<br/>
-</pre>
+<pre> </pre>
 </td>
 <td>
-<pre>
-<br/>
-</pre>
+<pre> </pre>
 </td>
 <td>
 <p>Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs. </p>
 </td>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
-<pre>
-<br/>
-</pre>
+<pre> </pre>
 </td>
 <td>
-<pre>
-<br/>
-</pre>
+<pre> </pre>
 </td>
 <td>
 <p>Emploi d'expertise dans l'exécution des enquêtes de pratiques restrictives de concurrence. </p>
 </td>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
-<pre>
-<br/>
-</pre>
+<pre> </pre>
 </td>
 <td>
-<pre>
-<br/>
-</pre>
+<pre> </pre>
 </td>
 <td>
 <p>Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs. (supprimé à compter du 1er janvier 2009)</p>
 </td>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
-<pre>
-<br/>
-</pre>
+<pre> </pre>
 </td>
 <td>
-<pre>
-<br/>
-</pre>
+<pre> </pre>
 </td>
 <td>
 <p>Emploi d'expertise dans les enquêtes complexes de concurrence. </p>
 </td>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
-<pre>
-<br/>
-</pre>
+<pre> </pre>
 </td>
 <td>
-<pre>
-<br/>
-</pre>
+<pre> </pre>
 </td>
 <td>
 <p>Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs. </p>
 </td>
-</tr>
-<tr>
-<td/>
-<td/>
-<td>Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs. </td>
-</tr>
-<tr>
-<td/>
-<td/>
-<td>Emploi d'expertise dans les enquêtes complexes de concurrence. <br/>
+<td>
+<br/>
 </td>
 </tr>
 <tr>
-<td/>
-<td/>
-<td>Emploi d'expertise au titre des activités syndicales exercées.</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<p>Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs. </p>
+</td>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
-<pre>
 <br/>
-</pre>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<p>Emploi d'expertise dans les enquêtes complexes de concurrence. </p>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<p>Emploi d'expertise au titre des activités syndicales exercées.</p>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<p>Emploi d'expertise dans les enquêtes complexes de concurrence </p>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<pre> </pre>
 </td>
 <td>
 <p>Melun. </p>
@@ -632,80 +1051,111 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <td>
 <p>Emploi d'expertise dans la réalisation des "contrôles de la première mise sur le marché ". (supprimé à compter du 1er janvier 2009)</p>
 </td>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
-<pre>
-<br/>
-</pre>
+<pre> </pre>
 </td>
 <td>
-<pre>
-<br/>
-</pre>
+<pre> </pre>
 </td>
 <td>
 <p>Emploi d'expertise dans la réalisation des "contrôles de la première mise sur le marché ". </p>
 </td>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
-<pre>
-<br/>
-</pre>
+<pre> </pre>
 </td>
 <td>
-<pre>
-<br/>
-</pre>
+<pre> </pre>
 </td>
 <td>
 <p>Emploi d'expertise dans l'exécution des enquêtes de pratiques restrictives de concurrence. </p>
 </td>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
 <td>
-<pre>
-<br/>
-</pre>
+<pre> </pre>
 </td>
 <td>
 <p>Versailles. </p>
 </td>
 <td>
-<p>Emploi de responsable du contentieux. </p>
+<p>Emploi de responsable du contentieux. (supprimé à compter du 1er septembre 2009)</p>
+</td>
+<td>
+<br/>
 </td>
 </tr>
 <tr>
-<td/>
-<td>Cergy-Pontoise </td>
-<td>Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs. </td>
-</tr>
-<tr>
-<td/>
-<td>Créteil <br/>
+<td>
+<br/>
 </td>
-<td>Emploi de responsable du contentieux.</td>
-</tr>
-<tr>
-<td/>
-<td>Créteil <br/>
+<td>
+<p>Cergy-Pontoise </p>
 </td>
-<td>Emploi d'expertise dans la réalisation des contrôles de la première mise sur le marché. </td>
+<td>
+<p>Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs. </p>
+</td>
+<td>
+<br/>
+</td>
 </tr>
 <tr>
-<td/>
+<td>
+<br/>
+</td>
+<td>
+<p>Créteil </p>
+</td>
+<td>
+<p>Emploi de responsable du contentieux.</p>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td>
+<p>Créteil </p>
+</td>
+<td>
+<p>Emploi d'expertise dans la réalisation des contrôles de la première mise sur le marché. </p>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
 <td>
 <p>Evry. </p>
 </td>
-<td>Emploi d'expertise dans l'exécution des enquêtes de pratiques restrictives de concurrence. <br/>
+<td>
+<p>Emploi d'expertise dans l'exécution des enquêtes de pratiques restrictives de concurrence. </p>
+</td>
+<td>
+<br/>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<pre>
-<br/>
-</pre>
+<pre> </pre>
 </td>
 <td rowspan="2">
 <p>Evry. </p>
@@ -713,1186 +1163,1434 @@ La liste des emplois d'inspecteur expert de la concurrence, de la consommatin et
 <td rowspan="2">
 <p>Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs. </p>
 </td>
+<td height="12"/>
+</tr>
+<tr>
+<td height="12"/>
 </tr>
 </tbody>
 </table>
+
 <table>
 <tbody>
 <tr>
-<td align="left" valign="middle">
-<p align="left">Languedoc-Roussillon. </p>
+<td>
+<p>Languedoc-Roussillon. </p>
 </td>
-<td align="left" valign="middle">
-<p align="left">Carcassonne. </p>
+<td>
+<p>Carcassonne. </p>
 </td>
-<td align="left" valign="middle">
-<p align="justify">Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs. </p>
+<td>
+<p>Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs. </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<pre>
-<br/>
-</pre>
+<td>
+<pre> </pre>
+</td>
+<td>
+<p>Montpellier. </p>
+</td>
+<td>
+<p>Emploi d'expertise dans l'exécution des enquêtes de pratiques restrictives de concurrence. </p>
+</td>
+</tr>
+<tr>
+<td>
+<pre> </pre>
+</td>
+<td>
+<pre> </pre>
 </td>
-<td align="left" valign="middle">
-<p align="left">Montpellier. </p>
+<td>
+<p>Emploi de responsable du contentieux. (supprimé à compter du 26 septembre 2008)</p>
 </td>
-<td align="left" valign="middle">
-<p align="justify">Emploi d'expertise dans l'exécution des enquêtes de pratiques restrictives de concurrence. </p>
+</tr>
+<tr>
+<td>
+<pre> </pre>
+</td>
+<td>
+<pre> </pre>
 </td>
+<td>
+<p>Emploi de responsable de la cellule d'animation régionale. </p>
+</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<pre>
+<td>
 <br/>
-</pre>
 </td>
-<td align="left" valign="middle">
-<pre>
+<td>
 <br/>
-</pre>
 </td>
-<td align="left" valign="middle">
-<p align="justify">Emploi de responsable du contentieux. (supprimé à compter du 26 septembre 2008)</p>
+<td>
+<p>Emploi de responsable de la gestion régionale. </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<pre>
+<td>
 <br/>
-</pre>
 </td>
-<td align="left" valign="middle">
-<pre>
-<br/>
-</pre>
+<td>
+<p>Nîmes </p>
+</td>
+<td>
+<p>Emploi de responsable du contentieux. </p>
+</td>
+</tr>
+<tr>
+<td>
+<pre> </pre>
+</td>
+<td>
+<p>Perpignan. </p>
+</td>
+<td>
+<p>Emploi d'expertise dans les enquêtes complexes de concurrence. (supprimé à compter du 26 septembre 2008)</p>
+</td>
+</tr>
+<tr>
+<td>
+<pre> </pre>
 </td>
-<td align="left" valign="middle">
-<p align="justify">Emploi de responsable de la cellule d'animation régionale. </p>
+<td>
+<pre> </pre>
 </td>
+<td>
+<p>Emploi d'expertise dans la réalisation des "contrôles de la première mise sur le marché ". </p>
+</td>
 </tr>
 <tr>
-<td/>
-<td/>
-<td>Emploi de responsable de la gestion régionale. <br/>
+<td>
+<p>Limousin. </p>
+</td>
+<td>
+<p>Guéret. </p>
+</td>
+<td>
+<p>Emploi d'expertise dans la réalisation des missions afférentes à l'équipement commercial. (supprimé à compter du 1er septembre 2009)</p>
 </td>
 </tr>
 <tr>
-<td/>
-<td>Nîmes <br/>
+<td>
+<pre> </pre>
 </td>
-<td>Emploi de responsable du contentieux. <br/>
+<td>
+<p>Limoges </p>
 </td>
+<td>
+<p>Emploi d'expertise dans les enquêtes complexes de concurrence.</p>
+</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<pre>
+<td>
 <br/>
-</pre>
 </td>
-<td align="left" valign="middle">
-<p align="left">Perpignan. </p>
+<td>
+<br/>
 </td>
-<td align="left" valign="middle">
-<p align="justify">Emploi d'expertise dans les enquêtes complexes de concurrence. (supprimé à compter du 26 septembre 2008)</p>
+<td>
+<p>Emploi de responsable du contentieux.</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<pre>
+<td>
 <br/>
-</pre>
 </td>
-<td align="left" valign="middle">
-<pre>
+<td>
 <br/>
-</pre>
 </td>
-<td align="left" valign="middle">
-<p align="justify">Emploi d'expertise dans la réalisation des "contrôles de la première mise sur le marché ". </p>
+<td>
+<p>Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs. </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">Limousin. </p>
+<td>
+<p>Lorraine. </p>
 </td>
-<td align="left" valign="middle">
-<p align="left">Guéret. </p>
+<td>
+<p>Epinal. </p>
 </td>
-<td align="left" valign="middle">
-<p align="justify">Emploi d'expertise dans la réalisation des missions afférentes à l'équipement commercial. </p>
+<td>
+<p>Emploi d'expertise dans l'exécution des enquêtes de pratiques restrictives de concurrence. </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<pre>
+<td>
+<br/>
+</td>
+<td>
 <br/>
-</pre>
 </td>
-<td align="left" valign="middle">
-<p align="left">Limoges </p>
+<td>
+<p>Responsable de l'animation d'un réseau spécialisé au niveau national. </p>
 </td>
-<td align="left" valign="middle">Emploi d'expertise dans les enquêtes complexes de concurrence.</td>
 </tr>
 <tr>
-<td/>
-<td/>
-<td>Emploi de responsable du contentieux.<br/>
+<td>
+<pre> </pre>
 </td>
+<td>
+<p>Metz. </p>
+</td>
+<td>
+<p>Emploi d'expertise dans les enquêtes complexes de concurrence. </p>
+</td>
+</tr>
+<tr>
+<td>
+<pre> </pre>
+</td>
+<td>
+<pre> </pre>
+</td>
+<td>
+<p>Emploi de responsable du contentieux. (supprimé à compter du 26 septembre 2008)</p>
+</td>
 </tr>
 <tr>
-<td/>
-<td/>
-<td>Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs. <br/>
+<td>
+<br/>
+</td>
+<td>
+<br/>
 </td>
+<td>
+<p>Emploi d'expertise dans les enquêtes complexes de concurrence.</p>
+</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">Lorraine. </p>
+<td>
+<br/>
 </td>
-<td align="left" valign="middle">
-<p align="left">Epinal. </p>
+<td>
+<br/>
 </td>
-<td align="left" valign="middle">
-<p align="justify">Emploi d'expertise dans l'exécution des enquêtes de pratiques restrictives de concurrence. </p>
+<td>
+<p>Emploi d'expertise dans les enquêtes complexes de concurrence. </p>
 </td>
 </tr>
 <tr>
-<td/>
-<td/>
-<td>Responsable de l'animation d'un réseau spécialisé au niveau national. <br/>
+<td>
+<br/>
 </td>
+<td>
+<br/>
+</td>
+<td>
+<p>Emploi d'expertise dans la réalisation des  contrôles de la première mise sur le marché  </p>
+</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<pre>
+<td>
 <br/>
-</pre>
 </td>
-<td align="left" valign="middle">
-<p align="left">Metz. </p>
+<td>
+<p>Nancy </p>
 </td>
-<td align="left" valign="middle">
-<p align="justify">Emploi d'expertise dans les enquêtes complexes de concurrence. </p>
+<td>
+<p>Emploi d'expertise dans les enquêtes complexes de concurrence. </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<pre>
+<td>
 <br/>
-</pre>
 </td>
-<td align="left" valign="middle">
-<pre>
+<td>
 <br/>
-</pre>
 </td>
-<td align="left" valign="middle">
-<p align="justify">Emploi de responsable du contentieux. (supprimé à compter du 26 septembre 2008)</p>
+<td>
+<p>Emploi d'expertise dans l'exécution des enquêtes de pratiques restrictives de concurrence </p>
 </td>
 </tr>
 <tr>
-<td/>
-<td/>
-<td>Emploi d'expertise dans les enquêtes complexes de concurrence.</td>
+<td>
+<p>Midi-Pyrénées. </p>
+</td>
+<td>
+<p>Cahors. </p>
+</td>
+<td>
+<p>Emploi d'expertise dans la réalisation des missions afférentes à l'équipement commercial. </p>
+</td>
 </tr>
 <tr>
-<td/>
-<td/>
-<td>Emploi d'expertise dans les enquêtes complexes de concurrence. </td>
+<td>
+<pre> </pre>
+</td>
+<td>
+<p>Foix. </p>
+</td>
+<td>
+<p>Emploi d'expertise dans la réalisation des missions afférentes à l'équipement commercial. </p>
+</td>
 </tr>
 <tr>
-<td/>
-<td>Nancy <br/>
+<td>
+<br/>
 </td>
-<td>Emploi d'expertise dans les enquêtes complexes de concurrence. <br/>
+<td>
+<br/>
+</td>
+<td>
+<p>Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs. (supprimé à compter du 1er septembre 2009)</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">Midi-Pyrénées. </p>
+<td>
+<pre> </pre>
 </td>
-<td align="left" valign="middle">
-<p align="left">Cahors. </p>
+<td>
+<p>Rodez. </p>
 </td>
-<td align="left" valign="middle">
-<p align="justify">Emploi d'expertise dans la réalisation des missions afférentes à l'équipement commercial. </p>
+<td>
+<p>Emploi de responsable du contentieux. (supprimé à compter du 1er septembre 2009)</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<pre>
+<td>
 <br/>
-</pre>
 </td>
-<td align="left" valign="middle">
-<p align="left">Foix. </p>
+<td>
+<br/>
 </td>
-<td align="left" valign="middle">
-<p align="justify">Emploi d'expertise dans la réalisation des missions afférentes à l'équipement commercial. </p>
+<td>
+<p>Emploi d'expertise dans les enquêtes complexes de concurrence. </p>
 </td>
 </tr>
 <tr>
-<td/>
-<td/>
-<td>Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs. <br/>
+<td>
+<pre> </pre>
+</td>
+<td>
+<p>Tarbes. </p>
 </td>
+<td>
+<p>Emploi d'expertise dans la réalisation des "contrôles de la première mise sur le marché ". </p>
+</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<pre>
+<td>
 <br/>
-</pre>
 </td>
-<td align="left" valign="middle">
-<p align="left">Rodez. </p>
+<td>
+<br/>
 </td>
-<td align="left" valign="middle">
-<p align="justify">Emploi de responsable du contentieux. </p>
+<td>
+<p>Emploi d'expertise dans les enquêtes complexes de concurrence </p>
 </td>
 </tr>
 <tr>
-<td/>
-<td/>
-<td>Emploi d'expertise dans les enquêtes complexes de concurrence. <br/>
+<td>
+<pre> </pre>
+</td>
+<td>
+<p>Toulouse. </p>
 </td>
+<td>
+<p>Emploi d'expertise dans la réalisation des missions afférentes à l'équipement commercial. </p>
+</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<pre>
+<td>
 <br/>
-</pre>
 </td>
-<td align="left" valign="middle">
-<p align="left">Tarbes. </p>
+<td>
+<br/>
 </td>
-<td align="left" valign="middle">
-<p align="justify">Emploi d'expertise dans la réalisation des "contrôles de la première mise sur le marché ". </p>
+<td>
+<p>Emploi d'expertise dans l'exécution des enquêtes de pratiques restrictives de concurrence. (Supprimé à compter du 25 mai 2008) </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<pre>
-<br/>
-</pre>
+<td>
+<pre> </pre>
+</td>
+<td>
+<pre> </pre>
 </td>
-<td align="left" valign="middle">
-<p align="left">Toulouse. </p>
+<td>
+<p>Emploi de responsable de la cellule d'animation régionale. </p>
 </td>
-<td align="left" valign="middle">
-<p align="justify">Emploi d'expertise dans la réalisation des missions afférentes à l'équipement commercial. </p>
+</tr>
+<tr>
+<td>
+<pre> </pre>
+</td>
+<td>
+<pre> </pre>
 </td>
+<td>
+<p>Emploi d'expertise dans les enquêtes complexes de concurrence. </p>
+</td>
 </tr>
 <tr>
-<td/>
-<td/>
-<td>Emploi d'expertise dans l'exécution des enquêtes de pratiques restrictives de concurrence. (Supprimé à compter du 25 mai 2008) <br/>
+<td>
+<br/>
+</td>
+<td>
+<br/>
 </td>
+<td>
+<p>Emploi de responsable du contentieux.</p>
+</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<pre>
+<td>
 <br/>
-</pre>
 </td>
-<td align="left" valign="middle">
-<pre>
+<td>
 <br/>
-</pre>
 </td>
-<td align="left" valign="middle">
-<p align="justify">Emploi de responsable de la cellule d'animation régionale. </p>
+<td>
+<p>Emploi d'expertise dans les enquêtes complexes de concurrence. (supprimé à compter du 1er septembre 2009)</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<pre>
+<td>
 <br/>
-</pre>
 </td>
-<td align="left" valign="middle">
-<pre>
+<td>
 <br/>
-</pre>
 </td>
-<td align="left" valign="middle">
-<p align="justify">Emploi d'expertise dans les enquêtes complexes de concurrence. </p>
+<td>
+<p>Emploi d'expertise dans la réalisation des missions relatives et à la sécurité et à la protection des consommateurs </p>
 </td>
 </tr>
 <tr>
-<td/>
-<td/>
-<td>Emploi de responsable du contentieux.</td>
+<td>
+<p>Nord. </p>
+</td>
+<td>
+<p>Arras. </p>
+</td>
+<td>
+<p>Emploi de responsable du contentieux. </p>
+</td>
 </tr>
 <tr>
-<td/>
-<td/>
-<td>Emploi d'expertise dans les enquêtes complexes de concurrence. <br/>
+<td>
+<br/>
+</td>
+<td>
+<br/>
 </td>
+<td>
+<p>Emploi d'expertise dans la réalisation des contrôles de la première mise sur le marché. (supprimé à compter du 1er septembre 2009)</p>
+</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">Nord. </p>
+<td>
+<br/>
 </td>
-<td align="left" valign="middle">
-<p align="left">Arras. </p>
+<td>
+<br/>
 </td>
-<td align="left" valign="middle">
-<p align="justify">Emploi de responsable du contentieux. </p>
+<td>
+<p>Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs. </p>
 </td>
 </tr>
 <tr>
-<td/>
-<td/>
-<td>Emploi d'expertise dans la réalisation des contrôles de la première mise sur le marché. <br/>
+<td>
+<pre> </pre>
 </td>
+<td>
+<p>Arras (Boulogne). </p>
+</td>
+<td>
+<p>Emploi d'expertise dans l'exécution des enquêtes de pratiques restrictives de concurrence. (supprimé à compter du 26 septembre 2008)</p>
+</td>
 </tr>
 <tr>
-<td/>
-<td/>
-<td>Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs. </td>
+<td>
+<pre> </pre>
+</td>
+<td>
+<p>Lille. </p>
+</td>
+<td>
+<p>Emploi de responsable de la gestion régionale. </p>
+</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<pre>
+<td>
 <br/>
-</pre>
 </td>
-<td align="left" valign="middle">
-<p align="left">Arras (Boulogne). </p>
+<td>
+<pre> </pre>
 </td>
-<td align="left" valign="middle">
-<p align="justify">Emploi d'expertise dans l'exécution des enquêtes de pratiques restrictives de concurrence. (supprimé à compter du 26 septembre 2008)</p>
+<td>
+<p>Emploi d'expertise dans les enquêtes complexes de concurrence. </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<pre>
+<td>
 <br/>
-</pre>
 </td>
-<td align="left" valign="middle">
-<p align="left">Lille. </p>
+<td>
+<br/>
 </td>
-<td align="left" valign="middle">
-<p align="justify">Emploi de responsable de la gestion régionale. </p>
+<td>
+<p>Emploi d'expertise dans l'exécution des enquêtes de pratiques restrictives de concurrence. </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle"/>
-<td align="left" valign="middle">
-<pre>
+<td>
+<br/>
+</td>
+<td>
 <br/>
-</pre>
 </td>
-<td align="left" valign="middle">
-<p align="justify">Emploi d'expertise dans les enquêtes complexes de concurrence. </p>
+<td>
+<p>Emploi d'expertise dans les enquêtes complexes de concurrence. </p>
 </td>
 </tr>
 <tr>
-<td/>
-<td/>
-<td>Emploi d'expertise dans l'exécution des enquêtes de pratiques restrictives de concurrence. </td>
+<td>
+<p>Provence-Alpes-Côte d'Azur. </p>
+</td>
+<td>
+<p>Avignon. </p>
+</td>
+<td>
+<p>Emploi de responsable du contentieux. </p>
+</td>
 </tr>
 <tr>
-<td/>
-<td/>
-<td>Emploi d'expertise dans les enquêtes complexes de concurrence. <br/>
+<td>
+<br/>
+</td>
+<td>
+<br/>
 </td>
+<td>
+<p>Emploi de responsable du contentieux. </p>
+</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">Provence-Alpes-Côte d'Azur. </p>
+<td>
+<pre> </pre>
 </td>
-<td align="left" valign="middle">
-<p align="left">Avignon. </p>
+<td>
+<pre> </pre>
 </td>
-<td align="left" valign="middle">
-<p align="justify">Emploi de responsable du contentieux. </p>
+<td>
+<p>Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs. </p>
 </td>
 </tr>
 <tr>
-<td/>
-<td/>
-<td>Emploi de responsable du contentieux. <br/>
+<td>
+<pre> </pre>
+</td>
+<td>
+<p>Gap. </p>
 </td>
+<td>
+<p>Emploi d'expertise dans les enquêtes complexes de concurrence. (supprimé à compter du 1er septembre 2009)</p>
+</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<pre>
+<td>
 <br/>
-</pre>
 </td>
-<td align="left" valign="middle">
-<pre>
+<td>
 <br/>
-</pre>
 </td>
-<td align="left" valign="middle">
-<p align="justify">Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs. </p>
+<td>
+<p>Emploi d'expertise dans la réalisation des contrôles de la première mise sur le marché. </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<pre>
-<br/>
-</pre>
+<td>
+<pre> </pre>
 </td>
-<td align="left" valign="middle">
-<p align="left">Gap. </p>
+<td>
+<p>Marseille. </p>
 </td>
-<td align="left" valign="middle">
-<p align="justify">Emploi d'expertise dans les enquêtes complexes de concurrence. </p>
+<td>
+<p>Emploi de responsable du contentieux. </p>
 </td>
 </tr>
 <tr>
-<td/>
-<td/>
-<td>Emploi d'expertise dans la réalisation des contrôles de la première mise sur le marché. <br/>
+<td>
+<pre> </pre>
 </td>
+<td>
+<pre> </pre>
+</td>
+<td>
+<p>Emploi d'expertise dans les enquêtes complexes de concurrence. </p>
+</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<pre>
-<br/>
-</pre>
+<td>
+<pre> </pre>
+</td>
+<td>
+<pre> </pre>
+</td>
+<td>
+<p>Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs. </p>
+</td>
+</tr>
+<tr>
+<td>
+<pre> </pre>
 </td>
-<td align="left" valign="middle">
-<p align="left">Marseille. </p>
+<td>
+<pre> </pre>
 </td>
-<td align="left" valign="middle">
-<p align="justify">Emploi de responsable du contentieux. </p>
+<td>
+<p>Emploi de responsable de la cellule d'animation régionale. </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<pre>
+<td>
 <br/>
-</pre>
 </td>
-<td align="left" valign="middle">
-<pre>
+<td>
 <br/>
-</pre>
 </td>
-<td align="left" valign="middle">
-<p align="justify">Emploi d'expertise dans les enquêtes complexes de concurrence. </p>
+<td>
+<p>Emploi d'expertise dans l'exécution des enquêtes de pratiques restrictives de concurrence. </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<pre>
+<td>
 <br/>
-</pre>
 </td>
-<td align="left" valign="middle">
-<pre>
+<td>
 <br/>
-</pre>
 </td>
-<td align="left" valign="middle">
-<p align="justify">Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs. </p>
+<td>
+<p>Responsable de l'animation d'un réseau spécialisé au niveau national. </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<pre>
+<td>
 <br/>
-</pre>
 </td>
-<td align="left" valign="middle">
-<pre>
+<td>
 <br/>
-</pre>
 </td>
-<td align="left" valign="middle">
-<p align="justify">Emploi de responsable de la cellule d'animation régionale. </p>
+<td>
+<p>Emploi d'expertise dans la réalisation des  contrôles de la première mise sur le marché  </p>
 </td>
 </tr>
 <tr>
-<td/>
-<td/>
-<td>Emploi d'expertise dans l'exécution des enquêtes de pratiques restrictives de concurrence. <br/>
+<td>
+<pre> </pre>
+</td>
+<td>
+<p>Nice. </p>
 </td>
+<td>
+<p>Responsable de l'animation d'un réseau spécialisé au niveau national. (supprimé à compter du 1er septembre 2009)</p>
+</td>
 </tr>
 <tr>
-<td/>
-<td/>
-<td>Responsable de l'animation d'un réseau spécialisé au niveau national. <br/>
+<td>
+<br/>
 </td>
+<td>
+<br/>
+</td>
+<td>
+<p>Emploi d'expertise dans les enquêtes complexes de concurrence. </p>
+</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<pre>
+<td>
+<br/>
+</td>
+<td>
 <br/>
-</pre>
+</td>
+<td>
+<p>Emploi d'expertise dans l'exécution des enquêtes de pratiques restrictives de concurrence. </p>
+</td>
+</tr>
+<tr>
+<td>
+<pre> </pre>
 </td>
-<td align="left" valign="middle">
-<p align="left">Nice. </p>
+<td>
+<p>Toulon. </p>
 </td>
-<td align="left" valign="middle">
-<p align="justify">Responsable de l'animation d'un réseau spécialisé au niveau national. </p>
+<td>
+<p>Emploi d'expertise dans la réalisation des missions afférentes à l'équipement commercial. </p>
 </td>
 </tr>
 <tr>
-<td/>
-<td/>
-<td>Emploi d'expertise dans les enquêtes complexes de concurrence. <br/>
+<td>
+<br/>
+</td>
+<td>
+<p>Digne-les-Bains </p>
 </td>
+<td>
+<p>Emploi de responsable du contentieux. (supprimé à compter du 1er septembre 2009)</p>
+</td>
 </tr>
 <tr>
-<td/>
-<td/>
-<td>Emploi d'expertise dans l'exécution des enquêtes de pratiques restrictives de concurrence. </td>
+<td>
+<p>Pays de la Loire. </p>
+</td>
+<td>
+<p>Angers. </p>
+</td>
+<td>
+<p>Emploi de responsable du contentieux. </p>
+</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<pre>
+<td>
+<br/>
+</td>
+<td>
 <br/>
-</pre>
+</td>
+<td>
+<p>Emploi d'expertise dans les enquêtes complexes de concurrence. </p>
 </td>
-<td align="left" valign="middle">
-<p align="left">Toulon. </p>
+</tr>
+<tr>
+<td>
+<pre> </pre>
+</td>
+<td>
+<p>La Roche-sur-Yon. </p>
 </td>
-<td align="left" valign="middle">
-<p align="justify">Emploi d'expertise dans la réalisation des missions afférentes à l'équipement commercial. </p>
+<td>
+<p>Emploi d'expertise dans les enquêtes complexes de concurrence. </p>
 </td>
 </tr>
 <tr>
-<td/>
-<td>Digne-les-Bains </td>
-<td>Emploi de responsable du contentieux. </td>
+<td>
+<pre> </pre>
+</td>
+<td>
+<p>Laval. </p>
+</td>
+<td>
+<p>Emploi d'expertise dans les enquêtes complexes de concurrence. </p>
+</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">Pays de la Loire. </p>
+<td>
+<br/>
 </td>
-<td align="left" valign="middle">
-<p align="left">Angers. </p>
+<td>
+<p>Le Mans </p>
 </td>
-<td align="left" valign="middle">
-<p align="justify">Emploi de responsable du contentieux. </p>
+<td>
+<p>Emploi d'expertise dans la réalisation des missions afférentes à l'équipement commercial. </p>
 </td>
 </tr>
 <tr>
-<td/>
-<td/>
-<td>Emploi d'expertise dans les enquêtes complexes de concurrence. </td>
+<td>
+<pre> </pre>
+</td>
+<td>
+<p>Nantes. </p>
+</td>
+<td>
+<p>Emploi de responsable de la cellule d'animation régionale. (supprimé à compter du 26 septembre 2008)</p>
+</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<pre>
-<br/>
-</pre>
+<td>
+<pre> </pre>
 </td>
-<td align="left" valign="middle">
-<p align="left">La Roche-sur-Yon. </p>
+<td>
+<pre> </pre>
 </td>
-<td align="left" valign="middle">
-<p align="justify">Emploi d'expertise dans les enquêtes complexes de concurrence. </p>
+<td>
+<p>Emploi d'expertise dans l'exécution des enquêtes de pratiques restrictives de concurrence. (supprimé à compter du 1er septembre 2009)</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<pre>
+<td>
 <br/>
-</pre>
 </td>
-<td align="left" valign="middle">
-<p align="left">Laval. </p>
+<td>
+<br/>
 </td>
-<td align="left" valign="middle">
-<p align="justify">Emploi d'expertise dans les enquêtes complexes de concurrence. </p>
+<td>
+<p>Emploi d'expertise dans les enquêtes complexes de concurrence. </p>
 </td>
 </tr>
 <tr>
-<td/>
-<td>Le Mans <br/>
+<td>
+<br/>
+</td>
+<td>
+<br/>
 </td>
-<td>Emploi d'expertise dans la réalisation des missions afférentes à l'équipement commercial. <br/>
+<td>
+<p>Emploi de responsable de la gestion régionale. </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<pre>
+<td>
 <br/>
-</pre>
 </td>
-<td align="left" valign="middle">
-<p align="left">Nantes. </p>
+<td>
+<br/>
 </td>
-<td align="left" valign="middle">
-<p align="justify">Emploi de responsable de la cellule d'animation régionale. (supprimé à compter du 26 septembre 2008)</p>
+<td>
+<p>Emploi d'expertise dans les enquêtes complexes de concurrence </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<pre>
+<td>
 <br/>
-</pre>
 </td>
-<td align="left" valign="middle">
-<pre>
+<td>
 <br/>
-</pre>
+</td>
+<td>
+<p>Emploi d'expertise dans la réalisation des missions relatives et à la sécurité et la protection des consommateurs </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Picardie. </p>
+</td>
+<td>
+<p>Amiens. </p>
 </td>
-<td align="left" valign="middle">
-<p align="justify">Emploi d'expertise dans l'exécution des enquêtes de pratiques restrictives de concurrence. </p>
+<td>
+<p>Emploi d'expertise dans la réalisation des missions afférentes à l'équipement commercial. </p>
 </td>
 </tr>
 <tr>
-<td/>
-<td/>
-<td>Emploi d'expertise dans les enquêtes complexes de concurrence. <br/>
+<td>
+<br/>
+</td>
+<td>
+<br/>
 </td>
+<td>
+<p>Emploi de responsable de la cellule d'animation régionale. </p>
+</td>
 </tr>
 <tr>
-<td/>
-<td/>
-<td>Emploi de responsable de la gestion régionale. <br/>
+<td>
+<br/>
+</td>
+<td>
+<p>Laon </p>
+</td>
+<td>
+<p>Emploi d'expertise dans la réalisation des missions afférentes à l'équipement commercial. </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">Picardie. </p>
+<td>
+<p>Poitou-Charentes. </p>
 </td>
-<td align="left" valign="middle">
-<p align="left">Amiens. </p>
+<td>
+<p>La Rochelle. </p>
 </td>
-<td align="left" valign="middle">
-<p align="justify">Emploi d'expertise dans la réalisation des missions afférentes à l'équipement commercial. </p>
+<td>
+<p>Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs. </p>
 </td>
 </tr>
 <tr>
-<td/>
-<td/>
-<td>Emploi de responsable de la cellule d'animation régionale. <br/>
+<td>
+<br/>
+</td>
+<td>
+<br/>
 </td>
+<td>
+<p>Emploi d'expertise dans les enquêtes complexes de concurrence. </p>
+</td>
 </tr>
 <tr>
-<td/>
-<td>Laon </td>
-<td>Emploi d'expertise dans la réalisation des missions afférentes à l'équipement commercial. <br/>
+<td>
+<br/>
+</td>
+<td>
+<br/>
 </td>
+<td>
+<p>Emploi d'expertise dans les enquêtes complexes de concurrence </p>
+</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">Poitou-Charentes. </p>
+<td>
+<pre> </pre>
 </td>
-<td align="left" valign="middle">
-<p align="left">La Rochelle. </p>
+<td>
+<p>Poitiers. </p>
 </td>
-<td align="left" valign="middle">
-<p align="justify">Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs. </p>
+<td>
+<p>Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs. (supprimé à compter du 1er septembre 2009)</p>
 </td>
 </tr>
 <tr>
-<td/>
-<td/>
-<td>Emploi d'expertise dans les enquêtes complexes de concurrence. <br/>
+<td>
+<pre> </pre>
+</td>
+<td>
+<pre> </pre>
+</td>
+<td>
+<p>Emploi d'expertise dans les enquêtes complexes de concurrence. (supprimé à compter du 1er janvier 2009)</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<pre>
-<br/>
-</pre>
+<td>
+<p>Réunion. </p>
 </td>
-<td align="left" valign="middle">
-<p align="left">Poitiers. </p>
+<td>
+<p>Saint-Denis-de-la-Réunion. </p>
 </td>
-<td align="left" valign="middle">
-<p align="justify">Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs. </p>
+<td>
+<p>Emploi d'expertise dans l'exécution des enquêtes de pratiques restrictives de concurrence. (supprimé à compter du 26 septembre 2008)</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<pre>
+<td>
 <br/>
-</pre>
 </td>
-<td align="left" valign="middle">
-<pre>
+<td>
 <br/>
-</pre>
 </td>
-<td align="left" valign="middle">
-<p align="justify">Emploi d'expertise dans les enquêtes complexes de concurrence. (supprimé à compter du 1er janvier 2009)</p>
+<td>
+<p>Emploi de responsable du contentieux. </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">Réunion. </p>
+<td>
+<p>Rhône-Alpes. </p>
 </td>
-<td align="left" valign="middle">
-<p align="left">Saint-Denis-de-la-Réunion. </p>
+<td>
+<p>Annecy. </p>
 </td>
-<td align="left" valign="middle">
-<p align="justify">Emploi d'expertise dans l'exécution des enquêtes de pratiques restrictives de concurrence. (supprimé à compter du 26 septembre 2008)</p>
+<td>
+<p>Emploi de responsable du contentieux. </p>
 </td>
 </tr>
 <tr>
-<td/>
-<td/>
-<td>Emploi de responsable du contentieux. <br/>
+<td>
+<pre> </pre>
+</td>
+<td>
+<pre> </pre>
 </td>
+<td>
+<p>Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs. </p>
+</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">Rhône-Alpes. </p>
+<td>
+<pre> </pre>
 </td>
-<td align="left" valign="middle">
-<p align="left">Annecy. </p>
+<td>
+<p>Chambéry. </p>
 </td>
-<td align="left" valign="middle">
-<p align="justify">Emploi de responsable du contentieux. </p>
+<td>
+<p>Emploi d'expertise dans les enquêtes complexes de concurrence. </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<pre>
+<td>
 <br/>
-</pre>
 </td>
-<td align="left" valign="middle">
-<pre>
+<td>
 <br/>
-</pre>
 </td>
-<td align="left" valign="middle">
-<p align="justify">Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs. </p>
+<td>
+<p>Emploi d'expertise dans la réalisation des contrôles de la première mise sur le marché. </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<pre>
+<td>
 <br/>
-</pre>
 </td>
-<td align="left" valign="middle">
-<p align="left">Chambéry. </p>
+<td>
+<br/>
 </td>
-<td align="left" valign="middle">
-<p align="justify">Emploi d'expertise dans les enquêtes complexes de concurrence. </p>
+<td>
+<p>Emploi d'expertise dans la réalisation des  contrôles de la première mise sur le marché  </p>
 </td>
 </tr>
 <tr>
-<td/>
-<td/>
-<td>Emploi d'expertise dans la réalisation des contrôles de la première mise sur le marché. <br/>
+<td>
+<pre> </pre>
 </td>
+<td>
+<p>Grenoble. </p>
+</td>
+<td>
+<p>Emploi d'expertise dans la réalisation des "contrôles de la première mise sur le marché ". </p>
+</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<pre>
-<br/>
-</pre>
+<td>
+<pre> </pre>
 </td>
-<td align="left" valign="middle">
-<p align="left">Grenoble. </p>
+<td>
+<pre> </pre>
 </td>
-<td align="left" valign="middle">
-<p align="justify">Emploi d'expertise dans la réalisation des "contrôles de la première mise sur le marché ". </p>
+<td>
+<p>Emploi d'expertise dans la réalisation des "contrôles de la première mise sur le marché ". </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<pre>
+<td>
 <br/>
-</pre>
 </td>
-<td align="left" valign="middle">
-<pre>
+<td>
 <br/>
-</pre>
 </td>
-<td align="left" valign="middle">
-<p align="justify">Emploi d'expertise dans la réalisation des "contrôles de la première mise sur le marché ". </p>
+<td>
+<p>Emploi de responsable du contentieux. (supprimé à compter du 1er septembre 2009)</p>
 </td>
 </tr>
 <tr>
-<td/>
-<td/>
-<td>Emploi de responsable du contentieux. <br/>
+<td>
+<pre> </pre>
 </td>
+<td>
+<p>Lyon. </p>
+</td>
+<td>
+<p>Emploi de responsable de la cellule d'animation régionale. (supprimé à compter du 26 septembre 2008)</p>
+</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<pre>
-<br/>
-</pre>
+<td>
+<pre> </pre>
 </td>
-<td align="left" valign="middle">
-<p align="left">Lyon. </p>
+<td>
+<pre> </pre>
 </td>
-<td align="left" valign="middle">
-<p align="justify">Emploi de responsable de la cellule d'animation régionale. (supprimé à compter du 26 septembre 2008)</p>
+<td>
+<p>Emploi d'expertise dans l'exécution des enquêtes de pratiques restrictives de concurrence. </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<pre>
+<td>
 <br/>
-</pre>
 </td>
-<td align="left" valign="middle">
-<pre>
+<td>
 <br/>
-</pre>
 </td>
-<td align="left" valign="middle">
-<p align="justify">Emploi d'expertise dans l'exécution des enquêtes de pratiques restrictives de concurrence. </p>
+<td>
+<p>Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs. </p>
 </td>
 </tr>
 <tr>
-<td/>
-<td/>
-<td>Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs. </td>
+<td>
+<pre> </pre>
+</td>
+<td>
+<p>Privas. </p>
+</td>
+<td>
+<p>Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs. </p>
+</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<pre>
+<td>
 <br/>
-</pre>
 </td>
-<td align="left" valign="middle">
-<p align="left">Privas. </p>
+<td>
+<br/>
 </td>
-<td align="left" valign="middle">
-<p align="justify">Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs. </p>
+<td>
+<p>Responsable de l'animation d'un réseau spécialisé au niveau national. </p>
 </td>
 </tr>
 <tr>
-<td/>
-<td/>
-<td>Responsable de l'animation d'un réseau spécialisé au niveau national. <br/>
+<td>
+<pre> </pre>
 </td>
+<td>
+<p>Saint-Etienne. </p>
+</td>
+<td>
+<p>Emploi d'expertise dans l'exécution des enquêtes de pratiques restrictives de concurrence. </p>
+</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<pre>
-<br/>
-</pre>
+<td>
+<pre> </pre>
 </td>
-<td align="left" valign="middle">
-<p align="left">Saint-Etienne. </p>
+<td>
+<p>Valence. </p>
 </td>
-<td align="left" valign="middle">
-<p align="justify">Emploi d'expertise dans l'exécution des enquêtes de pratiques restrictives de concurrence. </p>
+<td>
+<p>Emploi d'expertise dans l'exécution des enquêtes de pratiques restrictives de concurrence. </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<pre>
+<td>
 <br/>
-</pre>
 </td>
-<td align="left" valign="middle">
-<p align="left">Valence. </p>
+<td>
+<br/>
 </td>
-<td align="left" valign="middle">
-<p align="justify">Emploi d'expertise dans l'exécution des enquêtes de pratiques restrictives de concurrence. </p>
+<td>
+<p>Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs. </p>
 </td>
 </tr>
 <tr>
-<td/>
-<td/>
-<td>Emploi d'expertise dans la réalisation des missions relatives à la sécurité et la protection des consommateurs. <br/>
+<td>
+<br/>
+</td>
+<td>
+<br/>
 </td>
+<td>
+<p>Emploi d'expertise dans la réalisation des contrôles de la première mise sur le marché. </p>
+</td>
 </tr>
 <tr>
-<td/>
-<td/>
-<td>Emploi d'expertise dans la réalisation des contrôles de la première mise sur le marché. <br/>
+<td>
+<p>CSCE </p>
+</td>
+<td>
+<p>Morlaix </p>
 </td>
+<td>
+<p>Emploi d'expertise en matière de protection économique du consommateur.</p>
+</td>
 </tr>
 <tr>
-<td>CSCE </td>
-<td>Morlaix </td>
-<td>Emploi d'expertise en matière de protection économique du consommateur.</td>
+<td>
+<p>SCN INFORMATIQUE. </p>
+</td>
+<td>
+<p>SI AC. </p>
+</td>
+<td>
+<p>AC-Emploi d'expertise en matière d'informatique. </p>
+</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">SCN INFORMATIQUE. </p>
+<td>
+<pre> </pre>
 </td>
-<td align="left" valign="middle">
-<p align="left">SI AC. </p>
+<td>
+<p>CI 69. </p>
 </td>
-<td align="left" valign="middle">
-<p align="justify">AC-Emploi d'expertise en matière d'informatique. </p>
+<td>
+<p>AC-Emploi d'expertise en matière d'informatique. </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<pre>
+<td>
 <br/>
-</pre>
 </td>
-<td align="left" valign="middle">
-<p align="left">CI 69. </p>
+<td>
+<p>SI Nantes </p>
 </td>
-<td align="left" valign="middle">
-<p align="justify">AC-Emploi d'expertise en matière d'informatique. </p>
+<td>
+<p>Emploi d'expertise en matière d'informatique. </p>
 </td>
 </tr>
 <tr>
-<td/>
-<td>SI Nantes <br/>
+<td>
+<br/>
 </td>
-<td>Emploi d'expertise en matière d'informatique. <br/>
+<td>
+<p>SI Montpellier </p>
 </td>
+<td>
+<p>Emploi d'expertise en matière d'informatique. </p>
+</td>
 </tr>
 <tr>
-<td/>
-<td>SI Montpellier <br/>
+<td>
+<p>DNECCRF. </p>
+</td>
+<td>
+<p>DNEC. </p>
 </td>
-<td>Emploi d'expertise en matière d'informatique. <br/>
+<td>
+<p>AC-Emploi d'expertise en matière de régulation concurrentielle des marchés. (supprimé à compter du 1er janvier 2009)</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">DNECCRF. </p>
+<td>
+<pre> </pre>
 </td>
-<td align="left" valign="middle">
-<p align="left">DNEC. </p>
+<td>
+<p>DNERF. </p>
 </td>
-<td align="left" valign="middle">
-<p align="justify">AC-Emploi d'expertise en matière de régulation concurrentielle des marchés. (supprimé à compter du 1er janvier 2009)</p>
+<td>
+<p>AC-Emploi d'expertise en matière de protection économique du consommateur. </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<pre>
+<td>
 <br/>
-</pre>
 </td>
-<td align="left" valign="middle">
-<p align="left">DNERF. </p>
+<td>
+<p>DNERF Lille </p>
 </td>
-<td align="left" valign="middle">
-<p align="justify">AC-Emploi d'expertise en matière de protection économique du consommateur. </p>
+<td>
+<p>Emploi d'expertise en matière d'informatique.</p>
 </td>
 </tr>
 <tr>
-<td/>
-<td>DNERF Lille <br/>
+<td>
+<br/>
+</td>
+<td>
+<p>Montpellier </p>
 </td>
-<td>Emploi d'expertise en matière d'informatique.<br/>
+<td>
+<p>AC-Emploi d'expertise en matière de protection économique du consommateur</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">ENCCRF. </p>
+<td>
+<p>ENCCRF. </p>
 </td>
-<td align="left" valign="middle">
-<p align="left">ENCCRF. </p>
+<td>
+<p>ENCCRF. </p>
 </td>
-<td align="left" valign="middle">
-<p align="justify">AC-Emploi d'expertise en matière de formation. </p>
+<td>
+<p>AC-Emploi d'expertise en matière de formation. </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<pre>
-<br/>
-</pre>
+<td>
+<pre> </pre>
 </td>
-<td align="left" valign="middle">
-<pre>
-<br/>
-</pre>
+<td>
+<pre> </pre>
 </td>
-<td align="left" valign="middle">
-<p align="justify">AC-Emploi d'expertise en matière de formation. </p>
+<td>
+<p>AC-Emploi d'expertise en matière de formation. (supprimé à compter du 1er septembre 2009)</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">SCN LABO. </p>
+<td>
+<p>SCN LABO. </p>
 </td>
-<td align="left" valign="middle">
-<p align="left">Labo Montpellier. </p>
+<td>
+<p>Labo Montpellier. </p>
 </td>
-<td align="left" valign="middle">
-<p align="justify">AC-Emploi d'expertise en matière de gestion. </p>
+<td>
+<p>AC-Emploi d'expertise en matière de gestion. </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">Pays de la Loire. </p>
+<td>
+<p>Pays de la Loire. </p>
 </td>
-<td align="left" valign="middle">
-<p align="left">La Roche-sur-Yon. </p>
+<td>
+<p>La Roche-sur-Yon. </p>
 </td>
-<td align="left" valign="middle">
-<p align="justify">Hors quota régional. Au titre des activités syndicales exercées à la DGCCRF. </p>
+<td>
+<p>Hors quota régional. Au titre des activités syndicales exercées à la DGCCRF. </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">Rhône-Alpes. </p>
+<td>
+<p>Rhône-Alpes. </p>
 </td>
-<td align="left" valign="middle">
-<p align="left">Lyon. </p>
+<td>
+<p>Lyon. </p>
 </td>
-<td align="left" valign="middle">
-<p align="justify">Hors quota régional. Au titre des activités syndicales exercées à la DGCCRF. </p>
+<td>
+<p>Hors quota régional. Au titre des activités syndicales exercées à la DGCCRF. </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="left">Administration centrale. </p>
+<td>
+<p>Administration centrale. </p>
 </td>
-<td align="left" valign="middle">
-<p align="left">AC AGCOM. </p>
+<td>
+<p>AC AGCOM. </p>
 </td>
-<td align="left" valign="middle">
-<p align="justify">AC-Emploi d'expertise en matière de coordination de l'activité. </p>
+<td>
+<p>AC-Emploi d'expertise en matière de coordination de l'activité. </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<pre>
-<br/>
-</pre>
+<td>
+<pre> </pre>
 </td>
-<td align="left" valign="middle">
-<p align="left">AC B1. </p>
+<td>
+<p>AC B1. </p>
 </td>
-<td align="left" valign="middle">
-<p align="justify">AC-Emploi d'expertise en matière de régulation concurrentielle des marchés. (supprimé à compter du 1er janvier 2009)</p>
+<td>
+<p>AC-Emploi d'expertise en matière de régulation concurrentielle des marchés. (supprimé à compter du 1er janvier 2009)</p>
 </td>
 </tr>
 <tr>
-<td/>
-<td/>
-<td> AC - Emploi d'expertise en matière de régulation concurrentielle des marchés.</td>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<p>AC - Emploi d'expertise en matière de régulation concurrentielle des marchés.</p>
+</td>
 </tr>
 <tr>
-<td/>
-<td>AC C1 <br/>
+<td>
+<br/>
+</td>
+<td>
+<p>AC C1 </p>
 </td>
-<td>AC - Emploi d'expertise en matière de protection économique du consommateur. <br/>
+<td>
+<p>AC - Emploi d'expertise en matière de protection économique du consommateur. </p>
 </td>
 </tr>
 <tr>
-<td/>
-<td>AC C2 <br/>
+<td>
+<br/>
+</td>
+<td>
+<br/>
 </td>
-<td>AC - Emploi d'expertise en matière de sécurité du consommateur. <br/>
+<td>
+<p>AC-Emploi d'expertise en matière de protection économique du consommateur </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<pre>
+<td>
 <br/>
-</pre>
 </td>
-<td align="left" valign="middle">
-<p align="left">AC C3. </p>
+<td>
+<p>AC C2 </p>
 </td>
-<td align="left" valign="middle">
-<p align="justify">AC-Emploi d'expertise en matière de protection économique du consommateur. </p>
+<td>
+<p>AC - Emploi d'expertise en matière de sécurité du consommateur. </p>
 </td>
 </tr>
 <tr>
-<td/>
-<td>AC D1 <br/>
+<td>
+<pre> </pre>
+</td>
+<td>
+<p>AC C3. </p>
 </td>
-<td>AC - Emploi d'expertise en matière de régulation concurrentielle des marchés. <br/>
+<td>
+<p>AC-Emploi d'expertise en matière de protection économique du consommateur. (supprimé à compter du 1er septembre 2009)</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<pre>
+<td>
 <br/>
-</pre>
 </td>
-<td align="left" valign="middle">
-<p align="left">AC D4. </p>
+<td>
+<p>AC D1 </p>
 </td>
-<td align="left" valign="middle">
-<p align="left">AC-Emploi d'expertise en matière de régulation concurrentielle des marchés. (supprimé à compter du 1er janvier 2009)</p>
+<td>
+<p>AC - Emploi d'expertise en matière de régulation concurrentielle des marchés. </p>
 </td>
 </tr>
 <tr>
-<td/>
-<td>AC E2.<br/>
+<td>
+<pre> </pre>
 </td>
-<td>AC - Emploi d'expertise en matière de sécurité du consommateur.<br/>
+<td>
+<p>AC D4. </p>
 </td>
+<td>
+<p>AC-Emploi d'expertise en matière de régulation concurrentielle des marchés. (supprimé à compter du 1er janvier 2009)</p>
+</td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<pre>
+<td>
 <br/>
-</pre>
 </td>
-<td align="left" valign="middle">
-<p align="left">AC E4. </p>
+<td>
+<p>AC E2.</p>
 </td>
-<td align="left" valign="middle">
-<p align="justify">AC-Emploi d'expertise en matière de régulation concurrentielle des marchés. </p>
+<td>
+<p>AC - Emploi d'expertise en matière de sécurité du consommateur.(supprimé à compter du 1er septembre 2009)</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<pre>
-<br/>
-</pre>
+<td>
+<pre> </pre>
 </td>
-<td align="left" valign="middle">
-<p align="left">AC E4. </p>
+<td>
+<p>AC E4. </p>
 </td>
-<td align="left" valign="middle">
-<p align="justify">AC-Emploi d'expertise en matière de régulation concurrentielle des marchés. </p>
+<td>
+<p>AC-Emploi d'expertise en matière de régulation concurrentielle des marchés. </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<pre>
-<br/>
-</pre>
+<td>
+<pre> </pre>
 </td>
-<td align="left" valign="middle">
-<p align="left">AC F2. </p>
+<td>
+<p>AC E4. </p>
 </td>
-<td align="left" valign="middle">
-<p align="justify">AC-Emploi d'expertise en matière de régulation concurrentielle des marchés. </p>
+<td>
+<p>AC-Emploi d'expertise en matière de régulation concurrentielle des marchés. </p>
 </td>
 </tr>
 <tr>
-<td/>
-<td>AC G</td>
-<td>AC - Emploi d'expertise en matière de gestion. <br/>
+<td>
+<pre> </pre>
 </td>
+<td>
+<p>AC F2. </p>
+</td>
+<td>
+<p>AC-Emploi d'expertise en matière de régulation concurrentielle des marchés. </p>
+</td>
 </tr>
 <tr>
-<td/>
-<td>AC G2 <br/>
+<td>
+<br/>
+</td>
+<td>
+<p>AC G</p>
 </td>
-<td>AC - Emploi d'expertise en matière d'informatique. <br/>
+<td>
+<p>AC - Emploi d'expertise en matière de gestion. </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<pre>
+<td>
 <br/>
-</pre>
 </td>
-<td align="left" valign="middle">
-<p align="left">AC G3. </p>
+<td>
+<p>AC G2 </p>
 </td>
-<td align="left" valign="middle">
-<p align="justify">AC-Emploi d'expertise en matière de gestion.</p>
+<td>
+<p>AC - Emploi d'expertise en matière d'informatique. </p>
 </td>
 </tr>
 <tr>
-<td/>
-<td>Mission RCC <br/>
+<td>
+<pre> </pre>
+</td>
+<td>
+<p>AC G3. </p>
+</td>
+<td>
+<p>AC-Emploi d'expertise en matière de gestion.</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td>
+<p>Mission RCC </p>
+</td>
+<td>
+<p>AC - Emploi d'expertise en matière de protection économique du consommateur. </p>
 </td>
-<td>AC - Emploi d'expertise en matière de protection économique du consommateur. </td>
 </tr>
 </tbody>
 </table>

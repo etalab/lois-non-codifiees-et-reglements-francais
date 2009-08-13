@@ -18,6 +18,8 @@ Agalsidase alfa ;
 
 Agalsidase bêta ;
 
+Agomélatine ;
+
 Alemtuzumab ;
 
 Alglucosidase alfa ;
@@ -48,6 +50,8 @@ Avilamycine ;
 
 Avizafone ;
 
+Azacitidine ;
+
 Azote (monoxyde d') ;
 
 Bévacizumab ;
@@ -60,7 +64,7 @@ Bosentan ;
 
 Bromure de tiotropium ;
 
-Capsofungine ;
+Caspofungine ;
 
 Céfalomium (dihydrate de) ;
 
@@ -71,6 +75,8 @@ Cefquinome (sulfate de) ;
 Ceftiofur ;
 
 Cétuximab ;
+
+Ciclésonide ;
 
 Cilostazol ;
 
@@ -96,6 +102,8 @@ Dasatinib ;
 
 Déférasirox ;
 
+Dégarélix ;
+
 Dibotermine alfa ;
 
 Diénogest ;
@@ -103,8 +111,6 @@ Diénogest ;
 Docosanol ;
 
 Doripénème ;
-
-Drospirénone ;
 
 Drotrécogine alfa ;
 
@@ -128,13 +134,13 @@ Epinastine ;
 
 Eplérénone ;
 
+Eptotermine alfa ;
+
 Erlotinib ;
 
 Ertapénem ;
 
 Escitalopram ;
-
-Esoméprazole ;
 
 Evérolimus ;
 
@@ -148,9 +154,7 @@ Ezétimibe ;
 
 Fébuxostat ;
 
-Fésotérodine ;
-
-Firacoxib ;
+Firocoxib ;
 
 Florfénicol ;
 
@@ -169,6 +173,8 @@ Gadoversétamide ;
 Galsulfase ;
 
 Gamithromycine ;
+
+Gemcitabine ;
 
 Glatiramère ;
 
@@ -199,6 +205,8 @@ Lapatinib ;
 Laronidase ;
 
 Laropiprant ;
+
+Létrozole ;
 
 Leuproréline ;
 
@@ -274,6 +282,8 @@ Pirlimycine ;
 
 Posaconazole ;
 
+Prasugrel ;
+
 Prégabaline ;
 
 Protéine S ;
@@ -296,11 +306,15 @@ Rivaroxaban ;
 
 Robénacoxib ;
 
+Romiplostim ;
+
 Rosuvastatine ;
 
 Rotigotine ;
 
 Rufinamide ;
+
+Saproptérine ;
 
 Sertindole ;
 
@@ -309,8 +323,6 @@ Sibutramine ;
 Sitagliptine ;
 
 Sitaxentan ;
-
-Solifénacine ;
 
 Sorafénib ;
 
@@ -342,6 +354,8 @@ Tigécycline ;
 
 Tipranavir ;
 
+Tocilizumab ;
+
 Trabectédine ;
 
 Travoprost ;
@@ -357,6 +371,8 @@ Tulathromycine ;
 Unoprostone ;
 
 Uracile ;
+
+Ustékinumab ;
 
 Valdécoxib ;
 
