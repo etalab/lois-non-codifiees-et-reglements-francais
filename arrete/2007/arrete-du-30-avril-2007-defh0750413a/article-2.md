@@ -2,7 +2,7 @@
 
 Le montant plafond des frais de transport de mobilier pouvant être remboursé au militaire est déterminé par la formule suivante :
 
-P = [V × 43, 4] + [V × D × (0, 14 - (V - 1) × B)] + S dans laquelle :
+P = [V × 45, 2] + [V × D × (0, 14 - (V - 1) × B)] + S dans laquelle :
 
 P représente le montant plafond TTC ;
 
@@ -14,9 +14,71 @@ S représente les suppléments éventuels déterminés à l'article 3 ;
 
 B est un coefficient variable en fonction du volume selon le tableau suivant :
 
-Vous pouvez consulter le tableau dans le JO
-
-n° 103 du 03/05/2007 texte numéro 5
+<table>
+<tbody>
+<tr>
+<td align="center">VOLUME V  </td>
+<td align="center">VALEUR DE B  </td>
+</tr>
+<tr>
+<td align="center"> V &lt; 55 m³ </td>
+<td align="center">           0,001 40           <br/>
+</td>
+</tr>
+<tr>
+<td align="center"> V ≥ 55 m³ </td>
+<td align="center"> 0,001 35<br/>
+</td>
+</tr>
+<tr>
+<td align="center">  V ≥ 60 m³ </td>
+<td align="center"> 0,001 30<br/>
+</td>
+</tr>
+<tr>
+<td align="center">  V ≥ 65 m³ </td>
+<td align="center"> 0,001 25<br/>
+</td>
+</tr>
+<tr>
+<td align="center">  V ≥ 70 m³ </td>
+<td align="center"> 0,001 15<br/>
+</td>
+</tr>
+<tr>
+<td align="center">  V ≥ 75 m³  </td>
+<td align="center"> 0,001 10<br/>
+</td>
+</tr>
+<tr>
+<td align="center">  V ≥ 80 m³<br/>
+</td>
+<td align="center"> 0,001 05<br/>
+</td>
+</tr>
+<tr>
+<td align="center">   V ≥ 85 m³</td>
+<td align="center"> 0,001 00<br/>
+</td>
+</tr>
+<tr>
+<td align="center">   V ≥ 90 m³</td>
+<td align="center"> 0,000 95<br/>
+</td>
+</tr>
+<tr>
+<td align="center">   V ≥ 95 m³</td>
+<td align="center"> 0,000 90<br/>
+</td>
+</tr>
+<tr>
+<td align="center">   V ≥ 100 m³     <br/>
+</td>
+<td align="center"> 0,000 85<br/>
+</td>
+</tr>
+</tbody>
+</table>
 
 Pour une distance en charge inférieure à 25 km, il est fait application de la formule avec D = 25 km.
 
