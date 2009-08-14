@@ -1,0 +1,5 @@
+# Article 3
+
+La part fixe et la part proportionnelle de chaque option ou version tarifaire sont chacune l'addition d'une part correspondant à l'acheminement et d'une part correspondant à la fourniture qui sont établies de manière à couvrir les coûts de production, les coûts d'approvisionnement, les coûts d'utilisation des réseaux publics de transport et de distribution et les coûts de commercialisation, que supportent pour fournir leurs clients Electricité de France et les distributeurs non nationalisés mentionnés à l'article 23 de la loi n° 46-628 du 8 avril 1946, ainsi qu'une marge raisonnable.
+
+La part correspondant à l'acheminement est déterminée en fonction du tarif d'utilisation des réseaux publics en vigueur applicable à l'option ou à la version concernée. La part correspondant à la fourniture couvre les coûts de production, d'approvisionnement et de commercialisation supportés par Electricité de France et les distributeurs non nationalisés pour fournir les clients ayant souscrit à cette option ou version.

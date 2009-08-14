@@ -1,0 +1,7 @@
+# Article 4
+
+I. ― Les options que comporte une catégorie tarifaire peuvent être mises en extinction ou supprimées par arrêté conjoint des ministres chargés de l'économie et de l'énergie, après avis de la Commission de régulation de l'énergie pris dans les conditions prévues à l'article 6.
+
+II. - Les options mises en extinction ne sont plus proposées aux clients à compter de la date d'effet de cette mise en extinction. Un client dont le contrat en cours à cette date comporte une telle option la conserve, y compris lors de la tacite reconduction de celui-ci, tant qu'il ne demande pas un changement d'option tarifaire. La part fixe et les parts proportionnelles d'une option mise en extinction peuvent continuer de faire l'objet d'évolutions en structure comme en niveau.
+
+III. - Les options supprimées ne sont plus proposées aux clients à compter de la date d'effet de cette suppression. Dans un délai maximum de trois mois à compter de cette date, les opérateurs en charge de la fourniture d'électricité avisent chaque client disposant d'une option supprimée de la nécessité d'en choisir une autre parmi celles en vigueur. Si ce choix n'a pas été opéré dans un délai d'un an à compter de la date d'effet de la suppression, le client se voit appliquer la correspondance tarifaire prévue à cet effet par l'arrêté de suppression de l'option. Si le changement d'option nécessite une modification du dispositif de comptage, le coût de cette modification est supporté par l'opérateur en charge de la fourniture de l'électricité aux tarifs réglementés.

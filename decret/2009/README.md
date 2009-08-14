@@ -308,6 +308,7 @@
 - [Décret n°2009-685 du 12 juin 2009 (JUSC0902654D)](decret-n2009-685-du-12-juin-2009-jusc0902654d)
 - [Décret n°2009-686 du 12 juin 2009 (AGRE0902682D)](decret-n2009-686-du-12-juin-2009-agre0902682d)
 - [Décret n°2009-687 du 12 juin 2009 (DEFH0906800D)](decret-n2009-687-du-12-juin-2009-defh0906800d)
+- [Décret n°2009-975 du 12 août 2009 (DEVE0917693D)](decret-n2009-975-du-12-aout-2009-deve0917693d)
 - [Décret n°97-127 du 12 février 1997 (TASS9720307D)](decret-n97-127-du-12-fevrier-1997-tass9720307d)
 - [Décret n°2009-527 du 12 mai 2009 (ECET0910703D)](decret-n2009-527-du-12-mai-2009-ecet0910703d)
 - [Décret n°2009-531 du 12 mai 2009 (DEVK0904710D)](decret-n2009-531-du-12-mai-2009-devk0904710d)
