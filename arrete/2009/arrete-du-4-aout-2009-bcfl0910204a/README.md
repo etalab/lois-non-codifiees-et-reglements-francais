@@ -1,0 +1,3 @@
+# Arrêté du 4 août 2009 modifiant l'arrêté du 25 septembre 2008 relatif à la mise en service à la direction générale des finances publiques, à la Caisse nationale d'allocations familiales et à la Caisse centrale de mutualité sociale agricole d'une procédure automatisée de transfert des données fiscales et l'arrêté du 29 décembre 2003 relatif à la mise en service à la direction générale des impôts, à la Caisse nationale de retraite des agents des collectivités locales, au fonds spécial des pensions des ouvriers des établissements industriels de l'Etat, à Electricité de France-Industries électriques et gazières Pensions et à la direction générale de la comptabilité publique d'une procédure automatisée de transfert des données fiscales
+
+- [Article 8](article-8.md)
