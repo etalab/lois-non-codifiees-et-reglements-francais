@@ -17,3 +17,7 @@ Club Marpen.
 Département de la Martinique
 
 CFASE.
+
+Région Languedoc-Roussillon
+
+Le Merlet.
