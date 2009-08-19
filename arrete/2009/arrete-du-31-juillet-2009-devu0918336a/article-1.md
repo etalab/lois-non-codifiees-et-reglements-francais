@@ -1,0 +1,3 @@
+# Article 1
+
+Pour intégrer les mesures du plan de relance de l'économie institué par la loi de finances rectificative du 4 février 2009 susvisée, les dotations régionales limitatives relatives aux frais de fonctionnement des centres d'hébergement et de réinsertion sociale imputables aux prestations prises en charge par l'aide sociale de l'Etat pour l'année 2009 sont modifiées, conformément au tableau annexé au présent arrêté. Ces dotations intègrent des crédits non reconductibles destinés à financer des déficits et des crédits reconductibles destinés à financer 800 places nouvelles de CHRS conformément aux mesures du plan de relance de l'économie française.
