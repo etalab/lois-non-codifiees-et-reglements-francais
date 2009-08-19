@@ -16,4 +16,14 @@ Les opérations de restructuration de service listées  ci-après ouvrent droit 
 
 7<sup>o</sup>  La fermeture du Centre national de traitement des statistiques ;
 
-8<sup>o</sup>  La restructuration de l’Agence de l’eau Seine-Normandie.
+8<sup>o</sup>  La restructuration de l’Agence de l’eau Seine-Normandie ;
+
+9° Les réorganisations des directions départementales de l'équipement  et des directions départementales de l'équipement et de l'agriculture  dans le cadre de la création des directions départementales  interministérielles ;
+
+10° La délocalisation du service d'études  sur les transports, les routes et leurs aménagements donnant lieu à des  départs du site de Bagneux à compter du 1er janvier 2010 ;
+
+11° La  délocalisation de l'Etablissement national des invalides de la marine  donnant lieu à des départs du site de Paris à compter du 1er septembre  2009 ;
+
+12° La réorganisation des laboratoires de la direction régionale de l'équipement d'Ile-de-France ;
+
+13° Les restructurations des services conduisant à la création des  directions interrégionales de la mer et des directions départementales  des territoires et de la mer dans le cadre de la réforme de  l'administration territoriale de la mer et du littoral.
