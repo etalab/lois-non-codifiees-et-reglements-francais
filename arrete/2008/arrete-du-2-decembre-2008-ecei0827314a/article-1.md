@@ -26,13 +26,13 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, les empl
 
 ― adjoint au chef du bureau de la métrologie à la direction générale des entreprises ;
 
-― chef du bureau « matériel de transport » à la direction générale des entreprises ;
+― chef du bureau matériel de transport à la direction générale des entreprises ;
 
 ― adjoint au chef du bureau de l'animation régionale en charge du pilotage du réseau des DRIRE pour les actions de développement économique à la direction générale des entreprises ;
 
 ― chargé de mission auprès du secrétariat général à la direction générale des entreprises ;
 
-― chef du bureau « énergie, environnement ingénierie » de la sous-direction des matériels de transport, biens d'équipements mécaniques et services pour l'industrie à la direction générale des entreprises ;
+- Chargé de mission auprès du chef du service de l'industrie à la direction générale de la compétitivité, de l'industrie et des services ;
 
 ― adjoint au chef du bureau de la gestion des corps techniques de la direction générale des entreprises ;
 
@@ -40,9 +40,9 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, les empl
 
 ― chef du bureau des ressources minérales de la direction générale de l'aménagement, du logement et de la nature ;
 
-― chef du bureau « animation du contrôle technique déconcentré » à la sous-direction de la sécurité et des émissions des véhicules, au sein du service climat et efficacité énergétique à la direction générale de l'énergie et du climat ;
+― chef du bureau animation du contrôle technique déconcentré à la sous-direction de la sécurité et des émissions des véhicules, au sein du service climat et efficacité énergétique à la direction générale de l'énergie et du climat ;
 
-― chef du bureau « véhicules lourds et deux-roues » à la sous-direction de la sécurité et des émissions des véhicules, au sein du service climat et efficacité énergétique à la direction générale de l'énergie et du climat ;
+― chef du bureau véhicules lourds et deux-roues à la sous-direction de la sécurité et des émissions des véhicules, au sein du service climat et efficacité énergétique à la direction générale de l'énergie et du climat ;
 
 ― adjoint au chef du bureau de la qualité de l'air à la direction générale de l'énergie et du climat ;
 
@@ -50,7 +50,7 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, les empl
 
 ― adjoint au chef du bureau du sol et du sous-sol en charge des industries extractives et du RGIE à la direction générale de la prévention des risques ;
 
-― adjoint au chef du bureau de la réglementation, du pilotage de l'inspection et des contrôles, et de la qualité, responsable du pôle « contrôles techniques de sécurité » à la direction générale de la prévention des risques ;
+― adjoint au chef du bureau de la réglementation, du pilotage de l'inspection et des contrôles, et de la qualité, responsable du pôle contrôles techniques de sécurité à la direction générale de la prévention des risques ;
 
 ― adjoint au chef du bureau des risques technologiques et des industries chimiques et pétrolières à la direction générale de la prévention des risques ;
 
@@ -158,7 +158,7 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, les empl
 
 ― chargé de mission auprès du directeur à la direction régionale de l'industrie, de la recherche et de l'environnement de Lorraine, chef de la division contrôles techniques et énergie ;
 
-― chef du pôle interrégional « risques accidentels » pour les régions Lorraine - Alsace - Franche-Comté à la direction régionale de l'industrie, de la recherche et de l'environnement de Lorraine ;
+― chef du pôle interrégional risques accidentels pour les régions Lorraine - Alsace - Franche-Comté à la direction régionale de l'industrie, de la recherche et de l'environnement de Lorraine ;
 
 ― adjoint au chef de la division mines et sous-sol chargé de l'après-mines à la direction régionale de l'industrie, de la recherche et de l'environnement de Lorraine ;
 
@@ -176,13 +176,13 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, les empl
 
 ― secrétaire général de la direction régionale de l'industrie, de la recherche et de l'environnement de Nord - Pas-de-Calais ;
 
-― chef du groupe de subdivisions de Béthune à la direction régionale de l'industrie, de la recherche et de l'environnement de Nord -  Pas-de-Calais ;
+― chef du groupe de subdivisions de Béthune à la direction régionale de l'industrie, de la recherche et de l'environnement de Nord - Pas-de-Calais ;
 
 ― chef du groupe de subdivisions de Valenciennes à la direction régionale de l'industrie, de la recherche et de l'environnement de Nord - Pas-de-Calais ;
 
 ― chef du groupe de subdivisions de Lille à la direction régionale de l'industrie, de la recherche et de l'environnement de Nord - Pas-de-Calais ;
 
-― chef du groupe de subdivisions du littoral à la direction régionale de l'industrie, de la recherche et de l'environnement de Nord -  Pas-de-Calais ;
+― chef du groupe de subdivisions du littoral à la direction régionale de l'industrie, de la recherche et de l'environnement de Nord - Pas-de-Calais ;
 
 ― adjoint au chef de la division environnement, chef du pôle risques à la direction régionale de l'industrie, de la recherche et de l'environnement de Nord - Pas-de-Calais ;
 
@@ -191,8 +191,6 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, les empl
 ― responsable qualité et contrôleur de gestion à la direction régionale de l'industrie, de la recherche et de l'environnement de Nord - Pas-de-Calais ;
 
 ― chef de la division contrôles techniques et surveillance des organismes à la direction régionale de l'industrie, de la recherche et de l'environnement des Pays de la Loire ;
-
-― secrétaire général de la direction régionale de l'industrie, de la recherche et de l'environnement des Pays de la Loire ;
 
 ― chef du groupe de subdivisions de Nantes à la direction régionale de l'industrie, de la recherche et de l'environnement des Pays de la Loire ;
 
@@ -230,4 +228,6 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, les empl
 
 ― chargé de mission auprès du directeur régional de l'industrie, de la recherche et de l'environnement de Rhône-Alpes en charge du pôle environnement et développement durable ;
 
-― chef du groupe de subdivisions de la Loire à la direction régionale de l'industrie, de la recherche et de l'environnement de Rhône-Alpes.
+― chef du groupe de subdivisions de la Loire à la direction régionale de l'industrie, de la recherche et de l'environnement de Rhône-Alpes ;
+
+- chef du bureau de la réglementation, du pilotage de l'inspection, des contrôles et de la qualité, chargé du pôle " installations classées " à la direction générale de la prévention des risques.
