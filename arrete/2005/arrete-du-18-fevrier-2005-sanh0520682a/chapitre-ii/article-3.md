@@ -1,6 +1,6 @@
 # Article 3
 
-Les candidats adressent au ministre chargé de la santé un dossier d'inscription complet comportant les pièces suivantes :
+Les candidats adressent au    Centre national de gestion un dossier d'inscription complet comportant les pièces suivantes :
 
 1° Le formulaire d'inscription dûment rempli ;
 

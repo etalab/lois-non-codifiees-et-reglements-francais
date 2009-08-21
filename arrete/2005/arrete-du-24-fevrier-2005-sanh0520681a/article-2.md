@@ -1,6 +1,6 @@
 # Article 2
 
-I. - Le ministre chargé de la santé est responsable de l'organisation des épreuves classantes nationales.
+I.-Le    directeur général du centre national de gestion  est responsable de l'organisation des épreuves classantes nationales.
 
 Il est chargé :
 
@@ -10,7 +10,7 @@ Il est chargé :
 
 3° De la procédure nationale de choix de la discipline et de la subdivision prévue par l'article 10 du décret du 16 janvier 2004 précité.
 
-II. - Le ministre chargé de l'enseignement supérieur est responsable :
+II.-Le ministre chargé de l'enseignement supérieur est responsable :
 
 1° De la constitution de la banque nationale des questions ;
 

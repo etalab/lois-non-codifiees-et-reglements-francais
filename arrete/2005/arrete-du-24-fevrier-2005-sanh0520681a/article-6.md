@@ -10,7 +10,7 @@ a) Nord-Est pour les candidats d'Allemagne, de Finlande, du Luxembourg, d'Island
 
 b) Nord-Ouest pour les candidats de Belgique, du Danemark, de Norvège, de la Suède, de la Slovaquie, de la République tchèque, de Lituanie, de la Hongrie, de Lettonie et de l'Estonie ;
 
-c) Rhône-Alpes pour les candidats d'Autriche, de Slovénie, du Liechtenstein et de la Suisse ;
+c) Rhône-Alpes pour les candidats d'Autriche, de Slovénie, de Bulgarie, de Roumanie, du Liechtenstein et de la Suisse ;
 
 d) Ouest pour les candidats de Grande-Bretagne, d'Irlande et d'Islande ;
 

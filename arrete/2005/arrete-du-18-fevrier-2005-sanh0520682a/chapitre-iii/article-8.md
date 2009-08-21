@@ -1,14 +1,14 @@
 # Article 8
 
-La correction de la première épreuve est automatisée. Les réponses attendues aux questions élaborées par le conseil scientifique du concours d'internat en médecine sont transmises au jury par le Centre national des concours d'internat.
+La correction de la première épreuve est automatisée. Les réponses attendues aux questions élaborées par le conseil scientifique en médecine sont transmises au jury.
 
 A l'issue des corrections de l'épreuve, il est procédé pour chaque question à choix multiples à une pondération appliquée en fonction du nombre de cohérence des éléments de réponse, selon le principe suivant :
 
 5 cohérences = l point ;
 
-4 cohérences = 0,5 point ;
+4 cohérences = 0, 5 point ;
 
-3 cohérences = 0,2 point ;
+3 cohérences = 0, 2 point ;
 
 Autres possibilités = 0 point.
 
@@ -18,7 +18,7 @@ Le jury peut se constituer en groupe pour la notation de chaque question de l'é
 
 Le jury, avant la levée de l'anonymat, fixe la note minimale en dessous de laquelle les candidats ne peuvent pas être retenus.
 
-Le classement des candidats est validé par le président du jury qui établit un procès-verbal du déroulement des épreuves transmis au ministre de la santé dans lequel est signalé tout incident.
+Le classement des candidats est validé par le président du jury qui établit un procès-verbal du déroulement des épreuves transmis au Centre national de gestion dans lequel est signalé tout incident.
 
 La liste des candidats, classés par ordre de mérite, est publiée au Journal officiel de la République française.
 

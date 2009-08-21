@@ -1,10 +1,12 @@
 # Article 7
 
-L'examen classant national comporte trois épreuves rédactionnelles d'une durée de trois heures chacune. Chaque épreuve est constituée de trois dossiers cliniques d'une durée d'une heure chacun. Chaque dossier comporte quatre à dix questions.
+Les épreuves classantes nationales comportent quatre épreuves rédactionnelles :
 
-Chaque dossier, corrigé en double correction indépendante, est noté de 0 à 100.
+1° Trois épreuves sur dossiers cliniques d'une durée de trois heures chacune. Chaque dossier comporte quatre à dix questions. Chaque dossier est noté de 0 à 100.
 
-La note retenue est la moyenne arithmétique des deux notes. Lorsque, pour un même dossier, l'écart de notation constaté entre deux correcteurs est égal ou supérieur à 10 points, une troisième correction est assurée. Dans ce cas, la notation qui en résulte est retenue.
+2° Une épreuve de lecture critique d'un ou plusieurs articles scientifiques d'une durée de trois heures. Elle comporte deux parties : un résumé comptant pour 20 % de la note de cette épreuve et des questions comptant pour 80 % de cette note. Cette épreuve est notée sur 100.
+
+Toutes les épreuves font l'objet d'une double correction indépendante et anonyme. Une troisième correction est effectuée lorsqu'un écart de cinq points est constaté entre deux correcteurs. Dans ce cas, la note qui en résulte est retenue.
 
 Les ex aequo sont départagés selon les modalités suivantes :
 

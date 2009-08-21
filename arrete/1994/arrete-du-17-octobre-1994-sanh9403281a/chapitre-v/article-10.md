@@ -8,11 +8,11 @@ Elle est composée :
 
 - du président du jury, qui la préside, ou en cas d'empêchement, de l'enseignant le plus ancien dans le grade de professeur des universités ;
 
-- de deux représentants du conseil scientifique de l'internat en odontologie désignés par le président ;
+- de deux représentants du conseil scientifique en odontologie désignés par le président ;
 
 - de trois membres du jury issus chacun d'une section différente du Conseil national des universités désignés par le président du jury ;
 
-- du directeur des hôpitaux ou de son représentant.
+- du directeur général du Centre national de gestion ou de son représentant.
 
 Cette commission prend connaissance du contenu des cahiers d'épreuves. Elle ne peut y apporter aucune modification à l'exception du libellé des questions dans la mesure où une modification apparaît impérative pour leur compréhension.
 

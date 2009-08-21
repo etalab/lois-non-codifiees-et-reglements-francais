@@ -1,6 +1,6 @@
 # Article 5
 
-Les candidats adressent au ministre chargé de la santé, responsable de l'organisation des inscriptions, le dossier d'inscription complet comportant les pièces suivantes :
+Les candidats adressent au    Centre national de gestion, responsable de l'organisation des inscriptions, le dossier d'inscription complet comportant les pièces suivantes :
 
 1° Le formulaire d'inscription dûment rempli ;
 

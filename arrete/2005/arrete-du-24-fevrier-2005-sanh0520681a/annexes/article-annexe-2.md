@@ -1,10 +1,10 @@
 # Article ANNEXE 2
 
-TIRAGE AU SORT DES MEMBRES DU JURY
+**TIRAGE AU SORT DES MEMBRES DU JURY**
 
 Il est constitué cinq urnes.
 
-1° La première urne contient les noms des professeurs des universités-praticiens hospitaliers en fonction dans les unités de formation et de recherche de médecine et inscrits dans les collèges électoraux du Conseil national des universités, dans les sections et sous-sections suivantes :
+1° La première urne contient les noms des professeurs des universités-praticiens hospitaliers en fonction dans les unités de formation et de recherche de médecine et inscrits dans les collèges électoraux du Conseil national des universités, dans les sections et sous-sections suivantes, qui constituent cinquante-cinq pour cent des membres titulaires tirés au sort :
 
 43e section, 1re et 2e sous-section ;
 
@@ -32,7 +32,7 @@ Il est constitué cinq urnes.
 
 Cent trente-cinq membres titulaires sont tirés au sort.
 
-2° La deuxième urne est composée, dans les mêmes conditions qu'au 1°, à partir des sections et sous-sections suivantes :
+2° La deuxième urne est composée, dans les mêmes conditions qu'au 1°, à partir des sections et sous-sections suivantes, qui constituent vingt pour cent des membres titulaires tirés au sort  :
 
 42e section, 1re sous-section ;
 
@@ -52,7 +52,7 @@ Cent trente-cinq membres titulaires sont tirés au sort.
 
 Quarante-huit membres titulaires sont tirés au sort.
 
-3° La troisième urne est composée, dans les mêmes conditions qu'au 1°, à partir des sections et sous-sections suivantes :
+3° La troisième urne est composée, dans les mêmes conditions qu'au 1°, à partir des sections et sous-sections suivantes, qui constituent quinze pour cent des membres titulaires tirés au sort  :
 
 42e section, 2e et 3e sous-section ;
 
@@ -66,11 +66,11 @@ Quarante-huit membres titulaires sont tirés au sort.
 
 Trente-six membres titulaires sont tirés au sort.
 
-4° La quatrième urne est composée, dans les mêmes conditions qu'au 1°, à partir de la 49e section, 3e et 4e sous-section.
+4° La quatrième urne est composée, dans les mêmes conditions qu'au 1°, à partir de la 49e section, 3e et 4e sous-section, qui constituent cinq pour cent des membres titulaires tirés au sort .
 
 Douze membres titulaires sont tirés au sort.
 
-5° La cinquième urne est composée de l'ensemble des maîtres de conférences-praticiens hospitaliers appartenant à toutes les sections et sous-sections du Conseil national des universités.
+5° La cinquième urne est composée de l'ensemble des maîtres de conférences-praticiens hospitaliers appartenant à toutes les sections et sous-sections du Conseil national des universités, qui constituent cinq pour cent des membres titulaires tirés au sort .
 
 Onze membres titulaires sont tirés au sort.
 

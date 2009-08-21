@@ -10,4 +10,4 @@ Tous les candidats non encore affectés ont communication des postes non attribu
 
 Un candidat qui n'a pas pu obtenir une affectation en raison de l'insuffisance du nombre des voeux qu'il a exprimés sera affecté sur un poste constaté disponible après affectation du dernier candidat de la liste.
 
-Pour pouvoir se connecter au site sécurisé d'hébergement de l'application informatique de choix de postes des internes, le ministre chargé de la santé fait remettre à chaque candidat, le jour des épreuves écrites organisées en application de l'arrêté du 24 février 2005 susvisé, une enveloppe fermée individualisée contenant les codes personnels et confidentiels d'accès au site.
+Pour pouvoir se connecter au site sécurisé d'hébergement de l'application informatique de choix de postes des internes, le    directeur général du Centre national de gestion fait remettre à chaque candidat, le jour des épreuves écrites organisées en application de l'arrêté du 24 février 2005 susvisé, une enveloppe fermée individualisée contenant les codes personnels et confidentiels d'accès au site.
