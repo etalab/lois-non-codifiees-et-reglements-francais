@@ -90,23 +90,29 @@
 </td>
 <td width="68">
 <br/>
+<br/>
 </td>
 <td width="61">
 <p align="center">172</p>
 </td>
 <td width="73">
 <br/>
+<br/>
 </td>
 <td width="58">
+<br/>
 <br/>
 </td>
 <td width="69">
 <br/>
+<br/>
 </td>
 <td width="54">
 <br/>
+<br/>
 </td>
 <td width="74">
+<br/>
 <br/>
 </td>
 </tr>
@@ -123,8 +129,10 @@ Si la surface agricole de l'exploitation est répartie sur plusieurs zones défa
 
 3. Dans les communes de la Haute-Corse classées en zone affectée de handicaps spécifiques, les montants unitaires maxima sont fixés à 128 euros/hectare pour les surfaces fourragères et à 120 euros/hectare pour les surfaces cultivées.
 
-4. Une majoration des montants par hectare est appliquée pour les 25 premiers hectares de surfaces fourragères ou cultivées. Cette majoration est de 30 % dans la zone de piémont et la zone défavorisée simple et de 35 % en montagne et haute montagne. Dans les départements d'outre-mer, le préfet arrête le nombre de premiers hectares de surfaces fourragères faisant l'objet d'une majoration dans la limite de 25 hectares ; pour les surfaces cultivées, il arrête les différentes conditions de majoration dans la limite de 25 hectares et d'un taux majoré de 100 %.
+4. Une majoration des montants par hectare est appliquée pour les 25 premiers hectares de surfaces fourragères ou cultivées. Cette majoration est de 35 % dans la zone de piémont et la zone défavorisée simple et de 40 % en zones de montagne et haute montagne.  Dans les départements d'outre-mer, le préfet arrête le nombre de premiers hectares de surfaces fourragères faisant l'objet d'une majoration dans la limite de 25 hectares ; pour les surfaces cultivées, il arrête les différentes conditions de majoration dans la limite de 25 hectares et d'un taux majoré de 100 %.
 
 5. Une majoration du montant par hectare est appliquée aux élevages dont plus de la moitié du cheptel, compté en nombre d'UGB, est constitué d'ovins et de caprins, si ces animaux pratiquent la transhumance entre le 15 juin et le 15 septembre. Cette majoration est respectivement de 10 % pour les zones de haute montagne et de montagne et de 30 % pour les zones de piémont et défavorisée simple.
 
 Dans les cas où sont déclarées à la fois des surfaces éligibles en fourrage et en cultures, les surfaces cultivées sont majorées en priorité.
+
+6. Pour les surfaces en productions de châtaigniers et de chênes valorisées par des porcs charcutiers destinés à la commercialisation et situées dans les zones de haute montagne et de montagne de Corse, les montants de référence par hectare sont fixés par la collectivité territoriale de Corse, dans la limite des montants précisés au paragraphe 1.
