@@ -1,0 +1,5 @@
+# Article 23 bis
+
+Le bureau de l'action sociale de l'administration pénitentiaire est le correspondant du bureau de l'action sociale et des conditions de travail de la sous-direction de la synthèse des ressources humaines du secrétariat général.A ce titre, il est un observatoire social chargé du recensement des difficultés, des besoins et des moyens en matière de logement, de garde d'enfants, de restauration, de sport, d'aide sociale et financière. Il participe à l'analyse des conséquences des événements graves impliquant les personnels en cas de situations d'agression et de crise. Il assure le relais des besoins et des moyens recensés auprès du secrétariat général. Il est également un relais en matière d'information auprès des services de l'administration pénitentiaire. Il est chargé du suivi des réponses apportées et de l'information des services déconcentrés en lien avec le secrétariat général. Il est chargé de participer à l'élaboration du bilan social du ministère.
+
+Il est chargé du suivi des crédits délégués aux services de l'administration pénitentiaire par le secrétariat général.
