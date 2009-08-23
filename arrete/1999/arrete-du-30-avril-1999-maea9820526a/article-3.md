@@ -2,7 +2,7 @@
 
 Sont dotés de l'autonomie financière, dans les conditions du décret susvisé :
 
-I - Les centres de recherche
+**I - Les centres de recherche**
 
 Afghanistan
 
@@ -110,7 +110,7 @@ Turquie
 
 Institut français d'études anatoliennes Georges-Dumézil (Istanbul).
 
-II. - Établissements à vocation pluridisciplinaire
+**II. - Établissements à vocation pluridisciplinaire**
 
 Afghanistan
 
@@ -568,11 +568,7 @@ Centre culturel français d'Achgabat
 
 Turquie
 
-Institut d'études françaises d'Ankara.
-
-Institut d'études françaises d'Istanbul.
-
-Centre culturel français d'Izmir.
+Institut français d'Ankara.
 
 Mission de coopération éducative et linguistique d'Istanbul.
 
