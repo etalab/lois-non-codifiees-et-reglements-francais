@@ -223,7 +223,7 @@ ANNEXE I
 </td>
 <td align="center">298<br/>
 </td>
-<td align="center">17,50<br/>
+<td align="center">17,50 (11 acquis)<br/>
 </td>
 </tr>
 <tr>
