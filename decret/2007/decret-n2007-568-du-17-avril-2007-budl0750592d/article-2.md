@@ -20,7 +20,7 @@ III.-Pour requérir l'inscription des sommes privilégiées dues au Trésor, le 
 
 3° Nom, prénoms, raison ou dénomination sociale, adresse de l'établissement principal ou du siège du redevable ;
 
-4° Montant des sommes dues au Trésor au dernier jour du semestre civil précédant l'inscription.
+4° Montant des sommes dues au Trésor au dernier jour  de la période de neuf mois prévue au 4 de l'article 379 bis du code des douanes  précédant l'inscription.
 
 Le comptable avise le redevable qu'il a requis une inscription à son encontre.
 
