@@ -42,6 +42,14 @@ Lorsque l'installation change d'exploitant, le nouvel exploitant ou son représe
 
 Lorsqu'une installation cesse l'activité au titre de laquelle elle était déclarée, son exploitant en informe le préfet au moins un mois avant l'arrêt définitif. La notification de l'exploitant indique les mesures de remise en état prévues ou réalisées.
 
+1.8. Contrôles périodiques
+
+L'installation est soumise à des contrôles périodiques par des organismes agréés dans les conditions définies par les articles R. 512-55 à R. 512-60 du code de l'environnement.
+
+Ces contrôles ont pour objet de vérifier la conformité de l'installation aux prescriptions listées en annexe III, éventuellement modifiées par arrêté préfectoral, lorsqu'elles lui sont applicables.
+
+L'exploitant conserve le rapport de visite que l'organisme agréé lui adresse dans le dossier  installations classées  prévu au point 1.4. Si le rapport fait apparaître des non-conformités aux dispositions faisant l'objet du contrôle, l'exploitant met en œuvre les actions correctives nécessaires pour y remédier. Ces actions ainsi que leurs dates de mise en œuvre sont formalisées et conservées dans le dossier susmentionné.
+
 2. Implantation - aménagement
 
 2.1. Règles d'implantation
@@ -100,7 +108,7 @@ Sans préjudice des dispositions du code du travail, les locaux sont convenablem
 
 2.7. Installations électriques
 
-Les installations électriques sont réalisées conformément au décret n° 88-1056 du 14 novembre 1988 relatif à la réglementation du travail.
+L'exploitant tient à la disposition de l'inspection des installations classées les éléments justifiant que ses installations électriques sont réalisées conformément aux règles en vigueur, entretenues en bon état et vérifiées.
 
 2.8. Mise à la terre des équipements
 
