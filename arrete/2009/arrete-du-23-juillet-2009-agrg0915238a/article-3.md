@@ -1,0 +1,5 @@
+# Article 3
+
+Les directeurs régionaux de l'alimentation, de l'agriculture et de la forêt mentionnés à l'article 1er mobilisent des correspondants-observateurs consacrant une partie de leur activité à une mission de diagnostic et de conseil phytosanitaire, d'alerte, de surveillance et de suivi à long terme de la santé des forêts. Cette mission s'effectue dans le cadre de la convention entre la direction générale de l'alimentation et l'organisme employeur des correspondants-observateurs.
+
+Dans ce cadre, les correspondants-observateurs interviennent sous l'autorité de l'organisme qui les emploie en fournissant des diagnostics et des conseils de gestion des problèmes phytosanitaires au bénéfice des propriétaires et des gestionnaires forestiers. Ils mettent en œuvre le dispositif de surveillance défini par le directeur régional de l'alimentation, de l'agriculture et de la forêt, en relation avec la sous-direction de la qualité et de la protection des végétaux, et lui transmettent toutes les informations collectées selon les formes et délais prévus par la convention susmentionnée.
