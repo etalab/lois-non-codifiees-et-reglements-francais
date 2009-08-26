@@ -658,7 +658,6 @@
 - [Arrêté du 22 septembre 1998 (DEFP9852012A)](arrete-du-22-septembre-1998-defp9852012a)
 - [Arrêté du 22 septembre 1998 (EQUA9801296A)](arrete-du-22-septembre-1998-equa9801296a)
 - [Arrêté du 22 septembre 1998 (INTM9800031A)](arrete-du-22-septembre-1998-intm9800031a)
-- [Arrêté du 22 septembre 1998 (MENE9802435A)](arrete-du-22-septembre-1998-mene9802435a)
 - [Arrêté du 22 mai 1998 (ECOF9800020A)](arrete-du-22-mai-1998-ecof9800020a)
 - [Arrêté du 22 mai 1998 (ECOS9850021A)](arrete-du-22-mai-1998-ecos9850021a)
 - [Arrêté du 22 mai 1998 (ECOT9810339A)](arrete-du-22-mai-1998-ecot9810339a)
