@@ -1,11 +1,11 @@
 # Article 2
 
-Selon l'intérêt scientifique de la découverte, la valeur de la récompense qui est attribuée soit en espèces, soit en nature, ne peut excéder les limites suivantes :
+Lorsque la récompense est attribuée en espèces, sa valeur est déterminée en fonction de l'intérêt scientifique de la découverte et ne peut excéder les limites suivantes :
 
-- grand intérêt : 10 000 F ;
+1° Intérêt régional : 2 000 euros ;
 
-- intérêt supérieur : 50 000 F ;
+2° Intérêt national : 10 000 euros ;
 
-- intérêt exceptionnel : 200 000 F.
+3° Intérêt international ou exceptionnel : 30 000 euros.
 
 Lorsque, après son exploitation, l'intérêt scientifique d'une découverte s'avère supérieur à la première estimation, l'Etat peut procéder à la réévaluation de la récompense.
