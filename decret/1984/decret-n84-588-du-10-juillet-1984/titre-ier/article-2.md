@@ -1,11 +1,15 @@
 # Article 2
 
-Les instituts régionaux d'administration :
+Les instituts régionaux d'administration ont pour missions :
 
-a) Contribuent au recrutement des corps administratifs de catégorie A de l'Etat et des établissements publics de l'Etat désignés à l'article 7 ci-dessous et assurent aux élèves ainsi recrutés une formation administrative les rendant aptes à exercer les fonctions qui leur seront confiées dans les administrations dans lesquelles ils seront affectés ;
+1° La formation initiale des fonctionnaires appelés à exercer leurs fonctions dans les corps de fonctionnaires désignés à l'article 7 ;
 
-b) Participent, en liaison avec les administrations et les organismes intéressés, à la formation et au perfectionnement en cours de carrière des fonctionnaires;
+2° La formation professionnelle tout au long de la vie et le perfectionnement de fonctionnaires français ou étrangers ;
 
-c) Collaborent à des actions de coopération administrative internationale;
+3° La participation à l'organisation des concours d'accès aux instituts régionaux d'administration ;
 
-Les instituts régionaux d'administration sont habilités à passer des conventions avec les conventions avec les administrations de l'Eta et les collectivités territoriales pour fixer les modalités de leur participation à la formation des fonctionnaires de l'Etat et de ces collectivités ainsi qu'avec tout organisme compétent au titre de la coopération administrative internationale.
+4° La préparation à ces concours et, à ce titre, l'organisation de préparations destinées à permettre la diversification des recrutements des instituts régionaux d'administration ;
+
+5° La participation à des actions de partenariat et de coopération, européenne et internationale, dans le domaine de l'administration publique.
+
+Les instituts régionaux d'administration sont habilités à passer des conventions avec les administrations de l'Etat, avec ses établissements publics et avec les collectivités territoriales pour fixer les modalités de leur participation à la formation des fonctionnaires de ces administrations, établissements et collectivités, ainsi qu'avec tout organisme compétent au titre des actions mentionnées au 5°.
