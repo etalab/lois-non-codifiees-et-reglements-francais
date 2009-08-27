@@ -4,23 +4,16 @@
 <tbody>
 <tr>
 <td valign="top" width="170">
-<p align="center">SIÈGES DES DIRECTIONS</p>
-<p align="center">interrégionales</p>
-<p align="center">de la police judiciaire (DIPJ)</p>
+<p align="center">SIÈGES DES DIRECTIONS<br/>interrégionales<br/>de la police judiciaire (DIPJ)</p>
 </td>
 <td valign="top" width="208">
-<p align="center">RÉGIONS CONSTITUANT</p>
-<p align="center">le ressort territorial de compétence des directions interrégionales</p>
-<p align="center">de la police judiciaire (DIPJ)</p>
+<p align="center">RÉGIONS CONSTITUANT<br/>le ressort territorial de compétence des directions interrégionales<br/>de la police judiciaire (DIPJ)</p>
 </td>
 <td valign="top" width="170">
-<p align="center">SIÈGES DES SERVICES</p>
-<p align="center">régionaux</p>
-<p align="center">de police judiciaire (SRPJ)</p>
+<p align="center">SIÈGES DES SERVICES<br/>régionaux<br/>de police judiciaire (SRPJ)</p>
 </td>
 <td valign="top" width="132">
-<p align="center">ANTENNES DE POLICE</p>
-<p align="center">judiciaire</p>
+<p align="center">ANTENNES DE POLICE<br/>judiciaire</p>
 </td>
 </tr>
 <tr>
@@ -30,7 +23,7 @@
 <td valign="top" width="208">
 <p align="center">Aquitaine</p>
 </td>
-<td rowspan="3" valign="top" width="170">
+<td rowspan="3" width="170">
 <p align="center">Bordeaux</p>
 </td>
 <td valign="top" width="132">
@@ -59,28 +52,22 @@
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
+<td rowspan="2" valign="top" width="170">
 <p align="center">Dijon</p>
 </td>
 <td valign="top" width="208">
 <p align="center">Franche-Comté</p>
 </td>
-<td rowspan="2" valign="top" width="170">
+<td rowspan="2" width="170">
 <p align="center">Dijon</p>
 </td>
-<td valign="top" width="132">
+<td rowspan="2" valign="top" width="132">
 <p align="center">Besançon</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
-<br/>
-</td>
 <td valign="top" width="208">
 <p align="center">Bourgogne</p>
-</td>
-<td valign="top" width="132">
-<p align="center">Auxerre</p>
 </td>
 </tr>
 <tr>
@@ -90,8 +77,8 @@
 <td valign="top" width="208">
 <p align="center">Nord - Pas-de-Calais</p>
 </td>
-<td valign="top" width="170">
-<br/>
+<td rowspan="3" width="170">
+<p align="center">Lille</p>
 </td>
 <td valign="top" width="132">
 <p align="center">Amiens</p>
@@ -100,9 +87,6 @@
 <tr>
 <td rowspan="2" valign="top" width="208">
 <p align="center">Picardie</p>
-</td>
-<td rowspan="2" valign="top" width="170">
-<p align="center">Lille</p>
 </td>
 <td valign="top" width="132">
 <p align="center">Creil</p>
@@ -120,7 +104,7 @@
 <td valign="top" width="208">
 <p align="center">Rhône-Alpes</p>
 </td>
-<td rowspan="4" valign="top" width="170">
+<td rowspan="4" width="170">
 <p align="center">Lyon</p>
 </td>
 <td valign="top" width="132">
@@ -160,7 +144,7 @@
 <td valign="top" width="208">
 <p align="center">Provence-Alpes-Côte d'Azur</p>
 </td>
-<td rowspan="2" valign="top" width="170">
+<td rowspan="2" width="170">
 <p align="center">Marseille</p>
 </td>
 <td valign="top" width="132">
@@ -176,7 +160,7 @@
 </td>
 </tr>
 <tr>
-<td rowspan="3" valign="top" width="170">
+<td rowspan="3" width="170">
 <p align="center">Montpellier</p>
 </td>
 <td valign="top" width="132">
@@ -194,7 +178,7 @@
 </td>
 </tr>
 <tr>
-<td valign="top" width="170">
+<td rowspan="3" valign="top" width="170">
 <p align="center">Orléans</p>
 </td>
 <td valign="top" width="208">
@@ -208,28 +192,19 @@
 </td>
 </tr>
 <tr>
-<td rowspan="2" valign="top" width="170">
-<br/>
-</td>
 <td valign="top" width="208">
 <p align="center">Limousin</p>
 </td>
-<td valign="top" width="170">
+<td rowspan="2" width="170">
 <p align="center">Limoges</p>
 </td>
-<td valign="top" width="132">
+<td rowspan="2" valign="top" width="132">
 <p align="center">Poitiers</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="208">
 <p align="center">Poitou-Charentes</p>
-</td>
-<td valign="top" width="170">
-<br/>
-</td>
-<td valign="top" width="132">
-<p align="center">La Rochelle</p>
 </td>
 </tr>
 <tr>
@@ -239,7 +214,7 @@
 <td valign="top" width="208">
 <p align="center">Basse-Normandie</p>
 </td>
-<td rowspan="4" valign="top" width="170">
+<td rowspan="4" width="170">
 <p align="center">Rennes</p>
 </td>
 <td valign="top" width="132">
@@ -323,7 +298,7 @@
 <td valign="top" width="208">
 <p align="center">Guedoloupe</p>
 </td>
-<td rowspan="3" valign="top" width="170">
+<td rowspan="3" width="170">
 <p align="center">Pointe-à-Pitre</p>
 </td>
 <td valign="top" width="132">
@@ -334,16 +309,13 @@
 <td valign="top" width="208">
 <p align="center">Martinique</p>
 </td>
-<td valign="top" width="132">
+<td rowspan="2" valign="top" width="132">
 <p align="center">Fort-de-France</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="208">
 <p align="center">Guyane</p>
-</td>
-<td valign="top" width="132">
-<p align="center">Saint-Martin</p>
 </td>
 </tr>
 </tbody>
