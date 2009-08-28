@@ -1,0 +1,3 @@
+# Article 1
+
+En application de l'article L. 251-1 du code de l'action sociale et des familles, les frais pharmaceutiques et de soins infirmiers nécessaires aux personnes placées en garde à vue qui ne sont pas en mesure d'en assurer elles-mêmes le paiement immédiat sont payés intégralement à l'établissement public de santé, à l'officine de pharmacie ou au professionnel infirmier libéral par la direction départementale des affaires sanitaires et sociales sur présentation, d'une part, de l'ordonnance du médecin désigné pour les examiner par le procureur de la République ou par l'officier de police judiciaire en application de l'article 63-3 du code pénal et, d'autre part, de la justification de leur fourniture.
