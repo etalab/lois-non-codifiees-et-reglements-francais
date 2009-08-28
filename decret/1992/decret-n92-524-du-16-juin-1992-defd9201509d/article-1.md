@@ -2,14 +2,24 @@
 
 Il est créé une délégation aux affaires stratégiques qui relève directement du ministre de la défense.
 
-La délégation aux affaires stratégiques procède à toute étude, analyse, synthèse et recherche prospective dans les domaines stratégiques intéressant le ministre de la défense dans l'exercice des responsabilités qui lui sont confiées par l'article 16 de l'ordonnance du 7 janvier 1959 susvisée. Elle propose au ministre les éléments d'appréciation sur les options possibles dans ces domaines et en évalue les conséquences à long terme.
+La délégation aux affaires stratégiques procède à toute étude, analyse, synthèse et recherche prospective dans les domaines stratégiques intéressant le ministre de la défense dans l'exercice des responsabilités qui lui sont confiées par l'article L. 1142-1 du code de la défense. Elle propose au ministre les éléments d'appréciation sur les options possibles dans ces domaines et en évalue les conséquences à long terme.
 
 Elle est associée aux travaux de planification et de programmation conduits au ministère chargé des armées.
 
-Elle assiste le ministre pour l'élaboration des positions françaises dans les négociations internationales et les actions de coopération intéressant la défense. A cet effet, elle anime toute concertation utile au sein du ministère chargé des armées. Elle conseille le ministre sur les suites à donner à ces négociations et actions.
+Elle assiste le ministre pour l'élaboration des positions françaises dans les négociations internationales et les actions de coopération intéressant la défense.A cet effet, elle anime toute concertation utile au sein du ministère.
 
-Elle propose au ministre de la défense les orientations en matière de contrôle des exportations d'armement et met en oeuvre la politique retenue ; elle conduit, en liaison avec les états-majors, directions et services concernés, les négociations relatives aux engagements internationaux en matière de contrôle des exportations d'armement.
+Elle assure la cohérence des travaux de prospective conduits par les états-majors, directions et services. Dans ce domaine, elle coordonne la position et la représentation du ministère dans les cadres interministériel et international.
 
-Elle participe à l'élaboration de la réglementation nationale relative au contrôle de la fabrication et du commerce des matériels de guerre ainsi que des procédures correspondantes ; elle met en oeuvre cette réglementation dans le domaine du commerce international et contrôle l'exécution des procédures d'exportation, d'importation et de transit ; elle participe à la procédure de délivrance des agréments préalables aux exportations des matériels de guerre, armes et munitions de la compétence du ministre de la défense et notifie lesdits agréments selon les dispositions fixées par arrêté.
+En liaison avec les états-majors, directions et services concernés, elle propose au ministre de la défense les orientations en matière :
 
-Elle participe, dans le domaine du commerce international, à l'élaboration et à la mise en oeuvre de la réglementation et des procédures nationales relatives à l'application des dispositifs et régimes multilatéraux de non-prolifération et de contrôle des exportations de biens et de technologies sensibles à double usage civil et militaire.
+- de lutte contre la prolifération, de désarmement et de maîtrise des armements dans le domaine des armements non conventionnels ;
+
+- de contrôle des exportations d'armement et de biens et technologies à double usage civil et militaire.
+
+Dans ces matières, en liaison avec les états-majors, directions et services concernés :
+
+- elle participe aux négociations relatives aux engagements internationaux de la France et peut y représenter le ministère ;
+
+- elle participe aux travaux portant sur l'évolution du contenu technique de la réglementation ou les coordonne, dans la limite des attributions du contrôle général des armées, de la délégation générale pour l'armement et de la direction des affaires juridiques ;
+
+- elle coordonne l'examen des demandes soumises à la commission interministérielle pour l'étude des exportations de matériels de guerre ainsi que des demandes de licence d'exportation des biens et technologies à double usage civil et militaire.
