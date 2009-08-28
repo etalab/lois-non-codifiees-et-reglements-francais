@@ -1,6 +1,6 @@
 # Article 1
 
-La composition du Comité de règlement des contestations en douane prévu par l'article 13 du décret du 18 avril 1939 susvisé est fixée comme suit :
+La composition du Comité de règlement des contestations en douane prévu par l'article L. 2335-3 du code de la défense est fixée comme suit :
 
 - président : le membre du contrôle général des armées chargé de la coordination de la réglementation et du contrôle des matériels de guerre, armes et munitions ;
 

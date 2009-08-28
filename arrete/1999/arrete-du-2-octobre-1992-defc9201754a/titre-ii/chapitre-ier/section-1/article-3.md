@@ -1,6 +1,6 @@
 # Article 3
 
-Sont soumises au régime de l'agrément préalable prévu par l'article 12 du décret du 18 avril 1939 susvisé les opérations suivantes lorsqu'elles concernent les matériels appartenant aux catégories définies dans l'arrêté du 20 novembre 1991 susvisé, sauf dans les cas énumérés au chapitre II du présent titre :
+Sont soumises au régime de l'agrément préalable prévu par l'article L. 2335-2 du code de la défense les opérations suivantes lorsqu'elles concernent les matériels appartenant aux catégories définies dans l'arrêté du 20 novembre 1991 susvisé, sauf dans les cas énumérés au chapitre II du présent titre :
 
 -la diffusion en vue de l'obtention de commandes étrangères d'informations de nature à permettre ou à faciliter la fabrication ou la reproduction de ces matériels ou à en compromettre l'efficacité ;
 
