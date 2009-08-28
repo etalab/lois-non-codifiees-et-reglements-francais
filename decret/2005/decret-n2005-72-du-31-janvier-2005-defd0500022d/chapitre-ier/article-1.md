@@ -22,7 +22,7 @@ Le délégué général pour l'armement assiste le ministre de la défense dans 
 
 10° Propose au ministre de la défense les actions techniques ou industrielles à entreprendre sur le plan international et en assure l'exécution ;
 
-11° Propose au ministre de la défense des orientations en matière d'exportation d'armement et met en oeuvre la politique retenue, sous réserve des compétences dévolues à la délégation aux affaires stratégiques ;
+11° Propose au ministre de la défense les orientations en matière de soutien aux exportations d'armement et met en œuvre la politique retenue ;
 
 12° Conduit, en liaison avec le secrétaire général pour l'administration, les négociations relatives aux engagements internationaux qui relèvent du domaine de compétence de la délégation générale pour l'armement, et a compétence pour recevoir délégation du ministre de la défense aux fins de signer les engagements internationaux correspondants ;
 
