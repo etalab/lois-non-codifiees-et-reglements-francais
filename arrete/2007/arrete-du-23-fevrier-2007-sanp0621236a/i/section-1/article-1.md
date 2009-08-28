@@ -1,6 +1,6 @@
 # Article 1
 
-En application du 2° de l'article D. 4364-9 et de l'article D. 4364-11-1 du code de la santé publique, peuvent exercer la profession d'épithésiste les personnes non titulaires du diplôme, titre ou certificat définis à l'article L. 4364-1 :
+En application du 2° de l'article D. 4364-9 et de l'article D. 4361-10-1 du code de la santé publique, peuvent exercer la profession d'épithésiste les personnes non titulaires du diplôme, titre ou certificat définis à l'article L. 4364-1 :
 
 1° Qui sont titulaires du diplôme universitaire de prothèse faciale appliquée ayant une expérience de trois années d'exercice en continu chez un ou plusieurs épithésistes ou dans un ou des services d'établissement de santé dans lesquels sont conçues, fabriquées et adaptées ces prothèses ;
 

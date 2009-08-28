@@ -1,6 +1,6 @@
 # Article 1
 
-En application du 2° de l'article D. 4364-8 et du 1° de l'article D. 4364-11-1 du code de la santé publique, peuvent exercer la profession de podo-orthésiste les personnes non titulaires du diplôme, titre ou certificat définis à l'article L. 4364-1 :
+En application du 2° de l'article D. 4364-8 et du 1° de l'article D. 4361-10-1 du code de la santé publique, peuvent exercer la profession de podo-orthésiste les personnes non titulaires du diplôme, titre ou certificat définis à l'article L. 4364-1 :
 
 1° Qui sont titulaires du brevet de technicien supérieur de podo-orthèse ;
 
