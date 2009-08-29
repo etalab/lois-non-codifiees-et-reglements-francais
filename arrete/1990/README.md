@@ -191,7 +191,6 @@
 - [Arrêté du 8 février 1990 (INDA9000053A)](arrete-du-8-fevrier-1990-inda9000053a)
 - [Arrêté du 8 février 1990 (LOGC9000001A)](arrete-du-8-fevrier-1990-logc9000001a)
 - [Arrêté du 8 janvier 1990 (ECOT8910056A)](arrete-du-8-janvier-1990-ecot8910056a)
-- [Arrêté du 8 juillet 1990 (AGRG9000880A)](arrete-du-8-juillet-1990-agrg9000880a)
 - [Arrêté du 8 juin 1990 (BUDR9005030A)](arrete-du-8-juin-1990-budr9005030a)
 - [Arrêté du 8 juin 1990 (ECOC9000038A)](arrete-du-8-juin-1990-ecoc9000038a)
 - [Arrêté du 8 juin 1990 (INDD9000420A)](arrete-du-8-juin-1990-indd9000420a)
