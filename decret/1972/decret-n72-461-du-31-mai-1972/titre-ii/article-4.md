@@ -4,6 +4,10 @@ Le directeur est nommé par décret pour un mandat de cinq ans renouvelable par 
 
 Le directeur est responsable de l'ensemble des activités de l'établissement. Il élabore la programmation artistique. Il est l'ordonnateur des recettes et des dépenses. Il prépare les délibérations du conseil d'administration et en assure l'exécution. Il représente l'établissement en justice et dans tous les actes de la vie civile.
 
+Il dirige l'école supérieure d'art dramatique du Théâtre national de Strasbourg et délivre les diplômes.
+
+Il exerce le pouvoir disciplinaire.
+
 Il peut consentir des délégations de signature à l'administrateur et, en cas d'empêchement de ce dernier, aux chefs de service. En cas d'absence, d'empêchement ou de maladie, il est suppléé par l'administrateur.
 
 Il perçoit une rémunération dont les modalités sont fixées par décision conjointe des ministres chargés de la culture et du budget.

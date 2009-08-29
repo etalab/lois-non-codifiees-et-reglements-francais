@@ -1,0 +1,3 @@
+# Article 11-2
+
+Les sanctions disciplinaires applicables aux étudiants sont, outre celles prévues à l'article L. 811-6 du code de l'éducation, l'avertissement avec inscription au dossier, l'exclusion temporaire et l'exclusion définitive de l'établissement. Aucune sanction ne peut être prononcée sans que l'étudiant ait été mis à même de présenter ses observations. Sauf pour l'avertissement, le directeur statue au vu de l'avis rendu par la commission de discipline après audition, par cette instance, de l'intéressé. La composition et les modalités de fonctionnement de la commission de discipline sont fixées par le règlement des études de l'école.

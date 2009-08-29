@@ -1,5 +1,3 @@
 # Article 11
 
-Le personnel du Théâtre national de Strasbourg est placé sous
-le régime du louage de services dans les conditions du droit privé,
-à l'exception du directeur et de l'agent comptable.
+Les personnels de l'établissement, à l'exclusion du directeur et de l'agent comptable, sont soumis aux dispositions du code du travail.

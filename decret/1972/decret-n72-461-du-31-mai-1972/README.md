@@ -2,4 +2,5 @@
 
 - [TITRE I : Définition.](titre-i)
 - [TITRE II : Organisation administrative.](titre-ii)
-- [TITRE III : Régime financier.](titre-iii)
+- [TITRE III : Organisation pédagogique.](titre-iii)
+- [TITRE IV : Régime financier.](titre-iv)
