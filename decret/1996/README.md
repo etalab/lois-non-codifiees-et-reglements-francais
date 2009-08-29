@@ -677,7 +677,6 @@
 - [Décret n°96-1234 du 27 décembre 1996 (FPPA9610036D)](decret-n96-1234-du-27-decembre-1996-fppa9610036d)
 - [Décret n°96-157 du 27 février 1996 (JUSB9610056D)](decret-n96-157-du-27-fevrier-1996-jusb9610056d)
 - [Décret n°96-250 du 27 mars 1996 (INTA9600068D)](decret-n96-250-du-27-mars-1996-inta9600068d)
-- [Décret n°96-252 du 27 mars 1996 (DOMP9600006D)](decret-n96-252-du-27-mars-1996-domp9600006d)
 - [Décret n°96-280 du 27 mars 1996 (BUDF9610069D)](decret-n96-280-du-27-mars-1996-budf9610069d)
 - [Décret n°96-281 du 27 mars 1996 (BUDF9610070D)](decret-n96-281-du-27-mars-1996-budf9610070d)
 - [Décret n°96-572 du 27 juin 1996 (TASS9621753D)](decret-n96-572-du-27-juin-1996-tass9621753d)

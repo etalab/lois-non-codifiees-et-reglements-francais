@@ -8,5 +8,6 @@
 - [Titre VI : Prohibitions diverses.](titre-vi)
 - [Titre VII : Dispositions particulières.](titre-vii)
 - [Titre VIII : Mesures d'ordre et de précaution.](titre-viii)
+- [Titre IX : Sanctions pénales et administratives.](titre-ix)
 - [Titre X : Abrogations.](titre-x)
-- [Article 33](article-33.md)
+- [Article 34](article-34.md)

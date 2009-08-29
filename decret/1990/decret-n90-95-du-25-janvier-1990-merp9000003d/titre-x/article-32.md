@@ -1,9 +1,7 @@
 # Article 32
 
-Sont abrogées les dispositions suivantes :
+Le décret du 19 novembre 1859 portant règlement sur la pêche maritime côtière dans le cinquième arrondissement maritime et l'ensemble des textes qui le modifient sont abrogés à l'exception des dispositions suivantes :
 
-- les articles 2 et 3 du décret n° 78-146 du 3 février 1978 portant création, en application de la loi du 16 juillet 1976, d'une zone économique au large des côtes des îles Tromelin, Glorieuses, Juan de Nova, Europa et Bassas da India ;
+Titre Ier : articles 4 à 52 ;
 
-- les articles 2 et 3 du décret n° 78-147 du 3 février 1978 portant création, en application de la loi du 16 juillet 1976, d'une zone économique au large des côtes de Clipperton ;
-
-- les articles 2, 3 et 5 du décret n° 78-149 du 3 février 1978 portant création, en application de la loi du 16 juillet 1976, d'une zone économique au large des côtes de la collectivité territoriale de Mayotte.
+Titre II : l'article 56, les premier, troisième et quatrième alinéas de l'article 57.
