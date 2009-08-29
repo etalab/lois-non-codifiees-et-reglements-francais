@@ -16,6 +16,6 @@ La direction générale du Trésor et de la politique économique exerce les mis
 
 7° Elle veille dans les entreprises et autres organismes qui entrent dans son champ de compétence aux intérêts patrimoniaux de l'Etat ;
 
-8° Elle assure le secrétariat de la commission économique de la nation, de la conférence économique annuelle et de l'observatoire économique de l'achat public.
+8° Elle assure le secrétariat de la commission économique de la nation et de l'observatoire économique de l'achat public.
 
 Pour l'exercice de l'ensemble de ses missions, elle dispose des services prévus par le décret n° 82-762 du 6 septembre 1982 portant création des directions régionales du commerce extérieur et par les articles 1er à 4 du décret du 3 mai 2002 susvisé et en assure la gestion.
