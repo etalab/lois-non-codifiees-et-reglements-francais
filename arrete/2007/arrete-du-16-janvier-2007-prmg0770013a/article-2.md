@@ -8,13 +8,15 @@ Le bureau de la gestion prévisionnelle de l'emploi public (B 4) :
 
 - coordonne le dispositif des conférences de gestion prévisionnelle des ressources humaines et en assure le suivi ;
 
-- fournit une expertise et un appui méthodologique pour le développement des plans et des outils ministériels et locaux de gestion prévisionnelle des emplois, des effectifs et des compétences et anime le réseau des responsables ;
+- aide les ministères et leurs services à développer des dispositifs de gestion prévisionnelle des emplois, des effectifs et des compétences ainsi que de gestion personnalisée des parcours professionnels ;
+
+- anime les réseaux des responsables, notamment présents au sein des plates-formes d'appui interministériel à la gestion des ressources humaines ;
 
 - mesure l'impact des réformes statutaires et indemnitaires sur les ressources humaines, en liaison avec les autres bureaux de la sous-direction ;
 
 - contribue, en liaison avec l'ensemble des administrations, à l'analyse de l'impact des modes d'organisation fonctionnels et territoriaux des services sur la gestion des ressources humaines.
 
-Il contribue plus particulièrement, en liaison avec le bureau des statistiques, des études et de l'évaluation, à l'établissement des données et informations présentées à l'Observatoire de l'emploi public.
+Il contribue plus particulièrement, en liaison avec le bureau des statistiques, des études et de l'évaluation, à l'établissement des données et informations dans le rapport annuel sur l'état de la fonction publique.
 
 Le bureau des statuts particuliers et des parcours professionnels (B 5) :
 
@@ -32,11 +34,11 @@ Le bureau des personnels d'encadrement (B 6) :
 
 - instruit tout projet ou demande de réforme statutaire ou indiciaire concernant les statuts d'emploi et les statuts particuliers des fonctionnaires civils de l'Etat, des fonctionnaires territoriaux et des fonctionnaires hospitaliers relevant de l'encadrement supérieur ainsi que les statuts particuliers des magistrats ;
 
-- fournit une expertise sur les parcours de carrière et assure la gestion des administrateurs civils, des architectes et urbanistes de l'Etat et des personnels d'encadrement des secrétariats généraux pour les affaires régionales ;
+- fournit une expertise sur les parcours de carrière et assure la gestion des administrateurs civils, des architectes et urbanistes de l'Etat ;
 
-- contribue au développement des méthodes et des outils de gestion personnalisée des carrières de l'encadrement supérieur ;
+- contribue à la professionnalisation des modes de recrutement ainsi qu'au développement des méthodes et des outils de gestion personnalisée des carrières de l'encadrement supérieur ;
 
-- instruit les propositions de nominations dans les emplois de direction et de directeurs de projet d'administration centrale, et dans les corps d'inspection générale. A ce titre, il assure le secrétariat des commissions chargées de donner un avis sur les nominations au tour extérieur du Gouvernement des inspecteurs généraux.
+- instruit les propositions de nominations dans les emplois de direction, d'experts de haut niveau et de directeurs de projet d'administration centrale, et dans les corps d'inspection générale. A ce titre, il assure le secrétariat des commissions chargées de donner un avis sur les nominations au tour extérieur du Gouvernement des inspecteurs généraux.
 
 Ces missions sont, en tant que de besoin, articulées avec celles exercées par le secrétariat général de l'administration.
 

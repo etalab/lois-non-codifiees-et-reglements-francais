@@ -10,4 +10,4 @@ Le secrétariat général :
 
 - assure le contrôle de gestion, l'évaluation de la performance et de la qualité ;
 
-- gère les moyens matériels.
+- gère les moyens matériels et informatiques.

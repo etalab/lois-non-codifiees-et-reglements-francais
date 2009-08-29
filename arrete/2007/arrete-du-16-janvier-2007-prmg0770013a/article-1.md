@@ -1,6 +1,6 @@
 # Article 1
 
-La sous-direction de l'information et de la légistique comprend le bureau de la légistique et des systèmes d'information, le bureau de la prospective et des affaires internationales, le bureau des statistiques, des études et de l'évaluation, le pôle " communication " et le centre de ressources documentaires.
+La sous-direction de l'information et de la légistique comprend le bureau de la légistique et des systèmes d'information, le bureau de la prospective et des affaires internationales, le bureau des statistiques, des études et de l'évaluation, et le bureau de la communication et de la documentation.
 
 Le bureau de la légistique et des systèmes d'information (B 1) :
 
@@ -8,15 +8,15 @@ Le bureau de la légistique et des systèmes d'information (B 1) :
 
 - élabore le code général de la fonction publique et suit les travaux de codification des autres ministères en ce qu'ils concernent les agents publics ;
 
-- contribue à la qualité des textes relatifs à la fonction publique ;
+- contribue à la qualité des textes relatifs à la fonction publique, à la programmation et au suivi de leur élaboration ainsi qu'au suivi du contentieux auquel ils peuvent donner lieu ;
 
 - contribue à la définition, à la mise en place et au développement des systèmes d'information et des outils qui leur sont associés en matière de gestion des ressources humaines.
 
-Il est à ce titre l'interlocuteur des autres administrations et en particulier des services de la direction générale de la modernisation de l'Etat, avec lesquels il contribue à la cohérence interministérielle des systèmes d'information.
+Il est à ce titre l'interlocuteur des autres administrations et en particulier des services de l'opérateur national de paye, avec lesquels il contribue à la cohérence interministérielle des systèmes d'information.
 
 Le bureau de la prospective et des affaires internationales (B 2) :
 
-- contribue à l'élaboration et à la mise en oeuvre du programme d'études et de recherche sur la gestion des ressources humaines dans la fonction publique, notamment dans ses dimensions européennes et internationales ;
+- contribue à l'élaboration et à la mise en oeuvre du programme d'études et de recherche sur la gestion des ressources humaines dans la fonction publique, notamment dans ses dimensions européennes et internationales et à la lumière des pratiques en la matière dans le secteur privé ;
 
 - assure une fonction de veille sur les évolutions de l'emploi public et les pratiques de gestion des ressources humaines, en s'appuyant plus particulièrement sur les exemples étrangers ;
 
@@ -38,11 +38,11 @@ Le bureau des statistiques, des études et de l'évaluation (B 3) :
 
 Il représente, en tant que service statistique ministériel, le ministre chargé de la fonction publique au Conseil national de l'information statistique.
 
-Il contribue plus particulièrement, en liaison avec le bureau de la gestion prévisionnelle de l'emploi public, à l'établissement des données et informations présentées à l'Observatoire de l'emploi public.
+Il contribue plus particulièrement, en liaison avec le bureau de la gestion prévisionnelle de l'emploi public, à l'établissement des données et informations dans le rapport annuel sur l'état de la fonction publique.
 
-Le pôle " communication " :
+Le bureau de la communication et de la documentation (BCD), en liaison avec le service de la communication :
 
-- propose et met en oeuvre la politique de communication interne et externe et d'information du public et coordonne les actions dans ce domaine ;
+- propose et met en œuvre la politique de communication interne et externe et d'information du public et coordonne les actions dans ce domaine ;
 
 - élabore et suit la réalisation des supports de communication et d'information ;
 
@@ -50,7 +50,7 @@ Le pôle " communication " :
 
 - coordonne, pour ce qui concerne la direction générale, les relations avec la presse.
 
-Le centre de ressources documentaires :
+Par ailleurs, et en lien avec le centre de ressources documentaires rattaché à la direction des personnels et de l'adaptation de l'environnement professionnel, le bureau :
 
 - effectue une veille documentaire concernant la fonction publique et l'administration, en France et à l'étranger ;
 
