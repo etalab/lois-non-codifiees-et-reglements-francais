@@ -28,4 +28,6 @@ La direction générale des finances publiques exerce les missions suivantes :
 
 13° Elle pilote, anime et évalue ses services déconcentrés ;
 
-14° Elle définit la politique des ressources humaines pour ses services et assure la gestion de ses personnels ; elle alloue leurs moyens ; elle conçoit et met en œuvre les méthodes et instruments d'analyse, d'audit et de contrôle de gestion de leur activité permettant d'accroître leur performance.
+14° Elle définit la politique des ressources humaines pour ses services et assure la gestion de ses personnels ; elle alloue leurs moyens ; elle conçoit et met en œuvre les méthodes et instruments d'analyse, d'audit et de contrôle de gestion de leur activité permettant d'accroître leur performance ;
+
+15° Elle exerce une mission d'animation et de coordination en matière de pensions de l'Etat, en liaison avec les autres administrations civiles et militaires de l'Etat.
