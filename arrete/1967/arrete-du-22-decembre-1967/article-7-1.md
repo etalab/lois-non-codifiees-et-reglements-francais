@@ -14,7 +14,7 @@ Le dossier de demande d'assimilation aux restaurateurs prévu pour les personnes
 
 - une déclaration sur l'honneur du demandeur attestant la vente, à titre habituel, de préparations alimentaires immédiatement consommables permettant une alimentation variée.
 
-2. Dans les cas où les préparations alimentaires sont vendues au sein d'un magasin ayant une activité simultanée de vente au détail de produits alimentaires et de traiteur ou de préparation de plats cuisinés, la déclaration sur l'honneur précédente, complétée d'une mention certifiant que le demandeur dispose d'une caisse dédiée à l'encaissement des titres-restaurant.
+2. Dans les cas où les préparations alimentaires immédiatement consommables sont vendues au sein d'un magasin ayant une activité de vente au détail de produits alimentaires, la déclaration sur l'honneur précédente, complétée d'une mention certifiant que le demandeur s'engage à n'accepter les titres-restaurant aux caisses de sortie du magasin qu'en paiement de produits issus des familles de produits déclarées éligibles au titre-restaurant par la Commission nationale des titres-restaurant.
 
 3. Imprimé de la commission nationale des titres-restaurant revêtu du cachet commercial de la personne ou de l'organisme demandant l'agrément.
 
