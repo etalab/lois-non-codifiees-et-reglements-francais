@@ -505,7 +505,6 @@
 - [Arrêté du 16 septembre 1997 (EQUA0701485A)](arrete-du-16-septembre-1997-equa0701485a)
 - [Arrêté du 16 septembre 1997 (MAEA9720440A)](arrete-du-16-septembre-1997-maea9720440a)
 - [Arrêté du 16 septembre 1997 (MESS9722430A)](arrete-du-16-septembre-1997-mess9722430a)
-- [Arrêté du 16 mai 1997 (BUDF9700018A)](arrete-du-16-mai-1997-budf9700018a)
 - [Arrêté du 16 mai 1997 (COMX9702031A)](arrete-du-16-mai-1997-comx9702031a)
 - [Arrêté du 16 mai 1997 (COMX9702032A)](arrete-du-16-mai-1997-comx9702032a)
 - [Arrêté du 16 mai 1997 (MCCB9700290A)](arrete-du-16-mai-1997-mccb9700290a)
