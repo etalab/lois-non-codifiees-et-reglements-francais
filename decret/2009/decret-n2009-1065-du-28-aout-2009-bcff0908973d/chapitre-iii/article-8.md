@@ -1,0 +1,7 @@
+# Article 8
+
+I. ― Par dérogation au II de l'article 6 du décret du 29 avril 2002 susvisé dans sa rédaction issue du présent décret, l'option au titre du nombre de jours inscrits sur le compte épargne-temps au 31 décembre 2008 intervient au plus tard le 31 décembre 2009, après application, le cas échéant, de l'option instituée par l'article 4 du décret du 3 novembre 2008 susvisé dans sa rédaction issue du présent décret, et dès lors que ceux-ci sont encore disponibles.
+
+II. ― Lorsque, au plus tard le 31 décembre 2009, l'agent opte, dans les proportions qu'il souhaite, pour une prise en compte, le cas échéant, au sein du régime de retraite additionnelle de la fonction publique conformément aux dispositions de l'article 6-1 dans sa rédaction issue du présent décret ou pour une indemnisation conformément à l'article 6-2 dans sa rédaction issue du présent décret, pour les jours excédant le seuil mentionné à l'article 5 dans sa rédaction issue du présent décret, le versement qui en résulte s'effectue à hauteur de quatre jours par an jusqu'à épuisement du solde. Si la durée de versement qui en résulte est supérieure à quatre ans, celui-ci est opéré en quatre fractions annuelles d'égal montant.
+
+Toutefois, si l'agent cesse définitivement ses fonctions en application de l'article 24 de la loi du 13 juillet 1983 susvisée, ou en raison de la fin de son contrat, le solde éventuel dû à la cessation de ses fonctions lui est versé à cette date.
