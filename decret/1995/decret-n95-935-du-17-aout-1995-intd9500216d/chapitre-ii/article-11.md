@@ -1,9 +1,13 @@
 # Article 11
 
-Le registre des transactions auxquelles donne lieu l'exercice de la faculté des titulaires des autorisations de stationnement de présenter un successeur, mentionné au premier alinéa de l'article 5 de la loi du 20 janvier 1995 susvisée, contient, outre le montant des transactions, les noms, raisons sociales et numéros d'inscription aux registres des métiers ou du commerce du titulaire de l'autorisation et du successeur présenté. Ce registre est public.
+Sont inscrits au registre des transactions mentionné au premier alinéa de l'article 5 de la loi du 20 janvier 1995 susvisée :
 
-Les documents justificatifs de l'exploitation effective et continue de l'autorisation de stationnement prévus au deuxième alinéa du même article de ladite loi sont les suivants :
+a) Le montant des transactions ;
 
-1° Copie des déclarations de revenus et des avis d'imposition pour la période concernée ;
+b) Les noms et raisons sociales du titulaire de l'autorisation et du successeur présenté ;
 
-2° Carte professionnelle validée pour cinq ans lorsque le titulaire de l'autorisation qui exploite celle-ci personnellement est âgé de moins de soixante-ans, pour deux ans s'il a entre soixante et soixante-seize ans, ou document justificatif d'une exploitation par un salarié ou un locataire.
+c) Le numéro unique d'identification, inscrit au répertoire des entreprises tenu par l'Institut national de la statistique et des études économiques, attribué au successeur présenté.
+
+Ce registre est public.
+
+L'exploitation effective et continue de l'autorisation de stationnement se prouve par la copie des déclarations de revenus et des avis d'imposition pour la période concernée, et par celle de la carte professionnelle utilisée par l'exploitant pendant la période d'exploitation ou tout document justificatif démontrant une exploitation par un salarié ou un locataire.
