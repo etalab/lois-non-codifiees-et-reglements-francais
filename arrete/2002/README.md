@@ -799,5 +799,3 @@
 - [Arrêté du 31 juillet 2002 (EQUS0201363A)](arrete-du-31-juillet-2002-equs0201363a)
 - [Arrêté du 31 juillet 2002 (MENE0201869A)](arrete-du-31-juillet-2002-mene0201869a)
 - [Arrêté du 31 juillet 2002 (SANH0221808A)](arrete-du-31-juillet-2002-sanh0221808a)
-- [Arrêté du 31 octobre 2001 (MENP0102364A)](arrete-du-31-octobre-2001-menp0102364a)
-- [Arrêté du 31 octobre 2001 (MENP0102365A)](arrete-du-31-octobre-2001-menp0102365a)
