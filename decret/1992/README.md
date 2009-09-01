@@ -618,7 +618,6 @@
 - [Décret n°92-165 du 21 février 1992 (DOMP9200002D)](decret-n92-165-du-21-fevrier-1992-domp9200002d)
 - [Décret n°92-171 du 21 février 1992 (AGRX9100215D)](decret-n92-171-du-21-fevrier-1992-agrx9100215d)
 - [Décret n°92-172 du 21 février 1992 (AGRX9100216D)](decret-n92-172-du-21-fevrier-1992-agrx9100216d)
-- [Décret n°92-173 du 21 février 1992 (AGRX9100214D)](decret-n92-173-du-21-fevrier-1992-agrx9100214d)
 - [Décret n°92-181 du 21 février 1992 (INTA9200046D)](decret-n92-181-du-21-fevrier-1992-inta9200046d)
 - [Décret n°92-689 du 21 juillet 1992 (LOGC9200010D)](decret-n92-689-du-21-juillet-1992-logc9200010d)
 - [Décret n°92-706 du 21 juillet 1992 (EQUP9200411D)](decret-n92-706-du-21-juillet-1992-equp9200411d)
