@@ -56,6 +56,8 @@ III.-En matière de déroulement de carrière
 
 5° Mise en cessation progressive d'activité.
 
+6° Avancement d'échelon.
+
 IV.-En matière de mutation
 
 1° Ouverture du droit à la prise en charge des frais de changement de résidence.

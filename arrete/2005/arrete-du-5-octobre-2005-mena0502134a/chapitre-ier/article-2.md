@@ -52,13 +52,9 @@ II.-En matière de modalités d'exercice des fonctions
 
 14° Mise en disponibilité dans les cas prévus au titre V du décret du 16 septembre 1985 susvisé, sauf pour les cas où l'avis du Comité médical supérieur est requis.
 
-15° Détachement, en application des 8°, 10°, 11° et 12° de l'article 14 du décret du 16 septembre 1985 susvisé.
+15° Mise en détachement en application du titre II du décret du 16 septembre 1985 susvisé.
 
-16° Détachement, en application des dispositions du décret du 30 novembre 1984 susvisé.
-
-17° Détachement dans un corps relevant du ministre chargé de l'éducation nationale ou du ministre chargé de l'enseignement supérieur.
-
-18° Détachement dans un centre de formation d'apprentis.
+16° Mise en détachement en application des dispositions du décret du 30 novembre 1984 susvisé.
 
 III.-En matière de déroulement de carrière
 
@@ -96,9 +92,9 @@ V.-En matière disciplinaire
 
 1° Suspension en cas de faute grave conformément aux dispositions de l'article 30 de la loi du 13 juillet 1983 susvisée et de l'article 8 du décret du 7 octobre 1994 susvisé.
 
-2° Toutes sanctions disciplinaires prévues à l'article 66 de la loi du 11 janvier 1984 susvisée.
+2° Sanctions disciplinaires prévues à l'article 66 de la loi du 11 janvier 1984 susvisée.
 
-3° Toutes sanctions disciplinaires prévues à l'article 10 du décret du 7 octobre 1994 susvisé.
+3° Sanctions disciplinaires prévues à l'article 10 du décret du 7 octobre 1994 susvisé.
 
 VI.-En matière de cessation de fonctions
 
