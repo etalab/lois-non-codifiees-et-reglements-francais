@@ -20,15 +20,15 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </tr>
 <tr>
 <td align="center">
-<p align="left">Direction régionale d'Aquitaine </p>
+<p align="left">Direction régionale d'Aquitaine</p>
 </td>
 <td align="center">
-<p align="left">Chef du service administration des ressources </p>
+<p align="left">Chef du service administration des ressources</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Direction régionale d'Auvergne </p>
+<p align="left">Direction régionale d'Auvergne</p>
 </td>
 <td align="center">
 <p align="left">Chef du service statistique</p>
@@ -36,39 +36,7 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </tr>
 <tr>
 <td align="center">
-<p align="left">Direction régionale de Basse-Normandie </p>
-</td>
-<td align="center">
-<p align="left">Chef du service statistique </p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Direction régionale de Bourgogne </p>
-</td>
-<td align="center">
-<p align="left">Chef du service études et diffusion </p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Direction régionale de Bourgogne </p>
-</td>
-<td align="center">
-<p align="left">Chef du service administration des ressources </p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Direction régionale de Bretagne </p>
-</td>
-<td align="center">
-<p align="left">Chef du service administration des ressources </p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Direction régionale de Franche-Comté </p>
+<p align="left">Direction régionale de Basse-Normandie</p>
 </td>
 <td align="center">
 <p align="left">Chef du service statistique</p>
@@ -76,10 +44,50 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </tr>
 <tr>
 <td align="center">
-<p align="left">Direction régionale de Haute-Normandie </p>
+<p align="left">Direction régionale de Bourgogne</p>
 </td>
 <td align="center">
-<p align="left">Chef du service statistique </p>
+<p align="left">Chef du service études et diffusion</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Direction régionale de Bourgogne</p>
+</td>
+<td align="center">
+<p align="left">Chef du service administration des ressources</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Direction régionale de Bretagne</p>
+</td>
+<td align="center">
+<p align="left">Chef du service administration des ressources</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Direction régionale de Franche-Comté</p>
+</td>
+<td align="center">
+<p align="left">Chef du service statistique</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Direction régionale de Haute-Normandie</p>
+</td>
+<td align="center">
+<p align="left">Chef du service statistique</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Direction régionale du Limousin.</p>
+</td>
+<td>
+<p align="left">Chef du service de l'administration des ressources.</p>
 </td>
 </tr>
 <tr>
@@ -124,7 +132,7 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </tr>
 <tr>
 <td align="center">
-<p align="left">Centre national informatique d'Orléans </p>
+<p align="left">Centre national informatique d'Orléans</p>
 </td>
 <td align="center">
 <p align="left">Chef du service production</p>
@@ -132,25 +140,25 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </tr>
 <tr>
 <td align="center">
-<p align="left">Centre national informatique d'Orléans </p>
+<p align="left">Centre national informatique d'Orléans</p>
 </td>
 <td align="center">
 <p align="left">Chef du service développement</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
+<td align="center">
 <p align="left">Ecole nationale de la statistique et de l'analyse de l'information</p>
 </td>
-<td align="left" valign="top">
+<td align="center">
 <p align="left">Secrétaire général de l'ENSAI</p>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="left" valign="top">
 <p align="left">Centre de formation de l'INSEE de Libourne</p>
 </td>
-<td align="center">
+<td align="left" valign="top">
 <p align="left">Chef du service des affaires générales et chargé d'enseignement en gestion</p>
 </td>
 </tr>
@@ -164,14 +172,6 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </tr>
 <tr>
 <td align="center">
-<p align="left">Direction générale, unité des normes et systèmes d'information</p>
-</td>
-<td align="center">
-<p align="left">Responsable d'appui méthodologique au système statistique public et du suivi de la qualité </p>
-</td>
-</tr>
-<tr>
-<td align="center">
 <p align="left">Direction générale, département des services généraux</p>
 </td>
 <td align="center">
@@ -179,10 +179,10 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
+<td align="center">
 <p align="left">Direction générale, département répertoire infrastructures et statistiques structurelles</p>
 </td>
-<td align="left" valign="top">
+<td align="center">
 <p align="left">Chargé de l'interface ESANE/Services statistiques sectorielles</p>
 </td>
 </tr>
