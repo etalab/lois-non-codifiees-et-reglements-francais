@@ -1,10 +1,10 @@
 # Article 2
 
-La redevance est perçue à l'occasion de l'embarquement du passager. Toutefois, lorsque la nature particulière du trafic le justifie, le ministre chargé de l'aviation civile peut décider, après avis du conseil supérieur de l'aviation marchande, que la redevance est perçue' aussi bien au débarquement qu'à l'embarquement.
+La redevance est perçue à l'occasion de l'embarquement du passager. Toutefois, lorsque la nature particulière du trafic le justifie, le ministre chargé de l'aviation civile peut décider, après avis du conseil supérieur de l'aviation marchande, que la redevance est perçue aussi bien au débarquement qu'à l'embarquement.
 
 Les taux de la redevance peuvent varier selon les aéroports. Ils sont fixés par décision de l'exploitant de l'aéroport dans les conditions prévues par l'article R. 224-2 du code de l'aviation civile.
 
-Pour les passagers embarqués sur un même aéroport la redevance peut être fixée à des taux différents selon la zone géographique de destination du vol qu'ils effectuent et les destinations peuvent être réparties en quatre zones au maximum.
+Pour les passagers embarqués sur un même aéroport la redevance peut être fixée à des taux différents selon la zone géographique de destination du vol qu'ils effectuent et les destinations peuvent être réparties en quatre zones au maximum. Les destinations pour lesquelles les contrôles aux frontières ont été supprimés en application de l'accord de Schengen du 14 juin 1985 relatif à la suppression graduelle des contrôles aux frontières communes sont classées dans une zone unique.
 
 Pour les passagers en correspondance, la redevance perçue peut être fixée à un taux différent de celui applicable aux autres passagers embarqués sur le même aéroport. Pour l'application de cette disposition qui ne concerne pas les passagers en transit direct au sens de l'article 6 b du présent arrêté, sont considérés comme passagers en correspondance ceux remplissant les trois conditions cumulatives suivantes :
 
