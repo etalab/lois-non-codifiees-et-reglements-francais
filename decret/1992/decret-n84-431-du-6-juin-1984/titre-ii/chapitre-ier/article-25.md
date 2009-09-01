@@ -1,5 +1,7 @@
 # Article 25
 
-Les concours de recrutement prévus à l'article 22 sont ouverts par arrêté du ministre chargé de l'enseignement supérieur qui désigne le ou les emplois à pourvoir et précise éventuellement leurs caractéristiques.
+Les conditions de recevabilité aux concours de recrutement prévus à l'article 22, la procédure et le nombre maximum d'emplois sont fixés par arrêté du ministre chargé de l'enseignement supérieur.
 
-Ces emplois peuvent correspondre à une ou plusieurs sections du Conseil national des universités ou à une ou plusieurs sections du groupe des disciplines pharmaceutiques du Conseil national des universités pour les disciplines médicales, odontologiques et pharmaceutiques.
+Ces concours de recrutement sont ouverts par les établissements.
+
+Les caractéristiques et la localisation des emplois à pourvoir font l'objet d'une publication par voie électronique dans des conditions fixées par arrêté.

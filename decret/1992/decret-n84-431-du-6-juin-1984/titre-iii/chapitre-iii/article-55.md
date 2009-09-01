@@ -1,28 +1,91 @@
 # Article 55
 
-L'avancement d'échelon dans la 1ère et la 2ème classe du corps des professeurs des universités a lieu à l'ancienneté. Il est prononcé par arrêté du ministre de l'éducation nationale à l'ancienneté. L'ancienneté requise pour accéder aux divers échelons de ces deux classes est fixée ainsi qu'il suit :
+L'avancement d'échelon dans la 1ère et la 2ème classe du corps des professeurs des universités a lieu à l'ancienneté. Il est prononcé par arrêté du président ou du directeur de l'établissement à l'ancienneté. L'ancienneté requise pour accéder aux divers échelons de ces deux classes est fixée ainsi qu'il suit :
 
-CLASSES et avancement d'échelon, ANCIENNETE REQUISE pour l'accès à l'échelon supérieur :
-
-- 1ère classe :
-
-Du 2e au 3e échelon : 4 ans 4 mois
-
-Du 1er au 2e échelon : 4 ans 4 mois
-
-- 2ème classe :
-
-Du 5e au 6e échelon : 5 ans
-
-Du 4e au 5e échelon : 1 an
-
-Du 3e au 4e échelon : 1 an
-
-Du 2e au 3e échelon : 1 an
-
-Du 1er au 2e échelon : 1 an.
-
-Les professeurs des universités qui ont exercé, pendant une durée d'au moins trois ans, un mandat de président ou de directeur d'établissement public d'enseignement supérieur bénéficient, sur leur demande, d'une bonification d'ancienneté d'une durée égale à 60 % de la durée effective d'un seul mandat. Cette bonification est prise en compte pour l'avancement d'échelon. Elle ne peut être accordée à un professeur des universités qu'une seule fois.
+<table>
+<tbody>
+<tr>
+<td width="164">
+<p align="center">CLASSES <br/>(et avancement d'échelon)</p>
+</td>
+<td width="214">
+<p align="center">ANCIENNETE REQUISE<br/>(pour l'accès à l'échelon supérieur) :</p>
+</td>
+</tr>
+<tr>
+<td width="164">
+<p>1ère classe :</p>
+</td>
+<td width="214">
+<br/>
+</td>
+</tr>
+<tr>
+<td width="164">
+<p>Du 2e au 3e échelon</p>
+</td>
+<td width="214">
+<p align="center">3 an</p>
+</td>
+</tr>
+<tr>
+<td width="164">
+<p>Du 1er au 2e échelon</p>
+</td>
+<td width="214">
+<p align="center">3 an</p>
+</td>
+</tr>
+<tr>
+<td width="164">
+<p>2ème classe :</p>
+</td>
+<td width="214">
+<br/>
+</td>
+</tr>
+<tr>
+<td width="164">
+<p>Du 5e au 6e échelon</p>
+</td>
+<td width="214">
+<p align="center">3 ans 6 mois</p>
+</td>
+</tr>
+<tr>
+<td width="164">
+<p>Du 4e au 5e échelon</p>
+</td>
+<td width="214">
+<p align="center">1 an</p>
+</td>
+</tr>
+<tr>
+<td width="164">
+<p>Du 3e au 4e échelon</p>
+</td>
+<td width="214">
+<p align="center">1 an</p>
+</td>
+</tr>
+<tr>
+<td width="164">
+<p>Du 2e au 3e échelon</p>
+</td>
+<td width="214">
+<p align="center">1 an</p>
+</td>
+</tr>
+<tr>
+<td width="164">
+<p>Du 1er au 2e échelon</p>
+</td>
+<td width="214">
+<p align="center">1 an</p>
+</td>
+</tr>
+</tbody>
+</table>Les professeurs des universités qui ont exercé, pendant une durée d'au moins trois ans, un mandat de président ou de directeur d'établissement public d'enseignement supérieur bénéficient, sur leur demande, d'une bonification d'ancienneté d'une durée égale à 60 % de la durée effective d'un seul mandat. Cette bonification est prise en compte pour l'avancement d'échelon. Elle ne peut être accordée à un professeur des universités qu'une seule fois.
 
 Une bonification d'ancienneté d'un an prise en compte pour l'avancement d'échelon est accordée, sur leur demande, aux professeurs des universités qui ont accompli en cette qualité une mobilité au moins égale à deux ans ou à un an si la mobilité est effectuée dans un organisme d'enseignement supérieur ou de recherche d'un Etat de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen autre que la France. Cette bonification ne peut être accordée aux professeurs des universités qui ont déjà bénéficié d'une bonification d'ancienneté au titre de la mobilité.
 

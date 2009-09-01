@@ -1,6 +1,6 @@
 # Article 32
 
-Les maîtres de conférences sont nommés en qualité de stagiaire par arrêté du ministre chargé de l'enseignement supérieur. La durée du stage est fixée à un an.
+Les maîtres de conférences sont nommés en qualité de stagiaire pour une durée d'un an par arrêté du ministre chargé de l'enseignement supérieur.
 
 A l'issue du stage prévu à l'alinéa précédent, les maîtres de conférences stagiaires sont soit titularisés, soit maintenus en qualité de stagiaires pour une période d'un an, soit réintégrés dans leur corps d'origine, soit licenciés s'ils n'ont pas la qualité de fonctionnaire.
 
@@ -14,9 +14,9 @@ L'avis du conseil d'administration ainsi saisi se substitue à celui du conseil 
 
 Tout avis défavorable est motivé.
 
-Les décisions sont prononcées par arrêté du ministre chargé de l'enseignement supérieur conformément à l'avis, selon le cas, du conseil scientifique ou de l'organe en tenant lieu, ou, s'il a été saisi, du conseil d'administration, instances siégeant, dans tous les cas, en formation restreinte aux enseignants-chercheurs.
+Les décisions sont prononcées par arrêté du président ou du directeur de l'établissement conformément à l'avis, selon le cas, du conseil scientifique de l'établissement ou de l'organe en tenant lieu, ou, s'il a été saisi, du conseil d'administration, instances siégeant, dans tous les cas, en formation restreinte aux enseignants-chercheurs.
 
-Lors de la titularisation, la durée du stage prévu au premier alinéa du présent article est prise ne considération pour l'avancement. Il n'est pas tenu compte de la prologation de stage prévue au deuxième alinéa.
+Lors de la titularisation, la durée du stage prévu au premier alinéa du présent article est prise en considération pour l'avancement. Il n'est pas tenu compte de la prolongation de stage prévue au deuxième alinéa. Les maîtres de conférences sont classés par arrêté du président ou du directeur de l'établissement.
 
 Les enseignants-chercheurs et les enseignants associés ayant exercé pendant au moins deux années universitaires des fonctions en ces qualités ainsi que les vacataires à titre principal maintenus en fonctions par le décret n° 82-862 du 6 octobre 1982, recrutés comme maîtres de conférences, sont dispensés de stage. Bénéficient des mêmes dispositions les anciens enseignants associés ayant les mêmes durées de service qui ont cessé leur fonctions trois ans au plus avant leur nomination en qualité de maître de conférences.
 

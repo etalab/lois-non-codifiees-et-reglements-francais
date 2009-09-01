@@ -2,7 +2,7 @@
 
 Les concours par établissement mentionnés au 1° de l'article 42 sont organisés selon les modalités suivantes :
 
-1° Des concours sont ouverts aux candidats remplissant, à la date de clôture des inscriptions, les conditions mentionnées au 1° de l'article 44 ;
+1° Des concours sont ouverts aux candidats titulaires, à la date de clôture des inscriptions, d'une habilitation à diriger des recherches. Le doctorat d'Etat est admis en équivalence de l'habilitation à diriger des recherches. Les titulaires de diplômes universitaires, qualifications et titres de niveau équivalent peuvent être dispensés de la possession de l'habilitation à diriger des recherches par le Conseil national des universités ou, dans les disciplines pharmaceutiques, par le Conseil national des universités pour les disciplines médicales, odontologiques et pharmaceutiques, siégeant en application des dispositions de l'article 45. Les candidats exerçant une fonction d'enseignant-chercheur, d'un niveau équivalent à celui de l'emploi à pourvoir, dans un établissement d'enseignement supérieur d'un Etat autre que la France, titulaires de diplômes universitaires, qualifications et titres de niveau équivalent peuvent être dispensés de la possession de l'habilitation à diriger des recherches par le conseil scientifique de l'établissement dans les conditions prévues à l'article 43.
 
 2° Dans la limite du neuvième des emplois mis aux concours dans l'ensemble des disciplines, des concours sont réservés aux maîtres de conférences remplissant les conditions définies au 1° de l'article 44, qui ont accompli, au 1er janvier de l'année du concours, cinq années de service dans l'enseignement supérieur ou ont été chargés, depuis au moins quatre ans au 1er janvier de l'année du concours, d'une mission de coopération culturelle, scientifique et technique en application de la loi n° 72-889 du 13 juillet 1972. En outre, les intéressés doivent soit être affectés dans un établissement d'enseignement supérieur autre que celui où est ouvert l'emploi, soit avoir accompli en qualité de maître de conférences ou de maître-assistant une mobilité au moins égale à deux ans dans les conditions prévues au troisième alinéa de l'article 39 ;
 
@@ -26,7 +26,7 @@ d) A des directeurs de recherche, pour des nominations comme professeur des univ
 
 -avoir effectué pendant au moins deux ans au 1er janvier de l'année du concours un service d'enseignement dans un établissement d'enseignement supérieur selon des modalités définies par le ministre chargé de l'enseignement supérieur.
 
-Les concours prévus au 4° du présent article peuvent être ouverts à des candidats ne possédant pas la qualité de fonctionnaire soit pour des nominations comme professeur de 1re classe, soit, dans la limite de 1 % des emplois offerts aux concours, pour des nominations comme professeur de classe exceptionnelle.
+En application des dispositions de l'article L. 952-6 du code de l'éducation, les concours prévus au présent article peuvent être ouverts soit pour des nominations comme professeur de 1re classe, soit pour des nominations comme professeur de classe exceptionnelle aux candidats ne possédant pas la qualité de fonctionnaire.
 
 Les candidats nommés à l'issue des concours prévus au 2° du présent article peuvent être maintenus, dans l'intérêt du service, en mission de coopération pour une période de deux ans au plus.
 

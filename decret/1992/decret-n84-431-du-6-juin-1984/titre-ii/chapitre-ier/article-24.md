@@ -8,10 +8,10 @@ Les rapporteurs, qui peuvent recueillir sur les dossiers des candidats l'avis é
 
 Le bureau communique par écrit à chaque candidat non inscrit sur la liste les motifs pour lesquels sa candidature a été écartée.
 
-Les candidats dont la qualification a fait l'objet de deux refus consécutifs de la part d'une section du Conseil national des universités ou d'une section du groupe des disciplines pharmaceutiques du Conseil national des universités pour les disciplines médicales, odontologiques et pharmaceutiques, au cours des deux années précédentes, peuvent saisir de leur candidature le groupe compétent du Conseil national des universités ou le groupe des disciplines pharmaceutiques du Conseil national des universités pour les disciplines médicales, odontologiques et pharmaceutiques en formation restreinte aux bureaux de section. Ces formations siègent selon les dispositions prévues par le présent article. Elles procèdent en outre à l'audition des candidats.
+Les candidats dont la qualification a fait l'objet de deux refus consécutifs de la part d'une section du Conseil national des universités ou d'une section du groupe des disciplines pharmaceutiques du Conseil national des universités pour les disciplines médicales, odontologiques et pharmaceutiques, au cours des deux années précédentes, peuvent saisir de leur candidature le groupe compétent du Conseil national des universités ou le groupe des disciplines pharmaceutiques du Conseil national des universités pour les disciplines médicales, odontologiques et pharmaceutiques en formation restreinte aux bureaux de section. Ces formations siègent selon les dispositions prévues par le présent article. Elles procèdent en outre à l'audition des candidats. Les candidats dont la qualification a fait l'objet d'un refus de la part du groupe compétent peuvent à nouveau le saisir lorsque leur candidature a fait l'objet de deux nouveaux refus consécutifs de la part d'une section au cours des deux années précédentes.
 
 La liste de qualification aux fonctions de maître de conférences est rendue publique.
 
-Elle cesse d'être valable à l'expiration d'une période de quatre ans.
+La liste de qualification cesse d'être valable à l'expiration d'une période de quatre années à compter du 31 décembre de l'année de l'inscription sur la liste de qualification.
 
 Les modalités d'application du présent article sont fixées par arrêté du ministre chargé de l'enseignement supérieur.

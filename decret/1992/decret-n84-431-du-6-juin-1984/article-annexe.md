@@ -8,7 +8,7 @@ Collège de France ;
 
 Conservatoire national des arts et métiers ;
 
-Ecole centrale des arts et manufactures ;
+Ecole centrale des arts et amnufactures ;
 
 Ecole des hautes études en sciences sociales ;
 
@@ -22,8 +22,10 @@ Institut national d'hydrologie et de climatologie ;
 
 Institut national des langues et civilisations orientales ;
 
-Muséum national d'histoire naturelle ;
+Munséum national d'histoire naturelle ;
 
 Observatoires astronomiques ;
 
-Instituts et Observatoires de physique du globe.
+Instituts et Observatoires de physique du globe ;
+
+Ecole française d'Extrême-Orient.

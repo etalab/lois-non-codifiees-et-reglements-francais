@@ -1,13 +1,17 @@
 # Article 3
 
-Les enseignants chercheurs concourent à l'accomplissement des missions de service public de l'enseignement supérieur définies par la loi du 26 janvier 1984 susvisée.
+Les enseignants-chercheurs participent à l'élaboration, par leur recherche, et assurent la transmission, par leur enseignement, des connaissances au titre de la formation initiale et continue incluant, le cas échéant, l'utilisation des technologies de l'information et de la communication. Ils assurent la direction, le conseil, le tutorat et l'orientation des étudiants et contribuent à leur insertion professionnelle. Ils organisent leurs enseignements au sein d'équipes pédagogiques dans tous les cursus universitaires et en liaison avec les milieux professionnels. Ils établissent à cet effet une coopération avec les entreprises publiques ou privées.
 
-Ils participent à l'élaboration et assurent la transmission des connaissances au titre de la formation initiale et continue. Ils assurent la direction, le conseil et l'orientation des étudiants. Ils organisent leurs enseignements au sein d'équipes pédagogiques et en liaison avec les milieux professionnels. Ils établissent à cet effet une coopération avec les entreprises publiques ou privées. Ils concourent à la formation des maîtres et à l'éducation permanente.
+Ils concourent à la formation des maîtres et à la formation tout au long de la vie.
 
-Ils ont également pour mission le développement de la recherche fondamentale, appliquée, pédagogique ou technologique ainsi que la valorisation de ses résultats. Ils participent au développement scientifique et technologique en liaison avec les grands organismes de recherche et avec les secteurs sociaux et économiques concernés. Ils concourent à la réalisation des objectifs définis par la loi n° 82-610 du 15 juillet 1982 d'orientation et de programmation pour la recherche et le développement technologique de la France. Ils contribuent à la coopération entre la recherche universitaire, la recherche industrielle et l'ensemble des secteurs de production.
+Ils ont également pour mission le développement, l'expertise et la coordination de la recherche fondamentale, appliquée, pédagogique ou technologique ainsi que la valorisation de ses résultats. Ils participent au développement scientifique et technologique en liaison avec les grands organismes de recherche et avec les secteurs sociaux et économiques concernés. Ils contribuent à la coopération entre la recherche universitaire, la recherche industrielle et l'ensemble des secteurs de production.
 
-Ils participent à la diffusion de la culture et de l'information scientifique et technique. Ils assurent le cas échéant, la conservation et l'enrichissement des collections confiées aux établissements et peuvent être chargés des questions documentaires dans leur unité, école ou institut.
+Ils participent aux jurys d'examen et de concours.
 
-Ils contribuent au sein de la communauté scientifique et culturelle internationale à la transmission des connaissances et à la formation. Ils contribuent également au progrès de la recherche. Ils peuvent se voir confier des missions de coopération internationale.
+Ils contribuent au dialogue entre sciences et sociétés, notamment par la diffusion de la culture et de l'information scientifique et technique. Ils peuvent concourir à la conservation et l'enrichissement des collections et archives confiées aux établissements et peuvent être chargés d'activités documentaires.
 
-Ils participent aux jurys d'examen et de concours. Ils participent également aux instances prévues par la loi sur l'enseignement supérieur, par la loi d'orientation et de programmation pour la recherche et le développement technologique de la France ou par les statuts des établissements.
+Ils contribuent au sein de la communauté scientifique et culturelle internationale à la transmission des connaissances et à la formation à la recherche et par la recherche. Ils contribuent également au progrès de la recherche internationale. Ils peuvent se voir confier des missions de coopération internationale.
+
+Ils concourent à la vie collective des établissements et participent aux conseils et instances prévus par le code de l'éducation et le code de la recherche ou par les statuts des établissements.
+
+Les professeurs des universités ont vocation prioritaire à assurer leur service d'enseignement sous forme de cours ainsi que la direction des unités de recherche.

@@ -14,4 +14,8 @@ c) D'une entreprise ou de tout autre organisme public ou privé.
 
 Un enseignant chercheur peut également être placé en délégation pour créer une entreprise.
 
-La délégation peut être prononcée pour l'application des dispositions de l'article 25-1 de la loi n° 82-610 du 15 juillet 1982 d'orientation et de programmation pour la recherche et le développement technologique de la France.
+La délégation peut être prononcée pour l'application des dispositions des articles L. 413-1 à L. 413-7 du code de la recherche.
+
+Par exception au premier alinéa du présent article, les maîtres de conférences stagiaires peuvent être placés en délégation si l'établissement d'accueil est un établissement ou un organisme de recherche mentionné au livre III du code de la recherche et si l'intéressé assure au moins le tiers du service d'enseignement.
+
+En vue de la titularisation de l'intéressé, l'établissement ou l'organisme de recherche mentionné à l'alinéa précédent formule un avis sur l'activité du maître de conférences placé en délégation. Cet avis est pris en compte par le conseil scientifique ou l'organe en tenant lieu et, s'il a été saisi, par le conseil d'administration, dans le cadre de la procédure prévue à l'article 32.
