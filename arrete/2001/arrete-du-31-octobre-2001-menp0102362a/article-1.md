@@ -1,17 +1,17 @@
 # Article 1
 
-Les fonctions d'expertise et de conseil mentionnées au huitième alinéa de l'article 7 du décret du 6 juin 1984 susvisé sont les suivantes :
+Les fonctions d'expertise et de conseil mentionnées   au IV de l'article 7 du décret du 6 juin 1984 susvisé sont les suivantes :
 
-- directeur de programme ;
+-directeur de programme ;
 
-- directeur scientifique ;
+-directeur scientifique ;
 
-- directeur scientifique adjoint ;
+-directeur scientifique adjoint ;
 
-- conseiller scientifique ;
+-conseiller scientifique ;
 
-- coordinateur scientifique ;
+-coordinateur scientifique ;
 
-- conseiller d'établissement ;
+-conseiller d'établissement ;
 
-- conseiller pédagogique.
+-conseiller pédagogique.
