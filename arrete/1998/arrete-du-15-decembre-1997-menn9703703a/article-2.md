@@ -2,24 +2,24 @@
 
 La liste prévue à l'article 1er ci-dessus est fixée comme suit :
 
--universités, instituts nationaux polytechniques ;
+Etablissements publics à caractère scientifique, culturel et professionnel mentionnés à l' article L. 711-2 du code de l'éducation  ;
 
--écoles et instituts extérieurs aux universités mentionnés aux articles 24 et 34 de la loi du 26 janvier 1984 susvisée ;
+Etablissements publics à caractère administratif rattachés à un établissement public à caractère scientifique, culturel et professionnel en application de  l'article L. 719-10 du code de l'éducation  ;
 
--établissements relevant de l'article 37 de la loi du 26 janvier 1984 susvisée ;
+Etablissements publics de coopération scientifique mentionnés à l'article L. 344-4 du code de la recherche ;
 
--établissements publics à caractère administratif rattachés à un établissement public à caractère scientifique, culturel et professionnel en application de l'article 43 de la loi du 26 janvier 1984 susvisée ;
+Ecoles d'ingénieurs ayant le statut d'établissement public à caractère administratif autonome ;
 
--écoles d'ingénieurs ayant le statut d'établissement public à caractère administratif autonome ;
+Observatoire de la Côte d'Azur ;
 
--instituts universitaires de formation des maîtres ;
+Ecole nationale supérieure des arts et techniques du théâtre ;
 
--Université française du Pacifique ;
+Ecole nationale supérieure Louis Lumière ;
 
--observatoire de la Côte d'Azur ;
+Ecole nationale supérieure de la nature et du paysage de Blois ;
 
--Ecole nationale supérieure des arts et techniques du théâtre ;
+Centre universitaire de formation et de recherche du Nord-Est Midi-Pyrenées Jean-François Champollion ;
 
--Ecole nationale supérieure Louis-Lumière ;
+Institut national de la recherche pédagogique ;
 
--Ecole nationale supérieure de la nature et du paysage de Blois.
+Institut national supérieur de formation et de recherche pour l'éducation des jeunes handicapés et les enseignements adaptés.

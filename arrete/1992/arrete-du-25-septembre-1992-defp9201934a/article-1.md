@@ -30,7 +30,9 @@ Centre de formation et d'entraînement des forces de protection, de sécurité e
 
 Unités d'encadrement des unités de protection en métropole ;
 
-Escadron de maintenance cynophile de l'armée de l'air.
+Escadron de maintenance cynophile de l'armée de l'air ;
+
+Division aérotactique de l'escadron de survie opérationnelle et des parachutistes d'essai (ESOPE) de l'armée de l'air.
 
 3° Gendarmerie :
 
