@@ -2,6 +2,8 @@
 
 La liste des épreuves anticipées du baccalauréat général et du baccalauréat technologique est fixée comme suit :
 
-Baccalauréat général et baccalauréat technologique : Français dans toutes les séries.
+Baccalauréat général et technologique : français et littérature en série littéraire, français dans les séries économique et sociale, scientifique, et dans toutes les séries technologiques ;
 
-Baccalauréat technologique : Histoire-géographie en séries S.T.I. (Sciences et technologies industrielles), S.T.L. (Sciences et technologies de laboratoire) et S.M.S. (Sciences médicosociales).
+Baccalauréat général : "enseignement scientifique" en séries économique et sociale et littéraire, "mathématiques - informatique" en série littéraire, "travaux personnels encadrés" en séries économique et sociale, littéraire et scientifique.
+
+Baccalauréat technologique : histoire-géographie en séries sciences et technologies industrielles, sciences et technologies de laboratoires.
