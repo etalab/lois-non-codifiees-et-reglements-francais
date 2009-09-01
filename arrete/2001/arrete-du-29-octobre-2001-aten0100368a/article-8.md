@@ -1,6 +1,6 @@
 # Article 8
 
-La Commission nationale chargée de choisir les sujets des épreuves de l'examen, d'élaborer les questionnaires et leurs corrigés et de fixer les barèmes de notation et les questions et épreuves éliminatoires est présidée par le directeur de la nature et des paysages et comprend :
+La Commission nationale chargée de choisir les sujets des épreuves de l'examen, d'élaborer les questionnaires et leurs corrigés et de fixer les barèmes de notation et les questions et épreuves éliminatoires est présidée par le directeur chargé de la chasse et comprend :
 
 - le sous-directeur chargé de la chasse ou son représentant ;
 
