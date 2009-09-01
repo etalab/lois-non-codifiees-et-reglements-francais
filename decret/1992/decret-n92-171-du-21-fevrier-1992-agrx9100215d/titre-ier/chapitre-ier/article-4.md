@@ -1,3 +1,3 @@
 # Article 4
 
-Les membres des corps d'enseignants-chercheurs régis par le présent décret ne peuvent être mutés que sur leur demande selon la procédure et dans les conditions prévues aux articles 29, 30 et 46 ci-après.
+Tout enseignant-chercheur doit avoir la possibilité de participer aux travaux d'une équipe de recherche, dans des conditions fixées par le conseil d'administration, le cas échéant, dans un établissement autre que son établissement d'affectation.

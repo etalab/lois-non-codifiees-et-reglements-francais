@@ -1,6 +1,6 @@
 # Article 37
 
-Les professeurs sont recrutés par concours nationaux en vue de pourvoir un ou plusieurs emplois d'une même discipline vacants dans un ou plusieurs établissements.
+I. - Les professeurs sont recrutés par concours en vue de pourvoir un ou plusieurs emplois vacants dans un établissement.
 
 Les candidats doivent remplir l'une des conditions suivantes :
 
@@ -8,4 +8,4 @@ Les candidats doivent remplir l'une des conditions suivantes :
 
 2° Etre titulaire du doctorat d'Etat.
 
-Les candidats ne possédant pas les diplômes énumérés aux 1° et 2° ci-dessus, en particulier dans les disciplines spécifiques de l'enseignement supérieur relevant du ministre chargé de l'agriculture, mais justifiant de titres, diplômes, qualifications, travaux ou services d'un niveau comparable, peuvent être autorisés à concourir par décision du ministre après avis favorable de la Commission nationale des enseignants-chercheurs siégeant dans la formation prévue au deuxième alinéa de l'article 18 du décret n° 92-172 du 21 février 1992 susvisé.
+II. - Les candidats ne possédant pas les diplômes énumérés aux 1° et 2°, en particulier dans les disciplines spécifiques de l'enseignement supérieur relevant du ministre chargé de l'agriculture, mais justifiant de titres, diplômes, qualifications, y compris professionnelles, travaux ou services d'un niveau jugé équivalent à l'emploi à pourvoir, peuvent être également autorisés à concourir par décision du ministre après avis de la Commission nationale des enseignants-chercheurs siégeant dans la formation prévue au premier alinéa de l'article 18 du décret n° 92-172 du 21 février 1992 susvisé.

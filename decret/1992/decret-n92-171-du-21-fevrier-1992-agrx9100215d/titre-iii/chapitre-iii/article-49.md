@@ -4,41 +4,72 @@ L'avancement d'échelon dans les première et deuxième classes du corps des pro
 
 L'ancienneté requise pour accéder aux divers échelons de ces deux classes est fixée ainsi qu'il suit :
 
-CLASSES ET AVANCEMENT D'ÉCHELONS
-
-ANCIENNETÉ REQUISE pour l'accès à l'échelon supérieur
-
-1re classe
-
-Du 2e  au 3e échelon
-
-4 ans 4 mois
-
-Du 1er échelon au 2e échelon
-
-4 ans 4 mois
-
-2e classe
-
-Du 5e  au 6e échelon
-
-5 ans
-
-Du 4e  au 5e échelon
-
-1 an
-
-Du 3e  au 4e échelon
-
-1 an
-
-Du 2e  au 3e échelon
-
-1 an
-
-Du 1er au 2e échelon
-
-1 an
+<table>
+<tbody>
+<tr>
+<td>
+<p>CLASSES ET AVANCEMENT </p>
+<p align="center">D'ÉCHELONS </p>
+</td>
+<td>
+<p> ANCIENNETÉ REQUISE pour l'accès</p>
+<p align="center"> à l'échelon supérieur</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center"> 1re classe</p>
+</td>
+</tr>
+<tr>
+<td> Du 2e au 3e échelon</td>
+<td>
+<p align="center"> 3 ans </p>
+</td>
+</tr>
+<tr>
+<td> Du 1er échelon au 2e échelon</td>
+<td>
+<p align="center"> 3 ans </p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center"> 2e classe</p>
+</td>
+</tr>
+<tr>
+<td> Du 5e au 6e échelon</td>
+<td>
+<p align="center">3 ans 6 mois</p>
+</td>
+</tr>
+<tr>
+<td> Du 4e au 5e échelon</td>
+<td>
+<p align="center"> 1 an</p>
+</td>
+</tr>
+<tr>
+<td> Du 3e au 4e échelon</td>
+<td>
+<p align="center"> 1 an</p>
+</td>
+</tr>
+<tr>
+<td> Du 2e au 3e échelon</td>
+<td>
+<p align="center"> 1 an</p>
+</td>
+</tr>
+<tr>
+<td> Du 1er au 2e échelon</td>
+<td>
+<p align="center"> 1 an</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 Une bonification d'ancienneté d'un an prise en compte pour l'avancement d'échelon est accordée, sur leur demande, aux professeurs qui ont accompli en cette qualité une mobilité au moins égale à deux ans ou à un an si la mobilité est effectuée dans un organisme d'enseignement supérieur ou de recherche d'un Etat de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen autre que la France. Cette bonification ne peut être accordée aux professeurs qui ont déjà bénéficié d'une bonification d'ancienneté au titre de la mobilité.
 

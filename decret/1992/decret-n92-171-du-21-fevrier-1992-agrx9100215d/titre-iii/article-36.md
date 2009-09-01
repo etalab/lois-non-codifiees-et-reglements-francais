@@ -6,4 +6,4 @@ Ce corps comporte une 2e classe comprenant six échelons, une 1re classe compren
 
 Les professeurs assurent, dans les enseignements auxquels ils participent, la préparation des programmes et l'orientation des étudiants en collaboration avec les autres enseignants-chercheurs.
 
-Ils sont habilités à diriger des recherches et assurent notamment la direction des travaux de recherche menés dans l'établissement.
+Ils sont habilités à diriger des recherches et assurent notamment la direction des travaux de recherche menés dans l'établissement concurremment avec les autres enseignants ou chercheurs habilités à diriger ces travaux.
