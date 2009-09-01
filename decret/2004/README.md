@@ -1063,7 +1063,6 @@
 - [Décret n°2004-640 du 30 juin 2004 (SOCU0410791D)](decret-n2004-640-du-30-juin-2004-socu0410791d)
 - [Décret n°2004-645 du 30 juin 2004 (DEVP0420028D)](decret-n2004-645-du-30-juin-2004-devp0420028d)
 - [Décret n°2004-646 du 30 juin 2004 (DEVP0420029D)](decret-n2004-646-du-30-juin-2004-devp0420029d)
-- [Décret n°2004-659 du 30 juin 2004 (MENE0401329D)](decret-n2004-659-du-30-juin-2004-mene0401329d)
 - [Décret n°2004-894 du 30 août 2004 (PRMX0407551D)](decret-n2004-894-du-30-aout-2004-prmx0407551d)
 - [Décret n°2004-898 du 30 août 2004 (INTC0400215D)](decret-n2004-898-du-30-aout-2004-intc0400215d)
 - [Décret n°2004-899 du 30 août 2004 (INTC0400219D)](decret-n2004-899-du-30-aout-2004-intc0400219d)
