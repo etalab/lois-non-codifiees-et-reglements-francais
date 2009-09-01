@@ -1,0 +1,3 @@
+# Article 10
+
+Les titulaires du diplôme d'Etat de moniteur-éducateur justifiant, à compter du début de leur formation à ce diplôme, d'un ou plusieurs contrats de travail à un poste éducatif, d'une durée totale cumulée d'au moins deux ans sont dispensés du domaine de formation 1 " accompagnement social et éducatif spécialisé " et des premières parties des domaines de formation 2, 3 et 4 dénommées " participation à l'élaboration et à la conduite du projet éducatif spécialisé ", " travail en équipe pluriprofessionnelle " et " implication dans les dynamiques institutionnelles " ainsi que des épreuves de certification s'y rapportant.

@@ -74,9 +74,22 @@ l'article 58 du décret du 3 décembre 1983 susvisé</font>
 </td>
 </tr>
 <tr>
+<td>
+<p align="center">Rectorat de l'académie de Caen</p>
+</td>
+<td>
+<p align="center">
+<br/>Adjoint au secrétaire général d'académie</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
 <td align="center">Rectorat de l'académie de Créteil <br/>
 </td>
-<td align="center">Adjoint au secrétaire général d'académie <br/>
+<td align="center">Adjoint au secrétaire général d'académie, directeur des établissements et de la performance<br/>
+<br/>
 </td>
 <td align="center">1 <br/>
 </td>
@@ -114,11 +127,33 @@ l'article 58 du décret du 3 décembre 1983 susvisé</font>
 </td>
 </tr>
 <tr>
+<td>
+<p align="center">Rectorat de l'académie de Dijon</p>
+</td>
+<td>
+<p align="center">Adjoint au secrétaire général d'académie</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
 <td align="center">Rectorat de l'académie de Grenoble <br/>
 </td>
 <td align="center">Adjoint au secrétaire général d'académie <br/>
 </td>
 <td align="center">1 <br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Rectorat de l'académie de Grenoble</p>
+</td>
+<td>
+<p align="center">Adjoint au secrétaire général d'académie, directeur des ressources humaines</p>
+</td>
+<td>
+<p align="center">1</p>
 </td>
 </tr>
 <tr>
@@ -140,8 +175,7 @@ l'article 58 du décret du 3 décembre 1983 susvisé</font>
 <tr>
 <td align="center">Rectorat de l'académie de Lille <br/>
 </td>
-<td align="center">Adjoint au secrétaire général d'académie, coordonnateur et pilote de la LOLF et des moyens en EPLE <br/>
-</td>
+<td align="center">Adjoint au secrétaire général d'académie, coordonnateur et pilote de la LOLF et de la politique éducative</td>
 <td align="center">1 <br/>
 </td>
 </tr>
@@ -218,6 +252,17 @@ l'article 58 du décret du 3 décembre 1983 susvisé</font>
 </td>
 </tr>
 <tr>
+<td>
+<p align="center">Rectorat de l'académie de Nantes</p>
+</td>
+<td>
+<p align="center">Adjoint au secrétaire général d'académie, en charge des moyens, du pilotage et du contrôle de gestion</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
 <td align="center">Académie de Nantes-Inspection académique de la Loire-Atlantique <br/>
 </td>
 <td align="center">Secrétaire général <br/>
@@ -228,7 +273,7 @@ l'article 58 du décret du 3 décembre 1983 susvisé</font>
 <tr>
 <td align="center">Rectorat de l'académie de Nice <br/>
 </td>
-<td align="center">Adjoint au secrétaire général d'académie <br/>
+<td align="center">Directeur des prospectives et du budget académique<br/>
 </td>
 <td align="center">1 <br/>
 </td>
@@ -287,6 +332,17 @@ l'article 58 du décret du 3 décembre 1983 susvisé</font>
 <td align="center">Adjoint au secrétaire général d'académie, en charge du second degré <br/>
 </td>
 <td align="center">1 <br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Rectorat de l'académie de Poitiers</p>
+</td>
+<td>
+<p align="center">Adjoint au secrétaire général d'académie</p>
+</td>
+<td>
+<p align="center">1</p>
 </td>
 </tr>
 <tr>
@@ -351,6 +407,17 @@ l'article 58 du décret du 3 décembre 1983 susvisé</font>
 <td align="center">Secrétaire général <br/>
 </td>
 <td align="center">1 <br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Rectorat de l'académie de Strasbourg</p>
+</td>
+<td>
+<p align="center">Adjoint au secrétaire général d'académie</p>
+</td>
+<td>
+<p align="center">1</p>
 </td>
 </tr>
 <tr>

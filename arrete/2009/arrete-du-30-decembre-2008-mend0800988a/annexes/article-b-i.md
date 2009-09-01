@@ -2,7 +2,6 @@
 
 -
 
-<div>
 <table>
 <tbody>
 <tr>
@@ -49,6 +48,11 @@
 </td>
 </tr>
 <tr>
+<td align="center">Rectorat de l'académie d'Aix-Marseille </td>
+<td align="center">Responsable de la division financière </td>
+<td align="center">1</td>
+</tr>
+<tr>
 <td align="center">Académie d'Aix-Marseille-Inspection académique des Alpes-de-Haute-Provence <br/>
 </td>
 <td align="center">Secrétaire général <br/>
@@ -87,6 +91,12 @@
 </td>
 <td align="center">2 <br/>
 </td>
+</tr>
+<tr>
+<td align="center">Académie d'Aix-Marseille - Etablissement public local d'enseignement - Lycée <br/>
+</td>
+<td align="center">Agent comptable </td>
+<td align="center">2</td>
 </tr>
 <tr>
 <td align="center">Rectorat de l'académie d'Amiens <br/>
@@ -143,6 +153,12 @@
 </td>
 <td align="center">2 <br/>
 </td>
+</tr>
+<tr>
+<td align="center">Académie d'Amiens - Etablissement public local d'enseignement - Lycée <br/>
+</td>
+<td align="center">Agent comptable </td>
+<td align="center">3</td>
 </tr>
 <tr>
 <td align="center">Rectorat de l'académie de Besançon <br/>
@@ -225,6 +241,12 @@
 </td>
 </tr>
 <tr>
+<td align="center">Académie de Besançon ― Etablissement public local d'enseignement ― Lycée <br/>
+</td>
+<td align="center">Agent comptable </td>
+<td align="center">1</td>
+</tr>
+<tr>
 <td align="center">Rectorat de l'académie de Bordeaux <br/>
 </td>
 <td align="center">Adjoint au secrétaire général d'académie <br/>
@@ -304,12 +326,10 @@
 </td>
 </tr>
 <tr>
-<td align="center">Rectorat de l'académie de Caen <br/>
+<td align="center">Académie de Bordeaux - Etablissement public local d'enseignement - Lycée <br/>
 </td>
-<td align="center">Adjoint au secrétaire général d'académie <br/>
-</td>
-<td align="center">1 <br/>
-</td>
+<td align="center">Agent comptable </td>
+<td align="center">3</td>
 </tr>
 <tr>
 <td align="center">Rectorat de l'académie de Caen <br/>
@@ -334,6 +354,12 @@
 </td>
 <td align="center">1 <br/>
 </td>
+</tr>
+<tr>
+<td align="center">Rectorat de l'académie de Caen </td>
+<td align="center">Responsable de la division des affaires financières <br/>
+</td>
+<td align="center">1</td>
 </tr>
 <tr>
 <td align="center">Académie de Caen-Inspection académique du Calvados <br/>
@@ -374,6 +400,11 @@
 </td>
 <td align="center">1 <br/>
 </td>
+</tr>
+<tr>
+<td align="center">Académie de Caen - Etablissement public local d'enseignement - Lycée </td>
+<td align="center">Agent comptable </td>
+<td align="center">1</td>
 </tr>
 <tr>
 <td align="center">Rectorat de l'académie de Clermont-Ferrand <br/>
@@ -448,6 +479,11 @@
 </td>
 </tr>
 <tr>
+<td align="center">Académie de Clermont-Ferrand - Etablissement public local d'enseignement - Lycée </td>
+<td align="center">Agent comptable </td>
+<td align="center">2</td>
+</tr>
+<tr>
 <td align="center">Rectorat de l'académie de Corse <br/>
 </td>
 <td align="center">Adjoint au secrétaire général d'académie, directeur de cabinet du recteur jusqu'au 2 mars 2008 <br/>
@@ -479,6 +515,17 @@
 <td align="center">Adjoint au secrétaire général d'académie, chargé des fonctions de gestion des relations et ressources humaines à compter du 21 juin 2008 <br/>
 </td>
 <td align="center">1 <br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Rectorat de l'académie de Corse</p>
+</td>
+<td>
+<p align="center">Chargé de mission</p>
+</td>
+<td>
+<p align="center">1</p>
 </td>
 </tr>
 <tr>
@@ -516,7 +563,7 @@
 <tr>
 <td align="center">Rectorat de l'académie de Créteil <br/>
 </td>
-<td align="center">Responsable de la division de l'organisation <br/>
+<td align="center">Chef de la division de l'accompagnement du pilotage des établissements <br/>
 </td>
 <td align="center">1 <br/>
 </td>
@@ -524,10 +571,34 @@
 <tr>
 <td align="center">Rectorat de l'académie de Créteil <br/>
 </td>
-<td align="center">Responsable de la division des affaires financières <br/>
+<td align="center">Adjoint au secrétaire général, directeur de l'organisation des services académiques <br/>
 </td>
 <td align="center">1 <br/>
 </td>
+</tr>
+<tr>
+<td align="center">Rectorat de l'académie de Créteil </td>
+<td align="center">Responsable de la division de l'informatique <br/>
+</td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td align="center">Rectorat de l'académie de Créteil </td>
+<td align="center">Responsable de la division de la prospective <br/>
+</td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td align="center">Rectorat de l'académie de Créteil </td>
+<td align="center">Conseiller technique auprès du recteur de l'académie <br/>
+</td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td align="center">Rectorat de l'académie de Créteil </td>
+<td align="center">Chef de la division de l'administration et des personnels <br/>
+</td>
+<td align="center">1</td>
 </tr>
 <tr>
 <td align="center">Académie de Créteil-Etablissement public local d'enseignement-Lycée <br/>
@@ -546,12 +617,10 @@
 </td>
 </tr>
 <tr>
-<td align="center">Rectorat de l'académie de Dijon <br/>
+<td align="center">Académie de Créteil - Etablissement public local d'enseignement - Lycée <br/>
 </td>
-<td align="center">Adjoint au secrétaire général d'académie <br/>
-</td>
-<td align="center">1 <br/>
-</td>
+<td align="center">Agent comptable </td>
+<td align="center">2</td>
 </tr>
 <tr>
 <td align="center">Rectorat de l'académie de Dijon <br/>
@@ -576,6 +645,12 @@
 </td>
 <td align="center">1 <br/>
 </td>
+</tr>
+<tr>
+<td align="center">Rectorat de l'académie de Dijon </td>
+<td align="center">Responsable de la division des examens et concours <br/>
+</td>
+<td align="center">1</td>
 </tr>
 <tr>
 <td align="center">Académie de Dijon-Inspection académique de la Côte-d'Or <br/>
@@ -626,18 +701,15 @@
 </td>
 </tr>
 <tr>
-<td align="center">Rectorat de l'académie de Grenoble <br/>
+<td align="center">Académie de Dijon - Etablissement public local d'enseignement - Lycée <br/>
 </td>
-<td align="center">Adjoint au secrétaire général d'académie, directeur des ressources humaines <br/>
-</td>
-<td align="center">1 <br/>
-</td>
+<td align="center">Agent comptable </td>
+<td align="center">2</td>
 </tr>
 <tr>
 <td align="center">Rectorat de l'académie de Grenoble <br/>
 </td>
-<td align="center">Directeur de cabinet du recteur de l'académie <br/>
-</td>
+<td align="center">Responsable de la division des personnels de l'administration</td>
 <td align="center">1 <br/>
 </td>
 </tr>
@@ -706,6 +778,12 @@
 </td>
 </tr>
 <tr>
+<td align="center">Académie de Grenoble - Etablissement public local d'enseignement - Lycée <br/>
+</td>
+<td align="center">Agent comptable </td>
+<td align="center">1</td>
+</tr>
+<tr>
 <td align="center">Rectorat de l'académie de la Guadeloupe <br/>
 </td>
 <td align="center">Adjoint au secrétaire général d'académie <br/>
@@ -738,6 +816,11 @@
 </td>
 </tr>
 <tr>
+<td align="center">Académie de la Guadeloupe - Etablissement public local d'enseignement - Lycée </td>
+<td align="center">Agent comptable </td>
+<td align="center">1</td>
+</tr>
+<tr>
 <td align="center">Rectorat de l'académie de la Guyane <br/>
 </td>
 <td align="center">Adjoint au secrétaire général d'académie <br/>
@@ -756,7 +839,7 @@
 <tr>
 <td align="center">Rectorat de l'académie de Lille <br/>
 </td>
-<td align="center">Adjoint au secrétaire général d'académie, chargé de la politique éducative <br/>
+<td align="center">Adjoint au secrétaire général d'académie, chargé des moyens, du suivi de la performance et du fonctionnement général des services académiques <br/>
 </td>
 <td align="center">1 <br/>
 </td>
@@ -810,6 +893,12 @@
 </td>
 </tr>
 <tr>
+<td align="center">Académie de Lille - Etablissement public local d'enseignement - Lycée <br/>
+</td>
+<td align="center">Agent comptable </td>
+<td align="center">2</td>
+</tr>
+<tr>
 <td align="center">Rectorat de l'académie de Limoges <br/>
 </td>
 <td align="center">Adjoint au secrétaire général d'académie, directeur des ressources humaines <br/>
@@ -824,6 +913,11 @@
 </td>
 <td align="center">1 <br/>
 </td>
+</tr>
+<tr>
+<td align="center">Rectorat de l'académie de Limoges </td>
+<td align="center">Responsable de la division des personnels </td>
+<td align="center">1</td>
 </tr>
 <tr>
 <td align="center">Académie de Limoges-Inspection académique de la Corrèze <br/>
@@ -866,6 +960,12 @@
 </td>
 </tr>
 <tr>
+<td align="center">Académie de Limoges - Etablissement public local d'enseignement - Lycée <br/>
+</td>
+<td align="center">Agent comptable </td>
+<td align="center">2</td>
+</tr>
+<tr>
 <td align="center">Rectorat de l'académie de Lyon <br/>
 </td>
 <td align="center">Adjoint au secrétaire général d'académie <br/>
@@ -888,6 +988,11 @@
 </td>
 <td align="center">1 <br/>
 </td>
+</tr>
+<tr>
+<td align="center">Rectorat de l'académie de Lyon </td>
+<td align="center">Responsable de la division des personnels enseignants</td>
+<td align="center">1</td>
 </tr>
 <tr>
 <td align="center">Académie de Lyon-Inspection académique de l'Ain <br/>
@@ -920,6 +1025,11 @@
 </td>
 <td align="center">2 <br/>
 </td>
+</tr>
+<tr>
+<td align="center">Académie de Lyon - Etablissement public local d'enseignement - Lycée </td>
+<td align="center">Agent comptable </td>
+<td align="center">3</td>
 </tr>
 <tr>
 <td align="center">Rectorat de l'académie de la Martinique <br/>
@@ -1026,6 +1136,12 @@
 </td>
 </tr>
 <tr>
+<td align="center">Académie de Montpellier - Etablissement public local d'enseignement - Lycée <br/>
+</td>
+<td align="center">Agent comptable </td>
+<td align="center">3</td>
+</tr>
+<tr>
 <td align="center">Rectorat de l'académie de Nancy-Metz <br/>
 </td>
 <td align="center">Directeur des ressources humaines <br/>
@@ -1090,17 +1206,14 @@
 </td>
 </tr>
 <tr>
-<td align="center">Rectorat de l'académie de Nantes <br/>
-</td>
-<td align="center">En charge de la gestion des moyens <br/>
-</td>
-<td align="center">1 <br/>
-</td>
+<td align="center">Académie de Nancy-Metz - Etablissement public local d'enseignement - Lycée</td>
+<td align="center">Agent comptable </td>
+<td align="center">3</td>
 </tr>
 <tr>
 <td align="center">Rectorat de l'académie de Nantes <br/>
 </td>
-<td align="center">En charge des ressources logistiques <br/>
+<td align="center">Directeur des services rectoraux <br/>
 </td>
 <td align="center">1 <br/>
 </td>
@@ -1120,6 +1233,12 @@
 </td>
 <td align="center">1 <br/>
 </td>
+</tr>
+<tr>
+<td align="center">Rectorat de l'académie de Nantes </td>
+<td align="center">Responsable de la division des personnels enseignants <br/>
+</td>
+<td align="center">1</td>
 </tr>
 <tr>
 <td align="center">Académie de Nantes-Inspection académique de Maine-et-loire <br/>
@@ -1170,6 +1289,12 @@
 </td>
 </tr>
 <tr>
+<td align="center">Académie de Nantes - Etablissement public local d'enseignement - Lycée <br/>
+</td>
+<td align="center">Agent comptable </td>
+<td align="center">2</td>
+</tr>
+<tr>
 <td align="center">Rectorat de l'académie de Nice <br/>
 </td>
 <td align="center">Adjoint au secrétaire général d'académie, directeur des ressources humaines <br/>
@@ -1210,6 +1335,12 @@
 </td>
 </tr>
 <tr>
+<td align="center">Académie de Nice - Etablissement public local d'enseignement - Lycée <br/>
+</td>
+<td align="center">Agent comptable </td>
+<td align="center">3</td>
+</tr>
+<tr>
 <td align="center">Rectorat de l'académie d'Orléans-Tours <br/>
 </td>
 <td align="center">Responsable de la division des personnels enseignants <br/>
@@ -1232,6 +1363,12 @@
 </td>
 <td align="center">1 <br/>
 </td>
+</tr>
+<tr>
+<td align="center">Rectorat de l'académie d'Orléans-Tours </td>
+<td align="center">Responsable de la division de l'organisation scolaire <br/>
+</td>
+<td align="center">1</td>
 </tr>
 <tr>
 <td align="center">Académie d'Orléans-Tours-Inspection académique du Cher <br/>
@@ -1298,6 +1435,17 @@
 </td>
 </tr>
 <tr>
+<td>
+<p align="center"> Académie d'Orléans-Tours - Etablissement public local d'enseignement - Lycée</p>
+</td>
+<td>
+<p align="center"> Agent comptable </p>
+</td>
+<td>
+<p align="center"> 3</p>
+</td>
+</tr>
+<tr>
 <td align="center">Rectorat de l'académie de Paris <br/>
 </td>
 <td align="center">Adjoint au secrétaire général d'académie, chargé du budget académique et de la performance <br/>
@@ -1314,11 +1462,44 @@
 </td>
 </tr>
 <tr>
+<td>
+<p align="center"> Rectorat de l'académie de Paris</p>
+</td>
+<td>
+<p align="center"> Responsable de la division de la coordination paie et des rémunérations spécifiques</p>
+</td>
+<td>
+<p align="center"> 1</p>
+</td>
+</tr>
+<tr>
 <td align="center">Académie de Paris-Service interacadémique des examens et concours <br/>
 </td>
 <td align="center">Secrétaire général <br/>
 </td>
 <td align="center">1 <br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center"> Rectorat de l'académie de Paris - Service interacadémique des examens et concours</p>
+</td>
+<td>
+<p align="center"> Responsable de la division du baccalauréat général et technologique</p>
+</td>
+<td>
+<p align="center"> 1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center"> Rectorat de l'académie de Paris - Service interacadémique des examens et concours</p>
+</td>
+<td>
+<p align="center"> Responsable de la division des concours</p>
+</td>
+<td>
+<p align="center"> 1</p>
 </td>
 </tr>
 <tr>
@@ -1338,11 +1519,14 @@
 </td>
 </tr>
 <tr>
-<td align="center">Rectorat de l'académie de Poitiers <br/>
+<td>
+<p align="center"> Académie de Paris - Etablissement public local d'enseignement - Lycée</p>
 </td>
-<td align="center">Adjoint au secrétaire général d'académie <br/>
+<td>
+<p align="center"> Agent comptable</p>
 </td>
-<td align="center">1 <br/>
+<td>
+<p align="center"> 1</p>
 </td>
 </tr>
 <tr>
@@ -1367,6 +1551,17 @@
 <td align="center">Responsable de la division des examens et concours-A effet du 1er septembre 2008 <br/>
 </td>
 <td align="center">1 <br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center"> Rectorat de l'académie de Poitiers</p>
+</td>
+<td>
+<p align="center"> Responsable de la division de l'organisation des services</p>
+</td>
+<td>
+<p align="center"> 1</p>
 </td>
 </tr>
 <tr>
@@ -1410,11 +1605,28 @@
 </td>
 </tr>
 <tr>
-<td align="center">Académie de Poitiers-Etablissement public local d'enseignement-Lycée <br/>
+<td align="center">
+<p align="center">Académie de Poitiers-Etablissement public local d'enseignement-Lycée <br/>
+</p>
 </td>
-<td align="center">Agent comptable-A effet du 1er septembre 2008 <br/>
+<td align="center">
+<p align="center">Agent comptable-A effet du 1er septembre 2008 <br/>
+</p>
 </td>
-<td align="center">1 <br/>
+<td align="center">
+<p align="center">1 <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center"> Académie de Poitiers - Etablissement public local d'enseignement - Lycée</p>
+</td>
+<td>
+<p align="center"> Agent comptable </p>
+</td>
+<td>
+<p align="center"> 2</p>
 </td>
 </tr>
 <tr>
@@ -1434,19 +1646,26 @@
 </td>
 </tr>
 <tr>
-<td align="center">Rectorat de l'académie de Reims <br/>
-</td>
-<td align="center">Adjoint au secrétaire général d'académie <br/>
-</td>
+<td align="center">Rectorat de l'académie de Reims </td>
+<td align="center">Adjoint au secrétaire général d'académie </td>
 <td align="center">1 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Rectorat de l'académie de Reims <br/>
-</td>
-<td align="center">Responsable de la division des personnels <br/>
-</td>
+<td align="center">Rectorat de l'académie de Reims </td>
+<td align="center">Adjoint au secrétaire général d'académie, directeur des ressources humaines </td>
 <td align="center">1 <br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Rectorat de l'académie de Reims</p>
+</td>
+<td>
+<p align="center"> Adjoint au secrétaire général d'académie, chargé des moyens</p>
+</td>
+<td>
+<p align="center"> 1</p>
 </td>
 </tr>
 <tr>
@@ -1498,6 +1717,17 @@
 </td>
 </tr>
 <tr>
+<td>
+<p align="center">Académie de Reims - Etablissement public local d'enseignement - Lycée</p>
+</td>
+<td>
+<p align="center"> Agent comptable </p>
+</td>
+<td>
+<p align="center"> 1</p>
+</td>
+</tr>
+<tr>
 <td align="center">Rectorat de l'académie de Rennes <br/>
 </td>
 <td align="center">Adjoint au secrétaire général d'académie, directeur des ressources humaines <br/>
@@ -1519,6 +1749,17 @@
 <td align="center">Responsable de la division des examens et concours-A effet du 1er septembre 2008 <br/>
 </td>
 <td align="center">1 <br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Rectorat de l'académie de Rennes</p>
+</td>
+<td>
+<p align="center"> Responsable de la division des personnels enseignants</p>
+</td>
+<td>
+<p align="center"> 1</p>
 </td>
 </tr>
 <tr>
@@ -1554,6 +1795,17 @@
 </td>
 </tr>
 <tr>
+<td>
+<p align="center"> Académie de Rennes - Etablissement public local d'enseignement - Lycée</p>
+</td>
+<td>
+<p align="center"> Agent comptable</p>
+</td>
+<td>
+<p align="center"> 2</p>
+</td>
+</tr>
+<tr>
 <td align="center">Rectorat de l'académie de la Réunion <br/>
 </td>
 <td align="center">Adjoint au secrétaire général d'académie <br/>
@@ -1575,6 +1827,17 @@
 <td align="center">Responsable de la division des personnels enseignants <br/>
 </td>
 <td align="center">1 <br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Rectorat de l'académie de La Réunion</p>
+</td>
+<td>
+<p align="center"> Responsable de la division des structures et des moyens</p>
+</td>
+<td>
+<p align="center"> 1</p>
 </td>
 </tr>
 <tr>
@@ -1615,6 +1878,17 @@
 <td align="center">Responsable de la division des examens et concours-A effet du 1er septembre 2008 <br/>
 </td>
 <td align="center">1 <br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center"> Rectorat de l'académie de Rouen</p>
+</td>
+<td>
+<p align="center"> Directeur de cabinet du recteur de l'académie</p>
+</td>
+<td>
+<p align="center"> 1</p>
 </td>
 </tr>
 <tr>
@@ -1642,11 +1916,14 @@
 </td>
 </tr>
 <tr>
-<td align="center">Rectorat de l'académie de Strasbourg <br/>
+<td>
+<p align="center"> Académie de Rouen - Etablissement public local d'enseignement - Lycée</p>
 </td>
-<td align="center">Adjoint au secrétaire général d'académie <br/>
+<td>
+<p align="center"> Agent comptable </p>
 </td>
-<td align="center">1 <br/>
+<td>
+<p align="center"> 1</p>
 </td>
 </tr>
 <tr>
@@ -1671,6 +1948,28 @@
 <td align="center">Responsable de la division des examens et concours-A effet du 1er septembre 2008 <br/>
 </td>
 <td align="center">1 <br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center"> Rectorat de l'académie de Strasbourg</p>
+</td>
+<td>
+<p align="center"> Responsable de la division des personnels d'administration et d'encadrement</p>
+</td>
+<td>
+<p align="center"> 1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center"> Rectorat de l'académie de Strasbourg</p>
+</td>
+<td>
+<p align="center"> Responsable de la division des affaires financières et des affaires générales</p>
+</td>
+<td>
+<p align="center"> 1</p>
 </td>
 </tr>
 <tr>
@@ -1706,6 +2005,17 @@
 </td>
 </tr>
 <tr>
+<td>
+<p align="center"> Académie de Strasbourg - Etablissement public local d'enseignement - Lycée</p>
+</td>
+<td>
+<p align="center"> Agent comptable</p>
+</td>
+<td>
+<p align="center"> 2</p>
+</td>
+</tr>
+<tr>
 <td align="center">Rectorat de l'académie de Toulouse <br/>
 </td>
 <td align="center">Adjoint au secrétaire général d'académie <br/>
@@ -1727,6 +2037,17 @@
 <td align="center">Responsable de la division des examens et concours-A effet du 1er septembre 2008 <br/>
 </td>
 <td align="center">1 <br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center"> Rectorat de l'académie de Toulouse</p>
+</td>
+<td>
+<p align="center"> Responsable de la division des structures et des moyens</p>
+</td>
+<td>
+<p align="center"> 1</p>
 </td>
 </tr>
 <tr>
@@ -1802,6 +2123,17 @@
 </td>
 </tr>
 <tr>
+<td>
+<p align="center"> Académie de Toulouse - Etablissement public local d'enseignement - Lycée</p>
+</td>
+<td>
+<p align="center"> Agent comptable </p>
+</td>
+<td>
+<p align="center"> 1</p>
+</td>
+</tr>
+<tr>
 <td align="center">Rectorat de l'académie de Versailles <br/>
 </td>
 <td align="center">Adjoint au secrétaire général d'académie, en charge de l'organisation et de la performance <br/>
@@ -1820,7 +2152,7 @@
 <tr>
 <td align="center">Rectorat de l'académie de Versailles <br/>
 </td>
-<td align="center">Responsable de la division des affectations des personnels enseignants <br/>
+<td align="center">Responsable de la division des affaires financières <br/>
 </td>
 <td align="center">1 <br/>
 </td>
@@ -1847,6 +2179,17 @@
 <td align="center">Agent comptable-A effet du 1er septembre 2008 <br/>
 </td>
 <td align="center">2 <br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center"> Académie de Versailles - Etablissement public local d'enseignement - Lycée</p>
+</td>
+<td>
+<p align="center"> Agent comptable </p>
+</td>
+<td>
+<p align="center"> 3</p>
 </td>
 </tr>
 <tr>
@@ -1899,10 +2242,24 @@
 </td>
 </tr>
 <tr>
-<td>Administration centrale du ministère chargé de l'éducation nationale-Poitiers. </td>
-<td>Chef du département de l'administration générale de l'Ecole supérieur de l'éducation nationale.A effet du 1er février 2009. </td>
-<td>1</td>
+<td>
+<p align="center">Administration centrale du ministère chargé de l'éducation nationale-Poitiers. </p>
+</td>
+<td>
+<p align="center">Chef du département de l'administration générale de l'Ecole supérieur de l'éducation nationale.A effet du 1er février 2009. </p>
+</td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td>
+<p align="center"> Administration centrale du ministère chargé de l'éducation nationale - Poitiers</p>
+</td>
+<td>
+<p align="center"> Chef du département de la formation des personnels administratifs d'encadrement de l'Ecole supérieure de l'éducation nationale - A effet du 1er mai 2010</p>
+</td>
+<td>
+<p align="center"> 1</p>
+</td>
 </tr>
 </tbody>
 </table>
-</div>
