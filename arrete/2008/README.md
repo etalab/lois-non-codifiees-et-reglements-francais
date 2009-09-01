@@ -113,7 +113,6 @@
 - [Arrêté du 4 septembre 2008 (IOCE0821616A)](arrete-du-4-septembre-2008-ioce0821616a)
 - [Arrêté du 4 septembre 2008 (SJSH0821505A)](arrete-du-4-septembre-2008-sjsh0821505a)
 - [Arrêté du 5 août 2008 (BCFD0819696A)](arrete-du-5-aout-2008-bcfd0819696a)
-- [Arrêté du 5 août 2008 (DEFH0819529A)](arrete-du-5-aout-2008-defh0819529a)
 - [Arrêté du 5 août 2008 (DEVE0818698A)](arrete-du-5-aout-2008-deve0818698a)
 - [Arrêté du 5 août 2008 (ECEA0815816A)](arrete-du-5-aout-2008-ecea0815816a)
 - [Arrêté du 5 août 2008 (MAEA0819362A)](arrete-du-5-aout-2008-maea0819362a)
