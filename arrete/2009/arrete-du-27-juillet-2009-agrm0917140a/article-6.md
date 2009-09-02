@@ -2,7 +2,7 @@
 
 La durée totale d'arrêt à réaliser est de 10 jours minimum et peut s'étendre jusqu'à 42 jours maximum auxquels s'ajoutent les éventuelles bonifications.
 
-Les jours d'arrêt déjà réalisés dans le cadre de l'arrêté du 29 avril 2008 sont décomptés des 42 jours précités.
+Les jours d'arrêt déjà réalisés dans le cadre de l'arrêté du 27 avril 2009 sont décomptés des 42 jours précités.
 
 Une bonification de 7 jours peut être accordée pour les navires justifiant d'une dépendance à l'anchois supérieure à 40 % telle que définie à l'article 4.
 

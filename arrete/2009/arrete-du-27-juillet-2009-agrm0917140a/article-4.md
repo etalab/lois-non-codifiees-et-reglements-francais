@@ -4,13 +4,13 @@ Le critère d'éligibilité suivant doit être respecté :
 
 Sur les années 2000, 2001, 2002, 2003 et 2004, l'activité de la pêche de l'anchois sur les mois d'avril à juin dans la zone CIEM VIII exprimée en valeur représente plus de 25 % de l'activité de la pêche pour la période de référence toutes zones confondues :
 
-C/B  25 %
+C/B 25 %
 
 Avec C : somme des valeurs d'anchois pêchés pendant la période de référence dans la zone CIEM VIII sur les années 2000, 2001, 2002, 2003 et 2004.
 
 Avec B : somme des valeurs totales pêchées pendant la période de référence toutes zones confondues sur les années 2000, 2001, 2002, 2003 et 2004.
 
-Pour les chalutiers, la période de référence est la période de la pêche de l'anchois, correspondant à la période de l'arrêt du 1er juin au 30 novembre.
+Pour les chalutiers, la période de référence s'entend comme une période de deux mois minimum consécutifs au cours de la période de la pêche de l'anchois, correspondant à la période de l'arrêt du 1er juin au 30 novembre.
 
 Pour les bolincheurs, la période de référence est l'année comptée du 10 janvier au 30 novembre, c'est-à-dire 326 jours.
 
