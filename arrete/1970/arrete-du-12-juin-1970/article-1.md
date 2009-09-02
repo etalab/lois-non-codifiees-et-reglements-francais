@@ -1977,7 +1977,7 @@ Le siège et le ressort des bureaux des hypothèques sont fixés conformément a
 <p>Meuse </p>
 </td>
 <td valign="top" width="132">
-<p>Bar-le-Duc</p>
+<p>Bar-le-Duc 1er bureau</p>
 </td>
 <td valign="top" width="416">
 <p>Cantons d'Ancerville, Bar-le-Duc-Nord, Bar-le-Duc-Sud, Ligny-en-Barrois, Montiers-sur-Saulx, Revigny-sur-Ornain, Seuil-­d'Argonne, Vaubecourt, Vavincourt.</p>
@@ -1986,7 +1986,7 @@ Le siège et le ressort des bureaux des hypothèques sont fixés conformément a
 <tr>
 <td valign="top" width="132"/>
 <td valign="top" width="132">
-<p>Saint-Mihiel</p>
+<p>Bar-le-Duc 2e bureau</p>
 </td>
 <td valign="top" width="416">
 <p>Cantons de Commercy, Gondrecourt-le-Château, Pierrefitte-sur-­Aire, Saint-Mihiel, Vaucouleurs, Vignoulles-les-Hattonchâtel, Void-Vacon.</p>
@@ -1998,7 +1998,7 @@ Le siège et le ressort des bureaux des hypothèques sont fixés conformément a
 <p>Verdun</p>
 </td>
 <td valign="top" width="416">
-<p>Cantons de Charny-sur-Meuse, Clermont-en-Argonne, Damvillers, Dun-sur-Meuse, Etain, Fresnes-an-Woevre, Montfaucon, Montmédy, Souilly, Spincourt, Stenay, Varennes-en-Argonne, Verdun-Centre, Verdun-Est, Verdun-Ouest.</p>
+<p>Cantons de Charny-sur-Meuse, Clermont-en-Argonne, Damvillers, Dun-sur-Meuse, Etain, Fresnes-an-Woëvre, Montfaucon, Montmédy, Souilly, Spincourt, Stenay, Varennes-en-Argonne, Verdun-Centre, Verdun-Est, Verdun-Ouest.</p>
 </td>
 </tr>
 <tr>
