@@ -1,14 +1,14 @@
 # Article 1
 
-Les voies d'orientation prévues par l'article 14 du décret n° 90-484 du 14 juin 1990 susvisé sont les suivantes:
+Après la classe de troisième :
 
-Après la classe de troisième:
+- la classe de seconde générale et technologique ou les classes de seconde à régime spécifique ;
 
-- la classe de seconde générale et technologique ou les classes de seconde à régime spécifique;
+- la classe de seconde professionnelle, qui constitue la première année du cycle de préparation en trois ans du baccalauréat professionnel, ou la première année du cycle de deux ans conduisant à l'une des spécialités de brevet d'études professionnelles dont la liste est annexée au présent arrêté ;
 
-- la classe de seconde professionnelle qui correspond à la première année de préparation au brevet d'études professionnelles;
+- la première année du cycle de deux ans conduisant à une spécialité de certificat d'aptitude professionnelle.
 
-- la première année de préparation au certificat d'aptitude professionnelle. Après la classe de seconde générale et technologique:
+Après la classe de seconde générale et technologique:
 
 - les diverses séries des classes de première puis terminales qui préparent aux séries correspondantes du baccalauréat. Chacune des séries constitue une voie d'orientation: littéraire (L), économique et sociale (E.S.),
 
