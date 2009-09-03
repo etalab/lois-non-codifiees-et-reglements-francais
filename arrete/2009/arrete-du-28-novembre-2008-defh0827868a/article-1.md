@@ -2,134 +2,142 @@
 
 La liste des emplois de militaires commissionnés prévue à l'article 1er du décret du 12 septembre 2008 susvisé est la suivante :
 
-― médecin titulaire d'une qualification, d'un diplôme d'études spécialisées complémentaires ou d'une capacité mentionnés au 3° de l'article R. 4127-80 du code de la santé publique ;
+- médecin titulaire d'une qualification, d'un diplôme d'études spécialisées complémentaires ou d'une capacité mentionnés au 3° de l'article R. 4127-80 du code de la santé publique ;
 
-― spécialiste des techniques du génie biomédical et du génie sanitaire ;
+- spécialiste des techniques du génie biomédical et du génie sanitaire ;
 
-― chirurgien-dentiste titulaire d'un titre ou d'une fonction mentionnés au 3° de l'article R. 4127-216 du code de la santé publique ;
+- chirurgien-dentiste titulaire d'un titre ou d'une fonction mentionnés au 3° de l'article R. 4127-216 du code de la santé publique ;
 
-― pharmacien titulaire d'un titre ou d'une fonction mentionnés au 4° de l'article R. 4235-24 du code de la santé publique ;
+- pharmacien titulaire d'un titre ou d'une fonction mentionnés au 4° de l'article R. 4235-24 du code de la santé publique ;
 
-― vétérinaire titulaire d'un titre, d'un diplôme ou autres qualifications professionnelles mentionnées au 2° de l'article R. 242-34 du code rural ;
+- vétérinaire titulaire d'un titre, d'un diplôme ou autres qualifications professionnelles mentionnées au 2° de l'article R. 242-34 du code rural ;
 
-― emplois correspondant à l'un des corps énumérés dans l'annexe du décret n° 2008-959 du 12 septembre 2008 susvisé ;
+- emplois correspondant à l'un des corps énumérés dans l'annexe du décret n° 2008-959 du 12 septembre 2008 susvisé ;
 
-― emploi correspondant au corps des adjoints des cadres hospitaliers de la fonction publique hospitalière ;
+- emploi correspondant au corps des adjoints des cadres hospitaliers de la fonction publique hospitalière ;
 
-― ingénieur de recherche dans le domaine médical appliqué aux armées ;
+- ingénieur de recherche dans le domaine médical appliqué aux armées ;
 
-― psychologue ;
+- chercheur en physique nucléaire ;
 
-― chef de chaire de neutronique à l'école des applications militaires de l'énergie atomique ;
+- ingénieur du domaine spatial ;
 
-― enseignant-chercheur en hydrodynamique, mécanique, traitement du signal ou acoustique, météorologie-océanographie physique ;
+- instrumentiste embarqué de technologies nucléaires ;
 
-― détecteur et analyste de signaux électro-magnétiques ;
+- expert technique armement ;
 
-― géomètre-topographe ;
+- psychologue ;
 
-― laborantin à l'institut de recherche criminelle de la gendarmerie nationale ;
+- chef de chaire de neutronique à l'école des applications militaires de l'énergie atomique ;
 
-― technicien spécialisé dans le domaine de l'hygiène, de la sécurité et des conditions de travail ;
+- enseignant-chercheur en hydrodynamique, mécanique, traitement du signal ou acoustique, météorologie-océanographie physique ;
 
-― ingénieur motoriste spécialiste banc d'essai ;
+- détecteur et analyste de signaux électro-magnétiques ;
 
-― spécialiste en chimie ;
+- géomètre-topographe ;
 
-― spécialiste en exploitation et logistique pétrolières navales ;
+- laborantin à l'institut de recherche criminelle de la gendarmerie nationale ;
 
-― spécialiste concepteur en méthodes et techniques d'action ;
+- technicien spécialisé dans le domaine de l'hygiène, de la sécurité et des conditions de travail ;
 
-― spécialiste en interprétation de photographies aériennes ;
+- ingénieur motoriste spécialiste banc d'essai ;
 
-― spécialiste ou technicien dans les domaines appliqués à la criminalistique ;
+- spécialiste en chimie ;
 
-― spécialiste en recherche opérationnelle ou en statistiques ;
+- spécialiste en exploitation et logistique pétrolières navales ;
 
-― spécialiste dans le domaine de la défense biologique ;
+- spécialiste concepteur en méthodes et techniques d'action ;
 
-― spécialiste en cellule et motorisation des aéronefs ;
+- spécialiste en interprétation de photographies aériennes ;
 
-― spécialiste en avionique ;
+- spécialiste ou technicien dans les domaines appliqués à la criminalistique ;
 
-― spécialiste en structure des aéronefs ;
+- spécialiste en recherche opérationnelle ou en statistiques ;
 
-― contrôleur de sécurité aérienne ;
+- spécialiste dans le domaine de la défense biologique ;
 
-― météorologiste ;
+- spécialiste en cellule et motorisation des aéronefs ;
 
-― instructeur sur simulateur de vol ;
+- spécialiste en avionique ;
 
-― pilote d'avion ;
+- spécialiste en structure des aéronefs ;
 
-― chargé d'étude de bâtiments et de travaux publics ;
+- contrôleur de sécurité aérienne ;
 
-― responsable d'infrastructure ;
+- météorologiste ;
 
-― psychosociologue ;
+- instructeur sur simulateur de vol ;
 
-― sociologue ;
+- pilote d'aéronef ;
 
-― expert démographe ;
+- chargé d'étude de bâtiments et de travaux publics ;
 
-― spécialiste dans le domaine des ressources humaines ;
+- responsable d'infrastructure ;
 
-― gestionnaire du patrimoine historique immobilier de la marine ;
+- psychosociologue ;
 
-― expert juridique ;
+- sociologue ;
 
-― spécialiste dans le domaine du contrôle de gestion ;
+- expert démographe ;
 
-― spécialiste en technique comptable et financière ;
+- spécialiste dans le domaine des ressources humaines ;
 
-― expert du domaine public maritime ;
+- gestionnaire du patrimoine historique immobilier de la marine ;
 
-― journaliste ;
+- expert juridique ;
 
-― chargé d'études au service historique de la défense ;
+- spécialiste dans le domaine du contrôle de gestion ;
 
-― chargé d'études à la délégation du patrimoine culturel de la gendarmerie nationale ;
+- spécialiste en technique comptable et financière ;
 
-― responsable de la stratégie de communication ;
+- expert du domaine public maritime ;
 
-― enseignant-chercheur en économie, économie de défense et management des organisations ;
+- journaliste ;
 
-― spécialiste des affaires politiques ;
+- chargé d'études au service historique de la défense ;
 
-― enseignant-chercheur en politique ;
+- chargé d'études à la délégation du patrimoine culturel de la gendarmerie nationale ;
 
-― linguiste ;
+- responsable de la stratégie de communication ;
 
-― spécialiste en recherche dans le domaine des sciences humaines, sociales et de l'information ;
+- enseignant-chercheur en économie, économie de défense et management des organisations ;
 
-― directeur d'équipe militaire de sport de haut niveau ;
+- spécialiste des affaires politiques ;
 
-― maître d'armes ;
+- enseignant-chercheur en politique ;
 
-― guide de haute montagne ;
+- linguiste ;
 
-― chef des orchestres de la garde républicaine ;
+- spécialiste en recherche dans le domaine des sciences humaines, sociales et de l'information ;
 
-― chef adjoint des orchestres de la garde républicaine ;
+- directeur d'équipe militaire de sport de haut niveau ;
 
-― administrateur régisseur des formations musicales de la garde républicaine ;
+- maître d'armes ;
 
-― chef du chœur de l'armée française ;
+- guide de haute montagne ;
 
-― chef assistant du chœur de l'armée française ;
+- chef des orchestres de la garde républicaine ;
 
-― chef de la musique de l'air ;
+- chef adjoint des orchestres de la garde républicaine ;
 
-― chef de l'orchestre de jazz de la musique de l'air ;
+- administrateur régisseur des formations musicales de la garde républicaine ;
 
-― choriste du chœur de l'armée française ;
+- chef du chœur de l'armée française ;
 
-― conducteur de travaux ;
+- chef assistant du chœur de l'armée française ;
 
-― maître de forge ;
+- chef de la musique de l'air ;
 
-― sellier-bourrelier ;
+- chef de l'orchestre de jazz de la musique de l'air ;
 
-― maître casquier ;
+- choriste du chœur de l'armée française ;
 
-― costumier (maître tailleur).
+- conducteur de travaux ;
+
+- maître de forge ;
+
+- sellier-bourrelier ;
+
+- maître casquier ;
+
+- costumier (maître tailleur).
