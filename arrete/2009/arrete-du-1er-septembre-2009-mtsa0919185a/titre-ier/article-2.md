@@ -1,0 +1,7 @@
+# Article 2
+
+Pour la rentrée scolaire 2009, peuvent accéder à la formation préparant au diplôme d'Etat de conseiller en économie sociale familiale les candidats possédant le brevet de technicien supérieur « économie sociale familiale », ainsi que les candidats ayant obtenu une validation partielle du diplôme de conseiller en économie sociale familiale par un jury de validation des acquis de l'expérience.
+
+A compter de la rentrée scolaire 2010, peuvent accéder à la formation préparant au diplôme d'Etat de conseiller en économie sociale familiale les candidats possédant l'un des diplômes mentionnés à l'annexe V du présent arrêté, ainsi que les candidats ayant obtenu une validation partielle du diplôme de conseiller en économie sociale familiale par un jury de validation des acquis de l'expérience.
+
+Une commission d'admission est instituée dans chaque établissement. Elle est composée du directeur de l'établissement de formation ou de son représentant, du responsable de la formation préparant au diplôme d'Etat de conseiller en économie sociale familiale et d'un professionnel titulaire du diplôme d'Etat de conseiller en économie sociale familiale extérieur à l'établissement de formation. La commission d'admission arrête la liste des candidats admis à suivre la formation. Cette liste est transmise à la direction régionale des affaires sanitaires et sociales. La liste précise, par voie de formation, le nombre des candidats admis et la durée de leur parcours de formation.

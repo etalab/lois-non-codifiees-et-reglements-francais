@@ -1,6 +1,6 @@
 # Article Annexe
 
-**ZONES RÉGLEMENTÉES : ZONES GÉOGRAPHIQUES DU TERRITOIRE FRANÇAIS DANS LESQUELLES DES ZONES DE PROTECTION ET DE SURVEILLANCE SONT INSTITUÉES**
+ZONES RÉGLEMENTÉES : ZONES GÉOGRAPHIQUES DU TERRITOIRE FRANÇAIS DANS LESQUELLES DES ZONES DE PROTECTION ET DE SURVEILLANCE SONT INSTITUÉES
 
 Zone A (sérotypes 1, 2, 4, 8 et 16)
 
@@ -26,6 +26,8 @@ Zone E (sérotypes 1 et 8)
 
 Zone de protection :
 
+- département de l'Allier : arrondissements de Moulins, Vichy et cantons de Cérilly, Cérilly, Commentry, Ebreuil, Hérisson, Marcillat-en-Combraille, Montluçon-Est 4e canton, Montmarault ;
+
 - département des Hautes-Alpes : cantons d'Aspres-sur-Buëch, Rosans, Saint-Etienne-en-Dévoluy, Serres, Veynes ;
 
 - département de l'Ardèche ;
@@ -43,6 +45,8 @@ Zone de protection :
 - département de la Charente ;
 
 - département de la Charente-Maritime ;
+
+- département du Cher : canton de Sancoins ;
 
 - département de la Corrèze : arrondissements de Brive-la-Gaillarde, Tulle et cantons de Bugeat, Meymac, Neuvic, Ussel-Ouest ;
 
@@ -78,7 +82,7 @@ Zone de protection :
 
 - département des Landes ;
 
-- département de la Loire : cantons de Bourg-Argental, Pélussin, Saint-Genest-Malifaux ;
+- département de la Loire : arrondissement de Roanne et cantons de Bourg-Argental, Pélussin, Saint-Genest-Malifaux, Boën, Feurs, Noirétable, Saint-Georges-en-Couzan ;
 
 - département de la Haute-Loire : cantons de Fay-sur-Lignon, Montfaucon-en-Velay, Tence ;
 
@@ -92,7 +96,11 @@ Zone de protection :
 
 - département du Morbihan : arrondissements de Lorient, Pontivy et cantons d'Elven, Grand-Champ, Sarzeau, Vannes-Est, Vannes-Ouest, Vannes ;
 
+- département de la Nièvre : cantons de Châtau-Chinon (Ville), Châtillon-en-Bazois, Decize, Dornes, Fours, Luzy, Moulins-Engilbert, Saint-Benin-d'Azy, Saint-Pierre-le-Moûtier, La Machine, Imphy ;
+
 - département de l'Orne : cantons d'Argentan-Est, Athis-de-l'Orne, Bazoches-sur-Hoëne, Briouze, Carrouges, Courtomer, Ecouché, Exmes, La Ferté-Frênel, Gacé, Aigle-Est, Longny-au-Perche, Le Mêle-sur-Sarthe, Le Merlerault, Mortagne-au-Perche, Mortrée, Moulins-la-Marche, Pervenchères, Putanges-Pont-Ecrepin, Sées, Tourouvre, Trun, Vimoutiers, L'Aigle-Ouest, Alençon 3e canton, Argentan-Ouest, Argentan, L'Aigle ;
+
+- département du Puy-de-Dôme : arrondissement de Thiers et cantons d'Aigueperse, Billom, Combronde, Ennezat, Manzat, Menat, Montaigut, Pionsat, Pont-du-Château, Randan, Riom-Est, Riom-Ouest, Saint-Gervais-d'Auvergne, Vertaizon, Gerzat, Riom ;
 
 - département des Pyrénées-Atlantiques ;
 
@@ -100,9 +108,13 @@ Zone de protection :
 
 - département des Pyrénées-Orientales ;
 
+- département du Rhône : cantons d'Amplepuis, Beaujeu, Lamure-sur-Azergues, Monsols, Thizy ;
+
 - département de la Haute-Saône ;
 
-- département de la Seine-Maritime : arrondissements de Rouen, Le Havre et cantons d'Argueil, Bacqueville-en-Caux, Bellencombre, Cany-Barville, Fontaine-le-Dun, Longueville-sur-Scie, Saint-Saëns, Saint-Valery-en-Caux,Tôtes ;
+- département de Saône-et-Loire : arrondissement de Charolles et cantons de Cluny, Issy-l'Evêque, Matour, Mesvres, Montcenis, Mont-Saint-Vincent, Saint-Gengoux-le-National, Saint-Léger-sous-Beuvray, Tramayes, Montceau-les-Mines - Sud, Montceau-les-Mines ;
+
+- département de la Seine-Maritime : arrondissements de Rouen, Le Havre et cantons d'Argueil, Bacqueville-en-Caux, Bellencombre, Cany-Barville, Fontaine-le-Dun, Longueville-sur-Scie, Saint-Saëns, Saint-Valery-en-Caux, Tôtes ;
 
 - département des Deux-Sèvres : arrondissement de Niort et canton de Mazières-en-Gâtine ;
 
@@ -126,11 +138,11 @@ Zone vaccinale sans circulation virale, au titre du sérotype 1, au sens de l'ar
 
 - département de l'Aisne ;
 
-- département de l'Allier ;
+- département de l'Allier : cantons de Huriel, Montluçon-Ouest 2e canton, Montluçon - Nord-Est 1er canton, Montluçon-Sud 3e canton, Domérat - Montluçon - Nord-Ouest, Montluçon ;
 
 - département des Alpes-de-Haute-Provence ;
 
-- département des Hautes-Alpes : arrondissement de Briançon et cantons de Barcillonnette, Bâtie-Neuve, Chorges, Embrun, Gap-Campagne, Laragne-Montéglin, Orcières, Orpierre, Ribiers, Saint-Bonnet-en-Champsaur, Saint-Firmin, Savines-le-Lac, Tallard, Gap ;
+- département des Hautes-Alpes : arrondissement de Briançon et cantons de Barcelonnette, La Bâtie-Neuve, Chorges, Embrun, Gap-Campagne, Laragne-Montéglin, Orcières, Orpierre, Ribiers, Saint-Bonnet-en-Champsaur, Saint-Firmin, Savines-le-Lac, Tallard, Gap ;
 
 - département des Alpes-Maritimes ;
 
@@ -144,7 +156,7 @@ Zone vaccinale sans circulation virale, au titre du sérotype 1, au sens de l'ar
 
 - département du Cantal : cantons d'Allanche, Champs-sur-Tarentaine-Marchal, Condat, Massiac, Murat, Saint-Flour - Nord, Saint-Flour ;
 
-- département du Cher ;
+- département du Cher : arrondissements de Bourges, Vierzon et cantons de Charenton-du-Cher, Châteaumeillant, Châteauneuf-sur-Cher, Châtelet, Dun-sur-Auron, Guerche-sur-l'Aubois, Lignières, Nérondes, Saint-Amand-Montrond, Saulzais-le-Potier ;
 
 - département de la Corrèze : cantons de Bort-les-Orgues, Eygurande, Sornac, Ussel-Est, Ussel ;
 
@@ -168,13 +180,13 @@ Zone vaccinale sans circulation virale, au titre du sérotype 1, au sens de l'ar
 
 - département d'Indre-et-Loire ;
 
-- département de l'Isère : cantons d'Allevard, Bourgoin-Jallieu - Sud, Crémieu, Domène, Goncelin, Heyrieux, Morestel, Pont-de-Beauvoisin, Saint-Geoire-en-Valdaine, Saint-Jean-de-Bournay, Saint-Laurent-du-Pont, La Tour-du-Pin, Touvet, Verpillière, Vienne-Nord, Vienne-Sud, Virieu, Bourgoin-Jallieu - Nord, L'Isle-d'Abeau, Saint-Ismier, Chamrousse*, Bourgoin-Jallieu*, Vienne ;
+- département de l'Isère : cantons d'Allevard, Bourgoin-Jallieu - Sud, Crémieu, Domène, Goncelin, Heyrieux, Morestel, Pont-de-Beauvoisin, Saint-Geoire-en-Valdaine, Saint-Jean-de-Bournay, Saint-Laurent-du-Pont, La Tour-du-Pin, Touvet, Verpillière, Vienne-Nord, Vienne-Sud, Virieu, Bourgoin-Jallieu - Nord, L'Isle-d'Abeau, Saint-Ismier, Chamrousse, Bourgoin-Jallieu, Vienne ;
 
 - département du Jura : arrondissements de Lons-le-Saunier, Saint-Claude et cantons de Chaumergy, Chaussin, Chemin, Dole - Sud-Ouest ;
 
 - département de Loir-et-Cher ;
 
-- département de la Loire : arrondissements de Roanne, Montbrison et cantons de Chambon-Feugerolles, Firminy, Rive-de-Gier, Saint-Chamond - Sud, Saint-Etienne - Nord-Est 2, Saint-Etienne - Nord-Ouest 1, Saint-Etienne - Nord-Ouest 2, Saint-Héand, La Grand-Croix, Saint-Chamond, Saint-Etienne ;
+- département de la Loire : cantons de Chambon-Feugerolles, Chazelles-sur-Lyon, Firminy, Montbrison, Rive-de-Gier, Saint-Bonnet-le-Château, Saint-Chamond - Sud, Saint-Etienne - Nord-Est-2, Saint-Etienne - Nord-Ouest-1, Saint-Etienne - Nord-Ouest-2, Saint-Galmier, Saint-Héand, Saint-Jean-Soleymieux, Saint-Just-Saint-Rambert, Grand-Croix, Saint-Chamond, Saint-Etienne ;
 
 - département de la Haute-Loire : arrondissement de Brioude et cantons d'Allègre, Bas-en-Basset, Cayres, Craponne-sur-Arzon, Loudes, Le Monastier-sur-Gazeille, Monistrol-sur-Loire, Pradelles, Le Puy-en-Velay - Nord, Le Puy-en-Velay - Sud-Est, Retournac, Saint-Didier-en-Velay, Saint-Julien-Chapteuil, Saint-Paulien, Saugues, Solignac-sur-Loire, Vorey, Yssingeaux, Aurec-sur-Loire, Le Puy-en-Velay - Est, Le Puy-en-Velay - Ouest, Le Puy-en-Velay - Sud-Ouest, Sainte-Sigolène, Alleyras, Le Puy-en-Velay ;
 
@@ -200,7 +212,7 @@ Zone vaccinale sans circulation virale, au titre du sérotype 1, au sens de l'ar
 
 - département de la Moselle ;
 
-- département de la Nièvre ;
+- département de la Nièvre : arrondissements de Cosne-Cours-sur-Loire, Clamecy et cantons de Montsauche-les-Settons, Pougues-les-Eaux, Saint-Saulge, Guérigny, Nevers-Nord, Nevers-Est, Nevers-Sud, Nevers ;
 
 - département du Nord ;
 
@@ -210,15 +222,15 @@ Zone vaccinale sans circulation virale, au titre du sérotype 1, au sens de l'ar
 
 - département du Pas-de-Calais ;
 
-- département du Puy-de-Dôme ;
+- département du Puy-de-Dôme : arrondissements d'Ambert, Issoire et cantons de Bourg-Lastic, Herment, Pontaumur, Pontgibaud, Rochefort-Montagne, Saint-Amant-Tallende, Saint-Dier-d'Auvergne, Veyre-Monton, Vic-le-Comte, Aubière, Beaumont, Chamalières, Cournon-d'Auvergne, Royat, Clermont-Ferrand ;
 
 - département du Bas-Rhin ;
 
 - département du Haut-Rhin ;
 
-- département du Rhône ;
+- département du Rhône : arrondissement de Lyon et cantons de Anse, Belleville, Bois-d'Oingt, Tarare, Villefranche-sur-Saône, Gleizé ;
 
-- département de Saône-et-Loire ;
+- département de Saône-et-Loire : cantons d'Autun-Nord, Beaurepaire-en-Bresse, Buxy, Chagny, Chalon-sur-Saône - Sud, La Chapelle-de-Guinchay, Couches, Creusot-Est, Cuiseaux, Cuisery, Epinac, Givry, Louhans, Lucenay-l'Evêque, Lugny, Mâcon-Nord, Mâcon-Sud, Montchanin, Montpont-en-Bresse, Montret, Pierre-de-Bresse, Saint-Germain-du-Bois, Saint-Germain-du-Plain, Saint-Martin-en-Bresse, Sennecey-le-Grand, Tournus, Verdun-sur-le-Doubs, Autun-Sud, Chalon-sur-Saône - Nord, Mâcon-Centre, Chalon-sur-Saône - Ouest, Autun, Le Creusot, Chalon-sur-Saône, Mâcon ;
 
 - département de la Sarthe ;
 
@@ -240,11 +252,11 @@ Zone vaccinale sans circulation virale, au titre du sérotype 1, au sens de l'ar
 
 - département du Var ;
 
-- département de Vaucluse : arrondissement d'Apt et cantons d'Avignon-Nord, Bédarrides, Carpentras-Nord, Carpentras-Sud, Isle-sur-la-Sorgue, Mormoiron, Pernes-les-Fontaines, Sault, Avignon-Est, Avignon, Carpentras ;
+- département de Vaucluse : arrondissement d'Apt et cantons d'Avignon-Nord, Bédarrides, Carpentras-Nord, Carpentras-Sud, L'Isle-sur-la-Sorgue, Mormoiron, Pernes-les-Fontaines, Sault, Avignon-Est, Avignon, Carpentras ;
 
 - département de la Vendée : arrondissement de La Roche-sur-Yon et cantons de Beauvoir-sur-Mer, Challans, La Châtaigneraie, Fontenay-le-Comte, L'Hermenault, L'Ile-d'Yeu, La Mothe-Achard, Noirmoutier-en-l'Ile, Palluau, Pouzauges, Les Sables-d'Olonne, Saint-Gilles-Croix-de-Vie, Sainte-Hermine, Saint-Hilaire-des-Loges, Saint-Jean-de-Monts, Talmont-Saint-Hilaire ;
 
-- département de la Vienne : arrondissement de Châtellerault et cantons de Chauvigny, L'Isle-Jourdain, Lussac-les-Châteaux, Mirebeau, Montmorillon, Neuville-de-Poitou, Poitiers 1er canton, Poitiers 2e canton, Saint-Georges-lès-Baillargeaux, Saint-Julien-l'Ars, Saint-Savin, Trimouille, Villedieu-du-Clain, Vivonne, Vouillé, Poitiers 3e canton, Poitiers 4e canton, Poitiers 5e canton, Poitiers 6e canton, Poitiers 7e canton, Poitiers ;
+- département de la Vienne : arrondissement de Châtellerault et cantons de Chauvigny, L'Isle-Jourdain, Lussac-les-Châteaux, Mirebeau, Montmorillon, Neuville-de-Poitou, Poitiers 1er canton, Poitiers 2e canton, Saint-Georges-lès-Baillargeaux, Saint-Julien-l'Ars, Saint-Savin, La Trimouille, Villedieu-du-Clain, Vivonne, Vouillé, Poitiers 3e canton, Poitiers 4e canton, Poitiers 5e canton, Poitiers 6e canton, Poitiers 7e canton, Poitiers ;
 
 - département de la Haute-Vienne : arrondissement de Bellac et cantons d'Aixe-sur-Vienne, Ambazac, Châteauneuf-la-Forêt, Eymoutiers, Laurière, Nexon, Nieul, Pierre-Buffière, Saint-Junien - Est, Saint-Laurent-sur-Gorre, Saint-Léonard-de-Noblat, Limoges-Isle, Limoges-Couzeix, Limoges-Le Palais, Limoges-Condat, Limoges-Panazol, Saint-Junien - Ouest, Saint-Junien, Limoges ;
 
