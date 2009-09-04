@@ -54,7 +54,6 @@
 - [Décret n°79-980 du 13 novembre 1979](decret-n79-980-du-13-novembre-1979)
 - [Décret n°79-148 du 15 février 1979](decret-n79-148-du-15-fevrier-1979)
 - [Décret n°79-215 du 15 mars 1979](decret-n79-215-du-15-mars-1979)
-- [Décret n°79-472 du 15 juin 1979](decret-n79-472-du-15-juin-1979)
 - [Décret n°79-893 du 15 octobre 1979](decret-n79-893-du-15-octobre-1979)
 - [Décret n°79-894 du 15 octobre 1979](decret-n79-894-du-15-octobre-1979)
 - [Décret n°79-424 du 15 mai 1979](decret-n79-424-du-15-mai-1979)

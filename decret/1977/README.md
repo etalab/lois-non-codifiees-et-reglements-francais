@@ -59,7 +59,6 @@
 - [Décret n°77-524 du 18 mai 1977](decret-n77-524-du-18-mai-1977)
 - [Décret n°76-279 du 19 mars 1976](decret-n76-279-du-19-mars-1976)
 - [Décret n°77-47 du 19 janvier 1977](decret-n77-47-du-19-janvier-1977)
-- [Décret n°77-855 du 19 juillet 1977](decret-n77-855-du-19-juillet-1977)
 - [Décret n°77-1167 du 20 octobre 1977](decret-n77-1167-du-20-octobre-1977)
 - [Décret n°77-1171 du 20 octobre 1977](decret-n77-1171-du-20-octobre-1977)
 - [Décret n°77-1084 du 21 septembre 1977](decret-n77-1084-du-21-septembre-1977)

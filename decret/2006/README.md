@@ -93,6 +93,7 @@
 - [Décret n°2006-1369 du 9 novembre 2006 (MENF0602340D)](decret-n2006-1369-du-9-novembre-2006-menf0602340d)
 - [Décret n°2006-1371 du 9 novembre 2006 (AGRP0602015D)](decret-n2006-1371-du-9-novembre-2006-agrp0602015d)
 - [Décret n°2006-146 du 9 février 2006 (INDI0506498D)](decret-n2006-146-du-9-fevrier-2006-indi0506498d)
+- [Décret n°64-949 du 9 septembre 1964](decret-n64-949-du-9-septembre-1964)
 - [Décret n°2006-1366 du 10 novembre 2006 (SOCU0611880D)](decret-n2006-1366-du-10-novembre-2006-socu0611880d)
 - [Décret n°2006-1370 du 10 novembre 2006 (SANS0624118D)](decret-n2006-1370-du-10-novembre-2006-sans0624118d)
 - [Décret n°2006-826 du 10 juillet 2006 (SOCC0611264D)](decret-n2006-826-du-10-juillet-2006-socc0611264d)

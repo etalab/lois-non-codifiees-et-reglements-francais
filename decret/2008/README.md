@@ -98,7 +98,6 @@
 - [Décret n°2008-1132 du 4 novembre 2008 (MTST0825675D)](decret-n2008-1132-du-4-novembre-2008-mtst0825675d)
 - [Décret n°2008-1133 du 4 novembre 2008 (MTST0825664D)](decret-n2008-1133-du-4-novembre-2008-mtst0825664d)
 - [Décret n°2008-1137 du 4 novembre 2008 (BCFS0821541D)](decret-n2008-1137-du-4-novembre-2008-bcfs0821541d)
-- [Décret n°2008-1138 du 4 novembre 2008 (ECEC0801803D)](decret-n2008-1138-du-4-novembre-2008-ecec0801803d)
 - [Décret n°2008-1139 du 4 novembre 2008 (ECEA0822825D)](decret-n2008-1139-du-4-novembre-2008-ecea0822825d)
 - [Décret n°2008-1141 du 4 novembre 2008 (AGRG0823467D)](decret-n2008-1141-du-4-novembre-2008-agrg0823467d)
 - [Décret n°2008-1262 du 4 décembre 2008 (ECET0827021D)](decret-n2008-1262-du-4-decembre-2008-ecet0827021d)
