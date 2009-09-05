@@ -198,8 +198,6 @@
 - [Arrêté du 5 janvier 2009 (AGRF0900082A)](arrete-du-5-janvier-2009-agrf0900082a)
 - [Arrêté du 5 janvier 2009 (DEFH0825723A)](arrete-du-5-janvier-2009-defh0825723a)
 - [Arrêté du 5 janvier 2009 (DEFH0825730A)](arrete-du-5-janvier-2009-defh0825730a)
-- [Arrêté du 5 janvier 2009 (DEVP0830496A)](arrete-du-5-janvier-2009-devp0830496a)
-- [Arrêté du 5 janvier 2009 (DEVP0830497A)](arrete-du-5-janvier-2009-devp0830497a)
 - [Arrêté du 5 janvier 2009 (IOCC0828609A)](arrete-du-5-janvier-2009-iocc0828609a)
 - [Arrêté du 5 janvier 2009 (MAEA0900006A)](arrete-du-5-janvier-2009-maea0900006a)
 - [Arrêté du 5 juin 2009 (AGRG0912936A)](arrete-du-5-juin-2009-agrg0912936a)
