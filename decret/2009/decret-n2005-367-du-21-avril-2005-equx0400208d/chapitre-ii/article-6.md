@@ -1,0 +1,5 @@
+# Article 6
+
+La liste d'aptitude prévue au I de l'article 5 est établie par le ministre chargé du développement durable après avis d'une commission de sélection et de la commission administrative paritaire compétente.
+
+La commission de sélection est présidée par un fonctionnaire appartenant à un corps recruté par la voie de l'Ecole nationale d'administration ou à un corps technique supérieur de l'Etat, comptant au moins vingt années de services publics, désigné par le ministre chargé du développement durable et comprend des représentants de l'administration et des représentants des inspecteurs généraux de l'administration du développement durable élus par les membres du corps. La commission se prononce sur l'aptitude des candidats à exercer les fonctions d'inspecteur, compte tenu de leur expérience dans le champ des domaines et des missions mentionnés au II de l'article 1er. Sa composition et son fonctionnement sont fixés par arrêté conjoint du ministre chargé du développement durable et du ministre chargé de la fonction publique.

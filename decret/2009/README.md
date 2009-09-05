@@ -572,6 +572,7 @@
 - [Décret n°2009-577 du 20 mai 2009 (LOGU0906903D)](decret-n2009-577-du-20-mai-2009-logu0906903d)
 - [Décret n°2009-578 du 20 mai 2009 (BCFP0830288D)](decret-n2009-578-du-20-mai-2009-bcfp0830288d)
 - [Décret n°2009-590 du 20 mai 2009 (DEFH0827749D)](decret-n2009-590-du-20-mai-2009-defh0827749d)
+- [Décret n°2005-367 du 21 avril 2005 (EQUX0400208D)](decret-n2005-367-du-21-avril-2005-equx0400208d)
 - [Décret n°2009-447 du 21 avril 2009 (DEVN0826303D)](decret-n2009-447-du-21-avril-2009-devn0826303d)
 - [Décret n°2009-448 du 21 avril 2009 (DEVN0826311D)](decret-n2009-448-du-21-avril-2009-devn0826311d)
 - [Décret n°2009-450 du 21 avril 2009 (IOCO0902218D)](decret-n2009-450-du-21-avril-2009-ioco0902218d)

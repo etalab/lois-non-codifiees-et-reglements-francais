@@ -50,7 +50,7 @@ Inspection générale des affaires sociales.
 
 Ministère de l'urbanisme, du logement et des transports
 
-Inspecteurs généraux et inspecteurs de l'équipement.
+Corps des inspecteurs généraux et des inspecteurs de l'administration du développement durable.
 
 Inspecteurs généraux des monuments historiques chargés des sites et paysages.
 
@@ -60,7 +60,7 @@ Conservateurs régionaux des Bâtiments de France.
 
 Ministère du commerce, de l'artisanat et du tourisme
 
-Inspecteurs généraux et inspecteurs de l'équipement.
+Corps des inspecteurs généraux et des inspecteurs de l'administration du développement durable.
 
 Ministère de la culture
 
