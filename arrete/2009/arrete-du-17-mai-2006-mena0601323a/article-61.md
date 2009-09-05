@@ -2,18 +2,18 @@
 
 La délégation à la communication comprend :
 
-- le département de la communication pour l'enseignement supérieur et la recherche ;
+― le département de la communication pour l'enseignement supérieur et la recherche ;
 
-- le bureau de la veille, des sondages et de la documentation ;
+― le bureau de la veille, des sondages et de la documentation ;
 
-- le bureau de presse ;
+― le bureau de presse ;
 
-- la cellule intranet ;
+― le bureau du web ;
 
-- la mission animation des réseaux de communication ;
+― le bureau de l'animation de la communication interne et des réseaux ;
 
-- le bureau de l'édition et de la création graphique et multimédia ;
+― le bureau de la création graphique et de la production multimédia ;
 
-- le bureau des événements, des partenariats et de la publicité ;
+― le bureau des campagnes, des événements et des partenariats ;
 
-- le bureau des affaires financières et des marchés publics.
+― le bureau des affaires financières et des marchés publics.

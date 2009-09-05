@@ -1,0 +1,5 @@
+# Article 6
+
+Par dérogation à l'article 1er de l'arrêté du 3 juillet 2006 fixant les taux des indemnités de mission prévues à l'article 3 du décret du 3 juillet 2006 susvisé, les membres des délégations ministérielles et les agents nommément désignés par le ministre ou le chef de cabinet peuvent prétendre, dans la limite des sommes effectivement engagées, au remboursement de leur hébergement aux frais réels. Pour l'application de ce dispositif, l'ordre de mission autorisant le déplacement devra être signé par le ministre ou le chef de cabinet concerné et comporter la mention " hébergement aux frais réels ".
+
+Par dérogation à l'article 1er de l'arrêté du 3 juillet 2006 fixant les taux des indemnités de mission prévues à l'article 3 du décret du 3 juillet 2006 susvisé, les frais d'hébergement hôteliers (chambre et petit déjeuner) peuvent être remboursés dans la limite des sommes effectivement engagées plafonnées à deux fois le taux maximal fixé par ce texte, sur production des pièces justificatives, dans le cas de circonstances particulières laissées à l'appréciation de l'ordonnateur du déplacement.
