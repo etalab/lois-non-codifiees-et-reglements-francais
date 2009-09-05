@@ -514,6 +514,7 @@
 - [Arrêté du 16 juillet 2008 (MTSS0817568A)](arrete-du-16-juillet-2008-mtss0817568a)
 - [Arrêté du 16 juillet 2009 (BCFD0916807A)](arrete-du-16-juillet-2009-bcfd0916807a)
 - [Arrêté du 16 juillet 2009 (DEFH0902078A)](arrete-du-16-juillet-2009-defh0902078a)
+- [Arrêté du 16 juin 2008 (AGRG0814591A)](arrete-du-16-juin-2008-agrg0814591a)
 - [Arrêté du 16 juin 2008 (AGRM0814498A)](arrete-du-16-juin-2008-agrm0814498a)
 - [Arrêté du 16 juin 2008 (BCFL0815727A)](arrete-du-16-juin-2008-bcfl0815727a)
 - [Arrêté du 16 juin 2008 (BCFL0815774A)](arrete-du-16-juin-2008-bcfl0815774a)
