@@ -128,7 +128,6 @@
 - [Arrêté du 4 mars 2003 (AGRA0300334A)](arrete-du-4-mars-2003-agra0300334a)
 - [Arrêté du 4 mars 2003 (AGRA0300335A)](arrete-du-4-mars-2003-agra0300335a)
 - [Arrêté du 4 mars 2003 (BUDD0370002A)](arrete-du-4-mars-2003-budd0370002a)
-- [Arrêté du 4 mars 2003 (INDI0301181A)](arrete-du-4-mars-2003-indi0301181a)
 - [Arrêté du 4 mars 2003 (JUSE0340031A)](arrete-du-4-mars-2003-juse0340031a)
 - [Arrêté du 4 mars 2003 (JUSE0340032A)](arrete-du-4-mars-2003-juse0340032a)
 - [Arrêté du 4 mars 2003 (MCCB0300209A)](arrete-du-4-mars-2003-mccb0300209a)
