@@ -1383,7 +1383,6 @@
 - [Arrêté du 21 juin 2009 (SASF0915529A)](arrete-du-21-juin-2009-sasf0915529a)
 - [Arrêté du 21 novembre 2008 (PRMX0827680A)](arrete-du-21-novembre-2008-prmx0827680a)
 - [Arrêté du 21 septembre 2000 (ECOI0020203A)](arrete-du-21-septembre-2000-ecoi0020203a)
-- [Arrêté du 22 août 2009 (SASX0902434A)](arrete-du-22-aout-2009-sasx0902434a)
 - [Arrêté du 22 avril 2009 (BCFB0904448A)](arrete-du-22-avril-2009-bcfb0904448a)
 - [Arrêté du 22 avril 2009 (DEVA0909231A)](arrete-du-22-avril-2009-deva0909231a)
 - [Arrêté du 22 avril 2009 (DEVA0909236A)](arrete-du-22-avril-2009-deva0909236a)
