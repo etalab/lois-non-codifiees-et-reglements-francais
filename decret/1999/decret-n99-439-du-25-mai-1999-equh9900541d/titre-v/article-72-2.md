@@ -1,0 +1,3 @@
+# Article 72-2
+
+Les personnes ayant obtenu la reconnaissance de leur titre de formation professionnelle maritime ou souhaitant exercer une prestation temporaire et occasionnelle dans les conditions de l'article 72-1 doivent avoir les connaissances linguistiques nécessaires à l'exercice de leurs fonctions à bord d'un navire battant pavillon français. Le directeur régional des affaires maritimes est chargé de l'évaluation de ces connaissances selon des modalités fixées par arrêté du ministre chargé de la mer pour les autres fonctions que celles de capitaine ou d'officier chargé de sa suppléance.
