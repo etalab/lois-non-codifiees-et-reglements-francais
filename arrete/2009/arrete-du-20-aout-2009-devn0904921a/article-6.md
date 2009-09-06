@@ -1,0 +1,3 @@
+# Article 6
+
+Toute cessation temporaire d'activité d'un établissement d'élevage, de vente ou de transit de sangliers est déclarée dans le mois qui suit, par lettre recommandée avec accusé de réception, au préfet ainsi qu'à l'établissement de l'élevage (EdE) conformément à l'alinéa 3 de l'article 1er du présent arrêté. Le titulaire de l'autorisation d'ouverture indique dans sa déclaration la destination qui sera donnée aux animaux sous le contrôle de l'administration. Il dispose d'un délai de deux ans à compter de la déclaration de cessation pour décider de la remise en service des installations ou de la cessation définitive d'activité. Au cours de ce délai, il veille au maintien en bon état de la clôture afin d'éviter la création de « pièges à gibier ».
