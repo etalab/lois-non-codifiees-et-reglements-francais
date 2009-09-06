@@ -1,3 +1,3 @@
 # Article 4
 
-Le conseil est présidé par l'un de ses membres, choisi par le ministre des affaires étrangères.
+Le président du conseil des affaires étrangères est nommé par arrêté du ministre des affaires étrangères parmi les membres du conseil.
