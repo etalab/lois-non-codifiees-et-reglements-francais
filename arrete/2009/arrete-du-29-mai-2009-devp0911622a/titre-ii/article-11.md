@@ -166,7 +166,7 @@ L'organisme ayant délivré un certificat d'agrément s'assure de la réalisatio
 
 Lorsque l'organisme agréé visé au paragraphe 7 n'a pas lui-même délivré l'agrément du modèle type des emballages, le fabricant des emballages, ou le titulaire de l'agrément lorsque celui-ci n'en est pas le fabricant, doit fournir aux intervenants de l'organisme agréé une copie du certificat d'agrément, un exemplaire du plan d'assurance de la qualité visé au paragraphe 3 et, lors d'un contrôle périodique, une copie de l'attestation de conformité relative au contrôle de fabrication précédent.
 
-L'organisme agréé visé au paragraphe 7 est alors en droit de vérifier la validité et l'exactitude du ces documents auprès du ou des organisme(s) concernés.
+L'organisme agréé visé au paragraphe 7 est alors en droit de vérifier la validité et l'exactitude de ces documents auprès du ou des organisme(s) concernés.
 
 7.6. Retrait de l'agrément.
 
