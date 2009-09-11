@@ -741,6 +741,7 @@
 - [Décret n°2009-997 du 24 août 2009 (DEVX0914963D)](decret-n2009-997-du-24-aout-2009-devx0914963d)
 - [Décret n°2009-998 du 24 août 2009 (BCFB0916625D)](decret-n2009-998-du-24-aout-2009-bcfb0916625d)
 - [Décret n°2009-999 du 24 août 2009 (IOCC0908270D)](decret-n2009-999-du-24-aout-2009-iocc0908270d)
+- [Décret n°96-352 du 24 avril 1996 (BUDF9500012D)](decret-n96-352-du-24-avril-1996-budf9500012d)
 - [Décret n°2008-1220 du 25 novembre 2008 (BCFB0825011D)](decret-n2008-1220-du-25-novembre-2008-bcfb0825011d)
 - [Décret n°2009-1009 du 25 août 2009 (DEVT0911736D)](decret-n2009-1009-du-25-aout-2009-devt0911736d)
 - [Décret n°2009-1010 du 25 août 2009 (JUSB0915495D)](decret-n2009-1010-du-25-aout-2009-jusb0915495d)

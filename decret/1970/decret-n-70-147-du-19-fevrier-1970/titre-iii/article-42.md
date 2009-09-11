@@ -20,4 +20,6 @@ Les experts comptables honoraires et les comptables agréés honoraires figurent
 
 Le conseil régional dresse une liste des personnes, et sociétés autorisées à exercer les professions d'expert comptable ou de comptable agréé, dans les conditions prévues à l'article 26 de l'ordonnance du 19 septembre 1945. Ne sont toutefois inscrites sur cette liste que les personnes résidant en France et les sociétés y possédant à demeure un bureau ouvert en permanence au public et dont la direction est assurée sur place par un délégué accrédité résidant en France et personnellement autorisé à y exercer la même profession que la société qu'il représente.
 
+Le conseil régional dresse une liste des personnes pouvant exercer de façon temporaire et occasionnelle la profession d'expert-comptable en France, sous leur titre d'origine, dont il a reçu la déclaration transmise par le Conseil supérieur des experts-comptables en application de l'article 26-1 de l'ordonnance du 19 septembre 1945.
+
 L'inscription au tableau d'une circonscription donne le droit d'exercer la profession sur l'ensemble du territoire national.
