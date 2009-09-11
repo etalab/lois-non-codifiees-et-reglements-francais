@@ -1,0 +1,3 @@
+# Article 2
+
+Dans le cas où la vérification du respect de prescriptions réglementaires applicables aux rejets des installations classées pour la protection de l'environnement passe par la réalisation de mesures, celles-ci doivent être réalisées par un laboratoire disposant, pour les paramètres concernés, de l'agrément du ministère en charge de l'environnement conformément à l'arrêté du 29 novembre 2006 portant modalités d'agrément des laboratoires effectuant des analyses dans le domaine de l'eau et des milieux aquatiques et à l'arrêté du 4 septembre 2000 portant modalités d'agrément des laboratoires ou organismes pour certains types de prélèvements et d'analyses à l'émission des substances dans l'atmosphère.
