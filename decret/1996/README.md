@@ -565,7 +565,6 @@
 - [Décret n°96-476 du 23 mai 1996 (INTD9600081D)](decret-n96-476-du-23-mai-1996-intd9600081d)
 - [Décret n°96-1132 du 24 décembre 1996 (TAST9611668D)](decret-n96-1132-du-24-decembre-1996-tast9611668d)
 - [Décret n°96-1141 du 24 décembre 1996 (INTC9600306D)](decret-n96-1141-du-24-decembre-1996-intc9600306d)
-- [Décret n°96-352 du 24 avril 1996 (BUDF9500012D)](decret-n96-352-du-24-avril-1996-budf9500012d)
 - [Décret n°96-353 du 24 avril 1996 (ECOT9610263D)](decret-n96-353-du-24-avril-1996-ecot9610263d)
 - [Décret n°96-363 du 24 avril 1996 (EQUU9600216D)](decret-n96-363-du-24-avril-1996-equu9600216d)
 - [Décret n°96-365 du 24 avril 1996 (AGRP9502499D)](decret-n96-365-du-24-avril-1996-agrp9502499d)
