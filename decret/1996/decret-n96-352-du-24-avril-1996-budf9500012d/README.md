@@ -2,5 +2,3 @@
 
 - [Section 1 : Règles applicables aux personnes mentionnées à l'article 26 de l'ordonnance du 19 septembre 1945 susvisée.](section-1)
 - [Section 2 : Règles applicables aux personnes mentionnées à l'article 27 de l'ordonnance du 19 septembre 1945 susvisée.](section-2)
-- [Section 3 : De l'épreuve d'aptitude.](section-3)
-- [Article 9](article-9.md)
