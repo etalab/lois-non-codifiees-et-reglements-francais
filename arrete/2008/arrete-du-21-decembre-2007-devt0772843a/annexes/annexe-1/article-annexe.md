@@ -5,17 +5,17 @@ ARRÊTÉ DU 21 DÉCEMBRE 2007 **RELATIF AUX TITRES DE NAVIGATION DES BÂTIMENTS 
 
 I. ― Le rapport de chacun des organismes de contrôle doit être rédigé en français, de manière claire, lisible et utiliser une terminologie conforme aux textes et normes en usage. Il doit comporter les éléments suivants :
 
-1. Pour les experts en bateaux de navigation intérieure, un dossier d'identification composé des éléments suivants :
+1. Pour les organismes de contrôle autres que les sociétés de classification et les organismes notifiés, un dossier d'identification composé des éléments suivants :
 
-― nom, prénom, coordonnées, raison sociale ;
+- nom, prénom, coordonnées ;
 
-― photocopie d'une pièce d'identité ;
+- raison sociale pour les personnes morales ;
 
-― domaines de compétence parmi la liste du II de la présente annexe ;
+- domaines de compétence parmi la liste du II de la présente annexe ;
 
-― curriculum vitae indiquant la liste des diplômes obtenus et l'expérience professionnelle dans les domaines de compétence cités ;
+- curriculum vitae des personnes ayant procédé au contrôle indiquant la liste des diplômes obtenus et l'expérience professionnelle dans les domaines de compétence cités ;
 
-― attestation d'assurance garantissant la responsabilité civile.
+- attestation d'assurance garantissant la responsabilité civile.
 
 2. Un dossier technique composé des éléments suivants :
 
