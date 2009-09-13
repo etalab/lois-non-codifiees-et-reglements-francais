@@ -1,0 +1,3 @@
+# SECTION 2 : INTERVENTION DE LA COMMISSION DE VISITE
+
+- [Article 22](article-22.md)
