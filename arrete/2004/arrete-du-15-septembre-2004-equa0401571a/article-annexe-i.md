@@ -546,6 +546,18 @@ Paris-Moscou.
 
 Paris-Saint-Pétersbourg.
 
+Paris - Iekaterinbourg.
+
+Paris - Irkoutsk.
+
+Paris - Khabarovsk.
+
+Paris - Krasnoïarsk.
+
+Paris - Nijnevartovsk.
+
+Paris - Novossibirsk.
+
 Salvador
 
 Paris-San Salvador.
