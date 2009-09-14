@@ -11,7 +11,7 @@ et de l'article 15 du décret n° 85-390 du 1er avril 1985
 
 3. Pour Joker +, la part affectée aux gagnants est de 56, 600 % et la part affectée à la dotation structurelle du fonds de contrepartie de 1,000 % ;
 
-4. Pour Keno, la part affectée aux gagnants est de 59,000 % et la part affectée à la dotation structurelle du fonds de contrepartie de 1,930 % ;
+4. Pour Keno, la part affectée aux gagnants est de 63, 000 % et la part affectée à la dotation structurelle du fonds de contrepartie de 1, 930 % ;
 
 5. Pour Rapido, la part affectée aux gagnants est de 66,520 % et la part affectée à la dotation structurelle du fonds de contrepartie de 0,180 % ;
 
@@ -19,6 +19,6 @@ et de l'article 15 du décret n° 85-390 du 1er avril 1985
 
 7. Pour l'ensemble des jeux de loterie instantanée et sur un nombre significatif d'émissions, la part affectée aux gagnants est en moyenne au minimum de 50 % et au maximum de 70 % de la valeur nominale des émissions. Pour le jeu Millionnaire, la part affectée à la dotation structurelle du fonds de contrepartie est de 0, 600 % ;
 
-8. Pour les formules du jeu Bingo fondées sur le principe de la répartition, la part affectée aux gagnants est de 65, 000 % ; pour les formules du jeu Bingo fondées sur le principe de la contrepartie, la part moyenne affectée aux gagnants est de 64, 000 % et la part affectée à la dotation structurelle du fonds de contrepartie est de 1 % (1) ;
+8. Pour les formules du jeu Bingo fondées sur le principe de la répartition, la part affectée aux gagnants est de 65, 000 % ; pour les formules du jeu Bingo fondées sur le principe de la contrepartie, la part moyenne affectée aux gagnants est de 64, 000 % et la part affectée à la dotation structurelle du fonds de contrepartie est de 1 % ;
 
-9. Pour Oxo, la part affectée aux gagnants est de 67, 1 % et la part affectée à la dotation structurelle du fonds de contrepartie est de 0, 5 % (2).
+9. Pour Oxo, la part affectée aux gagnants est de 67, 1 % et la part affectée à la dotation structurelle du fonds de contrepartie est de 0, 5 %.
