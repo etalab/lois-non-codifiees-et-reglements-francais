@@ -1,6 +1,6 @@
 # Article 2121-7
 
-La direction de la police urbaine de proximité (DPUP) de la préfecture de police est chargée, à Paris, en collaboration avec les autres directions et services de la préfecture de police :
+La direction de la sécurité de proximité de l'agglomération parisienne de la préfecture de police est chargée à Paris et dans les départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne :
 
 - de la prévention de la criminalité, de la délinquance et des autres atteintes à la sûreté et à la tranquillité publiques ;
 
@@ -10,7 +10,7 @@ La direction de la police urbaine de proximité (DPUP) de la préfecture de poli
 
 - de l'accueil permanent du public, notamment des victimes, de l'aide et de l'assistance aux personnes et de toutes missions de relation entre la police, la population et les partenaires de la politique de sécurité.
 
-La direction de la police urbaine de proximité participe, en liaison avec la DOPC, à l'application de la réglementation relative à la circulation et, en tant que de besoin, au maintien de l'ordre public.
+La direction de la sécurité de proximité de l'agglomération parisienne participe, en liaison avec la DOPC, à l'application de la réglementation relative à la circulation au maintien de l'ordre public.
 
 Elle concourt à l'exécution de missions de police administrative.
 

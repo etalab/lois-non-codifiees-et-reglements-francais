@@ -1,6 +1,6 @@
 # Article 2123-3
 
-Les fonctionnaires du corps de commandement de la police nationale affectés à la direction de la police urbaine de proximité sont placés sous l'autorité des commissaires de police qu'ils secondent ou suppléent dans l'exercice de leurs fonctions.
+Les fonctionnaires du corps de commandement de la police nationale affectés à la direction de la sécurité de proximité de l'agglomération parisienne sont placés sous l'autorité des commissaires de police qu'ils secondent ou suppléent dans l'exercice de leurs fonctions.
 
 Ils exercent leur commandement sur les personnels placés sous leurs ordres au sein des services et des bureaux, mettent en oeuvre les directives et instructions reçues, procèdent ou font procéder aux actes nécessaires à leur accomplissement et en contrôlent l'exécution.
 

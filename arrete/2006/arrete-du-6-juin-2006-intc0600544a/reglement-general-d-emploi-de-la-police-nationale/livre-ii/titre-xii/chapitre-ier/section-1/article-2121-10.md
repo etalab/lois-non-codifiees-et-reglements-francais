@@ -14,4 +14,6 @@ La direction opérationnelle des services techniques et logistiques de la préfe
 
 - d'assurer l'acquisition, le déploiement, la réparation, la maintenance et le renouvellement des équipements, et prestations qui y sont attachées, pour ce qui concerne les matériels roulants, l'habillement, l'armement, le matériel technique spécifique, l'imprimerie et la reprographie, ainsi que les matériels et fournitures de bureau.
 
+Elle est chargée, en outre, en coordination avec les services de police et de gendarmerie territorialement compétents, de la sécurité des personnes et des biens sur les voies navigables de la région d'Ile-de-France et concourt, avec les autres services et professionnels concernés, aux secours d'urgence sur ces voies.
+
 La direction opérationnelle des services techniques et logistiques peut être appelée à apporter le concours de ses moyens spécifiques en dehors du ressort du SGAP de Paris.
