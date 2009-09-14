@@ -1,0 +1,3 @@
+# Article 1
+
+Après consultation de la société concessionnaire APRR, les tarifs de péages toutes taxes comprises (TTC) établis selon les modalités prévues à l'article 25 du cahier des charges de la concession de cette société et applicables aux véhicules des classes 1 à 5 sur les autoroutes A 36 (entre la bifurcation avec l'A 31 et Saint-Maurice) et A 39 (entre Soirans et la bifurcation avec l'A 40 et entre Dijon-Crimolois et la bifurcation avec l'A 31) sont complétés pour tenir compte de la mise en service du diffuseur de la RD 120 (aire du Jura - Arlay) et sont ceux figurant en annexe 1 au présent arrêté.
