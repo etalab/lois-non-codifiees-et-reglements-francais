@@ -2875,7 +2875,7 @@ Le siège et le ressort des bureaux des hypothèques sont fixés conformément a
 <p>Seine-Saint-Denis</p>
 </td>
 <td valign="top" width="132">
-<p>Noisy-le-Sec (1er bureau)</p>
+<p>Bobigny 1er bureau</p>
 </td>
 <td valign="top" width="416">
 <p>Communes de Bagnolet, Bobigny, Bondy, Drancy, Les Lilas, Noisy-le-Sec, Pantin, Les Pavillons-sous-Bois, Le Pré-Saint-Gervais, Romainville.</p>
@@ -2884,7 +2884,7 @@ Le siège et le ressort des bureaux des hypothèques sont fixés conformément a
 <tr>
 <td valign="top" width="132"/>
 <td valign="top" width="132">
-<p>Noisy-le-Sec (2e bureau) </p>
+<p>Bobigny 2e bureau</p>
 </td>
 <td valign="top" width="416">
 <p>Communes d'Aubervilliers, Le Bourget, La Courneuve, Dugny, Epinay-sur-Seine, L'Ile-Saint-Denis, Pierrefitte-sur-Seine, Saint-Denis, Saint-Ouen, Stains, Villetaneuse.</p>
@@ -2893,7 +2893,7 @@ Le siège et le ressort des bureaux des hypothèques sont fixés conformément a
 <tr>
 <td valign="top" width="132"/>
 <td valign="top" width="132">
-<p>Noisy-le-Sec (3e bureau) </p>
+<p>Bobigny 3e bureau</p>
 </td>
 <td valign="top" width="416">
 <p>Communes d'Aulnay-sous-Bois, Le Blanc-Mesnil, Clichy-sous-Bois, Coubron, Livry-Cargan, Sevran, Tremblay-lès-Gonesse, Vaujours, Villepinte.</p>
@@ -2902,7 +2902,7 @@ Le siège et le ressort des bureaux des hypothèques sont fixés conformément a
 <tr>
 <td valign="top" width="132"/>
 <td valign="top" width="132">
-<p>Noisy-le-Sec (4e bureau)</p>
+<p>Bobigny 4e bureau</p>
 </td>
 <td valign="top" width="416">
 <p>Communes de Gagny, Gournay-sur-Marne, Montfermeil, Neuilly-Plaisance, Neuilly-sur-Marne, Noisy-le-Grand, Le Raincy.</p>
@@ -2911,10 +2911,10 @@ Le siège et le ressort des bureaux des hypothèques sont fixés conformément a
 <tr>
 <td valign="top" width="132"/>
 <td valign="top" width="132">
-<p>Noisy-le-Sec (5e bureau) </p>
+<p>Bobigny 5e bureau</p>
 </td>
 <td valign="top" width="416">
-<p>Communes de Montreuil-sous-Bois, Rosny-sous-Bois, Villemomble.</p>
+<p>Communes de Montreuil, Rosny-sous-Bois, Villemomble.</p>
 </td>
 </tr>
 </tbody>
