@@ -800,7 +800,6 @@
 - [Arrêté du 21 octobre 2003 (SOCF0311652A)](arrete-du-21-octobre-2003-socf0311652a)
 - [Arrêté du 21 octobre 2008 (AGRE0825137A)](arrete-du-21-octobre-2008-agre0825137a)
 - [Arrêté du 21 octobre 2008 (AGRS0824091A)](arrete-du-21-octobre-2008-agrs0824091a)
-- [Arrêté du 21 octobre 2008 (DEFD0825354A)](arrete-du-21-octobre-2008-defd0825354a)
 - [Arrêté du 21 octobre 2008 (DEVE0825322A)](arrete-du-21-octobre-2008-deve0825322a)
 - [Arrêté du 21 octobre 2008 (DEVE0825481A)](arrete-du-21-octobre-2008-deve0825481a)
 - [Arrêté du 21 octobre 2008 (DEVO0821443A)](arrete-du-21-octobre-2008-devo0821443a)
