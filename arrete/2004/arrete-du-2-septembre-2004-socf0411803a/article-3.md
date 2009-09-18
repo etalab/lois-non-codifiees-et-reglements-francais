@@ -1,9 +1,7 @@
 # Article 3
 
-Le titre professionnel de chef d'équipe gros oeuvre est composé de deux unités constitutives, dont la liste suit :
+Le titre professionnel chef d'équipe gros œuvre est composé de l'unité constitutive suivante :
 
-1. Diriger une équipe gros oeuvre sur un chantier de maçonnerie ;
+Diriger une équipe gros œuvre sur un chantier de bâtiment.
 
-2. Diriger une équipe gros oeuvre sur un chantier de béton armé.
-
-Elles peuvent être sanctionnées par des certificats de compétences professionnelles (CCP) dans les conditions prévues par l'arrêté du 25 novembre 2002 susvisé.
+Elle peut être sanctionnée par des certificats de compétences professionnelles (CCP) dans les conditions prévues par l'arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
