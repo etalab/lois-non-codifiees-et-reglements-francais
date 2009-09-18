@@ -3,7 +3,7 @@
 - [Article 1](article-1.md)
 - [Section 1 :   Consignes, saisies et retraits de la consommation de produits, denrées alimentaires ou aliments pour animaux](section-1)
 - [Article 2](article-2.md)
-- [Section 2 :   Application des dispositions   des articles L. 233-1 et L. 231-2-1 du code rural](section-2)
+- [Section 2 :   Application des dispositions du code rural relatives au contrôle sanitaire des animaux et des aliments](section-2)
 - [Section 3 :   Transport des denrées alimentaires](section-3)
 - [Section 4 :   Santé publique vétérinaire et plan opérationnel   de maîtrise des risques sanitaires](section-4)
 - [Section 5 :   Protection animale](section-5)
