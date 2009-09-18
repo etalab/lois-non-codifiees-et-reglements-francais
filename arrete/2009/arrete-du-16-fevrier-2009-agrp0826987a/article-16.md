@@ -7,3 +7,5 @@
 3. Le dépassement du délai de deux mois entre la réception à l'établissement créé en application de l'article L. 621-1 du code rural, compétent en matière viticole, de la demande d'aide et la date de la dernière opération d'enrichissement en cause, prévu à l'article 2 du présent arrêté, entraîne une minoration fixée à l'article 17, paragraphe 4.
 
 4. Sans préjudice des délais de fourniture des pièces complémentaires prévues aux articles 10, paragraphe 2, 11, paragraphe 2, et 13, paragraphe 1, la demande d'aide complète est présentée au plus tard le 31 mai de la campagne, accompagnée de l'attestation de respect des obligations communautaires (AROC).
+
+5. La déclaration préalable d'enrichissement doit être souscrite, au plus tard deux jours avant le début de la première opération, auprès du service des douanes territorialement compétent.
