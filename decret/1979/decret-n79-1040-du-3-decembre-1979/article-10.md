@@ -1,7 +1,5 @@
 # Article 10
 
-Tout propriétaire ou détenteur d'archives classées qui se propose d'en transférer définitivement tout ou partie d'un lieu dans un autre, à l'intérieur du territoire français, doit [*obligations*] en aviser par écrit le ministre chargé de la culture, en lui indiquant le nouvel immeuble où il se propose de transférer les archives, ainsi que le nom et le domicile du propriétaire de l'immeuble.
+Tout propriétaire, détenteur ou dépositaire d'archives classées qui projette de les déplacer d'un lieu dans un autre à l'intérieur du territoire français est tenu d'en informer la direction des Archives de France par lettre recommandée avec demande d'avis de réception au moins quinze jours avant le déplacement projeté. Cette déclaration mentionne l'adresse du lieu où les archives seront conservées après déplacement ainsi que le nom et le domicile du propriétaire de l'immeuble.
 
-Le transfert ne peut être effectué qu'après la délivrance par le ministre d'un récépissé de ladite déclaration. Le récépissé doit être délivré [*délai*] dans les huit jours de la déclaration.
-
-Le transfert est aussitôt mentionné sur la liste définie à l'article 6 ci-dessus.
+Le déplacement est aussitôt mentionné sur la liste prévue à l'article 6.

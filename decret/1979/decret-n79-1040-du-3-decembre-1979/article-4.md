@@ -6,4 +6,4 @@ Si la proposition ne provoque pas d'opposition de la part du propriétaire, le c
 
 La teneur de l'arrêté et sa notification au propriétaire sont conformes aux dispositions de l'article 2 ci-dessus.
 
-Si la proposition provoque l'opposition du propriétaire, le ministre ayant pris l'initiative de la procédure, après en avoir informé le ministre chargé de la culture, soumet le cas à la commission supérieure des archives qui décide, dans un délai d'un mois, s'il y a lieu de poursuivre le classement d'office.
+Si la proposition provoque l'opposition du propriétaire, le ministre ayant pris l'initiative de la procédure, après en avoir informé le ministre chargé de la culture, soumet le cas au Conseil supérieur des archives qui décide, dans un délai d'un mois, s'il y a lieu de poursuivre le classement d'office.
