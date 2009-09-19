@@ -1,0 +1,3 @@
+# PARAGRAPHE 1 : INSPECTIONS ANNUELLES
+
+- [Article 45](article-45.md)
