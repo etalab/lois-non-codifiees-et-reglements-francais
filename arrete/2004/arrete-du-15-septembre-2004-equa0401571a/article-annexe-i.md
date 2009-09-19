@@ -652,6 +652,10 @@ Paris-Hanoi.
 
 Paris-Hô Chi Minh-Ville.
 
+Zambie
+
+Paris - Lusaka.
+
 Zimbabwe
 
 Paris-Harare.
