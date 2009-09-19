@@ -8,4 +8,4 @@ L'organisme doit également définir une zone dont l'accès est restreint pour l
 
 Sauf pour des essais sur véhicule réalisés par le technicien de l'organisme, les cartes d'atelier ne doivent en aucun cas quitter les locaux de l'organisme.
 
-Dans la zone accessible au public, en particulier aux chauffeurs, il devra être procédé à l'affichage soit d'une copie de la décision d'agrément, annexes comprises, soit au minimum d'une fiche indiquant le numéro de l'agrément, l'adresse de la DRIRE compétente, la portée de l'agrément et la liste à jour des opérateurs cités dans l'agrément pour la réalisation des opérations réglementaires.
+Dans la zone accessible au public, en particulier aux chauffeurs, il devra être procédé à l'affichage soit d'une copie de la décision d'agrément, annexes comprises, soit au minimum d'une fiche indiquant le numéro de l'agrément, l'adresse de l'autorité locale en charge de la métrologie légale compétente, la portée de l'agrément et la liste à jour visée à l'article 14 bis.

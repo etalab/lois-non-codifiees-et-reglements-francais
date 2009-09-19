@@ -6,4 +6,4 @@ L'organisme doit disposer d'une personne, nommément désignée, en charge du re
 
 Ce responsable doit récupérer les cartes d'atelier périmées ou présentant un dysfonctionnement, les stocker de manière sécurisée, informer l'autorité de délivrance des cartes et les tenir à sa disposition. De même, il est chargé de récupérer et stocker les cartes des techniciens ayant quitté l'organisme, ayant cessé leur activité réglementée ou ayant fait l'objet d'une mesure de suspension.
 
-Il est garant vis-à-vis de la direction régionale de l'industrie, de la recherche et de l'environnement (DRIRE) du fait qu'aucun technicien ne contreviendra à ses obligations définies par le règlement CEE n° 3821/85 susvisé et le présent arrêté.
+Il est garant vis-à-vis de l'autorité locale en charge de la métrologie légale du fait qu'aucun technicien ne contreviendra à ses obligations définies par le règlement CEE n° 3821/85 susvisé et le présent arrêté.
