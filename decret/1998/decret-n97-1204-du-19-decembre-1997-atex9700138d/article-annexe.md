@@ -747,3 +747,18 @@ II. - Code de l'urbanisme :
 </tr>
 </tbody>
 </table>
+
+III. - Code de la défense :
+
+<table>
+<tbody>
+<tr>
+<td valign="top" width="342">
+<p align="left">Autorisations d'importation et d'exportation de matières nucléaires, suspension ou retrait de ces mesures.</p>
+</td>
+<td valign="top" width="342">
+<p>Articles L. 1333-2, L. 1333-3, R. 1333-3 et R. 1333-6</p>
+</td>
+</tr>
+</tbody>
+</table>
