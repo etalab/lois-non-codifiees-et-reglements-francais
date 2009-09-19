@@ -1,15 +1,9 @@
 # Article 8
 
-Les droits prévus à l'article 25 de la loi susvisée du 3 janvier 1979 sont perçus :
+Les droits prévus à l'article L. 213-8 du code du patrimoine sont perçus :
 
-- pour les documents conservés dans les archives nationales, au profit de l'Etat ;
+a) Au profit de l'Etat, pour les documents conservés par les services des archives nationales ou par les services d'archives relevant du ministère des affaires étrangères ou du ministère de la défense, ainsi que pour les documents conservés par les autres administrations de l'Etat ;
 
-- pour les documents conservés dans les dépôts d'archives relevant des ministères des affaires étrangères et de la défense, au profit de l'Etat.
+b) Au profit des personnes morales de droit public ou des organismes de droit privé pour leurs archives intermédiaires, pour les archives qu'ils sont autorisés à conserver eux-mêmes en application du I de l'article L. 212-4 du code du patrimoine et pour celles qu'ils déposent en application du II du même article ;
 
-Le produit de ces droits, perçus au profit de l'Etat, est rattaché par voie de fonds de concours au budget des ministères intéressés :
-
-- pour les documents conservés dans les archives départementales, au profit du département ;
-
-- pour les documents conservés dans les archives communales, au profit de la commune ;
-
-- pour les documents conservés dans les dépôts d'archives intermédiaires et dans les dépôts d'archives autonomes prévus à l'article 10 du décret n° 79-1037 du 3 décembre 1979 sur la compétence des services d'archives publics, au profit, selon le cas, de l'Etat ou de la collectivité locale dont relèvent ces dépôts.
+c) Au profit des régions, des départements, des groupements de collectivités et des communes, pour les documents qu'ils conservent.

@@ -1,13 +1,17 @@
 # Article 5
 
-Les visas de conformité de copies, reproductions photographiques et extraits sont délivrés :
+Les visas de conformité de copies, reproductions et extraits sont délivrés :
 
-- pour les documents conservés dans les archives nationales, par le directeur général des Archives de France ; pour les documents conservés dans les archives départementales, par le directeur des services d'archives du département ;
+a) Pour les documents conservés par les services des archives nationales, par le directeur du service concerné ;
 
-- pour les documents conservés dans les archives communales, par le maire ;
+b) Pour les documents conservés par les services d'archives relevant du ministère des affaires étrangères ou du ministère de la défense, par les chefs des services d'archives de ces ministères ;
 
-- pour les documents conservés dans les dépôts d'archives intermédiaires et dans les dépôts d'archives autonomes prévus à l'article 10 du décret n° 79-1037 du 3 décembre 1979 sur la compétence des services d'archives publics, par l'autorité dont dépendent ces dépôts ;
+c) Pour les documents conservés par les services d'archives des régions, par le président du conseil régional ;
 
-- pour les documents conservés dans les dépôts d'archives relevant du ministère des affaires étrangères, par le directeur des archives diplomatiques ;
+d) Pour les documents conservés par les services d'archives des départements, par le directeur du service départemental d'archives ;
 
-- pour les documents conservés dans les dépôts d'archives relevant du ministère de la défense, par les chefs de services d'archives de ce ministère.
+e) Pour les documents conservés par les services d'archives des groupements de collectivités territoriales, par le président du groupement ;
+
+f) Pour les documents conservés par les services d'archives des communes, par le maire ;
+
+g) Pour les documents conservés comme archives intermédiaires, par le service, l'établissement ou l'organisme qui les a produits, par l'autorité dont ils dépendent ; la même règle s'applique aux documents conservés par les services, établissements et organismes autorisés à gérer eux-mêmes leurs archives en application du I de l'article L. 212-4 du code du patrimoine et aux archives déposées dans les conditions prévues au II du même article.
