@@ -1049,6 +1049,7 @@
 - [Décret n°79-267 du 30 mars 1979](decret-n79-267-du-30-mars-1979)
 - [Décret n°96-80 du 30 janvier 1996 (MENF9502604D)](decret-n96-80-du-30-janvier-1996-menf9502604d)
 - [Décret n°97-599 du 30 mai 1997 (DEFP9701465D)](decret-n97-599-du-30-mai-1997-defp9701465d)
+- [Décret n°2003-1370 du 31 décembre 2003 (SOCF0312021D)](decret-n2003-1370-du-31-decembre-2003-socf0312021d)
 - [Décret n°2008-1546 du 31 décembre 2008 (PRMX0831580D)](decret-n2008-1546-du-31-decembre-2008-prmx0831580d)
 - [Décret n°2008-1548 du 31 décembre 2008 (ECET0825891D)](decret-n2008-1548-du-31-decembre-2008-ecet0825891d)
 - [Décret n°2008-1549 du 31 décembre 2008 (ECET0815732D)](decret-n2008-1549-du-31-decembre-2008-ecet0815732d)
