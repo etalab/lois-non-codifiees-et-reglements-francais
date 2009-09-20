@@ -1074,7 +1074,6 @@
 - [Décret n°90-104 du 30 janvier 1990 (COMA9000002D)](decret-n90-104-du-30-janvier-1990-coma9000002d)
 - [Décret n°2005-628 du 30 mai 2005 (ECOP0500312D)](decret-n2005-628-du-30-mai-2005-ecop0500312d)
 - [Décret n°2003-1369 du 31 décembre 2003 (PRMX0307050D)](decret-n2003-1369-du-31-decembre-2003-prmx0307050d)
-- [Décret n°2003-1370 du 31 décembre 2003 (SOCF0312021D)](decret-n2003-1370-du-31-decembre-2003-socf0312021d)
 - [Décret n°2003-1371 du 31 décembre 2003 (SOCS0324980D)](decret-n2003-1371-du-31-decembre-2003-socs0324980d)
 - [Décret n°2003-1372 du 31 décembre 2003 (SOCS0324987D)](decret-n2003-1372-du-31-decembre-2003-socs0324987d)
 - [Décret n°2003-1374 du 31 décembre 2003 (SOCF0311937D)](decret-n2003-1374-du-31-decembre-2003-socf0311937d)
