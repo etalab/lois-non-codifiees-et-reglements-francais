@@ -1,0 +1,5 @@
+# Article 29
+
+I. ― Par dérogation à l'article 18 du décret du 31 décembre 2003 dans sa rédaction issue du présent décret, les agents affectés dans les emplois fonctionnels de directeur régional et de directeur régional adjoint avant la création de Pôle emploi, et qui ne sont pas nommés directeur régional, directeur régional adjoint ou directeur régional délégué de Pôle emploi, demeurent classés à l'échelon correspondant à l'emploi fonctionnel qu'ils occupaient avec conservation de l'ancienneté acquise dans la limite de la durée du temps à passer dans l'échelon d'accueil.
+
+II. ― Par dérogation à l'article 18 du décret du 31 décembre 2003 dans sa rédaction issue du présent décret, les agents affectés dans l'emploi fonctionnel de directeur délégué avant la création de Pôle emploi, et qui ne sont pas nommés directeur territorial ou directeur territorial délégué de Pôle emploi, demeurent classés à l'échelon correspondant à l'emploi fonctionnel qu'ils occupaient avec conservation de l'ancienneté acquise dans la limite de la durée du temps à passer dans l'échelon d'accueil.

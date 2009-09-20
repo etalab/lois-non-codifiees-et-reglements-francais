@@ -9,3 +9,4 @@
 - [TITRE VII : DISCIPLINE](titre-vii)
 - [TITRE VIII : DISPOSITIONS DIVERSES.](titre-viii)
 - [TITRE IX : DISPOSITIONS TRANSITOIRES ET FINALES.](titre-ix)
+- [Article 52](article-52.md)
