@@ -470,6 +470,7 @@
 - [Décret n°2009-877 du 17 juillet 2009 (DEVT0907239D)](decret-n2009-877-du-17-juillet-2009-devt0907239d)
 - [Décret n°2006-572 du 17 mai 2006 (MENA0601257D)](decret-n2006-572-du-17-mai-2006-mena0601257d)
 - [Décret n°2008-1348 du 18 décembre 2008 (BCFS0825385D)](decret-n2008-1348-du-18-decembre-2008-bcfs0825385d)
+- [Décret n°2009-1132 du 18 septembre 2009 (AGRT0916763D)](decret-n2009-1132-du-18-septembre-2009-agrt0916763d)
 - [Décret n°2009-181 du 18 février 2009 (PRMX0900646D)](decret-n2009-181-du-18-fevrier-2009-prmx0900646d)
 - [Décret n°2009-182 du 18 février 2009 (PRMX0904014D)](decret-n2009-182-du-18-fevrier-2009-prmx0904014d)
 - [Décret n°2009-187 du 18 février 2009 (MTSX0901242D)](decret-n2009-187-du-18-fevrier-2009-mtsx0901242d)
