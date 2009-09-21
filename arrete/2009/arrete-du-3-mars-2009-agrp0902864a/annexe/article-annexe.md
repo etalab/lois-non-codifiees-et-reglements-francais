@@ -933,7 +933,7 @@ Comité régional Val de Loire
 </td>
 <td align="center">―<br/>
 </td>
-<td align="center">4<br/>
+<td align="center">5<br/>
 </td>
 <td align="center">―<br/>
 </td>
@@ -1412,7 +1412,7 @@ Comité régional Val de Loire
 <tr>
 <td align="center">Quincy (vins blancs).<br/>
 </td>
-<td align="center">0,73 g/l<br/>12,24 meq/l<br/>
+<td align="center">0,85 g/l ou<br/>12,24 meq/l<br/>
 </td>
 <td align="center">210<br/>
 </td>
@@ -1439,7 +1439,7 @@ Comité régional Val de Loire
 <tr>
 <td align="center">Reuilly (vins blancs).<br/>
 </td>
-<td align="center">0,73 g/l<br/>12,24 meq/l<br/>
+<td align="center">0,85 g/l ou<br/>12,24 meq/l<br/>
 </td>
 <td align="center">210<br/>
 </td>
@@ -1547,7 +1547,7 @@ Comité régional Val de Loire
 <tr>
 <td align="center">Reuilly (vins rouges).<br/>
 </td>
-<td align="center">0,73 g/l<br/>12,24 meq/l<br/>
+<td align="center">0,85 g/l ou<br/>12,24 meq/l<br/>
 </td>
 <td align="center">160<br/>
 </td>
@@ -1655,7 +1655,7 @@ Comité régional Val de Loire
 <tr>
 <td align="center">Reuilly (vins rosés).<br/>
 </td>
-<td align="center">0,73 g/l<br/>12,24 meq/l<br/>
+<td align="center">0,85 g/l ou<br/>12,24 meq/l<br/>
 </td>
 <td align="center">210<br/>
 </td>
