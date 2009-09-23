@@ -6,3 +6,5 @@
 - [Chapitre IV : Organisation des écoles.](chapitre-iv)
 - [Chapitre V : Le personnel.](chapitre-v)
 - [Chapitre VI : Organisation financière.](chapitre-vi)
+- [Chapitre VII : Dispositions transitoires et finales.](chapitre-vii)
+- [Article 46](article-46.md)
