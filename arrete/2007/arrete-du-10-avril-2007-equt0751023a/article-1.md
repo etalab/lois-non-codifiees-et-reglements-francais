@@ -6,250 +6,249 @@ La liste des ports mentionnée à l'article R. 321-15 du code des ports maritime
 <tbody>
 <tr>
 <td valign="top" width="341">
-<p align="center">DÉPARTEMENT</p>
+<p align="center">DÉPARTEMENT </p>
 </td>
 <td colspan="2" valign="top" width="339">
-<p align="center">PORT</p>
+<p align="center">PORT </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="341">
-<p>Nord.</p>
+<p>Nord. </p>
 </td>
 <td colspan="2" valign="top" width="339">
-<p>Dunkerque (port autonome).</p>
+<p>Dunkerque (port autonome). </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="341">
-<p>Pas-de-Calais.</p>
+<p>Pas-de-Calais. </p>
 </td>
 <td colspan="2" valign="top" width="339">
-<p>Calais.</p>
-<p>Boulogne-sur-Mer.</p>
+<p>Calais. </p>
+<p>Boulogne-sur-Mer. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="341">
-<p>Seine-Maritime.</p>
+<p>Seine-Maritime. </p>
 </td>
 <td colspan="2" valign="top" width="339">
-<p>Dieppe.</p>
-<p>Le Havre (port autonome).</p>
-<p>Rouen (port autonome).</p>
+<p>Dieppe. </p>
+<p>Le Havre (port autonome). </p>
+<p>Rouen (port autonome). </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="341">
-<p>Calvados.</p>
+<p>Calvados. </p>
 </td>
 <td colspan="2" valign="top" width="339">
-<p>Caen-Ouistreham.</p>
+<p>Caen-Ouistreham. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="341">
-<p>Manche.</p>
+<p>Manche. </p>
 </td>
 <td colspan="2" valign="top" width="339">
-<p>Cherbourg.</p>
-<p>Diélette.</p>
-<p>Barneville-Carteret.</p>
-<p>Granville.</p>
+<p>Cherbourg. </p>
+<p>Diélette. </p>
+<p>Barneville-Carteret. </p>
+<p>Granville. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="341">
-<p>Ille-et-Vilaine.</p>
+<p>Ille-et-Vilaine. </p>
 </td>
 <td colspan="2" valign="top" width="339">
-<p>Saint-Malo.</p>
+<p>Saint-Malo. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="341">
-<p>Côtes-d'Armor.</p>
+<p>Côtes-d'Armor. </p>
 </td>
 <td colspan="2" valign="top" width="339">
-<p>Saint-Brieuc.</p>
-<p>Tréguier.</p>
+<p>Saint-Brieuc. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="341">
-<p>Finistère.</p>
+<p>Finistère. </p>
 </td>
 <td colspan="2" valign="top" width="339">
-<p>Roscoff.</p>
-<p>Brest.</p>
+<p>Roscoff. </p>
+<p>Brest. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="341">
-<p>Morbihan.</p>
+<p>Morbihan. </p>
 </td>
 <td colspan="2" valign="top" width="339">
-<p>Lorient.</p>
+<p>Lorient. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="341">
-<p>Loire-Atlantique.</p>
+<p>Loire-Atlantique. </p>
 </td>
 <td colspan="2" valign="top" width="339">
-<p>Nantes - Saint-Nazaire (port autonome).</p>
+<p>Nantes-Saint-Nazaire (port autonome). </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="341">
-<p>Vendée.</p>
+<p>Vendée. </p>
 </td>
 <td colspan="2" valign="top" width="339">
-<p>Les Sables-d'Olonne.</p>
+<p>Les Sables-d'Olonne. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="341">
-<p>Charente-Maritime.</p>
+<p>Charente-Maritime. </p>
 </td>
 <td colspan="2" valign="top" width="339">
-<p>La Rochelle (port autonome).</p>
-<p>Rochefort.</p>
-<p>Tonnay-Charente.</p>
+<p>La Rochelle (port autonome). </p>
+<p>Rochefort. </p>
+<p>Tonnay-Charente. </p>
 </td>
 </tr>
 <tr>
 <td width="341">
-<p>Gironde.</p>
+<p>Gironde. </p>
 </td>
 <td colspan="2" width="339">
-<p>Bordeaux (port autonome).</p>
+<p>Bordeaux (port autonome). </p>
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top" width="342">
-<p>Pyrénées-Atlantiques.</p>
+<p>Pyrénées-Atlantiques. </p>
 </td>
 <td valign="top" width="339">
-<p>Bayonne.</p>
+<p>Bayonne. </p>
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top" width="342">
-<p>Pyrénées-Orientales.</p>
+<p>Pyrénées-Orientales. </p>
 </td>
 <td valign="top" width="339">
-<p>Port-Vendres.</p>
+<p>Port-Vendres. </p>
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top" width="342">
-<p>Aude.</p>
+<p>Aude. </p>
 </td>
 <td valign="top" width="339">
-<p>Port-la-Nouvelle.</p>
+<p>Port-la-Nouvelle. </p>
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top" width="342">
-<p>Hérault.</p>
+<p>Hérault. </p>
 </td>
 <td valign="top" width="339">
-<p>Sète.</p>
+<p>Sète. </p>
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top" width="342">
-<p>Bouches-du-Rhône.</p>
+<p>Bouches-du-Rhône. </p>
 </td>
 <td valign="top" width="339">
-<p>Marseille (port autonome).</p>
+<p>Marseille (port autonome). </p>
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top" width="342">
-<p>Var.</p>
+<p>Var. </p>
 </td>
 <td valign="top" width="339">
-<p>Toulon.</p>
+<p>Toulon. </p>
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top" width="342">
-<p>Alpes-Maritimes.</p>
+<p>Alpes-Maritimes. </p>
 </td>
 <td valign="top" width="339">
-<p>Cannes.</p>
-<p>Nice.</p>
-<p>Menton.</p>
+<p>Cannes. </p>
+<p>Nice. </p>
+<p>Menton. </p>
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top" width="342">
-<p>Haute-Corse.</p>
+<p>Haute-Corse. </p>
 </td>
 <td valign="top" width="339">
 <p>Bastia.</p>
-<p>L'Ile-Rousse.</p>
-<p>Calvi.</p>
+<p>L'Ile-Rousse. </p>
+<p>Calvi. </p>
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top" width="342">
-<p>Corse-du-Sud.</p>
+<p>Corse-du-Sud. </p>
 </td>
 <td valign="top" width="339">
-<p>Ajaccio.</p>
-<p>Propriano.</p>
-<p>Bonifacio.</p>
-<p>Porto-Vecchio.</p>
+<p>Ajaccio. </p>
+<p>Propriano. </p>
+<p>Bonifacio. </p>
+<p>Porto-Vecchio. </p>
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top" width="342">
-<p>Guadeloupe.</p>
+<p>Guadeloupe. </p>
 </td>
 <td valign="top" width="339">
-<p>Guadeloupe (port autonome).</p>
-<p>Galisbay.</p>
+<p>Guadeloupe (port autonome). </p>
+<p>Galisbay. </p>
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top" width="342">
-<p>Martinique.</p>
+<p>Martinique. </p>
 </td>
 <td valign="top" width="339">
-<p>Fort-de-France.</p>
+<p>Fort-de-France. </p>
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top" width="342">
-<p>Guyane.</p>
+<p>Guyane. </p>
 </td>
 <td valign="top" width="339">
-<p>Dégrad-des-Cannes.</p>
-<p>Le Larivot.</p>
-<p>Saint-Laurent-du-Maroni.</p>
+<p>Dégrad-des-Cannes. </p>
+<p>Le Larivot. </p>
+<p>Saint-Laurent-du-Maroni. </p>
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top" width="342">
-<p>Réunion.</p>
+<p>Réunion. </p>
 </td>
 <td valign="top" width="339">
-<p>Port-Réunion.</p>
+<p>Port-Réunion. </p>
 </td>
 </tr>
 <tr>
-<td colspan="2"> Saint-Pierre-et-Miquelon.</td>
+<td colspan="2">Saint-Pierre-et-Miquelon. </td>
 <td>
-<p>Saint-Pierre.</p>
-<p>Miquelon.</p>
+<p>Saint-Pierre. </p>
+<p>Miquelon. </p>
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top" width="342">
-<p>Collectivité départementale de Mayotte.</p>
+<p>Collectivité départementale de Mayotte. </p>
 </td>
 <td valign="top" width="339">Mayotte.</td>
 </tr>
