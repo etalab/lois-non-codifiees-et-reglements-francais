@@ -874,6 +874,7 @@
 - [Décret n°2009-924 du 27 juillet 2009 (SASG0912140D)](decret-n2009-924-du-27-juillet-2009-sasg0912140d)
 - [Décret n°2009-925 du 27 juillet 2009 (EATM0910550D)](decret-n2009-925-du-27-juillet-2009-eatm0910550d)
 - [Décret n°83-568 du 27 juin 1983](decret-n83-568-du-27-juin-1983)
+- [Décret n°96-1177 du 27 décembre 1996 (MIPP9600463D)](decret-n96-1177-du-27-decembre-1996-mipp9600463d)
 - [Décret n°2009-602 du 27 mai 2009 (MTSA0910478D)](decret-n2009-602-du-27-mai-2009-mtsa0910478d)
 - [Décret n°2008-1102 du 28 octobre 2008 (ECEP0812022D)](decret-n2008-1102-du-28-octobre-2008-ecep0812022d)
 - [Décret n°2008-867 du 28 août 2008 (DEVQ0815847D)](decret-n2008-867-du-28-aout-2008-devq0815847d)
