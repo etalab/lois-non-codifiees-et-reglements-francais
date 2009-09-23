@@ -9,52 +9,93 @@ Concours B : juin 2009
 <table>
 <tbody>
 <tr>
-<th>
-<br/>DISCIPLINES<br/>
-</th>
-<th>
-<br/>NOMBRE DE POSTES<br/>
-</th>
-</tr>
-<tr>
-<td align="center">
-<br/>Chirurgie générale, option chirurgie viscérale et digestive<br/>
+<td valign="top" width="378">
+<p align="center">DISCIPLINES</p>
 </td>
-<td align="center">
-<br/>1<br/>
+<td valign="top" width="151">
+<p align="center">NOMBRE DE POSTES</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Gastro-entérologie et hépatologie<br/>
+<td valign="top" width="378">
+<p>Chirurgie générale, option chirurgie viscérale et digestive</p>
 </td>
-<td align="center">
-<br/>1<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Médecine interne, option infectiologie<br/>
-</td>
-<td align="center">
-<br/>1<br/>
+<td valign="top" width="151">
+<p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Médecine nucléaire<br/>
+<td valign="top" width="378">
+<p>Gastro-entérologie et hépatologie</p>
 </td>
-<td align="center">
-<br/>1<br/>
+<td valign="top" width="151">
+<p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Oto-rhino-laryngologie et chirurgie cervico-faciale<br/>
+<td valign="top" width="378">
+<p>Médecine interne, option infectiologie</p>
 </td>
-<td align="center">
-<br/>1<br/>
+<td valign="top" width="151">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="378">
+<p>Médecine nucléaire</p>
+</td>
+<td valign="top" width="151">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="378">
+<p>Oto-rhino-laryngologie et chirurgie cervico-faciale</p>
+</td>
+<td valign="top" width="151">
+<p align="center">1</p>
 </td>
 </tr>
 </tbody>
 </table>
+
+<div align="left">
+
+<br/>
+<div align="left">
+<p>Concours C : septembre 2009</p>
+<table>
+<tbody>
+<tr>
+<td valign="top" width="378">
+<p align="center">DISCIPLINES</p>
+</td>
+<td valign="top" width="151">
+<p align="center">NOMBRE DE POSTES</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="378">
+<p>Ophtamologie</p>
+</td>
+<td valign="top" width="151">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="378">
+<p>Médecine nucléaire</p>
+</td>
+<td valign="top" width="151">
+<p align="center">1</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+
+</div>
