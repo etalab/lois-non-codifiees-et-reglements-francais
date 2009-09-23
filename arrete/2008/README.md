@@ -782,7 +782,6 @@
 - [Arrêté du 21 décembre 2007 (DEVL0774469A)](arrete-du-21-decembre-2007-devl0774469a)
 - [Arrêté du 21 décembre 2007 (DEVT0772843A)](arrete-du-21-decembre-2007-devt0772843a)
 - [Arrêté du 21 janvier 2008 (MENE0801432A)](arrete-du-21-janvier-2008-mene0801432a)
-- [Arrêté du 21 juillet 2008 (BCFB0813077A)](arrete-du-21-juillet-2008-bcfb0813077a)
 - [Arrêté du 21 juillet 2008 (BCFZ0818078A)](arrete-du-21-juillet-2008-bcfz0818078a)
 - [Arrêté du 21 juillet 2008 (DEFH0809854A)](arrete-du-21-juillet-2008-defh0809854a)
 - [Arrêté du 21 juillet 2008 (DEFH0818112A)](arrete-du-21-juillet-2008-defh0818112a)

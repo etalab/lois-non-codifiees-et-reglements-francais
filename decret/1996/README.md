@@ -665,7 +665,6 @@
 - [Décret n°96-1174 du 27 décembre 1996 (MIPP9600495D)](decret-n96-1174-du-27-decembre-1996-mipp9600495d)
 - [Décret n°96-1175 du 27 décembre 1996 (MIPP9600488D)](decret-n96-1175-du-27-decembre-1996-mipp9600488d)
 - [Décret n°96-1176 du 27 décembre 1996 (MIPP9600427D)](decret-n96-1176-du-27-decembre-1996-mipp9600427d)
-- [Décret n°96-1177 du 27 décembre 1996 (MIPP9600463D)](decret-n96-1177-du-27-decembre-1996-mipp9600463d)
 - [Décret n°96-1179 du 27 décembre 1996 (MIPP9600513D)](decret-n96-1179-du-27-decembre-1996-mipp9600513d)
 - [Décret n°96-1225 du 27 décembre 1996 (MIPP9600537D)](decret-n96-1225-du-27-decembre-1996-mipp9600537d)
 - [Décret n°96-1227 du 27 décembre 1996 (MIPP9600499D)](decret-n96-1227-du-27-decembre-1996-mipp9600499d)

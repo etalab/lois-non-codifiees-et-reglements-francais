@@ -1077,7 +1077,6 @@
 - [Arrêté du 30 avril 1996 (MIPP9600163A)](arrete-du-30-avril-1996-mipp9600163a)
 - [Arrêté du 30 décembre 1995 (ECOB9510018A)](arrete-du-30-decembre-1995-ecob9510018a)
 - [Arrêté du 30 décembre 1996 (ECOT9651567A)](arrete-du-30-decembre-1996-ecot9651567a)
-- [Arrêté du 30 décembre 1996 (MIPP9600525A)](arrete-du-30-decembre-1996-mipp9600525a)
 - [Arrêté du 30 décembre 1996 (TASS9624542A)](arrete-du-30-decembre-1996-tass9624542a)
 - [Arrêté du 30 janvier 1996 (BUDL9600024A)](arrete-du-30-janvier-1996-budl9600024a)
 - [Arrêté du 30 janvier 1996 (TASP9620391A)](arrete-du-30-janvier-1996-tasp9620391a)
