@@ -92,11 +92,11 @@ Ecole nationale supérieure des mines de Paris.
 
 Ecole nationale supérieure des mines de Saint-Etienne.
 
-Ecole nationale supérieure des télécommunications.
+Télécom ParisTech.
 
-Ecole nationale supérieure des télécommunications de Bretagne.
+Télécom Bretagne.
 
-Institut national des télécommunications.
+Management SudParis.
 
 Ecole nationale de la météorologie.
 

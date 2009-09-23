@@ -16,7 +16,7 @@ c) Soit parmi les ingénieurs diplômés de l'une des grandes écoles de l'Etat 
 
 Ecole polytechnique.
 
-Ecole nationale supérieure des télécommunications, Ecole nationale des ponts et chaussées.
+Télécom ParisTech, Ecole nationale des ponts et chaussées.
 
 Ecole nationale supérieure des mines de Paris.
 

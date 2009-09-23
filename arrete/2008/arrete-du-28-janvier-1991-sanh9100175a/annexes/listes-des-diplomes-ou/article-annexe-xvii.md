@@ -38,7 +38,7 @@ Ou avoir obtenu le diplôme ou avoir satisfait à l'examen de sortie de l'un des
 
 École nationale supérieure des mines de Saint-Étienne ;
 
-École nationale supérieure des télécommunications ;
+Télécom ParisTech ;
 
 École navale ;
 

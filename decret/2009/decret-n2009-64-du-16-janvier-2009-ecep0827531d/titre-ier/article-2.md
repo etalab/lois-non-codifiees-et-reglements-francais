@@ -22,4 +22,4 @@ Il effectue, pour le compte et dans le cadre des pouvoirs de tutelle du ministre
 
 IV. ― Dans les domaines de sa compétence, il peut procéder à des enquêtes, à des études ou à des missions en France et à l'étranger et prendre l'initiative de présenter aux ministres intéressés toutes propositions et recommandations, notamment en matière de progrès et de diffusion des connaissances et techniques ainsi que de normalisation.
 
-V. ― Il assure, avec le concours des services compétents, la tutelle du Groupe des écoles des télécommunications, des écoles nationales supérieures des mines de Paris et de Saint-Etienne et des écoles nationales supérieures des techniques industrielles et des mines d'Albi-Carmaux, d'Alès, de Douai et de Nantes.
+V. ― Il assure, avec le concours des services compétents, la tutelle de l'Institut Télécom, des écoles nationales supérieures des mines de Paris et de Saint-Etienne et des écoles nationales supérieures des techniques industrielles et des mines d'Albi-Carmaux, d'Alès, de Douai et de Nantes.

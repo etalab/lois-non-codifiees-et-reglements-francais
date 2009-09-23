@@ -12,4 +12,4 @@ Le secrétaire général du conseil assure la gestion des moyens du conseil et a
 
 Le chef du service du conseil est responsable du suivi de la carrière des ingénieurs des mines et de la mise en œuvre des dispositions statutaires qui leur sont applicables.
 
-Le chef de la mission de tutelle des écoles est chargé de la tutelle du Groupe des écoles des télécommunications, des écoles nationales supérieures des mines de Paris et de Saint-Etienne et des écoles nationales supérieures des techniques industrielles et des mines d'Albi-Carmaux, d'Alès, de Douai et de Nantes.
+Le chef de la mission de tutelle des écoles est chargé de la tutelle de l'Institut Télécom, des écoles nationales supérieures des mines de Paris et de Saint-Etienne et des écoles nationales supérieures des techniques industrielles et des mines d'Albi-Carmaux, d'Alès, de Douai et de Nantes.

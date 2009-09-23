@@ -22,23 +22,23 @@ Article 4
 
 Au moment de sa création, l'établissement comprend les membres fondateurs suivants :
 
-- université de Brest ;
+-université de Brest ;
 
-- université de Bretagne-Sud ;
+-université de Bretagne-Sud ;
 
-- université Rennes-I ;
+-université Rennes-I ;
 
-- université Rennes-II ;
+-université Rennes-II ;
 
-- Institut national d'enseignement supérieur et de recherche agronomique et agroalimentaire de Rennes ;
+-Institut national d'enseignement supérieur et de recherche agronomique et agroalimentaire de Rennes ;
 
-- Institut national des sciences appliquées de Rennes ;
+-Institut national des sciences appliquées de Rennes ;
 
-- Groupe des écoles des télécommunications (Ecole nationale supérieure des télécommunications de Bretagne) ;
+-Institut Télécom ( Télécom Bretagne) ;
 
-- Ecole normale supérieure de Cachan (antenne de Bretagne) ;
+-Ecole normale supérieure de Cachan (antenne de Bretagne) ;
 
-- Ecole nationale supérieure de chimie de Rennes.
+-Ecole nationale supérieure de chimie de Rennes.
 
 Article 5
 
@@ -82,7 +82,7 @@ Le président et les vice-présidents sont assistés par un bureau dont la compo
 
 Article 10
 
-Le président assure la direction de l'établissement dans le cadre des orientations définies par le conseil d'administration. A ce titre :
+Le président assure la direction de l'établissement dans le cadre des orientations définies par le conseil d'administration.A ce titre :
 
 1° Il prépare et exécute les délibérations du conseil d'administration qu'il préside ;
 
@@ -116,7 +116,7 @@ Article 11
 
 Le conseil d'administration comprend :
 
-1° Au minimum dix-neuf sièges au titre des membres fondateurs dont six représentants de l'université Rennes-I, trois représentants de l'université de Bretagne occidentale, trois représentants de l'université Rennes-II, deux représentants de l'université de Bretagne-Sud, un représentant de l'Institut national d'enseignement supérieur et de recherche agronomique et agroalimentaire de Rennes, un représentant de l'Institut national des sciences appliquées de Rennes, un représentant du Groupe des écoles des télécommunications (Ecole nationale supérieure des télécommunications de Bretagne), un représentant de l'Ecole normale supérieure de Cachan (antenne de Bretagne), un représentant de l'Ecole supérieure de chimie de Rennes ;
+1° Au minimum dix-neuf sièges au titre des membres fondateurs dont six représentants de l'université Rennes-I, trois représentants de l'université de Bretagne occidentale, trois représentants de l'université Rennes-II, deux représentants de l'université de Bretagne-Sud, un représentant de l'Institut national d'enseignement supérieur et de recherche agronomique et agroalimentaire de Rennes, un représentant de l'Institut national des sciences appliquées de Rennes, un représentant de l'Institut Télécom ( Télécom Bretagne), un représentant de l'Ecole normale supérieure de Cachan (antenne de Bretagne), un représentant de l'Ecole supérieure de chimie de Rennes ;
 
 2° Une personnalité qualifiée désignée à la majorité des voix des membres fondateurs, sur proposition du président ;
 
@@ -212,9 +212,9 @@ Dans les limites qu'il détermine, le conseil d'administration peut déléguer c
 
 Le président peut en outre recevoir délégation pour prendre les décisions modificatives des budgets :
 
-- qui n'ont pas pour objet une augmentation des dépenses ou des virements de crédits entre les chapitres de fonctionnement, de personnel et d'investissement ;
+-qui n'ont pas pour objet une augmentation des dépenses ou des virements de crédits entre les chapitres de fonctionnement, de personnel et d'investissement ;
 
-- ou qui ont pour objet de permettre l'exécution de conventions, dans le respect de l'équilibre global.
+-ou qui ont pour objet de permettre l'exécution de conventions, dans le respect de l'équilibre global.
 
 Le président rend compte, à la première séance du conseil, des décisions prises dans le cadre de ces différentes délégations.
 
@@ -226,7 +226,7 @@ Article 16
 
 Le conseil d'administration se réunit au moins trois fois par an sur convocation de son président qui en fixe l'ordre du jour. Il est, en outre, convoqué à la demande d'un tiers de ses membres sur un ordre du jour déterminé.
 
-Lorsque le président ne peut présider une séance, le conseil est présidé par un des vice-présidents désigné par le président. A défaut, il est procédé à l'élection d'un président de séance à la majorité des membres présents ou représentés.
+Lorsque le président ne peut présider une séance, le conseil est présidé par un des vice-présidents désigné par le président.A défaut, il est procédé à l'élection d'un président de séance à la majorité des membres présents ou représentés.
 
 Le conseil délibère valablement si la majorité des membres en exercice est présente ou représentée. Si le quorum n'est pas atteint à l'ouverture de la séance, le conseil est à nouveau convoqué sur le même ordre du jour dans un délai de huit jours. Il délibère alors valablement quel que soit le nombre de membres présents ou représentés.
 

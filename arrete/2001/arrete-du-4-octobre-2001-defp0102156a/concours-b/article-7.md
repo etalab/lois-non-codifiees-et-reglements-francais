@@ -12,7 +12,7 @@ Ecole nationale supérieure des mines de Paris ;
 
 Ecole nationale supérieure de techniques avancées ;
 
-Ecole nationale supérieure des télécommunications de Paris ;
+Télécom ParisTech de Paris ;
 
 Ecole supérieure d'électricité.
 

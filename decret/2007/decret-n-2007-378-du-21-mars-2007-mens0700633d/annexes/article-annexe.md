@@ -18,25 +18,25 @@ Article 2
 
 Au moment de sa création, l'établissement comprend les membres fondateurs suivants :
 
-- l'Ecole nationale des ponts et chaussées ;
+-l'Ecole nationale des ponts et chaussées ;
 
-- l'Ecole nationale supérieure d'arts et métiers ;
+-l'Ecole nationale supérieure d'arts et métiers ;
 
-- l'Ecole nationale supérieure de chimie de Paris ;
+-l'Ecole nationale supérieure de chimie de Paris ;
 
-- l'Ecole nationale supérieure des mines de Paris ;
+-l'Ecole nationale supérieure des mines de Paris ;
 
-- l'Ecole nationale supérieure de techniques avancées ;
+-l'Ecole nationale supérieure de techniques avancées ;
 
-- l'Ecole polytechnique ;
+-l'Ecole polytechnique ;
 
-- l'Ecole supérieure de physique et chimie industrielles de la Ville de Paris ;
+-l'Ecole supérieure de physique et chimie industrielles de la Ville de Paris ;
 
-- le Groupe des écoles des télécommunications ;
+-l'Institut Télécom ;
 
-- le Groupe des écoles nationales d'économie et statistique ;
+-le Groupe des écoles nationales d'économie et statistique ;
 
-- l'Institut des sciences et industries du vivant et de l'environnement (Agro ParisTech).
+-l'Institut des sciences et industries du vivant et de l'environnement (Agro ParisTech).
 
 Article 3
 
@@ -82,7 +82,7 @@ Article 6
 
 Le président est élu en son sein par le conseil d'administration pour une durée de trois ans renouvelable.
 
-Le président assure la direction de l'établissement dans le cadre des orientations définies par le conseil d'administration. A ce titre :
+Le président assure la direction de l'établissement dans le cadre des orientations définies par le conseil d'administration.A ce titre :
 
 1° Il prépare les délibérations du conseil d'administration qu'il préside et en assure l'exécution ;
 
@@ -178,9 +178,9 @@ Dans les limites qu'il définit, le conseil d'administration peut déléguer cer
 
 Le président peut en outre recevoir délégation pour prendre les décisions modificatives des budgets :
 
-- qui n'ont pas pour objet une augmentation des dépenses ou des virements de crédits entre les chapitres de fonctionnement, de personnel et d'investissement ;
+-qui n'ont pas pour objet une augmentation des dépenses ou des virements de crédits entre les chapitres de fonctionnement, de personnel et d'investissement ;
 
-- ou qui ont pour objet de permettre l'exécution de conventions, dans le respect de l'équilibre global.
+-ou qui ont pour objet de permettre l'exécution de conventions, dans le respect de l'équilibre global.
 
 Il rend compte, à la première séance du conseil, des décisions prises dans le cadre de ces délégations.
 

@@ -2915,7 +2915,7 @@
 </tr>
 <tr>
 <td valign="top" width="135">
-<p>Ecole nationale supérieure des télécommunications de Bretagne, technopôle Brest-Iroise, BP 832, 29285 Brest Cedex. </p>
+<p>Télécom Bretagne, technopôle Brest-Iroise, BP 832, 29285 Brest Cedex. </p>
 </td>
 <td valign="top" width="89">
 <p>Public. Economie. </p>
@@ -2924,7 +2924,7 @@
 <p align="center">1978</p>
 </td>
 <td valign="top" width="135">
-<p>Ingénieur diplômé de l'Ecole nationale supérieure des télécommunications de Bretagne. </p>
+<p>Ingénieur diplômé de Télécom Bretagne</p>
 </td>
 <td valign="top" width="82">
 <p>Formation initiale sous statut d'étudiant. </p>
@@ -2966,7 +2966,7 @@
 <br/>
 </td>
 <td valign="top" width="135">
-<p>Ingénieur diplômé de l'Ecole nationale supérieure des télécommunications de Bretagne, spécialité réseaux et télécommunications. </p>
+<p>Ingénieur diplômé de Télécom Bretagne, spécialité réseaux et télécommunications. </p>
 </td>
 <td valign="top" width="82">
 <p>Formation initiale sous statut d'apprenti. </p>

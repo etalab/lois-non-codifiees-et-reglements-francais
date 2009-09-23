@@ -2755,7 +2755,7 @@
 </tr>
 <tr>
 <td valign="top" width="135">
-<p>Ecole nationale supérieure des télécommunications, 46, rue Barrault, 75634 Paris Cedex 13 : <br/>- formations sur les sites de Paris et de Sophia-Antipolis. </p>
+<p>Télécom ParisTech, 46, rue Barrault, 75634 Paris Cedex 13 : <br/>- formations sur les sites de Paris et de Sophia-Antipolis. </p>
 </td>
 <td valign="top" width="89">
 <p>Public. Economie. </p>
@@ -2764,7 +2764,7 @@
 <p align="center">Avant 1934</p>
 </td>
 <td valign="top" width="135">
-<p>Ingénieur diplômé de l'Ecole nationale supérieure des télécommunications. </p>
+<p>Ingénieur diplômé de Télécom ParisTech. </p>
 </td>
 <td valign="top" width="82">
 <p>Formation initiale sous statut d'étudiant. </p>
@@ -5447,7 +5447,7 @@
 </tr>
 <tr>
 <td valign="top" width="135">
-<p>Institut national des télécommunications, 9, rue Charles-Fourier, 91011 Evry Cedex. </p>
+<p>Télécom et Management SudParis, 9, rue Charles-Fourier, 91011 Evry Cedex. </p>
 </td>
 <td valign="top" width="89">
 <p>Public. Economie. </p>
@@ -5456,7 +5456,7 @@
 <p align="center">1979</p>
 </td>
 <td valign="top" width="135">
-<p>Ingénieur diplômé de l'Institut national des télécommunications</p>
+<p>Ingénieur diplômé de Télécom et Management SudParis. </p>
 </td>
 <td valign="top" width="82">
 <p>Formation initiale sous statut d'étudiant. </p>

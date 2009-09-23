@@ -20,4 +20,4 @@ Ecole des hautes études commerciales de Lille-Nice (EDHEC).
 
 Ecole centrale des arts et manufactures (Centrale Paris-ECP) ;
 
-Ecole nationale supérieure des télécommunications de Paris (ENST Paris).
+Télécom ParisTech

@@ -1,4 +1,4 @@
-# Arrêté du 21 juillet 2009 fixant les modalités de recrutement des élèves de l'Ecole nationale supérieure des télécommunications en qualité d'ingénieurs-élèves des mines
+# Arrêté du 21 juillet 2009 fixant les modalités de recrutement des élèves de Télécom ParisTech en qualité d'ingénieurs-élèves des mines
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

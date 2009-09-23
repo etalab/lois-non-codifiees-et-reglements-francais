@@ -20,7 +20,7 @@ Ecole nationale supérieure des mines de Saint-Etienne ;
 
 Ecole nationale supérieure de techniques avancées ;
 
-Ecole nationale supérieure des télécommunications ;
+Télécom ParisTech ;
 
 Ecole polytechnique ;
 

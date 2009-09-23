@@ -32,7 +32,7 @@ Ecole nationale supérieure d'ingénieurs des arts et métiers.
 
 Ecoles nationales supérieures des mines (Paris, Saint-Étienne ou Nancy).
 
-Ecole nationale supérieure des télécommunications.
+Télécom ParisTech.
 
 Ecole nationale supérieure du pétrole et des moteurs.
 

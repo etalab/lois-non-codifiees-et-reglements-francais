@@ -24,7 +24,7 @@ Ecole nationale supérieure des mines de Saint-Etienne ;
 
 Ecole nationale supérieure de techniques avancées ;
 
-Ecole nationale supérieure des télécommunications ;
+Télécom ParisTech ;
 
 Ecole polytechnique ;
 
@@ -66,7 +66,7 @@ b) Diplômes de docteur ingénieur obtenu après une scolarité dans une école 
 
 Energie, équipements médicaux, services publics, informatique, environnement, télécommunications, physique et biophysique, traitement des signaux, génie biologique et biomédical, chimie biologique, électronique, génie civil, génie sanitaire, génie électrique, sécurité, agroalimentaire, organisation et méthodes ;
 
-c) Diplôme d'architecte reconnu par l'Etat et/ou un diplôme d'ingénieur, ou un diplôme à caractère technique national reconnu ou visé par l'Etat et soit homologué au niveau I.II suivant la procédure définie par le décret du 8 janvier 1992 susvisé, soit sanctionnant une formation d'une durée au moins égale à cinq ans après le baccalauréat et délivré dans l'un des domaines mentionnées au b ci-dessus ;
+c) Diplôme d'architecte reconnu par l'Etat et / ou un diplôme d'ingénieur, ou un diplôme à caractère technique national reconnu ou visé par l'Etat et soit homologué au niveau I. II suivant la procédure définie par le décret du 8 janvier 1992 susvisé, soit sanctionnant une formation d'une durée au moins égale à cinq ans après le baccalauréat et délivré dans l'un des domaines mentionnées au b ci-dessus ;
 
 d) Diplômes d'ingénieur délivrés par les établissements suivants :
 
