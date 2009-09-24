@@ -2,7 +2,7 @@
 
 Ces activités de soins, d'enseignement ou de recherche doivent être effectuées en dehors du centre hospitalier et universitaire dans lequel le candidat est affecté ou a été affecté en dernier lieu.
 
-Ces activités peuvent être accomplies notamment dans une composante d'université au sens de l'article L. 713-1 du code de l'éducation ou dans une unité de recherche d'un établissement public à caractère scientifique et technologique au sens de l'article L. 321-3 du code de la recherche.
+Ces activités peuvent être accomplies notamment dans une composante d'université au sens de l'article L. 713-1 du code de l'éducation ou dans une unité de recherche d'un établissement public à caractère scientifique et technologique au sens de l'article L. 321-3 du code de la recherche, ou dans une autorité publique indépendante à caractère scientifique.
 
 A l'étranger, les activités de soins, d'enseignement ou de recherche peuvent être accomplies dans un établissement public ou privé.
 
