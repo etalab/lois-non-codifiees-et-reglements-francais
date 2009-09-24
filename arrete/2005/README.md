@@ -149,7 +149,6 @@
 - [Arrêté du 8 novembre 2005 (DEFD0501515A)](arrete-du-8-novembre-2005-defd0501515a)
 - [Arrêté du 8 novembre 2005 (EQUP0500855A)](arrete-du-8-novembre-2005-equp0500855a)
 - [Arrêté du 8 septembre 2005 (INDI0505711A)](arrete-du-8-septembre-2005-indi0505711a)
-- [Arrêté du 8 septembre 2005 (JUSB0510459A)](arrete-du-8-septembre-2005-jusb0510459a)
 - [Arrêté du 8 septembre 2005 (JUSB0510461A)](arrete-du-8-septembre-2005-jusb0510461a)
 - [Arrêté du 9 décembre 2005 (MJSK0570252A)](arrete-du-9-decembre-2005-mjsk0570252a)
 - [Arrêté du 9 mars 2006 (SANG0621330A)](arrete-du-9-mars-2006-sang0621330a)
