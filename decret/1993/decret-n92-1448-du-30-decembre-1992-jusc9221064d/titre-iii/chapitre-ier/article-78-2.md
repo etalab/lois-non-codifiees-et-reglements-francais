@@ -6,4 +6,6 @@ Peuvent également être associés, à l'exclusion de toute autre personne :
 
 1° Pendant un délai de dix ans, des personnes physiques qui, ayant cessé toute activité professionnelle, ont exercé la profession d'huissier de justice ;
 
-2° Les ayants droit des personnes physiques mentionnées aux alinéas qui précèdent, pendant un délai de cinq ans suivant leur décès.
+2° Les ayants droit des personnes physiques mentionnées aux alinéas qui précèdent, pendant un délai de cinq ans suivant leur décès ;
+
+3° Des personnes exerçant une profession libérale judiciaire ou juridique soumise à un statut législatif ou réglementaire ou dont le titre est protégé.
