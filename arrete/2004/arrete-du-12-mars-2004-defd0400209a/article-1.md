@@ -14,4 +14,6 @@ III.-Des organismes extérieurs dont les attributions, l'organisation et le fonc
 
 -les directions régionales du matériel (DIRMAT) ;
 
--les bases de soutien du matériel (BSMAT).
+-les bases de soutien du matériel (BSMAT) ;
+
+- les régiments du matériel (RMAT) et les bataillons du matériel (BMAT).
