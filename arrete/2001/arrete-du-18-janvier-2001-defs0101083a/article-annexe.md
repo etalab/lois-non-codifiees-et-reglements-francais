@@ -1,8 +1,7 @@
 # Article Annexe
 
-**LISTE DES AUTORITÉS BÉNÉFICIANT
-
-D'UN LOGEMENT DE REPRÉSENTATION**
+**LISTE DES AUTORITÉS BÉNÉFICIANT**
+**D'UN LOGEMENT DE REPRÉSENTATION**
 
 Chef d'état-major des armées.
 
@@ -107,6 +106,10 @@ Général commandant la 27e brigade d'infanterie de montagne.
 Général commandant la 6e brigade légère blindée.
 
 Général commandant la 2e brigade blindée.
+
+Général commandant suprême allié transformation à Norfolk (Etats-Unis d'Amérique).
+
+Général commandant des forces alliées à Lisbonne (Portugal).
 
 Général commandant les forces françaises stationnées à Djibouti.
 
