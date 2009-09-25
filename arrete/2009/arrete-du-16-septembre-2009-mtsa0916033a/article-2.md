@@ -1,0 +1,3 @@
+# Article 2
+
+La dotation globale affectée au financement de la prestation d'aide à la restauration scolaire dans la collectivité départementale de Mayotte et prévue au dernier alinéa de l'article 5 de l'arrêté du 18 juillet 2005 susvisé est fixée, pour l'année 2009, à un montant de cinq millions sept cent quarante-quatre mille six cent quatre-vingt-cinq euros (5 744 685 €) déterminé, eu égard aux contributions unitaires visées à l'article 1er du présent arrêté, au nombre d'élèves ayant bénéficié l'année scolaire précédente d'une collation ou ayant eu recours au service de restauration scolaire et à un nombre maximal de 175 journées de prise en charge.
