@@ -20,7 +20,9 @@ I.-Les ressources de la branche vieillesse et invalidité sont constituées par 
 
 9° Le solde excédentaire de la section " vieillesse " du Fonds national d'action sanitaire et sociale ;
 
-10° Tous produits ou contributions prévus par des dispositions législatives ou réglementaires.
+10° Tous produits ou contributions prévus par des dispositions législatives ou réglementaires ;
+
+11° Le versement des cotisations dues au titre du risque vieillesse par les agents de la Caisse autonome nationale transférés à la Caisse des dépôts et consignations et par l'employeur conformément aux taux fixés, au titre de l'année 2008, en vertu de l'article R. 81 du code des pensions civiles et militaires de retraite.
 
 II.-Les dépenses de la branche vieillesse et invalidité sont constituées par :
 
@@ -36,4 +38,6 @@ II.-Les dépenses de la branche vieillesse et invalidité sont constituées par 
 
 6° Un versement au titre des dépenses nettes de la section " service social " du Fonds national d'action sanitaire et sociale ;
 
-7° Les charges diverses en application des dispositions législatives et réglementaires.
+7° Les charges diverses en application des dispositions législatives et réglementaires ;
+
+8° Les prestations de retraite des anciens agents de la Caisse autonome nationale.

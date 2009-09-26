@@ -8,6 +8,8 @@ I. - Les ressources du Fonds national de modernisation des oeuvres sont constitu
 
 3° La participation d'organismes d'assurance maladie ou d'autres personnalités morales.
 
+Pour l'application du 1°, peuvent être pris en compte, sous réserve de l'accord de la Caisse autonome nationale, les excédents nets cumulés des œuvres et groupements d'œuvres de la caisse régionale.
+
 II. - Les charges du Fonds national de modernisation des oeuvres sont constituées par :
 
 1° Les subventions aux caisses régionales de la sécurité sociale dans les mines au titre des opérations en capital des oeuvres et le cas échéant pour l'apurement des déficits des oeuvres fermées ;
@@ -31,6 +33,8 @@ III. - Les ressources des fonds régionaux sont constituées par :
 6° Des dons et legs ;
 
 7° Des ressources diverses imputables en application des dispositions législatives et réglementaires.
+
+Pour l'application du 1°, peuvent être pris en compte, sous réserve de l'accord de la Caisse autonome nationale, les excédents nets cumulés des œuvres et groupements d'œuvres de la caisse régionale.
 
 IV. - Les dépenses des fonds régionaux sont constituées par :
 
