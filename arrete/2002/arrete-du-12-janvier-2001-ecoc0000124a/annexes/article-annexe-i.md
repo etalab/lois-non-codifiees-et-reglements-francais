@@ -10,10 +10,7 @@
 <p align="center">PRODUITS DESTINES AUX ALIMENTS POUR ANIMAUX</p>
 </td>
 <td width="151">
-<p align="center">TENEUR MAXIMALE</p>
-<p align="center">en mg/kg (ppm) d'aliments</p>
-<p align="center">pour animaux d'une teneur</p>
-<p align="center">en humidité de 12%</p>
+<p align="center">TENEUR MAXIMALE<br/>en mg/kg (ppm) d'aliments pour animaux d'une teneur en humidité de 12%</p>
 </td>
 </tr>
 <tr>
@@ -921,7 +918,6 @@
 <tr>
 <td valign="top" width="151">
 <p>8. Graines de mauvaises herbes et fruits non moulus ni broyés contenant des alcaloïdes, des glucosides ou autres substances toxiques, isolément ou ensemble :</p>
-<br/>
 </td>
 <td valign="top" width="340">
 <p>Tous les aliments</p>
@@ -1247,7 +1243,7 @@
 <p>a) Matières premières d'origine végétale pour aliments des animaux, à l'exception des huiles végétales et de leurs sous-produits.</p>
 </td>
 <td valign="top" width="151">
-<p>0,75 ng OMS-PCDD/F-TEQ/kg (g) (h).</p>
+<p align="center">0,75 ng OMS-PCDD/F-TEQ/kg (g) (h).</p>
 </td>
 </tr>
 <tr>
@@ -1255,7 +1251,7 @@
 <p>b) Huiles végétales et leurs sous-produits.</p>
 </td>
 <td valign="top" width="151">
-<p>0,75 ng OMS-PCDD/F-TEQ/kg (g) (h).</p>
+<p align="center">0,75 ng OMS-PCDD/F-TEQ/kg (g) (h).</p>
 </td>
 </tr>
 <tr>
@@ -1263,7 +1259,7 @@
 <p>c) Matières premières d'origine minérale pour aliments des animaux.</p>
 </td>
 <td valign="top" width="151">
-<p>1,0 ng OMS-PCDD/F-TEQ/kg (g) (h).</p>
+<p align="center">1,0 ng OMS-PCDD/F-TEQ/kg (g) (h).</p>
 </td>
 </tr>
 <tr>
@@ -1271,7 +1267,7 @@
 <p>d) Matières grasses animales, y compris les matières grasses du lait et de l'œuf.</p>
 </td>
 <td valign="top" width="151">
-<p>2,0 ng OMS-PCDD/F-TEQ/kg (g) (h).</p>
+<p align="center">2,0 ng OMS-PCDD/F-TEQ/kg (g) (h).</p>
 </td>
 </tr>
 <tr>
@@ -1279,7 +1275,7 @@
 <p>e) Autres produits d'animaux terrestres, y compris le lait et les produits laitiers et les œufs et les ovoproduits.</p>
 </td>
 <td valign="top" width="151">
-<p>0,75 ng OMS-PCDD/F-TEQ/kg (g) (h).</p>
+<p align="center">0,75 ng OMS-PCDD/F-TEQ/kg (g) (h).</p>
 </td>
 </tr>
 <tr>
@@ -1287,7 +1283,7 @@
 <p>f) Huile de poisson.</p>
 </td>
 <td valign="top" width="151">
-<p>6,0 ng OMS-PCDD/F-TEQ/kg (g) (h).</p>
+<p align="center">6,0 ng OMS-PCDD/F-TEQ/kg (g) (h).</p>
 </td>
 </tr>
 <tr>
@@ -1295,7 +1291,7 @@
 <p>g) Poissons, autres animaux aquatiques, leurs produits et leurs sous-produits, à l'exception de l'huile de poisson et des hydrolysats de protéines de poisson contenant plus de 20 % de matières grasses (i).</p>
 </td>
 <td valign="top" width="151">
-<p>1,25 ng OMS-PCDD/F-TEQ/kg (g) (h).</p>
+<p align="center">1,25 ng OMS-PCDD/F-TEQ/kg (g) (h).</p>
 </td>
 </tr>
 <tr>
@@ -1303,7 +1299,7 @@
 <p>h) Hydrolysats de protéines de poisson contenant plus de 20 % de matières grasses.</p>
 </td>
 <td valign="top" width="151">
-<p>2,25 ng OMS-PCDD/F-TEQ/kg (g) (h).</p>
+<p align="center">2,25 ng OMS-PCDD/F-TEQ/kg (g) (h).</p>
 </td>
 </tr>
 <tr>
@@ -1311,7 +1307,7 @@
 <p>i) Argiles kaolinitiques, sulfate de calcium dihydraté, vermiculite, natrolitephonolite, aluminates de calcium synthétiques et clinoptilolite d'origine sédimentaire appartenant au groupe fonctionnel des liants et des antiagglomérants.</p>
 </td>
 <td valign="top" width="151">
-<p>0,75 ng OMS-PCDD/F-TEQ/kg (g) (h).</p>
+<p align="center">0,75 ng OMS-PCDD/F-TEQ/kg (g) (h).</p>
 </td>
 </tr>
 <tr>
@@ -1319,7 +1315,7 @@
 <p>j) Additifs appartenant au groupe fonctionnel des composés d'oligoéléments.</p>
 </td>
 <td valign="top" width="151">
-<p>1,0 ng OMS-PCDD/F-TEQ/kg (g) (h).</p>
+<p align="center">1,0 ng OMS-PCDD/F-TEQ/kg (g) (h).</p>
 </td>
 </tr>
 <tr>
@@ -1327,7 +1323,7 @@
 <p>k) Prémélanges.</p>
 </td>
 <td valign="top" width="151">
-<p>1,0 ng OMS-PCDD/F-TEQ/kg (g) (h).</p>
+<p align="center">1,0 ng OMS-PCDD/F-TEQ/kg (g) (h).</p>
 </td>
 </tr>
 <tr>
@@ -1335,7 +1331,7 @@
 <p>l) Aliments composés pour animaux, à l'exception des aliments destinés aux animaux à fourrure, aux animaux familiers et aux poissons.</p>
 </td>
 <td valign="top" width="151">
-<p>0,75 ng OMS-PCDD/F-TEQ/kg (g) (h).</p>
+<p align="center">0,75 ng OMS-PCDD/F-TEQ/kg (g) (h).</p>
 </td>
 </tr>
 <tr>
@@ -1343,7 +1339,7 @@
 <p>m) Aliments pour poissons. Aliments pour animaux familiers.</p>
 </td>
 <td valign="top" width="151">
-<p>2,25 ng OMS-PCDD/F-TEQ/kg (g) (h).</p>
+<p align="center">2,25 ng OMS-PCDD/F-TEQ/kg (g) (h).</p>
 </td>
 </tr>
 <tr>
@@ -1354,7 +1350,7 @@
 <p>a) Matières premières d'origine végétale pour aliments des animaux, à l'exception des huiles végétales et de leurs sous-produits.</p>
 </td>
 <td valign="top" width="151">
-<p>1,25 ng OMS-PCDD/F-PCB-TEQ/kg (g)</p>
+<p align="center">1,25 ng OMS-PCDD/F-PCB-TEQ/kg (g)</p>
 </td>
 </tr>
 <tr>
@@ -1362,7 +1358,7 @@
 <p>b) Huiles végétales et leurs sous-produits.</p>
 </td>
 <td valign="top" width="151">
-<p>1,5 ng OMS-PCDD/F-PCB-TEQ/kg (g).</p>
+<p align="center">1,5 ng OMS-PCDD/F-PCB-TEQ/kg (g).</p>
 </td>
 </tr>
 <tr>
@@ -1370,7 +1366,7 @@
 <p>c) Matières premières d'origine minérale pour aliments des animaux.</p>
 </td>
 <td valign="top" width="151">
-<p>1,5 ng OMS-PCDD/F-PCB-TEQ/kg (g).</p>
+<p align="center">1,5 ng OMS-PCDD/F-PCB-TEQ/kg (g).</p>
 </td>
 </tr>
 <tr>
@@ -1378,7 +1374,7 @@
 <p>d) Matières grasses animales, y compris les matières grasses du lait et de l'œuf.</p>
 </td>
 <td valign="top" width="151">
-<p>3,0 ng OMS-PCDD/F-PCB-TEQ/kg (g).</p>
+<p align="center">3,0 ng OMS-PCDD/F-PCB-TEQ/kg (g).</p>
 </td>
 </tr>
 <tr>
@@ -1386,7 +1382,7 @@
 <p>e) Autres produits d'animaux terrestres, y compris le lait et les produits laitiers et les œufs et les ovoproduits.</p>
 </td>
 <td valign="top" width="151">
-<p>1,25 ng OMS-PCDD/F-PCB-TEQ/kg (g).</p>
+<p align="center">1,25 ng OMS-PCDD/F-PCB-TEQ/kg (g).</p>
 </td>
 </tr>
 <tr>
@@ -1394,7 +1390,7 @@
 <p>f) Huile de poisson.</p>
 </td>
 <td valign="top" width="151">
-<p>24,0 ng OMS-PCDD/F-PCB-TEQ/kg (g).</p>
+<p align="center">24,0 ng OMS-PCDD/F-PCB-TEQ/kg (g).</p>
 </td>
 </tr>
 <tr>
@@ -1402,7 +1398,7 @@
 <p>g) Poissons, autres animaux aquatiques, leurs produits et leurs sous-produits, à l'exception de l'huile de poisson et des hydrolysats de protéines de poisson contenant plus de 20 % de matières grasses (i).</p>
 </td>
 <td valign="top" width="151">
-<p>4,5 ng OMS-PCDD/F-PCB-TEQ/kg (g)</p>
+<p align="center">4,5 ng OMS-PCDD/F-PCB-TEQ/kg (g)</p>
 </td>
 </tr>
 <tr>
@@ -1410,7 +1406,7 @@
 <p>h) Hydrolysats de protéines de poisson contenant plus de 20 % de matières grasses.</p>
 </td>
 <td valign="top" width="151">
-<p>11,0 ng OMS-PCDD/F-PCB-TEQ/kg (g)</p>
+<p align="center">11,0 ng OMS-PCDD/F-PCB-TEQ/kg (g)</p>
 </td>
 </tr>
 <tr>
@@ -1418,7 +1414,7 @@
 <p>i) Additifs appartenant au groupe fonctionnel des liants et des anti-agglomérants.</p>
 </td>
 <td valign="top" width="151">
-<p>1,5 ng OMS-PCDD/F-PCB-TEQ/kg (g).</p>
+<p align="center">1,5 ng OMS-PCDD/F-PCB-TEQ/kg (g).</p>
 </td>
 </tr>
 <tr>
@@ -1426,7 +1422,7 @@
 <p>j) Additifs appartenant au groupe fonctionnel des composés d'oligoéléments.</p>
 </td>
 <td valign="top" width="151">
-<p>1,5 ng OMS-PCDD/F-PCB-TEQ/kg (g).</p>
+<p align="center">1,5 ng OMS-PCDD/F-PCB-TEQ/kg (g).</p>
 </td>
 </tr>
 <tr>
@@ -1434,7 +1430,7 @@
 <p>k) Prémélanges.</p>
 </td>
 <td valign="top" width="151">
-<p>1,5 ng OMS-PCDD/F-PCB-TEQ/kg (g).</p>
+<p align="center">1,5 ng OMS-PCDD/F-PCB-TEQ/kg (g).</p>
 </td>
 </tr>
 <tr>
@@ -1442,7 +1438,7 @@
 <p>l) Aliments composés pour animaux, à l'exception des aliments destinés aux animaux à fourrure, aux animaux familiers et aux poissons.</p>
 </td>
 <td valign="top" width="151">
-<p>1,5 ng OMS-PCDD/F-PCB-TEQ/kg (g).</p>
+<p align="center">1,5 ng OMS-PCDD/F-PCB-TEQ/kg (g).</p>
 </td>
 </tr>
 <tr>
@@ -1450,12 +1446,12 @@
 <p>m) Aliments pour poissons, aliments pour animaux familiers.</p>
 </td>
 <td valign="top" width="151">
-<p>7,0 ng OMS-PCDD/F-PCB-TEQ/kg (g).</p>
+<p align="center">7,0 ng OMS-PCDD/F-PCB-TEQ/kg (g).</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="151">
-<p align="center">C. - Impuretés botaniques</p>
+<p>C. - Impuretés botaniques</p>
 </td>
 <td valign="top" width="340"/>
 <td valign="top" width="151">
@@ -1470,7 +1466,7 @@
 <p>Tous les aliments</p>
 </td>
 <td rowspan="9" width="151">
-<p>Les graines et fruits et dérivés de leur transformation des espèces végétales ci-contre ne peuvent se trouver dans les aliments des animaux qu'en quantité indécelable.</p>
+<p align="center">Les graines et fruits et dérivés de leur transformation des espèces végétales ci-contre ne peuvent se trouver dans les aliments des animaux qu'en quantité indécelable.</p>
 </td>
 </tr>
 <tr>
@@ -1511,6 +1507,581 @@
 <tr>
 <td valign="top" width="151">
 <p>12. Moutarde d'Abyssinie (d'Ethiopie) - Brassica carinate A. Braun.</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="151">
+<p align="center">D. - Coccidiostatiques et histomonostatiques</p>
+</td>
+<td valign="top" width="340"/>
+<td valign="top" width="151">
+<br/>
+</td>
+</tr>
+<tr>
+<td rowspan="6" valign="top" width="151">
+<p>1. Lasalocide sodium</p>
+</td>
+<td valign="top" width="340">
+<p>Matières premières des aliments des animaux </p>
+</td>
+<td valign="top" width="151">
+<p align="center">1,25</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>Aliments composés pour : </p>
+</td>
+<td valign="top" width="151">
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>- chiens, veaux, lapins, équidés, animaux laitiers, oiseaux pondeurs, dindes (&gt; 12 semaines) et poulettes destinées à la ponte (&gt; 16 semaines) </p>
+</td>
+<td valign="top" width="151">
+<p align="center">1,25</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>- poulets d'engraissement, poulettes destinées à la ponte (&lt; 16 semaines) et dindes (&lt; 12 semaines) pendant la période précédant l'abattage durant laquelle l'utilisation de lasalocide sodium est interdite (aliments de retrait) </p>
+</td>
+<td valign="top" width="151">
+<p align="center">1,25</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>- autres espèces animales </p>
+</td>
+<td valign="top" width="151">
+<p align="center">3,75</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>Prémélanges entrant dans la composition d'aliments pour animaux dans lesquels l'utilisation de lasalocide sodium n'est pas autorisée </p>
+</td>
+<td valign="top" width="151">
+<p align="center">(**)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="6" valign="top" width="151">
+<p>2. Narasin</p>
+</td>
+<td valign="top" width="340">
+<p>Matières premières des aliments des animaux </p>
+</td>
+<td valign="top" width="151">
+<p align="center">0,7</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>Aliments composés pour : </p>
+</td>
+<td valign="top" width="151">
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>- dindes, lapins, équidés, oiseaux pondeurs et poulettes destinées à la ponte (&gt; 16 semaines) </p>
+</td>
+<td valign="top" width="151">
+<p align="center">0, 7</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>- poulets d'engraissement pendant la période précédant l'abattage durant laquelle l'utilisation de narasine est interdite (aliments de retrait) </p>
+</td>
+<td valign="top" width="151">
+<p align="center">0,7</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>- autres espèces animales </p>
+</td>
+<td valign="top" width="151">
+<p align="center">2,1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>Prémélanges entrant dans la composition d'aliments dans lesquels l'utilisation de narasin n'est pas autorisée </p>
+</td>
+<td valign="top" width="151">
+<p align="center">(**)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="6" valign="top" width="151">
+<p>3. Salinomycine sodium</p>
+</td>
+<td valign="top" width="340">
+<p>Matières premières des aliments des animaux </p>
+</td>
+<td valign="top" width="151">
+<p align="center">0,7</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>Aliment composé pour : </p>
+</td>
+<td valign="top" width="151">
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>- équidés, dindes, oiseaux pondeurs et poulettes destinées à la ponte (&gt; 12 semaines) </p>
+</td>
+<td valign="top" width="151">
+<p align="center">0,7</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>- poulets d'engraissement, poulettes destinées à la ponte (&lt; 12 semaines) et lapins d'engraissement pendant la période précédant l'abattage durant laquelle l'utilisation de salinomycine sodium est interdite (aliments de retrait) </p>
+</td>
+<td valign="top" width="151">
+<p align="center">0, 7</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>- autres espèces animales </p>
+</td>
+<td valign="top" width="151">
+<p align="center">2, 1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>Prémélanges entrant dans la composition d'aliments pour animaux dans lesquels l'utilisation de salinomycine sodium n'est pas autorisée </p>
+</td>
+<td valign="top" width="151">
+<p align="center">(**)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="6" valign="top" width="151">
+<p>4. Monensin sodium </p>
+</td>
+<td valign="top" width="340">
+<p>Matières premières des aliments des animaux </p>
+</td>
+<td valign="top" width="151">
+<p align="center">1,25</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>Aliments composés pour : </p>
+</td>
+<td valign="top" width="151">
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>- équidés, chiens, petits ruminants (ovins et caprins), canards, bovins, bétail laitier, oiseaux pondeurs, poulettes destinées à la ponte (&gt; 16 semaines) et dindes (&gt; 16 semaines) </p>
+</td>
+<td valign="top" width="151">
+<p align="center">1,25</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>- poulets d'engraissement, poulettes destinées à la ponte (&lt; 16 semaines) et dindes (&lt; 16 semaines) pendant la période précédant l'abattage durant laquelle l'utilisation de monensine sodium est interdite (aliments de retrait) </p>
+</td>
+<td valign="top" width="151">
+<p align="center">1,25</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>- autres espèces animales </p>
+</td>
+<td valign="top" width="151">
+<p align="center">3,75</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>Prémélanges entrant dans la composition d'aliments pour animaux dans lesquels l'utilisation de monensin sodium n'est pas autorisée </p>
+</td>
+<td valign="top" width="151">
+<p align="center">(**)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="6" valign="top" width="151">
+<p>5. Semduramicine sodium</p>
+</td>
+<td valign="top" width="340">
+<p>Matières premières des aliments pour animaux </p>
+</td>
+<td valign="top" width="151">
+<p align="center">0,25</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>Aliments composés pour : </p>
+</td>
+<td valign="top" width="151">
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>- oiseaux pondeurs et poulettes destinées à la ponte (&gt; 16 semaines) </p>
+</td>
+<td valign="top" width="151">
+<p align="center">0,25</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>- poulets d'engraissement pendant la période précédant l'abattage durant laquelle l'utilisation de semduramicine sodium est interdite (aliments de retrait) </p>
+</td>
+<td valign="top" width="151">
+<p align="center">0,25</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>- autres espèces animales </p>
+</td>
+<td valign="top" width="151">
+<p align="center">0,75</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>Prémélanges entrant dans la composition d'aliments pour animaux dans lesquels l'utilisation de semduramicine sodium n'est pas autorisée </p>
+</td>
+<td valign="top" width="151">
+<p align="center">(**)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="6" valign="top" width="151">
+<p>6. Maduramicine ammonium alpha</p>
+</td>
+<td valign="top" width="340">
+<p>Matières premières des aliments pour animaux </p>
+</td>
+<td valign="top" width="151">
+<p align="center">0,05</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>Aliments composés pour : </p>
+</td>
+<td valign="top" width="151">
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>- équidés, lapins, dindes (&gt; 16 semaines), oiseaux pondeurs et poulettes destinées à la ponte (&gt; 16 semaines) </p>
+</td>
+<td valign="top" width="151">
+<p align="center">0,05</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>- poulets d'engraissement et dindes (&lt; 16 semaines) pendant la période précédant l'abattage durant laquelle l'utilisation de maduramicine ammonium alpha est interdite (aliments de retrait) </p>
+</td>
+<td valign="top" width="151">
+<p align="center">0,05</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>- autres espèces animales </p>
+</td>
+<td valign="top" width="151">
+<p align="center">0,15</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>Prémélanges entrant dans la composition d'aliments pour animaux dans lesquels l'utilisation de maduramicine ammonium alpha n'est pas autorisée </p>
+</td>
+<td valign="top" width="151">
+<p align="center">(**)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="6" valign="top" width="151">
+<p>7. Chlorhydrate de robénidine</p>
+</td>
+<td valign="top" width="340">
+<p>Matières premières des aliments pour animaux </p>
+</td>
+<td valign="top" width="151">
+<p align="center">0,7</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>Aliments composés pour : </p>
+</td>
+<td valign="top" width="151">
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>- oiseaux pondeurs et poulettes destinées à la ponte (&gt; 16 semaines) </p>
+</td>
+<td valign="top" width="151">
+<p align="center">0,7</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>- poulets d'engraissement, lapins d'engraissement, lapins reproducteurs et dindes pendant la période précédant l'abattage durant laquelle l'utilisation de chlorhydrate de robénidine est interdite (aliments de retrait) </p>
+</td>
+<td valign="top" width="151">
+<p align="center">0,7</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>- autres espèces animales </p>
+</td>
+<td valign="top" width="151">
+<p align="center">2,1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>Prémélanges entrant dans la composition d'aliments pour animaux dans lesquels l'utilisation de chlorhydrate de robénidine n'est pas autorisée </p>
+</td>
+<td valign="top" width="151">
+<p align="center">(**)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="6" valign="top" width="151">
+<p>8. Décoquinate </p>
+</td>
+<td valign="top" width="340">
+<p>Matières premières des aliments pour animaux </p>
+</td>
+<td valign="top" width="151">
+<p align="center">0,4</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>Aliments composés pour : </p>
+</td>
+<td valign="top" width="151">
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>- oiseaux pondeurs et poulettes destinées à la ponte (&gt; 16 semaines) </p>
+</td>
+<td valign="top" width="151">
+<p align="center">0,4</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>- poulets d'engraissement pendant la période précédant l'abattage durant laquelle l'utilisation de décoquinate est interdite (aliments de retrait) </p>
+</td>
+<td valign="top" width="151">
+<p align="center">0,4</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>- autres espèces animales </p>
+</td>
+<td valign="top" width="151">
+<p align="center">1,2</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>Prémélanges entrant dans la composition d'aliments pour animaux dans lesquels l'utilisation de décoquinate n'est pas autorisée </p>
+</td>
+<td valign="top" width="151">
+<p align="center">(**)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="6" valign="top" width="151">
+<p>9. Bromhydrate d'halofuginone </p>
+</td>
+<td valign="top" width="340">
+<p>Matières premières des aliments pour animaux </p>
+</td>
+<td valign="top" width="151">
+<p align="center">0,03</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>Aliments composés pour : </p>
+</td>
+<td valign="top" width="151">
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>- oiseaux pondeurs, poulettes destinées à la ponte (&gt; 16 semaines) et dindes (&gt; 12 semaines) </p>
+</td>
+<td valign="top" width="151">
+<p align="center">0,03</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>- poulets d'engraissement et dindes (&lt; 12 semaines) pendant la période précédant l'abattage durant laquelle l'utilisation de bromhydrate d'halofuginone est interdite (aliments de retrait) </p>
+</td>
+<td valign="top" width="151">
+<p align="center">0,03</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>- autres espèces animales autres que les poulettes destinées à la ponte (&lt; 16 semaines) </p>
+</td>
+<td valign="top" width="151">
+<p align="center">0,09</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>Prémélanges entrant dans la composition d'aliments pour animaux dans lesquels l'utilisation de bromhydrate d'halofuginone n'est pas autorisée </p>
+</td>
+<td valign="top" width="151">
+<p align="center">(**)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="6" valign="top" width="151">
+<p>10. Nicarbazine </p>
+</td>
+<td valign="top" width="340">
+<p>Matières premières des aliments pour animaux </p>
+</td>
+<td valign="top" width="151">
+<p align="center">0,5</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>Aliments composés pour : </p>
+</td>
+<td valign="top" width="151">
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>- équidés, oiseaux pondeurs et poulettes destinées à la ponte (&gt; 16 semaines) </p>
+</td>
+<td valign="top" width="151">
+<p align="center">0,5</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>- poulets d'engraissement pendant la période précédant l'abattage durant laquelle l'utilisation de nicarbazine (associée à la narasine) est interdite (aliments de retrait) </p>
+</td>
+<td valign="top" width="151">
+<p align="center">0,5</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>- autres espèces animales </p>
+</td>
+<td valign="top" width="151">
+<p align="center">1,5</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>Prémélanges entrant dans la composition d'aliments pour animaux dans lesquels l'utilisation de nicarbazine (associée à la narasine) n'est pas autorisée </p>
+</td>
+<td valign="top" width="151">
+<p align="center">(**)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="6" valign="top" width="151">
+<p>11. Diclazuril </p>
+</td>
+<td valign="top" width="340">
+<p>Matières premières des aliments pour animaux </p>
+</td>
+<td valign="top" width="151">
+<p align="center">0,01</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>Aliments composés pour : </p>
+</td>
+<td valign="top" width="151">
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>- oiseaux pondeurs, poulettes destinées à la ponte (&gt; 16 semaines) et dindes d'engraissement (&gt; 12 semaines) </p>
+</td>
+<td valign="top" width="151">
+<p align="center">0,01</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>- lapins d'engraissement et lapins reproducteurs pendant la période précédant l'abattage durant laquelle l'utilisation de diclazuril est interdite (aliments de retrait) </p>
+</td>
+<td valign="top" width="151">
+<p align="center">0,01</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>- autres espèces animales autres que les poulettes destinées à la ponte (&lt; 16 semaines), les poulets d'engraissement et les dindes d'engraissement (&lt; 12 semaines) </p>
+</td>
+<td valign="top" width="151">
+<p align="center">0,03</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>Prémélanges entrant dans la composition d'aliments pour animaux dans lesquels l'utilisation de diclazuril n'est pas autorisée. </p>
+</td>
+<td valign="top" width="151">
+<p align="center">(**)</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" valign="top" width="643">
+<p>(1) Teneur en fluor pour 1 % de phosphore.<br/>(1-1) Les teneurs maximales se rapportent aux teneurs totales en arsenic.<br/>(1-2) A la demande des autorités compétentes, l'opérateur responsable doit effectuer une analyse pour démontrer que la teneur maximale en arsenic inorganique est inférieure à 2 ppm. Cette analyse est particulièrement importante dans le cas de l'algue marine hijiki (hizikia fusiforme).<br/>(2) Concentrations supérieures ; les concentrations supérieures sont calculées en supposant que toutes les valeurs des différents congénères au-dessous du seuil de quantification sont égales au seuil de quantification.<br/>(3) Le poisson frais fourni et utilisé directement sans traitement intermédiaire pour la production d'aliments pour animaux à fourrure n'est pas soumis à ce seuil maximal : le poisson frais utilisé pour l'alimentation directe des animaux familiers et des animaux de zoo et de cirque est soumis à un seuil maximum de 4,0 ng OMS-PCDD/F-TEQ/kg. Les produits et protéines animales transformées issus de ces animaux (animaux à fourrure, animaux familiers, animaux de zoo et de cirque) ne peuvent entrer dans la chaîne alimentaire et leur utilisation est interdite dans l'alimentation des animaux dont la chair ou les produits sont destinés à la consommation humaine.<br/>(a) Les teneurs maximales renvoient à une détermination analytique du plomb, l'extraction s'effectuant dans de l'acide nitrique (5 % p/p) pendant trente minutes à la température d'ébullition. Des méthodes d'extraction équivalentes peuvent être utilisées s'il peut être démontré qu'elles ont une efficacité d'extraction égale.<br/>(b) Les fourrages verts comprennent les produits destinés à l'alimentation animale tels que le foin, le fourrage ensilé, l'herbe fraîche, etc.<br/>(c) Les teneurs maximales renvoient à une détermination analytique du fluor, l'extraction s'effectuant avec de l'acide chlorhydrique 1N pendant vingt minutes à la température ambiante. Des méthodes d'extraction équivalentes peuvent être utilisées s'il peut être démontré qu'elles ont une efficacité d'extraction égale.<br/>(d) Les teneurs maximales renvoient à une détermination analytique du cadmium, l'extraction s'effectuant dans de l'acide nitrique (5 % p/p) pendant trente minutes à la température d'ébullition. Des méthodes d'extraction équivalentes peuvent être utilisées s'il peut être démontré qu'elles ont une efficacité d'extraction égale.<br/>(e) Système de numérotation selon Parlar, avec préfixe CHB ou Parlar n° <br/>- CHB 26 : 2-endo,3-exo,5-endo, 6-exo, 8,8,10,10-octochlorobornane<br/>- CHB 50 : 2-endo,3-exo,5-endo, 6-exo, 8,8,9,10,10-nonachlorobornane<br/>- CHB 62 : 2,2,5,5,8,9,9,10,10-nonachlorobornane.<br/>(f) TEF-OMS pour l'évaluation des risques pour les êtres humains, fondés sur les conclusions de la réunion de l'OMS tenue à Stockholm (Suède), du 15 au 18 juin 1997 [Van den Berg et al. (1998) Toxic Equivalency Factors (TEFs) for PCBs, PCDDs, PCDFs for Humans and for Wildlife. Environmental Health Perspectives, 106(12), 775].<br/>(g) Concentrations supérieures : les concentrations supérieures sont calculées sur la base de l'hypothèse que toutes les valeurs des différents congénères au-dessous du seuil de quantification sont égales au seuil de quantification.<br/>(h) La teneur maximale distincte pour les dioxines (PCDD/F) reste applicable pendant une période limitée. Les produits destinés aux aliments pour animaux mentionnés au point 21 doivent satisfaire, pendant cette période, tant aux teneurs maximales fixées pour les dioxines qu'à celles établies pour la somme des dioxines et des PCB de type dioxine.<br/>(i) Le poisson frais fourni et utilisé directement sans traitement intermédiaire pour la production d'aliments pour animaux à fourrure n'est pas soumis aux teneurs maximales, tandis que le poisson frais utilisé pour l'alimentation directe des animaux familiers et des animaux de zoo et de cirque est soumis à des teneurs maximales de 4,0 ng OMS-PCDD/F-TEQ/kg et de 8,0 ng OMS-PCDD/F-PCB-TEQ/kg. Les produits et protéines animales transformées issus de ces animaux (animaux à fourrure, animaux familiers, animaux de zoo et de cirque) ne peuvent entrer dans la chaîne alimentaire, et leur utilisation est interdite dans l'alimentation des animaux d'élevage gardés, engraissés ou élevés pour la production de denrées alimentaires.<br/>(j) Isolément ou ensemble, exprimée en dieldrine.<br/>(k) Teneur maximale pour l'aldrine et la dieldrine, prises isolément ou ensemble, exprimée en dieldrine.<br/>(*) Sans préjudice des niveaux autorisés dans le cadre du règlement (CE) n° 1831 / 2003 du Parlement européen et du Conseil du 22 septembre 2003 relatif aux additifs destinés à l'alimentation des animaux.<br/>(**) Le niveau maximal de la substance dans le prémélange correspond à une concentration qui ne doit pas conduire à un niveau supérieur à 50 % de la valeur maximale établie pour l'aliment lorsque les consignes d'utilisation du prémélange sont respectées.</p>
 </td>
 </tr>
 </tbody>
@@ -1812,41 +2383,3 @@
 </tr>
 </tbody>
 </table>
-
-(1) Teneur en fluor pour 1 % de phosphore.
-
-(1-1) Les teneurs maximales se rapportent aux teneurs totales en arsenic.
-
-(1-2) A la demande des autorités compétentes, l'opérateur responsable doit effectuer une analyse pour démontrer que la teneur maximale en arsenic inorganique est inférieure à 2 ppm. Cette analyse est particulièrement importante dans le cas de l'algue marine hijiki (hizikia fusiforme).
-
-(2) Concentrations supérieures ; les concentrations supérieures sont calculées en supposant que toutes les valeurs des différents congénères au-dessous du seuil de quantification sont égales au seuil de quantification.
-
-(3) Le poisson frais fourni et utilisé directement sans traitement intermédiaire pour la production d'aliments pour animaux à fourrure n'est pas soumis à ce seuil maximal : le poisson frais utilisé pour l'alimentation directe des animaux familiers et des animaux de zoo et de cirque est soumis à un seuil maximum de 4,0 ng OMS-PCDD/F-TEQ/kg. Les produits et protéines animales transformées issus de ces animaux (animaux à fourrure, animaux familiers, animaux de zoo et de cirque) ne peuvent entrer dans la chaîne alimentaire et leur utilisation est interdite dans l'alimentation des animaux dont la chair ou les produits sont destinés à la consommation humaine.
-
-(a) Les teneurs maximales renvoient à une détermination analytique du plomb, l'extraction s'effectuant dans de l'acide nitrique (5 % p/p) pendant trente minutes à la température d'ébullition. Des méthodes d'extraction équivalentes peuvent être utilisées s'il peut être démontré qu'elles ont une efficacité d'extraction égale.
-
-(b) Les fourrages verts comprennent les produits destinés à l'alimentation animale tels que le foin, le fourrage ensilé, l'herbe fraîche, etc.
-
-(c) Les teneurs maximales renvoient à une détermination analytique du fluor, l'extraction s'effectuant avec de l'acide chlorhydrique 1N pendant vingt minutes à la température ambiante. Des méthodes d'extraction équivalentes peuvent être utilisées s'il peut être démontré qu'elles ont une efficacité d'extraction égale.
-
-(d) Les teneurs maximales renvoient à une détermination analytique du cadmium, l'extraction s'effectuant dans de l'acide nitrique (5 % p/p) pendant trente minutes à la température d'ébullition. Des méthodes d'extraction équivalentes peuvent être utilisées s'il peut être démontré qu'elles ont une efficacité d'extraction égale.
-
-(e) Système de numérotation selon Parlar, avec préfixe CHB ou Parlar n°
-
-- CHB 26 : 2-endo,3-exo,5-endo, 6-exo, 8,8,10,10-octochlorobornane
-
-- CHB 50 : 2-endo,3-exo,5-endo, 6-exo, 8,8,9,10,10-nonachlorobornane
-
-- CHB 62 : 2,2,5,5,8,9,9,10,10-nonachlorobornane.
-
-(f) TEF-OMS pour l'évaluation des risques pour les êtres humains, fondés sur les conclusions de la réunion de l'OMS tenue à Stockholm (Suède), du 15 au 18 juin 1997 [Van den Berg et al. (1998) Toxic Equivalency Factors (TEFs) for PCBs, PCDDs, PCDFs for Humans and for Wildlife. Environmental Health Perspectives, 106(12), 775].
-
-(g) Concentrations supérieures : les concentrations supérieures sont calculées sur la base de l'hypothèse que toutes les valeurs des différents congénères au-dessous du seuil de quantification sont égales au seuil de quantification.
-
-(h) La teneur maximale distincte pour les dioxines (PCDD/F) reste applicable pendant une période limitée. Les produits destinés aux aliments pour animaux mentionnés au point 21 doivent satisfaire, pendant cette période, tant aux teneurs maximales fixées pour les dioxines qu'à celles établies pour la somme des dioxines et des PCB de type dioxine.
-
-(i) Le poisson frais fourni et utilisé directement sans traitement intermédiaire pour la production d'aliments pour animaux à fourrure n'est pas soumis aux teneurs maximales, tandis que le poisson frais utilisé pour l'alimentation directe des animaux familiers et des animaux de zoo et de cirque est soumis à des teneurs maximales de 4,0 ng OMS-PCDD/F-TEQ/kg et de 8,0 ng OMS-PCDD/F-PCB-TEQ/kg. Les produits et protéines animales transformées issus de ces animaux (animaux à fourrure, animaux familiers, animaux de zoo et de cirque) ne peuvent entrer dans la chaîne alimentaire, et leur utilisation est interdite dans l'alimentation des animaux d'élevage gardés, engraissés ou élevés pour la production de denrées alimentaires.
-
-(j) Isolément ou ensemble, exprimée en dieldrine.
-
-(k) Teneur maximale pour l'aldrine et la dieldrine, prises isolément ou ensemble, exprimée en dieldrine.
