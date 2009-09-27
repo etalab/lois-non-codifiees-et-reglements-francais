@@ -25,6 +25,7 @@
 - [Décret n°2006-779 du 3 juillet 2006 (INTB0600133D)](decret-n2006-779-du-3-juillet-2006-intb0600133d)
 - [Décret n°2006-781 du 3 juillet 2006 (BUDB0620002D)](decret-n2006-781-du-3-juillet-2006-budb0620002d)
 - [Décret n°2007-1306 du 3 septembre 2007 (DEFH0751139D)](decret-n2007-1306-du-3-septembre-2007-defh0751139d)
+- [Décret n°2006-501 du 3 mai 2006 (FPPA0600034D)](decret-n2006-501-du-3-mai-2006-fppa0600034d)
 - [Décret n°2006-502 du 3 mai 2006 (MCCX0600360D)](decret-n2006-502-du-3-mai-2006-mccx0600360d)
 - [Décret n°2003-849 du 4 septembre 2003 (EQUX0300098D)](decret-n2003-849-du-4-septembre-2003-equx0300098d)
 - [Décret n°2006-1504 du 4 décembre 2006 (ECOT0614566D)](decret-n2006-1504-du-4-decembre-2006-ecot0614566d)
