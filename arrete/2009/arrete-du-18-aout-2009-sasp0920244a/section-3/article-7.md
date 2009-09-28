@@ -1,0 +1,3 @@
+# Article 7
+
+Le laboratoire habilité participe, à ses frais, à des essais interlaboratoires pour les groupes faisant l'objet de l'habilitation. Ils sont réalisés au moins une fois pendant la durée de l'habilitation et, le cas échéant, sur demande dûment motivée du ministre chargé de la santé pour les essais définis dans les normes, mentionnées en annexe II, relatives à l'effet sur la qualité des eaux destinées à la consommation humaine, des matériaux et objets, d'une part, des produits et procédés de traitement de l'eau, d'autre part. Les essais interlaboratoires sont organisés par l'Agence française de sécurité sanitaire des aliments.
