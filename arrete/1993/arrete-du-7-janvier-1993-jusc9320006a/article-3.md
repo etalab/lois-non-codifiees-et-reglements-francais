@@ -4,4 +4,4 @@ Lorsqu'elle prescrit au requérant de subir l'examen d'aptitude, la décision du
 
 Le centre régional de formation professionnelle organise l'examen au moins une fois par an.
 
-Les dates et lieux des épreuves sont fixés par le président du conseil d'administration du centre qui adresse, par lettre recommandée avec demande d'avis de réception, une convocation individuelle au candidat au moins un mois avant la date de la première épreuve.
+Les dates et lieux des épreuves sont fixés par le président du conseil d'administration du centre qui adresse, par lettre recommandée avec demande d'avis de réception ou par tout autre moyen équivalent, une convocation individuelle au candidat au moins un mois avant la date de la première épreuve.
