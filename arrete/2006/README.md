@@ -192,7 +192,6 @@
 - [Arrêté du 20 novembre 2006 (MJSK0670241A)](arrete-du-20-novembre-2006-mjsk0670241a)
 - [Arrêté du 20 septembre 2006 (AGRP0602038A)](arrete-du-20-septembre-2006-agrp0602038a)
 - [Arrêté du 20 septembre 2006 (DEFP0601118A)](arrete-du-20-septembre-2006-defp0601118a)
-- [Arrêté du 20 septembre 2006 (INTE0600818A)](arrete-du-20-septembre-2006-inte0600818a)
 - [Arrêté du 21 août 2006 (MENF0601956A)](arrete-du-21-aout-2006-menf0601956a)
 - [Arrêté du 21 avril 2006 (DEFP0600459A)](arrete-du-21-avril-2006-defp0600459a)
 - [Arrêté du 21 avril 2006 (INTA0600400A)](arrete-du-21-avril-2006-inta0600400a)
