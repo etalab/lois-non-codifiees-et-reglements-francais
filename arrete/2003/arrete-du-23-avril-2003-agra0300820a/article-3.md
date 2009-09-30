@@ -4,16 +4,20 @@ La seconde épreuve d'admissibilité, organisée par spécialité, doit permettr
 
 Elle porte sur les domaines suivants :
 
-1. Spécialités techniques agricoles et travaux forestiers : sciences de la vie et de la Terre.
+1. Spécialité techniques agricoles : biologie-écologie.
 
-(Durée : trois heures ; coefficient 1.)
+(Durée : trois heures ; coefficient 1).
 
-2. Spécialité génie rural : mathématiques.
+2. Spécialité travaux forestiers : sciences de la vie et de la Terre.
 
-(Durée : trois heures ; coefficient 1.)
+(Durée : trois heures ; coefficient 1).
 
-3. Spécialité vétérinaire : biologie animale, comportant des notions de biochimie.
+3. Spécialité génie rural : mathématiques.
 
-(Durée : trois heures ; coefficient 1.)
+(Durée : trois heures ; coefficient 1).
+
+4. Spécialité vétérinaire : biologie-écologie.
+
+(Durée : trois heures ; coefficient 1).
 
 Le programme est annexé au présent arrêté.
