@@ -1,6 +1,6 @@
 # Article 2
 
-La somme à rembourser au Trésor par les ingénieurs-élèves ou les ingénieurs des ponts et chaussées, en application de l'article 8 du décret du 16 avril 2002 susvisé, est établie, compte tenu de la durée de service à effectuer en activité ou en détachement en application de ce même article, selon les taux prévus dans le tableau suivant :
+La somme à rembourser au Trésor par les ingénieurs-élèves ou les    ingénieurs des ponts, des eaux et des forêts, en application de l'article 8 du décret du 16 avril 2002 susvisé, est établie, compte tenu de la durée de service à effectuer en activité ou en détachement en application de ce même article, selon les taux prévus dans le tableau suivant :
 
 <table>
 <tbody>

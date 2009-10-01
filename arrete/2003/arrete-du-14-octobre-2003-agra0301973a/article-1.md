@@ -8,7 +8,7 @@ Groupe 1 :
 
 Inspecteurs de santé publique vétérinaire ;
 
-Ingénieurs du génie rural, des eaux et des forêts.
+ingénieurs des ponts, des eaux et des forêts.
 
 Groupe 2 :
 

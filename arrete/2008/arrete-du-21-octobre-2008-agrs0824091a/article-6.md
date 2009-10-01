@@ -2,7 +2,7 @@
 
 Pour chacun des concours, le jury est composé :
 
-― d'un président choisi parmi les inspecteurs généraux de l'agriculture ou les ingénieurs généraux du génie rural, des eaux et des forêts ou les inspecteurs de l'enseignement agricole à compétence générale ;
+― d'un président choisi parmi les inspecteurs généraux de l'agriculture ou les ingénieurs généraux des ponts, des eaux et des forêts ou les inspecteurs de l'enseignement agricole à compétence générale ;
 
 ― de membres choisis parmi les chefs d'établissement d'enseignement, les personnels enseignants et d'éducation et les spécialistes de l'éducation ou de la vie scolaire relevant du ministère de l'agriculture et de la pêche ;
 

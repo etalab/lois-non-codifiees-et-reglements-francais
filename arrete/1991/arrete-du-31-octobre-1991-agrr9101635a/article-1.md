@@ -6,11 +6,11 @@ Pour demander l'inscription sur la liste des experts agricoles et fonciers, auro
 
 Ingénieur civil des eaux et forêts.
 
-Ingénieur civil du génie rural, des eaux et des forêts.
+Ingénieur civil des ponts, des eaux et des forêts.
 
 Ingénieur d'agronomie.
 
-Ingénieur du génie rural, des eaux et des forêts.
+Ingénieur des ponts, des eaux et des forêts.
 
 Ingénieur des travaux des eaux et forêts.
 

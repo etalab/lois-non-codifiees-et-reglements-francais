@@ -22,7 +22,7 @@ c) Douze membres élus :
 
 ― deux représentants des maîtres de conférences relevant du décret du 21 février 1992 susvisé et personnels assimilés ;
 
-― un représentant des ingénieurs du génie rural, des eaux et des forêts, des ingénieurs de l'agriculture et de l'environnement et des autres personnels enseignants ;
+― un représentant des         ingénieurs des ponts, des eaux et des forêts , des ingénieurs de l'agriculture et de l'environnement et des autres personnels enseignants ;
 
 ― deux représentants des personnels ingénieurs, assistants ingénieurs et techniciens ;
 

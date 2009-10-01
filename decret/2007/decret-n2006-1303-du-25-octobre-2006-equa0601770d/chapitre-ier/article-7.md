@@ -2,7 +2,7 @@
 
 Les fonctionnaires nommés dans un emploi de chef d'unité technique de l'aviation civile sont classés dans cet emploi selon les modalités suivantes :
 
-1° Les ingénieurs des ponts et chaussées sont classés dans cet emploi à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui dont ils bénéficiaient dans leur grade d'origine.
+1° Les    ingénieurs des ponts, des eaux et des forêts sont classés dans cet emploi à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui dont ils bénéficiaient dans leur grade d'origine.
 
 Ils conservent, dans la limite de la durée de service exigée pour l'avancement à l'échelon immédiatement supérieur dans leur nouvel emploi, l'ancienneté d'échelon acquise dans leur précédent grade ou emploi lorsque leur nomination ne leur procure pas un avantage supérieur à celui qui aurait résulté d'un avancement d'échelon dans leur ancienne situation.
 
@@ -96,66 +96,66 @@ Ils conservent, dans la limite de la durée de service exigée pour l'avancement
 <tr>
 <td>
 <p align="center">INGÉNIEUR PRINCIPAL DES ÉTUDES </p>
-<p>et de l'exploitation de l'aviation civile</p>
+<p>et de l'exploitation de l'aviation civile </p>
 </td>
 <td colspan="2">
-<p align="center">CHEF D'UNITÉ TECHNIQUE DE L'AVIATION CIVILE</p>
+<p align="center">CHEF D'UNITÉ TECHNIQUE DE L'AVIATION CIVILE </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">Echelons</p>
+<p align="center">Echelons </p>
 </td>
 <td>
-<p align="center">Echelons</p>
+<p align="center">Echelons </p>
 </td>
 <td>
 <p align="center">Ancienneté conservée </p>
-<p>dans la limite de la durée d'échelon</p>
+<p>dans la limite de la durée d'échelon </p>
 </td>
 </tr>
 <tr>
 <td>
-<p>1re classe, 2e échelon</p>
+<p>1re classe, 2e échelon </p>
 </td>
 <td>
-<p align="center">6e</p>
+<p align="center">6e </p>
 </td>
 <td>
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td>
-<p>1re classe, 1er échelon</p>
-</td>
-<td>
-<p align="center">5e</p>
-</td>
-<td>
-<p>1/2 de l'ancienneté acquise.</p>
+<pre/>
 </td>
 </tr>
 <tr>
 <td>
-<p>2e classe, 8e échelon</p>
+<p>1re classe, 1er échelon </p>
 </td>
 <td>
-<p align="center">4e</p>
+<p align="center">5e </p>
 </td>
 <td>
-<p>1/2 de l'ancienneté acquise.</p>
+<p>1 / 2 de l'ancienneté acquise. </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2e classe, 8e échelon </p>
+</td>
+<td>
+<p align="center">4e </p>
+</td>
+<td>
+<p>1 / 2 de l'ancienneté acquise. </p>
 </td>
 </tr>
 <tr>
 <td rowspan="2">
-<p>2e classe, 7e échelon</p>
+<p>2e classe, 7e échelon </p>
 </td>
 <td rowspan="2">
-<p align="center">3e</p>
+<p align="center">3e </p>
 </td>
 <td rowspan="2">
-<p>1/2 de l'ancienneté acquise.</p>
+<p>1 / 2 de l'ancienneté acquise. </p>
 </td>
 </tr>
 </tbody>

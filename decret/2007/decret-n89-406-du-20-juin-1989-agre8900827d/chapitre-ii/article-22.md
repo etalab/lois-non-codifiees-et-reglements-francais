@@ -6,7 +6,7 @@ L'ancienneté dans la précédente catégorie est réputée en ce cas égale à 
 
 Les coefficients caractéristiques sont ceux des corps de fonctionnaires qui ont les échelles indiciaires servant de référence pour la rémunération, telles qu'elles sont prévues à l'article 35 ci-après.
 
-Toutefois, par dérogation aux dispositions ci-dessus, les contractuels classés promus à la 1re catégorie et rémunérés par référence à l'échelle indiciaire des ingénieurs du génie rural, des eaux et des forêts sont reclassés à un échelon comportant un indice égal ou à défaut immédiatement supérieur à celui détenu.
+Toutefois, par dérogation aux dispositions ci-dessus, les contractuels classés promus à la 1re catégorie et rémunérés par référence à l'échelle indiciaire des         ingénieurs des ponts, des eaux et des forêts  sont reclassés à un échelon comportant un indice égal ou à défaut immédiatement supérieur à celui détenu.
 
 Dans la limite de l'ancienneté exigée pour une promotion à l'échelon supérieur, les intéressés conservent l'ancienneté qu'ils avaient acquise dans l'échelon de leur ancienne catégorie lorsque l'augmentation de traitement consécutive à leur promotion est inférieure à celle que leur aurait procuré un avancement d'échelon dans leur ancienne catégorie.
 

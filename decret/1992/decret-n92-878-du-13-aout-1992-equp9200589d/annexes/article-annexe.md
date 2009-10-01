@@ -106,7 +106,7 @@ CORPS, CADRE d'emploi territorial ou emplois territoriaux :
 
 CORPS ET GRADE de la fonction publique de l'Etat :
 
-- Ingénieur en chef des ponts et chaussées.
+- Ingénieur en chef des ponts, des eaux et des forêts.
 
 - Urbaniste en chef.
 
@@ -126,7 +126,7 @@ CORPS, CADRE d'emploi territorial ou emplois territoriaux :
 
 CORPS ET GRADE de la fonction publique de l'Etat :
 
-- Ingénieur de 2e classe des ponts et chaussées.
+- Ingénieur de 2e classe des ponts, des eaux et des forêts.
 
 - Urbaniste de 2e classe.
 

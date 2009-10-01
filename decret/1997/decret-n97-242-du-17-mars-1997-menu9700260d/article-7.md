@@ -4,7 +4,7 @@ Sont dispensés du stage, s'ils en font la demande, à partir de cinquante-deux 
 
 1° Personnels de catégorie A des services déconcentrés de la direction générale des impôts ;
 
-2° Ingénieurs du génie rural ;
+2° Ingénieurs des ponts, des eaux et des forêts;
 
 3° Ingénieurs en chef et ingénieurs du service technique de la documentation foncière de la ville de Paris ;
 

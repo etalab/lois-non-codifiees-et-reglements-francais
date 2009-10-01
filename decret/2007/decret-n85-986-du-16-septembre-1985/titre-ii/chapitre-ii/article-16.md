@@ -16,17 +16,17 @@ c) Le détachement des comptables supérieurs du Trésor, des agents des cadres 
 
 d) Le détachement auprès du ministre de la défense :
 
-- des fonctionnaires des postes et télécommunications pour servir dans la poste aux armées ;
+-des fonctionnaires des postes et télécommunications pour servir dans la poste aux armées ;
 
-- des fonctionnaires du ministère de l'éducation nationale et du ministère chargé de la jeunesse et des sports pour exercer des fonctions d'enseignement dans les écoles militaires ;
+-des fonctionnaires du ministère de l'éducation nationale et du ministère chargé de la jeunesse et des sports pour exercer des fonctions d'enseignement dans les écoles militaires ;
 
-- des fonctionnaires du ministère de l'économie, des finances et du budget pour servir dans la trésorerie aux armées ;
+-des fonctionnaires du ministère de l'économie, des finances et du budget pour servir dans la trésorerie aux armées ;
 
-e) Le détachement des ingénieurs des ponts et chaussées, des ingénieurs des mines, des ingénieurs des travaux publics de l'Etat (service de l'équipement), des ingénieurs des travaux publics de l'Etat (service des mines), des techniciens des travaux publics de l'Etat (service de l'équipement), des techniciens des travaux publics de l'Etat (service des mines) pour servir auprès des services ci-après :
+e) Le détachement des    ingénieurs des ponts, des eaux et des forêts, des ingénieurs des mines, des ingénieurs des travaux publics de l'Etat (service de l'équipement), des ingénieurs des travaux publics de l'Etat (service des mines), des techniciens des travaux publics de l'Etat (service de l'équipement), des techniciens des travaux publics de l'Etat (service des mines) pour servir auprès des services ci-après :
 
-- services techniques de la commune de Paris ;
+-services techniques de la commune de Paris ;
 
-- ports autonomes ;
+-ports autonomes ;
 
 f) Le détachement des officiers de port, des officiers de port adjoints, des conducteurs des travaux publics de l'Etat, des agents et ouvriers professionnels des travaux publics de l'Etat pour servir auprès d'un port autonome ;
 

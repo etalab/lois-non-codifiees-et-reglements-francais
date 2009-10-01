@@ -6,7 +6,7 @@ Cette commission est composée comme suit :
 
 Le chef de service ou son représentant, président.
 
-Un ingénieur des ponts et chaussées.
+Un ingénieur des ponts, des eaux et des forêts.
 
 Le chef de parc.
 

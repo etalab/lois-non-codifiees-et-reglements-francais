@@ -7,86 +7,87 @@ A. - Administration générale
 <tr>
 <td align="left" valign="top">
 <p align="center">FONCTION PUBLIQUE TERRITORIALE </p>
-<p align="center">Cadres d'emplois et grades concernés<br/>
+<p align="center">Cadres d'emplois et grades concernés <br/>
 </p>
 </td>
 <td align="left" colspan="2" valign="top">
 <p align="center">FONCTION PUBLIQUE DE L'ÉTAT </p>
-<p align="center">Corps et grades équivalents</p>
+<p align="center">Corps et grades équivalents <br/>
+</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Administrateurs territoriaux.<br/>
+<br/>Administrateurs territoriaux. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Administrateurs civils.<br/>
+<br/>Administrateurs civils. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Attachés territoriaux :<br/>
+<br/>Attachés territoriaux : <br/>
 </td>
 <td align="left" valign="top"/>
 </tr>
 <tr>
 <td align="left" valign="top"/>
 <td align="left" valign="top">
-<br/>Directeurs de préfecture :<br/>
+<br/>Directeurs de préfecture : <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Directeur territorial.<br/>
+<br/>Directeur territorial. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Directeur de préfecture.<br/>
+<br/>Directeur de préfecture. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top"/>
 <td align="left" valign="top">
-<br/>Attachés d'administration de l'intérieur et de l'outre-mer (préfectures) :<br/>
+<br/>Attachés d'administration de l'intérieur et de l'outre-mer (préfectures) : <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Attaché principal.<br/>
+<br/>Attaché principal. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Attaché principal.<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Attaché.<br/>
-</td>
-<td align="left" valign="top">
-<br/>Attaché.<br/>
+<br/>Attaché principal. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Secrétaire de mairie :<br/>
+<br/>Attaché. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Attachés d'administration de l'intérieur et de l'outre-mer (préfectures) :<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Secrétaire de mairie.<br/>
-</td>
-<td align="left" valign="top">
-<br/>Attaché.<br/>
+<br/>Attaché. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Rédacteurs territoriaux :<br/>
+<br/>Secrétaire de mairie : <br/>
 </td>
 <td align="left" valign="top">
-<br/>Secrétaires administratifs de l'intérieur et de l'outre-mer (préfectures) :<br/>
+<br/>Attachés d'administration de l'intérieur et de l'outre-mer (préfectures) : <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Secrétaire de mairie. <br/>
+</td>
+<td align="left" valign="top">
+<br/>Attaché. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Rédacteurs territoriaux : <br/>
+</td>
+<td align="left" valign="top">
+<br/>Secrétaires administratifs de l'intérieur et de l'outre-mer (préfectures) : <br/>
 </td>
 </tr>
 <tr>
@@ -94,7 +95,7 @@ A. - Administration générale
 <br/>Rédacteur-chef. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Secrétaire administratif de classe exceptionnelle.<br/>
+<br/>Secrétaire administratif de classe exceptionnelle. <br/>
 </td>
 </tr>
 <tr>
@@ -102,52 +103,52 @@ A. - Administration générale
 <br/>Rédacteur principal. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Secrétaire administratif de classe supérieure.<br/>
+<br/>Secrétaire administratif de classe supérieure. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Rédacteur.<br/>
+<br/>Rédacteur. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Secrétaire administratif de classe normale.<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Adjoints administratifs territoriaux :<br/>
-</td>
-<td align="left" valign="top">
-<br/>Adjoints administratifs du ministère de l'intérieur et du ministère de l'outre-mer (préfectures) :<br/>
+<br/>Secrétaire administratif de classe normale. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Adjoint administratif principal de 1re classe.<br/>
+<br/>Adjoints administratifs territoriaux : <br/>
 </td>
 <td align="left" valign="top">
-<br/>Adjoint administratif principal de 1re classe.<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Adjoint administratif principal de 2e classe.<br/>
-</td>
-<td align="left" valign="top">
-<br/>Adjoint administratif principal de 2e classe.<br/>
+<br/>Adjoints administratifs du ministère de l'intérieur et du ministère de l'outre-mer (préfectures) : <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Adjoint administratif de 1re classe.<br/>
+<br/>Adjoint administratif principal de 1re classe. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Adjoint administratif de 1re classe.<br/>
+<br/>Adjoint administratif principal de 1re classe. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Adjoint administratif de 2e classe.<br/>
+<br/>Adjoint administratif principal de 2e classe. <br/>
+</td>
+<td align="left" valign="top">
+<br/>Adjoint administratif principal de 2e classe. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Adjoint administratif de 1re classe. <br/>
+</td>
+<td align="left" valign="top">
+<br/>Adjoint administratif de 1re classe. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Adjoint administratif de 2e classe. <br/>
 </td>
 <td align="left" valign="top">
 <br/>Adjoint administratif de 2e classe.<br/>
@@ -163,16 +164,16 @@ B. - Fonctions techniques
 <tr>
 <td align="left" valign="top">
 <p align="center">FONCTION PUBLIQUE TERRITORIALE </p>
-<p align="center">Cadres d'emplois et grades concernés</p>
+<p align="center">Cadres d'emplois et grades concernés </p>
 </td>
 <td align="left" colspan="2" valign="top">
 <p align="center">FONCTION PUBLIQUE DE L'ÉTAT </p>
-<p align="center">Corps et grades équivalents</p>
+<p align="center">Corps et grades équivalents </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Ingénieurs territoriaux :<br/>
+<br/>Ingénieurs territoriaux : <br/>
 </td>
 <td align="left" valign="top"/>
 </tr>
@@ -181,53 +182,53 @@ B. - Fonctions techniques
 <br/>Ingénieurs en chef :<br/>
 </td>
 <td align="left" valign="top">
-<br/>Ingénieurs des ponts et chaussées :<br/>
+<br/>ingénieurs des ponts, des eaux et des forêts : <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Classe exceptionnelle.<br/>
+<br/>Classe exceptionnelle. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Ingénieur en chef.<br/>
+<br/>Ingénieur en chef. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Classe normale.<br/>
+<br/>Classe normale. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Ingénieur.<br/>
+<br/>Ingénieur. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top"/>
 <td align="left" valign="top">
-<br/>Ingénieurs des TPE :<br/>
+<br/>Ingénieurs des TPE : <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Ingénieur principal.<br/>
+<br/>Ingénieur principal. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Ingénieur divisionnaire des TPE.<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Ingénieur.<br/>
-</td>
-<td align="left" valign="top">
-<br/>Ingénieur des TPE.<br/>
+<br/>Ingénieur divisionnaire des TPE. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Techniciens supérieurs territoriaux :<br/>
+<br/>Ingénieur. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Techniciens supérieurs de l'équipement :<br/>
+<br/>Ingénieur des TPE. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Techniciens supérieurs territoriaux : <br/>
+</td>
+<td align="left" valign="top">
+<br/>Techniciens supérieurs de l'équipement : <br/>
 </td>
 </tr>
 <tr>
@@ -235,7 +236,7 @@ B. - Fonctions techniques
 <br/>Technicien supérieur-chef. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Technicien supérieur en chef.<br/>
+<br/>Technicien supérieur en chef. <br/>
 </td>
 </tr>
 <tr>
@@ -243,31 +244,31 @@ B. - Fonctions techniques
 <br/>Technicien supérieur principal. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Technicien supérieur principal.<br/>
+<br/>Technicien supérieur principal. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Technicien supérieur.<br/>
+<br/>Technicien supérieur. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Technicien supérieur.<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Contrôleurs territoriaux de travaux :<br/>
-</td>
-<td align="left" valign="top">
-<br/>Contrôleurs de travaux publics de l'Etat :<br/>
+<br/>Technicien supérieur. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Contrôleur de travaux en chef.<br/>
+<br/>Contrôleurs territoriaux de travaux : <br/>
 </td>
 <td align="left" valign="top">
-<br/>Contrôleur divisionnaire des TPE.<br/>
+<br/>Contrôleurs de travaux publics de l'Etat : <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Contrôleur de travaux en chef. <br/>
+</td>
+<td align="left" valign="top">
+<br/>Contrôleur divisionnaire des TPE. <br/>
 </td>
 </tr>
 <tr>
@@ -275,42 +276,42 @@ B. - Fonctions techniques
 <br/>Contrôleur de travaux principal. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Contrôleur principal des TPE.<br/>
+<br/>Contrôleur principal des TPE. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Contrôleur de travaux.<br/>
+<br/>Contrôleur de travaux. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Contrôleur des TPE.<br/>
+<br/>Contrôleur des TPE. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top"/>
 <td align="left" valign="top">
-<br/>Jusqu'au 31 décembre 2007<br/>
+<br/>Jusqu'au 31 décembre 2007 <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Agents de maîtrise territoriaux :<br/>
+<br/>Agents de maîtrise territoriaux : <br/>
 </td>
 <td align="left" valign="top">
-<br/>Maîtres ouvriers des administrations de l'Etat (préfectures) :<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Agent de maîtrise principal.<br/>
-</td>
-<td align="left" valign="top">
-<br/>Maître ouvrier principal.<br/>
+<br/>Maîtres ouvriers des administrations de l'Etat (préfectures) : <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Agent de maîtrise.<br/>
+<br/>Agent de maîtrise principal. <br/>
+</td>
+<td align="left" valign="top">
+<br/>Maître ouvrier principal. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Agent de maîtrise. <br/>
 </td>
 <td align="left" valign="top">
 <br/>Maître ouvrier.<br/>
@@ -319,74 +320,74 @@ B. - Fonctions techniques
 <tr>
 <td align="left" valign="top"/>
 <td align="left" valign="top">
-<br/>A compter du 1er janvier 2008<br/>
+<br/>A compter du 1er janvier 2008 <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Agents de maîtrise territoriaux :<br/>
+<br/>Agents de maîtrise territoriaux : <br/>
 </td>
 <td align="left" valign="top">
-<br/>Adjoints techniques du ministère de l'intérieur et du ministère de l'outre-mer (préfecture) :<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Agent de maîtrise principal.<br/>
-</td>
-<td align="left" valign="top">
-<br/>Adjoint technique principal de 1re classe.<br/>
+<br/>Adjoints techniques du ministère de l'intérieur et du ministère de l'outre-mer (préfecture) : <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Agent de maîtrise.<br/>
+<br/>Agent de maîtrise principal. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Adjoint technique principal de 2e classe.<br/>
+<br/>Adjoint technique principal de 1re classe. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Agent de maîtrise. <br/>
+</td>
+<td align="left" valign="top">
+<br/>Adjoint technique principal de 2e classe. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top"/>
 <td align="left" valign="top">
-<br/>Jusqu'au 31 décembre 2007<br/>
+<br/>Jusqu'au 31 décembre 2007 <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Adjoints techniques territoriaux :<br/>
+<br/>Adjoints techniques territoriaux : <br/>
 </td>
 <td align="left" valign="top">
-<br/>Ouvriers professionnels et maîtres-ouvriers des administrations de l'Etat (préfectures) :<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Adjoint technique principal de 1re classe.<br/>
-</td>
-<td align="left" valign="top">
-<br/>Maître ouvrier principal.<br/>
+<br/>Ouvriers professionnels et maîtres-ouvriers des administrations de l'Etat (préfectures) : <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Adjoint technique principal de 2e classe.<br/>
+<br/>Adjoint technique principal de 1re classe. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Maître ouvrier.<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Adjoint technique de 1re classe.<br/>
-</td>
-<td align="left" valign="top">
-<br/>Ouvrier professionnel principal.<br/>
+<br/>Maître ouvrier principal. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Adjoint technique de 2e classe.<br/>
+<br/>Adjoint technique principal de 2e classe. <br/>
+</td>
+<td align="left" valign="top">
+<br/>Maître ouvrier. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Adjoint technique de 1re classe. <br/>
+</td>
+<td align="left" valign="top">
+<br/>Ouvrier professionnel principal. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Adjoint technique de 2e classe. <br/>
 </td>
 <td align="left" valign="top">
 <br/>Ouvrier professionnel.<br/>
@@ -395,84 +396,84 @@ B. - Fonctions techniques
 <tr>
 <td align="left" valign="top"/>
 <td align="left" valign="top">
-<br/>A compter du 1er janvier 2008<br/>
+<br/>A compter du 1er janvier 2008 <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Adjoints techniques territoriaux :<br/>
+<br/>Adjoints techniques territoriaux : <br/>
 </td>
 <td align="left" valign="top">
-<br/>Adjoints techniques du ministère de l'intérieur et du ministère de l'outre-mer (préfectures) :<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Adjoint technique principal de 1re classe.<br/>
-</td>
-<td align="left" valign="top">
-<br/>Adjoint technique principal de 1re classe.<br/>
+<br/>Adjoints techniques du ministère de l'intérieur et du ministère de l'outre-mer (préfectures) : <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Adjoint technique principal de 2e classe.<br/>
+<br/>Adjoint technique principal de 1re classe. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Adjoint technique principal de 2e classe.<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Adjoint technique de 1re classe.<br/>
-</td>
-<td align="left" valign="top">
-<br/>Adjoint technique de 1re classe.<br/>
+<br/>Adjoint technique principal de 1re classe. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Adjoint technique de 2e classe.<br/>
+<br/>Adjoint technique principal de 2e classe. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Adjoint technique de 2e classe.<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Adjoints techniques territoriaux des établissements d'enseignement :<br/>
-</td>
-<td align="left" valign="top">
-<br/>Adjoints techniques des établissements d'enseignement (éducation nationale) :<br/>
+<br/>Adjoint technique principal de 2e classe. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Adjoint technique principal de 1re classe.<br/>
+<br/>Adjoint technique de 1re classe. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Adjoint technique principal de 1re classe.<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Adjoint technique principal de 2e classe.<br/>
-</td>
-<td align="left" valign="top">
-<br/>Adjoint technique principal de 2e classe.<br/>
+<br/>Adjoint technique de 1re classe. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Adjoint technique de 1re classe.<br/>
+<br/>Adjoint technique de 2e classe. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Adjoint technique de 1re classe.<br/>
+<br/>Adjoint technique de 2e classe. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Adjoint technique de 2e classe.<br/>
+<br/>Adjoints techniques territoriaux des établissements d'enseignement : <br/>
+</td>
+<td align="left" valign="top">
+<br/>Adjoints techniques des établissements d'enseignement (éducation nationale) : <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Adjoint technique principal de 1re classe. <br/>
+</td>
+<td align="left" valign="top">
+<br/>Adjoint technique principal de 1re classe. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Adjoint technique principal de 2e classe. <br/>
+</td>
+<td align="left" valign="top">
+<br/>Adjoint technique principal de 2e classe. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Adjoint technique de 1re classe. <br/>
+</td>
+<td align="left" valign="top">
+<br/>Adjoint technique de 1re classe. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Adjoint technique de 2e classe. <br/>
 </td>
 <td align="left" valign="top">
 <br/>Adjoint technique de 2e classe.<br/>
@@ -488,59 +489,59 @@ C. - Fonctions médico-sociales
 <tr>
 <td align="left" valign="top">
 <p align="center">FONCTION PUBLIQUE TERRITORIALE </p>
-<p align="center">Cadres d'emplois et grades concernés</p>
+<p align="center">Cadres d'emplois et grades concernés </p>
 </td>
 <td align="left" colspan="2" valign="top">
 <p align="center">FONCTION PUBLIQUE DE L'ÉTAT </p>
-<p align="center">Corps et grades équivalents</p>
+<p align="center">Corps et grades équivalents </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Conseillers territoriaux socio-éducatifs.<br/>
+<br/>Conseillers territoriaux socio-éducatifs. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Conseillers techniques de service social.<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Assistants territoriaux socio-éducatifs :<br/>
-</td>
-<td align="left" valign="top">
-<br/>Assistants de service social des administrations de l'Etat (préfecture) :<br/>
+<br/>Conseillers techniques de service social. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Assistant socio-éducatif principal.<br/>
+<br/>Assistants territoriaux socio-éducatifs : <br/>
 </td>
 <td align="left" valign="top">
-<br/>Assistant de service social principal.<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Assistant socio-éducatif.<br/>
-</td>
-<td align="left" valign="top">
-<br/>Assistant de service social.<br/>
+<br/>Assistants de service social des administrations de l'Etat (préfecture) : <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Educateurs territoriaux de jeunes enfants :<br/>
+<br/>Assistant socio-éducatif principal. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Educateurs spécialisés des instituts nationaux de jeunes sourds et de l'Institut national des jeunes aveugles :<br/>
+<br/>Assistant de service social principal. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Educateur-chef de jeunes enfants.<br/>
+<br/>Assistant socio-éducatif. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Educateur spécialisé de 1re classe.<br/>
+<br/>Assistant de service social. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Educateurs territoriaux de jeunes enfants : <br/>
+</td>
+<td align="left" valign="top">
+<br/>Educateurs spécialisés des instituts nationaux de jeunes sourds et de l'Institut national des jeunes aveugles : <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Educateur-chef de jeunes enfants. <br/>
+</td>
+<td align="left" valign="top">
+<br/>Educateur spécialisé de 1re classe. <br/>
 </td>
 </tr>
 <tr>
@@ -548,111 +549,111 @@ C. - Fonctions médico-sociales
 <br/>Educateur principal de jeunes enfants. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Educateur spécialisé de 2e classe.<br/>
+<br/>Educateur spécialisé de 2e classe. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Educateur de jeunes enfants.<br/>
+<br/>Educateur de jeunes enfants. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Educateur spécialisé de 2e classe.<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Moniteurs-éducateurs territoriaux.<br/>
-</td>
-<td align="left" valign="top">
-<br/>Moniteurs-éducateurs des instituts nationaux de jeunes sourds et de l'Institut national des jeunes aveugles.<br/>
+<br/>Educateur spécialisé de 2e classe. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Agents sociaux territoriaux :<br/>
+<br/>Moniteurs-éducateurs territoriaux. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Adjoints administratifs du ministère de l'intérieur et du ministère de l'outre-mer (préfectures) :<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Agent social principal de 1re classe.<br/>
-</td>
-<td align="left" valign="top">
-<br/>Adjoint administratif principal de 1re classe.<br/>
+<br/>Moniteurs-éducateurs des instituts nationaux de jeunes sourds et de l'Institut national des jeunes aveugles. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Agent social principal de 2e classe.<br/>
+<br/>Agents sociaux territoriaux : <br/>
 </td>
 <td align="left" valign="top">
-<br/>Adjoint administratif principal de 2e classe.<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Agent social de 1re classe.<br/>
-</td>
-<td align="left" valign="top">
-<br/>Adjoint administratif de 1re classe.<br/>
+<br/>Adjoints administratifs du ministère de l'intérieur et du ministère de l'outre-mer (préfectures) : <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Agent social de 2e classe.<br/>
+<br/>Agent social principal de 1re classe. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Adjoint administratif de 2e classe.<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Agents territoriaux spécialisés des écoles maternelles :<br/>
-</td>
-<td align="left" valign="top">
-<br/>Adjoints administratifs du ministère de l'intérieur et du ministère de l'outre-mer (préfectures) :<br/>
+<br/>Adjoint administratif principal de 1re classe. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Agent spécialisé principal de 1re classe.<br/>
+<br/>Agent social principal de 2e classe. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Adjoint administratif principal de 1re classe.<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Agent spécialisé principal de 2e classe.<br/>
-</td>
-<td align="left" valign="top">
-<br/>Adjoint administratif principal de 2e classe.<br/>
+<br/>Adjoint administratif principal de 2e classe. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Agent spécialisé de 1re classe.<br/>
+<br/>Agent social de 1re classe. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Adjoint administratif de 1re classe.<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Médecins territoriaux :<br/>
-</td>
-<td align="left" valign="top">
-<br/>Médecins inspecteurs de santé publique :<br/>
+<br/>Adjoint administratif de 1re classe. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Médecin hors classe.<br/>
+<br/>Agent social de 2e classe. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Médecin général.<br/>
+<br/>Adjoint administratif de 2e classe. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Agents territoriaux spécialisés des écoles maternelles : <br/>
+</td>
+<td align="left" valign="top">
+<br/>Adjoints administratifs du ministère de l'intérieur et du ministère de l'outre-mer (préfectures) : <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Agent spécialisé principal de 1re classe. <br/>
+</td>
+<td align="left" valign="top">
+<br/>Adjoint administratif principal de 1re classe. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Agent spécialisé principal de 2e classe. <br/>
+</td>
+<td align="left" valign="top">
+<br/>Adjoint administratif principal de 2e classe. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Agent spécialisé de 1re classe. <br/>
+</td>
+<td align="left" valign="top">
+<br/>Adjoint administratif de 1re classe. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Médecins territoriaux : <br/>
+</td>
+<td align="left" valign="top">
+<br/>Médecins inspecteurs de santé publique : <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Médecin hors classe. <br/>
+</td>
+<td align="left" valign="top">
+<br/>Médecin général. <br/>
 </td>
 </tr>
 <tr>
@@ -660,244 +661,244 @@ C. - Fonctions médico-sociales
 <br/>Médecin de 1re classe. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Médecin inspecteur en chef.<br/>
+<br/>Médecin inspecteur en chef. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Médecin de 2e classe.<br/>
+<br/>Médecin de 2e classe. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Médecin inspecteur.<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Psychologues territoriaux.<br/>
-</td>
-<td align="left" valign="top">
-<br/>Psychologues des services déconcentrés de la protection judiciaire de la jeunesse.<br/>
+<br/>Médecin inspecteur. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Sages-femmes territoriales :<br/>
+<br/>Psychologues territoriaux. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Cadres de santé civils du ministère de la défense :<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Sage-femme de classe exceptionnelle.<br/>
-</td>
-<td align="left" valign="top">
-<br/>Cadre supérieur de santé.<br/>
+<br/>Psychologues des services déconcentrés de la protection judiciaire de la jeunesse. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Sage-femme de classe supérieure.<br/>
+<br/>Sages-femmes territoriales : <br/>
 </td>
 <td align="left" valign="top">
-<br/>Cadre de santé.<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Sage-femme de classe normale.<br/>
-</td>
-<td align="left" valign="top">
-<br/>Cadre de santé.<br/>
+<br/>Cadres de santé civils du ministère de la défense : <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Puéricultrices cadres territoriaux de santé :<br/>
+<br/>Sage-femme de classe exceptionnelle. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Cadres de santé civils du ministère de la défense :<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Puéricultrice cadre supérieur de santé.<br/>
-</td>
-<td align="left" valign="top">
-<br/>Cadre supérieur de santé.<br/>
+<br/>Cadre supérieur de santé. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Puéricultrice cadre de santé.<br/>
+<br/>Sage-femme de classe supérieure. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Cadre de santé.<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Cadres de santé infirmiers, rééducateurs et assistants médico-techniques :<br/>
-</td>
-<td align="left" valign="top">
-<br/>Cadres de santé civils du ministère de la défense :<br/>
+<br/>Cadre de santé. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Cadre de santé.<br/>
+<br/>Sage-femme de classe normale. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Cadre de santé.<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Puéricultrices territoriales :<br/>
-</td>
-<td align="left" valign="top">
-<br/>Infirmiers civils de soins généraux du ministère de la défense :<br/>
+<br/>Cadre de santé. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Puéricultrice de classe supérieure.<br/>
+<br/>Puéricultrices cadres territoriaux de santé : <br/>
 </td>
 <td align="left" valign="top">
-<br/>Infirmier de classe supérieure.<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Puéricultrice de classe normale.<br/>
-</td>
-<td align="left" valign="top">
-<br/>Infirmier de classe normale.<br/>
+<br/>Cadres de santé civils du ministère de la défense : <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Infirmiers territoriaux :<br/>
+<br/>Puéricultrice cadre supérieur de santé. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Infirmiers civils de soins généraux du ministère de la défense :<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Infirmier de classe supérieure.<br/>
-</td>
-<td align="left" valign="top">
-<br/>Infirmier de classe supérieure.<br/>
+<br/>Cadre supérieur de santé. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Infirmier de classe normale.<br/>
+<br/>Puéricultrice cadre de santé. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Infirmier de classe normale.<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Rééducateurs territoriaux :<br/>
-</td>
-<td align="left" valign="top">
-<br/>Techniciens paramédicaux civils du ministère de la défense :<br/>
+<br/>Cadre de santé. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Rééducateur de classe supérieure.<br/>
+<br/>Cadres de santé infirmiers, rééducateurs et assistants médico-techniques : <br/>
 </td>
 <td align="left" valign="top">
-<br/>Technicien de classe supérieure.<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Rééducateur de classe normale.<br/>
-</td>
-<td align="left" valign="top">
-<br/>Technicien de classe normale.<br/>
+<br/>Cadres de santé civils du ministère de la défense : <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Auxiliaires de puériculture territoriaux.<br/>
+<br/>Cadre de santé. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Aides-soignants de l'Institution nationale des invalides.<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Auxiliaires de soins territoriaux.<br/>
-</td>
-<td align="left" valign="top">
-<br/>Aides-soignants de l'Institution nationale des invalides.<br/>
+<br/>Cadre de santé. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Biologistes, vétérinaires et pharmaciens territoriaux :<br/>
+<br/>Puéricultrices territoriales : <br/>
 </td>
 <td align="left" valign="top">
-<br/>Inspecteurs de la santé publique, vétérinaires :<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Biologiste, vétérinaire, pharmacien de classe exceptionnelle.<br/>
-</td>
-<td align="left" valign="top">
-<br/>Inspecteur en chef de la santé publique vétérinaire.<br/>
+<br/>Infirmiers civils de soins généraux du ministère de la défense : <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Biologiste, vétérinaire et pharmacien hors classe.<br/>
+<br/>Puéricultrice de classe supérieure. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Inspecteur en chef de la santé publique vétérinaire.<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Biologiste, vétérinaire et pharmacien de 1re classe.<br/>
-</td>
-<td align="left" valign="top">
-<br/>Inspecteur de la santé publique vétérinaire.<br/>
+<br/>Infirmier de classe supérieure. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Biologiste, vétérinaire et pharmacien de 2e classe.<br/>
+<br/>Puéricultrice de classe normale. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Inspecteur de la santé publique vétérinaire.<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Assistants territoriaux médico-techniques :<br/>
-</td>
-<td align="left" valign="top">
-<br/>Techniciens supérieurs des services du ministère chargé de l'agriculture (direction départementale des services vétérinaires) :<br/>
+<br/>Infirmier de classe normale. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Assistant médico-technique de classe supérieure.<br/>
+<br/>Infirmiers territoriaux : <br/>
 </td>
 <td align="left" valign="top">
-<br/>Chef technicien.<br/>
+<br/>Infirmiers civils de soins généraux du ministère de la défense : <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Assistant médico-technique de classe normale.<br/>
+<br/>Infirmier de classe supérieure. <br/>
+</td>
+<td align="left" valign="top">
+<br/>Infirmier de classe supérieure. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Infirmier de classe normale. <br/>
+</td>
+<td align="left" valign="top">
+<br/>Infirmier de classe normale. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Rééducateurs territoriaux : <br/>
+</td>
+<td align="left" valign="top">
+<br/>Techniciens paramédicaux civils du ministère de la défense : <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Rééducateur de classe supérieure. <br/>
+</td>
+<td align="left" valign="top">
+<br/>Technicien de classe supérieure. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Rééducateur de classe normale. <br/>
+</td>
+<td align="left" valign="top">
+<br/>Technicien de classe normale. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Auxiliaires de puériculture territoriaux. <br/>
+</td>
+<td align="left" valign="top">
+<br/>Aides-soignants de l'Institution nationale des invalides. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Auxiliaires de soins territoriaux. <br/>
+</td>
+<td align="left" valign="top">
+<br/>Aides-soignants de l'Institution nationale des invalides. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Biologistes, vétérinaires et pharmaciens territoriaux : <br/>
+</td>
+<td align="left" valign="top">
+<br/>Inspecteurs de la santé publique, vétérinaires : <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Biologiste, vétérinaire, pharmacien de classe exceptionnelle. <br/>
+</td>
+<td align="left" valign="top">
+<br/>Inspecteur en chef de la santé publique vétérinaire. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Biologiste, vétérinaire et pharmacien hors classe. <br/>
+</td>
+<td align="left" valign="top">
+<br/>Inspecteur en chef de la santé publique vétérinaire. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Biologiste, vétérinaire et pharmacien de 1re classe. <br/>
+</td>
+<td align="left" valign="top">
+<br/>Inspecteur de la santé publique vétérinaire. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Biologiste, vétérinaire et pharmacien de 2e classe. <br/>
+</td>
+<td align="left" valign="top">
+<br/>Inspecteur de la santé publique vétérinaire. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Assistants territoriaux médico-techniques : <br/>
+</td>
+<td align="left" valign="top">
+<br/>Techniciens supérieurs des services du ministère chargé de l'agriculture (direction départementale des services vétérinaires) : <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Assistant médico-technique de classe supérieure. <br/>
+</td>
+<td align="left" valign="top">
+<br/>Chef technicien. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Assistant médico-technique de classe normale. <br/>
 </td>
 <td align="left" valign="top">
 <br/>Technicien principal.<br/>
@@ -911,53 +912,49 @@ D. - Fonctions culturelles
 <table>
 <tbody>
 <tr>
-<td align="left" valign="top">
-<p align="center">FONCTION PUBLIQUE TERRITORIALE </p>
-<p align="center">Cadres d'emplois et grades concernés</p>
+<td align="left" valign="top">FONCTION PUBLIQUE TERRITORIALE <p>Cadres d'emplois et grades concernés </p>
 </td>
-<td align="left" colspan="2" valign="top">
-<p align="center">FONCTION PUBLIQUE DE L'ÉTAT </p>
-<p align="center">Corps et grades équivalents</p>
+<td align="left" colspan="2" valign="top">FONCTION PUBLIQUE DE L'ÉTAT <p>Corps et grades équivalents</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Conservateurs territoriaux du patrimoine :<br/>
+<br/>Conservateurs territoriaux du patrimoine : <br/>
 </td>
 <td align="left" valign="top">
-<br/>Conservateurs du patrimoine :<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Conservateur en chef.<br/>
-</td>
-<td align="left" valign="top">
-<br/>Conservateur en chef.<br/>
+<br/>Conservateurs du patrimoine : <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Conservateur.</p>
+<br/>Conservateur en chef. <br/>
 </td>
 <td align="left" valign="top">
-<p align="left">Conservateur.</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Conservateurs territoriaux de bibliothèques :<br/>
-</td>
-<td align="left" valign="top">
-<br/>Conservateurs de bibliothèques :<br/>
+<br/>Conservateur en chef. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Conservateur en chef.<br/>
+<p align="left">Conservateur. </p>
 </td>
 <td align="left" valign="top">
-<br/>Conservateur en chef.<br/>
+<p align="left">Conservateur. </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Conservateurs territoriaux de bibliothèques : <br/>
+</td>
+<td align="left" valign="top">
+<br/>Conservateurs de bibliothèques : <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Conservateur en chef. <br/>
+</td>
+<td align="left" valign="top">
+<br/>Conservateur en chef. <br/>
 </td>
 </tr>
 <tr>
@@ -965,39 +962,39 @@ D. - Fonctions culturelles
 <br/>Conservateur de 1re classe. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Conservateur de 1re classe.<br/>
+<br/>Conservateur de 1re classe. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Conservateur de 2e classe.<br/>
+<br/>Conservateur de 2e classe. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Conservateur de 2e classe.<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Attachés territoriaux de conservation du patrimoine et bibliothécaires territoriaux.<br/>
-</td>
-<td align="left" valign="top">
-<br/>Bibliothécaires.<br/>
+<br/>Conservateur de 2e classe. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Assistants territoriaux qualifiés de conservation du patrimoine et des bibliothèques :<br/>
+<br/>Attachés territoriaux de conservation du patrimoine et bibliothécaires territoriaux. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Bibliothécaires adjoints spécialisés :<br/>
+<br/>Bibliothécaires. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Assistant qualifié de conservation hors classe.<br/>
+<br/>Assistants territoriaux qualifiés de conservation du patrimoine et des bibliothèques : <br/>
 </td>
 <td align="left" valign="top">
-<br/>Bibliothécaire adjoint spécialisé hors classe.<br/>
+<br/>Bibliothécaires adjoints spécialisés : <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Assistant qualifié de conservation hors classe. <br/>
+</td>
+<td align="left" valign="top">
+<br/>Bibliothécaire adjoint spécialisé hors classe. <br/>
 </td>
 </tr>
 <tr>
@@ -1005,31 +1002,31 @@ D. - Fonctions culturelles
 <br/>Assistant qualifié de conservation de 1re classe. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Bibliothécaire adjoint spécialisé de 1re classe.<br/>
+<br/>Bibliothécaire adjoint spécialisé de 1re classe. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Assistant qualifié de conservation de 2e classe.<br/>
+<br/>Assistant qualifié de conservation de 2e classe. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Bibliothécaire adjoint spécialisé de 2e classe.<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Assistants territoriaux de conservation du patrimoine et des bibliothèques :<br/>
-</td>
-<td align="left" valign="top">
-<br/>Assistants des bibliothèques :<br/>
+<br/>Bibliothécaire adjoint spécialisé de 2e classe. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Assistant de conservation hors classe.<br/>
+<br/>Assistants territoriaux de conservation du patrimoine et des bibliothèques : <br/>
 </td>
 <td align="left" valign="top">
-<br/>Assistant des bibliothèques de classe exceptionnelle.<br/>
+<br/>Assistants des bibliothèques : <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Assistant de conservation hors classe. <br/>
+</td>
+<td align="left" valign="top">
+<br/>Assistant des bibliothèques de classe exceptionnelle. <br/>
 </td>
 </tr>
 <tr>
@@ -1037,84 +1034,84 @@ D. - Fonctions culturelles
 <br/>Assistant de conservation de 1re classe. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Assistant des bibliothèques de classe supérieure.<br/>
+<br/>Assistant des bibliothèques de classe supérieure. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Assistant de conservation de 2e classe.<br/>
+<br/>Assistant de conservation de 2e classe. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Assistant des bibliothèques de classe normale.<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Adjoints territoriaux du patrimoine :<br/>
-</td>
-<td align="left" valign="top">
-<br/>Adjoints techniques d'accueil, de surveillance et de magasinage du ministère de la culture :<br/>
+<br/>Assistant des bibliothèques de classe normale. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Adjoint du patrimoine principal de 1re classe.<br/>
+<br/>Adjoints territoriaux du patrimoine : <br/>
 </td>
 <td align="left" valign="top">
-<br/>Adjoint technique principal de 1re classe.<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Adjoint du patrimoine principal de 2e classe.<br/>
-</td>
-<td align="left" valign="top">
-<br/>Adjoint technique principal de 2e classe.<br/>
+<br/>Adjoints techniques d'accueil, de surveillance et de magasinage du ministère de la culture : <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Adjoint du patrimoine de 1re classe.<br/>
+<br/>Adjoint du patrimoine principal de 1re classe. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Adjoint technique de 1re classe.<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Adjoint du patrimoine de 2e classe.<br/>
-</td>
-<td align="left" valign="top">
-<br/>Adjoint technique de 2e classe.<br/>
+<br/>Adjoint technique principal de 1re classe. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Directeurs d'établissements territoriaux d'enseignement artistique.<br/>
+<br/>Adjoint du patrimoine principal de 2e classe. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Personnels de direction d'établissements d'enseignement ou de formation.<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Professeurs territoriaux d'enseignement artistique.<br/>
-</td>
-<td align="left" valign="top">
-<br/>Professeurs certifiés.<br/>
+<br/>Adjoint technique principal de 2e classe. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Assistants territoriaux spécialisés d'enseignement artistique.<br/>
+<br/>Adjoint du patrimoine de 1re classe. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Professeurs certifiés.<br/>
+<br/>Adjoint technique de 1re classe. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Assistants territoriaux d'enseignement artistique.<br/>
+<br/>Adjoint du patrimoine de 2e classe. <br/>
+</td>
+<td align="left" valign="top">
+<br/>Adjoint technique de 2e classe. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Directeurs d'établissements territoriaux d'enseignement artistique. <br/>
+</td>
+<td align="left" valign="top">
+<br/>Personnels de direction d'établissements d'enseignement ou de formation. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Professeurs territoriaux d'enseignement artistique. <br/>
+</td>
+<td align="left" valign="top">
+<br/>Professeurs certifiés. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Assistants territoriaux spécialisés d'enseignement artistique. <br/>
+</td>
+<td align="left" valign="top">
+<br/>Professeurs certifiés. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Assistants territoriaux d'enseignement artistique. <br/>
 </td>
 <td align="left" valign="top">
 <br/>Professeurs certifiés.<br/>
@@ -1128,7 +1125,9 @@ E. - Fonctions sportives
 <table>
 <tbody>
 <tr>
-<td align="left" valign="top">FONCTION PUBLIQUE TERRITORIALE <p align="center">Cadres d'emplois et grades concernés</p>
+<td align="left" valign="top">
+<p align="center">FONCTION PUBLIQUE TERRITORIALE </p>
+<p align="center">Cadres d'emplois et grades concernés</p>
 </td>
 <td align="left" colspan="2" valign="top">
 <p align="center">FONCTION PUBLIQUE DE L'ÉTAT </p>
@@ -1137,66 +1136,66 @@ E. - Fonctions sportives
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Conseillers territoriaux des activités physiques et sportives :<br/>
+<br/>Conseillers territoriaux des activités physiques et sportives : <br/>
 </td>
 <td align="left" valign="top">
-<br/>Conseillers d'éducation populaire et de jeunesse :<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Conseiller principal.<br/>
-</td>
-<td align="left" valign="top">
-<br/>Conseiller d'éducation populaire et de jeunesse hors classe.<br/>
+<br/>Conseillers d'éducation populaire et de jeunesse : <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Conseiller.<br/>
+<br/>Conseiller principal. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Conseiller d'éducation populaire et de jeunesse de classe normale.<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Educateurs territoriaux des activités physiques et sportives :<br/>
-</td>
-<td align="left" valign="top">
-<br/>Secrétaires administratifs de l'intérieur et de l'outre-mer (préfectures) :<br/>
+<br/>Conseiller d'éducation populaire et de jeunesse hors classe. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Educateur hors classe.<br/>
+<br/>Conseiller. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Secrétaire administratif de classe exceptionnelle.<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Educateur de 1re classe.<br/>
-</td>
-<td align="left" valign="top">
-<br/>Secrétaire administratif de classe supérieure.<br/>
+<br/>Conseiller d'éducation populaire et de jeunesse de classe normale. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Educateur de 2e classe.<br/>
+<br/>Educateurs territoriaux des activités physiques et sportives : <br/>
 </td>
 <td align="left" valign="top">
-<br/>Secrétaire administratif de classe normale.<br/>
+<br/>Secrétaires administratifs de l'intérieur et de l'outre-mer (préfectures) : <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Opérateurs territoriaux des activités physiques et sportives :<br/>
+<br/>Educateur hors classe. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Adjoints administratifs du ministère de l'intérieur et du ministère de l'outre-mer (préfectures) :<br/>
+<br/>Secrétaire administratif de classe exceptionnelle. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Educateur de 1re classe. <br/>
+</td>
+<td align="left" valign="top">
+<br/>Secrétaire administratif de classe supérieure. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Educateur de 2e classe. <br/>
+</td>
+<td align="left" valign="top">
+<br/>Secrétaire administratif de classe normale. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Opérateurs territoriaux des activités physiques et sportives : <br/>
+</td>
+<td align="left" valign="top">
+<br/>Adjoints administratifs du ministère de l'intérieur et du ministère de l'outre-mer (préfectures) : <br/>
 </td>
 </tr>
 <tr>
@@ -1204,31 +1203,31 @@ E. - Fonctions sportives
 <br/>Opérateur principal. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Adjoint administratif principal de 1re classe.<br/>
+<br/>Adjoint administratif principal de 1re classe. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Opérateur qualifié.<br/>
+<br/>Opérateur qualifié. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Adjoint administratif principal de 2e classe.<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Opérateur.<br/>
-</td>
-<td align="left" valign="top">
-<br/>Adjoint administratif de 1re classe.<br/>
+<br/>Adjoint administratif principal de 2e classe. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Aide opérateur.<br/>
+<br/>Opérateur. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Adjoint administratif.de 2e classe<br/>
+<br/>Adjoint administratif de 1re classe. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Aide opérateur. <br/>
+</td>
+<td align="left" valign="top">
+<br/>Adjoint administratif. de 2e classe <br/>
 </td>
 </tr>
 </tbody>
@@ -1241,7 +1240,8 @@ F. - Animation
 <tr>
 <td align="left" valign="top">
 <p align="center">FONCTION PUBLIQUE TERRITORIALE </p>
-<p align="center">Cadres d'emplois et grades concernés</p>
+<p align="center">Cadres d'emplois et grades concernés <br/>
+</p>
 </td>
 <td align="left" colspan="2" valign="top">
 <p align="center">FONCTION PUBLIQUE DE L'ÉTAT </p>
@@ -1250,71 +1250,71 @@ F. - Animation
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Animateurs territoriaux :<br/>
+<br/>Animateurs territoriaux : <br/>
 </td>
 <td align="left" valign="top">
-<br/>Secrétaires administratifs de l'intérieur et de l'outre-mer (préfectures) :<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Animateur-chef.<br/>
-</td>
-<td align="left" valign="top">
-<br/>Secrétaire administratif de classe exceptionnelle.<br/>
+<br/>Secrétaires administratifs de l'intérieur et de l'outre-mer (préfectures) : <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Animateur principal.<br/>
+<br/>Animateur-chef. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Secrétaire administratif de classe supérieure.<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Animateur.<br/>
-</td>
-<td align="left" valign="top">
-<br/>Secrétaire administratif de classe normale.<br/>
+<br/>Secrétaire administratif de classe exceptionnelle. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Adjoints territoriaux d'animation :<br/>
+<br/>Animateur principal. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Adjoints administratifs du ministère de l'intérieur et du ministère de l'outre-mer (préfectures) :<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Adjoint d'animation principal de 1re classe.<br/>
-</td>
-<td align="left" valign="top">
-<br/>Adjoint administratif principal de 1re classe.<br/>
+<br/>Secrétaire administratif de classe supérieure. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Adjoint d'animation principal de 2e classe.<br/>
+<br/>Animateur. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Adjoint administratif principal de 2e classe.<br/>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<br/>Adjoint d'animation de 1re classe.<br/>
-</td>
-<td align="left" valign="top">
-<br/>Adjoint administratif de 1re classe.<br/>
+<br/>Secrétaire administratif de classe normale. <br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br/>Adjoint d'animation de 2e classe.<br/>
+<br/>Adjoints territoriaux d'animation : <br/>
+</td>
+<td align="left" valign="top">
+<br/>Adjoints administratifs du ministère de l'intérieur et du ministère de l'outre-mer (préfectures) : <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Adjoint d'animation principal de 1re classe. <br/>
+</td>
+<td align="left" valign="top">
+<br/>Adjoint administratif principal de 1re classe. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Adjoint d'animation principal de 2e classe. <br/>
+</td>
+<td align="left" valign="top">
+<br/>Adjoint administratif principal de 2e classe. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Adjoint d'animation de 1re classe. <br/>
+</td>
+<td align="left" valign="top">
+<br/>Adjoint administratif de 1re classe. <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>Adjoint d'animation de 2e classe. <br/>
 </td>
 <td align="left" valign="top">
 <br/>Adjoint administratif de 2e classe.<br/>

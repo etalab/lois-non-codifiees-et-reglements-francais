@@ -1,0 +1,3 @@
+# Article 5
+
+L'assemblée générale réunit les membres du Conseil général de l'agriculture, de l'alimentation et des espaces ruraux. Elle est présidée par le ministre ou par le vice-président. Elle délibère du règlement intérieur, de la charte de déontologie et du programme de travail annuel du Conseil général, qui sont soumis à l'approbation du ministre. Dans les conditions fixées par le règlement intérieur, elle délibère également du contrat d'objectifs pluriannuel, du rapport d'activité, du plan de formation du conseil général, ainsi que des questions sur lesquelles elle estime utile d'appeler l'attention des ministres intéressés.

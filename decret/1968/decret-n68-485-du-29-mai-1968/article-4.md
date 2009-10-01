@@ -16,7 +16,7 @@ Le mandat des membres du comité est de trois ans, renouvelable. Le mandat des m
 
 Assistent, ou peuvent se faire représenter aux réunions du comité, à titre consultatif :
 
-L'ingénieur général du génie rural, des eaux et des forêts pour la région Rhône-Alpes ;
+L'ingénieur général des ponts, des eaux et des forêts pour la région Rhône-Alpes ;
 
 Le directeur départemental de l'agriculture de l'Isère ;
 

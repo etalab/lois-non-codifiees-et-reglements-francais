@@ -4,7 +4,7 @@ Peuvent être recrutés sur l'un des emplois de directeur de centre régional de
 
 Peuvent être recrutés :
 
-1° Par la voie du détachement, les ingénieurs appartenant au corps des ingénieurs du génie rural, des eaux et des forêts ;
+1° Par la voie du détachement, les ingénieurs appartenant au corps des         ingénieurs des ponts, des eaux et des forêts  ;
 
 2° Par la voie du recrutement externe, les candidats qui sont titulaires du diplôme d'ingénieur civil du génie rural, des eaux et des forêts, d'ingénieur civil des eaux et forêts ou d'ingénieur civil des forêts ou de tout autre titre ou diplôme certifié de niveau I de qualification ou équivalent ou d'une expérience professionnelle équivalente ;
 

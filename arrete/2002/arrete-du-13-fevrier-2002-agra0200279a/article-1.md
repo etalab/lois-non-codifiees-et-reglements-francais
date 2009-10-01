@@ -24,16 +24,16 @@ Dès lors qu'ils exercent leurs fonctions en administration centrale, les foncti
 </tr>
 <tr>
 <td align="left" colspan="2" valign="middle">
-<p align="justify">Ingénieur général du génie rural, des eaux et des forêts de classe exceptionnelle ou de classe normale. </p>
+<p align="justify">Ingénieur général des ponts, des eaux et des forêts. </p>
 <p>Inspecteur général de la santé publique vétérinaire de classe exceptionnelle ou de classe normale. Professeur de l'enseignement supérieur agricole de classe exceptionnelle ou 1re classe. </p>
 </td>
 <td align="left" colspan="2" valign="middle">
-<p align="left">Sous-directeur. </p>
+<p align="left">Sous-directeur.</p>
 </td>
 </tr>
 <tr>
 <td align="left" colspan="2" valign="middle">
-<p align="justify">Ingénieur en chef du génie rural, des eaux et des forêts. </p>
+<p align="justify">Ingénieur en chef des ponts, des eaux et des forêts. </p>
 <p>Inspecteur en chef de la santé publique vétérinaire. </p>
 <p>Professeur de l'enseignement supérieur agricole 2e classe. </p>
 <p>Maître de conférences de l'enseignement supérieur agricole hors classe. </p>
@@ -48,7 +48,7 @@ Dès lors qu'ils exercent leurs fonctions en administration centrale, les foncti
 </tr>
 <tr>
 <td align="left" colspan="2" valign="middle">
-<p align="justify">Ingénieur du génie rural, des eaux et des forêts. </p>
+<p align="justify">Ingénieur des ponts, des eaux et des forêts. </p>
 <p>Inspecteur de la santé publique vétérinaire. </p>
 <p>Ingénieur des télécommunications 1re ou 2e classe. </p>
 <p>Maître de conférences de l'enseignement supérieur agricole de classe normale. </p>

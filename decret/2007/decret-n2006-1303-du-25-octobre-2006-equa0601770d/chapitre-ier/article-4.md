@@ -4,7 +4,7 @@ I.-Peuvent être nommés dans l'emploi de chef de service technique principal ou
 
 II.-Peuvent être nommés dans l'emploi de chef d'unité technique de l'aviation civile :
 
-1° Les ingénieurs des ponts et chaussées ayant atteint le septième échelon de leur grade ;
+1° Les    ingénieurs des ponts, des eaux et des forêts ayant atteint le septième échelon de leur grade ;
 
 2° Les ingénieurs électroniciens des systèmes de la sécurité aérienne ayant atteint depuis au moins un an le septième échelon du grade d'ingénieur divisionnaire et ayant exercé pendant cinq ans au moins des fonctions nécessitant une qualification technique supérieure délivrée en application de l'article 4 du décret n° 91-56 du 16 janvier 1991 modifié portant statut du corps des ingénieurs électroniciens des systèmes de la navigation aérienne ;
 

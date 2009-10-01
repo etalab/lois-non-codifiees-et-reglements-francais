@@ -6,4 +6,4 @@ Il délivre les diplômes et titres nationaux pour lesquels il a été habilité
 
 Il assure les formations d'ingénieur des industries agricoles et alimentaires et les formations d'ingénieur agronome à vocation générale prévues respectivement aux articles R. 812-31 et R. 812-33 du code rural.
 
-Il assure également les formations des ingénieurs du génie rural, des eaux et des forêts, des ingénieurs forestiers, ainsi que la formation à l'action publique d'autres fonctionnaires de corps techniques et d'autres étudiants non fonctionnaires.
+Il assure également les formations des         ingénieurs des ponts, des eaux et des forêts , des ingénieurs forestiers, ainsi que la formation à l'action publique d'autres fonctionnaires de corps techniques et d'autres étudiants non fonctionnaires.

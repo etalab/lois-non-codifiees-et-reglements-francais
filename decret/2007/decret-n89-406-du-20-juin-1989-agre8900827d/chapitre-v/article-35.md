@@ -4,7 +4,7 @@ Les échelles indiciaires de référence sont les suivantes :
 
 a) Pour le premier groupe des contractuels de 1re catégorie :
 
-ingénieurs du génie rural, des eaux et des forêts, et pour le deuxième groupe des contractuels de 1re catégorie : professeurs agrégés ;
+ingénieurs des ponts, des eaux et des forêts , et pour le deuxième groupe des contractuels de 1re catégorie : professeurs agrégés ;
 
 b) Pour les contractuels de 2e catégorie : professeurs certifiés de l'enseignement agricole ;
 

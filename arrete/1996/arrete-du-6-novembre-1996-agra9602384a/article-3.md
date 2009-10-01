@@ -4,7 +4,7 @@ Le jury chargé d'apprécier l'aptitude des candidats à l'emploi de technicien 
 
 Il comprend au moins quatre membres, dont :
 
-- un ingénieur général du génie rural, des eaux et des forêts, président ;
+- un ingénieur général des ponts, des eaux et des forêts, président ;
 
 - deux enseignants ou membres de l'inspection de l'enseignement agricole compétents dans les matières figurant au programme du concours de technicien de laboratoire, l'une de ces personnes pouvant être désignée comme vice-président ;
 

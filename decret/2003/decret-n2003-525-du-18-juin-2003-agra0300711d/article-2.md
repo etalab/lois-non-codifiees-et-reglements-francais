@@ -8,7 +8,7 @@ a) Les fonctionnaires ayant accompli un minimum de trois ans de services effecti
 
 b) Les inspecteurs en chef de la santé publique vétérinaire ;
 
-c) Les ingénieurs en chef du génie rural, des eaux et des forêts ;
+c) Les           ingénieurs en chef des ponts, des eaux et des forêts ;
 
 d) Les administrateurs civils hors classe ;
 
@@ -18,7 +18,7 @@ e) Les fonctionnaires ayant accompli au moins trois ans de services effectifs da
 
 a) Les inspecteurs de la santé publique vétérinaire ayant atteint au moins le 7e échelon du grade d'inspecteur ou ayant été promus au grade supérieur ;
 
-b) Les ingénieurs du génie rural, des eaux et des forêts ayant atteint au moins le 7e échelon du grade d'ingénieur ou ayant été promus au grade supérieur ;
+b) Les ingénieurs des ponts, des eaux et des forêts ayant atteint au moins le 7e échelon du grade d'ingénieur ou ayant été promus au grade supérieur ;
 
 c) Les administrateurs civils détenant depuis au minimum un an au moins le 7e échelon du grade d'administrateur civil ou ayant été promus au grade supérieur ;
 

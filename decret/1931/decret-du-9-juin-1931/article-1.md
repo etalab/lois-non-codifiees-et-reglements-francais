@@ -1,6 +1,6 @@
 # Article 1
 
-Les ingénieurs des ponts et chaussées détachés au ministère de la marine pour le service des travaux maritimes constituent le corps des ingénieurs de travaux maritimes.
+Les    ingénieurs des ponts, des eaux et des forêts détachés au ministère de la marine pour le service des travaux maritimes constituent le corps des ingénieurs de travaux maritimes.
 
 Toutefois, dans la limite du tiers de l'effectif total du corps, des ingénieurs des études et techniques de travaux maritimes peuvent être nommés ingénieurs des travaux maritimes dans les conditions suivantes :
 

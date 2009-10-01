@@ -1,6 +1,6 @@
 # Article 1
 
-Le présent arrêté s'applique, à l'exception des ingénieurs des ponts et chaussées et des administrateurs civils :
+Le présent arrêté s'applique, à l'exception des    ingénieurs des ponts, des eaux et des forêts et des administrateurs civils :
 
 a) A tous les fonctionnaires en position normale d'activité appartenant aux corps de la direction générale de l'aviation civile ou aux corps communs à la direction générale de l'aviation civile et à Météo-France, ou qui sont accueillis par voie de détachement dans ces corps ;
 

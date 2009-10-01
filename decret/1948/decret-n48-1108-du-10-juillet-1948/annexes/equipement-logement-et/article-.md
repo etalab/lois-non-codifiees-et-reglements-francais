@@ -45,7 +45,7 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>II-ADMINISTRATION CENTRALE</p>
+<p>II-ADMINISTRATION CENTRALE </p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -253,7 +253,7 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Ingénieur général des ponts et chaussées </p>
+<p>Ingénieur général des ponts, des eaux et des forêts</p>
 </td>
 <td valign="top" width="113">
 <p align="center">HEB-HED </p>
@@ -272,16 +272,16 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Ingénieur en chef des ponts et chaussées </p>
+<p>Ingénieur en chef des ponts, des eaux et des forêts </p>
 </td>
 <td valign="top" width="113">
-<p align="center">750-HEB </p>
+<p align="center">750-HEB</p>
 </td>
 <td valign="top" width="151"/>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Ingénieur des ponts et chaussées </p>
+<p>Ingénieur des ponts, des eaux et des forêts </p>
 </td>
 <td valign="top" width="113">
 <p align="center">427-966 </p>
@@ -290,7 +290,7 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Ingénieur élève des ponts et chaussées </p>
+<p>Ingénieur élève des ponts, des eaux et des forêts </p>
 </td>
 <td valign="top" width="113">
 <p align="center">395 </p>

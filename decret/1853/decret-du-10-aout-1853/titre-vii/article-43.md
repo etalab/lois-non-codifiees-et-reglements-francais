@@ -4,7 +4,7 @@ Dans le cas où, nonobstant l'acte de notification et de sommation prescrit à l
 
 Ce mémoire est notifié au contrevenant en la forme administrative, avec citation devant le tribunal administratif, et sommation de présenter ses moyens de défense dans le délai d'un mois ; sauf le cas d'inscription de faux, le tribunal administratif statue dans le mois suivant.
 
-Toutefois, si le procès-verbal est reconnu incomplet ou irrégulier, en tout ou en partie, et que le conseil ne trouve pas, dans les autres pièces produites, les renseignements nécessaires, il fait faire préalablement, sur les lieux, par les officiers du génie et les ingénieurs des ponts et chaussées, les vérifications qu'il juge convenables et il prononce sur le tout dans le mois de la remise qui lui est faite du procès-verbal de vérification.
+Toutefois, si le procès-verbal est reconnu incomplet ou irrégulier, en tout ou en partie, et que le conseil ne trouve pas, dans les autres pièces produites, les renseignements nécessaires, il fait faire préalablement, sur les lieux, par les officiers du génie et les    ingénieurs des ponts, des eaux et des forêts, les vérifications qu'il juge convenables et il prononce sur le tout dans le mois de la remise qui lui est faite du procès-verbal de vérification.
 
 Le jugement du tribunal administratif, dans les huit jours au plus tard de sa date, est adressé par le préfet au directeur des fortifications.
 

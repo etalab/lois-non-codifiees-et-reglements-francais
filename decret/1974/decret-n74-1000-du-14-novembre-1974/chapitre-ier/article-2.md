@@ -1,6 +1,6 @@
 # Article 2
 
-Les membres du corps de chefs de district forestier participent, sous l'autorité des ingénieurs du génie rural, des eaux et des forêts, des ingénieurs de l'agriculture et de l'environnement et des techniciens forestiers, à toutes les activités incombant aux services déconcentrés de l'Office national des forêts.
+Les membres du corps de chefs de district forestier participent, sous l'autorité des         ingénieurs des ponts, des eaux et des forêts , des ingénieurs de l'agriculture et de l'environnement et des techniciens forestiers, à toutes les activités incombant aux services déconcentrés de l'Office national des forêts.
 
 Lorsqu'ils sont chargés d'un triage, les chefs de district forestier assument les responsabilités prévues par l'article L 122-8 du code forestier.
 

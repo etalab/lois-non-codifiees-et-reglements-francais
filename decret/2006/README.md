@@ -437,6 +437,8 @@
 - [Décret n°2006-1306 du 26 octobre 2006 (INTE0600200D)](decret-n2006-1306-du-26-octobre-2006-inte0600200d)
 - [Décret n°2006-1308 du 26 octobre 2006 (SOCU0611858D)](decret-n2006-1308-du-26-octobre-2006-socu0611858d)
 - [Décret n°2006-1316 du 26 octobre 2006 (EQUP0601924D)](decret-n2006-1316-du-26-octobre-2006-equp0601924d)
+- [Décret n°2006-486 du 26 avril 2006 (AGRS0600753D)](decret-n2006-486-du-26-avril-2006-agrs0600753d)
+- [Décret n°2006-487 du 26 avril 2006 (AGRS0600681D)](decret-n2006-487-du-26-avril-2006-agrs0600681d)
 - [Décret n°2006-491 du 26 avril 2006 (MENF0600505D)](decret-n2006-491-du-26-avril-2006-menf0600505d)
 - [Décret n°82-750 du 26 août 1982](decret-n82-750-du-26-aout-1982)
 - [Décret n°2005-54 du 27 janvier 2005 (ECOX0400259D)](decret-n2005-54-du-27-janvier-2005-ecox0400259d)

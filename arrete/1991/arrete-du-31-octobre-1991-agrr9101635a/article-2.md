@@ -8,7 +8,7 @@ Ingénieur civil des forêts.
 
 Ingénieur civil des eaux et forêts.
 
-Ingénieur civil du génie rural, des eaux et des forêts.
+Ingénieur civil des ponts, des eaux et des forêts.
 
 Ingénieur du génie rural des eaux et des forêts.
 
@@ -26,7 +26,7 @@ b) Etablissements existant à la date du présent arrêté :
 
 Ecole nationale du génie rural, des eaux et des forêts.
 
-Ecole nationale des ingénieurs des travaux des eaux et forêts.    Ecole supérieure du bois.
+Ecole nationale des ingénieurs des travaux des eaux et forêts. Ecole supérieure du bois.
 
 3° Diplôme d'enseignement technologique.
 

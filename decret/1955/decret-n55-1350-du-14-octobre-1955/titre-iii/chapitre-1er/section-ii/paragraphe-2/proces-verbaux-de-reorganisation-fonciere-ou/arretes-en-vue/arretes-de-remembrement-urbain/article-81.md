@@ -14,7 +14,7 @@ Les cessions, échanges et remembrements amiables demeurent soumis en ce qui con
 
 - les préfets ou les représentants de l'autorité expropriante ;
 
-- les ingénieurs du génie rural et les présidents des commissions communales de réorganisation foncière ou de remembrement ;
+- les ingénieurs des ponts, des eaux et des forêts et les présidents des commissions communales de réorganisation foncière ou de remembrement ;
 
 - les commissaires au remembrement ;
 

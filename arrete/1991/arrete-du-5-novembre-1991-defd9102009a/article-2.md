@@ -4,7 +4,7 @@ Le service de l'infrastructure de l'air est dirigé par un directeur central, of
 
 Le directeur central de l'infrastructure de l'air est directement responsable devant le ministre chargé des armées de l'administration du service. Il est placé sous l'autorité du chef d'état-major de l'armée de l'air.
 
-Il est assisté d'un directeur adjoint civil, du corps des ingénieurs des ponts et chaussées, et d'un directeur adjoint militaire.
+Il est assisté d'un directeur adjoint civil, du corps des    ingénieurs des ponts, des eaux et des forêts, et d'un directeur adjoint militaire.
 
 Le directeur adjoint civil est compétent pour l'ensemble du service, sauf pour ce qui concerne les attributions spécifiques au directeur adjoint militaire. Il assure les liaisons avec les services du ministère chargé de l'équipement et des transports.
 
