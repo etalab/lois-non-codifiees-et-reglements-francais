@@ -2,11 +2,11 @@
 
 Les fonctionnaires des corps techniques du ministère de l'équipement et du logement énumérés ci-dessous bénéficient, dans la limite des crédits accordés chaque année à cet effet au budget de l'Etat, de primes de service et de rendement dont les taux moyens applicables aux émoluments moyens soumis à retenue pour pension seront définis par un arrêté conjoint du ministre de l'économie et des finances, du ministre de l'équipement et du logement et du secrétaire d'Etat auprès du Premier ministre, chargé de la fonction publique :
 
-Ingénieurs généraux des ponts et chaussées ;
+Ingénieurs généraux des ponts, des eaux et des forêts ;
 
-Ingénieurs en chef des ponts et chaussées (cadre normal et cadre spécial) ;
+Directeur régional de l'environnement, de l'aménagement et du logement (cadre normal et cadre spécial) ;
 
-Ingénieurs des ponts et chaussées (cadre normal et cadre spécial) ;
+ingénieurs des ponts, des eaux et des forêts (cadre normal et cadre spécial) ;
 
 Ingénieurs divisionnaires des travaux publics de l'Etat ;
 
