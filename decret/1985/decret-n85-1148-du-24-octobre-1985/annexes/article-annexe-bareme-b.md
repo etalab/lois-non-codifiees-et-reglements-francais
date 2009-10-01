@@ -1,6191 +1,4980 @@
 # Article ANNEXE BAREME B
 
-Traitements annuels bruts soumis à retenue pour pension à compter du 1er juillet 2009
+Traitements annuels bruts soumis à retenue pour pension à compter du 1er octobre 2009
 
 <table>
 <tbody>
 <tr>
+<th>
+<br/>
+<font size="1">INDICES </font>
+<p>
+<font size="1">majorés</font>
+<br/>
+</p>
+</th>
+<th>
+<br/>
+<font size="1">TRAITEMENTS ANNUELS BRUTS </font>
+<p>
+<font size="1">soumis à retenue pour pension</font>
+</p>
+<p>
+<font size="1">(en euros)<br/>
+</font>
+</p>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>203<br/>
+</td>
+<td align="center">
+<br/>11 223,28<br/>
+</td>
+</tr>
+<tr>
 <td align="center">
-<p align="center">INDICES</p>
-<p>majorés</p>
+<br/>204<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>TRAITEMENTS</p>
-<p>annuels bruts</p>
-<p>soumis à retenue</p>
-<p>pour pension</p>
-<p>(en euros)</p>
+<br/>11 278,57<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>203</p>
+<br/>205<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>11 189,71</p>
+<br/>11 333,86<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>204</p>
+<br/>206<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>11 244,83</p>
+<br/>11 389,14<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>205</p>
+<br/>207<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>11 299,95</p>
+<br/>11 444,43<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>206</p>
+<br/>208<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>11 355,07</p>
+<br/>11 499,72<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>207</p>
+<br/>209<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>11 410,19</p>
+<br/>11 555,00<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>208</p>
+<br/>210<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>11 465,31</p>
+<br/>11 610,29<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>209</p>
+<br/>211<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>11 520,44</p>
+<br/>11 665,58<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>210</p>
+<br/>212<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>11 575,56</p>
+<br/>11 720,87<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>211</p>
+<br/>213<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>11 630,68</p>
+<br/>11 776,15<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>212</p>
+<br/>214<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>11 685,80</p>
+<br/>11 831,44<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>213</p>
+<br/>215<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>11 740,92</p>
+<br/>11 886,73<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>214</p>
+<br/>216<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>11 796,04</p>
+<br/>11 942,01<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>215</p>
+<br/>217<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>11 851,17</p>
+<br/>11 997,30<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>216</p>
+<br/>218<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>11 906,29</p>
+<br/>12 052,59<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>217</p>
+<br/>219<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>11 961,41</p>
+<br/>12 107,87<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>218</p>
+<br/>220<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>12 016,53</p>
+<br/>12 163,16<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>219</p>
+<br/>221<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>12 071,65</p>
+<br/>12 218,45<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>220</p>
+<br/>222<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>12 126,77</p>
+<br/>12 273,74<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>221</p>
+<br/>223<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>12 181,90</p>
+<br/>12 329,02<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>222</p>
+<br/>224<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>12 237,02</p>
+<br/>12 384,31<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>223</p>
+<br/>225<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>12 292,14</p>
+<br/>12 439,60<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>224</p>
+<br/>226<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>12 347,26</p>
+<br/>12 494,88<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>225</p>
+<br/>227<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>12 402,38</p>
+<br/>12 550,17<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>226</p>
+<br/>228<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>12 457,50</p>
+<br/>12 605,46<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>227</p>
+<br/>229<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>12 512,63</p>
+<br/>12 660,75<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>228</p>
+<br/>230<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>12 567,75</p>
+<br/>12 716,03<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>229</p>
+<br/>231<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>12 622,87</p>
+<br/>12 771,32<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>230</p>
+<br/>232<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>12 677,99</p>
+<br/>12 826,61<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>231</p>
+<br/>233<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>12 733,11</p>
+<br/>12 881,89<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>232</p>
+<br/>234<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>12 788,23</p>
+<br/>12 937,18<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>233</p>
+<br/>235<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>12 843,36</p>
+<br/>12 992,47<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>234</p>
+<br/>236<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>12 898,48</p>
+<br/>13 047,76<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>235</p>
+<br/>237<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>12 953,60</p>
+<br/>13 103,04<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>236</p>
+<br/>238<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>13 008,72</p>
+<br/>13 158,33<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>237</p>
+<br/>239<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>13 063,84</p>
+<br/>13 213,62<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>238</p>
+<br/>240<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>13 118,96</p>
+<br/>13 268,90<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>239</p>
+<br/>241<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>13 174,09</p>
+<br/>13 324,19<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>240</p>
+<br/>242<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>13 229,21</p>
+<br/>13 379,48<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>241</p>
+<br/>243<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>13 284,33</p>
+<br/>13 434,77<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>242</p>
+<br/>244<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>13 339,45</p>
+<br/>13 490,05<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>243</p>
+<br/>245<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>13 394,57</p>
+<br/>13 545,34<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>244</p>
+<br/>246<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>13 449,69</p>
+<br/>13 600,63<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>245</p>
+<br/>247<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>13 504,82</p>
+<br/>13 655,91<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>246</p>
+<br/>248<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>13 559,94</p>
+<br/>13 711,20<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>247</p>
+<br/>249<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>13 615,06</p>
+<br/>13 766,49<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>248</p>
+<br/>250<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>13 670,18</p>
+<br/>13 821,78<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>249</p>
+<br/>251<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>13 725,30</p>
+<br/>13 877,06<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>250</p>
+<br/>252<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>13 780,43</p>
+<br/>13 932,35<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>251</p>
+<br/>253<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>13 835,55</p>
+<br/>13 987,64<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>252</p>
+<br/>254<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>13 890,67</p>
+<br/>14 042,92<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>253</p>
+<br/>255<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>13 945,79</p>
+<br/>14 098,21<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>254</p>
+<br/>256<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>14 000,91</p>
+<br/>14 153,50<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>255</p>
+<br/>257<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>14 056,03</p>
+<br/>14 208,78<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>256</p>
+<br/>258<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>14 111,16</p>
+<br/>14 264,07<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>257</p>
+<br/>259<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>14 166,28</p>
+<br/>14 319,36<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>258</p>
+<br/>260<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>14 221,40</p>
+<br/>14 374,65<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>259</p>
+<br/>261<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>14 276,52</p>
+<br/>14 429,93<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>260</p>
+<br/>262<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>14 331,64</p>
+<br/>14 485,22<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>261</p>
+<br/>263<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>14 386,76</p>
+<br/>14 540,51<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>262</p>
+<br/>264<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>14 441,89</p>
+<br/>14 595,79<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>263</p>
+<br/>265<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>14 497,01</p>
+<br/>14 651,08<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>264</p>
+<br/>266<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>14 552,13</p>
+<br/>14 706,37<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>265</p>
+<br/>267<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>14 607,25</p>
+<br/>14 761,66<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>266</p>
+<br/>268<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>14 662,37</p>
+<br/>14 816,94<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>267</p>
+<br/>269<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>14 717,49</p>
+<br/>14 872,23<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>268</p>
+<br/>270<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>14 772,62</p>
+<br/>14 927,52<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>269</p>
+<br/>271<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>14 827,74</p>
+<br/>14 982,80<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>270</p>
+<br/>272<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>14 882,86</p>
+<br/>15 038,09<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>271</p>
+<br/>273<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>14 937,98</p>
+<br/>15 093,38<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>272</p>
+<br/>274<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>14 993,10</p>
+<br/>15 148,67<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>273</p>
+<br/>275<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>15 048,22</p>
+<br/>15 203,95<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>274</p>
+<br/>276<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>15 103,35</p>
+<br/>15 259,24<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>275</p>
+<br/>277<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>15 158,47</p>
+<br/>15 314,53<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>276</p>
+<br/>278<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>15 213,59</p>
+<br/>15 369,81<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>277</p>
+<br/>279<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>15 268,71</p>
+<br/>15 425,10<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>278</p>
+<br/>280<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>15 323,83</p>
+<br/>15 480,39<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>279</p>
+<br/>281<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>15 378,95</p>
+<br/>15 535,68<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>280</p>
+<br/>282<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>15 434,08</p>
+<br/>15 590,96<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>281</p>
+<br/>283<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>15 489,20</p>
+<br/>15 646,25<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>282</p>
+<br/>284<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>15 544,32</p>
+<br/>15 701,54<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>283</p>
+<br/>285<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>15 599,44</p>
+<br/>15 756,82<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>284</p>
+<br/>286<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>15 654,56</p>
+<br/>15 812,11<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>285</p>
+<br/>287<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>15 709,68</p>
+<br/>15 867,40<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>286</p>
+<br/>288<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>15 764,81</p>
+<br/>15 922,68<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>287</p>
+<br/>289<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>15 819,93</p>
+<br/>15 977,97<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>288</p>
+<br/>290<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>15 875,05</p>
+<br/>16 033,26<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>289</p>
+<br/>291<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>15 930,17</p>
+<br/>16 088,55<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>290</p>
+<br/>292<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>15 985,29</p>
+<br/>16 143,83<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>291</p>
+<br/>293<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>16 040,41</p>
+<br/>16 199,12<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>292</p>
+<br/>294<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>16 095,54</p>
+<br/>16 254,41<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>293</p>
+<br/>295<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>16 150,66</p>
+<br/>16 309,69<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>294</p>
+<br/>296<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>16 205,78</p>
+<br/>16 364,98<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>295</p>
+<br/>297<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>16 260,90</p>
+<br/>16 420,27<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>296</p>
+<br/>298<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>16 316,02</p>
+<br/>16 475,56<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>297</p>
+<br/>299<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>16 371,14</p>
+<br/>16 530,84<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>298</p>
+<br/>300<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>16 426,27</p>
+<br/>16 586,13<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>299</p>
+<br/>301<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>16 481,39</p>
+<br/>16 641,42<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>300</p>
+<br/>302<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>16 536,51</p>
+<br/>16 696,70<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>301</p>
+<br/>303<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>16 591,63</p>
+<br/>16 751,99<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>302</p>
+<br/>304<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>16 646,75</p>
+<br/>16 807,28<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>303</p>
+<br/>305<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>16 701,88</p>
+<br/>16 862,57<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>304</p>
+<br/>306<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>16 757,00</p>
+<br/>16 917,85<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>305</p>
+<br/>307<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>16 812,12</p>
+<br/>16 973,14<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>306</p>
+<br/>308<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>16 867,24</p>
+<br/>17 028,43<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>307</p>
+<br/>309<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>16 922,36</p>
+<br/>17 083,71<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>308</p>
+<br/>310<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>16 977,48</p>
+<br/>17 139,00<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>309</p>
+<br/>311<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>17 032,61</p>
+<br/>17 194,29<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>310</p>
+<br/>312<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>17 087,73</p>
+<br/>17 249,58<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>311</p>
+<br/>313<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>17 142,85</p>
+<br/>17 304,86<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>312</p>
+<br/>314<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>17 197,97</p>
+<br/>17 360,15<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>313</p>
+<br/>315<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>17 253,09</p>
+<br/>17 415,44<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>314</p>
+<br/>316<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>17 308,21</p>
+<br/>17 470,72<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>315</p>
+<br/>317<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>17 363,34</p>
+<br/>17 526,01<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>316</p>
+<br/>318<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>17 418,46</p>
+<br/>17 581,30<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>317</p>
+<br/>319<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>17 473,58</p>
+<br/>17 636,58<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>318</p>
+<br/>320<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>17 528,70</p>
+<br/>17 691,87<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>319</p>
+<br/>321<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>17 583,82</p>
+<br/>17 747,16<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>320</p>
+<br/>322<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>17 638,94</p>
+<br/>17 802,45<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>321</p>
+<br/>323<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>17 694,07</p>
+<br/>17 857,73<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>322</p>
+<br/>324<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>17 749,19</p>
+<br/>17 913,02<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>323</p>
+<br/>325<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>17 804,31</p>
+<br/>17 968,31<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>324</p>
+<br/>326<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>17 859,43</p>
+<br/>18 023,59<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>325</p>
+<br/>327<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>17 914,55</p>
+<br/>18 078,88<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>326</p>
+<br/>328<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>17 969,67</p>
+<br/>18 134,17<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>327</p>
+<br/>329<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>18 024,80</p>
+<br/>18 189,46<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>328</p>
+<br/>330<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>18 079,92</p>
+<br/>18 244,74<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>329</p>
+<br/>331<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>18 135,04</p>
+<br/>18 300,03<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>330</p>
+<br/>332<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>18 190,16</p>
+<br/>18 355,32<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>331</p>
+<br/>333<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>18 245,28</p>
+<br/>18 410,60<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>332</p>
+<br/>334<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>18 300,40</p>
+<br/>18 465,89<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>333</p>
+<br/>335<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>18 355,53</p>
+<br/>18 521,18<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>334</p>
+<br/>336<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>18 410,65</p>
+<br/>18 576,47<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>335</p>
+<br/>337<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>18 465,77</p>
+<br/>18 631,75<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>336</p>
+<br/>338<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>18 520,89</p>
+<br/>18 687,04<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>337</p>
+<br/>339<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>18 576,01</p>
+<br/>18 742,33<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>338</p>
+<br/>340<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>18 631,13</p>
+<br/>18 797,61<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>339</p>
+<br/>341<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>18 686,26</p>
+<br/>18 852,90<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>340</p>
+<br/>342<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>18 741,38</p>
+<br/>18 908,19<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>341</p>
+<br/>343<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>18 796,50</p>
+<br/>18 963,48<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>342</p>
+<br/>344<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>18 851,62</p>
+<br/>19 018,76<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>343</p>
+<br/>345<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>18 906,74</p>
+<br/>19 074,05<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>344</p>
+<br/>346<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>18 961,86</p>
+<br/>19 129,34<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>345</p>
+<br/>347<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>19 016,99</p>
+<br/>19 184,62<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>346</p>
+<br/>348<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>19 072,11</p>
+<br/>19 239,91<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>347</p>
+<br/>349<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>19 127,23</p>
+<br/>19 295,20<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>348</p>
+<br/>350<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>19 182,35</p>
+<br/>19 350,49<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>349</p>
+<br/>351<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>19 237,47</p>
+<br/>19 405,77<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>350</p>
+<br/>352<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>19 292,60</p>
+<br/>19 461,06<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>351</p>
+<br/>353<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>19 347,72</p>
+<br/>19 516,35<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>352</p>
+<br/>354<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>19 402,84</p>
+<br/>19 571,63<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>353</p>
+<br/>355<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>19 457,96</p>
+<br/>19 626,92<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>354</p>
+<br/>356<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>19 513,08</p>
+<br/>19 682,21<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>355</p>
+<br/>357<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>19 568,20</p>
+<br/>19 737,49<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>356</p>
+<br/>358<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>19 623,33</p>
+<br/>19 792,78<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>357</p>
+<br/>359<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>19 678,45</p>
+<br/>19 848,07<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>358</p>
+<br/>360<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>19 733,57</p>
+<br/>19 903,36<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>359</p>
+<br/>361<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>19 788,69</p>
+<br/>19 958,64<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>360</p>
+<br/>362<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>19 843,81</p>
+<br/>20 013,93<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>361</p>
+<br/>363<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>19 898,93</p>
+<br/>20 069,22<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>362</p>
+<br/>364<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>19 954,06</p>
+<br/>20 124,50<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>363</p>
+<br/>365<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>20 009,18</p>
+<br/>20 179,79<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>364</p>
+<br/>366<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>20 064,30</p>
+<br/>20 235,08<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>365</p>
+<br/>367<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>20 119,42</p>
+<br/>20 290,37<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>366</p>
+<br/>368<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>20 174,54</p>
+<br/>20 345,65<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>367</p>
+<br/>369<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>20 229,66</p>
+<br/>20 400,94<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>368</p>
+<br/>370<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>20 284,79</p>
+<br/>20 456,23<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>369</p>
+<br/>371<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>20 339,91</p>
+<br/>20 511,51<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>370</p>
+<br/>372<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>20 395,03</p>
+<br/>20 566,80<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>371</p>
+<br/>373<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>20 450,15</p>
+<br/>20 622,09<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>372</p>
+<br/>374<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>20 505,27</p>
+<br/>20 677,38<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>373</p>
+<br/>375<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>20 560,39</p>
+<br/>20 732,66<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>374</p>
+<br/>376<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>20 615,52</p>
+<br/>20 787,95<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>375</p>
+<br/>377<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>20 670,64</p>
+<br/>20 843,24<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>376</p>
+<br/>378<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>20 725,76</p>
+<br/>20 898,52<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>377</p>
+<br/>379<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>20 780,88</p>
+<br/>20 953,81<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>378</p>
+<br/>380<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>20 836,00</p>
+<br/>21 009,10<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>379</p>
+<br/>381<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>20 891,12</p>
+<br/>21 064,39<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>380</p>
+<br/>382<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>20 946,25</p>
+<br/>21 119,67<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>381</p>
+<br/>383<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>21 001,37</p>
+<br/>21 174,96<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>382</p>
+<br/>384<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>21 056,49</p>
+<br/>21 230,25<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>383</p>
+<br/>385<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>21 111,61</p>
+<br/>21 285,53<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>384</p>
+<br/>386<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>21 166,73</p>
+<br/>21 340,82<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>385</p>
+<br/>387<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>21 221,85</p>
+<br/>21 396,11<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>386</p>
+<br/>388<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>21 276,98</p>
+<br/>21 451,39<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>387</p>
+<br/>389<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>21 332,10</p>
+<br/>21 506,68<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>388</p>
+<br/>390<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>21 387,22</p>
+<br/>21 561,97<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>389</p>
+<br/>391<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>21 442,34</p>
+<br/>21 617,26<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>390</p>
+<br/>392<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>21 497,46</p>
+<br/>21 672,54<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>391</p>
+<br/>393<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>21 552,58</p>
+<br/>21 727,83<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>392</p>
+<br/>394<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>21 607,71</p>
+<br/>21 783,12<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>393</p>
+<br/>395<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>21 662,83</p>
+<br/>21 838,40<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>394</p>
+<br/>396<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>21 717,95</p>
+<br/>21 893,69<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>395</p>
+<br/>397<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>21 773,07</p>
+<br/>21 948,98<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>396</p>
+<br/>398<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>21 828,19</p>
+<br/>22 004,27<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>397</p>
+<br/>399<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>21 883,31</p>
+<br/>22 059,55<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>398</p>
+<br/>400<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>21 938,44</p>
+<br/>22 114,84<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>399</p>
+<br/>401<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>21 993,56</p>
+<br/>22 170,13<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>400</p>
+<br/>402<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>22 048,68</p>
+<br/>22 225,41<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>401</p>
+<br/>403<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>22 103,80</p>
+<br/>22 280,70<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>402</p>
+<br/>404<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>22 158,92</p>
+<br/>22 335,99<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>403</p>
+<br/>405<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>22 214,05</p>
+<br/>22 391,28<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>404</p>
+<br/>406<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>22 269,17</p>
+<br/>22 446,56<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>405</p>
+<br/>407<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>22 324,29</p>
+<br/>22 501,85<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>406</p>
+<br/>408<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>22 379,41</p>
+<br/>22 557,14<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>407</p>
+<br/>409<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>22 434,53</p>
+<br/>22 612,42<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>408</p>
+<br/>410<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>22 489,65</p>
+<br/>22 667,71<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>409</p>
+<br/>411<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>22 544,78</p>
+<br/>22 723,00<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>410</p>
+<br/>412<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>22 599,90</p>
+<br/>22 778,29<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>411</p>
+<br/>413<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>22 655,02</p>
+<br/>22 833,57<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>412</p>
+<br/>414<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>22 710,14</p>
+<br/>22 888,86<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>413</p>
+<br/>415<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>22 765,26</p>
+<br/>22 944,15<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>414</p>
+<br/>416<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>22 820,38</p>
+<br/>22 999,43<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>415</p>
+<br/>417<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>22 875,51</p>
+<br/>23 054,72<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>416</p>
+<br/>418<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>22 930,63</p>
+<br/>23 110,01<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>417</p>
+<br/>419<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>22 985,75</p>
+<br/>23 165,29<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>418</p>
+<br/>420<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>23 040,87</p>
+<br/>23 220,58<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>419</p>
+<br/>421<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>23 095,99</p>
+<br/>23 275,87<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>420</p>
+<br/>422<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>23 151,11</p>
+<br/>23 331,16<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>421</p>
+<br/>423<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>23 206,24</p>
+<br/>23 386,44<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>422</p>
+<br/>424<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>23 261,36</p>
+<br/>23 441,73<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>423</p>
+<br/>425<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>23 316,48</p>
+<br/>23 497,02<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>424</p>
+<br/>426<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>23 371,60</p>
+<br/>23 552,30<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>425</p>
+<br/>427<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>23 426,72</p>
+<br/>23 607,59<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>426</p>
+<br/>428<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>23 481,84</p>
+<br/>23 662,88<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>427</p>
+<br/>429<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>23 536,97</p>
+<br/>23 718,17<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>428</p>
+<br/>430<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>23 592,09</p>
+<br/>23 773,45<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>429</p>
+<br/>431<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>23 647,21</p>
+<br/>23 828,74<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>430</p>
+<br/>432<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>23 702,33</p>
+<br/>23 884,03<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>431</p>
+<br/>433<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>23 757,45</p>
+<br/>23 939,31<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>432</p>
+<br/>434<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>23 812,57</p>
+<br/>23 994,60<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>433</p>
+<br/>435<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>23 867,70</p>
+<br/>24 049,89<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>434</p>
+<br/>436<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>23 922,82</p>
+<br/>24 105,18<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>435</p>
+<br/>437<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>23 977,94</p>
+<br/>24 160,46<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>436</p>
+<br/>438<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>24 033,06</p>
+<br/>24 215,75<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>437</p>
+<br/>439<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>24 088,18</p>
+<br/>24 271,04<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>438</p>
+<br/>440<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>24 143,30</p>
+<br/>24 326,32<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>439</p>
+<br/>441<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>24 198,43</p>
+<br/>24 381,61<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>440</p>
+<br/>442<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>24 253,55</p>
+<br/>24 436,90<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>441</p>
+<br/>443<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>24 308,67</p>
+<br/>24 492,19<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>442</p>
+<br/>444<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>24 363,79</p>
+<br/>24 547,47<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>443</p>
+<br/>445<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>24 418,91</p>
+<br/>24 602,76<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>444</p>
+<br/>446<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>24 474,03</p>
+<br/>24 658,05<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>445</p>
+<br/>447<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>24 529,16</p>
+<br/>24 713,33<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>446</p>
+<br/>448<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>24 584,28</p>
+<br/>24 768,62<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>447</p>
+<br/>449<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>24 639,40</p>
+<br/>24 823,91<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>448</p>
+<br/>450<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>24 694,52</p>
+<br/>24 879,20<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>449</p>
+<br/>451<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>24 749,64</p>
+<br/>24 934,48<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>450</p>
+<br/>452<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>24 804,77</p>
+<br/>24 989,77<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>451</p>
+<br/>453<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>24 859,89</p>
+<br/>25 045,06<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>452</p>
+<br/>454<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>24 915,01</p>
+<br/>25 100,34<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>453</p>
+<br/>455<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>24 970,13</p>
+<br/>25 155,63<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>454</p>
+<br/>456<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>25 025,25</p>
+<br/>25 210,92<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>455</p>
+<br/>457<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>25 080,37</p>
+<br/>25 266,20<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>456</p>
+<br/>458<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>25 135,50</p>
+<br/>25 321,49<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>457</p>
+<br/>459<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>25 190,62</p>
+<br/>25 376,78<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>458</p>
+<br/>460<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>25 245,74</p>
+<br/>25 432,07<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>459</p>
+<br/>461<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>25 300,86</p>
+<br/>25 487,35<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>460</p>
+<br/>462<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>25 355,98</p>
+<br/>25 542,64<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>461</p>
+<br/>463<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>25 411,10</p>
+<br/>25 597,93<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>462</p>
+<br/>464<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>25 466,23</p>
+<br/>25 653,21<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>463</p>
+<br/>465<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>25 521,35</p>
+<br/>25 708,50<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>464</p>
+<br/>466<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>25 576,47</p>
+<br/>25 763,79<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>465</p>
+<br/>467<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>25 631,59</p>
+<br/>25 819,08<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>466</p>
+<br/>468<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>25 686,71</p>
+<br/>25 874,36<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>467</p>
+<br/>469<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>25 741,83</p>
+<br/>25 929,65<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>468</p>
+<br/>470<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>25 796,96</p>
+<br/>25 984,94<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>469</p>
+<br/>471<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>25 852,08</p>
+<br/>26 040,22<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>470</p>
+<br/>472<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>25 907,20</p>
+<br/>26 095,51<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>471</p>
+<br/>473<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>25 962,32</p>
+<br/>26 150,80<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>472</p>
+<br/>474<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>26 017,44</p>
+<br/>26 206,09<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>473</p>
+<br/>475<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>26 072,56</p>
+<br/>26 261,37<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>474</p>
+<br/>476<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>26 127,69</p>
+<br/>26 316,66<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>475</p>
+<br/>477<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>26 182,81</p>
+<br/>26 371,95<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>476</p>
+<br/>478<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>26 237,93</p>
+<br/>26 427,23<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>477</p>
+<br/>479<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>26 293,05</p>
+<br/>26 482,52<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>478</p>
+<br/>480<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>26 348,17</p>
+<br/>26 537,81<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>479</p>
+<br/>481<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>26 403,29</p>
+<br/>26 593,10<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>480</p>
+<br/>482<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>26 458,42</p>
+<br/>26 648,38<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>481</p>
+<br/>483<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>26 513,54</p>
+<br/>26 703,67<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>482</p>
+<br/>484<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>26 568,66</p>
+<br/>26 758,96<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>483</p>
+<br/>485<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>26 623,78</p>
+<br/>26 814,24<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>484</p>
+<br/>486<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>26 678,90</p>
+<br/>26 869,53<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>485</p>
+<br/>487<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>26 734,02</p>
+<br/>26 924,82<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>486</p>
+<br/>488<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>26 789,15</p>
+<br/>26 980,10<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>487</p>
+<br/>489<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>26 844,27</p>
+<br/>27 035,39<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>488</p>
+<br/>490<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>26 899,39</p>
+<br/>27 090,68<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>489</p>
+<br/>491<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>26 954,51</p>
+<br/>27 145,97<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>490</p>
+<br/>492<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>27 009,63</p>
+<br/>27 201,25<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>491</p>
+<br/>493<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>27 064,75</p>
+<br/>27 256,54<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>492</p>
+<br/>494<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>27 119,88</p>
+<br/>27 311,83<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>493</p>
+<br/>495<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>27 175,00</p>
+<br/>27 367,11<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>494</p>
+<br/>496<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>27 230,12</p>
+<br/>27 422,40<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>495</p>
+<br/>497<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>27 285,24</p>
+<br/>27 477,69<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>496</p>
+<br/>498<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>27 340,36</p>
+<br/>27 532,98<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>497</p>
+<br/>499<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>27 395,48</p>
+<br/>27 588,26<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>498</p>
+<br/>500<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>27 450,61</p>
+<br/>27 643,55<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>499</p>
+<br/>501<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>27 505,73</p>
+<br/>27 698,84<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>500</p>
+<br/>502<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>27 560,85</p>
+<br/>27 754,12<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>501</p>
+<br/>503<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>27 615,97</p>
+<br/>27 809,41<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>502</p>
+<br/>504<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>27 671,09</p>
+<br/>27 864,70<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>503</p>
+<br/>505<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>27 726,22</p>
+<br/>27 919,99<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>504</p>
+<br/>506<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>27 781,34</p>
+<br/>27 975,27<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>505</p>
+<br/>507<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>27 836,46</p>
+<br/>28 030,56<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>506</p>
+<br/>508<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>27 891,58</p>
+<br/>28 085,85<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>507</p>
+<br/>509<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>27 946,70</p>
+<br/>28 141,13<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>508</p>
+<br/>510<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>28 001,82</p>
+<br/>28 196,42<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>509</p>
+<br/>511<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>28 056,95</p>
+<br/>28 251,71<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>510</p>
+<br/>512<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>28 112,07</p>
+<br/>28 307,00<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>511</p>
+<br/>513<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>28 167,19</p>
+<br/>28 362,28<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>512</p>
+<br/>514<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>28 222,31</p>
+<br/>28 417,57<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>513</p>
+<br/>515<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>28 277,43</p>
+<br/>28 472,86<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>514</p>
+<br/>516<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>28 332,55</p>
+<br/>28 528,14<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>515</p>
+<br/>517<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>28 387,68</p>
+<br/>28 583,43<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>516</p>
+<br/>518<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>28 442,80</p>
+<br/>28 638,72<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>517</p>
+<br/>519<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>28 497,92</p>
+<br/>28 694,00<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>518</p>
+<br/>520<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>28 553,04</p>
+<br/>28 749,29<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>519</p>
+<br/>521<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>28 608,16</p>
+<br/>28 804,58<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>520</p>
+<br/>522<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>28 663,28</p>
+<br/>28 859,87<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>521</p>
+<br/>523<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>28 718,41</p>
+<br/>28 915,15<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>522</p>
+<br/>524<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>28 773,53</p>
+<br/>28 970,44<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>523</p>
+<br/>525<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>28 828,65</p>
+<br/>29 025,73<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>524</p>
+<br/>526<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>28 883,77</p>
+<br/>29 081,01<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>525</p>
+<br/>527<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>28 938,89</p>
+<br/>29 136,30<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>526</p>
+<br/>528<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>28 994,01</p>
+<br/>29 191,59<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>527</p>
+<br/>529<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>29 049,14</p>
+<br/>29 246,88<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>528</p>
+<br/>530<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>29 104,26</p>
+<br/>29 302,16<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>529</p>
+<br/>531<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>29 159,38</p>
+<br/>29 357,45<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>530</p>
+<br/>532<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>29 214,50</p>
+<br/>29 412,74<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>531</p>
+<br/>533<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>29 269,62</p>
+<br/>29 468,02<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>532</p>
+<br/>534<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>29 324,74</p>
+<br/>29 523,31<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>533</p>
+<br/>535<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>29 379,87</p>
+<br/>29 578,60<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>534</p>
+<br/>536<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>29 434,99</p>
+<br/>29 633,89<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>535</p>
+<br/>537<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>29 490,11</p>
+<br/>29 689,17<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>536</p>
+<br/>538<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>29 545,23</p>
+<br/>29 744,46<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>537</p>
+<br/>539<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>29 600,35</p>
+<br/>29 799,75<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>538</p>
+<br/>540<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>29 655,47</p>
+<br/>29 855,03<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>539</p>
+<br/>541<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>29 710,60</p>
+<br/>29 910,32<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>540</p>
+<br/>542<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>29 765,72</p>
+<br/>29 965,61<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>541</p>
+<br/>543<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>29 820,84</p>
+<br/>30 020,90<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>542</p>
+<br/>544<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>29 875,96</p>
+<br/>30 076,18<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>543</p>
+<br/>545<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>29 931,08</p>
+<br/>30 131,47<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>544</p>
+<br/>546<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>29 986,20</p>
+<br/>30 186,76<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>545</p>
+<br/>547<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>30 041,33</p>
+<br/>30 242,04<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>546</p>
+<br/>548<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>30 096,45</p>
+<br/>30 297,33<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>547</p>
+<br/>549<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>30 151,57</p>
+<br/>30 352,62<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>548</p>
+<br/>550<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>30 206,69</p>
+<br/>30 407,91<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>549</p>
+<br/>551<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>30 261,81</p>
+<br/>30 463,19<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>550</p>
+<br/>552<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>30 316,94</p>
+<br/>30 518,48<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>551</p>
+<br/>553<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>30 372,06</p>
+<br/>30 573,77<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>552</p>
+<br/>554<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>30 427,18</p>
+<br/>30 629,05<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>553</p>
+<br/>555<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>30 482,30</p>
+<br/>30 684,34<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>554</p>
+<br/>556<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>30 537,42</p>
+<br/>30 739,63<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>555</p>
+<br/>557<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>30 592,54</p>
+<br/>30 794,91<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>556</p>
+<br/>558<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>30 647,67</p>
+<br/>30 850,20<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>557</p>
+<br/>559<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>30 702,79</p>
+<br/>30 905,49<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>558</p>
+<br/>560<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>30 757,91</p>
+<br/>30 960,78<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>559</p>
+<br/>561<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>30 813,03</p>
+<br/>31 016,06<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>560</p>
+<br/>562<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>30 868,15</p>
+<br/>31 071,35<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>561</p>
+<br/>563<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>30 923,27</p>
+<br/>31 126,64<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>562</p>
+<br/>564<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>30 978,40</p>
+<br/>31 181,92<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>563</p>
+<br/>565<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>31 033,52</p>
+<br/>31 237,21<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>564</p>
+<br/>566<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>31 088,64</p>
+<br/>31 292,50<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>565</p>
+<br/>567<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>31 143,76</p>
+<br/>31 347,79<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>566</p>
+<br/>568<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>31 198,88</p>
+<br/>31 403,07<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>567</p>
+<br/>569<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>31 254,00</p>
+<br/>31 458,36<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>568</p>
+<br/>570<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>31 309,13</p>
+<br/>31 513,65<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>569</p>
+<br/>571<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>31 364,25</p>
+<br/>31 568,93<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>570</p>
+<br/>572<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>31 419,37</p>
+<br/>31 624,22<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>571</p>
+<br/>573<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>31 474,49</p>
+<br/>31 679,51<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>572</p>
+<br/>574<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>31 529,61</p>
+<br/>31 734,80<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>573</p>
+<br/>575<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>31 584,73</p>
+<br/>31 790,08<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>574</p>
+<br/>576<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>31 639,86</p>
+<br/>31 845,37<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>575</p>
+<br/>577<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>31 694,98</p>
+<br/>31 900,66<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>576</p>
+<br/>578<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>31 750,10</p>
+<br/>31 955,94<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>577</p>
+<br/>579<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>31 805,22</p>
+<br/>32 011,23<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>578</p>
+<br/>580<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>31 860,34</p>
+<br/>32 066,52<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>579</p>
+<br/>581<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>31 915,46</p>
+<br/>32 121,81<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>580</p>
+<br/>582<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>31 970,59</p>
+<br/>32 177,09<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>581</p>
+<br/>583<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>32 025,71</p>
+<br/>32 232,38<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>582</p>
+<br/>584<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>32 080,83</p>
+<br/>32 287,67<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>583</p>
+<br/>585<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>32 135,95</p>
+<br/>32 342,95<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>584</p>
+<br/>586<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>32 191,07</p>
+<br/>32 398,24<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>585</p>
+<br/>587<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>32 246,19</p>
+<br/>32 453,53<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>586</p>
+<br/>588<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>32 301,32</p>
+<br/>32 508,81<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>587</p>
+<br/>589<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>32 356,44</p>
+<br/>32 564,10<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>588</p>
+<br/>590<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>32 411,56</p>
+<br/>32 619,39<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>589</p>
+<br/>591<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>32 466,68</p>
+<br/>32 674,68<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>590</p>
+<br/>592<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>32 521,80</p>
+<br/>32 729,96<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>591</p>
+<br/>593<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>32 576,92</p>
+<br/>32 785,25<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>592</p>
+<br/>594<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>32 632,05</p>
+<br/>32 840,54<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>593</p>
+<br/>595<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>32 687,17</p>
+<br/>32 895,82<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>594</p>
+<br/>596<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>32 742,29</p>
+<br/>32 951,11<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>595</p>
+<br/>597<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>32 797,41</p>
+<br/>33 006,40<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>596</p>
+<br/>598<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>32 852,53</p>
+<br/>33 061,69<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>597</p>
+<br/>599<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>32 907,65</p>
+<br/>33 116,97<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>598</p>
+<br/>600<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>32 962,78</p>
+<br/>33 172,26<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>599</p>
+<br/>601<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>33 017,90</p>
+<br/>33 227,55<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>600</p>
+<br/>602<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>33 073,02</p>
+<br/>33 282,83<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>601</p>
+<br/>603<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>33 128,14</p>
+<br/>33 338,12<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>602</p>
+<br/>604<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>33 183,26</p>
+<br/>33 393,41<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>603</p>
+<br/>605<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>33 238,39</p>
+<br/>33 448,70<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>604</p>
+<br/>606<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>33 293,51</p>
+<br/>33 503,98<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>605</p>
+<br/>607<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>33 348,63</p>
+<br/>33 559,27<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>606</p>
+<br/>608<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>33 403,75</p>
+<br/>33 614,56<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>607</p>
+<br/>609<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>33 458,87</p>
+<br/>33 669,84<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>608</p>
+<br/>610<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>33 513,99</p>
+<br/>33 725,13<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>609</p>
+<br/>611<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>33 569,12</p>
+<br/>33 780,42<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>610</p>
+<br/>612<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>33 624,24</p>
+<br/>33 835,71<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>611</p>
+<br/>613<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>33 679,36</p>
+<br/>33 890,99<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>612</p>
+<br/>614<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>33 734,48</p>
+<br/>33 946,28<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>613</p>
+<br/>615<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>33 789,60</p>
+<br/>34 001,57<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>614</p>
+<br/>616<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>33 844,72</p>
+<br/>34 056,85<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>615</p>
+<br/>617<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>33 899,85</p>
+<br/>34 112,14<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>616</p>
+<br/>618<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>33 954,97</p>
+<br/>34 167,43<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>617</p>
+<br/>619<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>34 010,09</p>
+<br/>34 222,71<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>618</p>
+<br/>620<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>34 065,21</p>
+<br/>34 278,00<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>619</p>
+<br/>621<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>34 120,33</p>
+<br/>34 333,29<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>620</p>
+<br/>622<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>34 175,45</p>
+<br/>34 388,58<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>621</p>
+<br/>623<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>34 230,58</p>
+<br/>34 443,86<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>622</p>
+<br/>624<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>34 285,70</p>
+<br/>34 499,15<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>623</p>
+<br/>625<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>34 340,82</p>
+<br/>34 554,44<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>624</p>
+<br/>626<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>34 395,94</p>
+<br/>34 609,72<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>625</p>
+<br/>627<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>34 451,06</p>
+<br/>34 665,01<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>626</p>
+<br/>628<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>34 506,18</p>
+<br/>34 720,30<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>627</p>
+<br/>629<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>34 561,31</p>
+<br/>34 775,59<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>628</p>
+<br/>630<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>34 616,43</p>
+<br/>34 830,87<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>629</p>
+<br/>631<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>34 671,55</p>
+<br/>34 886,16<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>630</p>
+<br/>632<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>34 726,67</p>
+<br/>34 941,45<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>631</p>
+<br/>633<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>34 781,79</p>
+<br/>34 996,73<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>632</p>
+<br/>634<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>34 836,91</p>
+<br/>35 052,02<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>633</p>
+<br/>635<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>34 892,04</p>
+<br/>35 107,31<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>634</p>
+<br/>636<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>34 947,16</p>
+<br/>35 162,60<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>635</p>
+<br/>637<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>35 002,28</p>
+<br/>35 217,88<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>636</p>
+<br/>638<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>35 057,40</p>
+<br/>35 273,17<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>637</p>
+<br/>639<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>35 112,52</p>
+<br/>35 328,46<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>638</p>
+<br/>640<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>35 167,64</p>
+<br/>35 383,74<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>639</p>
+<br/>641<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>35 222,77</p>
+<br/>35 439,03<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>640</p>
+<br/>642<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>35 277,89</p>
+<br/>35 494,32<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>641</p>
+<br/>643<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>35 333,01</p>
+<br/>35 549,61<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>642</p>
+<br/>644<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>35 388,13</p>
+<br/>35 604,89<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>643</p>
+<br/>645<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>35 443,25</p>
+<br/>35 660,18<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>644</p>
+<br/>646<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>35 498,37</p>
+<br/>35 715,47<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>645</p>
+<br/>647<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>35 553,50</p>
+<br/>35 770,75<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>646</p>
+<br/>648<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>35 608,62</p>
+<br/>35 826,04<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>647</p>
+<br/>649<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>35 663,74</p>
+<br/>35 881,33<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>648</p>
+<br/>650<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>35 718,86</p>
+<br/>35 936,62<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>649</p>
+<br/>651<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>35 773,98</p>
+<br/>35 991,90<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>650</p>
+<br/>652<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>35 829,11</p>
+<br/>36 047,19<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>651</p>
+<br/>653<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>35 884,23</p>
+<br/>36 102,48<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>652</p>
+<br/>654<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>35 939,35</p>
+<br/>36 157,76<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>653</p>
+<br/>655<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>35 994,47</p>
+<br/>36 213,05<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>654</p>
+<br/>656<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>36 049,59</p>
+<br/>36 268,34<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>655</p>
+<br/>657<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>36 104,71</p>
+<br/>36 323,62<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>656</p>
+<br/>658<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>36 159,84</p>
+<br/>36 378,91<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>657</p>
+<br/>659<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>36 214,96</p>
+<br/>36 434,20<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>658</p>
+<br/>660<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>36 270,08</p>
+<br/>36 489,49<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>659</p>
+<br/>661<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>36 325,20</p>
+<br/>36 544,77<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>660</p>
+<br/>662<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>36 380,32</p>
+<br/>36 600,06<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>661</p>
+<br/>663<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>36 435,44</p>
+<br/>36 655,35<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>662</p>
+<br/>664<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>36 490,57</p>
+<br/>36 710,63<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>663</p>
+<br/>665<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>36 545,69</p>
+<br/>36 765,92<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>664</p>
+<br/>666<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>36 600,81</p>
+<br/>36 821,21<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>665</p>
+<br/>667<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>36 655,93</p>
+<br/>36 876,50<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>666</p>
+<br/>668<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>36 711,05</p>
+<br/>36 931,78<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>667</p>
+<br/>669<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>36 766,17</p>
+<br/>36 987,07<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>668</p>
+<br/>670<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>36 821,30</p>
+<br/>37 042,36<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>669</p>
+<br/>671<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>36 876,42</p>
+<br/>37 097,64<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>670</p>
+<br/>672<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>36 931,54</p>
+<br/>37 152,93<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>671</p>
+<br/>673<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>36 986,66</p>
+<br/>37 208,22<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>672</p>
+<br/>674<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>37 041,78</p>
+<br/>37 263,51<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>673</p>
+<br/>675<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>37 096,90</p>
+<br/>37 318,79<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>674</p>
+<br/>676<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>37 152,03</p>
+<br/>37 374,08<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>675</p>
+<br/>677<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>37 207,15</p>
+<br/>37 429,37<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>676</p>
+<br/>678<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>37 262,27</p>
+<br/>37 484,65<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>677</p>
+<br/>679<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>37 317,39</p>
+<br/>37 539,94<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>678</p>
+<br/>680<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>37 372,51</p>
+<br/>37 595,23<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>679</p>
+<br/>681<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>37 427,63</p>
+<br/>37 650,52<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>680</p>
+<br/>682<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>37 482,76</p>
+<br/>37 705,80<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>681</p>
+<br/>683<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>37 537,88</p>
+<br/>37 761,09<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>682</p>
+<br/>684<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>37 593,00</p>
+<br/>37 816,38<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>683</p>
+<br/>685<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>37 648,12</p>
+<br/>37 871,66<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>684</p>
+<br/>686<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>37 703,24</p>
+<br/>37 926,95<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>685</p>
+<br/>687<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>37 758,36</p>
+<br/>37 982,24<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>686</p>
+<br/>688<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>37 813,49</p>
+<br/>38 037,52<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>687</p>
+<br/>689<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>37 868,61</p>
+<br/>38 092,81<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>688</p>
+<br/>690<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>37 923,73</p>
+<br/>38 148,10<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>689</p>
+<br/>691<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>37 978,85</p>
+<br/>38 203,39<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>690</p>
+<br/>692<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>38 033,97</p>
+<br/>38 258,67<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>691</p>
+<br/>693<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>38 089,09</p>
+<br/>38 313,96<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>692</p>
+<br/>694<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>38 144,22</p>
+<br/>38 369,25<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>693</p>
+<br/>695<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>38 199,34</p>
+<br/>38 424,53<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>694</p>
+<br/>696<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>38 254,46</p>
+<br/>38 479,82<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>695</p>
+<br/>697<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>38 309,58</p>
+<br/>38 535,11<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>696</p>
+<br/>698<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>38 364,70</p>
+<br/>38 590,40<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>697</p>
+<br/>699<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>38 419,82</p>
+<br/>38 645,68<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>698</p>
+<br/>700<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>38 474,95</p>
+<br/>38 700,97<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>699</p>
+<br/>701<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>38 530,07</p>
+<br/>38 756,26<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>700</p>
+<br/>702<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>38 585,19</p>
+<br/>38 811,54<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>701</p>
+<br/>703<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>38 640,31</p>
+<br/>38 866,83<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>702</p>
+<br/>704<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>38 695,43</p>
+<br/>38 922,12<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>703</p>
+<br/>705<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>38 750,56</p>
+<br/>38 977,41<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>704</p>
+<br/>706<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>38 805,68</p>
+<br/>39 032,69<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>705</p>
+<br/>707<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>38 860,80</p>
+<br/>39 087,98<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>706</p>
+<br/>708<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>38 915,92</p>
+<br/>39 143,27<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>707</p>
+<br/>709<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>38 971,04</p>
+<br/>39 198,55<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>708</p>
+<br/>710<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>39 026,16</p>
+<br/>39 253,84<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>709</p>
+<br/>711<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>39 081,29</p>
+<br/>39 309,13<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>710</p>
+<br/>712<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>39 136,41</p>
+<br/>39 364,42<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>711</p>
+<br/>713<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>39 191,53</p>
+<br/>39 419,70<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>712</p>
+<br/>714<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>39 246,65</p>
+<br/>39 474,99<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>713</p>
+<br/>715<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>39 301,77</p>
+<br/>39 530,28<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>714</p>
+<br/>716<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>39 356,89</p>
+<br/>39 585,56<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>715</p>
+<br/>717<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>39 412,02</p>
+<br/>39 640,85<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>716</p>
+<br/>718<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>39 467,14</p>
+<br/>39 696,14<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>717</p>
+<br/>719<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>39 522,26</p>
+<br/>39 751,42<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>718</p>
+<br/>720<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>39 577,38</p>
+<br/>39 806,71<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>719</p>
+<br/>721<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>39 632,50</p>
+<br/>39 862,00<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>720</p>
+<br/>722<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>39 687,62</p>
+<br/>39 917,29<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>721</p>
+<br/>723<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>39 742,75</p>
+<br/>39 972,57<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>722</p>
+<br/>724<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>39 797,87</p>
+<br/>40 027,86<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>723</p>
+<br/>725<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>39 852,99</p>
+<br/>40 083,15<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>724</p>
+<br/>726<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>39 908,11</p>
+<br/>40 138,43<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>725</p>
+<br/>727<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>39 963,23</p>
+<br/>40 193,72<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>726</p>
+<br/>728<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>40 018,35</p>
+<br/>40 249,01<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>727</p>
+<br/>729<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>40 073,48</p>
+<br/>40 304,30<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>728</p>
+<br/>730<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>40 128,60</p>
+<br/>40 359,58<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>729</p>
+<br/>731<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>40 183,72</p>
+<br/>40 414,87<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>730</p>
+<br/>732<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>40 238,84</p>
+<br/>40 470,16<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>731</p>
+<br/>733<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>40 293,96</p>
+<br/>40 525,44<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>732</p>
+<br/>734<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>40 349,08</p>
+<br/>40 580,73<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>733</p>
+<br/>735<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>40 404,21</p>
+<br/>40 636,02<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>734</p>
+<br/>736<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>40 459,33</p>
+<br/>40 691,31<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>735</p>
+<br/>737<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>40 514,45</p>
+<br/>40 746,59<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>736</p>
+<br/>738<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>40 569,57</p>
+<br/>40 801,88<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>737</p>
+<br/>739<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>40 624,69</p>
+<br/>40 857,17<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>738</p>
+<br/>740<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>40 679,81</p>
+<br/>40 912,45<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>739</p>
+<br/>741<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>40 734,94</p>
+<br/>40 967,74<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>740</p>
+<br/>742<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>40 790,06</p>
+<br/>41 023,03<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>741</p>
+<br/>743<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>40 845,18</p>
+<br/>41 078,32<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>742</p>
+<br/>744<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>40 900,30</p>
+<br/>41 133,60<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>743</p>
+<br/>745<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>40 955,42</p>
+<br/>41 188,89<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>744</p>
+<br/>746<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>41 010,54</p>
+<br/>41 244,18<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>745</p>
+<br/>747<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>41 065,67</p>
+<br/>41 299,46<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>746</p>
+<br/>748<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>41 120,79</p>
+<br/>41 354,75<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>747</p>
+<br/>749<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>41 175,91</p>
+<br/>41 410,04<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>748</p>
+<br/>750<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>41 231,03</p>
+<br/>41 465,33<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>749</p>
+<br/>751<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>41 286,15</p>
+<br/>41 520,61<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>750</p>
+<br/>752<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>41 341,28</p>
+<br/>41 575,90<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>751</p>
+<br/>753<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>41 396,40</p>
+<br/>41 631,19<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>752</p>
+<br/>754<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>41 451,52</p>
+<br/>41 686,47<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>753</p>
+<br/>755<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>41 506,64</p>
+<br/>41 741,76<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>754</p>
+<br/>756<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>41 561,76</p>
+<br/>41 797,05<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>755</p>
+<br/>757<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>41 616,88</p>
+<br/>41 852,33<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>756</p>
+<br/>758<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>41 672,01</p>
+<br/>41 907,62<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>757</p>
+<br/>759<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>41 727,13</p>
+<br/>41 962,91<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>758</p>
+<br/>760<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>41 782,25</p>
+<br/>42 018,20<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>759</p>
+<br/>761<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>41 837,37</p>
+<br/>42 073,48<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>760</p>
+<br/>762<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>41 892,49</p>
+<br/>42 128,77<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>761</p>
+<br/>763<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>41 947,61</p>
+<br/>42 184,06<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>762</p>
+<br/>764<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>42 002,74</p>
+<br/>42 239,34<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>763</p>
+<br/>765<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>42 057,86</p>
+<br/>42 294,63<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>764</p>
+<br/>766<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>42 112,98</p>
+<br/>42 349,92<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>765</p>
+<br/>767<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>42 168,10</p>
+<br/>42 405,21<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>766</p>
+<br/>768<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>42 223,22</p>
+<br/>42 460,49<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>767</p>
+<br/>769<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>42 278,34</p>
+<br/>42 515,78<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>768</p>
+<br/>770<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>42 333,47</p>
+<br/>42 571,07<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>769</p>
+<br/>771<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>42 388,59</p>
+<br/>42 626,35<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>770</p>
+<br/>772<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>42 443,71</p>
+<br/>42 681,64<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>771</p>
+<br/>773<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>42 498,83</p>
+<br/>42 736,93<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>772</p>
+<br/>774<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>42 553,95</p>
+<br/>42 792,22<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>773</p>
+<br/>775<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>42 609,07</p>
+<br/>42 847,50<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>774</p>
+<br/>776<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>42 664,20</p>
+<br/>42 902,79<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>775</p>
+<br/>777<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>42 719,32</p>
+<br/>42 958,08<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>776</p>
+<br/>778<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>42 774,44</p>
+<br/>43 013,36<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>777</p>
+<br/>779<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>42 829,56</p>
+<br/>43 068,65<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>778</p>
+<br/>780<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>42 884,68</p>
+<br/>43 123,94<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>779</p>
+<br/>781<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>42 939,80</p>
+<br/>43 179,23<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>780</p>
+<br/>782<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>42 994,93</p>
+<br/>43 234,51<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>781</p>
+<br/>783<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>43 050,05</p>
+<br/>43 289,80<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>782</p>
+<br/>784<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>43 105,17</p>
+<br/>43 345,09<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>786</p>
+<br/>785<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>43 325,66</p>
+<br/>43 400,37<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>787</p>
+<br/>786<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>43 380,78</p>
+<br/>43 455,66<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>787</p>
+<br/>787<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>43 435,90</p>
+<br/>43 510,95<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>788</p>
+<br/>788<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>43 435,90</p>
+<br/>43 566,23<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>789</p>
+<br/>789<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>43 491,02</p>
+<br/>43 621,52<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>789</p>
+<br/>790<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>43 546,14</p>
+<br/>43 676,81<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>791</p>
+<br/>791<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>43 601,26</p>
+<br/>43 732,10<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>792</p>
+<br/>792<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>43 656,39</p>
+<br/>43 787,38<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>793</p>
+<br/>793<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>43 711,51</p>
+<br/>43 842,67<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>794</p>
+<br/>794<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>43 766,63</p>
+<br/>43 897,96<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>795</p>
+<br/>795<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>43 821,75</p>
+<br/>43 953,24<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>796</p>
+<br/>796<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>43 876,87</p>
+<br/>44 008,53<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>797</p>
+<br/>797<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>43 931,99</p>
+<br/>44 063,82<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>798</p>
+<br/>798<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>43 987,12</p>
+<br/>44 119,11<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>799</p>
+<br/>799<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>44 042,24</p>
+<br/>44 174,39<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>800</p>
+<br/>800<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>44 097,36</p>
+<br/>44 229,68<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>801</p>
+<br/>801<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>44 152,48</p>
+<br/>44 284,97<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>802</p>
+<br/>802<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>44 207,60</p>
+<br/>44 340,25<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>803</p>
+<br/>803<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>44 262,73</p>
+<br/>44 395,54<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>804</p>
+<br/>804<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>44 315,85</p>
+<br/>44 450,83<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>805</p>
+<br/>805<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>44 372,97</p>
+<br/>44 506,12<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>806</p>
+<br/>806<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>44 428,09</p>
+<br/>44 561,40<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>807</p>
+<br/>807<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>44 483,21</p>
+<br/>44 616,69<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>808</p>
+<br/>808<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>44 538,33</p>
+<br/>44 671,98<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>809</p>
+<br/>809<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>44 593,46</p>
+<br/>44 727,26<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>810</p>
+<br/>810<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>44 648,58</p>
+<br/>44 782,55<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>811</p>
+<br/>811<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>44 703,70</p>
+<br/>44 837,84<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>812</p>
+<br/>812<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>44 758,82</p>
+<br/>44 893,13<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>813</p>
+<br/>813<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>44 813,94</p>
+<br/>44 948,41<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>814</p>
+<br/>814<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>44 869,06</p>
+<br/>45 003,70<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>815</p>
+<br/>815<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>44 924,19</p>
+<br/>45 058,99<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>816</p>
+<br/>816<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>44 979,31</p>
+<br/>45 114,27<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>817</p>
+<br/>817<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>45 034,43</p>
+<br/>45 169,56<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>818</p>
+<br/>818<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>45 089,55</p>
+<br/>45 224,85<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>819</p>
+<br/>819<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>45 144,67</p>
+<br/>45 280,13<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>820</p>
+<br/>820<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>45 199,79</p>
+<br/>45 335,42<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">
-<br/>821</p>
+<br/>821<br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>45 254,92</p>
+<br/>45 390,71<br/>
 </td>
 </tr>
 </tbody>
