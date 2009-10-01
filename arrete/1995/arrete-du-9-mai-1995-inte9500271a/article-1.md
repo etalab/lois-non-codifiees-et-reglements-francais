@@ -22,13 +22,13 @@ Fonctions relevant des armées et des services communs
 </tr>
 <tr>
 <td valign="top" width="265">
-<p>Adjoint au chef de bureau, de service ou de centre en organisme ministériel ou interarmées </p>
+<p>Adjoint à un chef de bureau, de service ou de centre en organisme ministériel ou interarmées</p>
 </td>
 <td width="113">
 <p align="center">Officier </p>
 </td>
 <td width="113">
-<p align="center">5 </p>
+<p align="center">6</p>
 </td>
 <td width="113">
 <p align="center">20 </p>
@@ -77,7 +77,7 @@ Fonctions relevant de l'armée de terre
 <p align="center">Officier </p>
 </td>
 <td width="113">
-<p align="center">3 </p>
+<p align="center">2 </p>
 </td>
 <td width="113">
 <p align="center">30 </p>
@@ -91,7 +91,7 @@ Fonctions relevant de l'armée de terre
 <p align="center">Officier </p>
 </td>
 <td width="113">
-<p align="center">6 </p>
+<p align="center">7</p>
 </td>
 <td width="113">
 <p align="center">30 </p>
@@ -105,7 +105,7 @@ Fonctions relevant de l'armée de terre
 <p align="center">Officier </p>
 </td>
 <td width="113">
-<p align="center">3 </p>
+<p align="center">2 </p>
 </td>
 <td width="113">
 <p align="center">10 </p>
@@ -113,13 +113,13 @@ Fonctions relevant de l'armée de terre
 </tr>
 <tr>
 <td valign="top" width="265">
-<p>Chef de service et chef du bureau opérations dans une formation </p>
+<p>Chef de service et chef du bureau "opérations" dans une formation </p>
 </td>
 <td width="113">
 <p align="center">Officier </p>
 </td>
 <td width="113">
-<p align="center">9 </p>
+<p align="center">10 </p>
 </td>
 <td width="113">
 <p align="center">10 </p>
@@ -133,7 +133,7 @@ Fonctions relevant de l'armée de terre
 <p align="center">Officier </p>
 </td>
 <td width="113">
-<p align="center">10 </p>
+<p align="center">11 </p>
 </td>
 <td width="113">
 <p align="center">20 </p>
@@ -147,7 +147,7 @@ Fonctions relevant de l'armée de terre
 <p align="center">Officier ou sous-officier </p>
 </td>
 <td width="113">
-<p align="center">35 </p>
+<p align="center">37 </p>
 </td>
 <td width="113">
 <p align="center">10 </p>
@@ -164,20 +164,6 @@ Fonctions relevant de l'armée de terre
 <p align="center">1 </p>
 </td>
 <td width="113">
-<p align="center">20 </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="265">
-<p>Chef de section en administration centrale ou en organisme ministériel </p>
-</td>
-<td width="113">
-<p align="center">Officier ou sous-officier </p>
-</td>
-<td width="113">
-<p align="center">2 </p>
-</td>
-<td width="113">
 <p align="center">10 </p>
 </td>
 </tr>
@@ -189,10 +175,10 @@ Fonctions relevant de l'armée de terre
 <p align="center">Officier ou sous-officier </p>
 </td>
 <td width="113">
-<p align="center">3 </p>
+<p align="center">1 </p>
 </td>
 <td width="113">
-<p align="center">20 </p>
+<p align="center">10 </p>
 </td>
 </tr>
 <tr>
@@ -203,7 +189,7 @@ Fonctions relevant de l'armée de terre
 <p align="center">Officier ou sous-officier </p>
 </td>
 <td width="113">
-<p align="center">2 </p>
+<p align="center">4</p>
 </td>
 <td width="113">
 <p align="center">10</p>
