@@ -32,9 +32,9 @@ c) Epreuve de gestion et administration des entreprises : composition sur un ou 
 
 d) Epreuve de géographie économique et humaine : composition sur un ou plusieurs sujets donnés et / ou un commentaire d'un ou plusieurs textes.
 
-Epreuve n° 4 (facultative). - Les candidats qui désirent subir cette épreuve doivent le préciser lors du dépôt de la demande d'admission à concourir (durée : 2 heures ; coefficient 2).
+Epreuve n° 4 (facultative). - Les candidats qui désirent subir cette épreuve doivent le préciser lors du dépôt de la demande d'admission à concourir (durée : 2 heures, coefficient 2).
 
-Traduction sans dictionnaire, sauf pour l'arabe et le chinois, d'un texte rédigé dans une des langues suivantes : allemand, anglais, arabe, chinois, espagnol ou russe.
+Traduction sans dictionnaire, sauf pour l'arabe et le chinois, d'un texte rédigé dans une des langues suivantes : allemand, anglais, arabe, chinois, espagnol, italien ou russe.
 
 II. - Epreuves orales d'admission
 
@@ -44,7 +44,7 @@ Epreuve n° 2. - Epreuve orale de finances et gestion publiques (durée : 30 min
 
 Epreuve n° 3. - Interrogation de langue étrangère consistant dans la traduction orale en français d'un texte écrit dans la langue étrangère choisie, suivie d'une conversation dans la même langue (durée totale de l'interrogation : 15 minutes, sans préparation ; coefficient 3).
 
-Les candidats ont le choix entre les langues suivantes : allemand, anglais, arabe, chinois, espagnol ou russe.
+Les candidats ont le choix entre les langues suivantes : allemand, anglais, arabe, chinois, espagnol, italien ou russe.
 
 Toutefois, la langue choisie pour cette épreuve doit être différente de celle que le candidat a éventuellement choisie pour l'épreuve écrite d'admissibilité n° 4.
 
@@ -64,9 +64,9 @@ b) Epreuve de cas pratique de comptabilité générale ;
 
 c) Epreuve de cas pratique de gestion des administrations.
 
-Epreuve n° 3 (facultative). - Les candidats qui désirent subir cette épreuve doivent le préciser lors du dépôt de la demande d'admission à concourir (durée : 2 heures ; coefficient 2).
+Epreuve n° 3 (facultative). - Les candidats qui désirent subir cette épreuve doivent le préciser lors du dépôt de la demande d'admission à concourir (durée : 2 heures, coefficient 2).
 
-Traduction sans dictionnaire, sauf pour l'arabe et le chinois, d'un texte rédigé dans une des langues suivantes : allemand, anglais, arabe, chinois, espagnol ou russe.
+Traduction sans dictionnaire, sauf pour l'arabe et le chinois, d'un texte rédigé dans une des langues suivantes : allemand, anglais, arabe, chinois, espagnol, italien ou russe.
 
 II. - Epreuves orales d'admission
 
@@ -74,8 +74,8 @@ Epreuve n° 1. - Entretien, sur la base d'une fiche de parcours professionnel et
 
 Epreuve n° 2. - Epreuve de finances et gestion publiques (durée : 30 minutes après une préparation de 10 minutes ; coefficient 3).
 
-Epreuve n° 3. - Interrogation de langue étrangère consistant dans la traduction orale en français d'un texte écrit dans la langue étrangère choisie, suivie d'une conversation dans la même langue (durée totale de l'interrogation : 15 minutes, sans préparation ; coefficient 3).
+Epreuve n° 3. - Interrogation de langue étrangère consistant dans la traduction orale en français d'un texte écrit dans la langue étrangère choisie, suivie d'une conversation dans la même langue (durée totale de l'interrogation : 15 minutes, sans préparation, coefficient 3).
 
-Les candidats ont le choix entre les langues suivantes : allemand, anglais, arabe, chinois, espagnol ou russe.
+Les candidats ont le choix entre les langues suivantes : allemand, anglais, arabe, chinois, espagnol, italien ou russe.
 
 Toutefois, la langue choisie pour cette épreuve doit être différente de celle que le candidat a éventuellement choisie pour l'épreuve écrite d'admissibilité n° 3.
