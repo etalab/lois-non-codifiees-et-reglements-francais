@@ -1,5 +1,7 @@
 # Article 223-34
 
-Les sections 10 et 11 du chapitre Ier du titre III du présent livre et les dispositions relatives aux interventions sur le marché des titres concernés par une offre publique s'appliquent dès la publication de la déclaration d'intention mentionnée à l'article 223-33. Elles cessent de s'appliquer lorsque la société annonce avoir renoncé à son projet ou lorsqu'un projet d'offre n'a pas été déposé dans le délai mentionné à l'article 223-33.
+Lorsqu'en application des articles 223-6 ou 223-33, une personne porte à la connaissance du public les caractéristiques d'un projet d'offre, notamment la nature de l'offre et le prix ou la parité envisagée, elle en informe immédiatement l'AMF ; l'AMF en informe le marché par une publication. Cette publication marque le début de la période de préoffre telle que définie à l'article 231-1 (5°).
 
-Les dispositions du premier alinéa sont également applicables entre l'annonce des caractéristiques d'un projet d'offre faite en application des articles 223-6 et 223-33 et le dépôt de celui-ci.
+Lorsque la personne mentionnée au premier alinéa renonce à son projet d'offre, elle en informe immédiatement l'AMF.
+
+Dans le cas visé à l'alinéa précédent, ou lorsqu'un projet d'offre n'a pas été déposé dans le délai mentionné à l'article 223-33, l'AMF informe le marché par une publication.

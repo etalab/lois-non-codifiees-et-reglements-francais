@@ -1,5 +1,7 @@
 # Article 232-4
 
-Si l'offre connaît une suite positive, elle est réouverte dans les dix jours de négociation suivant la publication du résultat définitif.
+Sauf si elle ne connaît pas une suite positive, toute offre réalisée selon la procédure normale est réouverte dans les dix jours de négociation suivant la publication du résultat définitif.
 
-L'AMF publie le calendrier de réouverture de l'offre qui dure au moins dix jours de négociation. Cette publication marque le début d'une nouvelle période d'offre qui s'achève à la publication des résultats.
+La garantie du caractère irrévocable des engagements de l'initiateur, mentionnée à l'article 231-13, concerne également la réouverture de l'offre.
+
+L'AMF publie le calendrier de réouverture de l'offre qui dure au moins dix jours de négociation.

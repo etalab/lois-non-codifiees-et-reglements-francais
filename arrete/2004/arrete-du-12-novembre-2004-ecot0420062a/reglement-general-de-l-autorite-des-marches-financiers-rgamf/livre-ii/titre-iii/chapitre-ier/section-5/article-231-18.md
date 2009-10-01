@@ -34,7 +34,9 @@ g) Les conditions de financement de l'opération et leurs incidences sur les act
 
 9° S'il y a lieu, le rapport de l'expert indépendant mentionné à l'article 261-3 ;
 
-10° Les modalités de mise à disposition des informations mentionnées à l'article 231-28.
+10° Les modalités de mise à disposition des informations mentionnées à l'article 231-28 ;
+
+11° Les modalités précises selon lesquelles seront acquis les instruments financiers de la société visée et, le cas échant, l'identité du prestataire de services d'investissement désigné pour les acquérir pour le compte de l'initiateur.
 
 La note d'information comporte la signature de l'initiateur ou de son représentant légal attestant l'exactitude des informations figurant dans la note.
 

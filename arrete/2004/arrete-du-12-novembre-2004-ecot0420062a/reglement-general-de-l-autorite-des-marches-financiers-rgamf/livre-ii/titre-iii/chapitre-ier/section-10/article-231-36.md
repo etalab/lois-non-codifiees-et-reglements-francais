@@ -1,6 +1,6 @@
 # Article 231-36
 
-Les personnes concernées, leurs dirigeants et leurs conseils doivent faire preuve d'une vigilance particulière dans leurs déclarations.
+Les personnes concernées par l'offre, leurs dirigeants et leurs conseils doivent faire preuve d'une vigilance particulière dans leurs déclarations.
 
 Les communications à caractère promotionnel, quels que soient leur forme et leur mode de diffusion, sont communiquées à l'AMF préalablement à leur diffusion.
 
@@ -15,3 +15,5 @@ Ces communications doivent :
 4° Etre cohérentes avec les informations contenues dans les communiqués, la note d'information ou la note en réponse ;
 
 5° Le cas échéant, comporter, à la demande de l'AMF, un avertissement sur certaines caractéristiques exceptionnelles de l'initiateur, de la société visée ou des instruments financiers qui font l'objet de l'offre.
+
+Les dispositions du présent article s'appliquent également pendant la période de préoffre.
