@@ -4,11 +4,11 @@ Les cours, les travaux dirigés et les séances de travaux pratiques sont rémun
 
 a) Dispositions générales :
 
-Cours : 60, 86 euros ;
+Cours : 61, 05 euros ;
 
-Travaux dirigés : 40, 58 euros ;
+Travaux dirigés : 40, 70 euros ;
 
-Travaux pratiques : 27, 05 euros.
+Travaux pratiques : 27, 13 euros.
 
 b) Cours de capacité des disciplines juridiques, politiques, économiques et de gestion.
 

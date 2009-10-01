@@ -1,100 +1,71 @@
 # Article Annexe Maine-et-Loire
 
-<font size="1">Direction départementale de l'équipement de Maine-et-Loire </font>
-
-<font size="1"/>
+Direction départementale de l'équipement et de l'agriculture (2) de Maine-et-Loire
 
 <table>
 <tbody>
 <tr>
-<th>
-<br/>
-<font size="1">FONCTIONS EXERCÉES <br/>
-</font>
-</th>
-<th>
-<br/>
-<font size="1">NIVEAU DE QUALIFICATION <br/>
-<br/>de l'emploi <br/>
-</font>
-</th>
-<th>
-<br/>
-<font size="1">NOMBRE D'EMPLOIS <br/>
-</font>
-</th>
-<th>
-<br/>
-<font size="1">NOMBRE DE POINTS <br/>
-<br/>par emploi <br/>
-</font>
-</th>
+<td>
+<p align="center">FONCTIONS EXERCEES</p>
+</td>
+<td>
+<p align="center">NIVEAU<br/>de qualification de l'emploi</p>
+</td>
+<td>
+<p align="center">NOMBRE <br/>d'emplois</p>
+</td>
+<td>
+<p align="center">NOMBRE DE POINTS (IM)<br/>par emploi</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<font size="1">Mise en œuvre de la politique sociale du logement et de l'habitat. Chargé de la mise en œuvre du droit opposable au logement <br/>
-</font>
+<td>
+<p align="left">Mise en œuvre de la politique sociale du logement et de l'habitat. Chargé de la mise en œuvre du droit opposable au logement.<br/>
+</p>
 </td>
 <td align="center">
-<br/>
-<font size="1">A <br/>
-</font>
+<br/>A <br/>
 </td>
 <td align="center">
-<br/>
-<font size="1">1 <br/>
-</font>
+<br/>1 <br/>
 </td>
 <td align="center">
-<br/>
-<font size="1">50 <br/>
-</font>
+<br/>50 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>
-<font size="1">Chargé de la mise en œuvre de la politique du logement social, du suivi du conventionnement et des bailleurs sociaux <br/>
-</font>
+<p align="left">Chargé de la mise en œuvre de la politique du logement social et des études et observations des territoires urbains.<br/>
+</p>
 </td>
 <td align="center">
-<br/>
-<font size="1">A <br/>
-</font>
+<br/>A <br/>
 </td>
 <td align="center">
-<br/>
-<font size="1">1 <br/>
-</font>
+<br/>1 <br/>
 </td>
 <td align="center">
-<br/>
-<font size="1">50 <br/>
-</font>
+<br/>50 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>
-<font size="1">Mise en œuvre de la politique de la ville. Chargé de la rénovation urbaine <br/>
-</font>
+<p align="left">Mise en œuvre de la politique de la ville. Chargé de la rénovation urbaine.<br/>
+</p>
 </td>
 <td align="center">
-<br/>
-<font size="1">A <br/>
-</font>
+<br/>A <br/>
 </td>
 <td align="center">
-<br/>
-<font size="1">1 <br/>
-</font>
+<br/>1 <br/>
 </td>
 <td align="center">
-<br/>
-<font size="1">50<br/>
-</font>
+<br/>50<br/>
 </td>
 </tr>
 </tbody>
 </table>
+
+<font size="1"/>
+
+<div align="left"/>

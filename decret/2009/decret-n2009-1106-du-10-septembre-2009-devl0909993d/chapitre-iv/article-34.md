@@ -1,0 +1,7 @@
+# Article 34
+
+I. ― Par dérogation aux dispositions de l'article 7 du décret du 28 mai 1982 susvisé, le mandat des membres de la commission administrative paritaire du corps des ingénieurs du génie rural, des eaux et des forêts et celui des membres de la commission administrative paritaire du corps des ingénieurs des ponts et chaussées sont prorogés pour une durée maximale d'un an.
+
+II. ― A compter de l'entrée en vigueur du présent décret et jusqu'à la constitution de la commission administrative paritaire du corps des ingénieurs des ponts, des eaux et des forêts, qui interviendra dans un délai d'un an à compter de la date d'entrée en vigueur du présent décret, les représentants aux commissions administratives paritaires des ingénieurs du génie rural, des eaux et des forêts et des ingénieurs des ponts et chaussées siègent en formation commune.
+
+III. ― A cet effet, les représentants des grades d'ingénieur exercent les compétences des représentants du nouveau grade d'ingénieur, les représentants des grades d'ingénieur en chef exercent les compétences des représentants du nouveau grade d'ingénieur en chef et les représentants, d'une part, du grade d'ingénieur général de classe normale et de classe exceptionnelle du génie rural, des eaux et des forêts et, d'autre part, du grade d'ingénieur général des ponts et chaussées exercent les compétences des représentants de la classe normale du nouveau grade d'ingénieur général.

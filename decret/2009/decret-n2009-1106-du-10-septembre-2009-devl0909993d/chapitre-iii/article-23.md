@@ -1,0 +1,3 @@
+# Article 23
+
+Le nombre maximum d'agents appartenant au corps des ingénieurs des ponts, des eaux et des forêts pouvant être promus chaque année au grade d'ingénieur en chef, d'ingénieur général de classe normale et d'ingénieur général de classe exceptionnelle est déterminé par application d'un taux de promotion à l'effectif des agents qui, au 31 décembre de l'année précédant celle au titre de laquelle sont prononcées les promotions, satisfont aux conditions mentionnées aux articles 20 à 22. Le taux de promotion est fixé par arrêté conjoint des ministres chargés de l'agriculture et du développement durable, après avis conforme des ministres chargés de la fonction publique et du budget.
