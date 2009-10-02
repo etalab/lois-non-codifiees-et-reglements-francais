@@ -1,6 +1,6 @@
 # Article 1
 
-Les montants annuels de référence de l'indemnité spéciale prévus à l'article 2 du décret du 26 août 2005 susvisé sont fixés ainsi qu'il suit :
+A compter du 1er janvier 2009, les montants annuels de référence de l'indemnité spéciale prévus à l'article 2 du décret du 26 août 2005 susvisé sont fixés conformément au tableau ci-dessous :
 
 <table>
 <tbody>
@@ -15,10 +15,10 @@ Les montants annuels de référence de l'indemnité spéciale prévus à l'artic
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Adjoint d'administration de 2e class </p>
+<p>Adjoint d'administration de 2e classe </p>
 </td>
 <td width="227">
-<p align="center">1 454, 45 </p>
+<p align="center">1 660, 50 </p>
 </td>
 </tr>
 <tr>
@@ -26,7 +26,7 @@ Les montants annuels de référence de l'indemnité spéciale prévus à l'artic
 <p>Adjoint d'administration de 1re classe </p>
 </td>
 <td width="227">
-<p align="center">1 682, 59 </p>
+<p align="center">1 920, 95 </p>
 </td>
 </tr>
 <tr>
@@ -34,7 +34,7 @@ Les montants annuels de référence de l'indemnité spéciale prévus à l'artic
 <p>Adjoint principal d'administration de 2e classe </p>
 </td>
 <td width="227">
-<p align="center">1 843, 32 </p>
+<p align="center">2 104, 46 </p>
 </td>
 </tr>
 <tr>
@@ -42,7 +42,7 @@ Les montants annuels de référence de l'indemnité spéciale prévus à l'artic
 <p>Adjoint principal d'administration de 1re classe </p>
 </td>
 <td width="227">
-<p align="center">1 843, 32 </p>
+<p align="center">2 104, 46 </p>
 </td>
 </tr>
 <tr>
@@ -50,7 +50,7 @@ Les montants annuels de référence de l'indemnité spéciale prévus à l'artic
 <p>Assistant d'administration de l'aviation civile de classe normale </p>
 </td>
 <td width="227">
-<p align="center">1 898, 77 </p>
+<p align="center">2 167, 76 </p>
 </td>
 </tr>
 <tr>
@@ -58,7 +58,7 @@ Les montants annuels de référence de l'indemnité spéciale prévus à l'artic
 <p>Assistant d'administration de l'aviation civile de classe supérieure </p>
 </td>
 <td width="227">
-<p align="center">2 513, 86 </p>
+<p align="center">2 869, 99 </p>
 </td>
 </tr>
 <tr>
@@ -66,7 +66,7 @@ Les montants annuels de référence de l'indemnité spéciale prévus à l'artic
 <p>Assistant d'administration de l'aviation civile de classe exceptionnelle </p>
 </td>
 <td width="227">
-<p align="center">2 700, 36 </p>
+<p align="center">3 082, 91</p>
 </td>
 </tr>
 </tbody>

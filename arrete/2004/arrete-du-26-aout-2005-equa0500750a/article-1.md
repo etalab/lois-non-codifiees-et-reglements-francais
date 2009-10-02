@@ -1,6 +1,6 @@
 # Article 1
 
-Les montants annuels de l'indemnité de fonction allouée aux personnels appartenant aux corps de catégorie C sont fixés ainsi qu'il suit :
+A compter du 1er janvier 2009, les montants annuels de référence et les montants plafonds de l'indemnité de fonction allouée aux personnels appartenant aux corps de catégorie C de l'aviation civile, prévus à l'article 2 du décret du 26 août 2005 susvisé, sont fixés ainsi qu'il suit :
 
 <table>
 <tbody>
@@ -9,12 +9,12 @@ Les montants annuels de l'indemnité de fonction allouée aux personnels apparte
 <p align="center">GRADES</p>
 </td>
 <td align="left" valign="middle">
-<p align="center">MONTANTS DE RÉFÉRENCE <br/>
-<br/>(en euros)</p>
+<p align="center">MONTANTS DE RÉFÉRENCE </p>
+<p align="center">(en euros)</p>
 </td>
 <td align="left" valign="middle">
-<p align="center">MONTANTS PLAFONDS <br/>
-<br/>(en euros)</p>
+<p align="center">MONTANTS PLAFONDS </p>
+<p align="center">(en euros)</p>
 </td>
 </tr>
 <tr>
@@ -22,10 +22,10 @@ Les montants annuels de l'indemnité de fonction allouée aux personnels apparte
 <p align="left">Adjoint d'administration de l'aviation civile de 2e classe</p>
 </td>
 <td align="left" valign="middle">
-<p align="center">2 594,84</p>
+<p align="center">2 962,44 </p>
 </td>
 <td align="left" valign="middle">
-<p align="center">5 474,78</p>
+<p align="center">6 250,37 </p>
 </td>
 </tr>
 <tr>
@@ -33,10 +33,10 @@ Les montants annuels de l'indemnité de fonction allouée aux personnels apparte
 <p align="left">Adjoint d'administration de l'aviation civile de 1re classe</p>
 </td>
 <td align="left" valign="middle">
-<p align="center">2 690,74</p>
+<p align="center">3 071,92</p>
 </td>
 <td align="left" valign="middle">
-<p align="center">5 609,93</p>
+<p align="center">6 404,67</p>
 </td>
 </tr>
 <tr>
@@ -44,10 +44,10 @@ Les montants annuels de l'indemnité de fonction allouée aux personnels apparte
 <p align="left">Adjoint principal d'administration de l'aviation civile de 2e classe</p>
 </td>
 <td align="left" valign="middle">
-<p align="center">3 494,36</p>
+<p align="center">3 989,39</p>
 </td>
 <td align="left" valign="middle">
-<p align="center">5 849,98</p>
+<p align="center">6 678,73</p>
 </td>
 </tr>
 <tr>
@@ -55,10 +55,10 @@ Les montants annuels de l'indemnité de fonction allouée aux personnels apparte
 <p align="left">Adjoint principal d'administration de l'aviation civile de 1re classe</p>
 </td>
 <td align="left" valign="middle">
-<p align="center">3 943,75</p>
+<p align="center">4 502,45</p>
 </td>
 <td align="left" valign="middle">
-<p align="center">6 480,20</p>
+<p align="center">7 398,23</p>
 </td>
 </tr>
 </tbody>

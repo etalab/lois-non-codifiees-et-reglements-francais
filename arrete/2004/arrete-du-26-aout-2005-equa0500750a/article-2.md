@@ -1,6 +1,6 @@
 # Article 2
 
-Les montants annuels de l'indemnité de fonction allouée aux assistants d'administration de l'aviation civile sont fixés ainsi qu'il suit :
+A compter du 1er janvier 2009, les montants annuels de référence et les montants plafonds de l'indemnité de fonction allouée aux assistants d'administration de l'aviation civile, prévus à l'article 2 du décret du 26 août 2005 susvisé, sont fixés ainsi qu'il suit :
 
 <table>
 <tbody>
@@ -10,11 +10,11 @@ Les montants annuels de l'indemnité de fonction allouée aux assistants d'admin
 </td>
 <td align="left" valign="middle">
 <p align="center">MONTANTS </p>
-<p>de référence (en euros)</p>
+<p align="center">de référence (en euros)</p>
 </td>
 <td align="left" valign="middle">
 <p align="center">MONTANTS </p>
-<p>plafonds (en euros)</p>
+<p align="center">plafonds (en euros)</p>
 </td>
 </tr>
 <tr>
@@ -22,10 +22,10 @@ Les montants annuels de l'indemnité de fonction allouée aux assistants d'admin
 <p align="left">Assistant d'administration de l'aviation civile de classe normale </p>
 </td>
 <td align="left" valign="middle">
-<p align="center">2 665,70</p>
+<p align="center">3 043,34</p>
 </td>
 <td align="left" valign="middle">
-<p align="center">6 025,72</p>
+<p align="center">6 879,36</p>
 </td>
 </tr>
 <tr>
@@ -33,21 +33,21 @@ Les montants annuels de l'indemnité de fonction allouée aux assistants d'admin
 <p align="left">Assistant d'administration de l'aviation civile de classe supérieure</p>
 </td>
 <td align="left" valign="middle">
-<p align="center">4 433,15 </p>
+<p align="center">5 061,17</p>
 </td>
 <td align="left" valign="middle">
-<p align="center">7 160,31 </p>
+<p align="center">8 174,69</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="left">Assistant d'administration de l'aviation civile de classe </p>
+<p align="left">Assistant d'administration de l'aviation civile de classe exceptionnelle</p>
 </td>
 <td align="left" valign="middle">
-<p align="center">4 523,49 </p>
+<p align="center">5 164,32</p>
 </td>
 <td align="left" valign="middle">
-<p align="center">7 529,02 </p>
+<p align="center">8 595,64</p>
 </td>
 </tr>
 </tbody>
