@@ -1,7 +1,9 @@
 # Article 1
 
-Le Centre national d'enseignement et de développement du secourisme est agréé au niveau national pour assurer les formations, préparatoires, initiales et continues, aux premiers secours, citées ci-dessous, en application du titre II, chapitre Ier, de l'arrêté du 8 juillet 1992 susvisé :
+La Fédération nationale d'enseignement et de développement du secourisme est agréée au niveau national pour assurer les formations, préparatoires, initiales et continues, aux premiers secours, citées ci-dessous, en application du titre II, chapitre 1er, de l'arrêté du 8 juillet 1992 susvisé :
 
--premiers secours (AFPS) ;
+-prévention et secours civiques de niveau 1 (PSC 1) ;
 
--moniteur des premiers secours (BNMPS).
+-pédagogie appliquée aux emplois / activités de classe 3 (PAE 3) ;
+
+-moniteur national des premiers secours (MNPS).
