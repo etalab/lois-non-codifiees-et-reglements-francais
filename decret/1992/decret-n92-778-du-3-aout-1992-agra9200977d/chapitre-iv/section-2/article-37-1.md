@@ -1,0 +1,5 @@
+# Article 37-1
+
+En application des dispositions de l'article L. 932-4 du code de l'éducation, les professeurs certifiés de l'enseignement agricole peuvent, à leur demande et après avis de la commission administrative paritaire compétente, être placés en délégation auprès d'une entreprise développant des activités dans le domaine éducatif pour exercer des activités liées à leurs compétences pédagogiques ou à la nature de leur enseignement.
+
+Durant la délégation, le professeur est en position d'activité. Il perçoit un traitement afférent à l'indice correspondant à l'échelon qu'il a atteint dans son corps, ainsi que l'indemnité de résidence et, le cas échéant, le supplément familial de traitement, à l'exclusion des indemnités liées aux fonctions. Le temps passé en délégation est valable pour l'ancienneté et entre en compte lors du calcul du minimum de temps requis pour postuler à une promotion de grade ou accéder à un corps hiérarchiquement supérieur. Il compte également pour la retraite et donne lieu aux retenues pour pensions civiles dans les conditions prévues à l'article L. 9 du code des pensions civiles et militaires de retraite.

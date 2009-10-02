@@ -1,9 +1,13 @@
 # Article 9
 
-Peuvent se présenter au concours externe :
+I. - Peuvent se présenter au concours externe :
 
-1° Les candidats justifiant d'une licence ou d'un diplôme d'ingénieur délivré par l'un des établissements publics à caractère scientifique, culturel et professionnel ou l'une des écoles habilités par la commission des titres d'ingénieur ainsi que les candidats justifiant des titres, diplômes ou qualifications jugés au moins équivalents par arrêté conjoint du ministre chargé de l'agriculture et du ministre chargé de la fonction publique ;
+1° Les candidats justifiant, à la date de clôture des registres d'inscription, d'un master ou d'un titre ou diplôme reconnu équivalent par le ministre chargé de l'agriculture ;
 
-2° Les candidats ayant ou ayant eu la qualité de cadre au sens de la convention collective du travail dont ils relèvent ou dont ils relevaient, justifiant de cinq années de pratique professionnelle effectuées en leur qualité de cadre ;
+2° Les candidats justifiant, à la date de clôture des registres d'inscription, qu'ils sont inscrits en dernière année d'études en vue de l'obtention d'un master ou d'un titre ou diplôme reconnu équivalent par le ministre chargé de l'agriculture ;
 
-3° Les élèves professeurs recrutés par le concours externe d'accès au cycle préparatoire prévu à l'article 11 du présent décret, justifiant de l'un des titres ou diplômes mentionnés au 1° du présent article.
+3° Les candidats ayant ou ayant eu la qualité de cadre au sens de la convention collective du travail dont ils relèvent ou dont ils relevaient justifiant, à la date de clôture des registres d'inscription, de cinq années de pratique professionnelle effectuées en leur qualité de cadre.
+
+II. - Pour être nommés dans le corps des professeurs certifiés de l'enseignement agricole, les candidats mentionnés au 2° du I ayant subi avec succès les épreuves du concours externe doivent justifier, au même titre que les candidats mentionnés au 1°, d'un master ou d'un titre ou diplôme reconnu équivalent par le ministre chargé de l'agriculture.
+
+Ceux qui ne peuvent justifier desdits titres ou diplômes lors de la rentrée suivant leur réussite au concours gardent le bénéfice de celui-ci jusqu'à la rentrée scolaire suivante.S'ils justifient alors de l'un de ces titres ou diplômes, ils peuvent être nommés en qualité de fonctionnaires stagiaires. Dans le cas contraire, ils perdent le bénéfice du concours et ne peuvent être nommés.
