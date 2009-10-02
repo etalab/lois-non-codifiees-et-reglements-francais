@@ -4,7 +4,7 @@ Peuvent être placés en position de détachement dans le corps des professeurs 
 
 1° Les personnels de direction ou d'enseignement relevant du ministre chargé de l'éducation ;
 
-2° Dans la limite de 5 p. 100 des effectifs budgétaires du grade, les fonctionnaires de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent, appartenant à un corps, à un cadre d'emplois ou à un emploi classé dans la catégorie A, justifiant d'un des titres ou diplômes requis des candidats au concours externe prévu au 1° de l'article 5 ci-dessus.
+2° Dans la limite de 5 p. 100 des effectifs du grade, les fonctionnaires de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent, appartenant à un corps, à un cadre d'emplois ou à un emploi classé dans la catégorie A, justifiant d'un des titres ou diplômes requis des candidats au concours externe prévu au 1° de l'article 5 ci-dessus.
 
 Le détachement est prononcé, après avis de la commission administrative paritaire compétente, à équivalence de grade, à un échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui dont l'intéressé bénéficiait dans son corps, cadre d'emplois ou emploi d'origine. Le fonctionnaire détaché conserve, dans la limite de l'ancienneté maximale de service exigée pour l'accès à l'échelon supérieur de son nouveau grade, l'ancienneté d'échelon acquise antérieurement lorsque le détachement lui procure un avantage inférieur à celui qui aurait résulté d'un avancement d'échelon dans son corps d'origine.
 
