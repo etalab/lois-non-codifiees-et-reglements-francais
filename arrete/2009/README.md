@@ -552,6 +552,7 @@
 - [Arrêté du 9 mars 2009 (MTSS0905632A)](arrete-du-9-mars-2009-mtss0905632a)
 - [Arrêté du 9 mars 2010 (DEFH1005444A)](arrete-du-9-mars-2010-defh1005444a)
 - [Arrêté du 9 mars 2010 (DEFH1005447A)](arrete-du-9-mars-2010-defh1005447a)
+- [Arrêté du 9 septembre 2004 (SOCF0411851A)](arrete-du-9-septembre-2004-socf0411851a)
 - [Arrêté du 9 septembre 2009 (DEVK0905316A)](arrete-du-9-septembre-2009-devk0905316a)
 - [Arrêté du 9 septembre 2009 (DEVP0920597A)](arrete-du-9-septembre-2009-devp0920597a)
 - [Arrêté du 9 septembre 2009 (DEVR0921110A)](arrete-du-9-septembre-2009-devr0921110a)
