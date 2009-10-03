@@ -6,11 +6,13 @@ Chambre départementale d'agriculture des Alpes-de-Haute-Provence.
 
 Chambre départementale d'agriculture des Hautes-Alpes.
 
-Chambre départementale d'agriculture de la Haute-Corse.
+Chambre départementale d'agriculture des Alpes-Maritimes.
 
-Chambre départementale d'agriculture du territoire de Belfort.
+Chambre départementale d'agriculture de la Corse-du-Sud.
 
-Chambre départementale d'agriculture de la Guyane.
+Chambre départementale d'agriculture du Territoire de Belfort.
+
+Chambre d'agriculture, de la pêche et de l'aquaculture de Mayotte.
 
 Catégorie II :
 
@@ -19,8 +21,6 @@ Chambre départementale d'agriculture de l'Ain.
 Chambre départementale d'agriculture de l'Aisne.
 
 Chambre départementale d'agriculture de l'Allier.
-
-Chambre départementale d'agriculture des Alpes-Maritimes.
 
 Chambre départementale d'agriculture de l'Ardèche.
 
@@ -44,7 +44,7 @@ Chambre départementale d'agriculture du Cher.
 
 Chambre départementale d'agriculture de la Corrèze.
 
-Chambre départementale d'agriculture de la Corse-du-Sud.
+Chambre départementale d'agriculture de la Haute-Corse.
 
 Chambre départementale d'agriculture de la Côte-d'Or.
 
@@ -61,6 +61,8 @@ Chambre départementale d'agriculture d'Eure-et-Loir.
 Chambre départementale d'agriculture du Gard.
 
 Chambre départementale d'agriculture de la Haute-Garonne.
+
+Chambre départementale d'agriculture du Gers.
 
 Chambre départementale d'agriculture de l'Hérault.
 
@@ -90,8 +92,6 @@ Chambre départementale d'agriculture de la Lozère.
 
 Chambre départementale d'agriculture de la Haute-Marne.
 
-Chambre départementale d'agriculture de la Mayenne.
-
 Chambre départementale d'agriculture de Meurthe-et-Moselle.
 
 Chambre départementale d'agriculture de la Meuse.
@@ -106,8 +106,6 @@ Chambre départementale d'agriculture de l'Oise.
 
 Chambre départementale d'agriculture de l'Orne.
 
-Chambre départementale d'agriculture du Pas-de-Calais.
-
 Chambre départementale d'agriculture du Puy-de-Dôme.
 
 Chambre départementale d'agriculture des Hautes-Pyrénées.
@@ -121,8 +119,6 @@ Chambre départementale d'agriculture du Haut-Rhin.
 Chambre départementale d'agriculture du Rhône.
 
 Chambre départementale d'agriculture de la Haute-Saône.
-
-Chambre départementale d'agriculture de la Sarthe.
 
 Chambre départementale d'agriculture de la Savoie.
 
@@ -152,9 +148,11 @@ Chambre départementale d'agriculture de l'Yonne.
 
 Chambre départementale d'agriculture de la Guadeloupe.
 
+Chambre départementale d'agriculture de la Guyane.
+
 Chambre départementale d'agriculture de la Martinique.
 
-Chambre départementale d'agriculture de la Réunion.
+Chambre départementale d'agriculture de La Réunion.
 
 Catégorie III :
 
@@ -168,8 +166,6 @@ Chambre départementale d'agriculture de la Dordogne.
 
 Chambre départementale d'agriculture du Finistère.
 
-Chambre départementale d'agriculture du Gers.
-
 Chambre départementale d'agriculture de la Gironde.
 
 Chambre départementale d'agriculture d'Ille-et-Vilaine.
@@ -182,11 +178,17 @@ Chambre départementale d'agriculture de la Manche.
 
 Chambre départementale d'agriculture de la Marne.
 
+Chambre départementale d'agriculture de la Mayenne.
+
 Chambre départementale d'agriculture du Morbihan.
+
+Chambre départementale d'agriculture du Pas-de-Calais.
 
 Chambre départementale d'agriculture des Pyrénées-Atlantiques.
 
 Chambre départementale d'agriculture de Saône-et-Loire.
+
+Chambre départementale d'agriculture de la Sarthe.
 
 Chambre interdépartementale d'agriculture de l'Ile-de-France.
 
