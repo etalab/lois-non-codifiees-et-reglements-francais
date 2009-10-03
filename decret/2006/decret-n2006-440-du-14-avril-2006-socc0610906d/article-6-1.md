@@ -8,4 +8,6 @@ En application du deuxième alinéa de l'article 1er de l'ordonnance du 13 avril
 
 3° Du 1er juin 2009 dans les bassins d'emploi d'Auxerre, Dreux, Les Mureaux-Poissy, Saint-Quentin et la Vallée de l'Arve ;
 
-4° Du 12 juillet 2009 dans le bassin d'emploi d'Hagetmau.
+4° Du 12 juillet 2009 dans le bassin d'emploi d'Hagetmau ;
+
+5° Du 3 octobre 2009 dans les bassins d'emploi de Briey-bassin houiller, Marne moyenne, Thiers et Saint-Etienne.

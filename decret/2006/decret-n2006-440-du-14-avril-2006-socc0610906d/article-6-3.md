@@ -8,6 +8,8 @@ En application de l'article 13-2 de l'ordonnance du 13 avril 2006 susvisée, un 
 
 3° Le 19 mars 2009 dans les bassins d'emploi d'Auxerre, Charleville-Mézières, Douai, Dreux, Le Havre, Les Mureaux-Poissy, Montbéliard, Niort, Saint-Quentin, la Vallée de l'Arve et Vitré ;
 
-4° Le 2 mai 2009 dans le bassin d'emploi d'Hagetmau.
+4° Le 2 mai 2009 dans le bassin d'emploi d'Hagetmau ;
+
+5° Le 24 juillet 2009 dans les bassins de Briey-bassin houiller, Marne moyenne, Thiers et Saint-Etienne.
 
 Cette proposition est notifiée par lettre recommandée avec accusé de réception adressée par la filiale mentionnée à l'article 2 ou par l'institution mentionnée à l'article L. 5312-1 du code du travail conformément à l'article 6-2. La personne dispose d'un délai de vingt et un jours à partir de la date de réception de cette lettre pour accepter ou refuser de signer le contrat de transition professionnelle. En l'absence de réponse, la personne est réputée avoir refusé.
