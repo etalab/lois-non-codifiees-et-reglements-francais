@@ -1,7 +1,3 @@
 # Article 3
 
-Peuvent être nommés à l'emploi de chef de mission :
-
-a) Les ingénieurs divisionnaires de l'agriculture et de l'environnement en fonctions à l'Office national des forêts ayant atteint depuis au moins un an et six mois le 3e échelon de leur grade et comptant trois ans au moins de services effectifs dans ce grade ;
-
-b) Les attachés administratifs principaux de l'Office national des forêts ayant atteint depuis au moins un an et six mois le 4e échelon de la 2e classe de leur grade et comptant trois ans au moins de services effectifs dans ce grade.
+Peuvent être nommés dans l'emploi de chef de mission de l'Office national des forêts les fonctionnaires appartenant à un corps ou un cadre d'emplois de catégorie A ou de niveau équivalent dont l'indice brut terminal est au moins égal à l'indice brut 966 et justifiant d'au moins treize ans d'ancienneté dans un ou plusieurs corps, cadres d'emplois ou emplois de catégorie A ou de niveau équivalent dont quatre ans de services effectifs dans un grade d'avancement de ces corps ou cadres d'emplois.

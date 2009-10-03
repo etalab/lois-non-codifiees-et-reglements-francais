@@ -1,7 +1,7 @@
 # Article 1
 
-Le présent décret fixe les conditions de nomination et d'avancement dans l'emploi de chef de mission.
+Le présent décret fixe les conditions de nomination et d'avancement dans l'emploi de chef de mission de l'Office national des forêts.
 
-L'emploi de chef de mission correspond à des fonctions exercées dans les services centraux ou les services déconcentrés de l'Office national des forêts, qui comportent l'exercice de responsabilités particulièrement importantes exigeant la mise en oeuvre de compétences en matière administrative, scientifique, économique ou technique. L'exercice de ces fonctions requiert des capacités d'initiative et d'adaptation et une expérience professionnelle diversifiée.
+Les chefs de mission assurent, dans les services du siège, dans les directions territoriales et régionales, dans les agences ainsi que dans les services spécialisés de l'Office national des forêts, des fonctions d'animation, d'encadrement, de coordination, de conseil ou d'expertise comportant l'exercice de responsabilités particulièrement importantes impliquant un haut niveau de qualification en matière administrative, financière, économique ou technique.
 
-Les chefs de mission assurent dans les différents services de l'établissement des fonctions comportant l'exercice de responsabilités d'encadrement. Ils peuvent également exercer des fonctions de direction, de conseil ou d'expertise.
+Les chefs de mission occupant un emploi doté d'un échelon spécial assurent la responsabilité de projets d'une particulière importance ou des fonctions d'encadrement ou d'expertise d'un niveau supérieur à celles définies à l'alinéa précédent.
