@@ -1,7 +1,238 @@
 # Article 13
 
-I. - Sont intégrés, au plus tard le 31 décembre 2010, en qualité de titulaires dans le cadre d'emplois des ouvriers territoriaux de Mayotte, lorsqu'ils se trouvent en position d'activité et occupent effectivement leur emploi avant le 22 juillet 2003, les agents titulaires d'un emploi de la collectivité départementale, d'une commune ou d'un établissement public administratif de Mayotte, classés au moins au 10e échelon de la catégorie III ou au moins au 5e échelon de la classe normale de la catégorie II, exerçant des fonctions ressortissant à la compétence des collectivités susmentionnées et correspondant aux missions définies à l'article 2 du présent décret.
+Les agents titulaires intégrés en application de l'article 12 dans le cadre d'emplois des ouvriers territoriaux de Mayotte sont classés dans ce cadre d'emplois conformément aux tableaux suivants :
 
-II. - Toutefois, les agents mentionnés au I, classés au moins au 9e échelon de la classe normale de la catégorie II ou au moins au 3e échelon du principalat de la catégorie II et exerçant les fonctions d'encadrement, d'expertise ou de coordination, peuvent être intégrés dans le grade d'ouvrier territorial qualifié de Mayotte.
+<table>
+<tbody>
+<tr>
+<th>
+<br/>ANCIENNE SITUATION <br/>
+</th>
+<th>
+<br/>NOUVELLE SITUATION <br/>
+</th>
+<th>
+<br/>ANCIENNETÉ CONSERVÉE <br/>
+<br/>dans la limite de la durée de l'échelon <br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Echelons de la catégorie II et de la catégorie II principale jusqu'au 3e échelon <br/>
+</td>
+<td align="center">
+<br/>1er échelon <br/>
+</td>
+<td align="center">
+<br/>Sans ancienneté <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>4e échelon de la catégorie II principale <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Avant 1 an <br/>
+</td>
+<td align="center">
+<br/>1er échelon <br/>
+</td>
+<td align="center">
+<br/>Ancienneté acquise <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Après 1 an <br/>
+</td>
+<td align="center">
+<br/>2e échelon <br/>
+</td>
+<td align="center">
+<br/>Ancienneté acquise au-delà d'un an <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>5e échelon de la catégorie II principale <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Avant 1 an <br/>
+</td>
+<td align="center">
+<br/>3e échelon <br/>
+</td>
+<td align="center">
+<br/>Ancienneté acquise <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Après 1 an <br/>
+</td>
+<td align="center">
+<br/>4e échelon <br/>
+</td>
+<td align="center">
+<br/>Ancienneté acquise au-delà d'un an <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>6e échelon de la catégorie II principale <br/>
+</td>
+<td align="center">
+<br/>5e échelon <br/>
+</td>
+<td align="center">
+<br/>Moitié de l'ancienneté acquise <br/>
+</td>
+</tr>
+</tbody>
+</table>
 
-III. - Les agents mentionnés aux I et II sont intégrés par arrêté de l'autorité territoriale dont ils relèvent après inscription sur la liste d'aptitude correspondante établie après avis de la commission administrative paritaire.
+<table>
+<tbody>
+<tr>
+<th>
+<br/>ANCIENNE SITUATION <br/>
+</th>
+<th>
+<br/>NOUVELLE SITUATION <br/>
+</th>
+<th>
+<br/>ANCIENNETÉ CONSERVÉE <br/>
+<br/>dans la limite de la durée de l'échelon <br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Echelons de la catégorie I de stagiaire jusqu'au 2e échelon <br/>
+</td>
+<td align="center">
+<br/>1er échelon <br/>
+</td>
+<td align="center">
+<br/>Sans ancienneté <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>3e échelon de la catégorie I <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Avant 1 an <br/>
+</td>
+<td align="center">
+<br/>1er échelon <br/>
+</td>
+<td align="center">
+<br/>Ancienneté acquise <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Après 1 an <br/>
+</td>
+<td align="center">
+<br/>2e échelon <br/>
+</td>
+<td align="center">
+<br/>Ancienneté acquise au-delà d'un an <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>4e échelon de la catégorie I <br/>
+</td>
+<td align="center">
+<br/>3e échelon <br/>
+</td>
+<td align="center">
+<br/>Moitié de l'ancienneté acquise <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>5e échelon de la catégorie I <br/>
+</td>
+<td align="center">
+<br/>4e échelon <br/>
+</td>
+<td align="center">
+<br/>Moitié de l'ancienneté acquise <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>6e échelon de la catégorie I <br/>
+</td>
+<td align="center">
+<br/>5e échelon <br/>
+</td>
+<td align="center">
+<br/>Moitié de l'ancienneté acquise <br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<th>
+<br/>ANCIENNE SITUATION <br/>
+</th>
+<th>
+<br/>NOUVELLE SITUATION <br/>
+</th>
+<th>
+<br/>ANCIENNETÉ CONSERVÉE <br/>
+<br/>dans la limite de la durée de l'échelon <br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>1er échelon de la catégorie I principale <br/>
+</td>
+<td align="center">
+<br/>4e échelon <br/>
+</td>
+<td align="center">
+<br/>1 / 2 de l'ancienneté acquise majorée de six mois <br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+L'application des modalités de reclassement prévues par les tableaux ci-dessus ne peut avoir pour effet de classer les agents à un échelon doté d'un indice correspondant à un traitement net inférieur à celui qui était le leur dans leur situation d'origine. Les intéressés sont alors classés à un indice correspondant à un traitement net égal ou à défaut immédiatement supérieur à celui qui était le leur précédemment.

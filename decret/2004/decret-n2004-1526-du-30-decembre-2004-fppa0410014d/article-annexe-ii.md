@@ -40,6 +40,9 @@
 </td>
 <td align="left" valign="middle">
 <p align="justify">Attaché </p>
+<p align="justify">Attaché de conservation du patrimoine </p>
+<p align="justify">Conseiller des activités physiques et sportives </p>
+<p align="justify">Conseiller socio-éducatif</p>
 </td>
 </tr>
 <tr>
@@ -108,7 +111,7 @@
 <p align="justify">Fonctions d'encadrement d'un groupe d'agents d'exécution </p>
 </td>
 <td align="left" valign="middle">
-<p align="justify">Adjoint administratif territorial de 1re classe</p>
+<p align="left">Adjoint administratif territorial de 1re classe</p>
 <p>Adjoint technique territorial de 1re classe.</p>
 <p>Adjoint territorial du patrimoine de 1re classe.</p>
 </td>
@@ -121,15 +124,17 @@
 <p align="justify">Fonctions d'exécution </p>
 </td>
 <td align="left" valign="middle">
-<p align="justify">Adjoint administratif territorial de 2e classe.</p>
-<p align="justify">Adjoint technique territorial de 2e classe</p>
-<p align="justify">Adjoint territorial du patrimoine de 2e classe.</p>
-<p align="justify">Aide-opérateur des activités physiques et sportives</p>
+<p align="left">Adjoint administratif territorial de 2e classe.</p>
+<p align="left">Adjoint technique territorial de 2e classe</p>
+<p align="left">Adjoint territorial du patrimoine de 2e classe.</p>
+<p align="left">Aide-opérateur des activités physiques et sportives</p>
 <p align="justify">Agent social territorial de 2e classe</p>
-<p align="justify">Auxiliaire de soins territorial de 1re classe</p>
+<p align="left">Auxiliaire de soins territorial de 1re classe</p>
 <p align="justify">Auxiliaire de puériculture territorial de 2e classe</p>
-<p align="justify">Adjoint territorial d'animation de 2e classe</p>
+<p align="left">Adjoint territorial d'animation de 2e classe</p>
 <p align="justify">Agent territorial spécialisé de 1re classe des écoles maternelles.</p>
+<p align="left">Gardien de police municipale.</p>
+<p align="left">Garde champêtre principal. </p>
 </td>
 </tr>
 </tbody>

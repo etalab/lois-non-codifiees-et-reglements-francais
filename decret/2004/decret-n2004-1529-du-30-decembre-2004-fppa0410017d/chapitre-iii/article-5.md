@@ -1,3 +1,3 @@
 # Article 5
 
-Les stagiaires sont rémunérés sur la base de l'indice afférent au 1er échelon de leur grade.
+Sous réserve de l'application de l'article 7, les agents recrutés au titre du chapitre II sont classés sans ancienneté et rémunérés au 1er échelon de leur grade.

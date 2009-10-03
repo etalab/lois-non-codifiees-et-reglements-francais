@@ -1,6 +1,10 @@
 # Article 5
 
-Peuvent seuls être candidats à la titularisation dans les cadres d'emplois de la fonction publique territoriale les agents mentionnés à l'article 4 du présent décret possédant l'un des titres requis pour pouvoir se présenter au concours externe d'accès au cadre d'emplois dans lequel ils demandent à être titularisés.
+Peuvent seuls être candidats à la titularisation dans les cadres d'emplois de la fonction publique territoriale les agents mentionnés à l'article 4 du présent décret justifiant :
+
+1° Soit de la possession de l'un des titres requis pour pouvoir se présenter au concours externe d'accès aux cadres d'emplois dans lesquels ils demandent à être titularisés ;
+
+2° Soit d'une expérience professionnelle reconnue dans les conditions et selon les modalités prévues par le décret n° 2007-196 du 13 février 2007 relatif aux équivalences de diplômes requises pour se présenter aux concours d'accès aux corps et cadres d'emplois de la fonction publique.
 
 La titularisation de ces agents est subordonnée à la réussite à des concours réservés.
 

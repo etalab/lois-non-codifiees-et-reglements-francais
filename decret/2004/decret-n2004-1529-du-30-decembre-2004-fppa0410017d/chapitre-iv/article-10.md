@@ -1,7 +1,5 @@
 # Article 10
 
-Peuvent être nommés au grade d'ouvrier territorial qualifié de Mayotte après inscription sur un tableau annuel d'avancement établi après avis de la commission administrative paritaire :
+Les ouvriers territoriaux de Mayotte classés à un échelon comportant un indice correspondant à un traitement net mensuel inférieur au montant net mensuel du SMIG mahorais calculé en application des articles L. 141-2, L. 212-2 et R. 141-2 du code du travail applicable à Mayotte sont reclassés dans leur cadre d'emplois à un échelon comportant un indice correspondant à un traitement net mensuel égal ou à défaut immédiatement supérieur au montant net mensuel du SMIG mahorais. Ce calcul est effectué sur la base d'une quotité de travail à temps complet.
 
-1° Après un examen professionnel organisé par le centre de gestion de la fonction publique territoriale de Mayotte, les ouvriers territoriaux de Mayotte ayant atteint au moins le 3e échelon de leur grade au 1er janvier de l'année au titre de laquelle est dressé le tableau d'avancement ;
-
-2° Au choix, les ouvriers territoriaux de Mayotte ayant atteint au moins le 5e échelon de leur grade au 1er janvier de l'année au titre de laquelle est dressé le tableau d'avancement.
+Les dispositions du présent article, qui peuvent le cas échéant être mise en œuvre à l'occasion de chaque augmentation du SMIG mahorais, prennent effet à la date de cette augmentation.

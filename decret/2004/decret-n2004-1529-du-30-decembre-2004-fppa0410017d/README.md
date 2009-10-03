@@ -3,6 +3,5 @@
 - [Chapitre Ier : Dispositions générales.](chapitre-ier)
 - [Chapitre II : Modalités de recrutement.](chapitre-ii)
 - [Chapitre III : Nomination et titularisation.](chapitre-iii)
-- [Chapitre IV : Avancement.](chapitre-iv)
-- [Chapitre V : Constitution initiale du cadre d'emplois.](chapitre-v)
-- [Article 17](article-17.md)
+- [Chapitre IV : Dispositions particulières](chapitre-iv)
+- [Chapitre V : Dispositions transitoires](chapitre-v)

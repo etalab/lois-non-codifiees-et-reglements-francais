@@ -42,6 +42,9 @@
 </td>
 <td align="left" valign="middle">
 <p align="justify">Attaché</p>
+<p align="justify">Attaché de conservation du patrimoine</p>
+<p align="justify">Conseillers des activités physiques et sportives</p>
+<p align="justify">Conseiller socio-éducatif </p>
 </td>
 </tr>
 <tr>
@@ -112,6 +115,8 @@
 <p>Auxiliaire de puériculture territorial de 1re classe. </p>
 <p>Adjoint territorial d'animation de 2e classe. </p>
 <p>Agent territorial spécialisé de 1re classe des écoles maternelles.</p>
+<p>Gardien de police municipale.</p>
+<p>Garde-champêtre principal.</p>
 </td>
 </tr>
 </tbody>

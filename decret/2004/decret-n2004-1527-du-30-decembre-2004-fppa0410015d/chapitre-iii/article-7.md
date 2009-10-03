@@ -1,3 +1,3 @@
 # Article 7
 
-Les agents titulaires recrutés au titre du chapitre II du présent décret sont classés dans le grade d'agent territorial de Mayotte à un échelon correspondant à un traitement égal ou, à défaut, immédiatement supérieur au traitement perçu en dernier lieu dans leur situation précédente, sans ancienneté.
+Les agents recrutés au titre du chapitre II, qui ont ou avaient eu la qualité d'agent titulaire ou d'agent non titulaire de la collectivité départementale, des communes et des établissements publics de Mayotte, sont classés, lors de leur nomination en qualité de stagiaire, dans le grade d'agent territorial de Mayotte, à un échelon comportant un indice correspondant à un traitement net égal, ou, à défaut, immédiatement supérieur au traitement net ou salaire net perçu en dernier lieu dans leur situation précédente en qualité d'agent titulaire ou d'agent non titulaire, sans ancienneté et sans prise en compte des indemnités qui leur étaient versées.

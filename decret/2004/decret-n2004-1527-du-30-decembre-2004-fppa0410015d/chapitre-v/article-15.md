@@ -1,9 +1,289 @@
 # Article 15
 
-Sur leur demande, les agents non titulaires de la collectivité départementale, d'une commune ou d'un établissement public administratif de Mayotte remplissant les conditions fixées au III de l'article 64-1 de la loi du 11 juillet 2001 susvisée, exerçant des fonctions ressortissant à la compétence des collectivités susmentionnées et correspondant aux missions définies à l'article 2 du présent décret peuvent être titularisés, au plus tard le 31 décembre 2010, dans le cadre d'emplois des agents territoriaux de Mayotte, au titre de sa constitution initiale, selon les modalités suivantes.
+Les agents non titulaires titularisés en application de l'article 14 du présent décret dans le cadre d'emplois des agents territoriaux sont classés conformément aux tableaux suivants :
 
-La titularisation des agents mentionnés à l'alinéa précédent est subordonnée à leur réussite à l'un des concours professionnels réservés organisés, par grade, par le centre de gestion de la fonction publique territoriale de Mayotte.
+<table>
+<tbody>
+<tr>
+<th>
+<br/>ANCIENNE SITUATION <br/>
+</th>
+<th>
+<br/>NOUVELLE SITUATION <br/>
+</th>
+<th>
+<br/>ANCIENNETÉ CONSERVÉE <br/>
+<br/>dans la limite de la durée de l'échelon <br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Agents titulaires d'un CAP <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Jusqu'au 3e échelon <br/>
+</td>
+<td align="center">
+<br/>1er échelon <br/>
+</td>
+<td align="center">
+<br/>Sans ancienneté <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>4e échelon <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Avant 1 an <br/>
+</td>
+<td align="center">
+<br/>1er échelon <br/>
+</td>
+<td align="center">
+<br/>Ancienneté acquise <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Après 1 an <br/>
+</td>
+<td align="center">
+<br/>2e échelon <br/>
+</td>
+<td align="center">
+<br/>Ancienneté acquise au-delà d'un an <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>5e échelon <br/>
+</td>
+<td align="center">
+<br/>3e échelon <br/>
+</td>
+<td align="center">
+<br/>Moitié de l'ancienneté acquise <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>6e échelon <br/>
+</td>
+<td align="center">
+<br/>4e échelon <br/>
+</td>
+<td align="center">
+<br/>Moitié de l'ancienneté acquise <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>7e échelon <br/>
+</td>
+<td align="center">
+<br/>5e échelon <br/>
+</td>
+<td align="center">
+<br/>Moitié de l'ancienneté acquise <br/>
+</td>
+</tr>
+</tbody>
+</table>
 
-Seuls les agents non titulaires mentionnés au premier alinéa du présent article et exerçant des fonctions d'encadrement, d'expertise ou de coordination peuvent se présenter au concours professionnel réservé d'intégration dans le grade d'agent territorial qualifié de Mayotte.
+<table>
+<tbody>
+<tr>
+<th>
+<br/>ANCIENNE SITUATION <br/>
+</th>
+<th>
+<br/>NOUVELLE SITUATION <br/>
+</th>
+<th>
+<br/>ANCIENNETÉ CONSERVÉE <br/>
+<br/>dans la limite de la durée de l'échelon <br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Agents titulaires d'un BEP <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>1er échelon <br/>
+</td>
+<td align="center">
+<br/>1er échelon <br/>
+</td>
+<td align="center">
+<br/>Sans ancienneté <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>2e échelon <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Avant 1 an <br/>
+</td>
+<td align="center">
+<br/>1er échelon <br/>
+</td>
+<td align="center">
+<br/>Ancienneté acquise <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Après 1 an <br/>
+</td>
+<td align="center">
+<br/>2e échelon <br/>
+</td>
+<td align="center">
+<br/>Ancienneté acquise au-delà d'un an <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>3e échelon <br/>
+</td>
+<td align="center">
+<br/>3e échelon <br/>
+</td>
+<td align="center">
+<br/>Moitié de l'ancienneté acquise <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>4e échelon <br/>
+</td>
+<td align="center">
+<br/>4e échelon <br/>
+</td>
+<td align="center">
+<br/>Moitié de l'ancienneté acquise <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>5e échelon <br/>
+</td>
+<td align="center">
+<br/>5e échelon <br/>
+</td>
+<td align="center">
+<br/>Moitié de l'ancienneté acquise <br/>
+</td>
+</tr>
+</tbody>
+</table>
 
-Les modalités d'organisation des concours professionnels réservés mentionnés aux deux alinéas précédents sont déterminées par décret.
+<table>
+<tbody>
+<tr>
+<th>
+<br/>ANCIENNE SITUATION <br/>
+</th>
+<th>
+<br/>NOUVELLE SITUATION <br/>
+</th>
+<th>
+<br/>ANCIENNETÉ CONSERVÉE <br/>
+<br/>dans la limite de la durée de l'échelon <br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Agents titulaires d'un Bac <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>1er échelon <br/>
+</td>
+<td align="center">
+<br/>2e échelon <br/>
+</td>
+<td align="center">
+<br/>Moitié de l'ancienneté acquise <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>2e échelon <br/>
+</td>
+<td align="center">
+<br/>3e échelon <br/>
+</td>
+<td align="center">
+<br/>Moitié de l'ancienneté acquise <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>3e échelon <br/>
+</td>
+<td align="center">
+<br/>4e échelon <br/>
+</td>
+<td align="center">
+<br/>Moitié de l'ancienneté acquise <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>4e échelon <br/>
+</td>
+<td align="center">
+<br/>5e échelon <br/>
+</td>
+<td align="center">
+<br/>Moitié de l'ancienneté acquise <br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+L'application des modalités de reclassement prévues par les tableaux ci-dessus ne peut avoir pour effet de classer les agents à un échelon doté d'un indice correspondant à un traitement net inférieur à celui qui était le leur dans leur situation d'origine. Les intéressés sont alors classés à un indice correspondant à un traitement net égal ou à défaut immédiatement supérieur à celui qui était le leur précédemment.

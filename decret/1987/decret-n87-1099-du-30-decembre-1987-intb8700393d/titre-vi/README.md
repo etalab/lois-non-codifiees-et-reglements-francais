@@ -14,6 +14,5 @@
 - [Article 33-10](article-33-10.md)
 - [Article 33-11](article-33-11.md)
 - [Article 39](article-39.md)
-- [Article 40](article-40.md)
 - [Article 43](article-43.md)
 - [Article 46-2](article-46-2.md)
