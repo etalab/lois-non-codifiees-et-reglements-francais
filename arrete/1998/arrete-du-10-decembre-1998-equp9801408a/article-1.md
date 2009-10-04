@@ -1,61 +1,43 @@
 # Article 1
 
-Le comité d'orientation du centre d'études techniques maritimes et fluviales institué par l'article 6 du décret du 2 novembre 1998 susvisé comprend 32 membres :
+Le comité d'orientation du centre d'études techniques maritimes et fluviales institué par l'article 6 du décret du 2 novembre 1998 susvisé comprend trente-cinq membres :
 
-1. Le président.
+1. Quinze représentants de l'Etat :
 
-2. Dix membres de droit :
+a) Le président ;
 
-Le directeur général de la mer et des transports ;
+b) Huit membres de droit :
 
-Le directeur des transports maritimes, routiers et fluviaux ;
+Le directeur général des infrastructures, des transports et de la mer ;
 
 Le directeur des affaires maritimes ;
 
-Le directeur de la recherche et de l'animation scientifique et technique ;
+Le directeur de l'eau et de la biodiversité ;
 
-Le directeur général des routes ;
+Le directeur de la recherche et de l'innovation ;
 
-Le directeur de la sécurité et de la circulation routières ;
+Le directeur des ressources humaines ;
 
-Le directeur de l'eau ;
+Le chef du service des risques naturels et hydrauliques ;
 
-Le directeur de la prévention des pollutions et des risques ;
+Le directeur central du service d'infrastructure de la défense ;
 
-Le directeur général du personnel et de l'administration ;
+Le président de la grande commission nautique ;
 
-Le directeur central du service d'infrastructure de la défense.
+c) Six représentants des services déconcentrés du ministère de l'écologie, de l'énergie, du développement durable et de la mer, en charge des technologies vertes et des négociations sur le climat ;
 
-3. Six représentants des services déconcentrés du ministère de l'écologie, du développement et de l'aménagement durables :
+2. Quatre représentants du personnel du centre d'études techniques maritimes et fluviales proposés par les organisations syndicales représentatives au sein du centre ;
 
-Un directeur départemental de l'équipement ;
+3. Seize personnalités qualifiées :
 
-Un chef de service maritime ;
+a) Quatre membres de l'enseignement supérieur et de la recherche ;
 
-Un chef de service navigation ;
+b) Quatre membres d'organismes susceptibles d'exprimer les préoccupations des collectivités territoriales ;
 
-Un directeur de centre régional opérationnel de surveillance et de sauvetage ;
+c) Cinq membres d'organismes professionnels particulièrement concernés par les activités du centre ;
 
-Un directeur de centre d'études techniques de l'équipement ;
+d) Deux membres de laboratoires ou bureaux d'études particulièrement concernés par les activités du centre ;
 
-Un directeur régional de l'environnement.
+e) Un membre d'une association agréée pour la protection de l'environnement.
 
-4. Deux membres de l'enseignement supérieur et de la recherche.
-
-5. Quatre représentants du personnel du centre proposés par les organisations syndicales les plus représentatives au sein du service.
-
-6. Neuf personnalités extérieures à l'administration de l'Etat choisies en fonction de leur compétence :
-
-a) Quatre au titre d'organismes susceptibles d'exprimer les préoccupations des collectivités territoriales ;
-
-b) Trois au titre d'organismes professionnels particulièrement concernés par les activités du centre d'études techniques maritimes et fluviales :
-
-- le directeur général de Voies navigables de France ;
-
-- un directeur de port autonome maritime ;
-
-- le directeur de l'Office national de l'eau et des milieux aquatiques ;
-
-c) Deux au titre des laboratoires et bureaux d'études particulièrement concernés par les activités du centre d'études techniques maritimes et fluviales.
-
-Chaque membre, à l'exclusion du président, peut se faire représenter par un suppléant nommément désigné.
+Les membres du comité d'orientation, à l'exclusion du président, peuvent se faire représenter par un suppléant.
