@@ -1,6 +1,6 @@
 # Article 3
 
-Les délégués des comités du travail sont désignés par les organisations syndicales parmi les délégués du personnel, titulaires ou suppléants, ou, à défaut, parmi les candidats délégués du personnel, non élus, appartenant à la région de la SNCF ou aux organismes de direction dans lesquels s'exercent les attributions du comité du travail.
+Les délégués des comités du travail sont désignés par les organisations syndicales représentatives dans le ou les comités d'établissement concernés parmi les délégués du personnel, titulaires ou suppléants, compétents dans le périmètre d'attribution de ces comités ou, à défaut, parmi les candidats aux élections des délégués du personnel.
 
 La répartition des sièges de délégués entre les organisations syndicales est effectuée sur la base du quotient et de la plus forte moyenne, en fonction des suffrages obtenus par chaque organisation lors des élections les plus récentes des délégués du personnel, titulaires et suppléants, parmi le personnel représenté au comité du travail (par catégorie pour le personnel d'exécution relevant du comité du travail des agents de conduite et des agents d'accompagnement des trains de voyageurs).
 

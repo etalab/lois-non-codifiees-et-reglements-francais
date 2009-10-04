@@ -2,17 +2,17 @@
 
 Les comités du travail sont composés de la façon suivante :
 
-Comités du travail des agents de conduite et des agents d'accompagnement des trains de voyageurs :
+_Comités du travail des agents de conduite et des agents d'accompagnement des trains de voyageurs_:
 
-3 représentants de la SNCF, dont un assure les fonctions de président, désignés par le directeur de la région ;
+3 représentants de la SNCF, dont un assure les fonctions de président, désignés par le directeur  compétent ;
 
 2 délégués appartenant au personnel de service des trains de voyageurs ;
 
 4 délégués appartenant au personnel de conduite ;
 
-Comités du travail du personnel sédentaire :
+_Comités du travail du personnel sédentaire_ :
 
-3 représentants de la SNCF, dont un assure les fonctions de président, désignés par le directeur de la région ;
+3 représentants de la SNCF, dont un assure les fonctions de président, désignés par le directeur  compétent ;
 
 4 délégués appartenant au personnel d'exécution autres qu'agents de conduite et d'accompagnement des trains ;
 
