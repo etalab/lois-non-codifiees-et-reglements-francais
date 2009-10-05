@@ -5,6 +5,8 @@
 - [Décret n°2009-1086 du 2 septembre 2009 (ECEM0905313D)](decret-n2009-1086-du-2-septembre-2009-ecem0905313d)
 - [Décret n°2009-1087 du 2 septembre 2009 (ECET0916042D)](decret-n2009-1087-du-2-septembre-2009-ecet0916042d)
 - [Décret n°2009-1088 du 2 septembre 2009 (SASP0914663D)](decret-n2009-1088-du-2-septembre-2009-sasp0914663d)
+- [Décret n°2009-1174 du 2 octobre 2009 (ECEC0920828D)](decret-n2009-1174-du-2-octobre-2009-ecec0920828d)
+- [Décret n°2009-1175 du 2 octobre 2009 (AGRT0919746D)](decret-n2009-1175-du-2-octobre-2009-agrt0919746d)
 - [Décret n°2009-118 du 2 février 2009 (PRMX0901996D)](decret-n2009-118-du-2-fevrier-2009-prmx0901996d)
 - [Décret n°2009-120 du 2 février 2009 (BCFS0831202D)](decret-n2009-120-du-2-fevrier-2009-bcfs0831202d)
 - [Décret n°2009-2 du 2 janvier 2009 (IMIK0831315D)](decret-n2009-2-du-2-janvier-2009-imik0831315d)
