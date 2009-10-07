@@ -18,4 +18,8 @@ Outre les pouvoirs mentionnés aux articles 3 à 5 du présent arrêté et sous 
 
 8° Mise en cessation totale d'activité conformément aux dispositions du titre IX ter du décret du 17 janvier 1986 susvisé ;
 
-9° Mise à disposition conformément aux dispositions de l'article 105 de la loi n° 2004-809 du 13 août 2004 relative aux libertés et responsabilités locales.
+9° Mise à disposition conformément aux dispositions de l'article 105 de la loi n° 2004-809 du 13 août 2004 relative aux libertés et responsabilités locales ;
+
+10° Mise à disposition conformément aux dispositions de l'article 33-1 du décret du 17 janvier 1986 susvisé ;
+
+11° Octroi d'un congé de mobilité conformément aux dispositions de l'article 33-2 du décret du 17 janvier 1986 susvisé.

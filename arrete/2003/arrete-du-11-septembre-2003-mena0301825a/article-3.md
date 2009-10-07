@@ -12,7 +12,7 @@ Excepté pour ce qui concerne les agents non titulaires mentionnés aux b et d d
 
 5° Promotion à la catégorie supérieure, lorsque des dispositions particulières la prévoient ;
 
-6° Application des sanctions disciplinaires prévues à l'article 43 du décret du 17 janvier 1986 susvisé ;
+6° Application des sanctions disciplinaires prévues au titre X du décret du 17 janvier 1986 susvisé ;
 
 7° Acceptation de démission ;
 
