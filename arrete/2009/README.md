@@ -425,6 +425,7 @@
 - [Arrêté du 8 décembre 2008 (DEVS0824171A)](arrete-du-8-decembre-2008-devs0824171a)
 - [Arrêté du 8 décembre 2008 (DEVS0824200A)](arrete-du-8-decembre-2008-devs0824200a)
 - [Arrêté du 8 décembre 2008 (SJSG0829233A)](arrete-du-8-decembre-2008-sjsg0829233a)
+- [Arrêté du 8 janvier 2008 (DEFD0804109A)](arrete-du-8-janvier-2008-defd0804109a)
 - [Arrêté du 8 janvier 2009 (DEFH0830691A)](arrete-du-8-janvier-2009-defh0830691a)
 - [Arrêté du 8 janvier 2009 (DEVA0825377A)](arrete-du-8-janvier-2009-deva0825377a)
 - [Arrêté du 8 janvier 2009 (ECEA0829940A)](arrete-du-8-janvier-2009-ecea0829940a)
