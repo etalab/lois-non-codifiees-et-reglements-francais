@@ -1114,6 +1114,7 @@
 - [Arrêté du 17 juin 2009 (ECES0913239A)](arrete-du-17-juin-2009-eces0913239a)
 - [Arrêté du 17 juin 2009 (ECES0913987A)](arrete-du-17-juin-2009-eces0913987a)
 - [Arrêté du 17 mars 1988 (TRST8800174A)](arrete-du-17-mars-1988-trst8800174a)
+- [Arrêté du 17 mars 2008 (DEFD0809039A)](arrete-du-17-mars-2008-defd0809039a)
 - [Arrêté du 17 mars 2009 (AGRU0905353A)](arrete-du-17-mars-2009-agru0905353a)
 - [Arrêté du 17 mars 2009 (BCFP0826068A)](arrete-du-17-mars-2009-bcfp0826068a)
 - [Arrêté du 17 mars 2009 (BCFR0906027A)](arrete-du-17-mars-2009-bcfr0906027a)
