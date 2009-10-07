@@ -1,0 +1,3 @@
+# Article 2
+
+Le ministre de la défense préside les conseils de la fonction militaire. Il fixe la date des sessions et en arrête l'ordre du jour. A sa demande, le délégué général pour l'armement, les chefs d'état-major de l'armée de terre, de la marine et de l'armée de l'air, le directeur général de la gendarmerie nationale, les directeurs centraux du service de santé et du service des essences des armées, vice-présidents, assurent la présidence effective du conseil de la fonction militaire de leur armée, direction ou service. Les sessions ne sont pas publiques. En l'absence du président ou du vice-président, les secrétaires généraux organisent et animent les travaux des conseils de la fonction militaire.

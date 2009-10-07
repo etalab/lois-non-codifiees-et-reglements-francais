@@ -10,7 +10,7 @@ Un représentant de la marine nationale ;
 
 Un représentant de l'armée de l'air ;
 
-Un représentant de la délégation générale pour l'armement ;
+Un représentant de la     direction générale de l'armement ;
 
 Un représentant de la gendarmerie nationale ;
 

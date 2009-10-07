@@ -8,7 +8,7 @@ Outre le président, le conseil de perfectionnement de l'enseignement militaire 
 
 3° Le directeur des ressources humaines du ministère de la défense ;
 
-4° Les directeurs des ressources humaines ou du personnel militaire, de la délégation générale pour l'armement et des forces armées, et le directeur des affaires juridiques concernant le personnel de la justice militaire ;
+4° Les directeurs des ressources humaines ou du personnel militaire, de la     direction générale de l'armement et des forces armées, et le directeur des affaires juridiques concernant le personnel de la justice militaire ;
 
 5° Le chef de la division études synthèse management général de l'état-major des armées ;
 

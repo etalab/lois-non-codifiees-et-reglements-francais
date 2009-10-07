@@ -4,4 +4,4 @@ Elle contribue à l'enseignement militaire supérieur interarmées en assurant l
 
 Elle assure en ces domaines la formation des sous-officiers et des officiers mariniers.
 
-Elle participe à la formation des ingénieurs relevant de la délégation générale pour l'armement et à celle des ingénieurs relevant d'organismes civils travaillant sur des programmes nucléaires militaires.
+Elle participe à la formation des ingénieurs relevant de la     direction générale de l'armement et à celle des ingénieurs relevant d'organismes civils travaillant sur des programmes nucléaires militaires.

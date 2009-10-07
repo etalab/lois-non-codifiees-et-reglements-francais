@@ -10,7 +10,7 @@ A ce titre, elle est notamment chargée :
 
 1° De contribuer à une meilleure connaissance de la politique de défense de la France et au renforcement des liens armées-nation ;
 
-2° De promouvoir l'image des armées, de la délégation générale pour l'armement, de la gendarmerie nationale et des directions et services du ministère de la défense et de leurs agents auprès des différents publics ;
+2° De promouvoir l'image des armées, de la     direction générale de l'armement, de la gendarmerie nationale et des directions et services du ministère de la défense et de leurs agents auprès des différents publics ;
 
 3° D'assurer la communication relative aux anciens combattants et victimes de guerre ;
 

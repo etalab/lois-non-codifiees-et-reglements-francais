@@ -4,6 +4,6 @@ Le directeur central du service de santé des armées conçoit et détermine la 
 
 Dans ce cadre :
 
-― il est en relation avec l'état-major des armées, les états-majors d'armées, la délégation générale pour l'armement, les autres directions et services du ministère de la défense et les ministères chargés de la santé, de l'éducation, de l'enseignement supérieur et de l'agriculture ;
+― il est en relation avec l'état-major des armées, les états-majors d'armées, la     direction générale de l'armement, les autres directions et services du ministère de la défense et les ministères chargés de la santé, de l'éducation, de l'enseignement supérieur et de l'agriculture ;
 
 ― il est assisté dans ses choix par un conseil de gestion de la formation du service de santé des armées, dont l'organisation et le fonctionnement sont fixés par arrêté du ministre de la défense.

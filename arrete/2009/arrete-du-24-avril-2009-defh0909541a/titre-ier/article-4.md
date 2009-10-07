@@ -8,9 +8,9 @@ Ces concours ont un jury commun qui comprend :
 
 ― les professeurs coordonnateurs des corrections des épreuves.
 
-Le jury dispose d'un secrétariat des concours, assuré par un service désigné par le directeur des ressources humaines de la délégation générale pour l'armement.
+Le jury dispose d'un secrétariat des concours, assuré par un service désigné par le directeur des ressources humaines de la     direction générale de l'armement.
 
-Les membres du jury sont désignés par le ministre de la défense (directeur des ressources humaines de la délégation générale pour l'armement).
+Les membres du jury sont désignés par le ministre de la défense (directeur des ressources humaines de la     direction générale de l'armement).
 
 Le président du jury :
 

@@ -20,4 +20,4 @@ Chaque dossier de candidature doit comprendre les pièces suivantes :
 
 8° Pour les candidats au concours B, s'ils sont élèves de deuxième année de l'une des écoles visées à l'article 7 du présent arrêté, une attestation de l'école précisant que leurs résultats devraient leur permettre d'être admis en troisième année.
 
-Le dossier doit être adressé au ministre de la défense (direction des ressources humaines de la délégation générale pour l'armement) avant la date limite de dépôt des candidatures (le cachet de la poste faisant foi).
+Le dossier doit être adressé au ministre de la défense (direction des ressources humaines de la     direction générale de l'armement) avant la date limite de dépôt des candidatures (le cachet de la poste faisant foi).

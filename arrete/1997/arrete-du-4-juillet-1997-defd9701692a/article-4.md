@@ -12,18 +12,18 @@ Les présidents des trois commissions citées supra sont désignés par le dél�
 
 Elles sont composées des représentants des organismes suivants :
 
-- l'état-major des armées ;
+-l'état-major des armées ;
 
-- la délégation générale pour l'armement ;
+-la     direction générale de l'armement ;
 
-- le secrétariat général pour l'administration ;
+-le secrétariat général pour l'administration ;
 
-- l'état-major de l'armée de terre ;
+-l'état-major de l'armée de terre ;
 
-- l'état-major de la marine ;
+-l'état-major de la marine ;
 
-- l'état-major de l'armée de l'air ;
+-l'état-major de l'armée de l'air ;
 
-- le contrôle général des armées ;
+-le contrôle général des armées ;
 
-- la délégation aux affaires stratégiques.
+-la délégation aux affaires stratégiques.

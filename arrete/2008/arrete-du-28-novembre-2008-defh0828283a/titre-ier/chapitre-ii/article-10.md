@@ -8,11 +8,11 @@ Dans le cas des masters pour lesquels l'institut est seul habilité à délivrer
 
 ― quatre personnels enseignants participant aux formations de masters et désignés par le directeur général de l'institut ;
 
-― un représentant du directeur des ressources humaines de la délégation générale pour l'armement.
+― un représentant du directeur des ressources humaines de la     direction générale de l'armement.
 
 Participent au jury pour avis sans voix délibérative :
 
-― un représentant de la délégation générale pour l'armement compétent pour l'examen des candidatures d'étrangers ;
+― un représentant de la     direction générale de l'armement compétent pour l'examen des candidatures d'étrangers ;
 
 ― un représentant de l'état-major qui les concerne pour les officiers français présentés par leur commandement ;
 

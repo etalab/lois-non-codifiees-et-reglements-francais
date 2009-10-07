@@ -12,14 +12,14 @@ Elle assure la cohérence des travaux de prospective conduits par les états-maj
 
 En liaison avec les états-majors, directions et services concernés, elle propose au ministre de la défense les orientations en matière :
 
-- de lutte contre la prolifération, de désarmement et de maîtrise des armements dans le domaine des armements non conventionnels ;
+-de lutte contre la prolifération, de désarmement et de maîtrise des armements dans le domaine des armements non conventionnels ;
 
-- de contrôle des exportations d'armement et de biens et technologies à double usage civil et militaire.
+-de contrôle des exportations d'armement et de biens et technologies à double usage civil et militaire.
 
 Dans ces matières, en liaison avec les états-majors, directions et services concernés :
 
-- elle participe aux négociations relatives aux engagements internationaux de la France et peut y représenter le ministère ;
+-elle participe aux négociations relatives aux engagements internationaux de la France et peut y représenter le ministère ;
 
-- elle participe aux travaux portant sur l'évolution du contenu technique de la réglementation ou les coordonne, dans la limite des attributions du contrôle général des armées, de la délégation générale pour l'armement et de la direction des affaires juridiques ;
+-elle participe aux travaux portant sur l'évolution du contenu technique de la réglementation ou les coordonne, dans la limite des attributions du contrôle général des armées, de la     direction générale de l'armement et de la direction des affaires juridiques ;
 
-- elle coordonne l'examen des demandes soumises à la commission interministérielle pour l'étude des exportations de matériels de guerre ainsi que des demandes de licence d'exportation des biens et technologies à double usage civil et militaire.
+-elle coordonne l'examen des demandes soumises à la commission interministérielle pour l'étude des exportations de matériels de guerre ainsi que des demandes de licence d'exportation des biens et technologies à double usage civil et militaire.

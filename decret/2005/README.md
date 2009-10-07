@@ -167,5 +167,4 @@
 - [Décret n°2005-636 du 30 mai 2005 (DEVO0530036D)](decret-n2005-636-du-30-mai-2005-devo0530036d)
 - [Décret du 31 août 2005 (AGRP0501417D)](decret-du-31-aout-2005-agrp0501417d)
 - [Décret du 31 août 2005 (AGRP0501418D)](decret-du-31-aout-2005-agrp0501418d)
-- [Décret n°2005-72 du 31 janvier 2005 (DEFD0500022D)](decret-n2005-72-du-31-janvier-2005-defd0500022d)
 - [Décret n°93-977 du 31 juillet 1993 (JUSC9320356D)](decret-n93-977-du-31-juillet-1993-jusc9320356d)

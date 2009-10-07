@@ -1,6 +1,6 @@
 # Article 3
 
-Les directeurs d'établissements, les directeurs des organismes extérieurs du service industriel de l'aéronautique, les directeurs régionaux du service de la qualité de la direction des programmes, des méthodes d'acquisition et de la qualité et les directeurs d'organismes extérieurs, à l'exception des directeurs des services chargés des programmes et du service technique des technologies communes relevant de la délégation générale pour l'armement, ainsi que les directeurs d'établissement de DCN, reçoivent délégation pour les matières énumérées au présent article.
+Les directeurs d'établissements, les directeurs des organismes extérieurs du service industriel de l'aéronautique, les directeurs régionaux du service de la qualité de la direction des programmes, des méthodes d'acquisition et de la qualité et les directeurs d'organismes extérieurs, à l'exception des directeurs des services chargés des programmes et du service technique des technologies communes relevant de la     direction générale de l'armement, ainsi que les directeurs d'établissement de DCN, reçoivent délégation pour les matières énumérées au présent article.
 
 A.-En ce qui concerne les fonctionnaires de l'Etat :
 

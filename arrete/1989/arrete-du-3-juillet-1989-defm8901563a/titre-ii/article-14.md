@@ -4,7 +4,7 @@ Le comité directeur est présidé par le délégué général pour l'armement.
 
 Il comprend :
 
-I. -Des membres permanents
+I.-Des membres permanents
 
 1° Au titre du ministère de la défense
 
@@ -28,12 +28,12 @@ Le directeur des applications militaires.
 
 Le directeur délégué à la propulsion nucléaire du Commissariat à l'énergie atomique.
 
-II. -Des membres occasionnels
+II.-Des membres occasionnels
 
 Un représentant du ministère de l'intérieur (pour les questions relatives aux transports).
 
 Le directeur central du service de santé des armées.
 
-Les directeurs concernés de la délégation générale pour l'armement.
+Les directeurs concernés de la     direction générale de l'armement.
 
 Le secrétariat du comité directeur est assuré conjointement par l'inspecteur de l'armement conseiller du délégué général pour l'armement pour la sécurité nucléaire et le directeur délégué à la sûreté nucléaire du Commissariat à l'énergie atomique.

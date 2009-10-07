@@ -22,11 +22,11 @@
 
 6e régiment d'hélicoptères de combat de Compiègne (Oise).
 
-8e régiment de transmissions/centres de transmission de Reuilly et Gabriel et centres télégraphiques de Lourcine, de Saint-Thomas, de l'Ecole militaire, des Invalides, à Paris (Paris).
+8e régiment de transmissions / centres de transmission de Reuilly et Gabriel et centres télégraphiques de Lourcine, de Saint-Thomas, de l'Ecole militaire, des Invalides, à Paris (Paris).
 
-8e régiment de transmissions/centre de transmissions de Fontainebleau (Seine-et-Marne).
+8e régiment de transmissions / centre de transmissions de Fontainebleau (Seine-et-Marne).
 
-8e régiment de transmissions/centre de transmissions de Vernon (Eure).
+8e régiment de transmissions / centre de transmissions de Vernon (Eure).
 
 10e régiment de commandement et de soutien (détachement) de Mourmelon (Marne).
 
@@ -38,47 +38,47 @@
 
 27e régiment de commandement et de soutien de Varces (Isère).
 
-33e régiment d'infanterie de marine (RIMA)/Groupement du commissariat de l'armée de terre de Fort-de-France (Martinique).
+33e régiment d'infanterie de marine (RIMA) / Groupement du commissariat de l'armée de terre de Fort-de-France (Martinique).
 
 40e escadron de quartier général de Mercy-lès-Metz (Moselle).
 
 43e régiment de transmissions (portion centrale) de Montigny-lès-Metz (Moselle).
 
-43e régiment de transmissions/centre de transmissions d'Arras (Pas-de-Calais).
+43e régiment de transmissions / centre de transmissions d'Arras (Pas-de-Calais).
 
-43e régiment de transmissions/centre de transmissions d'Oberhoffen (Bas-Rhin).
+43e régiment de transmissions / centre de transmissions d'Oberhoffen (Bas-Rhin).
 
-43e régiment de transmissions/centre de transmissions de Bitche (Moselle).
+43e régiment de transmissions / centre de transmissions de Bitche (Moselle).
 
-43e régiment de transmissions/centre de transmissions de Dijon (Côte-d'Or).
+43e régiment de transmissions / centre de transmissions de Dijon (Côte-d'Or).
 
-43e régiment de transmissions/centre de transmissions de Douai (Nord).
+43e régiment de transmissions / centre de transmissions de Douai (Nord).
 
-43e régiment de transmissions/centre de transmissions de Laon-Couvron (Aisne).
+43e régiment de transmissions / centre de transmissions de Laon-Couvron (Aisne).
 
-43e régiment de transmissions/centre de transmissions de Mourmelon (Marne).
+43e régiment de transmissions / centre de transmissions de Mourmelon (Marne).
 
-43e régiment de transmissions/centre de transmissions de Sissonne (Aisne).
+43e régiment de transmissions / centre de transmissions de Sissonne (Aisne).
 
-43e régiment de transmissions/centre de transmissions de Suippes (Marne).
+43e régiment de transmissions / centre de transmissions de Suippes (Marne).
 
-43e régiment de transmissions/centre de transmissions du Valdahon (Doubs).
+43e régiment de transmissions / centre de transmissions du Valdahon (Doubs).
 
-43e régiment de transmissions/groupement de soutien des télécommunications et de l'informatique d'Hauteville (Côte-d'Or).
+43e régiment de transmissions / groupement de soutien des télécommunications et de l'informatique d'Hauteville (Côte-d'Or).
 
 45e régiment de transmissions (portion centrale) de Montélimar (Drôme).
 
-45e régiment de transmissions/centre de transmissions d'Ajaccio (Corse-du-Sud).
+45e régiment de transmissions / centre de transmissions d'Ajaccio (Corse-du-Sud).
 
-45e régiment de transmissions/centre de transmissions de Bastia (Haute-Corse).
+45e régiment de transmissions / centre de transmissions de Bastia (Haute-Corse).
 
-45e régiment de transmissions/centre de transmissions de Canjuers (Var).
+45e régiment de transmissions / centre de transmissions de Canjuers (Var).
 
-45e régiment de transmissions/centre de transmissions de Grenoble (Isère).
+45e régiment de transmissions / centre de transmissions de Grenoble (Isère).
 
-48e régiment de transmissions/centre de transmissions de Saint-Sulpice (Gironde).
+48e régiment de transmissions / centre de transmissions de Saint-Sulpice (Gironde).
 
-48e régiment de transmissions/portion centrale et centre de transmissions d'Agen (Lot-et-Garonne).
+48e régiment de transmissions / portion centrale et centre de transmissions d'Agen (Lot-et-Garonne).
 
 54e régiment de transmissions de Haguenau (Bas-Rhin).
 
@@ -86,29 +86,29 @@
 
 58e régiment de transmissions (portion centrale) de Poitiers (Vienne).
 
-58e régiment de transmissions/centre de transmissions d'Angers (Maine-et-Loire).
+58e régiment de transmissions / centre de transmissions d'Angers (Maine-et-Loire).
 
-58e régiment de transmissions/centre de transmissions de Bourges (Cher).
+58e régiment de transmissions / centre de transmissions de Bourges (Cher).
 
-58e régiment de transmissions/centre de transmissions de Caen (Calvados).
+58e régiment de transmissions / centre de transmissions de Caen (Calvados).
 
-58e régiment de transmissions/centre de transmissions de Châteauroux (Indre).
+58e régiment de transmissions / centre de transmissions de Châteauroux (Indre).
 
-58e régiment de transmissions/centre de transmissions de La Courtine (Creuse).
+58e régiment de transmissions / centre de transmissions de La Courtine (Creuse).
 
-58e régiment de transmissions/centre de transmissions du Havre(Seine-Maritime).
+58e régiment de transmissions / centre de transmissions du Havre (Seine-Maritime).
 
-58e régiment de transmissions/centre de transmissions du Mans (Sarthe).
+58e régiment de transmissions / centre de transmissions du Mans (Sarthe).
 
-58e régiment de transmissions/centre de transmissions de La Rochelle (Charente-Maritime).
+58e régiment de transmissions / centre de transmissions de La Rochelle (Charente-Maritime).
 
-58e régiment de transmissions/centre de transmissions de Rouen (Seine-Maritime).
+58e régiment de transmissions / centre de transmissions de Rouen (Seine-Maritime).
 
-58e régiment de transmissions/centre de transmissions de Vannes (Morbihan).
+58e régiment de transmissions / centre de transmissions de Vannes (Morbihan).
 
-58e régiment de transmissions/détachement technique isolé des transmissions de Coëtquidan (Morbihan).
+58e régiment de transmissions / détachement technique isolé des transmissions de Coëtquidan (Morbihan).
 
-58e régiment de transmissions/détachement technique isolé des transmissions de Saumur (Maine-et-Loire).
+58e régiment de transmissions / détachement technique isolé des transmissions de Saumur (Maine-et-Loire).
 
 72e régiment d'infanterie de marine de Marseille (Bouches-du-Rhône).
 
@@ -150,7 +150,7 @@ Centre mobilisateur n° 32 du Ruchard à Avon-les-Roches (Indre-et-Loire).
 
 Centre mobilisateur n° 38 de Valence (Drôme).
 
-Centre mobilisateur n° 50 de Rennes - Saint-Jacques-de-la-Lande (Ille-et-Vilaine).
+Centre mobilisateur n° 50 de Rennes-Saint-Jacques-de-la-Lande (Ille-et-Vilaine).
 
 Centre mobilisateur n° 68 d'Essey-lès-Nancy (Meurthe-et-Moselle).
 
@@ -212,7 +212,7 @@ Détachement de maintenance du génie (DMG) de Fontainebleau (Seine-et-Marne).
 
 Détachement de maintenance du génie (DMG) de Haguenau (Bas-Rhin).
 
-Détachement de maintenance du génie (DMG) de La Cavalerie - Le Larzac (Aveyron).
+Détachement de maintenance du génie (DMG) de La Cavalerie-Le Larzac (Aveyron).
 
 Détachement de maintenance du génie (DMG) de La Rochelle (Charente-Maritime).
 
@@ -332,7 +332,7 @@ Direction mixte des travaux (DMT) de Saint-Paul (Réunion).
 
 District de transit de Paris (Paris).
 
-Ecole de défense NBC de Caen - Bretteville-sur-Odon (Calvados).
+Ecole de défense NBC de Caen-Bretteville-sur-Odon (Calvados).
 
 Ecole nationale des spécialistes du service de santé de l'armée de terre de Dinan (Côtes-d'Armor).
 
@@ -356,7 +356,7 @@ Etablissement annexe du commissariat (EACAT) de Mailly (Aube).
 
 Etablissement annexe du commissariat (EACAT) de Sissonne (Aisne).
 
-Etablissement impression de l'armée de terre (EIAT) de Saint-Cyr - Versailles (Yvelines).
+Etablissement impression de l'armée de terre (EIAT) de Saint-Cyr-Versailles (Yvelines).
 
 Etablissement ravitailleur du commissariat (ERCAT) de Dijon (Côte-d'Or).
 
@@ -456,7 +456,7 @@ Etablissement du matériel (ETAMAT) de Versailles-Satory (Yvelines).
 
 Etablissement spécialisé du commissariat (ESCAT) d'Ambronay (Ain).
 
-Etablissement spécialisé du commissariat (ESCAT) de Saint-Cyr/Versailles (Yvelines).
+Etablissement spécialisé du commissariat (ESCAT) de Saint-Cyr / Versailles (Yvelines).
 
 Etat-major de circonscription militaire de défense de Lille (Nord).
 
@@ -508,7 +508,7 @@ Groupement de soutien de la direction centrale du matériel de Malakoff (Hauts-d
 
 Groupement du commissariat de l'armée de terre de Nouméa (Nouvelle-Calédonie).
 
-Groupement du commissariat de l'armée de terre de Pointe- à-Pitre (Guadeloupe).
+Groupement du commissariat de l'armée de terre de Pointe-à-Pitre (Guadeloupe).
 
 Groupement logistique du commissariat de Marseille (Bouches-du-Rhône).
 
@@ -532,9 +532,9 @@ Services centraux du matériel et groupement de soutien de quartier général de
 
 Système d'information logistique central de l'armée de terre (SILCENT) du Kremlin-Bicêtre (Val-de-Marne).
 
-Dépôt du 28e groupe géographique/centre de production cartographique/camp de la Valbonne à Béligneux (Ain).
+Dépôt du 28e groupe géographique / centre de production cartographique / camp de la Valbonne à Béligneux (Ain).
 
-Section géographique militaire/Fort neuf de Vincennes à Paris (Paris).
+Section géographique militaire / Fort neuf de Vincennes à Paris (Paris).
 
 Cellule photographique aérienne à Strasbourg (Bas-Rhin).
 
@@ -578,13 +578,13 @@ Etat-major de la région aérienne Méditerranée d'Aix-en-Provence (Bouches-du-
 
 Fonctions système d'information et de commandement de l'état-major du Commandement air des systèmes de surveillance, d'information et de communications (CASSIC, fonctions SIC) à Vélizy-Villacoublay (Yvelines).
 
-Section transit (GEMA 11.609) de Cinq-Mars-la-Pile (Indre-et-Loire).
+Section transit (GEMA 11. 609) de Cinq-Mars-la-Pile (Indre-et-Loire).
 
 Section transit (ESRT 2C105) d'Evreux (Eure).
 
-Service informatique du commissariat de l'air (SICA) 35.510 (Paris).
+Service informatique du commissariat de l'air (SICA) 35. 510 (Paris).
 
-Groupe entrepôt des matériels en approvisionnement 602/dépôt à Romorantin (Loir-et-Cher).
+Groupe entrepôt des matériels en approvisionnement 602 / dépôt à Romorantin (Loir-et-Cher).
 
 **Marine**
 
@@ -596,7 +596,7 @@ Antenne du service technique des transmissions d'infrastructure de la marine de 
 
 Base d'aéronautique navale (BAN) de Saint-Mandrier (Var).
 
-Bureau des systèmes d'information de la direction du personnel militaire de la marine (DPMM/INF) de Pantin (Seine-Saint-Denis).
+Bureau des systèmes d'information de la direction du personnel militaire de la marine (DPMM / INF) de Pantin (Seine-Saint-Denis).
 
 Centre administratif du port de Lorient (Morbihan).
 
@@ -690,9 +690,9 @@ Centre d'instruction des gendarmes auxiliaires de Bergerac (CIGA) (Dordogne).
 
 Commandement des écoles de la gendarmerie nationale de Maisons-Alfort (Val-de-Marne).
 
-Ecole de gendarmerie/atelier automobile, à Montargis (Loiret).
+Ecole de gendarmerie / atelier automobile, à Montargis (Loiret).
 
-Centre national d'instruction cynophile de la gendarmerie/atelier automobile, à Gramat (Lot).
+Centre national d'instruction cynophile de la gendarmerie / atelier automobile, à Gramat (Lot).
 
 Etat-major de circonscription de gendarmerie de Dijon (Côte-d'Or).
 
@@ -748,7 +748,7 @@ Services administratifs et techniques de la légion de gendarmerie départementa
 
 Services administratifs et techniques de la légion de gendarmerie départementale de Franche-Comté, à Besançon (Doubs).
 
-Services administratifs et techniques de la légion de gendarmerie départementale du Nord - Pas-de-Calais, à Lille (Nord).
+Services administratifs et techniques de la légion de gendarmerie départementale du Nord-Pas-de-Calais, à Lille (Nord).
 
 Services administratifs et techniques de la légion de gendarmerie départementale de Picardie, à Amiens (Somme).
 
@@ -758,9 +758,9 @@ Service de télécommunication et télématique de la gendarmerie (STT) de Rosny
 
 Service technique de renseignement judiciaire et de documentation (STRJD) de Rosny-sous-Bois (Seine-Saint-Denis).
 
-**Délégation générale pour l'armement**
+**direction générale de l'armement**
 
-Délégation générale pour l'armement (hors directions et services d'emploi) (Ile-de-France).
+direction générale de l'armement (hors directions et services d'emploi) (Ile-de-France).
 
 Direction des systèmes de forces et de la prospective (DSP).
 
@@ -794,13 +794,13 @@ Centre de formation de Lorient (CFLT) (Morbihan).
 
 Centre de formation de Toulon (CFTN) (Var).
 
-DPM/Service de la qualité de Gramat (Lot).
+DPM / Service de la qualité de Gramat (Lot).
 
-DPM/Service de la qualité de Nancy (Meurthe-et-Moselle).
+DPM / Service de la qualité de Nancy (Meurthe-et-Moselle).
 
-DPM/Service de la qualité de Rochefort (Charente Maritime).
+DPM / Service de la qualité de Rochefort (Charente Maritime).
 
-DPM/Service de la qualité de Vichy (Allier).
+DPM / Service de la qualité de Vichy (Allier).
 
 Groupe d'études et de recherches en balistique, armes et munitions (GERBAM) de Lorient (Morbihan).
 
@@ -808,7 +808,7 @@ Polygone d'essais de Captieux (PEC) (Gironde).
 
 Agence comptable des services industriels de l'armement (ACSIA) (Seine-Saint-Denis).
 
-Structure intégrée du maintien en condition opérationnelle des matériels aéronautiques du ministère de la défense (SIMMAD)/bureau des commandes, à Brétigny-sur-Orge (Essonne).
+Structure intégrée du maintien en condition opérationnelle des matériels aéronautiques du ministère de la défense (SIMMAD) / bureau des commandes, à Brétigny-sur-Orge (Essonne).
 
 Bureau des liquidations, à Arcueil (Val-de-Marne).
 

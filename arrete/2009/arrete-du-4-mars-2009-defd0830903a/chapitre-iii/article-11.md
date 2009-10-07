@@ -12,7 +12,7 @@ Le conseil scientifique de la division de la recherche et de la documentation es
 
 5° Le président du conseil scientifique de défense ;
 
-6° Les représentants de l'état-major des armées, des forces armées, de la délégation générale pour l'armement, de la direction des affaires juridiques, de la délégation aux affaires stratégiques et de la direction du renseignement militaire ;
+6° Les représentants de l'état-major des armées, des forces armées, de la     direction générale de l'armement, de la direction des affaires juridiques, de la délégation aux affaires stratégiques et de la direction du renseignement militaire ;
 
 7° De trois personnalités nommées par le ministre de la défense pour une durée de trois ans renouvelable une fois, en raison de leur compétence dans des disciplines en relation avec la pensée stratégique.
 

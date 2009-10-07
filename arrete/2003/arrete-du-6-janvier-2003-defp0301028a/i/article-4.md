@@ -4,7 +4,7 @@ L'organisation pour l'exécution du concours comporte :
 
 1° Un jury qui comprend :
 
-a) Un officier général de l'armée de terre, président, assisté d'un officier supérieur, vice-président, appartenant tour à tour à la délégation générale pour l'armement, à la marine, à la gendarmerie, au service de santé des armées ou au service des essences des armées, dans la mesure où ces armées, directions et services ouvrent une ou plusieurs places au concours pour l'année considérée ;
+a) Un officier général de l'armée de terre, président, assisté d'un officier supérieur, vice-président, appartenant tour à tour à la     direction générale de l'armement, à la marine, à la gendarmerie, au service de santé des armées ou au service des essences des armées, dans la mesure où ces armées, directions et services ouvrent une ou plusieurs places au concours pour l'année considérée ;
 
 b) Une commission d'admissibilité composée du président et du vice-président du jury et des correcteurs des épreuves écrites ;
 

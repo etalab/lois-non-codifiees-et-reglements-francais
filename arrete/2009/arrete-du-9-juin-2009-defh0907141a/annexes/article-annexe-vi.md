@@ -2,48 +2,85 @@
 
 TABLEAU VI
 
-Fonctions relevant de la délégation générale pour l'armement
+Fonctions relevant du service de santé des armées
 
 <table>
 <tbody>
 <tr>
-<th>DÉSIGNATION DE L'EMPLOI<br/>
+<th>
+<br/>DÉSIGNATION DE L'EMPLOI <br/>
 </th>
-<th>NOMBRE D'EMPLOIS<br/>
+<th>
+<br/>NOMBRE D'EMPLOIS <br/>
 </th>
-<th>NOMBRE DE POINTS PAR EMPLOI<br/>
+<th>
+<br/>NOMBRE DE POINTS PAR EMPLOI <br/>
 </th>
 </tr>
 <tr>
-<td align="center">Directeur du centre d'électronique de l'armement de la direction de l'expertise technique <br/>
+<td align="center">
+<br/>Inspecteur général du service de santé des armées <br/>
 </td>
-<td align="center">1<br/>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td align="center">80<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Directeur du centre d'essais en vol de la direction des essais<br/>
-</td>
-<td align="center">1<br/>
-</td>
-<td align="center">80<br/>
+<td align="center">
+<br/>120 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Directeur du centre d'essais de lancement de missiles de la direction des essais<br/>
+<td align="center">
+<br/>Médecin-chef d'un hôpital d'instruction des armées <br/>
 </td>
-<td align="center">1<br/>
+<td align="center">
+<br/>9 <br/>
 </td>
-<td align="center">80<br/>
+<td align="center">
+<br/>80 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Directeur local du service de soutien de la flotte<br/>
+<td align="center">
+<br/>Directeur des approvisionnements en produits de santé <br/>
 </td>
-<td align="center">1<br/>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td align="center">80<br/>
+<td align="center">
+<br/>80 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur de l'Ecole du Val-de-Grâce <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>80 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur de l'institut de recherche biomédicale du service de santé des armées <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>80 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur du département de l'audit interne du service de santé des armées <br/>
+</td>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>80 <br/>
 </td>
 </tr>
 </tbody>

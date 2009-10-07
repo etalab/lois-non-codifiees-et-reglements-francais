@@ -1,4 +1,4 @@
-# Arrêté du 12 février 2009 portant création d'un traitement automatisé de données à caractère personnel relatif au suivi du plan d'actions de contrôle interne au centre d'études de Gramat de la délégation générale pour l'armement
+# Arrêté du 12 février 2009 portant création d'un traitement automatisé de données à caractère personnel relatif au suivi du plan d'actions de contrôle interne au centre d'études de Gramat de la direction générale de l'armement
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

@@ -6,15 +6,15 @@ Le délégué général pour l'armement désigne, parmi les membres du bureau ex
 
 Sont membres du bureau exécutif :
 
-1° Un ingénieur désigné par le chef de l'entité de la délégation générale pour l'armement chargée de la recherche et des études « amont » qui sont en relation avec le domaine HOM ;
+1° Un ingénieur désigné par le chef de l'entité de la     direction générale de l'armement chargée de la recherche et des études « amont » qui sont en relation avec le domaine HOM ;
 
-2° Un ingénieur désigné par le chef de l'entité de la délégation générale pour l'armement, chargée des programmes d'observation, de télécommunication et d'information qui sont en relation avec le domaine HOM ;
+2° Un ingénieur désigné par le chef de l'entité de la     direction générale de l'armement, chargée des programmes d'observation, de télécommunication et d'information qui sont en relation avec le domaine HOM ;
 
-3° Un ingénieur désigné par le responsable du pôle architecture et systèmes navals de la délégation générale pour l'armement, concerné par le domaine HOM ;
+3° Un ingénieur désigné par le responsable du pôle architecture et systèmes navals de la     direction générale de l'armement, concerné par le domaine HOM ;
 
-4° Un ingénieur désigné par le responsable du pôle architecture des « systèmes de commandement, conduite, communications et renseignement/C3R » de la délégation générale pour l'armement, concerné par le domaine HOM ;
+4° Un ingénieur désigné par le responsable du pôle architecture des « systèmes de commandement, conduite, communications et renseignement / C3R » de la     direction générale de l'armement, concerné par le domaine HOM ;
 
-5° Un ingénieur désigné par le responsable du service d'architecture des systèmes de forces de la délégation générale pour l'armement, concerné par le domaine HOM ;
+5° Un ingénieur désigné par le responsable du service d'architecture des systèmes de forces de la     direction générale de l'armement, concerné par le domaine HOM ;
 
 6° Un officier désigné par le chef d'état-major des armées, chargé de la préparation des capacités futures des systèmes de commandement et de maîtrise de l'information et concerné par le domaine HOM ;
 

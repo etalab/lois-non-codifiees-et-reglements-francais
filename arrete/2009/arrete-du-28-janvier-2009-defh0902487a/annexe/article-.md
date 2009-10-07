@@ -196,15 +196,15 @@ Nota. ― Il convient d'entendre par base aérienne l'ensemble des unités prés
 
 Base aérienne 943, à Roquebrune-Cap-Martin, Alpes-Maritimes (06).
 
-Escadron de défense sol air 07.950, à Ventiseri, Haute-Corse (2B).
+Escadron de défense sol air 07. 950, à Ventiseri, Haute-Corse (2B).
 
-Musique de l'air 79.511, à Longvic, Côte-d'Or (21).
+Musique de l'air 79. 511, à Longvic, Côte-d'Or (21).
 
-Etablissement logistique du commissariat de l'air 00.782, Evreux, Eure (27).
+Etablissement logistique du commissariat de l'air 00. 782, Evreux, Eure (27).
 
 Base aérienne 101, à Cugnaux, Haute-Garonne (31).
 
-Entrepôt de l'armée de l'air EAA 00.609, à Cinq-Mars-la-Pile, Indre-et-Loire (37).
+Entrepôt de l'armée de l'air EAA 00. 609, à Cinq-Mars-la-Pile, Indre-et-Loire (37).
 
 Base aérienne 112, à Bétheny, Marne (51).
 
@@ -220,9 +220,9 @@ Base aérienne 217, à Brétigny-sur-Orge, Essonne (91).
 
 Base aérienne 921, à Taverny, Val-d'Oise (95).
 
-Escadron de chasse 01.004, à Saint-Sauveur, Haute-Saône (70).
+Escadron de chasse 01. 004, à Saint-Sauveur, Haute-Saône (70).
 
-Escadron de chasse 02.004, à Saint-Sauveur, Haute-Saône (70).
+Escadron de chasse 02. 004, à Saint-Sauveur, Haute-Saône (70).
 
 Base aérienne 365, au Lamentin, Martinique (972).
 
@@ -242,7 +242,7 @@ Direction du commissariat de la marine, à Toussus-le-Noble, Yvelines (78).
 
 Etablissement de l'aéronautique, service d'information et de relations publiques, service de recrutement de la marine, groupe automobile de la marine, direction du commissariat de la marine, à Dugny, Seine-Saint-Denis (93).
 
-Délégation générale pour l'armement
+direction générale de l'armement
 
 Direction de la qualité et du progrès, service de la qualité, à Caen, Calvados (14).
 
@@ -488,7 +488,7 @@ Dépôt essences air, à Toulouse, Haute-Garonne (31).
 
 Direction régionale interarmées du service des essences des armées-Atlantique, à Mérignac, Gironde (33).
 
-Centre de ravitaillement des essences passif, à Boé - Bon-Encontre, Lot-et-Garonne (47).
+Centre de ravitaillement des essences passif, à Boé-Bon-Encontre, Lot-et-Garonne (47).
 
 Dépôt essences air, à Bétheny, Marne (51).
 
@@ -660,7 +660,7 @@ Détachement du 6e régiment du matériel, à Bourogne, Territoire de Belfort (9
 
 Détachement du 1er régiment du matériel, à Saarburg, Allemagne.
 
-Délégation générale pour l'armement
+direction générale de l'armement
 
 Direction de la qualité et du progrès, service de la qualité, à Salon-de-Provence, Bouches-du-Rhône (13).
 
@@ -722,7 +722,7 @@ Formations, unités, services et établissements faisant l'objet d'une réorgani
 
 Interarmées
 
-Nota. - Pour les escadrons des systèmes d'information et de communication, seuls les personnels relevant de la Direction interarmées des réseaux d'infrastructures et systèmes d'informations de la défense sont concernés.
+Nota.-Pour les escadrons des systèmes d'information et de communication, seuls les personnels relevant de la Direction interarmées des réseaux d'infrastructures et systèmes d'informations de la défense sont concernés.
 
 Escadron des systèmes d'information et de communication 1J278, à Ambérieu-en-Bugey, Ain (01).
 
@@ -1020,7 +1020,7 @@ Commandement de la force logistique terrestre, à Ollainville, Essonne (91).
 
 Armée de l'air
 
-Nota. - Il convient d'entendre par base aérienne l'ensemble des unités présentes sur le site principal ainsi que les unités rattachées.
+Nota.-Il convient d'entendre par base aérienne l'ensemble des unités présentes sur le site principal ainsi que les unités rattachées.
 
 Escadron des systèmes d'information et de communication 15944, à Narbonne, Aude (11).
 
@@ -1068,7 +1068,7 @@ Direction centrale du commissariat de la marine, à Paris (75).
 
 Commission permanente des programmes et des essais, à Toussus-le-Noble, Yvelines (78).
 
-Délégation générale pour l'armement
+direction générale de l'armement
 
 Direction de la qualité et du progrès, service de la qualité, à Montluçon, Allier (03).
 
@@ -1358,90 +1358,90 @@ au titre de la rationalisation des fonctions de soutien
 
 Vous pouvez consulter le tableau dans le
 
-JOn° 42 du 19/02/2009 texte numéro 38
+JO n° 42 du 19 / 02 / 2009 texte numéro 38
 
 Vous pouvez consulter le tableau dans le
 
-JOn° 42 du 19/02/2009 texte numéro 38
+JO n° 42 du 19 / 02 / 2009 texte numéro 38
 
 Vous pouvez consulter le tableau dans le
 
-JOn° 42 du 19/02/2009 texte numéro 38
+JO n° 42 du 19 / 02 / 2009 texte numéro 38
 
 Vous pouvez consulter le tableau dans le
 
-JOn° 42 du 19/02/2009 texte numéro 38
+JO n° 42 du 19 / 02 / 2009 texte numéro 38
 
 Vous pouvez consulter le tableau dans le
 
-JOn° 42 du 19/02/2009 texte numéro 38
+JO n° 42 du 19 / 02 / 2009 texte numéro 38
 
 Vous pouvez consulter le tableau dans le
 
-JOn° 42 du 19/02/2009 texte numéro 38
+JO n° 42 du 19 / 02 / 2009 texte numéro 38
 
 Vous pouvez consulter le tableau dans le
 
-JOn° 42 du 19/02/2009 texte numéro 38
+JO n° 42 du 19 / 02 / 2009 texte numéro 38
 
 Vous pouvez consulter le tableau dans le
 
-JOn° 42 du 19/02/2009 texte numéro 38
+JO n° 42 du 19 / 02 / 2009 texte numéro 38
 
 Vous pouvez consulter le tableau dans le
 
-JOn° 42 du 19/02/2009 texte numéro 38
+JO n° 42 du 19 / 02 / 2009 texte numéro 38
 
 Vous pouvez consulter le tableau dans le
 
-JOn° 42 du 19/02/2009 texte numéro 38
+JO n° 42 du 19 / 02 / 2009 texte numéro 38
 
 Vous pouvez consulter le tableau dans le
 
-JOn° 42 du 19/02/2009 texte numéro 38
+JO n° 42 du 19 / 02 / 2009 texte numéro 38
 
 (1) Unité de management Coelacanthe.
 
 Vous pouvez consulter le tableau dans le
 
-JOn° 42 du 19/02/2009 texte numéro 38
+JO n° 42 du 19 / 02 / 2009 texte numéro 38
 
 Vous pouvez consulter le tableau dans le
 
-JOn° 42 du 19/02/2009 texte numéro 38
+JO n° 42 du 19 / 02 / 2009 texte numéro 38
 
 Vous pouvez consulter le tableau dans le
 
-JOn° 42 du 19/02/2009 texte numéro 38
+JO n° 42 du 19 / 02 / 2009 texte numéro 38
 
-(1) Direction des systèmes d'armes - unité de management espace, systèmes d'information opérationnels.
+(1) Direction des systèmes d'armes-unité de management espace, systèmes d'information opérationnels.
 
-(2) Direction des systèmes d'armes - unité de management missiles et drones.
-
-Vous pouvez consulter le tableau dans le
-
-JOn° 42 du 19/02/2009 texte numéro 38
-
-(1) Direction des systèmes de forces et des stratégies industrielles, technologiques et de coopération - service des recherches et technologies de défense et de sécurité.
-
-(2) Direction des systèmes de forces et des stratégies industrielles, technologiques et de coopération - service d'architecture des systèmes de forces.
+(2) Direction des systèmes d'armes-unité de management missiles et drones.
 
 Vous pouvez consulter le tableau dans le
 
-JOn° 42 du 19/02/2009 texte numéro 38
+JO n° 42 du 19 / 02 / 2009 texte numéro 38
 
-(1) Direction des systèmes d'armes - unité de management Coelacanthe.
+(1) Direction des systèmes de forces et des stratégies industrielles, technologiques et de coopération-service des recherches et technologies de défense et de sécurité.
 
-(2) Direction des systèmes d'armes - unité de management espace, systèmes d'information opérationnels.
-
-(3) Direction des systèmes d'armes - unité de management Rafale.
-
-(4) Direction des systèmes d'armes - unité de management missiles et drones.
-
-(5) Direction des systèmes d'armes - unité de management Horus.
-
-(6) Direction des systèmes de forces et des stratégies industrielles, technologiques et de coopération - centre d'analyse de défense.
+(2) Direction des systèmes de forces et des stratégies industrielles, technologiques et de coopération-service d'architecture des systèmes de forces.
 
 Vous pouvez consulter le tableau dans le
 
-JOn° 42 du 19/02/2009 texte numéro 38
+JO n° 42 du 19 / 02 / 2009 texte numéro 38
+
+(1) Direction des systèmes d'armes-unité de management Coelacanthe.
+
+(2) Direction des systèmes d'armes-unité de management espace, systèmes d'information opérationnels.
+
+(3) Direction des systèmes d'armes-unité de management Rafale.
+
+(4) Direction des systèmes d'armes-unité de management missiles et drones.
+
+(5) Direction des systèmes d'armes-unité de management Horus.
+
+(6) Direction des systèmes de forces et des stratégies industrielles, technologiques et de coopération-centre d'analyse de défense.
+
+Vous pouvez consulter le tableau dans le
+
+JO n° 42 du 19 / 02 / 2009 texte numéro 38

@@ -4,35 +4,35 @@ La commission spécialisée de terminologie et de néologie du ministère de la 
 
 1° Le délégué général à la langue française ou son représentant :
 
-- un représentant de l'Académie française ;
+-un représentant de l'Académie française ;
 
-- un représentant de l'Académie des sciences lorsque la spécialité du vocabulaire examiné le justifie ;
+-un représentant de l'Académie des sciences lorsque la spécialité du vocabulaire examiné le justifie ;
 
-- un représentant d'un organisme agréé de normalisation désigné par le ministre intéressé lorsque la spécialité du vocabulaire examiné le justifie ;
+-un représentant d'un organisme agréé de normalisation désigné par le ministre intéressé lorsque la spécialité du vocabulaire examiné le justifie ;
 
 2° Un représentant appartenant à chacun des organismes du ministère de la défense énumérés ci-après et désigné par l'autorité dont il relève :
 
-- l'état-major des armées ;
+-l'état-major des armées ;
 
-- la délégation générale pour l'armement ;
+-la     direction générale de l'armement ;
 
-- le secrétariat général pour l'administration ;
+-le secrétariat général pour l'administration ;
 
-- l'état-major de l'armée de terre ;
+-l'état-major de l'armée de terre ;
 
-- l'état-major de la marine ;
+-l'état-major de la marine ;
 
-- l'état-major de l'armée de l'air ;
+-l'état-major de l'armée de l'air ;
 
-- le contrôle général des armées ;
+-le contrôle général des armées ;
 
-- la direction générale de la gendarmerie nationale ;
+-la direction générale de la gendarmerie nationale ;
 
-- la délégation aux affaires stratégiques ;
+-la délégation aux affaires stratégiques ;
 
-- la délégation à l'information et à la communication de la défense ;
+-la délégation à l'information et à la communication de la défense ;
 
-- le haut fonctionnaire de terminologie et de néologie du ministère de la défense ou son suppléant.
+-le haut fonctionnaire de terminologie et de néologie du ministère de la défense ou son suppléant.
 
 3° Des personnalités qualifiées désignées pour quatre ans par le ministre de la défense.
 

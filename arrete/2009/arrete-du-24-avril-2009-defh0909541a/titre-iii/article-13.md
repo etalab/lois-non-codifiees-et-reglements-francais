@@ -1,6 +1,6 @@
 # Article 13
 
-Le ministre de la défense (directeur des ressources humaines de la délégation générale pour l'armement), sur décision du jury, arrête :
+Le ministre de la défense (directeur des ressources humaines de la     direction générale de l'armement), sur décision du jury, arrête :
 
 ― les listes d'admission en qualité d'élèves ingénieurs des études et techniques de l'armement à l'ENSIETA ;
 

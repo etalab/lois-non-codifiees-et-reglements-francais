@@ -2,7 +2,7 @@
 
 Chaque sous-direction géographique :
 
-1° Anime et coordonne, en liaison avec les organismes concernés du ministère de la défense, les autres ministères et les industriels, les actions de la délégation générale pour l'armement en matière de promotion et d'exportation d'armement ;
+1° Anime et coordonne, en liaison avec les organismes concernés du ministère de la défense, les autres ministères et les industriels, les actions de la     direction générale de l'armement en matière de promotion et d'exportation d'armement ;
 
 2° Pilote la relation bilatérale d'armement ;
 

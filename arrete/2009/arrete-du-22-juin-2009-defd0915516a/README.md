@@ -1,4 +1,4 @@
-# Arrêté du 22 juin 2009 portant création d'un traitement automatisé de données à caractère personnel relatif à la gestion des délégations de signature à la délégation générale pour l'armement
+# Arrêté du 22 juin 2009 portant création d'un traitement automatisé de données à caractère personnel relatif à la gestion des délégations de signature à la direction générale de l'armement
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

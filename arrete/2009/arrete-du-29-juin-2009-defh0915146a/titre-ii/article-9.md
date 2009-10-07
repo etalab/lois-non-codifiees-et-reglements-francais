@@ -6,6 +6,6 @@ Peuvent seuls être déclarés admissibles les candidats ayant obtenu aux épreu
 
 Le candidat ne peut conserver le bénéfice de l'admissibilité d'une année sur l'autre.
 
-Le ministre de la défense (directeur des ressources humaines de la délégation générale pour l'armement) arrête, conformément aux décisions du jury, la liste des candidats déclarés admissibles à l'issue des épreuves écrites.
+Le ministre de la défense (directeur des ressources humaines de la     direction générale de l'armement) arrête, conformément aux décisions du jury, la liste des candidats déclarés admissibles à l'issue des épreuves écrites.
 
 Cette liste, établie par ordre alphabétique, est publiée au Bulletin officiel des armées.

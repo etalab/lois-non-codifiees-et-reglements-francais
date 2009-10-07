@@ -10,7 +10,7 @@ La sélection, en vue de l'admission des candidats aux formations de spécialisa
 
 Participent au jury pour avis avec voix consultative :
 
-― un représentant de la délégation générale pour l'armement compétent pour l'examen des candidatures d'étrangers ;
+― un représentant de la     direction générale de l'armement compétent pour l'examen des candidatures d'étrangers ;
 
 ― un représentant de l'état-major qui les concerne pour les officiers français présentés par leur commandement ;
 

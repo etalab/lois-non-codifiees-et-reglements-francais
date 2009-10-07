@@ -623,13 +623,13 @@
 <p>Commandants de région de gendarmerie et chefs des organismes administrés comme telles </p>
 </td>
 <td valign="top" width="227">
-<p align="center">MAPA × 0, 66 </p>
+<p align="center">MAPA × 0, 66</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="227"/>
 <td valign="top" width="227">
-<p align="center">Délégation générale pour l'armement </p>
+<p align="center">     direction générale de l'armement </p>
 </td>
 <td valign="top" width="227">
 <br/>

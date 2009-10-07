@@ -1,8 +1,6 @@
 # Article Annexe
 
-<div align="left">.</div>
-<div align="left"/>
-<div align="left"/>
+.
 
 <table>
 <tbody>
@@ -67,7 +65,7 @@
 </tr>
 <tr>
 <td width="149">
-<p align="left">Délégation générale pour l'armement.</p>
+<p align="left">Direction générale de l'armement.</p>
 </td>
 <td width="149">
 <p align="center">3</p>
@@ -129,3 +127,7 @@
 </tr>
 </tbody>
 </table>
+
+<div align="left">
+<br/>
+</div>

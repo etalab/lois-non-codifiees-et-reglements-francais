@@ -4,11 +4,11 @@ La division espace-programmes interarmées assiste le chef d'état-major des arm
 
 Dans le domaine espace, la division :
 
-- assiste le chef d'état-major des armées dans ses relations avec le Centre national d'études spatiales en matière de défense et contribue à la définition de la politique spatiale française ;
+-assiste le chef d'état-major des armées dans ses relations avec le Centre national d'études spatiales en matière de défense et contribue à la définition de la politique spatiale française ;
 
-- veille à la cohérence de la politique spatiale militaire et s'assure de sa prise en compte dans la conduite des opérations d'armement ;
+-veille à la cohérence de la politique spatiale militaire et s'assure de sa prise en compte dans la conduite des opérations d'armement ;
 
-- apporte son expertise à toute autorité ou organisme du ministère de la défense en matière de politique spatiale.
+-apporte son expertise à toute autorité ou organisme du ministère de la défense en matière de politique spatiale.
 
 Dans le domaine des programmes interarmées, selon les orientations des officiers de cohérence opérationnelle et en liaison avec les divisions de l'état-major des armées, elle exprime le besoin militaire auquel répondent les opérations d'armement interarmées, à l'exclusion des programmes mentionnés à l'article 12 ci-dessus.
 
@@ -20,8 +20,8 @@ En liaison avec la division capacités et équipements et les autres divisions c
 
 En matière de sécurité des systèmes d'information, la division espace-programmes interarmées :
 
-- assiste le chef d'état-major des armées dans son rôle d'autorité qualifiée pour la sécurité des systèmes d'information opérationnels et de communication interarmées ;
+-assiste le chef d'état-major des armées dans son rôle d'autorité qualifiée pour la sécurité des systèmes d'information opérationnels et de communication interarmées ;
 
-- participe à la définition des moyens de sécurité des systèmes d'information gouvernementaux ainsi qu'à la définition des règles générales d'emploi des procédés de chiffrement gouvernementaux utilisés dans un cadre national ou international.
+-participe à la définition des moyens de sécurité des systèmes d'information gouvernementaux ainsi qu'à la définition des règles générales d'emploi des procédés de chiffrement gouvernementaux utilisés dans un cadre national ou international.
 
-Elle coordonne les travaux sur la simulation opérationnelle interarmées en liaison avec la délégation générale pour l'armement.
+Elle coordonne les travaux sur la simulation opérationnelle interarmées en liaison avec la     direction générale de l'armement.

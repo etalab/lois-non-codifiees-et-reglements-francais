@@ -6,7 +6,7 @@ Le sous-chef d'état-major « plans et programmes », dans le cadre des processu
 
 2. Veille à la cohérence capacitaire des forces terrestres à court, moyen et long termes ; à ce titre, il fait mener les études, conduit les travaux de conception des forces terrestres et propose les modèles capacitaires ;
 
-3. Exprime les besoins de l'armée de terre en matière de capacités opérationnelles en liaison avec l'état-major des armées et la délégation générale pour l'armement ; à ce titre, il définit les objectifs d'état-major et propose la planification et la programmation des moyens correspondants ;
+3. Exprime les besoins de l'armée de terre en matière de capacités opérationnelles en liaison avec l'état-major des armées et la     direction générale de l'armement ; à ce titre, il définit les objectifs d'état-major et propose la planification et la programmation des moyens correspondants ;
 
 4. Assure, en s'appuyant sur la section technique de l'armée de terre dont il établit la directive de pilotage, la part revenant à l'état-major de l'armée de terre dans la conduite des opérations d'armement et s'assure de leur cohérence technico-opérationnelle ;
 

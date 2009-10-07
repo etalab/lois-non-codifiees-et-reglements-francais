@@ -4,6 +4,6 @@ Les destinataires des informations et des données à caractère personnel enreg
 
 ― les autorités hiérarchiques ;
 
-― le département de sécurité de défense et de l'information de la délégation générale pour l'armement ;
+― le département de sécurité de défense et de l'information de la     direction générale de l'armement ;
 
 ― le service des ressources humaines.

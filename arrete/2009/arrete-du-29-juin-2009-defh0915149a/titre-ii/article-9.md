@@ -4,7 +4,7 @@ A l'issue des travaux de correction de l'épreuve d'admissibilité, le jury éta
 
 Peuvent seuls être déclarés admissibles les candidats ayant obtenu à l'épreuve écrite une note au moins égale à 12.
 
-Le ministre de la défense (directeur des ressources humaines de la délégation générale pour l'armement) arrête, conformément aux décisions du jury, la liste des candidats déclarés admissibles à l'issue de l'épreuve écrite.
+Le ministre de la défense (directeur des ressources humaines de la     direction générale de l'armement) arrête, conformément aux décisions du jury, la liste des candidats déclarés admissibles à l'issue de l'épreuve écrite.
 
 Cette liste, établie par ordre alphabétique, est publiée au Bulletin officiel des armées.
 

@@ -8,7 +8,7 @@ La sous-direction de la gestion et de la qualité :
 
 3° Instruit, en liaison avec les états-majors, les dossiers de compensation et gère les dossiers d'aides à l'exportation ; veille à la perception des recettes mentionnées au décret du 21 janvier 1981 susvisé ;
 
-4° Participe, en liaison avec les états-majors, au suivi de la formation des stagiaires étrangers relevant d'opérations sous la responsabilité de la délégation générale pour l'armement ;
+4° Participe, en liaison avec les états-majors, au suivi de la formation des stagiaires étrangers relevant d'opérations sous la responsabilité de la     direction générale de l'armement ;
 
 5° Traite les aspects internationaux des questions de sécurité industrielle, prépare avec la direction des affaires juridiques et, en tant que de besoin, en liaison avec la délégation aux affaires stratégiques, les accords de sécurité liés à l'exécution des programmes d'armement et aux opérations d'exportation, d'importation ou de transfert et en suit l'application avec les services concernés ;
 

@@ -12,4 +12,4 @@ En application de l'article 5 du décret du 25 août 2000 susvisé, les cas dans
 
 -veille liée aux besoins de continuité du service.
 
-Par ailleurs, des astreintes peuvent être instaurées dans le cadre d'activités spécifiques à certains services, telles que les campagnes d'essais se déroulant dans les centres d'essais de la délégation générale pour l'armement ou les activités paramédicales du service de santé des armées, les journées d'appel de préparation à la défense de la direction du service national.
+Par ailleurs, des astreintes peuvent être instaurées dans le cadre d'activités spécifiques à certains services, telles que les campagnes d'essais se déroulant dans les centres d'essais de la     direction générale de l'armement ou les activités paramédicales du service de santé des armées, les journées d'appel de préparation à la défense de la direction du service national.

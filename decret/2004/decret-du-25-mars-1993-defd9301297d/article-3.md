@@ -40,4 +40,4 @@ Le délégataire est autorisé à subdéléguer ses pouvoirs, pour les occupatio
 
 11° Conventions relatives au bénéfice de servitudes légales sur le domaine privé militaire au profit de personnes morales ou physiques de droit privé.
 
-Les délégations de pouvoirs prévues aux 6°, premier alinéa,7°,9°,10° et 11° sont accordées aux directeurs d'établissement de la délégation générale pour l'armement et aux directeurs d'établissement de DCN.
+Les délégations de pouvoirs prévues aux 6°, premier alinéa, 7°, 9°, 10° et 11° sont accordées aux directeurs d'établissement de la     direction générale de l'armement et aux directeurs d'établissement de DCN.

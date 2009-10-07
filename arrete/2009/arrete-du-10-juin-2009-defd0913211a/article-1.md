@@ -6,7 +6,7 @@ Il comprend :
 
 1° Deux représentants de l'état-major des armées ;
 
-2° Le directeur des ressources humaines de la délégation générale pour l'armement ;
+2° Le directeur des ressources humaines de la     direction générale de l'armement ;
 
 3° Les directeurs chargés des ressources humaines de l'armée de terre, de la marine et de l'armée de l'air ;
 

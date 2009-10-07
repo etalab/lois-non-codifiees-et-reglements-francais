@@ -1,6 +1,6 @@
 # Article 10
 
-Le jury de chacun des concours A et B se compose d'un président, du grade d'ingénieur général de l'armement, et de six membres choisis parmi des ingénieurs de l'armement ou des personnels enseignants des établissements d'enseignement supérieur relevant de la délégation générale pour l'armement.
+Le jury de chacun des concours A et B se compose d'un président, du grade d'ingénieur général de l'armement, et de six membres choisis parmi des ingénieurs de l'armement ou des personnels enseignants des établissements d'enseignement supérieur relevant de la     direction générale de l'armement.
 
 Le président du jury est commun aux deux concours.
 

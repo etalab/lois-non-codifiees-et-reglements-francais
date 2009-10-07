@@ -1,4 +1,4 @@
-# Arrêté du 9 mars 2009 portant création d'un traitement automatisé de données à caractère personnel relatif au suivi du temps de travail des personnels et au contrôle et à la gestion des accès dans les établissements de la délégation générale pour l'armement, du service de soutien de la flotte et de la cité de l'air (base aérienne 117)
+# Arrêté du 9 mars 2009 portant création d'un traitement automatisé de données à caractère personnel relatif au suivi du temps de travail des personnels et au contrôle et à la gestion des accès dans les établissements de la direction générale de l'armement, du service de soutien de la flotte et de la cité de l'air (base aérienne 117)
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

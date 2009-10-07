@@ -1,6 +1,6 @@
 # Article 4
 
-Ier. ― Le déroulement des épreuves du concours est placé sous la responsabilité d'un jury désigné par le ministre de la défense (directeur des ressources humaines de la délégation générale pour l'armement) et constitué comme suit :
+Ier. ― Le déroulement des épreuves du concours est placé sous la responsabilité d'un jury désigné par le ministre de la défense (directeur des ressources humaines de la     direction générale de l'armement) et constitué comme suit :
 
 ― un inspecteur de l'armement ou son suppléant, président ;
 
@@ -8,7 +8,7 @@ Ier. ― Le déroulement des épreuves du concours est placé sous la responsabi
 
 Parmi les six ingénieurs membres du jury, l'un est issu au moins du corps des ingénieurs d'études et de fabrications ou du corps des techniciens supérieurs d'études et de fabrications.
 
-Le jury du concours assure la correction des épreuves écrites et l'interrogation orale des candidats. A cet effet, il peut s'adjoindre des experts choisis en raison de leur compétence particulière.
+Le jury du concours assure la correction des épreuves écrites et l'interrogation orale des candidats.A cet effet, il peut s'adjoindre des experts choisis en raison de leur compétence particulière.
 
 II. ― Le président du jury :
 

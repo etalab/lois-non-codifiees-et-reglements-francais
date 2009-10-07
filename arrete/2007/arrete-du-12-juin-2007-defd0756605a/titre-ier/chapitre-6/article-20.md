@@ -2,7 +2,7 @@
 
 La division soutien logistique interarmées contribue à la définition de la politique logistique du ministère de la défense et au contrôle de son application.
 
-Elle élabore les directives de soutien prévues par l'article 9 du décret du 21 mai 2005 susvisé et traite des questions visant à assurer la cohérence et la coordination logistique, tant dans le domaine national qu'international. Elle assure la coordination générale des politiques sectorielles et des études logistiques conduites par les armées et la délégation générale pour l'armement.
+Elle élabore les directives de soutien prévues par l'article 9 du décret du 21 mai 2005 susvisé et traite des questions visant à assurer la cohérence et la coordination logistique, tant dans le domaine national qu'international. Elle assure la coordination générale des politiques sectorielles et des études logistiques conduites par les armées et la     direction générale de l'armement.
 
 Elle élabore la politique de soutien au stationnement des forces en opération.
 

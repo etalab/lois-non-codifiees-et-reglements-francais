@@ -2,7 +2,7 @@
 
 Les formations stationnées dans une même aire géographique ainsi que les établissements des forces armées et des formations rattachées sont regroupés en garnison.
 
-Dans le corps du présent décret, les forces armées comprennent l'armée de terre, la marine nationale, l'armée de l'air et la gendarmerie nationale ; les formations rattachées comprennent la délégation générale pour l'armement, le service de santé des armées, le service des essences des armées et le service de justice militaire.
+Dans le corps du présent décret, les forces armées comprennent l'armée de terre, la marine nationale, l'armée de l'air et la gendarmerie nationale ; les formations rattachées comprennent la     direction générale de l'armement, le service de santé des armées, le service des essences des armées et le service de justice militaire.
 
 Lorsque, dans une aire géographique, ne sont présentes que des formations de la gendarmerie nationale, la création d'une garnison n'est pas obligatoire.
 

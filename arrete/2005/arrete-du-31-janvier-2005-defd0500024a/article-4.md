@@ -2,7 +2,7 @@
 
 La sous-direction de la coopération et du développement européen :
 
-1. Promeut le développement européen des questions d'armement et assure la relation avec les institutions européennes pour les domaines de compétence de la délégation générale pour l'armement ;
+1. Promeut le développement européen des questions d'armement et assure la relation avec les institutions européennes pour les domaines de compétence de la     direction générale de l'armement ;
 
 2. Elabore les orientations relatives à la coopération en matière d'armement et notamment celles relatives à l'Union européenne et à l'Organisation du traité de l'Atlantique-nord et met en oeuvre les actions correspondantes, en liaison avec les organismes concernés du ministère de la défense, les autres ministères et les industriels concernés ;
 

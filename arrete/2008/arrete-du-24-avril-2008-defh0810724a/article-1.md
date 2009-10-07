@@ -12,7 +12,7 @@ Pour les services placés sous l'autorité du secrétaire général pour l'admin
 
 ― le sous-directeur de la gestion collective du personnel civil de la DRH-MD ou son représentant.
 
-Pour la délégation générale pour l'armement :
+Pour la     direction générale de l'armement :
 
 ― le directeur des ressources humaines (DRH) ou son représentant ;
 

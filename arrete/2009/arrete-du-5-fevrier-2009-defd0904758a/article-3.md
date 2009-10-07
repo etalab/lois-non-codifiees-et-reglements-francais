@@ -1,6 +1,6 @@
 # Article 3
 
-Le comité directeur de l'océanographie militaire est co-présidé par l'officier général chargé, au sein de la délégation générale pour l'armement, de la définition des capacités futures et par l'officier général, sous-chef d'état-major chargé des opérations à l'état-major de la marine.
+Le comité directeur de l'océanographie militaire est co-présidé par l'officier général chargé, au sein de la     direction générale de l'armement, de la définition des capacités futures et par l'officier général, sous-chef d'état-major chargé des opérations à l'état-major de la marine.
 
 Outre ses deux coprésidents, sont membres de ce comité :
 
@@ -10,7 +10,7 @@ Outre ses deux coprésidents, sont membres de ce comité :
 
 3° L'ingénieur désigné par le délégué général pour l'armement pour le domaine « architecture et systèmes navals », ou son représentant ;
 
-4° L'ingénieur désigné par le délégué général pour l'armement pour le domaine « systèmes de commandement, conduite, communications et renseignement/C3R », ou son représentant ;
+4° L'ingénieur désigné par le délégué général pour l'armement pour le domaine « systèmes de commandement, conduite, communications et renseignement / C3R », ou son représentant ;
 
 5° L'officier désigné par le chef d'état-major des armées, chargé du domaine HOM, ou son représentant ;
 

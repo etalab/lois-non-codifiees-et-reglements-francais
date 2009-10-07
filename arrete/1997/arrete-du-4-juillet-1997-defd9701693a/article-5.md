@@ -1,6 +1,6 @@
 # Article 5
 
-Le secrétariat permanent du comité des études à caractère opérationnel ou technico-opérationnel est assuré par la délégation générale pour l'armement.
+Le secrétariat permanent du comité des études à caractère opérationnel ou technico-opérationnel est assuré par la     direction générale de l'armement.
 
 Il prépare l'ordre du jour des réunions du comité.
 

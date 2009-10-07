@@ -14,8 +14,8 @@ La sous-direction de la gestion du personnel civil de l'administration centrale 
 
 ― le personnel civil de l'administration centrale ;
 
-― le personnel civil et des militaires de la délégation générale pour l'armement affectés dans les postes permanents à l'étranger ;
+― le personnel civil et des militaires de la     direction générale de l'armement affectés dans les postes permanents à l'étranger ;
 
 3. Le fonctionnement du service de la médecine du travail et du service du contrôle médical, le traitement des dossiers d'accident du travail et de maladie professionnelle et l'organisation des réunions des commissions de réforme ;
 
-4. L'organisation des actions de formation pour le personnel civil de l'administration centrale.
+4.L'organisation des actions de formation pour le personnel civil de l'administration centrale.

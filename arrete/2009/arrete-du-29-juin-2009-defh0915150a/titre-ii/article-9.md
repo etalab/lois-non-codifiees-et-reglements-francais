@@ -4,7 +4,7 @@ A l'issue des travaux de correction des épreuves d'admissibilité, le jury éta
 
 Peuvent seuls être déclarés admissibles les candidats ayant obtenu aux épreuves écrites obligatoires une moyenne générale au moins égale à 10, toute note inférieure à 8 est éliminatoire.
 
-Le ministre de la défense (directeur des ressources humaines de la délégation générale pour l'armement) arrête, conformément aux décisions du jury, la liste des candidats déclarés admissibles à l'issue des épreuves écrites.
+Le ministre de la défense (directeur des ressources humaines de la     direction générale de l'armement) arrête, conformément aux décisions du jury, la liste des candidats déclarés admissibles à l'issue des épreuves écrites.
 
 Cette liste, établie par ordre alphabétique, est publiée au Bulletin officiel des armées.
 

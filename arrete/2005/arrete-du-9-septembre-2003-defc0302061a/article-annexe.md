@@ -30,19 +30,19 @@ Les traits généraux des principaux régimes actuels (Etats-Unis, Royaume-Uni, 
 
 Les règles essentielles du droit international public* :
 
-- le statut international de l'Etat ;
+-le statut international de l'Etat ;
 
-- la souveraineté et le principe d'égalité ;
+-la souveraineté et le principe d'égalité ;
 
-- les règles de formation et de transformation des Etats ;
+-les règles de formation et de transformation des Etats ;
 
-- le principe du non-recours à la force ;
+-le principe du non-recours à la force ;
 
-- les grands principes de la responsabilité internationale ;
+-les grands principes de la responsabilité internationale ;
 
-- les règles essentielles régissant les traités internationaux ;
+-les règles essentielles régissant les traités internationaux ;
 
-- les principes généraux d'organisation et de fonctionnement des organisations internationales.
+-les principes généraux d'organisation et de fonctionnement des organisations internationales.
 
 Les principes de la Convention européenne de sauvegarde des droits de l'homme et des libertés fondamentales*.
 
@@ -52,13 +52,13 @@ Les grands principes du droit communautaire*.
 
 Les institutions et les actes communautaires :
 
-- les institutions ;
+-les institutions ;
 
-- les processus décisionnels ;
+-les processus décisionnels ;
 
-- les actes communautaires ;
+-les actes communautaires ;
 
-- l'intégration du droit communautaire dans le droit interne.
+-l'intégration du droit communautaire dans le droit interne.
 
 4. Droit administratif et institutions administratives
 
@@ -68,11 +68,11 @@ Les actes administratifs unilatéraux.
 
 Les contrats administratifs, les modes de passation des contrats de l'administration :
 
-- les principes généraux du droit des contrats administratifs ;
+-les principes généraux du droit des contrats administratifs ;
 
-- les délégations de service public ;
+-les délégations de service public ;
 
-- les marchés publics.
+-les marchés publics.
 
 La responsabilité de l'Etat et de ses agents.
 
@@ -92,13 +92,13 @@ Les entreprises publiques.
 
 L'organisation de l'Etat :
 
-- les cabinets, les administrations centrales, les services déconcentrés ;
+-les cabinets, les administrations centrales, les services déconcentrés ;
 
-- les services à compétence nationale ;
+-les services à compétence nationale ;
 
-- les établissements publics de l'Etat ;
+-les établissements publics de l'Etat ;
 
-- les autorités administratives indépendantes.
+-les autorités administratives indépendantes.
 
 5. Finances publiques de l'Etat
 
@@ -116,11 +116,11 @@ L'élaboration de la loi de finances.
 
 L'exécution de la loi de finances :
 
-- les procédures d'exécution des recettes* ;
+-les procédures d'exécution des recettes* ;
 
-- les procédures d'exécution des dépenses ;
+-les procédures d'exécution des dépenses ;
 
-- les modifications en cours d'exécution de la loi de finances.
+-les modifications en cours d'exécution de la loi de finances.
 
 Le contrôle (administratif, juridictionnel et politique) de l'exécution de la loi de finances.
 
@@ -130,7 +130,7 @@ La séparation des ordres judiciaire et administratif.
 
 La hiérarchie des degrés de juridiction.
 
-La distinction juridictions de droit commun/juridictions spécialisées.
+La distinction juridictions de droit commun / juridictions spécialisées.
 
 Les différents modes d'organisation et de composition des juridictions.
 
@@ -148,17 +148,17 @@ TITRE II
 
 Les principales formes juridiques d'entreprises :
 
-- les sociétés anonymes ;
+-les sociétés anonymes ;
 
-- les groupements d'intérêt économique (GIE) ;
+-les groupements d'intérêt économique (GIE) ;
 
-- les autres formes juridiques d'entreprises*.
+-les autres formes juridiques d'entreprises*.
 
 La propriété industrielle :
 
-- les principes généraux ;
+-les principes généraux ;
 
-- le brevet d'invention.
+-le brevet d'invention.
 
 La concurrence et le contrôle de la concurrence.
 
@@ -180,67 +180,67 @@ Principes généraux d'organisation et de financement du régime général de la
 
 Notions fondamentales de l'économie de marché* :
 
-- offre et demande ;
+-offre et demande ;
 
-- formation des prix ;
+-formation des prix ;
 
-- partage de la valeur ajoutée ;
+-partage de la valeur ajoutée ;
 
-- consommation et investissement.
+-consommation et investissement.
 
 Les instruments de mesure* :
 
-- les grands principes de la comptabilité nationale ;
+-les grands principes de la comptabilité nationale ;
 
-- les principes essentiels de l'analyse statistique.
+-les principes essentiels de l'analyse statistique.
 
 Les phénomènes monétaires :
 
-- la création de monnaie ;
+-la création de monnaie ;
 
-- les flux ;
+-les flux ;
 
-- la régulation financière.
+-la régulation financière.
 
 La politique économique :
 
-- les politiques structurelles ;
+-les politiques structurelles ;
 
-- les politiques conjoncturelles ;
+-les politiques conjoncturelles ;
 
-- le rôle et la place de l'Union européenne et des accords mondiaux dans la politique de régulation économique.
+-le rôle et la place de l'Union européenne et des accords mondiaux dans la politique de régulation économique.
 
 4. Stratégie et gestion de l'entreprise
 
 La stratégie d'entreprise :
 
-- les modes d'organisation ;
+-les modes d'organisation ;
 
-- l'internationalisation et la stratégie de groupe ;
+-l'internationalisation et la stratégie de groupe ;
 
-- la décision stratégique* ;
+-la décision stratégique* ;
 
-- la performance de l'entreprise*.
+-la performance de l'entreprise*.
 
 La gestion financière de l'entreprise :
 
-- la comptabilité générale et la comptabilité analytique ;
+-la comptabilité générale et la comptabilité analytique ;
 
-- la notion de consolidation ;
+-la notion de consolidation ;
 
-- le financement.
+-le financement.
 
 La gestion des ressources humaines dans l'entreprise*.
 
 Aspects de la gestion de l'entreprise :
 
-- la recherche ;
+-la recherche ;
 
-- l'investissement ;
+-l'investissement ;
 
-- l'approvisionnement et les stocks ;
+-l'approvisionnement et les stocks ;
 
-- la création de valeur ajoutée.
+-la création de valeur ajoutée.
 
 L'évaluation de l'entreprise.
 
@@ -300,7 +300,7 @@ Les services propres à chaque armée.
 
 Les services interarmées.
 
-Les directions et services de la délégation générale pour l'armement (DGA).
+Les directions et services de la     direction générale de l'armement (DGA).
 
 Les directions et services du secrétariat général pour l'administration (SGA).
 
@@ -386,8 +386,8 @@ L'inspection des installations classées pour la protection de l'environnement.
 
 Les traits principaux de l'organisation administrative et du fonctionnement :
 
-- des formations administratives des armées et de la gendarmerie ;
+-des formations administratives des armées et de la gendarmerie ;
 
-- des établissements des services de soutien et de la DGA.
+-des établissements des services de soutien et de la DGA.
 
 (1) Les matières suivies d'un astérisque (*) ne peuvent pas constituer le sujet d'un exposé oral.

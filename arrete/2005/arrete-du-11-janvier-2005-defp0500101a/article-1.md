@@ -2,7 +2,7 @@
 
 La liste des unités, formations et services visés à l'article 5 quater du décret du 13 octobre 1959 susvisé au titre des mesures exécutoires à compter du 1er juillet 2004 est la suivante :
 
-I. - Armée de terre
+I.-Armée de terre
 
 Etablissement spécialisé du commissariat de l'armée de terre, Ambronay (01).
 
@@ -56,9 +56,9 @@ Groupement du 2e régiment du matériel, Le Mans (72).
 
 Cercle Saint-Dominique de l'îlot Saint-Germain, Paris (75).
 
-Etablissement impression de l'armée de terre, Saint-Cyr-l'Ecole - Versailles (78).
+Etablissement impression de l'armée de terre, Saint-Cyr-l'Ecole-Versailles (78).
 
-Etablissement spécialisé du commissariat de l'armée de terre, Saint-Cyr-l'Ecole - Versailles (78).
+Etablissement spécialisé du commissariat de l'armée de terre, Saint-Cyr-l'Ecole-Versailles (78).
 
 Direction régionale du matériel de la région terre Ile-de-France, Saint-Germain-en-Laye (78).
 
@@ -68,11 +68,11 @@ Détachement de la 17e base de soutien du matériel, Versailles (78).
 
 Etablissement annexe du commissariat de l'armée de terre de Canjuers, Montferrat (83).
 
-Groupe de défense NBC - Centre de défense NBC, Draguignan (83).
+Groupe de défense NBC-Centre de défense NBC, Draguignan (83).
 
 Etablissement ravitailleur du commissariat de l'armée de terre, Limoges (87).
 
-II. - Marine
+II.-Marine
 
 Centre radio-auxiliaire du Cranou, Lopérec (29).
 
@@ -88,7 +88,7 @@ Commission permanente des programmes et des essais, Paris (75).
 
 Commandement de la gendarmerie maritime, Paris (75).
 
-III. - Armée de l'air
+III.-Armée de l'air
 
 Direction centrale de l'infrastructure de l'Air, Paris (75).
 
@@ -96,7 +96,7 @@ Etablissement logistique du commissariat, Portes-lès-Valence (26).
 
 Détachement Air 273, Romorantin (41).
 
-IV. - Gendarmerie nationale
+IV.-Gendarmerie nationale
 
 Commandement des écoles de la gendarmerie nationale, Maisons-Alfort (94).
 
@@ -110,11 +110,11 @@ Office central de lutte contre les atteintes de l'environnement et de la santé 
 
 Groupe de soutien technique des hélicoptères de la gendarmerie, Le Blanc (36).
 
-V. - Délégation générale pour l'armement
+V.-     direction générale de l'armement
 
 Bureau trilatéral de programmes, Rueil-Malmaison (92).
 
-VI. - Service de santé des armées
+VI.-Service de santé des armées
 
 Direction du service de santé des armées en région terre nord-ouest, Rennes (35).
 
@@ -136,7 +136,7 @@ Direction du service de santé en région aérienne sud, Mérignac (33).
 
 Chefferie de service de santé en arrondissement maritime, Cherbourg (50).
 
-VII. - Service des essences des armées
+VII.-Service des essences des armées
 
 Dépôt des essences de Strasbourg, Entzheim (67).
 
@@ -144,7 +144,7 @@ Centre de ravitaillement des essences d'Amilly, Amilly (45).
 
 Etablissement de fabrication des huiles, La Rochelle (17).
 
-VIII. - Divers
+VIII.-Divers
 
 Centre de gestion Socrate, Villacoublay (78).
 

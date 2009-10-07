@@ -448,6 +448,7 @@
 - [Décret n°2009-872 du 16 juillet 2009 (AGRG0914250D)](decret-n2009-872-du-16-juillet-2009-agrg0914250d)
 - [Décret n°2009-873 du 16 juillet 2009 (ECEC0907196D)](decret-n2009-873-du-16-juillet-2009-ecec0907196d)
 - [Décret n°2009-874 du 16 juillet 2009 (ECET0909114D)](decret-n2009-874-du-16-juillet-2009-ecet0909114d)
+- [Décret n°98-99 du 16 février 1998 (DEFP9801101D)](decret-n98-99-du-16-fevrier-1998-defp9801101d)
 - [Décret n°2008-63 du 17 janvier 2008 (AGRP0773780D)](decret-n2008-63-du-17-janvier-2008-agrp0773780d)
 - [Décret n°2009-1118 du 17 septembre 2009 (PRMX0913881D)](decret-n2009-1118-du-17-septembre-2009-prmx0913881d)
 - [Décret n°2009-1120 du 17 septembre 2009 (DEVK0823658D)](decret-n2009-1120-du-17-septembre-2009-devk0823658d)

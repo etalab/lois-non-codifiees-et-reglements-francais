@@ -12,7 +12,7 @@ Ne peuvent être appelés à assumer les fonctions de commandant d'armes qu'à d
 
 1. Les officiers de la gendarmerie départementale ou des formations spécialisées de la gendarmerie nationale ;
 
-2. Les officiers de la délégation générale pour l'armement ;
+2. Les officiers de la     direction générale de l'armement ;
 
 3. Les officiers du service de santé des armées, du service des essences des armées ou du service de la justice militaire ;
 

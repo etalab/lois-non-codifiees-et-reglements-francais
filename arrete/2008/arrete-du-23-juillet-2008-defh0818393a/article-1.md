@@ -4,4 +4,4 @@ Il est institué au ministère de la défense, en application des dispositions d
 
 Les agents des établissements publics à caractère administratif dont la liste est annexée au présent arrêté relèvent de la commission.
 
-Les ingénieurs, cadres technico-commerciaux et techniciens de la délégation générale pour l'armement et des services à caractère industriel et commercial du ministère de la défense ne relèvent pas de la commission.
+Les ingénieurs, cadres technico-commerciaux et techniciens de la     direction générale de l'armement et des services à caractère industriel et commercial du ministère de la défense ne relèvent pas de la commission.
