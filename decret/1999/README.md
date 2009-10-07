@@ -174,7 +174,6 @@
 - [Décret n°99-16 du 8 janvier 1999 (DEFM9802127D)](decret-n99-16-du-8-janvier-1999-defm9802127d)
 - [Décret n°99-162 du 8 mars 1999 (ECOI9920045D)](decret-n99-162-du-8-mars-1999-ecoi9920045d)
 - [Décret n°99-163 du 8 mars 1999 (ECOT9951775D)](decret-n99-163-du-8-mars-1999-ecot9951775d)
-- [Décret n°99-164 du 8 mars 1999 (DEFD9901204D)](decret-n99-164-du-8-mars-1999-defd9901204d)
 - [Décret n°99-165 du 8 mars 1999 (DEFD9901203D)](decret-n99-165-du-8-mars-1999-defd9901203d)
 - [Décret n°99-166 du 8 mars 1999 (DEFD9901205D)](decret-n99-166-du-8-mars-1999-defd9901205d)
 - [Décret n°99-167 du 8 mars 1999 (DEFD9901235D)](decret-n99-167-du-8-mars-1999-defd9901235d)
