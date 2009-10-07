@@ -225,7 +225,6 @@
 - [Arrêté du 6 janvier 1995 (MICT9500001A)](arrete-du-6-janvier-1995-mict9500001a)
 - [Arrêté du 6 janvier 1995 (MICT9500002A)](arrete-du-6-janvier-1995-mict9500002a)
 - [Arrêté du 6 juin 1995 (AGRA9501032A)](arrete-du-6-juin-1995-agra9501032a)
-- [Arrêté du 6 juin 1995 (DEFD9501624A)](arrete-du-6-juin-1995-defd9501624a)
 - [Arrêté du 6 mars 1995 (AGRG9500371A)](arrete-du-6-mars-1995-agrg9500371a)
 - [Arrêté du 6 mars 1995 (BUDD9450013A)](arrete-du-6-mars-1995-budd9450013a)
 - [Arrêté du 6 mars 1995 (BUDR9504236A)](arrete-du-6-mars-1995-budr9504236a)

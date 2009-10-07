@@ -464,7 +464,6 @@
 - [Arrêté du 13 mai 1992 (JUSB9210147A)](arrete-du-13-mai-1992-jusb9210147a)
 - [Arrêté du 13 mai 1992 (PRMA9200020A)](arrete-du-13-mai-1992-prma9200020a)
 - [Arrêté du 13 mai 1992 (PRMX9210142A)](arrete-du-13-mai-1992-prmx9210142a)
-- [Arrêté du 14 août 1992 (DEFD9201718A)](arrete-du-14-aout-1992-defd9201718a)
 - [Arrêté du 14 août 1992 (SANH9202067A)](arrete-du-14-aout-1992-sanh9202067a)
 - [Arrêté du 14 avril 1992 (AGRS9200773A)](arrete-du-14-avril-1992-agrs9200773a)
 - [Arrêté du 14 décembre 1992 (LOGC9200071A)](arrete-du-14-decembre-1992-logc9200071a)

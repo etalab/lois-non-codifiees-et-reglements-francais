@@ -80,7 +80,6 @@
 - [Arrêté du 10 août 2006 (BUDF0620458A)](arrete-du-10-aout-2006-budf0620458a)
 - [Arrêté du 10 janvier 2006 (INDI0606591A)](arrete-du-10-janvier-2006-indi0606591a)
 - [Arrêté du 10 juillet 2006 (INDI0607867A)](arrete-du-10-juillet-2006-indi0607867a)
-- [Arrêté du 10 mars 2006 (DEFD0600310A)](arrete-du-10-mars-2006-defd0600310a)
 - [Arrêté du 10 mars 2006 (INTE0600176A)](arrete-du-10-mars-2006-inte0600176a)
 - [Arrêté du 10 octobre 2006 (DEFG0601483A)](arrete-du-10-octobre-2006-defg0601483a)
 - [Arrêté du 11 avril 2006 (SOCA0621478A)](arrete-du-11-avril-2006-soca0621478a)

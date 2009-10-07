@@ -748,7 +748,6 @@
 - [Décret n°97-589 du 29 mai 1997 (MCCX9700026D)](decret-n97-589-du-29-mai-1997-mccx9700026d)
 - [Décret n°97-592 du 29 mai 1997 (PRMX9700031D)](decret-n97-592-du-29-mai-1997-prmx9700031d)
 - [Décret n°97-593 du 29 mai 1997 (PRMX9702043D)](decret-n97-593-du-29-mai-1997-prmx9702043d)
-- [Décret n°97-598 du 29 mai 1997 (DEFP9701310D)](decret-n97-598-du-29-mai-1997-defp9701310d)
 - [Décret n°97-609 du 29 mai 1997 (MAEC9710011D)](decret-n97-609-du-29-mai-1997-maec9710011d)
 - [Décret n°97-649 du 29 mai 1997 (ECOP9700272D)](decret-n97-649-du-29-mai-1997-ecop9700272d)
 - [Décret n°97-650 du 29 mai 1997 (ECOP9700273D)](decret-n97-650-du-29-mai-1997-ecop9700273d)

@@ -60,7 +60,6 @@
 - [Arrêté du 4 mai 1988 (ASEH8800741A)](arrete-du-4-mai-1988-aseh8800741a)
 - [Arrêté du 4 mai 1988 (ASEH8800742A)](arrete-du-4-mai-1988-aseh8800742a)
 - [Arrêté du 4 mai 1988 (DEFP8801287A)](arrete-du-4-mai-1988-defp8801287a)
-- [Arrêté du 4 mai 1988 (DEFP8801376A)](arrete-du-4-mai-1988-defp8801376a)
 - [Arrêté du 4 mai 1988 (ECOM8800167A)](arrete-du-4-mai-1988-ecom8800167a)
 - [Arrêté du 4 mai 1988 (INDD8800339A)](arrete-du-4-mai-1988-indd8800339a)
 - [Arrêté du 4 mai 1988 (RESY8800423A)](arrete-du-4-mai-1988-resy8800423a)
