@@ -1,0 +1,3 @@
+# Article 3 bis
+
+En dérogation aux dispositions du premier alinéa de l'article 1er, les titulaires d'un certificat de capacité pour la présentation au public, autre que celle définie au (4) de l'annexe I, sans spectacles itinérants, dans l'exercice duquel ils justifient d'une expérience d'au moins trois ans, peuvent présenter une demande d'extension de ce certificat à l'activité de présentation au public avec spectacle itinérant, avec les mêmes espèces ou groupes d'espèces, s'ils possèdent une expérience d'au moins deux mois acquise dans les conditions prévues aux deuxième et troisième alinéas de l'article 1er.

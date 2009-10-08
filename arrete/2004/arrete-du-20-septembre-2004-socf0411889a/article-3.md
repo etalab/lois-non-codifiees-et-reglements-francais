@@ -1,13 +1,9 @@
 # Article 3
 
-Le titre professionnel d'agent (e) d'intervention en distribution automatique est composé de quatre unités constitutives, dont la liste suit :
+Le titre professionnel d'agent (e) d'intervention en distribution automatique est composé des deux unités constitutives dont la liste suit :
 
-1. Installer et mettre en service sur le site d'exploitation des distributeurs automatiques ;
+1. Installer, mettre en service et assurer la maintenance curative des distributeurs automatiques ;
 
-2. Assurer la maintenance préventive 1er niveau et approvisionner les distributeurs automatiques ;
+2. Assurer l'approvisionnement et l'exploitation technique d'un parc de distributeurs automatiques dans un environnement client.
 
-3. Régler, paramétrer, configurer des distributeurs automatiques ainsi que des systèmes de paiement et assurer la maintenance préventive du parc d'appareils ;
-
-4. Assurer le diagnostic et la maintenance curative des distributeurs automatiques et des systèmes de paiement.
-
-Elles peuvent être sanctionnées par des certificats de compétences professionnelles (CCP) dans les conditions prévues par l'arrêté du 25 novembre 2002 susvisé.
+Elles peuvent être sanctionnées par des certificats de compétences professionnelles (CCP) dans les conditions prévues par l'arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.

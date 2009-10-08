@@ -14,99 +14,77 @@ Code NSF : 250 r.
 
 Résumé du référentiel d'emploi
 
-L'agent (e) d'intervention en distribution automatique assure la mise en service, l'approvisionnement et la maintenance des appareils de distribution automatique (boissons, restauration principalement).
+L'agent (e) d'intervention en distribution automatique (AIDA) exerce une activité de service et d'assistance pour l'exploitation et l'utilisation d'appareils de distribution automatique.
 
-Il (elle) réalise la maintenance préventive et / ou curative du parc des appareils en distribution automatique sur site d'exploitation.
+Il procède à l'installation et à la mise en service des appareils. Il assure leur configuration et leur paramétrage.
 
-En situation de panne d'un appareil, la remise en état de fonctionnement le plus rapidement possible doit être assurée afin d'éviter la perte de chiffre d'affaires.A chaque intervention, il (elle) vérifie et met en conformité les appareils.
+Il assure en atelier le reconditionnement et la remise à neuf des distributeurs automatiques en vue d'une réimplantation, ou le démantèlement en vue d'une destruction.
 
-Sur site d'exploitation des distributeurs automatiques, en cas de panne, les explications des clients sont exploitées, les causes du dysfonctionnement recherchées et un diagnostic établi.A partir des documents constructeurs et en exploitant l'instrumentation appropriée, le dysfonctionnement est localisé en pratiquant les mesures et les contrôles préconisés ou en mettant en oeuvre des procédures de tests. Le livret de suivi des appareils est renseigné et un compte-rendu d'intervention établi à destination du client comme de son employeur.
+Il procède à l'approvisionnement et l'entretien courant des distributeurs automatiques. Il assure le ramassage des fonds.
 
-A l'atelier, il (elle) assure le reconditionnement des appareils du parc, détermine alors l'ensemble des opérations de gros entretien pour la remise en état générale d'un appareil vétuste et fournit les éléments permettant la réalisation d'un devis.
+A partir de documents constructeurs et en exploitant l'instrumentation appropriée, il réalise la maintenance préventive et / ou curative des appareils en distribution automatique.
 
-Les distributeurs automatiques sont installés et mis en service. En conformité avec le cahier des charges défini par le client lors du démarchage commercial, les distributeurs sont configurés et leurs systèmes de paiement paramétrés avant livraison.
+En contact avec le client, il doit être capable de comprendre la problématique de ce dernier et lui fournir l'assistance nécessaire pour l'exploitation optimale de ses appareils. Il est " l'interface " entre le client, le constructeur et l'entreprise qui l'emploie. De par sa prestation, il contribue à l'image de marque de son entreprise.
 
-L'agent (e) d'intervention en distribution automatique procède parfois à l'approvisionnement et à l'entretien courant de ces distributeurs. Il (elle) assure alors le ramassage des fonds (collecte de la caisse).
+Capacités attestées et descriptif des composantes de la certification
 
-Les tâches courantes de gestion de stock produits ou pièces détachées, commande et réception de pièces, inventaire annuels sont également assurées par lui (elle).
+1. Installer, mettre en service et assurer la maintenance curative des distributeurs automatiques
 
-Il (elle) doit être capable de comprendre la problématique du client et lui fournir l'assistance nécessaire pour l'exploitation optimale de ses appareils. Lors de sa prestation, il (elle) contribue à l'image de marque de son entreprise.
+Réaliser la livraison, l'enlèvement, les raccordements des distributeurs automatiques (électricité, eau) en conformité avec les préconisations du constructeur.
 
-Capacités attestées et descriptif
+Réaliser le reconditionnement, la remise à neuf en atelier des distributeurs automatiques.
 
-des composantes de la certification
+Configurer, régler, paramétrer les distributeurs automatiques et leur système de paiement en respectant un cahier des charges.
 
-1. Installer et mettre en service sur le site d'exploitation
+Identifier le dysfonctionnement du distributeur automatique et poser le diagnostic en appliquant une méthode de dépannage structurée et adaptée à la technologie rencontrée.
 
-des distributeurs automatiques
+Remédier au dysfonctionnement du distributeur automatique par intervention sur l'élément ou la fonction défaillante.
 
-Réaliser la livraison des distributeurs automatiques sur site en clientèle.
+Procéder aux essais et mettre ou remettre en service les distributeurs automatiques en rendant compte de son intervention auprès de son responsable hiérarchique et de son client.
 
-Contrôler la conformité des raccordements et de l'environnement et conseiller le client en vue de raccorder un distributeur automatique.
+Expliquer et démontrer le fonctionnement des distributeurs automatiques aux clients en vue d'une utilisation optimale.
 
-Contrôler le bon fonctionnement des distributeurs automatiques et systèmes de paiement.
+2. Assurer l'approvisionnement et l'exploitation technique d'un parc de distributeurs automatiques dans un environnement client
 
-Réaliser la démonstration d'un distributeur automatique en vue d'une utilisation optimale.
+Préparer le véhicule et mettre en œuvre une tournée d'approvisionnement afin de permettre un réassortiment optimal des distributeurs automatiques.
 
-Maintenir des relations commerciales avec sa clientèle lors d'une installation ou d'une mise en service d'un distributeur automatique.
+Assurer les opérations d'entretien, de nettoyage, de maintenance préventive et curative de premier niveau sur les distributeurs automatiques dans le respect des normes d'hygiène et des exigences environnementales.
 
-Finaliser ses interventions dans un cadre administratif, lors de l'installation ou de la mise en service d'un distributeur automatique sur site.
+Modifier les réglages et / ou paramétrages pour adapter le distributeur automatique à une nouvelle exploitation commerciale (prix, gamme de produit, affichage...).
 
-2. Assurer la maintenance préventive 1er niveau
+Réapprovisionner les distributeurs automatiques en produits consommables en appliquant les règles d'hygiène et en respectant une stratégie de marchandising définie.
 
-et approvisionner les distributeurs automatiques
+Collecter la recette du distributeur et effectuer le relevé d'audit.
 
-Assurer la rentabilité d'un distributeur automatique.
+Procéder aux essais et mettre ou remettre en service les distributeurs automatiques en rendant compte de son intervention auprès de son responsable hiérarchique et de son client.
 
-Assurer les opérations d'entretien et de nettoyage ainsi que les opérations de maintenance préventive et curative de premier niveau sur tout type de distributeurs automatiques.
+Expliquer et démontrer le fonctionnement des distributeurs automatiques aux clients en vue d'une utilisation optimale.
 
-Maintenir des relations commerciales avec sa clientèle lors de la maintenance d'un distributeur automatique sur site.
+Secteurs d'activités et types d'emploi accessibles par le détenteur du titre
 
-Finaliser ses interventions dans un cadre administratif lors de l'activité d'approvisionnement d'un distributeur automatique.
+Types d'entreprises :
 
-3. Régler, paramétrer, configurer des distributeurs automatiques ainsi que des systèmes de paiement
+Constructeurs ou fabricants de distributeurs automatiques.
 
-et assurer la maintenance préventive du parc d'appareils
+Entreprises gestionnaires (toute taille) de service automatique.
 
-Appliquer les procédures de maintenance préventive sur tout distributeur automatique.
+Sociétés de service en distribution automatique.
 
-Configurer, régler, paramétrer des distributeurs automatiques et des systèmes de paiement.
+Types d'emplois :
 
-Identifier et remédier aux dysfonctionnements répertoriés dans les distributeurs automatiques.
-
-Remplacer les pièces, organes ou sous-ensembles sur les distributeurs automatiques ou monnayeurs.
-
-Finaliser ses interventions dans un cadre administratif lors des opérations de maintenance pour une société gestionnaire de distributeurs automatiques.
-
-4. Assurer le diagnostic et la maintenance curative
-
-des distributeurs automatiques et des systèmes de paiement
-
-Réaliser le provisionnel de pièces avant intervention sur une tournée de maintenance en distribution automatique.
-
-Poser un diagnostic sur un distributeur automatique en défaut.
-
-Installer un système de paiement par carte ou clé sur un distributeur automatique non équipé.
-
-Assurer les tâches de gestion dans le cadre de la maintenance en distribution automatique.
-
-Maintenir des relations avec son entourage professionnel et gérer les situations conflictuelles avec sa clientèle lors de la maintenance d'un distributeur automatique sur site.
-
-Secteurs d'activités ou types d'emploi accessibles
-
-par le détenteur du titre
-
-Service après-vente constructeur de matériel de distribution automatique.
+Opérateur approvisionneur de DA, approvisionneur-technicien, responsable d'exploitation, technicien de maintenance DA...
 
 Codes ROME :
 
-44331-Electricien de maintenance.
+44331-Electricien / Electricienne en maintenance.
 
-44341-Polymaintenicien.
+44341-Polymaintenicien / Polymaintenicienne.
 
 Réglementation de l'activité :
 
-Selon les conventions collectives nationales des commerces de gros n° 3044.
+Selon les conventions collectives nationales des commerces et de la distribution.
+
+Habilitation électrique BR.
 
 Autorité responsable de la certification :
 
@@ -114,8 +92,6 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
-
-Arrêté du 25 novembre 2002.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
