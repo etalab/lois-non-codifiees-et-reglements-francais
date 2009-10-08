@@ -206,7 +206,6 @@
 - [Arrêté du 11 juin 2001 (MENA0101056A)](arrete-du-11-juin-2001-mena0101056a)
 - [Arrêté du 11 mai 2001 (AGRS0100905A)](arrete-du-11-mai-2001-agrs0100905a)
 - [Arrêté du 12 avril 2001 (INTD0100209A)](arrete-du-12-avril-2001-intd0100209a)
-- [Arrêté du 12 décembre 2000 (ATEN0090478A)](arrete-du-12-decembre-2000-aten0090478a)
 - [Arrêté du 12 décembre 2001 (ECOP0100806A)](arrete-du-12-decembre-2001-ecop0100806a)
 - [Arrêté du 12 décembre 2001 (ECOP0100807A)](arrete-du-12-decembre-2001-ecop0100807a)
 - [Arrêté du 12 février 1993 (BUDD9350002A)](arrete-du-12-fevrier-1993-budd9350002a)
