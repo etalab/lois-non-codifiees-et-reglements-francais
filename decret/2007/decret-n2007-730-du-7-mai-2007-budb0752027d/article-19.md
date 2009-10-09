@@ -1,6 +1,6 @@
 # Article 19
 
-La convention d'objectifs et de gestion conclue entre les ministres chargés du budget, des transports et de la sécurité sociale et la caisse de prévoyance et de retraite du personnel de la Société nationale des chemins de fer français détermine les objectifs pluriannuels de gestion, les moyens de fonctionnement dont la caisse dispose pour les atteindre et les actions mises en oeuvre à ces fins par chacun des signataires. Elle fixe la dotation budgétaire de chaque section destinée au financement de la section de la gestion administrative.
+La convention d'objectifs et de gestion conclue entre les ministres chargés du budget   et de la sécurité sociale et la caisse de prévoyance et de retraite du personnel de la Société nationale des chemins de fer français détermine les objectifs pluriannuels de gestion, les moyens de fonctionnement dont la caisse dispose pour les atteindre et les actions mises en oeuvre à ces fins par chacun des signataires. Elle fixe la dotation budgétaire de chaque section destinée au financement de la section de la gestion administrative.
 
 Elle précise :
 

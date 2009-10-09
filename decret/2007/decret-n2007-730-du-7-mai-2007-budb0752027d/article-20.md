@@ -1,6 +1,6 @@
 # Article 20
 
-Les délibérations du conseil d'administration de la caisse de prévoyance et de retraite du personnel de la Société nationale des chemins de fer français sont exécutoires de plein droit si, à l'issue d'un délai d'un mois suivant leur notification aux ministres chargés du budget, des transports et de la sécurité sociale, l'un d'entre eux n'a pas fait connaître son opposition ou si elles ont fait l'objet avant l'expiration de ce délai d'une approbation explicite.
+Les délibérations du conseil d'administration de la caisse de prévoyance et de retraite du personnel de la Société nationale des chemins de fer français sont exécutoires de plein droit si, à l'issue d'un délai d'un mois suivant leur notification aux ministres chargés du budget   et de la sécurité sociale, l'un d'entre eux n'a pas fait connaître son opposition ou si elles ont fait l'objet avant l'expiration de ce délai d'une approbation explicite.
 
 L'opposition aux délibérations du conseil d'administration relatives au régime de prévoyance ne peut porter que sur le respect des dispositions législatives ou réglementaires applicables au régime spécial d'assurance maladie de la Société nationale des chemins de fer français.
 

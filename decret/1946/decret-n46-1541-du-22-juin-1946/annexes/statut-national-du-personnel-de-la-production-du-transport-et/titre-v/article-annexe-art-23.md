@@ -2,9 +2,9 @@
 
 Régime spécial de sécurité sociale.
 
-Paragraphe 1.
+**Paragraphe 1.**
 
-Les agents statutaires en activité, en inactivité de service et pensionnés de tous ordres, ainsi que leurs ayants droit au sens de la législation de la sécurité sociale et ceux définis par un arrêté des ministres chargés de la sécurité sociale, du budget et de l'énergie, relèvent, pour les prestations en nature des assurances maladie, maternité, accidents du travail et maladies professionnelles, d'un régime spécial au sens de l'article L. 711-1 du code de la sécurité sociale.                                                          Toutefois, pour les titulaires de pensions de vieillesse et les titulaires de pensions temporaires d'orphelin ou de réversion attribuées au titre d'un agent décédé en situation d'inactivité, l'affiliation au régime spécial est subordonnée à une condition d'ancienneté minimale de quinze années de l'agent auquel la pension de vieillesse est versée ou au titre duquel la pension temporaire d'orphelin ou la pension de réversion est attribuée. Cette ancienneté est appréciée dans les conditions définies aux troisième alinéa et suivants du quatrième paragraphe de l'article 26 du présent statut, le cas échéant période d'invalidité comprise. Pour les ouvrants droit ne percevant pas de rémunération d'un employeur des industries électriques et gazières ou de pension de la Caisse nationale des industries électriques et gazières, cet arrêté précise, en tant que de besoin, l'assiette, le taux et les modalités de versement des cotisations dues au titre des prestations servies par le régime complémentaire.
+Les agents statutaires en activité, en inactivité de service et pensionnés de tous ordres, ainsi que leurs ayants droit au sens de la législation de la sécurité sociale et ceux définis par un arrêté des ministres chargés de la sécurité sociale, du budget et de l'énergie, relèvent, pour les prestations en nature des assurances maladie, maternité, accidents du travail et maladies professionnelles, d'un régime spécial au sens de l'article L. 711-1 du code de la sécurité sociale. Toutefois, pour les titulaires de pensions de vieillesse et les titulaires de pensions temporaires d'orphelin ou de réversion attribuées au titre d'un agent décédé en situation d'inactivité, l'affiliation au régime spécial est subordonnée à une condition d'ancienneté minimale de quinze années de l'agent auquel la pension de vieillesse est versée ou au titre duquel la pension temporaire d'orphelin ou la pension de réversion est attribuée. Cette ancienneté est appréciée dans les conditions définies aux troisième alinéa et suivants du quatrième paragraphe de l'article 26 du présent statut, le cas échéant période d'invalidité comprise. Pour les ouvrants droit ne percevant pas de rémunération d'un employeur des industries électriques et gazières ou de pension de la Caisse nationale des industries électriques et gazières, cet arrêté précise, en tant que de besoin, l'assiette, le taux et les modalités de versement des cotisations dues au titre des prestations servies par le régime complémentaire.
 
 Ces prestations comprennent :
 
@@ -16,7 +16,7 @@ Les agents exerçant une activité médicale ou sociale au profit des industries
 
 I.-Le financement du régime de base.
 
-Paragraphe 2.
+**Paragraphe 2.**
 
 La couverture des prestations en nature du régime général d'assurance maladie et maternité est assurée par une cotisation à la charge des entreprises dont le taux est fixé par décret.
 
@@ -34,13 +34,13 @@ Sont en revanche incluses dans l'assiette des cotisations les primes et les inde
 
 -au titre de l'aide au logement.
 
-Paragraphe 3.
+**Paragraphe 3.**
 
 La couverture des prestations en nature des assurances accidents du travail ou maladies professionnelles du régime général est assurée par une cotisation exclusivement à la charge des entreprises.
 
 II.-La caisse d'assurance maladie des industries électriques et gazières.
 
-Paragraphe 4.
+**Paragraphe 4.**
 
 Le régime spécial mentionné au paragraphe 1 du présent article est assuré par la caisse d'assurance maladie des industries électriques et gazières, organisme de sécurité sociale de droit privé chargé d'une mission de service public, doté de la personnalité morale.
 
@@ -70,7 +70,7 @@ Le montant annuel des remises de gestion tient compte de l'importance des tâche
 
 Un contrat pluriannuel de gestion conclu entre la Caisse nationale de l'assurance maladie des travailleurs salariés et la caisse d'assurance maladie des industries électriques et gazières fixe, notamment compte tenu des dispositions prévues par la convention mentionnée au huitième alinéa du présent A. 1, les modalités de détermination du montant annuel des remises de gestion, le taux d'abattement ainsi que les engagements et objectifs que se fixent les parties signataires.
 
-Le projet de contrat pluriannuel de gestion est soumis à l'avis du conseil d'administration de la caisse d'assurance maladie des industries électriques et gazières et de la commission nationale paritaire de suivi prévue au paragraphe 6 du présent article.L'entrée en vigueur du contrat est subordonnée à son approbation par les ministres chargés de la sécurité sociale et du budget.
+Le projet de contrat pluriannuel de gestion est soumis à l'avis du conseil d'administration de la caisse d'assurance maladie des industries électriques et gazières et de la commission nationale paritaire de suivi prévue au paragraphe 6 du présent article. L'entrée en vigueur du contrat est subordonnée à son approbation par les ministres chargés de la sécurité sociale et du budget.
 
 A défaut de convention prévue au huitième alinéa du présent A. 1 avant le 1er janvier 2009 ou en l'absence de conclusion du contrat prévu à l'alinéa précédent, les conditions de la gestion des prestations en cause ou le montant annuel des remises de gestion sont fixés par arrêté du ministre chargé de la sécurité sociale et du ministre chargé du budget.
 
@@ -88,7 +88,7 @@ Ses missions consistent à :
 
 4° Gérer la trésorerie du régime complémentaire ;
 
-5° Arrêter les comptes du régime complémentaire, dans les  conditions définies au paragraphe 12 du présent article,  en distinguant les opérations relatives aux actifs et à leurs ayants droit, d'une part, et celles relatives aux inactifs et pensionnés de tous ordres et à leurs ayants droit, d'autre part ;
+5° Arrêter les comptes du régime complémentaire, dans les conditions définies au paragraphe 12 du présent article, en distinguant les opérations relatives aux actifs et à leurs ayants droit, d'une part, et celles relatives aux inactifs et pensionnés de tous ordres et à leurs ayants droit, d'autre part ;
 
 6° Tenir une comptabilité analytique qui permet notamment de distinguer et d'évaluer les coûts de gestion au titre de sa participation prévue au septième alinéa du présent A pour les prestations du régime général et au titre des prestations complémentaires ;
 
@@ -112,7 +112,7 @@ Il est élu un même nombre d'administrateurs membres titulaires et membres supp
 
 A l'issue du scrutin, si une ou plusieurs des cinq fédérations syndicales représentatives au sein de la branche professionnelle n'ont pas de membre élu au conseil d'administration, un siège est attribué d'office à cette ou chacune de ces fédérations et il est nommé autant de suppléants. Toutefois, si l'attribution de ce ou de ces sièges supplémentaires fait perdre la majorité absolue à la fédération syndicale qui l'a obtenue par le suffrage, le nombre de sièges nécessaire lui est attribué d'office pour la conserver et il est nommé autant de suppléants.
 
-L'organe chargé de la proclamation des résultats en application du protocole électoral établit la liste des membres élus et la transmet aux ministres chargés de la sécurité sociale, du budget et de l'énergie. Il établit le procès-verbal de l'élection qui est affiché au siège de la caisse d'assurance maladie des industries électriques et gazières.
+L'organe chargé de la proclamation des résultats en application du protocole électoral établit la liste des membres élus et la transmet aux ministres chargés de la sécurité sociale et du budget. Il établit le procès-verbal de l'élection qui est affiché au siège de la caisse d'assurance maladie des industries électriques et gazières.
 
 Les réclamations contre l'ensemble des opérations électorales sont portées, dans les délais fixés par le protocole électoral, devant le tribunal d'instance dans le ressort duquel est situé le siège de la caisse d'assurance maladie des industries électriques et gazières.
 
@@ -122,7 +122,7 @@ La durée du mandat des membres du conseil d'administration est fixée à six an
 
 En cas de vacance du siège d'un membre titulaire, pour quelque cause que ce soit, celui-ci est remplacé par le premier suppléant élu dans l'ordre de la liste électorale pour la durée du mandat restant à courir. Le candidat placé immédiatement après le dernier suppléant élu sur la même liste, ou en cas d'application des dispositions du quatrième alinéa du présent B, après le dernier candidat désigné, devient à son tour suppléant. En cas d'épuisement de la liste, il n'est pas procédé au remplacement des administrateurs élus sur cette liste.
 
-Les membres titulaires et suppléants désignés en application des dispositions du quatrième alinéa du présent B ou de l'alinéa précédent sont nommés par arrêté des ministres chargés de la sécurité sociale, du budget et de l'énergie.
+Les membres titulaires et suppléants désignés en application des dispositions du quatrième alinéa du présent B ou de l'alinéa précédent sont nommés par arrêté des ministres chargés de la sécurité sociale et du budget.
 
 Un membre suppléant ne peut siéger au conseil d'administration qu'en l'absence d'un membre titulaire. Lorsqu'il siège, le membre suppléant indique quel membre titulaire il remplace.
 
@@ -148,7 +148,7 @@ Ne peuvent être élus ou nommés administrateurs de la caisse d'assurance malad
 
 9° Les personnes dont le remplacement est demandé par la fédération syndicale qui a présenté la liste sur laquelle elles ont été élues ou au titre de laquelle elles ont été nommées.
 
-Il est interdit à tout administrateur de demeurer ou de devenir membre du personnel de la caisse d'assurance maladie des industries électriques et gazières ou de recevoir, sous quelque forme que ce soit, des rémunérations à l'occasion du fonctionnement de la caisse.L'administrateur qui ne respecte pas cette interdiction est déclaré démissionnaire d'office par le conseil d'administration ou, à défaut, par le ministre chargé de la sécurité sociale.
+Il est interdit à tout administrateur de demeurer ou de devenir membre du personnel de la caisse d'assurance maladie des industries électriques et gazières ou de recevoir, sous quelque forme que ce soit, des rémunérations à l'occasion du fonctionnement de la caisse. L'administrateur qui ne respecte pas cette interdiction est déclaré démissionnaire d'office par le conseil d'administration ou, à défaut, par le ministre chargé de la sécurité sociale.
 
 Les fonctions d'administrateur sont exercées à titre gratuit. Toutefois, ceux-ci ont droit au remboursement par la caisse des frais de déplacement et de séjour motivés par l'exercice de leur mandat. Les modalités de remboursement des frais de déplacement et de séjour sont fixées par le règlement intérieur de la caisse d'assurance maladie des industries électriques et gazières, sur la base des barèmes de remboursement arrêtés par les entreprises de la branche des industries électriques et gazières. Les dispositions de l'article L. 217-2 du code de la sécurité sociale sont applicables aux anciens administrateurs de la caisse d'assurance maladie des industries électriques et gazières.
 
@@ -168,7 +168,7 @@ Le conseil d'administration est chargé :
 
 1° D'établir le règlement intérieur de l'organisme. Le projet de règlement établi par le conseil d'administration est soumis pour avis à la commission nationale paritaire de suivi prévue au paragraphe 6 du présent article. Préalablement à son entrée en vigueur, le règlement est transmis pour approbation par le conseil d'administration, avec l'avis de la commission nationale paritaire de suivi, au ministre chargé de la sécurité sociale. Il est modifié dans les mêmes conditions ;
 
-2° De voter, avant le 1er janvier de l'année à laquelle il se rapporte, le budget de gestion administrative de l'organisme.A ce budget sont annexés, d'une part, un état limitant pour l'année le nombre d'emplois par catégorie ou, pour les agents relevant du présent statut, par collège, de telle sorte que le nombre des agents de chaque catégorie ne puisse dépasser le nombre des emplois et, d'autre part, un état limitant le nombre des emplois et le montant total des rémunérations, charges comprises, afférentes à l'activité, pour le compte de la caisse, des agents mentionnés au D du paragraphe 5 du présent article. Sont également annexés au budget de gestion administrative les états des opérations en capital concernant les programmes d'investissements, de subventions ou de participations financières qui font apparaître le montant de chaque programme autorisé et prévoient l'imputation des paiements correspondants dans les budgets des années où ces paiements doivent avoir lieu ;
+2° De voter, avant le 1er janvier de l'année à laquelle il se rapporte, le budget de gestion administrative de l'organisme. A ce budget sont annexés, d'une part, un état limitant pour l'année le nombre d'emplois par catégorie ou, pour les agents relevant du présent statut, par collège, de telle sorte que le nombre des agents de chaque catégorie ne puisse dépasser le nombre des emplois et, d'autre part, un état limitant le nombre des emplois et le montant total des rémunérations, charges comprises, afférentes à l'activité, pour le compte de la caisse, des agents mentionnés au D du paragraphe 5 du présent article. Sont également annexés au budget de gestion administrative les états des opérations en capital concernant les programmes d'investissements, de subventions ou de participations financières qui font apparaître le montant de chaque programme autorisé et prévoient l'imputation des paiements correspondants dans les budgets des années où ces paiements doivent avoir lieu ;
 
 3° De voter, avant le 1er janvier de l'année à laquelle il se rapporte, le budget de gestion du risque ;
 
@@ -194,7 +194,7 @@ Le conseil d'administration est chargé :
 
 Le conseil d'administration de la caisse d'assurance maladie des industries électriques et gazières peut faire toute proposition au ministre chargé de la sécurité sociale de modification législative ou réglementaire dans son domaine de compétences.
 
-Le conseil d'administration peut également faire aux ministres chargés de la sécurité sociale, du budget et de l'énergie toute proposition sur l'évolution du régime spécial. Les projets de propositions relatifs à l'évolution du régime spécial, à l'exception de ceux ou de la partie de ces projets afférents aux inactifs et pensionnés de tous ordres et à leurs ayants droit, sont soumis à l'avis de la commission nationale paritaire de suivi prévue au paragraphe 6 du présent article.
+Le conseil d'administration peut également faire aux ministres chargés de la sécurité sociale et du budget toute proposition sur l'évolution du régime spécial. Les projets de propositions relatifs à l'évolution du régime spécial, à l'exception de ceux ou de la partie de ces projets afférents aux inactifs et pensionnés de tous ordres et à leurs ayants droit, sont soumis à l'avis de la commission nationale paritaire de suivi prévue au paragraphe 6 du présent article.
 
 Il peut être saisi pour avis, par le ministre chargé de la sécurité sociale, de tout projet de mesure législative ou réglementaire ayant des incidences sur l'équilibre financier du régime spécial de maladie ou entrant dans son domaine de compétences. Ses avis sont motivés. Ils sont rendus dans les conditions et délais fixées par les articles R. 200-3 à R. 200-6 du code de la sécurité sociale.
 
@@ -206,21 +206,21 @@ Le conseil d'administration peut désigner en son sein un bureau, des commission
 
 Le pouvoir de contrôle dont dispose le conseil d'administration de l'organisme sur le fonctionnement général de celui-ci ne l'autorise pas à se substituer ou à donner des injonctions au directeur dans l'exercice des pouvoirs propres de décision qui sont reconnus à ce dernier au J du présent paragraphe 4, ni à annuler ou à réformer les décisions prises à ce titre.
 
-Le conseil d'administration se réunit au moins trois fois par an, sur convocation de son président. Il peut être convoqué à titre extraordinaire par le président, soit à la demande des trois quarts des administrateurs, soit à celle du ministre chargé de la sécurité sociale, du ministre chargé du budget ou du ministre chargé de l'énergie. Le conseil d'administration siège valablement dès lors que plus de la moitié des membres sont présents. Lorsqu'ils ne sont pas suppléés, les administrateurs peuvent donner délégation de vote à un autre membre du conseil d'administration. Aucun membre ne peut recevoir plus d'une délégation. Les décisions du conseil d'administration sont prises à la majorité des suffrages exprimés. En cas de partage des voix, le président a voix prépondérante.
+Le conseil d'administration se réunit au moins trois fois par an, sur convocation de son président. Il peut être convoqué à titre extraordinaire par le président, soit à la demande des trois quarts des administrateurs, soit à celle du ministre chargé de la sécurité sociale. Le conseil d'administration siège valablement dès lors que plus de la moitié des membres sont présents. Lorsqu'ils ne sont pas suppléés, les administrateurs peuvent donner délégation de vote à un autre membre du conseil d'administration. Aucun membre ne peut recevoir plus d'une délégation. Les décisions du conseil d'administration sont prises à la majorité des suffrages exprimés. En cas de partage des voix, le président a voix prépondérante.
 
-Trois commissaires du Gouvernement, représentant les ministres chargés de la sécurité sociale, du budget et de l'énergie, assistent aux séances du conseil d'administration et de ses commissions. Ils sont entendus chaque fois qu'ils le demandent.
+Un commissaire du Gouvernement représentant le ministre chargé de la sécurité sociale assiste aux séances du conseil d'administration et de ses commissions. Il est entendu à chaque fois qu'il le demande.
 
 Le directeur et l'agent comptable assistent, avec voix consultative, aux séances du conseil d'administration ou des commissions ayant reçu délégation de celui-ci.
 
 L'ordre du jour des réunions du conseil d'administration et les pièces jointes sont transmis aux membres du conseil, aux commissaires du Gouvernement et au secrétaire de la commission nationale paritaire de suivi mentionnée au paragraphe 6 du présent article au moins sept jours avant la date de la réunion.
 
-F.-Les délibérations du conseil d'administration de la caisse d'assurance maladie des industries électriques et gazières sont exécutoires de plein droit si, à l'issue d'un délai de vingt jours suivant leur communication aux ministres chargés de la sécurité sociale, du budget et de l'énergie, l'un ou l'autre d'entre eux n'a pas fait connaître son opposition ou si elles ont fait l'objet avant l'expiration de ce délai d'une approbation explicite.L'opposition aux délibérations prises en application des dispositions de la convention d'objectifs et de gestion mentionnée au paragraphe 10 du présent article ou aux délibérations relatives au budget de gestion administrative de la caisse mentionné au 2° et au 3° du D du présent paragraphe doit être motivée.
+F.-Les délibérations du conseil d'administration de la caisse d'assurance maladie des industries électriques et gazières sont exécutoires de plein droit si, à l'issue d'un délai de vingt jours suivant leur communication aux ministres chargés de la sécurité sociale et du budget, l'un ou l'autre d'entre eux n'a pas fait connaître son opposition ou si elles ont fait l'objet avant l'expiration de ce délai d'une approbation explicite. L'opposition aux délibérations prises en application des dispositions de la convention d'objectifs et de gestion mentionnée au paragraphe 10 du présent article ou aux délibérations relatives au budget de gestion administrative de la caisse mentionné au 2° et au 3° du D du présent paragraphe doit être motivée.
 
 Le délai prévu à l'alinéa précédent est un délai franc. Lorsque le premier jour de ce délai est un jour férié ou un samedi, le délai ne court qu'à compter du premier jour ouvrable qui suit le jour férié ou le samedi.
 
-Dans les dix jours suivant la séance, les procès-verbaux des délibérations du conseil d'administration sont envoyés aux ministres chargés de la sécurité sociale, du budget et de l'énergie.
+Dans les dix jours suivant la séance, les procès-verbaux des délibérations du conseil d'administration sont envoyés aux ministres chargés de la sécurité sociale et du budget.
 
-En cas d'urgence, les ministres chargés de la sécurité sociale, du budget et de l'énergie, avisés simultanément, peuvent viser une délibération pour exécution immédiate. Dans ce cas, la délibération est exécutoire dès qu'elle a recueilli le visa de chacun d'entre eux.
+En cas d'urgence, les ministres chargés de la sécurité sociale et du budget, avisés simultanément, peuvent viser une délibération pour exécution immédiate. Dans ce cas, la délibération est exécutoire dès qu'elle a recueilli le visa de chacun d'entre eux.
 
 G.-Les réclamations formées contre les décisions prises par la caisse d'assurance maladie des industries électriques et gazières sont soumises à une commission de recours amiable composée et constituée au sein du conseil d'administration de la caisse. Cette commission comprend au moins cinq et au plus neuf administrateurs. Elle peut valablement statuer si au moins cinq membres sont présents.
 
@@ -242,7 +242,7 @@ Il est nommé, parmi les personnes remplissant l'une des conditions suivantes :
 
 3° Etre depuis huit ans fonctionnaire de catégorie A et avoir une expérience dans le domaine de la protection sociale.
 
-Les candidatures au poste de directeur de la caisse d'assurance maladie des industries électriques et gazières sont adressées au ministre chargé de la sécurité sociale dans un délai d'un mois à compter de la publication de la vacance de poste.A l'expiration de ce délai, le ministre chargé de la sécurité sociale établit une liste de trois noms parmi les candidatures recevables. La liste est soumise à l'avis conforme du ministre chargé de l'économie. Cet avis doit être rendu dans un délai de quinze jours à compter de la réception de la liste.A défaut de réponse dans ce délai, l'avis est réputé rendu.
+Les candidatures au poste de directeur de la caisse d'assurance maladie des industries électriques et gazières sont adressées au ministre chargé de la sécurité sociale dans un délai d'un mois à compter de la publication de la vacance de poste. A l'expiration de ce délai, le ministre chargé de la sécurité sociale établit une liste de trois noms parmi les candidatures recevables. La liste est soumise à l'avis conforme du ministre chargé du budget. Cet avis doit être rendu dans un délai de quinze jours à compter de la réception de la liste. A défaut de réponse dans ce délai, l'avis est réputé rendu.
 
 La liste est ensuite transmise dans un délai de huit jours au président du conseil d'administration de la caisse. Le ministre chargé de la sécurité sociale informe simultanément chaque candidat de la présence ou de l'absence de son nom sur la liste.
 
@@ -270,11 +270,11 @@ Pour l'application des dispositions du présent L :
 
 3° En cas de dissolution en application des dispositions du 1° de l'article L. 281-3 précité, un nouveau conseil d'administration est mis en place dans les quatre mois suivant la dissolution ;
 
-4° Pour l'application des dispositions du 2° de l'article L. 281-3 précité, la décision de révocation est prise par arrêté conjoint des ministres chargés de la sécurité sociale, du budget et de l'énergie et après avis du conseil d'administration de la caisse d'assurance maladie des industries électriques et gazières.
+4° Pour l'application des dispositions du 2° de l'article L. 281-3 précité, la décision de révocation est prise par arrêté conjoint des ministres chargés de la sécurité sociale et du budget et après avis du conseil d'administration de la caisse d'assurance maladie des industries électriques et gazières.
 
-La caisse d'assurance maladie des industries électriques et gazières est soumise au contrôle économique et financier de l'Etat dans les conditions prévues par le décret n° 55-733 du 26 mai 1955 modifié relatif au contrôle économique et financier de l'Etat. Le membre du corps de contrôle général économique et financier de la caisse transmet ses analyses, avis et rapports aux ministres chargés de la sécurité sociale, du budget et de l'énergie. Les modalités d'exercice de ce contrôle sont fixées par arrêté des ministres chargés de la sécurité sociale et du budget.
+La caisse d'assurance maladie des industries électriques et gazières est soumise au contrôle économique et financier de l'Etat dans les conditions prévues par le décret n° 55-733 du 26 mai 1955 modifié relatif au contrôle économique et financier de l'Etat. Le membre du corps de contrôle général économique et financier de la caisse transmet ses analyses, avis et rapports aux ministres chargés de la sécurité sociale et du budget. Les modalités d'exercice de ce contrôle sont fixées par arrêté des ministres chargés de la sécurité sociale et du budget.
 
-Paragraphe 5.
+**Paragraphe 5.**
 
 A.-La caisse d'assurance maladie des industries électriques et gazières peut créer des antennes locales en vue de la gestion du régime spécial au niveau local. Ces antennes ne disposent ni de la personnalité morale ni de l'autonomie financière. Les missions confiées à ces antennes sont définies par le conseil d'administration de la caisse maladie des industries électriques et gazières. Elles ne peuvent toutefois porter sur les missions dévolues à la caisse nationale en application des dispositions des 1° à 3° du A. 1 du paragraphe 4 du présent article et des 1° à 7° du A. 2 au paragraphe 4.
 
@@ -312,7 +312,7 @@ Les conventions mentionnées au présent D peuvent être conclues dans les limit
 
 E.-Un rapport annuel est présenté par le directeur de la caisse d'assurance maladie des industries électriques et gazières à son conseil d'administration sur l'application des dispositions du présent paragraphe 5.
 
-Paragraphe 6.
+**Paragraphe 6.**
 
 Il est institué une commission nationale paritaire de suivi du régime spécial de maladie et de maternité au sein de la branche des industries électriques et gazières.
 
@@ -334,9 +334,9 @@ B.-La commission nationale paritaire de suivi a pour rôle :
 
 4° D'émettre un avis sur le rapport annuel d'activité du directeur de la caisse d'assurance maladie des industries électriques et gazières mentionné au 11° du C du II du paragraphe 4 du présent article ;
 
-5° De présenter aux ministres chargés de la sécurité sociale, du budget et de l'énergie toutes propositions en vue de l'élaboration de la convention d'objectifs et de gestion prévue au paragraphe 10 du présent article et de ses avenants ainsi que d'émettre un avis annuel sur la mise en oeuvre de cette convention ;
+5° De présenter aux ministres chargés de la sécurité sociale et du budget toutes propositions en vue de l'élaboration de la convention d'objectifs et de gestion prévue au paragraphe 10 du présent article et de ses avenants ainsi que d'émettre un avis annuel sur la mise en oeuvre de cette convention ;
 
-6° De présenter aux ministres chargés de la sécurité sociale, du budget et de l'énergie toute proposition sur l'évolution du régime, à l'exception des questions relatives aux inactifs, et notamment en ce qui concerne l'évolution du plafond ou du taux des cotisations au régime complémentaire mentionnés au paragraphe 8 du présent article afférents au financement des prestations dues aux actifs et à leurs ayants droit.
+6° De présenter aux ministres chargés de la sécurité sociale et du budget toute proposition sur l'évolution du régime, à l'exception des questions relatives aux inactifs, et notamment en ce qui concerne l'évolution du plafond ou du taux des cotisations au régime complémentaire mentionnés au paragraphe 8 du présent article afférents au financement des prestations dues aux actifs et à leurs ayants droit.
 
 La commission communique au conseil d'administration de la caisse d'assurance maladie des industries électriques et gazières les avis émis en application des dispositions du 4° du présent II et les propositions présentées en application des 5° et 6° dudit II ainsi que les audits, analyses prospectives et études actuarielles qu'elle a missionnés.
 
@@ -362,13 +362,13 @@ La caisse d'assurance maladie des industries électriques et gazières répond a
 
 III.-L'organisation et la gestion du régime complémentaire obligatoire.
 
-Paragraphe 7.
+**Paragraphe 7.**
 
-La nature des prestations complémentaires de celles du régime général en cas de maladie ou de maternité, leur niveau et les conditions de leur versement sont définies par arrêté conjoint des ministres chargés de la sécurité sociale, du budget et de l'énergie.
+La nature des prestations complémentaires de celles du régime général en cas de maladie ou de maternité, leur niveau et les conditions de leur versement sont définies par arrêté conjoint des ministres chargés de la sécurité sociale et du budget.
 
 IV.-Le financement du régime complémentaire.
 
-Paragraphe 8.
+**Paragraphe 8.**
 
 § 8.A.-Les opérations relatives aux actifs et aux inactifs.
 
@@ -388,13 +388,13 @@ Les produits du régime complémentaire proviennent des cotisations, des produit
 
 B.-Les cotisations ;
 
-a) Les cotisations destinées au financement des charges du régime complémentaire obligatoire d'assurance maladie et maternité relatives aux agents en activité et à leurs ayants droit sont supportées à 65 % par les employeurs et à 35 % par les agents en activité. Elles sont assises sur les mêmes éléments de rémunération que les cotisations du régime spécial d'assurance vieillesse des industries électriques et gazières. Les dispositions de l'article L. 243-1 du code de la sécurité sociale sont applicables aux cotisations dues par les agents en activité. Le plafond et le taux de ces cotisations sont fixés par décret pris sur le rapport du ministre chargé de la sécurité sociale, et contresignés des ministres chargés du budget et de l'énergie, sur proposition de la caisse d'assurance maladie des industries électriques et gazières ou sur l'initiative d'un des ministres chargés de la tutelle du régime.
+a) Les cotisations destinées au financement des charges du régime complémentaire obligatoire d'assurance maladie et maternité relatives aux agents en activité et à leurs ayants droit sont supportées à 65 % par les employeurs et à 35 % par les agents en activité. Elles sont assises sur les mêmes éléments de rémunération que les cotisations du régime spécial d'assurance vieillesse des industries électriques et gazières. Les dispositions de l'article L. 243-1 du code de la sécurité sociale sont applicables aux cotisations dues par les agents en activité. Le plafond et le taux de ces cotisations sont fixés par décret pris sur le rapport du ministre chargé de la sécurité sociale, et contresigné du ministre chargé du budget, sur proposition de la caisse d'assurance maladie des industries électriques et gazières ou sur l'initiative d'un des ministres chargés de la tutelle du régime.
 
 b) Les cotisations destinées au financement des charges du régime complémentaire obligatoire d'assurance maladie et maternité relatives aux agents en inactivité, aux pensionnés de tous ordres et à leurs ayants droit sont constituées :
 
 -d'une cotisation de solidarité, supportée par les agents en activité, assise sur l'assiette définie au point a ci-dessus, dans la limite du plafond fixé pour la cotisation instituée au point a ci-dessus. Le taux de cette cotisation est fixé à 1, 39 % ;
 
--d'une cotisation d'équilibre à la charge des agents en inactivité et des pensionnés de tous ordres, assise sur les pensions qui leur sont versées. Le plafond et le taux de cette cotisation sont fixés par décret pris sur le rapport du ministre chargé de la sécurité sociale et contresignés des ministres chargés du budget et de l'énergie, sur proposition de la caisse d'assurance maladie des industries électriques et gazières ou sur l'initiative d'un des ministres chargés de la tutelle du régime. Les dispositions de l'article L. 243-2 du code de la sécurité sociale sont applicables aux cotisations dues par les agents en inactivité et pensionnés de tous ordres.
+-d'une cotisation d'équilibre à la charge des agents en inactivité et des pensionnés de tous ordres, assise sur les pensions qui leur sont versées. Le plafond et le taux de cette cotisation sont fixés par décret pris sur le rapport du ministre chargé de la sécurité sociale et contresigné du ministre chargé du budget, sur proposition de la caisse d'assurance maladie des industries électriques et gazières ou sur l'initiative d'un des ministres chargés de la tutelle du régime. Les dispositions de l'article L. 243-2 du code de la sécurité sociale sont applicables aux cotisations dues par les agents en inactivité et pensionnés de tous ordres.
 
 Les employeurs n'ont pas d'autre obligation de financement du régime complémentaire que les cotisations prévues au point a ci-dessus.
 
@@ -410,7 +410,7 @@ Le contrôle s'effectue selon les modalités prévues à l'article R. 243-59 du 
 
 La convention prévue au deuxième alinéa du présent C détermine notamment les conditions du remboursement à l'Agence centrale des organismes de sécurité sociale des frais de gestion induits par l'intervention des organismes du régime général. Le projet de convention et ses avenants sont soumis à l'avis du conseil d'administration de la caisse d'assurance maladie des industries électriques et gazières et de la commission nationale paritaire de suivi prévue au paragraphe 6 du présent article. La convention prend effet après approbation des ministres chargés de la sécurité sociale et du budget.
 
-Paragraphe 9.
+**Paragraphe 9.**
 
 A.-La caisse d'assurance maladie des industries électriques et gazières gère les fonds ci-après. Ces fonds sont équilibrés en recettes et en dépenses. Les recettes et les dépenses de ces fonds sont réparties entre deux catégories de bénéficiaires constituées, d'une part, des agents en activité et de leurs ayants droit et, d'autre part, des agents en inactivité, des pensionnés de tous ordres et de leurs ayants droit.
 
@@ -441,9 +441,9 @@ Les dépenses du Fonds national de gestion du risque sont constituées, d'une pa
 B.-Les dispositions des articles D. 253-15 à D. 253-25, D. 253-42 à D. 253-57,
 D. 253-62 à D. 253-68, du code de la sécurité sociale sont applicables aux opérations, aux justificatifs des opérations et conservations, au contrôle interne et à la sécurité informatique, à la comptabilité, au compte financier et au contrôle de la gestion de l'agent comptable de la caisse d'assurance maladie des industries électriques et gazières.
 
-Le conseil d'administration de la caisse d'assurance maladie des industries électriques et gazières reçoit communication des comptes annuels du régime pour se prononcer à leur sujet conformément au 5° du D du paragraphe 4 du présent article. Ces comptes, comprenant le bilan, les comptes de résultat et l'annexe, sont transmis pour le 15 avril de l'année qui suit la fin de l'exercice, pour examen, aux ministres chargés de la sécurité sociale, du budget et de l'énergie.
+Le conseil d'administration de la caisse d'assurance maladie des industries électriques et gazières reçoit communication des comptes annuels du régime pour se prononcer à leur sujet conformément au 5° du D du paragraphe 4 du présent article. Ces comptes, comprenant le bilan, les comptes de résultat et l'annexe, sont transmis pour le 15 avril de l'année qui suit la fin de l'exercice, pour examen, aux ministres chargés de la sécurité sociale et du budget.
 
-C.-La caisse d'assurance maladie des industries électriques et gazières établit, pour chaque exercice et pour chacune des catégories de bénéficiaires mentionnée au premier alinéa du A du présent paragraphe 9, une comptabilité analytique et un état prévisionnel des charges et des produits des fonds nationaux de gestion technique, de gestion administrative et de gestion du risque. Cet état prévisionnel est communiqué avant le 1er juin de chaque année aux ministres chargés de la sécurité sociale, du budget et de l'énergie ainsi qu'à la commission nationale paritaire de suivi prévue au paragraphe 6 du présent article.
+C.-La caisse d'assurance maladie des industries électriques et gazières établit, pour chaque exercice et pour chacune des catégories de bénéficiaires mentionnée au premier alinéa du A du présent paragraphe 9, une comptabilité analytique et un état prévisionnel des charges et des produits des fonds nationaux de gestion technique, de gestion administrative et de gestion du risque. Cet état prévisionnel est communiqué avant le 1er juin de chaque année aux ministres chargés de la sécurité sociale et du budget ainsi qu'à la commission nationale paritaire de suivi prévue au paragraphe 6 du présent article.
 
 D.-Les dépenses inscrites aux budgets de gestion administrative et de gestion du risque ont un caractère limitatif.
 
@@ -455,9 +455,9 @@ En annexe du budget de gestion du risque est établie la liste des actions menti
 
 La convention d'objectifs et de gestion.
 
-Paragraphe 10. (1)
+**Paragraphe 10. (1)**
 
-Les ministres chargés de la sécurité sociale, du budget et de l'énergie concluent avec la caisse d'assurance maladie des industries électriques et gazières une convention d'objectifs et de gestion comportant des engagements réciproques des signataires.
+Les ministres chargés de la sécurité sociale et du budget concluent avec la caisse d'assurance maladie des industries électriques et gazières une convention d'objectifs et de gestion comportant des engagements réciproques des signataires.
 
 La convention est conclue pour une durée minimale de quatre ans. Elle est signée, pour le compte de la caisse d'assurance maladie des industries électriques et gazières, par le président du conseil d'administration et par le directeur.
 
@@ -477,16 +477,16 @@ La convention prévoit des indicateurs quantitatifs et qualitatifs associés à 
 
 La convention détermine les conditions de conclusion des avenants au cours de son exécution, notamment en fonction des modifications importantes de la charge de travail de l'organisme liées à l'évolution du cadre législatif et réglementaire de son action, ainsi que le processus d'évaluation contradictoire des résultats obtenus au regard des objectifs fixés.
 
-Paragraphe 11.
+**Paragraphe 11.**
 
 Les disponibilités excédant les besoins de trésorerie du régime peuvent être placées. La caisse d'assurance maladie des industries électriques et gazières conclut à cette fin une convention de gestion avec l'établissement financier de son choix. Le projet de convention est soumis à l'avis de la commission nationale paritaire de suivi prévue au paragraphe 6 du présent article.
 
 Les produits financiers de l'année sont affectés au Fonds national de gestion technique.
 
-Paragraphe 12.
+**Paragraphe 12.**
 
-Les comptes du régime complémentaire, faisant apparaître les opérations de la gestion technique, de la gestion administrative et de la gestion du risque pour les opérations relatives aux actifs et à leurs ayants droit, d'une part, et celles relatives aux inactifs et pensionnés de tous ordres, d'autre part, sont établis  par l'agent comptable et arrêtés par le directeur dans les trois mois suivant la  clôture de l'exercice comptable. Les comptes annuels sont ensuite présentés par  le directeur et l'agent comptable au conseil d'administration qui, au vu de  l'opinion émise par l'instance chargée de la certification, les approuve, sauf  vote contraire de la majorité des deux tiers des membres.
+Les comptes du régime complémentaire, faisant apparaître les opérations de la gestion technique, de la gestion administrative et de la gestion du risque pour les opérations relatives aux actifs et à leurs ayants droit, d'une part, et celles relatives aux inactifs et pensionnés de tous ordres, d'autre part, sont établis par l'agent comptable et arrêtés par le directeur dans les trois mois suivant la clôture de l'exercice comptable. Les comptes annuels sont ensuite présentés par le directeur et l'agent comptable au conseil d'administration qui, au vu de l'opinion émise par l'instance chargée de la certification, les approuve, sauf vote contraire de la majorité des deux tiers des membres.
 
-Ils sont certifiés par un commissaire aux comptes choisi par la caisse d'assurance maladie des industries électriques et gazières, après avis de la commission nationale paritaire de suivi prévue au paragraphe 6 du présent article. Les rapports établis par le commissaire aux comptes sont accompagnés des documents comptables, financiers et administratifs relatifs à la gestion administrative et à la gestion du risque. Ces rapports distinguent les opérations relatives aux actifs et à leurs ayants droit, d'une part, et aux inactifs et pensionnés de tous ordres et à leurs ayants droit, d'autre part. Ils sont communiqués aux administrateurs, à la commission nationale paritaire de suivi précitée ainsi qu'aux ministres chargés de la sécurité sociale, du budget et de l'énergie.
+Ils sont certifiés par un commissaire aux comptes choisi par la caisse d'assurance maladie des industries électriques et gazières, après avis de la commission nationale paritaire de suivi prévue au paragraphe 6 du présent article. Les rapports établis par le commissaire aux comptes sont accompagnés des documents comptables, financiers et administratifs relatifs à la gestion administrative et à la gestion du risque. Ces rapports distinguent les opérations relatives aux actifs et à leurs ayants droit, d'une part, et aux inactifs et pensionnés de tous ordres et à leurs ayants droit, d'autre part. Ils sont communiqués aux administrateurs, à la commission nationale paritaire de suivi précitée ainsi qu'aux ministres chargés de la sécurité sociale et du budget.
 
 La caisse d'assurance maladie des industries électriques et gazières est tenue de fournir en temps utile aux entreprises des industries électriques et gazières tous éléments nécessaires à la certification des comptes de celles-ci.

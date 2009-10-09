@@ -1,6 +1,6 @@
 # Article 14
 
-Le directeur de la caisse et l'agent comptable sont nommés par arrêté conjoint des ministres chargés du budget, des transports et de la sécurité sociale, parmi les personnes inscrites sur la liste d'aptitude prévue à l'article R. 123-45 du code de la sécurité sociale. Le directeur nomme un directeur adjoint qui est agréé dans les conditions prévues aux articles R. 123-49 (II et III) et R. 123-50 du code de la sécurité sociale.
+Le directeur de la caisse et l'agent comptable sont nommés par arrêté conjoint des ministres chargés du budget et de la sécurité sociale, parmi les personnes inscrites sur la liste d'aptitude prévue à l'article R. 123-45 du code de la sécurité sociale. Le directeur nomme un directeur adjoint qui est agréé dans les conditions prévues aux articles R. 123-49 (II et III) et R. 123-50 du code de la sécurité sociale.
 
 Le directeur et l'agent comptable sont nommés pour un mandat de six ans.
 

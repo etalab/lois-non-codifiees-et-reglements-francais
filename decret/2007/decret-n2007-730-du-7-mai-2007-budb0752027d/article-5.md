@@ -8,7 +8,7 @@ I.-La caisse de prévoyance et de retraite du personnel de la Société national
 
 -6 membres représentant la Société nationale des chemins de fer français, chaque membre portant trois voix lors des délibérations du conseil.
 
-II.-Les 17 représentants des agents du cadre permanent sont désignés par arrêté conjoint des ministres chargés du budget, des transports et de la sécurité sociale, sur proposition des organisations syndicales représentatives au sens du statut des relations collectives entre la Société nationale des chemins de fer français et son personnel, défini en application du décret n° 50-637 du 1er juin 1950.
+II.-Les 17 représentants des agents du cadre permanent sont désignés par arrêté conjoint des ministres chargés du budget   et de la sécurité sociale, sur proposition des organisations syndicales représentatives au sens du statut des relations collectives entre la Société nationale des chemins de fer français et son personnel, défini en application du décret n° 50-637 du 1er juin 1950.
 
 Il est attribué un siège à chaque organisation syndicale représentative, et la répartition des autres sièges est proportionnelle aux résultats obtenus par les organisations syndicales représentatives lors du premier tour de la dernière élection des représentants du personnel aux comités d'établissement de la Société nationale des chemins de fer français, suivant la règle de la plus forte moyenne.
 
@@ -26,7 +26,7 @@ V.-En cas d'absence du titulaire à une séance, celui-ci est remplacé par son 
 
 VI.-En cas de vacance du siège d'un membre titulaire élu ou désigné, pour quelque cause que ce soit, celui-ci est remplacé par son suppléant. Ce dernier est lui-même remplacé en tant que suppléant :
 
--s'il s'agit d'un membre désigné, par une nouvelle désignation par arrêté conjoint des ministres chargés du budget, des transports et de la sécurité sociale, sur proposition de l'organisation syndicale concernée ;
+-s'il s'agit d'un membre désigné, par une nouvelle désignation par arrêté conjoint des ministres chargés du budget   et de la sécurité sociale, sur proposition de l'organisation syndicale concernée ;
 
 -s'il s'agit d'un membre élu, par le candidat placé immédiatement après le dernier élu sur la même liste.
 

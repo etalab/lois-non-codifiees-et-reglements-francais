@@ -2,7 +2,7 @@
 
 I.-La caisse de prévoyance et de retraite du personnel de la Société nationale des chemins de fer français assure la gestion du régime spécial dont relèvent les personnes mentionnées à l'article 2, au titre des risques définis au III du présent article.
 
-II.-Le règlement des retraites du personnel de la Société nationale des chemins de fer français et le statut des retraités de la Société nationale des chemins de fer français en vigueur au 1er janvier 2007 ne peuvent être modifiés que par décret pris sur le rapport des ministres chargés du budget, des transports et de la sécurité sociale, après l'avis du conseil d'administration de la caisse de prévoyance et de retraite du personnel de la Société nationale des chemins de fer français.
+II.-Le règlement des retraites du personnel de la Société nationale des chemins de fer français et le statut des retraités de la Société nationale des chemins de fer français en vigueur au 1er janvier 2007 ne peuvent être modifiés que par décret pris sur le rapport des ministres chargés du budget   et de la sécurité sociale, après l'avis du conseil d'administration de la caisse de prévoyance et de retraite du personnel de la Société nationale des chemins de fer français.
 
 III.-La caisse de prévoyance et de retraite du personnel de la Société nationale des chemins de fer français couvre les risques correspondant aux prestations suivantes :
 
