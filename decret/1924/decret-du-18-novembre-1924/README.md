@@ -3,7 +3,6 @@
 - [Titre I : Dispositions générales](titre-i)
 - [Titre II : Dispositions spéciales](titre-ii)
 - [Titre III : Dispositions transitoires et finales.](titre-iii)
-- [Titre IV : Rétablissement des inscriptions détruites ou disparues.](titre-iv)
 - [Article 88](article-88.md)
 - [Annexes](annexes)
 - [Article Préambule](article-preambule.md)
