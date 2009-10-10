@@ -1,0 +1,3 @@
+# PARAGRAPHE 5 : LA DESIGNATION DES IMMEUBLES
+
+- [Article 70](article-70.md)

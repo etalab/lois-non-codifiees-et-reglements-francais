@@ -1,0 +1,3 @@
+# Article 2
+
+Les personnels de direction, les gestionnaires et agents comptables secondaires des établissements placés en gestion directe et les gestionnaires comptables des autres établissements du second degré en fonction à la date d'effet du présent arrêté et dont le contrat mentionnerait une bonification indiciaire ou un groupe d'indemnité d'expatriation ou d'indemnité spécifique liée aux conditions de vie locale supérieur à celle résultant du classement prévu dans le cadre du présent arrêté conserveront à titre personnel le bénéfice de cette bonification ou de ce groupe d'indemnité d'expatriation ou d'indemnité spécifique liée aux conditions de vie locale jusqu'au terme du contrat en cours.

@@ -1,0 +1,3 @@
+# PARAGRAPHE 1 : REGLES RELATIVES AUX PRENOTATIONS
+
+- [Article 47](article-47.md)

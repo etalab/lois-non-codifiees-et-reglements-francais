@@ -1,0 +1,3 @@
+# Article 1
+
+Est autorisée la création par le ministère de l'écologie, de l'énergie, du développement durable et de la mer, en charge des technologies vertes et des négociations sur le climat (direction de l'habitat, de l'urbanisme et des paysages), d'un traitement automatisé de données à caractère personnel dénommé « DALO » (droit au logement opposable) et dont les finalités sont de gérer l'ensemble de la procédure relative au traitement des recours tendant à la reconnaissance du droit au logement, prévue à l'article L. 441-2-3 du code de la construction et de l'habitation soumis à la commission départementale de médiation (prévue au même article) et d'assurer un suivi statistique de la mise en œuvre du droit au logement opposable.

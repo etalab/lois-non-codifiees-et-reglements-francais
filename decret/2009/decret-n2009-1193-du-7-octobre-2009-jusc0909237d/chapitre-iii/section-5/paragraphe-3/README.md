@@ -1,0 +1,3 @@
+# PARAGRAPHE 3 : LE RANG DES INSCRIPTIONS
+
+- [Article 79](article-79.md)
