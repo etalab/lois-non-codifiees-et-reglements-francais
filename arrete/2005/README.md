@@ -397,7 +397,6 @@
 - [Arrêté du 18 octobre 2005 (INTE0500759A)](arrete-du-18-octobre-2005-inte0500759a)
 - [Arrêté du 18 mai 2005 (BUDD0570001A)](arrete-du-18-mai-2005-budd0570001a)
 - [Arrêté du 18 mai 2005 (INDI0505075A)](arrete-du-18-mai-2005-indi0505075a)
-- [Arrêté du 18 mai 2005 (MAEA0520101A)](arrete-du-18-mai-2005-maea0520101a)
 - [Arrêté du 19 août 2004 (SANP0422439A)](arrete-du-19-aout-2004-sanp0422439a)
 - [Arrêté du 19 août 2005 (EQUP0501241A)](arrete-du-19-aout-2005-equp0501241a)
 - [Arrêté du 19 août 2005 (MENE0501707A)](arrete-du-19-aout-2005-mene0501707a)
