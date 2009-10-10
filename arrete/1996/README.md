@@ -172,7 +172,6 @@
 - [Arrêté du 6 septembre 1996 (INTE9600425A)](arrete-du-6-septembre-1996-inte9600425a)
 - [Arrêté du 6 septembre 1996 (TASA9623350A)](arrete-du-6-septembre-1996-tasa9623350a)
 - [Arrêté du 6 septembre 1996 (TASK9611341A)](arrete-du-6-septembre-1996-task9611341a)
-- [Arrêté du 6 mai 1996 (ENVE9650184A)](arrete-du-6-mai-1996-enve9650184a)
 - [Arrêté du 6 mai 1996 (ENVE9650185A)](arrete-du-6-mai-1996-enve9650185a)
 - [Arrêté du 6 mai 1996 (MCCB9600158A)](arrete-du-6-mai-1996-mccb9600158a)
 - [Arrêté du 6 mai 1998 (ECOP9800089A)](arrete-du-6-mai-1998-ecop9800089a)

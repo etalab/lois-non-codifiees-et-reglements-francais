@@ -2,9 +2,9 @@
 
 Le contrôle technique exercé par la commune sur les systèmes d'assainissement non collectif comprend :
 
-1. La vérification technique de la conception, de l'implantation et de la bonne exécution des ouvrages. Pour les installations nouvelles ou réhabilitées, cette dernière vérification peut être effectuée avant remblaiement ;
+1. (Abrogé)
 
-2. La vérification périodique de leur bon fonctionnement qui porte au moins sur les points suivants :
+2.  (Abrogé)
 
 - vérification du bon état des ouvrages, de leur ventilation et de leur accessibilité ;
 
