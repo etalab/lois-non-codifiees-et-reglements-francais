@@ -1,0 +1,13 @@
+# Article 2
+
+Les catégories d'informations et de données à caractère personnel enregistrées sont celles relatives :
+
+― à l'identité (noms, prénoms, matricules, adresses postale et de courriel professionnelles, numéro de téléphone et fax professionnels, numéro SIRET pour les sociétés) ;
+
+― à la vie professionnelle (affectation, localisation, corps, grade, fonctions) ;
+
+― à l'acte d'achat (prévision ou expression de besoin d'achat, objet de la demande d'achat, dénonciation : date, commentaire, service demandeur [adresse, correspondant technique : service, nom, téléphone, fax, fonction, correspondant ou service en charge de la réception : service, nom, téléphone, fax], numéro du dossier de référence de l'acte d'achat, titulaire[s] envisagé[s], candidats proposés, type d'habilitation pour obtenir le marché, natures et niveaux des habilitations des candidats, type d'acte d'achat, procédure envisagée, mode de passation, date de début de procédure, numéro de marché, critères [de choix des candidats, de choix des offres, de sélection], informations financières [montant estimé, montant réel, service gestionnaire], option cahier des clauses administratives générales choisi [CCAG relatif aux services, CCAG relatif aux études...], calendrier [jalons], identité [du prescripteur, de l'acheteur, identité et fonction des spécialistes requis], visa de l'autorité habilitée à représenter le service demandeur [nom, fonction, date et signature], choix retenu [identité du titulaire et offre], candidat [raison sociale, adresse du siège social, capital social, forme juridique, domiciliation bancaire et identité bancaire, numéro TVA intracommunautaire, code d'activité principale de l'entreprise, classification petite ou moyenne entreprise : oui/non], date de notification du marché, niveau de classification du marché, candidatures et offres non retenues, correspondances échangées avec les candidats [demandes d'information, compte rendu de négociation], correspondances échangées avec le titulaire, date de clôture de l'acte, dossier contentieux [informations juridiques, correspondances échangées avec les instances juridiques]) ;
+
+― au suivi des actions de contrôle de gestion et qualité (niveau d'avancement, domaine d'activité, domaine générateur [réunion, projet, management par objectif, actions de contrôle interne programmées], nom et prénom du pilote de l'action, jalons [date de déclenchement et date de fin prévue, date de fin recalée, date de fin réelle]).
+
+Les données à caractère personnel ainsi enregistrées sont conservées trois ans maximum après la clôture de l'acte d'achat, à l'exception des éléments du dossier de référence de l'acte d'achat qui sont conservés dix ans.
