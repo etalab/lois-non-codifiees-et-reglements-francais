@@ -4,7 +4,7 @@ Le corps des officiers de port adjoints comprend le grade unique de lieutenant d
 
 Le grade de lieutenant de port comprend une classe normale comportant neuf échelons, dont un échelon de stage, et une classe fonctionnelle comportant sept échelons.
 
-La classe fonctionnelle est réservée, dans la limite des emplois inscrits au budget, aux lieutenants de port de classe normale qui occupent un poste de commandant de port ou d'adjoint au commandant de port et, dans les ports dont l'importance justifie leur inscription sur une liste établie par arrêté du ministre chargé de la mer, à ceux qui occupent l'un des postes définis ci-après :
+La classe fonctionnelle est réservée, aux lieutenants de port de classe normale qui occupent un poste de commandant de port ou d'adjoint au commandant de port et, dans les ports dont l'importance justifie leur inscription sur une liste établie par arrêté du ministre chargé de la mer, à ceux qui occupent l'un des postes définis ci-après :
 
 - secrétaire général de la capitainerie ;
 
@@ -14,7 +14,9 @@ La classe fonctionnelle est réservée, dans la limite des emplois inscrits au b
 
 - responsable d'un service de sécurité.
 
-Dans les ports autonomes, la classe fonctionnelle est réservée, dans la limite des emplois inscrits au budget de ces établissements, aux lieutenants de port de classe normale qui occupent l'un des postes définis ci-après :
+Le nombre des emplois de classe fonctionnelle est fixé par arrêté conjoint du ministre chargé de la mer, du ministre chargé de la fonction publique et du ministre chargé du budget.
+
+Dans les ports autonomes et dans les grands ports maritimes, la classe fonctionnelle est réservée, dans la limite des emplois inscrits au budget de ces établissements, aux lieutenants de port de classe normale qui occupent l'un des postes définis ci-après :
 
 Secrétariat général de la capitainerie du port ;
 

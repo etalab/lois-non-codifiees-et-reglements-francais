@@ -1,6 +1,6 @@
 # Article 8
 
-Peuvent être inscrits sur la liste d'aptitude pour l'accès à la classe fonctionnelle de leur grade les lieutenants de port de classe normale ayant accompli deux ans de services effectifs depuis leur titularisation.
+Peuvent être promus, au choix, à la classe fonctionnelle de leur grade les lieutenants de port de classe normale ayant accompli deux ans de services effectifs dans le corps des officiers de port adjoints, en position d'activité ou de détachement.
 
 Lors de leur nomination, les intéressés sont classés dans les échelons de la classe fonctionnelle, conformément au tableau ci-dessous :
 
