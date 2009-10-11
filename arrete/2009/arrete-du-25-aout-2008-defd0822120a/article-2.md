@@ -2,7 +2,7 @@
 
 Les catégories de données à caractère personnel enregistrées sont celles relatives :
 
-― à l'identité (noms, prénoms, date de naissance, matricules, adresse et numéro de téléphone personnels [obligatoire pour les personnels d'astreinte], adresse postale et de courriel, numéros de téléphone et de télécopie professionnels) ;
+― à l'identité (noms, prénoms, date de naissance, matricules, adresse et numéro de téléphone personnels [obligatoire pour les personnels d'astreinte], adresse postale et de courriel, numéros de téléphone et de télécopie professionnels), photographie ;
 
 ― à la vie professionnelle (niveau/catégorie, corps, grade, profession/fonction, date d'entrée profession/fonction, entité d'affectation [direction, service], date de début d'affectation, date de fin d'affectation, position administrative, date de fin de position administrative, régime particulier, dates de début et de fin de régime particulier, code horaire variable, code de travail en équipe, code de contrainte horaire, code de dérogation administrative, numéro de badge, section comptable, horaire particulier personnel [date de fin d'horaire particulier pour le personnel, suivi journalier des horaires particuliers du lundi au dimanche], prêt de personnel [entité de travail, section de travail, dates de début et de fin de prêt, justificatif du prêt]) ;
 

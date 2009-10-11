@@ -10,4 +10,8 @@ Les destinataires des données à caractère personnel enregistrées sont, dans 
 
 - le service des ressources humaines ;
 
-- le secrétariat de la sous-direction de l'établissement technique de Bourges pour ce qui concerne l'élaboration des badges.
+- le secrétariat de la sous-direction de l'établissement technique de Bourges pour ce qui concerne l'élaboration des badges ;
+
+- les correspondants annuaires ;
+
+- les personnels chargés de la surveillance et du gardiennage de l'établissement.
