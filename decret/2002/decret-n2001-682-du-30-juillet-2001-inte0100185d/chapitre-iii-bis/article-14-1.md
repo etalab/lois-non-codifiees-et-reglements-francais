@@ -6,7 +6,7 @@ Peuvent être détachés dans le présent cadre d'emplois, sous réserve qu'ils 
 
 2° Les ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen exerçant dans le ou les Etats membres intéressés.
 
-Ils ne peuvent exercer les fonctions et emplois correspondant au grade de détachement qu'après avoir acquis, le cas échéant, les unités de valeur mentionnées aux articles 10 ou 11.
+Ils ne peuvent exercer les fonctions et emplois correspondant au grade de détachement qu'après avoir acquis, le cas échéant, la formation d'adaptation à l'emploi mentionnée aux articles 10 ou 11.
 
 Toutefois, ils peuvent, compte tenu de leurs qualifications, être dispensés de tout ou partie des formations correspondant aux qualifications déjà acquises.
 

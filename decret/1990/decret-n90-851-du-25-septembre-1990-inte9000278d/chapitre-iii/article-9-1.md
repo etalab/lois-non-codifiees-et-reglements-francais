@@ -1,6 +1,6 @@
 # Article 9-1
 
-Le stage d'une année prévu au premier alinéa de l'article 7 est prolongé par décision de l'autorité territoriale d'emploi du stagiaire lorsque l'école départementale de sapeurs-pompiers n'a pu, au cours de ladite année, dispenser à l'intéressé sa formation initiale.
+Le stage d'une année prévu au premier alinéa de l'article 7 est prolongé par décision de l'autorité territoriale d'emploi du stagiaire lorsque l'école départementale de sapeurs-pompiers n'a pu, au cours de ladite année, dispenser à l'intéressé sa formation d'intégration.
 
 Cette prolongation ne peut dépasser un an.
 

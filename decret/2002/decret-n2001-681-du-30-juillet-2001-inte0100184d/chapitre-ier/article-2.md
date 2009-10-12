@@ -6,4 +6,4 @@ Ils coordonnent et dirigent les personnels et les moyens engagés dans toutes le
 
 En outre, les majors peuvent notamment exercer les fonctions de chef de centre de première intervention ou de centre de secours.
 
-Sous réserve d'avoir exercé pendant trois ans un commandement opérationnel équivalent au moins à celui de chef de groupe et d'être titulaires des unités de valeur définies par arrêté du ministre de l'intérieur, les lieutenants peuvent notamment exercer les fonctions de chef de centre de secours.
+Sous réserve d'avoir exercé pendant trois ans un commandement opérationnel équivalent au moins à celui de chef de groupe et d'être titulaires de la formation d'adaptation à l'emploi définie par arrêté du ministre de l'intérieur, les lieutenants peuvent notamment exercer les fonctions de chef de centre de secours.
