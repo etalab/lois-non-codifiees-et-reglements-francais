@@ -41,7 +41,6 @@
 - [Décret n°92-606 du 1 juillet 1992 (BUDL9200002D)](decret-n92-606-du-1-juillet-1992-budl9200002d)
 - [Décret n°92-886 du 1 septembre 1992 (TEFF9205179D)](decret-n92-886-du-1-septembre-1992-teff9205179d)
 - [Décret du 2 mars 1992 (JUSC9220001D)](decret-du-2-mars-1992-jusc9220001d)
-- [Décret du 2 octobre 1992 (ECOC9200106D)](decret-du-2-octobre-1992-ecoc9200106d)
 - [Décret du 2 septembre 1992 (DEFD9201721D)](decret-du-2-septembre-1992-defd9201721d)
 - [Décret n°90-544 du 2 juillet 1990 (MENK9070013D)](decret-n90-544-du-2-juillet-1990-menk9070013d)
 - [Décret n°92-1065 du 2 octobre 1992 (TEFC9205297D)](decret-n92-1065-du-2-octobre-1992-tefc9205297d)

@@ -67,7 +67,6 @@
 - [Décret n°96-960 du 4 novembre 1996 (TASS9623609D)](decret-n96-960-du-4-novembre-1996-tass9623609d)
 - [Décret n°96-963 du 4 novembre 1996 (TASS9623637D)](decret-n96-963-du-4-novembre-1996-tass9623637d)
 - [Décret n°96-964 du 4 novembre 1996 (TASS9623638D)](decret-n96-964-du-4-novembre-1996-tass9623638d)
-- [Décret du 5 décembre 1996 (FCEC9600190D)](decret-du-5-decembre-1996-fcec9600190d)
 - [Décret du 5 décembre 1996 (FCEC9600192D)](decret-du-5-decembre-1996-fcec9600192d)
 - [Décret du 5 novembre 1996 (FCEC9600198D)](decret-du-5-novembre-1996-fcec9600198d)
 - [Décret n°96-10 du 5 janvier 1996 (AGRS9502489D)](decret-n96-10-du-5-janvier-1996-agrs9502489d)
