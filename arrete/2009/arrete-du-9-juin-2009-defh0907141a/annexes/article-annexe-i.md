@@ -250,11 +250,11 @@ Fonctions relevant de l'armée de terre
 </td>
 <td align="center">1 <br/>
 </td>
-<td align="center">140 <br/>
+<td align="center">140<br/>
 </td>
 </tr>
 <tr>
-<td align="center">Commandant de la formation de l'armée de terre <br/>
+<td align="center">         directeur des ressources humaines de l'armée de terre  <br/>
 </td>
 <td align="center">1 <br/>
 </td>
@@ -358,7 +358,7 @@ Fonctions relevant de l'armée de terre
 </td>
 </tr>
 <tr>
-<td align="center">Chef d'état-major du commandement de la formation de l'armée de terre <br/>
+<td align="center">Chef d'état-major du direction des ressources humaines de l'armée de terre <br/>
 </td>
 <td align="center">1 <br/>
 </td>
@@ -398,7 +398,7 @@ Fonctions relevant de l'armée de terre
 </td>
 </tr>
 <tr>
-<td align="center">Adjoint au commandant de la formation de l'armée de terre <br/>
+<td align="center">Adjoint au         directeur des ressources humaines de l'armée de terre  <br/>
 </td>
 <td align="center">1 <br/>
 </td>
@@ -1011,7 +1011,7 @@ Fonctions relevant de la gendarmerie nationale
 
 TABLEAU VI
 
-Fonctions relevant de la     direction générale de l'armement
+Fonctions relevant de la direction générale de l'armement
 
 <div align="center">
 

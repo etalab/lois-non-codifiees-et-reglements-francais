@@ -4,841 +4,995 @@ TABLEAU I
 
 FONCTIONS INTERARMÉES
 
+<div align="center">
+
 <table>
 <tbody>
 <tr>
-<th>DÉSIGNATION DE LA FONCTION <br/>
+<th colspan="2">DÉSIGNATION DE LA FONCTION <br/>
 </th>
 </tr>
 <tr>
+<td align="center">Inspecteur des forces en opérations et de la défense du territoire. <br/>
+</td>
 <td align="center">
-<p align="left">Inspecteur des forces en opérations et de la défense du territoire. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Directeur de l'enseignement militaire supérieur. <br/>
+</td>
 <td align="center">
-<p align="left">Directeur de l'enseignement militaire supérieur. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Officier général de zone de défense. <br/>
+</td>
 <td align="center">
-<p align="left">Officier général de zone de défense. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Chef de l'état-major particulier du Président de la République. <br/>
+</td>
 <td align="center">
-<p align="left">Chef de l'état-major particulier du Président de la République. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Commandant supérieur outre-mer. <br/>
+</td>
 <td align="center">
-<p align="left">Commandant supérieur outre-mer. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Inspecteur des armements nucléaires. <br/>
+</td>
 <td align="center">
-<p align="left">Inspecteur des armements nucléaires. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Commandant des forces françaises à l'étranger. <br/>
+</td>
 <td align="center">
-<p align="left">Commandant des forces françaises à l'étranger. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Chef de cabinet militaire au cabinet du Premier ministre. <br/>
+</td>
 <td align="center">
-<p align="left">Chef de cabinet militaire au cabinet du Premier ministre. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Chef de cabinet militaire au cabinet du ministre de la défense. <br/>
+</td>
 <td align="center">
-<p align="left">Chef de cabinet militaire au cabinet du ministre de la défense. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Chef de cabinet du chef d'état-major des armées. <br/>
+</td>
 <td align="center">
-<p align="left">Chef de cabinet du chef d'état-major des armées. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Chef de l'état-major interarmées de force et d'entraînement. <br/>
+</td>
 <td align="center">
-<p align="left">Chef de l'état-major interarmées de force et d'entraînement. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Directeur du collège interarmées de défense. <br/>
+</td>
 <td align="center">
-<p align="left">Directeur du collège interarmées de défense. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Chef du centre de planification et de conduite des opérations. <br/>
+</td>
 <td align="center">
-<p align="left">Chef du centre de planification et de conduite des opérations. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Commandant des opérations spéciales. <br/>
+</td>
 <td align="center">
-<p align="left">Commandant des opérations spéciales. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Général adjoint relations internationales. <br/>
+</td>
 <td align="center">
-<p align="left">Général adjoint relations internationales. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Directeur de cabinet du directeur général de la sécurité extérieure. <br/>
+</td>
 <td align="center">
-<p align="left">Directeur de cabinet du directeur général de la sécurité extérieure. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Chef du bureau des officiers généraux. <br/>
+</td>
 <td align="center">
-<p align="left">Chef du bureau des officiers généraux. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Commandant du service militaire adapté. <br/>
+</td>
 <td align="center">
-<p align="left">Commandant du service militaire adapté. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Directeur du centre interarmées de concepts, de doctrines et d'expérimentations. <br/>
+</td>
 <td align="center">
-<p align="left">Directeur du centre interarmées de concepts, de doctrines et d'expérimentations. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Adjoint au chef du centre de planification et de conduite des opérations. <br/>
+</td>
 <td align="center">
-<p align="left">Adjoint au chef du centre de planification et de conduite des opérations. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Officier général chargé des fréquences. <br/>
+</td>
 <td align="center">
-<p align="left">Officier général chargé des fréquences. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Officier général chargé du retour à la vie civile des officiers généraux. <br/>
+</td>
 <td align="center">
-<p align="left">Officier général chargé du retour à la vie civile des officiers généraux. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Officier général chargé des études prospectives. <br/>
+</td>
 <td align="center">
-<p align="left">Officier général chargé des études prospectives. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Officier général chargé du soutien à l'export. <br/>
+</td>
 <td align="center">
-<p align="left">Officier général chargé du soutien à l'export. <br/>
-</p>
+<br/>
 </td>
 </tr>
 </tbody>
 </table>
+
+</div>
 
 TABLEAU II
 
 FONCTIONS RELEVANT DE L'ARMÉE DE TERRE
 
+<div align="center">
+
 <table>
 <tbody>
 <tr>
-<th>DÉSIGNATION DE LA FONCTION <br/>
+<th colspan="2">DÉSIGNATION DE LA FONCTION <br/>
 </th>
 </tr>
 <tr>
+<td align="center">Commandant de la force d'action terrestre. <br/>
+</td>
 <td align="center">
-<p align="left">Commandant de la force d'action terrestre. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Commandant de la force logistique terrestre.<br/>
+</td>
 <td align="center">
-<p align="left">Commandant de la force logistique terrestre. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">         directeur des ressources humaines de l'armée de terre . <br/>
+</td>
 <td align="center">
-<p align="left">Commandant de la formation de l'armée de terre. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Commandant de région terre. <br/>
+</td>
 <td align="center">
-<p align="left">Commandant de région terre. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Commandant de brigade spécialisée. <br/>
+</td>
 <td align="center">
-<p align="left">Commandant de brigade spécialisée. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Commandant de brigade interarmes. <br/>
+</td>
 <td align="center">
-<p align="left">Commandant de brigade interarmes. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Commandant de la légion étrangère. <br/>
+</td>
 <td align="center">
-<p align="left">Commandant de la légion étrangère. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Commandant de l'aviation légère de l'armée de terre. <br/>
+</td>
 <td align="center">
-<p align="left">Commandant de l'aviation légère de l'armée de terre. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Commandant du corps européen. <br/>
+</td>
 <td align="center">
-<p align="left">Commandant du corps européen. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Commandant du quartier général du corps de réaction rapide-France. <br/>
+</td>
 <td align="center">
-<p align="left">Commandant du quartier général du corps de réaction rapide-France. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Commandant d'état-major de forces. <br/>
+</td>
 <td align="center">
-<p align="left">Commandant d'état-major de forces. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Directeur de la section technique de l'armée de terre. <br/>
+</td>
 <td align="center">
-<p align="left">Directeur de la section technique de l'armée de terre. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Chef de cabinet du chef d'état-major de l'armée de terre. <br/>
+</td>
 <td align="center">
-<p align="left">Chef de cabinet du chef d'état-major de l'armée de terre. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Chef d'état-major du commandement de la force d'action terrestre. <br/>
+</td>
 <td align="center">
-<p align="left">Chef d'état-major du commandement de la force d'action terrestre. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Chef d'état-major du commandement de la force logistique terrestre. <br/>
+</td>
 <td align="center">
-<p align="left">Chef d'état-major du commandement de la force logistique terrestre. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Chef d'état-major du direction des ressources humaines de l'armée de terre. <br/>
+</td>
 <td align="center">
-<p align="left">Chef d'état-major du commandement de la formation de l'armée de terre. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Chef d'état-major du corps européen. <br/>
+</td>
 <td align="center">
-<p align="left">Chef d'état-major du corps européen. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Chef d'état-major du quartier général du corps de réaction rapide-France. <br/>
+</td>
 <td align="center">
-<p align="left">Chef d'état-major du quartier général du corps de réaction rapide-France. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Adjoint au commandant de la force d'action terrestre. <br/>
+</td>
 <td align="center">
-<p align="left">Adjoint au commandant de la force d'action terrestre. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Adjoint au commandant de la force logistique terrestre. <br/>
+</td>
 <td align="center">
-<p align="left">Adjoint au commandant de la force logistique terrestre. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Adjoint au         directeur des ressources humaines de l'armée de terre . <br/>
+</td>
 <td align="center">
-<p align="left">Adjoint au commandant de la formation de l'armée de terre. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Général adjoint major au commandant d'une région terre. <br/>
+</td>
 <td align="center">
-<p align="left">Général adjoint major au commandant d'une région terre. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Chef d'état-major d'une région terre. <br/>
+</td>
 <td align="center">
-<p align="left">Chef d'état-major d'une région terre. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Général adjoint pour l'outre-mer et l'étranger. <br/>
+</td>
 <td align="center">
-<p align="left">Général adjoint pour l'outre-mer et l'étranger. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Directeur du service central des achats et de la maintenance. <br/>
+</td>
 <td align="center">
-<p align="left">Directeur du service central des achats et de la maintenance. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Commandant de division au commandement de la force d'action terrestre. <br/>
+</td>
 <td align="center">
-<p align="left">Commandant de division au commandement de la force d'action terrestre. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Commandant de division au commandement de la force logistique terrestre. <br/>
+</td>
 <td align="center">
-<p align="left">Commandant de division au commandement de la force logistique terrestre. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Commandant de la division opérations au quartier général du corps de réaction rapide-France. <br/>
+</td>
 <td align="center">
-<p align="left">Commandant de la division opérations au quartier général du corps de réaction rapide-France. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Commandant du centre de préparation des forces. <br/>
+</td>
 <td align="center">
-<p align="left">Commandant du centre de préparation des forces. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Commandant des écoles de Coëtquidan. <br/>
+</td>
 <td align="center">
-<p align="left">Commandant des écoles de Coëtquidan. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Commandant de l'Ecole nationale des sous-officiers d'active. <br/>
+</td>
 <td align="center">
-<p align="left">Commandant de l'Ecole nationale des sous-officiers d'active. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Directeur de la doctrine d'emploi des forces. <br/>
+</td>
 <td align="center">
-<p align="left">Directeur de la doctrine d'emploi des forces. <br/>
-</p>
+<br/>
 </td>
 </tr>
 </tbody>
 </table>
+
+</div>
 
 TABLEAU III
 
 FONCTIONS RELEVANT DE LA MARINE NATIONALE
 
+<div align="center">
+
 <table>
 <tbody>
 <tr>
-<th>DÉSIGNATION DE LA FONCTION <br/>
+<th colspan="2">DÉSIGNATION DE LA FONCTION <br/>
 </th>
 </tr>
 <tr>
+<td align="center">Préfet maritime. <br/>
+</td>
 <td align="center">
-<p align="left">Préfet maritime. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Commandant la force d'action navale. <br/>
+</td>
 <td align="center">
-<p align="left">Commandant la force d'action navale. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Commandant les forces sous-marines et la force océanique stratégique. <br/>
+</td>
 <td align="center">
-<p align="left">Commandant les forces sous-marines et la force océanique stratégique. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Commandant la force de l'aéronautique navale. <br/>
+</td>
 <td align="center">
-<p align="left">Commandant la force de l'aéronautique navale. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Commandant la force des fusiliers marins et commandos. <br/>
+</td>
 <td align="center">
-<p align="left">Commandant la force des fusiliers marins et commandos. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Commandant la zone maritime océan Indien. <br/>
+</td>
 <td align="center">
-<p align="left">Commandant la zone maritime océan Indien. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Officier général coordonnateur central pour les affaires nucléaires, la prévention et la protection de l'environnement. <br/>
+</td>
 <td align="center">
-<p align="left">Officier général coordonnateur central pour les affaires nucléaires, la prévention et la protection de l'environnement. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Officier général coordonnateur central pour les questions internationales. <br/>
+</td>
 <td align="center">
-<p align="left">Officier général coordonnateur central pour les questions internationales. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Président de la commission permanente des programmes et des essais des bâtiments de la flotte. <br/>
+</td>
 <td align="center">
-<p align="left">Président de la commission permanente des programmes et des essais des bâtiments de la flotte. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Commandant la force aéromaritime de réaction rapide et adjoint au commandant la force d'action navale pour la préparation opérationnelle des états-majors de force. <br/>
+</td>
 <td align="center">
-<p align="left">Commandant la force aéromaritime de réaction rapide et adjoint au commandant la force d'action navale pour la préparation opérationnelle des états-majors de force. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Adjoint territorial au préfet maritime. <br/>
+</td>
 <td align="center">
-<p align="left">Adjoint territorial au préfet maritime. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Chef d'état-major du commandement de la force d'action navale. <br/>
+</td>
 <td align="center">
-<p align="left">Chef d'état-major du commandement de la force d'action navale. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Adjoint organique à Brest au commandant de la force d'action navale. <br/>
+</td>
 <td align="center">
-<p align="left">Adjoint organique à Brest au commandant de la force d'action navale. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Directeur local du service de soutien de la flotte. <br/>
+</td>
 <td align="center">
-<p align="left">Directeur local du service de soutien de la flotte. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Commandant de l'école navale et du groupe des écoles du Poulmic. <br/>
+</td>
 <td align="center">
-<p align="left">Commandant de l'école navale et du groupe des écoles du Poulmic. <br/>
-</p>
+<br/>
 </td>
 </tr>
 </tbody>
 </table>
+
+</div>
 
 TABLEAU IV
 
 FONCTIONS RELEVANT DE L'ARMÉE DE L'AIR
 
+<div align="center">
+
 <table>
 <tbody>
 <tr>
-<th>DÉSIGNATION DE LA FONCTION <br/>
+<th colspan="2">DÉSIGNATION DE LA FONCTION <br/>
 </th>
 </tr>
 <tr>
+<td align="center">Commandant des forces aériennes. <br/>
+</td>
 <td align="center">
-<p align="left">Commandant des forces aériennes. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Commandant de la défense aérienne et des opérations aériennes. <br/>
+</td>
 <td align="center">
-<p align="left">Commandant de la défense aérienne et des opérations aériennes. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Commandant des forces aériennes stratégiques. <br/>
+</td>
 <td align="center">
-<p align="left">Commandant des forces aériennes stratégiques. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Commandant du soutien des forces aériennes. <br/>
+</td>
 <td align="center">
-<p align="left">Commandant du soutien des forces aériennes. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Commandant en second de la défense aérienne et des opérations aériennes. <br/>
+</td>
 <td align="center">
-<p align="left">Commandant en second de la défense aérienne et des opérations aériennes. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Commandant en second des forces aériennes. <br/>
+</td>
 <td align="center">
-<p align="left">Commandant en second des forces aériennes. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Commandant en second des forces aériennes stratégiques. <br/>
+</td>
 <td align="center">
-<p align="left">Commandant en second des forces aériennes stratégiques. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Commandant en second du soutien des forces aériennes. <br/>
+</td>
 <td align="center">
-<p align="left">Commandant en second du soutien des forces aériennes. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Commandant du centre d'expériences aériennes militaires. <br/>
+</td>
 <td align="center">
-<p align="left">Commandant du centre d'expériences aériennes militaires. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Chef de l'état-major opérationnel air. <br/>
+</td>
 <td align="center">
-<p align="left">Chef de l'état-major opérationnel air. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Directeur de la circulation aérienne militaire. <br/>
+</td>
 <td align="center">
-<p align="left">Directeur de la circulation aérienne militaire. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Chef d'état-major du commandement des forces aériennes. <br/>
+</td>
 <td align="center">
-<p align="left">Chef d'état-major du commandement des forces aériennes. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Chef d'état-major du commandement du soutien de l'armée de l'air. <br/>
+</td>
 <td align="center">
-<p align="left">Chef d'état-major du commandement du soutien de l'armée de l'air. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Adjoint au commandant de la défense aérienne et des opérations aériennes. <br/>
+</td>
 <td align="center">
-<p align="left">Adjoint au commandant de la défense aérienne et des opérations aériennes. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Commandant de brigade aérienne. <br/>
+</td>
 <td align="center">
-<p align="left">Commandant de brigade aérienne. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Directeur du service de l'audit de l'administration et des finances. <br/>
+</td>
 <td align="center">
-<p align="left">Directeur du service de l'audit de l'administration et des finances. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Directeur du service des finances des formations, des achats et de la comptabilité. <br/>
+</td>
 <td align="center">
-<p align="left">Directeur du service des finances des formations, des achats et de la comptabilité. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Directeur des droits financiers individuels et des affaires contentieuses. <br/>
+</td>
 <td align="center">
-<p align="left">Directeur des droits financiers individuels et des affaires contentieuses. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Commandant des écoles d'officiers de l'armée de l'air. <br/>
+</td>
 <td align="center">
-<p align="left">Commandant des écoles d'officiers de l'armée de l'air. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Commandant des écoles des sous-officiers et militaires du rang de l'armée de l'air. <br/>
+</td>
 <td align="center">
-<p align="left">Commandant des écoles des sous-officiers et militaires du rang de l'armée de l'air. <br/>
-</p>
+<br/>
 </td>
 </tr>
 </tbody>
 </table>
+
+</div>
 
 TABLEAU V
 
 FONCTIONS RELEVANT DE LA GENDARMERIE NATIONALE
 
+<div align="center">
+
 <table>
 <tbody>
 <tr>
-<th>DÉSIGNATION DE LA FONCTION <br/>
+<th colspan="2">DÉSIGNATION DE LA FONCTION <br/>
 </th>
 </tr>
 <tr>
+<td align="center">Commandant de région de gendarmerie, commandant de la gendarmerie pour une zone de défense. <br/>
+</td>
 <td align="center">
-<p align="left">Commandant de région de gendarmerie, commandant de la gendarmerie pour une zone de défense. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Commandant de région de gendarmerie. <br/>
+</td>
 <td align="center">
-<p align="left">Commandant de région de gendarmerie. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Commandant de gendarmerie outre-mer. <br/>
+</td>
 <td align="center">
-<p align="left">Commandant de gendarmerie outre-mer. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Commandant des écoles de la gendarmerie. <br/>
+</td>
 <td align="center">
-<p align="left">Commandant des écoles de la gendarmerie. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Délégué aux réserves militaires pour la gendarmerie. <br/>
+</td>
 <td align="center">
-<p align="left">Délégué aux réserves militaires pour la gendarmerie. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Commandant du centre d'enseignement supérieur de la gendarmerie et adjoint au général commandant les écoles de la gendarmerie nationale. <br/>
+</td>
 <td align="center">
-<p align="left">Commandant du centre d'enseignement supérieur de la gendarmerie et adjoint au général commandant les écoles de la gendarmerie nationale. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Chef de cabinet du directeur général de la gendarmerie nationale. <br/>
+</td>
 <td align="center">
-<p align="left">Chef de cabinet du directeur général de la gendarmerie nationale. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Commandant du groupe d'intervention de la gendarmerie nationale. <br/>
+</td>
 <td align="center">
-<p align="left">Commandant du groupe d'intervention de la gendarmerie nationale. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Commandant de la gendarmerie des transports aériens. <br/>
+</td>
 <td align="center">
-<p align="left">Commandant de la gendarmerie des transports aériens. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Commandant de la force de gendarmerie mobile et d'intervention. <br/>
+</td>
 <td align="center">
-<p align="left">Commandant de la force de gendarmerie mobile et d'intervention. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Commandant de la garde républicaine. <br/>
+</td>
 <td align="center">
-<p align="left">Commandant de la garde républicaine. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Commandant de l'Ecole des officiers de la gendarmerie nationale. <br/>
+</td>
 <td align="center">
-<p align="left">Commandant de l'Ecole des officiers de la gendarmerie nationale. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Chef de la mission du pilotage et de la performance. <br/>
+</td>
 <td align="center">
-<p align="left">Chef de la mission du pilotage et de la performance. <br/>
-</p>
+<br/>
 </td>
 </tr>
 </tbody>
 </table>
+
+</div>
 
 TABLEAU VI
 
 FONCTIONS RELEVANT DE LA direction générale de l'armement
 
+<div align="center">
+
 <table>
 <tbody>
 <tr>
+<th>DÉSIGNATION DE LA FONCTION <br/>
+</th>
+</tr>
+<tr>
+<td align="center">Directeur du centre d'électronique de l'armement de la direction de l'expertise technique. <br/>
+</td>
 <td align="center">
-<p align="center">DÉSIGNATION DE LA FONCTION </p>
+<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">Directeur du centre d'électronique de l'armement de la direction de l'expertise technique. <br/>
-</p>
+<td align="center">Directeur du centre d'essais en vol de la direction des essais. <br/>
 </td>
-</tr>
-<tr>
 <td align="center">
-<p align="left">Directeur du centre d'essais en vol de la direction des essais. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Directeur du centre d'essais de lancement de missiles de la direction des essais. <br/>
+</td>
 <td align="center">
-<p align="left">Directeur du centre d'essais de lancement de missiles de la direction des essais. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">Directeur local du service de soutien de la flotte.</p>
+<td align="center">Directeur local du service de soutien de la flotte. <br/>
 </td>
 </tr>
 </tbody>
 </table>
+
+</div>
 
 TABLEAU VII
 
 FONCTIONS RELEVANT DU SERVICE DE SANTÉ DES ARMÉES
 
+<div align="center">
+
 <table>
 <tbody>
 <tr>
-<th>DÉSIGNATION DE LA FONCTION <br/>
+<th colspan="2">DÉSIGNATION DE LA FONCTION <br/>
 </th>
 </tr>
 <tr>
+<td align="center">Inspecteur général du service de santé des armées. <br/>
+</td>
 <td align="center">
-<p align="left">Inspecteur général du service de santé des armées. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Médecin-chef d'un hôpital d'instruction des armées. <br/>
+</td>
 <td align="center">
-<p align="left">Médecin-chef d'un hôpital d'instruction des armées. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Directeur des approvisionnements en produits de santé. <br/>
+</td>
 <td align="center">
-<p align="left">Directeur des approvisionnements en produits de santé. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Directeur de l'école du Val-de-Grâce. <br/>
+</td>
 <td align="center">
-<p align="left">Directeur de l'école du Val-de-Grâce. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Directeur du centre de transfusion sanguine des armées. <br/>
+</td>
 <td align="center">
-<p align="left">Directeur du centre de transfusion sanguine des armées. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Directeur du centre de recherche du service de santé des armées. <br/>
+</td>
 <td align="center">
-<p align="left">Directeur du centre de recherche du service de santé des armées. <br/>
-</p>
+<br/>
 </td>
 </tr>
 </tbody>
 </table>
+
+</div>
 
 TABLEAU VIII
 
 FONCTIONS RELEVANT DU SERVICE DES ESSENCES DES ARMÉES
 
+<div align="center">
+
 <table>
 <tbody>
 <tr>
-<th>DÉSIGNATION DE LA FONCTION <br/>
+<th colspan="2">DÉSIGNATION DE LA FONCTION <br/>
 </th>
 </tr>
 <tr>
+<td align="center">Directeur de l'établissement administratif et technique du service des essences des armées. <br/>
+</td>
 <td align="center">
-<p align="left">Directeur de l'établissement administratif et technique du service des essences des armées. <br/>
-</p>
+<br/>
 </td>
 </tr>
 </tbody>
 </table>
+
+</div>
 
 TABLEAU IX
 
 FONCTIONS RELEVANT DU CONTRÔLE GÉNÉRAL DES ARMÉES
 
+<div align="center">
+
 <table>
 <tbody>
 <tr>
-<th>DÉSIGNATION DE LA FONCTION <br/>
+<th colspan="2">DÉSIGNATION DE LA FONCTION <br/>
 </th>
 </tr>
 <tr>
+<td align="center">Chef de l'inspection du travail. <br/>
+</td>
 <td align="center">
-<p align="left">Chef de l'inspection du travail. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Chef de l'inspection des installations classées pour la protection de l'environnement. <br/>
+</td>
 <td align="center">
-<p align="left">Chef de l'inspection des installations classées pour la protection de l'environnement. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Secrétaire général du Conseil supérieur de la fonction militaire. <br/>
+</td>
 <td align="center">
-<p align="left">Secrétaire général du Conseil supérieur de la fonction militaire. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Chef du groupe de contrôle des forces et organismes de soutien. <br/>
+</td>
 <td align="center">
-<p align="left">Chef du groupe de contrôle des forces et organismes de soutien. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Chef du groupe de contrôle du personnel, de la réglementation et du budget. <br/>
+</td>
 <td align="center">
-<p align="left">Chef du groupe de contrôle du personnel, de la réglementation et du budget. <br/>
-</p>
+<br/>
 </td>
 </tr>
 <tr>
+<td align="center">Chef du groupe de contrôle des services et industries d'armement.<br/>
+</td>
 <td align="center">
-<p align="left">Chef du groupe de contrôle des services et industries d'armement.<br/>
-</p>
+<br/>
 </td>
 </tr>
 </tbody>
 </table>
+
+</div>

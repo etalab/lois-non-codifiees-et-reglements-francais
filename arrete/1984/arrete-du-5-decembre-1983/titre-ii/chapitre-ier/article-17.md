@@ -18,4 +18,4 @@ L'oeuvre est tirée au sort par le candidat vingt minutes avant l'épreuve ;
 
 Cette épreuve comporte un entretien avec le jury destiné à apprécier l'aptitude du candidat à l'emploi de chef de musique militaire ainsi que son niveau de culture générale et ses qualités de jugement et d'expression.
 
-Pour cette épreuve, le jury est composé d'un chef de musique des armées assisté d'un officier supérieur de l'armée de terre, désigné par le commandement de la formation de l'armée de terre (COFAT).
+Pour cette épreuve, le jury est composé d'un chef de musique des armées assisté d'un officier supérieur de l'armée de terre, désigné par le         direction des ressources humaines de l'armée de terre (COFAT).

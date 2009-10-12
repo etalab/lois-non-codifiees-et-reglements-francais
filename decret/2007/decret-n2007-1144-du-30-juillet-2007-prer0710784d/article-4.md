@@ -6,25 +6,25 @@ Sont membres de la commission :
 
 2) Au titre des administrations :
 
-a. - Ministère de l'intérieur, de l'outre-mer et des collectivités territoriales :
+a.-Ministère de l'intérieur, de l'outre-mer et des collectivités territoriales :
 
 Le secrétaire général du ministère ;
 
 Le directeur général de la police nationale.
 
-b. - Ministère des affaires étrangères et européennes :
+b.-Ministère des affaires étrangères et européennes :
 
 Le directeur général des affaires politiques et de sécurité.
 
-c. - Ministère de l'économie, des finances et de l'emploi :
+c.-Ministère de l'économie, des finances et de l'emploi :
 
 Le directeur général du trésor et de la politique économique.
 
-d. - Ministère de l'enseignement supérieur et de la recherche :
+d.-Ministère de l'enseignement supérieur et de la recherche :
 
 Le directeur de la stratégie à la direction générale de la recherche et de l'innovation.
 
-e. - Ministère de la défense :
+e.-Ministère de la défense :
 
 Le chef d'état-major des armées ;
 
@@ -38,7 +38,7 @@ Le directeur général de la sécurité extérieure ;
 
 Le directeur chargé des affaires stratégiques.
 
-f. - Ministère du budget, des comptes publics et de la fonction publique :
+f.-Ministère du budget, des comptes publics et de la fonction publique :
 
 Le directeur du budget.
 
@@ -58,7 +58,7 @@ Mme Thérèse Delpech, directrice des affaires stratégiques au Commissariat à 
 
 M. Jean-Martin Folz, ancien président-directeur général de PSA Peugeot Citroën ;
 
-M. le général de corps d'armée Pierre Garrigou-Grandchamp, commandant de la formation de l'armée de terre ;
+M. le général de corps d'armée Pierre Garrigou-Grandchamp,         directeur des ressources humaines de l'armée de terre  ;
 
 M. François Heisbourg, conseiller spécial, Fondation pour la recherche stratégique ;
 

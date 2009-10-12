@@ -26,7 +26,7 @@ II.-Des organismes extérieurs dont les attributions, l'organisation et le fonct
 
 -la direction locale du commissariat de l'armée de terre de Libreville.
 
-4. Relevant, d'une part, de la direction centrale du commissariat de l'armée de terre quant aux contenus des enseignements liés à l'administration militaire et au soutien de l'homme et, d'autre part, du commandement de la formation de l'armée de terre sur le plan fonctionnel et organique :
+4. Relevant, d'une part, de la direction centrale du commissariat de l'armée de terre quant aux contenus des enseignements liés à l'administration militaire et au soutien de l'homme et, d'autre part, du         direction des ressources humaines de l'armée de terre sur le plan fonctionnel et organique :
 
 -l'Ecole militaire supérieure d'administration et de management de l'armée de terre.
 
@@ -54,4 +54,4 @@ II.-Des organismes extérieurs dont les attributions, l'organisation et le fonct
 
 -les établissements d'impression de l'armée de terre.
 
-III.-Les commissaires de l'armée de terre, gérés par la direction centrale du commissariat de l'armée de terre, les officiers du corps technique et administratif du commissariat de l'armée de terre et les sous-officiers du commissariat de l'armée de terre, gérés par la         direction des ressources humaines de l'armée de terre  et pour emploi sous l'autorité du commandement.
+III.-Les commissaires de l'armée de terre, gérés par la direction centrale du commissariat de l'armée de terre, les officiers du corps technique et administratif du commissariat de l'armée de terre et les sous-officiers du commissariat de l'armée de terre, gérés par la direction des ressources humaines de l'armée de terre et pour emploi sous l'autorité du commandement.

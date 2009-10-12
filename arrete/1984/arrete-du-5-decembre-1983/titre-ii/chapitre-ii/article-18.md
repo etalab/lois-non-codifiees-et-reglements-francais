@@ -20,10 +20,10 @@ Cette épreuve consiste à commander une musique militaire à l'extérieur ;
 
 3° Une épreuve d'aptitude (coefficient 1 ; durée : trente minutes) ;
 
-Cette épreuve comporte un entretien avec le président du jury et un officier supérieur de l'armée de terre membre du jury, désigné par le commandement de la formation de l'armée de terre (COFAT), qui attribuent à chaque candidat une note d'aptitude de 0 à 20.
+Cette épreuve comporte un entretien avec le président du jury et un officier supérieur de l'armée de terre membre du jury, désigné par le         direction des ressources humaines de l'armée de terre (COFAT), qui attribuent à chaque candidat une note d'aptitude de 0 à 20.
 
 Pour l'établissement de cette note, il est tenu compte :
 
-- d'une part, du comportement général de l'intéressé lors de l'entretien ;
+-d'une part, du comportement général de l'intéressé lors de l'entretien ;
 
-- d'autre part, de l'examen du dossier de stage établi au cours de la période d'instruction interarmées de perfectionnement.
+-d'autre part, de l'examen du dossier de stage établi au cours de la période d'instruction interarmées de perfectionnement.

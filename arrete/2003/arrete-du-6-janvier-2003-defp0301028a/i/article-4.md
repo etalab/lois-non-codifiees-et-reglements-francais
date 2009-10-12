@@ -4,7 +4,7 @@ L'organisation pour l'exécution du concours comporte :
 
 1° Un jury qui comprend :
 
-a) Un officier général de l'armée de terre, président, assisté d'un officier supérieur, vice-président, appartenant tour à tour à la     direction générale de l'armement, à la marine, à la gendarmerie, au service de santé des armées ou au service des essences des armées, dans la mesure où ces armées, directions et services ouvrent une ou plusieurs places au concours pour l'année considérée ;
+a) Un officier général de l'armée de terre, président, assisté d'un officier supérieur, vice-président, appartenant tour à tour à la direction générale de l'armement, à la marine, à la gendarmerie, au service de santé des armées ou au service des essences des armées, dans la mesure où ces armées, directions et services ouvrent une ou plusieurs places au concours pour l'année considérée ;
 
 b) Une commission d'admissibilité composée du président et du vice-président du jury et des correcteurs des épreuves écrites ;
 
@@ -12,7 +12,7 @@ c) Une commission d'admission composée du président et du vice-président du j
 
 d) Une commission des épreuves sportives, composée d'un officier, président de la commission et des examinateurs des épreuves sportives, assisté d'un médecin des armées.
 
-Les membres du jury sont désignés par le ministre de la défense sur proposition du chef d'état-major de l'armée de terre, à l'exception du médecin des armées et des examinateurs des épreuves sportives qui sont désignés par le commandant de la formation de l'armée de terre.
+Les membres du jury sont désignés par le ministre de la défense sur proposition du chef d'état-major de l'armée de terre, à l'exception du médecin des armées et des examinateurs des épreuves sportives qui sont désignés par le         directeur des ressources humaines de l'armée de terre .
 
 En cas d'empêchement de l'un ou de plusieurs d'entre eux, le remplacement est assuré dans les mêmes conditions. En cas d'urgence, cette désignation est prononcée par le chef d'état-major de l'armée de terre ;
 

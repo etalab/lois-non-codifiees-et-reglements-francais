@@ -2,7 +2,7 @@
 
 La responsabilité de l'organisation de chaque concours incombe :
 
-1° Au général commandant de la formation de l'armée de terre qui :
+1° Au général         directeur des ressources humaines de l'armée de terre  qui :
 
 Désigne les membres du jury ;
 

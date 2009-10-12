@@ -958,7 +958,7 @@ Etat-major de la région terre Nord-Ouest, à Rennes, Ille-et-Vilaine (35).
 
 11e régiment d'artillerie de marine, à Saint-Aubin-du-Cormier, Ille-et-Vilaine (35).
 
-Commandement de la formation de l'armée de terre, à Tours, Indre-et-Loire (37).
+direction des ressources humaines de l'armée de terre, à Tours, Indre-et-Loire (37).
 
 93e régiment d'artillerie de montagne, à Varces-Allières-et-Risset, Isère (38).
 

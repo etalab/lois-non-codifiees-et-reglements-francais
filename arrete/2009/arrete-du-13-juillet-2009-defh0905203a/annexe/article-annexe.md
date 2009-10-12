@@ -954,7 +954,7 @@ Etat-major de la région terre Nord-Ouest, à Rennes, Ille-et-Vilaine (35).
 
 11e régiment d'artillerie de marine, à Saint-Aubin-du-Cormier, Ille-et-Vilaine (35).
 
-Commandement de la formation de l'armée de terre, à Tours, Indre-et-Loire (37).
+direction des ressources humaines de l'armée de terre, à Tours, Indre-et-Loire (37).
 
 93e régiment d'artillerie de montagne, à Varces-Allières-et-Risset, Isère (38).
 
@@ -6137,7 +6137,7 @@ Formations, unités, services et établissements faisant l'objet d'une réorgani
 <p align="center">Terre </p>
 </td>
 <td width="68">
-<p align="center">Détachement du commandement de la formation de l'armée de terre </p>
+<p align="center">Détachement du         direction des ressources humaines de l'armée de terre </p>
 </td>
 <td width="57">
 <p align="center">49 </p>
@@ -23826,7 +23826,7 @@ Formations, unités, services et établissements faisant l'objet d'une réorgani
 </tr>
 <tr>
 <td width="90">
-<p align="center">DGA</p>
+<p align="center">DGA </p>
 </td>
 <td width="90">
 <p align="center">direction générale de l'armement </p>
@@ -23879,7 +23879,7 @@ Formations, unités, services et établissements faisant l'objet d'une réorgani
 </tr>
 <tr>
 <td width="90">
-<p align="center">DGA</p>
+<p align="center">DGA </p>
 </td>
 <td width="90">
 <p align="center">direction générale de l'armement-inspection </p>
@@ -26370,7 +26370,7 @@ Formations, unités, services et établissements faisant l'objet d'une réorgani
 </tr>
 <tr>
 <td width="90">
-<p align="center">DGA</p>
+<p align="center">DGA </p>
 </td>
 <td width="90">
 <p align="center">direction générale de l'armement-département central de la sécurité et de la défense de l'information </p>
@@ -26423,7 +26423,7 @@ Formations, unités, services et établissements faisant l'objet d'une réorgani
 </tr>
 <tr>
 <td width="90">
-<p align="center">DGA</p>
+<p align="center">DGA </p>
 </td>
 <td width="90">
 <p align="center">direction générale de l'armement-communication </p>
@@ -26476,7 +26476,7 @@ Formations, unités, services et établissements faisant l'objet d'une réorgani
 </tr>
 <tr>
 <td width="90">
-<p align="center">DGA</p>
+<p align="center">DGA </p>
 </td>
 <td width="90">
 <p align="center">direction générale de l'armement-cabinet </p>
@@ -28008,7 +28008,7 @@ Formations, unités, services et établissements faisant l'objet d'une réorgani
 <br/>
 </td>
 <td width="25">
-<p align="center">X </p>
+<p align="center">X</p>
 </td>
 </tr>
 </tbody>
@@ -28022,21 +28022,21 @@ Formations, unités, services et établissements faisant l'objet d'une réorgani
 <tbody>
 <tr>
 <td colspan="17" valign="top" width="680">
-<p align="center">Service de santé des armées</p>
+<p align="center">Service de santé des armées </p>
 </td>
 </tr>
 <tr>
 <td width="90">
-<p align="center">SSA</p>
+<p align="center">SSA </p>
 </td>
 <td width="90">
-<p align="center">Hôpital d'instruction des armées</p>
+<p align="center">Hôpital d'instruction des armées </p>
 </td>
 <td width="75">
-<p align="center">13</p>
+<p align="center">13 </p>
 </td>
 <td width="100">
-<p align="center">Marseille</p>
+<p align="center">Marseille </p>
 </td>
 <td width="25">
 <br/>
@@ -28048,219 +28048,7 @@ Formations, unités, services et établissements faisant l'objet d'une réorgani
 <br/>
 </td>
 <td width="25">
-<p align="center">X</p>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-</tr>
-<tr>
-<td width="90">
-<p align="center">SSA</p>
-</td>
-<td width="90">
-<p align="center">Institut de médecine tropicale du service de santé des armées</p>
-</td>
-<td width="75">
-<p align="center">13</p>
-</td>
-<td width="100">
-<p align="center">Marseille</p>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<p align="center">X</p>
-</td>
-<td width="25">
-<p align="center">X</p>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-</tr>
-<tr>
-<td width="90">
-<p align="center">SSA</p>
-</td>
-<td width="90">
-<p align="center">Établissement de ravitaillement du service de santé</p>
-</td>
-<td width="75">
-<p align="center">13</p>
-</td>
-<td width="100">
-<p align="center">Marseille</p>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<p align="center">X</p>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-</tr>
-<tr>
-<td width="90">
-<p align="center">SSA</p>
-</td>
-<td width="90">
-<p align="center">Établissement de ravitaillement du service de santé</p>
-</td>
-<td width="75">
-<p align="center">28</p>
-</td>
-<td width="100">
-<p align="center">Chartres</p>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<p align="center">X</p>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-</tr>
-<tr>
-<td width="90">
-<p align="center">SSA</p>
-</td>
-<td width="90">
-<p align="center">Hôpital d'instruction des armées</p>
-</td>
-<td width="75">
-<p align="center">29</p>
-</td>
-<td width="100">
-<p align="center">Brest</p>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<p align="center">X</p>
+<p align="center">X </p>
 </td>
 <td width="25">
 <br/>
@@ -28292,16 +28080,16 @@ Formations, unités, services et établissements faisant l'objet d'une réorgani
 </tr>
 <tr>
 <td width="90">
-<p align="center">SSA</p>
+<p align="center">SSA </p>
 </td>
 <td width="90">
-<p align="center">Direction régionale du service de santé des armées</p>
+<p align="center">Institut de médecine tropicale du service de santé des armées </p>
 </td>
 <td width="75">
-<p align="center">29</p>
+<p align="center">13 </p>
 </td>
 <td width="100">
-<p align="center">Brest</p>
+<p align="center">Marseille </p>
 </td>
 <td width="25">
 <br/>
@@ -28313,10 +28101,10 @@ Formations, unités, services et établissements faisant l'objet d'une réorgani
 <br/>
 </td>
 <td width="25">
-<p align="center">X</p>
+<p align="center">X </p>
 </td>
 <td width="25">
-<p align="center">X</p>
+<p align="center">X </p>
 </td>
 <td width="25">
 <br/>
@@ -28345,16 +28133,16 @@ Formations, unités, services et établissements faisant l'objet d'une réorgani
 </tr>
 <tr>
 <td width="90">
-<p align="center">SSA</p>
+<p align="center">SSA </p>
 </td>
 <td width="90">
-<p align="center">Hôpital d'instruction des armées</p>
+<p align="center">Établissement de ravitaillement du service de santé </p>
 </td>
 <td width="75">
-<p align="center">33</p>
+<p align="center">13 </p>
 </td>
 <td width="100">
-<p align="center">Bordeaux</p>
+<p align="center">Marseille </p>
 </td>
 <td width="25">
 <br/>
@@ -28366,10 +28154,63 @@ Formations, unités, services et établissements faisant l'objet d'une réorgani
 <br/>
 </td>
 <td width="25">
-<p align="center">X</p>
+<br/>
 </td>
 <td width="25">
 <br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<p align="center">X </p>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+</tr>
+<tr>
+<td width="90">
+<p align="center">SSA </p>
+</td>
+<td width="90">
+<p align="center">Établissement de ravitaillement du service de santé </p>
+</td>
+<td width="75">
+<p align="center">28 </p>
+</td>
+<td width="100">
+<p align="center">Chartres </p>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<p align="center">X </p>
 </td>
 <td width="25">
 <br/>
@@ -28398,16 +28239,16 @@ Formations, unités, services et établissements faisant l'objet d'une réorgani
 </tr>
 <tr>
 <td width="90">
-<p align="center">SSA</p>
+<p align="center">SSA </p>
 </td>
 <td width="90">
-<p align="center">Direction régionale du service de santé des armées</p>
+<p align="center">Hôpital d'instruction des armées </p>
 </td>
 <td width="75">
-<p align="center">33</p>
+<p align="center">29 </p>
 </td>
 <td width="100">
-<p align="center">Bordeaux</p>
+<p align="center">Brest </p>
 </td>
 <td width="25">
 <br/>
@@ -28419,166 +28260,7 @@ Formations, unités, services et établissements faisant l'objet d'une réorgani
 <br/>
 </td>
 <td width="25">
-<p align="center">X</p>
-</td>
-<td width="25">
-<p align="center">X</p>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-</tr>
-<tr>
-<td width="90">
-<p align="center">SSA</p>
-</td>
-<td width="90">
-<p align="center">Centre de recherche du service de santé des armées</p>
-</td>
-<td width="75">
-<p align="center">38</p>
-</td>
-<td width="100">
-<p align="center">La Tronche</p>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<p align="center">X</p>
-</td>
-<td width="25">
-<p align="center">X</p>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-</tr>
-<tr>
-<td width="90">
-<p align="center">SSA</p>
-</td>
-<td width="90">
-<p align="center">Établissement de ravitaillement du service de santé</p>
-</td>
-<td width="75">
-<p align="center">51</p>
-</td>
-<td width="100">
-<p align="center">Marolles</p>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<p align="center">X</p>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-</tr>
-<tr>
-<td width="90">
-<p align="center">SSA</p>
-</td>
-<td width="90">
-<p align="center">Hôpital d'instruction des armées</p>
-</td>
-<td width="75">
-<p align="center">57</p>
-</td>
-<td width="100">
-<p align="center">Metz</p>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<p align="center">X</p>
+<p align="center">X </p>
 </td>
 <td width="25">
 <br/>
@@ -28610,16 +28292,16 @@ Formations, unités, services et établissements faisant l'objet d'une réorgani
 </tr>
 <tr>
 <td width="90">
-<p align="center">SSA</p>
+<p align="center">SSA </p>
 </td>
 <td width="90">
-<p align="center">Direction régionale du service de santé des armées</p>
+<p align="center">Direction régionale du service de santé des armées </p>
 </td>
 <td width="75">
-<p align="center">57</p>
+<p align="center">29 </p>
 </td>
 <td width="100">
-<p align="center">Metz</p>
+<p align="center">Brest </p>
 </td>
 <td width="25">
 <br/>
@@ -28631,10 +28313,10 @@ Formations, unités, services et établissements faisant l'objet d'une réorgani
 <br/>
 </td>
 <td width="25">
-<p align="center">X</p>
+<p align="center">X </p>
 </td>
 <td width="25">
-<p align="center">X</p>
+<p align="center">X </p>
 </td>
 <td width="25">
 <br/>
@@ -28663,16 +28345,16 @@ Formations, unités, services et établissements faisant l'objet d'une réorgani
 </tr>
 <tr>
 <td width="90">
-<p align="center">SSA</p>
+<p align="center">SSA </p>
 </td>
 <td width="90">
-<p align="center">Hôpital d'instruction des armées</p>
+<p align="center">Hôpital d'instruction des armées </p>
 </td>
 <td width="75">
-<p align="center">69</p>
+<p align="center">33 </p>
 </td>
 <td width="100">
-<p align="center">Lyon</p>
+<p align="center">Bordeaux </p>
 </td>
 <td width="25">
 <br/>
@@ -28684,113 +28366,7 @@ Formations, unités, services et établissements faisant l'objet d'une réorgani
 <br/>
 </td>
 <td width="25">
-<p align="center">X</p>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-</tr>
-<tr>
-<td width="90">
-<p align="center">SSA</p>
-</td>
-<td width="90">
-<p align="center">Direction régionale du service de santé des armées</p>
-</td>
-<td width="75">
-<p align="center">69</p>
-</td>
-<td width="100">
-<p align="center">Lyon</p>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<p align="center">X</p>
-</td>
-<td width="25">
-<p align="center">X</p>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-</tr>
-<tr>
-<td width="90">
-<p align="center">SSA</p>
-</td>
-<td width="90">
-<p align="center">Hôpital d'instruction des armées</p>
-</td>
-<td width="75">
-<p align="center">75</p>
-</td>
-<td width="100">
-<p align="center">Paris</p>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<p align="center">X</p>
+<p align="center">X </p>
 </td>
 <td width="25">
 <br/>
@@ -28822,16 +28398,16 @@ Formations, unités, services et établissements faisant l'objet d'une réorgani
 </tr>
 <tr>
 <td width="90">
-<p align="center">SSA</p>
+<p align="center">SSA </p>
 </td>
 <td width="90">
-<p align="center">Direction centrale du service de santé des armées</p>
+<p align="center">Direction régionale du service de santé des armées </p>
 </td>
 <td width="75">
-<p align="center">75</p>
+<p align="center">33 </p>
 </td>
 <td width="100">
-<p align="center">Paris</p>
+<p align="center">Bordeaux </p>
 </td>
 <td width="25">
 <br/>
@@ -28843,10 +28419,10 @@ Formations, unités, services et établissements faisant l'objet d'une réorgani
 <br/>
 </td>
 <td width="25">
-<br/>
+<p align="center">X </p>
 </td>
 <td width="25">
-<p align="center">X</p>
+<p align="center">X </p>
 </td>
 <td width="25">
 <br/>
@@ -28875,16 +28451,16 @@ Formations, unités, services et établissements faisant l'objet d'une réorgani
 </tr>
 <tr>
 <td width="90">
-<p align="center">SSA</p>
+<p align="center">SSA </p>
 </td>
 <td width="90">
-<p align="center">Direction régionale du service de santé des armées</p>
+<p align="center">Centre de recherche du service de santé des armées </p>
 </td>
 <td width="75">
-<p align="center">78</p>
+<p align="center">38 </p>
 </td>
 <td width="100">
-<p align="center">Saint-Germain-en- Laye</p>
+<p align="center">La Tronche </p>
 </td>
 <td width="25">
 <br/>
@@ -28896,10 +28472,10 @@ Formations, unités, services et établissements faisant l'objet d'une réorgani
 <br/>
 </td>
 <td width="25">
-<p align="center">X</p>
+<p align="center">X </p>
 </td>
 <td width="25">
-<p align="center">X</p>
+<p align="center">X </p>
 </td>
 <td width="25">
 <br/>
@@ -28928,28 +28504,16 @@ Formations, unités, services et établissements faisant l'objet d'une réorgani
 </tr>
 <tr>
 <td width="90">
-<p align="center">SSA</p>
+<p align="center">SSA </p>
 </td>
 <td width="90">
-<p align="center">Hôpital d'instruction des armées</p>
+<p align="center">Établissement de ravitaillement du service de santé </p>
 </td>
 <td width="75">
-<p align="center">83</p>
+<p align="center">51 </p>
 </td>
 <td width="100">
-<p align="center">Toulon</p>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<p align="center">X</p>
+<p align="center">Marolles </p>
 </td>
 <td width="25">
 <br/>
@@ -28965,6 +28529,18 @@ Formations, unités, services et établissements faisant l'objet d'une réorgani
 </td>
 <td width="25">
 <br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<p align="center">X </p>
 </td>
 <td width="25">
 <br/>
@@ -28981,16 +28557,16 @@ Formations, unités, services et établissements faisant l'objet d'une réorgani
 </tr>
 <tr>
 <td width="90">
-<p align="center">SSA</p>
+<p align="center">SSA </p>
 </td>
 <td width="90">
-<p align="center">Institut de médecine navale du service de santé des armées</p>
+<p align="center">Hôpital d'instruction des armées </p>
 </td>
 <td width="75">
-<p align="center">83</p>
+<p align="center">57 </p>
 </td>
 <td width="100">
-<p align="center">Toulon</p>
+<p align="center">Metz </p>
 </td>
 <td width="25">
 <br/>
@@ -29002,219 +28578,7 @@ Formations, unités, services et établissements faisant l'objet d'une réorgani
 <br/>
 </td>
 <td width="25">
-<p align="center">X</p>
-</td>
-<td width="25">
-<p align="center">X</p>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-</tr>
-<tr>
-<td width="90">
-<p align="center">SSA</p>
-</td>
-<td width="90">
-<p align="center">École du personnel paramédical des armées</p>
-</td>
-<td width="75">
-<p align="center">83</p>
-</td>
-<td width="100">
-<p align="center">Toulon</p>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<p align="center">X</p>
-</td>
-<td width="25">
-<p align="center">X</p>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-</tr>
-<tr>
-<td width="90">
-<p align="center">SSA</p>
-</td>
-<td width="90">
-<p align="center">Direction régionale du service de santé des armées</p>
-</td>
-<td width="75">
-<p align="center">83</p>
-</td>
-<td width="100">
-<p align="center">Toulon</p>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<p align="center">X</p>
-</td>
-<td width="25">
-<p align="center">X</p>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-</tr>
-<tr>
-<td width="90">
-<p align="center">SSA</p>
-</td>
-<td width="90">
-<p align="center">Institut de médecine aérospatiale du service de santé des armées</p>
-</td>
-<td width="75">
-<p align="center">91</p>
-</td>
-<td width="100">
-<p align="center">Brétigny-sur-Orge</p>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<p align="center">X</p>
-</td>
-<td width="25">
-<p align="center">X</p>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-</tr>
-<tr>
-<td width="90">
-<p align="center">SSA</p>
-</td>
-<td width="90">
-<p align="center">Hôpital d'instruction des armées</p>
-</td>
-<td width="75">
-<p align="center">92</p>
-</td>
-<td width="100">
-<p align="center">Clamart</p>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<p align="center">X</p>
+<p align="center">X </p>
 </td>
 <td width="25">
 <br/>
@@ -29246,16 +28610,16 @@ Formations, unités, services et établissements faisant l'objet d'une réorgani
 </tr>
 <tr>
 <td width="90">
-<p align="center">SSA</p>
+<p align="center">SSA </p>
 </td>
 <td width="90">
-<p align="center">Service de protection radiologique des armées</p>
+<p align="center">Direction régionale du service de santé des armées </p>
 </td>
 <td width="75">
-<p align="center">92</p>
+<p align="center">57 </p>
 </td>
 <td width="100">
-<p align="center">Clamart</p>
+<p align="center">Metz </p>
 </td>
 <td width="25">
 <br/>
@@ -29267,10 +28631,10 @@ Formations, unités, services et établissements faisant l'objet d'une réorgani
 <br/>
 </td>
 <td width="25">
-<p align="center">X</p>
+<p align="center">X </p>
 </td>
 <td width="25">
-<p align="center">X</p>
+<p align="center">X </p>
 </td>
 <td width="25">
 <br/>
@@ -29299,16 +28663,16 @@ Formations, unités, services et établissements faisant l'objet d'une réorgani
 </tr>
 <tr>
 <td width="90">
-<p align="center">SSA</p>
+<p align="center">SSA </p>
 </td>
 <td width="90">
-<p align="center">Centre de transfusion sanguine des armées</p>
+<p align="center">Hôpital d'instruction des armées </p>
 </td>
 <td width="75">
-<p align="center">92</p>
+<p align="center">69 </p>
 </td>
 <td width="100">
-<p align="center">Clamart</p>
+<p align="center">Lyon </p>
 </td>
 <td width="25">
 <br/>
@@ -29320,60 +28684,7 @@ Formations, unités, services et établissements faisant l'objet d'une réorgani
 <br/>
 </td>
 <td width="25">
-<p align="center">X</p>
-</td>
-<td width="25">
-<p align="center">X</p>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-</tr>
-<tr>
-<td width="90">
-<p align="center">SSA</p>
-</td>
-<td width="90">
-<p align="center">Hôpital d'instruction des armées</p>
-</td>
-<td width="75">
-<p align="center">94</p>
-</td>
-<td width="100">
-<p align="center">Saint-Mandé</p>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<br/>
-</td>
-<td width="25">
-<p align="center">X</p>
+<p align="center">X </p>
 </td>
 <td width="25">
 <br/>
@@ -29405,16 +28716,16 @@ Formations, unités, services et établissements faisant l'objet d'une réorgani
 </tr>
 <tr>
 <td width="90">
-<p align="center">SSA</p>
+<p align="center">SSA </p>
 </td>
 <td width="90">
-<p align="center">Centre de traitement de l'information médicale des armées</p>
+<p align="center">Direction régionale du service de santé des armées </p>
 </td>
 <td width="75">
-<p align="center">94</p>
+<p align="center">69 </p>
 </td>
 <td width="100">
-<p align="center">Saint-Mandé</p>
+<p align="center">Lyon </p>
 </td>
 <td width="25">
 <br/>
@@ -29426,10 +28737,699 @@ Formations, unités, services et établissements faisant l'objet d'une réorgani
 <br/>
 </td>
 <td width="25">
-<p align="center">X</p>
+<p align="center">X </p>
 </td>
 <td width="25">
-<p align="center">X</p>
+<p align="center">X </p>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+</tr>
+<tr>
+<td width="90">
+<p align="center">SSA </p>
+</td>
+<td width="90">
+<p align="center">Hôpital d'instruction des armées </p>
+</td>
+<td width="75">
+<p align="center">75 </p>
+</td>
+<td width="100">
+<p align="center">Paris </p>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<p align="center">X </p>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+</tr>
+<tr>
+<td width="90">
+<p align="center">SSA </p>
+</td>
+<td width="90">
+<p align="center">Direction centrale du service de santé des armées </p>
+</td>
+<td width="75">
+<p align="center">75 </p>
+</td>
+<td width="100">
+<p align="center">Paris </p>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<p align="center">X </p>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+</tr>
+<tr>
+<td width="90">
+<p align="center">SSA </p>
+</td>
+<td width="90">
+<p align="center">Direction régionale du service de santé des armées </p>
+</td>
+<td width="75">
+<p align="center">78 </p>
+</td>
+<td width="100">
+<p align="center">Saint-Germain-en-Laye </p>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<p align="center">X </p>
+</td>
+<td width="25">
+<p align="center">X </p>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+</tr>
+<tr>
+<td width="90">
+<p align="center">SSA </p>
+</td>
+<td width="90">
+<p align="center">Hôpital d'instruction des armées </p>
+</td>
+<td width="75">
+<p align="center">83 </p>
+</td>
+<td width="100">
+<p align="center">Toulon </p>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<p align="center">X </p>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+</tr>
+<tr>
+<td width="90">
+<p align="center">SSA </p>
+</td>
+<td width="90">
+<p align="center">Institut de médecine navale du service de santé des armées </p>
+</td>
+<td width="75">
+<p align="center">83 </p>
+</td>
+<td width="100">
+<p align="center">Toulon </p>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<p align="center">X </p>
+</td>
+<td width="25">
+<p align="center">X </p>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+</tr>
+<tr>
+<td width="90">
+<p align="center">SSA </p>
+</td>
+<td width="90">
+<p align="center">École du personnel paramédical des armées </p>
+</td>
+<td width="75">
+<p align="center">83 </p>
+</td>
+<td width="100">
+<p align="center">Toulon </p>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<p align="center">X </p>
+</td>
+<td width="25">
+<p align="center">X </p>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+</tr>
+<tr>
+<td width="90">
+<p align="center">SSA </p>
+</td>
+<td width="90">
+<p align="center">Direction régionale du service de santé des armées </p>
+</td>
+<td width="75">
+<p align="center">83 </p>
+</td>
+<td width="100">
+<p align="center">Toulon </p>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<p align="center">X </p>
+</td>
+<td width="25">
+<p align="center">X </p>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+</tr>
+<tr>
+<td width="90">
+<p align="center">SSA </p>
+</td>
+<td width="90">
+<p align="center">Institut de médecine aérospatiale du service de santé des armées </p>
+</td>
+<td width="75">
+<p align="center">91 </p>
+</td>
+<td width="100">
+<p align="center">Brétigny-sur-Orge </p>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<p align="center">X </p>
+</td>
+<td width="25">
+<p align="center">X </p>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+</tr>
+<tr>
+<td width="90">
+<p align="center">SSA </p>
+</td>
+<td width="90">
+<p align="center">Hôpital d'instruction des armées </p>
+</td>
+<td width="75">
+<p align="center">92 </p>
+</td>
+<td width="100">
+<p align="center">Clamart </p>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<p align="center">X </p>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+</tr>
+<tr>
+<td width="90">
+<p align="center">SSA </p>
+</td>
+<td width="90">
+<p align="center">Service de protection radiologique des armées </p>
+</td>
+<td width="75">
+<p align="center">92 </p>
+</td>
+<td width="100">
+<p align="center">Clamart </p>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<p align="center">X </p>
+</td>
+<td width="25">
+<p align="center">X </p>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+</tr>
+<tr>
+<td width="90">
+<p align="center">SSA </p>
+</td>
+<td width="90">
+<p align="center">Centre de transfusion sanguine des armées </p>
+</td>
+<td width="75">
+<p align="center">92 </p>
+</td>
+<td width="100">
+<p align="center">Clamart </p>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<p align="center">X </p>
+</td>
+<td width="25">
+<p align="center">X </p>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+</tr>
+<tr>
+<td width="90">
+<p align="center">SSA </p>
+</td>
+<td width="90">
+<p align="center">Hôpital d'instruction des armées </p>
+</td>
+<td width="75">
+<p align="center">94 </p>
+</td>
+<td width="100">
+<p align="center">Saint-Mandé </p>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<p align="center">X </p>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+</tr>
+<tr>
+<td width="90">
+<p align="center">SSA </p>
+</td>
+<td width="90">
+<p align="center">Centre de traitement de l'information médicale des armées </p>
+</td>
+<td width="75">
+<p align="center">94 </p>
+</td>
+<td width="100">
+<p align="center">Saint-Mandé </p>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<br/>
+</td>
+<td width="25">
+<p align="center">X </p>
+</td>
+<td width="25">
+<p align="center">X </p>
 </td>
 <td width="25">
 <br/>
@@ -29459,24 +29459,24 @@ Formations, unités, services et établissements faisant l'objet d'une réorgani
 </tbody>
 </table>
 
-(1)     Unité de management Coelacanthe.
+(1) Unité de management Coelacanthe.
 
-(2)      Direction des systèmes d'armes - unité de management espace, systèmes d'information opérationnels.
+(2) Direction des systèmes d'armes-unité de management espace, systèmes d'information opérationnels.
 
-(3)      Direction des systèmes d'armes - unité de management missiles et drones
+(3) Direction des systèmes d'armes-unité de management missiles et drones
 
-(4)     Direction des systèmes de forces et des stratégies industrielles, technologiques et de coopération - service des recherches et technologies de défense et de sécurité.
+(4) Direction des systèmes de forces et des stratégies industrielles, technologiques et de coopération-service des recherches et technologies de défense et de sécurité.
 
-(5)     Direction des systèmes de forces et des stratégies industrielles, technologiques et de coopération - service d'architecture des systèmes de forces.
+(5) Direction des systèmes de forces et des stratégies industrielles, technologiques et de coopération-service d'architecture des systèmes de forces.
 
-(6)     Direction des systèmes d'armes - unité de management Coelacanthe.
+(6) Direction des systèmes d'armes-unité de management Coelacanthe.
 
-(7)     Direction des systèmes d'armes - unité de management espace, systèmes d'information opérationnels.
+(7) Direction des systèmes d'armes-unité de management espace, systèmes d'information opérationnels.
 
-(8)     Direction des systèmes d'armes - unité de management Rafale.
+(8) Direction des systèmes d'armes-unité de management Rafale.
 
-(9)     Direction des systèmes d'armes - unité de management missiles et drones.
+(9) Direction des systèmes d'armes-unité de management missiles et drones.
 
-(10)  Direction des systèmes d'armes - unité de management Horus.
+(10) Direction des systèmes d'armes-unité de management Horus.
 
-(11)  Direction des systèmes de forces et des stratégies industrielles, technologiques et de coopération - centre d'analyse de défense.
+(11) Direction des systèmes de forces et des stratégies industrielles, technologiques et de coopération-centre d'analyse de défense.

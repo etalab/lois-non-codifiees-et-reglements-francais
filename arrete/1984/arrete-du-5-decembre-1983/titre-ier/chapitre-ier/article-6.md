@@ -4,7 +4,7 @@ Après correction des épreuves écrites de chaque concours, le jury établit la
 
 Toute note inférieure à 6 sur 20 est éliminatoire. Toutefois, lorsqu'un candidat ayant obtenu une telle note totalise néanmoins un nombre de points suffisant, le jury peut, au vu des autres notes d'admissibilité, décider de le maintenir sur la liste.
 
-Le ministre de la défense (commandant de la formation de l'armée de terre) arrête la liste d'admissibilité.
+Le ministre de la défense (         directeur des ressources humaines de l'armée de terre ) arrête la liste d'admissibilité.
 
 Cette liste établie par ordre alphabétique est communiquée aux candidats par les soins du commandant des écoles de l'armée de terre.
 

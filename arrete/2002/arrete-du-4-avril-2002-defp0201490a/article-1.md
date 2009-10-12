@@ -6,4 +6,4 @@ La commission de reconnaissance des équivalences prévue par les articles 7 et 
 
 -du directeur général de l'enseignement et de la recherche des écoles de Coëtquidan ou son représentant, vice-président ;
 
--du conseiller détaché du ministère de l'éducation nationale auprès du commandant de la formation de l'armée de terre ou son représentant.
+-du conseiller détaché du ministère de l'éducation nationale auprès du         directeur des ressources humaines de l'armée de terre  ou son représentant.
