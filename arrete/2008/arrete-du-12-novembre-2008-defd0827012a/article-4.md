@@ -12,4 +12,6 @@ Le service de la gestion du personnel est chargé :
 
 5° De traiter les recours présentés par les militaires de l'armée de terre.
 
-Le service de la gestion du personnel est dirigé par un officier général de l'armée de terre. Ce chef de service dispose d'un adjoint civil, sous-directeur, qui le remplace en cas d'absence ou d'empêchement.
+Le service de la gestion du personnel est dirigé par un officier général de l'armée de terre. Ce chef de service dispose d'un adjoint civil, sous-directeur, qui le remplace en cas d'absence ou d'empêchement ;
+
+6° De traiter les questions relatives à la gestion de la reconversion des militaires, sous réserve des attributions de la direction des ressources humaines du ministère de la défense.

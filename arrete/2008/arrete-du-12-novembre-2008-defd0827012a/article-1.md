@@ -6,7 +6,9 @@ Pour l'exercice des attributions fixées par le décret du 30 octobre 1978 susvi
 
 2° La sous-direction des études et de la politique ;
 
-3° La sous-direction du recrutement et de la reconversion.
+3° La sous-direction du recrutement     ;
+
+4° La sous-direction de la formation et des écoles.
 
 Le directeur des ressources humaines de l'armée de terre dispose en outre d'un bureau chancellerie.
 
