@@ -1,6 +1,6 @@
 # Article 1
 
-Est soumis aux dispositions du présent décret tout commissionnaire établi en France qui, dans les conditions fixées par le code de commerce, organise et fait exécuter, sous sa responsabilité et en son propre nom, un transport de marchandises selon les modes de son choix pour le compte d'un commettant.
+Est soumise aux dispositions du présent décret toute personne établie en France ou souhaitant s'y établir pour, dans les conditions fixées par le code de commerce, organiser et faire exécuter, sous sa responsabilité et en son propre nom, un transport de marchandises selon les modes de son choix pour le compte d'un commettant.
 
 Les activités qui font l'objet du présent décret sont les suivantes :
 

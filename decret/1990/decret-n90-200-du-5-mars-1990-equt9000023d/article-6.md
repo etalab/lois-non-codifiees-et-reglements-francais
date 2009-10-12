@@ -2,17 +2,17 @@
 
 1° Il doit être satisfait à la condition d'honorabilité professionnelle par chacune des personnes suivantes :
 
-- le commerçant chef d'entreprise individuelle ;
+-le commerçant chef d'entreprise individuelle ;
 
-- les associés et les gérants des sociétés en nom collectif ;
+-les associés et les gérants des sociétés en nom collectif ;
 
-- les associés commandités et les gérants des sociétés en commandite ;
+-les associés commandités et les gérants des sociétés en commandite ;
 
-- les gérants des sociétés à responsabilité limitée ;
+-les gérants des sociétés à responsabilité limitée ;
 
-- le président du conseil d'administration, les membres du directoire et des directeurs généraux des sociétés anonymes ;
+-le président du conseil d'administration, les membres du directoire et des directeurs généraux des sociétés anonymes ;
 
-- le président et les dirigeants des sociétés par actions simplifiées.
+-le président et les dirigeants des sociétés par actions simplifiées.
 
 Cette condition doit également être satisfaite par la personne physique qui assure la direction permanente et effective, soit de l'entreprise, soit au sein de celle-ci, de l'une des activités mentionnées à l'article 1er ci-dessus.
 
@@ -24,7 +24,8 @@ Soit d'une condamnation prononcée par une juridiction française et inscrite au
 
 Soit de plus d'une condamnation inscrite au bulletin n° 2 du casier judiciaire pour l'un ou l'autre des délits suivants :
 
-a) Infractions mentionnées aux articles L. 221-2, L. 223-5, L. 224-16 à L. 224-18, L. 231-1, L. 233-1, L. 233-2, L. 234-1, L. 234-8, L. 317-1 à L. 317-4, L. 325-3-1 et L. 412-1 du code de la route ;
+a) Infractions mentionnées aux articles L. 221-2, L. 223-5, L. 224-16 à L. 224-18, L. 231-1, L. 233-1, L. 233-2, L. 234-1, L. 234-8,
+L. 317-1 à L. 317-4, L. 325-3-1 et L. 412-1 du code de la route ;
 
 b) Infractions mentionnées aux articles L. 125-1, L. 125-3, L. 324-9, L. 324-10, L. 341-6 et L. 631-1 du code du travail ;
 
@@ -40,6 +41,6 @@ g) Infractions aux dispositions de l'article 23-1 de la loi n° 95-96 du 1er fé
 
 Le préfet de région est, à sa demande, informé des condamnations mentionnées ci-dessus au moyen du bulletin n° 2 du casier judiciaire.
 
-3° Les personnes résidant en France depuis moins de cinq ans et dont les pays de leurs précédentes résidences appartiennent à l'Union européenne doivent apporter la preuve qu'elles y satisfaisaient à la condition d'honorabilité professionnelle définie par ces pays pour l'accès à la profession de transporteur de marchandises et de transporteur de voyageurs par route.
+3° Les personnes résidant en France depuis moins de cinq ans et dont les pays de leurs précédentes résidences appartiennent à l'Union européenne ou d'un Etat partie à l'accord sur l'Espace économique européen doivent apporter la preuve qu'elles y satisfaisaient à la condition d'honorabilité professionnelle définie par ces pays pour l'accès à la profession de transporteur de marchandises et de transporteur de voyageurs par route.
 
-Les personnes résidant en France depuis moins de cinq ans et dont les pays de leurs précédentes résidences n'appartiennent pas à l'Union européenne ne peuvent exercer en France l'activité de commissionnaire que si elles n'ont pas subi dans ce ou ces pays des condamnations pour des délits semblables à ceux mentionnés au 2° ci-dessus.
+Les personnes résidant en France depuis moins de cinq ans et dont les pays de leurs précédentes résidences n'appartiennent pas à l'Union européenne ou d'un Etat partie à l'accord sur l'Espace économique européen ne peuvent exercer en France l'activité de commissionnaire que si elles n'ont pas subi dans ce ou ces pays des condamnations pour des délits semblables à ceux mentionnés au 2° ci-dessus.

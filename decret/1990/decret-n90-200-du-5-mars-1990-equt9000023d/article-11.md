@@ -1,23 +1,25 @@
 # Article 11
 
-La capacité professionnelle prévue à l'article précédent se prouve selon les modalités suivantes :
+I. - La capacité professionnelle prévue à l'article précédent se prouve pour l'intéressé par le préalable des activités mentionnées à l'article 1er du présent décret selon les modalités suivantes :
 
-1° Pour le non-salarié :
+a) Soit pendant cinq années consécutives à titre indépendant ou en qualité de dirigeant d'entreprise ;
 
-a) Soit par l'exercice effectif des activités mentionnées à l'article 1er du présent décret durant cinq années consécutives ;
+b) Soit pendant deux années consécutives à titre indépendant ou en qualité de dirigeant d'entreprise, lorsque l'intéressé prouve qu'il a reçu, pour cette activité, une formation préalable d'au moins trois ans sanctionnée par un certificat reconnu par l'Etat membre ou jugée pleinement valable par un organisme professionnel compétent ;
 
-b) Soit par l'exercice comme non-salarié desdites activités durant deux années consécutives, lorsque l'intéressé les a en outre exercées en qualité de salarié dans des fonctions de direction ou d'encadrement durant trois années au moins ;
+c) Soit pendant trois années consécutives à titre indépendant ou en qualité de dirigeant d'entreprise, lorsque l'intéressé prouve qu'il a reçu, pour cette activité, une formation préalable d'au moins deux ans sanctionnée par un certificat reconnu par l'Etat membre ou jugée pleinement valable par un organisme professionnel compétent ;
 
-c) Soit, lorsqu'une formation préalable est requise par l'Etat dans lequel les fonctions ont été exercées, par deux années consécutives d'exercice desdites activités comme non-salarié si la formation préalable requise est de trois ans au moins, ou par trois années d'exercice desdites activités comme non-salarié si la formation préalable est de deux ans au moins ;
+d) Soit pendant trois années consécutives à titre indépendant ou en qualité de dirigeant d'entreprise, lorsque l'intéressé prouve qu'il a exercé cette activité à titre salarié pendant deux ans au moins ;
 
-d) Soit par la possession d'un diplôme déclaré équivalent à l'un de ceux qui sont mentionnés à l'article 4 a du présent décret.
+e) Soit pendant deux années consécutives à titre salarié, lorsque l'intéressé prouve qu'il a reçu, pour cette activité, une formation préalable d'au moins trois ans sanctionnée par un certificat reconnu par l'Etat membre ou jugée pleinement valable par un organisme professionnel compétent ;
 
-2° Pour le salarié :
+f) Soit pendant trois années consécutives à titre salarié, lorsque l'intéressé prouve qu'il a reçu, pour cette activité, une formation préalable d'au moins deux ans sanctionnée par un certificat reconnu par l'Etat membre ou jugée pleinement valable par un organisme professionnel compétent.
 
-a) Soit par l'exercice desdites activités dans des fonctions de direction ou d'encadrement pendant trois années consécutives au moins, lorsqu'une formation préalable de deux ans est requise dans l'Etat où les fonctions ont été exercées ;
+Les activités visées aux a et d ne doivent pas avoir pris fin depuis plus de dix ans à la date de présentation du dossier complet de l'intéressé auprès des services de l'Etat compétents en matière de transport dans la région.
 
-b) Soit par l'exercice desdites activités dans des fonctions de direction ou d'encadrement pendant cinq années consécutives au moins, lorsqu'une telle formation n'est pas requise ou organisée ;
+II. - La capacité professionnelle prévue à l'article précédent peut aussi se prouver pour l'intéressé par la possession d'un diplôme ou d'un titre de formation déclaré équivalent à l'un de ceux qui sont mentionnés à l'article 4.
 
-c) Soit par la possession d'un diplôme déclaré équivalent à l'un de ceux qui sont mentionnés à l'article 4 a du présent décret.
+En complément de ce diplôme et de ce titre, il peut être exigé de l'intéressé qu'il accomplisse un stage préparant aux spécificités de la profession de commissionnaire de transport en France.
 
-La formation préalable prévue au présent article doit avoir été sanctionnée par un certificat reconnu par l'Etat membre ou jugée pleinement valable par un organisme professionnel compétent de cet Etat.
+III. - Les bénéficiaires de la reconnaissance de la capacité professionnelle doivent avoir les connaissances linguistiques en français nécessaires à l'exercice de l'activité de commissionnaire en France.
+
+IV. - Un arrêté du ministre chargé des transports fixe les modalités d'application du présent article.
