@@ -2498,7 +2498,6 @@
 - [Arrêté du 30 juillet 2009 (MENE0918186A)](arrete-du-30-juillet-2009-mene0918186a)
 - [Arrêté du 30 juin 2008 (DEVO0812461A)](arrete-du-30-juin-2008-devo0812461a)
 - [Arrêté du 30 juin 2009 (AGRM0916442A)](arrete-du-30-juin-2009-agrm0916442a)
-- [Arrêté du 30 juin 2009 (AGRT0914916A)](arrete-du-30-juin-2009-agrt0914916a)
 - [Arrêté du 30 juin 2009 (DEVP0911347A)](arrete-du-30-juin-2009-devp0911347a)
 - [Arrêté du 30 juin 2009 (DEVT0914852A)](arrete-du-30-juin-2009-devt0914852a)
 - [Arrêté du 30 juin 2009 (ECED0914999A)](arrete-du-30-juin-2009-eced0914999a)
