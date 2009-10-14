@@ -100,4 +100,10 @@ Jusqu'au 28 février 2014 :
 
 -Fort-de-France-Roseau (la Dominique).
 
+Jusqu'au 30 septembre 2014 :
+
+-Paris-Port-au-Prince (Haïti) ;
+
+-Paris-Saint-Martin Juliana (Antilles néerlandaises).
+
 II.-L'autorisation d'exploiter chacune des liaisons mentionnées au I du présent article peut être suspendue ou retirée dans les conditions prévues à l'article 9 de l'arrêté du 22 janvier 2007 susvisé.

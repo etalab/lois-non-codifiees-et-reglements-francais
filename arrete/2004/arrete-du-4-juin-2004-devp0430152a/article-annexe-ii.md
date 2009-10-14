@@ -1,6 +1,6 @@
 # Article Annexe II
 
-ARRÊTÉ RELATIF AUX PRESCRIPTIONS GÉNÉRALES APPLICABLES AUX INSTALLATIONS CLASSÉES POUR LA PROTECTION DE L'ENVIRONNEMENT SOUMISES À DÉCLARATION SOUS LA RUBRIQUE N° 2930
+**ARRÊTÉ RELATIF AUX PRESCRIPTIONS GÉNÉRALES APPLICABLES AUX INSTALLATIONS CLASSÉES POUR LA PROTECTION DE L'ENVIRONNEMENT SOUMISES À DÉCLARATION SOUS LA RUBRIQUE N° 2930**
 
 Dispositions applicables aux installations existantes
 
@@ -18,6 +18,9 @@ Les dispositions ci-après sont applicables aux installations existantes selon l
 <td>
 <p align="center">01/01/2007</p>
 </td>
+<td>
+<p align="center">01/11/2009 </p>
+</td>
 </tr>
 <tr>
 <td>
@@ -28,6 +31,9 @@ Les dispositions ci-après sont applicables aux installations existantes selon l
 </td>
 <td>
 <p align="center">6.2.b).2.).II (<sup>5</sup>). Air-odeur : valeurs limites et conditions de rejets</p>
+</td>
+<td>
+<p align="center">1.8. Contrôles périodiques </p>
 </td>
 </tr>
 <tr>
@@ -40,6 +46,7 @@ Les dispositions ci-après sont applicables aux installations existantes selon l
 <td>
 <br/>
 </td>
+<td/>
 </tr>
 </tbody>
 </table>
