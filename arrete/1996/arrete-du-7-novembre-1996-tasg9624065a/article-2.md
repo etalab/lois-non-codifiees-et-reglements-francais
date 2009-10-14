@@ -1,5 +1,7 @@
 # Article 2
 
+Le comité d'hygiène et de sécurité ministériel assiste le comité technique paritaire ministériel. Il examine les questions relatives à l'hygiène et à la sécurité qui concernent l'ensemble des services du ministère.
+
 Le comité d'hygiène et de sécurité de l'administration centrale     assiste le comité technique paritaire central. Il examine les questions     relatives à l'hygiène et à la sécurité qui concernent les directions et des     services de l'administration centrale.
 
 Les comités d'hygiène et de sécurité régionaux et interdépartementaux     assistent les comités techniques paritaires régionaux et interdépartementaux.     Ils examinent les questions relatives à l'hygiène et à la sécurité qui     concernent les sites entrant dans le champ de compétence territorial de     l'échelon régional et interdépartemental considéré.
