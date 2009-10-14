@@ -1,77 +1,95 @@
 # Article 2
 
-<div>
-<br/>En application de l'article 1er du décret du 30 janvier 2004 susvisé et pour les huit premiers mois de l'année 2009, la dotation de continuité territoriale est répartie entre les collectivités concernées ainsi qu'il suit :<div align="center">
+En application de l'article 1er du décret du 30 janvier 2004 susvisé, la dotation de continuité territoriale est répartie entre les collectivités concernées ainsi qu'il suit pour l'année 2009 :
 
 <table>
+<tbody>
 <tr>
 <td align="center">
-<br/>Guadeloupe</td>
+<br/>Guadeloupe <br/>
+</td>
 <td align="center">
-<br/>4 321 358 €</td>
+<br/>6 482 037 € <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Martinique</td>
+<br/>Martinique <br/>
+</td>
 <td align="center">
-<br/>3 633 822 €</td>
+<br/>5 450 733 € <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Guyane</td>
+<br/>Guyane <br/>
+</td>
 <td align="center">
-<br/>1 249 557 €</td>
+<br/>1 874 335 € <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>La Réunion</td>
+<br/>Réunion <br/>
+</td>
 <td align="center">
-<br/>5 668 761 €</td>
+<br/>8 503 142 € <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Saint-Pierre-et-Miquelon</td>
+<br/>Saint-Pierre-et-Miquelon <br/>
+</td>
 <td align="center">
-<br/>87 421 €</td>
+<br/>131 131 € <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Mayotte</td>
+<br/>Mayotte <br/>
+</td>
 <td align="center">
-<br/>1 276 447 €</td>
+<br/>1 914 671 € <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Polynésie française</td>
+<br/>Polynésie française <br/>
+</td>
 <td align="center">
-<br/>3 031 697 €</td>
+<br/>4 547 545 € <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Nouvelle-Calédonie</td>
+<br/>Nouvelle-Calédonie <br/>
+</td>
 <td align="center">
-<br/>2 731 860 €</td>
+<br/>4 097 790 € <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Wallis-et-Futuna</td>
+<br/>Wallis-et-Futuna <br/>
+</td>
 <td align="center">
-<br/>193 895 €</td>
+<br/>290 842 € <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Saint-Barthélemy</td>
+<br/>Saint-Barthélemy <br/>
+</td>
 <td align="center">
-<br/>87 336 €</td>
+<br/>131 004 € <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Saint-Martin</td>
+<br/>Saint-Martin <br/>
+</td>
 <td align="center">
-<br/>358 620 €</td>
+<br/>537 930 €</td>
 </tr>
+</tbody>
 </table>
-
-</div>
-<br/>
-</div>
