@@ -2118,6 +2118,590 @@ A compter de la saison aéronautique d'été 2008 :
 
 .
 
+A compter de la saison aéronautique d'été 2010 :
+
+<table>
+<tbody>
+<tr>
+<td width="115">
+<p align="center">HEURES LOCALES</p>
+</td>
+<td width="89">
+<p align="center">ARRIVÉES<br/>par 10 minutes</p>
+</td>
+<td width="95">
+<p align="center">ARRIVÉES<br/>par heure</p>
+</td>
+<td width="91">
+<p align="center">DÉPARTS<br/>par 10 minutes</p>
+</td>
+<td width="89">
+<p align="center">DÉPARTS<br/>par heure</p>
+</td>
+<td width="89">
+<p align="center">TOTAL<br/>arrivées+ départs<br/>par heure</p>
+</td>
+<td width="113">
+<p align="center">HEURES LOCALES</p>
+</td>
+</tr>
+<tr>
+<td valign="bottom" width="115">
+<p align="center">0 h à 0 h 59</p>
+</td>
+<td valign="bottom" width="89">
+<p align="center">7</p>
+</td>
+<td valign="bottom" width="95">
+<p align="center">30</p>
+</td>
+<td valign="bottom" width="91">
+<p align="center">7</p>
+</td>
+<td valign="bottom" width="89">
+<p align="center">25</p>
+</td>
+<td valign="bottom" width="89">
+<p align="center">40</p>
+</td>
+<td valign="bottom" width="113">
+<p align="center">0 h à 0 h 59</p>
+</td>
+</tr>
+<tr>
+<td width="115">
+<p align="center">1 h à 1 h 59</p>
+</td>
+<td width="89">
+<p align="center">7</p>
+</td>
+<td width="95">
+<p align="center">20</p>
+</td>
+<td width="91">
+<p align="center">7</p>
+</td>
+<td width="89">
+<p align="center">25</p>
+</td>
+<td width="89">
+<p align="center">40</p>
+</td>
+<td width="113">
+<p align="center">1 h à 1 h 59</p>
+</td>
+</tr>
+<tr>
+<td width="115">
+<p align="center">2 h à 2 h 59</p>
+</td>
+<td width="89">
+<p align="center">7</p>
+</td>
+<td width="95">
+<p align="center">20</p>
+</td>
+<td width="91">
+<p align="center">7</p>
+</td>
+<td width="89">
+<p align="center">20</p>
+</td>
+<td width="89">
+<p align="center">32</p>
+</td>
+<td width="113">
+<p align="center">2 h à 2 h 59</p>
+</td>
+</tr>
+<tr>
+<td width="115">
+<p align="center">3 h à 3 h 59</p>
+</td>
+<td width="89">
+<p align="center">7</p>
+</td>
+<td width="95">
+<p align="center">20</p>
+</td>
+<td width="91">
+<p align="center">7</p>
+</td>
+<td width="89">
+<p align="center">20</p>
+</td>
+<td width="89">
+<p align="center">32</p>
+</td>
+<td width="113">
+<p align="center">3 h à 3 h 59</p>
+</td>
+</tr>
+<tr>
+<td width="115">
+<p align="center">4 h à 4 h 59</p>
+</td>
+<td width="89">
+<p align="center">7</p>
+</td>
+<td width="95">
+<p align="center">20</p>
+</td>
+<td width="91">
+<p align="center">7</p>
+</td>
+<td width="89">
+<p align="center">20</p>
+</td>
+<td width="89">
+<p align="center">32</p>
+</td>
+<td width="113">
+<p align="center">4 h à 4 h 59</p>
+</td>
+</tr>
+<tr>
+<td width="115">
+<p align="center">5 h à 5 h 59</p>
+</td>
+<td width="89">
+<p align="center">7</p>
+</td>
+<td width="95">
+<p align="center">30</p>
+</td>
+<td width="91">
+<p align="center">7</p>
+</td>
+<td width="89">
+<p align="center">25</p>
+</td>
+<td width="89">
+<p align="center">40</p>
+</td>
+<td width="113">
+<p align="center">5 h à 5 h 59</p>
+</td>
+</tr>
+<tr>
+<td width="115">
+<p align="center">6 h à 6 h 59</p>
+</td>
+<td width="89">
+<p align="center">9</p>
+</td>
+<td width="95">
+<p align="center">41</p>
+</td>
+<td width="91">
+<p align="center">7</p>
+</td>
+<td width="89">
+<p align="center">38</p>
+</td>
+<td width="89">
+<p align="center">67</p>
+</td>
+<td width="113">
+<p align="center">6 h à 6 h 59</p>
+</td>
+</tr>
+<tr>
+<td width="115">
+<p align="center">7 h à 7 h 59</p>
+</td>
+<td width="89">
+<p align="center">11</p>
+</td>
+<td width="95">
+<p align="center">48</p>
+</td>
+<td width="91">
+<p align="center">12</p>
+</td>
+<td width="89">
+<p align="center">65</p>
+</td>
+<td width="89">
+<p align="center">103</p>
+</td>
+<td width="113">
+<p align="center">7 h à 7 h 59</p>
+</td>
+</tr>
+<tr>
+<td width="115">
+<p align="center">8 h à 8 h 59</p>
+</td>
+<td width="89">
+<p align="center">12</p>
+</td>
+<td width="95">
+<p align="center">62</p>
+</td>
+<td width="91">
+<p align="center">11,5</p>
+</td>
+<td width="89">
+<p align="center">62</p>
+</td>
+<td width="89">
+<p align="center">106</p>
+</td>
+<td width="113">
+<p align="center">8 h à 8 h 59</p>
+</td>
+</tr>
+<tr>
+<td width="115">
+<p align="center">9 h à 9 h 59</p>
+</td>
+<td width="89">
+<p align="center">11,5</p>
+</td>
+<td width="95">
+<p align="center">62</p>
+</td>
+<td width="91">
+<p align="center">12</p>
+</td>
+<td width="89">
+<p align="center">62</p>
+</td>
+<td width="89">
+<p align="center">114</p>
+</td>
+<td width="113">
+<p align="center">9 h à 9 h 59</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="115">
+<p align="center">10 h à 10 h 59</p>
+</td>
+<td valign="top" width="89">
+<p align="center">11,5</p>
+</td>
+<td valign="top" width="95">
+<p align="center">60</p>
+</td>
+<td valign="top" width="91">
+<p align="center">12</p>
+</td>
+<td valign="top" width="89">
+<p align="center">66</p>
+</td>
+<td valign="top" width="89">
+<p align="center">111</p>
+</td>
+<td valign="top" width="113">
+<p align="center">10 h à 10 h 59</p>
+</td>
+</tr>
+<tr>
+<td valign="bottom" width="115">
+<p align="center">11 h à 11 h 59</p>
+</td>
+<td valign="bottom" width="89">
+<p align="center">11,5</p>
+</td>
+<td valign="bottom" width="95">
+<p align="center">60</p>
+</td>
+<td valign="bottom" width="91">
+<p align="center">11,5</p>
+</td>
+<td valign="bottom" width="89">
+<p align="center">63</p>
+</td>
+<td valign="bottom" width="89">
+<p align="center">111</p>
+</td>
+<td valign="bottom" width="113">
+<p align="center">11 h à 11 h 59</p>
+</td>
+</tr>
+<tr>
+<td width="115">
+<p align="center">12 h à 12 h 59</p>
+</td>
+<td width="89">
+<p align="center">11,5</p>
+</td>
+<td width="95">
+<p align="center">54</p>
+</td>
+<td width="91">
+<p align="center">12</p>
+</td>
+<td width="89">
+<p align="center">63</p>
+</td>
+<td width="89">
+<p align="center">107</p>
+</td>
+<td width="113">
+<p align="center">12 h à 12 h 59</p>
+</td>
+</tr>
+<tr>
+<td width="115">
+<p align="center">13 h à 13 h 59</p>
+</td>
+<td width="89">
+<p align="center">11,5</p>
+</td>
+<td width="95">
+<p align="center">54</p>
+</td>
+<td width="91">
+<p align="center">12</p>
+</td>
+<td width="89">
+<p align="center">66</p>
+</td>
+<td width="89">
+<p align="center">105</p>
+</td>
+<td width="113">
+<p align="center">13 h à 13 h 59</p>
+</td>
+</tr>
+<tr>
+<td width="115">
+<p align="center">14 h à 14 h 59</p>
+</td>
+<td width="89">
+<p align="center">12</p>
+</td>
+<td width="95">
+<p align="center">57</p>
+</td>
+<td width="91">
+<p align="center">11,5</p>
+</td>
+<td width="89">
+<p align="center">63</p>
+</td>
+<td width="89">
+<p align="center">105</p>
+</td>
+<td width="113">
+<p align="center">14 h à 14 h 59</p>
+</td>
+</tr>
+<tr>
+<td width="115">
+<p align="center">15 h à 15 h 59</p>
+</td>
+<td width="89">
+<p align="center">11,5</p>
+</td>
+<td width="95">
+<p align="center">56</p>
+</td>
+<td width="91">
+<p align="center">12</p>
+</td>
+<td width="89">
+<p align="center">65</p>
+</td>
+<td width="89">
+<p align="center">107</p>
+</td>
+<td width="113">
+<p align="center">15 h à 15 h 59</p>
+</td>
+</tr>
+<tr>
+<td width="115">
+<p align="center">16 h à 16 h 59</p>
+</td>
+<td width="89">
+<p align="center">11</p>
+</td>
+<td width="95">
+<p align="center">56</p>
+</td>
+<td width="91">
+<p align="center">12</p>
+</td>
+<td width="89">
+<p align="center">65</p>
+</td>
+<td width="89">
+<p align="center">107</p>
+</td>
+<td width="113">
+<p align="center">16 h à 16 h 59</p>
+</td>
+</tr>
+<tr>
+<td width="115">
+<p align="center">17 h à 17 h 59</p>
+</td>
+<td width="89">
+<p align="center">12</p>
+</td>
+<td width="95">
+<p align="center">61</p>
+</td>
+<td width="91">
+<p align="center">11,5</p>
+</td>
+<td width="89">
+<p align="center">63</p>
+</td>
+<td width="89">
+<p align="center">107</p>
+</td>
+<td width="113">
+<p align="center">17 h à 17 h 59</p>
+</td>
+</tr>
+<tr>
+<td width="115">
+<p align="center">18 h à 18 h 59</p>
+</td>
+<td width="89">
+<p align="center">12</p>
+</td>
+<td width="95">
+<p align="center">60</p>
+</td>
+<td width="91">
+<p align="center">12</p>
+</td>
+<td width="89">
+<p align="center">62</p>
+</td>
+<td width="89">
+<p align="center">109</p>
+</td>
+<td width="113">
+<p align="center">18 h à 18 h 59</p>
+</td>
+</tr>
+<tr>
+<td width="115">
+<p align="center">19 h à 19 h 59</p>
+</td>
+<td width="89">
+<p align="center">11,5</p>
+</td>
+<td width="95">
+<p align="center">59</p>
+</td>
+<td width="91">
+<p align="center">11,5</p>
+</td>
+<td width="89">
+<p align="center">62</p>
+</td>
+<td width="89">
+<p align="center">109</p>
+</td>
+<td width="113">
+<p align="center">19 h à 19 h 59</p>
+</td>
+</tr>
+<tr>
+<td width="115">
+<p align="center">20 h à 20 h 59</p>
+</td>
+<td width="89">
+<p align="center">11,5</p>
+</td>
+<td width="95">
+<p align="center">56</p>
+</td>
+<td width="91">
+<p align="center">11,5</p>
+</td>
+<td width="89">
+<p align="center">64</p>
+</td>
+<td width="89">
+<p align="center">107</p>
+</td>
+<td width="113">
+<p align="center">20 h à 20 h 59</p>
+</td>
+</tr>
+<tr>
+<td width="115">
+<p align="center">21 h à 21 h 59</p>
+</td>
+<td width="89">
+<p align="center">11,5</p>
+</td>
+<td width="95">
+<p align="center">53</p>
+</td>
+<td width="91">
+<p align="center">11,5</p>
+</td>
+<td width="89">
+<p align="center">53</p>
+</td>
+<td width="89">
+<p align="center">97</p>
+</td>
+<td width="113">
+<p align="center">21 h à 21 h 59</p>
+</td>
+</tr>
+<tr>
+<td width="115">
+<p align="center">22 h à 22 h 59</p>
+</td>
+<td width="89">
+<p align="center">9,5 *</p>
+</td>
+<td width="95">
+<p align="center">43</p>
+</td>
+<td width="91">
+<p align="center">10</p>
+</td>
+<td width="89">
+<p align="center">41</p>
+</td>
+<td width="89">
+<p align="center">78</p>
+</td>
+<td width="113">
+<p align="center">22 h à 22 h 59</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="115">
+<p align="center">23 h à 23 h 59</p>
+</td>
+<td width="89">
+<p align="center">8</p>
+</td>
+<td valign="top" width="95">
+<p align="center">40</p>
+</td>
+<td valign="top" width="91">
+<p align="center">10</p>
+</td>
+<td width="89">
+<p align="center">30</p>
+</td>
+<td valign="top" width="89">
+<p align="center">62</p>
+</td>
+<td valign="top" width="113">
+<p align="center">23 h à 23 h 59</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+* Le nombre 9,5 signifie que, au cours de la tranche horaire correspondante, au plus 10 mouvements peuvent être acceptés pendant les trois premières périodes de 10 minutes et 9 mouvements pendant les trois périodes de 10 minutes suivantes, sous réserve du respect de la contrainte horaire correspondante.
+
 2. Capacité des terminaux
 
 A compter de la saison aéronautique d'été 2008 :
@@ -2211,7 +2795,6 @@ A compter de la saison aéronautique d'été 2008 :
 
 À COMPTER DE LA SAISON AÉRONAUTIQUE D'HIVER 2009-2010
 
-<div>
 <table>
 <tbody>
 <tr>
@@ -2288,10 +2871,10 @@ A compter de la saison aéronautique d'été 2008 :
 </tr>
 <tr>
 <td>
-<p align="center"> 2 G</p>
+<p align="center">2 G</p>
 </td>
 <td>
-<p align="center"> 500</p>
+<p align="center">500</p>
 </td>
 </tr>
 <tr>
@@ -2304,5 +2887,3 @@ A compter de la saison aéronautique d'été 2008 :
 </tr>
 </tbody>
 </table>
-
-</div>
