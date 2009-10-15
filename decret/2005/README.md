@@ -112,6 +112,7 @@
 - [Décret n°2005-1225 du 29 septembre 2005 (EQUS0501456D)](decret-n2005-1225-du-29-septembre-2005-equs0501456d)
 - [Décret n°2005-1228 du 29 septembre 2005 (FPPA0500091D)](decret-n2005-1228-du-29-septembre-2005-fppa0500091d)
 - [Décret n°2005-1229 du 29 septembre 2005 (FPPA0500089D)](decret-n2005-1229-du-29-septembre-2005-fppa0500089d)
+- [Décret n°2005-1243 du 29 septembre 2005 (PRMX0508756D)](decret-n2005-1243-du-29-septembre-2005-prmx0508756d)
 - [Décret n°2005-1476 du 29 novembre 2005 (AGRE0502232D)](decret-n2005-1476-du-29-novembre-2005-agre0502232d)
 - [Décret n°2005-1731 du 29 décembre 2005 (SOCF0512374D)](decret-n2005-1731-du-29-decembre-2005-socf0512374d)
 - [Décret n°2005-1734 du 29 décembre 2005 (BUDF0500052D)](decret-n2005-1734-du-29-decembre-2005-budf0500052d)
