@@ -1,3 +1,3 @@
 # Article 30
 
-En dehors de l'exercice des missions prévues à l'article 2 de la loi n° 96-369 du 3 mai 1996 précitée et à l'article 24 du décret du 26 décembre 1997 précité et des manifestations officielles, le port des tenues, insignes et attributs des sapeurs-pompiers est prohibé.
+En dehors de l'exercice des missions prévues aux articles L. 1424-2, L. 1424-42 et R. 1424-24 du code général des collectivités territoriales et des manifestations officielles, le port des tenues, insignes et attributs des sapeurs-pompiers est prohibé.

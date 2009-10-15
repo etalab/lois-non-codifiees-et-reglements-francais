@@ -1,6 +1,8 @@
 # Article 51
 
-Les sapeurs-pompiers volontaires qui ont, de manière constante, fait preuve de zèle et de dévouement et qui ont accompli au moins vingt ans d'activité en qualité de sapeur-pompier volontaire peuvent être nommés sapeur-pompier volontaire honoraire dans leur grade ou dans le grade immédiatement supérieur s'ils ont accompli au moins cinq ans de service dans leur dernier grade.
+Tout sapeur-pompier volontaire qui a accompli au moins vingt ans d'activité en cette qualité est nommé sapeur-pompier volontaire honoraire dans le grade immédiatement supérieur à celui qu'il détient au moment de sa cessation définitive d'activité.
+
+Par une décision motivée de l'autorité territoriale, l'honorariat peut être accordé dans le grade détenu pour un motif tiré de la qualité des services rendus. Il ne peut être accordé dans le cas d'une résiliation d'office de l'engagement pour motif disciplinaire prononcée dans les conditions prévues à l'article 34.
 
 En outre, les anciens sous-officiers de sapeurs-pompiers volontaires chefs de corps ou chefs de centre d'incendie et de secours peuvent être nommés dans les mêmes conditions lieutenant honoraire de sapeurs-pompiers volontaires.
 

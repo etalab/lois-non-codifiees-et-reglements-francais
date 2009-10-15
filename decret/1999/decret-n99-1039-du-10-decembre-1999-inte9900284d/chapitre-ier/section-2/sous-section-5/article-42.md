@@ -6,4 +6,6 @@ Dans ces situations, l'engagement du sapeur-pompier est suspendu d'office au-del
 
 Pendant la durée de l'arrêt de travail, le sapeur-pompier volontaire ne peut, quelle qu'en soit la cause, participer à l'activité du service.
 
+En cas d'accident survenu ou de maladie contractée en service ou à l'occasion du service, l'engagement du sapeur-pompier volontaire ne peut faire l'objet d'une suspension d'office.
+
 A l'issue d'un arrêt de travail consécutif à un accident survenu ou à une maladie contractée dans le cadre des missions dévolues aux services d'incendie et de secours, et en cas d'inaptitude partielle ou totale, le sapeur-pompier volontaire peut, sur avis du médecin de sapeurs-pompiers compétent, se voir confier des tâches non opérationnelles.

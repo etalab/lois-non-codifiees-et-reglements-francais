@@ -4,4 +4,4 @@ Le sapeur-pompier volontaire conserve son grade et son ancienneté en cas de sus
 
 La durée maximale autorisée des suspensions durant l'ensemble des engagements du sapeur-pompier volontaire est fixée à neuf ans.
 
-Les périodes de suspension d'engagement ne sont pas prises en compte pour la détermination des services effectifs ouvrant droit à l'avancement ni pour la durée de l'engagement quinquennal.
+Les périodes de suspension d'engagement ne sont pas prises en compte pour la détermination des services effectifs ouvrant droit à l'avancement ni pour le décompte de l'ancienneté du sapeur-pompier volontaire. Elles interrompent d'une durée équivalente le déroulement de l'engagement quinquennal en cours.
