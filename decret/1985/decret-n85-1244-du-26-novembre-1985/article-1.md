@@ -86,6 +86,8 @@ Institut francilien d'ingénierie des services.
 
 Institut francilien des sciences appliquées.
 
+Institut français d'urbanisme.
+
 Montpellier-III
 
 Institut des technosciences de l'information et de la communication.
@@ -127,8 +129,6 @@ Institut de la nutrition.
 Institut de la pensée contemporaine, recherches interdisciplinaires et interculturelles.
 
 Paris-VIII :
-
-Institut d'urbanisme.
 
 Institut d'études européennes.
 
