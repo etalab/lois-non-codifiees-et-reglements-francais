@@ -405,7 +405,6 @@
 - [Décret n°97-869 du 18 septembre 1997 (MAEJ9730088D)](decret-n97-869-du-18-septembre-1997-maej9730088d)
 - [Décret n°97-870 du 18 septembre 1997 (MAEJ9730089D)](decret-n97-870-du-18-septembre-1997-maej9730089d)
 - [Décret n°98-1046 du 18 novembre 1998 (EQUB9801058D)](decret-n98-1046-du-18-novembre-1998-equb9801058d)
-- [Décret du 19 novembre 1997 (ECOC9700185D)](decret-du-19-novembre-1997-ecoc9700185d)
 - [Décret n°93-101 du 19 janvier 1993 (SANH9202986D)](decret-n93-101-du-19-janvier-1993-sanh9202986d)
 - [Décret n°96-1115 du 19 décembre 1996 (EQUX9600154D)](decret-n96-1115-du-19-decembre-1996-equx9600154d)
 - [Décret n°97-1069 du 19 novembre 1997 (MESH9722489D)](decret-n97-1069-du-19-novembre-1997-mesh9722489d)
