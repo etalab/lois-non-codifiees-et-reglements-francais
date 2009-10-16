@@ -10,9 +10,9 @@ En application de l'article 3 du décret n° 2008-1314 du 12 décembre 2008 et d
 
 ― adjoint au sous-directeur finances contrats à la direction du service de soutien de la flotte à Toulon ;
 
-― chef du bureau dialogue social et action sociale à la direction des ressources humaines de la     direction générale de l'armement ;
+― chef du bureau dialogue social et action sociale à la direction des ressources humaines de la direction générale de l'armement ;
 
-― chef du bureau des personnels fonctionnaires et ouvriers à la direction des ressources humaines de la     direction générale de l'armement ;
+― chef du bureau des personnels fonctionnaires et ouvriers à la direction des ressources humaines de la direction générale de l'armement ;
 
 ― sous-directeur des ressources humaines du centre d'essais de lancement de missiles à Biscarrosse ;
 
@@ -40,7 +40,7 @@ En application de l'article 3 du décret n° 2008-1314 du 12 décembre 2008 et d
 
 ― directeur du bureau du service national de Toulouse ;
 
-― directeur du bureau du service national de Versailles ;
+― directeur de l'établissement du service national sud-est ;
 
 ― chef du bureau de la diffusion multimédia au service parisien de soutien de l'administration centrale ;
 
