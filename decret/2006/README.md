@@ -42,6 +42,7 @@
 - [Décret n°2006-1525 du 5 décembre 2006 (MENH0602547D)](decret-n2006-1525-du-5-decembre-2006-menh0602547d)
 - [Décret n°2006-1535 du 5 décembre 2006 (SANH0624105D)](decret-n2006-1535-du-5-decembre-2006-sanh0624105d)
 - [Décret n°2006-410 du 5 avril 2006 (MCCK0600151D)](decret-n2006-410-du-5-avril-2006-mcck0600151d)
+- [Décret n°99-79 du 5 février 1999 (MCCT9900011D)](decret-n99-79-du-5-fevrier-1999-mcct9900011d)
 - [Décret n°97-446 du 5 mai 1997 (EQUT9700688D)](decret-n97-446-du-5-mai-1997-equt9700688d)
 - [Décret n°2006-127 du 6 février 2006 (BUDD0670005D)](decret-n2006-127-du-6-fevrier-2006-budd0670005d)
 - [Décret n°2006-1341 du 6 novembre 2006 (EQUG0601210D)](decret-n2006-1341-du-6-novembre-2006-equg0601210d)
