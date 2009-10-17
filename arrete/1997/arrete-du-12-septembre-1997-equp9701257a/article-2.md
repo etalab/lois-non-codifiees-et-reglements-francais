@@ -110,6 +110,21 @@ Comités techniques paritaires spéciaux des services à compétence nationale
 <p align="center">3 </p>
 </td>
 </tr>
+<tr>
+<td> Service d'études sur les transports, les routes et leurs aménagements</td>
+<td>
+<p align="center"> 10</p>
+</td>
+<td>
+<p align="center"> 10</p>
+</td>
+<td>
+<p align="center"> 10</p>
+</td>
+<td>
+<p align="center"> 10</p>
+</td>
+</tr>
 </tbody>
 </table>
 

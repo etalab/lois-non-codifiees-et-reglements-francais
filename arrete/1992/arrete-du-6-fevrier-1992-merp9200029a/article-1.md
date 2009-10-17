@@ -39,21 +39,13 @@ La circonscription territoriale des sections régionales de la conchyliculture, 
 <td valign="top" width="174">
 <p>De la frontière belge à la limite séparative des départements de la Manche et d'Ille-et-Vilaine.</p>
 </td>
-<td valign="top" width="156">
-<p>Boulogne-sur-Mer.</p>
-<p>Courseulles, Arromanches.</p>
-<p>Isigny.</p>
-<p>Sainte-Marie-du-Mont.</p>
-<p>Lestre</p>
-<p>Saint-Vaast-la-Hougue.</p>
-<p>Côte des Isles</p>
-<p>Pirou.</p>
-<p>Blainville.</p>
-<p>Sud de la Sienne.</p>
-<p>Chausey</p>
+<td valign="top" width="156">Département du Nord. <p>Département du Pas-de-Calais. </p>
+<p>Département de la Somme. </p>
+<p>Courseulles, Arromanches, Isigny, Sainte-Marie-du-Mont, Lestre, Saint-Vaast-la-Hougue, côte des Isles, Pirou, Blainville, sud de la Sienne, Chausey. <br/>
+</p>
 </td>
 <td valign="top" width="94">
-<p align="center">25</p>
+<p align="center">27</p>
 </td>
 <td valign="top" width="99">
 <p align="center">A fixer</p>
@@ -149,27 +141,19 @@ La circonscription territoriale des sections régionales de la conchyliculture, 
 <p>Siège à Marennes.</p>
 </td>
 <td valign="top" width="174">
-<p>De la limite séparative des départements de la Vendée et de la Charente-Maritime (rive gauche de la Sèvre niortaise} à la limite séparative des départements de la Charente-Maritime et de la Gironde.</p>
+<p>De la limite séparative des départements de la Vendée et de la Charente-Maritime (rive gauche de la Sèvre niortaise) à la limite séparative des départements de la Charente-Maritime et de la Gironde.</p>
 </td>
-<td valign="top" width="156">
-<p>Charron.</p>
-<p>Esnandes,</p>
-<p>Marsilly.</p>
-<p>La Rochelle.</p>
-<p>Ile de Ré.</p>
-<p>Châtelaillon-Plage.</p>
-<p>Fouras.</p>
-<p>Marennes.</p>
-<p>Nieulle-sur-Seudre.</p>
-<p>Bourcefranc-le-Chapus.</p>
-<p>Port-des-Barques.</p>
-<p>La Tremblade.</p>
-<p>Arvert.</p>
-<p>Chaillevette.</p>
-<p>L'Eguille.</p>
-<p>Le Château-d'Oléron.</p>
-<p>Saint-Trojan-les-Bains.</p>
-<p>Dolus d'Oléron.</p>
+<td valign="top" width="156">Ile de Ré. <p>Nord-La Rochelle. </p>
+<p>Sud-La Rochelle. </p>
+<p>Ile d'Oléron. </p>
+<p>La Tremblade-Arvert. </p>
+<p>Etaules-Chaillevette-Mornac. </p>
+<p>Breuillet-l'Eguille-sur-Seudre. </p>
+<p>Bourcefranc. </p>
+<p>Marennes-Saint-Just. </p>
+<p>Nieulle-sur-Seudre-Le Gua. </p>
+<p>Port des Barques. <br/>
+</p>
 </td>
 <td valign="top" width="94">
 <p align="center">59</p>
