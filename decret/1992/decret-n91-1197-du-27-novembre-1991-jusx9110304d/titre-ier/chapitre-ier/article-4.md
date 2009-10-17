@@ -18,4 +18,6 @@ Sous réserve des dispositions de l'article 16 de la loi du 31 décembre 1971 pr
 
 -quarante-deux membres à Paris.
 
+Dans les barreaux où est élu un vice-bâtonnier en application de l'article 6, celui-ci fait partie des membres mentionnés aux alinéas ci-dessus.
+
 Le conseil de l'ordre ne siège valablement que si plus de la moitié de ses membres sont présents. Il statue à la majorité des voix.
