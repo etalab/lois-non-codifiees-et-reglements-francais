@@ -1,18 +1,8 @@
 # Article 3
 
-Les unités dérivées sans dimension du SI sont :
+Les unités dérivées de manière cohérente des unités SI de base sont données par des expressions algébriques sous la forme de produits de puissances des unités SI de base avec un facteur numérique égal au nombre 1.
 
-Le radian, unité d'angle plan ;
-
-Le stéradian, unité d'angle solide.
-
-Le radian est l'angle compris entre deux rayons d'un cercle qui, sur la circonférence du cercle, interceptent un arc de longueur égale à celle du rayon.
-
-Le stéradian est l'angle solide d'un cône qui, ayant son sommet au centre d'une sphère, découpe sur la surface de cette sphère une aire égale à celle d'un carré ayant pour côté une longueur égale au rayon de la sphère.
-
-A partir des unités SI de base et des unités dérivées sans dimension du SI, les unités SI dérivées sont données par des expressions algébriques sous la forme de produits de puissances des unités SI de base ou des unités dérivées sans dimension du SI avec un facteur numérique égal à 1.
-
-Plusieurs de ces unités SI dérivées ont reçu un nom spécial et un symbole particulier, lesquels peuvent être utilisés à leur tour pour exprimer des unités dérivées d'une façon plus simple qu'à partir des unités SI de base ou des unités dérivées sans dimension du SI.
+Le nom ou le symbole spéciaux attribués, le cas échéant, à une unité SI dérivée peuvent être utilisés à leur tour pour exprimer des unités dérivées d'une façon plus simple qu'à partir des unités SI de base.
 
 Les unités dérivées ayant des noms spéciaux et d'autres unités dérivées utilisées pour mesurer certaines grandeurs sont dénommées et définies ci-après et dans le tableau annexé au présent décret.
 
@@ -29,6 +19,14 @@ Volume.
 L'unité de volume est le mètre cube, volume d'un cube ayant 1 mètre de côté.
 
 Le nom "litre" peut être donné au décimètre cube.
+
+Angle plan
+
+L'unité d'angle plan est le radian, angle compris entre deux rayons d'un cercle qui, sur la circonférence du cercle, interceptent un arc de longueur égale à celle du rayon.
+
+Angle solide
+
+L'unité d'angle solide est le stéradian, angle solide d'un cône qui, ayant son sommet au centre d'une sphère, découpe sur la surface de cette sphère une aire égale à celle d'un carré ayant pour côté une longueur égale au rayon de la sphère.
 
 Unités de masse.
 
@@ -169,3 +167,17 @@ Vergence des systèmes optiques.
 L'unité de vergence d'un système optique est le mètre à la puissance moins un, vergence d'un système optique dont la distance focale est 1 mètre, dans un milieu dont l'indice de réfraction est 1.
 
 Cette unité s'appelle aussi la dioptrie.
+
+Unités calorifiques
+
+Température Celsius
+
+L'unité degré Celsius est égale à l'unité kelvin. La température Celsius t est définie par la différence : t = T - T<sub>0</sub> entre deux températures thermodynamiques T et T<sub>0</sub> avec T<sub>0</sub> = 273,15 K.
+
+Un intervalle ou une différence de température peuvent s'exprimer soit en kelvins, soit en degrés Celsius.
+
+Unités de quantité de matière
+
+Activité catalytique
+
+L'unité d'activité catalytique est le katal. Le katal est égal à une mole par seconde.

@@ -24,7 +24,7 @@ La seconde est la durée de 9.192.631.770 périodes de la radiation correspondan
 
 L'ampère est l'intensité d'un courant électrique constant qui, maintenu dans deux conducteurs parallèles, rectilignes, de longueur infinie, de section circulaire négligeable et placés à une distance de 1 mètre l'un de l'autre dans le vide, produirait entre ces conducteurs une force de 2 x 10(-7) newton par mètre de longueur, le newton étant l'unité de force définie à l'article 3.
 
-Le kelvin est la fraction 1/273,16 de la température thermodynamique du point triple de l'eau. On peut utiliser la température Celsius : la température Celsius t est définie par la différence t = T - To entre deux températures thermodynamiques T et To avec To = 273,15 K. Un intervalle ou une différence de température peuvent s'exprimer soit en kelvins, soit en degrés Celsius. L'unité degré Celsius est égale à l'unité kelvin.
+Le kelvin est la fraction 1/273,16 de la température thermodynamique du point triple de l'eau. Cette définition se réfère à l'eau de composition isotopique définie par les rapports de quantité de matière suivants : 0,000 155 76 mole de l'isotope 2 de l'hydrogène par mole de l'isotope 1 de l'hydrogène, 0,000 379 9 mole de l'isotope 17 de l'oxygène par mole de l'isotope 16 de l'oxygène et 0,002 005 2 mole de l'isotope 18 de l'oxygène par mole de l'isotope 16 de l'oxygène.
 
 La mole est la quantité de matière d'un système contenant autant d'entités élémentaires qu'il y a d'atomes dans 0,012 kilogramme de carbone 12. Lorsqu'on emploie la mole, les entités élémentaires doivent être spécifiées et peuvent être des atomes, des molécules, des ions, des électrons, d'autres particules ou des groupements spécifiés de telles particules.
 
