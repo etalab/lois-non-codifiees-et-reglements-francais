@@ -22,7 +22,7 @@ Pour ce faire :
 
 Il contribue à la conception des politiques de l'emploi en assurant une veille sur les actions conduites par le service public de l'emploi, les collectivités locales et les partenaires sociaux et sur la situation économique et sociale des territoires. Il contribue également à la capitalisation et à la diffusion des expériences et des innovations.
 
-3° La sous-direction de l'insertion et de la cohésion sociale comprend :
+3° La sous-direction de l'ingénierie de l'accès et du retour à l'emploi comprend :
 
 - la mission de l'insertion professionnelle ;
 
@@ -102,7 +102,9 @@ Elle assure le secrétariat du Comité supérieur de l'emploi et de sa commissio
 
 Elle est chargée de concevoir le cadre juridique et de coordonner les moyens mis en oeuvre par l'Etat et le service public de l'emploi, pour assurer la régulation du marché du travail, ainsi que d'élaborer le cadre juridique de l'indemnisation des travailleurs privés d'emploi.
 
-Elle exerce la tutelle sur l'Agence nationale pour l'emploi (ANPE), sur l'Association nationale pour la formation professionnelle des adultes (AFPA) et le fonds de solidarité en faveur des travailleurs privés d'emploi.
+Elle assure la représentation du ministre chargé de l'emploi au sein des instances de gouvernance, d'évaluation et d'audit de Pôle emploi. Elle exerce la tutelle sur le fonds de solidarité en faveur des travailleurs privés d'emploi.
+
+Elle représente le ministre chargé de l'emploi au sein des instances de gouvernance de l'Association nationale pour la formation professionnelle des adultes (AFPA).
 
 Elle est en charge de la réglementation des allocations destinées aux demandeurs d'emploi, de l'agrément des textes conventionnels relatifs au régime d'assurance chômage et assure les relations avec les organismes chargés de la gestion de ce dernier.
 
