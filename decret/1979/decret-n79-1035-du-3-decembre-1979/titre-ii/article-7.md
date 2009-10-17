@@ -6,4 +6,4 @@ L'autorisation de dérogation mentionne expressément la liste des documents qui
 
 Elle précise, en outre, le cas échéant, si la reproduction des documents peut être effectuée et en détermine les modalités.
 
-Le Premier ministre ou le ministre chargé de la défense peut accorder des dérogations générales pour certains fonds ou parties de fonds visés à l'article précédent lorsque les documents qui les composent auront atteint trente ans d'âge.
+L'accord de l'autorité dont émanent les documents, mentionné à l'article L. 213-3 du code du patrimoine, est donné par le Premier ministre en ce qui concerne les fonds d'archives publiques provenant des services qui lui sont rattachés, par le ministre de la défense en ce qui concerne les autres fonds.
