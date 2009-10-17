@@ -958,8 +958,6 @@
 - [Décret n°2004-483 du 28 mai 2004 (ECOF0400016D)](decret-n2004-483-du-28-mai-2004-ecof0400016d)
 - [Décret n°2004-486 du 28 mai 2004 (SANS0421395D)](decret-n2004-486-du-28-mai-2004-sans0421395d)
 - [Décret n°2004-487 du 28 mai 2004 (SANS0421396D)](decret-n2004-487-du-28-mai-2004-sans0421396d)
-- [Décret du 29 juillet 2004 (AGRP0400193D)](decret-du-29-juillet-2004-agrp0400193d)
-- [Décret du 29 juillet 2004 (AGRP0400280D)](decret-du-29-juillet-2004-agrp0400280d)
 - [Décret du 29 mars 2004 (AGRP0400405D)](decret-du-29-mars-2004-agrp0400405d)
 - [Décret du 29 mars 2004 (AGRP0400501D)](decret-du-29-mars-2004-agrp0400501d)
 - [Décret du 29 octobre 2004 (AGRP0401760D)](decret-du-29-octobre-2004-agrp0401760d)
