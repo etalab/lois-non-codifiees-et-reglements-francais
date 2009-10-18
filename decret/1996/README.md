@@ -570,7 +570,6 @@
 - [Décret n°96-54 du 24 janvier 1996 (JUSC9520945D)](decret-n96-54-du-24-janvier-1996-jusc9520945d)
 - [Décret n°96-55 du 24 janvier 1996 (LOGC9500058D)](decret-n96-55-du-24-janvier-1996-logc9500058d)
 - [Décret n°96-562 du 24 juin 1996 (TASE9610574D)](decret-n96-562-du-24-juin-1996-tase9610574d)
-- [Décret n°96-567 du 24 juin 1996 (FCEC9600079D)](decret-n96-567-du-24-juin-1996-fcec9600079d)
 - [Décret n°96-583 du 24 juin 1996 (AGRS9600934D)](decret-n96-583-du-24-juin-1996-agrs9600934d)
 - [Décret n°96-60 du 24 janvier 1996 (FPPA9500148D)](decret-n96-60-du-24-janvier-1996-fppa9500148d)
 - [Décret n°96-657 du 24 juillet 1996 (ECOT9651533D)](decret-n96-657-du-24-juillet-1996-ecot9651533d)
