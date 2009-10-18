@@ -896,7 +896,6 @@
 - [Décret n°98-981 du 30 octobre 1998 (MCCB9800548D)](decret-n98-981-du-30-octobre-1998-mccb9800548d)
 - [Décret n°98-994 du 30 octobre 1998 (MESS9822987D)](decret-n98-994-du-30-octobre-1998-mess9822987d)
 - [Décret n°97-704 du 30 mai 1997 (TASP9721247D)](decret-n97-704-du-30-mai-1997-tasp9721247d)
-- [Décret du 31 mars 1998 (ECOC9700246D)](decret-du-31-mars-1998-ecoc9700246d)
 - [Décret n°92-311 du 31 mars 1992 (ECOM9100101D)](decret-n92-311-du-31-mars-1992-ecom9100101d)
 - [Décret n°97-1322 du 31 décembre 1997 (MESV9723473D)](decret-n97-1322-du-31-decembre-1997-mesv9723473d)
 - [Décret n°97-1323 du 31 décembre 1997 (MESV9723472D)](decret-n97-1323-du-31-decembre-1997-mesv9723472d)
