@@ -1,15 +1,11 @@
 # Article 1
 
-I. - Le service du contrôle général économique et financier comporte trois pôles regroupant les chefs de mission de contrôle général économique et financier, les membres du corps du contrôle général économique et financier, ainsi que les agents du ministère de l'économie, des finances et de l'industrie, qui les assistent, affectés notamment à des missions de contrôle général économique et financier.
+I.-Les missions constituées au sein du service du contrôle général économique et financier en application de l'article 5 du décret du 9 mai 2005 susvisé sont, sauf exception tenant à leur spécificité, regroupées par secteurs en fonction de leur domaine d'intervention. La définition et la composition des secteurs sont fixées par le chef du service, après avis du comité stratégique.
 
-Ces pôles contribuent à la mise en oeuvre des méthodologies propres, en particulier aux domaines respectifs suivants :
+Des missions fonctionnelles sont chargées des questions d'intérêt commun relatives à l'exercice des attributions du service. Elles interviennent en matière de programmation et de pilotage des activités, de méthodologie et de qualité, notamment en appui des secteurs et des missions du service.
 
-- inspection et audit ;
+Une mission est chargée de la gestion des moyens du service et de la valorisation des ressources.
 
-- évaluation, études et conseil en gestion publique ;
+II.-Les moyens nécessaires au fonctionnement du service et leurs modalités de gestion sont définis conjointement par le directeur des personnels et de l'adaptation de l'environnement professionnel et le chef du service, qui établissent à cette fin tout protocole de gestion approprié.
 
-- contrôle, notamment contrôle économique et financier en application du décret du 26 mai 1955 susvisé et contrôle financier des administrations de l'Etat et de ses établissements publics administratifs.
-
-II. - Les moyens nécessaires au fonctionnement du service et leurs modalités de gestion sont définis conjointement par le directeur du personnel, de la modernisation et de l'administration et le chef du service, qui établissent à cette fin tout protocole de gestion approprié.
-
-III. - Les membres du corps du contrôle général économique et financier signent leurs rapports.
+III.-Les membres du corps du contrôle général économique et financier signent leurs rapports.

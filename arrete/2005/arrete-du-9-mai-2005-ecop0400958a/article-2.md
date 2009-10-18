@@ -1,8 +1,6 @@
 # Article 2
 
-I. - Après avis du comité stratégique, le chef du service désigne, parmi les chefs de mission de contrôle général économique et financier visés par le décret n° 2005-438 du 9 mai 2005 susvisé, les responsables des pôles prévus à l'article 1er du présent arrêté.
-
-Il établit des relations sur les questions de méthodologie avec les administrations et les organismes publics et privés compétents dans les matières relevant des attributions du service.
+I. Le chef du service établit des relations sur les questions de méthodologie avec les administrations et les organismes publics et privés compétents dans les matières relevant des attributions du service.
 
 Il veille à la mobilité des chefs de mission de contrôle général économique et financier et des membres du corps du contrôle général économique et financier affectés au service.
 
@@ -12,7 +10,7 @@ Il suscite des coopérations et organise les réponses aux demandes de coopérat
 
 Il reçoit copie des instructions à caractère général adressées aux responsables de missions.
 
-Il veille au suivi des avis et préconisations formulées à l'issue des missions d'inspection, d'audit et de contrôle économique et financier.
+Il veille au suivi des avis et préconisations formulés à l'occasion ou à l'issue des interventions d'inspection, d'audit et de contrôle effectuées dans le champ de compétences du service.
 
 Il veille au respect des règles déontologiques.
 
