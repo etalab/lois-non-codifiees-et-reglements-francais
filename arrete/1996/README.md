@@ -104,7 +104,6 @@
 - [Arrêté du 4 juin 1996 (TASP9622723A)](arrete-du-4-juin-1996-tasp9622723a)
 - [Arrêté du 4 mars 1996 (ACVE9550028A)](arrete-du-4-mars-1996-acve9550028a)
 - [Arrêté du 4 mars 1996 (BUDF9500016A)](arrete-du-4-mars-1996-budf9500016a)
-- [Arrêté du 4 mars 1996 (BUDF9500017A)](arrete-du-4-mars-1996-budf9500017a)
 - [Arrêté du 4 mars 1996 (ECOP9500615A)](arrete-du-4-mars-1996-ecop9500615a)
 - [Arrêté du 4 mars 1996 (INDA9600170A)](arrete-du-4-mars-1996-inda9600170a)
 - [Arrêté du 4 mars 1996 (INDA9600171A)](arrete-du-4-mars-1996-inda9600171a)
