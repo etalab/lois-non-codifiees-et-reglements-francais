@@ -1,0 +1,3 @@
+# Article 2
+
+Le cahier des charges minima des systèmes informatisés de billetterie à usage des salles de spectacles cinématographiques annexé à l'arrêté du 2 janvier 2004 susvisé reste applicable au titre des systèmes informatisés de billetterie homologués avant la date d'entrée en vigueur du présent arrêté. Sur le fondement de cette homologation, les exploitants d'établissements de spectacles cinématographiques concernés ne peuvent éditer et imprimer de droits d'entrée autrement qu'en les matérialisant par des billets informatiques répondant aux prescriptions du cahier des charges du 2 janvier 2004.
