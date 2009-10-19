@@ -313,8 +313,6 @@
 - [Décret n°98-844 du 22 septembre 1998 (INTM9800014D)](decret-n98-844-du-22-septembre-1998-intm9800014d)
 - [Décret n°99-314 du 22 avril 1999 (DEFP9901093D)](decret-n99-314-du-22-avril-1999-defp9901093d)
 - [Décret n°90-427 du 22 mai 1990 (MENF9000781D)](decret-n90-427-du-22-mai-1990-menf9000781d)
-- [Décret du 23 novembre 2006 (AGRP0602137D)](decret-du-23-novembre-2006-agrp0602137d)
-- [Décret du 23 novembre 2006 (AGRP0602138D)](decret-du-23-novembre-2006-agrp0602138d)
 - [Décret du 23 octobre 2006 (AGRP0601974D)](decret-du-23-octobre-2006-agrp0601974d)
 - [Décret n°2006-1296 du 23 octobre 2006 (SANS0622919D)](decret-n2006-1296-du-23-octobre-2006-sans0622919d)
 - [Décret n°2006-1300 du 23 octobre 2006 (AGRP0601950D)](decret-n2006-1300-du-23-octobre-2006-agrp0601950d)
