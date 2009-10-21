@@ -1,6 +1,6 @@
 # Article 2
 
-Pour les personnels du corps d'encadrement et d'application de la police nationale, à l'exception des personnels servant en administration centrale, dans les compagnies républicaines de sécurité et dans les structures de formation en qualité de formateur, les préfets sous l'autorité desquels sont placés les secrétariats généraux pour l'administration de la police et, dans les départements d'outre-mer, les services administratifs et techniques de la police, d'une part, ainsi que le haut-commissaire de la République en Nouvelle-Calédonie et le représentant de l'Etat à Mayotte, d'autre part, reçoivent délégation pour prendre les décisions concernant :
+Pour les personnels du corps d'encadrement et d'application de la police nationale, à l'exception des personnels servant en administration centrale dans les services du renseignement intérieur, dans les compagnies républicaines de sécurité et dans les structures de formation en qualité de formateur, les préfets sous l'autorité desquels sont placés les secrétariats généraux pour l'administration de la police et, dans les départements d'outre-mer, les services administratifs et techniques de la police, d'une part, ainsi que le haut-commissaire de la République en Nouvelle-Calédonie et en Polynésie française, et le représentant de l'Etat à Mayotte, d'autre part, reçoivent délégation pour prendre les décisions concernant :
 
 - la prolongation et la mise à fin de stage ;
 
@@ -13,6 +13,8 @@ Pour les personnels du corps d'encadrement et d'application de la police nationa
 - la mutation et la permutation dans les limites territoriales de la commission administrative paritaire compétente ;
 
 - la mise en disponibilité, y compris à la demande de l'intéressé, conformément aux dispositions de l'article 51 de la loi du 11 janvier 1984 susvisée ;
+
+- le cumul d'activité en application de l'article 25 de la loi n° 83-634 du 13 juillet 1983 modifiée portant droits et obligations des fonctionnaires ;
 
 - la mise à la retraite ;
 
