@@ -54,9 +54,7 @@ Chouteau Atlantique :
 
 - 12, rue René-Cassin, 44600 Saint-Nazaire : de 1960 à 1997.
 
-CIA (constructions industrielles de l'Atlantique) :
-
-- 24 bis, rue des Usines, 44000 Nantes : depuis 1975.
+CIA (Constructions industrielles de l'Atlantique), 24 _bis,_rue des Usines, 44000 Nantes, depuis 1974.
 
 CNI (chaudronnerie navale et industrielle) :
 
@@ -262,6 +260,8 @@ STIO/Lange Daniel :
 
 Provence-Alpes-Côte d'Azur
 
+ACA (Air Ciotat automation) puis SNACA (Société nouvelle air Ciotat automation). ZI de Roumagoua, 13600 La Ciotat. De 1987 à 1990.
+
 ACMP (Ateliers et chantiers de Marseille Provence) :
 
 - 2, boulevard des Bassins-Cap-Pinède, 13002 Marseille : de 1980 à 1988.
@@ -281,6 +281,8 @@ AMM (Approvisionnement Maintenance Marine), AMM Poggioli (Automatisme Mesure Mai
 AMTIM (Ateliers métropolitains de travaux industriels et maritimes), 9, boulevard Pons, 13000 Marseille, de 1958 à 1971.
 
 Antirouille/CERI antirouille ZI. 1re rue n° 18, BP 2003, Vitrolles. Depuis 1982.
+
+APES (automatismes pneumatiques électroniques systèmes). ZI de Roumagoua, 13600 La Ciotat. De 1990 à 1992.
 
 APEX, ZI Le Sylvain, route de la Gare, 83123 Sanary, de 1989 à 2005.
 
@@ -364,9 +366,7 @@ Castellano :
 
 Cauvet services/Cauvet Intérim, cours Joseph-Thierry, Marseille, extension Plein Sud, avenue de la Pétanque, 13600 La Ciotat, et RN 8, quartier de la Malle, 13330 Bouc-Bel-Air : de 1967 à 1977.
 
-Cegelec :
-
-- avenue Aristide-Briand, 83200 Toulon : depuis 1965.
+CEGELEC SUD-EST, agence Var, avenue Aristide-Briand, 83200 Toulon, de 1989 à 2003.
 
 CFEM/CFEM Offshore (Compagnie française d'entreprises métalliques). Site de Fos, BP 10, 13771 Fos-sur-Mer. De 1966 à 1986.
 
@@ -407,6 +407,8 @@ Chaudronnerie tuyauterie Provence Corse (CTPC), 1, rue Reine-Elisabeth, 13001 Ma
 Chaudronnerie-tuyauterie Georges Galligani et Cie, 160, chemin de la Madrague-Ville, 13015 Marseille, de 1948 à 1997.
 
 Chreatech, zone d'entreprise des Playes-Jean-Monnet, 83500 La Seyne-sur-Mer : de 1987 à 1997.
+
+CMS-Contrôle Mesure Service. 98, rue de l'Evêché, 13002 Marseille, puis zone portuaire de Mourepiane, chemin du Littoral, CD 5, 13322 Marseille Cedex 16. De 1981 à 1991
 
 CNIF : chaudronnerie navale industrielle et ferroviaire 45, rue Victor-Clappier 83000 Toulon De 1974 à 1978
 
@@ -604,7 +606,7 @@ ETMI (Bolcioni et Jaffret) :
 
 - 10, quai du Lazaret, 13015 Marseille : depuis 1946.
 
-Etudes et réalisations techniques et comptables de Provence Route de Gardanne, CDS 13320, Bouc Bel-Air. De 1957 à 1978.
+Etudes et réalisations techniques et comptables de Provence Route de Gardanne, CDS 13320, Bouc‑Bel-Air. De 1957 à 1978.
 
 Européenne de services techniques, 5-7, La Canebière, 13001 Marseille, de 1970 à 1976.
 
@@ -632,7 +634,7 @@ Gardella Coating SA/SOMEDEP :
 
 Gardella SA/Gardella UHP, centre de la réparation navale de repiane, port autonome de Marseille, 13016 Marseille ,e1 171, chemin de la Madrague-ville, de 1970 à 1979.
 
-Général Diffusion, 18, rue d'Urfé, 13002 Marseille, de 1988 à 1993 , puis :  Forme 8, BP 49 PAM, 13908 Marseille Cedex 20, depuis 1994.
+Général Diffusion, 18, rue d'Urfé, 13002 Marseille, de 1988 à 1993 , puis : Forme 8, BP 49 PAM, 13908 Marseille Cedex 20, depuis 1994.
 
 Granoux, zone industrielle Les Paluds, 13400 Aubagne, de 1972 à 1976.
 
@@ -778,7 +780,7 @@ Philippou :
 
 Polyservice.
 
-Centre de la réparation navale de Mourepiane PAM, Marseille ; lot ind. du Capitaine Geze, Marseille ; 171, chemin de la Madrague-ville, Marseille ; parc d'activités de l'Agavon, Les Pennes-Mirabeau. De 1979 à 1994.
+Centre de la réparation navale de Mourepiane PAM, Marseille ; lot ind. du Capitaine‑Geze, Marseille ; 171, chemin de la Madrague-ville, Marseille ; parc d'activités de l'Agavon, Les Pennes-Mirabeau. De 1979 à 1994.
 
 Prestation Méditerrannée SARL/Marine yachting service 19, quai de Rive-Neuve, 13007 Marseille. De 1988 à 2001
 
@@ -874,7 +876,7 @@ Société d'applications électroniques et de télécommunications, 14, rue de l
 
 Société de montage industriel et maritime/SMIM 20, rue Beauvau, 13100 Marseille, puis boulevard Frédéric-Mistral, à Rognac, immeuble les Amandiers, avenue Jean-Moulin, La Ciotat : Depuis 1968.
 
-Société des anciens établissements Henri-Satre 51, route de Barriol, Arles et quai Bonnardel, Port-Saint Louis-du-Rhône. De 1961 à 1988.
+Société des anciens établissements Henri-Satre 51, route de Barriol, Arles et quai Bonnardel, Port-Saint‑Louis-du-Rhône. De 1961 à 1988.
 
 Société Etude et maintenance hydraulique (EHM), 8, boulevard Mirabeau, 13002 Marseille : depuis 1988.
 
@@ -890,7 +892,7 @@ Société Les Abeilles Le Bois Sacré, puis ZI de Brégaillon 83500 La Seyne-sur
 
 Société méridionale de rectification (SOMERE), traverse Santi, La Calade, 13015 Marseille : de 1987 à 1992, puis ZAC de Saumaty Séon, 33, chemin de Saint-Henri, 13016 Marseille : de 1992 à 1995.
 
-Société navale et industrielle de chaudronnerie (SONIC), 1, avenue Kennedy, 13600 La Ciotat, de 1975 à 1977. puis  ZI Plaine Brunette, 13703 La Ciotat Cedex, de 1977 à 1985.
+Société navale et industrielle de chaudronnerie (SONIC), 1, avenue Kennedy, 13600 La Ciotat, de 1975 à 1977 puis ZI Plaine Brunette, 13703 La Ciotat Cedex, de 1977 à 1985.
 
 Société nouvelle Chaudronnerie maritime (SNCM), bureau Saumaty, 26, allée Sacoma N, Estaque-Gare, 13016 Marseille : de 1975 à 1986.
 
@@ -906,7 +908,7 @@ Société provençale de chaudronnerie industrielle, avenue Saint-Menet, 13011 M
 
 Société provençale de mécanique, 33, chemin de Saint-Henri, 13016 Marseille : depuis 1995
 
-De 1975 à 1991 : Société Sartec/Méditerranée Industrie/SST/SAM Industrie, rue Denis-Papin, 83130 La Garde, ZI du Camp Laurent, 1659, avenue Robert-Brun, 83500 La Seyne puis CIMAT Sartec, ZI du Camp Laurent, 1659, avenue Robert Brun, 83500 La Seyne, 1, boulevard de la Raffinerie, Marseille ; 12, boulevard Frédéric-Sauvage, Marseille, depuis 1980.
+De 1975 à 1991 : Société Sartec/Méditerranée Industrie/SST/SAM Industrie, rue Denis-Papin, 83130 La Garde, ZI du Camp Laurent, 1659, avenue Robert-Brun, 83500 La Seyne puis CIMAT Sartec, ZI du Camp Laurent, 1659, avenue Robert‑Brun, 83500 La Seyne, 1, boulevard de la Raffinerie, Marseille ; 12, boulevard Frédéric-Sauvage, Marseille, depuis 1980.
 
 Société Sud-Est technique industrie, 757, avenue Jolliot-Curie, ZI Toulon-Est, 83130 La Garde : de 1968 à 1984.
 
@@ -966,7 +968,7 @@ SIREP :
 
 SMPN Société méridionale de peinture et nettoyage Enceinte portuaire, forme 7, local 15, 13002 Marseille. De 1985 à 1997.
 
-SNEF ELECTRIC FLUX, 15, place Ing.-Gen.-Monsenergue, 83000 Toulon, de 1951 à 1994, ZI du Camp-Laurent, chemin Robert-Brun, 83500 La Seyne-sur-Mer, depuis 1951, impasse de l'Espérance, 13006 Marseille, de 1951 à 1975 , puis  87, avenue des Aygalades, 13015 Marseille, de 1975 à 1985.
+SNEF ELECTRIC FLUX, 15, place Ing.-Gen.-Monsenergue, 83000 Toulon, de 1951 à 1994, ZI du Camp-Laurent, chemin Robert-Brun, 83500 La Seyne-sur-Mer, depuis 1951, impasse de l'Espérance, 13006 Marseille, de 1951 à 1975, puis 87, avenue des Aygalades, 13015 Marseille, de 1975 à 1985.
 
 SNM :
 
@@ -1088,7 +1090,7 @@ SONOCAR :
 
 SOPREMO. 1, avenue Kennedy, 13600 La Ciotat. De 1975 à 1983.
 
-SORAMA, centre de la réparation navale de Mourepiane, 13002 Marseille, puis domaine de Font blanche, parc d'activités de l'Avégon, 13700 Les Pennes-Mira la Madrague-Ville, à Marseille, de 1962 à 1988
+SORAMA, centre de la réparation navale de Mourepiane, 13002 Marseille, puis domaine de Font blanche, parc d'activités de l'Avégon, 13700 Les Pennes-Mira‑la Madrague-Ville, à Marseille, de 1962 à 1988
 
 SOREM Industrie :
 
@@ -1124,11 +1126,15 @@ STIMP : Société de tuyauterie industrielle et maritime de Provence rue Diderot
 
 STE Société technique d'entreprise 215, route de Marseille, 83200 Toulon De 1960 à 1980
 
-STS Société thermodynamique service 215, route de Marseille 83200 Toulon De 1960 à 1980
+STS (Société thermodynamique service), 215, route de Marseille, 83200 Toulon, de 1960 à 1996.
 
 Sud Marine/Brisard, Sud Marine/Marine Technologie, Entreprise/Marine Technologie, Associées/Marine Technologie SA, Marine Technologies Engineering :
 
 - 9, boulevard Gay-Lussac, 13004 Marseille, puis Formes 8 et 9, enceinte portuaire, 13002 Marseille : depuis 1950.
+
+Sud Marine industries. Aire de Mourepiane, enceinte portuaire, 13002 Marseille. De 1988 à 1991.
+
+Sud Marine réparation navale. Aire de Mourepiane, enceinte portuaire, 13002 Marseille. De 1988 à 1992.
 
 Sud Moteurs :
 
