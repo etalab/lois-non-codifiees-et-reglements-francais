@@ -1,0 +1,3 @@
+# Article 7
+
+La liste des catégories de fonctionnaires autorisés à voter par correspondance conformément aux dispositions de l'arrêté du 1er septembre 1993 susvisé est fixée dans l'instruction ministérielle mentionnée à l'article 9 du présent arrêté.

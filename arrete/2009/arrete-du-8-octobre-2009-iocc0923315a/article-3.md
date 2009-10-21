@@ -1,0 +1,3 @@
+# Article 3
+
+Les listes électorales seront affichées le 18 novembre 2009. Dans les huit jours qui suivent leur publication, les électeurs pourront vérifier les inscriptions et, le cas échéant, présenter des demandes d'inscription. Dans le même délai et pendant trois jours à compter de son expiration, des réclamations pourront être formulées contre les inscriptions ou omissions sur les listes électorales. Les demandes d'inscription seront reçues jusqu'au 26 novembre 2009 par le directeur de l'administration de la police nationale, sous-direction des ressources humaines, bureau des personnels administratifs, techniques et scientifiques, 7, rue Nélaton, porte B550, 75015 Paris. Les réclamations pourront être formulées jusqu'au 30 novembre 2009 dans les mêmes conditions.

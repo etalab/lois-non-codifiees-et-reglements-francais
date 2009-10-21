@@ -236,9 +236,7 @@ Agromanut :
 
 - parc d'activités de Kermar, 56700 Kervignac : depuis 1989.
 
-Alstom Leroux naval :
-
-- ZI du Rohu, 56600 Lanester, puis 32, rue de l'Ingénieur-Verrière, 56100 Lorient : depuis 1997.
+Alstom Leroux Naval, 32, rue de l'Ingénieur-Verrière, 56100 Lorient, puis ZI du Rohu, 56600 Lanester, de 1997 à 1999.
 
 Alu Bennes :
 
@@ -314,7 +312,7 @@ Bernard Ateliers mécaniques navals industriels :
 
 - boulevard de la Compagnie-des-Indes, 56290 Port-Louis : depuis 1993.
 
-BERTHIN Pierre, SBEEE (Société bretonne d'équipements électriques et électroniques), 21, rue François-Le Levé, 56100 Lorient, puis rue Jean-Moulin, ZA de Kerdroual, 56270 Ploemeur, puis 3, boulevard Flandres-Dunkerque-1940, puis 2, rue Fulvy, puis 4, rue de l'Industrie, 56100 Lorient, depuis 1975.
+BERTHIN Pierre, SBEEE (Société bretonne d'équipements électriques et électroniques), 21, rue François-Le-Levé, 56100 Lorient, puis rue Jean-Moulin, ZA de Kerdroual, 56270 Ploemeur, puis 3, boulevard Flandres-Dunkerque 1940, puis 2, rue Fulvy, puis 4, rue de l'Industrie, 56100 Lorient, de 1975 à 2005.
 
 Biger Jean/Biger Moteurs marins :
 
@@ -578,7 +576,7 @@ Innovation, réalisation, aménagement composites :
 
 - 1 B, rue de l'Industrie, 56100 Lorient : depuis 1998.
 
-IRCN, impasse La Fayette, 29850 Gouesnou : depuis 1997.
+IRCN, impasse Lafayette, depuis 1997, puis METAL ACTION, 4, impasse Lafayette, 29850 Gouesnou, depuis 2004.
 
 Ismer SARL :
 
@@ -744,10 +742,6 @@ SAF Soudure autogène française, puis SIL Société industrielle lorientaise, 1
 
 SA MCTI, avenue Salvador-Allende, BP 26, puis rue Archimède, ZAC du Parco, BP 26, 56701 Hennebont Cedex, depuis 1989.
 
-SA Metalunox :
-
-- rue Denis-Papin, 56700 Hennebont : depuis 1989.
-
 SA Pech'Alu/Pêche Alu International :
 
 - parc d'activités Kermassonnet, 56700 Kervignac : depuis 1991.
@@ -776,7 +770,9 @@ SARL Dourmap et Cie :
 
 SARL Le Bras Jean-Paul, pont de la Corde, 29670 Henvic : de 1972 à 1997.
 
-SCAM (Société concarnoise d'ateliers mécaniques), ZI du Moros, 29900 Concarneau : depuis 1950.
+SCAM (Société concarnoise d'ateliers mécaniques), ZI du Moros, 29900 Concarneau, depuis 1950 et FCRN (Finistérienne de construction et de
+
+réparation navales), ZI du Moros, 29900 Concarneau, depuis 1995, puis PNS (Piriou naval services), ZI du Moros, 29900 Concarneau, depuis 2008.
 
 SCOP Chaudronnerie de l'Iroise 14, impasse des Alouettes, 29100 Pouillan-sur-Mer. Depuis 1990.
 
@@ -1448,6 +1444,8 @@ Armor Marine :
 
 - 59140 Dunkerque : de 1950 à 1986.
 
+ARNO Dunkerque, route des Docks-Flottants, 59376 Dunkerque Cedex 1, depuis 1987.
+
 Ateliers Chantiers Navires Boulogne :
 
 - 497, rue A.-et-P.-Vanheeckoet, 62480 Le Portel : depuis 1979.
@@ -1467,8 +1465,6 @@ Ateliers Willemsoone, 166, boulevard de la République, 59140 Dunkerque-Rosendae
 Baude Jean-Claude, puis Baude Electronique, 1, rue Albert-Ier, 59153 Grand-Fort-Philippe : de 1957 à 1994.
 
 Beliard/France Dunkerque/Flandres Industrie/Beliard Crichton et Cie/Ateliers et chantiers Ziegler frères/Etablissements dunkerquois des AFO/Ateliers réunis Nord et Ouest (ARNO), route des Docks-Flottants, quai de la Câle sèche n° 4, rue Félix-Coquelle ; bassin de l'arrière Port, 2, quai de Mardyck, route de l'Ecluse-Watier, 59140 Dunkerque : depuis sa création à 1987.
-
-Société ARNO Dunkerque, route des Docks-Flottants, 59376 Dunkerque.
 
 Cedex 1 : depuis 1987 .
 
@@ -1570,7 +1566,7 @@ Electro Technique Groux (ETG) :
 
 - 16, rue Magenta, 62200 Boulogne-sur-Mer : depuis 1986.
 
-EMIN/SOCANOR, 6, rue des Bazennes, 59140 Dunkerque, puis rue Garibaldi, ZI, 59760 Grande-Synthe : de 1954 à 1984.
+EMIN, 6, rue de Bazennes, 59140 Dunkerque, rue Garibaldi, ZI, 59760 Grande-Synthe, de 1954 à 1984
 
 EMINORD :
 
@@ -1792,9 +1788,7 @@ SNEF Electrix Flux :
 
 - 25, rue de Calais, 59140 Dunkerque : depuis 1952.
 
-SEPATIM/SOCANOR :
-
-- 51, rue Henry-Terquem et 26, rue Saint-Pierre 59140 Dunkerque : de 1966 à 1984.
+SEPATIM, 51, rue Henri-Terquem, 26, rue Saint-Pierre, 59140 Dunkerque, de 1966 à 1984
 
 Service technique de l'outillage, des ateliers et centre d'activité de la réparation navale et du dragage du Port autonome de Dunkerque, terre-plein Guillain, BP 6534, 59386 Dunkerque : depuis 1947.
 
@@ -1814,9 +1808,7 @@ SOCALTRA Levivier :
 
 SOCALTRA Levivier, 322, rue Albert-Camus, 59230 Saint-Amand-les-Eaux : de 1974 à 1979.
 
-SOCANOR :
-
-- quai de Panama, 59140 Dunkerque : depuis 1985.
+SOCANOR, quai de Panama, 59140 Dunkerque, de 1985 à 2004.
 
 SOCARENAM :
 

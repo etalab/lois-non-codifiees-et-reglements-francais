@@ -458,6 +458,8 @@ Roclaine Industries SA puis Saint-Gobain Industries SA puis Saint-Gobain Isover 
 
 Saim/teroson France/Henkel/Caourep/CFPI, 66, rue Saint-Aignan, 58200 Cosne-sur-Loire puis 82, avenue du 85e-de-Ligne, 58200 Cosne-sur-Loire puis ZI, route Villechaud/rue Lafayette, 58200 Cosne-sur-Loire : de 1951 à 1992 ;
 
+SA SAINT-GOBAIN SEVA, 22, rue Paul-Sabatier, ZI Nord, 71100 Chalon-sur-Saône : De 1960 à 1994 ;
+
 SA SNPLF/SA Borden France/ Lambiotte SA/Enseigne Mydrin Lambiotte/Bostik SA/Usines Lambiotte/TRL, 58700 Prémery, de 1972 à 1994 ;
 
 SA ZF Masson, 5, rue Henri-Cavallier, 89107 Saint-Denis-les-Sens : de 1948 à 1993 ;
@@ -568,7 +570,7 @@ Franche-Comté
 
 Allied Signal, 25790 Les Gras : de 1976 à 1993 ;
 
-ALSTHOM puis ALSTHOM ATLANTIQUE puis ALSTHOM, 3 avenue des Trois-Chênes, 90018 Belfort : de 1960 à 1985 ;
+ALSTHOM, puis ALSTHOM ATLANTIQUE, UNELEC, CGEE ALSTHOM, puis ALSTHOM, 3, avenue des Trois-Chênes, 90018 Belfort, de 1960 à 1985 ;
 
 Bendix, zone industrielle, 39150 Saint-Pierre-en-Grandvaux : de 1980 à 1985 ;
 
@@ -936,7 +938,7 @@ Axter, 60460 Précy-sur-Oise : de 1951 à 1979 ;
 
 BASF Peintures et encres (BASF Coating SA et BASF Systèmes d'impression) , zone industrielle, Brieul-le-Sec, 60600 Clermont : de 1974 à 1992 ;
 
-Bosch systèmes de freinage, 82-84, rue du Pont-d'Arcole, 60000 Beauvais : de 1966 à 1985, 44, route nationale, 02190 Juvincourt, de 1972 à 1996 ;
+Bosch systèmes de freinage, 44, route nationale, 02190 Juvincourt, de 1972 à 1996 ;
 
 Bostik Findley, BP 60209, route de Bailly, 60772 Ribecourt Cedex, de 1962 à 1989 ;
 
@@ -965,6 +967,8 @@ Inmont, Saint-Just-en-Chaussée : de 1970 à 1974 ;
 Isotherma, 4, rue du Moulin, 60001 Goincourt : de 1962 à 1999 ;
 
 Levis SA peintures techniques, Akzo Coatings SA, rue Jeanne-d'Arc, 60540 Bornel, de 1970 à 1990 ;
+
+LOCKEED, DBA, 82-84, rue du Pont-d'Arcole, 60000 Beauvais, de 1966 à 1985 ;
 
 MANUFACTURE DES GLACES ET PRODUITS CHIMIQUES DE SAINT-GOBAIN CHAUNY et CIREY puis PECHINEY SAINT-GOBAIN puis RHONE PROGIL puis RHONE POULENC INDUSTRIES puis CHLOE CHIMIE et RHONE POULENC puis ATOCHEM et CHARBONNAGES DE France CHIMIE puis RHODIA, 2, rue de Soissons, 02300 Chauny : De 1944 à 1996 ;
 

@@ -573,6 +573,7 @@
 - [Décret n°2008-1386 du 19 décembre 2008 (MENH0817629D)](decret-n2008-1386-du-19-decembre-2008-menh0817629d)
 - [Décret n°2008-1392 du 19 décembre 2008 (MCCT0817497D)](decret-n2008-1392-du-19-decembre-2008-mcct0817497d)
 - [Décret n°2008-1406 du 19 décembre 2008 (AGRS0824169D)](decret-n2008-1406-du-19-decembre-2008-agrs0824169d)
+- [Décret n°2009-1256 du 19 octobre 2009 (ECER0921301D)](decret-n2009-1256-du-19-octobre-2009-ecer0921301d)
 - [Décret n°2009-205 du 19 février 2009 (ECEI0821018D)](decret-n2009-205-du-19-fevrier-2009-ecei0821018d)
 - [Décret n°2009-206 du 19 février 2009 (MTSA0903299D)](decret-n2009-206-du-19-fevrier-2009-mtsa0903299d)
 - [Décret n°2009-207 du 19 février 2009 (ESRS0901572D)](decret-n2009-207-du-19-fevrier-2009-esrs0901572d)
