@@ -345,7 +345,6 @@
 - [Décret n°2001-251 du 22 mars 2001 (EQUS0100055D)](decret-n2001-251-du-22-mars-2001-equs0100055d)
 - [Décret n°2001-961 du 22 octobre 2001 (AGRE0101496D)](decret-n2001-961-du-22-octobre-2001-agre0101496d)
 - [Décret n°2001-973 du 22 octobre 2001 (PRMG0170650D)](decret-n2001-973-du-22-octobre-2001-prmg0170650d)
-- [Décret du 23 novembre 2001 (AGRP0100669D)](decret-du-23-novembre-2001-agrp0100669d)
 - [Décret du 23 novembre 2001 (AGRP0100673D)](decret-du-23-novembre-2001-agrp0100673d)
 - [Décret du 23 octobre 2001 (AGRP0100346D)](decret-du-23-octobre-2001-agrp0100346d)
 - [Décret du 23 octobre 2001 (AGRS0101938D)](decret-du-23-octobre-2001-agrs0101938d)
