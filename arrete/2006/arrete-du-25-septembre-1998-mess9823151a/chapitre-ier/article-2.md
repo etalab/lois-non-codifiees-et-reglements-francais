@@ -1,6 +1,6 @@
 # Article 2
 
-Il est institué auprès du ministre chargé de la sécurité sociale une commission chargée d'arrêter, chaque année, la liste d'aptitude. Cette commission comprend des membres titulaires et un nombre égal de membres suppléants. Sauf décision expresse du président de la commission, les membres suppléants ne siègent aux réunions de la commission que lorsqu'ils remplacent des membres titulaires. Ils n'ont voix délibérative qu'en cette dernière hypothèse.
+La commission prévue au troisième alinéa de l'article R. 123-46 comprend des membres titulaires et un nombre égal de membres suppléants. Sauf décision expresse du président de la commission, les membres suppléants ne siègent aux réunions de la commission que lorsqu'ils remplacent des membres titulaires. Ils n'ont voix délibérative qu'en cette dernière hypothèse.
 
 La composition de la commission est la suivante :
 
@@ -42,9 +42,9 @@ a) Un représentant des anciens élèves de l'Ecole nationale supérieure de sé
 
 b) Cinq représentants des agents de direction des organismes de sécurité sociale du régime général, désignés par les organisations syndicales de salariés interprofessionnelles représentatives au plan national ;
 
-c)  Un représentant des agents de direction relevant de la convention collective du régime social des indépendants, élu ;
+c) Un représentant des agents de direction relevant de la convention collective du régime social des indépendants, élu ;
 
-d) Un représentant des agents de direction des unions régionales [UR] et des sociétés de secours minières (SSM) (1), désigné par l'organisation syndicale la plus représentative au plan national au sein du régime minier .
+d) Un représentant des agents de direction des caisses régionales de sécurité sociale dans les mines (1), désigné par l'organisation syndicale la plus représentative au plan national au sein du régime minier .
 
 Un arrêté du ministre chargé de la sécurité sociale fixe les modalités de l'élection des représentants des agents de direction visés au 4° (c) du présent article.
 

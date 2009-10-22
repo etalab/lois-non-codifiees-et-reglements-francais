@@ -1,39 +1,25 @@
 # Article Annexe
 
-LISTE DES DIPLOMES D'ETUDES SUPERIEURES EXIGES EN APPLICATION DE L'ARTICLE 14 (2o) DE L'ARRETE DU 25 SEPTEMBRE 1998
+LISTE DES DIPLOMES D'ETUDES SUPERIEURES EXIGES EN APPLICATION DE L'ARTICLE 14 (2°) DE L'ARRETE DU 25 SEPTEMBRE
 
-(Loi du 10 juillet 1934 relative à la délivrance du titre d'ingénieur diplômé, loi no 84-52 du 26 janvier 1984 sur l'enseignement supérieur, décrets nos 75-392 et 75-393 du 16 mai 1975 relatifs au titre d'ingénieur diplômé par l'Etat et arrêté du 20 janvier 1993 relatif au DEUG sciences et aux licences et maîtrises du secteur science.)
+1. Titre d'ingénieur diplômé par l'Etat.
 
-Diplômes d'ingénieur délivrés par les écoles figurant sur la liste des écoles habilitées à délivrer le titre d'ingénieur diplômé.
+2. Diplômes d'ingénieur délivrés par les écoles figurant sur la liste des écoles habilitées à délivrer le titre d'ingénieur diplômé (arrêtés du ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche).
 
-Titre d'ingénieur diplômé par l'Etat.
+3. Diplômes de niveau I (ou I ou I / II si l'obtention est antérieure à 2002) référencés au code spécifique du répertoire national des certifications professionnelles (et à son actualisation éventuelle ultérieure), à savoir :
 
-Maîtrise de mathématiques.
+Code NSF 326-Informatique, traitement de l'information, réseaux de transmission.
 
-Maîtrise de mathématiques, mention Ingénierie mathématique.
+326m : informatique, traitement de l'information.
 
-Maîtrise de mathématiques appliquées et sciences sociales (MASS).
+326n : analyse informatique, conception d'architecture de réseaux.
 
-Maîtrise d'informatique.
+326p : informatique, traitement de l'information (organisation, gestion).
 
-Maîtrise de méthodes informatiques appliquées à la gestion (MIAGE).
+326r : assistance informatique, maintenance de logiciel et réseaux.
 
-Maîtrise IUP Génie mathématique et informatique.
+326t : programmation, mise en place de logiciels.
 
-Maîtrise IUP Génie électrique et informatique industrielle.
+326u : exploitation informatique.
 
-MST Mathématiques appliquées aux finances.
-
-MST Expert en systèmes informatiques (universités Grenoble-I et Paris-VI).
-
-MST Informatique et statistique appliquées aux sciences de l'homme.
-
-MST Modèles mathématiques de l'économie et de la finance internationale.
-
-MST Systèmes de productions informatisées.
-
-MST Informatique et télécommunication.
-
-MST Robotique, électronique, communication.
-
-MST Génie électrique et informatique industrielle.
+326w : informatique commercialisation.

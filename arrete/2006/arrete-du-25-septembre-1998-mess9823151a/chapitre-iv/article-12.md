@@ -4,11 +4,9 @@ Pour pouvoir être inscrit sur la liste d'aptitude, le candidat doit justifier o
 
 1° Régime général de la sécurité sociale : cadre de niveau 7 ;
 
-2° Régime social des indépendants : cadre de niveau III, catégorie B, relevant de la convention collective nationale du régime d'assurance vieillesse des travailleurs non salariés des professions industrielles et commerciales, cadre administratif de niveau I et responsable technique de niveau I relevant de la convention collective nationale du régime d'assurance vieillesse des travailleurs non salariés des professions artisanales ou cadre niveau E relevant de la convention collective nationale du régime d'assurance maladie et maternité des travailleurs non salariés des professions non agricoles.
+2° Régime social des indépendants : cadre de niveau VI relevant de la convention collective des employés et cadres du régime social des indépendants, ou antérieurement de cadre de niveau III, catégorie B, relevant de la convention collective nationale du régime d'assurance vieillesse des travailleurs non salariés des professions industrielles et commerciales, cadre administratif de niveau I et responsable technique de niveau I relevant de la convention collective nationale du régime d'assurance vieillesse des travailleurs non salariés des professions artisanales ou cadre niveau E relevant de la convention collective nationale du régime d'assurance maladie et maternité des travailleurs non salariés des professions non agricoles.
 
 3° Régime de sécurité sociale dans les mines : agent titulaire de catégorie A pour la Caisse autonome nationale et chef de service pour les organismes locaux.
-
-4° CAVIMAC : cadre de niveau III. catégorie B.
 
 Par dérogation aux dispositions du 3° de l'alinéa qui précède, peut également être inscrit sur la liste d'aptitude le cadre, comptable niveau 2, en fonction dans un organisme de sécurité sociale dans les mines, sous réserve qu'il ait obtenu le certificat d'études spécialisées de comptabilité et d'analyse financière délivré par l'EN3S et qu'il assure, depuis quatre ans au moins, l'intérim d'un emploi d'agent comptable ou d'agent comptable adjoint.
 
