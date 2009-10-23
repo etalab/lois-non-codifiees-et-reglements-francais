@@ -3,5 +3,3 @@
 - [Titre Ier : Dispositions générales.](titre-ier)
 - [Titre II : Dispositions relatives à la contribution au développement de la production d'oeuvres cinématographiques.](titre-ii)
 - [Titre III : Dispositions relatives à la contribution au développement de la production d'oeuvres audiovisuelles.](titre-iii)
-- [Titre IV : Dispositions transitoires et finales.](titre-iv)
-- [Article 15](article-15.md)
