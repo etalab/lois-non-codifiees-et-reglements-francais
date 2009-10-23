@@ -3,3 +3,4 @@
 - [Dispositions générales applicables aux vins, aux vins mousseux et eaux-de-vie.](dispositions-generales-applicables-aux)
 - [Eaux-de-vie.](eaux-de-vie)
 - [Vins.](vins)
+- [Vins mousseux.](vins-mousseux)
