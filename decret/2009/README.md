@@ -570,6 +570,7 @@
 - [Décret n°2009-731 du 18 juin 2009 (BCFD0902774D)](decret-n2009-731-du-18-juin-2009-bcfd0902774d)
 - [Décret n°93-1244 du 18 novembre 1993 (COMK9300004D)](decret-n93-1244-du-18-novembre-1993-comk9300004d)
 - [Décret n°2009-550 du 18 mai 2009 (DEVO0825365D)](decret-n2009-550-du-18-mai-2009-devo0825365d)
+- [Décret du 19 août 1921](decret-du-19-aout-1921)
 - [Décret n°2007-1792 du 19 décembre 2007 (AGRS0764728D)](decret-n2007-1792-du-19-decembre-2007-agrs0764728d)
 - [Décret n°2008-1386 du 19 décembre 2008 (MENH0817629D)](decret-n2008-1386-du-19-decembre-2008-menh0817629d)
 - [Décret n°2008-1392 du 19 décembre 2008 (MCCT0817497D)](decret-n2008-1392-du-19-decembre-2008-mcct0817497d)
