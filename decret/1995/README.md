@@ -266,7 +266,6 @@
 - [Décret n°95-902 du 8 août 1995 (AGRS9501182D)](decret-n95-902-du-8-aout-1995-agrs9501182d)
 - [Décret n°95-912 du 8 août 1995 (EQUH9501120D)](decret-n95-912-du-8-aout-1995-equh9501120d)
 - [Décret du 9 octobre 1995 (ECOC9500125D)](decret-du-9-octobre-1995-ecoc9500125d)
-- [Décret du 9 octobre 1995 (ECOC9510107D)](decret-du-9-octobre-1995-ecoc9510107d)
 - [Décret n°92-216 du 9 mars 1992 (MENZ9102856D)](decret-n92-216-du-9-mars-1992-menz9102856d)
 - [Décret n°95-1087 du 9 octobre 1995 (AGRA9501672D)](decret-n95-1087-du-9-octobre-1995-agra9501672d)
 - [Décret n°95-1088 du 9 octobre 1995 (AGRA9501673D)](decret-n95-1088-du-9-octobre-1995-agra9501673d)

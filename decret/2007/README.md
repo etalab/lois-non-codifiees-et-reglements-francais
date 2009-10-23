@@ -1089,7 +1089,6 @@
 - [Décret n°57-811 du 22 juillet 1957](decret-n57-811-du-22-juillet-1957)
 - [Décret n°89-1018 du 22 décembre 1989 (MERP8900039D)](decret-n89-1018-du-22-decembre-1989-merp8900039d)
 - [Décret du 23 décembre 2006 (INDI0609292D)](decret-du-23-decembre-2006-indi0609292d)
-- [Décret du 23 mars 2007 (AGRP0700353D)](decret-du-23-mars-2007-agrp0700353d)
 - [Décret n° 2007-243 du 23 février 2007 (ECOT0651075D)](decret-n-2007-243-du-23-fevrier-2007-ecot0651075d)
 - [Décret n° 2007-244 du 23 février 2007 (EQUA0700001D)](decret-n-2007-244-du-23-fevrier-2007-equa0700001d)
 - [Décret n° 2007-245 du 23 février 2007 (SANP0621232D)](decret-n-2007-245-du-23-fevrier-2007-sanp0621232d)
