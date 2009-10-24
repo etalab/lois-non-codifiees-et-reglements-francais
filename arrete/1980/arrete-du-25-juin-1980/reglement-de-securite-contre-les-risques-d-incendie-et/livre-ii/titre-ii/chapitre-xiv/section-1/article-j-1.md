@@ -18,4 +18,4 @@ Ces établissements sont les suivants :
 
 - les établissements qui assurent l'hébergement des adultes handicapés.
 
-Les locaux des centres d'aide par le travail (CAT) ainsi que les ateliers protégés ne relèvent que du seul code du travail en ce qui concerne la sécurité incendie.
+Les locaux des entreprises adaptées et centres de distribution du travail à domicile ne relèvent que du seul code du travail en ce qui concerne la sécurité incendie.
