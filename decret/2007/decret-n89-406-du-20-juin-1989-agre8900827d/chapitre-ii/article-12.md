@@ -1,11 +1,9 @@
 # Article 12
 
-Les concours d'accès à la 2e catégorie sont organisés par sections qui peuvent comprendre des options dans des conditions fixées par un arrêté du ministre chargé de l'agriculture et de la forêt.
+Les concours d'accès à la deuxième catégorie sont organisés par sections qui peuvent comprendre des options dans des conditions fixées par un arrêté du ministre chargé de l'agriculture.
 
-1. Le concours externe est ouvert :
+1° Le concours externe est ouvert aux candidats qui satisfont à l'une des conditions permettant de se présenter aux concours externes d'accès au corps des professeurs certifiés de l'enseignement agricole.
 
-- d'une part, aux candidats qui possèdent soit l'un des titres, diplômes ou qualités énumérés au 1° de l'annexe IV du livre VIII du code rural susmentionnée, soit l'un des titres, diplômes ou qualifications requis des candidats aux concours externes d'accès au corps des professeurs certifiés de l'enseignement agricole ;
+2° Le concours interne est ouvert aux candidats qui satisfont à l'une des conditions de titres, diplômes ou qualifications permettant de se présenter aux concours internes d'accès au corps des professeurs certifiés de l'enseignement agricole ou qui ont eu la qualité de cadre au sens de la convention collective du travail dont ils relèvent ou relevaient et justifient de cinq années de pratique professionnelle effectuées en cette qualité de cadre, et qui ont accompli trois années de services d'enseignement pour au moins un demi-service en qualité de contractuels de l'Etat dans un établissement d'enseignement agricole privé.
 
-- d'autre part, aux candidats qui ont ou qui ont eu la qualité de cadre au sens de la convention collective du travail dont ils relèvent ou relevaient, dès lors qu'ils justifient de cinq années d'activité professionnelle effectuées en leur qualité de cadre dans une entreprise de l'un des Etats de la Communauté européenne.
-
-2. Le concours interne est ouvert aux candidats qui soit possèdent l'un des titres, diplômes ou qualités énumérés au 1° de l'annexe IV du livre VIII du code rural susmentionnée, soit remplissent les conditions de titres, diplômes ou qualifications fixées pour les concours internes d'accès au corps des professeurs certifiés de l'enseignement agricole et ont accompli trois années de services d'enseignement pour au moins un demi-service en qualité de contractuels de l'Etat dans un établissement d'enseignement agricole privé.
+3° Le troisième concours est ouvert aux candidats justifiant de l'exercice, pendant une durée de cinq ans au moins, d'une ou de plusieurs activités mentionnées au 3° de l'article 19 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat.

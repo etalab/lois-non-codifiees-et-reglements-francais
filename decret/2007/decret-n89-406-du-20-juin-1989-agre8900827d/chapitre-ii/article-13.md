@@ -1,13 +1,9 @@
 # Article 13
 
-Les concours d'accès à la 4e catégorie sont organisés par sections, qui peuvent comprendre des options, dans des conditions fixées par un arrêté du ministre chargé de l'agriculture.
+Les concours d'accès à la quatrième catégorie sont organisés par sections qui peuvent comprendre des options dans des conditions fixées par un arrêté du ministre chargé de l'agriculture.
 
-1. Le concours externe est ouvert :
+1° Le concours externe est ouvert aux candidats qui satisfont à l'une des conditions permettant de se présenter aux concours externes d'accès au corps des professeurs de lycée professionnel agricole.
 
-- d'une part, aux candidats qui possèdent soit l'un des titres, diplômes ou qualités énumérés au 1° de l'annexe IV du livre VIII du code rural susmentionnée, soit l'un des titres, diplômes ou qualifications requis des candidats aux concours externes d'accès au corps des professeurs de lycée professionnel agricole ;
+2° Le concours interne est ouvert aux candidats qui satisfont à l'une des conditions de titres, diplômes ou qualifications et de pratique professionnelle ou d'enseignement d'une telle pratique permettant de se présenter aux concours internes d'accès au corps des professeurs de lycée professionnel agricole ou qui ont eu la qualité de cadre au sens de la convention collective du travail dont ils relèvent ou relevaient et justifient de cinq années de pratique professionnelle effectuées en cette qualité de cadre, et qui ont accompli trois années de services d'enseignement pour au moins un demi-service en qualité de contractuels de l'Etat dans un établissement d'enseignement agricole privé.
 
-- d'autre part, aux candidats qui ont ou qui ont eu la qualité de cadre au sens de la convention collective du travail dont ils relèvent ou relevaient, dès lors qu'ils justifient de cinq années d'activité professionnelle effectuées en leur qualité de cadre dans une entreprise de l'un des Etats de la Communauté européenne.
-
-Peuvent également se présenter au concours externe, dans les spécialités professionnelles définies par arrêté du ministre chargé de l'agriculture, et notamment celles pour lesquelles il n'existe ni licence ni titre ou diplôme équivalent sanctionnant au moins trois années d'études après le baccalauréat et délivré par un établissement d'enseignement ou une école habilitée par la commission des titres d'ingénieur, les candidats justifiant de cinq années de pratique professionnelle et possédant l'un des titres, diplômes ou qualités énumérés à l'annexe IV (2°) du livre VIII du code rural susmentionnée.
-
-2. Le concours interne est ouvert aux candidats qui possèdent l'un des titres, diplômes ou qualités énumérés au 2° de l'annexe IV du livre VIII du code rural susmentionnée et qui ont accompli trois années de services d'enseignement pour au moins un demi-service en qualité de contractuels de l'Etat dans un établissement d'enseignement agricole privé.
+3° Le troisième concours est ouvert aux candidats justifiant de l'exercice, pendant une durée de cinq ans au moins, d'une ou de plusieurs activités mentionnées au 3° de l'article 19 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat.

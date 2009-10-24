@@ -10,15 +10,19 @@ Sont également reclassés prioritairement dans une autre discipline les personn
 
 2° Les candidatures des personnels enseignants et de documentation titulaires d'un contrat définitif candidats à un changement d'établissement et des fonctionnaires détachés ;
 
-3° Les candidatures des lauréats de l'un ou l'autre des concours suivants :
+3° Les candidatures des lauréats de l'un des concours suivants :
 
 - externe de l'enseignement agricole privé ayant obtenu la qualification pédagogique et devant changer d'établissement pour bénéficier d'un contrat définitif ;
 
 - interne de l'enseignement agricole privé ayant obtenu la qualification pédagogique et devant changer d'établissement pour bénéficier d'un contrat définitif dans une nouvelle catégorie ou discipline ;
 
+- troisième concours de l'enseignement agricole privé ayant obtenu la qualification pédagogique et devant changer d'établissement pour bénéficier d'un contrat définitif ;
+
 - externe de l'enseignement agricole privé devant obtenir la qualification pédagogique ;
 
-- interne de l'enseignement agricole privé devant obtenir la qualification pédagogique.
+- interne de l'enseignement agricole privé devant obtenir la qualification pédagogique ;
+
+- troisième concours de l'enseignement agricole privé devant obtenir la qualification pédagogique.
 
 A l'issue de l'examen des candidatures mentionnées aux 1°, 2° et 3°, la commission consultative mixte établit la liste des candidats n'ayant pas pu bénéficier d'une proposition d'affectation. Cette liste est diffusée auprès de l'ensemble des chefs d'établissement qui peuvent formuler dans un délai de quatre semaines une nouvelle proposition au ministre chargé de l'agriculture sur les emplois restant à pourvoir.
 
