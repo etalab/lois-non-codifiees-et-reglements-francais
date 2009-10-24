@@ -1,3 +1,0 @@
-# LISTE DES CATÉGORIES D'ANIMAUX FAMILIERS ADMISES À LA CRÉMATION.
-
-- [Article ANNEXE](article-annexe.md)
