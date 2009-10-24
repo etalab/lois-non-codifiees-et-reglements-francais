@@ -16,9 +16,17 @@ a) Pour les pilotes qui ont effectué 9 années de service, dont 5 ans d'affecta
 
 -chef du secteur entraînement et contrôle ;
 
--chef de base régionale ;
+- chef interbases de la zone de défense Est ;
 
--adjoint au chef de base régionale.
+- chef interbases de la zone de défense Sud-Est ;
+
+- chef interbases de la zone de défense Ouest ;
+
+- chef interbases de la zone de défense Sud-Ouest ;
+
+- chef interbases de la zone de défense Sud ;
+
+- adjoint au chef interbases de la zone de défense Sud.
 
 b) Pour les pilotes titulaires de la qualification d'instructeur pilote professionnel d'hélicoptères délivrée par la direction générale de l'aviation civile (DGAC) qui ont exercé pendant 2 ans les fonctions d'instructeur missions opérationnelles :
 
@@ -40,6 +48,10 @@ f) Pour les pilotes titulaires de la qualification d'instructeur pilote professi
 
 -instructeur qualification de type au centre de formation.
 
+g) Pour les pilotes qui ont effectué cinq années de service, dont deux ans d'affectation en base :
+
+- adjoint au chef des moyens opérationnels.
+
 II.-Pour les mécaniciens opérateurs de bord :
 
 a) Pour les mécaniciens opérateurs de bord qui ont effectué 5 années de service et ayant effectué 250 heures de vol à la sécurité civile :
@@ -60,6 +72,16 @@ d) Pour les mécaniciens opérateurs de bord qui ont effectué 1 année de servi
 
 -contrôleur technique en vol.
 
-III.-Pour les pilotes d'hélicoptères et les mécaniciens opérateurs de bord qui ont effectué 9 années de service, dont 5 ans d'affectation en base :
+e) Pour les mécaniciens opérateurs de bord qui ont effectué trois années de service comme contrôleur technique en vol :
 
--chef des moyens techniques.
+- chef du bureau contrôle.
+
+III. -a) Pour les pilotes d'hélicoptères et les mécaniciens opérateurs de bord qui ont effectué cinq années de service au GHSC :
+
+- chef du soutien en ligne.
+
+b) Pour les pilotes d'hélicoptères et les mécaniciens opérateurs de bord qui ont effectué cinq années de service, dont deux ans d'affectation en base :
+
+- adjoint au chef du personnel navigant ;
+
+- adjoint à l'officier de sécurité aérienne.
