@@ -22,17 +22,13 @@ Paris-Beyrouth (Liban) ;
 
 Paris-Saint-Louis (Sénégal).
 
-Jusqu'au 30 juin 2009 :
-
-Paris-La Havane (Cuba) ;
-
-Paris-Mahé (Seychelles).
-
 Jusqu'au 30 novembre 2009 :
 
 Paris-Fortaleza (Brésil) ;
 
 Paris-Salvador de Bahia (Brésil) ;
+
+Paris-La Havane (Cuba) ;
 
 Paris-Malé (Maldives) ;
 
@@ -40,7 +36,9 @@ Paris-La Romana (République dominicaine) ;
 
 Paris-Puerto Plata (République dominicaine) ;
 
-Paris-Punta Cana (République dominicaine).
+Paris-Punta Cana (République dominicaine) ;
+
+Paris-Mahé (République des Seychelles).
 
 Jusqu'au 30 avril 2012 :
 
