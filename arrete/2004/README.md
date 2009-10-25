@@ -554,7 +554,6 @@
 - [Arrêté du 19 mars 2004 (ECOT0451227A)](arrete-du-19-mars-2004-ecot0451227a)
 - [Arrêté du 19 mars 2004 (INDI0301777A)](arrete-du-19-mars-2004-indi0301777a)
 - [Arrêté du 19 novembre 2004 (AGRP0402478A)](arrete-du-19-novembre-2004-agrp0402478a)
-- [Arrêté du 19 novembre 2004 (DEFP0401290A)](arrete-du-19-novembre-2004-defp0401290a)
 - [Arrêté du 19 novembre 2004 (ECOP0400959A)](arrete-du-19-novembre-2004-ecop0400959a)
 - [Arrêté du 19 novembre 2004 (JUSG0460099A)](arrete-du-19-novembre-2004-jusg0460099a)
 - [Arrêté du 19 novembre 2004 (SANY0423939A)](arrete-du-19-novembre-2004-sany0423939a)
