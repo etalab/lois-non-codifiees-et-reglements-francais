@@ -4,7 +4,7 @@ Le dossier de demande de licence doit permettre d'établir que le demandeur poss
 
 A cet effet, le dossier doit comprendre :
 
-- un document général de présentation de l'entreprise ;
+- un document général de présentation de l'entreprise et, si le demandeur fait partie d'un groupe d'entreprises, des informations sur les relations entre celles-ci ;
 
 - un document décrivant l'organisation et le fonctionnement interne de l'entreprise ;
 

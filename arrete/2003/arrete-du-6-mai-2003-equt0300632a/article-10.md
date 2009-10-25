@@ -2,7 +2,7 @@
 
 Il est rappelé qu'aux termes du II de l'article 12 du décret du 7 mars 2003 susvisé une nouvelle demande de licence doit être présentée :
 
-1. En cas de modification affectant la situation juridique du titulaire de la licence, notamment en cas de fusion ou de prise de contrôle ; le titulaire peut alors poursuivre ses activités pendant l'instruction de sa demande, à moins que le ministre chargé des transports ne s'y oppose, par décision motivée, pour des raisons de sécurité ;
+1. En cas de modification affectant la situation juridique du titulaire de la licence, notamment en cas de fusion ou de prise de contrôle ; le titulaire peut alors poursuivre ses activités pendant l'instruction de sa demande ;
 
 2. Lorsque le titulaire de la licence a interrompu ses activités pendant au moins six mois ou ne les a pas commencées six mois après la délivrance de la licence ; toutefois, lorsque le titulaire de la licence est une entreprise nouvelle, un délai plus long peut lui être accordé compte tenu de la spécificité des services en cause ;
 
@@ -10,7 +10,7 @@ Il est rappelé qu'aux termes du II de l'article 12 du décret du 7 mars 2003 su
 
 Il appartient au titulaire d'une licence d'informer sans délai le ministre chargé des transports de toute modification ou événement entrant dans les cas décrits ci-dessus.
 
-A défaut de cette information, ou s'il constate que la sécurité est compromise, le ministre notifie au titulaire de la licence que celle-ci n'est plus valide et que son retrait sera prononcé.
+A défaut de cette information, le ministre notifie au titulaire de la licence que celle-ci n'est plus valide et que son retrait sera prononcé.
 
 La décision de retrait de la licence est prise par arrêté du ministre chargé des transports, publié au Journal officiel de la République française.
 

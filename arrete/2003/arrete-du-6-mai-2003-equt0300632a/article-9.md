@@ -12,17 +12,9 @@ Il est rappelé qu'aux termes du I de l'article 12 du décret du 7 mars 2003 sus
 
 L'arrêté portant retrait de la licence est publié au Journal officiel de la République française.
 
-2. En cas de manquement mettant en cause la sécurité, la licence peut faire l'objet, de la part du ministre chargé des transports, d'une mesure de suspension immédiate d'une durée maximale de trois mois.
+2. Afin de justifier du respect des obligations mentionnées à l'article 7 du décret du 7 mars 2003 susvisé, le titulaire de la licence établit chaque année un plan de trésorerie qui est tenu à disposition du ministre, avec les comptes et bilans annuels les plus récents.
 
-Dans ce cas, le ministre notifie au titulaire de la licence que celle-ci est suspendue et qu'il lui est interdit, pour une durée qui ne peut être supérieure à trois mois, de continuer à assurer les services de transport pour lesquels il a obtenu cette licence. Il invite également le titulaire de la licence à lui indiquer, dans un délai de quinze jours, les mesures qu'il compte mettre en oeuvre pour remédier au manquement constaté et le délai nécessaire à leur mise en oeuvre.
-
-Si le ministre estime que ces mesures sont suffisantes et que leur mise en oeuvre pourra être effectuée dans un délai inférieur à la période pendant laquelle la licence est suspendue, il indique au titulaire de la licence la date à partir de laquelle la mesure de suspension pourra être levée.
-
-Dans le cas contraire, le ministre notifie au titulaire de la licence que celle-ci sera retirée à l'issue de la période pendant laquelle elle est suspendue.
-
-Les arrêtés portant suspension, levée de la suspension ou retrait de la licence sont publiés au Journal officiel de la République française.
-
-3. Dans le cas où le manquement constaté porte uniquement sur les obligations mentionnées à l'article 7 du décret du 7 mars 2003 susvisé et ne met pas en cause la sécurité, le ministre met en demeure le titulaire de la licence de régulariser sa situation financière dans un délai de six mois au plus.
+3. Dans le cas où le manquement constaté porte uniquement sur les obligations mentionnées à l'article 7 du décret du 7 mars 2003 susvisé, le ministre met en demeure le titulaire de la licence de régulariser sa situation financière dans un délai de six mois au plus.
 
 Si, à l'expiration de cette période, il apparaît que le titulaire de la licence n'a pas régularisé sa situation financière, le ministre chargé des transports prononce le retrait de la licence.
 
