@@ -6,7 +6,7 @@ La DNRED est chargée de mettre en oeuvre la politique du renseignement, des con
 
 - un service chargé du suivi des dossiers contentieux ;
 
-- une agence de poursuite et de recouvrement chargée de représenter la direction générale des douanes et droits indirects en première instance et en appel devant les juridictions situées dans le ressort de la direction interrégionale de Paris et, en tant que de besoin, devant les autres juridictions, de prendre toutes mesures conservatoires et d'exercer toutes voies d'exécution pour le compte de la direction générale des douanes et droits indirects et de faire procéder aux dépenses et aux recouvrements relatifs à ces procédures ;
+- une agence de poursuite chargée de représenter la direction générale des douanes et droits indirects en première instance et en appel devant les juridictions situées dans le ressort de la direction interrégionale de Paris et, en tant que de besoin, devant les autres juridictions ;
 
 - une recette dirigée par un chef de service comptable ;
 
