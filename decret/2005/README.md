@@ -99,7 +99,6 @@
 - [Décret n°2005-555 du 26 mai 2005 (INTE0500097D)](decret-n2005-555-du-26-mai-2005-inte0500097d)
 - [Décret n°2005-1669 du 27 décembre 2005 (BUDR0504242D)](decret-n2005-1669-du-27-decembre-2005-budr0504242d)
 - [Décret n°96-1028 du 27 novembre 1996 (DOMX9600104D)](decret-n96-1028-du-27-novembre-1996-domx9600104d)
-- [Décret du 27 mai 2005 (AGRP0500985D)](decret-du-27-mai-2005-agrp0500985d)
 - [Décret n° 2005-556 du 27 mai 2005 (INTD0500133D)](decret-n-2005-556-du-27-mai-2005-intd0500133d)
 - [Décret n° 2005-571 du 27 mai 2005 (FPPA0510003D)](decret-n-2005-571-du-27-mai-2005-fppa0510003d)
 - [Décret n°2005-600 du 27 mai 2005 (MAEC0500008D)](decret-n2005-600-du-27-mai-2005-maec0500008d)
