@@ -612,7 +612,6 @@
 - [Décret n°99-439 du 25 mai 1999 (EQUH9900541D)](decret-n99-439-du-25-mai-1999-equh9900541d)
 - [Décret n°99-442 du 25 mai 1999 (INTA9900091D)](decret-n99-442-du-25-mai-1999-inta9900091d)
 - [Décret n°2000-450 du 25 mai 2000 (MENX0000030D)](decret-n2000-450-du-25-mai-2000-menx0000030d)
-- [Décret du 26 février 1999 (ECOC9800181D)](decret-du-26-fevrier-1999-ecoc9800181d)
 - [Décret n°99-131 du 26 février 1999 (JUSC9920116D)](decret-n99-131-du-26-fevrier-1999-jusc9920116d)
 - [Décret n°99-132 du 26 février 1999 (DEFD9901029D)](decret-n99-132-du-26-fevrier-1999-defd9901029d)
 - [Décret n°99-237 du 26 mars 1999 (MESS9920420D)](decret-n99-237-du-26-mars-1999-mess9920420d)

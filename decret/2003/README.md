@@ -170,7 +170,6 @@
 - [Décret n°2003-423 du 9 mai 2003 (PRMX0306614D)](decret-n2003-423-du-9-mai-2003-prmx0306614d)
 - [Décret n°2003-425 du 9 mai 2003 (EQUX0300030D)](decret-n2003-425-du-9-mai-2003-equx0300030d)
 - [Décret n°2003-426 du 9 mai 2003 (EQUX0300031D)](decret-n2003-426-du-9-mai-2003-equx0300031d)
-- [Décret du 10 janvier 2003 (AGRP0202199D)](decret-du-10-janvier-2003-agrp0202199d)
 - [Décret du 10 octobre 2003 (AGRP0301753D)](decret-du-10-octobre-2003-agrp0301753d)
 - [Décret n°2003-1078 du 10 novembre 2003 (MENS0302141D)](decret-n2003-1078-du-10-novembre-2003-mens0302141d)
 - [Décret n°2003-1079 du 10 novembre 2003 (MENF0301909D)](decret-n2003-1079-du-10-novembre-2003-menf0301909d)
