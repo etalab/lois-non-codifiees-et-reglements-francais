@@ -841,7 +841,6 @@
 - [Décret n°2007-563 du 16 avril 2007 (INDI0700371D)](decret-n2007-563-du-16-avril-2007-indi0700371d)
 - [Décret n°2007-564 du 16 avril 2007 (SANS0721528D)](decret-n2007-564-du-16-avril-2007-sans0721528d)
 - [Décret n°2007-565 du 16 avril 2007 (SANS0721012D)](decret-n2007-565-du-16-avril-2007-sans0721012d)
-- [Décret n°2007-61 du 16 janvier 2007 (ECOM0620017D)](decret-n2007-61-du-16-janvier-2007-ecom0620017d)
 - [Décret n°85-986 du 16 septembre 1985](decret-n85-986-du-16-septembre-1985)
 - [Décret n° 2007-353 du 17 mars 2007 (EQUT0602226D)](decret-n-2007-353-du-17-mars-2007-equt0602226d)
 - [Décret n° 2007-64 du 17 janvier 2007 (MCCX0600191D)](decret-n-2007-64-du-17-janvier-2007-mccx0600191d)
