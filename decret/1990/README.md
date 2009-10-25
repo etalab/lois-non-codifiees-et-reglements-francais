@@ -24,7 +24,6 @@
 - [Décret n°90-899 du 1 octobre 1990 (SPSH9001578D)](decret-n90-899-du-1-octobre-1990-spsh9001578d)
 - [Décret n°90-902 du 1 octobre 1990 (AGRS9000877D)](decret-n90-902-du-1-octobre-1990-agrs9000877d)
 - [Décret n°90-906 du 1 octobre 1990 (LOGC9000079D)](decret-n90-906-du-1-octobre-1990-logc9000079d)
-- [Décret du 2 avril 1990 (ECOC9000029D)](decret-du-2-avril-1990-ecoc9000029d)
 - [Décret n°73-937 du 2 octobre 1973](decret-n73-937-du-2-octobre-1973)
 - [Décret n°90-10 du 2 janvier 1990 (ECOX8900142D)](decret-n90-10-du-2-janvier-1990-ecox8900142d)
 - [Décret n°90-111 du 2 février 1990 (ECOT9020134D)](decret-n90-111-du-2-fevrier-1990-ecot9020134d)

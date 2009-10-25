@@ -1,3 +1,0 @@
-# Article 9
-
-Les vins pour lesquels, aux termes du présent décret, est revendiquée l'appellation d'origine contrôlée "Vinsobres" et qui sont présentés sous ladite appellation ne peuvent être déclarés après la récolte, offerts au public, expédiés, mis en vente ou vendus, sans que dans la déclaration de récolte et de stock, dans les documents d'accompagnement et les documents commerciaux, sur les étiquettes, récipients quelconques et tout support publicitaire, l'appellation d'origine contrôlée susvisée soit inscrite et accompagnée de la mention "Appellation contrôlée", le tout en caractères très apparents.
