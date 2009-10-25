@@ -8,7 +8,7 @@ Dans le cas d'une incapacité de travail entraînant un arrêt de travail, ils b
 
 - soit, en cas d'accident du travail ou de maladie professionnelle, d'un congé pendant toute la période d'incapacité de travail précédant soit la guérison complète, soit la consolidation de la blessure, soit le décès. A l'issue de la période d'indemnisation prévue à l'article L. 424-2 du code de l'aviation civile, ils perçoivent leur rémunération selon les modalités définies dans l'arrêté mentionné au dixième alinéa du présent paragraphe I ;
 
-- soit d'un congé de grave maladie par application de l'article 13 du décret du 17 janvier 1986 susvisé.
+- soit d'un congé de grave maladie selon les modalités fixées par arrêté conjoint du ministre de l'intérieur, du ministre chargé de la fonction publique et du ministre chargé du budget.
 
 Pour les congés mentionnés ci-dessus, un contrôle pourra être effectué à tout moment par un médecin agréé de l'administration. Si les conclusions du médecin agréé donnent lieu à contestation, le comité médical mentionné ci-dessus peut être saisi dans les conditions prévues par la réglementation en vigueur pour les fonctionnaires.
 
@@ -18,7 +18,7 @@ Les personnels navigants contractuels de la base d'avions de la sécurité civil
 
 A l'expiration de tous les droits à congé pour raison de santé dont ils peuvent bénéficier, les agents reconnus définitivement inaptes médicalement par le comité mentionné ci-dessus sont licenciés.
 
-Les dispositions des articles L. 424-1 à L. 424-6 du code de l'aviation civile sont applicables en matière d'incapacité de travail, sous réserve, en ce qui concerne l'article L. 424-2, de mesures d'adaptation fixées par arrêté conjoint des ministres chargés de l'intérieur, de la fonction publique et du budget et sans préjudice des dispositions de l'article 13 du décret du 17 janvier 1986 susvisé.
+Les dispositions des articles L. 424-1 à L. 424-6 du code de l'aviation civile sont applicables en matière d'incapacité de travail, sous réserve, en ce qui concerne l'article L. 424-2, de mesures d'adaptation fixées par arrêté conjoint des ministres chargés de l'intérieur, de la fonction publique et du budget.
 
 Le droit à maintien du salaire mensuel garanti en application de l'article L. 424-1 du code de l'aviation civile s'apprécie, lorsque les périodes d'incapacité de travail sont discontinues, par période de douze mois consécutifs sans qu'il soit tenu compte des périodes de congé maladie qui ont pu être accordées au-delà de la période d'indemnisation prévue à l'article L. 424-1 du code de l'aviation civile.
 
