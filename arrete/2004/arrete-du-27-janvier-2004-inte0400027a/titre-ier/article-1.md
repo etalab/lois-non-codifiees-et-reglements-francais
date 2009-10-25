@@ -34,8 +34,12 @@ d) Pour les pilotes d'avions de classe H telle que définie à l'article 25 du d
 
 - niveaux 3, 4, 5 et 6 : copilote.
 
-II. - Pour les mécaniciens navigants :
+e) Pour les pilotes d'avions de classe D : pilote sur avions de liaison et d'observation sur feux de forêt qui peuvent également assurer les fonctions de copilote sur avions bombardiers d'eau :
 
-- niveau 1 : mécanicien navigant stagiaire de la sécurité civile ;
+- niveau 2 : pilote de liaison et d'observation sur feux de forêt et copilote bombardier d'eau confirmé ;
 
-- niveau 2 : mécanicien navigant confirmé.
+- niveau 3 : pilote de liaison et d'observation sur feux de forêt et copilote bombardier d'eau opérationnel ;
+
+- niveaux 4, 5 et 6 : pilote de liaison et d'observation sur feux de forêt et copilote bombardier d'eau opérationnel expérimenté.
+
+II. Abrogé.

@@ -10,6 +10,4 @@ Les qualifications de bombardement d'eau et d'observation sur feux de forêts pr
 
 Le certificat d'aptitude prévu à l'article 2 ci-dessus est défini dans les consignes permanentes d'entraînement et de contrôle de la base d'avions de la sécurité civile et est délivré par le ministre chargé de l'intérieur.
 
-II. - Pour les mécaniciens navigants :
-
-La qualification de bombardement d'eau prévue à l'article 2 ci-dessus est définie dans les consignes permanentes d'entraînement et de contrôle de la base d'avions de la sécurité civile et est délivrée par le ministre chargé de l'intérieur.
+II. - Abrogé.

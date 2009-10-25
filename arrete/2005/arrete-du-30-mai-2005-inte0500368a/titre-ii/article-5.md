@@ -6,7 +6,7 @@ Recrutement de pilotes :
 
 - le chef du groupement d'hélicoptères de la sécurité civile, en qualité de président ;
 
-- l'adjoint au chef du groupement d'hélicoptères de la sécurité civile ;
+- l'adjoint au chef du groupement d'hélicoptères de la sécurité civile, chargé de l'administration générale ;
 
 - le chef des moyens opérationnels du groupement d'hélicoptères de la sécurité civile ;
 
@@ -14,23 +14,27 @@ Recrutement de pilotes :
 
 - deux chefs de base du groupement d'hélicoptères ;
 
-- l'officier de sécurité aérienne.
+- l'officier de sécurité aérienne ;
+
+- l'adjoint opérationnel au chef du groupement d'hélicoptères de la sécurité civile.
 
 Recrutement de mécaniciens opérateurs de bord :
 
 - le chef du groupement d'hélicoptères de la sécurité civile, en qualité de président ;
 
-- l'adjoint au chef du groupement d'hélicoptères de la sécurité civile ;
+- l'adjoint au chef du groupement d'hélicoptères de la sécurité civile, chargé de l'administration générale ;
 
 - le chef des moyens opérationnels du groupement d'hélicoptères de la sécurité civile ;
 
 - le chef des personnels navigants du groupement d'hélicoptères de la sécurité civile ;
 
-- le chef des moyens techniques du groupement d'hélicoptères de la sécurité civile ;
+- l'adjoint technique au chef du groupement d'hélicoptères de la sécurité civile ;
 
 - l'officier de sécurité aérienne du groupement d'hélicoptères de la sécurité civile ;
 
-- deux responsables mécaniciens de base du groupement d'hélicoptères de la sécurité civile.
+- deux responsables mécaniciens de base du groupement d'hélicoptères de la sécurité civile ;
+
+- l'adjoint opérationnel au chef du groupement d'hélicoptères de la sécurité civile.
 
 Deux suppléants, à savoir un chef de base pour le recrutement des pilotes ou un responsable mécanicien pour le recrutement des mécaniciens opérateurs de bord, sont désignés pour siéger en cas d'absence d'un membre de la commission.
 

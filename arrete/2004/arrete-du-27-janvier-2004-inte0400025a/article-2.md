@@ -876,105 +876,84 @@ Les coefficients prévus à l'article 2 du décret n° 2004-88 du 27 janvier 200
 </td>
 </tr>
 <tr>
-<td valign="top" width="149">
-<p align="center">Mécaniciens navigants </p>
-</td>
-<td valign="top" width="48">
-<br/>
-</td>
-<td valign="top" width="53">
-<br/>
-</td>
-<td valign="top" width="62">
-<br/>
-</td>
-<td valign="top" width="52">
-<br/>
-</td>
-<td valign="top" width="57">
-<br/>
-</td>
-<td valign="top" width="51">
-<br/>
-</td>
-<td valign="top" width="61">
-<br/>
-</td>
-<td valign="top" width="49">
-<br/>
-</td>
-<td valign="top" width="61">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="149">
-<p>Mécanicien navigant stagiaire de la sécurité civile (niveau 1) </p>
-</td>
-<td width="48">
-<p align="center">1, 07 </p>
-</td>
-<td width="53">
-<p align="center">1</p>
-</td>
-<td width="62">
-<p align="center">-</p>
-</td>
-<td width="52">
-<p align="center">1</p>
-</td>
-<td width="57">
-<p align="center">-</p>
-</td>
-<td width="51">
-<p align="center">1</p>
-</td>
-<td width="61">
-<p align="center">-</p>
-</td>
-<td width="49">
-<p align="center">1</p>
-</td>
-<td width="61">
-<p align="center">-</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="149">
-<p>Mécanicien navigant confirmé (niveau 2) </p>
-</td>
-<td width="48">
-<p align="center">1, 07 </p>
-</td>
-<td width="53">
-<p align="center">1, 8</p>
-</td>
-<td width="62">
-<p align="center">-</p>
-</td>
-<td width="52">
-<p align="center">1, 8</p>
-</td>
-<td width="57">
-<p align="center">-</p>
-</td>
-<td width="51">
-<p align="center">1, 8</p>
-</td>
-<td width="61">
-<p align="center">-</p>
-</td>
-<td width="49">
-<p align="center">1, 8</p>
-</td>
-<td width="61">
-<p align="center">-</p>
-</td>
-</tr>
-<tr>
 <td colspan="10" valign="top" width="643">
 <p>(*) Coefficients applicables aux personnels classés aux niveaux de compétence aéronautique 3. 5 ou 4 au sens du décret n° 94-1047 du 6 décembre 1994 et reclassés au niveau de compétence aéronautique 4 dans le décret n° 2004-87 du 27 janvier 2004 susvisé.</p>
 </td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<th>
+<br/>NIVEAU</th>
+<th>
+<br/>COEFFICIENT<br/>métier</th>
+<th colspan="2">
+<br/>À LA DATE D'ENTRÉE<br/>en vigueur de l'arrêté</th>
+</tr>
+<tr>
+<th>
+<br/>
+</th>
+<th>
+<br/>
+</th>
+<th>
+<br/>Coefficient<br/>niveau</th>
+<th>
+<br/>Coefficient<br/>bombardier<br/>d'eau</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Pilotes d'avions<br/>Classe D<br/>Pilote de liaison et d'observation sur feux de forêt et copilote bombardier d'eau confirmé (niveau 2)</td>
+<td align="center">
+<br/>1,25</td>
+<td align="center">
+<br/>1,8</td>
+<td align="center">
+<br/>1,072</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Pilote de liaison et d'observation sur feux de forêt et copilote bombardier d'eau opérationnel (niveau 3)</td>
+<td align="center">
+<br/>1,25</td>
+<td align="center">
+<br/>1,84</td>
+<td align="center">
+<br/>1,072</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Pilote de liaison et d'observation sur feux de forêt et copilote bombardier d'eau opérationnel expérimenté (niveau 4)</td>
+<td align="center">
+<br/>1,25</td>
+<td align="center">
+<br/>1,89</td>
+<td align="center">
+<br/>1,21</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Pilote de liaison et d'observation sur feux de forêt et copilote bombardier d'eau opérationnel expérimenté (niveau 5)</td>
+<td align="center">
+<br/>1,25</td>
+<td align="center">
+<br/>1,94</td>
+<td align="center">
+<br/>1,21</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Pilote de liaison et d'observation sur feux de forêt et copilote bombardier d'eau opérationnel expérimenté (niveau 6)</td>
+<td align="center">
+<br/>1,25</td>
+<td align="center">
+<br/>1,99</td>
+<td align="center">
+<br/>1,21</td>
 </tr>
 </tbody>
 </table>
