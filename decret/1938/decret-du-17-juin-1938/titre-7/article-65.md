@@ -10,7 +10,7 @@ b) Ou toutes fonctions à bord de navires ayant transporté de l'amiante au cour
 
 2° Etre âgé d'au moins cinquante ans.
 
-Le montant de cette allocation est égal à 65 % du salaire forfaitaire défini à l'article 7, et correspondant à la catégorie dans laquelle le marin était classé lors de la dernière activité précédant sa demande.
+Le montant de cette allocation est égal à 65 % du salaire forfaitaire, mentionné à l'article 7, de la catégorie dans laquelle le marin était classé durant la dernière année d'affiliation au régime des marins précédant sa demande. Lorsqu'un marin a été classé dans des catégories différentes au cours de cette dernière année, le salaire forfaitaire pris en compte pour le calcul de l'allocation est celui de la catégorie dans laquelle il a été le plus longtemps classé.
 
 L'âge d'entrée en jouissance de cette allocation est l'âge de soixante ans, diminué du tiers de la période passée dans les fonctions mentionnées au 1°. Pour la détermination de cette période, il est tenu compte, le cas échéant, de la durée de travail effectuée dans les autres activités professionnelles mentionnées au I de l'article 41 de la loi n° 98-1194 du 23 décembre 1998 de financement de la sécurité sociale pour 1999.
 
