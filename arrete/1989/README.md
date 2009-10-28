@@ -169,7 +169,6 @@
 - [Arrêté du 10 novembre 1989 (SPSS8901896A)](arrete-du-10-novembre-1989-spss8901896a)
 - [Arrêté du 10 octobre 1989 (SPSP8902052A)](arrete-du-10-octobre-1989-spsp8902052a)
 - [Arrêté du 10 octobre 1989 (SPSP8902053A)](arrete-du-10-octobre-1989-spsp8902053a)
-- [Arrêté du 10 mai 1989 (INTD8900227A)](arrete-du-10-mai-1989-intd8900227a)
 - [Arrêté du 10 mai 1989 (MENL8900551A)](arrete-du-10-mai-1989-menl8900551a)
 - [Arrêté du 10 mai 1989 (MENL8900552A)](arrete-du-10-mai-1989-menl8900552a)
 - [Arrêté du 10 mai 1989 (MERP8900095A)](arrete-du-10-mai-1989-merp8900095a)
