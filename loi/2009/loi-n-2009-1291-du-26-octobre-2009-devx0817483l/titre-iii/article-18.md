@@ -1,0 +1,3 @@
+# Article 18
+
+Dans chaque département, si, à la date du transfert du service ou d'une partie de service à une collectivité, la contribution du parc à la trésorerie du compte de commerce ouvert par l'article 69 de la loi de finances pour 1990 précitée pour retracer les opérations de recettes et de dépenses des parcs est positive après déduction des dettes et des créances, le montant de cette contribution revient, dans les conditions prévues par une loi de finances, à cette collectivité au prorata des facturations ayant donné lieu à paiement au parc par la collectivité dans les facturations totales pendant les trois années précédant le transfert.

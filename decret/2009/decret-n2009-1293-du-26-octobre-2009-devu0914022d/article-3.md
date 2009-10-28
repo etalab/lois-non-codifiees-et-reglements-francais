@@ -1,0 +1,3 @@
+# Article 3
+
+A compter de la date de publication du présent décret, les taux de subvention mentionnés à l'article R. 331-101 du code de la construction et de l'habitation peuvent être portés à 50 % de l'assiette de subvention pour les dossiers déposés jusqu'au 31 décembre 2010. Le préfet de la région dans laquelle se trouve l'opération concernée peut autoriser une dérogation à ce taux maximum de la subvention. Le taux de subvention est alors décidé par le préfet de département en fonction de l'optimisation des coûts de fonctionnement. Il peut être porté à 80 %, sans pouvoir excéder 80 % du prix de revient de l'opération défini à l'article R. 331-100 du même code.

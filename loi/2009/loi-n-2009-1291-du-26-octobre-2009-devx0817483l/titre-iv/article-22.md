@@ -1,0 +1,5 @@
+# Article 22
+
+I. ― Dans la stricte mesure requise pour assurer la continuité du service public et la sécurité des personnes sur le réseau routier communal et intercommunal, la collectivité bénéficiaire du transfert du parc peut, pendant une durée maximale de trois ans à compter de la date du transfert, continuer à fournir aux communes et à leurs groupements, à leur demande, les prestations nécessaires à l'entretien des engins affectés à leur voirie, à la viabilité hivernale et à la sécurisation de ce réseau en cas de conditions météorologiques défavorables.
+
+II. ― Hors les cas mentionnés au I, la collectivité bénéficiaire du transfert du parc ne peut effectuer des prestations, pour le compte et à la demande des communes et de leurs groupements, que dans le respect des règles de mise en concurrence prévues par le code des marchés publics. Ces prestations sont relatives à la construction et à l'entretien du réseau routier communal et intercommunal, ainsi qu'à l'entretien des moyens matériels affectés à ce réseau.

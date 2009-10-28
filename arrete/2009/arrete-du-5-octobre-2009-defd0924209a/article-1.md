@@ -1,0 +1,3 @@
+# Article 1
+
+Il est créé au ministère de la défense, à la délégation générale pour l'armement, un traitement automatisé de données à caractère personnel dénommé « Gestion dématérialisée des congés » mis en œuvre par la sous-direction des systèmes d'information, dont les finalités sont la gestion dématérialisée des congés dans les établissements de la délégation générale pour l'armement, du service de soutien de la flotte, du service parisien de soutien de l'administration centrale, de l'Institut supérieur de l'aéronautique et de l'espace, du service industriel de l'aéronautique et du centre d'archives de l'armement.

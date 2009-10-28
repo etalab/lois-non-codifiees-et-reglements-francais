@@ -1,0 +1,7 @@
+# Article 27
+
+Lorsqu'ils en font la demande dans le délai de deux ans à compter du transfert du service, ou à compter de la date de l'entrée en vigueur du décret prévu au premier alinéa du II de l'article 11 pour ceux dont la mise à disposition est antérieure à cette date, les ouvriers des parcs et ateliers des ponts et chaussées et des bases aériennes admis ou susceptibles d'être admis au bénéfice du régime des pensions des ouvriers des établissements industriels de l'Etat mis à disposition d'une collectivité territoriale ou d'un groupement de collectivités territoriales en application de l'article 107 de la loi n° 2004-809 du 13 août 2004 précitée sont, par dérogation à l'article 36 de la loi n° 84-53 du 26 janvier 1984 précitée, intégrés dans un cadre d'emplois existant de la fonction publique territoriale selon des modalités précisées par décret en Conseil d'Etat, le cas échéant à l'issue de la période de stage, et sans qu'il soit fait application de l'article 41 de la même loi.
+
+Les ouvriers des parcs et ateliers mentionnés au premier alinéa du présent article qui, à l'expiration du délai de deux ans mentionné au présent article, n'ont pas demandé leur intégration dans un cadre d'emplois peuvent la demander à tout moment.
+
+Les dispositions de l'article 147 de la loi n° 2005-1719 du 30 décembre 2005 précitée et des II et III de l'article 11 de la présente loi ainsi que celles des décrets d'application auxquels ils renvoient sont applicables aux intégrations intervenant en application du présent article.
