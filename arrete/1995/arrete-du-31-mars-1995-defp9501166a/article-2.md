@@ -20,7 +20,7 @@ Les unités visées à l'article 2 du décret du 31 mars 1995 susvisé sont les 
 
 -état-major des armées (division forces nucléaires) ;
 
--direction des systèmes d'armes de la     direction générale de l'armement ;
+-direction des systèmes d'armes de la direction générale de l'armement ;
 
 -formations relevant de la force maritime base navale de Toulon ;
 
@@ -38,4 +38,18 @@ Les unités visées à l'article 2 du décret du 31 mars 1995 susvisé sont les 
 
 -commandement de l'arrondissement maritime de Cherbourg (COMAR Cherbourg, division sécurité environnement, HSCT) ;
 
--base navale de Cherbourg (BN Cherbourg, état-major).
+-base navale de Cherbourg (BN Cherbourg, état-major) ;
+
+-base navale de Brest (BN Brest) ;
+
+-base de défense expérimentale de Brest (BDDE Brest) ;
+
+-escadrille des sous-marins nucléaires lanceurs d'engins (ESNLE) ;
+
+-base de l'île Longue (ILONGBASE) ;
+
+-état-major du commandement de l'escadrille des sous-marins nucléaires d'attaque (EM COMESNA) ;
+
+-centre d'instruction naval de Saint-Mandrier (CIN Saint-Mandrier) ;
+
+-service de protection radiologique des armées (SPRA).
