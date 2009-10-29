@@ -451,7 +451,6 @@
 - [Décret n°98-834 du 17 septembre 1998 (ECOC9800085D)](decret-n98-834-du-17-septembre-1998-ecoc9800085d)
 - [Décret n°98-855 du 17 septembre 1998 (ECOB9810019D)](decret-n98-855-du-17-septembre-1998-ecob9810019d)
 - [Décret n°98-857 du 17 septembre 1998 (MJSK9870083D)](decret-n98-857-du-17-septembre-1998-mjsk9870083d)
-- [Décret du 18 mars 1998 (ECOC9700240D)](decret-du-18-mars-1998-ecoc9700240d)
 - [Décret n°80-1023 du 18 décembre 1980](decret-n80-1023-du-18-decembre-1980)
 - [Décret n°89-752 du 18 octobre 1989 (DEFP8901865D)](decret-n89-752-du-18-octobre-1989-defp8901865d)
 - [Décret n°90-675 du 18 juillet 1990 (MENF9001239D)](decret-n90-675-du-18-juillet-1990-menf9001239d)
