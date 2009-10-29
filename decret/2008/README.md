@@ -576,7 +576,6 @@
 - [Décret n°2008-1358 du 18 décembre 2008 (AGRS0774861D)](decret-n2008-1358-du-18-decembre-2008-agrs0774861d)
 - [Décret n°2008-1359 du 18 décembre 2008 (AGRP0827005D)](decret-n2008-1359-du-18-decembre-2008-agrp0827005d)
 - [Décret n°2008-1360 du 18 décembre 2008 (MTSS0821410D)](decret-n2008-1360-du-18-decembre-2008-mtss0821410d)
-- [Décret n°2008-1361 du 18 décembre 2008 (MTSS0823580D)](decret-n2008-1361-du-18-decembre-2008-mtss0823580d)
 - [Décret n°2008-1362 du 18 décembre 2008 (MTST0826405D)](decret-n2008-1362-du-18-decembre-2008-mtst0826405d)
 - [Décret n°2008-1363 du 18 décembre 2008 (MENE0814102D)](decret-n2008-1363-du-18-decembre-2008-mene0814102d)
 - [Décret n°2008-1364 du 18 décembre 2008 (SJSS0825925D)](decret-n2008-1364-du-18-decembre-2008-sjss0825925d)
