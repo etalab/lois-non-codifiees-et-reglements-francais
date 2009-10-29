@@ -1,0 +1,3 @@
+# Article 1
+
+Le montant du fonds spécial destiné au financement des unions d'associations familiales s'élève, pour 2009, à vingt-six millions six cent trente-quatre mille neuf cent quatre-vingt-neuf euros et cinq centimes (26 634 989,05 €), qui se répartissent en une première part de vingt millions neuf cent quatre-vingt-huit mille quatre cent quarante euros et trois centimes (20 988 440,03 €) et une seconde part de cinq millions six cent quarante-six mille cinq cent quarante-neuf euros et deux centimes (5 646 549,02 €). Au montant de la première part est ajoutée la somme de cinquante-six mille trente euros et quatre-vingt-trois centimes (56 030,83 €) correspondant aux produits financiers relatifs à l'année 2008.

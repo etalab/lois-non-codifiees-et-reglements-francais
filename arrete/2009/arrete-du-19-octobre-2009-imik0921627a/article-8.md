@@ -1,0 +1,3 @@
+# Article 8
+
+Le directeur de l'accueil, de l'intégration et de la citoyenneté (DAIC) du ministère de l'immigration, de l'intégration, de l'identité nationale et du développement solidaire, le directeur général de l'enseignement scolaire (DGESCO) du ministère de l'éducation nationale, le directeur général pour l'enseignement supérieur et l'insertion professionnelle (DGESIP) du ministère de l'enseignement supérieur et de la recherche ainsi que le directeur du budget sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
