@@ -371,7 +371,6 @@
 - [Décret n°98-924 du 15 octobre 1998 (MENF9802333D)](decret-n98-924-du-15-octobre-1998-menf9802333d)
 - [Décret n°98-932 du 15 octobre 1998 (EQUH9800834D)](decret-n98-932-du-15-octobre-1998-equh9800834d)
 - [Décret n°98-933 du 15 octobre 1998 (EQUH9800835D)](decret-n98-933-du-15-octobre-1998-equh9800835d)
-- [Décret du 15 mai 1998 (ECOC9800030D)](decret-du-15-mai-1998-ecoc9800030d)
 - [Décret n°98-377 du 15 mai 1998 (MENS9801115D)](decret-n98-377-du-15-mai-1998-mens9801115d)
 - [Décret n°98-378 du 15 mai 1998 (MENS9801116D)](decret-n98-378-du-15-mai-1998-mens9801116d)
 - [Décret n°98-379 du 15 mai 1998 (MENS9801117D)](decret-n98-379-du-15-mai-1998-mens9801117d)
