@@ -1121,3 +1121,9 @@
 </tr>
 </tbody>
 </table>
+
+7° Les inspecteurs d'académie-inspecteurs pédagogiques régionaux recrutés en application du deuxième alinéa de l'article 22, autres que ceux mentionnés aux 1° à 6° du présent article et qui avaient, antérieurement à leur nomination, la qualité de fonctionnaire civil, de militaire ou de magistrat, sont classés, lors de leur nomination, à l'échelon de la classe normale comportant un indice égal ou, à défaut, immédiatement supérieur à celui qu'ils détenaient dans leur précédent grade ou emploi d'origine.
+
+Dans la limite de l'ancienneté exigée à l'article 29 pour l'accès à l'échelon supérieur, ils conservent l'ancienneté acquise dans l'échelon qu'ils détenaient dans leur précédent grade ou emploi, si leur nomination leur procure une augmentation de traitement inférieure à celle qu'aurait entraîné, dans leur ancienne situation, une promotion à l'échelon supérieur ou, s'ils étaient à l'échelon terminal de leur grade ou emploi, à celle qui avait résulté de leur promotion audit échelon.
+
+Les inspecteurs d'académie-inspecteurs pédagogiques régionaux qui ne détenaient pas, antérieurement à leur nomination, la qualité de fonctionnaire sont classés à l'échelon de la classe normale déterminé en tenant compte de leur expérience professionnelle, dans la limite de la durée requise à l'article 22 ci-dessus.
