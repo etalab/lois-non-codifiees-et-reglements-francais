@@ -70,7 +70,6 @@
 - [Arrêté du 3 avril 2009 (SASH0907868A)](arrete-du-3-avril-2009-sash0907868a)
 - [Arrêté du 3 avril 2009 (SASH0908415A)](arrete-du-3-avril-2009-sash0908415a)
 - [Arrêté du 3 février 2003 (AGRA0300119A)](arrete-du-3-fevrier-2003-agra0300119a)
-- [Arrêté du 3 février 2009 (IMIC0827953A)](arrete-du-3-fevrier-2009-imic0827953a)
 - [Arrêté du 3 février 2009 (MCCI0902765A)](arrete-du-3-fevrier-2009-mcci0902765a)
 - [Arrêté du 3 février 2009 (MTSS0902789A)](arrete-du-3-fevrier-2009-mtss0902789a)
 - [Arrêté du 3 février 2009 (MTSS0902804A)](arrete-du-3-fevrier-2009-mtss0902804a)
