@@ -376,7 +376,6 @@
 - [Arrêté du 13 février 1998 (INTD9800061A)](arrete-du-13-fevrier-1998-intd9800061a)
 - [Arrêté du 13 janvier 1998 (DEFL9801049A)](arrete-du-13-janvier-1998-defl9801049a)
 - [Arrêté du 13 janvier 1998 (EQUP9800011A)](arrete-du-13-janvier-1998-equp9800011a)
-- [Arrêté du 13 janvier 1999 (MENF9802994A)](arrete-du-13-janvier-1999-menf9802994a)
 - [Arrêté du 13 juillet 1998 (ATEP9870263A)](arrete-du-13-juillet-1998-atep9870263a)
 - [Arrêté du 13 juillet 1998 (ATEP9870264A)](arrete-du-13-juillet-1998-atep9870264a)
 - [Arrêté du 13 juillet 1998 (DEFA9851052A)](arrete-du-13-juillet-1998-defa9851052a)
