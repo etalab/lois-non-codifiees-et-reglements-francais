@@ -14,7 +14,7 @@ Un représentant du ministre chargé de la coopération ;
 
 Un représentant du ministre chargé de la recherche ;
 
-Un représentant du ministre chargé de l'industrie ;
+Un représentant du     ministre chargé des mines ;
 
 Un représentant du ministre chargé de l'environnement ;
 
