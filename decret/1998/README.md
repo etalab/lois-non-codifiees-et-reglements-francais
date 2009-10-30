@@ -405,7 +405,6 @@
 - [Décret n°98-853 du 16 septembre 1998 (EQUP9800863D)](decret-n98-853-du-16-septembre-1998-equp9800863d)
 - [Décret n°98-854 du 16 septembre 1998 (FPPA9800144D)](decret-n98-854-du-16-septembre-1998-fppa9800144d)
 - [Décret n°98-98 du 16 février 1998 (MAEJ9830007D)](decret-n98-98-du-16-fevrier-1998-maej9830007d)
-- [Décret du 17 février 1998 (ECOC9700223D)](decret-du-17-fevrier-1998-ecoc9700223d)
 - [Décret n°79-916 du 17 octobre 1979](decret-n79-916-du-17-octobre-1979)
 - [Décret n°98-1033 du 17 novembre 1998 (MENF9802475D)](decret-n98-1033-du-17-novembre-1998-menf9802475d)
 - [Décret n°98-180 du 17 mars 1998 (DEFP9801263D)](decret-n98-180-du-17-mars-1998-defp9801263d)

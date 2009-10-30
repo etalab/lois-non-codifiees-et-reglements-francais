@@ -30,8 +30,6 @@
 - [Décret n°2005-977 du 10 août 2005 (SANS0522310D)](decret-n2005-977-du-10-aout-2005-sans0522310d)
 - [Décret n°2005-988 du 10 août 2005 (SANP0522839D)](decret-n2005-988-du-10-aout-2005-sanp0522839d)
 - [Décret n°2005-122 du 11 février 2005 (ECOP0401126D)](decret-n2005-122-du-11-fevrier-2005-ecop0401126d)
-- [Décret du 12 septembre 2005 (AGRP0501554D)](decret-du-12-septembre-2005-agrp0501554d)
-- [Décret du 12 septembre 2005 (AGRP0501555D)](decret-du-12-septembre-2005-agrp0501555d)
 - [Décret n°2005-1270 du 12 octobre 2005 (INTR0500290D)](decret-n2005-1270-du-12-octobre-2005-intr0500290d)
 - [Décret n°2005-790 du 12 juillet 2005 (JUSC0520196D)](decret-n2005-790-du-12-juillet-2005-jusc0520196d)
 - [Décret du 13 septembre 2005 (AGRP0500336D)](decret-du-13-septembre-2005-agrp0500336d)
