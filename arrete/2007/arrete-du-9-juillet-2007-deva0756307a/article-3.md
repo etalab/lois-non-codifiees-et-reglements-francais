@@ -35,3 +35,9 @@ Jusqu'au 15 juillet 2013 :
 Maroc :
 
 Paris-Marrakech.
+
+Jusqu'au 15 octobre 2014 :
+
+Turquie :
+
+Paris-Antalya.
