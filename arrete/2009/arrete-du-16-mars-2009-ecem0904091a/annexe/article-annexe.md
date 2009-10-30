@@ -59,6 +59,10 @@
 </td>
 </tr>
 <tr>
+<td align="center">31400000-0</td>
+<td align="center">Accumulateurs, piles et batteries primaires</td>
+</tr>
+<tr>
 <td align="center">31700000-3<br/>
 </td>
 <td align="center">Fournitures électroniques, électromécaniques et électrotechniques.<br/>
@@ -99,6 +103,10 @@
 </td>
 <td align="center">Produits pharmaceutiques.<br/>
 </td>
+</tr>
+<tr>
+<td align="center">34100000-8</td>
+<td align="center">Véhicules à moteur</td>
 </tr>
 <tr>
 <td align="center">34500000-2<br/>

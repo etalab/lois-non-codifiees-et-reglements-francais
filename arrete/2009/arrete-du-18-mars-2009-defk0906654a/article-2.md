@@ -68,6 +68,7 @@ Concours B : juin 2009
 <tbody>
 <tr>
 <td valign="top" width="378">
+<br/>
 <p align="center">DISCIPLINES</p>
 </td>
 <td valign="top" width="151">
@@ -93,9 +94,51 @@ Concours B : juin 2009
 </tbody>
 </table>
 </div>
-<div align="left"/>
-<div align="left"/>
-<div align="left"/>
-<div align="left"/>
+
+<div align="left">
+
+<div align="left">
+<p>Concours D : décembre 2009</p>
+<br/>
+<br/>
+<table>
+<tbody>
+<tr>
+<td>
+<br/>
+<p align="center">DISCIPLINES</p>
+</td>
+<td>
+<br/>
+<p align="center">NOMBRE DE POSTES</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+<p align="center">Endocrinologie et métabolisme</p>
+</td>
+<td>
+<br/>
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+<p align="center">Psychiatrie</p>
+</td>
+<td>
+<br/>
+<p align="center">1</p>
+</td>
+</tr>
+</tbody>
+</table>
+<br/>
+<br/>
+</div>
+
+</div>
 
 </div>
