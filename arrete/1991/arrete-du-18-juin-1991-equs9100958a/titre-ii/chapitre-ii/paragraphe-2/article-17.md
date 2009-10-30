@@ -1,6 +1,6 @@
 # Article 17
 
-La décision préfectorale d'agrément est notifiée simultanément au centre de contrôle, au réseau de rattachement éventuel et à l'organisme technique central.
+La décision préfectorale d'agrément est notifiée simultanément au centre de contrôle, au réseau de rattachement éventuel et pour les centres non rattachés à l'organisme technique central.
 
 En cas de décision de rejet de la demande d'agrément pour le contrôle des véhicules légers, la décision est motivée et notifiée, simultanément au centre de contrôle, au réseau de rattachement éventuel et à l'organisme technique central.
 

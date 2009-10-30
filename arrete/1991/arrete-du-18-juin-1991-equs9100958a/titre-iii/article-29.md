@@ -6,7 +6,7 @@ a) L'OTC élabore les documents techniques relatifs aux méthodes et matériels 
 
 b) L'OTC élabore les documents techniques nécessaires pour assurer la collecte de l'ensemble des données relatives aux contrôles techniques effectués dans les installations de contrôle ;
 
-c) L'OTC élabore les documents techniques nécessaires aux traitements informatiques des informations relatives aux véhicules et au résultat de leurs contrôles techniques
+c) L'OTC élabore les documents techniques nécessaires aux traitements informatiques des informations relatives aux véhicules et au résultat de leurs contrôles techniques ;
 
 d) L'OTC centralise et archive les résultats des contrôles dans les conditions fixées par une convention d'assistance technique entre l'Organisme Technique Central et chacun des réseaux ou des centres de contrôle non rattachés ;
 
@@ -18,8 +18,8 @@ g) L'OTC établit annuellement un bilan du parc de véhicules contrôlé et de s
 
 h) L'OTC centralise et maintient à jour l'ensemble des éléments techniques nécessaires à l'information et à la formation des contrôleurs et les tient à la disposition des réseaux et des centres non rattachés ;
 
-i) L'OTC élabore et tient à jour les informations prévues aux III des articles R. 323-14 et R. 323-18 du code de la route.
+i) L'OTC élabore et tient à jour les informations prévues aux III des articles R. 323-14 et R. 323-18 du code de la route ;
 
-j) L'OTC contrôle la conformité aux spécifications fonctionnelles et au protocole de communication prévu à l'article 38 de l'outil informatique des réseaux et installations de contrôle.
+j) L'OTC contrôle la conformité aux spécifications fonctionnelles et au protocole de communication prévu à l'article 27 de l'outil informatique des réseaux et installations de contrôle.
 
 L'ensemble des informations est mis à disposition du ministère chargé des transports et des administrations chargées de la surveillance administrative des réseaux, des installations de contrôle et des contrôleurs.

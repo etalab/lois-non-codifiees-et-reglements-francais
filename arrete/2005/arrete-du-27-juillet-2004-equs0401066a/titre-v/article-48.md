@@ -1,3 +1,3 @@
 # Article 48
 
-Le directeur de la sécurité et de la circulation routières est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+La déléguée à la sécurité et à la circulation routières est chargée de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

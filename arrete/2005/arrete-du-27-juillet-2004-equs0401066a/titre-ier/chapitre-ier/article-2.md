@@ -2,9 +2,9 @@
 
 Au sens du présent arrêté, les termes ci-après ont le sens qui leur est donné dans le présent article :
 
--véhicules lourds : les véhicules désignés comme tels à l'article R. 323-6 du code de la route ;
+-véhicules lourds : les véhicules appartenant à l'une des catégories répertoriées dans le tableau figurant en partie A de l'annexe VIII ;
 
--véhicules légers : les véhicules désignés comme tels à l'article R. 323-6 du code de la route ;
+-véhicules légers : les véhicules désignés comme tels à l'article R. 323-6 du code de la route, à l'exception des véhicules dont le PTAC n'excède pas 3 500 kg mentionnés aux parties A et B de l'annexe VIII ;
 
 -véhicules soumis à réglementation spécifique les véhicules appartenant à l'une des catégories répertoriées dans le tableau figurant en partie B de l'annexe VIII ;
 
@@ -26,9 +26,11 @@ Au sens du présent arrêté, les termes ci-après ont le sens qui leur est donn
 
 -procès-verbal de contrôle technique : document remis à l'issue du contrôle technique à la personne qui présente le véhicule conformément aux dispositions de l'article 8 du présent arrêté, listant notamment les observations relevées en application de l'annexe I du présent arrêté ;
 
-- certificat d'immatriculation : certificat d'immatriculation délivré en application de l'article R. 322-2 du code de la route et de l'arrêté du 5 novembre 1984 relatif à l'immatriculation des véhicules ;
-
 -centre de contrôle de véhicules lourds : centre de contrôle agréé pour le contrôle de véhicules lourds.
+
+-" numéro d'immatriculation définitif " : numéro d'immatriculation attribué à titre définitif au véhicule par un système informatique centralisé, en application des dispositions de l'article R. 322-2 du code de la route et de l'arrêté du 9 février 2009 modifié relatif aux modalités d'immatriculation des véhicules ;
+
+-" véhicule de collection " : véhicule dont le certificat d'immatriculation porte la mention d'usage " véhicule de collection ".
 
 Les catégories de contrôles techniques sont les suivantes :
 

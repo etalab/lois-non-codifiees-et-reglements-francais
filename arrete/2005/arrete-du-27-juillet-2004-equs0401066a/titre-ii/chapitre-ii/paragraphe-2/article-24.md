@@ -1,8 +1,6 @@
 # Article 24
 
-La décision préfectorale d'agrément est notifiée simultanément au demandeur et à l'organisme technique central.
-
-Dans le cas où le centre de contrôle est également agréé pour le contrôle technique des véhicules légers, la décision d'agrément doit en faire mention.
+La décision préfectorale d'agrément est notifiée simultanément au demandeur et, pour les centres non rattachés, à l'organisme technique central.
 
 En cas de décision de rejet de la demande d'agrément pour le contrôle des véhicules lourds, la décision est motivée et notifiée simultanément au demandeur et à l'organisme technique central.
 

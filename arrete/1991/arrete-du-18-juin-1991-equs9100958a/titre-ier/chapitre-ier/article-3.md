@@ -6,7 +6,7 @@ Au sens de l'article R. 323-22 du code de la route, le terme " mutation " désig
 
 -Véhicule donnant lieu à l'établissement d'une déclaration d'achat ;
 
--Véhicule pris en location avec option d'achat ou en location longue durée qui devient, à l'expiration du contrat, la propriété du locataire mentionné sur la carte grise ;
+-Véhicule pris en location avec option d'achat ou en location longue durée qui devient, à l'expiration du contrat, la propriété du locataire mentionné sur le certificat d'immatriculation ;
 
 -Véhicule donnant lieu à la délivrance d'un nouveau certificat d'immatriculation à la suite d'un changement d'état matrimonial et notamment :
 
@@ -18,6 +18,6 @@ Au sens de l'article R. 323-22 du code de la route, le terme " mutation " désig
 
 -Véhicule appartenant à une société qui doit être, à la suite d'une fusion, ré-immatriculé au nom de la société absorbante ou, en cas de création d'une personne morale nouvelle, au nom de la nouvelle société ;
 
--Véhicule ré-immatriculé au nom de plusieurs copropriétaires, à la condition que le nom de l'un d'entre eux ait été porté sur la carte grise précédente ;
+-Véhicule ré-immatriculé au nom de plusieurs copropriétaires, à la condition que le nom de l'un d'entre eux ait été porté sur le certificat d'immatriculation précédente ;
 
 Le terme mutation désigne également tout changement de locataire dans le cas d'un véhicule en location simple de longue durée ou avec option d'achat tel que prévu aux articles 19 à 21 de l'arrêté du 5 novembre 1984 susvisé.

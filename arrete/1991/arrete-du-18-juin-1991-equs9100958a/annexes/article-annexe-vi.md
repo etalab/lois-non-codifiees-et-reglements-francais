@@ -92,7 +92,7 @@ Par ailleurs, le réseau transmet au ministre, tous les ans, le bilan social et 
 
 3.2.3. Il exploite ces états pour attirer 1'attention des responsables des installations de contrôle sur la nécessité de prévenir ou de rectifier certaines déviations, et pour éclairer et valoriser les audits des installations de contrôle.
 
-3.3. Périodiquement, chaque réseau de contrôle agréé transmet à l'Organisme Technique Central les informations qui lui ont été communiquées par ses installations de contrôle.
+3.3. Chaque réseau de contrôle agréé transmet, dans les délais prévus à l'article 28 du présent arrêté, à l'organisme technique central les informations qui lui ont été communiquées par ses installations de contrôle.
 
 3.4. Le transfert de ces informations s'opère suivant le protocole établi par l'Organisme Technique Central avec chacun des réseaux de contrôle agréé.
 

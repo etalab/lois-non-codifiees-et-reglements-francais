@@ -24,9 +24,21 @@ I. Composition du dossier
 
 - Carte de séjour temporaire, carte de résident, certificat de résidence de ressortissant algérien, carte de ressortissant d'un Etat membre de Union Européenne ou de l'Espace économique européen ;
 
-4. Une pièce justificative de son domicile de moins de trois mois ;
+4. Un des justificatifs de domicile suivants :
 
-5. Les pièces justificatives de la qualification requise pour exercer l'activité de contrôleur (cf. annexe IV) accompagnées d'une fiche récapitulative conforme au modèle de l'appendice 1 de la présente annexe ;
+- un titre de propriété ;
+
+- un certificat d'imposition ou de non-imposition de l'année précédente ;
+
+- une quittance de loyer, de gaz, d'électricité ou de téléphone de moins de six mois ;
+
+- une attestation d'assurance logement ;
+
+- un livret spécial de circulation, un livret de circulation ou un carnet de circulation en cours de validité, pour les personnes auxquelles la loi a fixé une commune de rattachement ;
+
+- une attestation établissant leur lien avec l'organisme d'accueil figurant sur une liste établie par le préfet et, à Paris, par le préfet de police, pour les personnes dans l'incapacité d'apporter la preuve de leur adresse ou auxquelles la loi n'a pas fixé de commune de rattachement ;
+
+5. Les pièces justificatives de la qualification requise pour exercer l'activité de contrôleur (cf. annexe IV) accompagnées d'une fiche récapitulative conforme au modèle de l'appendice 1 de la présente annexe s'il s'agit d'un ressortissant étranger, celui-ci doit fournir un document équivalent établi depuis moins de trois mois à la date de la demande d'agrément et rédigé en français ou accompagné d'une traduction officielle  ;
 
 6. L'avis du réseau de contrôle agréé dont le demandeur dépend, ou à défaut, l'avis de l'Organisme Technique Central, suivant le modèle de l'appendice 2 de la présente annexe ;
 
@@ -38,11 +50,71 @@ II. Demande d'agrément
 
 L'ensemble du dossier doit être transmis en deux exemplaires à la préfecture du lieu d'implantation du centre de contrôle auquel le contrôleur est rattaché.
 
-III. Modification du dossier d'agrément
+<div align="center">III. - Modification du dossier d'agrément</div>
+<div align="center">
+<br/>
+<br/>
+</div>
 
-1. La cessation d'activité de contrôleur doit être notifiée sans délai par l'intéressé au préfet qui lui a délivré son agrément.
+3.1. Le contrôleur, son centre de rattachement et son réseau éventuel doivent signaler à la préfecture les modifications suivantes entraînant l'annulation de l'agrément :
 
-2. Le changement de centre de contrôle doit être préalablement notifié par le contrôleur au préfet qui lui a délivré son agrément. Cette notification doit être accompagnée de l'ensemble des pièces mises à jour prévues par le paragraphe I ci-dessus ainsi que du visa du centre de contrôle auquel le contrôleur était préalablement rattaché et du visa du réseau de contrôle agréé dont dépend éventuellement ce centre.
+3.1.1. La cessation d'activité.
+
+3.1.2. La cessation de rattachement du contrôleur à un centre de contrôle (hors changement de centre de rattachement prévu au point 3.3 du présent chapitre).
+
+3.1.3. Le non-respect des prescriptions relatives au maintien de qualification prévues à l'annexe IV.
+
+L'annulation de l'agrément est prononcée sur demande du bénéficiaire de l'agrément.
+
+La décision d'annulation d'agrément est notifiée simultanément au contrôleur, au centre de contrôle des véhicules légers auquel il est rattaché et à la direction du réseau éventuel et, pour les contrôleurs non rattachés, à l'organisme technique central.
+
+En cas de non-respect des présentes dispositions, l'agrément du contrôleur peut être suspendu ou retiré dans les conditions fixées à l'article 13-1.
+
+3.2. Le contrôleur, son centre de rattachement et son réseau éventuel doivent signaler à la préfecture toute modification entraînant un non-respect :
+
+- des conditions posées lors de la délivrance de l'agrément au niveau du point 5 du paragraphe I du présent chapitre ;
+
+- des règles fixant l'exercice de l'activité du contrôleur.
+
+Le contrôleur doit signaler à la préfecture toute modification entraînant un non-respect des conditions posées lors de la délivrance de l'agrément au niveau du point 2 du paragraphe I du présent chapitre.
+
+Dans ce cas, l'agrément du contrôleur peut être suspendu ou retiré dans les conditions fixées aux articles 13-1 et 13-2.
+
+3.3. Le contrôleur, son centre de rattachement et son réseau éventuel doivent signaler, préalablement, à la préfecture les modifications suivantes :
+
+3.3.1. Le changement de centre de rattachement à l'intérieur du même département.
+
+La notification doit être accompagnée :
+
+- d'une attestation visée par les exploitants des deux centres concernés et leurs réseaux éventuels, conformément au modèle de l'appendice 9 de la présente annexe ;
+
+- d'une des pièces prévues au point 4 du paragraphe I de la présente annexe.
+
+3.3.2. Le changement de centre de rattachement avec changement de département.
+
+La notification doit être accompagnée :
+
+- d'une attestation visée par les exploitants des deux centres de rattachement et leurs réseaux éventuels, conformément au modèle de l'appendice 9 de la présente annexe ;
+
+- de la copie de la notification d'agrément du contrôleur en vigueur ;
+
+- de la copie de la lettre d'information adressée au préfet de département du centre de rattachement précédent ;
+
+- des pièces prévues aux points 1, 3, 4, 7 et 8 du paragraphe I de la présente annexe, mises à jour.
+
+3.3.3. Le changement de titulaire de l'agrément du centre de rattachement, tel que prévu au point 3.1.2 du paragraphe III du chapitre II et au point 3.1.2 du paragraphe III du chapitre III de la présente annexe.
+
+La notification doit être accompagnée :
+
+- d'une attestation visée par les deux centres et leurs réseaux éventuels, conformément au modèle de l'appendice 9 de la présente annexe ;
+
+- des pièces prévues aux points 7 et 8 du paragraphe 1 de la présente annexe.
+
+3.3.4. La décision de modification d'agrément est notifiée simultanément au contrôleur, au centre de contrôle des véhicules légers auquel il est rattaché, au réseau éventuel et, pour les contrôleurs non rattachés, à l'organisme technique central.
+
+3.4. Le contrôleur, son centre de rattachement et son réseau éventuel doivent signaler à la préfecture le changement d'adresse.
+
+L'information doit être accompagnée d'une des pièces prévues au point 4 du paragraphe 1 de la présente annexe.
 
 CHAPITRE II
 
@@ -80,11 +152,43 @@ L'ensemble du dossier doit être transmis en trois exemplaires à la préfecture
 
 La demande initiale d'agrément des installations doit être accompagnée des dossiers de demande d'agrément des contrôleurs rattachés au centre de contrôle. Ces dossiers sont constitués conformément aux dispositions du chapitre I de la présente annexe.
 
-III. Modifications du dossier d'agrément
+III. - Modifications du dossier d'agrément
 
-Toute modification des pièces relatives aux alinéas 2 et 3 du paragraphe Ier ci-dessus doit être notifiée sans délai au préfet qui a délivré l'agrément.
+3.1. Le titulaire de l'agrément du centre de contrôle doit signaler à la préfecture les modifications suivantes :
 
-L'ensemble des modifications nécessaires à la mise à jour du dossier d'agrément doit être transmis annuellement au réseau.
+3.1.1. La cessation d'activité ;
+
+3.1.2. Le changement de titulaire de l'agrément avec modification du numéro d'inscription au registre du commerce et des sociétés ou du numéro de la chambre des métiers, selon qu'il s'agit d'une personne morale ou physique ;
+
+3.1.3. Le changement de réseau de rattachement ;
+
+3.1.4. Le changement de localisation du centre.
+
+Dans les cas visés ci-dessus, le préfet prononce l'annulation de l'agrément du centre à la date mentionnée sur la lettre d'information transmise par le titulaire de l'agrément du centre. Celle-ci est également prononcée sur demande du bénéficiaire de l'agrément. La décision d'annulation d'agrément est notifiée au centre de contrôle et au réseau.
+
+Dans le cas d'un changement de titulaire de l'agrément, tel que prévu au point 3.1.2 ci-dessus, le demandeur doit déposer sa demande au minimum un mois avant la date de la reprise du centre mentionnée sur la demande d'agrément.
+
+Dans le cas d'un changement de réseau de rattachement, tel que prévu au point 3.1.3 ci-dessus, le centre doit déposer sa demande au minimum un mois avant la date de changement de réseau de rattachement mentionnée sur la demande d'agrément.
+
+Dans le cas d'un changement de localisation, tel que prévu au point 3.1.4 ci-dessus, le titulaire de l'agrément doit déposer sa demande au minimum un mois avant la date de changement de localisation mentionnée sur la demande d'agrément.
+
+3.2. Le titulaire de l'agrément du centre de contrôle ou le réseau doivent signaler au préfet toute modification entraînant un non-respect des conditions de bon fonctionnement des installations ou des prescriptions qui sont imposées.
+
+Dans ce cas, l'agrément du centre peut être suspendu ou retiré dans les conditions fixées aux articles 17-1 et 17-2.
+
+3.3. Le titulaire de l'agrément du centre de contrôle ou le réseau doivent signaler à la préfecture les modifications suivantes :
+
+3.3.1. Modification du plan des installations par rapport au descriptif figurant dans le dossier d'agrément ;
+
+3.3.2. Pour une personne morale, changement de la dénomination sociale ou de sa forme juridique, sans changement du numéro de registre du commerce et des sociétés.
+
+3.3.3. Pour une personne morale, changement du représentant légal.
+
+Dans le cas prévu au paragraphe 3.3.1 ci-dessus, le titulaire de l'agrément du centre ou le réseau doivent transmettre l'attestation d'audit du réseau favorable suite aux travaux effectués.
+
+Dans le cas prévu au paragraphe 3.3.2 ci-dessus, le titulaire de l'agrément du centre ou le réseau doivent transmettre un justificatif d'existence légal à jour. Le préfet notifie au titulaire de l'agrément et au réseau de rattachement la prise en compte de la modification d'agrément.
+
+Dans le cas prévu au paragraphe 3.3.3 ci-dessus, le titulaire de l'agrément du centre ou le réseau doivent transmettre un justificatif d'existence légal à jour.
 
 CHAPITRE III
 
@@ -154,6 +258,8 @@ c) Les procédures internes du centre de contrôle permettant de s'assurer du re
 
 - Gestion de la base documentaire des textes réglementaires et de leurs évolutions.
 
+- Gestion de l'outillage spécifique gaz, pour les centres concernés.
+
 d) L'attestation de conformité de l'outil informatique délivrée par l'OTC en application des dispositions de l'article 29 du présent arrêté
 
 II. Demande d'agrément
@@ -162,13 +268,43 @@ L'ensemble du dossier doit être transmis en trois exemplaires à la préfecture
 
 La demande initiale d'agrément des installations doit être accompagnée des dossiers de demande d'agrément des contrôleurs rattachés au centre de contrôle. Ces dossiers sont constitués conformément aux dispositions du chapitre Ier de la présente annexe.
 
-III. Modifications du dossier d'agrément
+III. - Modifications du dossier d'agrément
 
-Toute modification des pièces relatives aux alinéas 2 et 3 du paragraphe Ier ci-dessus doit être notifiée sans délai au préfet qui a délivré l'agrément.
+3.1. Le titulaire de l'agrément du centre de contrôle doit signaler à la préfecture les modifications suivantes :
 
-Toute modification importante des pièces relatives à l'alinéa 5 du paragraphe Ier ci-dessus doit être soumise à l'accord préalable du préfet qui a délivré l'agrément.
+3.1.1. La cessation d'activité.
 
-L'ensemble des modifications nécessaires à la mise à jour du dossier d'agrément doit être transmis, le premier trimestre de chaque année, au préfet qui a délivré l'agrément et à l'Organisme Technique Central.
+3.1.2. Le changement de titulaire de l'agrément avec modification du numéro d'inscription au registre du commerce et des sociétés ou du numéro de la chambre des métiers, selon qu'il s'agit d'une personne morale ou physique.
+
+3.1.3. Le changement de mode de rattachement.
+
+3.1.4. Changement de localisation de centre.
+
+Dans les cas visés ci-dessus, le préfet prononce l'annulation de l'agrément du centre à la date mentionnée sur la lettre d'information transmise par le titulaire de l'agrément du centre. Celle-ci est également prononcée sur demande du bénéficiaire de l'agrément. La décision d'annulation d'agrément est notifiée au centre de contrôle et à l'organisme technique central.
+
+Dans le cas d'un changement de titulaire de l'agrément, tel que prévu au point 3.1.2 ci-dessus, le demandeur doit déposer sa demande au minimum un mois avant la date de la reprise du centre mentionnée sur la demande d'agrément.
+
+Dans le cas où le centre de contrôle devient un centre rattaché à un réseau, tel que prévu au point 3.1.3 ci-dessus, le titulaire de l'agrément doit appliquer les dispositions du point 3.1.3 du paragraphe III du chapitre II de la présente annexe.
+
+Dans le cas d'un changement de localisation, tel que prévu au point 3.1.4. ci-dessus, le titulaire de l'agrément doit déposer sa demande au minimum un mois avant la date de changement de localisation mentionnée sur la demande d'agrément.
+
+3.2. Le titulaire de l'agrément du centre de contrôle doit signaler au préfet toute modification entraînant un non-respect des conditions de bon fonctionnement des installations ou des prescriptions qui sont imposées.
+
+Dans ce cas, l'agrément du centre peut être suspendu ou retiré dans les conditions fixées aux articles 17-1 et 17-2.
+
+3.3. Le titulaire de l'agrément du centre de contrôle ou le réseau doivent signaler à la préfecture les modifications suivantes :
+
+3.3.1. Modification du plan des installations par rapport au descriptif figurant dans le dossier d'agrément.
+
+3.3.2. Pour une personne morale, changement de la dénomination sociale ou de sa forme juridique, sans changement du numéro de registre du commerce et des sociétés.
+
+3.3.3. Pour une personne morale, changement du représentant légal.
+
+Dans le cas prévu au paragraphe 3.3.1 ci-dessus, le titulaire de l'agrément du centre doit transmettre le rapport d'audit établi par un organisme agréé suite aux travaux effectués.
+
+Dans le cas prévu au paragraphe 3.3.2 ci-dessus, le titulaire de l'agrément du centre doit transmettre un justificatif d'existence légal à jour. Le préfet notifie au titulaire de l'agrément la prise en compte de la modification d'agrément.
+
+Dans le cas prévu au paragraphe 3.3.3 ci-dessus, le titulaire de l'agrément du centre doit transmettre un justificatif d'existence légal à jour.
 
 CHAPITRE IV
 
@@ -210,11 +346,31 @@ II. Demande d'agrément
 
 L'ensemble du dossier doit être transmis en trois exemplaires à la préfecture du lieu d'implantation de l'installation auxiliaire.
 
-III. Modifications du dossier d'agrément
+III. - Modifications du dossier d'agrément
 
-Toute modification concernant l'alinéa 2 du paragraphe Ier ci-dessus doit être notifiée sans délai au préfet qui a délivré l'agrément.
+3.1. Le réseau doit signaler à la préfecture les modifications importantes suivantes :
 
-L'ensemble des modifications nécessaires à la mise à jour du dossier d'agrément doit être effectué annuellement par le réseau.
+3.1.1. La cessation de l'exploitation de l'installation ;
+
+3.1.2. Le changement d'exploitant de l'établissement abritant l'installation auxiliaire.
+
+Dans les cas visés ci-dessus, le préfet prononce l'annulation de l'agrément de l'installation auxiliaire. Celle-ci est également prononcée sur demande du réseau.
+
+La décision d'annulation d'agrément est notifiée simultanément à l'exploitant de l'établissement abritant l'installation auxiliaire, au réseau et à l'organisme technique central.
+
+3.2. Le réseau doit signaler au préfet toute modification entraînant un non-respect des conditions de bon fonctionnement de l'installation ou des prescriptions qui leur sont imposées.
+
+Dans ce cas, l'agrément de l'installation auxiliaire peut être suspendu ou retiré dans les conditions fixées aux articles 19-1 et 19-2.
+
+3.3. Le réseau doit signaler à la préfecture les modifications suivantes :
+
+3.3.1. Modification du plan des installations par rapport au descriptif figurant dans le dossier d'agrément.
+
+3.3.2. Pour une personne morale, changement de la dénomination sociale ou de la forme juridique, sans changement du numéro de registre du commerce et des sociétés, de l'exploitant de l'établissement abritant l'installation auxiliaire.
+
+Dans le cas prévu au paragraphe 3.3.1 ci-dessus, le réseau doit transmettre l'attestation d'audit du réseau favorable suite aux travaux effectués.
+
+Dans le cas prévu au paragraphe 3.3.2 ci-dessus, le réseau doit transmettre un justificatif d'existence légal à jour. Le préfet notifie à l'exploitant de l'établissement abritant l'installation auxiliaire et au réseau de rattachement la prise en compte de la modification d'agrément.
 
 CHAPITRE V
 
@@ -271,5 +427,7 @@ APPENDICE 6 : AGREMENT D'UN CENTRE DE CONTROLE OU D'UNE INSTALLATION AUXILIAIRED
 APPENDICE 7 : AGREMENT D'UN CENTRE DE CONTROLE DES VEHICULES LEGERS NON-RATTACHE A UN RESEAU AVIS DE L'ORGANISME TECHNIQUE CENTRAL
 
 APPENDICE 8 : AGREMENT D'UNE INSTALLATION AUXILIAIRE  POUR LE  CONTROLE DES VEHICULES LEGERS AVIS DE L'ORGANISME TECHNIQUE CENTRAL
+
+APPENDICE 9 : NOTIFICATION DE CHANGEMENT DE CENTRE DE RATTACHEMENT D'UN CONTRÔLEUR DE VÉHICULES LÉGERS
 
 (formulaires non reproduits)
