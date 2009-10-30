@@ -1,6 +1,5 @@
 # 1998
 
-- [Décret du 1 juillet 1998 (ECOC9800035D)](decret-du-1-juillet-1998-ecoc9800035d)
 - [Décret du 1 juillet 1998 (HRUX9803065D)](decret-du-1-juillet-1998-hrux9803065d)
 - [Décret n°97-900 du 1 octobre 1997 (DEFX9700105D)](decret-n97-900-du-1-octobre-1997-defx9700105d)
 - [Décret n°97-901 du 1 octobre 1997 (DEFP9701915D)](decret-n97-901-du-1-octobre-1997-defp9701915d)
