@@ -1,0 +1,3 @@
+# Article 14
+
+Les demandeurs peuvent transmettre aux directions régionales ou départementales des affaires maritimes dont relève le quartier d'immatriculation du navire arrêté leur demande d'indemnisation des jours d'arrêt d'activité, observés en application du présent arrêté, jusqu'au 31 janvier 2010 inclus. Aucune demande transmise postérieurement à cette date ne sera examinée. Les demandes sont instruites par les directions régionales et départementales des affaires maritimes. Elles sont transmises pour liquidation et paiement à l'Etablissement national des produits de l'agriculture et de la mer (FranceAgriMer).
