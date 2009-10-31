@@ -287,8 +287,7 @@ ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 </p>
 </td>
 <td align="center">
-<p align="left">Chef du bureau des finances et de la commande publique.<br/>
-</p>
+<p align="left">Chef du service achats publics, finances, évaluation, adjoint au sous-directeur de l'administration et de la modernisation.</p>
 </td>
 </tr>
 <tr>

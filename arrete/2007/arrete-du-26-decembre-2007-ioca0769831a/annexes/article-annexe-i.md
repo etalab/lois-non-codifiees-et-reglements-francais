@@ -18,15 +18,9 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 <br/>Directions et services<br/>
 </th>
 <th>
-<br/>Fonctions <p>
-<br/>
-</p>
-</th>
+<br/>Fonctions </th>
 <th>
-<br/>Points NBI <p>
-<br/>
-</p>
-</th>
+<br/>Points NBI </th>
 </tr>
 <tr>
 <td align="center">
@@ -46,8 +40,7 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 <td align="center">
 <br/>Chef du bureau de la nationalité, des titres d'identité et de voyage. <p>Chef du bureau du contentieux des polices administratives.</p>
 <p>Chef du bureau de la responsabilité de l'administration, de l'assurance et des affaires financières.</p>
-<p>Chef de cabinet.<br/>
-</p>
+<p>Chef du bureau du droit et des procédures d'expulsion. </p>
 </td>
 <td align="center">
 <br/>60 <p>50</p>
@@ -68,10 +61,7 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 <td align="center">
 <br/>Chef du bureau du statut et du dialogue social.<br/>
 </td>
@@ -80,10 +70,7 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 <td align="center">
 <br/>Adjoint du directeur du groupement d'hélicoptères.<br/>
 </td>
@@ -92,10 +79,7 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 <td align="center">
 <br/>Adjoint administratif du chef de la base avions de la sécurité civile.<br/>
 </td>
@@ -142,29 +126,23 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 <br/>Direction de la modernisation et de l'action territoriale.<br/>
 </td>
 <td align="center">
-<br/>Chargé de mission auprès du sous-directeur de l'administration territoriale.<br/>
+<br/>Adjoint au chef du bureau des polices administratives<br/>
 </td>
 <td align="center">
 <br/>30<br/>
 </td>
 </tr>
 <tr>
+<td align="center"/>
 <td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Chef du bureau des usagers de la route et de la réglementation routière.<br/>
+<br/>Chef du bureau de la sécurité et de la réglementation routières.<br/>
 </td>
 <td align="center">
 <br/>30<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 <td align="center">
 <br/>Chef du service du fichier national des permis de conduire.<br/>
 </td>
@@ -195,10 +173,7 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 <td align="center">
 <br/>Chef du bureau des affaires financières et de l'évaluation de la dépense.<br/>
 </td>
@@ -207,10 +182,7 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 <td align="center">
 <br/>Adjoint au chef du bureau des personnels administratifs.<br/>
 </td>
@@ -219,10 +191,7 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 <td align="center">
 <br/>Adjoint au chef du bureau des personnels techniques et spécialisés.<br/>
 </td>
@@ -231,10 +200,7 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 <td align="center">
 <br/>Chef de la mission projets professionnels.<br/>
 </td>
@@ -243,16 +209,19 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 <td align="center">
 <br/>Chef de cabinet.<br/>
 </td>
 <td align="center">
 <br/>30<br/>
 </td>
+</tr>
+<tr>
+<td/>
+<td align="center">Chef de projet SINOPE. <br/>
+</td>
+<td align="center">30</td>
 </tr>
 <tr>
 <td align="center">
@@ -266,10 +235,7 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 <td align="center">
 <br/>Chef du bureau de l'emploi territorial et de la protection sociale.<br/>
 </td>
@@ -278,10 +244,7 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 <td align="center">
 <br/>Chef de cabinet.<br/>
 </td>
@@ -301,10 +264,7 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 <td align="center">
 <br/>Chef du bureau des rémunérations et régimes indemnitaires.<br/>
 </td>
@@ -313,10 +273,7 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 <td align="center">
 <br/>Chef du bureau de l'accompagnement social.<br/>
 </td>
@@ -325,10 +282,7 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 <td align="center">
 <br/>Chef du bureau du personnel et des incorporations.<br/>
 </td>
@@ -337,10 +291,7 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 <td align="center">
 <br/>Chef du bureau de l'habillement.<br/>
 </td>
@@ -349,10 +300,7 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 <td align="center">
 <br/>Chef du bureau de la gestion et de la formation des personnels.<br/>
 </td>
@@ -361,10 +309,7 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 <td align="center">
 <br/>Chef du bureau du recrutement.<br/>
 </td>
@@ -373,10 +318,7 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 <td align="center">
 <br/>Chef de cabinet du directeur de l'administration de la police nationale.<br/>
 </td>
@@ -385,10 +327,7 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 <td align="center">
 <br/>Chef de la mission de la politique immobilière.<br/>
 </td>
@@ -397,10 +336,7 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 <td align="center">
 <br/>Chef du bureau des affaires logistiques et immobilières.<br/>
 </td>
@@ -409,16 +345,19 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 <td align="center">
 <br/>Directeur de l'Institut national de formation des personnels administratifs, techniques et scientifiques.<br/>
 </td>
 <td align="center">
 <br/>50<br/>
 </td>
+</tr>
+<tr>
+<td/>
+<td align="center">Chef du bureau des politiques sociales. <br/>
+</td>
+<td align="center">30</td>
 </tr>
 <tr>
 <td align="center">
@@ -432,10 +371,7 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 <td align="center">
 <br/>Chef du bureau de la politique sociale du logement.<br/>
 </td>
@@ -444,10 +380,7 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 <td align="center">
 <br/>Chef de la division des personnels et de la logistique.<br/>
 </td>
@@ -456,10 +389,7 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 <td align="center">
 <br/>Chef du pôle action et réglementation économiques, veille et prospective.<br/>
 </td>
@@ -469,28 +399,10 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 </tr>
 <tr>
 <td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Chef du bureau du cabinet.<br/>
-</td>
-<td align="center">
-<br/>50<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
 <br/>Préfecture de police :<br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
@@ -541,8 +453,7 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 <br/>Service des affaires immobilières.<br/>
 </td>
 <td align="center">
-<br/>Chef du département construction et travaux.<br/>
-</td>
+<br/>Chef du bureau des affaires budgétaires, adjoint au chef du département modernisation, moyens et méthode. (1) </td>
 <td align="center">
 <br/>50<br/>
 </td>
@@ -559,10 +470,7 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 <td align="center">
 <br/>Chef du 3e bureau.<br/>
 </td>
@@ -571,10 +479,7 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 <td align="center">
 <br/>Chef du 4e bureau.<br/>
 </td>
@@ -583,10 +488,7 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 <td align="center">
 <br/>Chef du 5e bureau.<br/>
 </td>
@@ -595,10 +497,7 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 <td align="center">
 <br/>Chef du 6e bureau.<br/>
 </td>
@@ -607,10 +506,7 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 <td align="center">
 <br/>Chef du 7e bureau.<br/>
 </td>
@@ -619,10 +515,7 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 <td align="center">
 <br/>Chef du 8e bureau.<br/>
 </td>
@@ -631,10 +524,7 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 <td align="center">
 <br/>Chef du 9e bureau.<br/>
 </td>
@@ -643,10 +533,7 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 <td align="center">
 <br/>Chef du 10e bureau.<br/>
 </td>
