@@ -25,6 +25,7 @@
 - [Ordonnance n° 2009-1019 du 26 août 2009 (IOCX0912629R)](ordonnance-n-2009-1019-du-26-aout-2009-iocx0912629r)
 - [Ordonnance n° 2009-229 du 26 février 2009 (DEVX0900966R)](ordonnance-n-2009-229-du-26-fevrier-2009-devx0900966r)
 - [Ordonnance n° 2009-233 du 26 février 2009 (ECET0822074R)](ordonnance-n-2009-233-du-26-fevrier-2009-ecet0822074r)
+- [Ordonnance n° 2009-1336 du 29 octobre 2009 (IOCO0911366R)](ordonnance-n-2009-1336-du-29-octobre-2009-ioco0911366r)
 - [Ordonnance n° 2009-483 du 29 avril 2009 (MCCX0907313R)](ordonnance-n-2009-483-du-29-avril-2009-mccx0907313r)
 - [Ordonnance n° 2009-935 du 29 juillet 2009 (IOCA0915088R)](ordonnance-n-2009-935-du-29-juillet-2009-ioca0915088r)
 - [Ordonnance n° 2009-936 du 29 juillet 2009 (IOCX0913618R)](ordonnance-n-2009-936-du-29-juillet-2009-iocx0913618r)
