@@ -1162,7 +1162,6 @@
 - [Décret du 24 avril 2007 (AGRP0700650D)](decret-du-24-avril-2007-agrp0700650d)
 - [Décret du 24 avril 2007 (AGRP0700651D)](decret-du-24-avril-2007-agrp0700651d)
 - [Décret du 24 avril 2007 (AGRP0700652D)](decret-du-24-avril-2007-agrp0700652d)
-- [Décret du 24 décembre 1985](decret-du-24-decembre-1985)
 - [Décret n° 2007-88 du 24 janvier 2007 (EQUU0700102D)](decret-n-2007-88-du-24-janvier-2007-equu0700102d)
 - [Décret n° 2007-89 du 24 janvier 2007 (EQUU0700103D)](decret-n-2007-89-du-24-janvier-2007-equu0700103d)
 - [Décret n° 2007-94 du 24 janvier 2007 (BUDF0600054D)](decret-n-2007-94-du-24-janvier-2007-budf0600054d)
