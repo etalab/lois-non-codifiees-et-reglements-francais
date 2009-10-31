@@ -287,7 +287,6 @@
 - [Arrêté du 11 janvier 1993 (EQUU9300081A)](arrete-du-11-janvier-1993-equu9300081a)
 - [Arrêté du 11 janvier 1993 (TOUR9204590A)](arrete-du-11-janvier-1993-tour9204590a)
 - [Arrêté du 11 juin 1993 (EQUA9300954A)](arrete-du-11-juin-1993-equa9300954a)
-- [Arrêté du 11 juin 1993 (EQUA9300956A)](arrete-du-11-juin-1993-equa9300956a)
 - [Arrêté du 11 juin 1993 (INDA9300535A)](arrete-du-11-juin-1993-inda9300535a)
 - [Arrêté du 11 juin 1993 (INTB9300385A)](arrete-du-11-juin-1993-intb9300385a)
 - [Arrêté du 11 mars 1993 (INDA9300143A)](arrete-du-11-mars-1993-inda9300143a)

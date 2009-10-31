@@ -27,8 +27,6 @@
 - [Décret n°94-756 du 1 septembre 1994 (SPSS9402586D)](decret-n94-756-du-1-septembre-1994-spss9402586d)
 - [Décret n°94-781 du 1 septembre 1994 (SPSA9402577D)](decret-n94-781-du-1-septembre-1994-spsa9402577d)
 - [Décret n°94-782 du 1 septembre 1994 (SPSH9401937D)](decret-n94-782-du-1-septembre-1994-spsh9401937d)
-- [Décret n°93-1279 du 2 décembre 1993 (EQUX9300198D)](decret-n93-1279-du-2-decembre-1993-equx9300198d)
-- [Décret n°93-1280 du 2 décembre 1993 (EQUX9300199D)](decret-n93-1280-du-2-decembre-1993-equx9300199d)
 - [Décret n°94-1031 du 2 décembre 1994 (SPSS9403199D)](decret-n94-1031-du-2-decembre-1994-spss9403199d)
 - [Décret n°94-1044 du 2 décembre 1994 (RESM9401475D)](decret-n94-1044-du-2-decembre-1994-resm9401475d)
 - [Décret n°94-1052 du 2 décembre 1994 (DEFP9402099D)](decret-n94-1052-du-2-decembre-1994-defp9402099d)

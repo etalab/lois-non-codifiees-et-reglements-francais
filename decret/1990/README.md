@@ -230,7 +230,6 @@
 - [Décret n°90-807 du 11 septembre 1990 (MENF9002049D)](decret-n90-807-du-11-septembre-1990-menf9002049d)
 - [Décret n°90-814 du 11 septembre 1990 (ECOA9000046D)](decret-n90-814-du-11-septembre-1990-ecoa9000046d)
 - [Décret n°90-922 du 11 octobre 1990 (INTX9000157D)](decret-n90-922-du-11-octobre-1990-intx9000157d)
-- [Décret n°90-923 du 11 octobre 1990 (EQUX9000161D)](decret-n90-923-du-11-octobre-1990-equx9000161d)
 - [Décret n°91-1248 du 11 décembre 1991 (MCCB9100526D)](decret-n91-1248-du-11-decembre-1991-mccb9100526d)
 - [Décret n°89-315 du 11 mai 1989 (BUDD8963063D)](decret-n89-315-du-11-mai-1989-budd8963063d)
 - [Décret n°90-392 du 11 mai 1990 (LOGC9000032D)](decret-n90-392-du-11-mai-1990-logc9000032d)
