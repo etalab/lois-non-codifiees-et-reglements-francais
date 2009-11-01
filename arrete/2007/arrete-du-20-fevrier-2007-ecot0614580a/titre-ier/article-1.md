@@ -2,7 +2,7 @@
 
 Les entreprises assujetties au présent arrêté, dénommées ci-après établissements assujettis, sont :
 
-- les établissements de crédit ;
+- les établissements de crédit ;  aux établissements de paiement qui octroient des crédits mentionnés au II de l'article L. 522-2 du code monétaire et financier ;
 
 - les entreprises d'investissement visées à l'article L. 531-4 du code monétaire et financier autres que les sociétés de gestion de portefeuille visées à l'article L. 532-9 du même code et autres que les entreprises d'investissement qui ne détiennent ni fonds ni titres appartenant à la clientèle et qui fournissent exclusivement, de manière cumulative ou non, le ou les services d'investissement visés aux points 1 et 5 de l'article L. 321-1 du même code ;
 
