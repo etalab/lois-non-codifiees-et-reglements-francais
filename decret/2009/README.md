@@ -1017,6 +1017,8 @@
 - [Décret n°2009-925 du 27 juillet 2009 (EATM0910550D)](decret-n2009-925-du-27-juillet-2009-eatm0910550d)
 - [Décret n°83-568 du 27 juin 1983](decret-n83-568-du-27-juin-1983)
 - [Décret n°96-1177 du 27 décembre 1996 (MIPP9600463D)](decret-n96-1177-du-27-decembre-1996-mipp9600463d)
+- [Décret n°2005-573 du 27 mai 2005 (FPPA0510005D)](decret-n2005-573-du-27-mai-2005-fppa0510005d)
+- [Décret n°2005-575 du 27 mai 2005 (FPPA0510007D)](decret-n2005-575-du-27-mai-2005-fppa0510007d)
 - [Décret n°2009-602 du 27 mai 2009 (MTSA0910478D)](decret-n2009-602-du-27-mai-2009-mtsa0910478d)
 - [Décret n°2001-1332 du 28 décembre 2001 (MCCT0100750D)](decret-n2001-1332-du-28-decembre-2001-mcct0100750d)
 - [Décret n°2007-1405 du 28 septembre 2007 (MCCB0761126D)](decret-n2007-1405-du-28-septembre-2007-mccb0761126d)
