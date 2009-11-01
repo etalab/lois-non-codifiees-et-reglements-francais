@@ -12,4 +12,4 @@ La juridiction peut également communiquer de la même façon aux mêmes personn
 
 ― paramétrer les caractéristiques de l'application en fonction des préférences des utilisateurs.
 
-Les agents des greffes des tribunaux administratifs de Cergy-Pontoise, Melun, Paris et Versailles et des cours administratives d'appel de Paris et Versailles habilités à procéder à la communication de requêtes, de mémoires et de pièces et à la notification de décisions prises pour l'instruction des affaires et de décisions juridictionnelles s'authentifient à l'aide d'un identifiant et d'un mot de passe avant l'envoi d'un document à l'une des parties.
+Les agents des greffes des tribunaux administratifs de Cergy-Pontoise, Melun, Montreuil, Paris et Versailles et des cours administratives d'appel de Paris et Versailles habilités à procéder à la communication de requêtes, de mémoires et de pièces et à la notification de décisions prises pour l'instruction des affaires et de décisions juridictionnelles s'authentifient à l'aide d'un identifiant et d'un mot de passe avant l'envoi d'un document à l'une des parties.
