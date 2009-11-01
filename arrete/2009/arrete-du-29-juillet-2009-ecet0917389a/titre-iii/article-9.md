@@ -1,0 +1,7 @@
+# Article 9
+
+Pour l'application de l'article L. 314-15 du code monétaire et financier, le contrat mentionné à l'article 2 doit mentionner les principales caractéristiques des services de paiement et leurs modalités de fonctionnement, ainsi que les tarifs applicables aux opérations de paiement correspondantes et les règles applicables aux opérations de paiement par carte non autorisées prévues à l'article L. 133-1-1 du code monétaire et financier.
+
+Le contrat précise également les modalités d'information sur les opérations en crédit ou en débit résultant de l'utilisation de services de paiement ainsi que les informations prévues aux points 2 (f à i), 4 (a, c et e), 5 (a et b), 6 et 8 de l'article 2 du présent arrêté.
+
+Pour les opérations mentionnées à l'article L. 314-15 du code monétaire et financier, après la réception d'un ordre de paiement pour une opération de paiement isolée ou après l'exécution d'une opération de paiement, le prestataire de services de paiement doit fournir à l'utilisateur de services de paiement les informations prévues à l'article 7 du présent arrêté, à l'exception du détail des frais et du taux de change appliqué à l'opération de paiement ou la référence à ce taux. Les parties peuvent décider contractuellement que ces informations seront fournies ou mises à disposition selon les modalités ou la fréquence prévues au point 4 (b) de l'article 2 du présent arrêté.

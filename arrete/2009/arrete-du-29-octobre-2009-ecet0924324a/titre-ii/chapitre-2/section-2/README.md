@@ -1,0 +1,3 @@
+# SECTION 2 : COUVERTURE DES FONDS DES CLIENTS
+
+- [Article 35](article-35.md)
