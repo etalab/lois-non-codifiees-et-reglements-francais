@@ -10,7 +10,7 @@ b) Le choix des investissements et des cessions d'actifs immobiliers ;
 
 c) La détermination du montant des acomptes sur dividende ;
 
-d) La fixation du prix d'émission des parts et l'établissement du prix d'exécution ;
+d) La fixation du prix d'émission des parts ;
 
 e) Les décisions concernant les travaux, hormis ceux entrant dans la gestion courante du patrimoine ;
 

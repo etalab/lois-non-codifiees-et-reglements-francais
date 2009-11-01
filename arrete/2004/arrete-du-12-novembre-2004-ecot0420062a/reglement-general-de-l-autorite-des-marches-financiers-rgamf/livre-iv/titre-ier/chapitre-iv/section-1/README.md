@@ -1,4 +1,4 @@
-# Section 1 : Dispositions communes
+# Section 1 : Dispositions communes aux fonds communs de placement à risques agréés
 
 - [Sous-section 1 : Constitution et agrément](sous-section-1)
 - [Sous-section 2 : Règles de fonctionnement](sous-section-2)
