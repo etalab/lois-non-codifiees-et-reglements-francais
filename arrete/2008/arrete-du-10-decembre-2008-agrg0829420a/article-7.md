@@ -1,19 +1,37 @@
 # Article 7
 
-Dans les élevages où une vaccination contre un ou plusieurs sérotypes de fièvre catarrhale ovine est réalisée conformément aux dispositions des articles 24 et 25 de l'arrêté du 1er avril 2008 susvisé, l'Etat participe au financement de cette vaccination de la manière suivante :
+Dans les élevages où une vaccination contre un ou plusieurs sérotypes de fièvre catarrhale du mouton est réalisée conformément aux dispositions de l'article 24 de l'arrêté du 28 octobre 2009 susvisé, l'Etat participe au financement de cette vaccination du 2 novembre 2009 au 31 mars 2010 de la manière suivante :
 
-1° L'Etat participe à l'achat des vaccins sérotype 8 destinés aux bovins, aux fins de laisser à la charge finale de l'éleveur 50 % du montant hors taxes du prix moyen d'achat par l'Etat des doses vaccinales, dans la limite d'une participation de 0, 29 € hors taxes par dose vaccinale.
+1° L'Etat met à disposition du vétérinaire sanitaire de l'exploitation à titre gratuit les vaccins contre les sérotypes 1 et 8 de la fièvre catarrhale du mouton à destination de bovins, ovins et caprins en élevage ;
 
-2° L'Etat participe à l'achat des vaccins sérotype 1 destinés aux bovins, aux fins de laisser à la charge finale de l'éleveur 50 % du montant hors taxes du prix moyen d'achat par l'Etat des doses vaccinales, dans la limite d'une participation de 0, 4 € hors taxes par dose vaccinale.
+2° L'Etat prend en charge les coûts de la vaccination prophylactique en versant au vétérinaire sanitaire de l'élevage ayant réalisé cette vaccination une somme forfaitaire de :
 
-3° L'Etat participe à l'achat des vaccins sérotype 1 et sérotype 8 destinés aux ovins et aux caprins, aux fins de laisser à la charge finale de l'éleveur une participation de 0, 1 € hors taxes par dose vaccinale.
+a) 3,50 euros hors taxes par bovin vacciné contre les sérotypes 1 et 8 de la fièvre catarrhale du mouton au titre de la primovaccination ;
 
-4° L'Etat participe aux coûts de réalisation de la vaccination à titre prophylactique en versant au vétérinaire ayant réalisé cette vaccination, dans la limite du plafond de 50 % des dépenses engagées hors taxes :
+b) 1,75 euro hors taxes par bovin vacciné contre les sérotypes 1 et 8 de la fièvre catarrhale du mouton au titre du rappel de vaccination ;
 
-a) 2 euros par bovin valablement vacciné contre les sérotypes 1 et 8 de la fièvre catarrhale ovine ;
+c) 1,20 euro hors taxes par ovin ou caprin vacciné contre les sérotypes 1 et 8 de la fièvre catarrhale du mouton au titre de la primo-vaccination ;
 
-b) 0, 75 euro par ovin ou caprin valablement vacciné contre les sérotypes 1 et 8 de la fièvre catarrhale ovine.
+d) 0,60 euro hors taxes par ovin ou caprin vacciné contre les sérotypes 1 et 8 de la fièvre catarrhale du mouton au titre de la vaccination de rappel.
 
-La participation de l'Etat aux coûts de réalisation de la vaccination à titre prophylactique est fixe, quel que soit le nombre d'injections nécessaires à la vaccination de l'animal.
+La prise en charge par l'Etat au titre de la vaccination prophylactique est fixe, quel que soit le nombre d'injections nécessaires à la vaccination de l'animal ;
 
-5° L'Etat verse au vétérinaire sanitaire ayant réalisé la vaccination la somme de 1 / 1 500 du montant de l'acte médical défini par l'ordre des vétérinaires, par animal vacciné à compter du 17 décembre 2008, au titre du surcoût administratif lié à l'intervention du vétérinaire sanitaire pour le compte de l'Etat. Cette somme n'est versée qu'aux vétérinaires sanitaires auxquels est également versée la participation de l'Etat aux coûts de vaccination, tels que visés au 4° du présent article.
+3° L'Etat verse au vétérinaire sanitaire ayant réalisé la vaccination :
+
+a) Au titre des charges administratives, une somme forfaitaire de :
+
+0,20 euro hors taxes par bovin vacciné ;
+
+0,10 euro hors taxes par ovin ou caprin vacciné.
+
+Le versement de ce montant est conditionné au respect de la transmission des éléments d'information mentionnés au 6° de l'article 24 de l'arrêté du 28 octobre 2009 susvisé ;
+
+b) Au titre du coût d'acheminement des vaccins par les plates-formes de distribution, une somme forfaitaire de :
+
+0,16 euro hors taxes par bovin vacciné contre les sérotypes 1 et 8 de la fièvre catarrhale du mouton au titre de la primovaccination ;
+
+0,08 euro hors taxes par bovin vacciné contre les sérotypes 1 et 8 de la fièvre catarrhale du mouton au titre du rappel de vaccination ;
+
+0,16 euro hors taxes par ovin ou caprin vacciné contre les sérotypes 1 et 8 de la fièvre catarrhale du mouton au titre de la primo-vaccination ;
+
+0,08 euro hors taxes par ovin ou caprin vacciné contre les sérotypes 1 et 8 de la fièvre catarrhale du mouton au titre du rappel de vaccination.
