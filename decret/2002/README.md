@@ -93,7 +93,6 @@
 - [Décret n° 97-1208 du 19 décembre 1997 (MJSX9700134D)](decret-n-97-1208-du-19-decembre-1997-mjsx9700134d)
 - [Décret n°2002-549 du 19 avril 2002 (MENS0200397D)](decret-n2002-549-du-19-avril-2002-mens0200397d)
 - [Décret n°2002-550 du 19 avril 2002 (MESH0220702D)](decret-n2002-550-du-19-avril-2002-mesh0220702d)
-- [Décret du 20 décembre 2002 (AGRP0201999D)](decret-du-20-decembre-2002-agrp0201999d)
 - [Décret n°2001-1085 du 20 novembre 2001 (MESA0124007D)](decret-n2001-1085-du-20-novembre-2001-mesa0124007d)
 - [Décret n°2001-1226 du 20 décembre 2001 (INTM0100054D)](decret-n2001-1226-du-20-decembre-2001-intm0100054d)
 - [Décret n°2002-1369 du 20 novembre 2002 (ECOA0220040D)](decret-n2002-1369-du-20-novembre-2002-ecoa0220040d)
