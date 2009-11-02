@@ -1,3 +1,3 @@
 # Article 16
 
-L'agent comptable de l'établissement est nommé par arrêté conjoint du ministre chargé de la recherche et du ministre chargé du budget. Des comptables secondaires peuvent être désignés par le directeur général après avis de l'agent comptable principal et avec l'agrément du ministre chargé du budget.
+L'Institut national de physique nucléaire et de physique des particules, créé par le décret n° 84-667 du 17 juillet 1984, et l'Institut national des sciences de l'univers, créé par le décret n° 85-218 du 13 février 1985, exercent des missions nationales et sont des instituts au titre du présent chapitre.

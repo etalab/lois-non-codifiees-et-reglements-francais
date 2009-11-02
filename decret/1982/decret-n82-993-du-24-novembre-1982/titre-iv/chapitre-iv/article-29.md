@@ -10,15 +10,15 @@ c) Huit personnalités scientifiques étrangères, dont cinq au moins exerçant 
 
 Le mandat des membres élus ou nommés est de quatre ans. Nul ne peut exercer plus de deux mandats consécutifs.
 
-Nul ne peut être membre du conseil scientifique s'il est membre du conseil d'administration, d'une section du comité national ou d'un conseil scientifique de département.
+Nul ne peut être membre du conseil scientifique s'il est membre du conseil d'administration ou d'une section du comité national.
 
 Le président du conseil scientifique est élu en son sein.
 
-Le conseil scientifique se réunit au moins trois fois par an sur convocation de son président qui fixe l'ordre du jour après avis du directeur général.
+Le conseil scientifique se réunit au moins trois fois par an sur convocation de son président qui fixe l'ordre du jour après avis du président du centre.
 
-Le président du centre et le directeur général assistent aux séances du conseil scientifique.
+Le président du centre assiste aux séances du conseil scientifique.
 
-Les directeurs de département peuvent être entendus en tant que de besoin par le conseil scientifique.
+Les directeurs d'institut peuvent être entendus en tant que de besoin par le conseil scientifique.
 
 Le président peut appeler à participer aux séances, avec voix consultative, toute personne dont il juge la présence utile.
 

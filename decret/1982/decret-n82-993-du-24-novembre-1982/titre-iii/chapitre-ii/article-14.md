@@ -1,5 +1,5 @@
 # Article 14
 
-Le directeur général nomme les délégués régionaux qui assurent la représentation du centre et coordonnent ses activités dans leur circonscription.
+Les instituts comprennent un conseil scientifique dont les attributions et la composition sont fixées à l'article 26.
 
-Les délégués régionaux sont assistés de conseils consultatifs dont la composition est déterminée par le directeur général.
+S'ils sont investis d'une ou plusieurs missions nationales, les instituts comprennent également un conseil d'orientation qui assure la représentation des différents opérateurs concernés. Les attributions et la composition de ce conseil sont fixées par arrêté du ministre chargé de la recherche.

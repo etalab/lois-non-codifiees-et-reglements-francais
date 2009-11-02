@@ -2,7 +2,7 @@
 
 Dans le cadre de la politique scientifique définie par le Gouvernement, en relation avec les besoins culturels, économiques et sociaux de la nation et en liaison avec les établissements d'enseignement supérieur et de recherche, le Centre national de la recherche scientifique a pour missions :
 
-- d'évaluer, d'effectuer ou de faire effectuer toutes recherches présentant un intérêt pour l'avancement de la science ainsi que pour le progrès économique, social et culturel du pays ;
+- d'identifier, d'effectuer ou de faire effectuer, seul ou avec ses partenaires, toutes recherches présentant un intérêt pour l'avancement de la science ainsi que pour le progrès économique, social et culturel du pays ;
 
 - de contribuer à l'application et à la valorisation des résultats de ces recherches ;
 
@@ -22,13 +22,11 @@ Pour l'accomplissement de ces missions, le Centre national de la recherche scien
 
 - recruter et affecter des personnels de recherche dans la limite des emplois autorisés par la loi de finances ;
 
-- prendre en charge des déplacements et des séjours de personnels en tout lieu où les appellent les missions du centre ;
-
 - construire et gérer, le cas échéant, dans le cadre d'accords nationaux ou internationaux, des grands équipements de recherche ;
 
 - constituer des filiales et prendre des participations ;
 
-- participer, notamment dans le cadre des groupements d'intérêt public, à des actions menées en commun avec des services de l'Etat, des collectivités locales ou d'autres organismes publics ou privés, français ou étrangers ;
+- participer, notamment dans le cadre des structures de coopération régies par les dispositions du titre IV du livre III du code de la recherche, à des actions menées en commun avec des services de l'Etat, des collectivités locales ou d'autres organismes publics ou privés, français ou étrangers ;
 
 - participer à l'élaboration et à la mise en oeuvre d'accords de coopération scientifique internationale et de coopération pour le développement;
 

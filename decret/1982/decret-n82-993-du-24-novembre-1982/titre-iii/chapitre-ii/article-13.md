@@ -1,3 +1,5 @@
 # Article 13
 
-Des programmes intéressant plusieurs départements scientifiques peuvent être décidés par le directeur général après avis du conseil scientifique et approbation du conseil d'administration. Le directeur général nomme les directeurs de ces programmes sur avis conforme du président du centre.
+Les instituts sont créés, supprimés ou transformés par décision du président du centre, après avis du conseil scientifique et approbation du conseil d'administration.
+
+Le président du centre définit l'organisation et le fonctionnement de chaque institut.

@@ -1,4 +1,3 @@
-# CHAPITRE III : Les conseils scientifiques de département et les comités de programme.
+# CHAPITRE III :  Les conseils scientifiques d'institut.
 
 - [Article 26](article-26.md)
-- [Article 27](article-27.md)

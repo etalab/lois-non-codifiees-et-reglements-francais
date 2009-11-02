@@ -1,17 +1,17 @@
 # Article 26
 
-Les conseils scientifiques de département conseillent et assistent les directeurs des départements scientifiques dans la préparation et la mise en oeuvre de la politique scientifique du centre dans leur domaine. Ils sont notamment consultés par ces directeurs de département sur les grandes lignes de leur action.
+Le conseil scientifique d'institut conseille et assiste par ses avis et ses recommandations le directeur de l'institut de manière prospective sur la pertinence et l'opportunité des projets et activités de l'institut.
 
-Les conseils scientifiques de département procèdent à l'analyse de leur domaine et de ses perspectives d'évolution. A cette fin, ils utilisent notamment les rapports de conjoncture et de prospective des sections du comité national.
+Le conseil scientifique d'institut comprend :
 
-Les conseils scientifiques de département comprennent des membres élus directement par et parmi les personnels du centre et les personnes qui contribuent aux activités de ce dernier et, en nombre égal, des membres nommés par le directeur général, dont la moitié sur proposition du conseil scientifique du centre.
+1° Des membres élus directement par et parmi les personnels du centre et les personnes qui contribuent aux activités de ce dernier ;
 
-Ils comprennent des personnalités étrangères, dont la moitié au moins exerçant leur activité dans des pays de l'Union européenne autres que la France.
+2° Des membres nommés par le président après avis du conseil scientifique du centre, en nombre égal aux membres élus, et comprenant des personnalités étrangères dont la moitié au moins exerce dans des pays de l'Union européenne autres que la France ;
 
-Le mandat des membres des conseils scientifiques de département est de quatre ans, renouvelable une fois. Cette durée peut être réduite ou prolongée, dans la limite d'un an, par arrêté du ministre chargé de la recherche pour permettre l'élection simultanée des membres de ces conseils et de ceux du conseil scientifique et des sections du comité national de la recherche scientifique.
+Le directeur de l'institut assiste de droit aux séances du conseil scientifique d'institut ;
 
-Un arrêté du ministre chargé de la recherche fixe la composition, le mode d'élection et les règles de fonctionnement des conseils scientifiques de département.
+Le mandat des membres du conseil scientifique d'institut est de quatre ans, renouvelable une fois. Cette durée peut être réduite ou prorogée, dans la limite d'un an, par décision du président, pour les besoins de l'organisation des élections du comité national ;
 
-Les conseils scientifiques de département élisent leur président.
+Le conseil scientifique d'institut élit son président ;
 
-Le conseil scientifique de département se réunit au moins deux fois par an sur convocation du directeur de département, qui assiste de droit aux séances.
+Le conseil scientifique se dote d'un règlement intérieur précisant ses modalités de fonctionnement.

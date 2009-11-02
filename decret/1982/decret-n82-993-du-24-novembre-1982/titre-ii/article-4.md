@@ -16,7 +16,7 @@ Un suppléant est désigné dans les mêmes conditions pour chacun de ces membre
 
 3° Quatre membres élus, pour une durée de quatre ans, par les personnels du centre et parmi eux. Deux d'entre eux sont choisis parmi les personnels appartenant aux corps de chercheurs et les deux autres parmi les personnels appartenant aux corps d'ingénieurs, de personnels techniques et d'administration de la recherche. Les modalités d'élection sont fixées par arrêté du ministre chargé de la recherche ;
 
-4° Douze personnalités qualifiées nommées pour une durée de quatre ans par décret pris sur proposition du ministre chargé de la recherche, choisies :
+4° Douze personnalités qualifiées nommées pour une durée de quatre ans par arrêté du ministre chargé de la recherche, choisies :
 
 a) Pour quatre d'entre elles en raison de leur compétence scientifique et technologique ;
 
@@ -28,7 +28,7 @@ Le mandat des membres élus prend effet à la date du décret de nomination des 
 
 Les membres mentionnés au 3° et au 4° ne peuvent exercer plus de deux mandats consécutifs.
 
-Le directeur général, le président du conseil scientifique, le secrétaire général, le membre du corps du contrôle général économique et financier et l'agent comptable assistent aux séances avec voix consultative.
+Le président du conseil scientifique, les directeurs généraux délégués, l'autorité chargée du contrôle général économique et financier et l'agent comptable assistent aux séances avec voix consultative.
 
 Le président du centre peut appeler à participer aux séances, avec voix consultative, toute personne dont il juge la présence utile.
 
