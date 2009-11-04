@@ -152,7 +152,7 @@ Institut français de Vienne.
 
 Azerbaîdjan
 
-Centre culturel français George Sand à Bakou
+Centre culturel français George Sand à Bakou.
 
 Bénin
 
@@ -268,8 +268,6 @@ Institut français de Madrid.
 
 Institut français de Saragosse.
 
-Institut français de Séville.
-
 Institut français de Valence.
 
 Estonie
@@ -310,7 +308,7 @@ Centre culturel français.
 
 Guinée-Bissau
 
-Centre culturel franco-Bissau-guinéen de droit local
+Centre culturel franco-Bissau-guinéen de droit local.
 
 Guinée équatoriale
 
@@ -564,7 +562,7 @@ Institut français de coopération de Tunis.
 
 Turkménistan
 
-Centre culturel français d'Achgabat
+Centre culturel français d'Achgabat.
 
 Turquie
 
