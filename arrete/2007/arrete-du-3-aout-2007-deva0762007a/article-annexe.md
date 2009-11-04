@@ -1,32 +1,6 @@
 # Article Annexe
 
-LIAISONS RÉGULIÈRES DE PASSAGERS,
-
-DE COURRIER ET DE FRET
-
-Jusqu'au 15 décembre 2007 :
-
-Paris-Cancún (Mexique) ;
-
-Paris-Malé (Maldives).
-
-Jusqu'au 31 octobre 2008 :
-
-Paris-Cayo Coco (Cuba) ;
-
-Paris-La Havane (Cuba) ;
-
-Paris-Varadero (Cuba) ;
-
-Paris-Fez (Maroc) ;
-
-Paris-Marrakech (Maroc).
-
-Jusqu'au 31 juillet 2009 :
-
-Paris-Ho Chi Minh-Ville (Viet Nam) ;
-
-Paris-Kilimandjaro (Tanzanie).
+LIAISONS RÉGULIÈRES DE PASSAGERS, DE COURRIER ET DE FRET
 
 Jusqu'au 30 novembre 2009 :
 
@@ -137,3 +111,9 @@ Pointe-à-Pitre - Montréal (Canada) ;
 Nantes - Québec (Canada) ;
 
 Paris - Port-au-Prince (Haïti).
+
+Jusqu'au 31 août 2014 :
+
+Paris - Kilimandjaro (Tanzanie) ;
+
+Paris - Hô Chi Minh-Ville (Vietnam).
