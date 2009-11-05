@@ -471,7 +471,6 @@
 - [Arrêté du 15 janvier 1997 (EQUZ9700032A)](arrete-du-15-janvier-1997-equz9700032a)
 - [Arrêté du 15 janvier 1997 (JUSC9720002A)](arrete-du-15-janvier-1997-jusc9720002a)
 - [Arrêté du 15 janvier 1997 (TASP9720160A)](arrete-du-15-janvier-1997-tasp9720160a)
-- [Arrêté du 15 juillet 1997 (ECOI9700450A)](arrete-du-15-juillet-1997-ecoi9700450a)
 - [Arrêté du 15 juillet 1997 (JUSE9740080A)](arrete-du-15-juillet-1997-juse9740080a)
 - [Arrêté du 15 octobre 1997 (ECOI9700563A)](arrete-du-15-octobre-1997-ecoi9700563a)
 - [Arrêté du 15 octobre 1997 (ECOL9700077A)](arrete-du-15-octobre-1997-ecol9700077a)
