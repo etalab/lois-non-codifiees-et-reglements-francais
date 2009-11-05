@@ -2,18 +2,14 @@
 
 La dernière session d'examen des brevets d'études professionnelles suivants aura lieu en 2010 :
 
-― maintenance des équipements de commande de systèmes industriels ;
+- mise en œuvre des matériaux option céramique ;
 
-― mise en œuvre des matériaux option céramique ;
+- maintenance de véhicules automobiles, bateaux de plaisance et de pêche ;
 
-― maintenance de véhicules automobiles, bateaux de plaisance et de pêche ;
+- outillages ;
 
-― outillages ;
+- mise en œuvre des matériaux option matériaux textiles ;
 
-― mise en œuvre des matériaux, option industries textiles ;
+- carrosserie ;
 
-― carrosserie ;
-
-― métiers de l'électronique ;
-
-― maintenance des véhicules et des matériels.
+- maintenance des véhicules et des matériels.
