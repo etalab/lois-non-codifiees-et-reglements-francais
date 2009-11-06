@@ -2239,7 +2239,6 @@
 - [Arrêté du 27 avril 2009 (MTST0908563A)](arrete-du-27-avril-2009-mtst0908563a)
 - [Arrêté du 27 avril 2009 (SASP0902546A)](arrete-du-27-avril-2009-sasp0902546a)
 - [Arrêté du 27 avril 2009 (SASS0903462A)](arrete-du-27-avril-2009-sass0903462a)
-- [Arrêté du 27 avril 2009 (SASV0909639A)](arrete-du-27-avril-2009-sasv0909639a)
 - [Arrêté du 27 avril 2009 (SASV0909662A)](arrete-du-27-avril-2009-sasv0909662a)
 - [Arrêté du 27 février 1996 (DEFA9601238A)](arrete-du-27-fevrier-1996-defa9601238a)
 - [Arrêté du 27 février 2009 (AGRG0904763A)](arrete-du-27-fevrier-2009-agrg0904763a)
