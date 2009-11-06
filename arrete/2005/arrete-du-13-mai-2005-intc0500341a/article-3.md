@@ -2,8 +2,6 @@
 
 La sous-direction des ressources humaines comprend :
 
-- la section études statistiques et suivi des emplois et compétences ;
-
 - le bureau des commissaires de police ;
 
 - le bureau des officiers de police ;
@@ -20,4 +18,6 @@ La sous-direction des ressources humaines comprend :
 
 - le bureau du recrutement ;
 
-- la mission nationale pour la réserve civile.
+- la mission nationale pour la réserve civile ;
+
+- la mission de prévision des effectifs, de la gestion des compétences et de la coordination.
