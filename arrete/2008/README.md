@@ -686,7 +686,6 @@
 - [Arrêté du 18 juillet 2008 (SJSV0817902A)](arrete-du-18-juillet-2008-sjsv0817902a)
 - [Arrêté du 18 juin 2008 (BCFB0756387A)](arrete-du-18-juin-2008-bcfb0756387a)
 - [Arrêté du 18 juin 2008 (BCFF0814507A)](arrete-du-18-juin-2008-bcff0814507a)
-- [Arrêté du 18 juin 2008 (ECEP0813967A)](arrete-du-18-juin-2008-ecep0813967a)
 - [Arrêté du 18 juin 2008 (ESRH0814062A)](arrete-du-18-juin-2008-esrh0814062a)
 - [Arrêté du 18 novembre 2008 (AGRG0827296A)](arrete-du-18-novembre-2008-agrg0827296a)
 - [Arrêté du 18 novembre 2008 (AGRG0827382A)](arrete-du-18-novembre-2008-agrg0827382a)
