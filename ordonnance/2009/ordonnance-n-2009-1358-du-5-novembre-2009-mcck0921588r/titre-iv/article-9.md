@@ -1,0 +1,5 @@
+# Article 9
+
+Les engagements de programmation en cours à la date de publication de la présente ordonnance sont maintenus en vigueur. Au titre de leur application à compter de cette date et au moins trois mois avant leur terme, le président du Centre national du cinéma et de l'image animée reçoit des opérateurs concernés un bilan d'exécution ainsi que des propositions d'engagements conformément aux dispositions des articles L. 212-22 à L. 212-26 du code du cinéma et de l'image animée dans leur rédaction issue de la présente ordonnance. Ces éléments sont transmis pour observations et recommandations au médiateur du cinéma avant l'homologation par le président des nouveaux engagements.
+
+Les personnes nouvellement tenues de souscrire des engagements en vertu de la section 5 du chapitre II du titre Ier du livre II du code du cinéma et de l'image animée dans sa rédaction issue de la présente ordonnance disposent d'un délai de trois mois à compter de la publication du décret prévu à l'article L. 212-26 de ce code pour formuler des propositions d'engagement conformément aux dispositions des articles L. 212-22 à L. 212-26 du même code.

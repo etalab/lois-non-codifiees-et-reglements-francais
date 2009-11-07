@@ -88,6 +88,7 @@
 - [Décret n°2009-1185 du 5 octobre 2009 (BCFS0911643D)](decret-n2009-1185-du-5-octobre-2009-bcfs0911643d)
 - [Décret n°2009-12 du 5 janvier 2009 (DEFH0820791D)](decret-n2009-12-du-5-janvier-2009-defh0820791d)
 - [Décret n°2009-13 du 5 janvier 2009 (DEFH0820796D)](decret-n2009-13-du-5-janvier-2009-defh0820796d)
+- [Décret n°2009-1356 du 5 novembre 2009 (MTSV0923858D)](decret-n2009-1356-du-5-novembre-2009-mtsv0923858d)
 - [Décret n°2009-259 du 5 mars 2009 (MENE0903071D)](decret-n2009-259-du-5-mars-2009-mene0903071d)
 - [Décret n°2009-260 du 5 mars 2009 (DEFH0824920D)](decret-n2009-260-du-5-mars-2009-defh0824920d)
 - [Décret n°2009-6 du 5 janvier 2009 (DEVU0826897D)](decret-n2009-6-du-5-janvier-2009-devu0826897d)
