@@ -1,6 +1,6 @@
 # Article 10
 
-Les dispositions des articles 5, 6, 7 et 8 du présent arrêté s'appliquent :
+Les dispositions de l'article 6 du présent arrêté s'appliquent :
 
 ― aux nouveaux types de véhicules réceptionnés à compter du 1er janvier 2010 ;
 
