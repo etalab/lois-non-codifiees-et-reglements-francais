@@ -145,54 +145,6 @@
 </tr>
 <tr>
 <td valign="top" width="50">
-<p align="center">7p</p>
-</td>
-<td valign="top" width="153">
-<p>4-Hydroxypropylamino-3-nitrophenol (n° CAS 92952-81-3) et ses sels.</p>
-</td>
-<td valign="top" width="115">
-<p>a) Colorant d'oxydation pour la coloration des cheveux.<br/>b) Colorant non oxydant pour la coloration des cheveux.</p>
-</td>
-<td valign="top" width="71">
-<p>a) 5,2 %.</p>
-<p>b) 2,6</p>
-</td>
-<td valign="top" width="139">
-<p>En combinaison avec du peroxyde d'hydrogène, la concentration maximale d'utilisation à l'application est de 2,6 %.</p>
-</td>
-<td valign="top" width="96">
-<p>a) b) Peut provoquer une réaction allergique.</p>
-</td>
-<td valign="top" width="96">
-<p align="center">31 décembre 2009</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="50">
-<p align="center">9p</p>
-</td>
-<td valign="top" width="153">
-<p>HC Blue No. 11 (n° CAS 23920-15-2) et ses sels.</p>
-</td>
-<td valign="top" width="115">
-<p>a) Colorant d'oxydation pour la coloration des cheveux.<br/>b) Colorant non oxydant pour la coloration des cheveux.</p>
-</td>
-<td valign="top" width="71">
-<p>a) 3,0 %.</p>
-<p>b) 2,0 %</p>
-</td>
-<td valign="top" width="139">
-<p>En combinaison avec du peroxyde d'hydrogène, la concentration maximale d'utilisation à l'application est de 1,5 %.</p>
-</td>
-<td valign="top" width="96">
-<p>a) b) Peut provoquer une réaction allergique.</p>
-</td>
-<td valign="top" width="96">
-<p align="center">31 décembre 2009</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="50">
 <p align="center">10 p</p>
 </td>
 <td valign="top" width="153">
@@ -264,25 +216,6 @@
 </tr>
 <tr>
 <td valign="top" width="50">
-<p align="center">14 p</p>
-</td>
-<td valign="top" width="153">
-<p>HC Violet No 2 (n° CAS 104226-19-9) et ses sels.</p>
-</td>
-<td valign="top" width="115">
-<p>Colorant non oxydant pour la coloration des cheveux.</p>
-</td>
-<td valign="top" width="71">
-<p>2,0 90.</p>
-</td>
-<td valign="top" width="139"/>
-<td valign="top" width="96"/>
-<td valign="top" width="96">
-<p align="center">31 décembre 2009</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="50">
 <p align="center">16 p</p>
 </td>
 <td valign="top" width="153">
@@ -300,29 +233,6 @@
 </td>
 <td valign="top" width="96">
 <p>a) b) Peut provoquer une réaction allergique.</p>
-</td>
-<td valign="top" width="96">
-<p align="center">31 décembre 2009</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="50">
-<p align="center">18 p</p>
-</td>
-<td valign="top" width="153">
-<p>1,3-Bis-(2,4-diaminophenoxy) propane (n° CAS 81892-72-0) et ses sels.</p>
-</td>
-<td valign="top" width="115">
-<p>Colorant d'oxydation pour la coloration des cheveux.</p>
-</td>
-<td valign="top" width="71">
-<p>2,0 %.</p>
-</td>
-<td valign="top" width="139">
-<p>En combinaison avec du peroxyde d'hydrogène, la concentration maximale d'utilisation à l'application est de 1,0 %.</p>
-</td>
-<td valign="top" width="96">
-<p>Peut provoquer une réaction allergique.</p>
 </td>
 <td valign="top" width="96">
 <p align="center">31 décembre 2009</p>
@@ -420,25 +330,6 @@
 </tr>
 <tr>
 <td valign="top" width="50">
-<p align="center">24 p</p>
-</td>
-<td valign="top" width="153">
-<p>HC Yellow No. 10 (n° CAS 109023-83-8) et ses sels.</p>
-</td>
-<td valign="top" width="115">
-<p>Colorant non oxydant pour la coloration des cheveux.</p>
-</td>
-<td valign="top" width="71">
-<p>0,2 %.</p>
-</td>
-<td valign="top" width="139"/>
-<td valign="top" width="96"/>
-<td valign="top" width="96">
-<p align="center">31 décembre 2009</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="50">
 <p align="center">25 p</p>
 </td>
 <td valign="top" width="153">
@@ -496,25 +387,6 @@
 <td valign="top" width="139">
 <p>En combinaison avec du peroxyde d'hydrogène, la concentration maximale d'utilisation à l'application est de 0,25 %.</p>
 </td>
-<td valign="top" width="96"/>
-<td valign="top" width="96">
-<p align="center">31 décembre 2009</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="50">
-<p align="center">28 p</p>
-</td>
-<td valign="top" width="153">
-<p>3-Methylamino-4-nitrophenoxyethanol (n° CAS 59820-63-2) et ses sels.</p>
-</td>
-<td valign="top" width="115">
-<p>Colorant non oxydant pour la coloration des cheveux.</p>
-</td>
-<td valign="top" width="71">
-<p>1,0 %.</p>
-</td>
-<td valign="top" width="139"/>
 <td valign="top" width="96"/>
 <td valign="top" width="96">
 <p align="center">31 décembre 2009</p>
@@ -755,25 +627,6 @@
 </tr>
 <tr>
 <td valign="top" width="50">
-<p align="center">47 p</p>
-</td>
-<td valign="top" width="153">
-<p>HC Blue No. 2 (n° CAS 33229-34-4) et ses sels.</p>
-</td>
-<td valign="top" width="115">
-<p>Colorant non oxydant pour la coloration des cheveux.</p>
-</td>
-<td valign="top" width="71">
-<p>2,8 %.</p>
-</td>
-<td valign="top" width="139"/>
-<td valign="top" width="96"/>
-<td valign="top" width="96">
-<p align="center">31 décembre 2009</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="50">
 <p align="center">48 p</p>
 </td>
 <td valign="top" width="153">
@@ -847,11 +700,11 @@
 <p>Chloro-6-ethylamino-4-nitrophenol (n° CAS 131657-78-8) et ses sels.</p>
 </td>
 <td valign="top" width="115">
-<p>a) Colorant d'oxydation pour la coloration des cheveux.<br/>b) Colorant non oxydant pour la coloration des cheveux.</p>
+<p>a) Colorant d'oxydation pour la coloration des cheveux.<br/>
+</p>
 </td>
 <td valign="top" width="71">
 <p>a) 3,0 %.</p>
-<p>b) 3,0 %.</p>
 </td>
 <td valign="top" width="139">
 <p>En combinaison avec du peroxyde d'hydrogène, la concentration maximale d'utilisation à l'application est de 1,5 %.</p>
@@ -878,25 +731,6 @@
 <td valign="top" width="139">
 <p>En combinaison avec du peroxyde d'hydrogène, la concentration maximale d'utilisation à l'application est de 1,0 %.</p>
 </td>
-<td valign="top" width="96"/>
-<td valign="top" width="96">
-<p align="center">31 décembre 2009</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="50">
-<p align="center">58 p</p>
-</td>
-<td valign="top" width="153">
-<p>Acid Red 33 (n° CAS 3567-66-6) et ses sels.</p>
-</td>
-<td valign="top" width="115">
-<p>Colorant non oxydant pour la coloration des cheveux.</p>
-</td>
-<td valign="top" width="71">
-<p>2,0 %.</p>
-</td>
-<td valign="top" width="139"/>
 <td valign="top" width="96"/>
 <td valign="top" width="96">
 <p align="center">31 décembre 2009</p>

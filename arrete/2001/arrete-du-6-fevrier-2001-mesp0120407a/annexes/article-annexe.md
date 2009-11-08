@@ -4099,31 +4099,43 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <p align="center">Produits pour les ongles. <br/>
 </p>
 </td>
-<td>25 %</td>
+<td>
+<p align="center">25 %</p>
+</td>
 <td/>
 <td>Tenir hors de portée des enfants.<br/>A utiliser par des adultes uniquement. <br/>
 </td>
 </tr>
 <tr>
-<td>186</td>
+<td>
+<p align="center">186</p>
+</td>
 <td>Diéthylène-glycol (DEG).<br/>N° CAS 111-46-6.<br/>N° CE 203-872-2. <br/>2, 2'-oxydiéthanol. <br/>
 </td>
 <td>Trace dans les ingrédients. <br/>
 </td>
-<td>0,1 %</td>
+<td>
+<p align="center">0,1 %</p>
+</td>
 <td/>
 <td/>
 </tr>
 <tr>
-<td>187</td>
+<td>
+<p align="center">187</p>
+</td>
 <td>Butoxy-diglycol.<br/>N° CAS 112-34-5.<br/>N° CE 203-961-6. <br/>Diéthylène-glycol <br/>monobutyl-éther <br/>(DEGBE). </td>
 <td>Solvant pour colorant d'oxydation pour la coloration des cheveux. </td>
-<td>9 %</td>
+<td>
+<p align="center">9 %</p>
+</td>
 <td>Ne pas utiliser dans des atomiseurs.</td>
 <td/>
 </tr>
 <tr>
-<td>188</td>
+<td>
+<p align="center">188</p>
+</td>
 <td>
 <p>Butoxy-éthanol.<br/>N° CAS 111-76-2.<br/>N° CE 203-905-0. </p>
 <p>Ethylène-glycol <br/>monobutyl-éther <br/>(EGBE). </p>
@@ -4134,14 +4146,398 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </p>
 </td>
 <td>
-<p>4 %</p>
-<p>2 %</p>
+<p align="center">4 %</p>
+<p align="center">2 %</p>
 </td>
 <td>Ne pas utiliser dans des atomiseurs. </td>
 <td/>
 </tr>
+<tr>
+<td>
+<p align="center">189</p>
+</td>
+<td>5-hydroxy-1- <p>(4-sulfophényl)-4-</p>
+<p>(4-sulfophénylazo)</p>
+<p>pyrazole-3-carboxylate</p>
+<p>de trisodium et laque</p>
+<p>d'aluminium(15).</p>
+<p>Acid Yellow 23.</p>
+<p>CAS 1934-21-0.</p>
+<p>Einecs 217-699-5.</p>
+<p>Acid Yellow 23 Aluminum lake.</p>
+<p>CAS 12225-21-7.</p>
+<p>Einecs 235-428-9.</p>
+<p>CI 19140.<br/>
+</p>
+</td>
+<td>Substance utilisée dans des teintures capillaires non oxydantes.</td>
+<td>
+<p align="center">0,5 %</p>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p align="center">190</p>
+</td>
+<td>Benzèneméthanaminium, Dihydrogéno <p>(éthyl) [4-[4-[éthyl </p>
+<p>(3-sulfonatobenzyl)] </p>
+<p>amino]-2'-</p>
+<p>sulfonatobenzhydry-</p>
+<p>lidène] cyclohexa-</p>
+<p>2, 5-diène-1-ylidène] </p>
+<p>(3-sulfonatobenzyl) </p>
+<p>ammonium, sel de </p>
+<p>disodium, sel interne, </p>
+<p>et ses sels </p>
+<p>d'ammonium et </p>
+<p>d'aluminium (15). </p>
+<p>Acid Blue 9. </p>
+<p>CAS 3844-45-9. </p>
+<p>Einecs 223-339-8. </p>
+<p>Acid Blue 9 Ammonium salt. </p>
+<p>CAS 2650-18-2. </p>
+<p>Einecs 220-168-0. </p>
+<p>Acid Blue 9 Aluminum lake. </p>
+<p>CAS 68921-42-6. </p>
+<p>Einecs 272-939-6. </p>
+<p>CI 42090. <br/>
+</p>
+</td>
+<td>Substance utilisée dans des teintures capillaires non oxydantes. <br/>
+</td>
+<td>
+<p align="center">0,5 %</p>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p align="center">191</p>
+</td>
+<td>6-hydroxy-5-[(2-méthoxy-4-sulfo- <p>nato-m-tolyl) azo]-</p>
+<p>naphtalène-2-</p>
+<p>sulfonate de diso-</p>
+<p>dium (15). </p>
+<p>Curry Red. </p>
+<p>CAS 25956-17-6. </p>
+<p>Einecs 247-368-0. </p>
+<p>CI 16035. <br/>
+</p>
+</td>
+<td>Substance utilisée dans des teintures capillaires non oxydantes. <br/>
+</td>
+<td>
+<p align="center">0,4 %</p>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p align="center">192</p>
+</td>
+<td>1-(1-naphtylazo)- <p>2-hydroxy-naphtalène-</p>
+<p>4', 6, 8-tri-sulfonat </p>
+<p>e de trisodium et </p>
+<p>laque d'aluminium (15). </p>
+<p>Acid Red 18. </p>
+<p>CAS 2611-82-7. </p>
+<p>Einecs 220-036-2. </p>
+<p>Acid Red 18 Aluminum lake. </p>
+<p>CAS 12227-64-4. </p>
+<p>Einecs 235-438-3. </p>
+<p>CI 16255. <br/>
+</p>
+</td>
+<td>Substance utilisée dans des teintures capillaires non oxydantes</td>
+<td>
+<p align="center">0,5 %</p>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p align="center">193</p>
+</td>
+<td>Hydrogéno-3, 6-bis (diéthylamino)-9-(2, 4- <p>disulfonatophényl) </p>
+<p>xanthylium, sel </p>
+<p>de sodium (15). </p>
+<p>Acid Red 52. </p>
+<p>CAS 3520-42-1. </p>
+<p>Einecs 222-529-8. </p>
+<p>CI 45100. </p>
+</td>
+<td>
+<p>a) Substance utilisée dans des teintures capillaires oxydantes ; </p>
+<p>b) Substance utilisée dans des teintures capillaires non oxydantes. </p>
+</td>
+<td>
+<p align="center">b) 0, 6 % <br/>
+</p>
+</td>
+<td>a) Après mélange dans des conditions d'oxydation, la teneur maximale appliquée à la chevelure ne doit pas dépasser 1, 5 %. <br/>
+</td>
+<td>a) Le ratio de mélange doit être imprimé sur l'étiquetage.</td>
+</tr>
+<tr>
+<td>
+<p align="center">194</p>
+</td>
+<td>5-amino-4-hydroxy-3-(phénylazo) naphtalène-2, 7-disulfonate de disodium (15). <p>Acid Red 33. </p>
+<p>CAS 3567-66-6. </p>
+<p>Einecs 222-656-9. </p>
+<p>CI 17200. <br/>
+</p>
+</td>
+<td>Substance utilisée dans des teintures capillaires non oxydantes. <br/>
+</td>
+<td>
+<p align="center">0,5 %</p>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p align="center">195</p>
+</td>
+<td>1-amino-4-(cyclo- <p>hexylamino)-9, 10-</p>
+<p>dihydro-9, 10-</p>
+<p>dioxoanthracène-2-</p>
+<p>sulfonate de sodium (15). </p>
+<p>Acid Blue 62. </p>
+<p>CAS 4368-56-3. </p>
+<p>Einecs 224-460-9. </p>
+<p>CI 62045. <br/>
+</p>
+</td>
+<td>Substance utilisée dans des teintures capillaires non oxydantes. <br/>
+</td>
+<td>
+<p align="center">0,5 %</p>
+</td>
+<td>Ne pas utiliser avec des systèmes de nitrosation. <p>Teneur maximale en nitrosamine : 50 µg / kg.</p>
+<p>A conserver en récipients sans nitrite. <br/>
+</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p align="center">196</p>
+</td>
+<td>1-[(2'-Méthoxyéthyl) amino]-2-nitro-4-[di-(2'-hydroxyéthyl) amino] benzène (15). <p>HC Blue n° 11. </p>
+<p>CAS 23920-15-2. </p>
+<p>Einecs 459-980-7. </p>
+</td>
+<td>
+<br/>Substance utilisée dans des teintures capillaires non oxydantes. <br/>
+</td>
+<td>
+<p align="center">2,0 %</p>
+</td>
+<td>Ne pas utiliser avec des systèmes de nitrosation. <p>Teneur maximale en nitrosamine : 50 µg / kg.</p>
+<p>A conserver en récipients sans nitrite.</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p align="center">197</p>
+</td>
+<td>1, 5-Di-(ß-hydro- <p>xyéthylamino)-2-nitro-4-</p>
+<p>chlorobenzène (15). </p>
+<p>HC Yellow n° 10. </p>
+<p>CAS 109023-83-8. </p>
+<p>Einecs 416-940-3. <br/>
+</p>
+</td>
+<td>Substance utilisée dans des teintures capillaires non oxydantes. </td>
+<td>
+<p align="center">0,1 %</p>
+</td>
+<td>Ne pas utiliser avec des systèmes de nitrosation. <p>Teneur maximale en nitrosamine : 50 µg / kg.</p>
+<p>A conserver en récipients sans nitrite.</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p align="center">198</p>
+</td>
+<td>3-méthylamino-4-nitro-phénoxyéthanol (15). <p align="center">3-Methylamino-4-nitro-phenoxyethanol (INCI). </p>
+<p>CAS 59820-63-2. </p>
+<p>Einecs 261-940-7. </p>
+</td>
+<td>Substance utilisée dans des teintures capillaires non oxydantes.</td>
+<td>
+<p align="center">0,15 %</p>
+</td>
+<td>Ne pas utiliser avec des systèmes de nitrosation. <p>Teneur maximale en nitrosamine : 50 µg / kg.</p>
+<p>A conserver en récipients sans nitrite. <br/>
+</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p align="center">199</p>
+</td>
+<td>
+<br/>2, 2'-[[4-[(2-hydroxyéthyl) amino]-3-nitrophény- <p>l] imino] biséthanol (15). </p>
+<p>HC Blue n° 2. </p>
+<p>CAS 33229-34-4. </p>
+<p>Einecs 251-410-3. <br/>
+</p>
+</td>
+<td>Substance utilisée dans des teintures capillaires non oxydantes.</td>
+<td>
+<p align="center">2,8 %</p>
+</td>
+<td>Ne pas utiliser avec des systèmes de nitrosation. <p>Teneur maximale en nitrosamine : 50 µg / kg.</p>
+<p>A conserver en récipients sans nitrite.</p>
+</td>
+<td>Peut provoquer une réaction allergique. <br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">200</p>
+</td>
+<td>1-Propanol, 3-[[4-[bis (2-hydroxyéthyl) amino]-2-nitrophényl]- <p>amino] (15). </p>
+<p>HC Violet n° 2. </p>
+<p>CAS 104226-19-9. </p>
+<p>Einecs 410-910-3. <br/>
+</p>
+</td>
+<td>Substance utilisée dans des teintures capillaires non oxydantes. </td>
+<td>
+<p align="center">2,0 %</p>
+</td>
+<td>Ne pas utiliser avec des systèmes de nitrosation. <p>Teneur maximale en nitrosamine : 50 µg / kg.</p>
+<p>A conserver en récipients sans nitrite.</p>
+</td>
+<td>Peut provoquer une réaction allergique</td>
+</tr>
+<tr>
+<td>
+<p align="center">201</p>
+</td>
+<td>2-chloro-6-(éthylamino)- <p>4-nitrophénol (15). </p>
+<p>2-Chloro-6-ethylamino-4-</p>
+<p>nitrophenol. </p>
+<p>CAS 131657-78-8. </p>
+<p>Einecs 411-440-1. <br/>
+</p>
+</td>
+<td>Substance utilisée dans des teintures capillaires non oxydantes</td>
+<td>
+<p align="center">3,0 %</p>
+</td>
+<td>Ne pas utiliser avec des systèmes de nitrosation. <p>Teneur maximale en nitrosamine : 50 µg / kg.</p>
+<p>A conserver en récipients sans nitrite.</p>
+</td>
+<td>Peut provoquer une réaction allergique. </td>
+</tr>
+<tr>
+<td>
+<p align="center">202</p>
+</td>
+<td>4, 4'-[1, 3-propanediylbis (oxy)] bisbenzène-1, 3-diamine et sel de tétrahydrochlorure (15). <p>1, 3-bis-(2, 4-Diaminophenoxy) propane. </p>
+<p>CAS 81892-72-0. </p>
+<p>Einecs 279-845-4. </p>
+<p>1, 3-bis-(2, 4-Diaminophenoxy) propane HCl. </p>
+<p>CAS 74918-21-1. </p>
+<p>Einecs 278-022-7. <br/>
+</p>
+</td>
+<td>a) Substance utilisée dans des teintures capillaires oxydantes ; <p>b) Substance utilisée dans des teintures capillaires non oxydantes. <br/>
+</p>
+</td>
+<td>b) 1, 2 % en base libre (1, 8 % en sel de tétrahydrochlorure). <br/>
+</td>
+<td>a) Après mélange dans des conditions d'oxydation, la teneur maximale appliquée à la chevelure ne doit pas dépasser 1, 2 % calculée en base libre (1, 8 % en sel de tétrahydrochlorure). </td>
+<td>a) Le ratio de mélange doit être imprimé sur l'étiquetage. <p>Pour a et b : peut provoquer une réaction allergique. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">203</p>
+</td>
+<td>6-méthoxy-N2-méthyl-pyridine-2, 3-diamine, dichlorhydrate et sel de dihydrochlorure (15). <p>6-Methoxy-2-methylami-</p>
+<p>no-3-aminopyridine HCl. </p>
+<p>CAS 90817-34-8 (HCl). </p>
+<p>CAS 83732-72-3 (2HCl). </p>
+<p>Einecs 280-622-9 (2HCl). </p>
+</td>
+<td>
+<p>a) Substance utilisée dans des teintures capillaires oxydantes ; </p>
+<p>b) Substance utilisée dans des teintures capillaires non oxydantes. </p>
+</td>
+<td>b) 0, 68 % en base libre (1, 0 % en dihydrochlorure) <br/>
+</td>
+<td>a) Après mélange dans des conditions d'oxydation, la teneur maximale appliquée à la chevelure ne doit pas dépasser 0, 68 % calculée en base libre (1, 0 % en dihydrochlorure). <p>Pour a et b : </p>
+<p>Ne pas utiliser avec des systèmes de nitrosation. </p>
+<p>Teneur maximale en nitrosamine : 50 µg / kg.</p>
+<p>A conserver en récipients sans nitrite. <br/>
+</p>
+</td>
+<td>a) Le ratio de mélange doit être imprimé sur l'étiquetage. <p>Pour a et b : peut provoquer une réaction allergique. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">204</p>
+</td>
+<td>2, 3-Dihydro-1H-indole-5, 6-diol et son sel d'hydro- <p>bromure (15). </p>
+<p>Dihydroxyindoline. </p>
+<p>CAS 29539-03-5. </p>
+<p>Dihydroxyindoline HBr. </p>
+<p>CAS 138937-28-7. </p>
+<p>Einecs 421-170-6. <br/>
+</p>
+</td>
+<td>Substance utilisée dans des teintures capillaires non oxydantes</td>
+<td>
+<p align="center">2,0 %</p>
+</td>
+<td/>
+<td>Peut provoquer une réaction allergique. </td>
+</tr>
+<tr>
+<td>
+<p align="center">205</p>
+</td>
+<td>4-Hydroxypropyl-amino-3- <p>nitrophénol (15). </p>
+<p>4-Hydroxypropyl-amino-3-nitrophenol (INCI). </p>
+<p>CAS 92952-81-3. </p>
+<p>Einecs 406-305-9. <br/>
+</p>
+</td>
+<td>a) Substance utilisée dans des teintures capillaires oxydantes ; <p>b) Substance utilisée dans des teintures capillaires non oxydantes. <br/>
+</p>
+</td>
+<td>
+<p align="center">b) 2,6 %</p>
+</td>
+<td>a) Après mélange en conditions d'oxydation, la teneur maximale appliquée à la chevelure ne doit pas dépasser 2, 6 % calculée en base libre. <p>Pour a et b : </p>
+<p>Ne pas utiliser avec des systèmes de nitrosation. </p>
+<p>Teneur maximale en nitrosamine : 50 µg / kg.</p>
+<p>A conserver en récipients sans nitrite.</p>
+</td>
+<td>a) Le ratio de mélange doit être imprimé sur l'étiquetage. <br/>
+</td>
+</tr>
 </tbody>
 </table>
+
+a) Le ratio de mélange doit être imprimé sur l'étiquetage.
 
 (1) Ces substances peuvent être employées seules ou en mélange entre elles en quantité telle que la somme des rapports des teneurs du produit cosmétique en chacune de ces substances à la teneur maximale autorisée pour chacune d'elles ne soit pas supérieure à 1.
 
@@ -4168,3 +4564,5 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 (**) Cette limite s'applique à la substance et non au produit cosmétique fini.
 
 (***) La somme de ces mélanges utilisés en combinaison ne doit pas dépasser les limites indiquées dans la colonne d.
+
+(15) L'utilisation de la base libre et des sels de ce colorant est autorisée, sauf interdiction au titre de l'arrêté du 6 février 2001 modifié fixant la liste des substances qui ne peuvent entrer dans la composition des produits cosmétiques.
