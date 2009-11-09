@@ -1,217 +1,126 @@
 # Article 10
 
-<div>
-<br/>1. L'échelonnement indiciaire applicable aux agents techniques de Mayotte régis par le décret n° 2005-138 du 17 février 2005 susvisé est fixé ainsi qu'il suit :<br/>
-<div align="center">
+1.L'échelonnement indiciaire applicable aux agents techniques des administrations de l'Etat à Mayotte régis par le décret n° 2005-138 du 17 février 2005 susvisé est fixé ainsi qu'il suit :
 
 <table>
+<tbody>
 <tr>
-<th>
-<br/>GRADES ET ÉCHELONS</th>
-<th>
-<br/>INDICES BRUTS</th>
-</tr>
-<tr>
-<td align="center">
-<br/>Agent technique principal</td>
-<td align="center">
-<br/>
+<td>
+<p align="center"> GRADE UNIQUE </p>
+</td>
+<td>
+<p align="center"> INDICES BRUTS </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>5e échelon</td>
+<br/>6e échelon <br/>
+</td>
 <td align="center">
-<br/>250</td>
-</tr>
-<tr>
-<td align="center">
-<br/>4e échelon</td>
-<td align="center">
-<br/>222</td>
-</tr>
-<tr>
-<td align="center">
-<br/>3e échelon</td>
-<td align="center">
-<br/>190</td>
-</tr>
-<tr>
-<td align="center">
-<br/>2e échelon</td>
-<td align="center">
-<br/>169</td>
-</tr>
-<tr>
-<td align="center">
-<br/>1er échelon</td>
-<td align="center">
-<br/>128</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Agent technique</td>
-<td align="center">
-<br/>
+<br/>250 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>8e échelon</td>
+<br/>5e échelon <br/>
+</td>
 <td align="center">
-<br/>237 </td>
+<br/>235 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>7e échelon</td>
+<br/>4e échelon <br/>
+</td>
 <td align="center">
-<br/>209</td>
+<br/>221 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>6e échelon</td>
+<br/>3e échelon <br/>
+</td>
 <td align="center">
-<br/>178</td>
+<br/>209 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>5e échelon</td>
+<br/>2 échelon <br/>
+</td>
 <td align="center">
-<br/>149</td>
+<br/>199 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>4e échelon</td>
+<br/>1er échelon <br/>
+</td>
 <td align="center">
-<br/>127</td>
+<br/>184 <br/>
+</td>
 </tr>
-<tr>
-<td align="center">
-<br/>3e échelon</td>
-<td align="center">
-<br/>117</td>
-</tr>
-<tr>
-<td align="center">
-<br/>2e échelon</td>
-<td align="center">
-<br/>108</td>
-</tr>
-<tr>
-<td align="center">
-<br/>1er échelon</td>
-<td align="center">
-<br/>100</td>
-</tr>
+</tbody>
 </table>
 
-</div>
-<br/>
-<br/> 2. L'échelonnement indiciaire applicable aux agents administratifs de Mayotte régis par le décret n° 2005-139 du 17 février 2005 susvisé est fixé ainsi qu'il suit :<br/>
-<div align="center">
+2.L'échelonnement indiciaire applicable aux agents administratifs des administrations de l'Etat à Mayotte régis par le décret n° 2005-139 du 17 février 2005 susvisé est fixé ainsi qu'il suit :
 
 <table>
+<tbody>
 <tr>
-<th>
-<br/>GRADES ET ÉCHELONS</th>
-<th>
-<br/>INDICES BRUTS</th>
-</tr>
-<tr>
-<td align="center">
-<br/>Agent administratif principal</td>
-<td align="center">
-<br/>
+<td>
+<p align="center"> GRADE UNIQUE </p>
+</td>
+<td>
+<p align="center"> INDICES BRUTS </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>5e échelon</td>
+<br/>6e échelon <br/>
+</td>
 <td align="center">
-<br/>250</td>
-</tr>
-<tr>
-<td align="center">
-<br/>4e échelon</td>
-<td align="center">
-<br/>222</td>
-</tr>
-<tr>
-<td align="center">
-<br/>3e échelon</td>
-<td align="center">
-<br/>190</td>
-</tr>
-<tr>
-<td align="center">
-<br/>2e échelon</td>
-<td align="center">
-<br/>169</td>
-</tr>
-<tr>
-<td align="center">
-<br/>1er échelon</td>
-<td align="center">
-<br/>128</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Agent administratif</td>
-<td align="center">
-<br/>
+<br/>250 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>8e échelon</td>
+<br/>5e échelon <br/>
+</td>
 <td align="center">
-<br/>237 </td>
+<br/>235 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>7e échelon</td>
+<br/>4e échelon <br/>
+</td>
 <td align="center">
-<br/>209</td>
+<br/>221 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>6e échelon</td>
+<br/>3e échelon <br/>
+</td>
 <td align="center">
-<br/>178</td>
+<br/>209 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>5e échelon</td>
+<br/>2 échelon <br/>
+</td>
 <td align="center">
-<br/>149</td>
+<br/>199 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>4e échelon</td>
+<br/>1er échelon <br/>
+</td>
 <td align="center">
-<br/>127</td>
+<br/>184</td>
 </tr>
-<tr>
-<td align="center">
-<br/>3e échelon</td>
-<td align="center">
-<br/>117</td>
-</tr>
-<tr>
-<td align="center">
-<br/>2e échelon</td>
-<td align="center">
-<br/>108</td>
-</tr>
-<tr>
-<td align="center">
-<br/>1er échelon</td>
-<td align="center">
-<br/>100</td>
-</tr>
+</tbody>
 </table>
-
-</div>
-<br/>
-<br/>
-</div>
