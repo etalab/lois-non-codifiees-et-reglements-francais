@@ -1,0 +1,3 @@
+# Article 7
+
+Les agents recrutés au titre du chapitre II, qui ont ou avaient eu la qualité d'agent titulaire ou d'agent non titulaire de la collectivité départementale de Mayotte, sont classés, lors de leur nomination en qualité de stagiaire dans l'un des corps des agents administratifs des administrations de l'Etat à Mayotte, à un échelon comportant un indice correspondant à un traitement net égal ou, à défaut, immédiatement supérieur au traitement net ou salaire net perçu en dernier lieu dans leur situation précédente en qualité d'agent titulaire ou d'agent non titulaire, sans ancienneté et sans prise en compte des indemnités qui leur étaient versées.
