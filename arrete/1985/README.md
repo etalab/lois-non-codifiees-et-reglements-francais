@@ -59,7 +59,6 @@
 - [Arrêté du 11 septembre 1985](arrete-du-11-septembre-1985)
 - [Arrêté du 12 avril 1985](arrete-du-12-avril-1985)
 - [Arrêté du 12 décembre 1985](arrete-du-12-decembre-1985)
-- [Arrêté du 12 février 1985](arrete-du-12-fevrier-1985)
 - [Arrêté du 12 janvier 1984](arrete-du-12-janvier-1984)
 - [Arrêté du 12 juillet 1985](arrete-du-12-juillet-1985)
 - [Arrêté du 12 novembre 1984](arrete-du-12-novembre-1984)
