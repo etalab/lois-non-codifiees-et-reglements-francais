@@ -944,7 +944,6 @@
 - [Décret n°95-349 du 31 mars 1995 (SPSS9500442D)](decret-n95-349-du-31-mars-1995-spss9500442d)
 - [Décret n°95-361 du 31 mars 1995 (SPSS9500603D)](decret-n95-361-du-31-mars-1995-spss9500603d)
 - [Décret n°95-362 du 31 mars 1995 (SPSS9500624D)](decret-n95-362-du-31-mars-1995-spss9500624d)
-- [Décret n°95-863 du 31 juillet 1995 (SPSC9502268D)](decret-n95-863-du-31-juillet-1995-spsc9502268d)
 - [Décret n°95-864 du 31 juillet 1995 (SPSS9502179D)](decret-n95-864-du-31-juillet-1995-spss9502179d)
 - [Décret n°95-883 du 31 juillet 1995 (ECOT9594331D)](decret-n95-883-du-31-juillet-1995-ecot9594331d)
 - [Décret n°95-98 du 31 janvier 1995 (SPSS9500026D)](decret-n95-98-du-31-janvier-1995-spss9500026d)
