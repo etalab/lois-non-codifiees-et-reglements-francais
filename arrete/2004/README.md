@@ -99,7 +99,6 @@
 - [Arrêté du 5 février 2004 (SANH0420418A)](arrete-du-5-fevrier-2004-sanh0420418a)
 - [Arrêté du 5 février 2004 (SANP0420597A)](arrete-du-5-fevrier-2004-sanp0420597a)
 - [Arrêté du 5 février 2004 (SANP0420598A)](arrete-du-5-fevrier-2004-sanp0420598a)
-- [Arrêté du 5 janvier 2004 (DEFD0302474A)](arrete-du-5-janvier-2004-defd0302474a)
 - [Arrêté du 5 janvier 2004 (DEFD0302475A)](arrete-du-5-janvier-2004-defd0302475a)
 - [Arrêté du 5 janvier 2004 (DEFD0302476A)](arrete-du-5-janvier-2004-defd0302476a)
 - [Arrêté du 5 janvier 2004 (JUSF0350121A)](arrete-du-5-janvier-2004-jusf0350121a)

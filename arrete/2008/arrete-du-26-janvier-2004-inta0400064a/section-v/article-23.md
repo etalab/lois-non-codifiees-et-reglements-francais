@@ -13,3 +13,5 @@ Elle définit la politique de sécurité des systèmes d'information du ministè
 Elle anime le dispositif territorial d'intelligence et de sécurité économiques, en liaison avec les préfets de région et les services centraux concernés.
 
 Pour l'ensemble de ses missions, elle s'appuie sur les préfets de zone de défense.
+
+Le directeur de la planification de sécurité nationale est assisté d'un adjoint, sous-directeur.
