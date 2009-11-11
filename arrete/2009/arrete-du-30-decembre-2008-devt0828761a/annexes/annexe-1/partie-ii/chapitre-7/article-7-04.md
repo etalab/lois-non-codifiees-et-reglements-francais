@@ -8,7 +8,7 @@ d'indication et de contrôle des machines de propulsion et des installations de 
 
 2. La commande de chaque moteur de propulsion doit être assurée par un seul levier se déplaçant selon un arc de cercle situé dans un plan vertical sensiblement parallèle à l'axe longitudinal du bateau. Le déplacement de ce levier vers la proue du bateau doit provoquer la marche avant, alors que le déplacement du levier vers la poupe provoque la marche arrière. L'embrayage et l'inversion du sens de marche s'effectuent autour de la position neutre de ce levier. Un déclic nettement sensible doit indiquer cette position neutre.
 
-3. Dans les timoneries aménagées pour la conduite au radar par une seule personne, la direction de la poussée exercée sur le bateau par le dispositif de propulsion et la fréquence de rotation de l'hélice ou des machines de propulsion doivent être indiquées.
+3. La direction de la poussée exercée sur le bateau par le dispositif de propulsion et la fréquence de rotation de l'hélice ou des machines de propulsion doivent être indiquées.
 
 4. Les indicateurs et dispositifs de contrôle prescrits à l'article 6.07, paragraphe 2, à l'article 8.03, paragraphe 2, et à l'article 8.05, paragraphe 13, doivent être placés au poste de gouverne.
 
@@ -28,4 +28,6 @@ Pour des installations auxiliaires de l'installation de gouverne telles que des 
 
 9. Dans le cas d'installations à hélice orientable, à jet d'eau, à propulseurs cycloïdaux et de bouteurs actifs, des dispositifs équivalents sont admis pour les dispositifs de commande, d'indication et de contrôle.
 
-Les exigences visées aux paragraphes 1 à 8 sont applicables par analogie compte tenu des caractéristiques particulières et de l'agencement choisi des organes de gouverne et de propulsion susmentionnés. Pour chaque installation, la direction de la poussée agissant sur le bateau ou la direction du jet doit être clairement indiquée par la position de l'indicateur.
+Les exigences visées aux paragraphes 1 à 8 sont applicables par analogie compte tenu des caractéristiques particulières et de l'agencement choisi des organes de gouverne et de propulsion susmentionnés. Par analogie avec le paragraphe 2, la commande de chaque installation doit être assurée au moyen d'un levier se déplaçant selon un arc de cercle situé dans un plan vertical sensiblement parallèle au sens de la poussée de l'installation. La direction de la poussée exercée sur le bateau doit être clairement indiquée par la position du levier.
+
+Si des dispositifs à hélice orientable ou à propulseurs cycloïdaux ne sont pas commandés par des leviers, l'autorité compétente peut accorder une dérogation aux dispositions du paragraphe 2. Ces dérogations doivent être mentionnées dans la case 52 du certificat communautaire.

@@ -40,7 +40,7 @@ d) Pour les portes destinées à l'accès de personnes de mobilité réduite, su
 
 5. Les couloirs de communication doivent satisfaire aux exigences suivantes :
 
-a) La largeur libre doit être d'au moins 0,80 m, ou, lorsqu'ils conduisent à des locaux utilisés par plus de 80 passagers, d'au moins 0,01 m par passager.
+a) la largeur libre est d'au moins 0,80 mètre. Lorsqu'ils conduisent à des locaux utilisés par plus de 80 passagers, ils doivent être conformes aux dispositions énoncées au paragraphe 3, points d) et e), concernant la largeur des issues conduisant à des couloirs de communication.
 
 b) Leur hauteur libre ne doit pas être inférieure à 2,00 m.
 
@@ -88,21 +88,23 @@ c) Les aires de rassemblement doivent être exemptes de mobilier, mobile ou fixe
 
 d) Lorsqu'un local dans lequel est définie une aire de rassemblement comporte du mobilier mobile, des mesures suffisantes doivent être prises pour éviter son glissement.
 
-e) Les moyens de sauvetage doivent être facilement accessibles depuis les aires d'évacuation.
+e) Lorsqu'un local dans lequel est définie une aire de rassemblement comporte des sièges fixes, il n'est pas nécessaire de tenir compte du nombre des personnes pour lesquelles ils conviennent lors du calcul de la surface totale des aires de rassemblement visé au point a).
 
-f) Les personnes se trouvant dans ces aires d'évacuation doivent pouvoir en être évacuées de manière sûre par les deux côtés du bateau.
+Toutefois, le nombre des personnes pour lesquelles sont pris en compte des sièges fixes ou des bancs présents dans un local ne doit pas être supérieur au nombre des personnes pour lesquelles sont disponibles des aires de rassemblement dans ce local.
 
-g) Les aires de rassemblement doivent être situées au-dessus de la ligne de surimmersion.
+f) Les moyens de sauvetage doivent être facilement accessibles depuis les aires d'évacuation.
 
-h) Les aires de rassemblement et d'évacuation doivent être représentées en tant que telles sur le plan du bateau et doivent être signalées à bord.
+g) Les personnes se trouvant dans ces aires d'évacuation doivent pouvoir en être évacuées de manière sûre par les deux côtés du bateau.
 
-i) Lorsqu'un local dans lequel est définie une aire de rassemblement comporte des sièges fixes, il n'est pas nécessaire de tenir compte du nombre des personnes pour lesquelles ils conviennent lors du calcul de la surface totale des aires de rassemblement visé au point a). Toutefois, le nombre des personnes pour lesquelles sont pris en compte des sièges fixes ou des bancs présents dans un local ne doit pas être supérieur au nombre des personnes pour lesquelles sont disponibles des aires de rassemblement dans ce local.
+h) Les aires de rassemblement doivent être situées au-dessus de la ligne de surimmersion.
 
-j) Les prescriptions visées aux points d) et i) s'appliquent aussi aux ponts ouverts sur lesquels sont définies des aires de rassemblement.
+i) Les aires de rassemblement et d'évacuation doivent être représentées en tant que telles sur le plan du bateau et doivent être signalées à bord.
+
+j) Les prescriptions visées aux points d) et e) s'appliquent aussi aux ponts ouverts sur lesquels sont définies des aires de rassemblement.
 
 k) Si des moyens de sauvetage collectifs conformes à l'article 15.09, paragraphe 5, se trouvent à bord, il n'est pas nécessaire de tenir compte du nombre des personnes pour lesquelles ils conviennent lors du calcul de la surface totale des aires de rassemblement visées au point a).
 
-l) La surface totale visée au point a) doit toutefois être suffisante dans tous les cas de réduction conformément aux points i) à k) pour 50 % au minimum du nombre maximal des passagers admissibles à bord.
+l) La surface totale visée au point a) doit toutefois être suffisante dans tous les cas de réduction conformément aux points e), j) et k) pour 50 % au minimum du nombre maximal des passagers autorisé à bord.
 
 9. Les escaliers situés dans les zones destinées aux passagers doivent satisfaire aux exigences suivantes :
 

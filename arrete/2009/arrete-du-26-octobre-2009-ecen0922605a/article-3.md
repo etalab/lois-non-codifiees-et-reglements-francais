@@ -1,0 +1,3 @@
+# Article 3
+
+Le chef du service de l'inspection générale des finances rend public le nombre de places offertes chaque année au tour extérieur dans le corps de l'inspection générale des finances en application des dispositions de l'article 9 du décret du 14 mars 1973 susvisé, les délais dans lesquels les candidatures sont reçues par le service de l'inspection générale des finances pour être présentées au comité de sélection, ainsi que le contenu du dossier de candidature. Ce dernier comprend un curriculum vitae, une lettre de motivation et un document permettant de recueillir l'avis de l'employeur.

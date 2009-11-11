@@ -6,3 +6,4 @@
 - [Annexe 4 : Modèle de certificat communautaire](annexe-4)
 - [Annexe 5 : Modèle de titre provisoire de navigation](annexe-5)
 - [Annexe 6 : Données nécessaires à l’identification d’un bâtiment](annexe-6)
+- [Annexe 7 : Instructions de service](annexe-7)

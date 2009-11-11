@@ -1,8 +1,8 @@
 # Article 10.03 ter
 
-Installations d'extinction fixées à demeure
+Installations d'extinction fixées à demeure pour la protection des salles des machines,
 
-dans les salles des machines, de chauffe et des pompes
+des salles de chauffe et des salles des pompes
 
 1. Agents extincteurs
 

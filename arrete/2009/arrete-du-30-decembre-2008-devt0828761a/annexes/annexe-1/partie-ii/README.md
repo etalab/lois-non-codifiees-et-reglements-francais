@@ -6,6 +6,7 @@
 - [Chapitre 6 : Installations de gouverne](chapitre-6)
 - [Chapitre 7 : Timonerie](chapitre-7)
 - [Chapitre 8 : Construction des machines](chapitre-8)
+- [Chapitre 8 bis : Émissions de gaz et de particules polluants provenant de moteurs diesel](chapitre-8-bis)
 - [Chapitre 9 : Installations électriques](chapitre-9)
 - [Chapitre 10 : Gréement](chapitre-10)
 - [Chapitre 11 : Sécurité aux postes de travail](chapitre-11)

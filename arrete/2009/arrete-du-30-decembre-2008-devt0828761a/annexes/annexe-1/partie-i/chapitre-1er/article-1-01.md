@@ -112,7 +112,7 @@ Zones particulières des bâtiments
 
 51. "zone de sécurité", la zone limitée vers l'extérieur par un plan vertical parallèle au bordé extérieur à une distance égale à 1/5 de la largeur BF au niveau du plus grand enfoncement ;
 
-52. "aires de rassemblement" des aires du bateau qui sont particulièrement protégées et dans lesquelles se tiennent les passagers en cas de danger ;
+52. "aires de rassemblement" : des aires du bateau qui sont particulièrement protégées et dans lesquelles se tiennent les personnes en cas de danger ;
 
 53. "aires d'évacuation" une partie des aires de rassemblement du bateau à partir de laquelle il peut être procédé à l'évacuation de personnes.
 
@@ -162,7 +162,9 @@ Termes de technique navale
 
 75. "hauteur latérale" ("H") la plus petite distance verticale en m entre l'arête inférieure des tôles de fond ou de la quille et le point le plus bas du pont sur le côté du bateau ;
 
-76. (sans objet)
+76. "tirant d'eau (T)" : la distance verticale en mètre entre le point le plus bas de la coque, la quille ou d'autres appendices fixes n'étant pas pris en compte, et le plan du plus grand enfoncement du bateau ;
+
+76 bis. "Tirant d'eau hors tout T <sub>OA</sub> )" : la distance verticale en mètre entre le point le plus bas de la coque, la quille ou d'autres appendices fixes étant pris en compte, et le plan du plus grand enfoncement du bateau ;
 
 77. "perpendiculaire avant" la verticale au point avant de l'intersection de la coque avec le plan du plus grand enfoncement ;
 
@@ -211,6 +213,10 @@ Propriétés de parties de constructions et de matériaux
 Autres termes
 
 97. "société de classification agréée" une société de classification agréée conformément aux critères et procédures de l'annexe VII de la directive 2006/87/CE ;
+
+97 bis. "Feux de signalisation" : périodes de lumière de fanaux de signalisation de bâtiments ;
+
+97 ter. "Signaux lumineux" : périodes de lumières destinées à renforcer des signaux visuels et sonores ;
 
 98. "appareil radar" une assistance électronique à la navigation destinée à la détection et à la représentation de l'environnement et du trafic ;
 

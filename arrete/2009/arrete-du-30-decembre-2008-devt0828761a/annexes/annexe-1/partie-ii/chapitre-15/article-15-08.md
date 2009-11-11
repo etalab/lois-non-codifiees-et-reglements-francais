@@ -36,7 +36,7 @@ Les déclencheurs d'alarme doivent être protégés contre une utilisation intem
 
 5. Deux pompes d'assèchement motorisées doivent être disponibles à bord.
 
-6. Un système d'assèchement à tuyauterie fixée à demeure conforme à l'article 8.08 paragraphe 4 doit être installé à bord.
+6. Un système d'assèchement doté d'une tuyauterie fixée à demeure est installée à bord.
 
 7. Les portes des chambres froides, même verrouillées, doivent pouvoir être ouvertes depuis l'intérieur.
 

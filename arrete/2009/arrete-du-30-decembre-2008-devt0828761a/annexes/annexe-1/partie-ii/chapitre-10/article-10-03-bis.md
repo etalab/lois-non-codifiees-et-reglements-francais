@@ -1,8 +1,8 @@
 # Article 10.03 bis
 
-Installations d'extinction fixées à demeure dans les logements,
+Installations d'extinction fixées à demeure pour la protection des logements,
 
-les timoneries et les locaux destinés aux passagers
+des timoneries et des locaux destinés aux passagers
 
 1. Dans les logements, les timoneries et les locaux destinés aux passagers, seules des installations automatiques appropriées de diffusion d'eau sous pression sont admises en tant qu'installations d'extinction d'incendie fixées à demeure destinées à la protection des locaux.
 

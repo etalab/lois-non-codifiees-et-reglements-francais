@@ -425,6 +425,39 @@ Dispositions transitoires
 </td>
 </tr>
 <tr>
+<td align="left" valign="top">
+<p align="left">paragraphe 3</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Indication</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Si le bateau n'est pas équipé d'une timonerie<br/>aménagée pour la conduite au radar par une<br/>seule personne: N.R.T., au plus tard à la<br/>délivrance ou au renouvellement du certificat<br/>communautaire après le 30.12.2024</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">paragraphe 9,<br/>troisième phrase </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Commande par un levier</p>
+</td>
+<td align="left" valign="top">
+<p align="left">N.R.T., au plus tard à la délivrance ou au<br/>renouvellement du certificat communautaire<br/>après le 30.12.2024</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">quatrième phrase</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Interdiction d'indiquer la direction du jet de propulsion</p>
+</td>
+<td align="left" valign="top">
+<p align="left">N.R.T., au plus tard à la délivrance ou au<br/>renouvellement du certificat communautaire<br/>après le 30.12.2024</p>
+</td>
+</tr>
+<tr>
 <td valign="top" width="151">
 <p align="left">7.09</p>
 </td>
@@ -488,6 +521,28 @@ Dispositions transitoires
 </td>
 <td valign="top" width="265">
 <p align="left">N.R.T., au plus tard à la délivrance ou au renouvellement du certificat communautaire après le 30 décembre 2024</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">paragraphe 4</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Protection des joints de tuyauterie</p>
+</td>
+<td align="left" valign="top">
+<p align="left">N.R.T., au plus tard à la délivrance ou au<br/>renouvellement du certificat communautaire<br/>après le 30.12.2024 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">paragraphe 5</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Système de gainage</p>
+</td>
+<td align="left" valign="top">
+<p align="left">N.R.T., au plus tard à la délivrance ou au<br/>renouvellement du certificat communautaire<br/>après le 30.12.2024</p>
 </td>
 </tr>
 <tr>
@@ -591,18 +646,18 @@ Dispositions transitoires
 </tr>
 <tr>
 <td valign="top" width="151">
-<p align="left">paragraphe 7</p>
+<p align="left">paragraphe 7,<br/>premier alinéa</p>
 </td>
 <td valign="top" width="265">
-<p align="left">Dispositif de fermeture manœuvrable depuis le pont</p>
+<p align="left">Dispositif de fermeture rapide de la citerne manœuvrable depuis le pont, y compris lorsque les locaux concernés sont fermés</p>
 </td>
 <td valign="top" width="265">
-<p align="left">N.R.T., au plus tard à la délivrance ou au renouvellement du certificat communautaire après le 30 décembre 2029</p>
+<p align="left">N.R.T., au plus tard à la délivrance ou au<br/>renouvellement du certificat communautaire<br/>après le 01.01.2029</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="151">
-<p align="left">paragraphe 9<br/>1re et 2e phrases</p>
+<p align="left">paragraphe 9<br/>2e phrase</p>
 </td>
 <td valign="top" width="265">
 <p align="left">Dispositifs de jaugeage lisibles jusqu'au maximum de remplissage</p>
@@ -687,6 +742,35 @@ Dispositions transitoires
 <td valign="top" width="265">
 <p align="left">N.R.T., au plus tard à la délivrance ou au renouvellement du certificat communautaire après le 30 décembre 2029</p>
 </td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td>
+<p align="left">CHAPITRE 8 bis</p>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<p align="left">Les règlements ne s'appliquent pas :<br/>a) aux moteurs de propulsion et moteurs<br/>auxiliaires d'une puissance nominale supérieure<br/>à 560 kW appartenant aux catégories suivantes,<br/>conformément à l'annexe I, partie 4.1.2.4,<br/>de la directive 97/68/CE qui sont installés à bord<br/>des bâtiments ou dans des machines à bord<br/>jusqu'aux dates suivantes :<br/>aa) moteurs de catégorie V1:1 à V1:3 :<br/>31 décembre 2006 ;<br/>bb) moteurs de catégorie V1:4 et V2:1 à V2:5 :<br/>31 décembre 2008 ;<br/>sont installés à bord des bâtiments ou dans des<br/>machines installées à bord ;<br/>b) aux moteurs auxiliaires d'une puissance<br/>nominale inférieure ou égale à 560 kW et<br/>fonctionnant à régime variable, appartenant<br/>aux catégories suivantes conformément à<br/>l'article 9.4bis de la directive 97/68/CE :<br/>aa) H qui, jusqu'au 31 décembre 2005 ;<br/>bb) I et K qui, jusqu'au 31 décembre 2006 ;<br/>cc) J qui, jusqu'au 1er décembre 2007 ;<br/>sont installés à bord des bâtiments ou dans<br/>des machines installées à bord ;<br/>c) aux moteurs auxiliaires d'une puissance<br/>nominale inférieure ou égale à 560kW et<br/>fonctionnant à régime constant, appartenant<br/>aux catégories suivantes conformément à<br/>l'article 9.4bis de la directive 97/68/CE :<br/>aa) D, E, F et G qui, jusqu'au 31 décembre 2006(1) ;<br/>bb) H, I et K qui, jusqu'au 31 décembre 2010 ;<br/>cc) J qui, jusqu'au 31 décembre 2011 ;<br/>sont installés à bord des bâtiments ou dans<br/>des machines installées à bord ;<br/>d) aux moteurs qui respectent les valeurs limites<br/>visées à l'annexe XIV de la directive 97/68/CE et<br/>qui, jusqu'au 30 juin 2007 sont installés à bord<br/>des bâtiments ou dans des machines installées<br/>à bord ;<br/>e) aux moteurs de remplacement qui, jusqu'au<br/>31 décembre 2011, sont installés à bord des<br/>bâtiments ou dans des machines installées à<br/>bord pour remplacer un moteur auquel les<br/>règlements ne s'appliquent pas,<br/>conformément aux points a) à d) ci-dessus. </p>
+<p align="left">Les dates indiquées aux points a), b), c) et<br/>d) doivent être repoussées de deux ans pour les<br/>moteurs dont la date de fabrication est antérieure<br/>aux dates mentionnées.</p>
+<p align="left">(1) Conformément à l'annexe I, partie 1A(ii)<br/>de la directive 2004/26/CE modifiant la directive<br/>97/68/CE, les limites ne s'appliquent qu'à partir<br/>de cette date pour ces moteurs auxiliaires<br/>fonctionnant à régime constant. </p>
+</td>
+</tr>
+<tr>
+<td/>
+<td/>
+<td/>
 </tr>
 <tr>
 <td valign="top" width="151">
@@ -984,7 +1068,7 @@ Dispositions transitoires
 <p align="left">Installations d'extinction fixées à demeure dans les salles des machines, de chauffe et des pompes</p>
 </td>
 <td valign="top" width="265">
-<p align="left">Les installations d'extinction au CO<sub>2</sub> fixées à demeure montées avant le 1er janvier 1985 continuent à être admises jusqu'à la délivrance ou au renouvellement du certificat communautaire le 30 décembre 2049, à condition qu'elles répondent à l'article 13.03 de l'annexe II à la directive, dans sa teneur du 4 octobre 1982.</p>
+<p align="left">Les installations d'extinction au CO<sub>2</sub> fixées<br/>à demeure montées avant le 1er janvier 1985 continuent à être admises jusqu'à la délivrance ou au renouvellement du certificat communautaire le 30 décembre 2049, à condition qu'elles répondent à l'article 13.03 de l'annexe II à la directive, dans sa teneur du 4 octobre 1982.</p>
 </td>
 </tr>
 <tr>

@@ -176,7 +176,7 @@ de visite des bateaux du Rhin valable depuis le 1er janvier 1995
 </tr>
 <tr>
 <td valign="top" width="113">
-<p align="left">7.02, paragraphe 2</p>
+<p align="left">7.02 paragraphe 2</p>
 </td>
 <td valign="top" width="189">
 <p align="left">Zone de non-visibilité devant le bateau : deux longueurs de bateau au maximum si cette valeur est inférieure à 250 m</p>
@@ -186,6 +186,49 @@ de visite des bateaux du Rhin valable depuis le 1er janvier 1995
 </td>
 <td valign="top" width="151">
 <p align="left">30.12.2008</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">7.04 paragraphe 3</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Indication</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Si le bateau n'est pas équipé d'une timonerie<br/>aménagée pour la conduite au radar par une seule<br/>personne : N.R.T., au plus tard à la délivrance ou<br/>au renouvellement du certificat communautaire<br/>après le 1.1.2010</p>
+</td>
+<td align="left" valign="top">
+<p align="left">1.4.2007</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">paragraphe 9,<br/>troisième phrase</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Commande par un levier</p>
+</td>
+<td align="left" valign="top">
+<p align="left">N.R.T., au plus tard à la délivrance ou<br/>au renouvellement du certificat communautaire<br/>après le 1.1.2010</p>
+</td>
+<td align="left" valign="top">
+<p align="left">1.4.2007</p>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">quatrième phrase</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Interdiction d'indiquer la direction<br/>du jet de propulsion</p>
+</td>
+<td align="left" valign="top">
+<p align="left">N.R.T., au plus tard à la délivrance ou<br/>au renouvellement du certificat communautaire<br/>après le 1.1.2010 </p>
+</td>
+<td align="left" valign="top">
+<p align="left">1.4.2007</p>
 </td>
 </tr>
 <tr>
@@ -203,14 +246,42 @@ de visite des bateaux du Rhin valable depuis le 1er janvier 1995
 </td>
 </tr>
 <tr>
+<td align="left" valign="top">
+<p align="left">8.02<br/>paragraphe 4 </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Protection des joints de tuyauterie</p>
+</td>
+<td align="left" valign="top">
+<p align="left">N.R.T., au plus tard à la délivrance ou<br/>au renouvellement du certificat communautaire<br/>après 2025</p>
+</td>
+<td align="left" valign="top">
+<p align="left">1.4.2007</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">paragraphe 5</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Système de gainage </p>
+</td>
+<td align="left" valign="top">
+<p align="left">N.R.T., au plus tard à la délivrance ou<br/>au renouvellement du certificat communautaire<br/>après le 1.1.2025</p>
+</td>
+<td align="left" valign="top">
+<p align="left">1.4.2007</p>
+</td>
+</tr>
+<tr>
 <td valign="top" width="113">
-<p align="left">8.02 paragraphe 6</p>
+<p align="left">paragraphe 6</p>
 </td>
 <td valign="top" width="189">
 <p align="left">Isolation d'éléments des machines</p>
 </td>
 <td valign="top" width="227">
-<p align="left">N.R.T., au plus tard à la délivrance ou au renouvellement du certificat communautaire</p>
+<p align="left">N.R.T., au plus tard à la délivrance ou au renouvellement du certificat communautaire après le 1.1.2025</p>
 </td>
 <td valign="top" width="151">
 <p align="left">1.4.2003</p>
@@ -246,7 +317,7 @@ de visite des bateaux du Rhin valable depuis le 1er janvier 1995
 </tr>
 <tr>
 <td valign="top" width="113">
-<p align="left">8.05 paragraphe 9<br/>1re et 2e phrases</p>
+<p align="left">8.05 paragraphe 9<br/>2e phrase</p>
 </td>
 <td valign="top" width="189">
 <p align="left">Dispositifs de jaugeage lisibles jusqu'au maximum de remplissage</p>
@@ -273,6 +344,34 @@ de visite des bateaux du Rhin valable depuis le 1er janvier 1995
 </td>
 </tr>
 <tr>
+<td align="left" valign="top">
+<p align="left">8.06</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Citernes pour l'huile de graissage,<br/>tuyauteries et accessoires</p>
+</td>
+<td align="left" valign="top">
+<p align="left">N.R.T., au plus tard à la délivrance ou au<br/>renouvellement du certificat communautaire<br/>après le 1.1.2045</p>
+</td>
+<td align="left" valign="top">
+<p align="left">1.4.2007</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">8.07</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Citernes pour les huiles utilisées dans les<br/>systèmes de transmission de puissance,<br/>les systèmes de commande et d'entraînement<br/>et les systèmes de chauffage, tuyauteries<br/>et accessoires</p>
+</td>
+<td align="left" valign="top">
+<p align="left">N.R.T., au plus tard à la délivrance ou au<br/>renouvellement du certificat communautaire<br/>après le 1.1.2045</p>
+</td>
+<td align="left" valign="top">
+<p align="left">1.4.2007</p>
+</td>
+</tr>
+<tr>
 <td valign="top" width="113">
 <br/>
 </td>
@@ -291,13 +390,27 @@ de visite des bateaux du Rhin valable depuis le 1er janvier 1995
 <br/>
 </td>
 <td valign="top" width="189">
-<p align="left">Cf. chapitre 8 bis du Règlement de Visite des Bateaux du Rhin</p>
+<br/>
 </td>
 <td valign="top" width="227">
-<br/>
+<p align="left">Les règlements ne s'appliquent pas :<br/>a) aux moteurs installés avant le 1.1.2003<br/>et<br/>b) aux moteurs de remplacement qui sont installés, jusqu'au 31.12.2011, sur des bateaux qui étaient en service le 1.1.2002. </p>
 </td>
 <td valign="top" width="151">
-<br/>
+<p align="left">1.1.2002</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">8bis.02<br/>paragraphes 2<br/>et 3</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Conformité avec les exigences/valeurs limites<br/>d'émission de gaz d'échappement</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Pour les moteurs :<br/>a) installés à bord des bâtiments entre<br/>le 1.1.2003 et le 1.7.2007, les valeurs limites<br/>d'émission de gaz d'échappement énoncées<br/>à l'annexe XIV de la directive 97/68 s'appliquent ;<br/>b) installés à bord des bâtiments ou dans des<br/>machines installées à bord après le 30.6.2007,<br/>les valeurs limites d'émission de gaz d'échappement<br/>énoncées à l'annexe XV de la directive<br/>97/68/CE s'appliquent. </p>
+<p>Les exigences relatives aux catégories :<br/>aa) V pour les moteurs de propulsion et pour<br/>les moteurs auxiliaires d'une puissance supérieure<br/>à 560 kW et </p>bb) D, E, F, G, H, I, J, K pour les moteurs auxiliaires<br/>visés par la directive 97/68/CE sont réputées équivalentes.</td>
+<td align="left" valign="top">
+<p align="left">1.7.2007</p>
 </td>
 </tr>
 <tr>
@@ -461,10 +574,10 @@ de visite des bateaux du Rhin valable depuis le 1er janvier 1995
 </tr>
 <tr>
 <td valign="top" width="113">
-<p align="left">15.01 paragraphe 1,<br/>point c</p>
+<p align="left">15.01<br/>paragraphe 1,<br/>point c)</p>
 </td>
 <td valign="top" width="189">
-<p align="left">Non application de l'article 8.06, paragraphe 2, 2e phrase,</p>
+<p align="left">L'article 8.08, paragraphe 2, deuxième phrase, ne s'applique pas</p>
 </td>
 <td valign="top" width="227">
 <p align="left">N.R.T., au plus tard à la délivrance ou au renouvellement du certificat communautaire</p>
@@ -1835,7 +1948,7 @@ de visite des bateaux du Rhin valable depuis le 1er janvier 1995
 </tr>
 <tr>
 <td valign="top" width="113">
-<p align="left">paragraphe 9, point a</p>
+<p align="left">paragraphe 9,<br/>point a</p>
 </td>
 <td valign="top" width="189">
 <p align="left">Dispositifs d'alerte pour les installations à gaz liquéfié</p>
