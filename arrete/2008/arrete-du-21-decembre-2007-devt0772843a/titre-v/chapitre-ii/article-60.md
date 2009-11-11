@@ -11,3 +11,5 @@ I. - Un numéro européen unique d'identification des bateaux est attribué par 
 II. - Le numéro européen unique d'identification des bateaux, ci-après dénommé numéro européen d'identification ou numéro ENI, se compose de huit chiffres arabes, conformément à l'annexe 7 du présent arrêté.
 
 III. - Il ne peut être attribué qu'un seul numéro européen d'identification par bâtiment. Chaque numéro européen d'identification n'est attribué qu'une seule fois et demeure rattaché au bâtiment durant toute son existence.
+
+IV. - Lorsqu'un titre de navigation est délivré ou renouvelé pour un bateau titulaire d'un certificat de visite ou d'un certificat communautaire et disposant d'un numéro européen unique d'identification des bateaux attribué après le 31 mars 2007, ce numéro doit être utilisé et, le cas échéant, complété en le faisant précéder d'un "0".
