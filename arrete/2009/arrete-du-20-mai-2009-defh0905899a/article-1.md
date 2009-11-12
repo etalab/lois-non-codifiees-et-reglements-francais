@@ -94,6 +94,8 @@ I. ― Pour l'ensemble des fonctionnaires :
 
 32. L'octroi de décharges d'activité de service.
 
+33. L'octroi ou le refus d'accorder des indemnités de départ volontaire.
+
 II. ― Pour les fonctionnaires des catégories B et C :
 
 1. La titularisation et la prolongation éventuelle de stage des fonctionnaires.
@@ -170,6 +172,8 @@ Les actes suivants sont délégués lorsqu'ils sont relatifs aux agents :
 
 20. L'octroi de décharges d'activité de service.
 
+21.L'octroi ou le refus d'accorder des indemnités de départ volontaire.
+
 C. ― En ce qui concerne les personnels ouvriers affiliés au régime des pensions prévu par le décret n° 2004-1056 du 5 octobre 2004 relatif au régime des pensions des ouvriers des établissements industriels de l'Etat, les ouvriers auxiliaires et les ouvriers temporaires :
 
 1. L'affiliation des ouvriers auxiliaires au régime des pensions du décret n° 2004-1056 du 5 octobre 2004 relatif au régime des pensions des ouvriers des établissements industriels de l'Etat.
@@ -237,3 +241,5 @@ C. ― En ce qui concerne les personnels ouvriers affiliés au régime des pensi
 32. La radiation des contrôles pour un motif autre que disciplinaire ou lié à la perte des droits civiques.
 
 33. L'octroi de décharges d'activité de service.
+
+34.L'octroi ou le refus d'accorder des indemnités de départ volontaire.
