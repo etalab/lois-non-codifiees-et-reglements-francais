@@ -386,6 +386,8 @@ Paris-Almaty.
 
 Kenya
 
+Paris - Kisumu.
+
 Paris-Nairobi.
 
 Koweït
@@ -454,7 +456,11 @@ Mexique
 
 Paris-Acapulco.
 
+Paris - Aguascalientes.
+
 Paris-Cancún.
+
+Paris - Culiacan.
 
 Paris-Guadalajara.
 
@@ -467,6 +473,8 @@ Paris-Mexico.
 Paris-Monterey.
 
 Paris-Puerto Vallarta.
+
+Paris - Villahermosa.
 
 Mozambique
 
