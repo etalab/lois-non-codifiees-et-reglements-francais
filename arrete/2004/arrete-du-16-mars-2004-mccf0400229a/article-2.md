@@ -1,12 +1,12 @@
 # Article 2
 
-La commission des acquisitions est alternativement présidée, pour une durée d'un an, par le directeur de chacun des quatre musées de Fontainebleau, Compiègne, Malmaison et Pau. Cette présidence s'exerce dans l'ordre précité.
+La commission des acquisitions est alternativement présidée, pour une durée d'un an, par le directeur du patrimoine et des collections de l'Etablissement public du château de Fontainebleau et par le directeur de chacun des trois musées de Compiègne, Malmaison et Pau. Cette présidence s'exerce dans l'ordre précité.
 
 Elle comprend, y compris son président, quatorze membres :
 
 1° Le directeur des musées de France ou son représentant ;
 
-2° Les directeurs des musées de Fontainebleau, Compiègne, Malmaison et Pau ;
+2° Le directeur du patrimoine et des collections de l'Etablissement public du château de Fontainebleau et les directeurs des musées de Compiègne, Malmaison et Pau ;
 
 3° Le directeur général de l'Etablissement public du musée et du domaine national de Versailles ou son représentant ;
 
