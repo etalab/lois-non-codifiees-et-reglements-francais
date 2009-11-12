@@ -4,116 +4,124 @@ LIAISONS RÉGULIÈRES DE PASSAGERS, DE COURRIER ET DE FRET
 
 Jusqu'au 30 novembre 2009 :
 
-Paris-Agadir (Maroc).
+Paris - Agadir (Maroc).
 
 Jusqu'au 30 avril 2010 :
 
-Paris-Nairobi (Kenya).
+Paris - Nairobi (Kenya).
 
 Jusqu'au 31 octobre 2010 :
 
-Paris-Saint-Martin - Juliana (Antilles néerlandaises) ;
+Paris - Saint-Martin-Juliana (Antilles néerlandaises) ;
 
-Paris-Mombasa (Kenya) ;
+Paris - Mombasa (Kenya) ;
 
-Paris-Bangkok (Thaïlande).
+Paris - Bangkok (Thaïlande).
 
 Jusqu'au 30 novembre 2010 :
 
-Paris-Montréal (Canada).
+Paris - Montréal (Canada).
 
 Jusqu'au 31 décembre 2010 :
 
-Paris-Louqsor (Egypte).
+Paris - Louqsor (Egypte).
 
 Jusqu'au 28 février 2011 :
 
-Paris―Maurice (île Maurice) ;
+Paris - Maurice (île Maurice) ;
 
-Lyon―Maurice (île Maurice).
+Lyon - Maurice (île Maurice).
 
 Jusqu'au 31 juillet 2011 :
 
-Paris-Montego Bay (Jamaïque).
+Paris - Montego Bay (Jamaïque).
 
 Jusqu'au 31 octobre 2011 :
 
-Paris-Casablanca (Maroc).
+Paris - Casablanca (Maroc).
+
+Jusqu'au 1er juillet 2012 :
+
+Paris - Dzaoudzi (Mayotte).
 
 Jusqu'au 31 juillet 2012 :
 
-Paris-Sal (Cap-Vert) ;
+Paris - Sal (Cap-Vert) ;
 
-Paris-Antananarivo (Madagascar) ;
+Paris - Tel-Aviv (Israël) ;
 
-Paris-Nosy Bé (Madagascar) ;
+Paris - Antananarivo (Madagascar) ;
 
-Marseille-Casablanca (Maroc) ;
+Paris - Nosy Bé (Madagascar) ;
 
-Lyon-Casablanca (Maroc) ;
+Marseille - Casablanca (Maroc) ;
 
-Paris-La Romana (République dominicaine) ;
+Lyon - Casablanca (Maroc) ;
 
-Paris-Punta Cana (République dominicaine) ;
+Paris - La Romana (République dominicaine) ;
 
-Paris-Puerto Plata (République dominicaine) ;
+Paris - Punta Cana (République dominicaine) ;
 
-Paris-Samana (République dominicaine) ;
+Paris - Puerto Plata (République dominicaine) ;
 
-Paris-Dakar (Sénégal) ;
+Paris - Samana (République dominicaine) ;
 
-Paris―Tel-Aviv (Israël).
+Paris - Dakar (Sénégal).
 
 Jusqu'au 30 septembre 2012 :
 
-Paris-Cancún (Mexique)
+Paris - Cancún (Mexique) ;
 
-Paris-Mexico (Mexique).
+Paris - Mexico (Mexique).
 
 Jusqu'au 31 mars 2013 :
 
-Paris―Halifax (Canada) ;
+Paris - Halifax (Canada) ;
 
-Paris―Québec (Canada) ;
+Paris - Québec (Canada) ;
 
-Paris―Toronto (Canada).
+Paris - Toronto (Canada).
 
 Jusqu'au 31 mai 2013 :
 
-Paris―Al Ain (Emirats arabes unis) (fret uniquement) ;
+Paris - Al Ain (Emirats arabes unis) (fret uniquement) ;
 
-Paris―Rabat (Maroc).
+Paris - Rabat (Maroc).
 
 Jusqu'au 31 octobre 2013 :
 
-Paris―Fès (Maroc) ;
+Paris - Fès (Maroc) ;
 
-Paris―Marrakech (Maroc) ;
+Paris - Marrakech (Maroc) ;
 
-Paris―La Havane (Cuba) ;
+Paris - La Havane (Cuba) ;
 
-Paris―Santiago (Cuba).
+Paris - Santiago (Cuba).
 
 Jusqu'au 30 novembre 2013 :
 
-Marseille―Maurice (île Maurice) ;
+Marseille - Maurice (île Maurice) ;
 
-Nantes―Maurice (île Maurice) ;
+Nantes - Maurice (île Maurice) ;
 
-Toulouse―Maurice (île Maurice).
+Toulouse - Maurice (île Maurice).
 
 Jusqu'au 31 mars 2014 :
 
 Fort-de-France - Montréal (Canada) ;
 
-Pointe-à-Pitre - Montréal (Canada) ;
+Point-à-Pitre - Montréal (Canada) ;
 
 Nantes - Québec (Canada) ;
 
 Paris - Port-au-Prince (Haïti).
 
-Jusqu'au 31 août 2014 :
+Jusqu'au 31 juillet 2014 :
 
-Paris - Kilimandjaro (Tanzanie) ;
+Paris - Hô Chi Minh-Ville (Viêt Nam) ;
 
-Paris - Hô Chi Minh-Ville (Vietnam).
+Paris - Kilimandjaro (Tanzanie).
+
+Jusqu'au 31 octobre 2014 :
+
+Nantes - Punta Cana (République dominicaine).
