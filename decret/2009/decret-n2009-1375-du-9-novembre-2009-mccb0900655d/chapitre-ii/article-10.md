@@ -1,0 +1,3 @@
+# Article 10
+
+Les fonctionnaires maintenus dans leurs fonctions et détachés dans un emploi de chef de mission du ministère de la culture et de la communication, en application de l'article 9 du présent décret, ne peuvent être à l'issue de leur détachement renouvelés dans les mêmes fonctions que pour une nouvelle période de cinq ans. A l'issue de cette nouvelle période, ceux qui se trouvent dans la possibilité de faire liquider leur droit à pension dans un délai de deux ans peuvent bénéficier d'une prolongation exceptionnelle de détachement dans le même emploi pour une période maximale de deux ans.

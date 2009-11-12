@@ -1,0 +1,5 @@
+# Article 2
+
+Les fonctionnaires nommés dans l'emploi de chef de mission sont chargés au sein de l'administration centrale, dans les services déconcentrés et dans les services à compétence nationale du ministère de la culture et de la communication ainsi que dans les établissements publics à caractère administratif placés sous sa tutelle de fonctions d'encadrement, de coordination, d'expertise ou de conseil comportant l'exercice de responsabilités particulièrement importantes. Ces fonctions requièrent des compétences confirmées en matière administrative, juridique, financière, technique ou dans le domaine du traitement et de la diffusion de la documentation ou celui du traitement et de la conservation des archives.
+
+Les chefs de mission occupant un emploi doté d'un échelon spécial sont chargés de fonctions de direction à la tête de services particulièrement importants, ou d'exercer des fonctions d'encadrement, de coordination, d'expertise ou de conseil impliquant un haut niveau de qualification.
