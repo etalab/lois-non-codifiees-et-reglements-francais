@@ -1,6 +1,6 @@
 # Article 212-13
 
-I. - Tout émetteur dont les instruments financiers sont admis aux négociations sur un marché réglementé peut établir, chaque année, dans les conditions fixées par une instruction de l'AMF, un document de référence.
+I. - Tout émetteur dont les instruments financiers sont admis aux négociations sur un marché réglementé ou sur un système multilatéral de négociation organisé au sens de l'article 524-1 peut établir, chaque année, dans les conditions fixées par une instruction de l'AMF, un document de référence.
 
 Ce document de référence peut prendre la forme du rapport annuel destiné aux actionnaires. Dans ce cas, doit être fourni un tableau de concordance entre les rubriques qui figurent dans l'instruction mentionnée au premier alinéa et les rubriques correspondantes du rapport annuel.
 
