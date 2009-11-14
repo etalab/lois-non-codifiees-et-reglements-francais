@@ -1,0 +1,7 @@
+# Article 12
+
+I. ― Dès lors qu'est créée la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi, au sein des commissions à caractère consultatif comportant une proportion fixe de représentants de l'administration de l'Etat, les représentants de la direction régionale de l'industrie, de la recherche et de l'environnement, de la direction régionale du travail, de l'emploi et de la formation professionnelle, de la direction régionale de la concurrence, de la consommation et de la répression des fraudes, de la direction régionale du commerce extérieur, de la délégation régionale au tourisme et le délégué régional au commerce et à l'artisanat sont remplacés, en nombre égal, par des représentants de la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi.
+
+Au sein des commissions à caractère consultatif dont la composition n'obéit pas à une telle règle, les représentants des directions régionales mentionnées à l'alinéa précédent sont remplacés par un seul représentant de la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi.
+
+II. ― Les dispositions du I ne s'appliquent qu'aux instances comportant une représentation de la direction régionale de l'industrie, de la recherche et de l'environnement au titre de ses missions de développement industriel ou de métrologie.

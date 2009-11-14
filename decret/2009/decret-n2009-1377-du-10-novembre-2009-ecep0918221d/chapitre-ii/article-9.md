@@ -1,0 +1,5 @@
+# Article 9
+
+I. ― Jusqu'à la création, dans les départements, d'un service déconcentré de l'Etat auquel seront notamment dévolues des missions en matière de concurrence, de consommation et de répression des fraudes, la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi comprend, dans chaque département de la région, une unité chargée de conduire des actions dans ces domaines.
+
+II. ― Les responsables de ces unités départementales sont nommés, après avis du directeur régional, par arrêté conjoint des ministres chargés de l'économie et de l'industrie. Ceux d'entre eux dont le conjoint, le partenaire lié par un pacte civil de solidarité, un parent ou un allié jusqu'au troisième degré inclus donne professionnellement des conseils fiscaux ou juridiques ou exerce la profession d'industriel, de commerçant, d'agriculteur ou de prestataire de services sont tenus d'en faire la déclaration au service en précisant l'étendue géographique où s'exerce cette activité.

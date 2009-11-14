@@ -283,6 +283,7 @@
 - [Décret n°2009-1110 du 10 septembre 2009 (DEFH0917845D)](decret-n2009-1110-du-10-septembre-2009-defh0917845d)
 - [Décret n°2009-1111 du 10 septembre 2009 (DEFH0917834D)](decret-n2009-1111-du-10-septembre-2009-defh0917834d)
 - [Décret n°2009-1370 du 10 novembre 2009 (DEVT0922779D)](decret-n2009-1370-du-10-novembre-2009-devt0922779d)
+- [Décret n°2009-1377 du 10 novembre 2009 (ECEP0918221D)](decret-n2009-1377-du-10-novembre-2009-ecep0918221d)
 - [Décret n°2009-145 du 10 février 2009 (MENE0900056D)](decret-n2009-145-du-10-fevrier-2009-mene0900056d)
 - [Décret n°2009-146 du 10 février 2009 (MENE0900057D)](decret-n2009-146-du-10-fevrier-2009-mene0900057d)
 - [Décret n°2009-147 du 10 février 2009 (MENE0900058D)](decret-n2009-147-du-10-fevrier-2009-mene0900058d)
