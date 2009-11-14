@@ -4,6 +4,6 @@ Les attributions individuelles d'allocation complémentaire de fonctions sont d�
 
 -des taux de référence en points prévus aux articles suivants, fixés par catégorie et par fonction ;
 
--d'une valeur du point fixée au 1er mars 2008 à 8, 67 euros ;
+-d'une valeur du point fixée au 1er juillet 2009 à 8, 74 euros ;
 
--d'une valeur du point fixée au 1er octobre 2008 à 8, 70 euros.
+-d'une valeur du point fixée au 1er octobre 2009 à 8, 77 euros.

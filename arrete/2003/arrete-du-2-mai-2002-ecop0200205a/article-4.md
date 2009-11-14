@@ -2,9 +2,9 @@
 
 Les attributions individuelles d'allocation complémentaire de fonctions sont déterminées, conformément aux dispositions de l'article 3 du décret du 2 mai 2002 susvisé, à partir :
 
--d'une valeur de point fixée au 1er mars 2008 à 52, 54 euros ;
+-d'une valeur de point fixée au 1er juillet 2009 à 52, 96 euros ;
 
--d'une valeur de point fixée au 1er octobre 2008 à 52, 70 euros ;
+-d'une valeur de point fixée au 1er octobre 2009 à 53, 12 euros ;
 
 -des taux de référence en points fixés par critère et par catégorie dans les conditions suivantes :
 
@@ -147,9 +147,7 @@ Allocation de sujétions
 <table>
 <tbody>
 <tr>
-<td>
-<br/>
-</td>
+<td/>
 <td>
 <p align="center">PREMIER </p>
 <br/>
