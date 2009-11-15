@@ -17,3 +17,5 @@ III. - Au 1er janvier 2010, les fonctionnaires détachés dans le corps des adjo
 Ils sont reclassés dans ce corps à identité de grade et d'échelon, avec conservation de l'ancienneté acquise de grade et d'échelon.
 
 Les services accomplis en position de détachement dans le corps d'origine sont assimilés à des services accomplis en détachement dans le nouveau corps.
+
+IV. - Les tableaux d'avancement établis au titre de l'année 2010 pour l'accès aux grades d'avancement du corps des adjoints administratifs de la police nationale demeurent valables jusqu'au 31 décembre 2010 pour l'accès aux grades équivalents du corps des adjoints administratifs de l'intérieur et de l'outre-mer.
