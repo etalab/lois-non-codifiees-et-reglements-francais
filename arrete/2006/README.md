@@ -259,6 +259,7 @@
 - [Arrêté du 26 octobre 2006 (DEFD0601443A)](arrete-du-26-octobre-2006-defd0601443a)
 - [Arrêté du 26 septembre 2006 (JUSK0640200A)](arrete-du-26-septembre-2006-jusk0640200a)
 - [Arrêté du 26 septembre 2006 (JUSK0640203A)](arrete-du-26-septembre-2006-jusk0640203a)
+- [Arrêté du 26 mai 2006 (PMEA0620042A)](arrete-du-26-mai-2006-pmea0620042a)
 - [Arrêté du 27 décembre 2006 (JUSA0600409A)](arrete-du-27-decembre-2006-jusa0600409a)
 - [Arrêté du 27 décembre 2006 (soco0612612a)](arrete-du-27-decembre-2006-soco0612612a)
 - [Arrêté du 27 juillet 2003 (BUDD0370009A)](arrete-du-27-juillet-2003-budd0370009a)

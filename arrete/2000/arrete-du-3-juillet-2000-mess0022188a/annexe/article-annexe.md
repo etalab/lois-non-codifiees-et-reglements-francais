@@ -1124,6 +1124,8 @@ SNIG/SITUB, 8, allée du Rhône, 69552 Feyzin : de 1968 à 1996 ;
 
 SNIG/SITUB, ZI Faveyrolle, 19, avenue Paul-Sabatier, 26700 Pierrelatte : de 1985 à 1996 ;
 
+Société d'électrochimie de Jarrie et de Thaon, puis Société d'électrochimie, d'électrométallurgie des aciéries électriques d'Ugine (SECEMAEU), puis Pechiney Ugine Kuhlmann, puis Elf Atochem, Usine de Jarrie, route nationale 85, BP 1, 38560 Jarrie : De 1916 à 1996 ;
+
 Société Le Chlore Liquide/PROGIL/Rhône PROGIL/Rhône Poulenc SA, puis CHLORALP, rue Lavoisier, 38800 Pont-de-Claix : de 1916 à 1996, de 1997 à 2001 ;
 
 Société de Paris et du Rhône, de 1915 à 1986, puis EEM, de 1986 à 1987, puis Valéo EEM, de 1987 à 1989, 36, avenue Jean-Mermoz, 69355 Lyon ;
