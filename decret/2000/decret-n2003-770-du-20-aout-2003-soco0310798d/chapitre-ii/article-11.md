@@ -1,0 +1,9 @@
+# Article 11
+
+I. - Les élèves-inspecteurs qui avaient antérieurement la qualité de fonctionnaire d'un corps ou d'un cadre d'emplois de catégorie A ou de même niveau, ainsi que ceux qui avaient antérieurement la qualité de fonctionnaire d'un corps ou cadre d'emplois de catégorie B ou de même niveau sont classés dans le grade d'inspecteur à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui qu'ils détenaient dans leur grade d'origine.
+
+Dans la limite de l'ancienneté moyenne exigée à l'article 13 pour une promotion à l'échelon supérieur, ils conservent l'ancienneté d'échelon acquise dans leur précédent grade ou classe lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle qui résulterait d'un avancement d'échelon dans leur ancienne situation.
+
+Les candidats nommés alors qu'ils ont atteint l'échelon le plus élevé de leur précédent grade ou classe conservent leur ancienneté d'échelon dans les mêmes conditions et limites, lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle résultant d'un avancement audit échelon.
+
+II. - Les inspecteurs-élèves qui avaient antérieurement la qualité de fonctionnaire d'un corps ou d'un cadre d'emplois de catégorie C ou de même niveau sont classés dans le grade d'inspecteur en appliquant les dispositions du I à la situation qui serait la leur si, préalablement à leur nomination dans le corps des inspecteurs du travail, ils avaient été nommés et classés, en application des I à IV de l'article 3 du décret n° 94-1016 du 18 novembre 1994 susvisé, dans l'un des corps de secrétaire administratif régis par le décret n° 94-1017 du 18 novembre 1994 fixant les dispositions statutaires communes applicables aux corps des secrétaires administratifs des administrations de l'Etat et à certains corps analogues.
