@@ -425,7 +425,6 @@ Les comités techniques paritaires du ministère chargé de la culture sont les 
 </tr>
 </tbody>
 </table>
-
 <table>
 <tbody>
 <tr>
@@ -820,11 +819,23 @@ Les comités techniques paritaires du ministère chargé de la culture sont les 
 </td>
 </tr>
 <tr>
+<td/>
+<td>
+<p align="left">Comité technique paritaire du musée Guimet</p>
+</td>
+<td>
+<p align="center">5</p>
+</td>
+<td>
+<p align="center">5</p>
+</td>
+</tr>
+<tr>
 <td rowspan="2">
 <pre> </pre>
 </td>
 <td rowspan="2">
-<p>Comité technique paritaire du musée Guimet</p>
+<p>Comité technique paritaire de l'Etablissement public du château de Fontainebleau </p>
 </td>
 <td rowspan="2">
 <p align="center">5</p>
@@ -835,7 +846,6 @@ Les comités techniques paritaires du ministère chargé de la culture sont les 
 </tr>
 </tbody>
 </table>
-
 <table>
 <tbody>
 <tr>
@@ -1049,7 +1059,6 @@ Les comités techniques paritaires du ministère chargé de la culture sont les 
 </tr>
 </tbody>
 </table>
-
 <table>
 <tbody>
 <tr>
