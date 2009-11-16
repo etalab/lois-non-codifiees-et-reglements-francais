@@ -1005,6 +1005,7 @@
 - [Arrêté du 14 janvier 2009 (SASH0901543A)](arrete-du-14-janvier-2009-sash0901543a)
 - [Arrêté du 14 janvier 2009 (SJSS0901019A)](arrete-du-14-janvier-2009-sjss0901019a)
 - [Arrêté du 14 janvier 2009 (SJSS0901035A)](arrete-du-14-janvier-2009-sjss0901035a)
+- [Arrêté du 14 novembre 2009 (MCCT0923440A)](arrete-du-14-novembre-2009-mcct0923440a)
 - [Arrêté du 14 octobre 2009 (AGRT0923520A)](arrete-du-14-octobre-2009-agrt0923520a)
 - [Arrêté du 14 octobre 2009 (BCFR0923791A)](arrete-du-14-octobre-2009-bcfr0923791a)
 - [Arrêté du 14 octobre 2009 (DEFD0925124A)](arrete-du-14-octobre-2009-defd0925124a)
