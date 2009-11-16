@@ -175,7 +175,6 @@
 - [Décret n°2008-234 du 6 mars 2008 (ECET0805432D)](decret-n2008-234-du-6-mars-2008-ecet0805432d)
 - [Décret n°2008-235 du 6 mars 2008 (JUSA0804537D)](decret-n2008-235-du-6-mars-2008-jusa0804537d)
 - [Décret n°2008-236 du 6 mars 2008 (JUSA0804538D)](decret-n2008-236-du-6-mars-2008-jusa0804538d)
-- [Décret n°2008-238 du 6 mars 2008 (JUSA0804540D)](decret-n2008-238-du-6-mars-2008-jusa0804540d)
 - [Décret n°2008-239 du 6 mars 2008 (MTSS0800400D)](decret-n2008-239-du-6-mars-2008-mtss0800400d)
 - [Décret n°2008-240 du 6 mars 2008 (MTSS0800423D)](decret-n2008-240-du-6-mars-2008-mtss0800423d)
 - [Décret n°2008-539 du 6 juin 2008 (BCFF0810613D)](decret-n2008-539-du-6-juin-2008-bcff0810613d)
