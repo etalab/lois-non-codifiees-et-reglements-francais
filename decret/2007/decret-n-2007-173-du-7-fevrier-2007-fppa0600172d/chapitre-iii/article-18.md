@@ -20,4 +20,4 @@ d) La performance et le coût de la gestion ;
 
 4° Le processus d'évaluation contradictoire des résultats obtenus au regard des objectifs fixés.
 
-Elle est conclue entre l'Etat, la caisse nationale et la Caisse des dépôts et consignations. Elle est signée par les autorités représentant l'Etat au conseil d'administration, le président du conseil d'administration de la caisse nationale et le directeur général de la Caisse des dépôts et consignations. La première convention est conclue pour une durée de trois ans, les conventions suivantes pour une durée de quatre ans.
+Elle est conclue entre l'Etat, la caisse nationale et la Caisse des dépôts et consignations. Elle est signée par les ministres chargés de la sécurité sociale et du budget, le président du conseil d'administration de la caisse nationale et le directeur général de la Caisse des dépôts et consignations. La première convention est conclue pour une durée de trois ans, les conventions suivantes pour une durée de quatre ans.

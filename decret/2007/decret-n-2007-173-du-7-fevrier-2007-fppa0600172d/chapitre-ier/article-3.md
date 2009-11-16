@@ -8,7 +8,7 @@ III.-En application du 2° du II de l'article 15 du décret du 26 décembre 2003
 
 IV.-En application de l'article 17 de la loi du 28 novembre 1990 susvisée, les sapeurs-pompiers professionnels bénéficiaires de l'indemnité de feu sont assujettis sur la somme de leur traitement indiciaire et de l'indemnité de feu à une retenue supplémentaire dont le taux est fixé par décret.
 
-Les indices résultant de la prise en compte de cette indemnité sont récapitulés par un arrêté conjoint du ministre de l'intérieur et du ministre chargé du budget.
+Les indices résultant de la prise en compte de cette indemnité sont récapitulés par un arrêté conjoint du ministre chargé de la sécurité sociale, du ministre chargé des collectivités territoriales et du ministre chargé du budget.
 
 V.-En application du I de l'article 37 de la loi du 18 décembre 2003 susvisée, les fonctionnaires classés dans le corps des aides-soignants de la fonction publique hospitalière et bénéficiant de la prime spéciale de sujétion sont assujettis sur cette prime à une retenue supplémentaire dont le taux est fixé par décret.
 

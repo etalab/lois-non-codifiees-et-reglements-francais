@@ -1,24 +1,16 @@
 # Article 42
 
-La gestion de la caisse de retraites des personnels de l'Opéra national de Paris est confiée à un conseil d'administration de seize membres ainsi constitué :
+La gestion de la caisse de retraites des personnels de l'Opéra national de Paris est confiée à un conseil d'administration de douze membres ainsi constitué :
 
 1° Membres nommés :
 
 Le président du conseil d'administration nommé par arrêté conjoint des ministres chargés de la culture, de la sécurité sociale et du budget et le vice-président nommé dans les mêmes conditions ;
 
-2° Membres de droit :
+2° Membre de droit :
 
-Le directeur de la musique et de la danse ou son représentant ;
+a) Le représentant du ministre chargé de la culture, qui dispose de trois voix lors des délibérations du conseil ;
 
-Le directeur de l'Opéra national de Paris ou son représentant ;
-
-Le directeur du budget ou son représentant ;
-
-Le directeur de la sécurité sociale ou son représentant ;
-
-Le directeur général de la Caisse des dépôts et consignations ou son représentant ;
-
-Un membre du corps de contrôle général, économique et financier ;
+b) Le directeur de l'Opéra national de Paris, ou son représentant, qui dispose de trois voix lors des délibérations du conseil.
 
 3° Membres élus par le personnel du théâtre national de l'Opéra de Paris
 
@@ -42,7 +34,7 @@ Les membres soumis à l'élection sont élus pour trois ans au suffrage direct ;
 
 En cas de décès, de démission ou de départ d'un membre élu du conseil d'administration, il est pourvu, dans un délai de deux mois, à son remplacement dans les conditions ci-dessus spécifiées. La durée des fonctions de ce nouveau membre prend fin à l'époque où aurait normalement expiré le mandat de celui qu'il remplace.
 
-Un arrêté du ministre chargé de la culture et du ministre chargé de la sécurité sociale règle les formes et modalités de l'élection des représentants du personnel en activité de service.
+Un arrêté du ministre chargé de la sécurité sociale règle les formes et modalités de l'élection des représentants du personnel en activité de service.
 
 4° Deux membres ayant voix consultative représentant les retraités désignés par l'association la plus représentative des retraités du régime spécial.
 
@@ -53,3 +45,5 @@ En cas d'absence ou d'empêchement du président, celui-ci est suppléé par le 
 Les fonctions de membres de la commission sont gratuites.
 
 Le président désigne un secrétaire et un secrétaire adjoint qui n'ont pas voix délibérative.
+
+Deux commissaires du Gouvernement représentant les ministres chargés de la sécurité sociale et du budget assistent aux séances du conseil d'administration et des commissions ayant reçu délégation de celui-ci. Ils sont entendus chaque fois qu'ils le demandent.

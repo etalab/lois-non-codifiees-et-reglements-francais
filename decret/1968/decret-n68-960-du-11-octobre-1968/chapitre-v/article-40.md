@@ -1,22 +1,14 @@
 # Article 40
 
-I. - La gestion de la caisse de retraites est confiée à une commission de dix-huit membres ainsi constituée :
+I. - La gestion de la caisse de retraites est confiée à une commission de quatorze membres ainsi constituée :
 
 a) Trois membres nommés par arrêté conjoint des ministres chargés de la culture, de la sécurité sociale et du budget, dont un membre du Conseil d'Etat ;
 
 b) Membres de droit :
 
-- le directeur du théâtre et des spectacles ou son représentant ;
+- le représentant du ministre chargé de la culture, qui dispose de trois voix lors des délibérations de la commission ;
 
-- l'administrateur de la Comédie-Française ou son représentant ;
-
-- le directeur du budget ou son représentant ;
-
-- le directeur de la sécurité sociale ou son représentant ;
-
-- le directeur général de la Caisse des dépôts et consignations ou son représentant ;
-
-- le membre du corps du contrôle général économique et financier de la Comédie-Française.
+- l'administrateur de la Comédie-Française, ou son représentant, qui dispose de trois voix lors des délibérations de la commission ;
 
 c) Membres élus : deux sociétaires de la Comédie-Française élus par l'assemblée générale.
 
@@ -34,10 +26,12 @@ V - Les pouvoirs des membres élus expirent le 1er janvier de chaque période tr
 
 VI - En cas de décès ou de démission d'un membre nommé ou élu, il est pourvu à son remplacement dans un délai de deux mois. La durée des fonctions de ce nouveau membre prend fin à l'époque où auraient normalement expiré les fonctions de celui qu'il remplace.
 
-VII - Un arrêté du ministre chargé des affaires culturelles et du ministre des affaires sociales règle les formes et modalités de l'élection des représentants du personnel et des retraités.
+VII - Un arrêté du ministre chargé de la sécurité sociale règle les formes et modalités de l'élection des représentants du personnel et des retraités.
 
 VIII. - Le président de la commission est nommé parmi les membres figurant au paragraphe a du I par l'arrêté conjoint mentionné à ce paragraphe. En cas de partage des voix, sa voix est prépondérante. La commission élit son vice-président.
 
 IX - Le président désigne, en dehors des membres de la commission, un secrétaire et un secrétaire adjoint qui n'ont pas voix délibérative.
 
 X - Les fonctions de membre de la commission de gestion sont gratuites. Toutefois, les représentants élus des pensionnés peuvent prétendre, sur justificatifs et sur la base des dispositions prévues pour les fonctionnaires du groupe I, au remboursement de leurs frais de déplacement par le directeur de la caisse agissant par délégation de la commission de gestion.
+
+XI. - Deux commissaires du Gouvernement représentant les ministres chargés de la sécurité sociale et du budget assistent aux séances de la commission de gestion et des commissions ayant reçu délégation de celui-ci. Ils sont entendus chaque fois qu'ils le demandent.

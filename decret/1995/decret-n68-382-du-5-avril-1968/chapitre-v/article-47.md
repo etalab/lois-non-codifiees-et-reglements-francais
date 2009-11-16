@@ -4,6 +4,6 @@ Le directeur soumet chaque année au conseil d'administration le projet de budge
 
 La commission de gestion vote le budget de la gestion administrative auquel est annexé un état limitant pour l'année le nombre d'emplois par catégorie de telle sorte que le nombre des agents de chaque catégorie ne puisse dépasser le nombre des emplois.
 
-Le budget de la gestion administrative est soumis à l'approbation conjointe des ministres chargés de la sécurité sociale, de la culture et du budget.
+Le budget de la gestion administrative est soumis à l'approbation conjointe des ministres chargés de la sécurité sociale et du budget.
 
 Le budget de l'action sociale est voté et approuvé dans les mêmes conditions que le budget de la gestion administrative.

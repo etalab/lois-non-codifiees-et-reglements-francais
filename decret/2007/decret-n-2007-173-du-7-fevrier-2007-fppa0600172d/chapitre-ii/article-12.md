@@ -1,6 +1,6 @@
 # Article 12
 
-Le conseil d'administration se réunit au moins une fois par semestre sur convocation du président, qui fixe l'ordre du jour. Il est en outre convoqué lorsque l'un des ministres représentés au conseil ou le quart au moins de ses membres en expriment la demande. Les convocations sont, sauf urgence déclarée, adressées dix jours ouvrés au moins avant la date de la séance.
+Le conseil d'administration se réunit au moins une fois par semestre sur convocation du président, qui fixe l'ordre du jour. Il est en outre convoqué lorsque l'un des ministres représentés au conseil par un commissaire du Gouvernement ou le quart au moins de ses membres en expriment la demande. Les convocations sont, sauf urgence déclarée, adressées dix jours ouvrés au moins avant la date de la séance.
 
 Le conseil ne peut valablement délibérer que si la moitié au moins des membres en exercice assistent à la séance. Dans le cas où ce quorum n'est pas atteint, le conseil est à nouveau réuni avec le même ordre du jour dans un délai maximum de cinq jours. Le conseil peut alors délibérer valablement quel que soit le nombre de membres présents.
 

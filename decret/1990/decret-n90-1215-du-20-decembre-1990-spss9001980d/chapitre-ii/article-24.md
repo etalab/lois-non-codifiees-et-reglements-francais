@@ -1,6 +1,6 @@
 # Article 24
 
-I. - La CRPCEN peut conclure avec le ministre chargé de la sécurité sociale, le ministre chargé du budget et le garde des sceaux, ministre de la justice, pour une durée minimale de quatre ans, une convention d'objectifs et de gestion comportant des engagements réciproques des signataires.
+I. - La CRPCEN peut conclure avec le ministre chargé de la sécurité sociale et le ministre chargé du budget, pour une durée minimale de quatre ans, une convention d'objectifs et de gestion comportant des engagements réciproques des signataires.
 
 Cette convention détermine les objectifs pluriannuels de gestion, les moyens de fonctionnement dont la caisse dispose pour les atteindre et les actions mises en oeuvre à ces fins pour chacun des signataires.
 

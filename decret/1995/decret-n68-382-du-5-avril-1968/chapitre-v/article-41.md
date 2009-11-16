@@ -1,3 +1,3 @@
 # Article 41
 
-La caisse de retraites est placée sous le contrôle du ministre chargé de la culture, du ministre chargé de la sécurité sociale et du ministre chargé du budget.
+La caisse de retraites est placée sous la tutelle du ministre chargé de la sécurité sociale et du ministre chargé du budget.
