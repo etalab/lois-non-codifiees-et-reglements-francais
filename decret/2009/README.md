@@ -219,6 +219,7 @@
 - [Décret n°2009-860 du 8 juillet 2009 (ECEC0913192D)](decret-n2009-860-du-8-juillet-2009-ecec0913192d)
 - [Décret n°99-928 du 8 novembre 1999 (AGRM9901326D)](decret-n99-928-du-8-novembre-1999-agrm9901326d)
 - [Décret n°2001-609 du 9 juillet 2001 (MCCT0100390D)](decret-n2001-609-du-9-juillet-2001-mcct0100390d)
+- [Décret n°2002-1437 du 9 décembre 2002 (DEFP0202246D)](decret-n2002-1437-du-9-decembre-2002-defp0202246d)
 - [Décret n°2008-1288 du 9 décembre 2008 (JUSC0825878D)](decret-n2008-1288-du-9-decembre-2008-jusc0825878d)
 - [Décret n°2009-1104 du 9 septembre 2009 (IOCO0823626D)](decret-n2009-1104-du-9-septembre-2009-ioco0823626d)
 - [Décret n°2009-1105 du 9 septembre 2009 (IOCO0823636D)](decret-n2009-1105-du-9-septembre-2009-ioco0823636d)
