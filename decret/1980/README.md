@@ -63,7 +63,6 @@
 - [Décret n°81-780 du 13 août 1981](decret-n81-780-du-13-aout-1981)
 - [Décret n°80-347 du 13 mai 1980](decret-n80-347-du-13-mai-1980)
 - [Décret n°80-269 du 14 avril 1980](decret-n80-269-du-14-avril-1980)
-- [Décret n°80-809 du 14 octobre 1980](decret-n80-809-du-14-octobre-1980)
 - [Décret n°80-354 du 14 mai 1980](decret-n80-354-du-14-mai-1980)
 - [Décret n°80-356 du 14 mai 1980](decret-n80-356-du-14-mai-1980)
 - [Décret n°80-148 du 15 février 1980](decret-n80-148-du-15-fevrier-1980)
