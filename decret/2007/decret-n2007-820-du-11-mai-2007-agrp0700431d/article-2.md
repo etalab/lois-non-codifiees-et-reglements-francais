@@ -25,3 +25,5 @@ Les quantités comprises entre le rendement revendiqué et le rendement agronomi
 5° La dénomination " Vin de pays du Val de Loire " peut être accordée aux vins obtenus sans aucun enrichissement et dont le titre alcoométrique volumique total est compris entre 15 % vol. et 20 % vol., excepté pour les vins produits en zone d'appellation et sur les superficies complantées en cépage chenin, dans les départements de Maine-et-Loire et d'Indre-et-Loire.
 
 Les vins peuvent être présentés à l'agrément en vrac ou après conditionnement.
+
+6° Les vins de pays du Val de Loire sont issus de parcelles ayant fait l'objet d'une déclaration d'affectation parcellaire. Il s'agit d'une déclaration annuelle qui devra contenir les informations suivantes : le nom et l'adresse du déclarant, les numéros de l'exploitation au casier viticole informatisé (CVI), la liste des parcelles retenues avec leurs références cadastrales, leur superficie, leur encépagement et la superficie totale de toutes les parcelles engagées. La déclaration est envoyée par le récoltant ou par délégation par son organisation de producteurs avant le 30 janvier au siège des syndicats en charge de la dénomination.
