@@ -395,7 +395,6 @@
 - [Arrêté du 14 décembre 2004 (SANH0424192A)](arrete-du-14-decembre-2004-sanh0424192a)
 - [Arrêté du 14 décembre 2004 (SOCF0412392A)](arrete-du-14-decembre-2004-socf0412392a)
 - [Arrêté du 14 décembre 2004 (SOCF0412393A)](arrete-du-14-decembre-2004-socf0412393a)
-- [Arrêté du 14 décembre 2004 (SOCF0412394A)](arrete-du-14-decembre-2004-socf0412394a)
 - [Arrêté du 14 décembre 2004 (SOCF0412395A)](arrete-du-14-decembre-2004-socf0412395a)
 - [Arrêté du 14 janvier 2004 (DEFB0400056A)](arrete-du-14-janvier-2004-defb0400056a)
 - [Arrêté du 14 janvier 2004 (MCCI0400026A)](arrete-du-14-janvier-2004-mcci0400026a)
