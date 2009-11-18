@@ -103,7 +103,6 @@
 - [Arrêté du 5 janvier 2004 (DEFD0302476A)](arrete-du-5-janvier-2004-defd0302476a)
 - [Arrêté du 5 janvier 2004 (JUSF0350121A)](arrete-du-5-janvier-2004-jusf0350121a)
 - [Arrêté du 5 janvier 2004 (JUSF0350122A)](arrete-du-5-janvier-2004-jusf0350122a)
-- [Arrêté du 5 janvier 2004 (JUSF0350123A)](arrete-du-5-janvier-2004-jusf0350123a)
 - [Arrêté du 5 janvier 2004 (MENE0302859A)](arrete-du-5-janvier-2004-mene0302859a)
 - [Arrêté du 5 janvier 2004 (MENE0302860A)](arrete-du-5-janvier-2004-mene0302860a)
 - [Arrêté du 5 janvier 2004 (MENE0302861A)](arrete-du-5-janvier-2004-mene0302861a)

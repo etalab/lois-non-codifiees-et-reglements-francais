@@ -330,7 +330,6 @@
 - [Arrêté du 16 juin 2005 (JUSE0540014A)](arrete-du-16-juin-2005-juse0540014a)
 - [Arrêté du 16 juin 2005 (JUSE0540015A)](arrete-du-16-juin-2005-juse0540015a)
 - [Arrêté du 16 juin 2005 (JUSE0540016A)](arrete-du-16-juin-2005-juse0540016a)
-- [Arrêté du 16 juin 2005 (JUSF0550067A)](arrete-du-16-juin-2005-jusf0550067a)
 - [Arrêté du 16 juin 2005 (JUSK0540012A)](arrete-du-16-juin-2005-jusk0540012a)
 - [Arrêté du 16 juin 2005 (SANH0522152A)](arrete-du-16-juin-2005-sanh0522152a)
 - [Arrêté du 16 mars 2005 (DEFD0500283A)](arrete-du-16-mars-2005-defd0500283a)
