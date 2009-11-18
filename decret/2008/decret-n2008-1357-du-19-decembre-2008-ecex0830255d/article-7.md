@@ -4,4 +4,6 @@ Le bénéfice de l'aide ne peut se cumuler avec celui des dispositifs prévus pa
 
 L'employeur opte, pour chaque recrutement, entre la présente aide et l'aide prévue à l'article 10 de la loi du 9 août 2004 susvisée.
 
+L'employeur opte, pour chaque recrutement, entre l'aide prévue par le présent décret et l'aide prévue par le décret n° 2009-1395 du 16 novembre 2009 relatif à un dispositif d'aide à l'emploi dans le secteur de l'hôtellerie restauration en Corse.
+
 Le bénéfice de l'aide est subordonné au respect du règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 concernant l'application des articles 87 et 88 du traité aux aides de minimis.
