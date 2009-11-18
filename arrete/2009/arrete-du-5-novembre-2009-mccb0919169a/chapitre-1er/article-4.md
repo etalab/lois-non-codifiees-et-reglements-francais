@@ -1,0 +1,3 @@
+# Article 4
+
+La bourse allouée à des étudiants inscrits dans les établissements d'enseignement supérieur relevant du ministère chargé de la culture, dans les conditions prévues par le présent chapitre, continue de leur être versée s'ils sont admis, sur leur demande et avec l'approbation des autorités responsables de leurs études, à poursuivre leurs études dans un établissement d'enseignement supérieur situé dans un autre Etat membre du Conseil de l'Europe ayant ratifié l'accord européen du 12 décembre 1969 susvisé sur le maintien du paiement des bourses aux étudiants poursuivant leurs études à l'étranger.
