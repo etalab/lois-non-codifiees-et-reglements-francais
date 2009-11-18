@@ -1,6 +1,6 @@
 # Article 4
 
-Pour l'application de la disposition prévue à l'article 1er, les demandes d'aide, adressées avant le 15 novembre 2009 au ministre chargé de la communication, doivent être accompagnées :
+Pour l'application de la disposition prévue à l'article 1er, les demandes d'aide, adressées avant le 30 novembre 2009 au ministre chargé de la communication, doivent être accompagnées :
 
 ― d'une déclaration du demandeur certifiant qu'il répond aux conditions définies à l'article 2 ;
 
