@@ -1,6 +1,6 @@
 # Article 7
 
-Le stage de préformation permet d'aborder les éléments théoriques, pratiques, techniques, pédagogiques du ski alpin et de ses activités assimilées. En outre, il aborde les questions de sécurité, notamment la détection de victimes en avalanches.
+Le stage de préformation permet d'aborder les éléments théoriques, pratiques, techniques, pédagogiques du ski alpin et de ses activités dérivées. En outre, il aborde les questions de sécurité, notamment la détection de victimes en avalanches.
 
 L'équipe des formateurs du stage de préformation est composée de cadres titulaires d'un des diplômes prévus en annexe II. Ils sont placés sous la responsabilité d'un agent du ministère chargé des sports titulaire des mêmes qualifications.
 

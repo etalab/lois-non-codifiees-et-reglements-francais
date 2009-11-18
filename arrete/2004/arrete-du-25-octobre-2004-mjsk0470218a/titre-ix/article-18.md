@@ -16,6 +16,6 @@ Les principaux objectifs du stage d'application prévu à l'article 2 sont :
 
 - favoriser la pratique personnelle du ski de randonnée.
 
-Le stagiaire intervient auprès de publics diversifiés. Le niveau de pratique des skieurs correspond à tous les niveaux des classes « adultes et enfants » définis dans le mémento de l'enseignement du ski alpin français et ses activités assimilées figurant en annexe VII. A ce titre, il est autorisé à encadrer contre rémunération conformément aux dispositions de l'article 4 du décret du 27 août 2004 susvisé.
+Le stagiaire intervient auprès de publics diversifiés. Le niveau de pratique des skieurs correspond à tous les niveaux des classes  adultes et enfants  définis dans le mémento de l'enseignement du ski alpin français et ses activités dérivées figurant en annexe VII. A ce titre, il est autorisé à encadrer contre rémunération conformément aux dispositions de l'article 4 du décret du 27 août 2004 susvisé.
 
-L'encadrement du ski alpin et de ses activités assimilées en hors piste est exclu.
+L'encadrement du ski alpin et de ses activités dérivées en hors piste est exclu.

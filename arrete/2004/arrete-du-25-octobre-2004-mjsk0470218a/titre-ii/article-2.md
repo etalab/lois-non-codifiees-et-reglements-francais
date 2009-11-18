@@ -16,7 +16,7 @@ UF technique ;
 
 UF analyse gestuelle, maîtrise technique et pédagogie de base ;
 
-UF analyse gestuelle, maîtrise technique et connaissance des activités assimilées ;
+UF analyse gestuelle, maîtrise technique et connaissance des activités dérivées du ski alpin dont le snowboard ;
 
 Le stage pédagogique d'application d'une durée minimum de vingt-cinq jours ;
 

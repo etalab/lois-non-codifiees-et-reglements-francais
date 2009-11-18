@@ -38,7 +38,7 @@ Il devra répondre aux normes définies par le règlement élaboré par la Féd�
 
 Les ouvreurs qui ont obtenu dans les cinq dernières années un classement à 50 points maximum sur l'échelle correspondant aux disciplines techniques du ski alpin (slalom ou slalom géant) fixée par la Fédération internationale de ski et les traceurs sont désignés par le directeur de l'Ecole nationale de ski et d'alpinisme parmi ceux figurant sur une liste établie annuellement par le directeur de l'Ecole nationale de ski et d'alpinisme, sur proposition de la section permanente du ski alpin de la commission de la formation et de l'emploi du Conseil supérieur des sports de montagne.
 
-Les ouvreurs sont au nombre minimal de deux et doivent être ressortissants d'un Etat membre de l'Union européenne ou d'un Etat partie à l'Espace économique européen.
+Les ouvreurs sont au nombre minimal de deux et doivent être ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen.
 
 5. L'évaluation
 

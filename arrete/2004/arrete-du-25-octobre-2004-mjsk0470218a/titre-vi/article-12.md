@@ -18,6 +18,6 @@ Les principaux objectifs du stage de sensibilisation prévu à l'article 2 sont 
 
 - construire son projet professionnel.
 
-L'encadrement du ski alpin et de ses activités assimilées en hors piste est exclu.
+L'encadrement du ski alpin et de ses activités dérivées en hors piste est exclu.
 
-Le stagiaire intervient auprès de publics diversifiés. Le niveau de pratique des skieurs correspond aux classes « débutants », « I » et « II » (adultes et enfants) définies dans le mémento de l'enseignement du ski alpin français et de ses activités assimilées figurant en annexe VII du présent arrêté. A ce titre, il est autorisé à encadrer contre rémunération conformément aux dispositions de l'article 4 du décret du 27 août 2004 susvisé.
+Le stagiaire intervient auprès de publics diversifiés. Le niveau de pratique des skieurs correspond aux classes  débutants ,  I  et  II  (adultes et enfants) définies dans le mémento de l'enseignement du ski alpin français et de ses activités dérivées figurant en annexe VII du présent arrêté. A ce titre, il est autorisé à encadrer contre rémunération conformément aux dispositions de l'article 4 du décret du 27 août 2004 susvisé.

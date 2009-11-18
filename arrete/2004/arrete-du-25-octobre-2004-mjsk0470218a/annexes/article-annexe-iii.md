@@ -20,9 +20,9 @@ b) Le centre doit pouvoir accueillir à la fois des stagiaires de stages de sens
 
 Pour cela :
 
-1. Les stagiaires doivent pouvoir intervenir auprès de publics et organismes variés (adultes, enfants, classes transplantées, comités d'entreprise) de niveaux et de pratiques différents (cours collectifs, cours particuliers, toutes les classes du mémento de l'enseignement du ski alpin fançais et de ses activités assimilées [adultes et enfants]) ;
+1. Les stagiaires doivent pouvoir intervenir auprès de publics et organismes variés (adultes, enfants, classes transplantées, comités d'entreprise) de niveaux et de pratiques différents (cours collectifs, cours particuliers, toutes les classes du mémento de l'enseignement du ski alpin fançais et de ses activités dérivées[adultes et enfants]) ;
 
-2. Afin d'assurer une bonne cohérence avec l'ensemble du dispositif de formation mis en place par l'Ecole nationale de ski et d'alpinisme et les stages pédagogiques, le centre doit fonctionner en continuité sur la saison (de l'ouverture à la fermeture de la station). L'encadrement doit permettre d'assurer, pendant toute cette période, l'enseignement collectif, simultané et ce de façon progressive et harmonieuse, de toutes les classes de la progression définie dans le mémento de l'enseignement du ski alpin français et de ses activités assimilées (adultes et enfants). L'organisation des cours collectifs doit être prépondérante sur les leçons particulières ;
+2. Afin d'assurer une bonne cohérence avec l'ensemble du dispositif de formation mis en place par l'Ecole nationale de ski et d'alpinisme et les stages pédagogiques, le centre doit fonctionner en continuité sur la saison (de l'ouverture à la fermeture de la station). L'encadrement doit permettre d'assurer, pendant toute cette période, l'enseignement collectif, simultané et ce de façon progressive et harmonieuse, de toutes les classes de la progression définie dans le mémento de l'enseignement du ski alpin français et de ses activités dérivées (adultes et enfants). L'organisation des cours collectifs doit être prépondérante sur les leçons particulières ;
 
 3. Le centre compte au minimum dix moniteurs diplômés d'Etat travaillant en continuité, titulaires d'un des diplômes permettant d'être conseiller de stage. Dans tous les cas, 60 % au moins de l'effectif du centre seront titulaires d'un des diplômes délivrés par le ministère chargé des sports listés en annexe VIII. Le centre ne peut accueillir plus de stagiaires (de sensibilisation et/ou d'application) que de moniteurs travaillant en continuité au sein du centre et possédant les diplômes listés en annexe VIII ;
 
@@ -50,7 +50,7 @@ Le conseiller de stage doit être à jour de ses obligations déclaratives aupr�
 
 Le conseiller est une personne ressource placée auprès du stagiaire.
 
-Le conseiller se doit de dispenser une prestation conforme à la méthode d'enseignement du ski français et de ses activités assimilées (adultes et enfants) dans la mesure où les stages de sensibilisation et d'application font partie intégrante de la formation.
+Le conseiller se doit de dispenser une prestation conforme à la méthode d'enseignement du ski français et de ses activités dérivées (adultes et enfants) dans la mesure où les stages de sensibilisation et d'application font partie intégrante de la formation.
 
 Le conseiller de stage est agréé par le directeur régional de la jeunesse et des sports après avis d'une commission régionale d'agrément. Il présente les caractéristiques suivantes :
 

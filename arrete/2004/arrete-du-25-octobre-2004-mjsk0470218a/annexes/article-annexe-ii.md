@@ -24,11 +24,11 @@ II. - Objectifs du stage de préformation
 
 Démontrer des éléments techniques généraux du ski alpin.
 
-Conduire un groupe en sécurité d'un niveau correspondant aux classes "débutants", "I" et "II" (adultes et enfants) du mémento de l'enseignement du ski alpin français et de ses activités assimilées.
+Conduire un groupe en sécurité d'un niveau correspondant aux classes "débutants", "I" et "II" (adultes et enfants) du mémento de l'enseignement du ski alpin français et de ses activités dérivées.
 
 Communiquer et transmettre un contenu technique adapté.
 
-Découvrir des activités assimilées.
+Découvrir des activités dérivées.
 
 Informer sur l'utilisation des matériels de sécurité en montagne.
 
@@ -48,7 +48,7 @@ IV. - Examen de préformation
 
 Nature des épreuves
 
-1. Une épreuve pratique de présentation d'une évolution à ski portant sur les classes "débutants", "I" ou "II" définies par le mémento de l'enseignement du ski alpin français et de ses activités assimilées, suivie d'un entretien (coefficient 1).
+1. Une épreuve pratique de présentation d'une évolution à ski portant sur les classes "débutants", "I" ou "II" définies par le mémento de l'enseignement du ski alpin français et de ses activités dérivées, suivie d'un entretien (coefficient 1).
 
 Elle permet d'évaluer les connaissances de base et les aptitudes explicatives et démonstratives.
 
