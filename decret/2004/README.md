@@ -590,7 +590,6 @@
 - [Décret n°2004-1134 du 22 octobre 2004 (PRMG0470676D)](decret-n2004-1134-du-22-octobre-2004-prmg0470676d)
 - [Décret n°2004-1135 du 22 octobre 2004 (SOCV0410698D)](decret-n2004-1135-du-22-octobre-2004-socv0410698d)
 - [Décret n°2004-1153 du 22 octobre 2004 (MENF0402215D)](decret-n2004-1153-du-22-octobre-2004-menf0402215d)
-- [Décret n°2004-1239 du 22 novembre 2004 (SOCF0412085D)](decret-n2004-1239-du-22-novembre-2004-socf0412085d)
 - [Décret n°2004-1245 du 22 novembre 2004 (SOCN0411784D)](decret-n2004-1245-du-22-novembre-2004-socn0411784d)
 - [Décret n°2004-1246 du 22 novembre 2004 (EQUI0401148D)](decret-n2004-1246-du-22-novembre-2004-equi0401148d)
 - [Décret n°2004-1247 du 22 novembre 2004 (INDI0420715D)](decret-n2004-1247-du-22-novembre-2004-indi0420715d)
