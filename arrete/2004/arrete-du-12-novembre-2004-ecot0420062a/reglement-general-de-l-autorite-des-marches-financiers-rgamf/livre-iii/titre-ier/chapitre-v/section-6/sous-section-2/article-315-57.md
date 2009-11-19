@@ -1,3 +1,3 @@
 # Article 315-57
 
-Les règles internes décrivent les conditions dans lesquelles la société de gestion de portefeuille s'assure de l'application, par ses succursales ou ses filiales situées à l'étranger, des obligations en matière de lutte contre le blanchiment et le financement du terrorisme définies à l'article L. 563-3 du code monétaire et financier, à moins que la législation locale y fasse obstacle, auquel cas la société de gestion de portefeuille informe le service institué à l'article L. 562-4 du code monétaire et financier.
+Lors de la mise en œuvre de sa politique d'investissement pour compte propre ou pour compte de tiers, la société de gestion de portefeuille veille à évaluer le risque de blanchiment de capitaux et de financement du terrorisme et définit des procédures permettant de contrôler les choix d'investissements opérés par ses préposés.

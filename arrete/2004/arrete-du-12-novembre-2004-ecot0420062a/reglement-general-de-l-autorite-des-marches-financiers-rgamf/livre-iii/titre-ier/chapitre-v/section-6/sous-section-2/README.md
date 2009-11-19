@@ -9,4 +9,3 @@
 - [Article 315-56](article-315-56.md)
 - [Article 315-57](article-315-57.md)
 - [Article 315-58](article-315-58.md)
-- [Article 315-59](article-315-59.md)
