@@ -2,7 +2,7 @@
 
 I. ― Peuvent bénéficier de l'indemnité compensatoire de contraintes environnementales :
 
-1° Les personnes physiques exerçant des activités réputées agricoles au sens de la première phrase de l'article L. 311-1 du code rural, âgées de 18 ans au moins et de moins de 60 ans au 1er janvier de l'année de la demande ;
+1° Les personnes physiques exerçant des activités réputées agricoles au sens de la première phrase de l'article L. 311-1 du code rural, âgées de 18 ans au moins et de moins de 60 ans au 1er janvier de l'année de la première demande ;
 
 2° Les sociétés exerçant des activités réputées agricoles au sens de la première phrase de l'article L. 311-1 du code rural, sous réserve qu'elles satisfassent aux conditions fixées à l'article L. 341-2 du code rural et qu'au moins un des associés-exploitants réponde aux conditions mentionnées au 1° ;
 

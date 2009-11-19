@@ -10,6 +10,6 @@ La décision d'attribution de l'indemnité est prise par le préfet du départem
 
 II. ― La demande de paiement fait chaque année l'objet d'un contrôle administratif.
 
-Chaque année, une partie des bénéficiaires fait l'objet d'un contrôle sur place. Tout refus de contrôle sur place entraîne pour le bénéficiaire l'obligation de rembourser le montant total des indemnités qui lui ont été versées depuis le début de la période de souscription.
+Chaque année, au moins 10 % des bénéficiaires font l'objet d'un contrôle sur place.  Tout refus de contrôle sur place entraîne pour le bénéficiaire l'obligation de rembourser le montant total des indemnités qui lui ont été versées depuis le début de la période de souscription.
 
 Toutes les pièces nécessaires aux contrôles sont tenues à disposition des contrôleurs.
