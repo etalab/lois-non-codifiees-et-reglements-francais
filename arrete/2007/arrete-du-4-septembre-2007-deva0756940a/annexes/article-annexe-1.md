@@ -70,13 +70,11 @@ Ne sont pas compatibles avec l'aptitude :
 
 Les scolioses vraies non opérées doivent être étudiées en fonction de leur potentiel évolutif, ceci d'après les données cliniques et radiologiques.
 
-Les scolioses thoraciques pures ne dépassant pas un angle de 20 degrés et les scolioses lombaires ne dépassant un angle de 10 degrés peuvent être compatibles avec l'aptitude.
-
 Certaines séquelles fonctionnelles d'affections ostéoarticulaires ou musculotendineuses ainsi que certaines lésions anatomiques compatibles avec les fonctions exercées peuvent faire l'objet d'une demande de dérogation.
 
 5. Système cardiovasculaire
 
-L'intégrité du système cardiovasculaire doit être vérifiée à chaque expertise par l'examen clinique et électrocardiographique et, si besoin est, par des examens complémentaires appropriés.
+L'intégrité du système cardiovasculaire doit être vérifiée à chaque expertise par l'examen clinique et, si besoin est, par des examens complémentaires appropriés.L'électrocardiogramme est obligatoire à l'admission et tous les quatre ans. Si une indication médicale le justifie, cet examen peut être pratiqué de façon plus fréquente.
 
 Les cardiopathies congénitales ou acquises, les troubles caractérisés de l'excitabilité et de la conduction, les artériopathies, les varices importantes ou avec troubles trophiques et, de façon générale, toute anomalie cardiovasculaire organique ou fonctionnelle empêchant l'exercice normal de la fonction entraînent l'inaptitude.
 
@@ -208,33 +206,33 @@ Entraîne l'inaptitude toute anomalie hématologique qui pourrait :
 
 12. Examen ophtalmologique
 
-1. Le candidat ne doit pas présenter d'anomalies fonctionnelles des yeux ou de leurs annexes ni d'affections évolutives aigues ou chroniques ni de séquelles d'intervention chirurgicale ou de traumatisme oculaire qui puissent être de nature à en affecter le fonctionnement au point de compromettre la sécurité.
+Un examen ophtalmologique complet est effectué à l'admission puis tous les quatre ans. Si une indication médicale le justifie, cet examen peut être pratiqué de façon plus fréquente.
 
-2. Lors de chaque visite médicale, l'examen de l'oeil et de ses annexes doit être complet.
+1. Le candidat ne doit pas présenter d'anomalies fonctionnelles des yeux ou de leurs annexes, ni d'affections évolutives aiguës ou chroniques, ni de séquelles d'intervention chirurgicale ou de traumatisme oculaire qui puissent être de nature à en affecter le fonctionnement au point de compromettre la sécurité.
 
-3. L'acuité visuelle de loin, pour chaque oeil pris séparément, doit être de 7/10 avec ou sans correction. Tout sujet présentant une acuité visuelle inférieure à 5/10 sans correction doit porter constamment des verres correcteurs lorsqu'il exerce ses fonctions et avoir sur lui une paire supplémentaire de même formule. La correction par lentilles de contact est admise, mais avec une paire de lunettes de secours.
+2.L'acuité visuelle de loin, pour chaque œil pris séparément, doit être de 7 / 10 avec ou sans correction. Tout sujet présentant une acuité visuelle inférieure à 5 / 10 sans correction doit porter constamment des verres correcteurs lorsqu'il exerce ses fonctions et avoir sur lui une paire supplémentaire de même formule. La correction par lentilles de contact est admise, mais avec une paire de lunettes de secours.
 
-L'amétropie ne doit pas excéder + 5.00 ou - 6.00 dioptries, pour le méridien le plus amétrope, ni comporter un astigmatisme supérieur à 3 dioptries. Toute évolution de l'anomalie au-delà de ces normes devra faire l'objet d'une demande de dérogation.
+L'amétropie ne doit pas excéder + 5. 00 ou - 6. 00 dioptries, pour le méridien le plus amétrope, ni comporter un astigmatisme supérieur à 3 dioptries. Toute évolution de l'anomalie au-delà de ces normes devra faire l'objet d'une demande de dérogation.
 
-4. La vision de près mesurée à l'aide de l'échelle de Parinaud doit permettre la lecture du numéro 2 à 30 cm avec ou sans correction.
+3. La vision de près mesurée à l'aide de l'échelle de Parinaud doit permettre la lecture du numéro 2 à 30 cm avec ou sans correction.
 
-5. La mobilité oculaire doit être normale et la vision binoculaire satisfaisante.
+4. La mobilité oculaire doit être normale et la vision binoculaire satisfaisante.
 
-Une paralysie oculomotrice et/ou une diplopie entraînent l'inaptitude.
+Une paralysie oculomotrice et / ou une diplopie entraînent l'inaptitude.
 
-Un strabisme dont la déviation est inférieure à 10 dioptries peut être accepté si les conditions d'obtention des normes de vision sont réalisées, et avec une neutralisation parfaite, alternante ou de l'oeil strabique ; dans tous les autres cas, l'inaptitude devra être prononcée.
+Un strabisme dont la déviation est inférieure à 10 dioptries peut être accepté si les conditions d'obtention des normes de vision sont réalisées, et avec une neutralisation parfaite. Dans tous les autres cas, l'inaptitude devra être prononcée.
 
-Toute monocularité est cause d'inaptitude.
+Toute monocularité est cause d'inaptitude. Toutefois une demande de dérogation peut être faite auprès du conseil médical de l'aéronautique civile.
 
-6. Le tonus oculaire doit être normal. La prise de tonus oculaire doit être systématique lors de la visite initiale et à chaque visite révisionnelle après 40 ans ; l'étude du champ visuel sera pratiquée en cas de glaucome ou d'hypertonie.
+5. Le tonus oculaire doit être normal. La prise de tonus oculaire doit être systématique lors de la visite initiale et à chaque visite révisionnelle après 40 ans ; l'étude du champ visuel sera pratiquée en cas de glaucome ou d'hypertonie.
 
-7. Un kératocône infraclinique, en l'absence de toute autre altération du système visuel, peut faire l'objet d'une aptitude. En dehors de ce cas, tout kératocône entraîne l'inaptitude et pourra faire l'objet d'une demande de dérogation.
+6. Un kératocône infraclinique, en l'absence de toute autre altération du système visuel, peut faire l'objet d'une aptitude. En dehors de ce cas, tout kératocône entraîne l'inaptitude et pourra faire l'objet d'une demande de dérogation.
 
-8. Pour la mesure de la vision des couleurs, l'examen aux tables d'Ishihara doit être satisfaisant. En cas d'échec à ce test, le candidat peut être déclaré apte s'il identifie sans erreurs, ni hésitations, ni confusions les feux colorés bleu, vert et rouge présentés au moyen de la lanterne de Beyne pendant 1 seconde sous une ouverture de 3 minutes à la distance de 5 mètres.
+7. Pour la mesure de la vision des couleurs, l'examen aux tables d'Ishihara doit être satisfaisant. En cas d'échec à ce test, le candidat peut être déclaré apte s'il identifie sans erreur, ni hésitation, ni confusion, les feux colorés bleu, vert et rouge présentés au moyen de la lanterne de Beyne pendant 1 seconde sous une ouverture de 3 minutes à la distance de 5 mètres.
 
-9. En cas de chirurgie réfractive cornéenne, l'aptitude peut être accordée après un délai de 3 mois à condition que les normes d'acuité visuelle soient obtenues et que les amétropies antérieures à l'intervention correspondent à celles admises (n'excédant pas + 5.00 ou - 6.00 dioptries).
+8. En cas de chirurgie réfractive cornéenne, l'aptitude peut être accordée après un délai de trois mois à condition que les normes d'acuité visuelle soient obtenues et que les amétropies antérieures à l'intervention correspondent à celles admises (n'excédant pas + 5. 00 / - 6 dioptries).
 
-Toute autre intervention chirurgicale entraîne l'inaptitude. Une dérogation pourra être sollicitée auprès du Conseil médical de l'aéronautique civile, au minimum 3 mois après une intervention de cataracte et 6 mois après une intervention de glaucome ou sur la rétine.
+Toute autre intervention chirurgicale entraîne l'inaptitude. Une dérogation pourra être sollicitée auprès du conseil médical de l'aéronautique civile après une intervention de cataracte, de glaucome ou sur la rétine.
 
 13. Examen oto-rhino-laryngologique
 
