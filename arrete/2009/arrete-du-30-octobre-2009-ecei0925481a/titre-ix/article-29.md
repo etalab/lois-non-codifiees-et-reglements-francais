@@ -1,0 +1,3 @@
+# Article 29
+
+Les ensembles de mesurage installés avant la date de publication du présent arrêté non conformes à un certificat d'examen de type peuvent demeurer en service jusqu'au 31 octobre 2010, sous réserve qu'ils aient fait l'objet, avant le 28 février 2010, d'une déclaration au service régional en charge de la métrologie légale explicitant la manière dont ils seront mis en conformité. Une décision du ministre chargé de l'industrie définit le contenu de cette déclaration. Si la mise en conformité à un certificat, d'examen de type existant ou l'obtention d'un nouveau certificat ainsi que la vérification primitive de l'instrument n'ont pas été réalisées avec succès avant le 31 octobre 2010, ces ensembles de mesurage doivent être mis hors service.

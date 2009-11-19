@@ -1,0 +1,7 @@
+# Article 26
+
+Les ensembles de mesurage ayant fait l'objet de certificat d'examen de type antérieurement à la date de publication du présent arrêté peuvent être mis en service jusqu'à l'expiration du terme de la validité de leur certificat d'examen de type. Si ces certificats comportent une disposition particulière fixant une périodicité de vérification périodique plus courte que celle prévue à l'article 16, cette disposition reste applicable jusqu'à la date limite de validité du certificat. A compter de cette date, sauf conditions spécifiques définies dans le certificat de renouvellement, la période de vérification périodique de ces ensembles de mesurage devient celle définie à l'article 16.
+
+Les ensembles de mesurage certifiés et portant les marques de vérification primitive à la date de publication du présent arrêté peuvent continuer à être utilisés tant qu'ils restent conformes à leur certificat d'examen de type. Ils doivent être accompagnés d'un carnet métrologique au plus tard à l'occasion de la première vérification ou réparation.
+
+Le renouvellement des certificats délivrés antérieurement à la prise d'effet du présent arrêté pourra, en l'absence de moyens d'essais permettant la mise en œuvre des essais à débit constant prévus à l'annexe B.2.1 de la recommandation R 139, s'appuyer sur les résultats des essais pratiqués lors des vérifications primitives et périodiques des instruments déjà en service.
