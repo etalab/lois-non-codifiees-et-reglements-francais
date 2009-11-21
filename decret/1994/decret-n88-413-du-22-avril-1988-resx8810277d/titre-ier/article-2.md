@@ -1,15 +1,15 @@
 # Article 2
 
-Le C.N.A.M. est un établissement d'enseignement supérieur et de recherche fondamentale et appliquée, à vocation nationale. Il a principalement pour mission d'assurer la promotion supérieure du travail et la formation professionnelle continue. Il peut également organiser des enseignements de formation initiale. Il assure la conservation et l'enrichissement des collections dont il a la charge et contribue à l'histoire des techniques et des structures industrielles.
+Le CNAM a pour mission :
 
-A cet effet :
+1° D'assurer la formation professionnelle supérieure tout au long de la vie des personnes engagées dans la vie active afin de contribuer à la promotion sociale et à la mobilité professionnelle. Il peut également organiser des enseignements de formation initiale, notamment par la voie de l'apprentissage ;
 
--il choisit ses enseignants compte tenu de leur connaissance des réalités professionnelles ;
+2° D'apporter son concours, en matière d'ingénierie de la formation professionnelle tout au long de la vie, au bénéfice de l'ensemble des acteurs de l'enseignement supérieur ;
 
--il innove en mettant en oeuvre un enseignement professionnel qui tient compte de l'état et de l'évolution des techniques et des professions ;
+3° De conduire des actions de recherche en propre ou en relation avec d'autres organismes publics ou privés, français et étrangers, et de se livrer à toute activité de diffusion et de valorisation des recherches conduites en son sein ;
 
--il favorise la diffusion de ses actions auprès des personnes engagées dans la vie active et des professions, notamment en animant et en contrôlant le réseau de ses centres associés et en développant l'enseignement à distance ;
+4° De contribuer à la diffusion de la culture et de l'information scientifique et technique à l'intention de tous les publics ;
 
--il met en oeuvre des recherches et des enseignements pluridisciplinaires adaptés aux besoins essentiels des entreprises ;
+5° D'assurer la conservation et l'enrichissement des collections dont il a la charge et de contribuer à l'histoire des sciences et des techniques ;
 
--il peut aussi exercer des activités de conseil et de service.
+6° D'exercer, le cas échéant, des activités de conseil-ingénierie et d'expertise et de participer à des actions de coopération internationale.

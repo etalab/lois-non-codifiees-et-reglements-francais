@@ -1,6 +1,8 @@
 # Article 13
 
-Les élections au conseil d'administration et au conseil de perfectionnement ont lieu au scrutin uninominal à deux tours, à la majorité absolue au premier tour, à la majorité relative au second tour. En cas d'égalité des voix à l'issue du second tour, l'élection est acquise au bénéfice de l'âge. Chaque candidat se présente avec un suppléant appelé à siéger en cas d'empêchement temporaire ou définitif du titulaire.
+Les élections au conseil d'administration, au conseil scientifique et au conseil des formations ont lieu, pour chaque collège, au scrutin plurinominal majoritaire à deux tours ou, lorsqu'un seul siège est à pourvoir, au scrutin uninominal majoritaire à deux tours, à la majorité absolue des suffrages exprimés au premier tour, à la majorité relative au second tour. En cas d'égalité des voix à l'issue du second tour, l'élection est acquise au bénéfice de l'âge. Chaque candidat se présente avec un suppléant appelé à siéger en cas d'empêchement temporaire ou définitif du titulaire.
+
+Il est possible de siéger dans plus d'un conseil de l'établissement.
 
 Le vote par correspondance est admis.
 
