@@ -15,5 +15,3 @@ Inspecteurs d'académie-inspecteurs pédagogiques régionaux chargés des foncti
 Inspecteurs d'académie-inspecteurs pédagogiques régionaux ;
 
 Inspecteurs de l'éducation nationale (ex-inspecteurs de l'enseignement technique et inspecteurs de l'information et de l'orientation).
-
-Inspecteurs de l'éducation nationale (ex-inspecteurs départementaux de l'éducation nationale).
