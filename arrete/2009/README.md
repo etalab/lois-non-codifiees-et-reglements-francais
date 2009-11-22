@@ -1721,7 +1721,6 @@
 - [Arrêté du 21 juillet 2009 (SASH0918499A)](arrete-du-21-juillet-2009-sash0918499a)
 - [Arrêté du 21 juillet 2009 (SASV0917045A)](arrete-du-21-juillet-2009-sasv0917045a)
 - [Arrêté du 21 juin 2009 (SASF0915529A)](arrete-du-21-juin-2009-sasf0915529a)
-- [Arrêté du 21 novembre 2008 (PRMX0827680A)](arrete-du-21-novembre-2008-prmx0827680a)
 - [Arrêté du 21 octobre 2009 (AGRM0923052A)](arrete-du-21-octobre-2009-agrm0923052a)
 - [Arrêté du 21 octobre 2009 (AGRS0922948A)](arrete-du-21-octobre-2009-agrs0922948a)
 - [Arrêté du 21 octobre 2009 (BCFJ0917114A)](arrete-du-21-octobre-2009-bcfj0917114a)
