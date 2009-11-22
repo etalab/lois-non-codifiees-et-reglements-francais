@@ -357,7 +357,6 @@
 - [Arrêté du 14 novembre 1991 (MENE9102475A)](arrete-du-14-novembre-1991-mene9102475a)
 - [Arrêté du 14 octobre 1991 (AGRA9101921A)](arrete-du-14-octobre-1991-agra9101921a)
 - [Arrêté du 14 octobre 1991 (ECOP9100340A)](arrete-du-14-octobre-1991-ecop9100340a)
-- [Arrêté du 14 octobre 1991 (MCCB9100682A)](arrete-du-14-octobre-1991-mccb9100682a)
 - [Arrêté du 14 octobre 1991 (MERE9100207A)](arrete-du-14-octobre-1991-mere9100207a)
 - [Arrêté du 14 octobre 1991 (PRMG9170337A)](arrete-du-14-octobre-1991-prmg9170337a)
 - [Arrêté du 14 octobre 1991 (PRMG9170339A)](arrete-du-14-octobre-1991-prmg9170339a)

@@ -57,7 +57,7 @@ Le nombre de formations des tribunaux du contentieux de l'incapacité est fixé 
 <tr>
 <td>Riom</td>
 <td>Clermont-Ferrand</td>
-<td>8 dont une formation <p>agricole</p>
+<td>6 dont une formation <p>agricole</p>
 </td>
 </tr>
 <tr>
