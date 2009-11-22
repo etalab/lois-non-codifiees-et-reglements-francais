@@ -1862,7 +1862,6 @@
 - [Arrêté du 23 avril 2009 (IOCC0906979A)](arrete-du-23-avril-2009-iocc0906979a)
 - [Arrêté du 23 avril 2009 (IOCC0906995A)](arrete-du-23-avril-2009-iocc0906995a)
 - [Arrêté du 23 avril 2009 (JUSK0909790A)](arrete-du-23-avril-2009-jusk0909790a)
-- [Arrêté du 23 avril 2009 (MENF0822982A)](arrete-du-23-avril-2009-menf0822982a)
 - [Arrêté du 23 décembre 1997 (ECOI9700850A)](arrete-du-23-decembre-1997-ecoi9700850a)
 - [Arrêté du 23 décembre 2006 (MEND0603020A)](arrete-du-23-decembre-2006-mend0603020a)
 - [Arrêté du 23 décembre 2008 (AGRS0831137A)](arrete-du-23-decembre-2008-agrs0831137a)

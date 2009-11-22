@@ -1,16 +1,16 @@
 # Article 1
 
-1° Les taux moyens annuels de l'indemnité de charges administratives prévue à l'article 1er du décret du 22 mai 1990 modifié susvisé en faveur des vice-recteurs et des inspecteurs d'académie, directeurs des services départementaux de l'éducation nationale, sont fixés ainsi qu'il suit :
+1° Les taux annuels de référence de l'indemnité de charges administratives prévue à l'article 1er du décret du 22 mai 1990 modifié susvisé en faveur des vice-recteurs et des inspecteurs d'académie, directeurs des services départementaux de l'éducation nationale, sont fixés ainsi qu'il suit :
 
 <table>
 <tbody>
 <tr>
 <td width="473">
 <p align="center">VICE-RECTEURS ET INSPECTEURS D'ACADÉMIE, </p>
-<p align="center">directeurs des services départementaux de l'éducation nationale </p>
+<p align="center">directeurs des services départementaux de l'éducation nationale</p>
 </td>
 <td width="141">
-<p align="center">TAUX MOYEN ANNUEL (en euros) </p>
+<p align="center">taux annuel de référence (en euros) </p>
 </td>
 </tr>
 <tr>
@@ -40,14 +40,12 @@
 </tbody>
 </table>
 
-2° Le taux moyen annuel de l'indemnité de charges administratives prévue à l'article 1er du décret du 22 mai 1990 susvisé en faveur du directeur de l'académie de Paris est fixé ainsi qu'il suit :
-
-<table>
+2° Le taux annuel de référence de l'indemnité de charges administratives prévue à l'article 1er du décret du 22 mai 1990 susvisé en faveur du directeur de l'académie de Paris est fixé ainsi qu'il suit : <table>
 <tbody>
 <tr>
 <td valign="top" width="465"/>
 <td width="140">
-<p align="center">TAUX MOYEN ANNUEL (en euros) </p>
+<p align="center">taux annuel de référence (en euros) </p>
 </td>
 </tr>
 <tr>
@@ -61,14 +59,14 @@
 </tbody>
 </table>
 
-3° Le taux moyen annuel de l'indemnité de charges administratives prévue à l'article 1er du décret du 22 mai 1990 susvisé en faveur des directeurs de centre régional de documentation pédagogique est fixé ainsi qu'il suit :
+3° Le taux annuel de référence de l'indemnité de charges administratives prévue à l'article 1er du décret du 22 mai 1990 susvisé en faveur des directeurs de centre régional de documentation pédagogique est fixé ainsi qu'il suit :
 
 <table>
 <tbody>
 <tr>
 <td valign="top" width="464"/>
 <td width="141">
-<p align="center">TAUX MOYEN ANNUEL (en euros) </p>
+<p align="center">taux annuel de référence (en euros) </p>
 </td>
 </tr>
 <tr>
