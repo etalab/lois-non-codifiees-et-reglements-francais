@@ -6,7 +6,9 @@ Peuvent être promus techniciens supérieurs principaux :
 
 Les promotions sont faites dans l'ordre de la liste de classement établie par le jury, arrêtée par le ministre chargé de l'équipement et valable pour la seule année du concours ;
 
-2° Dans la limite du quart des emplois à pourvoir, après inscription au tableau d'avancement, les techniciens supérieurs appartenant au moins au 9e échelon de leur grade ou qui, ayant satisfait aux épreuves de l'examen professionnel en vue de la nomination directe au grade d'ingénieur des travaux publics de l'Etat, ont obtenu une note au moins égale à la moyenne générale fixée pour satisfaire aux épreuves, mais ne figurent pas sur le tableau de classement de l'année considérée. Lorsque le quart des emplois à pourvoir n'est pas un nombre entier, sa partie décimale est ajoutée aux nominations à prononcer au cours de l'année suivante pour le calcul des nominations pouvant intervenir au cours de cette nouvelle année, en application de la présente disposition.
+2° Après inscription au tableau d'avancement, les techniciens supérieurs appartenant au moins au 9e échelon de leur grade ou qui, ayant satisfait aux épreuves de l'examen professionnel en vue de la nomination directe au grade d'ingénieur des travaux publics de l'Etat, ont obtenu une note au moins égale à la moyenne générale fixée pour satisfaire aux épreuves, mais ne figurent pas sur le tableau de classement de l'année considérée.
+
+Le nombre de postes offerts à chacune des deux voies d'accès est compris entre un tiers et deux tiers du nombre total des promotions.
 
 Les techniciens supérieurs nommés au grade de techniciens supérieurs principaux sont classés dans ce grade conformément au tableau ci-après :
 
@@ -14,137 +16,67 @@ Les techniciens supérieurs nommés au grade de techniciens supérieurs principa
 <tbody>
 <tr>
 <td align="left" valign="middle">
-<p align="center">
 <strong>ECHELON <br/>
 </strong>
-<br/>atteint dans le grade </p>
-<p>
-<i>de technicien supérieur</i>
-</p>
+<br/>atteint dans le grade <i>de technicien supérieur</i>
 </td>
 <td align="left" valign="middle">
-<p align="center">
 <strong>ECHELON <br/>
 </strong>
 <br/>de nomination dans le grade de<i> technicien supérieur principal</i>
-</p>
 </td>
 <td align="left" valign="middle">
-<p align="center">
-<strong>ANCIENNETE D'ECHELON</strong>
-</p>
-<p>dans la limite de la durée de l'échelon </p>
-</td>
+<strong>ANCIENNETE D'ECHELON</strong> dans la limite de la durée de l'échelon </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">13e échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">8e échelon </p>
-</td>
-<td align="left" valign="middle">
-<p align="left">Ancienneté acquise </p>
-</td>
+<td align="left" valign="middle">13e échelon</td>
+<td align="left" valign="middle">8e échelon </td>
+<td align="left" valign="middle">Ancienneté acquise </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">12e échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">7e échelon </p>
-</td>
-<td align="left" valign="middle">
-<p align="left">Ancienneté acquise </p>
-</td>
+<td align="left" valign="middle">12e échelon</td>
+<td align="left" valign="middle">7e échelon </td>
+<td align="left" valign="middle">Ancienneté acquise </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">11e échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">6e échelon </p>
-</td>
-<td align="left" valign="middle">
-<p align="left">Ancienneté acquise </p>
-</td>
+<td align="left" valign="middle">11e échelon</td>
+<td align="left" valign="middle">6e échelon </td>
+<td align="left" valign="middle">Ancienneté acquise </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">10e échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">5e échelon </p>
-</td>
-<td align="left" valign="middle">
-<p align="left">Ancienneté acquise </p>
-</td>
+<td align="left" valign="middle">10e échelon</td>
+<td align="left" valign="middle">5e échelon </td>
+<td align="left" valign="middle">Ancienneté acquise </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">9e échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">4e échelon </p>
-</td>
-<td align="left" valign="middle">
-<p align="left">Ancienneté acquise </p>
-</td>
+<td align="left" valign="middle">9e échelon</td>
+<td align="left" valign="middle">4e échelon </td>
+<td align="left" valign="middle">Ancienneté acquise </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">8e échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">3e échelon </p>
-</td>
-<td align="left" valign="middle">
-<p align="justify">5/6 de l'ancienneté acquise </p>
-</td>
+<td align="left" valign="middle">8e échelon</td>
+<td align="left" valign="middle">3e échelon </td>
+<td align="left" valign="middle">5/6 de l'ancienneté acquise </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">7e échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">3e échelon </p>
-</td>
-<td align="left" valign="middle">
-<p align="justify">Sans ancienneté </p>
-</td>
+<td align="left" valign="middle">7e échelon</td>
+<td align="left" valign="middle">3e échelon </td>
+<td align="left" valign="middle">Sans ancienneté </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">6e échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">2e échelon </p>
-</td>
-<td align="left" valign="middle">
-<p align="left">Ancienneté acquise </p>
-</td>
+<td align="left" valign="middle">6e échelon</td>
+<td align="left" valign="middle">2e échelon </td>
+<td align="left" valign="middle">Ancienneté acquise </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">5e échelon : </p>
-</td>
-<td align="left" valign="middle">
-<pre> </pre>
-</td>
-<td align="left" valign="middle">
-<pre> </pre>
-</td>
+<td align="left" valign="middle">5e échelon : </td>
+<td align="left" valign="middle"/>
+<td align="left" valign="middle"/>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">- après 6 mois</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">1er échelon </p>
-</td>
-<td align="left" valign="middle">
-<p align="left">Ancienneté acquise majorée de 6 mois </p>
-</td>
+<td align="left" valign="middle">- après 6 mois</td>
+<td align="left" valign="middle">1er échelon </td>
+<td align="left" valign="middle">Ancienneté acquise majorée de 6 mois </td>
 </tr>
 </tbody>
 </table>
