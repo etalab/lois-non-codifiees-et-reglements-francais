@@ -1,0 +1,3 @@
+# Article 3
+
+Par dérogation aux dispositions du a du 2° de l'article 5 du décret n° 70-903 du 2 octobre 1970 susvisé, pour une durée de deux ans à compter de la publication du présent décret, l'examen professionnel d'accès au corps des techniciens supérieurs de l'équipement est ouvert aux experts techniques des services techniques, aux adjoints administratifs, aux adjoints techniques et aux dessinateurs du ministère de l'écologie, de l'énergie, du développement durable et de la mer justifiant, au 1er janvier de l'année de l'examen professionnel, de sept ans au moins de services publics, dont cinq ans de services effectifs dans leur corps.
