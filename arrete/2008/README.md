@@ -1235,7 +1235,6 @@
 - [Arrêté du 30 septembre 2008 (DEVN0822714A)](arrete-du-30-septembre-2008-devn0822714a)
 - [Arrêté du 30 septembre 2008 (DEVP0823142A)](arrete-du-30-septembre-2008-devp0823142a)
 - [Arrêté du 30 septembre 2008 (DEVS0819338A)](arrete-du-30-septembre-2008-devs0819338a)
-- [Arrêté du 30 septembre 2008 (IOCC0813842A)](arrete-du-30-septembre-2008-iocc0813842a)
 - [Arrêté du 30 septembre 2008 (SJSH0823412A)](arrete-du-30-septembre-2008-sjsh0823412a)
 - [Arrêté du 31 décembre 2007 (DEVT0757044A)](arrete-du-31-decembre-2007-devt0757044a)
 - [Arrêté du 31 décembre 2007 (DEVT0767567A)](arrete-du-31-decembre-2007-devt0767567a)
