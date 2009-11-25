@@ -370,6 +370,8 @@ Centre hospitalier universitaire groupe Sud, centre de médecine des voyages, 80
 
 Dispensaire de prévention sanitaire, centre hospitalier général, 22, boulevard Sibille, 81000 Albi.
 
+Centre hospitalier intercommunal de Castres-Mazamet, dispensaire de prévention sanitaire, sis 109, chemin du Caporal, 81100 Castres.
+
 82 - Tarn-et-Garonne
 
 Centre hospitalier de Montauban, 100, rue Léon-Cladel, BP 765, 82013 Montauban Cedex.
