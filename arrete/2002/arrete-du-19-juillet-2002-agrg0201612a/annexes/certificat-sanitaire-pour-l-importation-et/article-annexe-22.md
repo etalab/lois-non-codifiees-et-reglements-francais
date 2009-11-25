@@ -48,7 +48,7 @@ N° de permis CITES Export (si nécessaire): ........................
 </tr>
 <tr>
 <td colspan="2" valign="top" width="205">
-<p>Nombre total d'animaux</p>
+<p align="center">Nombre total d'animaux</p>
 </td>
 <td colspan="3" valign="top" width="431">
 <p>.............................................................................................................</p>
@@ -90,8 +90,6 @@ h) Ont fait l'objet, dans les 10 jours précédant l'expédition, d'un test de d
 - Salmonella pullorum gallinarum pour les poules, dindes, pintades, cailles, faisans, perdrix et canards ;
 
 - Salmonella arizonœ et Mycoplasme gallisepticum pour les dindes ;
-
-- Influenza aviaire pour toutes les espèces ;
 
 i) Ont été soumis à au moins un traitement contre les parasites internes et externes le ................................................. au cours des 40 jours précédant l'exportation avec le(s) produit(s) suivant(s) : ..................................................................
 

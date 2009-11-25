@@ -24,15 +24,7 @@ a) Ont été examinés le ... et ne présentent aucun signe clinique de maladie 
 
 b) N'ont pas été en contact depuis 30 jours avec des oiseaux présentant des signes cliniques de maladie de suspicion de maladie infectieuse ou contagieuse à l'homme ;
 
-c) Proviennent d'un pays tiers officiellement indemne de la maladie de Newcastle et d'influenza aviaire hautement pathogène au sens de l'Office international des épizooties ;
-
-ou
-
-c) Proviennent d'une partie de pays tiers indemne de la maladie de Newcastle et d'influenza aviaire hautement pathogène en cas de régionalisation conformément aux dispositions communautaires ;
-
-ou
-
-c) Ont fait l'objet, dans les 10 jours précédant l'expédition, d'un test de dépistage des anticorps avec résultats négatifs pour la recherche de la maladie Newcastle et d'influenza aviaire ;
+c) Ont été soumis, entre sept et quatorze jours avant importation, à des tests de détection de tous les virus de l'influenza aviaire et de la maladie de Newcastle qui se sont révélés négatifs. Ces tests ont été pratiqués dans un laboratoire officiel désigné par l'autorité compétente suivant les procédures conformes au manuel des tests de diagnostic pour les animaux terrestres de l'Organisation mondiale de la santé animale (OIE) ;
 
 d) Proviennent d'un établissement dans lequel la psittacose et l'ornithose n'ont pas été constatées dans les 60 jours précédents l'expédition ;
 

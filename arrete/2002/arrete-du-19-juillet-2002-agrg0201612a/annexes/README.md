@@ -1,7 +1,6 @@
 # Annexes
 
 - [Certificat sanitaire pour l'importation en France de lagomorphes (Lepus europeaus, Oryctolagus cuniculus) en provenance de pays tiers.](certificat-sanitaire-pour-l-importation-en-france-de-lagomorphes-lepus-europeaus-oryctolagus-cuniculus-en-provenance-de-pays-tiers)
-- [Certificat sanitaire pour l'importation et le transit sur le territoire métropolitain et dans les départements d'outre-mer d'oiseaux destinés à des concours et des expositions ou à des établissements de présentation au public.](certificat-sanitaire-pour-l-importation-et)
-- [Conditions d'agrément, d'aménagement et de fonctionnement des établissements dans lesquels des poissons vivants et leurs gamètes, des mollusques vivants et leurs gamètes et des crustacés vivants sont importés ou hébergés après importation.](conditions-d-agrement-d-amenagement-et)
+- [Certificat sanitaire pour l'importation et le transit en France des oiseaux de compagnie en provenance des pays tiers faisant l'objet d'un mouvement dépourvu de tout caractère commercial.](certificat-sanitaire-pour-l-importation-et)
 - [Document d'accompagnement pour l'importation et le transit des animaux de compagnie de l'ordre des rongeurs, des lagomorphes, des poissons tropicaux d'ornement, des reptiles, des amphibiens et des invertébrés (sauf abeilles et crustacés) en provenance des pays tiers, faisant l'objet d'un mouvement dépourvu de tout caractère commercial.](document-d-accompagnement-pour-l-importation-et)
 - [Liste des pays tiers et de parties de pays tiers en provenance desquels les importations d'animaux vivants et certains de leurs produits visés à l'article L. 236-1 du code rural sont autorisées](liste-des-pays-tiers-et)
