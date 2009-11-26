@@ -14,7 +14,7 @@ Les substances interdites ou réglementées au sens des I à IV de l'article L. 
 
 Les armes et les munitions reprises au chapitre 93 du tarif des douanes, à l'exclusion des fusils et carabines de chasse de la 5e catégorie, ainsi que les projectiles et munitions de chasse pour lesquels les personnes visées à l'article 215 du code des douanes justifient qu'ils sont exclusivement affectés à leur usage personnel.
 
-Les poudres et substances explosives visées par le décret n° 71-753 du 10 septembre 1971 pris pour l'application de l'article 1er de la loi n° 70-575 du 3 juillet 1970 portant réforme du régime des poudres et substances explosives.
+Les poudres et substances explosives visées par les articles D. 2352-7 et R. 2352-2 et suivants du code de la défense.
 
 3. Marchandises dangereuses pour la moralité publique.
 
@@ -32,7 +32,7 @@ Les marchandises relevant de la réglementation communautaire au titre des biens
 
 Les spécimens d'espèces de la faune et de la flore sauvages menacées d'extinction, inscrites aux annexes de la convention signée à Washington le 3 mars 1973 ou aux annexes du règlement communautaire mettant, notamment en oeuvre cette convention, ainsi que les produits ou parties issus de ces spécimens.
 
-Les substances classifiées en catégorie 1 par les annexes I du règlement (CE) n° 273 / 2004 du Parlement européen et du Conseil du 11  février 2004 relatif aux précurseurs de drogues et du règlement (CE) n°  111 / 2005 du Conseil du 22 décembre 2004 fixant les règles pour la  surveillance du commerce des précurseurs des drogues entre la Communauté et les  pays tiers.
+Les substances classifiées en catégorie 1 par les annexes I du règlement (CE) n° 273 / 2004 du Parlement européen et du Conseil du 11 février 2004 relatif aux précurseurs de drogues et du règlement (CE) n° 111 / 2005 du Conseil du 22 décembre 2004 fixant les règles pour la surveillance du commerce des précurseurs des drogues entre la Communauté et les pays tiers.
 
 6. Marchandises faisant l'objet d'un courant de fraude international et d'un marché clandestin préjudiciant aux intérêts légitimes du commerce régulier et à ceux du Trésor.
 

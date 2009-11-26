@@ -387,7 +387,6 @@
 - [Décret n°98-178 du 16 mars 1998 (MESS9820080D)](decret-n98-178-du-16-mars-1998-mess9820080d)
 - [Décret n°98-299 du 16 avril 1998 (MESS9820279D)](decret-n98-299-du-16-avril-1998-mess9820279d)
 - [Décret n°98-300 du 16 avril 1998 (INTB9800093D)](decret-n98-300-du-16-avril-1998-intb9800093d)
-- [Décret n°98-36 du 16 janvier 1998 (PRMX9802496D)](decret-n98-36-du-16-janvier-1998-prmx9802496d)
 - [Décret n°98-37 du 16 janvier 1998 (MESP9723594D)](decret-n98-37-du-16-janvier-1998-mesp9723594d)
 - [Décret n°98-38 du 16 janvier 1998 (ATEN9750103D)](decret-n98-38-du-16-janvier-1998-aten9750103d)
 - [Décret n°98-463 du 16 juin 1998 (MESS9821271D)](decret-n98-463-du-16-juin-1998-mess9821271d)
