@@ -5,3 +5,5 @@
 - [Article 67](article-67.md)
 - [Article 68](article-68.md)
 - [Article 70](article-70.md)
+- [Article 70 bis](article-70-bis.md)
+- [Article 70 ter](article-70-ter.md)
