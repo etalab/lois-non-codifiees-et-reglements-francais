@@ -1060,7 +1060,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Ille-et-Vilaine<br/>
+<p align="left">Ille-et-Vilaine - Côtes-d'Armor <br/>
 </p>
 </td>
 <td align="center">
@@ -1068,12 +1068,10 @@
 </p>
 </td>
 <td align="center">
-<p align="left">3<br/>
-</p>
+<p align="left">2</p>
 </td>
 <td align="center">
-<p align="left">3<br/>
-</p>
+<p align="left">2</p>
 </td>
 </tr>
 <tr>
@@ -1087,12 +1085,11 @@
 </p>
 </td>
 <td align="center">
-<p align="left">2<br/>
+<p align="left">3<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">2<br/>
-</p>
+<p align="left">3</p>
 </td>
 </tr>
 <tr>
@@ -2428,20 +2425,32 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Sarthe<br/>
+<p align="left">Sarthe - Mayenne<br/>
 </p>
 </td>
 <td align="center">
+<p align="left">CGT-PJJ</p>
+</td>
+<td align="center">
+<p align="left">1 </p>
+</td>
+<td align="center">
+<p align="left">1</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td>
 <p align="left">SN-FO-PJJ<br/>
 </p>
 </td>
-<td align="center">
-<p align="left">1<br/>
-</p>
+<td>
+<p align="left">1</p>
 </td>
-<td align="center">
-<p align="left">1<br/>
-</p>
+<td>
+<p align="left">1</p>
 </td>
 </tr>
 <tr>
