@@ -7,6 +7,8 @@
 - [LOI n° 2009-1255 du 19 octobre 2009 (ECEX0906406L)](loi-n-2009-1255-du-19-octobre-2009-ecex0906406l)
 - [LOI n° 2009-1291 du 26 octobre 2009 (DEVX0817483L)](loi-n-2009-1291-du-26-octobre-2009-devx0817483l)
 - [LOI n° 2009-1311 du 28 octobre 2009 (JUSX0913484L)](loi-n-2009-1311-du-28-octobre-2009-jusx0913484l)
+- [LOI n° 2009-1436 du 24 novembre 2009 (JUSX0814219L)](loi-n-2009-1436-du-24-novembre-2009-jusx0814219l)
+- [LOI n° 2009-1437 du 24 novembre 2009 (ECEX0908316L)](loi-n-2009-1437-du-24-novembre-2009-ecex0908316l)
 - [LOI n° 2009-179 du 17 février 2009 (RELX0829929L)](loi-n-2009-179-du-17-fevrier-2009-relx0829929l)
 - [LOI n° 2009-258 du 5 mars 2009 (MCCX0821956L)](loi-n-2009-258-du-5-mars-2009-mccx0821956l)
 - [LOI n° 2009-323 du 25 mars 2009 (LOGX0815554L)](loi-n-2009-323-du-25-mars-2009-logx0815554l)

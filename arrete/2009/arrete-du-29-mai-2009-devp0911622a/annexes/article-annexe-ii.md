@@ -290,7 +290,7 @@ _3. 1. Transport de marchandises dangereuses dans les trains de voyageurs._
 
 -pour les colis contenant des matières et objets classés 1. 4 S et chargés en commun avec des marchandises des autres classes : la limite de 100 kg s'applique pour eux-mêmes et la limite de 300 kg s'applique pour l'ensemble des marchandises chargées ;
 
--les colis contenant des marchandises de la classe 1, soumises à autorisation d'acquisition en vertu du décret n° 81-972 du 21 octobre 1981 modifié relatif au marquage, à l'acquisition, à la détention, au transport, à la livraison et à l'emploi de produits explosifs, ne peuvent en aucun cas être chargés dans des trains de voyageurs ;
+-les colis contenant des marchandises de la classe 1, soumises à autorisation d'acquisition en vertu des articles R. 2352-1, R. 2352-22, R. 2352-47, R. 2352-73 et suivants et R. 2353-2 du code de la défense, ne peuvent en aucun cas être chargés dans des trains de voyageurs ;
 
 -pour les colis contenant des marchandises de la classe 7, dispensés d'étiquetage ou portant deux étiquettes n° 7A : la limite de 300 kg s'applique pour eux-mêmes s'ils sont chargés seuls, pour l'ensemble des marchandises dangereuses en cas de chargement en commun.
 

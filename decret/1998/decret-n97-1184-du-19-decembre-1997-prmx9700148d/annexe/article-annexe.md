@@ -21,7 +21,7 @@ Code pénal
 <p align="center">1 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Décisions d'autorisation relatives à la fabrication, l'importation, l'exposition, l'offre, la location ou la vente des appareils d'interception ou de détection à distance des conversations. </p>
+<p>Décisions d'autorisation relatives à la fabrication, l'importation, l'exposition, l'offre, la location ou la vente des appareils d'interception ou de détection à distance des conversations. </p>
 </td>
 <td align="left" valign="top">
 <p>Article R. 226-3 </p>
@@ -88,7 +88,7 @@ Code de la défense
 </tbody>
 </table>
 
-Décret n° 2001-143 du 15 février 2001 concernant la mise en oeuvre des dispositions du titre II de la loi n° 98-147 du 17 juin 1998 relative à l'application de la convention du 13 janvier 1993 sur l'interdiction de la mise au point, de la fabrication, du stockage et de l'emploi des armes chimiques et sur leur destruction
+Code de la défense
 
 <table>
 <tbody>
@@ -100,7 +100,7 @@ Décret n° 2001-143 du 15 février 2001 concernant la mise en oeuvre des dispos
 <p>Décisions désignant l'installation fabriquant à des fins médicales, pharmaceutiques, de recherche ou de protection des produits chimiques inscrits au tableau 1 annexé à la convention du 13 janvier 1993 sur l'interdiction de la mise au point, de la fabrication, du stockage et de l'emploi des armes chimiques et sur leur destruction. </p>
 </td>
 <td valign="top" width="151">
-<p>Article 2</p>
+<p>Article R. 2342-3 </p>
 </td>
 </tr>
 <tr>
@@ -111,7 +111,7 @@ Décret n° 2001-143 du 15 février 2001 concernant la mise en oeuvre des dispos
 <p>Décisions portant désignation et autorisation d'une installation pouvant fabriquer, en quantité limitée, à des fins de protection, des produits chimiques inscrits au tableau 1 annexé à la convention. </p>
 </td>
 <td valign="top" width="151">
-<p>Article 2</p>
+<p>Article R. 2342-3</p>
 </td>
 </tr>
 <tr>
@@ -122,7 +122,7 @@ Décret n° 2001-143 du 15 février 2001 concernant la mise en oeuvre des dispos
 <p>Décisions relatives aux agréments préalables à l'exportation pour la présentation, la négociation et la vente de produits chimiques inscrits au tableau 1 annexé à la convention. </p>
 </td>
 <td valign="top" width="151">
-<p>Article 17, II</p>
+<p>Article R. 2342-19</p>
 </td>
 </tr>
 <tr>
@@ -133,7 +133,7 @@ Décret n° 2001-143 du 15 février 2001 concernant la mise en oeuvre des dispos
 <p>Décisions d'autorisation d'exportation de produits chimiques inscrits au tableau 1 annexé à la convention dans le cas où le dossier est examiné préalablement par la commission interministérielle pour l'étude des exportations de matériels de guerre. </p>
 </td>
 <td valign="top" width="151">
-<p>Article 17, II</p>
+<p>Article R. 2342-19</p>
 </td>
 </tr>
 </tbody>
@@ -148,10 +148,10 @@ Décret n° 2002-535 du 18 avril 2002 relatif à l'évaluation et à la certific
 <p align="center">1</p>
 </td>
 <td valign="top" width="378">
-<p>Délivrance du certificat attestant qu'un produit ou un système satisfait aux caractéristiques de sécurité spécifiées.</p>
+<p align="left">Délivrance du certificat attestant qu'un produit ou un système satisfait aux caractéristiques de sécurité spécifiées.</p>
 </td>
 <td valign="top" width="151">
-<p>-premier alinéa de l'article 8 </p>
+<p align="left">- premier alinéa de l'article 8</p>
 </td>
 </tr>
 <tr>
@@ -159,10 +159,10 @@ Décret n° 2002-535 du 18 avril 2002 relatif à l'évaluation et à la certific
 <p align="center">2</p>
 </td>
 <td valign="top" width="378">
-<p>Délivrance et retrait de l'agrément des centres d'évaluation de la sécurité des technologies de l'information.</p>
+<p align="left">Délivrance et retrait de l'agrément des centres d'évaluation de la sécurité des technologies de l'information.</p>
 </td>
 <td valign="top" width="151">
-<p>-premier alinéa de l'article 12 et deuxième alinéa de l'article 14</p>
+<p align="left">- premier alinéa de l'article 12 et deuxième alinéa de l'article 14</p>
 </td>
 </tr>
 </tbody>
@@ -216,18 +216,18 @@ Code de l'urbanisme
 <tbody>
 <tr>
 <td align="left" valign="top">
-<p align="center">1 </p>
+<p>1 </p>
 </td>
 <td align="left" valign="top">
 <p>Décisions relatives à l'agrément prévu par l'article R. 510-1 du code de l'urbanisme, prise sur recours du ministre intéressé à la suite d'un refus d'agrément opposé par le comité de décentralisation à une opération réalisée par un service de l'Etat ou une personne publique ou privée soumise à son contrôle. </p>
 </td>
 <td align="left" valign="top">
-<p>Article R. 510-2 (1°), deuxième alinéa</p>
+<p>Article R. 510-2 (1°), deuxième alinéa </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="center">2 </p>
+<p>2 </p>
 </td>
 <td align="left" valign="top">
 <p>Décisions de nomination des membres et du président du comité de décentralisation. </p>
@@ -266,10 +266,10 @@ Décret n° 82-453 du 28 mai 1982 modifié relatif à l'hygiène et à la sécur
 <p align="center">1</p>
 </td>
 <td align="left" valign="top">
-<p align="left">Agrément de certains organismes chargés de dispenser une formation en matière d'hygiène et de sécurité aux représentants des personnels siégeant aux comités d'hygiène et de sécurité.</p>
+<p align="left">Agrément de certains organismes chargés de dispenser une formation en matière d'hygiène et de sécurité aux représentants des personnels siégeant aux comités d'hygiène et de sécurité. </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Article 8 </p>
+<p align="left">Article 8</p>
 </td>
 </tr>
 <tr>
