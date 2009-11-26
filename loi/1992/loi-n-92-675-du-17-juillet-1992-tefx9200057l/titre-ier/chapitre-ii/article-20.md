@@ -2,13 +2,7 @@
 
 Sont applicables aux contrats d'apprentissage visés à l'article 11 les dispositions spécifiques ci-dessous :
 
-I. - Au vu d'un dossier précisant les conditions de travail, d'hygiène et de sécurité, l'équipement du service et la nature des techniques utilisées ainsi que les compétences professionnelles des maîtres d'apprentissage, le représentant de l'Etat dans le département du lieu d'exécution des contrats délivre un agrément à ces personnes. Les conditions d'accueil et de formation des apprentis font l'objet d'un avis du comité technique paritaire ou de toute autre instance compétente au sein de laquelle siègent les représentants du personnel. Cette instance examine chaque année un rapport sur le déroulement des contrats d'apprentissage.
-
-Pour les personnes morales autres que l'Etat, l'agrément peut être retiré en cas de manquement aux obligations mises à la charge de l'employeur par le présent chapitre.
-
-Toute décision de retrait ou de refus doit être motivée.
-
-Les modalités d'application du présent paragraphe sont précisées par décret.
+I. - Les conditions d'accueil et de formation des apprentis font l'objet d'un avis du comité technique paritaire ou de toute autre instance compétente au sein de laquelle siègent les représentants du personnel. Cette instance examine chaque année un rapport sur le déroulement des contrats d'apprentissage.
 
 II. - Pour la mise en oeuvre des dispositions du présent chapitre, un centre de formation d'apprentis peut conclure avec un ou plusieurs centres de formation gérés par l'une des personnes morales définie à l'article 18 ou avec le Centre national de la fonction publique territoriale une convention aux termes de laquelle ces établissements assurent une partie des formations normalement dispensées par le centre de formation d'apprentis et mettent à sa disposition des équipements pédagogiques ou d'hébergement.
 

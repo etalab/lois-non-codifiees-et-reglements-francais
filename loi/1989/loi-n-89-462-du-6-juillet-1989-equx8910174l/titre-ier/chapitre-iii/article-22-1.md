@@ -1,6 +1,6 @@
 # Article 22-1
 
-Le cautionnement ne peut pas être demandé par un bailleur qui a souscrit une assurance garantissant les obligations locatives du locataire.
+Le cautionnement ne peut pas être demandé par un bailleur qui a souscrit une assurance garantissant les obligations locatives du locataire, sauf en cas de logement loué à un étudiant ou un apprenti.
 
 Si le bailleur est une personne morale autre qu'une société civile constituée exclusivement entre parents et alliés jusqu'au quatrième degré inclus, le cautionnement ne peut être demandé que :
 
