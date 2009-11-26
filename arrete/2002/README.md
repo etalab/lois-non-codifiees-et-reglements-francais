@@ -207,7 +207,6 @@
 - [Arrêté du 7 juin 2002 (EQUP0200996A)](arrete-du-7-juin-2002-equp0200996a)
 - [Arrêté du 7 mars 2002 (AGRG0200239A)](arrete-du-7-mars-2002-agrg0200239a)
 - [Arrêté du 7 mars 2002 (AGRR0200521D)](arrete-du-7-mars-2002-agrr0200521d)
-- [Arrêté du 7 mars 2002 (DEFM0201243A)](arrete-du-7-mars-2002-defm0201243a)
 - [Arrêté du 7 mars 2002 (ECOB0230002A)](arrete-du-7-mars-2002-ecob0230002a)
 - [Arrêté du 7 novembre 2002 (AGRP0202426A)](arrete-du-7-novembre-2002-agrp0202426a)
 - [Arrêté du 7 novembre 2002 (INTC0200575A)](arrete-du-7-novembre-2002-intc0200575a)

@@ -293,7 +293,6 @@
 - [Arrêté du 10 février 1998 (ATEP9870036A)](arrete-du-10-fevrier-1998-atep9870036a)
 - [Arrêté du 10 février 1998 (DEFA9851010A)](arrete-du-10-fevrier-1998-defa9851010a)
 - [Arrêté du 10 février 1998 (DEFD9801145A)](arrete-du-10-fevrier-1998-defd9801145a)
-- [Arrêté du 10 février 1998 (ECOI9800185A)](arrete-du-10-fevrier-1998-ecoi9800185a)
 - [Arrêté du 10 février 1998 (MESP9820577A)](arrete-du-10-fevrier-1998-mesp9820577a)
 - [Arrêté du 10 février 1998 (MESP9820578A)](arrete-du-10-fevrier-1998-mesp9820578a)
 - [Arrêté du 10 juillet 1998 (AGRE9801481A)](arrete-du-10-juillet-1998-agre9801481a)
