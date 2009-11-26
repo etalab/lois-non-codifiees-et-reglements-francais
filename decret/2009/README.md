@@ -777,7 +777,6 @@
 - [Décret n°2009-883 du 21 juillet 2009 (DEVN0903250D)](decret-n2009-883-du-21-juillet-2009-devn0903250d)
 - [Décret n°2009-886 du 21 juillet 2009 (SASP0915332D)](decret-n2009-886-du-21-juillet-2009-sasp0915332d)
 - [Décret n°2009-887 du 21 juillet 2009 (MCCB0913558D)](decret-n2009-887-du-21-juillet-2009-mccb0913558d)
-- [Décret n°81-972 du 21 octobre 1981](decret-n81-972-du-21-octobre-1981)
 - [Décret du 22 avril 2009 (DEVN0906517D)](decret-du-22-avril-2009-devn0906517d)
 - [Décret n°2008-1413 du 22 décembre 2008 (PRMX0828185D)](decret-n2008-1413-du-22-decembre-2008-prmx0828185d)
 - [Décret n°2008-1414 du 22 décembre 2008 (PRMX0828186D)](decret-n2008-1414-du-22-decembre-2008-prmx0828186d)
