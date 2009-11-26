@@ -1,10 +1,6 @@
 # Article 2
 
-L'Observatoire national de la lecture a pour mission de recueillir et d'exploiter les données scientifiques disponibles afin d'éclairer l'apprentissage initial et le perfectionnement de la lecture et, plus généralement, de contribuer à la maîtrise de la langue tout au long de la scolarité.
-
-Il analyse les pratiques pédagogiques et suscite des recherches en la matière. Il organise sur les mêmes sujets un échange constant d'informations et d'expériences.
-
-Il lui incombe également, à partir de ces travaux et activités, de formuler des propositions pour améliorer la formation initiale et continue des enseignants et pour diversifier les pratiques dans les domaines de la lecture et de la maîtrise de la langue ainsi que pour prévenir les phénomènes d'illettrisme chez les jeunes adultes.
+L'Observatoire national de la lecture a pour mission de contribuer à la maîtrise de la langue, tout au long de la scolarité, et d'analyser les pratiques de lecture chez les élèves. Il propose des actions de nature à développer le goût de la lecture chez les jeunes. Il conduit en particulier les réflexions sur les moyens de rapprocher les supports classiques et les supports virtuels de lecture et au moyen de maintenir vivace le lien entre les grandes œuvres du patrimoine littéraire national et international et la littérature contemporaine. A ces fins, il recueille et exploite les données disponibles et favorise les échanges d'informations et d'expériences entre les partenaires scientifiques, les professionnels et les parents.
 
 L'Observatoire national de la lecture peut se saisir ou être saisi par le ministre de toute question relevant de sa compétence.
 
