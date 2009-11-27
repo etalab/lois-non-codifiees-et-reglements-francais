@@ -7,3 +7,5 @@ La direction des ressources humaines comprend :
 - le service des ressources humaines civiles ;
 
 - le service de l'accompagnement professionnel et des pensions.
+
+Elle comprend également le centre de formation au management du ministère de la défense.
