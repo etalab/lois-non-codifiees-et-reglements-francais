@@ -14,7 +14,7 @@ est fixé à 9 479 159 euros, réparti comme suit :
 
 2° Le montant de la dotation de financement des missions d'intérêt général et d'aide à la contractualisation (MIGAC) mentionnée à l'
 article L. 162-22-14 du code de la sécurité sociale
-est fixé à 40 204 672 euros ;
+est fixé à 40 324 672 euros ;
 
 3° Le montant de la dotation annuelle de financement mentionnée à l'
 article R. 174-37 du code de la sécurité sociale
