@@ -974,6 +974,7 @@
 - [Décret n°2009-1038 du 25 août 2009 (AGRS0829773D)](decret-n2009-1038-du-25-aout-2009-agrs0829773d)
 - [Décret n°2009-1150 du 25 septembre 2009 (JUSC0909506D)](decret-n2009-1150-du-25-septembre-2009-jusc0909506d)
 - [Décret n°2009-1151 du 25 septembre 2009 (JUSB0920882D)](decret-n2009-1151-du-25-septembre-2009-jusb0920882d)
+- [Décret n°2009-1454 du 25 novembre 2009 (SASV0918791D)](decret-n2009-1454-du-25-novembre-2009-sasv0918791d)
 - [Décret n°2009-222 du 25 février 2009 (MTSC0828561D)](decret-n2009-222-du-25-fevrier-2009-mtsc0828561d)
 - [Décret n°2009-234 du 25 février 2009 (JUSC0826395D)](decret-n2009-234-du-25-fevrier-2009-jusc0826395d)
 - [Décret n°2009-324 du 25 mars 2009 (ECED0901025D)](decret-n2009-324-du-25-mars-2009-eced0901025d)
