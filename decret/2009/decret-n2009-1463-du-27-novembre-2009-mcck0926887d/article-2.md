@@ -1,0 +1,3 @@
+# Article 2
+
+Les sommes inscrites avant le 1er janvier 2000 sur le compte prévu à l'article 9 du décret du 24 août 1998 susvisé ou sur les comptes regroupés en circuit dans les conditions prévues aux articles 12 et 13 du même décret doivent être investies dans un délai de deux ans à compter du 1er janvier 2010. Les sommes inscrites entre le 1er janvier 2000 et le 31 décembre 2009 sur le ou les comptes précités doivent être investies dans un délai de douze ans à compter du 1er janvier de l'année suivant celle au cours de laquelle elles ont été calculées. A l'expiration de ces délais, les sommes considérées sont annulées.
