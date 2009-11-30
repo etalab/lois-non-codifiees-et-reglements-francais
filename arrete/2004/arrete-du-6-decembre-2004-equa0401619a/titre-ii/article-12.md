@@ -10,9 +10,7 @@ Il est institué une commission de progression qui comprend :
 
 - le coordonnateur de la formation des élèves pilotes de ligne ou son représentant ;
 
-- le chef du centre du service d'exploitation de la formation aéronautique dans lequel l'élève est en formation ou le chef du centre qui est appelé à le recevoir en formation, ou son représentant ;
-
-- un délégué élu des élèves pilotes de ligne de la promotion concernée ou, à défaut, d'une autre promotion.
+- le chef de division instruction du centre dans lequel l'élève est en formation ou le chef de division instruction du centre qui est appelé à le recevoir en formation, ou son représentant ;
 
 Le secrétariat de la commission est assuré par le service d'exploitation et de la formation aéronautique.
 
