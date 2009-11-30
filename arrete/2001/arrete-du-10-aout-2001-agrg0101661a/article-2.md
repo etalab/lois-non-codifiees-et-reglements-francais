@@ -1,7 +1,5 @@
 # Article 2
 
-Par dérogation aux dispositions de l'article 1er, peuvent être introduits ou importés sur le territoire français, exportés ou expédiés :
+Les dispositions de l'article 1er ne s'appliquent pas aux carcasses, viandes ou produits destinés à l'alimentation humaine obtenus à partir de bovins nés, élevés et abattus dans les pays ou régions visés au point A (pays ou régions à risque d'ESB négligeable) de l'annexe de la décision (CE) n° 2007 / 453 de la Commission du 29 juin 2007 susvisée.
 
-- les carcasses, viandes et produits cités à cet article obtenus à partir de bovins, d'ovins et de caprins nés, élevés et abattus dans les pays visés en annexe I dans les conditions précisées à l'article 3 ;
-
-- les carcasses, demi-carcasses, demi-carcasses découpées en un maximum de trois morceaux et quartiers de bovins âgés de plus de vingt-quatre mois, avec la colonne vertébrale en place échangés en provenance d'autres Etats membres ou importés à destination d'entreprises autorisées par instruction du ministre de l'agriculture et de la pêche.
+Les carcasses, les demi-carcasses ou les demi-carcasses découpées en un maximum de trois coupes de gros et les quartiers de bovins ne contenant pas d'autres matériels à risque spécifiés que la colonne vertébrale, y compris les ganglions rachidiens, peuvent être expédiés vers un autre Etat membre sans autorisation préalable de ce dernier ou importés sur le territoire français à destination d'entreprises autorisées par le ministre de l'agriculture et de la pêche.
