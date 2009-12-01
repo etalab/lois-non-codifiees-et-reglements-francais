@@ -1,0 +1,9 @@
+# Article 20
+
+I. ― Les fonctionnaires appartenant à d'autres corps que ceux cités à l'article 19 du présent décret et détachés dans le corps des agents civils des services hospitaliers du service de santé des armées, dans le corps des agents des services hospitaliers qualifiés de l'Institution nationale des invalides sont maintenus en position de détachement dans le corps des aides-soignants et des agents des services hospitaliers qualifiés civils du ministère de la défense jusqu'au terme normal de leur détachement.
+
+II. - Les fonctionnaires appartenant à d'autres corps que ceux cités à l'article 19 du présent décret et détachés dans le corps des agents techniques du ministère de la défense en tant qu'agent technique de 2e classe pour exercer des fonctions d'agents des services hospitaliers qualifiés, telles que définies par le présent décret, dans les maisons de retraite de l'Office national des anciens combattants et victimes de guerre, sont maintenus en position de détachement dans le corps des aides-soignants et des agents des services hospitaliers qualifiés civils du ministère de la défense jusqu'au terme normal de leur détachement.
+
+III. - Toutefois, au titre de la constitution initiale du nouveau corps et par dérogation au délai fixé au 2e alinéa de l'article 17 du présent décret, l'administration d'accueil peut procéder, sur la demande des fonctionnaires détachés dans les anciens corps, à leur intégration directe dans le nouveau corps avant la fin de leur détachement, en prenant en compte leur situation dans le corps où elle est la plus favorable.
+
+IV. - Les services accomplis par ces agents dans leur position de détachement dans l'un des corps mentionnés à l'alinéa ci-dessus sont assimilés à des services accomplis en détachement dans le nouveau corps des aides-soignants et des agents des services hospitaliers qualifiés civils du ministère de la défense.

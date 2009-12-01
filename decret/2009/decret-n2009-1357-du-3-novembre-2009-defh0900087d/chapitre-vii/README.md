@@ -1,0 +1,3 @@
+# CHAPITRE VII : DISPOSITIONS FINALES
+
+- [Article 32](article-32.md)

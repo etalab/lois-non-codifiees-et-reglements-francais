@@ -1,0 +1,3 @@
+# Article 19
+
+Les agents des services hospitaliers qualifiés de l'Institution nationale des invalides, détachés dans le corps des agents civils des services hospitaliers qualifiés du service de santé des armées, les agents civils des services hospitaliers qualifiés du service de santé des armées détachés dans le corps des agents des services hospitaliers qualifiés de l'Institution nationale des invalides sont intégrés dans le corps des aides-soignants et des agents des services hospitaliers qualifiés civils du ministère de la défense conformément aux dispositions de l'article 18 du présent décret, en prenant en compte leur situation dans le corps où elle est la plus favorable.
