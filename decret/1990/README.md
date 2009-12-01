@@ -467,7 +467,6 @@
 - [Décret n°91-712 du 23 juillet 1991 (MENF9100862D)](decret-n91-712-du-23-juillet-1991-menf9100862d)
 - [Décret n°91-714 du 23 juillet 1991 (MENF9100860D)](decret-n91-714-du-23-juillet-1991-menf9100860d)
 - [Décret n°93-242 du 23 février 1993 (DEFP9202219D)](decret-n93-242-du-23-fevrier-1993-defp9202219d)
-- [Décret n°94-840 du 23 septembre 1994 (ACVE9150019D)](decret-n94-840-du-23-septembre-1994-acve9150019d)
 - [Décret n°90-431 du 23 mai 1990 (INDH9000181D)](decret-n90-431-du-23-mai-1990-indh9000181d)
 - [Décret n°90-432 du 23 mai 1990 (INDH9000180D)](decret-n90-432-du-23-mai-1990-indh9000180d)
 - [Décret n°90-1160 du 24 décembre 1990 (JUSA9000284D)](decret-n90-1160-du-24-decembre-1990-jusa9000284d)

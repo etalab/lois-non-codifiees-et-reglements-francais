@@ -390,8 +390,6 @@
 - [Décret n°98-37 du 16 janvier 1998 (MESP9723594D)](decret-n98-37-du-16-janvier-1998-mesp9723594d)
 - [Décret n°98-38 du 16 janvier 1998 (ATEN9750103D)](decret-n98-38-du-16-janvier-1998-aten9750103d)
 - [Décret n°98-463 du 16 juin 1998 (MESS9821271D)](decret-n98-463-du-16-juin-1998-mess9821271d)
-- [Décret n°98-606 du 16 juillet 1998 (DEFP9801548D)](decret-n98-606-du-16-juillet-1998-defp9801548d)
-- [Décret n°98-607 du 16 juillet 1998 (DEFP9801549D)](decret-n98-607-du-16-juillet-1998-defp9801549d)
 - [Décret n°98-612 du 16 juillet 1998 (DEFP9801546D)](decret-n98-612-du-16-juillet-1998-defp9801546d)
 - [Décret n°98-621 du 16 juillet 1998 (AGRA9801003D)](decret-n98-621-du-16-juillet-1998-agra9801003d)
 - [Décret n°98-83 du 16 février 1998 (MENF9703615D)](decret-n98-83-du-16-fevrier-1998-menf9703615d)
