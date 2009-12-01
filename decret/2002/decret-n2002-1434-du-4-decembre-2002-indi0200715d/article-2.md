@@ -1,7 +1,7 @@
 # Article 2
 
-I. - Le ministre chargé de l'énergie communique à la Commission de régulation de l'énergie les conditions de l'appel d'offres qu'il a définies.
+I.-Le ministre chargé de l'énergie communique à la Commission de régulation de l'énergie les conditions de l'appel d'offres qu'il a définies.
 
-II. - La commission rédige le cahier des charges de l'appel d'offres dans un délai fixé par le ministre. Ce délai, qui court de la date de réception des documents adressés par le ministre, ne peut être inférieur à un mois ni supérieur à six mois.
+II.-             La commission rédige un projet de cahier des charges de l'appel d'offres dans un délai fixé par le ministre. Ce délai, qui court de la date de réception des documents adressés par le ministre, ne peut être inférieur à un mois ni supérieur à six mois.
 
-III. - La Commission de régulation de l'énergie communique le projet de cahier des charges au ministre chargé de l'énergie. En tant que de besoin, le ministre demande à la commission d'apporter les modifications qu'il juge nécessaires pour que le cahier des charges soit conforme aux conditions qu'il a déterminées. En cas de refus de la commission, le ministre procède à ces modifications. Dans tous les cas, le ministre arrête le cahier des charges.
+III. - La Commission de régulation de l'énergie communique le projet de cahier des charges au ministre chargé de l'énergie. Ce dernier y apporte les modifications qu'il juge nécessaires et arrête définitivement le cahier des charges.

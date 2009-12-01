@@ -16,7 +16,9 @@ Sous la responsabilité du pétitionnaire, la demande comporte les indications e
 
 6° Une note relative à l'application de la législation sociale dans l'établissement ;
 
-7° Une note exposant l'influence, sur l'environnement, du parti de production retenu.
+7° Une note exposant l'influence, sur l'environnement, du parti de production retenu ;
+
+8° La copie, s'il y a lieu, du récépissé mentionné à l'article R. 423-3 du code de l'urbanisme.
 
 La demande précise également, pour information, la ou les destinations prévues de l'électricité produite, à savoir, notamment, utilisation pour les besoins propres du producteur, vente à des consommateurs finals éligibles ou à des clients éligibles, à Electricité de France ou à un distributeur non nationalisé, dans le cadre d'appels d'offres, de l'obligation d'achat ou de relations contractuelles autres.
 
