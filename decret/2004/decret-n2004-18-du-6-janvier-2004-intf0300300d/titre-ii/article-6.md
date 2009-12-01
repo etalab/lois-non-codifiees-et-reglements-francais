@@ -6,4 +6,4 @@ Cet avis précise le délai dans lequel les candidats ou groupes de candidats pe
 
 Cet avis indique également les modalités de présentation des candidatures, les critères de sélection des offres et, le cas échéant, les objectifs poursuivis et les performances attendues. Ces critères sont pondérés. Si l'autorité administrative démontre qu'une telle pondération est objectivement impossible, ils sont alors hiérarchisés. Parmi les critères de sélection figurent notamment l'adéquation des solutions proposées aux prescriptions du cahier des charges, la valeur actualisée de l'offre, la qualité technique et architecturale des bâtiments et installations, le délai de réalisation ainsi que, s'il y a lieu, la qualité des prestations de services au regard des besoins du service public.
 
-Les articles 39, 40 et 50 du code des marchés publics sont applicables.
+Les articles 39, 40, 40-1 et 50 du code des marchés publics sont applicables.

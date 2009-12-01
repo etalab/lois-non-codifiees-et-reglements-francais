@@ -1,0 +1,3 @@
+# Article 16-1
+
+Pour rendre applicables les dispositions du premier alinéa de l'article L. 551-15 du code de justice administrative ou du premier alinéa de l'article 13 de l'ordonnance n° 2009-515 relative aux procédures de recours applicables aux contrats de la commande publique, le pouvoir adjudicateur publie au Journal officiel de l'Union européenne un avis, conforme au modèle fixé par le règlement (CE) n° 1564 / 2005 susvisé, relatif à son intention de conclure un marché ou un accord-cadre dispensé d'obligations de publicité par l'effet des dispositions du présent décret ou passé en application de son article 10.

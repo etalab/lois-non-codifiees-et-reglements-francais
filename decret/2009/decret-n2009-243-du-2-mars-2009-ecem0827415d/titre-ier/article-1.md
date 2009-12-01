@@ -12,7 +12,7 @@ Ces avis ne peuvent fournir plus de renseignements que ceux qui sont contenus da
 
 III. ― Lorsque le montant du contrat est inférieur au seuil mentionné au II, la personne mentionnée au I choisit librement les modalités de publicité adaptées en fonction des caractéristiques de ce contrat, notamment le montant et la nature des prestations en cause.
 
-IV. ― Lorsque le montant du contrat est supérieur au seuil mentionné au II, les avis d'appel public à la concurrence sont établis conformément au modèle fixé par le règlement (CE) n° 1564/2005 susvisé. Lorsque ce montant est inférieur à ce seuil, ces avis sont établis pour la publication au Bulletin officiel des annonces des marchés publics, conformément au modèle prévu par arrêté du ministre chargé de l'économie, pris en application du code des marchés publics.
+IV. ― Lorsque le montant du contrat est supérieur au seuil mentionné au II, les avis d'appel public à la concurrence sont établis conformément au modèle fixé par le règlement (CE) n° 1564 / 2005 susvisé. Lorsque ce montant est inférieur à ce seuil, ces avis sont établis pour la publication au Bulletin officiel des annonces des marchés publics, conformément au modèle prévu par arrêté du ministre chargé de l'économie, pris en application du code des marchés publics.
 
 La personne mentionnée au I n'est pas tenue d'y faire figurer une estimation du prix des prestations attendues.
 
@@ -21,3 +21,5 @@ Les avis destinés au Bulletin officiel des annonces des marchés publics sont e
 V. ― Le Bulletin officiel des annonces des marchés publics est tenu de publier les avis d'appel public à la concurrence, conformément au texte transmis, dans les six jours qui suivent la date de leur réception.
 
 La personne mentionnée au I doit être en mesure de faire la preuve de la date d'envoi des avis.
+
+VI.-Pour rendre applicables les dispositions du premier alinéa de l'article L. 551-15 du code de justice administrative, la personne publique publie au Journal officiel de l'Union européenne un avis, conforme au modèle fixé par le règlement précité, relatif à son intention de conclure un contrat d'un montant inférieur au seuil défini au II du présent article, et respecte un délai d'au moins onze jours entre la date de publication de cet avis et la date de conclusion du contrat.
