@@ -14,7 +14,11 @@ c) Directeur général adjoint des services d'une commune de plus de 20 000 habi
 
 d) Directeur général adjoint d'un établissement public local assimilé à une commune de plus de 20 000 habitants ;
 
-e) Directeur général adjoint des services d'un département ou d'une région.
+e) Directeur général adjoint des services d'un département ou d'une région ;
+
+f) Directeur général des services des mairies d'arrondissement ou de groupe d'arrondissements des communes de Lyon et de Marseille de plus de 40 000 habitants ;
+
+g) Directeur général adjoint des services des mairies d'arrondissement ou de groupe d'arrondissements des communes de Lyon et de Marseille de plus de 40 000 habitants.
 
 3° Les conseillers territoriaux des activités physiques et sportives principaux qui justifient, au 1er janvier de l'année considérée, de quatre ans de services effectifs accomplis dans ce grade, en position d'activité ou détachement.
 
