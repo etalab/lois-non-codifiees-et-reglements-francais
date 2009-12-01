@@ -12,17 +12,17 @@ Par ailleurs, si une erreur matérielle a été commise dans le calcul des rappo
 
 a) Les paris enregistrés aux guichets du mandataire sont automatiquement crédités au compte du parieur.
 
-b) Les paris enregistrés sur l'hippodrome sont payés aux divers guichets de paiement. Le paiement se poursuit pendant une demi-heure après l'arrivée de la dernière course de la réunion. Les jours suivants, les parieurs peuvent se présenter à un guichet spécial des impayés, ouvert soit sur le même hippodrome, soit dans un lieu désigné par la société organisatrice. Le lieu et le délai de paiement, qui ne peut excéder sept jours, sont précisés sur le programme officiel de la réunion.
+b) Les paris enregistrés sur l'hippodrome sont payés aux divers guichets de paiement. Le paiement se poursuit pendant une demi-heure après l'arrivée de la dernière course de la réunion. Les jours suivants, les parieurs peuvent se présenter à un guichet spécial des impayés, ouvert soit sur le même hippodrome, soit dans un lieu désigné par la société organisatrice. Le lieu et le délai de paiement, qui ne peut excéder soixante jours, sont précisés sur le programme officiel de la réunion.
 
 Les parieurs peuvent également obtenir le règlement par correspondance de leurs gains ou remboursements, après déduction des frais de traitement, dont le montant ne saurait excéder le montant de la taxe en vigueur appliquée aux chèques d'assignation, pendant quinze jours à compter de la date de mise en paiement, en adressant leurs récépissés au siège de la société des courses dont l'adresse est précisée sur le programme officiel de la réunion (le cachet de la poste faisant foi).
 
-c) Les paris enregistrés sur un hippodrome connecté au système central du pari mutuel urbain fonctionnant en temps réel sont payés aux divers guichets de paiement. Le paiement se poursuit pendant une demi-heure après l'arrivée de la dernière course de la réunion. Ils peuvent également être payés pendant quinze jours à compter de leur mise en paiement sur les autres hippodromes connectés à ce système et, dans la limite des heures prévues pour l'enregistrement des paris, dans les agences et les postes d'enregistrement du pari mutuel urbain.
+c) Les paris enregistrés sur un hippodrome connecté au système central du pari mutuel urbain fonctionnant en temps réel sont payés aux divers guichets de paiement. Le paiement se poursuit pendant une demi-heure après l'arrivée de la dernière course de la réunion. Ils peuvent également être payés pendant soixante jours à compter de leur mise en paiement sur les autres hippodromes connectés à ce système et, dans la limite des heures prévues pour l'enregistrement des paris, dans les agences et les postes d'enregistrement du pari mutuel urbain.
 
 2. Paris enregistrés au Pari mutuel urbain :
 
 a) Les paris enregistrés par téléphone ou par Minitel, par terminal numérique et par terminal mobile ainsi que par internet sont automatiquement crédités au compte du parieur.
 
-b) Les paris enregistrés dans les établissements et les postes d'enregistrement du pari mutuel urbain sont payés pendant quinze jours à compter de leur mise en paiement dans chaque établissement visé ci-avant, dans la limite des heures prévues pour l'enregistrement des paris et aux guichets de paiement des hippodromes connectés au système central du pari mutuel urbain fonctionnant en temps réel.
+b) Les paris enregistrés dans les établissements et les postes d'enregistrement du pari mutuel urbain sont payés pendant soixante jours à compter de leur mise en paiement dans chaque établissement visé ci-avant, dans la limite des heures prévues pour l'enregistrement des paris et aux guichets de paiement des hippodromes connectés au système central du pari mutuel urbain fonctionnant en temps réel.
 
 c) Les services du pari mutuel disposent d'un délai n'excédant pas sept jours, après la mise en paiement, pour régler un pari après la présentation du récépissé.
 

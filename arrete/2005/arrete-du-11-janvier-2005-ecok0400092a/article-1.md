@@ -22,19 +22,19 @@ _Direction bancaire_
 
 Responsable des consignations département Agence bancaire et consignations.
 
-Responsable des clientèles juridiques, des personnes protégées par la loi et de la mission qualité clientèles.
+Adjoint au responsable département stratégie et clientèle, responsable des clientèles juridiques.
 
 _Direction des retraites_
 
-Directeur des prestations aux clients IRCANTEC.
-
-Responsable des affaires générales et juridiques de l'établissement de Bordeaux.
-
-Directeur de fonds à l'établissement de Bordeaux.
+Adjoint au directeur d'établissement, directeur des gestions et des prestations clients (Angers).
 
 Directeur de la gouvernance à l'établissement d'Angers.
 
 Directeur des retraites supplémentaires à l'établissement d'Angers.
+
+Responsable vie sociale et affaires juridiques (établissement de Bordeaux).
+
+Directeur de la relation client, directeur de fonds (établissement de Bordeaux).
 
 Responsable du service du pilotage de la relation clients à l'établissement de Bordeaux.
 
@@ -47,6 +47,12 @@ Directeur interrégional adjoint de la Caisse des dépôts pour l'interrégion E
 Directeur régional de la Caisse des dépôts pour la région Champagne-Ardenne.
 
 Directeur régional de la CDC pour l'océan Indien.
+
+Directeur interrégional adjoint opérationnel de la CDC pour l'interrégion Provence-Alpes-Côte d'Azur ;
+
+Directeur régional de la CDC pour la Franche-Comté ;
+
+Directeur régional de la CDC pour la région Poitou-Charentes.
 
 _Caisse générale, direction des back-offices_
 
