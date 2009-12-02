@@ -106,7 +106,6 @@
 - [Arrêté du 5 avril 1990 (AGRP9000605A)](arrete-du-5-avril-1990-agrp9000605a)
 - [Arrêté du 5 avril 1990 (JUSA9000020A)](arrete-du-5-avril-1990-jusa9000020a)
 - [Arrêté du 5 avril 1990 (MENN9000861A)](arrete-du-5-avril-1990-menn9000861a)
-- [Arrêté du 5 avril 1990 (SPSH9000717A)](arrete-du-5-avril-1990-spsh9000717a)
 - [Arrêté du 5 décembre 1990 (SPSS9002463A)](arrete-du-5-decembre-1990-spss9002463a)
 - [Arrêté du 5 février 1990 (AGRS9000297A)](arrete-du-5-fevrier-1990-agrs9000297a)
 - [Arrêté du 5 février 1990 (DEFP9001123A)](arrete-du-5-fevrier-1990-defp9001123a)
