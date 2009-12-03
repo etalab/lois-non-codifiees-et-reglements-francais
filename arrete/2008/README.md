@@ -1164,6 +1164,7 @@
 - [Arrêté du 29 juillet 2008 (JUSK0810522A)](arrete-du-29-juillet-2008-jusk0810522a)
 - [Arrêté du 29 juillet 2008 (MCCB0812693A)](arrete-du-29-juillet-2008-mccb0812693a)
 - [Arrêté du 29 juillet 2008 (MTSW0818940A)](arrete-du-29-juillet-2008-mtsw0818940a)
+- [Arrêté du 29 juin 1992 (MENN9202742A)](arrete-du-29-juin-1992-menn9202742a)
 - [Arrêté du 29 octobre 2008 (AGRS0826262A)](arrete-du-29-octobre-2008-agrs0826262a)
 - [Arrêté du 29 octobre 2008 (DEFH0812819A)](arrete-du-29-octobre-2008-defh0812819a)
 - [Arrêté du 29 octobre 2008 (DEVA0807989A)](arrete-du-29-octobre-2008-deva0807989a)
