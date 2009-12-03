@@ -1289,6 +1289,7 @@
 - [Décret n°2009-119 du 30 janvier 2009 (BCFX0901330D)](decret-n2009-119-du-30-janvier-2009-bcfx0901330d)
 - [Décret n°2009-1464 du 30 novembre 2009 (ECEL0920044D)](decret-n2009-1464-du-30-novembre-2009-ecel0920044d)
 - [Décret n°2009-1465 du 30 novembre 2009 (MCCK0918765D)](decret-n2009-1465-du-30-novembre-2009-mcck0918765d)
+- [Décret n°2009-1467 du 30 novembre 2009 (IOCO0922530D)](decret-n2009-1467-du-30-novembre-2009-ioco0922530d)
 - [Décret n°2009-344 du 30 mars 2009 (DEVU0903679D)](decret-n2009-344-du-30-mars-2009-devu0903679d)
 - [Décret n°2009-345 du 30 mars 2009 (DEVR0904037D)](decret-n2009-345-du-30-mars-2009-devr0904037d)
 - [Décret n°2009-346 du 30 mars 2009 (DEVU0903670D)](decret-n2009-346-du-30-mars-2009-devu0903670d)
