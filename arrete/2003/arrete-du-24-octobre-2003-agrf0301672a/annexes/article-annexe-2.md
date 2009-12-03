@@ -22,9 +22,7 @@ Liste des essences pour lesquelles l'admission de matériels de base identifiés
 <td valign="top" width="168">
 <p>Sapin de Vancouver </p>
 </td>
-<td valign="top" width="230">
-<br/>
-</td>
+<td valign="top" width="230"/>
 </tr>
 <tr>
 <td valign="top" width="168">
@@ -33,9 +31,7 @@ Liste des essences pour lesquelles l'admission de matériels de base identifiés
 <td valign="top" width="168">
 <p>Erable plane </p>
 </td>
-<td valign="top" width="230">
-<br/>
-</td>
+<td valign="top" width="230"/>
 </tr>
 <tr>
 <td width="168">
@@ -55,9 +51,7 @@ Liste des essences pour lesquelles l'admission de matériels de base identifiés
 <td valign="top" width="168">
 <p>Sapin d'Espagne </p>
 </td>
-<td valign="top" width="230">
-<br/>
-</td>
+<td valign="top" width="230"/>
 </tr>
 <tr>
 <td valign="top" width="168">
@@ -66,9 +60,7 @@ Liste des essences pour lesquelles l'admission de matériels de base identifiés
 <td valign="top" width="168">
 <p>Aulne glutineux </p>
 </td>
-<td valign="top" width="230">
-<br/>
-</td>
+<td valign="top" width="230"/>
 </tr>
 <tr>
 <td valign="top" width="168">
@@ -77,9 +69,7 @@ Liste des essences pour lesquelles l'admission de matériels de base identifiés
 <td valign="top" width="168">
 <p>Aulne blanc </p>
 </td>
-<td valign="top" width="230">
-<br/>
-</td>
+<td valign="top" width="230"/>
 </tr>
 <tr>
 <td valign="top" width="168">
@@ -88,9 +78,7 @@ Liste des essences pour lesquelles l'admission de matériels de base identifiés
 <td valign="top" width="168">
 <p>Bouleau verruqueux </p>
 </td>
-<td valign="top" width="230">
-<br/>
-</td>
+<td valign="top" width="230"/>
 </tr>
 <tr>
 <td valign="top" width="168">
@@ -99,9 +87,7 @@ Liste des essences pour lesquelles l'admission de matériels de base identifiés
 <td valign="top" width="168">
 <p>Bouleau pubescent </p>
 </td>
-<td valign="top" width="230">
-<br/>
-</td>
+<td valign="top" width="230"/>
 </tr>
 <tr>
 <td valign="top" width="168">
@@ -110,9 +96,7 @@ Liste des essences pour lesquelles l'admission de matériels de base identifiés
 <td valign="top" width="168">
 <p>Charme </p>
 </td>
-<td valign="top" width="230">
-<br/>
-</td>
+<td valign="top" width="230"/>
 </tr>
 <tr>
 <td valign="top" width="168">
@@ -121,9 +105,7 @@ Liste des essences pour lesquelles l'admission de matériels de base identifiés
 <td valign="top" width="168">
 <p>Frêne oxyphylle </p>
 </td>
-<td valign="top" width="230">
-<br/>
-</td>
+<td valign="top" width="230"/>
 </tr>
 <tr>
 <td width="168">
@@ -132,9 +114,7 @@ Liste des essences pour lesquelles l'admission de matériels de base identifiés
 <td valign="top" width="168">
 <p>Noyer hybride </p>
 </td>
-<td valign="top" width="230">
-<br/>
-</td>
+<td valign="top" width="230"/>
 </tr>
 <tr>
 <td width="168">
@@ -143,9 +123,7 @@ Liste des essences pour lesquelles l'admission de matériels de base identifiés
 <td valign="top" width="168">
 <p>Noyer noir d'Amérique </p>
 </td>
-<td valign="top" width="230">
-<br/>
-</td>
+<td valign="top" width="230"/>
 </tr>
 <tr>
 <td width="168">
@@ -154,9 +132,7 @@ Liste des essences pour lesquelles l'admission de matériels de base identifiés
 <td valign="top" width="168">
 <p>Noyer hybride </p>
 </td>
-<td valign="top" width="230">
-<br/>
-</td>
+<td valign="top" width="230"/>
 </tr>
 <tr>
 <td width="168">
@@ -165,9 +141,7 @@ Liste des essences pour lesquelles l'admission de matériels de base identifiés
 <td valign="top" width="168">
 <p>Noyer royal </p>
 </td>
-<td valign="top" width="230">
-<br/>
-</td>
+<td valign="top" width="230"/>
 </tr>
 <tr>
 <td width="168">
@@ -176,9 +150,7 @@ Liste des essences pour lesquelles l'admission de matériels de base identifiés
 <td valign="top" width="168">
 <p>Pin cembro </p>
 </td>
-<td valign="top" width="230">
-<br/>
-</td>
+<td valign="top" width="230"/>
 </tr>
 <tr>
 <td width="168">
@@ -198,9 +170,7 @@ Liste des essences pour lesquelles l'admission de matériels de base identifiés
 <td valign="top" width="168">
 <p>Pin pignon </p>
 </td>
-<td valign="top" width="230">
-<br/>
-</td>
+<td valign="top" width="230"/>
 </tr>
 <tr>
 <td width="168">
@@ -209,9 +179,7 @@ Liste des essences pour lesquelles l'admission de matériels de base identifiés
 <td valign="top" width="168">
 <p>Espèces du genre peuplier </p>
 </td>
-<td valign="top" width="230">
-<br/>
-</td>
+<td valign="top" width="230"/>
 </tr>
 <tr>
 <td valign="top" width="168">
@@ -220,9 +188,7 @@ Liste des essences pour lesquelles l'admission de matériels de base identifiés
 <td valign="top" width="168">
 <p>Merisier </p>
 </td>
-<td valign="top" width="230">
-<br/>
-</td>
+<td valign="top" width="230"/>
 </tr>
 <tr>
 <td valign="top" width="168">
@@ -231,9 +197,7 @@ Liste des essences pour lesquelles l'admission de matériels de base identifiés
 <td valign="top" width="168">
 <p>Chêne chevelu </p>
 </td>
-<td valign="top" width="230">
-<br/>
-</td>
+<td valign="top" width="230"/>
 </tr>
 <tr>
 <td valign="top" width="168">
@@ -242,9 +206,7 @@ Liste des essences pour lesquelles l'admission de matériels de base identifiés
 <td valign="top" width="168">
 <p>Chêne vert </p>
 </td>
-<td valign="top" width="230">
-<br/>
-</td>
+<td valign="top" width="230"/>
 </tr>
 <tr>
 <td valign="top" width="168">
@@ -253,9 +215,7 @@ Liste des essences pour lesquelles l'admission de matériels de base identifiés
 <td valign="top" width="168">
 <p>Chêne pubescent </p>
 </td>
-<td valign="top" width="230">
-<br/>
-</td>
+<td valign="top" width="230"/>
 </tr>
 <tr>
 <td valign="top" width="168">
@@ -264,9 +224,7 @@ Liste des essences pour lesquelles l'admission de matériels de base identifiés
 <td valign="top" width="168">
 <p>Chêne liège </p>
 </td>
-<td valign="top" width="230">
-<br/>
-</td>
+<td valign="top" width="230"/>
 </tr>
 <tr>
 <td valign="top" width="168">
@@ -275,9 +233,7 @@ Liste des essences pour lesquelles l'admission de matériels de base identifiés
 <td valign="top" width="168">
 <p>Robinier faux-acacia </p>
 </td>
-<td valign="top" width="230">
-<br/>
-</td>
+<td valign="top" width="230"/>
 </tr>
 <tr>
 <td width="168">
@@ -286,9 +242,7 @@ Liste des essences pour lesquelles l'admission de matériels de base identifiés
 <td valign="top" width="168">
 <p>Cormier </p>
 </td>
-<td valign="top" width="230">
-<br/>
-</td>
+<td valign="top" width="230"/>
 </tr>
 <tr>
 <td width="168">
@@ -297,9 +251,7 @@ Liste des essences pour lesquelles l'admission de matériels de base identifiés
 <td valign="top" width="168">
 <p>Alisier torminal </p>
 </td>
-<td valign="top" width="230">
-<br/>
-</td>
+<td valign="top" width="230"/>
 </tr>
 <tr>
 <td valign="top" width="168">
@@ -308,9 +260,7 @@ Liste des essences pour lesquelles l'admission de matériels de base identifiés
 <td valign="top" width="168">
 <p>Tilleul à petites feuilles </p>
 </td>
-<td valign="top" width="230">
-<br/>
-</td>
+<td valign="top" width="230"/>
 </tr>
 <tr>
 <td valign="top" width="168">
@@ -319,9 +269,9 @@ Liste des essences pour lesquelles l'admission de matériels de base identifiés
 <td valign="top" width="168">
 <p>Tilleul à grandes feuilles </p>
 </td>
-<td valign="top" width="230">
-<br/>
-</td>
+<td valign="top" width="230"/>
 </tr>
 </tbody>
 </table>
+
+La version actualisée du registre national des matériels de base des essences forestières peut être consultée sur le site du ministère de l'alimentation, de l'agriculture et de la pêche à l'adresse : http://agriculture.gouv.fr/sections/thematiques/foret-bois/graines-et-plants-forestiers. Une copie du registre peut également être demandée par courrier adressé : - à la direction générale des politiques agricole, agroalimentaire et des territoires, sous-direction de la forêt et du bois, bureau des investissements forestiers, 19, avenue du Maine, 75732 Paris Cedex 15 ; - ou au CEMAGREF, unité de recherche Ecosystèmes forestiers , domaine des Barres, 45290 Nogent-sur-Vernisson.
