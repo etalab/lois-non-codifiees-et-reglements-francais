@@ -1,0 +1,3 @@
+# Article 6
+
+Peut bénéficier d'un contrat aux tarifs définis à l'annexe 2, dans la mesure où elle respecte à la date de signature du contrat les conditions du décret du 29 octobre 2009 et de l'arrêté du 2 novembre 2009 susvisés, une installation mise en service pour la première fois après la date de publication du présent arrêté. Le contrat est conclu pour une durée de 25 ans à compter de la mise en service industrielle de l'installation. Cette mise en service doit avoir lieu dans un délai de trois ans à compter de la date de demande complète de contrat par le producteur. En cas de dépassement de ce délai, la durée du contrat est réduite d'autant.
