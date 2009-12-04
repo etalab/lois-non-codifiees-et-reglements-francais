@@ -377,7 +377,6 @@
 - [Décret n°2001-672 du 25 juillet 2001 (JUSD0130100D)](decret-n2001-672-du-25-juillet-2001-jusd0130100d)
 - [Décret n°2001-673 du 25 juillet 2001 (MAEA0120136D)](decret-n2001-673-du-25-juillet-2001-maea0120136d)
 - [Décret n°2001-691 du 25 juillet 2001 (AGRG0001683D)](decret-n2001-691-du-25-juillet-2001-agrg0001683d)
-- [Décret n°2001-875 du 25 septembre 2001 (ECOX0105105D)](decret-n2001-875-du-25-septembre-2001-ecox0105105d)
 - [Décret n°2001-881 du 25 septembre 2001 (ECOC0100070D)](decret-n2001-881-du-25-septembre-2001-ecoc0100070d)
 - [Décret n°2001-897 du 25 septembre 2001 (DEFP0101945D)](decret-n2001-897-du-25-septembre-2001-defp0101945d)
 - [Décret n°2001-968 du 25 octobre 2001 (MESS0121936D)](decret-n2001-968-du-25-octobre-2001-mess0121936d)
