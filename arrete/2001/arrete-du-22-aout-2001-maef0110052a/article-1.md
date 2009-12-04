@@ -1,6 +1,12 @@
 # Article 1
 
-Il est créé au ministère des affaires étrangères un traitement automatisé d'informations nominatives nommé Réseau Mondial Visas 2 (RMV 2) dont la finalité est de permettre l'instruction des demandes de délivrance des visas par les consulats et les sections consulaires des ambassades en procédant, notamment, à l'échange d'informations avec des autorités nationales et des autorités étrangères (le ministère de l'intérieur et les instances nationales des Etats Schengen).
+Est autorisée la création d'un traitement automatisé de données à caractère personnel dénommé Réseau mondial Visas 2 (RMV 2), relevant du ministre des affaires étrangères et du ministre chargé de l'immigration.
+
+Ce traitement a pour finalité :
+
+- de permettre l'instruction des demandes de délivrance des visas en procédant notamment à l'échange d'informations, d'une part, avec des autorités nationales, d'autre part, avec les autorités des Etats Schengen, en particulier par le versement dans le système VIS d'une copie des données se rapportant aux visas pour un séjour d'une durée inférieure à trois mois délivrés par les autorités françaises désignées à l'article 3 ;
+
+- de faciliter le suivi et le traitement des recours administratifs et contentieux se rapportant aux visas.
 
 A cet effet, les fichiers suivants sont mis en oeuvre :
 
@@ -14,10 +20,6 @@ A cet effet, les fichiers suivants sont mis en oeuvre :
 
 - le fichier des titres de voyage répertoriés ;
 
-- le fichier des demandes de carte de commerçant ;
-
 - le fichier des interventions ;
-
-- le fichier du suivi du contentieux.
 
 Les fichiers d'attention constitués localement dans les représentations consultaires françaises d'un même pays ou d'une même zone géographique peuvent, en tant que de besoin, être partagés entre ces différents postes. Les données sont acheminées de la station locale vers le système central, qui assure leur diffusion dans les stations destinataires. Ces informations en transit ne sont pas consultables par les services de l'administration centrale.
