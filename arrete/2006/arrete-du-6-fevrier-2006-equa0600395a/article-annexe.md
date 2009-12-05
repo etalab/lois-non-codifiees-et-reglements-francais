@@ -2,7 +2,7 @@
 
 **LIAISONS RÉGULIÈRES DE PASSAGERS, DE COURRIER ET DE FRET**
 
-Jusqu'au 30 novembre 2009
+Jusqu'au 30 novembre 2014
 
 Lyon-Bejaïa (Algérie).
 
@@ -54,7 +54,12 @@ Paris - Abidjan (Côte d'Ivoire) ;
 
 Lille - Oran (Algérie).
 
-<div align="center">Jusqu'au 31 mai 2014 :<br/>
-</div>
+<div align="center">Jusqu'au 31 mai 2014</div>
 
 Paris-Beyrouth (Liban).
+
+Jusqu'au 30 novembre 2014
+
+Lyon-Bejaïa (Algérie).
+
+Marseille-Tlemcen (Algérie).

@@ -37,20 +37,6 @@
 </td>
 </tr>
 <tr>
-<td align="center">Bastia<br/>
-</td>
-<td align="center">Aéroport-port<br/>
-</td>
-<td align="center">Tous<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-</tr>
-<tr>
 <td align="center">Bordeaux<br/>
 </td>
 <td align="center">Aéroport-port<br/>
