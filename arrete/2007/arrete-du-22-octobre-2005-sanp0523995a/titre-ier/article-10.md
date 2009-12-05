@@ -1,6 +1,6 @@
 # Article 10
 
-Les membres du jury d'admission sont nommés par le préfet du département ou de région, en fonction du choix opéré pour l'organisation du concours. Le jury de l'épreuve d'admission est composé d'au moins 20 % de l'ensemble des évaluateurs. Il est présidé :
+Les membres du jury d'admission sont nommés par le préfet du département ou de région, en fonction du choix opéré pour l'organisation du concours. Le jury de l'épreuve d'admission est composé d'au moins 10 % de l'ensemble des évaluateurs. Il est présidé :
 
 a) En cas d'absence de regroupement entre instituts, par le directeur départemental des affaires sanitaires et sociales du lieu d'implantation de l'institut ou son représentant ;
 

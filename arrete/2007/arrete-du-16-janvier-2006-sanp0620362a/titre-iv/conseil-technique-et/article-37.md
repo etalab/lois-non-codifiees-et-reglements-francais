@@ -6,7 +6,7 @@ A. - Le directeur soumet au conseil technique pour avis :
 
 2° L'utilisation des locaux et du matériel pédagogique ;
 
-3° L'effectif des différentes catégories de personnels enseignants ainsi que la nature et la durée de leurs interventions ;
+3° L'effectif des différentes catégories de personnels formateurs ainsi que la nature et la durée de leurs interventions ;
 
 4° Le budget prévisionnel ;
 

@@ -1,6 +1,6 @@
 # Article 8
 
-Les membres du jury d'admissibilité sont nommés par le préfet du département ou de région, en fonction du choix opéré pour l'organisation du concours. Le jury d'admissibilité est composé d'au moins 20 % de l'ensemble des correcteurs. Il est présidé :
+Les membres du jury d'admissibilité sont nommés par le préfet du département ou de région, en fonction du choix opéré pour l'organisation du concours. Le jury d'admissibilité est composé d'au moins 10 % de l'ensemble des correcteurs. Il est présidé :
 
 a) En cas d'absence de regroupement entre instituts, par le directeur départemental des affaires sanitaires et sociales du lieu d'implantation de l'institut ou son représentant ;
 

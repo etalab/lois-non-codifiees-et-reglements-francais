@@ -4,7 +4,7 @@ Dans chaque institut, le directeur est assisté d'un conseil de discipline. Il e
 
 1° Le représentant de l'organisme gestionnaire siégeant au conseil technique ou son suppléant ;
 
-2° L'infirmier, enseignant permanent siégeant au conseil technique ou son suppléant ;
+2° L'infirmier, formateur permanent siégeant au conseil technique ou son suppléant ;
 
 3° L'aide-soignant d'un établissement accueillant des élèves en stage siégeant au conseil technique ou son suppléant ;
 

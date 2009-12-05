@@ -1,6 +1,6 @@
 # Article 7
 
-Aucune condition de diplôme n'est requise pour se présenter à l'épreuve écrite d'admissibilité. Cette épreuve anonyme, d'une durée de deux heures, est notée sur 20 points. Elle est évaluée par des infirmiers, enseignants permanents dans un institut de formation d'aides-soignants ou par des intervenants extérieurs assurant régulièrement des enseignements auprès d'élèves aides-soignants.
+Aucune condition de diplôme n'est requise pour se présenter à l'épreuve écrite d'admissibilité. Cette épreuve anonyme, d'une durée de deux heures, est notée sur 20 points. Elle est évaluée par des infirmiers, formateurs permanents dans un institut de formation d'aides-soignants ou par des personnes qualifiées.
 
 Elle se décompose en deux parties :
 

@@ -4,7 +4,7 @@ Le jury du diplôme d'Etat d'auxiliaire de puériculture est nommé par le préf
 
 - un directeur d'un institut de formation d'auxiliaires de puériculture ou d'un institut de formation de puéricultrices ;
 
-- un enseignant permanent d'un institut de formation d'auxiliaires de puériculture ou d'un institut de formation de puéricultrices ;
+- un formateur permanent d'un institut de formation d'auxiliaires de puériculture ou d'un institut de formation de puéricultrices ;
 
 - un infirmier cadre de santé ou une puéricultrice en exercice ;
 
@@ -12,10 +12,12 @@ Le jury du diplôme d'Etat d'auxiliaire de puériculture est nommé par le préf
 
 - un représentant d'un établissement sanitaire, social ou médico-social employant des auxiliaires de puériculture ou son représentant, membre de l'équipe de direction.
 
-Le préfet de région peut décider d'organiser des sous-groupes d'examinateurs. Dans ce cas, chaque sous-groupe est composé de trois personnes :
+Le préfet de région peut décider d'organiser des sous-groupes d'examinateurs.
 
-- un directeur d'un institut de formation d'auxiliaires de puériculture ou une puéricultrice ou un enseignant permanent d'un institut de formation d'auxiliaires de puériculture ou d'un institut de formation de puéricultrices ;
+Dans ce cas, chaque sous-groupe est composé de trois personnes :
 
-- une puéricultrice cadre de santé ou un infirmier cadre de santé ou une auxiliaire de puériculture, en exercice ;
+- un directeur d'un institut de formation d'auxiliaires de puériculture ou d'un institut de formation de puéricultrices ou un formateur permanent d'un institut de formation d'auxiliaires de puériculture ou d'un institut de formation de puéricultrices ;
+
+- une puéricultrice diplômée d'Etat ou une puéricultrice cadre de santé ou un infirmier cadre de santé exerçant dans les services d'enfants ou une auxiliaire de puériculture en exercice ;
 
 - un directeur d'un établissement sanitaire, social ou médico-social employant des auxiliaires de puériculture ou son représentant, membre de l'équipe de direction.

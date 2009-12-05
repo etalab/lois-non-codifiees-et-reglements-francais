@@ -1081,11 +1081,9 @@ Plusieurs types d'épreuves peuvent être organisés :
 
 - épreuves pratiques : préparation et réalisation de gestes techniques en salle de travaux pratiques ou en structure de soins ;
 
-- mises en situation professionnelle (MSP) : elles consistent en la participation du candidat à la prise en charge d'une personne dans la réalisation d'une ou plusieurs activités de la vie quotidienne ou d'un ou plusieurs soins. Elles se déroulent dans des structures où le candidat est en stage depuis au moins cinq jours. La durée d'une mise en situation professionnelle est comprise entre 30 minutes et 1 h 30. Le nombre d'examinateurs de la mise en situation professionnelle du module 1 est de deux : un infirmier, enseignant permanent dans un institut de formation d'aides-soignants et un infirmier ou une puéricultrice ou un aide-soignant ou une auxiliaire de puériculture ou une sage-femme ou un éducateur de jeunes enfants ou un cadre de santé.
+- mises en situation professionnelle (MSP) : elles consistent en la participation du candidat à la prise en charge d'une personne dans la réalisation d'une ou plusieurs activités de la vie quotidienne ou d'un ou plusieurs soins. Elles se déroulent dans des structures où le candidat est en stage depuis au moins cinq jours. La durée d'une mise en situation professionnelle est comprise entre 30 minutes et 1 h 30.
 
-Le nombre d'examinateurs de la mise en situation professionnelle du module 3 est de trois : un infirmier, enseignant permanent dans un institut de formation d'aides-soignants, un infirmier ou une puéricultrice titulaire ou non du diplôme de cadre de santé, et une sage-femme ou un aide-soignant ou une auxiliaire de puériculture.
-
-Les deux derniers examinateurs doivent justifier d'une expérience professionnelle d'au moins trois ans et exercer au sein de la structure dans laquelle se déroule la mise en situation professionnelle.
+Le nombre d'examinateurs des mises en situation professionnelle des modules 1 et 3 est de deux : un infirmier formateur permanent dans un institut de formation d'aides-soignants et un infirmier ou une puéricultrice ou un cadre de santé ou une sage-femme ou un éducateur de jeunes enfants ou un éducateur spécialisé ou un aide-soignant. Ce dernier doit justifier d'une expérience professionnelle d'au moins deux ans et exercer au sein de la structure dans laquelle se déroule la mise en situation professionnelle.
 
 Chaque mise en situation professionnelle se décompose en deux parties :
 
@@ -1109,42 +1107,52 @@ Les modalités d'évaluation et de validation de chaque module de formation sont
 <p align="center">ÉPREUVES</p>
 </td>
 <td width="151">
-<p align="center">MODALITÉS COMPLÉMENTAIRES</p>
+<p align="center">MODALITÉS<br/>complémentaires</p>
 </td>
 <td width="151">
 <p align="center">NOTATION</p>
 </td>
 <td width="151">
-<p align="center">CONDITIONS DE VALIDATION du module</p>
+<p align="center">CONDITIONS DE<br/>validation du module</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="76">
+<td width="76">
 <p align="center">1</p>
 </td>
 <td width="151">
-<p>Une épreuve écrite en deux parties : </p>
-<p>- une série de questions (QROC et/ou QCM) ; </p>
-<p>- un cas clinique. </p>
-<p>Et une épreuve de MSP avec prise en charge d'une personne et réalisation d'un ou deux soins. </p>
+<p>Une épreuve écrite en deux parties :</p>
+<p>- une série de questions (QROC et/ou</p>
+<p>QCM) ;</p>
+<p>- un cas clinique.</p>
 </td>
 <td width="151">
 <p>Durée : 2 heures. </p>
 <p>Epreuve anonyme. </p>
-<p>Organisée par l'institut. </p>
-<p>L'infirmier, enseignant permanent relève de l'institut. </p>
 </td>
-<td valign="top" width="151">
+<td width="151">
 <p>Sur 20 points : </p>
 <p>- questions sur 8 points. </p>
-<p>- cas clinique sur 12 points. </p>
-<p>Sur 20 points : </p>
-<p>- participation DDS sur 8 points. </p>
-<p>- réalisation du ou des soins sur 12 points </p>
+<p>- cas clinique sur 12 points.</p>
 </td>
-<td valign="top" width="151">
+<td width="151">
 <p>Obtenir une note égale ou supérieure à 20 sur 40 à l'ensemble des deux épreuves sans note inférieure à 8 sur 20 à l'une d'entre elles. </p>
 </td>
+</tr>
+<tr>
+<td width="76">
+<br/>
+</td>
+<td width="151">
+<p>Et une épreuve de MSP avec prise en charge d'une personne.</p>
+</td>
+<td width="151"/>
+<td width="151">
+<p>Sur 20 points :</p>
+<p>- participation D D S sur 8 points ;</p>
+<p>- réalisation du ou des soins sur 12 points.</p>
+</td>
+<td width="151"/>
 </tr>
 <tr>
 <td valign="top" width="76">
@@ -1170,12 +1178,9 @@ Les modalités d'évaluation et de validation de chaque module de formation sont
 <p align="center">3</p>
 </td>
 <td valign="top" width="151">
-<p>Une épreuve de MSP avec prise en charge d'une personne et réalisation de deux soins. </p>
+<p>Une épreuve de MSP avec prise en charge d'une personne. </p>
 </td>
-<td valign="top" width="151">
-<p>Organisée par la DDASS. </p>
-<p>Se déroule, sous le contrôle de la direction départementale des affaires sanitaires et sociales, en fin de formation. L'infirmier, enseignant permanent relève d'un autre institut que celui de l'élève.</p>
-</td>
+<td valign="top" width="151"/>
 <td valign="top" width="151">
 <p>Sur 30 points : </p>
 <p>- participation DDS sur 10 points.</p>
@@ -1253,6 +1258,7 @@ Les modalités d'évaluation et de validation de chaque module de formation sont
 <p>- un cas concret de transmission d'informations à réaliser à partir de la présentation de cas cliniques. </p>
 </td>
 <td valign="top" width="151">
+<p>Organisée en institut ou en structure de soins. </p>
 <p>Durée : 1 heure. </p>
 </td>
 <td valign="top" width="151">

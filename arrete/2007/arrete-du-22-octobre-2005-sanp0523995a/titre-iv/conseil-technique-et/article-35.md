@@ -6,7 +6,7 @@ Le conseil technique est présidé par le directeur départemental des affaires 
 
 a) Un représentant de l'organisme gestionnaire ;
 
-b) Un infirmier, enseignant permanent de l'institut de formation, élu chaque année par ses pairs ;
+b) Un infirmier, formateur permanent de l'institut de formation, élu chaque année par ses pairs ;
 
 c) Un aide-soignant d'un établissement accueillant des élèves en stage, désigné pour trois ans par le directeur départemental des affaires sanitaires et sociales ;
 

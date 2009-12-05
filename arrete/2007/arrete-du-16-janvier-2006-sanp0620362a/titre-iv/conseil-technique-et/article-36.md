@@ -6,7 +6,7 @@ Le conseil technique est présidé par le directeur départemental des affaires 
 
 a) Un représentant de l'organisme gestionnaire ;
 
-b) Une puéricultrice, enseignante permanente de l'institut de formation, élue chaque année par ses pairs ;
+b) Une puéricultrice, formatrice permanente de l'institut de formation, élue chaque année par ses pairs ;
 
 c) Deux auxiliaires de puériculture d'établissements accueillant des élèves auxiliaires de puériculture en stage, l'un exerçant dans un établissement hospitalier, l'autre dans un établissement d'accueil de la petite enfance, chacun désigné pour trois ans par le directeur départemental des affaires sanitaires et sociales ;
 

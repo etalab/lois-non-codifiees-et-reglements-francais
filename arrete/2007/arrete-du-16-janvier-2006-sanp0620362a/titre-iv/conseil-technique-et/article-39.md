@@ -4,7 +4,7 @@ Dans chaque institut, le directeur est assisté d'un conseil de discipline. Il e
 
 1° Le représentant de l'organisme gestionnaire siégeant au conseil technique ou son suppléant ;
 
-2° La puéricultrice, enseignante permanente siégeant au conseil technique ou son suppléant ;
+2° La puéricultrice, formatrice permanente siégeant au conseil technique ou son suppléant ;
 
 3° L'un des deux auxiliaires de puériculture, tiré au sort parmi les deux élus au conseil technique ou son suppléant ;
 

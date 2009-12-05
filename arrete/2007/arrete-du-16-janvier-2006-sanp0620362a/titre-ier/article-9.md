@@ -2,9 +2,9 @@
 
 L'épreuve orale d'admission, notée sur 20 points, est évaluée par :
 
-- un directeur d'un institut de formation d'auxiliaires de puériculture ou d'un institut de formation de puéricultrices ou d'un institut de formation en soins infirmiers ou une puéricultrice, enseignant permanent dans un institut de formation d'auxiliaires de puériculture ou dans un institut de formation de puéricultrices ou dans un institut de formation en soins infirmiers ;
+- un directeur d'un institut de formation d'auxiliaires de puériculture ou d'un institut de formation de puéricultrices ou d'un institut de formation en soins infirmiers ou une puéricultrice, formateur permanent dans un institut de formation d'auxiliaires de puériculture ou dans un institut de formation de puéricultrices ou dans un institut de formation en soins infirmiers ;
 
-- une puéricultrice cadre de santé ou une puéricultrice directeur d'un établissement ou service accueillant des enfants de moins de six ans ou un infirmier cadre de santé accueillant des élèves auxiliaires de puériculture en stage.
+- Une puéricultrice ayant une expérience minimum de trois ans ou un infirmier en fonction d'encadrement. Ces deux personnes exercent dans un service ou une structure accueillant des élèves auxiliaires de puériculture en stage.
 
 Elle se divise en deux parties et consiste en un entretien de vingt minutes maximum avec deux membres du jury, précédé de dix minutes de préparation :
 

@@ -2,9 +2,9 @@
 
 L'épreuve orale d'admission, notée sur 20 points, est évaluée par :
 
-- un directeur d'un institut de formation d'aides-soignants ou d'un institut de formation en soins infirmiers ou un cadre de santé ou un infirmier, enseignant permanent dans un institut de formation d'aides-soignants ou dans un institut de formation en soins infirmiers ;
+- un directeur d'institut de formation d'aides-soignants ou d'un institut de formation en soins infirmiers ou un infirmier, formateur permanent dans un institut de formation d'aides-soignants ou dans un institut de formation en soins infirmiers ;
 
--un infirmier, accueillant des élèves aides-soignants en stage, nommé dans le grade de cadre de santé lorsqu'il exerce au sein d'un établissement public de santé ou exerçant des fonctions d'encadrement depuis au moins trois ans lorsqu'il exerce dans un établissement de santé privé.
+- un infirmier exerçant des fonctions d'encadrement ou un infirmier ayant une expérience minimum de trois ans en exercice dans un service ou une structure accueillant des élèves aides-soignants en stage ;
 
 Elle se divise en deux parties et consiste en un entretien de vingt minutes maximum avec deux membres du jury, précédé de dix minutes de préparation :
 
