@@ -6,4 +6,4 @@ Pour les entités collectives, les modalités de calcul du montant maximal des p
 
 Le chargement des surfaces engagées par les entités collectives est déterminé à partir d'une déclaration annuelle de présence des animaux sur les terres concernées. Il tient compte de leur temps de présence.
 
-Pour le calcul du taux de chargement défini à l'article 9 du présent arrêté, les surfaces fourragères en pâturage collectif déclarées par les entités collectives peuvent être prises en compte pour la part correspondante utilisée par le contractant.
+Pour le calcul du taux de chargement défini à l'article 8 du présent arrêté, les surfaces fourragères en pâturage collectif déclarées par les entités collectives peuvent être prises en compte pour la part correspondante utilisée par le bénéficiaire.
