@@ -38,6 +38,8 @@
 - [Décret n°2009-125 du 3 février 2009 (BCFR0818029D)](decret-n2009-125-du-3-fevrier-2009-bcfr0818029d)
 - [Décret n°2009-1357 du 3 novembre 2009 (DEFH0900087D)](decret-n2009-1357-du-3-novembre-2009-defh0900087d)
 - [Décret n°2009-1486 du 3 décembre 2009 (DEVX0924429D)](decret-n2009-1486-du-3-decembre-2009-devx0924429d)
+- [Décret n°2009-1493 du 3 décembre 2009 (JUSC0927298D)](decret-n2009-1493-du-3-decembre-2009-jusc0927298d)
+- [Décret n°2009-1495 du 3 décembre 2009 (DEFD0925449D)](decret-n2009-1495-du-3-decembre-2009-defd0925449d)
 - [Décret n°2009-246 du 3 mars 2009 (ECET0829937D)](decret-n2009-246-du-3-mars-2009-ecet0829937d)
 - [Décret n°2009-248 du 3 mars 2009 (DEVU0827347D)](decret-n2009-248-du-3-mars-2009-devu0827347d)
 - [Décret n°2009-250 du 3 mars 2009 (ECES0826529D)](decret-n2009-250-du-3-mars-2009-eces0826529d)
