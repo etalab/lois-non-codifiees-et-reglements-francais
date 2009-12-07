@@ -67,6 +67,8 @@
 - [Décret n°2009-124 du 4 février 2009 (ECED0901767D)](decret-n2009-124-du-4-fevrier-2009-eced0901767d)
 - [Décret n°2009-126 du 4 février 2009 (BCFB0902440D)](decret-n2009-126-du-4-fevrier-2009-bcfb0902440d)
 - [Décret n°2009-127 du 4 février 2009 (DEFD0901322D)](decret-n2009-127-du-4-fevrier-2009-defd0901322d)
+- [Décret n°2009-1496 du 4 décembre 2009 (BCFF0929349D)](decret-n2009-1496-du-4-decembre-2009-bcff0929349d)
+- [Décret n°2009-1497 du 4 décembre 2009 (AGRT0912389D)](decret-n2009-1497-du-4-decembre-2009-agrt0912389d)
 - [Décret n°2009-249 du 4 mars 2009 (IOCO0903456D)](decret-n2009-249-du-4-mars-2009-ioco0903456d)
 - [Décret n°2009-252 du 4 mars 2009 (DEVE0903774D)](decret-n2009-252-du-4-mars-2009-deve0903774d)
 - [Décret n°2009-253 du 4 mars 2009 (DEFD0817992D)](decret-n2009-253-du-4-mars-2009-defd0817992d)
