@@ -2320,7 +2320,6 @@
 - [Arrêté du 26 décembre 2008 (DEVN0829746A)](arrete-du-26-decembre-2008-devn0829746a)
 - [Arrêté du 26 décembre 2008 (DEVN0829750A)](arrete-du-26-decembre-2008-devn0829750a)
 - [Arrêté du 26 décembre 2008 (DEVN0829754A)](arrete-du-26-decembre-2008-devn0829754a)
-- [Arrêté du 26 décembre 2008 (IOCC0828454A)](arrete-du-26-decembre-2008-iocc0828454a)
 - [Arrêté du 26 décembre 2008 (IOCC0830262A)](arrete-du-26-decembre-2008-iocc0830262a)
 - [Arrêté du 26 décembre 2008 (JUSA0828311A)](arrete-du-26-decembre-2008-jusa0828311a)
 - [Arrêté du 26 décembre 2008 (MAEA0829150A)](arrete-du-26-decembre-2008-maea0829150a)
