@@ -1,6 +1,6 @@
 # Article 1
 
-En application de l'article 2 du décret du 28 mai 1982 susvisé, les commissions administratives paritaires suivantes sont instituées auprès du directeur général de l'Institut national de la santé et de la recherche médicale (INSERM) :
+En application de l'article 2 du décret du 28 mai 1982 susvisé, les commissions administratives paritaires suivantes sont instituées auprès du président de l'Institut national de la santé et de la recherche médicale (INSERM) :
 
 Commission n° 1.-Directeurs de recherche ;
 

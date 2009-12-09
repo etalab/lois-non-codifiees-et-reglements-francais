@@ -1,6 +1,6 @@
 # Article 9
 
-Le dépouillement du scrutin est opéré par le bureau de vote central et, le cas échéant, par les bureaux de vote spéciaux.
+Le dépouillement du scrutin est opéré par le bureau de vote central et, le cas échéant, par les bureaux de vote spéciaux. Nonobstant les dispositions des articles 7 et 8 du présent arrêté, le dépouillement peut être assuré par un système automatique. Les modalités propres à ce dépouillement sont fixées par décision du président de l'INSERM.
 
 Il n'est procédé au dépouillement du scrutin que pour les commissions administratives paritaires pour lesquelles au moins la moitié des électeurs inscrits ont voté.
 

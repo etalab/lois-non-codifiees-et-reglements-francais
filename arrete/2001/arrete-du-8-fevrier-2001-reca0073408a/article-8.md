@@ -2,19 +2,19 @@
 
 La réception et le recensement des votes par correspondance sont effectués dans les conditions suivantes par le bureau de vote central et, lorsqu'ils sont institués, par les bureaux de vote spéciaux.
 
-A la clôture du scrutin, les enveloppes no 3 puis les enveloppes no 2 sont ouvertes. Au fur et à mesure de l'ouverture des enveloppes n° 2, la liste électorale est émargée et l'enveloppe no 1 est déposée dans l'urne sans être ouverte.
+A la clôture du scrutin, chaque bureau de vote ouvre les enveloppes T, vérifie si toutes les indications prévues à l'article 7 ci-dessus y figurent, émarge la liste électorale et rassemble les enveloppes de vote valides.
 
 Sont mises à part, sans être ouvertes :
 
-- les enveloppes n° 3 parvenues après l'heure de clôture du scrutin ;
+- les enveloppes T parvenues après l'heure de clôture du scrutin ;
 
-- les enveloppes n° 2 sur lesquelles ne figurent pas le nom et la signature du votant ou sur lesquelles le nom est illisible ;
+- les enveloppes T sur lesquelles ne figurent pas une ou plusieurs des indications prévues à l'article 7 ou sur lesquelles l'une ou plusieurs de celles-ci sont illisibles ;
 
-- les enveloppes n° 2 multiples parvenues sous la signature d'un même agent ;
+- les enveloppes T multiples parvenues sous la signature d'un même agent ;
 
-- les enveloppes n° 1 portant une mention ou un signe distinctif ;
+- les enveloppes de vote portant une mention ou un signe distinctif ;
 
-- les enveloppes n° 1 parvenues en nombre multiple sous une même enveloppe.
+- les enveloppes de vote parvenues en nombre multiple sous une même enveloppe T.
 
 Le nom des électeurs dont émanent ces enveloppes n'est pas émargé sur la liste électorale.
 
