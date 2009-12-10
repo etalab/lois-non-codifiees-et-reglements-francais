@@ -172,7 +172,6 @@
 - [Arrêté du 7 février 1990 (SPSS9000320A)](arrete-du-7-fevrier-1990-spss9000320a)
 - [Arrêté du 7 juillet 1990 (AGRS9001440A)](arrete-du-7-juillet-1990-agrs9001440a)
 - [Arrêté du 7 juin 1990 (COMA9000013A)](arrete-du-7-juin-1990-coma9000013a)
-- [Arrêté du 7 juin 1990 (MENH9001331A)](arrete-du-7-juin-1990-menh9001331a)
 - [Arrêté du 7 juin 1990 (PRMZ9005019A)](arrete-du-7-juin-1990-prmz9005019a)
 - [Arrêté du 7 juin 1990 (SPSS9001155A)](arrete-du-7-juin-1990-spss9001155a)
 - [Arrêté du 7 novembre 1990 (BUDR9005052A)](arrete-du-7-novembre-1990-budr9005052a)

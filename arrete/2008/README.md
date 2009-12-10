@@ -1227,6 +1227,7 @@
 - [Arrêté du 30 octobre 2008 (DEFH0823671A)](arrete-du-30-octobre-2008-defh0823671a)
 - [Arrêté du 30 octobre 2008 (DEVK0822971A)](arrete-du-30-octobre-2008-devk0822971a)
 - [Arrêté du 30 octobre 2008 (ECEK0800072A)](arrete-du-30-octobre-2008-ecek0800072a)
+- [Arrêté du 30 octobre 2008 (ESRF0825254A)](arrete-du-30-octobre-2008-esrf0825254a)
 - [Arrêté du 30 octobre 2008 (IOCA0826244A)](arrete-du-30-octobre-2008-ioca0826244a)
 - [Arrêté du 30 octobre 2008 (MAEA0821528A)](arrete-du-30-octobre-2008-maea0821528a)
 - [Arrêté du 30 septembre 2008 (AGRP0812588A)](arrete-du-30-septembre-2008-agrp0812588a)
