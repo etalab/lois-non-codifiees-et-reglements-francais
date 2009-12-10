@@ -6,7 +6,7 @@ I.-Fonctions exercées en administration centrale
 
 2° Chef de service d'inspection ou de contrôle, vice-président de conseil et chef de corps.
 
-3° Directeur général et directeur.
+3° Directeur général, délégué général, délégué général adjoint et directeur.
 
 4° Chef de service.
 
