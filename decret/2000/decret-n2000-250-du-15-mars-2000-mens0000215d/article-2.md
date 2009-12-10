@@ -8,6 +8,8 @@ Ecole centrale de Lyon ;
 
 Ecole centrale de Nantes ;
 
+Ecole nationale d'ingénieurs de Saint-Etienne ;
+
 Ecole nationale supérieure des arts et industries textiles ;
 
 Ecole centrale de Marseille ;
