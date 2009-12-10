@@ -1,6 +1,6 @@
 # Article 6-2
 
-I. - Un transporteur ne peut se prévaloir des dispositions des règlements (CEE) n° 3118/93 du Conseil, du 25 octobre 1993, précité et (CE) n° 12/98 du Conseil, du 11 décembre 1997, précité lorsqu'il exerce sur le territoire national :
+I. - Sans préjudice de l'article 29-1, un transporteur ne peut se prévaloir des dispositions des règlements (CEE) n° 3118/93 du Conseil, du 25 octobre 1993, précité et (CE) n° 12/98 du Conseil, du 11 décembre 1997, précité lorsqu'il exerce sur le territoire national :
 
 - une activité de transport intérieur de façon habituelle, continuelle ou régulière ;
 

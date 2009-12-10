@@ -5,3 +5,5 @@ Sur un périmètre qu'elles définissent d'un commun accord, deux ou plusieurs a
 Ce syndicat mixte peut organiser, en lieu et place de ses membres, des services publics réguliers ainsi que des services à la demande. Il peut à ce titre assurer, en lieu et place de ses membres, la réalisation et la gestion d'équipements et d'infrastructures de transport.
 
 Il est régi par les articles L. 5721-2 et suivants du code général des collectivités territoriales.
+
+Il peut comprendre des syndicats mixtes définis à l'article L. 5711-1 ou à l'article L. 5721-2 du même code et compétents en matière d'organisation des transports.

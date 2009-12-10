@@ -2,7 +2,7 @@
 
 Sont chargés de constater les infractions aux dispositions législatives ou réglementaires concernant les obligations visées à l'article 1er, outre les officiers de police judiciaire :
 
-1° Les inspecteurs du travail ;
+1° Les inspecteurs et les contrôleurs du travail ;
 
 2° Les contrôleurs des lois sociales en agriculture ;
 

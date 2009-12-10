@@ -20,3 +20,5 @@
 - [Loi n° 84-747 du 2 août 1984](loi-n-84-747-du-2-aout-1984)
 - [Loi n° 84-834 du 13 septembre 1984](loi-n-84-834-du-13-septembre-1984)
 - [Loi n°83-581 du 5 juillet 1983](loi-n83-581-du-5-juillet-1983)
+- [Loi n°84-4 du 3 janvier 1984](loi-n84-4-du-3-janvier-1984)
+- [Loi n°84-9 du 4 janvier 1984](loi-n84-9-du-4-janvier-1984)

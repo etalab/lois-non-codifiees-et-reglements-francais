@@ -12,6 +12,8 @@ II. -Tout contrat de transport public de marchandises ou tout contrat relatif au
 
 Sans préjudice de dispositions législatives en matière de contrat et à défaut de convention écrite définissant les rapports entre les parties au contrat sur les matières mentionnées aux alinéas précédents, les clauses de contrats types s'appliquent de plein droit. Ces contrats types sont établis par décret, après avis du conseil national des transports.
 
+Sans préjudice des dispositions impératives issues des conventions internationales et à défaut de convention écrite définissant les rapports entre les parties au contrat sur les matières mentionnées ci-dessus, les clauses des contrats types s'appliquent de plein droit aux contrats de commission de transport ayant pour objet une liaison internationale et aux contrats de transport international.
+
 III. (supprimé)
 
 IV. - La rémunération des commissionnaires de transport et des auxiliaires de transport est fixée en fonction des services effectivement rendus. Elle est supportée par ceux qui en bénéficient.

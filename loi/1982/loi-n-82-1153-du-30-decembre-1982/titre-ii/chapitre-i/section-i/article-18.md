@@ -4,9 +4,11 @@ Il est créé, à compter du 1er janvier 1983, un établissement public industri
 
 Cet établissement a pour objet :
 
-- d'exploiter, selon les principes du service public, les services de transport ferroviaire de voyageurs sur le réseau ferré national ;
+- d'exploiter, selon les principes du service public, les services de transport ferroviaire de voyageurs sur le réseau ferré national, sous réserve des dispositions du premier alinéa de l'article 17-2 ;
 
 - d'exploiter d'autres services de transport ferroviaire, y compris internationaux ;
+
+-de gérer, de façon transparente et non discriminatoire, les gares de voyageurs qui lui sont confiées par l'Etat ou d'autres personnes publiques et de percevoir à ce titre auprès des entreprises ferroviaires toute redevance ;
 
 - d'assurer, selon les principes du service public, les missions de gestion de l'infrastructure prévues à l'article 1er de la loi n° 97-135 du 13 février 1997 portant création de l'établissement public "Réseau ferré de France".
 

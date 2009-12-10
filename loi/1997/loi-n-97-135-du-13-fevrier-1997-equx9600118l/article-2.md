@@ -1,6 +1,6 @@
 # Article 2
 
-Le conseil d'administration de Réseau ferré de France est constitué conformément aux dispositions de la loi n° 83-675 du 26 juillet 1983 relative à la démocratisation du secteur public.
+Le conseil d'administration de Réseau ferré de France est constitué conformément aux dispositions de la loi n° 83-675 du 26 juillet 1983 relative à la démocratisation du secteur public. Pour l'application à Réseau ferré de France de l'article 5 de cette loi, la personnalité mentionnée au dernier alinéa du même article est choisie parmi les représentants des usagers du service de transport public.
 
 Le président du conseil d'administration est nommé parmi les membres du conseil, sur proposition de celui-ci, par décret.
 

@@ -24,7 +24,7 @@ Nonobstant les dispositions de l'article 1er, demeurent en vigueur, dans leur r�
 
 11° En tant qu'ils s'appliquent aux collectivités et organismes mentionnés à l'article L. 323-2, les quatre premiers alinéas de l'article L. 323-5, le premier alinéa de l'article L. 323-8, les articles L. 323-8-7 et L. 323-8-8, le cinquième alinéa de l'article L. 323-21 et l'article L. 323-34 ;
 
-12° Le neuvième alinéa de l'article L. 342-3 et le dixième alinéa de ce même article en tant qu'il s'applique aux entreprises de transport ;
+12° (Abrogé)
 
 13° L'article L. 351-13, en tant qu'il s'applique aux personnes mentionnées aux 1° et 2° de ce même article ;
 

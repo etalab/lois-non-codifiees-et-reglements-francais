@@ -10,6 +10,6 @@ Les ressources de Réseau ferré de France sont constituées par :
 
 -tous autres concours, notamment ceux des collectivités territoriales.
 
-Le calcul des redevances ci-dessus mentionnées tient notamment compte du coût de l'infrastructure, de la situation du marché des transports et des caractéristiques de l'offre et de la demande, des impératifs de l'utilisation optimale du réseau ferré national et de l'harmonisation des conditions de la concurrence intermodale ; les règles de détermination de ces redevances sont fixées par décret en Conseil d'Etat.
+Le calcul des redevances ci-dessus mentionnées tient notamment compte du coût de l'infrastructure, de la situation du marché des transports et des caractéristiques de l'offre et de la demande, des impératifs de l'utilisation optimale du réseau ferré national et de l'harmonisation des conditions de la concurrence intermodale ; il tient compte, lorsque le marché s'y prête, de la valeur économique, pour l'attributaire du sillon, de l'utilisation du réseau ferré national et respecte les gains de productivité réalisés par les entreprises ferroviaires ; les règles de détermination de ces redevances sont fixées par décret en Conseil d'Etat. Les principes d'évolution de ces redevances sont fixés de façon pluriannuelle.
 
-Réseau ferré de France peut, dès sa création,      procéder à une offre au public de titres financiers et émettre tout titre représentatif d'un droit de créance.
+Réseau ferré de France peut, dès sa création, procéder à une offre au public de titres financiers et émettre tout titre représentatif d'un droit de créance.

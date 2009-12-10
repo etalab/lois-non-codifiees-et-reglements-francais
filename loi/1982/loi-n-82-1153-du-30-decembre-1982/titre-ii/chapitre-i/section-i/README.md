@@ -1,5 +1,8 @@
-# Section I : De l'organisation du service public du transport ferroviaire.
+# Section I : De l'organisation du transport ferroviaire et du service public ferroviaire.
 
+- [Article 17-1](article-17-1.md)
+- [Article 17-2](article-17-2.md)
+- [Article 17-3](article-17-3.md)
 - [Article 18](article-18.md)
 - [Article 18-1](article-18-1.md)
 - [Article 19](article-19.md)
