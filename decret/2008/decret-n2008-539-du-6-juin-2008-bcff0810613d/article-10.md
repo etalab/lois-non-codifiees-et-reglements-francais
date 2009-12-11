@@ -2,7 +2,7 @@
 
 Le montant de la garantie individuelle du pouvoir d'achat :
 
-― ne peut être versé aux fonctionnaires rémunérés sur la base d'un ou des indices détenus au titre d'un emploi fonctionnel sur une des années bornes de la période de référence, à l'exception des emplois fonctionnels ouverts aux agents de catégorie C ;
+― ne peut être versé aux fonctionnaires rémunérés sur la base d'un ou des indices détenus au titre d'un emploi fonctionnel sur une des années bornes de la période de référence, à l'exception des emplois fonctionnels ouverts aux agents de catégorie C et de catégorie B ;
 
 ― n'est pas versé aux agents en poste à l'étranger au 31 décembre de l'année qui clôt la période de référence ;
 
