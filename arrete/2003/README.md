@@ -468,7 +468,6 @@
 - [Arrêté du 16 décembre 2003 (EQUP0301581A)](arrete-du-16-decembre-2003-equp0301581a)
 - [Arrêté du 16 décembre 2003 (EQUP0301582A)](arrete-du-16-decembre-2003-equp0301582a)
 - [Arrêté du 16 décembre 2003 (SOCF0312020A)](arrete-du-16-decembre-2003-socf0312020a)
-- [Arrêté du 16 janvier 2003 (AGRA0300094A)](arrete-du-16-janvier-2003-agra0300094a)
 - [Arrêté du 16 janvier 2003 (AGRG0300007A)](arrete-du-16-janvier-2003-agrg0300007a)
 - [Arrêté du 16 janvier 2003 (AGRR0300144A)](arrete-du-16-janvier-2003-agrr0300144a)
 - [Arrêté du 16 juillet 2003 (AGRG0301468A)](arrete-du-16-juillet-2003-agrg0301468a)
