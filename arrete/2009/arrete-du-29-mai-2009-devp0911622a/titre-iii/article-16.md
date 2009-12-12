@@ -4,7 +4,7 @@ Formation, examens et certificats de formation.
 
 1. Les certificats de formation prévus au 8.2.1.1 de l'ADR sont délivrés et renouvelés par un organisme agréé selon la procédure visée à l'article 19.
 
-2. La formation et l'examen prévus au 8.2.1.7 de l'ADN sont organisés par un organisme agréé selon la procédure visée à l'article 19. Les attestations prévues au 8.2 de l'ADN sont délivrées et renouvelées par le préfet du Bas-Rhin ― service de navigation de Strasbourg.
+2. Les formations et les examens prévus aux 8. 2. 1. 3, 8. 2. 1. 5 et 8. 2. 1. 7 de l'ADN sont organisés par un organisme agréé selon la procédure visée à l'article 19. Les attestations prévues au 8. 2. 2. 8 de l'ADN sont délivrées et renouvelées par le préfet du Bas-Rhin - service de navigation de Strasbourg.
 
 3. Conseiller à la sécurité : organisme d'examen.
 

@@ -1,8 +1,8 @@
 # Article Annexe I
 
-**DISPOSITIONS SPÉCIFIQUES RELATIVES AU TRANSPORT PAR ROUTE DE MARCHANDISES DANGEREUSES**
+DISPOSITIONS SPÉCIFIQUES RELATIVES AU TRANSPORT PAR ROUTE DE MARCHANDISES DANGEREUSES
 
-**1. Dispositions générales**
+1. Dispositions générales
 
 _1. 1. La présente annexe est composée :_
 
@@ -56,7 +56,7 @@ Lorsqu'il est fait référence à un article du présent arrêté, le numéro es
 
 Lorsqu'il est fait référence à une partie, section, sous-section ou à un paragraphe de la présente annexe, le numéro est suivi de la mention : de l'annexe I ou de la présente annexe I.
 
-**2. Dispositions particulières applicables à tous les transports par route de marchandises dangereuses**
+2. Dispositions particulières applicables à tous les transports par route de marchandises dangereuses
 
 _2. 1. Missions respectives des différents intervenants lors des opérations de chargement et de déchargement._
 
@@ -167,6 +167,8 @@ Enfin, s'il n'est pas possible d'opérer autrement, il est toléré de procéder
 -d'hydrocarbures liquides (n° ONU 1202, n° ONU 1203, n° ONU 3256 [uniquement huile de chauffe lourde] et n° ONU 3475) ;
 
 -et, dans la limite de capacité de 8 m ³ par unité de transport, des matières de la classe 6. 1 des n <sup>os </sup>ONU 1593, 1710, 1897 et 2831.
+
+Pour les réservoirs fixes de stockage de GPL non couverts par les dispositions du 3. 5 de la présente annexe I, s'il n'est pas possible d'opérer autrement, il est autorisé de procéder au transfert des hydrocarbures gazeux en mélange liquéfié n. s. a du numéro ONU 1965 du réservoir fixe dans une citerne afin de permettre la reprise du réservoir en centre de maintenance et / ou atelier de réparation.
 
 2. 2. 1. 4. Des dérogations aux dispositions du 2. 2. 1 de la présente annexe I peuvent être accordées par décision du préfet. Par ailleurs, les interdictions prévues aux 2. 2. 1. 2 et 2. 2. 1. 3 ci-dessus ne s'appliquent pas aux dessertes de chantier sur la voie publique.
 
@@ -304,7 +306,7 @@ _2. 6. Dispositions spéciales relatives à la classe 7._
 
 2. 6. 2. Une consigne doit préciser au conducteur les numéros de téléphone des services ou entreprises visés au 2. 6. 1 de la présente annexe I.
 
-**3. Dispositions particulières applicables aux seuls transports nationaux par route de marchandises dangereuses**
+3. Dispositions particulières applicables aux seuls transports nationaux par route de marchandises dangereuses
 
 _3. 1. Transport de marchandises dangereuses dans les véhicules de transport en commun de personnes._
 
@@ -428,7 +430,7 @@ Les dispositions relatives au 1. 10. 3. 2 ne s'appliquent pas à ces transports.
 
 _3. 5. Dispositions spéciales relatives aux réservoirs fixes de stockage de GPL._
 
-Les réservoirs fixes de stockage, d'un volume n'excédant pas 12 000 litres, contenant des hydrocarbures gazeux en mélange liquéfié n. s. a. (classe 2, n° ONU 1965) peuvent être transportés, du lieu d'utilisation au centre de maintenance et / ou de réparation, s'ils contiennent une quantité de gaz inférieure ou égale à 500 kg. Dans ce cas :
+Les réservoirs fixes de stockage, d'un volume n'excédant pas 8 000 litres, contenant des hydrocarbures gazeux en mélange liquéfié n. s. a du n° ONU 1965 peuvent être transportés, du lieu d'utilisation au centre de maintenance et / ou atelier de réparation, si la masse du réservoir et du produit contenu est inférieure ou égale à 1 600 kg. Dans ce cas :
 
 1. Les unités de transport sont de type FL, tel que défini au 9. 1. 1. 2. Les véhicules dont la date de première mise en circulation est postérieure au 30 juin 1993 sont soumis aux dispositions du 3. 6 de la présente annexe I.
 
@@ -464,9 +466,9 @@ a) Formation de base : formation mentionnée au 8. 2. 1. 2.
 
 Les conducteurs des véhicules mentionnés aux 8. 2. 1. 3. et 8. 2. 1. 4 doivent en plus suivre la formation spécialisée qui, parmi les suivantes, est adaptée à leur cas particulier.
 
-b) Spécialisation classe 1 : formation spécialisée mentionnée au 8. 2. 1. 4, requise pour la conduite des véhicules mentionnés au 8. 5 (S1), transportant des matières et objets de la classe 1 autres que les matières et objets explosibles de la division 1. 4, groupe de compatibilité S ;
+b) Spécialisation classe 1 : formation spécialisée mentionnée au 8. 2. 1. 4, requise pour la conduite des véhicules mentionnés au 8. 5 (S1), transportant des matières et objets de la classe 1 autres que les matières et objets explosibles de la division 1. 4, groupe de compatibilité S, ou pour la conduite des MEMU transportant des chargements en commun de matières ou d'objets de la classe 1 et de matières de la classe 5. 1 ;
 
-c) Spécialisation citernes : formation spécialisée mentionnée au 8. 2. 1. 3, restreinte aux matières des classes 3, 4. 1, 4. 2, 4. 3, 5. 1, 5. 2, 6. 1, 6. 2, 8, 9, requise pour le transport de ces matières en véhicules mentionnés au 8. 2. 1. 3 ;
+c) Spécialisation " citernes " : formation spécialisée mentionnée au 8. 2. 1. 3, requise pour le transport des marchandises dangereuses autres que celles de la classe 2 en véhicules ou en MEMU mentionnés au 8. 2. 1. 3 ;
 
 d) Spécialisation citernes gaz : formation spécialisée mentionnée au 8. 2. 1. 3, restreinte aux matières de la classe 2, requise pour le transport de ces matières en véhicules mentionnés au 8. 2. 1. 3 ;
 
@@ -595,7 +597,7 @@ _4. 7. Renouvellement du certificat._
 
 Lorsque le titulaire du certificat a suivi avec succès une formation de recyclage prévue aux 8. 2. 1. 5 et 8. 2. 2. 8. 2, son certificat doit être renouvelé en utilisant la page 2 uniquement si la formation de recyclage a la même étendue de validité que les mentions initiales de la page 1 et si aucune mention d'extension de validité n'est portée sur la page 3 ou sur la page 4. Dans le cas contraire, il doit être délivré un nouveau certificat. Le cas échéant, les pages 3 et 4 du nouveau certificat peuvent être utilisées pour expliciter les extensions mentionnées au 4. 6 de la présente annexe I.
 
-**5. Dispositions relatives aux contrôles des transports par route des marchandises dangereuses**
+5. Dispositions relatives aux contrôles des transports par route des marchandises dangereuses
 
 5. 1. Les contrôles mentionnés au 1. 8. 1 sont effectués conformément à l'article 3 du règlement (CEE) n° 4060 / 89 et à l'article 1er du règlement (CEE) n° 3912 / 92, ainsi qu'aux dispositions des 5. 1 à 5. 6 de la présente annexe I.
 

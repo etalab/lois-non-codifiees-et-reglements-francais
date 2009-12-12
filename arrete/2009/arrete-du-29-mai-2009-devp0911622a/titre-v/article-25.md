@@ -54,7 +54,7 @@ L'organisme agréé doit disposer d'une procédure de contrôle de substitution 
 
 e) Les citernes à déchets conformes aux dispositions de l'appendice C.5 du RTMDR en vigueur au 31 décembre 1998, dont l'épreuve initiale a eu lieu avant le 1er juillet 1999, pourront continuer à être utilisées pendant 25 ans au plus après la date de leur épreuve initiale.
 
-f) Les citernes destinées au transport d'émulsions-mère à base de nitrate d'ammonium, conformes aux dispositions de l'article 27 de l'arrêté du 1er juin 2001 modifié relatif au transport des marchandises dangereuses par route tel qu'applicable au 30 juin 2004, peuvent continuer à être utilisées sous réserve du respect de la disposition spéciale TU39 du  4.3.5.
+f) Les citernes destinées au transport d'émulsions-mère à base de nitrate d'ammonium, conformes aux dispositions de l'article 27 de l'arrêté du 1er juin 2001 modifié relatif au transport des marchandises dangereuses par route tel qu'applicable au 30 juin 2004, peuvent continuer à être utilisées sous réserve du respect de la disposition spéciale TU39 du 4.3.5.
 
 g) Les citernes soumises aux dispositions transitoires du présent article, utilisées pour les seuls transports intérieurs à la France, ne font pas l'objet de l'affectation à un code-citerne défini au 4.3.3.1 ou au 4.3.4.1.
 
@@ -68,7 +68,7 @@ b) Les véhicules identifiés ci-après mis en circulation avant le 1er juillet 
 
 ― les véhicules remorqués porteurs de citernes destinées au transport des n°s ONU 1005, 1202 ou 1965, ou de citernes dédiées au transport des matières des n°s ONU 1136, 1267, 1999, 3256 ou 3257 ;
 
-― les véhicules à moteur et les véhicules remorqués porteurs de citernes à déchets conformes aux dispositions de l'appendice C.5 du RTMDR.
+― les véhicules à moteur et les véhicules remorqués porteurs de citernes à déchets opérant sous vide.
 
 Les véhicules remorqués porteurs de citernes destinées au transport des matières des n°s ONU 1951 ou 1977, mis en circulation avant le 1er juillet 1993, qui, à partir du 1er janvier 2010, ne répondent pas aux prescriptions des remarques d et g du 9.2.3.1 contenues dans le tableau du 9.2.1 relatives à l'équipement de freinage, peuvent continuer à circuler pendant 35 ans au plus après la date de leur première mise en circulation.
 
@@ -90,4 +90,4 @@ Les wagons-citernes construits selon les prescriptions du RTMD applicables à le
 
 7. Dispositions relatives aux bateaux.
 
-La prescription « NRT » mentionnée dans les tableaux des dispositions transitoires du chapitre 1.6 de l'ADN, sous-section 1.6.7.1 pour les bateaux à cargaison sèche, et sous-section 1.6.7.2 pour les bateaux-citernes, est également applicable aux bateaux construits et équipés après le 31 décembre 1994 et avant le 31 mars 1998.
+La prescription  NRT  mentionnée dans les tableaux des dispositions transitoires du chapitre 1.6 de l'ADN, sous-section 1.6.7.1 pour les bateaux à cargaison sèche, et sous-section 1.6.7.2 pour les bateaux-citernes, est également applicable aux bateaux construits et équipés après le 31 décembre 1994 et avant le 31 mars 1998.

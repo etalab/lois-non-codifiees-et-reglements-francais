@@ -12,7 +12,7 @@ Les flexibles utilisés pour le remplissage et la vidange de citernes de marchan
 
 3. Citernes équipées de couvercles amovibles mises sous pression de gaz :
 
-Les véhicules-citernes immatriculés en France et les wagons-citernes mis en circulation en France utilisés pour le transport de matières solides ou liquides, mis sous pression de gaz supérieure à 0,5 bar (pression manométrique), et équipés d'une ou plusieurs ouvertures obturées par un couvercle amovible sont soumises aux dispositions particulières définies à l'appendice IV.8 du présent arrêté.
+Les véhicules-citernes immatriculés en France et les wagons-citernes mis en circulation en France utilisés pour le transport de matières solides ou liquides, mis sous pression de gaz supérieure à 0,5 bar (pression manométrique), et équipés d'une ou plusieurs ouvertures obturées par un couvercle amovible sont soumis aux dispositions particulières définies à l'appendice IV.8 du présent arrêté.
 
 4. Citernes munies d'un revêtement protecteur :
 

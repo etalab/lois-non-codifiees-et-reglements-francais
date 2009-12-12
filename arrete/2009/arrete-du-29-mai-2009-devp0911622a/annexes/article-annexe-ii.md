@@ -1,8 +1,8 @@
 # Article Annexe II
 
-**DISPOSITIONS SPÉCIFIQUES RELATIVES AU TRANSPORT PAR CHEMIN DE FER DE MARCHANDISES DANGEREUSES**
+DISPOSITIONS SPÉCIFIQUES RELATIVES AU TRANSPORT PAR CHEMIN DE FER DE MARCHANDISES DANGEREUSES
 
-**1. Dispositions générales**
+1. Dispositions générales
 
 _1. 1. La présente annexe est composée :_
 
@@ -40,7 +40,7 @@ Lorsqu'il est fait référence à un article du présent arrêté, le numéro es
 
 Lorsqu'il est fait référence à une partie, section, sous-section ou à un paragraphe de la présente annexe, les numéros sont suivis des mots : de l'annexe II ou de la présente annexe II.
 
-**2. Dispositions particulières applicables à tous les transports par voie de chemin de fer de marchandises dangereuses**
+2. Dispositions particulières applicables à tous les transports par voie de chemin de fer de marchandises dangereuses
 
 _2. 1. Missions respectives des différents intervenants lors des opérations de chargement et de déchargement et avant acceptation au transport des wagons._
 
@@ -276,7 +276,7 @@ Passé ce délai, le transporteur ferroviaire est autorisé à faire l'enlèveme
 
 Les wagons à remettre sur embranchement particulier doivent être livrés de jour à la première desserte qui suit l'arrivée des wagons ou par desserte spéciale à une heure convenue avec le destinataire, si cette desserte permet d'éviter le stationnement des wagons en gare pendant la nuit.
 
-**3. Dispositions particulières applicables aux transports nationaux par fer de marchandises dangereuses**
+3. Dispositions particulières applicables aux transports nationaux par fer de marchandises dangereuses
 
 _3. 1. Transport de marchandises dangereuses dans les trains de voyageurs._
 
@@ -314,7 +314,7 @@ L'obligation figurant au 5. 4. 1. 1. 1, consistant à porter une croix dans la c
 
 3. 2. 1. 2. Transports pour compte propre.
 
-Les transports pour les besoins propres du transporteur ferroviaire en quantité n'excédant pas les limites fixées au tableau du 1. 1. 3. 1 ne sont pas soumis à l'obligation du document prévu au 5. 4. 0.
+Les transports pour les besoins propres du transporteur ferroviaire en quantité n'excédant pas les limites fixées au tableau du 1. 1. 3. 6 ne sont pas soumis à l'obligation du document prévu au 5. 4. 0.
 
 3. 2. 2. Placardage et signalisation des wagons ; cas particuliers.
 
