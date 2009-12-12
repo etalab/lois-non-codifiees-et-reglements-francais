@@ -1,0 +1,3 @@
+# Article 1
+
+En application du 1° de l'article 11 du décret du 12 septembre 2008 susvisé, peut être candidat au recrutement dans le corps des officiers du corps technique et administratif de l'armée de terre tout titulaire de titres reconnus par le ministère de l'enseignement supérieur et de la recherche comme équivalents aux diplômes exigés par le décret du 12 septembre 2008 précité, ou justifiant d'une attestation d'inscription dans un cycle de formation dans un établissement d'enseignement supérieur français dont la condition normale d'accès est d'être titulaire d'un diplôme ou d'un titre de formation au moins de même niveau que les diplômes ou titres fixés par le décret du 12 septembre 2008 susmentionné.

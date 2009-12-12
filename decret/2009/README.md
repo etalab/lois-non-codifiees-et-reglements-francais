@@ -264,6 +264,8 @@
 - [Décret n°2009-144 du 9 février 2009 (AGRE0815812D)](decret-n2009-144-du-9-fevrier-2009-agre0815812d)
 - [Décret n°2009-149 du 9 février 2009 (DEVX0902379D)](decret-n2009-149-du-9-fevrier-2009-devx0902379d)
 - [Décret n°2009-1522 du 9 décembre 2009 (BCFF0929784D)](decret-n2009-1522-du-9-decembre-2009-bcff0929784d)
+- [Décret n°2009-1528 du 9 décembre 2009 (ECEL0917025D)](decret-n2009-1528-du-9-decembre-2009-ecel0917025d)
+- [Décret n°2009-1529 du 9 décembre 2009 (ECEL0923456D)](decret-n2009-1529-du-9-decembre-2009-ecel0923456d)
 - [Décret n°2009-266 du 9 mars 2009 (DEVA0829114D)](decret-n2009-266-du-9-mars-2009-deva0829114d)
 - [Décret n°2009-267 du 9 mars 2009 (ECET0818847D)](decret-n2009-267-du-9-mars-2009-ecet0818847d)
 - [Décret n°2009-268 du 9 mars 2009 (ECET0828296D)](decret-n2009-268-du-9-mars-2009-ecet0828296d)

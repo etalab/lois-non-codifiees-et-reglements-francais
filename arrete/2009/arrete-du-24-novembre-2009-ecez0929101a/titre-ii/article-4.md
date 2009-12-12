@@ -1,0 +1,3 @@
+# Article 4
+
+Lorsque l'exploitant envisage une évolution du SIENID telle qu'une installation située dans son périmètre présente les caractéristiques techniques d'une installation individuelle au sens de l'arrêté du 31 juillet 2007 susvisé, il transmet au délégué une demande de classement en installation nucléaire de base secrète (INBS) conformément aux dispositions des articles R. * 1333-40 et suivants du code de la défense. La modification du périmètre du SIENID résultant de cette évolution est soumise à la procédure prévue à l'article 3 du présent arrêté, sauf lorsqu'elle entraîne le déclassement total du SIENID mentionné à l'article 6 ci-dessous.
