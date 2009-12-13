@@ -2,7 +2,7 @@
 
 Les approbations prévues à l'article 85 du décret du 28 septembre 1979 susvisé sont données :
 
-Pour les établissements ou organismes relevant du délégué général pour l'armement, par le directeur de l'expertise technique et le directeur des essais, respectivement pour chacun de leurs établissements et organismes et, pour tous les autres établissements et organismes, par le directeur de la qualité et du progrès.
+Pour les établissements ou organismes relevant du délégué général pour l'armement ou pour lesquels la direction générale de l'armement exerce la tutelle, par le directeur technique.
 
 Pour les établissements ou organismes relevant du chef d'état-major de l'armée de terre, par le directeur central du matériel de l'armée de terre.
 
