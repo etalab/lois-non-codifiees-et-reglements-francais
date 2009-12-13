@@ -1,0 +1,3 @@
+# CHAPITRE VII : LE BUREAU DES AFFAIRES GENERALES
+
+- [Article 68](article-68.md)

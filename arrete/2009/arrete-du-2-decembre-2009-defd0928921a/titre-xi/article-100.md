@@ -1,0 +1,3 @@
+# Article 100
+
+L'inspecteur de l'armement, chef de l'inspection de l'armement, le directeur des opérations, le directeur de la stratégie, le directeur du développement international, le directeur technique, le directeur des plans, des programmes et du budget, le directeur des ressources humaines de la direction générale de l'armement, le chef du service central de la modernisation et de la qualité, le chef du service de la sécurité de défense et des systèmes d'information, le chef du département central d'information et de communication sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
