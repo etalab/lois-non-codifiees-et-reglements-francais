@@ -1,0 +1,3 @@
+# Article 49-1
+
+Il est institué une commission de proposition de nomination aux offices créés d'huissiers de justice et de commissaires-priseurs judiciaires. Elle exerce les attributions prévues par l'article 27 du décret n° 73-541 du 19 juin 1973 relatif à la formation professionnelle des commissaires-priseurs judiciaires et aux conditions d'accès à cette profession et par l'article 27 du décret n° 75-770 du 14 août 1975 relatif aux conditions d'accès à la profession d'huissier de justice ainsi qu'aux modalités des créations, transferts et suppressions d'offices d'huissier de justice et concernant certains officiers ministériels et auxiliaires de justice.

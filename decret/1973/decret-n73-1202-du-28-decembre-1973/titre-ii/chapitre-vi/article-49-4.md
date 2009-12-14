@@ -1,0 +1,3 @@
+# Article 49-4
+
+Il est institué une commission de présentation aux offices vacants de notaires et d'huissiers de justice situés dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle. Elle exerce les attributions prévues par l'article 118 du décret n° 73-609 du 5 juillet 1973 relatif à la formation professionnelle dans le notariat et aux conditions d'accès aux fonctions de notaire et par l'article 50 du décret n° 75-770 du 14 août 1975 relatif aux conditions d'accès à la profession d'huissier de justice ainsi qu'aux modalités des créations, transferts et suppressions d'offices d'huissier de justice.
