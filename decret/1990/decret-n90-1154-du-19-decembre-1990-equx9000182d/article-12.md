@@ -10,7 +10,7 @@ Le conseil d'administration règle, par ses délibérations, les affaires de l'�
 
 4° Il approuve le compte financier et se prononce sur l'affectation des résultats ;
 
-5° Il approuve les transactions ou autorise le directeur à transiger dans les conditions qu'il détermine ;
+5° Il approuve les transactions ou autorise le directeur général à transiger dans les conditions qu'il détermine ;
 
 6° Il détermine les conditions de recrutement du personnel.
 

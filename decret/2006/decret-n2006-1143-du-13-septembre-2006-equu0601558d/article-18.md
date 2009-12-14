@@ -1,0 +1,3 @@
+# Article 18
+
+L'Etablissement public foncier du Val-d'Oise peut passer le cas échéant avec un autre établissement public foncier d'Etat en Ile-de-France, ou avec l'Agence foncière et technique de la région parisienne, une convention qui définit les conditions dans lesquelles ce ou cette dernière concourt aux missions de l'Etablissement public foncier du Val-d'Oise dans le respect de son autonomie. Elle précise notamment les conditions dans lesquelles le personnel et les moyens matériels nécessaires sont mis à la disposition de l'Etablissement public foncier du Val-d'Oise par un autre établissement public foncier de l'Etat ainsi que les conditions financières correspondantes.
