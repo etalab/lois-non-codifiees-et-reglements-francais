@@ -1,0 +1,3 @@
+# Article 1
+
+L'agent public de l'Etat ou d'un de ses établissements publics ou l'ouvrier de l'Etat ayant été, dans le cadre de ses fonctions, exposé à un agent cancérogène, mutagène ou toxique pour la reproduction défini aux articles R. 4412-59 et R. 4412-60 du code du travail ou figurant sur l'un des tableaux mentionnés à l'article L. 461-2 du code de la sécurité sociale a droit, après avoir cessé définitivement ses fonctions au sein d'une administration ou d'un établissement public administratif de l'Etat, à un suivi médical post-professionnel. Ce suivi médical est pris en charge par l'administration ou l'établissement au sein duquel l'intéressé a été exposé.
