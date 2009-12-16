@@ -6,6 +6,6 @@ Ils peuvent assurer l'encadrement des adjoints de sécurité. Ils sont dotés d'
 
 Ils sont nommés par arrêté du ministre chargé de l'intérieur.
 
-Les brigadiers-majors de police et les brigadiers-chefs de police assurent l'encadrement des brigadiers de police, des gardiens de la paix et des adjoints de sécurité.
+Les majors de police et les brigadiers-chefs de police assurent l'encadrement des brigadiers de police, des gardiens de la paix et des adjoints de sécurité.
 
 Les brigadiers de police peuvent assurer l'encadrement des gardiens de la paix et des adjoints de sécurité.

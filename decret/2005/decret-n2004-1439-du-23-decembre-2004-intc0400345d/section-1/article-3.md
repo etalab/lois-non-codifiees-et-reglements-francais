@@ -2,10 +2,10 @@
 
 Le corps d'encadrement et d'application comprend quatre grades :
 
-- gardien de la paix ;
+-gardien de la paix ;
 
-- brigadier de police ;
+-brigadier de police ;
 
-- brigadier-chef de police ;
+-brigadier-chef de police ;
 
-- brigadier-major de police.
+-  major de police.
