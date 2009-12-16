@@ -24,4 +24,8 @@ j) Bâtiment d'élevage : les locaux d'élevage, les locaux de quarantaine, les 
 
 k) Paire de chaussettes : support de prélèvement constitué de jersey stérile, imbibé de liquide stérile et humide au moment de l'emploi, chaussé pendant au moins trois minutes sur la longueur totale du bâtiment pour couvrir le maximum de surface au sol auquel les animaux ont accès et replacé dans le contenant d'origine étanche et stérile, avec l'intégralité des matériaux prélevés adhérant au tissu ;
 
-l) Chiffonnette : support de prélèvement constitué d'une pièce de matériau de type non tissé, d'une surface totale d'au minimum 900 centimètres carrés, imbibé de liquide stérile et humide au moment de l'emploi.
+l) Chiffonnette : support de prélèvement constitué d'une pièce de matériau de type non tissé, d'une surface totale d'au minimum 900 centimètres carrés, imbibé de liquide stérile et humide au moment de l'emploi ;
+
+m) Carcasse : le corps entier d'une volaille après saignée, plumaison, éviscération ;
+
+n) Salmonella typhimurium : au sens du présent arrêté, toute souche de salmonelle présentant l'une des formules antigéniques suivantes : 1, 4, [5], 12 : i : 1, 2 ou 1, 4, [5], 12 : i :-ou 1, 4, [5], 12 :-: 1, 2 ou 1, 4, [5], 12 :-:-.

@@ -1,6 +1,6 @@
 # Article 1
 
-Le programme national de lutte contre les infections à salmonelles chez les volailles de l'espèce Gallus gallus en filière ponte d'œufs de consommation institué par le présent arrêté, sous le contrôle des directions départementales des services vétérinaires, a pour objet :
+Le programme national de lutte contre les infections à salmonelles chez les volailles de l'espèce Gallus gallus en filière ponte d'œufs de consommation institué par le présent arrêté, sous le contrôle des    directions en charge des services vétérinaires, a pour objet :
 
 ― le dépistage systématique des infections à Salmonella Enteritidis, Salmonella Hadar, Salmonella Infantis, Salmonella Typhimurium et Salmonella Virchow des volailles de reproduction ;
 

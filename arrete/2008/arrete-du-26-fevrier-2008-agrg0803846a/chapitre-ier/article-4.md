@@ -1,6 +1,6 @@
 # Article 4
 
-I. ― Tout exploitant détenant ou susceptible de détenir, compte tenu de ses installations, un effectif de plus de 250 volailles, est tenu de se déclarer auprès du directeur départemental des services vétérinaires en fournissant, notamment, les éléments suivants :
+I. ― Tout exploitant détenant ou susceptible de détenir, compte tenu de ses installations, un effectif de plus de 250 volailles, est tenu de se déclarer auprès du directeur en charge des services vétérinaires en fournissant, notamment, les éléments suivants :
 
 1. Le numéro SIRET de l'exploitation et ses coordonnées.
 
@@ -12,7 +12,7 @@ I. ― Tout exploitant détenant ou susceptible de détenir, compte tenu de ses 
 
 Les propriétaires des troupeaux déjà déclarés au titre de la prophylaxie salmonelles sont tenus de mettre à jour les informations les concernant.
 
-II. ― Afin de permettre l'exécution des mesures prévues par le présent arrêté, tout propriétaire d'un troupeau de volailles doit adresser au préfet (directeur départemental des services vétérinaires) du département où est situé le troupeau une déclaration de sortie et une déclaration de mise en place du troupeau suivant, par tous les moyens appropriés et autorisés par le directeur des services vétérinaires pour son information rapide.
+II. ― Afin de permettre l'exécution des mesures prévues par le présent arrêté, tout propriétaire d'un troupeau de volailles doit adresser au préfet (directeur en charge des services vétérinaires) du département où est situé le troupeau une déclaration de sortie et une déclaration de mise en place du troupeau suivant, par tous les moyens appropriés et autorisés par le directeur des services vétérinaires pour son information rapide.
 
 La déclaration de sortie comprend au minimum les indications suivantes :
 
@@ -54,4 +54,4 @@ Dans le cas des troupeaux de poussins d'un jour, la déclaration de mise en plac
 
 Dans le cas des transferts en ponte et en seconde ponte, la déclaration de mise en place est notifiée au plus tard dans les 72 heures suivant celle-ci.
 
-Dans le cas particulier d'une mise en place faisant suite à un vide prolongé du bâtiment ou un changement d'espèce ou de production, une déclaration préalable de la date prévue de mise en place doit parvenir à la direction départementale des services vétérinaires au plus tard huit jours avant celle-ci.
+Dans le cas particulier d'une mise en place faisant suite à un vide prolongé du bâtiment ou un changement d'espèce ou de production, une déclaration préalable de la date prévue de mise en place doit parvenir à la direction en charge des services vétérinaires au plus tard huit jours avant celle-ci.
