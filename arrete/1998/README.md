@@ -252,7 +252,6 @@
 - [Arrêté du 9 janvier 1998 (DEFB9801053A)](arrete-du-9-janvier-1998-defb9801053a)
 - [Arrêté du 9 janvier 1998 (ECOT9810324A)](arrete-du-9-janvier-1998-ecot9810324a)
 - [Arrêté du 9 janvier 1998 (MAEC9800004A)](arrete-du-9-janvier-1998-maec9800004a)
-- [Arrêté du 9 juillet 1998 (ATET9870125A)](arrete-du-9-juillet-1998-atet9870125a)
 - [Arrêté du 9 juillet 1998 (DEFD9801687A)](arrete-du-9-juillet-1998-defd9801687a)
 - [Arrêté du 9 juillet 1998 (ECOD9870013A)](arrete-du-9-juillet-1998-ecod9870013a)
 - [Arrêté du 9 juillet 1998 (ECOI9800470A)](arrete-du-9-juillet-1998-ecoi9800470a)
