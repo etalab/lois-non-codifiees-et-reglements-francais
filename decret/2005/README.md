@@ -22,6 +22,7 @@
 - [Décret n°2005-447 du 6 mai 2005 (JUSK0540010D)](decret-n2005-447-du-6-mai-2005-jusk0540010d)
 - [Décret n°2005-326 du 7 avril 2005 (SOCX0500072D)](decret-n2005-326-du-7-avril-2005-socx0500072d)
 - [Décret n°59-157 du 7 janvier 1959](decret-n59-157-du-7-janvier-1959)
+- [Décret n°2005-765 du 8 juillet 2005 (INDI0505292D)](decret-n2005-765-du-8-juillet-2005-indi0505292d)
 - [Décret n°2005-99 du 8 février 2005 (INTE0500009D)](decret-n2005-99-du-8-fevrier-2005-inte0500009d)
 - [Décret n°2005-436 du 9 mai 2005 (ECOX0400297D)](decret-n2005-436-du-9-mai-2005-ecox0400297d)
 - [Décret n°2005-118 du 10 février 2005 (SANA0520177D)](decret-n2005-118-du-10-fevrier-2005-sana0520177d)

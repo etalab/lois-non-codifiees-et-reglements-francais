@@ -8,7 +8,7 @@ Il examine les programmes d'investissement et les questions de financement des e
 
 Il suit les opérations d'aménagement foncier et d'urbanisme et participe au contrôle des établissements publics d'aménagement, des villes nouvelles et des sociétés d'économie mixte d'aménagement et de construction.
 
-Dans ces deux domaines, il participe à l'élaboration de la politique d'aménagement du territoire et de financement des infrastructures de transport. Il concourt à la préparation du Comité interministériel d'aménagement et de compétitivité des territoires.<RL Il assure le secrétariat du comité des investissements à caractère économique et social.
+Dans ces deux domaines, il participe à l'élaboration de la politique d'aménagement du territoire et de financement des infrastructures de transport. Il concourt à la préparation du comité interministériel d'aménagement et de développement du territoire. Il assure le secrétariat du comité des investissements à caractère économique et social.
 
 Le bureau D 2 (Energie, télécommunications et matières premières)
 

@@ -22,11 +22,11 @@ Le bureau du financement du logement et d'activités d'intérêt général
 
 Il est chargé des relations avec la Caisse des dépôts et consignations.
 
-Il est chargé de la politique de financement du logement. A ce titre, il propose et met en œuvre les mesures financières et réglementaires permettant d'assurer ce financement dans les meilleures conditions. Il participe dans cette optique aux travaux du comité consultatif pour la législation et la réglementation financières (CCLRF).
+Il est chargé de la politique de financement du logement.A ce titre, il propose et met en œuvre les mesures financières et réglementaires permettant d'assurer ce financement dans les meilleures conditions. Il participe dans cette optique aux travaux du comité consultatif pour la législation et la réglementation financières (CCLRF).
 
 Il surveille l'adéquation des ressources et des emplois des fonds d'épargne centralisés par la Caisse des dépôts et consignations et élabore la réglementation relative aux produits d'épargne correspondants ainsi qu'à l'épargne logement.
 
-Il assure le suivi du financement du logement social et des structures chargées de sa régulation et de son contrôle. A ce titre, il exerce, pour le compte du ministre chargé de l'économie et conjointement avec les services du ministre chargé du logement, l'autorité sur la mission interministérielle d'inspection du logement social ainsi que la tutelle sur la caisse de garantie du logement locatif social.
+Il assure le suivi du financement du logement social et des structures chargées de sa régulation et de son contrôle.A ce titre, il exerce, pour le compte du ministre chargé de l'économie et conjointement avec les services du ministre chargé du logement, l'autorité sur la mission interministérielle d'inspection du logement social ainsi que la tutelle sur la caisse de garantie du logement locatif social.
 
 Il représente le ministère dans les organismes chargés de mettre en œuvre la politique de financement du logement social, notamment la société de gestion du fonds de garantie à l'accession sociale, l'Agence nationale de l'habitat, l'Agence nationale pour la participation des employeurs à l'effort de construction et l'Agence nationale de la rénovation urbaine. Il suit les relations financières entre l'Etat et le Crédit foncier de France. Il représente l'Etat actionnaire auprès de la société d'économie mixte Adoma.
 
@@ -46,7 +46,7 @@ Il exerce les fonctions de l'Etat actionnaire auprès de la Banque de France et 
 
 Il assure la gestion du compte d'émission des monnaies métalliques ainsi que le suivi des relations commerciales et financières avec l'établissement public de la Monnaie de Paris vis-à-vis duquel il exerce les fonctions de l'Etat client. Il prépare la règlementation des questions fiduciaires. Il prépare et participe aux négociations européennes concernant ces questions.
 
-III. - La sous-direction du financement des entreprises et du marché financier comprend :
+III.-La sous-direction du financement des entreprises et du marché financier comprend :
 
 Le bureau de l'épargne et du marché financier
 
@@ -62,7 +62,7 @@ Il participe dans ces domaines aux négociations européennes et internationales
 
 Le bureau du financement et du développement des entreprises
 
-Il propose et met en œuvre les mesures visant à améliorer le financement des entreprises. Il prend part à l'élaboration des normes, notamment juridiques et fiscales, qui déterminent les conditions de création et de localisation des entreprises sur le territoire national et concourt à la mise en œuvre des instruments d'intervention publique en ce domaine ; à ce titre, il participe notamment à l'élaboration de la politique d'attractivité et d'aménagement du territoire et concourt à la préparation des travaux du comité interministériel d'aménagement et de compétitivité des territoires.
+Il propose et met en œuvre les mesures visant à améliorer le financement des entreprises. Il prend part à l'élaboration des normes, notamment juridiques et fiscales, qui déterminent les conditions de création et de localisation des entreprises sur le territoire national et concourt à la mise en œuvre des instruments d'intervention publique en ce domaine ; à ce titre, il participe notamment à l'élaboration de la politique d'attractivité et d'aménagement du territoire et concourt à la préparation des travaux du         comité interministériel d'aménagement et de développement du territoire .
 
 Il représente la direction générale dans les organismes ou comités qui contribuent au financement des entreprises et exerce notamment la tutelle d'OSEO, en liaison avec la direction générale de la compétitivité, de l'industrie et des services et le ministère chargé de la recherche.
 
@@ -72,7 +72,7 @@ Il contribue à la mise en œuvre des procédures de financement de l'agricultur
 
 Il assure le secrétariat général du comité interministériel de restructuration industrielle (CIRI). Il traite des cas spécifiques d'entreprises privées et des aspects généraux liés au traitement des entreprises en difficulté.
 
-IV. - La sous-direction des assurances comprend :
+IV.-La sous-direction des assurances comprend :
 
 Le bureau des marchés et des produits d'assurance
 
@@ -102,10 +102,10 @@ Il représente la direction générale au sein de l'Autorité de contrôle des a
 
 Il prépare et conduit les négociations européennes et internationales concernant les entreprises d'assurance et assure la coordination des positions françaises dans le domaine de l'assurance. Il suit les questions relatives à l'activité du Comité européen des contrôleurs d'assurances et de pensions et de l'Association internationale des contrôleurs d'assurance.
 
-V. - Le pôle d'analyse économique du secteur financier mène les études économiques nécessaires aux missions du service.
+V.-Le pôle d'analyse économique du secteur financier mène les études économiques nécessaires aux missions du service.
 
 Il analyse la situation économique et financière des institutions financières, notamment dans leur contexte européen. Il étudie l'efficacité de la réglementation, notamment prudentielle, des institutions financières.
 
 Il suit l'évolution des marchés financiers et analyse les conditions microéconomiques, comptables et juridiques du financement et de la gouvernance des entreprises.
 
-Il étudie l'efficacité du système financier au service de l'économie. A ce titre, il analyse les modalités de l'allocation de l'épargne et suit les marges et la productivité du secteur financier. Il identifie et analyse les caractéristiques du marché pour le financement des particuliers, des entreprises, notamment les petites et moyennes entreprises, et de l'innovation et de la recherche privée (y compris en partenariat privé/public) ; il identifie et analyse les caractéristiques du marché de l'assurance. Il analyse l'efficacité des incitations et aides publiques à l'épargne, au financement des PME et de l'innovation et au logement.
+Il étudie l'efficacité du système financier au service de l'économie.A ce titre, il analyse les modalités de l'allocation de l'épargne et suit les marges et la productivité du secteur financier. Il identifie et analyse les caractéristiques du marché pour le financement des particuliers, des entreprises, notamment les petites et moyennes entreprises, et de l'innovation et de la recherche privée (y compris en partenariat privé / public) ; il identifie et analyse les caractéristiques du marché de l'assurance. Il analyse l'efficacité des incitations et aides publiques à l'épargne, au financement des PME et de l'innovation et au logement.

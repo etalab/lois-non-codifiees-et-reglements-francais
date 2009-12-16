@@ -8,4 +8,4 @@ Il est responsable de la mise en œuvre de la politique d'aménagement du territ
 
 Il conçoit et met en œuvre, avec le ministre de l'alimentation, de l'agriculture et de la pêche, la politique d'aménagement et de développement de l'espace rural. Il contribue à la définition et à la mise en œuvre des actions en faveur du monde rural.
 
-Il peut présider, par délégation du Premier ministre, le comité interministériel d'aménagement et de compétitivité des territoires institué par le décret n° 2005-1270 du 12 octobre 2005 relatif à la création de ce comité.
+Il peut présider, par délégation du Premier ministre, le         comité interministériel d'aménagement et de développement du territoire  institué par le décret n° 2005-1270 du 12 octobre 2005 relatif à la création de ce comité.

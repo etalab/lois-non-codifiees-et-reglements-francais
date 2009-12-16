@@ -10,32 +10,32 @@ Le conseil comporte, outre son président, trente-cinq membres :
 
 4° Neuf représentants des administrations principalement concernées par le développement de l'économie sociale :
 
-- au titre du ministère chargé du commerce, de l'artisanat et des petites et moyennes entreprises :
+-au titre du ministère chargé du commerce, de l'artisanat et des petites et moyennes entreprises :
 
-- la direction générale de la compétitivité, de l'industrie et des services ;
+-la direction générale de la compétitivité, de l'industrie et des services ;
 
-- au titre du ministère chargé de l'économie, des finances et de l'industrie :
+-au titre du ministère chargé de l'économie, des finances et de l'industrie :
 
-- la direction générale du Trésor et de la politique économique ;
+-la direction générale du Trésor et de la politique économique ;
 
-- la direction générale de la concurrence, de la consommation et de la répression des fraudes ;
+-la direction générale de la concurrence, de la consommation et de la répression des fraudes ;
 
-- au titre du ministère chargé de l'emploi et de la cohésion sociale :
+-au titre du ministère chargé de l'emploi et de la cohésion sociale :
 
-- la délégation générale à l'emploi et à la formation professionnelle ;
+-la délégation générale à l'emploi et à la formation professionnelle ;
 
-- la direction générale du travail ;
+-la direction générale du travail ;
 
-- la direction générale de l'action sociale ;
+-la direction générale de l'action sociale ;
 
-- au titre du ministère chargé de la vie associative :
+-au titre du ministère chargé de la vie associative :
 
-- la direction de la vie associative, de l'emploi et de la formation ;
+-la direction de la vie associative, de l'emploi et de la formation ;
 
-- au titre du ministère chargé des collectivités locales :
+-au titre du ministère chargé des collectivités locales :
 
-- la direction générale des collectivités locales ;
+-la direction générale des collectivités locales ;
 
-- au titre du ministère chargé de l'aménagement du territoire :
+-au titre du ministère chargé de l'aménagement du territoire :
 
-- la délégation interministérielle à l'aménagement et à la compétitivité des territoires.
+-la           délégation interministérielle à l'aménagement du territoire et à l'attractivité régionale .

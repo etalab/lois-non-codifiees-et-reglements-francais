@@ -16,7 +16,7 @@ Il participe à l'élaboration de la politique nationale de recherche et veille 
 
 Pour le compte du ministère, il propose et met en œuvre les orientations de la politique de soutien au développement des pôles de compétitivité.
 
-En liaison avec la délégation interministérielle à l'aménagement et à la compétitivité des territoires, il assure le pilotage interministériel de cette politique, qu'il anime et met en œuvre.
+En liaison avec la           délégation interministérielle à l'aménagement du territoire et à l'attractivité régionale , il assure le pilotage interministériel de cette politique, qu'il anime et met en œuvre.
 
 3° Le bureau de la compétitivité et du développement des entreprises :
 

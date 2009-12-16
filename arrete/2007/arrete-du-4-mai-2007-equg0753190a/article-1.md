@@ -26,7 +26,7 @@ Neuf membres de droit :
 
 -la déléguée à la sécurité et à la circulation routières ;
 
--le délégué interministériel à l'aménagement et à la compétitivité des territoires.
+-le           délégué interministériel à l'aménagement du territoire et à l'attractivité régionale.
 
 Huit représentants de l'Etat :
 

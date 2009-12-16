@@ -30,7 +30,7 @@ C.-Fonctions exercées au Centre d'analyse stratégique
 
 2° Directeur général adjoint du Centre d'analyse stratégique.
 
-D.-Fonctions exercées à la Délégation interministérielle à l'aménagement et à la compétitivité des territoires
+D.-Fonctions exercées à la           délégation interministérielle à l'aménagement du territoire et à l'attractivité régionale
 
 1° Délégué à l'aménagement du territoire.
 

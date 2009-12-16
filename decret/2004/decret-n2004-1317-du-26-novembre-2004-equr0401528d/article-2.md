@@ -4,7 +4,7 @@ L'établissement est administré par un conseil d'administration composé de dou
 
 1. Six représentants de l'Etat :
 
-a) Le délégué interministériel à l'aménagement et à la compétitivité des territoires ou son représentant ;
+a) Le           délégué interministériel à l'aménagement du territoire et à l'attractivité régionale ou son représentant ;
 
 b) Le directeur du budget ou son représentant ;
 

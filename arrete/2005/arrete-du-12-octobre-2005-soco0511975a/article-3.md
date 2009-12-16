@@ -4,9 +4,9 @@ Le service du financement et de la modernisation comprend deux départements et 
 
 1° Le département du financement, du dialogue et du contrôle de gestion comprend :
 
-- la mission du financement, du budget et du dialogue de gestion ;
+-la mission du financement, du budget et du dialogue de gestion ;
 
-- la mission du contrôle de gestion.
+-la mission du contrôle de gestion.
 
 Il est chargé, en liaison avec la direction de l'administration générale et de la modernisation des services (DAGEMO), de la préparation des demandes de moyens budgétaires consacrés à la politique de l'emploi et de la formation professionnelle, ainsi que du dialogue et du contrôle de gestion avec les missions de la délégation générale et les services déconcentrés.
 
@@ -28,11 +28,11 @@ Il centralise, pour la délégation générale, les relations avec les correspon
 
 2° Le département des ressources et du développement comprend :
 
-- la mission des ressources humaines et des affaires générales ;
+-la mission des ressources humaines et des affaires générales ;
 
-- la mission de l'informatique et des systèmes d'information ;
+-la mission de l'informatique et des systèmes d'information ;
 
-- la mission de la documentation.
+-la mission de la documentation.
 
 Il conduit et accompagne les démarches de modernisation concernant la délégation générale, et cela, dans le cadre des politiques du ministère conduites par le secrétariat général du ministère.
 
@@ -54,29 +54,29 @@ Il est responsable de l'accès de tous les agents à une documentation actualis�
 
 3° La sous-direction du fonds social européen comprend :
 
-- la mission gestion du volet central ;
+-la mission gestion du volet central ;
 
-- la mission méthodes et appui ;
+-la mission méthodes et appui ;
 
-- la mission gestion des programmes FSE ;
+-la mission gestion des programmes FSE ;
 
-- la mission budget et finances ;
+-la mission budget et finances ;
 
-- l'unité de certification.
+-l'unité de certification.
 
 Elle est chargée de la définition des orientations et du pilotage national des programmes communautaires financés par le fonds social européen en appui de la stratégie européenne pour l'emploi et des politiques nationales. Elle est responsable de la gestion des programmes nationaux et exerce une responsabilité d'ensemble pour les programmes que le fonds social européen contribue à financer.
 
 Elle assure l'animation et le secrétariat des comités de suivi des programmes nationaux, et veille, avec les services déconcentrés, au bon fonctionnement des comités mis en place pour les programmes régionaux.
 
-Elle est l'autorité de gestion et de paiement pour les programmes nationaux du fonds social européen. A ce titre, elle veille au respect et contrôle l'application des règles communautaires dans la gestion des crédits du FSE, s'assure de la traçabilité des dépenses, de la fiabilité des systèmes d'information, de suivi et de comptes rendus.
+Elle est l'autorité de gestion et de paiement pour les programmes nationaux du fonds social européen.A ce titre, elle veille au respect et contrôle l'application des règles communautaires dans la gestion des crédits du FSE, s'assure de la traçabilité des dépenses, de la fiabilité des systèmes d'information, de suivi et de comptes rendus.
 
 Elle participe aux instances communautaires chargées de préparer les orientations et décisions qui régissent le fonds social européen.
 
-En liaison avec le secrétariat général des affaires européennes (SGAE) et la délégation interministérielle à l'aménagement et à la compétitivité des territoires :
+En liaison avec le secrétariat général des affaires européennes (SGAE) et la           délégation interministérielle à l'aménagement du territoire et à l'attractivité régionale  :
 
-- elle négocie avec la Commission européenne les plans et programmes opérationnels, les enveloppes financières et les conditions d'attribution des aides communautaires ;
+-elle négocie avec la Commission européenne les plans et programmes opérationnels, les enveloppes financières et les conditions d'attribution des aides communautaires ;
 
-- elle assure la liaison entre la Commission européenne, les autres départements ministériels, les collectivités territoriales et les opérateurs, auxquels elle apporte information et assistance.
+-elle assure la liaison entre la Commission européenne, les autres départements ministériels, les collectivités territoriales et les opérateurs, auxquels elle apporte information et assistance.
 
 Elle est chargée de l'élaboration des procédures nationales et veille à l'appel des fonds communautaires.
 

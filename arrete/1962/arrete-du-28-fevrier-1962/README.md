@@ -7,3 +7,5 @@
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
+- [Tenue et contrôle du registre prévu pour les éleveurs, les marchands de gibier, les hôteliers, les restaurateurs et les gérants de cantine](tenue-et)
+- [Marquage du gibier de production](marquage-du-gibier-de-production)

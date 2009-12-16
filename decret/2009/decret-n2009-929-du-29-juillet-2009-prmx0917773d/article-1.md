@@ -6,4 +6,4 @@ Il met en œuvre le projet du Grand Paris et les projets d'investissement d'int�
 
 En lien avec les autres membres du Gouvernement, il coordonne les politiques d'aménagement, d'équipement, d'urbanisme, de logement et d'habitat, de rénovation urbaine, de transports, d'innovation concernant le développement de la région capitale et son attractivité économique. Il assure également la coordination des travaux de l'Atelier international du Grand Paris en liaison avec le ministère de la culture et de la communication.
 
-Pour les questions intéressant ses attributions, il peut présider, par délégation du Premier ministre, le comité interministériel d'aménagement et de compétitivité des territoires.
+Pour les questions intéressant ses attributions, il peut présider, par délégation du Premier ministre, le         comité interministériel d'aménagement et de développement du territoire .

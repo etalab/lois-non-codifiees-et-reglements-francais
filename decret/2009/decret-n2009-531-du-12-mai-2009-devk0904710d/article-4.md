@@ -34,7 +34,7 @@ a) Dix-sept membres de droit représentant l'administration :
 
 ― le directeur général des collectivités locales ;
 
-― le délégué interministériel à l'aménagement et à la compétitivité des territoires ;
+― le           délégué interministériel à l'aménagement du territoire et à l'attractivité régionale ;
 
 ― le directeur général des statistiques de la Banque de France,
 

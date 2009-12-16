@@ -14,7 +14,7 @@ Centre scientifique et technique du bâtiment ;
 
 Commissariat à l'énergie atomique ;
 
-Délégation interministérielle à l'aménagement et à la compétitivité des territoires ;
+délégation interministérielle à l'aménagement du territoire et à l'attractivité régionale  ;
 
 Direction de la météorologie ;
 
