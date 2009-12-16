@@ -1,0 +1,3 @@
+# Article 1
+
+Une aide exceptionnelle est attribuée aux bénéficiaires de l'allocation de solidarité spécifique mentionnée à l'article L. 5423-1 du code du travail, de la prime forfaitaire mentionnée à l'article L. 5425-3 du même code et de l'allocation équivalent retraite mentionnée au II de l'article 132 de la loi du 24 décembre 2007 et à l'article 1er du décret du 29 mai 2009 susvisés, sauf lorsque cette aide leur a été versée au titre du bénéfice du revenu minimum d'insertion ou du revenu de solidarité active ou de l'allocation parent isolé. Elle est versée aux bénéficiaires qui ont droit à une de ces allocations au titre du mois de novembre 2009 ou, à défaut, au titre du mois de décembre 2009.

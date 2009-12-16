@@ -20,7 +20,7 @@ Ce comité, chargé d'assurer la coordination de l'application des décisions du
 
 -le responsable de la mission interministérielle chargée de la valorisation du patrimoine immobilier de l'Etat ou son représentant ;
 
--le délégué interministériel à l'aménagement et à la compétitivité des territoires ou son représentant ;
+-le           délégué interministériel à l'aménagement du territoire et à l'attractivité régionale ou son représentant ;
 
 -le directeur général des collectivités locales ou son représentant ;
 

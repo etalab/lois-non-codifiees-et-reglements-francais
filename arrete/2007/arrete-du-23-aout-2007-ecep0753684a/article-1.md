@@ -40,7 +40,7 @@ Au ministère de l'agriculture et de la pêche :
 
 Au ministère de l'éducation nationale et au ministère de l'enseignement supérieur et de la recherche :
 
--le service statistique ministériel éducation-recherche , composé de la sous-direction des synthèses statistiques et des bureaux des études statistiques sur l'enseignement scolaire, l'enseignement supérieur et sur la recherche, au sein de la direction de l'évaluation, de la prospective et de la performance.
+-le service statistique ministériel éducation-recherche, composé de la sous-direction des synthèses statistiques et des bureaux des études statistiques sur l'enseignement scolaire, l'enseignement supérieur et sur la recherche, au sein de la direction de l'évaluation, de la prospective et de la performance.
 
 Au ministère de la défense :
 
@@ -122,7 +122,7 @@ Les services statistiques des établissements publics et organismes suivants :
 
 -l'Observatoire national de la délinquance ;
 
--la délégation interministérielle à l'aménagement et à la compétitivité des territoires ;
+-la délégation interministérielle à l'aménagement du territoire et à l'attractivité régionale ;
 
 -la Banque de France ;
 

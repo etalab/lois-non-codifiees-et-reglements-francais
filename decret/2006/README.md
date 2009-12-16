@@ -127,6 +127,7 @@
 - [Décret n°2006-1587 du 12 décembre 2006 (EQUP0601474D)](decret-n2006-1587-du-12-decembre-2006-equp0601474d)
 - [Décret n°2006-1589 du 12 décembre 2006 (SANP0624743D)](decret-n2006-1589-du-12-decembre-2006-sanp0624743d)
 - [Décret n°2006-1590 du 12 décembre 2006 (SANS0624439D)](decret-n2006-1590-du-12-decembre-2006-sans0624439d)
+- [Décret n°2006-429 du 12 avril 2006 (INTR0600060D)](decret-n2006-429-du-12-avril-2006-intr0600060d)
 - [Décret n°2006-447 du 12 avril 2006 (INDI0607224D)](decret-n2006-447-du-12-avril-2006-indi0607224d)
 - [Décret n°89-271 du 12 avril 1989 (PRMG8970030D)](decret-n89-271-du-12-avril-1989-prmg8970030d)
 - [Décret n°2006-1140 du 13 septembre 2006 (EQUU0601555D)](decret-n2006-1140-du-13-septembre-2006-equu0601555d)
