@@ -382,6 +382,7 @@
 - [Décret n°2009-528 du 11 mai 2009 (JUSD0905307D)](decret-n2009-528-du-11-mai-2009-jusd0905307d)
 - [Décret n°2009-529 du 11 mai 2009 (AGRS0908259D)](decret-n2009-529-du-11-mai-2009-agrs0908259d)
 - [Décret n°2009-530 du 11 mai 2009 (SJSG0900530D)](decret-n2009-530-du-11-mai-2009-sjsg0900530d)
+- [Décret n°2005-1270 du 12 octobre 2005 (INTR0500290D)](decret-n2005-1270-du-12-octobre-2005-intr0500290d)
 - [Décret n°2005-785 du 12 juillet 2005 (BUDB0560009D)](decret-n2005-785-du-12-juillet-2005-budb0560009d)
 - [Décret n°2008-930 du 12 septembre 2008 (DEFH0801136D)](decret-n2008-930-du-12-septembre-2008-defh0801136d)
 - [Décret n°2008-931 du 12 septembre 2008 (DEFH0801138D)](decret-n2008-931-du-12-septembre-2008-defh0801138d)
