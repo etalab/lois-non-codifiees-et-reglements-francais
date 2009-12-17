@@ -1067,7 +1067,6 @@
 - [Décret n°2009-1310 du 26 octobre 2009 (IMIK0922946D)](decret-n2009-1310-du-26-octobre-2009-imik0922946d)
 - [Décret n°2009-1316 du 26 octobre 2009 (ESRS0920214D)](decret-n2009-1316-du-26-octobre-2009-esrs0920214d)
 - [Décret n°2009-230 du 26 février 2009 (DEVA0900674D)](decret-n2009-230-du-26-fevrier-2009-deva0900674d)
-- [Décret n°2009-231 du 26 février 2009 (DEVE0903817D)](decret-n2009-231-du-26-fevrier-2009-deve0903817d)
 - [Décret n°2009-333 du 26 mars 2009 (DEVM0905364D)](decret-n2009-333-du-26-mars-2009-devm0905364d)
 - [Décret n°2009-334 du 26 mars 2009 (IOCD0816390D)](decret-n2009-334-du-26-mars-2009-iocd0816390d)
 - [Décret n°2009-335 du 26 mars 2009 (ECEC0826409D)](decret-n2009-335-du-26-mars-2009-ecec0826409d)
