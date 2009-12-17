@@ -918,7 +918,6 @@
 - [Arrêté du 24 juin 2008 (SJSS0815492A)](arrete-du-24-juin-2008-sjss0815492a)
 - [Arrêté du 24 novembre 2008 (AGRG0821096A)](arrete-du-24-novembre-2008-agrg0821096a)
 - [Arrêté du 24 novembre 2008 (BCFB0825211A)](arrete-du-24-novembre-2008-bcfb0825211a)
-- [Arrêté du 24 novembre 2008 (DEVA0827538A)](arrete-du-24-novembre-2008-deva0827538a)
 - [Arrêté du 24 novembre 2008 (DEVK0828344A)](arrete-du-24-novembre-2008-devk0828344a)
 - [Arrêté du 24 novembre 2008 (DEVR0827911A)](arrete-du-24-novembre-2008-devr0827911a)
 - [Arrêté du 24 novembre 2008 (DEVT0828641A)](arrete-du-24-novembre-2008-devt0828641a)
