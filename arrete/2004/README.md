@@ -822,7 +822,6 @@
 - [Arrêté du 28 octobre 2004 (AGRF0402355A)](arrete-du-28-octobre-2004-agrf0402355a)
 - [Arrêté du 28 septembre 2004 (ECOT0420026A)](arrete-du-28-septembre-2004-ecot0420026a)
 - [Arrêté du 28 septembre 2004 (EQUA0401326A)](arrete-du-28-septembre-2004-equa0401326a)
-- [Arrêté du 28 septembre 2004 (EQUP0400978A)](arrete-du-28-septembre-2004-equp0400978a)
 - [Arrêté du 28 mai 2004 (SANS0421434A)](arrete-du-28-mai-2004-sans0421434a)
 - [Arrêté du 29 avril 2004 (AGRA0400024A)](arrete-du-29-avril-2004-agra0400024a)
 - [Arrêté du 29 décembre 2003 (BUDL0300166A)](arrete-du-29-decembre-2003-budl0300166a)
