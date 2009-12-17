@@ -22,9 +22,9 @@ A cette fin, les effets dangereux pour la santé ont été subdivisés en :
 
 Les effets d'une préparation sur la santé sont évalués conformément à l'article 15, point a, par la méthode conventionnelle décrite dans les parties A et B de la présente annexe en utilisant des limites de concentration individuelles.
 
-a) Lorsque des limites de concentration nécessaires pour la mise en œuvre de la méthode d'évaluation décrite dans la partie A de la présente annexe sont fixées pour les substances dangereuses énumérées à l'annexe I de l'arrêté du 20 avril 1994 modifié, ces limites de concentration doivent être utilisées.
+a) Lorsque des limites de concentration nécessaires pour la mise en œuvre de la méthode d'évaluation décrite dans la partie A de la présente annexe sont fixées pour les substances dangereuses énumérées à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 , ces limites de concentration doivent être utilisées.
 
-b) Lorsque les substances dangereuses ne figurent pas dans l'annexe I de l'arrêté du 20 avril 1994 modifié ou lorsqu'elles y sont énumérées sans indication de limites de concentration nécessaires pour pouvoir mettre en œuvre la méthode d'évaluation décrite dans la partie A de la présente annexe, les limites de concentration sont fixées conformément aux spécifications de la partie B de la présente annexe. La procédure de classification est exposée dans la partie A de la présente annexe. La classification de la substance ou des substances et la classification qui en résulte pour la préparation sont exprimées :
+b) Lorsque les substances dangereuses ne figurent pas dans l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 ou lorsqu'elles y sont énumérées sans indication de limites de concentration nécessaires pour pouvoir mettre en œuvre la méthode d'évaluation décrite dans la partie A de la présente annexe, les limites de concentration sont fixées conformément aux spécifications de la partie B de la présente annexe. La procédure de classification est exposée dans la partie A de la présente annexe. La classification de la substance ou des substances et la classification qui en résulte pour la préparation sont exprimées :
 
 - soit par un symbole et une ou plusieurs phrases de risque ;
 
@@ -32,7 +32,7 @@ b) Lorsque les substances dangereuses ne figurent pas dans l'annexe I de l'arrê
 
 Le résultat de l'évaluation systématique de tous les effets dangereux pour la santé est exprimé par les limites de concentration exprimées en pourcentage poids/poids, sauf pour les préparations gazeuses où elles sont exprimées en pourcentage volume/volume, et ce en relation avec la classification de la substance.
 
-Lorsqu'elles ne figurent pas à l'annexe I de l'arrêté du 20 avril 1994 modifié, les limites de concentration à prendre en considération pour l'application de cette méthode conventionnelle figurent dans la partie B de la présente annexe.
+Lorsqu'elles ne figurent pas à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008, les limites de concentration à prendre en considération pour l'application de cette méthode conventionnelle figurent dans la partie B de la présente annexe.
 
 Partie A
 
@@ -44,9 +44,9 @@ Méthode d'évaluation des dangers pour la santé
 
 1.1.1. Les préparations contenant une ou plusieurs substances classées comme très toxiques qui produisent de tels effets à une concentration individuelle égale ou supérieure :
 
-a) Soit à celle fixée à l'annexe I de l'arrêté du 20 avril 1994 modifié pour la ou les substances considérées ;
+a) Soit à celle fixée à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 pour la ou les substances considérées ;
 
-b) Soit à celle fixée au point 1 de la partie B de la présente annexe (tableau I ou I A) lorsque la ou les substances ne figurent pas à l'annexe I de l'arrêté du 20 avril 1994 modifié ou qu'elles y figurent sans limites de concentration ;
+b) Soit à celle fixée au point 1 de la partie B de la présente annexe (tableau I ou I A) lorsque la ou les substances ne figurent pas à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 ou qu'elles y figurent sans limites de concentration ;
 
 1.1.2. Les préparations contenant plusieurs substances classées comme très toxiques à une concentration individuelle inférieure aux limites spécifiées au point 1.1.1 a ou b lorsque :
 
@@ -62,9 +62,9 @@ LT+ est la limite très toxique fixée pour chaque substance très toxique, expr
 
 Les préparations contenant au moins une substance dangereuse produisant de tels effets à une concentration individuelle égale ou supérieure :
 
-a) Soit à celle fixée à l'annexe I de l'arrêté du 20 avril 1994 modifié pour la ou les substances considérées ;
+a) Soit à celle fixée à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 pour la ou les substances considérées ;
 
-b) Soit à celle fixée au point 2 de la partie B de la présente annexe (tableau II ou II A) lorsque la ou les substances ne figurent pas à l'annexe I de l'arrêté du 20 avril 1994 modifié ou qu'elles y figurent sans limites de concentration.
+b) Soit à celle fixée au point 2 de la partie B de la présente annexe (tableau II ou II A) lorsque la ou les substances ne figurent pas à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 ou qu'elles y figurent sans limites de concentration.
 
 2. Les préparations suivantes sont classées comme toxiques
 
@@ -72,9 +72,9 @@ b) Soit à celle fixée au point 2 de la partie B de la présente annexe (tablea
 
 2.1.1. Les préparations contenant une ou plusieurs substances classées comme très toxiques ou toxiques qui produisent de tels effets à une concentration individuelle égale ou supérieure :
 
-a) Soit à celle fixée à l'annexe I de l'arrêté du 20 avril 1994 modifié pour la ou les substances considérées ;
+a) Soit à celle fixée à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 pour la ou les substances considérées ;
 
-b) Soit à celle fixée au point 1 de la partie B de la présente annexe (tableau I ou I A) lorsque la ou les substances ne figurent pas à l'annexe I de l'arrêté du 20 avril 1994 modifié ou qu'elles y figurent sans limites de concentration ;
+b) Soit à celle fixée au point 1 de la partie B de la présente annexe (tableau I ou I A) lorsque la ou les substances ne figurent pas à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 ou qu'elles y figurent sans limites de concentration ;
 
 2.1.2. Les préparations contenant plusieurs substances classées comme très toxiques ou toxiques à une concentration individuelle inférieure aux limites spécifiées au point 2.1.1 a ou b lorsque :
 
@@ -92,17 +92,17 @@ LT est la limite toxique respective fixée pour chaque substance très toxique o
 
 Les préparations contenant une ou plusieurs substances dangereuses classées comme très toxiques ou toxiques qui produisent de tels effets à une concentration individuelle égale ou supérieure :
 
-a) Soit à celle fixée à l'annexe I de l'arrêté du 20 avril 1994 modifié pour la ou les substances considérées ;
+a) Soit à celle fixée à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 pour la ou les substances considérées ;
 
-b) Soit à celle fixée au point 2 de la partie B de cette annexe (tableau II ou II A) lorsque la ou les substances ne figurent pas à l'annexe I de l'arrêté du 20 avril 1994 modifié ou qu'elles y figurent sans limites de concentration.
+b) Soit à celle fixée au point 2 de la partie B de cette annexe (tableau II ou II A) lorsque la ou les substances ne figurent pas à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 ou qu'elles y figurent sans limites de concentration.
 
 2.3. Sur la base de leurs effets à long terme et affectées du symbole "T", de l'indication de danger "toxique" et des phrases de risque R 48/voie d'exposition :
 
 Les préparations contenant une ou plusieurs substances dangereuses produisant de tels effets pour une concentration individuelle égale ou supérieure :
 
-a) Soit à celle fixée à l'annexe I de l'arrêté du 20 avril 1994 modifié pour la ou les substances considérées ;
+a) Soit à celle fixée à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 pour la ou les substances considérées ;
 
-b) Soit à celle fixée au point 3 de la partie B de la présente annexe (tableau III ou III A) lorsque la ou les substances ne figurent pas à l'annexe I de l'arrêté du 20 avril 1994 modifié ou qu'elles y figurent sans limites de concentration.
+b) Soit à celle fixée au point 3 de la partie B de la présente annexe (tableau III ou III A) lorsque la ou les substances ne figurent pas à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 ou qu'elles y figurent sans limites de concentration.
 
 3. Les préparations suivantes sont classées comme nocives
 
@@ -110,9 +110,9 @@ b) Soit à celle fixée au point 3 de la partie B de la présente annexe (tablea
 
 3.1.1. Les préparations contenant une ou plusieurs substances classées comme très toxiques, toxiques ou nocives et qui produisent de tels effets à une concentration individuelle égale ou supérieure :
 
-a) Soit à celle fixée à l'annexe I de l'arrêté du 20 avril 1994 modifié pour la ou les substances considérées ;
+a) Soit à celle fixée à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 pour la ou les substances considérées ;
 
-b) Soit à celle fixée au point 1 de la partie B de la présente annexe (tableau I ou I A) lorsque la ou les substances ne figurent pas à l'annexe I de l'arrêté du 20 avril 1994 modifié ou qu'elles y figurent sans limites de concentration ;
+b) Soit à celle fixée au point 1 de la partie B de la présente annexe (tableau I ou I A) lorsque la ou les substances ne figurent pas à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 ou qu'elles y figurent sans limites de concentration ;
 
 3.1.2. Les préparations contenant plusieurs substances classées comme très toxiques, toxiques ou nocives à une concentration individuelle inférieure aux limites spécifiées au point 3.1.1 a ou b lorsque :
 
@@ -134,17 +134,17 @@ Les préparations classées comme nocives conformément aux critères spécifié
 
 Les préparations contenant au moins une substance dangereuse classée comme très toxique, toxique ou nocive qui produit de tels effets à une concentration individuelle égale ou supérieure :
 
-a) Soit à celle fixée à l'annexe I de l'arrêté du 20 avril 1994 modifié pour la ou les substances considérées ;
+a) Soit à celle fixée à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 pour la ou les substances considérées ;
 
-b) Soit à celle fixée au point 2 de la partie B de la présente annexe (tableau II ou II A) lorsque la ou les substances ne figurent pas à l'annexe I de l'arrêté du 20 avril 1994 modifié ou qu'elles y figurent sans limites de concentration.
+b) Soit à celle fixée au point 2 de la partie B de la présente annexe (tableau II ou II A) lorsque la ou les substances ne figurent pas à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 ou qu'elles y figurent sans limites de concentration.
 
 3.4. Sur la base de leurs effets à long terme et affectées du symbole "Xn", de l'indication de danger "nocif" et des phrases de risque R 48/voie d'exposition :
 
 Les préparations contenant au moins une substance dangereuse classée comme toxique ou nocive produisant de tels effets à une concentration individuelle égale ou supérieure :
 
-a) Soit à celle fixée à l'annexe I de l'arrêté du 20 avril 1994 modifié pour la ou les substances considérées ;
+a) Soit à celle fixée à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 pour la ou les substances considérées ;
 
-b) Soit à celle fixée au point 3 de la partie B de la présente annexe (tableau III ou III A) lorsque la ou les substances ne figurent pas à l'annexe I de l'arrêté du 20 avril 1994 modifié ou qu'elles y figurent sans limites de concentration.
+b) Soit à celle fixée au point 3 de la partie B de la présente annexe (tableau III ou III A) lorsque la ou les substances ne figurent pas à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 ou qu'elles y figurent sans limites de concentration.
 
 4. Les préparations suivantes sont classées comme corrosives
 
@@ -152,9 +152,9 @@ b) Soit à celle fixée au point 3 de la partie B de la présente annexe (tablea
 
 4.1.1. Les préparations contenant une ou plusieurs substances classées comme corrosives et affectées de la phrase de risque R 35 à une concentration individuelle égale ou supérieure :
 
-a) Soit à celle fixée à l'annexe I de l'arrêté du 20 avril 1994 modifié pour la ou les substances considérées ;
+a) Soit à celle fixée à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 pour la ou les substances considérées ;
 
-b) Soit à celle fixée au point 4 de la partie B de la présente annexe (tableau IV ou IV A), lorsque la ou les substances ne figurent pas à l'annexe I de l'arrêté du 20 avril 1994 modifié ou qu'elles y figurent sans limites de concentration ;
+b) Soit à celle fixée au point 4 de la partie B de la présente annexe (tableau IV ou IV A), lorsque la ou les substances ne figurent pas à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 ou qu'elles y figurent sans limites de concentration ;
 
 4.1.2. Les préparations contenant plusieurs substances classées comme corrosives et affectées de la phrase de risque R 35 à une concentration individuelle inférieure aux limites fixées au point 4.1.1 a ou b si :
 
@@ -170,9 +170,9 @@ LC, R 35 est la limite de corrosion R 35 fixée pour chaque substance corrosive 
 
 4.2.1. Les préparations contenant une ou plusieurs substances classées comme corrosives et affectées de la phrase de risque R 35 ou R 34 à une concentration individuelle égale ou supérieure :
 
-a) Soit à celle fixée à l'annexe I de l'arrêté du 20 avril 1994 modifié pour la ou les substances considérées ;
+a) Soit à celle fixée à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 pour la ou les substances considérées ;
 
-b) Soit à celle fixée au point 4 de la partie B de la présente annexe (tableau IV et IV A) lorsque la ou les substances ne figurent pas à l'annexe I de l'arrêté du 20 avril 1994 modifié ou qu'elles y figurent sans limites de concentration ;
+b) Soit à celle fixée au point 4 de la partie B de la présente annexe (tableau IV et IV A) lorsque la ou les substances ne figurent pas à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 ou qu'elles y figurent sans limites de concentration ;
 
 4.2.2. Les préparations contenant plusieurs substances classées comme corrosives et affectées de la phrase de risque R 35 ou R 34 à une concentration individuelle ne dépassant pas les limites fixées au point 4.2.1 a ou b si :
 
@@ -192,9 +192,9 @@ LC, R 34 est la limite respective de corrosion fixée pour chaque substance corr
 
 5.1.1. Les préparations contenant une ou plusieurs substances classées comme irritantes et affectées de la phrase de risque R 41 pour une concentration individuelle égale ou supérieure :
 
-a) Soit à celle fixée à l'annexe I de l'arrêté du 20 avril 1994 modifié pour la ou les substances considérées ;
+a) Soit à celle fixée à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 pour la ou les substances considérées ;
 
-b) Soit à celle fixée au point 4 de la partie B de la présente annexe (tableau IV et IV A) lorsque la ou les substances ne figurent pas à l'annexe I de l'arrêté du 20 avril 1994 modifié ou qu'elles y figurent sans limites de concentration ;
+b) Soit à celle fixée au point 4 de la partie B de la présente annexe (tableau IV et IV A) lorsque la ou les substances ne figurent pas à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 ou qu'elles y figurent sans limites de concentration ;
 
 5.1.2. Les préparations contenant plusieurs substances classées comme irritantes et affectées de la phrase de risque R 41 ou classées comme corrosives et affectées de la phrase de risque R 35 ou R 34 à une concentration individuelle ne dépassant pas les limites spécifiées au point 5.1.1 a ou b si :
 
@@ -214,9 +214,9 @@ LXi, R 41 est la limite d'irritation R 41 respective fixée pour chaque substanc
 
 5.2.1. Les préparations contenant une ou plusieurs substances classées comme corrosives et affectées des phrases de risque R 35 ou R 34, ou comme irritantes et affectées des phrases de risque R 41 ou R 36 à une concentration individuelle égale ou supérieure :
 
-a) Soit à celle fixée à l'annexe I de l'arrêté du 20 avril 1994 modifié pour la ou les substances considérées ;
+a) Soit à celle fixée à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 modifié pour la ou les substances considérées ;
 
-b) Soit à celle fixée au point 4 de la partie B de la présente annexe (tableau IV ou IV A) lorsque la ou les substances ne figurent pas à l'annexe I de l'arrêté du 20 avril 1994 modifié ou qu'elles y figurent sans limites de concentration ;
+b) Soit à celle fixée au point 4 de la partie B de la présente annexe (tableau IV ou IV A) lorsque la ou les substances ne figurent pas à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 ou qu'elles y figurent sans limites de concentration ;
 
 5.2.2. Les préparations contenant plusieurs substances classées soit comme irritantes et affectées de la phrase de risque R 41 ou R 36, soit comme corrosives et affectées des phrases de risque R 35 ou R 34 à une concentration individuelle ne dépassant pas les limites fixées au point 5.2.1 a ou b, si :
 
@@ -238,9 +238,9 @@ LXi, R 36 est la limite d'irritation R 36 respective fixée pour chaque substanc
 
 5.3.1. Les préparations contenant une ou plusieurs substances classées comme irritantes et affectées de la phrase de risque R 38 ou comme corrosives et affectées des phrases de risque R 35 ou R 34 à une concentration individuelle égale ou supérieure :
 
-a) Soit à celle fixée à l'annexe I de l'arrêté du 20 avril 1994 modifié pour la ou les substances considérées ;
+a) Soit à celle fixée à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 pour la ou les substances considérées ;
 
-b) Soit à celle fixée au point 4 de la partie B de la présente annexe (tableau IV ou IV A) lorsque la ou les substances ne figurent pas à l'annexe I de l'arrêté du 20 avril 1994 modifié ou qu'elles y figurent sans limites de concentration ;
+b) Soit à celle fixée au point 4 de la partie B de la présente annexe (tableau IV ou IV A) lorsque la ou les substances ne figurent pas à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 ou qu'elles y figurent sans limites de concentration ;
 
 5.3.2. Les préparations contenant plusieurs substances classées soit comme irritantes et affectées de la phrase de risque R 38 soit comme corrosives et affectées des phrases de risque R 35 ou R 34 à une concentration individuelle inférieure aux limites fixées au point 5.3.1 a ou b si :
 
@@ -260,9 +260,9 @@ LXi, R 38 est la limite d'irritation R 38 respective fixée pour chaque substanc
 
 5.4.1. Les préparations contenant une ou plusieurs substances classées comme irritantes et affectées de la phrase de risque R 37 à une concentration individuelle égale ou supérieure :
 
-a) Soit à celle fixée à l'annexe I de l'arrêté du 20 avril 1994 modifié pour la ou les substances considérées ;
+a) Soit à celle fixée à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 pour la ou les substances considérées ;
 
-b) Soit à celle fixée au point 4 de la partie B de la présente annexe (tableau IV ou IV A) lorsque la ou les substances ne figurent pas à l'annexe I de l'arrêté du 20 avril 1994 modifié ou qu'elles y figurent sans limites de concentration ;
+b) Soit à celle fixée au point 4 de la partie B de la présente annexe (tableau IV ou IV A) lorsque la ou les substances ne figurent pas à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 ou qu'elles y figurent sans limites de concentration ;
 
 5.4.2. Les préparations contenant plusieurs substances classées comme irritantes et affectées de la phrase de risque R 37 à une concentration individuelle inférieure aux limites fixées au point 5.4.1 a ou b si :
 
@@ -294,77 +294,77 @@ LXi, R 37 est la limite d'irritation fixée pour chaque substance corrosive gaze
 
 Les préparations contenant au moins une substance classée comme sensibilisante et affectée de la phrase de risque R 43 produisant de tels effets à une concentration individuelle égale ou supérieure :
 
-a) Soit à celle fixée à l'annexe I de l'arrêté du 20 avril 1994 modifié pour la ou les substances considérées ;
+a) Soit à celle fixée à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 pour la ou les substances considérées ;
 
-b) Soit à celle fixée au point 5 de la partie B de la présente annexe (tableau V ou V A) lorsque la ou les substances ne figurent pas à l'annexe I de l'arrêté du 20 avril 1994 modifié ou qu'elles y figurent sans limites de concentration.
+b) Soit à celle fixée au point 5 de la partie B de la présente annexe (tableau V ou V A) lorsque la ou les substances ne figurent pas à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 ou qu'elles y figurent sans limites de concentration.
 
 6.2. Par inhalation et affectées du symbole "Xn", de l'indication de danger "nocif" et de la phrase de risque R 42:
 
 Les préparations contenant au moins une substance classée comme sensibilisante et affectée de la phrase de risque R 42 produisant de tels effets à une concentration individuelle égale ou supérieure :
 
-a) Soit à celle fixée à l'annexe I de l'arrêté du 20 avril 1994 modifié pour la ou les substances considérées ;
+a) Soit à celle fixée à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 pour la ou les substances considérées ;
 
-b) Soit à celle fixée au point 5 de la partie B de la présente annexe (tableau V ou V A) lorsque la ou les substances ne figurent pas à l'annexe I de l'arrêté du 20 avril 1994 modifié ou qu'elles y figurent sans limites de concentration.
+b) Soit à celle fixée au point 5 de la partie B de la présente annexe (tableau V ou V A) lorsque la ou les substances ne figurent pas à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 ou qu'elles y figurent sans limites de concentration.
 
 7. Les préparations suivantes sont classées comme cancérogènes
 
 7.1. Les préparations de catégorie 1 ou 2 et affectées du symbole "T" et de la phrase de risque R 45 ou R 49, contenant au moins une substance produisant de tels effets, classée comme cancérogène et affectée de la phrase de risque R 45 ou R 49 caractérisant les substances cancérogènes de catégorie 1 et de catégorie 2 à une concentration individuelle égale ou supérieure :
 
-a) Soit à celle fixée à l'annexe I de l'arrêté du 20 avril 1994 modifié pour la ou les substances considérées ;
+a) Soit à celle fixée à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 pour la ou les substances considérées ;
 
-b) Soit à celle fixée au point 6 de la partie B de la présente annexe (tableau VI ou VI A) lorsque la ou les substances ne figurent pas à l'annexe I de l'arrêté du 20 avril 1994 modifié ou qu'elles y figurent sans limites de concentration ;
+b) Soit à celle fixée au point 6 de la partie B de la présente annexe (tableau VI ou VI A) lorsque la ou les substances ne figurent pas à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 ou qu'elles y figurent sans limites de concentration ;
 
 7.2. Les préparations de catégorie 3 et affectées du symbole "Xn" et de la phrase de risque R 40, contenant au moins une substance produisant de tels effets, classée comme cancérogène et affectée de la phrase de risque R 40 caractérisant les substances cancérogènes de catégorie 3 à une concentration individuelle égale ou supérieure :
 
-a) Soit à celle fixée à l'annexe I de l'arrêté du 20 avril 1994 modifié pour la ou les substances considérées ;
+a) Soit à celle fixée à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 pour la ou les substances considérées ;
 
-b) Soit à celle fixée au point 6 de la partie B de la présente annexe (tableau VI ou VI A) lorsque la ou les substances ne figurent pas à l'annexe I de l'arrêté du 20 avril 1994 modifié ou qu'elles y figurent sans limites de concentration.
+b) Soit à celle fixée au point 6 de la partie B de la présente annexe (tableau VI ou VI A) lorsque la ou les substances ne figurent pas à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 ou qu'elles y figurent sans limites de concentration.
 
 8. Les préparations suivantes sont classées comme mutagènes
 
 8.1. Les préparations de catégorie 1 ou 2 et affectées du symbole "T" et de la phrase de risque R 46, contenant au moins une substance produisant de tels effets, classée comme mutagène et affectée de la phrase de risque R 46 caractérisant les substances mutagènes de catégorie 1 et 2 à une concentration individuelle égale ou supérieure :
 
-a) Soit à celle fixée à l'annexe I de l'arrêté du 20 avril 1994 modifié pour la ou les substances considérées ;
+a) Soit à celle fixée à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 pour la ou les substances considérées ;
 
-b) Soit à celle fixée au point 6 de la partie B de la présente annexe (tableau VI ou VI A) lorsque la ou les substances ne figurent pas à l'annexe I de l'arrêté du 20 avril 1994 modifié ou qu'elles y figurent sans limites de concentration ;
+b) Soit à celle fixée au point 6 de la partie B de la présente annexe (tableau VI ou VI A) lorsque la ou les substances ne figurent pas à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 ou qu'elles y figurent sans limites de concentration ;
 
 8.2. Les préparations de catégorie 3 et affectées du symbole "Xn" et de la phrase de risque R 68, contenant au moins une substance produisant de tels effets, classée comme mutagène et affectée de la phrase de risque R 68 caractérisant les substances mutagènes de catégorie 3 à une concentration individuelle égale ou supérieure :
 
-a) Soit à celle fixée à l'annexe I de l'arrêté du 20 avril 1994 modifié pour la ou les substances considérées ;
+a) Soit à celle fixée à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 pour la ou les substances considérées ;
 
-b) Soit à celle fixée au point 6 de la partie B de la présente annexe (tableau VI ou VI A) lorsque la ou les substances ne figurent pas à l'annexe I de l'arrêté du 20 avril 1994 modifié ou qu'elles y figurent sans limites de concentration.
+b) Soit à celle fixée au point 6 de la partie B de la présente annexe (tableau VI ou VI A) lorsque la ou les substances ne figurent pas à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 ou qu'elles y figurent sans limites de concentration.
 
 9. Les préparations suivantes sont classées comme toxiques pour la reproduction
 
 9.1. Les préparations de catégorie 1 ou 2 et affectées du symbole "T" et de la phrase de risque R 60 (fertilité), contenant au moins une substance produisant de tels effets, classée comme toxique pour la reproduction et affectée de la phrase de risque R 60 caractérisant les substances toxiques pour la reproduction de catégorie 1 et 2 à une concentration individuelle égale ou supérieure :
 
-a) Soit à celle fixée à l'annexe I de l'arrêté du 20 avril 1994 modifié pour la ou les substances considérées ;
+a) Soit à celle fixée à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 pour la ou les substances considérées ;
 
-b) Soit à celle fixée au point 6 de la partie B de la présente annexe (tableau VI ou VI A) lorsque la ou les substances ne figurent pas à l'annexe I de l'arrêté du 20 avril 1994 modifié ou qu'elles y figurent sans limites de concentration ;
+b) Soit à celle fixée au point 6 de la partie B de la présente annexe (tableau VI ou VI A) lorsque la ou les substances ne figurent pas à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 ou qu'elles y figurent sans limites de concentration ;
 
 9.2. Les préparations de catégorie 3 et affectées du symbole "Xn" et de la phrase de risque R 62 (fertilité), contenant au moins une substance produisant de tels effets, classée comme toxique pour la reproduction et affectée de la phrase de risque R 62 caractérisant les substances toxiques pour la reproduction de catégorie 3 à une concentration individuelle égale ou supérieure :
 
-a) Soit à celle fixée à l'annexe I de l'arrêté du 20 avril 1994 modifié pour la ou les substances considérées ;
+a) Soit à celle fixée à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 pour la ou les substances considérées ;
 
-b) Soit à celle fixée au point 6 de la partie B de la présente annexe (tableau VI ou VI A) lorsque la ou les substances ne figurent pas à l'annexe I de l'arrêté du 20 avril 1994 modifié ou qu'elles y figurent sans limites de concentration ;
+b) Soit à celle fixée au point 6 de la partie B de la présente annexe (tableau VI ou VI A) lorsque la ou les substances ne figurent pas à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 ou qu'elles y figurent sans limites de concentration ;
 
 9.3. Les préparations de catégorie 1 ou 2 et affectées du symbole "T" et de la phrase de risque R 61 (développement), contenant au moins une substance produisant de tels effets, classée comme toxique pour la reproduction et affectée de la phrase de risque R 61 caractérisant les substances toxiques pour la reproduction de catégorie 1 et 2 à une concentration individuelle égale ou supérieure :
 
-a) Soit à celle fixée à l'annexe I de l'arrêté du 20 avril 1994 modifié pour la ou les substances considérées ;
+a) Soit à celle fixée à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 pour la ou les substances considérées ;
 
-b) Soit à celle fixée au point 6 de la partie B de la présente annexe (tableau VI ou VI A) lorsque la ou les substances ne figurent pas à l'annexe I de l'arrêté du 20 avril 1994 modifié ou qu'elles y figurent sans limites de concentration ;
+b) Soit à celle fixée au point 6 de la partie B de la présente annexe (tableau VI ou VI A) lorsque la ou les substances ne figurent pas à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 ou qu'elles y figurent sans limites de concentration ;
 
 9.4. Les préparations de catégorie 3 et affectées du symbole "Xn" et de la phrase de risque R 63 (développement), contenant au moins une substance produisant de tels effets, classée comme toxique pour la reproduction et affectée de la phrase de risque R 63 caractérisant les substances toxiques pour la reproduction de catégorie 3 à une concentration individuelle égale ou supérieure :
 
-a) Soit à celle fixée à l'annexe I de l'arrêté du 20 avril 1994 modifié pour la ou les substances considérées ;
+a) Soit à celle fixée à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 pour la ou les substances considérées ;
 
-b) Soit à celle fixée au point 6 de la partie B de la présente annexe (tableau VI ou VI A) lorsque la ou les substances ne figurent pas à l'annexe I de l'arrêté du 20 avril 1994 modifié ou qu'elles y figurent sans limites de concentration.
+b) Soit à celle fixée au point 6 de la partie B de la présente annexe (tableau VI ou VI A) lorsque la ou les substances ne figurent pas à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 ou qu'elles y figurent sans limites de concentration.
 
 Partie B
 
 Limites de concentration à utiliser lors de l'évaluation des dangers pour la santé
 
-Pour chacun des effets dangereux pour la santé, le premier tableau (tableaux I à VI) fixe les limites de concentration (exprimées en pourcentage poids/poids) à utiliser pour les préparations non gazeuses et le deuxième tableau (tableaux I A à VI A) fixe les limites de concentration (exprimées en pourcentage volume/volume) à utiliser pour les préparations gazeuses. Ces limites de concentration sont utilisées en l'absence de limites de concentration spécifiques pour la substance considérée dans l'annexe I de l'arrêté du 20 avril 1994 modifié.
+Pour chacun des effets dangereux pour la santé, le premier tableau (tableaux I à VI) fixe les limites de concentration (exprimées en pourcentage poids/poids) à utiliser pour les préparations non gazeuses et le deuxième tableau (tableaux I A à VI A) fixe les limites de concentration (exprimées en pourcentage volume/volume) à utiliser pour les préparations gazeuses. Ces limites de concentration sont utilisées en l'absence de limites de concentration spécifiques pour la substance considérée dans l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008.
 
 1. Effets létaux aigus
 

@@ -8,45 +8,45 @@ Tout emballage doit porter de manière lisible et indélébile les indications s
 
 3. Le nom chimique de la substance ou des substances présentes dans la préparation, selon les conditions suivantes :
 
-3.1. Pour les préparations classées T+, T, Xn conformément aux articles 15 à 18, seules les substances T+, T, Xn présentes en concentration égale ou supérieure à la limite la plus basse (limite Xn) fixée pour chacune d'elles à l'annexe I de l'arrêté du 20 avril 1994 susvisé ou, à défaut, à l'annexe II, partie B, du présent arrêté, (annexe non reproduite) doivent être prises en considération ;
+3. 1. Pour les préparations classées T +, T, Xn conformément aux articles 15 à 18, seules les substances T +, T, Xn présentes en concentration égale ou supérieure à la limite la plus basse (limite Xn) fixée pour chacune d'elles à l' annexe VI, partie 3, du règlement (CE) n° 1272/2008 ou, à défaut, à l'annexe II, partie B, du présent arrêté, (annexe non reproduite) doivent être prises en considération ;
 
-3.2. Pour les préparations classées C conformément aux articles 15 à 18, seules les substances C présentes en concentration égale ou supérieure à la limite la plus basse (limite Xi) fixée à l'annexe I de l'arrêté du 20 avril 1994 modifié ou, à défaut, à l'annexe II, partie B, du présent arrêté, (annexe non reproduite) doivent être prises en considération ;
+3. 2. Pour les préparations classées C conformément aux articles 15 à 18, seules les substances C présentes en concentration égale ou supérieure à la limite la plus basse (limite Xi) fixée à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 ou, à défaut, à l'annexe II, partie B, du présent arrêté, (annexe non reproduite) doivent être prises en considération ;
 
-3.3. Les noms des substances qui ont donné lieu au classement de la préparation dans une ou plusieurs des catégories de danger suivantes :
+3. 3. Les noms des substances qui ont donné lieu au classement de la préparation dans une ou plusieurs des catégories de danger suivantes :
 
-- cancérogène catégorie 1, 2 ou 3 ;
+-cancérogène catégorie 1, 2 ou 3 ;
 
-- mutagène catégorie 1, 2 ou 3 ;
+-mutagène catégorie 1, 2 ou 3 ;
 
-- toxique pour la reproduction catégorie 1, 2 ou 3 ;
+-toxique pour la reproduction catégorie 1, 2 ou 3 ;
 
-- très toxique, toxique ou nocif en raison d'effets non létaux après une seule exposition ;
+-très toxique, toxique ou nocif en raison d'effets non létaux après une seule exposition ;
 
-- toxique ou nocif en raison d'effets graves après exposition répétée ou prolongée, sensibilisant,
+-toxique ou nocif en raison d'effets graves après exposition répétée ou prolongée, sensibilisant,
 
 doivent figurer sur l'étiquette.
 
-Le nom chimique doit figurer sous une des dénominations figurant à l'annexe I de l'arrêté du 20 avril 1994 modifié ou dans une nomenclature chimique internationalement reconnue si la substance ne figure pas encore dans cette annexe.
+Le nom chimique doit figurer sous une des dénominations figurant à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 ou dans une nomenclature chimique internationalement reconnue si la substance ne figure pas encore dans cette annexe.
 
-3.4. En conséquence des dispositions ci-dessus, il n'est pas nécessaire de faire figurer sur l'étiquette le nom de la ou des substances qui ont conduit à la classification de la préparation dans l'une ou plusieurs des catégories de danger suivantes :
+3. 4. En conséquence des dispositions ci-dessus, il n'est pas nécessaire de faire figurer sur l'étiquette le nom de la ou des substances qui ont conduit à la classification de la préparation dans l'une ou plusieurs des catégories de danger suivantes :
 
-- explosible ;
+-explosible ;
 
-- comburant ;
+-comburant ;
 
-- extrêmement inflammable ;
+-extrêmement inflammable ;
 
-- facilement inflammable ;
+-facilement inflammable ;
 
-- inflammable ;
+-inflammable ;
 
-- irritant ;
+-irritant ;
 
-- dangereux pour l'environnement,
+-dangereux pour l'environnement,
 
-à moins que la ou les substances ne soient déjà mentionnées en vertu des points 3.1, 3.2 ou 3.3.
+à moins que la ou les substances ne soient déjà mentionnées en vertu des points 3. 1, 3. 2 ou 3. 3.
 
-3.5. En règle générale, un maximum de quatre noms chimiques suffit à identifier les substances principalement responsables des dangers majeurs pour la santé qui ont donné lieu au classement et au choix des phrases de risque correspondantes. Dans certains cas, plus de quatre noms chimiques peuvent être nécessaires.
+3. 5. En règle générale, un maximum de quatre noms chimiques suffit à identifier les substances principalement responsables des dangers majeurs pour la santé qui ont donné lieu au classement et au choix des phrases de risque correspondantes. Dans certains cas, plus de quatre noms chimiques peuvent être nécessaires.
 
 4. Les symboles et indications de danger.
 
@@ -54,13 +54,13 @@ Les symboles de danger, dans la mesure où ils sont prévus dans le présent arr
 
 Lorsque plus d'un symbole de danger doit être assigné à une préparation, l'obligation d'apposer :
 
-- le symbole T rend facultatifs les symboles C et X, sauf dispositions contraires de l'annexe I de l'arrêté du 20 avril 1994 modifié ;
+-le symbole T rend facultatifs les symboles C et X, sauf dispositions contraires de l'annexe I de l'arrêté du 20 avril 1994 modifié ;
 
-- le symbole C rend facultatif le symbole X ;
+-le symbole C rend facultatif le symbole X ;
 
-- le symbole E rend facultatifs les symboles F et O ;
+-le symbole E rend facultatifs les symboles F et O ;
 
-- le symbole Xn rend facultatif le symbole Xi.
+-le symbole Xn rend facultatif le symbole Xi.
 
 Le ou les symboles sont imprimés en noir sur fond orange-jaune.
 
@@ -70,7 +70,7 @@ Les indications concernant les risques particuliers (phrases de risque R) doiven
 
 En règle générale, un maximum de six phrases de risque R suffit pour décrire les risques ; à cette fin, les phrases combinées répertoriées à l'annexe III de l'arrêté du 20 avril 1994 susvisé sont considérées comme des phrases uniques. Cependant, lorsque la préparation appartient simultanément à plusieurs catégories de danger, ces phrases types doivent couvrir l'ensemble des risques principaux présentés par la préparation. Dans certains cas, plus de six phrases de risque R peuvent être nécessaires.
 
-Les phrases types "extrêmement inflammable" ou "facilement inflammable" peuvent ne pas être indiquées lorsqu'elles reprennent une indication de danger utilisée en application du point 4 du présent article.
+Les phrases types " extrêmement inflammable " ou " facilement inflammable " peuvent ne pas être indiquées lorsqu'elles reprennent une indication de danger utilisée en application du point 4 du présent article.
 
 6. Les conseils de prudence (phrases S).
 

@@ -12,9 +12,9 @@ La partie B indique les limites de concentration à utiliser en cas d'applicatio
 
 Conformément à l'article 19, point a, du présent arrêté, les dangers d'une préparation pour l'environnement sont évalués par la méthode conventionnelle décrite dans les parties A et B de la présente annexe, à l'aide de limites de concentration individuelles.
 
-a) Lorsque les substances dangereuses énumérées à l'annexe I de l'arrêté du 20 avril 1994 modifié sont affectées de limites de concentration nécessaires à l'application de la méthode d'évaluation décrite dans la partie A de la présente annexe, ces limites de concentration doivent être utilisées.
+a) Lorsque les substances dangereuses énumérées à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 sont affectées de limites de concentration nécessaires à l'application de la méthode d'évaluation décrite dans la partie A de la présente annexe, ces limites de concentration doivent être utilisées.
 
-b) Lorsque les substances dangereuses ne figurent pas à l'annexe I de l'arrêté du 20 avril 1994 modifié ou y figurent sans les limites de concentration nécessaires à l'application de la méthode d'évaluation décrite dans la partie A de la présente annexe, les limites de concentration sont attribuées conformément à la spécification indiquée dans la partie B de la présente annexe.
+b) Lorsque les substances dangereuses ne figurent pas à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 ou y figurent sans les limites de concentration nécessaires à l'application de la méthode d'évaluation décrite dans la partie A de la présente annexe, les limites de concentration sont attribuées conformément à la spécification indiquée dans la partie B de la présente annexe.
 
 La partie C de la présente annexe indique les méthodes d'essai permettant d'évaluer les dangers pour l'environnement aquatique.
 
@@ -34,9 +34,9 @@ Les préparations énumérées ci-après sont classées comme dangereuses pour l
 
 1.1. Préparations contenant une ou plusieurs substances classées comme dangereuses pour l'environnement et affectées des phrases de risque R 50-53, à des concentrations individuelles égales ou supérieures :
 
-a) Soit à celle fixée à l'annexe I de l'arrêté du 20 avril 1994 modifié pour la ou les substances considérées ;
+a) Soit à celle fixée à l'annexe VI, partie 3, du règlement (CE) n° 1272/2008 modifié pour la ou les substances considérées ;
 
-b) Soit à celle fixée dans la partie B de la présente annexe (tableau 1) lorsque la ou les substances ne figurent pas à l'annexe I de l'arrêté du 20 avril 1994 modifié ou qu'elles y figurent sans limites de concentration ;
+b) Soit à celle fixée dans la partie B de la présente annexe (tableau 1) lorsque la ou les substances ne figurent pas à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 ou qu'elles y figurent sans limites de concentration ;
 
 1.2. Les préparations contenant plusieurs substances classées comme dangereuses pour l'environnement et affectées des phrases de risque R 50-53 à une concentration individuelle inférieure aux limites mentionnées au point I.1.1 a ou b, mais pour lesquelles :
 
@@ -52,9 +52,9 @@ LN, R 50-53 est la limite R 50-53 fixée pour chaque substance dangereuse pour l
 
 2.1. Les préparations contenant une ou plusieurs substances classées comme dangereuses pour l'environnement et affectées des phrases de risque R 50-53 ou R 51-53 pour une concentration individuelle égale ou supérieure :
 
-a) Soit à celle fixée à l'annexe I de l'arrêté du 20 avril 1994 modifié pour la ou les substances considérées ;
+a) Soit à celle fixée à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 pour la ou les substances considérées ;
 
-b) Soit à celle fixée dans la partie B de la présente annexe (tableau 1) lorsque la ou les substances ne figurent pas à l'annexe I de l'arrêté du 20 avril 1994 modifié ou y figurent sans limites de concentration ;
+b) Soit à celle fixée dans la partie B de la présente annexe (tableau 1) lorsque la ou les substances ne figurent pas à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 ou y figurent sans limites de concentration ;
 
 2.2. Les préparations contenant plusieurs substances classées comme dangereuses pour l'environnement et affectées des phrases de risque R 50-53 ou R 51-53 à une concentration individuelle inférieure aux limites mentionnées au point I.2.1 a ou b, mais pour lesquelles :
 
@@ -72,9 +72,9 @@ LN,R 51-53 est la limite R 51-53 respective fixée pour chaque substance dangere
 
 3.1. Les préparations contenant une ou plusieurs substances classées comme dangereuses pour l'environnement et affectées des phrases de risque R 50-53, R 51-53 ou R 52-53 pour une concentration individuelle égale ou supérieure :
 
-a) Soit à celle fixée à l'annexe I de l'arrêté du 20 avril 1994 modifié pour la ou les substances considérées ;
+a) Soit à celle fixée à l'annexe VI, partie 3, du règlement (CE) n° 1272/2008 modifié pour la ou les substances considérées ;
 
-b) Soit à celle fixée dans la partie B de la présente annexe (tableau 1) lorsque la ou les substances ne figurent pas à l'annexe I de l'arrêté du 20 avril 1994 modifié ou y figurent sans limites de concentration ;
+b) Soit à celle fixée dans la partie B de la présente annexe (tableau 1) lorsque la ou les substances ne figurent pas à l'annexe VI, partie 3, du règlement (CE) n° 1272/2008 modifié ou y figurent sans limites de concentration ;
 
 3.2. Les préparations contenant plusieurs substances classées comme dangereuses pour l'environnement et affectées des phrases de risque R 50-53, R 51-53 ou R 52-53 à une concentration individuelle inférieure aux limites mentionnées au point I.3.1 a ou b, mais pour lesquelles :
 
@@ -94,9 +94,9 @@ LR 52-53 est la limite R 52-53 respective fixée pour chaque substance dangereus
 
 4.1. Les préparations contenant une ou plusieurs substances classées comme dangereuses pour l'environnement et affectées de la phrase de risque R 50 pour une concentration individuelle égale ou supérieure :
 
-a) Soit à celle fixée à l'annexe I de l'arrêté du 20 avril 1994 modifié pour la ou les substances considérées ;
+a) Soit à celle fixée à l'annexe VI, partie 3, du règlement (CE) n° 1272/2008 modifié pour la ou les substances considérées ;
 
-b) Soit à celle fixée dans la partie B de la présente annexe (tableau 2) lorsque la ou les substances ne figurent pas à l'annexe I de l'arrêté du 20 avril 1994 modifié ou y figurent sans limites de concentration ;
+b) Soit à celle fixée dans la partie B de la présente annexe (tableau 2) lorsque la ou les substances ne figurent pas à l'annexe VI, partie 3, du règlement (CE) n° 1272/2008 modifié ou y figurent sans limites de concentration ;
 
 4.2. Les préparations contenant plusieurs substances classées comme dangereuses pour l'environnement et affectées de la phrase de risque R 50 pour une concentration individuelle inférieure aux limites mentionnées au point I.4.1 a ou b, mais pour lesquelles :
 
@@ -124,9 +124,9 @@ LN, R 50 est la limite R 50 fixée pour chaque substance dangereuse pour l'envir
 
 5.1. Les préparations contenant une ou plusieurs substances classées comme dangereuses pour l'environnement et affectées de la phrase de risque R 52 à une concentration individuelle égale ou supérieure :
 
-a) Soit à celle fixée à l'annexe I de l'arrêté du 20 avril 1994 modifié pour la ou les substances considérées ;
+a) Soit à celle fixée à l'annexe VI, partie 3, du règlement (CE) n° 1272/2008 modifié pour la ou les substances considérées ;
 
-b) Soit à celle fixée dans la partie B de la présente annexe (tableau 3) lorsque la ou les substances ne figurent pas à l'annexe I de l'arrêté du 20 avril 1994 modifié ou y figurent sans limites de concentration ;
+b) Soit à celle fixée dans la partie B de la présente annexe (tableau 3) lorsque la ou les substances ne figurent pas à l'annexe VI, partie 3, du règlement (CE) n° 1272/2008 modifié ou y figurent sans limites de concentration ;
 
 5.2. Les préparations contenant plusieurs substances classées comme dangereuses pour l'environnement et affectées de la phrase de risque R 52 à une concentration individuelle inférieure aux limites mentionnées au point I.5.1 a ou b, mais pour lesquelles :
 
@@ -142,9 +142,9 @@ LR 52 est la limite R 52 fixée pour chaque substance dangereuse pour l'environn
 
 6.1. Les préparations contenant une ou plusieurs substances classées comme dangereuses pour l'environnement et affectées de la phrase de risque R 53 à une concentration individuelle égale ou supérieure :
 
-a) Soit à celle fixée à l'annexe I de l'arrêté du 20 avril 1994 modifié pour la ou les substances considérées ;
+a) Soit à celle fixée à l'annexe VI, partie 3, du règlement (CE) n° 1272/2008 modifié pour la ou les substances considérées ;
 
-b) Soit à celle fixée dans la partie B de la présente annexe (tableau 4) lorsque la ou les substances ne figurent pas à l'annexe I de l'arrêté du 20 avril 1994 modifié ou y figurent sans limites de concentration ;
+b) Soit à celle fixée dans la partie B de la présente annexe (tableau 4) lorsque la ou les substances ne figurent pas à l'annexe VI, partie 3, du règlement (CE) n° 1272/2008 modifié ou y figurent sans limites de concentration ;
 
 6.2. Les préparations contenant plusieurs substances classées comme dangereuses pour l'environnement et affectées de la phrase de risque R 53 pour une concentration individuelle inférieure aux limites mentionnées au point I.6.1 a ou b, mais pour lesquelles :
 
@@ -184,17 +184,17 @@ Les préparations suivantes sont classées comme dangereuses pour l'environnemen
 
 1.1. Les préparations contenant une ou plusieurs substances classées comme dangereuses pour l'environnement et affectées du symbole "N" et de la phrase de risque R 59 à une concentration individuelle égale ou supérieure :
 
-a) Soit à celle fixée à l'annexe I de l'arrêté du 20 avril 1994 modifié pour la ou les substances considérées ;
+a) Soit à celle fixée à l'annexe VI, partie 3, du règlement (CE) n° 1272/2008 modifié pour la ou les substances considérées ;
 
-b) Soit à celle fixée dans la partie B de la présente annexe (tableau 5) lorsque la ou les substances ne figurent pas à l'annexe I de l'arrêté du 20 avril 1994 modifié ou y figurent sans limites de concentration ;
+b) Soit à celle fixée dans la partie B de la présente annexe (tableau 5) lorsque la ou les substances ne figurent pas à l'annexe VI, partie 3, du règlement (CE) n° 1272/2008 modifié ou y figurent sans limites de concentration ;
 
 2. (Paragraphe supprimé)
 
 2.1. Les préparations contenant une ou plusieurs substances classées comme dangereuses pour l'environnement et affectées de la phrase de risque R 59 pour une concentration individuelle supérieure ou égale :
 
-a) Soit à celle fixée à l'annexe I de l'arrêté du 20 avril 1994 modifié pour la ou les substances considérées ;
+a) Soit à celle fixée à l'annexe VI, partie 3, du règlement (CE) n° 1272/2008 modifié pour la ou les substances considérées ;
 
-b) Soit à celle fixée dans la partie B de la présente annexe (tableau 5) lorsque la ou les substances ne figurent pas dans l'annexe I de l'arrêté du 20 avril 1994 modifié ou y figurent sans limites de concentration.
+b) Soit à celle fixée dans la partie B de la présente annexe (tableau 5) lorsque la ou les substances ne figurent pas dans l'annexe VI, partie 3, du règlement (CE) n° 1272/2008 modifié ou y figurent sans limites de concentration.
 
 2. Environnement terrestre
 

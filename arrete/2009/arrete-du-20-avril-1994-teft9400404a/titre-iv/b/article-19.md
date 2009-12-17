@@ -2,13 +2,13 @@
 
 I. L'étiquette ou inscription doit comporter en caractères très apparents et indélébiles :
 
-a) Le nom de la substance sous une des dénominations qui figurent à l'annexe I (annexe non reproduite) du présent arrêté ; si la substance ne figure pas à l'annexe I, le nom doit être donné en utilisant une nomenclature internationalement reconnue ;
+a) Le nom de la substance sous une des dénominations qui figurent à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 (annexe non reproduite) du présent arrêté ; si la substance ne figure pas à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008, le nom doit être donné en utilisant une nomenclature internationalement reconnue ;
 
 b) Le nom et l'adresse, y compris le numéro de téléphone du fabricant, du distributeur ou de l'importateur, responsable de la mise sur le marché, établi dans la Communauté européenne ;
 
 c) Le cas échéant, le ou les symboles et les indications de dangers présentés par la substance.
 
-Ces symboles et indications de danger doivent être conformes à ceux de l'annexe II (annexe non reproduite) du présent arrêté. Les symboles et indications de danger sont indiqués pour chaque substance à l'annexe I du présent arrêté ; pour les substances dangereuses non encore inscrites à l'annexe I, les symboles et indications de danger sont attribués selon les règles de classification et d'étiquetage décrites à l'annexe VI du présent arrêté.
+Ces symboles et indications de danger doivent être conformes à ceux de l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008  (annexe non reproduite) du présent arrêté. Les symboles et indications de danger sont indiqués pour chaque substance à annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 ; pour les substances dangereuses non encore inscrites à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 , les symboles et indications de danger sont attribués selon les règles de classification et d'étiquetage décrites à l'annexe VI du présent arrêté.
 
 Chaque symbole doit être imprimé en noir sur fond orange-jaune.
 
@@ -16,7 +16,7 @@ Il doit occuper au moins un dixième de la surface de l'étiquette et avoir une 
 
 Lorsque plus d'un symbole est attribué à une substance :
 
-l'apposition du symbole T rend facultatifs les symboles C et X sauf disposition contraire de l'annexe I du présent arrêté ;
+l'apposition du symbole T rend facultatifs les symboles C et X sauf disposition contraire de l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 du présent arrêté ;
 
 l'apposition du symbole C rend facultatif le symbole X ;
 
@@ -36,7 +36,7 @@ f) Le numéro C.E. lorsqu'il est attribué.
 
 Le numéro C.E. est obtenu à partir de l'inventaire européen des substances commerciales existantes visé au I de l'article R. 231-52 ou de la liste européenne des substances déclarées dans la Communauté européenne et communiquée par la commission de la Communauté européenne.
 
-Ce numéro est mentionné à l'annexe I du présent arrêté pour les substances qui figurent à cette annexe ; l'étiquetage de ces substances doit porter, en outre, la mention " étiquetage C.E ".
+Ce numéro est mentionné à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 pour les substances qui figurent à cette annexe ; l'étiquetage de ces substances doit porter, en outre, la mention " étiquetage CE ".
 
 II. Pour les substances irritantes, facilement inflammables, inflammables ou comburantes, il n'est pas nécessaire de rappeler les phrases de risques et de conseils de prudence si le contenu de l'emballage ne dépasse pas 125 millilitres. Il en est de même pour les substances nocives, de même volume, qui ne sont pas vendues au détail au grand public.
 

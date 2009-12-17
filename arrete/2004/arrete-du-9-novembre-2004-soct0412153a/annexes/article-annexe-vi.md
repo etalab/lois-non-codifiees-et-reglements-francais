@@ -70,7 +70,7 @@ Conformément à l'article R. 231-53-2 du code du travail, la demande de confide
 </tr>
 <tr>
 <td colspan="4" width="661">
-<p>Nota. - Pour les substances classées dangereuses et ne figurant pas à l'annexe I de l'arrêté du 20 avril 1994 modifié, il y a lieu de joindre les informations (références bibliographiques) justifiant que la classification a été effectuée en tenant compte de toutes les données pertinentes et accessibles existantes concernant les propriétés de la substance.</p>
+<p>Nota. - Pour les substances classées dangereuses et ne figurant pas à l'annexe VI, partie 3, du règlement (CE) n° 1272/2008, il y a lieu de joindre les informations (références bibliographiques) justifiant que la classification a été effectuée en tenant compte de toutes les données pertinentes et accessibles existantes concernant les propriétés de la substance.</p>
 </td>
 </tr>
 </tbody>
@@ -150,7 +150,7 @@ Lexique-guide pour l'établissement de dénominations de remplacement (noms gén
 
 1. Note introductive
 
-Ce lexique-guide s'inspire de la procédure de classement (répartition de substances en familles) des substances dangereuses telle qu'elle figure à l'annexe I de l'arrêté du 20 avril 1994 modifié.
+Ce lexique-guide s'inspire de la procédure de classement (répartition de substances en familles) des substances dangereuses telle qu'elle figure à l'annexe VI, partie 3, du règlement (CE) n° 1272/2008.
 
 Des désignations autres que celles fondées sur le présent guide peuvent être utilisées.
 
@@ -160,7 +160,7 @@ Les familles sont définies de la façon suivante :
 
 - substances inorganiques ou organiques dont l'élément chimique le plus caractéristique traduisant leurs propriétés est commun. Le nom de la famille est déduit du nom de l'élément chimique. Ces familles sont numérotées comme à l'annexe VII de l'arrêté du 20 avril 1994 modifié par le numéro atomique de l'élément chimique (001 à 103) ;
 
-- substances organiques dont le groupe fonctionnel le plus caractéristique traduisant leurs propriétés est commun. Le nom de famille est déduit du nom du groupe fonctionnel. Ces familles sont numérotées par le numéro conventionnel retenu à l'annexe I de l'arrêté du 20 avril 1994 modifié (601 à 650).
+- substances organiques dont le groupe fonctionnel le plus caractéristique traduisant leurs propriétés est commun. Le nom de famille est déduit du nom du groupe fonctionnel. Ces familles sont numérotées par le numéro conventionnel retenu à l'annexe VI, partie 3, du règlement (CE) n° 1272/2008 modifié (601 à 650).
 
 Des sous-familles regroupant des substances ayant des caractères spécifiques communs ont été ajoutées dans certains cas.
 
@@ -183,8 +183,7 @@ Les groupes fonctionnels et les éléments chimiques identifiés pris en compte 
 <tr>
 <td width="151">
 <p align="center">NUMÉRO DE FAMILLE</p>
-<p align="center">Annexe I de l'arrêté</p>
-<p align="center">du 20 avril 1994 modifié</p>
+<p align="center">Annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 </p>
 </td>
 <td width="264">
 <p>Familles</p>
@@ -780,8 +779,7 @@ Les groupes fonctionnels et les éléments chimiques identifiés pris en compte 
 <tr>
 <td width="151">
 <p align="center">NUMÉRO DE FAMILLE</p>
-<p align="center">Annexe I de l'arrêté</p>
-<p align="center">du 20 avril 1994 modifié</p>
+<p align="center">Annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 </p>
 </td>
 <td width="264">
 <p>Familles</p>
@@ -1236,8 +1234,7 @@ Les groupes fonctionnels et les éléments chimiques identifiés pris en compte 
 <tr>
 <td width="151">
 <p align="center">NUMÉRO DE FAMILLE</p>
-<p align="center">Annexe I de l'arrêté</p>
-<p align="center">du 20 avril 1994 modifié</p>
+<p align="center">Annexe VI, partie 3, du règlement (CE) n° 1272 / 2008 </p>
 </td>
 <td width="265">
 <p>Familles</p>

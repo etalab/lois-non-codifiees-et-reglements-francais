@@ -1,6 +1,6 @@
 # Article 8
 
-Pour les préparations visées par le présent arrêté, les substances dangereuses telles que visées à l'article 2 et qui sont classées comme dangereuses en raison de leurs effets sur la santé et/ou sur l'environnement, qu'elles soient présentes en tant qu'impuretés ou en tant qu'additifs, doivent être prises en considération lorsque leur concentration est égale ou supérieure à celle définie au tableau ci-après, sauf si des valeurs inférieures sont fixées à l'annexe I de l'arrêté du 20 avril 1994 susvisé, à l'annexe II, partie B, du présent arrêté, ou à son annexe III, partie B, sauf disposition contraire figurant à l'annexe V du présent arrêté.
+Pour les préparations visées par le présent arrêté, les substances dangereuses telles que visées à l'article 2 et qui sont classées comme dangereuses en raison de leurs effets sur la santé et/ou sur l'environnement, qu'elles soient présentes en tant qu'impuretés ou en tant qu'additifs, doivent être prises en considération lorsque leur concentration est égale ou supérieure à celle définie au tableau ci-après, sauf si des valeurs inférieures sont fixées à l'annexe VI, partie 3, du règlement (CE) n° 1272 / 2008, à l'annexe II, partie B, du présent arrêté, ou à son annexe III, partie B, sauf disposition contraire figurant à l'annexe V du présent arrêté.
 
 <table>
 <tbody>
