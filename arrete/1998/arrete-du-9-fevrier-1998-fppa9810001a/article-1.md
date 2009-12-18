@@ -6,15 +6,17 @@ Centre confédéral d'éducation ouvrière de la Confédération générale du t
 
 Institut confédéral d'études et de formation syndicale de la Confédération française démocratique du travail (CFDT), 4, boulevard de La Villette, 75955 Paris Cedex 19 ;
 
-Centre de formation de militants syndicalistes et centre d'éducation ouvrière de la Confédération générale du travail - Force ouvrière (CGT-FO), 141, avenue du Maine, 75680 Paris Cedex 14 ;
+Centre de formation de militants syndicalistes et centre d'éducation ouvrière de la Confédération générale du travail-Force ouvrière (CGT-FO), 141, avenue du Maine, 75680 Paris Cedex 14 ;
 
 Institut syndical de formation de la Confédération française des travailleurs chrétiens (CFTC), 13, rue des Ecluses-Saint-Martin, 75483 Paris Cedex 10 ;
 
-Centre de formation syndicale de la Confédération française de l'encadrement - Confédération générale des cadres (CFE-CGC), 30, rue de Gramont, 75002 Paris ;
+Centre de formation syndicale de la Confédération française de l'encadrement-Confédération générale des cadres (CFE-CGC), 30, rue de Gramont, 75002 Paris ;
 
 Institut de formation syndicale de la Fédération générale autonome des fonctionnaires (FGAF), 30, avenue de la Résistance, 93100 Montreuil ;
 
 Centre d'étude et de formation de l'Union nationale des syndicats autonomes (CEFU-UNSA), 32, rue Rodier, 75009 Paris ;
+
+Centre fédéral de formation syndicale de la Fédération syndicale unitaire (FSU), 104, rue Romain-Rolland, 93260 Les Lilas ;
 
 Institut du travail de l'université Robert-Schuman (Strasbourg-III), 39, avenue de la Forêt-Noire, 67000 Strasbourg ;
 
@@ -22,7 +24,7 @@ Institut des sciences sociales du travail de l'université Paris-I, 37, avenue d
 
 Institut national de formation et d'application du centre de culture ouvrière (INFA), 82, rue François-Rolland, 94130 Nogent-sur-Marne ;
 
-Institut régional d'éducation ouvrière Nord - Pas-de-Calais (IREO) de la faculté des sciences juridiques, politiques et sociales de l'université Lille-II, 1, place Déliot, BP 629, 59024 Lille Cedex ;
+Institut régional d'éducation ouvrière Nord-Pas-de-Calais (IREO) de la faculté des sciences juridiques, politiques et sociales de l'université Lille-II, 1, place Déliot, BP 629, 59024 Lille Cedex ;
 
 Institut d'études sociales de l'université des sciences sociales de Grenoble (Pierre-Mendès France), domaine universitaire de Saint-Martin-d'Hères, BP 47, 38040 Grenoble Cedex 9 ;
 
