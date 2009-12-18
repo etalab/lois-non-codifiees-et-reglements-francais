@@ -1,0 +1,3 @@
+# Décret n° 2009-1571 du 16 décembre 2009 relatif aux taux applicables dans les départements d'outre-mer (DOM), à Saint-Martin et Saint-Barthélemy aux travailleurs indépendants relevant du régime mentionné à l'article L. 133-6-8 du code de la sécurité sociale qui bénéficient des modalités spécifiques de calcul des cotisations de sécurité sociale prévues à l'article L. 756-4 et aux professionnels libéraux relevant de l'organisme mentionné au 11° de l'article R. 641-1 qui bénéficient de l'exonération de cotisations de sécurité sociale prévue à l'article L. 756-5 du code de la sécurité sociale
+
+- [Article 2](article-2.md)
