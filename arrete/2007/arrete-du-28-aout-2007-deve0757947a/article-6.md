@@ -1,6 +1,6 @@
 # Article 6
 
-Lorsque la puissance de raccordement demandée par l'utilisateur est inférieure ou égale à 36kVA et lorsque la longueur cumulée du branchement et de l'extension du raccordement de référence est inférieure ou égale à 100 mètres, les montants C et P des contributions pour l'extension et le branchement d'une opération de raccordement en basse tension sont calculés au moyen des formules suivantes :
+Lorsque la puissance de raccordement demandée par l'utilisateur est inférieure ou égale à 12 kVA en monophasé ou à 36 kVA en triphasé et lorsque la distance au poste de distribution HTA/BT le plus proche est inférieure ou égale à 250 mètres selon un tracé techniquement et administrativement réalisable, en conformité avec les dispositions du cahier des charges de la concession ou du règlement de service de la régie, les montants C et P des contributions pour l'extension et le branchement d'une opération de raccordement en basse tension sont calculés au moyen des formules suivantes :
 
 C = (1 - r) . (CfE + CvE x LE)
 
