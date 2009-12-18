@@ -646,7 +646,6 @@
 - [Arrêté du 20 août 1996 (ECOD9670018A)](arrete-du-20-aout-1996-ecod9670018a)
 - [Arrêté du 20 août 1996 (ECOD9670019A)](arrete-du-20-aout-1996-ecod9670019a)
 - [Arrêté du 20 août 1996 (MAEA9620417A)](arrete-du-20-aout-1996-maea9620417a)
-- [Arrêté du 20 août 1996 (TAST9611334A)](arrete-du-20-aout-1996-tast9611334a)
 - [Arrêté du 20 décembre 1995 (ECOT9540292A)](arrete-du-20-decembre-1995-ecot9540292a)
 - [Arrêté du 20 décembre 1995 (ENVE9540434A)](arrete-du-20-decembre-1995-enve9540434a)
 - [Arrêté du 20 décembre 1996 (BUDZ9600011A)](arrete-du-20-decembre-1996-budz9600011a)
