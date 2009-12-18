@@ -110,7 +110,6 @@
 - [Décret n°82-622 du 19 juillet 1982](decret-n82-622-du-19-juillet-1982)
 - [Décret n°82-727 du 19 août 1982](decret-n82-727-du-19-aout-1982)
 - [Décret n°82-897 du 19 octobre 1982](decret-n82-897-du-19-octobre-1982)
-- [Décret n°82-898 du 19 octobre 1982](decret-n82-898-du-19-octobre-1982)
 - [Décret n°82-976 du 19 novembre 1982](decret-n82-976-du-19-novembre-1982)
 - [Décret n°82-624 du 20 juillet 1982](decret-n82-624-du-20-juillet-1982)
 - [Décret n°82-67 du 20 janvier 1982](decret-n82-67-du-20-janvier-1982)
