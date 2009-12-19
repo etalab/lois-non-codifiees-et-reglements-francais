@@ -2,13 +2,17 @@
 
 I. - Dans un délai de deux mois à compter de la délivrance des autorisations, en application du II de l'article 29-1, de l'article 30-1 et des V et VI de l'article 96, et de l'octroi des droits d'usage de la ressource radioélectrique, en application de l'article 26, les éditeurs de services titulaires d'un droit d'usage d'une même ressource radioélectrique proposent conjointement une société distincte chargée de faire assurer les opérations techniques nécessaires à la transmission et à la diffusion auprès du public de leurs programmes. Pour les services de télévision mobile personnelle, cette société est constituée avec les exploitants de réseaux de radiocommunications mobiles terrestres ouverts au public, autorisés conformément à l'article L. 33-1 du code des postes et des communications électroniques, à leur demande et lorsqu'ils participent de manière significative au financement de la diffusion des services qu'ils distribuent.A défaut d'accord entre les éditeurs sur le choix de ce distributeur, le Conseil supérieur de l'audiovisuel lance un nouvel appel aux candidatures sur la ressource radioélectrique concernée dans les conditions prévues à l'article 29-1 ou à l'article 30-1.
 
+Pour les services de télévision mobile personnelle, cette société peut déléguer à un ou plusieurs tiers, dans des conditions approuvées par le Conseil supérieur de l'audiovisuel, le déploiement et l'exploitation du réseau ainsi que la commercialisation d'une offre de gros auprès des distributeurs de services.
+
 II. - Toute société proposée au titre du I indique au Conseil supérieur de l'audiovisuel, selon sa forme sociale et l'étendue des missions qui lui ont été confiées par les éditeurs de services :
 
 - les éléments mentionnés à l'article 43-1, la composition de son capital, des organes dirigeants et des actifs de cette société ainsi que de la société qui la contrôle, au sens du 2° de l'article 41-3 ;
 
 - les prévisions de dépenses et de recettes, les conditions commerciales de diffusion des programmes, l'origine et le montant des financements prévus, tout accord de commercialisation du système d'accès sous condition ;
 
-- les caractéristiques techniques de mise en forme du signal, portant notamment sur le choix du système de contrôle d'accès, de sa transmission et de sa diffusion.
+- les caractéristiques techniques de mise en forme du signal, portant notamment sur le choix du système de contrôle d'accès, de sa transmission et de sa diffusion ;
+
+- le cas échéant, les modalités selon lesquelles elle souhaite déléguer à un ou plusieurs tiers, dans les conditions fixées au I du présent article, le déploiement et l'exploitation du réseau ainsi que la commercialisation d'une offre de gros auprès des distributeurs de services.
 
 III. - Le Conseil supérieur de l'audiovisuel autorise toute société proposée au titre du I et lui assigne la ressource radioélectrique correspondante. Cette société est regardée comme un distributeur de services au sens de l'article 2-1. En cas de refus d'autorisation par le conseil, les éditeurs de services titulaires d'un droit d'usage d'une même ressource radioélectrique disposent d'un nouveau délai de deux mois pour proposer conjointement un nouveau distributeur de services.
 
@@ -36,6 +40,6 @@ L'autorisation peut être retirée par le Conseil supérieur de l'audiovisuel en
 
 A défaut de la conclusion des contrats nécessaires à la diffusion et à la transmission auprès du public des programmes à une date déterminée par le Conseil supérieur de l'audiovisuel, celui-ci peut déclarer l'autorisation caduque.
 
-Les décisions relatives à la couverture du territoire des services de télévision mobile personnelle prises par les sociétés autorisées en application du présent article sont prises à la majorité des voix pondérées en fonction de la participation de chaque personne morale au financement de cette couverture.
+Les décisions relatives à la couverture du territoire des services de télévision mobile personnelle prises par les sociétés autorisées en application du présent article sont prises, si les statuts de la société le prévoient, à la majorité des voix pondérées en fonction de la participation de chaque personne morale au financement de cette couverture.
 
 VI. - Au terme des autorisations délivrées en application de du II de l'article 29-1 et de l'article 30-1, les titulaires de nouvelles autorisations, éventuellement délivrées en application de l'article 28-1, désignent conjointement leurs distributeurs de services. Ces distributeurs sont autorisés dans les conditions prévues au présent article.

@@ -2,11 +2,13 @@
 
 Le Conseil supérieur de l'audiovisuel assigne, selon des modalités qu'il fixe, aux collectivités territoriales et à leurs groupements qui lui en font la demande la ressource radioélectrique nécessaire à la diffusion des programmes des éditeurs visés au I de l'article 30-2 dans les zones non couvertes en vertu des articles 96-2 ou 97.
 
+Il peut également assigner, pour l'application de l'article L. 112-12 du code de la construction et de l'habitation, selon des modalités qu'il fixe, aux propriétaires de constructions, aux syndicats de copropriétaires ou aux constructeurs, la ressource radioélectrique nécessaire à la diffusion des programmes des éditeurs visés au I de l'article 30-2 pour réduire ou supprimer la gêne à la réception de la radiodiffusion ou de la télévision par les occupants des bâtiments voisins.L'autorisation délivrée au constructeur est transmise de plein droit au propriétaire ou au syndicat de copropriétaires lorsque la construction est achevée ; le constructeur en informe alors le conseil.
+
 La demande précise la liste des distributeurs de services visés au I de l'article 30-2 dont la diffusion des programmes est souhaitée, la zone de couverture envisagée et les éléments nécessaires à la définition des conditions techniques prévues à l'article 25.
 
 L'autorisation peut être refusée ou, le cas échéant, modifiée ou retirée lorsque la ressource radioélectrique demandée ou assignée provoque des interférences avec d'autres usages de ce type de ressource légalement autorisés.
 
-Les collectivités territoriales et leurs groupements titulaires d'une autorisation au titre du présent article sont regardés comme des distributeurs de services au sens de l'article 2-1.
+Les titulaires d'une autorisation au titre du présent article sont regardés comme des distributeurs de services au sens de l'article 2-1.
 
 Lors de leur demande, les collectivités territoriales et leurs groupements communiquent au Conseil supérieur de l'audiovisuel une estimation comparative des coûts, pour eux et les foyers domiciliés sur leur territoire, des modes disponibles de réception de la télévision, notamment en fonction de la répartition déjà existante de ceux-ci dans la zone concernée.
 

@@ -8,13 +8,13 @@ L'usage de la ressource radioélectrique pour la diffusion de services de commun
 
 2° Le lieu d'émission ;
 
-3° La limite supérieure de puissance apparente rayonnée ;
+3° La limite supérieure et, le cas échéant, inférieure de puissance apparente rayonnée ;
 
 4° La protection contre les interférences possibles avec l'usage des autres techniques de télécommunications.
 
 Par dérogation aux dispositions ci-dessus, l'usage de la ressource radioélectrique peut être attribué pour la diffusion terrestre en mode numérique dans le cadre d'une planification des fréquences par allotissement.
 
-Le Conseil supérieur de l'audiovisuel veille en outre à ce que les servies utilisant un moteur d'interactivité puissent être reçus sur l'ensemble des terminaux déployés pour fournir des services interactifs et exploités sur le territoire français pour la télévision numérique de terre.
+Le Conseil supérieur de l'audiovisuel veille en outre à ce que les services utilisant un moteur d'interactivité puissent être reçus sur l'ensemble des terminaux déployés pour fournir des services interactifs et exploités sur le territoire français pour la télévision numérique de terre.
 
 Le conseil peut soumettre l'utilisateur d'un site d'émission à des obligations particulières, en fonction notamment de la rareté des sites d'émission dans une région. Il peut, en particulier, imposer le regroupement de plusieurs utilisateurs sur un même site.
 
