@@ -1,0 +1,3 @@
+# Article 6
+
+Le directeur de la réglementation et du contentieux au ministère de l'intérieur et de la décentralisation, le directeur des affaires criminelles et des grâces au ministère de la justice, le directeur des Français à l'étranger et des étrangers en France au ministère des relations extérieures et le directeur des affaires politiques, administratives et financières de l'outre-mer au secrétariat d'Etat auprès du ministre de l'intérieur et de la décentralisation, chargé des départements et territoires d'outre-mer, sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal Officiel de la République française.
