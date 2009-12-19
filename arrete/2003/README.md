@@ -411,7 +411,6 @@
 - [Arrêté du 13 octobre 2003 (ECOS0350048A)](arrete-du-13-octobre-2003-ecos0350048a)
 - [Arrêté du 13 octobre 2003 (ECOS0370010A)](arrete-du-13-octobre-2003-ecos0370010a)
 - [Arrêté du 13 octobre 2003 (EQUI0301297A)](arrete-du-13-octobre-2003-equi0301297a)
-- [Arrêté du 13 octobre 2003 (SANY0324119A)](arrete-du-13-octobre-2003-sany0324119a)
 - [Arrêté du 13 mai 2003 (ECOC0300052A)](arrete-du-13-mai-2003-ecoc0300052a)
 - [Arrêté du 13 mai 2003 (EQUT0300811A)](arrete-du-13-mai-2003-equt0300811a)
 - [Arrêté du 13 mai 2003 (MAEA0220668A)](arrete-du-13-mai-2003-maea0220668a)
