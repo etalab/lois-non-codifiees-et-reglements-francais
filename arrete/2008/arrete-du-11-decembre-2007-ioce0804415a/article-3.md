@@ -1,0 +1,5 @@
+# Article 3
+
+Pour les phases de conception et de construction, la délivrance de l'agrément du ministre de l'intérieur est subordonnée à l'obtention de l'agrément de contrôleur technique visé par l'article L. 111-25 du code de la construction et de l'habitation lorsque la demande d'agrément concerne les dispositions réglementaires relatives à la construction, aux aménagements intérieurs, au désenfumage, au chauffage, à la ventilation, la réfrigération, la climatisation, le conditionnement d'air et les installations d'eau chaude sanitaire, aux installations de gaz combustibles et d'hydrocarbures liquéfiés, aux installations d'appareils de cuisson et aux moyens de secours.
+
+Pour la phase d'exploitation, la délivrance de l'agrément du ministère de l'intérieur est subordonnée à l'une des qualifications requises par l'article R. 125-2-5 du code de la construction et de l'habitation pour réaliser le contrôle technique prévu à l'article R. 125-2-4 du même code, pour les vérifications du fonctionnement des ascenseurs ainsi que des escaliers mécaniques et des trottoirs roulants.
