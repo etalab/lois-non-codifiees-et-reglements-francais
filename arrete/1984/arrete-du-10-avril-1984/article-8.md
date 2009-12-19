@@ -2,7 +2,7 @@
 
 Le directeur général de l'Institut, le secrétaire général et les directeurs et conseilleurs scientifiques de l'Institut assistent, avec voix consultative, aux séances du conseil.
 
-L'ordre du jour est fixé par le directeur général de l'institut [*autorité compétente*].
+L'ordre du jour est fixé par le directeur général de l'institut.
 
 Peuvent également être entendus sur sa proposition, par le conseil scientifique, des personnalités qualifiées désignées par le directeur général en raison de leur compétence particulière sur une question à l'ordre du jour.
 
