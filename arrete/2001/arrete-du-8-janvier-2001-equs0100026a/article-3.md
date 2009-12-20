@@ -1,6 +1,6 @@
 # Article 3
 
-Le préfet complète le dossier du demandeur par l'extrait du casier judiciaire n° 2 afin de vérifier que l'intéressé n'a fait l'objet d'aucune des condamnations mentionnées aux articles L. 29-7 et R. 243-2 du code de la route.
+Le préfet accuse réception du dossier du demandeur dans un délai d'un mois et l'informe, le cas échéant, de tout document manquant. Il complète le dossier par l'extrait du casier judiciaire n° 2 afin de vérifier que l'intéressé n'a fait l'objet d'aucune des condamnations mentionnées aux articles L. 29-7 et R. 243-2 du code de la route.
 
 Il peut faire procéder aux enquêtes nécessaires pour vérifier la conformité du local et des moyens de l'établissement à la réglementation.
 
@@ -12,16 +12,16 @@ En cas de refus d'agrément, celui-ci est motivé et notifié à l'intéressé p
 
 L'agrément fait l'objet d'un arrêté préfectoral comportant les éléments suivants :
 
-- le numéro d'agrément de l'établissement ;
+-le numéro d'agrément de l'établissement ;
 
-- la raison sociale de l'établissement et l'adresse du local d'activité ;
+-la raison sociale de l'établissement et l'adresse du local d'activité ;
 
-- le nom de l'exploitant ;
+-le nom de l'exploitant ;
 
-- la mention de la ou des formations à la conduite et à la sécurité routières dispensées dans l'établissement ;
+-la mention de la ou des formations à la conduite et à la sécurité routières dispensées dans l'établissement ;
 
-- le nom du directeur pédagogique (lorsque la réglementation l'impose) ;
+-le nom du directeur pédagogique (lorsque la réglementation l'impose) ;
 
-- le nombre d'élèves que l'établissement est autorisé à accueillir.
+-le nombre d'élèves que l'établissement est autorisé à accueillir.
 
 Les éléments fournis pour l'obtention de l'agrément sont inscrits dans le registre national de l'enseignement de la conduite des véhicules à moteur créé par arrêté du 8 janvier 2001.

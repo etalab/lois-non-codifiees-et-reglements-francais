@@ -24,6 +24,8 @@ La demande d'équivalence, datée et signée, doit être accompagnée des pièce
 
 8. En outre, pour les personnes titulaires d'un titre, diplôme ou certificat soit délivré par un pays tiers et reconnu équivalent dans un Etat membre, soit délivré dans un Etat membre qui ne réglemente pas l'exercice de cette profession : une attestation de l'autorité compétente de l'Etat membre d'origine ou de provenance certifiant que le demandeur a exercé, dans cet Etat membre, la profession d'enseignant de la conduite d'une ou plusieurs catégories de véhicules, pendant une durée d'au moins deux ans à temps plein ou pendant une période équivalente à temps partiel, au cours des dix années précédentes. Les dates d'exercice doivent être précisées sur l'attestation.
 
-Les documents précités doivent être traduits par un traducteur assermenté.
+Les documents précités doivent être rédigés en français ou traduits par un traducteur habilité à intervenir auprès des autorités judiciaires ou administratives d'un autre Etat membre de l'Union européenne, ou d'un Etat partie à l'accord sur l'Espace économique européen.
+
+Le préfet accuse réception du dossier du demandeur dans un délai d'un mois et l'informe, le cas échéant, de tout document manquant.
 
 En cas de doute sur la validité des photocopies produites ou envoyées, le préfet peut demander de manière motivée par lettre recommandée avec une demande d'avis de réception la présentation des pièces originales. Les procédures en cours sont suspendues jusqu'à la production des pièces originales.
