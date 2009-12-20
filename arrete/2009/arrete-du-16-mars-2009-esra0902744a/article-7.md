@@ -1,6 +1,6 @@
 # Article 7
 
-Les magistrats, fonctionnaires et agents non titulaires de droit public recrutés pour une durée indéterminée concernés par la restructuration de l'administration centrale du ministère de l'enseignement supérieur et de la recherche mentionnée à l'article 1er et qui ont présenté leur démission au plus tard le 31 décembre 2009 peuvent bénéficier de l'indemnité de départ volontaire.
+Les magistrats, fonctionnaires et agents non titulaires de droit public recrutés pour une durée indéterminée concernés par la restructuration de l'administration centrale du ministère de l'enseignement supérieur et de la recherche mentionnée à l'article 1er et qui ont présenté leur démission au plus tard le  30 septembre 2010 peuvent bénéficier de l'indemnité de départ volontaire.
 
 Le montant de cette indemnité est fixé individuellement, par référence à la rémunération de l'agent considéré, ainsi qu'il suit :
 

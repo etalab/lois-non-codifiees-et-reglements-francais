@@ -1,6 +1,6 @@
 # Article 4
 
-En cas de mutation ou déplacement avant le 31 décembre 2009 entraînant un départ de l'agent des services centraux du ministère de l'enseignement supérieur et de la recherche et un changement de résidence familiale, le montant de la prime de restructuration de service est fixé comme suit :
+En cas de mutation ou déplacement avant le  30 septembre 2010 entraînant un départ de l'agent des services centraux du ministère de l'enseignement supérieur et de la recherche et un changement de résidence familiale, le montant de la prime de restructuration de service est fixé comme suit :
 
 ― mobilité au sein de la région Ile-de-France : 9 000 € ;
 
