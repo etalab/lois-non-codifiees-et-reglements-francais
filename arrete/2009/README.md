@@ -1676,7 +1676,6 @@
 - [Arrêté du 19 mai 2009 (DEVA0911493A)](arrete-du-19-mai-2009-deva0911493a)
 - [Arrêté du 19 mai 2009 (DEVE0911518A)](arrete-du-19-mai-2009-deve0911518a)
 - [Arrêté du 19 mai 2009 (DEVN0830765A)](arrete-du-19-mai-2009-devn0830765a)
-- [Arrêté du 19 mai 2009 (DEVT0909329A)](arrete-du-19-mai-2009-devt0909329a)
 - [Arrêté du 19 mai 2009 (ESRH0909689A)](arrete-du-19-mai-2009-esrh0909689a)
 - [Arrêté du 19 mai 2009 (ESRH0909690A)](arrete-du-19-mai-2009-esrh0909690a)
 - [Arrêté du 19 mai 2009 (IMIK0911317A)](arrete-du-19-mai-2009-imik0911317a)
