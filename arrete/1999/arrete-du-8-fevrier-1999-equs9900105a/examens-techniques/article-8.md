@@ -14,7 +14,13 @@ L'âge minimal requis pour se présenter à cette épreuve est fixé à :
 
 Les candidats ayant obtenu un résultat favorable à l'épreuve théorique générale conservent le bénéfice de leur admissibilité pour cinq épreuves pratiques, à condition qu'un délai maximum de trois ans ne se soit pas écoulé depuis l'obtention de cette admissibilité.
 
-Les candidats suivant une formation selon la formule de l'apprentissage anticipé de la conduite et ayant obtenu un résultat favorable à l'épreuve théorique qui constitue une des conditions de délivrance de l'attestation de fin de formation initiale, conservent    le bénéfice de leur admissibilité pour cinq épreuves pratiques, à condition qu'un délai maximum de trois ans ne se soit pas écoulé depuis l'obtention de cette admissibilité.
+Les candidats suivant une formation selon la formule de l'apprentissage anticipé de la conduite et ayant obtenu un résultat favorable à l'épreuve théorique qui constitue une des conditions de délivrance de l'attestation de fin de formation initiale, conservent le bénéfice de leur admissibilité pour cinq épreuves pratiques, à condition qu'un délai maximum de trois ans ne se soit pas écoulé depuis l'obtention de cette admissibilité.
+
+Le bénéfice de l'admissibilité reste acquis en cas de changement :
+
+- soit de filière de formation ;
+
+- soit de catégorie ou de sous-catégorie de permis de conduire.
 
 8.1.2. Une épreuve pratique d'admission permettant d'apprécier leur aptitude à conduire et à manoeuvrer les véhicules de la catégorie pour laquelle le permis est sollicité et leur comportement. Seuls peuvent subir cette épreuve pratique les candidats ayant obtenu un résultat favorable à l'épreuve théorique générale définie au paragraphe 8.1.1.
 
@@ -68,11 +74,7 @@ En cas d'échec à la première épreuve pratique du permis de conduire des cat�
 
 De plus, en cas d'échec à la deuxième épreuve pratique, aucune nouvelle convocation ne peut intervenir avant un délai d'un mois.
 
-8.7.3. Le candidat à un permis de conduire de la catégorie B ne peut se présenter à l'épreuve théorique générale dans un délai inférieur à un mois qui suit la date d'enregistrement de sa demande de permis de conduire par les services préfectoraux.
-
-De même, un candidat à un permis de conduire de la catégorie B, dispensé de l'épreuve théorique générale dans les conditions prévues au paragraphe 8.1.2 ci-dessus, ne peut se présenter à la première épreuve pratique dans un délai inférieur à un mois qui suit la date d'enregistrement de sa demande de permis de conduire par les services préfectoraux.
-
-En cas de succès à l'épreuve théorique générale du permis de conduire de la catégorie B, le candidat ne peut se présenter à la première épreuve pratique du permis de conduire de cette catégorie dans un délai inférieur à deux semaines.
+8.7.3. En cas de succès à l'épreuve théorique générale du permis de conduire de la catégorie B, le candidat ne peut se présenter à la première épreuve pratique du permis de conduire de cette catégorie dans un délai inférieur à deux semaines.
 
 En cas d'échec à l'épreuve théorique générale du permis de conduire de la catégorie B, le candidat ne peut se représenter dans un délai inférieur à deux semaines.
 
