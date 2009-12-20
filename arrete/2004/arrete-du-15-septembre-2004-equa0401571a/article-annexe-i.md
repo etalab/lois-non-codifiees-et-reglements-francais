@@ -188,6 +188,10 @@ Colombie
 
 Paris-Bogota.
 
+Comores
+
+Paris-Moroni (jusqu'au 31 décembre 2012)
+
 Congo
 
 Paris-Brazzaville.
