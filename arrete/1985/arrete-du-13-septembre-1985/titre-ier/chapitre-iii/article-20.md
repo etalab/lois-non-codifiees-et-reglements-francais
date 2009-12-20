@@ -16,7 +16,7 @@ b) Les paris enregistrés sur l'hippodrome sont payés aux divers guichets de pa
 
 Les parieurs peuvent également obtenir le règlement par correspondance de leurs gains ou remboursements, après déduction des frais de traitement, dont le montant ne saurait excéder le montant de la taxe en vigueur appliquée aux chèques d'assignation, pendant quinze jours à compter de la date de mise en paiement, en adressant leurs récépissés au siège de la société des courses dont l'adresse est précisée sur le programme officiel de la réunion (le cachet de la poste faisant foi).
 
-c) Les paris enregistrés sur un hippodrome connecté au système central du pari mutuel urbain fonctionnant en temps réel sont payés aux divers guichets de paiement. Le paiement se poursuit pendant une demi-heure après l'arrivée de la dernière course de la réunion. Ils peuvent également être payés pendant soixante jours à compter de leur mise en paiement sur les autres hippodromes connectés à ce système et, dans la limite des heures prévues pour l'enregistrement des paris, dans les agences et les postes d'enregistrement du pari mutuel urbain.
+c) Les paris enregistrés sur un hippodrome connecté au système central du pari mutuel urbain fonctionnant en temps réel sont payés aux divers guichets de paiement. Le paiement se poursuit pendant une demi-heure après l'arrivée de la dernière course de la réunion. Ils peuvent également être payés pendant soixante jours à compter de leur mise en paiement sur les autres hippodromes connectés à ce système et, dans la limite des heures prévues pour l'enregistrement des paris, dans les établissements et les postes d'enregistrement du pari mutuel urbain.
 
 2. Paris enregistrés au Pari mutuel urbain :
 
