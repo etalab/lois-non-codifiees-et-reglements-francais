@@ -10,4 +10,6 @@ Dans le cas de la procédure de paiement de droit commun, consistant dans le pai
 
 4° Une copie de la facture établie par la filiale spécialisée ou l'installateur GPL. Cette facture mentionne notamment la date de réalisation des travaux, le nom et l'adresse du propriétaire du véhicule, la désignation précise du véhicule et la nature de la transformation opérée ;
 
-5° Une copie du certificat d'immatriculation portant la codification EG.
+5° Une copie du certificat d'immatriculation portant la codification EG ;
+
+6° Une copie du précédent certificat d'immatriculation du véhicule avant sa transformation.
