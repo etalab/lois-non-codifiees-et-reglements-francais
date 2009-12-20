@@ -1,0 +1,5 @@
+# Article 3
+
+Pour les personnes dont la certification en cours de validité a été obtenue avant le 1er janvier 2010, l'organisme de certification applique les dispositions transitoires suivantes :
+
+La période de réalisation de l'opération de surveillance mentionnée au paragraphe 4 de l'annexe 1 de l'arrêté du 8 juillet 2008 susvisé est prolongée pendant la troisième année de validité de la certification. Si, pour cette opération de surveillance, l'organisme de certification bénéficie de la part de la personne certifiée de la liste de tous les rapports qu'elle a établis depuis au moins un an, renseignée comme spécifié à l'article 2-1 du même arrêté du 8 juillet 2008 modifié, avec la possibilité de se faire communiquer un échantillon de son choix des rapports de cette liste, il effectue le contrôle de conformité comme prévu au paragraphe 4 susvisé, même s'il doit restreindre le choix de l'échantillon à contrôler aux rapports de cette liste ; sinon il effectue ledit contrôle de conformité sur dix rapports au moins établis par la personne certifiée.
