@@ -8,7 +8,15 @@ L'installation est implantée, réalisée et exploitée conformément aux plans 
 
 1.2. Modifications
 
-Toute modification apportée par le déclarant à l'installation, à son mode d'exploitation ou à son voisinage, entraînant un changement notable des éléments du dossier de déclaration initiale, est portée, avant sa réalisation, à la connaissance du préfet qui peut exiger une nouvelle déclaration.
+Toute modification apportée par le déclarant à l'installation, à son mode d'exploitation ou à son voisinage, entraînant un changement notable des éléments du dossier de déclaration initiale, est portée, avant sa réalisation, à la connaissance du préfet, qui demande une nouvelle déclaration si la modification est considérée comme substantielle.C'est en particulier le cas pour toute modification de la capacité nominale de l'installation dont l'activité est mentionnée au point 6. 2. b. II donnant lieu à une augmentation des émissions de composés organiques volatils supérieure :
+
+- à 10 % pour les installations dont la consommation de solvants est supérieure à 10 tonnes par an pour les activités de revêtement de fil de bobinage, de stratification de bois et de plastique, de revêtement de véhicules et de revêtement d'origine sur un véhicule routier ou sur une partie, à l'aide de matériaux du même type que les matériaux de retouche, lorsque cette opération n'est pas réalisée dans la chaîne de fabrication, pour les installations dont la consommation de solvants est supérieure à 15 tonnes par an pour les activités d'industrie de revêtement de véhicules, de revêtement adhésif et des autres activités de revêtement, y compris le revêtement de métaux, plastique, feuilles et papier..., et pour les installations dont la consommation de solvants est supérieure à 25 tonnes par an pour les activités de laquage en continu et de revêtement de surfaces en bois ;
+
+- à 25 % pour les installations dont la consommation de solvants est comprise entre 5 et 10 tonnes par an pour les activités de revêtement de fil de bobinage, de stratification de bois et de plastique, pour les installations dont la consommation de solvants est comprise entre 0, 5 et 10 tonnes par an pour les activités de revêtement de véhicules et de revêtement d'origine sur un véhicule routier ou sur une partie, à l'aide de matériaux du même type que les matériaux de retouche, lorsque cette opération n'est pas réalisée dans la chaîne de fabrication, pour les installations dont la consommation de solvants est comprise entre 5 et 15 tonnes par an pour les activités de revêtement adhésif et autres activités de revêtement, y compris le revêtement de métaux, plastique, feuilles et papier..., et pour les installations dont la consommation de solvants est comprise entre 15 et 25 tonnes par an pour les activités de revêtement de surfaces en bois.
+
+(Article R. 512-54 du code de l'environnement et arrêté du 15 décembre 2009 fixant certains seuils et critères mentionnés aux articles R. 512-33 et R. 512-54 du code de l'environnement.)
+
+La partie de l'installation qui subit une modification substantielle respecte les valeurs limites d'émissions de COV relatives aux installations nouvelles. Toutefois, le préfet peut fixer des valeurs limites correspondant à celles relatives aux installations existantes si les émissions totales de l'ensemble de l'installation ne dépassent pas le niveau qui aurait été atteint si la partie qui subit la modification avait été traitée comme une nouvelle installation.
 
 1.3. Justification du respect des prescriptions de l'arrêté
 
@@ -48,7 +56,7 @@ L'installation est soumise à des contrôles périodiques par des organismes agr
 
 Ces contrôles ont pour objet de vérifier la conformité de l'installation aux prescriptions listées en annexe III, éventuellement modifiées par arrêté préfectoral, lorsqu'elles lui sont applicables.
 
-L'exploitant conserve le rapport de visite que l'organisme agréé lui adresse dans le dossier  installations classées  prévu au point 1.4. Si le rapport fait apparaître des non-conformités aux dispositions faisant l'objet du contrôle, l'exploitant met en œuvre les actions correctives nécessaires pour y remédier. Ces actions ainsi que leurs dates de mise en œuvre sont formalisées et conservées dans le dossier susmentionné.
+L'exploitant conserve le rapport de visite que l'organisme agréé lui adresse dans le dossier installations classées prévu au point 1.4. Si le rapport fait apparaître des non-conformités aux dispositions faisant l'objet du contrôle, l'exploitant met en œuvre les actions correctives nécessaires pour y remédier. Ces actions ainsi que leurs dates de mise en œuvre sont formalisées et conservées dans le dossier susmentionné.
 
 2. Implantation - aménagement
 
