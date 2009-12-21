@@ -6,7 +6,6 @@
 - [Décret n°2000-847 du 1 septembre 2000 (ECOP0000379D)](decret-n2000-847-du-1-septembre-2000-ecop0000379d)
 - [Décret n°2000-848 du 1 septembre 2000 (ECOC0000061D)](decret-n2000-848-du-1-septembre-2000-ecoc0000061d)
 - [Décret n°77-1017 du 1 septembre 1977](decret-n77-1017-du-1-septembre-1977)
-- [Décret du 2 février 2000 (ECOC9900055D)](decret-du-2-fevrier-2000-ecoc9900055d)
 - [Décret n°85-1060 du 2 octobre 1985](decret-n85-1060-du-2-octobre-1985)
 - [Décret n°2001-401 du 2 mai 2001 (RECF0100080D)](decret-n2001-401-du-2-mai-2001-recf0100080d)
 - [Décret n°2000-194 du 3 mars 2000 (INTC0000059D)](decret-n2000-194-du-3-mars-2000-intc0000059d)
