@@ -1,4 +1,4 @@
 # TITRE Ier
 
-- [Chapitre Ier : Formations initiales](chapitre-ier)
+- [Chapitre Ier : Formations d'intégration.](chapitre-ier)
 - [Chapitre II : Formations d'adaptation aux emplois](chapitre-ii)

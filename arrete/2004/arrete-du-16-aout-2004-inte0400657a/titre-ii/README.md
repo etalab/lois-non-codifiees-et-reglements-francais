@@ -1,4 +1,4 @@
-# TITRE II : FORMATION INITIALE D'APPLICATION.
+# TITRE II : FORMATION D'INTEGRATION.
 
 - [Chapitre 1er : Modules du tronc commun.](chapitre-1er)
 - [Chapitre 2 : Modules spécifiques aux cadres d'emplois](chapitre-2)

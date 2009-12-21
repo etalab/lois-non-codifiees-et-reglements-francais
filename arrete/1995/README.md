@@ -1038,7 +1038,6 @@
 - [Arrêté du 27 avril 1995 (INDP9500520A)](arrete-du-27-avril-1995-indp9500520a)
 - [Arrêté du 27 avril 1995 (INTB9500242A)](arrete-du-27-avril-1995-intb9500242a)
 - [Arrêté du 27 avril 1995 (INTC9500261A)](arrete-du-27-avril-1995-intc9500261a)
-- [Arrêté du 27 avril 1995 (INTE9500243A)](arrete-du-27-avril-1995-inte9500243a)
 - [Arrêté du 27 avril 1995 (MCCB9500189A)](arrete-du-27-avril-1995-mccb9500189a)
 - [Arrêté du 27 avril 1995 (PRMX9500745A)](arrete-du-27-avril-1995-prmx9500745a)
 - [Arrêté du 27 avril 1995 (SPSS9501402A)](arrete-du-27-avril-1995-spss9501402a)

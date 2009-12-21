@@ -1,14 +1,14 @@
 # Article 5
 
-Le jury validant la formation initiale des élèves lieutenants et des lieutenants comprend :
+Le jury validant la formation d'intégration des élèves lieutenants et des lieutenants comprend :
 
 Membres de droit :
 
--le        directeur de la sécurité civile ou son représentant, président ;
+-le directeur de la sécurité civile ou son représentant, président ;
 
 -le directeur de l'Ecole nationale supérieure des officiers de sapeurs-pompiers ou son représentant.
 
-Membres et leurs suppléants ayant même qualité, nommés par le        directeur de la sécurité civile :
+Membres et leurs suppléants ayant même qualité, nommés par le directeur de la sécurité civile :
 
 -un élu territorial, membre du conseil d'administration d'un service départemental d'incendie et de secours ;
 
@@ -24,4 +24,4 @@ Le jury prend ses décisions à la majorité ; en cas d'égalité, la voix du pr
 
 Le jury peut, en tant que de besoin, s'appuyer sur les observations du responsable pédagogique et des formateurs.
 
-La liste des élèves lieutenants et des lieutenants dont la formation initiale a été validée est transmise par le directeur de l'Ecole nationale supérieure des officiers de sapeurs-pompiers au président du Centre national de la fonction publique territoriale.
+La liste des élèves lieutenants et des lieutenants dont la formation d'intégration a été validée est transmise par le directeur de l'Ecole nationale supérieure des officiers de sapeurs-pompiers au président du Centre national de la fonction publique territoriale.

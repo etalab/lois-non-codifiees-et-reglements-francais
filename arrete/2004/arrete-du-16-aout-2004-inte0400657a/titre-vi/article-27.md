@@ -1,6 +1,6 @@
 # Article 27
 
-Les unités de valeur relatives à la formation initiale d'application ou aux formations d'adaptation à l'emploi ou aux formations spécialisées des médecins, pharmaciens et infirmiers de sapeurs-pompiers professionnels peuvent être obtenues par validation des acquis de l'expérience effectuée par une commission de validation.
+Les unités de valeur relatives à la formation d'intégration ou aux formations d'adaptation à l'emploi ou aux formations spécialisées des médecins, pharmaciens et infirmiers de sapeurs-pompiers professionnels peuvent être obtenues par validation des acquis de l'expérience effectuée par une commission de validation.
 
 Cette validation permet de dispenser les intéressés de tout ou partie des formations précitées.
 

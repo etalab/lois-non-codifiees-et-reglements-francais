@@ -1,6 +1,6 @@
 # Article 3
 
-La formation initiale d'élève lieutenant et de lieutenant est constituée de la façon suivante :
+La formation d'intégration d'élève lieutenant et de lieutenant est constituée de la façon suivante :
 
 1. Un module de compréhension des emplois permettant aux élèves lieutenants et aux lieutenants d'acquérir par équivalence les unités de valeur de formation d'équipier, de chef d'équipe et de chef d'agrès.
 
@@ -12,11 +12,11 @@ La formation initiale d'élève lieutenant et de lieutenant est constituée de l
 
 5. Un module d'ingénierie des risques permettant de :
 
-- comprendre les phénomènes physiques et chimiques générateurs de risques ;
+-comprendre les phénomènes physiques et chimiques générateurs de risques ;
 
-- proposer des mesures de prévention ;
+-proposer des mesures de prévention ;
 
-- proposer des mesures de traitements techniques du risque.
+-proposer des mesures de traitements techniques du risque.
 
 6. Un module relatif à l'hygiène et à la sécurité des sapeurs-pompiers.
 
@@ -24,22 +24,22 @@ La formation initiale d'élève lieutenant et de lieutenant est constituée de l
 
 a) L'acquisition des unités de valeur de formation relatives aux emplois suivants :
 
-- formation : formateur ;
+-formation : formateur ;
 
-- prévention contre les risques d'incendie et de panique : agent de prévention et préventionniste ;
+-prévention contre les risques d'incendie et de panique : agent de prévention et préventionniste ;
 
-- prévision : agent de prévision et prévisionniste ;
+-prévision : agent de prévision et prévisionniste ;
 
-- feux de forêts : équipier, chef d'agrès ;
+-feux de forêts : équipier, chef d'agrès ;
 
-- risques chimiques et biologiques : équipier et chef d'équipe reconnaissance, équipier et chef d'équipe intervention ;
+-risques chimiques et biologiques : équipier et chef d'équipe reconnaissance, équipier et chef d'équipe intervention ;
 
-- risques radiologiques : équipier et chef d'équipe reconnaissance ;
+-risques radiologiques : équipier et chef d'équipe reconnaissance ;
 
-- sauvetage déblaiement : sauveteur déblayeur.
+-sauvetage déblaiement : sauveteur déblayeur.
 
 b) La compréhension de l'ensemble des activités spécialisées non acquises : champ d'application, cadre d'intervention, missions et rôle des agents spécialisés, les moyens et l'emploi des équipes spécialisées.
 
 8. Un module d'entraînement physique comprenant, notamment, l'acquisition de connaissances permettant d'assurer l'encadrement des personnels lors des activités physiques et sportives.
 
-La validation de la formation initiale permet aux lieutenants et aux élèves lieutenants dès leur recrutement en qualité de lieutenant, de tenir les emplois de chef de groupe et de chef de garde.
+La validation de la formation d'intégration permet aux lieutenants et aux élèves lieutenants dès leur recrutement en qualité de lieutenant, de tenir les emplois de chef de groupe et de chef de garde.

@@ -1,6 +1,6 @@
 # Article 12
 
-Les modules spécifiques de la formation initiale d'infirmier de sapeurs-pompiers professionnels sont les suivants :
+Les modules spécifiques de la formation d'intégration d'infirmier de sapeurs-pompiers professionnels sont les suivants :
 
 12.1. Module de santé publique - santé travail adapté aux missions des SDIS.
 

@@ -2,12 +2,12 @@
 
 Les actions de formation en faveur des officiers des services de santé et de secours médical ont pour objectifs l'acquisition et l'entretien des compétences opérationnelles, administratives et techniques. Elles comprennent :
 
-1. La formation initiale d'application.
+- la formation d'intégration ;
 
-2. Les formations d'adaptation à l'emploi, les formations spécialisées.
+- la formation de professionnalisation qui comprend :
 
-3. Les formations d'adaptation aux risques locaux ; les formations complémentaires.
+- la formation d'adaptation à l'emploi, sous la forme d'unités de valeur de formation ou de modules de formation ;
 
-4. La formation de maintien et d'actualisation des acquis appelée formation santé continue.
+- la formation de maintien et de perfectionnement des acquis ;
 
-5. Les autres actions de formation prévues par l'article 1er de la loi du 12 juillet 1984 susvisée et non contenues dans les alinéas précédents.
+- les formations aux spécialités.

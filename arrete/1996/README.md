@@ -778,7 +778,6 @@
 - [Arrêté du 22 octobre 1996 (MCCK9600552A)](arrete-du-22-octobre-1996-mcck9600552a)
 - [Arrêté du 22 octobre 1996 (MIPP9600354A)](arrete-du-22-octobre-1996-mipp9600354a)
 - [Arrêté du 22 octobre 1996 (TASS9623798A)](arrete-du-22-octobre-1996-tass9623798a)
-- [Arrêté du 22 mai 1996 (INTE9600263A)](arrete-du-22-mai-1996-inte9600263a)
 - [Arrêté du 23 août 1996 (INTE9600350A)](arrete-du-23-aout-1996-inte9600350a)
 - [Arrêté du 23 août 1996 (INTE9600351A)](arrete-du-23-aout-1996-inte9600351a)
 - [Arrêté du 23 avril 1996 (DEFT9601418A)](arrete-du-23-avril-1996-deft9601418a)

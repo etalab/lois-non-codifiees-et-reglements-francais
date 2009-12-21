@@ -1,6 +1,6 @@
 # Article 3
 
-La formation initiale de lieutenant est constituée de la façon suivante :
+La formation d'intégration de lieutenant est constituée de la façon suivante :
 
 1. Un module de compréhension des emplois d'équipier, de chef d'équipe et de chef d'agrès.
 
@@ -24,19 +24,19 @@ Le module de compréhension des emplois de chef d'agrès est organisé par l'ENS
 
 a) L'acquisition des unités de valeur de formation relatives aux emplois suivants :
 
-- formateur (FOR 1), durée : 4 jours ;
+-formateur (FOR 1), durée : 4 jours ;
 
-- agent de prévention et préventionniste (PRV 1 et PRV 2), durée :
+-agent de prévention et préventionniste (PRV 1 et PRV 2), durée :
 
 28 jours ;
 
-- agent de prévision, durée : 2 jours ;
+-agent de prévision, durée : 2 jours ;
 
-- équipier et chef d'agrès feux de forêts (FDF 1 et FDF 2), durée : 10 jours ;
+-équipier et chef d'agrès feux de forêts (FDF 1 et FDF 2), durée : 10 jours ;
 
-- équipier et chef d'équipe reconnaissance risques chimiques et biologiques (RCH 1), durée : 5 jours ;
+-équipier et chef d'équipe reconnaissance risques chimiques et biologiques (RCH 1), durée : 5 jours ;
 
-- équipier et chef d'équipe reconnaissance risques radiologiques (RAD 1), durée : 5 jours ;
+-équipier et chef d'équipe reconnaissance risques radiologiques (RAD 1), durée : 5 jours ;
 
 b) La compréhension de l'ensemble des activités spécialisées non acquises : champ d'application, cadre d'intervention, missions et rôle des agents spécialisés, les moyens et l'emploi des équipes spécialisées, d'une durée totale de 3 jours.
 
