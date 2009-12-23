@@ -532,7 +532,6 @@
 - [Arrêté du 17 décembre 2007 (MCCB0766887A)](arrete-du-17-decembre-2007-mccb0766887a)
 - [Arrêté du 17 décembre 2008 (AGRE0830173A)](arrete-du-17-decembre-2008-agre0830173a)
 - [Arrêté du 17 décembre 2008 (AGRF0824014A)](arrete-du-17-decembre-2008-agrf0824014a)
-- [Arrêté du 17 décembre 2008 (AGRP0826891A)](arrete-du-17-decembre-2008-agrp0826891a)
 - [Arrêté du 17 décembre 2008 (DEVO0829066A)](arrete-du-17-decembre-2008-devo0829066a)
 - [Arrêté du 17 décembre 2008 (DEVP0827976A)](arrete-du-17-decembre-2008-devp0827976a)
 - [Arrêté du 17 décembre 2008 (IOCC0826677A)](arrete-du-17-decembre-2008-iocc0826677a)

@@ -1112,7 +1112,6 @@
 - [Arrêté du 29 août 2007 (DEVA0764439A)](arrete-du-29-aout-2007-deva0764439a)
 - [Arrêté du 29 décembre 2006 (AGRF0700171A)](arrete-du-29-decembre-2006-agrf0700171a)
 - [Arrêté du 29 décembre 2006 (AGRF0700172A)](arrete-du-29-decembre-2006-agrf0700172a)
-- [Arrêté du 29 décembre 2006 (AGRP0700159A)](arrete-du-29-decembre-2006-agrp0700159a)
 - [Arrêté du 29 décembre 2006 (JUSA0600267A)](arrete-du-29-decembre-2006-jusa0600267a)
 - [Arrêté du 29 janvier 2007 (DEVN0700128A)](arrete-du-29-janvier-2007-devn0700128a)
 - [Arrêté du 29 janvier 2007 (INTB0600990A)](arrete-du-29-janvier-2007-intb0600990a)
