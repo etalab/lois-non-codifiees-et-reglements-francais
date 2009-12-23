@@ -2,9 +2,7 @@
 
 Le montant des ressources d'assurance maladie versées pour 2009 est ainsi fixé :
 
-1° Le montant des forfaits annuels mentionnés à l'
-article D. 162-5 du code de la sécurité sociale
-est fixé à 9 479 159 euros, réparti comme suit :
+1° Le montant des forfaits annuels mentionnés à l'article D. 162-5 du code de la sécurité sociale est fixé à 9 479 159 euros, réparti comme suit :
 
 8 853 645 euros pour le forfait annuel relatif à l'accueil et au traitement des urgences ;
 
@@ -12,10 +10,6 @@ est fixé à 9 479 159 euros, réparti comme suit :
 
 229 200 euros pour le forfait annuel relatif à l'activité de transplantation d'organes et de greffe de cellules souches hématopoïétiques ;
 
-2° Le montant de la dotation de financement des missions d'intérêt général et d'aide à la contractualisation (MIGAC) mentionnée à l'
-article L. 162-22-14 du code de la sécurité sociale
-est fixé à 40 324 672 euros ;
+2° Le montant de la dotation de financement des missions d'intérêt général et d'aide à la contractualisation (MIGAC) mentionnée à l'article L. 162-22-14 du code de la sécurité sociale est fixé à 40 353 452 euros ;
 
-3° Le montant de la dotation annuelle de financement mentionnée à l'
-article R. 174-37 du code de la sécurité sociale
-est fixé à 20 765 538 euros.
+3° Le montant de la dotation annuelle de financement mentionnée à l'article R. 174-37 du code de la sécurité sociale est fixé à 20 765 538 euros.
