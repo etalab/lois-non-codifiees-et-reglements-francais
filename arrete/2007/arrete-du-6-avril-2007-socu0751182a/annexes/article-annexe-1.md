@@ -4,9 +4,15 @@ EXIGENCES COMPLÉMENTAIRES À LA NORME NF EN ISO/CEI 17024 À SATISFAIRE PAR L'O
 
 1. Structure organisationnelle (NF EN ISO/CEI 17024, § 4.2.3) :
 
-Les parties associées au  comité du dispositif particulier , concernées par le contenu et le fonctionnement du système de certification, visées dans le référentiel en vigueur, comprennent au moins un représentant des fournisseurs et des distributeurs de gaz, ainsi que des opérateurs de réseaux, un représentant des utilisateurs, un représentant des personnes physiques certifiées, ou candidates, et un représentant des pouvoirs publics prescripteurs.
+Les parties associées au comité du dispositif particulier , concernées par le contenu et le fonctionnement du système de certification, visées dans le référentiel en vigueur, comprennent au moins un représentant des fournisseurs et des distributeurs de gaz, ainsi que des opérateurs de réseaux, un représentant des utilisateurs, et un représentant des personnes certifiées.
 
-La participation au comité du dispositif particulier des représentants des personnes candidates à la certification prendra fin le 1er novembre 2007.
+Sont communiqués aux services du ministre chargé de la construction :
+
+- les comptes rendus des réunions du " comité du dispositif particulier " ;
+
+- les décisions en matière d'élaboration et de maintien du dispositif particulier de certification et les référentiels correspondants, et les projets de ces décisions quand ils sont portés à l'ordre du jour du " comité du dispositif particulier " ;
+
+- pour le 31 mars de chaque année un rapport sur la période précédente du 1er janvier au 31 décembre comportant les flux et effectifs cumulés des personnes concernées par les opérations de surveillance, par les décisions de certification, de recertification, de suspension et de retrait, ainsi qu'un bilan des réclamations et plaintes dont l'organisme certificateur a eu connaissance sur les personnes certifiées.
 
 2. Exigences concernant les examinateurs (NF EN ISO/CEI 17024, § 5.2).
 
@@ -44,21 +50,19 @@ Tout refus de certification doit être argumenté.
 
 La validité d'une certification est de cinq ans.
 
-4. Surveillance :
+4. Surveillance (NF EN ISO / CEI 17024, § 6. 4) :
 
-Lors du premier cycle de certification, une opération de surveillance est réalisée durant la deuxième année. Lors des cycles de certification suivants, une opération de surveillance est menée au cours de la troisième année.
+Le processus de surveillance permet de surveiller la conformité des personnes certifiées aux dispositions applicables du dispositif particulier de certification, en particulier aux compétences mentionnées en annexe 2.
 
-Les opérations de surveillance permettent à l'organisme certificateur de vérifier les compétences détaillées en annexe 2.
+L'organisme de certification procède au moins à une opération de surveillance pendant la troisième année de validité de la certification, période avancée à la deuxième année de validité de la certification s'il ne s'agit pas d'une recertification. Cette opération de surveillance consiste notamment à vérifier que la personne certifiée :
 
-La surveillance consiste pour l'organisme de certification à vérifier que la personne certifiée :
+- se tient à jour des évolutions techniques, législatives et réglementaires dans le domaine concerné ;
 
-- se tient à jour des évolutions techniques, législative et réglementaire dans le domaine concerné ;
+- exerce réellement l'activité pour laquelle elle a obtenu la certification. Pour cela, il y a lieu de vérifier qu'elle a établi au moins vingt rapports durant la période écoulée depuis l'obtention de sa certification en cours de validité, et de contrôler la conformité aux dispositions réglementaires, normatives ou bonnes pratiques professionnelles en vigueur d'un échantillon d'au moins douze rapports établis par elle durant ladite période. L'échantillon susvisé est choisi par l'organisme de certification et comporte au moins un rapport pour chacun des types de conclusions mentionnés à l'article 2-1 de l'arrêté, quand ce type de conclusions a été rencontré.
 
-- exerce réellement l'activité pour laquelle elle a obtenu la certification. Pour cela, il y a lieu de vérifier la conformité aux dispositions réglementaires, normatives ou bonnes pratiques professionnelles en vigueur sur plusieurs constats établis par la personne certifiée depuis l'obtention de sa dernière certification. Ces constats sont prélevés au hasard par l'organisme de certification et la vérification précitée porte sur 1 % des constats établis par la personne certifiée, avec un minimum de vingt.
+L'organisme de certification établit les modalités de suspension ou de retrait de la certification si les exigences ci-dessus ne sont pas satisfaites.
 
-L'organisme de certification établit les modalités de suspension ou de retrait du certificat si les exigences ci-avant ne sont pas satisfaites.
-
-Sauf cas de force majeure, la cessation d'activité dans le secteur concerné est un critère de retrait de la certification dans ledit secteur.
+Sauf cas de force majeure, la cessation d'activité dans le domaine concerné est un critère de retrait de la certification qui porte sur ce domaine.
 
 5. Recertification (NF EN ISO/CEI 17024, § 6.5) :
 
@@ -74,6 +78,4 @@ Elle permet en outre de vérifier que la personne certifiée :
 
 - se tient à jour des évolutions techniques, législative et réglementaire dans le domaine concerné ;
 
-- exerce réellement l'activité pour laquelle elle a obtenu la certification. Pour cela, il y a lieu de vérifier la conformité aux dispositions réglementaires, normatives ou bonnes pratiques professionnelles en vigueur des constats établis par la personne certifiée dans les conditions décrites au point 4.
-
-La personne certifiée fournit à l'organisme de certification un état des réclamations et plaintes la concernant depuis l'obtention de sa dernière certification.
+- exerce réellement l'activité pour laquelle elle a obtenu la certification. Pour cela, il y a lieu de vérifier qu'elle a établi au moins vingt rapports durant la période écoulée depuis la dernière opération de surveillance telle que spécifiée au paragraphe 4, et de contrôler la conformité aux dispositions réglementaires, normatives ou bonnes pratiques professionnelles en vigueur d'un échantillon d'au moins douze rapports établis durant ladite période. L'échantillon susvisé est choisi par l'organisme de certification et comporte au moins un rapport pour chacun des types de conclusions mentionnés à l'article 2-1 de l'arrêté, quand ce type de conclusions a été rencontré.
