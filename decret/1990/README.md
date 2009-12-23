@@ -385,7 +385,6 @@
 - [Décret n°91-936 du 19 septembre 1991 (SANH9101798D)](decret-n91-936-du-19-septembre-1991-sanh9101798d)
 - [Décret n°89-399 du 20 juin 1989 (JUSC8920313D)](decret-n89-399-du-20-juin-1989-jusc8920313d)
 - [Décret n°89-772 du 20 octobre 1989 (ECOM8981044D)](decret-n89-772-du-20-octobre-1989-ecom8981044d)
-- [Décret n°90-1029 du 20 novembre 1990 (ECOX9010376D)](decret-n90-1029-du-20-novembre-1990-ecox9010376d)
 - [Décret n°90-1035 du 20 novembre 1990 (RESY9000032D)](decret-n90-1035-du-20-novembre-1990-resy9000032d)
 - [Décret n°90-1041 du 20 novembre 1990 (SPSS9002116D)](decret-n90-1041-du-20-novembre-1990-spss9002116d)
 - [Décret n°90-1155 du 20 décembre 1990 (BUDB9010044D)](decret-n90-1155-du-20-decembre-1990-budb9010044d)
