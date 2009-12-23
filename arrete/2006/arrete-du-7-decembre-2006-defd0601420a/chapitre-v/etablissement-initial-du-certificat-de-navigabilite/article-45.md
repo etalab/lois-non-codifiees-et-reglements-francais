@@ -8,4 +8,4 @@ Le certificat de navigabilité peut être établi pour un aéronef lorsque celui
 
 - a, le cas échéant, été reconnu conforme à une définition de type approuvée selon un certificat de type supplémentaire ;
 
-- respecte les consignes de navigabilité applicables.
+- respecte les consignes de navigabilité applicables émises par l'autorité technique ou par l'autorité primaire de certification.
