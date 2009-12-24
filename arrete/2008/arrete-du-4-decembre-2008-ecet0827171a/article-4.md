@@ -4,7 +4,7 @@ I. - Les informations permettant le suivi des emplois relevant du présent arrê
 
 1° L'information écrite mentionnée au cinquième alinéa de l'article L. 221-5 du code monétaire et financier doit être rendue publique au plus tard le 31 mars de chaque année ;
 
-2° L'information écrite mentionnée au sixième alinéa de l'article L. 221-5 du code monétaire et financier doit être mise à disposition du ministre chargé de l'économie trimestriellement pour rendre compte de la situation au 31 mars, 30 juin, 30 septembre et 31 décembre de chaque année. L'information est transmise au plus tard avant la fin du trimestre suivant.
+2° L'information écrite mentionnée au sixième alinéa de l'article L. 221-5 du code monétaire et financier doit être mise à disposition du ministre chargé de l'économie trimestriellement pour rendre compte de la situation au 31 mars, 30 juin, 30 septembre et 31 décembre de chaque année. L'information est transmise dans les trente jours calendaires suivant la fin du trimestre.
 
 II. - L'information citée au 2° du I inclut tout renseignement pertinent concernant l'utilisation des ressources collectées sur les livrets A et les livrets de développement durable et non centralisées par la Caisse des dépôts et consignations.
 
