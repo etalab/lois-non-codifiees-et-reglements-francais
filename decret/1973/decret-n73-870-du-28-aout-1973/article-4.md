@@ -1,3 +1,5 @@
 # Article 4
 
-Dans l'exercice des pouvoirs qu'elle tient de l'article 23 du décret susvisé du 16 mai 1959, l'autorité de tutelle doit, pour fixer en cas de litige la redevance pouvant être perçus par les collectivités locales pour occupation de leur domaine public, appliquer le tarif déterminé, pour l'occupation du domaine public de l'Etat, dans les conditions prévues par l'article 2 du présent décret.
+La redevance pour l'occupation du domaine public des collectivités locales par les canalisations visées à l'article 1er du présent décret est arrêtée par délibération de la collectivité territoriale en accord avec l'exploitant de l'ouvrage conformément à l'article L. 2333-84 du code général des collectivités territoriales.
+
+En cas de désaccord sur le taux de la redevance, le tarif retenu est celui qui est appliqué pour l'occupation du domaine public de l'Etat.
