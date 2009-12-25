@@ -6,3 +6,4 @@
 - [Article 221-XI-1/03-1](article-221-xi-1-03-1.md)
 - [Article 221-XI-1/04](article-221-xi-1-04.md)
 - [Article 221-XI-1/05](article-221-xi-1-05.md)
+- [Article 221-XI-1/06](article-221-xi-1-06.md)
