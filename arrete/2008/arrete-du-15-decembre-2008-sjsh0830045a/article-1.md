@@ -28,8 +28,6 @@ Maison de retraite, à Etreillers (Aisne) ;
 
 Maison de retraite, à La Ferté-Milon (Aisne) ;
 
-Maison de retraite, à Liesse (Aisne) ;
-
 Maison de retraite, à Oulchy-le-Château (Aisne) ;
 
 Maison de retraite, à Saint-Gobain (Aisne) ;
@@ -114,8 +112,6 @@ Institut départemental d'aveugles, à Marseille (Bouches-du-Rhône) ;
 
 Etablissement d'hébergement pour personnes âgées, à Caen (Calvados) ;
 
-Etablissement d'hébergement pour personnes âgées, à Cesny-Bois-Halbout (Calvados) ;
-
 Etablissement d'hébergement pour personnes âgées, à Isigny-sur-Mer (Calvados) ;
 
 Etablissement d'hébergement pour personnes âgées, à Saint-Pierre-sur-Dives (Calvados) ;
@@ -159,8 +155,6 @@ Etablissement d'hébergement pour personnes âgées, au Châtelet-en-Berry (Cher
 Centre départemental de l'enfance, à Tulle (Corrèze) ;
 
 Foyer de vie de Boulou les Roses, à Ligneyrac (Corrèze) ;
-
-Etablissement d'hébergement pour personnes âgées, à Lubersac (Corrèze) ;
 
 Etablissement d'hébergement pour personnes âgées, à Donzenac (Corrèze) ;
 
@@ -287,8 +281,6 @@ Institut médico-pédagogique, à Meaudre (Isère) ;
 Etablissement d'hébergement pour personnes âgées, à Voreppe (Isère) ;
 
 Maison de retraite, à Entre-deux-Guiers (Isère) ;
-
-Maison de retraite, aux Abrets (Isère) ;
 
 Maison de retraite, à Virieu (Isère) ;
 
@@ -442,10 +434,6 @@ Etablissement d'hébergement pour personnes âgées, au Mas-d'Agenais (Lot-et-Ga
 
 Maison de retraite, à Port-Sainte-Marie (Lot-et-Garonne) ;
 
-Etablissement d'hébergement pour personnes âgées, à Sos-en-Albret (Lot-et-Garonne) ;
-
-Etablissement d'hébergement pour personnes âgées, à Cancon (Lot-et-Garonne) ;
-
 Foyer départemental de l'enfance, à Pont-du-Casse (Lot-et-Garonne) ;
 
 Etablissement d'hébergement pour personnes âgées, à Puymirol (Lot-et-Garonne) ;
@@ -538,8 +526,6 @@ Etablissement d'hébergement pour personnes âgées, à Sainte-Mère-l'Eglise (M
 
 Maison de retraite, à Saint-Sauveur-le-Vicomte (Manche) ;
 
-Maison de retraite, à Saint-Vaast-la-Hougue (Manche) ;
-
 Etablissement d'hébergement pour personnes âgées, à Sartilly (Manche) ;
 
 Etablissement d'hébergement pour personnes âgées, au Teilleul (Manche) ;
@@ -608,11 +594,7 @@ Maison de retraite, à Baud (Morbihan) ;
 
 Etablissement d'hébergement pour personnes âgées, à Caudan (Morbihan) ;
 
-Etablissement d'hébergement pour personnes âgées, à Etel (Morbihan) ;
-
 Etablissement d'hébergement pour personnes âgées, à Gourin (Morbihan) ;
-
-Etablissement d'hébergement pour personnes âgées, à Mauron (Morbihan) ;
 
 Maison d'accueil spécialisée, à Guéméné-sur-Scorff (Morbihan) ;
 
@@ -725,8 +707,6 @@ Centre maternel départemental, à Alençon (Orne) ;
 Etablissement d'hébergement pour personnes âgées, à Avion (Pas-de-Calais) ;
 
 Maison de retraite, à Ardres (Pas-de-Calais) ;
-
-Etablissement d'hébergement pour personnes âgées, à Aubigny-en-Artois (Pas-de-Calais) ;
 
 Maison de retraite, à Auxi-le-Château (Pas-de-Calais) ;
 
@@ -1123,8 +1103,6 @@ Etablissement d'hébergement pour personnes âgées, à Charny (Yonne) ;
 Maison de l'enfance Henri Coulanges, à Coulanges-sur-Yonne (Yonne) ;
 
 Etablissement d'hébergement pour personnes âgées, à Saint-Bris-le-Vineux (Yonne) ;
-
-Etablissement d'hébergement pour personnes âgées, à Châtel-Censoir (Yonne) ;
 
 Centre départemental de l'enfance, à Belfort (Territoire de Belfort) ;
 

@@ -24,7 +24,7 @@ Centre de long séjour, à Vallauris (Alpes-Maritimes) ;
 
 Hôpital local, à Villeneuve-de-Berg (Ardèche) ;
 
-Etablissement départemental public d'accompagnement médico-social Jacques Sourdille, à Belleville-sur-Bar (Ardennes)  ;
+Etablissement départemental public d'accompagnement médico-social Jacques Sourdille, à Belleville-sur-Bar (Ardennes) ;
 
 Hôpital local, à Espalion (Aveyron) ;
 
@@ -82,11 +82,13 @@ Hôpital local, à Pont-Saint-Esprit (Gard) ;
 
 Hôpital local, à Uzès (Gard) ;
 
-Centre hospitalier "Les hôpitaux de Luchon", à Bagnères-de-Luchon (Haute-Garonne)  ;
+Centre hospitalier "Les hôpitaux de Luchon", à Bagnères-de-Luchon (Haute-Garonne) ;
 
 Hôpital local, à Muret (Haute-Garonne) ;
 
 Centre départemental de l'enfance et de la famille, à Toulouse (Haute-Garonne) ;
+
+Maison départementale de l'enfance et de la famille, à Taninges (Haute-Savoie) ;
 
 Centre départemental de l'enfance et de la famille, à Eysines (Gironde) ;
 
