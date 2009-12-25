@@ -19,6 +19,7 @@
 - [Décret n°2006-12 du 3 janvier 2006 (ECOP0500955D)](decret-n2006-12-du-3-janvier-2006-ecop0500955d)
 - [Décret n°2006-1333 du 3 novembre 2006 (PRMX0600177D)](decret-n2006-1333-du-3-novembre-2006-prmx0600177d)
 - [Décret n°2006-1334 du 3 novembre 2006 (MENX0600140D)](decret-n2006-1334-du-3-novembre-2006-menx0600140d)
+- [Décret n°2006-1335 du 3 novembre 2006 (JUSF0650129D)](decret-n2006-1335-du-3-novembre-2006-jusf0650129d)
 - [Décret n°2006-1336 du 3 novembre 2006 (EQUX0600183D)](decret-n2006-1336-du-3-novembre-2006-equx0600183d)
 - [Décret n°2006-1338 du 3 novembre 2006 (MCCB0600681D)](decret-n2006-1338-du-3-novembre-2006-mccb0600681d)
 - [Décret n°2006-1339 du 3 novembre 2006 (MJSK0670244D)](decret-n2006-1339-du-3-novembre-2006-mjsk0670244d)
