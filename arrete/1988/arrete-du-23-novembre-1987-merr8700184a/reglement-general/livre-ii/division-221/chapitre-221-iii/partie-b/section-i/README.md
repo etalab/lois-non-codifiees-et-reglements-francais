@@ -1,5 +1,6 @@
 # Section I : Navires à passagers et navires de charge.
 
+- [Article 221-III/06](article-221-iii-06.md)
 - [Article 221-III/07](article-221-iii-07.md)
 - [Article 221-III/08](article-221-iii-08.md)
 - [Article 221-III/09](article-221-iii-09.md)
