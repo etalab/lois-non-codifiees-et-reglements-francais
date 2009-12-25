@@ -5,6 +5,7 @@
 - [Article 221-III/23](article-221-iii-23.md)
 - [Article 221-III/24](article-221-iii-24.md)
 - [Article 221-III/25](article-221-iii-25.md)
+- [Article 221-III/26](article-221-iii-26.md)
 - [Article 221-III/27](article-221-iii-27.md)
 - [Article 221-III/28](article-221-iii-28.md)
 - [Article 221-III/29](article-221-iii-29.md)
