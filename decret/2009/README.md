@@ -1015,6 +1015,7 @@
 - [Décret n°2009-1149 du 24 septembre 2009 (BCFF0910538D)](decret-n2009-1149-du-24-septembre-2009-bcff0910538d)
 - [Décret n°2009-1441 du 24 novembre 2009 (ECEL0922120D)](decret-n2009-1441-du-24-novembre-2009-ecel0922120d)
 - [Décret n°2009-1443 du 24 novembre 2009 (MTST0923059D)](decret-n2009-1443-du-24-novembre-2009-mtst0923059d)
+- [Décret n°2009-1452 du 24 novembre 2009 (AGRF0910865D)](decret-n2009-1452-du-24-novembre-2009-agrf0910865d)
 - [Décret n°2009-217 du 24 février 2009 (SJSP0813925D)](decret-n2009-217-du-24-fevrier-2009-sjsp0813925d)
 - [Décret n°2009-218 du 24 février 2009 (DEVO0817569D)](decret-n2009-218-du-24-fevrier-2009-devo0817569d)
 - [Décret n°2009-219 du 24 février 2009 (DEVO0830243D)](decret-n2009-219-du-24-fevrier-2009-devo0830243d)
