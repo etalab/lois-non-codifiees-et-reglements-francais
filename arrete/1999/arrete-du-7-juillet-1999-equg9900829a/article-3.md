@@ -8,50 +8,38 @@ Un représentant de l'Académie française ;
 
 Un représentant de l'Académie des sciences ;
 
-Un représentant de l'Association française de normalisation (AFNOR) ;
+Un représentant de l'Association française de normalisation ;
 
-Le haut fonctionnaire chargé de la terminologie et de la néologie ;
+2. Le vice-président du Conseil général de l'environnement et du développement durable ou son représentant ;
 
-Le représentant du ministre chargé de la culture ;
-
-Le représentant du ministre chargé de l'environnement ;
-
-Le représentant du ministre chargé de la pêche ;
-
-Le représentant du ministre chargé de l'industrie ;
-
-Le représentant du ministre chargé de la recherche ;
-
-2. Le vice-président du Conseil général des ponts et chaussées ou son représentant ;
+Le secrétaire général du ministère chargé de l'équipement et des transports ou son représentant ;
 
 Le directeur général de l'aviation civile ou son représentant ;
 
-Le directeur général de l'urbanisme, de l'habitat et de la construction ou son représentant ;
+Le directeur des infrastructures de transport ou son représentant ;
 
-Le directeur des affaires économiques et internationales ou son représentant ;
+Le directeur des services de transport ou son représentant ;
 
-Le directeur des routes ou son représentant ;
+Le délégué à la sécurité et à la circulation routière ou son représentant ;
 
-Le directeur de la recherche et des affaires scientifiques et techniques ou son représentant ;
-
-Le directeur de la sécurité et de la circulation routières ou son représentant ;
-
-Le directeur des transports terrestres ou son représentant ;
-
-Le directeur des affaires maritimes et des gens de mer ou son représentant ;
-
-Le directeur du transport maritime, des ports et du littoral ou son représentant ;
-
-Le directeur du tourisme ou son représentant ;
-
-Le secrétaire général du Conseil national du tourisme ou son représentant ;
-
-Le président du Conseil national des transports ou son représentant ;
+Le directeur de l'habitat, de l'urbanisme et des paysages ou son représentant ;
 
 Le président du Conseil supérieur de la marine marchande ou son représentant ;
 
-Le président du Conseil supérieur de l'aviation civile ou son représentant ;
+Le directeur du centre d'études sur les réseaux, les transports, l'urbanisme et les constructions publiques ou son représentant ;
 
-Le directeur de l'Ecole nationale des ponts et chaussées ou son représentant ;
+Le directeur de l'Institut national de recherche sur les transports et leur sécurité ou son représentant ;
 
-3. Des personnalités qualifiées, dont le président et le vice-président de la commission, désignées pour quatre ans par le ministre de l'équipement, des transports et du logement.
+Le directeur du service d'études sur les transports, les routes et leurs aménagements ou son représentant ;
+
+Le président de la commission spécialisée de terminologie et de néologie de l'automobile ou son représentant ;
+
+Le président de la commission spécialisée de terminologie et de néologie de l'environnement ou son représentant ;
+
+Le président de la commission spécialisée de terminologie et de néologie au ministère de la culture ou son représentant ;
+
+Le président de la commission spécialisée de terminologie et de néologie du ministère de la défense ou son représentant ;
+
+3. Des personnalités qualifiées désignées pour quatre ans par le ministre chargé de l'équipement et des transports ;
+
+4. Le président et le vice-président de la commission sont désignés pour quatre ans par arrêté du ministre chargé de l'équipement et des transports.
