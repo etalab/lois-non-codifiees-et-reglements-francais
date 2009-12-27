@@ -136,7 +136,6 @@
 - [Arrêté du 4 novembre 1997 (ECOC9700166A)](arrete-du-4-novembre-1997-ecoc9700166a)
 - [Arrêté du 4 novembre 1997 (MENA9703249A)](arrete-du-4-novembre-1997-mena9703249a)
 - [Arrêté du 4 septembre 1997 (AGRG9701863A)](arrete-du-4-septembre-1997-agrg9701863a)
-- [Arrêté du 4 septembre 1997 (ECOI9700578A)](arrete-du-4-septembre-1997-ecoi9700578a)
 - [Arrêté du 4 septembre 1997 (ECOS9750032A)](arrete-du-4-septembre-1997-ecos9750032a)
 - [Arrêté du 5 août 1997 (ECOI9700424A)](arrete-du-5-aout-1997-ecoi9700424a)
 - [Arrêté du 5 août 1997 (ECOI9700426A)](arrete-du-5-aout-1997-ecoi9700426a)
