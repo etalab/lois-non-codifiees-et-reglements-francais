@@ -2,9 +2,9 @@
 
 La direction des ressources humaines a pour mission :
 
-a) De définir et de mettre en oeuvre les orientations générales du ministère pour la modernisation des statuts et la gestion des ressources humaines ;
+a) De définir et de mettre en oeuvre les orientations générales du ministère pour la modernisation des statuts des personnels civils et la gestion des ressources humaines ;
 
-b) D'assurer la gestion et le management des corps de fonctionnaires et des agents de l'administration centrale et déconcentrée, à l'exception du corps préfectoral, des administrateurs civils, des membres de l'inspection générale et des personnels relevant de la direction générale de la police nationale ;
+b) D'assurer la gestion et le management des corps de fonctionnaires et des agents de l'administration centrale et déconcentrée, à l'exception du corps préfectoral, des administrateurs civils, des membres de l'inspection générale, des personnels relevant de la direction générale de la police nationale et des personnels militaires de la direction générale de la gendarmerie nationale ;
 
 c) D'assurer pour ces personnels l'évaluation et le suivi des besoins, dans le cadre de la gestion prévisionnelle des emplois, des effectifs et des compétences ;
 

@@ -8,6 +8,8 @@ b) La direction générale des collectivités locales ;
 
 c) La direction générale de la police nationale ;
 
-d) La direction des libertés publiques et des affaires juridiques ;
+d) La direction générale de la gendarmerie nationale ;
 
-e) La direction de la sécurité civile ;
+e) La direction des libertés publiques et des affaires juridiques ;
+
+f) La direction de la sécurité civile.

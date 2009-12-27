@@ -8,7 +8,7 @@ Il conduit les réflexions stratégiques du ministère, propose ses évolutions 
 
 Il élabore et propose les principes généraux de gestion des ressources humaines.
 
-Il anime l'action territoriale du ministère, à l'exception de celle relevant de la direction générale de la police nationale.
+Il anime l'action territoriale du ministère,              à l'exception de celle relevant de la direction générale de la police nationale et de celle relevant de la direction générale de la gendarmerie nationale.
 
 Il est chargé des affaires politiques.
 
