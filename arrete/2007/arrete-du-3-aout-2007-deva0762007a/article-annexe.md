@@ -125,3 +125,7 @@ Paris - Kilimandjaro (Tanzanie).
 Jusqu'au 31 octobre 2014 :
 
 Nantes - Punta Cana (République dominicaine).
+
+Jusqu'au 30 novembre 2014 :
+
+Paris - Miami (Etats-Unis).
