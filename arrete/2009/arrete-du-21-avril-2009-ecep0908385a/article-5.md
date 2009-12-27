@@ -1,16 +1,18 @@
 # Article 5
 
-I. ― Le service des affaires multilatérales et du développement comprend une sous-direction des affaires financières multilatérales et du développement et une sous-direction de la politique commerciale et de l'investissement ainsi que, directement placée auprès du chef de service, une unité d'évaluation des activités de développement.
+I. - Le service des affaires multilatérales et du développement comprend une sous-direction des affaires financières multilatérales et du développement et une sous-direction de la politique commerciale et de l'investissement ainsi que, directement placée auprès du chef de service, une unité d'évaluation des activités de développement.
 
-II. ― La sous-direction des affaires financières multilatérales et du développement comprend :
+II. - La sous-direction des affaires financières multilatérales et du développement comprend :
 
-Le bureau de l'endettement international et du secrétariat du Club de Paris
+Le bureau de l'endettement, du financement international et du secrétariat du Club de Paris
 
-Il est chargé de l'ensemble des questions relatives à l'endettement international tant au plan multilatéral qu'au plan bilatéral : négociation et mise en œuvre des accords de dette, gestion active des créances et garanties, relations avec les créanciers et les débiteurs. Il assure le secrétariat du Club de Paris.
+Il est chargé de l'ensemble des questions relatives à l'endettement international tant au plan multilatéral qu'au plan bilatéral : négociation et mise en œuvre des accords de dette, gestion active des créances et garanties, relations avec les créanciers et les débiteurs, rôle et situation du secteur privé. Il assure le secrétariat du Club de Paris.
+
+Il prépare pour les pays émergents et en développement les instructions relatives aux programmes du FMI, hors pays membres de l'Union européenne, de l'Association européenne de libre-échange (AELE) et de l'Afrique subsaharienne, et contribue aux examens réalisés dans le cadre de la mission de surveillance du FMI de ces pays.
 
 Il contribue à la définition de la politique de l'assurance-crédit et assure la gestion du compte de l'Etat à la COFACE.
 
-Il prépare les conférences de donateurs organisées au profit des pays en développement, hors Afrique subsaharienne. Il est chargé du suivi de la conjoncture et des politiques macroéconomiques des pays concernés, ainsi que de leurs relations avec les institutions financières internationales et les institutions multilatérales de développement.
+Il prépare les conférences de donateurs organisées au profit des pays en développement, hors Afrique subsaharienne, dont il assure le suivi de la conjoncture et de la politique macroéconomique.
 
 Le bureau de l'Afrique subsaharienne et de l'Agence française de développement
 
@@ -18,7 +20,7 @@ Il est responsable de la coopération monétaire et financière avec les pays de
 
 Il assure la tutelle de l'Agence française de développement.
 
-Dans les pays d'Afrique subsaharienne, à l'exception de ceux relevant de la circonscription du chef des services économiques d'Afrique australe, il est chargé du suivi macroéconomique et de l'appréciation du risque. Il assure également, avec l'appui du réseau des chefs des services économiques et des missions économiques à l'étranger, le suivi des relations économiques financières et commerciales bilatérales. Il anime et coordonne l'activité du réseau des chefs des services économiques et des missions économiques à l'étranger dans sa zone de compétence, en prenant en compte les demandes et les besoins des autres sous-directions. En liaison avec les missions économiques, il élabore la stratégie bilatérale de la France en matière financière, économique et commerciale, en privilégiant l'analyse du contexte régional des pays dans lesquels ces missions se situent. Il réalise la synthèse de la préparation des dossiers à caractère bilatéral.
+Dans les pays d'Afrique subsaharienne, à l'exception de ceux relevant de la circonscription du chef des services économiques d'Afrique australe, il assure la coordination des analyses sur la situation économique, commerciale et financière des pays de sa zone de compétence. Il prépare les instructions relatives aux programmes ainsi que celles réalisées dans le cadre de la mission de surveillance du FMI pour ces pays. Il assure également, avec l'appui du réseau des chefs des services économiques et des missions économiques à l'étranger, le suivi des relations économiques financières et commerciales bilatérales. Il anime et coordonne l'activité du réseau des chefs des services économiques et des missions économiques à l'étranger dans sa zone de compétence, en prenant en compte les demandes et les besoins des autres sous-directions. En liaison avec les missions économiques, il élabore la stratégie bilatérale de la France en matière financière, économique et commerciale, en privilégiant l'analyse du contexte régional des pays dans lesquels ces missions se situent. Il réalise la synthèse de la préparation des dossiers à caractère bilatéral.
 
 Il est chargé de la politique d'aide au développement à l'égard des pays de sa zone de compétence ainsi qu'avec les pays auxquels le ministère verse une aide budgétaire globale. A ce titre, il représente la France au sein des groupes d'aide et programme et instruit les aides budgétaires. Il est chargé du suivi des relations des institutions financières européennes et internationales avec l'ensemble des pays suscités.
 
@@ -40,7 +42,7 @@ Il suit les sujets relatifs aux transferts de fonds par les migrants.
 
 Le bureau du système financier international et de la préparation des sommets
 
-Il élabore les positions de la France sur les questions financières mondiales. Dans ce cadre, il assure les relations avec le Fonds monétaire international et les autres institutions de coopération économique internationale.
+Il élabore les positions de la France sur les questions financières mondiales. Dans ce cadre, il assure les relations avec le Fonds monétaire international et les autres institutions de coopération économique internationale. Il veille à la cohérence des positions exprimées dans le cadre des instructions relatives aux programmes et à la mission de surveillance du FMI pour l'ensemble des pays concernés.
 
 Il suit les négociations internationales relatives à la lutte contre la corruption et à la responsabilité sociale et environnementale des entreprises. Il assure le secrétariat du point de contact national pour la mise en œuvre des principes directeurs de l'OCDE.
 
@@ -56,7 +58,7 @@ Il est chargé des négociations relatives au secteur des services, notamment su
 
 Il assure la coordination des sujets traités dans les enceintes multilatérales, en particulier l'Organisation mondiale du commerce (OMC) et l'OCDE. Il contribue à la définition des positions françaises dans les relations avec les organes des Nations unies à vocation économique et sociale.
 
-Il représente la France au comité des suppléants du comité spécial créé à l'article 133 du traité instituant la Communauté européenne et dans les instances spécialisées de l'OMC et de l'OCDE. Il siège et représente la France au comité 133 :  Services  du comité spécial créé à l'article 133 du traité instituant la Communauté européenne.
+Il représente la France au comité des suppléants du comité spécial créé à l'article 133 du traité instituant la Communauté européenne et dans les instances spécialisées de l'OMC et de l'OCDE. Il siège et représente la France au comité 133 : Services du comité spécial créé à l'article 133 du traité instituant la Communauté européenne.
 
 Il anime le réseau des correspondants multilatéraux présents dans les missions économiques à l'étranger.
 
@@ -66,9 +68,9 @@ Il est chargé, dans le cadre des attributions de la direction générale, du su
 
 Il siège dans les instances spécialisées pour les matières relevant de la compétence de la direction générale. Il gère et coordonne les moyens mis à la disposition des professionnels du secteur agricole et agroalimentaire pour promouvoir leurs exportations. Il participe au suivi des questions relatives à l'aide alimentaire, en liaison avec les autres administrations compétentes. Il anime le réseau des attachés et spécialistes agricoles présents dans les missions économiques à l'étranger.
 
-Il est responsable du suivi des relations avec les pays en développement et des programmes visant à une meilleure insertion de ceux-ci dans le commerce international. Il suit particulièrement les problématiques liées aux produits de base agricoles, notamment celles des secteurs sucrier et cotonnier. Il gère le  schéma pluriannuel de préférences tarifaires généralisées  (SPG), mis en place par le Conseil de l'Union européenne au profit des pays en développement. Il assure la coordination des sujets traités au sein de la Commission des Nations unies pour le commerce et le développement (CNUCED), ainsi que des programmes de soutien à la participation des pays en développement dans le commerce international. Il traite des interactions entre les problématiques de commerce international, d'environnement et de développement durable.
+Il est responsable du suivi des relations avec les pays en développement et des programmes visant à une meilleure insertion de ceux-ci dans le commerce international. Il suit particulièrement les problématiques liées aux produits de base agricoles, notamment celles des secteurs sucrier et cotonnier. Il gère le schéma pluriannuel de préférences tarifaires généralisées (SPG), mis en place par le Conseil de l'Union européenne au profit des pays en développement. Il assure la coordination des sujets traités au sein de la Commission des Nations unies pour le commerce et le développement (CNUCED), ainsi que des programmes de soutien à la participation des pays en développement dans le commerce international. Il traite des interactions entre les problématiques de commerce international, d'environnement et de développement durable.
 
-Il est chargé des négociations relatives à la propriété intellectuelle dans les domaines de compétence de la direction générale, en liaison avec les autres administrations concernées. Il participe à l'élaboration des positions françaises à l'Organisation mondiale de la propriété intellectuelle (OMPI) et à l'Organisation des Nations unies pour l'éducation, la science et la culture (UNESCO). Il anime le réseau des correspondants  propriété intellectuelle et lutte contre la contrefaçon  présents dans les missions économiques à l'étranger.
+Il est chargé des négociations relatives à la propriété intellectuelle dans les domaines de compétence de la direction générale, en liaison avec les autres administrations concernées. Il participe à l'élaboration des positions françaises à l'Organisation mondiale de la propriété intellectuelle (OMPI) et à l'Organisation des Nations unies pour l'éducation, la science et la culture (UNESCO). Il anime le réseau des correspondants propriété intellectuelle et lutte contre la contrefaçon présents dans les missions économiques à l'étranger.
 
 Le bureau des investissements, de la lutte contre la criminalité financière et des sanctions
 

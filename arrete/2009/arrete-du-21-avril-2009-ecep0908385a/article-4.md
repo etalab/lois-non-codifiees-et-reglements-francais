@@ -6,9 +6,9 @@ II. ― La sous-direction des banques et des financements d'intérêt général 
 
 Le bureau des banques et des établissements de crédit
 
-Il suit les activités des établissements de crédit et des entreprises d'investissement (autres que les sociétés de gestion de portefeuille) et leurs organismes professionnels. Il traite les questions relatives à la gestion de leur bilan, notamment des points de vue prudentiel et comptable. Il participe, en liaison avec la Banque de France et les institutions régies par le livre VI du code monétaire et financier, à la préparation de la réglementation bancaire et financière et à sa mise en œuvre, en particulier dans le cadre des travaux du comité consultatif pour la législation et la réglementation financières (CCLRF) dont il assure le secrétariat général. Il suit les questions de supervision des établissements de crédit et des entreprises d'investissement et représente, le cas échéant, le directeur général au collège de la Commission bancaire et à celui du Comité des établissements de crédit et des entreprises d'investissement. Il traite les questions de gestion des situations de crise dans leur composante financière aux niveaux national européen et international, et assure la tutelle du Fonds de garantie des dépôts.
+Il suit les activités des établissements de crédit et des entreprises d'investissement (autres que les sociétés de gestion de portefeuille) et leurs organismes professionnels. Il traite les questions relatives à la gestion de leur bilan, notamment des points de vue prudentiel et comptable. Il participe, en liaison avec la Banque de France et les institutions régies par le livre VI du code monétaire et financier, à la préparation de la réglementation bancaire et financière et à sa mise en œuvre, en particulier dans le cadre des travaux du comité consultatif pour la législation et la réglementation financières (CCLRF) dont il assure le secrétariat général. Il suit les questions de supervision des établissements de crédit et des entreprises d'investissement et représente, le cas échéant, le directeur général au collège de l'Autorité de contrôle prudentiel. Il traite les questions de gestion des situations de crise dans leur composante financière aux niveaux national européen et international, et assure la tutelle du Fonds de garantie des dépôts.
 
-Il prépare la réglementation des réseaux régis par les chapitres II et IV du titre Ier du livre V du code monétaire et financier (établissements de crédit mutualistes et coopératifs, caisses d'épargne et de prévoyance, caisses de crédit municipal) et suit leurs activités.
+Il prépare la réglementation des réseaux régis par les chapitres II et IV du titre Ier du livre V du code monétaire et financier (établissements de crédit mutualistes et coopératifs, caisses d'épargne et de prévoyance, caisses de crédit municipal) et suit leurs activités, en liaison avec la mission de contrôle des activités financières.
 
 Il prépare et participe aux négociations européennes et internationales concernant les établissements de crédit et les entreprises d'investissement.
 
@@ -22,7 +22,7 @@ Le bureau du financement du logement et d'activités d'intérêt général
 
 Il est chargé des relations avec la Caisse des dépôts et consignations.
 
-Il est chargé de la politique de financement du logement.A ce titre, il propose et met en œuvre les mesures financières et réglementaires permettant d'assurer ce financement dans les meilleures conditions. Il participe dans cette optique aux travaux du comité consultatif pour la législation et la réglementation financières (CCLRF).
+Il est chargé de la politique de financement du logement. A ce titre, il propose et met en œuvre les mesures financières et réglementaires permettant d'assurer ce financement dans les meilleures conditions. Il participe dans cette optique aux travaux du comité consultatif pour la législation et la réglementation financières (CCLRF).
 
 Il surveille l'adéquation des ressources et des emplois des fonds d'épargne centralisés par la Caisse des dépôts et consignations et élabore la réglementation relative aux produits d'épargne correspondants ainsi qu'à l'épargne logement.
 
@@ -62,7 +62,7 @@ Il participe dans ces domaines aux négociations européennes et internationales
 
 Le bureau du financement et du développement des entreprises
 
-Il propose et met en œuvre les mesures visant à améliorer le financement des entreprises. Il prend part à l'élaboration des normes, notamment juridiques et fiscales, qui déterminent les conditions de création et de localisation des entreprises sur le territoire national et concourt à la mise en œuvre des instruments d'intervention publique en ce domaine ; à ce titre, il participe notamment à l'élaboration de la politique d'attractivité et d'aménagement du territoire et concourt à la préparation des travaux du         comité interministériel d'aménagement et de développement du territoire .
+Il propose et met en œuvre les mesures visant à améliorer le financement des entreprises. Il prend part à l'élaboration des normes, notamment juridiques et fiscales, qui déterminent les conditions de création et de localisation des entreprises sur le territoire national et concourt à la mise en œuvre des instruments d'intervention publique en ce domaine ; à ce titre, il participe notamment à l'élaboration de la politique d'attractivité et d'aménagement du territoire et concourt à la préparation des travaux du comité interministériel d'aménagement et de développement du territoire .
 
 Il représente la direction générale dans les organismes ou comités qui contribuent au financement des entreprises et exerce notamment la tutelle d'OSEO, en liaison avec la direction générale de la compétitivité, de l'industrie et des services et le ministère chargé de la recherche.
 
@@ -92,13 +92,13 @@ Il exerce la tutelle de la caisse d'amortissement de la dette sociale (CADES) et
 
 Le bureau des entreprises et intermédiaires d'assurance
 
-Il est chargé de la réglementation nationale des entreprises d'assurance ainsi que de l'analyse économique globale du secteur, y compris dans ses dimensions fiscale et sociale. Il assure le secrétariat du comité des entreprises d'assurance (CEA) et instruit, à ce titre, les décisions relatives à l'agrément de ces entreprises.
+Il est chargé de la réglementation nationale des entreprises d'assurance ainsi que de l'analyse économique globale du secteur, y compris dans ses dimensions fiscale et sociale. Il assure le secrétariat de l'Autorité de contrôle prudentiel (CEA) et instruit, à ce titre, les décisions relatives à l'agrément de ces entreprises.
 
 Il élabore la réglementation des placements des sociétés d'assurance, des caisses de retraite et des mutuelles. Il est chargé de la réglementation et du suivi des activités des intermédiaires habilités à présenter des opérations d'assurance (agents généraux, courtiers, guichets bancaires, vente directe), de l'enseignement et de la formation en matière d'assurance.
 
 Il est chargé des questions concernant la réassurance.
 
-Il représente la direction générale au sein de l'Autorité de contrôle des assurances et des mutuelles (ACAM). Il participe aux travaux du Comité consultatif du secteur financier (CCSF) et du Comité consultatif pour la législation et la réglementation financières (CCLRF).
+Il représente la direction générale au sein de l'Autorité de contrôle prudentiel (ACAM). Il participe aux travaux du Comité consultatif du secteur financier (CCSF) et du Comité consultatif pour la législation et la réglementation financières (CCLRF).
 
 Il prépare et conduit les négociations européennes et internationales concernant les entreprises d'assurance et assure la coordination des positions françaises dans le domaine de l'assurance. Il suit les questions relatives à l'activité du Comité européen des contrôleurs d'assurances et de pensions et de l'Association internationale des contrôleurs d'assurance.
 
@@ -108,4 +108,4 @@ Il analyse la situation économique et financière des institutions financières
 
 Il suit l'évolution des marchés financiers et analyse les conditions microéconomiques, comptables et juridiques du financement et de la gouvernance des entreprises.
 
-Il étudie l'efficacité du système financier au service de l'économie.A ce titre, il analyse les modalités de l'allocation de l'épargne et suit les marges et la productivité du secteur financier. Il identifie et analyse les caractéristiques du marché pour le financement des particuliers, des entreprises, notamment les petites et moyennes entreprises, et de l'innovation et de la recherche privée (y compris en partenariat privé / public) ; il identifie et analyse les caractéristiques du marché de l'assurance. Il analyse l'efficacité des incitations et aides publiques à l'épargne, au financement des PME et de l'innovation et au logement.
+Il étudie l'efficacité du système financier au service de l'économie. A ce titre, il analyse les modalités de l'allocation de l'épargne et suit les marges et la productivité du secteur financier. Il identifie et analyse les caractéristiques du marché pour le financement des particuliers, des entreprises, notamment les petites et moyennes entreprises, et de l'innovation et de la recherche privée (y compris en partenariat privé / public) ; il identifie et analyse les caractéristiques du marché de l'assurance. Il analyse l'efficacité des incitations et aides publiques à l'épargne, au financement des PME et de l'innovation et au logement.

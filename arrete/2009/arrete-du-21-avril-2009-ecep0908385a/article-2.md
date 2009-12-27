@@ -1,10 +1,10 @@
 # Article 2
 
-I.-Le service des politiques macroéconomiques et des affaires européennes comprend une sous-direction du diagnostic et des prévisions et une sous-direction des affaires européennes et de la macroéconomie internationale ainsi que, directement rattachés au chef de service, le secrétariat de la commission économique de la nation et de la conférence économique annuelle et une mission de coopération internationale.
+I. - Le service des politiques macroéconomiques et des affaires européennes comprend une sous-direction du diagnostic et des prévisions, une sous-direction des affaires européennes et une sous-direction des politiques macroéconomiques ainsi que, directement rattachés au chef de service, le secrétariat de la commission économique de la nation et une mission de coopération internationale.
 
 En outre, le service est chargé de la valorisation des travaux de la direction générale et des relations avec les autres organismes compétents en matière de prévision.A ce titre, la revue Economie et prévision lui est rattachée.
 
-II.-La sous-direction du diagnostic et des prévisions comprend :
+II. - La sous-direction du diagnostic et des prévisions comprend :
 
 Le bureau du diagnostic et des prévisions pour la France
 
@@ -20,7 +20,7 @@ Le bureau de l'analyse conjoncturelle
 
 Il assure le suivi de la conjoncture et la prévision macroéconomique à très court terme pour la France et la zone euro. Il développe les outils d'analyse conjoncturelle en liaison avec les services compétents de la direction générale de l'INSEE.
 
-III.-La sous-direction des affaires européennes et de la macroéconomie internationale comprend :
+III. - La sous-direction des affaires européennes comprend :
 
 Le bureau Union économique et monétaire
 
@@ -28,7 +28,7 @@ Il prépare l'Eurogroupe et contribue à la préparation des réunions du comit�
 
 Sur les questions de change et sur l'évolution de la situation économique de la zone euro, il contribue à la préparation des réunions du G7 et du groupe de travail n° 3 du comité de politique économique de l'OCDE.
 
-Il détermine les taux de chancellerie et assure le suivi des réserves de change en liaison avec la Banque de France.
+Il détermine les taux de chancellerie et assure le suivi des réserves de change en liaison avec la Banque de France. Pour les pays de l'Union européenne et de l'Association européenne de libre-échange (AELE), il prépare les instructions réalisées dans le cadre de la mission de surveillance et des programmes du FMI relatifs à ces pays.
 
 Le bureau de la coordination et de la stratégie européenne
 
@@ -48,16 +48,26 @@ Il contribue à la diffusion auprès du Parlement européen des positions du Gou
 
 Dans les pays membres de l'Union européenne et de l'Association européenne de libre-échange (AELE), il assure, avec l'appui du réseau des chefs des services économiques et des missions économiques à l'étranger, le suivi des relations économiques financières et commerciales bilatérales. Il anime et coordonne l'activité du réseau des chefs des services économiques et des missions économiques à l'étranger dans sa zone de compétence, en prenant en compte les demandes et les besoins des autres sous-directions. En liaison avec les missions économiques, il élabore la stratégie bilatérale de la France en matière financière, économique et commerciale, en privilégiant l'analyse du contexte régional des pays dans lesquels ces missions se situent. Il réalise la synthèse de la préparation des dossiers à caractère bilatéral.
 
-Le bureau des politiques macroéconomiques et des risques internationaux
+III bis. - La sous-direction des politiques macroéconomiques comprend :
 
-Il développe des analyses relatives aux politiques économiques des pays non membres de l'Union européenne et prépare les réunions du groupe de travail n° 3 du conseil de politique économique de l'OCDE. Il contribue dans ses domaines de compétences à la préparation des réunions du G7.
+Le bureau de la politique économique France.
 
-En coordination avec les autres services de la direction générale, il élabore et développe les outils nécessaires à la compréhension des déterminants des comportements des agents économiques et de l'évolution des équilibres mondiaux, en ce qui concerne les marchés des biens et services, les marchés du travail et des capitaux et les balances des paiements.
+Il analyse l'effet des politiques économiques françaises et étrangères sur la croissance et l'emploi en France à court, moyen et long terme. Il conçoit et développe les instruments utiles à l'évaluation de l'impact macroéconomique des politiques économiques et des réformes structurelles. Il analyse les déterminants de long terme des performances relatives de la France et des autres pays. Il assure au sein de la direction générale la diffusion des connaissances macroéconomiques. Il fournit des analyses et des conseils sur les questions relatives à la croissance française et à la conduite de la politique macroéconomique en France.
 
-Il assure le suivi de la situation économique dans les principaux pays émergents.
+Il prépare la présentation de la politique macroéconomique de la France aux organisations internationales (OCDE, FMI). Il prépare les réunions du conseil de politique économique de l'OCDE et de son groupe de travail n° 1.
 
-Il contribue à l'animation et à la formation permanente du réseau des experts économiques.
+Le bureau des politiques économiques et risques internationaux.
 
-IV.-Outre la préparation de leurs sessions, le secrétariat de la commission économique de la nation et de la conférence économique annuelle coordonne l'élaboration du rapport sur la situation et les perspectives économiques, sociales et financières de la nation prévu à l'article 50 de la loi organique du 1er août 2001 précitée.
+Il développe des analyses relatives aux politiques économiques des pays non membres de l'Union européenne et prépare les réunions du groupe de travail n° 3 du conseil de politique économique de l'OCDE.
 
-V.-La mission de coopération internationale est chargée de proposer et de mettre en œuvre les actions de coopération de la direction générale avec les services homologues des pays étrangers.
+En coordination avec les autres services de la direction générale, il élabore et développe les outils nécessaires à la compréhension des déterminants des comportements des agents économiques et de l'évolution des équilibres mondiaux, en ce qui concerne les marchés de biens et services, du travail et des capitaux et les balances des paiements.
+
+Il assure le suivi de la situation macroéconomique des principaux pays émergents, dont il prépare les examens réalisés dans le cadre de la mission de surveillance du FMI. Il contribue à l'élaboration du diagnostic macroéconomique des pays émergents en crise ou sous programme du FMI.
+
+Il mène des études transversales relatives à la situation macroéconomique des pays émergents.
+
+Il contribue à l'animation et à la formation permanente du réseau des "experts économiques".
+
+IV. - Outre la préparation de ses sessions, le secrétariat de la commission économique de la nation coordonne l'élaboration du rapport sur la situation et les perspectives économiques, sociales et financières de la nation prévu à l'article 50 de la loi organique du 1er août 2001 précitée.
+
+V. - La mission de coopération internationale est chargée de proposer et de mettre en œuvre les actions de coopération de la direction générale avec les services homologues des pays étrangers.

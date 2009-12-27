@@ -1,10 +1,10 @@
 # Article 6
 
-I. ― Le service des affaires bilatérales et de l'internationalisation des entreprises comprend une sous-direction du financement international des entreprises et une sous-direction des relations économiques bilatérales.
+I. - Le service des affaires bilatérales et de l'internationalisation des entreprises comprend une sous-direction du financement international des entreprises et une sous-direction des relations économiques bilatérales.
 
-II. ― La sous-direction du financement international des entreprises comprend :
+II. - La sous-direction du financement international des entreprises comprend :
 
-Le bureau de l'assurance-crédit
+Le bureau des crédits-export et des garanties à l'international
 
 Il conçoit et met en œuvre les procédures de garantie et de financement des exportations. Il élabore la politique de crédit arrêtée par le ministre de l'économie, de l'industrie et de l'emploi. Il oriente et coordonne l'action des différents intervenants chargés d'une mission de service public dans ces domaines, en particulier celle de COFACE agissant pour le compte de l'Etat et celle du département affaires institutionnelles de Natixis. Il assure le contrôle de l'Etat sur les activités de la COFACE gérées pour son compte en application de l'article R. 442-1 du code des assurances.
 
@@ -24,9 +24,9 @@ Le bureau Ubifrance, AFII et partenaires de l'exportation
 
 Il exerce la tutelle de l'Agence pour le développement international des entreprises (Ubifrance) et de l'Agence française pour les investissements internationaux (AFII).
 
-Il assure les relations de la direction générale avec les autres organismes publics ou privés intéressés par le développement international des entreprises et du territoire, tels que le Comité national des conseillers du commerce extérieur de la France, les organismes consulaires, les fédérations professionnelles et les collectivités territoriales. Il contribue à l'animation et à la coordination des directions régionales en charge du commerce extérieur.
+Il assure les relations de la direction générale avec les autres organismes publics ou privés intéressés par le développement international des entreprises et du territoire, tels que le Comité national des conseillers du commerce extérieur de la France, les organismes consulaires, les fédérations professionnelles et les collectivités territoriales. Il contribue à l'animation et à la coordination des directions régionales en charge du commerce extérieur. Il réalise la synthèse de la préparation des dossiers à caractère régional.
 
-III.-La sous-direction des relations économiques bilatérales comprend :
+III. - La sous-direction des relations économiques bilatérales comprend :
 
 Le bureau de la Méditerranée et de l'Afrique australe
 
@@ -44,4 +44,4 @@ Le bureau des Amériques
 
 Il comprend les circonscriptions des chefs des services économiques du Canada, des Etats-Unis, du Brésil, du Cône sud (Argentine, Chili, Paraguay, Uruguay), du Mexique et d'Amérique centrale (Mexique, Belize, Costa Rica, Guatemala, Honduras, Nicaragua, Salvador) ainsi que d'Amérique andine et des Caraïbes (Bolivie, Colombie, Equateur, Panama, Pérou, Venezuela, Caraïbes).
 
-IV.-Dans les pays relevant de sa zone de compétences, chaque bureau de la sous-direction des relations économiques, bilatérales est chargé du suivi macroéconomique et de l'appréciation du risque. Il assure également, avec l'appui du réseau des chefs des services économiques et des missions économiques à l'étranger, le suivi des relations économiques financières et commerciales bilatérales. Il anime et coordonne l'activité du réseau des chefs des services économiques et des missions économiques à l'étranger dans sa zone de compétence, en prenant en compte les demandes et les besoins des autres sous-directions. En liaison avec les missions économiques, il élabore la stratégie bilatérale de la France en matière financière, économique et commerciale, en privilégiant l'analyse du contexte régional des pays dans lesquels ces missions se situent. Il réalise la synthèse de la préparation des dossiers à caractère bilatéral.
+IV. - Dans les pays relevant de sa zone de compétences, chaque bureau de la sous-direction des relations économiques, bilatérales assure la coordination des analyses sur la situation économique, commerciale et financière des pays de sa zone de compétence et en examine les conséquences pour la relation bilatérale avec la France. Il assure également, avec l'appui du réseau des chefs des services économiques et des missions économiques à l'étranger, le suivi des relations économiques financières et commerciales bilatérales. Il anime et coordonne l'activité du réseau des chefs des services économiques et des missions économiques à l'étranger dans sa zone de compétence, en prenant en compte les demandes et les besoins des autres sous-directions. En liaison avec les missions économiques, il élabore la stratégie bilatérale de la France en matière financière, économique et commerciale, en privilégiant l'analyse du contexte régional des pays dans lesquels ces missions se situent. Il réalise la synthèse de la préparation des dossiers à caractère bilatéral.
