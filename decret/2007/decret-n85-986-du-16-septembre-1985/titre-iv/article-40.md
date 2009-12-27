@@ -8,8 +8,6 @@ Le fonctionnaire placé dans cette position cesse de bénéficier de ses droits 
 
 La mise hors cadres est prononcée par arrêté du ministre dont relève le fonctionnaire. Elle est renouvelée par arrêté du ministre dans les services duquel l'intéressé est affecté.
 
-Par dérogation à l'alinéa précédent, la mise hors cadres des fonctionnaires appartenant au corps des administrateurs civils est prononcée par arrêté du Premier ministre et du ministre intéressé.
-
 La mise hors cadres ne peut excéder cinq années. Elle peut être renouvelée par périodes n'excédant pas cinq années par arrêté du ministre dont relève le fonctionnaire intéressé. Dans le cas des administrateurs civils, elle est renouvelée par arrêté du ministre dans les services duquel l'intéressé est affecté.
 
 Trois mois au moins avant l'expiration de chaque période de mise hors cadres, le fonctionnaire fait connaître à son administration d'origine sa décision de solliciter le renouvellement de la position hors cadres ou de réintégrer son corps d'origine.

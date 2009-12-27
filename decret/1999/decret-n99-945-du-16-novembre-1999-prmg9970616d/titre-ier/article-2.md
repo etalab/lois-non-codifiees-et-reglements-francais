@@ -1,11 +1,21 @@
 # Article 2
 
-Les administrateurs civils constituent un corps unique à vocation interministérielle relevant du Premier ministre, qui est classé dans la catégorie A prévue à l'article 29 de la loi du 11 janvier 1984 susvisée.
+I.-Les administrateurs civils constituent un corps unique à vocation interministérielle relevant du Premier ministre, qui est classé dans la catégorie A prévue à l'article 29 de la loi du 11 janvier 1984 susvisée.
 
-Leur affectation aux différentes administrations est prononcée par le Premier ministre, après avis du ministre chargé de la fonction publique. La première affectation des administrateurs civils recrutés par la voie de l'Ecole nationale d'administration est prononcée compte tenu des choix opérés par les intéressés à la sortie de l'école.L'affectation des administrateurs civils à l'intérieur de chaque administration est prononcée, sous réserve des dispositions de l'article 21 ci-dessous, par le ministre concerné.
+II.-La nomination et la titularisation dans le corps des administrateurs civils sont prononcées par décret du Président de la République.
 
-Les pouvoirs de gestion qui ne sont pas confiés au Premier ministre sont exercés par le ministre auquel l'administrateur civil est rattaché. Toutefois, tout changement de position ou renouvellement de position qui n'est pas de droit est soumis, par le ministre de rattachement, à l'accord préalable du Premier ministre.
+Le Premier ministre arrête le tableau d'avancement et prononce l'avancement à la hors-classe dans les conditions définies par les articles 12 et 13 du présent décret. Il prononce les sanctions disciplinaires dans les conditions définies par l'article 15 du présent décret.
 
-Les administrateurs civils placés dans une position autre que celle d'activité demeurent rattachés pour leur gestion à l'administration à laquelle ils étaient précédemment affectés. Lors de leur retour à la position d'activité ou s'ils demandent à changer de ministère de rattachement, ils font l'objet d'une décision d'affectation ou de rattachement dans les conditions prévues aux deuxième et troisième alinéas du présent article.
+III.-L'affectation des administrateurs civils aux différentes administrations mentionnées à l'article 1er du présent décret est prononcée, sous réserve des dispositions de l'article 21 ci-dessous, par chacun des ministres auprès duquel elle est effectuée.
 
-La direction générale de l'administration et de la fonction publique prépare les décisions soumises à la signature du Premier ministre en application du présent décret.
+IV.-Les administrateurs civils sont rattachés pour leur gestion à l'administration à laquelle ils sont affectés. Toutefois, ils demeurent rattachés pour leur gestion à l'administration à laquelle ils étaient affectés avant de se trouver dans l'une des situations suivantes :
+
+1° Lorsqu'ils effectuent la mobilité prévue à l'article 16 du présent décret ;
+
+2° Lorsque, quelle que soit la position statutaire retenue, ils exercent leurs fonctions dans une administration, une collectivité, un établissement ou un organisme autres qu'une administration de l'Etat.
+
+Dans le cas où ils sont nommés sur un emploi régi par un statut d'emploi d'une administration de l'Etat, cette nomination vaut détachement et les administrateurs civils demeurent rattachés pour leur gestion à l'administration à laquelle ils étaient affectés au moment de cette nomination. Toutefois, ils peuvent demander à être rattachés pour leur gestion à l'administration auprès de laquelle ils sont détachés.
+
+V.-La direction générale de l'administration et de la fonction publique prépare les décisions relevant du Premier ministre en application du présent décret.
+
+Les administrations gestionnaires des administrateurs civils informent la direction générale de l'administration et de la fonction publique des décisions relatives à l'affectation, aux positions et situations statutaires concernant les administrateurs civils qui relèvent de leurs effectifs.

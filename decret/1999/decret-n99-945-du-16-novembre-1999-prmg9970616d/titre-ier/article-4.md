@@ -12,4 +12,4 @@ La commission administrative paritaire interministérielle est consultée sur le
 
 Elle débat des questions d'ordre général relatives aux modalités de gestion du corps des administrateurs civils, notamment de la mobilité au sein de la fonction publique et de la formation continue.
 
-Elle est informée des mouvements intervenus dans le corps des administrateurs civils et examine, au moins tous les deux ans, un bilan statistique sur la situation du corps des administrateurs civils.
+Elle est informée des mouvements nominatifs intervenus dans le corps des administrateurs civils et examine, au moins tous les deux ans, un bilan statistique, quantitatif et qualitatif établi notamment sur la base de ces informations.

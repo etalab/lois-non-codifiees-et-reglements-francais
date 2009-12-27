@@ -2,9 +2,9 @@
 
 Par dérogation aux dispositions de l'article précédent :
 
-1° Le détachement des fonctionnaires appartenant au corps des administrateurs civils est prononcé par arrêté du Premier ministre et des ministres intéressés.
+1° (Abrogé)
 
-2° (Abrogé)
+2 (Abrogé)
 
 3° Sont prononcés par arrêté du seul ministre dont ils relèvent dans leur corps d'origine, après accord, le cas échéant, du ou des ministres intéressés :
 
@@ -22,7 +22,7 @@ d) Le détachement auprès du ministre de la défense :
 
 -des fonctionnaires du ministère de l'économie, des finances et du budget pour servir dans la trésorerie aux armées ;
 
-e) Le détachement des    ingénieurs des ponts, des eaux et des forêts, des ingénieurs des mines, des ingénieurs des travaux publics de l'Etat (service de l'équipement), des ingénieurs des travaux publics de l'Etat (service des mines), des techniciens des travaux publics de l'Etat (service de l'équipement), des techniciens des travaux publics de l'Etat (service des mines) pour servir auprès des services ci-après :
+e) Le détachement des ingénieurs des ponts, des eaux et des forêts, des ingénieurs des mines, des ingénieurs des travaux publics de l'Etat (service de l'équipement), des ingénieurs des travaux publics de l'Etat (service des mines), des techniciens des travaux publics de l'Etat (service de l'équipement), des techniciens des travaux publics de l'Etat (service des mines) pour servir auprès des services ci-après :
 
 -services techniques de la commune de Paris ;
 
