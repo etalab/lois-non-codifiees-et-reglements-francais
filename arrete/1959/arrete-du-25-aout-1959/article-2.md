@@ -2,7 +2,7 @@
 
 Par dérogation à l'article 1er ci-dessus et pour les trajets entre la ferme et les champs, des empreintes formant saillie sur les bandages métalliques seront tolérées sous les conditions suivantes :
 
-a) La charge transmise au sol mesurée par rapport à la largeur minima des empreintes ne dépassera pas la limite fixée par l'article R. 110 du code de la route ;
+a) La charge transmise au sol mesurée par rapport à la largeur minima des empreintes ne dépassera pas la limite fixée par l'article R. 312-7 du code de la route ;
 
 b) Les empreintes seront aménagées de façon à ne pas occasionner de dégradations anormales à la voie publique et ne présenteront pas en particulier d'arêtes vives ;
 
