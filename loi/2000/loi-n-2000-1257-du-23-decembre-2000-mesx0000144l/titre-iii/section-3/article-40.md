@@ -26,6 +26,10 @@ Le fonds prend également en charge les frais de fonctionnement d'une mission na
 
 IV.-Bénéficient du concours de ce fonds les actions mentionnées au II du présent article qui sont entreprises par des établissements publics de santé et des établissements de santé privés mentionnés aux b et c de l'article L. 162-22-6 du code de la sécurité sociale ayant fait l'objet d'un agrément par le ou les directeurs d'agence régionale de l'hospitalisation compétents. Les établissements non visés par cet article peuvent également bénéficier, après agrément dans les conditions mentionnées précédemment, du concours du fonds dans le cadre d'opérations de coopération entre un ou plusieurs de ces établissements et un ou plusieurs établissements visés à l'article L. 174-1 du même code.
 
+Les sommes dues au titre des actions du fonds sont prescrites à son profit dès lors qu'elles n'ont pas fait l'objet soit d'un agrément ou d'une décision attributive de subvention, dans un délai d'un an à compter de la notification ou de la publication de l'acte de délégation des crédits du fonds, soit d'une demande de paiement justifiée dans un délai de trois ans à partir du premier jour de l'année suivant celle au cours de laquelle les droits ont été acquis.
+
+L'alinéa précédent est applicable aux sommes déléguées antérieurement à la date de son entrée en vigueur.
+
 V.-Les ressources du fonds sont constituées par une participation des régimes obligatoires d'assurance maladie dont le montant est fixé chaque année par la loi de financement de la sécurité sociale et, pour 2001, à 600 millions de francs, ainsi que par le reversement des avances remboursables mentionnées au III. La répartition entre les différents régimes est effectuée dans les conditions définies par l'article L. 174-2 du code de la sécurité sociale.
 
 Les sommes apportées par les organismes de sécurité sociale et mentionnées à l'article L. 6161-3-2 du code de la santé publique sont versées au fonds.
