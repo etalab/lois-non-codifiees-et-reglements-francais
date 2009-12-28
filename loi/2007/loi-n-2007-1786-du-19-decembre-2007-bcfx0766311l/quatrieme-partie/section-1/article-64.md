@@ -1,9 +1,15 @@
 # Article 64
 
-De nouveaux modes de prise en charge et de financement par l'assurance maladie des frais de transports de patients prescrits par les praticiens exerçant dans les établissements publics de santé et les établissements de santé privés mentionnés aux b et c de l'article L. 162-22-6 du code de la sécurité sociale peuvent être expérimentés, à compter du 1er janvier 2008 et pour une période n'excédant pas cinq ans. Les frais de transports entrant dans le champ de cette expérimentation sont mis à la charge des établissements expérimentateurs. La part de ces frais prise en charge par l'assurance maladie est financée par dotation annuelle. Par dérogation au deuxième alinéa de l'article L. 322-5-1 du même code, la participation de l'assuré aux frais de transports, calculée sur la base des tarifs mentionnés aux articles L. 162-14-1 et L. 162-14-2 du même code, est versée aux établissements de santé concernés.
+De nouvelles modalités d'organisation et de régulation des transports peuvent être expérimentées, à compter du 1er janvier 2010 et pour une période n'excédant pas cinq ans, sous la responsabilité des établissements de santé qui en font le choix.
 
-Le montant des charges supportées par les régimes obligatoires d'assurance maladie afférentes aux frais de transports entrant dans le champ de cette expérimentation est pris en compte dans les objectifs de dépenses mentionnés aux articles L. 162-22-13 et L. 174-1-1 du même code.
+Cette expérimentation a pour objectif de développer des modes de transports plus efficients en facilitant la mise en place de transports partagés, notamment en recourant à des véhicules sanitaires légers ou des transports de patients à mobilité réduite.
 
-Dans un délai de trois mois suivant la publication de la présente loi, les missions régionales de santé fixent la liste des établissements de santé devant entrer dans le champ de cette expérimentation.
+Les établissements de santé et les transporteurs sanitaires signent une convention créant des centres de régulation chargés de proposer au patient le mode de transport le plus adapté à son état de santé. Les entreprises de transports membres du centre de régulation doivent respecter la prescription médicalisée de transports.
 
-Un arrêté des ministres chargés de la santé et de la sécurité sociale fixe le cahier des charges relatif aux modalités de mise en oeuvre et d'évaluation de cette expérimentation.
+Par dérogation au premier alinéa de l'article L. 322-5-1 du code de la sécurité sociale, la dispense d'avance des frais pour l'assuré est supprimée s'il refuse la proposition de transport qui lui est faite.
+
+Dans un délai de six mois suivant la publication de la loi n° 2009-1646 du 24 décembre 2009 de financement de la sécurité sociale pour 2010, les agences régionales de santé fixent la liste des établissements de santé entrant dans le champ de cette expérimentation.
+
+Un arrêté des ministres chargés de la santé et de la sécurité sociale fixe le cahier des charges de mise en œuvre et d'évaluation de cette expérimentation.
+
+Ces expérimentations font l'objet d'une évaluation annuelle et, à leur terme, d'un rapport du Gouvernement transmis au Parlement.

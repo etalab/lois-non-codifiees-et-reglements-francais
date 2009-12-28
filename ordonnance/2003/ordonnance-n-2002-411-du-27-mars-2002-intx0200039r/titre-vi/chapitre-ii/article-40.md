@@ -5,3 +5,5 @@ L'allocation pour adulte handicapé est servie comme une prestation familiale. E
 L'action de l'allocataire pour le paiement de l'allocation se prescrit par deux ans.
 
 Cette prescription est également applicable à l'action intentée par l'organisme payeur en recouvrement d'allocations indûment payées, sauf en cas de fraude ou de fausse déclaration.
+
+L'article L. 133-4-6 du code de la sécurité sociale est applicable à l'allocation pour adulte handicapé.

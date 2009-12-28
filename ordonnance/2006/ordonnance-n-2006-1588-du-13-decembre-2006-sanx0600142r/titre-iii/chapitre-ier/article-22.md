@@ -17,3 +17,5 @@ Cette prescription est également applicable, à compter du paiement des prestat
 Les prescriptions prévues aux trois alinéas précédents sont soumises aux règles de droit commun.
 
 Toutefois, en cas d'accident susceptible d'entraîner la reconnaissance de la faute inexcusable de l'employeur, ou de ceux qu'il s'est substitués, la prescription de deux ans opposable aux demandes d'indemnisation complémentaire visée aux articles 72 et suivants est interrompue par l'exercice de l'action pénale engagée pour les mêmes faits ou de l'action en reconnaissance du caractère professionnel de l'accident.
+
+L'article L. 133-4-6 du code de la sécurité sociale est applicable à Mayotte.

@@ -2,13 +2,11 @@
 
 I. - Il est institué une contribution perçue à compter de 1996 et assise sur les revenus du patrimoine définis au I de l'article L. 136-6 du code de la sécurité sociale perçus par les personnes physiques désignées au I de l'article 14 de la présente ordonnance.
 
-Cette contribution est établie chaque année, sous réserve des revenus des placements visés aux 3° et 4° du II de l'article 16 autres que les contrats en unités de comptes, sur les revenus de l'année précédente.
+Cette contribution est établie chaque année sur les revenus de l'année précédente, à l'exception de ceux ayant supporté la contribution prévue à l'article 16.
 
 Toutefois, la contribution due sur les revenus de la première anné d'imposition est assise sur les onze douzièmes des revenus de l'année 1995.
 
 Elle est établie, recouvrée et contrôlée dans les conditions et selon les modalités prévues au III de l'article L. 136-6 du code de la sécurité sociale, à l'exception du troisième alinéa.
-
-Pour la détermination de l'assiette de la contribution, il n'est pas fait application des abattements mentionnés au I de l'article 125-0 A et aux 2° et 5° du 3 ainsi qu'au 4 bis de l'article 158 du code général des impôts.
 
 II. - La contribution est mise en recouvrement et exigible en même temps, le cas échéant, que la contribution sociale instituée par l'article L. 136-6 du code de la sécurité sociale. Il n'est pas procédé au recouvrement lorsque le montant total par article de rôle est inférieur à 61 euros.
 
@@ -16,8 +14,8 @@ III. - Sont également assujettis à la contribution dans les conditions et selo
 
 1° Les revenus d'activité et de remplacement de source étrangère perçus à compter du 1er février 1996 et soumis en France à l'impôt sur le revenu. Pour l'application de ces dispositions, le 3° de l'article 83 et le a du 5 de l'article 158 du code général des impôts ne sont pas applicables. La déclaration prévue à l'article 170 du code général des impôts mentionne distinctement les revenus concernés ;
 
-2° Les sommes soumises à l'impôt sur le revenu en application de l'article L. 69 du livre des procédures fiscales au titre des années visées au I ;
+2° Les sommes soumises à l'impôt sur le revenu en application des articles 168, 1649 A et 1649 quater A du code général des impôts et L. 69 du livre des procédures fiscales ;
 
-3° Tous autres revenus perçus au titre des années définies au I, dont l'imposition est attribuée à la France par une convention internationale relative aux doubles impositions et qui n'ont pas supporté la contribution prévue à l'article 14 ;
+2° bis Les sommes soumises à l'impôt sur le revenu en application du 1° de l'article L. 66 du livre des procédures fiscales et qui ne sont pas assujetties à la contribution en vertu d'une autre disposition ;
 
-4° Les plus-values exonérées d'impôt sur le revenu en application du 7 du III de l'article 150-0 A du code général des impôts au titre des années visées au I.
+3° Tous autres revenus perçus au titre des années définies au I, dont l'imposition est attribuée à la France par une convention internationale relative aux doubles impositions et qui n'ont pas supporté la contribution prévue à l'article 14.
