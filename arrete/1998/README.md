@@ -163,8 +163,6 @@
 - [Arrêté du 6 octobre 1998 (ECOI9800812A)](arrete-du-6-octobre-1998-ecoi9800812a)
 - [Arrêté du 6 octobre 1998 (ECOT9851745A)](arrete-du-6-octobre-1998-ecot9851745a)
 - [Arrêté du 6 octobre 1998 (JUSF9850230A)](arrete-du-6-octobre-1998-jusf9850230a)
-- [Arrêté du 6 octobre 1998 (JUSF9850231A)](arrete-du-6-octobre-1998-jusf9850231a)
-- [Arrêté du 6 octobre 1998 (JUSF9850232A)](arrete-du-6-octobre-1998-jusf9850232a)
 - [Arrêté du 6 mai 1997 (EQUS9700834A)](arrete-du-6-mai-1997-equs9700834a)
 - [Arrêté du 6 mai 1998 (ECOT9810333A)](arrete-du-6-mai-1998-ecot9810333a)
 - [Arrêté du 6 mai 1998 (ECOT9810337A)](arrete-du-6-mai-1998-ecot9810337a)
