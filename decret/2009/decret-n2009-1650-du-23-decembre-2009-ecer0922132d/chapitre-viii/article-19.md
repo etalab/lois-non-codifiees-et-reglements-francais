@@ -1,0 +1,7 @@
+# Article 19
+
+I. ― Jusqu'au 1er janvier 2011, les personnes physiques ou morales titulaires de la licence, de l'agrément, de l'habilitation et de l'autorisation délivrés en application des titres Ier et III du livre II du code du tourisme antérieurement à la date de publication du présent décret peuvent être immatriculées aux registres mentionnés au a et au b de l'article L. 141-3 du code du tourisme sur demande adressée par lettre simple à la commission d'immatriculation mentionnée à l'article L. 141-2 du même code. Cette demande doit être accompagnée de la copie de la licence, de l'agrément, de l'habilitation ou de l'autorisation qui leur a été délivré par le préfet.
+
+Tout changement survenant, après la date de publication du présent décret dans les éléments dont la déclaration ou la justification est exigée conformément au chapitre unique du titre Ier du livre II du code du tourisme oblige les titulaires des licences, agréments, autorisations et habilitations à déposer une demande d'immatriculation auprès de la commission d'immatriculation mentionnée à l'article L. 141-2 du même code.
+
+II. ― Les conditions d'accès à l'exercice de l'activité de chauffeur de voitures de tourisme prévues au chapitre Ier du titre III du livre II du code du tourisme sont réputées acquises pour les personnes qui à la date de publication du présent décret sont titulaires du certificat mentionné à l'article R. 231-4 du code du tourisme dans sa rédaction en vigueur à la date du 22 juillet 2009.

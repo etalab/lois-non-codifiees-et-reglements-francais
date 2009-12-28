@@ -11,6 +11,7 @@
 - [LOI n° 2009-1437 du 24 novembre 2009 (ECEX0908316L)](loi-n-2009-1437-du-24-novembre-2009-ecex0908316l)
 - [LOI n° 2009-1503 du 8 décembre 2009 (DEVX0816035L)](loi-n-2009-1503-du-8-decembre-2009-devx0816035l)
 - [LOI n° 2009-1572 du 17 décembre 2009 (PRMX0917307L)](loi-n-2009-1572-du-17-decembre-2009-prmx0917307l)
+- [LOI n° 2009-1646 du 24 décembre 2009 (BCFX0922820L)](loi-n-2009-1646-du-24-decembre-2009-bcfx0922820l)
 - [LOI n° 2009-179 du 17 février 2009 (RELX0829929L)](loi-n-2009-179-du-17-fevrier-2009-relx0829929l)
 - [LOI n° 2009-258 du 5 mars 2009 (MCCX0821956L)](loi-n-2009-258-du-5-mars-2009-mccx0821956l)
 - [LOI n° 2009-323 du 25 mars 2009 (LOGX0815554L)](loi-n-2009-323-du-25-mars-2009-logx0815554l)

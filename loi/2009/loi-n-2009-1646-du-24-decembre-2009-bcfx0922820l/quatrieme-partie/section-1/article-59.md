@@ -1,0 +1,3 @@
+# Article 59
+
+La contribution pour l'année 2010 des régimes obligatoires d'assurance maladie au financement des agences régionales de santé correspond à une participation aux dépenses afférentes aux emplois transférés par les organismes d'assurance maladie et aux crédits de fonctionnement s'y rapportant ainsi qu'à une participation au titre d'actions de prévention, fixées au prorata de la période effective de fonctionnement de ces agences, dans la limite, en année pleine, de 173 millions d'euros pour les dépenses en personnel et de 40 millions d'euros pour les actions de prévention. Elle est fixée par arrêté des ministres chargés de la santé, de la sécurité sociale et de l'agriculture.

@@ -1,0 +1,3 @@
+# Article 4
+
+La proposition de plan d'apurement mentionne les motifs de la demande, l'origine des difficultés financières et les moyens envisagés pour y remédier. Elle est accompagnée des pièces justificatives nécessaires à l'examen de la situation financière du débiteur, notamment de ses capacités de remboursement, et indique les coordonnées du compte bancaire ou du compte épargne sur lequel le prélèvement automatique des échéances du plan sera effectué. L'arrêté prévu à l'article 2 du présent décret précise, en tant que de besoin, la composition du dossier à adresser à l'organisme chargé du recouvrement.
