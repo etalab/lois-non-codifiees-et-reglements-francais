@@ -1,7 +1,5 @@
 # Article 15
 
-Le concours interne est ouvert aux candidats âgés de quarante ans au plus au 1er juillet de l'année du concours, s'ils justifient au 31 décembre de cette même année de quatre ans au moins de services effectifs dans un emploi de fonctionnaire ou d'agent de l'Etat, des collectivités territoriales, d'un établissement public ou d'une organisation internationale intergouvernementale, compte non tenu des périodes de stage ou de formation dans une école ou un établissement ouvrant accès à un corps ou cadre d'emplois de la fonction publique.
+Le concours interne est ouvert aux fonctionnaires et agents de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent, y compris ceux visés à l'article 2 de la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière, ainsi qu'aux militaires et aux magistrats qui, à la date de clôture des inscriptions, sont en position d'activité, de détachement ou de congé parental, ainsi qu'aux agents en fonction dans une organisation internationale intergouvernementale. Les candidats doivent justifier, au 31 décembre de l'année du concours, de quatre ans au moins de services publics.
 
-Le ministre chargé de la fonction publique se prononce sur la recevabilité des candidatures des fonctionnaires ou agents des organisations internationales intergouvernementales après avis de la commission interministérielle prévue à l'article 2 du décret n° 85-1271 du 27 novembre 1985 portant application des articles 19 et 26 de la loi du 11 janvier 1984 susvisée.
-
-Le temps passé au service national au-delà de la durée légale est assimilé aux services précités.
+Pour la détermination de cette durée, ne sont pas prises en considération les périodes de stage ou de formation dans une école ou un établissement ouvrant accès à un corps ou cadre d'emplois de la fonction publique.

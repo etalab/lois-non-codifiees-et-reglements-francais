@@ -4,11 +4,11 @@ Les jurys des concours sont nommés chaque année par arrêté du ministre charg
 
 Le jury comprend, outre le président :
 
-- pour le concours externe, quatorze membres choisis parmi des fonctionnaires, des enseignants et des personnalités non fonctionnaires, dont au moins cinq fonctionnaires autres que des enseignants et au plus trois personnalités non fonctionnaires ;
+-pour le concours externe, quatorze à dix-sept membres choisis parmi des fonctionnaires, des enseignants et des personnalités non fonctionnaires, dont au moins cinq fonctionnaires autres que des enseignants et au plus trois personnalités non fonctionnaires ;
 
-- pour le concours interne, quatorze membres choisis parmi des fonctionnaires, des enseignants et des personnalités non fonctionnaires, dont au moins cinq fonctionnaires autres que des enseignants et au plus trois personnalités non fonctionnaires ;
+-pour le concours interne, quatorze à dix-sept membres choisis parmi des fonctionnaires, des enseignants et des personnalités non fonctionnaires, dont au moins cinq fonctionnaires autres que des enseignants et au plus trois personnalités non fonctionnaires ;
 
-- pour le troisième concours, huit fonctionnaires, dont au plus quatre enseignants, et quatre personnalités non fonctionnaires.
+-pour le troisième concours, douze fonctionnaires, dont au plus quatre enseignants, et quatre personnalités non fonctionnaires.
 
 Le président et deux membres du jury sont communs aux trois concours d'entrée à l'ENA.
 

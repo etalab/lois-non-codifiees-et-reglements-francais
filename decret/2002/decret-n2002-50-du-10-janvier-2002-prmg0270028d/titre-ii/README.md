@@ -3,3 +3,4 @@
 - [Chapitre Ier : Préparation au concours externe.](chapitre-ier)
 - [Chapitre II : Préparation au concours interne.](chapitre-ii)
 - [Chapitre III : Préparation au troisième concours.](chapitre-iii)
+- [Chapitre IV : Dispositions communes aux centres de préparation.](chapitre-iv)
