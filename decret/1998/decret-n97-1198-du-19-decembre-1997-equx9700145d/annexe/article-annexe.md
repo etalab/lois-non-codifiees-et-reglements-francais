@@ -1458,23 +1458,6 @@ Code du tourisme
 <tr>
 <td>1 </td>
 <td>
-<p>Délivrance, modification, suspension et retrait de licences de libre </p>
-<p>prestation de services aux ressortissants d'un Etat membre de </p>
-<p>l'Union européenne. </p>
-</td>
-<td>Articles R. * 212-42, R. * 212-45 et R. * 212-47. </td>
-</tr>
-<tr>
-<td>2 </td>
-<td>
-<p>Attribution de l'agrément national délivré à des organismes de </p>
-<p>promotion et de contrôle des meublés, représentatifs au plan national. </p>
-</td>
-<td>Article R. * 324-9. </td>
-</tr>
-<tr>
-<td>3 </td>
-<td>
 <p>Délivrance, suspension et retrait de l'agrément national délivré à des </p>
 <p>organismes de tourisme social et familial. </p>
 </td>
