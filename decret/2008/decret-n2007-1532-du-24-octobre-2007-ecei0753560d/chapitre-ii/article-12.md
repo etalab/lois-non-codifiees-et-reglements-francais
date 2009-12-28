@@ -2,7 +2,9 @@
 
 Le montant annuel, exprimé en euros, de la redevance de gestion est égal :
 
-- au produit d'une constante de référence " G " par le nombre d'assignations, pour les assignations ;
+- au produit d'une constante de référence "G" par le nombre d'assignations, pour les assignations ;
+
+- au produit de la constante de référence "G'" par le coefficient "c" pour les allotissements du service mobile des réseaux indépendants ;
 
 - à la constante de référence "G'" pour les allotissements des services fixe et mobile par satellites ;
 

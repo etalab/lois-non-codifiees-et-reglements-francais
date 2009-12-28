@@ -8,4 +8,4 @@ Les titulaires d'une autorisation d'utilisation de fréquences délivrée par ar
 
 -au paiement du montant qu'ils se sont engagés à verser, le cas échéant, dans le cadre d'une attribution par appel à candidatures au titre de l'article L. 42-2 du code des postes et des communications électroniques. Le paiement de ce montant est exigible dès l'attribution de l'autorisation d'utilisation de fréquences et le montant que l'opérateur s'est engagé à verser est précisé dans la décision d'autorisation.
 
-Les titulaires d'une autorisation d'utilisation de fréquences inférieures à 29, 7 MHz sont exemptés du paiement des redevances.
+Les titulaires d'une autorisation d'utilisation de fréquences inférieures à 29, 7 MHz sont exemptés du paiement de la redevance de mise à disposition.
