@@ -1,0 +1,3 @@
+# Article 2
+
+L'organisme sollicitant son habilitation adresse au ministre chargé du travail une demande précisant la ou les catégories de machines listées à l'article R. 4313-78 du code du travail ainsi que la ou les procédures d'évaluation de la conformité prévues aux articles R. 4313-23 et R. 4313-43 du code du travail pour lesquelles il demande à être habilité, en vue de sa notification à la Commission européenne ainsi qu'aux autres Etats membres. Il joint à sa demande les informations nécessaires pour son identification ainsi que la ou les attestations d'accréditation prévues aux articles 4 et 5 du présent arrêté.
