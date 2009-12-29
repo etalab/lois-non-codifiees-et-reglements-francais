@@ -208,7 +208,6 @@
 - [Arrêté du 7 février 1997 (ECOT9710295A)](arrete-du-7-fevrier-1997-ecot9710295a)
 - [Arrêté du 7 février 1997 (MIPP9700017A)](arrete-du-7-fevrier-1997-mipp9700017a)
 - [Arrêté du 7 février 1997 (TAST9710219A)](arrete-du-7-fevrier-1997-tast9710219a)
-- [Arrêté du 7 février 1997 (TAST9710299A)](arrete-du-7-fevrier-1997-tast9710299a)
 - [Arrêté du 7 janvier 1997 (ECOP9600523A)](arrete-du-7-janvier-1997-ecop9600523a)
 - [Arrêté du 7 janvier 1997 (ECOT9710290A)](arrete-du-7-janvier-1997-ecot9710290a)
 - [Arrêté du 7 janvier 1997 (TAST9710168A)](arrete-du-7-janvier-1997-tast9710168a)
