@@ -18,7 +18,6 @@
 - [Arrêté du 1 mars 1996 (BUDF9620934A)](arrete-du-1-mars-1996-budf9620934a)
 - [Arrêté du 1 mars 1996 (ECOT9651495A)](arrete-du-1-mars-1996-ecot9651495a)
 - [Arrêté du 1 mars 1996 (EQUA9600358A)](arrete-du-1-mars-1996-equa9600358a)
-- [Arrêté du 2 août 1995 (AGRG9501585A)](arrete-du-2-aout-1995-agrg9501585a)
 - [Arrêté du 2 août 1996 (ACVA9610038A)](arrete-du-2-aout-1996-acva9610038a)
 - [Arrêté du 2 août 1996 (BUDF9600024A)](arrete-du-2-aout-1996-budf9600024a)
 - [Arrêté du 2 août 1996 (EQUS9601075A)](arrete-du-2-aout-1996-equs9601075a)
