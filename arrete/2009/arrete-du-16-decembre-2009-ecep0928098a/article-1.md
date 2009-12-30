@@ -1,0 +1,3 @@
+# Article 1
+
+La suppression du service à compétence nationale des études et des statistiques industrielles par l'arrêté du 26 janvier 2009 susvisé, qui a pour conséquence le rattachement de l'activité statistique industrielle à l'Institut national de la statistique et des études économiques (pôle statistiques industrielles) et celui de l'activité d'études à la direction générale de la compétitivité, de l'industrie et des services (sous-direction de la prospective, des études économiques et de l'évaluation), est une opération de restructuration de services au sens des décrets n° 2008-366 et n° 2008-368 du 17 avril 2008 susvisés.
