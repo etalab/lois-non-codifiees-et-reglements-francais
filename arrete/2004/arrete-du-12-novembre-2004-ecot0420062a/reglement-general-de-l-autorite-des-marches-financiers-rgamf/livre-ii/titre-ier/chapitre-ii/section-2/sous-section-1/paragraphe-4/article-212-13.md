@@ -14,6 +14,8 @@ IV. - A compter de la publication du document de référence, l'émetteur peut p
 
 Ces actualisations successives sont mises à la disposition du public dans les conditions prévues au III.
 
+IV bis. - Lorsqu'un émetteur dépose ou fait enregistrer un document de référence en français auprès de l'Autorité des marchés financiers, il peut également déposer ou faire enregistrer ce document dans une langue usuelle en matière financière dans les conditions fixées par l'instruction. Dans ce cas, les actualisations successives sont rédigées en français et dans la même langue usuelle en matière financière.
+
 V. - Lorsque l'AMF, dans le cadre de ses missions de contrôle, constate une omission ou une inexactitude significative dans le contenu du document de référence, elle en informe l'émetteur, qui doit déposer auprès de l'AMF les rectifications apportées au document de référence.
 
 Ces rectifications sont mises à la disposition du public, dans les meilleurs délais, dans les conditions prévues au III.

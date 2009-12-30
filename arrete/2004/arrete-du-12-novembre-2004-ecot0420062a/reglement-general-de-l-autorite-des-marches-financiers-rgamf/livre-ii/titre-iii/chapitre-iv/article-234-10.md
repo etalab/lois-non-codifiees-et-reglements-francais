@@ -6,4 +6,4 @@ Dans les autres cas prévus à l'article 234-9, ainsi que dans les situations me
 
 L'AMF est informée du déroulement de l'opération et, dans l'hypothèse où celle-ci n'est pas mise en oeuvre selon les conditions initialement prévues, peut constater la caducité de la décision précédemment rendue.
 
-Si l'AMF accorde la dérogation demandée ou constate qu'il n'y a pas matière à offre publique, elle publie sa décision et fait connaître, le cas échéant, les engagements souscrits par le ou les requérants.
+Si l'AMF accorde la dérogation demandée ou constate qu'il n'y a pas matière à offre publique, elle publie sa décision sur son site et fait connaître, le cas échéant, les engagements souscrits par le ou les requérants.
