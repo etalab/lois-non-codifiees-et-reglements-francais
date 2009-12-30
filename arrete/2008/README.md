@@ -2,7 +2,6 @@
 
 - [Arrêté du 2 décembre 2008 (AGRS0826977A)](arrete-du-2-decembre-2008-agrs0826977a)
 - [Arrêté du 2 décembre 2008 (AGRS0827230A)](arrete-du-2-decembre-2008-agrs0827230a)
-- [Arrêté du 2 décembre 2008 (BCFB0827898A)](arrete-du-2-decembre-2008-bcfb0827898a)
 - [Arrêté du 2 décembre 2008 (BCFR0829439A)](arrete-du-2-decembre-2008-bcfr0829439a)
 - [Arrêté du 2 décembre 2008 (BCFS0828152A)](arrete-du-2-decembre-2008-bcfs0828152a)
 - [Arrêté du 2 décembre 2008 (DEVN0821139A)](arrete-du-2-decembre-2008-devn0821139a)
