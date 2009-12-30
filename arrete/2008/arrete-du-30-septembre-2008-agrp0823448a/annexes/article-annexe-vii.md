@@ -1,6 +1,6 @@
 # Article Annexe VII
 
-**LISTE DES FORFAITS ÉLIGIBLES**
+LISTE DES FORFAITS ÉLIGIBLES
 
 Mesure 2.16 : Stockage, conditionnement, chaîne du froid et préservation du produit par le froid, transport, réception, matériel de première transformation.
 
@@ -9,6 +9,8 @@ Mesure 2.24 : Agréage second niveau en station et/ou en production.
 Mesure 2.21 : Obtention et/ou maintien de la certification.
 
 Mesure 2.23 : Traçabilité des produits.
+
+Mesure 3.2.1 : production intégrée.
 
 Mesure 3.4.1 : Préservation de la qualité de l'eau, effluent de serres et forçage hors sol.
 
