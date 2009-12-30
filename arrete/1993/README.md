@@ -906,7 +906,6 @@
 - [Arrêté du 28 avril 1993 (INTE9300330A)](arrete-du-28-avril-1993-inte9300330a)
 - [Arrêté du 28 avril 1993 (JUSB9310122A)](arrete-du-28-avril-1993-jusb9310122a)
 - [Arrêté du 28 avril 1993 (MENL9305059A)](arrete-du-28-avril-1993-menl9305059a)
-- [Arrêté du 28 décembre 1992 (AGRG9202616A)](arrete-du-28-decembre-1992-agrg9202616a)
 - [Arrêté du 28 décembre 1992 (BUDD9220038A)](arrete-du-28-decembre-1992-budd9220038a)
 - [Arrêté du 28 décembre 1992 (BUDF9210087A)](arrete-du-28-decembre-1992-budf9210087a)
 - [Arrêté du 28 décembre 1992 (ECOT9220019A)](arrete-du-28-decembre-1992-ecot9220019a)
