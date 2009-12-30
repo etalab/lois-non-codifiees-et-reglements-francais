@@ -3030,7 +3030,6 @@
 - [Arrêté du 30 avril 2009 (MTSS0909426A)](arrete-du-30-avril-2009-mtss0909426a)
 - [Arrêté du 30 décembre 1996 (MIPP9600525A)](arrete-du-30-decembre-1996-mipp9600525a)
 - [Arrêté du 30 décembre 1999 (ECOI9900573A)](arrete-du-30-decembre-1999-ecoi9900573a)
-- [Arrêté du 30 décembre 2008 (AGRG0826364A)](arrete-du-30-decembre-2008-agrg0826364a)
 - [Arrêté du 30 décembre 2008 (AGRG0826415A)](arrete-du-30-decembre-2008-agrg0826415a)
 - [Arrêté du 30 décembre 2008 (AGRG0826418A)](arrete-du-30-decembre-2008-agrg0826418a)
 - [Arrêté du 30 décembre 2008 (AGRG0826421A)](arrete-du-30-decembre-2008-agrg0826421a)
