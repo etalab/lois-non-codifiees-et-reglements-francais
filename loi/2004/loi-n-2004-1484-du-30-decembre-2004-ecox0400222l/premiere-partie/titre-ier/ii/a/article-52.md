@@ -32,7 +32,7 @@ En 2006, en 2007 et en 2008 la participation des familles prévue au deuxième a
 
 A compter de 2006, le montant de la compensation servant au calcul de la fraction de taux mentionnée au premier alinéa du présent III est minoré du montant, constaté en 2004, de la participation des familles prévue au deuxième alinéa de l'article 2 du décret n° 85-934 du 4 septembre 1985 précité.
 
-A compter de 2009, la fraction de tarif de la taxe sur les conventions d'assurance perçue en application du 5° bis de l'article 1001 du code général des impôts est fixée à 11,550 %. En 2008, la fraction de tarif de la taxe intérieure de consommation sur les produits pétroliers est fixée à 0,456 euros par hectolitre s'agissant des supercarburants sans plomb et 0,323 euros par hectolitre s'agissant du gazole présentant un point éclair inférieur à 120° C.
+A compter de 2008, la fraction de tarif de la taxe sur les conventions d'assurance perçue en application du 5° bis de l'article 1001 du code général des impôts est fixée à 11,550 %. En 2008, la fraction de tarif de la taxe intérieure de consommation sur les produits pétroliers est fixée à 0,456 euros par hectolitre s'agissant des supercarburants sans plomb et 0,323 euros par hectolitre s'agissant du gazole présentant un point éclair inférieur à 120° C.
 
 Le niveau définitif de la fraction mentionnée au premier alinéa du présent III est arrêté par la plus prochaine loi de finances après la connaissance des montants définitifs des droits à compensation.
 
