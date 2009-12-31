@@ -30,7 +30,7 @@ Si la convention a été souscrite par un héritier unique (donataire, légatair
 
 Article 5
 
-Les héritiers (donataires, légataires) feront connaître avant le 1er février de chaque année à la direction régionale des affaires culturelles, à la direction départementale des services fiscaux et à la délégation régionale au tourisme du lieu de situation des biens les dates et heures d'ouverture effective ainsi que les manifestations prévues. Ces informations recevront la diffusion la plus large possible.
+Les héritiers (donataires, légataires) feront connaître avant le 1er février de chaque année à la direction régionale des affaires culturelles, à la direction départementale des services fiscaux et à la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi du lieu de situation des biens les dates et heures d'ouverture effective ainsi que les manifestations prévues. Ces informations recevront la diffusion la plus large possible.
 
 Article 6
 
