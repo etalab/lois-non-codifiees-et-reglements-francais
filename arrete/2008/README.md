@@ -461,7 +461,6 @@
 - [Arrêté du 15 avril 2008 (DEFK0810963A)](arrete-du-15-avril-2008-defk0810963a)
 - [Arrêté du 15 décembre 2008 (AGRF0830078A)](arrete-du-15-decembre-2008-agrf0830078a)
 - [Arrêté du 15 décembre 2008 (AGRG0830046A)](arrete-du-15-decembre-2008-agrg0830046a)
-- [Arrêté du 15 décembre 2008 (AGRS0830164A)](arrete-du-15-decembre-2008-agrs0830164a)
 - [Arrêté du 15 décembre 2008 (BCFB0825442A)](arrete-du-15-decembre-2008-bcfb0825442a)
 - [Arrêté du 15 décembre 2008 (DEVK0822965A)](arrete-du-15-decembre-2008-devk0822965a)
 - [Arrêté du 15 décembre 2008 (DEVT0830121A)](arrete-du-15-decembre-2008-devt0830121a)
