@@ -1,9 +1,0 @@
-# Article 19
-
-Les sociétés ou entreprises individuelles spécialisées dans la location sur une durée de deux ans ou plus ou dans le crédit-bail doivent immatriculer leurs véhicules dans le département du domicile du locataire ou de l'établissement auquel le véhicule est affecté à titre principal par le locataire.
-
-A cet effet, la société ou l'entreprise individuelle de location doit élire domicile au siège de l'utilisateur, locataire du véhicule. Dans ce cas, le nom et le domicile du locataire ou l'adresse de l'établissement d'affectation du véhicule par le locataire doivent être indiqués sur le certificat d'immatriculation en sus du nom de la société ou de l'entreprise individuelle propriétaire, avec une mention indiquant le type de location du véhicule : OA (option d'achat) ou LD (longue durée).
-
-Toutefois, lorsque la société ou l'entreprise individuelle de location a un établissement dans le département concerné, elle peut immatriculer les véhicules à l'adresse de cet établissement.
-
-Les contrôles ou visites techniques des véhicules concernés, dont l'âge et le genre les soumettent à ces obligations en application des articles R. 323-6 à R. 323-26 du code de la route, sont effectués à l'initiative des locataires agissant en qualité de préposés des sociétés propriétaires lorsque celles-ci élisent domicile au siège des utilisateurs.
