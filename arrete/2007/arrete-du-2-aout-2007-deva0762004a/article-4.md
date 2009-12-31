@@ -44,4 +44,8 @@ Montpellier - Alger (Algérie).
 
 Montpellier - Oran (Algérie).
 
+Jusqu'au 8 décembre 2014 :
+
+Paris - Tunis (Tunisie).
+
 II. - L'autorisation d'exploiter chacune des liaisons mentionnées au I du présent article peut être suspendue ou retirée dans les conditions prévues à l'article 9 de l'arrêté du 22 janvier 2007 susvisé.
