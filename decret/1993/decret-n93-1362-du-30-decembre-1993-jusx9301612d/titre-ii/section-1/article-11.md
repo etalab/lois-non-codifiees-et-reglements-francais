@@ -12,4 +12,4 @@ Elle mentionne en outre :
 
 4° Les pièces produites par le déclarant pour justifier que les conditions de recevabilité de la déclaration sont remplies.
 
-Tous les documents rédigés en langue étrangère doivent être accompagnés de leur traduction par un traducteur agréé, produite en original.
+Tous les documents rédigés en langue étrangère doivent être accompagnés de leur traduction par un traducteur agréé ou habilité à intervenir auprès des autorités judiciaires ou administratives d'un autre Etat membre de l'Union européenne ou d'un Etat partie à l'accord sur l'Espace économique européen ou de la Suisse, produite en original.

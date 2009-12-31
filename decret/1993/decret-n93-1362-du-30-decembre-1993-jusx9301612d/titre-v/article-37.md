@@ -14,9 +14,11 @@ La demande est accompagnée des pièces suivantes :
 
 6° Le cas échéant, la copie intégrale du ou des actes de mari age ainsi que les pièces de nature à justifier la dissolution des unions antérieures ;
 
-7° Un extrait de casier judiciaire ou un document équivalent délivré par une autorité judiciaire ou administrative compétente du ou des pays où il a résidé au cours des dix dernières années, ou, lorsqu'il est dans l'impossibilité de produire ces documents, du pays dont il a la nationalité.
+7° Un extrait de casier judiciaire ou un document équivalent délivré par une autorité judiciaire ou administrative compétente du ou des pays où il a résidé au cours des dix dernières années, ou, lorsqu'il est dans l'impossibilité de produire ces documents, du pays dont il a la nationalité ;
 
-Tous les documents rédigés en langue étrangère doivent être accompagnés de leur traduction par un traducteur agréé, produite en original.
+8° Le cas échéant, tout document justifiant de la nationalité française du ou des enfants mineurs qui résident avec lui de manière habituelle ou alternativement dans le cas de séparation ou de divorce.
+
+Tous les documents rédigés en langue étrangère doivent être accompagnés de leur traduction par un traducteur agréé ou habilité à intervenir auprès des autorités judiciaires ou administratives d'un autre Etat membre de l'Union européenne ou d'un Etat partie à l'accord sur l'Espace économique européen ou de la Suisse, produite en original.
 
 Dès la production des pièces prévues ci-dessus, l'autorité auprès de laquelle la demande a été déposée délivre le récépissé prévu à l'article 21-25-1 du code civil constatant cette production.
 
