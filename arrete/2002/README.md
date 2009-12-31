@@ -470,7 +470,6 @@
 - [Arrêté du 19 décembre 2001 (JUSD0130166A)](arrete-du-19-decembre-2001-jusd0130166a)
 - [Arrêté du 19 décembre 2002 (SOCC0211887A)](arrete-du-19-decembre-2002-socc0211887a)
 - [Arrêté du 19 février 2002 (MENF0200492A)](arrete-du-19-fevrier-2002-menf0200492a)
-- [Arrêté du 19 janvier 2002 (DEFP0201107A)](arrete-du-19-janvier-2002-defp0201107a)
 - [Arrêté du 19 juillet 2002 (AGRG0201612A)](arrete-du-19-juillet-2002-agrg0201612a)
 - [Arrêté du 19 juillet 2002 (MENA0201725A)](arrete-du-19-juillet-2002-mena0201725a)
 - [Arrêté du 19 juin 2002 (AGRG0201477A)](arrete-du-19-juin-2002-agrg0201477a)
