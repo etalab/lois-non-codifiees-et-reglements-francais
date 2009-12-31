@@ -10,7 +10,6 @@
 - [Décret n°2001-401 du 2 mai 2001 (RECF0100080D)](decret-n2001-401-du-2-mai-2001-recf0100080d)
 - [Décret n°2000-194 du 3 mars 2000 (INTC0000059D)](decret-n2000-194-du-3-mars-2000-intc0000059d)
 - [Décret n°2002-828 du 3 mai 2002 (MENF0200402D)](decret-n2002-828-du-3-mai-2002-menf0200402d)
-- [Décret n°2000-1178 du 4 décembre 2000 (DEFD0002365D)](decret-n2000-1178-du-4-decembre-2000-defd0002365d)
 - [Décret n°96-1073 du 4 décembre 1996 (AGRA9602161D)](decret-n96-1073-du-4-decembre-1996-agra9602161d)
 - [Décret n°2000-497 du 5 juin 2000 (DEFP0001403D)](decret-n2000-497-du-5-juin-2000-defp0001403d)
 - [Décret n°2000-1196 du 6 décembre 2000 (ECOI0000505D)](decret-n2000-1196-du-6-decembre-2000-ecoi0000505d)
