@@ -52,14 +52,6 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </tr>
 <tr>
 <td align="center">
-<p align="left">Direction régionale de Bourgogne</p>
-</td>
-<td align="center">
-<p align="left">Chef du service administration des ressources</p>
-</td>
-</tr>
-<tr>
-<td align="center">
 <p align="left">Direction régionale de Bretagne</p>
 </td>
 <td align="center">
@@ -183,7 +175,7 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 <p align="left">Direction générale, département répertoire infrastructures et statistiques structurelles</p>
 </td>
 <td align="center">
-<p align="left">Chargé de l'interface ESANE/Services statistiques sectorielles</p>
+<p align="left">Chargé de l'interface ESANE/Services statistiques sectorielles </p>
 </td>
 </tr>
 </tbody>
