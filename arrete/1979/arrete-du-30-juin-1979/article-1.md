@@ -9,114 +9,114 @@ Les équivalences de loyer et de charges locatives de référence sont fixées c
 <br/>DÉSIGNATION <br/>
 </th>
 <th>
-<br/>ZONE I <p>(en euros) <br/>
-</p>
+<br/>ZONE I <br/>
+<br/>(en euros) <br/>
 </th>
 <th>
-<br/>ZONE II <p>(en euros) <br/>
-</p>
+<br/>ZONE II <br/>
+<br/>(en euros) <br/>
 </th>
 <th>
-<br/>ZONE III <p>(en euros) <br/>
-</p>
+<br/>ZONE III <br/>
+<br/>(en euros) <br/>
 </th>
 </tr>
 <tr>
 <td align="center">
-<br/>Bénéficiaire isolé. <br/>
+<br/>Bénéficiaire isolé <br/>
 </td>
 <td align="center">
-<br/>416, 35 <br/>
+<br/>417, 68 <br/>
 </td>
 <td align="center">
-<br/>380, 73 <br/>
+<br/>381, 95 <br/>
 </td>
 <td align="center">
-<br/>361, 38 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Couple sans personne à charge. <br/>
-</td>
-<td align="center">
-<br/>488, 08 <br/>
-</td>
-<td align="center">
-<br/>444, 35 <br/>
-</td>
-<td align="center">
-<br/>420, 32 <br/>
+<br/>362, 54 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Bénéficiaire isolé ou couple ayant une personne à charge. <br/>
+<br/>Couple sans personne à charge <br/>
 </td>
 <td align="center">
-<br/>520, 43 <br/>
+<br/>489, 64 <br/>
 </td>
 <td align="center">
-<br/>473, 77 <br/>
+<br/>445, 77 <br/>
 </td>
 <td align="center">
-<br/>445, 93 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Bénéficiaire isolé ou couple ayant deux personnes à charge. <br/>
-</td>
-<td align="center">
-<br/>556, 95 <br/>
-</td>
-<td align="center">
-<br/>507, 16 <br/>
-</td>
-<td align="center">
-<br/>475, 35 <br/>
+<br/>421, 67 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Bénéficiaire isolé ou couple ayant trois personnes à charge. <br/>
+<br/>Bénéficiaire isolé ou couple ayant une personne à charge <br/>
 </td>
 <td align="center">
-<br/>593, 63 <br/>
+<br/>522, 10 <br/>
 </td>
 <td align="center">
-<br/>540, 41 <br/>
+<br/>475, 29 <br/>
 </td>
 <td align="center">
-<br/>504, 78 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Bénéficiaire isolé ou couple ayant quatre personnes à charge. <br/>
-</td>
-<td align="center">
-<br/>640, 29 <br/>
-</td>
-<td align="center">
-<br/>575, 85 <br/>
-</td>
-<td align="center">
-<br/>537, 85 <br/>
+<br/>447, 36 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Par personne supplémentaire à charge. <br/>
+<br/>Bénéficiaire isolé ou couple ayant deux personnes à charge <br/>
 </td>
 <td align="center">
-<br/>66, 41 <br/>
+<br/>558, 73 <br/>
 </td>
 <td align="center">
-<br/>60, 02 <br/>
+<br/>508, 78 <br/>
 </td>
 <td align="center">
-<br/>55, 70 <br/>
+<br/>476, 87 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Bénéficiaire isolé ou couple ayant trois personnes à charge <br/>
+</td>
+<td align="center">
+<br/>595, 53 <br/>
+</td>
+<td align="center">
+<br/>542, 14 <br/>
+</td>
+<td align="center">
+<br/>506, 40 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Bénéficiaire isolé ou couple ayant quatre personnes à charge <br/>
+</td>
+<td align="center">
+<br/>642, 34 <br/>
+</td>
+<td align="center">
+<br/>577, 69 <br/>
+</td>
+<td align="center">
+<br/>539, 57 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Par personne supplémentaire à charge <br/>
+</td>
+<td align="center">
+<br/>66, 62 <br/>
+</td>
+<td align="center">
+<br/>60, 21 <br/>
+</td>
+<td align="center">
+<br/>55, 88<br/>
 </td>
 </tr>
 </tbody>

@@ -1,8 +1,6 @@
 # Article Annexe
 
-A N N E X E
-
-CONVENTION DE GESTION ET DE CAUTIONNEMENT DES PRÊTS À INTÉRÊTS BONIFIÉS DESTINÉS À FINANCER DES DÉPENSES LIÉES À L'ACCÈS À UN NOUVEL EMPLOI, DITS PRÊTS JEUNES AVENIR
+**CONVENTION DE GESTION ET DE CAUTIONNEMENT DES PRÊTS À INTÉRÊTS BONIFIÉS DESTINÉS À FINANCER DES DÉPENSES LIÉES À L'ACCÈS À UN NOUVEL EMPLOI, DITS PRÊTS JEUNES AVENIR**
 
 [Code contrat...]
 
@@ -68,7 +66,7 @@ Article 2
 
 Volume d'encours distribués
 
-L'établissement de crédit s'engage à distribuer une enveloppe de PJA avant le 31 décembre 2009, dont les caractéristiques sont définies à l'article 4, d'un montant de [...] MEUR (... millions d'euros), à des emprunteurs remplissant les conditions définies à l'article 3 (les emprunteurs).
+L'établissement de crédit s'engage à distribuer une enveloppe de PJA avant le 31 décembre 2010, dont les caractéristiques sont définies à l'article 4, d'un montant de [...] MEUR (... millions d'euros), à des emprunteurs remplissant les conditions définies à l'article 3 (les emprunteurs).
 
 L'établissement de crédit s'engage à mobiliser l'ensemble du réseau dont il dispose pour distribuer les PJA à compter du [30] mars 2007. Aucune proposition commerciale proche ou s'inscrivant dans le cadre du dispositif PJA ne peut être menée avant cette date.
 
