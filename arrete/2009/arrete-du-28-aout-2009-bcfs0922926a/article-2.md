@@ -1,0 +1,3 @@
+# Article 2
+
+Le versement est effectué deux jours ouvrés après l'échéance de recouvrement de l'impôt mentionnée à l'article R. 133-30-2 du code de la sécurité sociale sur la base d'une estimation des déclarations d'impôt sur le revenu du mois ou du trimestre précédent. Il fait l'objet d'une régularisation le mois suivant. Le montant de cette régularisation correspond à la différence entre les encaissements enregistrés dans les balances comptables mensuelles des organismes mentionnés aux articles L. 213-1 et L. 752-4 du code de la sécurité sociale et le montant versé par l'Agence centrale des organismes de sécurité sociale.

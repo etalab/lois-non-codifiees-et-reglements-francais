@@ -1,0 +1,3 @@
+# Article 6
+
+L'autorisation d'entrée au port est donnée au navire de pêche par le centre de surveillance des pêches du CROSS A Etel après réception, contrôle et vérification des informations transmises conformément à l'article 4. Hormis les situations de force majeure ou de détresse, l'entrée au port est refusée si le navire de pêche figure sur la liste communautaire des navires ayant pratiqué une pêche illicite, non déclarée et non réglementée, en cas d'absence de notification ou de non-conformité du ou des certificats de capture validés ou en cas d'impossibilité de mise en œuvre des dispositions de l'article 7, troisième alinéa.

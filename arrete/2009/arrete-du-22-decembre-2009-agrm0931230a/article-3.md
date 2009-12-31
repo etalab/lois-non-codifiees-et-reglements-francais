@@ -1,0 +1,3 @@
+# Article 3
+
+Afin de faciliter le contrôle, la vérification et la validation des certificats de capture et des documents complémentaires, les exportateurs ou leur agent ont la possibilité d'adresser ces documents par avance, avant l'expiration des délais fixés par la réglementation communautaire, au moyen d'un bordereau type publié sur le site http://mesdemarches.agriculture.gouv.fr /, après numérisation à l'aide d'un dispositif de type scanner, sous forme de courrier électronique aux adresses des services compétents mentionnés en annexe de la notice de remplissage des formulaires de certificats de captures et des documents d'accompagnement.

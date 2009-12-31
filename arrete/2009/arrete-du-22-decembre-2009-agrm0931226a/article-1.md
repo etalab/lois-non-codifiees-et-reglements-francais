@@ -1,0 +1,3 @@
+# Article 1
+
+Aux fins du présent arrêté, on entend par navires de pêche battant pavillon tiers les navires de pêche définis par la réglementation communautaire sur la pêche illicite, non déclarée et non réglementée qui battent pavillon d'un pays tiers aux Etats membres de l'Union européenne ainsi que les navires battant pavillon français des pays et territoires d'outre-mer au sens de l'annexe II du traité relatif à l'Union européenne, à savoir ceux de la Nouvelle-Calédonie, de la Polynésie française, des Terres australes et antarctiques françaises, de Wallis-et-Futuna, de Mayotte et de Saint-Pierre-et-Miquelon.
