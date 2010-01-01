@@ -36,7 +36,6 @@
 - [Décret n°62-1448 du 24 novembre 1962](decret-n62-1448-du-24-novembre-1962)
 - [Décret n°62-1439 du 26 novembre 1962](decret-n62-1439-du-26-novembre-1962)
 - [Décret n°62-1593 du 26 décembre 1962](decret-n62-1593-du-26-decembre-1962)
-- [Décret n°62-217 du 26 février 1962](decret-n62-217-du-26-fevrier-1962)
 - [Décret n°62-120 du 27 janvier 1962](decret-n62-120-du-27-janvier-1962)
 - [Décret n°62-1409 du 27 novembre 1962](decret-n62-1409-du-27-novembre-1962)
 - [Décret n°62-1514 du 27 novembre 1962](decret-n62-1514-du-27-novembre-1962)
