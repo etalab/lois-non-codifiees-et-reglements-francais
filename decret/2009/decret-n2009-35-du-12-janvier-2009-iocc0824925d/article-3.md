@@ -9,7 +9,7 @@ L'échelonnement indiciaire applicable aux membres du corps d'encadrement et d'a
 <br/>EMPLOI ET ÉCHELON <br/>
 </th>
 <th>
-<br/>INDICE BRUT <br/>
+<br/>INDICES BRUTS <br/>
 </th>
 </tr>
 <tr>
@@ -36,11 +36,6 @@ L'échelonnement indiciaire applicable aux membres du corps d'encadrement et d'a
 <tr>
 <td align="center">
 <br/>Brigadier-major <br/>
-</td>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
 <br/>Echelon exceptionnel (1) <br/>
 </td>
 <td align="center">
@@ -68,21 +63,16 @@ L'échelonnement indiciaire applicable aux membres du corps d'encadrement et d'a
 <br/>1er échelon <br/>
 </td>
 <td align="center">
-<br/>575 <br/>
+<br/>577 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
 <br/>Brigadier-chef <br/>
-</td>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
 <br/>5e échelon <br/>
 </td>
 <td align="center">
-<br/>565 <br/>
+<br/>570 <br/>
 </td>
 </tr>
 <tr>
@@ -90,7 +80,7 @@ L'échelonnement indiciaire applicable aux membres du corps d'encadrement et d'a
 <br/>4e échelon <br/>
 </td>
 <td align="center">
-<br/>555 <br/>
+<br/>561 <br/>
 </td>
 </tr>
 <tr>
@@ -98,7 +88,7 @@ L'échelonnement indiciaire applicable aux membres du corps d'encadrement et d'a
 <br/>3e échelon <br/>
 </td>
 <td align="center">
-<br/>539 <br/>
+<br/>546 <br/>
 </td>
 </tr>
 <tr>
@@ -106,7 +96,7 @@ L'échelonnement indiciaire applicable aux membres du corps d'encadrement et d'a
 <br/>2e échelon <br/>
 </td>
 <td align="center">
-<br/>521 <br/>
+<br/>539 <br/>
 </td>
 </tr>
 <tr>
@@ -114,7 +104,7 @@ L'échelonnement indiciaire applicable aux membres du corps d'encadrement et d'a
 <br/>1er échelon <br/>
 </td>
 <td align="center">
-<br/>504 <br/>
+<br/>513 <br/>
 </td>
 </tr>
 <tr>
@@ -152,11 +142,6 @@ L'échelonnement indiciaire applicable aux membres du corps d'encadrement et d'a
 <tr>
 <td align="center">
 <br/>Brigadier <br/>
-</td>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
 <br/>7e échelon provisoire (3) <br/>
 </td>
 <td align="center">
@@ -176,7 +161,7 @@ L'échelonnement indiciaire applicable aux membres du corps d'encadrement et d'a
 <br/>5e échelon <br/>
 </td>
 <td align="center">
-<br/>501 <br/>
+<br/>521 <br/>
 </td>
 </tr>
 <tr>
@@ -184,7 +169,7 @@ L'échelonnement indiciaire applicable aux membres du corps d'encadrement et d'a
 <br/>4e échelon <br/>
 </td>
 <td align="center">
-<br/>475 <br/>
+<br/>483 <br/>
 </td>
 </tr>
 <tr>
@@ -192,7 +177,7 @@ L'échelonnement indiciaire applicable aux membres du corps d'encadrement et d'a
 <br/>3e échelon <br/>
 </td>
 <td align="center">
-<br/>449 <br/>
+<br/>457 <br/>
 </td>
 </tr>
 <tr>
@@ -200,7 +185,7 @@ L'échelonnement indiciaire applicable aux membres du corps d'encadrement et d'a
 <br/>2e échelon <br/>
 </td>
 <td align="center">
-<br/>422 <br/>
+<br/>433 <br/>
 </td>
 </tr>
 <tr>
@@ -208,17 +193,12 @@ L'échelonnement indiciaire applicable aux membres du corps d'encadrement et d'a
 <br/>1er échelon <br/>
 </td>
 <td align="center">
-<br/>401 <br/>
+<br/>408 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
 <br/>Gardien de la paix <br/>
-</td>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
 <br/>Exceptionnel (4) <br/>
 </td>
 <td align="center">
@@ -322,11 +302,11 @@ L'échelonnement indiciaire applicable aux membres du corps d'encadrement et d'a
 </td>
 </tr>
 <tr>
-<td>
-<p align="center"> Elève</p>
+<td align="center">
+<br/>Elève <br/>
 </td>
-<td>
-<p align="center"> 297</p>
+<td align="center">
+<br/>297 <br/>
 </td>
 </tr>
 <tr>
@@ -339,11 +319,11 @@ L'échelonnement indiciaire applicable aux membres du corps d'encadrement et d'a
 </tr>
 <tr>
 <td colspan="2">
-<br/>(1) Echelon exceptionnel du grade de brigadier-major accessible dans les conditions fixées par l'article 20 du décret n° 2004-1439 du 23 décembre 2004. <p>(2) Echelons provisoires du grade de brigadier-chef accessibles dans les conditions prévues par le décret n° 2004-770 du 29 juillet 2004. </p>
-<p>(3) Echelon provisoire du grade de brigadier accessible dans les conditions fixées par l'article 23 du décret n° 2004-1439 du 23 décembre 2004. </p>
-<p>(4) Echelon exceptionnel accessible à 11 900 gardiens dans les conditions fixées par l'article 11 du décret n° 2004-1439 du 23 décembre 2004. </p>
-<p>(5) Echelon provisoire du grade de gardien de la paix accessible dans les conditions prévues par le décret n° 2004-770 du 29 juillet 2004.<br/>
-</p>
+<br/>(1) Echelon exceptionnel du grade de brigadier-major accessible dans les conditions fixées par l'article 20 du décret n° 2004-1439 du 23 décembre 2004. <br/>
+<br/>(2) Echelons provisoires du grade de brigadier-chef accessibles dans les conditions prévues par le décret n° 2004-770 du 29 juillet 2004. <br/>
+<br/>(3) Echelon provisoire du grade de brigadier accessible dans les conditions fixées par l'article 23 du décret n° 2004-1439 du 23 décembre 2004. <br/>
+<br/>(4) Echelon exceptionnel accessible à 11   900 gardiens dans les conditions fixées par l'article 11 du décret n° 2004-1439 du 23 décembre 2004. <br/>
+<br/>(5) Echelon provisoire du grade de gardien de la paix accessible dans les conditions prévues par le décret n° 2004-770 du 29 juillet 2004. <br/>
 </td>
 </tr>
 </tbody>

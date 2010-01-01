@@ -15,15 +15,10 @@ L'échelonnement indiciaire applicable aux membres du corps de commandement de l
 <tr>
 <td align="center">
 <br/>Commandant emploi fonctionnel <br/>
-</td>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
 <br/>2e échelon <br/>
 </td>
 <td align="center">
-<br/>922 <br/>
+<br/>936 <br/>
 </td>
 </tr>
 <tr>
@@ -31,21 +26,16 @@ L'échelonnement indiciaire applicable aux membres du corps de commandement de l
 <br/>1er échelon <br/>
 </td>
 <td align="center">
-<br/>871 <br/>
+<br/>882 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
 <br/>Commandant <br/>
-</td>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
 <br/>5e échelon <br/>
 </td>
 <td align="center">
-<br/>864 <br/>
+<br/>876 <br/>
 </td>
 </tr>
 <tr>
@@ -53,7 +43,7 @@ L'échelonnement indiciaire applicable aux membres du corps de commandement de l
 <br/>4e échelon <br/>
 </td>
 <td align="center">
-<br/>822 <br/>
+<br/>831 <br/>
 </td>
 </tr>
 <tr>
@@ -61,7 +51,7 @@ L'échelonnement indiciaire applicable aux membres du corps de commandement de l
 <br/>3e échelon <br/>
 </td>
 <td align="center">
-<br/>774 <br/>
+<br/>782 <br/>
 </td>
 </tr>
 <tr>
@@ -69,7 +59,7 @@ L'échelonnement indiciaire applicable aux membres du corps de commandement de l
 <br/>2e échelon <br/>
 </td>
 <td align="center">
-<br/>728 <br/>
+<br/>736 <br/>
 </td>
 </tr>
 <tr>
@@ -77,21 +67,16 @@ L'échelonnement indiciaire applicable aux membres du corps de commandement de l
 <br/>1er échelon <br/>
 </td>
 <td align="center">
-<br/>678 <br/>
+<br/>689 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
 <br/>Capitaine de police <br/>
-</td>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
 <br/>Echelon exceptionnel <br/>
 </td>
 <td align="center">
-<br/>800 <br/>
+<br/>811 <br/>
 </td>
 </tr>
 <tr>
@@ -99,7 +84,7 @@ L'échelonnement indiciaire applicable aux membres du corps de commandement de l
 <br/>5e échelon <br/>
 </td>
 <td align="center">
-<br/>767 <br/>
+<br/>779 <br/>
 </td>
 </tr>
 <tr>
@@ -107,12 +92,37 @@ L'échelonnement indiciaire applicable aux membres du corps de commandement de l
 <br/>4e échelon <br/>
 </td>
 <td align="center">
-<br/>725 <br/>
+<br/>733 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
 <br/>3e échelon <br/>
+</td>
+<td align="center">
+<br/>693 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>2e échelon <br/>
+</td>
+<td align="center">
+<br/>655 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>1er échelon <br/>
+</td>
+<td align="center">
+<br/>618 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Lieutenant de police <br/>
+<br/>8e échelon <br/>
 </td>
 <td align="center">
 <br/>684 <br/>
@@ -120,47 +130,10 @@ L'échelonnement indiciaire applicable aux membres du corps de commandement de l
 </tr>
 <tr>
 <td align="center">
-<br/>2e échelon <br/>
-</td>
-<td align="center">
-<br/>646 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>1er échelon <br/>
-</td>
-<td align="center">
-<br/>611 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Lieutenant de police <br/>
-</td>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center">
-<br/>
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>8e échelon <br/>
-</td>
-<td align="center">
-<br/>676 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
 <br/>7e échelon <br/>
 </td>
 <td align="center">
-<br/>645 <br/>
+<br/>684 <br/>
 </td>
 </tr>
 <tr>
@@ -168,7 +141,7 @@ L'échelonnement indiciaire applicable aux membres du corps de commandement de l
 <br/>6e échelon <br/>
 </td>
 <td align="center">
-<br/>608 <br/>
+<br/>614 <br/>
 </td>
 </tr>
 <tr>
@@ -176,7 +149,7 @@ L'échelonnement indiciaire applicable aux membres du corps de commandement de l
 <br/>5e échelon <br/>
 </td>
 <td align="center">
-<br/>576 <br/>
+<br/>579 <br/>
 </td>
 </tr>
 <tr>
@@ -184,7 +157,7 @@ L'échelonnement indiciaire applicable aux membres du corps de commandement de l
 <br/>4e échelon <br/>
 </td>
 <td align="center">
-<br/>540 <br/>
+<br/>543 <br/>
 </td>
 </tr>
 <tr>
@@ -200,7 +173,7 @@ L'échelonnement indiciaire applicable aux membres du corps de commandement de l
 <br/>2e échelon <br/>
 </td>
 <td align="center">
-<br/>468 <br/>
+<br/>469 <br/>
 </td>
 </tr>
 <tr>
@@ -208,23 +181,23 @@ L'échelonnement indiciaire applicable aux membres du corps de commandement de l
 <br/>1er échelon <br/>
 </td>
 <td align="center">
-<br/>421 <br/>
+<br/>425 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Stagiaire élève <br/>
+<br/>Stagiaire <br/>
 </td>
 <td align="center">
-<br/>359<br/>
+<br/>359 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">Elève</p>
+<td align="center">
+<br/>Elève <br/>
 </td>
-<td>
-<p align="center">316</p>
+<td align="center">
+<br/>317<br/>
 </td>
 </tr>
 </tbody>
