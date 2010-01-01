@@ -2,6 +2,6 @@
 
 Les conservateurs en chef assument des responsabilités particulières en raison de l'importance des collections ou des missions scientifiques ou administratives qui leur sont confiées.
 
-Ils exercent leurs fonctions dans les établissements ou services disposant de plus de 70 000 ouvrages. Ces établissements ou services figurent sur une liste établie par arrêté conjoint du ministre chargé des collectivités territoriales et du ministre chargé de la culture, sur proposition de l'autorité territoriale.
+Ils exercent leur fonctions dans les bibliothèques implantées dans une commune de plus de 40 000 habitants ou un établissement public local assimilé à une commune de plus de 40 000 habitants dans les conditions fixées par le décret n° 2000-954 du 22 septembre 2000 relatif aux règles d'assimilation des établissements publics locaux aux collectivités territoriales pour la création de certains grades de fonctionnaires territoriaux.
 
-Un seul emploi de conservateur en chef peut être créé par établissement ou service mentionné à l'alinéa précédent.
+Ils peuvent en outre exercer leurs fonctions dans les autres communes ou établissements, sous réserve que la bibliothèque soit inscrite, en raison de la richesse de son fond patrimonial, sur une liste établie par le préfet de région.
