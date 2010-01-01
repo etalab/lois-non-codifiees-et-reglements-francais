@@ -12,4 +12,4 @@ Le service technique comprend :
 
 3. La division des investissements.
 
-Le service technique a autorité sur le centre d'expertise parisien dont les missions et l'organisation sont fixées par instruction.
+Le service technique a autorité sur le DGA ingénierie de projets dont les missions et l'organisation sont fixées par instruction.

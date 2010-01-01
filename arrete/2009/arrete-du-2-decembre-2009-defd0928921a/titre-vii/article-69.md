@@ -16,4 +16,4 @@ Pour l'exercice des attributions fixées par le décret du 5 octobre 2009 susvis
 
 7. Le bureau des affaires générales ;
 
-8. Le centre des hautes études de l'armement.
+8. (Abrogé).
