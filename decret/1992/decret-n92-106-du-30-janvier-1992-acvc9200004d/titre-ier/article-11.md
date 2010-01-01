@@ -1,6 +1,6 @@
 # Article 11
 
-La commission consultative médicale placée sous l'autorité du directeur comprend [*composition*] :
+La commission consultative médicale placée sous l'autorité du directeur comprend  :
 
 a) Les médecins-chefs des services cliniques et médico-techniques ;
 
@@ -10,7 +10,9 @@ c) Le pharmacien chimiste, chef de la pharmacie et du laboratoire de biologie ;
 
 d) Deux représentants des médecins et des pharmaciens non chefs de service, élus dans des conditions fixées par arrêté du ministre de tutelle ;
 
-e) La surveillante-chef des services médicaux.
+e) La surveillante-chef des services médicaux ;
+
+f) Le chef du centre d'études et de recherche sur l'appareillage des handicapés.
 
 La commission consultative médicale :
 
