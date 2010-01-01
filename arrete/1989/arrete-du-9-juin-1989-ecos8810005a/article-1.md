@@ -6,11 +6,11 @@ Est directement rattachée au secrétaire général l'unité de gestion des carr
 
 Le département de la programmation et de la gestion comprend :
 
--la division de la comptabilité générale ;
+- la division de la programmation des travaux ;
 
--l'unité des programmes, du budget et des coûts ;
+- la division du budget et du contrôle de gestion ;
 
--la division du plan de charge et du suivi des travaux.
+- la division des prestations financières, constitutive du centre de prestations financières.
 
 Le département des ressources humaines comprend :
 
@@ -26,9 +26,9 @@ Le département des ressources humaines comprend :
 
 Le département des services généraux comprend :
 
--la division du matériel et de l'immobilier ;
+- la division des marchés et de l'immobilier ;
 
--les services communs de la direction générale.
+- la division logistique de la direction générale.
 
 Le département de l'informatique comprend :
 
