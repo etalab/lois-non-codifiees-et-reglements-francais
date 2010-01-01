@@ -2,11 +2,11 @@
 
 I. - Les seuils au-dessus desquels s'appliquent les procédures formalisées sont les suivants :
 
-1° 5 150 000 euros HT pour les marchés de travaux ;
+1° 4 845 000 euros HT pour les marchés de travaux ;
 
-2° 133 000 euros HT pour les marchés de fournitures et de services passés par les pouvoirs adjudicateurs mentionnés aux 3° et 5° du I de l'article 3 de l'ordonnance du 6 juin 2005 susvisée et par ceux dont la liste est fixée par arrêté conjoint du ministre chargé de l'économie et des ministres intéressés ;
+2° 125 000 euros HT pour les marchés de fournitures et de services passés par les pouvoirs adjudicateurs mentionnés aux 3° et 5° du I de l'article 3 de l'ordonnance du 6 juin 2005 susvisée et par ceux dont la liste est fixée par arrêté conjoint du ministre chargé de l'économie et des ministres intéressés ;
 
-3° 206 000 euros HT pour les marchés de fournitures et de services passés par les pouvoirs adjudicateurs autres que ceux mentionnés au 2°.
+3° 193 000 euros HT pour les marchés de fournitures et de services passés par les pouvoirs adjudicateurs autres que ceux mentionnés au 2°.
 
 II. - Les procédures formalisées sont :
 

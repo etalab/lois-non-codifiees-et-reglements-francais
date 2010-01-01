@@ -789,7 +789,6 @@
 - [Décret n°2008-168 du 22 février 2008 (DEVT0774362D)](decret-n2008-168-du-22-fevrier-2008-devt0774362d)
 - [Décret n°2008-169 du 22 février 2008 (DEVN0771000D)](decret-n2008-169-du-22-fevrier-2008-devn0771000d)
 - [Décret n°2008-170 du 22 février 2008 (IOCM0774840D)](decret-n2008-170-du-22-fevrier-2008-iocm0774840d)
-- [Décret n°2008-171 du 22 février 2008 (IOCB0801999D)](decret-n2008-171-du-22-fevrier-2008-iocb0801999d)
 - [Décret n°2008-173 du 22 février 2008 (ECEL0750686D)](decret-n2008-173-du-22-fevrier-2008-ecel0750686d)
 - [Décret n°2008-380 du 22 avril 2008 (PRMX0810404D)](decret-n2008-380-du-22-avril-2008-prmx0810404d)
 - [Décret n°2008-384 du 22 avril 2008 (DEVU0771381D)](decret-n2008-384-du-22-avril-2008-devu0771381d)
