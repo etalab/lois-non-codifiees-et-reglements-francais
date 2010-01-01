@@ -1,0 +1,3 @@
+# Article 12-1
+
+Pour l'appréciation des conditions d'ancienneté définies ci-dessus, requises pour l'accès aux grades d'avancement du cadre d'emplois des adjoints techniques territoriaux des établissements d'enseignement, les services effectifs accomplis dans leur corps d'origine par les agents relevant des dispositions du décret n° 2005-1785 du 30 décembre 2005 relatif au détachement sans limitation de durée de fonctionnaires de l'Etat en application de l'article 109 de la loi n° 2004-809 du 13 août 2004 relative aux libertés et responsabilités locales sont assimilés à des services accomplis dans le grade et dans le cadre d'emplois des adjoints techniques territoriaux des établissements d'enseignement.

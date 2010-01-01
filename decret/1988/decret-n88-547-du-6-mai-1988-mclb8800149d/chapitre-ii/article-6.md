@@ -2,9 +2,9 @@
 
 Peuvent être inscrits sur la liste d'aptitude prévue au 1° de l'article 5 :
 
-1° Les fonctionnaires appartenant au cadre d'emplois des adjoints techniques territoriaux comptant au moins onze ans de services effectifs, y compris la période normale de stage, dans un ou plusieurs grades de leur cadre d'emplois et ayant atteint au moins le 6e échelon du grade d'adjoint technique de 1re classe ;
+1° Les fonctionnaires appartenant au cadre d'emplois des adjoints techniques territoriaux comptant au moins onze ans de services effectifs, y compris la période normale de stage, dans leur cadre d'emplois et, s'il y a lieu, dans les cadres d'emplois des agents territoriaux des services techniques, des agents d'entretien territoriaux, des aides médico-techniques territoriaux, des gardiens d'immeubles territoriaux, des agents de salubrité territoriaux et des conducteurs de véhicules territoriaux et ayant atteint au moins le 6e échelon du grade d'adjoint technique de 1re classe ;
 
-2° Les fonctionnaires appartenant au cadre d'emplois des adjoints techniques territoriaux comptant au moins huit ans de services effectifs, y compris la période normale de stage, dans un ou plusieurs grades de leur cadre d'emplois et ayant atteint au moins le 5e échelon du grade d'adjoint technique de 2e classe et admis à un examen professionnel.
+2° Les fonctionnaires appartenant au cadre d'emplois des adjoints techniques territoriaux comptant au moins huit ans de services effectifs, y compris la période normale de stage, dans leur cadre d'emplois et, s'il y a lieu, dans les cadres d'emplois des agents territoriaux des services techniques, des agents d'entretien territoriaux, des aides médico-techniques territoriaux, des gardiens d'immeubles territoriaux, des agents de salubrité territoriaux et des conducteurs de véhicules territoriaux et ayant atteint au moins le 5e échelon du grade d'adjoint technique de 2e classe et admis à un examen professionnel.
 
 Les fonctionnaires mentionnés au 2° peuvent être recrutés en qualité d'agents de maîtrise territoriaux à raison d'un recrutement pour deux nominations prononcées au titre du 1° ci-dessus dans la collectivité ou l'établissement ou l'ensemble des collectivités et établissements affiliés à un centre de gestion.
 

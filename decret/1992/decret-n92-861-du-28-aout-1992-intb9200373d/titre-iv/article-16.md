@@ -1,9 +1,3 @@
 # Article 16
 
-Peuvent être nommés infirmiers hors classe, après inscription sur un tableau d'avancement :
-
-1° Les infirmiers de classe normale comptant au moins cinq ans de services effectifs dans leur grade et les infirmiers de classe supérieure, sans condition d'ancienneté, titulaires d'un certificat d'aptitude aux fonctions de surveillant ou de moniteur, d'un certificat de cadre ou d'un diplôme de cadre de santé.
-
-2° Après examen professionnel, les infirmiers de classe normale et de classe supérieure ayant accompli au moins huit ans de services dans le cadre d'emplois ;
-
-3° Les infirmiers de classe supérieure ayant un an d'ancienneté dans le 5e échelon de leur grade.
+Pour l'appréciation des conditions d'ancienneté définies ci-dessus, requises pour l'accès au grade d'avancement d'infirmier territorial de classe supérieure, les services effectifs accomplis dans leur corps d'origine par les agents relevant des dispositions du décret n° 2005-1785 du 30 décembre 2005 relatif au détachement sans limitation de durée de fonctionnaires de l'Etat en application de l'article 109 de la loi n° 2004-809 du 13 août 2004 relative aux libertés et responsabilités locales sont assimilés à des services accomplis dans le grade et dans le cadre d'emplois des infirmiers territoriaux.

@@ -4,6 +4,10 @@ I. - Les adjoints techniques territoriaux de 2e classe sont appelés à exécute
 
 Ils peuvent être chargés de la conduite d'engins de traction mécanique ne nécessitant pas de formation professionnelle et être chargés de la conduite de véhicules de tourisme ou utilitaires légers, dès lors qu'ils sont titulaires du permis approprié en état de validité.
 
+Les adjoints techniques territoriaux de 2e classe peuvent assurer à titre accessoire la conduite de poids lourds et de véhicules de transport en commun nécessitant une formation professionnelle.
+
+Ils peuvent être chargés de l'exécution de tous travaux de construction, d'entretien, de réparation et d'exploitation du réseau routier départemental ainsi que des travaux d'entretien, de grosses réparations et d'équipement sur les voies navigables, dans les ports maritimes, ainsi que dans les dépendances de ces voies et ports.
+
 Ils peuvent en outre être chargés de seconder les assistants territoriaux médico-techniques ou, le cas échéant, les ingénieurs chimistes, médecins, biologistes, pharmaciens ou vétérinaires dans les tâches matérielles et les préparations courantes nécessitées par l'exécution des analyses.
 
 Pour exercer les fonctions d'agent de désinfection chargé de participer aux mesures de prophylaxie des maladies contagieuses, ils doivent avoir satisfait à un examen d'aptitude. Un arrêté du ministre chargé des collectivités territoriales fixe les modalités d'organisation ainsi que la nature des épreuves de cet examen.
