@@ -19,3 +19,7 @@ Dans tous les cas, et sans préjudice des autres contrôles rendus nécessaires,
 § 5. Un exemplaire de l'attestation de vérifications réglementaires est remis à l'exploitant de l'établissement. L'exploitant transmet une copie de l'attestation au préfet du département où se trouve l'établissement. Cette attestation est consignée dans le registre de sécurité.
 
 § 6. Une dérogation à l'obligation de continuité des communications radioélectriques ne peut être accordée qu'après avis conforme de la commission de sécurité.
+
+§ 7. Les dispositions ci-dessus sont applicables aux établissements existants dans les conditions définies à l'
+article 1er du décret n° 2006-165 du 10 février 2006
+.
