@@ -1,3 +1,0 @@
-# Article 6
-
-Le demandeur, personne morale de droit public, organisation professionnelle relevant de l'ordonnance du 14 août 1945 ou organisation de producteurs relevant de l'application du règlement C.E.E. n° 3796-81 du 29 décembre 1981 portant organisation commune des marchés dans le secteur des produits de la pêche, est tenu de faire exploiter la concession qui lui est accordée soit par des personnes physiques remplissant les conditions prévues à l'article 5-1, soit par des personnes morales de droit privé regroupant exclusivement des personnes physiques satisfaisant à ces mêmes conditions, soit par les unes et les autres simultanément.

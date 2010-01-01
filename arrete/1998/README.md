@@ -79,8 +79,6 @@
 - [Arrêté du 3 septembre 1998 (ECOS9850054A)](arrete-du-3-septembre-1998-ecos9850054a)
 - [Arrêté du 3 septembre 1998 (ECOS9850055A)](arrete-du-3-septembre-1998-ecos9850055a)
 - [Arrêté du 3 septembre 1998 (MENR9802320A)](arrete-du-3-septembre-1998-menr9802320a)
-- [Arrêté du 3 mai 2000 (EQUA0000199A)](arrete-du-3-mai-2000-equa0000199a)
-- [Arrêté du 3 mai 2000 (EQUA0000205A)](arrete-du-3-mai-2000-equa0000205a)
 - [Arrêté du 4 août 1998 (DEFT9801841A)](arrete-du-4-aout-1998-deft9801841a)
 - [Arrêté du 4 décembre 1997 (EQUG9701846A)](arrete-du-4-decembre-1997-equg9701846a)
 - [Arrêté du 4 décembre 1998 (ECOP9800521A)](arrete-du-4-decembre-1998-ecop9800521a)

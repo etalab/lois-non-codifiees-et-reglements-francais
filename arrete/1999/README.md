@@ -54,7 +54,6 @@
 - [Arrêté du 3 août 1999 (JUSA9900120A)](arrete-du-3-aout-1999-jusa9900120a)
 - [Arrêté du 3 août 1999 (MENF9901357A)](arrete-du-3-aout-1999-menf9901357a)
 - [Arrêté du 3 août 1999 (MJSK9970094A)](arrete-du-3-aout-1999-mjsk9970094a)
-- [Arrêté du 3 décembre 1999 (EQUU9901045A)](arrete-du-3-decembre-1999-equu9901045a)
 - [Arrêté du 3 décembre 1999 (MCCB9900695A)](arrete-du-3-decembre-1999-mccb9900695a)
 - [Arrêté du 3 décembre 1999 (MCCB9900706A)](arrete-du-3-decembre-1999-mccb9900706a)
 - [Arrêté du 3 février 1999 (INTE9900078A)](arrete-du-3-fevrier-1999-inte9900078a)
