@@ -71,7 +71,7 @@ VALEUR LOCATIVE MENSUELLE EN EUROS
 <br/>6, 24 <br/>
 </td>
 <td align="center">
-<br/>3, 29 <br/>
+<br/>3, 38 <br/>
 </td>
 </tr>
 <tr>
