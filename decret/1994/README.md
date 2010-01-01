@@ -619,7 +619,6 @@
 - [Décret n°94-433 du 24 mai 1994 (BUDF9400010D)](decret-n94-433-du-24-mai-1994-budf9400010d)
 - [Décret du 25 mars 1994 (ENVN9310089D)](decret-du-25-mars-1994-envn9310089d)
 - [Décret n°89-266 du 25 avril 1989 (MENU8900788D)](decret-n89-266-du-25-avril-1989-menu8900788d)
-- [Décret n°90-99 du 25 janvier 1990 (MENT8902676D)](decret-n90-99-du-25-janvier-1990-ment8902676d)
 - [Décret n°94-167 du 25 février 1994 (JUSD9430006D)](decret-n94-167-du-25-fevrier-1994-jusd9430006d)
 - [Décret n°94-169 du 25 février 1994 (MJSK9370203D)](decret-n94-169-du-25-fevrier-1994-mjsk9370203d)
 - [Décret n°94-170 du 25 février 1994 (JUSC9420087D)](decret-n94-170-du-25-fevrier-1994-jusc9420087d)

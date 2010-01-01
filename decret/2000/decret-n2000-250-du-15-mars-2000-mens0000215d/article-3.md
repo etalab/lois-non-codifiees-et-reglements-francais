@@ -28,14 +28,12 @@ Institut national des langues et civilisations orientales ;
 
 l'Institut national supérieur des sciences agronomiques, de l'alimentation et de l'environnement (Agrosup Dijon) ;
 
-Institut polytechnique de Bordeaux ; (1)
+Institut polytechnique de Bordeaux ;
 
 Institut polytechnique de Grenoble ;
 
 Muséum national d'histoire naturelle ;
 
 Observatoire de Paris ;
-
-Palais de la Découverte ;
 
 Université de technologie en sciences des organisations et de la décision de Paris-Dauphine.
