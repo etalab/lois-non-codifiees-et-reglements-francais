@@ -4,9 +4,7 @@ I.-Sous réserve des dispositions de l'article 35, il est créé, au sein de cha
 
 II.-Par dérogation au I, sont créés les corps suivants, régis par le titre Ier du présent décret :
 
-1° Au sein du ministère de l'intérieur et de l'aménagement du territoire, jusqu'au 31 décembre 2009 :
-
-a) Le corps des adjoints administratifs de la police nationale.
+1° (supprimé)
 
 2° (supprimé)
 
