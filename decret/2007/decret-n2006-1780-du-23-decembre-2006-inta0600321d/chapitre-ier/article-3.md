@@ -10,9 +10,9 @@ I.-En ce qui concerne les personnels des catégories A, B et C, ne peuvent faire
 
 4° A la mise en position hors cadre, à la mise à disposition et au détachement, à l'exception de celui prévu au 10° de l'article 14 du décret du 16 septembre 1985 susvisé ;
 
-5° A la réintégration à l'issue d'un détachement, d'une mise en position hors cadre ou d'une mise à disposition ;
+5° A la réintégration à l'issue d'une mise en position hors cadre, d'une mise à disposition ou d'un détachement, en dehors de celui prévu au 10° de l'article 14 du décret du 16 septembre 1985 susvisé ;
 
-6° A la radiation des cadres, sauf par admission à la retraite ;
+6° A la radiation des cadres, sauf par admission à la retraite et dans le cadre d'une démission sur demande de l'agent ;
 
 7° Aux sanctions disciplinaires des deuxième, troisième et quatrième groupes.
 
