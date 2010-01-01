@@ -4,7 +4,4 @@
 - [Titre Ier : Conditions d'installation et d'équipement.](titre-ier)
 - [Article 2](article-2.md)
 - [Titre II : Conditions hygiéniques de fonctionnement](titre-ii)
-- [Titre III : Inspection sanitaire](titre-iii)
-- [Titre IV : Dispositions générales.](titre-iv)
-- [Article 41](article-41.md)
 - [Annexes](annexes)

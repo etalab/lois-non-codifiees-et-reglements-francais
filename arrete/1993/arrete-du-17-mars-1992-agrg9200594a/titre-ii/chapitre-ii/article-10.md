@@ -1,13 +1,9 @@
 # Article 10
 
-Le matériel, les instruments ainsi que les récipients, bacs, plateaux utilisés pour la préparation des carcasses et pour la manipulation des viandes sont maintenus en bon état d'entretien et de propreté. Ils ne doivent pas être utilisés à d'autres fins que le travail des viandes fraîches.
+Conformément à l'article 4 du chapitre II du règlement (CE) n° 1774/2002 susvisé et au règlement (CE) n° 878/2004 susvisé, le vétérinaire officiel peut autoriser, sous couvert d'un laissez-passer, la sortie canalisée de l'abattoir d'intestins de bovins préalablement débarrassés de la graisse mésentérique et vidés, sous réserve que ce soit :
 
-Ils doivent être soigneusement nettoyés et désinfectés plusieurs fois au cours d'une même journée de travail ainsi qu'à la fin de la journée et avant d'être réutilisés lorsqu'ils ont été souillés.
+a) A destination directe d'un établissement de traitement industriel en vue de la fabrication de cordages. Est exclue toute valorisation dans l'alimentation humaine et animale, la fabrication d'engrais, de produits cosmétiques, de médicaments et de dispositifs médicaux ;
 
-L'emploi du bois est interdit, sauf pour l'emballage des carcasses d'agneaux ou de chevreaux sous réserve que toutes les précautions soient prises pour éviter le contact entre les viandes et l'emballage en cas de déchirure du conditionnement.
+b) En accord avec le préfet du département d'implantation de l'établissement destinataire.
 
-Les produits de nettoyage et de désinfection du matériel et des instruments doivent répondre aux conditions prescrites par les règlements pris pour l'application de la loi du 1er août 1905 sur la répression des fraudes.
-
-Leur utilisation doit être suivie d'un rinçage complet à l'eau potable des équipements et instruments de travail.
-
-Sauf dans les cas prévus au paragraphe 6 de l'article 5 du présent arrêté, l'utilisation d'eau potable est imposée pour tous les usages.
+Conformément aux articles 4 et 7 du chapitre II du règlement n° 1774/2002 susvisé et à l'article 5 du règlement (CE) n° 878/2004 susvisé, les intestins préalablement débarrassés de la graisse mésentérique et vidés doivent être expédiés sous couvert d'un laissez-passer sanitaire dont un modèle figure à l'annexe 4 du présent arrêté, selon des modalités définies par instruction publiée au Bulletin officiel du ministre chargé de l'agriculture.

@@ -12,7 +12,7 @@ a) Une demande de certificat d'immatriculation et les justificatifs d'identité 
 
 b) Le certificat d'immatriculation précédent ;
 
-c) Soit une attestation du notaire chargé de la liquidation de la succession certifiant que  M..., né(e) le... à..., est décédé(e) le... à... , que dans la succession se trouve un véhicule (avec indication de la marque et du numéro d'immatriculation et si possible le type et le numéro dans la série du type), soit un acte de notoriété ou certificat de propriété établi par un juge d'instance, soit un certificat d'hérédité délivré par le maire ;
+c) Soit une attestation du notaire chargé de la liquidation de la succession certifiant que M..., né(e) le... à..., est décédé(e) le... à... , que dans la succession se trouve un véhicule (avec indication de la marque et du numéro d'immatriculation et si possible le type et le numéro dans la série du type), soit un acte de notoriété ou certificat de propriété établi par un juge d'instance, soit un certificat d'hérédité délivré par le maire ;
 
 d) En cas de cohéritiers, une lettre de désistement de tous les autres héritiers en faveur de celui qui demande l'immatriculation du véhicule ou un certificat du notaire constatant leur accord pour attribuer le véhicule à l'un d'entre eux.
 
@@ -20,15 +20,13 @@ Avant toute revente à un tiers, un véhicule tombé dans une succession doit ê
 
 a) Un certificat de cession signé par le ou les héritiers ;
 
-b) Le précédent certificat d'immatriculation revêtu de la mention :  Vendu le ... , et signée par le ou l'un des héritiers ;
+b) Le précédent certificat d'immatriculation revêtu de la mention : Vendu le ... , et signée par le ou l'un des héritiers ;
 
 c) Une attestation sur l'honneur de l'héritier qui avait la garde juridique du véhicule certifiant que ce dernier n'a pas circulé depuis le décès du titulaire du certificat d'immatriculation ;
 
 d) La preuve d'un contrôle technique.
 
-12.B. - Véhicule vendu aux enchères publiques ou faisant l'objet
-
-d'une décision judiciaire déterminant sa propriété
+12.B. - Véhicule vendu aux enchères publiques ou faisant l'objet d'une décision judiciaire déterminant sa propriété
 
 Les pièces à fournir par l'acquéreur sont :
 
@@ -40,13 +38,13 @@ b) Une attestation (bordereau d'adjudication ou procès-verbal de vente) établi
 
 - le numéro d'immatriculation, la marque, le type et le numéro d'identification du véhicule ;
 
-c) Le certificat d'immatriculation ;
+c) Le certificat d'immatriculation ou la fiche d'identification du véhicule visée à l'article 18 du présent arrêté ;
 
 d) La preuve d'un contrôle technique.
 
-En l'absence du certificat d'immatriculation, l'attestation établie par le commissaire-priseur ou l'huissier de justice doit indiquer la raison de cette absence, compte tenu de la situation particulière du véhicule vendu, et l'information à destination de l'acquéreur que le véhicule ne peut être remis éventuellement en circulation qu'après application de l'article 12.E du présent arrêté.
+En l'absence du certificat d'immatriculation, l'attestation établie par le commissaire-priseur ou l'huissier de justice doit indiquer la raison de cette absence, compte tenu de la situation particulière du véhicule vendu. En l'absence du certificat d'immatriculation et de la fiche d'identification du véhicule, cette attestation doit comporter une information à destination de l'acquéreur sur le fait que le véhicule ne peut être remis en circulation qu'après application de l'article 12 E du présent arrêté.
 
-12.C. - Véhicule précédemment immatriculé dans la série spéciale FFECSA (Forces françaises et élément civil stationnés en Allemagne)
+12.C. - Véhicule précédemment immatriculé dans la série spéciale FFECSA (Forces françaises et éléments civils stationnés en Allemagne)
 
 Deux cas sont à considérer :
 
@@ -58,9 +56,9 @@ Les pièces à fournir par le propriétaire du véhicule sont :
 
 2. Les justificatifs d'identité et d'adresse ;
 
-3. Le certificat d'immatriculation FFECSA sur lequel aura été apposée la mention  Radiation définitive de la série spéciale FFECSA. Document valable jusqu'au...  ;
+3. Le certificat spécial FFECSA sur lequel aura été apposée la mention Radiation définitive de la série spéciale FFECSA. Document valable jusqu'au... ;
 
-4. Un certificat 846A délivré par les douanes FFECSA ;
+4. Un certificat 846A délivré par le service des douanes ;
 
 5. La pièce suivante, selon le cas :
 
@@ -92,7 +90,7 @@ Les pièces à fournir par le propriétaire du véhicule sont :
 
 avec un usage TT, IT
 
-L'acquéreur d'un véhicule précédemment immatriculé avec un usage  véhicule en transit temporaire  ou un usage  véhicule importé en transit  doit, pour obtenir une immatriculation dépourvue d'usage, fournir les pièces suivantes :
+L'acquéreur d'un véhicule précédemment immatriculé avec un usage véhicule en transit temporaire ou un usage véhicule importé en transit doit, pour obtenir une immatriculation dépourvue d'usage, fournir les pièces suivantes :
 
 a) Les pièces visées à l'article 1er du présent arrêté ;
 

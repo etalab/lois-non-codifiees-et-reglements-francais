@@ -1,6 +1,6 @@
 # Article Annexe IX
 
-**CONDITIONS DE CIRCULATION DES VÉHICULES SOUS COUVERT D'UN CERTIFICAT W GARAGE, IMMATRICULÉS PROVISOIREMENT EN WW, AVEC LA MENTION D'USAGE  VÉHICULE DE DÉMONSTRATION  ET LA MENTION D'USAGE  VÉHICULE DE COLLECTION**
+CONDITIONS DE CIRCULATION DES VÉHICULES SOUS COUVERT D'UN CERTIFICAT W GARAGE, IMMATRICULÉS PROVISOIREMENT EN WW, AVEC LA MENTION D'USAGE VÉHICULE DE DÉMONSTRATION ET LA MENTION D'USAGE VÉHICULE DE COLLECTION
 
 1. Conditions de circulation des véhicules de démonstration :
 
@@ -32,7 +32,7 @@ La présence à bord du véhicule du titulaire du certificat d'immatriculation o
 
 Les véhicules de transport de marchandises et les véhicules de transport en commun de personnes ne peuvent être utilisés pour un transport de marchandises pour les premiers et de personnes pour les seconds (à l'exception du conducteur et d'un convoyeur), sauf exceptionnellement sur le lieu même de manifestations à caractère historique ou commémoratif dans les conditions définies au paragraphe 2.3 ci-après.
 
-2.3. Le transport de personnes dans un véhicule de transport en commun de personnes dont le certificat d'immatriculation porte la mention d'usage  véhicule de collection  est autorisé, à titre exceptionnel, sur le lieu même de manifestations à caractère historique ou commémoratif sous réserve des conditions définies ci-après.
+2.3. Le transport de personnes dans un véhicule de transport en commun de personnes dont le certificat d'immatriculation porte la mention d'usage véhicule de collection est autorisé, à titre exceptionnel, sur le lieu même de manifestations à caractère historique ou commémoratif sous réserve des conditions définies ci-après.
 
 Le titulaire du certificat d'immatriculation doit :
 
@@ -44,7 +44,7 @@ L'original de cette déclaration ainsi que la preuve de l'assurance du véhicule
 
 3. Conditions de circulation des véhicules sous couvert d'un certificat W garage :
 
-3.1. La circulation des véhicules ou ensembles de véhicules sous couvert d'un certificat W garage est limitée au territoire national.
+3.1. La circulation des véhicules ou ensembles de véhicules sous couvert d'un certificat W garage est limitée au territoire national, à l'exception des prototypes dont la mise au point nécessite des essais dans des pays étrangers. Dans ce dernier cas, le professionnel doit être également en possession d'une attestation des caractéristiques techniques du véhicule.
 
 Sous couvert d'un numéro W garage, un véhicule peut ne pas être conforme aux dispositions techniques du code de la route dès lors qu'il fait l'objet d'essais ou qu'il n'a pas encore été réceptionné par le service en charge des réceptions.
 
@@ -84,11 +84,11 @@ Le bénéficiaire du prêt doit pouvoir présenter à toute réquisition des ser
 
 3.9. Les conditions de circulation, sous couvert d'un numéro W garage, des véhicules soumis à visite technique, en reprise, en dépôt-vente ou en réparation sont définies ci-après :
 
-a) Le véhicule a été acheté par un commerçant réparateur en vue de sa revente : la circulation du véhicule sous certificat W garage peut être autorisée à vide après la date limite de validité de la visite technique figurant sur le certificat d'immatriculation de l'ancien propriétaire. Ce certificat d'immatriculation, la déclaration d'achat, le carnet d'entretien et le dernier procès-verbal de visite devront accompagner le véhicule dans tous ses déplacements. Ce procès-verbal devra obligatoirement porter comme résultat la mention  accepté .
+a) Le véhicule a été acheté par un commerçant réparateur en vue de sa revente : la circulation du véhicule sous certificat W garage peut être autorisée à vide après la date limite de validité de la visite technique figurant sur le certificat d'immatriculation de l'ancien propriétaire. Ce certificat d'immatriculation, la déclaration d'achat, le carnet d'entretien et le dernier procès-verbal de visite devront accompagner le véhicule dans tous ses déplacements. Ce procès-verbal devra obligatoirement porter comme résultat la mention accepté .
 
 b) Le véhicule a été confié à un commerçant réparateur en dépôt-vente : la circulation du véhicule sous couvert du certificat W garage n'est autorisée que lorsque la date limite de validité de la visite technique n'est pas dépassée.
 
-c) Le véhicule a été confié à un garagiste pour réparations après avoir été refusé avec interdiction de circuler : la circulation sous couvert du certificat W garage après réparations pour essais est autorisée. Le certificat d'immatriculation du véhicule, l'ordre de réparation signé par le propriétaire, le carnet d'entretien et le dernier procès-verbal de visite technique portant la mention  refusé avec interdiction de circuler  devront accompagner le véhicule lors des essais.
+c) Le véhicule a été confié à un garagiste pour réparations après avoir été refusé avec interdiction de circuler : la circulation sous couvert du certificat W garage après réparations pour essais est autorisée. Le certificat d'immatriculation du véhicule, l'ordre de réparation signé par le propriétaire, le carnet d'entretien et le dernier procès-verbal de visite technique portant la mention refusé avec interdiction de circuler devront accompagner le véhicule lors des essais.
 
 4. Conditions de circulation des véhicules immatriculés provisoirement en WW.
 

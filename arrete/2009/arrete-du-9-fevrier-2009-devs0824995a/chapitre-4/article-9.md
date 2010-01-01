@@ -6,31 +6,33 @@ I. - Les véhicules utilisés par les professionnels du commerce de l'automobile
 
 a) Pour les véhicules neufs : les prototypes en cours d'étude ou d'essai technique, les véhicules dont la déclaration de mise en circulation n'est pas encore possible dans les cas suivants :
 
-― essais techniques et mises au point dès l'achèvement de la construction ;
+- essais techniques et mises au point dès l'achèvement de la construction ;
 
-― déplacements dans un lieu où le véhicule doit être complété ou adapté ;
+- déplacements dans un lieu où le véhicule doit être complété ou adapté ;
 
-― déplacement pour présentation à un acheteur potentiel d'un véhicule non affecté à la démonstration ;
+- déplacement pour présentation à un acheteur potentiel d'un véhicule non affecté à la démonstration ;
 
-― déplacement pour présentation aux acquéreurs éventuels ou à leurs représentants des véhicules de démonstration de PTAC ¹ 3,5 tonnes ;
+- déplacement pour présentation aux acquéreurs éventuels ou à leurs représentants des véhicules de démonstration de PTAC > 3,5 tonnes ;
 
-― présentation à la presse ;
+- présentation à la presse ;
 
-― prêt pour essais, par les constructeurs ou leurs filiales et les importateurs, de véhicules à des directeurs de journaux ou journalistes spécialisés des questions automobiles et à toute personne dont la profession le justifie.
+- prêt pour essais, par les constructeurs ou leurs filiales et les importateurs, de véhicules à des directeurs de journaux ou journalistes spécialisés des questions automobiles et à toute personne dont la profession le justifie.
 
 b) Pour les véhicules d'occasion : les véhicules déjà immatriculés dont la mise en circulation a strictement pour objet :
 
-― les essais techniques avant ou après réparation ou modification ;
+- les essais techniques avant ou après réparation ou modification ;
 
-― le transport entre un atelier de réparation et un atelier spécialisé ou un centre de contrôle technique ;
+- les essais techniques après réparation d'un véhicule endommagé afin de vérifier, sous le contrôle et la conduite du garagiste, que le véhicule peut circuler dans des conditions normales de sécurité ;
 
-― la revente du véhicule recouvrant la présentation à un acheteur potentiel, l'acheminement du véhicule à un lieu d'exposition à la clientèle ou à l'adresse de l'acquéreur ;
+- le transport entre un atelier de réparation et un atelier spécialisé ou un centre de contrôle technique ;
 
-― le remorquage entre le lieu de l'accident et un atelier de réparation de véhicules endommagés dans un accident de la circulation et dont la plaque arrière n'existe plus ou n'est plus lisible ;
+- la revente du véhicule recouvrant la présentation à un acheteur potentiel, l'acheminement du véhicule à un lieu d'exposition à la clientèle ou à l'adresse de l'acquéreur ;
 
-― véhicules démunis de certificat d'immatriculation lorsqu'il s'agit des opérations visées aux cas b ci-dessus ;
+- le remorquage entre le lieu de l'accident et un atelier de réparation de véhicules endommagés dans un accident de la circulation et dont la plaque arrière n'existe plus ou n'est plus lisible ;
 
-― déplacement pour présentation aux acquéreurs éventuels ou à leurs représentants de véhicules de plus de 3,5 tonnes affectés à la démonstration.
+- véhicules démunis de certificat d'immatriculation lorsqu'il s'agit des opérations visées aux cas b ci-dessus ;
+
+- déplacement pour présentation aux acquéreurs éventuels ou à leurs représentants de véhicules de plus de 3,5 tonnes affectés à la démonstration.
 
 c) Les véhicules utilisés par les coopératives agricoles et les établissements d'enseignement assurant la formation des mécaniciens réparateurs d'automobiles sur justification de leurs besoins.
 

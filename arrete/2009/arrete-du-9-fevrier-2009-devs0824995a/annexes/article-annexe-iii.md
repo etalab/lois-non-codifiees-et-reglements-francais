@@ -1,8 +1,8 @@
 # Article Annexe III
 
-**LISTE DES RUBRIQUES RENSEIGNÉES
+**LISTE DES RUBRIQUES RENSEIGNÉES**
 
-SUR LE CERTIFICAT D'IMMATRICULATION**
+**SUR LE CERTIFICAT D'IMMATRICULATION**
 
 Le certificat d'immatriculation comprend un ensemble de rubriques correspondant aux mentions renseignées sur le certificat d'immatriculation :
 
@@ -98,7 +98,7 @@ d) Rubriques Z.1 à Z.4 relatives aux mentions spécifiques :
 
 (Z.I) à (Z.4) Mentions spécifiques : ces mentions spécifiques comprennent les usages associés au numéro d'immatriculation et les mentions relatives aux caractéristiques techniques particulières du véhicule ainsi que les mentions duplicata, réédition et le numéro diplomatique :
 
-Numéro diplomatique - Mention :  véhicule conforme à un type reçu  ou  pas de réimmatriculation possible sans réception  ;
+Numéro diplomatique - Mention : véhicule conforme à un type reçu ou pas de réimmatriculation possible sans réception ;
 
 Duplicata - Date du duplicata attribuée par le SIV ;
 
@@ -130,7 +130,7 @@ Equip. Accumulat. : +... kg.
 
 Pl convoi 6 km/h maxi : ... places.
 
-Autre J2 poss. : .............
+Autre J3 poss. : .............
 
 Autre J1 poss. : .............
 
@@ -172,4 +172,6 @@ Dépannage.
 
 Transport public de personnes de moins de 10 places.
 
-_(1) Combinée avec la mention  Autre J2 poss : ... kg . (2) Peut être combinée avec les mentions  Autre F2 poss : ... kg  et/ou  Autre F3 poss : ... kg ._
+V max (remorque)
+
+_(1) Combinée avec la mention Autre J3 poss : ... kg . (2) Peut être combinée avec les mentions Autre F2 poss : ... kg et/ou Autre F3 poss : ... kg ._

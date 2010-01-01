@@ -1,3 +1,7 @@
 # Article 3
 
-Les établissements visés à l'article 1er doivent comporter une séparation suffisante entre le secteur propre et le secteur souillé et être aménagés de telle sorte que soit assuré, depuis l'introduction de l'animal vivant dans l'abattoir jusqu'à la sortie des viandes et des abats reconnus propres à la consommation humaine, un acheminement continu sans possibilité de retour en arrière, sans croisement ni chevauchement entre animaux vivants et viandes, entre viandes et sous-produits ou déchets.
+Les masques des bovins âgés de plus de douze mois étourdis par trépanation doivent :
+
+a) Soit être orientés entiers vers la destruction en tant que sous-produits animaux de catégorie 1 ;
+
+b) Soit être découpés de manière à procéder au retrait de la partie du masque contaminée ou susceptible d'être contaminée par du matériel cérébral et à l'orienter vers la destruction en tant que sous-produit animal de catégorie 1 conformément à l'article 4 du chapitre II du règlement (CE) n° 1774/2002 susvisé. La forme et l'étendue de la découpe proposées par l'industriel doivent être validées par le vétérinaire officiel de l'abattoir. L'incision du cuir est réalisée au minimum à cinq centimètres du bord du trou frontal résultant de la trépanation.

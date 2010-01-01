@@ -44,7 +44,7 @@ Pour les ambassades :
 
 a) Un premier groupe de un à trois chiffres (1 à 199) identifiant le pays représenté ;
 
-b) Le sigle  CMD  (chef de mission diplomatique) ou  CD  (corps diplomatique) ;
+b) Le sigle CMD (chef de mission diplomatique) ou CD (corps diplomatique) ;
 
 c) Un deuxième groupe de un à quatre chiffres (1 à 9999) indiquant l'ordre d'immatriculation par ambassade.
 
@@ -54,17 +54,17 @@ Pour les hautes personnalités :
 
 d) Le chiffre 500 ;
 
-e) Le sigle  CD  ;
+e) Le sigle CD ;
 
 f) Un deuxième groupe de un à trois chiffres (1 à 999) indiquant l'ordre d'immatriculation au fur et à mesure des demandes.
 
 Pour les délégations auprès des organisations internationales :
 
-- une lettre désignant l'organisation :  U  (UNESCO),  E  (OCDE),  S  (Conseil de l'Europe) ;
+- une lettre désignant l'organisation : U (UNESCO), E (OCDE), S (Conseil de l'Europe) ;
 
 - un premier groupe de trois chiffres (200 à 399) identifiant le pays représenté ;
 
-- le sigle  CMD  ou  CD  ;
+- le sigle CMD ou CD ;
 
 - un deuxième groupe de un à trois chiffres (1à 999) indiquant l'ordre d'immatriculation par délégation.
 
@@ -78,7 +78,7 @@ g) Pour les véhicules personnels ou de service des fonctionnaires de statut dip
 
 h) Pour les véhicules personnels ou de service de l'Institut international de recherche sur le cancer, à Lyon, ce chiffre est 700 ;
 
-2. Le sigle  CMD  ou  CD  ;
+2. Le sigle CMD ou CD ;
 
 3. Un deuxième groupe de un à quatre chiffres (1 à 9999) indiquant l'ordre d'immatriculation par organisation.
 
@@ -100,7 +100,7 @@ Le numéro d'immatriculation est composé de la façon suivante :
 
 - un deuxième groupe de un à trois chiffres (1 à 999) indiquant l'ordre d'immatriculation par consulat ;
 
-- le numéro du département, tel qu'il est utilisé dans les séries normales.
+- le numéro du département.
 
 Remarque : les deux derniers groupes de chiffres seront séparés par un point.
 
@@ -138,7 +138,7 @@ Exemple : 105 K 10.75.
 
 Pour les délégations auprès des organisations internationales :
 
-- une lettre désignant l'organisation :  U  (UNESCO),  E  (OCDE),  S  (Conseil de l'Europe)... ;
+- une lettre désignant l'organisation : U (UNESCO), E (OCDE), S (Conseil de l'Europe)... ;
 
 - un premier groupe de trois chiffres (200 à 399) identifiant le pays représenté ;
 
