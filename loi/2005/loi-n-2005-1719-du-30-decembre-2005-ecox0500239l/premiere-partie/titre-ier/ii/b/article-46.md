@@ -1,6 +1,6 @@
 # Article 46
 
-I.-Sont clos à la date du 31 décembre 2005 les comptes d'avances et les comptes de prêts suivants :
+I. - Sont clos à la date du 31 décembre 2005 les comptes d'avances et les comptes de prêts suivants :
 
 -le compte de prêts n° 903-05 Prêts du Fonds de développement économique et social ;
 
@@ -22,7 +22,7 @@ I.-Sont clos à la date du 31 décembre 2005 les comptes d'avances et les compte
 
 -le compte d'avances n° 903-60 Avances aux organismes de l'audiovisuel public.
 
-II.-A compter du 1er janvier 2006, il est ouvert dans les écritures du Trésor un compte de concours financiers intitulé Avances aux collectivités territoriales.
+II. - A compter du 1er janvier 2006, il est ouvert dans les écritures du Trésor un compte de concours financiers intitulé Avances aux collectivités territoriales.
 
 Ce compte reprend en balance d'entrée le solde des opérations antérieurement enregistrées par les comptes d'avances n° 903-53 Avances aux collectivités et établissements publics, territoires, établissements et Etats d'outre-mer et n° 903-54 Avances sur le montant des impositions revenant aux départements, communes, établissements et divers organismes.
 
@@ -32,13 +32,15 @@ La première section, pour laquelle le ministre chargé de l'économie est ordon
 
 La seconde section, pour laquelle le ministre chargé du budget est ordonnateur principal, retrace, respectivement en dépenses et en recettes, le versement et le remboursement des avances sur le montant des impositions revenant aux régions, départements, communes, établissements et divers organismes.
 
-Cette section retrace notamment le versement de la part du produit de la taxe intérieure de consommation sur les produits pétroliers affectée à chaque département en application du I de l'article 59 de la loi de finances pour 2004 (n° 2003-1311 du 30 décembre 2003) et du I de l'article 51 de la loi n° 2008-1425 du 27 décembre 2008 de finances pour 2009, dans les conditions suivantes :
+Cette section retrace notamment le versement de la part du produit de la taxe intérieure de consommation sur les produits pétroliers affectée à chaque département en application du I de l'article 59 de la loi de finances pour 2004 (n° 2003-1311 du 30 décembre 2003) et des I et III de l'article 51 de la loi n° 2008-1425 du 27 décembre 2008 de finances pour 2009, dans les conditions suivantes :
 
 1° Cette part est versée mensuellement, à raison d'un douzième du montant du droit à compensation du département ;
 
 2° Si le produit affecté à chaque département en vertu du pourcentage de la fraction de tarif qui lui est attribué par la loi de finances représente un montant annuel supérieur au montant total de son droit à compensation au titre de l'allocation de revenu de solidarité active dans les conditions prévues par la loi n° 2008-1249 du 1er décembre 2008 généralisant le revenu de solidarité active et réformant les politiques d'insertion, la différence fait l'objet d'un versement complémentaire dès ce montant connu.
 
-III.-A compter du 1er janvier 2006, il est ouvert dans les écritures du Trésor un compte de concours financiers intitulé :
+A compter de l'année 2011, cette section retrace également le versement du produit de la cotisation sur la valeur ajoutée des entreprises prévue à l'article 1586 ter du code général des impôts perçu par chaque commune en application de l'article 1379 du même code, par chaque établissement public de coopération intercommunale à fiscalité propre en application des articles 1379-0 bis, 1609 nonies C et 1609 quinquies C du même code, par chaque département en application de l'article 1586 du même code et par chaque région et par la collectivité territoriale de Corse en application de l'article 1599 bis du même code. Ce produit est versé mensuellement, à raison d'un douzième du montant dû.
+
+III. - A compter du 1er janvier 2006, il est ouvert dans les écritures du Trésor un compte de concours financiers intitulé :
 
 Prêts et avances à des particuliers ou à des organismes privés.
 
@@ -58,7 +60,7 @@ La première section, dénommée : " Prêts et avances à des particuliers ou à
 
 La seconde section, dénommée : " Prêts pour le développement économique ou social ", pour laquelle le ministre chargé de l'économie est ordonnateur principal, retrace, respectivement en dépenses et en recettes, le versement et le remboursement des prêts pour le développement économique et social.
 
-IV.-A compter du 1er janvier 2006, il est ouvert dans les écritures du Trésor un compte de concours financiers intitulé :
+IV. - A compter du 1er janvier 2006, il est ouvert dans les écritures du Trésor un compte de concours financiers intitulé :
 
 Prêts à des Etats étrangers.
 
@@ -72,7 +74,7 @@ La deuxième section retrace, respectivement en dépenses et en recettes, le ver
 
 La troisième section retrace, respectivement en dépenses et en recettes, le versement et le remboursement des prêts consentis à l'Agence française de développement en vue de favoriser le développement économique et social dans des Etats étrangers.
 
-V.-A compter du 1er janvier 2006, il est ouvert dans les écritures du Trésor un compte de concours financiers intitulé :
+V. - A compter du 1er janvier 2006, il est ouvert dans les écritures du Trésor un compte de concours financiers intitulé :
 
 Avances à divers services de l'Etat ou organismes gérant des services publics.
 
@@ -84,45 +86,45 @@ Ce compte retrace, respectivement en dépenses et en recettes, le versement et l
 
 2° Avances du Trésor octroyées à d'autres services de l'Etat ou organismes gérant des services publics.
 
-VI.-1.A compter du 1er janvier 2006, il est ouvert dans les écritures du Trésor un compte de concours financiers intitulé :
+VI. - 1. A compter du 1er janvier 2006, il est ouvert dans les écritures du Trésor un compte de concours financiers intitulé :
 
-Avances à l'audiovisuel.
+Avances à l'audiovisuel public.
 
 Le ministre chargé du budget est l'ordonnateur principal de ce compte, qui reprend en balance d'entrée le solde des opérations antérieurement enregistrées par le compte d'avances n° 903-60 Avances aux organismes de l'audiovisuel public.
 
 Ce compte retrace :
 
-1° En dépenses : d'une part, le montant des avances accordées aux sociétés et à l'établissement public visés par les articles 44, 45 et 49 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication et, d'autre part, jusqu'au 31 décembre 2011, le montant des avances accordées au groupement d'intérêt public visé à l'article 100 de la loi n° 86 1067 du 30 septembre 1986 précitée ;
+1° En dépenses : le montant des avances accordées aux sociétés et à l'établissement public visés par les articles 44, 45 et 49 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication ;
 
-2° En recettes : d'une part, les remboursements d'avances correspondant au produit de la redevance audiovisuelle, déduction faite des frais d'assiette et de recouvrement et du montant des intérêts sur les avances, et, d'autre part, le montant des dégrèvements de redevance audiovisuelle pris en charge par le budget général de l'Etat. Cette prise en charge par le budget général de l'Etat est limitée à 561,7 millions d'euros en 2009.
+2° En recettes : d'une part, les remboursements d'avances correspondant au produit de la contribution à l'audiovisuel public, déduction faite des frais d'assiette et de recouvrement et du montant des intérêts sur les avances, et, d'autre part, le montant des dégrèvements de redevance audiovisuelle pris en charge par le budget général de l'Etat. Cette prise en charge par le budget général de l'Etat est limitée à 561,8 millions d'euros en 2010.
 
 Les frais d'assiette et de recouvrement sont calculés conformément au XI de l'article 1647 du code général des impôts.
 
 Le taux d'intérêt est celui des obligations ou bons du Trésor de même échéance que les avances ou, à défaut, d'échéance la plus proche.
 
-2. Les avances sont versées chaque mois aux organismes bénéficiaires à raison d'un douzième du montant prévisionnel des recettes du compte. Toutefois, lorsque l'organisme bénéficiaire est celui institué à l'article 100 de la loi n° 86-1067 du 30 septembre 1986 précitée, le rythme de versement des avances est déterminé par l'ordonnateur du compte. Le montant des avances mensuelles est ajusté sur la base des recettes prévisionnelles attendues en fonction des mises en recouvrement dès que celles-ci sont connues.
+2. Les avances sont versées chaque mois aux organismes bénéficiaires à raison d'un douzième du montant prévisionnel des recettes du compte. Le montant des avances mensuelles est ajusté sur la base des recettes prévisionnelles attendues en fonction des mises en recouvrement dès que celles-ci sont connues.
 
 Le solde est versé lors des opérations de répartition des recettes arrêtées au 31 décembre de l'année considérée.
 
 Les versements ne peuvent avoir pour effet de porter les avances effectuées pendant l'année civile à un montant supérieur aux recettes effectives du compte.
 
-3. Si les encaissements de redevance nets en 2009 sont inférieurs à 2 329 millions d'euros, la limite de la prise en charge par le budget général de l'Etat prévue au cinquième alinéa (2°) du 1 est majorée à due concurrence.
+3. Si les encaissements de contribution à l'audiovisuel public nets en 2010 sont inférieurs à 2 561 millions d'euros, la limite de la prise en charge par le budget général de l'Etat prévue au cinquième alinéa (2°) du 1 est majorée à due concurrence.
 
-VII.-A compter du 1er janvier 2006, il est ouvert dans les écritures du Trésor un compte de concours financiers intitulé :
+VII. - A compter du 1er janvier 2006, il est ouvert dans les écritures du Trésor un compte de concours financiers intitulé :
 
 Accords monétaires internationaux qui retrace, respectivement en dépenses et en recettes, les opérations d'octroi et de remboursement des appels en garantie de convertibilité effectuées par le Trésor au profit des banques centrales liées à la France par un accord monétaire international.
 
 Le ministre chargé de l'économie est l'ordonnateur principal de ce compte.
 
-VIII.-Le compte de commerce n° 904-22 Gestion active de la dette et de la trésorerie de l'Etat est clos à la date du 31 décembre 2005.
+VIII. - Le compte de commerce n° 904-22 Gestion active de la dette et de la trésorerie de l'Etat est clos à la date du 31 décembre 2005.
 
 Les opérations antérieurement retracées sur ce compte sont reprises, à compter du 1er janvier 2006, au sein du compte de commerce prévu au II de l'article 22 de la loi organique n° 2001-692 du 1er août 2001 relative aux lois de finances.
 
-IX.-Le compte de commerce Liquidation d'établissements publics de l'Etat et d'organismes para-administratifs ou professionnels et liquidations diverses est désormais intitulé : Liquidation d'établissements publics de l'Etat et liquidations diverses.
+IX. - Le compte de commerce Liquidation d'établissements publics de l'Etat et d'organismes para-administratifs ou professionnels et liquidations diverses est désormais intitulé : Liquidation d'établissements publics de l'Etat et liquidations diverses.
 
-X.-Le compte d'opérations monétaires Compte d'émission des monnaies métalliques est désormais intitulé : Emissions des monnaies métalliques.
+X. - Le compte d'opérations monétaires Compte d'émission des monnaies métalliques est désormais intitulé : Emissions des monnaies métalliques.
 
-XI.-Sont abrogés :
+XI. - Sont abrogés :
 
 -les articles 84 et 87 de la loi de finances pour 1960 (n° 59-1454 du 26 décembre 1959) ;
 
