@@ -400,8 +400,6 @@
 - [Arrêté du 19 mars 1999 (EQUA9900268A)](arrete-du-19-mars-1999-equa9900268a)
 - [Arrêté du 19 mars 1999 (EQUA9900276A)](arrete-du-19-mars-1999-equa9900276a)
 - [Arrêté du 19 mars 1999 (EQUS9900403A)](arrete-du-19-mars-1999-equs9900403a)
-- [Arrêté du 19 mars 1999 (EQUS9900405A)](arrete-du-19-mars-1999-equs9900405a)
-- [Arrêté du 19 mars 1999 (EQUS9900407A)](arrete-du-19-mars-1999-equs9900407a)
 - [Arrêté du 19 mars 1999 (MESH9920964A)](arrete-du-19-mars-1999-mesh9920964a)
 - [Arrêté du 19 novembre 1999 (DEFC9902172A)](arrete-du-19-novembre-1999-defc9902172a)
 - [Arrêté du 19 novembre 1999 (EQUT9901625A)](arrete-du-19-novembre-1999-equt9901625a)

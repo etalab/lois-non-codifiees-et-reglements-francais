@@ -29,7 +29,6 @@
 - [Arrêté du 7 août 2000 (ATEG0090069A)](arrete-du-7-aout-2000-ateg0090069a)
 - [Arrêté du 7 juillet 2000 (MESS0022234A)](arrete-du-7-juillet-2000-mess0022234a)
 - [Arrêté du 7 mars 2000 (DEFP9902306A)](arrete-du-7-mars-2000-defp9902306a)
-- [Arrêté du 7 mars 2000 (EQUS0000360A)](arrete-du-7-mars-2000-equs0000360a)
 - [Arrêté du 7 novembre 2000 (AGRG0002269A)](arrete-du-7-novembre-2000-agrg0002269a)
 - [Arrêté du 7 novembre 2000 (EQUU0001743A)](arrete-du-7-novembre-2000-equu0001743a)
 - [Arrêté du 8 décembre 2000 (ATEN0090424A)](arrete-du-8-decembre-2000-aten0090424a)
