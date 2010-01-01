@@ -1322,7 +1322,6 @@
 - [Arrêté du 16 décembre 2008 (DEVE0829105A)](arrete-du-16-decembre-2008-deve0829105a)
 - [Arrêté du 16 décembre 2008 (DEVK0830527A)](arrete-du-16-decembre-2008-devk0830527a)
 - [Arrêté du 16 décembre 2008 (ECES0830230A)](arrete-du-16-decembre-2008-eces0830230a)
-- [Arrêté du 16 décembre 2008 (JUSA0827807A)](arrete-du-16-decembre-2008-jusa0827807a)
 - [Arrêté du 16 décembre 2009 (AGRM0930482A)](arrete-du-16-decembre-2009-agrm0930482a)
 - [Arrêté du 16 décembre 2009 (BCFL0931300A)](arrete-du-16-decembre-2009-bcfl0931300a)
 - [Arrêté du 16 décembre 2009 (CPTP0900056A)](arrete-du-16-decembre-2009-cptp0900056a)

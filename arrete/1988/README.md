@@ -211,7 +211,6 @@
 - [Arrêté du 13 avril 1988 (ECOC8800051A)](arrete-du-13-avril-1988-ecoc8800051a)
 - [Arrêté du 13 avril 1988 (ECOT8811023A)](arrete-du-13-avril-1988-ecot8811023a)
 - [Arrêté du 13 avril 1988 (ECOZ8800015A)](arrete-du-13-avril-1988-ecoz8800015a)
-- [Arrêté du 13 avril 1988 (EQUC8800145A)](arrete-du-13-avril-1988-equc8800145a)
 - [Arrêté du 13 avril 1988 (INDG8800290A)](arrete-du-13-avril-1988-indg8800290a)
 - [Arrêté du 13 avril 1988 (INDG8800291A)](arrete-du-13-avril-1988-indg8800291a)
 - [Arrêté du 13 avril 1988 (INDG8800292A)](arrete-du-13-avril-1988-indg8800292a)
