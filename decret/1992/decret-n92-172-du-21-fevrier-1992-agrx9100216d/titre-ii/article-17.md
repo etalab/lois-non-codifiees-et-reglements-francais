@@ -4,4 +4,4 @@ La Commission nationale des enseignants-chercheurs restreinte au président de l
 
 Lorsque la Commission nationale des enseignants-chercheurs est appelée à se prononcer sur les demandes de congé pour recherches ou conversions thématiques en application des dispositions du troisième alinéa de l'article 18 du décret du 21 février 1992 susvisé, la section compétente siège en formation restreinte aux membres du bureau.
 
-La Commission nationale des enseignants-chercheurs restreinte aux membres des bureaux des sections procède au classement commun des candidats à l'avancement conformément aux modalités du troisième alinéa de l'article 34, du deuxième alinéa de l'article 35, du deuxième alinéa de l'article 50 et du quatrième alinéa de l'article 51 du décret du 21 février 1992 susvisé.
+La Commission nationale des enseignants-chercheurs restreinte aux membres des bureaux des sections procède au classement commun des candidats à l'avancement, conformément aux dispositions des articles 34, 35, 50 et 51 du décret du 21 février 1992 susvisé.

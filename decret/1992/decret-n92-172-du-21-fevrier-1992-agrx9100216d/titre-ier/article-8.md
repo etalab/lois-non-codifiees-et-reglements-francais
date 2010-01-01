@@ -4,4 +4,6 @@ Les membres des corps des enseignants-chercheurs régis par le décret du 21 fé
 
 La clôture des listes électorales est fixée à deux mois avant la date des élections.
 
+Ces élections peuvent être organisées par voie électronique, selon des modalités fixées par arrêté du ministre chargé de l'agriculture et propres à garantir la sincérité et la sécurité du scrutin.
+
 Un arrêté du ministre chargé de l'agriculture précise les conditions d'inscription sur les listes électorales et les modalités des élections.
