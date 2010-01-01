@@ -464,7 +464,6 @@
 - [Arrêté du 12 décembre 1994 (DEFL9402260A)](arrete-du-12-decembre-1994-defl9402260a)
 - [Arrêté du 12 décembre 1995 (AGRA9502480A)](arrete-du-12-decembre-1995-agra9502480a)
 - [Arrêté du 12 décembre 1995 (COMA9500055A)](arrete-du-12-decembre-1995-coma9500055a)
-- [Arrêté du 12 décembre 1995 (MENA9502752A)](arrete-du-12-decembre-1995-mena9502752a)
 - [Arrêté du 12 décembre 1995 (TASP9523453A)](arrete-du-12-decembre-1995-tasp9523453a)
 - [Arrêté du 12 janvier 1995 (AGRE9500053A)](arrete-du-12-janvier-1995-agre9500053a)
 - [Arrêté du 12 janvier 1995 (INDP9500034A)](arrete-du-12-janvier-1995-indp9500034a)
