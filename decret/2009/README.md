@@ -1454,7 +1454,6 @@
 - [Décret n°2008-1556 du 31 décembre 2008 (MTSA0831163D)](decret-n2008-1556-du-31-decembre-2008-mtsa0831163d)
 - [Décret n°2008-1557 du 31 décembre 2008 (MTSS0830822D)](decret-n2008-1557-du-31-decembre-2008-mtss0830822d)
 - [Décret n°2008-1558 du 31 décembre 2008 (MTSS0830057D)](decret-n2008-1558-du-31-decembre-2008-mtss0830057d)
-- [Décret n°2008-1559 du 31 décembre 2008 (MTSS0830038D)](decret-n2008-1559-du-31-decembre-2008-mtss0830038d)
 - [Décret n°2008-1560 du 31 décembre 2008 (ESRR0824554D)](decret-n2008-1560-du-31-decembre-2008-esrr0824554d)
 - [Décret n°2008-1561 du 31 décembre 2008 (ESRS0826516D)](decret-n2008-1561-du-31-decembre-2008-esrs0826516d)
 - [Décret n°2009-1081 du 31 août 2009 (JUSB0831409D)](decret-n2009-1081-du-31-aout-2009-jusb0831409d)
