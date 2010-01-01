@@ -1,6 +1,6 @@
 # Article 2
 
-Chaque session d'examen professionnel fait l'objet d'un arrêté d'ouverture qui précise la date limite de dépôt des inscriptions, la date des épreuves et l'adresse à laquelle les candidatures doivent être déposées.
+Chaque session d'examen professionnel fait l'objet d'un arrêté d'ouverture qui précise la date limite de dépôt des inscriptions, la date et le lieu des épreuves  et l'adresse à laquelle les candidatures doivent être déposées.
 
 L'arrêté d'ouverture de l'examen est affiché, jusqu'à la date limite de clôture des inscriptions, dans les locaux de l'autorité organisatrice de l'examen ou du centre de gestion concerné.
 

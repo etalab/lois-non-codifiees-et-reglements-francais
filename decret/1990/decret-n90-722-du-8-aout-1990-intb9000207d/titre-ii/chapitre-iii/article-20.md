@@ -6,6 +6,6 @@ Le président du jury transmet les listes mentionnées ci-dessus avec un compte 
 
 - au président du Centre national de la fonction publique territoriale pour les concours concernant les ingénieurs en chef ;
 
-- au délégué régional ou interdépartemental pour les concours concernant les ingénieurs.
+- au président du centre de gestion organisateur pour les concours concernant les ingénieurs.
 
 La liste d'aptitude de chaque concours est établie par ordre alphabétique et fait mention des spécialités choisies par chaque candidat.

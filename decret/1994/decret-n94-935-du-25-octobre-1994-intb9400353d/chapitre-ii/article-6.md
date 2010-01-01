@@ -2,7 +2,17 @@
 
 Le jury est nommé par arrêté du maire de la commune ou du président du centre de gestion qui organise le concours.
 
-Le jury comprend au moins trois et au plus cinq membres. A l'exception des membres mentionnés à l'article 42 de la loi du 26 janvier 1984, le président et les autres membres sont choisis sur une liste dressée, chaque année, par le président du tribunal administratif, pour l'ensemble du ressort territorial de ce tribunal.
+Le jury comprend au moins :
+
+a) Un fonctionnaire de catégorie A ou B et un fonctionnaire désigné dans les conditions du sixième alinéa de l'article 14 du décret du 20 novembre 1985 susvisé ;
+
+b) Deux personnalités qualifiées ;
+
+c) Deux élus locaux.
+
+Pour les concours organisés par une collectivité ou un établissement non affilié, le représentant du centre de gestion, membre du jury en application de l'article 42 de la loi du 26 janvier 1984 susvisée, est désigné au titre de l'un des trois collèges mentionnés ci-dessus.
+
+A l'exception des membres mentionnés à l'article 42 de la loi du 26 janvier 1984, les membres du jury sont choisis sur une liste établie chaque année ou mise à jour en tant que de besoin par le centre de gestion organisateur. Celui-ci procède au recueil des propositions des collectivités non affiliées sur des noms pouvant figurer sur cette liste.
 
 L'arrêté prévu au premier alinéa du présent article désigne le remplaçant du président pour le cas où celui-ci serait dans l'impossibilité d'accomplir sa mission.
 

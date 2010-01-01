@@ -12,7 +12,7 @@ c) Deux élus locaux.
 
 Pour les examens organisés par une collectivité ou un établissement non affiliés, le représentant du centre de gestion, membre du jury en application de l'article 42 de la loi du 26 janvier 1984 susvisée, est désigné au titre de l'un des trois collèges ci-dessus mentionnés.
 
-Les membres du jury sont choisis, à l'exception des membres mentionnés à l'article 42 de la loi du 26 janvier 1984 susvisée, sur une liste établie chaque année ou mise à jour en tant que de besoin par le président du tribunal administratif, au vu des propositions du ou des présidents des centres de gestion relevant du ressort de ce tribunal. Ces derniers recueillent préalablement les propositions des collectivités non affiliées.
+Les membres du jury sont choisis, à l'exception des membres mentionnés à  l'article 42 de la loi du 26 janvier 1984 susvisée, sur une liste  établie chaque année ou mise à jour en tant que de besoin par le centre  de gestion organisateur. Celui-ci procède au recueil des propositions  des collectivités non affiliées sur des noms pouvant figurer sur cette  liste.
 
 L'arrêté prévu au premier alinéa du présent article désigne, parmi les membres du jury, son président ainsi que le remplaçant de ce dernier pour le cas où il serait dans l'impossibilité d'accomplir sa mission.
 

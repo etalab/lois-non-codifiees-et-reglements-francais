@@ -1,3 +1,3 @@
 # Article 14
 
-Le délégué régional ou interdépartemental du Centre national de la fonction publique territoriale établit par ordre alphabétique la liste d'aptitude au vu des listes d'admission.
+Le           président du centre de gestion organisateur établit par ordre alphabétique la liste d'aptitude au vu des listes d'admission.

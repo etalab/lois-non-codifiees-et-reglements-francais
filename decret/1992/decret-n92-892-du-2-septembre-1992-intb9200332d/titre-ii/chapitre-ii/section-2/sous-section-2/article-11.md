@@ -6,7 +6,7 @@ Le concours interne, spécialité Arts plastiques, de recrutement des directeurs
 
 a) Un mémoire rédigé par le candidat, comprenant cinquante pages maximum, retraçant son expérience professionnelle antérieure et présentant sa conception du rôle de directeur et, s'il y a lieu, sa pratique artistique (coefficient 2).
 
-Le mémoire est adressé en cinq exemplaires au Centre national de la fonction publique territoriale, trois semaines avant les épreuves d'admissibilité.
+Le mémoire est adressé en cinq exemplaires au      centre de gestion organisateur, trois semaines avant les épreuves d'admissibilité.
 
 b) Une note de synthèse à partir d'un dossier comprenant des pièces relatives à la gestion administrative et pédagogique d'un établissement des arts plastiques (durée : quatre heures ; coefficient 3).
 

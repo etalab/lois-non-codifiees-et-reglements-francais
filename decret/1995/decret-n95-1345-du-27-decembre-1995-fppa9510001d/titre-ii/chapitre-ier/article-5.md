@@ -1,19 +1,19 @@
 # Article 5
 
-L'ouverture des concours mentionnés à l'article 4 est fixée par le délégué régional ou interdépartemental du Centre national de la fonction publique territoriale.
+L'ouverture des concours mentionnés à l'article 4 est fixée par le           président du centre de gestion organisateur.
 
 Les candidats aux concours mentionnés à l'article 4 ci-dessus choisissent, au moment de leur inscription au concours, l'une des options suivantes :
 
-- routes, voirie et réseaux divers ;
+-routes, voirie et réseaux divers ;
 
-- voies navigables et ports maritimes ;
+-voies navigables et ports maritimes ;
 
-- mécanique, électromécanique ;
+-mécanique, électromécanique ;
 
-- bâtiments ;
+-bâtiments ;
 
-- espaces verts ;
+-espaces verts ;
 
-- imprimerie ;
+-imprimerie ;
 
-- restauration.
+-restauration.
