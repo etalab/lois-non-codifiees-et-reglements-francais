@@ -1,6 +1,6 @@
 # Article 63
 
-I. - L'Etat détient une participation majoritaire dans la société anonyme d'économie mixte dénommée Société nationale de construction de logements pour les travailleurs.
+I. - L'Etat détient une participation d'au moins un tiers du capital de la société anonyme dénommée "Adoma". L'Etat, les établissements publics et les entreprises publiques détiennent au moins la majorité du capital d'Adoma.
 
 II. - Toute modification des statuts de cette société est approuvée par décret.
 

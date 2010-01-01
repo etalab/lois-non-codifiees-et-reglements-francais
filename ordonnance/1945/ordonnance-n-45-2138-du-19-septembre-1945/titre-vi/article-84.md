@@ -1,3 +1,3 @@
 # Article 84
 
-Un décret déterminera les conditions suivant lesquelles l'organisation professionnelle instituée par la présente ordonnance sera mise en application dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle [*Alsace et Lorraine*].
+Les contributions prévues à l'article 7 ter sont exigibles à compter de l'année 2009. Toutefois, s'agissant des implantations secondaires, la contribution n'est acquittée qu'à hauteur de 50 % en 2009 et 75 % en 2010.

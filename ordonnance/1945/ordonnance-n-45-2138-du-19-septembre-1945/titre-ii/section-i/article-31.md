@@ -14,7 +14,7 @@ Sous réserve des dispositions prévues à l'article 42 bis le conseil régional
 
 6° Surveiller et contrôler les stages ;
 
-7° Fixer et recouvrer le montant des cotisations qui doivent être versées par les membres de l'ordre et les personnes physiques soumises à sa surveillance et à son contrôle disciplinaire pour couvrir les frais de fonctionnement administratif de l'ordre ;
+7° Fixer et recouvrer le montant des cotisations qui doivent être versées par les membres de l'ordre et les personnes physiques soumises à sa surveillance et à son contrôle disciplinaire pour couvrir les frais de fonctionnement administratif de l'ordre, ainsi que les contributions dues par les associations de gestion et de comptabilité en application de l'article 7 ter ;
 
 8° Saisir le conseil supérieur de toutes requêtes ou suggestions concernant la profession d'expert comptable.
 

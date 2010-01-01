@@ -11,3 +11,5 @@ IV. - Le conseil de normalisation des comptes publics peut être consulté sur t
 V. - Les avis du conseil de normalisation des comptes publics sont publics.
 
 VI. - Le conseil de normalisation des comptes publics élabore un rapport d'activité annuel déposé auprès des commissions chargées des finances des deux assemblées.
+
+VII. - Un comité, composé paritairement de membres du conseil de normalisation des comptes publics et de l'Autorité des normes comptables, émet des recommandations tendant à développer la convergence des normes comptables publiques et privées.
