@@ -1,13 +1,9 @@
 # Article 46
 
-Lorsqu'un compte a fait l'objet d'une saisie, son titulaire peut demander au tiers saisi la mise à disposition immédiate, dans la limite du solde créditeur du compte au jour de réception de la demande, d'une somme à caractère alimentaire d'un montant forfaitaire du revenu de solidarité active mentionné au 2° de l'article L. 262-2 du code de l'action sociale et des familles applicable à un foyer composé d'une seule personne.
+Lorsqu'un compte fait l'objet d'une saisie, le tiers saisi laisse à la disposition du débiteur personne physique, sans qu'aucune demande soit nécessaire, et dans la limite du solde créditeur au jour de la saisie, une somme à caractère alimentaire d'un montant égal au montant forfaitaire, pour un allocataire seul, mentionné à l'article L. 262-2 du code de l'action sociale et des familles. Il en avertit aussitôt le débiteur.
 
-La demande doit être présentée dans les quinze jours suivant la saisie.
+En cas de pluralité de comptes, il est opéré une mise à disposition au regard de l'ensemble des soldes créditeurs ; la somme est imputée, en priorité, sur les fonds disponibles à vue.
 
-En cas de pluralité de comptes, la demande ne peut être présentée que sur un seul compte.
+Le tiers saisi informe sans délai l'huissier de justice ou le comptable public chargé du recouvrement du montant laissé à disposition du titulaire du compte ainsi que du ou des comptes sur lesquels est opérée cette mise à disposition.
 
-En cas de pluralité de titulaires d'un compte, le ou les co-titulaires ne peuvent présenter qu'une seule demande.
-
-Il ne peut être présentée qu'une seule demande pour une même saisie.
-
-Une autre demande peut être formée en cas de nouvelle saisie à l'expiration d'un délai d'un mois à compter de la précédente demande.
+En cas de saisies de comptes ouverts auprès d'établissements différents, l'huissier de justice ou le comptable public chargé du recouvrement détermine le ou les tiers saisis chargés de laisser à disposition la somme mentionnée au premier alinéa ainsi que les modalités de cette mise à disposition. Il en informe les tiers saisis.

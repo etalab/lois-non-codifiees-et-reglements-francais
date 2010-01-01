@@ -10,6 +10,6 @@ Cet acte contient, à peine de nullité :
 
 3° La désignation de la juridiction devant laquelle les contestations pourront être portées ;
 
-4° L'indication, en cas de saisie de compte, que le titulaire du compte peut demander au tiers saisi, dans les 15 jours suivant la saisie, la mise à disposition d'une somme au plus égale au montant forfaitaire du revenu de solidarité active mentionné au 2° de l'article L. 262-2 du code de l'action sociale et des familles applicable à un foyer composé d'une seule personne dans la limite du solde créditeur du compte au jour de la réception de la demande.
+4° L'indication, en cas de saisie de compte, du montant de la somme à caractère alimentaire laissée à la disposition du débiteur en application de l'article 46 ainsi que du ou des comptes sur lesquels cette mise à disposition est opérée.
 
 L'acte rappelle au débiteur qu'il peut autoriser par écrit le créancier à se faire remettre sans délai par le tiers saisi les sommes qui lui sont dues.
