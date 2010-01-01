@@ -1,6 +1,6 @@
 # Article 2
 
-La cotisation est fixée en pourcentage des revenus professionnels non salariés de l'avant-dernière année définis aux deuxième , troisième et quatrième alinéas de l'article L. 131-6 du code de la sécurité sociale, dans la limite d'un plafond égal à 110 100 € en 2008.
+La cotisation est fixée en pourcentage des revenus professionnels non salariés de l'avant-dernière année définis aux deuxième, troisième et quatrième alinéas de l'article L. 131-6 du code de la sécurité sociale, dans la limite d'un plafond égal à 110 100 € en 2008.
 
 Ce plafond évolue chaque année comme la variation, entre le 1er septembre de l'avant-dernière année et le 1er septembre de l'année précédente, de l'indice mensuel des prix à la consommation de l'ensemble des ménages, publié par l'Institut national de la statistique et des études économiques.
 
@@ -12,6 +12,6 @@ Les statuts mentionnés au premier alinéa de l'article 5 du présent décret pe
 
 Le versement de la cotisation annuelle correspond au plafond mentionné au second alinéa du présent article donne droit à attribution de 10 points de retraite. Le nombre de points est calculé au prorata lorsque la cotisation est d'un montant inférieur.
 
-L'alinéa précédent n'est pas applicable aux médecins bénéficiaires de la retraite complémentaire et exerçant une activité médicale libérale. Ces derniers ne peuvent obtenir aucun nouveau droit à retraite au titre des cotisations versées, dont l'assiette ne peut excéder le seuil fixé en application du deuxième alinéa de l'article L. 643-6 du code de la sécurité sociale.
+L'alinéa précédent n'est pas applicable aux médecins bénéficiaires de la retraite complémentaire et exerçant une activité médicale libérale. Ces derniers ne peuvent obtenir aucun nouveau droit à retraite au titre des cotisations versées.
 
 Par dérogation aux dispositions du premier alinéa, les cotisations dues au titre de chaque année par les médecins bénéficiaires de la retraite complémentaire et exerçant une activité médicale libérale peuvent être calculées à titre provisionnel sur la base des revenus de cette année estimés par le médecin sur demande de celui-ci à la section professionnelle des médecins. Ces cotisations font l'objet d'une régularisation dans les mêmes conditions que celles prévues au troisième alinéa de l'article L. 642-2 du code de la sécurité sociale.
