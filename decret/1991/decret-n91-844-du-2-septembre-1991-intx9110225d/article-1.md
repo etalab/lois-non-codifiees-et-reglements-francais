@@ -5,103 +5,121 @@ L'échelonnement indiciaire applicable au cadre d'emplois des attachés territor
 <table>
 <tbody>
 <tr>
-<td align="left" valign="middle">
+<th>
+<br/>ÉCHELONS <br/>
+</th>
+<th>
+<br/>INDICES BRUTS <br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<p align="center">11e</p>
+</td>
+<td align="center">
 <p align="center">
-<strong>ECHELONS</strong>
+<br/>801 <br/>
 </p>
 </td>
-<td align="left" valign="middle">
+</tr>
+<tr>
+<td align="center">
+<p align="center">10e</p>
+</td>
+<td align="center">
 <p align="center">
-<strong>INDICES BRUTS</strong>
+<br/>750 <br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">11e échelon</p>
+<td align="center">
+<p align="center">9e</p>
 </td>
-<td align="left" valign="middle">
-<p align="center">780</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="justify">10e échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">750</p>
+<td align="center">
+<p align="center">
+<br/>701 <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">9e échelon</p>
+<td align="center">
+<p align="center">8e</p>
 </td>
-<td align="left" valign="middle">
-<p align="center">701</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="justify">8e échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">659</p>
+<td align="center">
+<p align="center">
+<br/>659 <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">7e échelon</p>
+<td align="center">
+<p align="center">7e</p>
 </td>
-<td align="left" valign="middle">
-<p align="center">616</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="justify">6e échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">593</p>
+<td align="center">
+<p align="center">
+<br/>616 <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">5e échelon</p>
+<td align="center">
+<p align="center">6e</p>
 </td>
-<td align="left" valign="middle">
-<p align="center">550</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="justify">4e échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">510</p>
+<td align="center">
+<p align="center">
+<br/>593 <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">3e échelon</p>
+<td align="center">
+<p align="center">5e</p>
 </td>
-<td align="left" valign="middle">
-<p align="center">465</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="justify">2e échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">423</p>
+<td align="center">
+<p align="center">
+<br/>550 <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">1er<sup/>échelon</p>
+<td align="center">
+<p align="center">4e</p>
 </td>
-<td align="left" valign="middle">
-<p align="center">379</p>
+<td align="center">
+<p align="center">
+<br/>510 <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="center">3e</p>
+</td>
+<td align="center">
+<p align="center">
+<br/>465 <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="center">2e</p>
+</td>
+<td align="center">
+<p align="center">
+<br/>423 <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="center">1er</p>
+</td>
+<td align="center">
+<p align="center">
+<br/>379<br/>
+</p>
 </td>
 </tr>
 </tbody>
