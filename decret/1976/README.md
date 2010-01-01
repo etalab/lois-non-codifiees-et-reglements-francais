@@ -43,7 +43,6 @@
 - [Décret n°76-233 du 19 février 1976](decret-n76-233-du-19-fevrier-1976)
 - [Décret n°76-356 du 20 avril 1976](decret-n76-356-du-20-avril-1976)
 - [Décret n°76-811 du 20 août 1976](decret-n76-811-du-20-aout-1976)
-- [Décret n°76-87 du 21 janvier 1976](decret-n76-87-du-21-janvier-1976)
 - [Décret n°76-966 du 21 octobre 1976](decret-n76-966-du-21-octobre-1976)
 - [Décret n°76-972 du 21 octobre 1976](decret-n76-972-du-21-octobre-1976)
 - [Décret n°76-1062 du 22 novembre 1976](decret-n76-1062-du-22-novembre-1976)
