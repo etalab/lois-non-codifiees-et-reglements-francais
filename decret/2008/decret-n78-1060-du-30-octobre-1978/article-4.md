@@ -2,7 +2,7 @@
 
 La direction des ressources humaines de l'armée de l'air est chargée d'assurer :
 
-- le recrutement et la formation du personnel de carrière et du personnel servant en vertu d'un contrat, à l'exclusion du corps des commissaires de l'air et des maîtres ouvriers ; à ce titre, elle a autorité sur les centres de formation ne relevant pas d'un commandement, les écoles militaires et tout autre organisme précisé par arrêté ou instruction ;
+- le recrutement et la formation du personnel de carrière et du personnel servant en vertu d'un contrat, à l'exclusion du corps des commissaires de l'air, des officiers sous contrat rattachés à ce corps et des maîtres ouvriers ; à ce titre, elle a autorité sur les centres de formation ne relevant pas d'un commandement, les écoles militaires et tout autre organisme précisé par arrêté ou instruction ;
 
 - la satisfaction des besoins en personnel cité ci-dessus et en personnel accomplissant les obligations du service national de l'armée de l'air, des états-majors et des organismes interarmées auxquels l'armée de l'air fournit une participation ;
 

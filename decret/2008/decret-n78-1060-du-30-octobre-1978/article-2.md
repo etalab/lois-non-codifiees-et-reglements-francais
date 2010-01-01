@@ -4,15 +4,15 @@ La direction des ressources humaines de l'armée de terre participe à la défin
 
 Elle est chargée d'assurer :
 
-1° Le recrutement et la formation du personnel militaire de l'armée de terre de carrière, servant en vertu d'un contrat ou exerçant une activité au titre d'un engagement à servir dans la réserve opérationnelle, à l'exception des commissaires de l'armée de terre et des maîtres ouvriers ;
+1° Le recrutement et la formation du personnel militaire de l'armée de terre de carrière, servant en vertu d'un contrat ou exerçant une activité au titre d'un engagement à servir dans la réserve opérationnelle, à l'exception des commissaires de l'armée de terre, des officiers sous contrat rattachés à ce corps et des maîtres ouvriers ;
 
 2° La satisfaction des besoins de l'armée de terre en personnel militaire de carrière, servant en vertu d'un contrat ou exerçant une activité au titre d'un engagement à servir dans la réserve opérationnelle. Elle honore en outre les besoins en personnel des états-majors et des organismes interarmées, des armées et des formations rattachées ;
 
-3° L'administration du personnel militaire de l'armée de terre de carrière, servant en vertu d'un contrat ou exerçant une activité au titre d'un engagement à servir dans la réserve opérationnelle, à l'exception des commissaires de l'armée de terre et des maîtres ouvriers ;
+3° L'administration du personnel militaire de l'armée de terre de carrière, servant en vertu d'un contrat ou exerçant une activité au titre d'un engagement à servir dans la réserve opérationnelle, à l'exception des commissaires de l'armée de terre, des officiers sous contrat rattachés à ce corps et des maîtres ouvriers ;
 
 4° La mise à jour des données relatives aux droits individuels du personnel militaire de l'armée de terre, sous réserve des attributions d'autres services ;
 
-5° L'application de la politique de gestion des réserves de l'armée de terre, à l'exception des commissaires de l'armée de terre et des maîtres ouvriers ;
+5° L'application de la politique de gestion des réserves de l'armée de terre, à l'exception des commissaires de l'armée de terre, des officiers sous contrat rattachés à ce corps et des maîtres ouvriers ;
 
 6° L'organisation des examens et des concours d'admission dans les écoles et les organismes de l'armée de terre, y compris ceux organisés au titre de l'enseignement militaire supérieur des premier et deuxième degrés, à l'exception des concours de recrutement des élèves commissaires.
 
