@@ -58,6 +58,8 @@ B. ― Le ministre chargé de l'économie peut exceptionnellement décider, nota
 
 C. ― La garantie de l'Etat prévue aux A et B est accordée à des titres de créances émis avant le 31 décembre 2009 et d'une durée maximale de cinq ans.
 
+En cas de circonstances exceptionnelles caractérisées par une perturbation grave de l'accès des établissements de crédit aux marchés financiers constatée par décret pris sur le rapport du ministre chargé de l'économie, la garantie de l'Etat prévue aux A et B est accordée à des titres de créances émis avant le 31 décembre 2010 et d'une durée maximale de cinq ans.
+
 III.-Afin de garantir la stabilité du système financier français, la garantie de l'Etat peut être accordée aux financements levés par une société dont l'Etat est l'unique actionnaire, ayant pour objet de souscrire à des titres émis par des organismes financiers et qui constituent des fonds propres réglementaires.
 
 La décision du ministre chargé de l'économie accordant la garantie de l'Etat précise, pour chaque financement garanti, notamment la durée et le plafond de la garantie accordée.
@@ -66,7 +68,7 @@ Les dirigeants de la société mentionnée au premier alinéa sont nommés par d
 
 Cette société n'est pas soumise aux dispositions de la loi n° 83-675 du 26 juillet 1983 relative à la démocratisation du secteur public.
 
-IV.-Le ministre chargé de l'économie est autorisé à accorder à titre onéreux la garantie de l'Etat aux financements levés par les sociétés Dexia SA, Dexia Banque Internationale Luxembourg, Dexia Banque Belgique et Dexia Crédit Local de France auprès d'établissements de crédit et de déposants institutionnels, ainsi qu'aux obligations et titres de créance qu'elles émettent à destination d'investisseurs institutionnels, dès lors que ces financements, obligations ou titres ont été levés ou souscrits entre le 9 octobre 2008 et le 31 octobre 2009 inclus et arrivent à échéance avant le 31 octobre 2011. Cette garantie de l'Etat s'exercera, sous réserve de l'appel conjoint en garantie du Royaume de Belgique et du Grand-Duché de Luxembourg, et dans la limite de 36, 5 % des montants éligibles.
+IV.-Le ministre chargé de l'économie est autorisé à accorder à titre onéreux la garantie de l'Etat aux financements levés par les sociétés Dexia SA, Dexia Banque Internationale Luxembourg, Dexia Banque Belgique et Dexia Crédit Local de France auprès d'établissements de crédit et de déposants institutionnels, ainsi qu'aux obligations et titres de créance qu'elles émettent à destination d'investisseurs institutionnels, dès lors que ces financements, obligations ou titres ont été levés ou souscrits entre le 9 octobre 2008 et le 31 octobre 2010 inclus et ont une durée de quatre ans au plus. Cette garantie de l'Etat s'exercera, sous réserve de l'appel conjoint en garantie du Royaume de Belgique et du Grand-Duché de Luxembourg, et dans la limite de 36, 5 % des montants éligibles.
 
 Le ministre chargé de l'économie est autorisé à accorder, à titre onéreux, la garantie de l'Etat sur les engagements pris par la société Dexia relatifs aux actifs inscrits au bilan de la société de droit américain FSA Asset Management LLC dans la mesure où ces actifs étaient inscrits au bilan de cette société au 30 septembre 2008 et que celle-ci perçoit les produits de toute nature qui sont attachés à ces actifs.
 
@@ -80,4 +82,4 @@ Cette garantie cesse de produire ses effets si la société Dexia perd le contr�
 
 V.-La garantie de l'Etat mentionnée au présent article est accordée pour un montant maximal de 360 milliards d'euros.
 
-VI.-Le Gouvernement adresse chaque trimestre au Parlement un rapport rendant compte de la mise en œuvre du présent article.
+VI.-Le Gouvernement adresse chaque semestre au Parlement un rapport rendant compte de la mise en œuvre du présent article. En cas de mise en œuvre du second alinéa du C du II, ce rapport est adressé au Parlement chaque trimestre.

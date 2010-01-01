@@ -18,7 +18,9 @@ d) Une contribution employeur versée au titre du financement des allocations te
 
 e) Les versements réalisés par les agents au titre des validations de services et de la prise en compte des périodes d'études et les récupérations des indus sur pensions ;
 
-f) Les recettes diverses ;
+f) Les versements de la Caisse nationale de retraites des agents des collectivités locales effectués en application de l'article 108 de la loi n° 2004-809 du 13 août 2004 relative aux libertés et responsabilités locales ;
+
+g) Les recettes diverses ;
 
 2° En dépenses :
 
@@ -28,9 +30,11 @@ b) Les transferts vers d'autres personnes morales, dans des conditions définies
 
 c) Les allocations temporaires d'invalidité ;
 
-d) Les intérêts moratoires ;
+d) Les versements à la Caisse nationale de retraites des agents des collectivités locales effectués en application de l'article 108 de la loi n° 2004-809 du 13 août 2004 précitée ;
 
-e) Les dépenses diverses.
+e) Les intérêts moratoires ;
+
+f) Les dépenses diverses.
 
 B. - La deuxième section, dénommée : Ouvriers des établissements industriels de l'Etat, retrace :
 

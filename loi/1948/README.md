@@ -11,3 +11,4 @@
 - [Loi n° 48-340 du 28 février 1948](loi-n-48-340-du-28-fevrier-1948)
 - [Loi n° 48-777 du 4 mai 1948](loi-n-48-777-du-4-mai-1948)
 - [Loi n° 48-89 du 14 janvier 1948](loi-n-48-89-du-14-janvier-1948)
+- [Loi n° 48-977 du 16 juin 1948](loi-n-48-977-du-16-juin-1948)
