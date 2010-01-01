@@ -12,6 +12,6 @@ Un décret fixe les modalités de prise en compte de ces activités.
 
 Lorsque le nombre de candidats ayant subi avec succès les épreuves du concours mentionné au 2° ci-dessus est inférieur au nombre de places offertes à ce concours, le jury peut reporter sur le concours sur titres avec épreuves le nombre de places non pourvues.
 
-Les concours sont organisés par les délégations régionales ou interdépartementales du Centre national de la fonction publique territoriale. Le délégué régional ou interdépartemental fixe les modalités d'organisation, les règles de discipline, le nombre de postes ouverts. Il établit la liste des candidats autorisés à concourir. Il arrête également la liste d'aptitude.
+Les concours sont organisés par les centres de gestion dans leur ressort géographique ou, le cas échéant, dans le champ défini par une convention conclue en application du troisième alinéa de l'article 26 de la loi du 26 janvier 1984 susvisée. Le président du centre de gestion fixe les modalités d'organisation, les règles de discipline, le nombre de postes ouverts et la date des épreuves. Il établit la liste des candidats autorisés à concourir. Il arrête également la liste d'aptitude.
 
-Le concours comprend des épreuves d'admissibilité et des épreuves d'admission dont les modalités sont fixées par décret et les programmes par arrêté conjoint du ministre chargé des collectivités territoriales et du ministre chargé de la culture.
+Le concours comprend des épreuves d'admissibilité et des épreuves d'admission dont les modalités et le contenu sont fixés par décret et les programmes par arrêté conjoint du ministre chargé des collectivités territoriales et du ministre chargé de la culture.

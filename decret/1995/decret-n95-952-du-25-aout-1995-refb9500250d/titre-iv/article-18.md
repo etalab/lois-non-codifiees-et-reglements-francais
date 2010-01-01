@@ -2,7 +2,7 @@
 
 Peuvent être nommés au grade de contrôleur principal de travaux, après inscription sur un tableau d'avancement :
 
-1° Après un examen professionnel, organisé par les délégations régionales ou interdépartementales du Centre national de la fonction publique territoriale, les contrôleurs justifiant de six années de services effectifs dans ce cadre d'emplois ;
+1° Après un examen professionnel, organisé par les centres de gestion, les contrôleurs justifiant de six années de services effectifs dans ce cadre d'emplois ;
 
 2° Au choix, les contrôleurs ayant atteint le 9e échelon de leur grade, dans la limite de la moitié des nominations prononcées en application du 1° ci-dessus.
 

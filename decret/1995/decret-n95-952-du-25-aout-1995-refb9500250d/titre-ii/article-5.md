@@ -6,9 +6,9 @@ Sont inscrits sur la liste d'aptitude prévue au 1° de l'article 4 les candidat
 
 2° A l'un ou l'autre des deux concours internes suivants, pour 50 % au plus des postes à pourvoir :
 
-- un concours ouvert, pour la moitié au moins des postes offerts au titre du 2°, aux membres du cadre d'emplois des agents de maîtrise territoriaux ;
+-un concours ouvert, pour la moitié au moins des postes offerts au titre du 2°, aux membres du cadre d'emplois des agents de maîtrise territoriaux ;
 
-- un concours ouvert aux fonctionnaires et agents publics ainsi qu'aux agents en fonction dans une organisation internationale intergouvernementale.
+-un concours ouvert aux fonctionnaires et agents publics ainsi qu'aux agents en fonction dans une organisation internationale intergouvernementale.
 
 Les candidats aux concours internes doivent justifier, au 1er janvier de l'année du concours, de quatre ans au moins de services publics effectifs, compte non tenu des périodes de stage ou de formation dans une école ou un établissement ouvrant accès à un grade de la fonction publique ;
 
@@ -20,6 +20,6 @@ Un décret fixe les modalités de prise en compte de ces activités.
 
 Lorsque le nombre de candidats ayant subi avec succès les épreuves de l'un des concours mentionnés ci-dessus est inférieur au nombre de places offertes à ce concours, le jury peut modifier le nombre de places aux concours externe et interne, dans la limite de 15 %.
 
-Les concours sont organisés par les délégations régionales ou interdépartementales du Centre national de la fonction publique territoriale. Le délégué régional ou interdépartemental fixe les modalités d'organisation, les règles de discipline, le nombre de postes ouverts. Il établit la liste des candidats autorisés à concourir. Il arrête également la liste d'aptitude.
+Les concours sont organisés par les centres de gestion dans leur ressort géographique ou, le cas échéant, dans le champ défini par une convention conclue en application du troisième alinéa de l'article 26 de la loi du 26 janvier 1984 susvisée. Le président du centre de gestion fixe les modalités d'organisation, les règles de discipline, le nombre de postes ouverts et la date des épreuves. Il établit la liste des candidats autorisés à concourir. Il arrête également la liste d'aptitude.
 
-Les concours comprennent des épreuves d'admissibilité et des épreuves d'admission dont les modalités sont fixées par décret. Les programmes sont fixés par arrêté du ministre chargé des collectivités territoriales.
+Les concours comprennent des épreuves d'admissibilité et des épreuves d'admission dont les modalités et le contenu sont fixés par décret. Les programmes sont fixés par arrêté du ministre chargé des collectivités territoriales.

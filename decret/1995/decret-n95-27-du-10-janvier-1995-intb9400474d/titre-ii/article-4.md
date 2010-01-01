@@ -10,8 +10,8 @@ Sont inscrits sur la liste d'aptitude prévue au 1° de l'article 3 ci-dessus le
 
 Les activités professionnelles mentionnées ci-dessus doivent correspondre à la conduite et à la coordination, sur le plan administratif, social, technique, pédagogique et éducatif, d'activités physiques et sportives ainsi qu'à l'encadrement des personnes qui les pratiquent.
 
-Les concours sont organisés par les délégations régionales ou interdépartementales du Centre national de la fonction publique territoriale. Le délégué régional ou interdépartemental fixe les modalités d'organisation, les règles de discipline, le nombre de postes ouverts. Il établit la liste des candidats autorisés à concourir. Il arrête également la liste d'aptitude.
+Les concours sont organisés par les centres de gestion dans leur ressort géographique ou, le cas échéant, dans le champ défini par une convention conclue en application du troisième alinéa de l'article 26 de la loi du 26 janvier 1984 susvisée. Le président du centre de gestion fixe les modalités d'organisation, les règles de discipline, le nombre de postes ouverts et la date des épreuves. Il établit la liste des candidats autorisés à concourir. Il arrête également la liste d'aptitude.
 
 Lorsque le nombre des candidats ayant subi avec succès les épreuves de l'un des trois concours mentionnés ci-dessus est inférieur au nombre des places offertes à ce concours, le jury peut modifier la répartition des places entre les deux concours dans la limite de 15 p. 100 des places offertes à l'un ou l'autre des concours ou d'une place au moins.
 
-Les concours comprennent des épreuves d'admissibilité et des épreuves d'admission dont les modalités sont fixées par décret. Les programmes sont fixés par arrêté du ministre chargé des collectivités territoriales.
+Les concours comprennent des épreuves d'admissibilité et des épreuves d'admission dont les modalités et le contenu sont fixés par décret. Les programmes sont fixés par arrêté du ministre chargé des collectivités territoriales.

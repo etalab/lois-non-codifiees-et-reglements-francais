@@ -16,10 +16,10 @@ b) Pour la spécialité Arts plastiques :
 
 Ces concours sont également ouverts pour la spécialité Arts plastiques aux candidats justifiant d'une pratique artistique appréciée par le ministre chargé de la culture, après avis d'une commission créée par arrêté du même ministre.
 
-Le nombre des places offertes, dans chaque spécialité, aux concours internes, mentionnés aux 2° du a et du b du présent article, est égal à 50 p. 100 au plus des postes à pourvoir dans la spécialité.
+Le nombre des places offertes, dans chaque spécialité, aux concours internes, mentionnés aux 2° du a et du b du présent article, est égal à 50 % au plus des postes à pourvoir dans la spécialité.
 
-Au cas où le nombre de candidats ayant subi avec succès les épreuves d'un concours externe ou d'un concours interne est inférieur au nombre des places offertes à ce concours, le jury peut modifier la répartition des places entre les deux concours, dans la limite de 15 p. 100 au plus des places offertes à l'un ou l'autre des concours ou d'une place au moins.
+Au cas où le nombre de candidats ayant subi avec succès les épreuves d'un concours externe ou d'un concours interne est inférieur au nombre des places offertes à ce concours, le jury peut modifier la répartition des places entre les deux concours, dans la limite de 15 % au plus des places offertes à l'un ou l'autre des concours ou d'une place au moins.
 
-Le Centre national de la fonction publique territoriale est chargé de la coordination générale de l'organisation des concours mentionnés aux a et b ci-dessus.    Les concours sur épreuves comprennent des épreuves d'admissibilité et des épreuves d'admission dont les modalités sont fixées par décret et les programmes par arrêté des ministres chargés des collectivités territoriales et de la culture.
+Les concours sur épreuves comprennent des épreuves d'admissibilité et des épreuves d'admission dont les modalités et le contenu sont fixés par décret et les programmes par arrêté conjoint des ministres chargés des collectivités territoriales et de la culture.
 
-Les modalités d'organisation des concours, les règles de discipline et la date d'ouverture des épreuves ainsi que la liste des candidats admis à y prendre part sont fixées par le président du Centre national de la fonction publique territoriale. Celui-ci arrête également les listes d'aptitude.
+Les concours sont organisés par les centres de gestion dans les conditions fixées par la charte prévue à l'article 14 de la loi du 26 janvier 1984 susvisée ou, en l'absence de charte, par le centre de gestion coordonnateur mentionné à la seconde phrase de l'avant-dernier alinéa du même article. Le président du centre de gestion fixe les modalités d'organisation, les règles de discipline, le nombre de postes ouverts et la date des épreuves. Il établit la liste des candidats autorisés à concourir. Il arrête également la liste d'aptitude.

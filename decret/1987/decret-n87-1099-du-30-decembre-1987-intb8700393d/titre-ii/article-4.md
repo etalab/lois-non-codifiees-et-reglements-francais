@@ -26,6 +26,6 @@ d) Animation ;
 
 e) Urbanisme et développement des territoires.
 
-Les concours sont organisés par les délégations régionales ou interdépartementales du Centre national de la fonction publique territoriale. Le délégué régional ou interdépartemental fixe les modalités d'organisation, les règles de discipline, le nombre de postes ouverts. Il établit la liste des candidats autorisés à concourir. Il arrête également la liste d'aptitude.
+Les concours sont organisés par les centres de gestion dans les conditions fixées par la charte prévue à l'article 14 de la loi du 26 janvier 1984 susvisée ou, en l'absence de charte, par le centre de gestion coordonnateur mentionné à la seconde phrase de l'avant-dernier alinéa du même article. Le président du centre de gestion fixe les modalités d'organisation, les règles de discipline, le nombre de postes ouverts et la date des épreuves. Il établit la liste des candidats autorisés à concourir. Il arrête également la liste d'aptitude.
 
-Les concours comprennent des épreuves d'admissibilité et des épreuves d'admission dont les modalités et les programmes sont fixés par décret.
+Les concours comprennent des épreuves d'admissibilité et d'admission dont les modalités et le contenu sont fixés par décret. Les programmes sont fixés par arrêté du ministre chargé des collectivités territoriales.

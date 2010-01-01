@@ -4,4 +4,4 @@ Peuvent être inscrits sur la liste d'aptitude prévue au 2° de l'article 3, le
 
 Les fonctionnaires territoriaux mentionnés à l'alinéa précédent doivent avoir été admis à un examen professionnel.
 
-L'examen professionnel comporte des épreuves dont les modalités et les programmes sont fixés par décret. Il est organisé par les délégations régionales ou interdépartementales du Centre national de la fonction publique territoriale.
+L'examen professionnel comporte des épreuves dont les modalités et le contenu sont fixés par décret et les programmes par arrêté du ministre chargé des collectivités territoriales. Il est organisé par les centres de gestion.
