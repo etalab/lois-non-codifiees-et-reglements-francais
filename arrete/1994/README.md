@@ -434,7 +434,6 @@
 - [Arrêté du 14 décembre 1995 (DEFP9502163A)](arrete-du-14-decembre-1995-defp9502163a)
 - [Arrêté du 14 février 1994 (ENVG9430043A)](arrete-du-14-fevrier-1994-envg9430043a)
 - [Arrêté du 14 février 1994 (SPSS9400603A)](arrete-du-14-fevrier-1994-spss9400603a)
-- [Arrêté du 14 janvier 1994 (AGRG9301669A)](arrete-du-14-janvier-1994-agrg9301669a)
 - [Arrêté du 14 janvier 1994 (DEFT9401094A)](arrete-du-14-janvier-1994-deft9401094a)
 - [Arrêté du 14 janvier 1994 (DEFT9401095A)](arrete-du-14-janvier-1994-deft9401095a)
 - [Arrêté du 14 janvier 1994 (INDP9400056A)](arrete-du-14-janvier-1994-indp9400056a)

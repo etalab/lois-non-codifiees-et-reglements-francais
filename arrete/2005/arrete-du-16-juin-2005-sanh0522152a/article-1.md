@@ -32,8 +32,6 @@ La liste des centres de lutte contre le cancer prévue à l'article L. 6162-3 du
 
 - centre Henri Becquerel, 76038 Rouen ;
 
-- centre René Huguenin, 92210 Saint-Cloud ;
-
 - centre Paul Strauss, 67065 Strasbourg ;
 
 - institut Claudius Regaud, 31052 Toulouse ;

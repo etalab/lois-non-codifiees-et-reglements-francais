@@ -210,6 +210,7 @@
 - [Arrêté du 21 mars 2006 (MAEF0610000A)](arrete-du-21-mars-2006-maef0610000a)
 - [Arrêté du 21 novembre 2006 (SOCU0611885A)](arrete-du-21-novembre-2006-socu0611885a)
 - [Arrêté du 21 septembre 2006 (AGRG0601963A)](arrete-du-21-septembre-2006-agrg0601963a)
+- [Arrêté du 22 août 2006 (DEFD0601086A)](arrete-du-22-aout-2006-defd0601086a)
 - [Arrêté du 22 août 2006 (DEFD0601087A)](arrete-du-22-aout-2006-defd0601087a)
 - [Arrêté du 22 août 2006 (SOCT0611445A)](arrete-du-22-aout-2006-soct0611445a)
 - [Arrêté du 22 décembre 2006 (DEFP0601711A)](arrete-du-22-decembre-2006-defp0601711a)

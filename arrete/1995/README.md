@@ -757,7 +757,6 @@
 - [Arrêté du 20 février 1995 (SANH9500640A)](arrete-du-20-fevrier-1995-sanh9500640a)
 - [Arrêté du 20 février 1995 (SPSH9500620A)](arrete-du-20-fevrier-1995-spsh9500620a)
 - [Arrêté du 20 janvier 1982](arrete-du-20-janvier-1982)
-- [Arrêté du 20 janvier 1995 (AGRG9500141A)](arrete-du-20-janvier-1995-agrg9500141a)
 - [Arrêté du 20 janvier 1995 (BUDD9550001A)](arrete-du-20-janvier-1995-budd9550001a)
 - [Arrêté du 20 janvier 1995 (INDD9500076A)](arrete-du-20-janvier-1995-indd9500076a)
 - [Arrêté du 20 janvier 1995 (INTD9500026A)](arrete-du-20-janvier-1995-intd9500026a)

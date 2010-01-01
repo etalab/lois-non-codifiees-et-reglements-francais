@@ -62,7 +62,6 @@
 - [Arrêté du 12 janvier 1984](arrete-du-12-janvier-1984)
 - [Arrêté du 12 juillet 1985](arrete-du-12-juillet-1985)
 - [Arrêté du 12 novembre 1984](arrete-du-12-novembre-1984)
-- [Arrêté du 12 novembre 1985](arrete-du-12-novembre-1985)
 - [Arrêté du 12 octobre 1983](arrete-du-12-octobre-1983)
 - [Arrêté du 12 septembre 1985](arrete-du-12-septembre-1985)
 - [Arrêté du 13 août 1985](arrete-du-13-aout-1985)

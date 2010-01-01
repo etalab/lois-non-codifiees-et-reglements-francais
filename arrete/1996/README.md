@@ -55,7 +55,6 @@
 - [Arrêté du 2 mai 1996 (TASP9621419A)](arrete-du-2-mai-1996-tasp9621419a)
 - [Arrêté du 3 août 1999 (DEFE9955025A)](arrete-du-3-aout-1999-defe9955025a)
 - [Arrêté du 3 avril 1996 (AGRA9600341A)](arrete-du-3-avril-1996-agra9600341a)
-- [Arrêté du 3 avril 1996 (AGRG9600766A)](arrete-du-3-avril-1996-agrg9600766a)
 - [Arrêté du 3 avril 1996 (ECOP9600172A)](arrete-du-3-avril-1996-ecop9600172a)
 - [Arrêté du 3 avril 1996 (ENVP9650134A)](arrete-du-3-avril-1996-envp9650134a)
 - [Arrêté du 3 décembre 1996 (ECOR9605015A)](arrete-du-3-decembre-1996-ecor9605015a)

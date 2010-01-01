@@ -492,7 +492,6 @@
 - [Arrêté du 14 mai 1992 (TEFE9204798A)](arrete-du-14-mai-1992-tefe9204798a)
 - [Arrêté du 15 avril 1992 (ACVA9210040A)](arrete-du-15-avril-1992-acva9210040a)
 - [Arrêté du 15 avril 1992 (ACVA9210041A)](arrete-du-15-avril-1992-acva9210041a)
-- [Arrêté du 15 avril 1992 (AGRG9200861A)](arrete-du-15-avril-1992-agrg9200861a)
 - [Arrêté du 15 décembre 1992 (BUDR9205043A)](arrete-du-15-decembre-1992-budr9205043a)
 - [Arrêté du 15 décembre 1992 (EQUT9201635A)](arrete-du-15-decembre-1992-equt9201635a)
 - [Arrêté du 15 décembre 1992 (SANM9203291A)](arrete-du-15-decembre-1992-sanm9203291a)
