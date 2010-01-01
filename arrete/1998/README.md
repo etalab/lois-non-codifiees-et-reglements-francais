@@ -286,7 +286,6 @@
 - [Arrêté du 10 décembre 1998 (EQUP9801409A)](arrete-du-10-decembre-1998-equp9801409a)
 - [Arrêté du 10 décembre 1998 (MESP9823941A)](arrete-du-10-decembre-1998-mesp9823941a)
 - [Arrêté du 10 décembre 1998 (MESS9823730A)](arrete-du-10-decembre-1998-mess9823730a)
-- [Arrêté du 10 février 1998 (ATEP9870036A)](arrete-du-10-fevrier-1998-atep9870036a)
 - [Arrêté du 10 février 1998 (DEFA9851010A)](arrete-du-10-fevrier-1998-defa9851010a)
 - [Arrêté du 10 février 1998 (DEFD9801145A)](arrete-du-10-fevrier-1998-defd9801145a)
 - [Arrêté du 10 février 1998 (MESP9820577A)](arrete-du-10-fevrier-1998-mesp9820577a)
