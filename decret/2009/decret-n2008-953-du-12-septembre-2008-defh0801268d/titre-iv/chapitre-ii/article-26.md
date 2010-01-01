@@ -6,4 +6,4 @@ Les sergents-chefs et maîtres, titulaires d'un brevet supérieur de spécialist
 
 Les sous-officiers et officiers mariniers de carrière des armées reçus au concours organisé en 2008 au titre du recrutement des majors en 2009 sont promus au grade de major à partir du 1er janvier 2009.
 
-Le pourcentage de l'effectif du grade de major ayant accès à l'échelon exceptionnel de ce grade, prévu au second alinéa de l'article 10, est fixé par année jusqu'en 2014 par arrêté conjoint du ministre de la défense et des ministres chargés du budget et de la fonction publique.
+Le pourcentage de l'effectif du grade de major ayant accès à l'échelon exceptionnel de ce grade, prévu au second alinéa de l'article 10, est fixé par année jusqu'en 2014 par décret.

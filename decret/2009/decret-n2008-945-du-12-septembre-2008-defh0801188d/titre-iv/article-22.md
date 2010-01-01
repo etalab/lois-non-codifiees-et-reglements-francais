@@ -1,6 +1,6 @@
 # Article 22
 
-Les membres de la commission prévue à l'article L. 4136-3 du code de la défense et, le cas échéant, leurs suppléants sont désignés, pour chacun des corps techniques et administratifs, par arrêté du ministre de la défense.
+Les membres de la commission prévue à l'article L. 4136-3 du code de la défense et, le cas échéant, leurs suppléants sont désignés, pour chacun des corps techniques et administratifs, par arrêté du ministre de la défense , ou du ministre de l'intérieur pour le corps technique et administratif de la gendarmerie nationale.
 
 Elle comprend de droit :
 
@@ -16,4 +16,4 @@ Elle comprend de droit :
 
 En cas de partage égal des voix, celle du président est prépondérante.
 
-La commission présente au ministre de la défense ses propositions d'inscription aux tableaux d'avancement aux grades d'officiers supérieurs ainsi que pour le recrutement au titre du c du 1° de l'article 4, du 2° de l'article 4 et du 3° de l'article 5.
+La commission présente au ministre de la défense, ou au ministre de l'intérieur pour le corps technique et administratif de la gendarmerie nationale, ses propositions d'inscription aux tableaux d'avancement aux grades d'officiers supérieurs ainsi que pour le recrutement au titre du c du 1° de l'article 4, du 2° de l'article 4 et du 3° de l'article 5.

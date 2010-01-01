@@ -10,8 +10,8 @@ Ils doivent réunir les conditions suivantes :
 
 3° Et détenir un brevet élémentaire de spécialiste ou de technicien.
 
-Le recrutement des sous-officiers et officiers mariniers de carrière est effectué après avis d'un conseil dont la composition est fixée par arrêté du ministre de la défense. En cas de partage égal des voix, celle du président est prépondérante.
+Le recrutement des sous-officiers et officiers mariniers de carrière est effectué après avis d'un conseil dont la composition est fixée par arrêté du ministre de la défense, ou du ministre de l'intérieur pour les sous-officiers du corps de soutien technique et administratif de la gendarmerie nationale. En cas de partage égal des voix, celle du président est prépondérante.
 
 Les intéressés sont admis à servir dans le corps avec leur grade et leur ancienneté de grade et de service et, s'il y a lieu, dans l'arme, le service ou la spécialité auquel ils appartiennent.
 
-Ils prennent rang dans l'ordre de leur ancienneté de grade. A égalité d'ancienneté de grade, le rang se détermine par l'ancienneté dans le grade précédent, s'il y a lieu, par l'ancienneté dans les grades inférieurs et, en dernier ressort, suivant l'ordre décroissant des âges.
+Ils prennent rang dans l'ordre de leur ancienneté de grade.A égalité d'ancienneté de grade, le rang se détermine par l'ancienneté dans le grade précédent, s'il y a lieu, par l'ancienneté dans les grades inférieurs et, en dernier ressort, suivant l'ordre décroissant des âges.

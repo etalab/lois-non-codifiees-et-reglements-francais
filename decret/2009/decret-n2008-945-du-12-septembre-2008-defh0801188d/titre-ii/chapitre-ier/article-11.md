@@ -1,6 +1,6 @@
 # Article 11
 
-Un arrêté du ministre de la défense fixe :
+Un arrêté du ministre de la défense, ou du ministre de l'intérieur pour le corps technique et administratif de la gendarmerie nationale, fixe :
 
 1° La liste des titres reconnus équivalents aux diplômes exigés pour être candidats aux admissions et aux recrutements prévus par le présent décret ;
 

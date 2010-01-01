@@ -6,6 +6,6 @@ Les sous-officiers et officiers mariniers de carrière des corps mentionnés à 
 
 2° Deuxième niveau, les sous-officiers titulaires d'un brevet supérieur de spécialiste ou de technicien.
 
-La liste des brevets ouvrant l'accès aux échelles de solde n° 3 et n° 4 et les conditions requises pour leur obtention sont fixées par arrêté du ministre de la défense. Les sous-officiers de carrière de l'armée de terre de la brigade de sapeurs-pompiers de Paris ne sont pas soumis aux dispositions du présent alinéa.
+La liste des brevets ouvrant l'accès aux échelles de solde n° 3 et n° 4 et les conditions requises pour leur obtention sont fixées par arrêté du ministre de la défense, ou du ministre de l'intérieur pour les sous-officiers du corps de soutien technique et administratif de la gendarmerie nationale. Les sous-officiers de carrière de l'armée de terre de la brigade de sapeurs-pompiers de Paris ne sont pas soumis aux dispositions du présent alinéa.
 
-Un troisième niveau de qualification est accessible aux sous-officiers et officiers mariniers de carrière de ces corps selon des modalités propres à chaque armée et formations rattachées fixées par arrêté du ministre de la défense.
+Un troisième niveau de qualification est accessible aux sous-officiers et officiers mariniers de carrière de ces corps selon des modalités propres à chaque armée et formations rattachées fixées par arrêté du ministre de la défense, ou du ministre de l'intérieur pour les sous-officiers du corps de soutien technique et administratif de la gendarmerie nationale.

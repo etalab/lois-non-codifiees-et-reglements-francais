@@ -1,6 +1,6 @@
 # Article 6
 
-Le militaire engagé peut être recruté dans les conditions d'aptitude et, le cas échéant, d'âge et d'ancienneté, ainsi que selon les modalités fixées par arrêté du ministre de la défense :
+Le militaire engagé peut être recruté dans les conditions d'aptitude et, le cas échéant, d'âge et d'ancienneté, ainsi que selon les modalités fixées par arrêté du ministre de la défense, ou du ministre de l'intérieur pour les militaires engagés de la gendarmerie nationale :
 
 1° Directement au premier grade de militaire du rang ;
 

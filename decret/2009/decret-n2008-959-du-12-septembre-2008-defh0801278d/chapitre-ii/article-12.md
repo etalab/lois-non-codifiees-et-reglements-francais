@@ -1,3 +1,3 @@
 # Article 12
 
-Le grade et l'échelon et, le cas échéant, l'échelle de solde du militaire commissionné sont attribués, en fonction du niveau de qualification et d'expérience professionnelle de l'intéressé, par le ministre de la défense sur proposition du chef d'état-major de l'armée intéressée ou de l'autorité correspondante pour les formations rattachées.
+Le grade et l'échelon et, le cas échéant, l'échelle de solde du militaire commissionné sont attribués, en fonction du niveau de qualification et d'expérience professionnelle de l'intéressé, par le ministre de la défense, ou le ministre de l'intérieur pour les militaires commissionnés de la gendarmerie nationale sur proposition du chef d'état-major de l'armée intéressée ou de l'autorité correspondante pour les formations rattachées.

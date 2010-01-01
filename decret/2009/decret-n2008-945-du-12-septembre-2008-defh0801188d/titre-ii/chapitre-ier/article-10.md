@@ -4,4 +4,4 @@ Les conditions de diplôme exigées des candidats aux recrutements par concours 
 
 Les conditions d'âge et d'ancienneté de service sont appréciées au 1er janvier de l'année au titre de laquelle est organisé le concours ou, pour les recrutements au choix, au 1er janvier de l'année du recrutement. Les conditions d'âge sont reculées d'un temps égal à celui effectué au titre du volontariat dans les armées, sans toutefois pouvoir excéder un an.
 
-Les conditions d'aptitude exigées des candidats pour se présenter aux concours prévus par le présent décret et être recrutés sont déterminées par arrêté du ministre de la défense.
+Les conditions d'aptitude exigées des candidats pour se présenter aux concours prévus par le présent décret et être recrutés sont déterminées par arrêté du ministre de la défense, ou du ministre de l'intérieur pour le corps technique et administratif de la gendarmerie nationale.
