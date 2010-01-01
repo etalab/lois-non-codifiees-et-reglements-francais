@@ -23,7 +23,6 @@
 - [Décret n°2006-979 du 1 août 2006 (JUSB0610444D)](decret-n2006-979-du-1-aout-2006-jusb0610444d)
 - [Décret n°2007-1166 du 1 août 2007 (SJSS0761720D)](decret-n2007-1166-du-1-aout-2007-sjss0761720d)
 - [Décret n°2007-1169 du 1 août 2007 (JUSD0760009D)](decret-n2007-1169-du-1-aout-2007-jusd0760009d)
-- [Décret n°2007-140 du 1 février 2007 (INTA0700018D)](decret-n2007-140-du-1-fevrier-2007-inta0700018d)
 - [Décret n°2007-1407 du 1 octobre 2007 (IOCM0763710D)](decret-n2007-1407-du-1-octobre-2007-iocm0763710d)
 - [Décret n°2007-1408 du 1 octobre 2007 (ECEP0762357D)](decret-n2007-1408-du-1-octobre-2007-ecep0762357d)
 - [Décret n°2007-1409 du 1 octobre 2007 (AGRP0755450D)](decret-n2007-1409-du-1-octobre-2007-agrp0755450d)
