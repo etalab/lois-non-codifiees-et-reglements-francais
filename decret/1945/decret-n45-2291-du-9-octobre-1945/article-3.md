@@ -8,4 +8,4 @@ Pour les fonctionnaires nommés dans les corps et services visés à l'article 1
 
 Les fonctionnaires qui ont souscrit l'engagement visé ci-dessus ne peuvent en être relevés que par décret pris après avis du conseil permanent de l'administration civile, pour des motifs impérieux tirés soit de leur état de santé, soit des nécessités d'ordre familial.
 
-En cas de rupture de leur engagement, ces fonctionnaires sont révoqués et doivent verser au Trésor une indemnité égale à deux fois leur dernier traitement annuel.
+En cas de rupture de leur engagement, ces fonctionnaires sont révoqués et doivent verser au Trésor une indemnité égale à deux fois leur dernier traitement annuel. Cette indemnité est réduite de 20 % pour chaque année après la cinquième année.
