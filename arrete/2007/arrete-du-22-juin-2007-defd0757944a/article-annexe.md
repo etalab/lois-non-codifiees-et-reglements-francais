@@ -1,1091 +1,771 @@
 # Article Annexe
 
-<div>
 <table>
 <tbody>
 <tr>
-<td width="227">
-<p align="center">ORGANISMES OU AUTORITÉS </p>
-<p align="center">dont relèvent les personnes habilitées </p>
+<td width="247">
+<p align="center">ORGANISMES OU AUTORITÉS<br/>dont relèvent les personnes habilitées</p>
 </td>
-<td width="227">
-<p align="center">PERSONNES HABILITÉES </p>
+<td width="304">
+<p align="center">PERSONNES HABILITÉES</p>
 </td>
-<td width="227">
-<p align="center">MONTANT MAXIMUM DES MARCHÉS (1) </p>
+<td width="152">
+<p align="center">MONTANT MAXIMUM<br/>des marchés (1)</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="227"/>
-<td valign="top" width="227">
-<p align="center">Directions et services relevant du chef d'état-major des armées </p>
+<td colspan="3" width="702">
+<p align="center">Directions et services relevant du chef d'état-major des armées</p>
 </td>
-<td valign="top" width="227">
-<p align="center">
-<b/>
-</p>
-<br/>
-</td>
-</tr>
-<tr>
-<td rowspan="7" valign="top" width="227">
-<p>Direction centrale du service de santé des armées. </p>
-</td>
-<td valign="top" width="227">
-<p>Directeur des approvisionnements et des établissements centraux du service de santé des armées </p>
-</td>
-<td valign="top" width="227">
-<p align="center">Sans limitation </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="227">
-<p>Directeurs régionaux du service de santé des armées </p>
-</td>
-<td valign="top" width="227">
-<p align="center">Dans les limites mentionnées en (2) </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="227">
-<p>Directeurs interarmées du service de santé outre-mer </p>
-</td>
-<td valign="top" width="227">
-<p align="center">Dans les limites mentionnées en (2) </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="227">
-<p>Commandants des écoles de formation et directeur de l'Ecole du Val-de-Grâce </p>
-</td>
-<td valign="top" width="227">
-<p align="center">Dans les limites mentionnées en (2) </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="227">
-<p>Directeurs des instituts du service de santé des armées </p>
-</td>
-<td valign="top" width="227">
-<p align="center">Dans les limites mentionnées en (2) </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="227">
-<p>Directeur du centre de recherches du service de santé des armées </p>
-</td>
-<td valign="top" width="227">
-<p align="center">Dans les limites mentionnées en (2) </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="227">
-<p>Médecins-chefs des hôpitaux des armées en métropole </p>
-</td>
-<td valign="top" width="227">
-<p align="center">Dans les limites mentionnées en (2) </p>
-</td>
-</tr>
-<tr>
-<td rowspan="7" valign="top" width="227">
-<p>Direction centrale de la direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense. </p>
-</td>
-<td valign="top" width="227">
-<p>Directeur de la direction interarmées des réseaux d'infrastructure et des systèmes d'information-Ile-de-France </p>
-</td>
-<td valign="top" width="227">
-<p align="center">Sans limitation </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="227">
-<p>Directeur de la direction interarmées des réseaux d'infrastructure et des systèmes d'information-Metz </p>
-</td>
-<td valign="top" width="227">
-<p align="center">Sans limitation </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="227">
-<p>Directeur de la direction interarmées des réseaux d'infrastructure et des systèmes d'information-Lyon </p>
-</td>
-<td valign="top" width="227">
-<p align="center">Sans limitation </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="227">
-<p>Directeur de la direction interarmées des réseaux d'infrastructure et des systèmes d'information-Bordeaux </p>
-</td>
-<td valign="top" width="227">
-<p align="center">Sans limitation </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="227">
-<p>Directeur de la direction interarmées des réseaux d'infrastructure et des systèmes d'information-Rennes </p>
-</td>
-<td valign="top" width="227">
-<p align="center">Sans limitation </p>
-</td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Commandant du 43e bataillon de transmissions </p>
-</td>
-<td valign="top" width="227">
-<p align="center">MAPA × 30 </p>
+<td rowspan="7" valign="top" width="247">
+<p>Direction centrale du service de santé des armées</p>
 </td>
-</tr>
-<tr>
-<td valign="top" width="227">
-<p>Directeur de la direction interarmées des réseaux d'infrastructure et des systèmes d'information-Saint-Denis-de-la-Réunion </p>
+<td valign="top" width="304">
+<p>Directeur des approvisionnements en produits de santé</p>
 </td>
-<td valign="top" width="227">
-<p align="center">MAPA × 1 </p>
+<td valign="top" width="152">
+<p>Sans limitation</p>
 </td>
 </tr>
 <tr>
-<td rowspan="4" valign="top" width="227">
-<p>Direction centrale du service des essences des armées. </p>
+<td valign="top" width="304">
+<p>Directeurs régionaux du service de santé des armées</p>
 </td>
-<td valign="top" width="227">
-<p>Directeur de l'établissement administratif et technique du service des essences des armées </p>
+<td valign="top" width="152">
+<p>Dans les limites mentionnées en (2)</p>
 </td>
-<td valign="top" width="227">
-<p align="center">Sans limitation </p>
-</td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Directeurs régionaux interarmées du service des essences des armées </p>
+<td valign="top" width="304">
+<p>Directeurs interarmées du service de santé outre-mer</p>
 </td>
-<td valign="top" width="227">
-<p align="center">MAPA × 20 </p>
+<td valign="top" width="152">
+<p>Dans les limites mentionnées en (2)</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Directeur de la base pétrolière interarmées </p>
+<td valign="top" width="304">
+<p>Commandants des écoles de formation et directeur de l'école du Val-de-Grâce</p>
 </td>
-<td valign="top" width="227">
-<p align="center">MAPA × 20 </p>
+<td valign="top" width="152">
+<p>Dans les limites mentionnées en (2)</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Directeurs du laboratoire du service des essences des armées </p>
+<td valign="top" width="304">
+<p>Directeurs des instituts du service de santé des armées</p>
 </td>
-<td valign="top" width="227">
-<p align="center">MAPA × 20 </p>
+<td valign="top" width="152">
+<p>Dans les limites mentionnées en (2)</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Divers. </p>
-</td>
-<td valign="top" width="227">
-<p>Commandants des formations administratives et chefs des organismes administrés comme telles </p>
+<td valign="top" width="304">
+<p>Directeur du centre de recherches du service de santé des armées</p>
 </td>
-<td valign="top" width="227">
-<p align="center">MAPA × 0, 66 </p>
+<td valign="top" width="152">
+<p>Dans les limites mentionnées en (2)</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="227"/>
-<td valign="top" width="227">
-<p align="center">Armée de terre </p>
+<td valign="top" width="304">
+<p>Médecins-chefs des hôpitaux des armées en métropole</p>
 </td>
-<td valign="top" width="227">
-<p align="center">
-<b/>
-</p>
-<br/>
+<td valign="top" width="152">
+<p>Dans les limites mentionnées en (2)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" valign="top" width="227">
-<p>Chef d'état-major de l'armée de terre. </p>
+<td rowspan="7" valign="top" width="247">
+<p>Direction centrale de la direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense</p>
 </td>
-<td valign="top" width="227">
-<p>Directeur de la section technique de l'armée de terre (3) </p>
+<td valign="top" width="304">
+<p>Directeurs des directions interarmées des réseaux d'infrastructure et des systèmes d'information - Ile-de-France, Metz, Lyon, Bordeaux, Rennes, Toulon et Brest</p>
 </td>
-<td valign="top" width="227">
-<p align="center">MAPA × 1 </p>
+<td valign="top" width="152">
+<p>Sans limitation</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Commandants des régions terre Sud-Est et Ile-de ­ France (4) </p>
+<td valign="top" width="304">
+<p>Directeur de la direction interarmées des réseaux d'infrastructure et des systèmes d'information - Houilles</p>
 </td>
-<td valign="top" width="227">
-<p align="center">Sans limitation </p>
+<td valign="top" width="152">
+<p>MAPA × 100</p>
 </td>
 </tr>
 <tr>
-<td rowspan="7" valign="top" width="227">
-<p>Direction centrale du commissariat de l'armée de terre. </p>
+<td valign="top" width="304">
+<p>Commandant du 43e bataillon de transmissions</p>
 </td>
-<td valign="top" width="227">
-<p>Directeur du service central d'études et de réalisations </p>
+<td valign="top" width="152">
+<p>MAPA × 30</p>
 </td>
-<td valign="top" width="227">
-<p align="center">Sans limitation </p>
-</td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Directeurs régionaux du commissariat </p>
+<td valign="top" width="304">
+<p>Directeur de la direction interarmées des réseaux d'infrastructure et des systèmes d'information - Cherbourg</p>
 </td>
-<td valign="top" width="227">
-<p align="center">Sans limitation </p>
+<td valign="top" width="152">
+<p>MAPA × 1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Directeurs des commissariats hors métropole </p>
+<td valign="top" width="304">
+<p>Directeur de la direction interarmées des réseaux d'infrastructure et des systèmes d'information - Saint-Denis de La Réunion</p>
 </td>
-<td valign="top" width="227">
-<p align="center">MAPA × 60 </p>
+<td valign="top" width="152">
+<p>MAPA × 1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Directeur du commissariat de la base de transit interarmées </p>
+<td valign="top" width="304">
+<p>Directeur de la direction interarmées des réseaux d'infrastructure et des systèmes d'information - Soutien Bicêtre</p>
 </td>
-<td valign="top" width="227">
-<p align="center">MAPA × 20 </p>
+<td valign="top" width="152">
+<p>MAPA × 0,66</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Directeur du service interarmées de liquidation des transports </p>
+<td valign="top" width="304">
+<p>Commandant du 8e régiment de transmissions de Suresnes</p>
 </td>
-<td valign="top" width="227">
-<p align="center">MAPA × 1 </p>
+<td valign="top" width="152">
+<p>MAPA × 0,66</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Directeur du commissariat administratif </p>
-</td>
-<td valign="top" width="227">
-<p align="center">MAPA × 1 </p>
+<td rowspan="19" valign="top" width="247">
+<p>Direction centrale du service du commissariat des armées</p>
 </td>
-</tr>
-<tr>
-<td valign="top" width="227">
-<p>Directeurs des commissariats de l'armée de terre </p>
+<td valign="top" width="304">
+<p>Directeur du service central d'études et de réalisations</p>
 </td>
-<td valign="top" width="227">
-<p align="center">MAPA × 1 </p>
+<td valign="top" width="152">
+<p>Sans limitation</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Direction centrale du matériel de l'armée de terre. </p>
+<td valign="top" width="304">
+<p>Directeurs du commissariat en région terre</p>
 </td>
-<td valign="top" width="227">
-<p>Directeur du service central des achats de la maintenance </p>
+<td valign="top" width="152">
+<p>Sans limitation</p>
 </td>
-<td valign="top" width="227">
-<p align="center">Sans limitation </p>
-</td>
 </tr>
 <tr>
-<td valign="top" width="227"/>
-<td valign="top" width="227">
-<p>Directeurs régionaux du matériel </p>
+<td valign="top" width="304">
+<p>Directeur du commissariat de la base de transit interarmées</p>
 </td>
-<td valign="top" width="227">
-<p align="center">MAPA × 45 </p>
+<td valign="top" width="152">
+<p>MAPA × 20</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="227"/>
-<td valign="top" width="227">
-<p>Directeurs régionaux adjoints du matériel </p>
+<td valign="top" width="304">
+<p>Directeur du service interarmées de liquidation des transports</p>
 </td>
-<td valign="top" width="227">
-<p align="center">MAPA × 1, 5 </p>
+<td valign="top" width="152">
+<p>MAPA × 1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="227"/>
-<td valign="top" width="227">
-<p>Commandants des bases de soutien des matériels </p>
+<td valign="top" width="304">
+<p>Directeur du commissariat administratif</p>
 </td>
-<td valign="top" width="227">
-<p align="center">MAPA × 1 </p>
+<td valign="top" width="152">
+<p>MAPA × 1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="227"/>
-<td valign="top" width="227">
-<p>Chefs de détachements des bases de soutien des matériels </p>
+<td valign="top" width="304">
+<p>Directeurs des commissariats de l'armée de terre</p>
 </td>
-<td valign="top" width="227">
-<p align="center">MAPA × 1 </p>
+<td valign="top" width="152">
+<p>MAPA × 1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="227"/>
-<td valign="top" width="227">
-<p>Chef du centre d'études et de développements informatiques du matériel de l'armée de terre </p>
+<td valign="top" width="304">
+<p>Chef du service technique et des marchés généraux</p>
 </td>
-<td valign="top" width="227">
-<p align="center">MAPA × 1 </p>
+<td valign="top" width="152">
+<p>Sans limitation</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" valign="top" width="227">
-<p>Divers. </p>
-</td>
-<td valign="top" width="227">
-<p>Chef de la section géographique militaire (3) </p>
+<td valign="top" width="304">
+<p>Directeurs locaux du commissariat de la marine et directeurs adjoints</p>
 </td>
-<td valign="top" width="227">
-<p align="center">MAPA × 1 </p>
+<td valign="top" width="152">
+<p>MAPA × 100</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Commandants des corps de troupes et chefs des organismes administrés comme tels </p>
+<td valign="top" width="304">
+<p>Chefs des services du matériel</p>
 </td>
-<td valign="top" width="227">
-<p align="center">MAPA × 0, 66 </p>
+<td valign="top" width="152">
+<p>MAPA × 60</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="227"/>
-<td valign="top" width="227">
-<p align="center">Marine </p>
+<td valign="top" width="304">
+<p>Chefs des services vivres/restauration </p>
 </td>
-<td valign="top" width="227">
-<br/>
-<br/>
+<td valign="top" width="152">
+<p>MAPA × 60</p>
 </td>
 </tr>
 <tr>
-<td rowspan="5" valign="top" width="227">
-<p>Direction centrale du commissariat de la marine. </p>
+<td valign="top" width="304">
+<p>Directeur de la structure centrale d'achat et de mandatement</p>
 </td>
-<td valign="top" width="227">
-<p>Chef du service technique et des marchés généraux </p>
+<td valign="top" width="152">
+<p>Sans limitation</p>
 </td>
-<td valign="top" width="227">
-<p align="center">Sans limitation </p>
-</td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Directeurs locaux et directeurs adjoints </p>
+<td valign="top" width="304">
+<p>Directeur de la structure spécialisée d'achat et de mandatement</p>
 </td>
-<td valign="top" width="227">
-<p align="center">MAPA × 100 </p>
+<td valign="top" width="152">
+<p>Sans limitation</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Chefs des services du matériel </p>
+<td valign="top" width="304">
+<p>Directeurs des structures locales d'achat et de mandatement</p>
 </td>
-<td valign="top" width="227">
-<p align="center">MAPA × 60 </p>
+<td valign="top" width="152">
+<p>MAPA × 100</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Chefs des services vivres / restauration </p>
+<td valign="top" width="304">
+<p>Directeurs du commissariat outre-mer</p>
 </td>
-<td valign="top" width="227">
-<p align="center">MAPA × 60 </p>
+<td valign="top" width="152">
+<p>MAPA × 60</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Directeurs des commissariats hors métropole </p>
+<td valign="top" width="304">
+<p>Directeurs du commissariat en opération extérieure</p>
 </td>
-<td valign="top" width="227">
-<p align="center">MAPA × 60 </p>
+<td valign="top" width="152">
+<p>MAPA × 60</p>
 </td>
 </tr>
 <tr>
-<td rowspan="6" valign="top" width="227">
-<p>Direction centrale du service de soutien de la flotte. </p>
-</td>
-<td valign="top" width="227">
-<p>Directeur local du service de soutien de la flotte de Brest, directeur adjoint </p>
+<td valign="top" width="304">
+<p>Directeurs des plates-formes achats-finances</p>
 </td>
-<td valign="top" width="227">
-<p align="center">MAPA × 70 </p>
+<td valign="top" width="152">
+<p>Sans limitation</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Directeur local du service de soutien de la flotte de Toulon, directeur adjoint </p>
+<td valign="top" width="304">
+<p>Directeur du centre de soutien du combattant et des forces</p>
 </td>
-<td valign="top" width="227">
-<p align="center">MAPA × 70 </p>
+<td valign="top" width="152">
+<p>Sans limitation</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Directeur d'antenne de soutien des Antilles </p>
+<td valign="top" width="304">
+<p>Directeur de l'antenne navale du centre de soutien du combattant et des forces à Toulon</p>
 </td>
-<td valign="top" width="227">
-<p align="center">MAPA × 10 </p>
+<td valign="top" width="152">
+<p>Sans limitation</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Directeur d'antenne de soutien de Nouvelle ­ Calédonie </p>
+<td valign="top" width="304">
+<p>Directeur du service spécialisé de la logistique et du transport</p>
 </td>
-<td valign="top" width="227">
-<p align="center">MAPA × 10 </p>
+<td valign="top" width="152">
+<p>Sans limitation</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Directeur d'antenne de soutien de Polynésie française </p>
+<td rowspan="5" valign="top" width="247">
+<p>Direction centrale du service des essences des armées</p>
 </td>
-<td valign="top" width="227">
-<p align="center">MAPA × 10 </p>
+<td valign="top" width="304">
+<p>Directeur de l'établissement administratif et technique du service des essences des armées</p>
 </td>
-</tr>
-<tr>
-<td valign="top" width="227">
-<p>Directeur d'antenne de soutien de la Réunion </p>
+<td valign="top" width="152">
+<p>Sans limitation</p>
 </td>
-<td valign="top" width="227">
-<p align="center">MAPA × 10 </p>
-</td>
 </tr>
 <tr>
-<td rowspan="2" valign="top" width="227">
-<p>Direction centrale des systèmes d'information de la marine. </p>
-</td>
-<td valign="top" width="227">
-<p>Directeurs régionaux et directeurs adjoints régionaux des systèmes d'information de la marine à Brest, à Toulon et à Paris </p>
+<td valign="top" width="304">
+<p>Directeurs régionaux interarmées du service des essences des armées</p>
 </td>
-<td valign="top" width="227">
-<p align="center">MAPA × 10 </p>
+<td valign="top" width="152">
+<p>MAPA × 20</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Directeur régional et directeur adjoint régional des systèmes d'information de la marine à Cherbourg </p>
+<td valign="top" width="304">
+<p>Directeur de la base pétrolière interarmées</p>
 </td>
-<td valign="top" width="227">
-<p align="center">MAPA × 1 </p>
+<td valign="top" width="152">
+<p>MAPA × 20</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Divers. </p>
+<td valign="top" width="304">
+<p>Directeur du laboratoire du service des essences des armées</p>
 </td>
-<td valign="top" width="227">
-<p>Commandants des formations autonomes de la marine et chefs des organismes administrés comme telles </p>
+<td valign="top" width="152">
+<p>MAPA × 20</p>
 </td>
-<td valign="top" width="227">
-<p align="center">MAPA × 0, 66 </p>
-</td>
 </tr>
 <tr>
-<td valign="top" width="227"/>
-<td valign="top" width="227">
-<p align="center">Armée de l'air </p>
+<td valign="top" width="304">
+<p>Chef du détachement de liaison du service des essences des armées auprès de l'état-major de la marine (3)</p>
 </td>
-<td valign="top" width="227">
-<br/>
-<br/>
+<td valign="top" width="152">
+<p>MAPA × 7</p>
 </td>
 </tr>
 <tr>
-<td rowspan="5" valign="top" width="227">
-<p>Direction centrale du commissariat de l'air. </p>
-</td>
-<td valign="top" width="227">
-<p>Directeur du service administratif </p>
+<td valign="top" width="247">
+<p>Divers</p>
 </td>
-<td valign="top" width="227">
-<p align="center">Sans limitation </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="227">
-<p>Directeur du service logistique </p>
+<td valign="top" width="304">
+<p>Commandants des formations administratives et chefs des organismes administrés comme tels (9)</p>
 </td>
-<td valign="top" width="227">
-<p align="center">Sans limitation </p>
+<td valign="top" width="152">
+<p>MAPA × 1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Directeurs des structures locales d'achat et de mandatement </p>
-</td>
-<td valign="top" width="227">
-<p align="center">MAPA × 100 </p>
+<td colspan="3" width="702">
+<p align="center">Armée de terre</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Directeurs des établissements logistiques </p>
+<td valign="top" width="247">
+<p>Chef d'état-major de l'armée de terre</p>
 </td>
-<td valign="top" width="227">
-<p align="center">MAPA × 30 </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="227">
-<p>Directeurs des commissariats hors métropole </p>
+<td valign="top" width="304">
+<p>Directeur de la section technique de l'armée de terre (4)</p>
 </td>
-<td valign="top" width="227">
-<p align="center">MAPA × 60 </p>
+<td valign="top" width="152">
+<p>MAPA × 4</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" valign="top" width="227">
-<p>Direction centrale du matériel de l'armée de l'air. </p>
-</td>
-<td valign="top" width="227">
-<p>Directeur et sous-directeur du service des marchés centralisés </p>
+<td rowspan="6" valign="top" width="247">
+<p>Direction centrale du matériel de l'armée de terre</p>
 </td>
-<td valign="top" width="227">
-<p align="center">Sans limitation </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="227">
-<p>Directeur, sous-directeur de l'établissement central de l'infrastructure de l'air </p>
+<td valign="top" width="304">
+<p>Directeur du service central des achats de la maintenance</p>
 </td>
-<td valign="top" width="227">
-<p align="center">Sans limitation </p>
+<td valign="top" width="152">
+<p>Sans limitation</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Directeur des établissements spéciaux </p>
+<td valign="top" width="304">
+<p>Directeurs régionaux du matériel</p>
 </td>
-<td valign="top" width="227">
-<p align="center">MAPA × 30 </p>
+<td valign="top" width="152">
+<p>MAPA × 45</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Structure intégrée du maintien en condition opérationnelle des matériels aéronautiques du ministère de la défense. </p>
-</td>
-<td valign="top" width="227">
-<p>Chef du service des contrats et des finances et adjoints au chef du service </p>
+<td valign="top" width="304">
+<p>Directeurs régionaux adjoints du matériel</p>
 </td>
-<td valign="top" width="227">
-<p align="center">MAPA × 100 </p>
+<td valign="top" width="152">
+<p>MAPA × 1,5</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Divers. </p>
-</td>
-<td valign="top" width="227">
-<p>Commandants des bases aériennes et chefs des organismes administrés comme telles </p>
-</td>
-<td valign="top" width="227">
-<p align="center">MAPA × 0, 66 </p>
+<td valign="top" width="304">
+<p>Commandants des bases de soutien des matériels</p>
 </td>
-</tr>
-<tr>
-<td valign="top" width="227"/>
-<td valign="top" width="227">
-<p align="center">Gendarmerie nationale </p>
+<td valign="top" width="152">
+<p>MAPA × 1</p>
 </td>
-<td valign="top" width="227"/>
 </tr>
 <tr>
-<td rowspan="3" valign="top" width="227">
-<p>Direction générale de la gendarmerie nationale. </p>
+<td valign="top" width="304">
+<p>Chefs de détachements des bases de soutien des matériels</p>
 </td>
-<td valign="top" width="227">
-<p>Commandant du centre administratif de la gendarmerie nationale </p>
+<td valign="top" width="152">
+<p>MAPA × 1</p>
 </td>
-<td valign="top" width="227">
-<p align="center">Sans limitation </p>
-</td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Commandants de centre administratif territorial de la gendarmerie </p>
+<td valign="top" width="304">
+<p>Chef du centre d'études et de développements informatiques du matériel de l'armée de terre</p>
 </td>
-<td valign="top" width="227">
-<p align="center">MAPA × 180 (5) </p>
+<td valign="top" width="152">
+<p>MAPA × 1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Commandants de région de gendarmerie et chefs des organismes administrés comme telles </p>
-</td>
-<td valign="top" width="227">
-<p align="center">MAPA × 0, 66</p>
+<td rowspan="2" valign="top" width="247">
+<p>Divers</p>
 </td>
-</tr>
-<tr>
-<td valign="top" width="227"/>
-<td valign="top" width="227">
-<p align="center">     direction générale de l'armement </p>
+<td valign="top" width="304">
+<p>Chef de la section géographique militaire (4)</p>
 </td>
-<td valign="top" width="227">
-<br/>
-<br/>
+<td valign="top" width="152">
+<p>MAPA ×1</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" valign="top" width="227">
-<p>Direction des systèmes d'armes. </p>
+<td valign="top" width="304">
+<p>Commandants des corps de troupes et chefs des organismes administrés comme tels (9)</p>
 </td>
-<td valign="top" width="227">
-<p>Chef du service centralisé des achats </p>
+<td valign="top" width="152">
+<p>MAPA × 0,66</p>
 </td>
-<td valign="top" width="227">
-<p align="center">Sans limitation </p>
-</td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Adjoints au chef du service centralisé des achats </p>
-</td>
-<td valign="top" width="227">
-<p align="center">Sans limitation </p>
+<td colspan="3" width="702">
+<p align="center">Marine</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" valign="top" width="227">
-<p>Direction des systèmes de forces et des stratégies industrielle, technologique et de coopération. </p>
+<td rowspan="6" valign="top" width="247">
+<p>Direction centrale du service de soutien de la flotte</p>
 </td>
-<td valign="top" width="227">
-<p>Chef du service des recherches et technologies de défense et de sécurité </p>
-</td>
-<td valign="top" width="227">
-<p align="center">Sans limitation </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="227">
-<p>Directeur du centre d'analyse de défense </p>
+<td valign="top" width="304">
+<p>Directeur local du service de soutien de la flotte de Brest, directeur adjoint</p>
 </td>
-<td valign="top" width="227">
-<p align="center">MAPA × 50 </p>
+<td valign="top" width="152">
+<p>MAPA x 70</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Directeur du centre de documentation de l'armement </p>
+<td valign="top" width="304">
+<p>Directeur local du service de soutien de la flotte de Toulon, directeur adjoint</p>
 </td>
-<td valign="top" width="227">
-<p align="center">MAPA × 50 </p>
+<td valign="top" width="152">
+<p>MAPA x 70</p>
 </td>
 </tr>
 <tr>
-<td rowspan="9" valign="top" width="227">
-<p>Direction de l'expertise technique. </p>
+<td valign="top" width="304">
+<p>Directeur d'antenne de soutien des Antilles</p>
 </td>
-<td valign="top" width="227">
-<p>Directeur du centre d'expertise parisien </p>
+<td valign="top" width="152">
+<p>MAPA x 10</p>
 </td>
-<td valign="top" width="227">
-<p align="center">MAPA × 50 </p>
-</td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Directeur du centre d'études de Gramat </p>
+<td valign="top" width="304">
+<p>Directeur d'antenne de soutien de Nouvelle-Calédonie</p>
 </td>
-<td valign="top" width="227">
-<p align="center">MAPA × 50 </p>
+<td valign="top" width="152">
+<p>MAPA x 10</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Directeur de l'établissement technique d'Angers </p>
+<td valign="top" width="304">
+<p>Directeur d'antenne de soutien de Polynésie française</p>
 </td>
-<td valign="top" width="227">
-<p align="center">MAPA × 50 </p>
+<td valign="top" width="152">
+<p>MAPA x 10</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Directeur de l'établissement technique de Bourges </p>
+<td valign="top" width="304">
+<p>Directeur d'antenne de soutien de La Réunion</p>
 </td>
-<td valign="top" width="227">
-<p align="center">MAPA × 50 </p>
+<td valign="top" width="152">
+<p>MAPA x 10</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Directeur du centre électronique de l'armement </p>
-</td>
-<td valign="top" width="227">
-<p align="center">MAPA × 50 </p>
+<td valign="top" width="247">
+<p>Divers</p>
 </td>
-</tr>
-<tr>
-<td valign="top" width="227">
-<p>Directeur du centre technique des systèmes navals </p>
+<td valign="top" width="304">
+<p>Commandants des formations autonomes de la marine et chefs des organismes administrés comme tels (9)</p>
 </td>
-<td valign="top" width="227">
-<p align="center">MAPA × 50 </p>
+<td valign="top" width="152">
+<p>MAPA x 0,66</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Directeur du groupe d'études sous-marines de l'Atlantique </p>
+<td colspan="3" width="702">
+<p align="center">Armée de l'air</p>
 </td>
-<td valign="top" width="227">
-<p align="center">MAPA × 50 </p>
-</td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Directeur du laboratoire de recherches balistiques et aérodynamiques </p>
-</td>
-<td valign="top" width="227">
-<p align="center">MAPA × 50 </p>
+<td rowspan="2" valign="top" width="247">
+<p>Structure intégrée du maintien en condition opérationnelle des matériels aéronautiques du ministère de la défense</p>
 </td>
-</tr>
-<tr>
-<td valign="top" width="227">
-<p>Directeur du centre du Bouchet </p>
+<td valign="top" width="304">
+<p>Chef du service des contrats et des finances et adjoints au chef du service</p>
 </td>
-<td valign="top" width="227">
-<p align="center">MAPA × 50 </p>
+<td valign="top" width="152">
+<p>MAPA x 100</p>
 </td>
 </tr>
 <tr>
-<td rowspan="12" valign="top" width="227">
-<p>Direction des essais. </p>
+<td valign="top" width="304">
+<p>Directeurs des structures spécialisées d'achat et de mandatement de Bordeaux-Mérignac et de Bordeaux-Beauséjour</p>
 </td>
-<td valign="top" width="227">
-<p>Chef du service centralisé des achats et du soutien </p>
+<td valign="top" width="152">
+<p>Sans limitation</p>
 </td>
-<td valign="top" width="227">
-<p align="center">Sans limitation </p>
-</td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Directeur du centre d'essais en vol </p>
-</td>
-<td valign="top" width="227">
-<p align="center">MAPA × 50 </p>
+<td rowspan="4" valign="top" width="247">
+<p>Service industriel de l'aéronautique</p>
 </td>
-</tr>
-<tr>
-<td valign="top" width="227">
-<p>Adjoint au directeur du centre d'essais en vol, chef de la base d'essais d'Istres </p>
+<td valign="top" width="304">
+<p>Directeur de l'atelier industriel de l'aéronautique d'Ambérieu-en- Bugey</p>
 </td>
-<td valign="top" width="227">
-<p align="center">MAPA × 20 </p>
+<td valign="top" width="152">
+<p>MAPA x 50</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Adjoint au directeur du centre d'essais en vol, chef de la base d'essais de Cazaux </p>
+<td valign="top" width="304">
+<p>Directeur de l'atelier industriel de l'aéronautique de Bordeaux</p>
 </td>
-<td valign="top" width="227">
-<p align="center">MAPA × 20 </p>
+<td valign="top" width="152">
+<p>MAPA x 50</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Adjoint au directeur du centre d'essais en vol, chef de bases d'essais de Toulouse </p>
+<td valign="top" width="304">
+<p>Directeur de l'atelier industriel de l'aéronautique de Clermont- Ferrand</p>
 </td>
-<td valign="top" width="227">
-<p align="center">MAPA × 20 </p>
+<td valign="top" width="152">
+<p>Sans limitation</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Directeur du centre d'essais des propulseurs </p>
+<td valign="top" width="304">
+<p>Directeur de l'atelier industriel de l'aéronautique de Cuers-Pierrefeu</p>
 </td>
-<td valign="top" width="227">
-<p align="center">MAPA × 50 </p>
+<td valign="top" width="152">
+<p>MAPA x 50</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Directeur du centre d'achèvement et d'essais des propulseurs et engins </p>
+<td valign="top" width="247">
+<p>Divers</p>
 </td>
-<td valign="top" width="227">
-<p align="center">MAPA × 50 </p>
+<td valign="top" width="304">
+<p>Commandants des bases aériennes et chefs des organismes administrés comme tels (9)</p>
 </td>
-</tr>
-<tr>
-<td valign="top" width="227">
-<p>Directeur du centre d'essais aéronautique de Toulouse </p>
+<td valign="top" width="152">
+<p>MAPA x 0,66</p>
 </td>
-<td valign="top" width="227">
-<p align="center">MAPA × 50 </p>
-</td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Directeur du centre d'essais de lancement de missiles </p>
-</td>
-<td valign="top" width="227">
-<p align="center">MAPA × 50 </p>
+<td colspan="3" width="702">
+<p align="center">Direction générale de l'armement</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Adjoint au directeur du centre d'essais de lancement de missiles, chef du site des Landes. </p>
+<td rowspan="2" valign="top" width="247">
+<p>Direction des opérations</p>
 </td>
-<td valign="top" width="227">
-<p align="center">MAPA × 20 </p>
+<td valign="top" width="304">
+<p>Chef du service centralisé des achats</p>
 </td>
-</tr>
-<tr>
-<td valign="top" width="227">
-<p>Adjoint au directeur du centre d'essais de lancement de missiles, chef du site de la Méditerranée </p>
+<td valign="top" width="152">
+<p>Sans limitation</p>
 </td>
-<td valign="top" width="227">
-<p align="center">MAPA × 20 </p>
-</td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Directeur du bassin d'essais des carènes </p>
+<td valign="top" width="304">
+<p>Adjoints du chef du service centralisé des achats</p>
 </td>
-<td valign="top" width="227">
-<p align="center">MAPA × 50 </p>
+<td valign="top" width="152">
+<p>Sans limitation</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" valign="top" width="227">
-<p>Direction des plans, du budget et de la gestion. </p>
+<td rowspan="2" valign="top" width="247">
+<p>Direction de la stratégie</p>
 </td>
-<td valign="top" width="227">
-<p>Directeur de l'établissement central de soutien </p>
+<td valign="top" width="304">
+<p>Directeur du centre d'analyse technico-opérationnelle de défense</p>
 </td>
-<td valign="top" width="227">
-<p align="center">Sans limitation </p>
+<td valign="top" width="152">
+<p>MAPA x 50</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Sous-directeur de l'établissement central de soutien en charge des achats </p>
+<td valign="top" width="304">
+<p>Directeur du centre d'information et de documentation de l'armement</p>
 </td>
-<td valign="top" width="227">
-<p align="center">MAPA × 100 </p>
+<td valign="top" width="152">
+<p>MAPA x 50</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" valign="top" width="227">
-<p>Service de la maintenance aéronautique. </p>
-</td>
-<td valign="top" width="227">
-<p>Directeur de l'atelier industriel de l'aéronautique de Bordeaux </p>
+<td rowspan="3" valign="top" width="247">
+<p>Direction technique</p>
 </td>
-<td valign="top" width="227">
-<p align="center">MAPA × 50 </p>
+<td valign="top" width="304">
+<p>Chef du service centralisé des achats techniques</p>
 </td>
-</tr>
-<tr>
-<td valign="top" width="227">
-<p>Directeur de l'atelier industriel de l'aéronautique de Clermont-Ferrand </p>
+<td valign="top" width="152">
+<p>Sans limitation</p>
 </td>
-<td valign="top" width="227">
-<p align="center">Sans limitation </p>
-</td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Directeur de l'atelier industriel de Cuers-Pierrefeu </p>
+<td valign="top" width="304">
+<p>Directeur de DGA Ingénierie des projets</p>
 </td>
-<td valign="top" width="227">
-<p align="center">MAPA × 50 </p>
+<td valign="top" width="152">
+<p>MAPA x 50</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="227"/>
-<td valign="top" width="227">
-<p align="center">Secrétaire général pour l'administration </p>
+<td valign="top" width="304">
+<p>Directeurs des centres d'expertise et d'essais</p>
 </td>
-<td valign="top" width="227">
-<p align="center">
-<b/>
-</p>
-<br/>
+<td valign="top" width="152">
+<p>MAPA x 50</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Direction du service national. </p>
-</td>
-<td valign="top" width="227">
-<p>Directeurs interrégionaux et adjoints de ces directeurs </p>
+<td colspan="3" width="702">
+<p align="center">Secrétariat général pour l'administration</p>
 </td>
-<td valign="top" width="227">
-<p align="center">MAPA × 10 </p>
-</td>
-</tr>
-<tr>
-<td/>
-<td>Directeurs d'établissements et adjoints de ces directeurs </td>
-<td align="center">MAPA × 10 </td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Direction des statuts, des pensions et de la réinsertion sociale. </p>
+<td rowspan="2" valign="top" width="247">
+<p>Direction du service national</p>
 </td>
-<td valign="top" width="227">
-<p>Chef du service des ressortissants du département ministériel chargé des anciens combattants et victimes de guerre qui résident à l'étranger </p>
+<td valign="top" width="304">
+<p>Directeurs interrégionaux et adjoints de ces directeurs</p>
 </td>
-<td valign="top" width="227">
-<p align="center">MAPA × 3 </p>
+<td valign="top" width="152">
+<p>MAPA x 10</p>
 </td>
 </tr>
 <tr>
-<td rowspan="7" valign="top" width="227">
-<p>Service d'infrastructure de la défense. </p>
-</td>
-<td valign="top" width="227">
-<p>Directeur du service technique des bâtiments, fortifications et travaux </p>
+<td valign="top" width="304">
+<p>Directeurs d'établissements et adjoints de ces directeurs</p>
 </td>
-<td valign="top" width="227">
-<p align="center">Sans limitation (6) </p>
-<p align="center">MAPA × 70 (7) </p>
-<p align="center">MAPA × 15 (8) </p>
+<td valign="top" width="152">
+<p>MAPA x 10</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Directeur du service technique, des travaux immobiliers et maritimes </p>
+<td rowspan="5" valign="top" width="247">
+<p>Service d'infrastructure de la défense</p>
 </td>
-<td valign="top" width="227">
-<p align="center">Sans limitation (6) </p>
-<p align="center">MAPA × 70 (7) </p>
-<p align="center">MAPA × 15 (8) </p>
+<td valign="top" width="304">
+<p>Directeur du service technique des bâtiments, fortifications et travaux</p>
 </td>
-</tr>
-<tr>
-<td valign="top" width="227">
-<p>Directeur régional du service d'infrastructure de la défense Ile-de-France </p>
+<td valign="top" width="152">
+<p>MAPA x 70 (6)<br/>MAPA x 15 (7)</p>
 </td>
-<td valign="top" width="227">
-<p align="center">MAPA × 30 (7) </p>
-<p align="center">MAPA × 40 (8) </p>
-</td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Directeurs régionaux du génie </p>
+<td valign="top" width="304">
+<p>Directeurs régionaux du service d'infrastructure de la défense</p>
 </td>
-<td valign="top" width="227">
-<p align="center">MAPA × 30 (7) </p>
-<p align="center">MAPA × 40 (8) </p>
+<td valign="top" width="152">
+<p>Sans limitation (5)<br/>MAPA x 120 (6)<br/>MAPA x 40 (7)</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Directeurs locaux des travaux maritimes </p>
+<td valign="top" width="304">
+<p>Directeur d'infrastructure de la défense de Cherbourg</p>
 </td>
-<td valign="top" width="227">
-<p align="center">Sans limitation (6) </p>
-<p align="center">MAPA × 120 (7) </p>
-<p align="center">MAPA × 40 (8) </p>
+<td valign="top" width="152">
+<p>Sans limitation (5)<br/>MAPA x 120 (6)<br/>MAPA x 40 (7)</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Directeurs d'établissements du génie </p>
+<td valign="top" width="304">
+<p>Directeurs d'établissements d'infrastructure de la défense</p>
 </td>
-<td valign="top" width="227">
-<p align="center">Sans limitation (6) </p>
-<p align="center">MAPA × 70 (7) </p>
-<p align="center">MAPA × 30 (8) </p>
+<td valign="top" width="152">
+<p>Sans limitation (5)<br/>MAPA x 70 (6)</p>
+<p>MAPA x 30 (7)</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Directeurs des directions de travaux d'outre-mer, de Djibouti, de Dakar </p>
+<td valign="top" width="304">
+<p>Directeurs des directions d'infrastructure de la défense outre mer, à Dakar et à Djibouti</p>
 </td>
-<td valign="top" width="227">
-<p align="center">Sans limitation (6) </p>
-<p align="center">MAPA × 70 (7) </p>
-<p align="center">MAPA × 30 (8) </p>
+<td valign="top" width="152">
+<p>Sans limitation (5)<br/>MAPA x 70 (6)<br/>MAPA x 30 (7)</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="227"/>
-<td valign="top" width="227">
-<p align="center">Divers </p>
-</td>
-<td valign="top" width="227">
-<br/>
-<br/>
+<td colspan="3" width="702">
+<p align="center">Divers</p>
 </td>
 </tr>
 <tr>
-<td rowspan="6" valign="top" width="227">
-<p>Ministère chargé de l'équipement. </p>
+<td rowspan="6" valign="top" width="247">
+<p>Ministère chargé de l'équipement</p>
 </td>
-<td valign="top" width="227">
-<p>Directeurs départementaux de l'équipement (9) </p>
+<td valign="top" width="304">
+<p>Directeurs départementaux de l'équipement (8)</p>
 </td>
-<td valign="top" width="227">
-<p align="center">Sans limitation (6) (7) (8) </p>
+<td valign="top" width="152">
+<p>Sans limitation (5) (6) (7)</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Chefs des services spéciaux des bases aériennes (9) </p>
+<td valign="top" width="304">
+<p>Directeur du service national d'ingénierie aéroportuaire (8)</p>
 </td>
-<td valign="top" width="227">
-<p align="center">Sans limitation (6) (7) (8) </p>
+<td valign="top" width="152">
+<p>Sans limitation (5) (6) (7)</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Directeurs des services chargés de l'aviation civile en Nouvelle-Calédonie et en Polynésie française (9) </p>
+<td valign="top" width="304">
+<p>Directeurs des services chargés de l'aviation civile en Nouvelle-Calédonie et en Polynésie française (8)</p>
 </td>
-<td valign="top" width="227">
-<p align="center">Sans limitation (6) (7) (8) </p>
+<td valign="top" width="152">
+<p>Sans limitation (5) (6) (7)</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Directeur du service technique de l'aviation civile </p>
+<td valign="top" width="304">
+<p>Directeur du service technique de l'aviation civile</p>
 </td>
-<td valign="top" width="227">
-<p align="center">Sans limitation (6) (7) (8) </p>
+<td valign="top" width="152">
+<p>Sans limitation (5) (6) (7)</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Directeur des services de la navigation aérienne </p>
+<td valign="top" width="304">
+<p>Directeur des services de la navigation aérienne</p>
 </td>
-<td valign="top" width="227">
-<p align="center">Sans limitation (6) (7) (8) </p>
+<td valign="top" width="152">
+<p>Sans limitation (5) (6) (7)</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Directeur du centre d'études techniques maritimes et fluviales </p>
+<td valign="top" width="304">
+<p>Directeur du centre d'études techniques maritimes et fluviales</p>
 </td>
-<td valign="top" width="227">
-<p align="center">Sans limitation (6) (7) (8) </p>
+<td valign="top" width="152">
+<p>Sans limitation (5) (6) (7)</p>
 </td>
 </tr>
 <tr>
-<td colspan="3" valign="top" width="680">
-<p>(1) L'expression MAPA × s'entend comme suit : montant égal à n fois le seuil des marchés et accords-cadres pouvant être passés selon la procédure adaptée tel qu'il est fixé par l'article 26-II du code des marchés publics. </p>
-<p>(2) Délégation accordée sans limite de seuil, à l'exclusion des marchés et accords-cadres d'informatique (fournitures ou prestations de services) faisant l'objet d'une programmation centralisée. </p>
-<p>(3) Délégation limitée aux marchés et accords-cadres imputés sur des crédits dont la direction centrale du matériel de l'armée de terre est gestionnaire. </p>
-<p>(4) En application du décret n° 2007-275 du 1er mars 2007 portant dérogation à certaines dispositions relatives à l'organisation du commandement de la région terre Sud-Est et de la région terre Ile-de-France, cette délégation est consentie jusqu'au 31 décembre 2008 aux commandants de région terre territorialement compétents. Cette délégation s'étend jusqu'au 31 décembre 2008 aux marchés et accords ­ cadres passés par le commandant de la région terre Ile-de-France au profit des organismes implantés outre-mer et à l'étranger. </p>
-<p>(5) Lorsque les commandants de centre administratif territorial de la gendarmerie agissent dans le cadre de l'article 7 du code des marchés publics, la délégation est accordée sans limite de seuil. </p>
-<p>(6) Délégation limitée aux marchés et accords-cadres se référant au cahier des clauses administratives générales (CCAG) (travaux), y compris les marchés de travaux passés à l'étranger ne se référant pas à ce CCAG. </p>
-<p>(7) Délégation limitée aux marchés se référant aux cahiers (prestations intellectuelles, marchés industriels, fournitures courantes), y compris les marchés de ces types de prestations ne se référant pas à l'un de ces CCAG. </p>
-<p>(8) Limitation applicable aux seuls marchés de définition ou de maîtrise d'œuvre passés conformément aux dispositions de la loi no 85-704 du 12 juillet 1985 relative à la maîtrise d'ouvrage publique et ses rapports avec la maîtrise d'œuvre privée et de ses textes d'application. </p>
-<p>(9) Délégations accordées sur le fondement du décret n° 51-196 du 21 février 1951 fixant les attributions respectives du secrétariat d'Etat aux forces armées air, du ministre des travaux publics, des transports et du tourisme et du secrétaire d'Etat aux forces armées guerre en ce qui concerne les installations immobilières du département de l'air et de son arrêté d'application du 22 février 1951 fixant les attributions respectives du secrétaire d'Etat aux forces armées air, du ministre des travaux publics, des transports et du tourisme et du secrétaire d'Etat aux forces armées guerre en ce qui concerne les installations immobilières du département de l'air.</p>
+<td colspan="3" valign="top" width="702">
+<p>(1) L'expression MAPA x s'entend comme suit : montant égal à n fois le seuil des marchés et accords-cadres pouvant être passés selon la procédure adaptée tel qu'il est fixé par l'article 26-II du code des marchés publics.<br/>(2) Délégation accordée sans limite de seuil, à l'exclusion des marchés et accords-cadres d'informatique (fournitures ou prestations de services) faisant l'objet d'une programmation centralisée.<br/>(3) Délégation limitée aux marchés subséquents d'approvisionnement des bâtiments de la marine nationale en escale à l'étranger.<br/>(4) Délégation limitée aux marchés et accords-cadres imputés sur des crédits dont la direction centrale du matériel de l'armée de terre est gestionnaire.<br/>(5) Délégation limitée aux marchés et accords-cadres se référant aux cahiers des clauses administratives générales (CCAG) (travaux), y compris les marchés de travaux passés à l'étranger ne se référant pas à ce CCAG.<br/>(6) Délégation limitée aux marchés et accords-cadres se référant aux cahiers (prestations intellectuelles, marchés industriels, fournitures courantes), y compris les marchés de ces types de prestations ne se référant pas à l'un de ces CCAG.<br/>(7) Limitation applicable aux seuls marchés de définition ou de maîtrise d'œuvre passés conformément aux dispositions de la loi n° 85-704 du 12 juillet 1985 relative à la maîtrise d'ouvrage publique et ses rapports avec la maîtrise d'œuvre privée et de ses textes d'application.<br/>(8) Délégations accordées sur le fondement du décret n° 51-196 du 21 février 1951 fixant les attributions respectives du secrétariat d'Etat aux forces armées air , du ministre des travaux publics, des transports et du tourisme et du secrétaire d'Etat aux forces armées guerre , en ce qui concerne les installations immobilières du département de l'air et de son arrêté d'application du 22 février 1951 fixant les attributions respectives du secrétaire d'Etat aux forces armées air du ministre des travaux publics, des transports et du tourisme et du secrétaire d'Etat aux forces armées guerre en ce qui concerne les installations immobilières du département de l'air.<br/>(9) Les commandants des formations administratives relevant du chef d'état-major des armées créées par l'arrêté du 16 décembre 2009 portant organisation des bases de défense pilotes reçoivent délégation de pouvoir en matière de marchés publics et accords-cadres nécessaires aux domaines de l'administration générale et des soutiens et dont les modalités sont précisées par instruction.<br/>Les commandants des formations administratives et organismes administrés comme tels soutenus par une formation administrative créée par ce même arrêté ne peuvent passer et signer les marchés publics et accords-cadres définis ci-dessus que dans le cas où la formation, l'organisme ou un de ses éléments se déplace à l'extérieur de la base de défense pilote.</p>
 </td>
 </tr>
 </tbody>
 </table>
-</div>

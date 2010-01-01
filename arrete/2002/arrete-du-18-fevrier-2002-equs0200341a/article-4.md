@@ -22,7 +22,7 @@ La demande d'équivalence, datée et signée, doit être accompagnée des pièce
 
 -des conditions de délivrance de ce titre, diplôme ou certificat.
 
-Les documents précités doivent être traduits par un traducteur assermenté.
+Les documents précités doivent être traduits ou rédigés en français par un traducteur habilité à intervenir auprès des autorités judiciaires ou administratives d'un autre Etat membre de l'Union européenne ou d'un Etat partie à l'accord sur l'Espace économique européen.
 
 En cas de doute sur la validité des photocopies produites ou envoyées, le préfet peut demander de manière motivée par lettre recommandée avec une demande d'avis de réception la présentation des pièces originales. Les procédures en cours sont suspendues jusqu'à la production des pièces originales.
 
