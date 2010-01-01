@@ -1,23 +1,39 @@
 # Article 2
 
-Le comité technique de l'électricité est composé de 33 membres, dont :
+I. - Le comité technique de l'électricité est constitué :
 
-- deux représentants du gestionnaire du réseau public de transport ;
+a) De quatre représentants des gestionnaires des réseaux publics d'électricité ;
 
-- trois représentants des gestionnaires de réseaux publics de distribution ;
+b) De deux représentants des autorités organisatrices des réseaux publics de distribution d'électricité et de leurs régies ;
 
-- quatre représentants de producteurs d'électricité ;
+c) De quatre représentants des producteurs d'énergie, dont un représentant au moins des producteurs d'énergies renouvelables ;
 
-- deux représentants des grands consommateurs d'énergie ;
+d) D'un représentant des consommateurs d'énergie ;
 
-- deux représentants des réseaux ferrés électrifiés ;
+e) De deux représentants des entreprises soumises à obligations de service public en lien avec le fonctionnement du système électrique ;
 
-- un représentant des collectivités concédantes de la distribution électrique ;
+f) De cinq représentants des autres entreprises, établissements et organismes scientifiques, techniques ou professionnels intéressés par l'électricité, les matériels et services associés et leur normalisation ;
 
-- un représentant d'Electricité de France ;
+g) De personnalités qualifiées dont le nombre ne peut être inférieur à deux ni excéder six ;
 
-- cinq représentants des entreprises, établissements ou organismes scientifiques, techniques, ou professionnels intéressés par l'électricité ou par les matériels et services associés ;
+h) D'un représentant du personnel des industries électriques et gazières, désigné sur proposition des organisations syndicales les plus représentatives de ce personnel ;
 
-- trois personnalités qualifiées choisies en raison de leurs hautes compétences sur les aspects technologiques ou économiques du système électrique ;
+i) Du directeur d'administration centrale chargé de l'énergie ;
 
-- dix représentants des ministres dont relèvent les secteurs suivants : électricité, consommation, intérieur, environnement, équipement, transports, télécommunications, agriculture, travail, à raison de deux représentants pour le secteur de l'électricité et d'un représentant pour les autres secteurs.
+j) Du directeur d'administration centrale chargé de la prévention des risques ;
+
+k) Du directeur d'administration centrale chargé de l'industrie et des services ;
+
+l) Du directeur d'administration centrale chargé des collectivités locales ;
+
+m) Du directeur d'administration centrale chargé de la sécurité civile ;
+
+n) Du directeur d'administration centrale chargé du droit du travail.
+
+II. - Lorsque le comité est amené à traiter de questions ayant trait à la préservation de l'environnement, ou dans les autres cas à leur demande, la composition du comité technique de l'électricité est complétée par :
+
+- le directeur d'administration centrale en charge du développement durable ;
+
+- deux représentants des associations de préservation de l'environnement.
+
+III. - L'ensemble des membres du comité technique de l'électricité dans sa formation prévue au I ou au II ainsi que leurs suppléants sont destinataires des convocations et des comptes rendus de séances. Ces documents peuvent être valablement transmis par voie électronique.
