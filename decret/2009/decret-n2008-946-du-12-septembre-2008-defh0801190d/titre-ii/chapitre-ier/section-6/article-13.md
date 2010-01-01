@@ -1,6 +1,6 @@
 # Article 13
 
-Un arrêté du ministre de la défense fixe :
+Un arrêté du ministre de l'intérieur fixe :
 
 1° La liste des titres reconnus comme équivalents aux diplômes exigés pour être candidat aux admissions et aux recrutements prévus par le présent décret ;
 

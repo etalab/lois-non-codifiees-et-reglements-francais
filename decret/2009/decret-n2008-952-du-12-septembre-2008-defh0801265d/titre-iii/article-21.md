@@ -8,7 +8,7 @@ Ils doivent réunir les conditions suivantes :
 
 2° Avoir détenu, pendant au moins un an, un grade de sous-officier de gendarmerie ;
 
-3° Et être titulaires du certificat d'aptitude technique délivré selon les modalités fixées par un arrêté du ministre de la défense.
+3° Et être titulaires du certificat d'aptitude technique délivré selon les modalités fixées par un arrêté du ministre de l'intérieur.
 
 Les intéressés sont admis à servir dans le corps des sous-officiers de gendarmerie avec le grade détenu et l'ancienneté de grade et de service acquise à la date de leur intégration.
 

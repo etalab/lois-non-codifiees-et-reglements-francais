@@ -121,6 +121,4 @@ Les sous-officiers de gendarmerie du grade de gendarme ont accès, en fonction d
 </td>
 </tr>
 </tbody>
-</table>
-
-Les gendarmes parvenus au 11e échelon de leur grade et qui se trouvent à moins de 11 ans de la limite d'âge de leur grade ont accès à un échelon exceptionnel attribué au choix par le ministre de la défense, sur proposition de la commission d'avancement prévue à l'article L. 4136-3 du code de la défense, dans la limite d'un contingent fixé par arrêté du ministre de la défense et des ministres chargés du budget et de la fonction publique.
+</table>Les gendarmes parvenus au 11e échelon de leur grade et qui se trouvent à moins de 11 ans de la limite d'âge de leur grade ont accès à un échelon exceptionnel attribué au choix par le ministre de l'intérieur, sur proposition de la commission d'avancement prévue à l'article L. 4136-3 du code de la défense, dans la limite d'un contingent fixé par arrêté du ministre de l'intérieur et des ministres chargés du budget et de la fonction publique.

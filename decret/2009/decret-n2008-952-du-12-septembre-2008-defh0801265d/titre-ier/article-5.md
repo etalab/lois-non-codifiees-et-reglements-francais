@@ -12,4 +12,4 @@ La hiérarchie du corps des sous-officiers de gendarmerie comporte les grades su
 
 5° Major.
 
-Les nominations et promotions à ces grades sont prononcées par décision du ministre de la défense.
+Les nominations et promotions à ces grades sont prononcées par décision du ministre de l'intérieur.
