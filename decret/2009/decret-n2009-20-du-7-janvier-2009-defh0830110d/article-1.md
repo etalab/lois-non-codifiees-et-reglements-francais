@@ -1,265 +1,380 @@
 # Article 1
 
-<div>
-<br/>L'échelonnement indiciaire applicable aux militaires régis par les décrets du 5 novembre 1976, du 4 janvier 1977 et du 12 septembre 2008 susvisés est fixé comme suit :<br/>
+L'échelonnement indiciaire applicable aux militaires régis par les décrets du 5 novembre 1976, du 4 janvier 1977 et du 12 septembre 2008 susvisés est fixé comme suit :
+
 <div align="center">
 
 <table>
+<tbody>
 <tr>
+<th>GRADE <br/>
+</th>
 <th>
-<br/>GRADE</th>
+<br/>ÉCHELON <br/>
+</th>
 <th>
-<br/>ÉCHELON</th>
-<th>
-<br/>INDICE BRUT</th>
+<br/>INDICE BRUT <br/>
+</th>
 </tr>
 <tr>
 <td align="center">
-<br/>Général de division ou vice-amiral.</td>
+<br/>Général de division ou vice-amiral <br/>
+</td>
 <td align="center">
-<br/>Echelon unique</td>
+<br/>Echelon unique <br/>
+</td>
 <td align="center">
-<br/>HE D</td>
+<br/>HE D <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Général de brigade ou contre-amiral.</td>
+<br/>Général de brigade ou contre-amiral <br/>
+</td>
 <td align="center">
-<br/>Echelon unique</td>
+<br/>Echelon unique <br/>
+</td>
 <td align="center">
-<br/>HE C</td>
+<br/>HE C <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Colonel ou capitaine de vaisseau.</td>
+<br/>Colonel ou capitaine de vaisseau <br/>
+</td>
 <td align="center">
-<br/>Echelon exceptionnel (1)</td>
+<br/>Echelon exceptionnel (1) <br/>
+</td>
 <td align="center">
-<br/>HE B</td>
+<br/>HE B <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/> </td>
+<br/>
+<br/>
+</td>
 <td align="center">
-<br/>3e échelon</td>
+<br/>3e échelon <br/>
+</td>
 <td align="center">
-<br/>HE A</td>
+<br/>HE A <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/> </td>
+<br/>
+<br/>
+</td>
 <td align="center">
-<br/>2e échelon</td>
+<br/>2e échelon <br/>
+</td>
 <td align="center">
-<br/>1015</td>
+<br/>1   015 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/> </td>
+<br/>
+<br/>
+</td>
 <td align="center">
-<br/>1er échelon</td>
+<br/>1er échelon <br/>
+</td>
 <td align="center">
-<br/>966</td>
+<br/>966 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Lieutenant-colonel ou capitaine de frégate.</td>
+<br/>Lieutenant-colonel ou capitaine de frégate <br/>
+</td>
 <td align="center">
-<br/>2e échelon exceptionnel (1)</td>
+<br/>2e échelon exceptionnel (1) <br/>
+</td>
 <td align="center">
-<br/>1015</td>
+<br/>HE A <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/> </td>
+<br/>
+<br/>
+</td>
 <td align="center">
-<br/>1er échelon exceptionnel (1)</td>
+<br/>1er échelon exceptionnel (1) <br/>
+</td>
 <td align="center">
-<br/>1015</td>
+<br/>1   015 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/> </td>
+<br/>
+<br/>
+</td>
 <td align="center">
-<br/>4e échelon</td>
+<br/>4e échelon <br/>
+</td>
 <td align="center">
-<br/>966</td>
+<br/>966 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/> </td>
+<br/>
+<br/>
+</td>
 <td align="center">
-<br/>3e échelon</td>
+<br/>3e échelon <br/>
+</td>
 <td align="center">
-<br/>884</td>
+<br/>884 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/> </td>
+<br/>
+<br/>
+</td>
 <td align="center">
-<br/>2e échelon</td>
+<br/>2e échelon <br/>
+</td>
 <td align="center">
-<br/>844</td>
+<br/>849 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/> </td>
+<br/>
+<br/>
+</td>
 <td align="center">
-<br/>1er échelon</td>
+<br/>1er échelon <br/>
+</td>
 <td align="center">
-<br/>797</td>
+<br/>840 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Commandant ou capitaine de corvette.</td>
+<br/>Commandant ou capitaine de corvette <br/>
+</td>
 <td align="center">
-<br/>2e échelon exceptionnel (1)</td>
+<br/>2e échelon exceptionnel (1) <br/>
+</td>
 <td align="center">
-<br/>904</td>
+<br/>930 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/> </td>
+<br/>
+<br/>
+</td>
 <td align="center">
-<br/>1er échelon exceptionnel (1)</td>
+<br/>1er échelon exceptionnel (1) <br/>
+</td>
 <td align="center">
-<br/>878</td>
+<br/>878 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/> </td>
+<br/>
+<br/>
+</td>
 <td align="center">
-<br/>4e échelon</td>
+<br/>4e échelon <br/>
+</td>
 <td align="center">
-<br/>751</td>
+<br/>808 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/> </td>
+<br/>
+<br/>
+</td>
 <td align="center">
-<br/>3e échelon</td>
+<br/>3e échelon <br/>
+</td>
 <td align="center">
-<br/>743</td>
+<br/>759 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/> </td>
+<br/>
+<br/>
+</td>
 <td align="center">
-<br/>2e échelon</td>
+<br/>2e échelon <br/>
+</td>
 <td align="center">
-<br/>710</td>
+<br/>757 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/> </td>
+<br/>
+<br/>
+</td>
 <td align="center">
-<br/>1er échelon</td>
+<br/>1er échelon <br/>
+</td>
 <td align="center">
-<br/>700</td>
+<br/>736 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Capitaine ou lieutenant de vaisseau.</td>
+<br/>Capitaine ou lieutenant de vaisseau <br/>
+</td>
 <td align="center">
-<br/>Echelon exceptionnel (1)</td>
+<br/>Echelon exceptionnel (1) <br/>
+</td>
 <td align="center">
-<br/>746</td>
+<br/>746 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/> </td>
+<br/>
+<br/>
+</td>
 <td align="center">
-<br/>5e échelon</td>
+<br/>5e échelon <br/>
+</td>
 <td align="center">
-<br/>699</td>
+<br/>720 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/> </td>
+<br/>
+<br/>
+</td>
 <td align="center">
-<br/>4e échelon</td>
+<br/>4e échelon <br/>
+</td>
 <td align="center">
-<br/>665</td>
+<br/>706 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/> </td>
+<br/>
+<br/>
+</td>
 <td align="center">
-<br/>3e échelon</td>
+<br/>3e échelon <br/>
+</td>
 <td align="center">
-<br/>630</td>
+<br/>694 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/> </td>
+<br/>
+<br/>
+</td>
 <td align="center">
-<br/>2e échelon</td>
+<br/>2e échelon <br/>
+</td>
 <td align="center">
-<br/>597</td>
+<br/>686 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/> </td>
+<br/>
+<br/>
+</td>
 <td align="center">
-<br/>1er échelon</td>
+<br/>1er échelon <br/>
+</td>
 <td align="center">
-<br/>574</td>
+<br/>676 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Lieutenant ou enseigne de vaisseau de 1re classe.</td>
+<br/>Lieutenant ou enseigne de vaisseau de 1re classe <br/>
+</td>
 <td align="center">
-<br/>4e échelon</td>
+<br/>4e échelon <br/>
+</td>
 <td align="center">
-<br/>573</td>
+<br/>627 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/> </td>
+<br/>
+<br/>
+</td>
 <td align="center">
-<br/>3e échelon</td>
+<br/>3e échelon <br/>
+</td>
 <td align="center">
-<br/>539</td>
+<br/>576 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/> </td>
+<br/>
+<br/>
+</td>
 <td align="center">
-<br/>2e échelon</td>
+<br/>2e échelon <br/>
+</td>
 <td align="center">
-<br/>509</td>
+<br/>528 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/> </td>
+<br/>
+<br/>
+</td>
 <td align="center">
-<br/>1er échelon</td>
+<br/>1er échelon <br/>
+</td>
 <td align="center">
-<br/>457</td>
+<br/>457 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/> </td>
+<br/>
+<br/>
+</td>
 <td align="center">
-<br/>Echelon provisoire (2)</td>
+<br/>Echelon provisoire (2) <br/>
+</td>
 <td align="center">
-<br/>389</td>
+<br/>389 <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-lieutenant ou enseigne de vaisseau de 2e classe.</td>
+<br/>Sous-lieutenant ou enseigne de vaisseau de 2e classe <br/>
+</td>
 <td align="center">
-<br/>Echelon unique</td>
+<br/>Echelon unique <br/>
+</td>
 <td align="center">
-<br/>389
+<br/>389 <br/>
 </td>
 </tr>
 <tr>
 <td colspan="3">
-<br/> (1) Echelon exceptionnel attribué dans les conditions prévues par le statut particulier du corps.<br/>(2) Echelon provisoire attribué dans les conditions prévues par le décret n° 2008-931 susvisé.</td>
+<br/>(1) Echelon exceptionnel attribué dans les conditions prévues par le statut particulier du corps. <br/>
+<br/>(2) Echelon provisoire attribué dans les conditions prévues par le décret n° 2008-931 susvisé. <br/>
+</td>
 </tr>
+</tbody>
 </table>
 
-</div>
-<br/>
 </div>
