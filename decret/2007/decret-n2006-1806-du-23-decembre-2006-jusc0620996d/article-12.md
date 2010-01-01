@@ -1,9 +1,9 @@
 # Article 12
 
-I. - Le présent décret est applicable à Mayotte.
+I. - Indépendamment de l'application de plein droit des articles 3 et 9 du présent décret en Polynésie française, celui-ci est applicable en Nouvelle-Calédonie et dans les îles Wallis et Futuna.
 
-Pour son application à Mayotte, les mots : " tribunal de grande instance " ou " tribunal d'instance " sont remplacés par les mots : " tribunal de première instance ".
+II. - Pour l'application du présent décret à Mayotte, en Nouvelle-Calédonie et dans les îles Wallis et Futuna, les mots : "tribunal d'instance" sont remplacés par les mots : "tribunal de première instance" et au dernier alinéa de l'article 1er, les mots : "tribunal de grande instance" sont remplacés par les mots : "tribunal de première instance".
 
-II. - Indépendamment de l'application de plein droit des articles 3 et 9 du présent décret dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie, les dispositions des 2° et 3° du II de l'article 11 y sont également applicables.
+Pour l'application des articles 2, 4 et 5 du présent décret dans les îles Wallis et Futuna, les mots : "lettre recommandée avec demande d'avis de réception" sont remplacés par les mots : "lettre simple contre émargement".
 
-Pour l'application des dispositions du 2° du II de l'article 11, les mots : " tribunal d'instance " sont remplacés par les mots : " tribunal de première instance ".
+Pour l'application de l'article 3 du présent décret en Polynésie française, les mots : "tribunal d'instance" sont remplacés par les mots : "tribunal de première instance".
