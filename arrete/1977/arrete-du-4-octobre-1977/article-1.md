@@ -318,9 +318,7 @@ L'échelonnement indiciaire applicable à certains emplois de l'administration c
 </tr>
 <tr>
 <td>
-<p>
-<u>Classe exceptionnelle</u>
-</p>
+<p>Classe exceptionnelle</p>
 </td>
 <td>
 <pre> </pre>
@@ -344,9 +342,7 @@ L'échelonnement indiciaire applicable à certains emplois de l'administration c
 </tr>
 <tr>
 <td>
-<p>
-<u>1re classe</u>
-</p>
+<p>1re classe</p>
 </td>
 <td>
 <pre> </pre>
@@ -378,9 +374,7 @@ L'échelonnement indiciaire applicable à certains emplois de l'administration c
 </tr>
 <tr>
 <td>
-<p>
-<u>2e classe</u>
-</p>
+<p>2e classe</p>
 </td>
 <td>
 <pre> </pre>
@@ -432,7 +426,7 @@ L'échelonnement indiciaire applicable à certains emplois de l'administration c
 <tbody>
 <tr>
 <td>
-<p align="center">II. - Services déconcentrés</p>
+<p align="center">II. - Services déconcentrés </p>
 </td>
 <td/>
 </tr>
@@ -444,7 +438,9 @@ L'échelonnement indiciaire applicable à certains emplois de l'administration c
 </tr>
 <tr>
 <td>Trésorier-payeur général : (1)</td>
-<td>1015</td>
+<td>
+<p align="center">1015</p>
+</td>
 </tr>
 <tr>
 <td>
@@ -472,414 +468,10 @@ L'échelonnement indiciaire applicable à certains emplois de l'administration c
 </tr>
 <tr>
 <td>
-<p align="center">C. - Douanes et droits indirects</p>
+<p align="center">C. - Douanes et droits indirects (abrogé au 1er janvier 2010)</p>
 </td>
 <td>
 <pre> </pre>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur interrégional :</p>
-</td>
-<td>
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">Echelon fonctionnel</p>
-</td>
-<td>
-<p align="center">HEC</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">1er échelon</p>
-</td>
-<td>
-<p align="center">HEB</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur de la direction nationale du renseignement et des enquêtes douanières :</p>
-</td>
-<td>
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">Echelon unique</p>
-</td>
-<td>
-<p align="center">HEC</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur régional :</p>
-</td>
-<td>
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">Echelon fonctionnel</p>
-</td>
-<td>
-<p align="center">HEB</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">2e échelon</p>
-</td>
-<td>
-<p align="center">HEA</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">1er échelon</p>
-</td>
-<td>
-<p align="center">1015</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur fonctionnel :</p>
-</td>
-<td>
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">3e échelon</p>
-</td>
-<td>
-<p align="center">HEB</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">2e échelon</p>
-</td>
-<td>
-<p align="center">HEA</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">1er échelon</p>
-</td>
-<td>
-<p align="center">1015</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Directeur des services douaniers:</p>
-</td>
-<td>
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td>
-<p>
-<u>1re classe</u> :</p>
-</td>
-<td>
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">3e échelon</p>
-</td>
-<td>
-<p align="center">HEA</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">2e échelon</p>
-</td>
-<td>
-<p align="center">1015</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">1er échelon</p>
-</td>
-<td>
-<p align="center">985</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>
-<u>2e classe</u> :</p>
-</td>
-<td>
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">6e échelon</p>
-</td>
-<td>
-<p align="center">1015</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">5e échelon</p>
-</td>
-<td>
-<p align="center">985</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">4e échelon</p>
-</td>
-<td>
-<p align="center">946</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">3e échelon</p>
-</td>
-<td>
-<p align="center">875</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">2e échelon</p>
-</td>
-<td>
-<p align="center">821</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">1er échelon</p>
-</td>
-<td>
-<p align="center">759</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Inspecteur principal :</p>
-</td>
-<td>
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td>
-<p>
-<u>1re classe</u> :</p>
-</td>
-<td>
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">3e échelon</p>
-</td>
-<td>
-<p align="center">966</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">2e échelon</p>
-</td>
-<td>
-<p align="center">916</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">1er échelon</p>
-</td>
-<td>
-<p align="center">864</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>
-<u>2e classe</u> :</p>
-</td>
-<td>
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">7e échelon</p>
-</td>
-<td>
-<p align="center">821</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">6e échelon</p>
-</td>
-<td>
-<p align="center">759</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">5e échelon</p>
-</td>
-<td>
-<p align="center">705</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">4e échelon</p>
-</td>
-<td>
-<p align="center">660</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">3e échelon</p>
-</td>
-<td>
-<p align="center">603</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">2e échelon</p>
-</td>
-<td>
-<p align="center">572</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">1er échelon</p>
-</td>
-<td>
-<p align="center">538</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Inspecteur régional de 1re classe:</p>
-</td>
-<td>
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">3e échelon</p>
-</td>
-<td>
-<p align="center">966</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">2e échelon</p>
-</td>
-<td>
-<p align="center">916</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">1er échelon</p>
-</td>
-<td>
-<p align="center">864</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Inspecteur régional de 2e classe:</p>
-</td>
-<td>
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">3e échelon</p>
-</td>
-<td>
-<p align="center">901</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">2e échelon</p>
-</td>
-<td>
-<p align="center">864</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">1er échelon</p>
-</td>
-<td>
-<p align="center">821</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Inspecteur régional de 3e classe:</p>
-</td>
-<td>
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">3e échelon</p>
-</td>
-<td>
-<p align="center">821</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">2e échelon</p>
-</td>
-<td>
-<p align="center">759</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2">
-<p align="center">1er échelon</p>
-</td>
-<td rowspan="2">
-<p align="center">705</p>
 </td>
 </tr>
 </tbody>
@@ -891,7 +483,7 @@ L'échelonnement indiciaire applicable à certains emplois de l'administration c
 <p align="center">D. - Service des laboratoires</p>
 </td>
 <td>
-<pre> </pre>
+<pre>           </pre>
 </td>
 </tr>
 <tr>
