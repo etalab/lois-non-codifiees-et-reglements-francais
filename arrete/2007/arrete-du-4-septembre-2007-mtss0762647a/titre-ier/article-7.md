@@ -8,7 +8,7 @@ Le droit de citer des témoins appartient également à l'administration et à l
 
 Le président du conseil d'administration de l'organisme dont relève l'agent mis en cause, ou son représentant, est entendu par la commission.
 
-Un représentant de la caisse nationale ainsi qu'un représentant du directeur régional des affaires sanitaires et sociales concerné peuvent également être entendus par la commission.
+Un représentant de la caisse nationale ainsi qu'un représentant du service mentionné à l'article R. 155-1 du code de la sécurité sociale concerné peuvent également être entendus par la commission.
 
 Lorsque l'agent déféré devant la commission est un agent de direction autre que le directeur et l'agent comptable, l'audition du directeur de la caisse de base à laquelle appartient l'agent est obligatoire.
 

@@ -488,7 +488,6 @@
 - [Arrêté du 15 juillet 1974](arrete-du-15-juillet-1974)
 - [Arrêté du 15 juillet 1996 (BUDD9670495A)](arrete-du-15-juillet-1996-budd9670495a)
 - [Arrêté du 15 juillet 1996 (INTE9600408A)](arrete-du-15-juillet-1996-inte9600408a)
-- [Arrêté du 15 mars 1996 (BUDL9600022A)](arrete-du-15-mars-1996-budl9600022a)
 - [Arrêté du 15 mars 1996 (BUDR9605005A)](arrete-du-15-mars-1996-budr9605005a)
 - [Arrêté du 15 mars 1996 (MCCK9600170A)](arrete-du-15-mars-1996-mcck9600170a)
 - [Arrêté du 15 novembre 1996 (DEFD9602128A)](arrete-du-15-novembre-1996-defd9602128a)
