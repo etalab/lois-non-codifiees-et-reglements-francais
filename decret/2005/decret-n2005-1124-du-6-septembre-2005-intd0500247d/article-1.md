@@ -24,6 +24,8 @@ h) Des agents qualifiés pour la réalisation des opérations matérielles néce
 
 i) Des personnes mettant en oeuvre le dispositif technique permettant le contrôle à distance des personnes placées sous surveillance électronique ;
 
+j) Des agents de la Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet appelés à participer à la mise en œuvre des missions de la commission de protection des droits.
+
 2° Recrutement des membres des juridictions administratives, des magistrats de l'ordre judiciaire et des juges de proximité ;
 
 3° Recrutement ou nomination et affectation :
