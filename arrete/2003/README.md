@@ -905,7 +905,6 @@
 - [Arrêté du 27 octobre 2003 (ECOT0314358A)](arrete-du-27-octobre-2003-ecot0314358a)
 - [Arrêté du 27 octobre 2003 (ECOT0351194A)](arrete-du-27-octobre-2003-ecot0351194a)
 - [Arrêté du 27 mai 2003 (AGRP0301172A)](arrete-du-27-mai-2003-agrp0301172a)
-- [Arrêté du 27 mai 2003 (BUDR0307060A)](arrete-du-27-mai-2003-budr0307060a)
 - [Arrêté du 27 mai 2003 (MENE0301185A)](arrete-du-27-mai-2003-mene0301185a)
 - [Arrêté du 27 mai 2003 (MENE0301199A)](arrete-du-27-mai-2003-mene0301199a)
 - [Arrêté du 27 mai 2003 (SANH0321928A)](arrete-du-27-mai-2003-sanh0321928a)

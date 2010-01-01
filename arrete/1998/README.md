@@ -75,7 +75,6 @@
 - [Arrêté du 3 juin 1998 (MENR9801558A)](arrete-du-3-juin-1998-menr9801558a)
 - [Arrêté du 3 juin 1998 (MENS9801599A)](arrete-du-3-juin-1998-mens9801599a)
 - [Arrêté du 3 mars 1997 (FCEC9700037A)](arrete-du-3-mars-1997-fcec9700037a)
-- [Arrêté du 3 novembre 1997 (ECOR9707036A)](arrete-du-3-novembre-1997-ecor9707036a)
 - [Arrêté du 3 novembre 1998 (MESW9811161A)](arrete-du-3-novembre-1998-mesw9811161a)
 - [Arrêté du 3 septembre 1998 (ECOS9850054A)](arrete-du-3-septembre-1998-ecos9850054a)
 - [Arrêté du 3 septembre 1998 (ECOS9850055A)](arrete-du-3-septembre-1998-ecos9850055a)
