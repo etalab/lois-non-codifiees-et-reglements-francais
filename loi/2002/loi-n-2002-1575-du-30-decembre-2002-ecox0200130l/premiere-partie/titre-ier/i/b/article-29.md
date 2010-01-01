@@ -28,11 +28,15 @@ e) Pour les communes qui font application en 2002 ou pour la première fois en 2
 
 Pour les années suivantes, le montant de la compensation prévue au D de l'article 44 de la loi de finances pour 1999 précitée est calculé sur la base de celle attribuée en 2003 après déduction du montant de la diminution prévue au premier alinéa.
 
+La diminution prévue au premier alinéa est supprimée à compter de l'année 2011.
+
 2. Pour les communes et les établissements publics de coopération intercommunale, lorsque le montant de la compensation prévue au D de l'article 44 de la loi de finances pour 1999 précitée est, en 2003, inférieur au montant de la diminution à opérer en application du 1, le solde est prélevé, au profit du budget général de l'Etat, sur le produit de la taxe foncière sur les propriétés bâties, de la taxe foncière sur les propriétés non bâties, de la taxe d'habitation et de la taxe professionnelle perçu au profit de ces communes et établissements.
 
 Pour les années suivantes, ce solde est actualisé chaque année du taux d'évolution de la dotation globale de fonctionnement.
 
 A compter de 2004, ce solde est actualisé chaque année du taux d'évolution de la dotation forfaitaire prévue à l'article L. 2334-7 du code général des collectivités territoriales. Pour les communes, il est calculé conformément aux dispositions de l'avant-dernier alinéa de ce même article.
+
+Ce solde est supprimé à compter de l'année 2011.
 
 3. En cas d'impositions supplémentaires ou de dégrèvements consécutifs à une rectification des bases imposables de la taxe professionnelle ou de la taxe spéciale d'équipement additionnelle à la taxe professionnelle de France Télécom au titre de 2003, il est procédé à la régularisation du prélèvement opéré en application des 1 et 2.
 
@@ -41,6 +45,8 @@ IV. - Il est effectué en 2003 un prélèvement au profit de l'Etat sur le produ
 A compter de 2004, le prélèvement mentionné à l'alinéa ci-dessus est égal à celui opéré en 2003, actualisé chaque année en fonction de l'évolution du produit arrêté par la chambre.
 
 A compter de 2005, le prélèvement mentionné au premier alinéa est égal à celui opéré en 2004 actualisé, chaque année, en fonction de l'indice de valeur du produit intérieur brut total tel qu'il est estimé dans la projection économique présentée en annexe au projet de loi de finances de l'année.
+
+Ce prélèvement est supprimé à compter du 1er janvier 2010.
 
 V. Paragraphe modificateur
 

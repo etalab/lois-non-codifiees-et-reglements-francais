@@ -38,7 +38,7 @@ a) Un taux de chômage supérieur de trois points à la moyenne nationale ;
 
 b) Une variation annuelle moyenne négative de la population entre les deux derniers recensements connus supérieure en valeur absolue à 0, 15 % ;
 
-c) Une variation annuelle moyenne négative de l'emploi total sur une période de trois ans supérieure en valeur absolue à 0, 75 % ;
+c) Une variation négative de l'emploi total sur une période de quatre ans supérieure ou égale en valeur absolue à 0, 65 % ;
 
 d) Un rapport entre la perte locale d'emplois directs du fait de la réorganisation des unités militaires sur le territoire national et la population salariée d'au moins 5 %.
 
