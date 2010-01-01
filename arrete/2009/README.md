@@ -362,7 +362,6 @@
 - [Arrêté du 6 avril 2009 (AGRP0905214A)](arrete-du-6-avril-2009-agrp0905214a)
 - [Arrêté du 6 avril 2009 (DEFD0905940A)](arrete-du-6-avril-2009-defd0905940a)
 - [Arrêté du 6 avril 2009 (DEFD0905946A)](arrete-du-6-avril-2009-defd0905946a)
-- [Arrêté du 6 avril 2009 (DEFF0905635A)](arrete-du-6-avril-2009-deff0905635a)
 - [Arrêté du 6 avril 2009 (DEVA0907883A)](arrete-du-6-avril-2009-deva0907883a)
 - [Arrêté du 6 avril 2009 (ECEC0907989A)](arrete-du-6-avril-2009-ecec0907989a)
 - [Arrêté du 6 avril 2009 (ECED0908098A)](arrete-du-6-avril-2009-eced0908098a)
