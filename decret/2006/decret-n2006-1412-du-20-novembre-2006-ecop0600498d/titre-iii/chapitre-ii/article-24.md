@@ -1,9 +1,5 @@
 # Article 24
 
-Peuvent être promus au grade d'agent principal :
+Les agents des douanes pour l'administration de Mayotte classés sur un échelon comportant un indice correspondant à un traitement net mensuel inférieur au montant net mensuel du SMIG mahorais calculé en application des articles L. 141-2, L. 212-2 et R. 141-2 du code du travail applicable à Mayotte, sont reclassés dans leur corps à l'échelon comportant un indice correspondant à un traitement net mensuel égal ou à défaut immédiatement supérieur au montant net mensuel du SMIG mahorais. Ce calcul est effectué sur la base d'une quotité de travail à temps complet.
 
-1° après examen professionnel, les agents des douanes ayant atteint au moins le 3e échelon de leur grade au 31 décembre de l'année au cours de laquelle se déroulent les épreuves de l'examen professionnel ;
-
-2° au choix, après avis de la commission administrative paritaire, les agents des douanes ayant atteint au moins le 5e échelon de leur grade au 31 décembre de l'année de leur nomination.
-
-Ces promotions s'effectuent pour le tiers au moins et les deux tiers au plus par la voie de l'examen professionnel.
+Les dispositions du présent article, qui peuvent, le cas échéant, être mises en œuvre à l'occasion de chaque augmentation du SMIG mahorais, prennent effet à la date de cette augmentation.

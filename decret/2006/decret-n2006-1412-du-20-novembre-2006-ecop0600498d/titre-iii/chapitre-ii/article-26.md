@@ -1,3 +1,3 @@
 # Article 26
 
-Les règles d'organisation générale de l'examen professionnel mentionné à l'article 24, la nature et le programme de l'épreuve ou des épreuves sont fixés par un arrêté conjoint du ministre chargé de la fonction publique et du ministre chargé du budget.
+Les règles relatives au niveau et aux modalités de délégation des pouvoirs en matière de recrutement, de nomination et de gestion dans le corps des agents de constatation des douanes sont applicables au corps des agents des douanes pour l'administration de Mayotte.
