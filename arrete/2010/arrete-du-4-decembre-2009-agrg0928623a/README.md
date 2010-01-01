@@ -1,0 +1,11 @@
+# Arrêté du 4 décembre 2009 relatif à la lutte contre les infections à Salmonella dans les troupeaux de dindes de reproduction de l'espèce Meleagris gallopavo et fixant les modalités de déclaration des salmonelloses aviaires, visées à l'article D. 223-1 du code rural, dans ces mêmes troupeaux
+
+- [CHAPITRE IER : GENERALITES](chapitre-ier)
+- [CHAPITRE II : DEPISTAGE OBLIGATOIRE DES INFECTIONS A SALMONELLA](chapitre-ii)
+- [CHAPITRE III : MESURES A PRENDRE EN CAS DE SUSPICION  OU DE CONFIRMATION D'INFECTION](chapitre-iii)
+- [CHAPITRE IV : DECONTAMINATION ET VACCINATION](chapitre-iv)
+- [CHAPITRE V : ALIMENTATION DES ANIMAUX](chapitre-v)
+- [CHAPITRE VI : MODALITES DE DECLARATION DES SALMONELLOSES AVIAIRES DANS LES TROUPEAUX DE L'ESPECE MELEAGRIS GALLOPAVO, VISEES A L'ARTICLE D. 223 1 DU CODE RURAL RELATIF AUX MALADIES A DECLARATION OBLIGATOIRE](chapitre-vi)
+- [CHAPITRE VII : MESURES A PRENDRE EN CAS DE CONFIRMATION D'INFECTION DANS LES TROUPEAUX DE VOLAILLES DE REPRODUCTION EN CE QUI CONCERNE LES PRODUITS DE VOLAILLES](chapitre-vii)
+- [CHAPITRE VIII : DISPOSITIONS GENERALES](chapitre-viii)
+- [Annexes](annexes)

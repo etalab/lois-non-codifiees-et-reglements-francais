@@ -1,6 +1,6 @@
 # Article Annexe II
 
-PLAFONDS DE RESSOURCES ANNUELLES IMPOSABLES PRÉVUS À L'ARTICLE R. 331-12 DU CODE DE LA CONSTRUCTION ET DE L'HABITATION APPLICABLES AUX LOGEMENTS MENTIONNÉS AU II DE L'ARTICLE R. 331-1 (PLA D'INTÉGRATION)
+<div align="left">Plafonds de ressources annuelles (revenu fiscal de référence) prévus à l'article R. 331-12 du code de la construction et d l'habitation applicables aux logements mentionnés au II de l'article R. 331-1 (PLA d'intégration) </div>
 
 <table>
 <tbody>
@@ -12,10 +12,10 @@ PLAFONDS DE RESSOURCES ANNUELLES IMPOSABLES PRÉVUS À L'ARTICLE R. 331-12 DU CO
 <p align="center">PARIS<br/>et communes limitrophes<br/>(en euros) </p>
 </td>
 <td>
-<p align="center">ILE-DE-FRANCE<br/>hors Paris<br/>et communes limitrophes<br/>(en euros) </p>
+<p align="center">ILE-DE-FRANCE<br/>hors Paris<br/>et communes limitrophes<br/>(en euros)</p>
 </td>
 <td>
-<p align="center">AUTRES RÉGIONS<br/>(en euros) </p>
+<p align="center">AUTRES RÉGIONS<br/>(en euros)</p>
 </td>
 </tr>
 <tr>
@@ -23,13 +23,13 @@ PLAFONDS DE RESSOURCES ANNUELLES IMPOSABLES PRÉVUS À L'ARTICLE R. 331-12 DU CO
 <br/>1 <br/>
 </td>
 <td align="center">
-<br/>11 993 <br/>
+<br/>12 031 <br/>
 </td>
 <td align="center">
-<br/>11 993 <br/>
+<br/>12 031 <br/>
 </td>
 <td align="center">
-<br/>10 424 <br/>
+<br/>10 457 <br/>
 </td>
 </tr>
 <tr>
@@ -37,13 +37,13 @@ PLAFONDS DE RESSOURCES ANNUELLES IMPOSABLES PRÉVUS À L'ARTICLE R. 331-12 DU CO
 <br/>2 <br/>
 </td>
 <td align="center">
-<br/>19 551 <br/>
+<br/>19 614 <br/>
 </td>
 <td align="center">
-<br/>19 551 <br/>
+<br/>19 614 <br/>
 </td>
 <td align="center">
-<br/>15 188 <br/>
+<br/>15 237 <br/>
 </td>
 </tr>
 <tr>
@@ -51,13 +51,13 @@ PLAFONDS DE RESSOURCES ANNUELLES IMPOSABLES PRÉVUS À L'ARTICLE R. 331-12 DU CO
 <br/>3 <br/>
 </td>
 <td align="center">
-<br/>25 629 <br/>
+<br/>25 711 <br/>
 </td>
 <td align="center">
-<br/>23 501 <br/>
+<br/>23 576 <br/>
 </td>
 <td align="center">
-<br/>18 264 <br/>
+<br/>18 322 <br/>
 </td>
 </tr>
 <tr>
@@ -65,13 +65,13 @@ PLAFONDS DE RESSOURCES ANNUELLES IMPOSABLES PRÉVUS À L'ARTICLE R. 331-12 DU CO
 <br/>4 <br/>
 </td>
 <td align="center">
-<br/>28 051 <br/>
+<br/>28 141 <br/>
 </td>
 <td align="center">
-<br/>25 804 <br/>
+<br/>25 887 <br/>
 </td>
 <td align="center">
-<br/>20 323 <br/>
+<br/>20 388 <br/>
 </td>
 </tr>
 <tr>
@@ -79,13 +79,13 @@ PLAFONDS DE RESSOURCES ANNUELLES IMPOSABLES PRÉVUS À L'ARTICLE R. 331-12 DU CO
 <br/>5 <br/>
 </td>
 <td align="center">
-<br/>33 371 <br/>
+<br/>33 478 <br/>
 </td>
 <td align="center">
-<br/>30 549 <br/>
+<br/>30 647 <br/>
 </td>
 <td align="center">
-<br/>23 778 <br/>
+<br/>23 854 <br/>
 </td>
 </tr>
 <tr>
@@ -93,13 +93,13 @@ PLAFONDS DE RESSOURCES ANNUELLES IMPOSABLES PRÉVUS À L'ARTICLE R. 331-12 DU CO
 <br/>6 <br/>
 </td>
 <td align="center">
-<br/>37 554 <br/>
+<br/>37 674 <br/>
 </td>
 <td align="center">
-<br/>34 376 <br/>
+<br/>34 486 <br/>
 </td>
 <td align="center">
-<br/>26 796 <br/>
+<br/>26 882 <br/>
 </td>
 </tr>
 <tr>
@@ -107,14 +107,13 @@ PLAFONDS DE RESSOURCES ANNUELLES IMPOSABLES PRÉVUS À L'ARTICLE R. 331-12 DU CO
 <br/>Par personne supplémentaire <br/>
 </td>
 <td align="center">
-<br/>4 185 <br/>
+<br/>4 198 <br/>
 </td>
 <td align="center">
-<br/>3 830 <br/>
+<br/>3 842 <br/>
 </td>
 <td align="center">
-<br/>2 988<br/>
-</td>
+<br/>2 998</td>
 </tr>
 </tbody>
 </table>

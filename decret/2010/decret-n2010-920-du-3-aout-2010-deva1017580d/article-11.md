@@ -1,0 +1,5 @@
+# Article 11
+
+Le bénéfice de l'indemnité spéciale de qualification est étendu aux ingénieurs principaux de la circulation aérienne, aux ingénieurs divisionnaires du contrôle de la circulation aérienne et aux ingénieurs en chef de la navigation aérienne, nommés dans l'un de ces grades depuis au moins six ans, qui, après avoir obtenu et exercé la totalité des mentions d'unité d'une de leurs précédentes affectations, sont chargés dans les organismes de la circulation aérienne, les services à compétence nationale, certains autres services de la direction générale de l'aviation civile et les établissements publics relevant du ministre chargé de l'aviation civile déterminés par arrêté conjoint du ministre chargé de l'aviation civile, du ministre chargé du budget et du ministre chargé de la fonction publique de fonctions répertoriées dans une liste établie par arrêté du ministre chargé de l'aviation civile.
+
+Cette indemnité est également allouée, selon les modalités définies par l'arrêté prévu à l'article 10 du présent décret, aux personnels qui justifient de seize ans d'exercice des fonctions mentionnées à ce même article 10, ainsi qu'à l'alinéa précédent.

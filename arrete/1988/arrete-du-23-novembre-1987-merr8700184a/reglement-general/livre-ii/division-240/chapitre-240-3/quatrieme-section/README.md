@@ -2,6 +2,7 @@
 
 - [Article 240-3.19](article-240-3-19.md)
 - [Article 240-3.20](article-240-3-20.md)
+- [Article 240-A.7](article-240-a-7.md)
 - [Article Annexe 240-A.1](article-annexe-240-a-1.md)
 - [Article Annexe 240-A.2](article-annexe-240-a-2.md)
 - [Article Annexe 240-A.3](article-annexe-240-a-3.md)

@@ -1,0 +1,7 @@
+# Article 21
+
+I. ― Les personnes physiques ou morales exerçant une activité agricole, pastorale ou forestière de façon permanente ou saisonnière dans le cœur du parc peuvent librement prélever du bois de chauffage pour leurs besoins domestiques, dans le respect des droits du propriétaire et sans préjudice des dispositions du code forestier relatives au partage de l'affouage.
+
+II. ― Les personnes physiques ou morales exerçant une activité agricole, pastorale ou forestière de façon permanente ou saisonnière dans le cœur du parc peuvent bénéficier de dispositions plus favorables que celles du III de l'article 15 ou qui en résultent, dans la mesure nécessaire à l'exercice à leur activité, en matière de circulation de véhicules terrestres à moteur.
+
+III. ― Les personnes physiques ou morales exerçant une activité agricole ou pastorale de façon permanente dans le cœur du parc peuvent bénéficier de dispositions plus favorables que celles édictées par l'article 7 ou qui en résultent, afin de procéder, dans les lieux-dits figurant sur la liste annexée au présent décret, à l'édification d'installations ou bâtiments techniques, à l'extension mesurée de bâtiments à usage d'habitation existant ainsi qu'à la construction de bâtiments à usage d'habitation nouveaux destinés, le cas échéant, à l'hébergement touristique, lorsque ces réalisations sont justifiées par les nécessités de leur exploitation.

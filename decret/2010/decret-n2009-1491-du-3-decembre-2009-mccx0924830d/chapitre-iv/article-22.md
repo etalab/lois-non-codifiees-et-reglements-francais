@@ -1,0 +1,3 @@
+# Article 22
+
+Les comptes financiers de la Cité des sciences et de l'industrie et du palais de la Découverte relatifs à l'exercice 2009 sont respectivement établis par les agents comptables en fonction à la date de suppression de chacun des deux établissements. Ils sont arrêtés par le conseil d'administration de l'Etablissement public du palais de la Découverte et de la Cité des sciences et de l'industrie. Ils sont approuvés par les tutelles et transmis au juge des comptes selon les règles propres qui étaient applicables respectivement à la Cité des sciences et de l'industrie et au palais de la Découverte.

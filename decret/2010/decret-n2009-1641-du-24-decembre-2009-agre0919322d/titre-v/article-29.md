@@ -1,0 +1,3 @@
+# Article 29
+
+Le diplôme délivré à un étudiant inscrit, à la date de création de l'Institut d'enseignement supérieur et de recherche en alimentation, santé animale, sciences agronomiques et de l'environnement, à l'Ecole nationale vétérinaire de Lyon et à l'Ecole nationale d'ingénieurs des travaux agricoles de Clermont-Ferrand l'est au titre de l'Institut d'enseignement supérieur et de recherche en alimentation, santé animale, sciences agronomiques et de l'environnement. Toutefois, les étudiants qui en font la demande peuvent recevoir, au lieu et place de ce diplôme, celui de l'établissement dans lequel ils étaient antérieurement inscrits.

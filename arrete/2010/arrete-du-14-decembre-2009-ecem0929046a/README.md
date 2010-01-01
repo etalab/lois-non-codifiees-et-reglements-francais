@@ -1,0 +1,4 @@
+# Arrêté du 14 décembre 2009 relatif à la dématérialisation des procédures de passation des marchés publics
+
+- [CHAPITRE IER : DISPOSITIONS RELATIVES A LA DEMATERIALISATION DES DOCUMENTS  DE LA CONSULTATION, DES CANDIDATURES ET DES OFFRES](chapitre-ier)
+- [CHAPITRE II : MODALITES DE SECURISATION  DES PROCEDURES ELECTRONIQUES DE PASSATION](chapitre-ii)

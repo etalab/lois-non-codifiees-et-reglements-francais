@@ -1,0 +1,3 @@
+# Article 1
+
+Le recouvrement des rôles d'impôts des contribuables ayant leur domicile ou leur résidence dans les communes de Bouclans, Breconchaux, Champlive, Châtillon-Guyotte, Dammartin-les-Templiers, Deluz, L'Ecouvotte, Glamondans, Gonsans, Laissey, Montfaucon, Naisey-les-Granges, Nancray, Osse, Ougney-Douvot, Pouligney-Lusans, Le Puy, Roulans, Saint-Hilaire, Séchin, Val-de-Roulans, Vauchamps, Vennans et Villers-Grélot et dont la mise en recouvrement est postérieure à la date fixée au dernier article du présent arrêté est transféré du comptable du Trésor de la trésorerie de Morre-Roulans au comptable du Trésor de la trésorerie de Besançon (Doubs).

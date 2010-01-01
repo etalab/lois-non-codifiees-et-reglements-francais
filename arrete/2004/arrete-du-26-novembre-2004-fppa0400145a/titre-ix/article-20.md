@@ -8,4 +8,6 @@ a) Des valeurs émises ou garanties par un Etat membre de l'Organisation de coop
 
 b) Des actions ou des parts émises par les organismes mentionnés au 4° de l'article R. 931-10-21 du code de la sécurité sociale, dont le portefeuille est exclusivement composé des valeurs mentionnées ci-dessus.
 
-2. 1 % pour la valeurs mentionnées au 9° de l'article R. 931-10-21 du code de la sécurité sociale émise par un même fonds.
+2. 1 % pour les valeurs mentionnées au 9° de l'article R. 931-10-21 du code de la sécurité sociale ;
+
+3. 1 % pour un même immeuble ou pour les valeurs mentionnées aux 12° à 12° ter et 12° quinquies du même article.

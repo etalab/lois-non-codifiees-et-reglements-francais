@@ -1,0 +1,3 @@
+# Article 4
+
+Les ingénieurs des études et de l'exploitation de l'aviation civile qui perçoivent, à la date d'entrée en vigueur du présent décret, une indemnité pour risques professionnels dans les conditions prévues à l'article 5 du décret du 30 avril 1998 susvisé ainsi que les agents contractuels assimilés exerçant effectivement les mêmes fonctions que celles dévolues aux ingénieurs des études et de l'exploitation de l'aviation civile et qui perçoivent la même indemnité bénéficient également, à titre personnel et transitoire, d'une majoration exceptionnelle de la prime d'activité dont les montants mensuels sont fixés par l'arrêté mentionné à l'article 3 du présent décret.

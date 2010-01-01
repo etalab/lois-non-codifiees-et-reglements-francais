@@ -1,0 +1,3 @@
+# Article 9
+
+Tout résultat d'analyse portant sur des prélèvements effectués dans un couvoir, dans un lieu d'élevage de volailles de reproduction, dans un véhicule de transport de volailles de reproduction ou d'œufs à couver, dans des boîtes de transport de dindonneaux futurs reproducteurs d'un jour, sur de l'aliment fini prélevé sur le site d'élevage, ou sur des volailles de reproduction vivantes ou mortes, permettant de suspecter la présence de Salmonella enteritidis et Salmonella typhimurium dans un troupeau de volailles, constitue une suspicion d'infection salmonellique réputée contagieuse des volailles.

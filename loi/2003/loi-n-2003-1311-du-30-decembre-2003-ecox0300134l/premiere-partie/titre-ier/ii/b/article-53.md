@@ -44,6 +44,12 @@ Les départements et régions éligibles à la compensation bénéficient d'une 
 
 Les conditions d'application du présent I bis sont précisées, en tant que de besoin, par décret en Conseil d'Etat.
 
+I ter. - La compensation prévue au premier alinéa du 1° du I en faveur des communes, au dernier alinéa du même I en faveur des établissements publics de coopération intercommunale dotés d'une fiscalité propre et au I bis au profit des départements et des régions est supprimée à compter du 1er janvier 2010 lorsqu'elle compense une perte de bases d'imposition à la taxe professionnelle.
+
+Les collectivités territoriales et établissements publics de coopération intercommunale dotés d'une fiscalité propre éligibles à la compensation mentionnée au précédent alinéa avant le 1er janvier 2010 perçoivent jusqu'à son terme la compensation calculée à partir des pertes de bases d'imposition à la taxe professionnelle constatées avant la suppression de cette taxe.
+
+I quater. - La compensation prévue au premier alinéa du 2° du I en faveur des communes et des établissements publics de coopération intercommunale dotés d'une fiscalité propre est supprimée à compter du 1er janvier 2011.
+
 II. - Les communes et groupements de communes devant bénéficier en 2004 et les années suivantes d'une attribution en application des dixième, onzième et douzième alinéas du 2° du II de l'article 1648 B du code général des impôts dans sa rédaction antérieure à la présente loi bénéficient de l'application des sixième, septième et huitième alinéas du présent I.
 
 III. à VI. - Paragraphes modificateurs.

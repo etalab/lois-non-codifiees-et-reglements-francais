@@ -1,0 +1,9 @@
+# Article 3
+
+Outre la prime de technicité, les personnels mentionnés à l'article 1er peuvent bénéficier d'une prime mensuelle d'activité qui se compose d'une part liée à l'indice, à laquelle peut s'ajouter un complément fonctionnel attribué en référence à une liste d'emplois classés par niveau.
+
+Les ingénieurs du contrôle de la navigation aérienne, les ingénieurs électroniciens des systèmes de la sécurité aérienne, les attachés principaux d'administration de l'aviation civile détachés dans un emploi fonctionnel de conseiller d'administration de l'aviation civile, les techniciens supérieurs des études et de l'exploitation de l'aviation civile détachés dans un emploi fonctionnel de responsable technique de l'aviation civile ou de cadre technique de l'aviation civile et les agents contractuels assimilés exerçant effectivement les mêmes fonctions que celles dévolues aux corps considérés peuvent également bénéficier de la prime mensuelle d'activité dès lors qu'ils sont nommés à un emploi répertorié dans la liste prévue à l'alinéa précédent.
+
+La prime d'activité n'est cumulable ni avec la prime d'exploitation, de vacation ou de sujétion instituée par l'article 3 du décret n° 2010-920 du 3 août 2010 susvisé, ni avec l'indemnité de fonctions et de résultats et l'indemnité spéciale de responsabilité instituées respectivement par les décrets n° 2008-1096 et n° 2008-1097 du 28 octobre 2008 susvisés, ni avec la nouvelle bonification indiciaire instituée par le décret du 18 mars 1992 susvisé.
+
+Les modalités d'attribution, les taux afférents à la prime d'activité et le classement par niveau des emplois ouvrant droit au complément fonctionnel sont fixés par arrêté conjoint du ministre chargé de l'aviation civile, du ministre chargé du budget et du ministre chargé de la fonction publique.

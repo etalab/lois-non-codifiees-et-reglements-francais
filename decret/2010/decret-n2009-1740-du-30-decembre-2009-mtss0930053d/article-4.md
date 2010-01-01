@@ -1,0 +1,5 @@
+# Article 4
+
+Le ministre d'Etat, ministre de l'écologie, de l'énergie, du développement durable et de la mer, en charge des technologies vertes et des négociations sur le climat, le ministre du travail, des relations sociales, de la famille, de la solidarité et de la ville, le ministre du budget, des comptes publics, de la fonction publique et de la réforme de l'Etat, le ministre de l'alimentation, de l'agriculture et de la pêche, la secrétaire d'Etat chargée de la famille et de la solidarité et le secrétaire d'Etat chargé du logement et de l'urbanisme sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.
+
+Fait le 30 décembre 2009.

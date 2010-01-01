@@ -1,0 +1,11 @@
+# Article 5
+
+I. ― A l'ouverture de la première séance du collège de la Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet, il est procédé à l'élection du président dont la durée du mandat est de six ans.
+
+Il est ensuite procédé au tirage au sort des trois membres dont la durée du mandat sera de deux ans et des trois membres dont la durée du mandat sera de quatre ans. A cet effet, il est établi des bulletins libellés au nom de chacun des membres, hormis le président. La durée du mandat des trois membres, et de leurs suppléants pour les membres désignés en application des 1° à 4° de l'article L. 331-16, dont les noms sont tirés au sort les premiers est de deux ans. La durée du mandat des trois membres, et de leurs suppléants pour les membres désignés en application des 1° à 4° de l'article L. 331-16, dont les noms sont tirés au sort les seconds est de quatre ans. La durée du mandat des deux derniers membres, et de leurs suppléants pour les membres désignés en application des 1° à 4° de l'article L. 331-16, est de six ans.
+
+Le déroulement de ces opérations fait l'objet d'un procès-verbal dressé par un agent de la Haute Autorité faisant office de secrétaire de séance. Ce procès-verbal est signé par chacun des membres du collège et transmis aux ministres chargés des communications électroniques, de la consommation et de la culture.
+
+II. ― A l'ouverture de la première séance de la commission de protection des droits de la Haute Autorité, il est procédé au tirage au sort du membre dont la durée du mandat sera de deux ans et du membre dont la durée du mandat sera de quatre ans. A cet effet, il est établi des bulletins libellés au nom de chacun des membres, hormis le président dont le mandat est de six ans. La durée du mandat du membre, et de son suppléant, dont le nom est tiré au sort est de deux ans. La durée du mandat de l'autre membre, et de son suppléant, est de quatre ans.
+
+Le déroulement de ces opérations fait l'objet d'un procès-verbal dressé par un agent de la Haute Autorité faisant office de secrétaire de séance. Ce procès-verbal est signé par chacun des membres de la commission de protection des droits et transmis au ministre chargé de la culture.

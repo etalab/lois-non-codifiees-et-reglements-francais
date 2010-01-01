@@ -1,0 +1,3 @@
+# Article 103
+
+Les personnes titulaires d'un des contrats mentionnés aux articles L. 5134-35 et L. 5134-74 du code du travail, lorsque ces contrats ont été conclus avant le 1er juin 2009, bénéficient, jusqu'au terme du contrat, pour l'examen de leurs droits aux prestations mentionnées aux articles L. 542-1, L. 831-1 et L. 861-1 du code de la sécurité sociale ainsi qu'à l'article L. 351-1 du code de la construction et de l'habitation, des dispositions applicables, antérieurement à l'entrée en vigueur de la loi n° 2008-1249 du 1er décembre 2008 généralisant le revenu de solidarité active et réformant les politiques d'insertion, aux bénéficiaires du revenu minimum d'insertion.

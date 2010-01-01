@@ -10,7 +10,7 @@ dans laquelle :
 
 2° K représente le coefficient de prise en charge déterminé par la formule :
 
-K = 0,9 - R/10 180 x N
+K = 0,9 - (R/12 725 × N)
 
 dans laquelle :
 
@@ -32,11 +32,11 @@ Soit la somme prise en compte, dont il est fait état aux articles 8 et 9 et év
 
 Il est obtenu par l'application aux ressources du foyer de pourcentages fixés comme suit :
 
-0 % pour la tranche de ressources inférieure ou égale à 1 018 Euros ;
+0 % pour la tranche de ressources inférieure ou égale à 1 273 € ;
 
-30 % pour la tranche de ressources comprise entre 1 018 Euros et 2 036 Euros ;
+24 % pour la tranche de ressources comprise entre 1 273 € et 2 545 € ;
 
-45 % pour la tranche de ressources supérieure à 2 036 Euros.
+36 % pour la tranche de ressources supérieure à 2 545 €.
 
 Les limites de chacune de ces tranches sont affectées des coefficients (ou nombre de parts) ci-après :
 

@@ -1,0 +1,3 @@
+# Article 6
+
+Les agréments des agents du Centre national du cinéma et de l'image animée, des organismes de défense professionnelle visés à l'article L. 331-1 du code de la propriété intellectuelle ou des sociétés mentionnées au titre II du livre III du même code délivrés avant l'entrée en vigueur du présent décret demeurent valables pour permettre l'exercice des missions prévues par l'article L. 331-2 du code de la propriété intellectuelle pendant un délai de deux ans à compter de la publication du présent décret. Leur renouvellement éventuel s'effectue dans les conditions prévues pour les premières demandes d'agrément.

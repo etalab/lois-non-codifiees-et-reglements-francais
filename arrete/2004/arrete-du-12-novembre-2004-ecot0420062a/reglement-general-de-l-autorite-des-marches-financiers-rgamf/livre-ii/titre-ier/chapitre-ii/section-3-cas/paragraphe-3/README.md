@@ -3,3 +3,4 @@
 - [Article 212-36](article-212-36.md)
 - [Article 212-37](article-212-37.md)
 - [Article 212-38](article-212-38.md)
+- [Article 212-38-1](article-212-38-1.md)

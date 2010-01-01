@@ -13,6 +13,8 @@ Pour les communes qui appartiennent à un établissement public de coopération 
 
 Pour les communes qui appartiennent à un établissement public de coopération intercommunale soumis aux dispositions du I de l'article 1609 nonies C du même code à compter du 1er janvier 2010, le taux voté par la commune au titre de 2009 est majoré du taux voté au titre de la même année par l'établissement public de coopération intercommunale. Toutefois, pour les établissements publics de coopération intercommunale qui font application du II du même article 1609 nonies C à compter du 1er janvier 2010, la compensation est calculée à partir du taux voté au titre de l'année 2009 par l'établissement public de coopération intercommunale.
 
+L'alinéa précédent est applicable jusqu'au 31 décembre 2010.
+
 III.-A modifié les dispositions suivantes :
 
 > -Code général des impôts, CGI.

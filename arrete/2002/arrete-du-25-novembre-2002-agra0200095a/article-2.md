@@ -4,7 +4,7 @@ Les cas dans lesquels il est possible de recourir à des astreintes, en dehors d
 
 - continuité du service en vue d'intervention d'urgence ;
 
-- alerte sanitaire ;
+- alerte et veille sanitaires ;
 
 - déclenchement de plans d'urgence ;
 
@@ -12,8 +12,10 @@ Les cas dans lesquels il est possible de recourir à des astreintes, en dehors d
 
 - soins aux animaux ;
 
-- maintenance des bâtiments ;
+- sécurité des locaux et maintenance des bâtiments ;
 
-- fonctionnement des systèmes informatiques ;
+- fonctionnement des systèmes informatiques et alertes informatiques ;
 
-- gardiennage, accueil.
+- gardiennage, accueil ;
+
+- permanence juridique.

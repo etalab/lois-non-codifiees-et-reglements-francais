@@ -1,43 +1,29 @@
 # Article Annexe I
 
-PLAFONDS DE RESSOURCES ANNUELLES (REVENU FISCAL DE RÉFÉRENCE) PRÉVUS AUX ARTICLES L. 441-3, R. 331-12 ET R. 441-1 (1°) DU CODE DE LA CONSTRUCTION ET DE L'HABITATION APPLICABLES AUX LOGEMENTS AUTRES QUE CEUX MENTIONNÉS AU II DE L'ARTICLE R. 331-1 DU CCH (PLUS)
-
+<div align="left"/>
+<div align="left">Plafonds de ressources annuelles (revenu fiscal de référence) prévus aux articles L. 441-3, R. 331-12 et R. 441-1 (1°) du code de la construction et de l'habitation applicables aux logements autres que ceux mentionnés au II de l'article R. 331-1 du CCH (plus)</div>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left"/>
+<div align="left">
 <table>
 <tbody>
 <tr>
 <td>
-<p align="center">
-<font size="2">CATÉGORIE<br/>de ménages</font>
-</p>
+<p align="center">CATÉGORIE<br/>de ménages</p>
 </td>
 <td>
-<p align="center">
-<font size="2">PARIS<br/>
-</font>
-<font size="2">et communes limitrophes<br/>
-</font>
-<font size="2">(en euros)<br/>
-</font>
-</p>
+<p align="center">PARIS<br/>et communes limitrophes<br/>(en euros)</p>
 </td>
 <td>
-<p align="center">
-<font size="2">ILE-DE-FRANCE<br/>
-</font>
-<font size="2">hors Paris et </font>
-<font size="2">communes limitrophes<br/>
-</font>
-<font size="2">(en euros)<br/>
-</font>
-</p>
+<p align="center">ILE-DE-FRANCE<br/>hors Paris<br/>et communes limitrophes<br/>(en euros)</p>
 </td>
 <td>
-<p align="center">
-<font size="2">AUTRES RÉGIONS<br/>
-</font>
-<font size="2">(en euros)<br/>
-</font>
-</p>
+<p align="center">AUTRES RÉGIONS<br/>(en euros)</p>
 </td>
 </tr>
 <tr>
@@ -45,13 +31,13 @@ PLAFONDS DE RESSOURCES ANNUELLES (REVENU FISCAL DE RÉFÉRENCE) PRÉVUS AUX ARTI
 <br/>1 <br/>
 </td>
 <td align="center">
-<br/>21 802<br/>
+<br/>21 872<br/>
 </td>
 <td align="center">
-<br/>21 802<br/>
+<br/>21 872<br/>
 </td>
 <td align="center">
-<br/>18 955<br/>
+<br/>19 016<br/>
 </td>
 </tr>
 <tr>
@@ -59,13 +45,13 @@ PLAFONDS DE RESSOURCES ANNUELLES (REVENU FISCAL DE RÉFÉRENCE) PRÉVUS AUX ARTI
 <br/>2 <br/>
 </td>
 <td align="center">
-<br/>32 584<br/>
+<br/>32 688<br/>
 </td>
 <td align="center">
-<br/>32 584<br/>
+<br/>32 688<br/>
 </td>
 <td align="center">
-<br/>25 313<br/>
+<br/>25 394<br/>
 </td>
 </tr>
 <tr>
@@ -73,13 +59,13 @@ PLAFONDS DE RESSOURCES ANNUELLES (REVENU FISCAL DE RÉFÉRENCE) PRÉVUS AUX ARTI
 <br/>3 <br/>
 </td>
 <td align="center">
-<br/>42 715<br/>
+<br/>42 852<br/>
 </td>
 <td align="center">
-<br/>39 170<br/>
+<br/>39 295<br/>
 </td>
 <td align="center">
-<br/>30 441<br/>
+<br/>30 538<br/>
 </td>
 </tr>
 <tr>
@@ -87,13 +73,13 @@ PLAFONDS DE RESSOURCES ANNUELLES (REVENU FISCAL DE RÉFÉRENCE) PRÉVUS AUX ARTI
 <br/>4 <br/>
 </td>
 <td align="center">
-<br/>50 999<br/>
+<br/>51 162<br/>
 </td>
 <td align="center">
-<br/>46 917<br/>
+<br/>47 067<br/>
 </td>
 <td align="center">
-<br/>36 748<br/>
+<br/>36 866<br/>
 </td>
 </tr>
 <tr>
@@ -101,13 +87,13 @@ PLAFONDS DE RESSOURCES ANNUELLES (REVENU FISCAL DE RÉFÉRENCE) PRÉVUS AUX ARTI
 <br/>5 <br/>
 </td>
 <td align="center">
-<br/>60 678<br/>
+<br/>60 872<br/>
 </td>
 <td align="center">
-<br/>55 541<br/>
+<br/>55 719<br/>
 </td>
 <td align="center">
-<br/>43 231<br/>
+<br/>43 369<br/>
 </td>
 </tr>
 <tr>
@@ -115,13 +101,13 @@ PLAFONDS DE RESSOURCES ANNUELLES (REVENU FISCAL DE RÉFÉRENCE) PRÉVUS AUX ARTI
 <br/>6 <br/>
 </td>
 <td align="center">
-<br/>68 279<br/>
+<br/>68 497<br/>
 </td>
 <td align="center">
-<br/>62 500<br/>
+<br/>62 700<br/>
 </td>
 <td align="center">
-<br/>48 720<br/>
+<br/>48 876<br/>
 </td>
 </tr>
 <tr>
@@ -129,14 +115,15 @@ PLAFONDS DE RESSOURCES ANNUELLES (REVENU FISCAL DE RÉFÉRENCE) PRÉVUS AUX ARTI
 <br/>Par personne supplémentaire <br/>
 </td>
 <td align="center">
-<br/>7 607<br/>
+<br/>7 631<br/>
 </td>
 <td align="center">
-<br/>6 964<br/>
+<br/>6 986<br/>
 </td>
 <td align="center">
-<br/>5 435<br/>
+<br/>5 452<br/>
 </td>
 </tr>
 </tbody>
 </table>
+</div>

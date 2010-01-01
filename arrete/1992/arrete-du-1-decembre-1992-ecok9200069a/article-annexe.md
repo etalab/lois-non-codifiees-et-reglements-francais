@@ -4,14 +4,13 @@
 <tbody>
 <tr>
 <th>
-<br/>DÉSIGNATION DE L'EMPLOI <p>justifiant de l'obtention </p>
-<p>de la nouvelle bonification indiciaire <br/>
+<br/>DÉSIGNATION DES EMPLOIS <p>justifiant de l'obtention de la nouvelle bonification indiciaire <br/>
 </p>
 </th>
 <th>
 <br/>NIVEAU DE L'EMPLOI <p>justifiant de l'obtention </p>
-<p>de la nouvelle bonification </p>
-<p>indiciaire <br/>
+<p>de la nouvelle </p>
+<p>bonification indiciaire <br/>
 </p>
 </th>
 <th>
@@ -26,17 +25,16 @@
 </tr>
 <tr>
 <td align="center">
-<p align="center">Responsable du budget et / ou du contrôle de gestion et / ou des moyens généraux et / ou du service du personnel et / ou du contentieux d'une direction</p>
+<br/>Responsable du budget et / ou du contrôle de gestion et / ou des moyens généraux et / ou du service du personnel et / ou du contentieux d'une direction <br/>
 </td>
 <td align="center">
-<p align="center">A</p>
+<br/>A <br/>
 </td>
 <td align="center">
-<p align="center">2</p>
-<p align="center">1 (5)</p>
+<br/>2 <br/>
 </td>
 <td align="center">
-<p align="center">40</p>
+<br/>40 <br/>
 </td>
 </tr>
 <tr>
@@ -128,32 +126,27 @@
 <br/>Agent ayant un pouvoir de décision, d'animation et de coordination du niveau d'un responsable d'unité ou assistant d'un chef de service <br/>
 </td>
 <td align="center">
-<p align="center">A</p>
+<br/>A <br/>
 </td>
 <td align="center">
-<p align="center">52</p>
-<p align="center">54 (3)</p>
-<p align="center">55 (4)</p>
-<p align="center">57 (5)</p>
+<br/>56 <br/>
 </td>
 <td align="center">
-<p align="center">
-<br/>30</p>
+<br/>30 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="center">Chef de projet</p>
+<br/>Chef de projet <br/>
 </td>
 <td align="center">
 <br/>A <br/>
 </td>
 <td align="center">
-<p align="center">2</p>
-<p align="center">1 (3)</p>
+<br/>2 <br/>
 </td>
 <td align="center">
-<p align="center">30</p>
+<br/>30 <br/>
 </td>
 </tr>
 <tr>
@@ -178,7 +171,7 @@
 <br/>B <br/>
 </td>
 <td align="center">
-<br/>3 <br/>
+<br/>4 <br/>
 </td>
 <td align="center">
 <br/>25 <br/>
@@ -186,7 +179,7 @@
 </tr>
 <tr>
 <td align="center">
-<br/>Développeur d'applications sur Info Service <br/>
+<br/>Développeur d'applications sur INFO SERVICE <br/>
 </td>
 <td align="center">
 <br/>B <br/>
@@ -200,7 +193,7 @@
 </tr>
 <tr>
 <td align="center">
-<br/>Développeur micro informatique pour le réseau habitat de l'ensemble des directions régionales et pour le réseau équipement <br/>
+<br/>Développeur microinformatique pour le réseau habitat de l'ensemble des directions régionales et pour le réseau équipement <br/>
 </td>
 <td align="center">
 <br/>B <br/>
@@ -214,7 +207,7 @@
 </tr>
 <tr>
 <td align="center">
-<br/>Agent assurant, par délégation d'un chef d'unité, la gestion d'un secteur d'activité comportant une technicité particulièrement étendue en termes de connaissances bancaires ou des marchés financiers <br/>
+<br/>Agent assurant, par délégation d'un chef d'unité, la gestion d'un secteur d'activité comportant une technicité particulièrement étendue en termes de connaissance bancaire ou des marchés financiers <br/>
 </td>
 <td align="center">
 <br/>B <br/>
@@ -248,7 +241,7 @@
 <br/>B <br/>
 </td>
 <td align="center">
-<br/>4 <br/>
+<br/>3 <br/>
 </td>
 <td align="center">
 <br/>25 <br/>
@@ -270,7 +263,7 @@
 </tr>
 <tr>
 <td align="center">
-<br/>Responsable du secteur des affaires générales ou directeurs administratifs adjoints du comité social du groupe <br/>
+<br/>Responsable du secteur des affaires générales ou directeurs administratifs adjoints du Comité social du groupe <br/>
 </td>
 <td align="center">
 <br/>B <br/>
@@ -290,7 +283,7 @@
 <br/>B <br/>
 </td>
 <td align="center">
-<br/>2 <br/>
+<br/>1 <br/>
 </td>
 <td align="center">
 <br/>20 <br/>
@@ -298,13 +291,13 @@
 </tr>
 <tr>
 <td align="center">
-<br/>Technicien des opérations post-marché ou d'opérations bancaires et / ou financières sur secteurs prioritaires <br/>
+<br/>Technicien des opérations post marché ou d'opérations bancaires et / ou financières sur secteurs prioritaires <br/>
 </td>
 <td align="center">
 <br/>B <br/>
 </td>
 <td align="center">
-<br/>38 <br/>
+<br/>39 <br/>
 </td>
 <td align="center">
 <br/>20 <br/>
@@ -326,13 +319,13 @@
 </tr>
 <tr>
 <td align="center">
-<br/>Chargé de clientèle exerçant des responsabilités particulières dans le domaine commercial et financier <br/>
+<br/>Chargé de clientèle exerçant des responsabilités particulières dans le domaine commercial et financier (2)<br/>
 </td>
 <td align="center">
 <br/>B <br/>
 </td>
 <td align="center">
-<br/>19 <br/>
+<br/>21<br/>
 </td>
 <td align="center">
 <br/>20 <br/>
@@ -388,7 +381,7 @@
 <br/>B <br/>
 </td>
 <td align="center">
-<br/>5 <br/>
+<br/>6 <br/>
 </td>
 <td align="center">
 <br/>20 <br/>
@@ -396,13 +389,13 @@
 </tr>
 <tr>
 <td align="center">
-<br/>Gestionnaire de plusieurs systèmes d'information..<br/>
+<br/>Gestionnaire de plusieurs systèmes d'information <br/>
 </td>
 <td align="center">
 <br/>B <br/>
 </td>
 <td align="center">
-<br/>36 <br/>
+<br/>35 <br/>
 </td>
 <td align="center">
 <br/>20 <br/>
@@ -410,7 +403,7 @@
 </tr>
 <tr>
 <td align="center">
-<br/>Assistant de direction <br/>
+<br/>Assistant de direction (2)<br/>
 </td>
 <td align="center">
 <br/>B <br/>
@@ -430,7 +423,7 @@
 <br/>B <br/>
 </td>
 <td align="center">
-<br/>39 <br/>
+<br/>38 <br/>
 </td>
 <td align="center">
 <br/>20 <br/>
@@ -494,7 +487,7 @@
 </tr>
 <tr>
 <td align="center">
-<br/>Responsable de la gestion de l'encouragement à la prévoyance individuelle (EPI) au niveau fédéral <br/>
+<br/>Responsable de la gestion de l'Encouragement à la prévoyance individuelle (EPI) au niveau fédéral <br/>
 </td>
 <td align="center">
 <br/>B <br/>
@@ -508,17 +501,16 @@
 </tr>
 <tr>
 <td align="center">
-<p align="center">Chargé de la communication d'un département ou d'une direction</p>
+<br/>Chargé de la communication d'un département ou d'une direction <br/>
 </td>
 <td align="center">
-<p align="center">B</p>
+<br/>B <br/>
 </td>
 <td align="center">
-<p align="center">8</p>
-<p align="center">10 (4)</p>
+<br/>10 <br/>
 </td>
 <td align="center">
-<p align="center">20</p>
+<br/>20 <br/>
 </td>
 </tr>
 <tr>
@@ -537,7 +529,7 @@
 </tr>
 <tr>
 <td align="center">
-<br/>Responsable du standard de Paris....<br/>
+<br/>Responsable du standard de Paris <br/>
 </td>
 <td align="center">
 <br/>B <br/>
@@ -593,13 +585,13 @@
 </tr>
 <tr>
 <td align="center">
-<br/>Assistant de gestion statutaire et / ou financière et / ou de formation des personnels au niveau d'une branche ou au niveau fédéral <br/>
+<br/>Assistant de gestion statutaire et / ou financière et / ou de formation des personnels au niveau d'une branche ou au niveau fédéral (1)<br/>
 </td>
 <td align="center">
 <br/>B <br/>
 </td>
 <td align="center">
-<br/>24 <br/>
+<br/>22<br/>
 </td>
 <td align="center">
 <br/>20 <br/>
@@ -663,23 +655,21 @@
 </tr>
 <tr>
 <td align="center">
-<p align="center">Gestionnaire expert</p>
+<br/>Gestionnaire expert <br/>
 </td>
 <td align="center">
-<p align="center">B</p>
+<br/>B <br/>
 </td>
 <td align="center">
-<p align="center">95</p>
-<p align="center">94 (3)</p>
-<p align="center">90 (4)</p>
+<br/>88 <br/>
 </td>
 <td align="center">
-<p align="center">15</p>
+<br/>15 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Responsable du contentieux et des affaires générales au sein d'une unité administrative chargée de la gestion d'un fonds de la branche caisses de retraite de Bordeaux <br/>
+<br/>Responsable du contentieux et des affaires générales au sein d'une unité administrative chargée de la gestion d'un fonds de la branche Caisses de retraites de Bordeaux <br/>
 </td>
 <td align="center">
 <br/>B <br/>
@@ -693,7 +683,7 @@
 </tr>
 <tr>
 <td align="center">
-<br/>Responsable de la fonction correspondant informatique ou de la fonction correspondant réseau ou de la coordination des projets informatiques au sein de la branche caisses de retraites de Bordeaux <br/>
+<br/>Responsable de la fonction correspondant informatique ou de la fonction correspondant réseau ou de la coordination des projets informatiques au sein de la branche Caisses de retraites de Bordeaux <br/>
 </td>
 <td align="center">
 <br/>B <br/>
@@ -727,21 +717,17 @@
 <br/>C <br/>
 </td>
 <td align="center">
-<p>9</p>
-<p>8 (2)</p>
+<br/>8 <br/>
 </td>
 <td align="center">
-<br/>15</td>
+<br/>15<br/>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>(1) A compter du 1er avril 2010.</p>
+<p>(2) A compter du 1er juin 2010.</p>
+</td>
 </tr>
 </tbody>
 </table>
-
-(1) A compter du 1er janvier 2009
-
-(2) A compter du 1er février 2009
-
-(3) A compter du 1er mars 2009
-
-(4) A compter du 1er avril 2009
-
-(5) A compter du 1er mai 2009
