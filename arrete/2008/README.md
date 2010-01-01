@@ -1200,6 +1200,7 @@
 - [Arrêté du 30 juin 2008 (AGRP0815191A)](arrete-du-30-juin-2008-agrp0815191a)
 - [Arrêté du 30 juin 2008 (AGRP0815192A)](arrete-du-30-juin-2008-agrp0815192a)
 - [Arrêté du 30 juin 2008 (AGRP0817305A)](arrete-du-30-juin-2008-agrp0817305a)
+- [Arrêté du 30 juin 2008 (AGRS0812289A)](arrete-du-30-juin-2008-agrs0812289a)
 - [Arrêté du 30 juin 2008 (AGRS0812294A)](arrete-du-30-juin-2008-agrs0812294a)
 - [Arrêté du 30 juin 2008 (AGRS0812360A)](arrete-du-30-juin-2008-agrs0812360a)
 - [Arrêté du 30 juin 2008 (AGRS0812371A)](arrete-du-30-juin-2008-agrs0812371a)
