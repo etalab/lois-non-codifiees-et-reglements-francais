@@ -16,7 +16,7 @@ f) L'effet du projet sur l'emploi.
 
 Il est tenu compte, pour l'attribution des subventions destinées au financement de projets de modernisation, de la nature et des caractéristiques de la catégorie de publications à laquelle appartient l'entreprise.
 
-Pour la détermination de l'assiette des subventions et des avances destinées au financement de projets de modernisation, sont prises en considération, dans la mesure où elles sont liées au projet de modernisation et strictement nécessaires à la réalisation de celui-ci, et sur la base de leur montant hors taxes, les dépenses suivantes :
+Pour la détermination de l'assiette des subventions destinées au financement de projets de modernisation, les dépenses suivantes sont prises en considération, sur la base de leur montant hors taxes, dans la mesure où elles sont liées au projet de modernisation et strictement nécessaires à la réalisation de celui-ci, et où, pour les entreprises de presse, elles concernent notamment la modernisation de la publication :
 
 1. Dépenses d'immobilisations :
 
@@ -24,7 +24,7 @@ a) Investissements incorporels ;
 
 b) Investissements immatériels, et notamment dépenses de logiciels ;
 
-c) Création ou développement de sites internet s'appuyant sur le potentiel rédactionnel et archivistique du titre ou de l'agence de presse et conservant un lien substantiel avec la mission d'information politique et générale ;
+c) Pour les agences de presse : création ou développement de sites internet s'appuyant sur le potentiel rédactionnel et archivistique de l'agence ;
 
 d) Investissements corporels ;
 
