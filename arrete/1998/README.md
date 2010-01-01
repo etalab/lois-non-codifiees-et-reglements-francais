@@ -357,7 +357,6 @@
 - [Arrêté du 12 octobre 1998 (DEFI9853013A)](arrete-du-12-octobre-1998-defi9853013a)
 - [Arrêté du 12 octobre 1998 (ECOT9891093A)](arrete-du-12-octobre-1998-ecot9891093a)
 - [Arrêté du 12 octobre 1998 (ECOU9800049A)](arrete-du-12-octobre-1998-ecou9800049a)
-- [Arrêté du 12 octobre 1998 (INTA9800419A)](arrete-du-12-octobre-1998-inta9800419a)
 - [Arrêté du 12 octobre 1998 (INTB9800414A)](arrete-du-12-octobre-1998-intb9800414a)
 - [Arrêté du 12 octobre 1998 (JUSC9820661A)](arrete-du-12-octobre-1998-jusc9820661a)
 - [Arrêté du 12 octobre 1998 (MCCB9800531A)](arrete-du-12-octobre-1998-mccb9800531a)
