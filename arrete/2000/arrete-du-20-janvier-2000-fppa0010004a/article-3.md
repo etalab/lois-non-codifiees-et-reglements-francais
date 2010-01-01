@@ -4,18 +4,14 @@ Les membres du jury sont nommés par arrêté du président du centre de gestion
 
 Le représentant du Centre national de la fonction publique territoriale, membre du jury en application de l'article 42 de la loi du 26 janvier 1984 précitée, est désigné au titre de l'un des trois collèges mentionnés ci-dessous.
 
-Le jury comprend, outre le président, six membres ainsi répartis :
+Le jury comprend au moins :
 
-a) Deux élus locaux ;
+-deux fonctionnaires territoriaux dont un de catégorie A ;
 
-b) Deux fonctionnaires territoriaux, dont un au moins de catégorie A ;
+-deux personnalités qualifiées dont un psychologue agréé auprès des tribunaux ;
 
-c) Une personnalité qualifiée ;
+-deux élus locaux.
 
-d) Un membre de l'enseignement supérieur.
+L'arrêté prévu au premier alinéa du présent article désigne parmi les membres du jury son président et le remplaçant de celui-ci pour le cas où il serait dans l'impossibilité d'accomplir sa mission.
 
-L'arrêté prévu au premier alinéa du présent article désigne le remplaçant du président dans le cas où celui-ci serait dans l'impossibilité de poursuivre sa mission.
-
-Les correcteurs sont désignés par l'autorité territoriale précitée pour participer avec les membres du jury à la correction des épreuves.
-
-L'épreuve écrite est anonyme ; elle est corrigée par deux correcteurs.
+Des correcteurs peuvent être désignés par arrêté du président du centre de gestion organisateur pour participer à la correction des épreuves, sous l'autorité du jury.

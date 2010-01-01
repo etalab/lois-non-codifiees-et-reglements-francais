@@ -1,8 +1,10 @@
 # Article 3
 
-Chaque session d'examen fait l'objet d'une publicité au Journal officiel de la République française qui précise la date limite de dépôt des inscriptions, la date des épreuves et l'adresse à laquelle les candidatures doivent être déposées. Le délégué régional ou interdépartemental du Centre national de la fonction publique territoriale assure cette publicité.
+Chaque session d'examen fait l'objet d'une publicité au Journal officiel de la République française qui précise la date limite de dépôt des inscriptions, la date et le lieu des épreuves et l'adresse à laquelle les candidatures doivent être déposées. Le président du centre de gestion organisateur assure cette publicité.
 
-Le jury de l'examen professionnel ci-dessus mentionné est nommé par arrêté du président du centre national de la fonction publique territoriale.
+Les membres du jury sont nommés par arrêté du président du centre de gestion organisateur. Ils sont choisis, à l'exception des membres mentionnés à l'article 42 de la loi du 26 janvier 1984 susvisée, sur une liste établie chaque année ou mise à jour en tant que de besoin par le centre de gestion organisateur. Celui-ci procède au recueil des propositions des collectivités non affiliées sur des noms pouvant figurer sur cette liste.
+
+Le représentant du Centre national de la fonction publique territoriale, membre du jury en application de l'article 42 de la loi du 26 janvier 1984 précitée, est désigné au titre de l'un des trois collèges mentionnés ci-dessous.
 
 Chaque jury comprend, outre le président, six membres ainsi répartis :
 
@@ -16,6 +18,6 @@ Deux élus locaux.
 
 L'arrêté prévu au deuxième alinéa du présent article désigne le remplaçant du président dans le cas où celui-ci serait dans l'impossibilité de poursuivre sa mission.
 
-Les correcteurs sont désignés par le président du Centre national de la fonction publique territoriale pour participer avec les membres du jury à la correction des épreuves.
+Les correcteurs sont désignés par le président du centre de gestion organisateur pour participer avec les membres du jury à la correction des épreuves.
 
 Les épreuves sont anonymes ; chaque composition est corrigée par deux correcteurs.

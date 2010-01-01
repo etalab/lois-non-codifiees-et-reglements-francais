@@ -1,16 +1,16 @@
 # Article 3
 
-Le jury de l'examen professionnel est nommé par arrêté du président du centre de gestion compétent.
+Le jury de l'examen professionnel est nommé par arrêté du président du centre de gestion compétent. Les membres du jury sont choisis, à l'exception des membres mentionnés à l'article 42 de la loi du 26 janvier 1984 susvisée, sur une liste établie chaque année ou mise à jour en tant que de besoin par le centre de gestion organisateur. Celui-ci recueille préalablement les propositions des collectivités non affiliées.
 
 Le jury comprend, outre le président, six membres ainsi répartis :
 
-- un fonctionnaire territorial de catégorie A et un fonctionnaire du cadre d'emplois ou de la catégorie correspondant, désigné dans les conditions définies à l'article 14 du décret du 20 novembre 1985 susvisé ;
+-un fonctionnaire territorial de catégorie A et un fonctionnaire du cadre d'emplois ou de la catégorie correspondant, désigné dans les conditions définies à l'article 14 du décret du 20 novembre 1985 susvisé ;
 
-- une personnalité qualifiée ;
+-une personnalité qualifiée ;
 
-- deux élus locaux ;
+-deux élus locaux ;
 
-- un représentant du Centre national de la fonction publique territoriale, en application de l'article 42 de la loi du 26 janvier 1984 susvisée.
+-un représentant du Centre national de la fonction publique territoriale, en application de l'article 42 de la loi du 26 janvier 1984 susvisée.
 
 L'arrêté prévu au premier alinéa du présent article désigne le remplaçant du président pour le cas où celui-ci serait dans l'impossibilité d'accomplir sa mission.
 

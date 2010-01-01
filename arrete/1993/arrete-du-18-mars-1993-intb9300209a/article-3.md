@@ -1,6 +1,6 @@
 # Article 3
 
-Chaque session d'examen fait l'objet d'un avis qui précise la date limite de dépôt des inscriptions et l'adresse à laquelle les candidatures doivent être déposées.
+Chaque session d'examen fait l'objet d'un avis qui précise la date limite de dépôt des inscriptions, la date et le lieu de l'épreuve, et l'adresse à laquelle les candidatures doivent être déposées.
 
 Cet avis d'examen est publié dans au moins deux journaux d'information générale, dont un à diffusion nationale et un à diffusion régionale, deux mois au moins avant la date limite du dépôt des candidatures.
 
@@ -10,17 +10,19 @@ Les collectivités et établissements non affiliés assurent par eux-mêmes cett
 
 Le jury de l'examen professionnel est nommé par arrêté de l'autorité territoriale de la collectivité ou de l'établissement qui organise l'examen.
 
-Le jury comprend:
+Les membres du jury sont choisis, à l'exception des membres mentionnés à l'article 42 de la loi du 26 janvier 1984 susvisée, sur une liste établie chaque année ou mise à jour en tant que de besoin par le centre de gestion organisateur. Celui-ci recueille préalablement les propositions des collectivités non affiliées.
 
-- un fonctionnaire territorial de catégorie A et un fonctionnaire du cadre d'emplois ou de la catégorie correspondant, désigné dans les conditions définies à l'article 14 du décret du 20 novembre 1985 susvisé;
+Le jury comprend :
 
-- deux personnalités qualifiées;
+-un fonctionnaire territorial de catégorie A et un fonctionnaire du cadre d'emplois ou de la catégorie correspondant, désigné dans les conditions définies à l'article 14 du décret du 20 novembre 1985 susvisé ;
 
-- deux membres de l'enseignement supérieur sur proposition d'une autorité habilitée à représenter un établissement d'enseignement supérieur;
+-deux personnalités qualifiées ;
 
-- deux élus locaux;
+-deux membres de l'enseignement supérieur sur proposition d'une autorité habilitée à représenter un établissement d'enseignement supérieur ;
 
-- un représentant du Centre national de la fonction publique territoriale, en application de l'article 42 de la loi du 26 janvier 1984 susvisée.
+-deux élus locaux ;
+
+-un représentant du Centre national de la fonction publique territoriale, en application de l'article 42 de la loi du 26 janvier 1984 susvisée.
 
 Le président est choisi parmi les membres du jury.
 
