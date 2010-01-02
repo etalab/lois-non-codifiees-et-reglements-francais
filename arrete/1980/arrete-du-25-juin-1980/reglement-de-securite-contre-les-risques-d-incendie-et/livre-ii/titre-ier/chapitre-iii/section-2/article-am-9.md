@@ -1,9 +1,7 @@
 # Article AM 9
 
-Eléments de décoration en relief fixés à l'intérieur des locaux et dégagements
+Revêtements muraux tendus et éléments de décoration en relief fixés à l'intérieur des locaux ou dégagements
 
-Les éléments de décoration en relief fixés sur les parois verticales doivent répondre aux exigences suivantes :
+Dans les locaux ou dégagements, les revêtements muraux tendus et leurs éventuels intercalaires sont de catégorie M 2.
 
-a) Dans les dégagements protégés, ils doivent être en matériaux de catégorie M 2, à l'exception des objets de décoration de surface limitée ;
-
-b) Dans les locaux et les autres dégagements, ils doivent être en matériaux de catégorie M 2 lorsque la surface globale de tous ces éléments est supérieure à 20 % de la superficie totale des parois <font size="1">verticales.</font>
+Les éléments de décoration en relief fixés sur les parois verticales des locaux ou dégagements protégés ou non sont classés C-s3, d0 ou en matériaux de catégorie M 2 lorsque la surface globale de tous ces éléments, projetée sur les parois verticales, est supérieure à 20 % de la superficie totale de ces parois.
