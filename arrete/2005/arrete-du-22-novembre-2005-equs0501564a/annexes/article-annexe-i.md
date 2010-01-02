@@ -10,7 +10,9 @@ En particulier, les systèmes composants et entités techniques doivent, pour ê
 
 A = ministère chargé de l'agriculture.
 
-T = ministère chargé des transports. <table>
+T = ministère chargé des transports.
+
+<table>
 <tbody>
 <tr>
 <td rowspan="2" width="74">
@@ -56,6 +58,7 @@ T = ministère chargé des transports. <table>
 <td valign="top" width="112">
 <p align="center">74/151/CEE</p>
 <p align="center">Annexe I</p>
+<p align="center">2009/63/CE Annexe I (8)</p>
 </td>
 <td valign="top" width="59">
 <p align="center">X</p>
@@ -80,6 +83,7 @@ T = ministère chargé des transports. <table>
 <td valign="top" width="112">
 <p align="center">74/151/CEE</p>
 <p align="center">Annexe II</p>
+<p align="center">2009/63/CE Annexe II (8)</p>
 </td>
 <td valign="top" width="59">
 <p align="center">X</p>
@@ -104,6 +108,7 @@ T = ministère chargé des transports. <table>
 <td valign="top" width="112">
 <p align="center">74/151/CEE</p>
 <p align="center">Annexe III</p>
+<p align="center">2009/63/CE Annexe III (8)</p>
 </td>
 <td valign="top" width="59">
 <p align="center">X</p>
@@ -128,6 +133,7 @@ T = ministère chargé des transports. <table>
 <td valign="top" width="112">
 <p align="center">74/151/CEE</p>
 <p align="center">Annexe IV</p>
+<p align="center">2009/63/CE Annexe IV (8)</p>
 </td>
 <td valign="top" width="59">
 <p align="center">X</p>
@@ -152,6 +158,7 @@ T = ministère chargé des transports. <table>
 <td valign="top" width="112">
 <p align="center">74/151/CEE</p>
 <p align="center">Annexe V</p>
+<p align="center">2009/63/CE Annexe V (8)</p>
 </td>
 <td valign="top" width="59">
 <p align="center">X</p>
@@ -176,6 +183,7 @@ T = ministère chargé des transports. <table>
 <td valign="top" width="112">
 <p align="center">74/151/CEE</p>
 <p align="center">Annexe VI</p>
+<p align="center">2009/63/CE Annexe VI (8)</p>
 </td>
 <td valign="top" width="59">
 <p align="center">X</p>
@@ -200,6 +208,7 @@ T = ministère chargé des transports. <table>
 <td valign="top" width="112">
 <p align="center">74/152/CEE</p>
 <p align="center">Annexe, point 1</p>
+<p align="center">2009/60/CE Annexe, point 1 (8)</p>
 </td>
 <td valign="top" width="59">
 <p align="center">X</p>
@@ -224,6 +233,8 @@ T = ministère chargé des transports. <table>
 <td valign="top" width="112">
 <p align="center">74/152/CEE</p>
 <p align="center">Annexe, point 2</p>
+<p align="center">2009/60/CE Annexe, point 2 (8)</p>
+<br/>
 </td>
 <td valign="top" width="59">
 <p align="center">X</p>
@@ -247,6 +258,7 @@ T = ministère chargé des transports. <table>
 </td>
 <td valign="top" width="112">
 <p align="center">74/346/CEE</p>
+<p align="center">2009/59/CE (8)</p>
 </td>
 <td valign="top" width="59">
 <p align="center">X</p>
@@ -294,6 +306,7 @@ T = ministère chargé des transports. <table>
 </td>
 <td valign="top" width="112">
 <p align="center">75/321/CEE</p>
+<p align="center">2009/66/CE (8)</p>
 </td>
 <td valign="top" width="59">
 <p align="center">X</p>
@@ -317,6 +330,7 @@ T = ministère chargé des transports. <table>
 </td>
 <td valign="top" width="112">
 <p align="center">75/322/CEE</p>
+<p align="center">2009/64/CE (8)</p>
 </td>
 <td valign="top" width="59">
 <p align="center">X</p>
@@ -386,6 +400,7 @@ T = ministère chargé des transports. <table>
 </td>
 <td valign="top" width="112">
 <p align="center">77/311/CEE</p>
+<p align="center">2009/76/CE (8)</p>
 </td>
 <td valign="top" width="59">
 <p align="center">X</p>
@@ -405,10 +420,11 @@ T = ministère chargé des transports. <table>
 <p align="center">A</p>
 </td>
 <td valign="top" width="220">
-<p>Protection en cas de renversement (4).</p>
+<p>Protection en cas de renversement (essais dynamiques) (4).</p>
 </td>
 <td valign="top" width="112">
 <p align="center">77/536/CEE</p>
+<p align="center">2009/57/CE (8)</p>
 </td>
 <td valign="top" width="59">
 <p align="center">X</p>
@@ -455,6 +471,7 @@ T = ministère chargé des transports. <table>
 </td>
 <td valign="top" width="112">
 <p align="center">78/933/CEE</p>
+<p align="center">2009/61/CE (8)</p>
 </td>
 <td valign="top" width="59">
 <p align="center">X</p>
@@ -478,6 +495,7 @@ T = ministère chargé des transports. <table>
 </td>
 <td valign="top" width="112">
 <p align="center">79/532/CEE</p>
+<p align="center">2009/68/CE (8)</p>
 </td>
 <td valign="top" width="59">
 <p align="center">X</p>
@@ -501,6 +519,7 @@ T = ministère chargé des transports. <table>
 </td>
 <td valign="top" width="112">
 <p align="center">79/533/CEE</p>
+<p align="center">2009/58/CE (8)</p>
 </td>
 <td valign="top" width="59">
 <p align="center">X</p>
@@ -524,6 +543,7 @@ T = ministère chargé des transports. <table>
 </td>
 <td valign="top" width="112">
 <p align="center">79/622/CEE</p>
+<p align="center">2009/75/CE (8)</p>
 </td>
 <td valign="top" width="59">
 <p align="center">X</p>
@@ -929,6 +949,8 @@ T = ministère chargé des transports. <table>
 (6) Si le constructeur se réfère à la directive 76/115/CEE, l'autorité compétente est le ministre chargé des transports. Si le constructeur se réfère à l'équivalence des codes OCDE 3 ou 4 pour la catégorie T1, ou des codes 6 et 7 pour la catégorie T2, l'autorité compétente est le ministre chargé de l'agriculture.
 
 (7) Applicable à compter du 1er mai 2008 aux nouveaux types de véhicules.
+
+(8) Pour les réceptions CE par type antérieures au 1er janvier 2010, les références faites à la directive mentionnée dans la précédente version de l'arrêté du 22 novembre 2005 s'entendent comme faites à la nouvelle directive mentionnée, selon les tableaux de dates d'application et de correspondance figurant dans celle-ci.
 
 x = applicable en l'état suivant dernier amendement.
 
