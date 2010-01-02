@@ -34,4 +34,4 @@ A ce titre :
 
 3° Elle gère des établissements sanitaires et sociaux et des établissements de vacances et coordonne les actions menées en ce domaine par les organismes locaux du régime.
 
-Pour le compte de la Caisse autonome nationale, la Caisse des dépôts et consignations recouvre les cotisations et gère l'assurance vieillesse et invalidité du régime minier. La Caisse des dépôts et consignations fournit à la Caisse autonome nationale les informations comptables et de gestion y afférentes.
+Pour le compte de la Caisse autonome nationale, la Caisse des dépôts et consignations recouvre les cotisations et gère l'assurance vieillesse et invalidité du régime minier. La Caisse des dépôts et consignations fournit à la Caisse autonome nationale les informations comptables et de gestion y afférentes. Dans les affaires relevant du risque vieillesse et invalidité de ce régime, le président de la Caisse autonome nationale peut déléguer au directeur général de la Caisse des dépôts et consignations, par mandat spécial ou général, les prérogatives qu'il tient de l'article R. 121-2 du code de la sécurité sociale.

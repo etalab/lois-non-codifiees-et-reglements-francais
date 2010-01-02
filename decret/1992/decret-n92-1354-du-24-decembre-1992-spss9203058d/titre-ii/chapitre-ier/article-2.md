@@ -16,7 +16,7 @@ En ce qui concerne les salariés étrangers qui n'ont pas leur résidence en Fra
 
 Sont applicables aux prestations visées au présent a les dispositions des articles 175 à 180,182 et 183.
 
-b) Pour les dépenses exposées par les assurés et leurs ayants droit qui ne sont pas mentionnées aux articles 186 à 188, les règles de remboursement pratiquées au 1er janvier 1993 restent provisoirement applicables, nonobstant les dispositions de l'article 184. Le conseil d'administration d'une caisse régionale de la sécurité sociale dans les mines peut, après avis de celui de la Caisse autonome nationale, décider de mettre fin à une ou plusieurs dispositions dérogeant aux articles 184 et suivants.
+b) (supprimé à compter du 1er janvier 2010)
 
 3° La date du 1er janvier 1993 s'entend de la manière suivante :
 
