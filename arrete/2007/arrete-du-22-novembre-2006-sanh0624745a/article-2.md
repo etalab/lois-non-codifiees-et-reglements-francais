@@ -14,6 +14,8 @@ d) Sexe du patient ;
 
 e) Code postal du lieu de résidence du patient ou code du pays de résidence du patient ;
 
+f) date d'entrée et de sortie du séjour ;
+
 2° Autres informations obligatoires :
 
 a) Numéro de l'établissement de santé dans le fichier national des établissements sanitaires et sociaux (FINESS) ;

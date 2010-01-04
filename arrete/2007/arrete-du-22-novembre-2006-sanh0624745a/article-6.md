@@ -8,4 +8,4 @@ III. - Chaque agence régionale de l'hospitalisation transmet tout ou partie de 
 
 Les agences régionales de l'hospitalisation ou l'ATIH communiquent ces fichiers à tout autre organisme d'assurance maladie sous réserve que celui-ci ait été autorisé à les traiter par la CNIL dans le cadre des dispositions du chapitre V ter de la loi du 6 janvier 1978 susvisée.
 
-IV. - Pour chaque établissement de santé, le médecin chargé de l'information médicale est responsable de la sauvegarde du fichier de RHS groupés, qui est à l'origine des fichiers de RHA, de SSRHA, ainsi que de la conservation de la copie produite pour une durée de cinq ans.
+IV. - Pour chaque établissement de santé, le médecin chargé de l'information médicale est responsable de la sauvegarde des fichiers de RHS groupés et de résumés standardisés de facturation (RSF), qui sont à l'origine des fichiers de RHA, de SSRHA et de RSFA, ainsi que de la conservation de la copie produite pour une durée de cinq ans.

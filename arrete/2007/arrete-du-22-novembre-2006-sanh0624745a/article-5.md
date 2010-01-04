@@ -12,7 +12,7 @@ d) De la date de naissance, remplacée par l'âge exprimé en années et calcul�
 
 e) Du code postal, remplacé par un code géographique de résidence ;
 
-f) Des dates d'entrée et de sortie, remplacées dans le RHA par la spécification d'une semaine de début de séjour SSR (oui/non), d'une semaine de fin de séjour SSR (oui/non), de l'antériorité du séjour SSR lors de la semaine considérée et d'un indicateur établi à partir des dates d'entrée ou de sortie permettant d'ordonner les séjours d'un même patient dans un établissement ;
+f) Des dates d'entrée et de sortie, remplacées dans le RHA par la spécification d'une semaine de début de séjour SSR (oui/non), d'une semaine de fin de séjour SSR (oui/non), de l'antériorité dans l'unité médicale et du séjour SSR lors de la semaine considérée et d'un indicateur établi à partir des dates d'entrée ou de sortie permettant d'ordonner les séjours d'un même patient dans un établissement ;
 
 g) Du numéro de la semaine, remplacé, dans le RHA, par le mois et l'année ;
 
