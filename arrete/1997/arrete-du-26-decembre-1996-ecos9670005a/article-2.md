@@ -1,5 +1,7 @@
 # Article 2
 
+Les tarifs utilisés sont fixés comme suit :
+
 <table>
 <tbody>
 <tr>
@@ -7,33 +9,40 @@
 <br/>
 </td>
 <td align="center">
-<br/>EUROS</td>
+<br/>eu euros</td>
 </tr>
 <tr>
 <td align="center">Journée de cadre A </td>
-<td align="center">428,8</td>
+<td align="center">465,8</td>
 </tr>
 <tr>
 <td>
 <p align="center">Journée de cadre B </p>
 </td>
 <td>
-<p align="center">228,0</p>
+<p align="center">269,3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Journée de cadre C </p>
+</td>
+<td>
+<p align="center">234,9</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>heure de contrôle et de vérification <br/>
+<br/>- heure de contrôle et de vérification <br/>
 </td>
-<td align="center">
-<br/>29,0</td>
+<td align="center">31,3</td>
 </tr>
 <tr>
 <td align="center">
-<br/>heure de saisie <br/>
+<br/>- heure de saisie <br/>
 </td>
 <td align="center">
-<br/>33,7</td>
+<br/>31,3</td>
 </tr>
 <tr>
 <td align="center">
@@ -54,10 +63,6 @@
 </tbody>
 </table>
 
-Pour une nature de dépense donnée, les tarifs mensuels, journaliers et horaires se déduisent entre eux par des multiplications ou divisions à partir des coefficients suivants :
+Un jour est compté 7 h 30. Un mois est compté 134 heures.
 
-Un mois est compté 20,5 jours ;
-
-Un jour est compté 8 heures.
-
-Un devis est établi pour toute demande de prestation.
+Les tarifs ci-dessus sont applicables aux prestations de service et aux études régionales en partenariat réalisées par l'Institut national de la statistique et des études économiques.
