@@ -4,6 +4,8 @@ Commercialisation des alcools dans les secteurs industriels et énergétiques.
 
 1. La commercialisation de l'alcool est réalisée par les distillateurs auprès d'opérateurs agréés pour l'utilisation dans les secteurs prévus au dernier alinéa de l'article 5 ou pour la commercialisation auprès de ces utilisateurs.
 
+Sans préjudice des contrôles réalisés en application de l'article 14, la preuve de la destination par le distillateur est apportée par la preuve de la livraison à l'opérateur agréé en application de l'article 9 du présent arrêté.
+
 2.L'agrément des opérateurs est prononcé par le directeur de l'établissement créé en application de l'article L. 621-1 du code rural, compétent en matière viticole, sur la base :
 
 ― de la preuve de l'identification auprès de la direction générale des douanes et droits indirects en tant qu'opérateur agréé pour le négoce des alcools ou l'utilisation des alcools ;
