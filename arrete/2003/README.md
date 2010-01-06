@@ -428,7 +428,6 @@
 - [Arrêté du 14 janvier 2003 (ECOP0300023A)](arrete-du-14-janvier-2003-ecop0300023a)
 - [Arrêté du 14 janvier 2003 (ECOP0300024A)](arrete-du-14-janvier-2003-ecop0300024a)
 - [Arrêté du 14 novembre 2003 (MCCB0300718A)](arrete-du-14-novembre-2003-mccb0300718a)
-- [Arrêté du 14 novembre 2003 (MCCB0300719A)](arrete-du-14-novembre-2003-mccb0300719a)
 - [Arrêté du 14 octobre 2003 (AGRA0301973A)](arrete-du-14-octobre-2003-agra0301973a)
 - [Arrêté du 14 mai 2003 (BUDR0303017A)](arrete-du-14-mai-2003-budr0303017a)
 - [Arrêté du 14 mai 2003 (BUDR0303018A)](arrete-du-14-mai-2003-budr0303018a)
