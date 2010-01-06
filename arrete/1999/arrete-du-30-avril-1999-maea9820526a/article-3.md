@@ -360,11 +360,7 @@ Centre culturel français de Milan.
 
 Institut français de Naples.
 
-Centre culturel français de Palerme.
-
 Bureau de coopération linguistique et artistique de Rome.
-
-Centre culturel français de Turin.
 
 Japon
 
