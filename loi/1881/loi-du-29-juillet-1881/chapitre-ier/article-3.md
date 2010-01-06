@@ -1,19 +1,9 @@
 # Article 3
 
-Au moment de la publication de tout imprimé, il en sera fait, par l'imprimeur, sous peine d'une amende de seize francs à trois cents francs [*sanctions*], un dépôt de deux exemplaires, destinés aux collections nationales.
+Tout écrit rendu public, à l'exception des ouvrages de ville ou bilboquets, portera l'indication du nom et du domicile de l'imprimeur, à peine, contre celui-ci, de 3 750 euros d'amende.
 
-Ce dépôt sera fait au ministère de l'intérieur, pour Paris ; à la préfecture , pour les chefs-lieux de département ; à la sous-préfecture, pour les chefs-lieux d'arrondissement, et, pour les autres villes, à la mairie.
+La distribution des imprimés qui ne porteraient pas la mention exigée au paragraphe précédent est interdite et la même peine est applicable à ceux qui contreviendraient à cette interdiction.
 
-L'acte de dépôt mentionnera le titre de l'imprimé et le chiffre du tirage.
+Une peine de six mois d'emprisonnement pourra être prononcée si, dans les douze mois précédents, l'imprimeur a été condamné pour contravention de même nature.
 
-Sont exceptés de cette disposition [*dépôt légal*] les bulletins de vote, les circulaires commerciales ou industrielles et les ouvrages dit de ville ou bilboquets.
-
-[*Sauf indication contraire, les taux d'amende exprimés le sont en principe dans leur taux d'origine.
-
-En ce qui concerne les dernières modifications du taux des amendes pénales, consulter :
-
-- la loi n° 77-1468 du 30 décembre 1977 ;
-
-- la loi n° 79-1131 du 28 décembre 1979 ;
-
-- le décret n° 80-567 du 18 juillet 1980.*]
+Toutefois, si l'imprimé fait appel à des techniques différentes et nécessite le concours de plusieurs imprimeurs, l'indication du nom et du domicile de l'un d'entre eux est suffisante.

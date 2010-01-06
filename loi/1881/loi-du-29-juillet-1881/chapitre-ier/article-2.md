@@ -1,9 +1,11 @@
 # Article 2
 
-Tout écrit rendu public, à l'exception des ouvrages de ville ou bilboquets, portera l'indication du nom et du domicile de l'imprimeur, à peine, contre celui-ci, de 3 750 euros d'amende.
+Le secret des sources des journalistes est protégé dans l'exercice de leur mission d'information du public.
 
-La distribution des imprimés qui ne porteraient pas la mention exigée au paragraphe précédent est interdite et la même peine est applicable à ceux qui contreviendraient à cette interdiction.
+Est considérée comme journaliste au sens du premier alinéa toute personne qui, exerçant sa profession dans une ou plusieurs entreprises de presse, de communication au public en ligne, de communication audiovisuelle ou une ou plusieurs agences de presse, y pratique, à titre régulier et rétribué, le recueil d'informations et leur diffusion au public.
 
-Une peine de six mois d'emprisonnement pourra être prononcée si, dans les douze mois précédents, l'imprimeur a été condamné pour contravention de même nature.
+Il ne peut être porté atteinte directement ou indirectement au secret des sources que si un impératif prépondérant d'intérêt public le justifie et si les mesures envisagées sont strictement nécessaires et proportionnées au but légitime poursuivi. Cette atteinte ne peut en aucun cas consister en une obligation pour le journaliste de révéler ses sources.
 
-Toutefois, si l'imprimé fait appel à des techniques différentes et nécessite le concours de plusieurs imprimeurs, l'indication du nom et du domicile de l'un d'entre eux est suffisante.
+Est considéré comme une atteinte indirecte au secret des sources au sens du troisième alinéa le fait de chercher à découvrir les sources d'un journaliste au moyen d'investigations portant sur toute personne qui, en raison de ses relations habituelles avec un journaliste, peut détenir des renseignements permettant d'identifier ces sources.
+
+Au cours d'une procédure pénale, il est tenu compte, pour apprécier la nécessité de l'atteinte, de la gravité du crime ou du délit, de l'importance de l'information recherchée pour la répression ou la prévention de cette infraction et du fait que les mesures d'investigation envisagées sont indispensables à la manifestation de la vérité.

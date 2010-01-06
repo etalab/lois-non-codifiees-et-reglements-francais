@@ -17,3 +17,5 @@ Les deux alinéas a et b qui précèdent ne s'appliquent pas lorsque les faits s
 Dans les cas prévus aux deux paragraphes précédents, la preuve contraire est réservée. Si la preuve du fait diffamatoire est rapportée, le prévenu sera renvoyé des fins de la plainte.
 
 Dans toute autre circonstance et envers toute autre personne non qualifiée, lorsque le fait imputé est l'objet de poursuites commencées à la requête du ministère public, ou d'une plainte de la part du prévenu, il sera, durant l'instruction qui devra avoir lieu, sursis à la poursuite et au jugement du délit de diffamation.
+
+Le prévenu peut produire pour les nécessités de sa défense, sans que cette production puisse donner lieu à des poursuites pour recel, des éléments provenant d'une violation du secret de l'enquête ou de l'instruction ou de tout autre secret professionnel s'ils sont de nature à établir sa bonne foi ou la vérité des faits diffamatoires.
