@@ -279,7 +279,6 @@
 - [Arrêté du 9 décembre 2003 (SOCF0311966A)](arrete-du-9-decembre-2003-socf0311966a)
 - [Arrêté du 9 décembre 2003 (SOCF0311968A)](arrete-du-9-decembre-2003-socf0311968a)
 - [Arrêté du 9 décembre 2003 (SOCF0311969A)](arrete-du-9-decembre-2003-socf0311969a)
-- [Arrêté du 9 décembre 2003 (SOCF0311970A)](arrete-du-9-decembre-2003-socf0311970a)
 - [Arrêté du 9 juillet 2003 (AGRG0301461A)](arrete-du-9-juillet-2003-agrg0301461a)
 - [Arrêté du 9 juillet 2003 (DEFD0301741A)](arrete-du-9-juillet-2003-defd0301741a)
 - [Arrêté du 9 juillet 2003 (DEFD0301742A)](arrete-du-9-juillet-2003-defd0301742a)
