@@ -18,3 +18,4 @@
 - [Article Annexe XVI](article-annexe-xvi.md)
 - [Article Annexe XVII](article-annexe-xvii.md)
 - [Article Annexe 18](article-annexe-18.md)
+- [Article Annexe XVIII](article-annexe-xviii.md)
