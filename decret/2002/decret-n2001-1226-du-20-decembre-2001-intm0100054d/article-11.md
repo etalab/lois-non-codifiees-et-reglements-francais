@@ -1,3 +1,3 @@
 # Article 11
 
-Le présent décret s'applique au 1er janvier 2002 pour une durée de cinq ans.
+Le présent décret s'applique jusqu'au 31 décembre 2010.
