@@ -8,6 +8,8 @@
 - [Décret n°2010-921 du 3 août 2010 (DEVA1017581D)](decret-n2010-921-du-3-aout-2010-deva1017581d)
 - [Décret n°2010-922 du 3 août 2010 (DEVA1017583D)](decret-n2010-922-du-3-aout-2010-deva1017583d)
 - [Décret n°2010-454 du 4 mai 2010 (PRMG1005827D)](decret-n2010-454-du-4-mai-2010-prmg1005827d)
+- [Décret n°2010-5 du 5 janvier 2010 (BCFF0929573D)](decret-n2010-5-du-5-janvier-2010-bcff0929573d)
+- [Décret n°2010-6 du 5 janvier 2010 (SASS0924398D)](decret-n2010-6-du-5-janvier-2010-sass0924398d)
 - [Décret n°2010-620 du 7 juin 2010 (DEFH0931848D)](decret-n2010-620-du-7-juin-2010-defh0931848d)
 - [Décret n°2009-1521 du 8 décembre 2009 (BCFP0928220D)](decret-n2009-1521-du-8-decembre-2009-bcfp0928220d)
 - [Décret n°2009-1211 du 9 octobre 2009 (BCFF0918194D)](decret-n2009-1211-du-9-octobre-2009-bcff0918194d)
