@@ -30,14 +30,26 @@ Paris-Monastir ;
 
 Paris-Tozeur.
 
-Jusqu'au 15 juillet 2013 :
+Jusqu'au 15 juillet 2013
 
 Maroc :
 
 Paris-Marrakech.
 
-Jusqu'au 15 octobre 2014 :
+Jusqu'au 15 octobre 2014
 
 Turquie :
 
 Paris-Antalya.
+
+Jusqu'au 31 décembre 2014
+
+Tunisie : Nantes - Djerba ;
+
+Nantes - Monastir ;
+
+Lyon - Djerba ;
+
+Lyon - Monastir.
+
+Maroc : Nantes - Marrakech.

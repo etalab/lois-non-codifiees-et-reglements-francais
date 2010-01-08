@@ -2,12 +2,6 @@
 
 **LIAISONS RÉGULIÈRES DE PASSAGERS, DE COURRIER ET DE FRET**
 
-Jusqu'au 30 novembre 2014
-
-Lyon-Bejaïa (Algérie).
-
-Marseille-Tlemcen (Algérie).
-
 Jusqu'au 28 février 2010
 
 Paris-Agadir (Maroc).
@@ -63,3 +57,15 @@ Jusqu'au 30 novembre 2014
 Lyon-Bejaïa (Algérie).
 
 Marseille-Tlemcen (Algérie).
+
+Jusqu'au 31 décembre 2014
+
+Lille-Bejaia (Algérie) ;
+
+Lille-Sétif (Algérie) ;
+
+Lille-Tlemcen (Algérie) ;
+
+Lyon-Tlemcen (Algérie) ;
+
+Mulhouse-Oran (Algérie).
