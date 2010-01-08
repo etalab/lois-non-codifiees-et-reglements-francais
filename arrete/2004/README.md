@@ -612,8 +612,6 @@
 - [Arrêté du 22 avril 2004 (MCCB0400385A)](arrete-du-22-avril-2004-mccb0400385a)
 - [Arrêté du 22 décembre 2003 (SOCF0312093A)](arrete-du-22-decembre-2003-socf0312093a)
 - [Arrêté du 22 décembre 2003 (SOCF0312095A)](arrete-du-22-decembre-2003-socf0312095a)
-- [Arrêté du 22 décembre 2003 (SOCF0312096A)](arrete-du-22-decembre-2003-socf0312096a)
-- [Arrêté du 22 décembre 2003 (SOCF0312099A)](arrete-du-22-decembre-2003-socf0312099a)
 - [Arrêté du 22 décembre 2003 (SOCF0312100A)](arrete-du-22-decembre-2003-socf0312100a)
 - [Arrêté du 22 décembre 2003 (SOCF0312101A)](arrete-du-22-decembre-2003-socf0312101a)
 - [Arrêté du 22 décembre 2003 (SOCF0312102A)](arrete-du-22-decembre-2003-socf0312102a)
