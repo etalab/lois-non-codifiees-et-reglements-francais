@@ -1,0 +1,11 @@
+# Article 1
+
+Le classement du parc naturel régional du Perche est renouvelé pour une durée de douze ans à compter de la date de publication du présent décret, sur les territoires des communes suivantes :
+
+Dans le département de l'Orne
+
+Appenai-sous-Bellême, Autheuil, Bellavilliers, Bellême, Bellou-le-Trichard, Bellou-sur-Huisne, Berd'huis, Bivilliers, Bizou, Boissy-Maugis, Bresolettes, Bretoncelles, Ceton, Champs, Chemilli, Colonard-Corubert, Comblot, Condeau, Condé-sur-Huisne, Corbon, Coulonges-les-Sablons, Courcerault, Courgeon, Dame-Marie, Dancé, Dorceau, Eperrais, Feings, Gémages, La Chapelle-Montligeon, La Chapelle-Souëf, La Lande-sur-Eure, La Madeleine-Bouvet, La Perrière, Le Gué-de-la-Chaîne, Le Pas-Saint-l'Homer, Le Pin-la-Garenne, Le Theil-sur-Huisne, l'Hermitière, Lignerolles, Loisail, Longny-au-Perche, Maison-Maugis, Mâle, Marchainville, Mauves-sur-Huisne, Monceaux-au-Perche, Montgaudry, Mortagne-au-Perche, Moulicent, Moutiers-au-Perche, Neuilly-sur-Eure, Nocé, Origny-le-Butin, Parfondeval, Pervenchères, Préaux-du-Perche, Prépotin, Randonnai, Rémalard, Réveillon, Saint-Agnan-sur-Erre, Saint-Aubin-des-Grois, Saint-Cyr-la-Rosière, Saint-Denis-sur-Huisne, Sainte-Céronne-lès-Mortagne, Saint-Germain-des-Grois, Saint-Hilaire-sur-Erre, Saint-Jean-de-la-Forêt, Saint-Jouin-de-Blavou, Saint-Mard-de-Réno, Saint-Martin-du-Vieux-Bellême, Saint-Maurice-sur-Huisne, Saint-Ouen-de-la-Cour, Saint-Pierre-la-Bruyère, Saint-Quentin-de-Blavou, Saint-Victor-de-Réno, Sérigny, Soligny-la-Trappe, Tourouvre, Vaunoise, Verrières, Villiers-sous-Mortagne.
+
+Dans le département d'Eure-et-Loir
+
+Argenvilliers, Authon-du-Perche, Beaumont-les-Autels, Belhomert-Guéhouville, Béthonvilliers, Brunelles, Champrond-en-Gâtine, Champrond-en-Perchet, Chapelle-Guillaume, Charbonnières, Combres, Coudray-au-Perche, Coudreceau, Fontaine-Simon, Frazé, Frétigny, La Bazoche-Gouet, La Croix-du-Perche, La Ferté-Vidame, La Gaudaine, La Loupe, Les Etilleux, Manou, Margon, Marolles-les-Buis, Meaucé, Miermaigne, Montireau, Montlandon, Nogent-le-Rotrou, Saint-Bomer, Saint-Denis-d'Authou, Saint-Eliph, Saint-Jean-Pierre-Fixte, Saint-Maurice-Saint-Germain, Saint-Victor-de-Buthon, Senonches, Soizé, Souancé-au-Perche, Thiron-Gardais, Trizay-Coutretot, Vaupillon, Vichères.
