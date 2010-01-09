@@ -1,4 +1,4 @@
-# Section VII : De la vérification de la comptabilité.
+# Section VII : De la vérification de la comptabilité et du respect des obligations relatives à la lutte contre le blanchiment de capitaux et le financement du terrorisme.
 
 - [Article 19](article-19.md)
 - [Article 20](article-20.md)

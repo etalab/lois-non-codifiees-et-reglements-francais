@@ -6,6 +6,6 @@
 - [Section IV : Fonctionnement de la chambre.](section-iv)
 - [Section V : De la chambre siégeant en comité mixte.](section-v)
 - [Section VI : De la bourse commune.](section-vi)
-- [Section VII : De la vérification de la comptabilité.](section-vii)
+- [Section VII : De la vérification de la comptabilité et du respect des obligations relatives à la lutte contre le blanchiment de capitaux et le financement du terrorisme.](section-vii)
 - [Section VIII : Des différends entre commissaires-priseurs et des plaintes contre les commissaires-priseurs.](section-viii)
 - [Section IX : Des commissaires-priseurs honoraires.](section-ix)
