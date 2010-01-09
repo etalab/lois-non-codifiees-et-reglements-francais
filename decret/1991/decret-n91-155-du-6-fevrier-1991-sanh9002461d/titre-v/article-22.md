@@ -4,4 +4,4 @@ Dans la mesure où les nécessités du service le permettent, l'agent contractue
 
 La demande doit indiquer la date de début et la durée du congé sollicité. Elle doit également préciser la nature de l'activité de l'entreprise qu'il est prévu de créer ou de reprendre.
 
-Cette demande doit être formulée au moins trois mois à l'avance. La demande de renouvellement du congé doit être adressée au moins trois mois [*délai*] avant le terme du congé initial.
+Cette demande doit être formulée au moins deux mois à l'avance. La demande de renouvellement du congé doit être adressée au moins deux mois avant le terme du congé initial.

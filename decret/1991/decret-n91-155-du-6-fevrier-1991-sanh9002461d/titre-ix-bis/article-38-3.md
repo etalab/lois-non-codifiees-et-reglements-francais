@@ -1,11 +1,13 @@
 # Article 38-3
 
-La durée de vingt-cinq années de services accomplis en tant qu'agent public prévue à l'article 3-1 de l'ordonnance n° 82-298 du 31 mars 1982 susvisée est réduite de six années pour :
+La durée de vingt-cinq années de services accomplis en tant qu'agent public prévue à l'article 3-1 de l'ordonnance du 31 mars 1982 précitée est réduite de six années pour :
 
-1° Les agents contractuels reconnus travailleurs handicapés par la commission technique d'orientation et de reclassement professionnel mentionnée à l'article L. 323-11 du code du travail dès lors que cette commission les a classés dans la catégorie C définie à l'article R. 323-32 du code du travail.
+1° Les agents titulaires de la carte d'invalidité définie à l'article L. 241-3 du code de l'action sociale et des familles ;
 
-2° Sous réserve que leur taux d'invalidité, fixé par la commission de réforme compétente, soit au moins égal à 60 p. 100 :
+2° Les agents accidentés du travail et victimes de maladies professionnelles mentionnés au 2° de l'article L. 5212-13 du code du travail ;
 
-a) Les agents victimes d'accidents du travail ou de maladies professionnelles visés au 2° de l'article L. 323-3 du code du travail ;
+3° Les anciens militaires et assimilés titulaires d'une pension militaire d'invalidité mentionnés au 4° de l'article L. 5212-13 du code du travail.
 
-b) Les anciens militaires et assimilés titulaires d'une pension militaire d'invalidité visés au 4° de l'article L. 323-3 du code du travail.
+Ces deux dernières catégories ne bénéficient de la réduction qu'à condition que le taux d'invalidité fixé par la commission de réforme compétente soit au moins égal à 60 %.
+
+Les conditions requises pour bénéficier des dispositions du présent article sont appréciées à la date à laquelle est accordée l'autorisation.
