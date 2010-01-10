@@ -2,11 +2,9 @@
 
 HEM, ROUBAIX (DÉPARTEMENT DU NORD)
 
-Quartiers Longchamps, Trois Baudets, Trois Fermes,
+Quartiers Longchamps, Trois Baudets, Trois Fermes, Lionderie, Hauts Champs
 
-Lionderie, Hauts Champs
-
-Roubaix
+**Roubaix**
 
 Rue Léon-Marlot : limite nord-est des parcelles section EY numérotées 152, 153, 197, 155, 156, 177 à 184 et 196, puis parcelles section EV numérotées 1, 15 à 22, 224, 78, 79, 82, 83, 88, 89, 227, 101 à 103, 114, 126 à 131 jusqu'à l'avenue Alfred-Motte.
 
@@ -16,21 +14,21 @@ Rue Jules-Michelet : limite nord-est des parcelles section EP numérotées 213, 
 
 Limite communale avec Lys-lez-Lannoy : limite sud-est des parcelles section EN numérotées 140, 132, 135 pour partie jusqu'à la limite communale entre Hem et Lys-lez-Lannoy.
 
-Hem
-
 Limite communale avec Lys-lez-Lannoy : limite nord-est des parcelles section AY numérotées 29, 785, 784, 32, 35, 39, 40, 41, 42, 43 et 44 jusqu'à la rue des Ecoles et, au-delà de la rue des Ecoles, limite nord-est de la parcelle BA242.
 
-Lys-lez-Lannoy
+**Lys-lez-Lannoy**
 
-Limite nord-ouest de la parcelle section AL 34, puis limite sud-ouest de la parcelle AL 591, puis limite nord-ouest de la parcelle AL 590, puis limites sud-ouest et nord-ouest de la parcelle AL 762, puis limite nord-ouest de la parcelle AL 764 jusqu'à la rue de la Gare.
+Limite nord-ouest de la parcelle section AL 34, puis limite sud-ouest de la parcelle AL 591, puis limite nord-ouest de la parcelle AL 590, puis limites sud-ouest et nord-ouest de la parcelle AB 762, puis limite nord-ouest de la parcelle AB 764 jusqu'à la rue de la Gare.
 
 Rue de la Gare : limite nord-est des parcelles AL 433 et AL 590 jusqu'à la rue de Bapaume.
 
-Rue de Bapaume : limite nord-ouest (pour partie depuis le coude avec la rue de la gare) des parcelles AL 576 et AL 96 jusqu'à la rue Jules-Guesde.
+Rue de Bapaume : limite nord-ouest (pour partie depuis le coude avec la rue de la Gare) des parcelles AL 576 et AL 69 jusqu'à la rue Jules-Guesde.
 
 Rue Jules-Guesde : limite nord-est des parcelles AL 576 et AL 506 jusqu'à la limite communale entre Lys-lez-Lannoy et Lannoy (à hauteur de l'angle avec la rue des Canonniers).
 
 Limite communale avec Lannoy : limite sud-est des parcelles section AL numérotées 67, 576, 43, 42, 41, 40, 39, 573 (en parallèle et en retrait de la rue des Remparts), jusqu'à la limite communale entre Lys-lez-Lannoy et Hem.
+
+**Hem**
 
 Limite nord-est de la parcelle BA 326 (pour partie, depuis la limite communale avec Lys-lez-Lannoy et Lannoy, en suivant la limite communale avec Lannoy) puis limites sud-est et sud-ouest de cette même parcelle BA 326, sise rue des Briquetteries.
 
@@ -48,7 +46,7 @@ Rue Braquaval : limite nord-est des parcelles section BB numérotées 292 à 297
 
 De l'autre côté de la rue Braquaval, limite nord-ouest des parcelles BA 590 et BA 589.
 
-Limite nord-est des parcelles section BA  numérotées 589, 593, 599 et 601.
+Limite nord-est des parcelles section BA numérotées 589, 593, 599 et 601.
 
 Limite sud-est de la parcelle BA 601 jusqu'à la rue Braquaval.
 
@@ -76,19 +74,19 @@ Rue de l'Abbé-Lemire : limite nord-ouest des parcelles section AX numérotées 
 
 Rue Ribot : limite sud-ouest des parcelles section AX numérotées 158 à 201 jusqu'à l'angle avec la rue Louis-Loucheur.
 
-De l'autre côte de la rue Louis-Loucheur, le long de la rue Loridant, limite sud-ouest des parcelles section AK numérotées 318, 311, 310, 309, 287, 284, 283, 279, 278, 277, 274 à 276 et 148 jusqu'au carrefour avec l'avenue Charles-de-Gaulle.
+De l'autre côté de la rue Louis-Loucheur, avenue du Maréchal-Lyautey puis le long de la rue Loridant, limite sud-ouest des parcelles section AK numérotées 318, 311, 310, 309, 287, 284, 283, 279, 278, 277, 274 à 276 et 148 jusqu'au carrefour avec l'avenue Charles-de-Gaulle.
 
 Avenue Charles-de-Gaulle : limite nord-ouest des parcelles section AK numérotées 148 à 150, 153, 152, 159 à 161, 169, 170, 172,597, 598 et 177 jusqu'à la limite communale avec Roubaix.
 
-Roubaix
+**Roubaix**
 
 Avenue Charles-de-Gaulle : depuis la limite communale avec Hem jusqu'au carrefour de la rue Briet et de la rue Contour-des-Petites-Haies.
 
-Carrefour de la rue Briet et de la rue Contour-des-Petites-Haies, rue Contour-des-Petites-Haies jusqu'à rue Pierre-Brossolette vers le nord.
+Carrefour de la rue Briet et de la rue Contour-des-Petites-Haies, rue Contour-des-Petites-Haies, puis allée Dupleix jusqu'à la rue Pierre-Brossolette vers le nord.
 
 Rue Pierre-Brossolette vers le nord jusqu'au carrefour avec l'avenue Alfred-Motte.
 
-Avenue Alfred-Motte : limite sud-est des parcelles section ET numérotées 26, 27, 34, 35, 36, 133, 132, 131 et 130 jusqu'au carrefour avec le boulevard de Fourmies.
+Avenue Alfred-Motte : limite sud-est des parcelles EV 244, 245 section ET numérotées 26, 27, 34, 35, 36, 133, 132, 131 et 130 jusqu'au carrefour avec le boulevard de Fourmies.
 
 Boulevard de Fourmies : angle sud de la parcelle section ET 130 puis limite sud-ouest des parcelles section ET numérotées 130, 129, 128, 127, 126, 118, 117, 116, 115, 114, 108, 107, 106, 105, 97, 96, 95, 94 et 93, puis parcelles section EY numérotées 24, 200, 18, 17, 14, 13, 1 jusqu'à la place Charles-Louis-Spriet, à l'angle avec l'avenue Linné.
 

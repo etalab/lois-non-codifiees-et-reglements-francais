@@ -8,11 +8,7 @@ Limite nord de la parcelle V 133.
 
 Limite est de la parcelle V 133.
 
-Rue Peary des deux côtés de la voie jusqu'à la rue Christophe-Colomb.
-
-Rue Christophe-Colomb de part et d'autre de la voie jusqu'à la rue Vasco-de-Gama.
-
-Limite nord de la parcelle AE 97.
+Traversée de la rue Robert-Peary, rue des Cosmonautes jusqu'à la voie des Cosmonautes.
 
 Voie des Cosmonautes en incluant à l'est la totalité des parcelles, section AE, numérotées 107, 80 et 39.
 

@@ -108,7 +108,7 @@ Rue François-Fabié des deux côtés jusqu'à la rue Picot.
 
 Rue Picot des deux côtés jusqu'à la rue Truguet, y compris les parcelles CK 194, CK 195 et CK 196.
 
-Rue Truguet des deux côtés jusqu'au boulevard de Tesse.
+Rue Truguet des deux côtés (y compris la parcelle située à l'angle des rues Truguet et Picot et dont l'adresse est 38, de la rue Picot) jusqu'au boulevard de Tesse.
 
 Boulevard de Tesse jusqu'à la rue François-Fabié.
 

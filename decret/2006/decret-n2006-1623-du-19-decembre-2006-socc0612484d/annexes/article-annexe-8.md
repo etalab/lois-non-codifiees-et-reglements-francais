@@ -18,7 +18,7 @@ Limites sud-ouest puis nord-ouest de la parcelle DB 68, limites nord-est, nord e
 
 Franchissement du boulevard des Belles-Portes dans le prolongement de la parcelle DB 26, jusqu'à la limite entre le boulevard des Belles-Portes et celui du Grand-Parc (limite des sections CL et DB).
 
-Suivre la limite entre les sections CL et DB jusqu'à la porte 4 du Grand Parc et traverser le boulevard du Grand-Parc dans l'alignement de la limite nord de la parcelle CL 48.
+Suivre la limite entre les sections CL et DB jusqu'à la porte 4 du Grand-Parc incluse et traverser le boulevard du Grand-Parc dans l'alignement de la limite nord de la parcelle CL 48 située entre les portes 4 et 5.
 
 Limite nord de la parcelle CL 48, limites est et sud de la parcelle CL 46, limite est de la parcelle CL 45, limites est et sud de la parcelle CL 49, limites sud-est, sud et ouest de la parcelle CL 50, limites sud et ouest de la parcelle CL 24, limite ouest de la parcelle CL 25, limite sud-ouest de la parcelle CL 26.
 
