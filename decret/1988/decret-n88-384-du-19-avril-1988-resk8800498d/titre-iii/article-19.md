@@ -12,7 +12,9 @@ Il délibère notamment sur :
 
 4° Les acquisitions, aliénations et échanges d'immeubles ;
 
-5° Les emprunts, les prises de participations financières et la création de filiales.
+5° Les emprunts, les prises de participations financières et la création de filiales ;
+
+6° Le rapport annuel d'activité de l'établissement présenté par le directeur de l'observatoire.
 
 Il accepte les dons et legs.
 
@@ -20,4 +22,4 @@ Il détermine les catégories de conventions qui, en raison de leur nature ou du
 
 Il approuve les conventions relatives à la mise à disposition de l'observatoire de personnels privés.
 
-Il peut déléguer certaines de ses attributions au directeur de l'observatoire, à l'exception de celles qui sont mentionnées aux deuxième, quatrième et cinquième alinéas du présent article. Toutefois, le directeur prend, sous réserve de l'accord du membre du corps du contrôle général économique et financier, les décisions modificatives des budgets qui n'ont pas pour objet une augmentation des dépenses ou des virements de crédits entre la section de fonctionnement et la section de capital ou entre les chapitres de personnel et les chapitres de matériel. Le directeur rend compte, à la première séance du conseil, des décisions prises dans le cadre de ces délégations.
+Il peut déléguer certaines de ses attributions au directeur de l'observatoire, à l'exception de celles qui sont mentionnées aux 1° à 6° et aux dixième et onzième alinéas du présent article. Toutefois, le directeur prend, sous réserve de l'accord du membre du corps du contrôle général économique et financier, les décisions modificatives des budgets qui n'ont pas pour objet une augmentation des dépenses ou des virements de crédits entre la section de fonctionnement et la section de capital ou entre les chapitres de personnel et les chapitres de matériel. Le directeur rend compte, à la première séance du conseil, des décisions prises dans le cadre de ces délégations.

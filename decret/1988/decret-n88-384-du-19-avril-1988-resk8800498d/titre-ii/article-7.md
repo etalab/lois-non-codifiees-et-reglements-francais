@@ -1,17 +1,21 @@
 # Article 7
 
-Le conseil scientifique comprend dix-sept membres :
+Le conseil scientifique comprend :
 
-1° Le directeur de l'observatoire, président.
+1° Huit personnalités scientifiques extérieures nommées par le recteur de l'académie en raison de leur compétence, dans les domaines correspondant aux missions de l'observatoire, sur proposition du directeur de l'Institut national des sciences de l'univers, après consultation du président du Centre national d'études spatiales et du directeur de l'Institut de recherche et de développement.
 
-2° Cinq personnalités scientifiques nommées,en raison de leur compétence dans les domaines correspondant aux missions de l'observatoire, par le recteur de l'académie, dont :
+2° Huit membres élus :
 
-a) Une sur proposition du directeur de l'Institut national des sciences de l'univers ;
+a) Trois représentants des astronomes, des physiciens, des professeurs d'université ou des personnels appartenant à des catégories assimilées par application de l'article 5 du décret n° 87-31 du 20 janvier 1987 susvisé ;
 
-b) Une sur proposition du président de l'Observatoire de Paris ;
+b) Deux représentants des astronomes adjoints, des physiciens adjoints, des maîtres de conférences ou des personnels appartenant à des catégories assimilées par application de l'article 5 du décret n° 87-31 du 20 janvier 1987 susvisé ;
 
-c) Une sur proposition du président de l'université de Nice.
+c) Trois représentants de la catégorie A des personnels techniques.
 
-3° Les membres du conseil d'administration mentionnés aux a, b et c du 3° de l'article 6.
+3° Les directeurs des unités de recherche de l'observatoire.
 
-Les conditions de fonctionnement du conseil scientifique sont fixées par le règlement intérieur de l'observatoire.
+Le président est élu par les membres du conseil scientifique parmi les personnalités scientifiques extérieures.
+
+Le directeur de l'observatoire assiste aux séances du conseil scientifique avec voix consultative.
+
+Le président peut inviter toute personne dont il juge la présence utile sur un point de l'ordre du jour.

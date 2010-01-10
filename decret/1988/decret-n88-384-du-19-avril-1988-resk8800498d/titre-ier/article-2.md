@@ -2,7 +2,7 @@
 
 L'Observatoire de la Côte d'Azur a pour missions :
 
-1° De contribuer au progrès de la connaissance de l'univers par l'acquisition systématique de données d'observation, le développement et l'exploitation de moyens théoriques, expérimentaux et techniques appropriés, dans les domaines de l'astronomie, de la géophysique, des sciences connexes et de leurs applications ;
+1° De contribuer au progrès de la connaissance de l'univers par l'acquisition systématique de données d'observation, le développement et l'exploitation de moyens théoriques, expérimentaux et techniques appropriés, dans les domaines de l'astronomie,  des géosciences, des sciences connexes et de leurs applications ;
 
 2° De fournir des services liés à l'activité de recherche de l'établissement ;
 

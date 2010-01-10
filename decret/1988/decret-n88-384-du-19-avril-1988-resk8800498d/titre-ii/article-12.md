@@ -1,6 +1,6 @@
 # Article 12
 
-Sont électeurs et éligibles aux conseils prévus aux articles 6 et 7, au titre des personnels d'enseignement et de recherche, dans le collège correspondant à leur grade, les personnels affectés à l'établissement même s'ils sont membres d'un conseil d'un autre établissement d'enseignement supérieur.
+Sont électeurs et éligibles aux conseils prévus aux articles 6 et 7, au titre des personnels d'enseignement et de recherche, dans le collège correspondant à leur grade, les personnels affectés à l'établissement.
 
 Sont également électeurs et éligibles dans les mêmes conditions et sur leur demande :
 
