@@ -135,7 +135,6 @@
 - [Arrêté du 3 juin 2009 (MCCH0912668A)](arrete-du-3-juin-2009-mcch0912668a)
 - [Arrêté du 3 juin 2009 (MCCH0912947A)](arrete-du-3-juin-2009-mcch0912947a)
 - [Arrêté du 3 juin 2009 (MENE0911567A)](arrete-du-3-juin-2009-mene0911567a)
-- [Arrêté du 3 mars 2009 (AGRF0903019A)](arrete-du-3-mars-2009-agrf0903019a)
 - [Arrêté du 3 mars 2009 (AGRP0902851A)](arrete-du-3-mars-2009-agrp0902851a)
 - [Arrêté du 3 mars 2009 (AGRP0902857A)](arrete-du-3-mars-2009-agrp0902857a)
 - [Arrêté du 3 mars 2009 (AGRP0902861A)](arrete-du-3-mars-2009-agrp0902861a)
