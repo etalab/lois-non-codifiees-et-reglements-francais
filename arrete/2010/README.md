@@ -25,6 +25,7 @@
 - [Arrêté du 8 décembre 2009 (AGRS0928786A)](arrete-du-8-decembre-2009-agrs0928786a)
 - [Arrêté du 8 décembre 2009 (ECED0929632A)](arrete-du-8-decembre-2009-eced0929632a)
 - [Arrêté du 8 décembre 2009 (ECEP0928741A)](arrete-du-8-decembre-2009-ecep0928741a)
+- [Arrêté du 8 janvier 2010 (AGRT0931002A)](arrete-du-8-janvier-2010-agrt0931002a)
 - [Arrêté du 8 janvier 2010 (SASH0917631A)](arrete-du-8-janvier-2010-sash0917631a)
 - [Arrêté du 8 janvier 2010 (SASH0917636A)](arrete-du-8-janvier-2010-sash0917636a)
 - [Arrêté du 8 septembre 2009 (ECEM0916617A)](arrete-du-8-septembre-2009-ecem0916617a)
