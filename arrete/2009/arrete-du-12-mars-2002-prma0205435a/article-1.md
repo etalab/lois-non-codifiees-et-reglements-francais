@@ -1,6 +1,6 @@
 # Article 1
 
-Dès lors qu'ils exercent leurs fonctions en administration centrale, les fonctionnaires et les agents non titulaires de droit public à durée indéterminée des services généraux du Premier ministre, de la           délégation interministérielle à l'aménagement du territoire et à l'attractivité régionale  et du secrétariat général de la défense nationale énumérés ci-dessous peuvent percevoir l'indemnité forfaitaire pour travaux supplémentaires des administrations centrales instituée par le décret n° 2002-62 du 14 janvier 2002 susvisé, selon l'assimilation suivante :
+Dès lors qu'ils exercent leurs fonctions en administration centrale, les fonctionnaires et les agents non titulaires de droit public à durée indéterminée des services généraux du Premier ministre, de la délégation interministérielle à l'aménagement du territoire et à l'attractivité régionale et du secrétariat général de la défense et de la sécurité nationale énumérés ci-dessous peuvent percevoir l'indemnité forfaitaire pour travaux supplémentaires des administrations centrales instituée par le décret n° 2002-62 du 14 janvier 2002 susvisé, selon l'assimilation suivante :
 
 <table>
 <tbody>
@@ -10,9 +10,9 @@ Dès lors qu'ils exercent leurs fonctions en administration centrale, les foncti
 <br/>
 <p align="center">des services généraux du Premier ministre, </p>
 <br/>
-<p align="center">de la           délégation interministérielle à l'aménagement du territoire et à l'attractivité régionale  </p>
+<p align="center">de la délégation interministérielle à l'aménagement du territoire et à l'attractivité régionale </p>
 <br/>
-<p align="center">et du secrétariat général de la défense nationale et de la Direction des Journaux officiels </p>
+<p align="center">et du secrétariat général de la défense et de la sécurité nationale et de la   direction de l'information légale et administrative  </p>
 </td>
 <td>
 <p align="center">FONCTIONNAIRES </p>
@@ -46,7 +46,7 @@ Dès lors qu'ils exercent leurs fonctions en administration centrale, les foncti
 </tr>
 <tr>
 <td>
-<p>Attaché principal INSEE de 1re classe, chef de service administratif et technique de la direction des journaux officiels </p>
+<p>Attaché principal INSEE de 1re classe, chef de service administratif et technique de la   direction de l'information légale et administrative  </p>
 </td>
 <td>
 <p>Attaché principal de 1re classe </p>
@@ -122,7 +122,7 @@ Dès lors qu'ils exercent leurs fonctions en administration centrale, les foncti
 <td>
 <p align="center">PERSONNELS NON TITULAIRES </p>
 <br/>
-<p align="center">du secrétariat général de la défense nationale </p>
+<p align="center">du secrétariat général de la défense et de la sécurité nationale </p>
 </td>
 <td>
 <p align="center">FONCTIONNAIRES </p>
