@@ -1,6 +1,6 @@
 # Article Annexe
 
-A.-Fonctions exercées dans les services généraux du Premier ministre et de la direction des Journaux officiels
+A.-Fonctions exercées dans les services généraux du Premier ministre et de la direction de l'information légale et administrative
 
 <table>
 <tbody>
@@ -64,25 +64,21 @@ A.-Fonctions exercées dans les services généraux du Premier ministre et de la
 </td>
 </tr>
 <tr>
+<td>Directeur de l'information légale et administrative</td>
 <td>
-<p>Directeur de la Documentation française </p>
-</td>
-<td>
-<p align="center">1 </p>
+<p align="center">1</p>
 </td>
 <td>
 <p align="center">150 </p>
 </td>
 </tr>
 <tr>
+<td>Chef de service à la direction de l'information légale et administrative</td>
 <td>
-<p>Directeur des Journaux officiels </p>
+<p align="center">1</p>
 </td>
 <td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">150 </p>
+<p align="center">130 </p>
 </td>
 </tr>
 <tr>
@@ -207,47 +203,21 @@ A.-Fonctions exercées dans les services généraux du Premier ministre et de la
 </td>
 </tr>
 <tr>
+<td>Sous-directeur à la direction de l'information légale et administrative</td>
 <td>
-<p>Sous-directeur à la direction des Journaux officiels </p>
-</td>
-<td>
-<p align="center">2 </p>
-</td>
-<td>
-<p align="center">110 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Sous-directeur de l'administration et de l'édition à la direction de la Documentation française </p>
-</td>
-<td>
-<p align="center">1 </p>
+<p align="center">2</p>
 </td>
 <td>
 <p align="center">110 </p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Sous-directeur de la documentation et sous-directeur des publications à la direction de la Documentation française </p>
-</td>
-<td>
-<p align="center">2 </p>
-</td>
-<td>
-<p align="center">100 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Sous-directeur de la promotion et de l'action commerciale à la direction de la Documentation française </p>
-</td>
+<td>Secrétaire général de la direction de l'information légale et administrative</td>
 <td>
 <p align="center">1 </p>
 </td>
 <td>
-<p align="center">80 </p>
+<p align="center">110 </p>
 </td>
 </tr>
 <tr>
@@ -286,7 +256,7 @@ A.-Fonctions exercées dans les services généraux du Premier ministre et de la
 </tbody>
 </table>
 
-B.-Fonctions exercées au secrétariat général de la défense nationale
+B.-Fonctions exercées au secrétariat général de la défense et de la sécurité nationale
 
 <table>
 <tbody>

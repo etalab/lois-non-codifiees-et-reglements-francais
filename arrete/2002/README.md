@@ -669,8 +669,6 @@
 - [Arrêté du 27 juin 2002 (DOMA0200056A)](arrete-du-27-juin-2002-doma0200056a)
 - [Arrêté du 27 mars 2002 (MJSK0270023A)](arrete-du-27-mars-2002-mjsk0270023a)
 - [Arrêté du 27 mars 2002 (MJSK0270025A)](arrete-du-27-mars-2002-mjsk0270025a)
-- [Arrêté du 27 novembre 2001 (PRMX0105213A)](arrete-du-27-novembre-2001-prmx0105213a)
-- [Arrêté du 27 novembre 2001 (PRMX0105214A)](arrete-du-27-novembre-2001-prmx0105214a)
 - [Arrêté du 27 novembre 2002 (EQUS0201654A)](arrete-du-27-novembre-2002-equs0201654a)
 - [Arrêté du 27 septembre 2002 (BUDF0200027A)](arrete-du-27-septembre-2002-budf0200027a)
 - [Arrêté du 27 septembre 2002 (EQUS0201499A)](arrete-du-27-septembre-2002-equs0201499a)
