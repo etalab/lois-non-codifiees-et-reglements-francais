@@ -411,7 +411,6 @@
 - [Arrêté du 14 juin 2004 (ECOT0491208A)](arrete-du-14-juin-2004-ecot0491208a)
 - [Arrêté du 14 juin 2004 (FPPA0400065A)](arrete-du-14-juin-2004-fppa0400065a)
 - [Arrêté du 14 octobre 2004 (ECOD0470030A)](arrete-du-14-octobre-2004-ecod0470030a)
-- [Arrêté du 14 octobre 2004 (MCCB0400813A)](arrete-du-14-octobre-2004-mccb0400813a)
 - [Arrêté du 14 octobre 2004 (MCCB0400814A)](arrete-du-14-octobre-2004-mccb0400814a)
 - [Arrêté du 14 octobre 2004 (MCCB0400815A)](arrete-du-14-octobre-2004-mccb0400815a)
 - [Arrêté du 14 mai 2004 (JUSC0420365A)](arrete-du-14-mai-2004-jusc0420365a)
