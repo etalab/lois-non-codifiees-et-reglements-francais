@@ -2,4 +2,4 @@
 
 Direction des services administratifs et financiers.
 
-Direction de la Documentation française.
+Direction de l'information légale et administrative.

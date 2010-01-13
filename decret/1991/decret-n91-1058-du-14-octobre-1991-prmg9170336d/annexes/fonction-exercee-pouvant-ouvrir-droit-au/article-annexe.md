@@ -26,21 +26,9 @@ Emplois présentant une technicité ou des sujétions d'exercice particulières 
 
 - emplois qualifiés de chefs de secrétariat ou de secrétariat de direction.
 
-2. Direction générale de l'administration et de la fonction publique :
+2 (supprimé)
 
-Emplois présentant une responsabilité d'encadrement :
-
-- chef du bureau en charge de la fonction de soutien ;
-
-Emplois présentant une technicité ou des sujétions d'exercice particulières :
-
-- emplois qualifiés relevant de la fonction de soutien interne à la direction (logistique, budgétaire, ressources humaines, documentation, informatique) ;
-
-- emplois qualifiés de gestion et de coordination interministérielle ;
-
-- emplois qualifiés de chefs de secrétariat ou de secrétariat de direction.
-
-3. Direction de la Documentation française :
+3. Direction de l'information légale et administrative :
 
 Emplois présentant une responsabilité d'encadrement :
 
@@ -87,9 +75,3 @@ Emplois présentant une technicité ou des sujétions d'exercice particulières 
 - emplois qualifiés relevant de la fonction statistique ;
 
 - emplois qualifiés d'agent de saisie, de manutention et d'expédition.
-
-6. Centres interministériels de renseignement administratif :
-
-Emplois présentant une technicité ou des sujétions d'exercice particulières :
-
-- emplois d'agents d'orientation.
