@@ -26,9 +26,9 @@ Des membres permanents :
 
 -le directeur au secrétariat général du Gouvernement ;
 
--le directeur des Journaux officiels ;
+-le   directeur de l'information légale et administrative ;
 
--                     le délégué général à l'outre-mer ;
+-le délégué général à l'outre-mer ;
 
 Des membres siégeant en fonction de l'objet du code examiné :
 

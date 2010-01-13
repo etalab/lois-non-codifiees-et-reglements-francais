@@ -1,6 +1,6 @@
 # Article 2
 
-Il est créé un site dénommé Légifrance (http://www.legifrance.gouv.fr), placé sous la responsabilité du secrétaire général du Gouvernement et exploité par la Direction des Journaux officiels.
+Il est créé un site dénommé Légifrance (http : / / www. legifrance. gouv. fr), placé sous la responsabilité du secrétaire général du Gouvernement et exploité par la direction de l'information légale et administrative.
 
 Ce site donne accès, directement ou par l'établissement de liens, à l'ensemble des données mentionnées à l'article 1er. Il met à la disposition du public des instruments destinés à faciliter la recherche de ces données. Il offre la faculté de consulter les autres sites publics nationaux, ceux des Etats étrangers, ceux des institutions de l'Union européenne ou d'organisations internationales assurant une mission d'information juridique. Il rend compte de l'actualité législative, réglementaire et juridictionnelle.
 

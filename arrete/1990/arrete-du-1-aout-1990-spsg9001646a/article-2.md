@@ -16,7 +16,7 @@ En liaison avec les directions et services de l'administration centrale et les s
 
 4. Le bureau de production et de diffusion
 
-Il assure la mise en oeuvre technique des instruments de communication du ministère. A ce titre, il lui appartient notamment d'effectuer ou de coordonner les opérations de conception graphique et d'édition ainsi que la réalisation des documents audiovisuels du ministère ; il apporte une assistance technique en la matière aux services déconcentrés. Il assure les relations du ministère avec la Direction des Journaux officiels, la Documentation française ainsi que leurs sous-traitants et les entreprises privées spécialisées. Il coordonne les fichiers de diffusion, les opérations de routage, ainsi qu'un plateau technique de publication assistée par ordinateur, de vidéotex, d'infographie et de reprographie associée.
+Il assure la mise en oeuvre technique des instruments de communication du ministère. A ce titre, il lui appartient notamment d'effectuer ou de coordonner les opérations de conception graphique et d'édition ainsi que la réalisation des documents audiovisuels du ministère ; il apporte une assistance technique en la matière aux services déconcentrés. Il assure les relations du ministère avec la direction de l'information légale et administrative ainsi que ses sous-traitants et les entreprises privées spécialisées. Il coordonne les fichiers de diffusion, les opérations de routage, ainsi qu'un plateau technique de publication assistée par ordinateur, de vidéotex, d'infographie et de reprographie associée.
 
 5. Le bureau des affaires générales
 

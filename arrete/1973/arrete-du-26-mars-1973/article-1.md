@@ -14,7 +14,7 @@ Administrateur supérieur des îles Wallis et Futuna, mentionné dans le décret
 
 Chef d'études à la direction de la documentation, mentionné dans le décret n° 68-14 du 5 janvier 1968.
 
-Chef de service administratif et technique de la direction des Journaux officiels, mentionné dans le décret n° 66-672 du 14 septembre 1966.
+Chef de service administratif et technique de la direction de l'information légale et administrative, mentionné dans le décret n° 66-672 du 14 septembre 1966.
 
 Secrétaire général des Journaux officiels, mentionné dans le décret n° 55-225 du 10 février 1955.
 

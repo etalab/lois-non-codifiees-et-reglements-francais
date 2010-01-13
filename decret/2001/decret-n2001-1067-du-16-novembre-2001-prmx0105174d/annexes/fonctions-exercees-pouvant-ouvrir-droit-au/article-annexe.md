@@ -1,6 +1,6 @@
 # Article ANNEXE
 
-A.-Fonctions exercées dans les services généraux du Premier ministre et à la direction des Journaux officiels
+A.-Fonctions exercées dans les services généraux du Premier ministre et à la   direction de l'information légale et administrative
 
 1° Secrétaire général du Gouvernement.
 
@@ -14,7 +14,7 @@ A.-Fonctions exercées dans les services généraux du Premier ministre et à la
 
 6° Expert de haut niveau ou directeur de projet.
 
-B.-Fonctions exercées au secrétariat général de la défense nationale
+B.-Fonctions exercées au secrétariat général de la défense et de la sécurité nationale
 
 1° Secrétaire général et secrétaire général adjoint de la défense nationale.
 
@@ -30,7 +30,7 @@ C.-Fonctions exercées au Centre d'analyse stratégique
 
 2° Directeur général adjoint du Centre d'analyse stratégique.
 
-D.-Fonctions exercées à la           délégation interministérielle à l'aménagement du territoire et à l'attractivité régionale
+D.-Fonctions exercées à la délégation interministérielle à l'aménagement du territoire et à l'attractivité régionale
 
 1° Délégué à l'aménagement du territoire.
 

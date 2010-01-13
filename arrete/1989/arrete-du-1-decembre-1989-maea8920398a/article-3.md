@@ -1,6 +1,6 @@
 # Article 3
 
-Le Bulletin officiel du ministère des affaires étrangères est en vente à la Direction des Journaux officiels.
+Le Bulletin officiel du ministère des affaires étrangères est en vente à la direction de l'information légale et administrative.
 
 En outre, il est mis à la disposition du public aux heures habituelles d'ouverture des bureaux :
 

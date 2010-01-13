@@ -1,0 +1,4 @@
+# Arrêté du 25 avril 1989 portant création au secrétariat général du Gouvernement, direction de l'information légale et administrative, d'une banque de données qui recense les collections photographiques consultables en France
+
+- [Article 1](article-1.md)
+- [Article 4](article-4.md)
