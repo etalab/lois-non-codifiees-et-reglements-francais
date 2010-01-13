@@ -1,7 +1,9 @@
 # Article 20
 
-I. ― La mission du système d'information des ressources humaines a la responsabilité de la conception et du déploiement du projet interministériel SIRHIUS, ainsi que celle de la maîtrise d'ouvrage des applications ressources humaines et fonctions support.
+I. - Sont directement rattachées au directeur en charge du pilotage du réseau et de ses moyens une mission de coopération internationale, une mission " directions locales unifiées " et une délégation à la gestion des cadres et personnels de centrale et à la responsabilité des comptables.
 
-II. ― La mission de coopération internationale organise et coordonne les actions de coopération internationale de la direction générale.
+II. - La mission de coopération internationale est chargée d'organiser et de coordonner les actions de coopération internationale de la direction générale.
 
-III. ― Ces deux missions sont directement placées auprès du directeur chargé du pilotage et des ressources.
+III. - La mission " directions locales unifiées " est chargée du pilotage et du suivi de la mise en place des directions régionales et départementales des finances publiques.
+
+IV. - La délégation à la gestion des cadres et personnels de centrale et à la responsabilité des comptables assure le suivi personnalisé des personnels de statut d'administration centrale. En matière de responsabilité des comptables publics et des régisseurs, elle conduit la politique générale et suit les questions de mise en débet ainsi que les demandes de constatation de la force majeure ou en remise gracieuse.
