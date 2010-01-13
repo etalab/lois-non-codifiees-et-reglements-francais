@@ -6,6 +6,6 @@ Ces consultations concernent :
 
 -le comité technique paritaire ministériel ainsi que le comité central d'hygiène et de sécurité chargé d'assister ledit comité ;
 
--chacun des comités techniques paritaires spéciaux institués dans les services du Premier ministre, à l'exception de ceux institués au sein du secrétariat général de la défense nationale et à la           délégation interministérielle à l'aménagement du territoire et à l'attractivité régionale .
+-chacun des comités techniques paritaires spéciaux institués dans les services du Premier ministre, à l'exception de ceux institués au sein du     secrétariat général de la défense et de la sécurité nationale et à la délégation interministérielle à l'aménagement du territoire et à l'attractivité régionale.
 
 La date de ces consultations est fixée au jeudi 8 novembre 2007.

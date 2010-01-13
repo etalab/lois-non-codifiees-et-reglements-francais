@@ -1,6 +1,6 @@
 # Article 2
 
-Pour les services généraux du Premier ministre, de la           délégation interministérielle à l'aménagement du territoire et à l'attractivité régionale  et du secrétariat général de la défense nationale, la liste des agents non titulaires de droit public à durée indéterminée prévue au troisième alinéa de l'article 2 du décret du 14 janvier 2002 susvisé, qui peuvent percevoir l'indemnité d'administration et de technicité, est fixée conformément au tableau d'assimilation ci-dessous :
+Pour les services généraux du Premier ministre, de la délégation interministérielle à l'aménagement du territoire et à l'attractivité régionale et du     secrétariat général de la défense et de la sécurité nationale, la liste des agents non titulaires de droit public à durée indéterminée prévue au troisième alinéa de l'article 2 du décret du 14 janvier 2002 susvisé, qui peuvent percevoir l'indemnité d'administration et de technicité, est fixée conformément au tableau d'assimilation ci-dessous :
 
 <table>
 <tbody>
@@ -10,9 +10,9 @@ Pour les services généraux du Premier ministre, de la           délégation i
 <br/>
 <p align="center">des services généraux </p>
 <br/>
-<p align="center">du Premier ministre, de la           délégation interministérielle à l'aménagement du territoire et à l'attractivité régionale  et du secrétariat </p>
+<p align="center">du Premier ministre, de la délégation interministérielle à l'aménagement du territoire et à l'attractivité régionale et du </p>
 <br/>
-<p align="center">général de la défense nationale </p>
+<p align="center">    secrétariat général de la défense et de la sécurité nationale </p>
 </td>
 <td>
 <p align="center">FONCTIONNAIRES </p>
