@@ -6,7 +6,7 @@ L'établissement est administré par un conseil d'administration qui comprend, o
 
 a) Le directeur de l'architecture du ministère chargé de la culture ou son représentant ;
 
-b) Le directeur de l'administration générale du ministère chargé de la culture ou son représentant ;
+b) Le     secrétaire général du ministère chargé de la culture ou son représentant ;
 
 c) Le directeur général de l'urbanisme, de l'habitat et de la construction du ministère chargé de l'urbanisme ou son représentant ;
 

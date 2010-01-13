@@ -4,7 +4,7 @@ Le comité d'orientation comprend :
 
 1° Un membre du Conseil d'Etat, président ;
 
-2° Trois représentants du ministre chargé de la communication, parmi lesquels le directeur du développement des médias ;
+2° Trois représentants du ministre chargé de la communication, parmi lesquels le    directeur général des médias et des industries culturelles ;
 
 3° Un représentant du ministre chargé de l'économie et des finances ;
 

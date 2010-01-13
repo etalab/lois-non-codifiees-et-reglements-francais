@@ -1,6 +1,6 @@
 # Article 6
 
-La demande d'agrément à titre définitif doit être présentée au ministère chargé de la culture (direction de la musique, de la danse, du théâtre et des spectacles), après la publication de l'oeuvre au plus tard après l'achèvement des investissements de production et de développement éligibles au crédit d'impôt.
+La demande d'agrément à titre définitif doit être présentée au ministère chargé de la culture (direction générale de la création artistique), après la publication de l'oeuvre au plus tard après l'achèvement des investissements de production et de développement éligibles au crédit d'impôt.
 
 La date de publication est celle figurant sur le justificatif de déclaration de l'oeuvre à une société de perception et de répartition des droits d'auteurs et droits voisins.
 

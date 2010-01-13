@@ -6,7 +6,7 @@ Le Haut Conseil des musées de France institué par l'article 3 de la loi du 4 j
 
 2° Cinq représentants de l'Etat :
 
-a) Le directeur des musées de France ou son représentant, vice-président ;
+a) Le    directeur général des patrimoines ou son représentant, vice-président ;
 
 b) Le chef du service de l'inspection générale des musées ou son représentant ;
 

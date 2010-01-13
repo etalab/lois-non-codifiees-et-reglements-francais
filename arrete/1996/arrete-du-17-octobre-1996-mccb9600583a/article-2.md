@@ -2,7 +2,7 @@
 
 Le vote par correspondance s'effectue de la façon suivante :
 
-I.-La liste électorale est arrêtée, en application du second alinéa de l'article 13 du décret du 28 mai 1982 susvisé, par les soins du chef du service du personnel et des affaires sociales de la direction de l'administration générale.
+I.-La liste électorale est arrêtée, en application du second alinéa de l'article 13 du décret du 28 mai 1982 susvisé, par les soins du chef du service du personnel et des affaires sociales du secrétariat général.
 
 Quinze jours au moins avant la date des élections, les agents intéressés sont avisés de leur inscription sur cette liste et des conditions dans lesquelles ils pourront voter.
 
@@ -14,6 +14,6 @@ III.-Pour ce qui concerne les électeurs résidant hors du territoire métropoli
 
 IV.-L'électeur insère son bulletin de vote dans une première enveloppe dite enveloppe n° 1 qu'il cachette. Cette enveloppe, du modèle fixé par l'administration, ne doit porter aucune mention ni aucun signe distinctif.
 
-Il place ensuite cette enveloppe dans une grande enveloppe dite enveloppe n° 2 comportant la mention :  " élection à la commission administrative paritaire de (nom du ou des corps concernés) ". Il la cachette également, y appose sa signature et porte ses nom et prénoms, grade et affectation.
+Il place ensuite cette enveloppe dans une grande enveloppe dite enveloppe n° 2 comportant la mention : " élection à la commission administrative paritaire de (nom du ou des corps concernés) ". Il la cachette également, y appose sa signature et porte ses nom et prénoms, grade et affectation.
 
 V.-L'électeur adresse l'enveloppe n° 2, par voie postale, à l'adresse figurant sur celle-ci. Cette enveloppe doit parvenir au bureau de vote avant l'heure de clôture du scrutin.

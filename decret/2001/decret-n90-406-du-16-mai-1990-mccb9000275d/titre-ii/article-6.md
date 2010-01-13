@@ -6,15 +6,11 @@ Le conseil d'administration comprend, outre son président, nommé par décret s
 
 a) Le directeur de l'administration générale au ministère chargé de la culture ou son représentant ;
 
-b) Le directeur des Archives de France ou son représentant ;
+b) Le directeur général des patrimoines ou son représentant ;
 
-c) Le directeur de l'architecture et du patrimoine ou son représentant ;
+c) Le directeur général de la création artistique ou son représentant ;
 
-d) Le directeur des musées de France ou son représentant ;
-
-e) Le délégué aux arts plastiques ou son représentant ;
-
-f) Le président du Centre national de la fonction publique territoriale ou son représentant ;
+d) Le président du Centre national de la fonction publique territoriale ou son représentant ;
 
 2° Six personnalités françaises ou étrangères nommées par le ministre chargé de la culture, dont un spécialiste de la restauration du patrimoine, diplômé de l'Institut de formation des restaurateurs d'oeuvres d'art ou de l'Institut national du patrimoine ;
 

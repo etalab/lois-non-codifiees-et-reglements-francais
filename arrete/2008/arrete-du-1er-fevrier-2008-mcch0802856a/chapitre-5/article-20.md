@@ -1,6 +1,6 @@
 # Article 20
 
-Le directeur ou le responsable de l'établissement qui sollicite une habilitation à délivrer le diplôme national supérieur professionnel de musicien adresse au ministère chargé de la culture (direction de la musique, de la danse, du théâtre et des spectacles) un dossier de demande d'habilitation constitué de la manière suivante :
+Le directeur ou le responsable de l'établissement qui sollicite une habilitation à délivrer le diplôme national supérieur professionnel de musicien adresse au ministère chargé de la culture (direction générale de la création artistique) un dossier de demande d'habilitation constitué de la manière suivante :
 
 1° Informations administratives et financières :
 

@@ -1,6 +1,6 @@
 # Article 20-7
 
-Le demandeur adresse à la direction des Archives de France, par lettre recommandée avec demande d'avis de réception, un dossier de demande d'agrément comprenant les éléments suivants :
+Le demandeur adresse à la    direction générale des patrimoines, par lettre recommandée avec demande d'avis de réception, un dossier de demande d'agrément comprenant les éléments suivants :
 
 1° L'identité et l'adresse du demandeur et, le cas échéant, de son représentant ainsi que, pour les personnes morales, les statuts ;
 

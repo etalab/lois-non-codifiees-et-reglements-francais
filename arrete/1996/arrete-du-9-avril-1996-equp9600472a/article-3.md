@@ -16,7 +16,7 @@ Le directeur du cabinet du secrétaire d'Etat aux transports ;
 
 Le haut fonctionnaire de défense de ces ministres et le haut fonctionnaire de défense (Mer) ;
 
-Le secrétaire général de la défense nationale ;
+Le     secrétaire général de la défense et de la sécurité nationale ;
 
 Les personnes figurant sur la liste ;
 

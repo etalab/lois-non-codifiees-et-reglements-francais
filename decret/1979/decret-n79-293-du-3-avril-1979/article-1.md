@@ -4,9 +4,9 @@ La commission interministérielle des dépôts d'hydrocarbures instituée par le
 
 Le directeur des ressources énergétiques et minérales, président, ou son représentant ;
 
-Un représentant du secrétariat général de la défense nationale ;
+Un représentant du     secrétariat général de la défense et de la sécurité nationale ;
 
-Un représentant de la           délégation interministérielle à l'aménagement du territoire et à l'attractivité régionale  ;
+Un représentant de la délégation interministérielle à l'aménagement du territoire et à l'attractivité régionale ;
 
 Un représentant du ministère chargé de la santé (direction générale de la santé) ;
 

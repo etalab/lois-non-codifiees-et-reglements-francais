@@ -32,7 +32,7 @@ Le bureau des statistiques de la pêche et de l'aquaculture de la direction des 
 
 Dans les services relevant du ministre de l'éducation nationale et du ministre de l'enseignement supérieur et de la recherche :
 
-Le service statistique ministériel  éducation-recherche , composé de la sous-direction des synthèses statistiques et des bureaux des études statistiques sur l'enseignement scolaire, sur l'enseignement supérieur et sur la recherche et l'innovation, au sein de la direction de l'évaluation, de la prospective et de la performance.
+Le service statistique ministériel éducation-recherche, composé de la sous-direction des synthèses statistiques et des bureaux des études statistiques sur l'enseignement scolaire, sur l'enseignement supérieur et sur la recherche et l'innovation, au sein de la direction de l'évaluation, de la prospective et de la performance.
 
 Dans les services relevant du ministre de la défense :
 
@@ -48,7 +48,7 @@ La mission des études, de l'observation et des statistiques de la direction de 
 
 Dans les services relevant du ministre de la culture et de la communication :
 
-Le département des études, de la prospective et des statistiques de la délégation au développement et aux affaires internationales.
+Le département des études, de la prospective et des statistiques dU secrétariat général.
 
 Dans les services relevant du ministre du budget, des comptes publics et de la fonction publique :
 

@@ -1,6 +1,6 @@
 # Article 5
 
-Les Archives nationales sont constituées par l'ensemble des services à compétence nationale rattachés à la direction des Archives de France.
+Les Archives nationales sont constituées par l'ensemble des services à compétence nationale rattachés à la    direction générale des patrimoines.
 
 Les Archives nationales collectent, trient, classent, conservent, communiquent et mettent en valeur :
 

@@ -1,0 +1,9 @@
+# Article 8
+
+Sans préjudice des dispositions particulières aux musées de France dont les collections appartiennent à l'Etat ou à ses établissements publics, les qualifications des personnels responsables des actions d'accueil des publics, de diffusion, d'animation et de médiation culturelles dans les musées de France dont les collections appartiennent à une personne publique sont celles présentées par les professionnels mentionnés à l'article 6 de la loi du 4 janvier 2002 susvisée, ainsi que par les personnels des autres corps de la conservation du patrimoine, de l'enseignement, de la recherche, des services culturels et de la documentation appartenant à la fonction publique de l'Etat et aux cadres d'emploi de la filière culturelle de la fonction publique territoriale, dans les conditions définies par leurs statuts particuliers.
+
+Outre celles qui sont définies à l'alinéa précédent, les qualifications des personnels responsables des actions d'accueil des publics, de diffusion, d'animation et de médiation culturelles dans les musées de France dont les collections appartiennent à une personne morale de droit privé et, par exception, selon la nature des fonctions ou les besoins des services, dans les musées de France dont les collections appartiennent à une personne publique, sont celles présentées par :
+
+- les personnes titulaires des titres et diplômes du niveau requis pour l'accès aux corps et cadres susmentionnés, acquis dans l'un des domaines suivants : archéologie, art contemporain, arts décoratifs, arts graphiques, ethnologie, histoire, peinture, pratiques artistiques, sciences de la nature et de la vie, sciences et techniques, sculpture, ainsi que dans les domaines de l'accueil des publics, de la diffusion, l'animation et la médiation culturelles, du tourisme et de la communication ;
+
+- les personnes pouvant se prévaloir d'une expérience professionnelle dans les mêmes domaines.

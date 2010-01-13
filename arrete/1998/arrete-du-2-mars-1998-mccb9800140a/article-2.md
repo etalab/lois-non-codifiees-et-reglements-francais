@@ -16,27 +16,15 @@ Le représentant du ministre de l'éducation nationale, de la recherche et de la
 
 Le représentant du ministre de l'équipement, des transports et du logement ;
 
-3° Le directeur du développement des médias ou son représentant :
+3° Le directeur général des médias et des industries culturelles ou son représentant :
 
 Le chef du service de l'inspection générale ou son représentant ;
 
-Le directeur de l'administration générale ou son représentant ;
+Le secrétaire général ou son représentant ;
 
-Le directeur des Archives de France ou son représentant ;
+Le directeur général des patrimoines ou son représentant ;
 
-Le directeur du livre et de la lecture ou son représentant ;
-
-Le directeur du patrimoine ou son représentant ;
-
-Le directeur de l'architecture ou son représentant ;
-
-Le directeur des musées de France ou son représentant ;
-
-Le directeur du théâtre et des spectacles ou son représentant ;
-
-Le directeur de la musique et de la danse ou son représentant ;
-
-Le délégué aux arts plastiques ou son représentant ;
+Le directeur général de la création artistique ou son représentant ;
 
 Le délégué au développement et aux formations ou son représentant ;
 

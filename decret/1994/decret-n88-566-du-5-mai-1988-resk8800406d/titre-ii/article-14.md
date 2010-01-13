@@ -1,6 +1,6 @@
 # Article 14
 
-Le conseil scientifique comprend [*composition*] vingt membres ainsi répartis :
+Le conseil scientifique comprend vingt membres ainsi répartis :
 
 a) Six membres de droit :
 
@@ -24,7 +24,7 @@ b) Douze personnalités scientifiques, choisies en raison de leurs compétences 
 
 3° Deux sur proposition des sections compétentes du Conseil national des universités ;
 
-4° Un sur proposition du directeur des musées de France.
+4° Un sur proposition du directeur général des patrimoines.
 
 c) Un représentant des membres de l'Institut français d'archéologie du Caire, élu dans des conditions fixées par le règlement intérieur.
 

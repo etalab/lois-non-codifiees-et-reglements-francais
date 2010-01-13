@@ -50,7 +50,7 @@ A Paris, lorsque les membres des corps et les autorités assistent aux cérémon
 
 24° Le chancelier de l'Institut de France, les secrétaires perpétuels de l'Académie française, de l'Académie des inscriptions et belles-lettres, de l'Académie des sciences, de l'Académie des beaux-arts et de l'Académie des sciences morales et politiques ;
 
-25° Le secrétaire général du Gouvernement, le secrétaire général de la défense nationale et le secrétaire général du ministère des affaires étrangères ;
+25° Le secrétaire général du Gouvernement, le     secrétaire général de la défense et de la sécurité nationale et le secrétaire général du ministère des affaires étrangères ;
 
 26° Le président de la cour administrative d'appel de Paris, le premier président de la cour d'appel de Paris et le procureur général près cette cour ;
 
@@ -60,7 +60,7 @@ A Paris, lorsque les membres des corps et les autorités assistent aux cérémon
 
 29° Le président de la Commission nationale de l'informatique et des libertés ;
 
-30° Le président    de l'Autorité de la concurrence ;
+30° Le président de l'Autorité de la concurrence ;
 
 31° Le président de l'Autorité des marchés financiers ;
 

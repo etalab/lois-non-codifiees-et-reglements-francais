@@ -1,4 +1,4 @@
-# Arrêté du 27 octobre 1986 relatif à la formation spécifique des instituteurs stagiaires recrutés au concours institué par le décret n° 85-1226 du 15 novembre 1985
+# Arrêté du 27 octobre 1986 relatif au conseil d'orientation du Centre national d'art et de culture Georges-Pompidou
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

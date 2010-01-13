@@ -4,7 +4,7 @@ Le conseil d'administration de l'Ecole nationale supérieure des métiers de l'i
 
 1° Quatre membres de droit :
 
-Le directeur de l'administration générale au ministère chargé de la culture ou son représentant ;
+Le     secrétaire général au ministère chargé de la culture ou son représentant ;
 
 Le directeur du budget au ministère chargé du budget ou son représentant ;
 

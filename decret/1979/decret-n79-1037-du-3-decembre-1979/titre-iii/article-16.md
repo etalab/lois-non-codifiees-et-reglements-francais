@@ -12,4 +12,4 @@ Cette faculté peut s'exercer dans un délai de trois mois, à l'expiration duqu
 
 Lorsque les services, établissements et organismes désirent éliminer les documents qu'ils jugent inutiles, ils en soumettent la liste au visa de la personne chargée du contrôle scientifique et technique de l'Etat sur les archives. Toute élimination est interdite sans ce visa.
 
-Dans tous les cas, les documents à éliminer sont détruits sous le contrôle technique de la direction des Archives de France.
+Dans tous les cas, les documents à éliminer sont détruits sous le contrôle technique de la    direction générale des patrimoines.

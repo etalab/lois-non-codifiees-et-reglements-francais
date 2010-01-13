@@ -1,6 +1,6 @@
 # Article 9
 
-I. ― Lorsque le Conseil constitutionnel projette de déposer des archives courantes ou intermédiaires dans les conditions prévues au II de l'article L. 212-4 du code du patrimoine, la déclaration de dépôt est adressée, par lettre recommandée avec demande d'avis de réception, à la direction des Archives de France.
+I. ― Lorsque le Conseil constitutionnel projette de déposer des archives courantes ou intermédiaires dans les conditions prévues au II de l'article L. 212-4 du code du patrimoine, la déclaration de dépôt est adressée, par lettre recommandée avec demande d'avis de réception, à la    direction générale des patrimoines.
 
 Cette déclaration comporte les informations suivantes :
 
@@ -10,7 +10,7 @@ b) La liste et les dates extrêmes des archives déposées ;
 
 c) Le volume et le métrage linéaire ou le nombre des documents déposés.
 
-II. ― Le contrat de dépôt visé au II de l'article L. 212-4 du code du patrimoine est conclu par écrit. Est réputée non écrite toute clause tendant à appliquer le droit de rétention aux archives déposées par le Conseil constitutionnel. La direction des Archives de France apporte son assistance au Conseil constitutionnel pour la rédaction du contrat de dépôt. Elle est destinataire d'un exemplaire de celui-ci après signature des parties contractantes.
+II. ― Le contrat de dépôt visé au II de l'article L. 212-4 du code du patrimoine est conclu par écrit. Est réputée non écrite toute clause tendant à appliquer le droit de rétention aux archives déposées par le Conseil constitutionnel. La    direction générale des patrimoines apporte son assistance au Conseil constitutionnel pour la rédaction du contrat de dépôt. Elle est destinataire d'un exemplaire de celui-ci après signature des parties contractantes.
 
 Le contrat de dépôt contient des clauses relatives à :
 

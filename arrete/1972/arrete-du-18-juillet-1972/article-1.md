@@ -2,7 +2,7 @@
 
 Sont publiées au Journal officiel de la République française les décisions portant nomination, promotion de grades et mise à la retraite concernant les fonctionnaires des catégories A des services déconcentrés du ministère des affaires culturelles nommés ci-après :
 
-Direction de l'administration générale
+Secrétariat général
 
 Ingénieurs de recherche.
 
@@ -10,9 +10,9 @@ Ingénieurs d'études.
 
 Assistants ingénieurs.
 
-Direction des musées de France.
+Direction générale des patrimoines.
 
-Conservateurs en chef des musées de France;
+Conservateurs en chef des musées de France ;
 
 Conservateurs des musées de France.
 
@@ -22,53 +22,53 @@ Professeurs du Conservatoire national supérieur d'art dramatique.
 
 Service de l'enseignement de l'architecture et des arts plastiques.
 
-Directeurs des écoles nationales d'art des départements;
+Directeurs des écoles nationales d'art des départements ;
 
-Professeurs de l'école nationale supérieure des beaux arts;
+Professeurs de l'école nationale supérieure des beaux arts ;
 
-Professeurs de l'école nationale supérieure des arts décoratifs;
+Professeurs de l'école nationale supérieure des arts décoratifs ;
 
-Professeurs des écoles nationales d'art des départements;
+Professeurs des écoles nationales d'art des départements ;
 
-Inspecteurs généraux de l'enseignement artistique;
+Inspecteurs généraux de l'enseignement artistique ;
 
 Inspecteurs principaux de l'enseignement artistique.
 
 Direction de la musique, de l'art lyrique et de la danse.
 
-Professeurs du Conservatoire national supérieur de musique;
+Professeurs du Conservatoire national supérieur de musique ;
 
-Inspecteurs généraux de l'enseignement de la musique;
+Inspecteurs généraux de l'enseignement de la musique ;
 
 Inspecteurs principaux de l'enseignement de la musique.
 
 Service de la création artistique.
 
-Inspecteurs principaux des beaux arts;
+Inspecteurs principaux des beaux arts ;
 
-Administrateur général de l'administration générale du Mobilier national et des manufactures nationales des Gobelins, de Beauvais et de la Savonnerie;
+Administrateur général de l'administration générale du Mobilier national et des manufactures nationales des Gobelins, de Beauvais et de la Savonnerie ;
 
-Directeur de la manufacture nationale de Sèvres;
+Directeur de la manufacture nationale de Sèvres ;
 
-Inspecteur principal de l'administration générale du Mobilier national et des manufactures nationales des Gobelins, de Beauvais et de la Savonnerie;
+Inspecteur principal de l'administration générale du Mobilier national et des manufactures nationales des Gobelins, de Beauvais et de la Savonnerie ;
 
 Directeur technique de la manufacture nationale de Sèvres.
 
 Direction des archives.
 
-Conservateurs en chef d'archives;
+Conservateurs en chef d'archives ;
 
-Conservateurs d'archives;
+Conservateurs d'archives ;
 
 Documentalistes archivistes.
 
 Direction de l'architecture.
 
-Conservateurs des bâtiments de France;
+Conservateurs des bâtiments de France ;
 
-Architectes des bâtiments de France;
+Architectes des bâtiments de France ;
 
-Inspecteurs principaux des monuments historiques;
+Inspecteurs principaux des monuments historiques ;
 
 Inspecteurs des monuments historiques.
 
@@ -78,13 +78,13 @@ Membres du corps du contrôle des travaux des bâtiments de France (vérificateu
 
 Emplois communs à divers services déconcentrés.
 
-Attaché principal;
+Attaché principal ;
 
 Attaché.
 
 Conservateur de 1re classe, de 2e classe et de 3e classe de l'inventaire général et des fouilles archéologiques.
 
-Chargés d'études documentaires;
+Chargés d'études documentaires ;
 
 Documentalistes.
 

@@ -8,7 +8,7 @@ Le comité d'orientation et de coordination prévu à l'article 4 du décret du 
 
 ― du directeur général de l'aménagement, du logement et de la nature ;
 
-― du directeur de l'architecture et du patrimoine ;
+― du       directeur général des patrimoines ;
 
 ― du directeur général des finances publiques ;
 

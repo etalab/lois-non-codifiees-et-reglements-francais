@@ -14,6 +14,6 @@ Un représentant du ministre chargé de la marine marchande ;
 
 Un représentant du ministre chargé du commerce extérieur ;
 
-Le secrétaire général de la défense nationale ou son représentant. Un magistrat du siège de la Cour de cassation désigné par le premier président ;
+Le     secrétaire général de la défense et de la sécurité nationale ou son représentant. Un magistrat du siège de la Cour de cassation désigné par le premier président ;
 
-Une personnalité qualifiée en matière de concurrence, désignée conjointement par le ministre chargé des hydrocarbures et le ministre chargé de l'économie, sur proposition    de l'Autorité de la concurrence.
+Une personnalité qualifiée en matière de concurrence, désignée conjointement par le ministre chargé des hydrocarbures et le ministre chargé de l'économie, sur proposition de l'Autorité de la concurrence.

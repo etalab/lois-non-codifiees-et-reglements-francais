@@ -4,11 +4,11 @@ La commission est composée de :
 
 Sept représentants de l'administration, membres de droit :
 
-Le délégué aux arts plastiques, ou son représentant ;
+Le   directeur général de la création artistique, ou son représentant ;
 
 Le directeur du Centre national des arts plastiques, ou son représentant ;
 
-Le directeur du Musée national d'art moderne - Centre Georges Pompidou, ou son représentant ;
+Le directeur du Musée national d'art moderne-Centre Georges Pompidou, ou son représentant ;
 
 Le directeur général de la coopération internationale et du développement au ministère des affaires étrangères, ou son représentant ;
 

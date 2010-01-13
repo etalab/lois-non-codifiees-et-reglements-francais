@@ -14,15 +14,15 @@ Les membres de droit sont :
 
 Onze des treize personnalités mentionnées à l'article précédent sont nommées dans les conditions suivantes :
 
-- cinq sur proposition de l'Académie des inscriptions et belles-lettres ;
+-cinq sur proposition de l'Académie des inscriptions et belles-lettres ;
 
-- deux sur proposition des sections compétentes du Centre national de la recherche scientifique ;
+-deux sur proposition des sections compétentes du Centre national de la recherche scientifique ;
 
-- deux sur proposition des sections compétentes du Conseil supérieur des universités ;
+-deux sur proposition des sections compétentes du Conseil supérieur des universités ;
 
-- une sur proposition de la direction des musées de France ;
+-une sur proposition de la    direction générale des patrimoines ;
 
-- une sur proposition du Conseil supérieur de la recherche archéologique au ministère chargé de la culture.
+-une sur proposition du Conseil supérieur de la recherche archéologique au ministère chargé de la culture.
 
 La liste des sections compétentes du Centre national de la recherche scientifique et celle des sections compétentes du Conseil supérieur des universités sont fixées par arrêté du ministre chargé des universités.
 

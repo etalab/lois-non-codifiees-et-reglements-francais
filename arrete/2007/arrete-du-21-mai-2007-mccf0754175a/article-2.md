@@ -8,7 +8,7 @@ a) Le chef du service à compétence nationale du musée du Moyen Age-thermes et
 
 b) Le secrétaire général du musée ou son représentant ;
 
-c) Le directeur des musées de France ou son représentant.
+c) Le    directeur général des patrimoines ou son représentant.
 
 2° Siègent avec voix consultative :
 

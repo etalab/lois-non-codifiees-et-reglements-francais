@@ -4,7 +4,7 @@ En application de l'article 24 du code des marchés publics, le jury est compos�
 
 1. Siège en tant que président avec voix délibérative :
 
-― le directeur de l'architecture et du patrimoine ou son représentant.
+― le       directeur général des patrimoines ou son représentant.
 
 2. Siègent avec voix délibérative :
 
@@ -12,7 +12,7 @@ En application de l'article 24 du code des marchés publics, le jury est compos�
 
 ― le directeur de la médiathèque de l'architecture et du patrimoine ou son représentant ;
 
-― le directeur de projet de la médiathèque de l'architecture et du patrimoine auprès du secrétaire général et du directeur de l'architecture et du patrimoine.
+― le directeur de projet de la médiathèque de l'architecture et du patrimoine auprès du secrétaire général et du       directeur général des patrimoines.
 
 3. Siègent également avec voix délibérative :
 
@@ -20,7 +20,7 @@ En application de l'article 24 du code des marchés publics, le jury est compos�
 
 et en tant que maîtres d'œuvre :
 
-― un architecte-conseil de la direction de l'architecture et du patrimoine ;
+― un architecte-conseil de la direction générale des patrimoines ;
 
 ― un architecte qualifié dans le domaine de la conservation des archives ;
 

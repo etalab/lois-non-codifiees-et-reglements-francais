@@ -4,29 +4,29 @@ Sont, aux termes de l'article 25 de la loi du 11 janvier 1984 susvisée, des emp
 
 Dans toutes les administrations :
 
-- commissaires généraux, hauts-commissaires, commissaires, secrétaires généraux, délégués généraux et délégués, lorsqu'ils sont placés directement sous l'autorité du ministre ;
+-commissaires généraux, hauts-commissaires, commissaires, secrétaires généraux, délégués généraux et délégués, lorsqu'ils sont placés directement sous l'autorité du ministre ;
 
-- directeurs généraux et directeurs d'administration centrale.
+-directeurs généraux et directeurs d'administration centrale.
 
 Auprès du Premier ministre :
 
-- secrétaire général du Gouvernement ;
+-secrétaire général du Gouvernement ;
 
-- secrétaire général de la défense nationale ;
+-secrétaire général de la défense et de la sécurité nationale ;
 
-- délégués interministériels et délégués.
+-délégués interministériels et délégués.
 
 Au ministère des relations extérieures :
 
-- chef titulaire de mission diplomatique ayant rang d'ambassadeur.
+-chef titulaire de mission diplomatique ayant rang d'ambassadeur.
 
 Au ministère de l'intérieur et de la décentralisation :
 
-- préfets ;
+-préfets ;
 
-- chef du service de l'inspection générale de l'administration ;
+-chef du service de l'inspection générale de l'administration ;
 
-- directeur des services actifs de police en fonctions à l'administration centrale et chef du service de l'inspection générale de la police nationale,
+-directeur des services actifs de police en fonctions à l'administration centrale et chef du service de l'inspection générale de la police nationale,
 
 Au ministère de l'éducation nationale :
 

@@ -1,6 +1,6 @@
 # Article 7
 
-I. - Pour les opérations immobilières relevant de l'article 6 et situées sur le territoire national, le maître de l'ouvrage constitue un comité artistique qui comprend :
+I.-Pour les opérations immobilières relevant de l'article 6 et situées sur le territoire national, le maître de l'ouvrage constitue un comité artistique qui comprend :
 
 1° Le maître de l'ouvrage ou son représentant, qui en assure la présidence ;
 
@@ -20,7 +20,7 @@ Le directeur régional des affaires culturelles ou son représentant est rapport
 
 Le président du comité peut inviter un représentant de la commune du lieu d'implantation de la construction à assister avec voix consultative aux travaux du comité.
 
-II. - Pour les opérations immobilières relevant de l'article 6 et situées hors du territoire national, le maître de l'ouvrage constitue un comité artistique qui comprend :
+II.-Pour les opérations immobilières relevant de l'article 6 et situées hors du territoire national, le maître de l'ouvrage constitue un comité artistique qui comprend :
 
 1° Le maître de l'ouvrage ou son représentant, qui en assure la présidence et a voix prépondérante en cas de partage égal des voix ;
 
@@ -28,6 +28,6 @@ II. - Pour les opérations immobilières relevant de l'article 6 et situées hor
 
 3° Le maître d'oeuvre ;
 
-4° Le délégué aux arts plastiques ou son représentant ;
+4° Le   directeur général de la création artistique ou son représentant ;
 
 5° Deux personnalités qualifiées dans le domaine des arts plastiques, dont l'une est désignée par le maître de l'ouvrage et l'autre par l'ambassadeur.

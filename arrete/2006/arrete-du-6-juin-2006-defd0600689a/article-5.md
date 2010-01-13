@@ -6,9 +6,9 @@ La sous-direction des communications électroniques et des fréquences assiste l
 
 2° Arrête la politique technique d'interconnexion des différents réseaux supports des échanges d'information, en interne et avec l'extérieur, et veille à son application ;
 
-3° Suit les évolutions technologiques des différents supports d'échanges d'information, identifie les opportunités pour le ministère et lance les études d'impact correspondantes, en liaison avec la     direction générale de l'armement ;
+3° Suit les évolutions technologiques des différents supports d'échanges d'information, identifie les opportunités pour le ministère et lance les études d'impact correspondantes, en liaison avec la direction générale de l'armement ;
 
-4° Prépare et tient à jour le schéma directeur ministériel des fréquences. Elle veille, lors de son élaboration, à maintenir une liaison étroite avec le secrétariat général de la défense nationale. Après sa validation par le directeur général des systèmes d'information et de communication, elle veille à son application par tous les organismes de la défense et à sa prise en compte dans le fonctionnement des matériels et systèmes de la défense ;
+4° Prépare et tient à jour le schéma directeur ministériel des fréquences. Elle veille, lors de son élaboration, à maintenir une liaison étroite avec le     secrétariat général de la défense et de la sécurité nationale. Après sa validation par le directeur général des systèmes d'information et de communication, elle veille à son application par tous les organismes de la défense et à sa prise en compte dans le fonctionnement des matériels et systèmes de la défense ;
 
 5° Veille, au sein du ministère, à la coordination des utilisateurs de ressources spectrales ;
 

@@ -1,3 +1,3 @@
 # Article 2
 
-Le délégué aux arts plastiques est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Le   directeur général de la création artistique est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

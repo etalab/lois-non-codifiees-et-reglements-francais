@@ -1,8 +1,8 @@
 # Article 8
 
-Le directeur de l'administration générale organise le dépouillement.
+Le     secrétaire général organise le dépouillement.
 
-Le bureau de vote est présidé par le directeur de l'administration générale qui peut se faire représenter. Il comprend, outre le directeur de l'administration générale ou son représentant, un membre de l'administration qui assure le secrétariat, le délégué de chaque liste.
+Le bureau de vote est présidé par le     secrétaire général qui peut se faire représenter. Il comprend, outre le     secrétaire général ou son représentant, un membre de l'administration qui assure le secrétariat, le délégué de chaque liste.
 
 Le bureau de vote vérifie le nombre de votants à partir de la liste électorale, procède au dépouillement et, sans délai, à la proclamation des résultats.
 

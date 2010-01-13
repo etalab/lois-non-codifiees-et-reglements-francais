@@ -6,9 +6,9 @@ Le conseil d'administration comprend, outre son président :
 
 a) Le secrétaire général du ministère chargé de la culture ou son représentant ;
 
-b) Le directeur de l'architecture et du patrimoine au ministère chargé de la culture ou son représentant ;
+b) Le directeur général des patrimoines au ministère chargé de la culture ou son représentant ;
 
-c) Le directeur de la musique, de la danse, du théâtre et des spectacles au ministère chargé de la culture ou son représentant ;
+c) Le             directeur général de la création artistique au ministère chargé de la culture ou son représentant ;
 
 d) Le directeur général du Trésor et de la politique économique au ministère chargé de l'économie et des finances ou son représentant ;
 

@@ -1,6 +1,6 @@
 # Article 6
 
-Le dossier est adressé à la direction de la musique, de la danse, du théâtre et des spectacles. A la réception du dossier de l'intéressé, un récépissé lui est délivré dans un délai d'un mois et l'informe, le cas échéant, de tout document manquant.
+Le dossier est adressé à la direction générale de la création artistique. A la réception du dossier de l'intéressé, un récépissé lui est délivré dans un délai d'un mois et l'informe, le cas échéant, de tout document manquant.
 
 Le ministre chargé de la culture statue sur la demande de reconnaissance des qualifications professionnelles aux fonctions de professeur de danse dans une ou plusieurs des options visées à l'article 1er par une décision motivée, dans un délai de quatre mois à compter de la réception du dossier complet, qui lui est notifiée.
 

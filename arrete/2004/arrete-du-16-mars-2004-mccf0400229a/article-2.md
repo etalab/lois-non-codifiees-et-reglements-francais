@@ -4,7 +4,7 @@ La commission des acquisitions est alternativement présidée, pour une durée d
 
 Elle comprend, y compris son président, quatorze membres :
 
-1° Le directeur des musées de France ou son représentant ;
+1° Le directeur général des patrimoines ou son représentant ;
 
 2° Le directeur du patrimoine et des collections de l'Etablissement public du château de Fontainebleau et les directeurs des musées de Compiègne, Malmaison et Pau ;
 

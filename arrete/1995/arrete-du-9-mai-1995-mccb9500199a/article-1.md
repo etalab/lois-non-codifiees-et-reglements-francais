@@ -398,7 +398,7 @@ La nouvelle bonification indiciaire prévue à l'article 1er du décret du 24 oc
 </tr>
 <tr>
 <td valign="top" width="321">
-<p>Agent des laboratoires de recherches des directions des musées de France et du patrimoine utilisant des techniques de haut niveau (accélérateur de particules, micro fluorescence, radiologie..).</p>
+<p>Agent des laboratoires de recherches de la direction générale des patrimoines utilisant des techniques de haut niveau (accélérateur de particules, micro fluorescence, radiologie..).</p>
 </td>
 <td width="95">
 <p align="center">B </p>
@@ -412,7 +412,7 @@ La nouvelle bonification indiciaire prévue à l'article 1er du décret du 24 oc
 </tr>
 <tr>
 <td valign="top" width="321">
-<p>Responsable de la cellule des frais de mission à la direction de l'administration générale.</p>
+<p>Responsable de la cellule des frais de mission au secrétariat général.</p>
 </td>
 <td width="95">
 <p align="center">B </p>

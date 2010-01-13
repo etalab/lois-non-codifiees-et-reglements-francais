@@ -4,11 +4,11 @@ Outre son président, le Conseil national de la recherche archéologique compren
 
 1° Cinq représentants de l'Etat, membres de droit :
 
-a) Le directeur de l'architecture et du patrimoine au ministère chargé de la culture ;
+a) Le directeur général des patrimoines au ministère chargé de la culture ;
 
-b) Le sous-directeur chargé de l'archéologie à la direction de l'architecture et du patrimoine au ministère chargé de la culture ;
+b) Le sous-directeur chargé de l'archéologie à la direction générale des patrimoines au ministère chargé de la culture ;
 
-c) Le chef de la mission de la recherche et de la technologie à la délégation au développement et aux affaires internationales au ministère chargé de la culture ;
+c) Le chef de la mission de la recherche et de la technologie au secrétariat général au ministère chargé de la culture ;
 
 d) Le directeur de la recherche au ministère chargé de la recherche ;
 
@@ -16,9 +16,9 @@ e) Le directeur de l'enseignement supérieur au ministère chargé de l'enseigne
 
 2° Douze personnalités qualifiées, nommées par arrêté du ministre chargé de la culture, choisies en raison de leurs compétences scientifiques en matière d'archéologie dont :
 
-a) Deux membres choisis, sur proposition du directeur de l'architecture et du patrimoine, issus des corps des conservateurs généraux du patrimoine, conservateurs du patrimoine, ingénieurs de recherche et ingénieurs d'étude compétents en matière d'archéologie et affectés dans une direction régionale des affaires culturelles, à la direction de l'architecture et du patrimoine ou dans un service à compétence nationale rattaché à cette direction ;
+a) Deux membres choisis, sur proposition du directeur général des patrimoines, issus des corps des conservateurs généraux du patrimoine, conservateurs du patrimoine, ingénieurs de recherche et ingénieurs d'étude compétents en matière d'archéologie et affectés dans une direction régionale des affaires culturelles, à la direction générale des patrimoines ou dans un service à compétence nationale rattaché à cette direction ;
 
-b) Un membre choisi, sur proposition du directeur des musées de France, au sein des corps de conservateurs généraux du patrimoine et conservateurs du patrimoine, affecté dans un musée de France conservant des collections archéologiques ;
+b) Un membre choisi, sur proposition du    directeur général des patrimoines, au sein des corps de conservateurs généraux du patrimoine et conservateurs du patrimoine, affecté dans un musée de France conservant des collections archéologiques ;
 
 c) Deux membres choisis, sur proposition du conseil scientifique de l'Institut national de recherches archéologiques préventives, parmi les agents relevant, au sens du décret du 2 avril 2002 susvisé, des catégories 4 ou 5 de la filière scientifique et technique de cet établissement public ;
 

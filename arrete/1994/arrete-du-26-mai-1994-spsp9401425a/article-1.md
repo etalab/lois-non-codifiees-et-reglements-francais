@@ -40,6 +40,6 @@ Le comité des directeurs des administrations centrales chargé de préparer les
 
 19. Le directeur de la jeunesse et de la vie associative du ministère de la jeunesse et des sports ;
 
-20. Le directeur du développement des médias mis à la disposition du ministre de la communication ;
+20. Le    directeur général des médias et des industries culturelles mis à la disposition du ministre de la communication ;
 
 21. Le délégué général à la lutte contre la drogue et la toxicomanie.

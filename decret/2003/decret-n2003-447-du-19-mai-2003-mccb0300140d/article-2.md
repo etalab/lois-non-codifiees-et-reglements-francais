@@ -4,9 +4,9 @@ Le Conseil national des parcs et jardins comprend, outre son président nommé p
 
 1. Huit représentants du ministre chargé de la culture :
 
-a) Le directeur de l'architecture et du patrimoine ou son représentant ;
+a) Le directeur général des patrimoines ou son représentant ;
 
-b) Le délégué aux arts plastiques ou son représentant ;
+b) Le   directeur général de la création artistique ou son représentant ;
 
 c) Le président du Centre des monuments nationaux ou son représentant ;
 

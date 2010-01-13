@@ -12,7 +12,7 @@ M. Philippe Boulanger, chargé d'études à la direction centrale du service nat
 
 M. Marc Dorel, membre de la commission armées jeunesse (ministère de la défense) ;
 
-M. Jean-Michel Ducros, sous-directeur au secrétariat général de la défense nationale (ministère de la défense) ;
+M. Jean-Michel Ducros, sous-directeur au     secrétariat général de la défense et de la sécurité nationale (ministère de la défense) ;
 
 Mme Marie-Lucy Dumas, chargé de mission au cabinet (ministère de la défense) ;
 

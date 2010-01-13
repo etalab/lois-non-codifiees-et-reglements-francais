@@ -62,6 +62,7 @@
 - [Arrêté du 14 décembre 2000 (AGRS0002606A)](arrete-du-14-decembre-2000-agrs0002606a)
 - [Arrêté du 14 décembre 2000 (ECOC0000091A)](arrete-du-14-decembre-2000-ecoc0000091a)
 - [Arrêté du 14 janvier 2000 (ATEP0090027A)](arrete-du-14-janvier-2000-atep0090027a)
+- [Arrêté du 14 janvier 2000 (MCCF2000034A)](arrete-du-14-janvier-2000-mccf2000034a)
 - [Arrêté du 14 juin 2000 (AGRG0001181A)](arrete-du-14-juin-2000-agrg0001181a)
 - [Arrêté du 14 juin 2000 (AGRG0001182A)](arrete-du-14-juin-2000-agrg0001182a)
 - [Arrêté du 14 juin 2000 (PRMG0070289A)](arrete-du-14-juin-2000-prmg0070289a)

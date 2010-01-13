@@ -4,9 +4,9 @@ La Commission nationale de la sécurité dans le spectacle vivant et enregistré
 
 1° Cinq représentants de l'Etat :
 
-a) Le directeur de l'administration générale au ministère chargé de la culture ou son représentant ;
+a) Le     secrétaire général au ministère chargé de la culture ou son représentant ;
 
-b) Le directeur de la musique, de la danse, du théâtre et des spectacles au ministère chargé de la culture ou son représentant ;
+b) Le directeur général de la création artistique au ministère chargé de la culture ou son représentant ;
 
 c) Le directeur général du Centre national de la cinématographie ou son représentant ;
 

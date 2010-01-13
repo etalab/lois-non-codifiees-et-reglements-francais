@@ -24,4 +24,4 @@ Le directeur de l'animation de la recherche, des études et des statistiques au 
 
 Le directeur des affaires économiques et internationales au ministère de l'équipement, du logement et des transports ;
 
-Le directeur du développement des médias.
+Le    directeur général des médias et des industries culturelles.

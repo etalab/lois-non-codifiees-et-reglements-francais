@@ -4,11 +4,11 @@ Le conseil d'administration comprend seize membres ;
 
 1° Trois membres de droit :
 
-a) Le délégué aux arts plastiques ou son représentant ;
+a) Le directeur général de la création artistique ou son représentant ;
 
-b) Le directeur de l'administration générale au ministère chargé de la culture ou son représentant ;
+b) Le     secrétaire général au ministère chargé de la culture ou son représentant ;
 
-c) Le directeur des musées de France ou son représentant.
+c) Le directeur général des patrimoines ou son représentant.
 
 2° Dix personnalités qualifiées désignées, en raison de leurs compétences dans le domaine d'activité de l'établissement, pour une durée de trois ans renouvelable une fois par arrêté du ministre chargé de la culture, dont six représentants des professions artistiques et des organisations représentatives du monde de l'art contemporain ;
 

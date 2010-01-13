@@ -4,11 +4,11 @@ La Cité de la musique est administrée par un conseil d'administration qui comp
 
 1° Cinq représentants de l'Etat nommés par décret :
 
-a) Le directeur de la musique, de la danse, du théâtre et des spectacles au ministère chargé de la culture ou son représentant ;
+a) Le directeur général de la création artistique au ministère chargé de la culture ou son représentant ;
 
-b) Le directeur des musées de France au ministère chargé de la culture ou son représentant ;
+b) Le directeur général des patrimoines au ministère chargé de la culture ou son représentant ;
 
-c) Le directeur de l'administration générale au ministère chargé de la culture ou son représentant ;
+c) Le     secrétaire général au ministère chargé de la culture ou son représentant ;
 
 d) Le directeur du budget au ministère chargé du budget ou son représentant ;
 

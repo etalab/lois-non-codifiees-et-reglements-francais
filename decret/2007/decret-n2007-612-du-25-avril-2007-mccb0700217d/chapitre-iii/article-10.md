@@ -6,19 +6,19 @@ La section " classement des immeubles " comprend les membres suivants :
 
 a) Trois membres de droit :
 
-- le directeur de l'architecture et du patrimoine ;
+-le directeur général des patrimoines ;
 
-- le sous-directeur des monuments historiques et des espaces protégés à la direction de l'architecture et du patrimoine ;
+-le sous-directeur des monuments historiques et des espaces protégés à la direction générale des patrimoines ;
 
-- le sous-directeur de l'archéologie, de l'ethnologie, del'inventaire et du système d'information à la direction de l'architecture et du patrimoine ;
+-le sous-directeur de l'archéologie, de l'ethnologie, del'inventaire et du système d'information à la direction générale des patrimoines ;
 
 b) Dix membres nommés par arrêté du ministre chargé de la culture :
 
-- un membre du Conseil d'Etat nommé sur proposition du vice-président du Conseil d'Etat ;
+-un membre du Conseil d'Etat nommé sur proposition du vice-président du Conseil d'Etat ;
 
-- sept inspecteurs généraux de l'architecture et du patrimoine ou chargés de missions d'inspection générale de l'architecture et du patrimoine, dont au moins deux architectes ;
+-sept inspecteurs généraux de l'architecture et du patrimoine ou chargés de missions d'inspection générale de l'architecture et du patrimoine, dont au moins deux architectes ;
 
-- deux représentants des services déconcentrés du ministère chargé de la culture ;
+-deux représentants des services déconcentrés du ministère chargé de la culture ;
 
 2° Deux titulaires d'un mandat électif national ou local nommés par arrêté du ministre chargé de la culture ;
 

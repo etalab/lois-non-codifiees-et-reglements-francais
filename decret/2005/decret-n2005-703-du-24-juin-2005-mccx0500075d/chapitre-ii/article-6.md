@@ -6,7 +6,7 @@ Le domaine national de Chambord est administré par un conseil d'administration 
 
 a) Le directeur général des politiques agricole, agroalimentaire et des territoires au ministère chargé de l'agriculture ou son représentant ;
 
-b) Le directeur de l'architecture et du patrimoine au ministère chargé de la culture ou son représentant ;
+b) Le       directeur général des patrimoines au ministère chargé de la culture ou son représentant ;
 
 c) Le directeur chargé de la chasse au ministère chargé de l'environnement ou son représentant ;
 

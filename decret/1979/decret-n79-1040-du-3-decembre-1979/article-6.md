@@ -1,6 +1,6 @@
 # Article 6
 
-Les archives classées comme archives historiques sont inscrites sur une liste, établie par département, dont la rédaction, la tenue à jour et la conservation sont confiées à la direction des Archives de France.
+Les archives classées comme archives historiques sont inscrites sur une liste, établie par département, dont la rédaction, la tenue à jour et la conservation sont confiées à la    direction générale des patrimoines.
 
 Un exemplaire de cette liste est adressé aux ministres des affaires étrangères et de la défense et au préfet de chaque département.
 

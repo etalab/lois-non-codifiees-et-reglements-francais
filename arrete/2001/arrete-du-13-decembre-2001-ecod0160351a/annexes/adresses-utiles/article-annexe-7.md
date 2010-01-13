@@ -4,4 +4,4 @@ Direction générale des douanes et droits indirects (service des titres du comm
 
 01-55-07-46-59).
 
-Secrétariat général de la défense nationale (Agence nationale de la sécurité des systèmes d'information), 51, boulevard Latour-Maubourg, 75700 Paris 07 SP (télécopie : 01-41-46-37-01).
+secrétariat général de la défense et de la sécurité nationale (Agence nationale de la sécurité des systèmes d'information), 51, boulevard Latour-Maubourg, 75700 Paris 07 SP (télécopie : 01-41-46-37-01).

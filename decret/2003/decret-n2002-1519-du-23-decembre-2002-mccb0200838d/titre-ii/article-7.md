@@ -4,7 +4,7 @@ Le conseil d'administration de l'Ecole nationale supérieure d'art de Dijon comp
 
 1° Deux représentants de l'Etat :
 
-a) Le délégué aux arts plastiques au ministère chargé de la culture ou son représentant ;
+a) Le   directeur général de la création artistique au ministère chargé de la culture ou son représentant ;
 
 b) Le directeur régional des affaires culturelles dans la région Bourgogne ou son représentant ;
 

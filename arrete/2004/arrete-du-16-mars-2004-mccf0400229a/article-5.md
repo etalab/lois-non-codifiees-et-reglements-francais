@@ -6,7 +6,7 @@ La délégation permanente est composée :
 
 1° Du président de la commission des acquisitions ;
 
-2° Du directeur des musées de France ou de son représentant ;
+2° Du directeur général des patrimoines ou de son représentant ;
 
 3° D'un membre élu au sein de la commission parmi ceux mentionnés au 6° de l'article 2.
 

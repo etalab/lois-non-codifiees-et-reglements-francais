@@ -6,7 +6,7 @@ La commission comprend en outre quatre membres :
 
 1° Le directeur du budget ou son représentant ;
 
-2° Le directeur des musées de France ou son représentant ;
+2° Le    directeur général des patrimoines ou son représentant ;
 
 3° Une personnalité compétente dans le domaine de l'assurance désignée par arrêté du ministre chargé de l'économie ;
 
@@ -18,4 +18,4 @@ En cas de vacance de leur mandat pour quelque cause que ce soit, leur remplaçan
 
 Le président et les membres de la commission exercent leurs fonctions à titre gratuit ; toutefois, ils bénéficient du remboursement des frais de déplacement et de séjour dans les conditions fixées par le décret du 28 mai 1990 susvisé.
 
-La direction des musées de France assure le secrétariat de la commission.
+La direction générale des patrimoines assure le secrétariat de la commission.

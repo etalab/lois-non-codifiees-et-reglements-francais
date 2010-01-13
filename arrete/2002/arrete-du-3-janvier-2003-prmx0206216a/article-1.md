@@ -18,12 +18,12 @@ Le montant moyen annuel de l'indemnité forfaitaire d'activité prévue à l'art
 <p>Secrétaire général du Gouvernement (hors échelle G). </p>
 </td>
 <td rowspan="2" width="227">
-<p align="center">12 750 </p>
+<p align="center">12 750</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Secrétaire général de la défense nationale (hors échelle G).</p>
+<p>     secrétaire général de la défense et de la sécurité nationale (hors échelle G).</p>
 </td>
 </tr>
 </tbody>

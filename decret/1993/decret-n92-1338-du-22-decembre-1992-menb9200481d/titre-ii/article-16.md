@@ -1,6 +1,6 @@
 # Article 16
 
-Le conseil d'administration se réunit au moins trois fois par an à l'initiative de son président. Il est également convoqué par son président à la demande du directeur des musées de France ou à celle du quart au moins de ses membres.
+Le conseil d'administration se réunit au moins trois fois par an à l'initiative de son président. Il est également convoqué par son président à la demande du    directeur général des patrimoines ou à celle du quart au moins de ses membres.
 
 En cas d'absence ou d'empêchement du président, le conseil d'administration peut être convoqué par l'administrateur général de l'établissement. Le conseil d'administration élit alors en son sein un président de séance parmi les personnalités mentionnées au 4° de l'article 13.
 

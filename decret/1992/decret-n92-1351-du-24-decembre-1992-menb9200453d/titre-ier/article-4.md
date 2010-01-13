@@ -4,15 +4,13 @@ Le conseil d'administration comprend, outre son président :
 
 1° Six représentants de l'Etat :
 
-- le secrétaire général du ministère chargé de la culture ou son représentant ;
+-le secrétaire général du ministère chargé de la culture ou son représentant ;
 
--le directeur du livre et de la lecture ou son représentant ;
+-le      directeur général des médias et des industries culturelles ou son représentant ;
 
--le directeur de la musique, de la danse, du théâtre et des spectacles ou son représentant ;
+-le directeur général de la création artistique ou son représentant ;
 
--le directeur des musées de France ou son représentant ;
-
--le délégué aux arts plastiques ou son représentant ;
+-le directeur général des patrimoines ou son représentant ;
 
 -le directeur du budget ou son représentant ;
 
@@ -24,7 +22,7 @@ Le conseil d'administration comprend, outre son président :
 
 5° Trois représentants du personnel élus pour trois ans dans des conditions fixées par arrêté du ministre chargé de la culture ; pour chacun d'entre eux, un suppléant est élu dans les mêmes conditions.
 
-En cas de vacance définitive d'un siège prévu aux 2°,4° ou 5°, pour quelque cause que ce soit, plus de trois mois avant l'expiration du mandat, un autre membre est désigné dans les mêmes conditions pour la durée du mandat restant à courir.
+En cas de vacance définitive d'un siège prévu aux 2°, 4° ou 5°, pour quelque cause que ce soit, plus de trois mois avant l'expiration du mandat, un autre membre est désigné dans les mêmes conditions pour la durée du mandat restant à courir.
 
 Le directeur général de l'établissement, les directeurs de département et les dirigeants des organismes associés, le membre du corps du contrôle général économique et financier et l'agent comptable assistent avec voix consultative aux réunions du conseil d'administration.
 

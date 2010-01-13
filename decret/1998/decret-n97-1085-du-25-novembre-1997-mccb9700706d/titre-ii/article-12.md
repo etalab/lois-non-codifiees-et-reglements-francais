@@ -4,13 +4,13 @@ Le conseil d'administration comprend quinze membres :
 
 1° Quatre membres de droit :
 
-- le directeur des musées de France ou son représentant ;
+-le directeur général des patrimoines ou son représentant ;
 
-- le chef de l'inspection générale des musées ou son représentant ;
+-le chef de l'inspection générale des musées ou son représentant ;
 
-- le directeur de l'administration générale du ministère chargé de la culture ou son représentant ;
+-le     secrétaire général du ministère chargé de la culture ou son représentant ;
 
-- le président de l'Etablissement public du musée du Louvre ou son représentant ;
+-le président de l'Etablissement public du musée du Louvre ou son représentant ;
 
 2° Cinq personnalités choisies en raison de leur compétence désignées par arrêté du ministre chargé de la culture, dont une personnalité nommée sur proposition du ministre chargé de l'enseignement supérieur ;
 

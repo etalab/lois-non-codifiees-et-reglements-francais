@@ -8,4 +8,4 @@ En cas d'égalité de voix entre plusieurs listes, il sera procédé au tirage a
 
 Le bureau de vote se prononce sur les difficultés relatives aux opérations de vote. Ses décisions sont motivées.
 
-Le procès-verbal est affiché et transmis sans délai au directeur des musées de France du ministère chargé de la culture, au directeur général de l'enseignement scolaire du ministère chargé de l'éducation nationale, au directeur général de la recherche et de l'innovation du ministère chargé de la recherche et au directeur de la population et des migrations du ministère chargé de l'intégration.
+Le procès-verbal est affiché et transmis sans délai au    directeur général des patrimoines du ministère chargé de la culture, au directeur général de l'enseignement scolaire du ministère chargé de l'éducation nationale, au directeur général de la recherche et de l'innovation du ministère chargé de la recherche et au directeur de la population et des migrations du ministère chargé de l'intégration.

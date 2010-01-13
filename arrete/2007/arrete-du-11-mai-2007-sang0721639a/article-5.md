@@ -2,17 +2,17 @@
 
 L'unité de protection et de sécurité de défense traite pour le ou les ministères chargés des affaires sociales des questions relatives à :
 
-- la protection du patrimoine scientifique et technique ;
+-la protection du patrimoine scientifique et technique ;
 
-- la lutte contre la prolifération des armes de destruction massive ;
+-la lutte contre la prolifération des armes de destruction massive ;
 
-- la protection du secret de la défense nationale ;
+-la protection du secret de la défense nationale ;
 
-- la protection des biens et des personnes au sein du ou des ministères de son ressort ;
+-la protection des biens et des personnes au sein du ou des ministères de son ressort ;
 
-- la sécurité dans les secteurs d'importance vitale.
+-la sécurité dans les secteurs d'importance vitale.
 
-Elle relaie les directives transmises par le secrétariat général de la défense nationale relatives au renforcement de la sécurité dans les divers domaines lui incombant et contrôle leur application. Elle fait notamment procéder à la déclinaison ministérielle du plan gouvernemental de vigilance, de prévention et de protection face aux risques et menaces, autres que sanitaires.
+Elle relaie les directives transmises par le     secrétariat général de la défense et de la sécurité nationale relatives au renforcement de la sécurité dans les divers domaines lui incombant et contrôle leur application. Elle fait notamment procéder à la déclinaison ministérielle du plan gouvernemental de vigilance, de prévention et de protection face aux risques et menaces, autres que sanitaires.
 
 Elle est compétente pour tous les aspects relatifs à la protection du patrimoine scientifique et technique dans les échanges internationaux et, à ce titre, est saisie pour examen des demandes de stage et de visite d'étrangers dans les établissements et les laboratoires.
 

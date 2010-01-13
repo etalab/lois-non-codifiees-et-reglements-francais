@@ -6,11 +6,11 @@ Elle vérifie que le projet de formation proposé par l'établissement répond a
 
 Dans le cas d'un renouvellement d'habilitation, la commission dispose en outre d'une évaluation de la formation établie conjointement par :
 
-- un enseignant universitaire ;
+-un enseignant universitaire ;
 
-- une personnalité qualifiée, choisie en raison de ses compétences dans le domaine concerné ;
+-une personnalité qualifiée, choisie en raison de ses compétences dans le domaine concerné ;
 
-- un représentant de la direction de la musique, de la danse, du théâtre et des spectacles.
+-un représentant de la             direction générale de la création artistique.
 
 Elle peut émettre des recommandations, notamment sur les évolutions souhaitables de l'offre de formation, les objectifs et les contenus d'enseignement proposés.
 

@@ -1,6 +1,6 @@
 # Article 38
 
-Lorsqu'une place ou un poste est déclaré en état de guerre, les inondations et les occupations de terrains nécessaires à sa défense ne peuvent avoir lieu qu'en vertu d'un décret, ou, dans le cas d'urgence, des ordres du gouverneur ou du commandant de place, sur l'avis du conseil de défense, après avoir fait constater, autant que possible, l'état des lieux par des procès-verbaux des gardes du génie ou des autorités locales. Il y a urgence dès que les troupes ennemies se rapprochent à moins de trois journées de marche de la place ou du poste.
+Lorsqu'une place ou un poste est déclaré en état de guerre, les inondations et les occupations de terrains nécessaires à sa défense ne peuvent avoir lieu qu'en vertu d'un décret, ou, dans le cas d'urgence, des ordres du gouverneur ou du commandant de place, sur l'avis du  conseil de défense et de sécurité nationale, après avoir fait constater, autant que possible, l'état des lieux par des procès-verbaux des gardes du génie ou des autorités locales. Il y a urgence dès que les troupes ennemies se rapprochent à moins de trois journées de marche de la place ou du poste.
 
 L'indemnité pour les dommages causés par l'exécution de ces mesures de défense est réglée aussitôt que l'occupation a cessé.
 

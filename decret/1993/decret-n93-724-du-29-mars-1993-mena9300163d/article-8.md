@@ -2,7 +2,7 @@
 
 La permanence et la coordination des travaux du conseil national sont assurés par un bureau qui comprend :
 
-a) Le directeur de la musique, de la danse, du théâtre et des spectacles au ministère chargé de la culture, ou son représentant ;
+a) Le             directeur général de la création artistique au ministère chargé de la culture, ou son représentant ;
 
 b) Le directeur général du travail au ministère chargé du travail et de l'emploi, ou son représentant ;
 

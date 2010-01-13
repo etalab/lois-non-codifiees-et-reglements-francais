@@ -40,7 +40,7 @@ Le comité peut s'adjoindre, en tant que de besoin, les présidents des clubs d'
 
 En fonction de son ordre du jour, le comité peut inviter d'autres directeurs d'administration centrale, et notamment :
 
--le secrétaire général de la défense nationale ;
+-le     secrétaire général de la défense et de la sécurité nationale ;
 
 -le directeur de la prévision du ministère de l'économie, des finances et du budget ;
 

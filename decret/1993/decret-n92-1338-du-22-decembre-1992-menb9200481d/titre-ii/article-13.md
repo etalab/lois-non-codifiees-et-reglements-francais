@@ -6,11 +6,11 @@ Le conseil d'administration comprend dix-neuf membres :
 
 2° Quatre représentants de l'Etat :
 
-a) Le directeur des musées de France ou son représentant ;
+a) Le    directeur général des patrimoines ou son représentant ;
 
-b) Le directeur de l'architecture et du patrimoine ou son représentant ;
+b) Le directeur général des patrimoines ou son représentant ;
 
-c)      le secrétaire général du ministère chargé de la culture ou son représentant ;
+c) le secrétaire général du ministère chargé de la culture ou son représentant ;
 
 d) Le directeur du budget au ministère chargé du budget ou son représentant ;
 

@@ -6,7 +6,7 @@ Le jury chargé d'examiner les candidatures comprend :
 
 2° Le président du conseil d'administration de l'Académie de France à Rome ;
 
-3° Le délégué aux arts plastiques ou son représentant nommément désigné ;
+3° Le   directeur général de la création artistique ou son représentant nommément désigné ;
 
 4° Quatre personnalités qualifiées nommées chaque année par arrêté du ministre chargé de la culture, qui désigne l'une d'entre elles en qualité de vice-président du jury.
 

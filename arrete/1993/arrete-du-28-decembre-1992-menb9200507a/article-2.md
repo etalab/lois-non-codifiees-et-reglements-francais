@@ -4,6 +4,6 @@ L'inspection générale des Archives de France a pour mission d'inspecter, confo
 
 Elle assure la coordination et le suivi, en liaison avec le département des affaires internationales, de la politique internationale du ministère en matière d'archives, et peut être chargée de représenter la direction dans des instances ou des réunions aux niveaux national et international.
 
-Les inspecteurs généraux exercent leur mission dans les secteurs qui leur sont attribués annuellement par décision du directeur général des Archives de France, en liaison avec les services centraux de la direction des Archives de France.
+Les inspecteurs généraux exercent leur mission dans les secteurs qui leur sont attribués annuellement par décision du directeur général des patrimoines, en liaison avec les services centraux de la direction générale des patrimoines.
 
-Ils pourront en outre être chargés de missions ponctuelles par décision du directeur général des Archives de France.
+Ils pourront en outre être chargés de missions ponctuelles par décision du directeur général des patrimoines.

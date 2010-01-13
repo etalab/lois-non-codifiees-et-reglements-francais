@@ -5,3 +5,12 @@
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
 - [Annexe](annexe)
+- [Opérations au profit de populations de poissons
+
+menacées sur plans d'eau et cours d'eau](operations-au)
+- [Bilan annuel des opérations](bilan-annuel-des-operations)
+- [Modalités d'exécution des opérations de destruction](modalites-d-execution-des-operations-de-destruction)
+- [Possibilités complémentaires d'intervention](possibilites-complementaires-d-intervention)
+- [Prévention des dégâts sur les piscicultures extensives en étang
+
+et sur les eaux libres périphériques](prevention-des-degats-sur)

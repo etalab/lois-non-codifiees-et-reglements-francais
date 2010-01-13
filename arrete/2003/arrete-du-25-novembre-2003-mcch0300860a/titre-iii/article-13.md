@@ -1,6 +1,6 @@
 # Article 13
 
-Les directeurs régionaux des affaires culturelles des régions de la zone concernée ou leurs représentants ainsi que les membres du service de l'inspection et de l'évaluation de la direction de la musique, de la danse, du théâtre et des spectacles participent aux séances des commissions.
+Les directeurs régionaux des affaires culturelles des régions de la zone concernée ou leurs représentants ainsi que les membres du service de l'inspection et de l'évaluation de la             direction générale de la création artistique participent aux séances des commissions.
 
 Des représentants de l'Office national de diffusion artistique et de l'Association française d'action artistique peuvent, à leur demande, participer à ces réunions.
 

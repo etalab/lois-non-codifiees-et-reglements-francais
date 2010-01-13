@@ -20,6 +20,6 @@ a) Le directeur général de la concurrence, de la consommation et de la répres
 
 b) Le contrôleur financier du ministère chargé de la culture ou son représentant ;
 
-c) Le chef du bureau de la comptabilité à la direction de l'administration générale du ministère chargé de la culture ou son représentant ;
+c) Le chef du bureau de la comptabilité au secrétariat général du ministère chargé de la culture ou son représentant ;
 
 d) Toute personne désignée par le président de la commission en raison de sa compétence dans la matière faisant l'objet de la consultation.

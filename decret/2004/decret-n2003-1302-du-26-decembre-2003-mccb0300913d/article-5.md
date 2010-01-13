@@ -2,7 +2,7 @@
 
 Le conseil artistique des musées nationaux comprend vingt-trois membres, dont le président nommé par arrêté du ministre chargé de la culture parmi les personnalités mentionnées au 4° du présent article :
 
-1° Le directeur des musées de France, vice-président ;
+1° Le    directeur général des patrimoines, vice-président ;
 
 2° Cinq conservateurs généraux du patrimoine en exercice ou honoraires, dont deux responsables d'un musée national ;
 

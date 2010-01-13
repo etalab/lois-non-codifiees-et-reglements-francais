@@ -6,4 +6,4 @@ Ces services conservent, trient, classent, inventorient et communiquent les docu
 
 a) Du ministère de la défense et des forces, services, établissements et organismes des armées ainsi que des services, établissements et organismes rattachés à ce ministère ;
 
-b) Du secrétariat général de la défense nationale.
+b) Du     secrétariat général de la défense et de la sécurité nationale.

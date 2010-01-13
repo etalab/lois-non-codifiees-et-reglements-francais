@@ -1,6 +1,6 @@
 # Article 3
 
-La demande d'agrément à titre provisoire doit parvenir au ministère chargé de la culture (direction de la musique, de la danse, du théâtre et des spectacles)            au début des opérations de production ou de développement par une entreprise de production phonographique mentionnée au I de l'article 220 octies du code général des impôts.
+La demande d'agrément à titre provisoire doit parvenir au ministère chargé de la culture (direction générale de la création artistique) au début des opérations de production ou de développement par une entreprise de production phonographique mentionnée au I de l'article 220 octies du code général des impôts.
 
 En cas de coproduction, la demande est présentée par chaque entreprise de production.
 

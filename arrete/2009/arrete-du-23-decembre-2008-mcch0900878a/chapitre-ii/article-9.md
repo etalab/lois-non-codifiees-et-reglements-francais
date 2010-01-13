@@ -1,6 +1,6 @@
 # Article 9
 
-Le jury de l'épreuve d'aptitude est présidé par le directeur de la musique, de la danse, du théâtre et des spectacles ou son représentant. Les membres du jury sont nommés pour chaque session par arrêté du ministre chargé de la culture. Le jury est composé comme suit :
+Le jury de l'épreuve d'aptitude est présidé par le             directeur général de la création artistique ou son représentant. Les membres du jury sont nommés pour chaque session par arrêté du ministre chargé de la culture. Le jury est composé comme suit :
 
 1° Un enseignant titulaire du certificat d'aptitude aux fonctions de professeur de danse ou du diplôme d'Etat de professeur de danse, pour chaque option demandée par l'intéressé ;
 

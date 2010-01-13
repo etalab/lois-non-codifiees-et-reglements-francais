@@ -2,11 +2,11 @@
 
 Cette commission est composée comme suit :
 
-1° Trois représentants de la délégation aux arts plastiques :
+1° Trois représentants de la direction générale de la création artistique :
 
-- le délégué aux arts plastiques, président du Centre national des arts plastiques, président de la commission, ou son représentant ;
+-le directeur général de la création artistique, président du Centre national des arts plastiques, président de la commission, ou son représentant ;
 
-- deux inspecteurs de la création artistique ;
+-deux inspecteurs de la création artistique ;
 
 2° Un représentant d'établissement d'enseignement artistique désigné par le ministre chargé de la culture ;
 

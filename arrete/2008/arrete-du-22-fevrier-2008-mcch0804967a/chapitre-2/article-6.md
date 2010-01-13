@@ -1,6 +1,6 @@
 # Article 6
 
-Le directeur de la musique, de la danse, du théâtre et des spectacles ou son représentant, président, convoque la Commission nationale d'habilitation et arrête l'ordre du jour des séances.
+Le directeur général de la création artistique ou son représentant, président, convoque la Commission nationale d'habilitation et arrête l'ordre du jour des séances.
 
 La commission ne délibère valablement que si la moitié au moins de ses membres sont présents ou représentés. Si le quorum n'est pas atteint, la commission est à nouveau convoquée avec le même ordre du jour dans un délai de quinze jours. Elle délibère alors sans condition de quorum.
 
@@ -10,4 +10,4 @@ Les délibérations sont adoptées à la majorité des membres présents ou repr
 
 En cas de partage égal de voix, celle du président est prépondérante.
 
-Le secrétariat de la commission est assuré par la direction de la musique, de la danse, du théâtre et des spectacles.
+Le secrétariat de la commission est assuré par la direction générale de la création artistique.

@@ -8,7 +8,7 @@ b) Le directeur général de la forêt et des affaires rurales ;
 
 c) Le directeur général de l'urbanisme, de l'habitat et de la construction ;
 
-d) Le directeur de l'architecture et du patrimoine ;
+d) Le       directeur général des patrimoines ;
 
 e) Le directeur des affaires civiles et du sceau ;
 

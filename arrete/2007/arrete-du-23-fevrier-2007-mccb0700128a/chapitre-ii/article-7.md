@@ -34,6 +34,6 @@ d) Notation du mouvement ;
 
 e) Notation Feuillet et danse baroque.
 
-Il peut également proposer un module hors liste à condition d'avoir reçu l'accord préalable de la direction de la musique, de la danse, du théâtre et des spectacles.
+Il peut également proposer un module hors liste à condition d'avoir reçu l'accord préalable de la             direction générale de la création artistique.
 
 Le contenu des modules facultatifs est défini à l'annexe 6.

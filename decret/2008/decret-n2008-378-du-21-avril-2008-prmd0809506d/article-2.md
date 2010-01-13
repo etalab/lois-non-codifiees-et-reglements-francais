@@ -22,6 +22,6 @@ Le ministre chargé du budget ;
 
 Le chef d'état-major des armées ;
 
-Le secrétaire général de la défense nationale ;
+Le     secrétaire général de la défense et de la sécurité nationale ;
 
 L'administrateur général du Commissariat à l'énergie atomique.

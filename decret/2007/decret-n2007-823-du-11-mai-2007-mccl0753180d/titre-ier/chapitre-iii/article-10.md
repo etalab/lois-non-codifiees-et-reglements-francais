@@ -4,7 +4,7 @@ Le Conseil national de la recherche archéologique comprend une commission des o
 
 Elle comprend en outre :
 
-1° Le directeur de l'architecture et du patrimoine au ministère chargé de la culture ;
+1° Le       directeur général des patrimoines au ministère chargé de la culture ;
 
 2° Deux membres choisis parmi les personnalités qualifiées mentionnées au 2° de l'article 4 et deux personnalités qualifiées choisies en raison de leurs compétences en matière d'archéologie sous-marine, désignés par le ministre chargé de la culture ;
 

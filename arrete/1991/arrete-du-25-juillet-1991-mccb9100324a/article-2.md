@@ -20,4 +20,4 @@ Il comprend, en outre :
 
 -six conservateurs de musées classés et contrôlés possédant des collections d'oeuvres ou d'objets du XXe siècle ;
 
--six personnalités qualifiées dont trois sur proposition du directeur des musées de France et trois sur proposition du délégué aux arts plastiques.
+-six personnalités qualifiées dont trois sur proposition du directeur général des patrimoines et trois sur proposition du directeur général de la création artistique.

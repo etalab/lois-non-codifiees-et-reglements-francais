@@ -4,15 +4,15 @@ Le conseil comprend :
 
 a) Des membres de droit :
 
-- le directeur général de l'Institut national de la statistique et des études économiques (INSEE) ou son représentant ;
+-le directeur général de l'Institut national de la statistique et des études économiques (INSEE) ou son représentant ;
 
-- le secrétaire général du ministère chargé de la culture ou son représentant ;
+-le secrétaire général du ministère chargé de la culture ou son représentant ;
 
-- les directeurs et délégués du ministère chargé de la culture ou leurs représentants ;
+-les directeurs et délégués du ministère chargé de la culture ou leurs représentants ;
 
-- le chef du département des études, de la prospective et des statistiques de la délégation au développement et aux affaires internationales du ministère chargé de la culture ou son représentant ;
+-le chef du département des études, de la prospective et des statistiques du secrétariat général du ministère chargé de la culture ou son représentant ;
 
-- le chef de la mission de la recherche et de la technologie de la délégation au développement et aux affaires internationales du ministère chargé de la culture ou son représentant ;
+-le chef de la mission de la recherche et de la technologie du secrétariat général du ministère chargé de la culture ou son représentant ;
 
 b) Un directeur régional des affaires culturelles ou son représentant ;
 

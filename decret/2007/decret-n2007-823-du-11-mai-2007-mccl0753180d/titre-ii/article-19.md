@@ -6,7 +6,7 @@ a) Un directeur de recherche, un chargé de recherche ou un ingénieur du Centre
 
 b) Un professeur, un maître de conférences des universités, ou un membre des personnels qui leur sont assimilés, après avis des sections compétentes du Conseil national des universités ;
 
-c) Un conservateur général du patrimoine, un conservateur du patrimoine, un ingénieur de recherche, un ingénieur d'étude ou un assistant ingénieur compétent en matière d'archéologie et affecté dans une direction régionale des affaires culturelles, à la direction de l'architecture et du patrimoine ou dans un service à compétence nationale en relevant ;
+c) Un conservateur général du patrimoine, un conservateur du patrimoine, un ingénieur de recherche, un ingénieur d'étude ou un assistant ingénieur compétent en matière d'archéologie et affecté dans une direction régionale des affaires culturelles, à la       direction générale des patrimoines ou dans un service à compétence nationale en relevant ;
 
 d) Un agent d'une collectivité territoriale compétent en matière d'archéologie ;
 

@@ -1,10 +1,10 @@
 # Article 12
 
-La Commission nationale d'évaluation mentionnée aux articles 10 et 11 est présidée par le directeur des musées de France. Elle comprend en outre :
+La Commission nationale d'évaluation mentionnée aux articles 10 et 11 est présidée par le directeur général des patrimoines. Elle comprend en outre :
 
 1° Deux représentants de l'Etat :
 
-a) Le directeur de l'administration générale au ministère chargé de la culture ou son représentant ;
+a) Le     secrétaire général au ministère chargé de la culture ou son représentant ;
 
 b) Le directeur général des collectivités locales au ministère de l'intérieur ou son représentant ;
 

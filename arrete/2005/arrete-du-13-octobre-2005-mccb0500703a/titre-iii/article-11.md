@@ -1,6 +1,6 @@
 # Article 11
 
-Les membres compétents du service de l'inspection et de l'évaluation de la direction de la musique, de la danse, du théâtre et des spectacles participent aux séances des commissions.
+Les membres compétents du service de l'inspection et de l'évaluation de la             direction générale de la création artistique participent aux séances des commissions.
 
 Des représentants de l'Office national de diffusion artistique et de l'Association française d'action artistique et des associations régionales ou départementales de développement de la musique et de la danse peuvent, à leur demande, participer à ces réunions.
 

@@ -1,6 +1,6 @@
 # Article 7
 
-Le remplacement des représentants de la Direction des Journaux officiels, titulaires et suppléants, venant à cesser leurs fonctions au cours de la période de trois années susvisée s'effectue dans les conditions définies aux articles 3 et 6 ci-dessus.
+Le remplacement des représentants de la direction de l'information légale et administrative, titulaires et suppléants, venant à cesser leurs fonctions au cours de la période de trois années susvisée s'effectue dans les conditions définies aux articles 3 et 6 ci-dessus.
 
 Le remplacement des représentants du personnel se trouvant dans l'impossibilité d'exercer leurs fonctions s'effectue dans les conditions ci-après :
 

@@ -4,9 +4,9 @@ Le musée est administré par un conseil d'administration qui comprend :
 
 1° Quatre membres de droit :
 
-a) Le directeur des musées de France au ministère chargé de la culture ou son représentant ;
+a) Le directeur général des patrimoines au ministère chargé de la culture ou son représentant ;
 
-b) Le directeur de l'administration générale au ministère chargé de la culture ou son représentant ;
+b) Le     secrétaire général au ministère chargé de la culture ou son représentant ;
 
 c) Le chef du grand département des sculptures du Moyen Age, de la Renaissance et des Temps modernes ou son représentant ;
 

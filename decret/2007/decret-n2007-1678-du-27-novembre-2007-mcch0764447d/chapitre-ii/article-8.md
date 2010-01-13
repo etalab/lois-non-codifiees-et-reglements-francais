@@ -1,6 +1,6 @@
 # Article 8
 
-La commission nationale d'habilitation est présidée par le directeur de la musique, de la danse, du théâtre et des spectacles au ministère chargé de la culture ou par son représentant.
+La commission nationale d'habilitation est présidée par le             directeur général de la création artistique au ministère chargé de la culture ou par son représentant.
 
 Elle comprend :
 

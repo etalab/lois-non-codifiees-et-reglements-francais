@@ -4,7 +4,7 @@ L'établissement public est administré par un conseil d'administration qui comp
 
 1° Cinq représentants de l'Etat, nommés par décret dans les conditions définies à l'article 5 du décret n° 94-582 du 12 juillet 1994 relatif aux conseils et aux dirigeants des établissements publics et entreprises du secteur public :
 
-a) Le directeur de la musique, de la danse, du théâtre et des spectacles au ministère chargé de la culture ou son représentant ;
+a) Le directeur général de la création artistique au ministère chargé de la culture ou son représentant ;
 
 b) Le directeur de l'administration générale au ministère chargé de la culture ou son représentant ;
 

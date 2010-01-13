@@ -1,6 +1,6 @@
 # Article 3
 
-Le conseil étudie les questions qui lui sont soumises par le directeur des musées de France quant au patrimoine muséographique du XXe siècle. Il formule toutes propositions et recommandations concernant notamment :
+Le conseil étudie les questions qui lui sont soumises par le    directeur général des patrimoines quant au patrimoine muséographique du XXe siècle. Il formule toutes propositions et recommandations concernant notamment :
 
 -la conservation et la restauration des oeuvres ;
 

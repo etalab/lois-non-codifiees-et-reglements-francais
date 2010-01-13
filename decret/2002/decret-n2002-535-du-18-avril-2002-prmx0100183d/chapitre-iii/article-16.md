@@ -1,6 +1,6 @@
 # Article 16
 
-Le comité directeur de la certification en sécurité des technologies de l'information est présidé par le secrétaire général de la défense nationale ou son représentant. Outre son président, il comprend :
+Le comité directeur de la certification en sécurité des technologies de l'information est présidé par le     secrétaire général de la défense et de la sécurité nationale ou son représentant. Outre son président, il comprend :
 
 a) Un représentant du ministre de la justice ;
 

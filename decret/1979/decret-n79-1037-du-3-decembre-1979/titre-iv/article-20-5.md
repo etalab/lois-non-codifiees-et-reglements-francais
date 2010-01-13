@@ -4,7 +4,7 @@ Toute personne physique ou morale souhaitant assurer la conservation d'archives 
 
 1° Exercer son activité en conformité avec les normes relatives aux prestations en archivage et gestion externalisée de documents sur support papier ainsi que celles relatives à l'archivage électronique, déterminées par arrêté du ministre chargé de la culture ;
 
-2° Conserver sur le territoire national les archives qui lui sont confiées, dans des locaux conformes aux prescriptions de la direction des Archives de France ;
+2° Conserver sur le territoire national les archives qui lui sont confiées, dans des locaux conformes aux prescriptions de la    direction générale des patrimoines ;
 
 3° Recourir à des professionnels qualifiés en matière de sécurité et de conservation matérielle des archives ;
 

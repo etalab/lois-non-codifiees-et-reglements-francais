@@ -4,7 +4,7 @@ La commission est composée de :
 
 Six représentants de l'administration :
 
-Le délégué aux arts plastiques ou son représentant ;
+Le   directeur général de la création artistique ou son représentant ;
 
 Le directeur du Centre national des arts plastiques ou son représentant ;
 

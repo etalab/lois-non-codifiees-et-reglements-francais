@@ -1,6 +1,6 @@
 # Article 5
 
-Sont définies par accord entre le Conseil constitutionnel et la direction des Archives de France :
+Sont définies par accord entre le Conseil constitutionnel et la    direction générale des patrimoines :
 
 1° La durée de conservation comme archives intermédiaires ;
 

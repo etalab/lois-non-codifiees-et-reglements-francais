@@ -6,7 +6,7 @@ a) Le préfet de police ou son représentant ;
 
 b) Le directeur général de l'urbanisme, de l'habitat et de la construction ou son représentant ;
 
-c) Le directeur de l'architecture et du patrimoine ou son représentant ;
+c) Le       directeur général des patrimoines ou son représentant ;
 
 d) Le commandant de la légion de gendarmerie mobile d'Ile-de-France ou son représentant ;
 

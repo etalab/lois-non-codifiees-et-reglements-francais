@@ -14,4 +14,4 @@ Le mandat des membres visés au 3° et au 4° n'est renouvelable qu'une fois.
 
 Un représentant du Conseil supérieur de l'audiovisuel assiste avec voix consultative aux réunions de la commission.
 
-La direction du développement des médias assure le secrétariat de la commission.
+La    direction générale des médias et des industries culturelles assure le secrétariat de la commission.

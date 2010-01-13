@@ -1,6 +1,6 @@
 # Article 5
 
-La commission de synthèse et de prospective en radiocommunications est composée [*composition*] :
+La commission de synthèse et de prospective en radiocommunications est composée :
 
 a) De représentants des départements ministériels chargés de :
 
@@ -30,6 +30,6 @@ b) D'un représentant de la Commission nationale de la communication et des libe
 
 c) Des présidents des autres commissions placées auprès du comité de coordination des télécommunications.
 
-Le secrétariat général de la défense nationale est tenu informé des travaux de la commission et y participe en tant que de besoin.
+Le secrétariat général de la défense et de la sécurité nationale est tenu informé des travaux de la commission et y participe en tant que de besoin.
 
 La commission peut inviter à ses séances toute personne qu'elle juge utile d'entendre.

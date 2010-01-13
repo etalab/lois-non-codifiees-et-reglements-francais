@@ -4,9 +4,9 @@ Le conseil d'administration comprend, outre le président :
 
 1° Sept représentants de l'Etat :
 
-a) Le directeur de l'administration générale au ministère chargé de la culture ou son représentant ;
+a) Le     secrétaire général au ministère chargé de la culture ou son représentant ;
 
-b) Le directeur de l'architecture et du patrimoine ou son représentant ;
+b) Le directeur général des patrimoines ou son représentant ;
 
 c) Le directeur de la recherche au ministère chargé de la recherche ou son représentant ;
 

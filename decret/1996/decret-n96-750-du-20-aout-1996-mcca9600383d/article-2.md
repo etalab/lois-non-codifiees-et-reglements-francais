@@ -6,15 +6,13 @@ La commission de récolement des dépôts d'oeuvres d'art est composée ainsi qu
 
 2° Dix représentants du ministère de la culture :
 
--le chef du service de          l'inspection générale des affaires culturelles  ou son représentant ;
+-le chef du service de l'inspection générale des affaires culturelles ou son représentant ;
 
 -le secrétaire général du ministère de la culture ou son représentant ;
 
--le directeur des musées de France ou son représentant ;
+-le directeur général des patrimoines ou son représentant ;
 
--le directeur de l'architecture et du patrimoine ou son représentant ;
-
--le délégué aux arts plastiques ou son représentant ;
+-le directeur général de la création artistique ou son représentant ;
 
 -l'administrateur général du Mobilier national ou son représentant ;
 

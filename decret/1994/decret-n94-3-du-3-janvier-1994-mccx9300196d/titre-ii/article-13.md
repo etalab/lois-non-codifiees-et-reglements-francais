@@ -20,4 +20,4 @@ le chef de la mission scientifique et technique au ministère chargé de l'ensei
 
 En cas de vacance définitive d'un siège, pour quelque cause que ce soit, un autre membre est désigné dans les mêmes conditions pour la durée du mandat restant à courir.
 
-Le président de l'établissement, le directeur général, le directeur du livre et de la lecture ou son représentant et le directeur chargé des bibliothèques universitaires au ministère chargé de l'enseignement supérieur ou son représentant assistent aux séances avec voix consultative.
+Le président de l'établissement, le directeur général, le      directeur général des médias et des industries culturelles ou son représentant et le directeur chargé des bibliothèques universitaires au ministère chargé de l'enseignement supérieur ou son représentant assistent aux séances avec voix consultative.

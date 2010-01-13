@@ -4,7 +4,7 @@ Outre son président, le conseil d'administration de l'établissement comprend t
 
 1° Deux représentants de l'Etat :
 
-a) Le directeur des musées de France ou son représentant ;
+a) Le    directeur général des patrimoines ou son représentant ;
 
 b) Le directeur de l'administration générale du ministère chargé de la culture ou son représentant ;
 

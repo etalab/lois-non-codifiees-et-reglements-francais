@@ -6,9 +6,9 @@ Elle comprend, outre ses coprésidents :
 
 1° Des membres de droit :
 
-a) Le directeur de l'architecture et du patrimoine au ministère chargé de la culture ou son représentant ;
+a) Le       directeur général des patrimoines au ministère chargé de la culture ou son représentant ;
 
-b) Le délégué aux arts plastiques au ministère chargé de la culture ou son représentant ;
+b) Le directeur général de la création artistique au ministère chargé de la culture ou son représentant ;
 
 c) Le cas échéant, le maître de l'ouvrage ou son représentant ;
 
@@ -24,4 +24,4 @@ b) Deux personnalités qualifiées dans le domaine des arts plastiques, dont une
 
 La commission artistique nationale émet un avis sur les projets proposés par les comités artistiques dans les cas prévus à l'article 9.
 
-La délégation aux arts plastiques assure le secrétariat de la commission.
+La direction générale de la création artistique assure le secrétariat de la commission.

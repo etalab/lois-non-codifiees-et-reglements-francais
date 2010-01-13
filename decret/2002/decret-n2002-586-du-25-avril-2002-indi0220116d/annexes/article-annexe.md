@@ -152,7 +152,7 @@ Les candidats constituent un dossier décrivant les principales caractéristique
 
 4. 2. Attribution du label
 
-Le label " école de l'internet " est attribué par une commission de labélisation, comportant notamment des représentants des administrations chargées respectivement de l'éducation nationale, de la recherche, de l'aménagement du territoire, de la culture et de la communication, de la défense, de la réforme de l'Etat, de l'industrie et des technologies de l'information, un représentant du secrétaire général de la défense nationale, des représentants de collectivités locales, des représentants de l'Institut Télécom et du réseau " école de l'internet ", ainsi que des représentants du monde professionnel. Elle peut s'adjoindre en tant que de besoin un nombre défini d'experts ad hoc.
+Le label " école de l'internet " est attribué par une commission de labélisation, comportant notamment des représentants des administrations chargées respectivement de l'éducation nationale, de la recherche, de l'aménagement du territoire, de la culture et de la communication, de la défense, de la réforme de l'Etat, de l'industrie et des technologies de l'information, un représentant du     secrétaire général de la défense et de la sécurité nationale, des représentants de collectivités locales, des représentants de l'Institut Télécom et du réseau " école de l'internet ", ainsi que des représentants du monde professionnel. Elle peut s'adjoindre en tant que de besoin un nombre défini d'experts ad hoc.
 
 Les dossiers examinés par la commission de labélisation sont instruits, proposés et rapportés :
 

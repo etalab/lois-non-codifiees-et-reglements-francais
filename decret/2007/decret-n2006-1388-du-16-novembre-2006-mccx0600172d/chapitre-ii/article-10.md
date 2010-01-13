@@ -6,9 +6,9 @@ L'établissement est administré par un conseil d'administration qui comprend vi
 
 -le directeur du budget au ministère chargé du budget ou son représentant ;
 
--le directeur des musées de France au ministère chargé de la culture ou son représentant ;
+-le directeur général des patrimoines au ministère chargé de la culture ou son représentant ;
 
--le délégué au développement et aux affaires internationales au ministère chargé de la culture ou son représentant ;
+-le      secrétaire général au ministère chargé de la culture ou son représentant ;
 
 -le directeur général de l'enseignement scolaire au ministère chargé de l'éducation nationale ou son représentant ;
 
@@ -18,7 +18,7 @@ L'établissement est administré par un conseil d'administration qui comprend vi
 
 -le directeur général de la recherche et de l'innovation au ministère chargé de la recherche ou son représentant ;
 
--le         secrétaire général du comité interministériel des villes ou son représentant ;
+-le secrétaire général du comité interministériel des villes ou son représentant ;
 
 -le directeur général de l'Agence nationale pour la cohésion sociale et l'égalité des chances ou son représentant ;
 

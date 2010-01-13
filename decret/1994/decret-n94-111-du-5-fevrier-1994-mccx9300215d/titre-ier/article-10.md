@@ -10,4 +10,4 @@ Il peut prendre, avec l'accord du membre du corps du contrôle général économ
 
 Il représente l'établissement en justice et, sous réserve des compétences dévolues au directeur, en application de l'article 11, dans les actes de la vie civile. Il peut déléguer sa signature au directeur pour toutes les décisions, à l'exception de celles qui sont prises en application du deuxième alinéa du présent article.
 
-En cas d'absence ou d'empêchement de son président, le directeur de la musique, de la danse, du théâtre et des spectacles convoque le conseil d'administration et le préside.
+En cas d'absence ou d'empêchement de son président, le             directeur général de la création artistique convoque le conseil d'administration et le préside.

@@ -24,7 +24,7 @@ Sont en outre membres, en qualité de personnes qualifiées :
 
 ― le directeur général de l'Institut de radioprotection et de sûreté nucléaire ou son représentant.
 
-Assistent en outre aux réunions du comité : le secrétaire général de la défense nationale, les hauts fonctionnaires de défense et de sécurité des ministères chargés de l'industrie et de l'énergie, le haut-commissaire à l'énergie atomique et le chef de la mission de contrôle auprès du Commissariat à l'énergie atomique ou leurs représentants.
+Assistent en outre aux réunions du comité : le     secrétaire général de la défense et de la sécurité nationale, les hauts fonctionnaires de défense et de sécurité des ministères chargés de l'industrie et de l'énergie, le haut-commissaire à l'énergie atomique et le chef de la mission de contrôle auprès du Commissariat à l'énergie atomique ou leurs représentants.
 
 Le président de l'Autorité de sûreté nucléaire ou son représentant a accès, lorsqu'il l'estime utile à l'exercice de ses missions, aux réunions du comité d'orientation. Le comité peut demander à entendre le président de l'Autorité de sûreté nucléaire ou son représentant.
 

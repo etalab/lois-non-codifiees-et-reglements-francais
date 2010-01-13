@@ -16,7 +16,7 @@ e) Le directeur des libertés publiques et des affaires juridiques au ministère
 
 f) Le directeur général de la gendarmerie nationale ;
 
-g) Le secrétaire général de la défense nationale ;
+g) Le     secrétaire général de la défense et de la sécurité nationale ;
 
 h) Le secrétaire général du ministère de l'économie, des finances et de l'industrie ;
 

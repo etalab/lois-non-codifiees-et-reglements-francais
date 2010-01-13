@@ -944,7 +944,7 @@ La nouvelle bonification indiciaire prévue à l'article 1er du décret du 14 oc
 </tr>
 <tr>
 <td valign="top">
-<p align="center">5. Direction du développement des médias </p>
+<p align="center">5. Direction générale des médias et des industries culturelles </p>
 </td>
 <td>
 <br/>

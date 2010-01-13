@@ -4,11 +4,11 @@ Le conseil d'administration comprend, outre le président de l'établissement, d
 
 1° Cinq représentants de l'Etat :
 
--le directeur des musées de France ou son représentant ;
+-le    directeur général des patrimoines ou son représentant ;
 
 -le directeur du patrimoine ou son représentant ;
 
--      le secrétaire général du ministère chargé de la culture ou son représentant ;
+-le secrétaire général du ministère chargé de la culture ou son représentant ;
 
 -le directeur du budget ou son représentant ;
 

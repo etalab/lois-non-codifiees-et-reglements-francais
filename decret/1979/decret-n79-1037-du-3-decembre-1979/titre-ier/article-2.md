@@ -10,7 +10,7 @@ II.-Le contrôle scientifique et technique porte sur les conditions de gestion, 
 
 III.-Il est exercé sur pièces ou sur place par :
 
-1° Les services de la direction des Archives de France dans leur champ de compétences ;
+1° Les services de la    direction générale des patrimoines dans leur champ de compétences ;
 
 2° Les inspecteurs généraux des Archives de France pour l'ensemble des services et organismes ;
 

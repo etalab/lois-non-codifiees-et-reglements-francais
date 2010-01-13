@@ -8,4 +8,4 @@ En cas d'égalité de voix entre plusieurs listes, il sera procédé au tirage a
 
 Le bureau de vote se prononce sur les difficultés relatives aux opérations de vote. Ses décisions sont motivées.
 
-Le procès-verbal est transmis sans délai au directeur de l'administration générale, au directeur des musées de France et au directeur du patrimoine.
+Le procès-verbal est transmis sans délai au directeur de l'administration générale, au    directeur général des patrimoines et au directeur du patrimoine.

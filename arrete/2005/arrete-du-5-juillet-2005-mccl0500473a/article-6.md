@@ -8,4 +8,4 @@ Le président peut inviter aux séances du conseil toute personne dont l'auditio
 
 Le conseil émet ses avis à la majorité des membres présents. En cas de partage égal des voix, celle du président est prépondérante.
 
-Le secrétariat du conseil est assuré par le sous-directeur de l'architecture et du cadre de vie à la direction de l'architecture et du patrimoine.
+Le secrétariat du conseil est assuré par le sous-directeur de l'architecture et du cadre de vie à la       direction générale des patrimoines.

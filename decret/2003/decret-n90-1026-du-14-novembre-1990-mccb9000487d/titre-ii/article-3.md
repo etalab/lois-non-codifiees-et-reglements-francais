@@ -6,9 +6,9 @@ La Réunion des musées nationaux est administrée par un conseil d'administrati
 
 a) Un membre du Conseil d'Etat, un magistrat de la Cour des comptes et un membre de l'inspection générale des finances désignés par le ministre chargé de la culture sur proposition faite respectivement par le vice-président du Conseil d'Etat, le premier président de la Cour des comptes et le ministre chargé des finances ;
 
-b) Le directeur des musées de France ou son représentant ;
+b) Le    directeur général des patrimoines ou son représentant ;
 
-c)       le secrétaire général du ministère chargé de la culture ou son représentant ;
+c) le secrétaire général du ministère chargé de la culture ou son représentant ;
 
 d) Le directeur du budget ou son représentant ;
 

@@ -1,6 +1,6 @@
 # Article 2
 
-Lorsqu'elle est consultée par le ministre sur les moyens propres à améliorer les conditions d'entretien ainsi que de présentation au public des animaux d'espèces non domestiques tenus en captivité, la commission se réunit en une formation dite " formation d'étude de la faune sauvage captive " présidée par le      directeur général de l'aménagement, du logement et de la nature ou son représentant et comprenant en outre :
+Lorsqu'elle est consultée par le ministre sur les moyens propres à améliorer les conditions d'entretien ainsi que de présentation au public des animaux d'espèces non domestiques tenus en captivité, la commission se réunit en une formation dite " formation d'étude de la faune sauvage captive " présidée par le directeur général de l'aménagement, du logement et de la nature ou son représentant et comprenant en outre :
 
 a) S'agissant des représentants des ministères intéressés :
 
@@ -16,7 +16,7 @@ a) S'agissant des représentants des ministères intéressés :
 
 -au ministère chargé de l'intérieur : le directeur de la sécurité civile ou son représentant ;
 
--au ministère chargé de la culture : le directeur de la musique, de la danse, du théâtre et des spectacles ou son représentant ;
+-au ministère chargé de la culture : le             directeur général de la création artistique ou son représentant ;
 
 b) Neuf responsables d'établissements détenant des animaux d'espèces non domestiques ;
 

@@ -6,9 +6,9 @@ La composition des collèges est établie comme suit :
 
 1. Collège des représentants de l'Etat, onze membres :
 
--le secrétaire général de la défense nationale, ou son représentant ;
+-le     secrétaire général de la défense et de la sécurité nationale, ou son représentant ;
 
--le        directeur de la sécurité civile, ou son représentant ;
+-le directeur de la sécurité civile, ou son représentant ;
 
 -le directeur de la prévention des pollutions et des risques, délégué aux risques majeurs, ou son représentant ;
 

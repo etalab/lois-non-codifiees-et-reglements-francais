@@ -150,7 +150,7 @@ Arrêté du 13 octobre 2005 relatif à la procédure d'aide aux ensembles de mus
 <br/>
 </td>
 <td align="center">
-Arrêté du 2 mars 1998 instituant une commission consultative d'aide à la première exposition auprès du délégué aux arts plastiques. <br/>
+Arrêté du 2 mars 1998 instituant une commission consultative d'aide à la première exposition auprès du   directeur général de la création artistique. <br/>
 </td>
 </tr>
 <tr>
@@ -343,8 +343,7 @@ Arrêté du 6 juillet 1992 relatif aux mesures d'aide en faveur de la production
 <td align="center">
 <br/>
 </td>
-<td align="center">
-Décret n° 98-750 du 24 août 1998 relatif au soutien financier à la diffusion de certaines œuvres cinématographiques en salles de spectacles cinématographiques et au soutien financier à la modernisation et à la création des établissements de spectacles cinématographiques. <br/>
+<td align="center">Décret n° 98-750 du 24 août 1998 relatif au soutien financier à la diffusion de certaines œuvres cinématographiques en salles de spectacles cinématographiques et au soutien financier à la modernisation et à la création des établissements de spectacles cinématographiques. <br/>
 </td>
 </tr>
 <tr>
@@ -392,8 +391,7 @@ Arrêté du 11 octobre 1993 relatif à la commission de sélection de l'œuvre c
 <td align="center">
 <br/>
 </td>
-<td align="center">
-Décret n° 98-2 du 2 janvier 1998 fixant les conditions de validation des études, expériences professionnelles ou acquis personnels en vue de l'accès aux études d'architecture (articles 7 à 9). <br/>
+<td align="center">Décret n° 98-2 du 2 janvier 1998 fixant les conditions de validation des études, expériences professionnelles ou acquis personnels en vue de l'accès aux études d'architecture (articles 7 à 9). <br/>
 </td>
 </tr>
 <tr>
@@ -520,7 +518,7 @@ Décret n° 98-2 du 2 janvier 1998 fixant les conditions de validation des étud
 </td>
 </tr>
 <tr>
-<td align="center">Commission nationale d'équivalence (délégation aux arts plastiques). <br/>
+<td align="center">Commission nationale d'équivalence (direction générale de la création artistique). <br/>
 </td>
 <td align="center">
 <br/>
@@ -575,8 +573,7 @@ Arrêté du 19 juin 2006 portant création de la commission professionnelle cons
 <td align="center">
 <br/>
 </td>
-<td align="center">
-Décret n° 95-110 du 2 février 1995 relatif au soutien financier à la production, à la préparation et à la distribution d'œuvres audiovisuelles. <br/>
+<td align="center">Décret n° 95-110 du 2 février 1995 relatif au soutien financier à la production, à la préparation et à la distribution d'œuvres audiovisuelles. <br/>
 </td>
 </tr>
 <tr>
@@ -689,13 +686,13 @@ Arrêté du 5 juillet 2005 relatif aux attributions et à la composition du Cons
 </td>
 </tr>
 <tr>
-<td align="center">Conseil scientifique de la recherche et des études à la délégation aux arts plastiques. <br/>
+<td align="center">Conseil scientifique de la recherche et des études à la direction générale de la création artistique. <br/>
 </td>
 <td align="center">
 <br/>
 </td>
 <td align="center">
-Arrêté du 12 février 2001 portant création d'un Conseil scientifique de la recherche et des études à la délégation aux arts plastiques. <br/>
+Arrêté du 12 février 2001 portant création d'un Conseil scientifique de la recherche et des études à la direction générale de la création artistique. <br/>
 </td>
 </tr>
 <tr>

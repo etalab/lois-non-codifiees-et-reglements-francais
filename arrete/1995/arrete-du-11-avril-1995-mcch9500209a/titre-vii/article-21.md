@@ -4,27 +4,27 @@ La commission nationale créée par l'article 1er de la loi du 10 juillet 1989 e
 
 Sept représentants de l'Etat et des collectivités territoriales :
 
-- le directeur de la musique, de la danse, du théâtre et des spectacles, président ;
+-le directeur général de la création artistique, président ;
 
-- le délégué au développement et à l'action territoriale ;
+-le délégué au développement et à l'action territoriale ;
 
-- le chef du service de l'inspection et de l'évaluation à la direction de la musique, de la danse, du théâtre et des spectacles ;
+-le chef du service de l'inspection et de l'évaluation à la direction générale de la création artistique ;
 
-- le sous-directeur de la formation professionnelle et des entreprises culturelles à la direction de la musique, de la danse, du théâtre et des spectacles ;
+-le sous-directeur de la formation professionnelle et des entreprises culturelles à la direction générale de la création artistique ;
 
-- un représentant du ministre de l'éducation nationale ;
+-un représentant du ministre de l'éducation nationale ;
 
-- un représentant du ministre de la jeunesse et des sports ;
+-un représentant du ministre de la jeunesse et des sports ;
 
-- un représentant d'une collectivité territoriale désigné par le ministre chargé de la culture.
+-un représentant d'une collectivité territoriale désigné par le ministre chargé de la culture.
 
 Sept membres nommés par le ministre chargé de la culture :
 
-- trois personnalités sur proposition des organisations professionnelles du domaine de l'art chorégraphique ;
+-trois personnalités sur proposition des organisations professionnelles du domaine de l'art chorégraphique ;
 
-- trois personnalités qualifiées dans le domaine de l'art chorégraphique ;
+-trois personnalités qualifiées dans le domaine de l'art chorégraphique ;
 
-- un représentant des usagers des écoles de danse.
+-un représentant des usagers des écoles de danse.
 
 Pour chaque membre nommé, un suppléant est également désigné.
 

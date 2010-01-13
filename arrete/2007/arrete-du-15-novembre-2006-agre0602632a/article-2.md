@@ -1,6 +1,6 @@
 # Article 2
 
-Cette commission, présidée par le directeur général de l'enseignement et de la recherche ou son représentant et par le directeur de l'architecture et du patrimoine ou son représentant, comprend en outre :
+Cette commission, présidée par le directeur général de l'enseignement et de la recherche ou son représentant et par le       directeur général des patrimoines ou son représentant, comprend en outre :
 
 1° Deux directeurs désignés par le ministre chargé de l'agriculture parmi les directeurs des établissements d'enseignement supérieur placés sous son autorité et dont au moins un est mentionné à l'article D. 812-27 du code rural, ou leurs suppléants désignés dans les mêmes conditions ;
 

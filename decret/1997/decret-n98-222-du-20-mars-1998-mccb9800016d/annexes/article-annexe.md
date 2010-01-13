@@ -32,15 +32,15 @@ Article 1er
 
 L'Etat confie à l'Union centrale des arts décoratifs une mission de service public de garde, d'entretien, de gestion, de mise en valeur, d'enrichissement, d'étude et de présentation, en vue de l'éducation et de la délectation du public, des collections muséographiques et documentaires nationales composant :
 
-- le musée des arts décoratifs ;
+-le musée des arts décoratifs ;
 
-- la bibliothèque des arts décoratifs ;
+-la bibliothèque des arts décoratifs ;
 
-- le musée de la mode et du textile ;
+-le musée de la mode et du textile ;
 
-- le musée de la publicité ;
+-le musée de la publicité ;
 
-- le musée Nissim-de-Camondo.
+-le musée Nissim-de-Camondo.
 
 Les musées et la bibliothèque sont placés sous la responsabilité scientifique de conservateurs nommés dans les conditions prévues à l'article 10.
 
@@ -100,7 +100,7 @@ L'inspection générale des musées est chargée d'assurer le contrôle scientif
 
 Article 7
 
-Le comité scientifique, placé sous la présidence du président du conseil d'administration de l'Union centrale des arts décoratifs, est composé du directeur des musées de France et du délégué aux arts plastiques ou de leurs représentants, des responsables des musées et services conventionnés dans le cadre de leur compétence, et de quatre personnalités désignées, pour trois ans renouvelables, par le ministre chargé de la culture.
+Le comité scientifique, placé sous la présidence du président du conseil d'administration de l'Union centrale des arts décoratifs, est composé du directeur général des patrimoines et du directeur général de la création artistique ou de leurs représentants, des responsables des musées et services conventionnés dans le cadre de leur compétence, et de quatre personnalités désignées, pour trois ans renouvelables, par le ministre chargé de la culture.
 
 Le président peut y appeler, avec l'accord du ministre chargé de la culture, des experts qualifiés du secteur considéré, qui interviennent en tant que de besoin.
 
@@ -138,13 +138,13 @@ Les postes correspondant à ces emplois doivent avoir été préalablement prév
 
 A compter de la date de signature de la présente convention, les postes de conservateurs déclarés vacants dans les musées de l'UCAD sont pourvus par des agents appartenant ou ayant appartenu au corps des conservateurs du patrimoine, au corps des conservateurs généraux du patrimoine, au cadre d'emploi des conservateurs territoriaux du patrimoine, au corps des conservateurs du patrimoine de la ville de Paris, au corps des conservateurs généraux du patrimoine de la ville de Paris sous réserve de l'accord des collectivités publiques concernées, ou par des conservateurs étrangers.
 
-Les déclarations de vacance et les propositions de nomination pour les postes de conservateur des musées de l'UCAD sont préalablement soumises, pour avis conforme, au directeur des musées de France.
+Les déclarations de vacance et les propositions de nomination pour les postes de conservateur des musées de l'UCAD sont préalablement soumises, pour avis conforme, au directeur général des patrimoines.
 
 A compter de la date de signature de la présente convention, les postes de conservateurs déclarés vacants à la bibliothèque des arts décoratifs sont pourvus par des agents appartenant ou ayant appartenu au corps des conservateurs des bibliothèques et au corps des conservateurs généraux des bibliothèques, au corps des conservateurs des bibliothèques de la ville de Paris, au corps des conservateurs généraux des bibliothèques de la ville de Paris, sous réserve de l'accord des collectivités publiques concernées, ou par des conservateurs étrangers.
 
-Les déclarations de vacance et les propositions de nomination pour les postes de conservateurs à la bibliothèque de l'UCAD sont préalablement soumises, pour avis conforme, au directeur du livre et de la lecture.
+Les déclarations de vacance et les propositions de nomination pour les postes de conservateurs à la bibliothèque de l'UCAD sont préalablement soumises, pour avis conforme, au      directeur général des médias et des industries culturelles.
 
-Lorsque, sur un poste dont la vacance a fait l'objet d'une publicité suffisante, les procédures de recrutement de fonctionnaires prévues au présent article ont échoué, l'UCAD peut recruter des spécialistes en dehors des catégories susmentionnées, choisies avec l'accord, respectivement, du directeur des musées de France et du directeur du livre et de la lecture.
+Lorsque, sur un poste dont la vacance a fait l'objet d'une publicité suffisante, les procédures de recrutement de fonctionnaires prévues au présent article ont échoué, l'UCAD peut recruter des spécialistes en dehors des catégories susmentionnées, choisies avec l'accord, respectivement, du directeur général des patrimoines et du      directeur général des médias et des industries culturelles.
 
 Article 11
 
@@ -166,11 +166,11 @@ Le conseil d'administration est également compétent pour procéder aux rééva
 
 Article 14
 
-Le commissaire du Gouvernement près l'Union centrale des arts décoratifs est le directeur des musées de France. Il participe au conseil d'administration et à l'assemblée générale avec voix consultative.
+Le commissaire du Gouvernement près l'Union centrale des arts décoratifs est le directeur général des patrimoines. Il participe au conseil d'administration et à l'assemblée générale avec voix consultative.
 
 Le commissaire du Gouvernement peut :
 
-a) Demander l'inscription d'une question à l'ordre du jour du conseil d'administration ou de l'assemblée générale;
+a) Demander l'inscription d'une question à l'ordre du jour du conseil d'administration ou de l'assemblée générale ;
 
 b) Demander une seconde délibération du conseil d'administration ;
 

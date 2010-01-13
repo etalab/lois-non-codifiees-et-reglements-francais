@@ -12,11 +12,11 @@ Les candidats non admis à poursuivre les épreuves d'admission ont un entretien
 
 2° Trois épreuves d'admission :
 
-- l'interprétation d'une chorégraphie imposée figurant sur le support audiovisuel produit chaque année par la direction de la musique, de la danse, du théâtre et des spectacles ;
+-l'interprétation d'une chorégraphie imposée figurant sur le support audiovisuel produit chaque année par la             direction générale de la création artistique ;
 
-- l'interprétation d'une chorégraphie libre ;
+-l'interprétation d'une chorégraphie libre ;
 
-- un entretien avec le jury précité portant sur les motivations du candidat.
+-un entretien avec le jury précité portant sur les motivations du candidat.
 
 Les caractéristiques de l'épreuve de chorégraphie libre sont définies à l'annexe 2.
 

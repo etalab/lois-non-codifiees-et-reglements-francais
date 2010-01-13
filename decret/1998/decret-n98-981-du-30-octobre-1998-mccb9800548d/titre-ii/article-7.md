@@ -4,13 +4,13 @@ Le conseil d'administration de l'Ecole nationale supérieure des arts décoratif
 
 1° Quatre membres de droit :
 
-- le directeur de l'administration générale au ministère chargé de la culture ou son représentant ;
+-le     secrétaire général au ministère chargé de la culture ou son représentant ;
 
-- le délégué aux arts plastiques au ministère chargé de la culture ou son représentant ;
+-le directeur général de la création artistique au ministère chargé de la culture ou son représentant ;
 
-- le chef du service de l'inspection générale de l'enseignement artistique ou son représentant ;
+-le chef du service de l'inspection générale de l'enseignement artistique ou son représentant ;
 
-- le directeur de l'architecture et du patrimoine au ministère chargé de la culture ou son représentant ;
+-le directeur général des patrimoines au ministère chargé de la culture ou son représentant ;
 
 2° Quatre personnalités, dont deux appartenant aux milieux professionnels intéressés, désignées en raison de leurs compétences par arrêté du ministre chargé de la culture pour une période de trois ans renouvelable. En cas de vacance, pour quelque cause que ce soit, survenant plus de trois mois avant l'expiration du mandat, un remplaçant est désigné dans les mêmes conditions, pour la durée du mandat restant à courir ;
 

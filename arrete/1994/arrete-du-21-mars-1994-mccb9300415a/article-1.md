@@ -71,7 +71,7 @@ La nouvelle bonification indiciaire prévue à l'article 1er du décret du 21 ma
 <td valign="top" width="95">40 </td>
 </tr>
 <tr>
-<td valign="top" width="321">Responsable de la gestion centrale des services éducatifs et de l'animation culturelle à la direction des Archives de France </td>
+<td valign="top" width="321">Responsable de la gestion centrale des services éducatifs et de l'animation culturelle à la direction générale des patrimoines </td>
 <td valign="top" width="95">A </td>
 <td valign="top" width="95">1 </td>
 <td valign="top" width="95">30 </td>
@@ -107,7 +107,7 @@ La nouvelle bonification indiciaire prévue à l'article 1er du décret du 21 ma
 <td valign="top" width="95">15 </td>
 </tr>
 <tr>
-<td valign="top" width="321">Photographe assurant des tirages a l'ancienne (hors métiers d'art) </td>
+<td valign="top" width="321">Photographe assurant des tirages à l'ancienne (hors métiers d'art) </td>
 <td valign="top" width="95">C </td>
 <td valign="top" width="95">1 </td>
 <td valign="top" width="95">15 </td>
@@ -136,7 +136,7 @@ La nouvelle bonification indiciaire prévue à l'article 1er du décret du 21 ma
 <td valign="top" width="95">10 </td>
 </tr>
 <tr>
-<td valign="top" width="321">Responsable d'ateliers d'entretien (électricité, plomberie) a la direction des Musées de France : </td>
+<td valign="top" width="321">Responsable d'ateliers d'entretien (électricité, plomberie) à la direction générale des patrimoines : </td>
 <td valign="top" width="95">C </td>
 <td valign="top" width="95"/>
 <td valign="top" width="95"/>

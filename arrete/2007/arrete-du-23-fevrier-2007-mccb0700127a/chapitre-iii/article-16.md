@@ -2,7 +2,7 @@
 
 Le jury de l'évaluation terminale se compose comme suit :
 
-a) Le directeur de la musique, de la danse, du théâtre et des spectacles, ou la personne qu'il désigne, président ;
+a) Le             directeur général de la création artistique, ou la personne qu'il désigne, président ;
 
 b) Un directeur d'établissement proposant un cycle d'enseignement professionnel initial de musique ;
 

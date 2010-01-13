@@ -1,6 +1,6 @@
 # Article 6
 
-Les dossiers d'inscription aux examens du certificat d'aptitude sont à retirer auprès de la direction de la musique, de la danse, du théâtre et des spectacles. Les candidats doivent les retourner à la direction de la musique, de la danse, du théâtre et des spectacles complétés et accompagnés des pièces demandées avant la date limite de dépôt des dossiers (le cachet de la poste faisant foi). Tout dossier incomplet ne pourra être pris en compte.
+Les dossiers d'inscription aux examens du certificat d'aptitude sont à retirer auprès de la             direction générale de la création artistique. Les candidats doivent les retourner à la             direction générale de la création artistique complétés et accompagnés des pièces demandées avant la date limite de dépôt des dossiers (le cachet de la poste faisant foi). Tout dossier incomplet ne pourra être pris en compte.
 
 Les candidats doivent avoir atteint l'âge de la majorité légale avant le 1er janvier de l'année d'inscription à l'examen.
 

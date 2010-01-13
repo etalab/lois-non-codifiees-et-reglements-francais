@@ -6,4 +6,4 @@ Les inspecteurs généraux de l'architecture et du patrimoine occupent cet emplo
 
 Les chargés de mission d'inspection générale de l'architecture et du patrimoine exercent cette fonction pour une durée de trois ans renouvelable et peuvent y être appelés par le ministre sans remplir les conditions définies à l'alinéa précédent.
 
-Les compétences territoriales ou les missions des inspecteurs généraux et des chargés de mission d'inspection générale sont fixées par le directeur de l'architecture et du patrimoine sur proposition du chef du service de l'inspection générale.
+Les compétences territoriales ou les missions des inspecteurs généraux et des chargés de mission d'inspection générale sont fixées par le       directeur général des patrimoines sur proposition du chef du service de l'inspection générale.

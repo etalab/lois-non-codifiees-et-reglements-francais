@@ -16,7 +16,7 @@ a) Un représentant de l'Institut national de la statistique et des études éco
 
 b) Un représentant du garde des sceaux, ministre de la justice ;
 
-c) Un représentant de la direction des Archives de France ;
+c) Un représentant de la    direction générale des patrimoines ;
 
 d) Un représentant du service producteur intéressé, désigné par le ministre dont relève ce service ;
 
@@ -36,7 +36,7 @@ III. ― Outre les personnes mentionnées au II, la première section du comité
 
 6° Un membre du conseil scientifique du comité de concertation pour les données en sciences humaines et sociales, désigné par le président de ce conseil.
 
-IV. - Outre les personnes mentionnées au II, la seconde section du comité du secret statistique comprend :
+IV.-Outre les personnes mentionnées au II, la seconde section du comité du secret statistique comprend :
 
 1° L'un des membres mentionnés au 3° de l'article 5, choisi par et parmi eux ;
 
@@ -46,4 +46,4 @@ IV. - Outre les personnes mentionnées au II, la seconde section du comité du s
 
 4° L'un des membres mentionnés au 6° du même article, choisi par et parmi eux.
 
-V. - Les membres du comité du secret statistique mentionnés aux 2°, 3° et 4° du III et aux 1°, 2°, 3° et 4° du IV peuvent se faire représenter par leur suppléant à l'assemblée plénière.
+V.-Les membres du comité du secret statistique mentionnés aux 2°, 3° et 4° du III et aux 1°, 2°, 3° et 4° du IV peuvent se faire représenter par leur suppléant à l'assemblée plénière.
