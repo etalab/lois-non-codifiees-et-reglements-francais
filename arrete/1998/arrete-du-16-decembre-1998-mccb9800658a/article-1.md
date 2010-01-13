@@ -4,8 +4,6 @@ A compter du 1er janvier 1999, sont érigés en services à compétence national
 
 - le musée des châteaux de Malmaison et de Bois-Préau (annexes : maison Bonaparte et musées de l'île d'Aix) ;
 
-- le musée d'archéologie nationale (des origines à l'an mille), château de Saint-Germain-en-Laye ;
-
 - le musée de la Renaissance, château d'Ecouen ;
 
 - le musée du Moyen Age, thermes et hôtel de Cluny ;
