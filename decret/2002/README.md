@@ -120,6 +120,7 @@
 - [Décret n°2002-1197 du 23 septembre 2002 (SANH0222823D)](decret-n2002-1197-du-23-septembre-2002-sanh0222823d)
 - [Décret n°2002-1279 du 23 octobre 2002 (INTC0200242D)](decret-n2002-1279-du-23-octobre-2002-intc0200242d)
 - [Décret n°2002-1503 du 23 décembre 2002 (ECOT0200246D)](decret-n2002-1503-du-23-decembre-2002-ecot0200246d)
+- [Décret n°2002-1520 du 23 décembre 2002 (MCCB0200610D)](decret-n2002-1520-du-23-decembre-2002-mccb0200610d)
 - [Décret n°2002-1551 du 23 décembre 2002 (SOCF0211793D)](decret-n2002-1551-du-23-decembre-2002-socf0211793d)
 - [Décret n°2002-1556 du 23 décembre 2002 (JUSC0220617D)](decret-n2002-1556-du-23-decembre-2002-jusc0220617d)
 - [Décret n°2002-1559 du 23 décembre 2002 (DEFD0202573D)](decret-n2002-1559-du-23-decembre-2002-defd0202573d)

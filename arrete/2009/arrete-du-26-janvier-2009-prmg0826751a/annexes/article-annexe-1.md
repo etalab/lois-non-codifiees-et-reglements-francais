@@ -7,12 +7,8 @@ LISTE DES EMPLOIS DE CHEF DE MISSION DES SERVICES DU PREMIER MINISTRE
 <table>
 <tbody>
 <tr>
-<th>SERVICES ET DIRECTIONS<br/>
-<br/>
-</th>
-<th>FONCTIONS<br/>
-<br/>
-</th>
+<th>SERVICES ET DIRECTIONS</th>
+<th>FONCTIONS</th>
 <th>NOMBRE<br/>d'emplois<br/>
 </th>
 </tr>
@@ -87,7 +83,7 @@ LISTE DES EMPLOIS DE CHEF DE MISSION DES SERVICES DU PREMIER MINISTRE
 </td>
 </tr>
 <tr>
-<td align="center">Direction du développement des médias.<br/>
+<td align="center">Direction générale des médias et des industries culturelles.<br/>
 </td>
 <td align="center">Secrétaire général<br/>
 </td>

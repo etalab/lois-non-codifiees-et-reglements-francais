@@ -1,6 +1,6 @@
 # Article 4
 
-Les dossiers complets doivent être adressés à la direction du développement des médias au plus tard le 30 avril de l'année d'attribution de l'aide.
+Les dossiers complets doivent être adressés à la direction générale des médias et des industries culturelles au plus tard le 30 avril de l'année d'attribution de l'aide.
 
 Les demandes doivent être accompagnées des documents suivants :
 
@@ -14,6 +14,6 @@ Les demandes doivent être accompagnées des documents suivants :
 
 Chacun des documents demandés au présent article est certifié par un membre de l'ordre des experts-comptables et comptables agréés.
 
-La direction du développement des médias peut contrôler les indications fournies par tous moyens.
+La direction générale des médias et des industries culturelles peut contrôler les indications fournies par tous moyens.
 
 Elle peut notamment faire procéder à des vérifications sur place par des experts désignés à cet effet. Les responsables des publications qui sollicitent une aide doivent autoriser tous les organismes privés qui concourent à leur activité de presse, notamment les imprimeurs, les agences de publicité et les sociétés de messagerie, à fournir les renseignements nécessaires à ces contrôles.
