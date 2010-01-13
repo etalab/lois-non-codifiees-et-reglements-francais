@@ -158,6 +158,7 @@
 - [Décret n°2009-1778 du 30 décembre 2009 (OMEO0930962D)](decret-n2009-1778-du-30-decembre-2009-omeo0930962d)
 - [Décret n°2009-1779 du 30 décembre 2009 (OMEO0930108D)](decret-n2009-1779-du-30-decembre-2009-omeo0930108d)
 - [Décret n°2010-1763 du 30 décembre 2010 (MCCB1033560D)](decret-n2010-1763-du-30-decembre-2010-mccb1033560d)
+- [Décret n°86-1370 du 30 décembre 1986](decret-n86-1370-du-30-decembre-1986)
 - [Décret n°2009-1780 du 31 décembre 2009 (DEVU0929691D)](decret-n2009-1780-du-31-decembre-2009-devu0929691d)
 - [Décret n°2009-1784 du 31 décembre 2009 (ECEL0930617D)](decret-n2009-1784-du-31-decembre-2009-ecel0930617d)
 - [Décret n°2009-1785 du 31 décembre 2009 (IOCB0918827D)](decret-n2009-1785-du-31-decembre-2009-iocb0918827d)
