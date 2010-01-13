@@ -4,37 +4,37 @@ Pour l'exercice des missions qui lui sont confiées par l'article 8 du décret d
 
 Le directeur de la mémoire, du patrimoine et des archives du ministère de la défense, vice-président, qui supplée le président en cas d'absence ou d'empêchement.
 
-Le directeur des archives de France ou son représentant.
+Le directeur général des patrimoines ou son représentant.
 
 Les représentants des autorités énumérées ci-après :
 
-- le secrétaire général de la défense nationale ;
+-le secrétaire général de la défense nationale et de la sécurité ;
 
-- le chef d'état-major des armées ;
+-le chef d'état-major des armées ;
 
-- le délégué général pour l'armement ;
+-le délégué général pour l'armement ;
 
-- le chef d'état-major de l'armée de terre ;
+-le chef d'état-major de l'armée de terre ;
 
-- le chef d'état-major de la marine ;
+-le chef d'état-major de la marine ;
 
-- le chef d'état-major de l'armée de l'air ;
+-le chef d'état-major de l'armée de l'air ;
 
-- le directeur général de la gendarmerie nationale ;
+-le directeur général de la gendarmerie nationale ;
 
-- le chef du contrôle général des armées ;
+-le chef du contrôle général des armées ;
 
-- le directeur central du service de santé des armées ;
+-le directeur central du service de santé des armées ;
 
-- le directeur de la fonction militaire et du personnel civil ;
+-le directeur de la fonction militaire et du personnel civil ;
 
-- le directeur des affaires juridiques ;
+-le directeur des affaires juridiques ;
 
-- le directeur du service national ;
+-le directeur du service national ;
 
-- le chef du service historique de la défense et son adjoint ;
+-le chef du service historique de la défense et son adjoint ;
 
-- l'adjoint au directeur de la mémoire, du patrimoine et des archives.
+-l'adjoint au directeur de la mémoire, du patrimoine et des archives.
 
 Le directeur de l'établissement de communication et de production audiovisuelle de la défense.
 

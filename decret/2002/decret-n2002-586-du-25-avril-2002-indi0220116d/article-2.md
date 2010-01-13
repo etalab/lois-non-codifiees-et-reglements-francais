@@ -8,7 +8,7 @@ a) Le directeur de l'enseignement supérieur au ministère chargé de l'enseigne
 
 b) Le directeur de la technologie au ministère chargé de la recherche ;
 
-c) Le directeur du développement des médias ;
+c) Le directeur général des médias et des industries culturelles ;
 
 d) Le chef du service des technologies et de la société de l'information au ministère chargé de l'industrie ;
 
@@ -22,7 +22,7 @@ h) Le délégué général à l'emploi et à la formation professionnelle au min
 
 i) Le délégué à l'information et à la communication au ministère de la défense ;
 
-j) Le directeur général de l'Agence nationale de la sécurité des systèmes d'information au secrétariat général de la défense nationale ;
+j) Le directeur général de l'Agence nationale de la sécurité des systèmes d'information au secrétariat général de la défense nationale et de la sécurité nationale ;
 
 k) Le délégué interministériel à la réforme de l'Etat ;
 

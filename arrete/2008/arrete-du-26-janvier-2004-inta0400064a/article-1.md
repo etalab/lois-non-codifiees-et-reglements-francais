@@ -10,6 +10,6 @@ Il est assisté d'un secrétaire général adjoint, directeur, qui le remplace e
 
 Au titre de ses fonctions de haut fonctionnaire de défense, le secrétaire général est assisté d'un haut fonctionnaire de défense adjoint, directeur de la planification de sécurité nationale.
 
-Il est pour le ministère de l'intérieur l'interlocuteur du secrétaire général de la défense nationale et des fonctionnaires de défense et de sécurité.
+Il est pour le ministère de l'intérieur l'interlocuteur du     secrétaire général de la défense et de la sécurité nationale et des fonctionnaires de défense et de sécurité.
 
 Pour l'exercice de ses missions, il dispose en tant que de besoin de la délégation à la prospective et à la stratégie et de la délégation aux affaires internationales et européennes.
