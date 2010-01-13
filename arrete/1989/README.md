@@ -413,8 +413,6 @@
 - [Arrêté du 24 mai 1989 (MERG8900105A)](arrete-du-24-mai-1989-merg8900105a)
 - [Arrêté du 25 août 1989 (MENN8902141A)](arrete-du-25-aout-1989-menn8902141a)
 - [Arrêté du 25 août 1989 (PTTP8900820A)](arrete-du-25-aout-1989-pttp8900820a)
-- [Arrêté du 25 avril 1989 (PRMX8910096A)](arrete-du-25-avril-1989-prmx8910096a)
-- [Arrêté du 25 avril 1989 (PRMX8910097A)](arrete-du-25-avril-1989-prmx8910097a)
 - [Arrêté du 25 février 1984](arrete-du-25-fevrier-1984)
 - [Arrêté du 25 janvier 1989 (JUSG8960003A)](arrete-du-25-janvier-1989-jusg8960003a)
 - [Arrêté du 25 janvier 1989 (MENU8900436A)](arrete-du-25-janvier-1989-menu8900436a)

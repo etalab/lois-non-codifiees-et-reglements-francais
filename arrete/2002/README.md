@@ -740,7 +740,6 @@
 - [Arrêté du 30 avril 2002 (ECOP0200330A)](arrete-du-30-avril-2002-ecop0200330a)
 - [Arrêté du 30 avril 2002 (INTE0200231A)](arrete-du-30-avril-2002-inte0200231a)
 - [Arrêté du 30 avril 2002 (JUSE0240082A)](arrete-du-30-avril-2002-juse0240082a)
-- [Arrêté du 30 avril 2002 (MCCB0200144A)](arrete-du-30-avril-2002-mccb0200144a)
 - [Arrêté du 30 avril 2002 (SANP0221613A)](arrete-du-30-avril-2002-sanp0221613a)
 - [Arrêté du 30 avril 2003 (PRMX0306605A)](arrete-du-30-avril-2003-prmx0306605a)
 - [Arrêté du 30 décembre 2002 (SPRK0270376A)](arrete-du-30-decembre-2002-sprk0270376a)

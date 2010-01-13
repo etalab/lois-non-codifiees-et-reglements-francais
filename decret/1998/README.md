@@ -378,7 +378,6 @@
 - [Décret n°98-1050 du 16 novembre 1998 (MJSK9870136D)](decret-n98-1050-du-16-novembre-1998-mjsk9870136d)
 - [Décret n°98-1148 du 16 décembre 1998 (INTD9800303D)](decret-n98-1148-du-16-decembre-1998-intd9800303d)
 - [Décret n°98-1149 du 16 décembre 1998 (EQUU9800992D)](decret-n98-1149-du-16-decembre-1998-equu9800992d)
-- [Décret n°98-1150 du 16 décembre 1998 (PRMX9800112D)](decret-n98-1150-du-16-decembre-1998-prmx9800112d)
 - [Décret n°98-1153 du 16 décembre 1998 (DEFP9802028D)](decret-n98-1153-du-16-decembre-1998-defp9802028d)
 - [Décret n°98-1154 du 16 décembre 1998 (FPPA9800222D)](decret-n98-1154-du-16-decembre-1998-fppa9800222d)
 - [Décret n°98-1157 du 16 décembre 1998 (MESG9811153D)](decret-n98-1157-du-16-decembre-1998-mesg9811153d)

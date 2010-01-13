@@ -1,3 +1,0 @@
-# DÉCLARATION DE FOURNITURE : D'UNE PRESTATION DE CRYPTOLOGIE.
-
-- [Article ANNEXE II (DP)](article-annexe-ii-dp.md)

@@ -659,7 +659,6 @@
 - [Décret n°92-1364 du 23 décembre 1992 (EQUT9201205D)](decret-n92-1364-du-23-decembre-1992-equt9201205d)
 - [Décret n°92-260 du 23 mars 1992 (MCCB9200084D)](decret-n92-260-du-23-mars-1992-mccb9200084d)
 - [Décret n°92-261 du 23 mars 1992 (MCCB9200083D)](decret-n92-261-du-23-mars-1992-mccb9200083d)
-- [Décret n°92-405 du 23 avril 1992 (PRMX9200027D)](decret-n92-405-du-23-avril-1992-prmx9200027d)
 - [Décret n°92-704 du 23 juillet 1992 (JUSC9220470D)](decret-n92-704-du-23-juillet-1992-jusc9220470d)
 - [Décret n°92-709 du 23 juillet 1992 (MENX9200103D)](decret-n92-709-du-23-juillet-1992-menx9200103d)
 - [Décret n°92-713 du 23 juillet 1992 (INTC9200274D)](decret-n92-713-du-23-juillet-1992-intc9200274d)

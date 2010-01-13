@@ -324,7 +324,6 @@
 - [Arrêté du 11 avril 2003 (EQUP0300399A)](arrete-du-11-avril-2003-equp0300399a)
 - [Arrêté du 11 décembre 2003 (EQUT0301731A)](arrete-du-11-decembre-2003-equt0301731a)
 - [Arrêté du 11 février 2003 (AGRG0300336A)](arrete-du-11-fevrier-2003-agrg0300336a)
-- [Arrêté du 11 février 2003 (MCCI0300147A)](arrete-du-11-fevrier-2003-mcci0300147a)
 - [Arrêté du 11 février 2003 (SANH0320538A)](arrete-du-11-fevrier-2003-sanh0320538a)
 - [Arrêté du 11 juillet 2003 (INDI0301747A)](arrete-du-11-juillet-2003-indi0301747a)
 - [Arrêté du 11 juillet 2003 (SANG0322655A)](arrete-du-11-juillet-2003-sang0322655a)
