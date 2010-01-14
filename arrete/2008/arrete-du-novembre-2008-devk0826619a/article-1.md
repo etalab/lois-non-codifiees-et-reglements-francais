@@ -26,4 +26,6 @@ Les opérations de restructuration de service listées  ci-après ouvrent droit 
 
 12° La réorganisation des laboratoires de la direction régionale de l'équipement d'Ile-de-France ;
 
-13° Les restructurations des services conduisant à la création des  directions interrégionales de la mer et des directions départementales  des territoires et de la mer dans le cadre de la réforme de  l'administration territoriale de la mer et du littoral.
+13° Les restructurations des services conduisant à la création des  directions interrégionales de la mer et des directions départementales  des territoires et de la mer dans le cadre de la réforme de  l'administration territoriale de la mer et du littoral ;
+
+14° La réorganisation de l'Agence nationale de l'habitat.
