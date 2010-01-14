@@ -1,6 +1,6 @@
 # Article 7
 
-La liste d'aptitude prévue à l'article 5 ci-dessus est établie annuellement par spécialité, par un arrêté du ministre chargé de l'éducation pris après avis de la commission administrative paritaire nationale. Peuvent figurer sur cette liste les fonctionnaires appartenant à l'un des corps énumérés à l'article 6 ci-dessus, justifiant de dix années de services effectifs en cette qualité et âgés de quarante ans au moins.
+La liste d'aptitude prévue à l'article 5 ci-dessus est établie annuellement par spécialité, par un arrêté du ministre chargé de l'éducation pris après avis de la commission administrative paritaire nationale. Peuvent figurer sur cette liste les fonctionnaires appartenant à un corps d'enseignement de premier ou de second degré, d'éducation ou d'orientation ou au corps des personnels de direction d'établissement d'enseignement ou de formation relevant du ministre de l'éducation nationale, justifiant de dix années de services effectifs en cette qualité.
 
 Les conditions d'inscription sur la liste sont appréciées au 1er janvier de l'année au titre de laquelle la liste est établie.
 

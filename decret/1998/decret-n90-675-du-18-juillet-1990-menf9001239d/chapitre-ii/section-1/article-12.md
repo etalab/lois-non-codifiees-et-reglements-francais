@@ -1,6 +1,6 @@
 # Article 12
 
-Les inspecteurs de l'éducation nationale sont classés, lors de leur titularisation, dans les conditions suivantes :
+Les inspecteurs de l'éducation nationale sont classés, dans les conditions suivantes :
 
 1° S'ils détenaient l'un des grades compris dans le deuxième groupe du tableau de l'article 9 du décret du 5 décembre 1951 susvisé ou affectés des mêmes coefficients caractéristiques, ils sont classés dans la classe normale du corps des inspecteurs de l'éducation nationale conformément au tableau ci-après :
 
@@ -8,109 +8,111 @@ Les inspecteurs de l'éducation nationale sont classés, lors de leur titularisa
 <tbody>
 <tr>
 <td width="189">
-<p align="center">SITUATION ANCIENNE</p>
+<p align="center">SITUATION ANCIENNE </p>
 </td>
 <td colspan="2" width="416">
-<p align="center">SITUATION NOUVELLE</p>
+<p align="center">SITUATION NOUVELLE </p>
 </td>
 </tr>
 <tr>
 <td width="189">
-<p align="center">A. - Classe normale</p>
+<p align="center">A.-Classe normale </p>
 </td>
 <td width="151">
+<br/>
 <br/>
 </td>
 <td width="265">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>1er échelon</p>
+<p>1er échelon </p>
 </td>
 <td valign="top" width="151">
-<p align="center">3e échelon</p>
+<p align="center">3e échelon </p>
 </td>
 <td valign="top" width="265">
-<p>Maintien de l'ancienneté d'échelon et majoration de 1 an.</p>
+<p>Maintien de l'ancienneté d'échelon et majoration de 1 an. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>2e échelon avant 6 mois</p>
+<p>2e échelon avant 6 mois </p>
 </td>
 <td valign="top" width="151">
-<p align="center">3e échelon</p>
+<p align="center">3e échelon </p>
 </td>
 <td valign="top" width="265">
-<p>Maintien de l'ancienneté d'échelon et majoration de 1 an 3 mois.</p>
+<p>Maintien de l'ancienneté d'échelon et majoration de 1 an 3 mois. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>2e échelon après 6 mois</p>
+<p>2e échelon après 6 mois </p>
 </td>
 <td valign="top" width="151">
-<p align="center">4e échelon</p>
+<p align="center">4e échelon </p>
 </td>
 <td valign="top" width="265">
-<p>Maintien des huit neuvièmes de l'ancienneté d'échelon.</p>
+<p>Maintien des huit neuvièmes de l'ancienneté d'échelon. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>3e échelon</p>
+<p>3e échelon </p>
 </td>
 <td valign="top" width="151">
-<p align="center">4e échelon</p>
+<p align="center">4e échelon </p>
 </td>
 <td valign="top" width="265">
-<p>Maintien de l'ancienneté d'échelon et majoration de 8 mois.</p>
+<p>Maintien de l'ancienneté d'échelon et majoration de 8 mois. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>4e échelon</p>
+<p>4e échelon </p>
 </td>
 <td valign="top" width="151">
-<p align="center">5e échelon</p>
+<p align="center">5e échelon </p>
 </td>
 <td valign="top" width="265">
-<p>Maintien d'un tiers de l'ancienneté d'échelon.</p>
+<p>Maintien d'un tiers de l'ancienneté d'échelon. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>5e échelon avant 1 an 2 mois</p>
+<p>5e échelon avant 1 an 2 mois </p>
 </td>
 <td valign="top" width="151">
-<p align="center">5e échelon</p>
+<p align="center">5e échelon </p>
 </td>
 <td valign="top" width="265">
-<p>Maintien des six septièmes de l'ancienneté d'échelon et majoration de 12 mois.</p>
+<p>Maintien des six septièmes de l'ancienneté d'échelon et majoration de 12 mois. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>5e échelon après 1 an 2 mois</p>
+<p>5e échelon après 1 an 2 mois </p>
 </td>
 <td valign="top" width="151">
-<p align="center">6e échelon</p>
+<p align="center">6e échelon </p>
 </td>
 <td valign="top" width="265">
-<p>Sans ancienneté.</p>
+<p>Sans ancienneté. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>6e échelon</p>
+<p>6e échelon </p>
 </td>
 <td valign="top" width="151">
-<p align="center">6e échelon</p>
+<p align="center">6e échelon </p>
 </td>
 <td valign="top" width="265">
-<p>Maintien d'un tiers de l'ancienneté d'échelon.</p>
+<p>Maintien d'un tiers de l'ancienneté d'échelon. </p>
 </td>
 </tr>
 <tr>
@@ -118,10 +120,10 @@ Les inspecteurs de l'éducation nationale sont classés, lors de leur titularisa
 <p>7e échelon avant 1 an </p>
 </td>
 <td valign="top" width="151">
-<p align="center">6e échelon</p>
+<p align="center">6e échelon </p>
 </td>
 <td valign="top" width="265">
-<p>Maintien de l'ancienneté d'échelon et majoration de 14 mois.</p>
+<p>Maintien de l'ancienneté d'échelon et majoration de 14 mois. </p>
 </td>
 </tr>
 <tr>
@@ -129,10 +131,10 @@ Les inspecteurs de l'éducation nationale sont classés, lors de leur titularisa
 <p>7e échelon après 1 an </p>
 </td>
 <td valign="top" width="151">
-<p align="center">7e échelon</p>
+<p align="center">7e échelon </p>
 </td>
 <td valign="top" width="265">
-<p>Maintien des trois cinquièmes de l'ancienneté d'échelon supérieure à 1 an.</p>
+<p>Maintien des trois cinquièmes de l'ancienneté d'échelon supérieure à 1 an. </p>
 </td>
 </tr>
 <tr>
@@ -140,10 +142,10 @@ Les inspecteurs de l'éducation nationale sont classés, lors de leur titularisa
 <p>8e échelon avant 2 ans </p>
 </td>
 <td valign="top" width="151">
-<p align="center">7e échelon</p>
+<p align="center">7e échelon </p>
 </td>
 <td valign="top" width="265">
-<p>Maintien d'un quart de l'ancienneté d'échelon et majoration de 1 an 6 mois.</p>
+<p>Maintien d'un quart de l'ancienneté d'échelon et majoration de 1 an 6 mois. </p>
 </td>
 </tr>
 <tr>
@@ -151,40 +153,40 @@ Les inspecteurs de l'éducation nationale sont classés, lors de leur titularisa
 <p>8e échelon après 2 ans </p>
 </td>
 <td valign="top" width="151">
-<p align="center">7e échelon</p>
+<p align="center">7e échelon </p>
 </td>
 <td valign="top" width="265">
-<p>Maintien de l'ancienneté d'échelon dans la limite de 36 mois.</p>
+<p>Maintien de l'ancienneté d'échelon dans la limite de 36 mois. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>9e échelon</p>
+<p>9e échelon </p>
 </td>
 <td valign="top" width="151">
-<p align="center">8e échelon</p>
+<p align="center">8e échelon </p>
 </td>
 <td valign="top" width="265">
-<p>Maintien des deux cinquièmes de l'ancienneté d'échelon.</p>
+<p>Maintien des deux cinquièmes de l'ancienneté d'échelon. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>10e échelon</p>
+<p>10e échelon </p>
 </td>
 <td valign="top" width="151">
-<p align="center">8e échelon</p>
+<p align="center">8e échelon </p>
 </td>
 <td valign="top" width="265">
-<p>Maintien des deux onzièmes de l'ancienneté d'échelon et majoration de 2 ans.</p>
+<p>Maintien des deux onzièmes de l'ancienneté d'échelon et majoration de 2 ans. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>11e échelon</p>
+<p>11e échelon </p>
 </td>
 <td valign="top" width="151">
-<p align="center">9e échelon</p>
+<p align="center">9e échelon </p>
 </td>
 <td valign="top" width="265">
 <p>Maintien de l'ancienneté d'échelon dans la limite de 36 mois.</p>
@@ -192,90 +194,92 @@ Les inspecteurs de l'éducation nationale sont classés, lors de leur titularisa
 </tr>
 <tr>
 <td width="189">
-<p align="center">B. - Hors-classe</p>
+<p align="center">B.-Hors-classe </p>
 </td>
 <td width="151">
+<br/>
 <br/>
 </td>
 <td width="265">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>1er échelon</p>
+<p>1er échelon </p>
 </td>
 <td valign="top" width="151">
-<p align="center">7e échelon</p>
+<p align="center">7e échelon </p>
 </td>
 <td valign="top" width="265">
-<p>Maintien des deux cinquièmes de l'ancienneté d'échelon.</p>
+<p>Maintien des deux cinquièmes de l'ancienneté d'échelon. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>2e échelon</p>
+<p>2e échelon </p>
 </td>
 <td valign="top" width="151">
-<p align="center">7e échelon</p>
+<p align="center">7e échelon </p>
 </td>
 <td valign="top" width="265">
-<p>Maintien des quatre cinquièmes de l'ancienneté d'échelon et majoration de 1 an.</p>
+<p>Maintien des quatre cinquièmes de l'ancienneté d'échelon et majoration de 1 an. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>3e échelon</p>
+<p>3e échelon </p>
 </td>
 <td valign="top" width="151">
-<p align="center">8e échelon</p>
+<p align="center">8e échelon </p>
 </td>
 <td valign="top" width="265">
-<p>Maintien des deux cinquièmes de l'ancienneté d'échelon.</p>
+<p>Maintien des deux cinquièmes de l'ancienneté d'échelon. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>4e échelon</p>
+<p>4e échelon </p>
 </td>
 <td valign="top" width="151">
-<p align="center">8e échelon</p>
+<p align="center">8e échelon </p>
 </td>
 <td valign="top" width="265">
-<p>Maintien des quatre cinquièmes de l'ancienneté d'échelon et majoration de 1 an.</p>
+<p>Maintien des quatre cinquièmes de l'ancienneté d'échelon et majoration de 1 an. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>5e échelon</p>
+<p>5e échelon </p>
 </td>
 <td valign="top" width="151">
-<p align="center">9e échelon</p>
+<p align="center">9e échelon </p>
 </td>
 <td valign="top" width="265">
-<p>Maintien de l'ancienneté d'échelon dans la limite de 36 mois.</p>
+<p>Maintien de l'ancienneté d'échelon dans la limite de 36 mois. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>6e échelon</p>
+<p>6e échelon </p>
 </td>
 <td valign="top" width="151">
-<p align="center">10e échelon</p>
+<p align="center">10e échelon </p>
 </td>
 <td valign="top" width="265">
-<p>Sans ancienneté.</p>
+<p>Sans ancienneté. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>7e échelon</p>
+<p>7e échelon </p>
 </td>
 <td valign="top" width="151">
-<p align="center">10e échelon</p>
+<p align="center">10e échelon </p>
 </td>
 <td valign="top" width="265">
-<p>Maintien de l'ancienneté d'échelon.</p>
+<p>Maintien de l'ancienneté d'échelon. </p>
 </td>
 </tr>
 </tbody>
@@ -287,131 +291,133 @@ Les inspecteurs de l'éducation nationale sont classés, lors de leur titularisa
 <tbody>
 <tr>
 <td width="189">
-<p align="center">SITUATION ANCIENNE</p>
+<p align="center">SITUATION ANCIENNE </p>
 </td>
 <td colspan="2" width="416">
-<p align="center">SITUATION NOUVELLE</p>
+<p align="center">SITUATION NOUVELLE </p>
 </td>
 </tr>
 <tr>
 <td width="189">
-<p align="center">A. - Classe normale</p>
+<p align="center">A.-Classe normale </p>
 </td>
 <td width="151">
+<br/>
 <br/>
 </td>
 <td width="265">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>1er échelon</p>
+<p>1er échelon </p>
 </td>
 <td valign="top" width="151">
-<p align="center">2e échelon</p>
+<p align="center">2e échelon </p>
 </td>
 <td valign="top" width="265">
-<p>Maintien de l'ancienneté d'échelon et majoration de 1 an.</p>
+<p>Maintien de l'ancienneté d'échelon et majoration de 1 an. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>2e échelon</p>
+<p>2e échelon </p>
 </td>
 <td valign="top" width="151">
-<p align="center">3e échelon</p>
+<p align="center">3e échelon </p>
 </td>
 <td valign="top" width="265">
-<p>Maintien de l'ancienneté d'échelon et majoration de 9 mois.</p>
+<p>Maintien de l'ancienneté d'échelon et majoration de 9 mois. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>3e échelon avant 6 mois</p>
+<p>3e échelon avant 6 mois </p>
 </td>
 <td valign="top" width="151">
-<p align="center">3e échelon</p>
+<p align="center">3e échelon </p>
 </td>
 <td valign="top" width="265">
-<p>Maintien de l'ancienneté d'échelon et majoration de 1 an 6 mois.</p>
+<p>Maintien de l'ancienneté d'échelon et majoration de 1 an 6 mois. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>3e échelon après 6 mois</p>
+<p>3e échelon après 6 mois </p>
 </td>
 <td valign="top" width="151">
-<p align="center">4e échelon</p>
+<p align="center">4e échelon </p>
 </td>
 <td valign="top" width="265">
-<p>Maintien des deux tiers d'ancienneté d'échelon acquise après 6 mois.</p>
+<p>Maintien des deux tiers d'ancienneté d'échelon acquise après 6 mois. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>4e échelon avant 1 an 8 mois</p>
+<p>4e échelon avant 1 an 8 mois </p>
 </td>
 <td valign="top" width="151">
-<p align="center">4e échelon</p>
+<p align="center">4e échelon </p>
 </td>
 <td valign="top" width="265">
-<p>Maintien de l'ancienneté d'échelon et majoration de 4 mois.</p>
+<p>Maintien de l'ancienneté d'échelon et majoration de 4 mois. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>4e échelon après 1 an 8 mois</p>
+<p>4e échelon après 1 an 8 mois </p>
 </td>
 <td valign="top" width="151">
-<p align="center">5e échelon</p>
+<p align="center">5e échelon </p>
 </td>
 <td valign="top" width="265">
-<p>Sans ancienneté.</p>
+<p>Sans ancienneté. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>5e échelon</p>
+<p>5e échelon </p>
 </td>
 <td valign="top" width="151">
-<p align="center">5e échelon</p>
+<p align="center">5e échelon </p>
 </td>
 <td valign="top" width="265">
-<p>Maintien des deux septièmes de l'ancienneté d'échelon.</p>
+<p>Maintien des deux septièmes de l'ancienneté d'échelon. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>6e échelon avant 1 an 2 mois</p>
+<p>6e échelon avant 1 an 2 mois </p>
 </td>
 <td valign="top" width="151">
-<p align="center">5e échelon</p>
+<p align="center">5e échelon </p>
 </td>
 <td valign="top" width="265">
-<p>Maintien des six septièmes de l'ancienneté d'échelon et majoration de 1 an.</p>
+<p>Maintien des six septièmes de l'ancienneté d'échelon et majoration de 1 an. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>6e échelon après 1 an 2 mois</p>
+<p>6e échelon après 1 an 2 mois </p>
 </td>
 <td valign="top" width="151">
-<p align="center">6e échelon</p>
+<p align="center">6e échelon </p>
 </td>
 <td valign="top" width="265">
-<p>Maintien des trois septièmes de l'ancienneté d'échelon supérieure à 1 an 2 mois.</p>
+<p>Maintien des trois septièmes de l'ancienneté d'échelon supérieure à 1 an 2 mois. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>7e échelon</p>
+<p>7e échelon </p>
 </td>
 <td valign="top" width="151">
-<p align="center">6e échelon</p>
+<p align="center">6e échelon </p>
 </td>
 <td valign="top" width="265">
-<p>Maintien des trois septièmes de l'ancienneté d'échelon et majoration de 1 an.</p>
+<p>Maintien des trois septièmes de l'ancienneté d'échelon et majoration de 1 an. </p>
 </td>
 </tr>
 <tr>
@@ -419,10 +425,10 @@ Les inspecteurs de l'éducation nationale sont classés, lors de leur titularisa
 <p>8e échelon avant 18 mois </p>
 </td>
 <td valign="top" width="151">
-<p align="center">6e échelon</p>
+<p align="center">6e échelon </p>
 </td>
 <td valign="top" width="265">
-<p>Maintien d'un tiers de l'ancienneté d'échelon et majoration de 2 ans 6 mois.</p>
+<p>Maintien d'un tiers de l'ancienneté d'échelon et majoration de 2 ans 6 mois. </p>
 </td>
 </tr>
 <tr>
@@ -430,51 +436,51 @@ Les inspecteurs de l'éducation nationale sont classés, lors de leur titularisa
 <p>8e échelon après 18 mois </p>
 </td>
 <td valign="top" width="151">
-<p align="center">7e échelon</p>
+<p align="center">7e échelon </p>
 </td>
 <td valign="top" width="265">
-<p>Maintien du sixième de l'ancienneté d'échelon supérieure à 1 an 6 mois.</p>
+<p>Maintien du sixième de l'ancienneté d'échelon supérieure à 1 an 6 mois. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>9e échelon</p>
+<p>9e échelon </p>
 </td>
 <td valign="top" width="151">
-<p align="center">7e échelon</p>
+<p align="center">7e échelon </p>
 </td>
 <td valign="top" width="265">
-<p>Maintien de la moitié de l'ancienneté d'échelon et majoration de 6 mois.</p>
+<p>Maintien de la moitié de l'ancienneté d'échelon et majoration de 6 mois. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>10e échelon</p>
+<p>10e échelon </p>
 </td>
 <td valign="top" width="151">
-<p align="center">8e échelon</p>
+<p align="center">8e échelon </p>
 </td>
 <td valign="top" width="265">
-<p>Maintien des deux onzièmes de l'ancienneté d'échelon.</p>
+<p>Maintien des deux onzièmes de l'ancienneté d'échelon. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>11e échelon avant 2 ans</p>
+<p>11e échelon avant 2 ans </p>
 </td>
 <td valign="top" width="151">
-<p align="center">8e échelon</p>
+<p align="center">8e échelon </p>
 </td>
 <td valign="top" width="265">
-<p>Maintien de l'ancienneté d'échelon dans la limite de deux ans et majoration de 1 an.</p>
+<p>Maintien de l'ancienneté d'échelon dans la limite de deux ans et majoration de 1 an. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>11e échelon après 2 ans</p>
+<p>11e échelon après 2 ans </p>
 </td>
 <td valign="top" width="151">
-<p align="center">9e échelon</p>
+<p align="center">9e échelon </p>
 </td>
 <td valign="top" width="265">
 <p>Sans ancienneté.</p>
@@ -482,90 +488,92 @@ Les inspecteurs de l'éducation nationale sont classés, lors de leur titularisa
 </tr>
 <tr>
 <td width="189">
-<p align="center">B. - Hors-classe</p>
+<p align="center">B.-Hors-classe </p>
 </td>
 <td width="151">
+<br/>
 <br/>
 </td>
 <td width="265">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>1er échelon</p>
+<p>1er échelon </p>
 </td>
 <td valign="top" width="151">
-<p align="center">7e échelon</p>
+<p align="center">7e échelon </p>
 </td>
 <td valign="top" width="265">
-<p>Maintien des deux cinquièmes de l'ancienneté d'échelon.</p>
+<p>Maintien des deux cinquièmes de l'ancienneté d'échelon. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>2e échelon</p>
+<p>2e échelon </p>
 </td>
 <td valign="top" width="151">
-<p align="center">7e échelon</p>
+<p align="center">7e échelon </p>
 </td>
 <td valign="top" width="265">
-<p>Maintien des quatre cinquièmes de l'ancienneté d'échelon et majoration de 1 an.</p>
+<p>Maintien des quatre cinquièmes de l'ancienneté d'échelon et majoration de 1 an. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>3e échelon</p>
+<p>3e échelon </p>
 </td>
 <td valign="top" width="151">
-<p align="center">8e échelon</p>
+<p align="center">8e échelon </p>
 </td>
 <td valign="top" width="265">
-<p>Maintien des deux cinquièmes de l'ancienneté d'échelon.</p>
+<p>Maintien des deux cinquièmes de l'ancienneté d'échelon. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>4e échelon</p>
+<p>4e échelon </p>
 </td>
 <td valign="top" width="151">
-<p align="center">8e échelon</p>
+<p align="center">8e échelon </p>
 </td>
 <td valign="top" width="265">
-<p>Maintien des quatre cinquièmes de l'ancienneté d'échelon et majoration de 1 an.</p>
+<p>Maintien des quatre cinquièmes de l'ancienneté d'échelon et majoration de 1 an. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>5e échelon</p>
+<p>5e échelon </p>
 </td>
 <td valign="top" width="151">
-<p align="center">9e échelon</p>
+<p align="center">9e échelon </p>
 </td>
 <td valign="top" width="265">
-<p>Maintien de l'ancienneté d'échelon dans la limite de 36 mois.</p>
+<p>Maintien de l'ancienneté d'échelon dans la limite de 36 mois. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>6e échelon</p>
+<p>6e échelon </p>
 </td>
 <td valign="top" width="151">
-<p align="center">10e échelon</p>
+<p align="center">10e échelon </p>
 </td>
 <td valign="top" width="265">
-<p>Sans ancienneté.</p>
+<p>Sans ancienneté. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>7e échelon</p>
+<p>7e échelon </p>
 </td>
 <td valign="top" width="151">
-<p align="center">10e échelon</p>
+<p align="center">10e échelon </p>
 </td>
 <td valign="top" width="265">
-<p>Maintien de l'ancienneté d'échelon.</p>
+<p>Maintien de l'ancienneté d'échelon. </p>
 </td>
 </tr>
 </tbody>
@@ -581,175 +589,175 @@ Les intéressés sont reclassés dans la classe normale de leur nouveau corps à
 <tbody>
 <tr>
 <td width="189">
-<p align="center">SITUATION ANCIENNE</p>
+<p align="center">SITUATION ANCIENNE </p>
 </td>
 <td colspan="2" width="416">
-<p align="center">SITUATION NOUVELLE</p>
+<p align="center">SITUATION NOUVELLE </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>1er échelon</p>
+<p>1er échelon </p>
 </td>
 <td valign="top" width="151">
-<p align="center">1er échelon</p>
+<p align="center">1er échelon </p>
 </td>
 <td valign="top" width="265">
-<p>Maintien des deux tiers de l'ancienneté d'échelon et majoration de 6 mois.</p>
+<p>Maintien des deux tiers de l'ancienneté d'échelon et majoration de 6 mois. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>2e échelon</p>
+<p>2e échelon </p>
 </td>
 <td valign="top" width="151">
-<p align="center">2e échelon</p>
+<p align="center">2e échelon </p>
 </td>
 <td valign="top" width="265">
-<p>Maintien des deux tiers de l'ancienneté d'échelon.</p>
+<p>Maintien des deux tiers de l'ancienneté d'échelon. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>3e échelon</p>
+<p>3e échelon </p>
 </td>
 <td valign="top" width="151">
-<p align="center">2e échelon</p>
+<p align="center">2e échelon </p>
 </td>
 <td valign="top" width="265">
-<p>Maintien de la moitié de l'ancienneté d'échelon et majoration de 6 mois.</p>
+<p>Maintien de la moitié de l'ancienneté d'échelon et majoration de 6 mois. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>4e échelon</p>
+<p>4e échelon </p>
 </td>
 <td valign="top" width="151">
-<p align="center">2e échelon</p>
+<p align="center">2e échelon </p>
 </td>
 <td valign="top" width="265">
-<p>Maintien des deux tiers de l'ancienneté d'échelon et majoration de 1 an.</p>
+<p>Maintien des deux tiers de l'ancienneté d'échelon et majoration de 1 an. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>5e échelon</p>
+<p>5e échelon </p>
 </td>
 <td valign="top" width="151">
-<p align="center">3e échelon</p>
+<p align="center">3e échelon </p>
 </td>
 <td valign="top" width="265">
-<p>Maintien des deux tiers de l'ancienneté d'échelon.</p>
+<p>Maintien des deux tiers de l'ancienneté d'échelon. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>6e échelon</p>
+<p>6e échelon </p>
 </td>
 <td valign="top" width="151">
-<p align="center">3e échelon</p>
+<p align="center">3e échelon </p>
 </td>
 <td valign="top" width="265">
-<p>Maintien des deux tiers de l'ancienneté d'échelon et majoration de 1 an dans la limite de 1 an 8 mois.</p>
+<p>Maintien des deux tiers de l'ancienneté d'échelon et majoration de 1 an dans la limite de 1 an 8 mois. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>7e échelon avant 6 mois</p>
+<p>7e échelon avant 6 mois </p>
 </td>
 <td valign="top" width="151">
-<p align="center">3e échelon</p>
+<p align="center">3e échelon </p>
 </td>
 <td valign="top" width="265">
-<p>Maintien des deux tiers de l'ancienneté d'échelon et majoration de 1 an 8 mois.</p>
+<p>Maintien des deux tiers de l'ancienneté d'échelon et majoration de 1 an 8 mois. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>7e échelon après 6 mois</p>
+<p>7e échelon après 6 mois </p>
 </td>
 <td valign="top" width="151">
-<p align="center">4e échelon</p>
+<p align="center">4e échelon </p>
 </td>
 <td valign="top" width="265">
-<p>Maintien d'un tiers de l'ancienneté acquise après six mois.</p>
+<p>Maintien d'un tiers de l'ancienneté acquise après six mois. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>8e échelon avant 6 mois</p>
+<p>8e échelon avant 6 mois </p>
 </td>
 <td valign="top" width="151">
-<p align="center">4e échelon</p>
+<p align="center">4e échelon </p>
 </td>
 <td valign="top" width="265">
-<p>Maintien des deux tiers de l'ancienneté d'échelon et majoration de 1 an 8 mois.</p>
+<p>Maintien des deux tiers de l'ancienneté d'échelon et majoration de 1 an 8 mois. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>8e échelon après 6 mois</p>
+<p>8e échelon après 6 mois </p>
 </td>
 <td valign="top" width="151">
-<p align="center">5e échelon</p>
+<p align="center">5e échelon </p>
 </td>
 <td valign="top" width="265">
-<p>Maintien d'un tiers de l'ancienneté acquise après six mois.</p>
+<p>Maintien d'un tiers de l'ancienneté acquise après six mois. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>9e échelon avant 6 mois</p>
+<p>9e échelon avant 6 mois </p>
 </td>
 <td valign="top" width="151">
-<p align="center">5e échelon</p>
+<p align="center">5e échelon </p>
 </td>
 <td valign="top" width="265">
-<p>Maintien des deux tiers de l'ancienneté d'échelon et majoration de 1 an 8 mois.</p>
+<p>Maintien des deux tiers de l'ancienneté d'échelon et majoration de 1 an 8 mois. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>9e échelon après 6 mois</p>
+<p>9e échelon après 6 mois </p>
 </td>
 <td valign="top" width="151">
-<p align="center">6e échelon</p>
+<p align="center">6e échelon </p>
 </td>
 <td valign="top" width="265">
-<p>Maintien d'un tiers de l'ancienneté acquise après six mois et majoration de 1 an.</p>
+<p>Maintien d'un tiers de l'ancienneté acquise après six mois et majoration de 1 an. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>10e échelon avant 2 ans</p>
+<p>10e échelon avant 2 ans </p>
 </td>
 <td valign="top" width="151">
-<p align="center">6e échelon</p>
+<p align="center">6e échelon </p>
 </td>
 <td valign="top" width="265">
-<p>Maintien de l'ancienneté d'échelon et majoration de 2 ans 4 mois dans la limite de 3 ans.</p>
+<p>Maintien de l'ancienneté d'échelon et majoration de 2 ans 4 mois dans la limite de 3 ans. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>10e échelon après 2 ans</p>
+<p>10e échelon après 2 ans </p>
 </td>
 <td valign="top" width="151">
-<p align="center">7e échelon</p>
+<p align="center">7e échelon </p>
 </td>
 <td valign="top" width="265">
-<p>Maintien des deux tiers de l'ancienneté d'échelon acquise après 2 ans.</p>
+<p>Maintien des deux tiers de l'ancienneté d'échelon acquise après 2 ans. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="189">
-<p>11e échelon</p>
+<p>11e échelon </p>
 </td>
 <td valign="top" width="151">
-<p align="center">7e échelon</p>
+<p align="center">7e échelon </p>
 </td>
 <td valign="top" width="265">
-<p>Maintien de l'ancienneté d'échelon et majoration de 1 an 8 mois dans la limite de 3 ans.</p>
+<p>Maintien de l'ancienneté d'échelon et majoration de 1 an 8 mois dans la limite de 3 ans. </p>
 </td>
 </tr>
 </tbody>
