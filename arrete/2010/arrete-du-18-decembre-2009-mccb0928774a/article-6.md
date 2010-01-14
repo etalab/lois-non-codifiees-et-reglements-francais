@@ -2,7 +2,7 @@
 
 Les organisations déposent leur acte de candidature auprès de l'administration du ministère chargé de la culture chargée de l'organisation des élections pour chaque comité technique paritaire.
 
-Pour le premier tour des élections, les candidatures doivent parvenir au ministère chargé de la culture (secrétariat général du ministère chargé de la culture, bureau de l'expertise statutaire et du dialogue social, pièce 4069), 182, rue Saint-Honoré, 75001 Paris, par lettre recommandée avec accusé de réception, ou déposées à cette même adresse au plus tard le 15 février 2010, avant 12 heures.
+Pour le premier tour des élections, les candidatures doivent parvenir au ministère chargé de la culture (secrétariat général du ministère chargé de la culture, bureau de l'expertise statutaire et du dialogue social, pièce 4069), 182, rue Saint-Honoré, 75001 Paris, par lettre recommandée avec accusé de réception, ou déposées à cette même adresse au plus tard le 25 janvier 2010, à 17 heures.
 
 Elles peuvent être accompagnées d'une profession de foi (quatre pages format A4 maximum) et donnent lieu à la délivrance d'un récépissé au délégué de liste.
 
