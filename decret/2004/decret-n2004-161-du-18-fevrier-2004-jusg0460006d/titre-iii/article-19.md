@@ -2,7 +2,7 @@
 
 Les ressources de l'établissement comprennent :
 
-1° Les subventions, avances, fonds de concours et autres contributions attribués par l'Etat, les collectivités territoriales, les établissements publics et par toute autre personne ;
+1° Les subventions, avances, crédits de transfert, fonds de concours et autres contributions attribués par l'Etat, les collectivités territoriales, les établissements publics et par toute autre personne ;
 
 2° Le produit des concessions ;
 

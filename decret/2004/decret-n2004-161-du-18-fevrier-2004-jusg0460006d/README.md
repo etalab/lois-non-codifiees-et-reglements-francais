@@ -3,5 +3,4 @@
 - [TITRE Ier : DISPOSITIONS GÉNÉRALES.](titre-ier)
 - [TITRE II : ORGANISATION ADMINISTRATIVE.](titre-ii)
 - [TITRE III : RÉGIME FINANCIER.](titre-iii)
-- [TITRE IV : DISPOSITIONS DIVERSES ET TRANSITOIRES.](titre-iv)
 - [Article 26](article-26.md)

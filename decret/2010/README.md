@@ -65,6 +65,7 @@
 - [Décret n°2009-1433 du 20 novembre 2009 (MCCB0922710D)](decret-n2009-1433-du-20-novembre-2009-mccb0922710d)
 - [Décret n°2009-880 du 20 juillet 2009 (DEVE0908895D)](decret-n2009-880-du-20-juillet-2009-deve0908895d)
 - [Décret n°2010-1102 du 21 septembre 2010 (IOCC1015321D)](decret-n2010-1102-du-21-septembre-2010-iocc1015321d)
+- [Décret n°2006-208 du 22 février 2006 (JUSG0660018D)](decret-n2006-208-du-22-fevrier-2006-jusg0660018d)
 - [Décret n°2009-1632 du 23 décembre 2009 (IOCC0923344D)](decret-n2009-1632-du-23-decembre-2009-iocc0923344d)
 - [Décret n°2009-1648 du 23 décembre 2009 (DEVA0922292D)](decret-n2009-1648-du-23-decembre-2009-deva0922292d)
 - [Décret n°92-405 du 23 avril 1992 (PRMX9200027D)](decret-n92-405-du-23-avril-1992-prmx9200027d)
