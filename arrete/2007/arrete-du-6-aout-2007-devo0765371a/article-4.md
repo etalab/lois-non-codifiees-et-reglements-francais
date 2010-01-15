@@ -6,6 +6,6 @@ Sans préjudice des dispositions de l'article 3, le montant maximal défini à l
 
 -les établissements publics de coopération intercommunale et les syndicats mixtes dont la population totale majorée des communes rurales représente plus de la moitié de la population totale majorée du groupement ;
 
--les établissements publics de coopération intercommunale et les syndicats mixtes dont la population totale majorée des communes érigées en totalité ou en partie en station classée représente plus du quart de la population totale majorée du groupement.
+-les établissements publics de coopération intercommunale et les syndicats mixtes dont la population totale majorée des communes touristiques visées à l'article L. 133-11 du code du tourisme représente plus du quart de la population totale majorée du groupement.
 
 La population totale majorée est déterminée en application de l'article L. 2334-2 du code général des collectivités territoriales.
