@@ -1,0 +1,5 @@
+# Article 4
+
+Dans le cadre de l'instruction de la demande d'adhésion des professionnels de santé à un protocole autorisé, le directeur général de l'agence régionale de santé peut saisir les instances ordinales compétentes pour obtenir toutes informations individuelles complémentaires portant notamment sur la situation déontologique et disciplinaire du professionnel ainsi que sur son expérience et sa formation.
+
+Lorsque la profession est dépourvue d'instance ordinale, le directeur général de l'agence régionale de santé peut saisir, en vue d'obtenir des informations générales complémentaires, tout syndicat de la profession représentée au sein de l'union régionale des professions de santé ou, si la profession n'est pas représentée au sein de cette instance, les associations professionnelles représentées au sein du Haut Conseil des professions paramédicales, institué à l'article D. 4381-1 du code de la santé publique. Il peut également demander des informations au représentant du ministère certificateur dans la région.
