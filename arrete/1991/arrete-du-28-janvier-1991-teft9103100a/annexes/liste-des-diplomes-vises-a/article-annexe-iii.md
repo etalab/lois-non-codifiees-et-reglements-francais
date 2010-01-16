@@ -10,7 +10,13 @@ Pour les mentions A
 
 a) Diplômes de plongée.
 
-Brevet de plongée capacitaire-niveau 4 décerné par les membres du comité consultatif pour l'enseignement de la plongée.
+Brevet de plongeur de niveau 4 capacitaire délivré par la Fédération française d'études et de sports sous-marins (FFESSM) ;
+
+Brevet de plongeur 3 étoiles (certifié à l'étranger) délivré par la Confédération mondiale de activités subaquatique (CMAS) ;
+
+Brevet de guide de palanquée délivré par la Fédération sportive et gymnique du travail (FSGT) ;
+
+Les attestations de niveau 4 délivrées par l'Association nationale des moniteurs de plongée (ANMP) ou le Syndicat national des moniteurs de plongée (SNMP) ;
 
 Brevets d'Etat d'éducateur sportif, option Plongée subaquatique ;
 
@@ -38,7 +44,13 @@ Pour la mention B
 
 a) Diplômes de plongée non professionnelle.
 
-Brevet de plongée capacitaire-niveau 4 ;
+Brevet de plongeur de niveau 4 capacitaire délivré par la Fédération française d'études et de sports sous-marins (FFESSM) ;
+
+Brevet de plongeur 3 étoiles (certifié à l'étranger) délivré par la Confédération mondiale de activités subaquatique (CMAS) ;
+
+Brevet de guide de palanquée délivré par la Fédération sportive et gymnique du travail (FSGT) ;
+
+Les attestations de niveau 4 délivrées par l'Association nationale des moniteurs de plongée (ANMP) ou le Syndicat national des moniteurs de plongée (SNMP).
 
 Brevet Sécurité civile Scaphandre autonome léger (40) ;
 
@@ -60,7 +72,7 @@ Attestation I.N.P.P., mention Hyperbariste, obtenu avant le 1er octobre 1990.
 
 Diplômes de médecine hyperbare des universités de :
 
-Paris-V.
+Paris.
 
 Marseille.
 
