@@ -166,6 +166,7 @@
 - [Arrêté du 24 décembre 2009 (MTSS0931669A)](arrete-du-24-decembre-2009-mtss0931669a)
 - [Arrêté du 24 décembre 2009 (SASP0931638A)](arrete-du-24-decembre-2009-sasp0931638a)
 - [Arrêté du 24 juin 2010 (MENF1009736A)](arrete-du-24-juin-2010-menf1009736a)
+- [Arrêté du 24 mai 1996 (BUDL9600661A)](arrete-du-24-mai-1996-budl9600661a)
 - [Arrêté du 25 avril 1989 (PRMX8910096A)](arrete-du-25-avril-1989-prmx8910096a)
 - [Arrêté du 25 avril 1989 (PRMX8910097A)](arrete-du-25-avril-1989-prmx8910097a)
 - [Arrêté du 25 février 2008 (DEVA0771226A)](arrete-du-25-fevrier-2008-deva0771226a)
