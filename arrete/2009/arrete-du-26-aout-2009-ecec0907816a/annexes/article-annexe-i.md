@@ -26,7 +26,7 @@ Poudre blanche avec une odeur caractéristique ayant une saveur sucrée. Le pouv
 
 Solubilité
 
-Soluble dans l'eau et l'éthanol.
+Soluble dans l'eau.
 
 Perte lors du séchage
 
@@ -54,4 +54,4 @@ Pas plus de 10 mg/kg, exprimés en plomb, sur la base de la matière sèche.
 
 Solvants
 
-Pas plus de 200 mg/kg d'éthanol, pas plus de 10 mg/kg de méthanol sur la base de la matière sèche.
+Pas plus de 5 000 mg / kg d'éthanol, pas plus de 200 mg / kg de méthanol sur la base de la matière sèche.
