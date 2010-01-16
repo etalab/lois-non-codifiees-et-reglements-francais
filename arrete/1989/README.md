@@ -210,7 +210,6 @@
 - [Arrêté du 12 septembre 1989 (TEFT8903722A)](arrete-du-12-septembre-1989-teft8903722a)
 - [Arrêté du 13 avril 1989 (ACVA8910030A)](arrete-du-13-avril-1989-acva8910030a)
 - [Arrêté du 13 avril 1989 (MERG8900030A)](arrete-du-13-avril-1989-merg8900030a)
-- [Arrêté du 13 avril 1989 (MERG8900031A)](arrete-du-13-avril-1989-merg8900031a)
 - [Arrêté du 13 avril 1989 (SPSH8900829A)](arrete-du-13-avril-1989-spsh8900829a)
 - [Arrêté du 13 décembre 1988 (DEFP8801734A)](arrete-du-13-decembre-1988-defp8801734a)
 - [Arrêté du 13 décembre 1988 (TEFT8804182A)](arrete-du-13-decembre-1988-teft8804182a)
