@@ -2,16 +2,18 @@
 
 La sous-direction des parcours professionnels et des mobilités :
 
-― facilite les mobilités et la construction de parcours professionnels qui permettent aux services de disposer de compétences adaptées aux missions actuelles et à leurs évolutions ;
+- accompagne les services dans leur développement de la pratique du management des ressources humaines et des outils associés ;
 
-― aide les agents à bénéficier d'un large choix de possibilités professionnelles tant en interne au ministère qu'en externe ;
+- assure la maîtrise d'ouvrage de la mobilité ;
 
-― assure les relations avec les employeurs et les services en matière de ressources humaines.
+- facilite les recrutements et la construction de parcours professionnels valorisants pour permettre aux services de disposer des compétences adaptées aux missions actuelles et à leur évolutions ;
+
+- représente la direction des ressources humaines auprès des gestionnaires de personnel externes au ministère.
 
 Elle comprend :
 
-― la mission des emplois et des mobilités ;
+- le bureau du conseil en recrutement ;
 
-― la mission de la connaissance et de l'animation du réseau des employeurs ;
+- le bureau de gestion des mobilités ;
 
-― la mission de l'évaluation professionnelle et de l'accompagnement personnalisé.
+- le bureau de l'évaluation professionnelle.

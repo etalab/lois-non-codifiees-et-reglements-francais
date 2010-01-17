@@ -1,6 +1,6 @@
 # Article 3.5
 
-La sous-direction des affaires générales du commissariat général est chargée d'assurer la gestion administrative et financière du Commissariat général au développement durable.
+La sous-direction des affaires générales du commissariat général est chargée d'assurer la gestion administrative, financière et le service de documentation. du Commissariat général au développement durable.
 
 A ce titre, elle est notamment chargée d'assurer la gestion de proximité des agents affectés au commissariat (gestion prévisionnelle des emplois, suivi des équivalents temps plein, préparation des cycles de mobilité, propositions d'avancement, évaluation des agents, proposition des primes et indemnités) en liaison avec le secrétariat général du ministère.
 
@@ -26,4 +26,6 @@ Elle comprend :
 
 ― le bureau de la maîtrise d'ouvrage informatique ;
 
-― le bureau de gestion délocalisée.
+― le bureau de gestion délocalisée ;
+
+- le bureau de la documentation.

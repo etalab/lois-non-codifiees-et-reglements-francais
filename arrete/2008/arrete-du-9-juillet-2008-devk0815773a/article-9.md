@@ -10,6 +10,8 @@ La délégation à la sécurité et à la circulation routières comprend :
 
 ― le département de la communication et de l'information ;
 
+- le département du contrôle automatisé ;
+
 ― la mission d'audit de sécurité des infrastructures.
 
 Le délégué à la sécurité et à la circulation routières est assisté d'un adjoint, chef de service.

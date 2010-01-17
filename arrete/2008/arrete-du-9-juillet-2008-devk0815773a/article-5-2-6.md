@@ -16,6 +16,6 @@ La mission sûreté défense exerce les attributions suivantes :
 
 ― pilotage des actions d'audits de sûreté dans le champ de compétences de la direction des services de transport, en liaison avec le service de défense, de sécurité et d'intelligence économique ;
 
-― assistance des commissaires aux transports terrestres et aux transports maritimes ;
+― assistance des commissaires délégués aux transports terrestres et aux transports maritimes ;
 
 ― coordination de l'action de la direction générale en situation de crise ou d'exercice en liaison avec le service de défense, de sécurité et d'intelligence économique.

@@ -14,7 +14,7 @@ Elle organise les prestations de sûreté et de sécurité des personnels et des
 
 Elle prend en charge l'organisation, le pilotage et la mise en œuvre des prestations d'accueil du public pour l'administration centrale.
 
-Elle regroupe les moyens supports mutualisés d'assistance bureautique et informatique.
+Elle regroupe les moyens supports mutualisés d'assistance bureautique, informatique et de téléphonie.
 
 Elle comprend :
 
@@ -24,4 +24,6 @@ Elle comprend :
 
 ― le bureau de la gestion technique du patrimoine immobilier de l'administration centrale ;
 
-― le bureau des espaces et équipements de travail, et de la bureautique.
+― le bureau du soutien informatique et bureautique de l'administration centrale ;
+
+― le bureau de la programmation et de l'analyse de gestion des moyens de fonctionnement de l'administration centrale.

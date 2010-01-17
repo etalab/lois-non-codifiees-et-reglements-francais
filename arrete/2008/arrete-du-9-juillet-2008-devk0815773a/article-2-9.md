@@ -6,4 +6,6 @@ Le service de défense, de sécurité et d'intelligence économique, outre un ad
 
 ― le département de la doctrine et de la planification ;
 
-― le département de l'intelligence économique et de la protection du secret.
+― le département de l'intelligence économique et de la protection du secret ;
+
+- le département de la sécurité nucléaire.

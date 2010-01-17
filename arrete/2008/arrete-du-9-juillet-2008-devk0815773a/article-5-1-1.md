@@ -18,8 +18,6 @@ Il comprend :
 
 ― la sous-direction de la gestion du réseau autoroutier concédé ;
 
-― la sous-direction des services routiers déconcentrés et du contrôle de gestion ;
-
 ― la sous-direction de la construction et de la politique technique ;
 
 ― la sous-direction de la gestion du réseau routier non concédé et du trafic.

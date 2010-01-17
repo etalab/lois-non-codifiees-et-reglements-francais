@@ -10,14 +10,10 @@ Il contribue à l'élaboration de la réglementation et aux travaux de planifica
 
 Il assure les responsabilités confiées au fonctionnaire de sécurité des systèmes d'information et il veille au déploiement et au bon fonctionnement des moyens sécurisés de communication.
 
-Il réalise, coordonne ou suit les inspections, les audits et les contrôles conduits en matière de sécurité dans les différents secteurs d'activité entrant dans le champ des attributions du ministère. Dans le champ des attributions du service, il prépare et suit les réunions des commissions interministérielles et des comités de défense de zone.
-
 Il comprend :
 
 ― la mission de la protection contre le terrorisme ;
 
 ― la mission de la protection contre les catastrophes et les calamités ;
-
-― la mission des inspections et des contrôles de sécurité ;
 
 ― la mission de la sécurité des systèmes d'information.

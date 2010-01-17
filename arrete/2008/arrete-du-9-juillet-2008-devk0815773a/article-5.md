@@ -24,4 +24,4 @@ Le service d'étude sur les transports, les routes et leurs aménagements est ra
 
 L'Armement des phares et balises est rattaché, en tant que service à compétence nationale, au directeur des affaires maritimes.
 
-En outre, le directeur des services de transport est le  commissaire aux transports terrestres et le directeur des affaires maritimes est le commissaire aux transports maritimes.
+En outre, le directeur des services de transport est le commissaire délégué aux transports terrestres et le directeur des affaires maritimes est le commissaire délégué aux transports maritimes.

@@ -1,13 +1,15 @@
 # Article 3.2.5
 
-La sous-direction des méthodes, données et synthèses environnementales regroupe des fonctions techniques transversales nécessitant une coordination ou une centralisation fortes. Il s'agit, dans le domaine des statistiques et de l'observation, de la collecte, de la production et de la mise à disposition des données, de la mise au point de méthodes adaptées et des relations internationales dans le domaine de l'environnement, notamment la fonction de « point focal » pour la France de l'Agence européenne pour l'environnement.
+La sous-direction des méthodes et données pour le développement durable traite du thème du développement durable dans sa globalité. Elle concourt à la mise en œuvre de la convention d'Aarhus et produit des indicateurs de développement durable. Elle assure des activités techniques nécessitant une coordination ou une centralisation forte et spécifique à la fonction statistique.A ce titre, elle assure la coordination du contenu des systèmes d'information, la collecte, la production, la mise à disposition des données, la mise au point de méthodes adaptées, l'assistance à la maîtrise d'ouvrage informatique et statistique et la diffusion.
 
-Elle est un centre de ressources en matière de traitements statistiques et géographiques pour l'information environnementale.
+Elle est un centre de ressources en matière de traitements statistiques et géographiques.
 
-Elle assure les fonctions de secrétaire et de corapporteur de la Commission des comptes et de l'économie de l'environnement.
+La sous-direction des méthodes et données pour le développement durable comprend :
 
-La sous-direction des méthodes, données et synthèses de l'information environnementale comprend :
+- le bureau du développement durable et des territoires ;
 
-― le bureau des synthèses environnementales ;
+- le bureau des systèmes d'information et des bases de données ;
 
-― le bureau des méthodes, de l'administration et du traitement des données environnementales.
+- le bureau des méthodes et des applications statistiques ;
+
+- le bureau de la diffusion.
