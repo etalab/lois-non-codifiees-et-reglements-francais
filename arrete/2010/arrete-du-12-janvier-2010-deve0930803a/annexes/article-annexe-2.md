@@ -14,7 +14,7 @@ RÈGLES D'ÉLIGIBILITÉ À LA PRIME D'INTÉGRATION AU BÂTI ET À LA PRIME D'INT
 
 2. Par exception aux dispositions du paragraphe 1, une installation photovoltaïque qui est composée de modules rigides et pour laquelle le producteur fait la demande complète de raccordement au réseau public conformément à l'article 2 du présent arrêté avant le 1er janvier 2011 est éligible à la prime d'intégration au bâti si le système photovoltaïque remplit les conditions des paragraphes 1.1, première et deuxième phrase, et 1.2, première phrase, et est parallèle au plan de la toiture.
 
-3. Par exception aux dispositions du paragraphe 1, une installation photovoltaïque est éligible à la prime d'intégration au bâti si le système photovoltaïque est installé sur un bâtiment et remplit au moins l'une des fonctions suivantes :
+3. Par exception aux dispositions du paragraphe 1, une installation photovoltaïque est éligible à la prime d'intégration au bâti si le système photovoltaïque est installé sur un bâtiment et remplit, outre les conditions du paragraphe 1.1, première et deuxième phrase, au moins l'une des fonctions suivantes :
 
 3.1. Allège ;
 
