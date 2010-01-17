@@ -8,6 +8,8 @@ Le Conseil supérieur a pour mission :
 
 3° De délibérer sur toute question intéressant la profession, d'élaborer les règles professionnelles qui sont soumises à l'agrément du ministre chargé du budget et d'organiser le contrôle de leur application ;
 
+3° bis. - De définir, pour l'application du III de l'article R. 561-38 du code monétaire et financier, sur la base d'une classification des risques présentés par les activités des professionnels, les procédures et mesures de contrôle interne, qui sont soumises à l'agrément du ministre chargé du budget, à mettre en œuvre en matière de lutte contre le blanchiment de capitaux et de financement du terrorisme, notamment par la désignation par chaque professionnel d'un responsable de ce contrôle interne et par l'organisation d'une formation continue des professionnels sur les objectifs et les méthodes de cette lutte et les obligations auxquelles ils sont soumis à ce titre ;
+
 4° De représenter l'ordre auprès des pouvoirs publics et de leur donner son avis, par l'intermédiaire de l'autorité de tutelle, sur les questions dont il est saisi par eux ;
 
 5° De veiller à l'exécution des dispositions de l'article 5 de l'ordonnance du 19 septembre 1945 susvisée et, en application de la législation en vigueur, de fixer les règles générales de rémunération des experts-comptables stagiaires visés à l'article 4 de ladite ordonnance ;
