@@ -6,4 +6,4 @@ A partir d'un exposé d'une durée maximum de dix minutes fait par l'inspecteur-
 
 A l'issue de cet entretien, au vu de l'avis du jury, et en application du dernier alinéa de l'article 12 du décret du 24 décembre 2002 susvisé, le ministre prononce soit la titularisation, soit la réintégration dans le corps d'origine s'il s'agit d'un inspecteur-élève issu du concours interne, ou le licenciement.
 
-Le secrétariat du jury est assuré par la direction de l'administration générale, du personnel et du budget.
+Le secrétariat du jury est assuré par la           direction des ressources humaines.
