@@ -237,7 +237,7 @@ Direction départementale de l'équipement et de l'agriculture (2) du Calvados
 </tr>
 <tr>
 <td valign="top">
-<p align="left">Assistant technique auprès du sous-préfet de Lisieux pour le contrat ville</p>
+<p align="left">Responsable de l'unité de traitement des situations individuelles (3)</p>
 </td>
 <td>
 <p align="center">A</p>
@@ -251,7 +251,7 @@ Direction départementale de l'équipement et de l'agriculture (2) du Calvados
 </tr>
 <tr>
 <td valign="top">
-<p align="left">Responsable de l'unité ville, quartiers habitats</p>
+<p align="left">Chargé de mission développement de l'offre de logement, renouvellement urbain, habitat indigne (3)</p>
 </td>
 <td>
 <p align="center">A</p>
@@ -260,12 +260,24 @@ Direction départementale de l'équipement et de l'agriculture (2) du Calvados
 <p align="center">1</p>
 </td>
 <td>
-<p align="center">20 points</p>
+<p align="center">30 points</p>
+</td>
+</tr>
+<tr>
+<td>Adjoint au responsable de l'unité ville quartiers habitats (4) </td>
+<td>
+<p align="center">B</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center"> 20 points</p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<p align="left">Adjoint au responsable de l'unité ville, quartiers habitats</p>
+<p align="left">Responsable de l'unité rénovation urbaine (5)</p>
 </td>
 <td>
 <p align="center">B</p>
@@ -279,7 +291,7 @@ Direction départementale de l'équipement et de l'agriculture (2) du Calvados
 </tr>
 <tr>
 <td rowspan="2" valign="top">
-<p align="left">Animateur au sein de l'unité ville, quartiers habitats</p>
+<p align="left">Gestionnaire de la commission départementale des aides publiques au logement, chargé de la présidence de la commission départementale des aides publiques au logement en cas d'absence du titulaire (3)</p>
 </td>
 <td rowspan="2">
 <p align="center">C</p>
