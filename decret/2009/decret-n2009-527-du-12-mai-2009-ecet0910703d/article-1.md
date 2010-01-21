@@ -4,4 +4,6 @@ Le Fonds de sécurisation du crédit interentreprises a pour mission de couvrir,
 
 ― le fournisseur garanti a reçu une notification de cessation de garantie sur un client donné ;
 
-― le fournisseur garanti ou sollicitant une garantie a reçu une notification de refus de garantie sur un client donné.
+― le fournisseur garanti ou sollicitant une garantie a reçu une notification de refus de garantie sur un client donné ;
+
+― le fournisseur garanti ou sollicitant une garantie a reçu une diminution du montant de la garantie ou n'a reçu qu'un accord partiel de l'assureur-crédit sur un client donné, dans les cas expressément prévus dans lesdites conventions.
