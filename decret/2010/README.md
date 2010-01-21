@@ -81,6 +81,8 @@
 - [Décret n°2010-63 du 18 janvier 2010 (ECED0931484D)](decret-n2010-63-du-18-janvier-2010-eced0931484d)
 - [Décret n°2010-64 du 18 janvier 2010 (ECED0930866D)](decret-n2010-64-du-18-janvier-2010-eced0930866d)
 - [Décret n°2010-65 du 18 janvier 2010 (ECED0930863D)](decret-n2010-65-du-18-janvier-2010-eced0930863d)
+- [Décret n°2010-69 du 18 janvier 2010 (ECET0931770D)](decret-n2010-69-du-18-janvier-2010-ecet0931770d)
+- [Décret n°2010-70 du 18 janvier 2010 (ECET0929237D)](decret-n2010-70-du-18-janvier-2010-ecet0929237d)
 - [Décret n°99-954 du 18 novembre 1999 (PRMX9903830D)](decret-n99-954-du-18-novembre-1999-prmx9903830d)
 - [Décret n°2009-1433 du 20 novembre 2009 (MCCB0922710D)](decret-n2009-1433-du-20-novembre-2009-mccb0922710d)
 - [Décret n°2009-880 du 20 juillet 2009 (DEVE0908895D)](decret-n2009-880-du-20-juillet-2009-deve0908895d)
