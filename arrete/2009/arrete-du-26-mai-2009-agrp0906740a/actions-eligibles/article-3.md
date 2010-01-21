@@ -41,3 +41,5 @@ Pour une même superficie, les exploitants viticoles peuvent percevoir l'aide po
 La plantation ou le surgreffage doivent être réalisés avec du matériel végétal de base ou du matériel végétal certifié.
 
 Le taux de reprise d'une plantation ou d'un surgreffage doit atteindre, sauf cas de force majeure ou de circonstances exceptionnelles, au moins 90 %. Le taux maximum de 10 % de manquants est accepté dans la mesure où les manquants sont répartis sur l'ensemble de la parcelle.
+
+A partir de la campagne 2009-2010, le taux de reprise d'une plantation ou d'un surgreffage doit atteindre, sauf cas de force majeure ou de circonstances exceptionnelles, au moins 80 %. Le taux maximum de 20 % de manquants est accepté dans la mesure où les manquants sont répartis sur l'ensemble de la parcelle.
