@@ -1,4 +1,4 @@
-# Article 3
+# Article 4
 
 Par exception au tableau ci-dessus, la chasse des pigeons ramiers est autorisée du 11 au 20 février, à poste fixe matérialisé de main d'homme :
 
