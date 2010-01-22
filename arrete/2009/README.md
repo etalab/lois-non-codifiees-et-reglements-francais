@@ -1707,7 +1707,6 @@
 - [Arrêté du 19 janvier 2009 (DEVA0900975A)](arrete-du-19-janvier-2009-deva0900975a)
 - [Arrêté du 19 janvier 2009 (DEVA0901325A)](arrete-du-19-janvier-2009-deva0901325a)
 - [Arrêté du 19 janvier 2009 (DEVC0829558A)](arrete-du-19-janvier-2009-devc0829558a)
-- [Arrêté du 19 janvier 2009 (DEVN0816509A)](arrete-du-19-janvier-2009-devn0816509a)
 - [Arrêté du 19 janvier 2009 (DEVN0822998A)](arrete-du-19-janvier-2009-devn0822998a)
 - [Arrêté du 19 janvier 2009 (DEVN0829176A)](arrete-du-19-janvier-2009-devn0829176a)
 - [Arrêté du 19 janvier 2009 (DEVT0827684A)](arrete-du-19-janvier-2009-devt0827684a)
