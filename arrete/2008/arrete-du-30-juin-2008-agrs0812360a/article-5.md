@@ -12,13 +12,13 @@ Le service de la statistique et de la prospective comprend :
 
 5. Le bureau des méthodes et de l'informatique statistiques.
 
-I. - La sous-direction de la prospective et de l'évaluation anime et favorise le développement des réflexions stratégiques du ministère en matière économique, sociale et environnementale. Elle exerce un rôle d'alerte, d'initiative et de proposition au sein du ministère, au vu des évolutions qu'elle observe. Elle diffuse, le cas échéant, les informations et analyses résultant de ces travaux. Elle anime, oriente et coordonne la fonction de prospective. Elle assure à ce titre le secrétariat des structures en charge de la prospective nationale, européenne et internationale au sein du ministère et le représente auprès des instances compétentes dans ce domaine. Elle conduit et coordonne les travaux d'analyse économique et d'évaluation relatifs aux politiques publiques que le ministère met en œuvre. Elle anime et oriente la fonction d'intelligence économique. Elle prépare les programmes d'études et d'évaluation du ministère. Elle suit leur exécution, valorise et diffuse les résultats obtenus.
+I. - La sous-direction de la prospective et de l'évaluation constitue le centre d'études et de prospective. Celui-ci anime et favorise le développement des réflexions stratégiques du ministère en matière économique, sociale et environnementale. Il exerce un rôle d'alerte, d'initiative et de proposition au sein du ministère, au vu des évolutions qu'elle observe. Il diffuse, le cas échéant, les informations et analyses résultant de ces travaux. Il anime, oriente et coordonne la fonction de prospective. Il assure à ce titre le secrétariat des structures en charge de la prospective nationale, européenne et internationale au sein du ministère et le représente auprès des instances compétentes dans ce domaine. Il conduit et coordonne les travaux d'analyse économique et d'évaluation relatifs aux politiques publiques que le ministère met en œuvre. Il anime et oriente la fonction d'intelligence économique. Il prépare les programmes d'études et d'évaluation du ministère. Il suit leur exécution, valorise et diffuse les résultats obtenus.
 
-La sous-direction de la prospective et de l'évaluation comprend :
+Le centre d'études et de prospective comprend :
 
-― le bureau de la prospective, de la stratégie et de l'intelligence économique ;
+- le bureau de la prospective, de la stratégie et de l'intelligence économique ;
 
-― le bureau de l'évaluation et de l'analyse économique.
+- le bureau de l'évaluation et de l'analyse économique.
 
 II. ― La sous-direction des statistiques agricoles, forestières et agroalimentaires assure la conception et la réalisation des statistiques dans le domaine des structures agricoles, du milieu rural, des productions agricoles et forestières et en analyse les résultats ; elle participe aux actions statistiques en matière d'aménagement du territoire et d'impact de l'agriculture sur l'environnement. Elle participe pour le compte du ministère aux travaux relatifs à la préparation des statistiques industrielles ; elle réalise ou assure la maîtrise d'ouvrage des statistiques dans le domaine des industries agricoles et alimentaires et des agrofournitures et en analyse les résultats ; elle exerce le contrôle technique des organismes professionnels ou interprofessionnels agréés par les pouvoirs publics pour l'exécution d'enquêtes statistiques.
 

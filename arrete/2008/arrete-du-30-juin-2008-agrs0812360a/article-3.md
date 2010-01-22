@@ -8,7 +8,9 @@ Le service des affaires financières, sociales et logistiques comprend :
 
 3. La sous-direction du travail et de la protection sociale.
 
-I. (1) - La sous-direction des affaires budgétaires et comptables est responsable de la préparation, de la programmation et de l'exécution du budget. Elle assure la mise à disposition des crédits dans les budgets opérationnels de programme et les rattachements budgétaires, y compris ceux d'origine communautaire. Elle détermine les règles budgétaires et comptables applicables aux opérateurs, vérifie et approuve leurs comptes et gère les subventions pour charges de service public, sauf celles destinées aux établissements d'enseignement ou de recherche.
+4. La mission du projet CHORUS.
+
+I. - La sous-direction des affaires budgétaires et comptables est responsable de la préparation, de la programmation et de l'exécution du budget. Elle assure la mise à disposition des crédits dans les budgets opérationnels de programme et les rattachements budgétaires, y compris ceux d'origine communautaire. Elle détermine les règles budgétaires et comptables applicables aux opérateurs, vérifie et approuve leurs comptes et gère les subventions pour charges de service public, sauf celles destinées aux établissements d'enseignement ou de recherche.
 
 Elle expertise les questions fiscales intéressant les exploitations et les entreprises ; elle prépare les dispositions législatives ou réglementaires à caractère fiscal.
 
@@ -75,3 +77,5 @@ La sous-direction du travail et de la protection sociale comprend :
 ― le bureau de la santé et de la sécurité au travail ;
 
 ― le bureau de la réglementation du travail et du dialogue social.
+
+IV. - La mission du projet CHORUS est chargée des relations avec l'agence pour l'informatique financière de l'Etat en vue d'assurer la représentation du ministère dans les instances de pilotage et de conception du système d'information CHORUS. Elle conduit les opérations liées à son déploiement au sein du ministère en matière de traitement des données comptables et budgétaires, d'interface avec les applications ministérielles métier ainsi que d'organisation et de formation des services.
