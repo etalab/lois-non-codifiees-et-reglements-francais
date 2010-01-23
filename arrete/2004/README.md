@@ -799,7 +799,6 @@
 - [Arrêté du 27 janvier 2004 (INTE0400028A)](arrete-du-27-janvier-2004-inte0400028a)
 - [Arrêté du 27 janvier 2004 (INTE0400029A)](arrete-du-27-janvier-2004-inte0400029a)
 - [Arrêté du 27 janvier 2004 (INTE0400030A)](arrete-du-27-janvier-2004-inte0400030a)
-- [Arrêté du 27 janvier 2005 (JUSF0450139A)](arrete-du-27-janvier-2005-jusf0450139a)
 - [Arrêté du 27 juillet 2004 (AGRG0401739A)](arrete-du-27-juillet-2004-agrg0401739a)
 - [Arrêté du 27 juillet 2005 (INTE0500440A)](arrete-du-27-juillet-2005-inte0500440a)
 - [Arrêté du 27 novembre 2003 (DEFD0302348A)](arrete-du-27-novembre-2003-defd0302348a)
