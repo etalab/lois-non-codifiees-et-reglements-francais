@@ -18,7 +18,7 @@ b) D'assurer l'accès à tous les locaux communs ou recevant du public aux membr
 
 c) D'organiser des rondes pour prévenir et détecter les risques d'incendie, y compris dans les locaux non occupés ;
 
-d) De faire appliquer les consignes en cas d'incendie ;
+d) De faire appliquer les consignes en cas d'incendie, notamment pour ce qui concerne les dispositions mises en œuvre pour l'évacuation des personnes en situation de handicap ;
 
 e) De diriger les secours en attendant l'arrivée des sapeurs-pompiers, puis se mettre à la disposition du chef de détachement d'intervention des sapeurs-pompiers ;
 

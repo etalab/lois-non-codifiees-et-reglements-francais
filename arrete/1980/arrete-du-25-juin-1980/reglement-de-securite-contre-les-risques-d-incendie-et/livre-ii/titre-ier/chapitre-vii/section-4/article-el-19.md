@@ -1,31 +1,30 @@
 # Article EL 19
 
-Vérifications techniques
+<div align="center">Vérifications techniques<br/>
+</div>
 
-§ 1. La conformité :
+§ 1. Les installations électriques, les installations d'éclairage et les éventuelles installations extérieures de protection contre la foudre (paratonnerres) doivent être vérifiées dans les conditions prévues à la section II du chapitre Ier du présent titre.
 
--des installations électriques aux dispositions du présent chapitre ;
+§ 2. La conformité aux exigences réglementaires applicables aux installations neuves ou ayant fait l'objet de travaux doit être vérifiée dans les conditions prévues par les articles GE 7 et GE 8 (§ 1).
 
--des installations d'éclairage aux dispositions du chapitre VIII ;
+§ 3. Les vérifications périodiques des installations non modifiées doivent être effectuées annuellement dans les conditions prévues à l'article GE 10. Elles concernent les articles suivants à condition qu'ils soient applicables à l'établissement :
 
--des éventuels systèmes de protection contre la foudre (paratonnerres) aux dispositions de leur norme,
+― EL 4 (§ 4) ; EL 5 (§ 1, 4 et 5) ; EL 8 (§ 3) ; EL 10 (§ 4) ; EL 11 (§ 3, 4 et 7) ; EL 15 (§ 3) ; EL 17 et EL 18 ;
 
-doit faire l'objet de vérifications dans les conditions prévues à l'article GE 6, § 2.
+― EC 5 (§ 5) ; EC 6 (§ 5 et 6) ; EC 7 ; EC 9 (§ 1) ; EC 13 et EC 14 (§ 3).
 
-§ 2. Les vérifications périodiques des installations non modifiées doivent être effectuées annuellement dans les conditions prévues à l'article GE 8, § 2, et concernent les articles suivants à condition qu'ils soient applicables à l'établissement :
+Elles ont pour objet de s'assurer :
 
--EL 4, § 4 ; EL 5, § 1, 4 et 5 ; EL 8, § 3 ; EL 10, § 4 ; EL 11, § 3, 4 et 7 ; EL 15, § 3 ; EL 17 et EL 18 ;
+― de l'absence de modifications depuis la dernière vérification ;
 
--EC 5, § 5 ; EC 6, § 5 et 6 ; EC 7 ; EC 9, § 1 ; EC 13 et EC 14, § 3. Elles ont pour objet de s'assurer :
+― de l'état d'entretien et de maintenance des installations et appareils d'utilisation ;
 
--de l'absence de modifications depuis la dernière vérification ;
+― de l'existence d'un relevé des essais incombant à l'exploitant ;
 
--de l'état d'entretien et de maintenance des installations et appareils d'utilisation ;
+― du maintien en l'état des installations d'éclairage normal et de sécurité et des appareils d'éclairage ;
 
--de l'existence d'un relevé des essais incombant à l'exploitant ;
+― du bon état apparent des éventuelles installations extérieures de protection contre la foudre (paratonnerre).
 
--du maintien en l'état des installations d'éclairage normal et de sécurité et des appareils d'éclairage ;
+En complément à l'article GE 10, le relevé des vérifications mentionnera, article par article cité ci-dessus, les anomalies constatées avec leurs localisations et commentaires explicatifs.
 
--du bon état apparent de l'éventuel système de protection des structures contre la foudre (paratonnerre).
-
-§ 3. En cours d'exploitation, les travaux réalisés en l'absence de demande d'autorisation visée à l'article R. 123-23 tels que des modifications de circuits terminaux ou de remplacement d'appareils d'utilisation doivent faire l'objet d'un avis de conformité à l'occasion de la visite périodique annuelle.
+Il conviendra d'adjoindre à ce document le rapport de vérification périodique effectuée au titre du décret n° 88-1056 du 14 novembre 1988.

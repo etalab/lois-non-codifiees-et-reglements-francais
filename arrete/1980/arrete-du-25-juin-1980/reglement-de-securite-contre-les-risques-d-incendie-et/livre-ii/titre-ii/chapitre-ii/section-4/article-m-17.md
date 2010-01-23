@@ -8,13 +8,13 @@ Leur surface maximale unitaire est inférieure ou égale à 500 mètres carrés 
 
 - séparés des autres exploitations et de leurs propres locaux de réserves par des parois répondant aux exigences de l'article M 7 (§ 1 et § 3) ;
 
-- séparés, dans une même exploitation, des locaux à risques importants dans les conditions prévues aux articles CO 28 (§ 1) et M 4 (§ 1) ;
+- séparés, dans une même exploitation, des locaux à risques importants dans les conditions prévues aux articles CO 28 (§ 1) et M 49 (§ 1) ;
 
 - séparés entre eux, dans une même exploitation et quelle que soit leur surface, par des parois réalisées en matériaux de catégorie M1 ou B-s2, d0, y compris les revêtements éventuels ;
 
 - protégés par un système d'extinction automatique du type sprinkleur lorsque les locaux accessibles au public en sont pourvus ;
 
-- en dépression, à l'exception des locaux réfrigérés, et séparés des locaux accessibles au public par des écrans de cantonnement d'une hauteur minimale de 0,50 mètre.
+- en dépression, à l'exception des locaux réfrigérés.
 
 § 2. Les ateliers de fabrication ou de préparation des aliments nécessitant l'emploi d'appareils de cuisson ou de remise en température d'une puissance utile totale supérieure à 20 kW doivent répondre à l'un des cas suivants :
 

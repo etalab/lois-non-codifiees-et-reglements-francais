@@ -11,3 +11,5 @@ Poste de sécurité
 § 4. Le poste de sécurité doit notamment recevoir les alarmes restreintes transmises par postes téléphoniques, avertisseurs manuels, installations de détection et/ou d'extinction automatique. De plus, des commandes manuelles des dispositifs d'alarme, de désenfumage mécanique, de conditionnement, etc., doivent être installées à l'intérieur de celui-ci.
 
 § 5. Le poste de sécurité et ses accès doivent être convenablement protégés contre un feu survenant dans l'établissement.
+
+§ 6. Ce poste doit être en mesure d'établir une liaison avec les espaces d'attente sécurisés.

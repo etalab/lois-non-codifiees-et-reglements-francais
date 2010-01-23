@@ -14,6 +14,6 @@ Le poste central de sécurité incendie :
 
 - possède une liaison phonique avec le poste chargé de la gestion de la circulation des trains et avec le ou les local(aux) de gestion d'intervention défini(s) à l'article GA 45 de chaque gare dont il assure le cas échéant la surveillance centralisée de la sécurité incendie ;
 
-- dispose d'une ligne téléphonique reliée à un centre de traitement de l'alerte défini à l'article MS 71, § 2, ou d'un système reconnu équivalent par la commission de sécurité.
+- dispose d'une ligne téléphonique reliée à un centre de traitement de l'alerte défini à l'article MS 70, § 2, ou d'un système reconnu équivalent par la commission de sécurité.
 
 Dans le cas d'une exploitation centralisée de la sécurité incendie, le poste central de sécurité incendie peut être situé dans un local commun au poste chargé de la gestion de la circulation des trains et/ou au poste chargé d'une autre activité de surveillance compatible (par exemple : gestion technique de bâtiment, sûreté...).
