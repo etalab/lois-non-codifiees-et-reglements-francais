@@ -254,7 +254,6 @@
 - [Arrêté du 28 décembre 2009 (ECED0931783A)](arrete-du-28-decembre-2009-eced0931783a)
 - [Arrêté du 28 décembre 2009 (ECED0931784A)](arrete-du-28-decembre-2009-eced0931784a)
 - [Arrêté du 28 décembre 2009 (ECED0931799A)](arrete-du-28-decembre-2009-eced0931799a)
-- [Arrêté du 28 décembre 2009 (ECET0929207A)](arrete-du-28-decembre-2009-ecet0929207a)
 - [Arrêté du 28 décembre 2009 (MENH0931275A)](arrete-du-28-decembre-2009-menh0931275a)
 - [Arrêté du 28 décembre 2009 (MENH0931280A)](arrete-du-28-decembre-2009-menh0931280a)
 - [Arrêté du 28 décembre 2009 (MENH0931284A)](arrete-du-28-decembre-2009-menh0931284a)
