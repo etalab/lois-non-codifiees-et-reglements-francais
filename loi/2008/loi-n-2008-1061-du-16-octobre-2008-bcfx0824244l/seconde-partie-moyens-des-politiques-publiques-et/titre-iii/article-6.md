@@ -10,7 +10,7 @@ Seuls les établissements de crédit satisfaisant aux exigences de fonds propres
 
 La société mentionnée au premier alinéa peut acquérir des billets à ordre, régis par les articles L. 313-43 à L. 313-49, émis par des établissements de crédit, souscrire ou acquérir des parts ou titres de créances émis par des organismes visés aux articles L. 214-42-1 à L. 214-49-14 ou des fiducies.
 
-Pour les besoins de son activité, la société de refinancement bénéficie des dispositions des articles L. 211-36 à L. 211-40au même titre que les établissements de crédit.
+Pour les besoins de son activité, la société de refinancement bénéficie des dispositions des articles L. 211-36 à L. 211-40 au même titre que les établissements de crédit.
 
 Ces parts, titres de créances ou billets à ordre confèrent à la société de refinancement :
 
@@ -38,7 +38,7 @@ Peuvent être mobilisés en application du présent article :
 
 3° Les prêts mentionnés aux I et II de l'article L. 515-15 du code monétaire et financier ;
 
-4° Les prêts aux entreprises bénéficiant au moins du quatrième meilleur échelon de qualité de crédit établi par un organisme externe d'évaluation de crédit reconnu par la Commission bancaire conformément à l'article L. 511-44 du même code ou, à défaut, d'une note au moins équivalente attribuée par l'établissement prêteur suivant une approche interne d'évaluation des risques dont l'utilisation a été autorisée conformément aux articles L. 511-41 et L. 613-20-4 dudit code ;
+4° Les prêts aux entreprises bénéficiant au moins du quatrième meilleur échelon de qualité de crédit établi par un organisme externe d'évaluation de crédit reconnu par la l'Autorité de contrôle prudentiel conformément à l'article L. 511-44 du même code ou, à défaut, d'une note au moins équivalente attribuée par l'établissement prêteur suivant une approche interne d'évaluation des risques dont l'utilisation a été autorisée conformément aux articles L. 511-41 et L. 613-20-4 dudit code ;
 
 5° Les prêts à la consommation consentis aux particuliers résidant en France ou, selon des modalités à définir par la société mentionnée au premier alinéa, ceux consentis à des particuliers résidant dans d'autres Etats membres de l'Union européenne ;
 
@@ -46,7 +46,7 @@ Peuvent être mobilisés en application du présent article :
 
 Selon des modalités prévues par arrêté du ministre chargé de l'économie, le montant total des éléments d'actif mobilisés par les établissements de crédit doit être supérieur au montant des éléments de passif bénéficiant de la garantie de l'Etat.
 
-La Commission bancaire contrôle pour le compte de l'Etat dans les conditions prévues aux articles L. 613-6 à L. 613-11 du code monétaire et financier les conditions d'exploitation de la société mentionnée au premier alinéa et la qualité de sa situation financière.
+L'Autorité de contrôle prudentiel contrôle pour le compte de l'Etat dans les conditions prévues aux aux articles L. 612-23 à L. 612-27 et L. 612-44 du code monétaire et financier les conditions d'exploitation de la société mentionnée au premier alinéa et la qualité de sa situation financière.
 
 Les statuts de la société mentionnée au premier alinéa sont agréés par arrêté du ministre chargé de l'économie. Un commissaire du Gouvernement assiste aux séances de l'organe d'administration de cette société avec un droit de veto sur toute décision de nature à affecter les intérêts de l'Etat au titre de cette garantie.
 
