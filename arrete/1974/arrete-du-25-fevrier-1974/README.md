@@ -1,11 +1,5 @@
-# Arrêté du 25 février 1974 relatif aux montants et aux caractéristiques des prêts à la construction de logements primés
+# Arrêté du 25 février 1974 relatif à la composition et au fonctionnement des comités techniques nationaux et des comités techniques régionaux
 
 - [CHAPITRE I : Comités techniques nationaux.](chapitre-i)
-- [I - Prêts pour l'accession à la propriété.](i)
 - [CHAPITRE II : Comités techniques régionaux.](chapitre-ii)
-- [II - Prêts pour l'extension et la mise en état d'habitabilité.](ii)
 - [CHAPITRE III : Dispositions communes.](chapitre-iii)
-- [III - Prêts spéciaux destinés au financement des immeubles à loyer.](iii)
-- [IV - Prêts consentis pour le financement des prêts immobiliers conventionnés.](iv)
-- [V - Dispositions communes aux différentes catégories de prêts.](v)
-- [Dispositions communes aux différentes catégories de prêts.](dispositions-communes-aux)

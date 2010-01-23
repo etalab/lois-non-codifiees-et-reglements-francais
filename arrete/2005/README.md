@@ -673,7 +673,6 @@
 - [Arrêté du 30 mars 2005 (JUSK0540041A)](arrete-du-30-mars-2005-jusk0540041a)
 - [Arrêté du 30 mars 2005 (MAEF0410072A)](arrete-du-30-mars-2005-maef0410072a)
 - [Arrêté du 30 novembre 2004 (EQUA0401663A)](arrete-du-30-novembre-2004-equa0401663a)
-- [Arrêté du 30 septembre 2005 (DEFD0501364A)](arrete-du-30-septembre-2005-defd0501364a)
 - [Arrêté du 30 mai 2005 (EQUT0500507A)](arrete-du-30-mai-2005-equt0500507a)
 - [Arrêté du 30 mai 2005 (INTE0500364A)](arrete-du-30-mai-2005-inte0500364a)
 - [Arrêté du 30 mai 2005 (INTE0500365A)](arrete-du-30-mai-2005-inte0500365a)
