@@ -7,6 +7,7 @@
 - [Ordonnance n° 58-1210 du 13 décembre 1958](ordonnance-n-58-1210-du-13-decembre-1958)
 - [Ordonnance n° 58-1098 du 15 novembre 1958](ordonnance-n-58-1098-du-15-novembre-1958)
 - [Ordonnance n° 58-1230 du 16 décembre 1958](ordonnance-n-58-1230-du-16-decembre-1958)
+- [Ordonnance n° 58-967 du 16 octobre 1958](ordonnance-n-58-967-du-16-octobre-1958)
 - [Ordonnance n° 58-1099 du 17 novembre 1958](ordonnance-n-58-1099-du-17-novembre-1958)
 - [Ordonnance n° 58-1100 du 17 novembre 1958](ordonnance-n-58-1100-du-17-novembre-1958)
 - [Ordonnance n° 58-1259 du 19 décembre 1958](ordonnance-n-58-1259-du-19-decembre-1958)

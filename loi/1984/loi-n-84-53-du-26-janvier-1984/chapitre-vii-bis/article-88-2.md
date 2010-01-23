@@ -1,6 +1,6 @@
 # Article 88-2
 
-I.-Sont éligibles à la participation des collectivités territoriales et de leurs établissements publics les contrats et règlements en matière de santé ou de prévoyance remplissant la condition de solidarité prévue à l'article 22 bis de la loi n° 83-634 du 13 juillet 1983 précitée, attestée par la délivrance d'un label dans les conditions prévues à l'article L. 310-12 du code des assurances ou vérifiée dans le cadre de la procédure de mise en concurrence prévue au II du présent article.
+I.-Sont éligibles à la participation des collectivités territoriales et de leurs établissements publics les contrats et règlements en matière de santé ou de prévoyance remplissant la condition de solidarité prévue à l'article 22 bis de la loi n° 83-634 du 13 juillet 1983 précitée, attestée par la délivrance d'un label dans les conditions prévues à l'article 11 de l'ordonnance n° 2010-76 du 21 janvier 2010 portant fusion des autorités d'agrément et de contrôle de la banque et de l'assurance ou vérifiée dans le cadre de la procédure de mise en concurrence prévue au II du présent article.
 
 Ces contrats et règlements sont proposés par les organismes suivants :
 

@@ -36,7 +36,7 @@ Le directeur général de l'Institut national de la statistique et des études �
 
 Le médiateur ou son représentant ;
 
-Le secrétaire général de l'Autorité de contrôle des assurances et des mutuelles ou son représentant ;
+Le secrétaire général de l'Autorité de contrôle prudentiel ou son représentant ;
 
 Le haut fonctionnaire chargé de la terminologie et de la néologie.
 

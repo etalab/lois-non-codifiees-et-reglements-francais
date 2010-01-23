@@ -16,9 +16,9 @@ d) Un conseiller maître à la Cour des comptes désigné par le premier présid
 
 e) Un représentant de l'Autorité des marchés financiers désigné par le président de l'Autorité des marchés financiers ;
 
-f) Un représentant de la Commission bancaire désigné par le président de la Commission bancaire ;
+f) Un représentant de  l'Autorité de contrôle prudentiel désigné par le président de l'Autorité de contrôle prudentiel ;
 
-g) Un représentant de l'Autorité de contrôle des assurances et des mutuelles désigné par le président de l'Autorité de contrôle des assurances et des mutuelles ;
+g) Un représentant de l'Autorité de contrôle prudentiel désigné par le président de l'Autorité de contrôle prudentiel ;
 
 h) Huit personnes nommées, en raison de leur compétence économique et comptable, par le ministre chargé de l'économie après consultation des organisations représentatives des entreprises et des professionnels de la comptabilité ;
 

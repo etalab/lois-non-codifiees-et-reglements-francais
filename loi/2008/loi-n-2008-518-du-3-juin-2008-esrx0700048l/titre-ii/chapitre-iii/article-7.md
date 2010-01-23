@@ -6,7 +6,7 @@ I. ― Sont habilités à procéder aux contrôles nécessaires en vue de vérif
 
 2° Les agents habilités à effectuer des contrôles techniques à bord des aéronefs ;
 
-3° Les membres du corps de contrôle des assurances mentionné à l'article L. 310-13 du code des assurances ;
+3° Les membres du corps de contrôle des assurances mentionné à l'article L. 612-18 du code monétaire et financier ;
 
 4° Les agents mentionnés à l'article L. 1421-1 du code de la santé publique ;
 

@@ -1,6 +1,6 @@
 # Article 347-1
 
-La Commission bancaire peut reconnaître l'utilisation du modèle interne de l'établissement assujetti pour la mesure du risque spécifique si ce modèle répond aux conditions suivantes :
+L'Autorité de contrôle prudentiel  peut reconnaître l'utilisation du modèle interne de l'établissement assujetti pour la mesure du risque spécifique si ce modèle répond aux conditions suivantes :
 
 a) Il est apte à expliquer ex ante les variations historiques de valeur du portefeuille ;
 

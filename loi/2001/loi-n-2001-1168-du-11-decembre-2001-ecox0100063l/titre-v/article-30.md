@@ -6,7 +6,7 @@ Les actions représentatives du capital social de la caisse d'épargne et de pr�
 
 Les opérations visées au présent paragraphe ne donnent lieu ni à indemnité ni à perception d'impôts, droits ou taxes.
 
-II. - La caisse d'épargne et de prévoyance de Nouvelle-Calédonie est un établissement de crédit réputé agréé en qualité de banque par le comité des établissements de crédit et des entreprises d'investissement, et peut exercer toutes les opérations de banque dans le cadre prévu par les articles L. 511-9 et suivants du code monétaire et financier.
+II. - La caisse d'épargne et de prévoyance de Nouvelle-Calédonie est un établissement de crédit réputé agréé en qualité de banque par l'Autorité de contrôle prudentiel, et peut exercer toutes les opérations de banque dans le cadre prévu par les articles L. 511-9 et suivants du code monétaire et financier.
 
 Elle est affiliée de plein droit à la Caisse nationale des caisses d'épargne et de prévoyance visée au I.
 

@@ -1,6 +1,6 @@
 # Article 397-1
 
-Jusqu'au 31 décembre 2011, la Commission bancaire peut autoriser une entreprise d'investissement à déroger aux dispositions de l'article 2-4 lorsque les conditions suivantes sont respectées :
+Jusqu'au 31 décembre 2011, l'Autorité de contrôle prudentiel peut autoriser une entreprise d'investissement à déroger aux dispositions de l'article 2-4 lorsque les conditions suivantes sont respectées :
 
 a) L'entreprise d'investissement ne relève pas des articles 3-1 et 3-2 ;
 

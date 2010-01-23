@@ -8,10 +8,10 @@ Les succursales d'établissements de crédit ayant leur siège social dans un Et
 
 - le siège social confirme qu'il fera en sorte que sa succursale ait en France les fonds suffisants pour la couverture de ses engagements ;
 
-- l'autorité compétente du pays d'origine donne son accord à la demande, confirme la régularité de la situation de l'établissement et s'engage à informer la Commission bancaire de toute modification significative des conditions précitées.
+- l'autorité compétente du pays d'origine donne son accord à la demande, confirme la régularité de la situation de l'établissement et s'engage à informer l'Autorité de contrôle prudentiel de toute modification significative des conditions précitées.
 
-La Commission bancaire vérifie que les conditions ci-dessus sont satisfaites et, sous réserve que les établissements de crédit français puissent bénéficier d'un traitement équivalent de la part de l'autorité compétente de l'Etat d'origine, accorde aux succursales qui en font la demande le bénéfice du présent article.
+L'Autorité de contrôle prudentiel vérifie que les conditions ci-dessus sont satisfaites et, sous réserve que les établissements de crédit français puissent bénéficier d'un traitement équivalent de la part de l'autorité compétente de l'Etat d'origine, accorde aux succursales qui en font la demande le bénéfice du présent article.
 
-Les établissements concernés informent la Commission bancaire de toute évolution pertinente pour vérifier que les conditions ci-dessus continuent à être satisfaites de manière permanente.
+Les établissements concernés informent l'Autorité de contrôle prudentiel de toute évolution pertinente pour vérifier que les conditions ci-dessus continuent à être satisfaites de manière permanente.
 
-La Commission bancaire peut retirer le bénéfice du présent article à un établissement lorsqu'elle estime que l'une des conditions n'est plus remplie.
+l'Autorité de contrôle prudentiel peut retirer le bénéfice du présent article à un établissement lorsqu'elle estime que l'une des conditions n'est plus remplie.

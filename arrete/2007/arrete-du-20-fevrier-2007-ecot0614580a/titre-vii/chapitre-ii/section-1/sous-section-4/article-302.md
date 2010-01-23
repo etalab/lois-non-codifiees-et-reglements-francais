@@ -22,8 +22,8 @@ c) Les opérations de pension, de prêts ou emprunts de titres ou de produits de
 
 d) Les autres opérations avec des établissements de crédit ou entreprises d'investissement, lorsqu'elles financent un ou plusieurs autres éléments du portefeuille de négociation.
 
-Les établissements assujettis qui souhaitent inclure d'autres éléments dans leur portefeuille de négociation doivent en faire part préalablement au secrétariat général de la Commission bancaire. La Commission bancaire pourra s'y opposer.
+Les établissements assujettis qui souhaitent inclure d'autres éléments dans leur portefeuille de négociation doivent en faire part préalablement au secrétariat général de l'Autorité de contrôle prudentiel. L'Autorité de contrôle prudentiel pourra s'y opposer.
 
-Par ailleurs, la Commission bancaire pourra demander l'exclusion du portefeuille de négociation des éléments dont le caractère de négociabilité ne paraîtrait pas ou plus manifeste, notamment en l'absence de liquidité ou de négociation effectives, a fortiori dans l'hypothèse d'une durée de détention de ces instruments qui excéderait celle correspondant à l'intention d'une négociation rapide.
+Par ailleurs, l'Autorité de contrôle prudentiel pourra demander l'exclusion du portefeuille de négociation des éléments dont le caractère de négociabilité ne paraîtrait pas ou plus manifeste, notamment en l'absence de liquidité ou de négociation effectives, a fortiori dans l'hypothèse d'une durée de détention de ces instruments qui excéderait celle correspondant à l'intention d'une négociation rapide.
 
-En outre, la Commission bancaire peut s'opposer à la prise en compte dans le portefeuille de négociation d'éléments pour lesquels l'établissement assujetti ne dispose pas des moyens et de l'expérience nécessaires à leur gestion active ainsi que de systèmes de contrôle adéquats.
+En outre, l'Autorité de contrôle prudentiel peut s'opposer à la prise en compte dans le portefeuille de négociation d'éléments pour lesquels l'établissement assujetti ne dispose pas des moyens et de l'expérience nécessaires à leur gestion active ainsi que de systèmes de contrôle adéquats.

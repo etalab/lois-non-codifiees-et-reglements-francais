@@ -8,6 +8,6 @@ a) Les résultats réels doivent fournir une comparaison, pour chaque jour ouvra
 
 b) Les résultats hypothétiques se fondent sur une comparaison entre la mesure de la valeur en risque et l'écart entre la valeur du portefeuille en fin de journée et sa valeur, à positions inchangées, à la fin de la journée suivante.
 
-La Commission bancaire peut décider qu'un établissement assujetti effectue ses contrôles ex post uniquement sur une base hypothétique, ou uniquement sur une base réelle (à l'exclusion des commissions et des revenus nets d'intérêts), ou sur une base réelle et hypothétique.
+L'Autorité de contrôle prudentiel  peut décider qu'un établissement assujetti effectue ses contrôles ex post uniquement sur une base hypothétique, ou uniquement sur une base réelle (à l'exclusion des commissions et des revenus nets d'intérêts), ou sur une base réelle et hypothétique.
 
 La périodicité du contrôle ex post et de l'analyse des exceptions (lorsque la perte dépasse le risque calculé par le modèle) est au moins trimestrielle. À cet effet, les établissements assujettis doivent utiliser les données des 250 derniers jours ouvrables.

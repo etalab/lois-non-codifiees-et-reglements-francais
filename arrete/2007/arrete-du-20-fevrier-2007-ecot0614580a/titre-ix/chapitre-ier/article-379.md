@@ -1,6 +1,6 @@
 # Article 379
 
-La Commission bancaire peut exiger des établissements assujettis :
+L'Autorité de contrôle prudentiel  peut exiger des établissements assujettis :
 
 a) Qu'ils publient une ou plusieurs informations visées notamment au chapitre II du présent titre ;
 

@@ -2,17 +2,7 @@
 
 Sous réserve des dispositions de l'alinéa c de l'article 246, la pondération applicable à une position de titrisation est de 7 % ou la pondération déterminée conformément à la formule suivante lorsque cette dernière est plus élevée :
 
-12,5 x (S[L+T] - S[L])/T
-
-où :
-
-<div/>
-
-et :
-
-t = 1 000,
-
-= 20.
+Vous pouvez consulter la formule  dans le JO n° 51 du 01/03/2007 texte numéro 12
 
 - Beta [x ; a, b] est la valeur de la fonction de répartition de la loi beta au point x, paramétrée par a et b ;
 
@@ -26,7 +16,7 @@ t = 1 000,
 
 - ELGD est la valeur moyenne pondérée des pertes en cas de défaut des expositions titrisées, calculée comme suit :
 
-<div/>
+Vous pouvez consulter la formule  dans le JO n° 51 du 01/03/2007 texte numéro 12
 
 où :
 
@@ -38,7 +28,7 @@ La perte en cas de défaut est déterminée conformément aux dispositions du ti
 
 Lorsque la valeur exposée au risque de l'exposition titrisée la plus importante, C1, ne dépasse pas 3 % de la somme des valeurs exposées au risque de l'ensemble des expositions titrisées, les établissements assujettis retiennent une perte en cas de défaut de 50 % et attribuent à N, l'une des deux valeurs suivantes :
 
-<div/>
+Vous pouvez consulter la formule  dans le JO n° 51 du 01/03/2007 texte numéro 12
 
 où :
 
@@ -46,4 +36,4 @@ où :
 
 - Cm est le rapport entre la somme des valeurs exposées au risque des m principales expositions et la somme des valeurs exposées au risque de l'ensemble des expositions titrisées. Le niveau de m est fixé par l'établissement assujetti ;
 
-- pour les titrisations comprenant uniquement des expositions sur la clientèle de détail h et v sont égaux à zéro, sauf opposition de la Commission bancaire.
+- pour les titrisations comprenant uniquement des expositions sur la clientèle de détail h et v sont égaux à zéro, sauf opposition de l'Autorité de contrôle prudentiel.

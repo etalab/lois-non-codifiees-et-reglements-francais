@@ -119,6 +119,7 @@
 - [Arrêté du 13 octobre 2006 (BUDB0630071A)](arrete-du-13-octobre-2006-budb0630071a)
 - [Arrêté du 14 décembre 2006 (EQUT0602506A)](arrete-du-14-decembre-2006-equt0602506a)
 - [Arrêté du 14 juin 1979](arrete-du-14-juin-1979)
+- [Arrêté du 14 juin 2006 (ECOP0600362A)](arrete-du-14-juin-2006-ecop0600362a)
 - [Arrêté du 14 juin 2006 (MENE0601490A)](arrete-du-14-juin-2006-mene0601490a)
 - [Arrêté du 14 juin 2006 (METC0611229A)](arrete-du-14-juin-2006-metc0611229a)
 - [Arrêté du 14 juin 2006 (SANS0622496A)](arrete-du-14-juin-2006-sans0622496a)

@@ -10,6 +10,6 @@ a) Pour chaque portefeuille couvert :
 
 - une description du dispositif de contrôle ex post et de validation de l'exactitude et de la cohérence des modèles internes et des procédures de modélisation ;
 
-b) Le champ d'application de l'autorisation de la Commission bancaire ;
+b) Le champ d'application de l'autorisation de l'Autorité de contrôle prudentiel ;
 
 c) Une description de la mesure du respect des exigences visées à la section 2, chapitre II du titre VII et des méthodes appliquées à cet effet.

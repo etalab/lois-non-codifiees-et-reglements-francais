@@ -8,12 +8,79 @@ a) La mesure de la valeur en risque totale du jour précédent, calculée selon 
 
 b) La moyenne des mesures quotidiennes de la valeur en risque totale au cours des soixante jours ouvrables précédents, à laquelle est appliqué un coefficient multiplicateur, et à laquelle est ajoutée, le cas échéant, l'exigence additionnelle de fonds propres pour le risque de défaut additionnel calculé en application de la section 4.
 
-Le coefficient multiplicateur est attribué à chaque établissement assujetti par la Commission bancaire en fonction de la qualité de son système de gestion des risques, avec un minimum de 3, et majoré, le cas échéant, d'un facteur complémentaire variant entre 0 et 1, conformément au tableau ci-après, en fonction du nombre des dépassements mis en évidence par le contrôle ex post :
+Le coefficient multiplicateur est attribué à chaque établissement assujetti par l'Autorité de contrôle prudentiel en fonction de la qualité de son système de gestion des risques, avec un minimum de 3, et majoré, le cas échéant, d'un facteur complémentaire variant entre 0 et 1, conformément au tableau ci-après, en fonction du nombre des dépassements mis en évidence par le contrôle ex post :
 
-<div/>
+<table>
+<tbody>
+<tr>
+<td width="391">
+<p align="center">NOMBRE DE DÉPASSEMENTS</p>
+</td>
+<td width="273">
+<p align="center">FACTEUR<br/>complémentaire</p>
+</td>
+</tr>
+<tr>
+<td width="391">
+<p>Moins de 5</p>
+</td>
+<td width="273">
+<p align="center">0</p>
+</td>
+</tr>
+<tr>
+<td width="391">
+<p>5</p>
+</td>
+<td width="273">
+<p align="center">0,4</p>
+</td>
+</tr>
+<tr>
+<td width="391">
+<p>6</p>
+</td>
+<td width="273">
+<p align="center">0,5</p>
+</td>
+</tr>
+<tr>
+<td width="391">
+<p>7</p>
+</td>
+<td width="273">
+<p align="center">0,65</p>
+</td>
+</tr>
+<tr>
+<td width="391">
+<p>8</p>
+</td>
+<td width="273">
+<p align="center">0,75</p>
+</td>
+</tr>
+<tr>
+<td width="391">
+<p>9</p>
+</td>
+<td width="273">
+<p align="center">0,85</p>
+</td>
+</tr>
+<tr>
+<td width="391">
+<p>10 ou plus</p>
+</td>
+<td width="273">
+<p align="center">1</p>
+</td>
+</tr>
+</tbody>
+</table>
 
-Au cas où de nombreux dépassements révèlent que le modèle n'est pas suffisamment précis, la Commission bancaire peut ne plus reconnaître le modèle aux fins de calcul des exigences de fonds propres ou peut imposer des mesures appropriées afin qu'il soit rapidement amélioré.
+Au cas où de nombreux dépassements révèlent que le modèle n'est pas suffisamment précis, l'Autorité de contrôle prudentiel peut ne plus reconnaître le modèle aux fins de calcul des exigences de fonds propres ou peut imposer des mesures appropriées afin qu'il soit rapidement amélioré.
 
-Afin de permettre à la Commission bancaire de vérifier en permanence l'adéquation du facteur complémentaire, l'établissement assujetti informe sans délai et, en tout état de cause, dans les cinq jours ouvrables, le secrétariat général de la Commission bancaire, des dépassements révélés par leur programme de contrôle ex post qui, en fonction du tableau ci-dessus, impliqueraient un relèvement du facteur complémentaire.
+Afin de permettre à l'Autorité de contrôle prudentiel de vérifier en permanence l'adéquation du facteur complémentaire, l'établissement assujetti informe sans délai et, en tout état de cause, dans les cinq jours ouvrables, le secrétariat général de l'Autorité de contrôle prudentiel, des dépassements révélés par leur programme de contrôle ex post qui, en fonction du tableau ci-dessus, impliqueraient un relèvement du facteur complémentaire.
 
-En cas de non-utilisation du modèle interne ou en cas de non-reconnaissance du modèle par la Commission bancaire pour le traitement du risque spécifique, l'établissement assujetti recourt à la méthode décrite aux sections 2 et 3 du chapitre III et à la section 1 du chapitre VIII pour mesurer l'exigence de fonds propres relative à cette composante.
+En cas de non-utilisation du modèle interne ou en cas de non-reconnaissance du modèle par l'Autorité de contrôle prudentiel pour le traitement du risque spécifique, l'établissement assujetti recourt à la méthode décrite aux sections 2 et 3 du chapitre III et à la section 1 du chapitre VIII pour mesurer l'exigence de fonds propres relative à cette composante.

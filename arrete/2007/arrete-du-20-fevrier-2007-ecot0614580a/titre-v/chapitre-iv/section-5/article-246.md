@@ -6,7 +6,7 @@ a) Un facteur de conversion de 20 % est appliqué au montant nominal d'une ligne
 
 b) Un facteur de conversion de 0 % est appliqué au montant nominal d'une ligne de liquidité sous forme d'avance de trésorerie lorsque les conditions visées à l'article 229-2 sont respectées ;
 
-c) Lorsqu'un établissement assujetti ne peut calculer KIRB, la Commission bancaire peut autoriser, à titre exceptionnel et pour une période limitée, un établissement assujetti à appliquer la méthode ci-après aux lignes de liquidité ne bénéficiant pas d'une évaluation externe de crédit et respectant les conditions visées à l'article 228 ou à l'alinéa a du présent article :
+c) Lorsqu'un établissement assujetti ne peut calculer KIRB, l'Autorité de contrôle prudentiel peut autoriser, à titre exceptionnel et pour une période limitée, un établissement assujetti à appliquer la méthode ci-après aux lignes de liquidité ne bénéficiant pas d'une évaluation externe de crédit et respectant les conditions visées à l'article 228 ou à l'alinéa a du présent article :
 
 - la plus élevée des pondérations qui auraient été appliquées aux expositions titrisées conformément aux dispositions du titre II en l'absence de titrisation est appliquée à la ligne de liquidité ;
 

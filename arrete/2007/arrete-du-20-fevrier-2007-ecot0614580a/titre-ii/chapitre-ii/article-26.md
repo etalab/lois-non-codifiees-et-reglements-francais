@@ -4,7 +4,66 @@ Pour les expositions sous la forme d'investissements pris dans des parts d'organ
 
 a) Les établissements assujettis qui utilisent des évaluations externes de crédit pour pondérer les parts d'organismes de placement collectif qu'ils détiennent appliquent les taux de pondération suivants :
 
-<div/>
+<table>
+<tbody>
+<tr>
+<td width="350">
+<p align="center">ÉCHELON DE QUALITÉ<br/>de crédit</p>
+</td>
+<td width="350">
+<p align="center">CATÉGORIE<br/>de pondération</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="350">
+<p>1</p>
+</td>
+<td valign="top" width="350">
+<p align="center">20 %</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="350">
+<p>2</p>
+</td>
+<td valign="top" width="350">
+<p align="center">50 %</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="350">
+<p>3</p>
+</td>
+<td valign="top" width="350">
+<p align="center">100 %</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="350">
+<p>4</p>
+</td>
+<td valign="top" width="350">
+<p align="center">100 %</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="350">
+<p>5</p>
+</td>
+<td valign="top" width="350">
+<p align="center">150 %</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="350">
+<p>6</p>
+</td>
+<td valign="top" width="350">
+<p align="center">150 %</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 b) Lorsque l'établissement assujetti a connaissance des expositions sous-jacentes de l'organisme de placement collectif, il peut les pondérer selon une approche par transparence. Une pondération moyenne pour l'organisme de placement collectif est alors calculée conformément aux dispositions du présent titre ;
 
@@ -14,7 +73,7 @@ d) Pour l'application des deux alinéas précédents, les établissements assuje
 
 e) Les établissements assujettis peuvent appliquer les pondérations visées aux alinéas b à d, lorsque les conditions d'éligibilité suivantes sont respectées :
 
-i) l'organisme de placement collectif est géré par une société contrôlée par une autorité d'un Etat membre, ou d'un pays tiers lorsque le régime de surveillance de ce pays est jugé par la Commission bancaire équivalent aux dispositions en vigueur en France ;
+i) l'organisme de placement collectif est géré par une société contrôlée par une autorité d'un Etat membre, ou d'un pays tiers lorsque le régime de surveillance de ce pays est jugé par l'Autorité de contrôle prudentiel équivalent aux dispositions en vigueur en France ;
 
 ii) le prospectus de l'organisme de placement collectif ou un document équivalent, tel qu'un mandat de gestion, contient :
 

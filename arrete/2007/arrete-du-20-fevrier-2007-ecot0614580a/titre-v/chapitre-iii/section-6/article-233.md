@@ -6,7 +6,96 @@ Lorsque la titrisation ne prévoit pas de clause de rétention de la marge nette
 
 Les facteurs de conversion applicables sont déterminés en fonction du niveau de la marge nette moyenne sur trois mois, conformément au tableau ci-dessous :
 
-<div/>
+<table>
+<tbody>
+<tr>
+<td width="197"/>
+<td width="233">
+<p align="center">TITRISATION<br/>faisant l'objet d'une clause contrôlée de remboursement anticipé</p>
+</td>
+<td width="235">
+<p align="center">TITRISATION<br/>faisant l'objet d'une clause non contrôlée de remboursement anticipé</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Moyenne de 3 mois de marge nette</p>
+</td>
+<td width="233">
+<p align="center">Facteur de conversion</p>
+</td>
+<td width="235">
+<p align="center">Facteur de conversion</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Supérieur au niveau A</p>
+</td>
+<td width="233">
+<p align="center">0 %</p>
+</td>
+<td width="235">
+<p align="center">0 %</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Niveau A</p>
+</td>
+<td width="233">
+<p align="center">1 %</p>
+</td>
+<td width="235">
+<p align="center">5 %</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Niveau B</p>
+</td>
+<td width="233">
+<p align="center">2 %</p>
+</td>
+<td width="235">
+<p align="center">15 %</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Niveau C</p>
+</td>
+<td width="233">
+<p align="center">10 %</p>
+</td>
+<td width="235">
+<p align="center">50 %</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Niveau D</p>
+</td>
+<td width="233">
+<p align="center">20 %</p>
+</td>
+<td width="235">
+<p align="center">100 %</p>
+</td>
+</tr>
+<tr>
+<td width="197">
+<p>Niveau E</p>
+</td>
+<td width="233">
+<p align="center">40 %</p>
+</td>
+<td width="235">
+<p align="center">100 %</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 Une clause de remboursement anticipé est considérée comme contrôlée lorsque les conditions suivantes sont respectées :
 
@@ -30,6 +119,6 @@ Dans le tableau susvisé, on entend par :
 
 - niveau E : un niveau de marge nette inférieur à 25 % du seuil de rétention.
 
-Lorsque la titrisation comporte une clause de remboursement anticipé des expositions sur la clientèle de détail non confirmées et révocables sans condition à tout moment et sans préavis, et que le remboursement anticipé est déclenché par référence à un seuil quantitatif autre que la marge nette moyenne sur trois mois, la Commission bancaire peut appliquer un traitement différent pour déterminer le facteur de conversion. Ce traitement doit se rapprocher étroitement de celui visé à l'article précédent.
+Lorsque la titrisation comporte une clause de remboursement anticipé des expositions sur la clientèle de détail non confirmées et révocables sans condition à tout moment et sans préavis, et que le remboursement anticipé est déclenché par référence à un seuil quantitatif autre que la marge nette moyenne sur trois mois, l'Autorité de contrôle prudentiel peut appliquer un traitement différent pour déterminer le facteur de conversion. Ce traitement doit se rapprocher étroitement de celui visé à l'article précédent.
 
-La Commission bancaire consulte les autorités compétentes de tous les autres Etats membres de l'Union européenne et tient compte des opinions exprimées. Les opinions exprimées durant cette consultation et le traitement adopté sont rendus publics par la Commission bancaire.
+L'Autorité de contrôle prudentiel consulte les autorités compétentes de tous les autres Etats membres de l'Union européenne et tient compte des opinions exprimées. Les opinions exprimées durant cette consultation et le traitement adopté sont rendus publics par l'Autorité de contrôle prudentiel.

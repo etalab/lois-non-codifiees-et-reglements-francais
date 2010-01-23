@@ -2,9 +2,9 @@
 
 Les dispositions suivantes s'appliquent aux établissements utilisant les approches notations internes du risque de crédit visées au titre III :
 
-a) Par dérogation aux dispositions visées à l'article 38-4, la Commission bancaire peut autoriser un établissement assujetti qui entend utiliser l'approche notations internes fondation à appliquer une durée d'utilisation minimale d'un an jusqu'au 31 décembre 2009 ;
+a) Par dérogation aux dispositions visées à l'article 38-4, l'Autorité de contrôle prudentiel peut autoriser un établissement assujetti qui entend utiliser l'approche notations internes fondation à appliquer une durée d'utilisation minimale d'un an jusqu'au 31 décembre 2009 ;
 
-b) Par dérogation aux dispositions visées à l'article 38-4, la Commission bancaire peut autoriser un établissement assujetti qui entend utiliser l'approche notations internes avancée à appliquer une durée d'utilisation minimale de deux ans jusqu'au 31 décembre 2008 ;
+b) Par dérogation aux dispositions visées à l'article 38-4, l'Autorité de contrôle prudentiel peut autoriser un établissement assujetti qui entend utiliser l'approche notations internes avancée à appliquer une durée d'utilisation minimale de deux ans jusqu'au 31 décembre 2008 ;
 
 c) Jusqu'au 31 décembre 2010, le montant moyen pondéré des pertes en cas de défaut applicable à l'ensemble des prêts immobiliers faisant l'objet d'une hypothèque ou d'une sûreté d'effet équivalent, et qui ne bénéficie pas de garantie d'une administration centrale, ne peut être inférieur à 10 %. Cette moyenne est pondérée par les valeurs exposées au risque ;
 
