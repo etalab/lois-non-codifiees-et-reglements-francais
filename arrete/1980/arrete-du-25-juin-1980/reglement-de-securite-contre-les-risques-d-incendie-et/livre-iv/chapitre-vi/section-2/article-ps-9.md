@@ -1,6 +1,6 @@
 # Article PS 9
 
-Moyens de secours et communications radioélectriques
+Locaux non accessibles au public
 
 Les accès aux locaux non accessibles au public sont maintenus dégagés.
 
@@ -19,5 +19,3 @@ Les locaux techniques non liés à l'activité du parc tels que les chaufferies,
 § 3. Groupement d'établissements :
 
 Lorsque le parc de stationnement constitue une des activités d'un établissement ou d'un groupement d'établissements tel que défini dans les dispositions générales du règlement, les locaux techniques de cet établissement ou de ce groupement d'établissements sont admis dans le parc. Ils sont isolés du parc par des parois coupe-feu de degré 1 heure, REI 60 en cas de fonction porteuse, ou EI 60 avec des blocs portes pare-flammes de degré 1 heure équipés de ferme-portes ou E 60-C. Ces locaux ne doivent pas être ventilés sur le parc, ils peuvent l'être sur la rampe d'accès qui donne à l'air libre.
-
-§ 4. Si la continuité des communications relayées par l'infrastructure nationale partageable des transmissions n'est pas assurée, l'exploitant doit disposer d'une installation technique fixe conforme à l'article MS 71 des dispositions générales du règlement.

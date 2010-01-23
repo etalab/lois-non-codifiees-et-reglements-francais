@@ -2,6 +2,6 @@
 
 Chargement des batteries des véhicules électriques
 
-Le nombre d'équipements et bornes de recharge d'accumulateurs de véhicules électriques est limité à trois par établissement. Leur puissance unitaire ou cumulée maximale est de 10 kW.
+1. Le nombre de prises électriques destinées à effectuer la charge des véhicules électriques n'est pas limité.
 
-Le nombre de prises électriques et, d'une manière générale, de systèmes de charge destinés à effectuer la charge des véhicules équipés de batteries et d'un chargeur interne ne dégageant pas d'hydrogène, ainsi que leur puissance, ne sont pas limités.
+2. Le nombre d'équipements et bornes de recharge d'engins électriques de type levage, manutention, autolaveuses est limité à trois par établissement. Leur puissance unitaire ou cumulée maximale est de 10 kW.

@@ -26,7 +26,7 @@ Le degré coupe-feu minimal du plancher d'isolement entre un parc de stationneme
 
 § 4. Intercommunication avec un local ou établissement abritant une autre activité ou exploité par un tiers :
 
-- les intercommunications éventuellement aménagées dans les murs ou parois sont réalisées par un sas d'une surface minimale de 3 m² avec une largeur d'au moins 0,90 mètre. Leurs parois ont le même degré de résistance au feu que les murs ou parois traversés. Le sas dispose de deux portes uniquement, situées aux extrémités du sas, pare-flammes de degré 1/2 heure, équipées chacune d'un ferme-porte ou E 30-C, et s'ouvrant toutes les deux vers l'intérieur. Lorsque ces sas sont susceptibles d'être empruntés par des personnes à mobilité réduite, leur surface minimale est de 5 m². La largeur de ces sas et celle des circulations les reliant aux places de stationnement réservées aux personnes à mobilité réduite sont d'au moins 1,50 mètre.
+- les intercommunications éventuellement aménagées dans les murs ou parois sont réalisées par un sas d'une surface minimale de 3 m² avec une largeur d'au moins 0,90 mètre. Leurs parois ont le même degré de résistance au feu que les murs ou parois traversés. Le sas dispose de deux portes uniquement, situées aux extrémités du sas, pare-flammes de degré 1/2 heure, équipées chacune d'un ferme-porte ou E 30-C, et s'ouvrant toutes les deux vers l'intérieur.
 
 Tout autre dispositif est autorisé après avis de la commission de sécurité compétente.
 

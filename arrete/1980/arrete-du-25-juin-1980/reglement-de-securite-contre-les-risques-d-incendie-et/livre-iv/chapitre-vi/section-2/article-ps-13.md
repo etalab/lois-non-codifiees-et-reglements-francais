@@ -40,9 +40,9 @@ Les escaliers sont réalisés en matériaux A1.
 
 - dans les autres cas, par un sas d'une surface minimale de 3 m² isolé dans les conditions précisées au paragraphe 4 ci-dessus et disposant de portes s'ouvrant vers l'intérieur, pare-flammes de degré 1/2 heure et équipées de ferme-porte ou E 30-C. La distance entre la porte d'accès au sas en venant du parc et la porte d'accès à l'escalier est inférieure à 10 mètres. Un sas peut toutefois être commun à deux compartiments au plus, contigus et installés au même niveau. Il ne contient ni dépôt de matériel ou de matériau, ni armoire ou tableau électrique.
 
-§ 6. Si, au niveau de la sortie, des escaliers du parc aboutissent dans une même allée de circulation réservée aux piétons, cette dernière est d'une largeur égale à autant d'unités de passage qu'il y a d'escaliers y aboutissant avec une largeur d'au moins 0,90 mètre. Cette allée commune réservée aux piétons comporte au moins deux sorties judicieusement réparties et disposées de manière à éviter les culs-de-sac. Elle est isolée du reste du parc dans les conditions précisées au paragraphe 4 ci-dessus.
+§ 6 a) Si, au niveau de la sortie, des escaliers du parc aboutissent dans une même allée de circulation réservée aux piétons, cette dernière est d'une largeur égale à autant d'unités de passage qu'il y a d'escaliers y aboutissant avec une largeur d'au moins 0,90 mètre. Cette allée commune réservée aux piétons comporte au moins deux sorties judicieusement réparties et disposées de manière à éviter les culs-de-sac. Elle est isolée du reste du parc dans les conditions précisées au paragraphe 4 ci-dessus.
 
-Si les escaliers aboutissent à une porte donnant à l'air libre, cette porte doit comporter une ouverture d'une surface minimale de 30 dm² en partie haute.
+b) Si des escaliers du parc aboutissent à une porte donnant à l'air libre, cette porte doit comporter une ouverture d'une surface minimale de 30 décimètres carrés en partie haute.
 
 § 7. Les portes ou dispositifs de franchissement à l'usage des piétons pour sortir du parc de stationnement sont ouvrables par une seule manœuvre simple depuis l'intérieur du parc.
 

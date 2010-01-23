@@ -58,11 +58,7 @@ Dans ce dernier cas, les ouvertures d'amenées d'air sont d'une surface minimale
 
 Les conduits verticaux d'évacuation ne comportent pas plus de deux dévoiements. L'angle avec la verticale de ces dévoiements n'excède pas 20 degrés.
 
-La longueur des raccordements horizontaux d'étage des conduits d'évacuation, dits traînasses, n'excède pas deux mètres, sauf si l'efficacité du désenfumage est démontrée dans les conditions définies au § 5 suivant.
-
-Ces dispositions s'appliquent aussi aux conduits des amenées d'air naturel d'un système de désenfumage mécanique.
-
-Dans ce dernier cas, les ouvertures d'amenées d'air sont d'une surface minimale de 9 décimètres carrés par véhicule lorsque le débit d'extraction exigé est de 900 mètre cubes par heure et d'une surface minimale de 6 décimètres carrés par véhicule lorsque le débit d'extraction exigé est de 600 mètres cubes par heure.
+La longueur des raccordements horizontaux d'étage des conduits d'évacuation, dits traînasses, n'excède pas deux mètres, sauf si l'efficacité du désenfumage est démontrée dans les conditions définies au paragraphe 5 suivant.
 
 4.2.2. Conduits de désenfumage naturel et mécanique :
 

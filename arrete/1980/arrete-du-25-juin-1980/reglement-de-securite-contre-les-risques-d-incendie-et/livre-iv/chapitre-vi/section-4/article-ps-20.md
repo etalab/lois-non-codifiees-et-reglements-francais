@@ -26,7 +26,7 @@ Les câbles d'alimentation des installations de désenfumage propres à un compa
 
 § 3. Si la capacité d'accueil du parc est supérieure à 500 véhicules, l'alimentation électrique des installations de sécurité est réalisée au moyen d'une alimentation électrique de sécurité conforme à la NF S 61-940. Dans ce cas, il est admis que pour son dimensionnement soit seule prise en compte la puissance électrique totale des moteurs des ventilateurs de désenfumage mécanique des deux compartiments les plus contraignants en capacité d'accueil des véhicules.
 
-Lorsque l'alimentation électrique de sécurité est assurée par un groupe électrogène, le temps de commutation ne peut être supérieur à 15 secondes conformément aux dispositions de la norme NF EN 37-312.
+Lorsque l'alimentation électrique de sécurité est assurée par un groupe électrogène, le temps de commutation ne peut être supérieur à 15 secondes conformément aux dispositions de la norme NF E 37-312.
 
 En l'absence de détection incendie dans le parc, il est admis de ne pas réaliser automatiquement la neutralisation des sécurités liées au fonctionnement du groupe Cette neutralisation est commandée localement ou à distance par une action manuelle en cas d'incendie et d'une absence simultanée d'alimentation électrique normale.
 
