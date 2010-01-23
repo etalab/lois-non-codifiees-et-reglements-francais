@@ -285,7 +285,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <tr>
 <td align="center">III<br/>
 </td>
-<td align="center">Formateur  Lutte contre l'illettrisme/remédiation linguistique .<br/>
+<td align="center">Formateur Lutte contre l'illettrisme/remédiation linguistique .<br/>
 </td>
 <td align="center">333t<br/>
 </td>
@@ -621,13 +621,20 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <tr>
 <td align="center">I<br/>
 </td>
-<td align="center">Consultant technique.<br/>
+<td align="center">
+<p align="left">Consultant technique.<br/>
+</p>
 </td>
-<td align="center">315n<br/>
+<td align="center">
+<p align="center">315n<br/>
+</p>
 </td>
-<td align="center">3 ans<br/>
+<td align="center">
+<p align="center">3 ans<br/>
+</p>
 </td>
-<td align="center">INSTITUT POUR L'EMPLOI (IPE).<br/>
+<td align="center">
+<p align="left">Institut pour l'expertise (IpE)</p>
 </td>
 </tr>
 <tr>
