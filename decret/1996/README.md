@@ -762,7 +762,6 @@
 - [Décret n°96-873 du 30 septembre 1996 (JUSC9620715D)](decret-n96-873-du-30-septembre-1996-jusc9620715d)
 - [Décret n°96-874 du 30 septembre 1996 (EQUB9600959D)](decret-n96-874-du-30-septembre-1996-equb9600959d)
 - [Décret n°96-947 du 30 octobre 1996 (AGRR9602157D)](decret-n96-947-du-30-octobre-1996-agrr9602157d)
-- [Décret n°96-956 du 30 octobre 1996 (JUSF9650088D)](decret-n96-956-du-30-octobre-1996-jusf9650088d)
 - [Décret n°96-967 du 30 octobre 1996 (ACVP9520053D)](decret-n96-967-du-30-octobre-1996-acvp9520053d)
 - [Décret n°96-979 du 30 octobre 1996 (LOGC9633348D)](decret-n96-979-du-30-octobre-1996-logc9633348d)
 - [Décret n°98-666 du 30 juillet 1998 (EQUA9800711D)](decret-n98-666-du-30-juillet-1998-equa9800711d)
