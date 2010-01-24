@@ -32,9 +32,9 @@ Les mesures préventives retenues par le premier paragraphe de l'article AM 8 so
 
 Par convention est appelé :
 
--  isolant combustible , tout produit d'isolation non classé au moins A2 - s2, d0 ou A2FL - s1 ;
+- isolant combustible , tout produit d'isolation non classé au moins A2 - s2, d0 ou A2FL - s1 ;
 
--  écran , un écran de protection thermique.
+- écran , un écran de protection thermique.
 
 Le présent document introduit :
 
@@ -82,7 +82,13 @@ L'écran de protection doit être fixé mécaniquement, soit directement à la p
 
 - pour les écrans utilisés au sol ;
 
-- aux complexes de doublage, mis en oeuvre par collage sur des parois verticales, conformément à la norme NF P 72-204 (DTU 25.42), dans des locaux de hauteur libre entre planchers inférieure à 3 m ;
+- aux complexes de doublage, de longueur maximale de 3 mètres, mis en œuvre par collage sur des parois verticales dans des locaux de hauteur libre entre planchers inférieure à 4 mètres. La jonction de complexes superposés est réalisée au droit d'un tasseau horizontal en bois de largeur minimale d'appui de 50 millimètres et d'épaisseur égale à celle de l'isolant augmentée de 10 millimètres. Ce tasseau est fixé soit directement à la paroi support, soit au moyen d'équerres métalliques ; .
+
+Les dispositions des deux premiers alinéas du 3 de la section I-3. 2 du guide d'emploi des isolants combustibles dans les établissements recevant du public sont remplacées par les dispositions suivantes :
+
+Dans le cas des toitures légères (donc autres que celles visées en II. 1. 2. 1), le recoupement est réalisé, au droit des écrans de cantonnement, par l'interposition d'une barrière étanche au flux thermique, aux effluents gazeux et matières fondues. Il en est de même au droit des parois verticales intérieures résistantes au feu, s'arrêtant en sous-face de toiture, lorsque leur degré de résistance au feu est supérieur à une demi-heure.
+
+Cette barrière, de largeur minimale de 30 centimètres et fixée mécaniquement, doit être réalisée en l'un des matériaux isolants acceptés comme écran de protection en II. 1. 2. 2. Toutefois, dans le cas de toitures à lame d'air ventilée en sous-face de la couverture, la barrière de recoupement est constituée d'une pièce de bois massif de largeur minimale de 7 centimètres ;
 
 - aux écrans constitués de verre cellulaire, la mise en oeuvre s'effectuant par collage au bitume.
 
@@ -144,9 +150,91 @@ Revêtements intérieurs en bois massifs ou panneaux dérivés du bois :
 
 Tableau 1
 
-Vous pouvez consulter le tableau dans le JO
-
-n° 302 du 29/12/2004 texte numéro 6
+<table>
+<tbody>
+<tr>
+<td width="477">
+<p align="center">NATURE DU REVÊTEMENT</p>
+</td>
+<td width="121">
+<p align="center">MASSE VOLUMIQUE<br/>(kg/m3)</p>
+</td>
+<td width="83">
+<p align="center">ÉPAISSEUR (mm)</p>
+</td>
+</tr>
+<tr>
+<td width="477">
+<p>Bois massif</p>
+</td>
+<td width="121">
+<p align="center">e &lt; 600</p>
+<p align="center">e <u>&gt;</u> 600</p>
+</td>
+<td width="83">
+<p align="center">18</p>
+<p align="center">14</p>
+</td>
+</tr>
+<tr>
+<td width="477">
+<p>Panneau de contreplaqué</p>
+</td>
+<td width="121">
+<p align="center">450 <u>&lt;</u> e &lt; 600</p>
+<p align="center">e <u>&gt;</u> 600</p>
+</td>
+<td width="83">
+<p align="center">21</p>
+<p align="center">18</p>
+</td>
+</tr>
+<tr>
+<td width="477">
+<p>Panneau de particules</p>
+</td>
+<td width="121">
+<p align="center">e <u>&gt;</u> 600</p>
+</td>
+<td width="83">
+<p align="center">16</p>
+</td>
+</tr>
+<tr>
+<td width="477">
+<p>Panneau de particules agglomérées au ciment</p>
+</td>
+<td width="121">
+<p align="center">e <u>&gt;</u> 1 000</p>
+</td>
+<td width="83">
+<p align="center">12</p>
+</td>
+</tr>
+<tr>
+<td width="477">
+<p>Panneau de lamelles minces orientées (OSB)</p>
+</td>
+<td width="121">
+<p align="center">e <u>&gt;</u> 600</p>
+</td>
+<td width="83">
+<p align="center">18</p>
+</td>
+</tr>
+<tr>
+<td width="477">
+<p>Panneau de fibres moyenne densité (MDF)</p>
+</td>
+<td width="121">
+<p align="center">e <u>&gt;</u> 600</p>
+</td>
+<td width="83">
+<p align="center">18</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 Pour les bois massifs, les épaisseurs considérées ci-avant sont les épaisseurs finies et non les épaisseurs commerciales des bois de sciage. Par ailleurs, il s'agit d'épaisseurs effectives, y compris au droit des usinages en rives ou en partie courante, à l'exception de ceux dont la profondeur n'excède pas 3 mm et des joints réalisés sur appui.
 
@@ -194,9 +282,62 @@ Ecrans constitués d'un seul matériau :
 
 Tableau 2
 
-Vous pouvez consulter le tableau dans le JO
-
-n° 302 du 29/12/2004 texte numéro 6
+<table>
+<tbody>
+<tr>
+<td width="586">
+<p align="center">MATÉRIAU CONSTITUTIF DE L'ÉCRAN</p>
+</td>
+<td width="95">
+<p align="center">ÉPAISSEUR (mm)</p>
+</td>
+</tr>
+<tr>
+<td width="586">
+<p>Bois massif e &lt; 600 kg/m3</p>
+</td>
+<td width="95">
+<p align="center">30</p>
+</td>
+</tr>
+<tr>
+<td width="586">
+<p>Bois massif e <u>&gt;</u> 600 kg/m3</p>
+</td>
+<td width="95">
+<p align="center">26</p>
+</td>
+</tr>
+<tr>
+<td width="586">
+<p>Panneau de contreplaqué : </p>
+<p>e &lt; 600 kg/m3</p>
+<p>e <u>&gt;</u> 600 kg/m3 </p>
+</td>
+<td width="95">
+<br/>
+<p align="center">40</p>
+<p align="center">35</p>
+</td>
+</tr>
+<tr>
+<td width="586">
+<p>Panneau de particules e <u>&gt;</u> 600 kg/m3</p>
+</td>
+<td width="95">
+<p align="center">32</p>
+</td>
+</tr>
+<tr>
+<td width="586">
+<p>Panneau de lamelles minces orientées (OSB)</p>
+</td>
+<td width="95">
+<p align="center">35</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 Pour les bois massifs, les épaisseurs considérées dans ce tableau sont les épaisseurs finies et non pas les épaisseurs commerciales des bois de sciage. Par ailleurs, il s'agit d'épaisseurs effectives y compris au droit des usinages en rives ou en partie courante, à l'exception de celles dont la profondeur n'excède pas 3 mm et des joints réalisés sur appui.
 
@@ -206,9 +347,134 @@ Les associations réputées satisfaisantes sont données dans le tableau 3.
 
 Tableau 3
 
-Vous pouvez consulter le tableau dans le JO
-
-n° 302 du 29/12/2004 texte numéro 6
+<table>
+<tbody>
+<tr>
+<td colspan="2" rowspan="3" width="265">
+<p align="center">ÉLÉMENT PORTEUR<br/>à renforcer dans sa fonction écran</p>
+</td>
+<td colspan="3" width="397">
+<p align="center">COMPLÉMENT DE PROTECTION POSSIBLE (3) (4) (AU CHOIX)</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" width="397">
+<p align="center">Epaisseur</p>
+</td>
+</tr>
+<tr>
+<td width="132">
+<p align="center">Panneau de particules (rapporté sur l'une des faces de l'élément porteur)</p>
+</td>
+<td width="132">
+<p align="center">Plaque de parement en plâtre (rapportée sur l'une des faces de l'élément porteur)</p>
+</td>
+<td width="132">
+<p align="center">Laine de roche ou perlite</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" width="133">
+<p align="center">Lames de bois massif rainées-bouvetées Epaisseur 22 mm</p>
+</td>
+<td width="132">
+<p align="center">e &lt; 600 kg/m3</p>
+</td>
+<td width="132">
+<p align="center">10 mm</p>
+</td>
+<td width="132">
+<p align="center">9,5 mm</p>
+</td>
+<td width="132">
+<p align="center">30 mm</p>
+</td>
+</tr>
+<tr>
+<td width="132">
+<p align="center">e <u>&gt;</u> 600 kg/m3</p>
+</td>
+<td width="132">
+<p align="center">8 mm</p>
+</td>
+<td width="132">
+<p align="center">9,5 mm</p>
+</td>
+<td width="132">
+<p align="center">30 mm</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" width="265">
+<p align="center">Panneau de particules e <u>&gt;</u> 600 kg/m3 </p>
+<p align="center">Epaisseur 18 mm</p>
+</td>
+<td width="132">
+<p align="center">14 mm</p>
+</td>
+<td width="132">
+<p align="center">9,5 mm</p>
+</td>
+<td width="132">
+<p align="center">30 mm</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" width="265">
+<p align="center">Panneau à lames orientées (OSB)</p>
+<p align="center">Epaisseur 15 mm</p>
+</td>
+<td width="132">
+<p align="center">18 mm</p>
+</td>
+<td width="132">
+<p align="center">12,5 mm</p>
+</td>
+<td width="132">
+<p align="center">40 mm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" width="133">
+<p align="center">Panneau de contreplaqué</p>
+</td>
+<td width="132">
+<p align="center">Epaisseur (1) 10 mm</p>
+</td>
+<td width="132">
+<p align="center">22 mm</p>
+</td>
+<td width="132">
+<p align="center">15 mm</p>
+</td>
+<td width="132">
+<p align="center">40 mm</p>
+</td>
+</tr>
+<tr>
+<td width="132">
+<p align="center">Epaisseur (2) 12 mm</p>
+</td>
+<td width="132">
+<p align="center">20 mm</p>
+</td>
+<td width="132">
+<p align="center">15 mm</p>
+</td>
+<td width="132">
+<p align="center">40 mm</p>
+</td>
+</tr>
+<tr>
+<td colspan="5" width="662">
+<p>(1) Epaisseur minimale prescrite par le DTU n° 43.4 pour les panneaux portés sur leurs quatre rives. </p>
+<p>(2) Epaisseur minimale prescrite par ce même document pour les panneaux dont les rives perpendiculaires aux appuis ne sont pas supportées. </p>
+<p>(3) Seule la face inférieure répond à AM 4. </p>
+<p>(4) Fixé mécaniquement aux appuis du premier lit si rapporté en face inférieure. </p>
+</td>
+</tr>
+</tbody>
+</table>
 
 II-1.2.4. Ecran en sous-face de toitures
 
@@ -254,9 +520,9 @@ Divers types d'essai sont susceptibles d'apporter les informations nécessaires,
 
 - la norme EN 14135 (revêtements - détermination de la capacité de protection contre l'incendie) ;
 
-- la norme expérimentale ENV 13381 (méthodes d'essais pour déterminer la contribution à la résistance au feu des éléments de construction). - Partie 1  Membranes de protection horizontales . - Partie 2  Membranes de protection verticales  ;
+- la norme expérimentale ENV 13381 (méthodes d'essais pour déterminer la contribution à la résistance au feu des éléments de construction). - Partie 1 Membranes de protection horizontales . - Partie 2 Membranes de protection verticales ;
 
-- l'annexe 1 (essais de caractérisation des matériaux) du DTU  règles bois feu 88 .
+- l'annexe 1 (essais de caractérisation des matériaux) du DTU règles bois feu 88 .
 
 Pour être pertinentes, les informations requises doivent être tirées de l'examen d'une maquette composée :
 
@@ -330,7 +596,7 @@ L'organisme procédera au choix du ou des modèles pertinents d'action thermique
 
 D'une manière générale, deux grandes familles d'actions thermiques peuvent être distinguées :
 
-- la courbe température temps normalisée, qui sera systématiquement considérée dans le cas des  petits  locaux ;
+- la courbe température temps normalisée, qui sera systématiquement considérée dans le cas des petits locaux ;
 
 - le feu localisé, pour les locaux dans lesquels, de par leurs dimensions et la charge calorifique contenue, la survenance d'une situation d'embrasement généralisé pourrait être exclue.
 
