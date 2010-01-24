@@ -10,4 +10,4 @@ En cas de dissolution ou de suspension du conseil d'administration, un administr
 
 Lorsque le conseil d'administration a été dissous, il est procédé à la désignation d'un nouveau conseil dans les quatre mois de la dissolution.
 
-Si les irrégularités ou la mauvaise gestion sont imputables à un ou plusieurs membres du conseil d'administration, ceux-ci peuvent être révoqués par arrêté conjoint du ministre chargé de la sécurité sociale, du ministre chargé du budget et du ministre chargé de l'énergie après avis de ce conseil.
+Si les irrégularités ou la mauvaise gestion sont imputables à un ou plusieurs membres du conseil d'administration, ceux-ci peuvent être révoqués par arrêté conjoint du ministre chargé de la sécurité sociale et du ministre chargé du budget après avis de ce conseil.

@@ -30,7 +30,7 @@ Perdent le bénéfice de leur mandat :
 
 2° Les personnes dont le remplacement est demandé par l'organisation qui a procédé à leur désignation.
 
-III. - Les membres du conseil d'administration de la caisse sont nommés par arrêté conjoint du ministre chargé de la sécurité sociale, du ministre chargé du budget et du ministre chargé de l'énergie. La durée de leur mandat est fixée à cinq ans.
+III. - Les membres du conseil d'administration de la caisse sont nommés par arrêté conjoint du ministre chargé de la sécurité socialeet du ministre chargé du budget. La durée de leur mandat est fixée à cinq ans.
 
 IV. - Il est interdit à tout administrateur de demeurer ou de devenir membre du personnel de la caisse ou de recevoir, sous quelque forme que ce soit, des rémunérations à l'occasion du fonctionnement de la caisse. L'administrateur qui ne respecte pas cette interdiction est déclaré démissionnaire d'office par le conseil d'administration ou, à défaut, par le ministre chargé de la sécurité sociale.
 

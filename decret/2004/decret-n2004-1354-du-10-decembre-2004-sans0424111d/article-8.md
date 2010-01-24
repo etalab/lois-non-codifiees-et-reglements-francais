@@ -1,6 +1,6 @@
 # Article 8
 
-I.-La Caisse nationale des industries électriques et gazières gère cinq sections comptables relatives respectivement :
+I. - La Caisse nationale des industries électriques et gazières gère cinq sections comptables relatives respectivement :
 
 -à l'assurance vieillesse ;
 
@@ -18,8 +18,8 @@ La caisse tient par ailleurs une comptabilité spécifique relative à la contri
 
 -aux prestations prises en charge en application du II de l'article 1er.
 
-II.-La caisse établit, pour chaque exercice, un état prévisionnel des charges et des produits des sections relatives à l'assurance vieillesse, à l'assurance invalidité, à l'assurance décès, aux accidents du travail et maladies professionnelles, à la contribution tarifaire d'acheminement, aux contributions exceptionnelles, forfaitaires et libératoires ainsi qu'aux prestations prises en charge en application du II de l'article 1er. Cet état est communiqué, avant le 1er juin de chaque année, au ministre chargé de la sécurité sociale, au ministre chargé du budget et au ministre chargé de l'énergie.
+II. - La caisse établit, pour chaque exercice, un état prévisionnel des charges et des produits des sections relatives à l'assurance vieillesse, à l'assurance invalidité, à l'assurance décès, aux accidents du travail et maladies professionnelles, à la contribution tarifaire d'acheminement, aux contributions exceptionnelles, forfaitaires et libératoires ainsi qu'aux prestations prises en charge en application du II de l'article 1er. Cet état est communiqué, avant le 1er juin de chaque année, au ministre chargé de la sécurité sociale et au ministre chargé du budget.
 
-III.-La section de la gestion administrative retrace les charges et les produits relatifs aux dépenses de fonctionnement et aux dotations en capital.
+III. - La section de la gestion administrative retrace les charges et les produits relatifs aux dépenses de fonctionnement et aux dotations en capital.
 
-IV.-Les comptes annuels sont établis par l'agent comptable et arrêtés par le directeur. Les comptes annuels sont ensuite présentés par le directeur et l'agent comptable au conseil d'administration.
+IV. - Les comptes annuels sont établis par l'agent comptable et arrêtés par le directeur. Les comptes annuels sont ensuite présentés par le directeur et l'agent comptable au conseil d'administration.
