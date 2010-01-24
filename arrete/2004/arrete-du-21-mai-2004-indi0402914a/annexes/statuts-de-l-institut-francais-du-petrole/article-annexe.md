@@ -4,17 +4,17 @@ TITRE Ier : GÉNÉRALITÉS
 
 Article 1er
 
-Les présents statuts régissent l'établissement professionnel dénommé "Institut français du pétrole".
+Les présents statuts régissent l'établissement professionnel dénommé " Institut français du pétrole ".
 
 Article 2
 
 L'Institut français du pétrole a pour objet, en ce qui concerne les hydrocarbures, leurs dérivés et substituts et leur utilisation, les activités suivantes :
 
-- provoquer ou effectuer les études et les recherches présentant un intérêt pour le développement des connaissances scientifiques et des techniques industrielles, et valoriser sous toutes formes le résultat de ses travaux ;
+-provoquer ou effectuer les études et les recherches présentant un intérêt pour le développement des connaissances scientifiques et des techniques industrielles, et valoriser sous toutes formes le résultat de ses travaux ;
 
-- former les personnes capables de participer au développement des connaissances nouvelles, à leur diffusion et à leur application effectives ;
+-former les personnes capables de participer au développement des connaissances nouvelles, à leur diffusion et à leur application effectives ;
 
-- documenter les administrations, l'industrie, les techniciens et les chercheurs sur les connaissances scientifiques et les techniques industrielles.
+-documenter les administrations, l'industrie, les techniciens et les chercheurs sur les connaissances scientifiques et les techniques industrielles.
 
 Il peut, pour valoriser les résultats de ses activités, prendre des participations dans des sociétés industrielles ou commerciales. Ces participations peuvent être détenues par une ou plusieurs structures juridiques créées à cet effet.
 
@@ -34,7 +34,7 @@ Pour l'exercice des pouvoirs qu'il détient de l'article 8 et pour la préparati
 
 Article 5
 
-Le contrôle de l'Etat sur l'institut et ses filiales est exercé par le directeur des ressources énergétiques et minérales, commissaire du Gouvernement, et par le chef de la mission économique et financière du pétrole, de la chimie et des recherches géologiques, conformément au décret n° 2003-204 du 5 mars 2003, et dans les conditions prévues par le décret n° 55-733 du 26 mai 1955 modifié.
+Le contrôle de l'Etat sur l'institut et ses filiales est exercé par le directeur des ressources énergétiques et minérales, commissaire du Gouvernement, et par le chef de la service économique  et financière du pétrole, de la chimie et des recherches géologiques, conformément au décret n° 2003-204 du 5 mars 2003, et dans les conditions prévues par le décret n° 55-733 du 26 mai 1955 modifié.
 
 Article 6
 
@@ -94,13 +94,13 @@ Les membres du conseil d'administration sont désignés par un arrêté conjoint
 
 Les fonctions de membre du conseil d'administration prennent fin automatiquement à l'âge de soixante-cinq ans. En cas de vacance d'un ou de plusieurs sièges de membre du conseil d'administration, l'effectif du conseil est complété selon la même procédure pour la durée du mandat restant à courir du ou des membres remplacés.
 
-Les membres du conseil d'administration ne peuvent percevoir, à raison de leurs fonctions, aucune rémunération, rétribution, indemnité ou autre avantage matériel, sauf dérogation approuvée par le commissaire du Gouvernement et le chef de la mission économique et financière.
+Les membres du conseil d'administration ne peuvent percevoir, à raison de leurs fonctions, aucune rémunération, rétribution, indemnité ou autre avantage matériel, sauf dérogation approuvée par le commissaire du Gouvernement et le chef de la service économique  et financière.
 
-Le commissaire du Gouvernement et le chef de la mission économique et financière assistent aux réunions du conseil d'administration ou peuvent s'y faire représenter. En outre, quatre représentants élus du personnel assistent aux réunions du conseil.
+Le commissaire du Gouvernement et le chef de la service économique  et financière assistent aux réunions du conseil d'administration ou peuvent s'y faire représenter. En outre, quatre représentants élus du personnel assistent aux réunions du conseil.
 
 Article 10
 
-Le conseil d'administration se réunit sur convocation de son président au moins quatre fois par an. Il peut également être réuni à la demande soit de la moitié au moins de ses membres, soit du commissaire du Gouvernement ou du chef de la mission économique et financière.
+Le conseil d'administration se réunit sur convocation de son président au moins quatre fois par an. Il peut également être réuni à la demande soit de la moitié au moins de ses membres, soit du commissaire du Gouvernement ou du chef de la service économique  et financière.
 
 La convocation doit être adressée aux membres du conseil d'administration huit jours francs avant la date retenue. Elle doit impérativement indiquer le lieu, la date et l'heure de la réunion ainsi que l'ordre du jour.
 
@@ -114,9 +114,9 @@ La question qui a fait l'objet d'une consultation écrite selon la procédure d'
 
 Les lettres, télécopies ou courriers électroniques par lesquels les membres du conseil d'administration ont exprimé leur position sont annexés au procès-verbal de la séance du conseil d'administration.
 
-Le commissaire du Gouvernement et le chef de la mission économique et financière sont saisis de la procédure exceptionnelle d'urgence au plus tard en même temps que les membres du conseil d'administration. Ils sont tenus informés du résultat des consultations du conseil d'administration faites en utilisant la procédure exceptionnelle d'urgence.
+Le commissaire du Gouvernement et le chef de la service économique  et financière sont saisis de la procédure exceptionnelle d'urgence au plus tard en même temps que les membres du conseil d'administration. Ils sont tenus informés du résultat des consultations du conseil d'administration faites en utilisant la procédure exceptionnelle d'urgence.
 
-La ou les décisions sont adoptées à l'issue de la consultation aux conditions de majorité prévues par l'article 11 des présents statuts et sont exécutoires de plein droit sauf si, dans un délai d'un jour ouvré après avoir été informés du résultat de la consultation par tout moyen écrit, le commissaire du Gouvernement ou le chef de la mission économique et financière y font opposition.
+La ou les décisions sont adoptées à l'issue de la consultation aux conditions de majorité prévues par l'article 11 des présents statuts et sont exécutoires de plein droit sauf si, dans un délai d'un jour ouvré après avoir été informés du résultat de la consultation par tout moyen écrit, le commissaire du Gouvernement ou le chef de la service économique  et financière y font opposition.
 
 Article 11
 
@@ -130,7 +130,7 @@ Article 12
 
 Les délibérations et décisions du conseil d'administration sont constatées par un procès-verbal inscrit sur un registre spécial. Ce procès-verbal est signé par un membre du conseil d'administration ayant assisté à la séance et par le président de séance, ou, à défaut, par deux membres du conseil d'administration ayant assisté à la séance.
 
-Les décisions du conseil d'administration deviennent de plein droit exécutoires si le commissaire du Gouvernement ou le chef de la mission économique et financière n'y font pas opposition dans les quinze jours qui suivent soit la réunion du conseil d'administration, s'ils y ont assisté, soit la réception du procès-verbal de la séance, soit la notification qui leur est faite des décisions du conseil d'administration.
+Les décisions du conseil d'administration deviennent de plein droit exécutoires si le commissaire du Gouvernement ou le chef de la service économique  et financière n'y font pas opposition dans les quinze jours qui suivent soit la réunion du conseil d'administration, s'ils y ont assisté, soit la réception du procès-verbal de la séance, soit la notification qui leur est faite des décisions du conseil d'administration.
 
 Article 13
 
@@ -170,23 +170,23 @@ Le conseil d'administration est assisté d'un comité d'audit pour toutes les qu
 
 Ce comité a notamment pour missions :
 
-- d'examiner les comptes de l'institut et de ses filiales, ainsi que les procédures et méthodes qui concourent à leur établissement ;
+-d'examiner les comptes de l'institut et de ses filiales, ainsi que les procédures et méthodes qui concourent à leur établissement ;
 
-- d'apprécier la fiabilité du système d'information ;
+-d'apprécier la fiabilité du système d'information ;
 
-- d'examiner la politique financière, comptable et fiscale et sa mise en oeuvre ;
+-d'examiner la politique financière, comptable et fiscale et sa mise en oeuvre ;
 
-- d'étudier les projets de décision de recours à l'emprunt ;
+-d'étudier les projets de décision de recours à l'emprunt ;
 
-- de procéder à un examen, avec la direction générale de l'institut, des principaux risques financiers ;
+-de procéder à un examen, avec la direction générale de l'institut, des principaux risques financiers ;
 
-- d'émettre un avis sur le choix des commissaires aux comptes ;
+-d'émettre un avis sur le choix des commissaires aux comptes ;
 
-- d'examiner le programme et les résultats des travaux du contrôle interne.
+-d'examiner le programme et les résultats des travaux du contrôle interne.
 
 Le comité d'audit peut convier à ses réunions les commissaires aux comptes. Il peut demander à les entendre séparément.
 
-Les membres du comité d'audit sont désignés par le conseil d'administration parmi ses membres qui n'exercent pas de fonction à l'Institut français du pétrole. Les membres du comité sont choisis en raison de leurs compétences. Le chef de la mission économique et financière est membre de droit du comité d'audit. Il peut se faire représenter.
+Les membres du comité d'audit sont désignés par le conseil d'administration parmi ses membres qui n'exercent pas de fonction à l'Institut français du pétrole. Les membres du comité sont choisis en raison de leurs compétences. Le chef de la service économique  et financière est membre de droit du comité d'audit. Il peut se faire représenter.
 
 Le comité d'audit désigne son président lors de sa première réunion. Son secrétariat est assuré par la direction financière de l'institut. Le comité d'audit se réunit au moins une fois par an et peut délibérer par vidéo conférence, courrier, télécopie, courrier électronique, dès lors que tous ses membres acceptent cette procédure. Un procès-verbal de chaque réunion fait l'objet d'une diffusion aux membres du conseil d'administration. Le président du comité d'audit présente en séance du conseil d'administration la synthèse des travaux du comité et les recommandations formulées par celui-ci.
 
@@ -202,7 +202,7 @@ Les réunions du comité financier font l'objet d'un compte rendu écrit.
 
 De même, avant leur présentation au conseil d'administration, les programmes de recherche sont soumis pour avis par le président, soit à un comité technique exploration-production, soit à un comité technique raffinage-utilisations, selon leur nature. La composition et les modalités d'intervention de ces comités techniques sont fixées par le ministre chargé de l'industrie.
 
-Le commissaire du Gouvernement et le chef de la mission économique et financière participent aux délibérations de ces comités financier et techniques ou s'y font représenter.
+Le commissaire du Gouvernement et le chef de la service économique  et financière participent aux délibérations de ces comités financier et techniques ou s'y font représenter.
 
 Le conseil d'administration peut par ailleurs décider, sur proposition de son président, de la création de comités spécifiques dont le fonctionnement est régi par un règlement intérieur.
 

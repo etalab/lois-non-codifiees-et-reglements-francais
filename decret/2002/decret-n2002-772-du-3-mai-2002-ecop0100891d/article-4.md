@@ -1,0 +1,4 @@
+# Article 4
+
+Les chefs de service économique régional et les chefs de service économique  sont nommés par arrêté conjoint des ministres chargés de l'économie, des finances et du commerce extérieur, pris après agrément du ministre chargé des affaires étrangères. Peuvent être nommés à ces fonctions les agents du ministère de l'économie, des finances et de l'industrie régis par les décrets
+du 18 juin 1969 et du 21 mai 1997 susvisés et par les décrets n° 2004-1259 du 25 novembre 2004 relatif à l'emploi de ministre conseiller pour les affaires économiques et n° 2004-1260 du 25 novembre 2004 fixant le statut particulier du corps des conseillers économiques. Dans le cas où le chef de service économique  exerce également des fonctions de consul général, il peut être choisi parmi les agents du ministère des affaires étrangères.

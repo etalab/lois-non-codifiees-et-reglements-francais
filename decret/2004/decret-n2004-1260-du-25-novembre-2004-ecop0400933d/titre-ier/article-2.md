@@ -4,4 +4,4 @@ Les conseillers économiques se voient confier des fonctions de direction, d'enc
 
 Ils peuvent également être affectés à l'administration centrale ou dans les services déconcentrés du ministère de l'économie, des finances et de l'industrie.
 
-Lorsqu'ils exercent leurs activités dans le cadre d'une mission économique ou d'une représentation permanente auprès d'une organisation internationale conduite par un ambassadeur, ils sont soumis aux dispositions du décret du 1er juin 1979 susvisé.
+Lorsqu'ils exercent leurs activités dans le cadre d'un service économique  ou d'une représentation permanente auprès d'une organisation internationale conduite par un ambassadeur, ils sont soumis aux dispositions du décret du 1er juin 1979 susvisé.

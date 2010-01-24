@@ -16,7 +16,7 @@ d) Justifier de cinq années au moins d'activité et de pratiques dans le domain
 
 Tout salarié doit avoir recueilli l'accord de son employeur.
 
-III.-Les chefs de missions économiques et les    directeurs régionaux des entreprises, de la concurrence, de la consommation, du travail et de l'emploi proposent des candidats aux fonctions de conseiller du commerce extérieur de la France.
+III.-Les chefs de services économiques  et les directeurs régionaux des entreprises, de la concurrence, de la consommation, du travail et de l'emploi proposent des candidats aux fonctions de conseiller du commerce extérieur de la France.
 
 Les conseillers du commerce extérieur de la France exerçant leur mandat à l'étranger sont nommés après avis de l'ambassadeur.
 

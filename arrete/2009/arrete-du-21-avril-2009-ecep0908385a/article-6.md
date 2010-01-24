@@ -1,8 +1,8 @@
 # Article 6
 
-I. - Le service des affaires bilatérales et de l'internationalisation des entreprises comprend une sous-direction du financement international des entreprises et une sous-direction des relations économiques bilatérales.
+I.-Le service des affaires bilatérales et de l'internationalisation des entreprises comprend une sous-direction du financement international des entreprises et une sous-direction des relations économiques bilatérales.
 
-II. - La sous-direction du financement international des entreprises comprend :
+II.-La sous-direction du financement international des entreprises comprend :
 
 Le bureau des crédits-export et des garanties à l'international
 
@@ -12,7 +12,7 @@ Conjointement avec le bureau des affaires aéronautiques, militaires et navales,
 
 Le bureau de l'aide-projet
 
-Dans le cadre de l'aide publique au développement, il gère des instruments financiers d'aide-projet visant à assurer la promotion des technologies françaises, y compris dans le cadre de financements conjoints avec des organismes multilatéraux et bilatéraux d'aide au développement.A ce titre, il gère les procédures budgétaires permettant de financer des biens d'équipement français qui contribuent à la réalisation d'investissements prioritaires pour le développement des pays bénéficiaires Réserve pays émergents, et des dons ou avances remboursables permettant de financer des études de faisabilité de projets d'infrastructures (FASEP). Il assure la gestion budgétaire et comptable des prêts à des Etats étrangers et des dons d'aide extérieure. Il procède à l'évaluation préalable des projets bénéficiant des instruments d'aide bilatérale dont il a la charge et assure le secrétariat du comité de gestion du fonds d'aide au secteur privé (FASEP) et du comité d'examen des projets financés sur prêt.
+Dans le cadre de l'aide publique au développement, il gère des instruments financiers d'aide-projet visant à assurer la promotion des technologies françaises, y compris dans le cadre de financements conjoints avec des organismes multilatéraux et bilatéraux d'aide au développement. A ce titre, il gère les procédures budgétaires permettant de financer des biens d'équipement français qui contribuent à la réalisation d'investissements prioritaires pour le développement des pays bénéficiaires Réserve pays émergents, et des dons ou avances remboursables permettant de financer des études de faisabilité de projets d'infrastructures (FASEP). Il assure la gestion budgétaire et comptable des prêts à des Etats étrangers et des dons d'aide extérieure. Il procède à l'évaluation préalable des projets bénéficiant des instruments d'aide bilatérale dont il a la charge et assure le secrétariat du comité de gestion du fonds d'aide au secteur privé (FASEP) et du comité d'examen des projets financés sur prêt.
 
 Il exerce la tutelle du groupement d'intérêt public Assistance au développement des échanges en technologies économiques et financières (ADETEF).
 
@@ -30,18 +30,18 @@ III. - La sous-direction des relations économiques bilatérales comprend :
 
 Le bureau de la Méditerranée et de l'Afrique australe
 
-Il comprend les circonscriptions des chefs des services économiques du Maghreb (Algérie, Maroc et Tunisie, à laquelle est rattachée la mission économique de Libye), du Proche-Orient (Egypte, Israël, Jordanie, Liban, Syrie, Territoires palestiniens) et de l'Afrique australe (Afrique du Sud, Angola, Botswana, Lesotho, Malawi, Mozambique, Namibie, Swaziland, Zambie et Zimbabwe).
+Il comprend les circonscriptions des chefs de service économique régional du Maghreb (Algérie, Maroc et Tunisie, auquel est rattaché le service économique de Libye), du Proche-Orient (Egypte, Israël, Jordanie, Liban, Syrie, Territoires palestiniens) et de l'Afrique australe (Afrique du Sud, Angola, Botswana, Lesotho, Malawi, Mozambique, Namibie, Swaziland, Zambie et Zimbabwe).
 
 Le bureau de la Turquie, des Balkans, de la CEI et du Moyen-Orient
 
-Il comprend les circonscriptions des chefs des services économiques de la Turquie, des Balkans (Albanie, Bosnie-Herzégovine, Croatie, Kosovo, Macédoine, Monténégro et Serbie), de la CEI et du Moyen-Orient (Arabie saoudite, Bahreïn, Emirats arabes unis, Irak, Iran, Koweït, Oman, Qatar et Yémen).
+Il comprend les circonscriptions des chefs de service économique régional de la Turquie, des Balkans (Albanie, Bosnie-Herzégovine, Croatie, Kosovo, Macédoine, Monténégro et Serbie), de la CEI et du Moyen-Orient (Arabie saoudite, Bahreïn, Emirats arabes unis, Irak, Iran, Koweït, Oman, Qatar et Yémen).
 
 Le bureau de l'Asie et de l'Océanie
 
-Il comprend les circonscriptions des chefs des services économiques de la Chine, de la Corée et du Japon, de l'ASEAN (Birmanie, Brunei, Cambodge, Indonésie, Laos, Malaisie, Philippines, Singapour, Thaïlande, Vietnam), de l'Asie méridionale (Afghanistan, Bangladesh, Inde, Népal, Pakistan, Sri Lanka) et de l'Océanie (Australie, Nouvelle-Zélande, autres Etats et territoires du Pacifique).
+Il comprend les circonscriptions des chefs de service économique régional de la Chine, de la Corée et du Japon, de l'ASEAN (Birmanie, Brunei, Cambodge, Indonésie, Laos, Malaisie, Philippines, Singapour, Thaïlande, Vietnam), de l'Asie méridionale (Afghanistan, Bangladesh, Inde, Népal, Pakistan, Sri Lanka) et de l'Océanie (Australie, Nouvelle-Zélande, autres Etats et territoires du Pacifique).
 
 Le bureau des Amériques
 
-Il comprend les circonscriptions des chefs des services économiques du Canada, des Etats-Unis, du Brésil, du Cône sud (Argentine, Chili, Paraguay, Uruguay), du Mexique et d'Amérique centrale (Mexique, Belize, Costa Rica, Guatemala, Honduras, Nicaragua, Salvador) ainsi que d'Amérique andine et des Caraïbes (Bolivie, Colombie, Equateur, Panama, Pérou, Venezuela, Caraïbes).
+Il comprend les circonscriptions des chefs de service économiques régional du Canada, des Etats-Unis, du Brésil, du Cône sud (Argentine, Chili, Paraguay, Uruguay), du Mexique et d'Amérique centrale (Mexique, Belize, Costa Rica, Guatemala, Honduras, Nicaragua, Salvador) ainsi que d'Amérique andine et des Caraïbes (Bolivie, Colombie, Equateur, Panama, Pérou, Venezuela, Caraïbes).
 
-IV. - Dans les pays relevant de sa zone de compétences, chaque bureau de la sous-direction des relations économiques, bilatérales assure la coordination des analyses sur la situation économique, commerciale et financière des pays de sa zone de compétence et en examine les conséquences pour la relation bilatérale avec la France. Il assure également, avec l'appui du réseau des chefs des services économiques et des missions économiques à l'étranger, le suivi des relations économiques financières et commerciales bilatérales. Il anime et coordonne l'activité du réseau des chefs des services économiques et des missions économiques à l'étranger dans sa zone de compétence, en prenant en compte les demandes et les besoins des autres sous-directions. En liaison avec les missions économiques, il élabore la stratégie bilatérale de la France en matière financière, économique et commerciale, en privilégiant l'analyse du contexte régional des pays dans lesquels ces missions se situent. Il réalise la synthèse de la préparation des dossiers à caractère bilatéral.
+IV. - Dans les pays relevant de sa zone de compétences, chaque bureau de la sous-direction des relations économiques, bilatérales assure la coordination des analyses sur la situation économique, commerciale et financière des pays de sa zone de compétence et en examine les conséquences pour la relation bilatérale avec la France. Il assure également, avec l'appui du réseau des chefs de service économique régional et des services économiques, le suivi des relations économiques financières et commerciales bilatérales. Il anime et coordonne l'activité du réseau des chefs de service économique régional et des services économiques dans sa zone de compétence, en prenant en compte les demandes et les besoins des autres sous-directions. En liaison avec les services économiques, il élabore la stratégie bilatérale de la France en matière financière, économique et commerciale, en privilégiant l'analyse du contexte régional des pays dans lesquels ces services se situent. Il réalise la synthèse de la préparation des dossiers à caractère bilatéral.

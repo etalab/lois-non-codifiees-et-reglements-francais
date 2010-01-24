@@ -2,7 +2,7 @@
 
 I. ― A. ― L'Agence de gestion du réseau international des finances est chargée de la gestion des services du ministère de l'économie, de l'industrie et de l'emploi suivants :
 
-― missions économiques dépendant de la direction générale du Trésor et de la politique économique ;
+― services économiques dépendant de la direction générale du Trésor et de la politique économique ;
 
 ― service attaché à la délégation permanente de la France auprès de l'Organisation mondiale du commerce ;
 
