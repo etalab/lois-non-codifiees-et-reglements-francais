@@ -2,7 +2,7 @@
 
 Les candidats à la mutation doivent adresser, au plus tard le 13 février 2009, à minuit (le cachet de la poste faisant foi), au directeur de l'unité de formation et de recherche d'odontologie et au directeur général du centre hospitalier universitaire :
 
-― une demande de mutation, téléchargeable sur le site internet : http://www.education.gouv.fr, à la rubrique  Outils, formulaires , puis  Pour les agents de l'éducation nationale ,  Candidatures en secteur hospitalo-universitaire  ;
+― une demande de mutation, téléchargeable sur le site internet :  http://www.education.gouv.fr, à la rubrique  Outils, formulaires , puis  Pour les agents de l'éducation nationale ,  Candidatures en secteur hospitalo-universitaire  ;
 
 ― un curriculum vitae détaillé n'excédant pas trois pages ;
 
