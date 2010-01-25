@@ -28,7 +28,7 @@ La liste des personnels titulaires et des agents non titulaires bénéficiant d'
 </tr>
 <tr>
 <td valign="top">
-<p>École nationale d'équitation. </p>
+<p>Institut français du cheval et de l'équitation. </p>
 </td>
 <td>
 <p>Personnel assurant les tâches d'entretien et de soin des animaux. </p>
