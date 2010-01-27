@@ -1759,7 +1759,6 @@
 - [Arrêté du 19 mai 2009 (ESRH0909689A)](arrete-du-19-mai-2009-esrh0909689a)
 - [Arrêté du 19 mai 2009 (ESRH0909690A)](arrete-du-19-mai-2009-esrh0909690a)
 - [Arrêté du 19 mai 2009 (IMIK0911317A)](arrete-du-19-mai-2009-imik0911317a)
-- [Arrêté du 19 mai 2009 (IOCC0909358A)](arrete-du-19-mai-2009-iocc0909358a)
 - [Arrêté du 19 mai 2009 (JUSA0909020A)](arrete-du-19-mai-2009-jusa0909020a)
 - [Arrêté du 19 mai 2009 (MENE0911484A)](arrete-du-19-mai-2009-mene0911484a)
 - [Arrêté du 19 mai 2009 (MENE0911495A)](arrete-du-19-mai-2009-mene0911495a)
