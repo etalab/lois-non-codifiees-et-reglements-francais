@@ -8,17 +8,15 @@ I.-Le ministre du travail, des relations sociales, de la famille, de la solidari
 
 -le secrétariat général du comité interministériel des villes ;
 
--la délégation interministérielle à la famille ;
+-la direction générale de la cohésion sociale ;
 
--le délégué interministériel aux personnes handicapées ;
-
--le service des droits des femmes et de l'égalité.
+-le délégué interministériel aux personnes handicapées.
 
 II.-Conjointement avec le ministre de l'économie, de l'industrie et de l'emploi, il a autorité sur :
 
 -la direction de l'animation de la recherche, des études et des statistiques ;
 
--la délégation interministérielle à l'innovation, à l'expérimentation sociale et à l'économie sociale.
+-la direction générale de la cohésion sociale.
 
 III.-Conjointement avec le ministre de la santé et des sports, il a autorité sur :
 
@@ -32,7 +30,7 @@ III.-Conjointement avec le ministre de la santé et des sports, il a autorité s
 
 -la délégation à l'information et à la communication.
 
-IV.-Conjointement avec le ministre d'Etat, ministre de l'écologie, de l'énergie, du développement durable et de la mer, en charge des technologies vertes et des négociations sur le climat, il a autorité sur la direction générale de l'action sociale.
+IV.-Conjointement avec le ministre d'Etat, ministre de l'écologie, de l'énergie, du développement durable et de la mer, en charge des technologies vertes et des négociations sur le climat, il a autorité sur la direction générale de la cohésion sociale.
 
 V.-Conjointement avec le ministre de la santé et des sports et le ministre du budget, des comptes publics et de la fonction publique, il a autorité sur la direction de la sécurité sociale et la direction de la recherche, des études, de l'évaluation et des statistiques.
 
