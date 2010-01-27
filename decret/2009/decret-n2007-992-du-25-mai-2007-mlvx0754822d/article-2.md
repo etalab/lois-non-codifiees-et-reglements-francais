@@ -2,7 +2,7 @@
 
 I.-Le ministre du logement a autorité sur la direction générale de l'aménagement, du logement et de la nature, conjointement avec le ministre d'Etat, ministre de l'écologie, de l'énergie, du développement durable et de l'aménagement du territoire.
 
-II.-Il a autorité sur la direction générale de l'action sociale, conjointement avec le ministre du travail, des relations sociales, de la famille, de la solidarité et de la ville.
+II.-Il a autorité sur la      direction générale de la cohésion sociale , conjointement avec le ministre du travail, des relations sociales, de la famille, de la solidarité et de la ville.
 
 III.-Pour l'exercice de ses attributions, il dispose :
 

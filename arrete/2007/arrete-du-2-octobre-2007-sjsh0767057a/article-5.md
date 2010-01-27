@@ -6,11 +6,11 @@ Il comprend :
 
 -le directeur de l'hospitalisation et de l'organisation des soins ou son représentant ;
 
--le directeur général de l'action sociale ou son représentant ;
+-le      directeur général de la cohésion sociale  ou son représentant ;
 
 -le directeur de l'Ecole nationale de la santé publique ou son représentant ;
 
--un membre du personnel de direction des établissements mentionnés à l'article 2 (1°,2° et 3°) de la loi du 9 janvier 1986 susvisée, régi soit par le décret n° 2005-921 du 2 août 2005, soit par le décret n° 2001-1343 du 28 décembre 2001, désigné par le ministre chargé de la santé ;
+-un membre du personnel de direction des établissements mentionnés à l'article 2 (1°, 2° et 3°) de la loi du 9 janvier 1986 susvisée, régi soit par le décret n° 2005-921 du 2 août 2005, soit par le décret n° 2001-1343 du 28 décembre 2001, désigné par le ministre chargé de la santé ;
 
 -un attaché d'administration hospitalière, désigné par le ministre chargé de la santé.
 

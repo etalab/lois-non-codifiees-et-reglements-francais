@@ -8,7 +8,7 @@ Il comprend :
 
 -un inspecteur général des affaires sociales ;
 
--le directeur général de la santé ou le directeur de la sécurité sociale ou le directeur général de l'action sociale ou leur représentant ;
+-le directeur général de la santé ou le directeur de la sécurité sociale ou le      directeur général de la cohésion sociale  ou leur représentant ;
 
 -le directeur de l'Ecole des hautes études en santé publique ou son représentant ;
 

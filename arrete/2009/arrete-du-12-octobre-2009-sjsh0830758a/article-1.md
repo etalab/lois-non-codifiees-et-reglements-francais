@@ -82,7 +82,7 @@ a) Le directeur de l'hospitalisation et de l'organisation des soins ;
 
 b) Le directeur général de la santé ;
 
-c) Le directeur général de l'action sociale ;
+c) Le      directeur général de la cohésion sociale  ;
 
 d) Le directeur de la recherche, des études, de l'évaluation et des statistiques ;
 

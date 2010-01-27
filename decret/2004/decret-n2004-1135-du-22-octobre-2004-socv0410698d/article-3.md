@@ -32,7 +32,7 @@ Le délégué général à l'emploi et à la formation professionnelle, ou son r
 
 Le directeur de l'animation de la recherche, des études et des statistiques, ou son représentant ;
 
-Le directeur général de l'action sociale, ou son représentant ;
+Le directeur général de la cohésion sociale, ou son représentant ;
 
 Le directeur général de l'urbanisme, de l'habitat et de la construction, ou son représentant ;
 
@@ -70,7 +70,7 @@ Au titre des établissements publics
 
 Le directeur général de l'Agence nationale pour la rénovation urbaine, ou son représentant.
 
-Le directeur général de l'     institution mentionnée à l'article L. 5312-1 du code du travail , ou son représentant.
+Le directeur général de l'institution mentionnée à l'article L. 5312-1 du code du travail, ou son représentant.
 
 Le directeur de l'agence centrale des organismes de sécurité sociale, ou son représentant.
 

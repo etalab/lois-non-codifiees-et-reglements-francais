@@ -12,6 +12,6 @@ Sont désignés autorités qualifiées pour la sécurité des systèmes d'inform
 
 ― le secrétaire général de la mission interministérielle de lutte contre la drogue et la toxicomanie ;
 
-― le chef du service des droits des femmes et de l'égalité ;
+― le directeur général de la cohésion sociale ;
 
 ― le chef de la mission pour l'informatisation du système de santé.

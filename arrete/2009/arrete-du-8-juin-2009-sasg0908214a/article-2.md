@@ -4,7 +4,7 @@ I. ― La sous-direction de la gestion du personnel a pour mission, pour ce qui 
 
 A ce titre elle assure :
 
-1° La gestion individuelle et collective de l'ensemble des personnels administratifs de catégorie A de l'administration centrale, y compris les personnels de l'encadrement supérieur, les chargés d'études documentaires et les personnels en poste à l'étranger, ainsi que la gestion individuelle et collective des agents non titulaires de catégorie A, B et C de l'administration centrale et du service des droits des femmes et de l'égalité ;
+1° La gestion individuelle et collective de l'ensemble des personnels administratifs de catégorie A de l'administration centrale, y compris les personnels de l'encadrement supérieur, les chargés d'études documentaires et les personnels en poste à l'étranger, ainsi que la gestion individuelle et collective des agents non titulaires de catégorie A, B et C de l'administration centrale et de la direction générale de la cohésion sociale ;
 
 2° La gestion individuelle et collective de l'ensemble des fonctionnaires de catégorie A des réseaux territoriaux, des personnels enseignants et techniques des instituts nationaux de jeunes sourds et de l'Institut national des jeunes aveugles, ainsi que la gestion individuelle et collective des membres de catégorie A, B et C des corps techniques appartenant aux filières sanitaire, médicale et sociale ;
 

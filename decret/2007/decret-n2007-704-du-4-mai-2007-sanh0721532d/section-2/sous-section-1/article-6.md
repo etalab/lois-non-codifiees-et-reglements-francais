@@ -6,7 +6,7 @@ Le Centre national de gestion est administré par un conseil d'administration qu
 
 a) Le directeur de l'hospitalisation et de l'organisation des soins ou son représentant ;
 
-b) Le directeur général de l'action sociale ou son représentant ;
+b) Le      directeur général de la cohésion sociale  ou son représentant ;
 
 c) Le directeur général de la santé ou son représentant ;
 

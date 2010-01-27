@@ -14,7 +14,7 @@ Ce comité, chargé d'assurer la coordination de l'application des décisions du
 
 -le directeur de la population et des migrations ou son représentant ;
 
--le directeur de la direction générale de l'action sociale au ministère chargé des affaires sociales ou son représentant ;
+-le directeur de la      direction générale de la cohésion sociale  au ministère chargé des affaires sociales ou son représentant ;
 
 -le directeur des Français à l'étranger et des étrangers en France au ministère des affaires étrangères ou son représentant ;
 
@@ -34,7 +34,7 @@ Ce comité, chargé d'assurer la coordination de l'application des décisions du
 
 -le secrétaire général du comité interministériel pour les questions de coopération économique européenne ou son représentant ;
 
--le directeur général de l'          Office français de l'immigration et de l'intégration  ou son représentant ;
+-le directeur général de l'Office français de l'immigration et de l'intégration ou son représentant ;
 
 -le directeur général de l'Office français de protection des réfugiés et apatrides ou son représentant, sans préjudice des dispositions du statut régissant cet organisme.
 

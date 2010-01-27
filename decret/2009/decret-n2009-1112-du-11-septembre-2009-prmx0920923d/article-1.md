@@ -6,7 +6,7 @@ Le comité d'évaluation mentionné à l'article 32 de la loi du 1er décembre 2
 
 2° Quatre représentants de l'Etat :
 
-a) Le directeur général de l'action sociale ;
+a) Le      directeur général de la cohésion sociale  ;
 
 b) Le directeur de l'animation de la recherche, des études et des statistiques ;
 

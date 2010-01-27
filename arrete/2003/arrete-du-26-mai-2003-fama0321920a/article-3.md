@@ -6,7 +6,7 @@ Le Comité national du parrainage est composé de :
 
 2° Un représentant du ministre chargé de la famille ;
 
-3° Un représentant de la délégation interministérielle à la famille ;
+3° Un représentant de la    direction générale de la cohésion sociale  ;
 
 4° Un représentant de l'Union nationale des associations familiales ;
 
@@ -18,6 +18,6 @@ Le Comité national du parrainage est composé de :
 
 8° Une personnalité qualifiée ;
 
-9° Un représentant de la Caisse nationale d'allocations familiales .
+9° Un représentant de la Caisse nationale d'allocations familiales.
 
 Les membres du comité national prévus aux 5°, 6°, 7° et 8° sont nommés pour trois ans par arrêté des ministres chargés de la famille et de la justice.

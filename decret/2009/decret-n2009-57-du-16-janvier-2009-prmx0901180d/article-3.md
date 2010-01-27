@@ -4,7 +4,7 @@ Le haut-commissaire à la jeunesse a également autorité, dans la limite de ses
 
 ― la délégation générale à l'emploi et à la formation professionnelle ;
 
-― la délégation interministérielle à l'innovation, à l'expérimentation sociale et à l'économie sociale ;
+― la                 direction générale de la cohésion sociale  ;
 
 ― le délégué interministériel à l'orientation ;
 

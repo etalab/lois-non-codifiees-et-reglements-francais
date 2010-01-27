@@ -22,7 +22,7 @@ Le directeur général des impôts ;
 
 Le directeur de la prévision ;
 
-Le directeur général de l'action sociale ;
+Le      directeur général de la cohésion sociale  ;
 
 Le directeur de la sécurité sociale ;
 

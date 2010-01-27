@@ -26,7 +26,7 @@ Le conseil comporte, outre son président, trente-cinq membres :
 
 -la direction générale du travail ;
 
--la direction générale de l'action sociale ;
+-la      direction générale de la cohésion sociale  ;
 
 -au titre du ministère chargé de la vie associative :
 
@@ -38,4 +38,4 @@ Le conseil comporte, outre son président, trente-cinq membres :
 
 -au titre du ministère chargé de l'aménagement du territoire :
 
--la           délégation interministérielle à l'aménagement du territoire et à l'attractivité régionale .
+-la délégation interministérielle à l'aménagement du territoire et à l'attractivité régionale.

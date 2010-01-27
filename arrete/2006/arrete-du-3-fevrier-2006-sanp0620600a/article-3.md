@@ -4,7 +4,7 @@ Sont membres de droit du Comité national d'élaboration du programme de lutte c
 
 -le directeur de l'hospitalisation et de l'offre de soins ou son représentant ;
 
--le directeur général de l'action sociale ou son représentant ;
+-le      directeur général de la cohésion sociale  ou son représentant ;
 
 -le directeur de la sécurité sociale ou son représentant ;
 
@@ -28,6 +28,6 @@ Sont membres de droit du Comité national d'élaboration du programme de lutte c
 
 -le directeur général de l'Institut national de prévention et d'éducation pour la santé ou son représentant ;
 
--le directeur général de l'          Office français de l'immigration et de l'intégration  ou son représentant ;
+-le directeur général de l'Office français de l'immigration et de l'intégration ou son représentant ;
 
 -le directeur de la Caisse nationale d'assurance maladie des travailleurs salariés ou son représentant.

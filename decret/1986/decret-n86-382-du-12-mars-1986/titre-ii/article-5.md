@@ -6,27 +6,27 @@ Le conseil d'administration de l'institut comprend :
 
 2. Sept membres de droit :
 
-- un représentant du ministre chargé de la population, vice-président ;
+-un représentant du ministre chargé de la population, vice-président ;
 
-- un représentant du ministre chargé de la recherche, vice-président ;
+-un représentant du ministre chargé de la recherche, vice-président ;
 
-- un représentant du ministre chargé de l'immigration ;
+-un représentant du ministre chargé de l'immigration ;
 
-- un représentant du ministre chargé des affaires sociales .
+-un représentant du ministre chargé des affaires sociales.
 
-- un représentant du ministre chargé de l'enseignement supérieur ;
+-un représentant du ministre chargé de l'enseignement supérieur ;
 
-- le directeur général de l'institut national de la statistique et des études économiques ;
+-le directeur général de l'institut national de la statistique et des études économiques ;
 
-- le délégué interministériel à la famille ;
+-le    directeur général de la cohésion sociale  ;
 
 Un suppléant est désigné pour chacun de ces membres ;
 
 3. Sept personnalités nommées par arrêté conjoint des ministres exerçant la tutelle de l'institut et choisies :
 
-- pour quatre d'entre elles, parmi les représentants des utilisateurs des travaux de l'institut, notamment parmi les organisations syndicales et professionnelles et les associations ;
+-pour quatre d'entre elles, parmi les représentants des utilisateurs des travaux de l'institut, notamment parmi les organisations syndicales et professionnelles et les associations ;
 
-- pour trois d'entre elles, en raison de leur compétence dans le domaine de la population ou dans des disciplines connexes à la démographie ;
+-pour trois d'entre elles, en raison de leur compétence dans le domaine de la population ou dans des disciplines connexes à la démographie ;
 
 4. Quatre représentants du personnel de l'institut élus pour trois ans selon des modalités fixées par arrêté conjoint des ministres chargés de la tutelle de l'institut.
 
@@ -34,7 +34,7 @@ Le mandat du président et des membres du conseil d'administration mentionnés a
 
 Les membres décédés, démissionnaires ou qui n'exercent plus les fonctions en raison desquelles ils ont été désignés ou élus, doivent être remplacés. Dans ce cas, le mandat des nouveaux membres expire à la date à laquelle aurait normalement pris fin celui des membres qu'ils remplacent.
 
-Les fonctions de membre du conseil d'administration sont gratuites. Elles ouvrent droit aux indemnités de déplacement et de séjour prévues par la réglementation applicable aux fonctionnaires de l'Etat .
+Les fonctions de membre du conseil d'administration sont gratuites. Elles ouvrent droit aux indemnités de déplacement et de séjour prévues par la réglementation applicable aux fonctionnaires de l'Etat.
 
 Le président du conseil scientifique, le directeur de l'institut, le membre du corps du contrôle général économique et financier et l'agent comptable participent aux séances du conseil d'administration avec voix consultative. Avec l'accord du président, le directeur peut se faire accompagner par tout collaborateur ou personne qualifiée de son choix.
 

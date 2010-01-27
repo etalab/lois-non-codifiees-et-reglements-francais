@@ -34,6 +34,6 @@ Le directeur général du travail ou son représentant ;
 
 Le directeur de l'animation de la recherche, des études et des statistiques ou son représentant ;
 
-Le chef du service des droits des femmes et de l'égalité ou son représentant ;
+Le chef de la direction générale de la cohésion sociale ou son représentant ;
 
 Une déléguée régionale aux droits des femmes et à l'égalité désignée pour une durée de trois ans par le ministre chargé des droits des femmes.

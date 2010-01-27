@@ -6,7 +6,7 @@ La sélection des candidats à la classe préparatoire intégrée est effectuée
 
 ― le directeur de l'hospitalisation et de l'organisation des soins ou son représentant ;
 
-― le directeur général de l'action sociale ou son représentant ;
+― le      directeur général de la cohésion sociale  ou son représentant ;
 
 ― le directeur de l'Ecole des hautes études en santé publique ou son représentant ;
 

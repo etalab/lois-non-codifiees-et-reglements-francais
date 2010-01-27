@@ -4,7 +4,7 @@ La formation d'adaptation à l'emploi est validée par un jury, présidé par le
 
 a) Un représentant de la direction de l'hospitalisation et de l'organisation des soins ;
 
-b) Un représentant de la direction générale de l'action sociale ;
+b) Un représentant de la      direction générale de la cohésion sociale  ;
 
 c) Deux représentants du corps des directeurs d'établissements sanitaires, sociaux et médico-sociaux ;
 

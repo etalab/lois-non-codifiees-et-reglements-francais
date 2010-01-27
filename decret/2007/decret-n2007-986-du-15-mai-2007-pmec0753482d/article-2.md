@@ -16,7 +16,7 @@ La Commission nationale du commerce équitable comporte, outre son président :
 
 7° Le délégué interministériel au développement durable ;
 
-8° Le délégué interministériel à l'innovation, l'expérimentation et l'économie sociale ;
+8° Le directeur général de la cohésion sociale ;
 
 9° Quatre représentants des organisations et des fédérations spécialisées dans le commerce équitable ;
 

@@ -1,6 +1,6 @@
 # Article 3
 
-Un groupe permanent animé par le directeur général de l'action sociale assure le secrétariat du comité interministériel pour l'adoption. A ce titre, il prépare les travaux du comité interministériel.
+Un groupe permanent animé par le directeur général de la cohésion sociale assure le secrétariat du comité interministériel pour l'adoption. A ce titre, il prépare les travaux du comité interministériel.
 
 Il prépare le rapport mentionné à l'article 2.
 

@@ -99,49 +99,49 @@ Secteur santé / solidarité
 </td>
 </tr>
 <tr>
-<td align="center">Direction générale de l'action sociale <br/>
+<td align="center">direction générale de la cohésion sociale <br/>
 </td>
 <td align="center">Secrétaire général de la Commission centrale d'aide sociale <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Direction générale de l'action sociale <br/>
+<td align="center">direction générale de la cohésion sociale <br/>
 </td>
 <td align="center">Chargé de mission <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Direction générale de l'action sociale <br/>
+<td align="center">direction générale de la cohésion sociale <br/>
 </td>
 <td align="center">Chef de la mission planification <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Direction générale de l'action sociale <br/>
+<td align="center">direction générale de la cohésion sociale <br/>
 </td>
 <td align="center">Chef du bureau des professions sociales et du travail social <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Direction générale de l'action sociale <br/>
+<td align="center">direction générale de la cohésion sociale <br/>
 </td>
 <td align="center">Chef du bureau des affaires juridiques et contentieuses <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Direction générale de l'action sociale <br/>
+<td align="center">direction générale de la cohésion sociale <br/>
 </td>
 <td align="center">Chef de cabinet du directeur général <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Direction générale de l'action sociale <br/>
+<td align="center">direction générale de la cohésion sociale <br/>
 </td>
 <td align="center">Chef du bureau des ressources humaines et des affaires générales <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Direction générale de l'action sociale <br/>
+<td align="center">direction générale de la cohésion sociale <br/>
 </td>
 <td align="center">Chef du bureau de la protection des personnes <br/>
 </td>
@@ -321,13 +321,13 @@ Secteurs communs
 <tr>
 <th>AFFECTATIONS <br/>
 </th>
-<th>INTITULÉ DES POSTES <br/>
+<th>INTITULÉ DES POSTES<br/>
 </th>
 </tr>
 <tr>
-<td align="center">Service des droits des femmes et de l'égalité <br/>
+<td align="center">         direction générale de la cohésion sociale <br/>
 </td>
-<td align="center">Adjoint au chef de service des droits des femmes et de l'égalité <br/>
+<td align="center">Adjoint au chef de         direction générale de la cohésion sociale <br/>
 </td>
 </tr>
 <tr>

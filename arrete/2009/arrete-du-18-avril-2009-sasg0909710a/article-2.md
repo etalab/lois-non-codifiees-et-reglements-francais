@@ -2,7 +2,7 @@
 
 La commission est composée ainsi qu'il suit :
 
-― ministère chargé de la santé : le directeur général de l'action sociale ou son représentant, président ;
+― ministère chargé de la santé : le      directeur général de la cohésion sociale  ou son représentant, président ;
 
 ― ministère chargé de l'éducation nationale : un membre de la direction générale de l'enseignement scolaire ;
 

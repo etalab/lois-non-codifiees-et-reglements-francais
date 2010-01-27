@@ -108,7 +108,7 @@ Le Conseil national de l'urgence hospitalière comprend les membres suivants :
 
 ― le directeur général de la santé ou son représentant ;
 
-― le directeur général de l'action sociale ou son représentant ;
+― le      directeur général de la cohésion sociale  ou son représentant ;
 
 ― le directeur de la sécurité sociale ou son représentant ;
 
