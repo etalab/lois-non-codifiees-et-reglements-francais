@@ -140,27 +140,6 @@
 </tr>
 <tr>
 <td colspan="2">
-<p align="center">Corps des conducteurs d'automobile</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="left">Conducteur d'automobile de 1re catégorie </p>
-</td>
-<td>
-<p align="center">4 %</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="left">Conducteur d'automobile hors catégorie</p>
-</td>
-<td>
-<p align="center">6 %</p>
-</td>
-</tr>
-<tr>
-<td colspan="2">
 <p align="center">Corps des conducteurs ambulanciers</p>
 </td>
 </tr>
