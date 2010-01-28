@@ -118,6 +118,7 @@
 - [Décret n°2008-176 du 25 février 2008 (DEVA0771224D)](decret-n2008-176-du-25-fevrier-2008-deva0771224d)
 - [Décret n°2009-1442 du 25 novembre 2009 (ECED0910713D)](decret-n2009-1442-du-25-novembre-2009-eced0910713d)
 - [Décret n°2010-95 du 25 janvier 2010 (MTSA0931468D)](decret-n2010-95-du-25-janvier-2010-mtsa0931468d)
+- [Décret n°2010-96 du 25 janvier 2010 (ECEC0929792D)](decret-n2010-96-du-25-janvier-2010-ecec0929792d)
 - [Décret n°90-957 du 25 octobre 1990 (RESY9000226D)](decret-n90-957-du-25-octobre-1990-resy9000226d)
 - [Décret n°95-972 du 25 août 1995 (MCCB9500347D)](decret-n95-972-du-25-aout-1995-mccb9500347d)
 - [Décret n°2003-1298 du 26 décembre 2003 (MCCB0300909D)](decret-n2003-1298-du-26-decembre-2003-mccb0300909d)

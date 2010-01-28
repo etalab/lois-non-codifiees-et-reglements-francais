@@ -1,0 +1,3 @@
+# Article 2
+
+Le capitaine ou son représentant notifie un préavis de débarquement ou de transbordement au centre de surveillance des pêches du CROSS A Etel par télécopie au 00-33 (0)2-97-55-23-75 ou par courrier électronique à l'adresse csp-france.cross-etel@developpement-durable.gouv.fr (le cas échéant après numérisation par un dispositif de type scanner), trois jours ouvrables au moins avant l'arrivée prévue au port. Cette notification doit être faite avec le formulaire de l'annexe XV du schéma de contrôle de la CPANE, dont la dernière version est disponible sur le site internet de la CPANE http://neafc.org
