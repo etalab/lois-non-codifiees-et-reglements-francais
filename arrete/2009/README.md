@@ -549,7 +549,6 @@
 - [Arrêté du 8 janvier 2008 (DEFD0804109A)](arrete-du-8-janvier-2008-defd0804109a)
 - [Arrêté du 8 janvier 2008 (DEFD0804111A)](arrete-du-8-janvier-2008-defd0804111a)
 - [Arrêté du 8 janvier 2009 (DEFH0830691A)](arrete-du-8-janvier-2009-defh0830691a)
-- [Arrêté du 8 janvier 2009 (DEVA0825377A)](arrete-du-8-janvier-2009-deva0825377a)
 - [Arrêté du 8 janvier 2009 (ECEA0829940A)](arrete-du-8-janvier-2009-ecea0829940a)
 - [Arrêté du 8 janvier 2009 (MTSS0900525A)](arrete-du-8-janvier-2009-mtss0900525a)
 - [Arrêté du 8 juillet 2008 (AGRF0816981A)](arrete-du-8-juillet-2008-agrf0816981a)
