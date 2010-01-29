@@ -1,5 +1,5 @@
 # Article 5
 
-Les diplômes mentionnés à l'article 1er du présent arrêté peuvent être complétés, le cas échéant, par des certificats de qualification complémentaire.
+Des certifications complémentaires peuvent être associées, le cas échéant, aux diplômes mentionnés au présent arrêté.
 
-Des arrêtés complémentaires définissent le référentiel des compétences professionnelles requises pour l’obtention des diplômes d’accompagnateur en moyenne montagne et de guide de haute montagne, les conditions d’accès aux diplômes mentionnés dans le présent arrêté, leurs contenus de formation, ainsi que ceux des divers stages et examens.
+Des arrêtés du ministre chargé des sports définissent les conditions d'accès à ces diplômes ainsi que leurs contenus de formation et leurs modalités de certification.
