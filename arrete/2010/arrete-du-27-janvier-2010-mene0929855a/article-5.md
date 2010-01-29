@@ -1,0 +1,3 @@
+# Article 5
+
+Une enveloppe horaire est laissée à la disposition des établissements pour assurer des enseignements en groupes à effectif réduit. Son volume est arrêté par les recteurs sur une base de 10 h 30 par semaine et par division, ce volume pouvant être abondé en fonction des spécificités pédagogiques de l'établissement. Son utilisation dans le cadre de l'établissement fait l'objet d'une consultation du conseil pédagogique. Le projet de répartition des heures prévues pour la constitution des groupes à effectif réduit tient compte des activités impliquant l'utilisation des salles spécialement équipées et comportant un nombre limité de places.

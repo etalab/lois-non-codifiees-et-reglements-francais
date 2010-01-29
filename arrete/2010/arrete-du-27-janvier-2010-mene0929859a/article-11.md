@@ -1,0 +1,3 @@
+# Article 11
+
+Les dispositions du présent arrêté entrent en application à compter de la rentrée de l'année scolaire 2011-2012 en classes de première et à compter de la rentrée de l'année scolaire 2012-2013 en classes terminales.A ces mêmes dates, sont abrogées les dispositions équivalentes de l'arrêté du 18 mars 1999 relatif à l'organisation et aux horaires des enseignements des classes de première et terminale des lycées, sanctionnés par le baccalauréat général. En tant que de besoin, le ministre chargé de l'éducation nationale et le ministre chargé de l'agriculture fixent les dispositions transitoires applicables lors de ces rentrées aux élèves redoublants.
