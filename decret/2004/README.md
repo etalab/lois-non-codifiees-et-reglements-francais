@@ -329,7 +329,6 @@
 - [Décret n°2004-1085 du 14 octobre 2004 (ECOX0400238D)](decret-n2004-1085-du-14-octobre-2004-ecox0400238d)
 - [Décret n°2004-1086 du 14 octobre 2004 (INTC0400278D)](decret-n2004-1086-du-14-octobre-2004-intc0400278d)
 - [Décret n°2004-1087 du 14 octobre 2004 (SOCX0400101D)](decret-n2004-1087-du-14-octobre-2004-socx0400101d)
-- [Décret n°2004-1088 du 14 octobre 2004 (JUSX0400228D)](decret-n2004-1088-du-14-octobre-2004-jusx0400228d)
 - [Décret n°2004-1098 du 14 octobre 2004 (EQUB0401008D)](decret-n2004-1098-du-14-octobre-2004-equb0401008d)
 - [Décret n°2004-1120 du 14 octobre 2004 (MENF0401384D)](decret-n2004-1120-du-14-octobre-2004-menf0401384d)
 - [Décret n°2004-1121 du 14 octobre 2004 (MENS0401781D)](decret-n2004-1121-du-14-octobre-2004-mens0401781d)
