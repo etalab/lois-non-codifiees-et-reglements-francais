@@ -5,5 +5,5 @@
 - [Article 2](article-2.md)
 - [Titre II : Les organismes directement rattachés au directeur.](titre-ii)
 - [Article 3](article-3.md)
-- [Titre III : Le service des contrats et des finances.](titre-iii)
+- [Titre III : Les organismes extérieurs relevant de la direction centrale.](titre-iii)
 - [Article 11](article-11.md)
