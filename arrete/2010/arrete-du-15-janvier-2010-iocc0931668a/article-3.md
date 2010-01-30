@@ -1,0 +1,3 @@
+# Article 3
+
+Bénéficient d'une équivalence avec l'unité de valeur de techniques professionnelles (UV n° 1) les titulaires du diplôme de moniteur ou d'animateur en activités physiques et professionnelles à jour de la validation quinquennale ainsi que les titulaires d'un brevet d'Etat ou d'un titre défini par arrêté ministériel sanctionnant une qualification professionnelle de sécurité et/ou de sauvetage d'un niveau supérieur au premier degré de la spécialité et exerçant celle-ci de façon permanente avec une vocation d'encadrant au sein de leur unité d'affectation. La validité de leur titre s'apprécie au moment de l'inscription à l'examen professionnel.
