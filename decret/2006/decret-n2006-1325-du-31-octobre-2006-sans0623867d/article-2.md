@@ -30,13 +30,21 @@ e) 100 % de l'écart pour les assurés nés après 1942.
 
 La majoration est attribuée au prorata du nombre de trimestres cotisés par l'assuré entre le 1er janvier 1979 et le 31 décembre 1997, rapporté au nombre de trimestres nécessaires pour atteindre la durée maximale fixée à l'article R. 351-6 du code de la sécurité sociale.
 
-Pour l'application des dispositions du présent V, sont prises en compte les valeurs respectives en vigueur au 1er janvier de chaque année du maximum de pension et du minimum de pension et de sa majoration visés au premier alinéa dudit V.
+Pour l'application des dispositions du présent V, sont prises en compte les valeurs respectives en vigueur     à la date d'entrée en jouissance de la pension du maximum de pension et du minimum de pension et de sa majoration visés au premier alinéa dudit V.
+
+V bis. - Pour les assurés qui soit remplissent les conditions prévues à l'article D. 721-6 du code de la sécurité sociale, dans sa rédaction en vigueur au 31 décembre 1997, soit justifient de la durée d'assurance visée au I du présent article, la pension prévue à l'article D. 721-7 du code de la sécurité sociale dans sa rédaction en vigueur au 31 décembre 1997 est, lors de sa liquidation, assortie d'une majoration.
+
+Cette majoration est calculée à partir de l'écart entre, d'une part, le maximum de pension fixé en application des dispositions de l'article D. 721-7 du code de la sécurité sociale et déterminé compte tenu des dispositions du III du présent article et, d'autre part, le montant du minimum de pension, non majoré au titre des périodes ayant donné lieu à cotisations à la charge de l'assuré, fixé en application des dispositions de l'article L. 351-10 de ce même code.
+
+La majoration est attribuée au prorata du nombre de trimestres d'assurance accomplis par l'assuré antérieurement au 1er janvier 1979, rapporté au nombre de trimestres nécessaires pour atteindre la durée maximale fixée à l'article R. 351-6 du code de la sécurité sociale.
+
+Pour l'application des dispositions du présent V bis, sont prises en compte les valeurs respectives en vigueur à la date d'entrée en jouissance de la pension du maximum de pension mentionné au deuxième alinéa dudit V bis et du minimum de pension, non majoré au titre des périodes ayant donné lieu à cotisations à la charge de l'assuré, fixé en application des dispositions de l'article L. 351-10 du code de la sécurité sociale.
 
 VI. - Les dispositions de l'article L. 351-1-1 du code de la sécurité sociale sont applicables à la pension de vieillesse mentionnée à l'article D. 721-6 du code de la sécurité sociale dans sa rédaction en vigueur au 31 décembre 1997.
 
 VII. - Les dispositions de l'article L. 351-1-3 du code de la sécurité sociale sont applicables à la pension de vieillesse mentionnée à l'article D. 721-6 du code de la sécurité sociale dans sa rédaction en vigueur au 31 décembre 1997.
 
-Pour l'application des dispositions du dernier alinéa du II de l'article D. 351-1-5 du code de la sécurité sociale, la référence au montant minimum défini à l'article L. 351-10 du même code est remplacée par la référence au montant assorti d'une majoration tel qu'il est défini au V du présent article.
+Pour l'application des dispositions du dernier alinéa du II de l'article D. 351-1-5 du code de la sécurité sociale, la référence au montant minimum défini à l'article L. 351-10 du même code est remplacée par la référence au montant assorti d'une majoration tel qu'il est défini aux V et V bis du présent article.
 
 VIII. - Nonobstant les dispositions du deuxième alinéa de l'article D. 721-8 du code de la sécurité sociale dans sa rédaction en vigueur au 31 décembre 1997, le montant annuel du maximum de pension visé au premier alinéa dudit article D. 721-8 est revalorisé par l'application des coefficients fixés en application des dispositions de l'article L. 161-23-1 du code de la sécurité sociale.
 
