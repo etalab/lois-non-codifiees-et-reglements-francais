@@ -564,7 +564,6 @@
 - [Arrêté du 18 février 1994 (ENVP9430073A)](arrete-du-18-fevrier-1994-envp9430073a)
 - [Arrêté du 18 février 1994 (EQUR9400049A)](arrete-du-18-fevrier-1994-equr9400049a)
 - [Arrêté du 18 février 1994 (EQUT9400389A)](arrete-du-18-fevrier-1994-equt9400389a)
-- [Arrêté du 18 janvier 1994 (AGRE9400136A)](arrete-du-18-janvier-1994-agre9400136a)
 - [Arrêté du 18 janvier 1994 (EQUS9400303A)](arrete-du-18-janvier-1994-equs9400303a)
 - [Arrêté du 18 juillet 1994 (BUDR9407019A)](arrete-du-18-juillet-1994-budr9407019a)
 - [Arrêté du 18 juillet 1994 (DEFD9401279A)](arrete-du-18-juillet-1994-defd9401279a)

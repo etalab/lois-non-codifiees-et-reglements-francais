@@ -563,7 +563,6 @@
 - [Arrêté du 23 avril 2002 (INTA0200189A)](arrete-du-23-avril-2002-inta0200189a)
 - [Arrêté du 23 avril 2002 (INTA0200190A)](arrete-du-23-avril-2002-inta0200190a)
 - [Arrêté du 23 avril 2002 (MENS0201070A)](arrete-du-23-avril-2002-mens0201070a)
-- [Arrêté du 23 avril 2002 (SANP0221506A)](arrete-du-23-avril-2002-sanp0221506a)
 - [Arrêté du 23 décembre 2002 (EQUS0201921A)](arrete-du-23-decembre-2002-equs0201921a)
 - [Arrêté du 23 décembre 2002 (EQUS0201922A)](arrete-du-23-decembre-2002-equs0201922a)
 - [Arrêté du 23 décembre 2002 (EQUU0201602A)](arrete-du-23-decembre-2002-equu0201602a)
