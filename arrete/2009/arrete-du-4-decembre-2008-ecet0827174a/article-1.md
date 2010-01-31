@@ -4,4 +4,4 @@ Les personnes physiques qui détenaient un livret A ou un compte spécial sur li
 
 Les personnes morales peuvent également demander le transfert des livrets qu'elles détenaient avant le 1er janvier 2009. Sauf accord des deux établissements concernés, les conditions prévues par le présent arrêté ne sont toutefois pas applicables à ces transferts.
 
-Les sommes virées dans le cadre des transferts visés aux deux alinéas précédents peuvent excéder le plafond prévu à l'article R. 221-3 du code monétaire et financier.
+Les sommes virées dans le cadre des transferts visés aux deux alinéas précédents peuvent excéder le plafond prévu à l'article R. 221-2 du code monétaire et financier.
