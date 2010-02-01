@@ -585,7 +585,6 @@
 - [Arrêté du 19 novembre 2003 (BUDD0340002A)](arrete-du-19-novembre-2003-budd0340002a)
 - [Arrêté du 19 novembre 2003 (BUDD0340003A)](arrete-du-19-novembre-2003-budd0340003a)
 - [Arrêté du 19 novembre 2003 (BUDD0370017A)](arrete-du-19-novembre-2003-budd0370017a)
-- [Arrêté du 19 novembre 2003 (JUSE0340109A)](arrete-du-19-novembre-2003-juse0340109a)
 - [Arrêté du 19 novembre 2003 (MENP0302542A)](arrete-du-19-novembre-2003-menp0302542a)
 - [Arrêté du 19 septembre 2003 (MENF0302050A)](arrete-du-19-septembre-2003-menf0302050a)
 - [Arrêté du 19 mai 2003 (DEFB0301577A)](arrete-du-19-mai-2003-defb0301577a)

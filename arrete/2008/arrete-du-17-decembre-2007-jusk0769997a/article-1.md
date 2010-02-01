@@ -4,209 +4,175 @@ La liste des emplois ouvrant droit à la majoration du montant annuel de référ
 
 <div align="center">
 
-</div>
-
-<div>
+<br/>
 <table>
 <tbody>
 <tr>
-<td align="center" rowspan="7">Administration centrale.<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<td align="left" rowspan="7" valign="top">
+<p align="left">Administration centrale. </p>
 </td>
 <td align="center">
-<br/>Assistant de gestion.<br/>
+<p align="left">Assistant de gestion. </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Responsable de la maintenance et supports logiciels.<br/>
+<p align="left">Responsable de la maintenance et supports logiciels. </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Responsable des commissions administratives paritaires et du suivi des décisions.<br/>
+<p align="left">Responsable des commissions administratives paritaires et du suivi des décisions. </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Secrétaire du directeur de l'administration pénitentiaire.<br/>
+<p align="left">Secrétaire du directeur de l'administration pénitentiaire. </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chargé d'application informatique.<br/>
+<p align="left">Chargé d'application informatique. </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Adjoint du responsable des commissions administratives paritaires et du suivi des décisions.<br/>
+<p align="left">Adjoint du responsable des commissions administratives paritaires et du suivi des décisions. </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Adjoint du responsable des transfèrements nationaux, internationaux et extraditions.<br/>
+<p align="left">Adjoint du responsable des transfèrements nationaux, internationaux et extraditions. </p>
 </td>
 </tr>
 <tr>
-<td align="center" rowspan="20">
-<br/>Services déconcentrés et établissements publics relevant de la direction de l'administration pénitentiaire et service de l'emploi pénitentiaire.<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<td align="left" rowspan="20" valign="top">
+<p align="left">Services déconcentrés et établissements publics relevant de la direction de l'administration pénitentiaire et service de l'emploi pénitentiaire. </p>
 </td>
 <td align="center">
-<br/>Chef de département.<br/>
+<p align="left">Chef de département. </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef d'unité.<br/>
+<p align="left">Chef d'unité. </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef de service de l'audit interne.<br/>
+<p align="left">Chef de service de l'audit interne. </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Délégué interrégional de l'organisation du service.<br/>
+<p align="left">Délégué interrégional de l'organisation du service. </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Formateur des personnels.<br/>
+<p align="left">Formateur des personnels. </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef de greffe dans les établissements pénitentiaires de Fleury-Mérogis, Fresnes, Paris-La Santé, Lille-Loos-Sequedin, Marseille.<br/>
+<p align="left">Chef de greffe dans les établissements pénitentiaires de Fleury-Mérogis, Fresnes, Paris-La Santé, Lille-Loos-Sequedin, Marseille. </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Adjoint au chef de greffe dans les établissements pénitentiaires de Fleury-Mérogis, Fresnes, Paris-La Santé, Lille-Loos-Sequedin, Marseille.<br/>
+<p align="left">Adjoint au chef de greffe dans les établissements pénitentiaires de Fleury-Mérogis, Fresnes, Paris-La Santé, Lille-Loos-Sequedin, Marseille. </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef de greffe dans les autres établissements pénitentiaires.<br/>
+<p align="left">Chef de greffe dans les autres établissements pénitentiaires. </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Régisseur des comptes nominatifs.<br/>
+<p align="left">Régisseur des comptes nominatifs. </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Responsable des services administratifs en unité opérationnelle.<br/>
+<p align="left">Responsable des services administratifs en unité opérationnelle. </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Responsable des services des traitements en unité opérationnelle.<br/>
+<p align="left">Responsable des services des traitements en unité opérationnelle. </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Responsable de la gestion des personnels en unité opérationnelle.<br/>
+<p align="left">Responsable de la gestion des personnels en unité opérationnelle. </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Responsable des ateliers du service de l'emploi pénitentiaire.<br/>
+<p align="left">Responsable des ateliers du service de l'emploi pénitentiaire. </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Responsable des services administratifs et/ou financiers en établissement pénitentiaire.<br/>
+<p align="left">Responsable des services administratifs et / ou financiers en établissement pénitentiaire. </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Régisseur des crédits budgétaires (avances et recettes).<br/>
+<p align="left">Régisseur des crédits budgétaires (avances et recettes). </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Responsable de l'encadrement en détention.<br/>
+<p align="left">Responsable de l'encadrement en détention. </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef d'équipe.<br/>
+<p align="left">Chef d'équipe. </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Technicien chargé de maintenance.<br/>
+<p align="left">Technicien chargé de maintenance. </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Technicien chef de cuisine.<br/>
+<p align="left">Technicien chef de cuisine. </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Responsable de la formation et/ou de l'encadrement du travail pénitentiaire.<br/>
+<p align="left">Responsable de la formation et / ou de l'encadrement du travail pénitentiaire. </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Service pénitentiaire d'insertion et de probation.<br/>
+<td align="left" valign="top">
+<p align="left">Service pénitentiaire d'insertion et de probation. </p>
 </td>
 <td align="center">
-<br/>Régisseur des services pénitentiaires d'insertion et de probation.<br/>
+<p align="left">Régisseur des services pénitentiaires d'insertion et de probation. </p>
 </td>
+</tr>
+<tr>
+<td align="left" rowspan="5" valign="top">Emplois exercés au sein de l'Ecole nationale d'administration pénitentiaire. </td>
+<td>Chef de département. </td>
+</tr>
+<tr>
+<td>Chef d'unité. </td>
+</tr>
+<tr>
+<td>Chef du service de l'audit interne. </td>
+</tr>
+<tr>
+<td>Formateur. </td>
+</tr>
+<tr>
+<td>Régisseur de l'Ecole nationale d'administration pénitentiaire.</td>
 </tr>
 </tbody>
 </table>
+
 </div>
