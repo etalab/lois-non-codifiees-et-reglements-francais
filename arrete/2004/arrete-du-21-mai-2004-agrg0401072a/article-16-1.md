@@ -32,4 +32,4 @@ Le cahier des charges relatif à la procédure de test concernant l'expérimenta
 
 -les documents utilisés dans le cadre de cette expérimentation.
 
-L'annexe du présent arrêté est publiée au Bulletin officiel et est disponible sur le site internet de l'établissement public Les Haras nationaux :  www.haras-nationaux.fr.
+L'annexe du présent arrêté est publiée au Bulletin officiel et est disponible sur le site internet de l'établissement public l'Institut français du cheval et de l'équitation :  www. haras-nationaux. fr.

@@ -14,4 +14,4 @@ Institut national de formation des personnels du ministère de l'agriculture ;
 
 Agence française de sécurité sanitaire des aliments ;
 
-Etablissement public Les Haras nationaux.
+Etablissement public Institut français du cheval et de l'équitation.

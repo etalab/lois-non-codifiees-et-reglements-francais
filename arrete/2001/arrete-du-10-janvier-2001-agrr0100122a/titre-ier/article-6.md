@@ -6,4 +6,4 @@ Les membres du jury ne peuvent pas juger d'animaux leur appartenant.
 
 Le président signe les procès-verbaux des concours.
 
-Les résultats des concours sont transmis au directeur général de l'établissement public Les Haras nationaux dans un délai d'un mois suivant le concours.
+Les résultats des concours sont transmis au directeur général de l'établissement public l'Institut français du cheval et de l'équitation dans un délai d'un mois suivant le concours.

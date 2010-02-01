@@ -218,7 +218,7 @@ Attribution de la nouvelle bonification indiciaire dans les services déconcentr
 </tr>
 <tr>
 <td valign="top" width="387">
-<p>Chef de dépôt d'étalon aux Haras nationaux </p>
+<p>Chef de dépôt d'étalon à L'Institut français du cheval et de l'équitation </p>
 </td>
 <td valign="top" width="74">
 <p align="center">C </p>
@@ -796,7 +796,7 @@ B.-Attribution de la nouvelle bonification indiciaire dans les services déconce
 </tr>
 <tr>
 <td valign="top" width="388">
-<p>Secrétaire général en     direction régionale de l'environnement, de l'aménagement et du logement  </p>
+<p>Secrétaire général en direction régionale de l'environnement, de l'aménagement et du logement </p>
 </td>
 <td width="69">
 <p align="center">A </p>
@@ -810,7 +810,7 @@ B.-Attribution de la nouvelle bonification indiciaire dans les services déconce
 </tr>
 <tr>
 <td valign="top" width="388">
-<p>Responsable de l'unité de programmation et d'ingénierie financières au sein du secrétariat général de la     direction régionale de l'environnement, de l'aménagement et du logement  du Nord-Pas-de-Calais </p>
+<p>Responsable de l'unité de programmation et d'ingénierie financières au sein du secrétariat général de la direction régionale de l'environnement, de l'aménagement et du logement du Nord-Pas-de-Calais </p>
 </td>
 <td width="69">
 <p align="center">A </p>
@@ -824,7 +824,7 @@ B.-Attribution de la nouvelle bonification indiciaire dans les services déconce
 </tr>
 <tr>
 <td valign="top" width="388">
-<p>Responsable de gestion comptable ou de gestion de personnel en     direction régionale de l'environnement, de l'aménagement et du logement  </p>
+<p>Responsable de gestion comptable ou de gestion de personnel en direction régionale de l'environnement, de l'aménagement et du logement </p>
 </td>
 <td width="69">
 <p align="center">B </p>

@@ -4,4 +4,4 @@ La demande d'habilitation, accompagnée d'un dossier dont la composition est fix
 
 Le ministre de l'agriculture et de la pêche délivre un numéro d'identificateur équin à chaque identificateur qu'il habilite.
 
-Une copie du dossier est adressée à l'établissement public Les Haras nationaux.
+Une copie du dossier est adressée à l'établissement public Institut français du cheval et de l'équitation.

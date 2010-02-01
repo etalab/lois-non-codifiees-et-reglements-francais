@@ -44,7 +44,7 @@ Commission nationale de sécurité des enceintes sportives instituée par le dé
 
 Collège de l'Agence française de lutte contre le dopage institué par la loi n° 2006-405 du 5 avril 2006 et le décret n° 2006-1204 du 29 septembre 2006.
 
-Conseil d'administration de l'Ecole nationale d'équitation institué par le décret n° 72-398 du 16 mai 1972.
+Conseil d'administration de l'Institut français du cheval et de l'équitation institué par le décret n° 72-398 du 16 mai 1972.
 
 Conseil d'administration de l'Institut national du sport et de l'éducation physique institué par le décret n° 76-1330 du 31 décembre 1976.
 

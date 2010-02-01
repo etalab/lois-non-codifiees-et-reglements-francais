@@ -8,4 +8,4 @@ Si le nombre de votants est égal ou supérieur à la moitié du nombre des éle
 
 2. Le bureau de vote central constate le quorum pour le comité technique paritaire spécial auprès duquel il a été institué.
 
-A l'issue des opérations de dépouillement, le président du bureau de vote central proclame les résultats pour son comité technique paritaire spécial. Les résultats sont portés sur des procès-verbaux qui sont transmis sans délai au directeur général des Haras nationaux.
+A l'issue des opérations de dépouillement, le président du bureau de vote central proclame les résultats pour son comité technique paritaire spécial. Les résultats sont portés sur des procès-verbaux qui sont transmis sans délai au directeur général de l'Institut français du cheval et de l'équitation.

@@ -1,6 +1,6 @@
 # Article 3
 
-Le règlement des concours d'élevage et ses éventuelles modifications sont approuvés par le ministre de l'agriculture après avis de l'établissement public Les Haras nationaux.
+Le règlement des concours d'élevage et ses éventuelles modifications sont approuvés par le ministre de l'agriculture après avis de l'établissement public l'Institut français du cheval et de l'équitation.
 
 Le règlement fixe, pour chaque type de concours, les races ou catégories d'animaux auxquels ils sont ouverts, les conditions de leur admission et la nature des épreuves et des tests auxquels ils seront soumis.
 

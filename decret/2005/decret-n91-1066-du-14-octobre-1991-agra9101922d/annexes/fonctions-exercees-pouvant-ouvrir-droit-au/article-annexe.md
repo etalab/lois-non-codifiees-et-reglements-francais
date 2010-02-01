@@ -34,7 +34,7 @@ Fonctions exercées dans les services déconcentrées du ministère de l'agricul
 
 15. (Supprimé) ;
 
-16. Chef de dépôt d'étalons aux Haras nationaux ;
+16. Chef de dépôt d'étalons à l'Institut français du cheval et de l'équitation ;
 
 17. (Supprimé) ;
 
@@ -124,8 +124,8 @@ Agent exerçant des fonctions de secrétariat soit auprès de cadres chargés de
 
 B.-Fonctions exercées dans les services déconcentrés du ministère chargé de l'environnement pouvant ouvrir droit au versement de la nouvelle bonification indiciaire :
 
-1. Secrétaire général d'une     direction régionale de l'environnement, de l'aménagement et du logement  ;
+1. Secrétaire général d'une direction régionale de l'environnement, de l'aménagement et du logement ;
 
-2. Responsable de l'unité de programmation et d'ingénierie financières au sein du secrétariat général de la     direction régionale de l'environnement, de l'aménagement et du logement  de Nord-Pas-de-Calais ;
+2. Responsable de l'unité de programmation et d'ingénierie financières au sein du secrétariat général de la direction régionale de l'environnement, de l'aménagement et du logement de Nord-Pas-de-Calais ;
 
-3. Responsable de la gestion comptable ou de la gestion du personnel en     direction régionale de l'environnement, de l'aménagement et du logement .
+3. Responsable de la gestion comptable ou de la gestion du personnel en direction régionale de l'environnement, de l'aménagement et du logement.

@@ -1,6 +1,6 @@
 # Article 1
 
-En application du troisième alinéa de l'article 2 du décret du 14 janvier 2002 susvisé, les agents non titulaires de droit public recrutés par le domaine de Pompadour et employés à durée indéterminée par l'établissement public Les Haras nationaux peuvent percevoir des indemnités d'administration et de technicité conformément au tableau d'assimilation ci-dessous :
+En application du troisième alinéa de l'article 2 du décret du 14 janvier 2002 susvisé, les agents non titulaires de droit public recrutés par le domaine de Pompadour et employés à durée indéterminée par l'établissement public l'Institut français du cheval et de l'équitation peuvent percevoir des indemnités d'administration et de technicité conformément au tableau d'assimilation ci-dessous :
 
 <table>
 <tbody>

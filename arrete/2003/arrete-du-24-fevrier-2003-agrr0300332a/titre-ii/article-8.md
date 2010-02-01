@@ -6,4 +6,4 @@ Cette convention est résiliée lorsque l'affectation géographique de l'agent n
 
 Un agent ne peut être encadré que par un seul vétérinaire.
 
-Un vétérinaire ne peut encadrer plus de cinq agents de l'établissement public "Les Haras nationaux".
+Un vétérinaire ne peut encadrer plus de cinq agents de l'établissement public "  L'Institut français du cheval et de l'équitation  ".

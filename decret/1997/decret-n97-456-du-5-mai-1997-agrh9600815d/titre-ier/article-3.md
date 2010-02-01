@@ -1,6 +1,6 @@
 # Article 3
 
-L'autorisation d'organiser des courses de chevaux est accordée par le préfet pour un an, après avis du directeur général de l'établissement public Les Haras nationaux, conformément au calendrier des courses approuvé par le ministre chargé de l'agriculture. A Paris, cette autorisation est accordée par le préfet de police.
+L'autorisation d'organiser des courses de chevaux est accordée par le préfet pour un an, après avis du directeur général de l'établissement public Institut français du cheval et de l'équitation, conformément au calendrier des courses approuvé par le ministre chargé de l'agriculture. A Paris, cette autorisation est accordée par le préfet de police.
 
 L'avis est rendu dans un délai d'un mois à compter de la transmission de la demande au directeur général de l'établissement public. A défaut, il est réputé favorable.
 

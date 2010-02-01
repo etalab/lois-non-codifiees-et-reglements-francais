@@ -22,4 +22,4 @@ Sans préjudice des dispositions prévues par l'arrêté du 30 avril 2002 susvis
 
 Le vétérinaire précise et adapte si nécessaire le protocole. Toutes anomalies et difficultés doivent lui être signalées soit sans délai si la situation le justifie, soit au moyen des rapports hebdomadaires de marquages.
 
-Le directeur général de l'établissement public "Les Haras nationaux" tient à la disposition de l'agent les matériels et produits nécessaires à la réalisation de ces opérations.
+Le directeur général de l'établissement public "  L'Institut français du cheval et de l'équitation  " tient à la disposition de l'agent les matériels et produits nécessaires à la réalisation de ces opérations.

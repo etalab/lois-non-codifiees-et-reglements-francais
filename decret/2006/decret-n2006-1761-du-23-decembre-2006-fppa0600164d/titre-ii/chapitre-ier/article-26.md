@@ -1,6 +1,6 @@
 # Article 26
 
-Les fonctionnaires appartenant aux corps régis par le décret n° 95-619 du 6 mai 1995 modifié portant statut particulier des corps des adjoints techniques et des agents techniques des haras sont intégrés dans le corps des adjoints techniques de l'établissement public " les Haras nationaux " régi par le présent décret et sont reclassés dans ce corps conformément au tableau suivant :
+Les fonctionnaires appartenant aux corps régis par le décret n° 95-619 du 6 mai 1995 modifié portant statut particulier des corps des adjoints techniques et des agents techniques des haras sont intégrés dans le corps des adjoints techniques de l'établissement public " Institut français du cheval et de l'équitation " régi par le présent décret et sont reclassés dans ce corps conformément au tableau suivant :
 
 <table>
 <tbody>

@@ -146,7 +146,7 @@ Sont abrogés :
 
 72° Le décret du 5 novembre 1996 relatif à l'agrément des rhums bénéficiant d'une appellation d'origine contrôlée ;
 
-73° L'article 5 I., en ce qui concerne les mots : "au premier alinéa de l'article 1er", "au premier alinéa de l'article 7" et "à l'article 8", du décret n° 97-1203 du 24 décembre 1997 pris pour l'application au ministère de l'agriculture et de la pêche de l'article 2 (2°) du décret n° 97-34 du 15 janvier 1997 relatif à la déconcentration des décisions administratives individuelles ;
+73° L'article 5 I., en ce qui concerne les mots : " au premier alinéa de l'article 1er ", " au premier alinéa de l'article 7 " et " à l'article 8 ", du décret n° 97-1203 du 24 décembre 1997 pris pour l'application au ministère de l'agriculture et de la pêche de l'article 2 (2°) du décret n° 97-34 du 15 janvier 1997 relatif à la déconcentration des décisions administratives individuelles ;
 
 74° Le décret n° 97-1319 du 30 décembre 1997 relatif aux modalités de paiement du lait de vache en fonction de sa qualité et de sa composition ;
 
@@ -162,7 +162,7 @@ Sont abrogés :
 
 80° Le décret n° 99-370 du 7 mai 1999 relatif à la taxe d'usage et à l'exploitation des abattoirs publics ;
 
-81° Le décret n° 99-556 du 2 juillet 1999 portant création et organisation de l'établissement public Les Haras nationaux ;
+81° Le décret n° 99-556 du 2 juillet 1999 portant création et organisation de l'établissement public Institut français du cheval et de l'équitation ;
 
 82° Le décret n° 2000-243 du 13 mars 2000 relatif aux conditions zootechniques et généalogiques applicables aux importations en provenance de pays tiers d'animaux reproducteurs, de leur sperme, de leurs ovules et de leurs embryons ;
 
@@ -176,7 +176,7 @@ Sont abrogés :
 
 87° Le décret n° 2000-998 du 12 octobre 2000 relatif à la composition et au fonctionnement du Conseil supérieur d'orientation et de coordination de l'économie agricole et alimentaire ;
 
-88° Le décret n° 2000-1231 du 15 décembre 2000 relatif à l'utilisation du terme "montagne" ;
+88° Le décret n° 2000-1231 du 15 décembre 2000 relatif à l'utilisation du terme " montagne " ;
 
 89° Le décret n° 2001-197 du 1er mars 2001 portant création des commissions consultatives régionales d'orientation du cheval ;
 
@@ -194,4 +194,4 @@ Sont abrogés :
 
 96° Le décret n° 2002-1544 du 20 décembre 2002 relatif à l'identification des ovins et caprins ainsi qu'à l'application de l'article L. 231-6 du code rural ;
 
-97° Le décret n° 2003-112 du 5 février 2003 relatif à l'habilitation des agents de l'établissement public Les Haras nationaux pour l'identification électronique complémentaire des équidés.
+97° Le décret n° 2003-112 du 5 février 2003 relatif à l'habilitation des agents de l'établissement public Institut français du cheval et de l'équitation pour l'identification électronique complémentaire des équidés.

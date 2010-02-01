@@ -8,10 +8,10 @@ La liste des agents auxquels peut s'appliquer ce régime de travail est définie
 
 a) Personnels chargés de fonctions d'encadrement :
 
-- les directeurs nationaux et leurs adjoints ;
+-les directeurs nationaux et leurs adjoints ;
 
-- les directeurs interrégionaux ;
+-les directeurs interrégionaux ;
 
-- les directeurs et les sous-directeurs d'un dépôt des Haras nationaux ;
+-les directeurs et les sous-directeurs d'un dépôt de l'Institut français du cheval et de l'équitation ;
 
 b) Personnels de conception bénéficiant d'une large autonomie : agents de catégorie A exerçant des fonctions de chefs de projet, de chargé de mission, de chargé de conduite de projet technique.

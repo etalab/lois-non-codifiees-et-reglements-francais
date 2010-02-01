@@ -2,7 +2,7 @@
 
 La Commission nationale d'identification mentionnée à l'article D. 212-13 du code rural est présidée par le directeur général de l'alimentation ou son représentant. Outre son président, elle est composée des membres suivants :
 
-I. - Membres de droit :
+I.-Membres de droit :
 
 1. Le sous-directeur de la santé et de la protection animales à la direction générale de l'alimentation ;
 
@@ -38,11 +38,11 @@ I. - Membres de droit :
 
 17. Le vice-président du Conseil général de l'agriculture, de l'alimentation et des espaces ruraux ;
 
-18. Le directeur général des Haras nationaux ;
+18. Le directeur général des L'Institut français du cheval et de l'équitation  ;
 
 19. Le directeur de l'Office de l'élevage ;
 
-II. - Membres désignés par arrêté du ministre chargé de l'agriculture :
+II.-Membres désignés par arrêté du ministre chargé de l'agriculture :
 
 1. Un représentant des directions départementales des services vétérinaires ;
 
@@ -104,7 +104,7 @@ Sont également membres désignés, par arrêté du ministre chargé de l'agricu
 
 27. Un représentant de l'Agence de la sélection porcine ;
 
-28. Un représentant de l'IFIP - Institut du porc ;
+28. Un représentant de l'IFIP-Institut du porc ;
 
 29. Un représentant du Syndicat national du commerce du porc ;
 

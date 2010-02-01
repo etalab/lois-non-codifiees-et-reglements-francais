@@ -4,18 +4,18 @@
 <tbody>
 <tr>
 <td width="378">
-<p align="center">GRADES ET EMPLOIS</p>
+<p align="center">GRADES ET EMPLOIS </p>
 </td>
 <td width="113">
-<p align="center">CLASSEMENT hiérarchique</p>
+<p align="center">CLASSEMENT hiérarchique </p>
 </td>
 <td width="151">
-<p align="center">OBSERVATIONS</p>
+<p align="center">OBSERVATIONS </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>I - CORPS D'INSPECTION ET EMPLOIS </p>
+<p>I-CORPS D'INSPECTION ET EMPLOIS </p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -33,10 +33,10 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>1re classe</p>
+<p>1re classe </p>
 </td>
 <td valign="top" width="113">
-<p align="center">1 015 - HED</p>
+<p align="center">1 015-HED </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
@@ -45,13 +45,13 @@
 <p>2e classe </p>
 </td>
 <td valign="top" width="113">
-<p align="center">852 - HEB</p>
+<p align="center">852-HEB </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Conseil général de l'agriculture, de l'alimentation et des espaces ruraux</p>
+<p>Conseil général de l'agriculture, de l'alimentation et des espaces ruraux </p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -60,19 +60,19 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Vice-président</p>
+<p>Vice-président </p>
 </td>
 <td valign="top" width="113">
-<p align="center">HEF</p>
+<p align="center">HEF </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Vice-président délégué</p>
+<p>Vice-président délégué </p>
 </td>
 <td valign="top" width="113">
-<p align="center">HEE</p>
+<p align="center">HEE </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
@@ -81,7 +81,7 @@
 <p>Président de mission permanente, président de section, président de commission </p>
 </td>
 <td valign="top" width="113">
-<p align="center">HEE</p>
+<p align="center">HEE </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
@@ -96,47 +96,47 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Directeur régional de l'agriculture et de la forêt</p>
+<p>Directeur régional de l'agriculture et de la forêt </p>
 </td>
 <td valign="top" width="113">
-<p align="center">966 - HEB</p>
+<p align="center">966-HEB </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Directeur départemental de l'agriculture et de la forêt</p>
+<p>Directeur départemental de l'agriculture et de la forêt </p>
 </td>
 <td valign="top" width="113">
-<p align="center">852 - HEA (HEB)</p>
+<p align="center">852-HEA (HEB) </p>
 </td>
 <td valign="top" width="151">
-<p>Echelon fonctionnel</p>
+<p>Echelon fonctionnel </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Directeur de l'agriculture et de la forêt</p>
+<p>Directeur de l'agriculture et de la forêt </p>
 </td>
 <td valign="top" width="113">
-<p align="center">852 - HEA (HEB)</p>
+<p align="center">852-HEA (HEB) </p>
 </td>
 <td valign="top" width="151">
-<p>Echelon fonctionnel</p>
+<p>Echelon fonctionnel </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Directeur délégué</p>
+<p>Directeur délégué </p>
 </td>
 <td valign="top" width="113">
-<p align="center">852 - HEA</p>
+<p align="center">852-HEA </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Directeur départemental des services vétérinaires</p>
+<p>Directeur départemental des services vétérinaires </p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -145,61 +145,61 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>1re catégorie</p>
+<p>1re catégorie </p>
 </td>
 <td valign="top" width="113">
-<p align="center">852 - HEB</p>
+<p align="center">852-HEB </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>2e catégorie</p>
+<p>2e catégorie </p>
 </td>
 <td valign="top" width="113">
-<p align="center">772 - 1015</p>
+<p align="center">772-1015 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Directeur des services vétérinaires</p>
+<p>Directeur des services vétérinaires </p>
 </td>
 <td valign="top" width="113">
 <br/>
 </td>
 <td valign="top" width="151">
-<p>Emplois outre-mer</p>
+<p>Emplois outre-mer </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>1re catégorie</p>
+<p>1re catégorie </p>
 </td>
 <td valign="top" width="113">
-<p align="center">852 - HEB</p>
+<p align="center">852-HEB </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>2e catégorie</p>
+<p>2e catégorie </p>
 </td>
 <td valign="top" width="113">
-<p align="center">772 - 1015</p>
+<p align="center">772-1015 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Inspecteur de l'enseignement agricole</p>
+<p>Inspecteur de l'enseignement agricole </p>
 </td>
 <td valign="top" width="113">
-<p align="center">750-HEB</p>
-<p align="center">(582-659)</p>
+<p align="center">750-HEB </p>
+<p align="center">(582-659) </p>
 </td>
 <td valign="top" width="151">
-<p>Echelons provisoires</p>
+<p>Echelons provisoires </p>
 </td>
 </tr>
 <tr>
@@ -207,7 +207,7 @@
 <p>Inspecteur de l'administration de l'enseignement agricole </p>
 </td>
 <td valign="top" width="113">
-<p align="center">416 - 801</p>
+<p align="center">416-801 </p>
 </td>
 <td valign="top" width="151">
 <p>Mis en extinction par le décret n° 87-30 du 20 janvier 1987 </p>
@@ -224,10 +224,10 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>hors classe</p>
+<p>hors classe </p>
 </td>
 <td valign="top" width="113">
-<p align="center">801-HEA</p>
+<p align="center">801-HEA </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
@@ -236,11 +236,11 @@
 <p>1re classe </p>
 </td>
 <td valign="top" width="113">
-<p align="center">457 - 1015</p>
-<p align="center">(910)-(966)</p>
+<p align="center">457-1015 </p>
+<p align="center">(910)-(966) </p>
 </td>
 <td valign="top" width="151">
-<p>Echelons provisoires</p>
+<p>Echelons provisoires </p>
 </td>
 </tr>
 <tr>
@@ -248,19 +248,19 @@
 <p>2e classe </p>
 </td>
 <td valign="top" width="113">
-<p align="center">457 - 852</p>
+<p align="center">457-852 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Secrétaire général d'établissement d'enseignement supérieur agricole et vétérinaire</p>
+<p>Secrétaire général d'établissement d'enseignement supérieur agricole et vétérinaire </p>
 </td>
 <td valign="top" width="113">
-<p align="center">801-1015 (HEA)</p>
+<p align="center">801-1015 (HEA) </p>
 </td>
 <td valign="top" width="151">
-<p>Echelon fonctionnel</p>
+<p>Echelon fonctionnel </p>
 </td>
 </tr>
 <tr>
@@ -268,13 +268,13 @@
 <p>Chef de mission de l'agriculture et de l'environnement </p>
 </td>
 <td valign="top" width="113">
-<p align="center">759- HEA</p>
+<p align="center">759-HEA </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>II - FILIÈRES TECHNIQUES </p>
+<p>II-FILIÈRES TECHNIQUES </p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -304,7 +304,7 @@
 <p>classe exceptionnelle </p>
 </td>
 <td valign="top" width="113">
-<p align="center">HED</p>
+<p align="center">HED </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
@@ -313,40 +313,40 @@
 <p>classe normale </p>
 </td>
 <td valign="top" width="113">
-<p align="center">HEB - HEC</p>
+<p align="center">HEB-HEC </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Ingénieur en chef</p>
+<p>Ingénieur en chef </p>
 </td>
 <td valign="top" width="113">
-<p align="center">750 - HEB</p>
+<p align="center">750-HEB </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Ingénieur</p>
+<p>Ingénieur </p>
 </td>
 <td valign="top" width="113">
-<p align="center">427 - 966</p>
+<p align="center">427-966 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Ingénieur élève</p>
+<p>Ingénieur élève </p>
 </td>
 <td valign="top" width="113">
-<p align="center">395</p>
+<p align="center">395 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Corps des inspecteurs de la santé publique vétérinaire</p>
+<p>Corps des inspecteurs de la santé publique vétérinaire </p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -355,7 +355,7 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Inspecteur général de la santé publique vétérinaire</p>
+<p>Inspecteur général de la santé publique vétérinaire </p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -367,7 +367,7 @@
 <p>classe exceptionnelle </p>
 </td>
 <td valign="top" width="113">
-<p align="center">HED</p>
+<p align="center">HED </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
@@ -376,25 +376,25 @@
 <p>classe normale </p>
 </td>
 <td valign="top" width="113">
-<p align="center">HEB - HEC</p>
+<p align="center">HEB-HEC </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Inspecteur en chef de la santé publique vétérinaire</p>
+<p>Inspecteur en chef de la santé publique vétérinaire </p>
 </td>
 <td valign="top" width="113">
-<p align="center">750 - HEB</p>
+<p align="center">750-HEB </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Inspecteur de la santé publique vétérinaire</p>
+<p>Inspecteur de la santé publique vétérinaire </p>
 </td>
 <td valign="top" width="113">
-<p align="center">427 - 966</p>
+<p align="center">427-966 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
@@ -403,13 +403,13 @@
 <p>Inspecteur élève de la santé publique vétérinaire </p>
 </td>
 <td valign="top" width="113">
-<p align="center">395</p>
+<p align="center">395 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Corps des ingénieurs de l'agriculture et de l'environnement</p>
+<p>Corps des ingénieurs de l'agriculture et de l'environnement </p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -421,16 +421,16 @@
 <p>Ingénieur divisionnaire </p>
 </td>
 <td valign="top" width="113">
-<p align="center">593 - 966</p>
+<p align="center">593-966 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Ingénieur</p>
+<p>Ingénieur </p>
 </td>
 <td valign="top" width="113">
-<p align="center">379 - 801</p>
+<p align="center">379-801 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
@@ -439,10 +439,10 @@
 <p>Elève ingénieur </p>
 </td>
 <td valign="top" width="113">
-<p align="center">340 - 359 (1)</p>
+<p align="center">340-359 (1) </p>
 </td>
 <td valign="top" width="151">
-<p>(1) Après 1 an</p>
+<p>(1) Après 1 an </p>
 </td>
 </tr>
 <tr>
@@ -456,19 +456,19 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Chef technicien</p>
+<p>Chef technicien </p>
 </td>
 <td valign="top" width="113">
-<p align="center">422-638</p>
+<p align="center">422-638 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Technicien principal</p>
+<p>Technicien principal </p>
 </td>
 <td valign="top" width="113">
-<p align="center">391-593</p>
+<p align="center">391-593 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
@@ -477,13 +477,13 @@
 <p>Technicien </p>
 </td>
 <td valign="top" width="113">
-<p align="center">322-558</p>
+<p align="center">322-558 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Corps des contrôleurs sanitaires des services du ministère de l'agriculture</p>
+<p>Corps des contrôleurs sanitaires des services du ministère de l'agriculture </p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -504,7 +504,7 @@
 <p>classe supérieure </p>
 </td>
 <td valign="top" width="113">
-<p align="center">367 - 579</p>
+<p align="center">367-579 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
@@ -513,13 +513,13 @@
 <p>classe normale </p>
 </td>
 <td valign="top" width="113">
-<p align="center">306 - 544</p>
+<p align="center">306-544 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>III - FILIÈRES ADMINISTRATIVE, OUVRIERE ET DE LABORATOIRE</p>
+<p>III-FILIÈRES ADMINISTRATIVE, OUVRIERE ET DE LABORATOIRE </p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -528,7 +528,7 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Corps des attachés administratifs des services déconcentrés du ministère chargé de l'agriculture</p>
+<p>Corps des attachés administratifs des services déconcentrés du ministère chargé de l'agriculture </p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -537,7 +537,7 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Attaché principal</p>
+<p>Attaché principal </p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -546,24 +546,24 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>1re classe</p>
+<p>1re classe </p>
 </td>
 <td valign="top" width="113">
-<p align="center">852 - 966</p>
+<p align="center">852-966 </p>
 </td>
 <td valign="top" width="151">
-<p>A compter du 1er août 1995</p>
+<p>A compter du 1er août 1995 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>2e classe</p>
+<p>2e classe </p>
 </td>
 <td valign="top" width="113">
-<p align="center">563 - 821</p>
+<p align="center">563-821 </p>
 </td>
 <td valign="top" width="151">
-<p>A compter du 1er août 1995</p>
+<p>A compter du 1er août 1995 </p>
 </td>
 </tr>
 <tr>
@@ -571,22 +571,22 @@
 <p>Attaché administratif </p>
 </td>
 <td valign="top" width="113">
-<p align="center">379 - 780</p>
+<p align="center">379-780 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Attaché stagiaire</p>
+<p>Attaché stagiaire </p>
 </td>
 <td valign="top" width="113">
-<p align="center">340</p>
+<p align="center">340 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Corps des attachés d'administration scolaire et universitaire de l'enseignement agricole</p>
+<p>Corps des attachés d'administration scolaire et universitaire de l'enseignement agricole </p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -595,7 +595,7 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Attaché principal</p>
+<p>Attaché principal </p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -604,24 +604,24 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>1re classe</p>
+<p>1re classe </p>
 </td>
 <td valign="top" width="113">
-<p align="center">852 - 966</p>
+<p align="center">852-966 </p>
 </td>
 <td valign="top" width="151">
-<p>A compter du 1er août 1995</p>
+<p>A compter du 1er août 1995 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>2e classe</p>
+<p>2e classe </p>
 </td>
 <td valign="top" width="113">
-<p align="center">563 - 821</p>
+<p align="center">563-821 </p>
 </td>
 <td valign="top" width="151">
-<p>A compter du 1er août 1995</p>
+<p>A compter du 1er août 1995 </p>
 </td>
 </tr>
 <tr>
@@ -629,22 +629,22 @@
 <p>Attaché </p>
 </td>
 <td valign="top" width="113">
-<p align="center">379 - 780</p>
+<p align="center">379-780 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Attaché stagiaire</p>
+<p>Attaché stagiaire </p>
 </td>
 <td valign="top" width="113">
-<p align="center">340</p>
+<p align="center">340 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Corps des techniciens des établissements publics de l'enseignement technique agricole</p>
+<p>Corps des techniciens des établissements publics de l'enseignement technique agricole </p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -653,10 +653,10 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Technicien principal</p>
+<p>Technicien principal </p>
 </td>
 <td valign="top" width="113">
-<p align="center">367 - 579</p>
+<p align="center">367-579 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
@@ -665,7 +665,7 @@
 <p>Technicien </p>
 </td>
 <td valign="top" width="113">
-<p align="center">306 - 544</p>
+<p align="center">306-544 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
@@ -680,7 +680,7 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Adjoint technique principal de laboratoire</p>
+<p>Adjoint technique principal de laboratoire </p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -692,7 +692,7 @@
 <p>1re classe </p>
 </td>
 <td valign="top" width="113">
-<p align="center">E 6</p>
+<p align="center">E 6 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
@@ -701,13 +701,13 @@
 <p>2e classe </p>
 </td>
 <td valign="top" width="113">
-<p align="center">E 5</p>
+<p align="center">E 5 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Adjoint technique de laboratoire</p>
+<p>Adjoint technique de laboratoire </p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -719,7 +719,7 @@
 <p>1re classe </p>
 </td>
 <td valign="top" width="113">
-<p align="center">E 4</p>
+<p align="center">E 4 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
@@ -728,13 +728,13 @@
 <p>2e classe </p>
 </td>
 <td valign="top" width="113">
-<p align="center">E 3</p>
+<p align="center">E 3 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>IV - ETABLISSEMENTS PUBLICS ET OFFICES RATTACHÉS </p>
+<p>IV-ETABLISSEMENTS PUBLICS ET OFFICES RATTACHÉS </p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -743,7 +743,7 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>A - OFFICE NATIONAL INTERPROFESSIONNEL DES CEREALES</p>
+<p>A-OFFICE NATIONAL INTERPROFESSIONNEL DES CEREALES </p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -752,62 +752,62 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Inspecteur général</p>
+<p>Inspecteur général </p>
 </td>
 <td valign="top" width="113">
-<p align="center">901-1015 (a)</p>
+<p align="center">901-1015 (a) </p>
 </td>
 <td valign="top" width="151">
-<p>(a)</p>
+<p>(a) </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Inspecteur général adjoint</p>
+<p>Inspecteur général adjoint </p>
 </td>
 <td valign="top" width="113">
-<p align="center">772 - 1015</p>
+<p align="center">772-1015 </p>
 </td>
 <td valign="top" width="151">
-<p>A compter du 1er janvier 1997</p>
+<p>A compter du 1er janvier 1997 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Inspecteur divisionnaire</p>
+<p>Inspecteur divisionnaire </p>
 </td>
 <td valign="top" width="113">
-<p align="center">772 - 985</p>
+<p align="center">772-985 </p>
 </td>
 <td valign="top" width="151">
-<p>A compter du 1er août 1996</p>
+<p>A compter du 1er août 1996 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Sous-directeur</p>
+<p>Sous-directeur </p>
 </td>
 <td valign="top" width="113">
-<p align="center">801 - 1015 (a)</p>
+<p align="center">801-1015 (a) </p>
 </td>
 <td valign="top" width="151">
-<p>(a)</p>
+<p>(a) </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Agent comptable</p>
+<p>Agent comptable </p>
 </td>
 <td valign="top" width="113">
-<p align="center">801 - 1015 (a)</p>
+<p align="center">801-1015 (a) </p>
 </td>
 <td valign="top" width="151">
-<p>(a)</p>
+<p>(a) </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Corps administratif supérieurs</p>
+<p>Corps administratif supérieurs </p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -816,7 +816,7 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Attaché principal</p>
+<p>Attaché principal </p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -825,13 +825,13 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>1re classe</p>
+<p>1re classe </p>
 </td>
 <td valign="top" width="113">
-<p align="center">825 - 966</p>
+<p align="center">825-966 </p>
 </td>
 <td rowspan="2" valign="top" width="151">
-<p>A compter de la date d'effet des dispositions statutaires relatives à la fusion</p>
+<p>A compter de la date d'effet des dispositions statutaires relatives à la fusion </p>
 </td>
 </tr>
 <tr>
@@ -839,7 +839,7 @@
 <p>2e classe </p>
 </td>
 <td valign="top" width="113">
-<p align="center">563 - 821</p>
+<p align="center">563-821 </p>
 </td>
 </tr>
 <tr>
@@ -847,7 +847,7 @@
 <p>Attaché </p>
 </td>
 <td valign="top" width="113">
-<p align="center">379 - 780</p>
+<p align="center">379-780 </p>
 </td>
 <td valign="top" width="151">
 <p>A compter de la date d'effet des dispositions statutaires relatives à la fusion </p>
@@ -864,38 +864,10 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>1re classe</p>
+<p>1re classe </p>
 </td>
 <td valign="top" width="113">
-<p align="center">825 - 966</p>
-</td>
-<td rowspan="2" valign="top" width="151">
-<p>A compter de la date d'effet des dispositions statutaires relatives à la fusion</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="378">
-<p>2e classe </p>
-</td>
-<td valign="top" width="113">
-<p align="center">563 - 821</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="378">
-<p>Chef des services régionaux</p>
-</td>
-<td valign="top" width="113">
-<br/>
-</td>
-<td valign="top" width="151"/>
-</tr>
-<tr>
-<td valign="top" width="378">
-<p>1re classe</p>
-</td>
-<td valign="top" width="113">
-<p align="center">825 - 966</p>
+<p align="center">825-966 </p>
 </td>
 <td rowspan="2" valign="top" width="151">
 <p>A compter de la date d'effet des dispositions statutaires relatives à la fusion </p>
@@ -906,12 +878,12 @@
 <p>2e classe </p>
 </td>
 <td valign="top" width="113">
-<p align="center">563 - 821</p>
+<p align="center">563-821 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>B - HARAS NATIONAUX </p>
+<p>Chef des services régionaux </p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -920,7 +892,35 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>C - OFFICE NATIONAL DES FORÊTS </p>
+<p>1re classe </p>
+</td>
+<td valign="top" width="113">
+<p align="center">825-966 </p>
+</td>
+<td rowspan="2" valign="top" width="151">
+<p>A compter de la date d'effet des dispositions statutaires relatives à la fusion </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="378">
+<p>2e classe </p>
+</td>
+<td valign="top" width="113">
+<p align="center">563-821 </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="378">
+<p>B- Institut français du cheval et de l'équitation </p>
+</td>
+<td valign="top" width="113">
+<br/>
+</td>
+<td valign="top" width="151"/>
+</tr>
+<tr>
+<td valign="top" width="378">
+<p>C-OFFICE NATIONAL DES FORÊTS </p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -941,22 +941,22 @@
 <p>Groupe I </p>
 </td>
 <td valign="top" width="113">
-<p align="center">1 015 - HEC</p>
+<p align="center">1 015-HEC </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Groupe II</p>
+<p>Groupe II </p>
 </td>
 <td valign="top" width="113">
-<p align="center">852 - HEB</p>
+<p align="center">852-HEB </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Corps des attachés administratifs</p>
+<p>Corps des attachés administratifs </p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -965,7 +965,7 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Attaché principal</p>
+<p>Attaché principal </p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -974,24 +974,24 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>1re classe</p>
+<p>1re classe </p>
 </td>
 <td valign="top" width="113">
-<p align="center">852 - 966</p>
+<p align="center">852-966 </p>
 </td>
 <td valign="top" width="151">
-<p>A compter du 1er août 1995</p>
+<p>A compter du 1er août 1995 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>2e classe</p>
+<p>2e classe </p>
 </td>
 <td valign="top" width="113">
-<p align="center">563 - 821</p>
+<p align="center">563-821 </p>
 </td>
 <td valign="top" width="151">
-<p>A compter du 1er août 1995</p>
+<p>A compter du 1er août 1995 </p>
 </td>
 </tr>
 <tr>
@@ -999,31 +999,31 @@
 <p>Attaché </p>
 </td>
 <td valign="top" width="113">
-<p align="center">379 - 780</p>
+<p align="center">379-780 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Attaché stagiaire</p>
+<p>Attaché stagiaire </p>
 </td>
 <td valign="top" width="113">
-<p align="center">340</p>
+<p align="center">340 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Cadre technique</p>
+<p>Cadre technique </p>
 </td>
 <td valign="top" width="113">
-<p align="center">455 - 680</p>
+<p align="center">455-680 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Corps des techniciens supérieurs forestiers</p>
+<p>Corps des techniciens supérieurs forestiers </p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -1035,16 +1035,16 @@
 <p>Chef technicien </p>
 </td>
 <td valign="top" width="113">
-<p align="center">422 - 638</p>
+<p align="center">422-638 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Technicien principal</p>
+<p>Technicien principal </p>
 </td>
 <td valign="top" width="113">
-<p align="center">391 - 593</p>
+<p align="center">391-593 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
@@ -1053,13 +1053,13 @@
 <p>Technicien </p>
 </td>
 <td valign="top" width="113">
-<p align="center">322 - 558</p>
+<p align="center">322-558 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Corps des techniciens opérationnels forestiers</p>
+<p>Corps des techniciens opérationnels forestiers </p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -1068,19 +1068,19 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Technicien opérationnel principal</p>
+<p>Technicien opérationnel principal </p>
 </td>
 <td valign="top" width="113">
-<p align="center">367 - 579</p>
+<p align="center">367-579 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Technicien opérationnel</p>
+<p>Technicien opérationnel </p>
 </td>
 <td valign="top" width="113">
-<p align="center">306 - 544</p>
+<p align="center">306-544 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
@@ -1095,10 +1095,10 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>1re classe</p>
+<p>1re classe </p>
 </td>
 <td valign="top" width="113">
-<p align="center">E 6</p>
+<p align="center">E 6 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
@@ -1107,7 +1107,7 @@
 <p>2e classe </p>
 </td>
 <td valign="top" width="113">
-<p align="center">E 5</p>
+<p align="center">E 5 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
@@ -1125,7 +1125,7 @@
 <p>1re classe </p>
 </td>
 <td valign="top" width="113">
-<p align="center">E 4</p>
+<p align="center">E 4 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
@@ -1134,7 +1134,7 @@
 <p>2e classe </p>
 </td>
 <td valign="top" width="113">
-<p align="center">E 3</p>
+<p align="center">E 3 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
@@ -1144,18 +1144,18 @@
 <tbody>
 <tr>
 <td width="378">
-<p align="center">GRADES ET EMPLOIS</p>
+<p align="center">GRADES ET EMPLOIS </p>
 </td>
 <td width="113">
-<p align="center">CLASSEMENT HIERARCHIQUE</p>
+<p align="center">CLASSEMENT HIERARCHIQUE </p>
 </td>
 <td width="151">
-<p align="center">OBSERVATIONS</p>
+<p align="center">OBSERVATIONS </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>D - AGENCE FRANÇAISE DE SÉCURITÉ SANITAIRE DES ALIMENTS</p>
+<p>D-AGENCE FRANÇAISE DE SÉCURITÉ SANITAIRE DES ALIMENTS </p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -1164,7 +1164,7 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Directeur de recherche</p>
+<p>Directeur de recherche </p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -1173,24 +1173,24 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>1re classe</p>
+<p>1re classe </p>
 </td>
 <td valign="top" width="113">
-<p align="center">1015 (a)</p>
+<p align="center">1015 (a) </p>
 </td>
 <td valign="top" width="151">
-<p>(a)</p>
+<p>(a) </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>2e classe</p>
+<p>2e classe </p>
 </td>
 <td valign="top" width="113">
-<p align="center">801 - 1015 (a)</p>
+<p align="center">801-1015 (a) </p>
 </td>
 <td valign="top" width="151">
-<p>(a)</p>
+<p>(a) </p>
 </td>
 </tr>
 <tr>
@@ -1204,10 +1204,10 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>1re classe</p>
+<p>1re classe </p>
 </td>
 <td valign="top" width="113">
-<p align="center">562 - 1015</p>
+<p align="center">562-1015 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
@@ -1216,13 +1216,13 @@
 <p>2e classe </p>
 </td>
 <td valign="top" width="113">
-<p align="center">530 - 677</p>
+<p align="center">530-677 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>V - ÉCOLES </p>
+<p>V-ÉCOLES </p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -1231,246 +1231,7 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>A - INSTITUT NATIONAL AGRONOMIQUE ET ÉCOLE NATIONALE SUPÉRIEURE DES SCIENCES AGRONOMIQUES </p>
-</td>
-<td valign="top" width="113">
-<br/>
-</td>
-<td valign="top" width="151"/>
-</tr>
-<tr>
-<td valign="top" width="378">
-<p>Directeur</p>
-</td>
-<td valign="top" width="113">
-<p align="center">1 015 (a)</p>
-</td>
-<td valign="top" width="151">
-<p>(a)</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="378">
-<p>Sous-directeur </p>
-</td>
-<td valign="top" width="113">
-<p align="center">582 - 901</p>
-</td>
-<td valign="top" width="151"/>
-</tr>
-<tr>
-<td valign="top" width="378">
-<p>Directeur des études </p>
-</td>
-<td valign="top" width="113">
-<p align="center">340 - 721</p>
-</td>
-<td valign="top" width="151"/>
-</tr>
-<tr>
-<td valign="top" width="378">
-<p>Maître assistant</p>
-</td>
-<td valign="top" width="113">
-<p align="center">480 - 1 015</p>
-</td>
-<td valign="top" width="151">
-<p>Mis en extinction par D.92-171 du 21 février 1992</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="378">
-<p>Chef de travaux</p>
-</td>
-<td valign="top" width="113">
-<p align="center">480 - 901</p>
-</td>
-<td valign="top" width="151">
-<p>Mis en extinction par D.64-957du 11 septembre 1964</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="378">
-<p>Assistant agrégé</p>
-</td>
-<td valign="top" width="113">
-<p align="center">457 - 648</p>
-</td>
-<td valign="top" width="151">
-<p>Mis en extinction par D.92-171 du 21 février 1992</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="378">
-<p>Assistant non agrégé</p>
-</td>
-<td valign="top" width="113">
-<p align="center">416 - 634</p>
-</td>
-<td valign="top" width="151">
-<p>Mis en extinction par D.92-171 du 21 février 1992</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="378">
-<p>Bibliothécaire </p>
-</td>
-<td valign="top" width="113">
-<p align="center">210 - 445</p>
-</td>
-<td valign="top" width="151">
-<p>En voie d'extinction </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="378">
-<p>B - ÉCOLES NATIONALES VÉTÉRINAIRES </p>
-</td>
-<td valign="top" width="113">
-<br/>
-</td>
-<td valign="top" width="151"/>
-</tr>
-<tr>
-<td valign="top" width="378">
-<p>Directeur</p>
-</td>
-<td valign="top" width="113">
-<p align="center">1 015 (a)</p>
-</td>
-<td valign="top" width="151">
-<p>(a)</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="378">
-<p>Maître assistant</p>
-</td>
-<td valign="top" width="113">
-<p align="center">480 - 1 015</p>
-</td>
-<td valign="top" width="151">
-<p>Mis en extinction par D.92-171 du 21 février 1992</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="378">
-<p>Chef de travaux</p>
-</td>
-<td valign="top" width="113">
-<p align="center">480 - 901</p>
-</td>
-<td valign="top" width="151">
-<p>Mis en extinction par D.64-958du 11 septembre 1964</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="378">
-<p>Bibliothécaire </p>
-</td>
-<td valign="top" width="113">
-<p align="center">210 - 390</p>
-<p align="center">(445)</p>
-</td>
-<td valign="top" width="151">
-<p>En voie d'extinction</p>
-<p>Echelle réservée aux bibliothécaires recrutés dans les mêmes conditions que les aides techniques du service des bibliothèques du ministère de l'éducation nationale</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="378">
-<p>C - ÉCOLE NATIONALE DU GÉNIE RURAL, DES EAUX ET FORETS </p>
-</td>
-<td valign="top" width="113">
-<br/>
-</td>
-<td valign="top" width="151"/>
-</tr>
-<tr>
-<td valign="top" width="378">
-<p>Directeur</p>
-</td>
-<td valign="top" width="113">
-<p align="center">1 015 (a)</p>
-</td>
-<td valign="top" width="151">
-<p>(a)</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="378">
-<p>Directeur adjoint</p>
-</td>
-<td valign="top" width="113">
-<p align="center">801 - 1 015</p>
-</td>
-<td valign="top" width="151"/>
-</tr>
-<tr>
-<td valign="top" width="378">
-<p>D - ECOLES NATIONALES SUPÉRIEURES AGRONOMIQUES </p>
-</td>
-<td valign="top" width="113">
-<br/>
-</td>
-<td valign="top" width="151"/>
-</tr>
-<tr>
-<td valign="top" width="378">
-<p>Directeur</p>
-</td>
-<td valign="top" width="113">
-<p align="center">1 015 (a)</p>
-</td>
-<td valign="top" width="151">
-<p>(a)</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="378">
-<p>Chef de travaux</p>
-</td>
-<td valign="top" width="113">
-<p align="center">480 - 901</p>
-</td>
-<td valign="top" width="151">
-<p>Mis en extinction par D.64-957 du 11 septembre 1964</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="378">
-<p>Maître assistant</p>
-</td>
-<td valign="top" width="113">
-<p align="center">480 - 1 015</p>
-</td>
-<td valign="top" width="151">
-<p>Mis en extinction par D.92-371 du 21 février 1992</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="378">
-<p>Assistant</p>
-</td>
-<td valign="top" width="113">
-<p align="center">416 - 634</p>
-</td>
-<td valign="top" width="151">
-<p>Mis en extinction par D.92-371 du 21 février 1992</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="378">
-<p>Directeur des études </p>
-</td>
-<td valign="top" width="113">
-<p align="center">340 - 597</p>
-</td>
-<td valign="top" width="151"/>
-</tr>
-<tr>
-<td valign="top" width="378">
-<p>E - CENTRE NATIONAL D'ÉTUDES AGRONOMIQUES DES RÉGIONS CHAUDES </p>
+<p>A-INSTITUT NATIONAL AGRONOMIQUE ET ÉCOLE NATIONALE SUPÉRIEURE DES SCIENCES AGRONOMIQUES </p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -1482,7 +1243,7 @@
 <p>Directeur </p>
 </td>
 <td valign="top" width="113">
-<p align="center">1 015 (a)</p>
+<p align="center">1 015 (a) </p>
 </td>
 <td valign="top" width="151">
 <p>(a) </p>
@@ -1490,60 +1251,80 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>F - ÉCOLE NATIONALE SUPÉRIEURE DES INDUSTRIES AGRICOLES ET ALIMENTAIRES</p>
+<p>Sous-directeur </p>
 </td>
 <td valign="top" width="113">
-<br/>
+<p align="center">582-901 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Directeur</p>
+<p>Directeur des études </p>
 </td>
 <td valign="top" width="113">
-<p align="center">1 015 (a)</p>
+<p align="center">340-721 </p>
+</td>
+<td valign="top" width="151"/>
+</tr>
+<tr>
+<td valign="top" width="378">
+<p>Maître assistant </p>
+</td>
+<td valign="top" width="113">
+<p align="center">480-1 015 </p>
 </td>
 <td valign="top" width="151">
-<p>(a)</p>
+<p>Mis en extinction par D. 92-171 du 21 février 1992 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Maître assistant</p>
+<p>Chef de travaux </p>
 </td>
 <td valign="top" width="113">
-<p align="center">480 - 1 015</p>
+<p align="center">480-901 </p>
 </td>
 <td valign="top" width="151">
-<p>Mis en extinction par D.92-171 du 21 février 1992</p>
+<p>Mis en extinction par D. 64-957du 11 septembre 1964 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Chef de travaux</p>
+<p>Assistant agrégé </p>
 </td>
 <td valign="top" width="113">
-<p align="center">480 - 901</p>
+<p align="center">457-648 </p>
 </td>
 <td valign="top" width="151">
-<p>Mis en extinction par D.92-171 du 21 février 1992</p>
+<p>Mis en extinction par D. 92-171 du 21 février 1992 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Assistant </p>
+<p>Assistant non agrégé </p>
 </td>
 <td valign="top" width="113">
-<p align="center">416 - 634</p>
+<p align="center">416-634 </p>
 </td>
 <td valign="top" width="151">
-<p>Mis en extinction par D.92-171 du 21 février 1992 </p>
+<p>Mis en extinction par D. 92-171 du 21 février 1992 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>G - ÉCOLE NATIONALE SUPÉRIEURE D'HORTICULTURE </p>
+<p>Bibliothécaire </p>
+</td>
+<td valign="top" width="113">
+<p align="center">210-445 </p>
+</td>
+<td valign="top" width="151">
+<p>En voie d'extinction </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="378">
+<p>B-ÉCOLES NATIONALES VÉTÉRINAIRES </p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -1555,7 +1336,7 @@
 <p>Directeur </p>
 </td>
 <td valign="top" width="113">
-<p align="center">1 015 (a)</p>
+<p align="center">1 015 (a) </p>
 </td>
 <td valign="top" width="151">
 <p>(a) </p>
@@ -1566,10 +1347,10 @@
 <p>Maître assistant </p>
 </td>
 <td valign="top" width="113">
-<p align="center">480 - 1 015</p>
+<p align="center">480-1 015 </p>
 </td>
 <td valign="top" width="151">
-<p>Mis en extinction par D.92-171 du 21 février 1992 </p>
+<p>Mis en extinction par D. 92-171 du 21 février 1992 </p>
 </td>
 </tr>
 <tr>
@@ -1577,11 +1358,230 @@
 <p>Chef de travaux </p>
 </td>
 <td valign="top" width="113">
-<p align="center">480 - 901</p>
-<p align="center">(404)</p>
+<p align="center">480-901 </p>
 </td>
 <td valign="top" width="151">
-<p>Mis en extinction par D.92-171 du 21 février 1992 </p>
+<p>Mis en extinction par D. 64-958du 11 septembre 1964 </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="378">
+<p>Bibliothécaire </p>
+</td>
+<td valign="top" width="113">
+<p align="center">210-390 </p>
+<p align="center">(445) </p>
+</td>
+<td valign="top" width="151">
+<p>En voie d'extinction </p>
+<p>Echelle réservée aux bibliothécaires recrutés dans les mêmes conditions que les aides techniques du service des bibliothèques du ministère de l'éducation nationale </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="378">
+<p>C-ÉCOLE NATIONALE DU GÉNIE RURAL, DES EAUX ET FORETS </p>
+</td>
+<td valign="top" width="113">
+<br/>
+</td>
+<td valign="top" width="151"/>
+</tr>
+<tr>
+<td valign="top" width="378">
+<p>Directeur </p>
+</td>
+<td valign="top" width="113">
+<p align="center">1 015 (a) </p>
+</td>
+<td valign="top" width="151">
+<p>(a) </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="378">
+<p>Directeur adjoint </p>
+</td>
+<td valign="top" width="113">
+<p align="center">801-1 015 </p>
+</td>
+<td valign="top" width="151"/>
+</tr>
+<tr>
+<td valign="top" width="378">
+<p>D-ECOLES NATIONALES SUPÉRIEURES AGRONOMIQUES </p>
+</td>
+<td valign="top" width="113">
+<br/>
+</td>
+<td valign="top" width="151"/>
+</tr>
+<tr>
+<td valign="top" width="378">
+<p>Directeur </p>
+</td>
+<td valign="top" width="113">
+<p align="center">1 015 (a) </p>
+</td>
+<td valign="top" width="151">
+<p>(a) </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="378">
+<p>Chef de travaux </p>
+</td>
+<td valign="top" width="113">
+<p align="center">480-901 </p>
+</td>
+<td valign="top" width="151">
+<p>Mis en extinction par D. 64-957 du 11 septembre 1964 </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="378">
+<p>Maître assistant </p>
+</td>
+<td valign="top" width="113">
+<p align="center">480-1 015 </p>
+</td>
+<td valign="top" width="151">
+<p>Mis en extinction par D. 92-371 du 21 février 1992 </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="378">
+<p>Assistant </p>
+</td>
+<td valign="top" width="113">
+<p align="center">416-634 </p>
+</td>
+<td valign="top" width="151">
+<p>Mis en extinction par D. 92-371 du 21 février 1992 </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="378">
+<p>Directeur des études </p>
+</td>
+<td valign="top" width="113">
+<p align="center">340-597 </p>
+</td>
+<td valign="top" width="151"/>
+</tr>
+<tr>
+<td valign="top" width="378">
+<p>E-CENTRE NATIONAL D'ÉTUDES AGRONOMIQUES DES RÉGIONS CHAUDES </p>
+</td>
+<td valign="top" width="113">
+<br/>
+</td>
+<td valign="top" width="151"/>
+</tr>
+<tr>
+<td valign="top" width="378">
+<p>Directeur </p>
+</td>
+<td valign="top" width="113">
+<p align="center">1 015 (a) </p>
+</td>
+<td valign="top" width="151">
+<p>(a) </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="378">
+<p>F-ÉCOLE NATIONALE SUPÉRIEURE DES INDUSTRIES AGRICOLES ET ALIMENTAIRES </p>
+</td>
+<td valign="top" width="113">
+<br/>
+</td>
+<td valign="top" width="151"/>
+</tr>
+<tr>
+<td valign="top" width="378">
+<p>Directeur </p>
+</td>
+<td valign="top" width="113">
+<p align="center">1 015 (a) </p>
+</td>
+<td valign="top" width="151">
+<p>(a) </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="378">
+<p>Maître assistant </p>
+</td>
+<td valign="top" width="113">
+<p align="center">480-1 015 </p>
+</td>
+<td valign="top" width="151">
+<p>Mis en extinction par D. 92-171 du 21 février 1992 </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="378">
+<p>Chef de travaux </p>
+</td>
+<td valign="top" width="113">
+<p align="center">480-901 </p>
+</td>
+<td valign="top" width="151">
+<p>Mis en extinction par D. 92-171 du 21 février 1992 </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="378">
+<p>Assistant </p>
+</td>
+<td valign="top" width="113">
+<p align="center">416-634 </p>
+</td>
+<td valign="top" width="151">
+<p>Mis en extinction par D. 92-171 du 21 février 1992 </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="378">
+<p>G-ÉCOLE NATIONALE SUPÉRIEURE D'HORTICULTURE </p>
+</td>
+<td valign="top" width="113">
+<br/>
+</td>
+<td valign="top" width="151"/>
+</tr>
+<tr>
+<td valign="top" width="378">
+<p>Directeur </p>
+</td>
+<td valign="top" width="113">
+<p align="center">1 015 (a) </p>
+</td>
+<td valign="top" width="151">
+<p>(a) </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="378">
+<p>Maître assistant </p>
+</td>
+<td valign="top" width="113">
+<p align="center">480-1 015 </p>
+</td>
+<td valign="top" width="151">
+<p>Mis en extinction par D. 92-171 du 21 février 1992 </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="378">
+<p>Chef de travaux </p>
+</td>
+<td valign="top" width="113">
+<p align="center">480-901 </p>
+<p align="center">(404) </p>
+</td>
+<td valign="top" width="151">
+<p>Mis en extinction par D. 92-171 du 21 février 1992 </p>
 <p>Echelon provisoire </p>
 </td>
 </tr>
@@ -1590,10 +1590,10 @@
 <p>Assistant </p>
 </td>
 <td valign="top" width="113">
-<p align="center">416 - 634</p>
+<p align="center">416-634 </p>
 </td>
 <td valign="top" width="151">
-<p>Mis en extinction par D.92-171 du 21 février 1992 </p>
+<p>Mis en extinction par D. 92-171 du 21 février 1992 </p>
 </td>
 </tr>
 <tr>
@@ -1601,7 +1601,7 @@
 <p>Chef des ateliers </p>
 </td>
 <td valign="top" width="113">
-<p align="center">265 - 515</p>
+<p align="center">265-515 </p>
 </td>
 <td valign="top" width="151">
 <p>En voie d'extinction </p>
@@ -1612,7 +1612,7 @@
 <p>Directeur des études </p>
 </td>
 <td valign="top" width="113">
-<p align="center">210 - 500</p>
+<p align="center">210-500 </p>
 </td>
 <td valign="top" width="151">
 <p>En voie d'extinction </p>
@@ -1620,7 +1620,7 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>H- ÉCOLES RÉGIONALES ET ÉCOLES D'AGRICULTURE </p>
+<p>H-ÉCOLES RÉGIONALES ET ÉCOLES D'AGRICULTURE </p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -1629,36 +1629,7 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p align="center">1. Ecoles régionales d'agriculture</p>
-</td>
-<td valign="top" width="113">
-<br/>
-</td>
-<td valign="top" width="151"/>
-</tr>
-<tr>
-<td valign="top" width="378">
-<p>Professeur adjoint </p>
-</td>
-<td valign="top" width="113">
-<br/>
-</td>
-<td valign="top" width="151">
-<p>Mis en extinction par D.65-383 du 20 mai 1965 </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="378">
-<p>3e groupe </p>
-</td>
-<td valign="top" width="113">
-<p align="center">265 - 593</p>
-</td>
-<td valign="top" width="151"/>
-</tr>
-<tr>
-<td valign="top" width="378">
-<p align="center">2. Ecoles d'agriculture</p>
+<p align="center">1. Ecoles régionales d'agriculture </p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -1673,7 +1644,7 @@
 <br/>
 </td>
 <td valign="top" width="151">
-<p>Mis en extinction par D.65-383 du 20 mai 1965 </p>
+<p>Mis en extinction par D. 65-383 du 20 mai 1965 </p>
 </td>
 </tr>
 <tr>
@@ -1681,7 +1652,36 @@
 <p>3e groupe </p>
 </td>
 <td valign="top" width="113">
-<p align="center">245 - 563</p>
+<p align="center">265-593 </p>
+</td>
+<td valign="top" width="151"/>
+</tr>
+<tr>
+<td valign="top" width="378">
+<p align="center">2. Ecoles d'agriculture </p>
+</td>
+<td valign="top" width="113">
+<br/>
+</td>
+<td valign="top" width="151"/>
+</tr>
+<tr>
+<td valign="top" width="378">
+<p>Professeur adjoint </p>
+</td>
+<td valign="top" width="113">
+<br/>
+</td>
+<td valign="top" width="151">
+<p>Mis en extinction par D. 65-383 du 20 mai 1965 </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="378">
+<p>3e groupe </p>
+</td>
+<td valign="top" width="113">
+<p align="center">245-563 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
@@ -1690,7 +1690,7 @@
 <p>2e groupe </p>
 </td>
 <td valign="top" width="113">
-<p align="center">225 - 533</p>
+<p align="center">225-533 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
@@ -1699,15 +1699,15 @@
 <p>Chef de pratique </p>
 </td>
 <td valign="top" width="113">
-<p align="center">E5</p>
+<p align="center">E5 </p>
 </td>
 <td valign="top" width="151">
-<p>Mis en extinction par D.65-383 du 20 mai 1965 </p>
+<p>Mis en extinction par D. 65-383 du 20 mai 1965 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>I - ÉCOLES D'ENSEIGNEMENT MÉNAGER AGRICOLE </p>
+<p>I-ÉCOLES D'ENSEIGNEMENT MÉNAGER AGRICOLE </p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -1719,10 +1719,10 @@
 <p>Directrice </p>
 </td>
 <td valign="top" width="113">
-<p align="center">285 - 625</p>
+<p align="center">285-625 </p>
 </td>
 <td valign="top" width="151">
-<p>Mis en extinction par D.65-383 du 20 mai 1965 </p>
+<p>Mis en extinction par D. 65-383 du 20 mai 1965 </p>
 </td>
 </tr>
 <tr>
@@ -1730,15 +1730,15 @@
 <p>Professeur </p>
 </td>
 <td valign="top" width="113">
-<p align="center">265 - 593</p>
+<p align="center">265-593 </p>
 </td>
 <td valign="top" width="151">
-<p>Mis en extinction par D.65-383 du 20 mai 1965 </p>
+<p>Mis en extinction par D. 65-383 du 20 mai 1965 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>J - ÉCOLES NATIONALES D'INGÉNIEURS DES TRAVAUX </p>
+<p>J-ÉCOLES NATIONALES D'INGÉNIEURS DES TRAVAUX </p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -1750,7 +1750,7 @@
 <p>Sous directeur </p>
 </td>
 <td valign="top" width="113">
-<p align="center">543 - 852</p>
+<p align="center">543-852 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
@@ -1762,7 +1762,7 @@
 <br/>
 </td>
 <td valign="top" width="151">
-<p>Mis en extinction par le D.92-371 du 21 février 1992 </p>
+<p>Mis en extinction par le D. 92-371 du 21 février 1992 </p>
 </td>
 </tr>
 <tr>
@@ -1770,7 +1770,7 @@
 <p>hors classe </p>
 </td>
 <td valign="top" width="113">
-<p align="center">801 - 1015 (a)</p>
+<p align="center">801-1015 (a) </p>
 </td>
 <td valign="top" width="151">
 <p>(a) </p>
@@ -1781,7 +1781,7 @@
 <p>classe normale </p>
 </td>
 <td valign="top" width="113">
-<p align="center">427 - 1015</p>
+<p align="center">427-1015 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
@@ -1793,7 +1793,7 @@
 <br/>
 </td>
 <td valign="top" width="151">
-<p>Mis en extinction par le D.92-371 du 21 février 1992 </p>
+<p>Mis en extinction par le D. 92-371 du 21 février 1992 </p>
 </td>
 </tr>
 <tr>
@@ -1801,7 +1801,7 @@
 <p>hors classe </p>
 </td>
 <td valign="top" width="113">
-<p align="center">587 - 966</p>
+<p align="center">587-966 </p>
 </td>
 <td valign="top" width="151">
 <p>A compter du 1er août 1996 </p>
@@ -1812,13 +1812,13 @@
 <p>classe normale </p>
 </td>
 <td valign="top" width="113">
-<p align="center">379 - 801</p>
+<p align="center">379-801 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>K - LYCÉES AGRICOLES </p>
+<p>K-LYCÉES AGRICOLES </p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -1839,7 +1839,7 @@
 <p>hors classe </p>
 </td>
 <td valign="top" width="113">
-<p align="center">587 - 966</p>
+<p align="center">587-966 </p>
 </td>
 <td valign="top" width="151">
 <p>A compter du 1er septembre 1996 </p>
@@ -1850,7 +1850,7 @@
 <p>Professeur bi admissible à l'agrégation </p>
 </td>
 <td valign="top" width="113">
-<p align="center">406 - 841</p>
+<p align="center">406-841 </p>
 </td>
 <td valign="top" width="151">
 <p>A compter du 1er janvier 1998 </p>
@@ -1861,7 +1861,7 @@
 <p>classe normale </p>
 </td>
 <td valign="top" width="113">
-<p align="center">379 - 801</p>
+<p align="center">379-801 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
@@ -1870,7 +1870,7 @@
 <p>stagiaire </p>
 </td>
 <td valign="top" width="113">
-<p align="center">379</p>
+<p align="center">379 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
@@ -1879,7 +1879,7 @@
 <p>élève </p>
 </td>
 <td valign="top" width="113">
-<p align="center">302</p>
+<p align="center">302 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
@@ -1888,16 +1888,16 @@
 <p>Adjoint d'enseignement </p>
 </td>
 <td valign="top" width="113">
-<p align="center">340 - 646</p>
+<p align="center">340-646 </p>
 </td>
 <td valign="top" width="151">
-<p>Mis en extinction par le D.90-91 du 24 janvier 1990 </p>
+<p>Mis en extinction par le D. 90-91 du 24 janvier 1990 </p>
 <p>A compter du 1er sept 1993 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>L - CORPS ET EMPLOIS COMMUNS AUX ÉTABLISSEMENTS D'ENSEIGNEMENT</p>
+<p>L-CORPS ET EMPLOIS COMMUNS AUX ÉTABLISSEMENTS D'ENSEIGNEMENT </p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -1918,7 +1918,7 @@
 <p>hors classe </p>
 </td>
 <td valign="top" width="113">
-<p align="center">587 - 966</p>
+<p align="center">587-966 </p>
 </td>
 <td valign="top" width="151">
 <p>A compter du 1er septembre1996 </p>
@@ -1929,7 +1929,7 @@
 <p>classe normale </p>
 </td>
 <td valign="top" width="113">
-<p align="center">379 - 801</p>
+<p align="center">379-801 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
@@ -1947,7 +1947,7 @@
 <p>hors classe </p>
 </td>
 <td valign="top" width="113">
-<p align="center">587 - 966</p>
+<p align="center">587-966 </p>
 </td>
 <td valign="top" width="151">
 <p>A compter du 1er septembre1996 </p>
@@ -1958,7 +1958,7 @@
 <p>classe normale </p>
 </td>
 <td valign="top" width="113">
-<p align="center">379 - 801</p>
+<p align="center">379-801 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
@@ -1967,13 +1967,13 @@
 <p>élève </p>
 </td>
 <td valign="top" width="113">
-<p align="center">302</p>
+<p align="center">302 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>M - CORPS ET EMPLOIS COMMUNS AUX ÉTABLISSEMENTS D'ENSEIGNEMENT SUPÉRIEUR AGRICOLE ET VÉTÉRINAIRE</p>
+<p>M-CORPS ET EMPLOIS COMMUNS AUX ÉTABLISSEMENTS D'ENSEIGNEMENT SUPÉRIEUR AGRICOLE ET VÉTÉRINAIRE </p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -2003,7 +2003,7 @@
 <p>1re classe </p>
 </td>
 <td valign="top" width="113">
-<p align="center">1 015 (a)</p>
+<p align="center">1 015 (a) </p>
 </td>
 <td valign="top" width="151">
 <p>(a) </p>
@@ -2014,7 +2014,7 @@
 <p>2e classe </p>
 </td>
 <td valign="top" width="113">
-<p align="center">801 - 1 015 (a)</p>
+<p align="center">801-1 015 (a) </p>
 </td>
 <td valign="top" width="151">
 <p>(a) </p>
@@ -2034,7 +2034,7 @@
 <p>hors classe </p>
 </td>
 <td valign="top" width="113">
-<p align="center">801 - 1 015 (a)</p>
+<p align="center">801-1 015 (a) </p>
 </td>
 <td valign="top" width="151">
 <p>(a) </p>
@@ -2045,7 +2045,7 @@
 <p>classe normale </p>
 </td>
 <td valign="top" width="113">
-<p align="center">530 - 1 015</p>
+<p align="center">530-1 015 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
@@ -2054,15 +2054,15 @@
 <p>Intendant </p>
 </td>
 <td valign="top" width="113">
-<p align="center">513 - 801</p>
+<p align="center">513-801 </p>
 </td>
 <td valign="top" width="151">
-<p>Mis en extinction par D.91-82 du 14 janvier 1991 </p>
+<p>Mis en extinction par D. 91-82 du 14 janvier 1991 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>N - INSTITUT NATIONAL SUPERIÉUR DE FORMATION AGROALIMENTAIRE, ÉCOLE NATIONALE DE FORMATION AGRONOMIQUE</p>
+<p>N-INSTITUT NATIONAL SUPERIÉUR DE FORMATION AGROALIMENTAIRE, ÉCOLE NATIONALE DE FORMATION AGRONOMIQUE </p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -2077,7 +2077,7 @@
 <br/>
 </td>
 <td valign="top" width="151">
-<p>Mis en extinction par D.92-171 du 21 février 1992 </p>
+<p>Mis en extinction par D. 92-171 du 21 février 1992 </p>
 </td>
 </tr>
 <tr>
@@ -2085,7 +2085,7 @@
 <p>hors classe </p>
 </td>
 <td valign="top" width="113">
-<p align="center">801 - 1 015 (a)</p>
+<p align="center">801-1 015 (a) </p>
 </td>
 <td valign="top" width="151">
 <p>(a) </p>
@@ -2096,7 +2096,7 @@
 <p>classe normale </p>
 </td>
 <td valign="top" width="113">
-<p align="center">427 - 1 015</p>
+<p align="center">427-1 015 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
@@ -2108,7 +2108,7 @@
 <br/>
 </td>
 <td valign="top" width="151">
-<p>Mis en extinction par D.92-171 du 21 février 1992 </p>
+<p>Mis en extinction par D. 92-171 du 21 février 1992 </p>
 </td>
 </tr>
 <tr>
@@ -2116,7 +2116,7 @@
 <p>hors classe </p>
 </td>
 <td valign="top" width="113">
-<p align="center">587 - 966</p>
+<p align="center">587-966 </p>
 </td>
 <td valign="top" width="151">
 <p>A compter du 1er août 1996 </p>
@@ -2127,13 +2127,13 @@
 <p>classe normale </p>
 </td>
 <td valign="top" width="113">
-<p align="center">379 - 801</p>
+<p align="center">379-801 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>O - FORMATION ET RECHERCHE </p>
+<p>O-FORMATION ET RECHERCHE </p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -2154,7 +2154,7 @@
 <p>hors classe </p>
 </td>
 <td valign="top" width="113">
-<p align="center">801 - 1 015 (a)</p>
+<p align="center">801-1 015 (a) </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
@@ -2163,7 +2163,7 @@
 <p>1re classe </p>
 </td>
 <td valign="top" width="113">
-<p align="center">701 - 1 015</p>
+<p align="center">701-1 015 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
@@ -2172,7 +2172,7 @@
 <p>2e classe </p>
 </td>
 <td valign="top" width="113">
-<p align="center">473 - 874</p>
+<p align="center">473-874 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
@@ -2190,7 +2190,7 @@
 <p>hors classe </p>
 </td>
 <td valign="top" width="113">
-<p align="center">852 - 966</p>
+<p align="center">852-966 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
@@ -2199,7 +2199,7 @@
 <p>1re classe </p>
 </td>
 <td valign="top" width="113">
-<p align="center">665 - 821</p>
+<p align="center">665-821 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
@@ -2208,7 +2208,7 @@
 <p>2e classe </p>
 </td>
 <td valign="top" width="113">
-<p align="center">416 - 750</p>
+<p align="center">416-750 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
@@ -2217,7 +2217,7 @@
 <p>Assistant ingénieur </p>
 </td>
 <td valign="top" width="113">
-<p align="center">366 - 660</p>
+<p align="center">366-660 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
@@ -2235,8 +2235,8 @@
 <p>classe exceptionnelle </p>
 </td>
 <td valign="top" width="113">
-<p align="center">425 - 612</p>
-<p align="center">(298-325-351)</p>
+<p align="center">425-612 </p>
+<p align="center">(298-325-351) </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
@@ -2245,7 +2245,7 @@
 <p>classe supérieure </p>
 </td>
 <td valign="top" width="113">
-<p align="center">384 - 579</p>
+<p align="center">384-579 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
@@ -2254,7 +2254,7 @@
 <p>classe normale </p>
 </td>
 <td valign="top" width="113">
-<p align="center">306 - 544</p>
+<p align="center">306-544 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
@@ -2272,7 +2272,7 @@
 <p>1re classe </p>
 </td>
 <td valign="top" width="113">
-<p align="center">351 - 479</p>
+<p align="center">351-479 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
@@ -2281,7 +2281,7 @@
 <p>2e classe </p>
 </td>
 <td valign="top" width="113">
-<p align="center">E 5</p>
+<p align="center">E 5 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>
@@ -2299,7 +2299,7 @@
 <p>1re classe </p>
 </td>
 <td valign="top" width="113">
-<p align="center">E 4</p>
+<p align="center">E 4 </p>
 </td>
 <td valign="top" width="151"/>
 </tr>

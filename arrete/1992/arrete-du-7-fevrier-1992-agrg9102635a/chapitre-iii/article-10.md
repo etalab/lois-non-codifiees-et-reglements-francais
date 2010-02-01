@@ -1,6 +1,6 @@
 # Article 10
 
-Lors de la découverte d'un étalon infecté de M.C.E., le directeur des services vétérinaires, en relation avec le directeur de circonscription des haras nationaux, établit la liste des juments déclarées contaminées.
+Lors de la découverte d'un étalon infecté de M.C.E., le directeur des services vétérinaires, en relation avec le directeur de circonscription de l'Institut français du cheval et de l'équitation, établit la liste des juments déclarées contaminées.
 
 Par arrêté préfectoral de mise sous surveillance, pris sur proposition du directeur des services vétérinaires, les juments contaminées ne peuvent êtres ni saillies, ni inséminées. Elles doivent être soumises à une épreuve de diagnostic de la M.C.E., avant saillie ou insémination.
 

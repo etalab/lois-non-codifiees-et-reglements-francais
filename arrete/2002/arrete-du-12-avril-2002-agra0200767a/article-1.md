@@ -1,6 +1,6 @@
 # Article 1
 
-En application du deuxième alinéa de l'article 1er du décret du 14 janvier 2002 susvisé, les agents non titulaires de droit public recrutés par le domaine de Pompadour et employés à durée indéterminée par l'établissement public Les Haras nationaux peuvent percevoir l'indemnité forfaitaire pour travaux supplémentaires des services déconcentrés au ministère de l'agriculture et de la pêche, conformément au tableau d'assimilation ci-dessous :
+En application du deuxième alinéa de l'article 1er du décret du 14 janvier 2002 susvisé, les agents non titulaires de droit public recrutés par le domaine de Pompadour et employés à durée indéterminée par l'établissement public l'Institut français du cheval et de l'équitation peuvent percevoir l'indemnité forfaitaire pour travaux supplémentaires des services déconcentrés au ministère de l'agriculture et de la pêche, conformément au tableau d'assimilation ci-dessous :
 
 <table>
 <tbody>

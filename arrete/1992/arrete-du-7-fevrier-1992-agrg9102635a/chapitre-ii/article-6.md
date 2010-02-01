@@ -6,6 +6,6 @@ Le premier de ces prélèvements doit être effectué au moins sept jours après
 
 L'étalon est déclaré indemne si les trois contrôles de laboratoire précités sont négatifs.
 
-Toutefois si l'étalon n'est pas utilisé en insémination artificielle de sperme congelé, le directeur des services vétérinaires peut, après avis du directeur de circonscription des haras nationaux, accorder une dérogation permettant la reprise de la monte par l'étalon dès la fin du traitement.
+Toutefois si l'étalon n'est pas utilisé en insémination artificielle de sperme congelé, le directeur des services vétérinaires peut, après avis du directeur de circonscription de l'Institut français du cheval et de l'équitation, accorder une dérogation permettant la reprise de la monte par l'étalon dès la fin du traitement.
 
 Le non-respect des conditions précitées entraîne la suspension du permis de monte, jusqu'à ce que l'étalon soit déclaré indemne.

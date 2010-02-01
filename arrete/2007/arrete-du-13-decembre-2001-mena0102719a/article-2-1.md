@@ -28,9 +28,9 @@ Centres régionaux des oeuvres universitaires et scolaires.
 
 Centre technique du livre.
 
-Ecole nationale d'équitation de Saumur.
+Institut français du cheval et de l'équitation de Saumur.
 
-Etablissemernt public du campus de Jussieu.
+Etablissement public du campus de Jussieu.
 
 Etablissement public du quai Branly.
 
