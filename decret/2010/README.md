@@ -86,6 +86,7 @@
 - [Décret n°2010-71 du 18 janvier 2010 (DEVN0928040D)](decret-n2010-71-du-18-janvier-2010-devn0928040d)
 - [Décret n°99-954 du 18 novembre 1999 (PRMX9903830D)](decret-n99-954-du-18-novembre-1999-prmx9903830d)
 - [Décret n°2010-72 du 19 janvier 2010 (OMEO0929265D)](decret-n2010-72-du-19-janvier-2010-omeo0929265d)
+- [Décret n°55-1126 du 19 août 1955](decret-n55-1126-du-19-aout-1955)
 - [Décret n°2009-1433 du 20 novembre 2009 (MCCB0922710D)](decret-n2009-1433-du-20-novembre-2009-mccb0922710d)
 - [Décret n°2009-880 du 20 juillet 2009 (DEVE0908895D)](decret-n2009-880-du-20-juillet-2009-deve0908895d)
 - [Décret n°2010-73 du 20 janvier 2010 (JUSA0919158D)](decret-n2010-73-du-20-janvier-2010-jusa0919158d)
