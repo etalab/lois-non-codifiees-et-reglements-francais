@@ -1,0 +1,5 @@
+# Article 10
+
+Lorsque sont constatés des manquements aux obligations tant quantitatives que qualitatives au titre d'une même aide, les réductions correspondantes se cumulent. Sont alors appliquées, en premier lieu, les réductions mentionnées à l'article 4 sanctionnant les manquements aux obligations quantitatives et, en deuxième lieu, celles mentionnées aux articles 6 et 7 sanctionnant les manquements aux obligations qualitatives.
+
+Lorsque sont constatés, d'une part, des manquements aux obligations quantitatives et qualitatives définies à l'article 2 et, d'autre part, un manquement à l'obligation de dépôt de la demande d'aides dans les délais prescrits à l'article 25 du règlement (CE) n° 793/2006 du 12 avril 2006 susvisé, les réductions correspondantes se cumulent. Sont alors appliquées, en premier lieu, les réductions sanctionnant les manquements aux obligations quantitatives et qualitatives conformément au précédent alinéa et, en deuxième lieu, celles prévues à l'article 27 du même règlement.
