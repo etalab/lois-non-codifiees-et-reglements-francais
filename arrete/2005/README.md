@@ -242,7 +242,6 @@
 - [Arrêté du 13 octobre 2003 (DEFG0302181A)](arrete-du-13-octobre-2003-defg0302181a)
 - [Arrêté du 13 octobre 2004 (PRMX0407709A)](arrete-du-13-octobre-2004-prmx0407709a)
 - [Arrêté du 13 octobre 2004 (PRMX0407710A)](arrete-du-13-octobre-2004-prmx0407710a)
-- [Arrêté du 13 octobre 2005 (AGRA0502282A)](arrete-du-13-octobre-2005-agra0502282a)
 - [Arrêté du 13 octobre 2005 (AGRA0502283A)](arrete-du-13-octobre-2005-agra0502283a)
 - [Arrêté du 13 octobre 2005 (MCCB0500703A)](arrete-du-13-octobre-2005-mccb0500703a)
 - [Arrêté du 13 octobre 2005 (PRMX0508804A)](arrete-du-13-octobre-2005-prmx0508804a)
