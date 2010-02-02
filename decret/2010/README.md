@@ -249,4 +249,5 @@
 - [Décret n°2009-1787 du 31 décembre 2009 (MTSS0929268D)](decret-n2009-1787-du-31-decembre-2009-mtss0929268d)
 - [Décret n°2009-1788 du 31 décembre 2009 (BCFD0931057D)](decret-n2009-1788-du-31-decembre-2009-bcfd0931057d)
 - [Décret n°2009-1790 du 31 décembre 2009 (DEFH0931800D)](decret-n2009-1790-du-31-decembre-2009-defh0931800d)
+- [Décret n°2010-111 du 1er février 2010 (DEVP1002170D)](decret-n2010-111-du-1er-fevrier-2010-devp1002170d)
 - [Décret n°2011-379 (PRMX1109196D)](decret-n2011-379-prmx1109196d)
