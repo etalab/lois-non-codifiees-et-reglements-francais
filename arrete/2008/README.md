@@ -428,7 +428,6 @@
 - [Arrêté du 13 août 2008 (DEVN0819586A)](arrete-du-13-aout-2008-devn0819586a)
 - [Arrêté du 13 août 2008 (ECEC0813372A)](arrete-du-13-aout-2008-ecec0813372a)
 - [Arrêté du 13 août 2008 (IOCB0819089A)](arrete-du-13-aout-2008-iocb0819089a)
-- [Arrêté du 13 décembre 2001 (MENA0102718A)](arrete-du-13-decembre-2001-mena0102718a)
 - [Arrêté du 13 décembre 2007 (BCFL0774355A)](arrete-du-13-decembre-2007-bcfl0774355a)
 - [Arrêté du 13 juin 2008 (DEVU0813714A)](arrete-du-13-juin-2008-devu0813714a)
 - [Arrêté du 13 mars 2008 (MAEA0805979A)](arrete-du-13-mars-2008-maea0805979a)
