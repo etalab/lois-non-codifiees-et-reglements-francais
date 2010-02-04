@@ -8,4 +8,4 @@ L'horaire de l'accompagnement personnalisé est de 72 heures annuelles ; il peut
 
 L'accompagnement personnalisé est placé sous la responsabilité des professeurs, en particulier du professeur principal.
 
-Conformément aux dispositions de l'article R. 421-41-4 du code de l'éducation susvisé, les modalités d'organisation de cet accompagnement personnalisé font l'objet de propositions du conseil pédagogique soumises à l'approbation du conseil d'administration par le chef d'établissement.
+Conformément aux dispositions de l'article R. 421-41-3 du code de l'éducation susvisé, les modalités d'organisation de cet accompagnement personnalisé font l'objet de propositions du conseil pédagogique soumises à l'approbation du conseil d'administration par le chef d'établissement.
