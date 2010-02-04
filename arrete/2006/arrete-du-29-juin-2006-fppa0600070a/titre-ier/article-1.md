@@ -2,11 +2,11 @@
 
 Les sections régionales du comité interministériel consultatif d'action sociale des administrations de l'Etat mentionnées aux articles 5, 7 et 8 du décret n° 2006-21 du 6 janvier 2006 susvisé et ci-après dénommées sections régionales sont chacune composées des membres suivants :
 
-1° Le président, nommé pour trois ans sur proposition des organisations syndicales représentées dans la section.S'il doit être remplacé en cours de mandat, la désignation du nouveau président s'effectue selon la même procédure et pour la seule période de ce mandat restant à courir.L'ensemble des présidents des sections régionales fait l'objet d'une nomination simultanée tous les trois ans.
+1° Le président, nommé pour trois ans sur proposition des organisations syndicales représentées dans la section.S'il doit être remplacé en cours de mandat, la désignation du nouveau président s'effectue selon la même procédure et pour la seule période de ce mandat restant à courir. L'ensemble des présidents des sections régionales fait l'objet d'une nomination simultanée tous les trois ans.
 
 Toutes facilités sont accordées au président pour l'exercice de son mandat ;
 
-2° Douze représentants titulaires et douze représentants suppléants de l'administration, nommés parmi les chefs des services déconcentrés des administrations de l'Etat ou leurs collaborateurs responsables de la mise en oeuvre d'une politique ministérielle d'action sociale ;
+2° Douze représentants titulaires et douze représentants suppléants de l'administration en charge de la mise en œuvre d'une politique ministérielle d'action sociale ;
 
 3° Treize représentants titulaires et treize représentants suppléants du personnel, membres des organisations syndicales représentées au comité interministériel consultatif d'action sociale des administrations de l'Etat, nommés sur proposition desdites organisations syndicales, selon la répartition des sièges prévue à l'article 1er (3°, a) de l'arrêté du 29 juin 2006 modifié fixant la composition et le fonctionnement du comité interministériel consultatif d'action sociale des administrations de l'Etat ;
 
