@@ -1,0 +1,3 @@
+# Article 15
+
+Un prestataire de services de confiance peut recevoir une qualification qui atteste de la conformité des services à un niveau de sécurité défini par le référentiel général de sécurité. Il adresse sa demande auprès d'un organisme habilité dans les conditions prévues à la section précédente. L'organisme habilité évalue la conformité des fonctions de sécurité mises en œuvre par le service offert par le prestataire au regard des règles du référentiel général de sécurité correspondant au niveau de sécurité pour lequel la demande de qualification a été faite. L'organisme adresse un rapport d'évaluation à l'Agence nationale de la sécurité des systèmes d'information et à la direction générale de la modernisation de l'Etat.
