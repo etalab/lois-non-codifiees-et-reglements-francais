@@ -41,3 +41,7 @@ Dzaoudzi-Moroni ;
 Dzaoudzi-Nosy Bé ;
 
 Dzaoudzi-Antananarivo.
+
+Jusqu'au 31 janvier 2015 :
+
+Nouméa - Sydney (fret et courrier uniquement, dans le cadre de la liaison Paris - Saint-Denis - Sydney - Nouméa).
