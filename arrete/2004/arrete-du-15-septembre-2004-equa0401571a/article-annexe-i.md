@@ -14,7 +14,7 @@ Paris-Mayotte.
 
 2. Liaisons internationales extracommunautaires
 
-2. 1. De / vers la France métropolitaine
+2. 1. De/vers la France métropolitaine
 
 Afrique du Sud
 
@@ -468,7 +468,7 @@ Paris - Culiacan.
 
 Paris-Guadalajara.
 
-Paris-Léon / Guanajuato.
+Paris-Léon/Guanajuato.
 
 Paris-Mérida.
 
@@ -539,6 +539,8 @@ Paris-Punta Cana.
 République populaire de Chine
 
 Paris-Canton.
+
+Paris - Nankin.
 
 Paris-Pékin.
 
@@ -672,7 +674,7 @@ Zimbabwe
 
 Paris-Harare.
 
-2. 2. De / vers les Antilles et la Guyane
+2. 2. De/vers les Antilles et la Guyane
 
 Cuba
 
@@ -716,13 +718,13 @@ Venezuela
 
 Fort-de-France-Caracas.
 
-2. 3. De / vers La Réunion
+2. 3. De/vers La Réunion
 
 Madagascar
 
 Réunion-Antananarivo.
 
-2. 4. De / vers Mayotte
+2. 4. De/vers Mayotte
 
 Seychelles
 
