@@ -1,10 +1,8 @@
 # Article 12
 
-Délivrance du CNSK :
+Délivrance du CNSK.
 
 Le ministre chargé de l'aviation civile délivre le CNSK lorsque le monteur a fourni une attestation de conformité à un kit éligible délivrée par le fournisseur du kit et a déclaré qu'il a rempli l'ensemble des obligations fixées à l'article 9.
-
-Le ministre annote le CNSK pour indiquer des restrictions d'emploi de l'aéronef, ou pour indiquer que l'aéronef répond à des conditions additionnelles exigées pour un emploi particulier, notamment pour la formation.
 
 Lorsqu'un aéronef a été déclaré éligible, le ministre chargé de l'aviation civile peut délivrer, à la demande du propriétaire, un CNSK aux aéronefs prototypes qui ont été utilisés pour les démonstrations nécessaires à la déclaration d'éligibilité. Ces dispositions ne s'appliquent pas aux variantes d'aéronefs.
 

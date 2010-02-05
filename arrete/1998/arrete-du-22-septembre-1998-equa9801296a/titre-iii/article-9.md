@@ -1,6 +1,6 @@
 # Article 9
 
-Conditions à satisfaire :
+Conditions à satisfaire.
 
 Le monteur peut postuler à la délivrance d'un CNSK lorsque :
 
@@ -14,4 +14,4 @@ d) Le monteur dispose des documents associés à l'aéronef ;
 
 e) Les vols d'endurance ont été effectués.
 
-Le monteur doit archiver les résultats du programme de vérification.
+Le monteur archive les résultats du programme de vérification.

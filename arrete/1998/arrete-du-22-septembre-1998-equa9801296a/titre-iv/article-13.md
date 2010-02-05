@@ -1,6 +1,6 @@
 # Article 13
 
-Suspension et retrait du CNSK :
+Suspension et retrait du CNSK.
 
 Le ministre chargé de l'aviation civile peut suspendre la validité du CNSK :
 
@@ -10,7 +10,9 @@ b) Lorsque le propriétaire ou l'utilisateur ne peut fournir les documents exigi
 
 c) Lorsque le propriétaire ou l'utilisateur ne présente pas l'aéronef et ses documents associés à la requête du ministre chargé de l'aviation civile ;
 
-d) Lorsque le propriétaire ou l'utilisateur ne se conforme pas à l'obligation de fournir les renseignements sur la navigabilité et l'utilisation de l'aéronef exigés par les dispositions réglementaires en vigueur.
+d) Lorsque le propriétaire ou l'utilisateur ne se conforme pas à l'obligation de fournir les renseignements sur la navigabilité et l'utilisation de l'aéronef exigés par les dispositions réglementaires en vigueur ;
+
+e) Lorsque l'aéronef n'a pas été utilisé conformément aux conditions d'utilisation et aux limitations associées définies dans les documents associés à l'aéronef.
 
 Le ministre chargé de l'aviation civile notifie la suspension du CNSK soit par apposition du symbole " R " sur le certificat de navigabilité, soit par écrit.
 
