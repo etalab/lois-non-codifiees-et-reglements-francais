@@ -8,25 +8,25 @@ Dans les autres départements ainsi que dans les collectivités territoriales de
 
 3° Les sénateurs ;
 
-4° Le président du conseil régional ou, dans les départements de Corse-du-Sud et de Haute-Corse, le président du conseil exécutif de Corse, le président de l'assemblée de Corse ;
+4° Les représentants au Parlement européen ;
 
-5° Le président du conseil général ;
+5° Le président du conseil régional ou, dans les départements de Corse-du-Sud et de Haute-Corse, le président du conseil exécutif de Corse, le président de l'assemblée de Corse ;
 
-6° Le maire de la commune dans laquelle se déroule la cérémonie ;
+6° Le président du conseil général ;
 
-7° Les représentants au Parlement européen ;
+7° Le maire de la commune dans laquelle se déroule la cérémonie ;
 
 8° Le général commandant la région terre, l'amiral commandant la région maritime, le général commandant la région aérienne, le général commandant la région de gendarmerie ;
 
 9° Le président de la cour administrative d'appel, le premier président de la cour d'appel et le procureur général près cette cour ou, à Saint-Pierre-et-Miquelon et à Mayotte, le président du tribunal supérieur d'appel et le procureur de la République près ce tribunal ;
 
-10° Le général commandant la région terre, l'amiral commandant l'arrondissement maritime, le général commandant la région de gendarmerie ;
+10° L'amiral commandant l'arrondissement maritime, le général commandant la région de gendarmerie ;
 
 Dans les départements et les collectivités territoriales d'outre-mer, l'autorité militaire exerçant le commandement supérieur des forces armées ;
 
 11° Les dignitaires de la Légion d'honneur, les Compagnons de la Libération et les dignitaires de l'ordre national du Mérite ;
 
-12° Le président du conseil économique et social de la région, ou, dans les départements de Corse-du-Sud et de Haute-Corse, le président du conseil économique, social et culturel de Corse, les membres du conseil exécutif de Corse ;
+12° Le président du Conseil économique, social et environnemental de la région, ou, dans les départements de Corse-du-Sud et de Haute-Corse, le président du conseil économique, social et culturel de Corse, les membres du conseil exécutif de Corse ;
 
 Dans les départements d'outre-mer, le président du conseil de la culture, de l'éducation et de l'environnement ;
 
@@ -36,7 +36,7 @@ Dans les départements d'outre-mer, le président du conseil de la culture, de l
 
 15° Les membres du conseil général ;
 
-16° Les membres du Conseil économique et social ;
+16° Les membres du Conseil économique, social et environnemental ;
 
 17° Le recteur d'académie, chancelier des universités ;
 

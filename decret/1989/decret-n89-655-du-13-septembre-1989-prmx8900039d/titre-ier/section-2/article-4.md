@@ -8,9 +8,9 @@ Dans le territoire de la Nouvelle-Calédonie, lorsque les corps et autorités so
 
 3° Le sénateur ;
 
-4° Le président du congrès ;
+4° Les représentants au Parlement européen ;
 
-5° Les représentants au Parlement européen ;
+5° Le président du congrès ;
 
 6° Les présidents des assemblées de province ;
 
@@ -24,7 +24,7 @@ Dans le territoire de la Nouvelle-Calédonie, lorsque les corps et autorités so
 
 11° Le commandant supérieur des forces armées de la Nouvelle-Calédonie ;
 
-12° Le membre du Conseil économique et social, représentant des activités économiques et sociales du territoire ;
+12° Le membre du Conseil économique, social et environnemental, représentant des activités économiques et sociales du territoire ;
 
 13° Le président du Comité économique et social ;
 

@@ -26,7 +26,7 @@ En Polynésie française, lorsque les membres des corps et les autorités assist
 
 12° Les membres de l'assemblée de la Polynésie française ;
 
-13° Le membre du Conseil économique et social, représentant des activités économiques et sociales du territoire ;
+13° Le membre du   Conseil économique, social et environnemental, représentant des activités économiques et sociales du territoire ;
 
 14° Le président du Conseil économique, social et culturel de la Polynésie française ;
 

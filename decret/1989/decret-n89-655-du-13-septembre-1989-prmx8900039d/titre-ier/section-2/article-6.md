@@ -14,7 +14,7 @@ Dans le territoire des îles Wallis-et-Futuna, lorsque les membres des corps et 
 
 6° Le secrétaire général ;
 
-7° Le membre du Conseil économique et social, représentant des activités économiques et sociales du territoire ;
+7° Le membre du   Conseil économique, social et environnemental, représentant des activités économiques et sociales du territoire ;
 
 8° Le Premier ministre du Lavelua, le Premier ministre du Tuigaifo, le Premier ministre du Tamolevai ;
 

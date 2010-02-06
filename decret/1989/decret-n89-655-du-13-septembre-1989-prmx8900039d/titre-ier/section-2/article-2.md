@@ -14,43 +14,43 @@ A Paris, lorsque les membres des corps et les autorités assistent aux cérémon
 
 6° Le Gouvernement dans l'ordre de préséance arrêté par le Président de la République ;
 
-7° Les anciens présidents du conseil et les anciens premiers ministres dans l'ordre de préséance déterminé par l'ancienneté de leur prise de fonctions ;
+7° Les anciens premiers ministres dans l'ordre de préséance déterminé par l'ancienneté de leur prise de fonctions ;
 
 8° Le président du Conseil constitutionnel ;
 
 9° Le vice-président du Conseil d'Etat ;
 
-10° Le président du Conseil économique et social ;
+10° Le président du   Conseil économique, social et environnemental ;
 
 11° Les députés ;
 
 12° Les sénateurs ;
 
-13° L'autorité judiciaire représentée par le premier président de la Cour de cassation et le procureur général près cette cour ;
+13° Les représentants au Parlement européen ;
 
-14° Le premier président de la Cour des comptes et le procureur général près cette cour ;
+14° L'autorité judiciaire représentée par le premier président de la Cour de cassation et le procureur général près cette cour ;
 
-15° Le grand chancelier de la Légion d'honneur, chancelier de l'ordre national du Mérite, et les membres des conseils de ces ordres ;
+15° Le premier président de la Cour des comptes et le procureur général près cette cour ;
 
-16° Le chancelier de l'ordre de la Libération et les membres du conseil de l'ordre ;
+16° Le grand chancelier de la Légion d'honneur, chancelier de l'ordre national du Mérite, et les membres des conseils de ces ordres ;
 
-17° Le chef d'état-major des armées ;
+17° Le chancelier de l'ordre de la Libération et les membres du conseil de l'ordre ;
 
-18° Le Médiateur de la République ;
+18° Le chef d'état-major des armées ;
 
-19° Le préfet de la région d'Ile-de-France, préfet de Paris ;
+19° Le Médiateur de la République ;
 
-20° Le préfet de police, préfet de la zone de défense de Paris ;
+20° Le préfet de la région d'Ile-de-France, préfet de Paris ;
 
-21° Le maire de Paris, président du conseil de Paris ;
+21° Le préfet de police, préfet de la zone de défense de Paris ;
 
-22° Le président du conseil régional d'Ile-de-France ;
+22° Le maire de Paris, président du conseil de Paris ;
 
-23° Les représentants au Parlement européen ;
+23° Le président du conseil régional d'Ile-de-France ;
 
 24° Le chancelier de l'Institut de France, les secrétaires perpétuels de l'Académie française, de l'Académie des inscriptions et belles-lettres, de l'Académie des sciences, de l'Académie des beaux-arts et de l'Académie des sciences morales et politiques ;
 
-25° Le secrétaire général du Gouvernement, le     secrétaire général de la défense et de la sécurité nationale et le secrétaire général du ministère des affaires étrangères ;
+25° Le secrétaire général du Gouvernement, le secrétaire général de la défense et de la sécurité nationale et le secrétaire général du ministère des affaires étrangères ;
 
 26° Le président de la cour administrative d'appel de Paris, le premier président de la cour d'appel de Paris et le procureur général près cette cour ;
 
@@ -68,7 +68,7 @@ A Paris, lorsque les membres des corps et les autorités assistent aux cérémon
 
 33° Les hauts-commissaires, commissaires généraux, commissaires, délégués généraux, délégués, secrétaires généraux, directeurs de cabinet, le directeur général de la gendarmerie nationale, les directeurs généraux et directeurs d'administration centrale dans l'ordre de préséance des ministères déterminé par l'ordre protocolaire du Gouvernement et, au sein de chaque ministère, dans l'ordre de préséance déterminé par leur fonction ou leur grade ;
 
-34° Le gouverneur de la Banque de France, le directeur général de la Caisse des dépôts et consignations, le gouverneur du Crédit foncier de France ;
+34° Le gouverneur de la Banque de France, le directeur général de la Caisse des dépôts et consignations ;
 
 35° Le président du tribunal administratif de Paris, le président du tribunal de grande instance de Paris et le procureur de la République près ce tribunal, le président de la chambre régionale des comptes d'Ile-de-France ;
 
@@ -90,11 +90,11 @@ A Paris, lorsque les membres des corps et les autorités assistent aux cérémon
 
 44° Les présidents et secrétaires perpétuels des académies créées ou reconnues par une loi ou un décret ;
 
-45° Le président du Conseil économique et social de la région d'Ile-de-France ;
+45° Le président du   Conseil économique, social et environnemental de la région d'Ile-de-France ;
 
 46° Les chefs des services déconcentrés de l'Etat dans la région d'Ile-de-France et dans le département de Paris dans l'ordre de préséance attribué au département ministériel dont ils relèvent et les directeurs généraux et directeurs de la préfecture de région, de la préfecture de Paris et de la préfecture de police ;
 
-47° Le président de l'assemblée permanente des chambres de commerce et d'industrie, le président de l'assemblée permanente des chambres d'agriculture, le président de l'assemblée permanente des chambres de métiers et de l'artisanat ;
+47° Le président de l'assemblée des chambres françaises de commerce et d'industrie, le président de l'assemblée permanente des chambres d'agriculture, le président de l'assemblée permanente des chambres de métiers et de l'artisanat ;
 
 48° Le président de la chambre de commerce et d'industrie de Paris, le président de la chambre régionale de commerce et d'industrie d'Ile-de-France ;
 
