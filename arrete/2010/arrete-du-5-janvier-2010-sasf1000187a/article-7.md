@@ -1,0 +1,3 @@
+# Article 7
+
+Le candidat titulaire du diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport spécialité « perfectionnement sportif » mention « glisses aérotractées nautiques », ou le candidat titulaire du brevet professionnel de la jeunesse, de l'éducation populaire et du sport spécialité « activités nautiques », mention monovalente « glisses aérotractées », obtient de droit l'unité capitalisable 4 (UC4) « être capable d'encadrer les glisses aérotractées nautiques en sécurité » du diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du sport spécialité « performance sportive », mention « glisses aérotractées nautiques ».
