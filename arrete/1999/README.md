@@ -650,7 +650,6 @@
 - [Arrêté du 30 juin 1999 (EQUU9900634A)](arrete-du-30-juin-1999-equu9900634a)
 - [Arrêté du 30 juin 1999 (EQUU9900635A)](arrete-du-30-juin-1999-equu9900635a)
 - [Arrêté du 30 mars 1999 (ATEN9980052A)](arrete-du-30-mars-1999-aten9980052a)
-- [Arrêté du 30 mars 1999 (ATEN9980053A)](arrete-du-30-mars-1999-aten9980053a)
 - [Arrêté du 30 mars 1999 (ECOT9951787A)](arrete-du-30-mars-1999-ecot9951787a)
 - [Arrêté du 30 mars 1999 (MESP9921096A)](arrete-du-30-mars-1999-mesp9921096a)
 - [Arrêté du 30 novembre 1998 (ECOU9800051A)](arrete-du-30-novembre-1998-ecou9800051a)
