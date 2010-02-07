@@ -490,6 +490,7 @@
 - [Arrêté du 30 décembre 2009 (MTSS0930091A)](arrete-du-30-decembre-2009-mtss0930091a)
 - [Arrêté du 30 décembre 2009 (SASH0925121A)](arrete-du-30-decembre-2009-sash0925121a)
 - [Arrêté du 30 juillet 2010 (DEFH1017284A)](arrete-du-30-juillet-2010-defh1017284a)
+- [Arrêté du 30 mars 1999 (ATEN9980053A)](arrete-du-30-mars-1999-aten9980053a)
 - [Arrêté du 30 novembre 2009 (SASH0928715A)](arrete-du-30-novembre-2009-sash0928715a)
 - [Arrêté du 30 septembre 2009 (DEVO0914388A)](arrete-du-30-septembre-2009-devo0914388a)
 - [Arrêté du 31 août 2007 (BCFB0755421A)](arrete-du-31-aout-2007-bcfb0755421a)
