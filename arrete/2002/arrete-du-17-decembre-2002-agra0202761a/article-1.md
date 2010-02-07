@@ -6,14 +6,12 @@ Ecole polytechnique ;
 
 Sections scientifiques des écoles normales supérieures ;
 
-Institut national agronomique Paris-Grignon ;
+Institut des sciences et industries du vivant et de l'environnement (Agro Paris Tech) ;
 
-Ecole nationale supérieure agronomique de Montpellier ;
+Centre international d'études supérieures en sciences agronomiques (Montpellier Sup Agro) ;
 
-Ecole nationale supérieure agronomique de Rennes ;
+Institut supérieur des sciences agronomiques, agroalimentaires, horticoles et du paysage (Agro campus Ouest) ;
 
 Ecole nationale supérieure agronomique de Toulouse ;
 
-Ecole nationale supérieure d'agronomie et des industries alimentaires de Nancy ;
-
-Ecole nationale supérieure des industries agricoles et alimentaires de Massy.
+Ecole nationale supérieure d'agronomie et des industries alimentaires de Nancy.
