@@ -59,6 +59,7 @@
 - [Décret n°96-1009 du 18 novembre 1996 (ENVP9640051D)](decret-n96-1009-du-18-novembre-1996-envp9640051d)
 - [Décret n°2005-1304 du 19 octobre 2005 (INTA0500292D)](decret-n2005-1304-du-19-octobre-2005-inta0500292d)
 - [Décret n°2005-1597 du 19 décembre 2005 (DEFP0501535D)](decret-n2005-1597-du-19-decembre-2005-defp0501535d)
+- [Décret n°2005-1602 du 19 décembre 2005 (JUSB0510679D)](decret-n2005-1602-du-19-decembre-2005-jusb0510679d)
 - [Décret n°2005-1603 du 19 décembre 2005 (JUSB0510681D)](decret-n2005-1603-du-19-decembre-2005-jusb0510681d)
 - [Décret n°2005-368 du 19 avril 2005 (AGRD0500695D)](decret-n2005-368-du-19-avril-2005-agrd0500695d)
 - [Décret n°2005-819 du 19 juillet 2005 (JUSK0540002D)](decret-n2005-819-du-19-juillet-2005-jusk0540002d)
