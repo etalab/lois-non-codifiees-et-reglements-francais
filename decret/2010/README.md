@@ -17,6 +17,7 @@
 - [Décret n°2010-118 du 4 février 2010 (JUSA0927156D)](decret-n2010-118-du-4-fevrier-2010-jusa0927156d)
 - [Décret n°2010-119 du 4 février 2010 (IOCA1000499D)](decret-n2010-119-du-4-fevrier-2010-ioca1000499d)
 - [Décret n°2010-454 du 4 mai 2010 (PRMG1005827D)](decret-n2010-454-du-4-mai-2010-prmg1005827d)
+- [Décret n°2010-122 du 5 février 2010 (DEVU0911075D)](decret-n2010-122-du-5-fevrier-2010-devu0911075d)
 - [Décret n°2010-5 du 5 janvier 2010 (BCFF0929573D)](decret-n2010-5-du-5-janvier-2010-bcff0929573d)
 - [Décret n°2010-6 du 5 janvier 2010 (SASS0924398D)](decret-n2010-6-du-5-janvier-2010-sass0924398d)
 - [Décret n°2010-7 du 5 janvier 2010 (DEFH0924966D)](decret-n2010-7-du-5-janvier-2010-defh0924966d)
