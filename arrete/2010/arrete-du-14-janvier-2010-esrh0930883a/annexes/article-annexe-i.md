@@ -139,9 +139,9 @@ LISTE DES EMPLOIS DE MAÎTRE DE CONFÉRENCES DES UNIVERSITÉS-PRATICIEN HOSPITAL
 </td>
 <td align="center">Odontologie conservatrice, endodontie<br/>
 </td>
-<td align="center">CSERD de Paris-Garancière, groupe hospitalier Pitié-Salpêtrière<br/>
+<td align="center">CSERD de Paris-Garancière, groupe hospitalier Pitié-Salpêtrière <br/>
 </td>
-<td align="center">5703 PUOD 1663<br/>Plein temps<br/>
+<td align="center">5703 MCOD 1663<br/>
 </td>
 </tr>
 <tr>
