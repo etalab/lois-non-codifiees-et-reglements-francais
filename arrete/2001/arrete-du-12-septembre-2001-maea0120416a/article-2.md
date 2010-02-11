@@ -45,16 +45,16 @@ La composition de la commission administrative paritaire visée à l'article 1er
 <p>Adjoints de protection principaux de 1re classe</p>
 </td>
 <td>
-<p align="center">0</p>
+<p align="center">1</p>
 </td>
 <td>
-<p align="center">0</p>
+<p align="center">1</p>
 </td>
 <td>
-<p align="center">0</p>
+<p align="center">1</p>
 </td>
 <td>
-<p align="center">0</p>
+<p align="center">1</p>
 </td>
 </tr>
 <tr>
@@ -62,16 +62,16 @@ La composition de la commission administrative paritaire visée à l'article 1er
 <p>Adjoints de protection principaux de 2e classe</p>
 </td>
 <td>
-<p align="center">2</p>
+<p align="center">1</p>
 </td>
 <td>
-<p align="center">2</p>
+<p align="center">1</p>
 </td>
 <td>
-<p align="center">2</p>
+<p align="center">1</p>
 </td>
 <td>
-<p align="center">2</p>
+<p align="center">1</p>
 </td>
 </tr>
 <tr>
