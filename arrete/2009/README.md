@@ -3070,7 +3070,6 @@
 - [Arrêté du 30 décembre 2008 (SJSH0831444A)](arrete-du-30-decembre-2008-sjsh0831444a)
 - [Arrêté du 30 janvier 1996 (MENF9502605A)](arrete-du-30-janvier-1996-menf9502605a)
 - [Arrêté du 30 janvier 2009 (AGRM0829571A)](arrete-du-30-janvier-2009-agrm0829571a)
-- [Arrêté du 30 janvier 2009 (AGRM0902444A)](arrete-du-30-janvier-2009-agrm0902444a)
 - [Arrêté du 30 janvier 2009 (DEFD0904375A)](arrete-du-30-janvier-2009-defd0904375a)
 - [Arrêté du 30 janvier 2009 (DEVS0902420A)](arrete-du-30-janvier-2009-devs0902420a)
 - [Arrêté du 30 janvier 2009 (ECEI0823404A)](arrete-du-30-janvier-2009-ecei0823404a)
