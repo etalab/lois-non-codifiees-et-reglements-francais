@@ -1,0 +1,3 @@
+# Article 9
+
+Le secrétaire général, le directeur général de la police nationale, le directeur général de la gendarmerie nationale, les préfets de région et de département, le préfet de région Ile-de-France, préfet de Paris, le préfet de police, le préfet de Corse, le préfet de Mayotte, le préfet de Saint-Pierre-et-Miquelon, le haut-commissaire de la République en Nouvelle-Calédonie et les préfets sous l'autorité desquels sont placés les secrétariats généraux pour l'administration de la police sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

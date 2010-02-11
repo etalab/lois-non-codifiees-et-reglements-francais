@@ -1,0 +1,5 @@
+# Article 7
+
+Pour les scrutins relatifs aux corps des attachés d'administration et des directeurs de préfecture, des secrétaires administratifs, des adjoints administratifs, des adjoints techniques de l'intérieur et de l'outre-mer et des contremaîtres des services techniques et du matériel relevant du ministère de l'intérieur, il est institué des bureaux de vote spéciaux en administration centrale, dans les préfectures, les secrétariats généraux pour l'administration de la police et certains services de police nationale.
+
+Pour les scrutins relatifs aux commissions administratives paritaires nationales compétentes à l'égard des fonctionnaires des corps des techniciens des systèmes d'information et de communication, des agents des systèmes d'information et de communication et des contrôleurs des services techniques du ministère de l'intérieur, il est institué des bureaux de vote spéciaux en administration centrale et au sein de chaque secrétariat général pour l'administration de la police, à l'exception du secrétariat général pour l'administration de la police de Paris.

@@ -262,9 +262,7 @@ Provence-Alpes-Côte d'Azur
 
 ACA (Air Ciotat automation) puis SNACA (Société nouvelle air Ciotat automation). ZI de Roumagoua, 13600 La Ciotat. De 1987 à 1990.
 
-ACMP (Ateliers et chantiers de Marseille Provence) :
-
-- 2, boulevard des Bassins-Cap-Pinède, 13002 Marseille : de 1980 à 1988.
+Ateliers et Chantiers de Marseille Provence (ACMP), 2, boulevard des Bassins, Forme 7, cap Pinède, 13002 Marseille ; aire de Mourepiane, enceinte portuaire, domaine public du Port autonome, 13002 Marseille ; terre-plein de Mourepiane, BP 2304, 13213 Marseille Cedex 2 ; terre-plein de Mourepiane, BP 2304, 13016 Marseille ; BP 304, 13213 Marseille Cedex 1, de 1981 à 1988.
 
 ACOREM, rue Léo-Lagrange, ZI Toulon Est, 83062 La Garde, ZI Les Négaloux, 83140 Six-Fours-les-Plages, de 1978 à 1997.
 
@@ -1132,7 +1130,7 @@ Sud Marine/Brisard, Sud Marine/Marine Technologie, Entreprise/Marine Technologie
 
 - 9, boulevard Gay-Lussac, 13004 Marseille, puis Formes 8 et 9, enceinte portuaire, 13002 Marseille : depuis 1950.
 
-Sud Marine industries. Aire de Mourepiane, enceinte portuaire, 13002 Marseille. De 1988 à 1991.
+Sud Marine Industries, aire de Mourepiane, enceinte portuaire, 13002 Marseille ; aire de Mourepiane, enceinte portuaire, 4 cap Janet, 13002 Marseille ; aire de Mourepiane, enceinte portuaire, 4 cap Janet, 13014 Marseille, de 1988 à 1991.
 
 Sud Marine réparation navale. Aire de Mourepiane, enceinte portuaire, 13002 Marseille. De 1988 à 1992.
 
