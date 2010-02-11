@@ -3172,7 +3172,6 @@
 - [Arrêté du 31 décembre 1996 (MIPP9600505A)](arrete-du-31-decembre-1996-mipp9600505a)
 - [Arrêté du 31 décembre 2003 (SOCF0312110A)](arrete-du-31-decembre-2003-socf0312110a)
 - [Arrêté du 31 décembre 2008 (DEVA0828650A)](arrete-du-31-decembre-2008-deva0828650a)
-- [Arrêté du 31 décembre 2008 (DEVA0830300A)](arrete-du-31-decembre-2008-deva0830300a)
 - [Arrêté du 31 décembre 2008 (ECEC0831181A)](arrete-du-31-decembre-2008-ecec0831181a)
 - [Arrêté du 31 décembre 2008 (ECED0831463A)](arrete-du-31-decembre-2008-eced0831463a)
 - [Arrêté du 31 décembre 2008 (IOCA0825713A)](arrete-du-31-decembre-2008-ioca0825713a)
