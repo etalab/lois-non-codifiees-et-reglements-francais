@@ -29,7 +29,3 @@ La Moselle internationale de Metz (PK 297.350) à la frontière à Apach (PK 242
 La Saône entre le PK 2.2 et le PK 5.4, en période d'alternat (traversée de Lyon).
 
 La Moselle entre l'écluse de Neuves-Maisons (PK 392.10) et Metz (PK 297.350) lorsque la marque de crue II est dépassée.
-
-3. Liste des voies d'eau intérieures sur lesquelles les conducteurs de bateaux de marchandises de moins de 55 mètres peuvent naviguer seul à bord à titre expérimental jusqu'au 30 juin 2009 :
-
-La Seine entre l'écluse d'Andrésy (PK 72.700) et l'écluse de Pose-Amfreville (PK 202.000).
