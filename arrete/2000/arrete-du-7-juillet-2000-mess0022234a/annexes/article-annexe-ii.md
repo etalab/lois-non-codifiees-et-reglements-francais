@@ -170,9 +170,7 @@ SOCCOMA :
 
 Société des chantiers navals français : zone industrielle du canal, 14550 Blainville-sur-Orne. De 1917 à 1954.
 
-Société navale cherbourgeoise :
-
-- quai de l'Ancien-Arsenal, 50100 Cherbourg, et rue Montebello, 50100 Cherbourg, et 120, rue Roger-Glinel, BP 61, 50460 Querqueville : de 1987 à 1998.
+Société navale cherbourgeoise (SNC), quai de l'Ancien-Arsenal, 50100 Cherbourg et rue Montebello, 50100 Cherbourg et 120, rue Roger-Glinel, BP 61, 50460 Querqueville ; Tuyauterie et chaudronnerie du Cotentin, 120, rue Roger-Glinel, 50460 Querqueville, de 1987 à 1996.
 
 Tuyauterie et chaudronnerie du Cotentin, 120, rue Roger-Glinel, 50460 Querqueville ;
 
@@ -326,7 +324,7 @@ Bolcioni :
 
 - 8, rue Amiral-Troude, 29200 Brest : depuis sa création.
 
-BONNEC, puis SARL POLYESTA 10, rue Chalutier-Les-Deux-Anges, 56100 Lorient. De 1970 à 1987.
+BONNEC, puis SARL POLYESTA, puis SA POLYESTA, 10, rue Chalutier-les-Deux-Anges, 56100 Lorient, Pont du Moulin, route de Port-Louis, 56700 Merlevenez, de 1970 à 1987.
 
 Breiz-Elec, 25, quai du Pourquoi-Pas, 56100 Lorient : de 1976 à 1996.
 
