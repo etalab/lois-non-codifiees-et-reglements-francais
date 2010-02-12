@@ -258,7 +258,6 @@
 - [Décret n°2009-137 du 9 février 2009 (IOCA0901592D)](decret-n2009-137-du-9-fevrier-2009-ioca0901592d)
 - [Décret n°2009-1375 du 9 novembre 2009 (MCCB0900655D)](decret-n2009-1375-du-9-novembre-2009-mccb0900655d)
 - [Décret n°2009-1376 du 9 novembre 2009 (MCCB0907305D)](decret-n2009-1376-du-9-novembre-2009-mccb0907305d)
-- [Décret n°2009-138 du 9 février 2009 (ECET0831459D)](decret-n2009-138-du-9-fevrier-2009-ecet0831459d)
 - [Décret n°2009-1382 du 9 novembre 2009 (MTSO0912965D)](decret-n2009-1382-du-9-novembre-2009-mtso0912965d)
 - [Décret n°2009-143 du 9 février 2009 (JUSC0823118D)](decret-n2009-143-du-9-fevrier-2009-jusc0823118d)
 - [Décret n°2009-144 du 9 février 2009 (AGRE0815812D)](decret-n2009-144-du-9-fevrier-2009-agre0815812d)
