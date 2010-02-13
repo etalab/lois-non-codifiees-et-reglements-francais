@@ -60,6 +60,6 @@ Une directrice régionale de l'environnement.
 
 Un directeur de centre d'études techniques de l'équipement.
 
-Un directeur régional des affaires maritimes.
+Un    directeur interrégional de la mer.
 
 Une directrice de service navigation.

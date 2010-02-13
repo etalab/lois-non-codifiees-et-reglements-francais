@@ -56,6 +56,7 @@
 - [Arrêté du 7 janvier 2010 (BCFD1001694A)](arrete-du-7-janvier-2010-bcfd1001694a)
 - [Arrêté du 7 janvier 2010 (DEVN0825028A)](arrete-du-7-janvier-2010-devn0825028a)
 - [Arrêté du 8 décembre 2006 (FPPA0609776A)](arrete-du-8-decembre-2006-fppa0609776a)
+- [Arrêté du 8 décembre 2008 (DEVT0828789A)](arrete-du-8-decembre-2008-devt0828789a)
 - [Arrêté du 8 décembre 2009 (AGRS0928786A)](arrete-du-8-decembre-2009-agrs0928786a)
 - [Arrêté du 8 décembre 2009 (ECED0929632A)](arrete-du-8-decembre-2009-eced0929632a)
 - [Arrêté du 8 décembre 2009 (ECEP0928741A)](arrete-du-8-decembre-2009-ecep0928741a)

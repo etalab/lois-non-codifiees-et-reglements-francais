@@ -26,7 +26,7 @@ AU TITRE DU 1° DE L'ARTICLE 3 DU PRÉSENT ARRÊTÉ**
 
 11° La direction interdépartementale des affaires maritimes Seine-Maritime et Eure ;
 
-12° La direction régionale des affaires maritimes de Haute-Normandie ;
+12° La    direction interrégionale de la mer de Haute-Normandie ;
 
 13° Le service maritime de Haute-Normandie ;
 

@@ -4,6 +4,6 @@ Les décisions du jury de validation des acquis de l'expérience sont notifiées
 
 Le candidat doit déposer une demande de délivrance de titre écrite auprès du service des affaires maritimes dont il dépend, accompagnée des documents nécessaires à la vérification de ses droits.
 
-Avant la délivrance du titre de formation professionnelle maritime, le directeur régional des affaires maritimes vérifie auprès de l'unité des concours et examens maritimes que les modules ont été acquis par le candidat.
+Avant la délivrance du titre de formation professionnelle maritime, le    directeur interrégional de la mer vérifie auprès de l'unité des concours et examens maritimes que les modules ont été acquis par le candidat.
 
 Tant que l'intégralité des conditions de délivrance du titre n'est pas remplie par le candidat, le titre de formation professionnelle maritime ne peut lui être délivré.

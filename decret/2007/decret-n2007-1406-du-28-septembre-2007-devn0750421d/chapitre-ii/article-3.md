@@ -8,13 +8,13 @@ a) Le commandant de la zone maritime Atlantique ;
 
 b) Le directeur régional de l'environnement de Bretagne ;
 
-c) Le directeur régional des affaires maritimes de Bretagne ;
+c) Le    directeur interrégional de la mer de Bretagne ;
 
 d) Le directeur départemental de l'équipement du Finistère ;
 
 e) Le directeur départemental de l'agriculture et de la forêt du Finistère ;
 
-f) Le              directeur régional de l'environnement, de l'aménagement et du logement de Bretagne ;
+f) Le directeur régional de l'environnement, de l'aménagement et du logement de Bretagne ;
 
 2° Onze représentants des collectivités territoriales ou de leurs groupements :
 

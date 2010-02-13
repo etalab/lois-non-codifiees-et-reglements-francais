@@ -13,22 +13,22 @@ _autres que les navires de plaisance_
 
 4e catégorie : Navigation au cours de laquelle le navire ne s'éloigne pas de plus de 5 milles au-delà de la limite des eaux abritées où se trouve son port de départ.
 
-5e catégorie : Navigation au cours de laquelle le navire demeure constamment dans les eaux abritées telles que rades non exposées lacs, bassins, étangs d'eaux salées etc., ou dans les limites éventuellement fixées par le directeur régional des affaires maritimes sur proposition du chef de quartier.
+5e catégorie : Navigation au cours de laquelle le navire demeure constamment dans les eaux abritées telles que rades non exposées lacs, bassins, étangs d'eaux salées etc., ou dans les limites éventuellement fixées par le    directeur interrégional de la mer sur proposition du chef de quartier.
 
 2. La catégorie de navigation pour laquelle un navire est approuvé est indiquée sur son permis de navigation, ainsi que, le cas échéant, les restrictions dont elle est assortie.
 
-3. L'autorité compétente pour l'approbation des plans et documents peut dispenser un navire d'une partie des dispositions du présent règlement qui s'appliquent à la catégorie de navigation pour laquelle il est approuvé, si des restrictions sont imposées à la navigation de ce navire à l'intérieur de cette catégorie. Ces restrictions peuvent porter sur des caractéristiques autres que géographiques de la navigation, telles que notamment :
+3.L'autorité compétente pour l'approbation des plans et documents peut dispenser un navire d'une partie des dispositions du présent règlement qui s'appliquent à la catégorie de navigation pour laquelle il est approuvé, si des restrictions sont imposées à la navigation de ce navire à l'intérieur de cette catégorie. Ces restrictions peuvent porter sur des caractéristiques autres que géographiques de la navigation, telles que notamment :
 
-- les conditions météorologiques ;
+-les conditions météorologiques ;
 
-- le nombre de personnes embarquées ;
+-le nombre de personnes embarquées ;
 
-- la durée de la navigation ;
+-la durée de la navigation ;
 
-- la possibilité de recevoir des secours ;
+-la possibilité de recevoir des secours ;
 
-- le caractère saisonnier de l'exploitation ;
+-le caractère saisonnier de l'exploitation ;
 
-- le type d'activité du navire dans les zones non sujettes au mauvais temps.
+-le type d'activité du navire dans les zones non sujettes au mauvais temps.
 
 4. Les navires de plaisance n'effectuant aucun trafic commercial ne sont pas concernés par les dispositions du présent article.

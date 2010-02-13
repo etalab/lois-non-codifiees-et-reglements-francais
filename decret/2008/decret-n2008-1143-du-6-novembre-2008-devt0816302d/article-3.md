@@ -6,7 +6,7 @@ La commission nationale est composée :
 
 ― l'inspecteur général des affaires maritimes, président ;
 
-― un directeur régional des affaires maritimes ;
+― un    directeur interrégional de la mer ;
 
 ― le directeur d'un établissement de formation maritime supérieure ;
 
@@ -16,7 +16,7 @@ La commission nationale est composée :
 
 ― l'inspecteur général des affaires maritimes, président ;
 
-― un directeur régional des affaires maritimes ;
+― un    directeur interrégional de la mer ;
 
 ― le directeur d'un lycée professionnel maritime ;
 

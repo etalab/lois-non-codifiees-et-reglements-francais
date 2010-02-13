@@ -32,14 +32,14 @@ Le plan de situation et le plan de masse peuvent faire l'objet d'un seul plan.
 
 Le plan de maîtrise des risques zoosanitaires décrit les mesures prises par le responsable de l'exploitation aquacole pour assurer la sécurité sanitaire de ses productions vis-à-vis des dangers biologiques. Il comprend les éléments et les documents nécessaires pour la mise en place de ce plan et les preuves de sa mise en application :
 
-- tenue du registre d'entrées et sorties des animaux et des hausses de mortalités ;
+-tenue du registre d'entrées et sorties des animaux et des hausses de mortalités ;
 
-- bonnes pratiques sanitaire en élevage aquacole ;
+-bonnes pratiques sanitaire en élevage aquacole ;
 
-- d'analyse des risques ;
+-d'analyse des risques ;
 
-- plan de surveillance appliqué et approuvé par le directeur départemental des services vétérinaires ou du directeur régional des affaires maritimes selon leur domaine de compétence, ainsi que les résultats d'analyses ;
+-plan de surveillance appliqué et approuvé par le directeur départemental des services vétérinaires ou du directeur interrégional de la mer selon leur domaine de compétence, ainsi que les résultats d'analyses ;
 
-- documents de transport, le cas échéant.
+-documents de transport, le cas échéant.
 
 Pour établir ces documents, les professionnels pourront se référer au guide des bonnes pratiques sanitaires en élevage aquacole, validé pour la catégorie d'animaux concernée.

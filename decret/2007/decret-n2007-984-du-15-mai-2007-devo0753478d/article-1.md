@@ -24,7 +24,7 @@ II.-1° Le directeur régional de l'environnement de Midi-Pyrénées, délégué
 
 9° Le directeur régional de l'environnement, de l'aménagement et du logement de Midi-Pyrénées ;
 
-10° Le directeur régional des affaires maritimes de Gironde ;
+10° Le    directeur interrégional de la mer de Gironde ;
 
 11° Le délégué régional au tourisme de Midi-Pyrénées ;
 
@@ -80,9 +80,9 @@ II.-1° Le directeur régional de l'environnement du Centre, délégué de bassi
 
 8° Le directeur régional de la concurrence, de la consommation et de la répression des fraudes du Centre ;
 
-9° Les     directeurs régionaux de l'environnement, de l'aménagement et du logement  du Centre et de Bretagne ;
+9° Les directeurs régionaux de l'environnement, de l'aménagement et du logement du Centre et de Bretagne ;
 
-10° Le directeur régional des affaires maritimes de Bretagne ;
+10° Le    directeur interrégional de la mer de Bretagne ;
 
 11° Le délégué régional au tourisme du Centre ;
 
@@ -144,7 +144,7 @@ II.-1° Le directeur régional de l'environnement de Rhône-Alpes, délégué de
 
 9° Le directeur régional de l'environnement, de l'aménagement et du logement de Rhône-Alpes, du Languedoc-Roussillon et de Provence-Alpes-Côte d'Azur ;
 
-10° Le directeur régional des affaires maritimes de Provence-Alpes-Côte d'Azur ;
+10° Le    directeur interrégional de la mer de Provence-Alpes-Côte d'Azur ;
 
 11° Le délégué régional au tourisme de Provence-Alpes-Côte d'Azur ;
 
@@ -176,9 +176,9 @@ II.-1° Le directeur régional de l'environnement d'Ile-de-France, délégué de
 
 8° Le directeur régional de la concurrence, de la consommation et de la répression des fraudes d'Ile-de-France ;
 
-9° Les     directeurs régionaux de l'environnement, de l'aménagement et du logement  d'Ile-de-France et de Haute-Normandie ;
+9° Les directeurs régionaux de l'environnement, de l'aménagement et du logement d'Ile-de-France et de Haute-Normandie ;
 
-10° Le directeur régional des affaires maritimes de Haute-Normandie ;
+10° Le    directeur interrégional de la mer de Haute-Normandie ;
 
 11° Le délégué régional au tourisme de la région Ile-de-France ;
 

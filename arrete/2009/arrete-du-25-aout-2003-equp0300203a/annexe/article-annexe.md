@@ -526,7 +526,7 @@ Pour les directions départementales, sous la tutelle du ministère chargé de l
 </tbody>
 </table>
 
-Les directions régionales de l'environnement (DIREN), les directions interrégionales et régionales de l'Etablissement public Météo-France, les directions régionales des affaires maritimes, les unités interrégionales et régionales de l'Etablissement public Institut géographique national et les services départementaux de l'architecture bénéficient du coefficient attribué aux directions départementales de l'équipement du siège de leur résidence. Les directions territoriales de Météo-France dans les territoires d'outre-mer bénéficient du coefficient 0,85. La direction interrégionale d'Ile-de-France de l'Etablissement public Météo-France bénéficie du coefficient de 1,05 attribué aux services de la direction générale et des directions de centrale de ce même établissement.
+Les directions régionales de l'environnement (DIREN), les directions interrégionales et régionales de l'Etablissement public Météo-France, les directions interrégionales de la mer, les unités interrégionales et régionales de l'Etablissement public Institut géographique national et les services départementaux de l'architecture bénéficient du coefficient attribué aux directions départementales de l'équipement du siège de leur résidence. Les directions territoriales de Météo-France dans les territoires d'outre-mer bénéficient du coefficient 0,85. La direction interrégionale d'Ile-de-France de l'Etablissement public Météo-France bénéficie du coefficient de 1,05 attribué aux services de la direction générale et des directions de centrale de ce même établissement.
 
 Pour les directions régionales de l'équipement
 

@@ -2,7 +2,7 @@
 
 Le nombre des comités régionaux des pêches maritimes et des élevages marins est fixé à quatorze :
 
-Nord - Pas-de-Calais - Picardie ;
+Nord-Pas-de-Calais-Picardie ;
 
 Haute-Normandie ;
 
@@ -34,4 +34,4 @@ La circonscription des comités régionaux des pêches maritimes et des élevage
 
 Un arrêté du ministre chargé des pêches maritimes et des cultures marines fixe également le règlement intérieur type des comités régionaux.
 
-Un arrêté du préfet de la région dans laquelle le comité régional a son siège, pris sur proposition du directeur régional des affaires maritimes, fixe la répartition des sièges du conseil entre les différentes catégories professionnelles mentionnées à l'article 3 de la loi du 2 mai 1991 susvisée.
+Un arrêté du préfet de la région dans laquelle le comité régional a son siège, pris sur proposition du    directeur interrégional de la mer, fixe la répartition des sièges du conseil entre les différentes catégories professionnelles mentionnées à l'article 3 de la loi du 2 mai 1991 susvisée.

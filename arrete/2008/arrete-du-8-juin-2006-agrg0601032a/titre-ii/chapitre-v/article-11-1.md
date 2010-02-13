@@ -1,8 +1,8 @@
 # Article 11-1
 
-1.L'agrément zoosanitaire des établissements de transformation et exploitations aquacoles mentionnés au premier alinéa de l'article 1er-1 est délivré préalablement à la mise sur le marché des animaux d'aquaculture, par le préfet, sur proposition du directeur départemental des services vétérinaires ou du directeur régional des affaires maritimes selon leur domaine de compétence, dans les conditions prévues au présent chapitre.L'agrément zoosanitaire précise les espèces et la nature de l'activité pour laquelle il est accordé, en indiquant pour chaque espèce la nature de l'activité.
+1.L'agrément zoosanitaire des établissements de transformation et exploitations aquacoles mentionnés au premier alinéa de l'article 1er-1 est délivré préalablement à la mise sur le marché des animaux d'aquaculture, par le préfet, sur proposition du directeur départemental des services vétérinaires ou du    directeur interrégional de la mer selon leur domaine de compétence, dans les conditions prévues au présent chapitre.L'agrément zoosanitaire précise les espèces et la nature de l'activité pour laquelle il est accordé, en indiquant pour chaque espèce la nature de l'activité.
 
-2. La demande d'agrément zoosanitaire pour une exploitation aquacole, mentionnée au premier alinéa de l'article 1er-1, doit être adressée par le responsable de cette exploitation, avant sa mise en activité, au directeur départemental des services vétérinaires ou au directeur régional des affaires maritimes, selon leur domaine de compétence, du lieu d'implantation de la ferme aquacole ou de la zone d'élevage de mollusques, à l'aide du modèle présenté en annexe 5.
+2. La demande d'agrément zoosanitaire pour une exploitation aquacole, mentionnée au premier alinéa de l'article 1er-1, doit être adressée par le responsable de cette exploitation, avant sa mise en activité, au directeur départemental des services vétérinaires ou au    directeur interrégional de la mer, selon leur domaine de compétence, du lieu d'implantation de la ferme aquacole ou de la zone d'élevage de mollusques, à l'aide du modèle présenté en annexe 5.
 
 Chaque site d'une exploitation aquacole doit faire l'objet d'une demande distincte. Pour que la demande soit recevable, elle doit être accompagnée d'un dossier comprenant les documents descriptifs de la ferme aquacole ou de la zone d'élevage de mollusques et le plan de surveillance zoosanitaire, tels que définis en annexe 6.
 
@@ -12,27 +12,27 @@ Si, à l'issue de l'instruction, la demande d'agrément zoosanitaire prévue au 
 
 a) Tenue d'un registre :
 
-- de tous les mouvements d'entrée et de sortie des animaux d'aquaculture, mentionnant leur origine, leur destination, ainsi que leur nombre ou poids et leur taille ;
+-de tous les mouvements d'entrée et de sortie des animaux d'aquaculture, mentionnant leur origine, leur destination, ainsi que leur nombre ou poids et leur taille ;
 
-- de l'enregistrement de la mortalité constatée dans chaque segment épidémiologique en rapport avec le type de production ;
+-de l'enregistrement de la mortalité constatée dans chaque segment épidémiologique en rapport avec le type de production ;
 
 b) Mise en œuvre des bonnes pratiques sanitaires d'élevage appropriées, dans le but de prévenir l'introduction et la propagation des maladies ;
 
-c) Collecte des résultats du plan de surveillance zoosanitaire approuvé par le directeur départemental des services vétérinaires ou le directeur régional des affaires maritimes selon leur domaine de compétence ; ce plan, fondé sur une analyse des risques et adapté au type de production concerné, a en particulier pour objectif de détecter toute hausse inexpliquée et significative de la mortalité ; il s'applique sans préjudice de l'échantillonnage et de la surveillance effectués :
+c) Collecte des résultats du plan de surveillance zoosanitaire approuvé par le directeur départemental des services vétérinaires ou le    directeur interrégional de la mer selon leur domaine de compétence ; ce plan, fondé sur une analyse des risques et adapté au type de production concerné, a en particulier pour objectif de détecter toute hausse inexpliquée et significative de la mortalité ; il s'applique sans préjudice de l'échantillonnage et de la surveillance effectués :
 
-- lors de la mise en œuvre des mesures de lutte contre les maladies des animaux d'aquaculture ;
+-lors de la mise en œuvre des mesures de lutte contre les maladies des animaux d'aquaculture ;
 
-- en vue d'obtenir le statut indemne de la maladie.
+-en vue d'obtenir le statut indemne de la maladie.
 
 Les modalités d'application du plan de surveillance sont définies par instruction du ministre chargé de l'agriculture et de la pêche.
 
 4. Le numéro d'agrément zoosanitaire de l'exploitation est composé :
 
-- du numéro de codification du département du lieu d'implantation ;
+-du numéro de codification du département du lieu d'implantation ;
 
-- du numéro de codification de la commune du lieu d'implantation ;
+-du numéro de codification de la commune du lieu d'implantation ;
 
-- et du numéro d'ordre de l'établissement dans la commune.
+-et du numéro d'ordre de l'établissement dans la commune.
 
 Avant l'attribution de ce numéro, il conviendra de tenir compte des numéros d'agrément zoosanitaires existants. Les modalités d'attribution du numéro d'agrément zoosanitaire sont définies par instruction du ministre chargé de l'agriculture et de la pêche.
 

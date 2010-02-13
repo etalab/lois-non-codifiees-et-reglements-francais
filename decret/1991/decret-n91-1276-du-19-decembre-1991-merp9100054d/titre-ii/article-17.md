@@ -2,19 +2,19 @@
 
 Le nombre des sections régionales est fixé à sept :
 
-- section régionale Normandie-mer du Nord ;
+-section régionale Normandie-mer du Nord ;
 
-- section régionale Bretagne-Nord ;
+-section régionale Bretagne-Nord ;
 
-- section régionale Bretagne-Sud ;
+-section régionale Bretagne-Sud ;
 
-- section régionale Pays de la Loire ;
+-section régionale Pays de la Loire ;
 
-- section régionale Poitou-Charentes ;
+-section régionale Poitou-Charentes ;
 
-- section régionale Arcachon-Aquitaine ;
+-section régionale Arcachon-Aquitaine ;
 
-- section régionale Méditerranée.
+-section régionale Méditerranée.
 
 Les limites de la circonscription territoriale de chaque section régionale, son siège et les circonscriptions électorales qui y sont rattachées, ainsi que le nombre de membres du bureau, sont fixés par arrêté du ministre chargé des pêches maritimes et des cultures marines. Ce nombre ne peut être supérieur à soixante.
 
@@ -26,4 +26,4 @@ b) D'au moins deux salariés représentant les personnels employés à titre per
 
 c) De représentants de la distribution et de la transformation des produits de la conchyliculture de la région.
 
-Un arrêté du préfet de la région du siège de la section régionale, pris sur proposition du directeur régional des affaires maritimes territorialement compétent, fixe la répartition des sièges du bureau entre les différentes catégories professionnelles susmentionnées.
+Un arrêté du préfet de la région du siège de la section régionale, pris sur proposition du    directeur interrégional de la mer territorialement compétent, fixe la répartition des sièges du bureau entre les différentes catégories professionnelles susmentionnées.

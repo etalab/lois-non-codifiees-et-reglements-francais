@@ -4,4 +4,6 @@ I. ― Le présent décret fixe les missions et les conditions de nomination et 
 
 Ces emplois sont répartis en cinq groupes : le groupe I, le groupe II, le groupe III, le groupe IV et le groupe V.
 
-II. ― L'annexe du présent décret peut être modifiée par décret.
+II.-Les directeurs interrégionaux de la mer et les directeurs interrégionaux adjoints de la mer mentionnés au I de l'article 5 du décret n° 2010-130 du 11 février 2010 relatif à l'organisation et aux missions des directions interrégionales de la mer sont respectivement assimilés aux directeurs régionaux et aux directeurs régionaux adjoints au sens du présent décret.
+
+III. ― L'annexe du présent décret peut être modifiée par décret.

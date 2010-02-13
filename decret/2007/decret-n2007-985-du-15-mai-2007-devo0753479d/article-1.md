@@ -20,9 +20,9 @@ Agence Adour-Garonne
 
 8° Le directeur régional de la concurrence, de la consommation et de la répression des fraudes de Midi-Pyrénées.
 
-9° Le     directeur régional de l'environnement, de l'aménagement et du logement  de Midi-Pyrénées.
+9° Le directeur régional de l'environnement, de l'aménagement et du logement de Midi-Pyrénées.
 
-10° Le directeur régional des affaires maritimes de Gironde.
+10° Le    directeur interrégional de la mer de Gironde.
 
 11° Le directeur général de Voies navigables de France.
 
@@ -42,9 +42,9 @@ Agence Artois-Picardie
 
 7° Le directeur régional de la concurrence, de la consommation et de la répression des fraudes du Nord-Pas-de-Calais.
 
-8° Le     directeur régional de l'environnement, de l'aménagement et du logement  du Nord-Pas-de-Calais.
+8° Le directeur régional de l'environnement, de l'aménagement et du logement du Nord-Pas-de-Calais.
 
-9° Le directeur régional des affaires maritimes du Nord-Pas-de-Calais-Picardie.
+9° Le    directeur interrégional de la mer du Nord-Pas-de-Calais-Picardie.
 
 10° Le directeur général de Voies navigables de France.
 
@@ -68,9 +68,9 @@ Agence Loire-Bretagne
 
 8° Le directeur régional de la concurrence, de la consommation et de la répression des fraudes du Centre.
 
-9° Le     directeur régional de l'environnement, de l'aménagement et du logement  du Centre.
+9° Le directeur régional de l'environnement, de l'aménagement et du logement du Centre.
 
-10° Le directeur régional des affaires maritimes de Bretagne.
+10° Le    directeur interrégional de la mer de Bretagne.
 
 11° Le directeur général de Voies navigables de France.
 
@@ -92,7 +92,7 @@ Agence Rhin-Meuse
 
 8° Le directeur régional de la concurrence, de la consommation et de la répression des fraudes de Lorraine.
 
-9° Le     directeur régional de l'environnement, de l'aménagement et du logement  de Lorraine.
+9° Le directeur régional de l'environnement, de l'aménagement et du logement de Lorraine.
 
 10° Le sous-directeur de l'environnement, direction des affaires économiques et financières, auprès du ministre chargé des affaires étrangères.
 
@@ -116,9 +116,9 @@ Agence Rhône-Méditerranée et Corse
 
 8° Le directeur régional de la concurrence, de la consommation et de la répression des fraudes de Rhône-Alpes.
 
-9° Le     directeur régional de l'environnement, de l'aménagement et du logement  de Rhône-Alpes.
+9° Le directeur régional de l'environnement, de l'aménagement et du logement de Rhône-Alpes.
 
-10° Le directeur régional des affaires maritimes de Provence-Alpes-Côte d'Azur.
+10° Le    directeur interrégional de la mer de Provence-Alpes-Côte d'Azur.
 
 11° Le directeur général de Voies navigables de France.
 
@@ -142,6 +142,6 @@ Agence Seine-Normandie
 
 9° Le directeur régional et départemental de l'équipement d'Ile-de-France.
 
-10° Le directeur régional des affaires maritimes de Haute-Normandie.
+10° Le    directeur interrégional de la mer de Haute-Normandie.
 
 11° Le directeur général de Voies navigables de France.

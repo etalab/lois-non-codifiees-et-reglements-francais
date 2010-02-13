@@ -4,7 +4,7 @@ Pour l'application des dispositions des articles 1er et 3 du décret du 21 déce
 
 I.-En services déconcentrés :
 
--directeur régional adjoint des affaires maritimes ;
+-directeur interrégional adjoint de la mer ;
 
 -directeur départemental ou interdépartemental des affaires maritimes ;
 
@@ -14,7 +14,7 @@ I.-En services déconcentrés :
 
 -chef des centres de sécurité des navires de Marseille, du Havre, de Saint-Nazaire, de Dunkerque et de Lorient ;
 
--chef des services des moyens des services déconcentrés à la direction régionale des affaires maritimes de Haute-Normandie, de Bretagne, des Pays de la Loire, d'Aquitaine et de Provence-Alpes-Côte d'Azur ;
+-chef des services des moyens des services déconcentrés à la direction interrégionale de la mer de Haute-Normandie, de Bretagne, des Pays de la Loire, d'Aquitaine et de Provence-Alpes-Côte d'Azur ;
 
 -directeur d'établissement secondaire d'enseignement maritime.
 

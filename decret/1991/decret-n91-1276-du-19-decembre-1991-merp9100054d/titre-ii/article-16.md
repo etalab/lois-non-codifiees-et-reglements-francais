@@ -10,6 +10,6 @@ c) A la réalisation de certains travaux d'intérêt collectif destinés à amé
 
 Peuvent également être rendues obligatoires les délibérations prises à la majorité des membres du bureau, relatives à la fixation des cotisations professionnelles prévues à l'article 17 de la loi du 2 mai 1991 susvisée, prélevées en fonction de leur objet sur tout ou partie des membres des sections régionales.
 
-Ces délibérations sont rendues obligatoires par arrêté du préfet de la région dans laquelle la section régionale a son siège, après avis du directeur régional des affaires maritimes et du directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi. Elles ne peuvent avoir une durée de validité supérieure à cinq ans pour les délibérations mentionnées aux a, b et c ci-dessus, et de un an pour celles mentionnées à l'alinéa précédent.
+Ces délibérations sont rendues obligatoires par arrêté du préfet de la région dans laquelle la section régionale a son siège, après avis du directeur interrégional de la mer et du directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi. Elles ne peuvent avoir une durée de validité supérieure à cinq ans pour les délibérations mentionnées aux a, b et c ci-dessus, et de un an pour celles mentionnées à l'alinéa précédent.
 
 Les délibérations mentionnées au présent article ne peuvent être contraires aux délibérations du conseil du comité national.

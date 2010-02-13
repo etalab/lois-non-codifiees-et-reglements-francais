@@ -8,13 +8,13 @@ a) Fonctions d'encadrement :
 
 Chef du service des affaires économiques dans :
 
-- les directions régionales des affaires maritimes ;
+-les    directions interrégionales  de la mer ;
 
-- les directions des services régionaux des affaires maritimes ;
+-les directions des services régionaux des affaires maritimes ;
 
-- les directions départementales des affaires maritimes ;
+-les directions départementales des affaires maritimes ;
 
-- les quartiers des affaires maritimes n'étant pas le siège d'une direction départementale.
+-les quartiers des affaires maritimes n'étant pas le siège d'une direction départementale.
 
 Officier de port adjoint n'ayant pas la classe fonctionnelle et remplissant certaines fonctions de commandant ou d'adjoint au commandant de port ;
 
@@ -32,7 +32,7 @@ b) Fonctions impliquant une technicité particulière :
 
 Chef de centre régional de traitement des statistiques ;
 
-Chef de section "Etablissements de pêches maritimes" ;
+Chef de section " Etablissements de pêches maritimes " ;
 
 Agent affecté sur un patrouilleur des affaires maritimes ;
 

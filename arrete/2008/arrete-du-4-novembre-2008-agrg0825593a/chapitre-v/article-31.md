@@ -6,4 +6,4 @@ a) Aucune des espèces sensibles à la maladie en question n'est présente dans 
 
 b) L'agent pathogène est connu comme ne pouvant pas survivre dans la zone ou le compartiment ni, le cas échéant, dans ses sources d'eau, ou
 
-c) La zone ou le compartiment est placé sous la surveillance de la direction régionale des affaires maritimes ou de la direction départementale des services vétérinaires, selon leur domaine de compétence, et remplit les conditions établies aux articles 32 à 34.
+c) La zone ou le compartiment est placé sous la surveillance de la    direction interrégionale de la mer ou de la direction départementale des services vétérinaires, selon leur domaine de compétence, et remplit les conditions établies aux articles 32 à 34.

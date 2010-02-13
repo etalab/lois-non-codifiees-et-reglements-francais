@@ -8,7 +8,7 @@ b) Ne pas provenir d'une ferme aquacole ou d'une zone d'élevage de mollusques a
 
 Le présent paragraphe s'applique également aux maladies non répertoriées en tant que maladies exotiques ou endémiques et aux espèces qui y sont sensibles.
 
-2. Toutefois, par dérogation au paragraphe 1, point b, le directeur départemental des services vétérinaires ou le directeur régional des affaires maritimes, selon leur domaine de compétence, peut autoriser la mise sur le marché des animaux d'aquaculture sur la base d'une analyse des risques, pour autant que les animaux proviennent d'un secteur de ladite ferme aquacole ou zone d'élevage de mollusques indépendant du segment épidémiologique où a eu lieu la hausse inexpliquée de la mortalité.
+2. Toutefois, par dérogation au paragraphe 1, point b, le directeur départemental des services vétérinaires ou le    directeur interrégional de la mer, selon leur domaine de compétence, peut autoriser la mise sur le marché des animaux d'aquaculture sur la base d'une analyse des risques, pour autant que les animaux proviennent d'un secteur de ladite ferme aquacole ou zone d'élevage de mollusques indépendant du segment épidémiologique où a eu lieu la hausse inexpliquée de la mortalité.
 
 3. Les animaux d'aquaculture destinés à être détruits ou mis à mort dans le cadre des mesures de lutte contre les maladies prévues au chapitre III sont exclus de toute mise sur le marché à des fins d'élevage ou de repeuplement.
 

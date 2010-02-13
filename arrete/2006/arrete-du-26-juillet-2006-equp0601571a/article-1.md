@@ -28,7 +28,7 @@ Le directeur des transports maritimes, routiers et fluviaux.
 
 La directrice de la recherche et de l'animation scientifique et technique, du secrétariat général.
 
-Un directeur départemental ou directeur départemental délégué ou adjoint au directeur départemental de l'équipement .
+Un directeur départemental ou directeur départemental délégué ou adjoint au directeur départemental de l'équipement.
 
 Le directeur du CETE de Lyon.
 
@@ -54,7 +54,7 @@ La sous-directrice du développement professionnel de la direction générale du
 
 La chargée du développement professionnel de la direction générale du personnel et de l'administration.
 
-Un directeur régional des affaires maritimes.
+Un    directeur interrégional de la mer.
 
 La chef du service de la navigation de la Seine.
 

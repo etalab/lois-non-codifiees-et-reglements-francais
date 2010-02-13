@@ -8,10 +8,10 @@ Vu l'arrêté du 2 mai 1980 relatif à la formation professionnelle maritime ;
 
 Vu le procès-verbal d'évaluation du stage,
 
-délivre à M. ..., né(e) à ..., département ..., le certificat de stage, n° ... d'enregistrement 19...
+délivre à M...., né (e) à..., département..., le certificat de stage, n°... d'enregistrement 19...
 
-Fait à ..., le ...
+Fait à..., le...
 
 Pour le ministre de l'équipement, des transports et du logement et par autorisation :
 
-Le directeur régional des affaires maritimes.
+Le    directeur interrégional de la mer.

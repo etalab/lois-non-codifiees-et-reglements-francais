@@ -1,6 +1,6 @@
 # Article 10
 
-La pêche s'exerce conformément aux réglementations en vigueur. Sa gestion a pour objectif de protéger les juvéniles de poissons. La pêche est réglementée dans le cadre des orientations du plan de gestion par l'autorité compétente après avis du comité consultatif, des organisations professionnelles et des directeurs régionaux des affaires maritimes géographiquement compétents.
+La pêche s'exerce conformément aux réglementations en vigueur. Sa gestion a pour objectif de protéger les juvéniles de poissons. La pêche est réglementée dans le cadre des orientations du plan de gestion par l'autorité compétente après avis du comité consultatif, des organisations professionnelles et des    directeurs interrégionaux de la mer géographiquement compétents.
 
 La pêche des poissons migrateurs respectera les règles définies dans le bassin Seine-Normandie.
 

@@ -12,6 +12,6 @@ Commission consultative d'attribution.
 
 5. La commission se réunit sur convocation du directeur des pêches maritimes et de l'aquaculture au moins une fois par trimestre si des demandes sont à instruire et au minimum une fois par an.
 
-6. Pour être examinée par la CCA, les demandes de permis doivent être déposées selon les modalités définies pour chaque permis au moins vingt jours ouvrables avant la réunion de la commission auprès de la direction départementale des affaires maritimes de rattachement du navire qui est chargée de les transmettre à la direction des pêches maritimes et de l'aquaculture, sous couvert de la direction régionale des affaires maritimes.
+6. Pour être examinée par la CCA, les demandes de permis doivent être déposées selon les modalités définies pour chaque permis au moins vingt jours ouvrables avant la réunion de la commission auprès de la direction départementale des affaires maritimes de rattachement du navire qui est chargée de les transmettre à la direction des pêches maritimes et de l'aquaculture, sous couvert de la    direction interrégionale de la mer.
 
 7. La CCA examine les demandes conformément aux décrets n° 90-94 et n° 90-95 du 25 janvier 1990 susvisés, en tenant compte des antériorités des producteurs, des orientations du marché et des équilibres socio-économiques.

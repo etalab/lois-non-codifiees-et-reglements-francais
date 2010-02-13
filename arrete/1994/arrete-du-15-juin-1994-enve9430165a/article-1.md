@@ -4,9 +4,9 @@ La composition des comités de gestion des poissons migrateurs est fixée ainsi 
 
 1° Comité de gestion des poissons migrateurs du bassin Artois-Picardie :
 
-le directeur régional de l'environnement du Nord - Pas-de-Calais, délégué de bassin, ou son représentant ;
+le directeur régional de l'environnement du Nord-Pas-de-Calais, délégué de bassin, ou son représentant ;
 
-le directeur du service régional des affaires maritimes Nord - Pas-de-Calais et Picardie ou son représentant ;
+le directeur du service régional des affaires maritimes Nord-Pas-de-Calais et Picardie ou son représentant ;
 
 le directeur interdépartemental des affaires maritimes du Pas-de-Calais et de la Somme ou son représentant ;
 
@@ -38,7 +38,7 @@ deux représentants de la ou des associations départementales ou interdépartem
 
 le directeur régional de l'environnement d'Ile-de-France, délégué de bassin, ou son représentant ;
 
-le directeur interrégional des affaires maritimes Nord - Pas-de-Calais, Picardie, Haute et Basse-Normandie ou son représentant ;
+le directeur interrégional des affaires maritimes Nord-Pas-de-Calais, Picardie, Haute et Basse-Normandie ou son représentant ;
 
 le directeur régional de l'environnement de Basse-Normandie ou son représentant ;
 
@@ -58,7 +58,7 @@ deux représentants des marins-pêcheurs professionnels exerçant leur activité
 
 le directeur régional de l'environnement de Bretagne ou son représentant ;
 
-le directeur régional des affaires maritimes de Bretagne ou son représentant ;
+le directeur interrégional de la mer de Bretagne ou son représentant ;
 
 le directeur départemental de l'agriculture et de la forêt du Finistère ou son représentant ;
 
@@ -80,11 +80,9 @@ le directeur régional de l'environnement d'Auvergne ou son représentant ;
 
 le directeur régional de l'environnement du Limousin ou son représentant ;
 
-le directeur interrégional des affaires maritimes
+le directeur interrégional des affaires maritimes Poitou-Charentes-Aquitaine ou son représentant ;
 
-Poitou-Charentes-Aquitaine ou son représentant ;
-
-le directeur régional des affaires maritimes des Pays de la Loire ou son représentant ;
+le directeur interrégional de la mer des Pays de la Loire ou son représentant ;
 
 le directeur départemental des affaires maritimes de Nantes ou son représentant ;
 
@@ -126,9 +124,9 @@ quatre représentants de la ou des associations départementales ou interdépart
 
 quatre représentants des marins-pêcheurs professionnels exerçant leur activité dans la zone comprise entre la limite de salure des eaux et la limite transversale de la mer.
 
-7° Comité de gestion des poissons migrateurs du bassin de
+7° Comité de gestion des poissons migrateurs du bassin del
 
-l'Adour :
+'Adour :
 
 le directeur régional de l'environnement de Midi-Pyrénées, délégué de bassin, ou son représentant ;
 

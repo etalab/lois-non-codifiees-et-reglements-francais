@@ -6,7 +6,7 @@ Cette commission est composée :
 
 a) Du préfet du département du siège du comité, dans le cas d'un comité local, ou du préfet de région du siège du comité, dans le cas d'un comité régional, ou de leur représentant, président ;
 
-b) Du directeur départemental des affaires maritimes du siège du comité, dans le cas d'un comité local, ou du directeur régional des affaires maritimes du siège du comité, dans le cas d'un comité régional, ou de leur représentant ;
+b) Du directeur départemental des affaires maritimes du siège du comité, dans le cas d'un comité local, ou du    directeur interrégional de la mer du siège du comité, dans le cas d'un comité régional, ou de leur représentant ;
 
 c) D'un membre du comité dont l'élection du conseil est l'objet de cette consultation électorale, désigné sur proposition du président en exercice du comité ou, à défaut, directement par le préfet.
 

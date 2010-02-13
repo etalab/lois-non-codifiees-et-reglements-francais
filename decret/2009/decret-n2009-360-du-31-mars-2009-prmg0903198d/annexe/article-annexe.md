@@ -9,3 +9,5 @@
 -Décret n° 2009-1540 du 10 décembre 2009 relatif à l'organisation et aux missions des directions régionales de la jeunesse, des sports et de la cohésion sociale.
 
 -Décret n° 2009-235 du 27 février 2009 relatif à l'organisation et aux missions des directions régionales de l'environnement, de l'aménagement et du logement.
+
+-Décret n° 2010-130 du 11 février 2010 relatif à l'organisation et aux missions des directions interrégionales de la mer.

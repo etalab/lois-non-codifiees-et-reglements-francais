@@ -4,4 +4,4 @@ Le préfet prend par arrêté les mesures de police applicables aux travaux de p
 
 Le préfet peut procéder à la concertation prévue à l'article 13 pour l'examen du bilan des mesures prescrites à l'exploitant et avant d'édicter les prescriptions complémentaires prévues à l'article 23.
 
-En cas de péril imminent, le préfet et le              directeur régional de l'environnement, de l'aménagement et du logement, ou leur délégué, donnent directement des instructions à l'exploitant ; ils peuvent ordonner la suspension des travaux à titre conservatoire et requérir en tant que de besoin l'intervention du préfet maritime, du directeur régional des affaires maritimes ou des autorités locales.
+En cas de péril imminent, le préfet et le directeur régional de l'environnement, de l'aménagement et du logement, ou leur délégué, donnent directement des instructions à l'exploitant ; ils peuvent ordonner la suspension des travaux à titre conservatoire et requérir en tant que de besoin l'intervention du préfet maritime, du    directeur interrégional de la mer ou des autorités locales.

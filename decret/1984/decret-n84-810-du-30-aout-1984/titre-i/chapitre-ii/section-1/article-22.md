@@ -6,4 +6,4 @@ Avant d'émettre un avis, les commissions régionales de sécurité peuvent fair
 
 Elles peuvent également entendre toute personne ou tout représentant de groupement dont l'audition leur paraît utile. L'armateur de tout navire présenté peut demander à être entendu par elles.
 
-Les avis des commissions régionales de sécurité sont adressés au directeur régional des affaires maritimes pour décision. Les décisions sont notifiées aux intéressés et leur exécution est contrôlée par les commissions de visite et les personnels ou organismes habilités par l'article 3 de la loi du 5 juillet 1983 susvisée.
+Les avis des commissions régionales de sécurité sont adressés au directeur interrégional de la mer pour décision. Les décisions sont notifiées aux intéressés et leur exécution est contrôlée par les commissions de visite et les personnels ou organismes habilités par l'article 3 de la loi du 5 juillet 1983 susvisée.

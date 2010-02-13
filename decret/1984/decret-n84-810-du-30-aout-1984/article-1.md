@@ -2,7 +2,7 @@
 
 Pour l'application du présent décret :
 
-I. - Les types fondamentaux de navires sont définis comme suit :
+I.-Les types fondamentaux de navires sont définis comme suit :
 
 1. Navire à passagers : tout navire qui transporte plus de douze passagers. Sont exclus de cette définition les navires à voile qui ne transportent pas plus de trente personnes.
 
@@ -10,19 +10,19 @@ I. - Les types fondamentaux de navires sont définis comme suit :
 
 3. Navires de plaisance :
 
-3.1. Navire à usage personnel : tout navire utilisé à titre privé par son propriétaire, un locataire qui en a l'entière disposition ou un emprunteur à titre gratuit, pour une navigation touristique ou sportive ;
+3. 1. Navire à usage personnel : tout navire utilisé à titre privé par son propriétaire, un locataire qui en a l'entière disposition ou un emprunteur à titre gratuit, pour une navigation touristique ou sportive ;
 
-3.2. Navire de formation : tout navire utilisé dans le cadre des activités :
+3. 2. Navire de formation : tout navire utilisé dans le cadre des activités :
 
-- d'un centre nautique ou subaquatique soumis aux dispositions de la loi n° 84-610 du 16 juillet 1984 relative à l'organisation et à la promotion des activités physiques et sportives ;
+-d'un centre nautique ou subaquatique soumis aux dispositions de la loi n° 84-610 du 16 juillet 1984 relative à l'organisation et à la promotion des activités physiques et sportives ;
 
-- d'une école ou d'un centre de formation visant à l'obtention des titres permettant la conduite des navires de plaisance ;
+-d'une école ou d'un centre de formation visant à l'obtention des titres permettant la conduite des navires de plaisance ;
 
-3.3. Navire à utilisation collective : tout navire n'entrant pas dans la définition du navire à passagers sur lequel sont embarquées à titre onéreux, sous la responsabilité du propriétaire, de son représentant ou de son préposé, lui-même embarqué, des personnes effectuant une navigation touristique ou sportive.
+3. 3. Navire à utilisation collective : tout navire n'entrant pas dans la définition du navire à passagers sur lequel sont embarquées à titre onéreux, sous la responsabilité du propriétaire, de son représentant ou de son préposé, lui-même embarqué, des personnes effectuant une navigation touristique ou sportive.
 
 4. Navire de charge : tout navire autre qu'un navire à passagers, un navire de pêche ou un navire de plaisance.
 
-II. - Les expressions ci-dessous désignent :
+II.-Les expressions ci-dessous désignent :
 
 1. Centres de sécurité des navires : les services des affaires maritimes spécialisés en matière de sécurité des navires, d'habitabilité et de sécurité du travail maritime et de prévention de la pollution par les navires.
 
@@ -30,15 +30,15 @@ II. - Les expressions ci-dessous désignent :
 
 3. Inspecteur de la sécurité des navires et de la prévention des risques professionnels maritimes : les personnels des catégories suivantes affectés à des tâches de contrôle de la sécurité des navires, de l'habitabilité et de la sécurité du travail maritime et de la prévention de la pollution à bord :
 
-- administrateurs des affaires maritimes ;
+-administrateurs des affaires maritimes ;
 
-- inspecteurs des affaires maritimes ;
+-inspecteurs des affaires maritimes ;
 
-- officiers du corps technique et administratif des affaires maritimes ;
+-officiers du corps technique et administratif des affaires maritimes ;
 
-- techniciens experts du service de la sécurité de la navigation maritime et
+-techniciens experts du service de la sécurité de la navigation maritime et
 
-- en dessous de limites arrêtées par le ministre chargé de la marine marchande, les contrôleurs des affaires maritimes, les syndics des gens de mer et les personnels embarqués d'assistance et de surveillance des affaires maritimes, placés à cet effet sous l'autorité du chef du centre de sécurité des navires par le directeur régional des affaires maritimes.
+-en dessous de limites arrêtées par le ministre chargé de la marine marchande, les contrôleurs des affaires maritimes, les syndics des gens de mer et les personnels embarqués d'assistance et de surveillance des affaires maritimes, placés à cet effet sous l'autorité du chef du centre de sécurité des navires par le    directeur interrégional de la mer.
 
 4. Passager : toute personne autre que :
 
@@ -64,7 +64,7 @@ N'entrent pas en compte, dans le nombre de passagers, les personnes qui se trouv
 
 11. Navire à voile : tout navire dont la voilure constitue, selon des dispositions arrêtées par le ministre chargé de la marine marchande, le mode principal de propulsion.
 
-12. Engin de plage : tout engin flottant dont la longueur est inférieure à 2,50 mètres. Le présent décret ne s'applique pas aux engins de plage non motorisés, à l'exception du II de son article 17. Les engins de plage restent soumis aux dispositions relatives à la prévention des abordages en mer.
+12. Engin de plage : tout engin flottant dont la longueur est inférieure à 2, 50 mètres. Le présent décret ne s'applique pas aux engins de plage non motorisés, à l'exception du II de son article 17. Les engins de plage restent soumis aux dispositions relatives à la prévention des abordages en mer.
 
 13. Voyage international : tout voyage effectué par un navire français qui touche un port étranger.
 
@@ -78,7 +78,7 @@ N'entrent pas en compte, dans le nombre de passagers, les personnes qui se trouv
 
 18. Jauge brute : la jauge déduite du volume de l'ensemble des espaces du navire limités par la coque, les cloisons et les ponts, conformément à la convention internationale de 1969 sur le jaugeage des navires ; elle s'exprime par un chiffre sans unité.
 
-L'expression "tonneaux de jauge brute", quand elle est utilisée dans les arrêtés pris en application du présent décret ainsi que dans les conventions, recueils de règles et autres documents de l'Organisation maritime internationale relatifs à la sécurité des navires et à la prévention de la pollution, est considérée comme signifiant également "jauge brute de ..." calculée conformément aux dispositions de ladite convention.
+L'expression " tonneaux de jauge brute ", quand elle est utilisée dans les arrêtés pris en application du présent décret ainsi que dans les conventions, recueils de règles et autres documents de l'Organisation maritime internationale relatifs à la sécurité des navires et à la prévention de la pollution, est considérée comme signifiant également " jauge brute de... " calculée conformément aux dispositions de ladite convention.
 
 Pour tout navire jaugé différemment en application de règles nationales, la jauge brute exprimée sans unité dans le décret et les arrêtés pris pour son application est considérée comme représentative des volumes exprimés en tonneaux sur le certificat national de jauge.
 
