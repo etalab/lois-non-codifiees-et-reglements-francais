@@ -1,29 +1,27 @@
 # Article 6
 
-La commission de recours amiable est présidée par le contrôleur général des armées, président de la commission des rentes visée à l'article 4, ou, en son absence, par un contrôleur général ou contrôleur membre de l'inspection du travail dans les armées.
+La commission de recours amiable est présidée par le contrôleur général des armées, président de la commission des rentes visée à l'article 4, ou, en son absence, par un contrôleur général ou un contrôleur membre du groupe des inspections spécialisées du contrôle général des armées.
 
 Elle comprend :
 
-- le médecin-conseil auprès du bureau des pensions des ouvriers et des accidents du travail et un représentant de chacun des états-majors et directions suivants :
+- un représentant de l'état-major des armées ;
 
-- direction des centres d'expertise et d'essais ;
+- deux représentants de l'armée de terre ;
 
-- direction des constructions navales ;
+- un représentant de l'armée de l'air ;
 
-- service de la maintenance aéronautique ;
+- un représentant de la marine ;
 
-- direction centrale du matériel de l'armée de terre ;
+- deux représentants de la direction générale de l'armement.
 
-- direction centrale du commissariat de la marine ;
+Ces représentants sont des officiers supérieurs, des fonctionnaires de catégorie A ou des agents contractuels de niveau correspondant ;
 
-- état-major de l'armée de l'air.
+- huit représentants du personnel et huit suppléants désignés dans les conditions prévues à l'article 4 ;
 
-Ces représentants sont des officiers supérieurs, des fonctionnaires de catégorie A ou des agents contractuels de niveau correspondant.
+- un médecin-conseil auprès de la direction des ressources humaines du ministère de la défense, sous-direction des pensions, bureau des invalidités, accidents du travail et maladies professionnelles, expert technique sans voix délibérative ;
 
-- huit représentants du personnel et huit suppléants désignés dans les conditions prévues à l'article 4 ci-dessus ;
-
-- un fonctionnaire de catégorie A du bureau des pensions des ouvriers et des accidents du travail remplit les fonctions de rapporteur et de secrétaire. Il n'a pas voix délibérative.
+- un fonctionnaire de catégorie A de la direction des ressources humaines du ministère de la défense, sous-direction des pensions, bureau des invalidités, accidents du travail et maladies professionnelles, rapporteur sans voix délibérative, qui assure le secrétariat de la commission.
 
 La durée du mandat des représentants est fixée à deux ans. Ce mandat peut être renouvelé par tacite reconduction.
 
-Il est cumulable avec celui de membre de commission des rentes.
+Il est cumulable avec celui de membre de la commission des rentes.
