@@ -1,0 +1,5 @@
+# Article 12
+
+Chaque fournisseur qui alimente des clients mentionnés à l'article 3 adresse au ministre chargé de l'énergie, au plus tard le 1er mai de chaque année, une déclaration établissant qu'il est en mesure d'assurer l'approvisionnement de ses clients dans les conditions prévues à l'article 4 du décret n° 2004-251 du 19 mars 2004 susvisé. Cette déclaration comprend, par zone d'équilibrage et par profil de consommation, des éléments permettant d'apprécier la consommation de ses clients, ses droits d'accès à des capacités de stockage et leur emploi, sa politique d'approvisionnement et les autres instruments de modulation dont il dispose, conformément aux dispositions d'un arrêté du ministre chargé de l'énergie.
+
+Au vu de cette déclaration, le ministre chargé de l'énergie peut, dans les trois mois suivant la réception de la déclaration, imposer au fournisseur de constituer des stocks dans la limite du volume utile de stockage correspondant à son droit d'accès à des capacités de stockage. Ces stocks doivent être constitués avant le 31 octobre de l'année au cours de laquelle la déclaration a été déposée.

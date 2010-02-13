@@ -269,6 +269,7 @@
 - [Décret n°2005-1617 du 21 décembre 2005 (MENS0502560D)](decret-n2005-1617-du-21-decembre-2005-mens0502560d)
 - [Décret n°2006-1024 du 21 août 2006 (MCPC0611682D)](decret-n2006-1024-du-21-aout-2006-mcpc0611682d)
 - [Décret n°2006-1030 du 21 août 2006 (MENF0601865D)](decret-n2006-1030-du-21-aout-2006-menf0601865d)
+- [Décret n°2006-1034 du 21 août 2006 (INDI0608021D)](decret-n2006-1034-du-21-aout-2006-indi0608021d)
 - [Décret n°2006-1410 du 21 novembre 2006 (INTR0600213D)](decret-n2006-1410-du-21-novembre-2006-intr0600213d)
 - [Décret n°2006-1421 du 21 novembre 2006 (BUDF0620439D)](decret-n2006-1421-du-21-novembre-2006-budf0620439d)
 - [Décret n°2006-1423 du 21 novembre 2006 (JUSJ0690009D)](decret-n2006-1423-du-21-novembre-2006-jusj0690009d)
