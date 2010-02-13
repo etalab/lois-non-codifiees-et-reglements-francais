@@ -1247,6 +1247,7 @@
 - [Arrêté du 31 décembre 2007 (DEVT0767569A)](arrete-du-31-decembre-2007-devt0767569a)
 - [Arrêté du 31 décembre 2007 (DEVT0767571A)](arrete-du-31-decembre-2007-devt0767571a)
 - [Arrêté du 31 décembre 2007 (MCCC0774115A)](arrete-du-31-decembre-2007-mccc0774115a)
+- [Arrêté du 31 décembre 2007 (SJSG0771750A)](arrete-du-31-decembre-2007-sjsg0771750a)
 - [Arrêté du 31 janvier 2008 (DEVP0773558A)](arrete-du-31-janvier-2008-devp0773558a)
 - [Arrêté du 31 janvier 2008 (SJSP0769715A)](arrete-du-31-janvier-2008-sjsp0769715a)
 - [Arrêté du 31 juillet 2003 (SOCF0311192A)](arrete-du-31-juillet-2003-socf0311192a)
