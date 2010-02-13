@@ -123,6 +123,7 @@
 - [Décret n°2005-1758 du 29 décembre 2005 (SANA0523997D)](decret-n2005-1758-du-29-decembre-2005-sana0523997d)
 - [Décret n°2005-1786 du 29 décembre 2005 (MCCB0500872D)](decret-n2005-1786-du-29-decembre-2005-mccb0500872d)
 - [Décret n°2005-1788 du 29 décembre 2005 (DOMB0500036D)](decret-n2005-1788-du-29-decembre-2005-domb0500036d)
+- [Décret n°2005-716 du 29 juin 2005 (INTC0500174D)](decret-n2005-716-du-29-juin-2005-intc0500174d)
 - [Décret n° 2005-1727 du 30 décembre 2005 (INTB0500352D)](decret-n-2005-1727-du-30-decembre-2005-intb0500352d)
 - [Décret n°2004-1539 du 30 décembre 2004 (SANH0424352D)](decret-n2004-1539-du-30-decembre-2004-sanh0424352d)
 - [Décret n°2004-1548 du 30 décembre 2004 (FPPA0410022D)](decret-n2004-1548-du-30-decembre-2004-fppa0410022d)
