@@ -911,7 +911,6 @@
 - [Arrêté du 24 octobre 2007 (DEFH0764499A)](arrete-du-24-octobre-2007-defh0764499a)
 - [Arrêté du 24 octobre 2007 (ECEI0753536A)](arrete-du-24-octobre-2007-ecei0753536a)
 - [Arrêté du 24 septembre 2007 (SJSH0766368A)](arrete-du-24-septembre-2007-sjsh0766368a)
-- [Arrêté du 25 avril 2007 (AGRE0751516A)](arrete-du-25-avril-2007-agre0751516a)
 - [Arrêté du 25 avril 2007 (AGRP0751560A)](arrete-du-25-avril-2007-agrp0751560a)
 - [Arrêté du 25 avril 2007 (EQUT0753621A)](arrete-du-25-avril-2007-equt0753621a)
 - [Arrêté du 25 avril 2007 (SOCF0750425A)](arrete-du-25-avril-2007-socf0750425a)

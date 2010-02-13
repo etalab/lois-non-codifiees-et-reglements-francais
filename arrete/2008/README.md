@@ -213,7 +213,6 @@
 - [Arrêté du 8 décembre 2008 (DEFD0830216A)](arrete-du-8-decembre-2008-defd0830216a)
 - [Arrêté du 8 décembre 2008 (DEFD0830229A)](arrete-du-8-decembre-2008-defd0830229a)
 - [Arrêté du 8 décembre 2008 (DEVA0828775A)](arrete-du-8-decembre-2008-deva0828775a)
-- [Arrêté du 8 décembre 2008 (DEVT0828789A)](arrete-du-8-decembre-2008-devt0828789a)
 - [Arrêté du 8 décembre 2008 (DEVT0828790A)](arrete-du-8-decembre-2008-devt0828790a)
 - [Arrêté du 8 décembre 2008 (ECED0827963A)](arrete-du-8-decembre-2008-eced0827963a)
 - [Arrêté du 8 décembre 2008 (IMIK0828299A)](arrete-du-8-decembre-2008-imik0828299a)

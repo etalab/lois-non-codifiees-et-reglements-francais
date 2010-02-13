@@ -266,7 +266,6 @@
 - [Décret n°89-693 du 21 septembre 1989 (TOUR8904534D)](decret-n89-693-du-21-septembre-1989-tour8904534d)
 - [Décret n°89-699 du 21 septembre 1989 (INTB8900229D)](decret-n89-699-du-21-septembre-1989-intb8900229d)
 - [Décret n°89-852 du 21 novembre 1989 (EQUP8900845D)](decret-n89-852-du-21-novembre-1989-equp8900845d)
-- [Décret n°89-917 du 21 décembre 1989 (MERG8900032D)](decret-n89-917-du-21-decembre-1989-merg8900032d)
 - [Décret n°89-918 du 21 décembre 1989 (SPSA8902384D)](decret-n89-918-du-21-decembre-1989-spsa8902384d)
 - [Décret n°89-919 du 21 décembre 1989 (SPSS8901774D)](decret-n89-919-du-21-decembre-1989-spss8901774d)
 - [Décret n°89-920 du 21 décembre 1989 (SPSH8902302D)](decret-n89-920-du-21-decembre-1989-spsh8902302d)

@@ -565,7 +565,6 @@
 - [Arrêté du 8 juillet 2009 (MENE0916028A)](arrete-du-8-juillet-2009-mene0916028a)
 - [Arrêté du 8 juillet 2009 (SASP0916455A)](arrete-du-8-juillet-2009-sasp0916455a)
 - [Arrêté du 8 juin 2009 (AGRT0911409A)](arrete-du-8-juin-2009-agrt0911409a)
-- [Arrêté du 8 juin 2009 (AGRU0912456A)](arrete-du-8-juin-2009-agru0912456a)
 - [Arrêté du 8 juin 2009 (BCFD0900790A)](arrete-du-8-juin-2009-bcfd0900790a)
 - [Arrêté du 8 juin 2009 (BCFD0907027A)](arrete-du-8-juin-2009-bcfd0907027a)
 - [Arrêté du 8 juin 2009 (BCFL0914078A)](arrete-du-8-juin-2009-bcfl0914078a)
