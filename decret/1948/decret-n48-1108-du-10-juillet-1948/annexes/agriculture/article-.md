@@ -45,13 +45,13 @@
 <p>2e classe </p>
 </td>
 <td valign="top" width="113">
-<p align="center">852-HEB </p>
+<p align="center">852-HEB</p>
 </td>
 <td valign="top" width="151"/>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Conseil général de l'agriculture, de l'alimentation et des espaces ruraux </p>
+<p>Conseil général de l'alimentation, de l'agriculture et des espaces ruraux </p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -911,7 +911,7 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>B- Institut français du cheval et de l'équitation </p>
+<p>B-Institut français du cheval et de l'équitation </p>
 </td>
 <td valign="top" width="113">
 <br/>

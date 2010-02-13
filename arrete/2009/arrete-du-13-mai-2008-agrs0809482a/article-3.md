@@ -1,12 +1,12 @@
 # Article 3
 
-Les insignes de grades des         ingénieurs des ponts, des eaux et des forêts  visés à l'article 1er sont, pour les ingénieurs et ingénieurs en chef, des galons tissés trait côtelé « argent », portés sur des pattes d'épaule ou sur des fourreaux de teinte vert forestier et, pour les ingénieurs généraux, des étoiles « argent », portées au bas des manches de la vareuse, ainsi que des attentes brodées cannetille « argent », sur les épaules :
+Les insignes de grades des ingénieurs des ponts, des eaux et des forêts visés à l'article 1er sont, pour les ingénieurs et ingénieurs en chef, des galons tissés trait côtelé « argent », portés sur des pattes d'épaule ou sur des fourreaux de teinte vert forestier et, pour les ingénieurs généraux, des étoiles « argent », portées au bas des manches de la vareuse, ainsi que des attentes brodées cannetille « argent », sur les épaules :
 
 Ingénieur général :
 
-― vice-président du Conseil général de l'agriculture, de l'alimentation et des espaces ruraux ou directeur général de l'Office national des forêts : cinq étoiles ;
+― vice-président du              Conseil général de l'alimentation, de l'agriculture et des espaces ruraux ou directeur général de l'Office national des forêts : cinq étoiles ;
 
-― président de section du Conseil général de l'agriculture, de l'alimentation et des espaces ruraux et chef de l'inspection générale de l'Office national des forêts : quatre étoiles ;
+― président de section du              Conseil général de l'alimentation, de l'agriculture et des espaces ruraux et chef de l'inspection générale de l'Office national des forêts : quatre étoiles ;
 
 ― ingénieur général de classe exceptionnelle : trois étoiles ;
 

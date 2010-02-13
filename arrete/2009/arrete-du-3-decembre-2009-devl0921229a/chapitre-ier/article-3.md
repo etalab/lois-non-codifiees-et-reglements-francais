@@ -6,7 +6,7 @@ Le président et les membres de jury sont désignés pour chaque session de conc
 
 Le jury comprend au moins :
 
-― quatre membres du corps des ingénieurs des ponts, des eaux et des forêts dont au moins un membre du Conseil général de l'environnement et du développement durable et un membre du Conseil général de l'agriculture, de l'alimentation et des espaces ruraux ;
+― quatre membres du corps des ingénieurs des ponts, des eaux et des forêts dont au moins un membre du Conseil général de l'environnement et du développement durable et un membre du              Conseil général de l'alimentation, de l'agriculture et des espaces ruraux ;
 
 ― le directeur de l'Ecole nationale des ponts et chaussées ou son représentant pour les concours prévus aux chapitres II et III du présent arrêté ;
 

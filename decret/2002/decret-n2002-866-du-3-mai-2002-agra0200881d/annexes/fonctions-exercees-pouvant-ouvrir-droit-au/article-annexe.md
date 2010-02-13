@@ -6,7 +6,7 @@ Secrétaire général.
 
 Directeur général et directeur.
 
-Vice-président du Conseil général de l'agriculture, de l'alimentation et des espaces ruraux.
+Vice-président du              Conseil général de l'alimentation, de l'agriculture et des espaces ruraux.
 
 Haut fonctionnaire rattaché à un directeur général ou à un directeur d'administration centrale.
 

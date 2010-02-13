@@ -14,7 +14,7 @@ Ce conseil comprend :
 
 5° Un représentant des directeurs des établissements d'enseignement supérieur agricole, désigné par le directeur général de l'enseignement et de la recherche du ministère chargé de l'agriculture ;
 
-6° Un membre du Conseil général de l'agriculture, de l'alimentation et des espaces ruraux, désigné par le vice-président de ce conseil ;
+6° Un membre du              Conseil général de l'alimentation, de l'agriculture et des espaces ruraux, désigné par le vice-président de ce conseil ;
 
 7° Un représentant de chaque station du Laboratoire national de la protection des végétaux, élu parmi le personnel de la station ;
 

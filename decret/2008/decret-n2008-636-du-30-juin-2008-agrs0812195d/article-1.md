@@ -1,6 +1,6 @@
 # Article 1
 
-L'administration centrale du ministère chargé de l'agriculture, de l'alimentation et de la pêche comprend, outre le Conseil général de l'agriculture, de l'alimentation et des espaces ruraux, le haut fonctionnaire de défense et de sécurité et le bureau du cabinet qui sont directement rattachés au ministre :
+L'administration centrale du ministère chargé de l'agriculture, de l'alimentation et de la pêche comprend, outre le Conseil général de l'alimentation, de l'agriculture et des espaces ruraux, le haut fonctionnaire de défense et de sécurité et le bureau du cabinet qui sont directement rattachés au ministre :
 
 a) Le secrétariat général ;
 

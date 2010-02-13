@@ -16,7 +16,7 @@ Les montants moyens annuels de l'indemnité spéciale de sujétions attribuée �
 </tr>
 <tr>
 <td>
-<p>Inspecteurs généraux de la santé publique vétérinaire, inspecteurs généraux de la santé publique vétérinaire nommés dans l'emploi de vice-président, de vice-président délégué, de président de mission permanente, de président de section, de président de commission, de secrétaire général du Conseil général de l'agriculture, de l'alimentation et des espaces ruraux </p>
+<p>Inspecteurs généraux de la santé publique vétérinaire, inspecteurs généraux de la santé publique vétérinaire nommés dans l'emploi de vice-président, de vice-président délégué, de président de mission permanente, de président de section, de président de commission, de secrétaire général du              Conseil général de l'alimentation, de l'agriculture et des espaces ruraux </p>
 </td>
 <td>
 <p align="center">12. 767 </p>

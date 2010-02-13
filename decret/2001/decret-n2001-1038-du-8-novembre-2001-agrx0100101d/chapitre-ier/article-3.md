@@ -1,6 +1,6 @@
 # Article 3
 
-Le chef du corps de l'inspection générale de l'agriculture est nommé par arrêté du ministre chargé de l'agriculture parmi les inspecteurs généraux de l'agriculture de 1re classe qui sont membres du bureau du Conseil général de l'agriculture, de l'alimentation et des espaces ruraux.
+Le chef du corps de l'inspection générale de l'agriculture est nommé par arrêté du ministre chargé de l'agriculture parmi les inspecteurs généraux de l'agriculture de 1re classe qui sont membres du bureau du              Conseil général de l'alimentation, de l'agriculture et des espaces ruraux.
 
 Il représente le corps des inspecteurs généraux de l'agriculture. Il préside l'assemblée générale composée de l'ensemble des membres du corps et organise dans ce cadre toutes réflexions relatives aux attributions et à l'évolution du corps.
 

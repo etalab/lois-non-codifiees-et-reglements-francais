@@ -28,7 +28,7 @@ Dès lors qu'ils exercent leurs fonctions en administration centrale, les foncti
 <p>Inspecteur général de la santé publique vétérinaire de classe exceptionnelle ou de classe normale. Professeur de l'enseignement supérieur agricole de classe exceptionnelle ou 1re classe. </p>
 </td>
 <td align="left" colspan="2" valign="middle">
-<p align="left">Sous-directeur.</p>
+<p align="left">Sous-directeur. </p>
 </td>
 </tr>
 <tr>
@@ -196,4 +196,4 @@ Dès lors qu'ils exercent leurs fonctions en administration centrale, les foncti
 </tbody>
 </table>
 
-Les dispositions du présent article ne sont pas applicables aux agents de la filière technique affectés au Conseil général de l'agriculture, de l'alimentation et des espaces ruraux.
+Les dispositions du présent article ne sont pas applicables aux agents de la filière technique affectés au              Conseil général de l'alimentation, de l'agriculture et des espaces ruraux.

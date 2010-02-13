@@ -1,6 +1,6 @@
 # Article Annexe
 
-I. - Emplois en administration centrale
+I.-Emplois en administration centrale
 
 1° Secrétaire général, directeur général et directeur
 
@@ -99,7 +99,7 @@ I. - Emplois en administration centrale
 </tbody>
 </table>
 
-2° Vice-président du Conseil général de l'agriculture, de l'alimentation et des espaces ruraux
+2° Vice-président du              Conseil général de l'alimentation, de l'agriculture et des espaces ruraux
 
 <table>
 <tbody>

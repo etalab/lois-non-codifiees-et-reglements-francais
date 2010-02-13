@@ -36,9 +36,9 @@ I.-Membres de droit :
 
 16. Le chef du bureau des chambres d'agriculture et de leur assemblée permanente à la sous-direction du financement de l'agriculture de la direction des affaires financières et de la logistique ;
 
-17. Le vice-président du Conseil général de l'agriculture, de l'alimentation et des espaces ruraux ;
+17. Le vice-président du              Conseil général de l'alimentation, de l'agriculture et des espaces ruraux ;
 
-18. Le directeur général des L'Institut français du cheval et de l'équitation  ;
+18. Le directeur général des L'Institut français du cheval et de l'équitation ;
 
 19. Le directeur de l'Office de l'élevage ;
 

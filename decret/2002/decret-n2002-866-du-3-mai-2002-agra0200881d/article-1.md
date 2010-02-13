@@ -8,6 +8,6 @@ a) Aux titulaires d'emplois supérieurs à la décision du Gouvernement, aux tit
 
 b) Aux personnels responsables d'un département ou d'une mission directement rattaché au secrétaire général, à un directeur général ou à un directeur, exerçant une des fonctions en administration centrale figurant en annexe du présent décret ;
 
-c) Aux membres du Conseil général de l'agriculture, de l'alimentation et des espaces ruraux exerçant l'une des fonctions mentionnées en annexe au présent décret.
+c) Aux membres du              Conseil général de l'alimentation, de l'agriculture et des espaces ruraux exerçant l'une des fonctions mentionnées en annexe au présent décret.
 
 II.-Aux titulaires d'emplois de direction dans les services déconcentrés exerçant une des fonctions figurant en annexe au présent décret.
