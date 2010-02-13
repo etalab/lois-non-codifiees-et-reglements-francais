@@ -1,0 +1,3 @@
+# Article 1
+
+La proposition de réalisation d'un frottis cervico-utérin à l'occasion du premier examen prénatal s'adresse à toutes les femmes et spécialement aux femmes qui ne bénéficient pas d'un suivi gynécologique régulier en dehors de la grossesse. Elle est systématiquement précédée d'une information délivrée par le médecin ou la sage-femme. Cette information porte notamment sur l'utilité, les bénéfices escomptés, les conditions de réalisation, la fréquence des frottis, les modalités de remise des résultats et les éventuelles conséquences de cet examen. La femme est également informée de son droit d'accepter ou de refuser cet examen.
