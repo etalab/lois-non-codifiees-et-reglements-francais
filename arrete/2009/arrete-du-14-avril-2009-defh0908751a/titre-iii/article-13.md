@@ -8,6 +8,6 @@ L'option est exprimée suivant l'une des formes indiquées à l'annexe II du pr�
 
 II. - En cas d'absence d'un candidat à la clôture des épreuves, la déclaration d'option jointe, sous pli cacheté, au dossier d'inscription est considérée comme définitive et irrévocable.
 
-III. - Le président du jury communique aux directions centrales intéressées un procès-verbal indiquant les notes individuelles, la liste de classement et l'option des candidats.
+III. - Le président du jury communique à la direction centrale du service du commissariat des armées un procès-verbal indiquant les notes individuelles, la liste de classement et l'option des candidats.
 
 IV. - Les candidats ayant obtenu le même total de points sont départagés par le nombre de points obtenus aux seules épreuves d'admission, puis, si nécessaire, par le nombre de points obtenus à l'épreuve orale d'entretien avec le jury.

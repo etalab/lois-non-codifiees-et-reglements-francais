@@ -1,8 +1,8 @@
 # Article 14
 
-I. ― La direction centrale du commissariat de l'armée de terre, la direction centrale du commissariat de la marine et la direction centrale du service de l'administration générale et des finances de l'armée de l'air élaborent, chacune en ce qui la concerne, et conformément aux décisions du jury, une liste d'admission et une liste complémentaire d'admission, comportant pour chaque candidat l'indication de l'option choisie.
+I. ― La direction centrale du service du commissariat des armées élabore, conformément aux décisions du jury, une liste d'admission et une liste complémentaire d'admission par corps, comportant pour chaque candidat l'indication de l'option choisie.
 
-Le ministre de la défense (directeur central du commissariat de l'armée de terre, directeur central du commissariat de la marine, directeur central du service de l'administration générale et des finances de l'armée de l'air, chacun en ce qui le concerne) arrête ces listes et fixe la date commune au-delà de laquelle il ne pourra plus être fait appel aux candidats des listes complémentaires d'admission.
+Le ministre de la défense (directeur central du service du commissariat des armées) arrête ces listes et fixe la date au-delà de laquelle il ne pourra plus être fait appel aux candidats des listes complémentaires d'admission.
 
 II. - La liste d'admission de chaque corps comporte, dans l'ordre de classement donné par le jury et à concurrence du nombre de places à pourvoir :
 

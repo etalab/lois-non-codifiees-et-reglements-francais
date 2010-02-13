@@ -1,8 +1,6 @@
 # Article 6
 
-I. ― Le service chargé de l'organisation du concours est celui qui est chargé de l'administration et de la gestion du corps d'appartenance du président du jury, tel que défini aux articles 9-1, 11-1 et 14-1 du décret du 14 juillet 1991 précité.
-
-Le directeur central de ce commissariat ou du service de l'administration générale et des finances de l'armée de l'air :
+I. ―Le directeur central du service du commissariat des armées :
 
 ― prépare et signe la circulaire annuelle prévue par l'article 1er ;
 
