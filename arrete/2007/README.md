@@ -682,7 +682,6 @@
 - [Arrêté du 20 décembre 2006 (ECOC0600167A)](arrete-du-20-decembre-2006-ecoc0600167a)
 - [Arrêté du 20 décembre 2006 (ECOT0610542A)](arrete-du-20-decembre-2006-ecot0610542a)
 - [Arrêté du 20 décembre 2007 (AGRG0772537A)](arrete-du-20-decembre-2007-agrg0772537a)
-- [Arrêté du 20 décembre 2007 (AGRM0773671A)](arrete-du-20-decembre-2007-agrm0773671a)
 - [Arrêté du 20 décembre 2007 (BCFD0770855A)](arrete-du-20-decembre-2007-bcfd0770855a)
 - [Arrêté du 20 décembre 2007 (DEVA0773569A)](arrete-du-20-decembre-2007-deva0773569a)
 - [Arrêté du 20 décembre 2007 (MLVU0764137A)](arrete-du-20-decembre-2007-mlvu0764137a)
