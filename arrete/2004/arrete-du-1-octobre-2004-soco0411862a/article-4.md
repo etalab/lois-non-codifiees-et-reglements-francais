@@ -2,13 +2,13 @@
 
 Le jury de l'examen professionnel est composé comme suit :
 
-- un directeur régional du travail, de l'emploi et de la formation professionnelle ou son représentant, président ;
+-un directeur régional du travail, de l'emploi et de la formation professionnelle ou son représentant, président ;
 
-- au moins deux directeurs régionaux ou directeurs départementaux du travail, de l'emploi et de la formation professionnelle ou leurs représentants ;
+-au moins deux directeurs régionaux ou             directeurs régionaux des entreprises, de la concurrence, de la consommation, du travail et de l'emploi et à leurs directeurs ou leurs représentants ;
 
-- au moins un représentant du ministre chargé de l'agriculture ;
+-au moins un représentant du ministre chargé de l'agriculture ;
 
-- au moins un représentant du ministre chargé des transports.
+-au moins un représentant du ministre chargé des transports.
 
 En cas d'empêchement ou d'absence du président, le jury est présidé par celui des membres présents qui a acquis le plus d'ancienneté dans le grade le plus élevé.
 

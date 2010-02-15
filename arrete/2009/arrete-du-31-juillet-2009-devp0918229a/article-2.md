@@ -12,9 +12,9 @@
 
 ― un membre du Conseil général de l'industrie, de l'énergie et des technologies ;
 
-― un directeur régional de l'industrie, de la recherche et de l'environnement ou un directeur régional de l'environnement, de l'aménagement et du logement ;
+― un directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi ou un directeur régional de l'environnement, de l'aménagement et du logement ;
 
-― au plus cinq représentants du ministère chargé de la sécurité industrielle, choisis parmi le personnel de la direction générale de la prévention des risques, des directions régionales de l'industrie, de la recherche et de l'environnement et des directions régionales de l'environnement, de l'aménagement et du logement ;
+― au plus cinq représentants du ministère chargé de la sécurité industrielle, choisis parmi le personnel de la direction générale de la prévention des risques, des directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l'emploi et des directions régionales de l'environnement, de l'aménagement et du logement ;
 
 ― un représentant du ministère chargé de la défense ;
 

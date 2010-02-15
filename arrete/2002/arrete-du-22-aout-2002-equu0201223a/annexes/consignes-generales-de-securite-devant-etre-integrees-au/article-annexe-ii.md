@@ -12,7 +12,7 @@ Les consignes générales de sécurité données ci-après correspondent à des 
 
 1. Informations générales
 
-Respirer des fibres d'amiante est dangereux pour la santé. L'inhalation de ces fibres est une cause de pathologies graves (dont les cancers du poumon et de la plèvre).
+Respirer des fibres d'amiante est dangereux pour la santé.L'inhalation de ces fibres est une cause de pathologies graves (dont les cancers du poumon et de la plèvre).
 
 Les matériaux contenant de l'amiante peuvent libérer des fibres d'amiante en cas d'usure anormale ou lors d'interventions mettant en cause l'intégrité du matériau (par exemple perçage, ponçage, découpe, friction...). Ces situations peuvent alors conduire à des expositions importantes si des mesures de protection renforcées ne sont pas prises.
 
@@ -20,11 +20,11 @@ Il est recommandé aux particuliers d'éviter toute intervention directe sur des
 
 2. Information des professionnels
 
-Professionnels : attention, les consignes générales de sécurité mentionnées ci-après sont avant tout destinées aux particuliers. Les mesures renforcées vous concernant sont fixées par la réglementation relative à la protection des travailleurs contre les risques liés à l'inhalation de poussières d'amiante. Des documents d'information et des conseils pratiques de prévention adaptés peuvent vous être fournis par les directions régionales du travail, de l'emploi et de la formation professionnelle (DRTEFP), les services de prévention des caisses régionales d'assurance maladie (CRAM) et l'organisme professionnel de prévention du bâtiment et des travaux publics (OPPBTP).
+Professionnels : attention, les consignes générales de sécurité mentionnées ci-après sont avant tout destinées aux particuliers. Les mesures renforcées vous concernant sont fixées par la réglementation relative à la protection des travailleurs contre les risques liés à l'inhalation de poussières d'amiante. Des documents d'information et des conseils pratiques de prévention adaptés peuvent vous être fournis par les             directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l'emploi (DRTEFP), les services de prévention des caisses régionales d'assurance maladie (CRAM) et l'organisme professionnel de prévention du bâtiment et des travaux publics (OPPBTP).
 
 3. Consignes générales de sécurité
 
-A. - Consignes générales de sécurité
+A.-Consignes générales de sécurité
 
 visant à réduire l'exposition aux poussières d'amiante
 
@@ -32,19 +32,19 @@ Lors d'interventions sur (ou à proximité) des matériaux contenant de l'amiant
 
 L'émission de poussières doit être limitée, par exemple en cas de :
 
-- manipulation et manutention de matériaux non friables contenant de l'amiante (comme le remplacement de joints ou encore la manutention d'éléments en amiante-ciment) ;
+-manipulation et manutention de matériaux non friables contenant de l'amiante (comme le remplacement de joints ou encore la manutention d'éléments en amiante-ciment) ;
 
-- travaux réalisés à proximité d'un matériau friable en bon état (flocage ou calorifugeage), comme par exemple le déplacement de quelques éléments de faux plafonds sans amiante sous une dalle floquée, d'interventions légères dans des boîtiers électriques, sur des gaines ou des circuits situés sous un flocage sans action directe sur celui-ci, de remplacement d'une vanne sur une canalisation calorifugée à l'amiante ;
+-travaux réalisés à proximité d'un matériau friable en bon état (flocage ou calorifugeage), comme par exemple le déplacement de quelques éléments de faux plafonds sans amiante sous une dalle floquée, d'interventions légères dans des boîtiers électriques, sur des gaines ou des circuits situés sous un flocage sans action directe sur celui-ci, de remplacement d'une vanne sur une canalisation calorifugée à l'amiante ;
 
-- travaux directs sur un matériau compact (amiante-ciment, enduits, joints, dalles...), comme le perçage ou encore la découpe d'éléments en amiante-ciment ;
+-travaux directs sur un matériau compact (amiante-ciment, enduits, joints, dalles...), comme le perçage ou encore la découpe d'éléments en amiante-ciment ;
 
-- déplacement local d'éléments d'un faux plafond rigide contenant du carton d'amiante avec des parements.
+-déplacement local d'éléments d'un faux plafond rigide contenant du carton d'amiante avec des parements.
 
 L'émission de poussières peut être limitée :
 
-- par humidification locale des matériaux contenant de l'amiante (en tenant compte du risque électrique), afin d'abaisser le taux d'émission de poussière ;
+-par humidification locale des matériaux contenant de l'amiante (en tenant compte du risque électrique), afin d'abaisser le taux d'émission de poussière ;
 
-- en utilisant de préférence des outils manuels ou des outils à vitesse lente.
+-en utilisant de préférence des outils manuels ou des outils à vitesse lente.
 
 Le port d'équipements de protection est recommandé
 
@@ -54,7 +54,7 @@ Le port d'une combinaison jetable permet d'éviter la propagation de fibres d'am
 
 De plus, il convient de disposer d'un sac à déchets à proximité immédiate de la zone de travail et d'une éponge ou d'un chiffon humide de nettoyage.
 
-B. - Consignes générales de sécurité relatives à la gestion des déchets contenant de l'amiante
+B.-Consignes générales de sécurité relatives à la gestion des déchets contenant de l'amiante
 
 Stockage des déchets sur le site
 

@@ -2,7 +2,7 @@
 
 1° Sont destinataires des données à caractère personnel enregistrées relatives aux procédures de demande d'autorisation de travail ou ont accès à ces données, à raison de leurs attributions ou de leur qualité respectives :
 
-― les agents des services de main-d'œuvre étrangère des directions départementales du travail, de l'emploi et de la formation professionnelle ayant en charge la gestion des demandes d'autorisation de travail ;
+― les agents des services de main-d'œuvre étrangère des             directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l'emploi  ayant en charge la gestion des demandes d'autorisation de travail ;
 
 ― les agents des préfectures ayant en charge la gestion des demandes d'autorisation de travail et des titres de séjour y afférents ;
 
@@ -20,9 +20,9 @@
 
 ― les agents de l'inspection du travail ;
 
-― les agents des services de main-d'œuvre étrangère des directions départementales du travail, de l'emploi et de la formation professionnelle ayant en charge la gestion des demandes d'autorisation de travail ;
+― les agents des services de main-d'œuvre étrangère des             directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l'emploi  ayant en charge la gestion des demandes d'autorisation de travail ;
 
-― les agents de la direction générale du travail au ministère chargé du travail qui sont affectés au bureau de liaison prévu par la directive 96/71/CE du 16 décembre 1996 concernant le détachement de travailleurs effectué dans le cadre d'une prestation de services ou les agents individuellement habilités ;
+― les agents de la direction générale du travail au ministère chargé du travail qui sont affectés au bureau de liaison prévu par la directive 96 / 71 / CE du 16 décembre 1996 concernant le détachement de travailleurs effectué dans le cadre d'une prestation de services ou les agents individuellement habilités ;
 
 ― les agents de la direction de l'immigration du ministère chargé de l'immigration qui sont affectés au traitement des recours hiérarchiques en matière d'autorisation de travail ;
 

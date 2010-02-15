@@ -1,6 +1,6 @@
 # Article 1
 
-La liste des directions régionales du commerce extérieur de 1re classe et de 2e classe est fixée comme suit :
+La liste des    directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l'emploi de 1re classe et de 2e classe est fixée comme suit :
 
 Directions régionales de 1re classe :
 
@@ -10,13 +10,13 @@ Ile-de-France ;
 
 Lorraine ;
 
-Nord - Pas-de-Calais ;
+Nord-Pas-de-Calais ;
 
 Haute-Normandie ;
 
 Picardie ;
 
-Provence - Alpes - Côte d'Azur ;
+Provence-Alpes-Côte d'Azur ;
 
 Rhône-Alpes.
 

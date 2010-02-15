@@ -2,22 +2,22 @@
 
 Les catégories d'informations accessibles en consultation par le système de liaison informatisée sont les suivantes :
 
-- identité ;
+-identité ;
 
-- numéro d'inscription au Répertoire national d'identification des personnes physiques ;
+-numéro d'inscription au Répertoire national d'identification des personnes physiques ;
 
-- situation familiale ;
+-situation familiale ;
 
-- formation, diplômes ;
+-formation, diplômes ;
 
-- vie professionnelle ;
+-vie professionnelle ;
 
-- situation économique et financière ;
+-situation économique et financière ;
 
-- déplacement des personnes (moyens de transport) ;
+-déplacement des personnes (moyens de transport) ;
 
-- santé (aptitude médicale à l'emploi) ;
+-santé (aptitude médicale à l'emploi) ;
 
-- informations en rapport avec la justice (application de l'article L. 351-9 [3°] du code du travail).
+-informations en rapport avec la justice (application de l'article L. 351-9 [3°] du code du travail).
 
-Les directions départementales du travail, de l'emploi et de la formation professionnelle pourront porter dans le système informatisé les actions de vérification qu'elles auront entreprises ainsi que les résultats de leurs contrôles.
+Les             directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l'emploi  pourront porter dans le système informatisé les actions de vérification qu'elles auront entreprises ainsi que les résultats de leurs contrôles.

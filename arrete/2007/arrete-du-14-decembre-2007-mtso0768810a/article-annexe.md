@@ -23,26 +23,26 @@
 <p align="left">Secrétaire de la commission technique d'orientation et de reclassement professionnel (COTOREP) : </p>
 </td>
 <td align="center">
-<br/>B <br/>
+<br/>B<br/>
 </td>
 <td align="center"/>
 <td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<p align="left">- dans 30 départements au titre de la politique de la ville (1)</p>
+<p align="left">-dans 30 départements au titre de la politique de la ville (1) </p>
 </td>
 <td align="center"/>
 <td align="center">
 <br/>19 <br/>
 </td>
 <td align="center">
-<br/>30 <br/>
+<br/>30<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">- dans les autres départements</p>
+<p align="left">-dans les autres départements </p>
 </td>
 <td align="center"/>
 <td align="center">
@@ -58,26 +58,26 @@
 </p>
 </td>
 <td align="center">
-<br/>B <br/>
+<br/>B<br/>
 </td>
 <td align="center"/>
 <td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<p align="left">- dans 30 départements au titre de la politique de la ville (1) </p>
+<p align="left">-dans 30 départements au titre de la politique de la ville (1) </p>
 </td>
 <td align="center"/>
 <td align="center">
 <br/>36 <br/>
 </td>
 <td align="center">
-<br/>24 <br/>
+<br/>24<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">- dans les autres départements</p>
+<p align="left">-dans les autres départements </p>
 </td>
 <td align="center"/>
 <td align="center">
@@ -89,7 +89,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Responsable du secrétariat particulier des directeurs régionaux du travail, de l'emploi et de la formation professionnelle et des directeurs départementaux de 21 directions départementales du travail, de l'emploi et de la formation professionnelle</p>
+<p align="left">Responsable du secrétariat particulier des directeurs régionaux du travail, de l'emploi et de la formation professionnelle et des directeurs départementaux de 21             directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l'emploi  </p>
 </td>
 <td align="center">
 <br/>B <br/>
@@ -103,29 +103,29 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Secrétaire adjoint de la commission technique d'orientation et de reclassement professionnel (COTOREP) :</p>
+<p align="left">Secrétaire adjoint de la commission technique d'orientation et de reclassement professionnel (COTOREP) : </p>
 </td>
 <td align="center">
-<br/>B <br/>
+<br/>B<br/>
 </td>
 <td align="center"/>
 <td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<p align="left">- dans 30 départements au titre de la politique de la ville (1)</p>
+<p align="left">-dans 30 départements au titre de la politique de la ville (1) </p>
 </td>
 <td align="center"/>
 <td align="center">
 <br/>1 <br/>
 </td>
 <td align="center">
-<br/>20 <br/>
+<br/>20<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">- dans les autres départements</p>
+<p align="left">-dans les autres départements </p>
 </td>
 <td align="center"/>
 <td align="center">
@@ -137,29 +137,29 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Contrôle de la recherche d'emploi :</p>
+<p align="left">Contrôle de la recherche d'emploi : </p>
 </td>
 <td align="center">
-<br/>B <br/>
+<br/>B<br/>
 </td>
 <td align="center"/>
 <td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<p align="left">- dans 30 départements au titre de la politique de la ville (1)</p>
+<p align="left">-dans 30 départements au titre de la politique de la ville (1) </p>
 </td>
 <td align="center"/>
 <td align="center">
 <br/>113 <br/>
 </td>
 <td align="center">
-<br/>28 <br/>
+<br/>28<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">- dans les autres départements</p>
+<p align="left">-dans les autres départements </p>
 </td>
 <td align="center"/>
 <td align="center">
@@ -171,7 +171,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Responsable de section administrative et financière dans les directions régionales et départementales du travail, de l'emploi et de la formation professionnelle</p>
+<p align="left">Responsable de section administrative et financière dans les directions régionales et départementales du travail, de l'emploi et de la formation professionnelle </p>
 </td>
 <td align="center">
 <br/>B <br/>
@@ -185,7 +185,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Responsable de la gestion du personnel dans les directions régionales du travail, de l'emploi et de la formation professionnelle</p>
+<p align="left">Responsable de la gestion du personnel dans les directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l'emploi </p>
 </td>
 <td align="center">
 <br/>B <br/>
@@ -199,7 +199,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Correspondant formation, action sociale ou communication dans les directions régionales du travail, de l'emploi et de la formation professionnelle</p>
+<p align="left">Correspondant formation, action sociale ou communication dans les directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l'emploi </p>
 </td>
 <td align="center">
 <br/>B <br/>
@@ -213,7 +213,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Contrôle sur place, au sein des groupes régionaux de contrôle, d'organismes dont le produit comptable annuel est égal ou supérieur à 153 000 euros ou d'entreprises concourant au développement de la formation continue et dont l'effectif moyen annuel est égal ou supérieur à 500 salariés</p>
+<p align="left">Contrôle sur place, au sein des groupes régionaux de contrôle, d'organismes dont le produit comptable annuel est égal ou supérieur à 153 000 euros ou d'entreprises concourant au développement de la formation continue et dont l'effectif moyen annuel est égal ou supérieur à 500 salariés </p>
 </td>
 <td align="center">
 <br/>B <br/>
@@ -227,7 +227,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Assistant de service social du personnel</p>
+<p align="left">Assistant de service social du personnel </p>
 </td>
 <td align="center">
 <br/>B <br/>
