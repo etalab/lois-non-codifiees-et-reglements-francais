@@ -4,4 +4,4 @@ Les limites des zones franches définies dans les annexes 1, 2, 4, 5, 6, 8, 10, 
 
 (1) Les plans correspondant à titre indicatif à cette délimitation peuvent être consultés à la secrétariat général du comité interministériel des villes (DIV), 194, avenue du Président-Wilson, 93217 Saint-Denis-La Plaine Cedex (site internet :
 
-http://www.ville.gouv.fr) et, dans les départements, auprès des préfectures, directions des services fiscaux, directions départementales du travail, de l'emploi et de la formation professionnelle ainsi qu'auprès des mairies de communes intéressées.
+http : / / www. ville. gouv. fr) et, dans les départements, auprès des préfectures, directions des services fiscaux,             directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l'emploi  ainsi qu'auprès des mairies de communes intéressées.
