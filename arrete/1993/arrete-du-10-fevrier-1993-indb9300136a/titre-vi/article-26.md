@@ -4,4 +4,4 @@ Les dispositions des articles 16, 19, 21 et 22 s'appliquent, mutatis mutandis, a
 
 La surveillance de ces organismes agréés ou de ces détenteurs comporte également des audits annuels. En cas de dysfonctionnement constaté, des audits complémentaires peuvent être effectués.
 
-L'audit comprend un audit du système qualité, effectué sous l'autorité de la direction régionale de l'industrie, de la recherche et de l'environnement. Il peut également comprendre, notamment lors de l'audit initial, un audit technique qui peut être effectué, aux frais du demandeur de l'agrément ou de la dispense, par un organisme désigné par le ministre chargé de l'industrie.
+L'audit comprend un audit du système qualité, effectué sous l'autorité de la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi. Il peut également comprendre, notamment lors de l'audit initial, un audit technique qui peut être effectué, aux frais du demandeur de l'agrément ou de la dispense, par un organisme désigné par le ministre chargé de l'industrie.
