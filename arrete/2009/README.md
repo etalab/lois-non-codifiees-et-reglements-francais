@@ -2089,7 +2089,6 @@
 - [Arrêté du 22 septembre 2009 (DEVA0916285A)](arrete-du-22-septembre-2009-deva0916285a)
 - [Arrêté du 22 septembre 2009 (DEVL0922054A)](arrete-du-22-septembre-2009-devl0922054a)
 - [Arrêté du 22 septembre 2009 (ECED0919866A)](arrete-du-22-septembre-2009-eced0919866a)
-- [Arrêté du 22 septembre 2009 (ECET0920735A)](arrete-du-22-septembre-2009-ecet0920735a)
 - [Arrêté du 22 septembre 2009 (JUSF0922136A)](arrete-du-22-septembre-2009-jusf0922136a)
 - [Arrêté du 22 septembre 2009 (JUSF0922137A)](arrete-du-22-septembre-2009-jusf0922137a)
 - [Arrêté du 22 septembre 2009 (JUSF0922138A)](arrete-du-22-septembre-2009-jusf0922138a)
