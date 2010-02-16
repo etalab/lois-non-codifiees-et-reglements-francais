@@ -350,6 +350,15 @@ Niveaux relatifs aux composés traces
 <p align="center">0,05</p>
 </td>
 </tr>
+<tr>
+<td>TBT</td>
+<td>
+<p align="center">0,1</p>
+</td>
+<td>
+<p align="center">0,4</p>
+</td>
+</tr>
 </tbody>
 </table>
 
