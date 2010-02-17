@@ -1139,7 +1139,6 @@
 - [Arrêté du 29 décembre 1994 (EQUM9501721A)](arrete-du-29-decembre-1994-equm9501721a)
 - [Arrêté du 29 décembre 1994 (EQUT9500060A)](arrete-du-29-decembre-1994-equt9500060a)
 - [Arrêté du 29 décembre 1994 (SANH9500004A)](arrete-du-29-decembre-1994-sanh9500004a)
-- [Arrêté du 29 décembre 1994 (SPSP9500017A)](arrete-du-29-decembre-1994-spsp9500017a)
 - [Arrêté du 29 décembre 1995 (BUDF9500022A)](arrete-du-29-decembre-1995-budf9500022a)
 - [Arrêté du 29 décembre 1995 (EQUM9501999A)](arrete-du-29-decembre-1995-equm9501999a)
 - [Arrêté du 29 juillet 1998 (AGRA9800870A)](arrete-du-29-juillet-1998-agra9800870a)
