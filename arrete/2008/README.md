@@ -119,7 +119,6 @@
 - [Arrêté du 5 août 2008 (ECEA0815816A)](arrete-du-5-aout-2008-ecea0815816a)
 - [Arrêté du 5 août 2008 (MAEA0819362A)](arrete-du-5-aout-2008-maea0819362a)
 - [Arrêté du 5 août 2008 (SJSS0818350A)](arrete-du-5-aout-2008-sjss0818350a)
-- [Arrêté du 5 décembre 2008 (AGRG0828936A)](arrete-du-5-decembre-2008-agrg0828936a)
 - [Arrêté du 5 décembre 2008 (DEFF0829139A)](arrete-du-5-decembre-2008-deff0829139a)
 - [Arrêté du 5 décembre 2008 (DEVU0809421A)](arrete-du-5-decembre-2008-devu0809421a)
 - [Arrêté du 5 décembre 2008 (IMIN0826822A)](arrete-du-5-decembre-2008-imin0826822a)
