@@ -148,7 +148,6 @@
 - [Décret n°2010-95 du 25 janvier 2010 (MTSA0931468D)](decret-n2010-95-du-25-janvier-2010-mtsa0931468d)
 - [Décret n°2010-96 du 25 janvier 2010 (ECEC0929792D)](decret-n2010-96-du-25-janvier-2010-ecec0929792d)
 - [Décret n°90-957 du 25 octobre 1990 (RESY9000226D)](decret-n90-957-du-25-octobre-1990-resy9000226d)
-- [Décret n°95-972 du 25 août 1995 (MCCB9500347D)](decret-n95-972-du-25-aout-1995-mccb9500347d)
 - [Décret n°2003-1298 du 26 décembre 2003 (MCCB0300909D)](decret-n2003-1298-du-26-decembre-2003-mccb0300909d)
 - [Décret n°2010-98 du 26 janvier 2010 (PRMJ0920029D)](decret-n2010-98-du-26-janvier-2010-prmj0920029d)
 - [Décret n°2010-100 du 27 janvier 2010 (MENE0929872D)](decret-n2010-100-du-27-janvier-2010-mene0929872d)
