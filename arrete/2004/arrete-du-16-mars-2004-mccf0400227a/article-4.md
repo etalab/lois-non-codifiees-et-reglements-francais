@@ -2,7 +2,7 @@
 
 La commission se réunit au moins trois fois par an sur convocation de son président.
 
-En cas de vacance ou d'empêchement du président, la commission désigne pour président de séance l'un des autres directeurs de musée national mentionnés au premier alinéa de l'article 2.
+En cas de vacance ou d'empêchement du président, la commission désigne pour président de séance l'un des trois autres directeurs mentionnés au premier alinéa de l'article 2.
 
 La commission ne peut valablement délibérer que si la moitié au moins des membres sont présents ou représentés. Si le quorum n'est pas atteint, la commission est à nouveau convoquée avec le même ordre du jour dans un délai de quinze jours. Elle délibère alors sans condition de quorum.
 
