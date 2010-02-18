@@ -11,3 +11,5 @@ Le préfet peut désigner le délégué interservices en qualité d'ordonnateur 
 Toutefois, dans le cas contraire, cette désignation est subordonnée à l'accord exprès ou tacite dans un délai de deux mois à compter de la date de transmission par le préfet de la proposition de désignation aux ministres intéressés, et à sa publication.
 
 Le délégué interservices peut être un membre du corps préfectoral, un chef de service déconcentré ou un directeur de préfecture.
+
+Des organismes assurant une mission de service public peuvent être associés à la délégation interservices dans les conditions fixées à l'article 27.

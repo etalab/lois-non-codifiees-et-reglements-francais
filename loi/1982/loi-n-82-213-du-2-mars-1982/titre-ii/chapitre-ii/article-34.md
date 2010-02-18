@@ -4,7 +4,7 @@ I.-Le préfet de département, représentant de l'Etat dans le département, est
 
 Il a la charge des intérêts nationaux, du respect des lois, de l'ordre public et, dans les conditions fixées par la loi, assure le contrôle administratif du département, des communes et de leurs établissements publics qui ont leur siège dans le département.
 
-Sous réserve des dispositions de l'article 21-1 de la loi n° 72-619 du 5 juillet 1972 portant création et organisation des régions, il met en oeuvre les politiques de l'Etat dans le département. Il dirige les services de l'Etat dans le département sous réserve des exceptions limitativement énumérées par un décret en Conseil d'Etat.
+Il dirige les services de l'Etat dans le département sous réserve des exceptions limitativement énumérées par un décret en Conseil d'Etat.
 
 II.-Sous réserve des exceptions prévues par décret, le préfet de département est seul habilité à engager l'Etat envers les communes, le département ou leurs groupements.
 

@@ -101,7 +101,6 @@
 - [Décret n°2004-393 du 4 mai 2004 (ECOF0400023D)](decret-n2004-393-du-4-mai-2004-ecof0400023d)
 - [Décret n°2004-397 du 4 mai 2004 (JUSC0420099D)](decret-n2004-397-du-4-mai-2004-jusc0420099d)
 - [Décret du 5 mars 2004 (DEVN0420017D)](decret-du-5-mars-2004-devn0420017d)
-- [Décret n°2004-1053 du 5 octobre 2004 (INTA0400254D)](decret-n2004-1053-du-5-octobre-2004-inta0400254d)
 - [Décret n°2004-1056 du 5 octobre 2004 (ECOB0460009D)](decret-n2004-1056-du-5-octobre-2004-ecob0460009d)
 - [Décret n°2004-1057 du 5 octobre 2004 (ECOB0460011D)](decret-n2004-1057-du-5-octobre-2004-ecob0460011d)
 - [Décret n°2004-1059 du 5 octobre 2004 (INTB0400261D)](decret-n2004-1059-du-5-octobre-2004-intb0400261d)

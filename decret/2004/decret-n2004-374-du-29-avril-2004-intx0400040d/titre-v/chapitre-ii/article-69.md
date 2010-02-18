@@ -1,6 +1,6 @@
 # Article 69
 
-I. - Lorsqu'une politique d'aménagement et de développement durable du territoire intéresse plusieurs départements, le Premier ministre peut, par arrêté, confier au préfet de l'un de ces départements une mission interdépartementale de mise en oeuvre de cette politique.
+I. -Lorsqu'une politique intéresse plusieurs départements, le Premier ministre peut, par arrêté et pour une durée limitée, éventuellement reconductible, confier au préfet de l'un de ces départements une mission interdépartementale de coordination.
 
 II. - Le préfet auquel a été confiée cette mission anime et coordonne l'action des préfets des départements intéressés. Il assure la programmation et est ordonnateur des dépenses afférentes aux crédits qui lui sont délégués dans le cadre de sa mission.
 

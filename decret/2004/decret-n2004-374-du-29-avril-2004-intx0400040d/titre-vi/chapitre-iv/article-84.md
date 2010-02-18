@@ -1,3 +1,3 @@
 # Article 84
 
-Les dispositions du présent décret ne font pas obstacle à l'exercice, par les présidents des conseils généraux, les maires et les présidents d'établissements publics de coopération intercommunale, des pouvoirs qu'ils exercent en vertu de dispositions réglementaires au nom de l'Etat.
+Dans les régions d'outre-mer, en cas d'absence ou d'empêchement du préfet de région, lorsque ce dernier ne désigne pas par arrêté le secrétaire général de la préfecture ou un des sous-préfets en fonction dans la collectivité pour assurer sa suppléance, celle-ci est exercée de droit par le secrétaire général pour les affaires régionales.

@@ -1,9 +1,11 @@
 # Article 37
 
-Dans les conditions prévues aux articles 47 à 51, le comité de l'administration régionale est consulté par le préfet de région sur les décisions d'investissements publics de l'Etat ou subventionnés par l'Etat dans la région.
+Le préfet de région est responsable de la stratégie immobilière de l'Etat dans la région, sous réserve des dispositions des articles L. 1142-1 et R. * 1142-1 du code de la défense.
 
-Le comité de l'administration régionale se prononce sur le bilan de l'exécution de la programmation de l'année précédente.
+A ce titre :
 
-Il examine les moyens financiers nécessaires à la mise en oeuvre de la programmation de l'année suivante.
+1° Il définit les modalités d'application par les préfets de département des instructions reçues du ministre chargé du domaine de l'Etat ;
 
-Il est informé des prévisions d'utilisation des dotations de crédits d'intervention de l'année en cours.
+2° Il est responsable de la valorisation du patrimoine immobilier et de la préservation des intérêts patrimoniaux de l'Etat dans la région ;
+
+3° Il approuve les schémas pluriannuels de stratégie immobilière mentionnés à l'article 42 élaborés par les préfets de département de la région.

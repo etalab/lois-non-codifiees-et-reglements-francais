@@ -1,3 +1,3 @@
 # Article 9
 
-Sous réserve des compétences du préfet de région, le préfet de département met en oeuvre dans le département les politiques nationales et communautaires.
+Le préfet de département met en œuvre les politiques nationales et communautaires dans les conditions définies à l'article 2.
