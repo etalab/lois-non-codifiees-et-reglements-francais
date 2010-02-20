@@ -6,19 +6,54 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 <tbody>
 <tr>
 <td align="left" valign="top">
-<p align="center">AUXILIAIRES<br/>technologiques</p>
+<p align="center">
+<font size="1">AUXILIAIRES<br/>technologiques</font>
+</p>
 </td>
 <td align="left" valign="top">
-<p align="center">CATÉGORIE<br/>de l'AT </p>
+<p align="center">
+<font size="1">CATÉGORIE<br/>
+</font>
+<font size="1">de l'AT <br/>
+</font>
+</p>
 </td>
 <td align="left" valign="top">
-<p align="center">DENRÉE<br/>alimentaire </p>
+<p align="center">
+<font size="1">DENRÉE<br/>
+</font>
+<font size="1">alimentaire </font>
+</p>
 </td>
 <td align="left" valign="top">
-<p align="center">CONDITIONS D'EMPLOI/<br/>fonction </p>
+<p align="center">
+<font size="1">CONDITIONS D'EMPLOI/<br/>fonction</font>
+</p>
 </td>
 <td align="left" valign="top">
-<p align="center">DOSE RÉSIDUELLE<br/>maximale </p>
+<p align="center">
+<font size="1">DOSE RÉSIDUELLE<br/>
+</font>
+<font size="1">maximale <br/>
+</font>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Acide chlorhydrique. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Divers</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Préparations pour nourrissons, préparations de suite, laits de croissance, préparations à base de céréales infantiles et aliments pour bébés contenant de la L-tyrosine. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Quantité strictement nécessaire pour permettre la solubilisation de la L-tyrosine par formation de chlorhydrate de tyrosine.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Teneur résiduelle techniquement inévitable, à un ratio molaire de 1/3.</p>
 </td>
 </tr>
 <tr>
@@ -101,7 +136,7 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 </p>
 </td>
 <td align="left" valign="top">
-<p>Lavage en solution aqueuse de pH inférieur à 2, 8 en vue de l'élimination du mucus par floculation suivi d'un rinçage à l'eau potable. <br/>
+<p>Lavage en solution aqueuse de pH inférieur à 2,8 en vue de l'élimination du mucus par floculation suivi d'un rinçage à l'eau potable. <br/>
 </p>
 </td>
 <td align="left" valign="top">
@@ -167,7 +202,7 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 </p>
 </td>
 <td align="left" valign="top">
-<p>Aspersion d'une solution à 2, 5 % d'un produit contenant 4, 5 % d'acide peracétique à l'équilibre puis séchage. <br/>
+<p>Aspersion d'une solution à 2,5 % d'un produit contenant 4,5 % d'acide peracétique à l'équilibre puis séchage. <br/>
 </p>
 </td>
 <td align="left" valign="top">
@@ -259,8 +294,25 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 </p>
 </td>
 <td align="left" valign="top">
-<p>Teneur résiduelle inférieure à 10 mg / litre. <br/>
+<p>Teneur résiduelle inférieure à 10 mg/litre. <br/>
 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Argile kaolinitique exempte d'amiante. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Divers.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Légumes racines. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">7 g/kg de légumes racines au maximum dans les bains de flottation pour la réalisation de tri densimétrique pour les légumes racines. Le procédé est suivi de rinçages suffisants pour réaliser l'élimination.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Teneur résiduelle en aluminium ≤3 mg/kg de matière sèche dans le produit fini.</p>
 </td>
 </tr>
 <tr>
@@ -485,6 +537,24 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 </tr>
 <tr>
 <td align="left" valign="top">
+<p align="left">Cellulose. <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Agent de clarification.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Bières</p>
+</td>
+<td align="left" valign="top">
+<p align="left">A la dose strictement nécessaire pour obtenir l'effet recherché 100 g/m² de surface filtrante au maximum, dans la première précouche. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Teneur résiduelle techniquement inévitable. </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
 <p>Charbons. <br/>
 </p>
 </td>
@@ -503,6 +573,24 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 <td align="left" valign="top">
 <p>Dose techniquement inévitable. <br/>
 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Charbon actif. </p>
+</td>
+<td align="left" valign="top">
+<p>Agent de clarification. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Bières</p>
+</td>
+<td align="left" valign="top">
+<p align="left">A la dose strictement nécessaire pour obtenir l'effet recherché. 10 à 100 g par hectolitre de bière.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Teneur résiduelle techniquement inévitable, après filtration au travers d'un filtre de porosité 5 µm </p>
+<br/>
 </td>
 </tr>
 <tr>
@@ -761,7 +849,7 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 </p>
 </td>
 <td align="left" valign="top">
-<p>A la dose maximale de 50 mg/kg de betteraves. L'emploi doit être fait en substitution du formol. <br/>
+<p>A la dose maximale de 50 mg/kg de betteraves.L'emploi doit être fait en substitution du formol. <br/>
 </p>
 </td>
 <td align="left" valign="top">
@@ -871,7 +959,7 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 </p>
 </td>
 <td align="left" valign="top">
-<p>Production de beurre de cacao. Le produit commercial est composé essentiellement d'hydrocarbures acycliques saturés contenant 6 atomes de carbone et distillant entre 64 et 70 °C.L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite. <br/>
+<p>Production de beurre de cacao. Le produit commercial est composé essentiellement d'hydrocarbures acycliques saturés contenant 6 atomes de carbone et distillant entre 64 et 70 °C. L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite. <br/>
 </p>
 </td>
 <td align="left" valign="top">
@@ -915,7 +1003,7 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 </p>
 </td>
 <td align="left" valign="top">
-<p>Production ou fractionnement de graisses et d'huiles. Le produit commercial est composé essentiellement d'hydrocarbures acycliques saturés contenant 6 atomes de carbone et distillant entre 64 et 70 °C.L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite. <br/>
+<p>Production ou fractionnement de graisses et d'huiles. Le produit commercial est composé essentiellement d'hydrocarbures acycliques saturés contenant 6 atomes de carbone et distillant entre 64 et 70 °C. L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite. <br/>
 </p>
 </td>
 <td align="left" valign="top">
@@ -937,7 +1025,7 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 </p>
 </td>
 <td align="left" valign="top">
-<p>Préparations de produits à base de protéines dégraissées et de farines dégraissées.L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite. <br/>
+<p>Préparations de produits à base de protéines dégraissées et de farines dégraissées. L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite. <br/>
 </p>
 </td>
 <td align="left" valign="top">
@@ -1028,7 +1116,7 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 </p>
 </td>
 <td align="left" valign="top">
-<p>A la dose strictement nécessaire pour obtenir l'effet recherché. L'huile minérale est utilisée en mélange avec de la cire d'abeille. <br/>
+<p>A la dose strictement nécessaire pour obtenir l'effet recherché.L'huile minérale est utilisée en mélange avec de la cire d'abeille. <br/>
 </p>
 </td>
 <td align="left" valign="top">
@@ -1171,6 +1259,23 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 </tr>
 <tr>
 <td align="left" valign="top">
+<p align="left">Mélange de polystyrène et de polyvinylpyrrolidone réticulée obtenu par un procédé spécial et contenant au plus 8 mg de styrène par kg. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Agent de filtration. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Bières et produits à base de bières. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">50 à 150 g par hectolitre selon la turbidité des bières traitées. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Teneur résiduelle techniquement inévitable. </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
 <p>Méthanol. <br/>
 </p>
 </td>
@@ -1205,7 +1310,7 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 </p>
 </td>
 <td align="left" valign="top">
-<p>Décaféination ou suppression des matières irritantes et amères du café ou du thé.L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite. <br/>
+<p>Décaféination ou suppression des matières irritantes et amères du café ou du thé. L'utilisation combinée d'hexane et de méthyl-éthyl-cétone est interdite. <br/>
 </p>
 </td>
 <td align="left" valign="top">
@@ -1301,6 +1406,23 @@ AUXILIAIRES TECHNOLOGIQUES AUTORISÉS
 <td align="left" valign="top">
 <p>Teneur résiduelle inférieure à 10 microgrammes par kg. <br/>
 </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Perlite. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Agent de clarification.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Bières.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">A la dose strictement nécessaire pour obtenir l'effet recherché. 5 à 100 g par hectolitre de bière, dans la première précouche. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Teneur résiduelle techniquement inévitable, après filtration au travers d'un filtre de porosité 1,6 µm.</p>
 </td>
 </tr>
 <tr>

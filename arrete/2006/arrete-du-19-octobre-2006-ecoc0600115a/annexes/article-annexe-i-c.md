@@ -536,6 +536,14 @@
 </td>
 </tr>
 <tr>
+<td>Amyloglucosidase (ou glucoamylase) issue d'une souche génétiquement modifiée d'Aspergillus niger (BE) contenant le gène codant l'amyloglucosidase de Talaromyces emersonii </td>
+<td>Enzymes.</td>
+<td>Industries du sucre, de l'amidon, de la brasserie et de l'alcool. </td>
+<td>Hydrolyse des liaisons alpha-1-4-glycosidiques des polysaccharides. <br/>
+</td>
+<td>Teneur résiduelle techniquement inévitable. </td>
+</tr>
+<tr>
 <td valign="top" width="152">
 <p>Amyloglucosidase d'Aspergillus niger (STz18-9) porteur du gène codant pour l'amyloglucosidase d'A. niger.</p>
 </td>
@@ -779,6 +787,14 @@
 <td>Dose techniquement inévitable. </td>
 </tr>
 <tr>
+<td>Bêta-galactosidase de Kluyveromyces lactis n° GAL 16A / 18A. <br/>
+</td>
+<td>Enzymes</td>
+<td>Lait à teneur réduite en lactose, lactosérum, produits laitiers fermentés et fromages à l'exception de ceux bénéficiant d'une appellation d'origine contrôlée. </td>
+<td>Hydrolyse du lactose.</td>
+<td>Dose techniquement inévitable.</td>
+</tr>
+<tr>
 <td valign="top" width="152">
 <p>Bêta galactosidases de Kluyveromyces lactis, Kluyveromyces fragilis, Aspergillus niger, Aspergillus oryzae.</p>
 </td>
@@ -886,6 +902,25 @@
 <td valign="top" width="118">
 <p>Dose techniquement inévitable.</p>
 </td>
+</tr>
+<tr>
+<td>Bêta-galactosidase de Kluyveromyces lactis n° GAL 16A / 18A. <br/>
+</td>
+<td>Enzymes</td>
+<td>Lait à teneur réduite en lactose, lactosérum, produits laitiers fermentés et fromages à l'exception de ceux bénéficiant d'une appellation d'origine contrôlée. <br/>
+</td>
+<td>Hydrolyse du lactose. </td>
+<td>Dose techniquement inévitable. </td>
+</tr>
+<tr>
+<td>Carboxypeptidase de type sérine issue d'une souche d'Aspergillus niger modifiée génétiquement PEG-1A contenant un gène codant la carboxypeptidase d'Aspergillus niger. </td>
+<td>Enzymes</td>
+<td>
+<br/>Fromages à l'exception des fromages bénéficiant d'une appellation d'origine. <p>Arômes obtenus à partir de matières premières laitières. </p>
+<p>Produits à base de viande fermentée. </p>
+</td>
+<td>Hydrolyse des liaisons peptidiques de protéines.</td>
+<td>Teneur résiduelle techniquement inévitable.</td>
 </tr>
 <tr>
 <td valign="top" width="152">
@@ -1039,6 +1074,17 @@
 </td>
 <td valign="top" width="118">
 <p>Dose techniquement inévitable.</p>
+</td>
+</tr>
+<tr>
+<td>Cellulase issue d'une souche non génétiquement modifiée de Trichoderma longibrachiatum (ex-reesei) (TV) </td>
+<td>Enzymes. </td>
+<td>Brasserie. <br/>
+</td>
+<td>Hydrolyse de la cellulose. <br/>
+</td>
+<td>
+<br/>Teneur résiduelle techniquement inévitable. <br/>
 </td>
 </tr>
 <tr>
@@ -1405,6 +1451,16 @@
 </td>
 </tr>
 <tr>
+<td>Exo-α-amylase maltogène (ou 4 D glucan maltohydrolase) d'une souche génétiquement modifiée de Bacillus subtilis (SO) contenant le gène modifié codant l'exo-α-amylase maltogène de Bacillus stearothermophilus </td>
+<td>Enzymes</td>
+<td>Panification (à l'exception du pain de tradition française) et panification spéciale, biscuiterie, pâtisserie et viennoiserie.</td>
+<td>
+<br/>Hydrolyse des liaisons α1-4 des chaînes d'amidon et d'oligosaccharides. <br/>
+</td>
+<td>
+<br/>Teneur résiduelle techniquement inévitable. </td>
+</tr>
+<tr>
 <td valign="top" width="152">
 <p>Exopeptidase d'Aspergillus melleus.</p>
 </td>
@@ -1635,6 +1691,36 @@
 <td valign="top" width="118">
 <p>Dose techniquement inévitable.</p>
 </td>
+</tr>
+<tr>
+<td>
+<br/>Glucose oxydase d'une souche (DS 31859) d'Aspergillus niger non génétiquement modifiée.</td>
+<td>Enzymes.</td>
+<td>Œufs. </td>
+<td>Hydrolyse du bêta D-glucose. <p>L'activité glucose oxydase doit être associée à une activité catalase, en quantité suffisante pour dégrader le peroxyde d'hydrogène au fur et à mesure de sa formation.</p>
+</td>
+<td>Teneur résiduelle techniquement inévitable. <br/>
+</td>
+</tr>
+<tr>
+<td>Glucosyltransférase de branchement (amylo-(1,4 → 1,6)-transglycosylase) issue souche de Bacillus subtilis génétiquement modifiée (RO) contenant le gène codant l'enzyme de branchement de Rhodothermus obamensis.</td>
+<td>Enzymes</td>
+<td>Amidonnerie</td>
+<td>Création de liaison interchaînes α 1, 6 glucosidiques par transfert d'une chaîne de résidus α 1, 4 glucosidiques sur un groupe hydroxy d'une autre chaîne glucosidique similaire. <p>Conversion de l'amylose en amylopectine. <br/>
+</p>
+</td>
+<td>Teneur résiduelle techniquement inévitable.</td>
+</tr>
+<tr>
+<td>Glutaminase issue d'une souche de Bacillus amyloliquefaciens non génétiquement modifiée (GT2). <br/>
+</td>
+<td>Enzymes.</td>
+<td>Hydrolysats de protéines. <p>Extraits de levures.</p>
+</td>
+<td>Conversion de la L-glutamine en L-glutamate et ammoniac. <br/>
+</td>
+<td>
+<br/>Teneur résiduelle techniquement inévitable.</td>
 </tr>
 <tr>
 <td valign="top" width="152">
@@ -1969,6 +2055,32 @@
 </td>
 <td valign="top" width="118">
 <p>Dose techniquement inévitable.</p>
+</td>
+</tr>
+<tr>
+<td>Lipase issue d'une souche d'Aspergillus niger génétiquement modifiée (DB) contenant le gène codant la lipase de Candida antarctica. </td>
+<td>Enzymes </td>
+<td>Industrie des huiles alimentaires </td>
+<td>Hydrolyse des triglycérides afin de permettre une interestérification.</td>
+<td>Teneur résiduelle techniquement inévitable. </td>
+</tr>
+<tr>
+<td>Lipase issue d'une souche d'Aspergillus oryzae génétiquement modifiée LH) contenant le gène modifié codant la lipase de Thermomyces lanuginosus. </td>
+<td>Enzymes</td>
+<td>Panification (à l'exception du pain de tradition française) et panification spéciale. <br/>
+</td>
+<td>Hydrolyse des triglycérides.</td>
+<td>Teneur résiduelle techniquement inévitable.</td>
+</tr>
+<tr>
+<td>Lipase produite par la souche d'Aspergillus niger modifiée génétiquement LFS-54 contenant un gène codant la lipase de Fusarium culmorum.</td>
+<td>Enzymes.</td>
+<td>Panification (à l'exception du pain de tradition française) et panification spéciale. <p>Viennoiserie, biscuiterie, pâtisserie. <br/>
+</p>
+</td>
+<td>Modification des interactions triglycérides / gluten. <br/>
+</td>
+<td>Teneur résiduelle techniquement inévitable. <br/>
 </td>
 </tr>
 <tr>
@@ -2323,6 +2435,16 @@
 </td>
 </tr>
 <tr>
+<td>Phospholipase A1 produite par une souche génétiquement modifiée d'Aspergillus oryzae contenant le gène codant la phospholipase A1 de Fusarium venenatum (PP). </td>
+<td>Enzymes</td>
+<td>Fromages, à l'exception de ceux bénéficiant d'une appellation d'origine. <br/>
+</td>
+<td>Hydrolyse des phospholipides. <br/>
+</td>
+<td>
+<br/>Teneur résiduelle techniquement inévitable. </td>
+</tr>
+<tr>
 <td valign="top" width="152">
 <p>Phospholipase A2 d'Aspergillus niger modifié génétiquement PLA 54 (DS 35496).</p>
 </td>
@@ -2415,6 +2537,16 @@
 </td>
 </tr>
 <tr>
+<td>
+<br/>Polygalacturonase issue d'une souche d'Aspergillus niger modifiée génétiquement (EPG-102) contenant un gène codant la polygalacturonase d'Aspergillus niger. </td>
+<td>Enzymes.</td>
+<td>Jus de fruits. <br/>
+</td>
+<td>Hydrolyse des liaisons galacturoniques des pectates et autres galacturonanes. </td>
+<td>Teneur résiduelle techniquement inévitable. <br/>
+</td>
+</tr>
+<tr>
 <td valign="top" width="152">
 <p>Présure.</p>
 </td>
@@ -2448,6 +2580,14 @@
 <td valign="top" width="118">
 <p>Dose techniquement inévitable.</p>
 </td>
+</tr>
+<tr>
+<td>Protéase à résidu sérine issue souche génétiquement modifiée de Fusarium venenatum (FG) contenant le gène codant la protéase de Fusarium oxysporum. </td>
+<td>Enzymes</td>
+<td>Hydrolysats de protéines <br/>
+</td>
+<td>Hydrolyse des liaisons peptidiques des protéines.</td>
+<td>Teneur résiduelle techniquement inévitable.</td>
 </tr>
 <tr>
 <td valign="top" width="152">
@@ -2905,6 +3045,15 @@
 </td>
 </tr>
 <tr>
+<td>Pullulanase issue d'une souche de Bacillus subtilis génétiquement modifiée (AO) contenant le gène codant la pullulanase de Bacillus acidopullulyticus. <br/>
+</td>
+<td>Enzymes</td>
+<td>Brasserie, amidonnerie, alcool.</td>
+<td>Hydrolyse des liaisons α1-6 glycosidiques des polysaccharides.</td>
+<td>
+<br/>Teneur résiduelle techniquement inévitable</td>
+</tr>
+<tr>
 <td valign="top" width="152">
 <p>Ribonucléase de Penicillium citrinum.</p>
 </td>
@@ -2943,6 +3092,17 @@
 </td>
 <td valign="top" width="118">
 <p>Dose techniquement inévitable.</p>
+</td>
+</tr>
+<tr>
+<td>Transglutaminase de la souche de Streptomyces mobaraensis non génétiquement modifiée S8112. </td>
+<td>Enzymes</td>
+<td>Produits reconstitués à base de poissons et d'autres produits de la mer. </td>
+<td>Formation de liaisons covalentes. <p>L'autorisation est limitée à la fabrication de produits vendus à l'état cuit, le traitement thermique appliqué sous la responsabilité du fabricant doit assurer l'inactivation de l'enzyme. <br/>
+</p>
+</td>
+<td>Teneur résiduelle techniquement inévitable. <p>L'enzyme doit être inactivée dans le produit final. <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -3178,6 +3338,16 @@
 </td>
 <td valign="top" width="118">
 <p>Teneur résiduelle techniquement inévitable.</p>
+</td>
+</tr>
+<tr>
+<td>Xylanase d'une souche d'Aspergillus oryzae (FB) génétiquement modifiée contenant le gène codant pour la xylanase d'Aspergillus aculeatus.</td>
+<td>Enzymes <br/>
+</td>
+<td>Brasserie </td>
+<td>Hydrolyse des liaisons osidiques des hémicelluloses. <br/>
+</td>
+<td>Teneur résiduelle techniquement inévitable.<br/>
 </td>
 </tr>
 </tbody>

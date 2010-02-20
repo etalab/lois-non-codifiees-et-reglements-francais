@@ -26,7 +26,9 @@ La proportion totale d'agents conservateurs cités aux points a, b et c ne dépa
 
 -maltodextrines ;
 
--citrate de sodium
+-citrate de sodium ;
+
+- sulfate d'ammonium.
 
 3. Les préparations enzymatiques, à l'exception de celles utilisées en oenologie, citées dans le présent arrêté, peuvent être diluées, dispersées ou additionnées des produits suivants :
 
