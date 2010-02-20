@@ -1,5 +1,0 @@
-# Article 19
-
-Un exemplaire du dossier technique prévu à l'article 2 est, lorsqu'il a été jugé recevable, adressé au ministre chargé de l'industrie et au ministre chargé de la santé. Les ministres chargés de l'intérieur et des transports reçoivent ceux des éléments du dossier nécessaires à l'exercice de leurs attributions en matière de sécurité.
-
-En vue de l'information des centres de traitement des intoxications, le ministre chargé de la santé peut communiquer à ces centres la formule chimique complète d'une substance et la composition intégrale des préparations qui la contiennent ainsi que, éventuellement lorsque les conditions de la diffusion commerciale de ces produits le justifient, et après avis du président de la commission d'évaluation, les données commercialement confidentielles qui seraient utiles à ces centres. Le ministre chargé de la santé fait connaître au déclarant la nature des informations communiquées aux centres ; il doit prendre toutes mesures utiles afin que ces derniers assurent le respect du caractère confidentiel éventuel des données mises à leur disposition.

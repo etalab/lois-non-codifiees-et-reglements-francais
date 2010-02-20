@@ -141,6 +141,16 @@ I. - Décisions administratives individuelles prises par le ministre chargé de 
 <p>Articles R. 571-18 et R. 571-22 </p>
 </td>
 </tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">Exemption au règlement (CE) n° 1907/2006 concernant la défense nationale.</p>
+<p align="left">Décision conjointe du ministre de la défense et du ministre en charge de l'environnement.</p>
+</td>
+<td align="left" valign="top">
+<p>Article R. 521-1</p>
+</td>
+</tr>
 </tbody>
 </table>
 
