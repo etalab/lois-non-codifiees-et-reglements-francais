@@ -1,0 +1,3 @@
+# Article 10
+
+En cas de différence substantielle entre les qualifications professionnelles du prestataire et la formation exigée en France pour l'accès aux fonctions que souhaite exercer le marin, lorsque cette différence est de nature à nuire à la sécurité de l'équipage du navire ou de la navigation maritime, le directeur régional des affaires maritimes peut décider de demander au marin de démontrer qu'il a acquis les connaissances et compétences manquantes, notamment par une épreuve d'aptitude. En tout état de cause, l'activité doit pouvoir commencer dans le mois qui suit la décision mentionnée au présent article.
