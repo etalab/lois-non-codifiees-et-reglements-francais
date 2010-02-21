@@ -1,6 +1,6 @@
 # Article 1
 
-Les élèves inscrits au Centre national d'enseignement à distance (CNED) à une formation complète de niveau collège ou lycée, en application des articles R. 426-2 et R. 426-2-1 susvisés, peuvent, selon leur situation au regard de l'obligation scolaire, bénéficier des bourses nationales de collège ou des bourses nationales d'études du second degré de lycée dans les conditions précisées ci-après :
+Les élèves inscrits en formation initiale au Centre national d'enseignement à distance (CNED) à une formation complète de niveau collège ou lycée, en application des articles R. 426-2 et R. 426-2-1 susvisés, peuvent, selon leur situation au regard de l'obligation scolaire, bénéficier des bourses nationales de collège ou des bourses nationales d'études du second degré de lycée dans les conditions précisées ci-après :
 
 1. Elèves soumis à l'obligation scolaire :
 
@@ -12,4 +12,4 @@ Les élèves inscrits au Centre national d'enseignement à distance (CNED) à un
 
 ― dès lors que leur inscription est motivée par des raisons de santé ;
 
-― ou lorsque leur inscription au titre de la formation initiale leur permet de bénéficier du tarif scolaire du CNED.
+― ou lorsque leur inscription leur permet de bénéficier du tarif scolaire du CNED.
