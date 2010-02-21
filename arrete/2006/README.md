@@ -148,7 +148,6 @@
 - [Arrêté du 16 novembre 2005 (DEFD0501547A)](arrete-du-16-novembre-2005-defd0501547a)
 - [Arrêté du 16 novembre 2006 (MENS0602787A)](arrete-du-16-novembre-2006-mens0602787a)
 - [Arrêté du 16 octobre 2006 (SOCU0611888A)](arrete-du-16-octobre-2006-socu0611888a)
-- [Arrêté du 17 août 2006 (ECOP0600460A)](arrete-du-17-aout-2006-ecop0600460a)
 - [Arrêté du 17 mars 2006 (DEVO0650136A)](arrete-du-17-mars-2006-devo0650136a)
 - [Arrêté du 17 mars 2006 (MAEA0620082A)](arrete-du-17-mars-2006-maea0620082a)
 - [Arrêté du 17 novembre 2006 (EQUP0601897A)](arrete-du-17-novembre-2006-equp0601897a)
