@@ -2,9 +2,7 @@
 
 Les inspecteurs de l'administration de 1re classe sont recrutés au choix par voie d'inscription à un tableau d'avancement, conformément aux dispositions des articles 58 et suivants de la loi du 11 janvier 1984 susmentionnée, parmi les inspecteurs de l'administration de 2e classe justifiant de trois années de services effectifs accomplis en cette qualité et ayant atteint le sixième échelon de la 2e classe de leur grade. Le tableau d'avancement est arrêté par le ministre de l'intérieur.
 
-Après deux nominations prononcées au titre des dispositions du premier alinéa, il est procédé à une nomination au tour extérieur.
-
-Peuvent se porter candidats à ce titre :
+Pour deux inspecteurs de première classe nommés parmi les inspecteurs de deuxième classe au cours d'une année civile, une nomination d'inspecteur de première classe est effectuée au tour extérieur. Si au cours d'une année civile le nombre d'inspecteurs de première classe nommés parmi les inspecteurs de deuxième classe est inférieur à deux ou n'est pas le multiple de deux, le reste est ajouté au nombre d'inspecteurs de première classe recrutés dans les mêmes conditions l'année suivante pour le calcul des nominations à prononcer au titre de cette nouvelle année en application du présent article. Peuvent se porter candidats au titre du tour extérieur :
 
 1° Les fonctionnaires ou agents d'une catégorie équivalente à la catégorie A en fonction dans les organisations internationales ou intergouvernementales y ayant exercé, pendant une durée de dix ans au moins, des fonctions leur ayant permis d'acquérir une expérience utile à l'exercice des missions du service, après avis de la commission interministérielle mentionnée à l'article 2 du décret n° 85-1271 du 27 novembre 1985 portant application des articles 19 et 26 de la loi du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat ;
 

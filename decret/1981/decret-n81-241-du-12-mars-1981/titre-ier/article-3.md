@@ -13,3 +13,5 @@ Il propose au ministre de l'intérieur, en tant que de besoin, les mesures relat
 Le chef de service de l'inspection générale de l'administration est nommé par décret du Président de la République pris en conseil des ministres, sur proposition du Premier ministre et du ministre de l'intérieur.
 
 L'emploi de chef de service de l'inspection générale de l'administration comprend un échelon unique.
+
+Le chef du service est assisté d'un adjoint nommé parmi les membres du corps par arrêté du ministre de l'intérieur, sur proposition du chef du service de l'inspection générale de l'administration.
