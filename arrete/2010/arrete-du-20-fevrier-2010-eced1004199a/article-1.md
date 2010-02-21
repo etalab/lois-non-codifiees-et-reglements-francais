@@ -1,0 +1,5 @@
+# Article 1
+
+La liste des communes appartenant au bassin d'emploi de Vitré, mentionné au premier alinéa de l'article 1er de l'ordonnance du 13 avril 2006 susvisée, est complétée comme suit :
+
+Antrain, Baillé, La Bazouge-du-Désert, Bazouges-La-Pérouse, Beaucé, Billé, La Chapelle-Janson, La Chapelle-Saint-Aubert, Le Châtellier, Chauvigné, Coglès, Combourtillé, Dompierre-du-Chemin, Le Ferré, Fleurigné, La Fontenelle, Fougères, Gosné, Javené, Laignelet, Landéan, Lécousse, Le Loroux, Louvigné-du-Désert, Luitré, Marcillé-Raoul, Mellé, Mézières-sur-Couesnon, Monthault, Montours, Noyal-sous-Bazouges, Parcé, Parigné, Poilley, Rimou, Romagné, Saint-Aubin-du-Cormier, Saint-Brice-en-Coglès, Saint-Christophe-de-Valains, Saint-Etienne-en-Coglès, Saint-Georges-de-Chesné, Saint-Georges-de-Reintembault, Saint-Germain-en-Coglès, Saint-Hilaire-des-Landes, Saint-Jean-sur-Couesnon, Saint-Marc-le-Blanc, Saint-Marc-sur-Couesnon, Saint-Ouen-la-Rouërie, Saint-Ouen-des-Alleux, Saint-Rémy-du-Plain, Saint-Sauveur-des-Landes, La Selle-en-Coglès, La Selle-en-Luitré, Le Tiercent, Tremblay, Vendel, Villamée.
