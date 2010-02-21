@@ -507,7 +507,6 @@
 - [Arrêté du 15 juin 2007 (SJSH0758088A)](arrete-du-15-juin-2007-sjsh0758088a)
 - [Arrêté du 15 mars 2007 (JUSK0740019A)](arrete-du-15-mars-2007-jusk0740019a)
 - [Arrêté du 15 mars 2007 (MENS0700607A)](arrete-du-15-mars-2007-mens0700607a)
-- [Arrêté du 15 mars 2007 (RECR0700051A)](arrete-du-15-mars-2007-recr0700051a)
 - [Arrêté du 15 novembre 2006 (AGRE0602632A)](arrete-du-15-novembre-2006-agre0602632a)
 - [Arrêté du 15 novembre 2007 (BCFW0770975A)](arrete-du-15-novembre-2007-bcfw0770975a)
 - [Arrêté du 15 novembre 2007 (IOCD0762146A)](arrete-du-15-novembre-2007-iocd0762146a)
