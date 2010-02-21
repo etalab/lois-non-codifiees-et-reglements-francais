@@ -191,7 +191,7 @@ Liste des vergers à graines et des variétés de parents de famille admis en ca
 <p>2) Domaine des Barres ; parcelle 315 (clones pères).</p>
 </td>
 <td valign="top" width="75">
-<p>1 clone mère (V44DK) et 1 famille (S626) représentée par 118 clones pères, dont 111 installés sur le site du domaine de Vayrières et 53 installés sur le site des Barres; pollinisation artificielle avec lot de pollen représentatif de la famille et issu d'au moins 30 clones différents.</p>
+<p>1 clone mère (V44DK) et 1 famille (S626) représentée par 118 clones pères, dont 111 installés sur le site du domaine de Vayrières et 53 installés sur l e site des Barres; pollinisation artificielle avec lot de pollen représentatif de la famille et issu d'au moins 30 clones différents.</p>
 </td>
 <td valign="top" width="89">
 <p>1 clone de mélèze d'Europe, originaire du Tyrol autrichien et sélectionné dans une plantation danoise, utilisé comme mère, et 118 clones de mélèze du Japon, originaires du Japon et sélectionnés au Danemark, utilisés comme pères.</p>
@@ -428,7 +428,7 @@ Liste des vergers à graines et des variétés de parents de famille admis en ca
 <p align="center">10,5</p>
 </td>
 <td valign="top" width="75">
-<p>Domaine de Haute-Serre; parcelle d e verger n° 620.</p>
+<p>Domaine de Haute-Serre; parcelle de verger n° 620.</p>
 </td>
 <td valign="top" width="75">
 <p>155 clones.</p>
