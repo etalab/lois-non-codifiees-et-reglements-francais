@@ -497,7 +497,6 @@
 - [Arrêté du 15 octobre 2008 (MCCB0823563A)](arrete-du-15-octobre-2008-mccb0823563a)
 - [Arrêté du 15 octobre 2008 (MENE0823499A)](arrete-du-15-octobre-2008-mene0823499a)
 - [Arrêté du 15 octobre 2008 (MENJ0824721A)](arrete-du-15-octobre-2008-menj0824721a)
-- [Arrêté du 15 septembre 2008 (AGRF0822211A)](arrete-du-15-septembre-2008-agrf0822211a)
 - [Arrêté du 15 septembre 2008 (BCFL0818512A)](arrete-du-15-septembre-2008-bcfl0818512a)
 - [Arrêté du 15 septembre 2008 (ECEP0813930A)](arrete-du-15-septembre-2008-ecep0813930a)
 - [Arrêté du 15 septembre 2008 (ESRH0820121A)](arrete-du-15-septembre-2008-esrh0820121a)
