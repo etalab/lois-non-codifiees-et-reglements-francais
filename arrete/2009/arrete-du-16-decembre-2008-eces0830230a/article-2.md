@@ -1,30 +1,34 @@
 # Article 2
 
-<div>
-<br/>En application de l'article 3 du décret du 17 septembre 2008 susvisé, la liste des emplois de chef de mission permettant l'accès à l'échelon spécial est :<br/>
+En application de l'article 3 du décret du 17 septembre 2008 susvisé, la liste des emplois de chef de mission permettant l'accès à l'échelon spécial est :
+
 <div align="center">
 
 <table>
+<tbody>
 <tr>
-<th>
-<br/>SERVICES OU DIRECTIONS</th>
-<th>
-<br/>DÉSIGNATION DE L'EMPLOI</th>
+<th>SERVICES OU DIRECTIONS<br/>
+</th>
+<th>DÉSIGNATION DE L'EMPLOI<br/>
+</th>
 </tr>
 <tr>
-<td align="center">
-<br/>Direction régionale d'Ile-de-France </td>
-<td align="center">
-<br/>Chef du service administration des ressources</td>
+<td align="center">Direction régionale d'Ile-de-France <br/>
+</td>
+<td align="center">Chef du service administration des ressources<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Service régional de Guyane</td>
-<td align="center">
-<br/>Chef du service régional</td>
+<td align="center">Service régional de Guyane<br/>
+</td>
+<td align="center">Chef du service régional<br/>
+</td>
 </tr>
+<tr>
+<td> Direction générale, département des services généraux </td>
+<td> Chef de la division logistique de la direction générale</td>
+</tr>
+</tbody>
 </table>
 
-</div>
-<br/>
 </div>
