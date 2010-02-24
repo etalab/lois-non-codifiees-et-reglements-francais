@@ -92,6 +92,10 @@ Autorité responsable de la certification :
 
 Ministère chargé de l'emploi.
 
+Liens avec d'autres certifications :
+
+Les correspondances entre le titre professionnel et les CQP de la branche "propreté" enregistrés au RNCP sont définies par l'arrêté de spécialité du titre professionnel d'agent(e) de propreté et d'hygiène.
+
 Bases légales et réglementaires :
 
 Code de l'éducation, notamment les articles L. 335-5, L. 335-6 et R. 335-13, R. 338-2 ;
