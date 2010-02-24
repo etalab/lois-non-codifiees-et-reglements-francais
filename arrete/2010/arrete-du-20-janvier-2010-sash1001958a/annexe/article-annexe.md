@@ -44,13 +44,13 @@ Courrier électronique :
 
 3. Profession concernée :
 
-3.1. Profession exercée (3) dans l'Etat d'établissement, membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen (4) :
+3.1. Profession et type d'activité exercées (3) dans l'Etat d'établissement, membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen (4) :
 
-Précisez la spécialité, le cas échéant :
+Type d'activité pour laquelle vous demandez l'accès en France :
 
-Profession pour laquelle vous demandez l'accès en France :
+Pharmacien
 
-Précisez la spécialité, le cas échéant :
+Pharmacien biologiste
 
 Indiquez les types d'actes envisagés (facultatif) :
 
@@ -70,7 +70,7 @@ Nom de la compagnie d'assurances :
 
 Numéro du contrat :
 
-Important : si le prestataire exerçant à titre libéral n'a pas de couverture d'assurances, il est tenu d'en souscrire une en application des dispositions de l'article L. 1142-2 du code de la santé publique. S'il n'exerce pas à titre libéral, il est tenu de vérifier l'étendue de la garantie souscrite par son employeur.
+Important : si le prestataire exerçant à titre libéral n'a pas de couverture d'assurance, il est tenu d'en souscrire une en application des dispositions de l'article L. 1142-2 du code de la santé publique. S'il n'exerce pas à titre libéral, il est tenu de vérifier l'étendue de la garantie souscrite par son employeur.
 
 Commentaires éventuels :
 
@@ -108,6 +108,12 @@ Date :
 
 Signature :
 
-<font color="#808080" size="1">
-<em>(1) Veuillez conserver la copie de cette déclaration. Elle vous sera demandée lors de prestations futures. (2) Veuillez joindre une copie de la déclaration précédente ainsi que de la première déclaration effectuée. (3) Veuillez indiquer l'intitulé de la profession dans la langue de l'Etat, membre ou partie, où vous êtes établi(e), ainsi que dans la langue de l'Etat membre d'accueil. (4) (5) (6) Dans le cas d'établissement multiple, veuillez compléter les informations correspondant à chacun des Etats, membres ou parties, où vous êtes établi(e). (7) Ces informations seront conservées par l'autorité compétente pour assurer le suivi de la prestation de services. La loi n° 78-17 du 6 janvier 1978 modifiée relative à l'informatique, aux fichiers et aux libertés s'applique aux réponses faites sur ce formulaire. Elle garantit un droit d'accès et de rectification pour les données à caractère personnel vous concernant auprès de l'organisme qui a traité votre demande. Toute fausse déclaration est passible de sanctions pénales (art. 441-1 du code pénal). </em>
-</font>
+(1) Veuillez conserver la copie de cette déclaration. Elle vous sera demandée lors de prestations futures.
+
+(2) Veuillez joindre une copie de la déclaration précédente ainsi que de la première déclaration effectuée.
+
+(3) Veuillez indiquer l'intitulé de la profession dans la langue de l'Etat, membre ou partie, où vous êtes établi(e), ainsi que dans la langue de l'Etat membre d'accueil.
+
+(4) (5) (6) Dans le cas d'établissement multiple, veuillez compléter les informations correspondant à chacun des Etats, membres ou parties, où vous êtes établi(e).
+
+(7) Ces informations seront conservées par l'autorité compétente pour assurer le suivi de la prestation de services. La loi n° 78-17 du 6 janvier 1978 modifiée relative à l'informatique, aux fichiers et aux libertés s'applique aux réponses faites sur ce formulaire. Elle garantit un droit d'accès et de rectification pour les données à caractère personnel vous concernant auprès de l'organisme qui a traité votre demande. Toute fausse déclaration est passible de sanctions pénales (art. 441-1 du code pénal).
