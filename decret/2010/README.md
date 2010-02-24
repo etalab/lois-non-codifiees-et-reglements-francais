@@ -137,6 +137,8 @@
 - [Décret n°2010-84 du 21 janvier 2010 (AGRT0911492D)](decret-n2010-84-du-21-janvier-2010-agrt0911492d)
 - [Décret n°89-917 du 21 décembre 1989 (MERG8900032D)](decret-n89-917-du-21-decembre-1989-merg8900032d)
 - [Décret n°2006-208 du 22 février 2006 (JUSG0660018D)](decret-n2006-208-du-22-fevrier-2006-jusg0660018d)
+- [Décret n°2010-163 du 22 février 2010 (DEVS0922971D)](decret-n2010-163-du-22-fevrier-2010-devs0922971d)
+- [Décret n°2010-164 du 22 février 2010 (JUSC0931285D)](decret-n2010-164-du-22-fevrier-2010-jusc0931285d)
 - [Décret n°2010-80 du 22 janvier 2010 (PRMX1001890D)](decret-n2010-80-du-22-janvier-2010-prmx1001890d)
 - [Décret n°2010-83 du 22 janvier 2010 (SASP1001352D)](decret-n2010-83-du-22-janvier-2010-sasp1001352d)
 - [Décret n°2010-85 du 22 janvier 2010 (PRMX1001573D)](decret-n2010-85-du-22-janvier-2010-prmx1001573d)
