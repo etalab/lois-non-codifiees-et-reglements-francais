@@ -1,0 +1,5 @@
+# Article 1
+
+Les emplois mentionnés à l'article 14 du décret n° 2002-49 du 10 janvier 2002 relatif aux missions, à l'administration et au régime financier de l'Ecole nationale d'administration sont pourvus par la voie du détachement par des fonctionnaires remplissant les conditions fixées par les articles 2 et 3 du décret n° 55-1226 du 19 septembre 1955 relatif aux conditions de nomination et d'avancement dans les emplois de chef de service, de directeur adjoint et de sous-directeur des administrations centrales de l'Etat. Toutefois, pour l'accès à l'emploi de directeur, adjoint chargé du recrutement, de la scolarité et de l'évaluation des élèves, et aux emplois d'adjoints, les durées de services effectifs mentionnées à l'article 3 du décret du 19 septembre 1955 susmentionné sont ramenées à quatre ans.
+
+Les vacances, constatées ou prévisibles, des emplois de direction de l'Ecole nationale d'administration font l'objet d'une publicité dans des conditions fixées par le directeur de l'école.

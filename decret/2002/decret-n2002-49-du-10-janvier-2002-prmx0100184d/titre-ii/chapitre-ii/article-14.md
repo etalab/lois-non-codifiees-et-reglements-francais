@@ -2,17 +2,17 @@
 
 Le directeur de l'école est assisté par :
 
-- un secrétaire général ;
+1° Un secrétaire général ;
 
-- un directeur des études ;
+2° Un directeur de la formation ;
 
-- un directeur des stages ;
+3° Un directeur des stages ;
 
-- un directeur de la formation permanente et de la recherche ;
+4° Un directeur des relations internationales ;
 
-- un directeur des relations internationales ;
+5° Un directeur des affaires européennes.
 
-- Un directeur du centre des études européennes de Strasbourg.
+Le directeur de la formation est assisté d'un directeur, adjoint chargé du recrutement, de la scolarité et de l'évaluation des élèves.
 
 Le secrétaire général et les directeurs sont nommés par arrêté du Premier ministre et du ministre chargé de la fonction publique sur proposition du directeur de l'école.
 
