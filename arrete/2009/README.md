@@ -2669,7 +2669,6 @@
 - [Arrêté du 27 juillet 2009 (SASH0917966A)](arrete-du-27-juillet-2009-sash0917966a)
 - [Arrêté du 27 juillet 2009 (SASH0917985A)](arrete-du-27-juillet-2009-sash0917985a)
 - [Arrêté du 27 juillet 2009 (SASP0917837A)](arrete-du-27-juillet-2009-sasp0917837a)
-- [Arrêté du 27 juillet 2009 (SASP0917854A)](arrete-du-27-juillet-2009-sasp0917854a)
 - [Arrêté du 27 juillet 2009 (SASP0917891A)](arrete-du-27-juillet-2009-sasp0917891a)
 - [Arrêté du 27 juillet 2009 (SASP0918147A)](arrete-du-27-juillet-2009-sasp0918147a)
 - [Arrêté du 27 mars 2009 (AGRS0907001A)](arrete-du-27-mars-2009-agrs0907001a)
