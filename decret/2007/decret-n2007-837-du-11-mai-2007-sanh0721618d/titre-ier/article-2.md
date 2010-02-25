@@ -2,7 +2,7 @@
 
 Les fonctionnaires nommés dans l'un des corps régis par le présent décret sont classés, lors de leur nomination, au 1er échelon du grade de début, sous réserve des dispositions ci-après et de celles des articles 3 à 10 :
 
-1° a) Les fonctionnaires de catégorie C ou de même niveau qui détiennent un grade doté de l'échelle 6 sont classés dans l'un des corps de catégorie B suivants : adjoint des cadres hospitaliers, secrétaire médical, conformément au tableau de correspondance ci-après :
+1° a) Les fonctionnaires de catégorie C ou de même niveau qui détiennent un grade doté de l'échelle 6 sont classés dans l'un des corps de catégorie B suivants : adjoint des cadres hospitaliers, secrétaire médical agent chef, conformément au tableau de correspondance ci-après :
 
 <table>
 <tbody>
@@ -10,14 +10,14 @@ Les fonctionnaires nommés dans l'un des corps régis par le présent décret so
 <td align="left" valign="middle">
 <p align="center">
 <strong>SITUATION DANS L'ÉCHELLE 6</strong>
-<br/>
-<br/>de la catégorie C</p>
+</p>
+<p align="center">de la catégorie C</p>
 </td>
 <td align="left" colspan="2" valign="middle">
 <p align="center">
 <strong>SITUATION DANS LE CORPS D'INTÉGRATION</strong>
-<br/>
-<br/>de catégorie B</p>
+</p>
+<p align="center">de catégorie B</p>
 </td>
 </tr>
 <tr>
@@ -25,13 +25,13 @@ Les fonctionnaires nommés dans l'un des corps régis par le présent décret so
 <pre> </pre>
 </td>
 <td align="left" valign="middle">
-<p align="center">Classe normale <br/>
-<br/>Echelons</p>
+<p align="center">Classe normale </p>
+<p align="center">Echelons</p>
 </td>
 <td align="left" valign="middle">
-<p align="center">Ancienneté <br/>
-<br/>conservée dans la limite <br/>
-<br/>de la durée d'échelon</p>
+<p align="center">Ancienneté </p>
+<p align="center">conservée dans la limite </p>
+<p align="center">de la durée d'échelon</p>
 </td>
 </tr>
 <tr>

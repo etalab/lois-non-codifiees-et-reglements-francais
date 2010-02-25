@@ -2,11 +2,11 @@
 
 I.-Les adjoints administratifs sont recrutés sans concours dans le grade d'adjoint administratif de 2e classe et par concours sur épreuves dans le grade d'adjoint administratif de 1re classe dans les conditions définies ci-après.
 
-Les fonctionnaires recrutés dans l'un des grades d'adjoint administratif sont classés dans leur grade respectif conformément aux article 3 à 7 bis du décret n° 2006-227 du 24 février 2006 modifié relatif à l'organisation des carrières des fonctionnaires de catégorie C.
+Les fonctionnaires recrutés dans l'un des grades d'adjoint administratif sont classés dans leur grade respectif conformément aux articles 3 à 7-1 du décret n° 2006-227 du 24 février 2006 modifié relatif à l'organisation des carrières des fonctionnaires de catégorie C.
 
 II.-Les recrutements dans le grade d'adjoint administratif de 2e classe font l'objet d'une publicité préalable qui répond aux conditions suivantes :
 
-Les avis de recrutement sont affichés, deux mois au moins avant la date limite de dépôt des candidatures, dans les locaux de l'établissement et dans ceux de la préfecture et des sous-préfectures du ou des départements. Ils peuvent également être affichés dans les agences locales pour l'emploi de l'     institution mentionnée à l'article L. 5312-1 du code du travail  situées dans les mêmes départements. Ces avis précisent le nombre de postes à pourvoir ainsi que la date limite de dépôt des candidatures et mentionnent que seuls seront convoqués à l'entretien prévu ci-dessous les candidats préalablement retenus par la commission mentionnée au présent article.
+Les avis de recrutement sont affichés, deux mois au moins avant la date limite de dépôt des candidatures, dans les locaux de l'établissement et dans ceux de la préfecture et des sous-préfectures du ou des départements. Ils peuvent également être affichés dans les agences locales pour l'emploi de l'institution mentionnée à l'article L. 5312-1 du code du travail situées dans les mêmes départements. Ces avis précisent le nombre de postes à pourvoir ainsi que la date limite de dépôt des candidatures et mentionnent que seuls seront convoqués à l'entretien prévu ci-dessous les candidats préalablement retenus par la commission mentionnée au présent article.
 
 Ils sont publiés au recueil des actes de la préfecture dans le ou les départements où les postes sont à pourvoir.
 
