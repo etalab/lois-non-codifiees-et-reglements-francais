@@ -1,0 +1,3 @@
+# Article 5
+
+Les arrêtés du 9 août 1968 fixant l'échelonnement indiciaire applicable à certains emplois de l'Institut international d'administration publique, du 8 février 1978 portant modification de l'échelonnement indiciaire des emplois de secrétaire général et d'attaché administratif de l'Ecole nationale d'administration, du 15 mars 1989 fixant l'échelonnement indiciaire applicable à certains emplois de l'Institut international d'administration publique et du 21 octobre 1999 fixant l'échelonnement indiciaire applicable aux emplois de secrétaire général et aux corps d'attachés administratifs de l'Ecole nationale d'administration et de l'Institut international d'administration publique sont abrogés.
