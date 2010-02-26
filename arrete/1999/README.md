@@ -291,7 +291,6 @@
 - [Arrêté du 14 septembre 1999 (DEFP9901917A)](arrete-du-14-septembre-1999-defp9901917a)
 - [Arrêté du 14 septembre 1999 (ECOS9950036A)](arrete-du-14-septembre-1999-ecos9950036a)
 - [Arrêté du 14 septembre 1999 (MENE9901944A)](arrete-du-14-septembre-1999-mene9901944a)
-- [Arrêté du 14 septembre 2001 (MENF0101115A)](arrete-du-14-septembre-2001-menf0101115a)
 - [Arrêté du 14 mai 1999 (ECOS9950019A)](arrete-du-14-mai-1999-ecos9950019a)
 - [Arrêté du 14 mai 1999 (ECOT9920028A)](arrete-du-14-mai-1999-ecot9920028a)
 - [Arrêté du 14 mai 1999 (PRMX9903507A)](arrete-du-14-mai-1999-prmx9903507a)
