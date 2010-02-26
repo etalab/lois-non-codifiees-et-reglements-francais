@@ -1,7 +1,9 @@
 # Article 2
 
-Au sens du présent arrêté, on désigne par :
+Au sens du présent arrêté, que ces interruptions aient été annoncées par le gestionnaire du réseau public de distribution d'électricité ou non, on désigne par :
 
-a) « Coupure longue », toute interruption de l'alimentation électrique d'une durée dépassant trois minutes, que cette interruption ait été annoncée par le gestionnaire du réseau public de distribution d'électricité ou non. Toutefois, les éventuelles coupures longues survenant du fait des manuvres d'exploitation ou des fonctionnements d'automatismes dans l'heure qui suit le début d'une première coupure longue ne sont pas comptabilisées dès lors qu'elles concernent l'incident à l'origine de ladite première coupure longue.
+-" coupure longue ", toute interruption de l'alimentation électrique d'une durée dépassant trois minutes ;
 
-b) « Coupure brève », toute interruption de l'alimentation électrique d'une durée supérieure ou égale à une seconde et ne dépassant pas trois minutes. Toutefois, les éventuelles coupures brèves survenant du fait des manuvres d'exploitation ou des fonctionnements d'automatismes dans l'heure qui suit le début d'une coupure longue ne sont pas comptabilisées dès lors qu'elles concernent l'incident à l'origine de ladite coupure longue.
+-" coupure brève ", toute interruption de l'alimentation électrique d'une durée supérieure ou égale à une seconde et ne dépassant pas trois minutes.
+
+Toutefois, pour les dénombrements des coupures affectant le réseau public de distribution d'électricité qui sont effectués en application des dispositions du chapitre II du titre II du décret du 24 décembre 2007 susvisé et du présent arrêté, il n'est pas tenu compte des éventuelles coupures secondaires survenant mécaniquement du fait des manœuvres normales d'exploitation ou du fonctionnement des protections automatiques du réseau, dès lors que ces coupures secondaires concernent le même incident et qu'elles surviennent moins d'une heure après le début de celui-ci.

@@ -4,7 +4,7 @@ MÉTHODES GÉNÉRALES TYPES D'ÉVALUATION DE LA TENUE GLOBALE DE LA TENSION SUR 
 
 Première méthode :
 
-(La méthode visée ci-dessous est inscrite à titre provisoire jusqu'au 29 décembre 2009. Passée cette date, elle devra avoir fait l'objet d'une complète évaluation par la profession pour être maintenue dans la présente annexe.)
+(La méthode visée ci-dessous est inscrite à titre provisoire jusqu'au 31 décembre 2011.)
 
 La GDO BT, méthode d'évaluation de la tenue globale de la tension sur les réseaux basse tension
 

@@ -2,15 +2,15 @@
 
 RÉPARTITION DES COMMUNES SELON LES ZONES A ET B VISÉES À L'ARTICLE 5
 
-Zone A
+ZONE A
 
 01 - Ain
 
-Beynost, Dagneux, Ferney-Voltaire, La Boisse, Massieux, Miribel, Misérieux, Montluel, Neyron, Ornex, Parcieux, Prévessin-Moëns, Reyrieux, Saint-Didier-de-Formans, Sainte-Euphémie, Saint-Genis-Pouilly, Saint-Maurice-de-Beynost, Sergy, Thoiry, Toussieux, Trévoux.
+Beynost, Dagneux, Ferney-Voltaire, La Boisse, Massieux, Miribel, Misérieux, Montluel, Neyron, Ornex, Parcieux, Prévessin-Moëns, Reyrieux, Saint-Bernard, Saint-Didier-de-Formans, Sainte-Euphémie, Saint-Genis-Pouilly, Saint-Maurice-de-Beynost, Sergy, Thoiry, Toussieux, Trévoux.
 
-06 - Alpes-Maritimes
+06 - Alpes Maritimes
 
-Antibes, Aspremont, Auribeau-sur-Siagne, Beaulieu-sur-Mer, Berre-les-Alpes, Biot, Blausasc, Cabris, Cagnes-sur-Mer, Cannes, Cantaron, Carros, Castagniers, Châteauneuf-Grasse, Châteauneuf-Villevieille, Colomars, Contes, Drap, Falicon, Gattières, Grasse, La Colle-sur-Loup, La Gaude, La Roquette-sur-Siagne, La Trinité, Le Bar-sur-Loup, Le Cannet, Le Rouret, Le Tignet, Mandelieu-la-Napoule, Mouans-Sartoux, Mougins, Nice, Opio, Pégomas, Peymeinade, Roquefort-les-Pins, Saint-André, Saint-Jean-Cap-Ferrat, Saint-Jeannet, Saint-Laurent-du-Var, Saint-Paul, Spéracèdes, Théoule-sur-Mer, Tourrette-Levens, Tourrettes-sur-Loup, Valbonne, Vallauris, Vence, Villefranche-sur-Mer, Villeneuve-Loubet.
+Antibes, Aspremont, Auribeau-sur-Siagne, Beaulieu-sur-Mer, Berre-les-Alpes, Biot, Blausasc, Cabris, Cagnes-sur-Mer, Cannes, Cantaron, Carros, Castagniers, Châteauneuf-Grasse, Châteauneuf-Villevieille, Colomars, Contes, Drap, Falicon, Gattières, Grasse, La Colle-sur-Loup, La Gaude, La Roquette-sur-Siagne, La Trinité, Le Bar-sur-Loup, Le Cannet, Le Rouret, Le Tignet, Mandelieu-la-Napoule, Mouans-Sartoux, Mougins, Nice, Opio, Pégomas, Peymeinade, Roquefort-les-Pins, Saint-André-de-la-Roche, Saint-Jean-Cap-Ferrat, Saint-Jeannet, Saint-Laurent-du-Var, Saint-Paul, Spéracèdes, Théoule-sur-Mer, Tourrette-Levens, Tourrettes-sur-Loup, Valbonne, Vallauris, Vence, Villefranche-sur-Mer, Villeneuve-Loubet.
 
 07 - Ardèche
 
@@ -34,7 +34,7 @@ Angoulême, Fléac, Gond-Pontouvre, La Couronne, Linars, L'Isle-d'Espagnac, Magn
 
 17 - Charente-Maritime
 
-Angoulins, Aytré, Châtelaillon-Plage, La Rochelle, Lagord, Nieul-sur-Mer, Périgny, Puilboreau.
+Angoulins, Aytré, Châtelaillon-Plage, La Rochelle, Lagord, L'Houmeau, Nieul-sur-Mer, Périgny, Puilboreau.
 
 21 - Côte-d'Or
 
@@ -58,11 +58,11 @@ Bernis, Caissargues, Les Angles, Milhaud, Nîmes, Uchaud, Vestric-et-Candiac, Vi
 
 31 - Haute-Garonne
 
-Aucamville, Aussonne, Auzeville-Tolosane, Auzielle, Balma, Beaupuy, Beauzelle, Belberaud, Blagnac, Brax, Bruguières, Castanet-Tolosan, Castelginest, Castelmaurou, Cépet, Colomiers, Cornebarrieu, Cugnaux, Daux, Deyme, Eaunes, Escalquens, Fenouillet, Fonbeauzard, Frouzins, Gagnac-sur-Garonne, Gratentour, La Salvetat-Saint-Gilles, Labarthe-sur-Lèze, Labastide-Saint-Sernin, Labège, Lacroix-Falgarde, Lapeyrouse-Fossat, Launaguet, Léguevin, Lespinasse, L'Union, Mervilla, Mondonville, Montberon, Montrabé, Muret, Péchabou, Pechbonnieu, Pechbusque, Pibrac, Pin-Balma, Pinsaguel, Pins-Justaret, Plaisance-du-Touch, Pompertuzat, Portet-sur-Garonne, Quint-Fonsegrives, Ramonville-Saint-Agne, Roques, Roquettes, Rouffiac-Tolosan, Saint-Alban, Saint-Geniès-Bellevue, Saint-Jean, Saint-Jory, Saint-Loup-Cammas, Saint-Orens-de-Gameville, Saint-Sauveur, Seilh, Seysses, Toulouse, Tournefeuille, Vieille-Toulouse, Vigoulet-Auzil, Villate, Villeneuve-Tolosane.
+Aucamville, Aussonne, Auzeville-Tolosane, Auzielle, Balma, Beaupuy, Beauzelle, Belberaud, Blagnac, Brax, Bruguières, Castanet-Tolosan, Castelginest, Castelmaurou, Cépet, Colomiers, Cornebarrieu, Cugnaux, Daux, Deyme, Eaunes, Escalquens, Fenouillet, Fonbeauzard, Frouzins, Gagnac-sur-Garonne, Gratentour, La Salvetat-Saint-Gilles, Labarthe-sur-Lèze, Labastide-Saint-Sernin, Labège, Lacroix-Falgarde, Lapeyrouse-Fossat, Launaguet, Léguevin, Lespinasse, L'Union, Mervilla, Mondonville, Montberon, Montrabé, Muret, Péchabou, Pechbonnieu, Pechbusque, Pibrac, Pin-Balma, Pinsaguel, Pins-Justaret, Plaisance-du-Touch, Pompertuzat, Portet-sur-Garonne, Quint-Fonsegrives, Ramonville-Saint-Agne, Roques, Roquettes, Rouffiac-Tolosan, Saint-Alban, Saint-Geniès-Bellevue, Saint-Jean, Saint-Jory, Saint-Loup-Cammas, Saint-Orens-de-Gameville, Saint-Sauveur, Saubens, Seilh, Seysses, Toulouse, Tournefeuille, Vieille-Toulouse, Vigoulet-Auzil, Villate, Villeneuve-Tolosane.
 
 33 - Gironde
 
-Ambarès-et-Lagrave, Artigues-près-Bordeaux, Arveyres, Bassens, Bègles, Blanquefort, Bonnetan, Bordeaux, Bouliac, Bruges, Cadaujac, Camblanes-et-Meynac, Canéjan, Carbon-Blanc, Carignan-de-Bordeaux, Cénac, Cenon, Cestas, Eysines, Fargues-Saint-Hilaire, Floirac, Gradignan, Izon, Latresne, Le Bouscat, Le Haillan, Le Pian-Médoc, Le Taillan-Médoc, Léognan, Lignan-de-Bordeaux, Lormont, Mérignac, Montussan, Parempuyre, Pessac, Pompignac, Quinsac, Saint-Aubin-de-Médoc, Sainte-Eulalie, Saint-Jean-d'Illac, Saint-Loubès, Saint-Louis-de-Montferrand, Saint-Médard-en-Jalles, Saint-Sulpice-et-Cameyrac, Saint-Vincent-de-Paul, Salleboeuf, Talence, Tresses, Vayres, Villenave-d'Ornon, Yvrac.
+Ambarès-et-Lagrave, Artigues-près-Bordeaux, Arveyres, Bassens, Bègles, Blanquefort, Bonnetan, Bordeaux, Bouliac, Bruges, Cadaujac, Camblanes-et-Meynac, Canéjan, Carbon-Blanc, Carignan-de-Bordeaux, Cénac, Cenon, Cestas, Eysines, Fargues-Saint-Hilaire, Floirac, Gradignan, Izon, Latresne, Le Bouscat, Le Haillan, Le Pian-Médoc, Le Taillan-Médoc, Léognan, Lignan-de-Bordeaux, Lormont, Martignas-sur-Jalle, Mérignac, Montussan, Parempuyre, Pessac, Pompignac, Quinsac, Saint-Aubin-de-Médoc, Sainte-Eulalie, Saint-Jean-d'Illac, Saint-Loubès, Saint-Louis-de-Montferrand, Saint-Médard-en-Jalles, Saint-Sulpice-et-Cameyrac, Saint-Vincent-de-Paul, Salleboeuf, Talence, Tresses, Vayres, Villenave-d'Ornon, Yvrac.
 
 34 - Hérault
 
@@ -78,7 +78,7 @@ Ballan-Miré, Chambray-lès-Tours, Fondettes, Joué-lès-Tours, La Membrolle-sur
 
 38 - Isère
 
-Biviers, Bresson, Chasse-sur-Rhône, Claix, Corenc, Domène, Echirolles, Eybens, Fontaine, Fontanil-Cornillon, Froges, Gières, Grenoble, La Pierre, La Tronche, Le Champ-près-Froges, Le Pont-de-Claix, Le Versoud, Meylan, Montbonnot-Saint-Martin, Murianette, Noyarey, Poisat, Saint-Egrève, Saint-Ismier, Saint-Martin-d'Hères, Saint-Martin-le-Vinoux, Saint-Nazaire-les-Eymes, Sassenage, Seyssinet-Pariset, Seyssins, Varces-Allières-et-Risset, Veurey-Voroize, Villard-Bonnot, Voreppe.
+Biviers, Bresson, Chasse-sur-Rhône, Claix, Corenc, Domène, Echirolles, Eybens, Fontaine, Fontanil-Cornillon, Froges, Gières, Grenoble, La Pierre, La Tronche, Le Champ-près-Froges, Le Pont-de-Claix, Le Versoud, Meylan, Montbonnot-Saint-Martin, Murianette, Noyarey, Poisat, Saint-Egrève, Saint-Ismier, Saint-Martin-d'Hères, Saint-Martin-le-Vinoux, Saint-Nazaire-les-Eymes, Sassenage, Seyssinet-Pariset, Seyssins, Varces-Allières-et-Risset, Venon, Veurey-Voroize, Villard-Bonnot, Voreppe.
 
 40 - Landes
 
@@ -122,11 +122,11 @@ Algrange, Amnéville, Ancy-sur-Moselle, Ars-sur-Moselle, Augny, Bronvaux, Châte
 
 59 - Nord
 
-Abscon, Anhiers, Aniche, Anstaing, Anzin, Auberchicourt, Aubry-du-Hainaut, Auby, Aulnoy-lez-Valenciennes, Baisieux, Bauvin, Bellaing, Beuvrages, Bondues, Bouchain, Bourghelles, Bousbecque, Bouvines, Bruay-sur-l'Escaut, Bruille-lez-Marchiennes, Bruille-Saint-Amand, Capinghem, Cappelle-la-Grande, Chéreng, Comines, Condé-sur-l'Escaut, Coudekerque-Branche, Courchelettes, Crespin, Croix, Cuincy, Cysoing, Dechy, Denain, Douai, Douchy-les-Mines, Dunkerque, Ecaillon, Emerchicourt, Emmerin, Englos, Erre, Escaudain, Escautpont, Esquerchin, Faches-Thumesnil, Famars, Fenain, Flers-en-Escrebieux, Forest-sur-Marque, Fort-Mardyck, Fresnes-sur-Escaut, Grande-Synthe, Grand-Fort-Philippe, Gravelines, Gruson, Guesnain, Hallennes-lez-Haubourdin, Halluin, Haubourdin, Haulchin, Hélesmes, Hem, Hergnies, Hérin, Hornaing, La Bassée, La Madeleine, La Neuville, La Sentinelle, Lallaing, Lambersart, Lambres-lez-Douai, Lannoy, Lauwin-Planque, Lecelles, Leers, Leffrinckoucke, Lesquin, Lewarde, Lezennes, Lieu-Saint-Amand, Lille, Linselles, Lompret, Loon-Plage, Loos, Lourches, Louvil, Lys-lez-Lannoy, Maing, Marcq-en-Barul, Marly, Marquette-lez-Lille, Masny, Millonfosse, Moncheaux, Mons-en-Barul, Montigny-en-Ostrevent, Mouvaux, Neuville-en-Ferrain, Neuville-sur-Escaut, Nivelle, Noyelles-lès-Seclin, Odomez, Oisy, Onnaing, Ostricourt, Pecquencourt, Pérenchies, Petite-Forêt, Prémesques, Prouvy, Provin, Quarouble, Quiévrechain, Râches, Raimbeaucourt, Raismes, Rieulay, Roeulx, Ronchin, Roncq, Roost-Warendin, Roubaix, Rouvignies, Sailly-lez-Lannoy, Sainghin-en-Mélantois, Saint-Amand-les-Eaux, Saint-André-lez-Lille, Saint-Pol-sur-Mer, Saint-Saulve, Santes, Saultain, Seclin, Sequedin, Sin-le-Noble, Somain, Templemars, Téteghem, Thiant, Thumeries, Toufflers, Tourcoing, Tressin, Trith-Saint-Léger, Valenciennes, Vendeville, Verlinghem, Vicq, Vieux-Condé, Villeneuve-d'Ascq, Wahagnies, Wallers, Wambrechies, Wasquehal, Wattignies, Wattrelos, Wavrechain-sous-Denain, Waziers, Wervicq-Sud, Willems.
+Abscon, Anhiers, Aniche, Anstaing, Anzin, Auberchicourt, Aubry-du-Hainaut, Auby, Aulnoy-lez-Valenciennes, Baisieux, Bauvin, Bellaing, Beuvrages, Bondues, Bouchain, Bourghelles, Bousbecque, Bouvines, Bruay-sur-l'Escaut, Bruille-lez-Marchiennes, Bruille-Saint-Amand, Capinghem, Cappelle-la-Grande, Chéreng, Comines, Condé-sur-l'Escaut, Coudekerque-Branche, Courchelettes, Crespin, Croix, Cuincy, Cysoing, Dechy, Denain, Douai, Douchy-les-Mines, Dunkerque, Ecaillon, Emerchicourt, Emmerin, Englos, Erre, Escaudain, Escautpont, Esquerchin, Faches-Thumesnil, Famars, Fenain, Flers-en-Escrebieux, Forest-sur-Marque, Fort-Mardyck, Fresnes-sur-Escaut, Grande-Synthe, Grand-Fort-Philippe, Gravelines, Gruson, Guesnain, Hallennes-lez-Haubourdin, Halluin, Haubourdin, Haulchin, Haveluy, Hélesmes, Hem, Hergnies, Hérin, Hornaing, La Bassée, La Madeleine, La Neuville, La Sentinelle, Lallaing, Lambersart, Lambres-lez-Douai, Lannoy, Lauwin-Planque, Lecelles, Leers, Leffrinckoucke, Lesquin, Lewarde, Lezennes, Lieu-Saint-Amand, Lille, Linselles, Loffre, Lompret, Loon-Plage, Loos, Lourches, Louvil, Lys-lez-Lannoy, Maing, Marcq-en-Barœul, Marly, Marquette-lez-Lille, Masny, Millonfosse, Moncheaux, Mons-en-Barœul, Montigny-en-Ostrevent, Mouvaux, Neuville-en-Ferrain, Neuville-sur-Escaut, Nivelle, Noyelles-lès-Seclin, Odomez, Oisy, Onnaing, Ostricourt, Pecquencourt, Pérenchies, Petite-Forêt, Prémesques, Prouvy, Provin, Quarouble, Quiévrechain, Râches, Raimbeaucourt, Raismes, Rieulay, Roeulx, Ronchin, Roncq, Roost-Warendin, Roubaix, Rouvignies, Sailly-lez-Lannoy, Sainghin-en-Mélantois, Saint-Amand-les-Eaux, Saint-André-lez-Lille, Saint-Pol-sur-Mer, Saint-Saulve, Santes, Saultain, Seclin, Sequedin, Sin-le-Noble, Somain, Templemars, Téteghem, Thiant, Thumeries, Toufflers, Tourcoing, Tressin, Trith-Saint-Léger, Valenciennes, Vendeville, Verlinghem, Vicq, Vieux-Condé, Villeneuve-d'Ascq, Wahagnies, Wallers, Wambrechies, Wasquehal, Wattignies, Wattrelos, Wavrechain-sous-Denain, Waziers, Wervicq-Sud, Willems.
 
 62 - Pas-de-Calais
 
-Ablain-Saint-Nazaire, Aix-Noulette, Allouagne, Angres, Annay, Annequin, Annezin, Auchel, Auchy-les-Mines, Avion, Barlin, Bénifontaine, Béthune, Beugin, Beuvry, Billy-Berclau, Billy-Montigny, Bois-Bernard, Bouvigny-Boyeffles, Brebières, Bruay-la-Buissière, Bully-les-Mines, Burbure, Calais, Calonne-Ricouart, Camblain-Châtelain, Cambrin, Carvin, Cauchy-à-la-Tour, Chocques, Coquelles, Corbehem, Coulogne, Courcelles-lès-Lens, Courrières, Cuinchy, Divion, Dourges, Douvrin, Drocourt, Drouvin-le-Marais, Ecquedecques, Eleu-dit-Leauwette, Essars, Estevelles, Evin-Malmaison, Festubert, Fouquereuil, Fouquières-lès-Béthune, Fouquières-lès-Lens, Givenchy-en-Gohelle, Givenchy-lès-la-Bassée, Gonnehem, Gosnay, Grenay, Guînes, Haillicourt, Haisnes, Hames-Boucres, Harnes, Hénin-Beaumont, Hersin-Coupigny, Hesdigneul-lès-Béthune, Hinges, Houdain, Hulluch, Labeuvrière, Labourse, Lapugnoy, Leforest, Lens, Libercourt, Liévin, Lillers, Loison-sous-Lens, Loos-en-Gohelle, Lozinghem, Maisnil-lès-Ruitz, Marck, Marles-les-Mines, Mazingarbe, Méricourt, Meurchin, Montigny-en-Gohelle, Nux-les-Mines, Noyelles-Godault, Noyelles-lès-Vermelles, Noyelles-sous-Lens, Oblinghem, Oignies, Pont-à-Vendin, Rebreuve-Ranchicourt, Rouvroy, Ruitz, Sailly-Labourse, Sains-en-Gohelle, Sallaumines, Sangatte, Souchez, Vaudricourt, Vendin-lès-Béthune, Vendin-le-Vieil, Vermelles, Verquin, Violaines, Vitry-en-Artois, Wingles.
+Ablain-Saint-Nazaire, Aix-Noulette, Allouagne, Angres, Annay, Annequin, Annezin, Auchel, Auchy-les-Mines, Avion, Barlin, Bénifontaine, Béthune, Beugin, Beuvry, Billy-Berclau, Billy-Montigny, Bois-Bernard, Bouvigny-Boyeffles, Brebières, Bruay-la-Buissière, Bully-les-Mines, Burbure, Calais, Calonne-Ricouart, Camblain-Châtelain, Cambrin, Carvin, Cauchy-à-la-Tour, Chocques, Coquelles, Corbehem, Coulogne, Courcelles-lès-Lens, Courrières, Cuinchy, Divion, Dourges, Douvrin, Drocourt, Drouvin-le-Marais, Ecquedecques, Eleu-dit-Leauwette, Essars, Estevelles, Evin-Malmaison, Festubert, Fouquereuil, Fouquières-lès-Béthune, Fouquières-lès-Lens, Givenchy-en-Gohelle, Givenchy-lès-la-Bassée, Gonnehem, Gosnay, Grenay, Guînes, Haillicourt, Haisnes, Hames-Boucres, Harnes, Hénin-Beaumont, Hersin-Coupigny, Hesdigneul-lès-Béthune, Hinges, Houchin, Houdain, Hulluch, Labeuvrière, Labourse, Lapugnoy, Leforest, Lens, Libercourt, Liévin, Lillers, Loison-sous-Lens, Loos-en-Gohelle, Lozinghem, Maisnil-lès-Ruitz, Marck, Marles-les-Mines, Mazingarbe, Méricourt, Meurchin, Montigny-en-Gohelle, Noeux-les-Mines, Noyelles-Godault, Noyelles-lès-Vermelles, Noyelles-sous-Lens, Oblinghem, Oignies, Pont-à-Vendin, Rebreuve-Ranchicourt, Rouvroy, Ruitz, Sailly-Labourse, Sains-en-Gohelle, Sallaumines, Sangatte, Souchez, Vaudricourt, Vendin-lès-Béthune, Vendin-le-Vieil, Vermelles, Verquin, Violaines, Vitry-en-Artois, Wingles.
 
 63 - Puy-de-Dôme
 
@@ -134,7 +134,7 @@ Aubière, Aulnat, Beaumont, Blanzat, Cébazat, Ceyrat, Chamalières, Châteaugay
 
 64 - Pyrénées-Atlantiques
 
-Ahetze, Angaïs, Anglet, Arbonne, Arcangues, Aressy, Arros-de-Nay, Artiguelouve, Assat, Aussevielle, Baliros, Bassussarry, Baudreix, Bayonne, Bénéjacq, Biarritz, Bidart, Billère, Bizanos, Boeil-Bezing, Bordères, Bordes, Boucau, Bourdettes, Buros, Ciboure, Coarraze, Denguin, Gan, Gelos, Guéthary, Idron, Igon, Jurançon, Lagos, Lahonce, Laroin, Lée, Lescar, Lons, Maucor, Mazères-Lezons, Meillon, Mirepeix, Montardon, Morlaàs, Mouguerre, Narcastet, Navailles-Angos, Nay, Pardies-Piétat, Pau, Poey-de-Lescar, Rontignon, Saint-Abit, Saint-Jean-de-Luz, Saint-Pierre-d'Irube, Sauvagnon, Serres-Castet, Serres-Morlaàs, Siros, Urcuit, Urrugne, Uzos, Villefranque.
+Ahetze, Angaïs, Anglet, Arbonne, Arcangues, Aressy, Arros-de-Nay, Artiguelouve, Assat, Aussevielle, Baliros, Bassussarry, Baudreix, Bayonne, Bénéjacq, Biarritz, Bidart, Billère, Bizanos, Boeil-Bezing, Bordères, Bordes, Boucau, Bourdettes, Buros, Ciboure, Coarraze, Denguin, Gan, Gelos, Guéthary, Idron, Igon, Jurançon, Lagos, Lahonce, Laroin, Lée, Lescar, Lons, Maucor, Mazères-Lezons, Meillon, Mirepeix, Montardon, Morlaàs, Mouguerre, Narcastet, Navailles-Angos, Nay, Ousse, Pardies-Piétat, Pau, Poey-de-Lescar, Rontignon, Saint-Abit, Saint-Jean-de-Luz, Saint-Pierre-d'Irube, Sauvagnon, Sendets, Serres-Castet, Serres-Morlaàs, Siros, Urcuit, Urrugne, Uzos, Villefranque.
 
 66 - Pyrénées-Orientales
 
@@ -142,7 +142,7 @@ Baho, Bompas, Cabestany, Canohès, Le Soler, Perpignan, Peyrestortes, Pia, Rives
 
 67 - Bas-Rhin
 
-Achenheim, Bischheim, Eckbolsheim, Geispolsheim, Hnheim, Illkirch-Graffenstaden, Lampertheim, Lingolsheim, Mittelhausbergen, Mundolsheim, Niederhausbergen, Oberhausbergen, Oberschaeffolsheim, Ostwald, Reichstett, Schiltigheim, Souffelweyersheim, Strasbourg, Vendenheim, Wolfisheim.
+Achenheim, Bischheim, Eckbolsheim, Geispolsheim, Hoenheim, Illkirch-Graffenstaden, Lampertheim, Lingolsheim, Mittelhausbergen, Mundolsheim, Niederhausbergen, Oberhausbergen, Oberschaeffolsheim, Ostwald, Reichstett, Schiltigheim, Souffelweyersheim, Strasbourg, Vendenheim, Wolfisheim.
 
 68 - Haut-Rhin
 
@@ -150,7 +150,7 @@ Baldersheim, Brunstatt, Didenheim, Habsheim, Illzach, Kingersheim, Lutterbach, M
 
 69 - Rhône
 
-Albigny-sur-Saône, Ambérieux, Anse, Belmont-d'Azergues, Brignais, Brindas, Bron, Cailloux-sur-Fontaines, Caluire-et-Cuire, Champagne-au-Mont-d'Or, Chaponost, Charbonnières-les-Bains, Charly, Chasselay, Chassieu, Chazay-d'Azergues, Civrieux-d'Azergues, Collonges-au-Mont-d'Or, Communay, Corbas, Couzon-au-Mont-d'Or, Craponne, Curis-au-Mont-d'Or, Dardilly, Décines-Charpieu, Dommartin, Ecully, Feyzin, Fleurieu-sur-Saône, Fontaines-Saint-Martin, Fontaines-sur-Saône, Francheville, Genas, Genay, Givors, Grézieu-la-Varenne, Grigny, Irigny, Jonage, La Mulatière, La Tour-de-Salvagny, Lentilly, Les Chères, Limonest, Lissieu, Loire-sur-Rhône, Lozanne, Lucenay, Lyon, Marcilly-d'Azergues, Marcy-l'Etoile, Meyzieu, Millery, Mions, Montagny, Montanay, Morancé, Neuville-sur-Saône, Orliénas, Oullins, Pierre-Bénite, Rillieux-la-Pape, Rochetaillée-sur-Saône, Saint-Cyr-au-Mont-d'Or, Saint-Didier-au-Mont-d'Or, Sainte-Consorce, Sainte-Foy-lès-Lyon, Saint-Fons, Saint-Genis-Laval, Saint-Genis-les-Ollières, Saint-Jean-des-Vignes, Saint-Priest, Saint-Romain-au-Mont-d'Or, Saint-Symphorien-d'Ozon, Sathonay-Camp, Sathonay-Village, Sérézin-du-Rhône, Solaize, Tassin-la-Demi-Lune, Ternay, Vaugneray, Vaulx-en-Velin, Vénissieux, Vernaison, Villeurbanne, Vourles.
+Albigny-sur-Saône, Ambérieux, Anse, Belmont-d'Azergues, Brignais, Brindas, Bron, Cailloux-sur-Fontaines, Caluire-et-Cuire, Champagne-au-Mont-d'Or, Chaponost, Charbonnières-les-Bains, Charly, Chasselay, Chassieu, Chazay-d'Azergues, Civrieux-d'Azergues, Collonges-au-Mont-d'Or, Communay, Corbas, Couzon-au-Mont-d'Or, Craponne, Curis-au-Mont-d'Or, Dardilly, Décines-Charpieu, Dommartin, Ecully, Feyzin, Fleurieu-sur-Saône, Fontaines-Saint-Martin, Fontaines-sur-Saône, Francheville, Genas, Genay, Givors, Grézieu-la-Varenne, Grigny, Irigny, Jonage, La Mulatière, La Tour-de-Salvagny, Lentilly, Les Chères, Limonest, Lissieu, Loire-sur-Rhône, Lozanne, Lucenay, Lyon, Marcilly-d'Azergues, Marcy-l'Etoile, Meyzieu, Millery, Mions, Montagny, Montanay, Morancé, Neuville-sur-Saône, Orliénas, Oullins, Pierre-Bénite, Poleymieux-au-Mont-d'Or, Pollionnay, Quincieux, Rillieux-la-Pape, Rochetaillée-sur-Saône, Saint-Cyr-au-Mont-d'Or, Saint-Didier-au-Mont-d'Or, Sainte-Consorce, Sainte-Foy-lès-Lyon, Saint-Fons, Saint-Genis-Laval, Saint-Genis-les-Ollières, Saint-Germain-au-Mont-d'Or, Saint-Jean-des-Vignes, Saint-Priest, Saint-Romain-au-Mont-d'Or, Saint-Symphorien-d'Ozon, Sathonay-Camp, Sathonay-Village, Sérézin-du-Rhône, Solaize, Tassin-la-Demi-Lune, Ternay, Vaugneray, Vaulx-en-Velin, Vénissieux, Vernaison, Villeurbanne, Vourles.
 
 72 - Sarthe
 
@@ -174,11 +174,11 @@ Amfreville-la-Mi-Voie, Belbeuf, Bihorel, Bois-Guillaume, Bonsecours, Boos, Cante
 
 77 - Seine-et-Marne
 
-Boissettes, Boissise-le-Roi, Brou-sur-Chantereine, Bussy-Saint-Georges, Bussy-Saint-Martin, Carnetin, Cesson, Chalifert, Champs-sur-Marne, Chanteloup-en-Brie, Chelles, Chessy, Collégien, Combs-la-Ville, Conches-sur-Gondoire, Courtry, Croissy-Beaubourg, Dammarie-les-Lys, Dampmart, Emerainville, Gouvernes, Guermantes, La Rochette, Lagny-sur-Marne, Le Mée-sur-Seine, Lésigny, Livry-sur-Seine, Lognes, Melun, Mitry-Mory, Montévrain, Nandy, Noisiel, Pomponne, Pontault-Combault, Pringy, Roissy-en-Brie, Rubelles, Saint-Fargeau-Ponthierry, Saint-Thibault-des-Vignes, Savigny-le-Temple, Servon, Thorigny-sur-Marne, Torcy, Vaires-sur-Marne, Vaux-le-Pénil, Vert-Saint-Denis, Villeparisis.
+Boissettes, Boissise-la-Bertrand, Boissise-le-Roi, Brou-sur-Chantereine, Bussy-Saint-Georges, Bussy-Saint-Martin, Carnetin, Cesson, Chalifert, Champs-sur-Marne, Chanteloup-en-Brie, Chelles, Chessy, Collégien, Combs-la-Ville, Conches-sur-Gondoire, Courtry, Croissy-Beaubourg, Dammarie-les-Lys, Dampmart, Emerainville, Gouvernes, Guermantes, La Rochette, Lagny-sur-Marne, Le Mée-sur-Seine, Lésigny, Livry-sur-Seine, Lognes, Melun, Mitry-Mory, Montévrain, Nandy, Noisiel, Pomponne, Pontault-Combault, Pringy, Roissy-en-Brie, Rubelles, Saint-Fargeau-Ponthierry, Saint-Thibault-des-Vignes, Savigny-le-Temple, Seine-Port, Servon, Thorigny-sur-Marne, Torcy, Vaires-sur-Marne, Vaux-le-Pénil, Vert-Saint-Denis, Villeparisis.
 
 78 - Yvelines
 
-Achères, Aigremont, Andrésy, Bazoches-sur-Guyonne, Bois-d'Arcy, Bougival, Buc, Buchelay, Carrières-sous-Poissy, Carrières-sur-Seine, Chambourcy, Chanteloup-les-Vignes, Chapet, Chatou, Chevreuse, Coignières, Conflans-Sainte-Honorine, Croissy-sur-Seine, Elancourt, Evecquemont, Follainville-Dennemont, Fontenay-le-Fleury, Fourqueux, Gaillon-sur-Montcient, Gargenville, Guyancourt, Hardricourt, Houilles, Issou, Jouars-Pontchartrain, Jouy-en-Josas, Juziers, La Celle-Saint-Cloud, La Verrière, Le Chesnay, Le Mesnil-le-Roi, Le Mesnil-Saint-Denis, Le Pecq, Le Port-Marly, Le Tremblay-sur-Mauldre, Le Vésinet, Les Clayes-sous-Bois, Les Loges-en-Josas, Les Mureaux, L'Etang-la-Ville, Limay, Louveciennes, Magnanville, Magny-les-Hameaux, Maisons-Laffitte, Mantes-la-Jolie, Mantes-la-Ville, Mareil-Marly, Marly-le-Roi, Maurecourt, Maurepas, Médan, Meulan, Mézy-sur-Seine, Montesson, Montigny-le-Bretonneux, Neauphle-le-Château, Neauphle-le-Vieux, Orgeval, Plaisir, Poissy, Porcheville, Rocquencourt, Saint-Cyr-l'Ecole, Saint-Germain-en-Laye, Saint-Rémy-lès-Chevreuse, Saint-Rémy-l'Honoré, Sartrouville, Trappes, Triel-sur-Seine, Vaux-sur-Seine, Vélizy-Villacoublay, Verneuil-sur-Seine, Vernouillet, Versailles, Villennes-sur-Seine, Villepreux, Villiers-Saint-Fréderic, Viroflay, Voisins-le-Bretonneux.
+Achères, Aigremont, Andrésy, Bazoches-sur-Guyonne, Bois-d'Arcy, Bougival, Buc, Buchelay, Carrières-sous-Poissy, Carrières-sur-Seine, Chambourcy, Chanteloup-les-Vignes, Chapet, Châteaufort, Chatou, Chevreuse, Coignières, Conflans-Sainte-Honorine, Croissy-sur-Seine, Elancourt, Evecquemont, Follainville-Dennemont, Fontenay-le-Fleury, Fourqueux, Gaillon-sur-Montcient, Gargenville, Guyancourt, Hardricourt, Houilles, Issou, Jouars-Pontchartrain, Jouy-en-Josas, Juziers, La Celle-Saint-Cloud, La Verrière, Le Chesnay, Le Mesnil-le-Roi, Le Mesnil-Saint-Denis, Le Pecq, Le Port-Marly, Le Tremblay-sur-Mauldre, Le Vésinet, Les Clayes-sous-Bois, Les Loges-en-Josas, Les Mureaux, L'Etang-la-Ville, Limay, Louveciennes, Magnanville, Magny-les-Hameaux, Maisons-Laffitte, Mantes-la-Jolie, Mantes-la-Ville, Mareil-Marly, Marly-le-Roi, Maurecourt, Maurepas, Médan, Meulan, Mézy-sur-Seine, Montesson, Montigny-le-Bretonneux, Neauphle-le-Château, Neauphle-le-Vieux, Orgeval, Plaisir, Poissy, Porcheville, Rocquencourt, Saint-Cyr-l'Ecole, Saint-Germain-en-Laye, Saint-Rémy-lès-Chevreuse, Saint-Rémy-l'Honoré, Sartrouville, Toussus-le-Noble, Trappes, Triel-sur-Seine, Vaux-sur-Seine, Vélizy-Villacoublay, Verneuil-sur-Seine, Vernouillet, Versailles, Villennes-sur-Seine, Villepreux, Villiers-Saint-Fréderic, Viroflay, Voisins-le-Bretonneux.
 
 80 - Somme
 
@@ -202,7 +202,7 @@ Condat-sur-Vienne, Couzeix, Feytiat, Isle, Le Palais-sur-Vienne, Limoges, Panazo
 
 91 - Essonne
 
-Arpajon, Athis-Mons, Ballainvilliers, Bièvres, Boissy-sous-Saint-Yon, Bondoufle, Boussy-Saint-Antoine, Brétigny-sur-Orge, Breuillet, Breux-Jouy, Brunoy, Bruyères-le-Châtel, Bures-sur-Yvette, Champlan, Chilly-Mazarin, Corbeil-Essonnes, Courcouronnes, Crosne, Draveil, Egly, Epinay-sous-Sénart, Epinay-sur-Orge, Etiolles, Evry, Fleury-Mérogis, Fontenay-le-Vicomte, Gif-sur-Yvette, Gometz-le-Châtel, Grigny, Igny, Juvisy-sur-Orge, La Norville, La Ville-du-Bois, Le Coudray-Montceaux, Le Plessis-Pâté, Les Ulis, Leuville-sur-Orge, Linas, Lisses, Longjumeau, Longpont-sur-Orge, Marcoussis, Massy, Mennecy, Montgeron, Montlhéry, Morangis, Morsang-sur-Orge, Morsang-sur-Seine, Ollainville, Ormoy, Orsay, Palaiseau, Paray-Vieille-Poste, Quincy-sous-Sénart, Ris-Orangis, Saclay, Sainte-Geneviève-des-Bois, Saint-Germain-lès-Arpajon, Saint-Germain-lès-Corbeil, Saint-Michel-sur-Orge, Saint-Pierre-du-Perray, Saintry-sur-Seine, Saint-Yon, Saulx-les-Chartreux, Savigny-sur-Orge, Soisy-sur-Seine, Varennes-Jarcy, Vauhallan, Verrières-le-Buisson, Vigneux-sur-Seine, Villabé, Villebon-sur-Yvette, Villemoisson-sur-Orge, Villiers-sur-Orge, Viry-Châtillon, Wissous, Yerres.
+Arpajon, Athis-Mons, Ballainvilliers, Bièvres, Boissy-sous-Saint-Yon, Bondoufle, Boussy-Saint-Antoine, Brétigny-sur-Orge, Breuillet, Breux-Jouy, Brunoy, Bruyères-le-Châtel, Bures-sur-Yvette, Champlan, Chilly-Mazarin, Corbeil-Essonnes, Courcouronnes, Crosne, Draveil, Egly, Epinay-sous-Sénart, Epinay-sur-Orge, Etiolles, Evry, Fleury-Mérogis, Fontenay-le-Vicomte, Gif-sur-Yvette, Gometz-le-Châtel, Grigny, Igny, Juvisy-sur-Orge, La Norville, La Ville-du-Bois, Le Coudray-Montceaux, Le Plessis-Pâté, Les Ulis, Leuville-sur-Orge, Linas, Lisses, Longjumeau, Longpont-sur-Orge, Marcoussis, Massy, Mennecy, Montgeron, Montlhéry, Morangis, Morsang-sur-Orge, Morsang-sur-Seine, Nozay, Ollainville, Ormoy, Orsay, Palaiseau, Paray-Vieille-Poste, Quincy-sous-Sénart, Ris-Orangis, Saclay, Sainte-Geneviève-des-Bois, Saint-Aubin, Saint-Germain-lès-Arpajon, Saint-Germain-lès-Corbeil, Saint-Michel-sur-Orge, Saint-Pierre-du-Perray, Saintry-sur-Seine, Saint-Yon, Saulx-les-Chartreux, Savigny-sur-Orge, Soisy-sur-Seine, Varennes-Jarcy, Vauhallan, Verrières-le-Buisson, Vigneux-sur-Seine, Villabé, Villebon-sur-Yvette, Villejust, Villemoisson-sur-Orge, Villiers-le-Bâcle, Villiers-sur-Orge, Viry-Châtillon, Wissous, Yerres.
 
 92 - Hauts-de-Seine
 
@@ -240,7 +240,7 @@ Champtercier, Digne-les-Bains, Manosque, Pierrevert, Sainte-Tulle.
 
 05 - Haute-Alpes
 
-Briançon, Gap, La Salle-les-Alpes, Puy-Saint-Pierre, Saint-Chaffrey, Villar-Saint-Pancrace.
+Briançon, Gap, La Salle les Alpes, Puy-Saint-Pierre, Saint-Chaffrey, Villar-Saint-Pancrace.
 
 06 - Alpes-Maritimes
 
@@ -272,7 +272,7 @@ Aubin, Cransac, Creissels, Decazeville, Firmi, Le Monastère, Millau, Olemps, On
 
 13 - Bouches-du-Rhône
 
-Arles, Carry-le-Rouet, Fos-sur-Mer, Grans, Istres, La Barben, Miramas, Pélissanne, Peynier, Plan-d'Orgon, Saint-Chamas, Saint-Martin-de-Crau, Salon-de-Provence, Sausset-les-Pins, Tarascon, Trets.
+Arles, Belcodène, Carry-le-Rouet, Ensuès-la-Redonne, Fos-sur-Mer, Grans, Istres, La Barben, Le Rove, Miramas, Pélissanne, Peynier, Plan-d'Orgon, Port-Saint-Louis-du-Rhône, Saint-Chamas, Saint-Martin-de-Crau, Saint-Mitre-les-Remparts, Salon-de-Provence, Sausset-les-Pins, Tarascon, Trets.
 
 14 - Calvados
 
@@ -312,7 +312,7 @@ Guéret.
 
 24 - Dordogne
 
-Bassilac, Beauregard-de-Terrasson, Bergerac, Boulazac, Champcevinel, Chancelade, Condat-sur-Vézère, Coulounieix-Chamiers, Cours-de-Pile, Creysse, Gardonne, Ginestet, La Feuillade, La Force, Lamonzie-Saint-Martin, Le Lardin-Saint-Lazare, Le Pizou, Lembras, Marsac-sur-l'Isle, Ménesplet, Montpon-Ménestérol, Mouleydier, Moulin-Neuf, Notre-Dame-de-Sanilhac, Pazayac, Périgueux, Port-Sainte-Foy-et-Ponchapt, Prigonrieux, Saint-Antoine-de-Breuilh, Saint-Germain-et-Mons, Saint-Laurent-des-Vignes, Saint-Nexans, Saint-Pierre-d'Eyraud, Saint-Sauveur, Terrasson-Lavilledieu, Trélissac.
+Bassillac, Beauregard-de-Terrasson, Bergerac, Boulazac, Champcevinel, Chancelade, Condat-sur-Vézère, Coulounieix-Chamiers, Cours-de-Pile, Creysse, Gardonne, Ginestet, La Feuillade, La Force, Lamonzie-Saint-Martin, Le Lardin-Saint-Lazare, Le Pizou, Lembras, Marsac-sur-l'Isle, Ménesplet, Montpon-Ménestérol, Mouleydier, Moulin-Neuf, Notre-Dame-de-Sanilhac, Pazayac, Périgueux, Port-Sainte-Foy-et-Ponchapt, Prigonrieux, Saint-Antoine-de-Breuilh, Saint-Germain-et-Mons, Saint-Laurent-des-Vignes, Saint-Nexans, Saint-Pierre-d'Eyraud, Saint-Sauveur, Terrasson-Lavilledieu, Trélissac.
 
 25 - Doubs
 
@@ -356,7 +356,7 @@ Agde, Balaruc-les-Bains, Balaruc-le-Vieux, Béziers, Boujan-sur-Libron, Frontign
 
 35 - Ille-et-Vilaine
 
-Beaucé, Betton, Chevaigné, Dinard, Fougères, Javené, La Richardais, Lécousse, Pleurtuit, Pont-Péan, Redon, Saint-Briac-sur-Mer, Saint-Lunaire, Saint-Malo, Vitré.
+Beaucé, Betton, Chevaigné, Dinard, Fougères, Javené, La Richardais, Lécousse, Pleurtuit, Redon, Saint-Briac-sur-Mer, Saint-Lunaire, Saint-Malo, Vitré.
 
 36 - Indre
 
@@ -444,7 +444,7 @@ Allaire, Auray, Brech, Gâvres, Hennebont, Inzinzac-Lochrist, Locmiquélic, Plun
 
 57 - Moselle
 
-Audun-le-Tiche, Behren-lès-Forbach, Béning-lès-Saint-Avold, Betting-lès-Saint-Avold, Blies-Ebersing, Buhl-Lorraine, Carling, Cocheren, Créhange, Creutzwald, Etzling, Faulquemont, Flétrange, Folschviller, Forbach, Freyming-Merlebach, Hambach, Ham-sous-Varsberg, Hombourg-Haut, Kerbach, L'Hôpital, Macheren, Morsbach, Neufgrange, ting, Petite-Rosselle, Rédange, Réding, Rémelfing, Rosbruck, Russange, Saint-Avold, Sarrebourg, Sarreguemines, Sarreinsming, Spicheren, Stiring-Wendel, Valmont, Varsberg.
+Audun-le-Tiche, Behren-lès-Forbach, Béning-lès-Saint-Avold, Betting, Blies-Ebersing, Buhl-Lorraine, Carling, Cocheren, Créhange, Creutzwald, Etzling, Faulquemont, Flétrange, Folschviller, Forbach, Freyming-Merlebach, Hambach, Ham-sous-Varsberg, Hombourg-Haut, Kerbach, L'Hôpital, Macheren, Morsbach, Neufgrange, OEting, Petite-Rosselle, Rédange, Réding, Rémelfing, Rosbruck, Russange, Saint-Avold, Sarrebourg, Sarreguemines, Sarreinsming, Spicheren, Stiring-Wendel, Valmont, Varsberg.
 
 58 - Nièvre
 
@@ -452,11 +452,11 @@ Challuy, Cosne-Cours-sur-Loire, Coulanges-lès-Nevers, Nevers, Saint-Père, Serm
 
 59 - Nord
 
-Allennes-les-Marais, Annoeullin, Armentières, Assevent, Aulnoye-Aymeries, Bachant, Bailleul, Bergues, Berlaimont, Béthencourt, Bierne, Borre, Boussières-sur-Sambre, Boussois, Cambrai, Caudry, Don, Eclaibes, Erquinghem-Lys, Escauduvres, Estaires, Feignies, Ferrière-la-Grande, Fourmies, Frelinghien, Hautmont, Hazebrouck, Houplines, Hoymille, Jeumont, La Chapelle-d'Armentières, La Gorgue, Leval, Limont-Fontaine, Louvroil, Mairieux, Marpent, Maubeuge, Merville, Méteren, Morbecque, Neuf-Berquin, Neuf-Mesnil, Neuville-Saint-Rémy, Nieppe, Pont-sur-Sambre, Proville, Quaëdypre, Raillencourt-Sainte-Olle, Recquignies, Rousies, Sailly-lez-Cambrai, Sainghin-en-Weppes, Saint-Jans-Cappel, Saint-Remy-du-Nord, Socx, Steenbecque, Steenwerck, Tilloy-lez-Cambrai, Vieux-Berquin, Wavrin, Wignehies.
+Allennes-les-Marais, Annoeullin, Armentières, Assevent, Aulnoye-Aymeries, Bachant, Bailleul, Bergues, Berlaimont, Béthencourt, Bierne, Borre, Boussières-sur-Sambre, Boussois, Cambrai, Caudry, Coudekerque-Village, Don, Eclaibes, Erquinghem-Lys, Escaudœuvres, Estaires, Feignies, Ferrière-la-Grande, Fourmies, Frelinghien, Hautmont, Hazebrouck, Houplines, Hoymille, Jeumont, La Chapelle-d'Armentières, La Gorgue, Leval, Limont-Fontaine, Louvroil, Mairieux, Marpent, Maubeuge, Merville, Méteren, Morbecque, Neuf-Berquin, Neuf-Mesnil, Neuville-Saint-Rémy, Nieppe, Pont-sur-Sambre, Proville, Quaëdypre, Raillencourt-Sainte-Olle, Recquignies, Rousies, Sailly-lez-Cambrai, Sainghin-en-Weppes, Saint-Jans-Cappel, Saint-Remy-du-Nord, Socx, Steenbecque, Steenwerck, Tilloy-lez-Cambrai, Vieux-Berquin, Wavrin, Wignehies.
 
 60 - Oise
 
-Agnetz, Allonne, Angicourt, Angy, Armancourt, Avilly-Saint-Léonard, Balagny-sur-Thérain, Beauvais, Bienville, Blaincourt-lès-Précy, Boran-sur-Oise, Brenouille, Breuil-le-Sec, Breuil-le-Vert, Bury, Cauffry, Chamant, Chambly, Chantilly, Choisy-au-Bac, Cinqueux, Clairoix, Clermont, Compiègne, Coye-la-Forêt, Creil, Crépy-en-Valois, Fitz-James, Goincourt, Gouvieux, Janville, Jaux, Laigneville, Lamorlaye, Les Ageux, Liancourt, Longueil-Annel, Machemont, Margny-lès-Compiègne, Mélicocq, Méru, Mogneville, Monceaux, Monchy-Saint-Eloi, Montataire, Montmacq, Morlincourt, Mouy, Nogent-sur-Oise, Noyon, Pont-l'Evêque, Pontpoint, Pont-Sainte-Maxence, Précy-sur-Oise, Rantigny, Rieux, Saint-Leu-d'Esserent, Sempigny, Senlis, Thiverny, Thourotte, Tillé, Trie-Château, Trie-la-Ville, Venette, Verneuil-en-Halatte, Villers-Saint-Paul, Villers-sous-Saint-Leu, Vineuil-Saint-Firmin.
+Agnetz, Allonne, Angicourt, Angy, Apremont, Armancourt, Aumont-en-Halatte, Avilly-Saint-Léonard, Balagny-sur-Thérain, Beauvais, Bienville, Blaincourt-lès-Précy, Boran-sur-Oise, Brenouille, Breuil-le-Sec, Breuil-le-Vert, Bury, Cauffry, Chamant, Chambly, Chantilly, Choisy-au-Bac, Cinqueux, Clairoix, Clermont, Compiègne, Courteuil, Coye-la-Forêt, Creil, Crépy-en-Valois, Fitz-James, Goincourt, Gouvieux, Janville, Jaux, Laigneville, Lamorlaye, Les Ageux, Liancourt, Longueil-Annel, Machemont, Margny-lès-Compiègne, Mélicocq, Méru, Mogneville, Monceaux, Monchy-Saint-Eloi, Montataire, Montmacq, Morlincourt, Mouy, Nogent-sur-Oise, Noyon, Pont-l'Evêque, Pontpoint, Pont-Sainte-Maxence, Précy-sur-Oise, Rantigny, Rieux, Saint-Leu-d'Esserent, Saint-Maximin, Sempigny, Senlis, Thiverny, Thourotte, Tillé, Trie-Château, Trie-la-Ville, Venette, Verneuil-en-Halatte, Villers-Saint-Paul, Villers-sous-Saint-Leu, Vineuil-Saint-Firmin.
 
 61 - Orne
 
@@ -464,7 +464,7 @@ Alençon, Argentan, Cerisé, Condé-sur-Sarthe, Damigny, Flers, La Lande-Patry, 
 
 62 - Pas-de-Calais
 
-Achicourt, Agny, Aire-sur-la-Lys, Anzin-Saint-Aubin, Arques, Arras, Athies, Beaurains, Berck, Blendecques, Boulogne-sur-Mer, Clairmarais, Cucq, Dainville, Echinghen, Etaples, Etrun, Ferques, Feuchy, Guarbecque, Hallines, Ham-en-Artois, Hardinghen, Isbergues, Isques, Lambres, Landrethun-le-Nord, Laventie, Le Portel, Le Touquet-Paris-Plage, Leulinghen-Bernes, Longuenesse, Maruil, Marquise, Merlimont, Outreau, Rang-du-Fliers, Rety, Rinxent, Roquetoire, Sailly-sur-la-Lys, Sainte-Catherine, Saint-Etienne-au-Mont, Saint-Laurent-Blangy, Saint-Léonard, Saint-Martin-au-Laërt, Saint-Martin-Boulogne, Saint-Nicolas, Saint-Omer, Salperwick, Serques, Tatinghem, Tilloy-lès-Mofflaines, Tilques, Verton, Wimereux, Wimille, Wizernes.
+Achicourt, Agny, Aire-sur-la-Lys, Anzin-Saint-Aubin, Arques, Arras, Athies, Beaurains, Berck, Blendecques, Boulogne-sur-Mer, Clairmarais, Cucq, Dainville, Echinghen, Equihen-Plage, Etaples, Etrun, Ferques, Feuchy, Guarbecque, Hallines, Ham-en-Artois, Hardinghen, Isbergues, Isques, Lambres, Landrethun-le-Nord, Laventie, Le Portel, Le Touquet-Paris-Plage, Leulinghen-Bernes, Longuenesse, Marœuil, Marquise, Merlimont, Outreau, Rang-du-Fliers, Rety, Rinxent, Roquetoire, Sailly-sur-la-Lys, Sainte-Catherine, Saint-Etienne-au-Mont, Saint-Laurent-Blangy, Saint-Léonard, Saint-Martin-au-Laërt, Saint-Martin-Boulogne, Saint-Nicolas, Saint-Omer, Salperwick, Serques, Tatinghem, Tilloy-lès-Mofflaines, Tilques, Verton, Wimereux, Wimille, Wizernes.
 
 63 - Puy-de-Dôme
 
@@ -484,11 +484,11 @@ Canet-en-Roussillon, Elne, Latour-Bas-Elne, Le Barcarès, Saint-Cyprien, Saint-L
 
 67 - Bas-Rhin
 
-Barembach, Bernardswiller, Bischwiller, Dorlisheim, Eckartswiller, Erstein, Eschau, Fegersheim, Gottenhouse, Gundershoffen, Haguenau, Kaltenhouse, La Broque, Lipsheim, Lutzelhouse, Molsheim, Monswiller, Muhlbach-sur-Bruche, Niederbronn-les-Bains, Oberhoffen-sur-Moder, Obernai, Ottersthal, Otterswiller, Reichs-hoffen, Rothau, Russ, Saint-Jean-Saverne, Saverne, Schaeffersheim, Schirmeck, Schweighouse-sur-Moder, Sélestat, Wisches.
+Barembach, Bernardswiller, Bischwiller, Dorlisheim, Eckartswiller, Erstein, Eschau, Fegersheim, Gottenhouse, Gundershoffen, Haguenau, Kaltenhouse, La Broque, Lipsheim, Lutzelhouse, Molsheim, Monswiller, Muhlbach-sur-Bruche, Niederbronn-les-Bains, Oberhoffen-sur-Moder, Obernai, Ottersthal, Otterswiller, Reichshoffen, Rothau, Russ, Saint-Jean-Saverne, Saverne, Schaeffersheim, Schirmeck, Schweighouse-sur-Moder, Sélestat, Wisches.
 
 68 - Haut-Rhin
 
-Bitschwiller-lès-Thann, Breitenbach-Haut-Rhin, Buhl, Buschwiller, Cernay, Colmar, Eschbach-au-Val, Fellering, Griesbach-au-Val, Guebwiller, Gunsbach, Hégenheim, Hésingue, Hohrod, Horbourg-Wihr, Huningue, Husseren-Wesserling, Ingersheim, Issenheim, Lautenbach, Lautenbachzell, Linthal, Luttenbach-près-Munster, Malmerspach, Mitzach, Mollau, Moosch, Muhlbach-sur-Munster, Munster, Oderen, Ranspach, Saint-Amarin, Saint-Louis, Soultzeren, Soultz-Haut-Rhin, Steinbach, Stosswihr, Thann, Turckheim, Uffholtz, Vieux-Thann, Village-Neuf, Wattwiller, Wettolsheim, Willer-sur-Thur, Wintzenheim, Wuenheim.
+Bitschwiller-lès-Thann, Breitenbach-Haut-Rhin, Buhl, Buschwiller, Cernay, Colmar, Eschbach-au-Val, Fellering, Geishouse, Goldbach-Altenbach, Griesbach-au-Val, Guebwiller, Gunsbach, Hégenheim, Hésingue, Hohrod, Horbourg-Wihr, Huningue, Husseren-Wesserling, Ingersheim, Issenheim, Jungholtz, Lautenbach, Lautenbachzell, Linthal, Luttenbach-près-Munster, Malmerspach, Mitzach, Mollau, Moosch, Muhlbach-sur-Munster, Munster, Murbach, Oderen, Ranspach, Rimbach-près-Guebwiller, Rimbachzell, Saint-Amarin, Saint-Louis, Soultzeren, Soultz-Haut-Rhin, Steinbach, Stosswihr, Thann, Turckheim, Uffholtz, Vieux-Thann, Village-Neuf, Wattwiller, Wettolsheim, Willer-sur-Thur, Wintzenheim, Wuenheim.
 
 69 - Rhône
 
@@ -512,19 +512,19 @@ Aix-les-Bains, Albertville, Brison-Saint-Innocent, Césarches, Drumettaz-Clarafo
 
 74 - Haute-Savoie
 
-Allinges, Amancy, Anthy-sur-Léman, Ayse, Bonneville, Chamonix-Mont-Blanc, Châtillon-sur-Cluses, Cluses, Combloux, Cordon, Demi-Quartier, Domancy, Evian-les-Bains, Excenevex, La Roche-sur-Foron, Les Houches, Lugrin, Margencel, Marignier, Marin, Marnaz, Maxilly-sur-Léman, Megève, Neuvecelle, Passy, Praz-sur-Arly, Publier, Rumilly, Saint-Gervais-les-Bains, Saint-Pierre-en-Faucigny, Saint-Sixt, Sales, Sallanches, Sciez, Scionzier, Thonon-les-Bains, Thyez.
+Allinges, Amancy, Anthy-sur-Léman, Ayse, Bonneville, Chamonix-Mont-Blanc, Châtillon-sur-Cluses, Cluses, Combloux, Cordon, Demi-Quartier, Domancy, Evian-les-Bains, Excenevex, La Roche-sur-Foron, Les Houches, Lugrin, Margencel, Marignier, Marin, Marnaz, Maxilly-sur-Léman, Megève, Neuvecelle, Passy, Praz-sur-Arly, Publier, Rumilly, Saint-Gervais-les-Bains, Saint-Pierre-en-Faucigny, Saint-Sixt, Sales, Sallanches, Sciez, Scionzier, Servoz, Thonon-les-Bains, Thyez.
 
 76 - Seine-Maritime
 
-Arques-la-Bataille, Auzebosc, Barentin, Bolbec, Caudebec-lès-Elbeuf, Cléon, Dieppe, Elbeuf, Eu, Fécamp, Freneuse, Gruchet-le-Valasse, Hautot-sur-Mer, Incheville, La Frénaye, La Londe, Le Tréport, Lillebonne, Orival, Pavilly, Ponts-et-Marais, Rouxmesnil-Bouteilles, Saint-Aubin-lès-Elbeuf, Saint-Aubin-sur-Scie, Saint-Clair-sur-les-Monts, Sainte-Marie-des-Champs, Saint-Eustache-la-Forêt, Saint-Léonard, Saint-Pierre-lès-Elbeuf, Sotteville-sous-le-Val, Tourville-la-Rivière, Valliquerville, Villers-Ecalles, Yvetot.
+Arques-la-Bataille, Auzebosc, Barentin, Bolbec, Caudebec-lès-Elbeuf, Cléon, Criquebeuf-en-Caux, Dieppe, Elbeuf, Eu, Fécamp, Freneuse, Gouy, Gruchet-le-Valasse, Hautot-sur-Mer, Incheville, La Frénaye, La Londe, Les Authieux-sur-le-Port-Saint-Ouen, Le Tréport, Lillebonne, Orival, Pavilly, Ponts-et-Marais, Quévreville-la-Poterie, Rouxmesnil-Bouteilles, Saint-Aubin-Celloville, Saint-Aubin-lès-Elbeuf, Saint-Aubin-sur-Scie, Saint-Clair-sur-les-Monts, Sainte-Marie-des-Champs, Saint-Eustache-la-Forêt, Saint-Léonard, Saint-Pierre-lès-Elbeuf, Sotteville-sous-le-Val, Tourville-la-Rivière, Valliquerville, Villers-Ecalles, Ymare, Yport, Yvetot.
 
 77 - Seine-et-Marne
 
-Avon, Brie-Comte-Robert, Cannes-Ecluse, Champagne-sur-Seine, Claye-Souilly, Condé-Sainte-Libiaire, Couilly-Pont-aux-Dames, Coulommiers, Coupvray, Crégy-lès-Meaux, Ecuelles, Esbly, Faremoutiers, Fontainebleau, Fublaines, Gretz-Armainvilliers, Héricy, Isles-lès-Villenoy, Jouarre, La Celle-sur-Morin, La Ferté-sous-Jouarre, Meaux, Moissy-Cramayel, Montereau-Fault-Yonne, Montry, Moret-sur-Loing, Mouroux, Nanteuil-lès-Meaux, Nemours, Ozoir-la-Ferrière, Poincy, Pommeuse, Provins, Quincy-Voisins, Reuil-en-Brie, Rouilly, Saint-Brice, Saint-Germain-Laval, Saint-Germain-sur-Morin, Saint-Mammès, Saint-Pierre-lès-Nemours, Samoreau, Thomery, Tournan-en-Brie, Trilport, Varennes-sur-Seine, Veneux-les-Sablons, Villenoy, Vulaines-sur-Seine.
+Avon, Brie-Comte-Robert, Cannes-Ecluse, Champagne-sur-Seine, Claye-Souilly, Condé-Sainte-Libiaire, Couilly-Pont-aux-Dames, Coulommiers, Coupvray, Crégy-lès-Meaux, Ecuelles, Esbly, Faremoutiers, Fontainebleau, Fublaines, Gretz-Armainvilliers, Héricy, Isles-lès-Villenoy, Jouarre, La Celle-sur-Morin, La Ferté-sous-Jouarre, Lieusaint, Mareuil-lès-Meaux, Meaux, Moissy-Cramayel, Montereau-Fault-Yonne, Montry, Moret-sur-Loing, Mouroux, Nanteuil-lès-Meaux, Nemours, Ozoir-la-Ferrière, Poincy, Pommeuse, Provins, Quincy-Voisins, Reuil-en-Brie, Rouilly, Saint-Brice, Saint-Germain-Laval, Saint-Germain-sur-Morin, Saint-Mammès, Saint-Pierre-lès-Nemours, Samoreau, Thomery, Tournan-en-Brie, Trilport, Varennes-sur-Seine, Veneux-les-Sablons, Villenoy, Vulaines-sur-Seine.
 
 78 - Yvelines
 
-Aubergenville, Aulnay-sur-Mauldre, Bailly, Bazemont, Bennecourt, Bonnières-sur-Seine, Flins-sur-Seine, Freneuse, La Falaise, Limetz-Villez, Maule, Méricourt, Mousseaux-sur-Seine, Nézel, Noisy-le-Roi, Rambouillet, Rolleboise, Rosny-sur-Seine, Saint-Nom-la-Bretèche.
+Aubergenville, Aulnay-sur-Mauldre, Bailly, Bazemont, Bennecourt, Bonnières-sur-Seine, Flins-sur-Seine, Freneuse, La Falaise, Limetz-Villez, Maule, Méricourt, Mousseaux-sur-Seine, Nézel, Noisy-le-Roi, Rambouillet, Rennemoulin, Rolleboise, Rosny-sur-Seine, Saint-Nom-la-Bretèche.
 
 79 - Deux-Sèvres
 
@@ -560,11 +560,11 @@ Cenon-sur-Vienne, Châtellerault.
 
 87 - Haute-Vienne
 
-Saint-Julien.
+Saint-Junien.
 
 88 - Vosges
 
-Bussang, Chantraine, Chavelot, Cleurie, Coinches, Cornimont, Dinozé, Dogneville, Dommartin-lès-Remiremont, Eloyes, Epinal, Etival-Clairefontaine, Ferdrupt, Fresse-sur-Moselle, Gérardmer, Girmont, Golbey, Igney, Jeuxey, La Bresse, La Forge, La Petite-Raon, La Voivre, Le Ménil, Le Syndicat, Le Thillot, Le Tholy, Les Forges, Moyenmoutier, Nompatelize, Ramonchamp, Remiremont, Remomeix, Saint-Amé, Saint-Dié, Sainte-Marguerite, Saint-Etienne-lès-Remiremont, Saint-Maurice-sur-Moselle, Saint-Michel-sur-Meurthe, Saint-Nabord, Sapois, Saulxures-sur-Moselotte, Senones, Taintrux, Thaon-les-Vosges, Thiéfosse, Vagney, Vecoux, Ventron, Vieux-Moulin, Xonrupt-Longemer.
+Basse-sur-le-Rupt, Bussang, Chantraine, Chavelot, Cleurie, Coinches, Cornimont, Dinozé, Dogneville, Dommartin-lès-Remiremont, Eloyes, Epinal, Etival-Clairefontaine, Ferdrupt, Fresse-sur-Moselle, Gérardmer, Gerbamont, Girmont, Golbey, Igney, Jeuxey, La Bresse, La Forge, La Petite-Raon, La Voivre, Le Ménil, Le Syndicat, Le Thillot, Le Tholy, Les Forges, Moyenmoutier, Nompatelize, Ramonchamp, Remiremont, Remomeix, Rochesson, Saint-Amé, Saint-Dié, Sainte-Marguerite, Saint-Etienne-lès-Remiremont, Saint-Maurice-sur-Moselle, Saint-Michel-sur-Meurthe, Saint-Nabord, Sapois, Saulxures-sur-Moselotte, Senones, Taintrux, Thaon-les-Vosges, Thiéfosse, Vagney, Vecoux, Ventron, Vieux-Moulin, Xonrupt-Longemer.
 
 89 - Yonne
 
@@ -576,8 +576,144 @@ Andelnans, Argiésans, Bavilliers, Belfort, Botans, Chaux, Cravanche, Danjoutin,
 
 91 - Essonne
 
-Ballancourt-sur-Essonne, Brières-les-Scellés, Etampes, Itteville, Morigny-Champigny, Saint-Vrain, Vert-le-Petit.
+Ballancourt-sur-Essonne, Brières-les-Scellés, Etampes, Itteville, Morigny-Champigny, Saint-Vrain, Tigery, Vert-le-Petit.
 
 95 - Val-d'Oise
 
 Asnières-sur-Oise, Beaumont-sur-Oise, Bernes-sur-Oise, Chaumontel, Fosses, Goussainville, Le Thillay, Louvres, Luzarches, Marly-la-Ville, Mours, Persan, Puiseux-en-France, Ronquerolles, Seugy, Survilliers, Vaudherland, Viarmes.
+
+Récapitulatif des modifications intervenues dans la liste des communes classées en zone A et en zone B depuis la liste initiale publiée le 28 décembre 2007
+
+En zone A
+
+Nom et département de la commune
+
+Correction d'erreurs matérielles dans la liste initiale
+
+Saint-André-de-la-Roche (06).
+
+Ousse (64).
+
+Sendets (64).
+
+Communes enclavées reclassées en zone A par effet de continuité
+
+Saint-Bernard (01).
+
+L'Houmeau (17).
+
+Saubens (31).
+
+Martignas-sur-Jalle (33).
+
+Venon (38).
+
+Haveluy (59).
+
+Loffre (59).
+
+Houchin (62).
+
+Poleymieux-au-Mont-d'Or (69).
+
+Pollionnay (69).
+
+Quincieux (69).
+
+Saint-Germain-au-Mont-d'Or (69).
+
+Boissise-la-Bertrand (77).
+
+Seine-Port (77).
+
+Châteaufort (78).
+
+Toussus-le-Noble (78).
+
+Nozay (91).
+
+Saint-Aubin (91).
+
+Villejust (91).
+
+Villiers-le-Bâcle (91).
+
+En zone B
+
+Nom et département de la commune
+
+Correction d'erreurs matérielles dans la liste initiale
+
+Bassillac (24).
+
+Pont-Péan (35).
+
+Betting (57).
+
+Saint-Junien (87).
+
+Communes enclavées reclassées en zone B par effet de continuité
+
+Belcodène (13).
+
+Ensuès-la-Redonne (13).
+
+Le Rove (13).
+
+Port-Saint-Louis-du-Rhône (13).
+
+Saint-Mitre-les-Remparts (13).
+
+Coudekerque (59).
+
+Apremont (60).
+
+Aumont-en-Halatte (60).
+
+Courteuil (60).
+
+Saint-Maximin (60).
+
+Equihen-Plage (62).
+
+Geishouse (68).
+
+Goldbach-Altenbach (68).
+
+Jungholtz (68).
+
+Murbach (68).
+
+Rimbach-près-Guebwiller (68).
+
+Rimbachzell (68).
+
+Servoz (74).
+
+Criquebeuf-en-Caux (76).
+
+Gouy (76).
+
+Les Authieux-sur-le-Port-Saint-Ouen (76).
+
+Quévreville-la-Poterie (76).
+
+Saint-Aubin-Celloville (76).
+
+Ymare (76).
+
+Yport (76).
+
+Lieusaint (77).
+
+Mareuil-lès-Meaux (77).
+
+Rennemoulin (78).
+
+Basse-sur-le-Rupt (88).
+
+Gerbamont (88).
+
+Rochesson (88).
+
+Tigery (91).
