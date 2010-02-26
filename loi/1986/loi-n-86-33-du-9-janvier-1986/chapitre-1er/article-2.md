@@ -2,7 +2,7 @@
 
 Les dispositions du présent titre s'appliquent aux personnes qui, régies par les dispositions du titre premier du statut général, ont été nommées dans un emploi permanent à temps complet ou à temps non complet dont la quotité de travail est au moins égale au mi-temps, et titularisées dans un grade de la hiérarchie des établissements ci-après énumérés :
 
-1° Etablissements publics de santé et syndicats interhospitaliers mentionnés aux articles L. 711-6 et L. 713-5 du code de la santé publique ;
+1° Etablissements publics de santé ;
 
 2° Hospices publics ;
 
