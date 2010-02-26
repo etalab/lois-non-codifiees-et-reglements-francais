@@ -668,7 +668,6 @@
 - [Arrêté du 9 juillet 2009 (BCFZ0916151A)](arrete-du-9-juillet-2009-bcfz0916151a)
 - [Arrêté du 9 juillet 2009 (DEFD0916175A)](arrete-du-9-juillet-2009-defd0916175a)
 - [Arrêté du 9 juillet 2009 (DEFD0916176A)](arrete-du-9-juillet-2009-defd0916176a)
-- [Arrêté du 9 juillet 2009 (DEVA0915880A)](arrete-du-9-juillet-2009-deva0915880a)
 - [Arrêté du 9 juillet 2009 (ECES0914955A)](arrete-du-9-juillet-2009-eces0914955a)
 - [Arrêté du 9 juillet 2009 (JUSK0916640A)](arrete-du-9-juillet-2009-jusk0916640a)
 - [Arrêté du 9 juillet 2009 (MAEA0916247A)](arrete-du-9-juillet-2009-maea0916247a)
