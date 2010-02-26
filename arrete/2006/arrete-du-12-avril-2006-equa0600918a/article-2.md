@@ -11,3 +11,5 @@ Paris-Papeete (Polynésie française).
 Jusqu'au 31 mars 2011 :
 
 Paris-New York (Etats-Unis d'Amérique).
+
+Outre les agréments qui lui sont octroyés par le gouvernement de la Polynésie française, la société Air Tahiti Nui est agréée pour l'exploitation de services aériens non réguliers de passagers, de courrier et de fret sur les liaisons relevant de la compétence de l'Etat.
