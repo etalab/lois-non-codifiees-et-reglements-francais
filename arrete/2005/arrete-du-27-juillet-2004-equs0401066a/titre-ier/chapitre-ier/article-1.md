@@ -2,7 +2,7 @@
 
 Les contrôles techniques prévus aux articles R. 323-23 à R. 323-26 du code de la route, pour les véhicules dont le poids total en charge est supérieur à 3, 5 tonnes ou dont le genre répond à l'une des désignations figurant en partie A de l'annexe VIII du présent arrêté doivent être effectués dans les conditions fixées par le présent arrêté.
 
-Ces contrôles sont réalisés par les services de l'Etat désignés par arrêté ministériel ou par un contrôleur agréé par l'Etat.
+Ces contrôles sont réalisés par les services de l'Etat désignés par arrêté ministériel ou par un contrôleur agréé par l'Etat ou un prestataire visé au II de l'article L. 323-1 du code de la route.
 
 Les contrôles techniques n'exonèrent pas le propriétaire de l'obligation de maintenir son véhicule en bon état de marche et en état satisfaisant d'entretien conformément aux dispositions du code de la route et des textes pris pour son application.
 
