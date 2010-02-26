@@ -1,7 +1,7 @@
 # Article 3
 
-L'emploi d'agent comptable d'établissement public à caractère scientifique, culturel et professionnel comprend huit échelons.
+L'emploi d'agent comptable d'établissement public à caractère scientifique, culturel et professionnel classé dans le groupe I comporte huit échelons. La durée du temps passé dans chaque échelon pour accéder à l'échelon supérieur est de deux ans au premier échelon, un an six mois aux deuxième, troisième et quatrième échelons, deux ans six mois aux cinquième et sixième échelons, trois ans au septième échelon.
 
-La durée du temps de service exigé pour accéder au 2e échelon est fixée à deux ans. Cette durée est fixée à un an pour l'accès aux 3e, 4e et 5e échelons, à deux ans six mois pour l'accès aux 6e et 7e échelons et à trois ans pour l'accès au 8e échelon.
+L'emploi d'agent comptable d'établissement public à caractère scientifique, culturel et professionnel classé dans le groupe II comporte sept échelons. La durée du temps passé dans chaque échelon pour accéder à l'échelon supérieur est de deux ans au premier échelon, un an six mois aux deuxième, troisième et quatrième échelons, deux ans six mois aux cinquième et sixième échelons.
 
-Seuls les agents comptables affectés à un emploi classé dans le groupe I peuvent accéder au 8e échelon.
+L'emploi d'agent comptable d'établissement public à caractère scientifique, culturel et professionnel classé dans le groupe III comporte sept échelons. La durée du temps passé dans chaque échelon pour accéder à l'échelon supérieur est de deux ans aux premier et deuxième échelons, un an six mois aux troisième, quatrième et cinquième échelons, deux ans six mois au sixième échelon.
