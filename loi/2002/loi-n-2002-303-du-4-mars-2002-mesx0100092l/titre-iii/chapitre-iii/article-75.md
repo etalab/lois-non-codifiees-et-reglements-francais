@@ -12,4 +12,4 @@ Toute personne faisant un usage professionnel du titre d'ostéopathe ou de chiro
 
 Un décret établit la liste des actes que les praticiens justifiant du titre d'ostéopathe ou de chiropracteur sont autorisés à effectuer, ainsi que les conditions dans lesquelles il sont appelés à les accomplir.
 
-Ces praticiens ne peuvent exercer leur profession que s'ils sont inscrits sur une liste dressée par le représentant de l'Etat dans le département de leur résidence professionnelle, qui enregistre leurs diplômes, certificats, titres ou autorisations.
+Ces praticiens ne peuvent exercer leur profession que s'ils sont inscrits sur une liste dressée par le directeur général de l'agence régionale de santé de leur résidence professionnelle, qui enregistre leurs diplômes, certificats, titres ou autorisations.

@@ -2,9 +2,9 @@
 
 I - L'usage professionnel du titre de psychologue, accompagné ou non d'un qualificatif, est réservé aux titulaires d'un diplôme, certificat ou titre sanctionnant une formation universitaire fondamentale et appliquée de haut niveau en psychologie préparant à la vie professionnelle et figurant sur une liste fixée par décret en Conseil d'Etat ou aux titulaires d'un diplôme étranger reconnu équivalent aux diplômes nationaux exigés.
 
-Les personnes autorisées à faire usage du titre de psychologue sont tenues de faire enregistrer sans frais, auprès du service de l'Etat compétent ou de l'organisme désigné à cette fin, leur diplôme mentionné au précédent alinéa ou l'autorisation mentionnée au II. En cas de changement de situation professionnelle, elles en informent ce service ou cet organisme.
+Les personnes autorisées à faire usage du titre de psychologue sont tenues de faire enregistrer sans frais, auprès de l'agence régionale de santé ou de l'organisme désigné à cette fin, leur diplôme mentionné au précédent alinéa ou l'autorisation mentionnée au II. En cas de changement de situation professionnelle, elles en informent l'agence ou cet organisme.
 
-Il est établi, pour chaque département, par le service de l'Etat compétent ou l'organisme désigné à cette fin, une liste de cette profession, portée à la connaissance du public.
+Il est établi, pour chaque département, par l'agence régionale de santé ou l'organisme désigné à cette fin, une liste de cette profession, portée à la connaissance du public.
 
 Les modalités d'application des dispositions des deuxième et troisième alinéas du présent article sont fixées par décret.
 
@@ -24,7 +24,7 @@ Lorsque la formation de l'intéressé porte sur des matières substantiellement 
 
 III - Peuvent être autorisées à faire usage du titre de psychologe les personnes qui satisfont à l'une des deux conditions ci-après ;
 
-- exercer des fonctions de psychologue en qualité de fonctionnaire ou d'agent public à la date d'entrée en vigueur de la présente loi, cette condition étant prorogée au-delà de cette date pendant une période qui ne peut excéder sept ans [*durée*] pour les fonctionnaires et agents publics ultérieurement recrutés ou employés en qualité de psychologue ;
+- exercer des fonctions de psychologue en qualité de fonctionnaire ou d'agent public à la date d'entrée en vigueur de la présente loi, cette condition étant prorogée au-delà de cette date pendant une période qui ne peut excéder sept ans pour les fonctionnaires et agents publics ultérieurement recrutés ou employés en qualité de psychologue ;
 
 - faire l'objet, sur leur demande qui doit être déposée dans un délai fixé par décret, d'une décision administrative reconnaissant qu'elles remplissaient les conditions de formation ou d'expérience professionnelle leur conférant une qualification analogue à celle des titulaires des documents mentionnés au paragraphe I, à la date d'entrée en vigueur de la présente loi. Le récépissé du dossier de demande vaut autorisation provisoire d'user du titre jusqu'à la décision administrative.
 

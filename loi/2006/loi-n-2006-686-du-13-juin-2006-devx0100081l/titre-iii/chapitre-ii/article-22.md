@@ -8,7 +8,7 @@ Une même commission locale d'information peut être créée pour plusieurs inst
 
 II.-La commission locale d'information comprend des représentants des conseils généraux, des conseils municipaux ou des assemblées délibérantes des groupements de communes et des conseils régionaux intéressés, des membres du Parlement élus dans le département, des représentants d'associations de protection de l'environnement, des intérêts économiques et d'organisations syndicales de salariés représentatives et des professions médicales, ainsi que des personnalités qualifiées.
 
-Les représentants de l'Autorité de sûreté nucléaire et des autres services de l'Etat concernés, ainsi que des représentants de l'exploitant peuvent assister, avec voix consultative, aux séances de la commission locale d'information. Ils ont accès de plein droit à ses travaux.
+Les représentants de l'Autorité de sûreté nucléaire  , de l'agence régionale de santé territorialement compétente et des services de l'Etat concernés, ainsi que des représentants de l'exploitant peuvent assister, avec voix consultative, aux séances de la commission locale d'information. Ils ont accès de plein droit à ses travaux.
 
 III.-La commission locale d'information est créée par décision du président du conseil général du département dans lequel s'étend le périmètre de l'installation ou des installations concernées ou par décision conjointe des présidents des conseils généraux si le périmètre s'étend sur plusieurs départements.
 

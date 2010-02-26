@@ -73,7 +73,7 @@ A modifié les dispositions suivantes :
 > >
 > >
 > >
-> > -les conseils départementaux sont composés de trois séries de candidats ayant un mandat de six ans. Les séries sont numérotées respectivement 1, 2 ou 3 selon leur prochain renouvellement dans l'ordre chronologique ;
+> > -les conseils départementaux sont composés de trois séries de conseillers ayant un mandat de six ans. Les séries sont numérotées respectivement 1, 2 ou 3 selon leur prochain renouvellement dans l'ordre chronologique ;
 > >
 > >
 > >
