@@ -1,89 +1,61 @@
 # Article 23
 
-Nul ne peut exploiter à titre individuel, ou être dirigeant de droit ou de fait d'un établissement mentionné à l'article 22 s'il ne satisfait pas aux conditions suivantes :
+La personne qui sollicite l'agrément pour exploiter à titre individuel ou être dirigeant de droit ou de fait d'un établissement mentionné à l'article 22 doit justifier du respect des conditions suivantes :
+
+I.-Conditions générales :
 
 1° Etre âgé d'au moins dix-huit ans ;
 
-2° Justifier de la capacité à gérer un établissement de formation à la conduite :
+2° N'avoir fait l'objet d'aucune des condamnations mentionnées au 1° du 2 du I de l'article 17 de la loi du 5 janvier 2006 susvisée et précisées dans l'annexe au présent décret.
 
-a) Soit en étant titulaire d'un diplôme d'Etat ou d'un titre ou diplôme visé ou homologué de l'enseignement supérieur ou technologique d'un niveau supérieur ou égal au niveau III, sanctionnant une formation juridique, économique, comptable ou commerciale, ou d'une qualification reconnue comme équivalente à l'un de ces titres ou diplômes dans des conditions fixées par un arrêté des ministres chargés de la mer et des transports ;
+Le service instructeur s'assure du respect de cette condition en vérifiant le bulletin n° 2 du casier judiciaire, ou son équivalent pour les non-nationaux, qu'il peut recevoir par un moyen de télécommunication sécurisé ;
 
-b) Soit en justifiant avoir suivi une formation agréée portant sur la gestion et l'exploitation des établissements de formation à la conduite ;
+3° Etre agréé comme formateur dans les conditions fixées à l'article 32 ou, à défaut, désigner au sein de son établissement un responsable de formation agréé dans les mêmes conditions.
 
-c) Lorsqu'il s'agit d'une association à but non lucratif, les justificatifs prévus au a ou au b ci-dessus sont remplacés par la production chaque année du rapport moral et du rapport financier ;
+II.-Conditions de qualifications professionnelles :
 
-3° Etre titulaire, dans les conditions prévues au 1° de l'article 32, d'un des permis de conduire pour l'obtention duquel l'établissement assure une formation. Lorsque le représentant légal de l'établissement n'est pas titulaire du permis ainsi exigé, il désigne un responsable de formation parmi les formateurs de son établissement qui doit en être titulaire ;
+1° Etre titulaire d'un diplôme d'Etat ou d'un titre ou diplôme visé ou homologué de l'enseignement supérieur ou technologique d'un niveau supérieur ou égal au niveau III, sanctionnant une formation juridique, économique, comptable ou commerciale, ou d'une qualification reconnue comme équivalente à l'un de ces titres ou diplômes dans des conditions fixées par un arrêté des ministres chargés de la mer et des transports ;
 
-4° Justifier que le responsable de la formation a :
+Ou avoir suivi une formation agréée portant sur la gestion et l'exploitation des établissements de formation à la conduite.
 
-a) Effectué un stage dans un établissement agréé ;
+Lorsqu'il s'agit d'une association à but non lucratif, les justificatifs prévus aux deux alinéas précédents sont remplacés par la production chaque année du rapport moral et du rapport financier ;
 
-b) Suivi un stage de formation à l'évaluation ;
+2° Si les qualifications ont été acquises dans un Etat membre de l'Union européenne, ou dans un autre Etat partie à l'accord sur l'Espace économique européen, remplir les conditions suivantes :
 
-5° N'avoir subi aucune condamnation à une peine correctionnelle pour une infraction figurant sur la liste suivante. Le représentant de l'Etat dans le département s'assure du respect de cette condition en demandant communication du bulletin n° 2 du casier judiciaire au Casier judiciaire national automatisé par un moyen de télécommunication sécurisé ou de son équivalent et en vérifiant l'absence de condamnation pour les délits énumérés ci-dessous :
+a) Conditions générales de reconnaissance :
 
-I. - Délits d'atteinte à la personne humaine prévus par le code pénal :
+i) Posséder l'attestation de compétences ou le titre de formation prescrit pour exercer la profession d'exploitant d'établissement de formation à la conduite des bateaux de plaisance à moteur dans l'Etat dans lequel ont été acquises les qualifications lorsque celui-ci réglemente l'accès à la profession, son exercice ou la formation y conduisant ;
 
-- atteinte involontaire à la vie (art. 221-6-1) ;
+ii) Avoir exercé au cours des dix années précédentes la profession d'exploitant d'établissement de formation à la conduite des bateaux de plaisance à moteur dans un Etat qui ne réglemente pas cette profession, soit à temps plein pendant deux années, continues ou non, soit à temps partiel pendant une durée totale équivalente aux deux années requises sur une base temps plein, et posséder au moins une attestation de compétence ou un titre de formation attestant la préparation à l'exercice de cette profession.
 
-- atteinte à l'intégrité physique ou psychique de la personne (art. 222-9 à 222-13, 222-14 (3° et 4°), 222-19-1 et 222-20-1, 222-2 à 222-33) ;
+La condition relative à l'expérience professionnelle prévue au ii n'est toutefois pas exigée quand le demandeur possède un titre sanctionnant une formation réglementée, spécifiquement orientée sur l'exercice de la profession, correspondant au minimum à un cycle d'études secondaires ;
 
-- mise en danger de la vie d'autrui (art. 223-1) ;
+b) Conditions de validité des titres :
 
-- trafic de stupéfiants (art. 222-36, premier alinéa, et 222-37 à 222-40) ;
+Les attestations de compétence ou les titres de formation mentionnés aux i et ii du a doivent avoir été délivrés par une autorité compétente d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen.
 
-- entrave aux mesures d'assistance et omission de porter secours (art. 223-5 à 223-7) ;
+Est assimilé au titre de formation mentionné aux i et ii du a tout titre ou ensemble de titres qui :
 
-- proxénétisme (art. 225-5 à 225-7, 225-10 et 225-11) ;
+-a été délivré par une autorité compétente d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen ;
 
-- atteinte sexuelle sur mineur de quinze ans (art. 227-25 et 227-26) ;
+-sanctionne une formation acquise dans l'Union européenne ou dans l'Espace économique européen et reconnue par l'Etat de délivrance du titre comme étant de niveau équivalent ;
 
-- atteinte sexuelle sur mineur de plus de quinze ans sans violence, contrainte, menace ni surprise par une personne majeure abusant de l'autorité que lui confèrent ses fonctions (art. 227-27).
+-et confère les mêmes droits d'accès ou d'exercice de la profession d'exploitant d'établissement de formation à la conduite des bateaux de plaisance à moteur, ou prépare à l'exercice de cette profession.
 
-II. - Délits d'atteinte aux biens prévus par le code pénal :
+Est également assimilée à un tel titre de formation toute qualification professionnelle qui, sans répondre aux exigences prévues par les dispositions législatives, réglementaires ou administratives de l'Etat d'origine pour l'accès à la profession ou son exercice, confère à son titulaire des droits acquis en vertu de ces dispositions.
 
-- vol et tentative (art. 311-3 à 311-6 et 311-13) ;
+Peuvent également justifier de leur capacité à gérer un établissement de formation à la conduite les demandeurs qui possèdent un titre permettant l'exercice de la profession d'exploitant d'établissement de formation à la conduite des bateaux de plaisance à moteur acquis dans un pays tiers et admis en équivalence dans un Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen, si cet Etat réglemente l'exercice de la profession. Ils doivent, en outre, justifier avoir exercé la profession pendant trois ans dans l'Etat qui a admis l'équivalence de leur titre ;
 
-- extorsion et tentative (art. 312-1, 312-2 et 312-9) ;
+c) Mesures de compensation :
 
-- escroquerie et tentative (art. 313-1 à 313-4) ;
+Le préfet compétent pour délivrer l'agrément prévu à l'article 22 peut exiger d'un demandeur qui remplit les conditions fixées aux alinéas précédents qu'il accomplisse, au choix du demandeur, un stage d'adaptation d'une durée maximum d'un an ou qu'il se soumette à une épreuve d'aptitude dans l'un des cas suivants :
 
-- abus de confiance (art. 314-1) ;
+-lorsque la formation qu'il a reçue porte sur des matières substantiellement différentes de celles couvertes par les titres ou diplômes mentionnés au 1° du II du présent article ;
 
-- détournement de gage ou d'objet saisi (art. 314-5 et 314-6) ;
+-lorsqu'une ou plusieurs des activités réglementées constitutives de l'exploitation d'établissement de formation à la conduite des bateaux de plaisance à moteur en France n'existent pas dans la profession correspondante dans l'Etat ayant délivré l'attestation de compétences ou le titre de formation dont le demandeur se prévaut, et que cette différence est caractérisée par une formation spécifique qui est requise en France et qui porte sur des matières substantiellement différentes de celles couvertes par l'attestation ou le titre présenté par le demandeur.
 
-- organisation frauduleuse de l'insolvabilité (art. 314-7) ;
+Le contenu du stage d'adaptation ou de l'épreuve d'aptitude tient compte des connaissances acquises par le demandeur au cours de son expérience professionnelle.
 
-- recel (art. 321-1 et 321-2) ;
+Le demandeur est dispensé du stage d'adaptation ou de l'épreuve d'aptitude si les connaissances qu'il a acquises au cours de son expérience professionnelle couvrent l'intégralité de la différence substantielle constatée entre la formation qu'il a reçue et la formation dispensée sur le territoire français et requise pour l'exploitation d'établissement de formation à la conduite des bateaux de plaisance à moteur en France.
 
-- détérioration de biens et tentative (art. 322-1 à 322-4).
-
-III. - Délits d'atteinte à l'autorité de l'Etat et à la confiance publique prévus par le code pénal :
-
-- corruption active et trafic d'influence (art. 433-1 et 433-2) ;
-
-- outrage et rébellion envers une personne dépositaire de l'autorité publique (art. 433-5, 433-7 et 433-8) ;
-
-- témoignage mensonger et subornation de témoin (art. 434-13 à 434-15) ;
-
-- faux, usage de faux en écriture et détention de faux documents administratifs (art. 441-1 à 441-3) ;
-
-- établissement d'attestation ou de certificat inexact, après avoir sollicité des offres, dons ou avantages (art. 441-8).
-
-IV. - Délit prévu par la loi du 23 décembre 1901 modifiée réprimant les fraudes dans les examens et concours publics.
-
-V. - Délits prévus par le code du travail :
-
-- atteinte à l'égalité professionnelle entre les hommes et les femmes (art. L. 123-1) ;
-
-- fourniture illégale de main-d'oeuvre (art. L. 125-1) ;
-
-- prêt de main-d'oeuvre (art. L. 125-3) ;
-
-- travail dissimulé (art. L. 324-9, L. 324-10 et L. 362-3 à L. 362-5) ;
-
-- emploi d'étranger en situation irrégulière (art. L. 341-6).
-
-VI. - Délit prévu par le code de la santé publique :
-
-- usage de manière illicite de l'une des substances ou plantes classées comme stupéfiants (art. L. 3421-1).
+Les modalités du stage et de l'épreuve d'aptitude sont précisées par un arrêté des ministres chargés de la mer et des transports.
