@@ -20,7 +20,11 @@ g) Les registres à caractère épidémiologique mentionnés à l'article 2 de l
 
 h) Le Centre national de ressources de la douleur ;
 
-i) Le Centre national de ressources pour les soins palliatifs.
+i) Le Centre national de ressources pour les soins palliatifs ;
+
+- l'Observatoire national de la fin de vie ;
+
+- les centres de coordination des soins en cancérologie.
 
 2° Au titre des missions de formation, de soutien, de coordination et d'évaluation des besoins du patient :
 
@@ -84,7 +88,7 @@ f) La nutrition parentérale à domicile, à l'exception des cas où le patient 
 
 g) Les structures pluridisciplinaires spécialisées dans la prise en charge des adolescents ;
 
-h) Les actions de coordination et les pratiques de soins spécifiques en cancérologie.
+h) Les actions de qualité transversale des pratiques de soins en cancérologie.
 
 10° Au titre de l'aide médicale urgente :
 

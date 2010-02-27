@@ -52,6 +52,8 @@ l) Les pôles de référence hépatite C ;
 
 m) Les centres pluridisciplinaires de diagnostic prénatal ;
 
+- les centres de diagnostic préimplantatoire ;
+
 n) Les centres nationaux de référence pour la lutte contre les maladies transmissibles mentionnés à l'article L. 1413-4 du code de la santé publique ;
 
 o) Les centres de référence pour infections ostéo-articulaires.
