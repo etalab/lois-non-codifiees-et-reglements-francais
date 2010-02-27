@@ -1,6 +1,6 @@
 # Article 4
 
-I. ― La responsabilité de l'organisation générale du concours incombe au directeur central du commissariat de la marine, qui, notamment :
+I. ― La responsabilité de l'organisation générale du concours incombe au directeur central du service du commissariat des armées, qui, notamment :
 
 ― fixe les centres d'examens écrits et la répartition entre ces centres des candidats admis à composer ;
 
