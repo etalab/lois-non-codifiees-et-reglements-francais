@@ -2,7 +2,7 @@
 
 I. - La direction des affaires financières, juridiques et des services a pour mission, en liaison avec les autres services de l'administration centrale des ministères mentionnés à l'article 1er :
 
-1° De définir et de conduire, dans un cadre stratégique pluriannuel, l'élaboration, l'exécution, le suivi et le rendu compte des budgets de ces ministères, de concourir à la tenue des différentes comptabilités, d'organiser le contrôle interne comptable, d'assurer la maîtrise d'ouvrage des systèmes d'information financiers internes, de piloter la démarche de performance et de contrôle de gestion et d'assurer la gestion des programmes support ;
+1° De définir et de conduire, dans un cadre stratégique pluriannuel, l'élaboration, l'exécution, le suivi et le rendu compte des budgets de ces ministères, de concourir à la tenue des différentes comptabilités, d'organiser le contrôle interne comptable, d'assurer la maîtrise d'ouvrage des systèmes d'information financiers internes, de piloter la démarche de performance et de contrôle de gestion, d'assurer la gestion des programmes support et de contribuer à l'exercice de la tutelle sur les organismes et établissements relevant des ministères mentionnés à l'article 1er ;
 
 2° D'assurer une fonction d'animation, de conseil, d'expertise et d'assistance juridique, de veiller à la qualité de la réglementation et au suivi de la production des différentes normes, de coordonner le traitement des contentieux et d'en gérer la prise en charge financière, de conduire la politique de ressources documentaires et d'organiser la politique d'archivage ;
 
