@@ -1,6 +1,6 @@
 # Article 2
 
-A compter du 1er septembre 2009, et pour une période qui ne peut excéder six mois, un liquidateur est chargé de mener à bonne fin les opérations engagées par l'établissement et de pourvoir à :
+A compter du 1er septembre 2009, et pour une période qui ne peut excéder dix mois, un liquidateur est chargé de mener à bonne fin les opérations engagées par l'établissement et de pourvoir à :
 
 ― la liquidation des dettes et des créances inscrites au bilan de l'établissement à sa date de mise en liquidation ;
 
