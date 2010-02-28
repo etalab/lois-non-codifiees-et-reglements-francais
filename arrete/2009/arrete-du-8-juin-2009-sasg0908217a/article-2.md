@@ -14,6 +14,8 @@ I. ― La sous-direction des affaires financières a pour mission :
 
 La sous-direction des affaires financières accomplit ses missions en lien avec le contrôleur budgétaire et comptable ministériel.
 
+6. De contribuer à la tutelle sur les organismes et établissements, exercée par les ministères mentionnés à l'article 1er du décret du 8 juin 2009 susvisé.
+
 II. ― La sous-direction des affaires financières comprend :
 
 1° Le bureau de la politique budgétaire ;
@@ -24,4 +26,6 @@ II. ― La sous-direction des affaires financières comprend :
 
 4° Le bureau du pilotage des programmes support ;
 
-5° Le bureau de l'exécution de la dépense qui sera créé postérieurement à l'entrée en vigueur du présent arrêté.
+5° Le bureau de l'exécution de la dépense qui sera créé postérieurement à l'entrée en vigueur du présent arrêté ;
+
+6° Le bureau des agences régionales de santé.

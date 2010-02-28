@@ -13,3 +13,5 @@ La direction des affaires financières, juridiques et des services comprend :
 5° Le bureau des ressources humaines et des affaires générales de la direction.
 
 Le directeur dispose par ailleurs de chargés de missions, notamment pour l'animation des réseaux, la stratégie et la modernisation ainsi que pour la communication.
+
+Il est assisté d'un chef de service, adjoint au directeur.

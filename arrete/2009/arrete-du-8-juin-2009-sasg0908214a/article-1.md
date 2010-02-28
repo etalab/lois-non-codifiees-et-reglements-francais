@@ -15,3 +15,5 @@ La direction des ressources humaines comprend :
 6° Le bureau des ressources humaines et de l'administration générale interne à la direction.
 
 Le directeur dispose par ailleurs de chargés de missions, notamment pour la stratégie et la modernisation ainsi que pour la communication.
+
+Il est assisté d'un chef de service, adjoint au directeur.
