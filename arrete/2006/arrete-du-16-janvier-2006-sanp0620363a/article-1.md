@@ -1,6 +1,6 @@
 # Article 1
 
-Le candidat souhaitant acquérir le diplôme professionnel d'auxiliaire de puériculture par la validation des acquis de l'expérience doit justifier des compétences professionnelles acquises dans l'exercice d'une activité salariée, non salariée ou bénévole, en rapport direct avec le contenu de ce diplôme.
+Le candidat souhaitant acquérir le diplôme d'Etat d'auxiliaire de puériculture par la validation des acquis de l'expérience doit justifier des compétences professionnelles acquises dans l'exercice d'une activité salariée, non salariée ou bénévole, en rapport direct avec le contenu de ce diplôme.
 
 Le rapport direct avec le diplôme est établi lorsque le candidat justifie avoir réalisé cumulativement au moins deux activités dans chacun des domaines suivants en lien avec le référentiel d'activités du métier en annexe I du présent arrêté :
 

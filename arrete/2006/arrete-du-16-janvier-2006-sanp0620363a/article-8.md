@@ -1,3 +1,3 @@
 # Article 8
 
-Si le candidat opte pour un parcours de formation préparant au diplôme professionnel d'auxiliaire de puériculture dans le cadre du programme des études conduisant à ce diplôme, il s'inscrit auprès d'une école autorisée à dispenser cette formation. Le candidat est dispensé des épreuves de sélection exigées pour l'accès à la formation initiale.
+Le candidat qui le souhaite peut suivre l'enseignement du module de formation prévu à l'annexe V du présent arrêté, qui est dispensé par des organismes de formation initiale autorisés par l'autorité compétente selon la réglementation en vigueur et par des organismes de formation professionnelle continue déclarés conformément aux articles L. 6351-1 et suivants du code du travail.

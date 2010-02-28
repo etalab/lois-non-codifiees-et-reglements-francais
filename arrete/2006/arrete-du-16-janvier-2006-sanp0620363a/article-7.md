@@ -1,3 +1,3 @@
 # Article 7
 
-L'enseignement du module de formation prévu à l'article 3 est dispensé par des organismes de formation initiale autorisés par l'autorité compétente selon la réglementation en vigueur et par des organismes de formation professionnelle continue déclarés conformément aux articles L. 920-4 et suivants du code du travail.
+Si le candidat opte pour un parcours de formation préparant au diplôme d'Etat d'auxiliaire de puériculture dans le cadre du programme des études conduisant à ce diplôme, il s'inscrit auprès d'une école autorisée à dispenser cette formation. Le candidat est dispensé des épreuves de sélection exigées pour l'accès à la formation initiale.
