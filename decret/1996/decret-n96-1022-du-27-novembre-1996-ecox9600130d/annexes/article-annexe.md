@@ -22,8 +22,6 @@ Ports autonomes fluviaux ;
 
 Ports autonomes maritimes et ports d'intérêt national ;
 
-La Poste ;
-
 Régie autonome des transports parisiens ;
 
 Société nationale des chemins de fer français ;
