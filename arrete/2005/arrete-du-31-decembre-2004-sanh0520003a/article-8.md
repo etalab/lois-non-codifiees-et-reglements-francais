@@ -1,3 +1,3 @@
 # Article 8
 
-Le directeur et le président de la commission médicale ou de la conférence médicale de l'établissement sont destinataires de statistiques pour la structure ou, sur leur demande et dans les conditions prévues au chapitre X de la loi du 6 janvier 1978 modifiée relative à l'informatique, aux fichiers et aux libertés, de fichiers de résumés anonymes par sous-séquence (RAPSS) ou d'extraits de données issues de ces fichiers.
+Le directeur de l'hospitalisation et de l'organisation des soins au ministère des solidarités, de la santé et de la famille est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
