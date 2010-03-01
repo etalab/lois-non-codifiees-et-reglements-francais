@@ -2,7 +2,7 @@
 
 Les modalités de facturation des forfaits et suppléments mentionnés à l'article 1er sont définies aux I à III ci-dessous.
 
-I. - Les forfaits « groupes homogènes de séjours » sont facturés dans les conditions suivantes :
+I.-Les forfaits " groupes homogènes de séjours " sont facturés dans les conditions suivantes :
 
 1° Un seul GHS est facturé par séjour, à l'exception des cas suivants :
 
@@ -42,7 +42,7 @@ c) Lorsque les prestations de séjour et de soins délivrées au patient donnent
 
 ― le GHS 9610 dans les autres cas.
 
-d) Lorsque les prestations de séjour et de soins délivrées au patient donnent lieu à la production du GHM d'« autres irradiations, niveau 1 » (17K041), la prise en charge du patient donne lieu à facturation d'un des GHS suivants :
+d) Lorsque les prestations de séjour et de soins délivrées au patient donnent lieu à la production du GHM d'" autres irradiations, niveau 1 " (17K041), la prise en charge du patient donne lieu à facturation d'un des GHS suivants :
 
 ― le GHS 6523 lorsqu'un acte d'irradiation encéphalique en conditions stéréotaxiques avec cadre effractif, en dose unique, a été réalisé ;
 
@@ -56,7 +56,7 @@ e) Lorsque les prestations de séjour et de soins délivrées au patient donnent
 
 f) Lorsque les prestations de séjour et de soins délivrées au patient donnent lieu à la production d'un des GHM de rythmologie interventionnelle, la prise en charge du patient donne lieu à facturation d'un des GHS suivants :
 
-― dès lors que l'acte de destruction de foyer arythmogène atrial gauche par méthode physique par voie vasculaire transcutanée a été réalisé (DENF003) ou que l'un des actes figurant sur la liste fixée en annexe 6 a été réalisé, sous réserve de leur inscription sur la liste définie à l'article L. 162-1-7 du code de la sécurité sociale, la production du GHM 05K111, 05K112, 05K113, 05K114 ou 05K11T donne respectivement lieu à facturation du GHS 1808, 1809, 1810, 1811 ou 1812 ;
+― dès lors que l'un des actes figurant sur la liste fixée en annexe 6 a été réalisé, la production du GHM 05K111, 05K112, 05K113, 05K114 ou 05K11T donne respectivement lieu à facturation du GHS 1808, 1809, 1810, 1811 ou 1812 ;
 
 ― dans les autres cas, la production du GHM 05K111, 05K112, 05K113, 05K114 ou 05K11T donne respectivement lieu à facturation du GHS 1707, 1708, 1709, 1710 ou 1711.
 
@@ -70,7 +70,7 @@ g) Lorsque les prestations de séjour et de soins délivrées au patient donnent
 
 h) Lorsque les prestations de séjour et de soins délivrées au patient donnent lieu à la production du GHM d'hémorroïdectomies 06C19J ou 06C191, la prise en charge du patient donne respectivement lieu à la facturation d'un des GHS suivants :
 
-― le GHS 2013 ou le GHS 2014 dès lors que l'acte de réduction de procidence hémorroïdaire interne par agrafage circulaire par voie anale - technique de Longo (EGED001) a été réalisé ;
+― le GHS 2013 ou le GHS 2014 dès lors que l'acte de réduction de procidence hémorroïdaire interne par agrafage circulaire par voie anale-technique de Longo (EGED001) a été réalisé ;
 
 ― le GHS 1995 ou le GHS 1991 dans les autres cas.
 
@@ -98,7 +98,9 @@ l) Lorsque les prestations de séjour et de soins délivrées à un patient épi
 
 ― craniotomies pour affections non tumorales, âge inférieur à 18 ans (01C121, 01C122, 01C123 ou 01C124),
 
-la prise en charge du patient donne lieu à facturation du GHS 64 dès lors qu'un acte d'implantation d'électrodes pour enregistrement électrocorticographique (AALA002 ou AALB002) a été réalisé. Dans les autres cas, la production du GHM 01C041, 01C042, 01C043, 01C044, 01C121, 01C122, 01C123 ou 01C124 donne respectivement lieu à facturation du GHS 26, 27, 28, 29, 55, 56, 57 ou 58.
+la prise en charge du patient donne lieu à facturation du GHS 64 dès lors qu'un acte d'implantation d'électrodes pour enregistrement électrocorticographique (AALA002 ou AALB002) a été réalisé.
+
+Dans les autres cas, la production du GHM 01C041, 01C042, 01C043, 01C044, 01C121, 01C122, 01C123 ou 01C124 donne respectivement lieu à facturation du GHS 26, 27, 28, 29, 55, 56, 57 ou 58.
 
 m) Lorsque les prestations de séjour et de soins délivrées au patient donnent lieu à la production d'un des GHM d'autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, avec circulation extracorporelle 05C061, 05C062, 05C063 ou 05C064, la prise en charge du patient donne respectivement lieu à facturation du GHS 1518, 1519, 1520 ou 1521 lorsqu'un acte de pose d'un dispositif d'assistance ventriculaire figurant sur la liste 3 de l'annexe 7 a été réalisé. Dans les autres cas, lorsque les prestations de séjour et de soins donnent lieu à la production du GHM 05C061, 05C062, 05C063 ou 05C064, la prise en charge du patient donne respectivement lieu à facturation du GHS 1446, 1447, 1448 ou 1449.
 
@@ -116,13 +118,31 @@ p) Lorsque les prestations de séjour et de soins délivrées au patient donnent
 
 ― autres interventions cardiothoraciques, âge supérieur à 1 an, ou vasculaires quel que soit l'âge, sans circulation extracorporelle (05C081, 05C082, 05C083 ou 05C084),
 
-la prise en charge du patient donne lieu à facturation du GHS 1522 dès lors que l'acte de pose de valve aortique percutanée a été réalisé, sous réserve de son inscription sur la liste définie à l'article L. 162-1-7 du code de la sécurité sociale. Dans les autres cas, la production du 05K131, 05K132, 05K133, 05K134, 05C081, 05C082, 05C083 ou 05C084 donne respectivement lieu à facturation du GHS 1716, 1717, 1718, 1719, 1454, 1455, 1456 ou 1457.
+La prise en charge du patient donne lieu à facturation du GHS 1522 dès lors que l'acte de pose d'une bioprothèse de la valve aortique, par voie artérielle transcutanée (DBLF001) ou par abord de l'apex du cœur par thoracotomie sans CEC (DBLA004) a été réalisé. Dans les autres cas, la production du GHM 05K131, 05K132, 05K133, 05K134, 05C081, 05C082, 05C083 ou 05C084, donne respectivement lieu à facturation du GHS 1716, 1717, 1718, 1719, 1454, 1455, 1456 ou 1457.
 
 q) Lorsque les prestations de séjour et de soins délivrées au patient donnent lieu à la production d'un des GHM d'interventions pour infections ostéoarticulaires, la prise en charge du patient donne lieu à facturation de l'un des GHS suivants :
 
 ― lorsque le patient est pris en charge dans un centre identifié pour la prise en charge des infections ostéoarticulaires et reconnu par contrat conclu entre l'établissement et l'agence régionale de l'hospitalisation, la production du GHM 08C561, 08C562, 08C563 ou 08C564 donne respectivement lieu à facturation du GHS 2922, 2923, 2924 ou 2925 ;
 
 ― dans les autres cas, la production du GHM 08C561, 08C562, 08C563 ou 08C564 donne respectivement lieu à facturation du GHS 2918, 2919, 2920 ou 2921.
+
+r) Lorsque les prestations de séjour et de soins délivrées au patient donnent lieu à la production d'un des GHM d'allogreffe de cornée, la prise en charge du patient donne lieu à facturation d'un des GHS suivants :
+
+-dès lors que l'acte de conjonctivokératoplastie par greffe de membrane amniotique humaine (BDMA006) a été réalisé, la production du GHM 02C091, 02C092, 02C093, 02C094 ou 02C09J donne respectivement lieu à facturation du GHS 460, 461, 462, 463 ou 464 ;
+
+-dans les autres cas, la production du GHM 02C091, 02C092, 02C093, 02C094 ou 02C09J donne respectivement lieu à facturation du GHS 440, 441, 442, 443 ou 444.
+
+s) Lorsque les prestations de séjour et de soins délivrées au patient donnent lieu à la production d'un des GHM de reconstruction des seins, la prise en charge du patient donne lieu à facturation d'un des GHS suivants :
+
+-dès lors que l'acte de mastectomie totale élargie en surface, avec lambeau pédiculé de muscle grand dorsal ou lambeau parascapulaire (QEFA013) ou avec lambeau libre musculocutané (QEFA015) a été réalisé, la production du GHM 09C111, 09C112, 09C113 ou 09C114 donne respectivement lieu à facturation du GHS 3362, 3363, 3364 ou 3365 ;
+
+-dans les autres cas, la production du GHM 09C111, 09C112, 09C113 ou 09C114 donne respectivement lieu à facturation du GHS 3358, 3359, 3360 ou 3361.
+
+t) Lorsque les prestations de séjour et de soins délivrées au patient donnent lieu à la production d'un des GHM de chirurgie de remplacement valvulaire avec circulation extracorporelle, avec ou sans cathétérisme cardiaque ou coronarographie, la prise en charge du patient donne lieu à facturation d'un des GHS suivants :
+
+-dès lors que l'acte de remplacement de la valve aortique et de la valve atrioventriculaire gauche par prothèse mécanique ou par bioprothèse avec armature, par thoracotomie avec CEC (DBKA009) a été réalisé, la production du GHM 05C021, 05C022, 05C023, 05C024, 05C031, 05C032, 05C033 ou 05C034 donne respectivement lieu à facturation du GHS 1524, 1525, 1526, 1527, 1528, 1529, 1530 ou 1531 ;
+
+-dans les autres cas, la production du GHM 05C021, 05C022, 05C023, 05C024, 05C031, 05C032, 05C033 ou 05C034 donne respectivement lieu à facturation du GHS 1430, 1431, 1432, 1433, 1434, 1435, 1436 ou 1437.
 
 3° La prise en charge du patient dans une unité d'hospitalisation de courte durée définie au 4° de l'article D. 6124-22 du code de la santé publique, non suivie d'une hospitalisation dans un service de médecine, chirurgie, obstétrique ou odontologie, dont l'état de santé, à l'issue de son passage dans l'espace d'examen et de soins de la structure des urgences :
 
@@ -140,27 +160,27 @@ donne lieu à facturation :
 
 4° Lorsque la durée de séjour du patient est inférieure à la borne basse fixée par l'arrêté pris en application de l'article L. 162-22-10 du code de la sécurité sociale, fixant notamment les tarifs nationaux des prestations, à l'exception des séjours à l'issue desquels le patient décède, selon le GHM produit le GHS correspondant est minoré de la manière suivante :
 
-― soit d'un montant forfaitaire dénommé « forfait EXB » ;
+― soit d'un montant forfaitaire dénommé " forfait EXB " ;
 
-― soit d'un montant issu du tarif journalier dénommé « tarif EXB », valorisé par le nombre de journées correspondant à la différence entre la borne basse et la durée du séjour. Lorsque la date de sortie est égale à la date d'entrée, la durée de séjour est remplacée par la valeur 0,5.
+― soit d'un montant issu du tarif journalier dénommé " tarif EXB ", valorisé par le nombre de journées correspondant à la différence entre la borne basse et la durée du séjour.
 
-5° Lorsque la durée de séjour du patient est supérieure à la borne haute fixée par l'arrêté mentionné au 4° ci-dessus, un supplément dénommé « extrême haut » (EXH) est facturé pour chaque journée d'hospitalisation au-delà de cette borne.
+5° Lorsque la durée de séjour du patient est supérieure à la borne haute fixée par l'arrêté mentionné au 4° ci-dessus, un supplément dénommé " extrême haut " (EXH) est facturé pour chaque journée d'hospitalisation au-delà de cette borne.
 
 6° Lorsque le patient est pris en charge dans une unité de réanimation, de soins intensifs, de surveillance continue ou dans une chambre spécifique d'une unité d'hématologie, un des suppléments suivants est facturé :
 
-a) Un supplément dénommé « réanimation » (REA) pour chaque journée où le patient est pris en charge dans une unité de réanimation autorisée et qu'il présente un indice de gravité simplifié (IGS) d'une valeur supérieure ou égale à 15 et qu'un des actes de la liste 1 figurant en annexe 7 y a été effectué, ou que trois occurrences d'au moins un des actes de la liste 2 figurant à la même annexe y ont été effectuées. Pour les patients de moins de 16 ans, la valeur de l'IGS n'est pas prise en compte.
+a) Un supplément dénommé " réanimation " (REA) pour chaque journée où le patient est pris en charge dans une unité de réanimation autorisée et qu'il présente un indice de gravité simplifié (IGS) d'une valeur supérieure ou égale à 15 et qu'un des actes de la liste 1 figurant en annexe 7 y a été effectué, ou que trois occurrences d'au moins un des actes de la liste 2 figurant à la même annexe y ont été effectuées. Pour les patients de moins de 18 ans, la valeur de l'IGS n'est pas prise en compte.
 
-b) Un supplément dénommé « réanimation pédiatrique » (REP) pour chaque journée où le patient de moins de 18 ans est pris en charge dans une unité de réanimation pédiatrique ou de réanimation pédiatrique spécialisée autorisée et que les conditions mentionnées au a, à l'exception de la valeur de l'IGS pour les patients de moins de 16 ans, sont remplies.
+b) Un supplément dénommé " réanimation pédiatrique " (REP) pour chaque journée où le patient de moins de 18 ans est pris en charge dans une unité de réanimation pédiatrique ou de réanimation pédiatrique spécialisée autorisée et que les conditions mentionnées au c du 7° sont remplies.
 
 Les établissements pratiquant l'activité de réanimation adulte, pédiatrique ou pédiatrique spécialisée à la date d'ouverture de la période de dépôt de demande d'autorisation mentionnés à l'article 4 du décret du 5 avril 2002 ou à l'article 5 du décret du 24 janvier 2006 susvisés peuvent facturer les suppléments mentionnés aux a et b, s'il y a lieu, à compter de la notification de leur autorisation.
 
-c) Un supplément dénommé « soins intensifs » (STF) pour chaque journée où le patient est pris en charge soit dans une unité de réanimation autorisée et que les conditions définies aux a et b ne sont pas remplies, soit dans une unité de soins intensifs reconnue par contrat conclu entre l'établissement et l'agence régionale de l'hospitalisation et répondant aux conditions techniques de fonctionnement définies aux articles D. 6124-104 à D. 6124-116 du code de la santé publique, soit dans une chambre d'une unité d'hématologie équipée d'un système de traitement et de contrôle de l'air réduisant les risques de contamination microbienne par voie aérienne et reconnue par contrat conclu entre l'établissement et l'agence régionale de l'hospitalisation.
+c) Un supplément dénommé " soins intensifs " (STF) pour chaque journée où le patient est pris en charge soit dans une unité de réanimation autorisée et que les conditions définies aux a et b ne sont pas remplies, soit dans une unité de soins intensifs reconnue par contrat conclu entre l'établissement et l'agence régionale de l'hospitalisation et répondant aux conditions techniques de fonctionnement définies aux articles D. 6124-104 à D. 6124-116 du code de la santé publique, soit dans une chambre d'une unité d'hématologie équipée d'un système de traitement et de contrôle de l'air réduisant les risques de contamination microbienne par voie aérienne et reconnue par contrat conclu entre l'établissement et l'agence régionale de l'hospitalisation.
 
-d) Un supplément dénommé « surveillance continue » (SRC) pour chaque journée où le patient est pris en charge dans une unité de surveillance continue reconnue par contrat conclu entre l'établissement et l'agence régionale de l'hospitalisation et répondant aux conditions techniques de fonctionnement définies aux articles D. 6124-117 et D. 6124-118 du code de la santé publique et que l'une des conditions suivantes est remplie :
+d) Un supplément dénommé " surveillance continue " (SRC) pour chaque journée où le patient est pris en charge dans une unité de surveillance continue reconnue par contrat conclu entre l'établissement et l'agence régionale de l'hospitalisation et répondant aux conditions techniques de fonctionnement définies aux articles D. 6124-117 et D. 6124-120 du code de la santé publique et que l'une des conditions suivantes est remplie :
 
 ― le patient a été directement transféré depuis une unité de réanimation autorisée et sa prise en charge dans cette unité a donné lieu à facturation du supplément mentionné au a ;
 
-― le patient présente un indice de gravité simplifié (IGS) d'une valeur supérieure ou égale à 7, après déduction des points générés par le critère de l'âge, et le diagnostic principal établi correspond à un des diagnostics, associé le cas échéant à un acte, fixé par la liste 1 figurant en annexe 8 ;
+― le patient présente un indice de gravité simplifié (IGS) d'une valeur supérieure ou égale à 7, après déduction des points générés par le critère de l'âge et le diagnostic établi correspond à un des diagnostics, associé le cas échéant à un acte, fixé par la liste 1 ou pour les enfants de moins de 18 ans fixé par la liste 3, figurant en annexe 8. Pour les patients de moins de 18 ans, la valeur de l'IGS n'est pas prise en compte ;
 
 ― le patient présente un indice de gravité simplifié (IGS) d'une valeur supérieure ou égale à 15, après déduction des points générés par le critère de l'âge ;
 
@@ -168,15 +188,13 @@ d) Un supplément dénommé « surveillance continue » (SRC) pour chaque journ�
 
 7° Lorsque l'enfant est pris en charge en unité de néonatologie ou de réanimation néonatale, un des suppléments suivants est facturé en sus du GHS couvrant les prestations de séjour et de soins, à l'exception du GHS 5822 :
 
-a) Un supplément dénommé « néonatologie » (NN1) pour chaque journée où l'enfant est pris en charge dans une unité de néonatologie autorisée.
+a) Un supplément dénommé " néonatologie " (NN1) pour chaque journée où l'enfant est pris en charge dans une unité de néonatologie autorisée.
 
-b) Un supplément dénommé « néonatologie avec soins intensifs » (NN2) pour chaque journée où l'enfant est pris en charge soit dans un lit de soins intensifs d'une unité de néonatologie autorisée, soit dans un lit d'une unité de réanimation néonatale autorisée, et que les conditions définies au c ne sont pas remplies.
+b) Un supplément dénommé " néonatologie avec soins intensifs " (NN2) pour chaque journée où l'enfant est pris en charge soit dans un lit de soins intensifs d'une unité de néonatologie autorisée, soit dans un lit d'une unité de réanimation néonatale autorisée, et que les conditions définies au c ne sont pas remplies.
 
-c) Un supplément dénommé « réanimation néonatale » (NN3) pour chaque journée où l'enfant est pris en charge dans une unité de réanimation néonatale autorisée et qu'un des actes de la liste 1 figurant en annexe 7 y a été effectué, ou que trois occurrences d'au moins un des actes de la liste 2 figurant à la même annexe y ont été effectuées.
+c) Un supplément dénommé " réanimation néonatale " (NN3) pour chaque journée où l'enfant est pris en charge dans une unité de réanimation néonatale autorisée et qu'un des actes de la liste 1 figurant en annexe 7 y a été effectué, ou qu'une occurrence de l'acte de la liste 2 figurant à la même annexe y a été effectuée.
 
-8° Pour la facturation des suppléments prévus aux 6° et 7°, lorsque le patient ou l'enfant est présent moins d'une journée dans l'unité ou le lit, un supplément est facturé.
-
-Lorsque, au cours de la même journée, le patient est présent dans plusieurs unités ou lits, un seul supplément est facturé.
+8° Un supplément dénommé dialyse péritonéale (DIP) est facturé en sus d'un GHS pour chaque journée où le patient sous dialyse péritonéale est hospitalisé au sein d'un établissement de santé, à l'exception des cas où ce GHS est l'un de ceux figurant sur la liste 2 fixée à l'annexe 5. Les séjours dont la date de sortie est égale à la date d'entrée ne peuvent donner lieu à facturation du supplément.
 
 9° Lorsque le patient est pris en charge moins d'une journée, à l'exception des cas où il est pris en charge dans un service d'urgence, un GHS ne peut être facturé que dans les cas où sont réalisés des actes qui nécessitent :
 
@@ -192,8 +210,8 @@ Lorsque l'une de ces conditions n'est pas remplie, la prise en charge du patient
 
 L'un des forfaits figurant en annexe 9 peut être facturé en sus du GHS couvrant les prestations de séjour et de soins délivrées au patient, à l'exception des cas où ce GHS est l'un de ceux figurant sur la liste 2 fixée à l'annexe 5, lorsqu'un des actes de traitement de l'insuffisance rénale chronique mentionnés sur la liste 1 figurant en annexe 5 est réalisé.
 
-II. - Un forfait « groupe homogène de tarifs » (GHT) est facturé pour chaque journée où le patient est hospitalisé à son domicile. Lorsque le patient est hospitalisé moins d'une journée en dehors de son domicile, un forfait GHT est facturé. Ce forfait peut être facturé en sus d'un GHS correspondant à un GHM pour lequel la date de sortie est égale à la date d'entrée ou à un GHM correspondant à la catégorie majeure 28 définie à l'annexe I de l'arrêté du 20 janvier 2009 susvisé, ou d'un SE.
+II.-Un forfait " groupe homogène de tarifs " (GHT) est facturé pour chaque journée où le patient est hospitalisé à son domicile. Lorsque le patient est hospitalisé moins d'une journée en dehors de son domicile, un forfait GHT est facturé. Ce forfait peut être facturé en sus d'un GHS correspondant à un GHM pour lequel la date de sortie est égale à la date d'entrée ou à un GHM correspondant à la catégorie majeure 28 définie à l'annexe I de l'arrêté du 22 février 2008 précité, ou d'un SE.
 
 Lorsque le patient pris en charge est hébergé dans les conditions prévues au quatrième alinéa du 1° de l'article R. 162-32 du code de la sécurité sociale, le montant du GHT facturé est minoré du taux fixé dans l'arrêté pris en application de l'article R. 162-42-1 du code de la sécurité sociale.
 
-III. - Un forfait « dialyse à domicile et autodialyse » est facturé pour chaque séance d'hémodialyse ou d'autodialyse réalisée en dehors d'un établissement de santé ou, dans le cadre de la dialyse péritonéale, pour chaque semaine de traitement. Les forfaits de dialyse péritonéale peuvent être facturés en sus d'un GHS ou d'un SE.
+III.-Un forfait " dialyse à domicile et autodialyse " est facturé pour chaque séance d'hémodialyse ou d'autodialyse réalisée en dehors d'un établissement de santé. Dans le cadre de la dialyse péritonéale, le forfait DPA (D. 15) ou DPCA (D. 16) fixé en annexe 2 est facturé pour chaque semaine de traitement, y compris lorsque le patient est hospitalisé au sein d'un établissement de santé pour une durée inférieure à deux jours. Lorsque le patient est hospitalisé au sein d'un établissement de santé pour une durée comprise entre 3 et 6 jours, le forfait DPA (D. 22) ou DPCA (D. 23) fixé à la même annexe est facturé.

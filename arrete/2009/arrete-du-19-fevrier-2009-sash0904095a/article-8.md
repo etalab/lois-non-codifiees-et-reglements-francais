@@ -1,11 +1,21 @@
 # Article 8
 
-Pour le calcul de la durée de séjour du patient et pour la facturation des forfaits et des suppléments mentionnés au 1° de l'article 1er, le jour de sortie (de l'établissement ou de l'unité) n'est pas pris en compte, à l'exception, pour les suppléments, des séjours à l'issue desquels le patient décède.
+Pour le calcul de la durée de séjour du patient et pour la facturation des forfaits mentionnés au 1° de l'article 1er, le jour de sortie n'est pas pris en compte.
+
+Les suppléments mentionnés au 1° du même article sont facturés de la manière suivante :
+
+- lorsqu'au cours de la même journée, le patient est présent dans plusieurs unités ou lits, seul le supplément dont le montant est le plus élevé est facturé ;
+
+- lorsque le patient est présent moins d'une journée dans l'unité ou le lit, un supplément est facturé ;
+
+- le supplément n'est pas facturé le jour de sortie de l'établissement ou de l'unité, à l'exception des séjours à l'issue desquels le patient décède.
 
 Le forfait journalier mentionné à l'article L. 174-4 du code de la sécurité sociale est facturé pour chaque journée d'hospitalisation, y compris le jour de sortie, à l'exception des séjours à l'issue desquels le patient décède. Ce forfait n'est pas facturé pour les journées de permissions de sortie mentionnées à l'article R. 1112-56 du code de la santé publique.
 
-Pour la facturation des GHS, les journées de permissions de sortie ainsi que les transferts d'une durée inférieure à deux jours dans un autre établissement n'interrompent pas le séjour.
+Pour la facturation des GHS, les journées de permissions de sortie ainsi que les transferts d'une durée inférieure à deux jours dans un autre établissement n'interrompent pas le séjour. Lorsque le patient sort d'un établissement et y est réadmis le même jour, le séjour n'est pas interrompu et donne lieu à facturation d'un seul GHS.
 
 Pour la facturation des GHT, les transferts comportant au moins une nuitée dans un établissement de santé interrompent le séjour d'hospitalisation à domicile et, dans ce cas, par dérogation aux dispositions du II de l'article 6, aucun GHT ne peut être facturé le jour du transfert du patient.
 
-Lorsque le patient est réhospitalisé dans le même établissement après un transfert d'une durée supérieure à deux jours dans un service de médecine, de chirurgie, d'obstétrique ou d'odontologie d'un autre établissement, sa prise en charge donne lieu à facturation d'un GHS sur la base de 50 % de son tarif, dès lors que les prestations de séjour et de soins qui lui sont délivrées au cours des deux séjours donnent lieu à la production du même GHM, à l'exception du cas où cette prise en charge relève d'un traitement itératif.
+Lorsque le patient est réhospitalisé dans le même établissement après un transfert d'une durée supérieure à deux jours dans un service de médecine, de chirurgie, d'obstétrique ou d'odontologie d'un autre établissement, sa prise en charge donne lieu à facturation d'un GHS sur la base de 50 % de son tarif minoré, le cas échéant, selon les modalités prévues au 4° du I de l'article 6, dès lors que les prestations de séjour et de soins qui lui sont délivrées au cours des deux séjours donnent lieu à la production du même GHM, à l'exception du cas où cette prise en charge relève d'un traitement itératif.
+
+Lorsque le patient est hospitalisé et qu'il est pris en charge dans un autre établissement pour la réalisation d'une prestation de séjours ou de soins correspondant à un GHM de la catégorie majeure 28 définie à l'annexe I de l'arrêté du 28 février 2008 modifié précité, à l'exception des GHM 28Z14Z, 28Z15Z et 28Z16Z, chaque établissement facture sa prestation.

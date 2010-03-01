@@ -5,52 +5,104 @@
 <table>
 <tbody>
 <tr>
-<th>
-<br/>CODE</th>
-<th>
-<br/>FORFAIT</th>
+<td>
+<br/>
+<p align="center">CODE</p>
+</td>
+<td>
+<br/>
+<p align="center">FORFAIT</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>D12</td>
-<td align="center">
-<br/>Forfait d'autodialyse simple.</td>
+<td>
+<br/>
+<p align="center">D12</p>
+</td>
+<td>
+<br/>
+<p align="center">Forfait d'autodialyse simple</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>D13</td>
-<td align="center">
-<br/>Forfait d'autodialyse assistée.</td>
+<td>
+<br/>
+<p align="center">D13</p>
+</td>
+<td>
+<br/>
+<p align="center">Forfait d'autodialyse assistée</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>D14</td>
-<td align="center">
-<br/>Forfait d'hémodialyse à domicile.</td>
+<td>
+<br/>
+<p align="center">D14</p>
+</td>
+<td>
+<br/>
+<p align="center">Forfait d'hémodialyse à domicile</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>D15</td>
-<td align="center">
-<br/>Forfait de dialyse péritonéale automatisée (DPA).</td>
+<td>
+<br/>
+<p align="center">D15</p>
+</td>
+<td>
+<br/>
+<p align="center">Forfait de dialyse péritonéale automatisée (DPA)</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>D16</td>
-<td align="center">
-<br/>Forfait de dialyse péritonéale continue ambulatoire (DPCA).</td>
+<td>
+<br/>
+<p align="center">D16</p>
+</td>
+<td>
+<br/>
+<p align="center">Forfait de dialyse péritonéale continue ambulatoire (DPCA)</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>D20</td>
-<td align="center">
-<br/>Forfait d'entraînement à la dialyse péritonéale automatisée.</td>
+<td>
+<br/>
+<p align="center">D20</p>
+</td>
+<td>
+<br/>
+<p align="center">Forfait d'entraînement à la dialyse péritonéale   automatisée</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>D21</td>
-<td align="center">
-<br/>Forfait d'entraînement à la dialyse péritonéale continue ambulatoire.</td>
+<td>
+<br/>
+<p align="center">D21</p>
+</td>
+<td>
+<br/>
+<p align="center">Forfait d'entraînement à la dialyse péritonéale continue   ambulatoire</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+<p align="center">D22</p>
+</td>
+<td>
+<br/>
+<p align="center">Forfait de dialyse péritonéale automatisée pour une   hospitalisation d'une durée comprise entre 3 et 6 jours </p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+<p align="center">D23</p>
+</td>
+<td>
+<br/>
+<p align="center">Forfait de dialyse péritonéale continue ambulatoire pour   une hospitalisation d'une durée comprise entre 3 et 6 jours</p>
+</td>
 </tr>
 </tbody>
 </table>
