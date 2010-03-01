@@ -1,6 +1,6 @@
 # Article 31
 
-La Poste peut employer, sous le régime des conventions collectives, des agents contractuels, dans le cadre des orientations fixées par le contrat de plan.
+La Poste emploie des agents contractuels sous le régime des conventions collectives.
 
 L'emploi des agents soumis au régime des conventions collectives n'a pas pour effet de rendre applicables à La Poste les dispositions du code du travail relatives aux comités d'entreprise, ni celles relatives aux délégués du personnel et aux délégués syndicaux.
 

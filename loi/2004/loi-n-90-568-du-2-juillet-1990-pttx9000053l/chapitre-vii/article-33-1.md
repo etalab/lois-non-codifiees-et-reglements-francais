@@ -1,6 +1,6 @@
 # Article 33-1
 
-Il est créé au sein de La Poste un conseil d'orientation et de gestion des activités sociales en charge de définir la politique et d'assurer la gestion et le contrôle des activités sociales relevant de l'exploitant public.
+Il est créé au sein de La Poste un conseil d'orientation et de gestion des activités sociales en charge de définir la politique et d'assurer la gestion et le contrôle des activités sociales relevant de la société.
 
 Chaque conseil d'orientation et de gestion des activités sociales comprend huit représentants désignés par La Poste, huit représentants désignés par les organisations syndicales représentatives, huit représentants désignés par les associations de personnel à caractère national.
 
