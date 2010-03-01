@@ -2,6 +2,7 @@
 
 - [Chapitre Ier : Dispositions communes](chapitre-ier)
 - [Chapitre II : Des déclarations de conformité à la Constitution.](chapitre-ii)
+- [Chapitre II bis : De la question prioritaire de constitutionnalité](chapitre-ii-bis)
 - [Chapitre III : De l'examen des textes de forme législative](chapitre-iii)
 - [Chapitre III bis  : De l'examen des conditions de présentation des projets de loi](chapitre-iii-bis)
 - [Chapitre IV : De l'examen des fins de non-recevoir](chapitre-iv)
