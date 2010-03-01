@@ -18,3 +18,4 @@
 - [Article 17-16](article-17-16.md)
 - [Article 17-17](article-17-17.md)
 - [Article 17-18](article-17-18.md)
+- [Article 17-19](article-17-19.md)
