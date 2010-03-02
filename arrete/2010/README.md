@@ -540,7 +540,6 @@
 - [Arrêté du 27 janvier 2010 (MENE0929855A)](arrete-du-27-janvier-2010-mene0929855a)
 - [Arrêté du 27 janvier 2010 (MENE0929859A)](arrete-du-27-janvier-2010-mene0929859a)
 - [Arrêté du 27 janvier 2010 (SASP1002542A)](arrete-du-27-janvier-2010-sasp1002542a)
-- [Arrêté du 27 janvier 2010 (SASP1002709A)](arrete-du-27-janvier-2010-sasp1002709a)
 - [Arrêté du 27 juillet 1993 (PRMG9370421A)](arrete-du-27-juillet-1993-prmg9370421a)
 - [Arrêté du 27 novembre 2009 (DEVL0926627A)](arrete-du-27-novembre-2009-devl0926627a)
 - [Arrêté du 28 décembre 2009 (AGRG0928319A)](arrete-du-28-decembre-2009-agrg0928319a)
