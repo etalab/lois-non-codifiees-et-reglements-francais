@@ -1,3 +1,5 @@
 # Article 20
 
 Les fonctionnaires qui occupaient, à la date de publication du présent décret, un emploi de chef de services déconcentrés mentionné par un des décrets énumérés en annexe au décret du 18 juin 2001 susvisé conservent, à titre personnel et s'ils y ont intérêt, le bénéfice de l'indice qu'ils détenaient dans cet emploi, lorsqu'ils sont nommés dans un emploi régi par le présent décret.
+
+Par dérogation aux dispositions des articles 13, 14 et 15, les fonctionnaires désignés, avant le 1er janvier 2010, comme préfigurateurs des directions des services déconcentrés de l'Etat ou des délégations à la mer et au littoral peuvent être nommés, respectivement, dans l'emploi de directeur ou dans celui d'adjoint au directeur, délégué à la mer et au littoral correspondant à la direction ou à la délégation qu'ils ont préfigurée, nonobstant la circonstance qu'ils ne remplissent pas les conditions relatives aux indices terminaux des corps et cadre d'emplois et à l'ancienneté dans la fonction publique, qui y sont mentionnées.
