@@ -730,7 +730,6 @@
 - [Arrêté du 24 février 2003 (AGRR0300332A)](arrete-du-24-fevrier-2003-agrr0300332a)
 - [Arrêté du 24 février 2003 (MENJ0300560A)](arrete-du-24-fevrier-2003-menj0300560a)
 - [Arrêté du 24 février 2003 (SPRK0370037A)](arrete-du-24-fevrier-2003-sprk0370037a)
-- [Arrêté du 24 juillet 2003 (AGRA0301526A)](arrete-du-24-juillet-2003-agra0301526a)
 - [Arrêté du 24 juillet 2003 (AGRF0301696A)](arrete-du-24-juillet-2003-agrf0301696a)
 - [Arrêté du 24 juillet 2003 (DEFD0301910A)](arrete-du-24-juillet-2003-defd0301910a)
 - [Arrêté du 24 juillet 2003 (JUSE0340095A)](arrete-du-24-juillet-2003-juse0340095a)
