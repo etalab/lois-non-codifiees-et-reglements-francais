@@ -312,5 +312,6 @@
 - [Décret n°2009-1788 du 31 décembre 2009 (BCFD0931057D)](decret-n2009-1788-du-31-decembre-2009-bcfd0931057d)
 - [Décret n°2009-1790 du 31 décembre 2009 (DEFH0931800D)](decret-n2009-1790-du-31-decembre-2009-defh0931800d)
 - [Décret n°2010-111 du 1er février 2010 (DEVP1002170D)](decret-n2010-111-du-1er-fevrier-2010-devp1002170d)
+- [Décret n°2010-200 du 1er mars 2010 (PRMG1002747D)](decret-n2010-200-du-1er-mars-2010-prmg1002747d)
 - [Décret n°2011-379 (PRMX1109196D)](decret-n2011-379-prmx1109196d)
 - [LOI organique n°2009-1523 du 10 décembre 2009 (JUSX0902104L)](loi-organique-n2009-1523-du-10-decembre-2009-jusx0902104l)
