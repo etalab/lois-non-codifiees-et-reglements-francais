@@ -1,6 +1,6 @@
 # Article Annexe II
 
-INFORMATION ET CONSENTEMENT DE LA FEMME ENCEINTE À LA RÉALISATION DU PRÉLÈVEMENT ET D'UNE OU DE PLUSIEURS ANALYSES EN VUE D'UN DIAGNOSTIC PRÉNATAL IN UTERO (EN RÉFÉRENCE AUX ARTICLES R. 2131-1 ET R. 2131-2 DU CODE DE LA SANTÉ PUBLIQUE)
+INFORMATION ET CONSENTEMENT DE LA FEMME ENCEINTE LA RÉALISATION DU PRÉLÈVEMENT ET D'UNE OU DE PLUSIEURS ANALYSES EN VUE D'UN DIAGNOSTIC PRÉNATAL IN UTERO (EN RÉFÉRENCE AUX ARTICLES R. 2131-1 ET R. 2131-2 DU CODE DE LA SANTÉ PUBLIQUE)
 
 Je soussignée
 
@@ -28,15 +28,15 @@ au cours d'une consultation médicale :
 
 - sur le fait que le résultat de l'examen me sera rendu et expliqué par le médecin qui me l'a prescrit,
 
-consens au prélèvement de (2) :
+consens au prélèvement de (2)
 
-ainsi qu'à l'analyse ou aux analyses de (3) :
+ainsi qu'à l'analyse ou aux analyses de (3)
 
 pour laquelle ou lesquelles ce prélèvement est effectué.
 
-Cette (ou ces) analyse(s) sera(seront) réalisée(s) dans un établissement public de santé ou un laboratoire d'analyses de biologie médicale autorisé à les pratiquer :
+Cette (ou ces) analyse (s) sera (seront) réalisée (s) dans un établissement public de santé ou un laboratoire d'analyses de biologie médicale autorisé à les pratiquer :
 
-Le docteur conserve l'original du présent document.
+L'original du présent document est conservé dans le dossier médical de la patiente.
 
 Une copie de ce document m'est remise ainsi qu'au praticien devant effectuer les analyses.
 
@@ -44,4 +44,30 @@ L'établissement public de santé ou le laboratoire d'analyses de biologie médi
 
 Date :
 
-Signature du praticien Signature de l'intéressée
+Signature du praticien
+
+Signature de l'intéressée
+
+(1) Ce deuxième prélèvement requiert un nouveau consentement.
+
+(2) Précisez le type de prélèvement :
+
+- liquide amniotique ;
+
+- villosités choriales ;
+
+- sang fœtal.
+
+(3) Précisez le type d'analyses :
+
+- cytogénétique y compris cytogénétique moléculaire ;
+
+- génétique moléculaire ;
+
+- analyses en vue du diagnostic de maladies infectieuses (incluant les analyses de biologie moléculaire) ;
+
+- biochimie hors marqueurs sériques maternels ;
+
+- hématologie (incluant les analyses de biologie moléculaire) ;
+
+- immunologie (incluant les analyses de biologie moléculaire).
