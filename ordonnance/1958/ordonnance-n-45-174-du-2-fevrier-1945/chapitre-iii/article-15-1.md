@@ -24,4 +24,6 @@ Si la prévention est établie à l'égard d'un mineur âgé d'au moins dix ans,
 
 Le tribunal pour enfants désignera le service de la protection judiciaire de la jeunesse ou le service habilité chargé de veiller à la bonne exécution de la sanction. Ce service fera rapport au juge des enfants de l'exécution de la sanction éducative.
 
+Les sanctions éducatives prononcées en application du présent article sont exécutées dans un délai ne pouvant excéder trois mois à compter du jugement.
+
 En cas de non-respect par le mineur des sanctions éducatives prévues au présent article, le tribunal pour enfants pourra prononcer à son égard une mesure de placement dans l'un des établissements visés à l'article 15.
