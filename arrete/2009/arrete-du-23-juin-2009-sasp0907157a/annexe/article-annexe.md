@@ -94,7 +94,7 @@ Les appareils échographiques doivent satisfaire aux conditions suivantes :
 
 ― possibilité de mesures au dixième de millimètre.
 
-Les médecins spécialistes en gynécologie-obstétrique ou en imagerie médicale et les sages-femmes, ayant débuté l'exercice de l'échographie obstétricale à partir des années 1994-1995, doivent être titulaires du diplôme interuniversitaire d'échographie en gynécologie-obstétrique ou de l'attestation en échographie obstétricale pour les sages-femmes. Les médecins généralistes et les autres médecins spécialistes doivent avoir validé le DIU d'échographie générale ainsi que son module optionnel de gynécologie-obstétrique.
+Les médecins spécialistes en gynécologie-obstétrique et les sages-femmes, ayant débuté l'exercice de l'échographie obstétricale à partir de l'année 1997, doivent être titulaires du diplôme interuniversitaire d'échographie en gynécologie-obstétrique ou de l'attestation en échographie obstétricale pour les sages-femmes. Les médecins spécialistes en radiologie et imagerie médicale ayant débuté l'exercice de l'échographie obstétricale à partir de l'année 1997 doivent être titulaires du diplôme interuniversitaire (DIU) d'échographie en gynécologie obstétrique ou doivent avoir validé le module optionnel du DIU d'échographie générale. Les autres médecins spécialistes et les médecins généralistes doivent avoir validé le DIU d'échographie générale ainsi que son module optionnel de gynécologie-obstétrique.
 
 3. Prélèvement sanguin et dosages biochimiques (marqueurs sériques maternels au premier trimestre ou par défaut au second trimestre)
 
@@ -178,7 +178,7 @@ Le médecin prescripteur est alors informé de l'impossibilité d'effectuer le c
 
 ― le calcul de risque est réalisé par un praticien agréé pour effectuer les analyses mentionnées au 6° de l'article R. 2131-1.
 
-Il est proposé à la femme enceinte de faire une démarche diagnostique dès lors que son risque d'avoir un enfant atteint de trisomie 21 s'avère, après calcul, supérieur à 1/250 au moment du prélèvement.
+Il est proposé à la femme enceinte de faire une démarche diagnostique dès lors que son risque d'avoir un enfant atteint de trisomie 21 s'avère, après calcul, supérieur ou égal à 1/250 au moment du prélèvement.
 
 4.2. Rendu des résultats
 
@@ -198,7 +198,7 @@ Le commentaire du calcul de risque et les limites à ce calcul sont clairement e
 
 Les praticiens agréés pour effectuer les analyses mentionnées au 6° de l'article R. 2131-1 doivent être en mesure de fournir :
 
-― le pourcentage de femmes considérées à risque (risque supérieur à 1/250) au sein de l'ensemble des femmes pour lesquelles le calcul a été réalisé ;
+― le pourcentage de femmes considérées à risque (risque supérieur ou égal à 1/250) au sein de l'ensemble des femmes pour lesquelles le calcul a été réalisé ;
 
 ― la structure d'âge de la population testée ;
 
@@ -206,9 +206,9 @@ Les praticiens agréés pour effectuer les analyses mentionnées au 6° de l'art
 
 ― les médianes et la distribution de chacun des marqueurs biochimiques ;
 
-― les médianes et la distribution de la clarté nucale, par opérateur(désigné par son identifiant) ;
+― les médianes et la distribution de la clarté nucale, par opérateur (désigné par son identifiant) ;
 
-― le suivi des issues de grossesse y compris le taux de perdues de vue .
+― le suivi des issues de grossesse y compris le taux de perdues de vue.
 
 A cet effet, une procédure de transmission des données entre l'ensemble des professionnels concernés est établie par le ou les réseaux de périnatalité.
 
