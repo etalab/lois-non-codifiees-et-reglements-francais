@@ -14,7 +14,7 @@ Dans le cas visé à l'alinéa précédent, l'imputation au service de l'acciden
 
 La collectivité et subrogée dans les droits éventuels du fonctionnaire victime d'un accident provoqué par un tiers jusqu'à concurrence du montant des charges qu'elle a supportées ou supporte du fait de cet accident. Elle est admise à poursuivre directement contre le responsable du dommage ou son assureur le remboursement des charges patronales afférentes aux rémunérations maintenues ou versées audit fonctionnaire pendant la période d'indisponibilité de celui-ci par dérogation aux dispositions de l'article 2 de l'ordonnance n° 59-76 du 7 janvier 1959 relative aux actions en réparation civile de l'Etat et de certaines autres personnes publiques ;
 
-3° A des congés de longue maladie d'une durée maximale de trois ans dans les cas où il est constaté que la maladie met l'intéressé dans l'impossibilité d'exercer ses fonctions, rend nécessaires un traitement et des soins prolongés et présente un caractère invalidant et de gravité confirmée. Le fonctionnaire conserve l'intégralité de son traitement pendant un an ; le traitement est réduit de moitié pendant les deux années qui suivent. L'intéressé conserve, en outre, ses droits à la totalité du supplément familial de traitement et de l'indemnité de résidence.
+3° A des congés de longue maladie d'une durée maximale de trois ans dans les cas où il est constaté que la maladie met l'intéressé dans l'impossibilité d'exercer ses fonctions, rend nécessaires un traitement et des soins prolongés et présente un caractère invalidant et de gravité confirmée. Le fonctionnaire conserve l'intégralité de son traitement pendant un an ; le traitement est réduit de moitié pendant les deux années qui suivent.L'intéressé conserve, en outre, ses droits à la totalité du supplément familial de traitement et de l'indemnité de résidence.
 
 Le fonctionnaire qui a obtenu un congé de longue maladie ne peut bénéficier d'un autre congé de cette nature s'il n'a pas auparavant repris l'exercice de ses fonctions pendant un an.
 
@@ -30,25 +30,25 @@ Sur demande de l'intéressé, l'administration a la faculté, après avis du com
 
 Les dispositions de la deuxième phrase du quatrième alinéa du 2° du présent article sont applicables aux congés de longue durée ;
 
-4° bis.  Après six mois consécutifs de congé de maladie pour une même affection, après un congé de longue maladie ou un congé de longue durée, les fonctionnaires peuvent être autorisés, après avis du comité médical compétent, à accomplir un service à temps partiel pour raison thérapeutique, accordé pour une période de trois mois renouvelable dans la limite d'un an pour une même affection.
+4° bis. Après six mois consécutifs de congé de maladie pour une même affection, après un congé de longue maladie ou un congé de longue durée, les fonctionnaires peuvent être autorisés, après avis du comité médical compétent, à accomplir un service à temps partiel pour raison thérapeutique, accordé pour une période de trois mois renouvelable dans la limite d'un an pour une même affection.
 
 Après un congé pour accident de service ou maladie contractée dans l'exercice des fonctions, le travail à temps partiel thérapeutique peut être accordé pour une période d'une durée maximale de six mois renouvelable une fois, après avis favorable de la commission de réforme compétente.
 
 Le temps partiel thérapeutique peut être accordé :
 
-- soit parce que la reprise des fonctions à temps partiel est reconnue comme étant de nature à favoriser l'amélioration de l'état de santé de l'intéressé ;
+-soit parce que la reprise des fonctions à temps partiel est reconnue comme étant de nature à favoriser l'amélioration de l'état de santé de l'intéressé ;
 
-- soit parce que l'intéressé doit faire l'objet d'une rééducation ou d'une réadaptation professionnelle pour retrouver un emploi compatible avec son état de santé.
+-soit parce que l'intéressé doit faire l'objet d'une rééducation ou d'une réadaptation professionnelle pour retrouver un emploi compatible avec son état de santé.
 
 Les fonctionnaires autorisés à travailler à temps partiel pour raison thérapeutique perçoivent l'intégralité de leur traitement ;
 
 Ce temps partiel thérapeutique ne peut, en aucun cas, être inférieur au mi-temps ;
 
-5° Au congé pour maternité, ou pour adoption, avec traitement, d'une durée égale à celle prévue par la législation sur la sécurité sociale.Le droit au congé d'adoption est ouvert à la mère ou au père adoptif. Lorsque les deux conjoints travaillent, soit l'un des deux renonce à son droit, soit le congé est réparti entre eux. Dans ce dernier cas, la durée de celui-ci est augmentée et fractionnée selon les modalités prévues par la législation sur la sécurité sociale.
+5° Au congé pour maternité, ou pour adoption, avec traitement, d'une durée égale à celle prévue par la législation sur la sécurité sociale. Le droit au congé d'adoption est ouvert à la mère ou au père adoptif. Lorsque les deux conjoints travaillent, soit l'un des deux renonce à son droit, soit le congé est réparti entre eux. Dans ce dernier cas, la durée de celui-ci est augmentée et fractionnée selon les modalités prévues par la législation sur la sécurité sociale.
 
 Au congé de paternité en cas de naissance avec traitement, d'une durée égale à celle prévue par la législation sur la sécurité sociale ;
 
-A l'expiration de chacun des congés mentionnés aux deux alinéas précédents, le fonctionnaire est réaffecté de plein droit dans son ancien emploi. Dans le cas où celui-ci ne peut lui être proposé, le fonctionnaire est affecté dans un emploi équivalent, le plus proche de son dernier lieu de travail. S'il le demande, il peut également être affecté dans l'emploi le plus proche de son domicile sous réserve du respect des dispositions de l'article 54 ;
+A l'expiration de chacun des congés mentionnés aux deux alinéas précédents, le fonctionnaire est réaffecté de plein droit dans son ancien emploi. Dans le cas où celui-ci ne peut lui être proposé, le fonctionnaire est affecté dans un emploi équivalent, le plus proche de son dernier lieu de travail.S'il le demande, il peut également être affecté dans l'emploi le plus proche de son domicile sous réserve du respect des dispositions de l'article 54 ;
 
 6° Au congé de formation professionnelle ;
 
@@ -64,12 +64,12 @@ A l'expiration de chacun des congés mentionnés aux deux alinéas précédents,
 
 Bénéficient du même congé les fonctionnaires atteints d'infirmités ayant ouvert droit à pension du code des pensions militaires d'invalidité et des victimes de la guerre au titre :
 
-- du titre III du livre II de ce code relatif aux victimes civiles des faits de guerre ;
+-du titre III du livre II de ce code relatif aux victimes civiles des faits de guerre ;
 
-- de la loi n° 55-1074 du 6 août 1955 relative aux avantages accordés aux personnels militaires participant au maintien de l'ordre dans certaines circonstances, complétée par l'ordonnance n° 59-261 du 4 février 1959 modifiant certaines dispositions du code des pensions militaires d'invalidité et des victimes de la guerre ;
+-de la loi n° 55-1074 du 6 août 1955 relative aux avantages accordés aux personnels militaires participant au maintien de l'ordre dans certaines circonstances, complétée par l'ordonnance n° 59-261 du 4 février 1959 modifiant certaines dispositions du code des pensions militaires d'invalidité et des victimes de la guerre ;
 
-- et de la loi n° 59-901 du 31 juillet 1959 relative à la réparation des dommages physiques subis en métropole par les personnes de nationalité française, par suite des événements qui se déroulent en Algérie ;
+-et de la loi n° 59-901 du 31 juillet 1959 relative à la réparation des dommages physiques subis en métropole par les personnes de nationalité française, par suite des événements qui se déroulent en Algérie ;
 
-10° A un congé d'accompagnement d'une personne en fin de vie lorsqu'un ascendant ou un descendant ou une personne partageant son domicile fait l'objet de soins palliatifs. Ce congé non rémunéré est accordé pour une durée maximale de trois mois, sur demande écrite du fonctionnaire. Le congé d'accompagnement d'une personne en fin de vie prend fin soit à l'expiration de la période de trois mois, soit dans les trois jours qui suivent le décès de la personne accompagnée, soit à une date antérieure. La durée de ce congé est assimilée à une période de service effectif. Elle ne peut être imputée sur la durée du congé annuel ;
+10° A un congé de solidarité familiale lorsqu'un ascendant, un descendant, un frère, une sœur, une personne partageant le même domicile ou l'ayant désigné comme sa personne de confiance au sens de l'article L. 1111-6 du code de la santé publique souffre d'une pathologie mettant en jeu le pronostic vital ou est en phase avancée ou terminale d'une affection grave et incurable, quelle qu'en soit la cause. Ce congé non rémunéré est accordé, sur demande écrite du fonctionnaire, pour une durée maximale de trois mois, renouvelable une fois. Il peut être fractionné dans des conditions fixées par décret. Le congé de solidarité familiale prend fin soit à l'expiration de la période de trois mois, soit dans les trois jours qui suivent le décès de la personne accompagnée, soit à une date antérieure. La durée de ce congé est assimilée à une période de service effectif. Elle ne peut être imputée sur la durée du congé annuel. Ce congé peut être transformé en période d'activité à temps partiel dans des conditions fixées par décret ;
 
 11° A un congé pour siéger, comme représentant d'une association déclarée en application de la loi du 1er juillet 1901 relative au contrat d'association ou inscrite au registre des associations en application de la loi du 19 avril 1908 applicable au contrat d'association dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle ou d'une mutuelle au sens du code de la mutualité, dans une instance, consultative ou non, instituée par une disposition législative ou réglementaire auprès d'une autorité de l'Etat à l'échelon national, régional ou départemental, ou d'une collectivité territoriale. Ce congé avec traitement est accordé sous réserve des nécessités de service et ne peut dépasser neuf jours ouvrables par an. Il peut être fractionné en demi-journées. Ce congé ne peut se cumuler avec ceux qui sont prévus aux 7° et 8° du présent article qu'à concurrence de douze jours ouvrables pour une même année.
