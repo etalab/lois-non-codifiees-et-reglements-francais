@@ -16,6 +16,8 @@ Institut de formation syndicale de la Fédération générale autonome des fonct
 
 CEFI Solidaires, 144, boulevard de la Villette, 75019 Paris ;
 
+Institut de formation et d'études des travailleurs et travailleuses des secteurs d'activités sanitaires et sociaux solidaires, unitaires et démocratiques (IFET-SUD), 70, rue Philippe-de-Girard, 75018 Paris ;
+
 Institut du travail de l'université Strasbourg-III, 39, avenue de la Forêt-Noire, 67000 Strasbourg ;
 
 Institut des sciences sociales du travail de l'université Paris-I, 37, avenue du Président-Franklin-Roosevelt, 92330 Sceaux ;
