@@ -561,8 +561,6 @@
 - [Arrêté du 25 juillet 2005 (MENR0501614A)](arrete-du-25-juillet-2005-menr0501614a)
 - [Arrêté du 25 juillet 2005 (SANG0522300A)](arrete-du-25-juillet-2005-sang0522300a)
 - [Arrêté du 25 juillet 2005 (SANS0522777A)](arrete-du-25-juillet-2005-sans0522777a)
-- [Arrêté du 25 mars 2005 (DEFP0500398A)](arrete-du-25-mars-2005-defp0500398a)
-- [Arrêté du 25 mars 2005 (DEFP0500399A)](arrete-du-25-mars-2005-defp0500399a)
 - [Arrêté du 25 mars 2005 (ECOC0500046A)](arrete-du-25-mars-2005-ecoc0500046a)
 - [Arrêté du 25 mars 2005 (SOCF0510628A)](arrete-du-25-mars-2005-socf0510628a)
 - [Arrêté du 25 mars 2005 (SOCF0510629A)](arrete-du-25-mars-2005-socf0510629a)

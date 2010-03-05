@@ -555,7 +555,6 @@
 - [Arrêté du 22 novembre 2002 (EQUA0201839A)](arrete-du-22-novembre-2002-equa0201839a)
 - [Arrêté du 22 novembre 2002 (EQUP0201784A)](arrete-du-22-novembre-2002-equp0201784a)
 - [Arrêté du 22 octobre 2002 (INTE0200595A)](arrete-du-22-octobre-2002-inte0200595a)
-- [Arrêté du 23 avril 2002 (AGRA0200889A)](arrete-du-23-avril-2002-agra0200889a)
 - [Arrêté du 23 avril 2002 (AGRG0200999A)](arrete-du-23-avril-2002-agrg0200999a)
 - [Arrêté du 23 avril 2002 (ECOP0200314A)](arrete-du-23-avril-2002-ecop0200314a)
 - [Arrêté du 23 avril 2002 (EQUS0200706A)](arrete-du-23-avril-2002-equs0200706a)
