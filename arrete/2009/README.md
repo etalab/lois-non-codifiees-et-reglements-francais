@@ -1837,7 +1837,6 @@
 - [Arrêté du 20 octobre 2009 (BCFR0910825A)](arrete-du-20-octobre-2009-bcfr0910825a)
 - [Arrêté du 20 octobre 2009 (DEFK0924839A)](arrete-du-20-octobre-2009-defk0924839a)
 - [Arrêté du 20 octobre 2009 (DEVA0924609A)](arrete-du-20-octobre-2009-deva0924609a)
-- [Arrêté du 20 octobre 2009 (DEVA0924647A)](arrete-du-20-octobre-2009-deva0924647a)
 - [Arrêté du 20 octobre 2009 (ECEI0921499A)](arrete-du-20-octobre-2009-ecei0921499a)
 - [Arrêté du 20 octobre 2009 (ECES0924475A)](arrete-du-20-octobre-2009-eces0924475a)
 - [Arrêté du 20 octobre 2009 (ECET0921590A)](arrete-du-20-octobre-2009-ecet0921590a)
