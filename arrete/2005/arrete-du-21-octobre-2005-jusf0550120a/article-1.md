@@ -1,6 +1,6 @@
 # Article 1
 
-Il est créé, dans chaque direction régionale de la protection judiciaire de la jeunesse, un traitement automatisé d'informations nominatives dont l'objet est de :
+Il est créé, dans chaque        direction interrégionale de la protection judiciaire de la jeunesse, un traitement automatisé d'informations nominatives dont l'objet est de :
 
 1° Recenser la mesure éducative prononcée par le magistrat de l'ordre judiciaire, du mineur ou du jeune majeur à l'égard de qui elle est prononcée, de la structure éducative, service ou établissement du secteur associatif habilité par la justice à qui est confiée l'exécution de ladite mesure éducative judiciaire ;
 

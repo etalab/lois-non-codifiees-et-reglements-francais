@@ -18,4 +18,4 @@ A ce titre, il assure les missions suivantes :
 
 ― l'exercice, dans le cadre de l'exécution des peines et des mesures de sûreté, du contrôle des obligations imposées aux personnes qui leur sont confiées ;
 
-― la participation des professionnels du secteur public de la protection judiciaire de la jeunesse aux politiques publiques, conformément aux orientations fixées par le directeur départemental de la protection judiciaire de la jeunesse.
+― la participation des professionnels du secteur public de la protection judiciaire de la jeunesse aux politiques publiques, conformément aux orientations fixées par le        directeur territorial de la protection judiciaire de la jeunesse.

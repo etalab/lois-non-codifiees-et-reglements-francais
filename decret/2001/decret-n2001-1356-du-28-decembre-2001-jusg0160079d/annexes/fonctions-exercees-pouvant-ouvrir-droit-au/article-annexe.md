@@ -16,11 +16,11 @@ A.-Fonctions exercées en administration centrale
 
 7. Chef de l'inspection des services pénitentiaires.
 
-8. A compter du 11 janvier 2003 :
+8.A compter du 11 janvier 2003 :
 
 Chef du département de l'état-major de sécurité de la direction de l'administration pénitentiaire.
 
-8. A compter du 1er janvier 2004 :
+8.A compter du 1er janvier 2004 :
 
 Supprimer la mention :
 
@@ -40,6 +40,6 @@ B.-Fonctions exercées dans les services territoriaux
 
 2. Coordonnateur de service administratif régional de cour d'appel.
 
-3. Directeur régional de la protection judiciaire de la jeunesse.
+3.        directeur interrégional de la protection judiciaire de la jeunesse.
 
 4. Directeur d'établissement pénitentiaire.

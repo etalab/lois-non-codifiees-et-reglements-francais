@@ -2,17 +2,17 @@
 
 Il est institué auprès du garde des sceaux, ministre de la justice, un comité de la médaille d'honneur de la protection judiciaire de la jeunesse comprenant :
 
-- le directeur de la protection judiciaire de la jeunesse ou, en cas d'empêchement, l'adjoint du directeur, ou un sous-directeur à la protection judiciaire de la jeunesse, qui le préside ;
+-le directeur de la protection judiciaire de la jeunesse ou, en cas d'empêchement, l'adjoint du directeur, ou un sous-directeur à la protection judiciaire de la jeunesse, qui le préside ;
 
-- un inspecteur de l'inspection des services de la protection judiciaire de la jeunesse ;
+-un inspecteur de l'inspection des services de la protection judiciaire de la jeunesse ;
 
-- un directeur régional de la protection judiciaire de la jeunesse ;
+-un directeur interrégional de la protection judiciaire de la jeunesse ;
 
-- un directeur départemental de la protection judiciaire de la jeunesse ;
+-un        directeur territorial de la protection judiciaire de la jeunesse ;
 
-- un magistrat en fonction dans les services de la direction de la protection judiciaire de la jeunesse ;
+-un magistrat en fonction dans les services de la direction de la protection judiciaire de la jeunesse ;
 
-- un fonctionnaire de catégorie A de la sous-direction des ressources humaines et des relations sociales de la direction de la protection judiciaire de la jeunesse.
+-un fonctionnaire de catégorie A de la sous-direction des ressources humaines et des relations sociales de la direction de la protection judiciaire de la jeunesse.
 
 Le chef de cabinet du directeur de la protection judiciaire de la jeunesse assure le secrétariat de ce comité.
 

@@ -2,7 +2,7 @@
 
 Les personnes physiques et les établissements ou services dépendant d'une personne morale habilités à mettre en oeuvre la mesure ou l'activité d'aide ou de réparation visée à l'article 12-1 de l'ordonnance n° 45-174 du 2 février 1945 susvisée peuvent bénéficier d'une rémunération versée par l'Etat dans les conditions suivantes :
 
-1° Mineurs suivis par un service : remboursement sur la base d'un prix du cas fixé, chaque année, pour chaque service, par le préfet du lieu d'implantation du service, sur rapport du directeur régional de la protection judiciaire de la jeunesse.
+1° Mineurs suivis par un service : remboursement sur la base d'un prix du cas fixé, chaque année, pour chaque service, par le préfet du lieu d'implantation du service, sur rapport du        directeur interrégional de la protection judiciaire de la jeunesse.
 
 Le prix du cas est calculé en divisant le prix de revient prévisionnel du service par le nombre de mesures de réparation prévu au titre de l'année considérée.
 

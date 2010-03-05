@@ -3,7 +3,7 @@
 <table>
 <tbody>
 <tr>
-<th rowspan="2">DIRECTIONS DÉPARTEMENTALES<br/>de la protection judiciaire de la jeunesse<br/>
+<th rowspan="2">DIRECTIONS TERRITORIALES<br/>de la protection judiciaire de la jeunesse<br/>
 </th>
 <th rowspan="2">ORGANISATIONS SYNDICALES<br/>
 </th>

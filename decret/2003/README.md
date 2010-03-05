@@ -123,6 +123,7 @@
 - [Décret n°2003-411 du 5 mai 2003 (INTC0300083D)](decret-n2003-411-du-5-mai-2003-intc0300083d)
 - [Décret n°2003-428 du 5 mai 2003 (JUSD0330014D)](decret-n2003-428-du-5-mai-2003-jusd0330014d)
 - [Décret n°2003-484 du 6 juin 2003 (MENF0301099D)](decret-n2003-484-du-6-juin-2003-menf0301099d)
+- [Décret n°88-949 du 6 octobre 1988 (JUSF8850115D)](decret-n88-949-du-6-octobre-1988-jusf8850115d)
 - [Décret n°2003-412 du 6 mai 2003 (INTA0300079D)](decret-n2003-412-du-6-mai-2003-inta0300079d)
 - [Décret n°2003-1069 du 7 novembre 2003 (DEFD0302224D)](decret-n2003-1069-du-7-novembre-2003-defd0302224d)
 - [Décret n°2003-194 du 7 mars 2003 (EQUX0300001D)](decret-n2003-194-du-7-mars-2003-equx0300001d)

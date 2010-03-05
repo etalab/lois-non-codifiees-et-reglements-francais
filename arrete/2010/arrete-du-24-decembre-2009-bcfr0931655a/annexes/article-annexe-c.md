@@ -6,15 +6,15 @@ ASSIGNATION DES ORDONNATEURS SECONDAIRES DU MINISTÈRE DE LA JUSTICE ET DES LIBE
 <tbody>
 <tr>
 <td valign="top" width="340">
-<p align="center">DÉPARTEMENT DE RÉSIDENCE DE L'ORDONNATEUR SECONDAIRE</p>
+<p align="center">DÉPARTEMENT DE RÉSIDENCE DE L'ORDONNATEUR SECONDAIRE </p>
 </td>
 <td valign="top" width="340">
-<p align="center">COMPTABLE ASSIGNATAIRE</p>
+<p align="center">COMPTABLE ASSIGNATAIRE </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>Directeur interrégional des services pénitentiaires situé à Marseille</p>
+<p>Directeur interrégional des services pénitentiaires situé à Marseille </p>
 </td>
 <td rowspan="2" valign="top" width="340">
 <p>BOUCHES-DU-RHÔNE</p>
@@ -22,12 +22,12 @@ ASSIGNATION DES ORDONNATEURS SECONDAIRES DU MINISTÈRE DE LA JUSTICE ET DES LIBE
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>Directeur régional de la protection judiciaire de la jeunesse situé à Marseille</p>
+<p>        directeur interrégional de la protection judiciaire de la jeunesse situé à Marseille </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>Directeur interrégional des services pénitentiaires situé à Dijon</p>
+<p>Directeur interrégional des services pénitentiaires situé à Dijon </p>
 </td>
 <td rowspan="2" valign="top" width="340">
 <p>CÔTE-D'OR</p>
@@ -35,12 +35,12 @@ ASSIGNATION DES ORDONNATEURS SECONDAIRES DU MINISTÈRE DE LA JUSTICE ET DES LIBE
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>Directeur régional de la protection judiciaire de la jeunesse situé à Orléans</p>
+<p>        directeur interrégional de la protection judiciaire de la jeunesse situé à Orléans </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>Directeur interrégional des services pénitentiaires situé à Toulouse</p>
+<p>Directeur interrégional des services pénitentiaires situé à Toulouse </p>
 </td>
 <td rowspan="2" valign="top" width="340">
 <p>HAUTE-GARONNE</p>
@@ -48,12 +48,12 @@ ASSIGNATION DES ORDONNATEURS SECONDAIRES DU MINISTÈRE DE LA JUSTICE ET DES LIBE
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>Directeur régional de la protection judiciaire de la jeunesse situé à Toulouse</p>
+<p>        directeur interrégional de la protection judiciaire de la jeunesse situé à Toulouse </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>Directeur interrégional des services pénitentiaires situé à Bordeaux</p>
+<p>Directeur interrégional des services pénitentiaires situé à Bordeaux </p>
 </td>
 <td rowspan="2" valign="top" width="340">
 <p>PYRÉNÉES-ATLANTIQUES</p>
@@ -61,12 +61,12 @@ ASSIGNATION DES ORDONNATEURS SECONDAIRES DU MINISTÈRE DE LA JUSTICE ET DES LIBE
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>Directeur régional de la protection judiciaire de la jeunesse situé à Bordeaux</p>
+<p>        directeur interrégional de la protection judiciaire de la jeunesse situé à Bordeaux </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>Directeur interrégional des services pénitentiaires situé à Rennes</p>
+<p>Directeur interrégional des services pénitentiaires situé à Rennes </p>
 </td>
 <td rowspan="2" valign="top" width="340">
 <p>ILLE-ET-VILAINE</p>
@@ -74,12 +74,12 @@ ASSIGNATION DES ORDONNATEURS SECONDAIRES DU MINISTÈRE DE LA JUSTICE ET DES LIBE
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>Directeur régional de la protection judiciaire de la jeunesse situé à Rennes</p>
+<p>        directeur interrégional de la protection judiciaire de la jeunesse situé à Rennes </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>Directeur interrégional des services pénitentiaires situé à Strasbourg</p>
+<p>Directeur interrégional des services pénitentiaires situé à Strasbourg </p>
 </td>
 <td rowspan="2" valign="top" width="340">
 <p>MEURTHE-ET-MOSELLE</p>
@@ -87,12 +87,12 @@ ASSIGNATION DES ORDONNATEURS SECONDAIRES DU MINISTÈRE DE LA JUSTICE ET DES LIBE
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>Directeur régional de la protection judiciaire de la jeunesse situé à Nancy</p>
+<p>        directeur interrégional de la protection judiciaire de la jeunesse situé à Nancy </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>Directeur interrégional des services pénitentiaires situé à Lille</p>
+<p>Directeur interrégional des services pénitentiaires situé à Lille </p>
 </td>
 <td rowspan="2" valign="top" width="340">
 <p>NORD</p>
@@ -100,12 +100,12 @@ ASSIGNATION DES ORDONNATEURS SECONDAIRES DU MINISTÈRE DE LA JUSTICE ET DES LIBE
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>Directeur régional de la protection judiciaire de la jeunesse situé à Lille</p>
+<p>        directeur interrégional de la protection judiciaire de la jeunesse situé à Lille </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>Directeur interrégional des services pénitentiaires situé à Lyon</p>
+<p>Directeur interrégional des services pénitentiaires situé à Lyon </p>
 </td>
 <td rowspan="2" valign="top" width="340">
 <p>SAVOIE</p>
@@ -113,12 +113,12 @@ ASSIGNATION DES ORDONNATEURS SECONDAIRES DU MINISTÈRE DE LA JUSTICE ET DES LIBE
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>Directeur régional de la protection judiciaire de la jeunesse situé à Lyon</p>
+<p>        directeur interrégional de la protection judiciaire de la jeunesse situé à Lyon </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>Directeur interrégional des services pénitentiaires situé à Paris</p>
+<p>Directeur interrégional des services pénitentiaires situé à Paris </p>
 </td>
 <td rowspan="2" valign="top" width="340">
 <p>ESSONNE</p>
@@ -126,7 +126,7 @@ ASSIGNATION DES ORDONNATEURS SECONDAIRES DU MINISTÈRE DE LA JUSTICE ET DES LIBE
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>Directeur régional de la protection judiciaire de la jeunesse situé à Paris</p>
+<p>        directeur interrégional de la protection judiciaire de la jeunesse situé à Paris</p>
 </td>
 </tr>
 </tbody>
