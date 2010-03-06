@@ -22,4 +22,4 @@ Les directions départementales des finances publiques assurent la mise en œuvr
 
 10° L'action économique et financière en direction des agents économiques.
 
-Elles traitent, en outre, des questions économiques intéressant la défense en application du 2° de l'article R.* 1311-37 du code de la défense.
+Elles traitent, en outre, des questions économiques intéressant la sécurité nationale en application du 2° de l'article R.* 1311-37 du code de la défense.
