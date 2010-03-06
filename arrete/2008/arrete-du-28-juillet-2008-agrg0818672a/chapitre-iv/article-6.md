@@ -10,6 +10,8 @@ c) Lorsque la biologie de l'organisme, le niveau de contamination ou le mode de 
 
 II. ― Le cas échéant, les dispositions particulières mentionnées au I sont les suivantes :
 
-a bis) Obligation d'effectuer une lutte à l'aide d'insecticides contre les adultes l'année de découverte de la contamination et contre les larves et les adultes l'année suivante, conformément aux dispositions de l'annexe du présent arrêté ;
+a bis) Obligation d'effectuer une lutte à l'aide d'insecticides contre les larves l'année suivant l'année de découverte de la contamination, conformément aux dispositions de l'annexe du présent arrêté ;
 
-b bis) Obligation de destruction précoce des pieds spontanés de maïs des champs non affectés à la culture de cette plante l'année de découverte et l'année suivante.
+b bis) Obligation d'effectuer une lutte à l'aide d'insecticides contre les adultes l'année de découverte de la contamination et l'année suivante, conformément aux dispositions de l'annexe du présent arrêté, en cas de niveau de contamination élevé ;
+
+c bis) Obligation de destruction précoce des pieds spontanés de maïs des champs non affectés à la culture de cette plante l'année de découverte et l'année suivante.

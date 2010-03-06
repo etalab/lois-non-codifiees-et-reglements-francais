@@ -16,4 +16,6 @@ f) Obligation de destruction précoce des pieds spontanés de maïs des champs n
 
 g) Obligation de contrôle maximal des graminées adventices dans les cultures d'été les trois années suivant la découverte de la contamination, suivant les préconisations de la DRAF/SRPV ;
 
-h) Obligation d'effectuer une lutte à l'aide d'insecticides contre les adultes l'année de découverte de la contamination et contre les larves et les adultes l'année suivante, conformément aux dispositions de l'annexe du présent arrêté.
+h) Obligation d'effectuer une lutte à l'aide d'insecticides contre les larves l'année suivant l'année de découverte de la contamination, conformément aux dispositions de l'annexe du présent arrêté ;
+
+i) Obligation d'effectuer une lutte à l'aide d'insecticides contre les adultes l'année de découverte de la contamination et l'année suivante, conformément aux dispositions de l'annexe du présent arrêté, en cas de niveau de contamination élevé.
