@@ -314,6 +314,16 @@ PROGRAMME D'ENQUÊTES STATISTIQUES DES SERVICES PUBLICS POUR 2010
 </td>
 </tr>
 <tr>
+<td>
+<p align="center">Enquête sur les technologies de l'information et de la communication (TIC).</p>
+</td>
+<td>L'enquête a pour objectif de collecter les indicateurs décrivant l'équipement et les usages des ménages et individus dans le domaine des technologies de l'information et de la communication (informatique, Internet, téléphonique). Elle aura lieu, par téléphone, en avril et mai 2010, sur un échantillon d'environ 7 600 abonnés au téléphone fixe, dont 600 dans les DOM. Une enquête complémentaire sera réalisée par voie postale et par Internet, auprès d'un échantillon de 10 000 ménages issu du fichier de la taxe d'habitation.</td>
+</tr>
+<tr>
+<td>(*) Enquête de comparaison spatiale des niveaux de prix à la consommation entre territoires.</td>
+<td>L'enquête vise à mesurer les différences de niveau de prix entre les DOM et la métropole, d'une part, et entre la Corse et le continent, d'autre part. La collecte sera de 5 000 relevés par DOM et 8 000 en Corse. En métropole continentale, les relevés seront issus de la collecte de l'indice des prix complétés par 5 000 relevés spécifiques. La collecte se déroulera en mars 2010.</td>
+</tr>
+<tr>
 <td align="center">Enquête sur les liaisons financières entre sociétés, exercice 2009 (LIFI).<br/>
 </td>
 <td align="center">Enquête réalisée par voie postale, auprès de toutes les entreprises détenant plus de 1,2 million d'euros de titres de participation, ou employant plus de 500 salariés, ou réalisant plus de 30 millions d'euros de chiffre d'affaires (y compris DOM), ou ayant été têtes de groupe au cours de l'exercice précédent (2008), ou détenues par des capitaux étrangers l'année précédente (exercice 2008). L'enquête concerne environ 30 000 entreprises.<br/>
@@ -992,6 +1002,10 @@ PROGRAMME D'ENQUÊTES STATISTIQUES DES SERVICES PUBLICS POUR 2010
 </td>
 </tr>
 <tr>
+<td>(*) Enquête sur l'activité des entrepôts et des plates-formes logistiques.</td>
+<td>L'enquête a pour objectif de décrire l'offre d'entrepôts sur le territoire métropolitain, afin d'identifier leurs caractéristiques et d'obtenir des éléments sur leur activité. Seront concernés les entrepôts de plus de 5 000 m² ou 30 000 m³. La collecte se déroulera au cours du premier semestre de l'année auprès d'un échantillon d'environ 1 500 entrepôts. Elle sera réalisée soit par voie postale, soit par Internet, au choix du répondant.</td>
+</tr>
+<tr>
 <td align="center">2. ENQUÊTES D'INTÉRÊT GÉNÉRAL<br/>
 </td>
 <td align="center">
@@ -1172,6 +1186,17 @@ PROGRAMME D'ENQUÊTES STATISTIQUES DES SERVICES PUBLICS POUR 2010
 </td>
 </tr>
 <tr>
+<td>
+<p align="center">Ministère de l'alimentation, de l'agriculture et de la pêche </p>
+<p>Direction des pêches maritimes et de l'aquaculture</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>(*) Collecte de données économiques dans le secteur des pêches maritimes. </td>
+<td>Cette enquête a pour objectif l'évaluation scientifique des flottes et de leurs activités. Elle permet également d'expliquer la formation de prix et d'apprécier la situation économique des entreprises de pêche, de même que l'évolution des emplois associés à ce secteur. La collecte se déroule auprès d'environ 2 000 navires de pêche français inscrits au registre européen des flottes de pêches maritimes au 1er janvier de l'année de référence des données. Pour les entreprises dont la comptabilité est certifiée, elle est réalisée par le laboratoire de recherches en économie maritime de l'université de Nantes (LEMNA). </td>
+</tr>
+<tr>
 <td align="center">Ministère de l'économie, de l'industrie et de l'emploi<br/>Ministère du travail, des relations sociales,<br/>de la famille, de la solidarité et de la ville<br/>Direction de l'animation de la recherche,<br/>des études et des statistiques<br/>
 </td>
 <td align="center">
@@ -1237,7 +1262,9 @@ PROGRAMME D'ENQUÊTES STATISTIQUES DES SERVICES PUBLICS POUR 2010
 </td>
 </tr>
 <tr>
-<td align="center">Ministère de la santé et des sports<br/>Ministère de l'enseignement supérieur et de la recherche<br/>Institut national de la santé et de la recherche médicale<br/>et<br/>Caisse nationale d'assurance maladie des travailleurs salariés<br/>
+<td align="center">Ministère de la santé et des sports <p>Ministère de l'enseignement supérieur et de la recherche</p>
+<p>Institut national de la santé et de la recherche médicale<br/>et<br/>Caisse nationale d'assurance maladie des travailleurs salariés<br/>
+</p>
 </td>
 <td align="center">
 <br/>
@@ -1261,6 +1288,20 @@ PROGRAMME D'ENQUÊTES STATISTIQUES DES SERVICES PUBLICS POUR 2010
 </td>
 <td align="center">Cette enquête a pour objectif principal de permettre l'analyse des problématiques complexes qui simultanément mettent en jeu la consommation de soins, l'état de santé, le niveau d'assurance, le statut économique et social. Elle a lieu tous les deux ans en deux vagues, mars-juin et octobre-décembre. Le champ de l'enquête est celui des ménages ordinaires de France métropolitaine dont un membre au moins est assuré au régime général de sécurité sociale, au RSI (régime social des indépendants) ou à la MSA. La collecte est réalisée par téléphone ou en face à face. <br/>
 </td>
+</tr>
+<tr>
+<td>
+<p align="center">Ministère du travail, des relations sociales, de la famille, de la solidarité et de la ville </p>
+<p>Ministère du budget, des comptes publics, de la fonction publique et de la réforme de l'Etat </p>
+<p>Ministère de la santé et des sports<br/>Direction de la recherche, des études, de l'évaluation et des statistiques </p>
+<p>Direction de la sécurité sociale</p>
+<p>Caisse nationale d'assurance vieillesse </p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>(*) Enquête sur les motivations de départ à la retraite.</td>
+<td>L'enquête a pour objectif d'identifier les motivations de départ en retraite des assurés, et notamment celles qui ne sont pas connues dans les sources administratives : déterminants d'ordre financier, liés à l'état de santé, aux conditions de travail, à la situation du conjoint, etc.L'opération s'adresse aux nouveaux retraités titulaires d'un droit direct au régime général de la Caisse nationale d'assurance vieillesse (CNAV), métropole et DOM, et ayant liquidé leurs droits à la retraite entre le 1er juillet 2008 et le 30 juin 2009. Un échantillon d'adresses sera tiré dans les fichiers administratifs de la CNAV, visant à obtenir un minimum de 3 000 répondants. La collecte sera réalisée par téléphone entre mi-février et mi-mars 2010. </td>
 </tr>
 <tr>
 <td colspan="8">(*) Enquête nouvelle, rénovée ou enquête de périodicité supérieure à l'année.<br/>
