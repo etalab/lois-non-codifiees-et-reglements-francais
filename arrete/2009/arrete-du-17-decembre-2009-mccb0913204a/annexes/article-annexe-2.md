@@ -46,6 +46,8 @@ Ecole nationale supérieure d'architecture de Versailles ;
 
 Ecole du Louvre ;
 
+Etablissement public Sèvres-Cité de la céramique ;
+
 Institut national du patrimoine ;
 
 Musée Gustave Moreau ;

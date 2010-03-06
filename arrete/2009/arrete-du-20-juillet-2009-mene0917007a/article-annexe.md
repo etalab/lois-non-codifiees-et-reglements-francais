@@ -1,7 +1,5 @@
 # Article Annexe
 
-<div align="center">
-
 <table>
 <tbody>
 <tr>
@@ -11,426 +9,564 @@
 </th>
 </tr>
 <tr>
-<td align="center">Technicien outilleur.<br/>
+<td align="center">
+<p align="left">Technicien outilleur.</p>
 </td>
-<td align="center">BEP production mécanique.<br/>
+<td align="center">
+<p align="left">BEP production mécanique.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Technicien d'usinage.<br/>
+<td align="center">
+<p align="left">Technicien d'usinage.</p>
 </td>
-<td align="center">BEP production mécanique.<br/>
+<td align="center">
+<p align="left">BEP production mécanique.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Technicien modeleur.<br/>
+<td align="center">
+<p align="left">Technicien modeleur.</p>
 </td>
-<td align="center">CAP modelage mécanique.<br/>
+<td align="center">
+<p align="left">CAP modelage mécanique.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Productique mécanique, option décolletage.<br/>
+<td align="center">
+<p align="left">Productique mécanique, option décolletage.</p>
 </td>
-<td align="center">BEP production mécanique.<br/>
+<td align="center">
+<p align="left">BEP production mécanique.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Technicien ouvrages chaudronnés industriels.<br/>
+<td align="center">
+<p align="left">Technicien ouvrages chaudronnés industriels.</p>
 </td>
-<td align="center">CAP réalisation en chaudronnerie industrielle.<br/>
+<td align="center">
+<p align="left">CAP réalisation en chaudronnerie industrielle.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Fonderie.<br/>
+<td align="center">
+<p align="left">Fonderie.</p>
 </td>
-<td align="center">CAP métiers de la fonderie.<br/>
+<td align="center">
+<p align="left">CAP métiers de la fonderie.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Maintenance des systèmes mécaniques automatisés, option systèmes ferroviaires.<br/>
+<td align="center">
+<p align="left">Maintenance des systèmes mécaniques automatisés, option systèmes ferroviaires.</p>
 </td>
-<td align="center">BEP maintenance des produits et équipements industriels.<br/>
+<td align="center">
+<p align="left">BEP maintenance des produits et équipements industriels.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Technicien du froid et du conditionnement de l'air.<br/>
+<td align="center">
+<p align="left">Technicien du froid et du conditionnement de l'air.</p>
 </td>
-<td align="center">BEP froid et conditionnement de l'air.<br/>
+<td align="center">
+<p align="left">BEP froid et conditionnement de l'air.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Electrotechnique énergie équipements communicants.<br/>
+<td align="center">
+<p align="left">Electrotechnique énergie équipements communicants.</p>
 </td>
-<td align="center">BEP électrotechnique énergie équipements communicants.<br/>
+<td align="center">
+<p align="left">BEP électrotechnique énergie équipements communicants.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Systèmes électroniques numériques.<br/>
+<td align="center">
+<p align="left">Systèmes électroniques numériques.</p>
 </td>
-<td align="center">BEP systèmes électroniques numériques.<br/>
+<td align="center">
+<p align="left">BEP systèmes électroniques numériques.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Microtechniques.<br/>
+<td align="center">
+<p align="left">Microtechniques.</p>
 </td>
-<td align="center">BEP maintenance des produits et équipements industriels.<br/>
+<td align="center">
+<p align="left">BEP maintenance des produits et équipements industriels.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Pilotage des systèmes de production automatisée.<br/>
+<td align="center">
+<p align="left">Pilotage des systèmes de production automatisée.</p>
 </td>
-<td align="center">CAP conduite de systèmes industriels.<br/>
+<td align="center">
+<p align="left">CAP conduite de systèmes industriels.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Industrie des pâtes, papiers et cartons.<br/>
+<td align="center">
+<p align="left">Industrie des pâtes, papiers et cartons.</p>
 </td>
-<td align="center">CAP conduite de systèmes industriels.<br/>
+<td align="center">
+<p align="left">CAP conduite de systèmes industriels.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Traitements de surface.<br/>
+<td align="center">
+<p align="left">Traitements de surface.</p>
 </td>
-<td align="center">CAP conduite de systèmes industriels.<br/>
+<td align="center">
+<p align="left">CAP conduite de systèmes industriels.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Maintenance des équipements industriels.<br/>
+<td align="center">
+<p align="left">Maintenance des équipements industriels.</p>
 </td>
-<td align="center">BEP maintenance des produits et équipements industriels.<br/>
+<td align="center">
+<p align="left">BEP maintenance des produits et équipements industriels.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Etude et définition de produits industriels.<br/>
+<td align="center">
+<p align="left">Etude et définition de produits industriels.</p>
 </td>
-<td align="center">BEP représentation informatisée de produits industriels.<br/>
+<td align="center">
+<p align="left">BEP représentation informatisée de produits industriels.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Maintenance des véhicules automobiles, option voitures particulières.<br/>
+<td align="center">
+<p align="left">Maintenance des véhicules automobiles, option voitures particulières.</p>
 </td>
-<td align="center">CAP maintenance des véhicules automobiles, option véhicules particuliers.<br/>
+<td align="center">
+<p align="left">CAP maintenance des véhicules automobiles, option véhicules particuliers.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Maintenance des véhicules automobiles, option véhicules industriels.<br/>
+<td align="center">
+<p align="left">Maintenance des véhicules automobiles, option véhicules industriels.</p>
 </td>
-<td align="center">CAP maintenance des véhicules automobiles, option véhicules industriels.<br/>
+<td align="center">
+<p align="left">CAP maintenance des véhicules automobiles, option véhicules industriels.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Maintenance des véhicules automobiles, option motocycles.<br/>
+<td align="center">
+<p align="left">Maintenance des véhicules automobiles, option motocycles.</p>
 </td>
-<td align="center">CAP maintenance des véhicules automobiles, option véhicules motocycles.<br/>
+<td align="center">
+<p align="left">CAP maintenance des véhicules automobiles, option véhicules motocycles.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Maintenance des matériels, option A : agricoles.<br/>
+<td align="center">
+<p align="left">Maintenance des matériels, option A : agricoles.</p>
 </td>
-<td align="center">CAP maintenance des matériels, option tracteurs et matériels agricoles.<br/>
+<td align="center">
+<p align="left">CAP maintenance des matériels, option tracteurs et matériels agricoles.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Maintenance des matériels, option B : travaux publics et manutention.<br/>
+<td align="center">
+<p align="left">Maintenance des matériels, option B : travaux publics et manutention.</p>
 </td>
-<td align="center">CAP maintenance des matériels, option matériels de travaux publics et de manutention.<br/>
+<td align="center">
+<p align="left">CAP maintenance des matériels, option matériels de travaux publics et de manutention.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Maintenance des matériels, option C : parcs et jardins.<br/>
+<td align="center">
+<p align="left">Maintenance des matériels, option C : parcs et jardins.</p>
 </td>
-<td align="center">CAP maintenance des matériels, option matériels de parcs et jardins.<br/>
+<td align="center">
+<p align="left">CAP maintenance des matériels, option matériels de parcs et jardins.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Maintenance nautique.<br/>
+<td align="center">
+<p align="left">Maintenance nautique.</p>
 </td>
-<td align="center">CAP réparation et entretien des embarcations de plaisance.<br/>
+<td align="center">
+<p align="left">CAP réparation et entretien des embarcations de plaisance.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Aéronautique, option mécanicien systèmes-cellule.<br/>
+<td align="center">
+<p align="left">Aéronautique, option mécanicien systèmes-cellule.</p>
 </td>
-<td align="center">CAP mécanicien cellules d'aéronefs.<br/>CAP maintenance sur système d'aéronefs.<br/>
+<td align="center">
+<p align="left">CAP mécanicien cellules d'aéronefs.<br/>CAP maintenance sur système d'aéronefs.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Aéronautique, option mécanicien systèmes-avionique.<br/>
+<td align="center">
+<p align="left">Aéronautique, option mécanicien systèmes-avionique.</p>
 </td>
-<td align="center">CAP électricien systèmes d'aéronefs.<br/>
+<td align="center">
+<p align="left">CAP électricien systèmes d'aéronefs.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Technicien aérostructure.<br/>
+<td align="center">
+<p align="left">Technicien aérostructure.</p>
 </td>
-<td align="center">CAP mécanicien cellules d'aéronefs.<br/>
+<td align="center">
+<p align="left">CAP mécanicien cellules d'aéronefs.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Réparation en carrosserie.<br/>
+<td align="center">
+<p align="left">Réparation en carrosserie.</p>
 </td>
-<td align="center">CAP réparation des carrosseries.<br/>
+<td align="center">
+<p align="left">CAP réparation des carrosseries.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Carrosserie, option construction.<br/>
+<td align="center">
+<p align="left">Carrosserie, option construction.</p>
 </td>
-<td align="center">CAP construction des carrosseries.<br/>
+<td align="center">
+<p align="left">CAP construction des carrosseries.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Technicien géomètre topographe.<br/>
+<td align="center">
+<p align="left">Technicien géomètre topographe.</p>
 </td>
-<td align="center">BEP topographie.<br/>
+<td align="center">
+<p align="left">BEP topographie.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Technicien d'études du bâtiment, option études et économie.<br/>
+<td align="center">
+<p align="left">Technicien d'études du bâtiment, option études et économie.</p>
 </td>
-<td align="center">BEP études du bâtiment.<br/>
+<td align="center">
+<p align="left">BEP études du bâtiment.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Technicien d'études du bâtiment, option assistant en architecture.<br/>
+<td align="center">
+<p align="left">Technicien d'études du bâtiment, option assistant en architecture.</p>
 </td>
-<td align="center">BEP études du bâtiment.<br/>
+<td align="center">
+<p align="left">BEP études du bâtiment.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Technicien en installation des systèmes énergétiques et climatiques.<br/>
+<td align="center">
+<p align="left">Technicien en installation des systèmes énergétiques et climatiques.</p>
 </td>
-<td align="center">BEP installation des systèmes énergétiques et climatiques.<br/>
+<td align="center">
+<p align="left">BEP installation des systèmes énergétiques et climatiques.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Technicien de maintenance des systèmes énergétiques et climatiques.<br/>
+<td align="center">
+<p align="left">Technicien de maintenance des systèmes énergétiques et climatiques.</p>
 </td>
-<td align="center">BEP maintenance des systèmes énergétiques et climatiques.<br/>
+<td align="center">
+<p align="left">BEP maintenance des systèmes énergétiques et climatiques.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Travaux publics.<br/>
+<td align="center">
+<p align="left">Travaux publics.</p>
 </td>
-<td align="center">BEP travaux publics.<br/>
+<td align="center">
+<p align="left">BEP travaux publics.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Technicien du bâtiment : organisation et réalisation du gros œuvre.<br/>
+<td align="center">
+<p align="left">Technicien du bâtiment : organisation et réalisation du gros œuvre.</p>
 </td>
-<td align="center">BEP réalisations du gros œuvre.<br/>
+<td align="center">
+<p align="left">BEP réalisations du gros œuvre.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Aménagement et finition du bâtiment.<br/>
+<td align="center">
+<p align="left">Aménagement et finition du bâtiment.</p>
 </td>
-<td align="center">BEP aménagement finition.<br/>
+<td align="center">
+<p align="left">BEP aménagement finition.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Ouvrages du bâtiment : métallerie.<br/>
+<td align="center">
+<p align="left">Ouvrages du bâtiment : métallerie.</p>
 </td>
-<td align="center">BEP réalisation d'ouvrages de métallerie du bâtiment.<br/>
+<td align="center">
+<p align="left">BEP réalisation d'ouvrages de métallerie du bâtiment.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Ouvrages du bâtiment : aluminium, verre et matériaux de synthèse.<br/>
+<td align="center">
+<p align="left">Ouvrages du bâtiment : aluminium, verre et matériaux de synthèse.</p>
 </td>
-<td align="center">BEP réalisation d'ouvrages du bâtiment en aluminium, verre et matériaux de synthèse.<br/>
+<td align="center">
+<p align="left">BEP réalisation d'ouvrages du bâtiment en aluminium, verre et matériaux de synthèse.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Bio-industries de transformation.<br/>
+<td align="center">
+<p align="left">Bio-industries de transformation.</p>
 </td>
-<td align="center">BEP conduite de procédés industriels et transformations.<br/>
+<td align="center">
+<p align="left">BEP conduite de procédés industriels et transformations.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Hygiène-environnement.<br/>
+<td align="center">
+<p align="left">Hygiène-environnement.</p>
 </td>
-<td align="center">BEP métiers de l'hygiène, de la propreté et de l'environnement.<br/>
+<td align="center">
+<p align="left">BEP métiers de l'hygiène, de la propreté et de l'environnement.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Industries de procédés.<br/>
+<td align="center">
+<p align="left">Industries de procédés.</p>
 </td>
-<td align="center">BEP conduite de procédés industriels et transformations.<br/>
+<td align="center">
+<p align="left">BEP conduite de procédés industriels et transformations.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Mise en œuvre des matériaux, option céramique.<br/>
+<td align="center">
+<p align="left">Mise en œuvre des matériaux, option céramique.</p>
 </td>
-<td align="center">CAP conduite de systèmes industriels.<br/>
+<td align="center">
+<p align="left">CAP conduite de systèmes industriels.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Environnement nucléaire.<br/>
+<td align="center">
+<p align="left">Environnement nucléaire.</p>
 </td>
-<td align="center">BEP maintenance des produits et équipements industriels.<br/>
+<td align="center">
+<p align="left">BEP maintenance des produits et équipements industriels.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Plastiques et composites.<br/>
+<td align="center">
+<p align="left">Plastiques et composites.</p>
 </td>
-<td align="center">BEP plastiques et composites.<br/>
+<td align="center">
+<p align="left">BEP plastiques et composites.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Boucher-charcutier traiteur.<br/>
+<td align="center">
+<p align="left">Boucher-charcutier traiteur.</p>
 </td>
-<td align="center">BEP boucher-charcutier.<br/>
+<td align="center">
+<p align="left">BEP boucher-charcutier.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Boulanger-pâtissier.<br/>
+<td align="center">
+<p align="left">Boulanger-pâtissier.</p>
 </td>
-<td align="center">CAP boulanger.<br/>CAP pâtissier.<br/>
+<td align="center">
+<p align="left">CAP boulanger.<br/>CAP pâtissier.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Poissonnier écailler traiteur.<br/>
+<td align="center">
+<p align="left">Poissonnier écailler traiteur.</p>
 </td>
-<td align="center">CAP poissonnier.<br/>
+<td align="center">
+<p align="left">CAP poissonnier.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Mise en œuvre des matériaux, option industries textiles.<br/>
+<td align="center">
+<p align="left">Mise en œuvre des matériaux, option industries textiles.</p>
 </td>
-<td align="center">BEP mise en œuvre des matériaux, option industries textiles.<br/>
+<td align="center">
+<p align="left">BEP mise en œuvre des matériaux, option industries textiles.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Métiers de la mode ― vêtements.<br/>
+<td align="center">
+<p align="left">Métiers de la mode ― vêtements.</p>
 </td>
-<td align="center">BEP métiers de la mode ― vêtements.<br/>
+<td align="center">
+<p align="left">BEP métiers de la mode ― vêtements.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Métiers du cuir, option maroquinerie.<br/>
+<td align="center">
+<p align="left">Métiers du cuir, option maroquinerie.</p>
 </td>
-<td align="center">BEP métiers du cuir, option maroquinerie.<br/>
+<td align="center">
+<p align="left">BEP métiers du cuir, option maroquinerie.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Métiers du cuir, option chaussure.<br/>
+<td align="center">
+<p align="left">Métiers du cuir, option chaussure.</p>
 </td>
-<td align="center">BEP métiers du cuir, option chaussure.<br/>
+<td align="center">
+<p align="left">BEP métiers du cuir, option chaussure.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Technicien constructeur bois.<br/>
+<td align="center">
+<p align="left">Technicien constructeur bois.</p>
 </td>
-<td align="center">BEP bois, option construction bois.<br/>
+<td align="center">
+<p align="left">BEP bois, option construction bois.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Technicien menuisier agenceur.<br/>
+<td align="center">
+<p align="left">Technicien menuisier agenceur.</p>
 </td>
-<td align="center">BEP bois, option menuiserie-agencement.<br/>
+<td align="center">
+<p align="left">BEP bois, option menuiserie-agencement.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Technicien fabrication bois et matériaux associés.<br/>
+<td align="center">
+<p align="left">Technicien fabrication bois et matériaux associés.</p>
 </td>
-<td align="center">BEP bois, option fabrication bois et matériaux associés.<br/>
+<td align="center">
+<p align="left">BEP bois, option fabrication bois et matériaux associés.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Technicien de scierie.<br/>
+<td align="center">
+<p align="left">Technicien de scierie.</p>
 </td>
-<td align="center">BEP bois, option scierie.<br/>
+<td align="center">
+<p align="left">BEP bois, option scierie.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Artisanat et métiers d'art, option ébéniste.<br/>
+<td align="center">
+<p align="left">Artisanat et métiers d'art, option ébéniste.</p>
 </td>
-<td align="center">CAP ébéniste.<br/>
+<td align="center">
+<p align="left">CAP ébéniste.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Logistique.<br/>
+<td align="center">
+<p align="left">Logistique.</p>
 </td>
-<td align="center">BEP logistique transport.<br/>
+<td align="center">
+<p align="left">BEP logistique transport.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Exploitation des transports.<br/>
+<td align="center">
+<p align="left">Exploitation des transports.</p>
 </td>
-<td align="center">BEP logistique transport.<br/>
+<td align="center">
+<p align="left">BEP logistique transport.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Photographie.<br/>
+<td align="center">
+<p align="left">Photographie.</p>
 </td>
-<td align="center">CAP photographe.<br/>
+<td align="center">
+<p align="left">CAP photographe.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Production graphique.<br/>
+<td align="center">
+<p align="left">Production graphique.</p>
 </td>
-<td align="center">BEP industries graphiques, option production graphique.<br/>
+<td align="center">
+<p align="left">BEP industries graphiques, option production graphique.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Production imprimée.<br/>
+<td align="center">
+<p align="left">Production imprimée.</p>
 </td>
-<td align="center">BEP industries graphiques, option production imprimée.<br/>
+<td align="center">
+<p align="left">BEP industries graphiques, option production imprimée.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Artisanat et métiers d'art, option communication graphique.<br/>
+<td align="center">
+<p align="left">Artisanat et métiers d'art, option communication graphique.</p>
 </td>
-<td align="center">CAP dessinateur d'exécution en communication graphique.<br/>
+<td align="center">
+<p align="left">CAP dessinateur d'exécution en communication graphique.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Commerce.<br/>
+<td align="center">
+<p align="left">Commerce.</p>
 </td>
-<td align="center">BEP métiers de la relation aux clients et aux usagers.<br/>
+<td align="center">
+<p align="left">BEP métiers de la relation aux clients et aux usagers.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Vente.<br/>
+<td align="center">
+<p align="left">Vente.</p>
 </td>
-<td align="center">BEP métiers de la relation aux clients et aux usagers.<br/>
+<td align="center">
+<p align="left">BEP métiers de la relation aux clients et aux usagers.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Services (accueil assistance conseil).<br/>
+<td align="center">
+<p align="left">Services (accueil assistance conseil).</p>
 </td>
-<td align="center">BEP métiers de la relation aux clients et aux usagers.<br/>
+<td align="center">
+<p align="left">BEP métiers de la relation aux clients et aux usagers.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Secrétariat.<br/>
+<td align="center">
+<p align="left">Secrétariat.</p>
 </td>
-<td align="center">BEP métiers des services administratifs.<br/>
+<td align="center">
+<p align="left">BEP métiers des services administratifs.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Comptabilité.<br/>
+<td align="center">
+<p align="left">Comptabilité.</p>
 </td>
-<td align="center">BEP métiers des services administratifs.<br/>
+<td align="center">
+<p align="left">BEP métiers des services administratifs.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Restauration.<br/>
+<td align="center">
+<p align="left">Restauration.</p>
 </td>
-<td align="center">BEP métiers de la restauration et de l'hôtellerie.<br/>
+<td align="center">
+<p align="left">BEP métiers de la restauration et de l'hôtellerie.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Esthétique cosmétique parfumerie.<br/>
+<td align="center">
+<p align="left">Esthétique cosmétique parfumerie.</p>
 </td>
-<td align="center">CAP esthétique cosmétique parfumerie.<br/>
+<td align="center">
+<p align="left">CAP esthétique cosmétique parfumerie.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Services de proximité et vie locale.<br/>
+<td align="center">
+<p align="left">Services de proximité et vie locale.</p>
 </td>
-<td align="center">CAP gardien d'immeuble.<br/>CAP agent de prévention et de médiation.<br/>
+<td align="center">
+<p align="left">CAP agent de prévention et de médiation.</p>
 </td>
 </tr>
 </tbody>
 </table>
-
-</div>
