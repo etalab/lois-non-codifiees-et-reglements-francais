@@ -1,0 +1,3 @@
+# Article 39
+
+Jusqu'à la création d'une direction régionale, départementale ou locale des finances publiques, en application des dispositions du décret n° 2009-707 du 16 juin 2009 relatif aux services déconcentrés de la direction générale des finances publiques, le trésorier-payeur général de région ou de département exerce les fonctions dévolues à l'administrateur des finances publiques placé à la tête d'une direction régionale, départementale ou locale des finances publiques aux articles R. 1311-24, R.* 1311-25, R. 1311-31, R. 1311-37, R.* 1611-2, R.* 1631-2, R.* 1641-2, R.* 1651-2, R.* 1661-2 et R.* 1671-2 du code de la défense.
