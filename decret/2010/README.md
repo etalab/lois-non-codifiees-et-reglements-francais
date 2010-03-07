@@ -27,6 +27,7 @@
 - [Décret n°2010-224 du 4 mars 2010 (IOCX1001151D)](decret-n2010-224-du-4-mars-2010-iocx1001151d)
 - [Décret n°2010-225 du 4 mars 2010 (IOCA1001332D)](decret-n2010-225-du-4-mars-2010-ioca1001332d)
 - [Décret n°2010-226 du 4 mars 2010 (OMEO1005267D)](decret-n2010-226-du-4-mars-2010-omeo1005267d)
+- [Décret n°2010-229 du 4 mars 2010 (DEFH1001042D)](decret-n2010-229-du-4-mars-2010-defh1001042d)
 - [Décret n°2010-454 du 4 mai 2010 (PRMG1005827D)](decret-n2010-454-du-4-mai-2010-prmg1005827d)
 - [Décret n°2010-122 du 5 février 2010 (DEVU0911075D)](decret-n2010-122-du-5-fevrier-2010-devu0911075d)
 - [Décret n°2010-5 du 5 janvier 2010 (BCFF0929573D)](decret-n2010-5-du-5-janvier-2010-bcff0929573d)
