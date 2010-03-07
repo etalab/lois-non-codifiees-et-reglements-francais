@@ -42,8 +42,10 @@ Sont assignées sur le comptable principal du Trésor du département du Finist�
 
 ― le chef de corps de l'école du génie d'Angers ;
 
-― le chef du groupement de soutien de la base de défense de Cognac-Rochefort ;
+―               le chef du groupement de soutien de la base de défense de Rochefort-Saintes-Cognac ;
 
 ― le directeur de la plate-forme achats finances Sud-Ouest ;
 
-― le directeur de la plate-forme achats finances Centre-Ouest.
+― le directeur de la plate-forme achats finances Centre-Ouest ;
+
+― le chef du groupement de soutien de la base de défense de Pau.

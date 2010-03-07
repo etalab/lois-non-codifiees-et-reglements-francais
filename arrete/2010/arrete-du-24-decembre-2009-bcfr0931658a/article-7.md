@@ -18,4 +18,6 @@ Sont assignées sur le comptable principal du Trésor du département du Var les
 
 ― le chef du groupement de soutien de la base de défense Aubagne ;
 
-― le directeur de la plate-forme achats finances Sud-Est.
+― le directeur de la plate-forme achats finances Sud-Est ;
+
+― le directeur du commissariat de l'armée de terre de Marseille.

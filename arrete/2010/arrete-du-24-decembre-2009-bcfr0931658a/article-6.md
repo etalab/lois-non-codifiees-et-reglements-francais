@@ -26,4 +26,8 @@ Sont assignées sur le comptable principal du Trésor du département des Yvelin
 
 ― le chef du groupement de soutien de la base de défense Creil ;
 
-― le chef du groupement de soutien de la base de défense Avord.
+― le chef du groupement de soutien de la base de défense Avord ;
+
+― le directeur du service central d'études et de réalisations du commissariat de l'armée de terre (futur CESCOF) ;
+
+― le directeur de la structure locale d'achat et de mandatement Centre, à Châteaudun.
