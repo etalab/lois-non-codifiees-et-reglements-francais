@@ -712,8 +712,6 @@
 - [Arrêté du 9 novembre 2009 (AGRT0926418A)](arrete-du-9-novembre-2009-agrt0926418a)
 - [Arrêté du 9 novembre 2009 (AGRT0926433A)](arrete-du-9-novembre-2009-agrt0926433a)
 - [Arrêté du 9 novembre 2009 (BCFB0925517A)](arrete-du-9-novembre-2009-bcfb0925517a)
-- [Arrêté du 9 novembre 2009 (DEVA0926585A)](arrete-du-9-novembre-2009-deva0926585a)
-- [Arrêté du 9 novembre 2009 (DEVA0926589A)](arrete-du-9-novembre-2009-deva0926589a)
 - [Arrêté du 9 novembre 2009 (DEVP0924696A)](arrete-du-9-novembre-2009-devp0924696a)
 - [Arrêté du 9 novembre 2009 (JUSC0918603A)](arrete-du-9-novembre-2009-jusc0918603a)
 - [Arrêté du 9 novembre 2009 (MCCB0905943A)](arrete-du-9-novembre-2009-mccb0905943a)
