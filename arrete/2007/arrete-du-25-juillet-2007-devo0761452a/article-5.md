@@ -1,3 +1,9 @@
 # Article 5
 
-Les agents des services de police de l'eau sont destinataires des informations enregistrées relatives aux pétitionnaires avec la possibilité de modification de celles-ci. Les agents des autres services de l'administration sollicités pour avis dans le cadre de l'instruction des dossiers de police de l'eau peuvent avoir accès à ces informations en consultation ainsi que les agents des établissements publics sous tutelle de la direction de l'eau (Office national de l'eau et des milieux aquatiques, agences de l'eau).
+Sont destinataires de la totalité ou d'une partie des données mentionnées à l'article 2, à raison de leurs attributions et pour les besoins exclusifs des missions qui leur sont confiées :
+
+- les agents des services de l'Etat en charge de la police de l'eau ;
+
+- les agents des services de l'Etat consultés pour avis sur les dossiers de police de l'eau ;
+
+- les agents des établissements publics sous tutelle de la direction de l'eau et de la biodiversité du ministère de l'écologie, de l'énergie, du développement durable et de la mer, en charge des technologies vertes et des négociations sur le climat.
