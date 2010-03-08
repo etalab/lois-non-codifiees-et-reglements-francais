@@ -1646,7 +1646,6 @@
 - [Arrêté du 19 décembre 2008 (ECEP0828375A)](arrete-du-19-decembre-2008-ecep0828375a)
 - [Arrêté du 19 décembre 2008 (ECES0830723A)](arrete-du-19-decembre-2008-eces0830723a)
 - [Arrêté du 19 décembre 2008 (ECES0830767A)](arrete-du-19-decembre-2008-eces0830767a)
-- [Arrêté du 19 décembre 2008 (JUSB0827676A)](arrete-du-19-decembre-2008-jusb0827676a)
 - [Arrêté du 19 décembre 2008 (JUSF0900274A)](arrete-du-19-decembre-2008-jusf0900274a)
 - [Arrêté du 19 décembre 2008 (JUSF0900278A)](arrete-du-19-decembre-2008-jusf0900278a)
 - [Arrêté du 19 décembre 2008 (JUSF0900290A)](arrete-du-19-decembre-2008-jusf0900290a)
