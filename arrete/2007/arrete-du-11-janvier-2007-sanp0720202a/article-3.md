@@ -10,6 +10,8 @@ II. - Pour les eaux douces superficielles classées en qualité A1 et A2 au rega
 
 - pour les eaux brutes souterraines, les fréquences peuvent être réduites d'un facteur 4.
 
+Pour les eaux douces superficielles, dont le débit prélevé est supérieur ou égal à 100 m ³ / jour en moyenne, tous les paramètres des analyses de type RSadd sont recherchés, sur une année civile, tous les six ans à compter de 2010. Dès lors que l'un de ces paramètres est détecté au cours d'une année, sa recherche est reconduite l'année suivante.
+
 III. - Les fréquences indiquées dans le tableau 2 de l'annexe II du présent arrêté peuvent être réduites pour tout ou partie des paramètres des analyses de type P1 et D1 lorsque :
 
 - les résultats obtenus pour les échantillons prélevés au cours d'une période d'au moins deux années successives sont constants et respectent les limites de qualité fixées pour les eaux destinées à la consommation humaine ; et
