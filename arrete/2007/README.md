@@ -308,7 +308,6 @@
 - [Arrêté du 10 avril 2007 (JUSK0750813A)](arrete-du-10-avril-2007-jusk0750813a)
 - [Arrêté du 10 avril 2007 (SOCF0751601A)](arrete-du-10-avril-2007-socf0751601a)
 - [Arrêté du 10 décembre 2007 (AGRG0773070A)](arrete-du-10-decembre-2007-agrg0773070a)
-- [Arrêté du 10 décembre 2007 (AGRS0773036A)](arrete-du-10-decembre-2007-agrs0773036a)
 - [Arrêté du 10 décembre 2007 (DEFH0772560A)](arrete-du-10-decembre-2007-defh0772560a)
 - [Arrêté du 10 décembre 2007 (DEVO0772981A)](arrete-du-10-decembre-2007-devo0772981a)
 - [Arrêté du 10 décembre 2007 (JUSG0773499A)](arrete-du-10-decembre-2007-jusg0773499a)
