@@ -36,6 +36,6 @@ En application des dispositions de l'article 5 du décret du 21 octobre 1983 sus
 
 - le commandant de la gendarmerie pour Saint-Pierre-et-Miquelon.
 
-Pour l'armée de l'air, le directeur du service des droits financiers individuels et des affaires contentieuses de l'armée de l'air reçoit délégation de pouvoirs du ministre de la défense pour signer les conventions mentionnées au premier alinéa
+Pour l'armée de l'air, le directeur du service des droits financiers individuels et des affaires contentieuses de l'armée de l'air reçoit délégation de pouvoirs du ministre de la défense pour signer les conventions mentionnées au premier alinéa.
 
-Ces autorités sont autorisées à déléguer leur signature à l'un de leurs adjoints.
+Pour l'armée de l'air, le général adjoint "territoire national" du commandant de la défense aérienne et des opérations aériennes reçoit délégation de pouvoirs du ministre de la défense pour signer les conventions qui fixent les conditions de participation de l'armée de l'air à des activités ne relevant pas de ses missions spécifiques au profit de toute personne physique ou morale autre que l'Etat.
