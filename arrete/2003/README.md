@@ -804,7 +804,6 @@
 - [Arrêté du 25 novembre 2003 (MCCH0300860A)](arrete-du-25-novembre-2003-mcch0300860a)
 - [Arrêté du 25 septembre 2003 (SANH0323775A)](arrete-du-25-septembre-2003-sanh0323775a)
 - [Arrêté du 25 septembre 2003 (SOCF0311490A)](arrete-du-25-septembre-2003-socf0311490a)
-- [Arrêté du 26 août 2003 (DEFD0301677A)](arrete-du-26-aout-2003-defd0301677a)
 - [Arrêté du 26 août 2003 (ECOP0201068A)](arrete-du-26-aout-2003-ecop0201068a)
 - [Arrêté du 26 août 2003 (ECOS0350043A)](arrete-du-26-aout-2003-ecos0350043a)
 - [Arrêté du 26 août 2003 (EQUT0301021A)](arrete-du-26-aout-2003-equt0301021a)
