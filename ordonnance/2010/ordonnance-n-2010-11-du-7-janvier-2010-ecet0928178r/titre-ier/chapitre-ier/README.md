@@ -1,3 +1,0 @@
-# CHAPITRE IER : DISPOSITIONS RELATIVES A LA MONNAIE
-
-- [Article 1](article-1.md)

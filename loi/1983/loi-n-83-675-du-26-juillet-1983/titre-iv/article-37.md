@@ -10,7 +10,7 @@ Par dérogation aux dispositions de l'article 14 de la présente loi, un décret
 
 Un décret en Conseil d'Etat précisera les modalités suivant lesquelles il sera procédé à l'élection des représentants des salariés aux conseils d'administration d'Electricité de France et de Gaz de France en tenant compte de l'existence des services communs à ces deux établissements tels que prévus par la loi n° 46-628 du 4 avril 1946 portant nationalisation de l'électricité et du gaz.
 
-En ce qui concerne le Commissariat à l'énergie atomique, les dispositions de l'article 7 de la présente loi s'appliquent sous réserve des attributions du comité de l'énergie atomique et du comité mixte compétent pour les programmes d'armement nucléaire, définies par décret en Conseil d'Etat.
+En ce qui concerne le     Commissariat à l'énergie atomique et aux énergies alternatives, les dispositions de l'article 7 de la présente loi s'appliquent sous réserve des attributions du comité de l'énergie atomique et du comité mixte compétent pour les programmes d'armement nucléaire, définies par décret en Conseil d'Etat.
 
 Après le 3° de l'article 22 de la loi n° 75-633 du 15 juillet 1975 relative à l'élimination et à la récupération des déchets (1), il est ajouté un alinéa ainsi rédigé : (dispositions modificatrices).
 
