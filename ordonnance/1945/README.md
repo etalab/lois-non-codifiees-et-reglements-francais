@@ -22,7 +22,6 @@
 - [Ordonnance n° 45-993 du 17 mai 1945](ordonnance-n-45-993-du-17-mai-1945)
 - [Ordonnance n° 45-2405 du 18 octobre 1945](ordonnance-n-45-2405-du-18-octobre-1945)
 - [Ordonnance n° 45-2410 du 18 octobre 1945](ordonnance-n-45-2410-du-18-octobre-1945)
-- [Ordonnance n°45-2563 du 18 octobre 1945](ordonnance-n45-2563-du-18-octobre-1945)
 - [Ordonnance n° 45-2138 du 19 septembre 1945](ordonnance-n-45-2138-du-19-septembre-1945)
 - [Ordonnance n° 45-2456 du 19 octobre 1945](ordonnance-n-45-2456-du-19-octobre-1945)
 - [Ordonnance n° 45-1355 du 20 juin 1945](ordonnance-n-45-1355-du-20-juin-1945)
