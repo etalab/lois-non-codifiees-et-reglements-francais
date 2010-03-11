@@ -1,13 +1,11 @@
 # Article 1
 
-Est considérée comme profession ou activité ambulante au sens de la loi du 3 janvier 1969 relative à l'exercice des activités ambulantes et au régime applicable aux personnes circulant en France sans domicile ni résidence fixe toute profession ou activité exercée sur la voie publique, sur les halles, marchés, champs de foire ou de fête ou par voie de démarchage dans les lieux privés et ayant pour objet soit la vente d'un bien mobilier, soit la conclusion d'un contrat de location ou de prestation de services ou d'ouvrage, soit la présentation d'un spectacle ou d'une attraction.
+Toute personne qui veut exercer une profession ou une activité ambulante dans les conditions prévues par l'
+article L. 123-29 du code de commerce
+ou qui veut circuler en France dans les conditions prévues à l'article 3 de la loi du 3 janvier 1969 susvisée doit, sous réserve des dispositions de l'article 4, en se présentant personnellement, demander au préfet ou au sous-préfet de l'arrondissement où est située la commune à laquelle elle désire être rattachée ou, à Paris, au préfet de police le livret spécial, le livret ou le carnet de circulation prévus aux articles susmentionnés. Elle doit justifier de son identité et de sa nationalité et déposer sa photographie d'identité en trois exemplaires.
 
-Toutefois les dispositions qui précèdent ne sont pas applicables :
+Il lui est délivré une attestation valant titre provisoire de circulation ; cette attestation est valable pour une durée maximale d'un mois.
 
-Aux personnes dont les activités se limitent au transport de personnes ou de biens mobiliers ;
+Le livret spécial, le livret et le carnet de circulation prévus respectivement aux articles 2, 4 et 5 de la loi du 3 janvier 1969 susvisée sont valables cinq ans.
 
-Aux colporteurs de presse ou de billets de loterie sur la voie publique ;
-
-Aux personnes effectuant des opérations de démarchage réglementées par des textes particuliers notamment par l'article 29 K du livre Ier du code du travail relatif aux voyageurs, représentants, placiers, par la loi du 28 décembre 1966 relative à l'usure et aux prêts d'argent, par le décret du 23 décembre 1958 relatif aux agents commerciaux et par le décret du 29 janvier 1965 tendant à l'organisation de l'industrie des assurances.
-
-Aux professionnels effectuant dans une ou plusieurs communes, des tournées de vente ou de prestations de services à partir d'établissements fixes.
+Ces titres de circulation portent un numéro d'ordre, ils mentionnent la date de leur délivrance et celles de leurs prorogations successives de validité qui doivent être effectuées par le préfet ou le sous-préfet de l'arrondissement dans lequel est située la commune de rattachement. Ils reproduisent le signalement de leur titulaire et comportent l'ensemble des indications qui figurent sur la carte nationale d'identité ainsi que l'indication de la commune de rattachement et celle de la profession ou de l'activité exercées.
