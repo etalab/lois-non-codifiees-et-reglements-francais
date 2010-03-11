@@ -8,4 +8,8 @@ La direction des ressources humaines comprend :
 
 - le service de l'accompagnement professionnel et des pensions.
 
-Elle comprend également le centre de formation au management du ministère de la défense.
+Relèvent par ailleurs de la direction des ressources humaines :
+
+- le centre de formation au management de la défense ;
+
+- les centres ministériels de gestion. Ces organismes sont directement rattachés au directeur des ressources humaines du ministère de la défense.
