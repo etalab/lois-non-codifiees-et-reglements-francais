@@ -1,0 +1,3 @@
+# Article 1
+
+A titre expérimental pour la programmation et l'exécution du budget 2010, l'exercice du contrôle financier sur les programmes 111 « Amélioration de la qualité de l'emploi et des relations du travail » et 155 « Conception, gestion et évaluation des politiques de l'emploi et du travail » de la mission « Travail et emploi », par l'autorité chargée de ce contrôle auprès des services centraux du ministère du travail, des relations sociales, de la famille, de la solidarité et de la ville s'appuie sur un comité de programmation et d'engagement chargé d'examiner la programmation budgétaire et son exécution ainsi que les projets de décisions énumérés à l'article 3.
