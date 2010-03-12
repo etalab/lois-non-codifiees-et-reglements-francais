@@ -8,13 +8,13 @@ Les mineurs âgés de seize ans révolus ne peuvent être placés en détention 
 
 2° S'ils encourent une peine correctionnelle d'une durée égale ou supérieure à trois ans ;
 
-3° S'ils se sont volontairement soustraits aux obligations d'un contrôle judiciaire prononcé conformément aux dispositions de l'article 10-2.
+3° S'ils se sont volontairement soustraits aux obligations d'un contrôle judiciaire prononcé conformément aux dispositions de l'article 10-2 ou à celles d'une assignation à résidence avec surveillance électronique.
 
 Les mineurs âgés de treize ans révolus et de moins de seize ans ne peuvent être placés en détention provisoire que dans l'un des cas suivants :
 
 1° S'ils encourent une peine criminelle ;
 
-2° S'ils se sont volontairement soustraits aux obligations d'un contrôle judiciaire prononcé conformément aux dispositions du III de l'article 10-2.
+2° S'ils se sont volontairement soustraits aux obligations d'un contrôle judiciaire prononcé conformément aux dispositions du III de l'article 10-2 ou à celles d'une assignation à résidence avec surveillance électronique.
 
 La détention provisoire est effectuée soit dans un quartier spécial de la maison d'arrêt, soit dans un établissement pénitentiaire spécialisé pour mineurs ; les mineurs détenus sont, autant qu'il est possible, soumis à l'isolement de nuit. Les mineurs âgés de treize à seize ans ne peuvent être placés en détention que dans les seuls établissements garantissant un isolement complet d'avec les détenus majeurs ainsi que la présence en détention d'éducateurs dans des conditions définies par décret en Conseil d'Etat.
 

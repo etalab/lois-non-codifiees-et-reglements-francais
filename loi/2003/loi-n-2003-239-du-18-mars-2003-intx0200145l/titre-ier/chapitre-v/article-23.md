@@ -16,7 +16,7 @@ I.-Sont inscrits dans le fichier des personnes recherchées au titre des décisi
 
 6° L'interdiction de séjour prononcée en application de l'article 131-31 du code pénal ;
 
-7° Les obligations et interdictions prononcées en application des 1°, 2° et 3° de l'article 131-36-2 du code pénal relatif au suivi socio-judiciaire ;
+7° Les obligations et interdictions prononcées dans le cadre d'un suivi socio-judiciaire en application des 8°, 9° et 13° de l'article 132-45 du code pénal ;
 
 8° Les obligations ou interdictions prononcées dans le cadre d'un sursis avec mise à l'épreuve en application des dispositions du 5° de l'article 132-44 et des 7° à 14° de l'article 132-45 du code pénal et de l'article 20-9 de l'ordonnance n° 45-174 du 2 février 1945 précitée ;
 
