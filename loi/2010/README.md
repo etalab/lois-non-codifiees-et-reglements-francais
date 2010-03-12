@@ -12,4 +12,5 @@
 - [LOI n° 2010-209 du 2 mars 2010 (SASX0904030L)](loi-n-2010-209-du-2-mars-2010-sasx0904030l)
 - [LOI n° 2010-237 du 9 mars 2010 (BCFX1000694L)](loi-n-2010-237-du-9-mars-2010-bcfx1000694l)
 - [LOI n° 2010-238 du 9 mars 2010 (LOGX0508798L)](loi-n-2010-238-du-9-mars-2010-logx0508798l)
+- [LOI n° 2010-242 du 10 mars 2010 (JUSX0818935L)](loi-n-2010-242-du-10-mars-2010-jusx0818935l)
 - [LOI n° 2010-97 du 27 janvier 2010 (MCCX0929140L)](loi-n-2010-97-du-27-janvier-2010-mccx0929140l)
