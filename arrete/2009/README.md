@@ -1566,7 +1566,6 @@
 - [Arrêté du 18 juin 2009 (BCFR0912750A)](arrete-du-18-juin-2009-bcfr0912750a)
 - [Arrêté du 18 juin 2009 (BCFR0912756A)](arrete-du-18-juin-2009-bcfr0912756a)
 - [Arrêté du 18 juin 2009 (DEFD0914021A)](arrete-du-18-juin-2009-defd0914021a)
-- [Arrêté du 18 juin 2009 (ECEA0905543A)](arrete-du-18-juin-2009-ecea0905543a)
 - [Arrêté du 18 juin 2009 (ECEG0909876A)](arrete-du-18-juin-2009-eceg0909876a)
 - [Arrêté du 18 juin 2009 (ESRH0912824A)](arrete-du-18-juin-2009-esrh0912824a)
 - [Arrêté du 18 juin 2009 (ESRH0912825A)](arrete-du-18-juin-2009-esrh0912825a)
