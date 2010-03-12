@@ -12,11 +12,15 @@ Relèvent directement de l'autorité du directeur central :
 
 Le directeur central est secondé par un directeur adjoint, officier général du corps des médecins des armées, qui le remplace en cas d'absence ou d'empêchement et coordonne les travaux de la direction centrale.
 
-Relève directement de l'autorité du directeur adjoint :
+Relèvent directement de l'autorité du directeur adjoint :
 
-- le bureau études et pilotage.
+- le bureau " études et pilotage " ;
 
-Il dispose d'inspecteurs techniques, dont les attributions sont fixées par arrêté du ministre de la défense.
+- le département de l'audit interne.
+
+Le département de l'audit interne est chargé de conduire les audits de conformité, de performance et de management des organismes du service et d'émettre les recommandations qui en résultent. Il coordonne son activité avec celles des structures d'évaluation et de contrôle du ministère de la défense, du ministère chargé de la santé et de la Haute Autorité de santé.
+
+Le directeur central préside le comité des inspecteurs du service de santé des armées, dont la composition et les attributions sont fixées par arrêté du ministre de la défense.
 
 Il préside le comité des inspecteurs du service de santé des armées, dont la composition et les attributions sont fixées par arrêté du ministre de la défense.
 

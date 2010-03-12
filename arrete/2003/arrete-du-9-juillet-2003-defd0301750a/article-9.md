@@ -1,12 +1,10 @@
 # Article 9
 
-La sous-direction budget et finances exprime les besoins financiers correspondants aux attributions financières du service de santé des armées. Elle administre et gère les crédits qui lui sont délégués en relation avec la direction des affaires financières. Elle établit, met à jour et suit la réalisation des référentiels correspondants, notamment en matière d'infrastructure, de systèmes d'information et de communication ainsi que d'équipements techniques.
+La sous-direction "budget et finances" définit l'organisation financière du service. Elle administre et gère les crédits qui lui sont délégués. En liaison avec l'état-major des armées, elle prépare la programmation triennale, l'actualisation de la programmation et le budget annuel dont elle suit l'exécution. Elle établit le budget et le compte de gestion du service.
 
-Elle prépare le budget annuel et suit son exécution. Elle établit le budget et le compte de gestion. Elle définit l'organisation financière du service et propose toute mesure propre à en améliorer l'efficacité.
+Elle établit, met à jour et suit la réalisation des référentiels correspondants, notamment en matière d'infrastructure, des systèmes d'information et de communication ainsi que d'équipements techniques.
 
-Elle coordonne, en liaison avec la direction des affaires financières, les opérations de gestion des crédits dont la direction centrale est gestionnaire.
-
-Elle met en oeuvre le contrôle de gestion et développe les indicateurs permettant de rendre compte de la réalisation des objectifs assignés au service.
+Elle met en œuvre le contrôle de gestion, le contrôle interne budgétaire et comptable et instruit les analyses financières.
 
 La sous-direction "budget et finances" comprend :
 

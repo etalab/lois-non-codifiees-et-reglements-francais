@@ -8,7 +8,7 @@ La sous-direction "action scientifique et technique" comprend :
 
 - le bureau "recherche" ;
 
-- le bureau "santé et sécurité au travail" ;
+- le bureau " évaluation des risques sanitaires " ;
 
 - le bureau "technique" ;
 
