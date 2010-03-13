@@ -20,8 +20,10 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <tr>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -81,8 +83,10 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <tr>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -101,8 +105,10 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <tr>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -195,6 +201,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <p align="center">Réservé aux professionnels.</p>
@@ -209,11 +216,13 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <p align="center">6 % (NH3).</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -229,14 +238,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <p align="center">0,2 %.</p>
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -255,8 +267,10 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -269,6 +283,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <p align="center">35 % (en cas de mélange avec le 1,1,1 trichloroéthane, la concentration totale ne peut dépasser 35 %).</p>
@@ -278,6 +293,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -285,7 +301,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <p align="center">8</p>
 </td>
 <td>
-<p align="center">Paraphénylènediamine, ses dérivés substitués à l'azote et ses sels ainsi que les dérivés de l'orthophénylènediamine substitué à l'azote (1), à l'exception des dérivés mentionnés sous d'autres positions dans la présente annexe et sous les numéros d'ordre 1309, 1311, 1312 mentionnés à l'annexe de l'arrêté du 6 février 2001 modifié fixant la liste des substances qui ne peuvent entrer dans la composition des produits cosmétiques.</p>
+<p align="center">Dérivés de paraphénylènediamine substitués à l'azote, et leurs sels ; dérivés de l'orthophénylènediamine (1) substitués à l'azote, à l'exception des dérivés mentionnés sous d'autres positions dans la présente annexe et sous les numéros d'ordre 1309, 1311, 1312 mentionnés à l'annexe de l'arrêté du 6 février 2001 modifié fixant la liste des substances qui ne peuvent entrer dans la composition des produits cosmétiques. </p>
 </td>
 <td>
 <p align="center">Colorants d'oxydation pour la coloration des cheveux :<br/>a) Usage général.</p>
@@ -295,6 +311,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <p align="center">a) Peut provoquer une réaction allergique. Contient des diaminobenzènes. Ne pas employer pour la coloration des cils et des sourcils.</p>
@@ -303,8 +320,10 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <tr>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -312,8 +331,10 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -321,11 +342,36 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 </tr>
 <tr>
+<td align="center">8 bis<br/>
+</td>
+<td>p-phénylènediamine et ses sels (1). <p>CAS n° 106-50-3.</p>
+<p>Einecs 203-404-7.</p>
+<p>p-phénylènediamine HCl.</p>
+<p>CAS n° 624-18-0.</p>
+<p>Einecs 210-834-9.</p>
+<p>p-phénylènediamine sulfate.</p>
+<p>CAS n° 16245-77-5.</p>
+<p>Einecs 240-357-1.</p>
+<br/>
+</td>
+<td>Colorants d'oxydation pour la coloration des cheveux : <p>a) Usage général.</p>
+<p>b) Usage professionnel. </p>
+<br/>
+</td>
+<td/>
+<td>a) et b) : <p>Après mélange en conditions d'oxydation, la teneur maximale appliquée sur les cheveux ne doit pas dépasser 2 % calculés en base libre.</p>
+<br/>
+</td>
+<td>a) Peut provoquer une réaction allergique. Contient des diaminobenzènes. Ne pas employer pour la coloration des cils et des sourcils. <p>b) Réservé aux professionnels. Contient des diaminobenzènes. Peut provoquer une réaction allergique. Porter des gants appropriés.</p>
+<br/>
+</td>
+</tr>
+<tr>
 <td>
 <p align="center">9</p>
 </td>
 <td>
-<p align="center">Diaminotoluènes, leurs dérivés substitués à l'azote et leurs sels (1), à l'exception des substances figurant sous les numéros d'ordre 364, 1310 et 1313 de l'annexe de l'arrêté du 6 février 2001 modifié fixant la liste des substances qui ne peuvent entrer dans la composition des produits cosmétiques.</p>
+<p align="center">Diaminotoluènes, leurs dérivés substitués à l'azote et leurs sels (1) à l'exception de la substance figurant au numéro d'ordre 9 bis de la présente annexe et des substances figurant sous les numéros d'ordre 364, 1310 et 1313 de l'annexe de l'arrêté du 6 février 2001 modifié fixant la liste des substances qui ne peuvent entrer dans la composition des produits cosmétiques. </p>
 </td>
 <td>
 <p align="center">Colorants d'oxydation pour la coloration des cheveux :<br/>a) Usage général.<br/>b) Usage professionnel.</p>
@@ -335,9 +381,32 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <p align="center">a) Peut provoquer une réaction allergique. Contient des diaminotoluènes. Ne pas employer pour la coloration des cils et des sourcils.<br/>b) Réservé aux professionnels. Contient des diaminotoluènes. Peut provoquer une réaction allergique. Porter des gants appropriés.</p>
+</td>
+</tr>
+<tr>
+<td align="center">9 bis<br/>
+</td>
+<td>diaminotoluène-2,5 et ses sels (1). <p>CAS n° 95-70-5.</p>
+<p>Einecs 202-442-1.</p>
+<p>Toluène-2,5-diamine sulfate.</p>
+<p>CAS n° 615-50-9.</p>
+<p>Einecs 210-431-8.</p>
+<br/>
+</td>
+<td>Colorants d'oxydation pour la coloration des cheveux : <p>a) Usage général.</p>
+<p>b) Usage professionnel. </p>
+<br/>
+</td>
+<td/>
+<td>a) et b) : <p>Après mélange en conditions d'oxydation, la teneur maximale appliquée sur les cheveux ne doit pas dépasser 4 % calculés en base libre.</p>
+<br/>
+</td>
+<td>a) Peut provoquer une réaction allergique. Contient des diaminotoluènes. Ne pas employer pour la coloration des cils et des sourcils. <p>b) Réservé aux professionnels. Contient des diaminotoluènes. Peut provoquer une réaction allergique. Porter des gants appropriés.</p>
+<br/>
 </td>
 </tr>
 <tr>
@@ -349,11 +418,13 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <p align="center">0,5 %.</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -375,6 +446,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <p align="center">a), b), c) :<br/>- contient de l'eau oxygénée ;<br/>- éviter le contact du produit avec les yeux ;<br/>- rincer immédiatement les yeux si le produit entre en contact avec ceux-ci.<br/>a) Porter des gants appropriés.</p>
@@ -395,6 +467,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <p align="center">Protéger les cuticules par un corps gras. Contient du formaldéhyde (2).</p>
@@ -409,22 +482,28 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
-</td>
-<td>
 <br/>
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -455,6 +534,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <p align="center">a) Contient un agent alcalin. Eviter tout contact avec les yeux. Danger de cécité. A tenir hors de portée des enfants.<br/>b) 1. Contient un agent alcalin. Eviter tout contact avec les yeux. Danger de cécité. A tenir hors de portée des enfants.<br/>2. Réservé aux professionnels. Eviter tout contact avec les yeux. Danger de cécité.<br/>c) A tenir hors de portée des enfants. Eviter tout contact avec les yeux.</p>
@@ -472,19 +552,24 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
-</td>
-<td>
 <br/>
 </td>
 <td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -495,6 +580,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <p align="center">a) 1. Contient de l'alcali. - Eviter le contact avec les yeux. - Peut rendre aveugle. - Tenir hors de la portée des enfants.</p>
@@ -503,8 +589,10 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <tr>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -515,6 +603,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <p align="center">a) 2. Réservé aux professionnels. - Eviter le contact avec les yeux. - Peut rendre aveugle.</p>
@@ -523,14 +612,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <tr>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">b) Régulateurs de pH :<br/>- pour dépilatoires.</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -543,8 +635,10 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <tr>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -552,11 +646,13 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <p align="center">c) La valeur du pH ne doit pas dépasser 11.</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -575,6 +671,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <p align="center">a) Contient de l'alcali. - Eviter le contact avec les yeux. - A tenir hors de portée des enfants. - Peut rendre aveugle.</p>
@@ -583,14 +680,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <tr>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">b) Régulateurs de pH :<br/>- pour dépilatoires.</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -603,8 +703,10 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <tr>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -612,11 +714,13 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <p align="center">c) La valeur du pH ne doit pas dépasser 11.</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -658,6 +762,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -675,8 +780,10 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -695,8 +802,10 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -714,6 +823,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <p align="center">a) 5 %.<br/>b) 0,5 %.</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -735,6 +845,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <p align="center">a) Tenir à l'écart des enfants. Eviter tout contact avec les yeux.<br/>b) Tenir à l'écart des enfants. Eviter tout contact avec les yeux.</p>
@@ -749,14 +860,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <p align="center">1 % (en zinc).</p>
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -774,6 +888,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <p align="center">6 % de matière anhydre.</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -795,6 +910,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <p align="center">Contient du monofluorophosphate d'ammonium (6).</p>
@@ -814,6 +930,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <p align="center">0,15 % idem n° 26.</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -835,6 +952,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <p align="center">Contient du monofluorophosphate de potassium (6).</p>
@@ -854,6 +972,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <p align="center">0,15 % idem n° 26.</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -875,6 +994,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <p align="center">Contient du fluorure de calcium (6).</p>
@@ -894,6 +1014,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <p align="center">0,15 % idem n° 26.</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -915,6 +1036,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <p align="center">Contient du fluorure de potassium (6).</p>
@@ -934,6 +1056,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <p align="center">0,15 % idem n° 26.</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -955,6 +1078,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <p align="center">Contient du fluorure d'aluminium (6).</p>
@@ -974,6 +1098,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <p align="center">0,15 % idem n° 26.</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -995,6 +1120,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <p align="center">Contient de l'hydrofluorure de cétylamine (6).</p>
@@ -1014,6 +1140,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <p align="center">0,15 % idem 26.</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -1035,6 +1162,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <p align="center">Contient du dihydrofluorure de N,N',N',-tri (polyoxyéthylène)-N-hexadécylpropylène-diamine (6).</p>
@@ -1054,6 +1182,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <p align="center">0,15 % idem n° 26.</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -1075,6 +1204,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <p align="center">Contient du silicofluorure de sodium (6).</p>
@@ -1094,6 +1224,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <p align="center">0,15 % idem n° 26.</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -1115,6 +1246,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <p align="center">Contient du silicofluorure d'ammonium (6).</p>
@@ -1134,6 +1266,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <p align="center">0,15 % idem n° 26.</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -1172,12 +1305,14 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <p align="center">
 <br/>b) La présence de la substance doit être indiquée sur la liste des ingrédients visés à l'article 6, paragraphe 1, point g, lorsque sa concentration est supérieure :<br/>- à 0,001 % dans les produits non rincés ;<br/>- à 0,01 % dans les produits rincés.</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -1196,8 +1331,10 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -1215,6 +1352,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <p align="center">0,15 % (en fluor). En cas de mélange avec d'autres composés fluorés autorisés par la présente annexe, la concentration maximale en fluor reste fixée à 0,15 %.</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -1236,6 +1374,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <p align="center">Contient du nitrate d'argent. Rincer immédiatement les yeux si le produit entre en contact avec ceux-ci.</p>
@@ -1255,6 +1394,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <p align="center">1 %.</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -1296,8 +1436,10 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -1316,8 +1458,10 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -1336,8 +1480,10 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -1359,6 +1505,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1375,6 +1522,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <p align="center">0,15 % (en fluor). En cas de mélange avec d'autres composés fluorés autorisés par la présente annexe, la concentration maximale en fluor reste fixée à 0,15 %.</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -1396,6 +1544,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <p align="center">Contient du chlorure de strontium. Usage déconseillé aux enfants.</p>
@@ -1404,8 +1553,10 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <tr>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -1416,8 +1567,10 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -1436,6 +1589,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <p align="center">Contient de l'acétate de strontium. Usage déconseillé aux enfants.</p>
@@ -1453,8 +1607,10 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -1470,6 +1626,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <p align="center">Teneur maximale en amine secondaire : 0,5 %.</p>
@@ -1478,6 +1635,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <p align="center">- Ne pas utiliser avec les systèmes de nitrosation.<br/>- Teneur maximale en amine secondaire : 5 % (concerne les matières premières).<br/>- Concentration maximale en nitrosamine : 50 microgrammes/kg.<br/>- A conserver en récipients sans nitrite.</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -1490,6 +1648,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <p align="center">Concentration maximale en amine secondaire : 0,5 %.</p>
@@ -1498,6 +1657,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <p align="center">- Ne pas utiliser avec les systèmes de nitrosation.<br/>- Pureté minimale : 99 %.<br/>- Concentration maximale en amine secondaire : 0,5 % (concerne les matières premières).<br/>- Concentration maximale en nitrosamine : 50 microgrammes/kg.<br/>- A conserver en récipients sans nitrite.</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -1519,6 +1679,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1535,6 +1696,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <p align="center">3,5 % (en strontium), pH maximal : 12,7.</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -1584,8 +1746,10 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <tr>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -1595,6 +1759,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <p align="center">b) 0,1 % (en chlorure de benzalkonium).</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -1613,19 +1778,23 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <p align="center">a) Teneur résiduelle maximale en acrylamide 0,1 mg/kg.</p>
 </td>
 <td>
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -1633,11 +1802,13 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <p align="center">b) Teneur résiduelle maximale en acrylamide 0,5 mg/kg.</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -1650,14 +1821,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">La présence de la substance doit être indiquée dans la liste des ingrédients mentionnés au 8o de l'article R. 5131-4 du code de la santé publique lorsque sa concentration est supérieure :<br/>- à 0,001 % dans les produits non rincés ;<br/>- à 0,01 % dans les produits rincés. </p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -1670,14 +1844,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">La présence de la substance doit être indiquée dans la liste des ingrédients mentionnés au 8o de l'article R. 5131-4 du code de la santé publique lorsque sa concentration est supérieure :<br/>- à 0,001 % dans les produits non rincés ;<br/>- à 0,01 % dans les produits rincés.</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -1690,14 +1867,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">La présence de la substance doit être indiquée dans la liste des ingrédients mentionnés au 8o de l'article R. 5131-4 du code de la santé publique lorsque sa concentration est supérieure :<br/>- à 0,001 % dans les produits non rincés ;<br/>- à 0,01 % dans les produits rincés.</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -1710,14 +1890,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">La présence de la substance doit être indiquée dans la liste des ingrédients mentionnés au 8o de l'article R. 5131-4 du code de la santé publique lorsque sa concentration est supérieure :<br/>- à 0,001 % dans les produits non rincés ;<br/>- à 0,01 % dans les produits rincés.</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -1740,6 +1923,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1761,6 +1945,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1772,14 +1957,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">La présence de la substance doit être indiquée dans la liste des ingrédients mentionnés au 8o de l'article R. 5131-4 du code de la santé publique lorsque sa concentration est supérieure :<br/>- à 0,001 % dans les produits non rincés ;<br/>- à 0,01 % dans les produits rincés.</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -1792,14 +1980,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">La présence de la substance doit être indiquée dans la liste des ingrédients mentionnés au 8o de l'article R. 5131-4 du code de la santé publique lorsque sa concentration est supérieure :<br/>- à 0,001 % dans les produits non rincés ;<br/>- à 0,01 % dans les produits rincés.</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -1812,14 +2003,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">La présence de la substance doit être indiquée dans la liste des ingrédients mentionnés au 8o de l'article R. 5131-4 du code de la santé publique lorsque sa concentration est supérieure :<br/>- à 0,001 % dans les produits non rincés ;<br/>- à 0,01 % dans les produits rincés.</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -1832,14 +2026,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">La présence de la substance doit être indiquée dans la liste des ingrédients mentionnés au 8o de l'article R. 5131-4 du code de la santé publique lorsque sa concentration est supérieure :<br/>- à 0,001 % dans les produits non rincés ;<br/>- à 0,01 % dans les produits rincés.</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -1852,14 +2049,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">La présence de la substance doit être indiquée dans la liste des ingrédients mentionnés au 8o de l'article R. 5131-4 du code de la santé publique lorsque sa concentration est supérieure :<br/>- à 0,001 % dans les produits non rincés ;<br/>- à 0,01 % dans les produits rincés.</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -1872,14 +2072,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">La présence de la substance doit être indiquée dans la liste des ingrédients mentionnés au 8o de l'article R. 5131-4 du code de la santé publique lorsque sa concentration est supérieure :<br/>- à 0,001 % dans les produits non rincés ;<br/>- à 0,01 % dans les produits rincés.</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -1892,14 +2095,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">La présence de la substance doit être indiquée dans la liste des ingrédients mentionnés au 8o de l'article R. 5131-4 du code de la santé publique lorsque sa concentration est supérieure :<br/>- à 0,001 % dans les produits non rincés ;<br/>- à 0,01 % dans les produits rincés.</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -1912,14 +2118,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">La présence de la substance doit être indiquée dans la liste des ingrédients mentionnés au 8o de l'article R. 5131-4 du code de la santé publique lorsque sa concentration est supérieure :<br/>- à 0,001 % dans les produits non rincés ;<br/>- à 0,01 % dans les produits rincés.</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -1932,14 +2141,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">La présence de la substance doit être indiquée dans la liste des ingrédients mentionnés au 8o de l'article R. 5131-4 du code de la santé publique lorsque sa concentration est supérieure :<br/>- à 0,001 % dans les produits non rincés ;<br/>- à 0,01 % dans les produits rincés. </p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -1952,14 +2164,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">La présence de la substance doit être indiquée dans la liste des ingrédients mentionnés au 8o de l'article R. 5131-4 du code de la santé publique lorsque sa concentration est supérieure :<br/>- à 0,001 % dans les produits non rincés ;<br/>- à 0,01 % dans les produits rincés.</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -1972,14 +2187,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">La présence de la substance doit être indiquée dans la liste des ingrédients mentionnés au 8o de l'article R. 5131-4 du code de la santé publique lorsque sa concentration est supérieure :<br/>- à 0,001 % dans les produits non rincés ;<br/>- à 0,01 % dans les produits rincés.</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -1992,14 +2210,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">La présence de la substance doit être indiquée dans la liste des ingrédients mentionnés au 8o de l'article R. 5131-4 du code de la santé publique lorsque sa concentration est supérieure :<br/>- à 0,001 % dans les produits non rincés ;<br/>- à 0,01 % dans les produits rincés.</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -2012,14 +2233,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">La présence de la substance doit être indiquée dans la liste des ingrédients mentionnés au 8o de l'article R. 5131-4 du code de la santé publique lorsque sa concentration est supérieure :<br/>- à 0,001 % dans les produits non rincés ;<br/>- à 0,01 % dans les produits rincés.</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -2032,14 +2256,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">La présence de la substance doit être indiquée dans la liste des ingrédients mentionnés au 8o de l'article R. 5131-4 du code de la santé publique lorsque sa concentration est supérieure :<br/>- à 0,001 % dans les produits non rincés ;<br/>- à 0,01 % dans les produits rincés.</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -2052,14 +2279,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">La présence de la substance doit être indiquée sur la liste des ingrédients visés à l'article 6, paragraphe 1, point g, lorsque sa concentration est supérieure :<br/>- à 0,001 % dans les produits non rincés ;<br/>- à 0,01 % dans les produits rincés.<br/>Indice de peroxyde inférieur à 20 mmoles/L (**).</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -2082,6 +2312,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -2093,14 +2324,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">La présence de la substance doit être indiquée dans la liste des ingrédients mentionnés au 8o de l'article R. 5131-4 du code de la santé publique lorsque sa concentration est supérieure :<br/>- à 0,001 % dans les produits non rincés ;<br/>- à 0,01 % dans les produits rincés.</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -2113,14 +2347,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">La présence de la substance doit être indiquée dans la liste des ingrédients mentionnés au 8o de l'article R. 5131-4 du code de la santé publique lorsque sa concentration est supérieure :<br/>- à 0,001 % dans les produits non rincés ;<br/>- à 0,01 % dans les produits rincés.</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -2133,14 +2370,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">La présence de la substance doit être indiquée dans la liste des ingrédients mentionnés au 8o de l'article R. 5131-4 du code de la santé publique lorsque sa concentration est supérieure :<br/>- à 0,001 % dans les produits non rincés ;<br/>- à 0,01 % dans les produits rincés.</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -2159,8 +2399,10 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -2219,8 +2461,10 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -2239,8 +2483,10 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -2298,6 +2544,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -2318,6 +2565,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -2329,14 +2577,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <p align="center">100 ppm (=100 mg/kg).</p>
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -2349,14 +2600,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">Indice de peroxyde inférieur à 10 mmoles/L (**).</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -2369,14 +2623,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">Indice de peroxyde inférieur à 10 mmoles/L (**).</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -2389,14 +2646,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">Indice de peroxyde inférieur à 10 mmoles/L (**).</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -2409,14 +2669,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">Indice de peroxyde inférieur à 10 mmoles/L (**).</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -2429,14 +2692,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">Indice de peroxyde inférieur à 10 mmoles/L (**).</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -2449,14 +2715,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">Indice de peroxyde inférieur à 10 mmoles/L (**).</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -2469,14 +2738,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">Indice de peroxyde inférieur à 10 mmoles/L (**).</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -2489,14 +2761,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">Indice de peroxyde inférieur à 10 mmoles/L (**).</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -2509,14 +2784,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">Indice de peroxyde inférieur à 10 mmoles/L (**).</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -2529,14 +2807,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">Indice de peroxyde inférieur à 10 mmoles/L (**).</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -2549,14 +2830,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">Indice de peroxyde inférieur à 10 mmoles/L (**).</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -2569,14 +2853,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">Indice de peroxyde inférieur à 10 mmoles/L (**).</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -2589,14 +2876,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">Indice de peroxyde inférieur à 10 mmoles/L (**).</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -2609,14 +2899,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">Indice de peroxyde inférieur à 10 mmoles/L (**).</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -2629,14 +2922,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">Indice de peroxyde inférieur à 10 mmoles/L (**).</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -2649,14 +2945,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">Indice de peroxyde inférieur à 10 mmoles/L (**).</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -2669,14 +2968,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">Indice de peroxyde inférieur à 10 mmoles/L (**).</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -2689,14 +2991,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">Indice de peroxyde inférieur à 10 mmoles/L (**).</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -2709,14 +3014,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">Indice de peroxyde inférieur à 10 mmoles/L (**).</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -2729,14 +3037,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">Indice de peroxyde inférieur à 10 mmoles/L (**).</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -2749,14 +3060,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">Indice de peroxyde inférieur à 10 mmoles/L (**).</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -2769,14 +3083,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">Indice de peroxyde inférieur à 10 mmoles/L (**).</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -2789,14 +3106,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">Indice de peroxyde inférieur à 10 mmoles/L (**).</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -2809,14 +3129,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">Indice de peroxyde inférieur à 10 mmoles/L (**).</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -2829,14 +3152,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">Indice de peroxyde inférieur à 10 mmoles/L (**).</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -2849,14 +3175,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">Indice de peroxyde inférieur à 10 mmoles/L (**).</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -2869,14 +3198,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">Indice de peroxyde inférieur à 10 mmoles/L (**).</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -2889,14 +3221,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">Indice de peroxyde inférieur à 10 mmoles/L (**).</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -2909,14 +3244,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">Indice de peroxyde inférieur à 10 mmoles/L (**).</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -2929,14 +3267,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">Indice de peroxyde inférieur à 10 mmoles/L (**).</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -2949,14 +3290,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">Indice de peroxyde inférieur à 10 mmoles/L (**).</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -2975,8 +3319,10 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -2989,14 +3335,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">Le niveau d'alcool allylique libre dans l'ester doit être inférieur à 0,1 %.</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -3009,14 +3358,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">Le niveau d'alcool allylique libre dans l'ester doit être inférieur à 0,1 %.</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -3029,14 +3381,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">Le niveau d'alcool allylique libre dans l'ester doit être inférieur à 0,1 %.</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -3049,14 +3404,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">Le niveau d'alcool allylique libre dans l'ester doit être inférieur à 0,1 %.</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -3069,14 +3427,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">Le niveau d'alcool allylique libre dans l'ester doit être inférieur à 0,1 %.</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -3089,14 +3450,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">Le niveau d'alcool allylique libre dans l'ester doit être inférieur à 0,1 %.</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -3109,14 +3473,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">Le niveau d'alcool allylique libre dans l'ester doit être inférieur à 0,1 %.</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -3129,14 +3496,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">Le niveau d'alcool allylique libre dans l'ester doit être inférieur à 0,1 %.</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -3149,14 +3519,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">Le niveau d'alcool allylique libre dans l'ester doit être inférieur à 0,1 %.</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -3169,14 +3542,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">Le niveau d'alcool allylique libre dans l'ester doit être inférieur à 0,1 %.</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -3189,14 +3565,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">Le niveau d'alcool allylique libre dans l'ester doit être inférieur à 0,1 %.</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -3209,14 +3588,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">Le niveau d'alcool allylique libre dans l'ester doit être inférieur à 0,1 %.</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -3229,14 +3611,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">Le niveau d'alcool allylique libre dans l'ester doit être inférieur à 0,1 %.</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -3249,14 +3634,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">Le niveau d'alcool allylique libre dans l'ester doit être inférieur à 0,1 %.</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -3269,14 +3657,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">Le niveau d'alcool allylique libre dans l'ester doit être inférieur à 0,1 %.</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -3289,14 +3680,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">Le niveau d'alcool allylique libre dans l'ester doit être inférieur à 0,1 %.</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -3309,14 +3703,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">Le niveau d'alcool allylique libre dans l'ester doit être inférieur à 0,1 %.</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -3329,6 +3726,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <p align="center">0,002 %.</p>
@@ -3337,6 +3735,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <p align="center">Cette substance ne doit pas être utilisée en combinaison avec un autre 2-alkynoic acid ester (notamment le methyl heptine carbonate).</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -3349,14 +3748,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <p align="center">0,1 %.</p>
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -3369,14 +3771,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <p align="center">0,4 %.</p>
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -3389,14 +3794,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <p align="center">0,6 %.</p>
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -3415,8 +3823,10 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -3432,19 +3842,24 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
-</td>
-<td>
 <br/>
 </td>
 <td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -3455,8 +3870,10 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -3472,11 +3889,14 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
-</td>
-<td>
 <br/>
 </td>
 <td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -3495,8 +3915,10 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -3512,19 +3934,24 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
-</td>
-<td>
 <br/>
 </td>
 <td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -3535,8 +3962,10 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -3552,19 +3981,24 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
-</td>
-<td>
 <br/>
 </td>
 <td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -3575,8 +4009,10 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -3596,8 +4032,10 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -3617,8 +4055,10 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -3631,14 +4071,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <p align="center">0,02 %.</p>
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -3658,8 +4101,10 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -3679,8 +4124,10 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -3693,14 +4140,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">Indice de péroxyde inférieur à 20 mmoles/L (**).</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -3713,14 +4163,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
 <p align="center">Indice de péroxyde inférieur à 20 mmoles/L (**).</p>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -3740,8 +4193,10 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -3754,14 +4209,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <p align="center">0,1 %.</p>
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -3774,14 +4232,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <p align="center">0,5 %.</p>
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -3794,14 +4255,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <p align="center">0,2 %.</p>
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -3817,19 +4281,24 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
-</td>
-<td>
 <br/>
 </td>
 <td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -3840,8 +4309,10 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -3861,8 +4332,10 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -3882,8 +4355,10 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -3896,14 +4371,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <p align="center">0,5 %.</p>
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -3923,8 +4401,10 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -3940,19 +4420,24 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
-</td>
-<td>
 <br/>
 </td>
 <td>
+<br/>
+<br/>
+</td>
+<td>
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td>
@@ -3963,8 +4448,10 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -3977,14 +4464,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <p align="center">0,2 %.</p>
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -3997,14 +4487,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <p align="center">0,6 %.</p>
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -4017,14 +4510,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <p align="center">0,6 %.</p>
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -4043,8 +4539,10 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -4057,14 +4555,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <p align="center">0,6 %.</p>
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -4077,14 +4578,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
 <p align="center">0,6 %.</p>
 </td>
 <td>
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 </tr>
@@ -4557,7 +5061,9 @@ a) Le ratio de mélange doit être imprimé sur l'étiquetage.
 
 (5x) Employé également comme agent conservateur au numéro d'ordre 8 de l'arrêté du 6 février 2001 modifié fixant la liste des agents conservateurs que peuvent contenir les produits cosmétiques.
 
-(6) Sauf s'il est indiqué sur l'étiquetage qu'ils sont contre-indiqués pour les enfants (par exemple, par une mention type "Pour adultes seulement"), les dentifrices dont la concentration en fluorures est comprise entre 0,1 et 0,15 % doivent obligatoirement porter les mentions suivantes : "Enfants de six ans ou moins : utiliser une quantité de dentifrice de la taille d'un petit pois sous la surveillance d'un adulte afin d'en minimiser l'ingestion. En cas d'apport de fluorures provenant d'autres sources, consultez un dentiste ou un médecin".
+(6) Sauf s'il est indiqué sur l'étiquetage qu'ils sont contre-indiqués pour les enfants (par exemple, par une mention type "pour adultes seulement"), les dentifrices contenant des composés dont la concentration en fluor est comprise entre 0,1 et 0,15 % calculée en F doivent obligatoirement porter les mentions suivantes :
+
+"Enfants de six ans ou moins : utiliser une quantité de dentifrice de la taille d'un petit pois sous la surveillance d'un adulte afin d'en minimiser l'ingestion. En cas d'apport de fluorures provenant d'autres sources, consultez un dentiste ou un médecin."
 
 (*) Comme conservateur, voir annexe arrêté du 6 février 2001 modifié fixant la liste des agents conservateurs que peuvent contenir les produits cosmétiques, numéro d'ordre 34 (annexe VI de la directive 76/768/CE du Conseil du 27 juillet 1976, première partie, numéro d'ordre 34).
 
