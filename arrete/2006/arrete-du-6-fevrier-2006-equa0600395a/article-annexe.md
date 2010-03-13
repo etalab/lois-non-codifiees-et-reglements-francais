@@ -2,20 +2,6 @@
 
 **LIAISONS RÉGULIÈRES DE PASSAGERS, DE COURRIER ET DE FRET**
 
-Jusqu'au 28 février 2010
-
-Paris-Agadir (Maroc).
-
-Paris-Marrakech (Maroc).
-
-Paris-Oujda (Maroc).
-
-Jusqu'au 31 mars 2010
-
-Paris-Djerba (Tunisie).
-
-Paris-Monastir (Tunisie).
-
 Jusqu'au 31 août 2010
 
 Paris-Batna (Algérie).
@@ -69,3 +55,11 @@ Lille-Tlemcen (Algérie) ;
 Lyon-Tlemcen (Algérie) ;
 
 Mulhouse-Oran (Algérie).
+
+Jusqu'au 1er mars 2015
+
+Paris - Agadir (Maroc).
+
+Paris - Djerba (Tunisie).
+
+Paris - Monastir (Tunisie).
