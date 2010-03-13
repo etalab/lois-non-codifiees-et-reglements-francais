@@ -29,3 +29,5 @@ Le service d'exploitation et le siège du service de la navigation aérienne Oue
 Dans les services de la navigation aérienne, les fonctions de responsable exploitation.
 
 Les services et entités en charge de la gestion de proximité des ressources humaines de la direction générale de l'aviation civile.
+
+Les unités du service national d'ingénierie aéroportuaire concernées par la réorganisation du ministère de la défense.
