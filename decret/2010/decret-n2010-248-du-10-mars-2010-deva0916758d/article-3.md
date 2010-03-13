@@ -1,0 +1,3 @@
+# Article 3
+
+Le ministre d'Etat, ministre de l'écologie, de l'énergie, du développement durable et de la mer, en charge des technologies vertes et des négociations sur le climat, le ministre des affaires étrangères et européennes, la ministre de l'économie, de l'industrie et de l'emploi, le ministre de l'intérieur, de l'outre-mer et des collectivités territoriales, le ministre du budget, des comptes publics, de la fonction publique et de la réforme de l'Etat, le ministre de l'espace rural et de l'aménagement du territoire et le secrétaire d'Etat chargé des transports sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.
