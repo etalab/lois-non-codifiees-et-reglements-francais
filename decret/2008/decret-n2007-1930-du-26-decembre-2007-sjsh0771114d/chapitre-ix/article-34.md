@@ -16,7 +16,9 @@ Les personnels de direction peuvent, avec leur accord, être mis à disposition 
 
 7° Des groupements de coopération ou des autres structures de coopération mentionnées dans le code de la santé publique et dans le code de l'action sociale et des familles ;
 
-8° Des groupements d'intérêt public.
+8° Des groupements d'intérêt public ;
+
+9° Des institutions européennes.
 
 Ils peuvent également être mis à disposition d'un autre établissement ou d'un syndicat interhospitalier mentionnés à l'article 2 de la loi du 9 janvier 1986 susvisée par leur établissement d'origine et pour une partie de leur activité, sous réserve de leur accord préalable et de la conclusion d'une convention entre l'établissement d'origine et la structure d'accueil portant sur les modalités de leur activité et sur le remboursement de tout ou partie de leur rémunération. Cette mise à disposition fait l'objet d'un arrêté du directeur général du Centre national de gestion.
 

@@ -5,7 +5,7 @@
 - [Chapitre III : Formation professionnelle continue et formation d'adaptation à l'emploi](chapitre-iii)
 - [Chapitre IV : Nomination](chapitre-iv)
 - [Chapitre V : Avancement](chapitre-v)
-- [Chapitre VI : Détachement](chapitre-vi)
+- [Chapitre VI : Détachement et intégration](chapitre-vi)
 - [Chapitre VII : Direction commune](chapitre-vii)
 - [Chapitre VIII : Fusion d'établissements](chapitre-viii)
 - [Chapitre IX : Mise à disposition](chapitre-ix)

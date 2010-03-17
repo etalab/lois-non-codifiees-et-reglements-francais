@@ -1,6 +1,6 @@
 # Article 27
 
-Peuvent être détachés dans le corps des directeurs d'établissements sanitaires, sociaux et médico-sociaux, après avis de la Commission administrative paritaire nationale, les fonctionnaires appartenant à un corps ou cadre d'emplois de catégorie A ou de même niveau dont l'indice brut terminal est classé en hors-échelle, lettre A, et justifiant de six années de services effectifs en cette qualité.
+Peuvent être détachés dans le corps des directeurs d'établissements sanitaires, sociaux et médico-sociaux, après avis de la commission administrative paritaire nationale, les fonctionnaires et les militaires répondant aux conditions prévues par les articles 13 bis et 13 ter de la loi du 13 juillet 1983 susvisée.
 
 Ces agents sont classés conformément aux dispositions de l'article 26.
 

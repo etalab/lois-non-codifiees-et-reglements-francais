@@ -1,3 +1,3 @@
 # Article 37
 
-Le logement des personnels de direction est régi par les dispositions de l'article 72 du décret du 17 avril 1943 susvisé.
+Le logement des personnels de direction est régi par les dispositions de l'article 77 de la loi du 9 janvier 1986 susvisée.

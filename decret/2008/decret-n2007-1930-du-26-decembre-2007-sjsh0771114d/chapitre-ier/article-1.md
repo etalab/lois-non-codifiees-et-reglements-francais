@@ -16,7 +16,7 @@ II. - Les personnels de direction sont chargés :
 
 2° D'une direction commune à plusieurs établissements mentionnés au I ;
 
-3° Ou, sous l'autorité du chef d'établissement ou du secrétaire général du syndicat interhospitalier, de préparer et de mettre en oeuvre les délibérations du conseil d'administration et les décisions prises par le chef d'établissement ou le secrétaire général du syndicat interhospitalier, dans le cadre de délégations que ces derniers leur ont accordées. Lorsque l'établissement n'a pas la personnalité morale, cette délégation peut être accordée par le directeur et après accord du président de l'organe délibérant de la personne publique dont dépend l'établissement.
+3° Ou, sous l'autorité du chef d'établissement ou du secrétaire général du syndicat interhospitalier, de préparer et de mettre en oeuvre les délibérations du conseil d'administration ou conseil de surveillance et les décisions prises par le chef d'établissement ou le secrétaire général du syndicat interhospitalier, dans le cadre de délégations que ces derniers leur ont accordées. Lorsque l'établissement n'a pas la personnalité morale, cette délégation peut être accordée par le directeur et après accord du président de l'organe délibérant de la personne publique dont dépend l'établissement.
 
 Lorsqu'ils sont affectés dans un établissement public de santé, ils peuvent y exercer toute fonction sanitaire, sociale et médico-sociale définie par le chef d'établissement.
 
