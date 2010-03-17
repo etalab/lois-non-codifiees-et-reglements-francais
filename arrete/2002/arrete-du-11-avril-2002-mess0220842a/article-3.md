@@ -1,6 +1,6 @@
 # Article 3
 
-Les informations nécessaires à l'établissement du système national d'information inter-régimes de l'assurance maladie sont transmises par les organismes gérant un régime de base d'assurance maladie et, pour ce qui concerne les informations relatives à l'activité hospitalière, par la direction de l'hospitalisation et de l'organisation des soins chargé de la santé et de l'assurance maladie.
+Les informations nécessaires à l'établissement du système national d'information inter-régimes de l'assurance maladie sont transmises par les organismes gérant un régime de base d'assurance maladie et, pour ce qui concerne les informations relatives à l'activité hospitalière, par la           direction générale de l'offre de soins chargé de la santé et de l'assurance maladie.
 
 Ces informations, détaillées à l'annexe 1 du protocole, concernent :
 
@@ -8,7 +8,7 @@ Ces informations, détaillées à l'annexe 1 du protocole, concernent :
 
 -les caractéristiques des décomptes de remboursement ;
 
--les numéros d'anonymat de l'assuré et du bénéficiaire, le sexe,        l'année et le mois de naissance, le cas échéant, la date de décès, le département et la commune de résidence ;
+-les numéros d'anonymat de l'assuré et du bénéficiaire, le sexe, l'année et le mois de naissance, le cas échéant, la date de décès, le département et la commune de résidence ;
 
 -les informations relatives aux prestations servies :
 

@@ -24,7 +24,7 @@ Dans la limite de ses attributions, le ministre auprès du Premier ministre, cha
 
 ― la direction générale des patrimoines ;
 
-― la direction de l'hospitalisation et de l'organisation des soins ;
+― la           direction générale de l'offre de soins ;
 
 ― la secrétariat général du comité interministériel des villes ;
 

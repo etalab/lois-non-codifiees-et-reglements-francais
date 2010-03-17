@@ -6,7 +6,7 @@ Outre, d'une part, l'inspection générale des affaires sociales, la délégatio
 
 -la direction générale de la cohésion sociale ;
 
--la direction de l'hospitalisation et de l'organisation des soins ;
+-la           direction générale de l'offre de soins ;
 
 -la direction de la sécurité sociale ;
 

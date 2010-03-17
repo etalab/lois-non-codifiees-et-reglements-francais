@@ -1,3 +1,3 @@
 # Article 3
 
-La direction de l'hospitalisation et de l'organisation des soins assure le secrétariat de la commission.
+La           direction générale de l'offre de soins assure le secrétariat de la commission.

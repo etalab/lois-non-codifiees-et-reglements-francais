@@ -104,11 +104,11 @@ Le Conseil national de l'urgence hospitalière comprend les membres suivants :
 
 8° Des représentants des services du ministère chargé de la santé et du ministère chargé de l'enseignement supérieur et de la recherche :
 
-― le directeur de l'hospitalisation et de l'organisation des soins ou son représentant ;
+― le           directeur général de l'offre de soins  ou son représentant ;
 
 ― le directeur général de la santé ou son représentant ;
 
-― le      directeur général de la cohésion sociale  ou son représentant ;
+― le directeur général de la cohésion sociale ou son représentant ;
 
 ― le directeur de la sécurité sociale ou son représentant ;
 

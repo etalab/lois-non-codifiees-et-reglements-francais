@@ -52,7 +52,7 @@ Ministère de la santé et de la protection sociale :
 
 Le directeur général de la santé, ou son représentant ;
 
-Le directeur de l'hospitalisation et de l'organisation de soins, ou son représentant.
+Le           directeur général de l'offre de soins , ou son représentant.
 
 Ministère de l'équipement, des transports, de l'aménagement du territoire, du tourisme et de la mer :
 

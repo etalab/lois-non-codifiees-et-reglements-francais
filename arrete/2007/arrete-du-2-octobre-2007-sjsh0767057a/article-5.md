@@ -4,9 +4,9 @@ Le jury est nommé par arrêté du ministre chargé de la santé.
 
 Il comprend :
 
--le directeur de l'hospitalisation et de l'organisation des soins ou son représentant ;
+-le           directeur général de l'offre de soins  ou son représentant ;
 
--le      directeur général de la cohésion sociale  ou son représentant ;
+-le directeur général de la cohésion sociale ou son représentant ;
 
 -le directeur de l'Ecole nationale de la santé publique ou son représentant ;
 
@@ -18,6 +18,6 @@ Il pourra être fait appel en cas de nécessité à des fonctionnaires en retrai
 
 Des correcteurs peuvent être désignés par arrêté du ministre chargé de la santé pour participer avec les membres du jury à la correction des épreuves. Ils délibèrent avec le jury avec voix consultative pour l'attribution des notes aux épreuves qu'ils ont corrigées.
 
-Le jury est présidé par le directeur de l'hospitalisation et de l'organisation des soins. En cas d'absence ou d'empêchement de celui-ci, le directeur général du Centre national de gestion des praticiens hospitaliers et des personnels de direction de la fonction publique hospitalière désigne un membre du jury pour en exercer la présidence.
+Le jury est présidé par le           directeur général de l'offre de soins . En cas d'absence ou d'empêchement de celui-ci, le directeur général du Centre national de gestion des praticiens hospitaliers et des personnels de direction de la fonction publique hospitalière désigne un membre du jury pour en exercer la présidence.
 
 Le secrétariat est assuré par un agent du Centre national de gestion des praticiens hospitaliers et des personnels de direction de la fonction publique hospitalière.

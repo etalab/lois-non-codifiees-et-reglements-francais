@@ -1,8 +1,8 @@
 # Article 3
 
-I. - L'Observatoire économique de l'achat public est présidé par le ministre chargé de l'économie et, en son absence, par le directeur des affaires juridiques du ministère chargé de l'économie.
+I.-L'Observatoire économique de l'achat public est présidé par le ministre chargé de l'économie et, en son absence, par le directeur des affaires juridiques du ministère chargé de l'économie.
 
-II. - Sont membres de droit de l'observatoire un représentant du président du Sénat et un représentant du président de l'Assemblée nationale.
+II.-Sont membres de droit de l'observatoire un représentant du président du Sénat et un représentant du président de l'Assemblée nationale.
 
 Sont également membres de droit de l'observatoire :
 
@@ -36,11 +36,11 @@ Sont également membres de droit de l'observatoire :
 
 15° Le délégué général pour l'armement ou son représentant ;
 
-16° Le directeur de l'hospitalisation et de l'organisation des soins ou son représentant ;
+16° Le           directeur général de l'offre de soins  ou son représentant ;
 
 17° Le directeur général à l'emploi et à la formation professionnelle.
 
-III. - L'observatoire comprend également les membres suivants :
+III.-L'observatoire comprend également les membres suivants :
 
 1° Les représentants de vingt-deux organisations professionnelles, dont au moins deux représentatives des petites et moyennes entreprises ;
 
@@ -58,4 +58,4 @@ III. - L'observatoire comprend également les membres suivants :
 
 8° Des personnalités qualifiées, dans la limite de douze, nommées par le ministre chargé de l'économie, en raison de leur compétence particulière en matière de marchés publics.
 
-IV. - L'Observatoire économique de l'achat public se réunit sur convocation de son président, au moins une fois par an.
+IV.-L'Observatoire économique de l'achat public se réunit sur convocation de son président, au moins une fois par an.

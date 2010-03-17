@@ -278,12 +278,12 @@ En application des dispositions de l'article 1er du décret du 23 mai 2001 susvi
 <p align="center">d° </p>
 </td>
 <td>
-<p>Juriste responsable du dispositif de règlement amiable des accidents médicaux au bureau éthique et droit à la sous-direction de la coordination des services et des affaires juridiques (à compter du 1er janvier 2005) </p>
+<p>Juriste responsable du dispositif de règlement amiable des accidents médicaux au bureau éthique et droit à la sous-direction de la coordination des services et des affaires juridiques (à compter du 1er janvier 2005)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Direction de l'hospitalisation et de l'organisation des soins </p>
+<p>           direction générale de l'offre de soins </p>
 </td>
 <td>
 <p>Chargé de mission auprès du sous-directeur des professions para-médicales et des personnels hospitaliers. </p>
@@ -334,7 +334,7 @@ En application des dispositions de l'article 1er du décret du 23 mai 2001 susvi
 <p>Délégation aux affaires européennes et internationales </p>
 </td>
 <td>
-<p>Chef du bureau des affaires multilatérales (à compter du 1er janvier 2006)</p>
+<p>Chef du bureau des affaires multilatérales (à compter du 1er janvier 2006) </p>
 </td>
 </tr>
 <tr>

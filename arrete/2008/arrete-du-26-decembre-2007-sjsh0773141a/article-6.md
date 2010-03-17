@@ -4,11 +4,11 @@ Le jury est nommé par arrêté du directeur général du Centre national de ges
 
 Il comprend :
 
-― le directeur de l'hospitalisation et de l'organisation des soins ou son représentant ;
+― le           directeur général de l'offre de soins  ou son représentant ;
 
 ― un inspecteur général des affaires sociales ;
 
-― le directeur général de la santé ou le directeur de la sécurité sociale ou le      directeur général de la cohésion sociale  ou leur représentant ;
+― le directeur général de la santé ou le directeur de la sécurité sociale ou le directeur général de la cohésion sociale ou leur représentant ;
 
 ― le directeur de l'Ecole des hautes études en santé publique ou son représentant ;
 
@@ -20,6 +20,6 @@ Il comprend :
 
 Il pourra être fait appel, en cas de nécessité, à des fonctionnaires en retraite. Des correcteurs ou des examinateurs spécialisés, nommés par arrêté du directeur général du Centre national de gestion, peuvent être adjoints au jury. Ces correcteurs ou ces examinateurs peuvent délibérer avec le jury avec voix consultative.
 
-La présidence du jury est exercée par le directeur de l'hospitalisation et de l'organisation des soins ou, en cas d'absence ou d'empêchement de celui-ci, par un membre du jury désigné par le directeur général du Centre national de gestion.
+La présidence du jury est exercée par le           directeur général de l'offre de soins  ou, en cas d'absence ou d'empêchement de celui-ci, par un membre du jury désigné par le directeur général du Centre national de gestion.
 
 Le secrétariat du jury est assuré par le centre national de gestion.

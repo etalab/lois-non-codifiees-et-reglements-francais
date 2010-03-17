@@ -2,7 +2,7 @@
 
 Le comité de la démographie médicale mentionné au deuxième alinéa de l'article L. 631-1 du code de l'éducation comprend, outre son président :
 
-a) Au titre des représentants de l'Etat : le directeur de l'enseignement supérieur, le directeur général de la santé, le directeur de la sécurité sociale, le directeur de l'hospitalisation et de l'organisation des soins, le directeur de la recherche, des études, de l'évaluation et des statistiques, le directeur de la prévision et de l'analyse économique et le directeur du budget ou leurs représentants ;
+a) Au titre des représentants de l'Etat : le directeur de l'enseignement supérieur, le directeur général de la santé, le directeur de la sécurité sociale, le directeur général de l'offre de soins, le directeur de la recherche, des études, de l'évaluation et des statistiques, le directeur de la prévision et de l'analyse économique et le directeur du budget ou leurs représentants ;
 
 b) Au titre des représentants des régimes d'assurance maladie : un représentant de la Caisse nationale de l'assurance maladie des travailleurs salariés désigné par son conseil en son sein, un représentant de la Caisse nationale d'assurance maladie et maternité des travailleurs non salariés et un représentant de la Caisse centrale de mutualité sociale agricole, désignés respectivement par leur conseil d'administration en leur sein, et un représentant du collège des directeurs de l'Union nationale des caisses d'assurance maladie mentionné à l'article L. 182-2-2 du code de la sécurité sociale qu'il désigne en son sein ;
 
@@ -12,11 +12,11 @@ d) Au titre des représentants des unions régionales des médecins libéraux : 
 
 e) Dix personnalités qualifiées, dont :
 
-- un directeur d'unité de formation et de recherche médicale ;
+-un directeur d'unité de formation et de recherche médicale ;
 
-- un directeur d'unité de formation et de recherche d'odontologie ;
+-un directeur d'unité de formation et de recherche d'odontologie ;
 
-- un directeur d'unité de formation et de recherche de pharmacie.
+-un directeur d'unité de formation et de recherche de pharmacie.
 
 Les membres du comité de la démographie médicale autres que les personnes énumérées au a sont nommés par les ministres chargés de la santé, de la sécurité sociale et de l'éducation, pour une durée de trois ans. Chacun d'eux a un suppléant désigné et nommé dans les mêmes conditions.
 

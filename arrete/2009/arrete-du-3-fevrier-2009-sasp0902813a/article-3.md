@@ -1,6 +1,6 @@
 # Article 3
 
-Outre des représentants de la direction générale de la santé, de la direction de l'hospitalisation et de l'organisation des soins et de la direction de la sécurité sociale, sont nommés membres du groupe d'appui technique :
+Outre des représentants de la direction générale de la santé, de la           direction générale de l'offre de soins et de la direction de la sécurité sociale, sont nommés membres du groupe d'appui technique :
 
 ― un représentant du ministère de la justice (direction des affaires criminelles et des grâces) ;
 

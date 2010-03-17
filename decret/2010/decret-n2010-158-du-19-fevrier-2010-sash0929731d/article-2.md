@@ -6,7 +6,7 @@ L'Observatoire national de la fin de vie est doté d'un comité de pilotage qui 
 
 2° Le directeur général de la santé ou son représentant ;
 
-3° Le directeur de l'hospitalisation et de l'organisation des soins ou son représentant ;
+3° Le           directeur général de l'offre de soins  ou son représentant ;
 
 4° Le directeur général de l'action sociale ou son représentant ;
 

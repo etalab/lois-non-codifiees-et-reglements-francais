@@ -4,9 +4,9 @@ Le Centre national de gestion est administré par un conseil d'administration qu
 
 1° Dix membres représentant l'Etat :
 
-a) Le directeur de l'hospitalisation et de l'organisation des soins ou son représentant ;
+a) Le           directeur général de l'offre de soins  ou son représentant ;
 
-b) Le      directeur général de la cohésion sociale  ou son représentant ;
+b) Le directeur général de la cohésion sociale ou son représentant ;
 
 c) Le directeur général de la santé ou son représentant ;
 
@@ -14,7 +14,7 @@ d) Le directeur du budget au ministère chargé du budget ou son représentant ;
 
 e) Un représentant de la Haute Autorité de santé ;
 
-f) Deux représentants de la direction de l'hospitalisation et de l'organisation des soins ;
+f) Deux représentants de la direction générale de l'offre de soins ;
 
 g) Un directeur d'agence régionale de l'hospitalisation ;
 

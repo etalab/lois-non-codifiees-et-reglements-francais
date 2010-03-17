@@ -4,7 +4,7 @@ I.-Le ministre de la santé et des sports a autorité sur :
 
 -la direction générale de la santé ;
 
--la direction de l'hospitalisation et de l'organisation des soins ;
+-la           direction générale de l'offre de soins ;
 
 -la direction des sports ;
 
@@ -28,4 +28,4 @@ IV.-Conjointement avec le ministre du travail, des relations sociales et de la s
 
 V.-Conjointement avec le haut-commissaire à la jeunesse agissant par délégation du Premier ministre, il a autorité sur la direction des ressources humaines, de l'administration et de la coordination générale et l'inspection générale de la jeunesse et des sports ainsi que sur le haut fonctionnaire de défense, le bureau du cabinet et le bureau de la communication mentionnés au dernier alinéa de l'article 1er du décret du 30 décembre 2005 susvisé.
 
-VI.-Il dispose de la mission interministérielle de lutte contre la drogue et la toxicomanie et, en tant que de besoin, de la      direction générale de la cohésion sociale , du secrétariat général mentionné à l'article 1er du décret du 17 mai 2006 susvisé et de la direction de l'administration générale et de la modernisation des services.
+VI.-Il dispose de la mission interministérielle de lutte contre la drogue et la toxicomanie et, en tant que de besoin, de la direction générale de la cohésion sociale, du secrétariat général mentionné à l'article 1er du décret du 17 mai 2006 susvisé et de la direction de l'administration générale et de la modernisation des services.

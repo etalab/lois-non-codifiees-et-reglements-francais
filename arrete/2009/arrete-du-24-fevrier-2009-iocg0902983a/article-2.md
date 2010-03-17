@@ -4,7 +4,7 @@
 
 ― le secrétaire général du ministère de l'intérieur ou son représentant ;
 
-― le directeur de l'hospitalisation et de l'organisation des soins ou son représentant.
+― le           directeur général de l'offre de soins  ou son représentant.
 
 2° Les membres du comité de pilotage représentant les services utilisateurs sont :
 

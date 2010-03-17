@@ -10,4 +10,4 @@ Le Conseil national de la chirurgie concourt notamment à :
 
 4° Proposer des modes d'exercice innovants pour la chirurgie et les équipes des blocs opératoires et participer à leur évaluation ;
 
-5° Participer, en appui des conseillers généraux des établissements de santé et sous l'autorité du directeur de l'hospitalisation et de l'organisation des soins, à des missions d'expertise technique sur des opérations de recomposition des activités chirurgicales de coopération entre établissements de santé.
+5° Participer, en appui des conseillers généraux des établissements de santé et sous l'autorité du           directeur général de l'offre de soins , à des missions d'expertise technique sur des opérations de recomposition des activités chirurgicales de coopération entre établissements de santé.

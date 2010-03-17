@@ -6,7 +6,7 @@ Cette commission comprend les membres suivants :
 
 1° Le directeur général de la santé au ministère chargé de la santé ou son représentant ;
 
-2° Le directeur de l'hospitalisation et de l'organisation des soins au ministère chargé de la santé ou son représentant ;
+2° Le           directeur général de l'offre de soins  au ministère chargé de la santé ou son représentant ;
 
 3° Le directeur de l'enseignement supérieur au ministère chargé de l'enseignement supérieur ou son représentant ;
 

@@ -4,9 +4,9 @@ La commission statutaire nationale prévue à l'article 24 du décret n° 84-131
 
 Un président ou un président suppléant, conseillers d'Etat en activité ou honoraires, désignés par le ministre chargé de la santé, sur proposition du vice-président du Conseil d'Etat.
 
-I. - Six représentants de l'administration
+I.-Six représentants de l'administration
 
-a) Le directeur de l'hospitalisation et de l'organisation des soins ou son représentant ;
+a) Le           directeur général de l'offre de soins  ou son représentant ;
 
 b) Le directeur général de la santé ou son représentant ;
 
@@ -18,13 +18,13 @@ e) Un membre désigné par le ministre chargé de la santé parmi les médecins 
 
 f) Un membre désigné par le ministre chargé de la santé parmi les pharmaciens inspecteurs régionaux de la santé.
 
-II. - Des représentants des praticiens hospitaliers
+II.-Des représentants des praticiens hospitaliers
 
 régis par le décret n° 84-131 du 24 février 1984 susvisé
 
 Pour chacune des sections visées à l'article 2 ci-dessous, six représentants élus par le collège des praticiens hospitaliers.
 
-III. - Des représentants des enseignants et hospitaliers titulaires visés au 1° de l'article 1er et à l'article 73 du décret n° 84-135 du 24 février 1984 susvisé
+III.-Des représentants des enseignants et hospitaliers titulaires visés au 1° de l'article 1er et à l'article 73 du décret n° 84-135 du 24 février 1984 susvisé
 
 Dans les cas prévus au 2°, deuxième alinéa, de l'article 24 du décret n° 84-131 du 24 février 1984 modifié, pour chacune des sections visées à l'article 2 ci-dessous, à l'exception de la discipline pharmacie, six représentants élus par le collège des personnels enseignants et hospitaliers titulaires.
 

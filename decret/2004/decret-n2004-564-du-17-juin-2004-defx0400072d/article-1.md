@@ -4,15 +4,15 @@ Pour l'application de l'article L. 530 du code des pensions militaires d'invalid
 
 1° Cinq représentants de l'Etat :
 
-- le gouverneur des Invalides ou son représentant ;
+-le gouverneur des Invalides ou son représentant ;
 
-- le secrétaire général pour l'administration au ministère de la défense ou son représentant ;
+-le secrétaire général pour l'administration au ministère de la défense ou son représentant ;
 
-- le directeur central du service de santé des armées ou son représentant ;
+-le directeur central du service de santé des armées ou son représentant ;
 
-- le directeur de l'hospitalisation et de l'organisation des soins au ministère de la santé et de la protection sociale ou son représentant ;
+-le           directeur général de l'offre de soins  au ministère de la santé et de la protection sociale ou son représentant ;
 
-- le directeur du budget au ministère de l'économie, des finances et de l'industrie ou son représentant ;
+-le directeur du budget au ministère de l'économie, des finances et de l'industrie ou son représentant ;
 
 2° Cinq personnalités qualifiées représentant le monde combattant nommées pour trois ans par décret en conseil des ministres, parmi lesquelles trois sont proposées par des associations représentatives de grands invalides pensionnés au titre du code des pensions militaires d'invalidité et des victimes de la guerre et deux par le ministre chargé des anciens combattants ;
 

@@ -2,9 +2,9 @@
 
 La formation d'adaptation à l'emploi est validée par un jury, présidé par le directeur général du Centre national de gestion des praticiens hospitaliers et des personnels de direction de la fonction publique hospitalière ou par son représentant, et composé de :
 
-a) Un représentant de la direction de l'hospitalisation et de l'organisation des soins ;
+a) Un représentant de la           direction générale de l'offre de soins ;
 
-b) Un représentant de la      direction générale de la cohésion sociale  ;
+b) Un représentant de la direction générale de la cohésion sociale ;
 
 c) Deux représentants du corps des directeurs d'établissements sanitaires, sociaux et médico-sociaux ;
 

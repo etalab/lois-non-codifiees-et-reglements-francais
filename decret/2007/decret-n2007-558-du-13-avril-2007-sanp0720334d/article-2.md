@@ -6,11 +6,11 @@ Ce comité comprend, outre son président et son vice-président :
 
 Le directeur général de la santé ou son représentant.
 
-Le directeur de l'hospitalisation et de l'organisation des soins ou son représentant.
+Le           directeur général de l'offre de soins  ou son représentant.
 
 Le directeur de la sécurité sociale ou son représentant.
 
-Le      directeur général de la cohésion sociale  ou son représentant.
+Le directeur général de la cohésion sociale ou son représentant.
 
 Le ministre chargé de l'agriculture ou son représentant.
 

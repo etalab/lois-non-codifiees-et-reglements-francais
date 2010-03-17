@@ -143,35 +143,35 @@ Secteur santé / solidarité
 <tr>
 <td align="center">direction générale de la cohésion sociale <br/>
 </td>
-<td align="center">Chef du bureau de la protection des personnes <br/>
+<td align="center">Chef du bureau de la protection des personnes<br/>
 </td>
 </tr>
 <tr>
-<td align="center">Direction de l'hospitalisation et de l'organisation des soins <br/>
+<td align="center">           direction générale de l'offre de soins <br/>
 </td>
-<td align="center">Chef du bureau de la gestion des crédits d'Etat <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Direction de l'hospitalisation et de l'organisation des soins <br/>
-</td>
-<td align="center">Chargé de mission auprès du sous-directeur des affaires financières <br/>
+<td align="center">Chef du bureau de la gestion des crédits d'Etat<br/>
 </td>
 </tr>
 <tr>
-<td align="center">Direction de l'hospitalisation et de l'organisation des soins <br/>
+<td align="center">           direction générale de l'offre de soins <br/>
 </td>
-<td align="center">Chef du bureau de la gestion financière et comptable des établissements de santé <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Direction de l'hospitalisation et de l'organisation des soins <br/>
-</td>
-<td align="center">Chargé de mission <br/>
+<td align="center">Chargé de mission auprès du sous-directeur des affaires financières<br/>
 </td>
 </tr>
 <tr>
-<td align="center">Direction de l'hospitalisation et de l'organisation des soins <br/>
+<td align="center">           direction générale de l'offre de soins <br/>
+</td>
+<td align="center">Chef du bureau de la gestion financière et comptable des établissements de santé<br/>
+</td>
+</tr>
+<tr>
+<td align="center">           direction générale de l'offre de soins <br/>
+</td>
+<td align="center">Chargé de mission<br/>
+</td>
+</tr>
+<tr>
+<td align="center">           direction générale de l'offre de soins <br/>
 </td>
 <td align="center">Chef de la cellule gestion <br/>
 </td>
@@ -321,13 +321,13 @@ Secteurs communs
 <tr>
 <th>AFFECTATIONS <br/>
 </th>
-<th>INTITULÉ DES POSTES<br/>
+<th>INTITULÉ DES POSTES <br/>
 </th>
 </tr>
 <tr>
-<td align="center">         direction générale de la cohésion sociale <br/>
+<td align="center">direction générale de la cohésion sociale <br/>
 </td>
-<td align="center">Adjoint au chef de         direction générale de la cohésion sociale <br/>
+<td align="center">Adjoint au chef de direction générale de la cohésion sociale <br/>
 </td>
 </tr>
 <tr>

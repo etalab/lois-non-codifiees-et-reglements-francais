@@ -4,9 +4,9 @@ Cette commission est composée comme suit :
 
 Membres de droit :
 
--le        directeur de la sécurité civile ou son représentant, président ;
+-le directeur de la sécurité civile ou son représentant, président ;
 
--le directeur de l'hospitalisation et de l'organisation des soins ou son représentant ;
+-le           directeur général de l'offre de soins  ou son représentant ;
 
 -le directeur de l'Ecole nationale supérieure des officiers de sapeurs-pompiers (ENSOSP) ou son représentant ;
 

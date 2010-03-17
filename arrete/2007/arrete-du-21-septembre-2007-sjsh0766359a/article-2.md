@@ -12,4 +12,4 @@ Lorsque l'organisation du concours de recrutement est confiée au Centre nationa
 
 -un représentant du ministre chargé des affaires sociales.
 
-Le secrétariat de la commission est assuré par les services de la direction de l'hospitalisation et de l'organisation des soins au ministère de la santé.
+Le secrétariat de la commission est assuré par les services de la           direction générale de l'offre de soins au ministère de la santé.

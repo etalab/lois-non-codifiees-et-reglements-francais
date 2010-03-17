@@ -4,9 +4,9 @@ Le jury de l'examen professionnel comprend neuf membres répartis en trois coll�
 
 Personnalités qualifiées
 
-Président : le        directeur de la sécurité civile ou, en cas d'empêchement, son représentant.
+Président : le directeur de la sécurité civile ou, en cas d'empêchement, son représentant.
 
-Vice-président : un représentant de la direction de l'hospitalisation et de l'organisation des soins désigné par le ministre chargé de la santé.
+Vice-président : un représentant de la           direction générale de l'offre de soins désigné par le ministre chargé de la santé.
 
 Un représentant du Centre national de la fonction publique territoriale proposé par le président de ce centre.
 
@@ -18,7 +18,7 @@ Un élu non membre du conseil d'administration d'un service départemental d'inc
 
 Fonctionnaires territoriaux
 
-Un médecin de sapeurs-pompiers professionnels exerçant l'emploi de médecin-chef désigné par le        directeur de la sécurité civile.
+Un médecin de sapeurs-pompiers professionnels exerçant l'emploi de médecin-chef désigné par le directeur de la sécurité civile.
 
 Deux représentants du personnel, membres de la commission administrative paritaire compétente à l'égard des sapeurs-pompiers professionnels dont les emplois sont classés dans la catégorie A, désignés par tirage au sort.
 

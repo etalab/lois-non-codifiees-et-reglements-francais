@@ -6,7 +6,7 @@ Le conseil d'orientation est composé de dix personnalités qualifiées nommées
 
 a) Le directeur général de la santé ou son représentant ;
 
-b) Le directeur de l'hospitalisation et de l'organisation des soins ou son représentant ;
+b) Le           directeur général de l'offre de soins  ou son représentant ;
 
 c) Le directeur de la sécurité sociale ou son représentant ;
 

@@ -6,7 +6,7 @@ Le comité est composé des membres suivants :
 
 ― le directeur général de la santé ;
 
-― le directeur de l'hospitalisation et de l'organisation des soins ;
+― le           directeur général de l'offre de soins  ;
 
 ― le président de l'Autorité de sûreté nucléaire ;
 

@@ -64,7 +64,7 @@ Section permanente du Conseil supérieur de la mutualité, articles L. 511-3, R.
 
 Comités départementaux et régionaux de coordination de la mutualité, articles R. 512-1, R. 512-4 et R. 513-19 du code de la mutualité.
 
-Direction de l'hospitalisation et de l'organisation des soins.
+Direction            générale de l'offre de soins.
 
 Comité national de l'organisation sanitaire et sociale, article L. 712-6 du code de la santé publique et articles R. 712-14 à R. 712-21 du code de la santé publique.
 
@@ -76,19 +76,19 @@ Commissions interrégionales de la tarification sanitaire et sociale, articles L
 
 Conseil supérieur des hôpitaux institué par le décret n° 58-1202 du 11 décembre 1958.
 
-Commission des relations avec les usagers et de la qualité de la prise en charge instituée dans chaque établissement de santé public ou privé ainsi que les syndicats interhospitaliers et les groupements de coopération sanitaire autorisés à assurer les missions d'un établissement de santé (art. R. 1112-81 du code de la santé publique).
+Commission des relations avec les usagers et de la qualité de la prise en charge instituée dans chaque établissement de santé public ou privé ainsi que les syndicats interhospitaliers et les groupements de coopération sanitaire autorisés à assurer les missions d'un établissement de santé (art.R. 1112-81 du code de la santé publique).
 
-Comités de liaison en alimentation et nutrition des établissements de santé (art. L. 1114-3 du code de la santé publique).
+Comités de liaison en alimentation et nutrition des établissements de santé (art.L. 1114-3 du code de la santé publique).
 
-Comités de lutte contre la douleur des établissements de santé (art. L. 1114-3 du code de la santé publique).
+Comités de lutte contre la douleur des établissements de santé (art.L. 1114-3 du code de la santé publique).
 
-Conseils d'administration des établissements publics de santé (art. L. 6143-5 du code de la santé publique).
+Conseils d'administration des établissements publics de santé (art.L. 6143-5 du code de la santé publique).
 
-Sous-commissions spécialisées de la commission médicale d'établissement au sein des établissements publics de santé (art. L. 6144-1 du code de la santé publique).
+Sous-commissions spécialisées de la commission médicale d'établissement au sein des établissements publics de santé (art.L. 6144-1 du code de la santé publique).
 
-Comités de lutte contre les infections nosocomiales des établissements de santé (art. R. 6111-6 et R. 6111-10 du code de la santé publique).
+Comités de lutte contre les infections nosocomiales des établissements de santé (art.R. 6111-6 et R. 6111-10 du code de la santé publique).
 
-Commissions de surveillance au sein de l'Assistance publique-hôpitaux de Paris (art. R. 716-3-22 du code de la santé publique).
+Commissions de surveillance au sein de l'Assistance publique-hôpitaux de Paris (art.R. 716-3-22 du code de la santé publique).
 
 Direction générale de la santé
 
@@ -122,9 +122,9 @@ Commission interministérielle d'harmonisation des mesures de radioactivité de 
 
 Commission nationale de médecine et de biologie de la reproduction, deux sections :
 
-- procréation médicalement assistée (P.M.A.) ;
+-procréation médicalement assistée (P.M.A.) ;
 
-- diagnostic prénatal (D.P.N.),
+-diagnostic prénatal (D.P.N.),
 
 instituée par le décret du 8 avril 1988.
 
@@ -144,31 +144,31 @@ Commission des maladies mentales, arrêté du 8 septembre 1987.
 
 Conseil départemental de l'environnement et des risques sanitaires et technologiques mentionné à l'article L. 776 du code de la santé publique.
 
-Commissions régionales ou interrégionales de conciliation et d'indemnisation des accidents médicaux, des affections iatrogènes et des infections nosocomiales (art. R. 1142-5 du code de la santé publique).
+Commissions régionales ou interrégionales de conciliation et d'indemnisation des accidents médicaux, des affections iatrogènes et des infections nosocomiales (art.R. 1142-5 du code de la santé publique).
 
-Commission nationale des accidents médicaux (art. R. 1142-24 du code de la santé publique).
+Commission nationale des accidents médicaux (art.R. 1142-24 du code de la santé publique).
 
-Conseil d'administration de l'Office national d'indemnisation des accidents médicaux, des affections iatrogènes et des infections nosocomiales (art. R. 1142-43 du code de la santé publique).
+Conseil d'administration de l'Office national d'indemnisation des accidents médicaux, des affections iatrogènes et des infections nosocomiales (art.R. 1142-43 du code de la santé publique).
 
-Conseil d'administration de l'Etablissement français du sang (art. R. 1222-4 du code de la santé publique).
+Conseil d'administration de l'Etablissement français du sang (art.R. 1222-4 du code de la santé publique).
 
-Conseils d'établissement des établissements de transfusion sanguine (art. R. 1223-1 du code de la santé publique).
+Conseils d'établissement des établissements de transfusion sanguine (art.R. 1223-1 du code de la santé publique).
 
-Conférence nationale de santé (art. L. 1411-3 du code de la santé publique).
+Conférence nationale de santé (art.L. 1411-3 du code de la santé publique).
 
-Conférences régionales de santé (art. L. 1411-13 du code de la santé publique).
+Conférences régionales de santé (art.L. 1411-13 du code de la santé publique).
 
-Conseil d'administration de l'Institut national de prévention et d'éducation pour la santé (art. R. 1417-8 du code de la santé publique).
+Conseil d'administration de l'Institut national de prévention et d'éducation pour la santé (art.R. 1417-8 du code de la santé publique).
 
-Conseil d'orientation de l'Agence de la biomédecine (art. R. 1418-19 du code de la santé publique).
+Conseil d'orientation de l'Agence de la biomédecine (art.R. 1418-19 du code de la santé publique).
 
-Commissions régionales de concertation en santé mentale (art. R. 3221-8 du code de la santé publique).
+Commissions régionales de concertation en santé mentale (art.R. 3221-8 du code de la santé publique).
 
-Commissions départementales des hospitalisations psychiatriques (art. L. 3223-2 du code de la santé publique).
+Commissions départementales des hospitalisations psychiatriques (art.L. 3223-2 du code de la santé publique).
 
-Commission nationale de pharmacovigilance (art. R. 5121-160 du code de la santé publique).
+Commission nationale de pharmacovigilance (art.R. 5121-160 du code de la santé publique).
 
-Commission nationale des dispositifs médicaux de diagnostic in vitro (art. R. 5222-6 du code de la santé publique).
+Commission nationale des dispositifs médicaux de diagnostic in vitro (art.R. 5222-6 du code de la santé publique).
 
 Comité national technique de l'échographie de dépistage anténatal (arrêté du 30 avril 2002).
 

@@ -1,6 +1,6 @@
 # Article 11
 
-Les bulletins de vote ainsi que les enveloppes sont transmis aux électeurs par les services de la direction de l'hospitalisation et de l'organisation des soins au moins huit jours avant la date fixée pour le scrutin.
+Les bulletins de vote ainsi que les enveloppes sont transmis aux électeurs par les services de la           direction générale de l'offre de soins au moins huit jours avant la date fixée pour le scrutin.
 
 L'électeur ne peut ni rayer de noms sur les listes, ni procéder à un panachage entre les listes.
 

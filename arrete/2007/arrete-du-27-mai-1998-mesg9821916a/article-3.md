@@ -2,7 +2,7 @@
 
 Peuvent seuls, être destinataires, dans la limite de leurs attributions et de leurs domaines de compétences et compte tenu de l'article 2 :
 
-1. Le directeur départemental des affaires sanitaires et sociales et le personnel de ses services, le directeur régional des affaires sanitaires et sociales et le personnel de ses services, le directeur général de la santé et le personnel de ses services, le directeur de l'hospitalisation et de l'organisation des soins et le personnel de ses services, le      directeur général de la cohésion sociale  et le personnel de ses services, de toutes les informations contenues dans le fichier. Ces personnels sont tenus au secret professionnel ;
+1. Le directeur départemental des affaires sanitaires et sociales et le personnel de ses services, le directeur régional des affaires sanitaires et sociales et le personnel de ses services, le directeur général de la santé et le personnel de ses services, le           directeur général de l'offre de soins  et le personnel de ses services, le directeur général de la cohésion sociale et le personnel de ses services, de toutes les informations contenues dans le fichier. Ces personnels sont tenus au secret professionnel ;
 
 2. Le public et tout demandeur, des informations publiées au recueil des actes administratifs (nom d'exercice, prénom, adresse professionnelle de l'activité principale, date d'inscription au tableau départemental de l'ordre ou à la direction départementale des affaires sanitaires et sociales, date et lieu d'obtention du diplôme, qualifications ordinales ou spécialisations et nature). Ces informations sont transmises au 1er janvier à toutes les communes du département et pour chaque profession relevant d'un ordre à leur représentation locale ;
 

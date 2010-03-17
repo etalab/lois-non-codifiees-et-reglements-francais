@@ -4,9 +4,9 @@ Pour l'examen des demandes intéressant la fonction publique hospitalière, la c
 
 Les membres mentionnés aux 3°, 5° et 6° sont respectivement :
 
-a) Au 3° : le directeur de l'hospitalisation et de l'organisation des soins ou son représentant ;
+a) Au 3° : le           directeur général de l'offre de soins  ou son représentant ;
 
-b) Au 5° : le      directeur général de la cohésion sociale  ou son représentant ;
+b) Au 5° : le directeur général de la cohésion sociale ou son représentant ;
 
 c) Au 6° : deux personnalités qualifiées dans le domaine sanitaire et social et nommées par arrêté du ministre chargé de la santé.
 

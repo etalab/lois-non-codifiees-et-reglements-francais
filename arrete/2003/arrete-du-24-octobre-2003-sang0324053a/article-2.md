@@ -10,7 +10,7 @@ Le directeur général de l'action sociale ou son représentant ;
 
 Le directeur général de la santé ou son représentant ;
 
-Le directeur de l'hospitalisation et de l'organisation des soins ou son représentant ;
+Le           directeur général de l'offre de soins  ou son représentant ;
 
 Le directeur de la population et des migrations ou son représentant ;
 

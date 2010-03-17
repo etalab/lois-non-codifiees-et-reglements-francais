@@ -2,7 +2,7 @@
 
 Le jury de l'examen de fin de formation comprend :
 
-― le directeur de l'hospitalisation et de l'organisation des soins ou son représentant ;
+― le           directeur général de l'offre de soins  ou son représentant ;
 
 ― le directeur général du Centre national de gestion des praticiens hospitaliers et des personnels de direction de la fonction publique hospitalière ou son représentant ;
 
@@ -18,6 +18,6 @@ Le jury de l'examen de fin de formation comprend :
 
 Les membres du jury sont nommés par arrêté du directeur général du centre national de gestion.
 
-Le jury est présidé par le directeur de l'hospitalisation et de l'organisation des soins. En cas d'absence ou d'empêchement, la présidence est assurée par le directeur général du centre national de gestion précité.
+Le jury est présidé par le           directeur général de l'offre de soins . En cas d'absence ou d'empêchement, la présidence est assurée par le directeur général du centre national de gestion précité.
 
 Le secrétariat est assuré par l'Ecole des hautes études en santé publique.

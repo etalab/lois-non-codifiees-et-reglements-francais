@@ -4,7 +4,7 @@ La Commission nationale des formations aux soins d'urgence et à la gestion de c
 
 1° Du directeur général de la santé ou son représentant, président ;
 
-2° Du directeur de l'hospitalisation et de l'organisation des soins ou son représentant ;
+2° Du           directeur général de l'offre de soins  ou son représentant ;
 
 3° Du chef du département des urgences sanitaires ou son représentant ;
 

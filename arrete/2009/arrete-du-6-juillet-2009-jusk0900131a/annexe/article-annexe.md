@@ -170,7 +170,7 @@ Article 3
 
 Le contrôle du centre
 
-Le centre est placé sous la surveillance du président de la juridiction nationale de la rétention de sûreté, du directeur de l'administration pénitentiaire du ministère de la justice et du directeur de l'hospitalisation et de l'organisation des soins du ministère chargé de la santé et du président de la juridiction régionale de la rétention de sûreté de Paris.
+Le centre est placé sous la surveillance du président de la juridiction nationale de la rétention de sûreté, du directeur de l'administration pénitentiaire du ministère de la justice et du           directeur général de l'offre de soins  du ministère chargé de la santé et du président de la juridiction régionale de la rétention de sûreté de Paris.
 
 Le centre peut être visité par le contrôleur général des lieux de privation de liberté.
 
