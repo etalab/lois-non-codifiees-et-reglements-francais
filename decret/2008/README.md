@@ -8,7 +8,6 @@
 - [Décret n°2005-926 du 2 août 2005 (SANH0522478D)](decret-n2005-926-du-2-aout-2005-sanh0522478d)
 - [Décret n°2005-927 du 2 août 2005 (SANH0522481D)](decret-n2005-927-du-2-aout-2005-sanh0522481d)
 - [Décret n°2005-930 du 2 août 2005 (SANH0522487D)](decret-n2005-930-du-2-aout-2005-sanh0522487d)
-- [Décret n°2005-931 du 2 août 2005 (SANH0522489D)](decret-n2005-931-du-2-aout-2005-sanh0522489d)
 - [Décret n°2005-932 du 2 août 2005 (SANH0522491D)](decret-n2005-932-du-2-aout-2005-sanh0522491d)
 - [Décret n°2007-1168 du 2 août 2007 (DEVX0757181D)](decret-n2007-1168-du-2-aout-2007-devx0757181d)
 - [Décret n°2007-1563 du 2 novembre 2007 (MTSS0765199D)](decret-n2007-1563-du-2-novembre-2007-mtss0765199d)
