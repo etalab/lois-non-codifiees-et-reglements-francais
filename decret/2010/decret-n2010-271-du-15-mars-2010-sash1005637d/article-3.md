@@ -1,0 +1,3 @@
+# Article 3
+
+Il est créé un comité stratégique présidé par le directeur général de l'offre de soins. Ce comité assiste le directeur général dans la définition des orientations stratégiques de l'offre de soins et suit leur mise en œuvre. Il réunit les directeurs de l'Agence nationale d'appui à la performance des établissements de santé et médico-sociaux, de l'Agence technique de l'information sur l'hospitalisation, du Centre national de gestion, un directeur général d'agence régionale de santé et les membres de la direction générale désignés par le directeur général ainsi que, en tant que de besoin, le représentant de tout autre organisme concerné par l'offre de soins.
