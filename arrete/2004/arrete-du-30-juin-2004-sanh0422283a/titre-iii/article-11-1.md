@@ -1,6 +1,6 @@
 # Article 11-1
 
-Il est instauré dans chaque département, jusqu'au 1er octobre 2010, une commission de qualification de première instance en médecine générale, dont le secrétariat est assuré par le conseil départemental de l'ordre.
+Il est instauré dans chaque département,     jusqu'au 1er octobre 2012, une commission de qualification de première instance en médecine générale, dont le secrétariat est assuré par le conseil départemental de l'ordre.
 
 Cette commission, dont les membres sont nommés par arrêté du représentant de l'Etat dans le département sur proposition du conseil départemental, est composée de cinq membres titulaires choisis parmi les conseillers départementaux titulaires ou suppléants. Le président est élu parmi ses membres.
 

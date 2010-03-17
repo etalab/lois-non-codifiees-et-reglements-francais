@@ -368,8 +368,6 @@ CEGELEC SUD-EST, agence Var, avenue Aristide-Briand, 83200 Toulon, de 1989 à 20
 
 CFEM/CFEM Offshore (Compagnie française d'entreprises métalliques). Site de Fos, BP 10, 13771 Fos-sur-Mer. De 1966 à 1986.
 
-CFECM/Eiffel (Compagnie française Eiffel de construction métallique). Carrefour du Caban, 13771 Fos-sur-Mer. De 1990 à 1995.
-
 Chaix, 18, rue Gueymard, 13600 La Ciotat : de 1971 à 1982
 
 Chantier naval de Saint-Laurent-du-Var SA :
