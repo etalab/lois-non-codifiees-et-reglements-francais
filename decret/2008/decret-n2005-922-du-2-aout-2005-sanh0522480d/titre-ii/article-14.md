@@ -1,11 +1,7 @@
 # Article 14
 
-Pour ce qui concerne la nomination des directeurs généraux de centre hospitalier régional et des directeurs chefs d'établissements d'emplois fonctionnels, le ministre chargé de la santé transmet les candidatures à la commission des carrières, en proposant celles dont le profil lui paraît correspondre le mieux au poste offert, au regard des évaluations et de l'expérience acquise.
+En vue de la nomination des directeurs d'établissements mentionnés au 3° de l'article 1er, le directeur général du Centre national de gestion transmet les candidatures au comité de sélection dans les conditions prévues à l'article 4 du décret n° 2010-261 du 11 mars 2010, en proposant celles dont le profil lui paraît correspondre le mieux au poste à pourvoir.
 
-La commission des carrières sélectionne douze candidats au maximum, dont au plus trois noms de candidats inscrits sur la liste nationale d'aptitude. Les inscriptions des candidats issus de la liste nationale d'aptitude ne doivent toutefois conduire à une nomination que sous réserve de l'application des dispositions de l'article 7.
+A l'issue de la procédure de choix définie à l'article 5 du décret susmentionné, et pour chaque poste à pourvoir suivant cette procédure, la commission administrative paritaire nationale émet un avis sur les propositions du directeur général de l'agence régionale de santé et sur celles du directeur général du Centre national de gestion.
 
-Le ministre chargé de la santé transmet pour avis les candidatures retenues par la commission des carrières au président du conseil d'administration de l'établissement qui reçoit les candidats.
-
-La commission administrative paritaire nationale émet un avis, après avoir pris connaissance des avis exprimés par le président du conseil d'administration et le directeur de l'agence régionale de l'hospitalisation.
-
-Le ministre chargé de la santé procède à la nomination dans l'emploi, conformément aux dispositions de l'article 2.
+Le directeur général du Centre national de gestion procède à la nomination dans l'emploi, conformément aux dispositions de l'article 2.

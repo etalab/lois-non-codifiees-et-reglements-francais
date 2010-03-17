@@ -1,9 +1,13 @@
 # Article 12
 
-La commission des carrières mentionnée à l'article 15 du décret du 2 août 2005 susvisé :
+Le directeur général du Centre national de gestion examine les candidatures aux emplois fonctionnels mentionnés à l'article 1er et en vérifie la recevabilité au regard des conditions mentionnées à l'article 2.
 
-1° Délivre les agréments, lors de leur candidature, aux personnels de direction mentionnés au 1° de l'article 2, dans les conditions fixées à l'article 13 ;
+S'il s'agit d'une première candidature, il examine le parcours professionnel et procède à un entretien individuel avec le candidat.
 
-2° Procède à la sélection des candidats aux emplois fonctionnels énumérés à l'article 1er du présent décret, au regard du parcours professionnel et des évaluations, dans les conditions fixées aux articles 14 et 15.
+Pour les candidats issus du corps des personnels de direction régis par le décret du 2 août 2005 susvisé, le directeur général du Centre national de gestion présente au comité de sélection prévu par le décret n° 2010-261 du 11 mars 2010 les demandes d'agrément par catégorie d'emplois mentionnés à l'article 1er.
 
-Les représentants des personnels de direction à la commission des carrières sont issus du grade de la hors classe pour l'application des dispositions du présent article.
+Le comité de sélection remet un avis sur chacune de ces demandes d'agrément au directeur général du Centre national de gestion qui notifie à chaque candidat l'agrément.
+
+L'agrément des candidatures est valable pour une durée de cinq ans, renouvelable à l'initiative des bénéficiaires. Les candidats dont l'agrément a été rejeté sont informés individuellement, par le directeur général du Centre national de gestion, des motifs de ce rejet et des conditions nécessaires pour pouvoir présenter à nouveau leur candidature.
+
+Pour les candidats qui ne sont pas issus du corps mentionné au troisième alinéa du présent article, le directeur général du Centre national de gestion présente au comité de sélection susmentionné les candidatures recevables à l'inscription sur une liste nationale d'aptitude. Le comité de sélection donne un avis sur ces candidatures au directeur général du Centre national de gestion, qui arrête la liste d'aptitude nationale définitive.L'inscription sur la liste nationale d'aptitude est valable pour une durée de cinq ans renouvelable à l'initiative des bénéficiaires.

@@ -2,8 +2,8 @@
 
 Pour ce qui concerne la nomination aux autres emplois fonctionnels, les candidatures sont adressées au directeur général du centre national de gestion et au directeur de l'établissement.
 
-Le directeur général du centre national de gestion transmet à la commission des carrières les candidatures reçues en indiquant celles dont le profil lui paraît correspondre le mieux au poste au regard des évaluations et de l'expérience acquise.
+Le directeur général du Centre national de gestion transmet au comité de sélection dans les conditions prévues à l'article 6 du décret n° 2010-261 du 11 mars 2010 les candidatures reçues en indiquant celles dont le profil lui paraît correspondre le mieux au poste à pourvoir.
 
-La commission des carrières sélectionne les candidats. Le directeur général du centre national de gestion transmet la liste des candidatures sélectionnées au directeur de l'établissement. Ce dernier, après avoir reçu les candidats, fait part de son choix au directeur général du centre national de gestion.
+Le comité de sélection propose une liste de candidats au directeur général du Centre national de gestion. Ce dernier arrête la liste définitive de candidats et la transmet au directeur de l'établissement. Celui-ci, après avoir reçu les candidats, fait part de ses propositions au directeur général du Centre national de gestion ;
 
-La commission administrative paritaire nationale émet un avis sur le choix du candidat effectué par le directeur. Le directeur général du centre national de gestion procède ensuite à la nomination dans l'emploi.
+La commission administrative paritaire nationale émet un avis sur les propositions du directeur. Le directeur général du centre national de gestion procède ensuite à la nomination dans l'emploi.
