@@ -34,6 +34,6 @@ IV.-Conjointement avec le ministre d'Etat, ministre de l'écologie, de l'énergi
 
 V.-Conjointement avec le ministre de la santé et des sports et le ministre du budget, des comptes publics et de la fonction publique, il a autorité sur la direction de la sécurité sociale et la direction de la recherche, des études, de l'évaluation et des statistiques.
 
-VI.-Il dispose de la délégation générale à l'emploi et à la formation professionnelle et, en tant que de besoin, de la direction de l'hospitalisation et de l'organisation des soins.
+VI.-Il dispose de la délégation générale à l'emploi et à la formation professionnelle et, en tant que de besoin, de la           direction générale de l'offre de soins.
 
 VII. ― Pour l'exercice de ses attributions relatives à la ville, il dispose, en tant que de besoin, des directions et services des ministères qui concourent à la préparation et à la mise en œuvre de la politique de la ville.
