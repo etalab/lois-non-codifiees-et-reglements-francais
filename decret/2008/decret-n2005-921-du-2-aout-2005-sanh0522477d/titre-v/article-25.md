@@ -18,4 +18,6 @@ Les personnels de direction relevant du présent statut peuvent, avec leur accor
 
 8° Des groupements d'intérêt public.
 
+9° Des institutions européennes.
+
 Les conditions, la durée et les règles particulières applicables à ces personnels mis à disposition sont celles fixées par le titre Ier et le titre V du décret du 13 octobre 1988 susvisé.

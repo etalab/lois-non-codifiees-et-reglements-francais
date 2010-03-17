@@ -2,8 +2,8 @@
 
 La commission administrative paritaire nationale émet un avis sur les nominations aux emplois de directeur, de secrétaire général de syndicat interhospitalier et de directeur adjoint.
 
-Elle prend au préalable connaissance, pour une nomination à un emploi de directeur ou de secrétaire général de syndicat interhospitalier, des observations formulées par la commission des carrières et de l'avis émis par le président de l'assemblée délibérante et le directeur de l'agence régionale de l'hospitalisation et, pour les nominations aux emplois de directeur adjoint, des avis émis par le directeur de l'établissement ou le secrétaire général du syndicat interhospitalier concerné.
+Elle prend au préalable connaissance, pour une nomination à un emploi de directeur ou de secrétaire général de syndicat interhospitalier, des observations formulées, d'une part, par le comité de sélection et, d'autre part, par le directeur général du Centre national de gestion et des propositions émises par le directeur général de l'agence régionale de santé et, pour les nominations aux emplois de directeur adjoint, des propositions émises par le directeur de l'établissement ou le secrétaire général du syndicat interhospitalier concerné.
 
-Pour les emplois de chef d'établissement, le ministre chargé de la santé transmet pour avis la liste arrêtée par la commission des carrières au président de l'assemblée délibérante qui reçoit les candidats ainsi qu'au directeur de l'agence régionale de l'hospitalisation. Pour les autres emplois de direction, cette transmission est assurée par le directeur général du centre national de gestion.
+Pour les emplois de directeur adjoint, le directeur général du Centre national de gestion transmet, pour avis, l'ensemble des candidatures reçues au chef d'établissement concerné, qui lui fait connaître ensuite ses propositions.
 
-La nomination dans l'emploi est prononcée par le directeur général du centre national de gestion à l'exclusion de celle de chefs d'établissement qui sont nommés par arrêté du ministre chargé de la santé.
+La nomination dans l'ensemble des emplois est prononcée par arrêté du directeur général du Centre national de gestion.
