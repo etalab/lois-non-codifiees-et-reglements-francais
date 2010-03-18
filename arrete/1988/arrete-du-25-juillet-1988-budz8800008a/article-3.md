@@ -2,64 +2,68 @@
 
 Les informations nominatives traitées sont les suivantes :
 
-1. Dossier "2004 informatique et son résumé permanent (2011) :
+1. Dossier " 2004 informatique et son résumé permanent (2011) :
 
-- nom(s), prénom(s), sexe, date et lieu de naissance, adresses (ancienne et nouvelle en cas de déménagement), n° FIP, n° SPI du ou des contribuables, coordonnées de l'ancien et du nouveau centre des impôts compétent en cas de déménagement ;
+-nom (s), prénom (s), sexe, date et lieu de naissance, adresses (ancienne et nouvelle en cas de déménagement), n° FIP, n° SPI du ou des contribuables, coordonnées de l'ancien et du nouveau centre des finances publiques compétent en cas de déménagement ;
 
-- caractéristiques du dossier (codes du secteur d'assiette et éventuellement de l'inspection spécialisée gestionnaire, code "dossier complexe, renseignements divers sur l'état du dossier) ;
+-caractéristiques du dossier (codes du secteur d'assiette et éventuellement de l'inspection spécialisée gestionnaire, code " dossier complexe, renseignements divers sur l'état du dossier) ;
 
-- pour chaque période d'imposition, prescrite ou non prescrite :
+-pour chaque période d'imposition, prescrite ou non prescrite :
 
-- identification du contribuable et de l'imposition ;
+-identification du contribuable et de l'imposition ;
 
-- situation fiscale - marié, célibataire, divorcé ou séparé, veuf, partenaire d'un pacte civil de solidarité -, date et motif de changement de situation fiscale et nombre de parts ;
+-situation fiscale-marié, célibataire, divorcé ou séparé, veuf, partenaire d'un pacte civil de solidarité-, date et motif de changement de situation fiscale et nombre de parts ;
 
-- IR : revenu imposable, droits et pénalités ;
+-IR : revenu imposable, droits et pénalités ;
 
-- CSG/CRDS : base, cotisations, pénalités ;
+-CSG / CRDS : base, cotisations, pénalités ;
 
-- nature et montant des déficits, s'il y a lieu ;
+-nature et montant des déficits, s'il y a lieu ;
 
-- nature des engagements et montant des déductions ou réductions d'impôt correspondantes, s'il y a lieu ;
+-nature des engagements et montant des déductions ou réductions d'impôt correspondantes, s'il y a lieu ;
 
-- doubles d'avis et documents de taxation IR primitifs et correctifs, doubles d'avis CSG/CRDS.
+-doubles d'avis et documents de taxation IR primitifs et correctifs, doubles d'avis CSG / CRDS ;
 
-2. "ILIAD IR-TH/redevance audiovisuelle et "Impositions supplémentaires :
+-zone bloc-notes : ne reçoit que les informations directement liées à la gestion des impositions des contribuables, à l'exclusion de toute appréciation subjective, ainsi que les rectifications éventuelles apportées par le contribuable ou l'administration.
 
-- nom(s) et prénom(s) ou raison sociale (pour les personnes morales et assimilées redevables de la taxe d'habitation, ou de la taxe annuelle sur les logements vacants), sexe, date et lieu de naissance, adresse du contribuable ;
+2. " ILIAD IR-TH / redevance audiovisuelle et " Impositions supplémentaires :
 
-- numéro FIP ;
+-nom (s) et prénom (s) ou raison sociale (pour les personnes morales et assimilées redevables de la taxe d'habitation, ou de la taxe annuelle sur les logements vacants), sexe, date et lieu de naissance, adresse du contribuable ;
 
-- situation de famille, nombre de personnes à charge ;
+-numéro FIP ;
 
-- identité des personnes vivant sous le même toit que le contribuable ;
+-situation de famille, nombre de personnes à charge ;
 
-- situation vis-à-vis de l'impôt sur le revenu, de la taxe d'habitation, de la redevance audiovisuelle et de la taxe annuelle sur les logements vacants ;
+-identité des personnes vivant sous le même toit que le contribuable ;
 
-- revenus et charges pris en compte pour le calcul de l'assiette de l'impôt sur le revenu ;
+-situation vis-à-vis de l'impôt sur le revenu, de la taxe d'habitation, de la redevance audiovisuelle et de la taxe annuelle sur les logements vacants ;
 
-- données portées sur les avis d'imposition IR, TH/redevance audiovisuelle, TLV et CSG/CRDS ;
+-revenus et charges pris en compte pour le calcul de l'assiette de l'impôt sur le revenu ;
 
-- description des locaux d'habitation.
+-données portées sur les avis d'imposition IR, TH / redevance audiovisuelle, TLV et CSG / CRDS ;
 
-3. "Iliad contentieux :
+-description des locaux d'habitation ;
 
-- nom(s) et prénom(s) ou raison sociale, année et lieu de naissance, adresses des contribuables ayant introduit une réclamation ou une instance ;
+-zone bloc-notes : ne reçoit que les informations directement liées à la gestion des impositions des contribuables, à l'exclusion de toute appréciation subjective, ainsi que les rectifications éventuelles apportées par le contribuable ou l'administration.
 
-- numéro DGI de l'agent chargé de l'instruction et du suivi de l'affaire ;
+3. " Iliad contentieux :
 
-- impôts concernés ;
+-nom (s) et prénom (s) ou raison sociale, année et lieu de naissance, adresses des contribuables ayant introduit une réclamation ou une instance ;
 
-- motif de la réclamation ;
+-numéro DGI de l'agent chargé de l'instruction et du suivi de l'affaire ;
 
-- décisions prises, dégrèvements proposés et prononcés ;
+-impôts concernés ;
 
-- pour les admissions en non-valeur : coordonnées du poste comptable et références des cotes, nom du redevable, montant et date d'exigibilité de la créance admise en non-valeur, nature et numéro de la décision ;
+-motif de la réclamation ;
 
-- déroulement de la procédure contentieuse au niveau des services et de la direction : indicateur permettant de savoir que le dossier a été envoyé à la direction pour renvoi d'attribution (RA) ;
+-décisions prises, dégrèvements proposés et prononcés ;
 
-- nom ou raison sociale, adresse, références bancaires des entreprises étrangères créditrices de remboursements de TVA, historique des remboursements effectués, nom et adresse du mandataire ;
+-pour les admissions en non-valeur : coordonnées du poste comptable et références des cotes, nom du redevable, montant et date d'exigibilité de la créance admise en non-valeur, nature et numéro de la décision ;
 
-- informations relatives à la gestion du plafonnement de taxe professionnelle en fonction de la valeur ajoutée ;
+-déroulement de la procédure contentieuse au niveau des services et de la direction : indicateur permettant de savoir que le dossier a été envoyé à la direction pour renvoi d'attribution (RA) ;
 
-- zone "bloc-notes : ne reçoit que les informations directement liées à l'instruction des affaires contentieuses, à l'exclusion de toute appréciation subjective, ainsi que les rectifications éventuellement apportées par le contribuable ou l'administration.
+-nom ou raison sociale, adresse, références bancaires des entreprises étrangères créditrices de remboursements de TVA, historique des remboursements effectués, nom et adresse du mandataire ;
+
+-informations relatives à la gestion du plafonnement de taxe professionnelle en fonction de la valeur ajoutée ;
+
+-zone " bloc-notes : ne reçoit que les informations directement liées à l'instruction des affaires contentieuses, à l'exclusion de toute appréciation subjective, ainsi que les rectifications éventuellement apportées par le contribuable ou l'administration.
