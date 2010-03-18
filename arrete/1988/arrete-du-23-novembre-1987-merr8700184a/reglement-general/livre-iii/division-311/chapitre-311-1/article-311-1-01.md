@@ -2,11 +2,11 @@
 
 Application
 
-1. Sauf dispositions expresses contraires, la présente division s'applique aux équipements marins énumérés à l'annexe 311-1.A.1, embarqués le 21 juillet 2009 ou après cette date.
+1. Sauf dispositions expresses contraires, la présente division s'applique aux équipements marins énumérés à l'annexe 311-1.A.1, embarqués le 6 avril 2010 ou après cette date.
 
-2. Les équipements marins énumérés à l'annexe 311-1.A.1, embarqués avant le 21 juillet 2009, sont approuvés conformément à la division 311 en vigueur telle que modifiée par l'arrêté du 18 juillet 2008 paru au Journal officiel de la République française du 29 août 2008.
+2. Les équipements marins énumérés à l'annexe 311-1.A.1, embarqués avant le 6 avril 2010, sont approuvés conformément à la division 311 en vigueur telle que modifiée par l'arrêté du 12 février 2009 paru au Journal officiel du 12 mars 2009.
 
-3. Les équipements qualifiés de "nouvel article" dans la colonne  Nom de l'article  de l'annexe 311-1.A.1, qui ont été fabriqués avant le 21 juillet 2009, conformément aux procédures d'approbation de type en vigueur avant le 21 juillet 2009, ainsi que les équipements transférés de l'annexe 311-1.A.2 à l'annexe 311-1.A.1, qui portent le marquage, fabriqués avant le 21 juillet 2009, peuvent être mis sur le marché et mis à bord de navires dont les certificats ont été délivrés par l'administration conformément aux conventions internationales, et ce pendant deux ans à compter de cette date.
+3. Les équipements qualifiés de "nouvel article" dans la colonne "Nom de l'article" de l'annexe 311-1.A.1, qui ont été fabriqués avant le 6 avril 2010, conformément aux procédures d'approbation de type en vigueur avant le 6 avril 2010, ainsi que les équipements transférés de l'annexe 311-1.A.2 à l'annexe 311-1.A.1, qui portent le marquage "fabriqués avant le 6 avril 2010", peuvent être mis sur le marché et mis à bord de navires dont les certificats ont été délivrés par l'administration conformément aux conventions internationales, et ce pendant deux ans à compter de cette date.
 
 4. Les équipements marins énumérés à l'annexe 311-1.A.2 continuent à être approuvés conformément à la division 310.
 
