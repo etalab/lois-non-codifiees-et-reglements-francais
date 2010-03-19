@@ -7,13 +7,21 @@ TABLEAU A : POPULATION DES RÉGIONS
 <table>
 <tbody>
 <tr>
-<th>CODE<br/>
+<th>
+<font size="1">CODE<br/>
+</font>
 </th>
-<th>RÉGION<br/>
+<th>
+<font size="1">RÉGION<br/>
+</font>
 </th>
-<th>POPULATION<br/>MUNICIPALE<br/>
+<th>
+<font size="1">POPULATION<br/>MUNICIPALE<br/>
+</font>
 </th>
-<th>POPULATION<br/>TOTALE<br/>
+<th>
+<font size="1">POPULATION<br/>TOTALE<br/>
+</font>
 </th>
 </tr>
 <tr>
@@ -171,9 +179,8 @@ TABLEAU A : POPULATION DES RÉGIONS
 </td>
 <td align="center">Midi-Pyrénées<br/>
 </td>
-<td align="center">2 810 559<br/>
-</td>
-<td align="center">2 890 123<br/>
+<td align="center">2 810 247</td>
+<td align="center">2 889 805<br/>
 </td>
 </tr>
 <tr>
@@ -282,10 +289,9 @@ TABLEAU A : POPULATION DES RÉGIONS
 </td>
 <td align="center">TOTAL<br/>
 </td>
-<td align="center">63 601 002<br/>
+<td align="center">63 600 690 <br/>
 </td>
-<td align="center">65 031 022<br/>
-</td>
+<td align="center">65 030 704</td>
 </tr>
 <tr>
 <td align="center">
@@ -293,10 +299,8 @@ TABLEAU A : POPULATION DES RÉGIONS
 </td>
 <td align="center">Métropole<br/>
 </td>
-<td align="center">61 795 550<br/>
-</td>
-<td align="center">63 202 100<br/>
-</td>
+<td align="center">61 795 238</td>
+<td align="center">63 201 782</td>
 </tr>
 <tr>
 <td align="center">
@@ -321,23 +325,39 @@ TABLEAU B : POPULATION DES DÉPARTEMENTS
 <table>
 <tbody>
 <tr>
-<th colspan="7">NOMBRE DE<br/>
+<th colspan="7">
+<font size="1">NOMBRE DE<br/>
+</font>
 </th>
 </tr>
 <tr>
-<th>Arrondissements<br/>
+<th>
+<font size="1">Arrondissements<br/>
+</font>
 </th>
-<th>Cantons<br/>
+<th>
+<font size="1">Cantons<br/>
+</font>
 </th>
-<th>Communes<br/>
+<th>
+<font size="1">Communes<br/>
+</font>
 </th>
-<th>CODE<br/>
+<th>
+<font size="1">CODE<br/>
+</font>
 </th>
-<th>DÉPARTEMENTS<br/>
+<th>
+<font size="1">DÉPARTEMENTS<br/>
+</font>
 </th>
-<th>POPULATION<br/>MUNICIPALE<br/>
+<th>
+<font size="1">POPULATION<br/>MUNICIPALE<br/>
+</font>
 </th>
-<th>POPULATION<br/>TOTALE<br/>
+<th>
+<font size="1">POPULATION<br/>TOTALE<br/>
+</font>
 </th>
 </tr>
 <tr>
@@ -1647,10 +1667,8 @@ TABLEAU B : POPULATION DES DÉPARTEMENTS
 </td>
 <td align="center">Tarn<br/>
 </td>
-<td align="center">369 501<br/>
-</td>
-<td align="center">381 483<br/>
-</td>
+<td align="center">369 189</td>
+<td align="center">381 165</td>
 </tr>
 <tr>
 <td align="center">2<br/>
@@ -1952,10 +1970,8 @@ TABLEAU B : POPULATION DES DÉPARTEMENTS
 </td>
 <td align="center">TOTAL<br/>
 </td>
-<td align="center">63 601 002<br/>
-</td>
-<td align="center">65 031 022<br/>
-</td>
+<td align="center">63 600 690</td>
+<td align="center">65 030 704</td>
 </tr>
 <tr>
 <td align="center">330<br/>
@@ -1969,10 +1985,8 @@ TABLEAU B : POPULATION DES DÉPARTEMENTS
 </td>
 <td align="center">Métropole<br/>
 </td>
-<td align="center">61 795 550<br/>
-</td>
-<td align="center">63 202 100<br/>
-</td>
+<td align="center">61 795 238</td>
+<td align="center">63 201 782</td>
 </tr>
 <tr>
 <td align="center">12<br/>
@@ -2005,23 +2019,39 @@ DE SAINT-BARTHÉLEMY, SAINT-MARTIN ET SAINT-PIERRE-ET-MIQUELON
 <table>
 <tbody>
 <tr>
-<th colspan="7">NOMBRE DE<br/>
+<th colspan="7">
+<font size="1">NOMBRE DE<br/>
+</font>
 </th>
 </tr>
 <tr>
-<th>Arrondissements<br/>
+<th>
+<font size="1">Arrondissements<br/>
+</font>
 </th>
-<th>Cantons<br/>
+<th>
+<font size="1">Cantons<br/>
+</font>
 </th>
-<th>Communes<br/>
+<th>
+<font size="1">Communes<br/>
+</font>
 </th>
-<th>CODE<br/>
+<th>
+<font size="1">CODE<br/>
+</font>
 </th>
-<th>DÉPARTEMENTS<br/>
+<th>
+<font size="1">DÉPARTEMENTS<br/>
+</font>
 </th>
-<th>POPULATION<br/>MUNICIPALE<br/>
+<th>
+<font size="1">POPULATION<br/>MUNICIPALE<br/>
+</font>
 </th>
-<th>POPULATION<br/>TOTALE<br/>
+<th>
+<font size="1">POPULATION<br/>TOTALE</font>
+<br/>
 </th>
 </tr>
 <tr>
