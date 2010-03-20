@@ -24,7 +24,7 @@ Adjoint au chef du bureau " conseils aux acheteurs publics " à la direction des
 
 Adjoint au chef du bureau " enfance-loisirs " à la sous-direction des politiques sociales et des conditions de travail à la direction du personnel, de la modernisation et de l'administration ;
 
-Adjoint au chef du bureau " financement du logement et activités d'intérêt général " à la direction générale du Trésor et de la politique économique ;
+Adjoint au chef du bureau " financement du logement et activités d'intérêt général " à la        direction générale du Trésor ;
 
 Adjoint au chef du bureau " financement et compétitivité des entreprises " à la direction du Trésor ;
 
@@ -36,7 +36,7 @@ Adjoint au chef du bureau " projets applicatifs ", responsable du secteur " mét
 
 Adjoint au chef du bureau " restauration, logement ", chargé du secteur du logement à la sous-direction des politiques sociales et des conditions de travail de la direction des personnels et de l'adaptation de l'environnement professionnel ;
 
-Adjoint au chef du bureau " transport ferroviaire, port et automobile " à la direction générale du Trésor et de la politique économique ;
+Adjoint au chef du bureau " transport ferroviaire, port et automobile " à la        direction générale du Trésor ;
 
 Adjoint au chef du bureau " tutelle des chambres de métiers " à la direction du commerce, de l'artisanat, des services et des professions libérales ;
 
@@ -44,31 +44,31 @@ Adjoint au chef du bureau exécution et suivi de la dépense à la sous-directio
 
 Adjoint au chef du bureau gestion immobilière de l'administration centrale à la sous-direction de l'immobilier de la direction des personnels et de l'adaptation de l'environnement professionnel ;
 
-Adjoint au chef du bureau infrastructures informatiques et postes de travail , chef du secteur postes de travail à la sous-direction de l'informatique de la direction des personnels et de l'adaptation de l'environnement professionnel ;
+Adjoint au chef du bureau infrastructures informatiques et postes de travail, chef du secteur postes de travail à la sous-direction de l'informatique de la direction des personnels et de l'adaptation de l'environnement professionnel ;
 
-Adjoint au chef du bureau politiques indemnitaire et statutaire , en charge de la section statutaire et indemnitaire à la sous-direction de la modernisation et des politiques du personnel de la direction du personnel, de la modernisation et de l'administration ;
+Adjoint au chef du bureau politiques indemnitaire et statutaire, en charge de la section statutaire et indemnitaire à la sous-direction de la modernisation et des politiques du personnel de la direction du personnel, de la modernisation et de l'administration ;
 
 Adjoint au chef du bureau prospective et affaires techniques à la direction des affaires juridiques ;
 
-Adjoint au chef du bureau restauration, logement , chargé du secteur restauration à la sous-direction des politiques sociales et des conditions de travail de la direction des personnels et de l'adaptation de l'environnement professionnel ;
+Adjoint au chef du bureau restauration, logement, chargé du secteur restauration à la sous-direction des politiques sociales et des conditions de travail de la direction des personnels et de l'adaptation de l'environnement professionnel ;
 
 Adjoint au chef du bureau interventions économiques à la direction du commerce, de l'artisanat, des services et des professions libérales ;
 
-Adjoint au chef du bureau marchés et produits d'assurance à la direction générale du Trésor et de la politique économique ;
+Adjoint au chef du bureau marchés et produits d'assurance à la        direction générale du Trésor ;
 
-Adjoint au chef du bureau projets applicatifs , responsable du secteur métiers à la sous-direction de l'informatique à la direction du personnel, de la modernisation et de l'administration ;
+Adjoint au chef du bureau projets applicatifs, responsable du secteur métiers à la sous-direction de l'informatique à la direction du personnel, de la modernisation et de l'administration ;
 
-Adjoint au chef du bureau restauration, logement , chargé du secteur du logement à la sous-direction des politiques sociales et des conditions de travail à la direction du personnel, de la modernisation et de l'administration ;
+Adjoint au chef du bureau restauration, logement, chargé du secteur du logement à la sous-direction des politiques sociales et des conditions de travail à la direction du personnel, de la modernisation et de l'administration ;
 
-Adjoint au chef du bureau gestion des marchés publics par le réseau du Trésor public , chargé des questions relatives aux délais de paiement à la direction générale de la comptabilité publique ;
+Adjoint au chef du bureau gestion des marchés publics par le réseau du Trésor public, chargé des questions relatives aux délais de paiement à la direction générale de la comptabilité publique ;
 
-Adjoint au chef du bureau gestion immobilière de l'administration centrale , chargé du suivi du parc immobilier de l'administration centrale, à la sous-direction de l'immobilier de la direction des personnels et de l'adaptation de l'environnement professionnel ;
+Adjoint au chef du bureau gestion immobilière de l'administration centrale, chargé du suivi du parc immobilier de l'administration centrale, à la sous-direction de l'immobilier de la direction des personnels et de l'adaptation de l'environnement professionnel ;
 
-Adjoint au chef du bureau infrastructures informatiques et postes de travail , responsable de la conception et de la mise en oeuvre des réseaux informatiques, de l'administration des systèmes d'information à la sous-direction de l'informatique de la direction du personnel, de la modernisation et de l'administration ;
+Adjoint au chef du bureau infrastructures informatiques et postes de travail, responsable de la conception et de la mise en oeuvre des réseaux informatiques, de l'administration des systèmes d'information à la sous-direction de l'informatique de la direction du personnel, de la modernisation et de l'administration ;
 
-Adjoint au chef du bureau ressources humaines, budget et modernisation , responsable du pôle budget-comptabilité-contrôle de gestion , au service de la communication ;
+Adjoint au chef du bureau ressources humaines, budget et modernisation, responsable du pôle budget-comptabilité-contrôle de gestion, au service de la communication ;
 
-Adjoint au chef du bureau soutien et satisfaction des utilisateurs , chargé du pôle soutien technique des postes de travail , à la direction générale des douanes et droits indirects ;
+Adjoint au chef du bureau soutien et satisfaction des utilisateurs, chargé du pôle soutien technique des postes de travail, à la direction générale des douanes et droits indirects ;
 
 Adjoint au chef du bureau de contrôle des chaudières nucléaires à la direction régionale de l'industrie, de la recherche et de l'environnement de Bourgogne ;
 
@@ -98,7 +98,7 @@ Adjoint au chef du bureau du budget et de la programmation, des affaires financi
 
 Adjoint au chef du bureau du commerce et artisanat à la direction générale de la concurrence, de la consommation et de la répression des fraudes ;
 
-Adjoint au chef du bureau du financement de l'industrie, chargé du suivi du programme développement des entreprises , à la direction générale des entreprises ;
+Adjoint au chef du bureau du financement de l'industrie, chargé du suivi du programme développement des entreprises, à la direction générale des entreprises ;
 
 Adjoint au chef du bureau du personnel à la direction générale de la concurrence, de la consommation et de la répression des fraudes ;
 
@@ -122,7 +122,7 @@ Adjoint au directeur du service de l'informatique à la direction générale de 
 
 Adjoint au responsable chargé de la mission organisation des services, qualité, simplifications au secrétariat général ;
 
-Adjoint au responsable de l'unité d'évaluation des activités de développement au sein du service des affaires européennes à la direction générale du Trésor et de la politique économique ;
+Adjoint au responsable de l'unité d'évaluation des activités de développement au sein du service des affaires européennes à la        direction générale du Trésor ;
 
 Adjoint au secrétaire général de la gestion des ressources humaines à l'école des mines de Paris ;
 
@@ -130,7 +130,7 @@ Adjoint au sous-directeur de l'innovation et de la propriété industrielles à 
 
 Adjoint auprès du conseiller financier, en charge des questions fiscales au secrétariat général des affaires européennes ;
 
-Adjointe au chef du bureau " aide au développement et institutions multilatérales de développement " à la direction générale du Trésor et de la politique économique ;
+Adjointe au chef du bureau " aide au développement et institutions multilatérales de développement " à la        direction générale du Trésor ;
 
 Adjointe, pour le domaine de la qualité, au responsable chargé de la mission organisation des services, qualité, simplifications au secrétariat général ;
 
@@ -320,7 +320,7 @@ Chef du bureau " valorisation et information " à la direction des affaires juri
 
 Chef du bureau coordination générale, administration du service et informatique au secrétariat général des affaires européennes ;
 
-Chef du bureau pôle informatique et systèmes d'information à la direction générale du Trésor et de la politique économique économique ;
+Chef du bureau pôle informatique et systèmes d'information à la         direction générale du Trésor ;
 
 Chef du bureau d'analyses des risques et des pollutions industrielles à la direction régionale de l'industrie, de la recherche et de l'environnement Rhône-Alpes ;
 
@@ -354,11 +354,11 @@ Chef du bureau informatique au service des pensions ;
 
 Adjoint au chef du bureau commerce, distribution et artisanat à la direction du commerce, de l'artisanat, des services et des professions libérales ;
 
-Adjoint au chef du bureau politique informatique , chargé de l'intérim à la sous-direction de l'informatique de la direction des personnels et de l'adaptation de l'environnement professionnel.
+Adjoint au chef du bureau politique informatique, chargé de l'intérim à la sous-direction de l'informatique de la direction des personnels et de l'adaptation de l'environnement professionnel.
 
 Adjoint au chef du bureau 1 C à la sous-direction des ressources humaines de la direction des personnels et de l'adaptation de l'environnement professionnel ;
 
-Adjointe au chef du bureau mutifin 2 coopération monétaire et développement avec pays ACP zone franc à la direction générale du Trésor et de la politique économique ;
+Adjointe au chef du bureau mutifin 2 coopération monétaire et développement avec pays ACP zone franc à la        direction générale du Trésor ;
 
 Charentes ;
 
@@ -380,7 +380,7 @@ Chef du bureau " valorisation et information " à la direction des affaires juri
 
 Chef du bureau coordination générale, administration du service et informatique au secrétariat général du comité interministériel pour les questions de coopération économique européenne.
 
-Chef du bureau pôle informatique et systèmes d'information à la direction générale du Trésor et de la politique économique économique ;
+Chef du bureau pôle informatique et systèmes d'information à la         direction générale du Trésor ;
 
 Chef du bureau sécurité intérieure des communications interministérielles au service du haut fonctionnaire de défense et de sécurité ;
 
@@ -562,7 +562,7 @@ Responsable du département conversion à la sous-direction du développement in
 
 Responsable du département Développement régional, adjoint au responsable de la sous-direction à la direction de l'action régionale et de la petite et moyenne industrie ;
 
-Responsable du secteur " politique de formation " à la direction générale du Trésor et de la politique économique ;
+Responsable du secteur " politique de formation " à la        direction générale du Trésor ;
 
 Responsable du secteur contentieux de personnel à la direction générale des impôts ;
 

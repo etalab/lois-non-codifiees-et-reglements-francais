@@ -503,6 +503,7 @@
 - [Décret du 25 août 2003 (AGRP0300395D)](decret-du-25-aout-2003-agrp0300395d)
 - [Décret du 25 août 2003 (AGRP0300892D)](decret-du-25-aout-2003-agrp0300892d)
 - [Décret du 25 novembre 2003 (AGRP0301380D)](decret-du-25-novembre-2003-agrp0301380d)
+- [Décret n°2000-811 du 25 août 2000 (ECOI0000363D)](decret-n2000-811-du-25-aout-2000-ecoi0000363d)
 - [Décret n°2003-1121 du 25 novembre 2003 (JUSC0320587D)](decret-n2003-1121-du-25-novembre-2003-jusc0320587d)
 - [Décret n°2003-1126 du 25 novembre 2003 (SANP0323851D)](decret-n2003-1126-du-25-novembre-2003-sanp0323851d)
 - [Décret n°2003-1130 du 25 novembre 2003 (AGRP0301379D)](decret-n2003-1130-du-25-novembre-2003-agrp0301379d)

@@ -8,11 +8,11 @@ Le comité d'évaluation institué au X de l'article 142 de la loi n° 2006-1666
 
 a) Le directeur général des collectivités locales ;
 
-b) Le      directeur général de la cohésion sociale  ;
+b) Le directeur général de la cohésion sociale ;
 
 c) Le directeur général du Centre d'analyse stratégique ;
 
-d) Le directeur général du Trésor et de la politique économique ;
+d) Le        directeur général du Trésor ;
 
 e) Le délégué général à l'emploi et à la formation professionnelle ;
 

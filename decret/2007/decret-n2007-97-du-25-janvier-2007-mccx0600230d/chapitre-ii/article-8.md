@@ -8,9 +8,9 @@ a) Le secrétaire général du ministère chargé de la culture ou son représen
 
 b) Le directeur général des patrimoines au ministère chargé de la culture ou son représentant ;
 
-c) Le             directeur général de la création artistique au ministère chargé de la culture ou son représentant ;
+c) Le directeur général de la création artistique au ministère chargé de la culture ou son représentant ;
 
-d) Le directeur général du Trésor et de la politique économique au ministère chargé de l'économie et des finances ou son représentant ;
+d) Le        directeur général du Trésor au ministère chargé de l'économie et des finances ou son représentant ;
 
 e) Le directeur du budget au ministère chargé du budget ou son représentant ;
 

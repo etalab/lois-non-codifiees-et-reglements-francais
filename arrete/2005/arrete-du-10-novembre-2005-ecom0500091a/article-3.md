@@ -12,7 +12,7 @@ Sont également membres de droit de l'observatoire :
 
 3° Le directeur général de la modernisation de l'Etat ou son représentant ;
 
-4° Le directeur général du Trésor et de la politique économique ou son représentant ;
+4° Le        directeur général du Trésor ou son représentant ;
 
 5° Le directeur général de la compétitivité, de l'industrie et des services ou son représentant ;
 
@@ -36,7 +36,7 @@ Sont également membres de droit de l'observatoire :
 
 15° Le délégué général pour l'armement ou son représentant ;
 
-16° Le           directeur général de l'offre de soins  ou son représentant ;
+16° Le directeur général de l'offre de soins ou son représentant ;
 
 17° Le directeur général à l'emploi et à la formation professionnelle.
 

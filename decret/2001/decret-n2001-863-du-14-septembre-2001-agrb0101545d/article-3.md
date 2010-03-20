@@ -6,7 +6,7 @@ Sont membres de droit de la commission :
 
 -le directeur général de l'INSEE ;
 
--le directeur général du Trésor et de la politique économique ;
+-le        directeur général du Trésor ;
 
 -le directeur général de la concurrence, de la consommation et de la répression des fraudes ;
 

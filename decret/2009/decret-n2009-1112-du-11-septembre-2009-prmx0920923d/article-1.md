@@ -6,13 +6,13 @@ Le comité d'évaluation mentionné à l'article 32 de la loi du 1er décembre 2
 
 2° Quatre représentants de l'Etat :
 
-a) Le      directeur général de la cohésion sociale  ;
+a) Le directeur général de la cohésion sociale ;
 
 b) Le directeur de l'animation de la recherche, des études et des statistiques ;
 
 c) Le directeur de la recherche, des études, de l'évaluation et des statistiques ;
 
-d) Le directeur général du Trésor et de la politique économique ;
+d) Le        directeur général du Trésor ;
 
 3° Trois représentants des organismes chargés de la mise en œuvre du revenu de solidarité active :
 

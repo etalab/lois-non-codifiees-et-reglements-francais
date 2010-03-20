@@ -16,7 +16,7 @@ Le conseil comporte, outre son président, trente-cinq membres :
 
 -au titre du ministère chargé de l'économie, des finances et de l'industrie :
 
--la direction générale du Trésor et de la politique économique ;
+-la        direction générale du Trésor ;
 
 -la direction générale de la concurrence, de la consommation et de la répression des fraudes ;
 
@@ -26,7 +26,7 @@ Le conseil comporte, outre son président, trente-cinq membres :
 
 -la direction générale du travail ;
 
--la      direction générale de la cohésion sociale  ;
+-la direction générale de la cohésion sociale ;
 
 -au titre du ministère chargé de la vie associative :
 

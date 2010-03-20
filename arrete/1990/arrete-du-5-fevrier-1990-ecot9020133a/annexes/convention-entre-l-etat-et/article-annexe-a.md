@@ -4,7 +4,7 @@ Entre,
 
 Le ministre de l'économie, des finances et du budget, agissant au nom de l'Etat et en exécution de l'article 1er du décret n° 90-116 du 5 février 1990 relatif au plan d'épargne populaire,
 
-D'une part, et (1) représenté par M.          .
+D'une part, et (1) représenté par M..
 
 D'autre part, il a été convenu ce qui suit :
 
@@ -56,13 +56,13 @@ Article 6 : Statistiques relatives aux fonds collectés par réseau.
 
 A compter de 1991, l'organisme signataire adressera chaque année à l'organisme professionnel dont il relève, qui retransmettra l'information au ministère de l'économie, des finances et du budget (2) avant la fin du mois de mars, un état détaillant, par nature de P.E.P. (comptes bancaires, contrats d'assurance) :
 
-- le nombre de plans ouverts dans l'année ;
+-le nombre de plans ouverts dans l'année ;
 
-- le montant des versements effectués dans l'année ;
+-le montant des versements effectués dans l'année ;
 
-- le montant des encours en fin d'année.
+-le montant des encours en fin d'année.
 
-Les modèles de situations statistiques sont fournis par la direction générale du Trésor et de la politique économique.
+Les modèles de situations statistiques sont fournis par la        direction générale du Trésor.
 
 Article 7 : Estimation des droits à prime.
 
@@ -72,7 +72,7 @@ Article 8 : Contrôle.
 
 L'organisme signataire s'engage à faciliter la vérification sur pièces et sur place des opérations du plan d'épargne populaire par les autorités habilitées à cet effet, notamment en tenant à leur disposition tous documents et comptes leur permettant de s'assurer du respect de la présente convention.
 
-Si l'organisme signataire désirait ne pas continuer à gérer des plans d'épargne populaire, il devrait dénoncer la présente convention par lettre adressée au ministère de l'économie, des finances et du budget - direction générale du Trésor et de la politique économique (à l'adresse précitée). Cette lettre devrait contenir l'engagement de dénouer les opérations en cours dans les conditions prévues aux articles précédents ou être accompagnée de l'engagement d'un autre organisme d'assurer la suite et le règlement des opérations.
+Si l'organisme signataire désirait ne pas continuer à gérer des plans d'épargne populaire, il devrait dénoncer la présente convention par lettre adressée au ministère de l'économie, des finances et du budget-        direction générale du Trésor (à l'adresse précitée). Cette lettre devrait contenir l'engagement de dénouer les opérations en cours dans les conditions prévues aux articles précédents ou être accompagnée de l'engagement d'un autre organisme d'assurer la suite et le règlement des opérations.
 
 L'organisme resterait soumis aux obligations prévues par le présent article en matière d'information et de contrôle jusqu'au dénouement ou jusqu'au transfert effectif des opérations en cours.
 
@@ -80,4 +80,4 @@ Au cas où les dispositions de la présente convention ne seraient pas respecté
 
 (1) Raison sociale de l'organisme gestionnaire du plan d'épargne populaire.
 
-(2) Direction générale du Trésor et de la politique économique (bureau B 1, marché financier, code télédoc 583), 139, rue de Bercy, 75572 PARIS CEDEX 12.
+(2)        direction générale du Trésor (bureau B 1, marché financier, code télédoc 583), 139, rue de Bercy, 75572 PARIS CEDEX 12.

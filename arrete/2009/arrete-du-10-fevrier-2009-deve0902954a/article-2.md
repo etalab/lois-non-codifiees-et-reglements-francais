@@ -14,7 +14,7 @@ Les membres du collège prévu au 1° de l'article 1er sont :
 
 ― le directeur général de la compétitivité, de l'industrie et des services ou son représentant ;
 
-― le directeur général du Trésor et de la politique économique ou son représentant ;
+― le        directeur général du Trésor ou son représentant ;
 
 ― le directeur général des politiques agricole, agroalimentaire et des territoires ou son représentant ;
 

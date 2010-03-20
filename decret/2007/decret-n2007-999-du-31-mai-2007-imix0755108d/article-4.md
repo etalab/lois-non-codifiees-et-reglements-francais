@@ -4,7 +4,7 @@ Pour l'exercice de ses attributions, le ministre de l'immigration, de l'intégra
 
 -la direction générale de la coopération internationale et du développement ;
 
--la direction générale du Trésor et de la politique économique ;
+-la        direction générale du Trésor ;
 
 -la direction générale des douanes et droits indirects ;
 
@@ -12,7 +12,7 @@ Pour l'exercice de ses attributions, le ministre de l'immigration, de l'intégra
 
 -la direction des affaires civiles et du sceau ;
 
--la      direction générale de la cohésion sociale  ;
+-la direction générale de la cohésion sociale ;
 
 -la délégation générale à l'emploi et à la formation professionnelle ;
 

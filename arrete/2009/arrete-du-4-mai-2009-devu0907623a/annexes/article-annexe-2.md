@@ -30,7 +30,7 @@ A. - Le contrôle est inopiné
 
 Afin de mettre en œuvre ce principe, les inspecteurs de la SGFGAS présentent aux responsables de l'organisme vérifié (siège, succursale, agence...) un mandat précisant leur identité et le champ de leurs compétences.
 
-Ce mandat est signé par le directeur général du Trésor et de la politique économique et le directeur de l'habitat, de l'urbanisme et des paysages.
+Ce mandat est signé par le directeur général du Trésor et le directeur de l'habitat, de l'urbanisme et des paysages.
 
 La liste nominative des titulaires d'un mandat est transmise à chaque établissement de crédit après la confirmation de son affiliation. Elle est mise à jour à chaque arrivée d'un nouvel inspecteur ou au départ d'un inspecteur.
 
@@ -48,9 +48,9 @@ II. - Organisation des missions d'inspection
 
 A. - Préparation des missions d'inspection
 
-Lors de la préparation du budget annuel, le directeur général de la SGFGAS propose au directeur général du Trésor et de la politique économique, après consultation des commissaires du Gouvernement, un programme prévisionnel de missions pour l'année à venir.
+Lors de la préparation du budget annuel, le directeur général de la SGFGAS propose au directeur général du Trésor, après consultation des commissaires du Gouvernement, un programme prévisionnel de missions pour l'année à venir.
 
-Le directeur général du Trésor et de la politique économique approuve ce programme qui est communiqué au directeur de l'habitat, de l'urbanisme et des paysages.
+Le directeur général du Trésor approuve ce programme qui est communiqué au directeur de l'habitat, de l'urbanisme et des paysages.
 
 Celui-ci est strictement confidentiel. Outre les commissaires du Gouvernement, seuls les membres de l'inspection et le directeur général de la SGFGAS en connaissent le contenu.
 
@@ -70,7 +70,7 @@ III. - Suivi des missions d'inspection
 
 A l'issue de la procédure contradictoire, le directeur général de la SGFGAS, après avoir pris connaissance des conclusions de l'inspection, transmet le rapport aux commissaires du Gouvernement, accompagné, le cas échéant, de propositions de sanctions, telles que prévues dans la convention liant l'établissement de crédit à l'Etat.
 
-La décision de sanction est prise par le directeur général du Trésor et de la politique économique. Elle est notifiée par la SGFGAS à l'établissement de crédit avec copie au directeur général du Trésor et de la politique économique ainsi qu'à la direction de l'habitat, de l'urbanisme et des paysages.
+La décision de sanction est prise par le directeur général du Trésor. Elle est notifiée par la SGFGAS à l'établissement de crédit avec copie au directeur général du Trésor ainsi qu'à la direction de l'habitat, de l'urbanisme et des paysages.
 
 Les établissements de crédit informent la SGFGAS et l'administration des problèmes liés à l'application de la réglementation et à la mise en œuvre des contrôles à l'occasion des réunions du comité consultatif de l'éco-prêt à taux zéro.
 
@@ -90,9 +90,9 @@ La convention liant l'Etat et l'établissement de crédit prévoit une gradation
 
 B. - Mise en œuvre des sanctions
 
-Les sanctions 1 à 3 sont mises en œuvre par le directeur général de la SGFGAS, après décision du directeur général du Trésor et de la politique économique.
+Les sanctions 1 à 3 sont mises en œuvre par le directeur général de la SGFGAS, après décision du directeur général du Trésor.
 
-La résiliation de la convention est décidée par le ministre de l'économie et des finances (direction générale du Trésor et de la politique économique).
+La résiliation de la convention est décidée par le ministre de l'économie et des finances ( direction générale du Trésor).
 
 C. - Rôle du comité consultatif de l'éco-prêt à taux zéro
 
@@ -100,7 +100,7 @@ Un comité consultatif de l'éco-prêt à taux zéro est institué. Il a pour ob
 
 Ce comité comprend :
 
-- le directeur général du Trésor et de la politique économique ou son représentant ;
+- le directeur général du Trésor ou son représentant ;
 
 - le directeur de la législation fiscale ou son représentant ;
 

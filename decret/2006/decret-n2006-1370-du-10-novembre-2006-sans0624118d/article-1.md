@@ -38,7 +38,7 @@ c) Le directeur de l'hospitalisation et de l'offre de soins ;
 
 d) Le directeur général de la santé ;
 
-e) Le directeur général du Trésor et de la politique économique ;
+e) Le        directeur général du Trésor ;
 
 f) Le directeur du budget ;
 

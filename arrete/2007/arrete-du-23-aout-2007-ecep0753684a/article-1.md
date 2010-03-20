@@ -86,7 +86,7 @@ Au ministère des affaires étrangères et européennes :
 
 Au ministère de l'économie, des finances et de l'emploi :
 
--les services des politiques macroéconomiques et des affaires européennes, et des politiques publiques de la direction générale du Trésor et de la politique économique ;
+-les services des politiques macroéconomiques et des affaires européennes, et des politiques publiques de la        direction générale du Trésor ;
 
 -les unités statistiques ou d'études des directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l'emploi.
 

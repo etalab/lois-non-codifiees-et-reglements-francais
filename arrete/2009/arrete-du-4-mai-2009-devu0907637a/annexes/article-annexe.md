@@ -39,13 +39,13 @@ Cette avance dénommée l'éco-prêt à taux zéro est désignée ci-après "le 
 
 La nature des travaux mentionnés ci-dessus et les bénéficiaires des prêts sont limitativement énumérés par la loi et les textes pris pour l'application de celle-ci (1).
 
-_(1) En cas de modification des textes, les conventions seront considérées comme de facto adaptées._
+(1) En cas de modification des textes, les conventions seront considérées comme de facto adaptées.
 
 2. Conformément aux dispositions de l'article L. 312-1, dernier alinéa, du code de la construction et de l'habitation, il a été créé une société anonyme dénommée Société de gestion du fonds de garantie de l'accession sociale à la propriété (SGFGAS), dont l'objet social est :
 
-"La gestion du Fonds de garantie de l'accession sociale à la propriété, en application de l'article L. 312-1 du code de la construction et de l'habitation.
+La gestion du Fonds de garantie de l'accession sociale à la propriété, en application de l'article L. 312-1 du code de la construction et de l'habitation.
 
-Et plus généralement toutes opérations de quelque nature qu'elles soient, économiques ou juridiques, financières, civiles ou commerciales, pouvant se rattacher, directement ou indirectement, à cet objet social ou à tous objets similaires, connexes ou complémentaires ; la participation directe ou indirecte de la société à toutes activités pouvant se rattacher directement ou indirectement à son objet social."
+Et plus généralement toutes opérations de quelque nature qu'elles soient, économiques ou juridiques, financières, civiles ou commerciales, pouvant se rattacher, directement ou indirectement, à cet objet social ou à tous objets similaires, connexes ou complémentaires ; la participation directe ou indirecte de la société à toutes activités pouvant se rattacher directement ou indirectement à son objet social.
 
 Chargée successivement de la gestion des dispositifs Fonds de garantie de l'accession sociale à la propriété (ancien puis nouveau), d'une part, et nouveau prêt à 0 %, d'autre part, la SGFGAS a accepté à la demande de l'Etat et conformément aux dispositions du IV de l'article 244 quater U du code général des impôts d'étendre son activité à la gestion et au suivi des crédits d'impôts dus aux établissements de crédit au titre des éco-prêts à taux zéro qu'ils accordent.
 
@@ -55,17 +55,17 @@ Chargée successivement de la gestion des dispositifs Fonds de garantie de l'acc
 
 5. Une convention sera conclue entre la SGFGAS et chacun des établissements de crédit, ayant pour objet :
 
--la définition des modalités de déclaration des éco-prêts à taux zéro octroyés par les établissements de crédit ;
+- la définition des modalités de déclaration des éco-prêts à taux zéro octroyés par les établissements de crédit ;
 
--la définition des modalités de déclaration des montants de l'avantage indûment perçu au titre des éco-prêts à taux zéro octroyés par les établissements de crédit ;
+- la définition des modalités de déclaration des montants de l'avantage indûment perçu au titre des éco-prêts à taux zéro octroyés par les établissements de crédit ;
 
--le contrôle a priori de l'éligibilité des éco-prêts à taux zéro déclarés par les établissements de crédit à la SGFGAS ;
+- le contrôle a priori de l'éligibilité des éco-prêts à taux zéro déclarés par les établissements de crédit à la SGFGAS ;
 
--la détermination et la publication des conditions de remboursement des éco-prêts à taux zéro ;
+- la détermination et la publication des conditions de remboursement des éco-prêts à taux zéro ;
 
--la définition des éléments de calcul et le suivi pour le compte de l'Etat des crédits d'impôts dus au titre des avances remboursables (ci-après dénommée le "crédit d'impôt") ;
+- la définition des éléments de calcul et le suivi pour le compte de l'Etat des crédits d'impôts dus au titre des avances remboursables (ci-après dénommée le crédit d'impôt) ;
 
--le contrôle a posteriori de l'éligibilité des éco-prêts à taux zéro déclarés par les établissements de crédit à la SGFGAS.
+- le contrôle a posteriori de l'éligibilité des éco-prêts à taux zéro déclarés par les établissements de crédit à la SGFGAS.
 
 6. Une convention entre l'Etat et chacun des établissements de crédit définit les conditions de distribution des éco-prêts à taux zéro.
 
@@ -79,13 +79,13 @@ Objet de la convention
 
 L'Etat donne mandat à la SGFGAS dans les conditions précisées par la présente convention :
 
--d'enregistrer les éco-prêts à taux zéro ;
+- d'enregistrer les éco-prêts à taux zéro ;
 
--de gérer le suivi des crédits d'impôt dus aux établissements de crédit au titre des éco-prêts à taux zéro ;
+- de gérer le suivi des crédits d'impôt dus aux établissements de crédit au titre des éco-prêts à taux zéro ;
 
--de diligenter des contrôles auprès des établissements de crédit ;
+- de diligenter des contrôles auprès des établissements de crédit ;
 
--de produire les éléments statistiques utiles à l'évaluation du dispositif.
+- de produire les éléments statistiques utiles à l'évaluation du dispositif.
 
 Article 2
 
@@ -109,11 +109,11 @@ d) La SGFGAS détermine les taux de crédit d'impôt dus au titre des éco-prêt
 
 e) La SGFGAS contrôle a posteriori l'éligibilité des éco-prêts à taux zéro qui lui sont déclarés par les établissements de crédit ; les modalités d'exercice des contrôles sur pièces ou sur place sont définies à l'annexe 2 de la convention passée entre la SGFGAS et les établissements de crédit. Les sanctions éventuelles dont peuvent faire l'objet les établissements de crédit sont régies par la convention conclue entre chacun d'entre eux et l'Etat.
 
-Le programme annuel de contrôle est arrêté par le directeur général de la SGFGAS après consultation des commissaires du Gouvernement. Il est soumis à l'approbation du directeur général du Trésor et de la politique économique. Ce dernier peut demander à la SGFGAS d'effectuer en cours d'année des contrôles ne figurant pas sur le programme annuel.
+Le programme annuel de contrôle est arrêté par le directeur général de la SGFGAS après consultation des commissaires du Gouvernement. Il est soumis à l'approbation du directeur général du Trésor. Ce dernier peut demander à la SGFGAS d'effectuer en cours d'année des contrôles ne figurant pas sur le programme annuel.
 
 La SGFGAS alloue les moyens nécessaires à la réalisation de ces contrôles.
 
-Le programme de contrôle et les rapports de contrôle sont confidentiels. Ils ne peuvent être communiqués, outre l'établissement de crédit concerné et le cas échéant l'organe central du réseau auquel il appartient, qu'au directeur général du Trésor et de la politique économique et au directeur de l'habitat, de l'urbanisme et des paysages qui peuvent en autoriser conjointement une diffusion plus large.
+Le programme de contrôle et les rapports de contrôle sont confidentiels. Ils ne peuvent être communiqués, outre l'établissement de crédit concerné et le cas échéant l'organe central du réseau auquel il appartient, qu'au directeur général du Trésor et au directeur de l'habitat, de l'urbanisme et des paysages qui peuvent en autoriser conjointement une diffusion plus large.
 
 f) La SGFGAS transmet à l'Etat les informations comptables et statistiques sur les crédits d'impôt dus aux établissements de crédit, dans les conditions prévues à l'annexe 1.
 
@@ -143,11 +143,11 @@ Il est créé un comité de suivi, composé des deux commissaires du Gouvernemen
 
 Le comité est tenu informé :
 
--des éléments statistiques relatifs aux offres et à la mise en force des éco-prêts à taux zéro ;
+- des éléments statistiques relatifs aux offres et à la mise en force des éco-prêts à taux zéro ;
 
--des moyens mis en œuvre par la SGFGAS pour assurer son obligation de contrôle ;
+- des moyens mis en œuvre par la SGFGAS pour assurer son obligation de contrôle ;
 
--des diligences effectuées par la SGFGAS pour assurer le suivi des crédits d'impôt en cas de non-respect des dispositions légales ou réglementaires par les établissements de crédit et, le cas échéant, par les bénéficiaires de l'avance, en application de l'article R. 319-13 du code de la construction et de l'habitation.
+- des diligences effectuées par la SGFGAS pour assurer le suivi des crédits d'impôt en cas de non-respect des dispositions légales ou réglementaires par les établissements de crédit et, le cas échéant, par les bénéficiaires de l'avance, en application de l'article R. 319-13 du code de la construction et de l'habitation.
 
 Article 7
 
@@ -177,7 +177,7 @@ Pour l'application de la mission confiée, en application de la présente conven
 
 Article 10
 
-Durée.-Résiliation. - Modifications
+Durée. - Résiliation.-Modifications
 
 La présente convention est valable jusqu'au 31 décembre 2013.
 
@@ -203,9 +203,7 @@ de l'industrie et de l'emploi
 
 et par délégation :
 
-Le directeur général du Trésor
-
-et de la politique économique,
+Le directeur général du Trésor,
 
 R. Fernandez
 

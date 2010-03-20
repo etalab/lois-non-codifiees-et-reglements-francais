@@ -124,6 +124,7 @@
 - [Décret n°2009-1561 du 14 décembre 2009 (ECET0916881D)](decret-n2009-1561-du-14-decembre-2009-ecet0916881d)
 - [Décret n°2010-51 du 14 janvier 2010 (PRMD0924728D)](decret-n2010-51-du-14-janvier-2010-prmd0924728d)
 - [Décret n°2010-53 du 14 janvier 2010 (BCFB0929417D)](decret-n2010-53-du-14-janvier-2010-bcfb0929417d)
+- [Décret n°2004-1203 du 15 novembre 2004 (ECOP0400825D)](decret-n2004-1203-du-15-novembre-2004-ecop0400825d)
 - [Décret n°2009-1239 du 15 octobre 2009 (JUSA0922279D)](decret-n2009-1239-du-15-octobre-2009-jusa0922279d)
 - [Décret n°2010-147 du 15 février 2010 (MCCB0907718D)](decret-n2010-147-du-15-fevrier-2010-mccb0907718d)
 - [Décret n°2010-271 du 15 mars 2010 (SASH1005637D)](decret-n2010-271-du-15-mars-2010-sash1005637d)

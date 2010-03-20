@@ -16,7 +16,7 @@ La direction générale des finances publiques exerce les missions suivantes :
 
 7° Elle élabore les règles et les procédures en matière d'acquisition, de gestion et de cession des biens domaniaux dans le respect des dispositions du décret du 29 avril 2004 susvisé, d'établissement de l'assiette et de contrôle des redevances domaniales ainsi que de recouvrement des produits domaniaux de toute nature, et veille à leur mise en œuvre ;
 
-8° En liaison avec la direction générale du Trésor et de la politique économique, elle élabore les règles et les procédures relatives à la gestion de la dette publique, à l'exécution des opérations de trésorerie de l'Etat, ainsi qu'à la réalisation d'opérations de collecte de l'épargne au profit de l'Etat et des correspondants du Trésor, et veille à leur mise en œuvre ;
+8° En liaison avec la direction générale du Trésor, elle élabore les règles et les procédures relatives à la gestion de la dette publique, à l'exécution des opérations de trésorerie de l'Etat, ainsi qu'à la réalisation d'opérations de collecte de l'épargne au profit de l'Etat et des correspondants du Trésor, et veille à leur mise en œuvre ;
 
 9° Elle élabore et veille à la mise en œuvre des règles et procédures relatives à la vérification de l'utilisation des fonds publics ;
 

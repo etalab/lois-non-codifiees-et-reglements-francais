@@ -338,7 +338,7 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 <tr>
 <td align="center">Direction générale des entreprises <br/>
 </td>
-<td align="center">Secrétaire général de la              direction régionale de l'environnement, de l'aménagement et du logement  du Centre <br/>
+<td align="center">Secrétaire général de la direction régionale de l'environnement, de l'aménagement et du logement du Centre <br/>
 </td>
 </tr>
 <tr>
@@ -667,29 +667,29 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 <tr>
 <td align="center">Direction du tourisme <br/>
 </td>
-<td align="center">Délégué régional au tourisme en Ile-de-France <br/>
+<td align="center">Délégué régional au tourisme en Ile-de-France<br/>
 </td>
 </tr>
 <tr>
-<td align="center">Direction générale du Trésor et de la politique économique <br/>
+<td align="center">        direction générale du Trésor <br/>
 </td>
-<td align="center">Adjoint au chef du bureau marchés et produits d'assurance <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Direction générale du Trésor et de la politique économique <br/>
-</td>
-<td align="center">Adjoint au chef du bureau aide au développement et institutions multilatérales de développement <br/>
+<td align="center">Adjoint au chef du bureau marchés et produits d'assurance<br/>
 </td>
 </tr>
 <tr>
-<td align="center">Direction générale du Trésor et de la politique économique <br/>
+<td align="center">        direction générale du Trésor <br/>
 </td>
-<td align="center">Adjoint au chef du bureau coopération monétaire et développement avec pays ACP zone franc <br/>
+<td align="center">Adjoint au chef du bureau aide au développement et institutions multilatérales de développement<br/>
 </td>
 </tr>
 <tr>
-<td align="center">Direction générale du Trésor et de la politique économique <br/>
+<td align="center">        direction générale du Trésor <br/>
+</td>
+<td align="center">Adjoint au chef du bureau coopération monétaire et développement avec pays ACP zone franc<br/>
+</td>
+</tr>
+<tr>
+<td align="center">        direction générale du Trésor <br/>
 </td>
 <td align="center">Adjoint au chef du bureau services, investissements et propriété intellectuelle <br/>
 </td>

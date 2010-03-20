@@ -8,11 +8,11 @@ Le comité comprend :
 
 ― le directeur de l'agence ou son représentant, président ;
 
-― le secrétaire général de la direction générale du Trésor et de la politique économique ou son représentant ;
+― le secrétaire général de la        direction générale du Trésor ou son représentant ;
 
-― le sous-directeur du développement international des entreprises à la direction générale du Trésor et de la politique économique ou son représentant ;
+― le sous-directeur du développement international des entreprises à la        direction générale du Trésor ou son représentant ;
 
-― le chef du bureau de la promotion commerciale et des partenaires de l'exportation à la direction générale du Trésor et de la politique économique ou son représentant ;
+― le chef du bureau de la promotion commerciale et des partenaires de l'exportation à la        direction générale du Trésor ou son représentant ;
 
 ― deux représentants de chacun des établissements publics susmentionnés.
 

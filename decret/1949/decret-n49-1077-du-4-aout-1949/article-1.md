@@ -4,11 +4,11 @@ La commission des garanties et du crédit au commerce extérieur, constituée en
 
 A titre de membres permanents, avec voix délibérative :
 
-le directeur général du Trésor et de la politique économique ou son représentant au ministère des finances et des affaires économiques, président ;
+le        directeur général du Trésor ou son représentant au ministère des finances et des affaires économiques, président ;
 
 le directeur des finances extérieures au ministère des finances et des affaires économiques ;
 
-le directeur général du Trésor et de la politique économique ou son représentant au ministère des finances et des affaires économiques ;
+le        directeur général du Trésor ou son représentant au ministère des finances et des affaires économiques ;
 
 un représentant du ministère des affaires étrangères ;
 

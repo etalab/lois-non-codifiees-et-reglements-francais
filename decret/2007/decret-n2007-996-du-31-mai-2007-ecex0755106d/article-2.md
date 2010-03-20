@@ -6,7 +6,7 @@ I.-Le ministre de l'économie, des finances et de l'emploi a autorité sur :
 
 -le Conseil général des technologies de l'information ;
 
--la direction générale du Trésor et de la politique économique ;
+-la        direction générale du Trésor ;
 
 -la direction générale de l'Institut national de la statistique et des études économiques ;
 
@@ -42,7 +42,7 @@ II.-Conjointement avec le ministre du budget, des comptes publics et de la fonct
 
 -le service à compétence nationale " TRACFIN ".
 
-III.-Conjointement avec le ministre du travail, des relations sociales et de la solidarité, il a autorité sur la direction de l'animation de la recherche, des études et de la statistique, ainsi que sur la                 direction générale de la cohésion sociale .
+III.-Conjointement avec le ministre du travail, des relations sociales et de la solidarité, il a autorité sur la direction de l'animation de la recherche, des études et de la statistique, ainsi que sur la direction générale de la cohésion sociale.
 
 IV.-Il a autorité sur la direction générale de la compétitivité, de l'industrie et des services conjointement avec le ministre d'Etat, ministre de l'écologie, du développement et de l'aménagement durables, pour l'exercice des attributions de ce dernier en matière de sécurité industrielle.
 

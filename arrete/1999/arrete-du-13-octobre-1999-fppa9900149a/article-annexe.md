@@ -1180,7 +1180,7 @@ La chaîne de la dépense.
 
 4. 6. Les acteurs des finances de l'Etat.
 
-L'exécutif : les autorités politiques (Premier ministre, ministre chargé du budget), le rôle consultatif du Conseil d'Etat, l'administration des finances publiques (direction du budget, direction générale du Trésor et de la politique économique, direction générale des finances publiques, direction générale des douanes et droits indirects), les services déconcentrés des administrations financières.
+L'exécutif : les autorités politiques (Premier ministre, ministre chargé du budget), le rôle consultatif du Conseil d'Etat, l'administration des finances publiques (direction du budget,        direction générale du Trésor, direction générale des finances publiques, direction générale des douanes et droits indirects), les services déconcentrés des administrations financières.
 
 Le Parlement : les commissions des finances, les rapporteurs généraux du budget, les rapporteurs spéciaux et pour avis.
 
@@ -2140,7 +2140,7 @@ La chaîne de la dépense.
 
 4. 6. Les acteurs des finances de l'Etat.
 
-L'exécutif : les autorités politiques (Premier ministre, ministre chargé du budget), le rôle consultatif du Conseil d'Etat, l'administration des finances publiques (direction du budget, direction générale du Trésor et de la politique économique, direction générale des finances publiques, direction générale des douanes et droits indirects), les services déconcentrés des administrations financières.
+L'exécutif : les autorités politiques (Premier ministre, ministre chargé du budget), le rôle consultatif du Conseil d'Etat, l'administration des finances publiques (direction du budget,        direction générale du Trésor, direction générale des finances publiques, direction générale des douanes et droits indirects), les services déconcentrés des administrations financières.
 
 Le Parlement : les commissions des finances, les rapporteurs généraux du budget, les rapporteurs spéciaux et pour avis.
 

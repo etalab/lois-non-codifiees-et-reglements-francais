@@ -6,7 +6,7 @@ Il comprend également :
 
 1° Le directeur général des finances publiques ou son représentant ;
 
-2° Le directeur général du Trésor et de la politique économique ou son représentant ;
+2° Le        directeur général du Trésor ou son représentant ;
 
 3° Le directeur général de la concurrence, de la consommation et de la répression des fraudes ou son représentant ;
 

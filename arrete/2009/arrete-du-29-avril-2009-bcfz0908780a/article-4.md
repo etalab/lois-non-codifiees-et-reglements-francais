@@ -16,7 +16,7 @@ Les membres de droit sont :
 
 ― le directeur de la sécurité sociale ou son représentant ;
 
-― le directeur général du Trésor et de la politique économique ou son représentant ;
+― le        directeur général du Trésor ou son représentant ;
 
 ― le directeur général des finances publiques ou son représentant ;
 

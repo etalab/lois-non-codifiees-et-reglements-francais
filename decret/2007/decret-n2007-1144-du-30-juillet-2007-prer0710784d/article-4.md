@@ -18,7 +18,7 @@ Le directeur général des affaires politiques et de sécurité.
 
 c.-Ministère de l'économie, des finances et de l'emploi :
 
-Le directeur général du trésor et de la politique économique.
+Le        directeur général du Trésor.
 
 d.-Ministère de l'enseignement supérieur et de la recherche :
 
@@ -58,7 +58,7 @@ Mme Thérèse Delpech, directrice des affaires stratégiques au Commissariat à 
 
 M. Jean-Martin Folz, ancien président-directeur général de PSA Peugeot Citroën ;
 
-M. le général de corps d'armée Pierre Garrigou-Grandchamp,         directeur des ressources humaines de l'armée de terre  ;
+M. le général de corps d'armée Pierre Garrigou-Grandchamp, directeur des ressources humaines de l'armée de terre ;
 
 M. François Heisbourg, conseiller spécial, Fondation pour la recherche stratégique ;
 

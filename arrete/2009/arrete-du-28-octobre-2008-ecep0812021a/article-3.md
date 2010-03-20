@@ -2,7 +2,7 @@
 
 I. ― A. ― L'Agence de gestion du réseau international des finances est chargée de la gestion des services du ministère de l'économie, de l'industrie et de l'emploi suivants :
 
-― services économiques  dépendant de la direction générale du Trésor et de la politique économique ;
+― services économiques dépendant de la        direction générale du Trésor ;
 
 ― service attaché à la délégation permanente de la France auprès de l'Organisation mondiale du commerce ;
 
@@ -20,7 +20,7 @@ B. ― Pour le compte des services de l'Etat mentionnés au A, l'agence assure l
 
 ― mise en œuvre de la politique informatique, en liaison avec la direction des personnels et de l'adaptation de l'environnement professionnel.
 
-En outre, l'agence met en œuvre la politique informatique des services centraux de la direction générale du Trésor et de la politique économique.
+En outre, l'agence met en œuvre la politique informatique des services centraux de la        direction générale du Trésor.
 
 II. ― Agissant pour le compte de l'Agence française pour le développement international des entreprises (Ubifrance) et de l'Agence française pour les investissements internationaux (AFII) sur décision en ce sens de leur conseil d'administration, l'Agence de gestion du réseau international des finances peut, en appui de ces deux établissements publics, exercer, au profit de leurs réseaux à l'étranger, les missions suivantes :
 
