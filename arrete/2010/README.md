@@ -797,6 +797,7 @@
 - [Arrêté du 29 juin 2007 (BCFF0756759A)](arrete-du-29-juin-2007-bcff0756759a)
 - [Arrêté du 29 juin 2009 (SASS0914685A)](arrete-du-29-juin-2009-sass0914685a)
 - [Arrêté du 29 novembre 2001 (EQUP0101503A)](arrete-du-29-novembre-2001-equp0101503a)
+- [Arrêté du 29 novembre 2004 (SOCF0412389A)](arrete-du-29-novembre-2004-socf0412389a)
 - [Arrêté du 29 septembre 2009 (MENH0920379A)](arrete-du-29-septembre-2009-menh0920379a)
 - [Arrêté du 30 décembre 2009 (AGRT0918611A)](arrete-du-30-decembre-2009-agrt0918611a)
 - [Arrêté du 30 décembre 2009 (BCFL0929446A)](arrete-du-30-decembre-2009-bcfl0929446a)
