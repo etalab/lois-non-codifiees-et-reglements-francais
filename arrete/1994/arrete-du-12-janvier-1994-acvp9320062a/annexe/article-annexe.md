@@ -2,81 +2,119 @@
 
 Services ouvrant droit au bénéfice des dispositions de l'article L. 253 ter du code des pensions militaires d'invaladité et des victimes de la guerre
 
+.
+
 <table>
 <tbody>
 <tr>
 <td>
-<p align="center">
-<strong>Etat ou territoires concernés </strong>
-</p>
+<p align="center">Etat ou territoires concernés </p>
 </td>
 <td>
-<p align="center">
-<strong>Début de période</strong>
-</p>
+<p align="center">Début de période </p>
 </td>
 <td>
+<p align="center">Fin de période </p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
 <p align="center">
-<strong>Fin de période</strong>
+<b>Afghanistan</b>
 </p>
 </td>
 </tr>
 <tr>
-<td>Afghanistan, pays et eaux avoisinants, notamment le Kirghizstan <p>Opérations Héraclès, Pamir et Epidote </p>
+<td>
+<p>Afghanistan, pays et eaux avoisinants, notamment le Kirghizstan </p>
+<p>Opérations Héraclès, Pamir et Epidote </p>
 </td>
 <td>
 <p align="center">3 octobre 2001</p>
 </td>
 <td>
-<p align="center">2 octobre 2009</p>
+<p align="center">2 octobre 2011</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p align="center">
+<b>Bosnie-Herzégovine</b>
+</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">Cambodge et ses pays limitrophes, leurs approches maritimes et aériennes.</p>
+<p>Dans le cadre de l'opération menée au titre la mission de police de l'Union européenne (MPUE) en Bosnie-Herzégovine </p>
+</td>
+<td>
+<p align="center">1er janvier 2003</p>
+</td>
+<td>
+<p align="center">31 décembre 2009</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p align="center">
+<b>Cambodge</b>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cambodge et ses pays limitrophes, leurs approches maritimes et aériennes.</p>
 </td>
 <td>
 <p align="center">1er novembre 1991</p>
 </td>
 <td>
-<p align="center">En cours</p>
+<p align="center">31 octobre 1994</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p align="center">
+<b>Cameroun</b>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4">
+<p>Régions de Wouri, Mungo, N'Kam, Bamiléké, Kribi, N'Tem, Sanaga maritime, Nyong et Kéllé, Nyong et Sanaga, Djà et Lobo.</p>
+<br/>
+</td>
+<td colspan="2">
+<p align="center">1re période</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">Régions de Wouri, Mungo, N'Kam, Bamiléké, Kribi, N'Tem, Sanaga maritime, Nyong et Kéllé, Nyong et Sanaga, Djà et Lobo.</p>
-</td>
-<td>
-<p align="center">
-<em>1re période</em>
-</p>
 <p align="center">17 décembre 1956</p>
 </td>
 <td>
-<br/>
-<p align="center">
-<em>1re période</em>
-</p>
 <p align="center">31 décembre 1958</p>
 </td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
+<p align="center">2e période</p>
 <br/>
 </td>
+</tr>
+<tr>
 <td>
-<br/>
-<p align="center">
-<em>2e période</em>
-</p>
 <p align="center">1er juin 1959</p>
 </td>
 <td>
-<br/>
-<p align="center">
-<em>2e période</em>
-</p>
 <p align="center">28 mars 1963</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p align="center">
+<b>Congo</b>
+</p>
 </td>
 </tr>
 <tr>
@@ -91,39 +129,42 @@ Services ouvrant droit au bénéfice des dispositions de l'article L. 253 ter du
 </td>
 </tr>
 <tr>
+<td colspan="3">
+<p align="center">
+<b>Côte d'Ivoire</b>
+</p>
+</td>
+</tr>
+<tr>
 <td>
-<p align="center">Côte d'ivoire, ses approches maritimes et le territoire du Togo, opération Licorne et Calao (ONUCI)</p>
+<p>Côte d'Ivoire, ses approches maritimes </p>
+<p>Opérations Licorne et Calao (ONUCI) </p>
 </td>
 <td>
 <p align="center">19 septembre 2002</p>
 </td>
 <td>
-<p align="center">18 septembre 2008</p>
+<p align="center">17 septembre 2010</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">Gabon</p>
+<p align="center">
+<b>Gabon</b>
+</p>
 </td>
 <td>
 <p align="center">2 juin 2003</p>
 </td>
 <td>
-<p align="center">1er juin 2009</p>
+<p align="center">1er juin 2011</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">Golfe Persique et golfe d'Oman</p>
+<td colspan="3">
 <p align="center">
-<br/>
+<b>Golfe Persique et golfe d'Oman</b>
 </p>
-</td>
-<td>
-<br/>
-</td>
-<td>
-<br/>
 </td>
 </tr>
 <tr>
@@ -132,9 +173,6 @@ Services ouvrant droit au bénéfice des dispositions de l'article L. 253 ter du
 </td>
 <td>
 <p align="center">30 juillet 1987</p>
-<p align="center">
-<br/>
-</p>
 </td>
 <td>
 <p align="center">29 juillet 2003</p>
@@ -142,7 +180,8 @@ Services ouvrant droit au bénéfice des dispositions de l'article L. 253 ter du
 </tr>
 <tr>
 <td>
-<br/>Opérations militaires</td>
+<p>Opérations militaires</p>
+</td>
 <td>
 <p align="center">30 juillet 1990</p>
 </td>
@@ -151,27 +190,45 @@ Services ouvrant droit au bénéfice des dispositions de l'article L. 253 ter du
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">Irak</p>
+<td colspan="3">
+<p align="center">
+<b>Irak</b>
+</p>
 </td>
-<td/>
-<td/>
 </tr>
 <tr>
 <td>
-<p align="center">Frontières irano-irakienne (opération Ramure) et turko-irakienne (opération Libage).</p>
+<p>Frontières irano-irakienne (opération Ramure) et turko-irakienne (opération Libage).</p>
 </td>
-<td>
+<td colspan="2">
 <br/>
 <p align="center">A compter du 1er avril 1991 et jusqu'à cessation des hostilités</p>
-</td>
-<td>
 <br/>
 </td>
 </tr>
 <tr>
+<td colspan="3">
+<p align="center">
+<b>Kosovo</b>
+</p>
+</td>
+</tr>
+<tr>
 <td>
-<p align="center">Liban</p>
+<p>Dans le cadre de l'opération menée au titre de la mission des Nations unies au Kosovo (MINUK) </p>
+</td>
+<td>
+<p align="center">10 juin 1999</p>
+</td>
+<td>
+<p align="center">9 juin 2009</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">
+<b>Liban</b>
+</p>
 </td>
 <td>
 <p align="center">22 mars 1978</p>
@@ -182,19 +239,22 @@ Services ouvrant droit au bénéfice des dispositions de l'article L. 253 ter du
 </tr>
 <tr>
 <td>
-<p align="center">République du Liban et Isarël, et leurs eaux avoisinantes, opérations Daman (FINUL) et Baliste </p>
+<p>
+<b>République du Liban et Israël</b>, pays et leurs eaux avoisinantes </p>
+<p>Opérations Daman (FINUL) et Baliste </p>
 </td>
 <td>
 <p align="center">2 septembre 2006</p>
 </td>
 <td>
-<p align="center">1er septembre 2008</p>
+<p align="center">31 août 2010</p>
 </td>
 </tr>
 <tr>
 <td>
-<br/>
-<p align="center">Madagascar </p>
+<p align="center">
+<b>Madagascar </b>
+</p>
 </td>
 <td>
 <p align="center">30 mars 1947</p>
@@ -204,42 +264,44 @@ Services ouvrant droit au bénéfice des dispositions de l'article L. 253 ter du
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="center">Mauritanie </p>
-</td>
-<td>
+<td rowspan="4">
 <p align="center">
-<em>1re période :</em>
+<b>Mauritanie</b>
 </p>
-<p align="center">1er janvier 1957</p>
+<br/>
 </td>
-<td>
-<p align="center">
-<em>1re période</em> :</p>
-<p align="center">31 décembre 1959</p>
+<td colspan="2">
+<p align="center">1re période :</p>
+<br/>
 </td>
 </tr>
 <tr>
 <td>
-<br/>
+<p align="center">1er janvier 1957</p>
 </td>
 <td>
-<p align="center">
-<em>2e période</em>
-</p>
+<p align="center">31 décembre 1959</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center">2e période</p>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
 <p align="center">1er novembre 1977</p>
 </td>
 <td>
-<p align="center">
-<em>2e période</em>
-</p>
 <p align="center">30 octobre 1980</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">Méditerranée orientale (Suez) </p>
+<p align="center">
+<b>Méditerranée orientale (Suez) </b>
+</p>
 </td>
 <td>
 <p align="center">30 octobre 1956</p>
@@ -250,75 +312,138 @@ Services ouvrant droit au bénéfice des dispositions de l'article L. 253 ter du
 </tr>
 <tr>
 <td>
-<p align="center">Ouganda </p>
+<p align="center">
+<b>Ouganda </b>
+</p>
 </td>
 <td>
 <p align="center">2 juin 2003</p>
 </td>
 <td>
-<p align="center">1er juin 2009</p>
+<p align="center">1er juin 2011</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p align="center">
+<b>République centrafricaine</b>
+</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">République centrafricaine, opération Boali</p>
+<p>1re période</p>
 </td>
 <td>
-<p align="center">
-<em>1re période</em>
-</p>
 <p align="center">20 septembre 1979</p>
 </td>
 <td>
-<p align="center">
-<em>1re période</em>
-</p>
 <p align="center">19 septembre 1982</p>
 </td>
 </tr>
 <tr>
 <td>
-<br/>
+<p>2e période </p>
 </td>
 <td>
-<p align="center">
-<em>2e période</em>
-</p>
 <p align="center">18 mai 1996</p>
 </td>
 <td>
-<p align="center">
-<em>2e période</em>
-</p>
 <p align="center">17 mai 1999</p>
 </td>
 </tr>
 <tr>
 <td>
-<br/>
+<p>3e période </p>
+<p>Opération Boali </p>
 </td>
 <td>
-<p align="center">
-<em>3e période</em>
-</p>
 <p align="center">3 décembre 2002</p>
 </td>
 <td>
-<p align="center">
-<em>3e période</em>
-</p>
-<p align="center">2 décembre 2008</p>
+<p align="center">2 décembre 2010</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">République démocratique du Congo</p>
+<p>Dans le cadre de l'opération menée au titre de la police des Nations unies (MINURCAT) </p>
+</td>
+<td colspan="2"/>
+</tr>
+<tr>
+<td>
+<p>1re période </p>
+</td>
+<td>
+<p align="center">25 septembre 2007 </p>
+</td>
+<td>
+<p align="center">24 septembre 2008 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2e période </p>
+</td>
+<td>
+<p align="center">15 mars 2009 </p>
+</td>
+<td>
+<p align="center">14 mars 2011 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Dans le cadre de l'opération EUFOR Tchad / RCA sur le territoire du Tchad, de la République centrafricaine et pays avoisinants </p>
+</td>
+<td>
+<p align="center">28 janvier 2009 </p>
+</td>
+<td>
+<p align="center">27 janvier 2011 </p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p align="center">
+<b>Rwanda</b>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Territoire du Rwanda et pays limitrophes</p>
+</td>
+<td>
+<p align="center">15 juin 1994</p>
+</td>
+<td>
+<p align="center">14 juin 1997</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p align="center">
+<b>République démocratique du Congo </b>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Opérations Mamba et MONUC </p>
 </td>
 <td>
 <p align="center">2 juin 2003</p>
 </td>
 <td>
-<p align="center">1er juin 2009</p>
+<p align="center">1er juin 2011</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p align="center">
+<b>Somalie</b>
+</p>
 </td>
 </tr>
 <tr>
@@ -329,12 +454,14 @@ Services ouvrant droit au bénéfice des dispositions de l'article L. 253 ter du
 <p align="center">3 décembre 1992</p>
 </td>
 <td>
-<p align="center">En cours</p>
+<p align="center">2 décembre 1995</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">Tchad et pays avoisinants, notamment le Cameroun </p>
+<p align="center">
+<b>Tchad et pays avoisinants</b>
+</p>
 </td>
 <td>
 <p align="center">15 mars 1969</p>
@@ -345,7 +472,48 @@ Services ouvrant droit au bénéfice des dispositions de l'article L. 253 ter du
 </tr>
 <tr>
 <td>
-<p align="center">Timor Oriental</p>
+<p>Dans le cadre de l'opération menée au titre de la police des Nations unies (MINURCAT)</p>
+</td>
+<td colspan="2"/>
+</tr>
+<tr>
+<td>
+<p>1re période </p>
+</td>
+<td>
+<p align="center">25 septembre 2007 </p>
+</td>
+<td>
+<p align="center">24 septembre 2008 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2e période </p>
+</td>
+<td>
+<p align="center">15 mars 2009</p>
+</td>
+<td>
+<p align="center">14 mars 2011 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Dans le cadre de l'opération EUFOR Tchad / RCA sur le territoire du Tchad, de la République Centrafricaine et pays avoisinants </p>
+</td>
+<td>
+<p align="center">28 janvier 2009 </p>
+</td>
+<td>
+<p align="center">27 janvier 2011 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">
+<b>Timor Oriental</b>
+</p>
 </td>
 <td>
 <p align="center">16 septembre 1999</p>
@@ -355,12 +523,30 @@ Services ouvrant droit au bénéfice des dispositions de l'article L. 253 ter du
 </td>
 </tr>
 <tr>
+<td colspan="3">
+<p align="center">
+<b>Ex-Yougoslavie</b>
+</p>
+</td>
+</tr>
+<tr>
 <td>
-<br/>
-<p align="center">Yougoslavie, pays et eaux avoisinantes </p>
+<p>Yougoslavie, Slovénie, Croatie, pays limitrophes et eaux avoisinantes</p>
 </td>
 <td>
 <p align="center">1er janvier 1992</p>
+</td>
+<td>
+<p align="center">31 décembre 1994</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Forces multinationales en ex-Yougoslavie, pays limitrophes et eaux avoisinantes </p>
+<p>Opérations Trident, Astrée et Proxima </p>
+</td>
+<td>
+<p align="center">1er janvier 1995 </p>
 </td>
 <td>
 <p align="center">31 décembre 2009</p>
@@ -369,7 +555,9 @@ Services ouvrant droit au bénéfice des dispositions de l'article L. 253 ter du
 <tr>
 <td>
 <br/>
-<p align="center">Zaïre (ex-Congo belge) </p>
+<p align="center">
+<b>Zaïre (ex-Congo belge) </b>
+</p>
 </td>
 <td>
 <p align="center">13 mai 1978</p>
