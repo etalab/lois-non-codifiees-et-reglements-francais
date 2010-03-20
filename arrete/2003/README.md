@@ -236,7 +236,6 @@
 - [Arrêté du 8 décembre 2003 (DEFM0302437A)](arrete-du-8-decembre-2003-defm0302437a)
 - [Arrêté du 8 décembre 2003 (DEVP0320406A)](arrete-du-8-decembre-2003-devp0320406a)
 - [Arrêté du 8 décembre 2003 (JUSG0360050A)](arrete-du-8-decembre-2003-jusg0360050a)
-- [Arrêté du 8 janvier 2003 (EQUP0201928A)](arrete-du-8-janvier-2003-equp0201928a)
 - [Arrêté du 8 janvier 2003 (EQUU0201976A)](arrete-du-8-janvier-2003-equu0201976a)
 - [Arrêté du 8 juillet 2003 (DEFE0301812A)](arrete-du-8-juillet-2003-defe0301812a)
 - [Arrêté du 8 juillet 2003 (DEVD0320070A)](arrete-du-8-juillet-2003-devd0320070a)
