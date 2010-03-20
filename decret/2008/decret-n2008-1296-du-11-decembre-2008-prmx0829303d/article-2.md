@@ -2,7 +2,7 @@
 
 Dans la limite de ses attributions, le ministre auprès du Premier ministre, chargé de la mise en œuvre du plan de relance, a autorité sur les services et directions d'administration centrale suivants :
 
-― la direction générale du Trésor et de la politique économique ;
+― la        direction générale du Trésor ;
 
 ― la direction générale des finances publiques ;
 
@@ -24,7 +24,7 @@ Dans la limite de ses attributions, le ministre auprès du Premier ministre, cha
 
 ― la direction générale des patrimoines ;
 
-― la           direction générale de l'offre de soins ;
+― la direction générale de l'offre de soins ;
 
 ― la secrétariat général du comité interministériel des villes ;
 
