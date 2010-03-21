@@ -582,7 +582,6 @@
 - [Arrêté du 20 décembre 1993 (LOGC9300105A)](arrete-du-20-decembre-1993-logc9300105a)
 - [Arrêté du 20 décembre 1993 (LOGC9300106A)](arrete-du-20-decembre-1993-logc9300106a)
 - [Arrêté du 20 décembre 1993 (TEFF9301266A)](arrete-du-20-decembre-1993-teff9301266a)
-- [Arrêté du 20 janvier 1993 (AGRP9300117A)](arrete-du-20-janvier-1993-agrp9300117a)
 - [Arrêté du 20 janvier 1993 (DEFP9202249A)](arrete-du-20-janvier-1993-defp9202249a)
 - [Arrêté du 20 janvier 1993 (EQUA9300109A)](arrete-du-20-janvier-1993-equa9300109a)
 - [Arrêté du 20 janvier 1993 (INTE9300062A)](arrete-du-20-janvier-1993-inte9300062a)
