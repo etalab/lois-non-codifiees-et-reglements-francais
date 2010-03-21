@@ -1074,7 +1074,6 @@
 - [Arrêté du 28 juillet 2008 (DEFD0818731A)](arrete-du-28-juillet-2008-defd0818731a)
 - [Arrêté du 28 juillet 2008 (DEVE0815595A)](arrete-du-28-juillet-2008-deve0815595a)
 - [Arrêté du 28 juillet 2008 (MCCL0811135A)](arrete-du-28-juillet-2008-mccl0811135a)
-- [Arrêté du 28 juillet 2008 (MCCL0818369A)](arrete-du-28-juillet-2008-mccl0818369a)
 - [Arrêté du 28 novembre 2008 (DEFH0809872A)](arrete-du-28-novembre-2008-defh0809872a)
 - [Arrêté du 28 novembre 2008 (DEFH0827462A)](arrete-du-28-novembre-2008-defh0827462a)
 - [Arrêté du 28 novembre 2008 (DEFH0827463A)](arrete-du-28-novembre-2008-defh0827463a)
