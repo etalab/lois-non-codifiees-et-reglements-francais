@@ -1,3 +1,3 @@
 # Article 2
 
-L'indemnité pouvant être allouée au président de la commission a un caractère forfaitaire et mensuel.
+Les indemnités pouvant être allouées au président et au vice-président de la commission ont un caractère forfaitaire et mensuel.
