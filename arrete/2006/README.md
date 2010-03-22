@@ -230,6 +230,7 @@
 - [Arrêté du 22 mars 2006 (AGRF0600700A)](arrete-du-22-mars-2006-agrf0600700a)
 - [Arrêté du 22 mars 2006 (JUSC0620195A)](arrete-du-22-mars-2006-jusc0620195a)
 - [Arrêté du 22 mars 2006 (JUSC0620196A)](arrete-du-22-mars-2006-jusc0620196a)
+- [Arrêté du 22 mars 2006 (PRMX0609192A)](arrete-du-22-mars-2006-prmx0609192a)
 - [Arrêté du 22 novembre 2006 (PRMX0609706A)](arrete-du-22-novembre-2006-prmx0609706a)
 - [Arrêté du 23 décembre 2006 (SANS0624760A)](arrete-du-23-decembre-2006-sans0624760a)
 - [Arrêté du 23 décembre 2006 (SOCU0612273A)](arrete-du-23-decembre-2006-socu0612273a)

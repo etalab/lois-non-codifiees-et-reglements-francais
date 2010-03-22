@@ -1046,6 +1046,8 @@ Regularc, 2, place Albert-Blanc, 13600 Ceyrette : de 1973 à 1996 ;
 
 SA Maison Faure/Faure SA, route de Marseille, 04100 Manosque, de 1965 à 1996 ;
 
+Saint-Gobain Industrie, puis Isover Saint-Gobain, Usine d'Orange, 235, rue du Portugal, ZI, BP 202, 84107 Orange Cedex : de 1972 à 1996 ;
+
 SARL Méditerranéenne d'isolation et d'ignifugeage : 25, rue Roger-Deschamps, 13730 Saint-Victoret : depuis sa création ;
 
 Société des anciens établissements A.-Devries, ZI les Paluds, 13400 Aubagne : de 1958 à 1976 ;
