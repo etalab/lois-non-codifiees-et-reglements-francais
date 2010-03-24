@@ -10,4 +10,4 @@ formule dans laquelle :
 
 2° FM0ABE0000 est la dernière valeur définitive connue au 1er novembre précédant la date anniversaire de la prise d'effet du contrat d'achat de l'indice des prix à la production de l'industrie française pour le marché français ― ensemble de l'industrie ― A10 BE ― prix départ usine ;
 
-3° ICHTrev-TSo et FM0ABE0000o sont les dernières valeurs définitives connues à la date de prise d'effet du contrat d'achat.
+3° ICHTrev-TSo et FM0ABE0000o sont les dernières valeurs définitives connues au 1er novembre précédant la date de prise d'effet du contrat d'achat.
