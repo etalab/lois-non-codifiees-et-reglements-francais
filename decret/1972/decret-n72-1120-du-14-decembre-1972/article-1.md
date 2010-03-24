@@ -2,7 +2,9 @@
 
 Doit faire l'objet, préalablement à sa mise sous tension par un distributeur d'électricité, d'une attestation de conformité aux prescriptions de sécurité imposées par les règlements en vigueur pour le type d'installation considérée :
 
-- toute nouvelle installation électrique à caractère définitif située dans une construction nouvelle et alimentée sous une tension inférieure à 63 kilovolts ;
+- toute nouvelle installation électrique à caractère définitif raccordée au réseau public de distribution d'électricité ;
+
+- toute installation de production d'électricité d'une puissance inférieure à 250 kilovoltampères raccordée au réseau public de distribution d'électricité et requérant une modification de l'installation intérieure d'électricité ;
 
 - toute installation électrique entièrement rénovée alimentée sous une tension inférieure à 63 kilovolts, dès lors qu'il y a eu mise hors tension de l'installation par le distributeur à la demande de son client afin de permettre de procéder à cette rénovation.
 
@@ -10,7 +12,7 @@ Par installation électrique entièrement rénovée, on entend une installation 
 
 L'attestation établie et visée dans les conditions précisées aux articles 2 et 4 ci-après doit être remise au distributeur par l'abonné :
 
-- au moment de la souscription du contrat de fourniture d'énergie électrique dans le cas d'une installation nouvelle ;
+- au plus tard à la date de demande de mise en service du raccordement dans le cas d'une installation nouvelle ;
 
 - préalablement à la remise sous tension lorsqu'il y a eu rénovation totale d'une installation électrique avec mise hors tension de l'installation par le distributeur.
 
