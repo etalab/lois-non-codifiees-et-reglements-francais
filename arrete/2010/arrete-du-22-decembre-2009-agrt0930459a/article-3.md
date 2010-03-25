@@ -12,11 +12,11 @@ Les parcelles à arracher au cours de la campagne 2009-2010, en vue d'une restru
 
 ― l'identification des parcelles à arracher et leur descriptif.
 
-Cette demande doit parvenir à FranceAgriMer au plus tard le 31 janvier 2010.
+Cette demande doit parvenir à FranceAgriMer au plus tard le 30 avril 2010.
 
 Les droits issus de parcelles arrachées au cours de la campagne 2009-2010 qui n'ont pas fait l'objet du dépôt d'une demande préalable ne peuvent pas être utilisés pour une action de restructuration et de reconversion du vignoble.
 
-La superficie à arracher est déterminée conformément à l'article 75 du règlement (CE) n° 555/2008 susvisé. Lorsque le taux de pieds manquants dépasse 20 %, cette superficie est en outre réduite proportionnellement au taux de pieds manquants constaté.
+La superficie à arracher est déterminée conformément à l'article 75 du règlement (CE) n° 555 / 2008 susvisé. Lorsque le taux de pieds manquants dépasse 20 %, cette superficie est en outre réduite proportionnellement au taux de pieds manquants constaté.
 
 La superficie replantée à partir des droits issus des parcelles arrachées et pouvant bénéficier d'une aide à la restructuration et à la reconversion ne peut pas dépasser la superficie notifiée suite au contrôle de la demande préalable, sans préjudice de la réalisation effective de l'arrachage et du respect des conditions d'éligibilité.
 
