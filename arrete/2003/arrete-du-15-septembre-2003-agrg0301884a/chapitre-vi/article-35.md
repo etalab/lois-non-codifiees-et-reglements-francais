@@ -14,10 +14,6 @@ a) Les conditions définies au 1° ci-dessus continuent à être remplies ;
 
 b) Les caprins introduits dans ce troupeau proviennent directement d'un troupeau officiellement indemne de tuberculose ;
 
-3° Toutefois, la prophylaxie de la tuberculose caprine par intradermotuberculination est obligatoire pour tous les caprins âgés de six semaines et plus :
-
-- lorsque les caprins sont entretenus dans une exploitation comportant un troupeau de bovinés non indemne de tuberculose ;
-
-- lorsque les caprins produisent du lait livré au consommateur à l'état cru ou sous forme de produit au lait cru et qu'ils sont entretenus dans une exploitation comportant un troupeau de bovinés ;
+3° Toutefois, la prophylaxie de la tuberculose caprine par intradermotuberculination est obligatoire pour tous les caprins âgés de six semaines et plus lorsqu'ils sont entretenus dans une exploitation comportant un troupeau de bovinés non indemne de tuberculose.
 
 4° De plus, si la situation sanitaire de tout ou partie du département l'exige, le préfet, sur proposition du directeur départemental des services vétérinaires et après avis de la direction générale de l'alimentation (sous-direction de la santé et de la protection animales), peut prendre toutes dispositions complémentaires en matière de dépistage allergique de la maladie et de contrôle à l'introduction, afin de rendre plus efficiente l'épidémiovigilance vis-à-vis de la tuberculose caprine sur le territoire concerné.
