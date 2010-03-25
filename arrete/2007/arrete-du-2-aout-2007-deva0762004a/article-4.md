@@ -48,4 +48,10 @@ Jusqu'au 8 décembre 2014 :
 
 Paris - Tunis (Tunisie).
 
+Jusqu'au 1er mars 2015 :
+
+Lyon - Jijel (Algérie) ;
+
+Paris - Jijel (Algérie).
+
 II. - L'autorisation d'exploiter chacune des liaisons mentionnées au I du présent article peut être suspendue ou retirée dans les conditions prévues à l'article 9 de l'arrêté du 22 janvier 2007 susvisé.
