@@ -403,8 +403,6 @@
 - [Décret n°2003-1249 du 22 décembre 2003 (INDI0302033D)](decret-n2003-1249-du-22-decembre-2003-indi0302033d)
 - [Décret n°2003-1250 du 22 décembre 2003 (INDI0302034D)](decret-n2003-1250-du-22-decembre-2003-indi0302034d)
 - [Décret n°2003-1252 du 22 décembre 2003 (FPPA0310033D)](decret-n2003-1252-du-22-decembre-2003-fppa0310033d)
-- [Décret n°2003-672 du 22 juillet 2003 (FPPA0310021D)](decret-n2003-672-du-22-juillet-2003-fppa0310021d)
-- [Décret n°2003-673 du 22 juillet 2003 (FPPA0310022D)](decret-n2003-673-du-22-juillet-2003-fppa0310022d)
 - [Décret n°2003-675 du 22 juillet 2003 (AGRX0300008D)](decret-n2003-675-du-22-juillet-2003-agrx0300008d)
 - [Décret n°2003-686 du 22 juillet 2003 (SOCI0321330D)](decret-n2003-686-du-22-juillet-2003-soci0321330d)
 - [Décret n°2003-786 du 22 août 2003 (DEFX0300075D)](decret-n2003-786-du-22-aout-2003-defx0300075d)
