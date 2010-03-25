@@ -1,133 +1,151 @@
 # Article 
 
-**CONCOURS SUR ÉPREUVES ORGANISÉS AU TITRE DES ANNÉES 2009 ET SUIVANTES**
+**CONCOURS SUR ÉPREUVES**
 
 Nature, forme et programme des épreuves d'admission
 
-Le concours porte sur le programme de la classe de seconde générale et technologique défini par le ministère de l'éducation nationale.
+Le concours porte sur les notions communes aux programmes des classes de seconde générale et technologique, ainsi que de seconde professionnelle définis par le ministère de l'éducation nationale. Les acquis du collège font également partie des connaissances exigibles.
 
-I. ― Epreuve de mathématiques
+I. - Epreuve de sciences
 
-L'épreuve, visant à apprécier que le candidat possède les acquis suffisants en algèbre et en géométrie, comporte des exercices d'évaluation tels que :
+I-1. Mathématiques
 
-― observer et interpréter un graphique, une situation géométrique, un tableau de données ;
+La partie mathématique de l'épreuve visant à apprécier que le candidat possède les acquis suffisants en algèbre et en géométrie comporte des exercices d'évaluation tels que :
 
-― construire une figure géométrique, une courbe ;
+- observer et interpréter un graphique, une situation géométrique, un tableau de données ;
 
-― maîtriser les outils de base du calcul algébrique ;
+- construire une figure géométrique, une courbe ;
 
-― rédiger une démonstration : savoir utiliser les définitions, propriétés et théorèmes du cours en rapport avec une situation donnée.
+- maîtriser les outils de base du calcul algébrique ;
 
-Cette épreuve consiste à résoudre un ou plusieurs problèmes portant sur l'une des questions figurant au programme ci-après :
+- rédiger une démonstration : savoir utiliser les définitions, propriétés et théorèmes du cours en rapport avec une situation donnée.
 
-I-1. Calcul et fonctions
+La partie mathématique de cette épreuve consiste à résoudre plusieurs exercices portant sur des questions figurant au programme ci-après :
 
-Nature et écriture des nombres ; notations N Z D Q R ; représentation des nombres dans une calculatrice ; nombres premiers.
+I.-1. a) Calcul et fonctions.
 
-Ordre des nombres ; valeur absolue d'un nombre.
+Règles fondamentales du calcul : travail sur les fractions, les radicaux ; égalités sur les puissances ; identités remarquables.
 
-Fonctions.
+Transformations d'expressions algébriques en vue d'une résolution de problème ; factoriser, développer.
 
-Etude qualitative de fonctions ; fonction croissante ; fonction décroissante ; maximum, minimum d'une fonction sur un intervalle.
+Fonctions : image, antécédent ; courbe représentative.
 
-Premières fonctions de référence ; fonctions linéaires et fonctions affines.
+Etude qualitative de fonctions : fonction croissante, fonction décroissante ; maximum, minimum d'une fonction sur un intervalle.
 
-Fonctions et formules algébriques.
+Fonctions de référence : fonctions linéaires et fonctions affines ; fonction carré.
 
-Mise en équation ; résolution algébrique ; résolution graphique d'équations et d'inéquations.
+Equations : mise en équation d'un problème ; résolution graphique et algébrique d'équations ; résolution d'équations se ramenant au premier degré ; système de deux équations à deux inconnues.
 
-I-2. Géométrie
+Inéquations : résolution graphique et algébrique d'inéquations du premier degré à une inconnue.
 
-Géométrie dans l'espace ; positions relatives de droites et plans : règles d'incidence ; orthogonalité d'une droite et d'un plan.
+I-1. b) Géométrie.
 
-Les configurations du plan ; triangles isométriques, triangles de même forme.
+Droites : droite comme courbe représentative d'une fonction affine, équations de droites ; droites sécantes et systèmes.
 
-Repérage dans le plan ; multiplication d'un vecteur par un réel ; équations de droites ; système d'équations linéaires.
+Surfaces et solides usuels ; aires et volumes.
 
-I-3. Statistiques
+Configurations du plan : triangles, quadrilatères, cercles (utilisation de leurs propriétés pour résoudre des problèmes) ; théorème de Pythagore ; configuration de Thalès ; agrandissement et réduction.
 
-Résumé numérique par une ou plusieurs mesures de tendance centrale (moyenne, médiane, classe modale, moyenne élaguée) et une mesure de dispersion (on se restreindra en classe de seconde à l'étendue).
+I-1. c) Statistiques et probabilités.
 
-Définition de la distribution des fréquences d'une série prenant un petit nombre de valeurs et de la fréquence d'un événement.
+Représenter une série statistique graphiquement.
 
-Simulation et fluctuation d'échantillonnage.
+Indicateurs de tendance centrale : moyenne, médiane ; indicateurs de dispersion : étendue, quartiles.
 
-L'usage de calculatrices programmables, alphanumériques ou à écran graphique est autorisé à condition que leur fonctionnement soit autonome et qu'il ne soit pas fait usage d'imprimante. La consultation des notices de fonctionnement reste interdite.
+Fréquences ; simulation et fluctuation d'échantillonnage.
 
-II. ― Epreuve de physique
+Probabilité d'un événement.
 
-L'épreuve comporte différents exercices sous la forme de résolution de problèmes illustrés par des données, des documents ou des expériences.
+I-2. Sciences physiques et chimie
 
-Le candidat s'attache à utiliser les outils de résolution scientifique, un vocabulaire adapté et les propriétés en rapport avec une situation donnée.
+I.-2. a) Cinématique.
 
-Cette épreuve consiste à résoudre un ou plusieurs exercices portant sur l'une des questions figurant au programme ci-après :
+Relativité du mouvement.
 
-II-1. Exploration de l'espace
+Choix du référentiel.
 
-De l'atome aux galaxies : présentation de l'univers ; échelle des longueurs ; l'année lumière.
+Différentes trajectoires et différentes natures de mouvements.
 
-Messages de la lumière : un système dispersif, le prisme ; les spectres d'émission et d'absorption, application à l'astrophysique.
+Exploiter une chronophotographie.
 
-II-2. L'univers en mouvements et le temps
+Exploitation de la formule de la vitesse dans un référentiel donné.
 
-Mouvements et forces : relativité du mouvement ; principe d'inertie ; la gravitation universelle.
+I-2. b) Statique.
 
-Le temps : phénomènes astronomiques ; dispositifs construits par l'homme.
+Connaître et savoir exploiter la relation entre le poids et la masse.
 
-II-3. L'air qui nous entoure
+Déterminer le centre de gravité d'un objet simple.
 
-Du macroscopique au microscopique.
+Savoir représenter une force par un vecteur.
 
-Lien entre agitation thermique et température : équation d'état des gaz parfaits.
+Faire l'inventaire des forces qui s'exercent sur un solide.
 
-L'usage de calculatrices programmables, alphanumériques ou à écran graphique est autorisé à condition que leur fonctionnement soit autonome et qu'il ne soit pas fait usage d'imprimante. La consultation des notices de fonctionnement reste interdite.
+Déterminer les caractéristiques d'une force avec les conditions d'équilibre à 2 ou 3 forces de droites d'action non parallèles.
 
-III. ― Epreuve de français
+I-2. c) Electricité.
 
-L'épreuve consiste à étudier un court texte argumentatif littéraire ou journalistique. La réalisation de l'épreuve se divise en deux parties notées sur 10 points chacune :
+Savoir exploiter un oscillogramme.
 
-― réponse à des questions de compréhension du texte ou de linguistique ;
+Savoir déterminer une période.
 
-― réponse argumentée de 20 à 30 lignes à une question tirée d'une idée maîtresse du texte argumentatif.
+Calculs de période et de fréquence.
+
+Connaître et être capable d'exploiter la relation entre l'énergie et la puissance.
+
+I-2. d) Chimie.
+
+Reconnaître le matériel et la verrerie de laboratoire.
+
+Connaître la composition d'un atome, principales caractéristiques.
+
+Savoir ce qu'est une molécule, un ion.
+
+Représenter un atome, un ion, une molécule par le modèle de LEWIS.
+
+Savoir calculer une quantité de matière.
+
+Calculer une masse molaire moléculaire, une concentration molaire ou massique d'une espèce chimique.
+
+Notion de pH, reconnaître une solution acide, neutre ou basique.
+
+Savoir établir une équation bilan d'une réaction chimique et l'exploiter.
+
+II. - Epreuve de français
+
+L'épreuve de français consiste à étudier un court texte argumentatif. La réalisation de l'épreuve se divise en deux parties :
+
+- une partie réservée aux réponses à des questions portant sur la compréhension du texte ;
+
+- une réponse argumentée de 30 lignes à une question tirée d'une idée maîtresse du texte argumentatif.
 
 Cette épreuve porte sur l'une des questions figurant au programme ci-après :
 
-― mouvement littéraire et culturel ;
+- le travail de l'écriture ;
 
-― le récit : le roman ou la nouvelle ;
+- démontrer, convaincre et persuader.
 
-― le théâtre : les genres et registres (le comique et le tragique) ;
+III. - Epreuve d'anglais
 
-― le travail de l'écriture ;
+L'épreuve d'anglais porte sur les connaissances et compétences acquises au collège. Les candidats sont évalués sur la compréhension de l'écrit niveau A2 du CECRL (cadre européen commun de référence pour les langues).
 
-― démontrer, convaincre et persuader.
+Cette épreuve consiste à répondre à un questionnaire à choix multiple portant sur le programme ci-après :
 
-IV. ― Epreuve d'anglais
+- phonétique / prononciation ;
 
-L'épreuve d'anglais porte sur les notions suivantes :
+- vocabulaire / expressions usuelles ;
 
-― compréhension de l'écrit ;
+- quantificateurs ;
 
-― production écrite.
+- comparatifs / superlatifs ;
 
-Cette épreuve consiste à répondre à un questionnaire à choix multiples portant sur l'une des questions figurant au programme ci-après :
+- prépositions ;
 
-― phonétique/prononciation ;
+- temps ;
 
-― vocabulaire/expressions usuelles ;
+- syntaxe / passif ;
 
-― quantificateurs ;
+- modaux ;
 
-― comparatifs, superlatifs ;
-
-― prépositions ;
-
-― temps : présent, be + ing, prétérit, present perfect, expression du futur ;
-
-― syntaxe, passif ;
-
-― modaux ;
-
-― pronoms relatifs.
+- pronoms relatifs.
 
 L'usage du dictionnaire monolingue ou bilingue est interdit.

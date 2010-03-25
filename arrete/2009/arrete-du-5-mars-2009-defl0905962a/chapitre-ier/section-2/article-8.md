@@ -2,11 +2,11 @@
 
 Les épreuves écrites sont notées de 0 à 20.
 
-Les épreuves de mathématiques, de français et de physique font l'objet d'une double correction anonyme.
+Les épreuves de sciences et de français font l'objet d'une double correction anonyme.
 
 L'épreuve d'anglais est corrigée par lecture optique des cartes de tests.
 
-Les copies de l'épreuve de mathématiques sont corrigées en premier. Les autres copies des candidats ayant obtenu une note inférieure à 5 sur 20 à cette épreuve ne sont pas corrigées.
+Les copies de l'épreuve de sciences sont corrigées en premier. Les autres copies des candidats ayant obtenu une note inférieure à 5 sur 20 à cette épreuve ne sont pas corrigées.
 
 Tout candidat qui se présente après l'heure de convocation ou ne remet pas de feuille de composition à l'issue reçoit, pour l'épreuve considérée, la note 0 pour cette épreuve.
 
