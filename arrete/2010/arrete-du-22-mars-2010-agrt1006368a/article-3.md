@@ -1,0 +1,3 @@
+# Article 3
+
+Lorsque le quota individuel en livraison et/ou en vente directe du producteur au 1er avril de la campagne N est supérieur à la production résultant des déclarations de production et/ou de collecte corrigées de la matière grasse de la campagne N ― 1 dudit producteur divisée par 0,85 mais inférieur au quota individuel en livraison et/ou en vente directe dont dispose le producteur au titre de la campagne N ― 1, la fraction du quota en vente directe et/ou en livraison du producteur affectée à la réserve nationale à compter du 1er avril de la campagne N est égale à la différence entre la quantité résultant de la formule mentionnée à l'article 1er et la diminution du quota du producteur entre les campagnes N et N ― 1.

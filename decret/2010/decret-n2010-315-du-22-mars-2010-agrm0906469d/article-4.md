@@ -1,0 +1,9 @@
+# Article 4
+
+Par dérogation au dernier alinéa de l'article 16 bis du décret n° 90-94 du 25 janvier 1990 susvisé et au dernier alinéa de l'article 18 bis du décret n° 90-95 du 25 janvier 1990 susvisé, les organisations de producteurs transmettent les plans de gestion, dans un délai de trente jours suivant la publication de l'arrêté du ministre chargé des pêches maritimes portant répartition des quotas et pris en application de l'article 14 du décret n° 90-94 du 25 janvier 1990 susvisé et de l'article 16 du décret n° 90-95 du 25 janvier 1990 susvisé, au ministre chargé des pêches maritimes qui en vérifie la conformité aux objectifs mentionnés au I de l'article 3 du décret du 9 janvier 1852 susvisé et aux dispositions du présent décret. La notification, par l'autorité compétente définie à l'article 1er du décret n° 90-94 du 25 janvier 1990 susvisé et à l'article 5 du décret n° 90-95 du 25 janvier 1990 susvisé, des limitations individuelles des captures ou de l'effort de pêche aux producteurs non adhérents à une organisation de producteurs intervient dans le même délai.
+
+Le ministre chargé des pêches maritimes approuve le plan de gestion dans un délai de trente jours à compter de sa réception. En l'absence de réponse dans ce délai, le plan de gestion est réputé conforme.
+
+Lorsqu'un plan de gestion est jugé conforme, la décision fixant les limitations individuelles des captures ou de l'effort de pêche et les mesures afférentes sont notifiées par les organisations de producteurs à leurs adhérents sans délai à compter de la date d'approbation de leur plan de gestion par le ministre chargé des pêches maritimes.
+
+En l'absence de transmission ou en cas de non-conformité d'un plan de gestion, le ministre chargé des pêches maritimes retire tout ou partie du sous-quota affecté à l'organisation de producteurs concernée.
