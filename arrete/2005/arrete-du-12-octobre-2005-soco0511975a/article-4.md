@@ -88,7 +88,7 @@ Avec la direction générale du travail, elle élabore et assure le suivi de la 
 
 En lien avec le SGAE, elle participe à la définition de la réglementation communautaire en matière d'aides publiques aux entreprises et à la notification de ces aides à la Commission européenne.
 
-Elle assure le secrétariat du Comité supérieur de l'emploi et de sa commission permanente.
+Elle assure le secrétariat du Conseil national de l'emploi.
 
 6° La sous-direction du service public de l'emploi comprend :
 
