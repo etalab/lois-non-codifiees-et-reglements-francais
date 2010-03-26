@@ -4,4 +4,5 @@
 - [CHAPITRE IER : ORGANISATION GENERALE DU CONCOURS](chapitre-ier)
 - [CHAPITRE II : ADMISSIBILITE](chapitre-ii)
 - [CHAPITRE III : ADMISSION](chapitre-iii)
+- [CHAPITRE IV : DISPOSITIONS DIVERSES](chapitre-iv)
 - [Annexe](annexe)
