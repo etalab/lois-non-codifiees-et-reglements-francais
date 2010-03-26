@@ -1120,7 +1120,6 @@
 - [Arrêté du 14 août 2009 (DEVU0911892A)](arrete-du-14-aout-2009-devu0911892a)
 - [Arrêté du 14 août 2009 (DEVU0913982A)](arrete-du-14-aout-2009-devu0913982a)
 - [Arrêté du 14 août 2009 (IMIK0917269A)](arrete-du-14-aout-2009-imik0917269a)
-- [Arrêté du 14 avril 2009 (DEFH0908749A)](arrete-du-14-avril-2009-defh0908749a)
 - [Arrêté du 14 avril 2009 (DEFH0908751A)](arrete-du-14-avril-2009-defh0908751a)
 - [Arrêté du 14 avril 2009 (IOCD0820014A)](arrete-du-14-avril-2009-iocd0820014a)
 - [Arrêté du 14 avril 2009 (JUSF0907720A)](arrete-du-14-avril-2009-jusf0907720a)

@@ -376,7 +376,6 @@
 - [Décret n°96-1136 du 18 décembre 1996 (FCEC9600201D)](decret-n96-1136-du-18-decembre-1996-fcec9600201d)
 - [Décret n°97-1064 du 18 novembre 1997 (EQUP9700613D)](decret-n97-1064-du-18-novembre-1997-equp9700613d)
 - [Décret n°97-1075 du 18 novembre 1997 (EQUM9702227D)](decret-n97-1075-du-18-novembre-1997-equm9702227d)
-- [Décret n°97-244 du 18 mars 1997 (TASO9710247D)](decret-n97-244-du-18-mars-1997-taso9710247d)
 - [Décret n°97-249 du 18 mars 1997 (BUDB9750007D)](decret-n97-249-du-18-mars-1997-budb9750007d)
 - [Décret n°97-251 du 18 mars 1997 (AGRG9700039D)](decret-n97-251-du-18-mars-1997-agrg9700039d)
 - [Décret n°97-255 du 18 mars 1997 (JUSX9700028D)](decret-n97-255-du-18-mars-1997-jusx9700028d)

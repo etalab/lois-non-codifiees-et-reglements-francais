@@ -399,7 +399,6 @@
 - [Arrêté du 17 décembre 2001 (ECOL0100182A)](arrete-du-17-decembre-2001-ecol0100182a)
 - [Arrêté du 17 décembre 2001 (INTM0100049A)](arrete-du-17-decembre-2001-intm0100049a)
 - [Arrêté du 17 décembre 2002 (AGRA0202687A)](arrete-du-17-decembre-2002-agra0202687a)
-- [Arrêté du 17 décembre 2002 (AGRA0202688A)](arrete-du-17-decembre-2002-agra0202688a)
 - [Arrêté du 17 décembre 2002 (AGRA0202758A)](arrete-du-17-decembre-2002-agra0202758a)
 - [Arrêté du 17 décembre 2002 (AGRA0202759A)](arrete-du-17-decembre-2002-agra0202759a)
 - [Arrêté du 17 décembre 2002 (AGRA0202760A)](arrete-du-17-decembre-2002-agra0202760a)
