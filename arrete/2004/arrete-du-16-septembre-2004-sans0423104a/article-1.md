@@ -12,6 +12,8 @@ Hépatite B ;
 
 Infections à Haemophilus influenzae B ;
 
+Infections invasives à méningocoque (Neisseria meningitidis) du sérogroupe C ;
+
 Infection à papillomavirus humains ;
 
 Infections à pneumocoque ;
