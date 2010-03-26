@@ -4,7 +4,7 @@ Sont appelés à siéger avec voix délibérative en qualité de représentants 
 
 En qualité de membres titulaires :
 
-― le secrétaire général du ministère ou le secrétaire général adjoint ;
+― le secrétaire général du ministère ou son représentant ;
 
 ― le directeur des services judiciaires ;
 
