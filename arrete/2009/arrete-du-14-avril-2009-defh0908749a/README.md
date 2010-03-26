@@ -2,3 +2,6 @@
 
 - [Article 1](article-1.md)
 - [CHAPITRE IER : ORGANISATION GENERALE DES CONCOURS](chapitre-ier)
+- [CHAPITRE II : ADMISSIBILITE](chapitre-ii)
+- [CHAPITRE III : ADMISSION](chapitre-iii)
+- [Annexe](annexe)
