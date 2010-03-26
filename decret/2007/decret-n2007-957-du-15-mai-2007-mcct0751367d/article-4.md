@@ -1,18 +1,18 @@
 # Article 4
 
-Le fonds prend en charge le coût minimal des opérations indispensables à la continuité de la réception des services de télévision diffusés par voie hertzienne terrestre en mode analogique.
+Le fonds prend en charge le coût minimal des opérations indispensables à la continuité de la réception des services de télévision       mentionnés à l'article 1er.
 
 Ce coût comprend :
 
 1° Les dépenses nécessaires à la continuité de la réception des services de télévision sur un récepteur par foyer au plus et résultant :
 
-a) Soit de la fourniture, et dans certains cas exceptionnels, de l'installation d'un terminal de réception de la télévision numérique terrestre ainsi que de l'adaptation des antennes individuelles ou collectives ;
+a) Soit de la fourniture, et en tant que de besoin, de l'installation d'un adaptateur permettant de recevoir les services de télévision par voie hertzienne terrestre en mode numérique ainsi que l'adaptation de l'antenne individuelle ou collective ;
 
-b) Soit de l'attribution d'une subvention d'un montant forfaitaire destinée à couvrir tout ou partie des frais d'acquisition et d'installation d'un terminal de réception de la télévision numérique terrestre et d'adaptation des antennes individuelles ou collectives et de la distribution collective associée ;
+b) Soit de la fourniture, et en tant que de besoin, de l'installation d'un dispositif permettant de recevoir par voie satellitaire les services de télévision diffusés par voie hertzienne terrestre en mode numérique, y compris l'adaptation de l'antenne collective ;
 
-c) Soit de l'attribution d'une subvention d'un montant forfaitaire destinée à couvrir les frais d'équipement en autres moyens de réception et, le cas échéant, la prise en charge de tout ou partie du coût de l'abonnement à l'offre d'un distributeur de services, pour un montant équivalent à celui qui aurait été accordé à ce foyer s'il avait opté pour la réception de la télévision numérique terrestre. Toutefois, en l'absence de réception de la télévision numérique terrestre dans la zone, le montant est équivalent à celui qui aurait été accordé pour la moins onéreuse des solutions disponibles sur cette zone ;
+c) Soit de l'attribution d'une subvention d'un montant forfaitaire destinée à couvrir tout ou partie des frais mentionnés au a ou au b ou des frais d'équipement et d'abonnement en autres moyens de réception des services de télévision en cause, dans la limite du montant équivalent à la moins onéreuse des solutions disponibles dans la zone ;
 
-d) Soit de l'adaptation des antennes pour la réception en mode analogique lorsque les services de télévision peuvent être reçus d'autres émetteurs analogiques si cette solution est la moins onéreuse sur la zone ;
+d) Soit de l'adaptation de l'antenne individuelle ou collective pour permettre la réception par voie hertzienne terrestre des services de télévision en cause à partir d'autres stations d'émission, si cette solution est la moins onéreuse dans la zone.
 
 2° Les dépenses résultant d'opérations coordonnées destinées notamment à l'information des téléspectateurs ;
 
