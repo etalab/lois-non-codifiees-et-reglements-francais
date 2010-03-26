@@ -4,7 +4,7 @@ Les étudiants de formation initiale sont admis :
 
 1° En première année :
 
-a) Par un concours utilisant, pour les candidats des filières MP, PC ou PSI, les épreuves écrites de la banque Mines-Ponts, pour les candidats de la filière PT, les épreuves écrites de la banque de la filière physique technologie (PT), pour les candidats de la filière TSI, les épreuves écrites du concours Centrale-Supélec et pour les candidats de la filière ATS, les épreuves écrites du concours ATS ;
+a) Par un concours dénommé concours TELECOM INT utilisant, pour les candidats des filières MP, PC ou PSI, les épreuves écrites de la banque Mines-Ponts, pour les candidats de la filière PT, les épreuves écrites de la banque de la filière physique technologie (PT), pour les candidats de la filière TSI, les épreuves écrites du concours Centrale-Supélec et pour les candidats de la filière ATS, les épreuves écrites du concours ATS ;
 
 b) Sur titres, pour les candidats européens titulaires d'une licence scientifique ou de titres jugés équivalents, et pour les candidats non européens, ayant effectué leurs trois dernières années d'études en France, remplissant les mêmes conditions ;
 
