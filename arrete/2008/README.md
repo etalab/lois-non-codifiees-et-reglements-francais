@@ -150,7 +150,6 @@
 - [Arrêté du 5 septembre 2008 (DEVL0820798A)](arrete-du-5-septembre-2008-devl0820798a)
 - [Arrêté du 5 septembre 2008 (IOCD0818575A)](arrete-du-5-septembre-2008-iocd0818575a)
 - [Arrêté du 5 septembre 2008 (SJSG0821868A)](arrete-du-5-septembre-2008-sjsg0821868a)
-- [Arrêté du 6 août 2008 (BCFZ0818793A)](arrete-du-6-aout-2008-bcfz0818793a)
 - [Arrêté du 6 août 2008 (DEFD0820311A)](arrete-du-6-aout-2008-defd0820311a)
 - [Arrêté du 6 août 2008 (SJSP0819920A)](arrete-du-6-aout-2008-sjsp0819920a)
 - [Arrêté du 6 février 2008 (ECED0801769A)](arrete-du-6-fevrier-2008-eced0801769a)
