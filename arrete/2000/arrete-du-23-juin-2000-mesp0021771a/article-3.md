@@ -1,6 +1,6 @@
 # Article 3
 
-A l'exception des membres de droit, les membres de la commission sont nommés pour une période de trois ans renouvelable. Des suppléants sont désignés en nombre égal et dans les mêmes conditions.
+A l'exception des membres de droit, les membres de la commission sont nommés pour une période maximale de trente-neuf mois renouvelable. Des suppléants sont désignés en nombre égal et dans les mêmes conditions.
 
 En cas de vacance survenant au cours d'un mandat, le mandat du suppléant appelé à remplacer un membre titulaire ou celui du membre nouveau appelé à remplacer un suppléant prend fin à la même date que celui du membre remplacé.
 
