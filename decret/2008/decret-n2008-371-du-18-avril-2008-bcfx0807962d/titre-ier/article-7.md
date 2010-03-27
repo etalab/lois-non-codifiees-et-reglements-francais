@@ -6,7 +6,7 @@ La commission est chargée, sur le rapport du délégué national à la lutte co
 
 1° Déterminer les orientations de contrôle et de prévention relatives à la lutte contre le travail illégal et s'assurer de leur mise en œuvre coordonnée ;
 
-2° Définir les actions incombant prioritairement aux comités opérationnels de lutte contre le travail illégal mentionnés à l'article 8 ainsi qu'aux services de contrôle ;
+2° Définir les actions incombant prioritairement aux comités mentionnés au titre II, en matière de lutte contre le travail illégal, ainsi qu'aux services de contrôle ;
 
 3° Veiller à la mobilisation des administrations et organismes chargés de la lutte contre le travail illégal et s'assurer de leur coordination.
 
