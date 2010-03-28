@@ -418,7 +418,6 @@
 - [Arrêté du 25 juillet 1988 (BUDZ8800008A)](arrete-du-25-juillet-1988-budz8800008a)
 - [Arrêté du 25 mars 1988 (INDG8800232A)](arrete-du-25-mars-1988-indg8800232a)
 - [Arrêté du 25 mars 1988 (INDG8800233A)](arrete-du-25-mars-1988-indg8800233a)
-- [Arrêté du 25 mars 1988 (INTB8800142A)](arrete-du-25-mars-1988-intb8800142a)
 - [Arrêté du 25 mars 1988 (INTD8800143A)](arrete-du-25-mars-1988-intd8800143a)
 - [Arrêté du 25 novembre 1988 (TRSA8800389A)](arrete-du-25-novembre-1988-trsa8800389a)
 - [Arrêté du 25 novembre 1988 (TRSA8800390A)](arrete-du-25-novembre-1988-trsa8800390a)
