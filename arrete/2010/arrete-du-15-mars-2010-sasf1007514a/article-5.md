@@ -1,0 +1,9 @@
+# Article 5
+
+Les titulaires du diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport spécialité « perfectionnement sportif » mention « natation course » et du brevet fédéral quatrième degré « natation course » option « entraînement natation en eau libre » délivré par la Fédération française de natation obtiennent, sur demande auprès du directeur régional de la jeunesse, des sports et de la cohésion sociale, le certificat de spécialisation « natation en eau libre ».
+
+Les titulaires du diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport spécialité « perfectionnement sportif » mention « natation course », et du brevet fédéral cinquième degré « natation course », option « entraînement natation en eau libre », délivré par la Fédération française de natation, obtiennent, sur demande auprès du directeur régional de la jeunesse, des sports et de la cohésion sociale, le certificat de spécialisation de « natation en eau libre ».
+
+Les titulaires du diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport spécialité « perfectionnement sportif » mention « triathlon » obtiennent de droit l'unité capitalisable 3 (UC3) « être capable de conduire une démarche de perfectionnement sportif de la natation en eau libre » du certificat de spécialisation « natation en eau libre ».
+
+Les titulaires du diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport spécialité « perfectionnement sportif » mention « triathlon », également titulaires d'un permis bateau, obtiennent, sur demande auprès du directeur régional de la jeunesse, des sports et de la cohésion sociale, l'unité capitalisable 1 (UC1) « être capable d'organiser la sécurité d'un groupe » et l'unité capitalisable 3 (UC3) « être capable de conduire une démarche de perfectionnement sportif de la natation en eau libre » du certificat de spécialisation de « natation en eau libre ».
