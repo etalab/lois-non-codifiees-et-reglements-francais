@@ -1760,7 +1760,6 @@
 - [Arrêté du 20 août 2009 (SASP0919772A)](arrete-du-20-aout-2009-sasp0919772a)
 - [Arrêté du 20 avril 1994 (TEFT9400404A)](arrete-du-20-avril-1994-teft9400404a)
 - [Arrêté du 20 avril 2009 (AGRE0908843A)](arrete-du-20-avril-2009-agre0908843a)
-- [Arrêté du 20 avril 2009 (BCFD0906662A)](arrete-du-20-avril-2009-bcfd0906662a)
 - [Arrêté du 20 avril 2009 (DEVO0906472A)](arrete-du-20-avril-2009-devo0906472a)
 - [Arrêté du 20 avril 2009 (ECEP0902996A)](arrete-du-20-avril-2009-ecep0902996a)
 - [Arrêté du 20 avril 2009 (ECEP0903002A)](arrete-du-20-avril-2009-ecep0903002a)
