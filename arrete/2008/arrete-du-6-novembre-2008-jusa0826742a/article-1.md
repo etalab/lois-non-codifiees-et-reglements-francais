@@ -2,7 +2,7 @@
 
 En application de l'article 11 du décret du 3 août 1999 susvisé, les emplois occupés par les directeurs de service du Conseil d'Etat sont :
 
-― directeur des ressources humaines ;
+― chef de cabinet ;
 
 ― directeur de la prospective et des finances ;
 
