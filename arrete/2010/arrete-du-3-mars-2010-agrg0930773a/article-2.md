@@ -1,0 +1,3 @@
+# Article 2
+
+Le directeur général de la prévention des risques au ministère de l'écologie, de l'énergie, du développement durable et de la mer, en charge des technologies vertes et des négociations sur le climat, la directrice générale de l'alimentation au ministère de l'alimentation, de l'agriculture et de la pêche, le directeur général de la santé au ministère de la santé et des sports et le directeur du budget au ministère du budget, des comptes publics, de la fonction publique et de la réforme de l'Etat sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
