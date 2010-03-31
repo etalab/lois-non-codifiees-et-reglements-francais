@@ -10,6 +10,6 @@ Elle comprend, en outre :
 
 - le président de la Fédération nationale des agents immobiliers (FNAIM) ou son représentant ;
 
-- le président de la Confédération nationale des administrateurs de biens (CNAB) ou son représentant ;
+- le président de l'Union des syndicats de l'immobilier (UNIS) ou son représentant ;
 
 - le président du Syndicat national des professionnels immobiliers (SNPI) ou son représentant.
