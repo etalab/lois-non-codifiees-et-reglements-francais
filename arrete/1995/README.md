@@ -1140,7 +1140,6 @@
 - [Arrêté du 29 décembre 1994 (EQUT9500060A)](arrete-du-29-decembre-1994-equt9500060a)
 - [Arrêté du 29 décembre 1994 (SANH9500004A)](arrete-du-29-decembre-1994-sanh9500004a)
 - [Arrêté du 29 décembre 1995 (BUDF9500022A)](arrete-du-29-decembre-1995-budf9500022a)
-- [Arrêté du 29 décembre 1995 (EQUM9501999A)](arrete-du-29-decembre-1995-equm9501999a)
 - [Arrêté du 29 juillet 1998 (AGRA9800870A)](arrete-du-29-juillet-1998-agra9800870a)
 - [Arrêté du 29 juin 1995 (DEFD9501753A)](arrete-du-29-juin-1995-defd9501753a)
 - [Arrêté du 29 juin 1995 (ECOS9550016A)](arrete-du-29-juin-1995-ecos9550016a)
