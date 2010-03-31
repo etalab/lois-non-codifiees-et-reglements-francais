@@ -11,13 +11,21 @@ Pour le réseau public de distribution de gaz naturel de la commune de Beaurepai
 <table>
 <tbody>
 <tr>
-<th>OPTION<br/>tarifaire<br/>
+<th>
+<font size="1">OPTION<br/>tarifaire<br/>
+</font>
 </th>
-<th>ABONNEMENT ANNUEL<br/>(en €)<br/>
+<th>
+<font size="1">ABONNEMENT ANNUEL<br/>(en €)<br/>
+</font>
 </th>
-<th>PRIX PROPORTIONNEL<br/>(en €/MWh)<br/>
+<th>
+<font size="1">PRIX PROPORTIONNEL<br/>(en €/MWh)<br/>
+</font>
 </th>
-<th>TERME DE SOUSCRIPTION ANNUELLE<br/>de capacité journalière<br/>(en €/MWh/j)<br/>
+<th>
+<font size="1">TERME DE SOUSCRIPTION ANNUELLE<br/>de capacité journalière<br/>(en €/MWh/j)<br/>
+</font>
 </th>
 </tr>
 <tr>
@@ -68,22 +76,30 @@ Pour le réseau public de distribution de gaz naturel de la commune de Beaurepai
 
 </div>
 
-Option  tarif de proximité  (TP)
+Option tarif de proximité (TP)
 
-Les termes tarifaires de l'option  tarif de proximité  sont les suivants :
+Les termes tarifaires de l'option tarif de proximité sont les suivants :
 
 <div align="center">
 
 <table>
 <tbody>
 <tr>
-<th>OPTION<br/>tarifaire<br/>
+<th>
+<font size="1">OPTION<br/>tarifaire<br/>
+</font>
 </th>
-<th>ABONNEMENT ANNUEL<br/>(en €)<br/>
+<th>
+<font size="1">ABONNEMENT ANNUEL<br/>(en €)<br/>
+</font>
 </th>
-<th>TERME DE SOUSCRIPTION ANNUELLE<br/>de capacité journalière<br/>(en €/MWh/j)<br/>
+<th>
+<font size="1">TERME DE SOUSCRIPTION ANNUELLE<br/>de capacité journalière<br/>(en €/MWh/j)<br/>
+</font>
 </th>
-<th>TERME ANNUEL À LA DISTANCE<br/>(en €/mètre)<br/>
+<th>
+<font size="1">TERME ANNUEL À LA DISTANCE<br/>(en €/mètre)<br/>
+</font>
 </th>
 </tr>
 <tr>
@@ -142,13 +158,21 @@ Pour le réseau public de distribution de gaz naturel de la commune de Rosiers-d
 <table>
 <tbody>
 <tr>
-<th>OPTION<br/>tarifaire<br/>
+<th>
+<font size="1">OPTION<br/>tarifaire<br/>
+</font>
 </th>
-<th>ABONNEMENT ANNUEL<br/>(en €)<br/>
+<th>
+<font size="1">ABONNEMENT ANNUEL<br/>(en €)<br/>
+</font>
 </th>
-<th>PRIX PROPORTIONNEL<br/>(en €/MWh)<br/>
+<th>
+<font size="1">PRIX PROPORTIONNEL<br/>(en €/MWh)<br/>
+</font>
 </th>
-<th>TERME DE SOUSCRIPTION ANNUELLE<br/>de capacité journalière<br/>(en €/MWh/j)<br/>
+<th>
+<font size="1">TERME DE SOUSCRIPTION ANNUELLE<br/>de capacité journalière<br/>(en €/MWh/j)<br/>
+</font>
 </th>
 </tr>
 <tr>
@@ -199,22 +223,30 @@ Pour le réseau public de distribution de gaz naturel de la commune de Rosiers-d
 
 </div>
 
-Option  tarif de proximité  (TP)
+Option tarif de proximité (TP)
 
-Les termes tarifaires de l'option  tarif de proximité  sont les suivants :
+Les termes tarifaires de l'option tarif de proximité sont les suivants :
 
 <div align="center">
 
 <table>
 <tbody>
 <tr>
-<th>OPTION<br/>tarifaire<br/>
+<th>
+<font size="1">OPTION<br/>tarifaire<br/>
+</font>
 </th>
-<th>ABONNEMENT ANNUEL<br/>(en €)<br/>
+<th>
+<font size="1">ABONNEMENT ANNUEL<br/>(en €)<br/>
+</font>
 </th>
-<th>TERME DE SOUSCRIPTION ANNUELLE<br/>de capacité journalière<br/>(en €/MWh/j)<br/>
+<th>
+<font size="1">TERME DE SOUSCRIPTION ANNUELLE<br/>de capacité journalière<br/>(en €/MWh/j)<br/>
+</font>
 </th>
-<th>TERME ANNUEL À LA DISTANCE<br/>(en €/mètre)<br/>
+<th>
+<font size="1">TERME ANNUEL À LA DISTANCE<br/>(en €/mètre)<br/>
+</font>
 </th>
 </tr>
 <tr>
@@ -273,13 +305,21 @@ Pour le réseau public de distribution de gaz naturel de la commune d'Ansauville
 <table>
 <tbody>
 <tr>
-<th>OPTION<br/>tarifaire<br/>
+<th>
+<font size="1">OPTION<br/>tarifaire<br/>
+</font>
 </th>
-<th>ABONNEMENT ANNUEL<br/>(en €)<br/>
+<th>
+<font size="1">ABONNEMENT ANNUEL<br/>(en €)<br/>
+</font>
 </th>
-<th>PRIX PROPORTIONNEL<br/>(en €/MWh)<br/>
+<th>
+<font size="1">PRIX PROPORTIONNEL<br/>(en €/MWh)<br/>
+</font>
 </th>
-<th>TERME DE SOUSCRIPTION ANNUELLE<br/>de capacité journalière<br/>(en €/MWh/j)<br/>
+<th>
+<font size="1">TERME DE SOUSCRIPTION ANNUELLE<br/>de capacité journalière<br/>(en €/MWh/j)<br/>
+</font>
 </th>
 </tr>
 <tr>
@@ -330,22 +370,30 @@ Pour le réseau public de distribution de gaz naturel de la commune d'Ansauville
 
 </div>
 
-Option  tarif de proximité  (TP)
+Option tarif de proximité (TP)
 
-Les termes tarifaires de l'option  tarif de proximité  sont les suivants :
+Les termes tarifaires de l'option tarif de proximité sont les suivants :
 
 <div align="center">
 
 <table>
 <tbody>
 <tr>
-<th>OPTION<br/>tarifaire<br/>
+<th>
+<font size="1">OPTION<br/>tarifaire<br/>
+</font>
 </th>
-<th>ABONNEMENT ANNUEL<br/>(en €)<br/>
+<th>
+<font size="1">ABONNEMENT ANNUEL<br/>(en €)<br/>
+</font>
 </th>
-<th>TERME DE SOUSCRIPTION ANNUELLE<br/>de capacité journalière<br/>(en €/MWh/j)<br/>
+<th>
+<font size="1">TERME DE SOUSCRIPTION ANNUELLE<br/>de capacité journalière<br/>(en €/MWh/j)<br/>
+</font>
 </th>
-<th>TERME ANNUEL À LA DISTANCE<br/>(en €/mètre)<br/>
+<th>
+<font size="1">TERME ANNUEL À LA DISTANCE<br/>(en €/mètre)<br/>
+</font>
 </th>
 </tr>
 <tr>
@@ -406,13 +454,21 @@ Pour le réseau public de distribution de gaz naturel de la commune d'Urvillers 
 <table>
 <tbody>
 <tr>
-<th>OPTION<br/>tarifaire<br/>
+<th>
+<font size="1">OPTION<br/>tarifaire<br/>
+</font>
 </th>
-<th>ABONNEMENT ANNUEL<br/>(en €)<br/>
+<th>
+<font size="1">ABONNEMENT ANNUEL<br/>(en €)<br/>
+</font>
 </th>
-<th>PRIX PROPORTIONNEL<br/>(en €/MWh)<br/>
+<th>
+<font size="1">PRIX PROPORTIONNEL<br/>(en €/MWh)<br/>
+</font>
 </th>
-<th>TERME DE SOUSCRIPTION ANNUELLE<br/>de capacité journalière<br/>(en €/MWh/j)<br/>
+<th>
+<font size="1">TERME DE SOUSCRIPTION ANNUELLE<br/>de capacité journalière<br/>(en €/MWh/j)<br/>
+</font>
 </th>
 </tr>
 <tr>
@@ -463,22 +519,30 @@ Pour le réseau public de distribution de gaz naturel de la commune d'Urvillers 
 
 </div>
 
-Option  tarif de proximité  (TP)
+Option tarif de proximité (TP)
 
-Les termes tarifaires de l'option  tarif de proximité  sont les suivants :
+Les termes tarifaires de l'option tarif de proximité sont les suivants :
 
 <div align="center">
 
 <table>
 <tbody>
 <tr>
-<th>OPTION<br/>tarifaire<br/>
+<th>
+<font size="1">OPTION<br/>tarifaire<br/>
+</font>
 </th>
-<th>ABONNEMENT ANNUEL<br/>(en €)<br/>
+<th>
+<font size="1">ABONNEMENT ANNUEL<br/>(en €)<br/>
+</font>
 </th>
-<th>TERME DE SOUSCRIPTION ANNUELLE<br/>de capacité journalière<br/>(en €/MWh/j)<br/>
+<th>
+<font size="1">TERME DE SOUSCRIPTION ANNUELLE<br/>de capacité journalière<br/>(en €/MWh/j)<br/>
+</font>
 </th>
-<th>TERME ANNUEL À LA DISTANCE<br/>(en €/mètre)<br/>
+<th>
+<font size="1">TERME ANNUEL À LA DISTANCE<br/>(en €/mètre)<br/>
+</font>
 </th>
 </tr>
 <tr>
@@ -506,7 +570,7 @@ Un coefficient multiplicateur est appliqué au terme annuel à la distance. Il e
 
 La grille tarifaire de la commune d'Urvillers est réévaluée annuellement au 1er juillet de chaque année proportionnellement à l'évolution moyenne sur les douze mois de l'année précédente de l'indice composite suivant :
 
-Tarif année n + 1 = tarif année n × ([1+[50 % ICHTrev-TS + 25 % TP10 bis + 25 % prix de vente à l'industrie])
+Tarif année n + 1 = tarif année n × (1 + [50 % ICHTrev-TS + 25 % TP10 bis + 25 % prix de vente à l'industrie])
 
 où :
 
@@ -537,13 +601,21 @@ Pour le réseau public de distribution de gaz naturel de la commune de Besny-et-
 <table>
 <tbody>
 <tr>
-<th>OPTION<br/>tarifaire<br/>
+<th>
+<font size="1">OPTION<br/>tarifaire<br/>
+</font>
 </th>
-<th>ABONNEMENT ANNUEL<br/>(en €)<br/>
+<th>
+<font size="1">ABONNEMENT ANNUEL<br/>(en €)<br/>
+</font>
 </th>
-<th>PRIX PROPORTIONNEL<br/>(en €/MWh)<br/>
+<th>
+<font size="1">PRIX PROPORTIONNEL<br/>(en €/MWh)<br/>
+</font>
 </th>
-<th>TERME DE SOUSCRIPTION ANNUELLE<br/>de capacité journalière<br/>(en €/MWh/j)<br/>
+<th>
+<font size="1">TERME DE SOUSCRIPTION ANNUELLE<br/>de capacité journalière<br/>(en €/MWh/j)</font>
+<br/>
 </th>
 </tr>
 <tr>
@@ -594,22 +666,30 @@ Pour le réseau public de distribution de gaz naturel de la commune de Besny-et-
 
 </div>
 
-Option  tarif de proximité  (TP)
+Option tarif de proximité (TP)
 
-Les termes tarifaires de l'option  tarif de proximité  sont les suivants :
+Les termes tarifaires de l'option tarif de proximité sont les suivants :
 
 <div align="center">
 
 <table>
 <tbody>
 <tr>
-<th>OPTION<br/>tarifaire<br/>
+<th>
+<font size="1">OPTION<br/>tarifaire<br/>
+</font>
 </th>
-<th>ABONNEMENT ANNUEL<br/>(en €)<br/>
+<th>
+<font size="1">ABONNEMENT ANNUEL<br/>(en €)<br/>
+</font>
 </th>
-<th>TERME DE SOUSCRIPTION ANNUELLE<br/>de capacité journalière<br/>(en €/MWh/j)<br/>
+<th>
+<font size="1">TERME DE SOUSCRIPTION ANNUELLE<br/>de capacité journalière<br/>(en €/MWh/j)<br/>
+</font>
 </th>
-<th>TERME ANNUEL À LA DISTANCE<br/>(en €/mètre)<br/>
+<th>
+<font size="1">TERME ANNUEL À LA DISTANCE<br/>(en €/mètre)<br/>
+</font>
 </th>
 </tr>
 <tr>
@@ -668,13 +748,21 @@ Pour le réseau public de distribution de gaz naturel de la commune de Cervens (
 <table>
 <tbody>
 <tr>
-<th>OPTION<br/>tarifaire<br/>
+<th>
+<font size="1">OPTION<br/>tarifaire<br/>
+</font>
 </th>
-<th>ABONNEMENT ANNUEL<br/>(en €)<br/>
+<th>
+<font size="1">ABONNEMENT ANNUEL<br/>(en €)<br/>
+</font>
 </th>
-<th>PRIX PROPORTIONNEL<br/>(en €/MWh)<br/>
+<th>
+<font size="1">PRIX PROPORTIONNEL<br/>(en €/MWh)<br/>
+</font>
 </th>
-<th>TERME DE SOUSCRIPTION ANNUELLE<br/>de capacité journalière<br/>(en €/MWh/j)<br/>
+<th>
+<font size="1">TERME DE SOUSCRIPTION ANNUELLE<br/>de capacité journalière<br/>(en €/MWh/j)<br/>
+</font>
 </th>
 </tr>
 <tr>
@@ -725,22 +813,30 @@ Pour le réseau public de distribution de gaz naturel de la commune de Cervens (
 
 </div>
 
-Option  tarif de proximité  (TP)
+Option tarif de proximité (TP)
 
-Les termes tarifaires de l'option  tarif de proximité  sont les suivants :
+Les termes tarifaires de l'option tarif de proximité sont les suivants :
 
 <div align="center">
 
 <table>
 <tbody>
 <tr>
-<th>OPTION<br/>tarifaire<br/>
+<th>
+<font size="1">OPTION<br/>tarifaire<br/>
+</font>
 </th>
-<th>ABONNEMENT ANNUEL<br/>(en €)<br/>
+<th>
+<font size="1">ABONNEMENT ANNUEL<br/>(en €)<br/>
+</font>
 </th>
-<th>TERME DE SOUSCRIPTION ANNUELLE<br/>de capacité journalière<br/>(en €/MWh/j)<br/>
+<th>
+<font size="1">TERME DE SOUSCRIPTION ANNUELLE<br/>de capacité journalière<br/>(en €/MWh/j)<br/>
+</font>
 </th>
-<th>TERME ANNUEL À LA DISTANCE<br/>(en €/mètre)<br/>
+<th>
+<font size="1">TERME ANNUEL À LA DISTANCE<br/>(en €/mètre)<br/>
+</font>
 </th>
 </tr>
 <tr>
