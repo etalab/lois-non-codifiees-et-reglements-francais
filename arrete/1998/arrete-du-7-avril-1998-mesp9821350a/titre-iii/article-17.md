@@ -1,6 +1,8 @@
 # Article 17
 
-Le préfet de région nomme les membres du jury, sur proposition du directeur régional des affaires sanitaires et sociales, après avis du médecin inspecteur régional de la santé. Le jury est présidé par le médecin inspecteur régional de la santé ou son représentant médecin inspecteur de santé publique. Il comprend, outre le président :
+Le préfet de région nomme les membres du jury, sur proposition du directeur régional de la jeunesse, des sports et de la cohésion sociale. Le jury est présidé par le directeur régional de la jeunesse, des sports et de la cohésion sociale ou son représentant. Il comprend, outre le président :
+
+- le directeur général de l'agence régionale de santé ou son représentant ;
 
 - un médecin possédant des connaissances particulières dans le domaine de la psychomotricité ;
 

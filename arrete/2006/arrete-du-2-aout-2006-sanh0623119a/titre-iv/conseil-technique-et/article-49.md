@@ -1,6 +1,6 @@
 # Article 49
 
-Dans chaque centre de formation, est mis en place un conseil de discipline. Il est constitué au début de chaque année scolaire, lors de la première réunion du conseil technique. Le conseil de discipline est présidé par le directeur régional des affaires sanitaires et sociales ou son représentant, pharmacien inspecteur de santé publique.
+Dans chaque centre de formation, est mis en place un conseil de discipline. Il est constitué au début de chaque année scolaire, lors de la première réunion du conseil technique. Le conseil de discipline est présidé par le le directeur général de l'agence régionale de santé ou son représentant.
 
 Il comprend :
 

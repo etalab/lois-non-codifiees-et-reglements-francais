@@ -1,12 +1,8 @@
 # Article 9
 
-Les membres du jury d'admissibilité sont nommés par le préfet de région sur proposition du directeur régional des affaires sanitaires et sociales, en liaison avec le directeur du centre de formation de préparateurs en pharmacie hospitalière.
+Les membres du jury d'admissibilité sont nommés par le directeur du centre de formation de préparateurs en pharmacie hospitalière.
 
-Le jury est présidé par le directeur régional des affaires sanitaires et sociales ou son représentant pharmacien inspecteur de santé publique et comprend :
-
-a) Le directeur du centre de formation ;
-
-b) Des membres des groupes d'examinateurs figurant à l'article 8, dont au minimum :
+Le jury est présidé par le directeur du centre de formation de préparateurs en pharmacie hospitalière et comprend, outre son président, des membres des groupes d'examinateurs figurant à l'article 8, dont au minimum :
 
 - un pharmacien praticien hospitalier ;
 

@@ -1,3 +1,3 @@
 # Article 7
 
-Le directeur de chaque institut de formation adresse annuellement à la direction régionale des affaires sanitaires et sociales la liste des élèves exclus du centre.
+Le directeur de chaque institut de formation adresse annuellement au directeur général de l'agence régionale de santé la liste des élèves exclus du centre.

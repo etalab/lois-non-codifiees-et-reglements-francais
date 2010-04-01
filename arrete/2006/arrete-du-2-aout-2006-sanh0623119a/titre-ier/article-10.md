@@ -10,6 +10,6 @@ Elle est évaluée par un groupe d'examinateurs composé de trois personnes :
 
 - un préparateur en pharmacie hospitalière.
 
-Le nombre de ces groupes d'examinateurs est fixé en fonction du nombre de candidats par le président du jury sur proposition du directeur du centre de formation.
+Le nombre de ces groupes d'examinateurs est fixé en fonction du nombre de candidats par le président du jury.
 
 L'épreuve orale d'admission peut être organisée par voie de visioconférence pour les candidats résidant outre-mer.

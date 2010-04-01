@@ -2,7 +2,7 @@
 
 Sont dotés de l'autonomie financière, dans les conditions du décret susvisé :
 
-**I - Les centres de recherche**
+**I-Les centres de recherche**
 
 Afghanistan
 
@@ -100,7 +100,7 @@ Section française de la direction des antiquités soudanaises (Khartoum).
 
 Thaïlande
 
-Institut de recherche sur l'Asie du Sud-est contemporaine (Bangkok) - IRASEC.
+Institut de recherche sur l'Asie du Sud-est contemporaine (Bangkok)-IRASEC.
 
 Tunisie
 
@@ -110,7 +110,7 @@ Turquie
 
 Institut français d'études anatoliennes Georges-Dumézil (Istanbul).
 
-**II. - Établissements à vocation pluridisciplinaire**
+**II.-Établissements à vocation pluridisciplinaire**
 
 Afghanistan
 
@@ -136,9 +136,7 @@ Centre culturel français de Tlemcen.
 
 Allemagne
 
-Centre culturel et de coopération linguistique de Berlin.
-
-Institut français de Rostock.
+Institut français d'Allemagne.
 
 Argentine
 
@@ -146,9 +144,7 @@ Centre pour les études en France.
 
 Autriche
 
-Centre culturel et de coopération linguistique d'Innsbruck.
-
-Institut français de Vienne.
+Institut français d'Autriche.
 
 Azerbaîdjan
 
@@ -262,8 +258,6 @@ Espagne
 
 Institut français de Barcelone.
 
-Institut français de Bilbao.
-
 Institut français de Madrid.
 
 Institut français de Saragosse.
@@ -372,7 +366,7 @@ Institut franco-japonais de Tokyo.
 
 Jérusalem
 
-Centre culturel français de Jérusalem.
+Centre culturel français Chateaubriand.
 
 Centre culturel français Romain-Gary.
 
@@ -514,7 +508,7 @@ Centre d'études Saint-Louis-de-France (Rome).
 
 Sénégal
 
-Institut français Léopold Sédar Senghor.
+Institut français du Sénégal.
 
 Serbie
 
@@ -562,7 +556,7 @@ Centre culturel français d'Achgabat.
 
 Turquie
 
-Institut français d'Ankara.
+Institut français de Turquie.
 
 Mission de coopération éducative et linguistique d'Istanbul.
 
@@ -580,6 +574,6 @@ Centre culturel Henry de Monfreid.
 
 Autres établissements dotés de l'autonomie financière :
 
-Taïpei
+Taïwan
 
-Centre pour les études en France.
+Centre de coopération et d'action culturelle de Taïpei.

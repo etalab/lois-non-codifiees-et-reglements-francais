@@ -1,0 +1,3 @@
+# Article 2
+
+A titre transitoire et pour une période dont le terme est fixé au plus tard le 31 décembre de l'année au cours de laquelle expire le délai de cinq ans après la création des agences régionales de santé, l'agence régionale de santé conclut des conventions de prestation de services avec les organismes d'assurance maladie compétents et avec le service déconcentré compétent de la direction générale des finances publiques chargé de la paye sans ordonnancement préalable des agents de l'Etat, afin d'assurer la préparation et la mise en paiement des rémunérations mensuelles des personnels de l'agence et de permettre le suivi de la masse salariale et la consommation des emplois en équivalents temps plein.

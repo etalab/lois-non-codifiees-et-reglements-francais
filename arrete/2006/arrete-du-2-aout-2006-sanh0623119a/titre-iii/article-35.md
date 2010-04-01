@@ -1,8 +1,10 @@
 # Article 35
 
-Les membres du jury du diplôme de préparateur en pharmacie hospitalière sont nommés par le préfet de région du lieu d'implantation du centre de formation, sur proposition du directeur régional des affaires sanitaires et sociales. Il comprend :
+Les membres du jury du diplôme de préparateur en pharmacie hospitalière sont nommés par le préfet de région du lieu d'implantation du centre de formation, sur proposition du directeur régional de la jeunesse, des sports et de la cohésion sociale. Il comprend :
 
-- le pharmacien inspecteur régional ou son représentant, pharmacien inspecteur de santé publique, président ;
+- le directeur régional de la jeunesse, des sports et de la cohésion sociale, président ;
+
+- le directeur général de l'agence régionale de santé, ou son représentant, pharmacien inspecteur de santé publique ;
 
 - un enseignant-chercheur pharmacien hospitalier ;
 
