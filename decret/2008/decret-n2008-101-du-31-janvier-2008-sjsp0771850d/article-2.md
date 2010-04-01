@@ -12,15 +12,13 @@ c) Le directeur général du travail ;
 
 d) Le directeur général de la santé ;
 
-2° Des représentants des services déconcentrés concernés :
+2° Des représentants des services  déconcentrés de l'Etat et de ses établissements publics administratifs  concernés :
 
-a) Un représentant des     directions régionales de l'environnement, de l'aménagement et du logement  ou des directions départementales de l'équipement, désigné par le ministre chargé de la construction ;
+a) Deux représentants des directions  régionales de l'environnement, de l'aménagement et du logement, désignés  conjointement par les ministres chargés de la construction et de  l'environnement ;
 
-b) Un représentant des directions régionales de l'environnement, de l'aménagement et du logement, de l'aménagement et du logement, désigné par le ministre chargé de l'environnement ;
+b) Un représentant des  directions régionales des entreprises, de la concurrence et de la  consommation, du travail et de l'emploi, désigné par les ministres  chargés de la consommation et du travail ;
 
-c) Un représentant des directions régionales du travail, de l'emploi et de la formation professionnelle ou directions départementales du travail, de l'emploi et de la formation professionnelle, désigné par le ministre chargé du travail ;
-
-d) Un représentant des directions régionales des affaires sanitaires et sociales ou des directions départementales des affaires sanitaires et sociales, désigné par le ministre chargé de la santé ;
+c) Un  représentant des agences régionales de santé désigné par le ministre  chargé de la santé ;
 
 3° Des représentants des organismes de prévention :
 

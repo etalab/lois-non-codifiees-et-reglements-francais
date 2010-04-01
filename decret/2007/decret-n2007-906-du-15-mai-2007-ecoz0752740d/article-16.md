@@ -36,7 +36,7 @@ III.-1. Le candidat retenu conformément au 1 du I doit fournir les renseignemen
 
 a) Copie de sa carte d'identité ou de son passeport, ou autre justificatif de sa qualité de ressortissant d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen ou de la Confédération helvétique ;
 
-b) Certificat médical, établi aux frais du candidat, attestant l'aptitude à l'exercice de la profession de débitant de tabac, délivré par un médecin agréé par la direction départementale des affaires sanitaires et sociales ;
+b) Certificat médical, établi aux frais du candidat, attestant l'aptitude à l'exercice de la profession de débitant de tabac, délivré par un médecin agréé par le directeur général de l'agence régionale  de santé  ;
 
 c) Activité du commerce associé au débit de tabac ;
 

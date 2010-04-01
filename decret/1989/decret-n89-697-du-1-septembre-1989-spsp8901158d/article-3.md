@@ -2,9 +2,9 @@
 
 Dans chacune des circonscriptions définies à l'article 53 de la loi du 12 novembre 1968 susvisée, la commission d'agrément pour la biologie médicale est présidée par le recteur de l'une des académies de la circonscription désigné par arrêté des ministres chargés de la santé et des universités. Celui-ci peut désigner pour le représenter en tant que président le directeur de l'une des unités de formation et de recherche médicales ou pharmaceutiques de la circonscription.
 
-Elle est, en outre, composée des membres suivants, nommés par le préfet de la région où siège le recteur :
+Elle est, en outre, composée des membres suivants, nommés par le directeur général de l'agence régionale de santé où siège le recteur :
 
-1. Les directeurs régionaux des affaires. sanitaires et sociales ;
+1.       Les directeurs généraux des agences régionales de santé ;
 
 2. Les coordonnateurs du diplôme d'études spécialisées de biologie médicale de l'interrégion et de chacun des diplômes d'études spécialisées complémentaires de biologie médicale de la circonscription ;
 

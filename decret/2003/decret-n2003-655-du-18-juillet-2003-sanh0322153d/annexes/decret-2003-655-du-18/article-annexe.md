@@ -6,13 +6,11 @@ Groupe unique
 
 Sous-groupe unique : ingénieurs généraux, ingénieurs hospitaliers en chef de classe exceptionnelle, ingénieurs hospitaliers en chef de classe normale, ingénieurs hospitaliers principaux, ingénieurs hospitaliers.
 
-CAP n° 2 : personnels de catégorie A des services de soins des services médico-techniques
-
-et des services sociaux
+CAP n° 2 : personnels de catégorie A des services de soins des services médico-techniques et des services sociaux
 
 Groupe unique
 
-Sous-groupe 1 : directeurs des soins de 1re classe, directeurs des soins de 2e classe, directeurs d'écoles préparant au certificat cadre de sage-femme, directeurs d'écoles préparant au diplôme d'Etat de sage-femme.
+Sous-groupe 1 : directeurs d'écoles préparant au certificat cadre de sage-femme, directeurs d'écoles préparant au diplôme d'Etat de sage-femme.
 
 Sous-groupe 2 : psychologues hors classe, psychologues de classe normale.
 
@@ -34,17 +32,13 @@ Groupe unique
 
 Sous-groupe unique : techniciens supérieurs hospitaliers chefs, agents chefs de classe exceptionnelle, techniciens supérieurs hospitaliers principaux, agents-chefs de 1re catégorie, techniciens supérieurs hospitaliers, agents-chefs de 2e catégorie.
 
-CAP n° 5 : personnels des services de soins, des services médico-techniques
-
-et des services sociaux
+CAP n° 5 : personnels des services de soins, des services médico-techniques et des services sociaux
 
 Groupe unique
 
 Sous-groupe unique : infirmiers de classe supérieure, techniciens de laboratoires de classe supérieure, manipulateurs d'électroradiologie médicale de classe supérieure, préparateurs en pharmacie hospitalière de classe supérieure, masseurs-kinésithérapeutes de classe supérieure, ergothérapeutes de classe supérieure, psychomotriciens de classe supérieure, diététiciens de classe supérieure, pédicures-podologues de classe supérieure, orthophonistes de classe supérieure, orthoptistes de classe supérieure, conseillers en économie sociale et familiale principaux, assistants socio-éducatifs, éducateurs de jeunes enfants de classe supérieure, éducateurs techniques spécialisés de classe supérieure, infirmiers de classe normale, techniciens de laboratoires de classe normale, manipulateurs d'électroradiologie de classe normale, préparateurs en pharmacie hospitalière de classe normale, masseurs-kinésithérapeutes de classe normale, ergothérapeutes de classe normale, psychomotriciens de classe normale, diététiciens de classe normale, pédicures-podologues de classe normale, orthophonistes de classe normale, orthoptistes de classe normale, conseillers en économie sociale et familiale, éducateurs de jeunes enfants de classe normale, éducateurs techniques spécialisés de classe normale, animateurs, moniteurs-éducateurs, techniciens de laboratoire de classe fonctionnelle (cadre d'extinction).
 
-CAP n° 6 : personnels d'encadrement administratif
-
-et des secrétariats médicaux
+CAP n° 6 : personnels d'encadrement administratif et des secrétariats médicaux
 
 Groupe unique
 
@@ -52,9 +46,7 @@ Sous-groupe unique : adjoints des cadres hospitaliers de classe exceptionnelle, 
 
 CORPS DE CATÉGORIE C
 
-CAP n° 7 : personnels techniques, ouvriers, conducteurs ambulanciers
-
-et personnels d'entretien et de salubrité
+CAP n° 7 : personnels techniques, ouvriers, conducteurs ambulanciers et personnels d'entretien et de salubrité
 
 Groupe unique
 
@@ -62,9 +54,7 @@ Sous-groupe 1 : agents de maîtrise principaux, conducteurs ambulanciers hors ca
 
 Sous-groupe 2 : agents de service mortuaire et de désinfection de 1re catégorie (cadre d'extinction), dessinateurs, conducteurs ambulanciers de 2e catégorie, ouvriers professionnels qualifiés, ouvriers professionnels spécialisés, conducteurs d'automobile de 1re catégorie, agents de service mortuaire et de désinfection de 2e catégorie (cadre d'extinction), agents d'entretien qualifiés, agents du service intérieur hors catégorie (cadre d'extinction), agents des services logistiques de Mayotte.
 
-CAP n° 8 : personnels des services de soins, des services médico-techniques
-
-et des services sociaux
+CAP n° 8 : personnels des services de soins, des services médico-techniques et des services sociaux
 
 Groupe unique
 

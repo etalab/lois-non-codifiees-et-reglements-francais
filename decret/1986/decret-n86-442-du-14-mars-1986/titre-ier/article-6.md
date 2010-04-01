@@ -10,4 +10,4 @@ Les membres du comité médical départemental sont désignés, pour une durée 
 
 Les dispositions du 5e et du 6e alinéa de l'article 5 du présent décret sont applicables aux membres des comités médicaux départementaux.
 
-Le secrétariat de chaque comité est assuré par un médecin désigné par le directeur départemental des affaires sanitaires et sociales et placé sous l'autorité de celui-ci.
+Le secrétariat de chaque comité est assuré par un médecin désigné par le directeur départemental chargé de la cohésion sociale et placé sous l'autorité de celui-ci.

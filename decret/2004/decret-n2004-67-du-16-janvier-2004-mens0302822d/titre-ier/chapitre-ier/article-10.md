@@ -4,4 +4,4 @@ La procédure nationale de choix de la discipline et du centre hospitalier unive
 
 Le rang de classement obtenu par le candidat à l'issue des épreuves est pris en compte lors de la procédure du choix des stages.
 
-Les affectations sont prononcées par le préfet de région.
+Les affectations sont prononcées par le directeur général de l'agence régionale de  santé.

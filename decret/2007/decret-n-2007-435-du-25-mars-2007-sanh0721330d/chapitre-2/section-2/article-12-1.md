@@ -10,22 +10,22 @@ La libre prestation de  services est subordonnée à une déclaration écrite pr
 
 Cette déclaration est renouvelée une  fois par an si le prestataire souhaite effectuer une nouvelle prestation de  services. En cas de changement dans sa situation au regard des documents  précédemment fournis, le prestataire déclare ces modifications et fournit les  pièces correspondantes.
 
-Lorsque la déclaration, accompagnée  de l'ensemble des pièces justificatives, a été faite, le préfet de région  informe le prestataire, dans un délai n'excédant pas un mois, de la transmission  de son dossier à la commission prévue à l'article 16 en vue de la vérification  de ses qualifications professionnelles. Ce dernier est informé du résultat de ce  contrôle par le préfet de région.
+Lorsque la déclaration, accompagnée  de l'ensemble des pièces justificatives, a été faite, le directeur général de l'agence régionale de  santé   informe le prestataire, dans un délai n'excédant pas un mois, de la transmission  de son dossier à la commission prévue à l'article 16 en vue de la vérification  de ses qualifications professionnelles. Ce dernier est informé du résultat de ce  contrôle par le directeur général de l'agence régionale de  santé.
 
-Dans le cas où un  complément d'information est demandé par le préfet de région au prestataire, ce  délai est prorogé d'un mois à compter de la réception des documents.
+Dans le cas où un  complément d'information est demandé par ledirecteur général de l'agence régionale de  santé  au prestataire, ce  délai est prorogé d'un mois à compter de la réception des documents.
 
-Si cette vérification met en évidence une différence substantielle  entre les qualifications professionnelles du prestataire et la formation exigée  en France, de nature à nuire à la santé publique, le préfet de région demande à  l'intéressé de démontrer qu'il a acquis les connaissances et compétences  manquantes par une épreuve d'aptitude.
+Si cette vérification met en évidence une différence substantielle  entre les qualifications professionnelles du prestataire et la formation exigée  en France, de nature à nuire à la santé publique, le directeur général de l'agence régionale de  santé  demande à  l'intéressé de démontrer qu'il a acquis les connaissances et compétences  manquantes par une épreuve d'aptitude.
 
-La réussite à  l'épreuve d'aptitude est notifiée par le préfet de région au prestataire dans le  délai de deux mois à compter de la réception de la déclaration. En cas d'échec,  le prestataire est informé qu'il ne peut réaliser sa prestation.
+La réussite à  l'épreuve d'aptitude est notifiée par le directeur général de l'agence régionale de  santé  au prestataire dans le  délai de deux mois à compter de la réception de la déclaration. En cas d'échec,  le prestataire est informé qu'il ne peut réaliser sa prestation.
 
-En l'absence de réponse du préfet de région dans les délais fixés  dans les alinéas ci-dessus, la prestation de services peut être  effectuée.
+En l'absence de réponse du directeur général de l'agence régionale de  santé  dans les délais fixés  dans les alinéas ci-dessus, la prestation de services peut être  effectuée.
 
-Le préfet de région enregistre le prestataire sur  une liste spécifique et lui adresse un récépissé comportant son numéro  d'enregistrement dans un délai n'excédant pas un mois.
+Le directeur général de l'agence régionale de  santé  enregistre le prestataire sur  une liste spécifique et lui adresse un récépissé comportant son numéro  d'enregistrement dans un délai n'excédant pas un mois.
 
 Le  prestataire de services peut faire usage de son titre de formation dans la  langue de l'Etat qui le lui a délivré. Il est tenu de faire figurer le lieu et  l'établissement où il l'a obtenu. Dans le cas où ce titre de formation peut être  confondu avec un titre exigeant en France une formation complémentaire que le  professionnel n'a pas suivie, le préfet de région peut prescrire que celui-ci  doit porter le titre de formation de l'Etat membre d'origine dans une forme  appropriée qu'il lui indique.
 
 La prestation de services est  réalisée sous le titre professionnel de l'Etat d'établissement rédigé dans l'une  des langues officielles de cet Etat. Dans le cas où ce titre professionnel  n'existe pas dans l'Etat membre d'établissement, le prestataire fait mention de  son titre de formation dans la langue officielle ou dans l'une des langues  officielles de cet Etat membre. Toutefois, dans le cas où les qualifications ont  été vérifiées, la prestation de services est réalisée sous le titre  professionnel français.
 
-L'ostéopathe doit posséder les  connaissances linguistiques nécessaires à la réalisation de sa prestation de  services en France. En cas de doute, le préfet de département vérifie, à la  demande du préfet de région, le caractère suffisant de sa maîtrise de la langue  française. Une nouvelle vérification peut être faite à la demande de l'intéressé  par le préfet de région.
+L'ostéopathe doit posséder les  connaissances linguistiques nécessaires à la réalisation de sa prestation de  services en France. En cas de doute, le directeur général de l'agence régionale  de santé vérifie le caractère suffisant de sa maîtrise de la langue  française. Une nouvelle vérification peut être faite à la demande de l'intéressé  par le préfet de région.
 
 Le prestataire de services est  soumis aux règles relatives aux conditions d'exercice de l'ostéopathie, à  l'usage du titre professionnel ainsi qu'aux règles régissant cette activité.

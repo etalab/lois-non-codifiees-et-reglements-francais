@@ -2,7 +2,7 @@
 
 Des arrêtés des ministres chargés de la santé et des enseignements supérieurs fixent la composition et le mode de fonctionnement des commissions de subdivision de l'interrégion des départements d'outre-mer sur les bases suivantes :
 
-1° Lorsque la subdivision comporte plusieurs régions, les membres de la commission sont nommés par un arrêté conjoint des préfets des régions concernées ;
+1° Lorsque la subdivision comporte plusieurs régions, les membres de la commission sont nommés par un arrêté conjoint des directeurs généraux des agences régionales de santé concernées ;
 
 2° Chaque commission comporte le directeur de la ou des unités de formation et de recherche médicale qui, bien que n'appartenant pas à la subdivision, participent à la formation des étudiants de la subdivision ;
 
@@ -14,4 +14,4 @@ Des arrêtés des ministres chargés de la santé et des enseignements supérieu
 
 6° Si la subdivision comporte plusieurs régions, la commission comprend, dans tous les cas où l'article 68 se réfère aux centres hospitaliers généraux et aux centres hospitaliers spécialisés, un représentant de chaque région ;
 
-7° S'il n'y a pas de directeur régional des affaires sanitaires et sociales dans la subdivision, le rôle qui est dévolu à ce directeur régional par l'article 68 est assuré par un fonctionnaire désigné par le ministre chargé de la santé.
+7° S'il n'y a pas de directeur général de l'agence régionale de santé  dans la subdivision, le rôle qui est dévolu à ce directeur par l'article 68 est assuré par un fonctionnaire désigné par le ministre chargé de la santé.

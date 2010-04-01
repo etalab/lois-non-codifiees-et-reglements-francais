@@ -12,4 +12,4 @@ Dans le cas contraire, le bureau de vote procède successivement :
 
 Le président du bureau de vote proclame les résultats pour les commissions administratives paritaires locales.
 
-Les procès-verbaux des élections aux commissions administratives paritaires départementales sont communiqués dans les vingt-quatre heures suivant la clôture du scrutin au directeur départemental des affaires sanitaires et sociales et aux délégués de listes.
+Les procès-verbaux des élections aux commissions administratives paritaires départementales sont communiqués dans les vingt-quatre heures suivant la clôture du scrutin au directeur de l'établissement qui en assure la gestion et aux délégués de listes.

@@ -1,6 +1,6 @@
 # Article 4
 
-Les directeurs des écoles préparant au diplôme d'Etat de sage-femme sont recrutés à la suite de concours sur épreuves organisés à l'échelon régional. Ces concours sont ouverts par le préfet de région soit pour un, soit pour plusieurs établissements de la même région. Toutefois, en ce qui concerne l'administration générale de l'assistance publique à Paris, ils sont ouverts par le directeur général.
+Les directeurs des écoles préparant au diplôme d'Etat de sage-femme sont recrutés à la suite de concours sur épreuves organisés à l'échelon régional. Ces concours sont ouverts par le  directeur général de l'agence régionale de santé soit pour un, soit pour plusieurs établissements de la même région. Toutefois, en ce qui concerne l'administration générale de l'assistance publique à Paris, ils sont ouverts par le directeur général.
 
 Peuvent être candidats :
 

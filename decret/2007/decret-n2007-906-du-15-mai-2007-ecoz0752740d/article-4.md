@@ -24,7 +24,7 @@ Son suppléant ou, à défaut, son conjoint ou ses héritiers en ligne directe a
 
 3. Etat de santé du gérant.
 
-Dans ce cas, le débitant passe une visite médicale devant un médecin agréé par la direction départementale des affaires sanitaires et sociales afin d'être reconnu inapte à l'exercice de la profession de débitant de tabac.
+Dans ce cas, le débitant passe une visite médicale devant un médecin agréé par la le directeur général de l'agence régionale  de santé  afin d'être reconnu inapte à l'exercice de la profession de débitant de tabac.
 
 IV. - A réception des lettres du cédant et du candidat, le directeur régional des douanes et droits indirects accuse réception par écrit de leurs requêtes et transmet au candidat un dossier de candidature.
 

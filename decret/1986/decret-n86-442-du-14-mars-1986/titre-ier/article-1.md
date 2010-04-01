@@ -1,6 +1,6 @@
 # Article 1
 
-Une liste de médecins agréés généralistes et spécialistes est établie dans chaque département par le préfet sur proposition du directeur départemental des affaires sanitaires et sociales, après avis du Conseil départemental de l'ordre des médecins et du ou des syndicats départementaux des médecins.
+Une liste de médecins agréés généralistes et spécialistes est établie dans chaque département par le préfet sur proposition du directeur général de l'agence régionale de santé, après avis du Conseil départemental de l'ordre des médecins et du ou des syndicats départementaux des médecins.
 
 Les médecins agréés sont choisis, sur leur demande ou avec leur accord, parmi les praticiens âgés de moins de soixante cinq ans ayant au moins trois ans d'exercice professionnel, dont, pour les généralistes, un an au moins dans le département pour lequel la liste est établie.
 

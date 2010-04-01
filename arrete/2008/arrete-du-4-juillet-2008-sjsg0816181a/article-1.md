@@ -4,7 +4,7 @@ Pour chacun des examens professionnels réservés organisés en application des 
 
 Sa composition est fixée comme suit :
 
-― le directeur de l'administration générale, du personnel et du budget au ministère chargé de la santé ou son représentant, président ;
+― le                 secrétaire général des ministères chargés des affaires sociales  ou son représentant, président ;
 
 ― deux personnalités qualifiées choisies parmi les agents en fonction dans les services du ministère chargé de la santé.
 

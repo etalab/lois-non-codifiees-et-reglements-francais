@@ -8,4 +8,4 @@ Les internes de psychiatrie peuvent, à leur demande, effectuer un stage de deux
 
 Les internes de santé publique peuvent, à la suite d'un seul et même choix, effectuer un stage de deux semestres consécutifs au sein de l'Ecole nationale de la santé publique selon des modalités fixées par arrêté des ministres chargés de l'enseignement supérieur et de la santé.
 
-Le choix des stages est organisé dans le cadre de chaque subdivision par le préfet de région.
+Le choix des stages est organisé dans le cadre de chaque subdivision par le directeur général de l'agence régionale de  santé.

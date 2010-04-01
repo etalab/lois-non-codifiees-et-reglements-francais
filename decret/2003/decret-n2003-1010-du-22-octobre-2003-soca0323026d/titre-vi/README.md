@@ -1,3 +1,0 @@
-# TITRE VI : DISPOSITIONS TRANSITOIRES ET FINALES.
-
-- [Article 167](article-167.md)
