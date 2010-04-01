@@ -10,4 +10,6 @@ En application du deuxième alinéa de l'article 1er de l'ordonnance du 13 avril
 
 4° Du 12 juillet 2009 dans le bassin d'emploi d'Hagetmau ;
 
-5° Du 3 octobre 2009 dans les bassins d'emploi de Briey-bassin houiller, Marne moyenne, Thiers et Saint-Etienne.
+5° Du 3 octobre 2009 dans les bassins d'emploi de Briey-bassin houiller, Marne moyenne, Thiers et Saint-Etienne ;
+
+6° Du 1er avril 2010 dans les bassins d'emploi de Colmar, d'Orange-Carpentras, de Saint-Brieuc - Loudéac et de la Vallée de la Maurienne.
