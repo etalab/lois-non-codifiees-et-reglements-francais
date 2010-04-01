@@ -28,7 +28,7 @@ A ces titres, elle assure notamment les missions suivantes :
 
 11° En liaison avec les autres directions et ministères concernés, elle pilote, anime et coordonne les actions des services déconcentrés chargés de mettre en œuvre les politiques publiques entrant dans le champ de ses compétences ;
 
-12° Elle assure une mission de coordination interministérielle en matière de contrôle des précurseurs chimiques de drogue et participe à la mission de contrôle à l'exportation des biens et technologies à double usage ;
+12° Elle assure une mission de coordination interministérielle en matière de contrôle des précurseurs chimiques de drogue et est chargée du suivi des questions relatives aux biens et technologies à double usage. A ce titre, elle assure notamment la coordination des ministères intéressés ;
 
 13° Elle participe à la définition et à la mise en œuvre des actions de conversion et de restructuration dans les secteurs relevant de sa compétence, en liaison avec les services compétents.
 
@@ -38,7 +38,7 @@ II. ― La direction générale de la compétitivité, de l'industrie et des ser
 
 ― des établissements publics relevant de sa compétence et des agences en charge de l'innovation et de la recherche dans les entreprises ;
 
-― des entreprises publiques relevant de sa compétence, sous réserve des attributions de la direction générale du Trésor et de la politique économique ; le cas échéant, elle assure leur contrôle ;
+― des entreprises publiques relevant de sa compétence, sous réserve des attributions de la direction générale du Trésor ; le cas échéant, elle assure leur contrôle ;
 
 ― dans son champ de compétence, des comités professionnels et des centres techniques industriels ;
 
