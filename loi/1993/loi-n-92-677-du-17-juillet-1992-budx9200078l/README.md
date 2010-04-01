@@ -5,4 +5,3 @@
 - [Article 110](article-110.md)
 - [Article 120](article-120.md)
 - [Article 121](article-121.md)
-- [Dispositions relatives aux droits indirects](dispositions-relatives-aux)
