@@ -2,11 +2,11 @@
 
 La composition de cette commission est fixée ainsi qu'il suit :
 
-1. Le directeur général du Centre national professionnel de la propriété forestière, président ;
+1. Le directeur général du      Centre national de la propriété forestière, président ;
 
 2. Un représentant du ministre chargé de la forêt, désigné par celui-ci ;
 
-3. Une personne plus particulièrement chargée de la formation professionnelle au Centre national professionnel de la propriété forestière ;
+3. Une personne plus particulièrement chargée de la formation professionnelle au      Centre national de la propriété forestière ;
 
 4. Un représentant des personnels des centres de la propriété forestière désigné tous les trois ans par les représentants des personnels au comité consultatif paritaire national de ces centres.
 

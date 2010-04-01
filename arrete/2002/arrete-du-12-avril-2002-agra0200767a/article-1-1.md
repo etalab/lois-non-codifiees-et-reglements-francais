@@ -1,14 +1,14 @@
 # Article 1-1
 
-En application du troisième alinéa de l'article 2 du décret du 14 janvier 2002 susvisé, les agents de la filière administrative du Centre national professionnel de la propriété forestière et des centres régionaux de la propriété forestière peuvent percevoir des indemnités d'administration et de technicité conformément au tableau d'assimilation ci-dessous :
+En application du troisième alinéa de l'article 2 du décret du 14 janvier 2002 susvisé, les agents de la filière administrative du      Centre national de la propriété forestière et des centres régionaux de la propriété forestière peuvent percevoir des indemnités d'administration et de technicité conformément au tableau d'assimilation ci-dessous :
 
 <table>
 <tbody>
 <tr>
 <td>
-<p align="center">PERSONNELS DU CENTRE NATIONAL </p>
+<p align="center">PERSONNELS DU  </p>
 <br/>
-<p align="center">professionnel de la propriété forestière </p>
+<p align="center">    Centre national de la propriété forestière </p>
 <br/>
 <p align="center">et des centres régionaux </p>
 <br/>
@@ -22,7 +22,7 @@ En application du troisième alinéa de l'article 2 du décret du 14 janvier 200
 </tr>
 <tr>
 <td>
-<p>Personnel de la catégorie A3 de classe exceptionnelle</p>
+<p>Personnel de la catégorie A3 de classe exceptionnelle </p>
 </td>
 <td>
 <p>Agents de catégorie C rémunérés en échelle nouvel espace indiciaire. </p>
@@ -30,7 +30,7 @@ En application du troisième alinéa de l'article 2 du décret du 14 janvier 200
 </tr>
 <tr>
 <td>
-<p>Personnel de la catégorie A3 de classe supérieure</p>
+<p>Personnel de la catégorie A3 de classe supérieure </p>
 </td>
 <td>
 <p>Agents de catégorie C rémunérés en échelle 5. </p>
@@ -38,7 +38,7 @@ En application du troisième alinéa de l'article 2 du décret du 14 janvier 200
 </tr>
 <tr>
 <td>
-<p>Personnel de la catégorie A3 de classe normale</p>
+<p>Personnel de la catégorie A3 de classe normale </p>
 </td>
 <td>
 <p>Agents de catégorie C rémunérés en échelle 4. </p>
@@ -46,7 +46,7 @@ En application du troisième alinéa de l'article 2 du décret du 14 janvier 200
 </tr>
 <tr>
 <td rowspan="2">
-<p>Personnel de la catégorie A2 de classe normale  dont la rémunération est au plus égale à celle qui correspond à l'indice brut 380</p>
+<p>Personnel de la catégorie A2 de classe normale dont la rémunération est au plus égale à celle qui correspond à l'indice brut 380 </p>
 </td>
 <td rowspan="2">
 <p>Agents du 1er grade de la catégorie B.</p>

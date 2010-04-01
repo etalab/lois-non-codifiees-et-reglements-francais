@@ -12,7 +12,7 @@ Centre technique des productions cidricoles (CTPC) ;
 
 Etablissement national technique pour l'amélioration des techniques viticoles-Institut technique du vin (ENTAV-ITV France) ;
 
-IFIP - Institut du porc ;
+IFIP-Institut du porc ;
 
 Institut de l'élevage ;
 
@@ -22,6 +22,6 @@ Institut technique français de la betterave industrielle (ITB) ;
 
 Institut technique du lin (ITL) ;
 
-Institut pour le développement forestier (IDF), service d'utilité forestière du Centre national professionnel de la propriété forestière (CNPPF) ;
+Institut pour le développement forestier (IDF), service d'utilité forestière du      Centre national de la propriété forestière (CNPPF) ;
 
 Union interprofessionnelle des plantes riches en protéines (UNIP).
