@@ -1,6 +1,6 @@
 # Article 15
 
-Le conseil technique comprend, outre le préfet de région ou son représentant, président :
+Le conseil technique comprend, outre le directeur général de l'agence régionale ou son représentant, président :
 
 1° Le directeur de l'institut ;
 
@@ -10,13 +10,13 @@ Le conseil technique comprend, outre le préfet de région ou son représentant,
 
 4° Des enseignants de l'institut, intervenant à temps plein ou à temps partiel, élus par leurs pairs, à raison d'un au moins pour chacune des professions pour lesquelles l'institut est agréé, ainsi que, pour chacune de ces professions, au-delà de quarante étudiants, un membre supplémentaire par tranche de quarante étudiants ;
 
-5° Des professionnels, désignés par le préfet de région, titulaires du diplôme de cadre de santé ou de l'un des autres titres visés au 3° de l'article 2 du présent arrêté, exerçant depuis au moins trois ans des fonctions d'encadrement dans un service accueillant des étudiants en stage, en nombre égal, par profession, aux enseignants mentionnés au 4° ci-dessus ;
+5° Des professionnels, désignés par le directeur de l'institut, titulaires du diplôme de cadre de santé ou de l'un des autres titres visés au 3° de l'article 2 du présent arrêté, exerçant depuis au moins trois ans des fonctions d'encadrement dans un service accueillant des étudiants en stage, en nombre égal, par profession, aux enseignants mentionnés au 4° ci-dessus ;
 
 6° Des représentants des étudiants, élus par leurs pairs, en nombre égal, par profession, aux enseignants mentionnés au 4° ci-dessus ;
 
-7° Une personnalité qualifiée, désignée par le préfet de région.
+7° Une personnalité qualifiée, désignée par le directeur de l'institut.
 
-Les membres du conseil technique sont nommés par arrêté du préfet de région.
+Les membres du conseil technique sont nommés par arrêté du directeur général de l'agence régionale de santé.
 
 La durée du mandat des membres du conseil technique est de cinq ans, à l'exception des représentants des étudiants, qui siègent pour une durée d'un an. Les membres élus du conseil technique ont un suppléant désigné dans les mêmes conditions.
 

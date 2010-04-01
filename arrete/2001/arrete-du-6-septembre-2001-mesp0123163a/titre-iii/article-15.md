@@ -1,8 +1,8 @@
 # Article 15
 
-Nommé par arrêté du préfet de région, sur proposition du directeur régional des affaires sanitaires et sociales, le jury comprend :
+Nommé par arrêté du préfet de région, sur proposition du directeur régional de la jeunesse, des sports et de la cohésion sociale, le jury comprend :
 
-- le directeur régional des affaires sanitaires et sociales ou son représentant ;
+- le directeur régional de la jeunesse, des sports et de la cohésion sociale ou son représentant ;
 
 - un médecin participant à la formation des étudiants ;
 

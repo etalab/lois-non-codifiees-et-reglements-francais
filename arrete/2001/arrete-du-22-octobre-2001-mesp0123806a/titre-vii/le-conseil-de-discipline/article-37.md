@@ -1,6 +1,6 @@
 # Article 37
 
-Le conseil de discipline est présidé par le préfet de région ou son représentant. Il comprend :
+Le conseil de discipline est présidé par le directeur général de l'agence régionale de santé ou son représentant. Il comprend :
 
 - un représentant de l'organisme gestionnaire siégeant au conseil technique ;
 

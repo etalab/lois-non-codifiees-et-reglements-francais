@@ -16,4 +16,4 @@ En cas d'échec à la deuxième session, le dossier scolaire du candidat est exa
 
 Un même candidat ne peut se présenter qu'à quatre sessions en deux années consécutives.
 
-Le directeur régional des affaires sanitaires et sociales, pour des motifs exceptionnels, peut accorder une dérogation à cette règle.
+Le directeur régional de la jeunesse, des sports et de la cohésion sociale, pour des motifs exceptionnels, peut accorder une dérogation à cette règle.

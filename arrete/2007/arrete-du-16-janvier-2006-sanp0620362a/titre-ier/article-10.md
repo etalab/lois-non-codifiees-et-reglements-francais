@@ -1,16 +1,16 @@
 # Article 10
 
-Les membres du jury d'admission sont nommés par le préfet du département ou de région, en fonction du choix opéré pour l'organisation du concours. Le jury de l'épreuve d'admission est composé d'au moins 10 % de l'ensemble des évaluateurs. Il est présidé :
+Les membres du jury d'admission sont nommés par le directeur de l'institut de formation, en fonction du choix opéré pour l'organisation du concours. Le jury de l'épreuve d'admission est composé d'au moins 10 % de l'ensemble des évaluateurs. Il est présidé :
 
-a) En cas d'absence de regroupement entre instituts, par le directeur départemental des affaires sanitaires et sociales du lieu d'implantation de l'institut ou son représentant ;
+a) En cas d'absence de regroupement entre instituts, par le directeur de l'institut de formation ;
 
-b) En cas de regroupement de tout ou partie des instituts d'un même département, par le directeur départemental des affaires sanitaires et sociales de leur lieu d'implantation ou son représentant ;
+b) En cas de regroupement de tout ou partie des instituts d'un même département, par un directeur d'institut de formation désigné par le directeur général de l'agence régionale de santé ;
 
-c) En cas de regroupement d'instituts de départements différents, par le directeur départemental des affaires sanitaires et sociales du département dont la capacité d'accueil de l'ensemble des instituts concernés par le regroupement est la plus importante ou son représentant ;
+c) En cas de regroupement d'instituts de départements différents, par un directeur d'institut de formation désigné par le directeur général de l'agence régionale de santé de la région dont la capacité d'accueil de l'ensemble des instituts concernés par le regroupement est la plus importante ou son représentant ;
 
-d) En cas de regroupement de tous les instituts d'une même région, par le directeur régional des affaires sanitaires et sociales ou son représentant.
+d) En cas de regroupement de tous les instituts d'une même région, par un directeur d'institut désigné par le directeur général de l'agence régionale de santé.
 
-En cas d'organisation prévue à l'alinéa b, le jury devra comprendre au moins un représentant de chacun des instituts pour lesquels des épreuves sont organisées. En cas d'organisation prévue aux alinéas c et d, la représentation de chaque département devra être assurée.
+En cas de regroupement des instituts de formation en vue de l'organisation des épreuves, le jury comprend au moins un représentant de chacun des instituts pour lesquels des épreuves sont organisées.
 
 A l'issue de l'épreuve orale d'admission et au vu de la note obtenue à cette épreuve, le jury établit la liste de classement. Cette liste comprend une liste principale et une liste complémentaire.
 

@@ -1,6 +1,6 @@
 # Article 46
 
-Le directeur de l'école est assisté d'un conseil de discipline constitué au début de chaque année scolaire après la première réunion du conseil technique par arrêté du préfet de région. Le conseil de discipline émet un avis sur les fautes disciplinaires ainsi que sur tous les actes des élèves incompatibles avec la sécurité de l'enfant et, ou de son entourage et mettant en cause leur responsabilité personnelle.
+Le directeur de l'école est assisté d'un conseil de discipline constitué au début de chaque année scolaire après la première réunion du conseil technique par arrêté du directeur général de l'agence régionale de santé. Le conseil de discipline émet un avis sur les fautes disciplinaires ainsi que sur tous les actes des élèves incompatibles avec la sécurité de l'enfant et, ou de son entourage et mettant en cause leur responsabilité personnelle.
 
 Le conseil de discipline peut proposer les sanctions suivantes :
 

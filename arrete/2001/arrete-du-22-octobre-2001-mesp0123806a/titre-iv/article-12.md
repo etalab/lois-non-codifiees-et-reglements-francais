@@ -1,12 +1,10 @@
 # Article 12
 
-Le jury des épreuves d'admission est nommé par arrêté du préfet de région, sur proposition du directeur de l'école.
+Le jury des épreuves d'admission est nommé par le directeur de l'école, sur proposition du directeur de l'école.
 
 Il comprend :
 
-- le directeur régional des affaires sanitaires et sociales, président, ou son représentant ;
-
-- le directeur de l'école ;
+- le directeur de l'école, président ;
 
 - le conseiller scientifique de l'école ;
 

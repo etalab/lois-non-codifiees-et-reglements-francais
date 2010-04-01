@@ -6,7 +6,7 @@ Le directeur de l'école informe le conseil technique des demandes d'admission d
 
 Il sollicite l'avis du conseil technique sur les mutations d'élèves à l'occasion d'un redoublement. Les membres du conseil reçoivent alors communication du dossier des élèves concernés accompagné d'un rapport motivé établi par le directeur de l'école. Ce dernier ne peut prononcer la mutation que si les élèves sont assurés de leur inscription dans un autre établissement.
 
-Les mutations demandées par les élèves ne peuvent être accordées que pour un motif exceptionnel après accord des deux directeurs. Le directeur de l'école notifie sa décision motivée aux élèves et à la direction régionale des affaires sanitaires et sociales.
+Les mutations demandées par les élèves ne peuvent être accordées que pour un motif exceptionnel après accord des deux directeurs. Le directeur de l'école notifie sa décision motivée aux élèves et au directeur général de l'agence régionale de santé.
 
 Il sollicite l'avis du conseil technique sur des compléments éventuels de scolarité pour les élèves ayant échoué aux épreuves du diplôme d'Etat d'infirmier anesthésiste.
 

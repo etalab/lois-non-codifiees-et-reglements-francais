@@ -1,3 +1,3 @@
 # Article 34
 
-Peuvent être dispensées de tout ou partie de la scolarité les personnes dont les titres sont reconnus valables par le ministre chargé de la santé après avis de la commission des ergothérapeutes du Conseil supérieur des professions paramédicales.
+Peuvent être dispensées de tout ou partie de la scolarité les personnes dont les titres sont reconnus valables par le préfet de département du lieu de l'institut de formation en ergothérapie.

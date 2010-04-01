@@ -1,6 +1,6 @@
 # Article 7
 
-Le jury du concours d'admission est nommé par arrêté du préfet de région. Cette nomination se fait sur proposition du médecin inspecteur régional de la santé, en liaison avec les directeurs des écoles.
+Le jury du concours d'admission est nommé et présidé par le directeur de l'école.
 
 Il est présidé par le médecin inspecteur régional de la santé, président, ou son représentant, médecin inspecteur de la santé.
 
@@ -14,4 +14,4 @@ Il comprend :
 
 (1) Lire puéricultrice, puériculteur.
 
-Si le nombre de candidats le justifie, le préfet peut augmenter le nombre des membres du jury. Celui-ci est dans ce cas organisé en sous-groupes composés dans les mêmes proportions des membres énumérés ci-dessus.
+Si le nombre de candidats le justifie, directeur de l'école peut augmenter le nombre des membres du jury. Celui-ci est dans ce cas organisé en sous-groupes composés dans les mêmes proportions des membres énumérés ci-dessus.

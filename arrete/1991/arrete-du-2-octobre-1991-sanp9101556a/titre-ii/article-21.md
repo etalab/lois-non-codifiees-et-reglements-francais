@@ -4,7 +4,7 @@ Sont déclarés admis au diplôme d'Etat de pédicure-podologue les candidats ay
 
 La liste des candidats admis à l'examen du diplôme d'Etat est établie en séance plénière du jury. Celui-ci ne peut pas ajourner un candidat sans avoir consulté son carnet de scolarité.
 
-La liste des candidats admis, établie par ordre alphabétique, est affichée à la direction régionale des affaires sanitaires et sociales.
+La liste des candidats admis, établie par ordre alphabétique, est affichée à la direction régionale de la jeunesse, des sports et de la cohésion sociale.
 
 Le diplôme d'Etat de pédicure-podologue est délivré aux candidats déclarés admis par le jury par le préfet de région au vu du procès-verbal de l'examen.
 

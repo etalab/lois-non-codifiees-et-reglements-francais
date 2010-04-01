@@ -1,6 +1,8 @@
 # Article 13
 
-Le jury d'attribution du diplôme de cadre de santé, nommé par le préfet de région pour chaque institut, comprend, outre le directeur régional des affaires sanitaires et sociales ou son représentant, président :
+Le jury d'attribution du diplôme de cadre de santé, nommé par le préfet de région pour chaque institut, comprend, outre le directeur régional de la jeunesse, des sports et de la cohésion sociale ou son représentant, président :
+
+- le directeur général de l'agence régionale de santé ou son représentant ;
 
 - le directeur de l'institut ou son représentant ;
 

@@ -1,9 +1,11 @@
 # Article 25
 
-Le préfet de région nomme, sur proposition du directeur régional des affaires sanitaires et sociales et après avis du médecin inspecteur régional de la santé ou de son représentant médecin inspecteur de la santé, les membres du jury.
+Le préfet de région nomme, sur proposition du directeur régional de la jeunesse, des sports et de la cohésion sociale, les membres du jury.
 
-Le jury de l'examen est présidé par le directeur régional des affaires sanitaires et sociales ou son représentant. Il comprend :
+Le jury de l'examen est présidé par le directeur régional de la jeunesse, des sports et de la cohésion sociale ou son représentant. Il comprend :
 
-des médecins dont au moins un médecin spécialiste qualifié en rééducation et réadaptation fonctionnelles et un psychiatre ;
+- le directeur général de l'agence régionale de santé ou son représentant ;
 
-des ergothérapeutes, dont au moins un tiers ne sont pas enseignants à l'institut de formation en ergothérapie.
+- des médecins dont au moins un médecin spécialiste qualifié en rééducation et réadaptation fonctionnelles et un psychiatre ;
+
+- des ergothérapeutes, dont au moins un tiers ne sont pas enseignants à l'institut de formation en ergothérapie.

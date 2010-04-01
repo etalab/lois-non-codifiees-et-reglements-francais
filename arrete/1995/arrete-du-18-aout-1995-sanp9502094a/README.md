@@ -8,6 +8,7 @@
 - [Article 8 bis](article-8-bis.md)
 - [Article 8 ter](article-8-ter.md)
 - [Article 9](article-9.md)
+- [Article 9 bis](article-9-bis.md)
 - [Article 10](article-10.md)
 - [Article 11](article-11.md)
 - [Article 12](article-12.md)

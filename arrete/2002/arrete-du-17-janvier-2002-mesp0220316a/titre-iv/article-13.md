@@ -1,12 +1,10 @@
 # Article 13
 
-Le jury des épreuves d'admission est nommé par arrêté du préfet de région, sur proposition du directeur de l'école et, pour les centres d'instruction relevant du ministère de la défense, par le directeur central du service de santé des armées.
+Le jury des épreuves d'admission est nommé (_par le)_ directeur de l'école et, pour les centres d'instruction relevant du ministère de la défense, par le directeur central du service de santé des armées.
 
 Il comprend :
 
-- le directeur régional des affaires sanitaires et sociales, président, ou son représentant ;
-
-- le directeur de l'école ;
+- le directeur de l'école, président ;
 
 - le conseiller scientifique de l'école ou le directeur technique pour les centres d'instruction relevant du ministère de la défense ;
 

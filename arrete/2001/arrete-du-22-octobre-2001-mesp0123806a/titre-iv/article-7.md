@@ -6,7 +6,7 @@ Pour être admis à suivre l'enseignement sanctionné par le diplôme d'Etat d'i
 
 - justifier de deux années minimum d'exercice, en équivalent temps plein, soit de la profession d'infirmier, soit de la profession de sage-femme, au 1er janvier de l'année du concours ;
 
-- avoir subi avec succès les épreuves d'admission à la formation préparant au diplôme d'Etat d'infirmier de bloc opératoire, organisées par chaque école agréée sous la responsabilité du préfet de région ;
+- avoir subi avec succès les épreuves d'admission à la formation préparant au diplôme d'Etat d'infirmier de bloc opératoire, organisées par chaque école agréée sous la responsabilité du directeur général de l'agence régionale de santé ;
 
 - avoir acquitté les droits de scolarité fixés par arrêté ministériel ;
 

@@ -4,4 +4,4 @@ Sont autorisées, à compter du 31 décembre 2004, à se présenter aux épreuve
 
 - les sages-femmes titulaires du diplôme d'Etat français ;
 
-- les personnes autorisées à exercer définitivement la profession d'infirmier en application des dispositions du code de la santé publique, sous réserve qu'elles exercent leur profession depuis au minimum deux ans à la date du dépôt de leur dossier à la direction régionale des affaires sanitaires et sociales.
+- les personnes autorisées à exercer définitivement la profession d'infirmier en application des dispositions du code de la santé publique, sous réserve qu'elles exercent leur profession depuis au minimum deux ans à la date du dépôt de leur dossier à la direction régionale de la jeunesse, des sports et de la cohésion sociale.

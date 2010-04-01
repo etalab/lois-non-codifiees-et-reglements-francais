@@ -1,6 +1,6 @@
 # Article 8
 
-Les terrains de stage publics et privés sont agréés par le médecin inspecteur régional de la santé du lieu de stage.
+Les terrains de stage publics et privés sont agréés par le directeur de l'institut de formation, après avis du conseil pédagogique.
 
 Chaque stage fait l'objet d'une notation sur 20 points par le professionnel responsable de l'élève en stage.
 

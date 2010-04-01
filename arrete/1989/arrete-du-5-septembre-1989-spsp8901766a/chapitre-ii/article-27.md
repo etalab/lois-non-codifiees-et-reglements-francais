@@ -1,8 +1,8 @@
 # Article 27
 
-Le préfet de région nomme, sur proposition du directeur régional des affaires sanitaires et sociales, après avis du médecin inspecteur régional de la santé ou de son représentant médecin inspecteur de la santé, les différents membres du jury.
+Le préfet de région nomme, sur proposition du directeur régional de la jeunesse, des sports et de la cohésion sociale, les différents membres du jury.
 
-Le jury de l'examen est présidé par le directeur régional des affaires sanitaires et sociales ou à son représentant. Il comprend un médecin ayant, le cas échéant, des connaissances en rééducation et réadaptation fonctionnnelles et deux masseurs-kinésithérapeutes.
+Le jury de l'examen est présidé par le directeur régional de la jeunesse, des sports et de la cohésion sociale ou son représentant. Il comprend le directeur général de l'agence régionale de santé ou son représentant, un médecin ayant, le cas échéant, des connaissances en rééducation et réadaptation fonctionnnelles et deux masseurs-kinésithérapeutes.
 
 Par ailleurs, les membres du jury ne peuvent siéger lors de la soutenance d'un travail écrit dont ils ont assuré la direction.
 

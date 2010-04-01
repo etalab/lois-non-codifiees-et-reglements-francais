@@ -4,4 +4,4 @@ La durée totale de la formation préparatoire au diplôme de cadre de santé es
 
 La formation comporte deux semaines de travail personnel, de recherche et de documentation dont le directeur fixe la date après avis du conseil technique. Le programme de la formation théorique et pratique est défini à l'annexe I du présent arrêté.
 
-La date de rentrée est fixée chaque année par le directeur de l'institut, après accord du directeur régional des affaires sanitaires et sociales, entre le 1er et le 15 septembre.
+La date de rentrée est fixée chaque année par le directeur de l'institut entre le 1er et le 15 septembre.

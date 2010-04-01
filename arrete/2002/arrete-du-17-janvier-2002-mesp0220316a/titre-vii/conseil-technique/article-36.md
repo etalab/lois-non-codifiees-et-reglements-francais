@@ -1,6 +1,6 @@
 # Article 36
 
-Le conseil technique est présidé par le préfet de région ou son représentant.
+Le conseil technique est présidé par le directeur général de l'agence régionale de santé ou son représentant.
 
 Il comprend :
 

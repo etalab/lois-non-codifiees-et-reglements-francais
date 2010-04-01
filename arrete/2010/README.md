@@ -541,6 +541,7 @@
 - [Arrêté du 20 janvier 2010 (SASP1001859A)](arrete-du-20-janvier-2010-sasp1001859a)
 - [Arrêté du 20 novembre 2009 (BCFD0907947A)](arrete-du-20-novembre-2009-bcfd0907947a)
 - [Arrêté du 20 octobre 2009 (ESRH0917201A)](arrete-du-20-octobre-2009-esrh0917201a)
+- [Arrêté du 21 août 1996 (TASP9622828A)](arrete-du-21-aout-1996-tasp9622828a)
 - [Arrêté du 21 avril 2009 (ECEP0908385A)](arrete-du-21-avril-2009-ecep0908385a)
 - [Arrêté du 21 décembre 2009 (AGRE0930717A)](arrete-du-21-decembre-2009-agre0930717a)
 - [Arrêté du 21 décembre 2009 (AGRG0927709A)](arrete-du-21-decembre-2009-agrg0927709a)

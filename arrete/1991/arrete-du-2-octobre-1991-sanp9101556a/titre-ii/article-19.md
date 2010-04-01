@@ -4,7 +4,7 @@ Le dossier des candidats est composé des pièces suivantes :
 
 1° Une demande d'inscription sur papier libre, rédigée par le candidat ;
 
-2° Une fiche d'état civil ;
+2° Une copie d'une pièce d'identité ;
 
 3° Le dossier constitué lors de l'entrée à l'école ;
 
@@ -14,4 +14,4 @@ Le dossier des candidats est composé des pièces suivantes :
 
 6° Pour tous les candidats, l'attestation de formation aux gestes et soins d'urgence de niveau 2 en cours de validité.
 
-Il est transmis par le directeur de l'école, trente jours avant la date fixée pour la première session, au préfet de région du lieu d'organisation de l'examen. Celui-ci procède à l'inscription du candidat après vérification du dossier. Les candidats dispensés de la totalité de la scolarité transmettent directement leur dossier au préfet de région.
+Le directeur de l'institut de formation en pédicurie-podologie procède à l'inscription du candidat après vérification du dossier. Les candidats dispensés de la totalité de la scolarité transmettent directement leur dossier au préfet de région.

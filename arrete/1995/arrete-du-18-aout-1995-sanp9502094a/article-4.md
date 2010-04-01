@@ -6,4 +6,4 @@ Pour être admis à suivre la formation sanctionnée par le diplôme de cadre de
 
 2° Avoir exercé pendant au moins quatre ans à temps plein ou une durée de quatre ans d'équivalent temps plein au 31 janvier de l'année des épreuves de sélection l'une des professions mentionnées au 1° ci-dessus ;.
 
-3° Avoir subi avec succès les épreuves de sélection organisées par chaque institut sous le contrôle du directeur régional des affaires sanitaires et sociales.
+3° Avoir subi avec succès les épreuves de sélection organisées par chaque institut sous le contrôle du directeur général de l'agence régionale de santé.

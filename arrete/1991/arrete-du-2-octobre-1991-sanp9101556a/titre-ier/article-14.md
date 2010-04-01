@@ -1,8 +1,8 @@
 # Article 14
 
-Le jury de l'examen de passage en troisième année est nommé par le préfet de région après avis du médecin inspecteur régional de la santé. Il est présidé par le médecin inspecteur régional de la santé ou son représentant, médecin inspecteur de la santé.
+Le jury de l'examen de passage en troisième année est nommé par le directeur de l'institut de formation et présidé par ce dernier.
 
-Il comprend, outre le directeur de l'école :
+Il comprend, outre le directeur de l'institut :
 
 - des médecins ayant des connaissances particulières dans la matière évaluée ;
 

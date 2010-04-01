@@ -26,6 +26,6 @@ Une épreuve de mise en situation professionnelle, évaluée par trois pédicure
 
 - passage devant les examinateurs d'une durée de quinze minutes.
 
-Ces trois épreuves sont notées chacune sur 20 points. Elles se déroulent dans des services agréés comme terrains de stage ou dans tout autre lieu déterminé par le médecin inspecteur régional de la santé.
+Ces trois épreuves sont notées chacune sur 20 points. Elles se déroulent dans des services agréés comme terrains de stage ou dans tout autre lieu déterminé par le  directeur de l'institut de formation en pédicurie-podologie.
 
 Les examinateurs peuvent intervenir à tout moment si la conduite du candidat porte préjudice au patient. Tout acte dangereux entraîne la note zéro et l'élimination immédiate du candidat de la session d'examen en cours.

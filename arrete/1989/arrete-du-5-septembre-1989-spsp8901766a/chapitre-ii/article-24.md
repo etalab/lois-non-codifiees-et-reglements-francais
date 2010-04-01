@@ -8,7 +8,7 @@ Le directeur de l'école peut accorder le bénéfice d'un complément de scolari
 
 En cas d'échec à ces sessions le candidat ne peut plus se présenter aux épreuves du diplôme d'Etat.
 
-Le candidat qui a échoué à deux sessions consécutives la première année doit s'inscrire dans un stage plein temps hospitalier durant lequel il réalisera un nouveau travail écrit qu'il présentera aux deux sessions ultérieures. Il en fait la demande par l'intermédiaire de la direction régionale des affaires sanitaires et sociales de son choix.
+Le candidat qui a échoué à deux sessions consécutives la première année doit s'inscrire dans un stage plein temps hospitalier durant lequel il réalisera un nouveau travail écrit qu'il présentera aux deux sessions ultérieures. Il en fait la demande par l'intermédiaire du directeur de l'institut de formation en masso-kinésithérapie.
 
 Le candidat conserve la note calculée en effectuant la moyenne des notes obtenues aux douze modules de deuxième et troisième année.
 

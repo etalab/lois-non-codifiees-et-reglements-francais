@@ -1,6 +1,6 @@
 # Article 17
 
-Le conseil de discipline comprend, outre le préfet de région ou son représentant, président :
+Le conseil de discipline comprend, outre le directeur général de l'agence régionale de santé ou son représentant, président :
 
 1° Le représentant de l'organisme gestionnaire de l'institut ;
 

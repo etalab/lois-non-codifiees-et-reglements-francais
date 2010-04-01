@@ -1,6 +1,6 @@
 # Article 48
 
-Le conseil de discipline est présidé par le représentant de l'Etat dans la région ou son représentant. Il comprend :
+Le conseil de discipline est présidé par le directeur général de l'agence régionale de santé ou son représentant. Il comprend :
 
 - un représentant de l'organisme gestionnaire ;
 
