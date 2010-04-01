@@ -1,6 +1,6 @@
 # Article 6
 
-Deux exemplaires de la licence délivrée et un exemplaire visé de la facture sont remis à l'exportateur. Les autres exemplaires de la licence et un exemplaire de la facture sont conservés par l'administration des douanes.
+Deux exemplaires de la licence délivrée et un exemplaire visé de la facture sont remis à l'exportateur. Les autres exemplaires de la licence et un exemplaire de la facture sont conservés par l'autorité de délivrance.
 
 La licence peut être utilisée en une seule fois ou faire l'objet de plusieurs imputations en cas d'envois fractionnés.
 

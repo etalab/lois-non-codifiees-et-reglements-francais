@@ -16,6 +16,6 @@ la masse nette maximale de produit chimique du tableau 1 sur laquelle porte la d
 
 la date prévue du transfert.
 
-La demande d'autorisation d'importation est adressée à la direction générale des douanes et droits indirects, bureau E/2, 23 bis, rue de l'Université, 75700 Paris 07 SP.
+La demande d'autorisation d'importation est adressée à la direction générale des douanes et droits indirects, bureau E / 2, 11, rue des Deux-Communes, 93558 Montreuil Cedex.
 
 La durée de validité de l'autorisation d'importation est fixée à un an à partir de la date de délivrance sans toutefois être inférieure à un mois. La mention de cette durée est portée sur l'autorisation délivrée.

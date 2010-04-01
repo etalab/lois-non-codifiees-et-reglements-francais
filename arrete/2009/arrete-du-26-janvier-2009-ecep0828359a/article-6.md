@@ -8,9 +8,9 @@ Il favorise le développement des technologies spécifiques et les retombées in
 
 Il concourt à la diffusion des technologies, des innovations et du design, et plus largement au développement de la compétitivité et de la performance industrielle des entreprises dans les filières de sa responsabilité, notamment dans les petites et moyennes entreprises, par le biais, en particulier, d'actions collectives.
 
-Il assure une mission de coordination pour les sujets relatifs à la prise en compte de l'environnement et du développement durable, au sein de la direction générale, assure la responsabilité d'une mission interministérielle dans le domaine du contrôle des précurseurs chimiques de drogue et apporte son concours aux contrôles à l'exportation des biens et technologies à double usage.
+Il assure une mission de coordination pour les sujets relatifs à la prise en compte de l'environnement et du développement durable, au sein de la direction générale                                   et assure la responsabilité d'une mission interministérielle dans le domaine du contrôle des précurseurs chimiques de drogue ; au titre du suivi des questions relatives aux biens et technologies à double usage, il assure notamment la coordination interministérielle des travaux conduits aux niveaux national, européen et international et élabore la réglementation qui s'y rapporte ; il suit et évalue l'activité du service des biens à double usage.
 
-Il comprend, outre une mission pour le développement industriel durable (MDID), une mission nationale de contrôle des précurseurs chimiques (MNCPC) et une mission chargée des contrôles à l'exportation des biens et technologies à double usage (MCE) :
+Il comprend, outre une mission pour le développement industriel durable (MDID)et une mission nationale de contrôle des précurseurs chimiques (MNCPC) :
 
 ― la sous-direction des filières des matériels de transport, de l'énergie et des éco-industries ;
 

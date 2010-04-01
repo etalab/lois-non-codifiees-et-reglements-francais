@@ -8,4 +8,4 @@ La liste des biens pour lesquels la licence globale est demandée doit comprendr
 
 - position(s) tarifaire(s) ;
 
-- numéro de la (des) rubrique(s) de l'annexe I du règlement (CE) n° 1334/2000 du Conseil du 22 juin 2000.
+- numéro de la (des) rubrique(s) de l'annexe I du règlement (CE) n° 428/2009 du Conseil du 5 mai 2009.

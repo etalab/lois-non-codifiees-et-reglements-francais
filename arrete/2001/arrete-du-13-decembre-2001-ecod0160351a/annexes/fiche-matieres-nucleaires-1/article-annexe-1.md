@@ -56,4 +56,4 @@ Date et signature de l'exportateur, cachet de l'exportateur.
 
 (1) Matières nucléaires concernées par la présente fiche :
 
-rubriques 0C001, 0C002, 0C003, 1C012, 1C233, 1C235, 1C236 et 1C237 de l'annexe I du règlement (CE) du Conseil n° 1334/2000 du 22 juin 2000.
+rubriques 0C001, 0C002, 0C003, 1C012, 1C233, 1C235, 1C236 et 1C237 de l'annexe I du règlement (CE) n° 428/2009 du Conseil du 5 mai 2009.
