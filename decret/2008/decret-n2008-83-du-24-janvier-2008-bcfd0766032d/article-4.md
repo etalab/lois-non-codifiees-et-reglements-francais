@@ -4,4 +4,4 @@ Conformément au 5. de l'article 3 du règlement (CE) du Conseil du 19 avril 200
 
 L'autorisation peut être retirée à tout moment lorsqu'elle a été obtenue par dissimulation, fausses informations ou tout autre procédé frauduleux.
 
-La suspension, la modification, l'abrogation ou le retrait de l'autorisation d'exportation ne peut intervenir qu'après que l'intéressé ait été mis en mesure de présenter ses observations dans un délai, fixé par le ministre chargé des douanes, qui ne peut être inférieur à quinze jours sauf en cas d'urgence.
+La suspension, la modification, l'abrogation ou le retrait de l'autorisation d'exportation ne peut intervenir qu'après que l'intéressé ait été mis en mesure de présenter ses observations dans un délai, fixé par le   ministre chargé de l'industrie, qui ne peut être inférieur à quinze jours sauf en cas d'urgence.
