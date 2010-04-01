@@ -124,7 +124,6 @@
 - [Arrêté du 4 mai 1992 (AGRP9200883A)](arrete-du-4-mai-1992-agrp9200883a)
 - [Arrêté du 4 mai 2007 (AGRS0751320A)](arrete-du-4-mai-2007-agrs0751320a)
 - [Arrêté du 4 mai 2007 (AGRS0753692A)](arrete-du-4-mai-2007-agrs0753692a)
-- [Arrêté du 4 mai 2007 (BUDB0750054A)](arrete-du-4-mai-2007-budb0750054a)
 - [Arrêté du 4 mai 2007 (BUDB0750055A)](arrete-du-4-mai-2007-budb0750055a)
 - [Arrêté du 4 mai 2007 (BUDB0750876A)](arrete-du-4-mai-2007-budb0750876a)
 - [Arrêté du 4 mai 2007 (DACD0752070A)](arrete-du-4-mai-2007-dacd0752070a)

@@ -336,7 +336,6 @@
 - [Arrêté du 12 novembre 2004 (RECR0400126A)](arrete-du-12-novembre-2004-recr0400126a)
 - [Arrêté du 12 octobre 2004 (ECOT0420059A)](arrete-du-12-octobre-2004-ecot0420059a)
 - [Arrêté du 12 octobre 2004 (SANG0421047A)](arrete-du-12-octobre-2004-sang0421047a)
-- [Arrêté du 12 mai 2004 (AGRA0400590A)](arrete-du-12-mai-2004-agra0400590a)
 - [Arrêté du 12 mai 2004 (ECOT0414402A)](arrete-du-12-mai-2004-ecot0414402a)
 - [Arrêté du 12 mai 2004 (ECOT0414403A)](arrete-du-12-mai-2004-ecot0414403a)
 - [Arrêté du 12 mai 2004 (ECOT0414404A)](arrete-du-12-mai-2004-ecot0414404a)

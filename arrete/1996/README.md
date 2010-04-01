@@ -691,7 +691,6 @@
 - [Arrêté du 21 août 1996 (FPPA9610121A)](arrete-du-21-aout-1996-fppa9610121a)
 - [Arrêté du 21 août 1996 (FPPA9610122A)](arrete-du-21-aout-1996-fppa9610122a)
 - [Arrêté du 21 août 1996 (FPPA9610123A)](arrete-du-21-aout-1996-fppa9610123a)
-- [Arrêté du 21 août 1996 (TASP9622828A)](arrete-du-21-aout-1996-tasp9622828a)
 - [Arrêté du 21 décembre 1995 (AGRS9600051A)](arrete-du-21-decembre-1995-agrs9600051a)
 - [Arrêté du 21 décembre 1995 (DEFM9601097A)](arrete-du-21-decembre-1995-defm9601097a)
 - [Arrêté du 21 décembre 1995 (ECOC9600156A)](arrete-du-21-decembre-1995-ecoc9600156a)

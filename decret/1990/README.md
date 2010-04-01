@@ -85,7 +85,6 @@
 - [Décret n°90-21 du 4 janvier 1990 (JUSD8930105D)](decret-n90-21-du-4-janvier-1990-jusd8930105d)
 - [Décret n°90-561 du 4 juillet 1990 (BUDF9010042D)](decret-n90-561-du-4-juillet-1990-budf9010042d)
 - [Décret n°90-381 du 4 mai 1990 (ECOZ9000008D)](decret-n90-381-du-4-mai-1990-ecoz9000008d)
-- [Décret n°77-1364 du 5 décembre 1977](decret-n77-1364-du-5-decembre-1977)
 - [Décret n°90-1101 du 5 décembre 1990 (AGRA9001814D)](decret-n90-1101-du-5-decembre-1990-agra9001814d)
 - [Décret n°90-116 du 5 février 1990 (ECOZ9000002D)](decret-n90-116-du-5-fevrier-1990-ecoz9000002d)
 - [Décret n°90-120 du 5 février 1990 (AGRS8902382D)](decret-n90-120-du-5-fevrier-1990-agrs8902382d)

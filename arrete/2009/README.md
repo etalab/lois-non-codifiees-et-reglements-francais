@@ -1278,7 +1278,6 @@
 - [Arrêté du 15 septembre 2009 (DEVN0920889A)](arrete-du-15-septembre-2009-devn0920889a)
 - [Arrêté du 15 mai 2009 (AGRF0909670A)](arrete-du-15-mai-2009-agrf0909670a)
 - [Arrêté du 15 mai 2009 (AGRP0908193A)](arrete-du-15-mai-2009-agrp0908193a)
-- [Arrêté du 15 mai 2009 (AGRS0765081A)](arrete-du-15-mai-2009-agrs0765081a)
 - [Arrêté du 15 mai 2009 (ECEA0902763A)](arrete-du-15-mai-2009-ecea0902763a)
 - [Arrêté du 15 mai 2009 (ECET0911117A)](arrete-du-15-mai-2009-ecet0911117a)
 - [Arrêté du 15 mai 2009 (ESRH0907893A)](arrete-du-15-mai-2009-esrh0907893a)

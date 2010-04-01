@@ -298,7 +298,6 @@
 - [Décret n°2004-698 du 12 juillet 2004 (MJSK0470111D)](decret-n2004-698-du-12-juillet-2004-mjsk0470111d)
 - [Décret n°2004-407 du 12 mai 2004 (SANS0421387D)](decret-n2004-407-du-12-mai-2004-sans0421387d)
 - [Décret n°2004-422 du 12 mai 2004 (JUSB0410174D)](decret-n2004-422-du-12-mai-2004-jusb0410174d)
-- [Décret n°2004-423 du 12 mai 2004 (AGRA0400589D)](decret-n2004-423-du-12-mai-2004-agra0400589d)
 - [Décret n°2004-1082 du 13 octobre 2004 (PRMG0470640D)](decret-n2004-1082-du-13-octobre-2004-prmg0470640d)
 - [Décret n°2004-1084 du 13 octobre 2004 (MCCT0400826D)](decret-n2004-1084-du-13-octobre-2004-mcct0400826d)
 - [Décret n°2004-1089 du 13 octobre 2004 (MCCB0400714D)](decret-n2004-1089-du-13-octobre-2004-mccb0400714d)
