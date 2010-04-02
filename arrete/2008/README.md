@@ -251,6 +251,7 @@
 - [Arrêté du 9 décembre 2008 (DEFH0823328A)](arrete-du-9-decembre-2008-defh0823328a)
 - [Arrêté du 9 décembre 2008 (DEVA0810655A)](arrete-du-9-decembre-2008-deva0810655a)
 - [Arrêté du 9 décembre 2008 (DEVP0828086A)](arrete-du-9-decembre-2008-devp0828086a)
+- [Arrêté du 9 janvier 2008 (DEFK0800812A)](arrete-du-9-janvier-2008-defk0800812a)
 - [Arrêté du 9 janvier 2008 (ESRS0773855A)](arrete-du-9-janvier-2008-esrs0773855a)
 - [Arrêté du 9 juillet 2008 (DEVA0816063A)](arrete-du-9-juillet-2008-deva0816063a)
 - [Arrêté du 9 juillet 2008 (DEVK0815544A)](arrete-du-9-juillet-2008-devk0815544a)
