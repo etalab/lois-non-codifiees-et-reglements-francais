@@ -2,7 +2,7 @@
 
 En application de l'article 3 du décret n° 2008-1314 du 12 décembre 2008 et de l'article 1er de l'arrêté du 12 décembre 2008 susvisés, les fonctions correspondant à l'emploi de conseiller d'administration de la défense sont :
 
-- adjoint au chef de la division personnel civil de l'état-major de la région terre Sud-Est ;
+- adjoint au directeur du centre ministériel de gestion de Lyon ;
 
 - chef de l'observatoire du personnel civil de l'inspection de l'armée de terre ;
 
