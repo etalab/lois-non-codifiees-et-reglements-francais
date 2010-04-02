@@ -1,14 +1,14 @@
 # Article 35
 
-Dans chaque institut de formation d'ambulancier, le directeur est assisté d'un conseil technique, qui est consulté sur toute question relative à la formation des élèves. Ce conseil est constitué par arrêté du préfet du département.
+Dans chaque institut de formation d'ambulancier, le directeur est assisté d'un conseil technique, qui est consulté sur toute question relative à la formation des élèves. Ce conseil est constitué par arrêté du  directeur général de l'agence régionale de santé.
 
-Le conseil technique est présidé par le directeur départemental des affaires sanitaires et sociales ou son représentant. Il comprend, outre le directeur de l'institut :
+Le conseil technique est présidé par le directeur général de l'agence régionale de santé ou son représentant. Il comprend, outre le directeur de l'institut :
 
 a) Un représentant de l'organisme gestionnaire ;
 
 b) Un enseignant permanent de l'institut de formation, élu pour trois ans par ses pairs ;
 
-c) Un chef d'entreprise de transport sanitaire désigné pour trois ans par le directeur départemental des affaires sanitaires et sociales ;
+c) Un chef d'entreprise de transport sanitaire désigné pour trois ans par le directeur général de l'agence régionale de santé ;
 
 d) Un médecin de SAMU ou de service d'urgence public ou privé, conseiller scientifique de l'institut de formation d'ambulanciers.
 

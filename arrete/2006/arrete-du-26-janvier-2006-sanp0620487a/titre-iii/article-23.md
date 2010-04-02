@@ -1,6 +1,8 @@
 # Article 23
 
-Le jury du diplôme d'ambulancier est nommé par le préfet de région, sur proposition du directeur régional des affaires sanitaires et sociales. Il est présidé par ce dernier ou son représentant et comprend :
+Le jury du diplôme d'ambulancier est nommé par le préfet de région, sur proposition du      directeur régional de la jeunesse, des sports et de la cohésion sociale. Il est présidé par ce dernier ou son représentant et comprend :
+
+- le directeur général de l'agence régionale de santé ou son représentant ;
 
 - un directeur d'un institut de formation d'ambulanciers ;
 

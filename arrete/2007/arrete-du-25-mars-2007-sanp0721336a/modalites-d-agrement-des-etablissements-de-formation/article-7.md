@@ -1,6 +1,6 @@
 # Article 7
 
-Les demandeurs de l'agrément adressent, par voie postale, avec demande d'avis de réception à la direction régionale des affaires sanitaires et sociales compétente ou à la direction départementale des affaires sanitaires et sociales à Mayotte, outre la fiche de dépôt de la demande d'agrément annexée au présent arrêté, un dossier en double exemplaire comportant les pièces suivantes :
+Les demandeurs de l'agrément adressent, par voie postale, avec demande d'avis de réception à l'agence régionale de santé de la région compétente, outre la fiche de dépôt de la demande d'agrément annexée au présent arrêté, un dossier en double exemplaire comportant les pièces suivantes :
 
 1° Le curriculum vitae et l'extrait du casier judiciaire (bulletin n° 2) de la personne morale responsable de l'établissement ;
 

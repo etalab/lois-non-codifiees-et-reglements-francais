@@ -6,4 +6,4 @@ L'enseignement en institut comprend huit modules, dispensés sous forme de cours
 
 L'enseignement en stage est réalisé en milieu professionnel dans le secteur sanitaire, en établissement de santé et en entreprise de transport sanitaire et comprend quatre stages.
 
-Au sein d'une région, les terrains de stage en établissement de santé et en entreprise de transport sanitaire sont habilités, sur proposition des centres de formation, par le directeur régional des affaires sanitaires et sociales de la région concernée après avis du médecin inspecteur régional. L'habilitation précise le nombre de stagiaires autorisés simultanément pour chaque terrain de stage.
+Au sein d'une région, les terrains de stage en établissement de santé et en entreprise de transport sanitaire sont habilités                           par le directeur de l'institut. L'habilitation précise le nombre de stagiaires autorisés simultanément pour chaque terrain de stage.

@@ -4,6 +4,6 @@ Les résultats des épreuves de sélection sont affichés au siège de chaque in
 
 En cas de regroupement d'instituts de formation, les candidats choisissent leur institut d'affectation en fonction de leur rang de classement et des voeux qu'ils ont exprimés, soit lors de leur inscription aux épreuves, soit à l'issue des résultats.
 
-En cas de fermeture d'un centre de formation, les candidats déclarés admis dans ce centre peuvent, après avis des directions régionales des affaires sanitaires et sociales et accord des directeurs de centres de formation concernés, être affectés dans d'autres centres de formation de la région sans avoir à repasser les épreuves de sélection.
+En cas de fermeture d'un centre de formation, les candidats déclarés admis dans ce centre peuvent, après avis des directeurs généraux des agences régionales de santé et accord des directeurs de centres de formation concernés, être affectés dans d'autres centres de formation de la région sans avoir à repasser les épreuves de sélection.
 
-La liste des affectations est transmise par le directeur de chaque institut au directeur régional des affaires sanitaires et sociales, au plus tard un mois après la date de la rentrée.
+La liste des affectations est transmise par le directeur de chaque institut au directeur général de l'agence régionale de santé, au plus tard un mois après la date de la rentrée.

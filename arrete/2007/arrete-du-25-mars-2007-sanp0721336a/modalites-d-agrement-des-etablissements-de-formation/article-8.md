@@ -1,6 +1,6 @@
 # Article 8
 
-Une fois complets, la direction régionale des affaires sanitaires et sociales ou la direction départementale des affaires sanitaires et sociales à Mayotte transmet les dossiers de demande d'agrément au secrétariat de la Commission nationale d'agrément prévue à l'article 6 du décret n° 2007-437 du 25 mars 2007 susvisé.
+Une fois complets,       l'agence régionale de santé de la région transmet les dossiers de demande d'agrément au secrétariat de la Commission nationale d'agrément prévue à l'article 6 du décret n° 2007-437 du 25 mars 2007 susvisé.
 
 Le ministre chargé de la santé notifie au demandeur, par lettre recommandée avec demande d'avis de réception, sa décision motivée après avis de la commission précitée et dresse la liste des établissements agréés.
 
