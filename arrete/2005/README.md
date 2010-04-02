@@ -411,7 +411,6 @@
 - [Arrêté du 20 décembre 2004 (DEVN0540000A)](arrete-du-20-decembre-2004-devn0540000a)
 - [Arrêté du 20 décembre 2004 (DEVN0540001A)](arrete-du-20-decembre-2004-devn0540001a)
 - [Arrêté du 20 décembre 2004 (EQUA0401760A)](arrete-du-20-decembre-2004-equa0401760a)
-- [Arrêté du 20 décembre 2004 (EQUI0401742A)](arrete-du-20-decembre-2004-equi0401742a)
 - [Arrêté du 20 décembre 2004 (MCCB0400888A)](arrete-du-20-decembre-2004-mccb0400888a)
 - [Arrêté du 20 décembre 2005 (ECOT0591225A)](arrete-du-20-decembre-2005-ecot0591225a)
 - [Arrêté du 20 décembre 2005 (JUSG0560132A)](arrete-du-20-decembre-2005-jusg0560132a)
