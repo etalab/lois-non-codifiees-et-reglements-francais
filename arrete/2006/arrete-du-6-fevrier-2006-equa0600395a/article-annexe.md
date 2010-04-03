@@ -63,3 +63,7 @@ Paris - Agadir (Maroc).
 Paris - Djerba (Tunisie).
 
 Paris - Monastir (Tunisie).
+
+Jusqu'au 15 mars 2015
+
+Paris―Dakar (Sénégal).
