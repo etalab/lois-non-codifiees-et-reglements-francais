@@ -12,4 +12,6 @@ SNPE matériaux énergétiques (SME) ;
 
 Institut français du textile et de l'habillement (IFTH) ;
 
-Institut technologique FCBA (forêt, cellulose, bois - construction, ameublement).
+Institut technologique FCBA (forêt, cellulose, bois - construction, ameublement) ;
+
+Centre de recherche et d'études sur les procédés d'ignifugation des matériaux (CREPIM).

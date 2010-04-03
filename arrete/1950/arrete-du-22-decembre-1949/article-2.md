@@ -24,6 +24,8 @@ Le directeur de l'Institut français du textile et de l'habillement ou son repr�
 
 Le directeur de l'Institut technologique FCBA (forêt, cellulose, bois - construction, ameublement) ou son représentant ;
 
+Le directeur du Centre de recherche et d'études sur les procédés d'ignifugation des matériaux ou son représentant ;
+
 Le directeur d'Efectis France ou son représentant ;
 
 Le président peut convoquer aux séances, avec voix consultative, toute personne qui lui paraît spécialement qualifiée par sa compétence pour apporter des renseignements utiles au comité.
