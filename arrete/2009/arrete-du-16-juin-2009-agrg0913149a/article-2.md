@@ -1,144 +1,133 @@
 # Article 2
 
-<div>
-<br/>Sont inscrites au Catalogue officiel des espèces et variétés de plantes cultivées en France dont les semences peuvent être multipliées en France en vue de leur exportation (liste B), pour une durée de dix ans, les variétés désignées ci-après :<br/>
+Sont inscrites au Catalogue officiel des espèces et variétés de plantes cultivées en France dont les semences peuvent être multipliées en France en vue de leur exportation (liste B), pour une durée de dix ans, les variétés désignées ci-après :
+
 <div align="center">
 
 <table>
+<tbody>
 <tr>
-<th>
-<br/>ESPÈCE</th>
-<th>
-<br/>DÉNOMINATION</th>
-<th>
-<br/>OBTENTEUR(S)<br/>
+<th>ESPÈCE<br/>
 </th>
-<th>
-<br/>RESPONSABLE(S) DU MAINTIEN<br/>de la variété<br/>en sélection conservatrice</th>
+<th>DÉNOMINATION<br/>
+</th>
+<th>OBTENTEUR(S)<br/>
+<br/>
+</th>
+<th>RESPONSABLE(S) DU MAINTIEN<br/>de la variété<br/>en sélection conservatrice<br/>
+</th>
 </tr>
 <tr>
-<td align="center">
-<br/>Tournesol.</td>
-<td align="center">
-<br/>ES Majestic.</td>
-<td align="center">
-<br/>Euralis Semences (FR).</td>
-<td align="center">
-<br/>Euralis Semences (FR). <br/>
+<td align="center">Tournesol.<br/>
+</td>
+<td align="center">ES Majestic.<br/>
+</td>
+<td align="center">Euralis Semences (FR).<br/>
+</td>
+<td align="center">Euralis Semences (FR). <br/>
+<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/> </td>
-<td align="center">
-<br/>Atllas.</td>
-<td align="center">
-<br/>R 2n (FR).</td>
-<td align="center">
-<br/>R 2n (FR).</td>
+<td align="center"/>
+<td align="center">Atllas.<br/>
+</td>
+<td align="center">R 2n (FR).<br/>
+</td>
+<td align="center">R 2n (FR).<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/> </td>
-<td align="center">
-<br/>EGH701.</td>
-<td align="center">
-<br/>Euralis Semences (FR).</td>
-<td align="center">
-<br/>Euralis Semences (FR).</td>
+<td align="center"/>
+<td align="center">EGH701.<br/>
+</td>
+<td align="center">Euralis Semences (FR).<br/>
+</td>
+<td align="center">Euralis Semences (FR).<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/> </td>
-<td align="center">
-<br/>ES Galactic.</td>
-<td align="center">
-<br/>Euralis Semences (FR).</td>
-<td align="center">
-<br/>Euralis Semences (FR).</td>
+<td align="center"/>
+<td align="center">ES Galactic.<br/>
+</td>
+<td align="center">Euralis Semences (FR).<br/>
+</td>
+<td align="center">Euralis Semences (FR).<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/> </td>
-<td align="center">
-<br/>Inostarck.</td>
-<td align="center">
-<br/>Agri Obtentions SA (FR), Institut national de la recherche agronomique (FR).</td>
-<td align="center">
-<br/>Agri Obtentions SA (FR).</td>
+<td align="center"/>
+<td align="center">Inostarck.<br/>
+</td>
+<td align="center">Agri Obtentions SA (FR), Institut national de la recherche agronomique (FR).<br/>
+</td>
+<td align="center">Agri Obtentions SA (FR).<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/> </td>
-<td align="center">
-<br/>MAS 96OL.</td>
-<td align="center">
-<br/>Interdor (FR).</td>
-<td align="center">
-<br/>Maïsadour Semences (FR).</td>
+<td align="center"/>
+<td align="center">MAS 96OL.<br/>
+</td>
+<td align="center">Interdor (FR).<br/>
+</td>
+<td align="center">Maïsadour Semences (FR).<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/> </td>
-<td align="center">
-<br/>NK Amori.</td>
-<td align="center">
-<br/>Syngenta Crop Protection AG (CH).</td>
-<td align="center">
-<br/>Syngenta Seeds SAS (FR).</td>
+<td align="center"/>
+<td align="center">NK Amori.<br/>
+</td>
+<td align="center">Syngenta Crop Protection AG (CH).<br/>
+</td>
+<td align="center">Syngenta Seeds SAS (FR).<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/> </td>
-<td align="center">
-<br/>NK Oleas.</td>
-<td align="center">
-<br/>Syngenta Crop Protection AG (CH).</td>
-<td align="center">
-<br/>Syngenta Seeds SAS (FR).</td>
+<td align="center"/>
+<td align="center">NK Oleas.<br/>
+</td>
+<td align="center">Syngenta Crop Protection AG (CH).<br/>
+</td>
+<td align="center">Syngenta Seeds SAS (FR).<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/> </td>
-<td align="center">
-<br/>PR 63G50.</td>
-<td align="center">
-<br/>Pioneer Overseas Corporation (US).</td>
-<td align="center">
-<br/>Pioneer Génétique SARL (FR).</td>
+<td align="center"/>
+<td align="center">PR63G50.<br/>
+</td>
+<td align="center">Pioneer Overseas Corporation (US).<br/>
+</td>
+<td align="center">Pioneer Génétique SARL (FR).<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/> </td>
-<td align="center">
-<br/>PR 63K83.</td>
-<td align="center">
-<br/>Pioneer Overseas Corporation (US).</td>
-<td align="center">
-<br/>Pioneer Génétique SARL (FR).</td>
+<td align="center"/>
+<td align="center">PR63K83.<br/>
+</td>
+<td align="center">Pioneer Overseas Corporation (US).<br/>
+</td>
+<td align="center">Pioneer Génétique SARL (FR).<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/> </td>
-<td align="center">
-<br/>Ravel.</td>
-<td align="center">
-<br/>Interdor (FR).</td>
-<td align="center">
-<br/>Maïsadour Semences (FR).</td>
+<td align="center"/>
+<td align="center">Ravel.<br/>
+</td>
+<td align="center">Interdor (FR).<br/>
+</td>
+<td align="center">Maïsadour Semences (FR).<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/> </td>
-<td align="center">
-<br/>Sallto.</td>
-<td align="center">
-<br/>RAGT Czech sro (CZ).</td>
-<td align="center">
-<br/>R 2n (FR).</td>
+<td align="center"/>
+<td align="center">Sallto.<br/>
+</td>
+<td align="center">RAGT Czech sro (CZ).<br/>
+</td>
+<td align="center">R 2n (FR).<br/>
+</td>
 </tr>
+</tbody>
 </table>
 
-</div>
-<br/>
 </div>
