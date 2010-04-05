@@ -2657,7 +2657,6 @@
 - [Arrêté du 27 mars 2009 (DEFH0907399A)](arrete-du-27-mars-2009-defh0907399a)
 - [Arrêté du 27 mars 2009 (DEFH0907402A)](arrete-du-27-mars-2009-defh0907402a)
 - [Arrêté du 27 mars 2009 (DEVK0902903A)](arrete-du-27-mars-2009-devk0902903a)
-- [Arrêté du 27 mars 2009 (DEVT0906868A)](arrete-du-27-mars-2009-devt0906868a)
 - [Arrêté du 27 mars 2009 (ECEK0900025A)](arrete-du-27-mars-2009-ecek0900025a)
 - [Arrêté du 27 mars 2009 (ECEP0900562A)](arrete-du-27-mars-2009-ecep0900562a)
 - [Arrêté du 27 mars 2009 (IOCC0903954A)](arrete-du-27-mars-2009-iocc0903954a)
