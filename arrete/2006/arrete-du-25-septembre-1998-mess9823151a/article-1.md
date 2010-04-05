@@ -8,7 +8,7 @@ En application de l'article R. 123-47 du code de la sécurité sociale, le prés
 
 3° des organismes de sécurité sociale gérant un régime spécial de sécurité sociale visés aux 6°, 7° et 8° de l'article R. 711-1 ou aux emplois de cadre supérieur des organismes du régime spécial de sécurité sociale dans les mines défini à l'article R. 711-1 (5°) ;
 
-4° des unions régionales des caisses d'assurance maladie visées à l'article R. 111-1 (6°) (1) ;
+4° (Abrogé)  (1) ;
 
 5° de la caisse d'assurance vieillesse, invalidité et maladie des cultes visée à l'article L. 382-17 du code de la sécurité sociale ;
 
@@ -16,6 +16,6 @@ En application de l'article R. 123-47 du code de la sécurité sociale, le prés
 
 7° des organismes agréés mentionnés à l'article R. 382-6 ;
 
-8° de la Caisse nationale de solidarité pour l'autonomie.
+8° Des établissements publics à caractère administratif dont la liste est fixée par arrêté conjoint des ministres chargés de la sécurité sociale et de l'agriculture.
 
 Cette liste, publiée au Journal officiel de la République française, est établie chaque année ; toutefois, la liste d'une année reste valable jusqu'à la date de publication au Journal officiel de la liste établie pour l'année suivante.

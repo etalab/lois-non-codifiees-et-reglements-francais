@@ -20,4 +20,10 @@ Seuls les emplois de direction exercés après nomination dans les conditions fi
 
 Afin de tenir compte de situations particulières ou d'éléments exceptionnels d'appréciation de l'aptitude des candidats, les durées minimales d'exercice de fonctions visées au premier alinéa peuvent être réduites par la commission dans la limite de six mois.
 
-Toutefois, les durées minimales d'exercice de fonctions prévues aux 3°, 5° et 6° ci-dessus peuvent être réduites par la commission dans la limite d'un an.
+Afin de tenir compte de situations particulières ou d'éléments exceptionnels d'appréciation de l'aptitude des candidats, la commission peut :
+
+- réduire les durées minimales d'exercice de fonctions visées aux 1°, 2° et 4° ci-dessus dans la limite de six mois ;
+
+- réduire les durées minimales d'exercice de fonctions prévues aux 3°, 5° et 6° ci-dessus dans la limite d'un an ;
+
+- prendre en compte les périodes durant lesquelles le candidat justifie avoir exercé des responsabilités correspondant à un emploi d'un niveau au moins équivalent à celui dont il relève en application du présent arrêté.

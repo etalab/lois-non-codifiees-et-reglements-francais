@@ -1,3 +1,3 @@
 # Article 26
 
-Pour l'établissement des listes d'aptitude de l'année 2000 et de l'année 2001, les conditions fixées à l'article 12 et la condition d'âge fixée au premier alinéa de l'article 9 ne sont pas opposables aux personnes inscrites sur l'une des listes d'aptitude établies pour l'année 1999 aux emplois de direction visés à l'article 1er du présent arrêté.
+Les candidats dont la demande d'inscription sur la liste d'aptitude a été, en application de l'article 12 dans sa version en vigueur pour les inscriptions au titre de l'année 2010, admise comme recevable par la commission sont réputés remplir les nouvelles conditions définies audit article s'ils demandent une inscription au titre des années 2011 et 2012.

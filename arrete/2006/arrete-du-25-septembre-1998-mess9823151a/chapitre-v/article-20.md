@@ -6,7 +6,11 @@ La commission :
 
 - retient pour l'inscription les candidats qui remplissent les conditions requises et qui présentent les garanties de compétence suffisantes pour l'accès aux emplois des classes demandées.
 
-Ces garanties de compétence sont appréciées par la commission au vu des divers éléments contenus dans les dossiers et en fonction des avis qu'elle juge opportun de recueillir, notamment auprès du président ou du directeur de l'organisme employeur du candidat, du directeur régional des affaires sanitaires et sociales compétent et, éventuellement, de l'inspection générale des affaires sociales.
+Ces garanties de compétence sont appréciées par la commission au vu des divers éléments contenus dans les dossiers et de l'expérience du candidat. Pour ce faire, elle peut se baser :
+
+- sur les éléments, fournis par le candidat, de nature à éclairer et justifier son parcours professionnel ;
+
+- sur les avis qu'elle aura jugé opportun de recueillir.
 
 La commission procède, pour toute autre personne qui n'occupe pas, à la date de son inscription, un emploi dans un organisme visé par le présent arrêté, à une assimilation de sa situation par rapport à un emploi de cadre ou d'agent de direction dans un tel organisme, compte tenu de l'ancienneté, de l'emploi exercé et des responsabilités assumées.
 
