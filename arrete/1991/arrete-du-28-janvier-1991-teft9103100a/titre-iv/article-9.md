@@ -1,6 +1,6 @@
 # Article 9
 
-Un employeur qui sollicite l'autorisation prévue au paragraphe II de l'article 2 ci-dessus doit adresser, selon le cas, au directeur régional du travail et de l'emploi, au chef du service régional de l'inspection du travail, de l'emploi et de la politique sociale agricoles ou au directeur régional des affaires maritimes une demande indiquant :
+Un employeur qui sollicite l'autorisation prévue au paragraphe II de l'article 2 ci-dessus doit adresser, selon le cas, au directeur régional du travail et de l'emploi, au chef du service régional de l'inspection du travail, de l'emploi et de la politique sociale agricoles ou au    directeur interrégional de la mer une demande indiquant :
 
 1° La raison sociale et l'adresse du siège de l'entreprise et de l'établissement ainsi que le lieu où se déroulera la formation ;
 

@@ -4,7 +4,7 @@ La proposition de transaction en matière de délits ou contraventions relatifs 
 
 1° Par le directeur départemental ou interdépartemental des affaires maritimes lorsque les condamnations encourues ne dépassent pas le maximum de l'amende prévue pour les contraventions de la cinquième classe ;
 
-2° Par le directeur régional des affaires maritimes lorsque les condamnations encourues ne dépassent pas le double du maximum de l'amende prévue pour les contraventions de la cinquième classe ;
+2° Par le    directeur interrégional de la mer lorsque les condamnations encourues ne dépassent pas le double du maximum de l'amende prévue pour les contraventions de la cinquième classe ;
 
 3° Par le directeur des pêches maritimes et des cultures marines lorsque les condamnations encourues ne dépassent pas le triple du maximum de l'amende prévue pour les contraventions de la cinquième classe ;
 

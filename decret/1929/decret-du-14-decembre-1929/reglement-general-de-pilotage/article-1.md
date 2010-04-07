@@ -68,7 +68,7 @@ La limite d'âge maximum est fixée à 65 ans pour les chefs de service de pilot
 
 ARTICLE 13
 
-Les pilotes ne peuvent exercer la pêche à titre professionnel. Toutefois, le ministre chargé de la Marine marchande pourra autoriser les pilotes de certaines stations à pratiquer la pêche sur la proposition du directeur régional des affaires maritimes.
+Les pilotes ne peuvent exercer la pêche à titre professionnel. Toutefois, le ministre chargé de la Marine marchande pourra autoriser les pilotes de certaines stations à pratiquer la pêche sur la proposition du    directeur interrégional de la mer.
 
 ARTICLE 14
 
@@ -78,13 +78,13 @@ ARTICLE 15
 
 1° Les pilotes rendent compte au chef du pilotage et aux divers services intéressés, en particulier la capitainerie du port, le centre de sécurité des navires des affaires maritimes et, dans les ports militaires, l'autorité portuaire de la Marine nationale :
 
-- des renseignements contenus dans la fiche de contrôle prévue à l'article 3, susceptibles d'entraîner des mesures particulières de la part de l'autorité portuaire ou maritime et, d'une manière générale, de l'état du navire piloté lorsqu'il présente un risque pour les personnes à bord, la cargaison, les autres navires, les installations portuaires ou l'environnement ;
+-des renseignements contenus dans la fiche de contrôle prévue à l'article 3, susceptibles d'entraîner des mesures particulières de la part de l'autorité portuaire ou maritime et, d'une manière générale, de l'état du navire piloté lorsqu'il présente un risque pour les personnes à bord, la cargaison, les autres navires, les installations portuaires ou l'environnement ;
 
-- des accidents ou incidents qui surviennent pendant le pilotage ;
+-des accidents ou incidents qui surviennent pendant le pilotage ;
 
-- des observations qu'ils peuvent faire à l'occasion de leur service concernant l'état des fonds, du balisage et des ouvrages portuaires ;
+-des observations qu'ils peuvent faire à l'occasion de leur service concernant l'état des fonds, du balisage et des ouvrages portuaires ;
 
-- des accidents ou incidents parvenant à leur connaissance qui peuvent avoir des répercussions sur la sécurité de la navigation ou la protection de l'environnement où l'état des ouvrages portuaires.
+-des accidents ou incidents parvenant à leur connaissance qui peuvent avoir des répercussions sur la sécurité de la navigation ou la protection de l'environnement où l'état des ouvrages portuaires.
 
 2° Ces comptes rendus sont effectués dans les délais et les formes compatibles avec l'exploitation optimale des informations par les services intéressés. Sous réserve de l'application des règles relatives aux messages de détresse, ils sont transmis directement et d'urgence par voie radiotéléphonique à la capitainerie du port et, dans les ports militaires, à l'autorité désignée par le commandement de la Marine nationale, lorsque les informations reçues ou les constatations faites mettent en évidence un risque immédiat pour la sécurité ; un rapport écrit est transmis ensuite s'il y a lieu.
 
@@ -126,7 +126,7 @@ Une indemnité journalière supplémentaire fixée par le règlement local est d
 
 Le montant de cette indemnité est fixé par le règlement local.
 
-ARTICLE 22    Les pilotes reçoivent, à bord des navires de commerce, la nourriture et le logement des officiers.
+ARTICLE 22 Les pilotes reçoivent, à bord des navires de commerce, la nourriture et le logement des officiers.
 
 ARTICLE 23
 
@@ -142,7 +142,7 @@ Les pilotes ne peuvent exiger une somme inférieure ou supérieure à celle qui 
 
 ARTICLE 26
 
-Le pilote qui, par cas de force majeure, ne peut débarquer une fois le pilotage accompli, et est enlevé hors de la station, a droit à une indemnité journalière fixée par le règlement local et à une indemnité de route de 0,75 F (1) par kilomètre depuis le point de débarquement jusqu'à sa station. Si le pilote est débarqué à l'étranger, il est rapatrié aux frais du navire.
+Le pilote qui, par cas de force majeure, ne peut débarquer une fois le pilotage accompli, et est enlevé hors de la station, a droit à une indemnité journalière fixée par le règlement local et à une indemnité de route de 0, 75 F (1) par kilomètre depuis le point de débarquement jusqu'à sa station. Si le pilote est débarqué à l'étranger, il est rapatrié aux frais du navire.
 
 (1) : montant fixé par arrêté ministériel du 14 septembre 1978.
 
@@ -202,7 +202,7 @@ ARTICLE 34
 
 Sous réserve des dispositions spéciales à chaque station, les bateaux-pilotes portent les marques distinctives suivantes :
 
-1° Peinture noire extérieure, avec ceinture blanche de 0,15 mètre de largeur ;
+1° Peinture noire extérieure, avec ceinture blanche de 0, 15 mètre de largeur ;
 
 2° De chaque côté de la voile principale, au-dessus de la bande du dernier ris, une ancre d'au moins un mètre de hauteur, avec les lettres initiales de la station.
 
