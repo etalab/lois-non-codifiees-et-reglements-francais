@@ -6,7 +6,7 @@ Dans la région, sous l'autorité du préfet de région, et sous réserve des co
 
 2° Elle est chargée d'élaborer et de mettre en œuvre les politiques de l'Etat en matière de logement, notamment le développement de l'offre de logements, la rénovation urbaine et la lutte contre l'habitat indigne ;
 
-3° Elle assure le pilotage et la coordination des politiques relevant du ministre chargé de l'écologie, de l'énergie, du développement durable et de l'aménagement du territoire et de celles relevant du ministre chargé du logement mises en œuvre par d'autres services déconcentrés. Elle assure la coordination de la mise en œuvre de ces politiques avec les actions des établissements publics de l'Etat concernés ;
+3° Elle assure le pilotage des politiques relevant du ministre chargé de l'écologie, de l'énergie, du développement durable et de l'aménagement du territoire et de celles relevant du ministre chargé du logement mises en œuvre par d'autres services déconcentrés ainsi que leur coordination, à l'exception de ce qui relève de la mission de coordination dévolue à la direction interrégionale de la mer conformément aux I et V de l'article 3 du décret n° 2010-130 du 11 février 2010 relatif à l'organisation et aux missions des directions interrégionales de la mer. Elle assure la coordination de la mise en œuvre de ces politiques avec les actions des établissements publics de l'Etat concernés ;
 
 4° Elle veille au respect des principes et à l'intégration des objectifs du développement durable et réalise ou fait réaliser l'évaluation environnementale de ces actions et assiste les autorités administratives compétentes en matière d'environnement sur les plans, programmes et projets ;
 
