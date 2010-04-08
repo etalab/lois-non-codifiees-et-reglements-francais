@@ -496,8 +496,6 @@
 - [Arrêté du 7 octobre 2008 (SJSG0831016A)](arrete-du-7-octobre-2008-sjsg0831016a)
 - [Arrêté du 7 octobre 2009 (BCFB0906788A)](arrete-du-7-octobre-2009-bcfb0906788a)
 - [Arrêté du 7 octobre 2009 (DEVK0923513A)](arrete-du-7-octobre-2009-devk0923513a)
-- [Arrêté du 7 octobre 2009 (ECET0829584A)](arrete-du-7-octobre-2009-ecet0829584a)
-- [Arrêté du 7 octobre 2009 (ECET0920891A)](arrete-du-7-octobre-2009-ecet0920891a)
 - [Arrêté du 7 octobre 2009 (ESRH0922318A)](arrete-du-7-octobre-2009-esrh0922318a)
 - [Arrêté du 7 octobre 2009 (ESRH0922320A)](arrete-du-7-octobre-2009-esrh0922320a)
 - [Arrêté du 7 septembre 2009 (AGRS0920902A)](arrete-du-7-septembre-2009-agrs0920902a)
