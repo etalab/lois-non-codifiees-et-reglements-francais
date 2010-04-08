@@ -112,39 +112,37 @@ a) Limites latérales : ligne brisée joignant les points :
 
 b) Limites verticales : de 800 pieds (250 mètres) par rapport à la surface à 3 800 pieds (1 150 mètres) par rapport au niveau moyen de la mer.
 
-IX. - LF-R 45 N5 Meuse
+IX. - LF-R 45 N 5 Meuse
 
 a) Limites latérales : ligne brisée joignant les points :
 
-49° 24' 30'' N, 005° 04' 00'' E - 48° 06' 00'' N, 005° 50' 10'' E - 48° 09' 10'' N, 005° 40' 30'' E ;
+49° 24 30''N, 005° 04 00''E-48° 10 51''N, 005° 47 22''E-48° 11 36''N, 005° 39 04''E ;
 
-49° 12' 10'' N, 005° 02' 30'' E - 49° 19' 00'' N, 004° 46' 30'' E - 49° 24' 30'' N, 005° 04' 00'' E.
+49° 12 10''N, 005° 02 30''E-49° 19 00''N, 004° 46 30''E-49° 24 30''N, 005° 04 00''E.
 
 b) Limites verticales : de 800 pieds (250 mètres) par rapport à la surface à 2 700 pieds (800 mètres) par rapport à la surface.
 
-X. - LF-R 45 S1 Franche-Comté
+X. -LF-R 45 S 1 Franche-Comté
 
 a) Limites latérales : ligne brisée joignant les points :
 
-48° 09' 10'' N, 005° 40' 30'' E - 48° 06' 00'' N, 005° 50' 10'' E - 47° 54' 40'' N, 006° 21' 00'' E ;
+47° 54 40''N, 006° 21 00''E-47° 50 50''N, 006° 16 00''E-48° 02 34''N, 005° 48 38''E ;
 
-47° 50' 50'' N, 006° 16' 00'' E - 48° 02' 00'' N, 005° 47' 00'' E - 48° 00' 23'' N, 005° 42' 18'' E ;
-
-48° 04' 20'' N, 005° 39' 00'' E - 48° 09' 10'' N, 005° 40' 30'' E.
+48° 05 07''N, 005° 59 22''E-47° 54 40''N, 006° 21 00''E.
 
 b) Limites verticales : de 800 pieds (250 mètres) par rapport à la surface à 2 500 pieds (750 mètres) par rapport à la surface.
 
-XI. - LF-R 45 S2 Langres
+XI. - LF-R 45 S 2 Langres
 
 a) Limites latérales : ligne brisée joignant les points :
 
-48° 04' 20'' N, 005° 39' 00'' E - 48° 00' 23'' N, 005° 42' 18'' E - 47° 50' 25'' N, 005° 13' 34'' E ;
+48° 05 22''N, 005° 42 05''E-48° 02 34''N, 005° 48 38''E-47° 50 25''N, 005° 13 34''E ;
 
-47° 36' 47'' N, 004° 35' 10'' E - 47° 29' 30'' N, 004° 15' 00'' E - 47° 25' 05'' N, 004° 03' 55'' E ;
+47° 36 47''N, 004° 35 10''E-47° 29 30''N, 004° 15 00''E-47° 25 05''N, 004° 03 55''E ;
 
-47° 29' 17'' N, 003° 59' 43'' E - 47° 31' 30'' N, 004° 05' 00'' E - 47° 41' 07'' N, 004° 31' 56'' E ;
+47° 29 17''N, 003° 59 43''E-47° 31 30''N, 004° 05 00''E-47° 41 07''N, 004° 31 56''E ;
 
-47° 54' 34'' N, 005° 10' 27'' E - 48° 04' 20'' N, 005° 39' 00'' E.
+47° 54 34''N, 005° 10 27''E-48° 05 22''N, 005° 42 05''E.
 
 b) Limites verticales : de 800 pieds (250 mètres) par rapport à la surface à 3 000 pieds (900 mètres) par rapport à la surface.
 
@@ -420,29 +418,23 @@ a) Limites latérales : ligne brisée joignant les points :
 
 b) Limites verticales : de 800 pieds (240 mètres) par rapport à la surface à 1 800 pieds (550 mètres) par rapport à la surface, sauf dans les limites latérales des TMA Iroise partie 3 et TMA Rennes partie 5 où cette valeur est ramenée à 2 500 pieds (750 mètres) par rapport au niveau moyen de la mer.
 
-XXXIII. ― LF-R 69 Champagne
+XXXIII. ―LF-R 69 Champagne
 
-(à l'exclusion de la zone réglementée LF-R 175 A et de la zone réglementée LF-R 3 Vouziers Séchault lorsqu'elle est active)
+(à l'exclusion de la zone réglementée LF-R 175 A et de la zone
+
+réglementée LF-R 3 Vouziers Séchault lorsqu'elle est active)
 
 a) Limites latérales : ligne brisée joignant les points :
 
-49° 22' 40'' N, 004° 40' 00'' E - 49° 19' 00'' N, 004° 46' 30'' E ;
+49° 22 40''N, 004° 40 00''E-49° 19 00''N, 004° 46 30''E-48° 58 01''N, 005° 00 03''E, puis arc de cercle de sens horaire de 7NM (13 km) de rayon centré sur :
 
-48° 58' 01'' N, 005° 00' 03'' E,
+48° 55 40''N, 004° 50 00''E jusqu'au point 48° 48 42''N, 004° 51 00''E, puis les points :
 
-puis arc de cercle de sens horaire de 7 NM (13 km) de rayon centré sur :
+48° 38 45''N, 004° 57 30''E-48° 21 00''N, 005° 05 00''E-48° 11 36''N, 005° 39 04''E ;
 
-48° 55' 40'' N, 004° 50' 00'' E jusqu'au point 48° 48' 42'' N, 004° 51' 00'' E ;
+48° 05 22''N, 005° 42 05''E-48° 17 30''N, 004° 58 45''E-48° 37 10''N, 004° 50 00''E ;
 
-puis les points :
-
-48° 38' 45'' N, 004° 57' 30'' E - 48° 21' 00'' N, 005° 05' 00'' E ;
-
-48° 09' 10'' N, 005° 40' 30'' E - 48° 04' 20'' N, 005° 39' 00'' E ;
-
-48° 17' 30'' N, 004° 58' 45'' E - 48° 37' 10'' N, 004° 50' 00'' E ;
-
-49° 14' 40'' N, 004° 26' 00'' E - 49° 22' 40'' N, 004° 40' 00'' E.
+49° 14 40''N, 004° 26 00''E-49° 22 40''N, 004° 40 00''E.
 
 b) Limites verticales : de 800 pieds (250 mètres) par rapport à la surface à 2 700 pieds (800 mètres) par rapport à la surface.
 
@@ -624,15 +616,17 @@ a) Limites latérales : ligne brisée joignant les points :
 
 b) Limites verticales : de 800 pieds (240 mètres) par rapport à la surface à 1 800 pieds (550 mètres) par rapport à la surface.
 
-XLVII. ― LF-R 152 Alsace
+XLVII. LF-R 152 Alsace
+
+(à l'exclusion de la zone réglementée LF-R 230 Baccarat lorsqu'elle est active)
 
 a) Limites latérales : ligne brisée joignant les points :
 
-48° 41' 03'' N, 006° 41' 16'' E - 48° 20' 00'' N, 006° 46' 00'' E - 48° 02' 00'' N, 006° 31' 00'' E ;
+48° 41 03''N, 006° 41 16''E-48° 20 00''N, 006° 46 00''E-48° 02 00''N, 006° 31 00''E ;
 
-48° 06' 00'' N, 005° 50' 10'' E - 48° 10' 51'' N, 005° 47' 22'' E - 48° 07' 00'' N, 006° 27' 00'' E ;
+48° 05 07''N, 005° 59 22''E-48° 10 51''N, 005° 47 22''E-48° 07 00''N, 006° 27 00''E ;
 
-48° 21' 00'' N, 006° 38' 00'' E - 48° 40' 18'' N, 006° 33' 48'' E - 48° 41' 03'' N, 006° 41' 16'' E.
+48° 21 00''N, 006° 38 00''E-48° 40 18''N, 006° 33 48''E-48° 41 03''N, 006° 41 16''E.
 
 b) Limites verticales : de 800 pieds (250 mètres) par rapport à la surface à 2 800 pieds (850 mètres) par rapport à la surface.
 
@@ -859,3 +853,13 @@ a) Limites latérales : ligne brisée joignant les points :
 43° 51' 00'' N, 000° 02' 00'' E - 44° 16' 30'' N, 000° 02' 00'' E - 44° 20' 00'' N, 000° 06' 30'' E.
 
 b) Limites verticales : de la surface à 3 000 pieds (900 mètres) par rapport au niveau moyen de la mer.
+
+LXVIII. - LF-R 45 NS Damblain
+
+a) Limites latérales : ligne brisée joignant les points :
+
+48° 11 36''N, 005° 39 04''E-48° 10 51''N, 005° 47 22''E-48° 05 07''N, 005° 59 22''E ;
+
+48° 02 34''N, 005° 48 38''E-48° 05 22''N, 005° 42 05''E-48° 11 36''N, 005° 39 04''E.
+
+b) Limites verticales : de 800 pieds (250 mètres) par rapport à la surface à 2 800 pieds (850 mètres) par rapport à la surface.
