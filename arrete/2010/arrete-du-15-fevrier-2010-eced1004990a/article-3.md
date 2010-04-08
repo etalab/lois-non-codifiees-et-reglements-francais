@@ -1,42 +1,54 @@
 # Article 3
 
-<div>
-<br/>Les titulaires des certificats de compétences professionnelles obtenus antérieurement à la publication du présent arrêté modificatif sont réputés avoir obtenu les certificats de compétences professionnelles du titre professionnel de tuyauterie industriel selon le tableau de correspondances figurant ci-dessous.<br/>
-<div align="center">
+Les titulaires des certificats de compétences professionnelles obtenus antérieurement à la publication du présent arrêté modificatif sont réputés avoir obtenu les certificats de compétences professionnelles du titre professionnel d'installateur en thermique et sanitaire selon le tableau de correspondances figurant ci-dessous :
 
 <table>
+<tbody>
 <tr>
 <th>
-<br/>TITRE PROFESSIONNEL<br/>installateur(trice)<br/>en thermique et sanitaire<br/>(arrêté du 25 janvier 2007)</th>
-<th colspan="2">
-<br/>TITRE PROFESSIONNEL<br/>installateur(trice)<br/>en thermique et sanitaire<br/>(présent arrêté)</th>
+<br/>TITRE PROFESSIONNEL <br/>
+<br/>installateur (trice) <br/>
+<br/>en thermique et sanitaire <br/>
+<br/>(ancien arrêté) <br/>
+</th>
+<th colspan="3">
+<br/>TITRE PROFESSIONNEL <br/>
+<br/>installateur (trice) <br/>
+<br/>en thermique et sanitaire <br/>
+<br/>(présent arrêté) <br/>
+</th>
 </tr>
 <tr>
 <td align="center">
-<br/>Réaliser des éléments d'installations de chauffage et de sanitaire.</td>
+<br/>Réaliser des éléments d'installations de chauffage et de sanitaire. <br/>
+</td>
 <td align="center">
-<br/>Faire le métré tous corps d'état d'un bâtiment de technologie courante.</td>
+<br/>Réaliser des éléments d'installations de chauffage et de sanitaire. <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Réaliser des installations collectives neuves de chauffage et de sanitaire.</td>
+<br/>Réaliser des installations collectives neuves de chauffage et de sanitaire. <br/>
+</td>
 <td align="center">
-<br/>Estimer au bordereau un bâtiment de technologie courante.</td>
+<br/>Réaliser des installations collectives de chauffage et de sanitaire. <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Réaliser des installations individuelles neuves de chauffage et de sanitaire.</td>
+<br/>Réaliser des installations individuelles neuves de chauffage et de sanitaire. <br/>
+</td>
 <td align="center">
-<br/>Faire l'étude de prix aux déboursés d'un bâtiment de technologie courante.</td>
+<br/>Réaliser des installations individuelles de chauffage et de sanitaire. <br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>CCS : installer des systèmes de chauffage et de production d'eau chaude sanitaire utilisant les énergies renouvelables.</td>
+<br/>CCS : installer des systèmes de chauffage et de production d'eau chaude sanitaire utilisant les énergies renouvelables. <br/>
+</td>
 <td align="center">
-<br/>CCS : installer des systèmes de chauffage et de production d'eau chaude sanitaire utilisant les énergies renouvelables.</td>
+<br/>CCS : installer des systèmes de chauffage et de production d'eau chaude sanitaire utilisant les énergies renouvelables.<br/>
+</td>
 </tr>
+</tbody>
 </table>
-
-</div>
-<br/>
-</div>
