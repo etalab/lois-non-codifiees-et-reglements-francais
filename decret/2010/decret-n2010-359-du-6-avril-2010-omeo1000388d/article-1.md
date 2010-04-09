@@ -1,0 +1,3 @@
+# Article 1
+
+Le projet d'acte annexé à la délibération du conseil territorial de la collectivité de Saint-Martin CT 13-6-2008 du 31 octobre 2008 portant avis favorable sur le projet d'acte créant une sanction pénale relative aux infractions sur le non-paiement de la taxe routière automobile et relatif à l'article 986 F du code général des impôts de Saint-Martin, tel que modifié par l'article 5 quater de la délibération du conseil territorial de la collectivité de Saint-Martin CT 16-2-2009 du 27 mars 2009 portant fixation des taux d'impositions directes et indirectes pour 2009 et échéances et mesures diverses, est approuvé.

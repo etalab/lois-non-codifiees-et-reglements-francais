@@ -43,6 +43,8 @@
 - [Décret n°2010-13 du 6 janvier 2010 (ECEL0929286D)](decret-n2010-13-du-6-janvier-2010-ecel0929286d)
 - [Décret n°2010-17 du 6 janvier 2010 (ESRH0824090D)](decret-n2010-17-du-6-janvier-2010-esrh0824090d)
 - [Décret n°2010-19 du 6 janvier 2010 (SJSH0818851D)](decret-n2010-19-du-6-janvier-2010-sjsh0818851d)
+- [Décret n°2010-358 du 6 avril 2010 (JUSD0930933D)](decret-n2010-358-du-6-avril-2010-jusd0930933d)
+- [Décret n°2010-359 du 6 avril 2010 (OMEO1000388D)](decret-n2010-359-du-6-avril-2010-omeo1000388d)
 - [Décret n°2010-8 du 6 janvier 2010 (DEVN0925028D)](decret-n2010-8-du-6-janvier-2010-devn0925028d)
 - [Décret n°2010-9 du 6 janvier 2010 (JUSC0921456D)](decret-n2010-9-du-6-janvier-2010-jusc0921456d)
 - [Décret n°2010-14 du 7 janvier 2010 (MTSS0920172D)](decret-n2010-14-du-7-janvier-2010-mtss0920172d)
