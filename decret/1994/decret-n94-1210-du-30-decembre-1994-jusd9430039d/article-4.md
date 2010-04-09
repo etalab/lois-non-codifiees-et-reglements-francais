@@ -12,13 +12,13 @@ Le Conseil supérieur de la médecine légale comprend :
 
 - le directeur des hôpitaux au ministère chargé de la santé ou son représentant ;
 
-- le directeur général des enseignements supérieurs au ministère de l'enseignement supérieur et de la recherche ou son représentant ;
+- le directeur général pour l'enseignement supérieur et l'insertion professionnelle au ministère de l'enseignement supérieur et de la recherche ou son représentant ;
 
-- le directeur général de la gendarmerie nationale au ministère de la défense ou son représentant ;
+- le directeur général de la gendarmerie nationale au ministère de l'intérieur ou son représentant ;
 
 - le directeur général de la police nationale au ministère de l'intérieur ou son représentant ;
 
-- le vice-président du Haut Comité de la santé publique ou son représentant.
+- le président du Haut Conseil de la santé publique ou son représentant.
 
 2° Dix personnalités :
 

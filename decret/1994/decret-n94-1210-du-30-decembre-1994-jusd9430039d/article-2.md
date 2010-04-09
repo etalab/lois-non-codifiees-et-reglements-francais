@@ -2,7 +2,7 @@
 
 Le Conseil supérieur de la médecine légale a pour mission :
 
-a) D'assurer le suivi et l'évaluation, sous forme d'un rapport annuel, du schéma d'organisation de la médecine légale en France ;
+a) D'assurer le suivi et l'évaluation, sous forme d'un rapport bisannuel, du schéma d'organisation de la médecine légale en France ;
 
 b) De formuler, à son initiative ou sur la demande du garde des sceaux, ministre de la justice, et du ministre chargé de la santé toutes propositions en matière de médecine légale ;
 
