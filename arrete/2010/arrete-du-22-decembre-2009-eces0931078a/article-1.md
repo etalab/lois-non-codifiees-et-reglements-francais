@@ -11,14 +11,13 @@ PROGRAMME D'ENQUÊTES STATISTIQUES DES SERVICES PUBLICS POUR 2010
 <tr>
 <th>MINISTÈRE OU ORGANISME ENQUÊTEUR<br/>et nature de l'enquête<br/>
 </th>
-<th colspan="7">CHAMP DE L'ENQUÊTE<br/>et modalités d'exécution<br/>
+<th colspan="7">fCHAMP DE L'ENQUÊTE<br/>et modalités d'exécution<br/>
 </th>
 </tr>
 <tr>
 <td align="center">1. ENQUÊTES D'INTÉRÊT GÉNÉRAL ET OBLIGATOIRES<br/>Ministère de l'économie, de l'industrie et de l'emploi<br/>Institut national de la statistique<br/>et des études économiques<br/>
 </td>
-<td align="center">
-<br/>
+<td align="center">f<br/>
 </td>
 </tr>
 <tr>
@@ -446,8 +445,7 @@ PROGRAMME D'ENQUÊTES STATISTIQUES DES SERVICES PUBLICS POUR 2010
 <td align="center">Ministère du travail, des relations sociales,<br/>de la famille, de la solidarité et de la ville<br/>Ministère du budget, des comptes publics,<br/>de la fonction publique et de la réforme de l'Etat<br/>Direction de la recherche, des études,<br/>de l'évaluation et des statistiques<br/>
 </td>
 <td align="center">
-<br/>
-</td>
+<br/>f</td>
 </tr>
 <tr>
 <td align="center">Enquête statistique auprès des organismes offrant des couvertures complémentaires de santé.<br/>
@@ -483,7 +481,7 @@ PROGRAMME D'ENQUÊTES STATISTIQUES DES SERVICES PUBLICS POUR 2010
 </td>
 </tr>
 <tr>
-<td align="center">Ministère du travail, des relations sociales,<br/>de la famille, de la solidarité et de la ville<br/>Direction de l'animation de la recherche,<br/>des études et des statistiques<br/>
+<td align="center">Ministère du ftravail, des relations sociales,<br/>de la famille, de la solidarité et de la ville<br/>Direction de l'animation de la recherche,<br/>des études et des statistiques<br/>
 </td>
 <td align="center">
 <br/>
@@ -1006,7 +1004,27 @@ PROGRAMME D'ENQUÊTES STATISTIQUES DES SERVICES PUBLICS POUR 2010
 <td>L'enquête a pour objectif de décrire l'offre d'entrepôts sur le territoire métropolitain, afin d'identifier leurs caractéristiques et d'obtenir des éléments sur leur activité. Seront concernés les entrepôts de plus de 5 000 m² ou 30 000 m³. La collecte se déroulera au cours du premier semestre de l'année auprès d'un échantillon d'environ 1 500 entrepôts. Elle sera réalisée soit par voie postale, soit par Internet, au choix du répondant.</td>
 </tr>
 <tr>
-<td align="center">2. ENQUÊTES D'INTÉRÊT GÉNÉRAL<br/>
+<td>
+<p align="center">Ministère de l'économie, de l'industrie et de l'emploi</p>
+<p align="center">et </p>
+<p align="center">Ministère du travail,<br/>de la solidarité<br/>et de la fonction publique</p>
+<p align="left">Direction de l'animation de la recherche, des études et des statistiques </p>
+<p align="center">et</p>
+<p align="center">Ministère de l'éducation nationale</p>
+<p align="left">Direction de l'évaluation, de la prospective et de la performance </p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p align="center">Enquête pilote (*) Programme for International Assessment of Adult Competencies (PIAAC).</p>
+</td>
+<td>L'enquête pilote sur la mesure des compétences des adultes constitue le volet français du test de l'enquête Programme for International Assessment of Adult Competencies (PIAAC) de l'OCDE regroupant 30 pays. Il s'agit de mettre en œuvre une vaste enquête sur les compétences, dans leur acception la plus large, détenues et mises en pratique par les personnes d'âge adulte des pays membres de l'OCDE. Les enquêtes en grandeur réelle doivent avoir lieu en 2011, voire 2012, dans les pays volontaires.L'enquête pilote a pour but de tester le protocole et se déroulera au printemps 2010 auprès d'environ 4 000 ménages de France métropolitaine. Les personnes interrogées seront amenées à répondre soit directement à des exercices sur l'ordinateur de collecte, soit sur support papier si elles ne sont pas à l'aise avec la manipulation d'un micro-ordinateur. </td>
+</tr>
+<tr>
+<td align="center">
+<p align="center">2. ENQUÊTES D'INTÉRÊT GÉNÉRAL<br/>
+</p>
 </td>
 <td align="center">
 <br/>
@@ -1064,7 +1082,8 @@ PROGRAMME D'ENQUÊTES STATISTIQUES DES SERVICES PUBLICS POUR 2010
 </td>
 </tr>
 <tr>
-<td align="center">Ministère de l'éducation nationale<br/>Direction de l'évaluation, de la prospective<br/>et de la performance<br/>
+<td align="center">
+<p align="left">Ministère de l'éducation nationale<br/>Direction de l'évaluation, de la prospective et de la performance</p>
 </td>
 <td align="center">
 <br/>
@@ -1167,7 +1186,9 @@ PROGRAMME D'ENQUÊTES STATISTIQUES DES SERVICES PUBLICS POUR 2010
 </td>
 </tr>
 <tr>
-<td align="center">Ministère de l'alimentation, de l'agriculture<br/>et de la pêche<br/>Direction générale de l'enseignement et de la recherche<br/>
+<td align="center">
+<p align="left">Ministère de l'alimentation, de l'agriculture<br/>et de la pêche<br/>Direction générale de l'enseignement et de la recherche<br/>
+</p>
 </td>
 <td align="center">
 <br/>
@@ -1210,47 +1231,47 @@ PROGRAMME D'ENQUÊTES STATISTIQUES DES SERVICES PUBLICS POUR 2010
 </td>
 </tr>
 <tr>
-<td align="center">Ministère de la santé et des sports<br/>Ministère du travail, des relations sociales, de la famille,<br/>de la solidarité et de la ville<br/>Ministère du budget, des comptes publics,<br/>de la fonction publique et de la réforme de l'Etat<br/>Direction de la recherche, des études,<br/>de l'évaluation et des statistiques<br/>
+<td align="center">
+<p align="center">Ministère de la santé et des sports<br/>Ministère du travail, des relations sociales, de la famille,<br/>de la solidarité et de la ville<br/>Ministère du budget, des comptes publics,<br/>de la fonction publique et de la réforme de l'Etat</p>
+<p align="left">Direction de la recherche, des études, de l'évaluation et des statistiques</p>
 </td>
 <td align="center">
 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">(*) Enquête nationale périnatale 2010.<br/>
-</td>
-<td align="center">L'enquête a pour objectifs de connaître les principaux indicateurs de l'état de santé, les pratiques médicales pendant la grossesse et l'accouchement et les facteurs de risque périnatal, d'apporter des informations pour guider les décisions en santé publique et d'évaluer les actions de santé dans le domaine périnatal. En outre, le contexte de pandémie grippale a conduit à introduire des questions supplémentaires sur les conséquences de la grippe sur la prise en charge de la grossesse et de l'accouchement. Elle aura lieu en mars 2010 sur une ou deux semaines auprès des jeunes accouchées de toutes les maternités (publiques et privées) de France entière. L'échantillon attendu est de 16 à 17 000 naissances. La collecte sera réalisée sur questionnaire papier par un enquêteur ayant une formation médicale ou paramédicale. Il interrogera les femmes lors de leur séjour à la maternité après leur accouchement en face à face dans leur chambre. Les informations médicales seront recueillies à partir du dossier médical.<br/>
+<td align="center">(*) Enquête nationale périnatale 2010.</td>
+<td align="center">
+<p align="left">L'enquête a pour objectifs de connaître les principaux indicateurs de l'état de santé, les pratiques médicales pendant la grossesse et l'accouchement et les facteurs de risque périnatal, d'apporter des informations pour guider les décisions en santé publique et d'évaluer les actions de santé dans le domaine périnatal. En outre, le contexte de pandémie grippale a conduit à introduire des questions supplémentaires sur les conséquences de la grippe sur la prise en charge de la grossesse et de l'accouchement. Elle aura lieu en mars 2010 sur une ou deux semaines auprès des jeunes accouchées de toutes les maternités (publiques et privées) de France entière. L'échantillon attendu est de 16 à 17 000 naissances. La collecte sera réalisée sur questionnaire papier par un enquêteur ayant une formation médicale ou paramédicale. Il interrogera les femmes lors de leur séjour à la maternité après leur accouchement en face à face dans leur chambre. Les informations médicales seront recueillies à partir du dossier médical.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">Ministère de l'immigration, de l'intégration,<br/>de l'identité nationale et du développement solidaire<br/>Département des statistiques, des études et de la documentation<br/>
-</td>
+<td align="center">Ministère de l'immigration, de l'intégration,<br/>de l'identité nationale et du développement solidaire<br/>Département des statistiques, des études et de la documentation</td>
 <td align="center">
 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">(*) Enquête longitudinale sur l'intégration des primo-arrivants (ELIPA).<br/>
-</td>
-<td align="center">L'enquête a pour objectif d'appréhender au plus près le parcours d'intégration des migrants auxquels vient d'être délivré un premier titre de séjour depuis leur arrivée en France. L'enquête se déroulera en trois interrogations auprès d'un échantillon de personnes majeures arrivées en France dans le cadre de migration professionnelle ou familiale et les réfugiés. La première interrogation aura lieu début 2010, au moment de la délivrance du premier titre de séjour, la seconde un an après et la troisième trois ans plus tard. La collecte sera réalisée par entretien mené par des enquêteurs interprètes.<br/>
+<td align="center">(*) Enquête longitudinale sur l'intégration des primo-arrivants (ELIPA).</td>
+<td align="center">
+<p align="left">L'enquête a pour objectif d'appréhender au plus près le parcours d'intégration des migrants auxquels vient d'être délivré un premier titre de séjour depuis leur arrivée en France. L'enquête se déroulera en trois interrogations auprès d'un échantillon de personnes majeures arrivées en France dans le cadre de migration professionnelle ou familiale et les réfugiés. La première interrogation aura lieu début 2010, au moment de la délivrance du premier titre de séjour, la seconde un an après et la troisième trois ans plus tard. La collecte sera réalisée par entretien mené par des enquêteurs interprètes.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Haut-commissaire à la jeunesse<br/>Direction de la jeunesse, de l'éducation populaire<br/>et de la vie associative<br/>
-</td>
+<td align="center">Haut-commissaire à la jeunesse<br/>Direction de la jeunesse, de l'éducation populaire<br/>et de la vie associative</td>
 <td align="center">
 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">(*) Enquête sur la pratique physique et sportive en France.<br/>
-</td>
-<td align="center">L'enquête a pour objectif de décrire précisément la pratique sportive, de faire apparaître les pratiques émergentes, de mesurer le nombre de licenciés et de caractériser le profil socio-économique des pratiquants. L'enquête aura lieu par téléphone et couvrira la France métropolitaine et les DOM. La maîtrise d'œuvre de l'opération est assurée par la direction de la jeunesse, de l'éducation populaire et de la vie associative et la maîtrise d'ouvrage par le Centre national pour le développement du sport.<br/>
+<td align="center">(*) Enquête sur la pratique physique et sportive en France.</td>
+<td align="center">
+<p align="left">L'enquête a pour objectif de décrire précisément la pratique sportive, de faire apparaître les pratiques émergentes, de mesurer le nombre de licenciés et de caractériser le profil socio-économique des pratiquants. L'enquête aura lieu par téléphone et couvrira la France métropolitaine et les DOM. La maîtrise d'œuvre de l'opération est assurée par la direction de la jeunesse, de l'éducation populaire et de la vie associative et la maîtrise d'ouvrage par le Centre national pour le développement du sport.</p>
 </td>
 </tr>
 <tr>
-<td align="center">Ministère de l'éducation nationale,<br/>Ministère de l'économie, de l'industrie et de l'emploi,<br/>Centre d'études et de recherches sur les qualifications<br/>
-</td>
+<td align="center">Ministère de l'éducation nationale,<br/>Ministère de l'économie, de l'industrie et de l'emploi,<br/>Centre d'études et de recherches sur les qualifications</td>
 <td align="center">
 <br/>
 </td>
@@ -1258,7 +1279,9 @@ PROGRAMME D'ENQUÊTES STATISTIQUES DES SERVICES PUBLICS POUR 2010
 <tr>
 <td align="center">(*) Enquête de cheminement tous niveaux de sortie du système éducatif, Génération 2007.<br/>
 </td>
-<td align="center">Cette enquête a pour objectif de permettre une analyse approfondie des parcours à l'issue du système éducatif et des premières mobilités professionnelles sur une période pouvant aller jusqu'à sept ans. Elle doit également permettre d'examiner la place et le rôle des mesures pour l'emploi ou la formation, en début de vie active. Elle concernera la génération de sortants en 2007. La collecte sera réalisée par téléphone au printemps 2010.<br/>
+<td align="center">
+<p align="left">Cette enquête a pour objectif de permettre une analyse approfondie des parcours à l'issue du système éducatif et des premières mobilités professionnelles sur une période pouvant aller jusqu'à sept ans. Elle doit également permettre d'examiner la place et le rôle des mesures pour l'emploi ou la formation, en début de vie active. Elle concernera la génération de sortants en 2007. La collecte sera réalisée par téléphone au printemps 2010.<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -1273,11 +1296,14 @@ PROGRAMME D'ENQUÊTES STATISTIQUES DES SERVICES PUBLICS POUR 2010
 <tr>
 <td align="center">(*) Cohorte Constances (consultants des centres d'examens de santé de la sécurité sociale).<br/>
 </td>
-<td align="center">L'opération a pour objectif d'apporter des connaissances longitudinales sur les déterminants sociaux et environnementaux en matière de santé, d'apporter des informations pour l'assurance maladie à visée de santé publique, de permettre le suivi des indicateurs de la loi de santé publique et de contribuer au développement de la recherche épidémiologique et de la surveillance épidémiologique. La constitution de la cohorte se fera sur cinq ans. La première vague d'inclusion concernera 40 à 50 000 personnes sur un an et démarrera courant 2010. Au total, environ 200 000 personnes âgées de 18 à 69 ans au moment de leur intégration à la cohorte seront concernées. Un autoquestionnaire papier à compléter à domicile sera d'abord adressé aux personnes ayant donné leur accord pour participer à l'opération. Les volontaires seront invités à se présenter dans un centre d'examen de la sécurité sociale (CES) où il leur sera proposé deux questionnaires papier, l'un auto-administré, l'autre administré par enquêteur.<br/>Le suivi de la cohorte prévoit un autoquestionnaire postal annuel, et l'appariement régulier avec les bases de données de l'assurance maladie et de la Caisse nationale d'assurance vieillesse.<br/>
+<td align="center">
+<p align="left">L'opération a pour objectif d'apporter des connaissances longitudinales sur les déterminants sociaux et environnementaux en matière de santé, d'apporter des informations pour l'assurance maladie à visée de santé publique, de permettre le suivi des indicateurs de la loi de santé publique et de contribuer au développement de la recherche épidémiologique et de la surveillance épidémiologique. La constitution de la cohorte se fera sur cinq ans. La première vague d'inclusion concernera 40 à 50 000 personnes sur un an et démarrera courant 2010. Au total, environ 200 000 personnes âgées de 18 à 69 ans au moment de leur intégration à la cohorte seront concernées. Un autoquestionnaire papier à compléter à domicile sera d'abord adressé aux personnes ayant donné leur accord pour participer à l'opération. Les volontaires seront invités à se présenter dans un centre d'examen de la sécurité sociale (CES) où il leur sera proposé deux questionnaires papier, l'un auto-administré, l'autre administré par enquêteur.<br/>Le suivi de la cohorte prévoit un autoquestionnaire postal annuel, et l'appariement régulier avec les bases de données de l'assurance maladie et de la Caisse nationale d'assurance vieillesse.<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">Institut de recherche et de documentation<br/>en économie de la santé<br/>
+<td align="center">
+<p align="center">Institut de recherche et de documentation<br/>en économie de la santé</p>
 </td>
 <td align="center">
 <br/>
@@ -1286,14 +1312,16 @@ PROGRAMME D'ENQUÊTES STATISTIQUES DES SERVICES PUBLICS POUR 2010
 <tr>
 <td align="center">Enquête santé, protection sociale.<br/>
 </td>
-<td align="center">Cette enquête a pour objectif principal de permettre l'analyse des problématiques complexes qui simultanément mettent en jeu la consommation de soins, l'état de santé, le niveau d'assurance, le statut économique et social. Elle a lieu tous les deux ans en deux vagues, mars-juin et octobre-décembre. Le champ de l'enquête est celui des ménages ordinaires de France métropolitaine dont un membre au moins est assuré au régime général de sécurité sociale, au RSI (régime social des indépendants) ou à la MSA. La collecte est réalisée par téléphone ou en face à face. <br/>
+<td align="center">
+<p align="left">Cette enquête a pour objectif principal de permettre l'analyse des problématiques complexes qui simultanément mettent en jeu la consommation de soins, l'état de santé, le niveau d'assurance, le statut économique et social. Elle a lieu tous les deux ans en deux vagues, mars-juin et octobre-décembre. Le champ de l'enquête est celui des ménages ordinaires de France métropolitaine dont un membre au moins est assuré au régime général de sécurité sociale, au RSI (régime social des indépendants) ou à la MSA. La collecte est réalisée par téléphone ou en face à face. <br/>
+</p>
 </td>
 </tr>
 <tr>
 <td>
 <p align="center">Ministère du travail, des relations sociales, de la famille, de la solidarité et de la ville </p>
-<p>Ministère du budget, des comptes publics, de la fonction publique et de la réforme de l'Etat </p>
-<p>Ministère de la santé et des sports<br/>Direction de la recherche, des études, de l'évaluation et des statistiques </p>
+<p align="center">Ministère du budget, des comptes publics, de la fonction publique et de la réforme de l'Etat </p>
+<p align="center">Ministère de la santé et des sports<br/>Direction de la recherche, des études, de l'évaluation et des statistiques </p>
 <p>Direction de la sécurité sociale</p>
 <p>Caisse nationale d'assurance vieillesse </p>
 </td>
@@ -1302,6 +1330,19 @@ PROGRAMME D'ENQUÊTES STATISTIQUES DES SERVICES PUBLICS POUR 2010
 <tr>
 <td>(*) Enquête sur les motivations de départ à la retraite.</td>
 <td>L'enquête a pour objectif d'identifier les motivations de départ en retraite des assurés, et notamment celles qui ne sont pas connues dans les sources administratives : déterminants d'ordre financier, liés à l'état de santé, aux conditions de travail, à la situation du conjoint, etc.L'opération s'adresse aux nouveaux retraités titulaires d'un droit direct au régime général de la Caisse nationale d'assurance vieillesse (CNAV), métropole et DOM, et ayant liquidé leurs droits à la retraite entre le 1er juillet 2008 et le 30 juin 2009. Un échantillon d'adresses sera tiré dans les fichiers administratifs de la CNAV, visant à obtenir un minimum de 3 000 répondants. La collecte sera réalisée par téléphone entre mi-février et mi-mars 2010. </td>
+</tr>
+<tr>
+<td>
+<p align="center">Ministère du travail, de la solidarité et de la fonction publique</p>
+<p>Direction de l'animation de la recherche, des études et des statistiques </p>
+<p align="center">Pôle emploi </p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>Enquête auprès des sortants des listes de Pôle emploi.<br/>
+</td>
+<td>L'enquête a pour objectif de fournir des estimations trimestrielles des véritables motifs de sortie des listes de Pôle emploi des demandeurs d'emploi. Elle porte sur les demandeurs d'emploi de catégories A, B et C sortis des listes de Pôle emploi aux mois de mars, juin, septembre et décembre. Elle a lieu chaque trimestre par téléphone.L'échantillon, tiré dans la base des sortants du dernier mois du trimestre, doit permettre d'obtenir au moins 15 000 répondants, dont 2 000 sur un questionnaire dit long et 13 000 sur un questionnaire dit court . </td>
 </tr>
 <tr>
 <td colspan="8">(*) Enquête nouvelle, rénovée ou enquête de périodicité supérieure à l'année.<br/>
