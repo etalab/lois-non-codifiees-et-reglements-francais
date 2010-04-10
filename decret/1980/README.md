@@ -111,7 +111,6 @@
 - [Décret n°80-177 du 25 février 1980](decret-n80-177-du-25-fevrier-1980)
 - [Décret n°80-308 du 25 avril 1980](decret-n80-308-du-25-avril-1980)
 - [Décret n°80-665 du 25 août 1980](decret-n80-665-du-25-aout-1980)
-- [Décret n°80-936 du 25 novembre 1980](decret-n80-936-du-25-novembre-1980)
 - [Décret n°80-963 du 25 novembre 1980](decret-n80-963-du-25-novembre-1980)
 - [Décret n°68-1252 du 26 décembre 1968](decret-n68-1252-du-26-decembre-1968)
 - [Décret n°79-1210 du 26 décembre 1979](decret-n79-1210-du-26-decembre-1979)

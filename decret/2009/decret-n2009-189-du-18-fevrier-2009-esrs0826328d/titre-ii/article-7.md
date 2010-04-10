@@ -1,3 +1,3 @@
 # Article 7
 
-Le directeur général est choisi parmi les personnes ayant vocation à enseigner dans l'établissement. Il est nommé pour cinq ans par arrêté conjoint des ministres chargés de l'agriculture et de l'enseignement supérieur, après avis du conseil d'administration. Son mandat est renouvelable une fois.
+Le directeur général est nommé par décret dans les conditions fixées par l'article 2 du décret n° 2010-362 du 8 avril 2010 fixant les conditions de nomination et d'avancement dans les emplois de directeur général et de directeur des établissements d'enseignement supérieur agricole publics.

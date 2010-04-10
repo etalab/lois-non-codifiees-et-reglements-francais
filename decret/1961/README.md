@@ -32,8 +32,6 @@
 - [Décret n°61-207 du 25 février 1961](decret-n61-207-du-25-fevrier-1961)
 - [Décret n°61-854 du 25 juillet 1961](decret-n61-854-du-25-juillet-1961)
 - [Décret n°61-88 du 25 janvier 1961](decret-n61-88-du-25-janvier-1961)
-- [Décret n°64-451 du 25 mai 1964](decret-n64-451-du-25-mai-1964)
-- [Décret n°64-452 du 25 mai 1964](decret-n64-452-du-25-mai-1964)
 - [Décret n°61-1066 du 26 septembre 1961](decret-n61-1066-du-26-septembre-1961)
 - [Décret n°61-1433 du 26 décembre 1961](decret-n61-1433-du-26-decembre-1961)
 - [Décret n°61-667 du 26 juin 1961](decret-n61-667-du-26-juin-1961)
