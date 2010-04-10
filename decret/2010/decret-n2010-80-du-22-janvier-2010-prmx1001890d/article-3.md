@@ -1,14 +1,8 @@
 # Article 3
 
-Il est créé un comité de surveillance des investissements d'avenir.
+Le comité de surveillance des investissements d'avenir mentionné au IV de l'article 8 de la loi du 9 mars 2010 susvisée est placé sous la présidence conjointe de MM. Alain JUPPÉ et Michel ROCARD.
 
-Le comité est placé sous la présidence conjointe de MM. Alain JUPPÉ et Michel ROCARD.
-
-Il comprend en outre :
-
-― deux députés et deux sénateurs, désignés par le président de leur assemblée respective ;
-
-― six personnalités qualifiées désignées par arrêté du Premier ministre.
+Il comprend, outre les quatre députés et les quatre sénateurs désignés dans les conditions prévues par la loi du 9 mars 2010, huit personnalités qualifiées nommées par arrêté du Premier ministre.
 
 Le comité de surveillance établit un rapport annuel faisant apparaître l'exécution du programme d'investissements et les résultats de leur évaluation. Le commissaire général lui transmet à cet effet toutes informations utiles. Le rapport est remis au Premier ministre et à chaque assemblée.
 
