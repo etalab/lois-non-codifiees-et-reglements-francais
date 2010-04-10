@@ -900,7 +900,6 @@
 - [Arrêté du 28 décembre 2009 (SASH0931675A)](arrete-du-28-decembre-2009-sash0931675a)
 - [Arrêté du 28 décembre 2009 (SASS0931812A)](arrete-du-28-decembre-2009-sass0931812a)
 - [Arrêté du 28 décembre 2009 (SASS0931817A)](arrete-du-28-decembre-2009-sass0931817a)
-- [Arrêté du 28 janvier 2010 (AGRM1000899A)](arrete-du-28-janvier-2010-agrm1000899a)
 - [Arrêté du 28 janvier 2010 (IOCA1002922A)](arrete-du-28-janvier-2010-ioca1002922a)
 - [Arrêté du 28 janvier 2010 (MENE1002763A)](arrete-du-28-janvier-2010-mene1002763a)
 - [Arrêté du 28 janvier 2010 (SASP1002049A)](arrete-du-28-janvier-2010-sasp1002049a)
