@@ -310,6 +310,7 @@
 - [Arrêté du 13 mars 1985](arrete-du-13-mars-1985)
 - [Arrêté du 13 novembre 2009 (DEVA0917931A)](arrete-du-13-novembre-2009-deva0917931a)
 - [Arrêté du 13 octobre 2005 (AGRA0502282A)](arrete-du-13-octobre-2005-agra0502282a)
+- [Arrêté du 13 mai 2004 (SOCF0410986A)](arrete-du-13-mai-2004-socf0410986a)
 - [Arrêté du 14 avril 2009 (DEFH0908749A)](arrete-du-14-avril-2009-defh0908749a)
 - [Arrêté du 14 décembre 2009 (DEFD0930219A)](arrete-du-14-decembre-2009-defd0930219a)
 - [Arrêté du 14 décembre 2009 (ECEM0929046A)](arrete-du-14-decembre-2009-ecem0929046a)

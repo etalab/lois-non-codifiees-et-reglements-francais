@@ -366,7 +366,6 @@
 - [Arrêté du 11 décembre 2008 (ECET0828605A)](arrete-du-11-decembre-2008-ecet0828605a)
 - [Arrêté du 11 décembre 2008 (MLVV0828153A)](arrete-du-11-decembre-2008-mlvv0828153a)
 - [Arrêté du 11 décembre 2008 (MLVV0828156A)](arrete-du-11-decembre-2008-mlvv0828156a)
-- [Arrêté du 11 décembre 2008 (SJSG0829992A)](arrete-du-11-decembre-2008-sjsg0829992a)
 - [Arrêté du 11 décembre 2008 (SJSH0829678A)](arrete-du-11-decembre-2008-sjsh0829678a)
 - [Arrêté du 11 décembre 2008 (SJSS0829616A)](arrete-du-11-decembre-2008-sjss0829616a)
 - [Arrêté du 11 février 2008 (AGRP0800471A)](arrete-du-11-fevrier-2008-agrp0800471a)
