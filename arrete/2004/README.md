@@ -371,7 +371,6 @@
 - [Arrêté du 13 mai 2004 (MENE0400867A)](arrete-du-13-mai-2004-mene0400867a)
 - [Arrêté du 13 mai 2004 (MENS0400956A)](arrete-du-13-mai-2004-mens0400956a)
 - [Arrêté du 13 mai 2004 (SOCF0410985A)](arrete-du-13-mai-2004-socf0410985a)
-- [Arrêté du 13 mai 2004 (SOCF0410986A)](arrete-du-13-mai-2004-socf0410986a)
 - [Arrêté du 13 mai 2004 (SOCF0410989A)](arrete-du-13-mai-2004-socf0410989a)
 - [Arrêté du 13 mai 2004 (SOCF0410990A)](arrete-du-13-mai-2004-socf0410990a)
 - [Arrêté du 13 mai 2004 (SOCF0410991A)](arrete-du-13-mai-2004-socf0410991a)
