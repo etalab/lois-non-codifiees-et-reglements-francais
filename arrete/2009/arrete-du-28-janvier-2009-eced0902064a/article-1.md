@@ -331,18 +331,6 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 </tr>
 <tr>
-<td align="center">III<br/>
-</td>
-<td align="center">Educateur ludo-pédagogique.<br/>
-</td>
-<td align="center">332,<br/>412<br/>
-</td>
-<td align="center">5 ans<br/>
-</td>
-<td align="center">FEDERATION NATIONALE ASSOCIATION POUR LE DEVELOPPEMENT DE L'ENFANT PAR LES LOISIRS EDUCATIFS (ADELE).<br/>
-</td>
-</tr>
-<tr>
 <td align="center">II<br/>
 </td>
 <td align="center">Cartographe géomaticien.<br/>
