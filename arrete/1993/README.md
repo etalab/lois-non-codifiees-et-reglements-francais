@@ -85,7 +85,6 @@
 - [Arrêté du 4 février 1991 (INTE9100149A)](arrete-du-4-fevrier-1991-inte9100149a)
 - [Arrêté du 4 février 1993 (MENK9300046A)](arrete-du-4-fevrier-1993-menk9300046a)
 - [Arrêté du 4 février 1993 (MENZ9304228A)](arrete-du-4-fevrier-1993-menz9304228a)
-- [Arrêté du 4 février 1993 (MENZ9304229A)](arrete-du-4-fevrier-1993-menz9304229a)
 - [Arrêté du 4 janvier 1993 (BUDF9200044A)](arrete-du-4-janvier-1993-budf9200044a)
 - [Arrêté du 4 janvier 1993 (BUDF9200063A)](arrete-du-4-janvier-1993-budf9200063a)
 - [Arrêté du 4 janvier 1993 (BUDF9200064A)](arrete-du-4-janvier-1993-budf9200064a)
