@@ -14,7 +14,7 @@ Le dossier unique dont sont assorties ces demandes en vue d'une instruction simu
 
 5° L'étude d'impact définie à l'article R. 122-3 du code de l'environnement ;
 
-6° Lorsque tout ou partie du périmètre est situé dans un site Natura 2000 ou, à proximité d'un tel site, dans le cas prévu à l'article R. 414-19 du code de l'environnement, le dossier d'évaluation d'incidences défini à l'article R. 414-21 du même code ;
+6° Lorsque tout ou partie du périmètre est situé dans un site Natura 2000 ou, à proximité d'un tel site, dans le cas prévu à l'article R. 414-19 du code de l'environnement, le dossier d'évaluation d'incidences défini à l'article R. 414-23 du même code ;
 
 7° Une note exposant la compatibilité du projet avec la sécurité publique ;
 
