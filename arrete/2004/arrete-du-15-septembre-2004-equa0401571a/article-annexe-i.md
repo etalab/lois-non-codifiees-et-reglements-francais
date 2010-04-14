@@ -1,8 +1,6 @@
 # Article Annexe I
 
-**LIAISONS RÉGULIÈRES DE PASSAGERS,
-
-DE COURRIER ET DE FRET**
+LIAISONS RÉGULIÈRES DE PASSAGERS, DE COURRIER ET DE FRET
 
 1. Liaisons entre la France métropolitaine et les collectivités territoriales d'outre-mer associées à la Communauté européenne
 
@@ -331,6 +329,8 @@ Paris-Conakry.
 Guinée équatoriale
 
 Paris-Malabo.
+
+Paris - Bata (Jusqu'au 31 décembre 2012).
 
 Haïti
 
