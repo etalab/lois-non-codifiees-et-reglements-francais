@@ -2,7 +2,7 @@
 
 Le Commissariat général au développement durable est chargé de l'élaboration, de l'animation et du suivi de la stratégie nationale de développement durable, qui doit être mise en œuvre au travers de l'ensemble des politiques publiques ainsi qu'au travers des actions de tous les acteurs socio-économiques.
 
-Le Commissariat général au développement durable assure le secrétariat du Conseil national du développement durable et du comité interministériel pour le développement durable mentionné à l'article D. 134-8 du code de l'environnement.
+Le Commissariat général au développement durable assure le secrétariat du    Comité national du développement durable et du Grenelle de l'environnement et du comité interministériel pour le développement durable mentionné à l'article D. 134-8 du code de l'environnement.
 
 Il veille à l'intégration de l'environnement dans les plans, programmes et projets et, à ce titre, apporte son soutien au Conseil général de l'environnement et du développement durable dans ses fonctions d'autorité environnementale.
 
