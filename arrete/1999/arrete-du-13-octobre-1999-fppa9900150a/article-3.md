@@ -7,3 +7,5 @@ Pour chacun des exercices, toute performance qui se traduirait par une fraction 
 Une bonification d'un point par année d'âge au-delà de vingt-sept ans au 1er janvier de l'année du concours est ajoutée au total général obtenu par chaque candidat (homme et femme) à l'issue des différents exercices et avant calcul de la moyenne.
 
 Si un candidat, pour quelque raison que ce soit, ne peut effectuer la totalité des exercices choisis, la note qui lui est attribuée à la fin de l'épreuve est calculée en divisant par le nombre total des exercices choisis la somme des notes obtenues par lui à chacun des exercices qu'il a effectués.
+
+Les candidats déclarés par une commission spéciale inaptes à subir l'épreuve d'exercices physiques sont dispensés de cette épreuve par décision du président du jury. Il leur est attribué d'office une note égale à la moyenne de celles obtenues par les candidats du même sexe qui ont subi l'épreuve d'exercices physiques.
