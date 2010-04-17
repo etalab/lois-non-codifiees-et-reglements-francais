@@ -143,6 +143,8 @@
 - [Décret n°2008-346 du 14 avril 2008 (MTSC0807917D)](decret-n2008-346-du-14-avril-2008-mtsc0807917d)
 - [Décret n°2009-1561 du 14 décembre 2009 (ECET0916881D)](decret-n2009-1561-du-14-decembre-2009-ecet0916881d)
 - [Décret n°2010-373 du 14 avril 2010 (PRMX1010293D)](decret-n2010-373-du-14-avril-2010-prmx1010293d)
+- [Décret n°2010-378 du 14 avril 2010 (DEFD0927491D)](decret-n2010-378-du-14-avril-2010-defd0927491d)
+- [Décret n°2010-380 du 14 avril 2010 (AGRE1004999D)](decret-n2010-380-du-14-avril-2010-agre1004999d)
 - [Décret n°2010-51 du 14 janvier 2010 (PRMD0924728D)](decret-n2010-51-du-14-janvier-2010-prmd0924728d)
 - [Décret n°2010-53 du 14 janvier 2010 (BCFB0929417D)](decret-n2010-53-du-14-janvier-2010-bcfb0929417d)
 - [Décret n°2004-1203 du 15 novembre 2004 (ECOP0400825D)](decret-n2004-1203-du-15-novembre-2004-ecop0400825d)
