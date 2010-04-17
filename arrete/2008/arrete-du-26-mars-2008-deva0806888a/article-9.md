@@ -27,3 +27,5 @@ L'autorisation prend fin un mois après la date prévue de rendez-vous avec l'at
 En dehors de cette période, l'aéronef n'est pas considéré apte au vol, à moins que la mise en conformité avec les dispositions pertinentes du V de l'article 2 du présent arrêté ne soit intervenue entre-temps.
 
 II. - Par dérogation aux dispositions de l'article 7 du présent arrêté, un aéronef équipé d'une balise de détresse fonctionnant sur la fréquence 121, 5 MHz mais pas sur la fréquence 406 MHz et autorisé à voler temporairement dans les conditions prévues au I du présent article peut conserver cette balise opérationnelle à bord, dans l'attente de sa mise en conformité avec les règles d'emport du V de l'article 2 du présent arrêté.
+
+III. - Par dérogation aux dispositions de l'article 7 du présent arrêté, la direction de la sécurité de l'aviation civile peut autoriser qu'un aéronef exempté d'obligation d'emport de balise de détresse et équipé d'une telle balise fonctionnant sur la fréquence 121, 5 MHz mais pas sur la fréquence 406 MHz puisse conserver cette balise opérationnelle à bord, à titre temporaire.
