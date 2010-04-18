@@ -235,7 +235,7 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td>
-<p>Directeur général de la comptabilité publique </p>
+<p>Directeur général des finances publiques </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -246,18 +246,29 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td>
-<p>Directeur général des impôts </p>
+<p>Directeur de la législation fiscale</p>
 </td>
 <td>
 <p align="center">1 </p>
 </td>
 <td>
-<p align="center">180 </p>
+<p align="center">170 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Directeur, adjoint au directeur général des impôts </p>
+<p>Directeur, adjoint chargé de la gestion publique</p>
+</td>
+<td>
+<p align="center">1 </p>
+</td>
+<td>
+<p align="center">155 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Directeur, adjoint chargé de la fiscalité</p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -267,14 +278,12 @@ I.-Fonctions exercées en administration centrale
 </td>
 </tr>
 <tr>
+<td>Directeur, adjoint chargé du pilotage du réseau et des moyens </td>
 <td>
-<p>Directeur de la législation fiscale, adjoint au directeur général des impôts </p>
+<p align="center">1</p>
 </td>
 <td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">170 </p>
+<p align="center">155</p>
 </td>
 </tr>
 <tr>
@@ -512,32 +521,10 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td>
-<p>Chef de service à la direction générale de la comptabilité publique </p>
+<p>Chef de service à la direction générale des finances publiques </p>
 </td>
 <td>
-<p align="center">3 </p>
-</td>
-<td>
-<p align="center">125 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Chef de service à la direction générale des impôts </p>
-</td>
-<td>
-<p align="center">3 </p>
-</td>
-<td>
-<p align="center">125 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Chef de service à la direction générale des douanes et droits indirects </p>
-</td>
-<td>
-<p align="center">1 </p>
+<p align="center">8 </p>
 </td>
 <td>
 <p align="center">125 </p>
@@ -583,6 +570,17 @@ I.-Fonctions exercées en administration centrale
 </td>
 <td>
 <p align="center">120 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Chef de service à la direction générale des douanes et droits indirects</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">125</p>
 </td>
 </tr>
 <tr>
@@ -1098,12 +1096,12 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td colspan="3">
-<p align="center">En charge d'une sous-direction relevant de la direction générale de la comptabilité publique : </p>
+<p align="center">En charge d'une sous-direction relevant de la direction générale des finances publiques : </p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Sous-directeur du pilotage, desréseaux et du budget </p>
+<p>Sous-directeur du contrôle fiscal</p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1114,7 +1112,7 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td>
-<p>Sous-directeur des ressources humaines </p>
+<p>Direction de la législation fiscale : Sous-directeur de la fiscalité directe des entreprises</p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1125,7 +1123,103 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td>
-<p>Sous-directeur du système d'information </p>
+<p>Direction de la législation fiscale : Sous-directeur de la fiscalité des personnes </p>
+</td>
+<td>
+<p align="center">1 </p>
+</td>
+<td>
+<p align="center">110 </p>
+</td>
+</tr>
+<tr>
+<td>Direction de la législation fiscale : Sous-directeur de la fiscalité des transactions</td>
+<td>
+<p align="center">1 </p>
+</td>
+<td>
+<p align="center">90 </p>
+</td>
+</tr>
+<tr>
+<td>Direction de la législation fiscale : Sous-directeur des prospectives et relations internationales</td>
+<td>
+<p align="center">1 </p>
+</td>
+<td>
+<p align="center">90 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Sous-directeur du contentieux des impôts des particuliers</p>
+</td>
+<td>
+<p align="center">1 </p>
+</td>
+<td>
+<p align="center">110 </p>
+</td>
+</tr>
+<tr>
+<td>Sous-directeur du contentieux des impôts des professionnels</td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">100</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Sous-directeur des particuliers</p>
+</td>
+<td>
+<p align="center">1 </p>
+</td>
+<td>
+<p align="center">120 </p>
+</td>
+</tr>
+<tr>
+<td>Sous-directeur des professionnels et de l'action en recouvrement</td>
+<td>
+<p align="center">1 </p>
+</td>
+<td>
+<p align="center">110 </p>
+</td>
+</tr>
+<tr>
+<td>Sous-direction des missions foncières, de la fiscalité du patrimoine et des statistiques </td>
+<td>
+<p align="center">1 </p>
+</td>
+<td>
+<p align="center">110 </p>
+</td>
+</tr>
+<tr>
+<td>Sous-directeur de la gestion comptable et financière des collectivités locales</td>
+<td>
+<p align="center">1 </p>
+</td>
+<td>
+<p align="center">110 </p>
+</td>
+</tr>
+<tr>
+<td>Sous-directeur du conseil fiscal, financier et économique </td>
+<td>
+<p align="center">1 </p>
+</td>
+<td>
+<p align="center">100 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Sous-directeur de la comptabilité de l'Etat</p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1136,18 +1230,7 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td>
-<p>Sous-directeur des recettes de l'Etat </p>
-</td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">90 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Sous-directeur du secteur public local </p>
+<p>Sous-directeur des dépenses de l'Etat et des opérateurs</p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1158,34 +1241,51 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td>
-<p>Sous-directeur des comptes de l'Etatet des normes et audits internes comptables </p>
+<p>Sous-directeur de l'encadrement et des relations sociales</p>
 </td>
 <td>
 <p align="center">1 </p>
 </td>
 <td>
-<p align="center">90 </p>
+<p align="center">110 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Sous-directeur de l'organisation comptable et de la modernisation de la dépense publique </p>
+<p>Sous-directeur de la gestion des personnels et des parcours professionnels</p>
 </td>
 <td>
 <p align="center">1 </p>
 </td>
 <td>
-<p align="center">90 </p>
-</td>
-</tr>
-<tr>
-<td colspan="3">
-<p align="center">En charge d'une sous-direction relevant de la direction générale des impôts : </p>
+<p align="center">110 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p>Sous-directeur du contrôle fiscal </p>
+<p>Sous-directeur de la performance et du contrôle de gestion</p>
+</td>
+<td>
+<p align="center">1 </p>
+</td>
+<td>
+<p align="center">110 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Sous-directeur de la gestion du budget et de l'immobilier</p>
+</td>
+<td>
+<p align="center">1 </p>
+</td>
+<td>
+<p align="center">100 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Sous-directeur des études et du développement</p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1196,18 +1296,7 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td>
-<p>Direction de la législation fiscale : sous-directeur de la fiscalité directe des entreprises, des droits d'enregistrement et de l'impôt de solidarité sur la fortune </p>
-</td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">90 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Direction de la législation fiscale : sous-directeur de la fiscalité des personnes et de l'épargne et de la fiscalité directe locale </p>
+<p>Sous-directeur de la production</p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -1218,129 +1307,10 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td>
-<p>Direction de la législation fiscale : sous-directeur des taxes sur le chiffre d'affaires et des impôts indirects </p>
+<p align="center">En charge d'une sous-direction relevant de la direction générale des douanes et droits indirects</p>
 </td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">90 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Direction de la législation fiscale : sous-directeur des relations internationales </p>
-</td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">90 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Sous-directeur des ressources humaines </p>
-</td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">110 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Sous-directeur du budget et de la logistique </p>
-</td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">90 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Sous-directeur de l'informatique </p>
-</td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">110 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Sous-directeur de la fiscalité directe des particuliers, de la fiscalité directe locale, des études et des statistiques </p>
-</td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">90 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Sous-directeur de la gestion de la fiscalité professionnelle </p>
-</td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">110 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Sous-directeur des études générales et du contentieux judiciaire </p>
-</td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">90 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Sous-directeur du contentieux administratif </p>
-</td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">90 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Sous-directeur des affaires foncières </p>
-</td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">90 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Sous-directeur, chef du département de la communication </p>
-</td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">90 </p>
-</td>
-</tr>
-<tr>
-<td colspan="3">
-<p align="center">En charge d'une sous-direction relevant de la direction générale des douanes et droits indirects </p>
-</td>
+<td/>
+<td/>
 </tr>
 <tr>
 <td>
@@ -1639,7 +1609,7 @@ I.-Fonctions exercées en administration centrale
 <td>
 <p>Sous-directeur de la mode, du luxe, des biens de consommation et du désign (à compter du 12 janvier 2009) </p>
 </td>
-<td>1</td>
+<td>1 </td>
 <td>90</td>
 </tr>
 <tr>
@@ -1872,25 +1842,21 @@ I.-Fonctions exercées en administration centrale
 </td>
 </tr>
 <tr>
+<td>Expert de haut niveau ou directeur de projet à la direction générale des finances publiques</td>
 <td>
-<p>Directeur de projet à la direction générale de la comptabilité publique </p>
+<p align="center">7</p>
 </td>
 <td>
-<p align="center">4 </p>
-</td>
-<td>
-<p align="center">80 </p>
+<p align="center">80</p>
 </td>
 </tr>
 <tr>
+<td>Directeur de projet à la direction générale des finances publiques, en charge de la mission du système d'informations des ressources humaines</td>
 <td>
-<p>Directeur de projet à la direction générale des impôts </p>
+<p align="center">1 </p>
 </td>
 <td>
-<p align="center">2 </p>
-</td>
-<td>
-<p align="center">80 </p>
+<p align="center">100 </p>
 </td>
 </tr>
 <tr>
@@ -1944,15 +1910,6 @@ I.-Fonctions exercées en administration centrale
 </td>
 <td>
 <p align="center">80 </p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td>
-<br/>
-</td>
-<td>
-<br/>
 </td>
 </tr>
 </tbody>
@@ -2032,7 +1989,7 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td rowspan="2">
-<p>Secrétaire général chargé des DRIRE à la direction de l'action régionale, de la qualité et de la sécurité industrielle </p>
+<p>Secrétaire général chargé des DRIRE à la direction de l'action régionale, de la qualité et de la sécurité industrielle</p>
 </td>
 <td rowspan="2">
 <p align="center">1 </p>
@@ -2264,6 +2221,42 @@ I.-Fonctions exercées en administration centrale
 </td>
 </tr>
 <tr>
+<td>Chef du département des synthèses sectorielles</td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">90</p>
+</td>
+</tr>
+<tr>
+<td>Chef du département de la démographie</td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">70</p>
+</td>
+</tr>
+<tr>
+<td>Chef du département des études économiques d'ensemble</td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">70</p>
+</td>
+</tr>
+<tr>
+<td>Chef du pôle statistiques industrielles</td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">90</p>
+</td>
+</tr>
+<tr>
 <td rowspan="2">
 <p>Chef du département de l'action régionale </p>
 </td>
@@ -2451,9 +2444,7 @@ II.-FONCTIONS EXERCÉES DANS UN SERVICE À COMPÉTENCE NATIONALE
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">f) Service des études et des statistiques industrielles </p>
-</td>
+<td/>
 <td>
 <pre/>
 </td>
@@ -2462,15 +2453,9 @@ II.-FONCTIONS EXERCÉES DANS UN SERVICE À COMPÉTENCE NATIONALE
 </td>
 </tr>
 <tr>
-<td>
-<p>Chef de service, directeur </p>
-</td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">115 </p>
-</td>
+<td/>
+<td/>
+<td/>
 </tr>
 <tr>
 <td>
@@ -2935,15 +2920,6 @@ III.-FONCTIONS EXERCÉES EN SERVICES DÉCONCENTRÉS
 </td>
 <td>
 <p align="center">90 </p>
-</td>
-</tr>
-<tr>
-<td/>
-<td>
-<br/>
-</td>
-<td>
-<br/>
 </td>
 </tr>
 </tbody>
