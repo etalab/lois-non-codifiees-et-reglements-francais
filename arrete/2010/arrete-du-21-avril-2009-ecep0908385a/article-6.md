@@ -24,7 +24,7 @@ Le bureau Ubifrance, AFII et partenaires de l'exportation
 
 Il exerce la tutelle de l'Agence pour le développement international des entreprises (Ubifrance) et de l'Agence française pour les investissements internationaux (AFII).
 
-Il assure les relations de la direction générale avec les autres organismes publics ou privés intéressés par le développement international des entreprises et du territoire, tels que le Comité national des conseillers du commerce extérieur de la France, les organismes consulaires, les fédérations professionnelles et les collectivités territoriales. Il contribue à l'animation et à la coordination des directions régionales en charge du commerce extérieur. Il réalise la synthèse de la préparation des dossiers à caractère régional.
+Il assure les relations de la direction générale avec les autres organismes publics ou privés intéressés par le développement international des entreprises et du territoire, tels que le Comité national des conseillers du commerce extérieur de la France, les organismes consulaires, les fédérations professionnelles et les collectivités territoriales. Il contribue à l'animation et à la coordination des directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l'emploi. Il réalise la synthèse de la préparation des dossiers à caractère régional.
 
 III. - La sous-direction des relations économiques bilatérales comprend :
 

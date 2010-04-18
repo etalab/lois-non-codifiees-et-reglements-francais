@@ -12,6 +12,8 @@ Il élabore, en liaison avec la direction générale de l'INSEE et la direction 
 
 Il élabore, en liaison avec la direction du budget, des projections pluriannuelles de finances publiques, notamment les programmes de stabilité dans le cadre des engagements européens de la France. Il prépare la notification à la Commission européenne des déficits et de la dette publics.
 
+Il analyse l'évolution de la dépense publique, et notamment son efficacité.
+
 Il assure une fonction d'analyse et de conseil de politique économique en matière de finances publiques.
 
 Le bureau des études fiscales
@@ -19,12 +21,6 @@ Le bureau des études fiscales
 Pour établir les prévisions économiques et financières de la direction générale, il réalise des prévisions des recettes fiscales et des prélèvements obligatoires de l'ensemble des administrations publiques : Etat, collectivités locales et administrations de sécurité sociale. En liaison avec les services compétents du ministère, il contribue au suivi du recouvrement des recettes fiscales et à leur prévision d'exécution ainsi qu'à l'évaluation des dépenses fiscales. Il assure l'établissement de la base TVA pour le calcul des ressources propres de l'Union européenne. Il établit le rapport retraçant l'ensemble des prélèvements obligatoires, ainsi que leur évolution, prévu à l'article 52 de la loi organique du 1er août 2001 précitée.
 
 Il assure une fonction d'analyse et de conseil de politique économique dans le domaine fiscal.
-
-Le bureau de l'évaluation de la dépense publique
-
-Il analyse l'efficacité économique de la dépense publique de l'Etat, des collectivités locales et de l'Union européenne.
-
-Il assure l'analyse économique de l'achat public, notamment dans le cadre de ses missions au sein de l'Observatoire économique de l'achat public.
 
 III.-La sous-direction des politiques sociales et de l'emploi comprend :
 
@@ -69,6 +65,10 @@ Il analyse l'évolution de la recherche-développement, de ses déterminants ain
 Il analyse la démographie des entreprises et les déterminants de son évolution.A ce titre, il contribue à la réflexion sur les politiques en faveur de la création, de la reprise et de la transmission des entreprises, ainsi que sur l'innovation dans les entreprises.
 
 Il participe à l'élaboration et à l'évaluation des mesures visant à l'amélioration de l'environnement des entreprises et de celles relatives à la propriété intellectuelle.
+
+Il assure l'analyse économique de l'achat public, notamment dans le cadre de ses missions au sein de l'Observatoire économique de l'achat public.
+
+Il assure un suivi des politiques concernant l'enseignement supérieur, en particulier celles favorisant la recherche et l'innovation.
 
 Le bureau des activités tertiaires et de la concurrence
 

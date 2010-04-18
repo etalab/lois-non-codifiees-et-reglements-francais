@@ -1,4 +1,4 @@
-# Arrêté du 21 avril 2009 portant organisation de la direction générale du Trésor et de la politique économique
+# Arrêté du 21 avril 2009 portant organisation de la direction générale du Trésor
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
