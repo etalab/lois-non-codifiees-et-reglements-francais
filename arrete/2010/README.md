@@ -1094,7 +1094,6 @@
 - [Arrêté du 30 mars 2010 (SASH1008878A)](arrete-du-30-mars-2010-sash1008878a)
 - [Arrêté du 30 novembre 2009 (SASH0928708A)](arrete-du-30-novembre-2009-sash0928708a)
 - [Arrêté du 30 novembre 2009 (SASH0928715A)](arrete-du-30-novembre-2009-sash0928715a)
-- [Arrêté du 30 septembre 2009 (AGRT1008574A)](arrete-du-30-septembre-2009-agrt1008574a)
 - [Arrêté du 30 septembre 2009 (DEVO0914388A)](arrete-du-30-septembre-2009-devo0914388a)
 - [Arrêté du 30 mai 2005 (JUSF0550039A)](arrete-du-30-mai-2005-jusf0550039a)
 - [Arrêté du 31 août 2007 (BCFB0755421A)](arrete-du-31-aout-2007-bcfb0755421a)
