@@ -489,7 +489,6 @@
 - [Arrêté du 28 décembre 2001 (MESG0123812A)](arrete-du-28-decembre-2001-mesg0123812a)
 - [Arrêté du 28 décembre 2001 (MESG0123813A)](arrete-du-28-decembre-2001-mesg0123813a)
 - [Arrêté du 28 février 2001 (ECOI0120056A)](arrete-du-28-fevrier-2001-ecoi0120056a)
-- [Arrêté du 28 mars 2001 (AGRA0100514A)](arrete-du-28-mars-2001-agra0100514a)
 - [Arrêté du 28 mars 2001 (ECOF0100003A)](arrete-du-28-mars-2001-ecof0100003a)
 - [Arrêté du 28 mars 2001 (EQUA0100514A)](arrete-du-28-mars-2001-equa0100514a)
 - [Arrêté du 28 novembre 2001 (MESH0124103A)](arrete-du-28-novembre-2001-mesh0124103a)
