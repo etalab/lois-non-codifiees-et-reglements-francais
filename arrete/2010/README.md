@@ -136,6 +136,7 @@
 - [Arrêté du 7 janvier 2010 (AGRT1000160A)](arrete-du-7-janvier-2010-agrt1000160a)
 - [Arrêté du 7 janvier 2010 (BCFD1001694A)](arrete-du-7-janvier-2010-bcfd1001694a)
 - [Arrêté du 7 janvier 2010 (DEVN0825028A)](arrete-du-7-janvier-2010-devn0825028a)
+- [Arrêté du 7 juin 2010 (DEVK1015187A)](arrete-du-7-juin-2010-devk1015187a)
 - [Arrêté du 8 avril 2010 (AGRT1005014A)](arrete-du-8-avril-2010-agrt1005014a)
 - [Arrêté du 8 avril 2010 (IMIK1009587A)](arrete-du-8-avril-2010-imik1009587a)
 - [Arrêté du 8 avril 2010 (JUSA1008980A)](arrete-du-8-avril-2010-jusa1008980a)
