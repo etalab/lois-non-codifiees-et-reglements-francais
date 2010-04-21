@@ -933,7 +933,6 @@
 - [Arrêté du 27 janvier 2010 (JUSF1003222A)](arrete-du-27-janvier-2010-jusf1003222a)
 - [Arrêté du 27 janvier 2010 (JUSF1003226A)](arrete-du-27-janvier-2010-jusf1003226a)
 - [Arrêté du 27 janvier 2010 (JUSF1003230A)](arrete-du-27-janvier-2010-jusf1003230a)
-- [Arrêté du 27 janvier 2010 (JUSF1003232A)](arrete-du-27-janvier-2010-jusf1003232a)
 - [Arrêté du 27 janvier 2010 (JUSF1003233A)](arrete-du-27-janvier-2010-jusf1003233a)
 - [Arrêté du 27 janvier 2010 (JUSF1003235A)](arrete-du-27-janvier-2010-jusf1003235a)
 - [Arrêté du 27 janvier 2010 (JUSF1003236A)](arrete-du-27-janvier-2010-jusf1003236a)

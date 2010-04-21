@@ -18,6 +18,6 @@ Il porte sur :
 
 Chacun des thèmes mentionnés ci-dessus fait l'objet d'une rubrique dans le compte-rendu de l'entretien professionnel.
 
-L'appréciation portée sur ces différents points tient compte des responsabilités confiées à l'agent dans le cadre de ses activités définies notamment dans sa fiche de poste.
+L'appréciation portée sur ces différents points tient compte des responsabilités confiées à l'agent dans le cadre de ses activités définies notamment dans sa fiche de poste, dont il doit avoir pris préalablement connaissance.
 
 L'agent doit être avisé par écrit de la date, de l'heure et du lieu de l'entretien professionnel huit jours francs à l'avance et reçoit les documents nécessaires à la conduite de cet entretien.

@@ -8,11 +8,11 @@ Les chefs de service ayant pouvoir d'attribuer les réductions ou majorations de
 
 2° Dans les services déconcentrés :
 
-― les chefs de service et directeurs d'établissement ayant la qualité de fonctionnaire de catégorie A ou assimilé ou d'officier supérieur ;
+― les commandants de formation administrative et les directeurs d'établissement ayant la qualité de fonctionnaire de catégorie A ou assimilé ou d'officier supérieur ;
 
 3° A l'égard des fonctionnaires détachés auprès de l'entreprise nationale DCNS en application de l'article 78 de la loi du 28 décembre 2001 susvisée :
 
-― le sous-directeur de la gestion et de la qualité de la direction des ressources humaines de la     direction générale de l'armement ;
+― le sous-directeur de la gestion et de la qualité de la direction des ressources humaines de la direction générale de l'armement ;
 
 4° dans les établissements publics administratifs placés sous la tutelle du ministère de la défense :
 
