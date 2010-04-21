@@ -17,6 +17,10 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, la liste
 </td>
 </tr>
 <tr>
+<td align="center">Agence nationale des fréquences </td>
+<td align="center">Chef du service informatique </td>
+</tr>
+<tr>
 <td align="center">Direction des affaires juridiques <br/>
 </td>
 <td align="center">Chef du bureau du personnel et des affaires générales <br/>
@@ -39,6 +43,10 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, la liste
 </td>
 <td align="center">Responsable de la formation professionnelle <br/>
 </td>
+</tr>
+<tr>
+<td align="center">Service du contrôle général économique et financier </td>
+<td align="center">Chargé de mission de contrôle économique et financier de l'EPIC Réseau ferré de France à la mission des transports collectifs terrestres</td>
 </tr>
 <tr>
 <td align="center">Direction générale des douanes et droits indirects <br/>
@@ -71,18 +79,6 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, la liste
 </td>
 </tr>
 <tr>
-<td align="center">Direction des personnels et de l'adaptation de l'environnement professionnel <br/>
-</td>
-<td align="center">Chargé de mission auprès du chef du bureau des politiques sociales<br/>
-</td>
-</tr>
-<tr>
-<td align="center">        direction générale du Trésor <br/>
-</td>
-<td align="center">Chef du bureau pôle informatique et systèmes d'information <br/>
-</td>
-</tr>
-<tr>
 <td align="center">Secrétariat général <br/>
 </td>
 <td align="center">Chargé de mission au service des systèmes d'information <br/>
@@ -99,7 +95,7 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, la liste
 <p align="center">Direction générale de la conccurrence, de la consommation et de la repression des fraudes </p>
 </td>
 <td>
-<p align="center">adjoint au directeur du service de l'informatique </p>
+<p align="center">Adjoint au directeur du service de l'informatique </p>
 </td>
 </tr>
 <tr>

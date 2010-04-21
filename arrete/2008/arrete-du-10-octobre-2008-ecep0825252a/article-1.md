@@ -2,8 +2,6 @@
 
 En application de l'article 2 du décret du 17 septembre 2008 susvisé, les emplois dont la liste suit constituent des emplois de chef de mission :
 
-<div align="center">
-
 <table>
 <tbody>
 <tr>
@@ -11,12 +9,6 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </th>
 <th colspan="2">DÉSIGNATION DE L'EMPLOI <br/>
 </th>
-</tr>
-<tr>
-<td align="center">Agence nationale des fréquences <br/>
-</td>
-<td align="center">Chef du service informatique <br/>
-</td>
 </tr>
 <tr>
 <td align="center">Agence nationale des fréquences <br/>
@@ -170,12 +162,6 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 <tr>
 <td align="center">Direction générale de la concurrence, de la consommation et de la répression des fraudes <br/>
 </td>
-<td align="center">Adjoint au chef du bureau des études économiques et de l'information, chargé de la communication institutionnelle et de l'information générale <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Direction générale de la concurrence, de la consommation et de la répression des fraudes <br/>
-</td>
 <td align="center">Adjoint au chef du bureau des services et des professions organisées, chargé des prestations de service dans le secteur de l'immobilier <br/>
 </td>
 </tr>
@@ -189,6 +175,14 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 <td align="center">Direction générale de la concurrence, de la consommation et de la répression des fraudes <br/>
 </td>
 <td align="center">Adjoint au chef du bureau des ressources humaines, chargé de la gestion des carrières et des positions statutaires <br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Direction générale de la concurrence, de la consommation et de la répression des fraudes </p>
+</td>
+<td>
+<p align="center">Adjoint au chef du bureau des pratiques restrictives de concurrence et des affaires juridiques, chargé des pratiques restrictives de concurrence</p>
 </td>
 </tr>
 <tr>
@@ -230,19 +224,13 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 <tr>
 <td align="center">Service du contrôle général économique et financier <br/>
 </td>
-<td align="center">Chargé de mission de contrôle économique et financier de l'EPIC Réseau ferré de France à la mission des transports collectifs terrestres <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Service du contrôle général économique et financier <br/>
-</td>
-<td align="center">Responsable administratif de pôle <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Service du contrôle général économique et financier <br/>
-</td>
 <td align="center">Adjoint au chef de la mission cinéma et opérateurs culturels, chargé du contrôle économique et financier du Centre national de la cinématographie <br/>
+</td>
+</tr>
+<tr>
+<td align="center">Service du contrôle général économique et financier</td>
+<td>
+<p align="center">Chargé de mission auprès du chef de service, responsable de la politique de communication </p>
 </td>
 </tr>
 <tr>
@@ -254,13 +242,15 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 <tr>
 <td align="center">Direction générale des douanes et droits indirects <br/>
 </td>
-<td align="center">Adjoint au chef du bureau des contributions indirectes, responsable de la section fiscalité et réglementations accises-alcools <br/>
+<td align="center">Adjoint au chef du bureau du budget et de la programmation, des affaires financières et du réseau comptable, responsable de la section gestion financière <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Direction générale des douanes et droits indirects <br/>
+<td>
+<p align="center">Direction générale des douanes et droits indirects</p>
 </td>
-<td align="center">Adjoint au chef du bureau du budget et de la programmation, des affaires financières et du réseau comptable, responsable de la section gestion financière <br/>
+<td>
+<p align="center">Adjoint au directeur interrégional des douanes de Paris, chef du pôle logistique et informatique </p>
 </td>
 </tr>
 <tr>
@@ -297,12 +287,6 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 <td align="center">Direction générale de l'énergie et du climat <br/>
 </td>
 <td align="center">Chargé de mission sur la tutelle ANDRA et IRSN <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Direction générale de l'énergie et du climat <br/>
-</td>
-<td align="center">Chargé de la mission hydroélectricité <br/>
 </td>
 </tr>
 <tr>
@@ -492,21 +476,15 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 </tr>
 <tr>
-<td align="center">Service des pensions <br/>
+<td align="center">Service des retraites de l'Etat <br/>
 </td>
-<td align="center">Chef de la mission d'expertise auprès du chef de service <br/>
+<td align="center">Chef de mission, responsable de la cellule de contrôle qualité <br/>
 </td>
 </tr>
 <tr>
 <td align="center">Service des pensions <br/>
 </td>
 <td align="center">Chef du bureau des processus CIR <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Direction des personnels et de l'adaptation de l'environnement professionnel <br/>
-</td>
-<td align="center">Adjoint au chef du bureau politique de l'emploi et développement des ressources humaines <br/>
 </td>
 </tr>
 <tr>
@@ -560,24 +538,6 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 <tr>
 <td align="center">Direction des personnels et de l'adaptation de l'environnement professionnel <br/>
 </td>
-<td align="center">Adjoint au chef du bureau maîtrise d'ouvrage et expertise <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Direction des personnels et de l'adaptation de l'environnement professionnel <br/>
-</td>
-<td align="center">Responsable de l'antenne immobilière de Toulouse <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Direction des personnels et de l'adaptation de l'environnement professionnel <br/>
-</td>
-<td align="center">Chef de la mission ressources humaines <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Direction des personnels et de l'adaptation de l'environnement professionnel <br/>
-</td>
 <td align="center">Chef de projet systèmes d'information financière de l'Etat au MEIE / MBCPFP à la mission nouveaux processus et systèmes d'information budgétaires et comptables. <br/>
 </td>
 </tr>
@@ -585,6 +545,36 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 <td align="center">Direction des personnels et de l'adaptation de l'environnement professionnel <br/>
 </td>
 <td align="center">Directeur général de l'association pour le logement du personnel des administrations financières <br/>
+</td>
+</tr>
+<tr>
+<td align="center">Direction des personnels et de l'adaptation de l'environnement professionnel </td>
+<td>
+<p align="center">Chargé de mission auprès du directeur à la mission "emplois et compétences"</p>
+</td>
+</tr>
+<tr>
+<td align="center">Direction des personnels et de l'adaptation de l'environnement professionnel</td>
+<td>
+<p align="center">Adjoint au chef de bureau "hygiène, sécurité, prévention médicale"</p>
+</td>
+</tr>
+<tr>
+<td align="center">Direction des personnels et de l'adaptation de l'environnement professionnel</td>
+<td>
+<p align="center">Adjoint au chef du bureau "politiques sociales"</p>
+</td>
+</tr>
+<tr>
+<td align="center">Direction des personnels et de l'adaptation de l'environnement professionnel</td>
+<td>
+<p align="center">Chef de l'antenne immobilière de Paris-Nord </p>
+</td>
+</tr>
+<tr>
+<td align="center">Direction des personnels et de l'adaptation de l'environnement professionnel</td>
+<td>
+<p align="center">Chef du service "exploitation-maintenance"</p>
 </td>
 </tr>
 <tr>
@@ -621,6 +611,12 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 <td align="center">Secrétariat général <br/>
 </td>
 <td align="center">Chargé de mission au sein du pôle coordination des technologies de l'information <br/>
+</td>
+</tr>
+<tr>
+<td align="center">Secrétariat général</td>
+<td>
+<p align="center">Chargé de mission auprès du délégué à la diversité et à l'égalité professionnelle </p>
 </td>
 </tr>
 <tr>
@@ -671,25 +667,25 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 </tr>
 <tr>
-<td align="center">        direction générale du Trésor <br/>
+<td align="center">direction générale du Trésor <br/>
 </td>
 <td align="center">Adjoint au chef du bureau marchés et produits d'assurance<br/>
 </td>
 </tr>
 <tr>
-<td align="center">        direction générale du Trésor <br/>
+<td align="center">direction générale du Trésor <br/>
 </td>
 <td align="center">Adjoint au chef du bureau aide au développement et institutions multilatérales de développement<br/>
 </td>
 </tr>
 <tr>
-<td align="center">        direction générale du Trésor <br/>
+<td align="center">direction générale du Trésor <br/>
 </td>
 <td align="center">Adjoint au chef du bureau coopération monétaire et développement avec pays ACP zone franc<br/>
 </td>
 </tr>
 <tr>
-<td align="center">        direction générale du Trésor <br/>
+<td align="center">direction générale du Trésor <br/>
 </td>
 <td align="center">Adjoint au chef du bureau services, investissements et propriété intellectuelle <br/>
 </td>
@@ -700,7 +696,13 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 <td align="center">Chef de la mission des ressources humaines de l'administration centrale<br/>
 </td>
 </tr>
+<tr>
+<td>
+<p align="center">Direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi Franche-Comté, chargé de mission auprès du secrétariat général pour les affaires régionales "Franche-Comté"</p>
+</td>
+<td>
+<p align="center">Adjoint auprès du chef du pôle "entreprises, emploi et économie"</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-</div>
