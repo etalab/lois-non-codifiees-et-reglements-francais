@@ -19,7 +19,6 @@
 - [Arrêté du 2 août 1995 (ECOP9500377A)](arrete-du-2-aout-1995-ecop9500377a)
 - [Arrêté du 2 août 1995 (EQUB9501223A)](arrete-du-2-aout-1995-equb9501223a)
 - [Arrêté du 2 février 1995 (EQUH9500380A)](arrete-du-2-fevrier-1995-equh9500380a)
-- [Arrêté du 2 février 1995 (EQUL9400944A)](arrete-du-2-fevrier-1995-equl9400944a)
 - [Arrêté du 2 février 1995 (EQUT9500239A)](arrete-du-2-fevrier-1995-equt9500239a)
 - [Arrêté du 2 février 1995 (INDO9500159A)](arrete-du-2-fevrier-1995-indo9500159a)
 - [Arrêté du 2 février 1995 (RESK9500083A)](arrete-du-2-fevrier-1995-resk9500083a)
