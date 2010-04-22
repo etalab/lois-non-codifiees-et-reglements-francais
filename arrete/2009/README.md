@@ -424,7 +424,6 @@
 - [Arrêté du 6 mai 2009 (BCFL0911807A)](arrete-du-6-mai-2009-bcfl0911807a)
 - [Arrêté du 6 mai 2009 (BCFL0911864A)](arrete-du-6-mai-2009-bcfl0911864a)
 - [Arrêté du 6 mai 2009 (BCFS0907297A)](arrete-du-6-mai-2009-bcfs0907297a)
-- [Arrêté du 6 mai 2009 (DEVN0906278A)](arrete-du-6-mai-2009-devn0906278a)
 - [Arrêté du 6 mai 2009 (ECES0910127A)](arrete-du-6-mai-2009-eces0910127a)
 - [Arrêté du 6 mai 2009 (IOCA0910389A)](arrete-du-6-mai-2009-ioca0910389a)
 - [Arrêté du 6 mai 2009 (SASG0904904A)](arrete-du-6-mai-2009-sasg0904904a)
