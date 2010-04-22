@@ -8,6 +8,8 @@ b) La lettre de voiture nationale ou internationale ;
 
 c) Le cas échéant, le document justificatif de la location du véhicule avec ou sans conducteur ;
 
-d) L'attestation de conducteur prévue par les règlements du Conseil du 26 mars 1992 et du 25 octobre 1993 susvisés modifiés par le règlement (CE) n° 484/2002 du Parlement européen et du Conseil du 1er mars 2002, lorsque le transport international ou de cabotage est exécuté sous le couvert d'une licence communautaire et que le conducteur est ressortissant d'un Etat non partie à l'accord sur l'Espace économique européen.
+d) L'attestation de conducteur prévue par les règlements du Conseil du 26 mars 1992 et du 25 octobre 1993 susvisés modifiés par le règlement (CE) n° 484 / 2002 du Parlement européen et du Conseil du 1er mars 2002, lorsque le transport international ou de cabotage est exécuté sous le couvert d'une licence communautaire et que le conducteur est ressortissant d'un Etat non partie à l'accord sur l'Espace économique européen ;
+
+e) En cas de cabotage, les documents justificatifs prévus au dernier alinéa du I de l'article 6-1 de la loi du 30 décembre 1982 susvisée, à savoir la lettre de voiture internationale relative au transport international préalable auquel est subordonnée l'activité de cabotage et les lettres de voiture relatives à chaque opération de cabotage réalisée.
 
 L'entreprise doit conserver pendant deux ans, afin d'être en mesure de la présenter à toute réquisition des agents des services de contrôle de l'Etat, la lettre de voiture mentionnée au b.
