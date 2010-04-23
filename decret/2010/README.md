@@ -224,6 +224,8 @@
 - [Décret n°55-1126 du 19 août 1955](decret-n55-1126-du-19-aout-1955)
 - [Décret n°2009-1433 du 20 novembre 2009 (MCCB0922710D)](decret-n2009-1433-du-20-novembre-2009-mccb0922710d)
 - [Décret n°2009-880 du 20 juillet 2009 (DEVE0908895D)](decret-n2009-880-du-20-juillet-2009-deve0908895d)
+- [Décret n°2010-394 du 20 avril 2010 (ECEL1007423D)](decret-n2010-394-du-20-avril-2010-ecel1007423d)
+- [Décret n°2010-395 du 20 avril 2010 (IOCD0928280D)](decret-n2010-395-du-20-avril-2010-iocd0928280d)
 - [Décret n°2010-73 du 20 janvier 2010 (JUSA0919158D)](decret-n2010-73-du-20-janvier-2010-jusa0919158d)
 - [Décret n°2010-74 du 20 janvier 2010 (JUSA0919164D)](decret-n2010-74-du-20-janvier-2010-jusa0919164d)
 - [Décret n°2010-75 du 20 janvier 2010 (JUSF0910841D)](decret-n2010-75-du-20-janvier-2010-jusf0910841d)
