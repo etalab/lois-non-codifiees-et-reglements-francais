@@ -10,4 +10,6 @@ Elle comporte :
 
 3° La désignation de la libéralité ;
 
-4° L'emploi envisagé pour ladite libéralité.
+4° L'emploi envisagé pour ladite libéralité ;
+
+5° Le budget prévisionnel de l'exercice en cours ainsi que les comptes annuels des trois derniers exercices clos ou, si l'association a été créée depuis moins de trois ans, les comptes annuels des exercices clos depuis sa date de création.
