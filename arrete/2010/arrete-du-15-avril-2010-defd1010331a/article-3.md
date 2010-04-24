@@ -1,0 +1,7 @@
+# Article 3
+
+Le conseil de gestion se réunit au minimum une fois par an sur convocation du président qui fixe l'ordre du jour.
+
+Un rapport est adressé au ministre de la défense à l'issue de chaque réunion.
+
+Le secrétariat du conseil de gestion est assuré par le service du commissariat des armées.
