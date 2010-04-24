@@ -12,7 +12,11 @@
 
 ― un professeur de l'enseignement supérieur (uniquement pour le concours sur épreuves).
 
-Les membres du jury sont désignés en tant qu'adjoints au jury pour chacune des épreuves de langue des concours par le ministre chargé de la mer.
+Les membres du jury sont désignés, sur proposition de l'inspecteur général des affaires maritimes, par le ministre chargé de la mer.
+
+Des examinateurs qualifiés sont désignés en tant qu'adjoints au jury pour chacune des épreuves de langues des concours par le ministre chargé de la mer.
+
+Ces examinateurs qualifiés participent aux délibérations du jury avec voix consultative pour l'attribution des notes se rapportant aux épreuves qu'ils ont évaluées.
 
 2° En cas d'empêchement, peuvent être remplacés dans les conditions ci-après :
 
