@@ -656,7 +656,6 @@
 - [Arrêté du 23 décembre 1997 (MEST9711737A)](arrete-du-23-decembre-1997-mest9711737a)
 - [Arrêté du 23 février 1998 (AGRE9800335A)](arrete-du-23-fevrier-1998-agre9800335a)
 - [Arrêté du 23 février 1998 (ATEP9870086A)](arrete-du-23-fevrier-1998-atep9870086a)
-- [Arrêté du 23 février 1998 (ATEP9870095A)](arrete-du-23-fevrier-1998-atep9870095a)
 - [Arrêté du 23 février 1998 (INTM9800008A)](arrete-du-23-fevrier-1998-intm9800008a)
 - [Arrêté du 23 février 1998 (MESG9820744A)](arrete-du-23-fevrier-1998-mesg9820744a)
 - [Arrêté du 23 janvier 1998 (EQUB9800013A)](arrete-du-23-janvier-1998-equb9800013a)
