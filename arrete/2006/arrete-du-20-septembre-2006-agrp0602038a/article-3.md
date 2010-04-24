@@ -2,21 +2,21 @@
 
 Les inscriptions au contrôle sont effectuées par l'Office national interprofessionnel des fruits, des légumes, des vins et de l'horticulture pour une ou plusieurs des catégories d'activité ci-dessous :
 
-- catégorie A : professionnel au compte duquel sont inscrites des parcelles de vignes-mères de porte-greffes ;
+-catégorie A : professionnel au compte duquel sont inscrites des parcelles de vignes-mères de porte-greffes ;
 
-- catégorie B : professionnel au compte duquel sont inscrites des parcelles de vignes-mères de greffons ;
+-catégorie B : professionnel au compte duquel sont inscrites des parcelles de vignes-mères de greffons ;
 
-- catégorie C : établissement de prémultiplication, selon la définition de l'article R. 661-30 du code rural ;
+-catégorie C : établissement de prémultiplication, selon la définition de l'article R. 661-30 du code rural ;
 
-- catégorie D : professionnel producteur de plants de vigne, y compris dans le cas de la prestation de services (racinés, greffés-soudés, plants en pots ou cartonnages, quelle que soit leur technique de production) ;
+-catégorie D : professionnel producteur de plants de vigne, y compris dans le cas de la prestation de services (racinés, greffés-soudés, plants en pots ou cartonnages, quelle que soit leur technique de production) ;
 
-- catégorie E : obtenteur de variétés nouvelles ;
+-catégorie E : obtenteur de variétés nouvelles ;
 
-- catégorie F : négociant, coopérative, SICA, groupement d'approvisionnement ou toute entreprise de distribution de matériels de multiplication végétative de la vigne, quelle que soit sa nature juridique ;
+-catégorie F : négociant, coopérative, SICA, groupement d'approvisionnement ou toute entreprise de distribution de matériels de multiplication végétative de la vigne, quelle que soit sa nature juridique ;
 
-- catégorie G : courtier en matériels de multiplication végétative de la vigne ;
+-catégorie G (supprimée)
 
-- catégorie H : établissement de sélection, selon la définition de l'article R. 661-30 du code rural.
+-catégorie H : établissement de sélection, selon la définition de l'article R. 661-30 du code rural.
 
 Pour une parcelle de vigne-mère de greffons, lorsque le professionnel inscrit au contrôle n'est pas l'exploitant, il doit obtenir l'accord de celui-ci.
 

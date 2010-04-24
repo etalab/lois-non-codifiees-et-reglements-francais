@@ -22,7 +22,7 @@ a) Les autorités suivantes ou leurs représentants :
 
 - le directeur général de la gendarmerie nationale ;
 
-- le directeur de la fonction militaire et du personnel civil ;
+- le directeur des ressources humaines du ministère de la défense ;
 
 - le directeur central du service de santé des armées ;
 
@@ -30,11 +30,11 @@ a) Les autorités suivantes ou leurs représentants :
 
 - le directeur de la Caisse nationale militaire de sécurité sociale ;
 
-- l'administrateur de l'institution de gestion sociale des armées ;
+- le directeur général de l'institution de gestion sociale des armées ;
 
-- le sous-directeur des actions sociales de la direction de la fonction militaire et du personnel civil ;
+- le sous-directeur de l'action sociale de la direction des ressources humaines du ministère de la défense ;
 
-b) Un représentant des militaires retraités désigné en son sein par le conseil permanent des retraités militaires et un représentant des mutuelles de la défense désigné par l'union des mutuelles de la défense nationale parmi ses administrateurs. Ces deux représentants sont désignés pour une période de quatre ans renouvelable.
+b) Un représentant des militaires retraités désigné en son sein par le conseil permanent des retraités militaires, un représentant des civils retraités désigné par l'organisation syndicale ayant obtenu le plus grand nombre de suffrages, tous collèges confondus, aux dernières élections aux comités sociaux et un représentant des mutuelles de la défense désigné par l'union des mutuelles de la défense nationale parmi ses administrateurs. Ces trois représentants sont désignés pour une période de quatre ans renouvelable.
 
 En outre, le président peut se faire assister, en fonction de la nature des questions à l'ordre du jour, de personnalités qualifiées ou d'experts.
 
