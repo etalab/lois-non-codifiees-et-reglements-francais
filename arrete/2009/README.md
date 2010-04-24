@@ -1168,7 +1168,6 @@
 - [Arrêté du 14 octobre 2009 (DEVE0924224A)](arrete-du-14-octobre-2009-deve0924224a)
 - [Arrêté du 14 octobre 2009 (DEVE0924266A)](arrete-du-14-octobre-2009-deve0924266a)
 - [Arrêté du 14 octobre 2009 (DEVE0924298A)](arrete-du-14-octobre-2009-deve0924298a)
-- [Arrêté du 14 octobre 2009 (ECET0913069A)](arrete-du-14-octobre-2009-ecet0913069a)
 - [Arrêté du 14 octobre 2009 (IOCA0817561A)](arrete-du-14-octobre-2009-ioca0817561a)
 - [Arrêté du 14 octobre 2009 (IOCB0924010A)](arrete-du-14-octobre-2009-iocb0924010a)
 - [Arrêté du 14 octobre 2009 (IOCB0924029A)](arrete-du-14-octobre-2009-iocb0924029a)
