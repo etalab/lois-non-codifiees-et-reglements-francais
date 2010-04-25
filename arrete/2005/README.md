@@ -185,7 +185,6 @@
 - [Arrêté du 11 avril 2005 (BUDL0500053A)](arrete-du-11-avril-2005-budl0500053a)
 - [Arrêté du 11 avril 2005 (EQUP0500598A)](arrete-du-11-avril-2005-equp0500598a)
 - [Arrêté du 11 avril 2005 (INTB0500227D)](arrete-du-11-avril-2005-intb0500227d)
-- [Arrêté du 11 avril 2005 (JUSK0540048A)](arrete-du-11-avril-2005-jusk0540048a)
 - [Arrêté du 11 avril 2005 (MENA0402949A)](arrete-du-11-avril-2005-mena0402949a)
 - [Arrêté du 11 janvier 2005 (DEFP0500101A)](arrete-du-11-janvier-2005-defp0500101a)
 - [Arrêté du 11 janvier 2005 (ECOK0400092A)](arrete-du-11-janvier-2005-ecok0400092a)
