@@ -32,7 +32,7 @@ Infirmières et infirmiers.
 
 Moniteurs-éducateurs des instituts nationaux de jeunes sourds et de l'Institut national des jeunes aveugles.
 
-Personnels techniques du service de physiothérapie des Thermes nationaux d'Aix-les-Bains.
+Techniciens de physiothérapie relevant du ministre chargé de la santé.
 
 Secrétaires administratifs relevant des ministres chargés des affaires sociales.
 
