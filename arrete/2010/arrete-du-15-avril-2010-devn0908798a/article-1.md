@@ -1,0 +1,3 @@
+# Article 1
+
+Est désigné sous l'appellation « site Natura 2000 Hautes Vosges » (zone spéciale de conservation FR 4201807) l'espace délimité sur la carte d'assemblage au 1/100 000 ainsi que sur les six cartes au 1/25 000 ci-jointes, s'étendant sur une partie du territoire des communes suivantes du département du Haut-Rhin : Le Bonhomme, Breitenbach-Haut-Rhin, Fellering, Geishouse, Goldbach-Altenbach, Kruth, Lapoutroie, Lautenbach, Lautenbachzell, Linthal, Luttenbach-près-Munster, Metzeral, Mittlach, Muhlbach-sur-Munster, Murbach, Oderen, Orbey, Ranspach, Rimbach-près-Guebwiller, Saint-Amarin, Sondernach, Soultz-Haut-Rhin, Soultzeren, Stosswihr, Urbès, Wasserbourg, Wildenstein.
