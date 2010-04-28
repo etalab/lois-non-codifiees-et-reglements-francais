@@ -3,7 +3,8 @@
 <table>
 <tbody>
 <tr>
-<th rowspan="2">DIRECTIONS TERRITORIALES<br/>de la protection judiciaire de la jeunesse<br/>
+<th rowspan="2">DIRECTIONS TERRITORIALES <p>de la protection judiciaire de la jeunesse<br/>
+</p>
 </th>
 <th rowspan="2">ORGANISATIONS SYNDICALES<br/>
 </th>
@@ -18,8 +19,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Ain<br/>
-</p>
+<p align="left">Ain</p>
 </td>
 <td align="center">
 <p align="left">CFDT<br/>
@@ -93,8 +93,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Aisne<br/>
-</p>
+<p align="left">Aisne</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
@@ -130,8 +129,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Alpes-Maritimes<br/>
-</p>
+<p align="left">Alpes-Maritimes</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
@@ -167,8 +165,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Aube<br/>
-</p>
+<p align="left">Aube</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
@@ -223,8 +220,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Bouches-du-Rhône<br/>
-</p>
+<p align="left">Bouches-du-Rhône</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
@@ -260,8 +256,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Calvados<br/>
-</p>
+<p align="left">Calvados</p>
 </td>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
@@ -297,8 +292,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Charente<br/>
-</p>
+<p align="left">Charente</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
@@ -353,8 +347,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Charente-Maritime/Deux-Sèvres<br/>
-</p>
+<p align="left">Charente-Maritime/Deux-Sèvres</p>
 </td>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
@@ -371,8 +364,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Cher/Indre<br/>
-</p>
+<p align="left">Cher/Indre</p>
 </td>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
@@ -408,8 +400,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Côte-d'Or<br/>
-</p>
+<p align="left">Côte-d'Or</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
@@ -464,8 +455,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Côtes-d'Armor<br/>
-</p>
+<p align="left">Côtes-d'Armor</p>
 </td>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
@@ -482,8 +472,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Doubs<br/>
-</p>
+<p align="left">Doubs</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
@@ -519,8 +508,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Drôme<br/>
-</p>
+<p align="left">Drôme</p>
 </td>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
@@ -599,8 +587,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Eure<br/>
-</p>
+<p align="left">Eure</p>
 </td>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
@@ -617,8 +604,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Eure-et-Loir<br/>
-</p>
+<p align="left">Eure-et-Loir</p>
 </td>
 <td align="center">
 <p align="left">SN-FO-PJJ<br/>
@@ -669,8 +655,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Finistère<br/>
-</p>
+<p align="left">Finistère</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
@@ -725,8 +710,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Gard/Lozère<br/>
-</p>
+<p align="left">Gard/Lozère</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
@@ -781,8 +765,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Haute-Garonne/Ariège<br/>
-</p>
+<p align="left">Haute-Garonne/Arièges-Hautes-Pyrénées</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
@@ -837,8 +820,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Gironde<br/>
-</p>
+<p align="left">Gironde</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
@@ -893,8 +875,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Guadeloupe<br/>
-</p>
+<p align="left">Guadeloupe</p>
 </td>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
@@ -930,8 +911,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Guyane<br/>
-</p>
+<p align="left">Guyane</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
@@ -967,8 +947,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Hauts-de-Seine<br/>
-</p>
+<p align="left">Hauts-de-Seine</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
@@ -1023,8 +1002,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Hérault<br/>
-</p>
+<p align="left">Hérault</p>
 </td>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
@@ -1060,8 +1038,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Ille-et-Vilaine - Côtes-d'Armor <br/>
-</p>
+<p align="left">Ille-et-Vilaine - Côtes-d'Armor </p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
@@ -1113,8 +1090,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Indre-et-Loire/Loir-et-Cher<br/>
-</p>
+<p align="left">Indre-et-Loire/Loir-et-Cher</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
@@ -1169,8 +1145,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Isère<br/>
-</p>
+<p align="left">Isère</p>
 </td>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
@@ -1206,8 +1181,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Landes/Pyrénées-Atlantiques<br/>
-</p>
+<p align="left">Landes/Pyrénées-Atlantiques</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
@@ -1262,8 +1236,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Loire<br/>
-</p>
+<p align="left">Loire</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
@@ -1299,8 +1272,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Loire-Atlantique<br/>
-</p>
+<p align="left">Loire-Atlantique</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
@@ -1355,8 +1327,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Loiret<br/>
-</p>
+<p align="left">Loiret</p>
 </td>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
@@ -1392,8 +1363,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Maine-et-Loire<br/>
-</p>
+<p align="left">Maine-et-Loire</p>
 </td>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
@@ -1429,8 +1399,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Manche<br/>
-</p>
+<p align="left">Manche</p>
 </td>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
@@ -1466,8 +1435,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Marne<br/>
-</p>
+<p align="left">Marne</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
@@ -1503,8 +1471,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Marne (Haute)<br/>
-</p>
+<p align="left">Marne (Haute)</p>
 </td>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
@@ -1521,8 +1488,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Martinique<br/>
-</p>
+<p align="left">Martinique</p>
 </td>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
@@ -1558,8 +1524,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Mayenne<br/>
-</p>
+<p align="left">Mayenne</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
@@ -1614,8 +1579,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Meurthe-et-Moselle<br/>
-</p>
+<p align="left">Meurthe-et-Moselle</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
@@ -1651,8 +1615,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Meuse<br/>
-</p>
+<p align="left">Meuse</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
@@ -1688,8 +1651,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Morbihan<br/>
-</p>
+<p align="left">Morbihan</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
@@ -1725,8 +1687,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Moselle<br/>
-</p>
+<p align="left">Moselle</p>
 </td>
 <td align="center">
 <p align="left">CFDT<br/>
@@ -1800,8 +1761,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Nièvre<br/>
-</p>
+<p align="left">Nièvre</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
@@ -1856,8 +1816,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Nord<br/>
-</p>
+<p align="left">Nord</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
@@ -1940,8 +1899,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Paris<br/>
-</p>
+<p align="left">Paris</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
@@ -1996,8 +1954,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Pas-de-Calais<br/>
-</p>
+<p align="left">Pas-de-Calais</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
@@ -2052,8 +2009,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Puy-de-Dôme<br/>
-</p>
+<p align="left">Puy-de-Dôme</p>
 </td>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
@@ -2089,30 +2045,10 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Pyrénées-Orientales<br/>
-</p>
+<p align="left">Pyrénées-Orientales-Aude</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">1<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">1<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">SN-FO-PJJ<br/>
 </p>
 </td>
 <td align="center">
@@ -2144,13 +2080,25 @@
 </td>
 </tr>
 <tr>
+<td>
+<br/>
+</td>
+<td>
+<p align="left">UNSA-SPJJ</p>
+</td>
+<td>
+<p align="left">1</p>
+</td>
+<td>
+<p align="left">1</p>
+</td>
+</tr>
+<tr>
 <td align="center">
-<p align="left">La Réunion<br/>
-</p>
+<p align="left">La Réunion</p>
 </td>
 <td align="center">
-<p align="left">CFDT<br/>
-</p>
+<p align="left">CFDT</p>
 </td>
 <td align="center">
 <p align="left">2<br/>
@@ -2201,8 +2149,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Rhin (Bas)<br/>
-</p>
+<p align="left">Rhin (Bas)</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
@@ -2257,64 +2204,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Rhin (Haut)<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">CFDT<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">2<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">2<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">CGT-PJJ<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">2<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">2<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">SNPES-PJJ/FSU<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">1<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">1<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Rhône<br/>
-</p>
+<p align="left">Rhin (Haut)</p>
 </td>
 <td align="center">
 <p align="left">CFDT<br/>
@@ -2340,6 +2230,61 @@
 </p>
 </td>
 <td align="center">
+<p align="left">2<br/>
+</p>
+</td>
+<td align="center">
+<p align="left">2<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>
+</p>
+</td>
+<td align="center">
+<p align="left">SNPES-PJJ/FSU<br/>
+</p>
+</td>
+<td align="center">
+<p align="left">1<br/>
+</p>
+</td>
+<td align="center">
+<p align="left">1<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">Rhône</p>
+</td>
+<td align="center">
+<p align="left">CFDT<br/>
+</p>
+</td>
+<td align="center">
+<p align="left">2<br/>
+</p>
+</td>
+<td align="center">
+<p align="left">2<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p align="left">
+<br/>
+</p>
+</td>
+<td align="center">
+<p align="left">CGT-PJJ<br/>
+</p>
+</td>
+<td align="center">
 <p align="left">1<br/>
 </p>
 </td>
@@ -2388,8 +2333,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Saône-et-Loire<br/>
-</p>
+<p align="left">Saône-et-Loire</p>
 </td>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
@@ -2425,8 +2369,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Sarthe - Mayenne<br/>
-</p>
+<p align="left">Sarthe - Mayenne</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ</p>
@@ -2493,8 +2436,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Savoie (Haute)<br/>
-</p>
+<p align="left">Savoie (Haute)</p>
 </td>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
@@ -2511,8 +2453,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Seine-Maritime<br/>
-</p>
+<p align="left">Seine-Maritime</p>
 </td>
 <td align="center">
 <p align="left">CFDT<br/>
@@ -2596,8 +2537,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Seine-Saint-Denis<br/>
-</p>
+<p align="left">Seine-Saint-Denis</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
@@ -2652,8 +2592,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Somme<br/>
-</p>
+<p align="left">Somme</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
@@ -2689,8 +2628,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Tarn<br/>
-</p>
+<p align="left">Tarn-Aveyron</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
@@ -2726,8 +2664,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Val-d'Oise<br/>
-</p>
+<p align="left">Val-d'Oise</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
@@ -2753,37 +2690,17 @@
 </p>
 </td>
 <td align="center">
-<p align="left">4<br/>
+<p align="left">3<br/>
 </p>
 </td>
 <td align="center">
-<p align="left">4<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">UNSA-SPJJ<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">1<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">1<br/>
+<p align="left">3<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Val-de-Marne<br/>
-</p>
+<p align="left">Val-de-Marne</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
@@ -2838,8 +2755,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Var<br/>
-</p>
+<p align="left">Var</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
@@ -2894,8 +2810,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Vaucluse<br/>
-</p>
+<p align="left">Vaucluse</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
@@ -2950,8 +2865,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Vendée<br/>
-</p>
+<p align="left">Vendée</p>
 </td>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
@@ -2968,8 +2882,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Vienne<br/>
-</p>
+<p align="left">Vienne</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
@@ -3005,8 +2918,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Vienne (Haute)/Creuse<br/>
-</p>
+<p align="left">Vienne (Haute)/Creuse</p>
 </td>
 <td align="center">
 <p align="left">SNPES-PJJ/FSU<br/>
@@ -3042,8 +2954,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Vosges<br/>
-</p>
+<p align="left">Vosges</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
@@ -3079,8 +2990,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Yonne<br/>
-</p>
+<p align="left">Yonne</p>
 </td>
 <td align="center">
 <p align="left">CFDT<br/>
@@ -3116,8 +3026,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Yvelines<br/>
-</p>
+<p align="left">Yvelines</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
