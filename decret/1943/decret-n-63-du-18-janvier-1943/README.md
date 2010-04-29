@@ -13,6 +13,5 @@
 - [Déclaration et enquête en cas d'accident](declaration-et)
 - [Marquages d'identité et de service](marquages-d-identite-et)
 - [Experts](experts)
-- [Marquage des générateurs d'aérosol](marquage-des-generateurs-d-aerosol)
 - [Prescriptions particulières](prescriptions-particulieres)
 - [Vérifications lors des réparations](verifications-lors-des-reparations)

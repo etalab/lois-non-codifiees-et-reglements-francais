@@ -40,7 +40,6 @@
 - [Décret n°97-1 du 3 janvier 1997 (BUDL9600168D)](decret-n97-1-du-3-janvier-1997-budl9600168d)
 - [Décret n°97-10 du 3 janvier 1997 (ECOU9600009D)](decret-n97-10-du-3-janvier-1997-ecou9600009d)
 - [Décret n°97-105 du 3 février 1997 (INTA9700022D)](decret-n97-105-du-3-fevrier-1997-inta9700022d)
-- [Décret n°97-106 du 3 février 1997 (FCEC9600216D)](decret-n97-106-du-3-fevrier-1997-fcec9600216d)
 - [Décret n°97-107 du 3 février 1997 (MIPP9600436D)](decret-n97-107-du-3-fevrier-1997-mipp9600436d)
 - [Décret n°97-108 du 3 février 1997 (AGRB9602641D)](decret-n97-108-du-3-fevrier-1997-agrb9602641d)
 - [Décret n°97-1119 du 3 décembre 1997 (ECOF9700027D)](decret-n97-1119-du-3-decembre-1997-ecof9700027d)
