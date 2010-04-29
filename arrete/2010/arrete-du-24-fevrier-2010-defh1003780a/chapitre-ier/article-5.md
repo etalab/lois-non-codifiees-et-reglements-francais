@@ -10,9 +10,11 @@ L'épreuve écrite d'admissibilité consiste en un ou plusieurs exercices, quest
 
 B. Admission :
 
-Pour les concours internes organisés à compter de l'année  2011, l'épreuve orale d'admission consiste en un entretien avec le jury visant à apprécier la personnalité du candidat, sa motivation à exercer les fonctions d'ingénieur d'études et de fabrications ainsi que ses aptitudes au management, et à reconnaître les acquis de son expérience professionnelle.
+Pour les concours internes organisés à compter de l'année 2011, l'épreuve orale d'admission consiste en un entretien avec le jury visant à apprécier la personnalité du candidat, sa motivation à exercer les fonctions d'ingénieur d'études et de fabrications ainsi que ses aptitudes au management, et à reconnaître les acquis de son expérience professionnelle.
 
 Pour conduire cet entretien, le jury dispose du dossier constitué par le candidat en vue de la reconnaissance des acquis de l'expérience professionnelle (durée de l'épreuve : trente minutes ; coefficient 2).
+
+Cette épreuve est notée de 0 à 20.
 
 En vue de l'épreuve orale d'admission, le candidat établit un dossier de reconnaissance des acquis de son expérience professionnelle comportant les rubriques mentionnées en annexe 2 au présent arrêté qu'il remet au service organisateur à une date fixée dans l'arrêté d'ouverture du concours.
 

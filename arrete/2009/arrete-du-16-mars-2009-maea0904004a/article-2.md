@@ -4,7 +4,7 @@ La direction de l'Union européenne comprend :
 
 ― le service des politiques internes et des questions institutionnelles ;
 
-― le service des relations extérieures de la Communauté et de l'Union ;
+― le service des relations extérieures    de l'Union ;
 
 ― la sous-direction de l'Europe occidentale, nordique et balte ;
 

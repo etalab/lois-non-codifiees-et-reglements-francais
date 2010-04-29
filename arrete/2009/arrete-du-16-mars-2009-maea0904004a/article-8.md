@@ -8,4 +8,4 @@ Le protocole comprend les sous-directions suivantes :
 
 ― la sous-direction des privilèges et immunités consulaires ;
 
-― la sous-direction de la logistique et de l'interprétation-traduction.
+―             La sous-direction de la logistique, de l'interprétation et de la traduction.

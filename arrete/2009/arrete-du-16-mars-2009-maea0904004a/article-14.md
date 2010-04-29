@@ -4,7 +4,7 @@ Les missions des sous-directions de la direction des affaires juridiques sont le
 
 La sous-direction du droit international public connaît de toute question juridique relative au droit international public et aux organisations internationales.
 
-La sous-direction du droit communautaire et du droit international économique traite, en liaison avec le secrétariat général des affaires européennes, de toute question de droit communautaire et assure la gestion des contentieux devant le tribunal de première instance et la Cour de justice des Communautés européennes. Elle traite de toute question de droit international économique.
+La sous-direction du droit de l'Union européenne et du droit international économique traite, en liaison avec le secrétariat général des affaires européennes, de toute question de droit de l'Union européenne et assure la gestion des contentieux devant la Cour de justice et le Tribunal de l'Union européenne. Elle traite de toute question de droit international économique.
 
 La sous-direction des droits de l'homme connaît de toute question juridique relative aux droits de l'homme, aux réfugiés, à la circulation des personnes et au statut des étrangers en France. Elle assure la gestion des contentieux devant la Cour européenne des droits de l'homme.
 
