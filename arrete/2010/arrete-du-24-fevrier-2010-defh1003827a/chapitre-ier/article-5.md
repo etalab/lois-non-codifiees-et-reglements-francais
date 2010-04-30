@@ -14,6 +14,8 @@ Pour les concours internes organisés à compter de l'année 2011, l'épreuve or
 
 Pour conduire cet entretien, le jury dispose du dossier constitué par le candidat en vue de la reconnaissance des acquis de l'expérience professionnelle (durée de l'épreuve : trente minutes ; coefficient 2).
 
+Cette épreuve est notée de 0 à 20.
+
 En vue de l'épreuve orale d'admission, le candidat établit un dossier de reconnaissance des acquis de son expérience professionnelle comportant les rubriques mentionnées en annexe 2 au présent arrêté qu'il remet au service organisateur à une date fixée dans l'arrêté d'ouverture du concours.
 
 Ce dossier est remis au jury par le service organisateur du concours après anonymisation et validation de l'ensemble des pièces transmises par le candidat.
