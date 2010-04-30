@@ -78,7 +78,7 @@ Le directeur du centre technique du bâtiment.
 
 Ministère de l'intérieur :
 
-Le        directeur de la sécurité civile.
+Le directeur de la sécurité civile.
 
 Les membres titulaires ci-dessus précisés peuvent désigner des suppléants.
 
@@ -114,7 +114,7 @@ Un représentant de l'Union climatique de France.
 
 Membres désignés par le ministre chargé de l'environnement :
 
-Un représentant du Conseil supérieur des installations classées ;
+Un représentant du    Conseil supérieur de la prévention des risques technologiques ;
 
 Un représentant d'une association de protection de la nature.
 

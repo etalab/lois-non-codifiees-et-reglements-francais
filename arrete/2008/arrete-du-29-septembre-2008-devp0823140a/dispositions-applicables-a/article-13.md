@@ -16,6 +16,6 @@ Une hauteur de stockage supérieure aux limites citées ci-dessus peut toutefois
 
 Pour tous les stockages couverts, une distance minimale de 1 mètre est maintenue entre le sommet des îlots et la base de la toiture ou le plafond ou de tout système de chauffage pour les stockages couverts.
 
-B. - Les produits stockés en palettier forment des îlots d'une surface maximale de 6 000 mètres carrés et d'une hauteur maximale de 8 mètres, sauf si un système d'extinction automatique est mis en place.
+B.-Les produits stockés en palettier forment des îlots d'une surface maximale de 6 000 mètres carrés et d'une hauteur maximale de 8 mètres, sauf si un système d'extinction automatique est mis en place.
 
-C. - Des conditions différentes de stockage peuvent être autorisées par le préfet après avis favorable du Conseil supérieur des installations classées.
+C.-Des conditions différentes de stockage peuvent être autorisées par le préfet après avis favorable du    Conseil supérieur de la prévention des risques technologiques.

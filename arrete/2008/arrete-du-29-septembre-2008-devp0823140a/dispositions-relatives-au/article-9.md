@@ -8,4 +8,4 @@ A l'exception des stockages de papier en bobine (autre que papiers d'hygiène) e
 
 ― 6 000 mètres carrés pour les autres types de papiers, dont les bobines de papier hygiène.
 
-Après avis favorable du Conseil supérieur des installations classées, le préfet peut autoriser l'exploitation du stockage pour des tailles de cellules supérieures, en présence de système d'extinction automatique d'incendie, sous réserve d'une justification du niveau de sécurité par l'exploitant, comportant une étude spécifique d'ingénierie incendie.
+Après avis favorable du    Conseil supérieur de la prévention des risques technologiques, le préfet peut autoriser l'exploitation du stockage pour des tailles de cellules supérieures, en présence de système d'extinction automatique d'incendie, sous réserve d'une justification du niveau de sécurité par l'exploitant, comportant une étude spécifique d'ingénierie incendie.

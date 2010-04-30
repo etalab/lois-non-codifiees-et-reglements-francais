@@ -4,7 +4,7 @@ La commission d'agrément est constituée de :
 
 ― trois représentants du ministre chargé des installations classées, dont le directeur général de la prévention des risques ou son représentant ;
 
-― un représentant du Conseil supérieur des installations classées désigné par le président de ce conseil ;
+― un représentant du    Conseil supérieur de la prévention des risques technologiques désigné par le président de ce conseil ;
 
 ― deux représentants de l'inspection des installations classées désignés par le ministre chargé des installations classées ;
 

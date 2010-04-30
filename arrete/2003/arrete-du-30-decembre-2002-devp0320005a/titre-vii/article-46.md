@@ -4,4 +4,4 @@ Pour les centres de stockage mono-déchets, les prescriptions techniques prévue
 
 L'étude comportera une évaluation des risques sur l'environnement et sur la santé, et notamment un volet géologique et hydrogéologique dont le contenu est précisé à l'annexe II. Elle comportera également une caractérisation des produits stockés, une étude de la stabilité du massif de déchets, une étude de la compatibilité entre les caractéristiques, la géologie et l'hydrogéologie du site.
 
-L'autorisation de ce type de stockage, selon ces modalités, ne pourra être accordée qu'après avis du Conseil supérieur des installations classées.
+L'autorisation de ce type de stockage, selon ces modalités, ne pourra être accordée qu'après avis du    Conseil supérieur de la prévention des risques technologiques.

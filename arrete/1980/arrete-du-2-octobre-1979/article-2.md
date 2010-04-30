@@ -12,7 +12,7 @@ a) Les divisions :
 
 - fibres, textiles, bois et branches connexes ;
 
-- juridique (qui assure le secrétariat général du conseil supérieur des installations classées) ;
+- juridique (qui assure le secrétariat général du Conseil supérieur de la prévention des risques technologiques) ;
 
 - taxes et redevances.
 
