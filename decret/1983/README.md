@@ -192,7 +192,6 @@
 - [Décret n°82-1229 du 31 décembre 1982](decret-n82-1229-du-31-decembre-1982)
 - [Décret n°82-1234 du 31 décembre 1982](decret-n82-1234-du-31-decembre-1982)
 - [Décret n°82-1239 du 31 décembre 1982](decret-n82-1239-du-31-decembre-1982)
-- [Décret n°82-1240 du 31 décembre 1982](decret-n82-1240-du-31-decembre-1982)
 - [Décret n°82-1241 du 31 décembre 1982](decret-n82-1241-du-31-decembre-1982)
 - [Décret n°82-1244 du 31 décembre 1982](decret-n82-1244-du-31-decembre-1982)
 - [Décret n°82-1248 du 31 décembre 1982](decret-n82-1248-du-31-decembre-1982)
