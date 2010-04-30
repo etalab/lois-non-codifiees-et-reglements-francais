@@ -12,4 +12,4 @@ II. ― Pour l'application du I :
 
 4° Parmi les éléments d'appréciation du risque de crédit et de sélection des opérations de crédit de la Caisse des dépôts et consignations, au sens respectivement du premier alinéa de l'article 19 et de l'article 20 du règlement n° 97-02 susmentionné, la commission de surveillance tient compte des missions d'intérêt général mentionnées à l'article L. 518-2 du code monétaire et financier.
 
-III. ― Le règlement mentionné au I est celui dans sa version applicable à la date du 1er janvier 2009.
+III. ― Le règlement mentionné au I est celui dans sa version applicable à la date du 1er janvier 2010.

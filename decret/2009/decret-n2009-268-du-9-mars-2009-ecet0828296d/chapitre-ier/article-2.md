@@ -30,4 +30,4 @@ b) Le règlement n° 2005-01 du 3 novembre 2005 relatif à la comptabilisation d
 
 c) Le règlement n° 2005-03 du 3 novembre 2005 relatif au traitement comptable du risque de crédit.
 
-II. ― Pour l'application du I, les règlements mentionnés sont ceux dans leur version applicable à la date du 1er janvier 2009.
+II. ― Pour l'application du I, les règlements mentionnés sont ceux dans leur version applicable à la date du 1er janvier 2010.
