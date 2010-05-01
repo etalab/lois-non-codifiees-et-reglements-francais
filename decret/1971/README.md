@@ -32,7 +32,6 @@
 - [Décret n°71-928 du 15 novembre 1971](decret-n71-928-du-15-novembre-1971)
 - [Décret n°71-766 du 16 septembre 1971](decret-n71-766-du-16-septembre-1971)
 - [Décret n°71-382 du 17 mai 1971](decret-n71-382-du-17-mai-1971)
-- [Décret n°71-209 du 18 mars 1971](decret-n71-209-du-18-mars-1971)
 - [Décret n°71-468 du 18 juin 1971](decret-n71-468-du-18-juin-1971)
 - [Décret n°71-696 du 19 août 1971](decret-n71-696-du-19-aout-1971)
 - [Décret n°71-858 du 19 octobre 1971](decret-n71-858-du-19-octobre-1971)
