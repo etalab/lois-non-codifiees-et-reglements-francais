@@ -1240,7 +1240,7 @@ SERMI :
 
 service des bacs et passage d'eau du conseil général de la Seine-Maritime, hôtel du département, quai Jean-Moulin, 76101 Rouen Cedex 1, de 1947 à 1996
 
-Service technique de l'outillage, des ateliers et centre d'activité de la réparation navale et du dragage du Port autonome de Rouen, 34, boulevard , BP 4075, 76100 Rouen : de 1947 à 1997.
+Service technique de l'outillage, des ateliers et centre d'activité de la réparation navale et du dragage du Port autonome de Rouen, 34, boulevard Boisguilbert, BP 4075, 76100 Rouen, de 1947 à 2005.
 
 Service technique de l'outillage, des ateliers et centre d'activité de la réparation navale et du dragage du Port autonome du Havre, 76600 Le Havre : depuis 1947.
 
