@@ -4,7 +4,7 @@ I. - Il est institué, pour le pari mutuel organisé par les sociétés de cours
 
 II. - Le taux de ce prélèvement est compris entre 30 % et 36 % du produit brut des paris.
 
-III. - Le produit de ce prélèvement est affecté au budget général de l'Etat. Ce prélèvement est contrôlé et recouvré par les comptables du Trésor, sous les mêmes sûretés, privilèges et sanctions que ceux prévus en matière de contributions directes. Les sommes correspondant à ce prélèvement deviennent la propriété de l'Etat dès que les rapports des enjeux ont été déterminés.
+III. - Le produit de ce prélèvement est affecté au budget général de l'Etat. Ce prélèvement est contrôlé et recouvré par les comptables publics de l'Etat, sous les mêmes sûretés, privilèges et sanctions que ceux prévus en matière de contributions directes. Les sommes correspondant à ce prélèvement deviennent la propriété de l'Etat dès que les rapports des enjeux ont été déterminés.
 
 IV. - Sont abrogés :
 

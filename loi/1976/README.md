@@ -5,6 +5,7 @@
 - [Loi n° 75-1347 du 31 décembre 1975](loi-n-75-1347-du-31-decembre-1975)
 - [Loi n° 75-1351 du 31 décembre 1975](loi-n-75-1351-du-31-decembre-1975)
 - [Loi n° 75-617 du 11 juillet 1975](loi-n-75-617-du-11-juillet-1975)
+- [Loi n° 75-618 du 11 juillet 1975](loi-n-75-618-du-11-juillet-1975)
 - [Loi n° 76-1106 du 6 décembre 1976](loi-n-76-1106-du-6-decembre-1976)
 - [Loi n° 76-1220 du 28 décembre 1976](loi-n-76-1220-du-28-decembre-1976)
 - [Loi n° 76-1232 du 29 décembre 1976](loi-n-76-1232-du-29-decembre-1976)

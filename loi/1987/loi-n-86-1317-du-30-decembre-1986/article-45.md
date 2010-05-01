@@ -30,7 +30,7 @@ B. - Les utilisateurs du service amateur et les utilisateurs d'installations de 
 
 V. - (Abrogé)
 
-VI. Sauf en ce qui concerne la taxe forfaitaire prévue au premier alinéa du III, le recouvrement et le contentieux des taxes visées au présent article sont suivis par les comptables du Trésor selon les modalités fixées aux articles 80 à 95 du décret n° 62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité publique dans leur rédaction en vigueur à la date de promulgation de la présente loi.
+VI. Sauf en ce qui concerne la taxe forfaitaire prévue au premier alinéa du III, le recouvrement et le contentieux des taxes visées au présent article sont suivis par les comptables publics compétents selon les modalités fixées aux articles 80 à 95 du décret n° 62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité publique dans leur rédaction en vigueur à la date de promulgation de la présente loi.
 
 VII. - Les opérateurs exerçant les activités de communications électroniques mentionnées à l'article L. 33-1 du code des postes et des communications électroniques sont, à compter de l'année 2005, assujettis au paiement d'une taxe administrative dans les conditions prévues ci-après :
 
