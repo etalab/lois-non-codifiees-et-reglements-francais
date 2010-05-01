@@ -1,6 +1,6 @@
 # Article 9
 
-A l'issue de l'année de suivi particulier, sur rapport de l'inspection, le directeur régional de l'agriculture et de la forêt décide,
+A l'issue de l'année de suivi particulier, sur rapport de l'inspection, le directeur régional de l'alimentation, de l'agriculture et de la forêt décide,
 
 pour cet établissement :
 

@@ -552,6 +552,10 @@ Champagne-Ardenne
 
 Ardam (Société ardennaise de fabrication d'appareils électroménagers)/UFAM SA (Usines et fonderies Arthur Martin), 5, rue Jean-Jacques-Rousseau, 08500 Revin : - usine 1 (gaz, charbon, mazout) : de 1973 à 1977 ; usine 2 (cuisson, charbon, mazout) : de 1969 à 1974 ;
 
+CIMA, puis INTERNATIONAL HARVESTER France (IHF), puis TENNECO, puis CASE, puis POCLAIN, puis SOCIETE VALFOND, Chemin du Closot, 52100 SAINT-DIZIER : de 1949 à 2003 ;
+
+CIMA, puis INTERNATIONAL HARVESTER France (IHF), puis CASE-TENNECO, puis SOCIETE VALFOND , Chemin du Clos Saint-Jean, 52100 Saint-Dizier : De 1937 à 1994 ;
+
 Deville, 76, rue Forest, 08000 Charleville-Mézières : de 1950 à 1992 ;
 
 Etudes réalisations thermiques, route de Philippeville, 08600 Givet : de 1976 à 1994 ;

@@ -1,0 +1,3 @@
+# Article 1
+
+L'uniforme des agents contractuels, commissionnés et assermentés, affectés à l'Office national de l'eau et des milieux aquatiques, à l'Office national de la chasse et de la faune sauvage et dans les établissements publics des parcs nationaux est celui défini à l'article 1er de l'arrêté du 19 avril 2010 relatif à la tenue des agents techniques et des techniciens de l'environnement, commissionnés et assermentés, en fonctions à l'Office national de l'eau et des milieux aquatiques, à l'Office national de la chasse et de la faune sauvage et dans les établissements publics des parcs nationaux.
