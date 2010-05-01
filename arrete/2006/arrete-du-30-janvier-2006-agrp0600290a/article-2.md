@@ -4,7 +4,7 @@ La composition de chaque commission régionale de cotation, dont les membres son
 
 -le préfet de région dans laquelle siège la commission qui assure la présidence de la commission ou son représentant ;
 
--le directeur régional de l'agriculture et de la forêt ou son représentant ;
+-le         directeur régional de l'alimentation, de l'agriculture et de la forêt  ou son représentant ;
 
 -le directeur régional de la concurrence, de la consommation et de la répression des fraudes ou son représentant ;
 

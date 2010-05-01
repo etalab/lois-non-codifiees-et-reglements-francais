@@ -6,13 +6,13 @@ Premier collège :
 
 ― le préfet de région du lieu du siège de la commission ou son représentant ;
 
-― le directeur régional de l'agriculture et de la forêt ou son représentant ;
+― le directeur régional de l'alimentation de l'agriculture et de la forêt ou son représentant ;
 
 ― le directeur régional de la concurrence, de la consommation et de la répression des fraudes ou son représentant ;
 
 ― le chef du service régional d'information et statistique économique ;
 
-― le directeur de l'          Etablissement national des produits de l'agriculture et de la mer (FranceAgriMer) ou son représentant ;
+― le directeur de l' Etablissement national des produits de l'agriculture et de la mer (FranceAgriMer) ou son représentant ;
 
 Deuxième collège :
 
@@ -24,4 +24,4 @@ Troisième collège :
 
 Le préfet de région ou son représentant préside la commission.
 
-Le directeur de l'          Etablissement national des produits de l'agriculture et de la mer (FranceAgriMer) ou son représentant est secrétaire de la commission.
+Le directeur de l' Etablissement national des produits de l'agriculture et de la mer (FranceAgriMer) ou son représentant est secrétaire de la commission.
