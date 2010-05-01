@@ -1,8 +1,10 @@
 # Article 7
 
-I. - Pour les années 2008 à 2012, les ministres chargés de la santé et de la sécurité sociale arrêtent, dans les conditions prévues à l'article R. 162-42-1 du code de la sécurité sociale, les taux moyens régionaux de convergence mentionnés au IV et au C du V de l'article 33 de la loi du 18 décembre 2003 susvisée.
+I.-Pour les années 2008 à 2012, les ministres chargés de la santé et de la sécurité sociale arrêtent, dans les conditions prévues à l'
+article R. 162-42-1 du code de la sécurité sociale
+, les taux moyens régionaux de convergence mentionnés au IV et au C du V de l'article 33 de la loi du 18 décembre 2003 susvisée.
 
-II. - Les règles générales relatives à la fixation, à partir du taux moyen régional de convergence, des coefficients de transition mentionnés au deuxième alinéa du IV de l'article 33 susmentionné sont arrêtées par le directeur de l'agence régionale de l'hospitalisation dans les conditions prévues à l'article R. 162-42-4.
+II.-Les règles générales relatives à la fixation, à partir du taux moyen régional de convergence, des coefficients de transition mentionnés au deuxième alinéa du IV de l'article 33 susmentionné sont arrêtées par le directeur général de l'agence régionale de santé dans les conditions prévues à l'article R. 162-42-4.
 
 La fixation des coefficients de transition des établissements dont la valeur est supérieure à 1, d'une part, et celle des coefficients de transition des établissements dont la valeur est inférieure à 1, d'autre part, doivent respecter chacune le taux moyen régional de convergence.
 
@@ -12,14 +14,14 @@ Le coefficient de transition de chaque établissement est modulé de sorte que, 
 
 Pour chaque établissement, l'écart entre le coefficient de transition et la valeur 1 doit avoir été réduit d'au moins 50 % en 2008.
 
-III. - Le coefficient de transition de l'établissement n'est modifié que dans les cas suivants :
+III.-Le coefficient de transition de l'établissement n'est modifié que dans les cas suivants :
 
-- fermeture de l'ensemble des activités couvertes par des prestations d'hospitalisation établies à partir de la classification des séjours issue des données mentionnées aux articles L. 6113-7 et L. 6113-8 du code de la santé publique ;
+-fermeture de l'ensemble des activités couvertes par des prestations d'hospitalisation établies à partir de la classification des séjours issue des données mentionnées aux articles L. 6113-7 et L. 6113-8 du code de la santé publique ;
 
-- fermeture d'une activité couverte par des prestations d'hospitalisation non établies à partir de cette classification.
+-fermeture d'une activité couverte par des prestations d'hospitalisation non établies à partir de cette classification.
 
 Le coefficient modifié est calculé dans les conditions définies au III de l'article 6, sur la base des données d'activité mentionnées au I du même article, à l'exclusion de celles relatives à la ou aux activités fermées, et en tenant compte des taux de convergence fixés en application du II du présent article. Ce coefficient s'applique à compter du 1er mars de l'année suivante.
 
-IV. - En cas de regroupement mentionné à l'article L. 6122-6 du code de la santé publique, réunissant en un même lieu toutes les activités de soins précédemment autorisées sur des sites distincts, la valeur du coefficient de transition de l'établissement résultant de ce regroupement est égale à la moyenne des coefficients de transition des établissements objets du regroupement, pondérée par leurs données d'activité mentionnées au I de l'article 6 valorisées aux tarifs nationaux des prestations calculés conformément aux dispositions du même article. Ce coefficient s'applique dès la mise en fonctionnement de l'établissement issu du regroupement.
+IV.-En cas de regroupement mentionné à l'article L. 6122-6 du code de la santé publique, réunissant en un même lieu toutes les activités de soins précédemment autorisées sur des sites distincts, la valeur du coefficient de transition de l'établissement résultant de ce regroupement est égale à la moyenne des coefficients de transition des établissements objets du regroupement, pondérée par leurs données d'activité mentionnées au I de l'article 6 valorisées aux tarifs nationaux des prestations calculés conformément aux dispositions du même article. Ce coefficient s'applique dès la mise en fonctionnement de l'établissement issu du regroupement.
 
 Dans le cas où les tarifs des prestations applicables à au moins un des établissements objets du regroupement tiennent compte de l'application du coefficient de haute technicité, mentionné au IV de l'article 33 de la loi du 18 décembre 2003 susvisée, les tarifs de prestations de l'établissement issu du regroupement tiennent également compte d'un coefficient de haute technicité, calculé à partir des données d'activité et des tarifs de prestations de l'ensemble des établissements objets du regroupement, selon les modalités fixées au IV de l'article 6.

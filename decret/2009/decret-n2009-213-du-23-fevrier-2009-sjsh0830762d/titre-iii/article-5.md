@@ -1,11 +1,13 @@
 # Article 5
 
-Les tarifs de prestations mentionnés à l'article 4 sont obtenus, pour chaque catégorie tarifaire, en divisant le coût de revient prévisionnel, soit par le nombre de journées d'hospitalisation prévues, soit, pour la structure mobile d'urgence et de réanimation, selon le cas, en intervention terrestre par le nombre prévisionnel de demi-heures et en intervention aérienne par le nombre prévisionnel de minutes, après déduction des recettes prévisionnelles de la facturation des interruptions volontaires de grossesse, des actes et consultations externes ainsi que, d'une part, des forfaits mentionnés aux 2°, 4° et 5° de l'article R. 162-32 du code de la sécurité sociale et, d'autre part, des consultations et des actes mentionnés au 3° de l'article R. 162-32-1 facturés en sus des forfaits mentionnés au 12° de l'article R. 322-1 du même code.
+Les tarifs de prestations mentionnés aux 1°, 2°, 3°, 4° de l'article 4 sont obtenus, pour chaque catégorie tarifaire, en divisant le coût de revient prévisionnel par le nombre de journées d'hospitalisation prévues, après déduction des produits ne résultant pas de la facturation de ces tarifs de prestations.
 
-Les coûts de revient prévisionnels, calculés sur la base de la comptabilité analytique de l'établissement, sont égaux à la totalité des charges d'exploitation comprenant :
+Les tarifs de prestations mentionnés au 5° de l'article 4 sont obtenus en divisant le coût de revient prévisionnel par le nombre de demi-heures prévues pour les interventions terrestres et par le nombre de minutes prévues pour les interventions aériennes.
+
+Le coût de revient prévisionnel mentionné aux premier et deuxième alinéas, calculé sur la base de la comptabilité analytique, est égal à la totalité des charges relatives aux sections tarifaires concernées comprenant :
 
 1° Les charges directes ;
 
-2° Les charges des consommations d'actes, de biens et de services médicaux sur la base de leur coût d'achat ou, à défaut, de leur coût de revient ;
+2° Les charges des consommations d'actes, de biens et de services médicaux sur la base de leur prix d'achat ou, à défaut, de leur coût de revient ;
 
-3° Les autres charges d'exploitation du compte de résultat principal qui ne sont pas couvertes par des ressources propres, réparties entre les catégories tarifaires proportionnellement au nombre de journées prévues dans chaque catégorie.
+3° Les autres charges du compte de résultat prévisionnel principal qui ne sont pas couvertes par des ressources propres.
