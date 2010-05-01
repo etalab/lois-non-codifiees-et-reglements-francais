@@ -1,6 +1,6 @@
 # Article 
 
-**CHEFS DE SERVICE JURIDIQUEMENT INVESTIS DU POUVOIR DE DÉCISION D'ATTRIBUTION DES RÉDUCTIONS ET MAJORATIONS D'ANCIENNETÉ**
+CHEFS DE SERVICE JURIDIQUEMENT INVESTIS DU POUVOIR DE DÉCISION D'ATTRIBUTION DES RÉDUCTIONS D'ANCIENNETÉ
 
 Le vice-président du Conseil général de l'environnement et du développement durable.
 
@@ -8,13 +8,11 @@ Les directeurs de cabinet.
 
 Les directeurs généraux, directeurs et chefs de service de l'administration centrale.
 
-Les responsables des services d'administration centrale visés à l'arrêté du 16 avril 2002 modifié.
-
 Les directeurs de services techniques centraux.
 
 Les directeurs de services à compétences nationales.
 
-Les directeurs régionaux de l'équipement, de l'aménagement et du logement (DREAL).
+Les directeurs régionaux de l'environnement, de l'aménagement et du logement (DREAL).
 
 Les directeurs régionaux de l'équipement (DRE).
 
@@ -25,6 +23,8 @@ Les directeurs régionaux de l'environnement (DIREN).
 Les directeurs interdépartementaux des routes (DIR).
 
 Les directeurs des services de la navigation (SN).
+
+Les directeurs régionaux des affaires maritimes.
 
 Les directeurs des centres d'études techniques de l'équipement (CETE).
 
@@ -54,10 +54,4 @@ Le directeur de l'Agence nationale pour l'amélioration de l'habitat (ANAH).
 
 Le directeur de l'Agence nationale pour la rénovation urbaine (ANRU).
 
-Le directeur des pêches maritimes et de l'aquaculture.
-
-Les directeurs régionaux des affaires maritimes (art. 4) de Bordeaux, Le Havre, Marseille, Nantes, Rennes, Fort-de-France, La Réunion.
-
 Les chefs de service des affaires maritimes de Papeete, Nouméa et Saint-Pierre-et-Miquelon.
-
-Les conseillers maritimes à Abidjan, Dakar et Londres.
