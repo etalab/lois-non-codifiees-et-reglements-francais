@@ -1,7 +1,5 @@
 # Article Annexe
 
-A N N E X E
-
 INTRODUCTION ET PRINCIPES GÉNÉRAUX
 
 (1) Les renseignements et les documents qui doivent être joints à la demande d'autorisation de mise sur le marché en vertu des articles R. 5128 et suivants du code de la santé publique sont présentés conformément aux exigences de la présente annexe. Lors de la constitution du dossier, les demandeurs tiennent compte des lignes directrices publiées par la Commission des Communautés européennes dans La Réglementation des médicaments dans la Communauté européenne, volume B, avis aux demandeurs, médicaments à usage humain, présentation et contenu du dossier, document technique commun.
@@ -28,11 +26,11 @@ La présente annexe se divise en quatre parties :
 
 La partie I décrit le format de la demande, le résumé des caractéristiques du produit, l'étiquetage, la notice et les exigences de présentation pour les demandes standards (modules 1 à 5).
 
-La partie II prévoit une dérogation pour les « demandes spécifiques » à savoir l'usage médical bien établi, les médicaments essentiellement similaires, les associations fixes, les produits biologiques similaires, les circonstances exceptionnelles et les demandes mixtes (en partie bibliographique et en partie études propres).
+La partie II prévoit une dérogation pour les  demandes spécifiques  à savoir l'usage médical bien établi, les médicaments essentiellement similaires, les associations fixes, les produits biologiques similaires, les circonstances exceptionnelles et les demandes mixtes (en partie bibliographique et en partie études propres).
 
-La partie III traite des « demandes particulières » pour les médicaments biologiques (dossier spécifique du plasma ; dossier spécifique de l'antigène de vaccin), radiopharmaceutiques, homéopathiques, à base de plantes et les médicaments orphelins.
+La partie III traite des  demandes particulières  pour les médicaments biologiques (dossier spécifique du plasma ; dossier spécifique de l'antigène de vaccin), radiopharmaceutiques, homéopathiques, à base de plantes et les médicaments orphelins.
 
-La partie IV traite des « médicaments de thérapie innovante » et concerne les exigences spécifiques des médicaments de thérapie génique (utilisant le système humain autologue ou allogénique, ou le système xénogénique) et les médicaments de thérapie cellulaire tant humaine que xénogénique et les médicaments de transplantation xénogénique.
+La partie IV traite des  médicaments de thérapie innovante  et concerne les exigences spécifiques des médicaments de thérapie génique (utilisant le système humain autologue ou allogénique, ou le système xénogénique) et les médicaments de thérapie cellulaire tant humaine que xénogénique et les médicaments de transplantation xénogénique.
 
 Partie I
 
@@ -358,7 +356,7 @@ Dispositif médical.
 
 Certificat(s) de conformité.
 
-Médicaments contenant ou utilisant, dans le procédé de fabrication, des matières d'origine animale ou humaine (procédure « encéphalopathies spongiformes transmissibles »).
+Médicaments contenant ou utilisant, dans le procédé de fabrication, des matières d'origine animale ou humaine (procédure  encéphalopathies spongiformes transmissibles ).
 
 Références dans la littérature.
 
@@ -384,7 +382,7 @@ Toutefois, lorsqu'une substance inscrite à la Pharmacopée européenne ou à la
 
 (8) Pour une substance active bien définie, le fabricant ou le demandeur peuvent prendre les dispositions nécessaires pour que soient fournies dans un document séparé, appelé dossier confidentiel de la substance active (1), les données relatives à la substance active.
 
-Notamment, sont adressées directement à l'Agence française de sécurité sanitaire des produits de santé par le fabricant de la substance active les données suivantes, contenues dans la « partie fermée » du dossier confidentiel de la substance active :
+Notamment, sont adressées directement à l'Agence française de sécurité sanitaire des produits de santé par le fabricant de la substance active les données suivantes, contenues dans la  partie fermée  du dossier confidentiel de la substance active :
 
 (i) La description détaillée du procédé de fabrication ;
 
@@ -392,7 +390,7 @@ Notamment, sont adressées directement à l'Agence française de sécurité sani
 
 (iii) La validation du procédé.
 
-Dans ce cas toutefois, le fabricant fournit au demandeur toutes les données qui peuvent être nécessaires à ce dernier pour qu'il assume la responsabilité du médicament (données correspondant à la « partie ouverte » du dossier confidentiel de la substance active). Le fabricant confirme par écrit au demandeur qu'il garantit la reproductibilité d'un lot à l'autre et ne modifie pas le procédé de fabrication ou ses spécifications sans l'en informer. Les documents et les renseignements relatifs à une telle demande de modification sont fournis à l'Agence française de sécurité sanitaire des produits de santé ; ces documents et ces renseignements sont aussi fournis au demandeur lorsqu'ils concernent la « partie ouverte » du dossier confidentiel de la substance active.
+Dans ce cas toutefois, le fabricant fournit au demandeur toutes les données qui peuvent être nécessaires à ce dernier pour qu'il assume la responsabilité du médicament (données correspondant à la  partie ouverte  du dossier confidentiel de la substance active). Le fabricant confirme par écrit au demandeur qu'il garantit la reproductibilité d'un lot à l'autre et ne modifie pas le procédé de fabrication ou ses spécifications sans l'en informer. Les documents et les renseignements relatifs à une telle demande de modification sont fournis à l'Agence française de sécurité sanitaire des produits de santé ; ces documents et ces renseignements sont aussi fournis au demandeur lorsqu'ils concernent la  partie ouverte  du dossier confidentiel de la substance active.
 
 (9) Mesures spécifiques concernant la prévention de la transmission d'encéphalopathies spongiformes animales (matériels provenant de ruminants) : à chaque étape du processus de fabrication, le demandeur doit démontrer la conformité des matériels utilisés avec la note explicative concernant la réduction du risque de transmission des agents des encéphalopathies spongiformes animales par les médicaments à usages humain et vétérinaire et ses révisions publiées par la Commission des Communautés européennes au Journal officiel de l'Union européenne. Il est possible de démontrer la conformité avec ladite note explicative en présentant un certificat de conformité à la monographie de la Pharmacopée européenne relative aux produits comportant un risque de transmission d'agents d'encéphalopathies spongiformes animales dans sa dernière version rendue obligatoire dans les conditions prévues à l'article R. 5003 du code de la santé publique, délivré par la direction européenne pour la qualité du médicament. A défaut de certificat, le demandeur fournit des données scientifiques justifiant cette conformité.
 
@@ -448,7 +446,7 @@ Si la présence d'agents adventices potentiellement pathogènes est inévitable,
 
 Chaque fois que possible, la production de vaccins est faite à partir d'un système de lots de semences et de banques de cellules établies. Pour les vaccins bactériens et viraux, les caractéristiques de l'agent infectieux doivent être démontrées sur le lot de semences. En outre, pour les vaccins vivants, la stabilité des caractéristiques d'atténuation de la semence doit être démontrée ; si la preuve n'en est pas suffisante, les caractéristiques d'atténuation sont aussi démontrées au stade de la production.
 
-Pour les médicaments dérivés du sang, l'origine, les critères et procédures de collecte, de transport et de conservation de la matière de départ doivent être décrits et documentés conformément aux dispositions de la partie  III de la présente annexe.
+Pour les médicaments dérivés du sang, l'origine, les critères et procédures de collecte, de transport et de conservation de la matière de départ doivent être décrits et documentés conformément aux dispositions de la partie III de la présente annexe.
 
 Les installations et les équipements de fabrication sont décrits.
 
@@ -502,7 +500,7 @@ Une description du produit fini et de sa composition est à fournir. Cette infor
 
 - ces indications sont complétées par tous renseignements utiles sur le conditionnement et, le cas échéant, sur son mode de fermeture, sur les accessoires avec lesquels le médicament sera utilisé ou administré et qui seront délivrés avec le médicament.
 
-Par « termes usuels » destinés à désigner les composants des médicaments, il faut entendre, sans préjudice de l'application des autres précisions prévues à l'article R. 5128 c du code de la santé publique :
+Par  termes usuels  destinés à désigner les composants des médicaments, il faut entendre, sans préjudice de l'application des autres précisions prévues à l'article R. 5128 c du code de la santé publique :
 
 - pour les substances figurant à la Pharmacopée européenne ou à la Pharmacopée française ou, à défaut, à la pharmacopée d'un autre Etat membre, obligatoirement le titre retenu par la monographie concernée, avec référence à ladite pharmacopée ;
 
@@ -510,7 +508,7 @@ Par « termes usuels » destinés à désigner les composants des médicaments, 
 
 - pour les matières colorantes, la désignation par le code E qui leur est affecté suivant la directive 78/25/CEE du Conseil relative au rapprochement des législations des Etats membres concernant les matières pouvant être ajoutées aux médicaments en vue de leur coloration ou la directive 94/36/CE du Parlement européen et du Conseil concernant les colorants destinés à être employés dans les denrées alimentaires.
 
-Pour donner la « composition quantitative » de toutes les substances actives du médicament, il faut, selon la forme pharmaceutique, préciser pour chaque substance active la masse ou le nombre d'unités d'activité biologique, soit par unité de prise, soit par unité de masse ou de volume de chaque substance active.
+Pour donner la  composition quantitative  de toutes les substances actives du médicament, il faut, selon la forme pharmaceutique, préciser pour chaque substance active la masse ou le nombre d'unités d'activité biologique, soit par unité de prise, soit par unité de masse ou de volume de chaque substance active.
 
 Les substances actives à l'état de composés ou de dérivés sont désignées quantitativement par leur masse globale et, si nécessaire ou significatif, par la masse de la ou des fractions actives de la molécule.
 
@@ -1062,7 +1060,7 @@ Certains médicaments présentent des caractères spécifiques tels que toutes l
 
 1. USAGE MÉDICAL BIEN ÉTABLI
 
-Pour les médicaments dont la ou les substances actives ont un « usage médical bien établi » tel que mentionné à l'article R. 5133-I c 2 du code de la santé publique, et présentent une efficacité reconnue ainsi qu'un niveau acceptable de sécurité, les règles spécifiques suivantes s'appliquent.
+Pour les médicaments dont la ou les substances actives ont un  usage médical bien établi  tel que mentionné à l'article R. 5133-I c 2 du code de la santé publique, et présentent une efficacité reconnue ainsi qu'un niveau acceptable de sécurité, les règles spécifiques suivantes s'appliquent.
 
 Le demandeur soumet les modules 1, 2 et 3 décrits dans la partie I de la présente annexe. Pour les modules 4 et 5, une bibliographie scientifique détaillée traite des caractéristiques non-cliniques et cliniques.
 
@@ -1080,7 +1078,7 @@ a) Les facteurs à prendre en considération pour démontrer que l'usage médica
 
 En conséquence, des laps de temps différents peuvent être nécessaires pour démontrer l'usage bien établi de substances différentes. En tout état de cause, le laps de temps nécessaire pour démontrer que l'usage médical d'un composant d'un médicament est bien établi ne peut cependant pas être inférieur à dix ans comptés à partir de la première utilisation systématique et documentée de cette substance en tant que médicament dans la Communauté européenne.
 
-b) La documentation soumise par le demandeur doit couvrir tous les aspects de l'évaluation de la sécurité et de l'efficacité. Elle doit comprendre ou se référer à une étude bibliographique appropriée qui prend en compte les études de pré-commercialisation et de post-commercialisation, et à la littérature scientifique publiée relatant l'expérience sous forme d'enquêtes épidémiologiques et en particulier d'enquêtes épidémiologiques comparatives. Tous les documents, tant favorables que défavorables, doivent être communiqués. Pour ce qui concerne les dispositions relatives à « l'usage médical bien établi », il est en particulier nécessaire que les « références bibliographiques » à d'autres sources d'éléments (études postérieures à la commercialisation, études épidémiologiques, etc.) et non simplement à des données relatives à des essais puissent constituer des preuves valables de la sécurité et de l'efficacité d'un produit, si une demande explique et justifie de façon satisfaisante l'utilisation de ces sources d'information.
+b) La documentation soumise par le demandeur doit couvrir tous les aspects de l'évaluation de la sécurité et de l'efficacité. Elle doit comprendre ou se référer à une étude bibliographique appropriée qui prend en compte les études de pré-commercialisation et de post-commercialisation, et à la littérature scientifique publiée relatant l'expérience sous forme d'enquêtes épidémiologiques et en particulier d'enquêtes épidémiologiques comparatives. Tous les documents, tant favorables que défavorables, doivent être communiqués. Pour ce qui concerne les dispositions relatives à  l'usage médical bien établi , il est en particulier nécessaire que les  références bibliographiques  à d'autres sources d'éléments (études postérieures à la commercialisation, études épidémiologiques, etc.) et non simplement à des données relatives à des essais puissent constituer des preuves valables de la sécurité et de l'efficacité d'un produit, si une demande explique et justifie de façon satisfaisante l'utilisation de ces sources d'information.
 
 c) Il y a lieu de veiller particulièrement aux données manquantes et de justifier les raisons pour lesquelles on peut soutenir que la sécurité et l'efficacité du produit sont établies malgré l'absence de certaines études.
 
@@ -1100,9 +1098,9 @@ Pour ces produits, les résumés détaillés non cliniques/cliniques se concentr
 
 - un résumé des impuretés présentes dans des lots de la ou des substances actives et des impuretés du médicament fini destiné à être mis sur le marché (et le cas échéant les produits de décomposition se formant en cours de stockage), ainsi qu'une évaluation de ces impuretés ;
 
-- une évaluation des études de bioéquivalence ou une justification du fait que des études n'ont pas été réalisées au titre de la ligne directrice sur « l'étude de la biodisponibilité et de la bioéquivalence » ou compte tenu de l'exonération prévue à l'article R. 5143-9 du code de la santé publique ;
+- une évaluation des études de bioéquivalence ou une justification du fait que des études n'ont pas été réalisées au titre de la ligne directrice sur  l'étude de la biodisponibilité et de la bioéquivalence  ou compte tenu de l'exonération prévue à l'article R. 5143-9 du code de la santé publique ;
 
-- une mise à jour de la littérature publiée concernant la substance et la demande d'autorisation de mise sur le marché. L'annotation, à cette fin, d'articles publiés dans des revues avec « comité de lecture par des pairs » peut être acceptée ;
+- une mise à jour de la littérature publiée concernant la substance et la demande d'autorisation de mise sur le marché. L'annotation, à cette fin, d'articles publiés dans des revues avec  comité de lecture par des pairs  peut être acceptée ;
 
 - chaque caractéristique invoquée dans le résumé des caractéristiques du produit qui n'est pas connue ou déduite des propriétés du médicament ou de sa classe thérapeutique doit être discutée dans les résumés détaillés non cliniques/cliniques et démontrée par la littérature publiée ou des études supplémentaires ;
 
@@ -1174,7 +1172,7 @@ Est ainsi introduit le concept de dossier spécifique du plasma : il permet la m
 
 En pratique, l'évaluation est réalisée en deux étapes : premièrement, une évaluation du dossier spécifique du plasma menée par l'Agence européenne pour l'évaluation des médicaments dont le résultat, à savoir un certificat de conformité à la législation communautaire pour chaque dossier, est pris en compte par l'autorité compétente qui délivre l'autorisation de mise sur le marché, lui évitant toute réévaluation ultérieure. Deuxièmement, une évaluation du produit fini dérivé du plasma contenant la partie modifiée du dossier spécifique du plasma (les deux parties essentielles de son contenu, origine du plasma et qualité-sécurité du plasma), effectuée par l'autorité compétente qui délivre l'autorisation de mise sur le marché pour le médicament dérivé du sang.
 
-Pour les médicaments dérivés du sang et par dérogation aux dispositions du module 3, les exigences visées dans « L'information relative aux matières de départ et aux matières premières » concernant les dossiers, peuvent être remplacées par un dossier spécifique du plasma certifié conformément à la présente partie lorsque les matières de départ sont constituées par du sang/plasma humains.
+Pour les médicaments dérivés du sang et par dérogation aux dispositions du module 3, les exigences visées dans  L'information relative aux matières de départ et aux matières premières  concernant les dossiers, peuvent être remplacées par un dossier spécifique du plasma certifié conformément à la présente partie lorsque les matières de départ sont constituées par du sang/plasma humains.
 
 a) Principes :
 
@@ -1244,13 +1242,13 @@ Ce concept permet la mise en commun des connaissances approfondies réunies sur 
 
 En pratique, l'évaluation est réalisée en deux étapes : premièrement, une évaluation du dossier spécifique de l'antigène de vaccin par l'Agence européenne pour l'évaluation des médicaments dont le résultat, à savoir un certificat de conformité à la législation communautaire pour chaque dossier, est pris en compte par l'autorité compétente qui délivre l'autorisation de mise sur le marché, lui évitant toute réévaluation ultérieure. Deuxièmement, une évaluation du produit fini (vaccin combiné) contenant l'antigène modifié, effectuée par l'autorité compétente qui délivre l'autorisation de mise sur le marché pour le vaccin combiné.
 
-Pour les vaccins à usage humain et par dérogation aux dispositions du module 3 portant sur « les substances actives », les exigences suivantes s'appliquent lorsqu'elles sont fondées sur l'utilisation d'un système de dossier spécifique de l'antigène de vaccin.
+Pour les vaccins à usage humain et par dérogation aux dispositions du module 3 portant sur  les substances actives , les exigences suivantes s'appliquent lorsqu'elles sont fondées sur l'utilisation d'un système de dossier spécifique de l'antigène de vaccin.
 
 Le dossier de demande d'autorisation de mise sur le marché d'un vaccin autre que le vaccin dirigé contre la grippe doit comporter un dossier spécifique de l'antigène de vaccin pour tout antigène qui est une substance active de ce vaccin.
 
 a) Principes :
 
-Aux fins de la présente annexe  :
+Aux fins de la présente annexe :
 
 On entend par dossier spécifique de l'antigène de vaccin une partie autonome du dossier de demande d'autorisation de mise sur le marché d'un vaccin, qui contient toute l'information pertinente de nature biologique, pharmaceutique et chimique concernant chacune des substances actives composant ce médicament. La partie autonome peut être commune à un ou plusieurs vaccins monovalents ou combinés présentés par le même demandeur ou titulaire d'autorisation de mise sur le marché.
 
@@ -1262,7 +1260,7 @@ Un vaccin monovalent est un vaccin qui contient un antigène destiné à préven
 
 b) Contenu :
 
-Le dossier spécifique de l'antigène de vaccin contient les informations suivantes extraites de la partie pertinente (Substance active) du module 3 concernant les « données de qualité » définies dans la partie I de la présente annexe  :
+Le dossier spécifique de l'antigène de vaccin contient les informations suivantes extraites de la partie pertinente (Substance active) du module 3 concernant les  données de qualité  définies dans la partie I de la présente annexe :
 
 Substance active :
 
@@ -1348,7 +1346,7 @@ Concernant la toxicité par administration unique et par administration réitér
 
 Les études de mutagénicité sur le radionucléide ne sont pas considérées comme nécessaires dans ce cas particulier.
 
-L'information relative à la toxicité chimique du nucléide « froid » et sa biodistribution est présentée.
+L'information relative à la toxicité chimique du nucléide  froid  et sa biodistribution est présentée.
 
 Module 5
 
@@ -1404,7 +1402,7 @@ Les aspects spécifiques aux médicaments à base de plantes suivants sont à ex
 
 (1) Substances végétales et préparations à base de plantes :
 
-Aux fins de la présente annexe, les termes « substances végétales et préparations à base de plante » sont considérés comme équivalents aux termes « drogues végétales et préparations à base de drogues végétales » définis dans la Pharmacopée européenne.
+Aux fins de la présente annexe, les termes  substances végétales et préparations à base de plante  sont considérés comme équivalents aux termes  drogues végétales et préparations à base de drogues végétales  définis dans la Pharmacopée européenne.
 
 Sont à fournir :
 
@@ -1453,275 +1451,3 @@ Concernant le développement de la formulation, il y a lieu de fournir un bref r
 Dans le cas d'un médicament orphelin au sens du règlement (CE) n° 141/2000 du Parlement européen et du Conseil du 16 décembre 1999 concernant les médicaments orphelins, les dispositions générales de la partie II-6 (circonstances exceptionnelles) peuvent s'appliquer. Le demandeur justifie alors dans les résumés non cliniques et cliniques les raisons pour lesquelles il n'est pas possible de fournir l'information complète et il fournit une justification du rapport bénéfice-risque pour le médicament orphelin concerné.
 
 Quand un demandeur d'autorisation de mise sur le marché d'un médicament orphelin invoque les dispositions de l'article R. 5133-I c 2 du code de la santé publique et de la partie II, point 1, de la présente annexe (usage médical bien établi), l'utilisation systématique et documentée de la substance concernée peut se référer, à titre dérogatoire, à l'utilisation de cette substance dans une préparation magistrale, hospitalière ou officinale.
-
-Partie IV
-
-MÉDICAMENTS DE THÉRAPIE INNOVANTE
-
-Les médicaments de thérapie innovante se fondent sur des procédés de fabrication axés sur différentes biomolécules produites par transfert de gènes, ou sur des cellules dont les propriétés biologiques ont été modifiées et qui sont utilisées comme substances actives ou parties de substances actives.
-
-Pour ces médicaments, la présentation du dossier de demande d'autorisation de mise sur le marché satisfait aux exigences de format décrites dans la partie I de la présente annexe.
-
-Les modules 1 à 5 s'appliquent. Pour la dissémination volontaire dans l'environnement des organismes génétiquement modifiés, une attention particulière est accordée à la persistance de ces organismes génétiquement modifiés chez l'hôte receveur et à leur réplication ou modification éventuelles lorsqu'ils sont disséminés dans l'environnement. L'information concernant le risque pour l'environnement doit figurer dans l'annexe du module 1.
-
-1. MÉDICAMENTS DE THÉRAPIE GÉNIQUE
-
-(HUMAINS ET XÉNOGÉNIQUES)
-
-Au terme de l'article L. 1261-1 du code de la santé publique, on entend par médicament de thérapie génique un produit visant à transmettre du matériel génétique, c'est-à-dire tout produit obtenu par un ensemble de procédés de fabrication visant au transfert, in vivo ou ex vivo, d'un gène prophylactique, diagnostique ou thérapeutique (à savoir un fragment d'acide nucléique), vers des cellules humaines/animales et son expression consécutive in vivo. Le transfert de gène implique un système d'expression contenu dans un système d'administration appelé vecteur, qui peut être d'origine virale ou non-virale. Ce vecteur peut aussi être inclus dans une cellule humaine ou animale.
-
-1.1. Diversité des médicaments de thérapie génique
-
-a) Médicaments de thérapie génique utilisant des cellules allogéniques ou xénogéniques :
-
-Le vecteur est prêt à l'emploi et stocké, avant son transfert dans des cellules hôtes.
-
-Les cellules ont été obtenues au préalable et peuvent être manipulées pour obtenir une banque de cellules (banque de collection ou banque établie à partir de cellules primaires avec une viabilité limitée).
-
-Les cellules génétiquement modifiées par le vecteur constituent une substance active.
-
-Des étapes supplémentaires peuvent être réalisées pour obtenir le produit fini. Par essence, un tel médicament est destiné à être administré à un certain nombre de patients.
-
-b) Médicaments de thérapie génique utilisant des cellules humaines autologues :
-
-La substance active est un lot de vecteur prêt à l'emploi, stocké avant son transfert dans les cellules autologues.
-
-Des étapes supplémentaires peuvent être réalisées pour obtenir le produit fini.
-
-Ces produits sont préparés à partir de cellules obtenues chez un patient donné. Les cellules sont ensuite génétiquement modifiées en utilisant un vecteur prêt à l'emploi contenant les gènes d'intérêt qui a été préparé à l'avance et qui constitue la substance active. La préparation est réinjectée au patient et est, par définition, destinée à un seul patient. L'ensemble du procédé de fabrication, depuis la collecte des cellules chez le patient jusqu'à la réinjection chez ce patient, est considéré comme constituant une seule intervention.
-
-c) Administration de vecteurs prêts à l'emploi contenant du matériel génétique (prophylactique, diagnostique ou thérapeutique) :
-
-La substance active est un lot de vecteur prêt à l'emploi.
-
-Des étapes supplémentaires peuvent être réalisées pour obtenir le produit fini. Ce type de médicament est destiné à être administré à plusieurs patients.
-
-Le transfert de matériel génétique peut être réalisé par injection directe du vecteur prêt à l'emploi aux receveurs.
-
-1.2. Exigences spécifiques concernant le module 3
-
-Les médicaments de thérapie génique consistent en :
-
-- l'acide nucléique nu ;
-
-- l'acide nucléique complexé ou des vecteurs non viraux ;
-
-- des vecteurs viraux ;
-
-- des cellules génétiquement modifiées.
-
-Comme pour tout autre médicament, on peut identifier les trois principaux éléments du procédé de fabrication, à savoir :
-
-- matières de départ : matières à partir desquelles la substance active est fabriquée tel que des plasmides d'expression, des banques de cellules et des stocks de virus ou de vecteurs non viraux ;
-
-- substance active : vecteur recombinant, plasmides nus ou complexés, cellules produisant des virus, cellules génétiquement modifiées in vitro ;
-
-- produit fini : substance active formulée dans son conditionnement primaire pour l'utilisation médicale souhaitée. Selon le type de médicament de thérapie génique, le mode d'administration et les conditions d'utilisation peuvent nécessiter un traitement ex vivo des cellules du patient (voir 1.1.b).
-
-Une attention particulière est accordée aux points suivants :
-
-a) Sont fournies :
-
-Des informations concernant les caractéristiques pertinentes du médicament de thérapie génique y compris son expression dans la population cellulaire visée ;
-
-Des informations concernant l'origine, la construction, la caractérisation et la vérification de la séquence codante du gène y compris son intégrité et sa stabilité ;
-
-En plus du gène d'intérêt, la séquence complète des autres gènes, les éléments régulateurs et la construction principale du vecteur.
-
-b) Des informations concernant la caractérisation du vecteur utilisé pour transférer et administrer le gène sont fournies. Ces informations doivent inclure sa caractérisation physico-chimique ou sa caractérisation biologique/immunologique.
-
-Pour les médicaments qui utilisent un micro-organisme comme des bactéries ou des virus pour faciliter le transfert des gènes (transfert biologique des gènes), des données sur la pathogenèse de la souche parentale et sur son tropisme pour des types de tissus et cellules spécifiques ainsi que la dépendance de l'interaction sur le cycle cellulaire sont fournies.
-
-Pour les médicaments qui utilisent des moyens non biologiques pour faciliter le transfert des gènes, les propriétés physico-chimiques des constituants individuellement et en association sont indiquées.
-
-c) Les principes d'établissement des banques de cellules des lots de semences ainsi que leur caractérisation s'appliquent aux médicaments de thérapie génique.
-
-d) L'origine des cellules accueillant le vecteur recombinant est indiquée.
-
-Les caractéristiques de l'origine humaine, comme l'âge, le sexe, les résultats des essais microbiologiques et viraux, les critères d'exclusion et le pays d'origine sont documentées.
-
-Pour les cellules d'origine animale, une information détaillée relative aux points suivants est fournie :
-
-- origine des animaux ;
-
-- élevage et soins des animaux ;
-
-- animaux génétiquement modifiés (obtention, caractérisation des cellules génétiquement modifiées, nature du gène inséré) ;
-
-- mesures pour prévenir et suivre les infections chez les animaux sources/donneurs ;
-
-- dépistage d'agents infectieux ;
-
-- locaux ;
-
-- contrôle des matières de départ et des matières premières.
-
-La description des modalités de prélèvement des cellules, notamment le lieu, le type de tissu, le mode opératoire, le transport, le stockage et la traçabilité, ainsi que les contrôles effectués au cours de la collecte sont documentés.
-
-e) L'évaluation de la sécurité virale et la traçabilité des produits, depuis le donneur jusqu'au produit fini, sont une composante essentielle de la documentation à fournir. Par exemple, la présence de virus aptes à la réplication dans des stocks de vecteurs viraux inaptes à la réplication doit être exclue.
-
-2. MÉDICAMENTS DE THÉRAPIE CELLULAIRE SOMATIQUE
-
-(HUMAINS ET XENOGÉNIQUES)
-
-Aux fins de la présente annexe, on entend par médicaments de thérapie cellulaire somatique les cellules vivantes somatiques autologues (émanant du patient lui-même), allogéniques (provenant d'un autre être humain) ou xénogéniques (provenant d'animaux) utilisées chez l'homme, dont les caractéristiques biologiques ont été sensiblement modifiées sous l'effet de leur manipulation pour obtenir un effet thérapeutique, diagnostique ou préventif s'exerçant par des moyens métaboliques, pharmacologiques et immunologiques. Cette manipulation inclut l'expansion ou l'activation de populations cellulaires autologues ex vivo (par exemple l'immunothérapie adoptive), l'utilisation de cellules allogéniques et xénogéniques associées à des dispositifs médicaux utilisés ex vivo ou in vivo (microcapsules, matrices complexes, biodégradables ou non).
-
-Exigences spécifiques pour les médicaments
-
-de thérapie cellulaire concernant le module 3
-
-Les médicaments de thérapie cellulaire somatique consistent en des :
-
-- cellules manipulées afin de modifier leurs propriétés immunologiques, métaboliques ou d'autres propriétés fonctionnelles du point de vue qualitatif ou quantitatif ;
-
-- cellules triées, sélectionnées et manipulées qui subissent ultérieurement un procédé de préparation pour obtenir le produit fini ;
-
-- cellules manipulées et associées à des constituants non cellulaires (par exemple, des matrices biologiques ou inertes, ou des dispositifs médicaux) et exerçant l'action principale revendiquée pour le produit fini ;
-
-- dérivés de cellules autologues exprimés in vitro, dans des conditions de culture spécifiques ;
-
-- cellules, génétiquement modifiées ou manipulées par une autre façon, pour exprimer des propriétés fonctionnelles homologues ou non homologues antérieurement inexprimées.
-
-L'ensemble du procédé de fabrication, depuis la collecte des cellules chez le patient (situation autologue) jusqu'à la réinjection chez ce patient, est considéré comme constituant une seule intervention.
-
-Comme pour tout autre médicament, on peut identifier les trois éléments du procédé de fabrication :
-
-- matières de départ : matières à partir desquelles la substance active est fabriquée, c'est-à-dire des organes, des tissus, des liquides biologiques ou des cellules ;
-
-- substance active : cellules manipulées, lysats de cellules, cellules résultant d'un processus d'expansion cellulaire, cellules utilisées en association avec des matrices inertes et des dispositifs médicaux, etc. ;
-
-- produits finis : substance active formulée dans son conditionnement primaire pour l'utilisation médicale souhaitée.
-
-a) Informations générales sur la ou les substances actives :
-
-Les substances actives des médicaments de thérapie cellulaire consistent en des cellules qui, à la suite d'un traitement in vitro, présentent des propriétés prophylactiques, diagnostiques ou thérapeutiques différentes des propriétés biologiques et physiologiques d'origine.
-
-La présente section décrit le type de cellules et de cultures concernées. Les tissus, organes ou liquides biologiques dont les cellules sont dérivées ainsi que la nature autologue, allogénique ou xénogénique du don et son origine géographique sont documentés. La collecte des cellules, leur échantillonnage et leur stockage avant manipulation sont exposés en détail. Pour les cellules allogéniques, une attention particulière est accordée à la toute première étape du procédé, qui couvre la sélection des donneurs. Le type de manipulation réalisée et la fonction physiologique des cellules qui sont utilisées comme substances actives sont indiquées.
-
-b) Information relative aux matières de départ de la ou des substances actives.
-
-1. CELLULES SOMATIQUES HUMAINES
-
-Les médicaments de thérapie cellulaire somatique humains sont produits à partir d'un nombre défini (pool) de cellules viables qui sont dérivées d'un procédé de fabrication débutant, soit au niveau des organes ou tissus prélevés chez un être humain, soit au niveau d'un système de banque cellulaire bien défini où le pool de cellules est constitué de lignées cellulaires continues. Aux fins du présent chapitre, on entend par substance active le pool de semences de cellules humaines et par produit fini le pool de semences de cellules humaines formulées pour l'utilisation médicale revendiquée.
-
-Les matières de départ et chaque étape du procédé de fabrication sont documentées de façon détaillée, notamment les aspects liés à la sécurité virale.
-
-(1) Organes, tissus, liquides biologiques et cellules d'origine humaine.
-
-Les caractéristiques de l'origine humaine comme l'âge, le sexe, le statut microbiologique, les critères d'exclusion et le pays d'origine sont documentées.
-
-La description des modalités de prélèvement, notamment le lieu, le type de prélèvement, le mode opératoire, la mise en pool, le transport, le stockage et la traçabilité ainsi que les contrôles réalisés sur le prélèvement, est documentée.
-
-(2) Systèmes de banque cellulaire.
-
-Les exigences pertinentes décrites dans la partie I s'appliquent à la préparation et au contrôle de la qualité des systèmes de banque cellulaire. Cela peut concerner essentiellement les cellules allogéniques ou xénogéniques.
-
-(3) Produits thérapeutiques annexes ou dispositifs médicaux ancillaires.
-
-Des informations sur l'utilisation de toutes les matières premières, d'éventuels produits thérapeutiques annexes (par exemple, cytokines, facteurs de croissance, milieux de culture) ou d'éventuels dispositifs médicaux tels que dispositifs de triage des cellules, polymères biocompatibles, matrices, fibres, billes, en termes de biocompatibilité, de fonctionnalité et au regard du risque d'agents infectieux, doivent être fournies.
-
-2. CELLULES SOMATIQUES ANIMALES (XÉNOGÉNIQUES)
-
-Des informations détaillées relatives aux points suivants sont fournies :
-
-- origine des animaux ;
-
-- élevage et soins des animaux ;
-
-- animaux génétiquement modifiés (obtention, caractérisation des cellules génétiquement modifiées, nature du gène inséré ou excisé) ;
-
-- mesures pour prévenir et surveiller les infections chez les animaux sources/donneurs ;
-
-- dépistage d'agents infectieux, notamment de micro-organismes transmis verticalement (y compris rétrovirus endogènes) ;
-
-- locaux ;
-
-- systèmes de banque cellulaire ;
-
-- contrôle des matières de départ et des matières premières.
-
-a) Informations sur le procédé de fabrication de la ou des substances actives et du produit fini :
-
-Les différentes étapes du procédé de fabrication, telles que la dissociation organes/tissus, la sélection de la population cellulaire d'intérêt, la culture de cellules in vitro, la transformation des cellules par des agents physicochimiques ou par transfert de gènes, sont documentées.
-
-b) Caractérisation de la ou des substances actives :
-
-Toutes les informations pertinentes portant sur la caractérisation de la population de cellules d'intérêt, en termes d'identité (espèce d'origine, profil cytogénétique, analyse morphologique), de pureté (agents microbiens adventices et contaminants cellulaires), d'activité (activité biologique définie) et de conformité des études chromosomiques et des essais de tumorigénicité pour l'utilisation médicale revendiquée, sont fournies.
-
-c) Développement pharmaceutique du produit fini :
-
-En plus du mode d'administration utilisé (perfusion intraveineuse, injection in situ, chirurgie de transplantation), des informations sont également fournies sur l'utilisation de dispositifs médicaux ancillaires éventuels (matrice, polymère biocompatible, fibres, billes) en terme de biocompatibilité et de durabilité.
-
-d) Traçabilité :
-
-Un logigramme détaillé garantissant la traçabilité des produits depuis le donneur jusqu'au produit fini est fourni.
-
-3. EXIGENCES SPÉCIFIQUES POUR LES MÉDICAMENTS (HUMAINS ET XÉNOGÉNIQUES) DE THÉRAPIE CELLULAIRE SOMATIQUE ET DE THÉRAPIE GÉNIQUE CONCERNANT LES MODULES 4 ET 5
-
-3.1. Module 4
-
-Pour les médicaments de thérapie génique et cellulaire somatique, il est admis que les exigences classiques définies dans le module 4 pour les essais non-cliniques de médicaments peuvent ne pas être toujours appropriées en raison de propriétés biologiques et structurelles spécifiques et diverses liées aux produits en question, y compris un niveau élevé de spécificité d'espèce, de spécificité de sujet, de barrières immunologiques et de différences dans les réponses pléïotropes.
-
-La logique sous-tendant le développement non-clinique et les critères utilisés pour choisir les espèces et modèles pertinents sont correctement illustrés dans le module 2.
-
-Il peut être nécessaire d'identifier ou de mettre au point de nouveaux modèles animaux pour contribuer à l'extrapolation de résultats spécifiques portant sur les critères indicatifs de la fonctionnalité et de la toxicité à l'activité in vivo des produits chez l'homme. La justification scientifique de l'utilisation de ces modèles animaux de maladie pour étayer la sécurité et la preuve du concept pour l'efficacité est fournie.
-
-3.2. Module 5
-
-L'efficacité de ces médicaments doit être démontrée de la façon décrite dans le module 5. Pour certains produits et pour certaines indications thérapeutiques, néanmoins, il peut ne pas être possible de procéder à des essais cliniques traditionnels. Toute déviation des lignes directrices existantes est justifiée dans le module 2.
-
-Le développement clinique de médicaments de thérapie cellulaire possède quelques caractéristiques particulières tenant à la nature complexe et à la durée de vie limitée des substances actives. Il exige des études supplémentaires en raison des questions liées à la viabilité, à la prolifération, à la migration et à la différenciation des cellules (thérapie cellulaire somatique), en raison des situations cliniques particulières d'utilisation de ces produits ou en raison du mode d'action spécifique lié à l'expression génétique (thérapie génique somatique).
-
-Les risques spéciaux associés à ces produits du fait d'une contamination potentielle par des agents infectieux doivent être abordés dans la demande d'autorisation de mise sur le marché de médicaments de thérapie innovante. Il convient d'insister plus particulièrement sur les stades précoces de développement, notamment le choix des donneurs dans le cas de médicaments de thérapie cellulaire, et sur la stratégie thérapeutique dans son ensemble, notamment la manipulation et l'administration correcte du produit.
-
-En outre, le module 5 de la demande doit contenir, le cas échéant, des données sur les mesures de surveillance et de contrôle de fonctionnalité et de développement des cellules vivantes chez le receveur, ainsi que les mesures de prévention de transmission d'agents infectieux et de réduction de tout risque potentiel pour la santé publique.
-
-3.2.1. Etudes de pharmacologie humaine et d'efficacité
-
-Les études de pharmacologie humaine doivent fournir des informations sur le mode d'action attendu, sur l'efficacité attendue sur la base des critères de jugement primaires et secondaires justifiés, sur la biodistribution, sur la dose adéquate, sur le rythme d'administration et les modes d'administration ou sur les modalités d'utilisation envisagées pour les études d'efficacité.
-
-Les études pharmacocinétiques classiques peuvent ne pas être pertinentes pour certains produits de thérapie innovante. Des études chez des volontaires sains ne sont pas toujours faisables et la recherche de dose et des paramètres cinétiques est généralement difficile à établir dans les essais cliniques. Il est néanmoins nécessaire d'étudier la distribution et le comportement in vivo du produit y compris la prolifération des cellules et la fonctionnalité à long terme ainsi que la quantité, la distribution du médicament de thérapie génique et la durée de l'expression souhaitée. Des essais appropriés sont utilisés et, au besoin, mis au point pour tracer in vivo les produits cellulaires ou des cellules exprimant le gène d'intérêt et pour surveiller la fonctionnalité des cellules qui ont été administrées ou transfectées.
-
-L'évaluation de l'efficacité et de la sécurité d'un médicament de thérapie innovante doit inclure la description et l'évaluation précise de la stratégie thérapeutique dans son ensemble, y compris les modes d'administration particuliers, (comme la transfection de cellules ex vivo, la manipulation in vitro, l'utilisation de techniques interventionnelles) et l'essai des traitements associés éventuels (y compris le traitement immunosuppressif antiviral, cytotoxique).
-
-L'ensemble de la procédure doit être testé dans des essais cliniques et décrit dans l'information sur le produit.
-
-3.2.2. Sécurité
-
-Les questions de sécurité résultant de la réaction immunitaire aux médicaments ou aux protéines exprimées, le rejet immunitaire, l'immunosuppression et la défaillance des mécanismes d'immuno-isolation sont pris en considération.
-
-Certains médicaments de thérapie génique et de thérapie cellulaire somatique (par exemple de thérapie cellulaire xénogénique et certains médicaments de thérapie génique) peuvent contenir des particules ou des agents infectieux aptes à la réplication. Il peut être nécessaire de surveiller chez le patient le développement d'éventuelles infections et/ou leurs séquelles pathologiques au cours des phases pré et post autorisation. Cette surveillance doit éventuellement être étendue aux personnes en contact étroit avec le patient, y compris le personnel soignant.
-
-Le risque de contamination par des agents potentiellement transmissibles ne saurait être totalement éliminé dans l'utilisation de certains médicaments de thérapie cellulaire somatique et certains médicaments de thérapie génique. Le risque peut néanmoins être minimisé par des mesures appropriées décrites dans le module 3.
-
-Les mesures incluses dans le procédé de production doivent être complétées par des méthodes de dosages, des processus de contrôle de la qualité et des méthodes de surveillance appropriées qui doivent être décrites dans le module 5.
-
-L'utilisation de certains médicaments de thérapie cellulaire somatique avancée doit éventuellement se limiter, de façon temporaire ou permanente, aux établissements qui ont une expertise documentée et des installations permettant d'assurer un suivi correct des patients. Une démarche comparable peut être pertinente pour certains médicaments de thérapie génique qui sont associés à un risque potentiel d'agents infectieux aptes à la réplication.
-
-Les aspects de surveillance à long terme concernant le développement de complications tardives sont également pris en considération et traités dans le dossier, le cas échéant.
-
-Le cas échéant, le demandeur doit soumettre un plan détaillé de gestion des risques couvrant les données cliniques et biologiques du patient, les données épidémiologiques émergeantes et des données obtenues sur des échantillons de tissus provenant du donneur et du receveur conservés en échantillothèque. Un tel système est nécessaire pour garantir la traçabilité du médicament et une réaction rapide en cas d'apparition inexpliquée d'événements indésirables.
-
-4. DÉCLARATION SPÉCIFIQUE CONCERNANT
-
-LES MÉDICAMENTS DE XÉNOTRANSPLANTATION
-
-Aux fins de la présente annexe, on entend par xénotransplantation toute procédure qui implique la transplantation, l'implantation, ou la perfusion chez un receveur humain soit de tissus ou d'organes vivants prélevés chez des animaux soit des liquides biologiques, des cellules, des tissus ou des organes humains qui ont subi un contact ex vivo avec des cellules, tissus ou organes animaux. Une attention particulière est accordée aux matières de départ. A cet égard, des informations détaillées relatives aux points suivants sont fournies conformément à des lignes directrices spécifiques :
-
-- origine des animaux ;
-
-- élevage et soins des animaux ;
-
-- animaux génétiquement modifiés (obtention, caractérisation de cellules génétiquement modifiées, nature du gène inséré ou excisé) ;
-
-- mesures pour prévenir et suivre les infections chez les animaux sources/donneurs ;
-
-- dépistage d'agents infectieux ;
-
-- locaux ;
-
-- contrôle des matières de départ et des matières premières ;
-
-- traçabilité.
-
-(1) Le dossier permanent de la substance active est également appelé « Drug Master File ».

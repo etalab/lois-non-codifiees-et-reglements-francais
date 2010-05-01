@@ -188,7 +188,6 @@
 - [Arrêté du 6 mai 2003 (SANS0321652A)](arrete-du-6-mai-2003-sans0321652a)
 - [Arrêté du 7 août 2003 (DOMA0300022A)](arrete-du-7-aout-2003-doma0300022a)
 - [Arrêté du 7 août 2003 (EQUG0300607A)](arrete-du-7-aout-2003-equg0300607a)
-- [Arrêté du 7 août 2003 (EQUG0300608A)](arrete-du-7-aout-2003-equg0300608a)
 - [Arrêté du 7 août 2003 (MENE0301803A)](arrete-du-7-aout-2003-mene0301803a)
 - [Arrêté du 7 août 2003 (MENE0301804A)](arrete-du-7-aout-2003-mene0301804a)
 - [Arrêté du 7 août 2003 (MENE0301805A)](arrete-du-7-aout-2003-mene0301805a)
