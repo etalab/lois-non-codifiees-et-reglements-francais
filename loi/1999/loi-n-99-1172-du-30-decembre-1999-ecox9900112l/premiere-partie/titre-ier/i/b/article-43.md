@@ -74,7 +74,7 @@ Imposition forfaitaire : 24 752, 98 euros
 
 Coefficient multiplicateur : 1 à 4
 
-IV.-Le recouvrement et le contentieux de la taxe sont suivis par les comptables du Trésor selon les modalités fixées aux articles 80 à 95 du décret n° 62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité publique, dans leur rédaction en vigueur à la date de promulgation de la présente loi.
+IV.-Le recouvrement et le contentieux de la taxe sont suivis par les comptables publics compétents selon les modalités fixées aux articles 80 à 95 du décret n° 62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité publique, dans leur rédaction en vigueur à la date de promulgation de la présente loi.
 
 Le défaut de paiement de la taxe donne lieu à perception d'une majoration de 10 % des sommes restant dues à l'expiration de la période d'exigibilité.
 
