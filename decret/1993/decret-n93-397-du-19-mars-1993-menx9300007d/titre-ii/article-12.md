@@ -1,6 +1,6 @@
 # Article 12
 
-Le président dirige l'établissement public. A ce titre :
+Le président dirige l'établissement public.A ce titre :
 
 1° Il prépare les délibérations du conseil d'administration et en assure l'exécution ;
 
@@ -16,6 +16,6 @@ Le président dirige l'établissement public. A ce titre :
 
 7° Il arrête les décisions modificatives provisoires portant sur le budget de l'établissement dans les conditions fixées à l'article 20 ci-après.
 
-Le président peut déléguer sa signature au secrétaire général et aux responsables des services de l'établissement, à l'exception des décisions d'attribution des subventions, prêts et avances.
+Le président peut déléguer sa signature au directeur général ainsi que, à l'exception des décisions d'attribution des subventions, prêts et avances, aux responsables des services de l'établissement.
 
 8° Il propose au ministre chargé de la culture la nomination du président et des membres des commissions spécialisées prévues au 3° de l'article 10 du présent décret.

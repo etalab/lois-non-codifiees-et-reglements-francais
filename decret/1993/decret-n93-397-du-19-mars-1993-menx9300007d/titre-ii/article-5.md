@@ -1,3 +1,3 @@
 # Article 5
 
-Le Centre national du livre est administré par un conseil d'administration et dirigé par le      directeur général des médias et des industries culturelles au ministère chargé de la culture, président de droit.
+Le président de l'établissement est nommé par décret, sur proposition du ministre chargé de la culture, pour un mandat de cinq ans dans lequel il peut être reconduit par période de trois ans. Il préside le conseil d'administration et dirige l'établissement.

@@ -1,6 +1,6 @@
 # Article 14
 
-Le secrétaire général est, sous l'autorité du président, chargé de l'administration et de la gestion de l'établissement public. Notamment :
+Le directeur général est, sous l'autorité du président, chargé de l'administration et de la gestion de l'établissement public. Notamment :
 
 1° Il prépare et met en oeuvre les décisions du président et du conseil d'administration ;
 

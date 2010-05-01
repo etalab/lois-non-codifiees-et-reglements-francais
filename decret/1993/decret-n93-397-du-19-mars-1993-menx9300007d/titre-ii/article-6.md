@@ -2,34 +2,30 @@
 
 Le conseil d'administration comprend, outre son président :
 
-1° Sept représentants de l'Etat :
+1° Six représentants de l'Etat :
 
-a) Le     secrétaire général au ministère chargé de la culture ou son représentant ;
+a) Le secrétaire général du ministère chargé de la culture ou son représentant ;
 
-b) Un représentant du ministre chargé de l'enseignement supérieur ;
+b) Le directeur général des médias et des industries culturelles au ministère chargé de la culture ou son représentant ;
 
-c) Un représentant du ministre chargé de l'éducation ;
+c) Le directeur du budget au ministère chargé du budget ou son représentant ;
 
-d) Le directeur général des relations culturelles, scientifiques et techniques au ministère des affaires étrangères ou son représentant ;
+d) Un représentant du ministre chargé de l'enseignement supérieur ;
 
-e) Le directeur du budget au ministère chargé du budget ou son représentant ;
+e) Un représentant du ministre chargé de l'éducation ;
 
-f) Le directeur général des stratégies industrielles au ministère chargé de l'industrie ou son représentant ;
+f) Un représentant du ministre des affaires étrangères.
 
-g) Le directeur de la recherche et de la technologie au ministère chargé de la recherche ou son représentant ;
+Les membres mentionnés aux d, e et f ci-dessus sont désignés pour trois ans par arrêté du ministre chargé de la culture sur proposition des ministres intéressés ; pour chacun d'eux, un suppléant est désigné dans les mêmes conditions ;
 
-2° Onze représentants des activités littéraires et des professions du livre désignés pour trois ans renouvelables :
+2° Quinze personnes désignées, en raison de leur compétence dans le domaine des activités littéraires et des professions du livre, par un arrêté du ministre chargé de la culture, pour un mandat de trois ans renouvelable :
 
-a) Le secrétaire perpétuel de l'Académie française ou un membre de l'académie désigné par lui ;
+a) Cinq éditeurs ;
 
-b) Le président de la Société des gens de lettres ou un membre de cette société désigné par lui ;
+b) Deux libraires ;
 
-c) Six éditeurs désignés par le Syndicat national de l'édition ;
+c) Deux conservateurs ou conservateurs généraux des bibliothèques ;
 
-d) Deux libraires désignés par les organisations représentatives des libraires français ;
+d) Six personnalités qualifiées dans le domaine de la création, de l'édition, de la diffusion du livre, des nouvelles technologies et des services numériques, parmi lesquelles trois auteurs au moins dont un traducteur ;
 
-e) Un bibliothécaire désigné par l'association des bibliothécaires français ;
-
-3° Un représentant du personnel élu pour trois ans selon des modalités fixées par arrêté du ministre chargé de la culture ;
-
-4° Huit personnalités, parmi lesquelles trois écrivains au moins et un traducteur, désignées pour trois ans renouvelables par le ministre chargé de la culture en raison de leur compétence dans le domaine de la création, de l'édition ou de la diffusion du livre.
+3° Un représentant du personnel élu pour trois ans selon des modalités fixées par arrêté du ministre chargé de la culture.

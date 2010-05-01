@@ -1,8 +1,8 @@
 # Article 9
 
-Le conseil d'administration se réunit au moins deux fois par an à l'initiative de son président, qui fixe l'ordre du jour. Il est également convoqué par son président à la demande du quart au moins de ses membres.
+Le conseil d'administration se réunit au moins deux fois par an à l'initiative de son président, qui fixe l'ordre du jour. Il est également convoqué par son président à la demande du quart au moins de ses membres pour examiner les questions dont ils ont demandé l'inscription à l'ordre du jour.
 
-Le secrétaire général du Centre national du livre, le membre du corps du contrôle général économique et financier ou son représentant, l'agent comptable et l'adjoint au      directeur général des médias et des industries culturelles au ministère chargé de la culture assistent au conseil d'administration avec voix consultative.
+Le directeur général de l'établissement, l'autorité chargée du contrôle financier ou son représentant ainsi que l'agent comptable assistent aux séances avec voix consultative.
 
 Le président peut appeler à participer aux séances du conseil d'administration avec voix consultative toute personne dont il juge la présence utile.
 
