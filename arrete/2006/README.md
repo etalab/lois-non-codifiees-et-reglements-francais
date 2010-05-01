@@ -297,6 +297,7 @@
 - [Arrêté du 28 juillet 2006 (EQUS0601635A)](arrete-du-28-juillet-2006-equs0601635a)
 - [Arrêté du 28 juillet 2006 (INTC0600741A)](arrete-du-28-juillet-2006-intc0600741a)
 - [Arrêté du 28 juin 2006 (SOCF0611404A)](arrete-du-28-juin-2006-socf0611404a)
+- [Arrêté du 28 mars 2006 (AGRS0600592A)](arrete-du-28-mars-2006-agrs0600592a)
 - [Arrêté du 28 septembre 2006 (MENE0601958A)](arrete-du-28-septembre-2006-mene0601958a)
 - [Arrêté du 29 décembre 2005 (BUDB0510048A)](arrete-du-29-decembre-2005-budb0510048a)
 - [Arrêté du 29 décembre 2005 (BUDB0510056A)](arrete-du-29-decembre-2005-budb0510056a)

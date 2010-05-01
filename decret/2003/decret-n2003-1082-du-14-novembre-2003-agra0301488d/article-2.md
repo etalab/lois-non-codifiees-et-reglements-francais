@@ -18,7 +18,7 @@ Elle met en oeuvre les mesures de gestion des milieux naturels, des milieux aqua
 
 Elle met en oeuvre dans le département la politique de prévention contre les incendies de forêt. Elle contribue à la connaissance, à la prévention et à la réduction des autres risques naturels.
 
-d) Elle met en oeuvre, en liaison avec le directeur régional de l'agriculture et de la forêt, des mesures de protection des végétaux et des opérations de contrôle et de surveillance biologique du territoire.
+d) Elle met en oeuvre, en liaison avec le         directeur régional de l'alimentation, de l'agriculture et de la forêt , des mesures de protection des végétaux et des opérations de contrôle et de surveillance biologique du territoire.
 
 Elle contribue à la promotion des pratiques agricoles favorables au développement et à la qualité des productions végétales tout en préservant l'environnement.
 

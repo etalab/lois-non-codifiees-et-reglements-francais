@@ -18,7 +18,7 @@ Agents du corps des ingénieurs des ponts, des eaux et des forêts nommés dans 
 
 Agents des corps des ingénieurs des travaux ruraux, des ingénieurs des travaux des eaux et forêts et des ingénieurs des travaux agricoles nommés dans un emploi de chef de mission.
 
-Directeurs régionaux de l'agriculture et de la forêt.
+Directeurs régionaux de l'alimentation, de l'agriculture et de la forêt.
 
 Directeurs départementaux de l'agriculture et de la forêt.
 

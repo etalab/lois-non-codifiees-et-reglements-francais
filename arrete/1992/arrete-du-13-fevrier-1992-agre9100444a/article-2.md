@@ -2,7 +2,7 @@
 
 Sont signataires de la convention :
 
-1. L'Etat, représenté par le directeur régional de l'agriculture et de la forêt, en collaboration avec le directeur régional de l'action culturelle ;
+1.L'Etat, représenté par le         directeur régional de l'alimentation, de l'agriculture et de la forêt , en collaboration avec le directeur régional de l'action culturelle ;
 
 2. La personne morale ;
 

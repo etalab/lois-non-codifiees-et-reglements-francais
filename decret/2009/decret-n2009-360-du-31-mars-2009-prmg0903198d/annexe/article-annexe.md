@@ -11,3 +11,5 @@
 -Décret n° 2009-235 du 27 février 2009 relatif à l'organisation et aux missions des directions régionales de l'environnement, de l'aménagement et du logement.
 
 -Décret n° 2010-130 du 11 février 2010 relatif à l'organisation et aux missions des directions interrégionales de la mer.
+
+-Décret n° 2010-429 du 29 avril 2010 relatif à l'organisation et aux missions des directions régionales de l'alimentation, de l'agriculture et de la forêt

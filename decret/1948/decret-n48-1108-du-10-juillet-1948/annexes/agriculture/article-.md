@@ -96,7 +96,7 @@
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Directeur régional de l'agriculture et de la forêt </p>
+<p>Directeur régional de l'alimentation, de l'agriculture et de la forêt</p>
 </td>
 <td valign="top" width="113">
 <p align="center">966-HEB </p>

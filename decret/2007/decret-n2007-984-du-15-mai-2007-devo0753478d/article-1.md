@@ -16,7 +16,7 @@ II.-1° Le directeur régional de l'environnement de Midi-Pyrénées, délégué
 
 5° Le directeur régional de l'environnement, de l'aménagement et du logement de Midi-Pyrénées ;
 
-6° Le directeur régional de l'agriculture et de la forêt de Midi-Pyrénées et l'ingénieur général chargé du bassin Adour-Garonne auprès du ministre chargé de l'agriculture ;
+6° Le directeur régional de l'alimentation, de l'agriculture et de la forêt de Midi-Pyrénées et l'ingénieur général chargé du bassin Adour-Garonne auprès du ministre chargé de l'agriculture ;
 
 7° Le trésorier-payeur général de la région Midi-Pyrénées ;
 
@@ -24,7 +24,7 @@ II.-1° Le directeur régional de l'environnement de Midi-Pyrénées, délégué
 
 9° Le directeur régional de l'environnement, de l'aménagement et du logement de Midi-Pyrénées ;
 
-10° Le    directeur interrégional de la mer de Gironde ;
+10° Le directeur interrégional de la mer de Gironde ;
 
 11° Le délégué régional au tourisme de Midi-Pyrénées ;
 
@@ -44,7 +44,7 @@ II.-1° Le directeur régional de l'environnement de Nord-Pas-de-Calais, délég
 
 4° Le directeur régional de l'environnement, de l'aménagement et du logement de Nord-Pas-de-Calais ;
 
-5° Le directeur régional de l'agriculture et de la forêt de Nord-Pas-de-Calais ou l'ingénieur général chargé du bassin Artois-Picardie auprès du ministre chargé de l'agriculture ;
+5° Le directeur régional de l'alimentation, de l'agriculture et de la forêt de Nord-Pas-de-Calais ou l'ingénieur général chargé du bassin Artois-Picardie auprès du ministre chargé de l'agriculture ;
 
 6° Le trésorier-payeur général de la région Nord-Pas-de-Calais ;
 
@@ -74,7 +74,7 @@ II.-1° Le directeur régional de l'environnement du Centre, délégué de bassi
 
 5° Les directeurs régionaux de l'environnement, de l'aménagement et du logement du Centre et de Bretagne ;
 
-6° Les directeurs régionaux de l'agriculture et de la forêt du Centre et de Poitou-Charentes ou l'ingénieur général chargé du bassin Loire-Bretagne auprès du ministre chargé de l'agriculture ;
+6° Les         directeurs régionaux de l'alimentation, de l'agriculture et de la forêt du Centre et de Poitou-Charentes ou l'ingénieur général chargé du bassin Loire-Bretagne auprès du ministre chargé de l'agriculture ;
 
 7° Le trésorier-payeur général de la région Centre ;
 
@@ -82,7 +82,7 @@ II.-1° Le directeur régional de l'environnement du Centre, délégué de bassi
 
 9° Les directeurs régionaux de l'environnement, de l'aménagement et du logement du Centre et de Bretagne ;
 
-10° Le    directeur interrégional de la mer de Bretagne ;
+10° Le directeur interrégional de la mer de Bretagne ;
 
 11° Le délégué régional au tourisme du Centre ;
 
@@ -104,7 +104,7 @@ II.-1° Le directeur régional de l'environnement de Lorraine, délégué de bas
 
 5° Le directeur régional de l'environnement, de l'aménagement et du logement de Lorraine ;
 
-6° Le directeur régional de l'agriculture et de la forêt de Lorraine ou l'ingénieur général chargé du bassin Rhin-Meuse auprès du ministre chargé de l'agriculture ;
+6° Le directeur régional de l'alimentation, de l'agriculture et de la forêt de Lorraine ou l'ingénieur général chargé du bassin Rhin-Meuse auprès du ministre chargé de l'agriculture ;
 
 7° Le trésorier-payeur général de la région Lorraine ;
 
@@ -136,7 +136,7 @@ II.-1° Le directeur régional de l'environnement de Rhône-Alpes, délégué de
 
 5° Les directeurs régionaux de l'environnement, de l'aménagement et du logement de Rhône-Alpes et de Franche-Comté ;
 
-6° Le directeur régional de l'agriculture et de la forêt de Rhône-Alpes ou l'ingénieur général chargé du bassin Rhône-Méditerranée auprès du ministre chargé de l'agriculture ;
+6° Le directeur régional de l'alimentation, de l'agriculture et de la forêt de Rhône-Alpes ou l'ingénieur général chargé du bassin Rhône-Méditerranée auprès du ministre chargé de l'agriculture ;
 
 7° Le trésorier-payeur général de la région Rhône-Alpes ;
 
@@ -144,7 +144,7 @@ II.-1° Le directeur régional de l'environnement de Rhône-Alpes, délégué de
 
 9° Le directeur régional de l'environnement, de l'aménagement et du logement de Rhône-Alpes, du Languedoc-Roussillon et de Provence-Alpes-Côte d'Azur ;
 
-10° Le    directeur interrégional de la mer de Provence-Alpes-Côte d'Azur ;
+10° Le directeur interrégional de la mer de Provence-Alpes-Côte d'Azur ;
 
 11° Le délégué régional au tourisme de Provence-Alpes-Côte d'Azur ;
 
@@ -170,7 +170,7 @@ II.-1° Le directeur régional de l'environnement d'Ile-de-France, délégué de
 
 5° Les directeurs régionaux de l'environnement, de l'aménagement et du logement d'Ile-de-France et de Haute-Normandie ;
 
-6° Le directeur régional de l'agriculture et de la forêt d'Ile-de-France et l'ingénieur général chargé du bassin Seine-Normandie auprès du ministre chargé de l'agriculture ;
+6° Le directeur régional de l'alimentation, de l'agriculture et de la forêt d'Ile-de-France et l'ingénieur général chargé du bassin Seine-Normandie auprès du ministre chargé de l'agriculture ;
 
 7° Le receveur général des finances, trésorier-payeur général de la région Ile-de-France ;
 
@@ -178,7 +178,7 @@ II.-1° Le directeur régional de l'environnement d'Ile-de-France, délégué de
 
 9° Les directeurs régionaux de l'environnement, de l'aménagement et du logement d'Ile-de-France et de Haute-Normandie ;
 
-10° Le    directeur interrégional de la mer de Haute-Normandie ;
+10° Le directeur interrégional de la mer de Haute-Normandie ;
 
 11° Le délégué régional au tourisme de la région Ile-de-France ;
 

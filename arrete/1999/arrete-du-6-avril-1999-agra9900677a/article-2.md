@@ -46,7 +46,7 @@ Elle comprend :
 
 -un représentant des contrôleurs généraux des services vétérinaires chargés de mission d'inspection permanente interrégionale ;
 
--un représentant des directeurs régionaux de l'agriculture et de la forêt ;
+-un représentant des         directeurs régionaux de l'alimentation, de l'agriculture et de la forêt ;
 
 -un représentant des directeurs départementaux de l'agriculture et de la forêt ;
 

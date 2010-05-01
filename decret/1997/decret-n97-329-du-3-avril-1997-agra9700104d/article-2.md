@@ -1,8 +1,8 @@
 # Article 2
 
-I. - La délégation de pouvoirs est consentie aux directeurs régionaux de l'agriculture et de la forêt ou, lorsqu'il s'agit de personnels en service dans les départements d'outre-mer, aux directeurs de l'agriculture et de la forêt.
+I.-La délégation de pouvoirs est consentie aux         directeurs régionaux de l'alimentation, de l'agriculture et de la forêt ou, lorsqu'il s'agit de personnels en service dans les départements d'outre-mer, aux directeurs de l'agriculture et de la forêt.
 
-II. - Sont exclus de la délégation de pouvoirs les actes suivants :
+II.-Sont exclus de la délégation de pouvoirs les actes suivants :
 
 1° Décision d'ouverture des concours ;
 

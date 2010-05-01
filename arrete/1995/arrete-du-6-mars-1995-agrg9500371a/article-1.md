@@ -20,9 +20,9 @@ Le chef du bureau Réglementation des produits antiparasitaires et des matières
 
 Le sous-directeur de la formation professionnelle continue, de l'apprentissage, du développement, de l'animation rurale et de la coopération internationale.
 
-Le directeur régional de l'agriculture et de la forêt Ile-de-France.
+Le         directeur régional de l'alimentation, de l'agriculture et de la forêt  Ile-de-France.
 
-Le directeur régional de l'agriculture et de la forêt Centre.
+Le         directeur régional de l'alimentation, de l'agriculture et de la forêt  Centre.
 
 Le chef du service régional de la protection des végétaux Ile-de-France.
 
@@ -50,7 +50,7 @@ Ministère chargé de l'économie.
 
 Le directeur général de la concurrence, de la consommation et de la répression des fraudes.
 
-Ministère chargé des entreprises et du développement économique.    Le sous-directeur des activités et de la réglementation commerciales à la direction du commerce intérieur.
+Ministère chargé des entreprises et du développement économique. Le sous-directeur des activités et de la réglementation commerciales à la direction du commerce intérieur.
 
 Ministère chargé de l'industrie.
 
@@ -70,7 +70,7 @@ Le président de la Fédération du négoce agricole (F.N.A.)
 
 Le président de la chambre syndicale nationale de la distribution en gros des engrais, matières premières et des produits utiles à la protection des végétaux.
 
-Le président de la Fédération française des coopératives agricoles de collecte d'approvisionnement et de transformation (F.F.C.A.T.).    Le président de la Fédération nationale des distributeurs spécialistes jardin (F.N.D.S.J.).
+Le président de la Fédération française des coopératives agricoles de collecte d'approvisionnement et de transformation (F.F.C.A.T.). Le président de la Fédération nationale des distributeurs spécialistes jardin (F.N.D.S.J.).
 
 Au titre de l'application.
 

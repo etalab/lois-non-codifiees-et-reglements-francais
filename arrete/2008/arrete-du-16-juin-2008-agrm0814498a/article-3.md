@@ -18,7 +18,7 @@ Les destinataires de ces informations sont :
 
 ― au titre du ministère de l'écologie, de l'énergie, du développement durable et de l'aménagement du territoire, les agents et personnels de la direction des affaires maritimes, des directions départementales des affaires maritimes et des centres régionaux opérationnels de surveillance et de sauvetage (CROSS) référents en matière de contrôle des pêches ;
 
-― au titre du ministère de l'agriculture et de la pêche, les agents de la direction des pêches maritimes et de l'aquaculture ainsi que de la direction générale de l'alimentation, ceux des directions régionales de l'agriculture et de la forêt et des directions départementales des services vétérinaires ;
+― au titre du ministère de l'agriculture et de la pêche, les agents de la direction des pêches maritimes et de l'aquaculture ainsi que de la direction générale de l'alimentation, ceux des         directions régionales de l'alimentation, de l'agriculture et de la forêt et des directions départementales des services vétérinaires ;
 
 ― au titre du ministère de l'économie, de l'industrie et de l'emploi, les agents de la direction générale des douanes et des droits indirects ainsi que de la direction générale de la concurrence, de la consommation et de la répression des fraudes, ceux des directions régionales et interrégionales des douanes et des droits indirects, des directions régionales et départementales de la concurrence, de la consommation et de la répression des fraudes ;
 
@@ -30,4 +30,4 @@ Les destinataires de ces informations sont :
 
 ― les fonctionnaires de la Commission européenne ;
 
-― les inspecteurs communautaires au sens du règlement (CE) n° 1042/2007 de la Commission du 7 juillet 2006.
+― les inspecteurs communautaires au sens du règlement (CE) n° 1042 / 2007 de la Commission du 7 juillet 2006.

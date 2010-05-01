@@ -1,14 +1,14 @@
 # Article 3
 
-Les critères qualitatifs applicables au fromage "Sainte-Maure de Touraine" comprennent notamment les éléments d'appréciation portant sur la forme et la tenue, sur la croûte, sur la texture de la pâte et le goût. Le barème de cotation ainsi que les modalités de prélèvement et de contrôle sont définis par le règlement intérieur de la commission de contrôle ci-après, sur avis conforme du Comité national des appellations d'origine des fromages.
+Les critères qualitatifs applicables au fromage " Sainte-Maure de Touraine " comprennent notamment les éléments d'appréciation portant sur la forme et la tenue, sur la croûte, sur la texture de la pâte et le goût. Le barème de cotation ainsi que les modalités de prélèvement et de contrôle sont définis par le règlement intérieur de la commission de contrôle ci-après, sur avis conforme du Comité national des appellations d'origine des fromages.
 
-Le contrôle de la qualité des fromages bénéficiant de l'appellation d'origine "Sainte-Maure de Touraine" est exercée par une commission de contrôle ainsi composée :
+Le contrôle de la qualité des fromages bénéficiant de l'appellation d'origine " Sainte-Maure de Touraine " est exercée par une commission de contrôle ainsi composée :
 
 le chef du service régional de la direction générale de la concurrence, de la consommation et de la répression des fraudes ou son représentant ;
 
-le directeur régional de l'agriculture et de la forêt de la région centre ou son représentant ;
+le         directeur régional de l'alimentation, de l'agriculture et de la forêt  de la région centre ou son représentant ;
 
-un représentant des services vétérinaires de la région Centre désigné par le directeur régional de l'agriculture et de la forêt ;
+un représentant des services vétérinaires de la région Centre désigné par le         directeur régional de l'alimentation, de l'agriculture et de la forêt  ;
 
 quatre professionnels désignés par l'organisme interprofessionnel agréé par le Comité national des appellations d'origine des fromages, chargé spécialement de la défense de l'appellation d'origine, et comprenant :
 

@@ -24,4 +24,4 @@ L'ingénieur général du génie rural, des eaux et des forêts, chargé du bass
 
 Suppléant :
 
-Le directeur régional de l'agriculture et de la forêt de la région Lorraine.
+Le         directeur régional de l'alimentation, de l'agriculture et de la forêt  de la région Lorraine.

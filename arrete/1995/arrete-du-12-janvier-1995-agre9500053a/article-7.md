@@ -1,6 +1,6 @@
 # Article 7
 
-Le jury présidé par un fonctionnaire de catégorie A, membre de l'enseignement agricole public, est désigné par le directeur régional de l'agriculture et de la forêt.
+Le jury présidé par un fonctionnaire de catégorie A, membre de l'enseignement agricole public, est désigné par le         directeur régional de l'alimentation, de l'agriculture et de la forêt .
 
 Il est composé pour moitié au moins d'enseignants d'établissements agricoles publics ou privés sous contrat et pour moitié, au maximum, d'employeurs et de salariés des professions concernées. Lorsque le certificat de spécialisation prépare à des emplois salariés, les représentants des employeurs et des salariés sont en nombre égal.
 

@@ -34,7 +34,7 @@ Au ministère de l'agriculture et de la pêche :
 
 -le service central d'enquêtes et d'études statistiques ;
 
--les services à compétence spécialisée dans les activités statistiques des directions régionales de l'agriculture et de la forêt ;
+-les services à compétence spécialisée dans les activités statistiques des         directions régionales de l'alimentation, de l'agriculture et de la forêt ;
 
 -le bureau central des statistiques de la direction des pêches maritimes et de l'aquaculture.
 
@@ -86,7 +86,7 @@ Au ministère des affaires étrangères et européennes :
 
 Au ministère de l'économie, des finances et de l'emploi :
 
--les services des politiques macroéconomiques et des affaires européennes, et des politiques publiques de la        direction générale du Trésor ;
+-les services des politiques macroéconomiques et des affaires européennes, et des politiques publiques de la direction générale du Trésor ;
 
 -les unités statistiques ou d'études des directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l'emploi.
 

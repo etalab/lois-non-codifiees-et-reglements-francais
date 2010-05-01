@@ -8,7 +8,7 @@ Le chef du service des nouvelles du marché et le chef du service central des é
 
 Le chef du service de l'inspection générale de l'agriculture, le vice-président du Conseil général du génie rural, des eaux et des forêts, le vice-président du Conseil général vétérinaire et le doyen de l'inspection de l'enseignement agricole ;
 
-Les directeurs régionaux de l'agriculture et de la forêt ;
+Les         directeurs régionaux de l'alimentation, de l'agriculture et de la forêt ;
 
 Les directeurs départementaux de l'agriculture et de la forêt et les directeurs de l'agriculture et de la forêt ;
 

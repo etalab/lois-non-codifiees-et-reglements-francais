@@ -24,7 +24,7 @@ b) Et, le cas échéant, lorsque les produits concernés sont destinés à une p
 
 III.-Après examen du dossier technique par l'organisme officiel du point de destination et sur sa proposition, le préfet délivre un agrément initial ou une reconduction d'agrément pour une durée maximale de 1 an ou 3 ans respectivement, par arrêté préfectoral, pour le lieu proposé comme lieu d'inspection agréé. Le refus d'agrément est motivé. L'arrêté préfectoral doit être soumis, dans la quinzaine, à l'approbation du ministre chargé de l'agriculture et du ministre chargé des douanes.
 
-IV.-L'importateur ou la personne responsable du lieu d'inspection agréé est tenu de notifier immédiatement au directeur régional de l'agriculture et de la forêt ou au directeur de l'agriculture et de la forêt pour les départements d'outre-mer dont il relève :
+IV.-L'importateur ou la personne responsable du lieu d'inspection agréé est tenu de notifier immédiatement au directeur régional de l'alimentation de l'agriculture et de la forêt ou au directeur de l'agriculture et de la forêt pour les départements d'outre-mer dont il relève :
 
 1° Toute contamination des végétaux, produits végétaux et autres objets par des organismes nuisibles ou la présence de végétaux visés à l'article D. 251-2 ;
 

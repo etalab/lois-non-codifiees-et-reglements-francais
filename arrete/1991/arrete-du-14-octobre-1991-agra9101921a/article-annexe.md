@@ -22,7 +22,7 @@ Attribution de la nouvelle bonification indiciaire dans les services déconcentr
 </tr>
 <tr>
 <td valign="top" width="387">
-<p>Chef de service d'administration générale dans les directions régionales de l'agriculture et de la forêt </p>
+<p>Chef de service d'administration générale dans les         directions régionales de l'alimentation, de l'agriculture et de la forêt </p>
 </td>
 <td valign="top" width="74">
 <p align="center">A </p>

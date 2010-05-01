@@ -6,4 +6,4 @@ Une zone géographique appelée périmètre de lutte est alors définie. Elle in
 
 Le statut des cantons contaminés et des cantons limitrophes peut être réévalué chaque année.
 
-Lorsque les observations réalisées pour un canton contaminé, selon les modalités définies par la direction régionale de l'agriculture et de la forêt (service régional de la protection des végétaux), montrent l'absence de symptômes pendant au moins une campagne de production, le canton concerné peut être retiré de la liste des cantons contaminés. Il peut cependant être maintenu dans le périmètre de lutte, en qualité de canton susceptible d'être contaminé.
+Lorsque les observations réalisées pour un canton contaminé, selon les modalités définies par la         direction régionale de l'alimentation, de l'agriculture et de la forêt (service régional de la protection des végétaux), montrent l'absence de symptômes pendant au moins une campagne de production, le canton concerné peut être retiré de la liste des cantons contaminés. Il peut cependant être maintenu dans le périmètre de lutte, en qualité de canton susceptible d'être contaminé.

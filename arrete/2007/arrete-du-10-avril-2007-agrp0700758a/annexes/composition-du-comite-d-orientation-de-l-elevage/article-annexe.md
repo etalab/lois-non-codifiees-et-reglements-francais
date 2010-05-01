@@ -26,7 +26,7 @@ Participent, à titre consultatif, aux réunions du comité :
 
 -les représentants des opérateurs commerciaux, des marchés aux bestiaux, des abattoirs publics et privés et des établissements d'équarrissage, opérant dans la circonscription, lorsque le comité de l'élevage traite des missions d'identification fixées à l'article L. 212-7 ;
 
--un représentant de l'enseignement technique agricole, désigné par le directeur régional de l'agriculture et de la forêt ;
+-un représentant de l'enseignement technique agricole, désigné par le         directeur régional de l'alimentation, de l'agriculture et de la forêt  ;
 
 -le responsable administratif de l'établissement de l'élevage ;
 

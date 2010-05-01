@@ -1,8 +1,8 @@
 # Article 1
 
-Les         ingénieurs des ponts, des eaux et des forêts  régis par le décret n° 2002-261 du 22 février 2002 susvisé peuvent porter l'uniforme :
+Les ingénieurs des ponts, des eaux et des forêts régis par le décret n° 2002-261 du 22 février 2002 susvisé peuvent porter l'uniforme :
 
-― dans l'exercice des fonctions de directeur régional de l'agriculture et de la forêt lorsqu'ils assistent le ministère public dans l'enceinte des tribunaux ;
+― dans l'exercice des fonctions de directeur régional de l'alimentation de l'agriculture et de la forêt lorsqu'ils assistent le ministère public dans l'enceinte des tribunaux ;
 
 ― dans l'exercice de leurs fonctions dans les établissements publics employant des agents portant l'uniforme ;
 

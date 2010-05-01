@@ -2,7 +2,7 @@
 
 Demande d'autorisation technique d'importation.
 
-A adresser à la direction régionale de l'agriculture et de la forêt (service régional de la protection des végétaux) concernée par l'importation.
+A adresser à la         direction régionale de l'alimentation, de l'agriculture et de la forêt (service régional de la protection des végétaux) concernée par l'importation.
 
 M. demande à Monsieur le ministre de l'agriculture et de la forêt (service de la protection des végétaux) l'autorisation d'importer en France les végétaux décrits ci-dessous :
 
@@ -38,7 +38,7 @@ Etat sanitaire (2).
 
 Si oui, préciser les organismes nuisibles concernés.
 
-3. S'il s'agit de matériel de multiplication issu d'une pépinière : modalités de protection contre le feu bactérien.
+3.S'il s'agit de matériel de multiplication issu d'une pépinière : modalités de protection contre le feu bactérien.
 
 La région de production fait-elle l'objet d'une surveillance phytosanitaire particulière ?
 
@@ -46,7 +46,7 @@ La pépinière et les parcelles font-elles l'objet d'un agrément officiel ?
 
 Autres informations :
 
-M. ..... s'engage à respecter les différentes mesures qui lui seront indiquées par le service de la protection des végétaux.
+M...... s'engage à respecter les différentes mesures qui lui seront indiquées par le service de la protection des végétaux.
 
 (1) Rayer la mention inutile ou mettre une croix dans la case correspondante.
 

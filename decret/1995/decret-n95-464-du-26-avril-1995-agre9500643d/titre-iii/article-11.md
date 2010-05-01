@@ -4,6 +4,6 @@ Le diplôme est délivré à la suite d'un examen public, organisé sous la form
 
 La liste, la nature et la durée des épreuves sont définies par arrêté du ministre chargé de l'agriculture.
 
-L'examen conduisant à la délivrance du certificat d'aptitude professionnelle agricole est organisé dans le cadre régional ou interrégional sous l'autorité du directeur régional de l'agriculture et de la forêt, en une session annuelle, selon des modalités fixées par le ministre chargé de l'agriculture.
+L'examen conduisant à la délivrance du certificat d'aptitude professionnelle agricole est organisé dans le cadre régional ou interrégional sous l'autorité du         directeur régional de l'alimentation, de l'agriculture et de la forêt , en une session annuelle, selon des modalités fixées par le ministre chargé de l'agriculture.
 
-Cependant, des épreuves terminales de remplacement peuvent être organisées à l'intention des candidats régulièrement inscrits à la session normale et empêchés de s'y présenter, soit pour raison de santé dûment constatée, soit pour obligations militaires dûment certifiées, soit pour cause de force majeure laissée à l'appréciation du directeur régional de l'agriculture et de la forêt.
+Cependant, des épreuves terminales de remplacement peuvent être organisées à l'intention des candidats régulièrement inscrits à la session normale et empêchés de s'y présenter, soit pour raison de santé dûment constatée, soit pour obligations militaires dûment certifiées, soit pour cause de force majeure laissée à l'appréciation du         directeur régional de l'alimentation, de l'agriculture et de la forêt .

@@ -30,7 +30,7 @@ I.-L'indice nouveau majoré à retenir est celui afférent à l'indice brut 1015
 
 -directeur adjoint, sous-directeur et directeur de projet d'administration centrale ;
 
--directeur régional de l'agriculture et de la forêt ;
+-directeur régional de l'alimentation , de l'agriculture et de la forêt ;
 
 -directeur départemental et directeur de l'agriculture et de la forêt ;
 

@@ -4,7 +4,7 @@ TABLEAU I.A
 
 Fonctions exercées dans les services déconcentrées du ministère de l'agriculture et de la pêche pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire :
 
-1. Chef de service d'administration générale dans les directions régionales de l'agriculture et de la forêt ;
+1. Chef de service d'administration générale dans les         directions régionales de l'alimentation, de l'agriculture et de la forêt ;
 
 2. Chef du service d'administration générale commun aux directions départementales de l'agriculture et de la forêt et aux directions départementales des services vétérinaires ou commun aux directions de l'agriculture et de la forêt et aux directions des services vétérinaires dans les départements d'outre-mer ou du service d'administration générale de la direction du service d'Etat de l'agriculture, de la forêt et de la pêche à Mayotte ;
 

@@ -6,6 +6,6 @@ Ont également accès aux informations enregistrées les agents des organismes c
 
 Peuvent avoir également accès aux informations enregistrées :
 
-- les agents de la direction régionale de l'agriculture et de la forêt de la région à laquelle appartient chaque direction concernée référencée à l'article 1er ;
+-les agents de la         direction régionale de l'alimentation, de l'agriculture et de la forêt de la région à laquelle appartient chaque direction concernée référencée à l'article 1er ;
 
-- les agents des établissements publics sous tutelle du ministère chargé de l'agriculture dans l'exercice de missions de service public, dans le cadre des procédures référencées à l'article 1er impliquant leur intervention et dans la limite des droits liés à leurs attributions réglementaires dans ces procédures, et moyennant le respect de la réglementation s'appliquant à l'utilisation des données.
+-les agents des établissements publics sous tutelle du ministère chargé de l'agriculture dans l'exercice de missions de service public, dans le cadre des procédures référencées à l'article 1er impliquant leur intervention et dans la limite des droits liés à leurs attributions réglementaires dans ces procédures, et moyennant le respect de la réglementation s'appliquant à l'utilisation des données.

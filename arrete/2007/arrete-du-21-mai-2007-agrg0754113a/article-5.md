@@ -14,7 +14,7 @@ Il comprend en outre :
 
 4° Le directeur du Laboratoire national de la protection des végétaux ;
 
-5° Un représentant des directeurs régionaux de l'agriculture et de la forêt, désigné par le chef du groupement des directeurs régionaux de l'agriculture et de la forêt.
+5° Un représentant des         directeurs régionaux de l'alimentation, de l'agriculture et de la forêt, désigné par le chef du groupement des         directeurs régionaux de l'alimentation, de l'agriculture et de la forêt.
 
 Le mandat des membres mentionnés aux 3° et 5° ci-dessus est de trois ans. Il est renouvelable une fois. En cas de décès, de démission ou d'empêchement d'un membre, un remplaçant est désigné pour la durée du mandat restant à courir.
 

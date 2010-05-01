@@ -96,7 +96,7 @@ COEFFICIENTS D'AFFECTATION
 </tr>
 <tr>
 <td valign="top" width="333">
-<p>Directions régionales de l'agriculture et de la forêt placées sous autorité commune avec une direction départementale de l'agriculture et de la forêt (Alsace, Corse, Haute-Normandie, Nord-Pas-de-Calais).</p>
+<p>Directions régionales de l'alimentation, de l'agriculture et de la forêt placées sous autorité commune avec une direction départementale de l'agriculture et de la forêt (Alsace, Corse, Haute-Normandie, Nord-Pas-de-Calais).</p>
 </td>
 </tr>
 <tr>
@@ -118,7 +118,7 @@ COEFFICIENTS D'AFFECTATION
 <p align="center">F </p>
 </td>
 <td valign="top" width="333">
-<p>Directions régionales de l'agriculture et de la forêt. </p>
+<p>Directions régionales de l'alimentation, de l'agriculture et de la forêt</p>
 </td>
 <td colspan="3" rowspan="2" width="222">
 <p align="center">0, 97 </p>
@@ -234,7 +234,7 @@ COEFFICIENT DE GRADE ET COEFFICIENT SPECIFIQUE DES AGENTS MENTIONNES A L'ANNEXE 
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Ingénieur général des ponts, des eaux et des forêts au 1er échelon, directeur régional de l'agriculture et de la forêt </p>
+<p>Ingénieur général des ponts, des eaux et des forêts au 1er échelon, directeur régional de l'alimentation de l'agriculture et de la forêt </p>
 </td>
 <td valign="top" width="76">
 <p align="center">3, 23 </p>

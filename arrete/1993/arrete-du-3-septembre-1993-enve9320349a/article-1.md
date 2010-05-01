@@ -10,7 +10,7 @@ L'intérieur
 
 Titulaire :
 
-Le secrétaire général pour les affaires régionales de la région Nord - Pas-de-Calais.
+Le secrétaire général pour les affaires régionales de la région Nord-Pas-de-Calais.
 
 Suppléant :
 
@@ -24,4 +24,4 @@ L'ingénieur général du génie rural, des eaux et des forêts, chargé du bass
 
 Suppléant :
 
-Le directeur régional de l'agriculture et de la forêt de la région Nord - Pas-de-Calais.
+Le         directeur régional de l'alimentation, de l'agriculture et de la forêt  de la région Nord-Pas-de-Calais.

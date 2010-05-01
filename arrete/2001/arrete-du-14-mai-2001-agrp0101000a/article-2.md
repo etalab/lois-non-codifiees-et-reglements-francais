@@ -14,7 +14,7 @@ Le chef du service des nouvelles du marché ou son représentant ;
 
 Le chef du service central des enquêtes et des études statistiques ou son représentant ;
 
-Le directeur régional de l'agriculture et de la forêt ou son représentant ;
+Le         directeur régional de l'alimentation, de l'agriculture et de la forêt  ou son représentant ;
 
 Le directeur de l'Office national interprofessionnel des viandes, de l'élevage et de l'aviculture (OFIVAL) ou son représentant ;
 

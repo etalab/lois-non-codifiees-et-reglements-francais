@@ -4,7 +4,7 @@ En application de l'article 2 du décret du 4 janvier 2006 susvisé, la liste de
 
 **I.-Dans les services du ministère de l'agriculture et de la pêche**
 
-**a) En administration centrale :**
+**a) En administration centrale** :
 
 -chef de section au bureau du cabinet ;
 
@@ -62,7 +62,7 @@ En application de l'article 2 du décret du 4 janvier 2006 susvisé, la liste de
 
 -chef de la mission du droit des usagers et de la coordination des procédures juridiques communautaires au service des affaires juridiques du secrétariat général (ajouté à compter du 20 avril 2009) ;
 
-**b) Dans les services déconcentrés**:
+**b) Dans les services déconcentrés** :
 
 -secrétaire général de la direction départementale de l'agriculture et de la forêt et de la direction départementale des services vétérinaires de l'Ain ;
 
@@ -254,65 +254,69 @@ En application de l'article 2 du décret du 4 janvier 2006 susvisé, la liste de
 
 -secrétaire général de la direction de l'agriculture et de la forêt et de la direction des services vétérinaires de Mayotte ;
 
--chef du service forêt et bois à la direction régionale de l'agriculture et de la forêt d'Aquitaine ;
+-chef du service forêt et bois à la direction régionale de l'alimentation, de l'agriculture et de la forêt d'Aquitaine ;
 
 - contrôleur de gestion à la direction régionale de l'alimentation, de l'agriculture et de la pêche d'Aquitaine (ajouté à compter du 1er juillet 2009) ;
 
--chef du service régional d'information statistique et économique à la direction régionale de l'agriculture et de la forêt d'Auvergne ;
+-chef du service régional d'information statistique et économique à la direction régionale de l'alimentation, de l'agriculture et de la forêt d'Auvergne ;
 
--secrétaire général de la direction régionale de l'agriculture et de la forêt de Bretagne, de la direction départementale de l'agriculture et de la forêt d'Ille-et-Vilaine et de la direction départementale des services vétérinaires d'Ille-et-Vilaine ;
+-secrétaire général de la direction régionale de l'alimentation, de l'agriculture et de la forêt de Bretagne, de la direction départementale de l'agriculture et de la forêt d'Ille-et-Vilaine et de la direction départementale des services vétérinaires d'Ille-et-Vilaine ;
 
--secrétaire général de la direction régionale de l'agriculture et de la forêt de Champagne-Ardenne, de la direction départementale de l'agriculture et de la forêt de la Marne et de la direction départementale des services vétérinaires de la Marne ;
+-secrétaire général de la direction régionale de l'alimentation, de l'agriculture et de la forêt de Champagne-Ardenne, de la direction départementale de l'agriculture et de la forêt de la Marne et de la direction départementale des services vétérinaires de la Marne ;
 
 -chef du service régional d'information statistique et économique à la direction régionale et de l'agriculture et de la forêt Champagne-Ardenne ;
 
 - directeur service FranceAgriMer à la direction régionale de l'alimentation, de l'agriculture et de la forêt de la Corse (ajouté à compter du 1er janvier 2010) ;
 
--secrétaire général de la direction régionale de l'agriculture et de la forêt de Franche-Comté, de la direction départementale de l'agriculture et de la forêt du Doubs et de la direction départementale des services vétérinaires du Doubs ;
+-secrétaire général de la direction régionale de l'alimentation, de l'agriculture et de la forêt de Franche-Comté, de la direction départementale de l'agriculture et de la forêt du Doubs et de la direction départementale des services vétérinaires du Doubs ;
 
--chef du service régional d'information statistique et économique à la direction régionale de l'agriculture et de la forêt de Franche-Comté ;
+-chef du service régional d'information statistique et économique à la direction régionale de l'alimentation, de l'agriculture et de la forêt de Franche-Comté ;
 
 -Chef du service régional de l'alimentation de la direction régionale de l'alimentation, de l'agriculture et de la forêt de Franche-Comté (ajouté à compter du 1er janvier 2009) ;
 
 - Chargé de mission régional assurance qualité au service régional de l'alimentation de la direction régionale de l'alimentation, de l'agriculture et de la forêt de Languedoc-Roussillon (à compter du 1er janvier 2009) ;
 
--délégué régional à la formation continue à la direction régionale de l'agriculture et de la forêt de Languedoc-Roussillon ;
+-délégué régional à la formation continue à la direction régionale de l'alimentation, de l'agriculture et de la forêt de Languedoc-Roussillon ;
 
 -secrétaire général de la direction régionale de l'alimentation, de l'agriculture et de la forêt de Languedoc-Roussillon (ajouté à compter du 1er janvier 2009) ;
 
 - chef du service du développement durable des espaces agricoles et forestiers de la direction régionale de l'alimentation, de l'agriculture et de la forêt du Limousin (ajouté à compter du 1er janvier 2010) ;
 
--chef du service régional de la formation et du développement à la direction régionale de l'agriculture et de la forêt de Lorraine ;
+-chef du service régional de la formation et du développement à la direction régionale de l'alimentation, de l'agriculture et de la forêt de Lorraine ;
 
--chef du service régional de la forêt et du bois à la direction régionale de l'agriculture et de la forêt de Midi-Pyrénées ; (ajouté à compter du 1er janvier 2008) ;
+-chef du service régional de la forêt et du bois à la direction régionale de l'alimentation, de l'agriculture et de la forêt de Midi-Pyrénées ; (ajouté à compter du 1er janvier 2008) ;
 
--secrétaire général de la direction régionale de l'agriculture et de la forêt de Nord-Pas-de-Calais, de la direction départementale de l'agriculture et de la forêt du Nord et de la direction départementale des services vétérinaires du Nord ;
+-secrétaire général de la direction régionale de l'alimentation, de l'agriculture et de la forêt de Nord-Pas-de-Calais, de la direction départementale de l'agriculture et de la forêt du Nord et de la direction départementale des services vétérinaires du Nord ;
 
--chef de service régional de l'économie agricole à la direction régionale de l'agriculture et de la forêt du Nord-Pas-de-Calais ;
+-chef de service régional de l'économie agricole à la direction régionale de l'alimentation, de l'agriculture et de la forêt du Nord-Pas-de-Calais ;
 
--secrétaire général de la direction régionale de l'agriculture et de la forêt de Basse-Normandie, de la direction départementale de l'agriculture et de la forêt du Calvados et de la direction départementale des services vétérinaires du Calvados ;
+-secrétaire général de la direction régionale de l'alimentation, de l'agriculture et de la forêt de Basse-Normandie, de la direction départementale de l'agriculture et de la forêt du Calvados et de la direction départementale des services vétérinaires du Calvados ;
 
 - responsable du centre de prestations comptables mutualisé à la direction régionale de l'alimentation, de l'agriculture et de la forêt de Basse-Normandie ;
 
--secrétaire général de la direction régionale de l'agriculture et de la forêt de Haute-Normandie, de la direction départementale de l'agriculture et de la forêt de la Seine-Maritime et de la direction départementale des services vétérinaires de la Seine-Maritime ;
+-secrétaire général de la direction régionale de l'alimentation, de l'agriculture et de la forêt de Haute-Normandie, de la direction départementale de l'agriculture et de la forêt de la Seine-Maritime et de la direction départementale des services vétérinaires de la Seine-Maritime ;
 
 - chef du service régional formation développement de la direction régionale de l'alimentation, de l'agriculture et de la forêt de Haute-Normandie (ajouté à compter du 1er janvier 2010) ;
 
--secrétaire général du laboratoire national de la protection des végétaux de la direction régionale de l'agriculture et de la forêt des Pays de la Loire ;
+-secrétaire général du laboratoire national de la protection des végétaux de la direction régionale de l'alimentation, de l'agriculture et de la forêt des Pays de la Loire ;
 
--secrétaire général de la direction régionale de l'agriculture et de la forêt des Pays de la Loire, de la direction départementale de l'agriculture et de la forêt de la Loire-Atlantique et de la direction départementale des services vétérinaires de la Loire-Atlantique ;
+-secrétaire général de la direction régionale de l'alimentation, de l'agriculture et de la forêt des Pays de la Loire, de la direction départementale de l'agriculture et de la forêt de la Loire-Atlantique et de la direction départementale des services vétérinaires de la Loire-Atlantique ;
 
 - chef de l'unité sites, paysages, impacts à la direction régionale de l'environnement, de l'aménagement et du logement de Provence-Alpes-Côte d'Azur (à compter du 1er septembre 2009) ;
 
--secrétaire général de la direction régionale de l'agriculture et de la forêt de Provence-Alpes-Côte d'Azur, de la direction départementale de l'agriculture et de la forêt des Bouches-du-Rhône et de la direction départementale des services vétérinaires des Bouches-du-Rhône ;
+-secrétaire général de la direction régionale de l'alimentation, de l'agriculture et de la forêt de Provence-Alpes-Côte d'Azur, de la direction départementale de l'agriculture et de la forêt des Bouches-du-Rhône et de la direction départementale des services vétérinaires des Bouches-du-Rhône ;
 
--responsable de la division administrative et financière au service régional de la formation et du développement à la direction régionale de l'agriculture et de la forêt de Rhône-Alpes ;
+-responsable de la division administrative et financière au service régional de la formation et du développement à la direction régionale de l'alimentation, de l'agriculture et de la forêt de Rhône-Alpes ;
 
 -secrétaire général de la direction régionale et interdépartementale de l'agriculture et de la forêt d'Ile-de-France et de la direction départementale des services vétérinaires de Paris ;
 
 -Animateur technique de l'ingénierie territoriale à la direction régionale de l'alimentation, de l'agriculture et de la forêt d'Aquitaine (à compter du 1er janvier 2009).
 
-**II. - Dans les établissements d'enseignement relevant du ministre chargé de l'agriculture**
+**II.-Dans les établissements d'enseignement relevant du ministre chargé de l'agriculture**
+
+<div align="left">
+<br/>
+</div>
 
 Agent comptable de l'agence comptable regroupant l'Ecole nationale d'ingénieurs des travaux agricoles de Clermont-Ferrand et le Centre national de promotion rurale de Marmilhat.
 
@@ -362,7 +366,7 @@ Secrétaire général de l'Institut national de formation des personnels du mini
 
 Gestionnaire administratif et financier de l'établissement public local de la Guadeloupe, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique (ajouté à compter du 1er janvier 2009).
 
-**III. - Dans les services du ministère de l'écologie et du développement durable**
+**III.-Dans les services du ministère de l'écologie et du développement durable**
 
 **a) En administration centrale** :
 
@@ -394,7 +398,7 @@ Gestionnaire administratif et financier de l'établissement public local de la G
 
 -secrétaire général de la direction régionale de l'environnement, de l'aménagement et du logement de la Martinique. (à compter du 3 novembre 2008) ;
 
-**IV. - Dans les établissements publics qui dépendent du ministère chargé de l'agriculture et/ou du ministère chargé de l'environnement**
+**IV.-Dans les établissements publics qui dépendent du ministère chargé de l'agriculture et / ou du ministère chargé de l'environnement**
 
 **a) Dans les services de l'établissement public Institut français du cheval et de l'équitation** :
 
@@ -410,7 +414,7 @@ Gestionnaire administratif et financier de l'établissement public local de la G
 
 -Responsable du pôle hippique du Lion d'Angers (Ajouté à compter du 1er juillet 2008).
 
-**b) Dans les services de l'Inventaire forestier national**:
+**b) Dans les services de l'Inventaire forestier national** :
 
 -directeur administratif et financier ;
 
@@ -428,4 +432,4 @@ Gestionnaire administratif et financier de l'établissement public local de la G
 
 **d) Dans les services de l'Etablissement national des produits de l'agriculture et de la mer, de l'Agence de services et de paiement, de l'Institut national de l'origine et de la qualité et de l'office par le développement de l'économie agricole des départements d'outre-mer** :
 
-- chef de la mission diffusion qualité à l'Etablissement national des produits de l'agriculture et de la mer (à compter du 1er avril 2009).
+-chef de la mission diffusion qualité à l'Etablissement national des produits de l'agriculture et de la mer (à compter du 1er avril 2009).

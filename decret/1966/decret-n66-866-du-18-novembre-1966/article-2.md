@@ -16,44 +16,44 @@ Le mandat de ces membres est de trois ans renouvelable deux fois au maximum. Le 
 
 2° Membres à voix consultative :
 
-- le président du conseil régional ou son représentant ;
+-le président du conseil régional ou son représentant ;
 
-- le président du comité économique et social ou son représentant ;
+-le président du comité économique et social ou son représentant ;
 
-- deux courtiers désignés par le syndicat des courtiers des vins et spiritueux de Bordeaux, de la Gironde et du Sud-Ouest ;
+-deux courtiers désignés par le syndicat des courtiers des vins et spiritueux de Bordeaux, de la Gironde et du Sud-Ouest ;
 
-- huit délégués du conseil général de la Gironde, en exercice, dont quatre viticulteurs ou, à défaut, élus de cantons viticoles, deux délégués étant en outre maires ;
+-huit délégués du conseil général de la Gironde, en exercice, dont quatre viticulteurs ou, à défaut, élus de cantons viticoles, deux délégués étant en outre maires ;
 
-- deux personnalités qualifiées dans les domaines juridique et économique nommées par le préfet de la Gironde ;
+-deux personnalités qualifiées dans les domaines juridique et économique nommées par le préfet de la Gironde ;
 
-- un représentant du secteur cafés, hôtels, restaurants et deux représentants des organisations de consommateurs nommés par le préfet de la Gironde ;
+-un représentant du secteur cafés, hôtels, restaurants et deux représentants des organisations de consommateurs nommés par le préfet de la Gironde ;
 
-- le représentant du comité national des vins et eaux-de-vie de l'Institut national de l'origine et de la qualité ;
+-le représentant du comité national des vins et eaux-de-vie de l'Institut national de l'origine et de la qualité ;
 
-- le président de l'Union nationale des embouteilleurs distributeurs ;
+-le président de l'Union nationale des embouteilleurs distributeurs ;
 
-- le président de la Confédération nationale des producteurs de vins à appellation d'origine contrôlée ou son représentant ;
+-le président de la Confédération nationale des producteurs de vins à appellation d'origine contrôlée ou son représentant ;
 
-- le président de la chambre d'agriculture de la Gironde ou son représentant ;
+-le président de la chambre d'agriculture de la Gironde ou son représentant ;
 
-- les présidents des syndicats agricoles représentatifs ou leurs représentants ;
+-les présidents des syndicats agricoles représentatifs ou leurs représentants ;
 
-- le président de la fédération des caves coopératives vinicoles de la Gironde et du Sud-Ouest ou son représentant ;
+-le président de la fédération des caves coopératives vinicoles de la Gironde et du Sud-Ouest ou son représentant ;
 
-- le président de la chambre de commerce et d'industrie de Bordeaux ou son représentant ;
+-le président de la chambre de commerce et d'industrie de Bordeaux ou son représentant ;
 
-- le président de la chambre de commerce et d'industrie de Libourne ou son représentant ;
+-le président de la chambre de commerce et d'industrie de Libourne ou son représentant ;
 
-- le directeur de l'Institut national de la recherche agronomique, centre de Bordeaux-Aquitaine, ou son représentant ;
+-le directeur de l'Institut national de la recherche agronomique, centre de Bordeaux-Aquitaine, ou son représentant ;
 
-- le doyen de l'institut d'oenologie de Bordeaux ;
+-le doyen de l'institut d'oenologie de Bordeaux ;
 
-- le directeur régional de l'agriculture et de la forêt de la région Aquitaine ou son représentant ;
+-le         directeur régional de l'alimentation, de l'agriculture et de la forêt  de la région Aquitaine ou son représentant ;
 
-- le directeur départemental de l'agriculture et de la forêt de la Gironde ou son représentant ;
+-le directeur départemental de l'agriculture et de la forêt de la Gironde ou son représentant ;
 
-- le directeur régional de la consommation, de la concurrence et de la répression des fraudes de la région Aquitaine ou son représentant ;
+-le directeur régional de la consommation, de la concurrence et de la répression des fraudes de la région Aquitaine ou son représentant ;
 
-- le directeur départemental de la consommation, de la concurrence et de la répression des fraudes de Gironde ou son représentant ;
+-le directeur départemental de la consommation, de la concurrence et de la répression des fraudes de Gironde ou son représentant ;
 
-- le directeur interrégional des douanes et droits indirects à Bordeaux ou son représentant.
+-le directeur interrégional des douanes et droits indirects à Bordeaux ou son représentant.

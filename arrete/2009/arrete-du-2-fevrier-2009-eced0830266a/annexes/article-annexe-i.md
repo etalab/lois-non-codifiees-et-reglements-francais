@@ -154,7 +154,7 @@ En cas de difficulté, l'apprenti l'en informe immédiatement, afin que soient p
 </p>
 </div>
 
-La résiliation de la convention peut intervenir sur accord exprès des cosignataires. Elle doit être constatée par écrit et notifiée au directeur du centre de formation, au service chargé de l'enregistrement du contrat, au directeur départemental du travail, de l'emploi et de la formation professionnelle (ou au chef de service assimilé), ainsi que, selon l'autorité pédagogique de référence (à préciser), au recteur d'académie, au directeur régional de l'agriculture et de la forêt ou au directeur régional de la jeunesse, des sports et de la vie associative.
+La résiliation de la convention peut intervenir sur accord exprès des cosignataires. Elle doit être constatée par écrit et notifiée au directeur du centre de formation, au service chargé de l'enregistrement du contrat, au directeur départemental du travail, de l'emploi et de la formation professionnelle (ou au chef de service assimilé), ainsi que, selon l'autorité pédagogique de référence (à préciser), au recteur d'académie, au directeur régional de l'alimentation de l'agriculture et de la forêt ou au directeur régional de la jeunesse, des sports et de la vie associative.
 
 La présente convention peut être résiliée par l'une ou l'autre partie, en cas de faute grave, de mise en danger de l'apprenti ou de non-respect des engagements de la présente convention, dûment constatés.
 
@@ -166,9 +166,9 @@ Cette résiliation ne peut donner lieu à indemnité, et n'a pas de conséquence
 </p>
 </div>
 
-La présente convention est transmise pour avis au directeur du CFA ou, dans le cas d'une section d'apprentissage, au responsable d'établissement. Ce dernier la transmet accompagnée de son avis à l'organisme chargé de l'enregistrement du contrat, au directeur départemental du travail, de l'emploi et de la formation professionnelle (ou au chef de service assimilé), ainsi que, selon l'autorité pédagogique de référence (à préciser), au recteur d'académie, au directeur régional de l'agriculture et de la forêt ou au directeur régional de la jeunesse, des sports et de la vie associative.
+La présente convention est transmise pour avis au directeur du CFA ou, dans le cas d'une section d'apprentissage, au responsable d'établissement. Ce dernier la transmet accompagnée de son avis à l'organisme chargé de l'enregistrement du contrat, au directeur départemental du travail, de l'emploi et de la formation professionnelle (ou au chef de service assimilé), ainsi que, selon l'autorité pédagogique de référence (à préciser), au recteur d'académie, au directeur régional de l'alimentation de l'agriculture et de la forêt ou au directeur régional de la jeunesse, des sports et de la vie associative.
 
-La convention est applicable dès réception par l'employeur de l'accord du recteur d'académie, du directeur régional de l'agriculture et de la forêt ou du directeur régional de la jeunesse, des sports et de la vie associative.L'absence de réponse à l'employeur un mois après réception de la convention par l'autorité compétente vaut accord.
+La convention est applicable dès réception par l'employeur de l'accord du recteur d'académie, du directeur régional de l'agriculture et de la forêt ou du directeur régional de la jeunesse, des sports et de la vie associative. L'absence de réponse à l'employeur un mois après réception de la convention par l'autorité compétente vaut accord.
 
 Fait à ............................le ....................................
 

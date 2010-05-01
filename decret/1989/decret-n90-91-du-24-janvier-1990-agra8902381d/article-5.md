@@ -2,7 +2,7 @@
 
 Les listes d'aptitude sont établies sur proposition :
 
-a) Du directeur régional de l'agriculture et de la forêt pour les personnels en fonctions dans les établissements relevant du ministre chargé de l'agriculture ;
+a) Du         directeur régional de l'alimentation, de l'agriculture et de la forêt  pour les personnels en fonctions dans les établissements relevant du ministre chargé de l'agriculture ;
 
 b) Du directeur général de l'enseignement et de la recherche en ce qui concerne les personnels affectés dans les établissements d'enseignement supérieur agricole ;
 

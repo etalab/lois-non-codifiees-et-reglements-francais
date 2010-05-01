@@ -20,7 +20,7 @@ Technicien des services vétérinaires ou préposé sanitaire titulaire, respons
 
 20 000 tonnes pour les abattoirs de bovins et de toutes autres espèces ;
 
-Chef de service régional d'administration générale dans les directions régionales de l'agriculture et de la forêt ;
+Chef de service régional d'administration générale dans les         directions régionales de l'alimentation, de l'agriculture et de la forêt ;
 
 Chef de service d'administration générale dans les directions départementales de l'agriculture et de la forêt, les directions de l'agriculture et de la forêt dans les départements d'outre-mer ou la direction du service d'Etat de l'agriculture, de la forêt et de la pêche à Mayotte ;
 
@@ -64,7 +64,7 @@ Chef de bureau ;
 
 Adjoint à un chef de bureau exerçant des responsabilités d'encadrement dans un bureau de taille importante ou responsable d'un projet ou d'un dossier intéressant plusieurs directions, services ou sous-directions ;
 
-Cadre confirmé exerçant des fonctions requérant une grande expérience dans un domaine technique ou juridique et appelé, à ce titre, à représenter le ministère auprès d'autres administrations, de juridictions ou d'instances internationales, ou exerçant des fonctions d'encadrement d'un effectif important et/ou requérant une expérience de spécialiste en matière de gestion de personnel, ou dans un domaine logistique, administratif, financier ou informatique ;
+Cadre confirmé exerçant des fonctions requérant une grande expérience dans un domaine technique ou juridique et appelé, à ce titre, à représenter le ministère auprès d'autres administrations, de juridictions ou d'instances internationales, ou exerçant des fonctions d'encadrement d'un effectif important et / ou requérant une expérience de spécialiste en matière de gestion de personnel, ou dans un domaine logistique, administratif, financier ou informatique ;
 
 Agent exerçant des fonctions requérant une bonne expérience en matière de gestion de personnel ou dans un domaine logistique, administratif, technique, juridique, financier ou informatique et appelé à former d'autres agents, assister les cadres dans leurs fonctions ou encadrer un effectif important ;
 

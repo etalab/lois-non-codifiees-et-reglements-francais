@@ -1,6 +1,6 @@
 # Article 60
 
-Pour les établissements mentionnés à l'article 14 (deuxième alinéa) de la loi du 31 décembre 1984 susvisée, les demandes de mise en conformité des contrats signés depuis la publication de cette même loi avec le contrat-type constituant l'annexe I au présent décret devront être adressées par le président de l'association ou de l'organisme responsable de l'établissement au directeur régional de l'agriculture et de la forêt dans les trois mois suivant la publication du décret portant approbation du contrat-type entre l'Etat et les enseignants de ces établissements.
+Pour les établissements mentionnés à l'article 14 (deuxième alinéa) de la loi du 31 décembre 1984 susvisée, les demandes de mise en conformité des contrats signés depuis la publication de cette même loi avec le contrat-type constituant l'annexe I au présent décret devront être adressées par le président de l'association ou de l'organisme responsable de l'établissement au         directeur régional de l'alimentation, de l'agriculture et de la forêt  dans les trois mois suivant la publication du décret portant approbation du contrat-type entre l'Etat et les enseignants de ces établissements.
 
 Si aucune demande n'a été présentée dans le délai de trois mois prévu à l'alinéa précédent, le ministre de l'agriculture peut prononcer la résiliation unilatérale du contrat. Celle-ci prend effet au terme de l'année scolaire en cours, sous réserve d'un préavis de trois mois dont les familles et les élèves doivent être tenus informés.
 
