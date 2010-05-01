@@ -168,7 +168,6 @@
 - [Décret n°91-1043 du 9 octobre 1991](decret-n91-1043-du-9-octobre-1991)
 - [Décret n°91-1053 du 9 octobre 1991 (EQUC9100283D)](decret-n91-1053-du-9-octobre-1991-equc9100283d)
 - [Décret n°91-29 du 9 janvier 1991 (AGRR9002437D)](decret-n91-29-du-9-janvier-1991-agrr9002437d)
-- [Décret n°91-343 du 9 avril 1991 (AGRA9100330D)](decret-n91-343-du-9-avril-1991-agra9100330d)
 - [Décret n°91-638 du 9 juillet 1991 (PTTR9100107D)](decret-n91-638-du-9-juillet-1991-pttr9100107d)
 - [Décret n°91-776 du 9 août 1991 (EQUT9101008D)](decret-n91-776-du-9-aout-1991-equt9101008d)
 - [Décret n°91-882 du 9 septembre 1991 (BUDF9100022D)](decret-n91-882-du-9-septembre-1991-budf9100022d)

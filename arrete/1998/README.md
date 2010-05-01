@@ -841,7 +841,6 @@
 - [Arrêté du 27 octobre 1998 (EQUA9801428A)](arrete-du-27-octobre-1998-equa9801428a)
 - [Arrêté du 27 octobre 1998 (MENE9802780A)](arrete-du-27-octobre-1998-mene9802780a)
 - [Arrêté du 27 octobre 1998 (MESH9823441A)](arrete-du-27-octobre-1998-mesh9823441a)
-- [Arrêté du 27 mai 1998 (AGRA9800655A)](arrete-du-27-mai-1998-agra9800655a)
 - [Arrêté du 27 mai 1998 (ECOT9810336A)](arrete-du-27-mai-1998-ecot9810336a)
 - [Arrêté du 28 août 1998 (MENR9802326A)](arrete-du-28-aout-1998-menr9802326a)
 - [Arrêté du 28 août 1998 (MESI9823699A)](arrete-du-28-aout-1998-mesi9823699a)
