@@ -10,7 +10,7 @@ ii) En ce qui concerne le SOx provenant des stades de digestion et de calcinatio
 
 iii) Au 1er janvier 1995, doivent être installés des dispositifs permettant de supprimer l'émission de vésicules acides ;
 
-iv) Les installations destinées à la concentration de déchets acides ne rejettent pas plus de 500 mg/Nm3 SOx d'équivalent SO2. Le préfet pourra autoriser une valeur différente, sur demande justifiée de l'industriel après avis du Conseil supérieur des installations classées.
+iv) Les installations destinées à la concentration de déchets acides ne rejettent pas plus de 500 mg/Nm3 SOx d'équivalent SO2. Le préfet pourra autoriser une valeur différente, sur demande justifiée de l'industriel après avis du Conseil supérieur de la prévention des risques technologiques.
 
 v) Les installations de grillage des sels produits par le traitement des déchets sont équipées selon la meilleure technologie disponible n'entraînant pas de coûts excessifs en vue de réduire les émissions de SOx ;
 

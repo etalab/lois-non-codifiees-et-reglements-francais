@@ -1,6 +1,6 @@
 # Article 7
 
-Après avis du Conseil supérieur des installations classées, un report de la mise en application des dispositions visées à l'article 6 peut être accordé si des difficultés techniques et économiques sérieuses l'exigent et à condition que soit déposé par l'exploitant un dossier justificatif comprenant un programme de réduction efficace du rejet des déchets, au plus tard un mois après la parution du présent arrêté.
+Après avis du Conseil supérieur de la prévention des risques technologiques, un report de la mise en application des dispositions visées à l'article 6 peut être accordé si des difficultés techniques et économiques sérieuses l'exigent et à condition que soit déposé par l'exploitant un dossier justificatif comprenant un programme de réduction efficace du rejet des déchets, au plus tard un mois après la parution du présent arrêté.
 
 Durant ce report, les règles suivantes devront être respectées :
 
