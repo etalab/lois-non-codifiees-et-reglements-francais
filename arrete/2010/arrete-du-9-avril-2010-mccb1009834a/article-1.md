@@ -100,8 +100,6 @@ Bibliothèque publique d'information
 
 Bibliothèque nationale de France
 
-<div align="center">
-
 <table>
 <tbody>
 <tr>
@@ -159,8 +157,6 @@ Bibliothèque nationale de France
 </tr>
 </tbody>
 </table>
-
-</div>
 
 Centre national du livre
 
@@ -1030,7 +1026,7 @@ Ecole nationale supérieure de la photographie d'Arles
 </th>
 </tr>
 <tr>
-<td align="center">CGT-Culture<br/>
+<td align="center">CFDT-Culture<br/>
 </td>
 <td align="center">2<br/>
 </td>
