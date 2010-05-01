@@ -48,7 +48,7 @@ Les distances entre réservoirs ne sont pas inférieures à la plus petite des d
 
 - le quart du diamètre du plus grand réservoir ;
 
-- une distance minimale de 1,50 mètre lorsque la capacité totale équivalente du stockage est inférieure ou égale à 50 mètres cubes et de 3 mètres lorsque la capacité précitée est supérieure à 5 mètres cubes.
+- une distance minimale de 1,50 mètre lorsque la capacité totale équivalente du stockage est inférieure ou égale à 50 mètres cubes et de 3 mètres lorsque la capacité précitée est supérieur à 50 mètres cubes.
 
 Les installations de stockage de superéthanol ne sont pas implantées en rez-de-chaussée ou sous-sol d'un immeuble habité ou occupé par des tiers.
 

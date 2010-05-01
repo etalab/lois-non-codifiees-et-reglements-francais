@@ -6,7 +6,7 @@ Le contrôle prévu au point 1.8 de l'annexe I porte sur les dispositions suivan
 
 1. Dispositions générales
 
-1.4. Dossier  installation classée
+1.4. Dossier installation classée
 
 L'exploitant établit et tient à jour un dossier comportant les documents suivants :
 
@@ -28,11 +28,13 @@ Présentation des arrêtés préfectoraux relatifs à l'installation, lorsqu'il 
 
 2.1. Règles d'implantation
 
-2.1.1. Installations de stockage
-
-(local technique ou armoire technique)
+2. 1. 1. Installation de stockage (local technique ou armoire technique)
 
 L'installation est implantée à une distance minimale des limites de propriété égale à 10 mètres.
+
+Objet du contrôle :
+
+- respect des distances d'éloignement .
 
 2.1.2. Installations employant du chlore
 

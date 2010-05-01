@@ -56,7 +56,25 @@ Cette distance n'est toutefois pas exigée si les conditions suivantes sont réu
 
 Objet du contrôle :
 
-- respect des distances d'éloignement.
+- respect des distances entre les parois des appareils de distribution et les limites de propriété ;
+
+- respect des distances entre les parois des appareils de distribution et une voie de communication publique ;
+
+- respect des distances entre les parois des appareils de distribution et un établissement recevant du public de la cinquième catégorie (magasin de vente dépendant de l'installation) ;
+
+- respect des distances entre les parois des appareils de distribution et les issues ou ouvertures de locaux administratifs ou techniques de l'installation ;
+
+- respect des distances entre les parois des appareils de distribution et les parois des appareils de distribution d'hydrocarbures liquides, sinon vérifier la présence d'une cloison métallique séparant les appareils de distribution de gaz inflammable liquéfié et d'hydrocarbures liquides et vérifier que la distribution simultanée d'hydrocarbures liquides et de gaz inflammable liquéfié du même côté de l'îlot tel que défini au point 2.11 de l'annexe I n'est pas possible ;
+
+- respect des distances entre les parois des appareils de distribution et les aires d'entreposage de bouteilles de gaz inflammable liquéfié ;
+
+- respect des distances entre les parois des appareils de distribution et les bouches de remplissage, les évents et les parois d'un réservoir aérien d'hydrocarbure liquide ;
+
+- respect des distances entre les parois des appareils de distribution et les bouches de remplissage et les évents d'un réservoir enterré d'hydrocarbure ;
+
+- respect des distances entre les parois des appareils de distribution et les bouches de remplissage, les orifices d'évacuation à l'air libre des soupapes et les parois d'un réservoir aérien de gaz inflammable liquéfié ;
+
+- respect des distances entre les parois des appareils de distribution et les bouches de remplissage et les orifices d'évacuation à l'air libre des soupapes d'un réservoir enterré ou sous-talus de gaz inflammable liquéfié.
 
 2.3. Interdiction d'habitations au-dessus des installations
 

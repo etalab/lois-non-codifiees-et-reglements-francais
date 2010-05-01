@@ -2,7 +2,7 @@
 
 Les prescriptions des annexes I, II et III sont applicables après la date de publication du présent arrêté au Journal officiel augmentée de quatre mois.
 
-Les prescriptions des points 6.2 b et 6.3 des annexes I, II et III sont également applicables à compter du 30 octobre 2007 aux installations existantes déclarées antérieurement à la date de publication du présent arrêté au Journal officiel augmentée de quatre mois. Les prescriptions du point 8.4 de l'annexe I sont applicables aux installations existantes déclarées avant la date de publication du présent arrêté au Journal officiel augmentée de quatre mois.
+Les prescriptions des points 6.2 b et 6.3 des annexes I, II et III sont également applicables à compter du 30 octobre 2007 aux installations existantes déclarées antérieurement à la date de publication du présent arrêté au Journal officiel augmentée de quatre mois. Les prescriptions du point 8.4 de l'annexe I sont applicables aux installations existantes déclarées avant la date de publication du présent arrêté au Journal officiel augmentée de quatre mois. Les prescriptions du point 1. 8 de l'annexe I sont applicables à compter du 1er mai 2010  aux installations existantes déclarées avant la date de publication du présent arrêté au Journal officiel augmentée de quatre mois.
 
 Les prescriptions auxquelles les installations existantes sont déjà soumises demeurent applicables, sauf si elles sont contraires aux dispositions 6.2 b, 6.3 et 8.4 visées ci-dessus.
 
