@@ -5,3 +5,5 @@ Peuvent y prétendre les personnels civils et militaires, français et étranger
 Pourront également prétendre à l'agrafe "Haiti" les personnels ayant effectivement participé à l'opération "Carbet" à compter du 19 février 2004, pour une durée minimale de quinze jours.
 
 Pourront également prétendre à l'agrafe "Haïti" les personnels qui ont pris part à la mission des Nations unies pour la stabilisation en Haïti (Minusta-h) pour une durée minimale de quinze jours.
+
+Pourront également prétendre à l'agrafe " Haïti " les personnels qui ont pris part à l'opération " Séisme Haïti " qui s'est déroulée du 12 janvier au 24 février 2010, pendant une durée minimale de quinze jours, sur l'ensemble du territoire et des espaces aériens et maritimes de la République d'Haïti et de la République dominicaine.
