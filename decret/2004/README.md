@@ -315,7 +315,6 @@
 - [Décret n°2004-812 du 13 août 2004 (DEFP0400593D)](decret-n2004-812-du-13-aout-2004-defp0400593d)
 - [Décret n°2004-968 du 13 septembre 2004 (SOCF0411476D)](decret-n2004-968-du-13-septembre-2004-socf0411476d)
 - [Décret n°2004-971 du 13 septembre 2004 (SANS0421919D)](decret-n2004-971-du-13-septembre-2004-sans0421919d)
-- [Décret n°2004-975 du 13 septembre 2004 (ECOD0470021D)](decret-n2004-975-du-13-septembre-2004-ecod0470021d)
 - [Décret n°2004-982 du 13 septembre 2004 (INTB0400239D)](decret-n2004-982-du-13-septembre-2004-intb0400239d)
 - [Décret n°68-47 du 13 janvier 1968](decret-n68-47-du-13-janvier-1968)
 - [Décret n°75-150 du 13 mars 1975](decret-n75-150-du-13-mars-1975)
