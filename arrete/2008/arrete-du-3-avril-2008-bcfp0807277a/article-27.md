@@ -14,6 +14,6 @@ Il définit et conduit la politique des achats de la direction générale, assur
 
 Le bureau immobilier et sécurité
 
-Il définit la politique immobilière de la direction générale (locations, acquisitions). Il détermine et veille au suivi des opérations immobilières de construction, d'aménagement et de réinstallation des services, en liaison avec les services déconcentrés et dans le cadre des orientations définies par le secrétaire général du ministère. Il suit, en liaison avec la direction des personnels et de l'adaptation de l'environnement professionnel, les implantations immobilières des services centraux de la direction générale.
+Il définit la politique immobilière de la direction générale (locations, acquisitions). Il détermine et veille au suivi des opérations immobilières de construction, d'aménagement et de réinstallation des services, en liaison avec les services déconcentrés et dans le cadre des orientations définies par le secrétaire général du ministère. Il suit, en liaison avec le secrétariat général des ministères économique et financier, les implantations immobilières des services centraux de la direction générale.
 
-La cellule sécurité  définit et anime la politique de sécurité dans les services déconcentrés. Elle conduit les audits de sécurité et établit la doctrine de formation des délégués départementaux de sécurité.
+La cellule sécurité définit et anime la politique de sécurité dans les services déconcentrés. Elle conduit les audits de sécurité et établit la doctrine de formation des délégués départementaux de sécurité.

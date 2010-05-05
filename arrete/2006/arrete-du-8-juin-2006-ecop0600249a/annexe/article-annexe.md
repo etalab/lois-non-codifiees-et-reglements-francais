@@ -158,7 +158,7 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td>
-<p>Directeur des personnels et de l'adaptation de l'environnement professionnel </p>
+<p>Secrétaire général des ministères économique et financier</p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -455,7 +455,7 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td>
-<p>Chef de service à la direction des personnels et de l'adaptation de l'environnement professionnel </p>
+<p>Chef de service au secrétariat général des ministères économique et financier </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -554,6 +554,17 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td>
+<p>Chef de service à la direction générale des douanes et droits indirects</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">125</p>
+</td>
+</tr>
+<tr>
+<td>
 <p>Chef de service au secrétariat général du ministère de l'économie, des finances et de l'industrie </p>
 </td>
 <td>
@@ -570,17 +581,6 @@ I.-Fonctions exercées en administration centrale
 </td>
 <td>
 <p align="center">120 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Chef de service à la direction générale des douanes et droits indirects</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">125</p>
 </td>
 </tr>
 <tr>
@@ -629,7 +629,7 @@ I.-Fonctions exercées en administration centrale
 </tr>
 <tr>
 <td colspan="3">
-<p align="center">En charge d'une sous-direction relevant de la direction des personnels et de l'adaptation de l'environnement professionnel </p>
+<p align="center">En charge d'une sous-direction relevant du secrétariat général des ministères économique et financier</p>
 </td>
 </tr>
 <tr>
@@ -1617,7 +1617,7 @@ I.-Fonctions exercées en administration centrale
 <p>Sous-directeur du tourisme (à compter du 12 janvier 2009) </p>
 </td>
 <td>1</td>
-<td>90</td>
+<td>90 </td>
 </tr>
 <tr>
 <td>
@@ -1637,13 +1637,8 @@ I.-Fonctions exercées en administration centrale
 <td>
 <p>Sous-directeur des affaires juridiques et du droit des entreprises (à compter du 12 janvier 2009) </p>
 </td>
-<td>1</td>
+<td>1 </td>
 <td>90</td>
-</tr>
-<tr>
-<td/>
-<td/>
-<td/>
 </tr>
 <tr>
 <td colspan="3">
@@ -1787,9 +1782,7 @@ I.-Fonctions exercées en administration centrale
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur de projet à la direction des personnels et de l'adaptation de l'environnement professionnel </p>
-</td>
+<td>Directeur de projet au secrétariat général des ministères économique et financier</td>
 <td>
 <p align="center">2 </p>
 </td>
@@ -1871,17 +1864,6 @@ I.-Fonctions exercées en administration centrale
 </td>
 </tr>
 <tr>
-<td>
-<p>Directeur de projet au service de la communication </p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">80</p>
-</td>
-</tr>
-<tr>
 <td valign="top">
 <p>Directeur de projet à la direction générale de la concurrence, de la consommation et de répression des fraudes </p>
 </td>
@@ -1890,6 +1872,17 @@ I.-Fonctions exercées en administration centrale
 </td>
 <td>
 <p align="center">80 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Directeur de projet au service de la communication </p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">80</p>
 </td>
 </tr>
 <tr>
@@ -1910,6 +1903,15 @@ I.-Fonctions exercées en administration centrale
 </td>
 <td>
 <p align="center">80 </p>
+</td>
+</tr>
+<tr>
+<td valign="top"/>
+<td>
+<br/>
+</td>
+<td>
+<br/>
 </td>
 </tr>
 </tbody>

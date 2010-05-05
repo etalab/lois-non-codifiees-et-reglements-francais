@@ -100,7 +100,7 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, la liste
 </tr>
 <tr>
 <td>
-<p align="center">Direction des personnels et de l'adaptation de l'environnement professionnel </p>
+<p align="center">Secrétariat général des ministères économique et financier </p>
 </td>
 <td>
 <p align="center">Délégué ministériel au handicap, responsable de la cellule de recrutement et d'insertion des personnes handicapées</p>

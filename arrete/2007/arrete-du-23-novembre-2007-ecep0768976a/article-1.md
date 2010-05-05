@@ -1,6 +1,6 @@
 # Article 1
 
-Il est institué auprès du directeur des personnels et de l'adaptation de l'environnement professionnel sept commissions consultatives paritaires compétentes respectivement à l'égard des personnels suivants :
+Il est institué auprès du            secrétaire général des ministères économique et financier sept commissions consultatives paritaires compétentes respectivement à l'égard des personnels suivants :
 
 ― commission consultative paritaire n° 1 : agents contractuels de l'administration centrale ;
 

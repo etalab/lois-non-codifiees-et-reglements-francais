@@ -30,7 +30,7 @@ I. ― Le ministre du travail, de la solidarité et de la fonction publique a au
 
 ― la délégation à l'information et à la communication, conjointement avec le ministre de la santé et des sports ;
 
-― le service à compétence nationale « opérateur national de paye », conjointement avec le ministre du budget, des comptes publics et de la réforme de l'Etat.
+― le service à compétence nationale  opérateur national de paye , conjointement avec le ministre du budget, des comptes publics et de la réforme de l'Etat.
 
 II. ― Il dispose de la délégation générale à l'emploi et à la formation professionnelle et, en tant que de besoin, de la direction générale de l'offre de soins et de la direction générale de l'Institut national de la statistique et des études économiques.
 
@@ -38,4 +38,4 @@ III. ― Pour l'exercice de ses attributions en matière de fonction publique, i
 
 IV. ― Pour l'exercice de ses attributions relatives à la ville, il dispose, en tant que de besoin, des directions et services des ministères qui concourent à la préparation et à la mise en œuvre de la politique de la ville.
 
-V. ― Pour la gestion de la direction générale de l'administration et de la fonction publique, il dispose du secrétariat général mentionné au décret du 28 juillet 2006 susvisé, de la direction des personnels et de l'adaptation de l'environnement professionnel et de la direction des affaires juridiques du ministère de l'économie, de l'industrie et de l'emploi et du ministère du budget, des comptes publics et de la réforme de l'Etat.
+V. ― Pour la gestion de la direction générale de l'administration et de la fonction publique, il dispose du secrétariat général mentionné au décret du 28 juillet 2006 susvisé, du secrétariat général des ministères économique et financier et de la direction des affaires juridiques du ministère de l'économie, de l'industrie et de l'emploi et du ministère du budget, des comptes publics et de la réforme de l'Etat.

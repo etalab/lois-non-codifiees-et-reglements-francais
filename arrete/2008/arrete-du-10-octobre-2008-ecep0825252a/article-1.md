@@ -488,91 +488,101 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 </tr>
 <tr>
-<td align="center">Direction des personnels et de l'adaptation de l'environnement professionnel <br/>
+<td align="center">Secrétariat général des ministère économique et financier<br/>
 </td>
 <td align="center">Chef du bureau postes de travail et services aux utilisateurs <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Direction des personnels et de l'adaptation de l'environnement professionnel <br/>
+<td align="center">Secrétariat général des ministère économique et financier<br/>
 </td>
 <td align="center">Chef du bureau infrastructures informatiques et télécommunications <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Direction des personnels et de l'adaptation de l'environnement professionnel <br/>
+<td align="center">Secrétariat général des ministère économique et financier<br/>
 </td>
 <td align="center">Adjoint au chef du bureau applications et projets informatiques <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Direction des personnels et de l'adaptation de l'environnement professionnel <br/>
+<td align="center">Secrétariat général des ministère économique et financier<br/>
+<br/>
 </td>
 <td align="center">Adjoint au chef du bureau gouvernance de l'informatique centrale <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Direction des personnels et de l'adaptation de l'environnement professionnel <br/>
+<td align="center">Secrétariat général des ministère économique et financier<br/>
 </td>
 <td align="center">Adjoint au chef du bureau réseaux de l'action sociale, restauration, petite enfance, gestion immobilière, en charge des secteurs restauration, petite enfance et gestion immobilière <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Direction des personnels et de l'adaptation de l'environnement professionnel <br/>
+<td align="center">Secrétariat général des ministère économique et financier<br/>
+<br/>
 </td>
 <td align="center">Chef du centre de traduction <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Direction des personnels et de l'adaptation de l'environnement professionnel <br/>
+<td align="center">Secrétariat général des ministère économique et financier<br/>
+<br/>
 </td>
 <td align="center">Adjoint au chef du bureau prestations de services <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Direction des personnels et de l'adaptation de l'environnement professionnel <br/>
+<td align="center">Secrétariat général des ministère économique et financier<br/>
 </td>
 <td align="center">Adjoint au chef du bureau gestion immobilière de l'administration centrale, chargé du suivi du parc immobilier de l'administration centrale <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Direction des personnels et de l'adaptation de l'environnement professionnel <br/>
+<td align="center">Secrétariat général des ministère économique et financier<br/>
+<br/>
 </td>
 <td align="center">Chef de projet systèmes d'information financière de l'Etat au MEIE / MBCPFP à la mission nouveaux processus et systèmes d'information budgétaires et comptables. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Direction des personnels et de l'adaptation de l'environnement professionnel <br/>
+<td align="center">Secrétariat général des ministère économique et financier<br/>
+<br/>
 </td>
 <td align="center">Directeur général de l'association pour le logement du personnel des administrations financières <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Direction des personnels et de l'adaptation de l'environnement professionnel </td>
+<td align="center">Secrétariat général des ministère économique et financier<br/>
+</td>
 <td>
 <p align="center">Chargé de mission auprès du directeur à la mission "emplois et compétences"</p>
 </td>
 </tr>
 <tr>
-<td align="center">Direction des personnels et de l'adaptation de l'environnement professionnel</td>
+<td align="center">Secrétariat général des ministère économique et financier<br/>
+</td>
 <td>
 <p align="center">Adjoint au chef de bureau "hygiène, sécurité, prévention médicale"</p>
 </td>
 </tr>
 <tr>
-<td align="center">Direction des personnels et de l'adaptation de l'environnement professionnel</td>
+<td align="center">Secrétariat général des ministère économique et financier<br/>
+</td>
 <td>
 <p align="center">Adjoint au chef du bureau "politiques sociales"</p>
 </td>
 </tr>
 <tr>
-<td align="center">Direction des personnels et de l'adaptation de l'environnement professionnel</td>
+<td align="center">Secrétariat général des ministère économique et financier<br/>
+</td>
 <td>
 <p align="center">Chef de l'antenne immobilière de Paris-Nord </p>
 </td>
 </tr>
 <tr>
-<td align="center">Direction des personnels et de l'adaptation de l'environnement professionnel</td>
+<td align="center">Secrétariat général des ministère économique et financier<br/>
+</td>
 <td>
 <p align="center">Chef du service "exploitation-maintenance"</p>
 </td>

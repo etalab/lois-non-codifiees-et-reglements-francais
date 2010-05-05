@@ -6,6 +6,6 @@ Des missions fonctionnelles sont chargées des questions d'intérêt commun rela
 
 Une mission est chargée de la gestion des moyens du service et de la valorisation des ressources.
 
-II.-Les moyens nécessaires au fonctionnement du service et leurs modalités de gestion sont définis conjointement par le directeur des personnels et de l'adaptation de l'environnement professionnel et le chef du service, qui établissent à cette fin tout protocole de gestion approprié.
+II.-Les moyens nécessaires au fonctionnement du service et leurs modalités de gestion sont définis conjointement par le            secrétaire général des ministères économique et financier et le chef du service, qui établissent à cette fin tout protocole de gestion approprié.
 
 III.-Les membres du corps du contrôle général économique et financier signent leurs rapports.

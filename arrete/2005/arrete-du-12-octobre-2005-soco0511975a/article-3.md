@@ -8,7 +8,7 @@ Le service du financement et de la modernisation comprend deux sous-directions a
 
 -la mission du contrôle de gestion ;
 
-- la mission de l'informatique et des systèmes d'information.
+-la mission de l'informatique et des systèmes d'information.
 
 La sous-direction est chargée de la préparation des demandes de moyens budgétaires consacrés à la politique de l'emploi et de la formation professionnelle, ainsi que du dialogue et du contrôle de gestion avec les missions de la délégation générale et les services déconcentrés.
 
@@ -30,7 +30,7 @@ Ainsi, elle participe, en liaison avec la direction de l'administration généra
 
 Elle appuie les missions de la délégation générale dans l'exercice de la maîtrise d'ouvrage des systèmes d'information du champ de l'emploi et de la formation professionnelle, en veillant à la cohérence de l'ensemble au regard de celle qu'assume la DAGEMO pour le ministère chargé du travail.
 
-Elle gère le parc de matériels et de logiciels de la délégation générale et assure l'assistance aux utilisateurs des moyens informatiques et bureautiques en lien avec la direction des personnels et de l'adaptation de l'environnement professionnel (DPAEP).
+Elle gère le parc de matériels et de logiciels de la délégation générale et assure l'assistance aux utilisateurs des moyens informatiques et bureautiques en lien avec le secrétariat général des ministères économique et financier.
 
 2° La sous-direction du fonds social européen comprend :
 
@@ -72,7 +72,7 @@ Elle conduit et accompagne les démarches de modernisation concernant la délég
 
 Elle est chargée de la gestion administrative des situations individuelles des agents.
 
-Elle suscite et recueille les besoins de formation, participe à l'élaboration du plan de formation de l'administration centrale et en assure l'exécution en relation avec la DPAEP.
+Elle suscite et recueille les besoins de formation, participe à l'élaboration du plan de formation de l'administration centrale et en assure l'exécution en relation avec le secrétariat général des ministères économique et financier.
 
 Elle participe à la définition de la politique de gestion prévisionnelle des emplois et des compétences et suit l'ensemble des relations humaines et sociales internes à la délégation générale.
 

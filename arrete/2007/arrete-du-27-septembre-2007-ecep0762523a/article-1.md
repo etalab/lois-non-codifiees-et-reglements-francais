@@ -1,6 +1,6 @@
 # Article 1
 
-Il est institué auprès du directeur des personnels et de l'adaptation de l'environnement professionnel vingt et une CAP compétentes respectivement à l'égard des corps de fonctionnaires suivants :
+Il est institué auprès du            secrétaire général des ministères économique et financier vingt et une CAP compétentes respectivement à l'égard des corps de fonctionnaires suivants :
 
 Commission administrative paritaire n° 1 : corps des contrôleurs généraux économiques et financiers ;
 

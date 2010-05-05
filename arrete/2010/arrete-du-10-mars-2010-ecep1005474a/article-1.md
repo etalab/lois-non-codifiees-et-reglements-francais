@@ -1,6 +1,6 @@
 # Article 1
 
-La direction des personnels et de l'adaptation de l'environnement professionnel (DPAEP) met en œuvre un traitement automatisé relatif à une procédure de concours communs pour le recrutement des agents de catégorie C du ministère de l'économie, de l'industrie et de l'emploi et du ministère du budget, des comptes publics, de la fonction publique et de la réforme de l'Etat.
+Le secrétariat général des ministères économique et financier met en œuvre un traitement automatisé relatif à une procédure de concours communs pour le recrutement des agents de catégorie C du ministère de l'économie, de l'industrie et de l'emploi et du ministère du budget, des comptes publics, de la fonction publique et de la réforme de l'Etat.
 
 La finalité est de gérer l'ensemble de la procédure de concours.
 

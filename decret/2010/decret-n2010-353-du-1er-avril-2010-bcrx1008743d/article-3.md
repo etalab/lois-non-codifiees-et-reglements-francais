@@ -14,13 +14,13 @@ I. ― Le ministre du budget, des comptes publics et de la réforme de l'Etat a 
 
 ― les services de contrôle budgétaire et comptable ministériel ;
 
-― les services à compétence nationale « agence pour l'informatique financière de l'Etat », « service des retraites de l'Etat », « service des achats de l'Etat » et, conjointement avec le ministre du travail, de la solidarité et de la fonction publique, « opérateur national de paye »,
+― les services à compétence nationale  agence pour l'informatique financière de l'Etat ,  service des retraites de l'Etat ,  service des achats de l'Etat  et, conjointement avec le ministre du travail, de la solidarité et de la fonction publique,  opérateur national de paye ,
 
 ainsi que les autres services relevant de ses attributions.
 
 II. ― Le ministre du budget, des comptes publics et de la réforme de l'Etat dispose de la direction de la législation fiscale pour la préparation des lois de finances, et, en tant que de besoin, de la direction générale des collectivités locales et de la direction générale de l'offre de soins. Il peut faire appel à la Caisse nationale de retraite des agents des collectivités locales.
 
-III. ― Pour l'exercice de ses attributions, le ministre du budget, des comptes publics et de la réforme de l'Etat a autorité conjointe avec le ministre de l'économie, de l'industrie et de l'emploi sur le secrétariat général mentionné au décret du 28 juillet 2006 susvisé, l'inspection générale des finances, la direction des personnels et de l'adaptation de l'environnement professionnel, la direction des affaires juridiques, le service de la communication, le service du contrôle général économique et financier, le médiateur, le haut fonctionnaire de défense et de sécurité et le service à compétence nationale « TRACFIN ».
+III. ― Pour l'exercice de ses attributions, le ministre du budget, des comptes publics et de la réforme de l'Etat a autorité conjointe avec le ministre de l'économie, de l'industrie et de l'emploi sur le secrétariat général mentionné au décret du 28 juillet 2006 susvisé, l'inspection générale des finances, le secrétariat général des ministères économique et financier, la direction des affaires juridiques, le service de la communication, le service du contrôle général économique et financier, le médiateur, le haut fonctionnaire de défense et de sécurité et le service à compétence nationale  TRACFIN .
 
 IV. ― Pour l'exercice de ses attributions relatives aux finances locales, le ministre du budget, des comptes publics et de la réforme de l'Etat dispose de la direction générale des collectivités locales.
 

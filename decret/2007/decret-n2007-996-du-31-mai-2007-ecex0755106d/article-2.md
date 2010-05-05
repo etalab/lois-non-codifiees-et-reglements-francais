@@ -6,7 +6,7 @@ I.-Le ministre de l'économie, des finances et de l'emploi a autorité sur :
 
 -le Conseil général des technologies de l'information ;
 
--la        direction générale du Trésor ;
+-la direction générale du Trésor ;
 
 -la direction générale de l'Institut national de la statistique et des études économiques ;
 
@@ -26,7 +26,7 @@ II.-Conjointement avec le ministre du budget, des comptes publics et de la fonct
 
 -l'inspection générale des finances ;
 
--la direction des personnels et de l'adaptation de l'environnement professionnel ;
+-le secrétariat général des ministères économique et financier ;
 
 -la direction des affaires juridiques ;
 
