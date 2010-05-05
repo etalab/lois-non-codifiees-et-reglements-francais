@@ -12,9 +12,11 @@ Centre hospitalier, rue Marcelin-Berthelot, 02000 Laon.
 
 Centre hospitalier, avenue de Michel-de-l'Hôpital, 02100 Saint-Quentin.
 
-05- Hautes-Alpes
+05-Hautes-Alpes
 
 Centre hospitalier des Escartons, service de médecine-gériatrie-santé publique-hémovigilance, 25, avenue Adrien-Daurelle, 05105 Briançon Cedex.
+
+Centre hospitalier intercommunal des Alpes du Sud (CHICAS), service de médecine interne et polyvalente, centre de vaccinations, Le Corindon, 7, avenue Jean-Jaurès, 05000 Gap.
 
 06 - Alpes-Maritimes
 
@@ -160,83 +162,85 @@ Centre hospitalier régional universitaire, Hôpital Bretonneau, boulevard Tonne
 
 38 - Isère
 
-Centre hospitalier universitaire de Grenoble, boulevard de la Chantourne, 38700 Grenoble ;
+Centre hospitalier universitaire de Grenoble, boulevard de la Chantourne, 38700 Grenoble.
 
-Service communal d'hygiène et de santé, 33, rue Joseph-Chanrion, 38000 Grenoble ;
+Service communal d'hygiène et de santé, 33, rue Joseph-Chanrion, 38000 Grenoble.
 
 40 - Landes
 
-Centre hospitalier de Dax, boulevard Yves-du-Manoir, BP 323, 40107 Dax Cedex ;
+Centre hospitalier de Dax, boulevard Yves-du-Manoir, BP 323, 40107 Dax Cedex.
 
 42 - Loire
 
-Centre hospitalier universitaire, hôpital de Bellevue (service des maladies infectieuses et tropicales), 25, boulevard Pasteur, 42055 Saint-Etienne Cedex 2 ;
+Centre hospitalier universitaire, hôpital de Bellevue (service des maladies infectieuses et tropicales), 25, boulevard Pasteur, 42055 Saint-Etienne Cedex 2.
 
-Centre hospitalier de Roanne (service de médecine interne, maladies infectieuses et tropicales), 28, rue de Charlieu, BP 511, 42328 Roanne Cedex ;
+Centre hospitalier de Roanne (service de médecine interne, maladies infectieuses et tropicales), 28, rue de Charlieu, BP 511, 42328 Roanne Cedex.
 
 44 - Loire-Atlantique
 
-Centre hospitalier universitaire, 30, boulevard Jean-Monnet, 44035 Nantes Cedex 01 ;
+Centre hospitalier universitaire, 30, boulevard Jean-Monnet, 44035 Nantes Cedex 01.
 
-Centre hospitalier général (service des urgences), boulevard de l'Hôpital, 44606 Saint-Nazaire Cedex ;
+Centre hospitalier général (service des urgences), boulevard de l'Hôpital, 44606 Saint-Nazaire Cedex.
 
 45 - Loiret
 
-Centre hospitalier régional, avenue de l'Hôpital, 45100 Orléans-La Source ;
+Centre hospitalier régional, avenue de l'Hôpital, 45100 Orléans-La Source.
 
 46 - Lot
 
-Centre hospitalier, 335, rue du Président-Wilson, BP 269, 46005 Cahors Cedex 9 ;
+Centre hospitalier, 335, rue du Président-Wilson, BP 269, 46005 Cahors Cedex 9.
 
 49 - Maine-et-Loire
 
-Centre hospitalier universitaire (vaccinations internationales), 4, rue Larrey, 49033 Angers Cedex 01 ;
+Centre hospitalier universitaire (vaccinations internationales), 4, rue Larrey, 49033 Angers Cedex 01.
 
 50 - Manche
 
-Centre hospitalier Louis Pasteur, rue Trottebec, BP 208, 50102 Cherbourg-Octeville ;
+Centre hospitalier Louis Pasteur, rue Trottebec, BP 208, 50102 Cherbourg-Octeville.
+
+Centre hospitalier Avranches-Granville, centre de vaccination international, rue des Menneries, 50400 Granville.
 
 51 - Marne
 
-Centre hospitalier régional universitaire, hôpital Robert Debré, avenue du Général-Koenig, 51100 Reims ;
+Centre hospitalier régional universitaire, hôpital Robert Debré, avenue du Général-Koenig, 51100 Reims.
 
 53 - Mayenne
 
-Centre hospitalier de Laval (service des consultations de médecine), 33, rue du Haut-Rocher, 53015 Laval Cedex ;
+Centre hospitalier de Laval (service des consultations de médecine), 33, rue du Haut-Rocher, 53015 Laval Cedex.
 
 54 - Meurthe-et-Moselle
 
-Centre hospitalier universitaire de Nancy, hôpitaux de Brabois (service des maladies infectieuses et tropicales), tour Drouet, 54511 Vandoeuvre-lès-Nancy ;
+Centre hospitalier universitaire de Nancy, hôpitaux de Brabois (service des maladies infectieuses et tropicales), tour Drouet, 54511 Vandoeuvre-lès-Nancy.
 
 56 - Morbihan
 
-Centre hospitalier de Bretagne-Sud, 27, rue du Docteur-Lettry, BP 2233, 56322 Lorient Cedex ;
+Centre hospitalier de Bretagne-Sud, 27, rue du Docteur-Lettry, BP 2233, 56322 Lorient Cedex.
 
 Centre hospitalier de centre Bretagne, site de Pontivy, 1, place Ernest-Jan, 56306 Pontivy.
 
 57 - Moselle
 
-Hôpital d'instructions des armées Legouest, 27, avenue de Plantières, BP 10, 57998 Metz Armées ;
+Hôpital d'instructions des armées Legouest, 27, avenue de Plantières, BP 10, 57998 Metz Armées.
 
 58 - Nièvre
 
-Centre hospitalier de Nevers, 1, avenue Colbert, 58000 Nevers ;
+Centre hospitalier de Nevers, 1, avenue Colbert, 58000 Nevers.
 
 59 - Nord
 
-Centre hospitalier de Tourcoing, pavillon Trousseau, 156, rue du Président-Coty, 59208 Tourcoing ;
+Centre hospitalier de Tourcoing, pavillon Trousseau, 156, rue du Président-Coty, 59208 Tourcoing.
 
-Institut Pasteur (service des vaccinations), 1, rue du Professeur-Calmette, 59019 Lille Cedex ;
+Institut Pasteur (service des vaccinations), 1, rue du Professeur-Calmette, 59019 Lille Cedex.
 
-Centre hospitalier de Denain (service de médecine B, médecine interne et maladies infectieuses), 25 bis, rue Jean-Jaurès, BP 225, 59723 Denain Cedex ;
+Centre hospitalier de Denain (service de médecine B, médecine interne et maladies infectieuses), 25 bis, rue Jean-Jaurès, BP 225, 59723 Denain Cedex.
 
 60 - Oise
 
-Centre hospitalier Laennec, boulevard Laennec, 60109 Creil Cedex ;
+Centre hospitalier Laennec, boulevard Laennec, 60109 Creil Cedex.
 
 61 - Orne
 
-Centre hospitalier, 25, rue de Fresnay, BP 354, 61014 Alençon Cedex ;
+Centre hospitalier, 25, rue de Fresnay, BP 354, 61014 Alençon Cedex.
 
 62-Pas-de-Calais
 
@@ -244,47 +248,47 @@ Centre hospitalier Germon-et-Gautier-de-Béthune, service infectiologie, rue Del
 
 63 - Puy-de-Dôme
 
-Centre hospitalier universitaire, service Villemin-Pasteur, hôtel-Dieu, 63000 Clermont-Ferrand ;
+Centre hospitalier universitaire, service Villemin-Pasteur, hôtel-Dieu, 63000 Clermont-Ferrand.
 
 64 - Pyrénées-Atlantiques
 
-Centre hospitalier de la Côte Basque, avenue Jacques-Loëb, 64100 Bayonne ;
+Centre hospitalier de la Côte Basque, avenue Jacques-Loëb, 64100 Bayonne.
 
 65 - Hautes-Pyrénées
 
-Direction de la solidarité départementale (centre de santé), place Ferré, BP 1324, 65013 Tarbes Cedex ;
+Direction de la solidarité départementale (centre de santé), place Ferré, BP 1324, 65013 Tarbes Cedex.
 
 66 - Pyrénées-Orientales
 
-Service communal d'hygiène et de santé, 11, rue Emile-Zola, 66000 Perpignan ;
+Service communal d'hygiène et de santé, 11, rue Emile-Zola, 66000 Perpignan.
 
 67 - Bas-Rhin
 
-Service de vaccination internationales et de conseils aux voyageurs, Hôpitaux Universitaires de Strasbourg, 1, place de l'Hôpital, 67000 Strasbourg
+Service de vaccination internationales et de conseils aux voyageurs, Hôpitaux Universitaires de Strasbourg, 1, place de l'Hôpital, 67000 Strasbourg.
 
 68 - Haut-Rhin
 
-Centre hospitalier général (service hépato-gastro-entérologie et médecine tropicale), avenue d'Altkirch, BP 1070, 68051 Mulhouse Cedex ;
+Centre hospitalier général (service hépato-gastro-entérologie et médecine tropicale), avenue d'Altkirch, BP 1070, 68051 Mulhouse Cedex.
 
 69 - Rhône
 
-Centre de Vaccination ISBA (Institut de santé Bourgogne-Auvergne), 7, rue Jean-Marie-Chavant, 69007 Lyon ;
+Centre de Vaccination ISBA (Institut de santé Bourgogne-Auvergne), 7, rue Jean-Marie-Chavant, 69007 Lyon.
 
-Clinique du Tonkin, 35, rue du Tonkin, 69100 Villeurbanne ;
+Clinique du Tonkin, 35, rue du Tonkin, 69100 Villeurbanne.
 
-Fondation Dispensaire de Lyon, 10, rue de Sévigné, 69003 Lyon ;
+Fondation Dispensaire de Lyon, 10, rue de Sévigné, 69003 Lyon.
 
-Hôpital de la Croix-Rousse (service de parasitologie du Pr Peyron), 94, Grand-Rue de la Croix-Rousse, 69004 Lyon ;
+Hôpital de la Croix-Rousse (service de parasitologie du Pr Peyron), 94, Grand-Rue de la Croix-Rousse, 69004 Lyon.
 
-Hôpital d'instruction des armées Desgenettes, 108, boulevard Pinel, 69275 Lyon Cedex 03 ;
+Hôpital d'instruction des armées Desgenettes, 108, boulevard Pinel, 69275 Lyon Cedex 03.
 
 70 - Haute-Saône
 
-Service de réanimation polyvalente et maladies infectieuses, centre de médecine du voyage, centre hospitalier intercommunal de la Haute-Saône, site de Vesoul, 41, avenue Aristide-Briand, 70000 Vesoul ;
+Service de réanimation polyvalente et maladies infectieuses, centre de médecine du voyage, centre hospitalier intercommunal de la Haute-Saône, site de Vesoul, 41, avenue Aristide-Briand, 70000 Vesoul.
 
 71 - Saône-et-Loire
 
-Centre hospitalier Les Chanaux, boulevard Louis-Escande, 71018 Macon Cedex ;
+Centre hospitalier Les Chanaux, boulevard Louis-Escande, 71018 Macon Cedex.
 
 Centre hospitalier de Paray le Monial, 15, rue Pasteur, 71604 Paray-le-Monial Cedex.
 
@@ -298,6 +302,8 @@ Service communal d'hygiène et de santé, immeuble Le Cristal, 1, place du Forum
 
 74 - Haute-Savoie
 
+Centre hospitalier de la région d'Annecy, 1, avenue de l'Hôpital, Metz-Tessy, BP 90074, 74374 Pringy Cedex.
+
 Centre hospitalier, BP 2333, 1, avenue de Trésum, 74011 Annecy Cedex.
 
 75 - Paris
@@ -310,9 +316,9 @@ Assistance publique - hôpitaux de Paris, hôpital Saint-Louis, 1, avenue Claude
 
 Assistance publique - hôpitaux de Paris, hôpital Tenon, 4, rue de la Chine, 75020 Paris.
 
-Centre médical des entreprises travaillant à l'extérieur, 10, rue du Colonel-Driant, 75001 Paris ;
+Centre médical des entreprises travaillant à l'extérieur, 10, rue du Colonel-Driant, 75001 Paris.
 
-Centre Montaigne santé, 53, avenue Montaigne, 75008 Paris ;
+Centre Montaigne santé, 53, avenue Montaigne, 75008 Paris.
 
 Centre de santé René Laborie (Mutuelle des réalisations sanitaires et sociales de la communication), 29, rue de Turbigo, 75081 Paris Cedex 02.
 
@@ -322,11 +328,9 @@ Centre de vaccination Air France, aérogare des Invalides, 2, rue Esnault-Pelter
 
 Centre de vaccination de la Ville de Paris, 13, rue Charles-Berteau, 75013 Paris.
 
-Croix-Rouge française, 22, boulevard Saint-Michel, 75006 Paris.
-
 Groupe hospitalier Cochin, 27, rue du Faubourg-Saint-Jacques, 75014 Paris.
 
-Groupe hospitalier La Pitié-Salpêtrière, pavillon Lavéran, 47, boulevard de l'Hôpital, 75634 Paris Cedex 13 ;
+Groupe hospitalier La Pitié-Salpêtrière, pavillon Lavéran, 47, boulevard de l'Hôpital, 75634 Paris Cedex 13.
 
 Hôpital de l'Institut Pasteur, 209, rue de Vaugirard, 75015 Paris.
 
@@ -344,7 +348,7 @@ UNESCO, place de Fontenoy, 75007 Paris.
 
 Centre hospitalier universitaire, hôpital Charles Nicolle, 1, rue de Germont, 76031 Rouen Cedex.
 
-Centre hospitalier général, pavillon René Vincent, 55 bis, rue Gustave-Flaubert, 76083 Le Havre Cedex.
+Hôpital Jacques Monod, 29, avenue Mendès-France, 76290 Montivilliers.
 
 Centre médical international des marins (centre médical François-Ier), 1, rue Voltaire, 76600 Le Havre.
 

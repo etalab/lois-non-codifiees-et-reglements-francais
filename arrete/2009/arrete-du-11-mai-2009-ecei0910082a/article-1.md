@@ -40,6 +40,12 @@ Par arrêté de la ministre de l'économie, de l'industrie et de l'emploi en dat
 </td>
 </tr>
 <tr>
+<td>
+<p align="left">Adjoint au chef du service risques technologiques et environnement industriel à la direction régionale de l'environnement, de l'aménagement et du logement de Midi-Pyrénées.<br/>
+</p>
+</td>
+</tr>
+<tr>
 <td align="center">
 <p align="left">Chef de la division développement industriel régional à la direction régionale de l'industrie, de la recherche et de l'environnement de Bretagne<br/>
 </p>
@@ -84,12 +90,6 @@ Par arrêté de la ministre de l'économie, de l'industrie et de l'emploi en dat
 <tr>
 <td align="center">
 <p align="left">Secrétaire général de l'Ecole nationale supérieure des techniques industrielles et des mines d'Albi-Carmaux<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Chef de la division contrôles techniques à la direction régionale de l'environnement, de l'aménagement et du logement de Midi-Pyrénées<br/>
 </p>
 </td>
 </tr>

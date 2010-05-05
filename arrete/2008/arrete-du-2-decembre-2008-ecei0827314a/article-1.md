@@ -22,19 +22,19 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, les empl
 
 - adjoint au chef de la division installations nucléaires, chargé des réacteurs à eau sous-pression au sein de l'Autorité de sûreté nucléaire d'Orléans ;
 
-- adjoint au chef du bureau de la métrologie à la direction générale des entreprises ;
+- Adjoint au chef du bureau de la métrologie à la direction générale de la compétitivité, de l'industrie et des services ;
 
-- chef du bureau matériel de transport à la direction générale des entreprises ;
-
-- adjoint au chef du bureau de l'animation régionale en charge du pilotage du réseau des DRIRE pour les actions de développement économique à la direction générale des entreprises ;
-
-- chargé de mission auprès du secrétariat général à la direction générale des entreprises ;
+- Chef du bureau "matériel de transport" à la direction générale de la compétitivité, de l'industrie et des services ;
 
 - chargé de mission auprès du chef du service de l'industrie à la direction générale de la compétitiviyé, de l'industrie et des services ;
 
-- adjoint au chef du bureau de la gestion des corps techniques de la direction générale des entreprises ;
+- adjoint au chef de la mission de l'action régionale, en charge du pilotage du réseau des DIRECCTE pour les actions de développement économique à la direction générale de la compétitivité, de l'industrie et des services ;
 
-- responsable de la mission de suivi personnalisé et des parcours professionnels des agents de la direction générale des entreprises ;
+- chef de la mission du contrôle de gestion et des audits au sein du secrétariat général de la direction générale de la compétitivité, de l'industrie et des services ;
+
+- Adjoint au chef du bureau de la gestion des corps techniques à la direction générale de la compétitivité, de l'industrie et des services ;
+
+- Responsable de la mission de suivi personnalisé et des parcours professionnels des agents à la direction générale de la compétitivité, de l'industrie et des services ;
 
 - chef du bureau des ressources minérales de la direction générale de l'aménagement, du logement et de la nature ;
 
@@ -68,7 +68,7 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, les empl
 
 - chef de la division contrôles techniques et énergie de la direction régionale de l'environnement, de l'aménagement et du logement d'Alsace ;
 
-- directeur régional de l'industrie, de la recherche et de l'environnement d'Antilles-Guyane ;
+- directeur régional de l'environnement de l'aménagement et du logement d'Antilles-Guyane ;
 
 - chef de la division environnement, énergie et techniques industrielles à la direction régionale de l'environnement, de l'aménagement et du logement d'Antilles-Guyane ;
 
@@ -104,11 +104,11 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, les empl
 
 - chef de la division techniques industrielles et énergie à la direction régionale de l'environnement, de l'aménagement et du logement du Centre ;
 
-- chef du groupe de subdivisions Aube-Haute-Marne à la direction régionale de l'environnement, de l'aménagement et du logement de Champagne-Ardenne ;
+- Chef de l'unité territoriale Aube - Haute-Marne à la direction régionale de l'environnement, de l'aménagement et du logement de Champagne-Ardenne ;
 
-- secrétaire général de la direction régionale de l'environnement, de l'aménagement et du logement de Champagne-Ardenne ;
+- Secrétaire général et chef du pôle de service intégré (PSI) à la direction régionale de l'environnement, de l'aménagement et du logement de Champagne-Ardenne ;
 
-- directeur régional délégué de l'industrie, de la recherche et de l'environnement de Corse ;
+- Adjoint au directeur régional de l'environnement, de l'aménagement et du logement de Corse ;
 
 - chef de la division environnement industriel et sous-sol à la direction régionale de l'environnement, de l'aménagement et du logement de Franche-Comté ;
 
@@ -116,15 +116,15 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, les empl
 
 - chef de la division contrôles techniques et énergie à la direction régionale de l'environnement, de l'aménagement et du logement de Franche-Comté ;
 
-- chef du groupe de subdivisions du Havre à la direction régionale de l'environnement, de l'aménagement et du logement de Haute-Normandie ;
+- Chef de l'unité territoriale du Havre à la direction régionale de l'environnement, de l'aménagement et du logement de Haute-Normandie ;
 
-- secrétaire général de la direction régionale de l'environnement, de l'aménagement et du logement de Haute-Normandie ;
+- Chef de l'unité territoriale Rouen-Dieppe à la direction régionale de l'environnement, de l'aménagement et du logement de Haute-Normandie ;
 
-- chef du groupe de subdivisions Rouen-Dieppe à la direction régionale de l'environnement, de l'aménagement et du logement de Haute-Normandie ;
+- chef de projet certification et chargé de mission défense et sécurité de la direction régionale de l'environnement, de l'aménagement et du logement de Haute-Normandie ;
 
-- adjoint au chef de la division environnement à la direction régionale de l'environnement, de l'aménagement et du logement de Haute-Normandie ;
+- responsable du bureau des risques technologiques accidentels, adjoint au chef de service à la direction régionale de l'environnement, de l'aménagement et du logement de Haute-Normandie ;
 
-- chef de la division contrôles techniques et énergie à la direction régionale de l'environnement, de l'aménagement et du logement de Haute-Normandie ;
+- chef du service énergie-climat-logement-aménagement durable et du bureau énergie-climat à la direction régionale de l'environnement, de l'aménagement et du logement de Haute-Normandie ;
 
 - secrétaire général de la direction régionale de l'environnement, de l'aménagement et du logement d'Ile-de-France ;
 
@@ -164,69 +164,67 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, les empl
 
 - secrétaire général de la direction régionale de l'environnement, de l'aménagement et du logement de Lorraine ;
 
-- chef de la division contrôles techniques à la direction régionale de l'environnement, de l'aménagement et du logement de Midi-Pyrénées ;
+- Secrétaire général de la direction régionale de l'environnement, de l'aménagement et du logement de Midi-Pyrénées ;
 
-- secrétaire général de la direction régionale de l'environnement, de l'aménagement et du logement de Midi-Pyrénées ;
+- Chef de l'unité territoriale de la Haute-Garonne à la direction régionale de l'environnement, de l'aménagement et du logement de Midi-Pyrénées ;
 
-- chef du groupe de subdivisions de la Haute-Garonne à la direction régionale de l'environnement, de l'aménagement et du logement de Midi-Pyrénées ;
+― Chef de l'unité territoriale du Tarn et de l'Aveyron à la direction régionale de l'environnement, de l'aménagement et du logement de Midi-Pyrénées ;
 
-― chef du groupe de subdivisions du Tarn et de l'Aveyron à la direction régionale de l'environnement, de l'aménagement et du logement de Midi-Pyrénées ;
+- adjoint au chef du service risques technologiques et environnement industriel à la direction régionale de l'environnement, de l'aménagement et du logement de Midi-Pyrénées ;
 
-- secrétaire général de la direction régionale de l'environnement, de l'aménagement et du logement de Nord-Pas-de-Calais ;
+- Secrétaire général de la direction régionale de l'environnement, de l'aménagement et du logement du Nord - Pas-de-Calais ;
 
-- chef du groupe de subdivisions de Béthune à la direction régionale de l'environnement, de l'aménagement et du logement de Nord-Pas-de-Calais ;
+- Chef de l'unité territoriale de Béthune à la direction régionale de l'environnement, de l'aménagement et du logement du Nord - Pas-de-Calais ;
 
-- chef du groupe de subdivisions de Valenciennes à la direction régionale de l'environnement, de l'aménagement et du logement de Nord-Pas-de-Calais ;
+- Chef de l'unité territoriale de Valenciennes à la direction régionale de l'environnement, de l'aménagement et du logement du Nord - Pas-de-Calais ;
 
-- chef du groupe de subdivisions de Lille à la direction régionale de l'environnement, de l'aménagement et du logement de Nord-Pas-de-Calais ;
+- Chef de l'unité territoriale de Lille à la direction régionale de l'environnement, de l'aménagement et du logement du Nord - Pas-de-Calais ;
 
-- chef du groupe de subdivisions du littoral à la direction régionale de l'environnement, de l'aménagement et du logement de Nord-Pas-de-Calais ;
+- Chef de l'unité territoriale du littoral à la direction régionale de l'environnement, de l'aménagement et du logement du Nord - Pas-de-Calais ;
 
-- adjoint au chef de la division environnement, chef du pôle risques à la direction régionale de l'environnement, de l'aménagement et du logement de Nord-Pas-de-Calais ;
+- adjoint au chef du service risques, chef de la division risques accidentels à la direction régionale de l'environnement, de l'aménagement et du logement du Nord - Pas-de-Calais ;
 
-- chef de la division contrôles techniques, énergie, défense à la direction régionale de l'environnement, de l'aménagement et du logement de Nord-Pas-de-Calais ;
+- chef du service transports et véhicules à la direction régionale de l'environnement, de l'aménagement et du logement du Nord - Pas-de-Calais ;
 
-- chef de la division contrôles techniques et surveillance des organismes à la direction régionale de l'environnement, de l'aménagement et du logement des Pays de la Loire ;
+- Chef de l'unité territoriale de Nantes à la direction régionale de l'environnement, de l'aménagement et du logement des Pays de la Loire ;
 
-- chef du groupe de subdivisions de Nantes à la direction régionale de l'environnement, de l'aménagement et du logement des Pays de la Loire ;
+- adjoint au directeur, chef du service transports routiers et véhicules à la direction régionale de l'environnement, de l'aménagement et du logement des Pays de la Loire ;
 
-― chef du groupe de subdivisions de l'Oise à la direction régionale de l'environnement, de l'aménagement et du logement de Picardie ;
+― Chef de l'unité territoriale de l'Oise à la direction régionale de l'environnement, de l'aménagement et du logement de Picardie ;
 
 - chef de la division environnement, ressources minérales et énergie à la direction régionale de l'environnement, de l'aménagement et du logement de Poitou-Charentes ;
 
 - chef de la division contrôles techniques et énergie à la direction régionale de l'environnement, de l'aménagement et du logement de Poitou-Charentes ;
 
-- chef du groupe de subdivisions des Bouches-du-Rhône à la direction régionale de l'environnement, de l'aménagement et du logement de Provence-Alpes-Côte d'Azur ;
+- Chef de l'unité territoriale des Bouches-du-Rhône à la direction régionale de l'environnement, de l'aménagement et du logement de Provence-Alpes-Côte d'Azur ;
 
-- secrétaire général de la direction régionale de l'environnement, de l'aménagement et du logement de Provence-Alpes-Côte d'Azur ;
+- Secrétaire général de la direction régionale de l'environnement, de l'aménagement et du logement de Provence-Alpes-Côte d'Azur ;
 
-- chef de la division contrôles techniques et énergie de la direction régionale de l'environnement, de l'aménagement et du logement de Provence-Alpes-Côte d'Azur ;
+- chef de la mission pilotage information crédits de la direction régionale de l'environnement, de l'aménagement et du logement de Provence-Alpes-Côte d'Azur ;
 
-- directeur régional de l'industrie, de la recherche et de l'environnement de la Réunion ;
+- directeur régional de l'environnement de l'aménagement et du logement de la Réunion ;
 
-- chef du groupe de subdivisions du Rhône à la direction régionale de l'environnement, de l'aménagement et du logement de Rhône-Alpes ;
+- Chef de l'unité territoriale du Rhône à la direction régionale de l'environnement, de l'aménagement et du logement de Rhône-Alpes ;
 
-- secrétaire général de la direction régionale de l'environnement, de l'aménagement et du logement de Rhône-Alpes ;
+- Chef de l'unité territoriale de l'Isère à la direction régionale de l'environnement, de l'aménagement et du logement de Rhône-Alpes ;
 
-- chef du groupe de subdivisions de l'Isère à la direction régionale de l'environnement, de l'aménagement et du logement de Rhône-Alpes ;
+- Chef de l'unité territoriale des Deux Savoies à la direction régionale de l'environnement, de l'aménagement et du logement de Rhône-Alpes ;
 
-- chef du groupe de subdivisions des Deux Savoie à la direction régionale de l'environnement, de l'aménagement et du logement de Rhône-Alpes ;
+- Chef de l'unité territoriale Drôme-Ardèche à la direction régionale de l'environnement, de l'aménagement et du logement de Rhône-Alpes ;
 
-- chef de la division contrôles techniques à la direction régionale de l'environnement, de l'aménagement et du logement de Rhône-Alpes ;
+- Chef de l'unité territoriale de la Loire à la direction régionale de l'environnement, de l'aménagement et du logement de Rhône-Alpes ;
 
-- chef du groupe de subdivisions Drôme-Ardèche à la direction régionale de l'environnement, de l'aménagement et du logement de Rhône-Alpes ;
+- chef du service animation, stratégie et programmation à la direction régionale de l'environnement, de l'aménagement et du logement de Rhône-Alpes ;
 
-- adjoint au chef de la division environnement, chef du pôle risques accidentels à la direction régionale de l'environnement, de l'aménagement et du logement de Rhône-Alpes ;
+- chef du service transports et véhicules à la direction régionale de l'environnement, de l'aménagement et du logement de Rhône-Alpes ;
 
-- adjoint au chef de la division environnement, chef du pôle risques chroniques à la direction régionale de l'environnement, de l'aménagement et du logement de Rhône-Alpes ;
+- chef de service, adjoint au titre de la coordination IIC, au service prévention des risques à la direction régionale de l'environnement, de l'aménagement et du logement de Rhône-Alpes ;
 
-- chargé de mission auprès du directeur régional de l'industrie, de la recherche et de l'environnement de Rhône-Alpes en charge du pôle environnement et développement durable ;
-
-- chef du groupe de subdivisions de la Loire à la direction régionale de l'environnement, de l'aménagement et du logement de Rhône-Alpes ;
+- chef de l'unité prévention des pollutions et police de l'eau au sein du service ressources énergie milieux et prévention des pollutions à la direction régionale de l'environnement, de l'aménagement et du logement de Rhône-Alpes ;
 
 - chef du bureau de la réglementation, du pilotage de l'inspection, des contrôles et de la qualité, chargé du pôle " installations classées " à la direction générale de la prévention des risques ;
 
-- directeur régional de l'industrie, de la recherche et de l'environnement du Limousin ;
+- directeur régional de l'environnement de l'aménagement et du logement du Limousin ;
 
 - adjoint au directeur de la direction des équipements sous pression nucléaire à l'Autorité de sûreté nucléaire ;
 
