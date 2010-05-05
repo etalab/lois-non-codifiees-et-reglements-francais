@@ -1,14 +1,14 @@
 # Article 11
 
-Les dispositions des titres II et III s'appliquent sans préjudice de celles qui sont prévues à l'article 26 de la loi n° 95-96 du 1er février 1995 concernant les clauses abusives et la présentation des contrats et régissant diverses activités d'ordre économique et commercial et à l'article L. 9-2 du code de la route.
+Les dispositions des titres II et III s'appliquent sans préjudice de celles qui sont prévues à l'article 26 de la loi n° 95-96 du 1er février 1995 concernant les clauses abusives et la présentation des contrats et régissant diverses activités d'ordre économique et commercial et à            l'article L. 325-4 du code de la route.
 
-Lorsqu'il a été constaté une infraction pour l'un des trois cas prévus à l'article L. 9-2 du code de la route, à savoir :
+Lorsqu'il a été constaté une infraction pour l'un des trois cas prévus à            l'article L. 325-4 du code de la route, à savoir :
 
-- soit le dépassement de plus de 20 km/h de la vitesse maximale autorisée sur les voies ouvertes à la circulation publique ou de la vitesse maximale autorisée par construction de son véhicule ;
+-soit le dépassement de plus de 20 km / h de la vitesse maximale autorisée sur les voies ouvertes à la circulation publique ou de la vitesse maximale autorisée par construction de son véhicule ;
 
-- soit le dépassement de plus de 20 % de la durée maximale de conduite journalière ;
+-soit le dépassement de plus de 20 % de la durée maximale de conduite journalière ;
 
-- soit la réduction à moins de six heures de la durée de repos,
+-soit la réduction à moins de six heures de la durée de repos,
 
 le conducteur présente le document de suivi prévu à l'article 26 de la loi du 1er février 1995 précité.
 
@@ -32,4 +32,4 @@ Lorsque le contrat de transport prévoit plusieurs opérations successives de ch
 
 L'entreprise de transport, résidant ou non en France, peut établir ce document de suivi en complétant la lettre de voiture nationale ou internationale prévue à l'article 4 du présent arrêté, ou en élaborant un document spécifique.
 
-En application de l'article L. 9-2 du code de la route, le véhicule ou l'ensemble routier et son chargement sont immédiatement immobilisés dans le cas où, le véhicule ayant commis l'une des trois infractions rappelées ci-dessus, le conducteur ne présente pas de document de suivi dûment rempli par le remettant ou son représentant.
+En application de            l'article L. 325-4 du code de la route, le véhicule ou l'ensemble routier et son chargement sont immédiatement immobilisés dans le cas où, le véhicule ayant commis l'une des trois infractions rappelées ci-dessus, le conducteur ne présente pas de document de suivi dûment rempli par le remettant ou son représentant.

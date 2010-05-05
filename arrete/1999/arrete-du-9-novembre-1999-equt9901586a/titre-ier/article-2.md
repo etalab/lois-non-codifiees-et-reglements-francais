@@ -2,11 +2,11 @@
 
 Les transports routiers de marchandises effectués pour leur propre compte par les entreprises ou dans les conditions définies par l'article 17 du décret du 30 août 1999 susvisé doivent être accompagnés de la facture, du bon d'enlèvement ou du bon de livraison.
 
-I. - Le document présenté comporte obligatoirement les indications suivantes :
+I.-Le document présenté comporte obligatoirement les indications suivantes :
 
 a) Date de l'expédition ou de l'enlèvement ;
 
-b) Nom et adresse de l'entreprise qui effectue le transport ainsi que, en cas de cabotage en France, références de son immatriculation au centre des impôts des non résidents ;
+b) Nom et adresse de l'entreprise qui effectue le transport                     ;
 
 c) Nom et adresse de l'expéditeur s'il est différent de l'entreprise qui effectue le transport ;
 
@@ -18,13 +18,13 @@ f) Lieu de déchargement ;
 
 g) Nature et quantité ou poids ou volume de la marchandise.
 
-II. - Lorsqu'il s'agit d'une opération de transport d'un produit de même nature, réalisée pour le compte d'expéditeurs ou de destinataires multiples, le document peut comporter les indications suivantes :
+II.-Lorsqu'il s'agit d'une opération de transport d'un produit de même nature, réalisée pour le compte d'expéditeurs ou de destinataires multiples, le document peut comporter les indications suivantes :
 
 a) Date du premier enlèvement ou de la première livraison ;
 
 b) Date et heure de début de l'opération de transport ;
 
-c) Nom et adresse de l'entreprise qui effectue le transport ainsi que, en cas de cabotage, références de son immatriculation au centre des impôts des non résidents ;
+c) Nom et adresse de l'entreprise qui effectue le transport ;
 
 d) Nom et adresse du premier expéditeur s'il est différent de l'entreprise qui effectue le transport ;
 

@@ -1,10 +1,10 @@
 # Article 6
 
-I. - Les transports de déménagement, c'est-à-dire les transports de meubles ou d'objets mobiliers effectués au départ ou à destination d'un garde-meubles et, lorsque l'expéditeur est également le destinataire, les transports de meubles ou d'objets mobiliers usagés en provenance et à destination d'un local d'habitation ou d'un local à usage professionnel, commercial, industriel, artisanal ou administratif, donnent lieu à établissement d'une lettre de voiture de déménagement.
+I. - Les transports de déménagement, c'est-à-dire les transports de meubles ou d'objets mobiliers effectués au départ ou à destination d'un garde-meubles et, lorsque l'expéditeur est également le destinataire, les transports de meubles ou d'objets mobiliers usagés en provenance et à destination d'un local d'habitation ou d'un local à usage professionnel, commercial, industriel, artisanal ou administratif, donnent lieu à établissement d'une lettre de voiture de déménagement. La lettre de voiture est de forme libre. Elle peut être établie sous forme électronique.
 
 II. - Ce document comporte obligatoirement les indications suivantes :
 
-a) Nom, adresse et numéro SIREN ou numéro d'identification intracommunautaire de l'entreprise de déménagement ainsi que, en cas de cabotage en France, références de son immatriculation au centre des impôts des non résidents ;
+a) Nom, adresse et numéro SIREN ou numéro d'identification intracommunautaire de l'entreprise de déménagement ;
 
 b) Nom et adresse du client ;
 
@@ -14,11 +14,11 @@ d) Volume du mobilier ;
 
 e) Lieux de chargement et de livraison ;
 
-f) Date limite des opérations de chargement et de livraison ;
+f) Date limite des opérations de chargement et de livraison.
 
-g) Numéro d'inscription de l'entreprise de déménagement au registre des transporteurs et des loueurs.
+III. - Les dispositions des III et IV de l'article 4 sont applicables aux opérations de déménagement.
 
-III. - La lettre de voiture de déménagement est établie en quatre exemplaires :
+IV. - La lettre de voiture de déménagement est établie en quatre exemplaires :
 
 a) Un exemplaire constitue la souche ; il est conservé par l'entreprise ;
 
