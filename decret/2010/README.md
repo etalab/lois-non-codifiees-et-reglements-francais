@@ -387,6 +387,7 @@
 - [Décret n°2010-433 du 29 avril 2010 (JUSC0915265D)](decret-n2010-433-du-29-avril-2010-jusc0915265d)
 - [Décret n°2010-434 du 29 avril 2010 (JUSC1005049D)](decret-n2010-434-du-29-avril-2010-jusc1005049d)
 - [Décret n°2010-441 du 29 avril 2010 (AGRS0925670D)](decret-n2010-441-du-29-avril-2010-agrs0925670d)
+- [Décret n°2005-1792 du 30 décembre 2005 (ECOP0500973D)](decret-n2005-1792-du-30-decembre-2005-ecop0500973d)
 - [Décret n°2009-1679 du 30 décembre 2009 (DEVU0925052D)](decret-n2009-1679-du-30-decembre-2009-devu0925052d)
 - [Décret n°2009-1680 du 30 décembre 2009 (DEVU0925541D)](decret-n2009-1680-du-30-decembre-2009-devu0925541d)
 - [Décret n°2009-1681 du 30 décembre 2009 (DEVU0924520D)](decret-n2009-1681-du-30-decembre-2009-devu0924520d)
