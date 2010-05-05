@@ -4,7 +4,7 @@ I. ― Outre une cellule chargée de la communication et une mission de suivi pe
 
 Le bureau des ressources humaines et des services
 
-En liaison avec la direction des personnels et de l'adaptation de l'environnement professionnel et conformément aux orientations générales fixées par le secrétariat général du ministère, il assure les tâches de gestion des personnels de l'administration centrale de la direction générale. Il élabore et contribue à la mise en œuvre de la politique de formation de ces personnels.
+En liaison avec le secrétariat général des ministères économique et financier, il assure les tâches de gestion des personnels de l'administration centrale de la direction générale. Il élabore et contribue à la mise en œuvre de la politique de formation de ces personnels.
 
 Il assure les tâches d'administration de la direction générale et gère le budget de fonctionnement de celle-ci.
 
@@ -16,7 +16,7 @@ Il est chargé du contrôle de gestion et du pilotage de la performance dans le 
 
 Le bureau des réseaux d'expertise et de veille internationales
 
-Interface entre, d'une part, les services économiques et, d'autre part, la direction générale, les autres directions des ministères chargés de l'économie et du budget et les commanditaires extérieurs (cabinets ministériels, administrations, assemblées parlementaires, corps d'inspection et de contrôle), il pilote la réalisation, l'évaluation et la diffusion des études comparatives et de prospectives internationales confiées aux services économiques . Il anime les réseaux de veille thématiques et sectoriels des services économiques dans les domaines définis comme stratégiques par la direction générale. Il contribue, en liaison avec les services économiques , aux actions de la direction générale en matière d'intelligence économique.
+Interface entre, d'une part, les services économiques et, d'autre part, la direction générale, les autres directions des ministères chargés de l'économie et du budget et les commanditaires extérieurs (cabinets ministériels, administrations, assemblées parlementaires, corps d'inspection et de contrôle), il pilote la réalisation, l'évaluation et la diffusion des études comparatives et de prospectives internationales confiées aux services économiques. Il anime les réseaux de veille thématiques et sectoriels des services économiques dans les domaines définis comme stratégiques par la direction générale. Il contribue, en liaison avec les services économiques, aux actions de la direction générale en matière d'intelligence économique.
 
 II.-L'inspection générale des services extérieurs, dont les rapports et recommandations sont adressés au directeur général, est rattachée au secrétaire général. Elle procède au contrôle et à l'évaluation des activités des services à l'étranger du ministère de l'économie, de l'industrie et de l'emploi et contribue au contrôle et à l'évaluation des directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l'emploi, dans le cadre des orientations définies par la direction générale. Elle anime la réflexion sur leurs missions, leur organisation et leurs méthodes de travail. Elle est responsable du pilotage du système de management de la qualité.
 

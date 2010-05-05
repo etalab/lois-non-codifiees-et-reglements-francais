@@ -1,3 +1,3 @@
 # Article 4
 
-Le directeur général de l'institut est nommé par arrêté du ministre de l'économie, des finances et de l'industrie, sur proposition du secrétaire général du ministère de l'économie, des finances et de l'industrie. Le directeur général de l'institut est assisté d'un adjoint.
+Le directeur général de l'institut, nommé sur proposition du secrétaire général des ministères économique et financier, peut avoir rang de chef de service. Il est assisté d'un adjoint pouvant avoir rang de sous-directeur.

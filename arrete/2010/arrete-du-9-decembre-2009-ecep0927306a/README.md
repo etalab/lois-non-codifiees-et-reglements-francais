@@ -1,4 +1,4 @@
-# Arrêté du 9 décembre 2009 portant création d'un centre de prestations financières au sein de la direction des personnels et de l'adaptation de l'environnement professionnel
+# Arrêté du 9 décembre 2009 portant création d'un centre de prestations financières au sein du secrétariat général des ministères économique et financier
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

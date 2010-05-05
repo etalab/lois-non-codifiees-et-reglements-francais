@@ -1,4 +1,4 @@
-# Arrêté du 20 mai 2009 portant organisation du service de la communication
+# Arrêté du 22 avril 2008 portant organisation de la direction générale de la modernisation de l'Etat
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -7,3 +7,4 @@
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
+- [Article 8](article-8.md)

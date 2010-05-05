@@ -10,7 +10,7 @@ Il assure la restitution des informations relatives au suivi de la programmation
 
 Le pôle "Gestion"
 
-Il est chargé de l'exécution financière afférente aux décisions d'achat ou d'octroi de subvention des services prescripteurs, en liaison avec le service facturier mentionné au IV de l'article 2. L'organisation du travail entre le centre de prestations financières et le service facturier est précisée dans un contrat de service cosigné par le directeur des personnels et de l'adaptation de l'environnement professionnel et le contrôleur budgétaire et comptable ministériel ; le cas échéant, ce document fait état des opérations mentionnées au IV précité.
+Il est chargé de l'exécution financière afférente aux décisions d'achat ou d'octroi de subvention des services prescripteurs, en liaison avec le service facturier mentionné au IV de l'article 2. L'organisation du travail entre le centre de prestations financières et le service facturier est précisée dans un contrat de service cosigné par le secrétaire général des ministères économique et financier et le contrôleur budgétaire et comptable ministériel ; le cas échéant, ce document fait état des opérations mentionnées au IV précité.
 
 Il est chargé de l'exécution financière afférente aux recettes non fiscales.
 
@@ -32,4 +32,4 @@ Le pôle "Affaires transversales"
 
 Outre la gestion des affaires générales, il est chargé de la qualité des procédures internes et du suivi des activités du centre de prestations financières.
 
-Il veille à la mise en œuvre du dispositif de contrôle interne comptable de la direction des personnels et de l'adaptation de l'environnement professionnel.
+Il veille à la mise en œuvre du dispositif de contrôle interne comptable du secrétariat général des ministères économique et financier.
