@@ -1,5 +1,5 @@
 # Article Annexe
 
-Vous pouvez consulter l'annexe dans le JO n° 27 du 01/02/2009 texte numéro 2 à l'adresse suivante
+Vous pouvez consulter l'annexe dans le JO n° 104 du 05/05/2010 texte numéro 6 à l'adresse suivante
 
-http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20090201&numTexte=2&pageDebut=01887&pageFin=01892
+http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20100505&numTexte=6&pageDebut=08095&pageFin=08100
