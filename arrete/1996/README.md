@@ -563,7 +563,6 @@
 - [Arrêté du 17 mai 1996 (MIPP9600225A)](arrete-du-17-mai-1996-mipp9600225a)
 - [Arrêté du 18 avril 1996 (ENVE9650144A)](arrete-du-18-avril-1996-enve9650144a)
 - [Arrêté du 18 avril 1996 (TASP9621221A)](arrete-du-18-avril-1996-tasp9621221a)
-- [Arrêté du 18 avril 1996 (TASS9621230A)](arrete-du-18-avril-1996-tass9621230a)
 - [Arrêté du 18 avril 1997 (TASH9721595A)](arrete-du-18-avril-1997-tash9721595a)
 - [Arrêté du 18 décembre 1996 (MCCB9600611A)](arrete-du-18-decembre-1996-mccb9600611a)
 - [Arrêté du 18 décembre 1996 (MENF9602813A)](arrete-du-18-decembre-1996-menf9602813a)
