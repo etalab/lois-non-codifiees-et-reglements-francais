@@ -1,0 +1,7 @@
+# Article 3
+
+1. En application des dispositions du dernier alinéa de l'article L. 121-95 du code de la consommation destinées à permettre au consommateur d'émettre des réserves sur l'état du mobilier réceptionné ou son caractère incomplet à la suite d'un déménagement, le professionnel lui remet l'exemplaire de la lettre de voiture qui constitue le bulletin de livraison prévu au c du III de l'article 6 de l'arrêté du 9 novembre 1999 susvisé. Ce document est remis au consommateur par le professionnel à la réception du mobilier.
+
+2. L'exemplaire de la lettre de voiture qui constitue le bulletin de livraison permet au consommateur de préciser soit qu'il a reçu son mobilier au complet et sans réserve, soit qu'il émet des réserves. A cette fin, il comporte une rubrique permettant au consommateur d'indiquer par écrit quelles sont ses réserves.
+
+3. Le bulletin de livraison doit mentionner clairement que le consommateur dispose d'un délai de dix jours calendaires à compter de la réception des biens pour émettre par lettre recommandée une protestation motivée sur l'état du mobilier réceptionné ou son caractère incomplet, en application de l'article L. 121-95 du code de la consommation, si les réserves émises à la réception du mobilier ne sont pas acceptées par le professionnel. Le bulletin de livraison doit aussi mentionner clairement que le consommateur peut émettre une protestation motivée pendant le délai de dix jours calendaires à compter de la réception des biens, même s'il n'a pas émis de réserves à la livraison.
