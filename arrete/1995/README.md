@@ -231,7 +231,6 @@
 - [Arrêté du 6 mars 1995 (SPSS9500280A)](arrete-du-6-mars-1995-spss9500280a)
 - [Arrêté du 6 mars 1995 (SPSS9500776A)](arrete-du-6-mars-1995-spss9500776a)
 - [Arrêté du 6 novembre 1995 (AGRP9502316A)](arrete-du-6-novembre-1995-agrp9502316a)
-- [Arrêté du 6 novembre 1995 (ECOC9500151A)](arrete-du-6-novembre-1995-ecoc9500151a)
 - [Arrêté du 6 novembre 1995 (ECOS9550039A)](arrete-du-6-novembre-1995-ecos9550039a)
 - [Arrêté du 6 novembre 1995 (ECOT9510252A)](arrete-du-6-novembre-1995-ecot9510252a)
 - [Arrêté du 6 novembre 1995 (ECOT9510253A)](arrete-du-6-novembre-1995-ecot9510253a)
