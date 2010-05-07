@@ -1,3 +1,3 @@
 # Article 3
 
-Le secrétaire général de la commission est désigné par le ministre de la santé publique et de la sécurité sociale.
+Les chargés de mission à temps plein et à temps partiel perçoivent une indemnité forfaitaire et spéciale, non soumise aux retenues pour pension, dans les conditions fixées aux articles suivants.

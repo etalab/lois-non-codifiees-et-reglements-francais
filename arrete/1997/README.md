@@ -609,7 +609,6 @@
 - [Arrêté du 19 septembre 1997 (MESS9722918A)](arrete-du-19-septembre-1997-mess9722918a)
 - [Arrêté du 19 septembre 1997 (MESS9722925A)](arrete-du-19-septembre-1997-mess9722925a)
 - [Arrêté du 20 août 1997 (MENL9702010A)](arrete-du-20-aout-1997-menl9702010a)
-- [Arrêté du 20 décembre 1996 (INDB9700020A)](arrete-du-20-decembre-1996-indb9700020a)
 - [Arrêté du 20 décembre 1996 (INDB9700021A)](arrete-du-20-decembre-1996-indb9700021a)
 - [Arrêté du 20 décembre 1996 (TASS9624458A)](arrete-du-20-decembre-1996-tass9624458a)
 - [Arrêté du 20 février 1997 (ACVA9710015A)](arrete-du-20-fevrier-1997-acva9710015a)
