@@ -2,7 +2,7 @@
 
 I. - Il est créé une taxe intitulée : "taxe au profit de l'établissement national des produits de l'agriculture et de la mer (FranceAgriMer) ".
 
-La taxe est affectée à l'établissement national des produits de l'agriculture et de la mer (FranceAgriMer) pour assurer le financement des actions qu'il met en oeuvre au bénéfice du marché des produits laitiers en application de l'article L. 621-3 du code rural.
+La taxe est affectée à l'établissement national des produits de l'agriculture et de la mer (FranceAgriMer) pour assurer le financement des actions qu'il met en oeuvre au bénéfice du marché des produits laitiers en application de l'article L. 621-3 du code rural et de la pêche maritime.
 
 Les opérations financées au moyen du produit de cette taxe font l'objet d'une comptabilité distincte tenue par l'office.
 
