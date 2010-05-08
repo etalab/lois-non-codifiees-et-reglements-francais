@@ -1,47 +1,55 @@
 # Article Annexe I
 
-Raison sociale et adresse du fournisseur : .......................................................................
+Raison sociale et adresse du fournisseur : Mois de :
 
-Numéro d'agrément du fournisseur : ...............................................................................
+Numéro d'agrément du fournisseur :
 
-_Déclaration des quantités de tabacs manufacturés
+Déclaration des quantités de tabacs manufacturés
 
-livrés aux débitants de France continentale_
+livrés aux débitants de France continentale
 
-I. - Opérations sur des débits :
+I.-Détail des opérations relatives aux livraisons de tabac :
 
-1. Livraisons de cigares et cigarillos du mois (1) : ...................................................................... €
+1. Livraisons de cigares et cigarillos (1) : €
 
-2. Livraisons des autres produits du tabac du mois (1) : ............................................................. €
+2. Livraisons des autres produits du tabac (1) : €
 
-3. Remise brute due aux débitants au titre des cigares et cigarillos (9 %) :................................... €
+3. Remise brute due aux débitants au titre des cigares et cigarillos (9 %) : €
 
-4. Remise brute due aux débitants au titre des autres produits du tabac (8,190 %) :..................... €
+4. Remise brute due aux débitants au titre des autres produits du tabac (8, 315 %) : €
 
-5. Remise nette due aux débitants au titre des cigares et cigarillos (7 %) :................................... €
+5. Remise nette due aux débitants au titre des cigares et cigarillos (7 %) : €
 
-6. Remise nette due aux débitants au titre des autres produits du tabac (6,250 %) :..................... €
+6. Remise nette due aux débitants au titre des autres produits du tabac (6, 375 %) : €
 
-7. Précompte au titre des cigares et cigarillos (2 %) :................................................................. €
+7. Précompte dû au titre des cigares et des cigarillos (2 %) : €
 
-dont : droit de licence (1,84 %) :............................................................................................. €
+7. 1. Dont droit de licence (1, 84 %) : €
 
-cotisation au RAVGDT (0,16 %) :.............................................................................................. €
+7. 2. Dont cotisation au RAVGDT (0, 16 %) : €
 
-8. Précompte au titre des autres produits du tabac (1,94 %) :...................................................... €
+8. Précompte dû au titre des autres produits du tabac (1, 94 %) : €
 
-ont : droit de licence (1,78 %) :............................................................................................... €
+8. 1. Dont droit de licence (1, 78 %) : €
 
-cotisation au RAVGDT (0,16 %) :.............................................................................................. €
+8. 2. Dont cotisation au RAVGDT (0, 16 %) : €
 
-II. - Montant à payer (ligne 7 + ligne 8) :
+II. - Détail du montant à payer :
+
+9. Total du droit de licence (ligne 7. 1 + ligne 8. 1) (2) : €
+
+10. Total de la cotisation au RAVGDT (ligne 7. 2 + ligne 8. 2) (2) : €
+
+11. Total du précompte à payer (ligne 9 + ligne 10) : €
 
 La présente déclaration est certifiée conforme au contenu de la déclaration mensuelle des livraisons transmise au centre informatique douanier.
 
-Fait à .......................................................................... , le ...................................................................................................
+Fait à, le
 
-_Signature_
+Signature
 
-Cette déclaration doit être adressée, accompagnée du moyen de paiement, pour le 25 du mois suivant celui au titre duquel elle a été établie, à la recette régionale des douanes de Paris - Ile-de-France, 14, rue Yves-Toudic, 75010 Paris.
+Cette déclaration doit être adressée, accompagnée du moyen de paiement, pour le 25 du mois suivant celui au titre duquel elle a été établie à la recette régionale des douanes de Paris-Ile-de-France, 14, rue Yves-Toudic, 75010 Paris.
 
-_(1) Il s'agit des livraisons brutes moins les corrections mais sans les reprises._
+_(1) Il s'agit des livraisons brutes , c'est-à-dire corrigées des corrections de livraison mais non diminuées des reprises._
+
+_(2) Le montant des lignes 9 et 10 doit être arrondi à l'euro le plus proche. La fraction d'euro égale à 0, 50 est comptée pour 1 (art. 1724 du code général des impôts). Exemple : 1 824, 52 est arrondi à 1 825 ; 1 824, 42 est arrondi à 1 824._
