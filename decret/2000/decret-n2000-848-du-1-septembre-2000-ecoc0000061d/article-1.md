@@ -2,9 +2,9 @@
 
 Le bénéfice de la dénomination " vin de pays " suivie du nom du département ou de celui d'une zone spécifique de production est accordé aux vins qui satisfont aux conditions définies par le présent décret.
 
-Les décrets de définition des conditions de production pris en vertu du b de l'article R. 641-57 du code rural peuvent prévoir des dispositions plus restrictives pour les vins de pays suivis d'une zone spécifique de production.
+Les décrets de définition des conditions de production pris en vertu du b de l'article R. 641-57 du code rural et de la pêche maritime peuvent prévoir des dispositions plus restrictives pour les vins de pays suivis d'une zone spécifique de production.
 
-Les vins de pays sont produits à partir de raisins récoltés dans un département ou une zone de production définie conformément à l'article R. 641-57 du code rural et vinifiés dans ce même département ou cette même zone ainsi que dans leurs arrondissements limitrophes.
+Les vins de pays sont produits à partir de raisins récoltés dans un département ou une zone de production définie conformément à l'article R. 641-57 du code rural et de la pêche maritime et vinifiés dans ce même département ou cette même zone ainsi que dans leurs arrondissements limitrophes.
 
 Les vins de pays sont produits dans la limite d'un rendement revendiqué à l'hectare de 120 hectolitres pour les vins rouges, rosés et blancs. Les volumes pris en compte pour le calcul de ce rendement s'entendent après séparation des bourbes et des lies.
 

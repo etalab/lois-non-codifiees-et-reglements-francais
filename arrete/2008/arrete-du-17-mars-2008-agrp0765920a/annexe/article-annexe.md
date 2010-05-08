@@ -28,9 +28,9 @@ Chaque cahier des charges décrit ses propres caractéristiques et les moyens de
 
 Les présentes exigences et recommandations constituent un ensemble de règles minimales pour demander une certification pour les semences et les plants ; afin de définir précisément le périmètre d'éligibilité à la certification, il est convenu de donner à ces deux termes les acceptions suivantes :
 
-Semences  : comprises au sens botanique du terme, et destinées à être plantées.
+Semences : comprises au sens botanique du terme, et destinées à être plantées.
 
-Plants  : plantes entières et parties de plantes destinées à être plantées en vue de la production. Dans le cas de plantes greffées, le greffon fait partie intégrante du plant.
+Plants : plantes entières et parties de plantes destinées à être plantées en vue de la production. Dans le cas de plantes greffées, le greffon fait partie intégrante du plant.
 
 <font color="#808080" size="1">(1) Voir in fine le tableau des abréviations. </font>
 
@@ -38,7 +38,7 @@ Avertissement
 
 Le concept de certification recouvre plusieurs sens. Pour l'application de ce document, on retiendra donc les définitions suivantes :
 
-Certification et contrôle officiels des semences et plants  : aboutissement d'un processus de contrôle pris en application des directives de commercialisation des semences permettant à l'agence nationale de certification désignée par le ministère de l'agriculture, Service officiel de contrôle et de certification (SOC) pour les plantes de grandes cultures et les espèces légumières, Centre technique interprofessionnel des fruits et légumes (CTIFL) pour les plants fruitiers, Etablissement national des produits de l'agriculture et de la mer (FranceAgriMer) pour la vigne, de s'assurer que les semences ou plants :
+Certification et contrôle officiels des semences et plants : aboutissement d'un processus de contrôle pris en application des directives de commercialisation des semences permettant à l'agence nationale de certification désignée par le ministère de l'agriculture, Service officiel de contrôle et de certification (SOC) pour les plantes de grandes cultures et les espèces légumières, Centre technique interprofessionnel des fruits et légumes (CTIFL) pour les plants fruitiers, Etablissement national des produits de l'agriculture et de la mer (FranceAgriMer) pour la vigne, de s'assurer que les semences ou plants :
 
 -sont conformes au plan de l'identité variétale et possèdent un minimum de pureté variétale ;
 
@@ -46,7 +46,7 @@ Certification et contrôle officiels des semences et plants  : aboutissement d'u
 
 La certification des semences ou plants ne peut être effectuée que dans des établissements préalablement admis au contrôle par l'agence nationale de certification. Elle est concrétisée par l'apposition sur les emballages, rendus inviolables, d'étiquettes officielles, éventuellement de scellés, qui attestent que les opérations de contrôle ont été effectuées par l'agence nationale de certification selon les prescriptions des règlements techniques de production, du contrôle et de la certification en vigueur.
 
-Certification de conformité  : au sens de l'article L. 641-20 du code rural, dispositif de valorisation de denrées alimentaires et de produits agricoles non alimentaires non transformés.
+Certification de conformité : au sens de l'article L. 641-20 du code rural et de la pêche maritime, dispositif de valorisation de denrées alimentaires et de produits agricoles non alimentaires non transformés.
 
 Note importante.-Les exigences relatives à la certification officielle des semences et plants relevant de l'application des directives européennes de commercialisation font l'objet de dispositions nationales spécifiques (règlements techniques de certification) homologuées par arrêtés du ministre de l'agriculture. Elles constituent une base obligatoire pour toute procédure de certification sous signe de qualité.
 
@@ -207,7 +207,9 @@ Un tableau comparatif entre le produit certifié et le produit courant de même 
 
 Si le demandeur prévoit des caractéristiques communicantes, celles-ci doivent être démontrées. Dans le cas d'un élément sensoriel, cette démonstration pourra être effectuée par une analyse sensorielle.
 
-La qualité doit pouvoir s'évaluer sur tout critère ayant une influence reconnue sur le produit certifié, par exemple : le taux de germination, la qualité sanitaire vis-à-vis de la culture, le potentiel de production, l'homogénéité des lots ou la durabilité des qualités. Ces critères doivent s'appuyer, en particulier, sur les référentiels définis par les organismes techniques professionnels des filières concernées.
+La qualité doit pouvoir s'évaluer sur tout critère ayant une influence reconnue sur le produit certifié, par exemple : le taux de germination, la qualité sanitaire vis-à-vis de la culture, le potentiel de production, l'homogénéité des lots ou la durabilité des qualités.
+
+Ces critères doivent s'appuyer, en particulier, sur les référentiels définis par les organismes techniques professionnels des filières concernées.
 
 1re recommandation commune : communication relative à l'identification des produits sous certification de conformité
 
@@ -261,7 +263,7 @@ Les différentes étapes de production et de traitements des plants sont décrit
 
 -séparation d'1 mètre entre chaque lot et de 5 mètres entre le matériel de catégories certifié et le standard ;
 
--pour les pépinières plein champ : la pépinière doit être implantée sur une commune hors zone contaminée flavescence dorée  l'année précédente ;
+-pour les pépinières plein champ : la pépinière doit être implantée sur une commune hors zone contaminée flavescence dorée l'année précédente ;
 
 -contrôles visuels et sanitaires des plants : tests sanitaires au seuil de tolérance de 2 %, dépistage court-noué, enroulement 1 et 3 pour chaque lot ;
 
@@ -329,7 +331,7 @@ En outre il est interdit de cultiver la même espèce, sur une même parcelle, d
 
 **3e exigence semences de céréales : récolte et stockage**
 
-Les étapes récolte  et stockage  doivent être explicitement décrites. Les exigences mentionnées ci-dessous sont à appliquer :
+Les étapes récolte et stockage doivent être explicitement décrites. Les exigences mentionnées ci-dessous sont à appliquer :
 
 -contrôle de la température de stockage du grain ;
 
@@ -365,15 +367,15 @@ Pour pouvoir communiquer sur la faculté germinative des semences de céréales,
 
 **IV.-EXIGENCES ET RECOMMANDATIONS SPÉCIFIQUES AUX MÉLANGES DE SEMENCES À GAZON**
 
-Il est précisé que l'appellation gazon  n'est pas reconnue stricto sensu sur le marché européen. Cependant, le règlement technique français de production des mélanges de semences définit le mot gazon  : étendue herbacée semée exclusivement de variétés de graminées non fourragères et testées pour un usage sportif ou d'agrément, formant un tapis végétal dense, pérenne, produisant une faible masse de déchets verts et supportant les tontes fréquentes.
+Il est précisé que l'appellation gazon n'est pas reconnue stricto sensu sur le marché européen. Cependant, le règlement technique français de production des mélanges de semences définit le mot gazon : étendue herbacée semée exclusivement de variétés de graminées non fourragères et testées pour un usage sportif ou d'agrément, formant un tapis végétal dense, pérenne, produisant une faible masse de déchets verts et supportant les tontes fréquentes.
 
-Par ailleurs c'est le mélange, composé d'espèces et de variétés spécifiques de gazon, qui constitue la qualité auprès du consommateur  final.
+Par ailleurs c'est le mélange, composé d'espèces et de variétés spécifiques de gazon, qui constitue la qualité auprès du consommateur final.
 
 **1re exigence mélange de semences à gazon : compositions spécifique et variétales**
 
 Le choix du type variétal utilisé doit être justifié par le demandeur en fonction de critères précis et argumentés dans le référentiel.
 
-Les variétés de gazon  utilisées dans le cadre d'une certification de conformité doivent être inscrites en tant que telles au catalogue officiel européen ou français.
+Les variétés de gazon utilisées dans le cadre d'une certification de conformité doivent être inscrites en tant que telles au catalogue officiel européen ou français.
 
 Une catégorie de composition correspond à un mélange défini d'espèces et de variétés de semences à gazon, afin d'obtenir une utilité spécifique du gazon. Ainsi, le choix des espèces et variétés ainsi que leur pourcentage respectif dans le mélange seront différents suivant que l'on destine le mélange à une pelouse de type ornement (finesse, résistance aux maladies) ou à un terrain de sport (résistance au piétinement, pérennité, densité) ou autres.
 
@@ -433,7 +435,7 @@ Sélection : un protocole d'introduction pour de nouvelles variétés qui pourra
 
 **2e exigence plants de pommes de terre : classes de plants mères éligibles**
 
-Les plants mis en terre appartiennent obligatoirement aux classes Super-Elite (SE), Elite (E) ou A, correspondant à des plants dits de base  ou certifiés. Ils ne doivent pas révéler plus de 1 % de virus primaires au test de préculture (test Elisa).
+Les plants mis en terre appartiennent obligatoirement aux classes Super-Elite (SE), Elite (E) ou A, correspondant à des plants dits de base ou certifiés. Ils ne doivent pas révéler plus de 1 % de virus primaires au test de préculture (test Elisa).
 
 Avant plantation, un traitement contre le rhizoctone et la gale argentée est réalisé sur les plants, cela afin d'éviter une attaque de ces parasites durant la culture.
 
