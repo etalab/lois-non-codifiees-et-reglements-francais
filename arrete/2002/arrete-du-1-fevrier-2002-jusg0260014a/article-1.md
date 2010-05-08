@@ -1,6 +1,6 @@
 # Article 1
 
-La liste des personnels titulaires et agents non titulaires de droit public en fonction à l'administration centrale du ministère de la justice éligibles au dispositif des indemnités horaires pour travaux supplémentaires, prise pour l'application des articles 2 (I, 1°) et 2 (III, 1°) du décret du 14 janvier 2002 susvisé, est fixée comme suit :
+La liste des personnels titulaires et agents non titulaires de droit public du ministère de la justice éligibles au dispositif des indemnités horaires pour travaux supplémentaires, prise pour l'application des articles 2 (I, 1°) et 2 (III, 1°) du décret du 14 janvier 2002 susvisé, est fixée comme suit :
 
 <table>
 <tbody>
@@ -117,11 +117,25 @@ La liste des personnels titulaires et agents non titulaires de droit public en f
 </td>
 </tr>
 <tr>
-<td rowspan="2">
-<pre/>
-</td>
-<td rowspan="2">
+<td/>
+<td>
 <p>Personnels n'appartenant pas aux corps de conducteurs d'automobile ou de chefs de garage et chargés de la conduite de véhicules automobiles.</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Services judiciaires</p>
+</td>
+<td>Personnels de catégorie B ou C assurant les fonctions d'assistance du juge au titre : <br/>
+<br/>- de la tenue des audiences ; <br/>
+<br/>- des procédures de rétentions des étrangers ; <br/>
+<br/>- de la chambre de l'instruction ; <br/>
+<br/>- de l'instruction ; <br/>
+<br/>- du juge des libertés et de la détention ; <br/>
+<br/>- du traitement en temps réel des procédures pénales (TTR) ; <br/>
+<br/>- des permanences électorales. <br/>
+<br/>Personnels des secrétariats assurant des permanences. <br/>
+<br/>Personnels des services administratifs régionaux.<br/>
 </td>
 </tr>
 </tbody>
