@@ -12,11 +12,11 @@ En tant que de besoin, l'expérimentation peut déroger aux dispositions suivant
 
 4° Articles L. 322-2 et L. 322-3 relatifs à la participation de l'assuré aux tarifs servant de base au calcul des prestations.
 
-Les expérimentations sont conduites par les agences régionales de santé. Elles concluent à cet effet des conventions avec les professionnels de santé, les centres de santé et les maisons de santé volontaires. . Les modalités de mise en oeuvre de ces expérimentations sont définies par décret, après avis de l'Union nationale des caisses d'assurance maladie, des organisations syndicales représentatives des professionnels concernés et de l'Union nationale des organismes d'assurance maladie complémentaire.
+Les expérimentations sont conduites par les agences régionales de santé. Elles concluent à cet effet des conventions avec les professionnels de santé, les centres de santé et les maisons de santé volontaires. Les modalités de mise en oeuvre de ces expérimentations sont définies par décret, après avis de l'Union nationale des caisses d'assurance maladie, des organisations syndicales représentatives des professionnels concernés et de l'Union nationale des organismes d'assurance maladie complémentaire.
 
 Les dépenses mises à la charge de l'ensemble des régimes obligatoires de base d'assurance maladie qui résultent de ces expérimentations sont prises en compte dans l'objectif national de dépenses d'assurance maladie mentionné au 3° du D du I de l'article LO 111-3 du code de la sécurité sociale.
 
-Les mutuelles régies par le code de la mutualité, les institutions de prévoyance régies par le livre IX du code de la sécurité sociale ou par le livre VII du code rural et les entreprises régies par le code des assurances sont associées à ces expérimentations si elles le souhaitent.
+Les mutuelles régies par le code de la mutualité, les institutions de prévoyance régies par le livre IX du code de la sécurité sociale ou par le livre VII du code rural et de la pêche maritime et les entreprises régies par le code des assurances sont associées à ces expérimentations si elles le souhaitent.
 
 Une évaluation annuelle de ces expérimentations, portant notamment sur le nombre de professionnels de santé, de centres de santé et de maisons de santé qui y prennent part et sur les dépenses afférentes aux soins qu'ils ont effectués ainsi que sur la qualité de ces soins, est réalisée par les agences régionales de santé en liaison avec les organismes locaux d'assurance maladie. Cette évaluation est transmise au Parlement.
 
