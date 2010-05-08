@@ -1,3 +1,0 @@
-# TITRE IER : L'AGREMENT DES CENTRES DE FORMATION
-
-- [Article 1](article-1.md)

@@ -208,7 +208,6 @@
 - [Décret n°95-620 du 6 mai 1995 (AGRA9500703D)](decret-n95-620-du-6-mai-1995-agra9500703d)
 - [Décret n°95-621 du 6 mai 1995 (AGRA9500193D)](decret-n95-621-du-6-mai-1995-agra9500193d)
 - [Décret n°95-622 du 6 mai 1995 (AGRR9500634D)](decret-n95-622-du-6-mai-1995-agrr9500634d)
-- [Décret n°95-623 du 6 mai 1995 (AGRS9500797D)](decret-n95-623-du-6-mai-1995-agrs9500797d)
 - [Décret n°95-624 du 6 mai 1995 (AGRS9500798D)](decret-n95-624-du-6-mai-1995-agrs9500798d)
 - [Décret n°95-626 du 6 mai 1995 (RESK9500621D)](decret-n95-626-du-6-mai-1995-resk9500621d)
 - [Décret n°95-627 du 6 mai 1995 (RESK9401201D)](decret-n95-627-du-6-mai-1995-resk9401201d)
