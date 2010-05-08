@@ -1,6 +1,6 @@
 # Article Annexe II
 
-**DISPOSITIONS APPLICABLES À L'APPROVISIONNEMENT DIRECT PAR LE PRODUCTEUR DU CONSOMMATEUR FINAL EN PETITES QUANTITÉS D'ŒUFS**
+DISPOSITIONS APPLICABLES À L'APPROVISIONNEMENT DIRECT PAR LE PRODUCTEUR DU CONSOMMATEUR FINAL EN PETITES QUANTITÉS D'ŒUFS
 
 Section I
 
@@ -17,7 +17,7 @@ c) Atelier : un bâtiment ou une volière, associé ou non à un parcours ;
 e) Lot d'oiseaux : un ensemble d'oiseaux de même espèce et de même âge.
 
 2.L'approvisionnement direct par le producteur d'œufs du consommateur final en petites quantités, prévu par le c du 2 de l'article 1er du règlement (CE) n° 852 / 2004 et au c du 3 de l'article 1er du 853 et au b du 3 de l'article 1er du règlement (CE) n° 2160 / 2003, et sans préjudice des dispositions prévues aux
-articles R. 231-13 à R. 231-15 du code rural
+articles R. 231-13 à R. 231-15 du code rural et de la pêche maritime
 , et notamment de l'obligation de déclaration, est soumis aux conditions définies ci-après :
 
 -le producteur est détenteur, dans un ou plusieurs établissement (s), d'un effectif total de volailles présentes inférieur à 250 animaux adultes ;
@@ -86,7 +86,7 @@ Section III
 
 Tenue de registres
 
-1. Afin de retracer l'origine des volailles et des œufs qui en sont issus, tout détenteur de volailles doit tenir à jour un registre conformément à l'arrêté du 5 juin 2000. Il doit être conservé pendant une période minimale de trois ans et présenté à toute demande des agents des services vétérinaires, tels que mentionnés à l'article L. 231-2 du code rural
+1. Afin de retracer l'origine des volailles et des œufs qui en sont issus, tout détenteur de volailles doit tenir à jour un registre conformément à l'arrêté du 5 juin 2000. Il doit être conservé pendant une période minimale de trois ans et présenté à toute demande des agents des services vétérinaires, tels que mentionnés à l'article L. 231-2 du code rural et de la pêche maritime
 .
 
 2. Sans préjudice du respect des dispositions de l'arrêté du 5 juin 2000 relatif au registre d'élevage, les informations suivantes doivent y être enregistrées :

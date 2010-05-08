@@ -1,0 +1,3 @@
+# Article 7
+
+Les agréments délivrés aux producteurs ou aux négociants en application de l'article R. 661-30 du code rural et du décret n° 53-977 du 30 septembre 1953 relatif à l'organisation et à l'assainissement du marché du vin et à l'orientation de la production viticole, dans leur rédaction antérieure à l'entrée en vigueur de l'ordonnance n° 2010-459 du 6 mai 2010 modifiant les livres Ier, V et VI du code rural, tiennent lieu de l'agrément prévu à l'article L. 661-5 et de la déclaration prévue à l'article L. 661-6 du code rural dans leur rédaction postérieure à l'entrée en vigueur de ladite ordonnance.

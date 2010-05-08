@@ -1,0 +1,3 @@
+# Article 1
+
+En application de la loi n° 2004-809 du 13 août 2004 relative aux libertés et responsabilités locales, le montant du droit à compensation résultant pour la communauté d'agglomération « Morlaix communauté » de la prise en charge des indemnités de service fait des personnels des services ou parties de services du ministère de l'écologie, de l'énergie, du développement durable et de la mer, en charge des technologies vertes et des négociations sur le climat, transférés par le décret n° 2008-1378 du 19 décembre 2008 dans le domaine des ports maritimes transférés, est fixé à 12 445 euros en valeur 2007.
