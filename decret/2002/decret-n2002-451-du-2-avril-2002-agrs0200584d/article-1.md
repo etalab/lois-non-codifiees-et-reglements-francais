@@ -6,12 +6,12 @@ Pour la répartition des crédits mentionnés au II de l'article 124 de la loi d
 
 dans laquelle :
 
-"v" est le nombre de suffrages obtenus par l'organisation syndicale considérée dans le collège mentionné au 1 de l'article R. 511-6 du code rural dans l'ensemble des départements ;
+"v" est le nombre de suffrages obtenus par l'organisation syndicale considérée dans le collège mentionné au 1 de l'article R. 511-6 du code rural et de la pêche maritime dans l'ensemble des départements ;
 
 "V" est le nombre de suffrages obtenus par l'ensemble des organisations syndicales habilitées mentionnées à l'alinéa 1er du présent article dans le collège mentionné au 1er alinéa de l'article R. 511-6 du code rural dans l'ensemble des départements ;
 
-"s" est le nombre de sièges obtenus par l'organisation syndicale considérée dans le collège mentionné au 1 de l'article R. 511-6 du code rural dans l'ensemble des départements ;
+"s" est le nombre de sièges obtenus par l'organisation syndicale considérée dans le collège mentionné au 1 de l'article R. 511-6 du code rural et de la pêche maritime dans l'ensemble des départements ;
 
-"S" est le nombre de sièges obtenus par l'ensemble des organisations syndicales habilitées mentionnées à l'alinéa 1er du présent article dans le collège visé au 1 de l'article R. 511-6 du code rural dans l'ensemble des départements.
+"S" est le nombre de sièges obtenus par l'ensemble des organisations syndicales habilitées mentionnées à l'alinéa 1er du présent article dans le collège visé au 1 de l'article R. 511-6 du code rural et de la pêche maritime dans l'ensemble des départements.
 
 Pour l'application de cette formule, les suffrages et les sièges obtenus par des organisations syndicales habilitées mentionnées à l'alinéa 1er du présent article ayant présenté une liste d'union sont répartis à parts égales entre ces organisations.

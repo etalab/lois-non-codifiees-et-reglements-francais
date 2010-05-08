@@ -1,6 +1,6 @@
 # Article 10
 
-Les mesures prévues à l'article R. 223-9 du code rural sont établies et prescrites par le service de santé des armées, au titre des compétences vétérinaires qui lui sont rattachées.
+Les mesures prévues à l'article R. 223-9 du code rural et de la pêche maritime sont établies et prescrites par le service de santé des armées, au titre des compétences vétérinaires qui lui sont rattachées.
 
 Dans ce cadre, les vétérinaires des armées veillent à l'application des mesures de police sanitaire pour les animaux appartenant au ministère de la défense, notamment lors du retour sur le territoire national d'unités provenant des théâtres d'opérations extérieures. Ils rédigent et authentifient les pièces et les certificats sanitaires prévus par les dispositions réglementaires nationales et communautaires attestant, chaque fois que nécessaire, l'application des opérations de prophylaxie médicale et sanitaire requises.
 

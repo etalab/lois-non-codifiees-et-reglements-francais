@@ -1,6 +1,6 @@
 # Article 3
 
-Les réductions ou suppressions prévues à l'article D. 341-15 du code rural sont calculées selon les modalités détaillées ci-dessous :
+Les réductions ou suppressions prévues à l'article D. 341-15 du code rural et de la pêche maritime sont calculées selon les modalités détaillées ci-dessous :
 
 1. Pour chaque mesure, la réduction financière correspondant au non-respect d'une ou plusieurs obligations est calculée en multipliant, pour chaque niveau de réduction défini au 2 ci-dessous, le montant de la rémunération annuelle de la mesure agroenvironnementale par le niveau de réduction et par la quantité concernée par ledit niveau de réduction augmentée le cas échéant de pénalités, et en ajoutant les intérêts au taux légal.
 
@@ -46,4 +46,4 @@ Si le non-respect à caractère réversible est établi également pendant au mo
 
 6. Les anomalies constatées pour des obligations portant sur des surfaces ou des quantités non engagées sont prises en compte selon des modalités définies dans le cahier des charges de la mesure concernée.
 
-7. Les anomalies déclarées spontanément par le bénéficiaire, conformément au quatrième alinéa de l'article D. 341-15 du code rural, ne donnent pas lieu à l'application des pénalités prévues aux paragraphes 3 et 4 du présent article.
+7. Les anomalies déclarées spontanément par le bénéficiaire, conformément au quatrième alinéa de l'article D. 341-15 du code rural et de la pêche maritime, ne donnent pas lieu à l'application des pénalités prévues aux paragraphes 3 et 4 du présent article.

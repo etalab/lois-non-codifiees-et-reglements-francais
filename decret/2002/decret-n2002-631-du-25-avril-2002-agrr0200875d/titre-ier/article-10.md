@@ -8,4 +8,4 @@ La qualification peut être retirée à tout moment, dans les formes prévues à
 
 - le responsable ou le chef de l'exploitation n'a pas respecté les obligations prévues aux deuxième et troisième alinéas de l'article 6 du présent décret ;
 
-- le responsable ou le chef de l'exploitation a fait l'objet depuis moins de trois ans d'une condamnation pénale devenue définitive pour une infraction commise, dans le cadre de son activité agricole, au titre d'une des dispositions mentionnées au 4° de l'article R. 341-7 du code rural.
+- le responsable ou le chef de l'exploitation a fait l'objet depuis moins de trois ans d'une condamnation pénale devenue définitive pour une infraction commise, dans le cadre de son activité agricole, au titre d'une des dispositions mentionnées au 4° de l'article R. 341-7 du code rural et de la pêche maritime.
