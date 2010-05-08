@@ -442,7 +442,6 @@
 - [Arrêté du 7 avril 2009 (ECED0908234A)](arrete-du-7-avril-2009-eced0908234a)
 - [Arrêté du 7 avril 2009 (ECEL0904799A)](arrete-du-7-avril-2009-ecel0904799a)
 - [Arrêté du 7 avril 2009 (ECEP0905126A)](arrete-du-7-avril-2009-ecep0905126a)
-- [Arrêté du 7 avril 2009 (ECES0908042A)](arrete-du-7-avril-2009-eces0908042a)
 - [Arrêté du 7 avril 2009 (IOCC0810468A)](arrete-du-7-avril-2009-iocc0810468a)
 - [Arrêté du 7 avril 2009 (JUSA0908148A)](arrete-du-7-avril-2009-jusa0908148a)
 - [Arrêté du 7 avril 2009 (JUSC0907573A)](arrete-du-7-avril-2009-jusc0907573a)
