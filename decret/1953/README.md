@@ -27,6 +27,5 @@
 - [Décret n°53-960 du 30 septembre 1953](decret-n53-960-du-30-septembre-1953)
 - [Décret n°53-968 du 30 septembre 1953](decret-n53-968-du-30-septembre-1953)
 - [Décret n°53-975 du 30 septembre 1953](decret-n53-975-du-30-septembre-1953)
-- [Décret n°53-977 du 30 septembre 1953](decret-n53-977-du-30-septembre-1953)
 - [Décret n°53-978 du 30 septembre 1953](decret-n53-978-du-30-septembre-1953)
 - [Décret n°53-979 du 30 septembre 1953](decret-n53-979-du-30-septembre-1953)
