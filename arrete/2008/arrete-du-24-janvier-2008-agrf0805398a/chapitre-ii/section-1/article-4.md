@@ -2,7 +2,7 @@
 
 Les licences d'inséminateur et de chef de centre d'insémination sont délivrées par le préfet de région. Elles valent autorisation d'exercer. Elles ne peuvent être délivrées qu'aux titulaires d'un certificat d'aptitude aux fonctions d'inséminateur ou de chef de centre, sauf dispositions prévues à l'article 11.
 
-En application de l'article R. 653-96 du code rural, les établissements de formation mentionnés à l'article 5 procèdent à une comparaison entre les compétences attestées par les diplômes, les titres ou l'expérience et les connaissances et qualifications exigées qui figurent, selon le cas, à l'annexe II ou IV.
+En application de l'article R. 653-96 du code rural et de la pêche maritime, les établissements de formation mentionnés à l'article 5 procèdent à une comparaison entre les compétences attestées par les diplômes, les titres ou l'expérience et les connaissances et qualifications exigées qui figurent, selon le cas, à l'annexe II ou IV.
 
 Les établissements de formation peuvent exiger du demandeur, selon son choix, qu'il se soumette à une épreuve d'aptitude ou qu'il accomplisse un stage d'adaptation sur les points pour lesquels des différences substantielles de connaissances et de qualifications sont mises en évidence.
 

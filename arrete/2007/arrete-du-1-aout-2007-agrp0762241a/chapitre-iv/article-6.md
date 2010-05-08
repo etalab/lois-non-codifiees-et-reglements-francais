@@ -1,8 +1,8 @@
 # Article 6
 
-Les opérateurs du service public d'enregistrement et de contrôle des performances doivent exercer leur activité soit dans une zone couvrant plusieurs départements pris dans leur entier, soit dans une zone couvrant un département entier et représentant au minimum 0,5 % de l'activité nationale d'enregistrement et de contrôle des performances des ruminants pour le premier appel à candidatures, et 1 % pour les suivants.
+Les opérateurs du service public d'enregistrement et de contrôle des performances doivent exercer leur activité soit dans une zone couvrant plusieurs départements pris dans leur entier, soit dans une zone couvrant un département entier et représentant au minimum 0, 5 % de l'activité nationale d'enregistrement et de contrôle des performances des ruminants pour le premier appel à candidatures, et 1 % pour les suivants.
 
-Au sens du présent arrêté, pour une circonscription et un candidat donnés, le pourcentage de l'activité nationale mentionné à l'alinéa précédent se calcule selon la méthode suivante : pour chacune des filières mentionnées à l'article R. 653-63 du code rural pour laquelle le candidat propose de réaliser l'enregistrement et le contrôle des performances, le pourcentage de l'activité de la circonscription dans le total national est déterminé sur la base des effectifs d'animaux contrôlés au cours de la dernière campagne connue.
+Au sens du présent arrêté, pour une circonscription et un candidat donnés, le pourcentage de l'activité nationale mentionné à l'alinéa précédent se calcule selon la méthode suivante : pour chacune des filières mentionnées à l'article R. 653-63 du code rural et de la pêche maritime pour laquelle le candidat propose de réaliser l'enregistrement et le contrôle des performances, le pourcentage de l'activité de la circonscription dans le total national est déterminé sur la base des effectifs d'animaux contrôlés au cours de la dernière campagne connue.
 
 Un effectif inférieur à 10 élevages n'est pas considéré comme constituant une filière.
 

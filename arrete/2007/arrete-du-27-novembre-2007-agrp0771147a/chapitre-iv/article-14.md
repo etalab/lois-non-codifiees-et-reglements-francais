@@ -6,7 +6,7 @@ Les laboratoires sollicitant une habilitation adressent au préfet du départeme
 
 ― l'organigramme hiérarchique et fonctionnel du laboratoire ;
 
-― la justification de l'accréditation requise à l'article R. 202-10 du code rural, ou, en cas de non obtention de l'accréditation, un exposé rédigé en langue française justifiant des compétences du laboratoire permettant de motiver une habilitation à titre provisoire ;
+― la justification de l'accréditation requise à l'article R. 202-10 du code rural et de la pêche maritime, ou, en cas de non obtention de l'accréditation, un exposé rédigé en langue française justifiant des compétences du laboratoire permettant de motiver une habilitation à titre provisoire ;
 
 ― la copie du courrier du laboratoire national de référence attestant du résultat favorable obtenu par le laboratoire candidat au dernier essai inter-laboratoires.
 

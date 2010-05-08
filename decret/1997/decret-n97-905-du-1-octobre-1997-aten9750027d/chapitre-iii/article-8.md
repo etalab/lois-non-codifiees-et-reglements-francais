@@ -8,4 +8,4 @@ La modification de la répartition actuelle des essences forestières et les boi
 
 Quand elles seront nécessaires, les plantations forestières utiliseront, dans toute la mesure du possible, des plants d'espèces indigènes originaires de la Chartreuse.
 
-L'ouverture de nouvelles routes et pistes à l'intérieur de la réserve naturelle est interdite, sous réserve des dispositions de l'article L. 242-9 du code rural.
+L'ouverture de nouvelles routes et pistes à l'intérieur de la réserve naturelle est interdite, sous réserve des dispositions de l'article L. 242-9 du code rural et de la pêche maritime.

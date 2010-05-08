@@ -17,7 +17,7 @@ Titre Ier : Décisions administratives individuelles prises par décret
 <p>Approbation des statuts des sociétés d'aménagement régional.</p>
 </td>
 <td valign="top" width="302">
-<p>Article R. 112-13 du code rural.</p>
+<p>Article R. 112-13 du code rural et de la pêche maritime.</p>
 </td>
 </tr>
 </tbody>
@@ -48,7 +48,7 @@ Section 1 : Décisions prises par le ministre chargé de l'agriculture et de la 
 <p>Décisions de retrait d'agrément des sociétés d'aménagement foncier et d'établissement rural pour non-respect de leurs obligations (agriculture et finances).</p>
 </td>
 <td valign="top" width="302">
-<p>Article R. 141-8 du code rural.</p>
+<p>Article R. 141-8 du code rural et de la pêche maritime.</p>
 </td>
 </tr>
 <tr>
@@ -99,18 +99,18 @@ Section 1 : Décisions prises par le ministre chargé de l'agriculture et de la 
 </tr>
 <tr>
 <td valign="top" width="302">
-<p>Agrément des laboratoires d'analyse d'échantillons prélevés dans le cadre des contrôles officiels réalisés par les services de l'Etat compétents ou leurs délégataires, en vue d'assurer le respect des dispositions des titres II, III et V du livre II du code rural et des textes pris pour leur application.</p>
+<p>Agrément des laboratoires d'analyse d'échantillons prélevés dans le cadre des contrôles officiels réalisés par les services de l'Etat compétents ou leurs délégataires, en vue d'assurer le respect des dispositions des titres II, III et V du livre II du code rural et de la pêche maritime et des textes pris pour leur application.</p>
 </td>
 <td valign="top" width="302">
-<p>Articles R. 202-8, R. 202-9, R. 202-11, R. 202-14 et R. 202-17 du code rural.</p>
+<p>Articles R. 202-8, R. 202-9, R. 202-11, R. 202-14 et R. 202-17 du code rural et de la pêche maritime.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="302">
-<p>Désignation des personnes chargées du contrôle des laboratoires nationaux de référence et des laboratoires agréés en application du chapitre II du titre préliminaire du livre II du code rural et des textes pris pour son application.</p>
+<p>Désignation des personnes chargées du contrôle des laboratoires nationaux de référence et des laboratoires agréés en application du chapitre II du titre préliminaire du livre II du code rural et de la pêche maritime et des textes pris pour son application.</p>
 </td>
 <td valign="top" width="302">
-<p>Articles R. 202-6 et R. 202-16 du code rural.</p>
+<p>Articles R. 202-6 et R. 202-16 du code rural et de la pêche maritime.</p>
 </td>
 </tr>
 <tr>
@@ -124,7 +124,7 @@ Section 1 : Décisions prises par le ministre chargé de l'agriculture et de la 
 <p>Autorisation de répartition entre les associés d'une société coopérative agricole ou d'une union de sociétés coopératives du surplus d'actif net après dévolution des réserves indisponibles lorsque le ministre chargé de l'agriculture est compétent pour en prononcer l'agrément (agriculture, économie et budget).</p>
 </td>
 <td valign="top" width="302">
-<p>Article R. 526-4, 2e alinéa du code rural.</p>
+<p>Article R. 526-4, 2e alinéa du code rural et de la pêche maritime.</p>
 </td>
 </tr>
 <tr>
@@ -187,7 +187,7 @@ Section 1 : Décisions prises par le ministre chargé de l'agriculture et de la 
 </tr>
 <tr>
 <td valign="top" width="302">
-<p>Agrément prévu par l'article L. 640-3 du code rural, des organismes chargés de la qualification des exploitations agricoles au titre de l'agriculture raisonnée et de son contrôle</p>
+<p>Agrément prévu par l'article L. 640-3 du code rural et de la pêche maritime, des organismes chargés de la qualification des exploitations agricoles au titre de l'agriculture raisonnée et de son contrôle</p>
 </td>
 <td valign="top" width="302">
 <p>Décret n° 2002-631 du 25 avril 2002 relatif à la qualification des exploitations agricoles au titre de l'agriculture raisonnée.</p>
@@ -273,7 +273,7 @@ Section 2 : Décisions prises par le ministre chargé de l'agriculture, de la fo
 <p>Agrément des organismes religieux habilités à désigner des sacrificateurs autorisés à pratiquer l'abattage rituel.</p>
 </td>
 <td valign="top" width="302">
-<p>Décret n° 80-791 du 1er octobre 1980 modifié pris pour l'application de l'article 276 du code rural, art. 10.</p>
+<p>Décret n° 80-791 du 1er octobre 1980 modifié pris pour l'application de l'article 276 du code rural et de la pêche maritime, art. 10.</p>
 </td>
 </tr>
 <tr>
@@ -290,7 +290,7 @@ Section 2 : Décisions prises par le ministre chargé de l'agriculture, de la fo
 </td>
 <td valign="top" width="302">
 <p>Décret n° 93-1177 du 18 octobre 1993 pris pour l'application s'agissant de plantes, semences et de plants du titre III de la loi du 13 juillet 1992, art. 1er, 15 et 19 ;</p>
-<p>articles R.* 253-24, R.* 253-27, R.* 253-32, R.* 253-56, R.* 253-59 du code rural.</p>
+<p>articles R.* 253-24, R.* 253-27, R.* 253-32, R.* 253-56, R.* 253-59 du code rural et de la pêche maritime.</p>
 <p>Décret n° 94-510 du 23 juin 1994 relatif à la commercialisation des plantes ornementales, des jeunes plants de légumes, des plantes fruitières et des matériels de multiplication de toutes ces plantes et modifiant le décret n° 81-605 du 18 mai 1981 pris pour l'application de la loi du 1er août 1905 sur la répression des fraudes en ce qui concerne le commerce des semences et des plants, art. 7 et 10 ;</p>
 <p>Décret n° 95-487 du 28 avril 1995 fixant les conditions de dissémination volontaire des animaux d'élevage génétiquement modifiés, art. 2, 13, 20-II et 25 ;</p>
 <p>Décret n° 2007-358 du 19 mars 2007 relatif à la dissémination volontaire à toute autre fin que la mise sur le marché de produits composés en tout ou partie d'organismes génétiquement modifiés (art. 23, 25, 27).</p>
@@ -301,7 +301,7 @@ Section 2 : Décisions prises par le ministre chargé de l'agriculture, de la fo
 <p>Agrément pour la réalisation d'essais officiellement reconnus des produits phytopharmaceutiques.</p>
 </td>
 <td valign="top" width="302">
-<p>article R.* 253-11 du code rural.</p>
+<p>article R.* 253-11 du code rural et de la pêche maritime.</p>
 </td>
 </tr>
 <tr>
@@ -309,7 +309,7 @@ Section 2 : Décisions prises par le ministre chargé de l'agriculture, de la fo
 <p>Refus de transmission d'un dossier de demande d'inscription sur la liste communautaire d'une substance active contenue dans un produit phytopharmaceutique ne se trouvant pas sur le marché au 25 juillet 1993.</p>
 </td>
 <td valign="top" width="302">
-<p>R.* 253-6 du code rural.</p>
+<p>R.* 253-6 du code rural et de la pêche maritime.</p>
 </td>
 </tr>
 <tr>
@@ -317,7 +317,7 @@ Section 2 : Décisions prises par le ministre chargé de l'agriculture, de la fo
 <p>Autorisation d'une extension d'usage d'un produit phytopharmaceutique autorisé.</p>
 </td>
 <td valign="top" width="302">
-<p>R.* 253-45, R.* 253-61 du code rural.</p>
+<p>R.* 253-45, R.* 253-61 du code rural et de la pêche maritime.</p>
 </td>
 </tr>
 <tr>
@@ -325,7 +325,7 @@ Section 2 : Décisions prises par le ministre chargé de l'agriculture, de la fo
 <p>Autorisation provisoire pour la mise sur le marché d'un produit phytopharmaceutique contenant une substance active non inscrite sur la liste des substances actives et n'étant pas sur le marché au 25 juillet 1993.</p>
 </td>
 <td valign="top" width="302">
-<p>R.* 253-49 du code rural.</p>
+<p>R.* 253-49 du code rural et de la pêche maritime.</p>
 </td>
 </tr>
 <tr>
@@ -333,7 +333,7 @@ Section 2 : Décisions prises par le ministre chargé de l'agriculture, de la fo
 <p>Autorisation de mise sur le marché des produits phytopharmaceutiques pour une période n'excédant pas cent vingt jours.</p>
 </td>
 <td valign="top" width="302">
-<p>R.* 253-50 du code rural.</p>
+<p>R.* 253-50 du code rural et de la pêche maritime.</p>
 </td>
 </tr>
 <tr>
@@ -341,7 +341,7 @@ Section 2 : Décisions prises par le ministre chargé de l'agriculture, de la fo
 <p>Autorisation de mise sur le marché des produits.phytopharmaceutiques en provenance de l'Espace économique européen</p>
 </td>
 <td valign="top" width="302">
-<p>R.* 253-52, R.* 253-54 et R.* 253-55 du code rural.</p>
+<p>R.* 253-52, R.* 253-54 et R.* 253-55 du code rural et de la pêche maritime.</p>
 </td>
 </tr>
 <tr>
@@ -349,7 +349,7 @@ Section 2 : Décisions prises par le ministre chargé de l'agriculture, de la fo
 <p>Autorisations de dissémination et de mise sur le marché des matières fertilisantes et des supports de culture composés en tout ou partie d'organismes génétiquement modifiés.</p>
 </td>
 <td valign="top" width="302">
-<p>R.* 255-8, R.* 255-16, R.* 255-23, R.* 255-28 et R.* 255-32 du code rural.</p>
+<p>R.* 255-8, R.* 255-16, R.* 255-23, R.* 255-28 et R.* 255-32 du code rural et de la pêche maritime.</p>
 </td>
 </tr>
 <tr>
@@ -360,7 +360,7 @@ Section 2 : Décisions prises par le ministre chargé de l'agriculture, de la fo
 </tr>
 <tr>
 <td valign="top" width="302">
-<p>Agrément des unions de coopératives et des sociétés coopératives agricoles lorsque ces dernières ne peuvent être agréées ni par un préfet de département ni par un préfet de région en application des 1er et 2e alinéas de l'article R. 525-2 du code rural.</p>
+<p>Agrément des unions de coopératives et des sociétés coopératives agricoles lorsque ces dernières ne peuvent être agréées ni par un préfet de département ni par un préfet de région en application des 1er et 2e alinéas de l'article R. 525-2 du code rural et de la pêche maritime.</p>
 </td>
 <td valign="top" width="302">
 <p>Article R. 525-2, 3e alinéa.</p>
@@ -371,15 +371,15 @@ Section 2 : Décisions prises par le ministre chargé de l'agriculture, de la fo
 <p>Octroi aux sociétés coopératives agricoles et aux unions de coopératives de dérogations relatives à la provenance des produits agricoles lorsque le ministre chargé de l'agriculture est compétent pour en prononcer l'agrément.</p>
 </td>
 <td valign="top" width="302">
-<p>Article R. 521-2 du code rural.</p>
+<p>Article R. 521-2 du code rural et de la pêche maritime.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="302">
-<p>Octroi de dérogations aux conditions de nationalité fixées par l'article R. 524-1 du code rural pour être membre du conseil d'administration d'une société coopérative agricole lorsque le ministre chargé de l'agriculture est compétent pour en prononcer l'agrément.</p>
+<p>Octroi de dérogations aux conditions de nationalité fixées par l'article R. 524-1 du code rural et de la pêche maritime pour être membre du conseil d'administration d'une société coopérative agricole lorsque le ministre chargé de l'agriculture est compétent pour en prononcer l'agrément.</p>
 </td>
 <td valign="top" width="302">
-<p>Article R. 524-1 du code rural.</p>
+<p>Article R. 524-1 du code rural et de la pêche maritime.</p>
 </td>
 </tr>
 <tr>
@@ -387,7 +387,7 @@ Section 2 : Décisions prises par le ministre chargé de l'agriculture, de la fo
 <p>Autorisation pour les unions de coopératives d'inclure dans leurs statuts toutes dispositions permettant à l'assemblée générale de tenir lieu de conseil d'administration.</p>
 </td>
 <td valign="top" width="302">
-<p>Article R. 524-25 du code rural.</p>
+<p>Article R. 524-25 du code rural et de la pêche maritime.</p>
 </td>
 </tr>
 <tr>
@@ -395,23 +395,23 @@ Section 2 : Décisions prises par le ministre chargé de l'agriculture, de la fo
 <p>Décision de dissolution du conseil d'administration d'une société coopérative agricole et de nomination d'une commission administrative provisoire lorsque le ministre chargé de l'agriculture est compétent pour en prononcer l'agrément.</p>
 </td>
 <td valign="top" width="302">
-<p>Article R. 525-14 du code rural.</p>
+<p>Article R. 525-14 du code rural et de la pêche maritime.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="302">
-<p>Reconnaissance d'un groupement de producteurs et des règles prévues à l'article L. 551-1 du code rural qui le régissent et approbation de nouvelles règles ou de modifications de celles-ci.</p>
+<p>Reconnaissance d'un groupement de producteurs et des règles prévues à l'article L. 551-1 du code rural et de la pêche maritime qui le régissent et approbation de nouvelles règles ou de modifications de celles-ci.</p>
 </td>
 <td valign="top" width="302">
-<p>Article R. 551-4, 551-9, 551-11 et 551-12 du code rural.</p>
+<p>Article R. 551-4, 551-9, 551-11 et 551-12 du code rural et de la pêche maritime.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="302">
-<p>Agrément d'un comité économique agricole et des règles prévues à l'article L. 552-1 du code rural qui le régissent et approbation de nouvelles règles ou de modifications de celles-ci et des modifications de circonscription.</p>
+<p>Agrément d'un comité économique agricole et des règles prévues à l'article L. 552-1 du code rural et de la pêche maritime qui le régissent et approbation de nouvelles règles ou de modifications de celles-ci et des modifications de circonscription.</p>
 </td>
 <td valign="top" width="302">
-<p>Article R. 552-4, 552-8, 552-10, 552-13 et 552-14 du code rural.</p>
+<p>Article R. 552-4, 552-8, 552-10, 552-13 et 552-14 du code rural et de la pêche maritime.</p>
 </td>
 </tr>
 <tr>
@@ -637,10 +637,10 @@ Section 2 : Décisions prises par le ministre chargé de l'agriculture, de la fo
 </tr>
 <tr>
 <td valign="top" width="302">
-<p>Décisions d'agrément des centres de formation des inspecteurs chargés de procéder au contrôle des matériels mentionnés à l'article L. 256-1 du code rural.</p>
+<p>Décisions d'agrément des centres de formation des inspecteurs chargés de procéder au contrôle des matériels mentionnés à l'article L. 256-1 du code rural et de la pêche maritime.</p>
 </td>
 <td valign="top" width="302">
-<p>Article R. 256-30 du code rural.</p>
+<p>Article R. 256-30 du code rural et de la pêche maritime.</p>
 </td>
 </tr>
 </tbody>

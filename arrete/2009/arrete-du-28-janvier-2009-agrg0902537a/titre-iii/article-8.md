@@ -4,7 +4,7 @@ Principes.
 
 La surveillance de la maladie d'Aujeszky dans les départements indemnes repose à la fois :
 
-― sur une surveillance clinique ; à cet effet, toute suspicion clinique de maladie d'Aujeszky doit faire l'objet d'une déclaration à la direction départementale des services vétérinaires, conformément à l'article R. 223-4 du code rural ;
+― sur une surveillance clinique ; à cet effet, toute suspicion clinique de maladie d'Aujeszky doit faire l'objet d'une déclaration à la direction départementale des services vétérinaires, conformément à l'article R. 223-4 du  code rural et de la pêche maritime ;
 
 ― sur une surveillance sérologique, conformément aux articles 9 à 11 du présent arrêté.
 

@@ -1,7 +1,7 @@
 # Article 3
 
 <div>
-<br/>En application du deuxième alinéa de l'article D. 752-56 du code rural, les cotisations dues au titre du régime de l'assurance contre les accidents du travail et les maladies professionnelles des non-salariés agricoles et des personnes mentionnées à l'article L. 731-23 du code rural sont affectées à la couverture des charges de ce régime comme suit :<br/>
+<br/>En application du deuxième alinéa de l'article D. 752-56 du code rural et de la pêche maritime, les cotisations dues au titre du régime de l'assurance contre les accidents du travail et les maladies professionnelles des non-salariés agricoles et des personnes mentionnées à l'article L. 731-23 du code rural et de la pêche maritime sont affectées à la couverture des charges de ce régime comme suit : <br/>
 <div align="center">
 
 <table>
@@ -10,110 +10,110 @@
 <br/>
 </th>
 <th colspan="2">
-<br/>POUR LES CHEFS D'EXPLOITATION<br/>ou d'entreprise à titre</th>
+<br/>POUR LES CHEFS D'EXPLOITATION <br/>ou d'entreprise à titre </th>
 <th colspan="2">
-<br/>POUR LES COLLABORATEURS, LES CONJOINTS<br/>participant à la mise en valeur<br/>de l'exploitation ou de l'entreprise,<br/>les aides familiaux<br/>et les associés d'exploitation</th>
+<br/>POUR LES COLLABORATEURS, LES CONJOINTS <br/>participant à la mise en valeur <br/>de l'exploitation ou de l'entreprise, <br/>les aides familiaux <br/>et les associés d'exploitation </th>
 <th colspan="-3">
-<br/>POUR LES PERSONNES<br/>mentionnées au <br/>
-II de l'art. L. 752-1du code rural
+<br/>POUR LES PERSONNES <br/>mentionnées au <br/>
+II de l'art.L. 752-1 du code rural et de la pêche maritime
 </th>
 </tr>
 <tr>
 <th/>
 <th>
-<br/>Principal visés<br/>au 1° de l'article 1er<br/>ci-dessus<br/>(en %)</th>
+<br/>Principal visés <br/>au 1° de l'article 1er <br/>ci-dessus <br/>(en %) </th>
 <th>
-<br/>Secondaire visés<br/>au 2° de l'article 1er<br/>ci-dessus<br/>(en %)</th>
+<br/>Secondaire visés <br/>au 2° de l'article 1er <br/>ci-dessus <br/>(en %) </th>
 <th>
-<br/>Visés<br/>au 1° de l'article 2<br/>ci-dessus<br/>(en %)</th>
+<br/>Visés <br/>au 1° de l'article 2 <br/>ci-dessus <br/>(en %) </th>
 <th>
-<br/>Visés<br/>au 2° de l'article 2<br/>ci-dessus<br/>(en %)</th>
+<br/>Visés <br/>au 2° de l'article 2 <br/>ci-dessus <br/>(en %) </th>
 <th colspan="-3">
-<br/>Visés<br/>au 3° de l'article 2<br/>ci-dessus<br/>(en %)</th>
+<br/>Visés <br/>au 3° de l'article 2 <br/>ci-dessus <br/>(en %) </th>
 </tr>
 <tr>
 <td align="center">
-<br/>Charges techniques</td>
+<br/>Charges techniques </td>
 <td align="center">
-<br/>84,00</td>
+<br/>84, 00 </td>
 <td align="center">
-<br/>84,00</td>
+<br/>84, 00 </td>
 <td align="center">
-<br/>72,61</td>
+<br/>72, 61 </td>
 <td align="center">
-<br/>72,61</td>
+<br/>72, 61 </td>
 <td align="center">
-<br/>84,00</td>
+<br/>84, 00 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Fonds de prévention</td>
+<br/>Fonds de prévention </td>
 <td align="center">
-<br/>6,19</td>
+<br/>6, 19 </td>
 <td align="center">
-<br/>6,19</td>
+<br/>6, 19 </td>
 <td align="center">
-<br/>0,00</td>
+<br/>0, 00 </td>
 <td align="center">
-<br/>0,00</td>
+<br/>0, 00 </td>
 <td align="center">
-<br/>6,19</td>
+<br/>6, 19 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Frais de gestion</td>
+<br/>Frais de gestion </td>
 <td align="center">
-<br/>9,81</td>
+<br/>9, 81 </td>
 <td align="center">
-<br/>9,81</td>
+<br/>9, 81 </td>
 <td align="center">
-<br/>27,39</td>
+<br/>27, 39 </td>
 <td align="center">
-<br/>27,39</td>
+<br/>27, 39 </td>
 <td align="center">
-<br/>9,81</td>
+<br/>9, 81 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Comprenant une part revenant aux organismes gestionnaires du régime</td>
+<br/>Comprenant une part revenant aux organismes gestionnaires du régime </td>
 <td align="center">
-<br/>6,34</td>
+<br/>6, 34 </td>
 <td align="center">
-<br/>6,34</td>
+<br/>6, 34 </td>
 <td align="center">
-<br/>17,72</td>
+<br/>17, 72 </td>
 <td align="center">
-<br/>17,72</td>
+<br/>17, 72 </td>
 <td align="center">
-<br/>6,34</td>
+<br/>6, 34 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Comprenant une part revenant à la MSA en sa qualité de caisse pivot</td>
+<br/>Comprenant une part revenant à la MSA en sa qualité de caisse pivot </td>
 <td align="center">
-<br/>3,47</td>
+<br/>3, 47 </td>
 <td align="center">
-<br/>3,47</td>
+<br/>3, 47 </td>
 <td align="center">
-<br/>9,67</td>
+<br/>9, 67 </td>
 <td align="center">
-<br/>9,67</td>
+<br/>9, 67 </td>
 <td align="center">
-<br/>3,47</td>
+<br/>3, 47 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Dont contrôle médical</td>
+<br/>Dont contrôle médical </td>
 <td align="center">
-<br/>1,68</td>
+<br/>1, 68 </td>
 <td align="center">
-<br/>1,68</td>
+<br/>1, 68 </td>
 <td align="center">
-<br/>4,60</td>
+<br/>4, 60 </td>
 <td align="center">
-<br/>4,60</td>
+<br/>4, 60 </td>
 <td align="center">
-<br/>1,68</td>
+<br/>1, 68</td>
 </tr>
 </table>
 

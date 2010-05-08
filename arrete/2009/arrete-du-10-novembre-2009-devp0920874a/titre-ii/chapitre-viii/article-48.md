@@ -16,7 +16,7 @@ L'exploitant tient à jour un registre des déchets ou matières sortantes menti
 
 ― le destinataire.
 
-Ce registre de sortie est archivé pendant une durée minimale de 10 ans et tenu à la disposition de l'inspection des installations classées et, le cas échéant, des autorités de contrôle en charge des articles L. 255-1 à L. 255-11 du code rural.
+Ce registre de sortie est archivé pendant une durée minimale de 10 ans et tenu à la disposition de l'inspection des installations classées et, le cas échéant, des autorités de contrôle en charge des articles L. 255-1 à L. 255-11 du code rural et de la pêche maritime.
 
 Le cahier d'épandage tel que prévu par l'arrêté du 7 février 2005 susvisé peut tenir lieu de registre de sortie du digestat pour les installations visées par ce texte.
 

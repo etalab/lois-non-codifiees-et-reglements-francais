@@ -4,7 +4,7 @@
 
 Préambule
 
-En application de la loi n° 2008-582 du 20 juin 2008 et du décret n° 2009-605 du 29 mai 2009 pris pour application de l'article L. 212-12-1 du code rural, le présent cahier des charges précise les conditions selon lesquelles le ministère en charge de l'agriculture confie la gestion, le recueil, la collecte des données d'identification et de mouvements des bovins destinés à être abattus et leur traitement à une personne agréée dénommée ci-après gestionnaire de la base de données nationale d'abattage des bovins.
+En application de la loi n° 2008-582 du 20 juin 2008 et du décret n° 2009-605 du 29 mai 2009 pris pour application de l'article L. 212-12-1 du code rural et de la pêche maritime, le présent cahier des charges précise les conditions selon lesquelles le ministère en charge de l'agriculture confie la gestion, le recueil, la collecte des données d'identification et de mouvements des bovins destinés à être abattus et leur traitement à une personne agréée dénommée ci-après gestionnaire de la base de données nationale d'abattage des bovins.
 
 Le gestionnaire de la base de données nationale d'abattage des bovins déploie un réseau permanent d'assistance aux utilisateurs de ladite base sur l'ensemble du territoire national (métropole et départements d'outre-mer).
 
@@ -206,7 +206,7 @@ Liste des anomalies :
 
 Le gestionnaire de la base de données nationale d'abattage des bovins doit présenter à tout moment les données enregistrées dans la base de données nationale d'abattage des bovins, sous réserve que les données aient été effectivement portées à sa connaissance.
 
-Le gestionnaire de la base de données nationale d'abattage des bovins doit faire fonctionner et maintenir la base de données nationale d'abattage des bovins sur une période de dix ans, sous réserve des dispositions de l'article R. 212-14-1 du code rural.
+Le gestionnaire de la base de données nationale d'abattage des bovins doit faire fonctionner et maintenir la base de données nationale d'abattage des bovins sur une période de dix ans, sous réserve des dispositions de l'article R. 212-14-1 du code rural et de la pêche maritime.
 
 Le gestionnaire de la base de données nationale d'abattage des bovins doit disposer des moyens appropriés permettant de vérifier le respect de l'obligation des délais de notification, notamment par l'enregistrement et la conservation des dates de saisie et de transmission des données à ladite base.
 

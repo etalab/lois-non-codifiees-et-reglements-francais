@@ -2,9 +2,9 @@
 
 Aide aux cultures énergétiques : utilisation de la matière première par les transformateurs.
 
-La date visée à l'article D. 615-34 du code rural est le 15 février de l'année qui suit le dépôt de la demande d'aide par l'agriculteur.
+La date visée à l'article D. 615-34 du code rural et de la pêche maritime est le 15 février de l'année qui suit le dépôt de la demande d'aide par l'agriculteur.
 
-Pour l'application de ce même article du code rural, les collecteurs doivent tenir, sur une base au moins mensuelle, un registre des réceptions qui comporte obligatoirement les mentions suivantes :
+Pour l'application de ce même article du code rural et de la pêche maritime, les collecteurs doivent tenir, sur une base au moins mensuelle, un registre des réceptions qui comporte obligatoirement les mentions suivantes :
 
 ― l'année de récolte ;
 

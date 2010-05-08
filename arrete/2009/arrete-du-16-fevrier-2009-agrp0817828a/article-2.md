@@ -38,7 +38,7 @@ d) 10 % pour la zone C III.
 
 4. Les personnes physiques ou morales ou groupements de personnes qui détiennent des sous-produits résultant de toute transformation de raisins autre que la vinification sont tenus de les livrer à la distillation.
 
-5. La direction générale des douanes et droits indirects met à disposition les informations relatives aux obligations ci-dessus définies. La procédure de communication des obligations est décrite dans la circulaire de l'établissement créé en application de l'article L. 621-1 du code rural, compétent en matière viticole, relative aux prestations viniques.
+5. La direction générale des douanes et droits indirects met à disposition les informations relatives aux obligations ci-dessus définies. La procédure de communication des obligations est décrite dans la circulaire de l'établissement créé en application de l'article L. 621-1 du code rural et de la pêche maritime, compétent en matière viticole, relative aux prestations viniques.
 
 6. La direction générale des douanes et droits indirects vérifie la réalisation de l'obligation en apurant l'imposition sur la base des informations transmises par les distilleries agréées.
 

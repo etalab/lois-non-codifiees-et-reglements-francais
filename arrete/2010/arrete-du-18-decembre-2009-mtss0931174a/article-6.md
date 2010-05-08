@@ -1,1053 +1,1032 @@
 # Article 6
 
-Le barème du versement, en euros et pour un trimestre, prévu à l'article D. 732-44 du code rural, applicable en 2010 est fixé conformément au tableau ci-dessous :
+Le barème du versement, en euros et pour un trimestre, prévu à l'article D. 732-44 du code rural et de la pêche maritime, applicable en 2010 est fixé conformément au tableau ci-dessous :
 
 Agriculteurs non salariés
 
-Barème 2010. - Versement pour un trimestre
+Barème 2010.-Versement pour un trimestre
 
 <table>
 <tbody>
 <tr>
-<th>
-<br/>ÂGE<br/>
-<br/>en 2010<br/>
-</th>
-<th colspan="3">
-<br/>1° TAUX DE LA PENSION<br/>
-</th>
-<th colspan="3">
-<br/>2° TAUX ET POINTS<br/>
-</th>
-</tr>
-<tr>
-<th/>
-<th>
-<br/>R ¸ 75 % P<br/>
-</th>
-<th>
-<br/>75 % P ¸ R ¸ P<br/>
-</th>
-<th>
-<br/>P ¸ R<br/>
-</th>
-<th>
-<br/>R ¸ 75 % P<br/>
-</th>
-<th>
-<br/>75 % P ¸ R ¸ P<br/>
-</th>
-<th>
-<br/>P ¸ R<br/>
-</th>
-</tr>
-<tr>
-<td align="center">
-<br/>20<br/>
+<td>
+<p align="center">
+<b>ÂGE </b>
+</p>
+<p align="center">
+<b>en 2010 </b>
+</p>
 </td>
-<td align="center">
-<br/>961 €<br/>
+<td colspan="3">
+<p align="center">
+<b>
+<br/>1° TAUX DE LA PENSION </b>
+</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>1 262 €<br/>
-</td>
-<td align="center">
-<br/>1 424 €<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>1 870 €<br/>
+<td colspan="3">
+<p align="center">
+<b>
+<br/>2° TAUX ET POINTS </b>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>21<br/>
+<td>
+<p align="center">
+<b/>
+</p>
 </td>
-<td align="center">
-<br/>981 €<br/>
+<td>
+<p align="center">
+<b>
+<br/>R &lt; 75 % P </b>
+</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td>
+<p align="center">
+<b>
+<br/>75 % P &lt; R &lt; P </b>
+</p>
 </td>
-<td align="center">
-<br/>1 286 €<br/>
+<td>
+<p align="center">
+<b>
+<br/>P &lt; R </b>
+</p>
 </td>
-<td align="center">
-<br/>1 454 €<br/>
+<td>
+<p align="center">
+<b>
+<br/>R &lt; 75 % P </b>
+</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td>
+<p align="center">
+<b>
+<br/>75 % P &lt; R &lt; P </b>
+</p>
 </td>
-<td align="center">
-<br/>1 906 €<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>22<br/>
-</td>
-<td align="center">
-<br/>993 €<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>1 310 €<br/>
-</td>
-<td align="center">
-<br/>1 472 €<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>1 941 €<br/>
+<td>
+<p align="center">
+<b>P ¸ R </b>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>23<br/>
+<td>
+<p align="center">
+<br/>20 </p>
 </td>
-<td align="center">
-<br/>1 014 €<br/>
+<td>
+<p align="center">
+<br/>961 € </p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="41">
+<p align="center">
+<br/>Montant </p>
+<p align="center">
+<br/>variable </p>
+<p align="center">
+<br/>selon le </p>
+<p align="center">
+<br/>revenu </p>
+<p align="center">
+<br/>et compris </p>
+<p align="center">
+<br/>entre les </p>
+<p align="center">
+<br/>montants </p>
+<p align="center">
+<br/>indiqués </p>
+<p align="center">
+<br/>dans les </p>
+<p align="center">
+<br/>colonnes </p>
+<p align="center">
+<br/>ci-contre </p>
 </td>
-<td align="center">
-<br/>1 334 €<br/>
+<td>
+<p align="center">
+<br/>1 262 € </p>
 </td>
-<td align="center">
-<br/>1 502 €<br/>
+<td>
+<p align="center">
+<br/>1 424 € </p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td rowspan="41">
+<p align="center">
+<br/>Montant </p>
+<p align="center">
+<br/>variable </p>
+<p align="center">
+<br/>selon le </p>
+<p align="center">
+<br/>revenu </p>
+<p align="center">
+<br/>et compris </p>
+<p align="center">
+<br/>entre les </p>
+<p align="center">
+<br/>montants </p>
+<p align="center">
+<br/>indiqués </p>
+<p align="center">
+<br/>dans les </p>
+<p align="center">
+<br/>colonnes </p>
+<p align="center">
+<br/>ci-contre </p>
 </td>
-<td align="center">
-<br/>1 976 €<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>24<br/>
-</td>
-<td align="center">
-<br/>1 068 €<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>1 399 €<br/>
-</td>
-<td align="center">
-<br/>1 583 €<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>2 073 €<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>25<br/>
-</td>
-<td align="center">
-<br/>1 105 €<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>1 456 €<br/>
-</td>
-<td align="center">
-<br/>1 638 €<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>2 158 €<br/>
+<td>
+<p align="center">
+<br/>1 870 € </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>26<br/>
+<td>
+<p align="center">
+<br/>21 </p>
 </td>
-<td align="center">
-<br/>1 162 €<br/>
+<td>
+<p align="center">
+<br/>981 € </p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td>
+<p align="center">
+<br/>1 286 € </p>
 </td>
-<td align="center">
-<br/>1 524 €<br/>
+<td>
+<p align="center">
+<br/>1 454 € </p>
 </td>
-<td align="center">
-<br/>1 722 €<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>2 258 €<br/>
+<td>
+<p align="center">
+<br/>1 906 € </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>27<br/>
+<td>
+<p align="center">
+<br/>22 </p>
 </td>
-<td align="center">
-<br/>1 209 €<br/>
+<td>
+<p align="center">
+<br/>993 € </p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td>
+<p align="center">
+<br/>1 310 € </p>
 </td>
-<td align="center">
-<br/>1 582 €<br/>
+<td>
+<p align="center">
+<br/>1 472 € </p>
 </td>
-<td align="center">
-<br/>1 792 €<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>2 344 €<br/>
+<td>
+<p align="center">
+<br/>1 941 € </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>28<br/>
+<td>
+<p align="center">
+<br/>23 </p>
 </td>
-<td align="center">
-<br/>1 257 €<br/>
+<td>
+<p align="center">
+<br/>1 014 € </p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td>
+<p align="center">
+<br/>1 334 € </p>
 </td>
-<td align="center">
-<br/>1 652 €<br/>
+<td>
+<p align="center">
+<br/>1 502 € </p>
 </td>
-<td align="center">
-<br/>1 863 €<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>2 448 €<br/>
+<td>
+<p align="center">
+<br/>1 976 € </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>29<br/>
+<td>
+<p align="center">
+<br/>24 </p>
 </td>
-<td align="center">
-<br/>1 305 €<br/>
+<td>
+<p align="center">
+<br/>1 068 € </p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td>
+<p align="center">
+<br/>1 399 € </p>
 </td>
-<td align="center">
-<br/>1 710 €<br/>
+<td>
+<p align="center">
+<br/>1 583 € </p>
 </td>
-<td align="center">
-<br/>1 934 €<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>2 534 €<br/>
+<td>
+<p align="center">
+<br/>2 073 € </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>30<br/>
+<td>
+<p align="center">
+<br/>25 </p>
 </td>
-<td align="center">
-<br/>1 353 €<br/>
+<td>
+<p align="center">
+<br/>1 105 € </p>
 </td>
-<td align="center">
-<br/>Montant<br/>
+<td>
+<p align="center">
+<br/>1 456 € </p>
 </td>
-<td align="center">
-<br/>1 781 €<br/>
+<td>
+<p align="center">
+<br/>1 638 € </p>
 </td>
-<td align="center">
-<br/>2 005 €<br/>
-</td>
-<td align="center">
-<br/>Montant<br/>
-</td>
-<td align="center">
-<br/>2 639 €<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>31<br/>
-</td>
-<td align="center">
-<br/>1 415 €<br/>
-</td>
-<td align="center">
-<br/>variable<br/>
-</td>
-<td align="center">
-<br/>1 853 €<br/>
-</td>
-<td align="center">
-<br/>2 096 €<br/>
-</td>
-<td align="center">
-<br/>variable<br/>
-</td>
-<td align="center">
-<br/>2 746 €<br/>
+<td>
+<p align="center">
+<br/>2 158 € </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>32<br/>
+<td>
+<p align="center">
+<br/>26 </p>
 </td>
-<td align="center">
-<br/>1 463 €<br/>
+<td>
+<p align="center">
+<br/>1 162 € </p>
 </td>
-<td align="center">
-<br/>selon le<br/>
+<td>
+<p align="center">
+<br/>1 524 € </p>
 </td>
-<td align="center">
-<br/>1 925 €<br/>
+<td>
+<p align="center">
+<br/>1 722 € </p>
 </td>
-<td align="center">
-<br/>2 168 €<br/>
-</td>
-<td align="center">
-<br/>selon le<br/>
-</td>
-<td align="center">
-<br/>2 853 €<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>33<br/>
-</td>
-<td align="center">
-<br/>1 526 €<br/>
-</td>
-<td align="center">
-<br/>revenu<br/>
-</td>
-<td align="center">
-<br/>1 998 €<br/>
-</td>
-<td align="center">
-<br/>2 262 €<br/>
-</td>
-<td align="center">
-<br/>revenu<br/>
-</td>
-<td align="center">
-<br/>2 960 €<br/>
+<td>
+<p align="center">
+<br/>2 258 € </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>34<br/>
+<td>
+<p align="center">
+<br/>27 </p>
 </td>
-<td align="center">
-<br/>1 574 €<br/>
+<td>
+<p align="center">
+<br/>1 209 € </p>
 </td>
-<td align="center">
-<br/>et compris<br/>
+<td>
+<p align="center">
+<br/>1 582 € </p>
 </td>
-<td align="center">
-<br/>2 071 €<br/>
+<td>
+<p align="center">
+<br/>1 792 € </p>
 </td>
-<td align="center">
-<br/>2 333 €<br/>
-</td>
-<td align="center">
-<br/>et compris<br/>
-</td>
-<td align="center">
-<br/>3 069 €<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>35<br/>
-</td>
-<td align="center">
-<br/>1 639 €<br/>
-</td>
-<td align="center">
-<br/>entre les<br/>
-</td>
-<td align="center">
-<br/>2 144 €<br/>
-</td>
-<td align="center">
-<br/>2 429 €<br/>
-</td>
-<td align="center">
-<br/>entre les<br/>
-</td>
-<td align="center">
-<br/>3 177 €<br/>
+<td>
+<p align="center">
+<br/>2 344 € </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>36<br/>
+<td>
+<p align="center">
+<br/>28 </p>
 </td>
-<td align="center">
-<br/>1 686 €<br/>
+<td>
+<p align="center">
+<br/>1 257 € </p>
 </td>
-<td align="center">
-<br/>montants<br/>
+<td>
+<p align="center">
+<br/>1 652 € </p>
 </td>
-<td align="center">
-<br/>2 217 €<br/>
+<td>
+<p align="center">
+<br/>1 863 € </p>
 </td>
-<td align="center">
-<br/>2 499 €<br/>
-</td>
-<td align="center">
-<br/>montants<br/>
-</td>
-<td align="center">
-<br/>3 285 €<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>37<br/>
-</td>
-<td align="center">
-<br/>1 751 €<br/>
-</td>
-<td align="center">
-<br/>indiqués<br/>
-</td>
-<td align="center">
-<br/>2 290 €<br/>
-</td>
-<td align="center">
-<br/>2 595 €<br/>
-</td>
-<td align="center">
-<br/>indiqués<br/>
-</td>
-<td align="center">
-<br/>3 393 €<br/>
+<td>
+<p align="center">
+<br/>2 448 € </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>38<br/>
+<td>
+<p align="center">
+<br/>29 </p>
 </td>
-<td align="center">
-<br/>1 798 €<br/>
+<td>
+<p align="center">
+<br/>1 305 € </p>
 </td>
-<td align="center">
-<br/>dans les<br/>
+<td>
+<p align="center">
+<br/>1 710 € </p>
 </td>
-<td align="center">
-<br/>2 362 €<br/>
+<td>
+<p align="center">
+<br/>1 934 € </p>
 </td>
-<td align="center">
-<br/>2 664 €<br/>
-</td>
-<td align="center">
-<br/>dans les<br/>
-</td>
-<td align="center">
-<br/>3 500 €<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>39<br/>
-</td>
-<td align="center">
-<br/>1 863 €<br/>
-</td>
-<td align="center">
-<br/>colonnes<br/>
-</td>
-<td align="center">
-<br/>2 434 €<br/>
-</td>
-<td align="center">
-<br/>2 761 €<br/>
-</td>
-<td align="center">
-<br/>colonnes<br/>
-</td>
-<td align="center">
-<br/>3 607 €<br/>
+<td>
+<p align="center">
+<br/>2 534 € </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>40<br/>
+<td>
+<p align="center">
+<br/>30 </p>
 </td>
-<td align="center">
-<br/>1 928 €<br/>
+<td>
+<p align="center">
+<br/>1 353 € </p>
 </td>
-<td align="center">
-<br/>ci-contre<br/>
+<td>
+<p align="center">
+<br/>1 781 € </p>
 </td>
-<td align="center">
-<br/>2 505 €<br/>
+<td>
+<p align="center">
+<br/>2 005 € </p>
 </td>
-<td align="center">
-<br/>2 858 €<br/>
-</td>
-<td align="center">
-<br/>ci-contre<br/>
-</td>
-<td align="center">
-<br/>3 712 €<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>41<br/>
-</td>
-<td align="center">
-<br/>1 972 €<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>2 574 €<br/>
-</td>
-<td align="center">
-<br/>2 922 €<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>3 815 €<br/>
+<td>
+<p align="center">
+<br/>2 639 € </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>42<br/>
+<td>
+<p align="center">
+<br/>31 </p>
 </td>
-<td align="center">
-<br/>2 037 €<br/>
+<td>
+<p align="center">
+<br/>1 415 € </p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td>
+<p align="center">
+<br/>1 853 € </p>
 </td>
-<td align="center">
-<br/>2 666 €<br/>
+<td>
+<p align="center">
+<br/>2 096 € </p>
 </td>
-<td align="center">
-<br/>3 018 €<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>3 951 €<br/>
+<td>
+<p align="center">
+<br/>2 746 € </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>43<br/>
+<td>
+<p align="center">
+<br/>32 </p>
 </td>
-<td align="center">
-<br/>2 102 €<br/>
+<td>
+<p align="center">
+<br/>1 463 € </p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td>
+<p align="center">
+<br/>1 925 € </p>
 </td>
-<td align="center">
-<br/>2 734 €<br/>
+<td>
+<p align="center">
+<br/>2 168 € </p>
 </td>
-<td align="center">
-<br/>3 114 €<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>4 052 €<br/>
+<td>
+<p align="center">
+<br/>2 853 € </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>44<br/>
+<td>
+<p align="center">
+<br/>33 </p>
 </td>
-<td align="center">
-<br/>2 141 €<br/>
+<td>
+<p align="center">
+<br/>1 526 € </p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td>
+<p align="center">
+<br/>1 998 € </p>
 </td>
-<td align="center">
-<br/>2 801 €<br/>
+<td>
+<p align="center">
+<br/>2 262 € </p>
 </td>
-<td align="center">
-<br/>3 172 €<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>4 150 €<br/>
+<td>
+<p align="center">
+<br/>2 960 € </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>45<br/>
+<td>
+<p align="center">
+<br/>34 </p>
 </td>
-<td align="center">
-<br/>2 230 €<br/>
+<td>
+<p align="center">
+<br/>1 574 € </p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td>
+<p align="center">
+<br/>2 071 € </p>
 </td>
-<td align="center">
-<br/>2 891 €<br/>
+<td>
+<p align="center">
+<br/>2 333 € </p>
 </td>
-<td align="center">
-<br/>3 305 €<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>4 285 €<br/>
+<td>
+<p align="center">
+<br/>3 069 € </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>46<br/>
+<td>
+<p align="center">
+<br/>35 </p>
 </td>
-<td align="center">
-<br/>2 267 €<br/>
+<td>
+<p align="center">
+<br/>1 639 € </p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td>
+<p align="center">
+<br/>2 144 € </p>
 </td>
-<td align="center">
-<br/>2 955 €<br/>
+<td>
+<p align="center">
+<br/>2 429 € </p>
 </td>
-<td align="center">
-<br/>3 359 €<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>4 379 €<br/>
+<td>
+<p align="center">
+<br/>3 177 € </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>47<br/>
+<td>
+<p align="center">
+<br/>36 </p>
 </td>
-<td align="center">
-<br/>2 329 €<br/>
+<td>
+<p align="center">
+<br/>1 686 € </p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td>
+<p align="center">
+<br/>2 217 € </p>
 </td>
-<td align="center">
-<br/>3 016 €<br/>
+<td>
+<p align="center">
+<br/>2 499 € </p>
 </td>
-<td align="center">
-<br/>3 451 €<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>4 469 €<br/>
+<td>
+<p align="center">
+<br/>3 285 € </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>48<br/>
+<td>
+<p align="center">
+<br/>37 </p>
 </td>
-<td align="center">
-<br/>2 390 €<br/>
+<td>
+<p align="center">
+<br/>1 751 € </p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td>
+<p align="center">
+<br/>2 290 € </p>
 </td>
-<td align="center">
-<br/>3 104 €<br/>
+<td>
+<p align="center">
+<br/>2 595 € </p>
 </td>
-<td align="center">
-<br/>3 542 €<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>4 600 €<br/>
+<td>
+<p align="center">
+<br/>3 393 € </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>49<br/>
+<td>
+<p align="center">
+<br/>38 </p>
 </td>
-<td align="center">
-<br/>2 420 €<br/>
+<td>
+<p align="center">
+<br/>1 798 € </p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td>
+<p align="center">
+<br/>2 362 € </p>
 </td>
-<td align="center">
-<br/>3 161 €<br/>
+<td>
+<p align="center">
+<br/>2 664 € </p>
 </td>
-<td align="center">
-<br/>3 586 €<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>4 685 €<br/>
+<td>
+<p align="center">
+<br/>3 500 € </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>50<br/>
+<td>
+<p align="center">
+<br/>39 </p>
 </td>
-<td align="center">
-<br/>2 478 €<br/>
+<td>
+<p align="center">
+<br/>1 863 € </p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td>
+<p align="center">
+<br/>2 434 € </p>
 </td>
-<td align="center">
-<br/>3 215 €<br/>
+<td>
+<p align="center">
+<br/>2 761 € </p>
 </td>
-<td align="center">
-<br/>3 673 €<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>4 765 €<br/>
+<td>
+<p align="center">
+<br/>3 607 € </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>51<br/>
+<td>
+<p align="center">
+<br/>40 </p>
 </td>
-<td align="center">
-<br/>2 536 €<br/>
+<td>
+<p align="center">
+<br/>1 928 € </p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td>
+<p align="center">
+<br/>2 505 € </p>
 </td>
-<td align="center">
-<br/>3 300 €<br/>
+<td>
+<p align="center">
+<br/>2 858 € </p>
 </td>
-<td align="center">
-<br/>3 758 €<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>4 890 €<br/>
+<td>
+<p align="center">
+<br/>3 712 € </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>52<br/>
+<td>
+<p align="center">
+<br/>41 </p>
 </td>
-<td align="center">
-<br/>2 592 €<br/>
+<td>
+<p align="center">
+<br/>1 972 € </p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td>
+<p align="center">
+<br/>2 574 € </p>
 </td>
-<td align="center">
-<br/>3 348 €<br/>
+<td>
+<p align="center">
+<br/>2 922 € </p>
 </td>
-<td align="center">
-<br/>3 841 €<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>4 962 €<br/>
+<td>
+<p align="center">
+<br/>3 815 € </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>53<br/>
+<td>
+<p align="center">
+<br/>42 </p>
 </td>
-<td align="center">
-<br/>2 647 €<br/>
+<td>
+<p align="center">
+<br/>2 037 € </p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td>
+<p align="center">
+<br/>2 666 € </p>
 </td>
-<td align="center">
-<br/>3 430 €<br/>
+<td>
+<p align="center">
+<br/>3 018 € </p>
 </td>
-<td align="center">
-<br/>3 922 €<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>5 082 €<br/>
+<td>
+<p align="center">
+<br/>3 951 € </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>54<br/>
+<td>
+<p align="center">
+<br/>43 </p>
 </td>
-<td align="center">
-<br/>2 700 €<br/>
+<td>
+<p align="center">
+<br/>2 102 € </p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td>
+<p align="center">
+<br/>2 734 € </p>
 </td>
-<td align="center">
-<br/>3 473 €<br/>
+<td>
+<p align="center">
+<br/>3 114 € </p>
 </td>
-<td align="center">
-<br/>4 001 €<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>5 146 €<br/>
+<td>
+<p align="center">
+<br/>4 052 € </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>55<br/>
+<td>
+<p align="center">
+<br/>44 </p>
 </td>
-<td align="center">
-<br/>2 751 €<br/>
+<td>
+<p align="center">
+<br/>2 141 € </p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td>
+<p align="center">
+<br/>2 801 € </p>
 </td>
-<td align="center">
-<br/>3 550 €<br/>
+<td>
+<p align="center">
+<br/>3 172 € </p>
 </td>
-<td align="center">
-<br/>4 077 €<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>5 261 €<br/>
+<td>
+<p align="center">
+<br/>4 150 € </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>56<br/>
+<td>
+<p align="center">
+<br/>45 </p>
 </td>
-<td align="center">
-<br/>2 801 €<br/>
+<td>
+<p align="center">
+<br/>2 230 € </p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td>
+<p align="center">
+<br/>2 891 € </p>
 </td>
-<td align="center">
-<br/>3 625 €<br/>
+<td>
+<p align="center">
+<br/>3 305 € </p>
 </td>
-<td align="center">
-<br/>4 151 €<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>5 373 €<br/>
+<td>
+<p align="center">
+<br/>4 285 € </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>57<br/>
+<td>
+<p align="center">
+<br/>46 </p>
 </td>
-<td align="center">
-<br/>2 849 €<br/>
+<td>
+<p align="center">
+<br/>2 267 € </p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td>
+<p align="center">
+<br/>2 955 € </p>
 </td>
-<td align="center">
-<br/>3 699 €<br/>
+<td>
+<p align="center">
+<br/>3 359 € </p>
 </td>
-<td align="center">
-<br/>4 222 €<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>5 482 €<br/>
+<td>
+<p align="center">
+<br/>4 379 € </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>58<br/>
+<td>
+<p align="center">
+<br/>47 </p>
 </td>
-<td align="center">
-<br/>2 895 €<br/>
+<td>
+<p align="center">
+<br/>2 329 € </p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td>
+<p align="center">
+<br/>3 016 € </p>
 </td>
-<td align="center">
-<br/>3 730 €<br/>
+<td>
+<p align="center">
+<br/>3 451 € </p>
 </td>
-<td align="center">
-<br/>4 290 €<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>5 527 €<br/>
+<td>
+<p align="center">
+<br/>4 469 € </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>59<br/>
+<td>
+<p align="center">
+<br/>48 </p>
 </td>
-<td align="center">
-<br/>2 939 €<br/>
+<td>
+<p align="center">
+<br/>2 390 € </p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td>
+<p align="center">
+<br/>3 104 € </p>
 </td>
-<td align="center">
-<br/>3 798 €<br/>
+<td>
+<p align="center">
+<br/>3 542 € </p>
 </td>
-<td align="center">
-<br/>4 355 €<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>5 629 €<br/>
+<td>
+<p align="center">
+<br/>4 600 € </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>60<br/>
+<td>
+<p align="center">
+<br/>49 </p>
 </td>
-<td align="center">
-<br/>3 024 €<br/>
+<td>
+<p align="center">
+<br/>2 420 € </p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td>
+<p align="center">
+<br/>3 161 € </p>
 </td>
-<td align="center">
-<br/>3 865 €<br/>
+<td>
+<p align="center">
+<br/>3 586 € </p>
 </td>
-<td align="center">
-<br/>4 482 €<br/>
+<td>
+<p align="center">
+<br/>4 685 € </p>
 </td>
-<td align="center">
-<br/>
-<br/>
+</tr>
+<tr>
+<td>
+<p align="center">
+<br/>50 </p>
 </td>
-<td align="center">
-<br/>5 728 € <br/>
+<td>
+<p align="center">
+<br/>2 478 € </p>
+</td>
+<td>
+<p align="center">
+<br/>3 215 € </p>
+</td>
+<td>
+<p align="center">
+<br/>3 673 € </p>
+</td>
+<td>
+<p align="center">
+<br/>4 765 € </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">
+<br/>51 </p>
+</td>
+<td>
+<p align="center">
+<br/>2 536 € </p>
+</td>
+<td>
+<p align="center">
+<br/>3 300 € </p>
+</td>
+<td>
+<p align="center">
+<br/>3 758 € </p>
+</td>
+<td>
+<p align="center">
+<br/>4 890 € </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">
+<br/>52 </p>
+</td>
+<td>
+<p align="center">
+<br/>2 592 € </p>
+</td>
+<td>
+<p align="center">
+<br/>3 348 € </p>
+</td>
+<td>
+<p align="center">
+<br/>3 841 € </p>
+</td>
+<td>
+<p align="center">
+<br/>4 962 € </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">
+<br/>53 </p>
+</td>
+<td>
+<p align="center">
+<br/>2 647 € </p>
+</td>
+<td>
+<p align="center">
+<br/>3 430 € </p>
+</td>
+<td>
+<p align="center">
+<br/>3 922 € </p>
+</td>
+<td>
+<p align="center">
+<br/>5 082 € </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">
+<br/>54 </p>
+</td>
+<td>
+<p align="center">
+<br/>2 700 € </p>
+</td>
+<td>
+<p align="center">
+<br/>3 473 € </p>
+</td>
+<td>
+<p align="center">
+<br/>4 001 € </p>
+</td>
+<td>
+<p align="center">
+<br/>5 146 € </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">
+<br/>55 </p>
+</td>
+<td>
+<p align="center">
+<br/>2 751 € </p>
+</td>
+<td>
+<p align="center">
+<br/>3 550 € </p>
+</td>
+<td>
+<p align="center">
+<br/>4 077 € </p>
+</td>
+<td>
+<p align="center">
+<br/>5 261 € </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">
+<br/>56 </p>
+</td>
+<td>
+<p align="center">
+<br/>2 801 € </p>
+</td>
+<td>
+<p align="center">
+<br/>3 625 € </p>
+</td>
+<td>
+<p align="center">
+<br/>4 151 € </p>
+</td>
+<td>
+<p align="center">
+<br/>5 373 € </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">
+<br/>57 </p>
+</td>
+<td>
+<p align="center">
+<br/>2 849 € </p>
+</td>
+<td>
+<p align="center">
+<br/>3 699 € </p>
+</td>
+<td>
+<p align="center">
+<br/>4 222 € </p>
+</td>
+<td>
+<p align="center">
+<br/>5 482 € </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">
+<br/>58 </p>
+</td>
+<td>
+<p align="center">
+<br/>2 895 € </p>
+</td>
+<td>
+<p align="center">
+<br/>3 730 € </p>
+</td>
+<td>
+<p align="center">
+<br/>4 290 € </p>
+</td>
+<td>
+<p align="center">
+<br/>5 527 € </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">
+<br/>59 </p>
+</td>
+<td>
+<p align="center">
+<br/>2 939 € </p>
+</td>
+<td>
+<p align="center">
+<br/>3 798 € </p>
+</td>
+<td>
+<p align="center">
+<br/>4 355 € </p>
+</td>
+<td>
+<p align="center">
+<br/>5 629 € </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">
+<br/>60 </p>
+</td>
+<td>
+<p align="center">
+<br/>3 024 € </p>
+</td>
+<td>
+<p align="center">
+<br/>3 865 € </p>
+</td>
+<td>
+<p align="center">
+<br/>4 482 € </p>
+</td>
+<td>
+<p align="center">
+<br/>5 728 € </p>
 </td>
 </tr>
 <tr>
 <td colspan="7">
-<br/>R = revenu.<br/>
-<br/>P = plafond de la sécurité sociale.<br/>
+<p>
+<br/>R = revenu. </p>
+<p>P = plafond de la sécurité sociale.</p>
 </td>
 </tr>
 </tbody>

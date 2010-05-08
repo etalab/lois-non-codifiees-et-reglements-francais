@@ -1,6 +1,6 @@
 # Article 20
 
-1. Les troupeaux dindes de reproduction sont alimentés par des aliments composés produits par des établissements du secteur de l'alimentation animale agréés salmonelles, conformément aux dispositions de l'arrêté relatif aux agréments et autorisations des établissements du secteur de l'alimentation animale, pris en application du L. 235-1 du code rural. Ne sont pas soumis à cette obligation les troupeaux de moins de 250 femelles équipées.
+1. Les troupeaux dindes de reproduction sont alimentés par des aliments composés produits par des établissements du secteur de l'alimentation animale agréés salmonelles, conformément aux dispositions de l'arrêté relatif aux agréments et autorisations des établissements du secteur de l'alimentation animale, pris en application du L. 235-1 du code rural et de la pêche maritime. Ne sont pas soumis à cette obligation les troupeaux de moins de 250 femelles équipées.
 
 Lorsque l'établissement du secteur de l'alimentation animale est situé dans un autre Etat membre, les spécifications commerciales liant le propriétaire du troupeau de reproducteurs au fournisseur d'aliment composé stipulent que cet établissement respecte l'ensemble des critères d'agrément salmonelles. Le propriétaire du troupeau fait auditer régulièrement l'établissement afin de vérifier le respect des critères d'agrément. Le contrat commercial et les rapports d'audit sont tenus à la disposition de la direction en charge des services vétérinaires.
 

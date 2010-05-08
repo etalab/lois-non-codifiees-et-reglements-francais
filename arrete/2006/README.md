@@ -186,6 +186,7 @@
 - [Arrêté du 19 juin 2006 (INDI0607665A)](arrete-du-19-juin-2006-indi0607665a)
 - [Arrêté du 19 juin 2006 (MAEF0610043A)](arrete-du-19-juin-2006-maef0610043a)
 - [Arrêté du 19 juin 2006 (MCCB0600454A)](arrete-du-19-juin-2006-mccb0600454a)
+- [Arrêté du 19 octobre 2006 (AGRE0602111A)](arrete-du-19-octobre-2006-agre0602111a)
 - [Arrêté du 19 octobre 2006 (ECOC0600115A)](arrete-du-19-octobre-2006-ecoc0600115a)
 - [Arrêté du 19 septembre 2006 (AGRS0601977A)](arrete-du-19-septembre-2006-agrs0601977a)
 - [Arrêté du 19 mai 2006 (SANP0622121A)](arrete-du-19-mai-2006-sanp0622121a)

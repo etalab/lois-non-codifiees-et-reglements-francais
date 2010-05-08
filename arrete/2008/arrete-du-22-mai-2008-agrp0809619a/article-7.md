@@ -2,9 +2,9 @@
 
 Conditions spécifiques d'accès aux paiements à la surface.
 
-En application de l'article D. 615-18 du code rural, la date limite des semis du maïs doux et du chanvre destiné à la production de fibres est fixée au 15 juin pour l'ensemble du territoire.
+En application de l'article D. 615-18 du code rural et de la pêche maritime , la date limite des semis du maïs doux et du chanvre destiné à la production de fibres est fixée au 15 juin pour l'ensemble du territoire.
 
-En application de l'article D. 615-19 du code rural, pour l'activation des droits à paiement unique, les parcelles ne peuvent pas être utilisées pour la production :
+En application de l'article D. 615-19 du code rural et de la pêche maritime, pour l'activation des droits à paiement unique, les parcelles ne peuvent pas être utilisées pour la production :
 
 ― de pépinières ;
 

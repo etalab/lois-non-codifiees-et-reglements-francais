@@ -1,6 +1,6 @@
 # Article 1
 
-En application de l'article L. 752-14 susvisé du code rural, les sociétés d'assurances dont les noms suivent sont autorisées à participer à la gestion de l'assurance contre les accidents du travail et les maladies professionnelles des non-salariés agricoles :
+En application de l'article L. 752-14 susvisé du code rural et de la pêche maritime, les sociétés d'assurances dont les noms suivent sont autorisées à participer à la gestion de l'assurance contre les accidents du travail et les maladies professionnelles des non-salariés agricoles :
 
 1° Allianz IARD ;
 

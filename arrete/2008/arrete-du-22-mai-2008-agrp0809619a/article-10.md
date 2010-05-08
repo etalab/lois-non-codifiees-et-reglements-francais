@@ -2,7 +2,7 @@
 
 Aide aux cultures énergétiques : utilisation ou transformation de la matière première récoltée sur l'exploitation agricole.
 
-Pour l'application de l'article D. 615-32 du code rural, dans le cas d'utilisation ou de transformation de la matière première sur l'exploitation agricole, le demandeur est tenu d'adresser à l'Agence de services et de paiement, en plus de la déclaration mentionnée à l'article 33 du règlement (CE) n° 1973/2004, un descriptif du lieu de stockage dédié, un descriptif de l'utilisation finale envisagée, un descriptif du matériel de transformation utilisé avec ses caractéristiques techniques (presse de trituration, chaudière, moteurs fixes ou mobiles...).
+Pour l'application de l'article D. 615-32 du code rural et de la pêche maritime, dans le cas d'utilisation ou de transformation de la matière première sur l'exploitation agricole, le demandeur est tenu d'adresser à l'Agence de services et de paiement, en plus de la déclaration mentionnée à l'article 33 du règlement (CE) n° 1973/2004, un descriptif du lieu de stockage dédié, un descriptif de l'utilisation finale envisagée, un descriptif du matériel de transformation utilisé avec ses caractéristiques techniques (presse de trituration, chaudière, moteurs fixes ou mobiles...).
 
 Dans ce même cas, il appartient au demandeur d'apporter à l'Agence de services et de paiement la preuve que la valeur économique du produit énergétique obtenu est supérieure à celle de tous les autres produits issus de la même transformation et destinés à d'autres utilisations.
 
@@ -28,7 +28,7 @@ En cas de destruction, même partielle, de matière première issue de la cultur
 
 Avant toute destruction volontaire, le producteur doit en demander, par écrit, l'autorisation à l'Agence de services et de paiement en indiquant la nature du produit et la quantité concernée, le motif et le type de destruction envisagé.
 
-Pour l'application de l'article D. 615-34 du code rural, le demandeur met en place une comptabilité matières spécifique qui précise :
+Pour l'application de l'article D. 615-34 du code rural et de la pêche maritime, le demandeur met en place une comptabilité matières spécifique qui précise :
 
 ― les quantités de toutes les matières premières issues de la culture énergétique réceptionnées, les quantités de matières premières transformées ;
 

@@ -1,5 +1,6 @@
 # Décret n°2006-79 du 26 janvier 2006 portant diverses mesures sociales applicables aux personnels enseignants et de documentation mentionnés à l'article L. 813-8 du code rural et de la pêche maritime.
 
+- [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)

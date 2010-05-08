@@ -1,8 +1,8 @@
 # Article Annexe II
 
-**CERTIFICAT D'APTITUDE AUX FONCTIONS D'INSÉMINATEUR
+CERTIFICAT D'APTITUDE AUX FONCTIONS D'INSÉMINATEUR
 
-DANS LES ESPÈCES ÉQUINE ET ASINE**
+DANS LES ESPÈCES ÉQUINE ET ASINE
 
 1. Programme de la formation d'inséminateur équin
 
@@ -190,7 +190,7 @@ f) Réglementation : 20 heures :
 
 - réglementation de la médecine et de la pharmacie vétérinaire ;
 
-- les outils d'orientation de l'élevage : loi sur l'élevage (code rural).
+- les outils d'orientation de l'élevage : loi sur l'élevage (code rural et de la pêche maritime).
 
 g) Matériel et technologie : 10 heures :
 

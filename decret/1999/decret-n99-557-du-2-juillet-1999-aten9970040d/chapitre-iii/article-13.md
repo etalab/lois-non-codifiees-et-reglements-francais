@@ -1,6 +1,6 @@
 # Article 13
 
-Les travaux publics ou privés modifiant l'état ou l'aspect des lieux sont interdits, sous réserve de l'application des articles L. 242-9 et R. 19 à 23 du code rural.
+Les travaux publics ou privés modifiant l'état ou l'aspect des lieux sont interdits, sous réserve de l'application des articles L. 242-9 et R. 19 à 23 du code rural et de la pêche maritime.
 
 Peuvent être autorisés par le préfet, après avis du comité consultatif, les travaux nécessaires :
 

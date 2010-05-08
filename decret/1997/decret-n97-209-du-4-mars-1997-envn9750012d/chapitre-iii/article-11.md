@@ -16,4 +16,4 @@ Tout travail public ou privé est interdit. Toutefois, les travaux d'entretien c
 
 7° Travaux d'entretien des câbles conducteurs des lignes à haute tension ainsi que de leurs supports.
 
-Les dispositions du présent article s'appliquent sous réserve de celles de l'article L. 242-9 du code rural.
+Les dispositions du présent article s'appliquent sous réserve de celles de l'article L. 242-9 du code rural et de la pêche maritime.

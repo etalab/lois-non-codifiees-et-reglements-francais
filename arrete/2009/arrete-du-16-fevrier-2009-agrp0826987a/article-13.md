@@ -12,7 +12,7 @@ Numéro du récipient dans lequel le produit a été prélevé (en cas de reloge
 
 Volume du lot prélevé.
 
-Ces éléments, lorsqu'ils sont incomplets ou erronés sur le bulletin d'analyse, peuvent faire l'objet d'informations complémentaires, au plus tard le 31 mai de la campagne ou, au-delà de cette date, dans un délai d'un mois suivant la notification par l'établissement créé en application de l'article L. 621-1 du code rural, compétent en matière viticole. Dans ce cas et sous réserve de la conformité des informations, l'aide sera versée sans minoration.
+Ces éléments, lorsqu'ils sont incomplets ou erronés sur le bulletin d'analyse, peuvent faire l'objet d'informations complémentaires, au plus tard le 31 mai de la campagne ou, au-delà de cette date, dans un délai d'un mois suivant la notification par l'établissement créé en application de l'article L. 621-1 du code rural et de la pêche maritime, compétent en matière viticole. Dans ce cas et sous réserve de la conformité des informations, l'aide sera versée sans minoration.
 
 2. Un bulletin d'analyse établi par un laboratoire habilité est fourni pour chaque produit enrichissant utilisé et pour les produits obtenus après enrichissement. Il mentionnera :
 

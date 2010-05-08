@@ -1,6 +1,6 @@
 # Article 13
 
-Les travaux publics ou privés sont interdits sous réserve des dispositions de l'article L. 242-9 du code rural.
+Les travaux publics ou privés sont interdits sous réserve des dispositions de l'article L. 242-9 du code rural et de la pêche maritime.
 
 Toutefois peuvent être autorisés par le préfet après avis du comité consultatif les travaux d'entretien :
 

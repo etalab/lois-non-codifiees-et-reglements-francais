@@ -14,4 +14,4 @@ Le respect de ces conditions est attesté par la détention d'une carte professi
 
 Si son titulaire utilise un chien dans le cadre de son activité, la carte professionnelle comporte le numéro d'identification du chien.
 
-La carte professionnelle peut être retirée lorsque son titulaire cesse de remplir l'une des conditions prévues aux 1°, 2° et 3°. Elle peut également être retirée en cas de méconnaissance des dispositions prévues à l'article L. 214-1 du code rural.
+La carte professionnelle peut être retirée lorsque son titulaire cesse de remplir l'une des conditions prévues aux 1°, 2° et 3°. Elle peut également être retirée en cas de méconnaissance des dispositions prévues à l'article L. 214-1 du code rural et de la pêche maritime.

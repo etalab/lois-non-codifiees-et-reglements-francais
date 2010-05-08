@@ -2,7 +2,7 @@
 
 Dans les cas visés à l'article 6, les terres qui étaient exploitées en faire-valoir direct par le demandeur doivent faire l'objet :
 
--soit d'un bail à long terme, soit d'un bail à ferme, conclu pour une durée au moins égale à neuf ans, selon les dispositions prévues au titre VI du livre IV du code rural ;
+-soit d'un bail à long terme, soit d'un bail à ferme, conclu pour une durée au moins égale à neuf ans, selon les dispositions prévues au titre VI du livre IV du code rural et de la pêche maritime ;
 
 -soit d'une donation-partage ;
 

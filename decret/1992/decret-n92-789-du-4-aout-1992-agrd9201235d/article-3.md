@@ -1,8 +1,8 @@
 # Article 3
 
-La demande d'inscription de la société sur la liste des experts agricoles et fonciers et des experts forestiers doit être présentée, dans l'année de la constitution de la société, par les associés, par lettre recommandée avec demande d'avis de réception adressée au Comité national mentionné à l'article L. 171-1 du code rural. Elle doit être accompagnée des pièces suivantes :
+La demande d'inscription de la société sur la liste des experts agricoles et fonciers et des experts forestiers doit être présentée, dans l'année de la constitution de la société, par les associés, par lettre recommandée avec demande d'avis de réception adressée au Comité national mentionné à l'article L. 171-1 du code rural et de la pêche maritime. Elle doit être accompagnée des pièces suivantes :
 
-1° De la justification qu'il est satisfait par les personnes physiques se proposant d'exercer au sein de la société d'exercice libéral des professions d'expert agricole et foncier ou d'expert forestier aux conditions prévues à l'article L. 171-1 du code rural ;
+1° De la justification qu'il est satisfait par les personnes physiques se proposant d'exercer au sein de la société d'exercice libéral des professions d'expert agricole et foncier ou d'expert forestier aux conditions prévues à l'article L. 171-1 du code rural et de la pêche maritime ;
 
 2° Un exemplaire des statuts et, s'il en a été établi un, du règlement intérieur ainsi que, le cas échéant, une expédition ou une copie de l'acte constitutif ;
 

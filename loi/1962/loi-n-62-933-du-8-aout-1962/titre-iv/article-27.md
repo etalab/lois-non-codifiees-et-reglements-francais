@@ -4,7 +4,7 @@ Le fonds d'action sociale pour l'aménagement des structures agricoles est charg
 
 Le seuil de soixante ans prévu ci-dessus est ramené à cinquante-cinq ans pour les exploitants agricoles qui ont un taux d'invalidité supérieur à 50 p. 100 ou qui sont devenus chefs d'exploitation par suite du décès de leur conjoint.
 
-Dans des conditions prévues par décret, les terres rendues disponibles peuvent être cédées à un ou plusieurs chefs d'exploitation à titre principal s'installant ou déjà installés. Ces terres doivent être cédées en pleine propriété ou dans les conditions prévues au livre VI du code rural, en respectant les règles relatives au contrôle des structures des exploitations agricoles. Ces terres peuvent être également affectées au reboisement ou à un usage non agricole d'intérêt général.
+Dans des conditions prévues par décret, les terres rendues disponibles peuvent être cédées à un ou plusieurs chefs d'exploitation à titre principal s'installant ou déjà installés. Ces terres doivent être cédées en pleine propriété ou dans les conditions prévues au livre VI du code rural et de la pêche maritime, en respectant les règles relatives au contrôle des structures des exploitations agricoles. Ces terres peuvent être également affectées au reboisement ou à un usage non agricole d'intérêt général.
 
 La réglementation applicable pour l'octroi de l'indemnité viagère de départ est celle en vigueur à la date du dépôt de la demande.
 

@@ -45,4 +45,3 @@
 - [Loi n° 91-738 du 31 juillet 1991 (SPSX9100075L)](loi-n-91-738-du-31-juillet-1991-spsx9100075l)
 - [Loi n° 91-748 du 31 juillet 1991 (SPSX9000155L)](loi-n-91-748-du-31-juillet-1991-spsx9000155l)
 - [Loi n° 91-772 du 7 août 1991 (SPSX9100026L)](loi-n-91-772-du-7-aout-1991-spsx9100026l)
-- [Loi n°91-411 du 2 mai 1991 (MERX9000094L)](loi-n91-411-du-2-mai-1991-merx9000094l)

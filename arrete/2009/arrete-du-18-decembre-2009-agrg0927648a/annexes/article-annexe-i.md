@@ -2,7 +2,7 @@
 
 **DISPOSITIONS APPLICABLES À L'APPROVISIONNEMENT DIRECT PAR LE PRODUCTEUR DU CONSOMMATEUR FINAL OU DU COMMERCE DE DÉTAIL LOCAL FOURNISSANT DIRECTEMENT LE CONSOMMATEUR FINAL EN PETITES QUANTITÉS DE PRODUITS DE LA PÊCHE**
 
-1. Conformément au c du 2 de l'article 1er du règlement (CE) n° 852 / 2004 et au c du 3 de l'article 1er du règlement (CE) n° 853 / 2004 et sans préjudice des dispositions prévues aux articles R. 231-13 à R. 231-15 du code rural, l'approvisionnement direct par le producteur du consommateur final ou du commerce de détail local fournissant directement le consommateur final en petites quantités de produits primaires de la pêche est soumis aux conditions définies ci-après :
+1. Conformément au c du 2 de l'article 1er du règlement (CE) n° 852 / 2004 et au c du 3 de l'article 1er du règlement (CE) n° 853 / 2004 et sans préjudice des dispositions prévues aux articles R. 231-13 à R. 231-15 du code rural et de la pêche maritime, l'approvisionnement direct par le producteur du consommateur final ou du commerce de détail local fournissant directement le consommateur final en petites quantités de produits primaires de la pêche est soumis aux conditions définies ci-après :
 
 a) Les quantités maximales pouvant être fournies par le producteur ne dépassent pas :
 

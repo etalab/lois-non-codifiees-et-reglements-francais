@@ -2,7 +2,9 @@
 
 Mesures de surveillance de l'influenza aviaire hautement pathogène.
 
-Les mesures de surveillance à mettre en œuvre en fonction du niveau de risque épizootique figurent à l'annexe 2 au présent arrêté. Ces mesures comprennent :
+Les mesures de surveillance à mettre en œuvre en fonction du niveau de risque épizootique figurent à l'annexe 2 au présent arrêté.
+
+Ces mesures comprennent :
 
 1. La surveillance des oiseaux sauvages, qui comprend deux volets :
 
@@ -28,7 +30,7 @@ Pour les troupeaux de plus de 1 000 oiseaux, la surveillance est basée sur les 
 
 ― toute chute de ponte de plus de 15 % sur une journée ou de plus de 5 % par jour sur trois jours consécutifs.
 
-Le vétérinaire consulté est tenu d'en rechercher les causes et d'en rendre compte sans délai et par écrit à l'éleveur, qui l'inscrit dans le registre d'élevage. En cas de suspicion d'influenza aviaire, le vétérinaire en avertit immédiatement le directeur départemental des services vétérinaires, conformément à l'article D. 222-2-2 du code rural.
+Le vétérinaire consulté est tenu d'en rechercher les causes et d'en rendre compte sans délai et par écrit à l'éleveur, qui l'inscrit dans le registre d'élevage. En cas de suspicion d'influenza aviaire, le vétérinaire en avertit immédiatement le directeur départemental des services vétérinaires, conformément à l'article D. 222-2-2 du code rural et de la pêche maritime.
 
 Ce dispositif ne porte pas préjudice à l'obligation de déclaration de toute suspicion d'influenza aviaire.
 

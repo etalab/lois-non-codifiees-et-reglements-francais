@@ -1,12 +1,12 @@
 # Article 3
 
-Le coefficient correcteur visé à l'article D. 751-77 du code rural est fixé à 1, 149 6.
+Le coefficient correcteur visé à l'article D. 751-77 du code rural et de la pêche maritime est fixé à 1, 149 6.
 
-Le taux de risque accidents de trajet visé au quatrième alinéa de l'article D. 751-75 du code rural est fixé à 0, 147 3 %.
+Le taux de risque accidents de trajet visé au quatrième alinéa de l'article D. 751-75 du code rural et de la pêche maritime est fixé à 0, 147 3 %.
 
-La majoration forfaitaire visée à l'article D. 751-78 du code rural est fixée à : ― 0, 193 1 %.
+La majoration forfaitaire visée à l'article D. 751-78 du code rural et de la pêche maritime est fixée à : ― 0, 193 1 %.
 
-Les secteurs d'activité professionnelle agricole, les catégories de risques dépendant de chacun d'eux, les taux de cotisations visés à l'article D. 751-74 du code rural ainsi que la majoration forfaitaire corrigée de la répercussion de l'individualisation sont fixés comme suit :
+Les secteurs d'activité professionnelle agricole, les catégories de risques dépendant de chacun d'eux, les taux de cotisations visés à l'article D. 751-74 du code rural et de la pêche maritime ainsi que la majoration forfaitaire corrigée de la répercussion de l'individualisation sont fixés comme suit :
 
 <div align="center">
 
@@ -343,7 +343,7 @@ Les secteurs d'activité professionnelle agricole, les catégories de risques d�
 </tr>
 <tr>
 <td align="center">
-<p align="left">Autres organismes, établissements et groupements professionnels agricoles visés au 6° de l'article L. 722-20 du code rural, à l'exclusion des organismes à caractère coopératif </p>
+<p align="left">Autres organismes, établissements et groupements professionnels agricoles visés au 6° de l'article L. 722-20 du code rural et de la pêche maritime, à l'exclusion des organismes à caractère coopératif </p>
 </td>
 <td align="center">
 <br/>
@@ -424,7 +424,7 @@ Les secteurs d'activité professionnelle agricole, les catégories de risques d�
 </tr>
 <tr>
 <td align="center">
-<p align="left">Personnel enseignant agricole privé visé au 5° de l'article L. 722-20 du code rural ou employé par les groupements professionnels agricoles visés au 6° de l'article L. 722-20 du code rural </p>
+<p align="left">Personnel enseignant agricole privé visé au 5° de l'article L. 722-20 du code rural et de la pêche maritime ou employé par les groupements professionnels agricoles visés au 6° de l'article L. 722-20 du code rural et de la pêche maritime </p>
 </td>
 <td align="center">
 <br/>

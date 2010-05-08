@@ -2,7 +2,7 @@
 
 I. - Il est institué un régime public de retraite additionnel obligatoire ouvert :
 
-1° Aux personnels enseignants et de documentation mentionnés aux articles L. 914-1 du code de l'éducation et L. 813-8 du code rural ;
+1° Aux personnels enseignants et de documentation mentionnés aux articles L. 914-1 du code de l'éducation et L. 813-8 du code rural et de la pêche maritime ;
 
 2° A leurs conjoints survivants ainsi qu'à leurs orphelins.
 

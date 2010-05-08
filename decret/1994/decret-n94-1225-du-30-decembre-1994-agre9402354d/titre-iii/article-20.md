@@ -2,7 +2,7 @@
 
 Le régime financier et comptable de l'école est défini par le décret du 7 novembre 1975 susvisé.
 
-Sans préjudice des dispositions des articles R. 811-96 et suivants du code rural, les recettes de l'école comprennent notamment :
+Sans préjudice des dispositions des articles R. 811-96 et suivants du code rural et de la pêche maritime, les recettes de l'école comprennent notamment :
 
 1° Les subventions de l'Etat, des collectivités publiques ou d'organismes publics ou privés ;
 

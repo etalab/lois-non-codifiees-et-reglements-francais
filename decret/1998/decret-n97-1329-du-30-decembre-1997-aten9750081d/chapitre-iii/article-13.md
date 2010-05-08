@@ -1,6 +1,6 @@
 # Article 13
 
-1° Les travaux publics ou privés modifiant l'état ou l'aspect de la réserve sont interdits sous réserve de l'application de l'article L. 242-9 du code rural.
+1° Les travaux publics ou privés modifiant l'état ou l'aspect de la réserve sont interdits sous réserve de l'application de l'article L. 242-9 du code rural et de la pêche maritime.
 
 2° Les travaux publics ou privés nécessités par l'entretien de la réserve sont autorisés par le préfet après avis du comité consultatif, en conformité avec le plan de gestion de la réserve.
 
@@ -28,7 +28,7 @@ Sont également autorisés par le préfet tous autres travaux d'entretien couran
 
 - sur les autres gabions et les plans d'eau, hors période de nidification.
 
-4° Peuvent notamment être autorisés par le ministre chargé de la protection de la nature, conformément à l'article L. 242-9 du code rural :
+4° Peuvent notamment être autorisés par le ministre chargé de la protection de la nature, conformément à l'article L. 242-9 du code rural et de la pêche maritime :
 
 - les travaux ou installations liés à la sécurité ;
 

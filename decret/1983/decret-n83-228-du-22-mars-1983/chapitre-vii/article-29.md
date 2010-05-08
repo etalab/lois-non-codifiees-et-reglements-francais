@@ -10,7 +10,7 @@ Les concessions accordées en application du présent décret peuvent être modi
 
 4° Dans le cas où une entreprise n'exploite pas au moins un tiers des surfaces qui lui sont concédées ou si l'emplacement concerné est resté inexploité ou insuffisamment exploité pendant une période de trois ans ;
 
-5° Si l'emplacement concédé se trouve classé en zone d'insalubrité au sens du 4° de l'article R. 231-37 du code rural ;
+5° Si l'emplacement concédé se trouve classé en zone d'insalubrité au sens du 4° de l'article R. 231-37 du code rural et de la pêche maritime ;
 
 6° Si le titulaire n'a pas obtenu l'attestation de réussite au stage de formation en cultures marines, dans les deux ans à compter de la date de la décision d'octroi de la concession, en application des dispositions du 3° de l'article 7.
 

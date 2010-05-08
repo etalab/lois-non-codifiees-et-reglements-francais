@@ -1,6 +1,6 @@
 # Article 3
 
-Lorsque dans une exploitation se trouvent des volailles suspectes d'être infectées de maladie de Newcastle, le préfet prend, sur proposition du directeur des services vétérinaires et conformément à l'article L. 223-6 du code rural, un arrêté de mise sous surveillance de cette exploitation qui entraîne notamment l'application des mesures suivantes :
+Lorsque dans une exploitation se trouvent des volailles suspectes d'être infectées de maladie de Newcastle, le préfet prend, sur proposition du directeur des services vétérinaires et conformément à l'article L. 223-6 du code rural et de la pêche maritime, un arrêté de mise sous surveillance de cette exploitation qui entraîne notamment l'application des mesures suivantes :
 
 1° Toutes les volailles sont isolées, séquestrées, visitées et recensées ;
 

@@ -1,11 +1,9 @@
 # Article 11
 
-Pour les ressortissants d'un Etat membre de l'Union européenne ou d'un Etat partie à l'Espace économique européen, il est fait application du principe d'équivalence de diplômes, de titres ou d'expérience posé à l'
-article L. 204-1 du code rural
+Pour les ressortissants d'un Etat membre de l'Union européenne ou d'un Etat partie à l'Espace économique européen, il est fait application du principe d'équivalence de diplômes, de titres ou d'expérience posé à l'article L. 204-1 du code rural et de la pêche maritime
 .
 
-En application des
-articles R. 653-87, R. 653-87-1 et R. 653-87-2 du code rural
+En application des articles R. 653-87, R. 653-87-1 et R. 653-87-2 du code rural et de la pêche maritime
 , le centre d'évaluation habilité à la délivrance du certificat procède à une comparaison entre les compétences attestées par les diplômes, les titres ou l'expérience et les connaissances et qualifications exigées par l'annexe III du présent arrêté.
 
 Le centre d'évaluation peut exiger du demandeur qu'il se soumette, selon son choix, à une épreuve d'aptitude ou qu'il accomplisse un stage d'adaptation sur les points pour lesquels des différences substantielles de formation sont mises en évidence.

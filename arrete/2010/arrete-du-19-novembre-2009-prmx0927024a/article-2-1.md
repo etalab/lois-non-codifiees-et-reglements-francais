@@ -105,7 +105,7 @@
 </td>
 </tr>
 <tr>
-<td>Ordonnance de suspension provisoire des poursuites (article R. 351-5 du code rural) <br/>
+<td>Ordonnance de suspension provisoire des poursuites (article R. 351-5 du code rural et de la pêche maritime) <br/>
 </td>
 <td align="center">14, 98 <br/>
 </td>

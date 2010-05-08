@@ -1,0 +1,3 @@
+# Article 20
+
+Tout boviné reconnu non indemne de brucellose, selon la définition de l'article 14, à l'occasion d'un contrôle en vue d'une introduction ne peut être introduit dans le troupeau de destination. Il doit être conservé dans l'exploitation d'origine ou y retourner dans un délai de quinze jours suivant la notification du résultat et sous couvert d'un laissez-passer sanitaire. Toutefois, à la demande de son propriétaire, cet animal peut être transporté directement, sans rupture de charge et sous couvert d'un laissez-passer sanitaire, jusqu'à un abattoir agréé. Il en est de même, lorsque le mouvement concerne un lot d'animaux, pour les autres bovinés provenant de la même exploitation.

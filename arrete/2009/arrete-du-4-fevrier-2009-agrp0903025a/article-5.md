@@ -10,7 +10,7 @@ Les investissements suivants ne sont pas éligibles :
 
 ― les investissements permettant au bénéficiaire de répondre à une norme, à l'exception :
 
-― des jeunes agriculteurs ayant bénéficié d'une aide à l'installation prévue à l'article D. 343-3 du code rural pour des investissements réalisés pendant la période de trois ans qui suit la date d'installation retenue dans le cadre du certificat de conformité à l'installation et si à compter du 1er janvier 2007, son projet est inscrit dans le plan de développement de l'exploitation ;
+― des jeunes agriculteurs ayant bénéficié d'une aide à l'installation prévue à l'article D. 343-3 du code rural et de la pêche maritime pour des investissements réalisés pendant la période de trois ans qui suit la date d'installation retenue dans le cadre du certificat de conformité à l'installation et si à compter du 1er janvier 2007, son projet est inscrit dans le plan de développement de l'exploitation ;
 
 ― des normes récemment introduites. On entend par « normes récemment introduites » les normes dont l'obligation de respect pour les exploitations agricoles ne dépasse pas trente-six mois à compter de la date à laquelle la norme devient obligatoire pour l'entreprise agricole ;
 

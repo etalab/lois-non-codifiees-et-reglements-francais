@@ -13,7 +13,7 @@ PAR LE DIRECTEUR RÉGIONAL DE L'ALIMENTATION DE L'AGRICULTURE ET DE LA FORÊT OU
 <p>Subventions aux établissements publics locaux d'enseignement agricole.</p>
 </td>
 <td valign="top" width="302">
-<p>Art. R. 811-4 et R. 811-51 du code rural.</p>
+<p>Art. R. 811-4 et R. 811-51 du code rural et de la pêche maritime.</p>
 </td>
 </tr>
 <tr>
@@ -21,7 +21,7 @@ PAR LE DIRECTEUR RÉGIONAL DE L'ALIMENTATION DE L'AGRICULTURE ET DE LA FORÊT OU
 <p>Subventions aux organismes locaux pour le financement des stages préparatoires à l'installation des jeunes agriculteurs.</p>
 </td>
 <td valign="top" width="302">
-<p>Art. R. 343-4 et R. 343-5 du code rural. </p>
+<p>Art. R. 343-4 et R. 343-5 du code rural et de la pêche maritime. </p>
 </td>
 </tr>
 <tr>

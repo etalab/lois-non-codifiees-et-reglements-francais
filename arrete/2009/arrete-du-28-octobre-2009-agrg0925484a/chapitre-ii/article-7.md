@@ -12,7 +12,7 @@ Toute suspicion de fièvre catarrhale du mouton doit faire l'objet d'une déclar
 
 5° Des visites régulières de la ou des exploitations avec un examen clinique approfondi des animaux des espèces sensibles, l'autopsie des animaux euthanasiés ou morts et la réalisation des prélèvements appropriés aux fins d'analyse ;
 
-6° La destruction, l'élimination, l'incinération ou l'enfouissement des cadavres des animaux, conformément aux dispositions des articles L. 226-1 à L. 226-6 du code rural ;
+6° La destruction, l'élimination, l'incinération ou l'enfouissement des cadavres des animaux, conformément aux dispositions des articles L. 226-1 à L. 226-6 du code rural et de la pêche maritime ;
 
 7° Une enquête épidémiologique conformément à l'article 10 du présent arrêté ;
 

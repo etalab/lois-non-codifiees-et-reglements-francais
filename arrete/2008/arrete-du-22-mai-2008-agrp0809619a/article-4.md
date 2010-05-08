@@ -2,7 +2,7 @@
 
 Conditions d'accès aux paiements à la surface sur la base des rendements irrigués.
 
-En application de l'article D. 615-15 du code rural, les cultures susceptibles d'être éligibles aux rendements irrigués sont les suivantes :
+En application de l'article D. 615-15 du code rural et de la pêche maritime, les cultures susceptibles d'être éligibles aux rendements irrigués sont les suivantes :
 
 ― maïs ;
 

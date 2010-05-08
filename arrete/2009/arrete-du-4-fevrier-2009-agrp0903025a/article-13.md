@@ -2,7 +2,7 @@
 
 Le demandeur prend les engagements suivants :
 
-― le cas échéant, poursuivre son activité agricole au sens de l'article L. 311-1 du code rural et tout particulièrement l'activité ayant bénéficié de l'aide pendant une période de cinq années à compter de la date de décision de l'engagement juridique de l'aide ;
+― le cas échéant, poursuivre son activité agricole au sens de l'article L. 311-1 du code rural et de la pêche maritime et tout particulièrement l'activité ayant bénéficié de l'aide pendant une période de cinq années à compter de la date de décision de l'engagement juridique de l'aide ;
 
 ― maintenir sur son exploitation les équipements et les aménagements pendant une période de cinq ans à compter de la date de décision de l'engagement juridique de l'aide. Les équipements peuvent toutefois être renouvelés sans aide publique dès lors qu'ils répondent aux mêmes objectifs que ceux initialement financés ;
 

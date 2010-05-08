@@ -2,7 +2,7 @@
 
 Le présent arrêté fixe les règles concernant certains établissements du secteur de l'alimentation animale relatives à :
 
--leur agrément au titre de l'article L. 235-1 du code rural, de l'article 10 du règlement (CE) n° 183 / 2005 susvisé, de l'article 1er du règlement (CE) n° 141 / 2007 susvisé, et à certaines de leurs obligations particulières ;
+-leur agrément au titre de l'article L. 235-1 du code rural et de la pêche maritime, de l'article 10 du règlement (CE) n° 183 / 2005 susvisé, de l'article 1er du règlement (CE) n° 141 / 2007 susvisé, et à certaines de leurs obligations particulières ;
 
 -leur agrément " salmonelles " dans le cadre du programme national de contrôle de Salmonella conformément à l'article 5 du règlement (CE) n° 2160 / 2003 susvisé ;
 

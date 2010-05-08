@@ -4,4 +4,4 @@ Par dérogation aux dispositions de l'article 1er, lorsque les personnes physiqu
 
 Les frais résultant de cette intervention peuvent être pris en compte dans l'attribution et le calcul des aides sollicitées à la condition que ces ingénieurs et techniciens soient salariés de la société coopérative et qu'ils figurent sur une liste arrêtée par le préfet de région, sur proposition du président de la société coopérative et après avis du centre régional de la propriété forestière.
 
-Le préfet de région procède à l'inscription sur la liste après s'être assuré que les salariés proposés remplissent des conditions d'expérience professionnelle et de diplôme identiques à celles prévues par l'article R. 171-10 du code rural.
+Le préfet de région procède à l'inscription sur la liste après s'être assuré que les salariés proposés remplissent des conditions d'expérience professionnelle et de diplôme identiques à celles prévues par l'article R. 171-10 du code rural et de la pêche maritime.

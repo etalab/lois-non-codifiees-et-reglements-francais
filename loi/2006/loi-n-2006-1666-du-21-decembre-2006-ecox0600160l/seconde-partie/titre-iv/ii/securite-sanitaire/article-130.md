@@ -1,6 +1,6 @@
 # Article 130
 
-I. - Il est perçu par l'Agence française de sécurité sanitaire des aliments une taxe relative aux produits phytopharmaceutiques et à leurs adjuvants mentionnés à l'article L. 253-1 du code rural et aux matières fertilisantes et supports de culture mentionnés à l'article L. 255-1 du même code, pour chaque demande :
+I. - Il est perçu par l'Agence française de sécurité sanitaire des aliments une taxe relative aux produits phytopharmaceutiques et à leurs adjuvants mentionnés à l'article L. 253-1 du code rural et de la pêche maritime et aux matières fertilisantes et supports de culture mentionnés à l'article L. 255-1 du même code, pour chaque demande :
 
 1° D'inscription d'une nouvelle substance active sur la liste communautaire des substances actives ;
 

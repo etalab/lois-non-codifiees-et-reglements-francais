@@ -44,4 +44,4 @@ IV. - Les vins à appellation d'origine contrôlée "Alsace grand cru" suivie du
 
 Le respect de ces conditions d'encépagement peut être réalisé par rapport à la totalité des parcelles de l'exploitation produisant l'appellation concernée ou par rapport à la totalité des parcelles conduisant à l'élaboration d'une cuvée d'assemblage de plusieurs cépages de cette appellation.
 
-Lorsqu'ils sont vinifiés séparément, les vins destinés à l'élaboration d'une cuvée d'assemblage et issus des différents cépages sont assemblés dans des récipients vinaires préalablement au prélèvement prévu à l'article D. 641-96 du code rural.
+Lorsqu'ils sont vinifiés séparément, les vins destinés à l'élaboration d'une cuvée d'assemblage et issus des différents cépages sont assemblés dans des récipients vinaires préalablement au prélèvement prévu à l'article D. 641-96 du code rural et de la pêche maritime.

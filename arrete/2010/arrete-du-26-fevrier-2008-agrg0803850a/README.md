@@ -6,6 +6,7 @@
 - [Chapitre IV : Mesures à prendre en cas de suspicion ou de confirmation  d'infection dans les troupeaux de volailles de rente.](chapitre-iv)
 - [Chapitre V : Décontamination et vaccination.](chapitre-v)
 - [Chapitre VI : Alimentation des animaux.](chapitre-vi)
+- [Chapitre VII :  Modalités de déclaration des salmonelloses aviaires dans les troupeaux de l'espèce Gallus gallus de la filière ponte d'œufs de consommation, visées à l'article D. 223-1 du code rural et de la pêche maritime relatif aux maladies à déclaration obligatoire.](chapitre-vii)
 - [Chapitre VIII :  Dispositions à prendre en cas de confirmation d'infection dans les troupeaux de volailles de reproduction et de rente en ce qui concerne les produits de volailles.](chapitre-viii)
 - [Chapitre IX : Dispositions générales.](chapitre-ix)
 - [Annexes](annexes)

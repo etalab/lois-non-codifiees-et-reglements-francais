@@ -4,4 +4,4 @@ Les travaux publics ou privés sont interdits, à l'exception des travaux d'entr
 
 En outre, sont autorisés par le préfet après avis du comité consultatif les travaux nécessités par l'entretien et la gestion de la réserve et ceux rendus nécessaires pour des raisons de sécurité publique.
 
-Ces dispositions ne font pas obstacle à celles de l'article L. 242-9 du code rural.
+Ces dispositions ne font pas obstacle à celles de l'article L. 242-9 du code rural et de la pêche maritime.

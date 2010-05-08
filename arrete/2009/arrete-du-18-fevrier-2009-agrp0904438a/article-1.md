@@ -1,7 +1,7 @@
 # Article 1
 
 <div>
-<br/>Le montant du droit prévu par l'article L. 642-13 du code rural, cinquième alinéa, est fixé à partir de l'année 2009 conformément au tableau ci-après : <div align="center">
+<br/>Le montant du droit prévu par l'article L. 642-13 du code rural et de la pêche maritime, cinquième alinéa, est fixé à partir de l'année 2009 conformément au tableau ci-après : <div align="center">
 
 <table>
 <tr>
@@ -44,4 +44,4 @@
 
 </div>
 <br/>
-<br/>Ce droit est acquitté par les opérateurs sur les quantités telles que définies au huitième alinéa de l'article L. 642-13 du code rural. Ces quantités, qui doivent apparaître dans la comptabilité matière des opérateurs, sont arrêtées sur la base des déclarations faites par les opérateurs, dans les conditions définies dans le cahier des charges de l'appellation concernée.</div>
+<br/>Ce droit est acquitté par les opérateurs sur les quantités telles que définies au huitième alinéa de l'article L. 642-13 du code rural et de la pêche maritime. Ces quantités, qui doivent apparaître dans la comptabilité matière des opérateurs, sont arrêtées sur la base des déclarations faites par les opérateurs, dans les conditions définies dans le cahier des charges de l'appellation concernée.</div>

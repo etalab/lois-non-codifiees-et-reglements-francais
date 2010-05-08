@@ -2,7 +2,7 @@
 
 Taux de retrait volontaire des terres de la production.
 
-En application de l'article D. 615-16 du code rural, le taux des terres volontairement retirées de la production, susceptibles de bénéficier des paiements à la surface, est plafonné à dix quatre-vingt-dixièmes de la surface emblavée en grandes cultures bénéficiant de l'aide aux grandes cultures.
+En application de l'article D. 615-16 du code rural et de la pêche maritime, le taux des terres volontairement retirées de la production, susceptibles de bénéficier des paiements à la surface, est plafonné à dix quatre-vingt-dixièmes de la surface emblavée en grandes cultures bénéficiant de l'aide aux grandes cultures.
 
 Ce taux est porté à vingt-quatre vingtièmes de la surface emblavée en grandes cultures bénéficiant de l'aide aux grandes cultures pour :
 

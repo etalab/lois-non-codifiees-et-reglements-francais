@@ -102,11 +102,11 @@ d) Charge maximale moyenne à la parcelle :
 
 La charge maximale moyenne à la parcelle est fixée à 7 500 kilogrammes par hectare.
 
-Lorsque l'irrigation est autorisée conformément aux dispositions de l'article D. 644-23 du code rural, la charge maximale moyenne à la parcelle des parcelles irriguées est fixée à 6 000 kilogrammes par hectare.
+Lorsque l'irrigation est autorisée conformément aux dispositions de l'article D. 644-23 du code rural et de la pêche maritime, la charge maximale moyenne à la parcelle des parcelles irriguées est fixée à 6 000 kilogrammes par hectare.
 
 e) Seuil de manquants :
 
-Le pourcentage de pieds de vigne morts ou manquants visé à l'article D. 644-22 du code rural est fixé à 20 %.
+Le pourcentage de pieds de vigne morts ou manquants visé à l'article D. 644-22 du code rural et de la pêche maritime est fixé à 20 %.
 
 f) Etat cultural de la vigne :
 
@@ -122,7 +122,7 @@ b) L'apport de terre exogène sur des parcelles de l'aire parcellaire délimité
 
 3° Irrigation :
 
-L'irrigation pendant la période de végétation de la vigne ne peut être autorisée, conformément aux dispositions de l'article D. 644-23 du code rural, qu'en cas de sécheresse persistante et lorsque celle-ci perturbe le bon développement physiologique de la vigne et la bonne maturation du raisin.
+L'irrigation pendant la période de végétation de la vigne ne peut être autorisée, conformément aux dispositions de l'article D. 644-23 du code rural et de la pêche maritime, qu'en cas de sécheresse persistante et lorsque celle-ci perturbe le bon développement physiologique de la vigne et la bonne maturation du raisin.
 
 VII. - Récolte, transport et maturité du raisin
 
@@ -206,11 +206,11 @@ VIII. - Rendements, entrée en production
 
 1° Rendement :
 
-Le rendement visé à l'article D. 644-25 du code rural est fixé, pour les vins blancs, rouges et rosés, à 45 hectolitres par hectare.
+Le rendement visé à l'article D. 644-25 du code rural et de la pêche maritime est fixé, pour les vins blancs, rouges et rosés, à 45 hectolitres par hectare.
 
 2° Rendement butoir :
 
-Le rendement butoir visé à l'article D. 644-25 du code rural est fixé, pour les vins blancs, rouges et rosés, à 45 hectolitres par hectare.
+Le rendement butoir visé à l'article D. 644-25 du code rural et de la pêche maritime est fixé, pour les vins blancs, rouges et rosés, à 45 hectolitres par hectare.
 
 3° Rendement maximum de production :
 
@@ -280,7 +280,7 @@ a) L'opérateur est tenu de respecter une procédure de nettoyage du groupe de m
 
 b) Pour tout lot conditionné, l'opérateur tient à disposition de l'organisme de contrôle agréé :
 
-― les informations figurant dans le registre des manipulations visé à l'article D. 644-36 du code rural ;
+― les informations figurant dans le registre des manipulations visé à l'article D. 644-36 du code rural et de la pêche maritime ;
 
 ― une analyse réalisée avant ou après le conditionnement.
 

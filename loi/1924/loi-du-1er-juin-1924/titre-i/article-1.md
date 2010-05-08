@@ -8,7 +8,7 @@ a) Le code civil ;
 
 b) Les parties suivantes du code du travail : livre Ier, articles 19 à 22, 24, 29 à 32, 43 à 51, 74 à 78 et 103 à 107 ;
 
-c) Les parties suivantes du code rural : le livre Ier (sauf le titre VII) et les titres Ier et 2 du livre II ;
+c) Les parties suivantes du code rural et de la pêche maritime : le livre Ier (sauf le titre VII) et les titres Ier et 2 du livre II ;
 
 2° Les textes particuliers suivants, en tant qu'ils ne sont pas déjà applicables :
 

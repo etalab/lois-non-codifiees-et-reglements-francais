@@ -20,7 +20,7 @@ a) Au regard des dispositions contenues dans les codes suivants :
 
 Code des communes ;
 
-Code rural ;
+Code rural et de la pêche maritime ;
 
 Code forestier ;
 

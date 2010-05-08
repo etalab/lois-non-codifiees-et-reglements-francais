@@ -2,11 +2,11 @@
 
 Peuvent bénéficier de cette subvention, hors investissements de banc d'essai moteur et investissements collectifs de méthanisation, les personnes physiques suivantes :
 
-― les personnes physiques exerçant une activité agricole au sens de l'article L-311-1 du code rural ;
+― les personnes physiques exerçant une activité agricole au sens de l'article L-311-1 du code rural et de la pêche maritime ;
 
 ― les propriétaires bailleurs de biens fonciers à usage agricole, le preneur devant remplir les conditions d'obtention des aides ;
 
-― les fermiers ou métayers, s'ils sont autorisés à effectuer les travaux par leur propriétaire ou à défaut par le tribunal paritaire des baux ruraux, à moins qu'ils ne soient légalement dispensés de cette autorisation (art.L. 411-73 du code rural).
+― les fermiers ou métayers, s'ils sont autorisés à effectuer les travaux par leur propriétaire ou à défaut par le tribunal paritaire des baux ruraux, à moins qu'ils ne soient légalement dispensés de cette autorisation (art.L. 411-73 du code rural et de la pêche maritime).
 
 Le demandeur ou le preneur dans le cas des propriétaires bailleurs doit satisfaire, à la date de décision d'octroi de la subvention, les conditions énumérées ci-après :
 

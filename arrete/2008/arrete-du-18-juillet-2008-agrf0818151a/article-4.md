@@ -4,4 +4,4 @@ Lorsque la décision de l'organisme compétent, statuant sur une demande de remi
 
 ― soit de la date de notification de la décision de l'organisme ;
 
-― soit à l'expiration du délai de trois mois visé aux articles R. 731-75 et R. 741-26 du code rural.
+― soit à l'expiration du délai de trois mois visé aux articles R. 731-75 et R. 741-26 du code rural et de la pêche maritime.

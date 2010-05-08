@@ -1,6 +1,6 @@
 # Article 9
 
-Les plans de chasse sont soumis à l'avis du comité consultatif et mis en oeuvre conformément aux dispositions des articles L. 225-1 à L. 225-3 et R. 225-1 à R. 225-15 du code rural et à celles des arrêtés ministériels pris en application de ces articles.
+Les plans de chasse sont soumis à l'avis du comité consultatif et mis en oeuvre conformément aux dispositions des articles L. 225-1 à L. 225-3 et R. 225-1 à R. 225-15 du code rural et de la pêche maritime et à celles des arrêtés ministériels pris en application de ces articles.
 
 Sont notamment soumises à plan de chasse les espèces suivantes :
 

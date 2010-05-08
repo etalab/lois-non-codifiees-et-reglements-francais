@@ -30,4 +30,4 @@ On entend par rendez-vous la fixation, d'un commun accord entre le donneur d'ord
 
 2.7. Convoyage.
 
-Par convoyage, on entend l'accompagnement des animaux par un représentant du donneur d'ordre ayant pour mission de surveiller, protéger et apporter des soins particuliers aux animaux pendant le transport et qui dispose, pour ce faire, de l'eau nécessaire et des ustensiles permettant l'alimentation et l'abreuvement des animaux dans les conditions prévues aux articles L. 214-12 et L. 215-13 du code rural.
+Par convoyage, on entend l'accompagnement des animaux par un représentant du donneur d'ordre ayant pour mission de surveiller, protéger et apporter des soins particuliers aux animaux pendant le transport et qui dispose, pour ce faire, de l'eau nécessaire et des ustensiles permettant l'alimentation et l'abreuvement des animaux dans les conditions prévues aux articles L. 214-12 et L. 215-13 du code rural et de la pêche maritime.

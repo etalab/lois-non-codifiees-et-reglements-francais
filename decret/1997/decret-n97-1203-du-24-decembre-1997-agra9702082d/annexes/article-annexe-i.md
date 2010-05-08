@@ -25,7 +25,7 @@ DÉCISIONS ADMINISTRATIVES INDIVIDUELLES PRISES PAR LE PRÉFET DE RÉGION
 <p>Subventions aux fédérations régionales de groupements de défense contre les organismes nuisibles.</p>
 </td>
 <td valign="top" width="302">
-<p>Articles 343 et 344 du code rural.</p>
+<p>Articles 343 et 344 du code rural et de la pêche maritime.</p>
 </td>
 </tr>
 <tr>
@@ -41,7 +41,7 @@ DÉCISIONS ADMINISTRATIVES INDIVIDUELLES PRISES PAR LE PRÉFET DE RÉGION
 <p>Subventions aux sociétés d'aménagement foncier et d'établissement rural.</p>
 </td>
 <td valign="top" width="302">
-<p>Article R.* 141-12 du code rural.</p>
+<p>Article R.* 141-12 du code rural et de la pêche maritime.</p>
 </td>
 </tr>
 </tbody>

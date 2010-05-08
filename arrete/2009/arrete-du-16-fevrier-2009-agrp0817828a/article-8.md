@@ -6,7 +6,7 @@ Cas particuliers.
 
 La redistillation d'alcool de bas degré fait l'objet d'une inscription spécifique dans la comptabilité matières.
 
-La déclaration de redistillation est adressée à l'établissement créé en application de l'article L. 621-1 du code rural, compétent en matière viticole, par le distillateur agréé qui a réalisé l'opération de redistillation, dans les conditions définies à l'article 7 du présent arrêté pour les relevés mensuels de production.
+La déclaration de redistillation est adressée à l'établissement créé en application de l'article L. 621-1 du code rural et de la pêche maritime, compétent en matière viticole, par le distillateur agréé qui a réalisé l'opération de redistillation, dans les conditions définies à l'article 7 du présent arrêté pour les relevés mensuels de production.
 
 2. Pour les distillateurs agréés qui exercent leur activité en déplaçant leur alambic sur des ateliers publics (ambulants), le déplacement de l'alambic est considéré au même titre que la collecte des sous-produits et ouvre droit au bénéfice de l'aide à la collecte.
 

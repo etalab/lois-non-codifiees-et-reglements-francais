@@ -1,6 +1,6 @@
 # Article 1
 
-Les candidats à un emploi de personnel enseignant et de documentation contractuel de l'Etat dans les établissements d'enseignement agricole privés mentionnés à l'article L. 813-8 du code rural et dont les associations ou organismes responsables sont liés à l'Etat par contrat doivent :
+Les candidats à un emploi de personnel enseignant et de documentation contractuel de l'Etat dans les établissements d'enseignement agricole privés mentionnés à l'article L. 813-8 du code rural et de la pêche maritime et dont les associations ou organismes responsables sont liés à l'Etat par contrat doivent :
 
 a) Justifier des titres, diplômes ou qualités prévus par le présent décret ;
 

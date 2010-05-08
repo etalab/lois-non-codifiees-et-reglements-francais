@@ -18,7 +18,7 @@ Docteur de troisième cycle ;
 
 Diplôme d'ingénieur, délivré par une école nationale supérieure ou par une université ;
 
-Diplôme d'ingénieur délivré par l'un des établissements d'enseignement supérieur public relevant du ministre chargé de l'agriculture et mentionnés à l'article R. 812-2 du code rural ;
+Diplôme d'ingénieur délivré par l'un des établissements d'enseignement supérieur public relevant du ministre chargé de l'agriculture et mentionnés à l'article R. 812-2 du code rural et de la pêche maritime ;
 
 Diplôme d'ingénieur des grandes écoles de l'Etat ou des établissements assimilés, dont la liste est fixée par arrêté conjoint des ministres chargés respectivement de l'agriculture, du budget et de la fonction publique ;
 

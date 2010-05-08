@@ -1,6 +1,6 @@
 # Article 3
 
-Sont réputés conformes aux dispositions de l'article R. 231-59-4 du code rural :
+Sont réputés conformes aux dispositions de l'article R. 231-59-4 du code rural et de la pêche maritime :
 
 a) Le transport réalisé à l'occasion de conditions climatiques rigoureuses avérées, rendant manifestement superflue une production de froid pendant toute la durée du transport ;
 

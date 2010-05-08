@@ -2,7 +2,7 @@
 
 Laboratoires et méthodes d'analyse.
 
-a) Les analyses de première intention du diagnostic de la présence d'un virus de l'influenza aviaire de sous-type H5 chez un oiseau sauvage sont réalisées par les laboratoires agréés par le ministre chargé de l'agriculture en application de l'article R. 202-8 du code rural ;
+a) Les analyses de première intention du diagnostic de la présence d'un virus de l'influenza aviaire de sous-type H5 chez un oiseau sauvage sont réalisées par les laboratoires agréés par le ministre chargé de l'agriculture en application de l'article R. 202-8 du code rural et de la pêche maritime ;
 
 b) Le laboratoire national de référence de l'Agence française de sécurité sanitaire des aliments, site de Ploufragan (AFSSA-Ploufragan), confirme les résultats obtenus par les laboratoires agréés et réalise les analyses visant à déterminer le sous-type N et le caractère hautement ou faiblement pathogène d'un virus de l'influenza aviaire détecté chez un oiseau sauvage ;
 

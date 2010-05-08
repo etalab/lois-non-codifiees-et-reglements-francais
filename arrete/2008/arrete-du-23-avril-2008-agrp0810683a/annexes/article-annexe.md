@@ -1,6 +1,6 @@
 # Article Annexe
 
-A N N E X E 1
+ANNEXE 1
 
 STATUTS TYPES HOMOLOGUÉS DES SOCIÉTÉS COOPÉRATIVES AGRICOLES AYANT POUR OBJET LA PRODUCTION, LA COLLECTE ET LA VENTE DE PRODUITS AGRICOLES ET FORESTIERS
 
@@ -14,7 +14,7 @@ Article 1er
 
 Constitution
 
-Il est constitué entre les soussignés et ceux qui adhéreront aux présents statuts une société coopérative agricole à capital variable régie par les dispositions du code rural, notamment du livre V, titre II, par les dispositions de la loi n° 47-1775 du 10 septembre 1947, des articles L. 231-1 à L. 231-8 et L. 247-10 du code de commerce, des dispositions du livre III, titre IX, chapitre Ier, du code civil, des textes qui les ont modifiés ou qui les modifieront, ainsi que par les dispositions qui suivent.
+Il est constitué entre les soussignés et ceux qui adhéreront aux présents statuts une société coopérative agricole à capital variable régie par les dispositions du code rural et de la pêche maritime, notamment du livre V, titre II, par les dispositions de la loi n° 47-1775 du 10 septembre 1947, des articles L. 231-1 à L. 231-8 et L. 247-10 du code de commerce, des dispositions du livre III, titre IX, chapitre Ier, du code civil, des textes qui les ont modifiés ou qui les modifieront, ainsi que par les dispositions qui suivent.
 
 Elle est dénommée dans les présents statuts la coopérative.
 
@@ -58,7 +58,7 @@ En dehors des opérations définies à l'article 3 ci-dessus, la coopérative po
 
 4. Se procurer, sous réserve de l'autorisation du Haut Conseil de la coopération agricole, tous produits visés à l'article 3 ci-dessus mais ne provenant pas des exploitations de ses associés coopérateurs lorsque des circonstances exceptionnelles sont susceptibles de diminuer de plus de 50 % sa capacité normale d'exploitation ;
 
-5. Et plus généralement, effectuer toutes opérations entrant dans le cadre de l'article L. 521-1 du code rural permettant par tous moyens de faciliter ou développer l'activité économique des associés coopérateurs, d'améliorer ou accroître les résultats de cette activité.
+5. Et plus généralement, effectuer toutes opérations entrant dans le cadre de l'article L. 521-1 du code rural et de la pêche maritime permettant par tous moyens de faciliter ou développer l'activité économique des associés coopérateurs, d'améliorer ou accroître les résultats de cette activité.
 
 Article 5
 
@@ -182,9 +182,9 @@ Lorsque la coopérative est reconnue en tant qu'organisation de producteurs, l'a
 
 [La coopérative est reconnue en qualité d'organisation de producteurs en application des dispositions suivantes :
 
-Articles L. 551-1 et suivants du code rural ;
+Articles L. 551-1 et suivants du code rural et de la pêche maritime ;
 
-Articles D. 551-1 à R. 551-12 du code rural ;
+Articles D. 551-1 à R. 551-12 du code rural et de la pêche maritime ;
 
 [...].
 
@@ -226,9 +226,9 @@ Lorsque la coopérative est associée d'une personne morale reconnue en tant qu'
 
 [La coopérative adhère à une organisation de producteurs reconnue en application des dispositions suivantes :
 
-Articles L. 551-1 et suivants du code rural ;
+Articles L. 551-1 et suivants du code rural et de la pêche maritime ;
 
-Articles D. 551-1 à R. 551-12 du code rural ;
+Articles D. 551-1 à R. 551-12 du code rural et de la pêche maritime ;
 
 [...].
 
@@ -382,7 +382,7 @@ Cession des parts
 
 4. [En cas de transfert [ou de transmission par voie de fusion, scission ou d'apport partiel d'actifs] à un tiers, la décision de refus du conseil d'administration n'aura pas à être motivée et sera sans recours.]
 
-5. [En cas de transfert [ou de transmission par voie de fusion, scission ou d'apport partiel d'actifs] à un ou plusieurs associés coopérateurs et sous réserve des dispositions du paragraphe 3 ci-dessus, la décision de refus d'autorisation devra être motivée et les associés coopérateurs intéressés pourront exercer un recours devant la première assemblée générale, à charge pour eux de notifier leur décision à cet égard au conseil d'administration par lettre recommandée avec demande d'avis de réception, dans les trois mois de la réception par eux de la notification du refus par lettre recommandée avec demande d'avis de réception. Le conseil d'administration devra, dans ce cas, porter la question à l'ordre du jour de la première assemblée générale.]
+5. [En cas de transfert [ou de transmission par voie de fusion, scission ou d'apport partiel d'actifs] à un ou plusieurs associés coopérateurs et sous réserve des dispositions du paragraphe 3 ci-dessus, la décision de refus d'autorisation devra être motivée et les associés coopérateurs intéressés pourront exercer un recours devant la première assemblée générale, à charge pour eux de notifier leur décision à cet égard au conseil d'administration par lettre recommandée avec demande d'avis de réception, dans les trois mois de la réception par eux de la notification du refus par lettre recommandée avec demande d'avis de réception . Le conseil d'administration devra, dans ce cas, porter la question à l'ordre du jour de la première assemblée générale.]
 
 Article 20
 
@@ -440,9 +440,7 @@ Toute nomination intervenue en violation des dispositions du présent paragraphe
 
 Article 22
 
-Durée et renouvellement du mandat
-
-des administrateurs
+Durée et renouvellement du mandat des administrateurs
 
 1. Les administrateurs sont nommés pour... ans et renouvelables par... chaque année.
 
@@ -482,9 +480,7 @@ Responsabilité des administrateurs
 
 Article 25
 
-Les conventions conclues entre les administrateurs,
-
-certains associés coopérateurs et la coopérative
+Les conventions conclues entre les administrateurs, certains associés coopérateurs et la coopérative
 
 1. Toute convention intervenant directement ou par personne interposée entre la coopérative et l'un de ses administrateurs personnes physiques ou morales, l'un des représentants des administrateurs personnes morales, l'un de ses associés coopérateurs détenant plus de 10 % des droits de vote, toute société contrôlant au sens de l'article L. 233-3 du code de commerce une société associé coopérateur détenant plus de 10 % des droits de vote doit être soumise à l'autorisation préalable du conseil d'administration.
 
@@ -602,7 +598,7 @@ trois pour le nombre de salariés en contrat à durée indéterminée ;
 
 Il n'y a plus lieu à désignation si, pendant deux exercices successifs, la coopérative ne dépasse plus deux des trois critères définis ci-dessus.
 
-Le mandat de commissaire aux comptes peut être exercé par un commissaire aux comptes inscrit sur la liste prévue à l'article L. 822-1 du code de commerce ou par une fédération de coopératives agricoles agréée pour la révision en application de l'article L. 527-1 du code rural.
+Le mandat de commissaire aux comptes peut être exercé par un commissaire aux comptes inscrit sur la liste prévue à l'article L. 822-1 du code de commerce ou par une fédération de coopératives agricoles agréée pour la révision en application de l'article L. 527-1 du code rural et de la pêche maritime .
 
 Les fonctions des commissaires aux comptes expirent après la réunion de l'assemblée générale ordinaire qui statue sur les comptes du sixième exercice écoulé depuis leur nomination.
 
@@ -612,7 +608,7 @@ Le ou les commissaires aux comptes suppléants sont appelés à remplacer le ou 
 
 A défaut de nomination des commissaires aux comptes par l'assemblée générale, ou en cas d'empêchement ou de refus d'un ou plusieurs des commissaires nommés, tout associé coopérateur peut demander leur nomination ou leur remplacement par ordonnance du président du tribunal de grande instance du siège de la coopérative statuant en référé, le président du conseil d'administration dûment appelé. Le mandat ainsi conféré prend fin lorsqu'il a été pourvu par l'assemblée générale à la nomination du commissaire aux comptes.
 
-2. Les commissaires aux comptes exercent leurs fonctions dans les conditions prévues par les articles L. 820-1 et suivants du code de commerce sous réserve des règles propres aux sociétés coopératives agricoles.
+2. Les commissaires aux comptes exercent leurs fonctions dans les conditions prévues par les  articles L. 820-1 et suivants du code de commerce sous réserve des règles propres aux sociétés coopératives agricoles.
 
 Les commissaires aux comptes certifient, en justifiant de leurs appréciations, que les comptes annuels sont réguliers et sincères et donnent une image fidèle du résultat des opérations de l'exercice écoulé ainsi que de la situation financière et du patrimoine de la coopérative à la fin de cet exercice.
 
@@ -742,7 +738,7 @@ Réunions et objet de l'assemblée générale ordinaire
 
 ― l'intérêt servi sur le montant libéré des parts sociales. Cet intérêt est au plus égal au taux moyen de rendement des obligations des sociétés privées publié par le ministre chargé de l'économie ;
 
-― la distribution, le cas échéant, de tout ou partie des dividendes reçus au titre des participations visées à l'article L. 523-5 du code rural au prorata des parts sociales libérées ;
+― la distribution, le cas échéant, de tout ou partie des dividendes reçus au titre des participations visées à l'article L. 523-5 du code rural et de la pêche maritime au prorata des parts sociales libérées ;
 
 ― la répartition de ristournes entre les associés coopérateurs proportionnellement aux opérations réalisées avec la coopérative et suivant les modalités prévues par les présents statuts ;
 
@@ -768,9 +764,7 @@ réunie extraordinairement
 
 Article 42
 
-Quorum et majorité en assemblée générale ordinaire
-
-ou convoquée extraordinairement
+Quorum et majorité en assemblée générale ordinaire ou convoquée extraordinairement
 
 1.L'assemblée générale ordinaire annuelle ou convoquée extraordinairement n'est régulièrement constituée et ne délibère valablement que si elle est composée d'un nombre d'associés coopérateurs présents ou représentés au moins égal au tiers des inscrits sur le fichier des associés coopérateurs de la coopérative à la date de la convocation.
 
@@ -820,9 +814,7 @@ La coopérative établit des comptes annuels suivant les principes et les métho
 
 Article 47
 
-Etablissement des comptes et documents
-
-présentés à l'assemblée générale annuelle ordinaire
+Etablissement des comptes et documents présentés à l'assemblée générale annuelle ordinaire
 
 A la clôture de chaque exercice, le conseil d'administration dresse un inventaire et établit :
 
@@ -850,7 +842,7 @@ Excédent et excédent répartissable
 
 2.L'excédent répartissable est constitué de l'excédent, après imputation du report à nouveau déficitaire le cas échéant, et diminué des sommes affectées aux réserves obligatoires.
 
-Il est effectué annuellement sur l'excédent un prélèvement d'un dixième destiné à la constitution de la réserve légale prévue à l'article R. 524-21 du code rural. Ce prélèvement cesse d'être obligatoire quand cette réserve atteint une somme correspondant au montant du capital social. En aucun cas, les réserves, quelles qu'elles soient, ne pourront être partagées entre les associés coopérateurs.
+Il est effectué annuellement sur l'excédent un prélèvement d'un dixième destiné à la constitution de la réserve légale prévue à l'article R. 524-21 du code rural et de la pêche maritime . Ce prélèvement cesse d'être obligatoire quand cette réserve atteint une somme correspondant au montant du capital social. En aucun cas, les réserves, quelles qu'elles soient, ne pourront être partagées entre les associés coopérateurs.
 
 3.L'excédent affecté au service de ristournes aux associés coopérateurs ne peut porter que sur le résultat des opérations réalisées entre ceux-ci et la coopérative. Cet excédent ne peut être réparti entre les associés coopérateurs que proportionnellement aux opérations qu'ils ont réalisées avec la coopérative au cours de l'exercice écoulé [et suivant les modalités prévues ci-dessous] :
 
@@ -874,9 +866,7 @@ DISPOSITIONS DIVERSES
 
 Article 50
 
-Contrôle du Haut Conseil de la coopération agricole
-
-et de l'inspection des finances
+Contrôle du Haut Conseil de la coopération agricole et de l'inspection des finances
 
 1. La coopérative est soumise au contrôle du Haut Conseil de la coopération agricole.
 
@@ -892,7 +882,7 @@ Dans le délai de trois mois à compter de la date de la réunion de l'assemblé
 
 Toutes ces pièces sont adressées au Haut Conseil de la coopération agricole par le président du conseil d'administration ou un ou plusieurs administrateurs habilités à cet effet par le conseil d'administration.
 
-Les prises de participation font l'objet d'une déclaration auprès du Haut Conseil de la coopération agricole selon les modalités prévues à l'article R. 523-8 du code rural.
+Les prises de participation font l'objet d'une déclaration auprès du Haut Conseil de la coopération agricole selon les modalités prévues à l'article R. 523-8 du code rural et de la pêche maritime.
 
 2. Le Haut Conseil de la coopération agricole peut, notamment au vu de ces pièces et après avoir recueilli les observations de la coopérative, diligenter une mission de révision. Lorsque le contrôle prévu au paragraphe 1 donne lieu à des observations, celles-ci sont communiquées au président de la coopérative qui dispose d'un délai de deux mois pour répondre.
 
@@ -900,9 +890,7 @@ Les prises de participation font l'objet d'une déclaration auprès du Haut Cons
 
 Article 51
 
-Conséquences du contrôle du Haut Conseil
-
-de la coopération agricole
+Conséquences du contrôle du Haut Conseil de la coopération agricole
 
 Si le contrôle institué par l'article précédent fait apparaître soit la défaillance des administrateurs, soit la violation des dispositions législatives, réglementaires ou statutaires, soit encore la méconnaissance des intérêts de la coopérative, une assemblée générale extraordinaire est convoquée, à la demande du Haut Conseil de la coopération agricole.
 
@@ -912,9 +900,7 @@ Cette décision peut faire l'objet d'un recours en Conseil d'Etat dans un délai
 
 TITRE IX
 
-DISSOLUTION, LIQUIDATION, DÉVOLUTION,
-
-FUSION ET OPÉRATIONS ASSIMILÉES
+DISSOLUTION, LIQUIDATION, DÉVOLUTION, FUSION ET OPÉRATIONS ASSIMILÉES
 
 Article 52
 
@@ -966,15 +952,13 @@ Sont soumises aux dispositions de l'article 57 ci-après les opérations suivant
 
 -l'apport partiel d'actif placé sous le régime des scissions ;
 
--l'apport de branche d'activité ou de production au sein d'une branche d'activité visé à l'article L. 526-8 (II) du code rural ;
+-l'apport de branche d'activité ou de production au sein d'une branche d'activité visé à l'article L. 526-8 (II) du code rural et de la pêche maritime ;
 
 -la fusion-absorption d'une société à responsabilité limitée, d'une société anonyme, d'une société par actions simplifiée dont les parts ou actions sont entièrement détenues par la coopérative.
 
 Article 57
 
-Information des associés coopérateurs
-
-en cas de fusion et d'opérations assimilées
+Information des associés coopérateurs en cas de fusion et d'opérations assimilées
 
 Les documents suivants sont mis à la disposition des associés coopérateurs au siège social de la coopérative un mois au moins avant l'assemblée générale appelée à se prononcer sur un projet de l'une des opérations visées à l'article 56 des présents statuts :
 
@@ -994,7 +978,7 @@ Article 58
 
 Consultation préalable des associés coopérateurs en cas d'apport de branche d'activité ou de production donnée au sein d'une branche d'activité
 
-Les associés coopérateurs ayant souscrit un engagement d'activité dans une branche d'activité apportée ou pour une production apportée au sein d'une branche d'activité sont réunis en collège séparé préalablement à la réunion du conseil d'administration arrêtant le projet définitif d'apport visé à l'article L. 526-8-II du code rural.
+Les associés coopérateurs ayant souscrit un engagement d'activité dans une branche d'activité apportée ou pour une production apportée au sein d'une branche d'activité sont réunis en collège séparé préalablement à la réunion du conseil d'administration arrêtant le projet définitif d'apport visé à l'article L. 526-8-II du code rural et de la pêche maritime .
 
 Ils sont consultés sur le projet dans les conditions de convocation et de vote applicables aux assemblées générales extraordinaires qui décident des modifications statutaires autres que celles prévues au paragraphe 3 de l'article 15.
 
@@ -1024,11 +1008,9 @@ Respect des dispositions statutaires et réglementaires
 
 L'adhésion à la coopérative comporte engagement de se conformer aux présents statuts ainsi qu'à son ou ses règlements intérieurs.
 
-A N N E X E 2
+ANNEXE 2
 
-STATUTS TYPES HOMOLOGUÉS DES SOCIÉTÉS COOPÉRATIVES
-
-AGRICOLES D'EXPLOITATION EN COMMUN
+STATUTS TYPES HOMOLOGUÉS DES SOCIÉTÉS COOPÉRATIVES AGRICOLES D'EXPLOITATION EN COMMUN
 
 (Articles venant remplacer ceux de l'annexe 1)
 
@@ -1196,7 +1178,7 @@ Réunion et objet de l'assemblée générale ordinaire
 
 ― l'intérêt servi sur le montant libéré des parts sociales. Cet intérêt est au plus égal au taux moyen de rendement des obligations des sociétés privées publié par le ministre chargé de l'économie ;
 
-― la distribution, le cas échéant, de tout ou partie des dividendes reçus au titre des participations visées à l'article L. 523-5 du code rural au prorata des parts sociales libérées ;
+― la distribution, le cas échéant, de tout ou partie des dividendes reçus au titre des participations visées à l'article L. 523-5 du code rural et de la pêche maritime au prorata des parts sociales libérées ;
 
 ― la répartition de ristournes entre les associés coopérateurs proportionnellement à la valeur du travail déterminée par le règlement intérieur, qu'ils ont fournie au cours de l'exercice et suivant les modalités prévues par les présents statuts ;
 
@@ -1218,7 +1200,7 @@ Excédent et excédent répartissable
 
 2.L'excédent répartissable est constitué de l'excédent, après imputation du report à nouveau déficitaire, le cas échéant, et diminué des sommes affectées aux réserves obligatoires.
 
-Il est effectué annuellement sur l'excédent un prélèvement d'un dixième destiné à la constitution de la réserve légale prévue à l'article R. 524-21 du code rural. Ce prélèvement cesse d'être obligatoire quand cette réserve atteint une somme correspondant au montant du capital social.
+Il est effectué annuellement sur l'excédent un prélèvement d'un dixième destiné à la constitution de la réserve légale prévue à l'article R. 524-21 du code rural et de la pêche maritime. Ce prélèvement cesse d'être obligatoire quand cette réserve atteint une somme correspondant au montant du capital social.
 
 En aucun cas, les réserves, quelles qu'elles soient, ne pourront être partagées entre les associés coopérateurs pendant la durée de la coopérative.
 
@@ -1228,11 +1210,9 @@ En aucun cas, les réserves, quelles qu'elles soient, ne pourront être partagé
 
 L'excédent constaté au cours d'un exercice antérieur ne peut être réparti à moins qu'il n'ait été affecté à une provision pour parfaire l'intérêt aux parts ou pour ristournes éventuelles. La provision pour ristournes éventuelles ne peut être répartie entre les associés coopérateurs qu'au prorata des opérations effectuées par chacun d'eux au titre de l'exercice au cours duquel elle a été constituée.
 
-A N N E X E 3
+ANNEXE 3
 
-STATUTS TYPES HOMOLOGUÉS
-
-DES SOCIÉTÉS COOPÉRATIVES AGRICOLES À SECTION
+STATUTS TYPES HOMOLOGUÉS DES SOCIÉTÉS COOPÉRATIVES AGRICOLES À SECTION
 
 (Articles venant remplacer ceux de l'annexe 1)
 
@@ -1408,7 +1388,7 @@ Réunions et objet de l'assemblée générale ordinaire
 
 ― l'intérêt servi sur le montant libéré des parts sociales. Cet intérêt est au plus égal au taux moyen de rendement des obligations des sociétés privées publié par le ministre chargé de l'économie ;
 
-― la distribution, le cas échéant, de tout ou partie des dividendes reçus au titre des participations visées à l'article L. 523-5 du code rural au prorata des parts sociales libérées ;
+― la distribution, le cas échéant, de tout ou partie des dividendes reçus au titre des participations visées à l'article L. 523-5 du code rural et de la pêche maritime au prorata des parts sociales libérées ;
 
 ― la répartition de ristournes entre les associés coopérateurs proportionnellement aux opérations réalisées avec la coopérative et suivant les modalités prévues par les présents statuts ;
 
@@ -1424,9 +1404,7 @@ Ces décisions font l'objet de résolutions particulières.
 
 Article 38
 
-Réunions et objet de l'assemblée générale ordinaire
-
-réunie extraordinairement
+Réunions et objet de l'assemblée générale ordinaire réunie extraordinairement
 
 1.L'assemblée générale ordinaire peut être réunie extraordinairement, en dehors de l'assemblée annuelle, par le conseil d'administration chaque fois que celui-ci juge nécessaire de prendre l'avis des associés coopérateurs ou d'obtenir un complément de pouvoirs. Le conseil d'administration doit également réunir extraordinairement l'assemblée générale ordinaire dans les deux mois au plus tard de la demande qui lui serait présentée par écrit pour des motifs bien déterminés par un groupe représentant le cinquième au moins des associés coopérateurs inscrits ou par le ou les commissaires aux comptes lorsque ceux-ci l'estiment nécessaire.
 
@@ -1482,9 +1460,7 @@ Bureau des assemblées de section
 
 Article 39-3
 
-Admission, droit de vote et représentation
-
-en assemblée de section
+Admission, droit de vote et représentation en assemblée de section
 
 1. Tout associé coopérateur, régulièrement rattaché à la section dans les conditions prévues à l'article 7, a le droit d'assister ou de se faire représenter à l'assemblée de section.
 
@@ -1580,9 +1556,7 @@ Quorum et majorité en assemblée plénière
 
 Article 47
 
-Etablissement des comptes et des documents
-
-présentés à l'assemblée générale annuelle ordinaire
+Etablissement des comptes et des documents présentés à l'assemblée générale annuelle ordinaire
 
 A la clôture de chaque exercice, le conseil d'administration dresse un inventaire et établit :
 
@@ -1602,11 +1576,9 @@ A la clôture de chaque exercice, le conseil d'administration dresse un inventai
 
 L'ensemble de ces documents est mis à la disposition du ou des commissaires aux comptes, un mois au moins avant la convocation de la première assemblée de section.
 
-A N N E X E 4
+ANNEXE 4
 
-STATUTS TYPES HOMOLOGUÉS
-
-DES SOCIÉTÉS COOPÉRATIVES AGRICOLES DE CÉRÉALES
+STATUTS TYPES HOMOLOGUÉS DES SOCIÉTÉS COOPÉRATIVES AGRICOLES DE CÉRÉALES
 
 (Articles venant remplacer ceux de l'annexe 1)
 
@@ -1616,7 +1588,7 @@ Article 1er
 
 Constitution
 
-Il est constitué entre les soussignés et ceux qui adhéreront aux présents statuts une société coopérative agricole à capital variable régie par les dispositions du code rural, notamment du livre V, titre II, par les dispositions de la loi n° 47-1775 du 10 septembre 1947, des articles L. 231-1 à L. 231-8 et L. 247-10 du code de commerce, des dispositions du livre III, du titre IX, chapitre Ier du code civil, des textes qui les ont modifiés ou qui les modifieront, de la réglementation concernant les céréales, et notamment de la législation relative à l'Office national interprofessionnel des grandes cultures ainsi que par les dispositions qui suivent.
+Il est constitué entre les soussignés et ceux qui adhéreront aux présents statuts une société coopérative agricole à capital variable régie par les dispositions du code rural et de la pêche maritime , notamment du livre V, titre II, par les dispositions de la loi n° 47-1775 du 10 septembre 1947, des articles L. 231-1 à L. 231-8 et L. 247-10 du code de commerce, des dispositions du livre III, du titre IX, chapitre Ier du code civil, des textes qui les ont modifiés ou qui les modifieront, de la réglementation concernant les céréales, et notamment de la législation relative à l'Office national interprofessionnel des grandes cultures ainsi que par les dispositions qui suivent.
 
 Elle est dénommée dans les présents statuts la coopérative.
 
@@ -1648,9 +1620,7 @@ L'exercice commence le 1er juillet et finit le 30 juin.
 
 Article 51
 
-Contrôle du Haut Conseil de la coopération agricole
-
-et de l'inspection des finances
+Contrôle du Haut Conseil de la coopération agricole et de l'inspection des finances
 
 1. La coopérative est soumise au contrôle du Haut Conseil de la coopération agricole et à celui de l'Office national interprofessionnel des grandes cultures.
 
@@ -1666,17 +1636,15 @@ Dans le délai de trois mois à compter de la date de la réunion de l'assemblé
 
 Toutes ces pièces doivent être certifiées conformes par le président du conseil d'administration ou un ou plusieurs administrateurs habilités à cet effet par le conseil d'administration.
 
-Les prises de participation font l'objet d'une déclaration auprès du Haut Conseil de la coopération agricole selon les modalités prévues à l'article R. 523-8 du code rural.
+Les prises de participation font l'objet d'une déclaration auprès du Haut Conseil de la coopération agricole selon les modalités prévues à l'article R. 523-8 du code rural et de la pêche maritime.
 
 2. Le Haut Conseil de la coopération agricole peut, notamment au vu de ces pièces, et après avoir recueilli les observations de la coopérative, diligenter une mission de révision. Lorsque le contrôle prévu au paragraphe 1 donne lieu à des observations, celles-ci sont communiquées au président de la coopérative qui dispose d'un délai de deux mois pour répondre.
 
 3. La coopérative est tenue par ailleurs de produire sa comptabilité et les justifications nécessaires tendant à prouver qu'elle fonctionne conformément aux dispositions législatives et réglementaires visées à l'article 1er des présents statuts à toute réquisition des inspecteurs des finances et des agents de l'administration des finances ayant au moins le grade de contrôleur ou d'inspecteur.
 
-A N N E X E 5
+ANNEXE 5
 
-STATUTS TYPES HOMOLOGUÉS DES SOCIÉTÉS
-
-COOPÉRATIVES AGRICOLES D'APPROVISIONNEMENT
+STATUTS TYPES HOMOLOGUÉS DES SOCIÉTÉS COOPÉRATIVES AGRICOLES D'APPROVISIONNEMENT
 
 (Articles venant remplacer ceux de l'annexe 1)
 
@@ -1714,7 +1682,7 @@ En dehors des opérations définies à l'article 3 ci-dessus, la coopérative po
 
 2. Prêter à toute union de coopératives agricoles ou société d'intérêt collectif agricole dont elle fait partie les services nécessaires à la réalisation de l'objet statutaire de cette union ou de cette SICA ;
 
-3. Et plus généralement, effectuer toutes opérations entrant dans le cadre de l'article L. 521-1 du code rural permettant par tous moyens de faciliter ou développer l'activité économique des associés coopérateurs, d'améliorer ou accroître les résultats de cette activité.
+3. Et plus généralement, effectuer toutes opérations entrant dans le cadre de l'article L. 521-1 du code rural et de la pêche maritime permettant par tous moyens de faciliter ou développer l'activité économique des associés coopérateurs, d'améliorer ou accroître les résultats de cette activité.
 
 Article 8
 
@@ -1794,11 +1762,9 @@ Ces parts sociales donnent également lieu à remboursement en cas de démission
 
 7. Les parts sociales d'épargne sont remboursées dans les conditions visées au présent article.
 
-A N N E X E 6
+ANNEXE 6
 
-STATUTS TYPES HOMOLOGUÉS
-
-DES SOCIÉTÉS COOPÉRATIVES AGRICOLES DE SERVICES
+STATUTS TYPES HOMOLOGUÉS DES SOCIÉTÉS COOPÉRATIVES AGRICOLES DE SERVICES
 
 (Articles venant remplacer ceux de l'annexe 1)
 
@@ -1814,7 +1780,7 @@ Objet
 
 La coopérative pourra, sous réserve d'en donner avis au Haut Conseil de la coopération agricole, fournir à ses seuls associés coopérateurs tous autres services nécessaires à l'usage exclusif de leurs exploitations.
 
-[En outre, la coopérative, lorsqu'elle a exclusivement comme activité l'utilisation de matériel agricole, pourra, en application de l'article L. 1253-3 du code du travail, développer, au bénéfice exclusif de ses associés coopérateurs, une activité de groupement d'employeurs dans la limite de 30 % de sa masse salariale, conformément à l'article D. 521-4 du code rural.]
+[En outre, la coopérative, lorsqu'elle a exclusivement comme activité l'utilisation de matériel agricole, pourra, en application de l'article L. 1253-3 du code du travail, développer, au bénéfice exclusif de ses associés coopérateurs, une activité de groupement d'employeurs dans la limite de 30 % de sa masse salariale, conformément à l'article D. 521-4 du code rural et de la pêche maritime .]
 
 2 bis. En dehors de l'objet ci-dessus défini, la coopérative peut également effectuer, à titre accessoire, à la demande des associés coopérateurs et sans engagement de ces derniers, en application de l'article 8 ci-après, des opérations de collecte-vente et de fourniture de biens se rapportant directement à l'objet principal de la coopérative.
 
@@ -1832,7 +1798,7 @@ En dehors des opérations définies à l'article 3 ci-dessus, la coopérative po
 
 2. Prêter à toute union de coopératives agricoles ou société d'intérêt collectif agricole dont elle fait partie les services nécessaires à la réalisation de l'objet statutaire de cette union ou de cette SICA.
 
-Et plus généralement, effectuer toutes opérations entrant dans le cadre de l'article L. 521-1 du code rural permettant par tous moyens de faciliter ou développer l'activité économique des associés coopérateurs, d'améliorer ou accroître les résultats de cette activité.
+Et plus généralement, effectuer toutes opérations entrant dans le cadre de l'article L. 521-1 du code rural et de la pêche maritime permettant par tous moyens de faciliter ou développer l'activité économique des associés coopérateurs, d'améliorer ou accroître les résultats de cette activité.
 
 Article 8
 

@@ -10,4 +10,4 @@ Les investissements suivants ne sont pas éligibles :
 
 ― les équipements et aménagements en copropriété ;
 
-― les investissements permettant au bénéficiaire de répondre à une norme, à l'exception des jeunes agriculteurs ayant perçu les aides à l'installation en application des articles R.* 343-3 à R.* 343-18 du code rural pour des investissements réalisés pendant la période de trois ans qui suit la date d'installation retenue dans le cadre du certificat de conformité à l'installation.
+― les investissements permettant au bénéficiaire de répondre à une norme, à l'exception des jeunes agriculteurs ayant perçu les aides à l'installation en application des articles R.* 343-3 à R.* 343-18 du code rural et de la pêche maritimepour des investissements réalisés pendant la période de trois ans qui suit la date d'installation retenue dans le cadre du certificat de conformité à l'installation.

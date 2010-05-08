@@ -1,6 +1,6 @@
 # Article 1
 
-I.-En application de l'article R. 653-42 du code rural, un établissement de l'élevage ne peut être agréé que :
+I.-En application de l'article R. 653-42 du code rural et de la pêche maritime, un établissement de l'élevage ne peut être agréé que :
 
 1° Si sa circonscription comprend au minimum un effectif d'animaux d'élevage de 100 000 femelles reproductrices, toutes espèces bovine, caprine, ovine et porcine confondues ;
 

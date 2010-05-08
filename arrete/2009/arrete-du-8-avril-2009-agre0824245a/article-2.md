@@ -2,7 +2,7 @@
 
 Le formateur qui sollicite l'agrément doit dispenser la formation dans des lieux conformes à la réglementation en vigueur. En présence des chiens de propriétaires, le formateur est responsable du terrain de démonstration clos qui doit être obligatoirement privé ou interdit au public pendant la durée de la formation.
 
-Le terrain doit faire l'objet d'une déclaration au préfet conformément au IV de l'article L. 214-6 du code rural.
+Le terrain doit faire l'objet d'une déclaration au préfet conformément au IV de l'article L. 214-6 du code rural et de la pêche maritime.
 
 Lorsqu'un local est utilisé pour la formation, il doit être conforme à la réglementation applicable aux établissements recevant du public tels qu'ils sont définis par le code de la construction et de l'habitation.
 

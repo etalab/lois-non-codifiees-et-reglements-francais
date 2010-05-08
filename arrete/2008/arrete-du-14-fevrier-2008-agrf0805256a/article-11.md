@@ -2,7 +2,7 @@
 
 Le demandeur prend les engagements suivants :
 
-― poursuivre son activité agricole au sens de l'article L. 311-1 du code rural et tout particulièrement son activité de production ayant bénéficié de l'aide pendant une période de cinq années à compter de la date de signature de la décision d'octroi de la subvention ;
+― poursuivre son activité agricole au sens de l'article L. 311-1 du code rural et de la pêche maritime et tout particulièrement son activité de production ayant bénéficié de l'aide pendant une période de cinq années à compter de la date de signature de la décision d'octroi de la subvention ;
 
 ― maintenir sur son exploitation les équipements et les aménagements pendant une période de cinq ans à compter de la date de signature de la décision d'octroi de la subvention. Les équipements peuvent toutefois être renouvelés sans aide publique dès lors qu'ils répondent aux mêmes objectifs que ceux initialement financés ;
 

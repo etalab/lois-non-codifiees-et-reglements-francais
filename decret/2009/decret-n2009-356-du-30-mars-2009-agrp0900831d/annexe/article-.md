@@ -36,19 +36,19 @@ Dans le département du Var : Les Arcs, Bagnols-en-Forêt, Le Beausset, Besse-su
 
 Dans le département des Alpes-Maritimes : Villars-sur-Var.
 
-b) Pour la dénomination géographique  Sainte-Victoire , la récolte des raisins, la vinification, l'élaboration et l'élevage des vins sont assurées dans l'aire géographique de production telle qu'approuvée par l'Institut national de l'origine et de la qualité lors de la séance du comité national compétent des 27 et 28 mai 2004 et constituée par le territoire des communes suivantes :
+b) Pour la dénomination géographique Sainte-Victoire , la récolte des raisins, la vinification, l'élaboration et l'élevage des vins sont assurées dans l'aire géographique de production telle qu'approuvée par l'Institut national de l'origine et de la qualité lors de la séance du comité national compétent des 27 et 28 mai 2004 et constituée par le territoire des communes suivantes :
 
 Dans le département des Bouches-du-Rhône : Châteauneuf-le-Rouge, Meyreuil, Peynier, Puyloubier, Rousset, Le Tholonet, Trets.
 
 Dans le département du Var : Pourcieux et Pourrières.
 
-c) Pour la dénomination géographique  Fréjus , la récolte des raisins, la vinification, l'élaboration et l'élevage des vins sont assurés dans l'aire géographique de production telle qu'approuvée par l'Institut national de l'origine et de la qualité lors de la séance du comité national compétent des 8 et 9 juin 2005 et constituée par le territoire des communes suivantes du département du Var :
+c) Pour la dénomination géographique Fréjus , la récolte des raisins, la vinification, l'élaboration et l'élevage des vins sont assurés dans l'aire géographique de production telle qu'approuvée par l'Institut national de l'origine et de la qualité lors de la séance du comité national compétent des 8 et 9 juin 2005 et constituée par le territoire des communes suivantes du département du Var :
 
 Communes retenues en totalité : Fréjus, La Motte, Le Muy, Puget-sur-Argens, Roquebrune-sur-Argens, Saint-Raphaël ;
 
 Communes retenues en partie : Callas, Trans-en-Provence.
 
-d) Pour la dénomination géographique  La Londe , la récolte des raisins, la vinification, l'élaboration et l'élevage des vins rouges sont assurés dans l'aire géographique de production telle qu'approuvée par l'Institut national de l'origine et de la qualité lors de la séance du comité national compétent du 8 novembre 2007 et constitué par le territoire des communes suivantes du département du Var :
+d) Pour la dénomination géographique La Londe , la récolte des raisins, la vinification, l'élaboration et l'élevage des vins rouges sont assurés dans l'aire géographique de production telle qu'approuvée par l'Institut national de l'origine et de la qualité lors de la séance du comité national compétent du 8 novembre 2007 et constitué par le territoire des communes suivantes du département du Var :
 
 Communes retenues en totalité : Hyères, La Londe-les-Maures ;
 
@@ -62,11 +62,11 @@ a) Les vins sont issus exclusivement des vignes situées dans l'aire parcellaire
 
 L'Institut national de l'origine et de la qualité déposera auprès des mairies des communes mentionnées au 1° les documents graphiques établissant les limites parcellaires de l'aire de production ainsi approuvées.
 
-b) Pour la dénomination géographique  Sainte-Victoire , les vins proviennent de raisins issus de parcelles ayant fait l'objet d'une procédure d'identification. L'identification des parcelles est effectuée sur le fondement de critères relatifs à leur lieu d'implantation, fixés par le comité national compétent de l'Institut national de l'origine et de la qualité en sa séance des 6 et 7 novembre 2003 après avis de la commission d'experts désignée à cet effet.
+b) Pour la dénomination géographique Sainte-Victoire , les vins proviennent de raisins issus de parcelles ayant fait l'objet d'une procédure d'identification. L'identification des parcelles est effectuée sur le fondement de critères relatifs à leur lieu d'implantation, fixés par le comité national compétent de l'Institut national de l'origine et de la qualité en sa séance des 6 et 7 novembre 2003 après avis de la commission d'experts désignée à cet effet.
 
-c) Pour la dénomination géographique  Fréjus , les vins proviennent de raisins issus de parcelles ayant fait l'objet d'une procédure d'identification. L'identification des parcelles est effectuée sur le fondement de critères relatifs à leur lieu d'implantation, fixés par le comité national compétent de l'Institut national de l'origine et de la qualité en sa séance des 3 et 4 novembre 2004 après avis de la commission d'experts désignée à cet effet.
+c) Pour la dénomination géographique Fréjus , les vins proviennent de raisins issus de parcelles ayant fait l'objet d'une procédure d'identification. L'identification des parcelles est effectuée sur le fondement de critères relatifs à leur lieu d'implantation, fixés par le comité national compétent de l'Institut national de l'origine et de la qualité en sa séance des 3 et 4 novembre 2004 après avis de la commission d'experts désignée à cet effet.
 
-d) Pour la dénomination géographique  La Londe , les vins proviennent de raisins issus de parcelles ayant fait l'objet d'une procédure d'identification. L'identification des parcelles est effectuée sur le fondement de critères relatifs à leur lieu d'implantation, fixés par le comité national compétent de l'Institut national de l'origine et de la qualité en sa séance du 8 novembre 2007 après avis de la commission d'experts désignée à cet effet.
+d) Pour la dénomination géographique La Londe , les vins proviennent de raisins issus de parcelles ayant fait l'objet d'une procédure d'identification. L'identification des parcelles est effectuée sur le fondement de critères relatifs à leur lieu d'implantation, fixés par le comité national compétent de l'Institut national de l'origine et de la qualité en sa séance du 8 novembre 2007 après avis de la commission d'experts désignée à cet effet.
 
 e) Tout producteur désirant faire identifier une parcelle en effectue la demande auprès des services de l'Institut national de l'origine et de la qualité avant le 1er février de l'année de récolte.
 
@@ -82,7 +82,7 @@ Dans le département des Bouches du Rhône : Aubagne, Auriol, La Bouilladisse, L
 
 Dans le département du Var : Bandol, Barjols, Belgentier, Bras, Brignoles, Brue-Auriac, Camps-la-Source, Cassis, La Celle, Châteauvert, Fayence, Forcalqueiret, Garéoult, Le Lavandou, Mazaugues, Méounes-lès-Montrieux, Nans-les-Pins, Néoules, Ollières, Ollioules, Plan-d'Aups-Sainte-Baume, Pontevès, Rayol-Canadel-sur-Mer, Le Revest-les-Eaux, Riboux, Rocbaron, La Roquebrussanne, Rougiers, Saint-Mandrier-sur-Mer, Saint-Maximim-la-Sainte-Baume, Saint-Zacharie, Sainte-Anastasie-sur-Issole, Sillans-la-Cascade, Seillons-Source-d'Argens, La Seyne-sur-Mer, Signes, Solliès-Ville, Toulon, Tourves, Le Val, Villecroze, Vins-sur-Caramy.
 
-b) Pour la dénomination géographique  Fréjus , l'aire de proximité immédiate, définie par dérogation pour la vinification, l'élaboration et l'élevage des vins, est constituée par le territoire des communes suivantes :
+b) Pour la dénomination géographique Fréjus , l'aire de proximité immédiate, définie par dérogation pour la vinification, l'élaboration et l'élevage des vins, est constituée par le territoire des communes suivantes :
 
 Dans le département des Bouches-du-Rhône : Allauch, Aubagne, Auriol, Bouc-Bel-Air, La Bouilladisse, Ceyreste, Châteauneuf-le-Rouge, La Ciotat, Cuges-les-Pins, La Destrousse, Fuveau, Gardanne, Gémenos, Meyreuil, Mimet, Peynier, Peypin, Puyloubier, Roquefort-la-Bédoule, Roquevaire, Rousset, Simiane-Collongue, Le Tholonet, Trets.
 
@@ -90,7 +90,7 @@ Dans le département du Var : Les Arcs, Bagnols-en-Forêt, Bandol, Barjols, Le B
 
 Dans le département des Alpes-Maritimes : Villars-sur-Var.
 
-c) Pour la dénomination géographique  La Londe , l'aire de proximité immédiate, définie par dérogation pour la vinification, l'élaboration et l'élevage des vins, est constituée par le territoire des communes suivantes :
+c) Pour la dénomination géographique La Londe , l'aire de proximité immédiate, définie par dérogation pour la vinification, l'élaboration et l'élevage des vins, est constituée par le territoire des communes suivantes :
 
 Dans le département des Bouches-du-Rhône : Allauch, Aubagne, Auriol, Bouc-Bel-Air, La Bouilladisse, Ceyreste, Châteauneuf-le-Rouge, La Ciotat, Cuges-les-Pins, La Destrousse, Fuveau, Gardanne, Gémenos, Meyreuil, Mimet, Peynier, Peypin, Puyloubier, Roquefort-la-Bédoule, Roquevaire, Rousset, Simiane-Collongue, Le Tholonet, Trets.
 
@@ -150,7 +150,7 @@ La proportion de l'ensemble des cépages clairette B, sémillon B, ugni blanc B 
 
 La proportion de l'ensemble des cépages clairette B, sémillon B, ugni blanc B et vermentino B ne peut être supérieure à 20 % de l'encépagement.
 
-b) Pour les vins rouges et rosés susceptibles de bénéficier de la dénomination géographique  Sainte-Victoire , la proportion des cépages principaux ne peut être inférieure à 80 % de l'encépagement.
+b) Pour les vins rouges et rosés susceptibles de bénéficier de la dénomination géographique Sainte-Victoire , la proportion des cépages principaux ne peut être inférieure à 80 % de l'encépagement.
 
 Deux au moins des cépages principaux sont présents dans l'encépagement, sans que la proportion de l'un ne puisse être supérieure à 80 % de l'encépagement.
 
@@ -214,13 +214,13 @@ La charge maximale moyenne à la parcelle est fixée à 9 500 kilogrammes par he
 
 Pour les dénominations géographiques "Sainte-Victoire", "Fréjus" et "La Londe", la charge maximale moyenne à la parcelle est fixée à 8 500 kilogrammes par hectare.
 
-Lorsque l'irrigation est autorisée conformément aux dispositions de l'article D. 644-23 du code rural, la charge maximale moyenne à la parcelle des parcelles irriguées est fixée à 7 000 kilogrammes par hectare et à 6 500 kilogrammes par hectare pour les parcelles destinées à la production des dénominations géographiques "Sainte-Victoire"
+Lorsque l'irrigation est autorisée conformément aux dispositions de l'article D. 644-23 du code rural et de la pêche maritime, la charge maximale moyenne à la parcelle des parcelles irriguées est fixée à 7 000 kilogrammes par hectare et à 6 500 kilogrammes par hectare pour les parcelles destinées à la production des dénominations géographiques "Sainte-Victoire"
 
 "Fréjus" et "La Londe".
 
 e) Seuil de manquants :
 
-Le pourcentage de pieds de vigne morts ou manquants visé à l'article D. 644-22 du code rural est fixé à 20 %.
+Le pourcentage de pieds de vigne morts ou manquants visé à l'article D. 644-22 du code rural et de la pêche maritime est fixé à 20 %.
 
 La pratique du marcottage destinée à remplacer les pieds morts ou manquants est autorisée.
 
@@ -238,7 +238,7 @@ b) Afin de préserver les caractéristiques des sols qui constituent un élémen
 
 3° Irrigation :
 
-L'irrigation pendant la période de végétation de la vigne ne peut être autorisée, conformément aux dispositions de l'article D. 644-23 du code rural, qu'en cas de sécheresse persistante et lorsque celle-ci perturbe le bon développement physiologique de la vigne et la bonne maturation du raisin.
+L'irrigation pendant la période de végétation de la vigne ne peut être autorisée, conformément aux dispositions de l'article D. 644-23 du code rural et de la pêche maritime, qu'en cas de sécheresse persistante et lorsque celle-ci perturbe le bon développement physiologique de la vigne et la bonne maturation du raisin.
 
 VII. ― Récolte, transport et maturité du raisin
 
@@ -287,7 +287,7 @@ a) Les richesses en sucre des raisins et les titres alcoométriques volumiques n
 </td>
 </tr>
 <tr>
-<td align="center">AOC Côtes de Provence complété par la dénomination géographique  Sainte-Victoire  (vins rosés)<br/>
+<td align="center">AOC Côtes de Provence complété par la dénomination géographique Sainte-Victoire (vins rosés)<br/>
 </td>
 <td align="center">187<br/>
 </td>
@@ -295,7 +295,7 @@ a) Les richesses en sucre des raisins et les titres alcoométriques volumiques n
 </td>
 </tr>
 <tr>
-<td align="center">AOC Côtes de Provence complété par la dénomination géographique  Sainte-Victoire  (vins rouges)<br/>
+<td align="center">AOC Côtes de Provence complété par la dénomination géographique Sainte-Victoire (vins rouges)<br/>
 </td>
 <td align="center">207<br/>
 </td>
@@ -303,7 +303,7 @@ a) Les richesses en sucre des raisins et les titres alcoométriques volumiques n
 </td>
 </tr>
 <tr>
-<td align="center">AOC Côtes de Provence complété par la dénomination géographique  Fréjus  (vins rosés)<br/>
+<td align="center">AOC Côtes de Provence complété par la dénomination géographique Fréjus (vins rosés)<br/>
 </td>
 <td align="center">187<br/>
 </td>
@@ -311,7 +311,7 @@ a) Les richesses en sucre des raisins et les titres alcoométriques volumiques n
 </td>
 </tr>
 <tr>
-<td align="center">AOC Côtes de Provence complété par la dénomination géographique  Fréjus  (vins rouges)<br/>
+<td align="center">AOC Côtes de Provence complété par la dénomination géographique Fréjus (vins rouges)<br/>
 </td>
 <td align="center">207<br/>
 </td>
@@ -319,7 +319,7 @@ a) Les richesses en sucre des raisins et les titres alcoométriques volumiques n
 </td>
 </tr>
 <tr>
-<td align="center">AOC Côtes de Provence complété par la dénomination géographique  La Londe  (vins rosés)<br/>
+<td align="center">AOC Côtes de Provence complété par la dénomination géographique La Londe (vins rosés)<br/>
 </td>
 <td align="center">187<br/>
 </td>
@@ -327,7 +327,7 @@ a) Les richesses en sucre des raisins et les titres alcoométriques volumiques n
 </td>
 </tr>
 <tr>
-<td align="center">AOC Côtes de Provence complété par la dénomination géographique  La Londe  (vins rouges)<br/>
+<td align="center">AOC Côtes de Provence complété par la dénomination géographique La Londe (vins rouges)<br/>
 </td>
 <td align="center">207<br/>
 </td>
@@ -347,15 +347,15 @@ VIII. ― Rendements ― Entrée en production
 
 1° Rendement :
 
-a) Le rendement visé à l'article D. 644-25 du code rural est fixé, pour les vins blancs, rouges et rosés, à 55 hectolitres par hectare.
+a) Le rendement visé à l'article D. 644-25 du code rural et de la pêche maritime est fixé, pour les vins blancs, rouges et rosés, à 55 hectolitres par hectare.
 
-b) Le rendement visé à l'article D. 644-25 du code rural est fixé, pour les vins rouges et rosés susceptibles de bénéficier des dénominations géographiques  Sainte-Victoire ,  Fréjus  et  La Londe  à 50 hectolitres par hectare.
+b) Le rendement visé à l'article D. 644-25 du code rural et de la pêche maritime est fixé, pour les vins rouges et rosés susceptibles de bénéficier des dénominations géographiques Sainte-Victoire , Fréjus et La Londe à 50 hectolitres par hectare.
 
 2° Rendement butoir :
 
-a) Le rendement butoir visé à l'article D. 644-25 du code rural est fixé, pour les vins blancs, rouges et rosés, à 66 hectolitres par hectare.
+a) Le rendement butoir visé à l'article D. 644-25 du code rural et de la pêche maritime est fixé, pour les vins blancs, rouges et rosés, à 66 hectolitres par hectare.
 
-b) Le rendement butoir visé à l'article D. 644-25 du code rural est fixé, pour les vins rouges et rosés susceptibles de bénéficier des dénominations géographiques  Sainte-Victoire ,  Fréjus  et  La Londe , à 50 hectolitres par hectare.
+b) Le rendement butoir visé à l'article D. 644-25 du code rural et de la pêche maritime est fixé, pour les vins rouges et rosés susceptibles de bénéficier des dénominations géographiques Sainte-Victoire , Fréjus et La Londe , à 50 hectolitres par hectare.
 
 3° Rendement maximum de production :
 
@@ -399,7 +399,7 @@ Les vins rouges et rosés proviennent de l'assemblage de raisins, de vins en cou
 
 Les vins rouges susceptibles de bénéficier de la dénomination géographique "Fréjus" proviennent d'un assemblage qui doit comporter au minimum 50 % de raisins, de vins en cours de fermentation ou de vins issus du cépage syrah N.
 
-Les vins rosés susceptibles de bénéficier de la dénomination géographique "Fréjus  proviennent d'un assemblage qui doit comporter au minimum 70 % de raisins, de vins en cours de fermentation ou de vins issus de cépages principaux dont au minimum 50 %, ensemble ou séparément, des cépages grenache N et tibouren N.
+Les vins rosés susceptibles de bénéficier de la dénomination géographique "Fréjus proviennent d'un assemblage qui doit comporter au minimum 70 % de raisins, de vins en cours de fermentation ou de vins issus de cépages principaux dont au minimum 50 %, ensemble ou séparément, des cépages grenache N et tibouren N.
 
 c) Fermentation malolactique :
 
@@ -438,49 +438,49 @@ Les vins ne peuvent présenter, après fermentation, une teneur en sucres fermen
 </td>
 </tr>
 <tr>
-<td align="center">AOC Côtes de Provence complétée par la dénomination géographique "Sainte-Victoire  (vins rosés)<br/>
+<td align="center">AOC Côtes de Provence complétée par la dénomination géographique "Sainte-Victoire (vins rosés)<br/>
 </td>
 <td align="center">4<br/>
 </td>
 </tr>
 <tr>
-<td align="center">AOC Côtes de Provence complétée par la dénomination géographique "Sainte-Victoire  (vins rouges avec titre alcoométrique volumique naturel inférieur ou égal à 14 % vol)<br/>
+<td align="center">AOC Côtes de Provence complétée par la dénomination géographique "Sainte-Victoire (vins rouges avec titre alcoométrique volumique naturel inférieur ou égal à 14 % vol)<br/>
 </td>
 <td align="center">3<br/>
 </td>
 </tr>
 <tr>
-<td align="center">AOC Côtes de Provence complétée par la dénomination géographique "Sainte-Victoire  (vins rouges avec titre alcoométrique volumique naturel supérieur à 14 % vol)<br/>
+<td align="center">AOC Côtes de Provence complétée par la dénomination géographique "Sainte-Victoire (vins rouges avec titre alcoométrique volumique naturel supérieur à 14 % vol)<br/>
 </td>
 <td align="center">4<br/>
 </td>
 </tr>
 <tr>
-<td align="center">AOC Côtes de Provence complétée par la dénomination géographique "Fréjus  (vins rosés)<br/>
+<td align="center">AOC Côtes de Provence complétée par la dénomination géographique "Fréjus (vins rosés)<br/>
 </td>
 <td align="center">3<br/>
 </td>
 </tr>
 <tr>
-<td align="center">AOC Côtes de Provence complétée par la dénomination géographique "Fréjus  (vins rouges)<br/>
+<td align="center">AOC Côtes de Provence complétée par la dénomination géographique "Fréjus (vins rouges)<br/>
 </td>
 <td align="center">3<br/>
 </td>
 </tr>
 <tr>
-<td align="center">AOC Côtes de Provence complétée par la dénomination géographique "La Londe  (vins rosés)<br/>
+<td align="center">AOC Côtes de Provence complétée par la dénomination géographique "La Londe (vins rosés)<br/>
 </td>
 <td align="center">4<br/>
 </td>
 </tr>
 <tr>
-<td align="center">AOC Côtes de Provence complétée par la dénomination géographique "La Londe  (vins rouges avec titre alcoométrique volumique naturel inférieur ou égal à 14 % vol)<br/>
+<td align="center">AOC Côtes de Provence complétée par la dénomination géographique "La Londe (vins rouges avec titre alcoométrique volumique naturel inférieur ou égal à 14 % vol)<br/>
 </td>
 <td align="center">3<br/>
 </td>
 </tr>
 <tr>
-<td align="center">AOC Côtes de Provence complétée par la dénomination géographique "La Londe  (vins rouges avec titre alcoométrique volumique naturel supérieur à 14 % vol)<br/>
+<td align="center">AOC Côtes de Provence complétée par la dénomination géographique "La Londe (vins rouges avec titre alcoométrique volumique naturel supérieur à 14 % vol)<br/>
 </td>
 <td align="center">4<br/>
 </td>
@@ -494,7 +494,7 @@ e) Pratiques œnologiques et traitements physiques :
 
 Le thermotraitement de la vendange (flash détente, thermodétente, thermoflash...) est interdit.
 
-Pour l'élaboration des vins rosés susceptibles de bénéficier de l'appellation d'origine contrôlée "Côtes de Provence  sans dénomination géographique complémentaire, l'emploi des charbons œnologiques est autorisé chez le vinificateur, exclusivement sur les moûts issus de presse et dans une proportion qui ne peut être supérieure à 20 % du volume total vinifié chez l'opérateur concerné, pour la récolte considérée.
+Pour l'élaboration des vins rosés susceptibles de bénéficier de l'appellation d'origine contrôlée "Côtes de Provence sans dénomination géographique complémentaire, l'emploi des charbons œnologiques est autorisé chez le vinificateur, exclusivement sur les moûts issus de presse et dans une proportion qui ne peut être supérieure à 20 % du volume total vinifié chez l'opérateur concerné, pour la récolte considérée.
 
 Pour l'élaboration des vins rosés susceptibles de bénéficier d'une dénomination géographique, l'emploi des charbons œnologiques, seuls ou en mélange dans des préparations, est interdit.
 
@@ -520,21 +520,21 @@ a) Les vins rosés sont élaborés par saignée, macération pelliculaire, égou
 
 b) Les vins rouges sont obtenus par vinification classique, comportant un foulage préalable ou par mise en œuvre de vendanges comportant des raisins entiers ;
 
-c) Les vins rosés susceptibles de bénéficier de la dénomination géographique "Sainte-Victoire  sont élevés au moins jusqu'au 15 janvier de l'année qui suit celle de la récolte ;
+c) Les vins rosés susceptibles de bénéficier de la dénomination géographique "Sainte-Victoire sont élevés au moins jusqu'au 15 janvier de l'année qui suit celle de la récolte ;
 
-d) Les vins rouges susceptibles de bénéficier de la dénomination géographique "Sainte-Victoire  sont élevés au moins jusqu'au 15 août de l'année qui suit celle de la récolte ;
+d) Les vins rouges susceptibles de bénéficier de la dénomination géographique "Sainte-Victoire sont élevés au moins jusqu'au 15 août de l'année qui suit celle de la récolte ;
 
-e) Les vins rosés susceptibles de bénéficier de la dénomination géographique "Fréjus  sont élevés au moins jusqu'au 1er février de l'année qui suit celle de la récolte ;
+e) Les vins rosés susceptibles de bénéficier de la dénomination géographique "Fréjus sont élevés au moins jusqu'au 1er février de l'année qui suit celle de la récolte ;
 
-f) Les vins rouges susceptibles de bénéficier de la dénomination géographique "Fréjus  ne peuvent pas être élaborés par macération carbonique de raisins entiers. Ils sont élevés au moins jusqu'au 15 octobre de l'année qui suit celle de la récolte dont au moins six mois en fût de chêne ;
+f) Les vins rouges susceptibles de bénéficier de la dénomination géographique "Fréjus ne peuvent pas être élaborés par macération carbonique de raisins entiers. Ils sont élevés au moins jusqu'au 15 octobre de l'année qui suit celle de la récolte dont au moins six mois en fût de chêne ;
 
-g) Les vins rouges susceptibles de bénéficier de la dénomination géographique "La Londe  ne peuvent pas être élaborés par macération carbonique de raisins entiers. Ils sont élevés au moins jusqu'au 15 août de l'année qui suit celle de la récolte.
+g) Les vins rouges susceptibles de bénéficier de la dénomination géographique "La Londe ne peuvent pas être élaborés par macération carbonique de raisins entiers. Ils sont élevés au moins jusqu'au 15 août de l'année qui suit celle de la récolte.
 
 3° Dispositions relatives au conditionnement :
 
 Pour tout lot conditionné, l'opérateur tient à disposition de l'organisme de contrôle agréé :
 
-― les informations figurant dans le registre des manipulations visé à l'article D. 644-36 du code rural ;
+― les informations figurant dans le registre des manipulations visé à l'article D. 644-36 du code rural et de la pêche maritime ;
 
 ― une analyse réalisée avant ou après le conditionnement.
 
@@ -550,11 +550,9 @@ b) Un moyen de maîtrise thermique protégeant les vins de toute élévation de 
 
 a) Date de mise en marché à destination du consommateur :
 
-Les vins susceptibles de bénéficier de l'appellation d'origine contrôlée "Côtes de Provence  sans dénomination géographique complémentaire et les vins rosés susceptibles de bénéficier de la dénomination géographique "La Londe  sont mis en marché à destination du consommateur selon les dispositions de l'article D. 644-35 du code rural.
+Les vins susceptibles de bénéficier de l'appellation d'origine contrôlée "Côtes de Provence sans dénomination géographique complémentaire et les vins rosés susceptibles de bénéficier de la dénomination géographique "La Londe sont mis en marché à destination du consommateur selon les dispositions de l'article D. 644-35 du code rural et de la pêche maritime.
 
-A l'issue des périodes d'élevage correspondantes, les vins ne peuvent être mis en marché à destination du consommateur qu'à partir du :
-
-<div align="center">
+A l'issue des périodes d'élevage correspondantes, les vins ne peuvent être mis en marché à destination du consommateur qu'à partir du : <div align="center">
 
 <table>
 <tbody>
@@ -565,31 +563,31 @@ A l'issue des périodes d'élevage correspondantes, les vins ne peuvent être mi
 </th>
 </tr>
 <tr>
-<td align="center">AOC Côtes de Provence complétée par la dénomination géographique "Sainte-Victoire  (vins rosés)<br/>
+<td align="center">AOC Côtes de Provence complétée par la dénomination géographique "Sainte-Victoire (vins rosés)<br/>
 </td>
 <td align="center">1er février de l'année<br/>qui suit celle de la récolte<br/>
 </td>
 </tr>
 <tr>
-<td align="center">AOC Côtes de Provence complétée par la dénomination géographique "Sainte-Victoire  (vins rouges)<br/>
+<td align="center">AOC Côtes de Provence complétée par la dénomination géographique "Sainte-Victoire (vins rouges)<br/>
 </td>
 <td align="center">1er septembre de l'année qui suit celle de la récolte <br/>
 </td>
 </tr>
 <tr>
-<td align="center">AOC Côtes de Provence complétée par la dénomination géographique "Fréjus  (vins rosés)<br/>
+<td align="center">AOC Côtes de Provence complétée par la dénomination géographique "Fréjus (vins rosés)<br/>
 </td>
 <td align="center">15 février de l'année qui suit celle de la récolte <br/>
 </td>
 </tr>
 <tr>
-<td align="center">AOC Côtes de Provence complétée par la dénomination géographique "Fréjus  (vins rouges)<br/>
+<td align="center">AOC Côtes de Provence complétée par la dénomination géographique "Fréjus (vins rouges)<br/>
 </td>
 <td align="center">1er novembre de l'année qui suit celle de la récolte <br/>
 </td>
 </tr>
 <tr>
-<td align="center">AOC Côtes de Provence complétée par la dénomination géographique "La Londe  (vins rouges)<br/>
+<td align="center">AOC Côtes de Provence complétée par la dénomination géographique "La Londe (vins rouges)<br/>
 </td>
 <td align="center">1er septembre de l'année qui suit celle de la récolte <br/>
 </td>
@@ -601,9 +599,7 @@ A l'issue des périodes d'élevage correspondantes, les vins ne peuvent être mi
 
 b) Période au cours de laquelle les vins ne peuvent circuler entre entrepositaires agréés :
 
-Les vins peuvent circuler entre entrepositaires agréés au plus tôt le :
-
-<div align="center">
+Les vins peuvent circuler entre entrepositaires agréés au plus tôt le : <div align="center">
 
 <table>
 <tbody>
@@ -626,37 +622,37 @@ Les vins peuvent circuler entre entrepositaires agréés au plus tôt le :
 </td>
 </tr>
 <tr>
-<td align="center">AOC Côtes de Provence complétée par la dénomination géographique "Sainte-Victoire  (vins rosés)<br/>
+<td align="center">AOC Côtes de Provence complétée par la dénomination géographique "Sainte-Victoire (vins rosés)<br/>
 </td>
 <td align="center">15 novembre de l'année de récolte<br/>
 </td>
 </tr>
 <tr>
-<td align="center">AOC Côtes de Provence complétée par la dénomination géographique "Sainte-Victoire  (vins rouges)<br/>
+<td align="center">AOC Côtes de Provence complétée par la dénomination géographique "Sainte-Victoire (vins rouges)<br/>
 </td>
 <td align="center">1er décembre de l'année de récolte<br/>
 </td>
 </tr>
 <tr>
-<td align="center">AOC Côtes de Provence complétée par la dénomination géographique "Fréjus  (vins rosés)<br/>
+<td align="center">AOC Côtes de Provence complétée par la dénomination géographique "Fréjus (vins rosés)<br/>
 </td>
 <td align="center">15 novembre de l'année de récolte<br/>
 </td>
 </tr>
 <tr>
-<td align="center">AOC Côtes de Provence complétée par la dénomination géographique "Fréjus  (vins rouges)<br/>
+<td align="center">AOC Côtes de Provence complétée par la dénomination géographique "Fréjus (vins rouges)<br/>
 </td>
 <td align="center">1er décembre de l'année de récolte<br/>
 </td>
 </tr>
 <tr>
-<td align="center">AOC Côtes de Provence complétée par la dénomination géographique "La Londe  (vins rosés)<br/>
+<td align="center">AOC Côtes de Provence complétée par la dénomination géographique "La Londe (vins rosés)<br/>
 </td>
 <td align="center">15 novembre de l'année de récolte<br/>
 </td>
 </tr>
 <tr>
-<td align="center">AOC Côtes de Provence complétée par la dénomination géographique "La Londe  (vins rouges)<br/>
+<td align="center">AOC Côtes de Provence complétée par la dénomination géographique "La Londe (vins rouges)<br/>
 </td>
 <td align="center">1er décembre de l'année de récolte<br/>
 </td>
@@ -688,9 +684,9 @@ Au titre du présent paragraphe, la superficie plantée s'entend comme l'ensembl
 
 2° Encépagement :
 
-a) Jusqu'à la récolte 2014 incluse, pour les vins rouges et rosés susceptibles de bénéficier de l'appellation d'origine contrôlée complétée ou non par les dénominations géographiques "Sainte-Victoire  et "La Londe , la proportion de l'ensemble des cépages principaux peut être inférieure à 80 % de l'encépagement sans être inférieure à 70 % de l'encépagement.
+a) Jusqu'à la récolte 2014 incluse, pour les vins rouges et rosés susceptibles de bénéficier de l'appellation d'origine contrôlée complétée ou non par les dénominations géographiques "Sainte-Victoire et "La Londe , la proportion de l'ensemble des cépages principaux peut être inférieure à 80 % de l'encépagement sans être inférieure à 70 % de l'encépagement.
 
-b) Pour les vins rosés susceptibles de bénéficier de la dénomination "Fréjus  :
+b) Pour les vins rosés susceptibles de bénéficier de la dénomination "Fréjus :
 
 ― jusqu'à la récolte 2014 incluse, la proportion du cépage tibouren N ne comporte pas de minimum à respecter ;
 
@@ -706,9 +702,9 @@ Pour la reconversion des parcelles de vignes concernées, la mise en conformité
 
 La disposition relative au moyen de maîtrise thermique au sein des bâtiments ou des cuves où les vins sont conservés s'applique à compter de la récolte 2015.
 
-5° Dénomination géographique "La Londe  :
+5° Dénomination géographique "La Londe :
 
-Les vins rouges et rosés de la récolte 2008 issus de raisins récoltés dans les parcelles identifiées conformément aux dispositions définies au d du 2° du IV peuvent bénéficier de la dénomination géographique "La Londe  sous réserve de répondre à l'ensemble des autres dispositions fixées par le présent cahier des charges.
+Les vins rouges et rosés de la récolte 2008 issus de raisins récoltés dans les parcelles identifiées conformément aux dispositions définies au d du 2° du IV peuvent bénéficier de la dénomination géographique "La Londe sous réserve de répondre à l'ensemble des autres dispositions fixées par le présent cahier des charges.
 
 XII. ― Règles de présentation et étiquetage
 

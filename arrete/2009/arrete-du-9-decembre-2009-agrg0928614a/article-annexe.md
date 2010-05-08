@@ -1,12 +1,12 @@
 # Article Annexe
 
-CAHIER DES CHARGES - BASE DE DONNÉES NATIONALE D'IDENTIFICATION
+CAHIER DES CHARGES-BASE DE DONNÉES NATIONALE D'IDENTIFICATION
 
 DES OVINS ET DES CAPRINS
 
 Préambule
 
-En application de la loi n° 2008-582 du 20 juin 2008 et du décret n° 2009-605 du 29 mai 2009 pris pour application de l'article L. 212-12-1 du code rural, le présent cahier des charges précise les conditions selon lesquelles le ministre chargé de l'agriculture confie la gestion, le recueil, la collecte des données des mouvements d'ovins et de caprins et leur traitement à une personne agréée dénommée ci-après gestionnaire de la base de données nationale d'identification des ovins et des caprins.
+En application de la loi n° 2008-582 du 20 juin 2008 et du décret n° 2009-605 du 29 mai 2009 pris pour application de l'article L. 212-12-1 du code rural et de la pêche maritime, le présent cahier des charges précise les conditions selon lesquelles le ministre chargé de l'agriculture confie la gestion, le recueil, la collecte des données des mouvements d'ovins et de caprins et leur traitement à une personne agréée dénommée ci-après gestionnaire de la base de données nationale d'identification des ovins et des caprins.
 
 Le gestionnaire de la base de données nationale d'identification des ovins et des caprins déploie un réseau permanent d'assistance aux utilisateurs de ladite base sur l'ensemble du territoire national (métropole et départements d'outre-mer).
 
@@ -18,7 +18,7 @@ Les missions confiées au gestionnaire de la base de données nationale d'identi
 
 2. La mise en place et la gestion des outils permettant aux personnes autorisées de saisir, transférer par fichier informatique, mettre à jour et / ou consulter les données ;
 
-3. Le transfert des données réglementaires des mouvements des ovins et des caprins vers la base de données nationale d'identification (BDNI/SIMOC système d'information des mouvements d'ovins et de caprins).
+3. Le transfert des données réglementaires des mouvements des ovins et des caprins vers la base de données nationale d'identification (BDNI / SIMOC système d'information des mouvements d'ovins et de caprins).
 
 Pour remplir ces missions, le gestionnaire de la base de données nationale d'identification des ovins et des caprins dispose de :
 
@@ -42,9 +42,9 @@ On entend par mouvements tous les mouvements à destination ou en provenance d'u
 
 150 organismes (EdE, DDSV...).
 
-Le gestionnaire de la base de données transmet quotidiennement à la base de données nationale d'identification (BDNI/SIMOC) et en flux continu les notifications de mouvements des petits ruminants.
+Le gestionnaire de la base de données transmet quotidiennement à la base de données nationale d'identification (BDNI / SIMOC) et en flux continu les notifications de mouvements des petits ruminants.
 
-Un service de mise à jour de la base de données à partir des fournitures quotidiennes de données de la BDNI/SIMOC.
+Un service de mise à jour de la base de données à partir des fournitures quotidiennes de données de la BDNI / SIMOC.
 
 Un service d'accès en temps réel aux données de cette base.
 
@@ -174,7 +174,7 @@ Les données ci-dessous sont contenues dans la base de données nationale d'iden
 
 1-D. 3. Réponses aux questions :
 
--"le camion était-il vide avant ?" ou "le camion est-il vide après ?" selon le cas (facultatif) ;
+-" le camion était-il vide avant ? " ou " le camion est-il vide après ? " selon le cas (facultatif) ;
 
 -le détenteur me donne délégation pour notifier les mouvements (témoin de délégation) : oui / non.
 
@@ -206,9 +206,9 @@ Les données ci-dessous sont contenues dans la base de données nationale d'iden
 
 -pour chaque délégataire, la liste de leurs délégants.
 
-Le gestionnaire de la base de données nationale d'identification des ovins et des caprins gère et met en place les mesures correctives de l'ensemble des anomalies listées ci-dessous, qui peuvent être relevées et/ou générées lors de la notification des mouvements :
+Le gestionnaire de la base de données nationale d'identification des ovins et des caprins gère et met en place les mesures correctives de l'ensemble des anomalies listées ci-dessous, qui peuvent être relevées et / ou générées lors de la notification des mouvements :
 
--anomalie d'exploitation inexistante dans la BDNI/SIMOC (non déclarée ou sans activité) ;
+-anomalie d'exploitation inexistante dans la BDNI / SIMOC (non déclarée ou sans activité) ;
 
 -lors de la notification de mouvement individuel des animaux, notifications manquantes au niveau d'un centre de rassemblement (délai de transit maximum de dix jours) ;
 
@@ -224,13 +224,13 @@ Le gestionnaire de la base de données nationale d'identification des ovins et d
 
 Le gestionnaire de la base de données nationale d'identification des ovins et des caprins doit retrouver à tout moment les données enregistrées dans ladite base, sous réserve que les données nécessaires aient été effectivement portées à sa connaissance.
 
-Le gestionnaire de la base de données nationale d'identification des ovins et des caprins doit faire fonctionner et maintenir la base de données nationale d'identification des ovins et des caprins sur une période de dix ans, sous réserve des dispositions de l'article R. 212-14-1 du code rural.
+Le gestionnaire de la base de données nationale d'identification des ovins et des caprins doit faire fonctionner et maintenir la base de données nationale d'identification des ovins et des caprins sur une période de dix ans, sous réserve des dispositions de l'article R. 212-14-1 du code rural et de la pêche maritime.
 
 Le gestionnaire de la base de données nationale d'identification des ovins et des caprins doit être à même de montrer, notamment par l'enregistrement de la date de saisie des données et de leur date de transmission, que le délai de transmission d'un mouvement de petits ruminants enregistré dans le fichier tampon n'excède pas sept jours, délai maximal de notification des mouvements.
 
 En cas d'urgence sanitaire, le gestionnaire de la base de données nationale d'identification des ovins et des caprins met en œuvre tout moyen matériel et humain, en accord avec son fonctionnement interne, pour répondre aux demandes éventuelles du ministère en charge de l'agriculture.
 
-2° Mise en place et gestion des outils permettant aux personnes autorisées de saisir, mettre à jour et/ou consulter les données
+2° Mise en place et gestion des outils permettant aux personnes autorisées de saisir, mettre à jour et / ou consulter les données
 
 Le gestionnaire de la base de données nationale d'identification des ovins et des caprins met en place et administre un site internet commun à tous les détenteurs d'ovins et de caprins et à tous les responsables de l'identification ovine et caprine (gestionnaires de l'identification, administration...).
 

@@ -4,4 +4,4 @@ Les fonctionnaires du Centre national du machinisme agricole, du génie rural, d
 
 Ces corps de fonctionnaires sont régis par les dispositions du décret du 30 décembre 1983 susvisé et par celles du présent décret.
 
-Le ministre chargé de l'agriculture peut affecter au CEMAGREF des agents des corps techniques de l'Etat de catégorie A, en application des dispositions du deuxième alinéa de l'article R. 832-3 du code rural.
+Le ministre chargé de l'agriculture peut affecter au CEMAGREF des agents des corps techniques de l'Etat de catégorie A, en application des dispositions du deuxième alinéa de l'article R. 832-3 du code rural et de la pêche maritime.

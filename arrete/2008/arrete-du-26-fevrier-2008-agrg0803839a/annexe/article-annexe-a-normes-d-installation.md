@@ -1,20 +1,20 @@
 # Article Annexe A : NORMES D'INSTALLATION
 
-**NORMES D'INSTALLATION ET DE FONCTIONNEMENT DES ÉTABLISSEMENTS ADHÉRANT À LA CHARTE SANITAIRE**
+NORMES D'INSTALLATION ET DE FONCTIONNEMENT DES ÉTABLISSEMENTS ADHÉRANT À LA CHARTE SANITAIRE
 
 Les présentes dispositions s'appliquent sans préjudice d'autres textes législatifs ou réglementaires, en particulier ceux relatifs aux installations classées pour la protection de l'environnement, qui contribuent à la maîtrise du risque Salmonella en assurant notamment la prise en charge des risques liés à la densité animale et à la gestion des effluents et déchets. Il est donc de principe que les établissements ne peuvent adhérer à la charte sanitaire que s'ils sont régulièrement autorisés ou déclarés au titre des installations classées pour la protection de l'environnement pour les effectifs mis en place, et s'ils ne contreviennent pas aux obligations qui leur sont faites au titre de la protection de l'environnement et de la protection animale.
 
-**Chapitre Ier : Etablissements hébergeant des reproducteurs de l'espèce Gallus gallus de la filière chair**
+Chapitre Ier : Etablissements hébergeant des reproducteurs de l'espèce Gallus gallus de la filière chair
 
 Un établissement est défini comme la zone d'élevage de reproducteurs de l'espèce Gallus gallus, sur un même site, regroupant éventuellement plusieurs bâtiments contigus ou non.
 
-**Objectifs**
+Objectifs
 
 L'établissement doit être conçu et protégé de manière à limiter autant que possible les introductions de salmonelles et d'agents pathogènes.
 
 La conception et l'aménagement de l'établissement et de ses abords doivent permettre des opérations de nettoyage et désinfection efficaces, suivies d'un vide sanitaire suffisant pour interrompre un éventuel cycle de contamination.
 
-**1. Protection de l'établissement**
+1. Protection de l'établissement
 
 Elle doit être conçue de manière à empêcher l'introduction d'agents pathogènes dans l'établissement. En particulier, les points suivants devront être respectés :
 
@@ -30,19 +30,19 @@ Elle doit être conçue de manière à empêcher l'introduction d'agents pathog�
 
 ― l'approvisionnement en aliments des troupeaux doit être conçu de manière à éviter autant que possible la circulation de véhicules étrangers dans la zone d'élevage et le stationnement sur les voies d'accès, en particulier devant le sas d'entrée. Lorsque les opérations de transport de l'aliment composé destiné à un troupeau de reproduction sont assurées par le propriétaire du troupeau, ce dernier met en place des procédures écrites de surveillance et de maîtrise de la contamination des véhicules de transport de l'aliment ; lorsque le transport est confié à un prestataire, il s'assure par voie contractuelle de la mise en place de procédures équivalentes par celui-ci.
 
-**2. Aménagement**
+2. Aménagement
 
 Toutes mesures doivent être prises pour limiter le plus possible l'accès aux oiseaux sauvages, aux rongeurs et aux insectes.
 
 Autant que possible, le matériel sera choisi en vue de faciliter les opérations de nettoyage et désinfection. Notamment, les circuits d'aération, d'abreuvement, d'alimentation, de collecte des œufs et d'évacuation des déjections doivent être, dans la mesure du possible, aisément démontables ou accessibles, afin de permettre un nettoyage et une désinfection efficaces. Les turbulences d'air doivent être réduites au minimum lors du séchage des fientes, s'il est pratiqué dans le volume de vie des volailles, ou à proximité des entrées d'air du bâtiment d'élevage.
 
-Les sols des bâtiments doivent être étanches, en matériau dur, imputrescible et imperméable. Cette disposition s'applique au plus tard le 31 décembre 2010 pour tous les bâtiments d'élevage ayant hébergé au cours des années 2006 ou 2007 des troupeaux de reproducteurs adhérant à la charte sanitaire. Elle s'applique sans délai pour toutes les nouvelles demandes d'adhésion à la charte sanitaire reproducteurs en préponte et en ponte » concernant un établissement non encore qualifié pour la reproduction et ne répondant pas aux conditions ci-dessus, ainsi que pour le repeuplement des bâtiments qualifiés ayant abrité un troupeau infecté par Salmonella Enteritidis, ou Salmonella Hadar, ou Salmonella Infantis, ou Salmonella Typhimurium, ou Salmonella Virchow au cours de la bande précédente.
+Les sols des bâtiments doivent être étanches, en matériau dur, imputrescible et imperméable. Cette disposition s'applique au plus tard le 31 décembre 2010 pour tous les bâtiments d'élevage ayant hébergé au cours des années 2006 ou 2007 des troupeaux de reproducteurs adhérant à la charte sanitaire. Elle s'applique sans délai pour toutes les nouvelles demandes d'adhésion à la charte sanitaire reproducteurs en préponte et en ponte concernant un établissement non encore qualifié pour la reproduction et ne répondant pas aux conditions ci-dessus, ainsi que pour le repeuplement des bâtiments qualifiés ayant abrité un troupeau infecté par Salmonella Enteritidis, ou Salmonella Hadar, ou Salmonella Infantis, ou Salmonella Typhimurium, ou Salmonella Virchow au cours de la bande précédente.
 
 Les parois internes des bâtiments doivent être lisses et permettre un nettoyage et une désinfection efficaces.
 
-**3. Conduite de l'élevage**
+3. Conduite de l'élevage
 
-**a) Animaux :**
+a) Animaux :
 
 Les éleveurs sont tenus de n'introduire dans leurs bâtiments que des oiseaux ou de la semence provenant d'établissements adhérant à la charte sanitaire.
 
@@ -92,11 +92,11 @@ En cas d'incidents, de morbidité ou de mortalité anormales, l'éleveur s'engag
 
 Un transfert de bâtiment pour une deuxième ponte n'est autorisé que si elle est réalisée en respectant une procédure préalable fondée sur une analyse de risque ayant obtenu l'approbation des services vétérinaires.
 
-**b) Œufs :**
+b) Œufs :
 
 Les œufs à couver doivent être désinfectés sur place et stockés rapidement après la ponte dans un local spécial. Les œufs sont transportés vers le couvoir par un véhicule et du matériel propres et désinfectés. Le véhicule est réservé à cet usage.
 
-**c) Lutte contre les vecteurs contaminants :**
+c) Lutte contre les vecteurs contaminants :
 
 L'éleveur doit utiliser rationnellement les installations décrites précédemment : les bâtiments et leurs abords doivent être dératisés et désinsectisés régulièrement.
 
@@ -106,7 +106,9 @@ Le matériel potentiellement vecteur de salmonelles doit être nettoyé et dési
 
 Les palettes doivent être stockées dans un local isolé de l'aire d'élevage et désinfectées à leur arrivée dans l'exploitation.
 
-**d) Eau de boisson :**La conformité de l'eau de boisson aux critères bactériologiques suivants doit être contrôlée au moins semestriellement en cas d'alimentation par réseau privé, et au moins annuellement s'il s'agit d'eau du réseau public :
+d) Eau de boisson :
+
+La conformité de l'eau de boisson aux critères bactériologiques suivants doit être contrôlée au moins semestriellement en cas d'alimentation par réseau privé, et au moins annuellement s'il s'agit d'eau du réseau public :
 
 Entérocoques : absence dans 100 ml.
 
@@ -120,25 +122,29 @@ La recherche de salmonelles n'est exigée que pour les parquets de l'étage repr
 
 En cas de résultat défavorable, un traitement biocide dont l'efficacité est vérifiée est appliqué. Le directeur départemental des services vétérinaires interdit l'usage des eaux de forage en cas d'échec de ce traitement, s'il considère que celui-ci peut être à l'origine de ce résultat défavorable.
 
-**e) Aliment :**
+e) Aliment :
 
 La possibilité de contaminer les animaux par l'aliment doit être prise en compte et les mesures prises pour l'éviter doivent faire l'objet de procédures écrites. Pour les élevages de reproduction, des échantillons d'aliments composés sont prélevés à chaque livraison et conservés pendant quatre mois dans des conditions satisfaisantes permettant la recherche d'une contamination par Salmonella.
 
-**f) Déchets et effluents :**La gestion des déchets et effluents d'élevage respecte les prescriptions du code de l'environnement, du code de la santé publique et des textes pris pour leur application. Les enlèvements et épandages des effluents d'élevage sont gérés de manière à ne pas constituer un risque de contamination des troupeaux avoisinants par Salmonella.
+f) Déchets et effluents :
 
-**g) Transport :**
+La gestion des déchets et effluents d'élevage respecte les prescriptions du code de l'environnement, du code de la santé publique et des textes pris pour leur application. Les enlèvements et épandages des effluents d'élevage sont gérés de manière à ne pas constituer un risque de contamination des troupeaux avoisinants par Salmonella.
+
+g) Transport :
 
 Les propriétaires de troupeaux de reproduction mettent en place des procédures écrites de surveillance et de maîtrise de la contamination des véhicules de transport d'œufs à couver et de volailles. Ces procédures sont soumises à l'appréciation du directeur départemental des services vétérinaires. Les exploitants enregistrent les contrôles et informent les services vétérinaires des non-conformités constatées et des mesures correctives mises en place, à une fréquence déterminée en fonction de l'étage de production et de l'analyse de risque conduite sur l'organisation du transport dans la société d'accouvage. Les mesures correctives comprennent des contrôles renforcés des troupeaux qui ont circulé dans les véhicules contaminés, ou de leurs bâtiments d'hébergement selon le type de contrôle réalisé. Si un facteur de risque particulier est identifié par l'exploitant dans une entreprise de transport, il en informe sans délai ladite entreprise ainsi que le directeur départemental des services vétérinaires.
 
-**h) Nettoyage et désinfection :**Après le départ des reproducteurs, les opérations de nettoyage, désinfection et vide sanitaire sont obligatoires. Le fumier doit être retiré du bâtiment avant les opérations de nettoyage et désinfection. Les tracteurs et autres matériels de manipulation du fumier doivent être décontaminés après ces opérations. Le stockage, l'épandage des déjections animales et des eaux de nettoyage ne doivent pas constituer une source de contamination pour l'environnement. Les eaux de nettoyage doivent être évacuées soit dans une fosse, soit vers un réseau d'eaux usées.
+h) Nettoyage et désinfection :
+
+Après le départ des reproducteurs, les opérations de nettoyage, désinfection et vide sanitaire sont obligatoires. Le fumier doit être retiré du bâtiment avant les opérations de nettoyage et désinfection. Les tracteurs et autres matériels de manipulation du fumier doivent être décontaminés après ces opérations. Le stockage, l'épandage des déjections animales et des eaux de nettoyage ne doivent pas constituer une source de contamination pour l'environnement. Les eaux de nettoyage doivent être évacuées soit dans une fosse, soit vers un réseau d'eaux usées.
 
 Le nettoyage et la désinfection des locaux d'élevage et de leurs annexes ainsi que du matériel sont effectués selon un protocole écrit, à l'aide d'un désinfectant autorisé. Ce protocole doit également prendre en compte la lutte contre les animaux nuisibles, et notamment les rongeurs, les insectes et les acariens indésirables, ainsi que la décontamination des abords.
 
 La mise en place dans un bâtiment d'un lot de volailles après une bande ayant subi une contamination vis-à-vis d'un sérotype visé par le plan de lutte et avant la réception des résultats satisfaisants du contrôle officiel du chantier de nettoyage et désinfection interdit l'attribution de la charte sanitaire pour le nouveau troupeau.
 
-**4. Registre d'élevage**
+4. Registre d'élevage
 
-Le registre d'élevage tel que prévu par l'article L. 234-1 du code rural est complété par les informations suivantes :
+Le registre d'élevage tel que prévu par l'article L. 234-1 du code rural et de la pêche maritime est complété par les informations suivantes :
 
 ― attestations d'adhésion à la charte sanitaire de l'établissement d'origine des animaux et résultats des analyses complémentaires effectuées, le cas échéant, tel qu'il est prévu au point 3 a du présent chapitre ;
 
@@ -160,13 +166,13 @@ Le registre d'élevage tel que prévu par l'article L. 234-1 du code rural est c
 
 Ces informations doivent être tenues à la disposition du vétérinaire sanitaire et du directeur départemental des services vétérinaires ou de son représentant lors de leurs visites. La durée de conservation est a minima celle du registre d'élevage.
 
-**5. Règles d'hygiène**
+5. Règles d'hygiène
 
 Les règles d'hygiène adoptées, spécifiques à l'élevage, sont portées à la connaissance du directeur départemental des services vétérinaires et font l'objet d'un document écrit annexé au registre d'élevage. Elles sont conformes au guide de bonnes pratiques d'hygiène en élevage, lorsqu'un tel guide est validé pour la filière concernée.
 
-**Chapitre II : Etablissements d'accouvaison
+Chapitre II : Etablissements d'accouvaison
 
-Objectifs**
+Objectifs
 
 Isolement et compartimentation du couvoir pour limiter l'introduction, la persistance, la multiplication et la diffusion des contaminants à l'intérieur du couvoir ainsi que vers les élevages fournisseurs et clients. f
 
@@ -174,19 +180,19 @@ Traçabilité des produits.
 
 Application d'un contrôle continu permettant d'attester la qualité sanitaire des produits et de détecter aussi rapidement que possible les infections, dans le but de mettre en place des actions correctives.
 
-**1. Implantation du couvoir**
+1. Implantation du couvoir
 
 L'implantation du couvoir doit être prévue de manière à limiter les contaminations aériennes. Il doit dans tous les cas exister une séparation physique et fonctionnelle, efficace et pertinente, entre le couvoir et les élevages.
 
 Les abords doivent être correctement entretenus. Une zone nue aux abords immédiats du couvoir doit être maintenue.
 
-**2. Conception du couvoir**
+2. Conception du couvoir
 
 Le couvoir doit être divisé en zones fonctionnelles entre lesquelles la circulation doit respecter le principe de la marche en avant pour les personnes, les œufs, le matériel et les déchets.
 
 Sa conception et son fonctionnement doivent permettre d'éviter les contaminations croisées entre les différents secteurs du couvoir et entre lots d'origines différentes.
 
-La ventilation des différentes zones doit fournir un flux d'air circulant toujours des zones propres vers les zones sales. L'air extrait des éclosoirs doit être évacué à l'extérieur du couvoir via un circuit indépendant et accessible. Les duvets devraient être captés.
+La ventilation des différentes zones doit fournir un flux d'air circulant toujours des zones propres vers les zones sales.L'air extrait des éclosoirs doit être évacué à l'extérieur du couvoir via un circuit indépendant et accessible. Les duvets devraient être captés.
 
 Les zones fonctionnelles sont les suivantes :
 
@@ -226,7 +232,7 @@ L'installation de filtres de dépoussiérage aux entrées d'air est préconisée
 
 L'évacuation et le stockage des déchets de couvoir ne doivent pas constituer une source de pollution, ni de contamination.
 
-Les canalisations d'évacuation des eaux usées doivent être d'une pente et d'un diamètre suffisants pour permettre une élimination rapide des eaux usées et une bonne aération afin d'éviter toute fermentation anaérobie. Elles doivent être munies de siphons pour empêcher la remontée des rongeurs et de paniers » aux accès pour récupérer les déchets.
+Les canalisations d'évacuation des eaux usées doivent être d'une pente et d'un diamètre suffisants pour permettre une élimination rapide des eaux usées et une bonne aération afin d'éviter toute fermentation anaérobie. Elles doivent être munies de siphons pour empêcher la remontée des rongeurs et de paniers aux accès pour récupérer les déchets.
 
 A l'entrée du couvoir, le sas d'entrée représente une barrière sanitaire destinée à protéger le couvoir contre le facteur de risque humain. Il comporte une séparation physique entre la zone extérieure et la zone intérieure. Il doit être équipé :
 
@@ -260,15 +266,19 @@ Les E. coli sont recherchés par la méthode décrite dans la norme NF ISO 9308-
 
 En cas de résultat défavorable, un traitement biocide dont l'efficacité est vérifiée est appliqué. Le directeur départemental des services vétérinaires peut interdire l'usage des eaux de forage en cas d'échec de ce traitement.
 
-**3. Fonctionnement du couvoir**
+3. Fonctionnement du couvoir
 
-**a) Personnel :**Le personnel d'élevage ne doit pas avoir accès au couvoir.
+a) Personnel :
+
+Le personnel d'élevage ne doit pas avoir accès au couvoir.
 
 Le personnel du couvoir doit utiliser les sas pour changer de vêtements et revêtir des tenues spécifiques, de préférence de couleurs différentes pour la zone coquille et la zone duvet.
 
 Tous les visiteurs doivent respecter les dispositions imposées au personnel.
 
-**b) Œufs à couver :**b-1) Les œufs à couver sont désinfectés entre leur arrivée au couvoir et la mise en incubation ; les œufs sales ne sont pas mis en incubation.
+b) Œufs à couver :
+
+b-1) Les œufs à couver sont désinfectés entre leur arrivée au couvoir et la mise en incubation ; les œufs sales ne sont pas mis en incubation.
 
 Les œufs à couver d'animaux de l'espèce Gallus gallus sont traités de manière entièrement séparée de ceux des éventuelles autres espèces traitées, et notamment dans des salles d'éclosion dédiées pour une éclosion.
 
@@ -278,7 +288,7 @@ b-2) Par dérogation à ce principe, les couvoirs adhérant à la charte sanitai
 
 ― le responsable du couvoir s'assure avant l'introduction que les œufs proviennent de troupeaux indemnes de Salmonella Enteritidis, Hadar, Infantis, Typhimurium et Virchow ;
 
-― les informations relatives à ces introductions sont consignées sur le registre de couvoir et portées à la connaissance du directeur départemental des services vétérinaires 48 heures au moins avant celles-ci. Le jour d'éclosion est communiqué à la direction départementale des services vétérinaires dès la mise en machine. L'organisation et le pays de provenance figurent en clair sur les registres du couvoir ; les œufs sont mis en éclosion dans un éclosoir séparé réservé aux lots non issus de troupeaux de multiplication adhérant à la charte sanitaire ;
+― les informations relatives à ces introductions sont consignées sur le registre de couvoir et portées à la connaissance du directeur départemental des services vétérinaires 48 heures au moins avant celles-ci. Le jour d'éclosion est communiqué à la direction départementale des services vétérinaires dès la mise en machine.L'organisation et le pays de provenance figurent en clair sur les registres du couvoir ; les œufs sont mis en éclosion dans un éclosoir séparé réservé aux lots non issus de troupeaux de multiplication adhérant à la charte sanitaire ;
 
 ― l'éclosion est isolée ;
 
@@ -318,7 +328,9 @@ Dans ce cadre dérogatoire, des mesures spécifiques s'appliquent aux œufs à c
 
 ― l'adhésion à la charte sanitaire est accordée aux poussins issus à compter du premier jour de la septième semaine qui suit la mise en place, sauf notification contraire du directeur départemental des services vétérinaires, dès lors que les analyses pour recherche de salmonelles réalisées jusqu'à l'âge de cinq semaines inclus et les recherches éventuelles d'inhibiteurs demandées par les services vétérinaires sont négatives.
 
-**c) Hygiène du couvoir :**Les incubateurs doivent être désinfectés régulièrement.
+c) Hygiène du couvoir :
+
+Les incubateurs doivent être désinfectés régulièrement.
 
 Les éclosoirs et les salles d'éclosion doivent être lavés et désinfectés après chaque éclosion. Les circuits d'air et d'eau font l'objet d'un entretien périodique régulier.
 
@@ -330,9 +342,11 @@ Toutes les autres salles du couvoir doivent être nettoyées et désinfectées s
 
 Les véhicules affectés au transport des œufs à couver et des poussins doivent être lavés et désinfectés après chaque usage.
 
-**d) Traçabilité :**Les informations de traçabilité aval ou amont sont transmises à sa demande au directeur départemental des services vétérinaires par l'établissement d'accouvaison, pour un lot déterminé ou une période déterminée. Le couvoir doit s'organiser pour être à même de réaliser cette transmission dans un délai au plus égal à douze heures pour les périodes écoulées, et sous une forme exploitable par voie électronique. Le non-respect de cette exigence ou des inexactitudes ou omissions sont de nature à suspendre immédiatement la charte sanitaire accordée au couvoir.
+d) Traçabilité :
 
-**4. Registre de couvoir**
+Les informations de traçabilité aval ou amont sont transmises à sa demande au directeur départemental des services vétérinaires par l'établissement d'accouvaison, pour un lot déterminé ou une période déterminée. Le couvoir doit s'organiser pour être à même de réaliser cette transmission dans un délai au plus égal à douze heures pour les périodes écoulées, et sous une forme exploitable par voie électronique. Le non-respect de cette exigence ou des inexactitudes ou omissions sont de nature à suspendre immédiatement la charte sanitaire accordée au couvoir.
+
+4. Registre de couvoir
 
 Un registre de couvoir doit être régulièrement tenu et conservé pendant au moins trois ans. Sans préjudice du respect des dispositions relatives au registre d'élevage, celui-ci doit être complété par les éléments suivants :
 
@@ -344,7 +358,7 @@ Un registre de couvoir doit être régulièrement tenu et conservé pendant au m
 
 Ce registre est visé régulièrement par le vétérinaire sanitaire responsable de la surveillance du couvoir ainsi que par le directeur départemental des services vétérinaires ou son représentant, lors de leurs visites.
 
-**5. Surveillance de l'hygiène**
+5. Surveillance de l'hygiène
 
 Les bonnes pratiques hygiéniques et sanitaires mises en œuvre dans le couvoir doivent être régulièrement vérifiées par des contrôles visuels et bactériologiques tels que décrits ci-dessous, selon une procédure écrite soumise au directeur départemental des services vétérinaires. Les résultats de ces contrôles doivent être consignés dans un registre qui doit être visé régulièrement par le vétérinaire responsable de la surveillance du couvoir ainsi que par le directeur départemental des services vétérinaires ou son représentant, lors de leurs visites.
 

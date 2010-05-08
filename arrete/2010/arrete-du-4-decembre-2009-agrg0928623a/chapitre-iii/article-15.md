@@ -8,7 +8,7 @@ L'arrêté portant déclaration d'infection entraîne l'exécution des mesures d
 
 3. Réalisation des prélèvements nécessaires au diagnostic ou aux enquêtes épidémiologiques, notamment dans les troupeaux de reproduction dont est issu le troupeau déclaré infecté lorsque l'infection se déclare sur des animaux de moins de six semaines.
 
-4. Elimination des troupeaux de volailles de reproduction infectés sur ordre de l'administration. Par dérogation au point 2 du présent article, le propriétaire des volailles du ou des troupeaux déclarés infectés désirant les éliminer par abattage hygiénique demande un laissez-passer au préfet du département où est situé l'élevage détenant le ou les troupeaux infectés, pour l'expédition vers un abattoir bénéficiant d'un agrément communautaire où est pratiquée une inspection en application des dispositions de l'article L. 231-1 du code rural.
+4. Elimination des troupeaux de volailles de reproduction infectés sur ordre de l'administration. Par dérogation au point 2 du présent article, le propriétaire des volailles du ou des troupeaux déclarés infectés désirant les éliminer par abattage hygiénique demande un laissez-passer au préfet du département où est situé l'élevage détenant le ou les troupeaux infectés, pour l'expédition vers un abattoir bénéficiant d'un agrément communautaire où est pratiquée une inspection en application des dispositions de l'article L. 231-1 du code rural et de la pêche maritime.
 
 5. Précédemment à l'octroi du laissez-passer sanitaire pour l'abattage hygiénique du troupeau déclaré infecté :
 

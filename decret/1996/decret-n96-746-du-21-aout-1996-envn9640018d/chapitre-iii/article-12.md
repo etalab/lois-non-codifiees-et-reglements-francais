@@ -1,6 +1,6 @@
 # Article 12
 
-Les travaux publics ou privés sont interdits, sous réserve de l'application de l'article L. 242-9 du code rural.
+Les travaux publics ou privés sont interdits, sous réserve de l'application de l'article L. 242-9 du code rural et de la pêche maritime.
 
 Toutefois, les travaux nécessités par l'entretien (notamment l'entretien des digues du marais) et la gestion de la réserve ainsi que la rénovation des chemins, des routes et des réseaux de desserte locale peuvent être autorisés par le préfet après avis du comité consultatif.
 

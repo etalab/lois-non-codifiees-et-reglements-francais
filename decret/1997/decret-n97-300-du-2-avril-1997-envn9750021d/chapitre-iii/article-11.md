@@ -6,4 +6,4 @@ Toutefois, les travaux nécessités par l'entretien de la réserve (y compris l'
 
 L'entretien des fossés existants se limitera au faucardage et au curage vieux fonds-vieux bords.
 
-Ces dispositions ne font pas obstacle à celles de l'article L. 242-9 du code rural.
+Ces dispositions ne font pas obstacle à celles de l'article L. 242-9 du code rural et de la pêche maritime.

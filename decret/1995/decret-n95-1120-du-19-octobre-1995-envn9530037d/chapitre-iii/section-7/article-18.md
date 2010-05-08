@@ -10,6 +10,6 @@ Tous travaux publics ou privés sont interdits, à l'exception des travaux suiva
 
 4° Les travaux nécessaires à l'entretien des captages d'eau potable.
 
-L'application du présent article s'entend sous réserve des dispositions prévues à l'article L. 242-9 du code rural relatives aux modifications de l'état ou de l'aspect de la réserve naturelle.
+L'application du présent article s'entend sous réserve des dispositions prévues à l'article L. 242-9 du code rural et de la pêche maritime relatives aux modifications de l'état ou de l'aspect de la réserve naturelle.
 
 En particulier, les travaux nécessaires à la recherche et à la réalisation de captages d'eau potable et les travaux d'ouverture de pistes forestières ou de chemins piétonniers peuvent être autorisés par le ministre de l'environnement.

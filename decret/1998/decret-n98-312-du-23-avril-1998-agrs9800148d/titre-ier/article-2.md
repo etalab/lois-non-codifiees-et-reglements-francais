@@ -6,7 +6,7 @@ Pour prétendre à l'allocation de préretraite, le chef d'exploitation doit :
 
 2° S'engager à transférer les terres et les bâtiments d'exploitation, ainsi que les références de production ou droits à aides qui sont attachés à l'exploitation à la date du dépôt de la demande ;
 
-3° Justifier de l'exercice de l'activité de chef d'exploitation à titre principal pendant au moins les dix années précédant immédiatement la cessation d'activité agricole par la production de documents attestant qu'il a bénéficié pendant cette période des prestations de l'assurance maladie, invalidité et maternité des exploitants agricoles, ou qu'il a été assujetti au régime des assurances sociales agricoles en application de l'article L. 722-21 du code rural ou, à défaut, qu'il a consacré à l'activité d'exploitant agricole plus de 50 % de son temps de travail et en a retiré plus de 50 % de ses revenus.
+3° Justifier de l'exercice de l'activité de chef d'exploitation à titre principal pendant au moins les dix années précédant immédiatement la cessation d'activité agricole par la production de documents attestant qu'il a bénéficié pendant cette période des prestations de l'assurance maladie, invalidité et maternité des exploitants agricoles, ou qu'il a été assujetti au régime des assurances sociales agricoles en application de l'article L. 722-21 du code rural et de la pêche maritime ou, à défaut, qu'il a consacré à l'activité d'exploitant agricole plus de 50 % de son temps de travail et en a retiré plus de 50 % de ses revenus.
 
 Le colon est assimilé à un chef d'exploitation à titre principal dans la mesure où il a consacré à l'activité agricole plus de 50 % de son temps de travail et en a retiré plus de 50 % de ses revenus.
 

@@ -4,7 +4,7 @@ Les terres exploitées en faire-valoir direct et libérées doivent être destin
 
 1.A un ou plusieurs agriculteurs âgés de moins de cinquante ans qui agrandissent leur exploitation, disposant d'une expérience professionnelle agricole d'au moins cinq ans et s'engageant à exploiter ces terres pendant cinq ans au moins ;
 
-2. En vue de contribuer en partie à la première installation ou à la réinstallation d'un jeune agriculteur bénéficiant ou ayant bénéficié d'une aide prévue aux articles D. 343-3 et D. 348-3 du code rural ;
+2. En vue de contribuer en partie à la première installation ou à la réinstallation d'un jeune agriculteur bénéficiant ou ayant bénéficié d'une aide prévue aux articles D. 343-3 et D. 348-3 du code rural et de la pêche maritime ;
 
 En outre, l'agriculteur qui reprend tout ou partie des terres libérées et qui s'installe ou se réinstalle doit s'engager à les exploiter pendant cinq ans au moins ;
 

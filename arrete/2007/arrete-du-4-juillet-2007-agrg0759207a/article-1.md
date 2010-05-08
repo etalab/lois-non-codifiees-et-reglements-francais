@@ -1,6 +1,6 @@
 # Article 1
 
-La Commission nationale d'identification mentionnée à l'article D. 212-13 du code rural est présidée par le directeur général de l'alimentation ou son représentant. Outre son président, elle est composée des membres suivants :
+La Commission nationale d'identification mentionnée à l'article D. 212-13 du code rural et de la pêche maritime est présidée par le directeur général de l'alimentation ou son représentant. Outre son président, elle est composée des membres suivants :
 
 I.-Membres de droit :
 
@@ -36,7 +36,7 @@ I.-Membres de droit :
 
 16. Le chef du bureau des chambres d'agriculture et de leur assemblée permanente à la sous-direction du financement de l'agriculture de la direction des affaires financières et de la logistique ;
 
-17. Le vice-président du              Conseil général de l'alimentation, de l'agriculture et des espaces ruraux ;
+17. Le vice-président du Conseil général de l'alimentation, de l'agriculture et des espaces ruraux ;
 
 18. Le directeur général des L'Institut français du cheval et de l'équitation ;
 

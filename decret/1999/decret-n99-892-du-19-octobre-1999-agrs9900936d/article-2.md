@@ -1,6 +1,6 @@
 # Article 2
 
-Les conditions d'octroi aux jeunes chefs d'exploitation de cultures marines des aides prévues à l'article R. 343-3 du code rural sont les suivantes :
+Les conditions d'octroi aux jeunes chefs d'exploitation de cultures marines des aides prévues à l'article R. 343-3 du code rural et de la pêche maritime sont les suivantes :
 
 I. - Le candidat doit :
 
@@ -22,12 +22,12 @@ II. - Le candidat doit en outre :
 
 1° Présenter un projet de première installation répondant aux prescriptions du schéma des structures prévu à l'article 4-1 du décret du 22 mars 1983 susvisé ;
 
-2° Remplir les conditions prévues aux 2° et 3° de l'article R. 343-5 du code rural ;
+2° Remplir les conditions prévues aux 2° et 3° de l'article R. 343-5 du code rural et de la pêche maritime ;
 
 3° Participer, avant l'octroi des aides, à un stage d'une durée minimale de quarante heures destiné à préparer son installation, organisé par un établissement agréé par le préfet du département où est installé cet établissement, dans des conditions fixées par un arrêté du ministre chargé des cultures marines ;
 
 4° S'engager à exercer dans un délai d'un an, ou de trois ans au maximum dans le cas où le cycle d'élevage nécessite un tel délai, et pour une période d'au moins dix ans, la profession d'exploitant de cultures marines à titre principal en qualité de chef d'exploitation sur un fonds remplissant les conditions fixées au 2° du I ci-dessus ;
 
-5° Prendre les engagements prévus aux 6°, 7° et 8° de l'article R. 343-5 du code rural.
+5° Prendre les engagements prévus aux 6°, 7° et 8° de l'article R. 343-5 du code rural et de la pêche maritime.
 
 Est considéré comme exploitant de cultures marines à titre principal, pour l'application du présent décret, le chef d'exploitation qui consacre aux cultures marines plus de 50 % de son temps de travail et en retire au moins 50 % de ses revenus. Est réputé remplir cette condition l'exploitant qui perçoit les prestations d'assurance maladie du régime de protection sociale des personnes non salariées des professions agricoles ou du régime spécial de sécurité sociale des marins, et dont les revenus non tirés d'activités professionnelles n'excèdent pas un montant fixé par arrêté du ministre chargé des cultures marines.

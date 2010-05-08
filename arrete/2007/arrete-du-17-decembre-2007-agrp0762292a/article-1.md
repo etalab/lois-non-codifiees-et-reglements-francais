@@ -1,8 +1,8 @@
 # Article 1
 
-Le montant des cotisations prévues par l'article L. 641-10 du code rural est fixé à :
+Le montant des cotisations prévues par l'article L. 641-10 du code rural et de la pêche maritime est fixé à :
 
-― 0,08 euro par kilogramme pour les appellations d'origine contrôlées "Farine de châtaigne corse-farina castagnina corsa » et Huile d'olive de Provence" ;
+― 0,08 euro par kilogramme pour les appellations d'origine contrôlées "Farine de châtaigne corse-farina castagnina corsa" et Huile d'olive de Provence" ;
 
 ― à 0,027 euro par kilogramme pour l'appellation d'origine contrôlée "Châtaigne d'Ardèche" ;
 

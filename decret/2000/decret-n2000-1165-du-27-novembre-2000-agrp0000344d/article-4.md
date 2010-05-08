@@ -6,4 +6,4 @@ Cette formalité n'est pas requise :
 
 1° Pour les fournisseurs qui exercent leur commerce uniquement auprès des personnes dont la profession n'est pas de produire ou de vendre des plantes ornementales ou des matériels de multiplication de plantes ornementales ;
 
-2° Pour les fournisseurs inscrits sur le registre officiel du contrôle phytosanitaire conformément à l'article R 251-2 du code rural susvisé.
+2° Pour les fournisseurs inscrits sur le registre officiel du contrôle phytosanitaire conformément à l'article R. 251-2 du code rural et de la pêche maritime susvisé.

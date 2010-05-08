@@ -208,7 +208,7 @@ La mise en place dans un bâtiment d'un lot de volailles après une bande ayant 
 
 C. ― Registre d'élevage
 
-Le registre d'élevage tel que prévu par l'article L. 234-1 du code rural est complété par les informations suivantes :
+Le registre d'élevage tel que prévu par l'article L. 234-1 du code rural et de la pêche maritime est complété par les informations suivantes :
 
 ― attestations d'adhésion à la charte sanitaire, ou de son équivalence, de l'établissement d'origine des animaux et résultats des analyses complémentaires effectuées, le cas échéant ;
 

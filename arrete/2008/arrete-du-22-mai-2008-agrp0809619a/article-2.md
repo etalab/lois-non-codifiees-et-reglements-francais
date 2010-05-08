@@ -2,7 +2,7 @@
 
 Détermination des superficies.
 
-En application de l'article D. 615-11 du code rural, la détermination des superficies des parcelles agricoles s'effectue notamment par le topofil, le planimètre, le système de positionnement par triangulation satellitaire (GPS) et la photo interprétation assistée par ordinateur (PIAO).
+En application de l'article D. 615-11 du code rural et de la pêche maritime, la détermination des superficies des parcelles agricoles s'effectue notamment par le topofil, le planimètre, le système de positionnement par triangulation satellitaire (GPS) et la photo interprétation assistée par ordinateur (PIAO).
 
 Pour les vergers de pruniers d'Ente, de poiriers Williams ou Rocha et de pêchers Pavie, la superficie de la parcelle éligible à l'aide est définie comme suit :
 

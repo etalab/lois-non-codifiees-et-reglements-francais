@@ -1,6 +1,6 @@
 # Article 1
 
-La commission chargée du contrôle de l'attribution du certificat d'aptitude aux fonctions de technicien d'insémination, créée par l'article R. 653-87 du code rural, se compose :
+La commission chargée du contrôle de l'attribution du certificat d'aptitude aux fonctions de technicien d'insémination, créée par l'article R. 653-87 du code rural et de la pêche maritime, se compose :
 
 De représentants du ministre chargé de l'agriculture :
 

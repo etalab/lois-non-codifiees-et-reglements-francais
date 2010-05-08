@@ -1,6 +1,6 @@
 # Article 2
 
-En application de l'article D. 343-9 du code rural, les montants de la dotation d'installation aux jeunes agriculteurs sont fixés comme suit :
+En application de l'article D. 343-9 du code rural et de la pêche maritime, les montants de la dotation d'installation aux jeunes agriculteurs sont fixés comme suit :
 
 Les montants minimaux s'élèvent à :
 

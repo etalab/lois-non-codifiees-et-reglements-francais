@@ -1,6 +1,6 @@
 # Article 12
 
-Les travaux publics ou privés sont, sous réserve des dispositions de l'article L. 242-9 du code rural, interdits, à l'exception :
+Les travaux publics ou privés sont, sous réserve des dispositions de l'article L. 242-9 du code rural et de la pêche maritime, interdits, à l'exception :
 
 - des travaux d'entretien nécessités par la gestion de la réserve ;
 

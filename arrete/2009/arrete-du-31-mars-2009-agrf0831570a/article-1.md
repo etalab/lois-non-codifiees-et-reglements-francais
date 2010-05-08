@@ -4,7 +4,7 @@ Sont exclus de toute indemnisation par le Fonds national de garantie des calamit
 
 I. ― En ce qui concerne les pertes de récolte :
 
-― l'ensemble des risques climatiques sur céréales, oléagineux, protéagineux et plantes industrielles. La liste détaillée de ces cultures figure en annexe du décret prévu à l'article L. 361-8 du code rural ;
+― l'ensemble des risques climatiques sur céréales, oléagineux, protéagineux et plantes industrielles. La liste détaillée de ces cultures figure en annexe du décret prévu à l'article L. 361-8 du code rural et de la pêche maritime ;
 
 ― le risque de grêle, étendu au risque de vent conformément à l'article L. 122-7 du code des assurances, sur toutes autres cultures végétales que celles mentionnées au premier alinéa, y compris les cultures sous abris et les pépinières. Les pertes de récolte sur cultures fourragères dues à la grêle restent toutefois indemnisables par le Fonds national de garantie des calamités agricoles ;
 

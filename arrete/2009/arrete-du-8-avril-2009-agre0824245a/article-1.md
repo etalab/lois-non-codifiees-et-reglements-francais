@@ -1,6 +1,6 @@
 # Article 1
 
-Les qualifications et l'expérience professionnelle mentionnées au deuxième alinéa de l'article R. 211-5-5 du code rural requises pour être agréé à dispenser la formation définie aux articles L. 211-13-1 et R. 211-5-3 du code rural sont les suivantes :
+Les qualifications et l'expérience professionnelle mentionnées au deuxième alinéa de l'article R. 211-5-5 du code rural et de la pêche maritime requises pour être agréé à dispenser la formation définie aux articles L. 211-13-1 et R. 211-5-3 du code rural sont les suivantes :
 
 Soit la détention des diplômes, titres ou qualifications professionnels annexés au présent arrêté ;
 

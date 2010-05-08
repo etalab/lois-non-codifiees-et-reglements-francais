@@ -4,8 +4,8 @@ A partir de ces données et documents, et après avis de la Commission nationale
 
 Ces valeurs sont établies à partir :
 
-- de l'analyse des documents prévus à l'article 7 ;
+-de l'analyse des documents prévus à l'article 7 ;
 
-- du calcul d'éléments statistiques référents pour chaque indicateur ;
+-du calcul d'éléments statistiques référents pour chaque indicateur ;
 
-- du montant du fonds de compensation prévu à l'article L. 653-5 du code rural pour l'année considérée.
+-du montant du fonds de compensation prévu à l'article L. 653-5 du code rural et de la pêche maritime pour l'année considérée.

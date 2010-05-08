@@ -2,7 +2,7 @@
 
 **EXIGENCES ET RECOMMANDATIONS APPLICABLES À LA CERTIFICATION DE CONFORMITÉ DES POISSONS ET CÉPHALOPODES DE LA PÊCHE EN MER**
 
-(Art.R. 641-58 du code rural)
+(Art.R. 641-58 du  code rural et de la pêche maritime)
 
 Les exigences sont les règles de production, de transformation et de conditionnement d'un produit ou d'une famille de produits qui s'imposent à l'opérateur souhaitant obtenir une certification de conformité.
 

@@ -1,14 +1,12 @@
 # Article Annexe II
 
-INSTRUCTIONS RELATIVES À LA PROCÉDURE À SUIVRE
-
-POUR L'ENREGISTREMENT DE LA FILIATION D'UN ÉQUIDÉ
+INSTRUCTIONS RELATIVES À LA PROCÉDURE À SUIVRE POUR L'ENREGISTREMENT DE LA FILIATION D'UN ÉQUIDÉ
 
 Chapitre Ier : Produits issus de saillies déclarées d'étalons ou de baudets approuvés pour produire dans un stud-book ou un registre.
 
 Section 1 : Obligations de l'étalonnier
 
-Pour tout étalon approuvé conformément aux dispositions de l'article R. 653-82 du code rural, un ensemble de cartes de saillie, valable pour une seule saison de monte, est remis par l'établissement public l'Institut français du cheval et de l'équitation au propriétaire de l'étalon ou aux personnes titulaires d'un mandat du propriétaire ou pouvant attester de la propriété des doses.
+Pour tout étalon approuvé conformément aux dispositions de l'article R. 653-82 du code rural et de la pêche maritime, un ensemble de cartes de saillie, valable pour une seule saison de monte, est remis par l'établissement public l'Institut français du cheval et de l'équitation au propriétaire de l'étalon ou aux personnes titulaires d'un mandat du propriétaire ou pouvant attester de la propriété des doses.
 
 Ces cartes indiquent les stud-books et registres pour lesquels l'étalon est approuvé.
 
@@ -20,7 +18,7 @@ Lorsque l'étalon doit changer de lieu de stationnement en cours de saison de mo
 
 Les cartes de saillie, délivrées uniquement aux étalons et aux baudets approuvés pour produire dans un stud-book ou un registre, sont le support utilisé pour l'enregistrement de la filiation de leurs produits. Elles se présentent sous la forme d'une liasse autocopiante composée de plusieurs volets dont une déclaration de premier saut (DPS).
 
-L'étalonnier est tenu de vérifier l'identité des juments qui lui sont présentées préalablement à la saillie et d'apposer son visa sur le document d'identification de la jument. L'étalonnier remplit la DPS dès la première présentation de la jument à l'étalon et la transmet dans les quinze jours suivant le premier saut à l'établissement public l'Institut français du cheval et de l'équitation. Lorsque la monte fait intervenir l'emploi de techniques artificielles de reproduction, ces responsabilités sont assumées par les personnes réalisant les opérations d'insémination et de récolte et de transfert d'embryon.
+L'étalonnier est tenu de vérifier l'identité des juments qui lui sont présentées préalablement à la saillie et d'apposer son visa sur le document d'identification de la jument.L'étalonnier remplit la DPS dès la première présentation de la jument à l'étalon et la transmet dans les quinze jours suivant le premier saut à l'établissement public l'Institut français du cheval et de l'équitation. Lorsque la monte fait intervenir l'emploi de techniques artificielles de reproduction, ces responsabilités sont assumées par les personnes réalisant les opérations d'insémination et de récolte et de transfert d'embryon.
 
 Le manquement à ces règles peut conduire au retrait de l'approbation de l'étalon. En outre, le conseil d'administration de l'établissement public l'institu français du cheval et de l'équitation peut fixer les délais au delà desquels l'enregistrement de la DPS donne lieu à un paiement de frais d'instruction, dont il fixe le montant.
 
@@ -34,7 +32,7 @@ La liasse est composée de quatre volets :
 
 1. La déclaration de premier saut.
 
-2. L'attestation de saillie est remise par l'étalonnier à l'éleveur en fin de monte. L'étalonnier doit y mentionner chaque saut et certifier, par sa signature, la date du dernier saut :
+2.L'attestation de saillie est remise par l'étalonnier à l'éleveur en fin de monte.L'étalonnier doit y mentionner chaque saut et certifier, par sa signature, la date du dernier saut :
 
 Elle atteste la réalisation de la saillie et permet à l'acheteur éventuel de la jument d'être informé sur les sommes restant à verser à l'étalonnier lorsqu'il s'agit d'une saillie à paiement fractionné.
 
@@ -42,7 +40,7 @@ Elle doit obligatoirement être présentée lors du relevé de signalement. Elle
 
 Elle permet de déclarer, le cas échéant, l'avortement, la vacuité ou la mort de la jument et / ou de son produit, et doit alors être retournée, après avoir été complétée au verso, à l'établissement public l'Institut français du cheval et de l'équitation.
 
-3. Le certificat de saillie au verso duquel figure la déclaration de naissance est remis à l'éleveur en fin de monte. L'étalonnier peut conserver ce document jusqu'au règlement intégral du prix de saillie.
+3. Le certificat de saillie au verso duquel figure la déclaration de naissance est remis à l'éleveur en fin de monte.L'étalonnier peut conserver ce document jusqu'au règlement intégral du prix de saillie.
 
 La déclaration de naissance doit être transmise, après avoir été dûment complétée, dans les quinze jours suivant la naissance à l'établissement public l'Institut français du cheval et de l'équitation.
 
@@ -60,7 +58,7 @@ La liasse est composée de trois volets :
 
 La déclaration du résultat de la saillie de l'année précédente est complétée par l'étalonnier et comprend, le cas échéant, la déclaration de naissance du produit qui doit être visée par le naisseur. Il appartient au naisseur de s'assurer que ladite déclaration est correctement remplie avant l'envoi de ce document.
 
-2. Le certificat de saillie est remis par l'étalonnier à l'éleveur en fin de monte. L'étalonnier doit y mentionner chaque saut et certifier, par sa signature, la date du dernier saut. L'étalonnier peut conserver ce document jusqu'au règlement intégral du prix de saillie.
+2. Le certificat de saillie est remis par l'étalonnier à l'éleveur en fin de monte.L'étalonnier doit y mentionner chaque saut et certifier, par sa signature, la date du dernier saut.L'étalonnier peut conserver ce document jusqu'au règlement intégral du prix de saillie.
 
 Il doit être présenté lors du relevé de signalement. Il permet notamment à la personne chargée de relever le signalement d'identifier la saillie dont est issu le produit et de certifier son intervention.
 
@@ -88,7 +86,7 @@ Un contrôle de filiation doit être réalisé pour authentifier la filiation.
 
 Une jument qui est à l'origine d'un transfert embryonnaire doit être déclarée, préalablement à la première saillie, sur un formulaire prévu à cet effet rempli par le propriétaire et transmis à l'établissement public l'Institut français du cheval et de l'équitation.
 
-Après le premier saut, l'étalonnier doit remettre à l'éleveur l'attestation de saillie sur laquelle figure la déclaration du transfert embryonnaire. L'attestation de saillie doit être transmise, après avoir été dûment complétée par le centre de transfert, à l'établissement public l'Institut français du cheval et de l'équitation. Elle sera visée et retournée à l'éleveur de la jument sous huit jours.
+Après le premier saut, l'étalonnier doit remettre à l'éleveur l'attestation de saillie sur laquelle figure la déclaration du transfert embryonnaire.L'attestation de saillie doit être transmise, après avoir été dûment complétée par le centre de transfert, à l'établissement public l'Institut français du cheval et de l'équitation. Elle sera visée et retournée à l'éleveur de la jument sous huit jours.
 
 Lorsqu'une jument est à l'origine de plusieurs transferts, il doit être établi autant de déclarations de premier saut que d'embryons transférés.
 
@@ -96,7 +94,7 @@ Un contrôle de filiation doit être réalisé pour authentifier la filiation.
 
 3. Cas particulier des revues :
 
-Si la jument a été saillie la même année par plusieurs étalons, il y a délivrance de plusieurs documents de saillie. C'est le document correspondant au dernier étalon qu'il convient d'utiliser pour établir la déclaration de naissance.
+Si la jument a été saillie la même année par plusieurs étalons, il y a délivrance de plusieurs documents de saillie.C'est le document correspondant au dernier étalon qu'il convient d'utiliser pour établir la déclaration de naissance.
 
 Un contrôle de filiation doit être réalisé pour authentifier la filiation.
 

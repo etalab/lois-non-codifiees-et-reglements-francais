@@ -6,7 +6,7 @@ Commercialisation des alcools dans les secteurs industriels et énergétiques.
 
 Sans préjudice des contrôles réalisés en application de l'article 14, la preuve de la destination par le distillateur est apportée par la preuve de la livraison à l'opérateur agréé en application de l'article 9 du présent arrêté.
 
-2.L'agrément des opérateurs est prononcé par le directeur de l'établissement créé en application de l'article L. 621-1 du code rural, compétent en matière viticole, sur la base :
+2.L'agrément des opérateurs est prononcé par le directeur de l'établissement créé en application de l'article L. 621-1 du code rural et de la pêche maritime, compétent en matière viticole, sur la base :
 
 ― de la preuve de l'identification auprès de la direction générale des douanes et droits indirects en tant qu'opérateur agréé pour le négoce des alcools ou l'utilisation des alcools ;
 
@@ -24,4 +24,4 @@ Sans préjudice des contrôles réalisés en application de l'article 14, la pre
 
 ― à se soumettre aux contrôles prévus à l'article 14 du présent arrêté.
 
-3.L'agrément peut être retiré temporairement ou définitivement par le directeur de l'établissement créé en application de l'article L. 621-1 du code rural, compétent en matière viticole, si l'opérateur ne satisfait pas aux obligations qui lui incombent en vertu des dispositions communautaires ou nationales.
+3.L'agrément peut être retiré temporairement ou définitivement par le directeur de l'établissement créé en application de l'article L. 621-1 du code rural et de la pêche maritime, compétent en matière viticole, si l'opérateur ne satisfait pas aux obligations qui lui incombent en vertu des dispositions communautaires ou nationales.

@@ -22,7 +22,7 @@ d) Aux assistants d'éducation recrutés en application de l'article L. 916-1 du
 
 3° Le troisième concours est ouvert aux candidats justifiant de l'exercice, pendant une durée de cinq ans au moins, d'une ou de plusieurs des activités professionnelles mentionnées au 3° de l'article 19 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat.
 
-Ne sont pas prises en compte au titre du 3° du présent article les activités professionnelles effectuées en qualité de formateur mentionné à l'article L. 813-9 du code rural.
+Ne sont pas prises en compte au titre du 3° du présent article les activités professionnelles effectuées en qualité de formateur mentionné à l'article L. 813-9 du code rural et de la pêche maritime.
 
 Le nombre des places réservées aux candidats au concours interne ne peut être supérieur à la moitié du nombre des emplois mis au concours externe. Toutefois, les emplois mis à l'un des deux concours qui ne sont pas pourvus par la nomination de candidats de la catégorie correspondante peuvent être attribués aux candidats de l'autre concours dans la limite de 20 % des emplois à pourvoir.
 

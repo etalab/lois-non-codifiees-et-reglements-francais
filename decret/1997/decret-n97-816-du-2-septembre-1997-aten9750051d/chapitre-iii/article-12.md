@@ -1,6 +1,6 @@
 # Article 12
 
-Sous réserve de l'application de l'article L. 242-9 du code rural et des articles 9 et 10 du présent décret, tous travaux publics ou privés sont interdits, sauf ceux nécessaires à l'entretien de la réserve naturelle, et notamment :
+Sous réserve de l'application de l'article L. 242-9 du code rural et de la pêche maritime et des articles 9 et 10 du présent décret, tous travaux publics ou privés sont interdits, sauf ceux nécessaires à l'entretien de la réserve naturelle, et notamment :
 
 1° Les mesures d'entretien nécessaires pour des raisons de sécurité et qui sont liées à l'entretien des digues (travaux de fauchage y compris) ;
 

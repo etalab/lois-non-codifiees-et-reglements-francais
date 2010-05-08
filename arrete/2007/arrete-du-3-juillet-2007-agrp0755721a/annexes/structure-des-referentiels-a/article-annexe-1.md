@@ -4,59 +4,59 @@
 
 Tout dossier nécessite une présentation générale qui permettra de comprendre la motivation de l'opérateur, le champ de la certification, le positionnement du produit, etc. Il comprend les éléments suivants :
 
-- une page de garde comportant :
+-une page de garde comportant :
 
-- nom et coordonnées de l'opérateur ;
+-nom et coordonnées de l'opérateur ;
 
-- nom et coordonnées de l'OC ;
+-nom et coordonnées de l'OC ;
 
-- numéro d'enregistrement ;
+-numéro d'enregistrement ;
 
-- dénominations de vente et désignations précises des produits ;
+-dénominations de vente et désignations précises des produits ;
 
-- visas ;
+-visas ;
 
-- numéro de version (numéro de version du référentiel et, chaque fois que cela est possible, numéro de version du cahier des charges et du plan de contrôle) ;
+-numéro de version (numéro de version du référentiel et, chaque fois que cela est possible, numéro de version du cahier des charges et du plan de contrôle) ;
 
-- date de version du référentiel ;
+-date de version du référentiel ;
 
-- date d'application du référentiel (date sur l'accusé de réception s'il s'agit d'une nouvelle CCP) ;
+-date d'application du référentiel (date sur l'accusé de réception s'il s'agit d'une nouvelle CCP) ;
 
-- une copie du récépissé de l'enregistrement ;
+-une copie du récépissé de l'enregistrement ;
 
-- un sommaire.
+-un sommaire.
 
-1.1. Description du produit
+1. 1. Description du produit
 
 Cette description comprend notamment :
 
-- le ou les produits concernés : dénomination de vente, état (frais, réfrigéré, surgelé, appertisé, pasteurisé, etc.), niveau d'élaboration, composition, etc. ;
+-le ou les produits concernés : dénomination de vente, état (frais, réfrigéré, surgelé, appertisé, pasteurisé, etc.), niveau d'élaboration, composition, etc. ;
 
-- la présentation (vrac, UVC, etc.) ;
+-la présentation (vrac, UVC, etc.) ;
 
-- le champ concerné par la certification demandée (à partir d'où et jusqu'où), etc.
+-le champ concerné par la certification demandée (à partir d'où et jusqu'où), etc.
 
-1.2. Description de l'adéquation du dossier
+1. 2. Description de l'adéquation du dossier
 
 aux objectifs de la politique qualité
 
-Dans la présentation du dossier, le demandeur explique en quoi le dossier contribue à la réalisation des objectifs de la politique de qualité définis dans le code rural.
+Dans la présentation du dossier, le demandeur explique en quoi le dossier contribue à la réalisation des objectifs de la politique de qualité définis dans le code rural et de la pêche maritime.
 
-1.3. Démonstration de la conformité du dossier à la CCP
+1. 3. Démonstration de la conformité du dossier à la CCP
 
-Le demandeur décrit ce qu'il considère comme étant essentiel pour démontrer en quoi il répond aux objectifs fixés par l'article L. 640-1 du code rural et fournit les éléments permettant de différencier le produit certifié du produit courant de même nature.
+Le demandeur décrit ce qu'il considère comme étant essentiel pour démontrer en quoi il répond aux objectifs fixés par l'article L. 640-1 du code rural et de la pêche maritime et fournit les éléments permettant de différencier le produit certifié du produit courant de même nature.
 
 Il indique notamment :
 
-- l'importance du marché ;
+-l'importance du marché ;
 
-- les produits concurrents ;
+-les produits concurrents ;
 
-- la cible commerciale visée ;
+-la cible commerciale visée ;
 
-- les impacts économiques attendus, etc.
+-les impacts économiques attendus, etc.
 
-1.4. Adéquation du positionnement
+1. 4. Adéquation du positionnement
 
 et de la communication liée au produit
 
@@ -68,7 +68,7 @@ Les caractéristiques certifiées (au moins deux [3]) doivent correspondre aux p
 
 des bonnes pratiques
 
-2.1. Respect des règles fixées par les exigences et recommandations " produits "
+2. 1. Respect des règles fixées par les exigences et recommandations " produits "
 
 ainsi que leurs conditions minimales de contrôle
 
@@ -76,13 +76,13 @@ Les règles spécifiques à un produit ou une famille de produits sont publiées
 
 Elles se subdivisent en :
 
-- exigences relatives à ce produit, qui sont d'application obligatoire ;
+-exigences relatives à ce produit, qui sont d'application obligatoire ;
 
-- recommandations décrivant les éléments minimaux devant figurer dans le cahier des charges pour utiliser certaines caractéristiques certifiées ;
+-recommandations décrivant les éléments minimaux devant figurer dans le cahier des charges pour utiliser certaines caractéristiques certifiées ;
 
-- conditions minimales de contrôle (interne et externe).
+-conditions minimales de contrôle (interne et externe).
 
-2.2. Respect des règles définies dans le présent guide
+2. 2. Respect des règles définies dans le présent guide
 
 des bonnes pratiques
 
@@ -104,8 +104,8 @@ Cette déclaration, établie selon le modèle de formulaire figurant en annexe 4
 
 Dans les quinze jours suivant la réception d'une déclaration, il est adressé au déclarant :
 
-- si la déclaration est incomplète, un accusé de réception qui indique les pièces ou informations manquantes ;
+-si la déclaration est incomplète, un accusé de réception qui indique les pièces ou informations manquantes ;
 
-- lorsque la déclaration est complète, un récépissé de déclaration qui indique soit la date à laquelle le certificat de conformité pourra être délivré à l'opérateur, soit les motifs du refus de l'enregistrement.
+-lorsque la déclaration est complète, un récépissé de déclaration qui indique soit la date à laquelle le certificat de conformité pourra être délivré à l'opérateur, soit les motifs du refus de l'enregistrement.
 
-Si une caractéristique complémentaire est proposée, le récépissé indique sa date limite d'utilisation. Sa validité est examinée dans les conditions prévues par l'article R. 651-59 du code rural.
+Si une caractéristique complémentaire est proposée, le récépissé indique sa date limite d'utilisation. Sa validité est examinée dans les conditions prévues par l'article R. 651-59 du code rural et de la pêche maritime.

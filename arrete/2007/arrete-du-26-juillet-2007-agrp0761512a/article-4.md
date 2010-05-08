@@ -1,6 +1,6 @@
 # Article 4
 
-Une race est dite à petits effectifs, au sens de l'article D. 653-9 du code rural, si elle présente sur le territoire national un effectif de moins de 5 000 femelles reproductrices pour les bovins, de 8 000 pour les ovins et caprins et de 1 000 pour les porcins.
+Une race est dite à petits effectifs, au sens de l'article D. 653-9 du code rural et de la pêche maritime, si elle présente sur le territoire national un effectif de moins de 5 000 femelles reproductrices pour les bovins, de 8 000 pour les ovins et caprins et de 1 000 pour les porcins.
 
 Ces effectifs sont déterminés à partir des données du dernier recensement agricole et éventuellement complétés par ceux de l'institut technique en charge de l'espèce concernée.
 

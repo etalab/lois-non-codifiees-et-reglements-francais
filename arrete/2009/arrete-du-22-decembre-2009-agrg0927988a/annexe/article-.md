@@ -10,7 +10,7 @@ Analyses mettant en évidence les infections à salmonelles
 
 des prélèvements
 
-I. - Le propriétaire s'assure que les prélèvements sont envoyés au laboratoire dans les 24 heures suivant leur collecte, ou réfrigérés. L'analyse doit être réalisée dans les 96 heures suivant le prélèvement.
+I.-Le propriétaire s'assure que les prélèvements sont envoyés au laboratoire dans les 24 heures suivant leur collecte, ou réfrigérés.L'analyse doit être réalisée dans les 96 heures suivant le prélèvement.
 
 II. ― Chaque prélèvement transmis pour analyse au laboratoire doit être accompagné d'un document précisant le numéro de SIRET de l'exploitation et le code INUAV (identifiant national unique atelier de volailles) de l'atelier ayant fait l'objet des prélèvements, le lieu et la nature du prélèvement concerné, l'âge des animaux à la date du prélèvement, l'identité de la personne ayant effectué le prélèvement et le nom du vétérinaire sanitaire de l'exploitation.
 
@@ -22,7 +22,7 @@ La recherche de Salmonella dans les prélèvements auxquels il est fait référe
 
 ― pour les prélèvements de muscle, selon la méthode ISO 6579 ou selon toute autre méthode validée AFNOR selon la norme ISO 16140.
 
-Les souches isolées de ces prélèvements doivent faire l'objet d'un sérotypage complet. Par dérogation au chapitre II, les laboratoires nationaux de référence mentionnés à l'article R. 202-2 du code rural réalisent le sérotypage complet lorsque le laboratoire agréé ou reconnu mentionné au chapitre II n'est pas en mesure de l'assurer.
+Les souches isolées de ces prélèvements doivent faire l'objet d'un sérotypage complet. Par dérogation au chapitre II, les laboratoires nationaux de référence mentionnés à l'article R. 202-2 du code rural et de la pêche maritime réalisent le sérotypage complet lorsque le laboratoire agréé ou reconnu mentionné au chapitre II n'est pas en mesure de l'assurer.
 
 Chapitre II
 
@@ -30,7 +30,7 @@ Laboratoires chargés de mettre en évidence
 
 les infections à salmonelles
 
-Les prélèvements officiels, prévus par l'article R. 200-1 du code rural, réalisés par la direction en charge des services vétérinaires ou un vétérinaire sanitaire désigné par celle-ci, sont analysés dans des laboratoires agréés chargés de mettre en évidence les infections à salmonelles dans les conditions fixées au point A.
+Les prélèvements officiels, prévus par l'article R. 200-1 du code rural et de la pêche maritime, réalisés par la direction en charge des services vétérinaires ou un vétérinaire sanitaire désigné par celle-ci, sont analysés dans des laboratoires agréés chargés de mettre en évidence les infections à salmonelles dans les conditions fixées au point A.
 
 Les autres prélèvements obligatoires prévus par le présent arrêté sont analysés :
 
@@ -38,11 +38,11 @@ Les autres prélèvements obligatoires prévus par le présent arrêté sont ana
 
 ― soit dans les laboratoires reconnus chargés de mettre en évidence les infections à salmonelles dans les conditions fixées au point B.
 
-A. - Laboratoires agréés
+A.-Laboratoires agréés
 
-1. Le laboratoire est accrédité dans le cadre du domaine  essais et analyses en bactériologie animale  (116) ou  analyses microbiologiques des produits agroalimentaires  (59) du COFRAC selon les matrices sur lesquelles les analyses sont mises en œuvre.
+1. Le laboratoire est accrédité dans le cadre du domaine essais et analyses en bactériologie animale (116) ou analyses microbiologiques des produits agroalimentaires (59) du COFRAC selon les matrices sur lesquelles les analyses sont mises en œuvre.
 
-2. Les analyses de recherche des salmonelles doivent être effectuées dans le cadre du domaine  essais et analyses en bactériologie animale  (116) selon les textes de référence correspondant à la norme NF U 47 100, variante précisée au point I (2), ou à l'annexe D de l'ISO 6579, ou à la norme NF U 47 101, et dans le cadre du domaine  analyses microbiologiques des produits agroalimentaires  (59) du COFRAC selon la norme ISO 6579, ou selon toute méthode alternative validée AFNOR selon la norme 16140, en fonction du type de prélèvement effectué.
+2. Les analyses de recherche des salmonelles doivent être effectuées dans le cadre du domaine essais et analyses en bactériologie animale (116) selon les textes de référence correspondant à la norme NF U 47 100, variante précisée au point I (2), ou à l'annexe D de l'ISO 6579, ou à la norme NF U 47 101, et dans le cadre du domaine analyses microbiologiques des produits agroalimentaires (59) du COFRAC selon la norme ISO 6579, ou selon toute méthode alternative validée AFNOR selon la norme 16140, en fonction du type de prélèvement effectué.
 
 3. Le laboratoire dispose des capacités de sérotypage en routine des sérovars les plus fréquemment isolés dans l'environnement des filières de production animale listés à l'annexe C de la norme NF U 47 100.
 
@@ -62,7 +62,7 @@ A. - Laboratoires agréés
 
 9. En cas d'urgence justifiée du fait des impacts importants des délais d'analyse, notamment sur la dissémination de l'infection dans la pyramide de production, la sécurité du consommateur, l'économie de l'élevage, le laboratoire s'organise à la demande du préfet pour conduire les analyses et rendre les résultats dans les meilleurs délais.
 
-B. - Laboratoires reconnus
+B.-Laboratoires reconnus
 
 1. Le laboratoire fonctionne selon la norme ISO 17025, dont le respect est attesté par un organisme certificateur.
 

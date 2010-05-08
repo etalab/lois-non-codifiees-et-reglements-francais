@@ -905,7 +905,7 @@
 </td>
 </tr>
 <tr>
-<td colspan="4">(*) Art.R. 726-1 du code rural (article 10 du décret n° 2008-657 du 2 juillet 2008).<br/>
+<td colspan="4">(*) Art.R. 726-1 du code rural et de la pêche maritime (article 10 du décret n° 2008-657 du 2 juillet 2008).<br/>
 </td>
 </tr>
 </tbody>

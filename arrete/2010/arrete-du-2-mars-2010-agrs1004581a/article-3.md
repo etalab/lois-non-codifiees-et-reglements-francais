@@ -4,7 +4,7 @@ Il est créé, au niveau national, un bureau de vote présidé par le secrétair
 
 La liste des électeurs est arrêtée par les soins du secrétaire général.
 
-Elle peut être consultée, dans son intégralité, au ministère de l'alimentation, de l'agriculture et de la pêche, à Paris. Elle est diffusée dans tous les établissements mentionnés à l'article L. 813-8 du code rural et doit être affichée avant le 31 mars 2010.
+Elle peut être consultée, dans son intégralité, au ministère de l'alimentation, de l'agriculture et de la pêche, à Paris. Elle est diffusée dans tous les établissements mentionnés à l'article L. 813-8 du code rural et de la pêche maritime et doit être affichée avant le 31 mars 2010.
 
 Dans les huit jours qui suivent cet affichage, les chefs d'établissement ne figurant pas sur cette liste peuvent présenter des demandes d'inscription.
 

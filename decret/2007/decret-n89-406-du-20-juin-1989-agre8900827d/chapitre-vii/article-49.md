@@ -6,7 +6,7 @@ Le ministre chargé de l'agriculture soumet les propositions des chefs d'établi
 
 Par exception au b de l'article 1er du présent décret, le contrat est souscrit même dans le cas où la demande n'est pas assortie d'une proposition du chef d'établissement.
 
-Sont également reclassés prioritairement dans une autre discipline les personnels relevant des dispositions de l'article 11 du décret n° 2006-79 du 26 janvier 2006 portant diverses mesures sociales applicables aux personnels enseignants et de documentation mentionnés à l'article L. 813-8 du code rural ;
+Sont également reclassés prioritairement dans une autre discipline les personnels relevant des dispositions de l'article 11 du décret n° 2006-79 du 26 janvier 2006 portant diverses mesures sociales applicables aux personnels enseignants et de documentation mentionnés à l'article L. 813-8 du code rural et de la pêche maritime ;
 
 2° Les candidatures des personnels enseignants et de documentation titulaires d'un contrat définitif candidats à un changement d'établissement et des fonctionnaires détachés ;
 
