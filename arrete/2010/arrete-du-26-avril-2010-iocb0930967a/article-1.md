@@ -1,0 +1,3 @@
+# Article 1
+
+En application de la loi n° 2004-809 du 13 août 2004 relative aux libertés et responsabilités locales, le montant du droit à compensation résultant pour certaines régions de la prise en charge des dépenses de fonctionnement des services ou parties de services du ministère de la santé et des sports, dans le domaine de la définition et de la mise en œuvre de la politique de formation des travailleurs sociaux, du versement des aides aux étudiants des formations sociales, de l'autorisation et du financement des formations paramédicales et de l'attribution des bourses aux étudiants des formations paramédicales et aux sages-femmes, en application du décret n° 2008-791 du 20 août 2008 susvisé, est fixé en année pleine à 58 740 euros en 2004.

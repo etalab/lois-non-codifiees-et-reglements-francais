@@ -1,0 +1,3 @@
+# Article 1
+
+En application de la loi n° 2004-809 du 13 août 2004 relative aux libertés et responsabilités locales, le montant du droit à compensation résultant pour les départements de la Loire-Atlantique, de Maine-et-Loire et de la Sarthe de la prise en charge des frais de fonctionnement hors personnels ainsi que des vacations des services ou parties de services du ministère de l'écologie, de l'énergie, du développement durable et de la mer, en charge des technologies vertes et des négociations sur le climat, dans le domaine des voies d'eau, en application du décret du 19 décembre 2008 susvisé, est fixé en année pleine à 46 929 euros en valeur 2007.
