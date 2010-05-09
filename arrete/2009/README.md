@@ -1710,7 +1710,6 @@
 - [Arrêté du 19 octobre 2009 (IMIK0921627A)](arrete-du-19-octobre-2009-imik0921627a)
 - [Arrêté du 19 octobre 2009 (JUSA0924476A)](arrete-du-19-octobre-2009-jusa0924476a)
 - [Arrêté du 19 octobre 2009 (MENF0917924A)](arrete-du-19-octobre-2009-menf0917924a)
-- [Arrêté du 19 septembre 2001 (AGRA0101495A)](arrete-du-19-septembre-2001-agra0101495a)
 - [Arrêté du 19 mai 2008 (DEFD0812675A)](arrete-du-19-mai-2008-defd0812675a)
 - [Arrêté du 19 mai 2009 (BCFB0807199A)](arrete-du-19-mai-2009-bcfb0807199a)
 - [Arrêté du 19 mai 2009 (DEFH0911605A)](arrete-du-19-mai-2009-defh0911605a)
