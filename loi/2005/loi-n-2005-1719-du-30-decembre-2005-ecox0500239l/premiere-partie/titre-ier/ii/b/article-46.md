@@ -60,19 +60,19 @@ La première section, dénommée : " Prêts et avances à des particuliers ou à
 
 La seconde section, dénommée : " Prêts pour le développement économique ou social ", pour laquelle le ministre chargé de l'économie est ordonnateur principal, retrace, respectivement en dépenses et en recettes, le versement et le remboursement des prêts pour le développement économique et social.
 
-IV. - A compter du 1er janvier 2006, il est ouvert dans les écritures du Trésor un compte de concours financiers intitulé :
-
-Prêts à des Etats étrangers.
+IV. - A compter du 1er janvier 2006, il est ouvert dans les écritures du Trésor un compte de concours financiers intitulé : "Prêts à des Etats étrangers".
 
 Le ministre chargé de l'économie est l'ordonnateur principal de ce compte, qui reprend en balance d'entrée le solde des opérations antérieurement enregistrées par les comptes de prêts n° 903-07 Prêts du Trésor à des Etats étrangers et à l'Agence française de développement en vue de favoriser le développement économique et social et n° 903-17 Prêts du Trésor à des Etats étrangers pour la consolidation de dettes envers la France.
 
-Ce compte comporte trois sections.
+Ce compte comporte quatre sections.
 
 La première section retrace, respectivement en dépenses et en recettes, le versement et le remboursement des prêts consentis à des Etats émergents en vue de faciliter la réalisation de projets d'infrastructure.
 
 La deuxième section retrace, respectivement en dépenses et en recettes, le versement et le remboursement des prêts consentis à des Etats étrangers pour consolidation de dette envers la France.
 
 La troisième section retrace, respectivement en dépenses et en recettes, le versement et le remboursement des prêts consentis à l'Agence française de développement en vue de favoriser le développement économique et social dans des Etats étrangers.
+
+La quatrième section retrace, respectivement en dépenses et en recettes, le versement et le remboursement des prêts consentis aux Etats membres de l'Union européenne dont la monnaie est l'euro en vue de favoriser la stabilité financière au sein de la zone euro.
 
 V. - A compter du 1er janvier 2006, il est ouvert dans les écritures du Trésor un compte de concours financiers intitulé :
 
