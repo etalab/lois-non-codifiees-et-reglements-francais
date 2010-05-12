@@ -2,7 +2,7 @@
 
 Les candidats admis aux concours sont nommés architectes et urbanistes de l'Etat élèves et accomplissent un stage d'une durée de un an.
 
-Un arrêté conjoint du ministre chargé de l'équipement, du ministre chargé de la culture et du ministre chargé de la fonction publique fixe les règles d'organisation générale, les modalités et le programme de la formation et des épreuves de validation ainsi que la composition du jury.
+Un arrêté conjoint du ministre chargé du développement durable, du ministre chargé de la culture et du ministre chargé de la fonction publique fixe les règles d'organisation générale, les modalités et le programme de la formation et des épreuves de validation ainsi que la composition du jury.
 
 Les architectes et urbanistes de l'Etat élèves peuvent opter pour le régime de traitement des architectes et urbanistes de l'Etat élèves ou pour le traitement indiciaire auquel ils auraient droit s'ils étaient classés en application des articles 9 ou 11.
 
