@@ -3,6 +3,7 @@
 - [Titre Ier : De la mise à disposition](titre-ier)
 - [Titre II : Du détachement](titre-ii)
 - [TITRE III : Du détachement de certains membres des corps de personnel d'éducation, d'orientation et d'enseignement](titre-iii)
+- [Titre III bis : De l'intégration directe.](titre-iii-bis)
 - [Titre IV : De la position hors cadres des fonctionnaires.](titre-iv)
 - [Titre V : De la disponibilité des fonctionnaires.](titre-v)
 - [Titre VI : Dispositions communes aux titres Ier à V](titre-vi)
