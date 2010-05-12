@@ -1,0 +1,3 @@
+# Article 2
+
+Tous les dossiers font l'objet d'un contrôle effectué suite à la demande de paiement du solde des dépenses. Ce contrôle permet de s'assurer de la réalité des tonnages et de la traçabilité des bois transportés ou stockés du projet subventionné et consiste à vérifier tous les justificatifs que le bénéficiaire est tenu de mettre à disposition de l'administration conformément à ses engagements. Ce contrôle se conclut par la rédaction d'un compte-rendu signé par les deux parties. En cas d'anomalies relevées, le bénéficiaire peut être invité à produire d'autres documents justifiant de la réalité de la dépense.
