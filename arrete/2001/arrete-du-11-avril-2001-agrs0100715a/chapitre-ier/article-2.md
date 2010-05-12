@@ -10,7 +10,7 @@ a) Le directeur du service des affaires financières, sociales et logistiques ou
 
 b) Le chef du bureau des organismes de protection sociale agricole ou son représentant ;
 
-c) Un chef de service régional de l'inspection du travail, de l'emploi et de la politique sociale agricoles ou son représentant.
+c) Le chef de la mission d'audit, d'évaluation et de contrôle des organismes de protection sociale agricole ou son représentant.
 
 2. Représentants de la Fédération nationale des employeurs de la mutualité sociale agricole (FNEMSA) et de la Caisse centrale de la mutualité sociale agricole (CCMSA) :
 
