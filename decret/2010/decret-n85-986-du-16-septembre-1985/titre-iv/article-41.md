@@ -1,0 +1,9 @@
+# Article 41
+
+Le fonctionnaire en position hors cadres est soumis aux régimes statutaire et de retraite régissant la fonction qu'il exerce dans cette position. Les retenues pour pension prévues à l'article L. 61 du code des pensions civiles et militaires de retraite et la contribution complémentaire prévue par la réglementation en vigueur ne sont pas exigibles.
+
+Le fonctionnaire, lorsqu'il cesse d'être en position hors cadres et n'est pas réintégré dans son corps d'origine, peut être admis à la retraite et prétendre à la pension prévue à l'article L. 4 du code des pensions civiles et militaires de retraite. La jouissance de cette dernière pension est immédiate lorsque la position hors cadres prend fin en raison d'une invalidité mettant le fonctionnaire dans l'impossibilité définitive et absolue tant de continuer l'exercice de ses fonctions dans l'organisme auprès duquel il avait été placé en position hors cadres, que d'être réintégré dans son administration d'origine. Cette invalidité est appréciée, dans les conditions prévues à l'article L. 31 du code des pensions civiles et militaires de retraite, par la commission de réforme de l'administration d'origine.
+
+En cas de réintégration du fonctionnaire dont, la position hors cadres prend fin, ses droits à pension au regard du code des pensions civiles et militaires de retraite recommencent à courir à compter de ladite réintégration.
+
+Toutefois, dans le cas où il ne pourrait prétendre à pension au titre du régime de retraite auquel il a été affilié pendant sa position hors cadres, il peut, dans les trois mois suivant sa réintégration, solliciter la prise en compte au titre du code des pensions civiles et militaires de retraite de la période considérée sous réserve du versement de la retenue prévue à l'article L. 61 du code des pensions civiles et militaires de retraite correspondant à ladite période calculée sur les émoluments attachés à l'emploi dans lequel il est réintégré.
