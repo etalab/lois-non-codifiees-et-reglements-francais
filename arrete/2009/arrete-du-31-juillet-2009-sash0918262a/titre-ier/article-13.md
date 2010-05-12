@@ -6,4 +6,4 @@ Le jury est composé du directeur de l'institut de formation en soins infirmiers
 
 Le président du jury choisit les sujets parmi les questions proposées par les équipes enseignantes de chaque institut de formation en soins infirmiers.
 
-Les modalités des épreuves de sélection ainsi que les sujets sont soumis à l'approbation du préfet de région.
+Les modalités des épreuves de sélection ainsi que les sujets sont soumis à l'approbation du directeur général de l'agence régionale de santé.

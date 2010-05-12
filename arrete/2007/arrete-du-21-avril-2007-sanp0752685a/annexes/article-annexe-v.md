@@ -1,8 +1,6 @@
 # Article Annexe V
 
-RAPPORT ANNUEL D'ACTIVITÉ
-
-DES INSTITUTS DE FORMATION
+RAPPORT ANNUEL D'ACTIVITÉ DES INSTITUTS DE FORMATION
 
 Ce document comporte des informations relatives aux points suivants :
 
@@ -42,7 +40,7 @@ III. - Activités de recherche
 
 Type d'activités réalisées.
 
-IV. - Suivi par la DRASS sur le bilan annuel pédagogique
+IV. - Suivi par l'agence régionale de santé sur le bilan annuel pédagogique
 
 Evaluation du projet pédagogique de la formation préparant au diplôme d'Etat.
 

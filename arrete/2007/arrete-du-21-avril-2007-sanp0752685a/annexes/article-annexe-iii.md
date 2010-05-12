@@ -4,7 +4,7 @@ LISTE DES MEMBRES DU CONSEIL DE DISCIPLINE
 
 Instituts de formation en soins infirmiers
 
-Le représentant de l'Etat dans le département ou son représentant, président.
+Le directeur général de l'agence régionale de santé ou son représentant, président.
 
 Le directeur de l'institut de formation en soins infirmiers.
 
@@ -20,7 +20,7 @@ Un représentant des étudiants par promotion, tiré au sort parmi les six élus
 
 Instituts de formation en masso-kinésithérapie
 
-Le représentant de l'Etat dans le département ou son représentant, président.
+Le directeur général de l'agence régionale de santé ou son représentant, président.
 
 Le directeur de l'institut de formation en masso-kinésithérapie.
 
@@ -28,7 +28,7 @@ Le directeur de l'établissement de santé ou de l'organisme gestionnaire, suppo
 
 Le médecin chargé d'enseignement à l'institut de formation élu au conseil pédagogique. Dans le cas où deux médecins ont été élus au conseil pédagogique au titre des personnes chargées d'enseignement à l'institut de formation, un tirage au sort est effectué pour désigner la personne siégeant au conseil de discipline.
 
-Le cadre de santé masseur-kinésithérapeute désigné par le représentant de l'Etat et siégeant au conseil pédagogique.
+Le cadre de santé masseur-kinésithérapeute désigné par le directeur de l'institut de formation et siégeant au conseil pédagogique.
 
 Un cadre de santé masseur-kinésithérapeute, enseignant de l'institut de formation, tiré au sort parmi les deux élus au conseil pédagogique.
 
@@ -36,7 +36,7 @@ Un représentant des étudiants par promotion, tiré au sort parmi les six élus
 
 Instituts de formation en pédicurie-podologie
 
-Le représentant de l'Etat dans le département ou son représentant, président.
+Le directeur général de l'agence régionale de santé ou son représentant, président.
 
 Le directeur de l'institut de formation en pédicurie-podologie.
 
@@ -52,13 +52,13 @@ Un représentant des étudiants par promotion, tiré au sort parmi les six élus
 
 Instituts de formation en ergothérapie
 
-Le représentant de l'Etat dans le département ou son représentant, président.
+Le directeur général de l'agence régionale de santé ou son représentant, président.
 
 Le directeur de l'institut de formation en ergothérapie.
 
 Le directeur de l'établissement de santé ou le responsable de l'organisme gestionnaire, support de l'institut de formation, ou son représentant.
 
-L'ergothérapeute désigné par le représentant de l'Etat et siégeant au conseil pédagogique.
+L'ergothérapeute désigné par le directeur de l'institut de formation et siégeant au conseil pédagogique.
 
 Une personne tirée au sort parmi les deux personnes chargées d'enseignement à l'institut de formation élues au conseil pédagogique.
 
@@ -68,7 +68,7 @@ Un représentant des étudiants par promotion, tiré au sort parmi les six élus
 
 Instituts de formation de manipulateurs d'électroradiologie médicale
 
-Le représentant de l'Etat dans le département ou son représentant, président.
+Le directeur général de l'agence régionale de santé ou son représentant, président.
 
 Le directeur de l'institut de formation de manipulateurs d'électroradiologie médicale.
 
@@ -84,7 +84,7 @@ Un représentant des étudiants par promotion, tiré au sort parmi les six élus
 
 Instituts de formation de techniciens en analyses biomédicales
 
-Le représentant de l'Etat dans le département ou son représentant, président.
+Le directeur général de l'agence régionale de santé ou son représentant, président.
 
 Le directeur de l'institut de formation de techniciens en analyses biomédicales.
 

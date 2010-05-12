@@ -1,10 +1,10 @@
 # Article 5
 
-Pour les candidats visés au 7° de l'article 4, le préfet de région réunit annuellement un jury de présélection chargé d'établir la liste des candidats autorisés à se présenter aux épreuves de sélection dans les instituts de formation en soins infirmiers.
+Pour les candidats visés au 7° de l'article 4, le directeur général de l'agence régionale de santé réunit annuellement un jury de présélection chargé d'établir la liste des candidats autorisés à se présenter aux épreuves de sélection dans les instituts de formation en soins infirmiers.
 
-Il arrête, sur proposition du directeur régional des affaires sanitaires et sociales, la composition du jury de présélection, qui comprend :
+Il arrête la composition du jury de présélection, qui comprend :
 
-1° Le directeur régional des affaires sanitaires et sociales ou son représentant, président ;
+1° Le directeur général de l'agence régionale de santé ou son représentant, président ;
 
 2° Le directeur des soins exerçant la fonction de conseiller pédagogique régional ou de conseiller technique régional ;
 
