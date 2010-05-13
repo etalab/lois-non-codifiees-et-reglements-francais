@@ -12,4 +12,14 @@ Peuvent, en outre, donner lieu à rémunération les prestations de service rend
 
 5° La réalisation de travaux d'édition ;
 
-6° La vente d'espaces pour l'insertion de messages publicitaires dans les publications de la direction générale de l'aviation civile.
+6° La vente d'espaces pour l'insertion de messages publicitaires dans les publications de la direction générale de l'aviation civile ;
+
+7° La fourniture de prestations de contrôle de la circulation aérienne par voie contractuelle ;
+
+8° La fourniture de prestations de formations aéronautiques ;
+
+9° L'expertise apportée aux organismes œuvrant à la promotion de la sécurité dans l'aviation civile ;
+
+10° La location d'aéronefs à vocation de formation ou de prestations techniques ;
+
+11° L'organisation ou la participation à l'organisation de colloques, conférences, séminaires, salons et location de salles ou d'espaces.
