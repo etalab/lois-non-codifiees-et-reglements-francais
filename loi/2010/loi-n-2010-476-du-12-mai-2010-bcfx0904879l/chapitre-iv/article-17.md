@@ -1,0 +1,15 @@
+# Article 17
+
+L'entreprise sollicitant l'agrément précise les modalités d'accès et d'inscription à son site de tout joueur et les moyens lui permettant de s'assurer de l'identité de chaque nouveau joueur, de son âge, de son adresse et de l'identification du compte de paiement sur lequel sont reversés ses avoirs. Elle s'assure également, lors de l'ouverture initiale du compte joueur et lors de toute session de jeu, que le joueur est une personne physique, en requérant l'entrée d'un code permettant d'empêcher les inscriptions et l'accès de robots informatiques.
+
+Elle justifie, auprès de l'Autorité de régulation des jeux en ligne, compte tenu de la date de transmission des documents d'ouverture de compte, du processus assurant qu'un compte joueur est ouvert à tout nouveau joueur ou parieur avant toute activité de jeu ou de pari et, pour les personnes autres que celles visées à l'article 68, que cette ouverture et l'approvisionnement initial par son titulaire sont intervenus postérieurement à sa date d'agrément.
+
+L'ouverture d'un compte joueur ne peut être réalisée qu'à l'initiative de son titulaire et après sa demande expresse, à l'exclusion de toute procédure automatique.
+
+L'opérateur agréé de jeux ou de paris en ligne peut proposer au joueur, de manière provisoire, une activité de jeu d'argent ou de pari en ligne avant vérification des éléments mentionnés au premier alinéa. Cette vérification et celle de la majorité du joueur conditionnent toutefois la validation du compte joueur et la restitution de son éventuel solde créditeur.
+
+Le compte joueur ne peut être crédité que par son titulaire au titre des approvisionnements qu'il réalise dans les conditions définies au présent article ou par l'opérateur agréé qui détient le compte soit au titre des gains réalisés par le joueur, soit à titre d'offre promotionnelle.
+
+L'approvisionnement d'un compte joueur par son titulaire ne peut être réalisé qu'au moyen d'instruments de paiement mis à disposition par un prestataire de services de paiement établi dans un Etat membre de la Communauté européenne ou un Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention contenant une clause d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales. Seuls peuvent être utilisés les instruments de paiement mentionnés au chapitre III du titre III du livre Ier du code monétaire et financier.
+
+Les avoirs du joueur auprès de l'opérateur ne peuvent être reversés que sur un seul compte de paiement ouvert par le joueur auprès d'un prestataire de services de paiement établi dans un Etat membre de la Communauté européenne ou un Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention contenant une clause d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales. Le joueur communique à l'opérateur les références de ce compte de paiement lors de l'ouverture de son compte joueur. Le reversement de ces avoirs ne peut être réalisé que par virement vers ce compte de paiement.

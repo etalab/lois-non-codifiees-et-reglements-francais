@@ -1,0 +1,3 @@
+# Article 10
+
+La décision d'agrément précise les caractéristiques des jeux ou paris en ligne que le titulaire de l'agrément est en droit d'exploiter, en énumérant les noms de domaine prévus au second alinéa de l'article 5. Elle rappelle que le titulaire de l'agrément doit, préalablement au début de son activité, déclarer à l'Autorité de régulation des jeux en ligne la mise en fonctionnement du support matériel d'archivage mentionné à l'article 31 de la loi du 12 mai 2010 susvisée. La décision d'agrément rappelle également les obligations de certification pesant sur le titulaire en vertu de l'article 23 de la même loi.
