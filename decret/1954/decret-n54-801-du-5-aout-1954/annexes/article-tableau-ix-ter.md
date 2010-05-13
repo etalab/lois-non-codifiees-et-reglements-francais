@@ -1,3 +1,0 @@
-# Article Tableau IX ter
-
-
