@@ -1,9 +1,7 @@
 # Article 5
 
-Toutefois, les sociétés remplissant les conditions prescrites par l'article 2 pourront, en vertu d'une autorisation spéciale et toujours révocable du ministre de l'agriculture, et moyennant un prélèvement fixe en faveur des oeuvres locales de bienfaisance et de l'élevage, organiser le pari mutuel, mais sans que cette autorisation puisse infirmer les autres dispositions de l'article 4.
+Toutefois, les sociétés remplissant les conditions prescrites par l'article 2 peuvent, en vertu d'une autorisation spéciale et toujours révocable du ministre chargé de l'agriculture et moyennant le versement des prélèvements légaux, organiser le pari mutuel, mais sans que cette autorisation puisse infirmer les autres dispositions de l'article 4.
 
-Un décret, rendu sur la proposition du ministre de l'agriculture, déterminera les conditions d'application du présent texte.
+Les sociétés visées au troisième alinéa de l'article 2 et leurs groupements constitués à cette fin peuvent, en complément de leur objet principal, étendre celui-ci à l'organisation et à la prise de paris en ligne, dans les conditions prévues par la loi n° 2010-476 du 12 mai 2010 relative à l'ouverture à la concurrence et à la régulation du secteur des jeux d'argent et de hasard en ligne, portant sur toute compétition sportive ouverte à la prise de paris ainsi qu'à tous les jeux de cercle autorisés par la même loi.
 
-Les frais d'organisation du pari mutuel, en dehors des champs de courses et des sièges sociaux des sociétés de courses, ne pourront être imputés sur les pourcentages attribués aux sociétés de courses pour plus de 2 % du chiffre d'affaires ainsi réalisé ; le complément desdits frais sera imputé sur les pourcentages actuellement attribués à d'autres bénéficiaires que les sociétés de courses.
-
-Un décret rendu sur la proposition du ministre de l'agriculture déterminera la quotité des prélèvements ci-dessus visés, les formes et les conditions de fonctionnement du pari mutuel.
+Un décret en Conseil d'Etat détermine les conditions d'application du présent texte.

@@ -4,7 +4,7 @@ Les personnes physiques coupables des infractions prévues par la présente loi,
 
 1° L'interdiction, suivant les modalités prévues par l'article 131-26 du code pénal, des droits civiques, civils et de famille ;
 
-2° La confiscation des biens mobiliers ayant servi directement ou indirectement à commettre l'infraction ou qui en sont le produit, y compris les fonds ou effets exposés au jeu ou mis en loterie ainsi que les meubles ou effets mobiliers dont les lieux sont garnis ou décorés, à l'exception des objets susceptibles de restitution ;
+2° La confiscation des biens meubles ou immeubles, divis ou indivis, ayant servi directement ou indirectement à commettre l'infraction ou qui en sont le produit, y compris les fonds ou effets exposés au jeu ou mis en loterie ainsi que les meubles ou effets mobiliers dont les lieux sont garnis ou décorés, à l'exception des objets susceptibles de restitution ;
 
 3° L'affichage ou la diffusion de la décision prononcée dans les conditions prévues par l'article 131-35 du code pénal ;
 
