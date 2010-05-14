@@ -1,0 +1,3 @@
+# Article 2
+
+Le temps d'attente minimum applicable lorsque le vétérinaire administre à des équidés identifiés, conformément à l'article L. 212-9 du code rural et déclarés comme étant destinés à l'abattage pour la consommation humaine, un médicament contenant des substances à action pharmacologique inscrites sur la liste fixée par le règlement (CE) n° 1950/2006 de la Commission du 13 décembre 2006 établissant, conformément à la directive 2001/82/CE du Parlement européen et du Conseil instituant un code communautaire relatif aux médicaments vétérinaires, une liste de substances essentielles pour les équidés, est fixé à six mois.
