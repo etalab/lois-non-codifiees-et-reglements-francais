@@ -1,6 +1,6 @@
 # Article 2
 
-La direction de l'enseignement est assurée par un professeur des universités-praticien hospitalier (gynécologue-obstétricien), nommé par arrêté du préfet de région.
+La direction de l'enseignement est assurée par un professeur des universités-praticien hospitalier (gynécologue-obstétricien), nommé par arrêté du directeur général de l'agence régionale de santé.
 
 La direction de l'école est assurée par un directeur d'école de sages-femmes recruté par concours professionnel sur titres, dans les conditions prévues par le décret du 26 octobre 1990 susvisé.
 

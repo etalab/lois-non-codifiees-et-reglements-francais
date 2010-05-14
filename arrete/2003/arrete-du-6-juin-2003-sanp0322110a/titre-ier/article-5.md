@@ -2,7 +2,7 @@
 
 Le médecin directeur de l'enseignement et le directeur de l'école sont assistés d'un conseil technique composé comme suit :
 
-Le médecin inspecteur régional de la santé ou un médecin inspecteur de santé publique le représentant, président ;
+Le directeur général de l'agence régionale de santé ou son représentant, président ;
 
 Le président d'université ou son représentant ;
 
@@ -16,11 +16,11 @@ Le directeur de l'école ;
 
 Deux professeurs enseignants à l'école ;
 
-La ou les sages-femmes moniteurs ;
+La ou les sages-femmes cadres ou cadres supérieurs titulaires du diplôme de cadre sage-femme ;
 
 Deux représentants des étudiants ;
 
-Une sage-femme directeur ou une sage-femme moniteur d'une école de sages-femmes et une sage-femme cadre supérieur, désignées par le médecin inspecteur régional de la santé sur proposition du médecin directeur de l'enseignement de l'école.
+Une sage-femme directeur ou une sage-femme cadre ou cadre supérieur, titulaire du diplôme de cadre sage-femme d'une école de sages-femmes et une sage-femme cadre supérieur, désignées par le directeur général de l'agence régionale de santé sur proposition du médecin directeur de l'enseignement de l'école.
 
 Le président réunit le conseil technique au moins une fois par an. Ce conseil peut également se réunir, en tant que de besoin, à l'initiative du médecin directeur de l'enseignement ou du directeur de l'école.
 
@@ -32,4 +32,4 @@ Le conseil technique est appelé à donner son avis sur les questions relatives 
 
 Le cas des étudiants présentant des inaptitudes est soumis au conseil technique qui peut prononcer leur exclusion.
 
-En cas d'absences répétées, les étudiants peuvent être exclus des épreuves du certificat cadre par le conseil technique.
+En cas d'absences répétées, les étudiants peuvent être exclus des épreuves du diplôme de cadre par le conseil technique.

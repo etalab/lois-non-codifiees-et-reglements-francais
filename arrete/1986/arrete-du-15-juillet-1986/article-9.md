@@ -2,21 +2,21 @@
 
 Il est institué dans chaque école un conseil technique composé comme suit :
 
-- le médecin inspecteur régional de la santé ou son représentant médecin, président ;
+-le directeur général de l'agence régionale de santé ou son représentant, président ;
 
-- le directeur de l'unité de formation et de recherche de médecine ou son représentant, vice-président ;
+-le directeur de l'unité de formation et de recherche de médecine ou son représentant, vice-président ;
 
-- le directeur de l'établissement gestionnaire ou son représentant ;
+-le directeur de l'établissement gestionnaire ou son représentant ;
 
-- le médecin directeur technique et d'enseignement ;
+-le médecin directeur technique et d'enseignement ;
 
-- la sage-femme directeur (ou directrice) ;
+-la sage-femme directeur (ou directrice) ;
 
-- deux représentants des professeurs enseignants à l'école ;
+-deux représentants des professeurs enseignants à l'école ;
 
-- les sages-femmes moniteurs (ou monitrices) ;
+-les       sages-femmes cadres ou cadres supérieures ;
 
-- un ou une élève par année d'études désigné dans les conditions prévues à l'article 4 du règlement intérieur type.
+-un ou une élève par année d'études désigné dans les conditions prévues à l'article 4 du règlement intérieur type.
 
 Selon les questions inscrites à l'ordre du jour des personnalités qualifiées ou tout autre membre du personnel de l'école, peuvent être appelés à participer aux réunions avec voix consultative.
 

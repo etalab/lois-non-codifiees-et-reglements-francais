@@ -6,7 +6,7 @@ Les questions relatives à l'enseignement ;
 
 La désignation des professeurs chargés de dispenser les enseignements ;
 
-La nomination des sages-femmes directeurs (ou directrices) et des sages-femmes moniteurs (ou monitrices) dont la situation n'est pas réglementée par un statut public particulier ;
+La nomination des sages-femmes directeurs (ou directrices) et des       sages-femmes cadres ou cadres supérieures dont la situation n'est pas réglementée par un statut public particulier ;
 
 L'avant projet du budget de l'école : le conseil technique peut faire des propositions d'utilisation des crédits de fonctionnement ;
 
@@ -18,4 +18,4 @@ Les demandes de reprise des études formulées par les anciens élèves qui éta
 
 Le cas des élèves présentant des inaptitudes pratiques ou théoriques est soumis au conseil technique qui donne son avis sur leur exclusion éventuelle de la formation.
 
-Les représentants des élèves ne participent pas au conseil technique lors de la désignation des professeurs enseignants et des sages-femmes directeurs (ou directrices) et des sages-femmes moniteurs (ou monitrices).
+Les représentants des élèves ne participent pas au conseil technique lors de la désignation des professeurs enseignants et des sages-femmes directeurs (ou directrices) et des       sages-femmes cadres ou cadres supérieures.
