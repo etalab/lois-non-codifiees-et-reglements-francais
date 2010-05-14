@@ -887,7 +887,6 @@
 - [Arrêté du 11 février 2009 (MAEF0903072A)](arrete-du-11-fevrier-2009-maef0903072a)
 - [Arrêté du 11 février 2009 (SJSG0901200A)](arrete-du-11-fevrier-2009-sjsg0901200a)
 - [Arrêté du 11 janvier 1999 (DEFA9901033A)](arrete-du-11-janvier-1999-defa9901033a)
-- [Arrêté du 11 juin 2009 (AGRM0912764A)](arrete-du-11-juin-2009-agrm0912764a)
 - [Arrêté du 11 juin 2009 (DEFD0913496A)](arrete-du-11-juin-2009-defd0913496a)
 - [Arrêté du 11 juin 2009 (DEFH0905296A)](arrete-du-11-juin-2009-defh0905296a)
 - [Arrêté du 11 juin 2009 (DEFH0912340A)](arrete-du-11-juin-2009-defh0912340a)
