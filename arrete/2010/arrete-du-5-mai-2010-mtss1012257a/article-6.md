@@ -1,0 +1,3 @@
+# Article 6
+
+Le directeur de la sécurité sociale au ministère du travail, de la solidarité et de la fonction publique est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

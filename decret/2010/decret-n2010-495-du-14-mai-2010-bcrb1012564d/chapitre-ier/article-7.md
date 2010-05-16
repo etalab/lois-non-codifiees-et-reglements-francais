@@ -1,0 +1,3 @@
+# Article 7
+
+L'opérateur mis en cause est convoqué devant la commission des sanctions par lettre recommandée avec demande d'avis de réception, remise en main propre contre récépissé, par acte d'huissier ou par tout moyen permettant d'attester de la réception, y compris par voie électronique, dans un délai qui ne peut être inférieur à trente jours. Cette notification mentionne le nom des membres de la commission des sanctions appelés à délibérer. Une copie de cette convocation est communiquée au président de l'Autorité de régulation des jeux en ligne par tout moyen permettant d'attester de la date de réception, y compris par voie électronique.
