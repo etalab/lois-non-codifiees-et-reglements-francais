@@ -1368,7 +1368,6 @@
 - [Arrêté du 16 septembre 2009 (IOCO0903999A)](arrete-du-16-septembre-2009-ioco0903999a)
 - [Arrêté du 16 septembre 2009 (MTSA0916033A)](arrete-du-16-septembre-2009-mtsa0916033a)
 - [Arrêté du 16 septembre 2009 (SASS0921576A)](arrete-du-16-septembre-2009-sass0921576a)
-- [Arrêté du 16 mai 2003 (DEFA0301588A)](arrete-du-16-mai-2003-defa0301588a)
 - [Arrêté du 17 août 2009 (AGRS0919366A)](arrete-du-17-aout-2009-agrs0919366a)
 - [Arrêté du 17 août 2009 (AGRS0919518A)](arrete-du-17-aout-2009-agrs0919518a)
 - [Arrêté du 17 août 2009 (DEFA0923860A)](arrete-du-17-aout-2009-defa0923860a)
