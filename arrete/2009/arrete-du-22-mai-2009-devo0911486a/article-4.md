@@ -2,7 +2,7 @@
 
 Les données de la BNV-D peuvent être transmises en tout ou en partie :
 
-― aux agences de l'eau ;
+― aux agences et offices de l'eau ;
 
 ― aux ministères chargés respectivement de l'environnement, de l'agriculture, de la santé, de la consommation et de la répression des fraudes ;
 

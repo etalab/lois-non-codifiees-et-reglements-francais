@@ -10,8 +10,8 @@ Les informations nominatives contenues dans la Banque nationale des ventes conce
 
 ― les quantités vendues par an par numéro d'autorisation de mise sur le marché et par substance ;
 
-― la ou les agence(s) de l'eau concernée(s) par ces ventes ;
+― la ou les agences ou le ou les offices de l'eau concernés par ces ventes ;
 
-― l'assiette de la redevance pour chacune de ces agences de l'eau.
+― l'assiette de la redevance pour chacune de ces agences et chacun de ces offices de l'eau.
 
 Ces informations sont conservées trente ans à compter de la fin de la dernière année où la commercialisation du numéro d'autorisation de mise sur le marché vendu est autorisée.
