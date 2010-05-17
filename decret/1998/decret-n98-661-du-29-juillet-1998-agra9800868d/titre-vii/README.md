@@ -1,3 +1,0 @@
-# TITRE VII : COMMISSION PARITAIRE DE CENTRE.
-
-- [Article 39](article-39.md)
