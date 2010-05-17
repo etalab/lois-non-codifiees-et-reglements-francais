@@ -2787,7 +2787,6 @@
 - [Arrêté du 28 décembre 2009 (MTSS0931685A)](arrete-du-28-decembre-2009-mtss0931685a)
 - [Arrêté du 28 février 1995 (INTD9500183A)](arrete-du-28-fevrier-1995-intd9500183a)
 - [Arrêté du 28 janvier 2009 (AGRG0902537A)](arrete-du-28-janvier-2009-agrg0902537a)
-- [Arrêté du 28 janvier 2009 (DEFH0902487A)](arrete-du-28-janvier-2009-defh0902487a)
 - [Arrêté du 28 janvier 2009 (DEVA0809502A)](arrete-du-28-janvier-2009-deva0809502a)
 - [Arrêté du 28 janvier 2009 (DEVR0902332A)](arrete-du-28-janvier-2009-devr0902332a)
 - [Arrêté du 28 janvier 2009 (DEVR0902352A)](arrete-du-28-janvier-2009-devr0902352a)
