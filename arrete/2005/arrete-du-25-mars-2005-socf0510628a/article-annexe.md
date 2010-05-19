@@ -1,82 +1,76 @@
 # Article Annexe
 
-A N N E X E
-
 INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
 
 Intitulé :
 
-Titre professionnel : sellier(ère) garnisseur(se) (ancien intitulé : sellerie générale).
+Titre professionnel : sellier garnisseur.
 
 Niveau : V.
 
-Code NSF : 243 r.
+Code NSF : 243 s.
 
 Résumé du référentiel d'emploi
 
-Le (la) sellier(ère) garnisseur(se) est un(e) ouvrier(ère) qualifié(e) qui confectionne, à l'unité ou en petites séries, des sièges, des habillages et des aménagements intérieurs pour les automobiles, les véhicules de transport en commun et industriels et pour les engins. Il (elle) réalise également des capotes de cabriolets, des bâches pour les poids lourds ainsi que des articles divers de sellerie en cuir.
+Le sellier est un ouvrier qualifié qui confectionne, à l'unité ou en petites séries, des sièges, des habillages et aménagements intérieurs pour les véhicules automobiles, pour les différents matériels de transport en commun et industriels. Il réalise également des capotes de cabriolet, des bâches pour poids lourds et remorques, ainsi que divers articles de sellerie en cuir.
 
-Dans le domaine de l'ameublement, il (elle) confectionne et répare des sièges contemporains, des fauteuils et articles de bureau, des stores et réalise des aménagements pour les salles de spectacle. Il (elle) peut être conduit(e) également à confectionner des toiles de tente, des articles de sport, des parasols et des bâches.
+Il intervient lors de l'aménagement d'intérieurs et l'équipement de camping cars, bateaux, locaux privatifs et commerciaux.
 
-Pour réaliser ses ouvrages de sellerie, il (elle) prend des mesures et fabrique les patrons et les gabarits nécessaires à la fabrication. Il (elle) découpe avec précision des pièces en mousse, tissus, cuirs, matériaux synthétiques... et les assemble à l'aide d'une machine à coudre, mais parfois également par collage, agrafage... ou par soudage pour le PVC. Pour la réparation des sièges, il (elle) peut être amené(e) à changer des ressorts et des armatures.
+Pour le secteur du plein air, il confectionne les toiles de stores, les housses d'articles de sport, des chapiteaux, et des bâches diverses.
 
-Le (la) sellier(ère) s'organise et effectue, en relative autonomie, les travaux qui lui sont confiés par le chef d'entreprise ou par son supérieur hiérarchique. Il (elle) gère les différentes étapes de la confection et installe parfois le produit fini chez le client.
+Le sellier garnisseur exerce généralement dans des entreprises artisanales travaillant les matériaux souples de toutes natures, dans des entreprises de construction ou d'aménagement de véhicules, dans des structures d'étude et de création de prototypes, sur une activité de sellerie.
 
-Il (elle) doit respecter les règles de l'art en usage dans le métier, tout en se conformant à des consignes particulières, notamment lorsqu'il (elle) intervient sur des sièges équipés d'airbag.
+Les horaires de travail sont en principe réguliers, mais peuvent être tributaires des délais de livraison des articles fabriqués.
 
-Compétences attestées et descriptif
+En raison du caractère principalement artisanal de la profession, l'ouvrier sellier assume seul la totalité des tâches relatives aux travaux de confection ou de rénovation d'articles de sellerie.
+
+Le sellier est responsable de la qualité du travail produit vis-à-vis de son supérieur hiérarchique, qui est aussi la plupart du temps le chef d'entreprise. Il doit également préserver de bonnes relations avec les clients qu'il côtoie régulièrement.
+
+Capacités attestées et descriptif
 
 des composantes de la certification
 
-1. Confectionner les articles en matériaux souples
+1. Confectionner la sellerie des véhicules de transport
 
-de sellerie automobile
+Démonter les garnitures et garnissages d'éléments de sellerie de véhicules.
 
-Réparer des armatures, des garnissages et des garnitures de sièges de type « véhicule ».
+Réaliser les gabarits d'articles de sellerie de véhicules.
 
-Fabriquer des garnitures et des garnissages de sièges de type « véhicule ».
+Tracer et découper les éléments en matériaux multiples d'articles de sellerie de véhicules.
 
-Fabriquer et installer des capotes de cabriolets.
+Préparer les éléments d'articles en cuir de sellerie de véhicules en vue de leur assemblage.
 
-Confectionner et réparer des garnitures d'habitacles d'automobiles.
+Configurer des garnissages de sièges de véhicules.
 
-2. Confectionner la sellerie des aménagements
+Réaliser le piquage des éléments d'articles de sellerie de type véhicule.
 
-intérieurs de véhicules et de locaux
+Gainer des articles de sellerie de véhicules.
 
-Confectionner des garnissages destinés aux aménagements intérieurs de véhicules et de locaux.
+Mettre en forme des éléments d'articles de sellerie de véhicules.
 
-Réaliser des garnitures de sièges contemporains.
+2. Confectionner les articles de sellerie générale
 
-Confectionner et installer des garnitures en matériaux souples d'aménagements intérieurs de locaux.
+Réaliser le plan de fabrication d'articles de sellerie générale.
 
-Réaliser et installer des garnitures en matériaux souples d'« espaces de vie » des véhicules.
+Débiter les éléments constitutifs d'articles de sellerie générale.
 
-3. Confectionner les articles de sellerie générale
+Façonner des éléments de garnissage mousse.
 
-en cuirs industriels et en tissus techniques
+Réaliser l'assemblage des éléments d'articles de sellerie générale.
 
-Confectionner et réparer des bâches de protection en PVC.
+Monter des articles de sellerie générale.
 
-Confectionner des housses de protection en matériaux souples.
+Secteurs d'activités et types d'emploi
 
-Confectionner des articles en cuirs industriels et en toiles.
+accessibles par le détenteur du titre
 
-Fabriquer et installer des stores.
+Le sellier garnisseur exerce généralement dans des entreprises artisanales de sellerie travaillant les matériaux souples de toutes natures ou dans des entreprises de construction ou d'aménagement de véhicules disposant d'un département sellerie.
 
-Secteurs d'activités ou types d'emploi accessibles
+Certaines entreprises ou administrations qui entretiennent une flotte de véhicule emploient également des selliers.
 
-par le détenteur du titre
+Code ROME :
 
-Le (la) sellier(ère) garnisseur(se) exerce généralement dans des entreprises artisanales de sellerie travaillant les matériaux souples de toute nature ou dans des entreprises de construction ou d'aménagement de véhicules disposant d'un département « sellerie ».
-
-Certaines entreprises ou administrations qui entretiennent une flotte de véhicules emploient également des selliers.
-
-Codes ROME :
-
-47221 - Fabricant d'articles en cuir et autres matériaux souples hors vêtements.
-
-44323 - Réparateur en carrosserie.
+B1802-Réalisation d'articles en cuir et matériaux souples (hors vêtement).
 
 Réglementation de l'activité :
 
@@ -88,8 +82,6 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
-
-Arrêté du 25 novembre 2002.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministre chargé de l'emploi.
