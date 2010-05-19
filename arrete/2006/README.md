@@ -49,6 +49,7 @@
 - [Arrêté du 6 juin 2006 (DEFD0600689A)](arrete-du-6-juin-2006-defd0600689a)
 - [Arrêté du 6 juin 2006 (INTC0600544A)](arrete-du-6-juin-2006-intc0600544a)
 - [Arrêté du 6 mars 2006 (INTC0600166A)](arrete-du-6-mars-2006-intc0600166a)
+- [Arrêté du 6 mars 2006 (MENS0600741A)](arrete-du-6-mars-2006-mens0600741a)
 - [Arrêté du 6 novembre 2006 (AGRE0602362A)](arrete-du-6-novembre-2006-agre0602362a)
 - [Arrêté du 6 novembre 2006 (BUDR0607086A)](arrete-du-6-novembre-2006-budr0607086a)
 - [Arrêté du 6 novembre 2006 (DEFD0601486A)](arrete-du-6-novembre-2006-defd0601486a)
