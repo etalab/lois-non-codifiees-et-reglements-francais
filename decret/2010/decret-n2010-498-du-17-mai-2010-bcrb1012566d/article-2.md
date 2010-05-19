@@ -1,0 +1,9 @@
+# Article 2
+
+I. ― Les courses ou les réunions de courses hippiques françaises et étrangères pouvant servir de support aux paris hippiques en ligne sont communiquées par les sociétés mères de courses de chevaux à la Fédération nationale des courses françaises. Celle-ci en établit le calendrier annuel en concertation avec les fédérations régionales des courses puis le transmet, au plus tard le premier jour ouvrable du mois de novembre de l'année précédente, au ministre chargé de l'agriculture, qui l'approuve par arrêté dans le délai maximum d'un mois à compter de cette transmission.
+
+Ce calendrier est transmis, au plus tard le premier jour ouvrable du mois de décembre de la même année, par le ministre chargé de l'agriculture à l'Autorité de régulation des jeux en ligne, qui le tient à disposition des opérateurs agréés de paris hippiques en ligne.
+
+II. ― Pour chaque course ou réunion de courses, ce calendrier indique les catégories de paris hippiques en ligne autorisées, à savoir les paris simples ou les paris complexes. Pour l'application du présent alinéa, les paris complexes en ligne au sens de l'article 11 de la loi du 12 mai 2010 susvisée s'entendent de tous les paris pour lesquels le parieur doit, sur une même course, désigner cinq chevaux dans l'ordre d'arrivée.
+
+III. ― Par dérogation au I et pour la seule année au cours de laquelle seront délivrés les premiers agréments mentionnés à l'article 1er, le calendrier des réunions de courses pouvant servir de support aux paris hippiques en ligne est le calendrier des réunions de courses servant de support aux opérations de pari mutuel hors les hippodromes mentionné par le décret du 5 mai 1997 susvisé, notamment son article 22. Ce calendrier est transmis, dans un délai de quinze jours à compter de la publication du présent décret, par le ministre chargé de l'agriculture à l'Autorité de régulation des jeux en ligne, qui le tient à disposition des opérateurs agréés de paris hippiques en ligne.
