@@ -2,10 +2,7 @@
 
 A. - TAXE POUR LE DÉVELOPPEMENT DES INDUSTRIES DE L'AMEUBLEMENT ET DES INDUSTRIES DU BOIS
 
-<div align="left">A-I. - Taxe pour le développement des industries de l'ameublement <p>
-<br/>
-</p>
-</div>
+<div align="left">A-I. - Taxe pour le développement des industries de l'ameublement </div>
 <div align="left"/>
 <div align="left"/>
 <div align="left"/>
@@ -732,7 +729,9 @@ c) Articles de maroquinerie, de voyage et de chasse, articles divers en cuir, y 
 </tbody>
 </table>
 
-C. - TAXE POUR LE DÉVELOPPEMENT DES INDUSTRIES DE L'HORLOGERIE, DE LA BIJOUTERIE, DE LA JOAILLERIE, DE L'ORFÈVRERIE ET DES ARTS DE LA TABLE
+C. - TAXE POUR LE DÉVELOPPEMENT DES INDUSTRIES DE L'HORLOGERIE,
+
+DE LA BIJOUTERIE, DE LA JOAILLERIE, DE L'ORFÈVRERIE ET DES ARTS DE LA TABLE
 
 <table>
 <tbody>
@@ -1316,7 +1315,9 @@ D. - TAXE POUR LE DÉVELOPPEMENT DES INDUSTRIES DE L'HABILLEMENT
 </tbody>
 </table>
 
-E. - TAXE POUR LE DÉVELOPPEMENT DES INDUSTRIES DE LA MÉCANIQUE, DES MATÉRIELS ET CONSOMMABLES DE SOUDAGE, DU DÉCOLLETAGE, DE LA CONSTRUCTION MÉTALLIQUE ET DES MATÉRIELS AÉRAULIQUE ET THERMIQUES
+E. - TAXE POUR LE DÉVELOPPEMENT DES INDUSTRIES DE LA MÉCANIQUE, DES MATÉRIELS ET CONSOMMABLES DE SOUDAGE,
+
+DU DÉCOLLETAGE, DE LA CONSTRUCTION MÉTALLIQUE ET DES MATÉRIELS AÉRAULIQUE ET THERMIQUES
 
 E-I. - Produits, activités et prestations relevant du centre technique des industries mécaniques :
 
@@ -1485,7 +1486,7 @@ E-I. - Produits, activités et prestations relevant du centre technique des indu
 <p>25.29.1</p>
 </td>
 <td valign="top" width="529">
-<p>Autres réservoirs, cuves et récipients métalliques, y compris les cuves et citernes métalliques montables sur les matériels de transport y compris le montage in situ des réservoirs métalliques autoproduits, mentionné dans la sous-catégorie 33. 20. 12, à l'exclusion des produits mentionnés au paragraphe E-IV.</p>
+<p>Autres réservoirs, citernes et conteneurs métalliques, y compris les cuves et citernes métalliques montables sur les matériels de transport y compris le montage in situ des réservoirs métalliques autoproduits, mentionné dans la sous-catégorie 33. 20. 12, à l'exclusion des produits mentionnés au paragraphe E-IV.</p>
 </td>
 </tr>
 <tr>
@@ -1493,7 +1494,7 @@ E-I. - Produits, activités et prestations relevant du centre technique des indu
 <p>25.30</p>
 </td>
 <td valign="top" width="529">
-<p>Générateurs de vapeur, à l'exclusion des chaudières pour chauffage central à eau chaude, ainsi que les opérations de réparation, de montage et d'installation mentionnées respectivement dans les sous-catégories 33.11.13 et 33.20.11.</p>
+<p>Générateurs de vapeur, à l'exclusion des chaudières pour chauffage central, ainsi que les opérations de réparation, de montage et d'installation mentionnées respectivement dans les sous-catégories 33.11.13 et 33.20.11.</p>
 </td>
 </tr>
 <tr>
@@ -1980,7 +1981,7 @@ E-I. - Produits, activités et prestations relevant du centre technique des indu
 <p>27.51.11</p>
 </td>
 <td valign="top" width="529">
-<p>Réfrigérateurs et congélateurs domestiques ; à l'exclusion des réfrigérateurs à absorption mentionnés au paragraphe E-V. </p>
+<p>Réfrigérateurs et congélateurs à usage ménager ; à l'exclusion des réfrigérateurs à absorption mentionnés au paragraphe E-V. </p>
 </td>
 </tr>
 <tr>
@@ -2154,7 +2155,7 @@ E-I. - Produits, activités et prestations relevant du centre technique des indu
 <p>28.24</p>
 </td>
 <td valign="top" width="529">
-<p>Outillage manuel électrique, y compris les parties et, notamment, les machines-outils portatives pneumatiques ou à moteur thermique. </p>
+<p>Outillage portatif à moteur incorporé, y compris les parties et, notamment, les machines-outils portatives pneumatiques ou à moteur thermique. </p>
 </td>
 </tr>
 <tr>
@@ -2638,7 +2639,7 @@ E-I. - Produits, activités et prestations relevant du centre technique des indu
 </tr>
 <tr>
 <td valign="top" width="151">
-<p>32.50.23</p>
+<p>32.50.21</p>
 </td>
 <td valign="top" width="529">
 <p>Instruments et appareils thérapeutiques ; appareils respiratoires. </p>
@@ -2880,11 +2881,11 @@ E-IV. - Produits, activités et prestations relevant du centre technique industr
 </td>
 </tr>
 <tr>
-<td rowspan="19" valign="top" width="151">
+<td rowspan="20" valign="top" width="151">
 <p>25.11</p>
 </td>
 <td valign="top" width="529">
-<p>Structures et éléments de structures métalliques, pour les ossatures, y compris les études, la fabrication, la peinture, la galvanisation, la métallisation, le transport, ainsi que le montage et la réparation mentionnés respectivement dans les sous-catégories 43.99.50 et 33.11.11 :</p>
+<p>Structures métalliques et parties de structures, pour les ossatures, y compris les études, la fabrication, la peinture, la galvanisation, la métallisation, le transport, ainsi que le montage et la réparation mentionnés respectivement dans les sous-catégories 43.99.50 et 33.11.11 :</p>
 </td>
 </tr>
 <tr>
@@ -2948,6 +2949,9 @@ E-IV. - Produits, activités et prestations relevant du centre technique industr
 </td>
 </tr>
 <tr>
+<td>- des escaliers, verrières, auvents et abris divers ;</td>
+</tr>
+<tr>
 <td valign="top" width="529">
 <p>ainsi que :</p>
 </td>
@@ -2975,14 +2979,6 @@ E-IV. - Produits, activités et prestations relevant du centre technique industr
 <tr>
 <td valign="top" width="529">
 <p>- des cabines téléphoniques. </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="151">
-<p>25.12</p>
-</td>
-<td valign="top" width="529">
-<p>Menuiseries métalliques, pour les ossatures des escaliers, verrières, auvents et abris divers. </p>
 </td>
 </tr>
 <tr>
@@ -3157,7 +3153,7 @@ E-V. - Produits, activités et prestations relevant du centre technique des indu
 <p>27.51.11</p>
 </td>
 <td valign="top" width="529">
-<p>Réfrigérateurs et congélateurs domestiques, pour les réfrigérateurs domestiques à absorption. </p>
+<p>Réfrigérateurs et congélateurs à usage ménager, pour les réfrigérateurs à usage ménager à absorption. </p>
 </td>
 </tr>
 <tr>
@@ -3165,7 +3161,7 @@ E-V. - Produits, activités et prestations relevant du centre technique des indu
 <p>27.51.15</p>
 </td>
 <td valign="top" width="529">
-<p>Hottes aspirantes et ventilateurs domestiques, pour les ventilateurs domestiques et plus généralement tous les appareils, comportant ou non des organes mobiles ayant pour objet de mettre en mouvement des gaz, et en particulier de l'air, dans le domaine des basses pressions, quels que soient les matériaux de construction, à l'exclusion : </p>
+<p>Hottes aspirantes et ventilateurs à usage ménager, pour les ventilateurs à usage ménager et plus généralement tous les appareils, comportant ou non des organes mobiles ayant pour objet de mettre en mouvement des gaz, et en particulier de l'air, dans le domaine des basses pressions, quels que soient les matériaux de construction, à l'exclusion : </p>
 </td>
 </tr>
 <tr>
