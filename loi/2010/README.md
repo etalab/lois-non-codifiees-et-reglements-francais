@@ -16,4 +16,6 @@
 - [LOI n° 2010-372 du 12 avril 2010 (JUSX1003894L)](loi-n-2010-372-du-12-avril-2010-jusx1003894l)
 - [LOI n° 2010-463 du 7 mai 2010 (BCRX1010289L)](loi-n-2010-463-du-7-mai-2010-bcrx1010289l)
 - [LOI n° 2010-476 du 12 mai 2010 (BCFX0904879L)](loi-n-2010-476-du-12-mai-2010-bcfx0904879l)
+- [LOI n° 2010-500 du 18 mai 2010 (ESRX0922542L)](loi-n-2010-500-du-18-mai-2010-esrx0922542l)
+- [LOI n° 2010-501 du 18 mai 2010 (MCCX0914997L)](loi-n-2010-501-du-18-mai-2010-mccx0914997l)
 - [LOI n° 2010-97 du 27 janvier 2010 (MCCX0929140L)](loi-n-2010-97-du-27-janvier-2010-mccx0929140l)
