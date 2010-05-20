@@ -172,7 +172,6 @@
 - [Arrêté du 10 juin 2005 (ECOP0500471A)](arrete-du-10-juin-2005-ecop0500471a)
 - [Arrêté du 10 juin 2005 (ECOT0595141A)](arrete-du-10-juin-2005-ecot0595141a)
 - [Arrêté du 10 juin 2005 (JUSF0550069A)](arrete-du-10-juin-2005-jusf0550069a)
-- [Arrêté du 10 novembre 2005 (DEFP0501555A)](arrete-du-10-novembre-2005-defp0501555a)
 - [Arrêté du 10 novembre 2005 (ECOC0500154A)](arrete-du-10-novembre-2005-ecoc0500154a)
 - [Arrêté du 10 novembre 2005 (ECOM0500091A)](arrete-du-10-novembre-2005-ecom0500091a)
 - [Arrêté du 10 octobre 2005 (DEFC0501401A)](arrete-du-10-octobre-2005-defc0501401a)
