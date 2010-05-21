@@ -167,7 +167,6 @@
 - [Arrêté du 5 septembre 1995 (AGRG9501775A)](arrete-du-5-septembre-1995-agrg9501775a)
 - [Arrêté du 5 septembre 1995 (PRMX9500978A)](arrete-du-5-septembre-1995-prmx9500978a)
 - [Arrêté du 5 septembre 1995 (SANH9502669A)](arrete-du-5-septembre-1995-sanh9502669a)
-- [Arrêté du 5 septembre 1995 (SANP9502656A)](arrete-du-5-septembre-1995-sanp9502656a)
 - [Arrêté du 5 mai 1994 (INDB9400643A)](arrete-du-5-mai-1994-indb9400643a)
 - [Arrêté du 5 mai 1994 (INDB9400644A)](arrete-du-5-mai-1994-indb9400644a)
 - [Arrêté du 5 mai 1995 (ACVA9510011A)](arrete-du-5-mai-1995-acva9510011a)

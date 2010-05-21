@@ -29,6 +29,7 @@
 - [Arrêté du 4 décembre 2006 (DEFD0601633A)](arrete-du-4-decembre-2006-defd0601633a)
 - [Arrêté du 4 janvier 2006 (MCCB0500915A)](arrete-du-4-janvier-2006-mccb0500915a)
 - [Arrêté du 4 octobre 2006 (AGRS0601478A)](arrete-du-4-octobre-2006-agrs0601478a)
+- [Arrêté du 4 octobre 2006 (MENS0602431A)](arrete-du-4-octobre-2006-mens0602431a)
 - [Arrêté du 4 septembre 2006 (INTE0600773A)](arrete-du-4-septembre-2006-inte0600773a)
 - [Arrêté du 4 mai 2006 (EQUS0501975A)](arrete-du-4-mai-2006-equs0501975a)
 - [Arrêté du 5 décembre 2005 (EQUP0501940A)](arrete-du-5-decembre-2005-equp0501940a)

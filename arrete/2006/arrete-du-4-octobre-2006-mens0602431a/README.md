@@ -1,4 +1,4 @@
-# Arrêté du 5 septembre 1995 relatif à l'examen pour l'obtention du diplôme national de thanatopracteur
+# Arrêté du 4 octobre 2006 définissant les modalités d'organisation de l'année-recherche durant le troisième cycle des études de médecine, d'odontologie et de pharmacie
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -9,4 +9,4 @@
 - [Article 7](article-7.md)
 - [Article 8](article-8.md)
 - [Article 9](article-9.md)
-- [Article 10](article-10.md)
+- [Article Annexe](article-annexe.md)
