@@ -1,3 +1,0 @@
-# Article 3
-
-Sont soumis à l'obligation du visa consulaire de transit aéroportuaire les ressortissants des Etats suivants, qui ne sont pas mentionnés sur la liste commune de l'annexe 3 aux instructions consulaires communes : Albanie, Angola, Burkina Faso, Cameroun, Colombie, Congo (République du), Côte d'Ivoire, Cuba, Djibouti, Gambie, Guinée, Guinée-Bissau, Haïti, Inde, Liberia, Mali, Mauritanie, Pérou, République dominicaine, Tchad, Togo, les Russes provenant d'un aéroport situé en Arménie, Azerbaïdjan, Géorgie,  Ukraine, Biélorussie, Moldavie, Turquie ou Egypte, Sénégal, Sierra Leone, Soudan, ainsi que les titulaires du document de voyage pour les réfugiés palestiniens.
