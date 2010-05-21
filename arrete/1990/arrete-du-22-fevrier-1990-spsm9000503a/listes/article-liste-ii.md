@@ -45,11 +45,14 @@ LISTE II
 <td valign="top" width="163"/>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
+<br/>
 <br/>
 </td>
 </tr>
@@ -62,11 +65,13 @@ LISTE II
 </td>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <p align="center">QS pour pH</p>
 </td>
 <td valign="top" width="118">
+<br/>
 <br/>
 </td>
 </tr>
@@ -78,6 +83,7 @@ LISTE II
 <p align="center">10</p>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -95,6 +101,7 @@ LISTE II
 <p align="center">3</p>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -124,12 +131,15 @@ LISTE II
 </td>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <p align="center">Uniquement pour une dose unitaire de 0,1</p>
 </td>
 <td valign="top" width="118">
 <br/>
+<p align="center">1000 mg<br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -143,6 +153,7 @@ LISTE II
 <p align="center">5</p>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -160,6 +171,7 @@ LISTE II
 <p align="center">5 g pour 100 g</p>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -192,6 +204,7 @@ LISTE II
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
 <p align="center">0,005</p>
@@ -209,6 +222,7 @@ LISTE II
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
 <p align="center">1,8</p>
@@ -222,6 +236,7 @@ LISTE II
 <p align="center">2,5 g/100 g soit 2,5 %</p>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -254,6 +269,7 @@ LISTE II
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
 <p align="center">0,10</p>
@@ -268,6 +284,7 @@ LISTE II
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
 <p align="center">0,005</p>
@@ -280,11 +297,14 @@ LISTE II
 <td valign="top" width="163"/>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
+<br/>
 <br/>
 </td>
 </tr>
@@ -312,8 +332,10 @@ LISTE II
 <td valign="top" width="163"/>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -327,11 +349,14 @@ LISTE II
 <td valign="top" width="163"/>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
+<br/>
 <br/>
 </td>
 </tr>
@@ -381,6 +406,7 @@ LISTE II
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
 <p align="center">20</p>
@@ -397,6 +423,7 @@ LISTE II
 <p align="center">0,05</p>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -446,6 +473,7 @@ LISTE II
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
 <p align="center">60</p>
@@ -459,6 +487,7 @@ LISTE II
 <p align="center">0,50</p>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -489,11 +518,14 @@ LISTE II
 <td valign="top" width="163"/>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
+<br/>
 <br/>
 </td>
 </tr>
@@ -522,6 +554,7 @@ LISTE II
 <p>Bougies, crayons, ovules, suppositoires</p>
 </td>
 <td valign="top" width="117">
+<br/>
 <br/>
 </td>
 <td valign="top" width="134">
@@ -569,11 +602,14 @@ LISTE II
 <td valign="top" width="163"/>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
+<br/>
 <br/>
 </td>
 </tr>
@@ -584,11 +620,14 @@ LISTE II
 <td valign="top" width="163"/>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
+<br/>
 <br/>
 </td>
 </tr>
@@ -620,11 +659,14 @@ LISTE II
 <td valign="top" width="163"/>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
+<br/>
 <br/>
 </td>
 </tr>
@@ -639,6 +681,7 @@ LISTE II
 <p align="center">2</p>
 </td>
 <td rowspan="3" width="134">
+<br/>
 <br/>
 </td>
 <td rowspan="3" width="118">
@@ -677,11 +720,14 @@ LISTE II
 <td valign="top" width="163"/>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
+<br/>
 <br/>
 </td>
 </tr>
@@ -723,11 +769,14 @@ LISTE II
 <td valign="top" width="163"/>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
+<br/>
 <br/>
 </td>
 </tr>
@@ -764,11 +813,14 @@ LISTE II
 <td valign="top" width="163"/>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
+<br/>
 <br/>
 </td>
 </tr>
@@ -784,6 +836,7 @@ LISTE II
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
 <p align="center">0</p>
@@ -795,8 +848,10 @@ LISTE II
 </td>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -810,11 +865,14 @@ LISTE II
 <td valign="top" width="163"/>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
+<br/>
 <br/>
 </td>
 </tr>
@@ -831,6 +889,7 @@ LISTE II
 <p align="center">1</p>
 </td>
 <td rowspan="2" valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td rowspan="2" valign="top" width="118">
@@ -850,11 +909,14 @@ LISTE II
 <td valign="top" width="163"/>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
+<br/>
 <br/>
 </td>
 </tr>
@@ -870,6 +932,7 @@ LISTE II
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
 <p align="center">5</p>
@@ -883,6 +946,7 @@ LISTE II
 <p align="center">0</p>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -910,11 +974,14 @@ LISTE II
 <td valign="top" width="163"/>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
+<br/>
 <br/>
 </td>
 </tr>
@@ -925,11 +992,14 @@ LISTE II
 <td valign="top" width="163"/>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
+<br/>
 <br/>
 </td>
 </tr>
@@ -957,11 +1027,14 @@ LISTE II
 <td valign="top" width="163"/>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
+<br/>
 <br/>
 </td>
 </tr>
@@ -976,6 +1049,7 @@ LISTE II
 <p align="center">5</p>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -994,6 +1068,7 @@ LISTE II
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
 <p align="center">8</p>
@@ -1008,8 +1083,10 @@ LISTE II
 </td>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -1040,11 +1117,14 @@ LISTE II
 <td valign="top" width="163"/>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1055,11 +1135,14 @@ LISTE II
 <td valign="top" width="163"/>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1070,11 +1153,14 @@ LISTE II
 <td valign="top" width="163"/>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1089,6 +1175,7 @@ LISTE II
 <p align="center">5</p>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -1107,8 +1194,10 @@ LISTE II
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1120,6 +1209,7 @@ LISTE II
 <p>Bougies, crayons, ovules, suppositoires</p>
 </td>
 <td valign="top" width="117">
+<br/>
 <br/>
 </td>
 <td valign="top" width="134">
@@ -1153,11 +1243,14 @@ LISTE II
 <td valign="top" width="163"/>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1168,11 +1261,14 @@ LISTE II
 <td valign="top" width="163"/>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1185,11 +1281,14 @@ LISTE II
 </td>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1218,11 +1317,14 @@ LISTE II
 </td>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1231,6 +1333,7 @@ LISTE II
 <p>Chaque unité terminée devra peser au minimum 0,5 g</p>
 </td>
 <td valign="top" width="117">
+<br/>
 <br/>
 </td>
 <td valign="top" width="134">
@@ -1249,6 +1352,7 @@ LISTE II
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
 <p align="center">1</p>
@@ -1259,6 +1363,7 @@ LISTE II
 <p>2° Suppositoires. Chaque suppositoire terminé devra peser au minimum 2,5 g</p>
 </td>
 <td valign="top" width="117">
+<br/>
 <br/>
 </td>
 <td valign="top" width="134">
@@ -1273,6 +1378,7 @@ LISTE II
 <p>3° Bougies, crayons, ovules</p>
 </td>
 <td valign="top" width="117">
+<br/>
 <br/>
 </td>
 <td valign="top" width="134">
@@ -1303,11 +1409,14 @@ LISTE II
 <td valign="top" width="163"/>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1320,11 +1429,14 @@ LISTE II
 </td>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1351,6 +1463,7 @@ LISTE II
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
 <p align="center">1</p>
@@ -1365,6 +1478,7 @@ LISTE II
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
 <p align="center">0,50</p>
@@ -1375,6 +1489,7 @@ LISTE II
 <p>2° Suppositoires. Chaque suppositoire terminé devra peser au minimum 2,5 g</p>
 </td>
 <td valign="top" width="117">
+<br/>
 <br/>
 </td>
 <td valign="top" width="134">
@@ -1389,6 +1504,7 @@ LISTE II
 <p>3° Bougies, crayons, ovules</p>
 </td>
 <td valign="top" width="117">
+<br/>
 <br/>
 </td>
 <td valign="top" width="134">
@@ -1421,8 +1537,10 @@ LISTE II
 </td>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -1436,11 +1554,14 @@ LISTE II
 <td valign="top" width="163"/>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1451,8 +1572,10 @@ LISTE II
 <td valign="top" width="163"/>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -1466,11 +1589,13 @@ LISTE II
 <td valign="top" width="163"/>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <p align="center">Voir à Mercure</p>
 </td>
 <td valign="top" width="118">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1481,8 +1606,10 @@ LISTE II
 <td valign="top" width="163"/>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -1518,6 +1645,7 @@ LISTE II
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
 <p align="center">5</p>
@@ -1530,11 +1658,14 @@ LISTE II
 <td valign="top" width="163"/>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1545,8 +1676,10 @@ LISTE II
 <td valign="top" width="163"/>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -1560,8 +1693,10 @@ LISTE II
 <td valign="top" width="163"/>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -1591,6 +1726,7 @@ LISTE II
 </td>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <p align="center">0,006</p>
@@ -1607,6 +1743,7 @@ LISTE II
 <p align="center">0,50</p>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -1637,11 +1774,14 @@ LISTE II
 <td valign="top" width="163"/>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1669,11 +1809,14 @@ LISTE II
 <td valign="top" width="163"/>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1685,6 +1828,7 @@ LISTE II
 <p>Voie orale</p>
 </td>
 <td valign="top" width="117">
+<br/>
 <br/>
 </td>
 <td valign="top" width="134">
@@ -1705,6 +1849,7 @@ LISTE II
 <p align="center">0,5</p>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -1740,6 +1885,7 @@ LISTE II
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
 <p align="center">0,32</p>
@@ -1753,6 +1899,7 @@ LISTE II
 <p>Bougies, crayons, ovules, suppositoires</p>
 </td>
 <td valign="top" width="117">
+<br/>
 <br/>
 </td>
 <td valign="top" width="134">
@@ -1770,6 +1917,7 @@ LISTE II
 <p align="center">15</p>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -1798,6 +1946,7 @@ LISTE II
 <p>Suppositoires</p>
 </td>
 <td valign="top" width="117">
+<br/>
 <br/>
 </td>
 <td valign="top" width="134">
@@ -1829,6 +1978,7 @@ LISTE II
 <p>Toutes formes</p>
 </td>
 <td valign="top" width="117">
+<br/>
 <br/>
 </td>
 <td valign="top" width="134">
@@ -1869,6 +2019,7 @@ LISTE II
 <p align="center">0,06, soit 60 mg</p>
 </td>
 <td valign="top" width="118">
+<p align="center">2</p>
 <br/>
 </td>
 </tr>
@@ -1884,6 +2035,7 @@ LISTE II
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
 <p align="center">0,0025</p>
@@ -1898,11 +2050,13 @@ LISTE II
 </td>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <p align="center">QS pour pH</p>
 </td>
 <td valign="top" width="118">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1914,6 +2068,7 @@ LISTE II
 <p align="center">10</p>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -1928,6 +2083,7 @@ LISTE II
 <p align="center">2</p>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -1945,6 +2101,7 @@ LISTE II
 <p align="center">3</p>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -1991,6 +2148,7 @@ LISTE II
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
 <p align="center">3</p>
@@ -2021,6 +2179,7 @@ LISTE II
 <p align="center">5</p>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -2053,6 +2212,7 @@ LISTE II
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
 <p align="center">0,50</p>
@@ -2066,6 +2226,7 @@ LISTE II
 <p>Voie orale</p>
 </td>
 <td valign="top" width="117">
+<br/>
 <br/>
 </td>
 <td valign="top" width="134">
@@ -2087,6 +2248,7 @@ LISTE II
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
 <p align="center">200</p>
@@ -2099,8 +2261,10 @@ LISTE II
 <td valign="top" width="163"/>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -2114,8 +2278,10 @@ LISTE II
 <td valign="top" width="163"/>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -2148,8 +2314,10 @@ LISTE II
 </td>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -2168,6 +2336,7 @@ LISTE II
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
 <p align="center">0,30</p>
@@ -2181,6 +2350,7 @@ LISTE II
 <p>Bougies, crayons, ovules, suppositoires</p>
 </td>
 <td valign="top" width="117">
+<br/>
 <br/>
 </td>
 <td valign="top" width="134">
@@ -2198,6 +2368,7 @@ LISTE II
 <p align="center">10</p>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -2244,6 +2415,7 @@ LISTE II
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
 <p align="center">10</p>
@@ -2274,6 +2446,7 @@ LISTE II
 <p align="center">2 %</p>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -2306,6 +2479,7 @@ LISTE II
 </td>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <p align="center">0,001</p>
@@ -2322,13 +2496,13 @@ LISTE II
 <p>En application sur la peau</p>
 </td>
 <td valign="top" width="117">
-<p align="center">1</p>
+<p align="center">4</p>
 </td>
 <td valign="top" width="134">
-<br/>
+<p align="center">-</p>
 </td>
 <td valign="top" width="118">
-<p align="center">60</p>
+<p align="center">1</p>
 </td>
 </tr>
 <tr>
@@ -2339,6 +2513,7 @@ LISTE II
 <p>Voie orale</p>
 </td>
 <td valign="top" width="117">
+<br/>
 <br/>
 </td>
 <td valign="top" width="134">
@@ -2355,11 +2530,14 @@ LISTE II
 <td valign="top" width="163"/>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2370,8 +2548,10 @@ LISTE II
 <td valign="top" width="163"/>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -2407,6 +2587,7 @@ LISTE II
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
 <p align="center">0,20</p>
@@ -2420,6 +2601,7 @@ LISTE II
 <p>Comprimés</p>
 </td>
 <td valign="top" width="117">
+<br/>
 <br/>
 </td>
 <td valign="top" width="134">
@@ -2437,6 +2619,7 @@ LISTE II
 <p>Comprimés</p>
 </td>
 <td valign="top" width="117">
+<br/>
 <br/>
 </td>
 <td valign="top" width="134">
@@ -2534,8 +2717,10 @@ LISTE II
 </td>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -2550,6 +2735,7 @@ LISTE II
 <p>Voie orale</p>
 </td>
 <td valign="top" width="117">
+<br/>
 <br/>
 </td>
 <td valign="top" width="134">
@@ -2614,11 +2800,14 @@ LISTE II
 <td valign="top" width="163"/>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2631,8 +2820,10 @@ LISTE II
 </td>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -2647,6 +2838,7 @@ LISTE II
 <p>Pastille à sucer</p>
 </td>
 <td valign="top" width="117">
+<br/>
 <br/>
 </td>
 <td valign="top" width="134">
@@ -2667,6 +2859,7 @@ LISTE II
 <p align="center">10</p>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -2699,6 +2892,7 @@ LISTE II
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
 <p align="center">10</p>
@@ -2709,6 +2903,7 @@ LISTE II
 <p>Bougies, crayons, ovules, suppositoires</p>
 </td>
 <td valign="top" width="117">
+<br/>
 <br/>
 </td>
 <td valign="top" width="134">
@@ -2741,6 +2936,7 @@ LISTE II
 </td>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <p align="center">0,000 5</p>
@@ -2754,6 +2950,7 @@ LISTE II
 <p>Suppositoires en association avec l'acide acétylsalicylique</p>
 </td>
 <td valign="top" width="117">
+<br/>
 <br/>
 </td>
 <td valign="top" width="134">
@@ -2789,6 +2986,7 @@ LISTE II
 </td>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <p align="center">20</p>
@@ -2806,11 +3004,14 @@ LISTE II
 </td>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2822,6 +3023,7 @@ LISTE II
 <p align="center">0,50</p>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -2848,6 +3050,7 @@ LISTE II
 </td>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <p align="center">0</p>
@@ -2865,6 +3068,7 @@ LISTE II
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
 <p align="center">0,40</p>
@@ -2878,6 +3082,7 @@ LISTE II
 <p>Suppositoires</p>
 </td>
 <td valign="top" width="117">
+<br/>
 <br/>
 </td>
 <td valign="top" width="134">
@@ -2894,11 +3099,14 @@ LISTE II
 <td valign="top" width="163"/>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2914,6 +3122,7 @@ LISTE II
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
 <p align="center">125</p>
@@ -2928,8 +3137,10 @@ LISTE II
 </td>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -2962,6 +3173,7 @@ LISTE II
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
 <p align="center">0,50</p>
@@ -2975,6 +3187,7 @@ LISTE II
 <p>Voie orale</p>
 </td>
 <td valign="top" width="117">
+<br/>
 <br/>
 </td>
 <td valign="top" width="134">
@@ -3010,6 +3223,7 @@ LISTE II
 </td>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <p align="center">0,400</p>
@@ -3027,6 +3241,7 @@ LISTE II
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
 <p align="center">4</p>
@@ -3041,6 +3256,7 @@ LISTE II
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
 <p align="center">60</p>
@@ -3053,11 +3269,14 @@ LISTE II
 <td valign="top" width="163"/>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3087,8 +3306,10 @@ LISTE II
 </td>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -3102,11 +3323,14 @@ LISTE II
 <td valign="top" width="163"/>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3153,6 +3377,7 @@ LISTE II
 </td>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <p align="center">2</p>
@@ -3170,8 +3395,10 @@ LISTE II
 </td>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -3190,6 +3417,7 @@ LISTE II
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
 <p align="center">20</p>
@@ -3203,6 +3431,7 @@ LISTE II
 <p>Toutes formes</p>
 </td>
 <td valign="top" width="117">
+<br/>
 <br/>
 </td>
 <td valign="top" width="134">
@@ -3223,6 +3452,7 @@ LISTE II
 <p align="center">25</p>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -3255,6 +3485,7 @@ LISTE II
 </td>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <p align="center">0,025</p>
@@ -3270,11 +3501,14 @@ LISTE II
 <td valign="top" width="163"/>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3289,6 +3523,7 @@ LISTE II
 <p align="center">30</p>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -3349,6 +3584,7 @@ LISTE II
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
 <p align="center">0,001</p>
@@ -3363,6 +3599,7 @@ LISTE II
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
 <p align="center">0,015</p>
@@ -3375,11 +3612,14 @@ LISTE II
 <td valign="top" width="163"/>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3460,6 +3700,7 @@ LISTE II
 </td>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <p align="center">0,002</p>
@@ -3477,6 +3718,7 @@ LISTE II
 </td>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <p align="center">0,01</p>
@@ -3486,17 +3728,33 @@ LISTE II
 </td>
 </tr>
 <tr>
+<td>Maléate de trimébutine </td>
+<td>Voie orale</td>
+<td>
+<p align="center">-</p>
+</td>
+<td>
+<p align="center">0,10</p>
+</td>
+<td>
+<p align="center">2</p>
+</td>
+</tr>
+<tr>
 <td valign="top" width="186">
 <p>Mercure, ses composés et leurs préparations :</p>
 </td>
 <td valign="top" width="163"/>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3508,6 +3766,7 @@ LISTE II
 <p>Bougies, crayons, ovules, suppositoires</p>
 </td>
 <td valign="top" width="117">
+<br/>
 <br/>
 </td>
 <td valign="top" width="134">
@@ -3526,6 +3785,7 @@ LISTE II
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
 <p align="center">75</p>
@@ -3537,8 +3797,10 @@ LISTE II
 </td>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -3570,6 +3832,7 @@ LISTE II
 <p align="center">50</p>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -3619,6 +3882,7 @@ LISTE II
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
 <p align="center">5</p>
@@ -3645,11 +3909,14 @@ LISTE II
 <td valign="top" width="163"/>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3662,8 +3929,10 @@ LISTE II
 </td>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -3693,8 +3962,10 @@ LISTE II
 </td>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -3724,11 +3995,14 @@ LISTE II
 </td>
 <td rowspan="2" valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td rowspan="2" valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td rowspan="2" valign="top" width="118">
+<br/>
 <br/>
 </td>
 </tr>
@@ -3746,6 +4020,7 @@ LISTE II
 </td>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <p align="center">0,10</p>
@@ -3762,6 +4037,7 @@ LISTE II
 <p align="center">25</p>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -3791,6 +4067,7 @@ LISTE II
 </td>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <p align="center">0,10</p>
@@ -3807,6 +4084,7 @@ LISTE II
 <p align="center">20</p>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -3836,8 +4114,10 @@ LISTE II
 </td>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -3850,8 +4130,10 @@ LISTE II
 </td>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -3865,8 +4147,10 @@ LISTE II
 <td valign="top" width="163"/>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -3880,8 +4164,10 @@ LISTE II
 <td valign="top" width="163"/>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -3897,8 +4183,10 @@ LISTE II
 </td>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -3916,6 +4204,7 @@ LISTE II
 <p align="center">10</p>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -3951,6 +4240,7 @@ LISTE II
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
 <p align="center">3,6</p>
@@ -3968,6 +4258,7 @@ LISTE II
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
 <p align="center">2,50</p>
@@ -3980,8 +4271,10 @@ LISTE II
 <td valign="top" width="163"/>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -4002,6 +4295,7 @@ LISTE II
 <p align="center">10</p>
 </td>
 <td valign="top" width="118">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4028,8 +4322,10 @@ LISTE II
 </td>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -4062,6 +4358,7 @@ LISTE II
 </td>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <p align="center">0,220</p>
@@ -4078,6 +4375,7 @@ LISTE II
 <p>Voie orale</p>
 </td>
 <td valign="top" width="117">
+<br/>
 <br/>
 </td>
 <td valign="top" width="134">
@@ -4096,8 +4394,10 @@ LISTE II
 </td>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -4112,6 +4412,7 @@ LISTE II
 <p align="center">2</p>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -4141,8 +4442,10 @@ LISTE II
 </td>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -4167,17 +4470,33 @@ LISTE II
 </td>
 </tr>
 <tr>
+<td>Oméprazole</td>
+<td>Voie orale</td>
+<td>
+<p align="center">-</p>
+</td>
+<td>
+<p align="center">0,02</p>
+</td>
+<td>
+<p align="center">0,28</p>
+</td>
+</tr>
+<tr>
 <td valign="top" width="186">
 <p>Opium, préparations :</p>
 </td>
 <td valign="top" width="163"/>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4190,8 +4509,10 @@ LISTE II
 </td>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -4205,8 +4526,10 @@ LISTE II
 <td valign="top" width="163"/>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -4219,6 +4542,7 @@ LISTE II
 </td>
 <td valign="top" width="163"/>
 <td valign="top" width="117">
+<br/>
 <br/>
 </td>
 <td valign="top" width="134">
@@ -4235,8 +4559,10 @@ LISTE II
 <td valign="top" width="163"/>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -4251,6 +4577,7 @@ LISTE II
 <p>Toutes formes</p>
 </td>
 <td valign="top" width="117">
+<br/>
 <br/>
 </td>
 <td valign="top" width="134">
@@ -4267,8 +4594,10 @@ LISTE II
 <td valign="top" width="163"/>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -4282,8 +4611,10 @@ LISTE II
 <td valign="top" width="163"/>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -4298,6 +4629,7 @@ LISTE II
 <p>Voie orale</p>
 </td>
 <td valign="top" width="117">
+<br/>
 <br/>
 </td>
 <td valign="top" width="134">
@@ -4316,8 +4648,10 @@ LISTE II
 </td>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -4364,6 +4698,7 @@ LISTE II
 </td>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <p align="center">0,100</p>
@@ -4395,11 +4730,14 @@ LISTE II
 </td>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4454,6 +4792,7 @@ LISTE II
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
 <p align="center">20</p>
@@ -4467,6 +4806,7 @@ LISTE II
 <p>Toutes formes</p>
 </td>
 <td valign="top" width="117">
+<br/>
 <br/>
 </td>
 <td valign="top" width="134">
@@ -4485,11 +4825,13 @@ LISTE II
 </td>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <p align="center">QS pour pH</p>
 </td>
 <td valign="top" width="118">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4516,8 +4858,10 @@ LISTE II
 </td>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -4532,6 +4876,7 @@ LISTE II
 <p align="center">1</p>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -4581,6 +4926,7 @@ LISTE II
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
 <p align="center">2,50</p>
@@ -4607,11 +4953,14 @@ LISTE II
 <td valign="top" width="163"/>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4624,8 +4973,10 @@ LISTE II
 </td>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -4643,6 +4994,7 @@ LISTE II
 <p align="center">4</p>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -4674,6 +5026,7 @@ LISTE II
 <p align="center">10</p>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -4723,6 +5076,7 @@ LISTE II
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
 <p align="center">5</p>
@@ -4736,6 +5090,7 @@ LISTE II
 <p>Voie orale</p>
 </td>
 <td valign="top" width="117">
+<br/>
 <br/>
 </td>
 <td valign="top" width="134">
@@ -4753,6 +5108,7 @@ LISTE II
 <p>Voie orale</p>
 </td>
 <td valign="top" width="117">
+<br/>
 <br/>
 </td>
 <td valign="top" width="134">
@@ -4784,6 +5140,7 @@ LISTE II
 <p>Comprimés</p>
 </td>
 <td valign="top" width="117">
+<br/>
 <br/>
 </td>
 <td valign="top" width="134">
@@ -4834,11 +5191,14 @@ LISTE II
 <td valign="top" width="163"/>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4900,11 +5260,14 @@ LISTE II
 <td valign="top" width="163"/>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
+<br/>
 <br/>
 </td>
 </tr>
@@ -4919,6 +5282,7 @@ LISTE II
 <p align="center">0,10</p>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -4937,6 +5301,7 @@ LISTE II
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
 <p align="center">0,02</p>
@@ -4953,6 +5318,7 @@ LISTE II
 <p align="center">4</p>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -4984,6 +5350,7 @@ LISTE II
 <p align="center">10</p>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -5028,11 +5395,14 @@ LISTE II
 <td valign="top" width="163"/>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5060,11 +5430,14 @@ LISTE II
 <td valign="top" width="163"/>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5079,6 +5452,7 @@ LISTE II
 <p align="center">0,20</p>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -5096,6 +5470,7 @@ LISTE II
 <p align="center">0,80</p>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -5131,6 +5506,7 @@ LISTE II
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
 <p align="center">2,50</p>
@@ -5157,11 +5533,14 @@ LISTE II
 <td valign="top" width="163"/>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5174,11 +5553,14 @@ LISTE II
 </td>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5207,6 +5589,7 @@ LISTE II
 <p>Bougies, crayons, ovules, suppositoires</p>
 </td>
 <td valign="top" width="117">
+<br/>
 <br/>
 </td>
 <td valign="top" width="134">
@@ -5240,11 +5623,14 @@ LISTE II
 <td valign="top" width="163"/>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5290,11 +5676,14 @@ LISTE II
 <td valign="top" width="163"/>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5310,6 +5699,7 @@ LISTE II
 </td>
 <td valign="top" width="134">
 <br/>
+<br/>
 </td>
 <td valign="top" width="118">
 <p align="center">0,40</p>
@@ -5323,6 +5713,7 @@ LISTE II
 <p align="center">1</p>
 </td>
 <td valign="top" width="134">
+<br/>
 <br/>
 </td>
 <td valign="top" width="118">
@@ -5427,6 +5818,7 @@ PRODUITS stupĖfiants
 </td>
 <td valign="top" width="136">
 <br/>
+<br/>
 </td>
 <td valign="top" width="116">
 <p align="center">0,50</p>
@@ -5509,6 +5901,7 @@ PRODUITS stupĖfiants
 </td>
 <td valign="top" width="136">
 <br/>
+<br/>
 </td>
 <td valign="top" width="116">
 <p align="center">0,10</p>
@@ -5549,11 +5942,14 @@ PRODUITS stupĖfiants
 <td valign="top" width="164"/>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="136">
 <br/>
+<br/>
 </td>
 <td valign="top" width="116">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5566,11 +5962,14 @@ PRODUITS stupĖfiants
 </td>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="136">
 <br/>
+<br/>
 </td>
 <td valign="top" width="116">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5597,11 +5996,14 @@ PRODUITS stupĖfiants
 </td>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="136">
 <br/>
+<br/>
 </td>
 <td valign="top" width="116">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5656,11 +6058,14 @@ PRODUITS stupĖfiants
 </td>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="136">
 <br/>
+<br/>
 </td>
 <td valign="top" width="116">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5670,11 +6075,14 @@ PRODUITS stupĖfiants
 </td>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="136">
 <br/>
+<br/>
 </td>
 <td valign="top" width="116">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5738,11 +6146,14 @@ PRODUITS stupĖfiants
 </td>
 <td valign="top" width="117">
 <br/>
+<br/>
 </td>
 <td valign="top" width="136">
 <br/>
+<br/>
 </td>
 <td valign="top" width="116">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5788,8 +6199,10 @@ En application des listes précédentes (1), les préparations inscrites au Code
 </td>
 <td valign="top" width="121">
 <br/>
+<br/>
 </td>
 <td valign="top" width="113">
+<br/>
 <br/>
 </td>
 </tr>
@@ -5887,8 +6300,10 @@ En application des listes précédentes (1), les préparations inscrites au Code
 </td>
 <td valign="top" width="121">
 <br/>
+<br/>
 </td>
 <td valign="top" width="113">
+<br/>
 <br/>
 </td>
 </tr>
