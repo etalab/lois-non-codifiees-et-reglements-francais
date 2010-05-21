@@ -1,0 +1,3 @@
+# Article 5
+
+Les étrangers qui ne sont pas titulaires d'un titre de séjour délivré par un Etat membre ou associé à la convention d'application de l'accord de Schengen et qui bénéficient d'une dispense de visa doivent pouvoir justifier d'une entrée régulière sur le territoire des Etats parties ou associés à la convention d'application de l'accord de Schengen au moyen d'un cachet apposé sur leur document de voyage par les autorités chargées du contrôle aux frontières aux points de passage contrôlés. Par défaut, ils sont réputés être en situation irrégulière, sauf cas de force majeure ou exemptions prévues par les dispositions de l'article 10, paragraphe 3, du règlement (CE) n° 562/2006 ci-dessus visé.
