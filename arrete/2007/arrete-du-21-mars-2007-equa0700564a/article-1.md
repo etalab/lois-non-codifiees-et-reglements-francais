@@ -12,7 +12,7 @@ Catégorie A :
 
 Aéronef motorisé ou non de masse maximale au décollage inférieure à 25 kilogrammes, ou, pour les aéronefs à gaz inerte, de masse totale (masse structurale et charge emportée) inférieure à 25 kilogrammes, comportant un seul type de propulsion et respectant les limitations suivantes :
 
-- moteur thermique : cylindrée totale inférieure ou égale à 160 cm³ ;
+- moteur thermique : cylindrée totale inférieure ou égale à 250 cm³ ;
 
 - moteur électrique : puissance totale inférieure ou égale à 15 kW ;
 

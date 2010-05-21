@@ -501,7 +501,6 @@
 - [Arrêté du 14 mai 2010 (BCRB1012657A)](arrete-du-14-mai-2010-bcrb1012657a)
 - [Arrêté du 14 mai 2010 (ECET1012914A)](arrete-du-14-mai-2010-ecet1012914a)
 - [Arrêté du 15 avril 2010 (DEFD1010331A)](arrete-du-15-avril-2010-defd1010331a)
-- [Arrêté du 15 avril 2010 (DEVA1008180A)](arrete-du-15-avril-2010-deva1008180a)
 - [Arrêté du 15 avril 2010 (DEVK1011470A)](arrete-du-15-avril-2010-devk1011470a)
 - [Arrêté du 15 avril 2010 (DEVN0908798A)](arrete-du-15-avril-2010-devn0908798a)
 - [Arrêté du 15 avril 2010 (DEVP1001966A)](arrete-du-15-avril-2010-devp1001966a)
