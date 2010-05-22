@@ -31,10 +31,19 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 <p>AFRIQUE DU SUD</p>
 </td>
 <td width="33%">
-<p align="center">RAND COMMERCIAL</p>
+<p align="center">EURO</p>
 </td>
 <td width="33%">
-<p align="center">815</p>
+<p align="center">138</p>
+</td>
+</tr>
+<tr>
+<td>AFRIQUE DU SUD pour la période allant du 15 mai au 31 juillet </td>
+<td>
+<p align="center"> EURO</p>
+</td>
+<td>
+<p align="center"> 185</p>
 </td>
 </tr>
 <tr>
@@ -317,10 +326,10 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 <p>BOTSWANA</p>
 </td>
 <td width="33%">
-<p align="center">PULA</p>
+<p align="center">EURO</p>
 </td>
 <td width="33%">
-<p align="center">557</p>
+<p align="center">119</p>
 </td>
 </tr>
 <tr>
@@ -460,10 +469,19 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 <p>CHINE</p>
 </td>
 <td width="33%">
-<p align="center">DOLLAR US</p>
+<p align="center">YUAN CHINOIS (CNY)</p>
 </td>
 <td width="33%">
-<p align="center">191</p>
+<p align="center">1,700</p>
+</td>
+</tr>
+<tr>
+<td> Ville de Shanghai pour la période allant du 1er mai au 31 octobre 2010 </td>
+<td>
+<p align="center">YUAN CHINOIS (CNY)</p>
+</td>
+<td>
+<p align="center"> 2,200</p>
 </td>
 </tr>
 <tr>
@@ -727,7 +745,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 <p align="center">DOLLAR US</p>
 </td>
 <td width="33%">
-<p align="center">245</p>
+<p align="center">320</p>
 </td>
 </tr>
 <tr>
@@ -751,7 +769,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 <p align="center">DOLLAR US</p>
 </td>
 <td width="33%">
-<p align="center">245</p>
+<p align="center">320</p>
 </td>
 </tr>
 <tr>
@@ -762,7 +780,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 <p align="center">DOLLAR US</p>
 </td>
 <td width="33%">
-<p align="center">300</p>
+<p align="center">450</p>
 </td>
 </tr>
 <tr>
@@ -960,7 +978,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 <p align="center">DOLLAR DE HONG KONG</p>
 </td>
 <td width="33%">
-<p align="center">1 800</p>
+<p align="center">2 200</p>
 </td>
 </tr>
 <tr>
@@ -1166,10 +1184,10 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 <p>LESOTHO</p>
 </td>
 <td width="33%">
-<p align="center">RAND COMMERCIAL</p>
+<p align="center">EURO</p>
 </td>
 <td width="33%">
-<p align="center">788</p>
+<p align="center">120</p>
 </td>
 </tr>
 <tr>
@@ -1257,7 +1275,7 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 <p align="center">DOLLAR DE HONG KONG</p>
 </td>
 <td width="33%">
-<p align="center">1 187</p>
+<p align="center">2 200</p>
 </td>
 </tr>
 <tr>
@@ -1518,10 +1536,10 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 <p>NIGERIA</p>
 </td>
 <td width="33%">
-<p align="center">DOLLAR US</p>
+<p align="center">EURO</p>
 </td>
 <td width="33%">
-<p align="center">316</p>
+<p align="center">273</p>
 </td>
 </tr>
 <tr>
@@ -1881,10 +1899,10 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 <p>SLOVAQUIE</p>
 </td>
 <td width="33%">
-<p align="center">DOLLAR US</p>
+<p align="center">EURO</p>
 </td>
 <td width="33%">
-<p align="center">122</p>
+<p align="center">155</p>
 </td>
 </tr>
 <tr>
@@ -1980,10 +1998,10 @@ INDEMNITÉS JOURNALIÈRES DE MISSION TEMPORAIRE À L'ÉTRANGER
 <p>SYRIE</p>
 </td>
 <td width="33%">
-<p align="center">LIVRE SYRIENNE</p>
+<p align="center">EURO</p>
 </td>
 <td width="33%">
-<p align="center">6 270</p>
+<p align="center">154</p>
 </td>
 </tr>
 <tr>
