@@ -366,6 +366,8 @@ L'épreuve a pour objectif de vérifier que le candidat est capable de mobiliser
 
 Durée : cinq heures ; coefficient 3.
 
+Au titre de la même session, le sujet de cette épreuve peut être commun avec celui de la première épreuve du concours externe de recrutement de professeurs certifiés dans la section correspondante du CAPET.
+
 2° Etude d'un système, d'un procédé ou d'une organisation.
 
 L'épreuve a pour objectif de vérifier que le candidat est capable de conduire l'analyse critique de solutions technologiques.

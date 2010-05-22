@@ -1,0 +1,3 @@
+# Article 11 bis
+
+Lorsque les épreuves d'admission des concours de la section éducation physique et sportive comportent la réalisation d'une ou plusieurs prestations physiques, les candidats doivent remettre au jury, avant le début des épreuves d'admission, un certificat médical, datant de moins de quatre semaines, de non-contre-indication à la pratique des activités physiques, sportives et artistiques dans lesquelles ils doivent réaliser une prestation physique. Les candidats ne sont pas autorisés à réaliser de prestation physique dans une activité pour laquelle ils n'ont pas produit le certificat médical exigé. Le choix de l'activité sportive formulé lors de l'inscription ne peut, en aucun cas, être modifié après la date de clôture des registres d'inscription.

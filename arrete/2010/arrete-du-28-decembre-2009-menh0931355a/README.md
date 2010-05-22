@@ -1,4 +1,4 @@
-# Arrêté du 28 décembre 2009 fixant les sections et les modalités d'organisation des concours du certificat d'aptitude au professorat de l'enseignement professionnel
+# Arrêté du 28 décembre 2009 fixant les sections et les modalités d'organisation des concours du certificat d'aptitude au professorat de lycée professionnel
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

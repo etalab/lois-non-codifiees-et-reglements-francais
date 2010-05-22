@@ -26,9 +26,9 @@ Pour la préparation de la leçon, les ouvrages et documents demandés par les c
 
 Le programme est renouvelé chaque année. L'un des deux ouvrages est obligatoirement choisi dans la période pour laquelle aucun auteur n'est inscrit au programme de la troisième épreuve d'admissibilité.
 
-4° L'épreuve se déroule en deux parties (durée de la préparation pour les deux parties : deux heures ; durée totale de l'épreuve : une heure vingt minutes ; la première partie de l'épreuve compte pour 16 points, la seconde pour 4 points ; coefficient 1,5) :
+4° L'épreuve se déroule en deux parties (durée de la préparation pour les deux parties : deux heures ; durée totale de l'épreuve : cinquante minutes ; la première partie de l'épreuve compte pour 16 points, la seconde pour 4 points ; coefficient 1,5) :
 
-Première partie : traduction et explication d'un texte grec ou latin ou allemand ou anglais ou arabe ou italien extrait de l'ouvrage inscrit au programme (durée de la première partie de l'épreuve : trente minutes ; durée de l'entretien : trente minutes). Le programme est renouvelé chaque année.
+Première partie : traduction et explication d'un texte grec ou latin ou allemand ou anglais ou arabe ou italien extrait de l'ouvrage inscrit au programme (durée de la première partie de l'épreuve : trente minutes). Le programme est renouvelé chaque année.
 
 Un dictionnaire sera mis par le jury à la disposition des candidats (bilingue pour le latin et le grec, unilingue pour l'anglais, l'allemand, l'arabe et l'italien).
 
@@ -66,8 +66,6 @@ Option B : français ancien et moderne.
 
 (Durée : deux heures trente ; coefficient 4.)
 
-Une note publiée au Bulletin officiel de l'éducation nationale précisera l'esprit des modifications apportées par l'introduction des options.
-
 5° Une composition française sur un sujet se rapportant à un programme d'auteurs indiqué à l'avance (durée : sept heures ; coefficient 9).
 
 Les textes nécessaires sont mis à la disposition des candidats.
@@ -96,13 +94,7 @@ Le candidat répond pendant dix minutes à une question, à partir d'un document
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
-Chaque explication et l'exposé sont suivis :
-
-1. D'une interrogation de grammaire consacrée à des questions simples que le jury propose à ce moment au candidat (durée de l'interrogation : dix minutes) ;
-
-2. D'un entretien entre le jury et le candidat consacré à l'ensemble de l'épreuve (durée de l'entretien : cinq minutes).
-
-Avant le commencement des épreuves orales, un tirage au sort précisera si le candidat doit, pour les épreuves 2° et 3°, faire une explication improvisée latine et une explication préparée grecque, ou inversement.
+Chaque explication, pour les épreuves 1°, 2° et 3°, et l'exposé, pour la première partie de l'épreuve 4°, sont suivis d'une interrogation de grammaire consacrée à des questions simples que le jury propose à ce moment au candidat (durée : dix minutes) et d'un entretien entre le jury et le candidat consacré à l'ensemble de l'épreuve (durée : cinq minutes). Ces deux parties sont constitutives de l'entretien qui suit l'exposé de la première partie de l'épreuve 4°.
 
 Pour la première partie de l'épreuve 4°, à propos d'un texte choisi dans le programme réduit, le candidat expose une ou plusieurs questions de linguistique ou de grammaire ; il a la faculté de montrer, au-delà des exemples du texte, ses connaissances générales de la langue.
 
@@ -184,11 +176,11 @@ A. ― Epreuves écrites d'admissibilité
 
 4° Composition française sur un sujet se rapportant à l'une des deux questions de littérature générale et comparée au programme (durée : sept heures ; coefficient 10).
 
-5° Version latine (durée : quatre heures ; coefficient 5).
+5° Version latine ou version grecque, au choix du candidat formulé lors de l'inscription au concours (durée : quatre heures ; coefficient 5).
 
 6° Version, au choix du candidat, dans l'une des langues vivantes étrangères suivantes : allemand, anglais, arabe, chinois, espagnol, hébreu, italien, polonais, portugais, roumain, russe, tchèque (durée : quatre heures ; coefficient 5).
 
-L'usage du dictionnaire latin-français est autorisé pour l'épreuve de latin. Pour les langues vivantes, seul est autorisé l'usage du dictionnaire unilingue dans la langue choisie, à l'exception des épreuves d'arabe et d'hébreu pour lesquelles l'usage du dictionnaire bilingue est admis.
+L'usage du dictionnaire latin-français et du dictionnaire grec-français est autorisé respectivement pour la version latine et la version grecque. Pour les langues vivantes, seul est autorisé l'usage du dictionnaire unilingue dans la langue choisie, à l'exception des épreuves d'arabe et d'hébreu pour lesquelles l'usage du dictionnaire bilingue est admis.
 
 B. ― Epreuves orales d'admission
 
@@ -994,9 +986,9 @@ B. ― Epreuves orales et pratiques d'admission
 
 1° Leçon de physique (coefficient 4).
 
-2° L'épreuve se déroule en deux parties. La première partie est notée sur 15 points, la seconde sur 5 points.
+2° L'épreuve se déroule en deux parties. Coefficient 4. La première partie est notée sur 15 points, la seconde sur 5 points.
 
-Première partie : leçon de chimie, suivie d'un entretien avec le jury (durée : une heure vingt minutes ; coefficient 4).
+Première partie : leçon de chimie, suivie d'un entretien avec le jury (durée : une heure vingt minutes).
 
 Seconde partie : interrogation portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
@@ -1028,9 +1020,9 @@ B. ― Epreuves orales et pratiques d'admission
 
 1° Leçon de chimie (coefficient 4).
 
-2° L'épreuve se déroule en deux parties. La première partie est notée sur 15 points, la seconde sur 5 points.
+2° L'épreuve se déroule en deux parties. Coefficient 4. La première partie est notée sur 15 points, la seconde sur 5 points.
 
-Première partie : leçon de physique, suivie d'un entretien avec le jury (durée : une heure vingt minutes ; coefficient 4).
+Première partie : leçon de physique, suivie d'un entretien avec le jury (durée : une heure vingt minutes).
 
 Seconde partie : interrogation portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
@@ -1064,9 +1056,9 @@ B. ― Epreuves orales et pratiques d'admission
 
 1° Leçon de physique appliquée, d'électronique, d'électrotechnique, d'automatique et de traitement du signal (coefficient 4).
 
-2° L'épreuve se déroule en deux parties : la première partie est notée sur 15 points, la seconde sur 5 points.
+2° L'épreuve se déroule en deux parties. Coefficient 4. La première partie est notée sur 15 points, la seconde sur 5 points.
 
-Première partie : leçon d'électronique, d'électrotechnique et d'automatique, suivie d'un entretien avec le jury (durée : une heure vingt minutes ; coefficient 4).
+Première partie : leçon de physique et applications, suivie d'un entretien avec le jury (durée : une heure vingt minutes).
 
 Seconde partie : interrogation portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
@@ -1100,9 +1092,9 @@ B. ― Epreuves orales et pratiques d'admission
 
 1° Leçon de génie chimique et de procédés physico-chimiques, de modélisation et de commande (coefficient 4).
 
-2° L'épreuve se déroule en deux parties. La première partie est notée sur 15 points, la seconde sur 5 points.
+2° L'épreuve se déroule en deux parties. Coefficient 4. La première partie est notée sur 15 points, la seconde sur 5 points.
 
-Première partie : leçon de génie chimique et de procédés physico-chimiques, de modélisation et de commande, suivie d'un entretien avec le jury (durée : une heure vingt minutes ; coefficient 4).
+Première partie : leçon de physique, suivie d'un entretien avec le jury (durée : une heure vingt minutes).
 
 Seconde partie : interrogation portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
@@ -1286,7 +1278,7 @@ Coefficient pour l'ensemble de l'épreuve : 3.
 
 Cette leçon est suivie d'un entretien avec le jury (durée de la préparation : quatre heures ; durée de l'épreuve : une heure et quinze minutes maximum [leçon : trente minutes maximum ; entretien : quarante-cinq minutes maximum] ; coefficient 3).
 
-3° L'épreuve se déroule en deux parties : la première partie est notée sur 15 points, la seconde sur 5 points (durée de la préparation : trente minutes ; durée de l'épreuve : une heure maximum ; (coefficient 2).
+3° L'épreuve se déroule en deux parties : la première partie est notée sur 15 points, la seconde sur 5 points (durée de la préparation : trente minutes ; durée de l'épreuve : cinquante minutes maximum ; (coefficient 2).
 
 Première partie : entretien sans préparation avec le jury : entretien à partir de documents imposés par le jury et portant, au choix du candidat formulé lors de son inscription, sur l'un des domaines artistiques, autres que les arts plastiques, suivants : architecture, arts appliqués, cinéma-vidéo, photographie, théâtre (durée : trente minutes maximum).
 
