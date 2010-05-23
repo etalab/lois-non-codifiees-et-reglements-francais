@@ -10,4 +10,4 @@ Pour souscrire la déclaration prévue au deuxième alinéa de l'article 21-11 d
 
 4° Le cas échéant, la copie intégrale des actes de naissance des enfants étrangers du mineur qui résident avec lui de manière habituelle, ou alternativement dans le cas de séparation ou de divorce, ainsi que les pièces de nature à établir cette résidence.
 
-Le juge d'instance recueille au cours d'un entretien dont il est dressé procès-verbal le consentement personnel du mineur.
+Le greffier en chef du tribunal d'instance recueille au cours d'un entretien dont il est dressé procès-verbal le consentement personnel du mineur.
