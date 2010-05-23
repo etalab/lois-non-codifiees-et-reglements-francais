@@ -14,4 +14,4 @@ Les opérations mentionnées au deuxième alinéa de l'article R. 221-5 du code 
 
 ― des quittances d'eau, de gaz ou d'électricité ;
 
-― des loyers dus aux organismes d'habitation à loyer modéré.
+― des loyers dus aux organismes d'habitation à loyer modéré et aux sociétés d'économie mixte gérant des logements sociaux.
