@@ -1,5 +1,3 @@
 # Article 4
 
-Le compte épargne-temps ne peut être utilisé que pour rémunérer des congés d'une durée minimale de cinq jours ouvrés.
-
-L'organe délibérant de la collectivité ou de l'établissement peut fixer une durée minimale de jours de congés supérieure à celle mentionnée à l'alinéa précédent.
+Lorsqu'une collectivité ou un établissement a pris une délibération, en vertu du deuxième alinéa de l'article 7-1 de la loi du 26 janvier 1984 susvisée, tendant à l'indemnisation ou à la prise en compte au sein du régime de retraite additionnelle de la fonction publique des droits ainsi épargnés sur le compte épargne-temps et dès lors qu'au terme de chaque année civile le nombre de jours inscrits sur le compte est inférieur ou égal à vingt, l'agent ne peut utiliser les droits ainsi épargnés que sous forme de congés, pris dans les conditions mentionnées à l'article 3 du décret du 26 novembre 1985 susvisé.

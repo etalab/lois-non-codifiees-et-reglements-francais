@@ -12,4 +12,4 @@ L'agent conserve les droits qu'il a acquis au titre du compte épargne-temps :
 
 Dans le cas mentionné au 1°, les droits sont ouverts et la gestion du compte épargne-temps est assurée par la collectivité ou l'établissement d'accueil. Dans le cas mentionné au 2°, ils le sont par la collectivité ou l'établissement d'affectation.
 
-Dans les cas visés aux 3° et 4°, les intéressés conservent leurs droits sans pouvoir les utiliser, sauf autorisation de l'administration de gestion, et, en cas de détachement ou de mise à disposition, de l'administration d'emploi. A défaut d'autorisation de l'administration de gestion ou d'emploi, le délai mentionné au premier alinéa de l'article 6 est suspendu.
+Dans les cas visés aux 3° et 4°, les intéressés conservent leurs droits sans pouvoir les utiliser, sauf autorisation de l'administration de gestion, et, en cas de détachement ou de mise à disposition, de l'administration d'emploi.
