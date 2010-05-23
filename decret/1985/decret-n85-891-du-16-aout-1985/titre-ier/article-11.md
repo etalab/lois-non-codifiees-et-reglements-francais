@@ -4,7 +4,7 @@ L'inscription au registre donne lieu à la délivrance par le préfet de région
 
 a) Une licence communautaire lorsque l'entreprise utilise des autobus ou des autocars à l'exception des entreprises inscrites en application des dispositions du b ou du d de l'article 5 ci-dessus ;
 
-b) Une licence de transport intérieur lorsque l'entreprise utilise des véhicules autres que des autobus ou des autocars ou lorsqu'elle est inscrite au registre en application du 4° de l'article 5 ci-dessus, ou lorsqu'elle déclare limiter son activité au seul département ou à la seule région d'outre-mer où elle est implantée.
+b) Une licence de transport intérieur lorsque l'entreprise utilise des véhicules autres que des autobus ou des autocars ou lorsqu'elle est inscrite au registre en application du 4 ou du 5 de l'article 5 ci-dessus, ou lorsqu'elle déclare limiter son activité au seul département ou à la seule région d'outre-mer où elle est implantée.
 
 Une licence de transport intérieur est délivrée aux entreprises titulaires d'une licence communautaire, lorsque celles-ci utilisent également des véhicules autres que des autobus ou des autocars.
 

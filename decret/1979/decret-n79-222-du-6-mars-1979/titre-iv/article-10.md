@@ -1,3 +1,7 @@
 # Article 10
 
-Des arrêtés du ministre chargé des transports fixent les modèles des autorisations et les conditions de leur délivrance, ainsi que la procédure et le modèle de la déclaration visée à l'article 7 ci-dessus.
+Est puni de l'amende prévue pour les contraventions de la 5e classe :
+
+a) Le fait d'assurer le service sans respecter la consistance prévue par l'autorisation de transport international ;
+
+b) Le fait d'exécuter un transport public routier de personnes sans avoir à bord les documents prévus à l'article 9 ou avec des documents non renseignés ou renseignés de façon incomplète, illisible, erronée ou effaçable.

@@ -17,3 +17,5 @@ c) Soit aux personnes qui ont exercé pendant au moins cinq années, sous réser
 3° Les entreprises de transport public routier de personnes établies dans les départements et régions d'outre-mer et qui déclarent limiter leur activité au seul département et à la seule région où elles sont établies sont réputées satisfaire à la condition de capacité professionnelle dès lors que la personne physique qui assure la direction permanente et effective de l'activité de transport de l'entreprise est titulaire d'une attestation de capacité professionnelle. Les épreuves de l'examen écrit auxquelles il doit être satisfait pour obtenir cette attestation sont aménagées pour tenir compte de l'activité limitée de l'entreprise. Il en va de même de la liste des diplômes et certificats admis en équivalence.
 
 4° Les certificats de capacité professionnelle délivrés par les autorités compétentes des autres Etats membres de l'Union européenne sont reconnus comme preuve suffisante de la capacité professionnelle.
+
+5° Les modalités d'application du présent article sont précisées par un arrêté du ministre chargé des transports.

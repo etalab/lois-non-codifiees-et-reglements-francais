@@ -1,6 +1,6 @@
 # Article 2
 
-I. - Il doit être satisfait à la condition d'honorabilité professionnelle par chacune des personnes suivantes :
+I.-Il doit être satisfait à la condition d'honorabilité professionnelle par chacune des personnes suivantes :
 
 a) Le commerçant chef d'entreprise individuelle ;
 
@@ -16,13 +16,13 @@ f) Le président et les dirigeants des sociétés par actions simplifiées ;
 
 g) La personne physique qui assure la direction permanente et effective de l'activité de transport ou de location de l'entreprise.
 
-II. - Il n'est pas satisfait à la condition d'honorabilité professionnelle lorsque l'une des personnes mentionnées au I fait l'objet :
+II.-Il n'est pas satisfait à la condition d'honorabilité professionnelle lorsque l'une des personnes mentionnées au I fait l'objet :
 
-Soit d'une condamnation prononcée par une juridiction française et inscrite au bulletin n° 2 de son casier judiciaire ou par une juridiction étrangère et inscrite dans un document équivalent, entraînant une interdiction d'exercer une profession commerciale ou industrielle ;
+Soit d'une condamnation prononcée par une juridiction française et inscrite au bulletin n° 2 de son casier judiciaire ou par une juridiction étrangère et inscrite dans un document équivalent, prononçant une interdiction d'exercer une profession commerciale ou industrielle ;
 
 Soit de plus d'une condamnation mentionnée au bulletin n° 2 du casier judiciaire pour l'un ou l'autre des délits suivants :
 
-a) Infractions mentionnées aux articles L. 221-2, L. 223-5, L. 224-16 à L. 224-18, L. 231-1, L. 233-1, L. 233-2, L. 234-1, L. 234-8, L. 317-1 à L. 317-4, L. 325-3-1 et L. 412-1 du code de la route ;
+a) Infractions mentionnées aux articles L. 221-2, L. 223-5, L. 224-16 à L. 224-18, L. 231-1, L. 233-1, L. 233-2, L. 234-1, L. 234-8, L. 235-1, L. 235-3, L. 317-1 à L. 317-4, L. 325-3-1, L. 412-1 et L. 413-1 du code de la route ;
 
 b) Infractions mentionnées aux articles L. 125-1, L. 125-3, L. 324-9, L. 324-10, L. 341-6 et L. 631-1 du code du travail ;
 
@@ -38,7 +38,7 @@ g) Infractions aux dispositions de l'article 3 de la loi du 31 décembre 1992 su
 
 h) Infractions aux dispositions de l'article 23-1 de la loi du 1er février 1995 susvisée.
 
-III. - Le préfet de région est, à sa demande, informé des condamnations mentionnées ci-dessus au moyen du bulletin n° 2 du casier judiciaire.
+III.-Le préfet de région est, à sa demande, informé des condamnations mentionnées ci-dessus au moyen du bulletin n° 2 du casier judiciaire.
 
 Les personnes résidant en France depuis moins de cinq ans et dont les Etats de leurs résidences précédentes appartiennent à l'Union européenne doivent apporter la preuve qu'elles y satisfaisaient à la condition d'honorabilité professionnelle définie par ces Etats pour l'accès à la profession de transporteur ou de loueur.
 
