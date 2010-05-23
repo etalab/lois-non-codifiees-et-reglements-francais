@@ -4,7 +4,7 @@ Entrent également en ligne de compte pour l'attribution de la médaille d'honne
 
 Les bonifications de services accordées en cas de mise à la retraite anticipée par suite d'une mesure générale ;
 
-Les temps de services salariés effectués hors du territoire métropolitain, dans une entreprise de chemin de fer au titre de la coopération ou d'un détachement, à concurrence du tiers de la durée des services exigée ;
+Les temps de services salariés effectués hors du territoire métropolitain, dans une entreprise de transport ferroviaire au titre de la coopération ou d'un détachement, à concurrence du tiers de la durée des services exigée ;
 
 Les périodes de disponibilité accordées :
 
