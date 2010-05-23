@@ -582,7 +582,6 @@
 - [Décret du 26 février 1997 (FCEC9700016D)](decret-du-26-fevrier-1997-fcec9700016d)
 - [Décret du 26 novembre 1997 (ECOI9700455D)](decret-du-26-novembre-1997-ecoi9700455d)
 - [Décret n°96-1164 du 26 décembre 1996 (TASS9623767D)](decret-n96-1164-du-26-decembre-1996-tass9623767d)
-- [Décret n°96-1170 du 26 décembre 1996 (INTA9600307D)](decret-n96-1170-du-26-decembre-1996-inta9600307d)
 - [Décret n°96-1242 du 26 décembre 1996 (MENH9603706D)](decret-n96-1242-du-26-decembre-1996-menh9603706d)
 - [Décret n°96-1243 du 26 décembre 1996 (MENH9603708D)](decret-n96-1243-du-26-decembre-1996-menh9603708d)
 - [Décret n°96-1244 du 26 décembre 1996 (MENH9603707D)](decret-n96-1244-du-26-decembre-1996-menh9603707d)
