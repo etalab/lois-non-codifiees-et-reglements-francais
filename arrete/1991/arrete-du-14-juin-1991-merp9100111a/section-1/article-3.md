@@ -8,9 +8,9 @@ Le nombre de licences pour chaque métier est fixé chaque année par le secrét
 
 - des antériorités de pêche.
 
-Pour l'année 1991, compte tenu des consultations effectuées, le nombre de licences est fixé comme suit :
+Le nombre de licences est fixé comme suit :
 
-- chalutage : vingt licences ;
+- chalutage : dix licences ;
 
 - petits métiers côtiers : deux cent soixante-cinq licences ;
 

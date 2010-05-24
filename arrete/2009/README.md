@@ -3064,7 +3064,6 @@
 - [Arrêté du 30 mars 2009 (JUSA0907609A)](arrete-du-30-mars-2009-jusa0907609a)
 - [Arrêté du 30 novembre 2009 (AGRG0927736A)](arrete-du-30-novembre-2009-agrg0927736a)
 - [Arrêté du 30 novembre 2009 (AGRG0929063A)](arrete-du-30-novembre-2009-agrg0929063a)
-- [Arrêté du 30 novembre 2009 (AGRM0929091A)](arrete-du-30-novembre-2009-agrm0929091a)
 - [Arrêté du 30 novembre 2009 (DEVP0928181A)](arrete-du-30-novembre-2009-devp0928181a)
 - [Arrêté du 30 novembre 2009 (ECEC0924065A)](arrete-du-30-novembre-2009-ecec0924065a)
 - [Arrêté du 30 novembre 2009 (ECED0926023A)](arrete-du-30-novembre-2009-eced0926023a)
