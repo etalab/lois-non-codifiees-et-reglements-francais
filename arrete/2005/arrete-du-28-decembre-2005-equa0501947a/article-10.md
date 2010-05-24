@@ -172,14 +172,6 @@ C. - Délivrance d'autres actes :
 </tr>
 <tr>
 <td valign="top" width="453">
-<p>Mention de la radiotéléphonie dans une langue déterminée</p>
-</td>
-<td valign="top" width="246">
-<p align="center">55</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="453">
 <p>Carte de stagiaire</p>
 </td>
 <td valign="top" width="246">

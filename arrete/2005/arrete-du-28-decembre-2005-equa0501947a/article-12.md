@@ -4,13 +4,13 @@ Redevance d'aptitude au vol. - Le mode de calcul et les conditions servant à l'
 
 Sans préjudice d'autres dispositions prévues ci-après, le montant de la redevance d'aptitude au vol est fonction d'un coefficient "N" qui se déduit du coût complet des contrôles relatifs à l'aptitude en vol des aéronefs. La valeur de "N" est fixée en annexe au présent arrêté.
 
-A. - Pour les certificats de navigabilité d'aéronefs (CdN) ou, le cas échéant, les certificats d'examen de navigabilité (CEN) associés autres que les certificats de navigabilité visés aux B et C du présent article, la redevance est due pour leur établissement ou leur renouvellement.
+A. - Pour les certificats de navigabilité d'aéronefs (CdN) ou, le cas échéant, les certificats d'examen de navigabilité (CEN) associés autres que les certificats de navigabilité visés aux B et C du présent article, la redevance est due pour leur établissement ou leur renouvellement ou leur prorogation.
 
 1. Le montant de la redevance pour l'établissement d'un CdN est établi sur la base du temps passé pour les contrôles, dans la limite du montant résultant de l'application de la formule suivante :
 
 (R) = 3 × (16 × N) en ce qui concerne les aéronefs non motorisés. Les montants calculés sur la base du temps passé sont évalués par application du taux horaire fixé dans l'annexe au présent arrêté.
 
-Cette redevance couvre également l'établissement du certificat d'examen de navigabilité (CEN), du certificat de limitation de nuisances (CLN), la délivrance de la licence de station d'aéronef (LSA) et l'approbation du programme d'entretien associés.
+Cette redevance couvre également l'établissement du certificat d'examen de navigabilité (CEN), du certificat de limitation de nuisances (CLN) ou du certificat acoustique, la délivrance de la licence de station d'aéronef (LSA) et l'approbation du programme d'entretien associés.
 
 2. Le montant de la redevance pour le renouvellement d'un certificat de navigabilité ou, le cas échéant, la redevance pour la délivrance d'un CEN est établi comme suit :
 
@@ -32,10 +32,10 @@ Pour les autres aéronefs, le montant de la redevance (R) est établi selon les 
 <td width="265">
 <p align="center">TYPE DE REDEVANCE R</p>
 </td>
-<td width="283">
+<td width="294">
 <p align="center">CAS DES AÉRONEFS MOTORISÉS</p>
 </td>
-<td width="152">
+<td width="140">
 <p align="center">AUTRES AÉRONEFS</p>
 </td>
 </tr>
@@ -43,98 +43,156 @@ Pour les autres aéronefs, le montant de la redevance (R) est établi selon les 
 <td rowspan="4" valign="top" width="265">
 <p>Redevance de base Rb, définie par tranche de puissance W.</p>
 </td>
-<td valign="top" width="283">
-<p align="left">Si 0 &lt; W &lt; 100, Rb = (16 x N).</p>
+<td valign="top" width="294">
+<p>Si 0 &lt; W &lt; 100, Rb = (16 x N).</p>
 </td>
-<td rowspan="4" valign="top" width="152"/>
+<td rowspan="4" valign="top" width="140"/>
 </tr>
 <tr>
-<td valign="top" width="283">
-<p align="left">Si 100 &lt; W &lt; 4 000, Rb = [16 + 0.14 × (W - 100)] × N.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="283">
-<p align="left">Si 4 000 &lt; W &lt; 30 000, Rb = [498 + 0,016 x W] × N.</p>
+<td valign="top" width="294">
+<p>Si 100 &lt; W &lt;4000, Rb = [16 + 0.14 x (W - 100)] x N.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="283">
-<p align="left">Si W &gt; 30 000, Rb = [768 + 0,007 x W] × N.</p>
+<td valign="top" width="294">
+<p>Si 4000 &lt; W &lt; 30 000, Rb = [498 + 0,016 x W] x N.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" valign="top" width="265">
-<p align="left">Cycle d'examen de navigabilité inférieur à un an.</p>
-</td>
-<td valign="top" width="283">
-<p align="left">(R) = 50 + Rb si W ≤ 4 000.</p>
-</td>
-<td rowspan="2" valign="top" width="152">
-<p align="left">(R) = 50 + (16 × N).</p>
+<td valign="top" width="294">
+<p>Si W &gt; 30 000, Rb = [768 + 0,007 x W] x N.</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">(R) = 1,3 × Rb si W &gt; 4 000.</p>
+<td colspan="3" valign="top" width="699">
+<p>Aéronefs de l'annexe II du règlement 216/2008</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2" valign="top" width="265">
-<p align="left">Cycle d'examen de navigabilité égal à un an.</p>
+<p>Cycle d'examen de navigabilité inférieur à un an</p>
 </td>
-<td valign="top" width="283">
-<p align="left">(R) = 50 + 1,5 × Rb si W ≤ 4 000.</p>
+<td valign="top" width="294">
+<p>(R) = 50 + Rb si W ≤ 4 000</p>
 </td>
-<td rowspan="2" valign="top" width="152">
-<p align="left">(R) = 50 + 1,2 × (16 × N).</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="left">(R) = 1,6 × Rb si W &gt; 4000.</p>
+<td rowspan="2" valign="top" width="140">
+<p>(R) = 50 + (16 x N).</p>
 </td>
 </tr>
 <tr>
-<td align="left" rowspan="3" valign="top">
-<p align="left">Cycle d'examen de navigabilité supérieur à un an, pour un aéronef dont la gestion de navigabilité n'est pas assurée par un organisme agréé selon la sous-partie G de la partie M du règlement (CE) n° 2042/2003 susvisé.</p>
-</td>
-<td align="left" valign="top">
-<p align="left">(R) = 1,3 × Rb.</p>
-</td>
-<td align="left" rowspan="3" valign="top">
-<p align="left">(R) = (16 × N).</p>
+<td valign="top" width="294">
+<p>(R) = 1,3 × Rb si W &gt; 4 000</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">Pour un aéronef certifié selon les codes CS 25 ou CS 29 ou selon des codes équivalents, (R) est plafonnée à k<sub>10</sub> × 11.</p>
+<td rowspan="2" valign="top" width="265">
+<p>Cycle d'examen de navigabilité égal à un an</p>
+</td>
+<td valign="top" width="294">
+<p>(R) = 50 + 1,5 × Rb si W ≤ 4 000</p>
+</td>
+<td rowspan="2" valign="top" width="140">
+<p>(R) = 50 + 1, 2 × (16 × N)</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">Pour les autres aéronefs, (R) est plafonnée à k<sub>10</sub> × 6.</p>
+<td valign="top" width="294">
+<p>(R) = 1,6 × Rb si W &gt; 4 000</p>
 </td>
 </tr>
 <tr>
-<td align="center" rowspan="3" valign="top">
-<p align="left">Cycle d'examen de navigabilité supérieur à un<br/>an, pour un aéronef dont la gestion de<br/>navigabilité est assurée par un organisme<br/>agréé selon la sous-partie G de la partie M du<br/>règlement (CE) n° 2042/2003 susvisé.</p>
+<td rowspan="3" valign="top" width="265">
+<p>Cycle d'examen de navigabilité supérieur à un an.</p>
 </td>
-<td align="center" valign="top">
-<p align="left">(R) = 1,1 × Rb.</p>
+<td valign="top" width="294">
+<p>(R) = 1,3 × Rb</p>
 </td>
-<td align="center" rowspan="3" valign="top">
-<p align="left">(R) = (16 × N).</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="283">
-<p align="left">Pour un aéronef certifié selon les codes CS 25 ou CS 29 ou selon des codes équivalents, (R) est plafonnée à k<sub>10</sub> x 6,9.</p>
+<td rowspan="3" valign="top" width="140">
+<p>(R) = (16 × N)</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">Pour les autres aéronefs, (R) est plafonnée à k<sub>10</sub> × 3,6.</p>
+<td valign="top" width="294">
+<p>Pour un aéronef certifié selon les codes CS25 ou CS29 ou selon des codes équivalents, (R) est plafonnée à k<sub>10</sub> × 11.</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="294">
+<p>Pour les autres aéronefs, (R) est plafonnée à k<sub>10</sub> × 6.</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" valign="top" width="699">
+<p>Aéronefs relevant de la réglementation communautaire</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" valign="top" width="265">
+<p>Aéronefs en environnement contrôlé au sens du § MA901 de la partie M du règlement (CE) n° 2042/2003 susvisé </p>
+</td>
+<td valign="top" width="294">
+<p>(R) = 1,1 × Rb</p>
+</td>
+<td rowspan="3" valign="top" width="140">
+<p>(R) = (16 × N)</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="294">
+<p>Pour un aéronef certifié selon les codes CS25 ou CS29 ou selon des codes équivalents, (R) est plafonnée à k<sub>10</sub> × 6,9.</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="294">
+<p>Pour les autres aéronefs, (R) est plafonnée à k<sub>10</sub> × 3,6.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" valign="top" width="265">
+<p>Aéronefs entretenus par des organismes de maintenance agréés depuis le précédent examen de navigabilité</p>
+</td>
+<td valign="top" width="294">
+<p>(R) = 1,3 × Rb</p>
+</td>
+<td rowspan="3" valign="top" width="140">
+<p>(R) = 1,2 × (16 × N)</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="294">
+<p>Pour un aéronef certifié selon les codes CS25 ou CS29 ou selon des codes équivalents, (R) est plafonnée à k<sub>10</sub> × 11.</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="294">
+<p>Pour les autres aéronefs, (R) est plafonnée à k10 × 6.</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="265">
+<p>Aéronefs ELA1 (aéronef léger européen) non entretenus par des organismes de maintenance agréés dont le précédent examen de navigabilité n'a été réalisé ni par l'autorité ni par un organisme agréé selon la partie G de la partie M du règlement (CE) n° 2042/2003 susvisé </p>
+</td>
+<td valign="top" width="294">
+<p>(R) = 100 + 1,5 × Rb</p>
+</td>
+<td valign="top" width="140">
+<p>(R) = 100 + 1,2 × (16 × N)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" valign="top" width="265">
+<p>Autres cas</p>
+</td>
+<td valign="top" width="294">
+<p>(R) = 50 + 1,5 × Rb si W ≤ 4 000</p>
+</td>
+<td rowspan="2" valign="top" width="140">
+<p>(R) = 50 + 1, 2 × (16 × N)</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="294">
+<p>(R) = 1,6 × Rb si W &gt; 4 000</p>
 </td>
 </tr>
 </tbody>
@@ -164,14 +222,47 @@ Le paiement de la redevance est exigible préalablement à l'examen de navigabil
 </td>
 </tr>
 <tr>
-<td valign="top" width="233">
-<p>Aéronef non motorisé.</p>
+<td colspan="2" width="466">
+<p>Aéronefs ELA1 </p>
 </td>
-<td valign="top" width="233">
-<p align="center">1⁄2 heure</p>
-</td>
-<td rowspan="5" valign="top" width="233">
+<td rowspan="9" width="233">
 <p align="center">Redevance<br/>correspondante prévue au § 2.1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="233">
+<p>Aéronef non motorisé entretenu en cadre agréé depuis le précédent examen</p>
+</td>
+<td valign="top" width="233">
+<p align="center">0,4 k<sub>10</sub>
+</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="233">
+<p>Autres aéronefs non motorisés</p>
+</td>
+<td valign="top" width="233">
+<p align="center">0,7 k<sub>10</sub>
+</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="233">
+<p>Aéronef motorisé entretenu en cadre agréé depuis le précédent examen</p>
+</td>
+<td valign="top" width="233">
+<p align="center">0,7 k<sub>10</sub>
+</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="233">
+<p>Autre aéronef motorisé</p>
+</td>
+<td valign="top" width="233">
+<p align="center">1 k<sub>10</sub>
+</p>
 </td>
 </tr>
 <tr>
@@ -179,7 +270,8 @@ Le paiement de la redevance est exigible préalablement à l'examen de navigabil
 <p>MMD ≤ 2,7 t.</p>
 </td>
 <td valign="top" width="233">
-<p align="center">1 heure</p>
+<p align="center">1 k<sub>10</sub>
+</p>
 </td>
 </tr>
 <tr>
@@ -187,7 +279,8 @@ Le paiement de la redevance est exigible préalablement à l'examen de navigabil
 <p>2,7 t &lt; MMD ≤ 5,7 t.</p>
 </td>
 <td valign="top" width="233">
-<p align="center">2 heures</p>
+<p align="center">2 k<sub>10</sub>
+</p>
 </td>
 </tr>
 <tr>
@@ -195,7 +288,8 @@ Le paiement de la redevance est exigible préalablement à l'examen de navigabil
 <p>5,7 t &lt; MMD ≤ 2,5 t.</p>
 </td>
 <td valign="top" width="233">
-<p align="center">4 heures</p>
+<p align="center">4 k<sub>10</sub>
+</p>
 </td>
 </tr>
 <tr>
@@ -210,6 +304,8 @@ Le paiement de la redevance est exigible préalablement à l'examen de navigabil
 </table>
 
 La redevance est exigible à la délivrance du CEN.
+
+3. La redevance de prorogation d'un CEN est fixée à 50 euros.
 
 B. - Pour les certificats de navigabilité spéciaux d'aéronefs suivants : certificat de navigabilité restreint d'aéronef (CNRA), certificat de navigabilité restreint d'aéronef de collection (CNRAC), certificat de navigabilité spécial d'aéronef en kit (CNSK) et certificat de navigabilité restreint d'aéronef agricole (CNRAA), la redevance est due pour la visite en vue de la délivrance ou du renouvellement du certificat précité.
 
@@ -274,7 +370,7 @@ C. - Pour ce qui concerne le certificat de navigabilité restreint d'aéronef sa
 
 2. La redevance de renouvellement est établie sur une base forfaitaire et en fonction de la périodicité des renouvellements, selon le tableau figurant au B.2 du présent article.
 
-D. - Le montant des frais d'édition des documents de navigabilité est fixé en annexe au présent arrêté. Ces frais ne sont pas dus pour l'édition des documents de navigabilité mentionnés au F, au G et au H du présent article.
+D. - Le montant des frais d'édition des documents de navigabilité est fixé en annexe au présent arrêté. Ces frais ne sont pas dus pour l'édition des documents mentionnés aux 3 du A, F, G et H du présent article.
 
 E. - Les montants des redevances établies par le présent article s'appliquent aux contrôles effectuées en France métropolitaine sur les aérodromes inscrits sur la liste des centres de contrôle établie par le GSAC. En dehors des centres de contrôle, les frais de voyage et de séjour de l'expert du GSAC chargé du contrôle sont dus par le demandeur.
 
@@ -381,6 +477,8 @@ G. - Pour ce qui concerne les laissez-passer délivrés en application du IV de 
 </tr>
 </tbody>
 </table>
+
+Toutefois les laissez-passer délivrés aux aéronefs sans responsable de navigabilité de type font l'objet d'une redevance équivalente à celle du CDNR telle que définie au paragraphe C. 2 ci-dessus.
 
 La redevance est exigible à la délivrance du document et acquittée auprès de l'administration de l'aviation civile ou du GSAC pour les laissez-passer délivrés par cet organisme.
 

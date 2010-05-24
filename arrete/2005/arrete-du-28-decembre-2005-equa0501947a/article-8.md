@@ -12,11 +12,11 @@ où
 
 - "E" est un coefficient relatif au type d'organisme déterminé comme suit :
 
-"E" = 2 pour les organismes approuvés de formation aux qualifications de type (TRTO) et pour les organismes approuvés de formation au vol (FTO) lorsque ceux-ci dispensent en sus des formations aux qualifications de type "multipilote ;
+"E" = 2 pour les organismes approuvés de formation aux qualifications de type (TRTO) et pour les organismes approuvés de formation au vol (FTO) lorsque ceux-ci dispensent en sus des formations aux qualifications de type "multipilote" ;
 
 "E" = 1 pour les autres FTO et pour les organismes de formation au certificat de formation à la sécurité (CFS) ;
 
-- "E" = 0,5 pour les organismes, entreprises ou personnes physiques ayant reçu une homologation en vue de dispenser une formation sur avion ou hélicoptère ou ultraléger motorisé ou dispensant un enseignement homologué sur avion, hélicoptère, planeur ou ultraléger motorisé ;
+"E" = 0, 5 pour les organismes, entreprises ou personnes physiques ayant reçu une homologation en vue de dispenser une formation sur avion ou sur hélicoptère ou dispensant un enseignement homologué sur avion, sur hélicoptère ou sur planeur ;
 
 - "(1 + C)" est un coefficient relatif aux cours approuvés où C est la somme, pour l'ensemble des cours approuvés au cours d'une période de douze mois des coefficients "c" fixés pour chacun d'eux par le tableau suivant :
 
@@ -792,28 +792,6 @@ où
 </td>
 <td/>
 </tr>
-<tr>
-<td>
-<p align="center">60</p>
-</td>
-<td>Cours d'instructeur de pilote d'ULM </td>
-<td>
-<p align="center">0,2</p>
-</td>
-<td/>
-</tr>
-<tr>
-<td>
-<p align="center">61</p>
-</td>
-<td>
-<p align="left">Formation et contrôles des connaissances des instructeurs de pilote d'ULM </p>
-</td>
-<td>
-<p align="center">0,2 </p>
-</td>
-<td/>
-</tr>
 </tbody>
 </table>
 
@@ -889,3 +867,7 @@ La redevance est exigible chaque mois de facturation échu. Chaque mensualité e
 Pour l'application du présent article, mois de facturation s'entend comme le mois au titre duquel l'activité surveillée est soumise à redevance.
 
 L'instruction effectuée en vue de l'approbation d'un organisme de formation de personnel navigant donne lieu à paiement d'une redevance égale à la redevance définie en application du présent article. Dans ce cas, le paramètre "S" est évalué à 1. La redevance d'instruction est exigible mensuellement en fonction de l'avancement de l'instruction.
+
+Le montant annuel de la redevance d'organisme de formation de personnel navigant pour les organismes homologués pour la formation des instructeurs de pilote d'ultralégers motorisés est fixé à 100 euros.
+
+La redevance est due au 31 décembre de l'année N par tout organisme ayant détenu une homologation au cours de la période entre le 1er janvier et le 31 décembre de l'année N. L'instruction ne donne lieu à aucune redevance.

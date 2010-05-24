@@ -2,7 +2,7 @@
 
 Redevance de maintenance. - Le mode de calcul et les conditions servant à l'établissement du montant de la redevance de maintenance prévue par le III de l'article R. 611-3 ainsi que celles relatives à son paiement sont fixés ainsi qu'il suit.
 
-Les organismes assujettis à cette redevance sont tenus de déclarer au GSAC les éléments utiles au calcul de cette redevance au plus tard le 10e jour qui suit l'établissement ou la modification des paramètres "effectif", "Nbase", "Nligne", "Nsites" et "Naprs" ci-après définis.
+Les organismes assujettis à cette redevance sont tenus de déclarer au GSAC les éléments utiles au calcul de cette redevance au plus tard le 10e jour qui suit l'établissement ou la modification des paramètres "effectif", "Nbase", "Nligne", "A", "M", "E" "Nsites" et "Naprs" ci-après définis.
 
 Ces organismes sont :
 
@@ -40,31 +40,13 @@ où les paramètres "effectif", "Nbase" et "k<sub>2</sub>" sont définis comme s
 
 - "k<sub>2</sub>" est un coefficient de proportionnalité fonction du taux horaire et du nombre d'unités de surveillance déterminé ; il se déduit du coût complet des contrôles organisés sur l'ensemble des organismes de maintenance. La valeur de "k<sub>2</sub>" est fixée en annexe au présent arrêté.
 
-C. - Les autres organismes de maintenance doivent acquitter au titre du suivi de l'agrément une redevance (R), dont le montant est la combinaison de deux composantes (R 2) et (R 3) :
+C. - Les autres organismes de maintenance doivent acquitter au titre du suivi de l'agrément une redevance (R) dont le montant est calculé en appliquant la formule suivante :
 
-(R) = (R2) + (R3) - 0,5 × min. [(R2)]; [(R3)],
+(R) = k<sub>2</sub> × [(A + M + E) <sup>0,9</sup> + (3 × N<sub>APRS</sub>) <sup>0,9</sup> + 10 × (N<sub>SITES</sub> - 1)]
 
-sans que (R) puisse être inférieur à (R 2) ;
+où les paramètres "A", "M", "E" "N<sub>APRS</sub>", "N<sub>SITES</sub>" et "k<sub>2</sub>" sont définis comme suit :
 
-où min. [(R 2) ; (R 3)] désigne le plus petit des montants (R 2) et (R 3) et où (R 2) et (R 3) sont définis comme suit :
-
-(R 1) est calculé en prenant en compte les aéronefs dont le propriétaire a confié l'entretien à l'organisme de maintenance pour lesquels :
-
-- le cycle d'examen de navigabilité est supérieur à un an et
-
-- la redevance d'aptitude au vol prévue au A-2 de l'article 12 n'est pas due par le propriétaire dans l'année.
-
-Son montant est égal à la somme pour ces aéronefs des termes 1,1 × Rb pour chaque aéronef motorisé et 16 × N pour chaque aéronef non motorisé, avec :
-
-- "Rb" est le paramètre défini au A-2 de l'article 12 ;
-
-- "N" est le paramètre défini à l'article 12 et dont la valeur est fixée en annexe au présent arrêté.
-
-(R 2) = k<sub>2</sub> × [(A + M)<sup>0.9</sup> + (3 × N<sub>APRS</sub>)<sup>0,9</sup> + 10 × (N<sub>SITES</sub> - 1)]
-
-où les paramètres "A", "M", "N<sub>APRS</sub>", "N<sub>SITES</sub>" et "k<sub>2</sub>" sont définis comme suit :
-
-"A" est la somme, pour tous les types d'aéronefs figurant dans le domaine d'agrément de l'organisme, des coefficients "a" dont la valeur pour chaque type est donnée par le tableau suivant en fonction de la catégorie d'aéronef :
+" A " est la somme, pour tous les types d'aéronefs figurant dans le domaine d'agrément de l'organisme des coefficients " a " dont la valeur pour chaque type est donnée par le tableau suivant en fonction de la catégorie d'aéronef :
 
 <table>
 <tbody>
@@ -247,7 +229,7 @@ où les paramètres "A", "M", "N<sub>APRS</sub>", "N<sub>SITES</sub>" et "k<sub>
 </tbody>
 </table>
 
-Par "type d'aéronefs" on entend l'ensemble des aéronefs faisant l'objet d'une même qualification de type conformément à la partie 66 du règlement (CE) n<sup>o </sup>2042/2003 susvisé ou, à défaut, d'un même manuel de maintenance du constructeur ou, à défaut, présentant des caractéristiques similaires.
+Par "type d'aéronefs", on entend l'ensemble des aéronefs faisant l'objet d'une même qualification de type conformément à la partie 66 du règlement (CE) n° 2042/2003 susvisé ou, à défaut, d'un même manuel de maintenance du constructeur ou à défaut présentant des caractéristiques similaires.
 
 "M" est la somme, pour tous les ensembles regroupant chacun les types de moteurs figurant dans le domaine d'agrément de l'organisme et faisant l'objet d'un même certificat de type, des coefficients "m" dont la valeur pour chaque ensemble est donnée par le tableau suivant en fonction de la catégorie de moteur :
 
@@ -288,21 +270,19 @@ Par "type d'aéronefs" on entend l'ensemble des aéronefs faisant l'objet d'une 
 </tbody>
 </table>
 
-"N<sub>APRS</sub>" est le nombre de personnes habilitées à délivrer l'approbation pour remise en service quel que soit leur domaine d'habilitation, à l'exception des suppléants ; toutefois N<sub>APRS</sub> ne peut pas être inférieur à (A + M)/20, arrondi au nombre entier supérieur ;
+"E" = 2, uniquement si le domaine d'agrément de l'organisme inclut des équipements. Toutefois le terme "E" n'est pas applicable si le domaine d'agrément de l'organisme inclut aussi des aéronefs complets ;
 
-"N<sub>SITES</sub>" est le nombre de sites d'entretien identifiés dans le manuel d'organisme de maintenance ;
+"N<sub>APRS</sub>" est le nombre de personnes habilitées à délivrer l'approbation pour remise en service quel que soit leur domaine d'habilitation, à l'exception des suppléants ; toutefois N<sub>APRS</sub> ne peut pas être inférieur à (A + M) / 20, arrondi au nombre entier supérieur ;
+
+"N<sub>sites</sub>" est le nombre de sites d'entretien identifiés dans le manuel d'organisme de maintenance ;
 
 "k<sub>2</sub>" est un coefficient de proportionnalité fonction du taux horaire et du nombre d'unités de surveillance déterminé ; il se déduit du coût complet des contrôles organisés sur l'ensemble des organismes de maintenance. La valeur de "k<sub>2</sub>" est fixée en annexe au présent arrêté.
 
-Le montant de (R 3) est égal à celui de la redevance de gestion de navigabilité prévue à l'article 2.
-
-Si l'organisme de maintenance n'est pas titulaire d'un agrément d'organisme de gestion du maintien de la navigabilité, (R 3) est calculé en prenant en compte les aéronefs dont le propriétaire a confié l'entretien à l'organisme de maintenance.
-
-Toutefois ni (R 2) ni (R 3) ne peuvent être inférieurs à (4 × k<sub>2</sub>).
+Toutefois, (R) ne peut être inférieur à (4 × k2).
 
 D. - La redevance de suivi de l'agrément de maintenance est acquittée mensuellement, auprès du GSAC.
 
-Chaque mensualité est égale au douzième du montant résultant de l'application de la formule ou du calcul précités, les paramètres "effectif", "Nbase", "Nligne", "A", "M", "N<sub>APRS</sub>", "N<sub>SITES</sub>" étant évalués par le GSAC en retenant les éléments utiles qui lui sont parvenus au dixième jour du mois de facturation.
+Chaque mensualité est égale au douzième du montant résultant de l'application de la formule ou du calcul précités, les paramètres "effectif", "Nbase", "Nligne", "A", "M", "N<sub>APRS</sub>", "N<sub>SITES</sub>" et, le cas échéant, "E"étant évalués par le GSAC en retenant les éléments utiles qui lui sont parvenus au dixième jour du mois de facturation.
 
 Pour l'application du présent article, "mois de facturation" s'entend comme le mois au titre duquel l'activité surveillée est soumise à redevance.
 
@@ -426,7 +406,7 @@ Autres organismes :
 </tbody>
 </table>
 
-La redevance de suivi de l'agrément de maintenance définie au C du présent article acquittée par un organisme de maintenance prévu au 3° de l'article R. 133-1-1 du code de l'aviation civile rémunère également l'instruction de toute demande d'agrément de maintenance selon la sous-partie F de la partie M du règlement (CE) n° 2003/2042 susvisé déposée par un tel organisme.
+Toutefois, les organismes ayant détenu avant la date du 28 septembre 2009, un agrément d'organisme de maintenance prévu au 3° de l'article R. 133-1-1 du code de l'aviation civile et ayant postulé avant cette même date en vue de la délivrance d'un agrément selon la sous-partie F de la partie M du règlement (CE) n° 2042, acquittent, au titre de la redevance d'instruction, un montant égal à ce qu'ils acquitteraient au titre de la redevance de suivi de l'agrément prévu au C du présent article. Cette disposition ne s'applique que dans les limites du domaine d'activité de l'agrément d'organisme de maintenance précédemment détenu. Une extension du domaine d'agrément s'analyse comme une évolution significative de l'organisme de maintenance qui nécessite une instruction complémentaire.
 
 En cas d'évolution significative de l'organisme de maintenance, qui nécessite une instruction complémentaire durant la période de validité de l'autorisation, les interventions correspondantes donnent lieu à une redevance calculée sur la base du temps passé dans la limite du montant de la redevance d'instruction initiale correspondante définie en application du présent article.
 

@@ -108,3 +108,5 @@ L'instruction effectuée en vue de la délivrance d'un certificat de transporteu
 En cas de suspension du certificat de transporteur aérien, les interventions liées au suivi particulier de l'entreprise en vue du rétablissement de l'agrément donnent lieu au paiement d'une redevance calculée sur la base de la redevance d'instruction initiale définie en application du présent article pendant la durée de la suspension et dans la limite de douze mois.
 
 B. - Le montant de la redevance d'exploitant d'aéronef pour les personnes postulant à l'autorisation spéciale mentionnée à l'article R. 133-6 du code de l'aviation civile est fixé à 1 000 €. Cette redevance est exigible à la demande de l'autorisation.
+
+Toutefois les autorisations spéciales délivrées, à nouveau, aux mêmes personnes et sur la base des mêmes éléments qu'une autorisation ayant donné lieu à la redevance précitée ne donnent pas lieu au paiement de cette redevance.
