@@ -10,6 +10,6 @@ Afin de bénéficier de l'avance de l'aide prévue à l'article 8 du présent ar
 
 L'avance est calculée sur la base du volume de vin inscrit dans le contrat notifié concerné, d'un degré forfaitaire de 12, 5 % vol. et :
 
-― du taux unitaire de l'aide au taux plein prévue à l'article 8 du présent arrêté si le producteur a attesté dans l'engagement ne pas avoir enrichi sa récolte pour la production de vin de table et de vin de pays 2008 par adjonction de moût concentré ou de moût concentré rectifié ayant fait l'objet d'une aide ; ou
+- du taux unitaire de l'aide au taux plein prévue à l'article 8 du présent arrêté si le producteur a attesté dans l'engagement ne pas avoir enrichi sa récolte pour la production de vin de table et de vin de pays 2008 par adjonction de moût concentré ou de moût concentré rectifié ayant fait l'objet d'une aide ou,
 
-― du taux unitaire de l'aide au taux réduit prévue à l'article 8 du présent arrêté si le producteur a attesté dans l'engagement avoir enrichi tout ou partie de sa récolte pour la production de vin de table et de vin de pays 2008 par adjonction de moût concentré ou de moût concentré rectifié ayant fait l'objet d'une aide.
+- du taux unitaire de l'aide au taux réduit prévue à l'article 8 du présent arrêté si le producteur a attesté dans l'engagement avoir enrichi tout ou partie de sa récolte pour la production de vin de table et de vin de pays 2008 par adjonction de moût concentré ou de moût concentré rectifié ayant fait l'objet d'une aide.

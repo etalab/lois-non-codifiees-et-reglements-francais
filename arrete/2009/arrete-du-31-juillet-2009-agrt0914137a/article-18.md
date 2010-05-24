@@ -22,13 +22,13 @@ Lorsque ces documents sont présentés :
 
 Lorsque ces documents sont présentés :
 
-Entre le 1er et le 15 juin 2010 : minoration de 15 % du montant d'aide correspondant à la quantité d'alcool pur inscrite sur chaque document ;
+- entre le 1er et le 15 juin 2010 : minoration de 15 % du montant d'aide correspondant à la quantité d'alcool pur inscrite sur chaque document ;
 
-Entre le 16 et le 30 juin 2010 : minoration de 30 % du montant d'aide correspondant à la quantité d'alcool pur inscrite sur chaque document.
+- entre le 16 et le 30 juin 2010 : minoration de 30 % du montant d'aide correspondant à la quantité d'alcool pur inscrite sur chaque document.
 
-Toutefois, ces minorations ne s'appliquent pas aux états des mises en œuvre des vins en distilleries lorsque ces états sont présentés sous la forme de fichiers électroniques par envoi via l'outil extranet professionnel dédié ;
+Toutefois, ces minorations ne s'appliquent pas aux états des mises en œuvre des vins en distilleries lorsque ces états sont présentés sous la forme de fichiers électroniques par envoi via l'outil extranet professionnel dédié :
 
-Au-delà du 30 juin 2010 : aucune aide n'est versée.
+- au-delà du 30 juin 2010 : aucune aide n'est versée.
 
 Dans tous les cas, si une avance a été versée, le reversement de cette somme est demandé au distillateur conformément aux dispositions de l'article 97 du règlement (CE) n° 555 / 2008 et de l'article 19, paragraphe 1 b, du règlement (CE) n° 2220 / 1985.
 
