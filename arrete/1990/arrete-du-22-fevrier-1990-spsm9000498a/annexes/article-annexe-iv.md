@@ -1,8 +1,6 @@
 # Article Annexe IV
 
-Cette annexe comprend les produits ci-après désignés ainsi que leurs préparations à l'exception de celles nommément
-
-désignées ci-dessous :
+Cette annexe comprend les produits ci-après désignés ainsi que leurs préparations à l'exception de celles nommément désignées ci-dessous :
 
 2-CI
 
@@ -58,9 +56,9 @@ Phénylacétone ou phényl-1 propanone-2
 
 PMMA ou paraméthoxyméthamphétamine
 
-Tabernanthe iboga, Tabernanthe manii, ibogaïne, ses isomères, esters, éthers et leurs sels qu'ils soient d'origine
+Tabernanthe iboga, Tabernanthe manii, ibogaïne, ses isomères, esters, éthers et leurs sels qu'ils soient d'origine naturelle ou synthétique ainsi que toutes préparations qui en contiennent
 
-naturelle ou synthétique ainsi que toutes préparations qui en contiennent
+Tapentadol et ses sels
 
 Tétrahydrocannabinols, leurs esters, éthers, sels ainsi que les sels des dérivés précités
 
