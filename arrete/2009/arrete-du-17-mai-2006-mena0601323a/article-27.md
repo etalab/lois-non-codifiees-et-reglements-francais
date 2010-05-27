@@ -11,3 +11,7 @@ C. - Le service des personnels enseignants de l'enseignement scolaire ;
 D. - Le service des personnels ingénieurs, administratifs, techniques, ouvriers, sociaux et de santé, des bibliothèques et des musées ;
 
 E. - La sous-direction du recrutement.
+
+Les chefs de service ont qualité d'adjoint au directeur général pour les questions relevant de leur compétence.
+
+Le directeur général est assisté, pour les questions transversales, par un chef de service, adjoint au directeur général.

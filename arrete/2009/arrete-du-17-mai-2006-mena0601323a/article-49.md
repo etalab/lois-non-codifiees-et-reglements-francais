@@ -7,3 +7,5 @@ A. - La sous-direction des affaires juridiques de l'enseignement scolaire ;
 B. - La sous-direction des affaires juridiques de l'enseignement supérieur et de la recherche ;
 
 C. - La mission de codification.
+
+Le directeur est assisté, pour l'ensemble de ses attributions, par un chef de service, adjoint au directeur.

@@ -17,3 +17,5 @@ La délégation à la communication comprend :
 ― le bureau des campagnes, des événements et des partenariats ;
 
 ― le bureau des affaires financières et des marchés publics.
+
+Le délégué à la communication est assisté par un sous-directeur, adjoint au délégué.

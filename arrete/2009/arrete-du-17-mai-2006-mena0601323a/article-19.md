@@ -7,3 +7,5 @@ A.-Le service de la stratégie de la recherche et de l'innovation ;
 B.-Le service de la performance, du financement et de la contractualisation avec les organismes de recherche ;
 
 C.-Le service des entreprises, du transfert de technologie et de l'action régionale.
+
+Le directeur général est assisté, pour l'ensemble de ses attributions, par un chef de service, adjoint au directeur général.

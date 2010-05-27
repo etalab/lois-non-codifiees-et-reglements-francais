@@ -7,3 +7,5 @@ La direction des relations européennes et internationales et de la coopération
 - la sous-direction des relations internationales ;
 
 - la sous-direction des affaires européennes et multilatérales.
+
+Le directeur est assisté, pour l'ensemble de ses attributions, par un chef de service, adjoint au directeur.

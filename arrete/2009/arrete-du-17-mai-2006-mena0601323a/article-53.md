@@ -11,3 +11,5 @@ La mission aux relations européennes et internationales est chargée de la coor
 Le département de la valorisation et de l'édition coordonne la valorisation des travaux de la direction et en assure la diffusion aux niveaux national et international.
 
 Le centre de l'informatique statistique et de l'aide à la décision analyse, conçoit, réalise et exploite des outils informatisés. Il assure également un rôle d'assistance, d'interface et de conseil.
+
+Le directeur est assisté, pour l'ensemble de ses attributions, par un chef de service, adjoint au directeur.

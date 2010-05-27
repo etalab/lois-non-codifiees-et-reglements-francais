@@ -7,3 +7,5 @@ A.-Le service de la stratégie de l'enseignement supérieur et de l'insertion pr
 B.-La sous-direction de la performance et du financement de l'enseignement supérieur ;
 
 C.-La sous-direction de l'égalité des chances et de la vie étudiante.
+
+Le directeur général est assisté, pour l'ensemble de ses attributions, par un chef de service, adjoint au directeur général.

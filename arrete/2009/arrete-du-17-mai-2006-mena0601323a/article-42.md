@@ -13,3 +13,5 @@ D. - La sous-direction de l'expertise statutaire, de la masse salariale et du pl
 E. - La sous-direction de l'enseignement privé ;
 
 F. - Le service des pensions.
+
+Le directeur est assisté, pour l'ensemble de ses attributions, par un chef de service, adjoint au directeur.

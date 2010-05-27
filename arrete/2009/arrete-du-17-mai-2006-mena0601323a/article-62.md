@@ -12,4 +12,4 @@ Le service de l'action administrative et de la modernisation comprend, outre la 
 
 ― la mission de la modernisation et des politiques locales ;
 
-― la mission des archives nationales pour l'éducation nationale, l'enseignement supérieur et la recherche.
+― la                mission des archives et du patrimoine culturel.
