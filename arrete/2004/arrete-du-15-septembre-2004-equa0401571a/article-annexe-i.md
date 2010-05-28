@@ -202,6 +202,8 @@ Paris-Séoul.
 
 Costa Rica
 
+Paris - Liberia (jusqu'au 31 décembre 2012).
+
 Paris-San José.
 
 Côte d'Ivoire
@@ -330,7 +332,7 @@ Guinée équatoriale
 
 Paris-Malabo.
 
-Paris - Bata (Jusqu'au 31 décembre 2012).
+Paris - Bata (jusqu'au 31 décembre 2012).
 
 Haïti
 
@@ -365,6 +367,10 @@ Paris-Téhéran.
 Israël
 
 Paris-Tel-Aviv.
+
+Jamaïque
+
+Paris-Montego Bay (jusqu'au 31 décembre 2012).
 
 Japon
 

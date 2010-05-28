@@ -99,7 +99,7 @@ ENQUÊTES STATISTIQUES PUBLIQUES D'INITIATIVE RÉGIONALE POUR 2010
 <p>Enquête auprès des fournisseurs, sous-traitants ou prestataires de services du port de Toulon.</p>
 </td>
 <td width="350">
-<p>L'enquête a pour objectif d'établir l'impact économique du port de commerce de Toulon afin d'évaluer le nombre d'emplois (directs, indirects et induits) générés par ce port et de donner une estimation globale du chiffre d'affaires. Elle se déroulera entre mars et juin 2010 par voie postale auprès de 1   000 établissements maximum du port de Toulon ayant une activité de croisière, de très grande plaisance, de plaisance, de fret, de réparation navale, de pêche, d'aquaculture, de transport maritime interne à la rade ou par ferry.</p>
+<p>L'enquête a pour objectif d'établir l'impact économique du port de commerce de Toulon afin d'évaluer le nombre d'emplois (directs, indirects et induits) générés par ce port et de donner une estimation globale du chiffre d'affaires. Elle se déroulera entre mars et juin 2010 par voie postale auprès de 1 000 établissements maximum du port de Toulon ayant une activité de croisière, de très grande plaisance, de plaisance, de fret, de réparation navale, de pêche, d'aquaculture, de transport maritime interne à la rade ou par ferry.</p>
 </td>
 </tr>
 <tr>
@@ -157,6 +157,26 @@ ENQUÊTES STATISTIQUES PUBLIQUES D'INITIATIVE RÉGIONALE POUR 2010
 <td valign="top" width="350">
 <p>L'enquête a pour principal objectif de recueillir des informations quantitatives et qualitatives sur les touristes qui visitent le département afin de suivre le développement de ce secteur. Elle est réalisée tout au long de l'année auprès de tous les passagers au départ de l'aéroport de Cayenne-Rochambeau.</p>
 </td>
+</tr>
+<tr>
+<td>
+<p>Association régionale des industriels agroalimentaires du Languedoc-Roussillon (ARIA LR) en partenariat avec le centre international d'études supérieures en sciences agronomiques (Montpellier SupAgro), l'unité mixte de recherche Marchés, organisations, institutions, stratégies d'acteurs (UMR MOÏSA, maître d'œuvre) et la fédération régionale de coopération agricole (FRCA LR) </p>
+</td>
+<td/>
+</tr>
+<tr>
+<td valign="middle">
+<p>(*) Enquête sur les facteurs de développement des entreprises agroalimentaires en Languedoc-Roussillon.</p>
+</td>
+<td>L'objectif de cette enquête est d'actualiser les connaissances acquises lors des enquêtes de 1998 et 2003 sur les entreprises de la filière agroalimentaire du Languedoc-Roussillon. Ces connaissances sont relatives : <p>- aux facteurs de développement des entreprises ; </p>
+<p>- aux mécanismes d'innovation à l'œuvre ; </p>
+<p>- au poids économique et social de la sphère agroalimentaire régionale. </p>
+<p>La collecte sera réalisée entre mai et novembre 2010 par enquêteurs auprès d'environ 500 établissements de la filière agroalimentaire de la région comprenant au moins trois salariés. <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">(*) Enquête nouvelle, rénovée ou enquête de périodicité supérieure à l'année.</td>
 </tr>
 </tbody>
 </table>
