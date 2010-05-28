@@ -10,8 +10,7 @@ b) Armes de poing chambrées pour le calibre 7,65 mm ;
 
 c) Armes à feu d'épaule et armes de poing tirant une ou deux balles ou projectiles non métalliques, classées dans cette catégorie par arrêté du ministre de la défense et dont le calibre est au moins égal à 44 mm ;
 
-_d) Pistolets à impulsions électriques._
-**(1)**
+d) Pistolets à impulsions électriques.
 
 2° 6e catégorie :
 
