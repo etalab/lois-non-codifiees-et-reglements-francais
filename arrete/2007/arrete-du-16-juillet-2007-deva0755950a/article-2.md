@@ -6,11 +6,11 @@ Conditions de délivrance de la qualification AFIS.
 
 a) Etre âgé d'au moins 18 ans ;
 
-b) Apporter la preuve qu'il a suivi une formation théorique et pratique conformément aux articles 6 et 7 du présent arrêté ;
+b) Apporter la preuve qu'il a suivi une formation conformément aux articles 6 et 7 du présent arrêté ;
 
-c) Avoir réussi les évaluations théoriques et pratiques conformément aux articles 8 et 9 du présent arrêté.
+c) Avoir réussi les évaluations conformément aux articles 8 et 9 du présent arrêté.
 
-2.2. La demande de délivrance de la qualification AFIS est déposée par le candidat auprès de la direction de l'aviation civile territorialement compétente.
+2.2. La demande de délivrance de la qualification AFIS est déposée par le prestataire de services d'information de vol d'aérodrome (AFIS) au sens du règlement (CE) n° 2096 / 2005 susvisé , dans le présent arrêté dénommé " prestataire de services AFIS ", auprès du responsable de l'échelon local de l'aviation civile territorialement compétent.
 
 2.3. - I. - Par dérogation au paragraphe 2.1, est reconnu détenir la qualification AFIS tout ressortissant d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen qui possède l'attestation de compétences ou le titre de formation prescrit pour exercer les fonctions d'information de vol et d'alerte sur un aérodrome dans un de ces Etats lorsque celui-ci réglemente la profession.
 
@@ -26,7 +26,7 @@ III. - Afin d'obtenir la reconnaissance mentionnée aux paragraphes I et II, le 
 
 Après avoir procédé à la vérification des connaissances acquises par le demandeur au cours de son expérience professionnelle et en cas de différences substantielles en termes de durée et de contenu entre la formation reçue par le demandeur et la formation permettant l'obtention de la qualification AFIS, le ministre peut exiger que le demandeur, selon son choix, accomplisse un stage d'adaptation qui fait l'objet d'une évaluation ou se soumette à une épreuve d'aptitude préalablement à la reconnaissance de sa qualification. Le ministre fixe la durée et le contenu du stage et de l'épreuve d'aptitude.
 
-Il est exigé du demandeur qui a obtenu la reconnaissance de ses qualifications professionnelles qu'il comprenne la langue utilisée dans la radiotéléphonie sur l'aérodrome.
+Il est exigé du demandeur qui a obtenu la reconnaissance de ses qualifications professionnelles qu'il comprenne la langue ou les langues utilisées dans la radiotéléphonie sur l'aérodrome.
 
 IV. - Tout ressortissant mentionné au I peut effectuer de manière temporaire et occasionnelle une prestation de service si :
 

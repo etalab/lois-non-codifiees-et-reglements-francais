@@ -2,7 +2,7 @@
 
 Renouvellement de la qualification AFIS.
 
-Tout candidat au renouvellement de sa qualification doit présenter une demande écrite à la direction de l'aviation civile territorialement compétente avant la date d'expiration de sa qualification.
+Tout candidat au renouvellement de sa qualification doit présenter une demande écrite auprès de l'échelon local de la direction de la sécurité de l'aviation civile territorialement compétent avant la date d'expiration de sa qualification.
 
 La demande doit être accompagnée des justificatifs suivants :
 

@@ -1,5 +1,5 @@
 # Article 6
 
-Formation théorique et pratique initiale.
+Formation théorique initiale.
 
-Tout candidat à la délivrance d'une qualification AFIS doit avoir suivi avec succès une formation théorique et pratique initiale, dont le programme est fixé aux annexes 1 et 2 du présent arrêté.
+Tout candidat à la délivrance d'une qualification AFIS doit avoir suivi avec succès une formation théorique initiale, dont le programme est fixé à l'annexe 1 du présent arrêté.
