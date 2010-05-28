@@ -1,9 +1,11 @@
 # Article 5
 
-Toutes les épreuves sont notées de 0 à 20.
+Le nombre total de points est de 60. Il se décompose comme suit :
 
-Toute note inférieure à 5 sur 20 est éliminatoire.
+- questionnaire : 30 points, coefficient 1 ;
 
-Sont déclarés reçus les candidats qui ont obtenu, pour l'ensemble des épreuves et après application des coefficients, une note moyenne égale à 10 sur 20, en ce qui concerne l'épreuve générale. De même, une note de 10 sur 20 est requise pour obtenir l'option Transports internationaux.
+- étude de cas : 20 points, coefficient 1, 5.
+
+Après délibération du jury, sont déclarés reçus les candidats qui ont obtenu, pour l'ensemble des épreuves et après application des coefficients, une note au moins égale à 30 sur 60, sous réserve qu'ils aient obtenu au moins 8 points pour le questionnaire et 5 points pour l'étude de cas avant application des coefficients.
 
 En cas d'échec, le candidat peut se représenter aux sessions suivantes.

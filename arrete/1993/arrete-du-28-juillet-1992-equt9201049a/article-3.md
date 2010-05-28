@@ -1,3 +1,3 @@
 # Article 3
 
-Les épreuves de l'examen correspondant aux matières prévues à l'article 1er ci-dessus sont orales.
+L'examen est constitué d'une épreuve écrite d'une durée de quarante-cinq minutes et d'une épreuve orale d'une durée de quarante-cinq minutes, précédée de quarante-cinq minutes de temps de préparation.
