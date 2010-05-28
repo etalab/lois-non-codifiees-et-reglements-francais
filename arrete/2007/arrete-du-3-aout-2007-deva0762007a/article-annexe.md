@@ -129,3 +129,7 @@ Nantes - Punta Cana (République dominicaine).
 Jusqu'au 30 novembre 2014 :
 
 Paris - Miami (Etats-Unis).
+
+Jusqu'au 30 avril 2015 :
+
+Paris - Nairobi (Kenya).
