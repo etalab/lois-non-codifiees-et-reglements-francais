@@ -61,3 +61,7 @@ Paris - La Romana (République dominicaine) ;
 Paris - Puerto Plata (République dominicaine) ;
 
 Paris - Punta Cana (République dominicaine).
+
+Jusqu'au 15 mai 2015 :
+
+Paris - Las Vegas (Etats-Unis).
