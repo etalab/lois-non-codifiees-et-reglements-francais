@@ -2,7 +2,7 @@
 
 Le jury du concours interne(s) est composé comme suit :
 
-1° Le directeur départemental des affaires sanitaires et sociales du département, siège de l'établissement organisateur du concours, ou son représentant, président ;
+1° Le directeur de l'établissement organisateur du concours ou son représentant, président ;
 
 2° Un fonctionnaire hospitalier de catégorie A en fonctions dans le ou les départements concernés, choisi par le directeur de l'établissement organisateur du concours et extérieur à l'établissement ou aux établissements où les postes sont à pourvoir.
 

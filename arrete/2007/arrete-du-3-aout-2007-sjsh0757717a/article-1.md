@@ -2,7 +2,7 @@
 
 Les concours internes de recrutement sur épreuve prévus au 2° de l'article 4 du décret du 14 janvier 1991 susvisé des agents chefs de 2e catégorie des établissements mentionnés à l'article 2 de la loi n° 86-33 du 9 janvier 1986 susvisée sont ouverts :
 
-a) Pour le compte de plusieurs établissements d'un même département, par décision de l'autorité investie du pouvoir de nomination de l'établissement du département comptant le plus grand nombre de lits dans ce département ; ou après accord du préfet du ou des départements concernés :
+a) Pour le compte de plusieurs établissements d'un même département, par décision de l'autorité investie du pouvoir de nomination de l'établissement du département comptant le plus grand nombre de lits dans ce département ;
 
 b) Pour le compte d'un seul établissement du département, par décision de l'autorité investie du pouvoir de nomination dans cet établissement ;
 

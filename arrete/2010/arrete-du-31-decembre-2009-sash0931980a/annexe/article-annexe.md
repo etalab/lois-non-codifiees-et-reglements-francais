@@ -1,8 +1,6 @@
 # Article Annexe
 
-DEMANDE D'ÉQUIVALENCE DE DIPLÔME POUR SE PRÉSENTER À L'EXAMEN PROFESSIONNEL
-
-D'ATTACHÉ D'ADMINISTRATION HOSPITALIÈRE DE LA FONCTION PUBLIQUE HOSPITALIÈRE
+**DEMANDE POUR SE PRÉSENTER À L'EXAMEN PROFESSIONNEL D'ATTACHÉ D'ADMINISTRATION HOSPITALIÈRE DE LA FONCTION PUBLIQUE HOSPITALIÈRE**
 
 Intitulé complet de l'examen professionnel auquel vous souhaitez vous présenter :
 
@@ -10,13 +8,13 @@ Attention, vérifiez avec précision le libellé de l'examen professionnel.
 
 1. Identification du lauréat
 
-Monsieur       Madame       Mademoiselle
+Monsieur Madame Mademoiselle
 
 Nom de naissance :
 
 Nom d'épouse :
 
-Premier prénom :       Autres prénoms :
+Premier prénom : Autres prénoms :
 
 Adresse :
 
@@ -26,15 +24,15 @@ Commune :
 
 Pays de résidence :
 
-Tél. domicile :       Tél. mobile :       Tél. travail :
+Tél. domicile : Tél. mobile : Tél. travail :
 
 Courriel :
 
 Date de naissance :
 
-Nationalité : française       ressortissant européen       autre
+Nationalité : française ressortissant européen autre
 
-Commune de naissance :       Département de naissance ou pays de naissance :
+Commune de naissance : Département de naissance ou pays de naissance :
 
 Je, soussigné(e) (prénom, nom)
 
@@ -59,13 +57,13 @@ Votre parcours professionnel :
 <table>
 <tbody>
 <tr>
-<th> 										NOM ET ADRESSE<br/> 										de l'employeur<br/> 										ainsi que le type d'activité<br/> 										de l'établissement<br/>
+<th>NOM ET ADRESSE<br/>de l'employeur<br/>ainsi que le type d'activité<br/>de l'établissement<br/>
 </th>
-<th> 										PÉRIODE D'EMPLOI<br/> 										(duau) <br/>
+<th>PÉRIODE D'EMPLOI<br/>(duau) <br/>
 </th>
-<th> 										TEMPS PLEIN<br/> 										ou % temps partiel<br/>
+<th>TEMPS PLEIN<br/>ou % temps partiel<br/>
 </th>
-<th> 										DÉCRIVEZ VOS FONCTIONS<br/> 										(indiquez aussi si c'est à titre<br/> 										salarié, bénévole...)<br/>
+<th>DÉCRIVEZ VOS FONCTIONS<br/>(indiquez aussi si c'est à titre<br/>salarié, bénévole...)<br/>
 </th>
 </tr>
 <tr>

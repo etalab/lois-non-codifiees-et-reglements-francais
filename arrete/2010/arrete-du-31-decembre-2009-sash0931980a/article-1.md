@@ -2,7 +2,7 @@
 
 Les examens professionnels prévus à l'article 11 du décret du 19 décembre 2001 susvisé sont ouverts :
 
-a) Pour le compte d'un établissement, par décision du directeur de cet établissement ou, après accord du représentant de l'Etat du département, par décision du directeur d'un autre établissement ;
+a) Pour le compte d'un établissement, par décision du directeur de cet établissement ;
 
 b) Pour le compte de plusieurs établissements situés dans un ou plusieurs départements, par décision du directeur de l'établissement comptant le plus grand nombre de lits dans l'un des départements concernés ;
 

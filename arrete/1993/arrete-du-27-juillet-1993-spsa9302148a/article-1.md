@@ -2,7 +2,7 @@
 
 Les concours sur titres visés aux articles 3 des décrets du 26 mars 1993 susvisés sont ouverts selon les modalités suivantes :
 
-1° Un avis de concours sous la forme d'un arrêté du représentant de l'Etat dans le département ou du président du conseil général pour les établissements placés sous la seule autorité tarifaire du département est envoyé au moins quatre mois avant la date limite de dépôt des candidatures pour publication au Journal officiel au ministre chargé des affaires sociales (D.A.S. bureau TS 3) ;
+1° Un avis de concours sous la forme d'une décision du directeur de l'établissement organisateur du concours ou d'un arrêté du président du conseil général pour les établissements placés sous la seule autorité tarifaire fait l'objet d'une publication au Journal officiel de la République française ;
 
 En ce qui concerne l'Assistance publique - hôpitaux de Paris, l'avis de concours est arrêté par le directeur général et fait l'objet d'une publication au Journal officiel de la République française ainsi qu'au bulletin municipal officiel de la ville de Paris.
 

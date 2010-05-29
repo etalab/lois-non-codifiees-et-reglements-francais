@@ -1,6 +1,6 @@
 # Article 2
 
-Le jury de chaque concours est nommé soit par un arrêté du préfet du département où se déroule le concours, soit par un arrêté du président du conseil général selon les critères définis au 1° de l'article précédent.
+Le jury de chaque concours est nommé soit par décision du directeur de l'établissement organisateur du concours, soit par arrêté du président du conseil général selon les critères définis au 1° de l'article précédent.
 
 Le jury comprend trois membres :
 

@@ -4,7 +4,7 @@ Les concours prévus aux 1° et 2° de l'article 1er ci-dessus sont ouverts :
 
 a) Pour le compte de plusieurs établissements d'une même région, par décision du directeur de l'établissement comptant le plus grand nombre de lits dans la région ;
 
-ou, après accord du représentant de l'Etat de la ou des régions concernées :
+ou ;
 
 b) Pour le compte d'un seul établissement d'une région, par décision du directeur de cet établissement ;
 
