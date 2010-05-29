@@ -786,7 +786,6 @@
 - [Décret n°2003-1286 du 26 décembre 2003 (JUSB0310644D)](decret-n2003-1286-du-26-decembre-2003-jusb0310644d)
 - [Décret n°2003-1298 du 26 décembre 2003 (MCCB0300909D)](decret-n2003-1298-du-26-decembre-2003-mccb0300909d)
 - [Décret n°2003-1299 du 26 décembre 2003 (MCCB0300910D)](decret-n2003-1299-du-26-decembre-2003-mccb0300910d)
-- [Décret n°2003-1300 du 26 décembre 2003 (MCCB0300911D)](decret-n2003-1300-du-26-decembre-2003-mccb0300911d)
 - [Décret n°2003-1301 du 26 décembre 2003 (MCCB0300912D)](decret-n2003-1301-du-26-decembre-2003-mccb0300912d)
 - [Décret n°2003-1302 du 26 décembre 2003 (MCCB0300913D)](decret-n2003-1302-du-26-decembre-2003-mccb0300913d)
 - [Décret n°2003-1304 du 26 décembre 2003 (FPPA0300155D)](decret-n2003-1304-du-26-decembre-2003-fppa0300155d)
