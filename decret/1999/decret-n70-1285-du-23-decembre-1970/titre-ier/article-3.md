@@ -10,7 +10,7 @@ Véhicules destinés à la vente ou effectuant des essais, mis en circulation pa
 
 Véhicules militaires faisant l'objet d'une immatriculation particulière.
 
-Jusqu'au 31 décembre 2009, lorsqu'ils sont utilisés dans le cadre de travaux publics et industriels :
+Jusqu'au 31 décembre 2014, lorsqu'ils sont utilisés dans le cadre de travaux publics et industriels :
 
 1° Les engins de levage et de manutention automoteurs (grues installées sur un châssis routier) ;
 
