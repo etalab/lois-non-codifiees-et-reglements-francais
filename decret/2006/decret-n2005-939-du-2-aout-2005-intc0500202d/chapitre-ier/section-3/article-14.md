@@ -18,16 +18,18 @@ Cette mobilité peut être accomplie :
 
 2° Auprès d'une administration, d'une juridiction française, de tout organisme de droit public français ou d'une entreprise publique française.
 
-Toutefois, cette  mobilité ne peut être accomplie au sein d'une même direction ou d'un même  service d'emploi de la police nationale que par changement d'affectation :
+Toutefois, cette mobilité ne peut être accomplie au sein d'une même direction ou d'un même service d'emploi de la police nationale que par changement d'affectation :
 
-a) D'un service central à un service territorial et  réciproquement ;
+a) D'un service central à un service territorial et réciproquement ;
 
-b) D'un département situé en métropole à un  département d'outre-mer, à une collectivité d'outre-mer ou en  Nouvelle-Calédonie, et réciproquement ;
+b) D'un département situé en métropole à un département d'outre-mer, à une collectivité d'outre-mer ou en Nouvelle-Calédonie, et réciproquement ;
 
-c) Sur l'un des  postes figurant sur une liste fixée par arrêté conjoint du ministre de  l'intérieur et du ministre chargé de la fonction publique, et établie suivant  des regroupements fonctionnels, en vue de pourvoir de façon équilibrée auxdits  postes.
+c) Sur l'un des postes figurant sur une liste fixée par arrêté conjoint du ministre de l'intérieur et du ministre chargé de la fonction publique, et établie suivant des regroupements fonctionnels, en vue de pourvoir de façon équilibrée auxdits postes.
 
 Les membres du corps de conception et de direction de la police nationale sont, pendant leur période de mobilité, soit en position d'activité, soit mis à disposition, soit placés en position de détachement.
 
 Les services accomplis au titre de la mobilité sont assimilés à des services effectifs accomplis dans le corps de conception et de direction de la police nationale.
+
+Les fonctionnaires et les militaires détachés ou intégrés dans le corps de conception et de direction de la police nationale sont soumis à cette obligation de mobilité, après avoir accompli deux ans de services effectifs à compter de la date de leur détachement ou de leur intégration dans ce corps.
 
 Les fonctionnaires promus au grade supérieur en application du présent article sont classés à un échelon comportant un indice égal ou immédiatement supérieur à celui dont ils bénéficiaient en dernier lieu dans leur précédent grade. Ils conservent, le cas échéant, leur ancienneté d'échelon dans les conditions et les limites fixées aux cinquième et sixième alinéas de l'article 11.

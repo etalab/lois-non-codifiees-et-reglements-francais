@@ -22,14 +22,14 @@ Nul ne peut se présenter plus de trois fois à ce concours.
 
 Les postes offerts au second concours non pourvus à ce titre peuvent être reportés sur le premier concours dans la proportion de 15 % des emplois offerts à ces deux concours ;
 
-2° Par voie d'accès professionnelle, pour 20 % des emplois à pourvoir, parmi les fonctionnaires du corps de commandement de la police nationale qui détiennent au moins le grade de capitaine, comptent au moins deux années d'ancienneté dans ce grade et qui sont âgés au plus de quarante ans au 1er janvier de l'année de leur recrutement.
+2° Par voie d'accès professionnelle, pour 25 % des emplois à pourvoir, parmi les fonctionnaires du corps de commandement de la police nationale qui détiennent au moins le grade de capitaine, comptent au moins deux années d'ancienneté dans ce grade et qui sont âgés au plus de cinquante ans au 1er janvier de l'année de leur recrutement.
 
 Ces fonctionnaires doivent satisfaire à une sélection comportant une épreuve écrite et l'établissement d'un dossier, puis accomplir un stage probatoire ; ils subissent enfin une évaluation de leur expérience et de leurs capacités professionnelles par un jury qui peut consulter leur dossier individuel.
 
 Les contenus et les modalités de la sélection, du stage et de l'évaluation sont déterminés par arrêté du ministre de l'intérieur ;
 
-3° Au choix, pour 10 % des emplois à pourvoir sur proposition d'une commission spéciale de sélection dont la composition est fixée par arrêté du ministre de l'intérieur et après avis de la commission administrative paritaire du corps d'accueil, parmi les commandants de police inscrits sur une liste d'aptitude.
+3° Au choix, pour 5 % des emplois à pourvoir sur proposition d'une commission spéciale de sélection dont la composition est fixée par arrêté du ministre de l'intérieur et après avis de la commission administrative paritaire du corps d'accueil, parmi les commandants de police inscrits sur une liste d'aptitude.
 
-Peuvent être inscrits sur cette liste d'aptitude établie par la commission compétente les fonctionnaires âgés d'au moins trente-huit ans et de quarante-cinq ans au plus au 1er janvier de l'année considérée et comptant à cette date deux ans de services effectifs dans le grade de commandant de police.
+Peuvent être inscrits sur cette liste d'aptitude établie par la commission compétente les fonctionnaires âgés d'au moins trente-huit ans et de cinquante ans au plus au 1er janvier de l'année considérée et comptant à cette date deux ans de services effectifs dans le grade de commandant de police.
 
 Les postes non pourvus à ce titre seront reportés sur la voie d'accès professionnelle.
