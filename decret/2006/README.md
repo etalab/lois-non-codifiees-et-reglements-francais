@@ -58,6 +58,7 @@
 - [Décret n°2006-1540 du 6 décembre 2006 (ECOT0614572D)](decret-n2006-1540-du-6-decembre-2006-ecot0614572d)
 - [Décret n°2006-1541 du 6 décembre 2006 (ECOP0600675D)](decret-n2006-1541-du-6-decembre-2006-ecop0600675d)
 - [Décret n°2006-1542 du 6 décembre 2006 (ECOT0620056D)](decret-n2006-1542-du-6-decembre-2006-ecot0620056d)
+- [Décret n°2006-260 du 6 mars 2006 (PRMX0600028D)](decret-n2006-260-du-6-mars-2006-prmx0600028d)
 - [Décret n°2006-416 du 6 avril 2006 (AGRP0600332D)](decret-n2006-416-du-6-avril-2006-agrp0600332d)
 - [Décret n°2006-797 du 6 juillet 2006 (ECOX0600094D)](decret-n2006-797-du-6-juillet-2006-ecox0600094d)
 - [Décret n°2006-798 du 6 juillet 2006 (ECOX0500023D)](decret-n2006-798-du-6-juillet-2006-ecox0500023d)
