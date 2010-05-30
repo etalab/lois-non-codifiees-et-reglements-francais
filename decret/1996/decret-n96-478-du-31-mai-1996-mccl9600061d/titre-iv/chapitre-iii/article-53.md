@@ -7,5 +7,3 @@ Il met en oeuvre sa publicité personnelle avec modération et correction. Il do
 La publicité est communiquée par le géomètre expert au conseil régional de l'ordre.
 
 Le géomètre expert autorisé à exercer une activité de gestion ou d'entremise immobilière peut, dans le respect des dispositions du présent article, faire de la publicité sur cette activité, notamment dans les publications spécialisées.
-
-Toutefois, l'affichage dans une vitrine formant devanture de boutique est interdit.

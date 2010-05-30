@@ -1,6 +1,6 @@
 # Article 6
 
-1° Il doit être satisfait à la condition d'honorabilité professionnelle par chacune des personnes suivantes :
+1° Pour les entreprises dont le siège est situé en France, il doit être satisfait à la condition d'honorabilité professionnelle par chacune des personnes suivantes :
 
 -le commerçant chef d'entreprise individuelle ;
 
@@ -14,13 +14,15 @@
 
 -le président et les dirigeants des sociétés par actions simplifiées.
 
-Cette condition doit également être satisfaite par la personne physique qui assure la direction permanente et effective, soit de l'entreprise, soit au sein de celle-ci, de l'une des activités mentionnées à l'article 1er ci-dessus.
+Pour les entreprises dont le siège statutaire se situe dans un autre Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen, la condition d'honorabilité professionnelle doit être satisfaite par le ou les dirigeants et associés des établissements situés en France.
 
-Le nom et les fonctions des personnes citées aux deux alinéas ci-dessus sont mentionnés au registre des commissionnaires de transport.
+Cette condition doit également être satisfaite par la personne physique qui assure la direction permanente et effective, au sein de l'entreprise ou, dans le cas prévu à l'alinéa précédent, au sein de l'établissement de l'une des activités mentionnées à l'article 1er ci-dessus.
+
+Le nom et les fonctions des personnes citées aux alinéas ci-dessus sont mentionnés au registre des commissionnaires de transport.
 
 2° Il n'est pas satisfait à la condition d'honorabilité professionnelle lorsque l'une des personnes mentionnées au 1° ci-dessus a fait l'objet :
 
-Soit d'une condamnation prononcée par une juridiction française et inscrite au bulletin n° 2 de son casier judiciaire ou par une juridiction étrangère et inscrite dans un document équivalent, et entraînant une interdiction d'exercer une profession commerciale ou industrielle ;
+Soit d'une condamnation par une juridiction française et inscrite au bulletin n° 2 de son casier judiciaire ou par une juridiction étrangère et inscrite dans un document équivalent, et prononçant une interdiction d'exercer une profession commerciale ou industrielle ;
 
 Soit de plus d'une condamnation inscrite au bulletin n° 2 du casier judiciaire pour l'un ou l'autre des délits suivants :
 
