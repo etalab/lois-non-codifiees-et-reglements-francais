@@ -370,7 +370,6 @@
 - [Décret n°96-911 du 15 octobre 1996 (ECOT9620034D)](decret-n96-911-du-15-octobre-1996-ecot9620034d)
 - [Décret n°96-919 du 15 octobre 1996 (TASF9611275D)](decret-n96-919-du-15-octobre-1996-tasf9611275d)
 - [Décret n°96-414 du 15 mai 1996 (MENU9601293D)](decret-n96-414-du-15-mai-1996-menu9601293d)
-- [Décret n°96-417 du 15 mai 1996 (INTD9500377D)](decret-n96-417-du-15-mai-1996-intd9500377d)
 - [Décret n°96-418 du 15 mai 1996 (INTD9500378D)](decret-n96-418-du-15-mai-1996-intd9500378d)
 - [Décret n°96-428 du 15 mai 1996 (JUSB9610071D)](decret-n96-428-du-15-mai-1996-jusb9610071d)
 - [Décret n°96-429 du 15 mai 1996 (MENF9600192D)](decret-n96-429-du-15-mai-1996-menf9600192d)
