@@ -1,5 +1,11 @@
 # Article 5-1
 
-Les candidats aux concours mentionnés au 1° de l'article 4 doivent justifier, au plus tard à la date de clôture des registres d'inscription, d'une qualification en natation et d'une qualification en secourisme, attestées par l'un des titres, diplômes, certificats, attestations ou qualifications équivalentes dont la liste est fixée par arrêté conjoint du ministre chargé de l'éducation et du ministre chargé de la fonction publique.
+Les candidats aux concours mentionnés au 1° de l'article 4 doivent justifier, à la date de publication des résultats d'admissibilité, d'une qualification en natation et d'une qualification en secourisme.
 
-Par dérogation au premier alinéa, les candidats aux concours de la session 2006 devront justifier des deux attestations ci-dessus mentionnées, au plus tard à la date de leur nomination en qualité de professeur des écoles stagiaires.
+Pour être nommés fonctionnaires stagiaires, les candidats ayant subi avec succès les épreuves des concours externes doivent justifier d'un certificat de compétences en langues de l'enseignement supérieur et d'un certificat de compétences en informatique et internet.
+
+Pour être titularisés, les candidats ayant subi avec succès les épreuves des seconds concours internes et du troisième concours doivent justifier d'un certificat de compétences en langues de l'enseignement supérieur et d'un certificat de compétences en informatique et internet.
+
+Les conditions d'attribution du certificat de compétences en langues de l'enseignement supérieur et du certificat de compétences en informatique et internet sont définies par arrêtés du ministre chargé de l'enseignement supérieur.
+
+La liste des titres, diplômes, certificats, attestations ou qualifications équivalentes attestant des compétences précitées est fixée par arrêté du ministre chargé de l'éducation.

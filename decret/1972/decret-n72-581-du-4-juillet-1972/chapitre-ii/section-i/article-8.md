@@ -2,9 +2,9 @@
 
 I. - Peuvent se présenter au concours externe :
 
-1° Les candidats justifiant, à la date de clôture des registres d'inscription, d'un master ou d'un titre ou diplôme reconnu équivalent par le ministre chargé de l'éducation ;
+1° Les candidats justifiant, à la date de publication des résultats d'admissibilité, d'un master ou d'un titre ou diplôme reconnu équivalent par le ministre chargé de l'éducation ;
 
-2° Les candidats justifiant, à la date de clôture des registres d'inscription, qu'ils sont inscrits en dernière année d'études en vue de l'obtention d'un master ou d'un titre ou diplôme reconnu équivalent par le ministre chargé de l'éducation.
+2° Les candidats justifiant, à la date de publication des résultats d'admissibilité, qu'ils sont inscrits en dernière année d'études en vue de l'obtention d'un master ou d'un titre ou diplôme reconnu équivalent par le ministre chargé de l'éducation.
 
 II. - Pour être nommés dans le corps des professeurs certifiés, les candidats ayant subi avec succès les épreuves du concours externe prévu au I doivent justifier d'un master ou d'un titre ou diplôme reconnu équivalent par le ministre chargé de l'éducation.
 

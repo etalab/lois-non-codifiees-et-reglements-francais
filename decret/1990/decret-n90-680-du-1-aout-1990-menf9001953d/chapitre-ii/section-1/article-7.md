@@ -2,9 +2,9 @@
 
 I. - Peuvent se présenter au concours externe et concours externe spécial :
 
-1° Les candidats justifiant, à la date de clôture des registres d'inscription, de la détention d'un master ou d'un titre ou diplôme reconnu équivalent par le ministre chargé de l'éducation ;
+1° Les candidats justifiant, à la date de publication des résultats d'admissibilité, de la détention d'un master ou d'un titre ou diplôme reconnu équivalent par le ministre chargé de l'éducation ;
 
-2° Les candidats justifiant, à la date de clôture des registres d'inscription, qu'ils sont inscrits en dernière année d'études en vue de l'obtention d'un master ou d'un titre ou diplôme reconnu équivalent par le ministre chargé de l'éducation.
+2° Les candidats justifiant, à la date de publication des résultats d'admissibilité, qu'ils sont inscrits en dernière année d'études en vue de l'obtention d'un master ou d'un titre ou diplôme reconnu équivalent par le ministre chargé de l'éducation.
 
 Les professeurs des écoles, stagiaires et titulaires, ne peuvent pas faire acte de candidature.
 

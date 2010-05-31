@@ -4,7 +4,7 @@ Les professeurs de lycée professionnel sont reclassés conformément aux dispos
 
 Les personnels visés à l'article 10 ci-dessus sont classés à la date de leur nomination en qualité de stagiaire.
 
-Les candidats mentionnés aux 1 et 2 de l'article 6 et au 1 de l'article 7 ci-dessus justifiant d'au moins cinq années d'activité professionnelle en qualité de cadre, sont classés dans le corps des professeurs de lycée professionnel à un échelon déterminé en prenant en compte les années d'activité professionnelle qu'ils ont accomplies en cette qualité avant leur nomination comme stagiaire, dans les conditions prévues par le présent décret, conformément aux dispositions du premier alinéa de l'article 7 du décret du 5 décembre 1951 susvisé.
+Les candidats mentionnés aux 1 et 2 de l'article 6 et aux 1 et 4 de l'article 7 ci-dessus justifiant d'au moins cinq années d'activité professionnelle en qualité de cadre, sont classés dans le corps des professeurs de lycée professionnel à un échelon déterminé en prenant en compte les années d'activité professionnelle qu'ils ont accomplies en cette qualité avant leur nomination comme stagiaire, dans les conditions prévues par le présent décret, conformément aux dispositions du premier alinéa de l'article 7 du décret du 5 décembre 1951 susvisé.
 
 Les candidats mentionnés au 3 de l'article 6 ci-dessus justifiant d'au moins cinq années de pratique professionnelle sont classés dans le corps des professeurs de lycée professionnel à un échelon déterminé en prenant en compte les années de pratique professionnelle qu'ils ont accomplies avant leur nomination en qualité de stagiaire, dans les conditions prévues par le présent décret, conformément aux dispositions du premier alinéa de l'article 7 du décret du 5 décembre 1951 susvisé.
 

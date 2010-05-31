@@ -2,7 +2,7 @@
 
 Les professeurs certifiés stagiaires recrutés par concours sont classés, à la date de leur nomination en qualité de stagiaire, selon les dispositions du décret du 5 décembre 1951 susvisé.
 
-Les candidats mentionnés à l'article 13 et aux 1° et 2° de l'article 14 ci-dessus, justifiant d'au moins cinq années de pratique professionnelle en qualité de cadre, sont classés dans le corps des professeurs certifiés à un échelon déterminé en prenant en compte les années d'activité professionnelle qu'ils ont accomplies, en cette qualité, avant leur nomination comme stagiaire, conformément aux dispositions du premier alinéa de l'article 7 du décret du 5 décembre 1951 susvisé.
+Les candidats mentionnés à l'article 13 et aux 1°, 2° et 5° de l'article 14 ci-dessus, justifiant d'au moins cinq années de pratique professionnelle en qualité de cadre, sont classés dans le corps des professeurs certifiés à un échelon déterminé en prenant en compte les années d'activité professionnelle qu'ils ont accomplies, en cette qualité, avant leur nomination comme stagiaire, conformément aux dispositions du premier alinéa de l'article 7 du décret du 5 décembre 1951 susvisé.
 
 Les candidats mentionnés à l'article 10 et à l'article 15 du présent décret bénéficient, sur leur demande, d'une bonification d'ancienneté d'une durée :
 
