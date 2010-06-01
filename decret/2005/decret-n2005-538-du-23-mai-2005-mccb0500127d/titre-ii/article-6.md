@@ -10,7 +10,7 @@ b) Le secrétaire général du ministère chargé de la culture ou son représen
 
 c) L'administrateur général de la Réunion des musées nationaux ou son représentant ;
 
-d) Le président de l'Etablissement public du musée d'Orsay ou son représentant ;
+d) Le président de l'Etablissement public du musée d'Orsay et du musée de l'Orangerie ou son représentant ;
 
 2° Un représentant de la famille du donateur, nommé par arrêté du ministre chargé de la culture, sur proposition des ayants droit ;
 
