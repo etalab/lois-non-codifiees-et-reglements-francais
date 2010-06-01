@@ -1,3 +1,3 @@
 # Article 5-2
 
-L'année, au sens de l'article 2103-1° bis du code civil, s'entend de l'année civile comptée du 1er janvier au 31 décembre.
+Pour l'application du 1° bis de l'article 2374 du code civil, l'année s'entend de l'exercice comptable au sens de l'article 5 du décret du 14 mars 2005 relatif aux comptes du syndicat des copropriétaires.

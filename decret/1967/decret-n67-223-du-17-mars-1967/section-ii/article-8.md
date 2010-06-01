@@ -7,3 +7,5 @@ Dans les cas prévus au précédent alinéa, l'assemblée générale des copropr
 Dans les mêmes cas, s'il n'existe pas de conseil syndical ou si les membres de ce conseil n'ont pas été désignés ou si le président de ce conseil ne procède pas à la convocation de l'assemblée, tout copropriétaire peut alors provoquer ladite convocation dans les conditions prévues à l'article 50 du présent décret.
 
 Lorsque l'assemblée est convoquée en application du présent article, la convocation est notifiée au syndic.
+
+Les dispositions des alinéas précédents ne sont pas applicables lorsque l'administrateur provisoire est investi par le président du tribunal de grande instance, sur le fondement de l'article 62-7, de tous les pouvoirs de l'assemblée générale. Lorsqu'il n'est investi que d'une partie de ces pouvoirs, les dispositions des alinéas précédents ne s'appliquent que dans la limite des pouvoirs conservés par l'assemblée générale et le conseil syndical.
