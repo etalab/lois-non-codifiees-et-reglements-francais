@@ -88,7 +88,7 @@ Etablissement public de maîtrise d'ouvrage des travaux culturels ;
 
 Etablissement public de Sèvres-Cité de la céramique ;
 
-Etablissement public du musée d'Orsay ;
+Etablissement public du musée d'Orsay et du musée de l'Orangerie ;
 
 Etablissement public du musée des arts asiatiques Guimet ;
 

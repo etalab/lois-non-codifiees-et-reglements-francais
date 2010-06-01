@@ -1270,7 +1270,7 @@ Etablissement public de Sèvres-Cité de la céramique
 
 </div>
 
-Etablissement public du musée d'Orsay
+Etablissement public du musée d'Orsay et du musée de l'Orangerie
 
 <div align="center">
 
