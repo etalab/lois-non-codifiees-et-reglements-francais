@@ -109,7 +109,6 @@
 - [Arrêté du 4 janvier 2010 (SASV1000078A)](arrete-du-4-janvier-2010-sasv1000078a)
 - [Arrêté du 4 mars 2010 (DEVK1004184A)](arrete-du-4-mars-2010-devk1004184a)
 - [Arrêté du 4 mars 2010 (ECES1005878A)](arrete-du-4-mars-2010-eces1005878a)
-- [Arrêté du 4 mai 2007 (BUDB0750054A)](arrete-du-4-mai-2007-budb0750054a)
 - [Arrêté du 4 mai 2010 (BCRE1012128A)](arrete-du-4-mai-2010-bcre1012128a)
 - [Arrêté du 4 mai 2010 (DEVK1008817A)](arrete-du-4-mai-2010-devk1008817a)
 - [Arrêté du 4 mai 2010 (DEVP1010925A)](arrete-du-4-mai-2010-devp1010925a)
