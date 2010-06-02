@@ -128,6 +128,8 @@ Centre hospitalier universitaire de Brest, hôpital de la Cavale Blanche (servic
 
 Service communal d'hygiène et de santé, 2, rue Mathieu-Lacroix, 30000 Nîmes.
 
+Centre hospitalier universitaire de Nîmes, groupe hospitalo-universitaire Caremeau, sis place du Professeur-Robert-Debré, 30029 Nîmes Cedex 09.
+
 31 - Haute-Garonne
 
 Centre Hospitalier Universitaire Purpan (Service des maladies anti-infectieuses), place du Docteur-Baylac, TSA 40031, 31059 Toulouse Cedex 9.
@@ -390,7 +392,7 @@ Service communal d'hygiène et de santé (service de vaccination antiamarile), 1
 
 85 - Vendée
 
-Service de Prévention médico-social de Vendée, 101, boulevard d'Angleterre, 85000 La Roche-sur-Yon.
+Service de prévention médico-social de Vendée, sis 18, rue du Général-Gallieni, 85000 La Roche-sur-Yon.
 
 86 - Vienne
 
