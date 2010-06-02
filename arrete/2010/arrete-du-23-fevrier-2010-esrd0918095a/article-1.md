@@ -4,12 +4,18 @@ Les emplois d'agent comptable d'établissement public à caractère scientifique
 
 Groupe I : les emplois d'agent comptable implantés dans les établissements publics à caractère scientifique, culturel et professionnel suivants :
 
-Université Aix-Marseille-II, université Lyon-I, université Nancy-I, université Paris-V, université Paris-VI, université Paris-VII, université de Strasbourg.
+Université Aix-Marseille-I, université Aix-Marseille-II, université Aix-Marseille-III, université de Besançon, université Bordeaux-I, université de Dijon, université Grenoble-I, université Lyon-I, université Montpellier-II, université Nancy-I, université de Nantes, université de Nice, université Paris-V, université Paris-VI, université Paris-VII, université Paris-XI, université Paris-XII, université Paris-XIII, université de Poitiers, université Rennes-I, université de Strasbourg, université Toulouse-III, université de Tours.
+
+Conservatoire national des arts et métiers, Muséum national d'histoire naturelle.
 
 Groupe II : les emplois d'agent comptable implantés dans les établissements publics à caractère scientifique, culturel et professionnel suivants :
 
-Université Aix-Marseille-I, université Aix-Marseille-III, université d'Amiens, université d'Angers, université de Besançon, université Bordeaux-I, université Bordeaux-II, université de Brest, université de Caen, université de Cergy-Pontoise, université Clermont-Ferrand-I, université Clermont-Ferrand-II, université de Dijon, université Grenoble-I, université Grenoble-II, université de La Rochelle, université Lille-I, université Lille-II, université Lille-III, université de Limoges, université Lyon-II, université de Marne-la-Vallée, université de Metz, université Montpellier-I, université Montpellier-II, université Montpellier-III, université de Mulhouse, université Nancy-II, université de Nantes, université de Nice - Sophia-Antipolis, université d'Orléans, université Paris-I, université Paris-IV, université Paris-X, université Paris-XI, université Paris-XII, université Paris-XIII, université de Poitiers, université de Reims, université Rennes-I, université Rennes-II, université de Rouen, université de Saint-Etienne, université Toulouse-I, université Toulouse-II, université Toulouse-III, université de Tours, université de Valenciennes ;
+Université d'Amiens, université d'Angers, université des Antilles-Guyane, université d'Artois, université d'Avignon, université Bordeaux-II, université Bordeaux-III, université Bordeaux-IV, université de Brest, université Bretagne-Sud, université de Caen, université de Cergy-Pontoise, université de Chambéry, université Clermont-Ferrand-I, université Clermont-Ferrand-II, université d'Evry-Val d'Essonne, université Grenoble-II, université du Havre, université de La Réunion, université de La Rochelle, université du Mans, université Lille-I, université Lille-II, université Lille-III, université de Limoges, université du Littoral, université Lyon-II, université Lyon-III, université de Marne-la-Vallée, université de Metz, université Montpellier-I, université Montpellier-III, université de Mulhouse, université Nancy-II, université d'Orléans, université Paris-I, université Paris-II, université Paris-III, université Paris-IV, université Paris-VIII, université Paris-X, université de Pau, université de Perpignan, université de Reims, université Rennes-II, université de Rouen, université de Saint-Etienne, université de Toulon, université Toulouse-I, université Toulouse-II, université de Valenciennes, université de Versailles-Saint-Quentin-en-Yvelines.
 
-Conservatoire national des arts et métiers, Muséum national d'histoire naturelle.
+Institut national polytechnique de Lorraine, Institut national polytechnique de Toulouse, institut polytechnique de Grenoble, Institut national des sciences appliquées de Lyon, université de technologie de Compiègne, université de technologie en sciences des organisations et de la décision de Paris-Dauphine.
+
+Ecole normale supérieure, Ecole normale supérieure de Cachan, Ecole normale supérieure de Lyon.
+
+Ecole des hautes études en sciences sociales, Ecole nationale supérieure d'arts et métiers.
 
 Groupe III : les emplois d'agent comptable implantés dans les établissements publics à caractère scientifique, culturel et professionnel autres que les établissements ci-dessus énumérés.
