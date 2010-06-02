@@ -226,7 +226,6 @@
 - [Arrêté du 4 novembre 2009 (DEVT0920869A)](arrete-du-4-novembre-2009-devt0920869a)
 - [Arrêté du 4 novembre 2009 (ECED0926070A)](arrete-du-4-novembre-2009-eced0926070a)
 - [Arrêté du 4 novembre 2009 (ECED0926082A)](arrete-du-4-novembre-2009-eced0926082a)
-- [Arrêté du 4 novembre 2009 (IMIK0920323A)](arrete-du-4-novembre-2009-imik0920323a)
 - [Arrêté du 4 novembre 2009 (JUSF0926544A)](arrete-du-4-novembre-2009-jusf0926544a)
 - [Arrêté du 4 novembre 2009 (MCCB0919079A)](arrete-du-4-novembre-2009-mccb0919079a)
 - [Arrêté du 4 novembre 2009 (MCCB0919082A)](arrete-du-4-novembre-2009-mccb0919082a)
