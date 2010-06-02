@@ -1,0 +1,3 @@
+# Article 6
+
+Les élections ont lieu au scrutin secret uninominal majoritaire à un tour. Chaque électeur dépose, dans une enveloppe, au maximum cinq bulletins établis au nom de chacun des candidats de son choix dont au minimum trois bulletins de candidats appartenant à un corps de chercheurs. Sera tenu pour nul tout bulletin de vote modifié ou annoté. Les trois candidats chercheurs ayant recueilli le plus grand nombre de voix sont déclarés élus. Les deux sièges restant à pourvoir sont attribués aux autres candidats, quelle que soit la catégorie à laquelle ils appartiennent, qui ont obtenu le plus grand nombre de voix. En cas d'égalité de voix, il est procédé à un tirage au sort.

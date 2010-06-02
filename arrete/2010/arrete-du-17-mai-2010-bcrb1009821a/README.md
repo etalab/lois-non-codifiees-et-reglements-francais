@@ -1,4 +1,4 @@
-# Arrêté du 8 août 2001 fixant les modalités d'élection et les règles de fonctionnement du conseil scientifique de l'Institut national d'études démographiques
+# Arrêté du 17 mai 2010 relatif aux modalités d'exercice du contrôle financier sur le Centre national de la propriété forestière
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -8,6 +8,4 @@
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
 - [Article 8](article-8.md)
-- [Article 8-1](article-8-1.md)
-- [Article 9](article-9.md)
 - [Article 10](article-10.md)

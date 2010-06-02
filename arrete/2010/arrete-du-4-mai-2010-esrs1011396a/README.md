@@ -1,4 +1,4 @@
-# Arrêté du 8 août 2001 fixant les modalités d'élection et les règles de fonctionnement du conseil scientifique de l'Institut national d'études démographiques
+# Arrêté du 4 mai 2010 portant définition et fixant les conditions de délivrance du brevet de technicien supérieur « développement et réalisation bois »
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -8,6 +8,6 @@
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
 - [Article 8](article-8.md)
-- [Article 8-1](article-8-1.md)
 - [Article 9](article-9.md)
 - [Article 10](article-10.md)
+- [Annexes](annexes)
