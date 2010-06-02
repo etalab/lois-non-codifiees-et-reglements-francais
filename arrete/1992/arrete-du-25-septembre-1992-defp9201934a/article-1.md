@@ -38,6 +38,10 @@ Division aérotactique de l'escadron de survie opérationnelle et des parachutis
 
 Groupement de sécurité et d'intervention de la gendarmerie nationale.
 
-4° Unité commune aux armées de mer et de l'air :
+4° Autres unités, au titre des militaires des armées de mer et de l'air :
 
-Commandement des opérations spéciales.
+- commandement des opérations spéciales ;
+
+- détachement aéroporté du 44e régiment d'infanterie ;
+
+- école des troupes aéroportées à compter du 1er septembre 2010.
