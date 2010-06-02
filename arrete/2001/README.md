@@ -129,7 +129,6 @@
 - [Arrêté du 7 mai 2001 (MESG0121024A)](arrete-du-7-mai-2001-mesg0121024a)
 - [Arrêté du 7 mai 2001 (MESH0121712A)](arrete-du-7-mai-2001-mesh0121712a)
 - [Arrêté du 7 mai 2001 (MJSK0170021A)](arrete-du-7-mai-2001-mjsk0170021a)
-- [Arrêté du 8 août 2001 (RECR0100228A)](arrete-du-8-aout-2001-recr0100228a)
 - [Arrêté du 8 février 2001 (ECOP0001091A)](arrete-du-8-fevrier-2001-ecop0001091a)
 - [Arrêté du 8 février 2001 (RECA0073408A)](arrete-du-8-fevrier-2001-reca0073408a)
 - [Arrêté du 8 février 2002 (ECOP0100963A)](arrete-du-8-fevrier-2002-ecop0100963a)
