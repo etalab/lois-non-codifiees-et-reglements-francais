@@ -1,11238 +1,11349 @@
 # Article (60 à 69)
 
-.
-
 <table>
 <tbody>
 <tr>
 <td>
+<br/>
+<p align="center">DÉPARTEMENT</p>
+</td>
+<td>
+<br/>
+<p align="center">ROUTE</p>
+</td>
+<td>
+<br/>
+<p align="center">ROUTE</p>
+<br/>
+<p align="center">de début de section</p>
+</td>
+<td>
+<br/>
+<p align="center">COMMUNE</p>
+<br/>
+<p align="center">de début de section</p>
+</td>
+<td>
+<br/>
+<p align="center">ROUTE</p>
+<br/>
+<p align="center">de fin de section</p>
+</td>
+<td>
+<br/>
+<p align="center">COMMUNE</p>
+<br/>
+<p align="center">de fin de section</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
 <p align="center">60</p>
 </td>
 <td>
-<p align="center">
-<br/>D 934</p>
+<br/>
+<p align="center">Avenue B. Pascal</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 1001</p>
 </td>
 <td>
-<p align="center">
-<br/>AVRICOURT.</p>
+<br/>
+<p align="center">BEAUVAIS</p>
 </td>
 <td>
-<p align="center">
-<br/>D 932</p>
+<br/>
+<p align="center">Rue de l'Industrie</p>
 </td>
 <td>
-<p align="center">
-<br/>NOYON.</p>
+<br/>
+<p align="center">BEAUVAIS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>60</p>
+<br/>
+<p align="center">60</p>
 </td>
 <td>
-<p align="center">
-<br/>Avenue B. Pascal</p>
+<br/>
+<p align="center">Avenue B. Pascal/Rue du   Moulin de Bracheux</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1001</p>
+<br/>
+<p align="center">Rue de l'Industrie</p>
 </td>
 <td>
-<p align="center">
-<br/>BEAUVAIS.</p>
+<br/>
+<p align="center">BEAUVAIS</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue de l'Industrie</p>
+<br/>
+<p align="center">N 31</p>
 </td>
 <td>
-<p align="center">
-<br/>BEAUVAIS.</p>
+<br/>
+<p align="center">BEAUVAIS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>60</p>
+<br/>
+<p align="center">60</p>
 </td>
 <td>
-<p align="center">
-<br/>D 981</p>
+<br/>
+<p align="center">Avenue de Royallieu</p>
 </td>
 <td>
-<p align="center">
-<br/>N 31</p>
+<br/>
+<p align="center">Avenue 25e RGA</p>
 </td>
 <td>
-<p align="center">
-<br/>BEAUVAIS.</p>
+<br/>
+<p align="center">COMPIEGNE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 153</p>
+<br/>
+<p align="center">D 1131</p>
 </td>
 <td>
-<p align="center">
-<br/>BOUTENCOURT.</p>
+<br/>
+<p align="center">COMPIEGNE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>60</p>
+<br/>
+<p align="center">60</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue J.-de-Lignières</p>
+<br/>
+<p align="center">Avenue du 25e RGA</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue d'Amiens</p>
+<br/>
+<p align="center">D 332</p>
 </td>
 <td>
-<p align="center">
-<br/>BEAUVAIS.</p>
+<br/>
+<p align="center">COMPIEGNE</p>
 </td>
 <td>
-<p align="center">
-<br/>Boulevard Saint-André</p>
+<br/>
+<p align="center">Avenue de Royallieu</p>
 </td>
 <td>
-<p align="center">
-<br/>BEAUVAIS.</p>
+<br/>
+<p align="center">COMPIEGNE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>60</p>
+<br/>
+<p align="center">60</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue P.-et-M.-Curie</p>
+<br/>
+<p align="center">Avenue Jean Mermoz</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue de l'industrie</p>
+<br/>
+<p align="center">Rue de Rouen</p>
 </td>
 <td>
-<p align="center">
-<br/>BEAUVAIS.</p>
+<br/>
+<p align="center">BEAUVAIS</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1001</p>
+<br/>
+<p align="center">Rue Bossuet</p>
 </td>
 <td>
-<p align="center">
-<br/>BEAUVAIS.</p>
+<br/>
+<p align="center">BEAUVAIS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>60</p>
+<br/>
+<p align="center">60</p>
 </td>
 <td>
-<p align="center">
-<br/>Avenue B.-Pascal/ Rue du Moulin-de-Bracheux</p>
+<br/>
+<p align="center">Boulevard de l'Assault</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue de l'industrie</p>
+<br/>
+<p align="center">Boulevard du Dr Lamotte</p>
 </td>
 <td>
-<p align="center">
-<br/>BEAUVAIS.</p>
+<br/>
+<p align="center">BEAUVAIS</p>
 </td>
 <td>
-<p align="center">
-<br/>N 31</p>
+<br/>
+<p align="center">Rue de Vignacourt</p>
 </td>
 <td>
-<p align="center">
-<br/>BEAUVAIS.</p>
+<br/>
+<p align="center">BEAUVAIS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>60</p>
+<br/>
+<p align="center">60</p>
 </td>
 <td>
-<p align="center">
-<br/>Saint-André</p>
+<br/>
+<p align="center">Boulevard du Dr Lamotte</p>
 </td>
 <td>
-<p align="center">
-<br/>N 31</p>
+<br/>
+<p align="center">Rue Bossuet</p>
 </td>
 <td>
-<p align="center">
-<br/>BEAUVAIS.</p>
+<br/>
+<p align="center">BEAUVAIS</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1001</p>
+<br/>
+<p align="center">Boulevard de l'Assault</p>
 </td>
 <td>
-<p align="center">
-<br/>BEAUVAIS.</p>
+<br/>
+<p align="center">BEAUVAIS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>60</p>
+<br/>
+<p align="center">60</p>
 </td>
 <td>
-<p align="center">
-<br/>D 153</p>
+<br/>
+<p align="center">Boulevard Saint André</p>
 </td>
 <td>
-<p align="center">
-<br/>D 981</p>
+<br/>
+<p align="center">N 31</p>
 </td>
 <td>
-<p align="center">
-<br/>BOUTENCOURT.</p>
+<br/>
+<p align="center">BEAUVAIS</p>
 </td>
 <td>
-<p align="center">
-<br/>D 583</p>
+<br/>
+<p align="center">D 1001</p>
 </td>
 <td>
-<p align="center">
-<br/>CHAUMONT-EN-VEXIN.</p>
+<br/>
+<p align="center">BEAUVAIS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>60</p>
+<br/>
+<p align="center">60</p>
 </td>
 <td>
-<p align="center">
-<br/>D 916</p>
+<br/>
+<p align="center">D 1001</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1001</p>
+<br/>
+<p align="center">Limite département 60/80</p>
 </td>
 <td>
-<p align="center">
-<br/>BRETEUIL.</p>
+<br/>
+<p align="center">BONNEUIL-LES-EAUX</p>
 </td>
 <td>
-<p align="center">
-<br/>N 31</p>
+<br/>
+<p align="center">Limite département 60/95</p>
 </td>
 <td>
-<p align="center">
-<br/>CLERMONT.</p>
+<br/>
+<p align="center">CHAMBLY</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>60</p>
+<br/>
+<p align="center">60</p>
 </td>
 <td>
-<p align="center">
-<br/>D 930</p>
+<br/>
+<p align="center">D 1016</p>
 </td>
 <td>
-<p align="center">
-<br/>D 916</p>
+<br/>
+<p align="center">D 201</p>
 </td>
 <td>
-<p align="center">
-<br/>BRETEUIL.</p>
+<br/>
+<p align="center">CREIL</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">N 31</p>
 </td>
 <td>
-<p align="center">
-<br/>BROYES.</p>
+<br/>
+<p align="center">BREUIL-LE-SEC</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>60</p>
+<br/>
+<p align="center">60</p>
 </td>
 <td>
-<p align="center">
-<br/>D 930</p>
+<br/>
+<p align="center">D 1017</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1001</p>
+<br/>
+<p align="center">Limite département 60/95</p>
 </td>
 <td>
-<p align="center">
-<br/>BRETEUIL.</p>
+<br/>
+<p align="center">SURVILLIERS</p>
 </td>
 <td>
-<p align="center">
-<br/>D 901</p>
+<br/>
+<p align="center">Limite département 60/80</p>
 </td>
 <td>
-<p align="center">
-<br/>MARSEILLE-EN-BEAUVAISIS.</p>
+<br/>
+<p align="center">CONCHY-LES-POTS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>60</p>
+<br/>
+<p align="center">60</p>
 </td>
 <td>
-<p align="center">
-<br/>D 4 E3</p>
+<br/>
+<p align="center">D 1032</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1001</p>
+<br/>
+<p align="center">D 1031</p>
 </td>
 <td>
-<p align="center">
-<br/>CHAMBLY.</p>
+<br/>
+<p align="center">BIENVILLE</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Limite département 60/02</p>
 </td>
 <td>
-<p align="center">
-<br/>CHAMBLY.</p>
+<br/>
+<p align="center">APPILLY</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>60</p>
+<br/>
+<p align="center">60</p>
 </td>
 <td>
-<p align="center">
-<br/>D 915</p>
+<br/>
+<p align="center">D 1131</p>
 </td>
 <td>
-<p align="center">
-<br/>D 15bis</p>
+<br/>
+<p align="center">N 31</p>
 </td>
 <td>
-<p align="center">
-<br/>CHAMBORS.</p>
+<br/>
+<p align="center">VENETTE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 53</p>
+<br/>
+<p align="center">D 932A</p>
 </td>
 <td>
-<p align="center">
-<br/>LIERVILLE.</p>
+<br/>
+<p align="center">COMPIEGNE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>60</p>
+<br/>
+<p align="center">60</p>
 </td>
 <td>
-<p align="center">
-<br/>D 153</p>
+<br/>
+<p align="center">D 130</p>
 </td>
 <td>
-<p align="center">
-<br/>D 566</p>
+<br/>
+<p align="center">D 130</p>
 </td>
 <td>
-<p align="center">
-<br/>CHAUMONT-EN-VEXIN.</p>
+<br/>
+<p align="center">COMPIEGNE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 915</p>
+<br/>
+<p align="center">D 973</p>
 </td>
 <td>
-<p align="center">
-<br/>LIERVILLE.</p>
+<br/>
+<p align="center">COMPIEGNE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>60</p>
+<br/>
+<p align="center">60</p>
 </td>
 <td>
-<p align="center">
-<br/>D 583</p>
+<br/>
+<p align="center">D 1324</p>
 </td>
 <td>
-<p align="center">
-<br/>D 153</p>
+<br/>
+<p align="center">N 330</p>
 </td>
 <td>
-<p align="center">
-<br/>CHAUMONT-EN-VEXIN.</p>
+<br/>
+<p align="center">SENLIS</p>
 </td>
 <td>
-<p align="center">
-<br/>D 153</p>
+<br/>
+<p align="center">D 1017</p>
 </td>
 <td>
-<p align="center">
-<br/>CHAUMONT-EN-VEXIN.</p>
+<br/>
+<p align="center">SENLIS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>60</p>
+<br/>
+<p align="center">60</p>
 </td>
 <td>
-<p align="center">
-<br/>D 130</p>
+<br/>
+<p align="center">D 1330</p>
 </td>
 <td>
-<p align="center">
-<br/>D 130</p>
+<br/>
+<p align="center">D 1016</p>
 </td>
 <td>
-<p align="center">
-<br/>COMPIEGNE.</p>
+<br/>
+<p align="center">CREIL</p>
 </td>
 <td>
-<p align="center">
-<br/>D 973</p>
+<br/>
+<p align="center">D 1324</p>
 </td>
 <td>
-<p align="center">
-<br/>COMPIEGNE.</p>
+<br/>
+<p align="center">SENLIS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>60</p>
+<br/>
+<p align="center">60</p>
 </td>
 <td>
-<p align="center">
-<br/>D 200</p>
+<br/>
+<p align="center">D 153</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1131</p>
+<br/>
+<p align="center">D 981</p>
 </td>
 <td>
-<p align="center">
-<br/>COMPIEGNE.</p>
+<br/>
+<p align="center">BOUTENCOURT</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1016</p>
+<br/>
+<p align="center">D 583</p>
 </td>
 <td>
-<p align="center">
-<br/>NOGENT-SUR-OISE.</p>
+<br/>
+<p align="center">CHAUMONT-EN-VEXIN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>60</p>
+<br/>
+<p align="center">60</p>
 </td>
 <td>
-<p align="center">
-<br/>D 932 A</p>
+<br/>
+<p align="center">D 153</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1131</p>
+<br/>
+<p align="center">D 566</p>
 </td>
 <td>
-<p align="center">
-<br/>COMPIEGNE.</p>
+<br/>
+<p align="center">CHAUMONT-EN-VEXIN</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1330</p>
+<br/>
+<p align="center">D 915</p>
 </td>
 <td>
-<p align="center">
-<br/>CHAMANT.</p>
+<br/>
+<p align="center">LIERVILLE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>60</p>
+<br/>
+<p align="center">60</p>
 </td>
 <td>
-<p align="center">
-<br/>D 973</p>
+<br/>
+<p align="center">D 200</p>
 </td>
 <td>
-<p align="center">
-<br/>D 332</p>
+<br/>
+<p align="center">D 1131</p>
 </td>
 <td>
-<p align="center">
-<br/>COMPIEGNE.</p>
+<br/>
+<p align="center">COMPIEGNE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 130</p>
+<br/>
+<p align="center">D 1016</p>
 </td>
 <td>
-<p align="center">
-<br/>COMPIEGNE.</p>
+<br/>
+<p align="center">NOGENT-SUR-OISE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>60</p>
+<br/>
+<p align="center">60</p>
 </td>
 <td>
-<p align="center">
-<br/>Avenue du 25e-RGA</p>
+<br/>
+<p align="center">D   200</p>
 </td>
 <td>
-<p align="center">
-<br/>D 332</p>
+<br/>
+<p align="center">D   1016</p>
 </td>
 <td>
-<p align="center">
-<br/>COMPIEGNE.</p>
+<br/>
+<p align="center">MONCHY-SAINT-ELOI</p>
 </td>
 <td>
-<p align="center">
-<br/>Avenue de Royallieu</p>
+<br/>
+<p align="center">D 92</p>
 </td>
 <td>
-<p align="center">
-<br/>COMPIEGNE.</p>
+<br/>
+<p align="center">THIVERNY</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>60</p>
+<br/>
+<p align="center">60</p>
 </td>
 <td>
-<p align="center">
-<br/>Avenue de Royallieu</p>
+<br/>
+<p align="center">D 201</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 200</p>
 </td>
 <td>
-<p align="center">
-<br/>COMPIEGNE.</p>
+<br/>
+<p align="center">MONTATAIRE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1131</p>
+<br/>
+<p align="center">D 1330</p>
 </td>
 <td>
-<p align="center">
-<br/>COMPIEGNE.</p>
+<br/>
+<p align="center">CREIL</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>60</p>
+<br/>
+<p align="center">60</p>
 </td>
 <td>
-<p align="center">
-<br/>D 935</p>
+<br/>
+<p align="center">D 202</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1017</p>
+<br/>
+<p align="center">D 935</p>
 </td>
 <td>
-<p align="center">
-<br/>CUVILLY.</p>
+<br/>
+<p align="center">MARGNY-LES-COMPIEGNE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 202</p>
+<br/>
+<p align="center">N 1031</p>
 </td>
 <td>
-<p align="center">
-<br/>MARGNY - LÈS-COMPIÈGNE.</p>
+<br/>
+<p align="center">VENETTE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>60</p>
+<br/>
+<p align="center">60</p>
 </td>
 <td>
-<p align="center">
-<br/>D 901</p>
+<br/>
+<p align="center">D 232</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 932</p>
 </td>
 <td>
-<p align="center">
-<br/>DARGIES.</p>
+<br/>
+<p align="center">NOYON</p>
 </td>
 <td>
-<p align="center">
-<br/>N 31</p>
+<br/>
+<p align="center">D 1032</p>
 </td>
 <td>
-<p align="center">
-<br/>BEAUVAIS.</p>
+<br/>
+<p align="center">NOYON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>60</p>
+<br/>
+<p align="center">60</p>
 </td>
 <td>
-<p align="center">
-<br/>D 84</p>
+<br/>
+<p align="center">D 4</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1330</p>
+<br/>
+<p align="center">Limite département 60/95</p>
 </td>
 <td>
-<p align="center">
-<br/>ERMENONVILLE.</p>
+<br/>
+<p align="center">LE MESNIL-EN-THELLE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 922</p>
+<br/>
+<p align="center">D 78</p>
 </td>
 <td>
-<p align="center">
-<br/>ERMENONVILLE.</p>
+<br/>
+<p align="center">LE MESNIL-EN-THELLE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>60</p>
+<br/>
+<p align="center">60</p>
 </td>
 <td>
-<p align="center">
-<br/>D 922</p>
+<br/>
+<p align="center">D 4E3</p>
 </td>
 <td>
-<p align="center">
-<br/>N 330</p>
+<br/>
+<p align="center">D 1001</p>
 </td>
 <td>
-<p align="center">
-<br/>ERMENONVILLE.</p>
+<br/>
+<p align="center">CHAMBLY</p>
 </td>
 <td>
-<p align="center">
-<br/>D 84</p>
+<br/>
+<p align="center">Extrémité</p>
 </td>
 <td>
-<p align="center">
-<br/>ERMENONVILLE.</p>
+<br/>
+<p align="center">CHAMBLY</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>60</p>
+<br/>
+<p align="center">60</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1017</p>
+<br/>
+<p align="center">D 53</p>
 </td>
 <td>
-<p align="center">
-<br/>D 317</p>
+<br/>
+<p align="center">D 915</p>
 </td>
 <td>
-<p align="center">
-<br/>LA CHAPELLE-EN-SERVAL.</p>
+<br/>
+<p align="center">LIERVILLE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1330</p>
+<br/>
+<p align="center">Limite département 60/95</p>
 </td>
 <td>
-<p align="center">
-<br/>CHAMANT.</p>
+<br/>
+<p align="center">BOUCONVILLERS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>60</p>
+<br/>
+<p align="center">60</p>
 </td>
 <td>
-<p align="center">
-<br/>D 4</p>
+<br/>
+<p align="center">D 583</p>
 </td>
 <td>
-<p align="center">
-<br/>D 924</p>
+<br/>
+<p align="center">D 153</p>
 </td>
 <td>
-<p align="center">
-<br/>LE MESNIL-EN-THELLE.</p>
+<br/>
+<p align="center">CHAUMONT-EN-VEXIN</p>
 </td>
 <td>
-<p align="center">
-<br/>D 78</p>
+<br/>
+<p align="center">D 153</p>
 </td>
 <td>
-<p align="center">
-<br/>LE MESNIL-EN-THELLE.</p>
+<br/>
+<p align="center">CHAUMONT-EN-VEXIN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>60</p>
+<br/>
+<p align="center">60</p>
 </td>
 <td>
-<p align="center">
-<br/>D 53</p>
+<br/>
+<p align="center">D 603</p>
 </td>
 <td>
-<p align="center">
-<br/>D 915</p>
+<br/>
+<p align="center">D 17</p>
 </td>
 <td>
-<p align="center">
-<br/>LIERVILLE.</p>
+<br/>
+<p align="center">PRECY-SUR-OISE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 43</p>
+<br/>
+<p align="center">Limite département 60/95</p>
 </td>
 <td>
-<p align="center">
-<br/>BOUCONVILLERS.</p>
+<br/>
+<p align="center">BORAN-SUR-OISE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>60</p>
+<br/>
+<p align="center">60</p>
 </td>
 <td>
-<p align="center">
-<br/>D 202</p>
+<br/>
+<p align="center">D 901</p>
 </td>
 <td>
-<p align="center">
-<br/>D 935</p>
+<br/>
+<p align="center">Limite département 60/80</p>
 </td>
 <td>
-<p align="center">
-<br/>MARGNY-LES-COMPIEGNE.</p>
+<br/>
+<p align="center">DARGIES</p>
 </td>
 <td>
-<p align="center">
-<br/>N 1031</p>
+<br/>
+<p align="center">N 31</p>
 </td>
 <td>
-<p align="center">
-<br/>VENETTE.</p>
+<br/>
+<p align="center">BEAUVAIS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>60</p>
+<br/>
+<p align="center">60</p>
 </td>
 <td>
-<p align="center">
-<br/>D 930</p>
+<br/>
+<p align="center">D 915</p>
 </td>
 <td>
-<p align="center">
-<br/>D 901</p>
+<br/>
+<p align="center">Limite département 60/27</p>
 </td>
 <td>
-<p align="center">
-<br/>MARSEILLE-EN-BEAUVAISIS.</p>
+<br/>
+<p align="center">CHAMBORS</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 53</p>
 </td>
 <td>
-<p align="center">
-<br/>HANNACHES.</p>
+<br/>
+<p align="center">LIERVILLE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>60</p>
+<br/>
+<p align="center">60</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1016</p>
+<br/>
+<p align="center">D 916</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 1001</p>
 </td>
 <td>
-<p align="center">
-<br/>MONCHY-SAINT-ELOI.</p>
+<br/>
+<p align="center">BRETEUIL</p>
 </td>
 <td>
-<p align="center">
-<br/>D 62</p>
+<br/>
+<p align="center">N 31</p>
 </td>
 <td>
-<p align="center">
-<br/>MONCHY-SAINT-ELOI.</p>
+<br/>
+<p align="center">CLERMONT</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>60</p>
+<br/>
+<p align="center">60</p>
 </td>
 <td>
-<p align="center">
-<br/>D 200</p>
+<br/>
+<p align="center">D 92</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1016</p>
+<br/>
+<p align="center">D   200</p>
 </td>
 <td>
-<p align="center">
-<br/>MONCHY-SAINT-ELOI.</p>
+<br/>
+<p align="center">THIVERNY</p>
 </td>
 <td>
-<p align="center">
-<br/>D 92</p>
+<br/>
+<p align="center">D 603</p>
 </td>
 <td>
-<p align="center">
-<br/>THIVERNY.</p>
+<br/>
+<p align="center">PRECY-SUR-OISE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>60</p>
+<br/>
+<p align="center">60</p>
 </td>
 <td>
-<p align="center">
-<br/>D 201</p>
+<br/>
+<p align="center">D 930</p>
 </td>
 <td>
-<p align="center">
-<br/>D 200</p>
+<br/>
+<p align="center">Limite département 60/80</p>
 </td>
 <td>
-<p align="center">
-<br/>MONTATAIRE.</p>
+<br/>
+<p align="center">BROYES</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1330</p>
+<br/>
+<p align="center">Limite département 60/76</p>
 </td>
 <td>
-<p align="center">
-<br/>CREIL.</p>
+<br/>
+<p align="center">HANNACHES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>60</p>
+<br/>
+<p align="center">60</p>
 </td>
 <td>
-<p align="center">
-<br/>D 232</p>
+<br/>
+<p align="center">D 931</p>
 </td>
 <td>
-<p align="center">
-<br/>D 932</p>
+<br/>
+<p align="center">N 31</p>
 </td>
 <td>
-<p align="center">
-<br/>NOYON.</p>
+<br/>
+<p align="center">VILLERS-SAINT-BARTHELEMY</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1032</p>
+<br/>
+<p align="center">Rue de Rouen</p>
 </td>
 <td>
-<p align="center">
-<br/>NOYON.</p>
+<br/>
+<p align="center">BEAUVAIS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>60</p>
+<br/>
+<p align="center">60</p>
 </td>
 <td>
-<p align="center">
-<br/>D 932</p>
+<br/>
+<p align="center">D 932</p>
 </td>
 <td>
-<p align="center">
-<br/>D 934</p>
+<br/>
+<p align="center">D 934</p>
 </td>
 <td>
-<p align="center">
-<br/>NOYON.</p>
+<br/>
+<p align="center">NOYON</p>
 </td>
 <td>
-<p align="center">
-<br/>D 232</p>
+<br/>
+<p align="center">D 232</p>
 </td>
 <td>
-<p align="center">
-<br/>NOYON.</p>
+<br/>
+<p align="center">NOYON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>60</p>
+<br/>
+<p align="center">60</p>
 </td>
 <td>
-<p align="center">
-<br/>D 934</p>
+<br/>
+<p align="center">D   932</p>
 </td>
 <td>
-<p align="center">
-<br/>D 932</p>
+<br/>
+<p align="center">D   1032</p>
 </td>
 <td>
-<p align="center">
-<br/>NOYON.</p>
+<br/>
+<p align="center">RIBECOURT-DRESLINCOURT</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1032</p>
+<br/>
+<p align="center">N 1031</p>
 </td>
 <td>
-<p align="center">
-<br/>NOYON.</p>
+<br/>
+<p align="center">CLAIROIX</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>60</p>
+<br/>
+<p align="center">60</p>
 </td>
 <td>
-<p align="center">
-<br/>D 603</p>
+<br/>
+<p align="center">D 932A</p>
 </td>
 <td>
-<p align="center">
-<br/>D 17</p>
+<br/>
+<p align="center">D 1131</p>
 </td>
 <td>
-<p align="center">
-<br/>PRECY-SUR-OISE.</p>
+<br/>
+<p align="center">COMPIEGNE</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 1330</p>
 </td>
 <td>
-<p align="center">
-<br/>BORAN-SUR-OISE.</p>
+<br/>
+<p align="center">CHAMANT</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>60</p>
+<br/>
+<p align="center">60</p>
 </td>
 <td>
-<p align="center">
-<br/>D 92</p>
+<br/>
+<p align="center">D 934</p>
 </td>
 <td>
-<p align="center">
-<br/>D 200</p>
+<br/>
+<p align="center">Limite département 60/80</p>
 </td>
 <td>
-<p align="center">
-<br/>THIVERNY.</p>
+<br/>
+<p align="center">AVRICOURT</p>
 </td>
 <td>
-<p align="center">
-<br/>D 603</p>
+<br/>
+<p align="center">D 932</p>
 </td>
 <td>
-<p align="center">
-<br/>PRECY-SUR-OISE.</p>
+<br/>
+<p align="center">NOYON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>61</p>
+<br/>
+<p align="center">60</p>
 </td>
 <td>
-<p align="center">
-<br/>D 955</p>
+<br/>
+<p align="center">D 934</p>
 </td>
 <td>
-<p align="center">
-<br/>D 438</p>
+<br/>
+<p align="center">D 932</p>
 </td>
 <td>
-<p align="center">
-<br/>ALENCON.</p>
+<br/>
+<p align="center">NOYON</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 1032</p>
 </td>
 <td>
-<p align="center">
-<br/>ALENCON.</p>
+<br/>
+<p align="center">NOYON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>61</p>
+<br/>
+<p align="center">60</p>
 </td>
 <td>
-<p align="center">
-<br/>D 924</p>
+<br/>
+<p align="center">D 935</p>
 </td>
 <td>
-<p align="center">
-<br/>D 958</p>
+<br/>
+<p align="center">D 1017</p>
 </td>
 <td>
-<p align="center">
-<br/>ARGENTAN.</p>
+<br/>
+<p align="center">CUVILLY</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 202</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-QUENTIN-LES-CHARDONNETS.</p>
+<br/>
+<p align="center">MARGNY- LES-COMPIEGNE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>61</p>
+<br/>
+<p align="center">60</p>
 </td>
 <td>
-<p align="center">
-<br/>D 955</p>
+<br/>
+<p align="center">D 973</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 332</p>
 </td>
 <td>
-<p align="center">
-<br/>BERD'HUIS.</p>
+<br/>
+<p align="center">COMPIEGNE</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 130</p>
 </td>
 <td>
-<p align="center">
-<br/>SURE.</p>
+<br/>
+<p align="center">COMPIEGNE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>61</p>
+<br/>
+<p align="center">60</p>
 </td>
 <td>
-<p align="center">
-<br/>D 926</p>
+<br/>
+<p align="center">D 981</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">N 31</p>
 </td>
 <td>
-<p align="center">
-<br/>CHANDAI.</p>
+<br/>
+<p align="center">BEAUVAIS</p>
 </td>
 <td>
-<p align="center">
-<br/>D 958</p>
+<br/>
+<p align="center">D 153</p>
 </td>
 <td>
-<p align="center">
-<br/>ARGENTAN.</p>
+<br/>
+<p align="center">BOUTENCOURT</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>61</p>
+<br/>
+<p align="center">60</p>
 </td>
 <td>
-<p align="center">
-<br/>D 923</p>
+<br/>
+<p align="center">Rue Bossuet</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Avenue Jean Mermoz</p>
 </td>
 <td>
-<p align="center">
-<br/>COULONGES-LES-SABLONS.</p>
+<br/>
+<p align="center">BEAUVAIS</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Boulevard du Dr Lamotte</p>
 </td>
 <td>
-<p align="center">
-<br/>CONDE-SUR-HUISNE.</p>
+<br/>
+<p align="center">BEAUVAIS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>61</p>
+<br/>
+<p align="center">60</p>
 </td>
 <td>
-<p align="center">
-<br/>D 962</p>
+<br/>
+<p align="center">Rue de Clermont</p>
 </td>
 <td>
-<p align="center">
-<br/>D 976</p>
+<br/>
+<p align="center">D 1001</p>
 </td>
 <td>
-<p align="center">
-<br/>DOMFRONT.</p>
+<br/>
+<p align="center">BEAUVAIS</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Rue du Moulin de Bracheux</p>
 </td>
 <td>
-<p align="center">
-<br/>CEAUCE.</p>
+<br/>
+<p align="center">BEAUVAIS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>61</p>
+<br/>
+<p align="center">60</p>
 </td>
 <td>
-<p align="center">
-<br/>D 932</p>
+<br/>
+<p align="center">Rue de Rouen</p>
 </td>
 <td>
-<p align="center">
-<br/>D 438</p>
+<br/>
+<p align="center">D 931</p>
 </td>
 <td>
-<p align="center">
-<br/>GACE.</p>
+<br/>
+<p align="center">BEAUVAIS</p>
 </td>
 <td>
-<p align="center">
-<br/>D 926</p>
+<br/>
+<p align="center">Avenue Jean Mermoz</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINTE-GAUBURGE-SAINTE-COLOMBE.</p>
+<br/>
+<p align="center">BEAUVAIS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>61</p>
+<br/>
+<p align="center">60</p>
 </td>
 <td>
-<p align="center">
-<br/>D 923</p>
+<br/>
+<p align="center">Rue de Vignacourt</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Boulevard de l'Assault</p>
 </td>
 <td>
-<p align="center">
-<br/>MALE.</p>
+<br/>
+<p align="center">BEAUVAIS</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Rue de Clermont</p>
 </td>
 <td>
-<p align="center">
-<br/>CETON.</p>
+<br/>
+<p align="center">BEAUVAIS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>61</p>
+<br/>
+<p align="center">60</p>
 </td>
 <td>
-<p align="center">
-<br/>D 976</p>
+<br/>
+<p align="center">Rue J. de Lignières</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Rue d'Amiens</p>
 </td>
 <td>
-<p align="center">
-<br/>MANTILLY.</p>
+<br/>
+<p align="center">BEAUVAIS</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Boulevard Saint André</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-OUEN-LE-BRISOULT.</p>
+<br/>
+<p align="center">BEAUVAIS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>61</p>
+<br/>
+<p align="center">60</p>
 </td>
 <td>
-<p align="center">
-<br/>D 438</p>
+<br/>
+<p align="center">Rue P. et M. Curie</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Rue de l'industrie</p>
 </td>
 <td>
-<p align="center">
-<br/>MONNAI.</p>
+<br/>
+<p align="center">BEAUVAIS</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 1001</p>
 </td>
 <td>
-<p align="center">
-<br/>ALENCON.</p>
+<br/>
+<p align="center">BEAUVAIS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>61</p>
+<br/>
+<p align="center">60</p>
 </td>
 <td>
-<p align="center">
-<br/>D 958</p>
+<br/>
+<p align="center">VC </p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">A1 (barrière de Chamant)</p>
 </td>
 <td>
-<p align="center">
-<br/>NECY.</p>
+<br/>
+<p align="center">CHAMANT</p>
 </td>
 <td>
-<p align="center">
-<br/>D 438</p>
+<br/>
+<p align="center">N 330</p>
 </td>
 <td>
-<p align="center">
-<br/>SEES.</p>
+<br/>
+<p align="center">CHAMANT</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>61</p>
+<br/>
+<p align="center">61</p>
 </td>
 <td>
-<p align="center">
-<br/>D 962</p>
+<br/>
+<p align="center">D 955</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 438</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-PIERRE-DU-REGARD.</p>
+<br/>
+<p align="center">ALENCON</p>
 </td>
 <td>
-<p align="center">
-<br/>D 976</p>
+<br/>
+<p align="center">Extrémité</p>
 </td>
 <td>
-<p align="center">
-<br/>DOMFRONT.</p>
+<br/>
+<p align="center">ALENCON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>61</p>
+<br/>
+<p align="center">61</p>
 </td>
 <td>
-<p align="center">
-<br/>D 979</p>
+<br/>
+<p align="center">D 924</p>
 </td>
 <td>
-<p align="center">
-<br/>D 579</p>
+<br/>
+<p align="center">D 958</p>
 </td>
 <td>
-<p align="center">
-<br/>VIMOUTIERS.</p>
+<br/>
+<p align="center">ARGENTAN</p>
 </td>
 <td>
-<p align="center">
-<br/>D 438</p>
+<br/>
+<p align="center">Limite département 61/14</p>
 </td>
 <td>
-<p align="center">
-<br/>GACE.</p>
+<br/>
+<p align="center">SAINT-QUENTIN-LES-CHARDONNETS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>62</p>
+<br/>
+<p align="center">61</p>
 </td>
 <td>
-<p align="center">
-<br/>D 3</p>
+<br/>
+<p align="center">D 955</p>
 </td>
 <td>
-<p align="center">
-<br/>D 60</p>
+<br/>
+<p align="center">Limite département 61/28</p>
 </td>
 <td>
-<p align="center">
-<br/>AGNY.</p>
+<br/>
+<p align="center">BERD'HUIS</p>
 </td>
 <td>
-<p align="center">
-<br/>D 3</p>
+<br/>
+<p align="center">Limite département 61/72</p>
 </td>
 <td>
-<p align="center">
-<br/>WAILLY.</p>
+<br/>
+<p align="center">SURE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>62</p>
+<br/>
+<p align="center">61</p>
 </td>
 <td>
-<p align="center">
-<br/>D 60</p>
+<br/>
+<p align="center">D 926</p>
 </td>
 <td>
-<p align="center">
-<br/>D 3</p>
+<br/>
+<p align="center">Limite département 61/27</p>
 </td>
 <td>
-<p align="center">
-<br/>AGNY.</p>
+<br/>
+<p align="center">CHANDAI</p>
 </td>
 <td>
-<p align="center">
-<br/>D 939</p>
+<br/>
+<p align="center">D 958</p>
 </td>
 <td>
-<p align="center">
-<br/>TILLOY-LES-MOFFLAINES.</p>
+<br/>
+<p align="center">ARGENTAN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>62</p>
+<br/>
+<p align="center">61</p>
 </td>
 <td>
-<p align="center">
-<br/>Rues J.-d'Arc/A.-Briand</p>
+<br/>
+<p align="center">D 923</p>
 </td>
 <td>
-<p align="center">
-<br/>Boulevard Vauban</p>
+<br/>
+<p align="center">Extrémité</p>
 </td>
 <td>
-<p align="center">
-<br/>ARRAS.</p>
+<br/>
+<p align="center">COULONGES-LES-SABLONS</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue d'Amiens</p>
+<br/>
+<p align="center">Extrémité</p>
 </td>
 <td>
-<p align="center">
-<br/>ARRAS.</p>
+<br/>
+<p align="center">CONDE-SUR-HUISNE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>62</p>
+<br/>
+<p align="center">61</p>
 </td>
 <td>
-<p align="center">
-<br/>D 260</p>
+<br/>
+<p align="center">D 962</p>
 </td>
 <td>
-<p align="center">
-<br/>D 917</p>
+<br/>
+<p align="center">D 976</p>
 </td>
 <td>
-<p align="center">
-<br/>ARRAS.</p>
+<br/>
+<p align="center">DOMFRONT</p>
 </td>
 <td>
-<p align="center">
-<br/>D 939</p>
+<br/>
+<p align="center">Limite département 61/53</p>
 </td>
 <td>
-<p align="center">
-<br/>ARRAS.</p>
+<br/>
+<p align="center">CEAUCE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>62</p>
+<br/>
+<p align="center">61</p>
 </td>
 <td>
-<p align="center">
-<br/>D 265</p>
+<br/>
+<p align="center">D 932</p>
 </td>
 <td>
-<p align="center">
-<br/>Boulevard du G.-de-Gaulle</p>
+<br/>
+<p align="center">D 438</p>
 </td>
 <td>
-<p align="center">
-<br/>ARRAS.</p>
+<br/>
+<p align="center">GACE</p>
 </td>
 <td>
-<p align="center">
-<br/>N 25</p>
+<br/>
+<p align="center">D 926</p>
 </td>
 <td>
-<p align="center">
-<br/>DAINVILLE.</p>
+<br/>
+<p align="center">SAINTE-GAUBURGE-SAINTE-COLOMBE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>62</p>
+<br/>
+<p align="center">61</p>
 </td>
 <td>
-<p align="center">
-<br/>D 939</p>
+<br/>
+<p align="center">D 923</p>
 </td>
 <td>
-<p align="center">
-<br/>D 260</p>
+<br/>
+<p align="center">Limite département 61/28</p>
 </td>
 <td>
-<p align="center">
-<br/>ARRAS.</p>
+<br/>
+<p align="center">MALE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 60</p>
+<br/>
+<p align="center">Limite département 61/72</p>
 </td>
 <td>
-<p align="center">
-<br/>TILLOY-LES-MOFFLAINES.</p>
+<br/>
+<p align="center">CETON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>62</p>
+<br/>
+<p align="center">61</p>
 </td>
 <td>
-<p align="center">
-<br/>Boulevards du G.-de-Gaulle/Vauban</p>
+<br/>
+<p align="center">D 976</p>
 </td>
 <td>
-<p align="center">
-<br/>Avenue des Fusillés</p>
+<br/>
+<p align="center">Limite département 61/50</p>
 </td>
 <td>
-<p align="center">
-<br/>ARRAS.</p>
+<br/>
+<p align="center">MANTILLY</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue J.-d'Arc</p>
+<br/>
+<p align="center">Limite département 61/53</p>
 </td>
 <td>
-<p align="center">
-<br/>ARRAS.</p>
+<br/>
+<p align="center">SAINT-OUEN-LE-BRISOULT</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>62</p>
+<br/>
+<p align="center">61</p>
 </td>
 <td>
-<p align="center">
-<br/>Boulevard du G.-de-Gaulle</p>
+<br/>
+<p align="center">D 438</p>
 </td>
 <td>
-<p align="center">
-<br/>D 265</p>
+<br/>
+<p align="center">Limite département 61/27</p>
 </td>
 <td>
-<p align="center">
-<br/>ARRAS.</p>
+<br/>
+<p align="center">MONNAI</p>
 </td>
 <td>
-<p align="center">
-<br/>Avenue des Fusillés</p>
+<br/>
+<p align="center">Limite département 61/72</p>
 </td>
 <td>
-<p align="center">
-<br/>ARRAS.</p>
+<br/>
+<p align="center">ALENCON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>62</p>
+<br/>
+<p align="center">61</p>
 </td>
 <td>
-<p align="center">
-<br/>D 950</p>
+<br/>
+<p align="center">D 958</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Extrémité</p>
 </td>
 <td>
-<p align="center">
-<br/>ATHIES.</p>
+<br/>
+<p align="center">NECY</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D   438</p>
 </td>
 <td>
-<p align="center">
-<br/>GAVRELLE.</p>
+<br/>
+<p align="center">SEES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>62</p>
+<br/>
+<p align="center">61</p>
 </td>
 <td>
-<p align="center">
-<br/>D 224</p>
+<br/>
+<p align="center">D 962</p>
 </td>
 <td>
-<p align="center">
-<br/>D 219</p>
+<br/>
+<p align="center">Limite département 61/14</p>
 </td>
 <td>
-<p align="center">
-<br/>AUDRUICQ.</p>
+<br/>
+<p align="center">SAINT-PIERRE-DU-REGARD</p>
 </td>
 <td>
-<p align="center">
-<br/>D 943</p>
+<br/>
+<p align="center">D 976</p>
 </td>
 <td>
-<p align="center">
-<br/>ARDRES.</p>
+<br/>
+<p align="center">DOMFRONT</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>62</p>
+<br/>
+<p align="center">61</p>
 </td>
 <td>
-<p align="center">
-<br/>D 929</p>
+<br/>
+<p align="center">D 979</p>
 </td>
 <td>
-<p align="center">
-<br/>D 917</p>
+<br/>
+<p align="center">Limite département 61/14</p>
 </td>
 <td>
-<p align="center">
-<br/>AVESNES-LES-BAPAUME.</p>
+<br/>
+<p align="center">VIMOUTIERS</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 438</p>
 </td>
 <td>
-<p align="center">
-<br/>LE SARS.</p>
+<br/>
+<p align="center">GACE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>62</p>
+<br/>
+<p align="center">62</p>
 </td>
 <td>
-<p align="center">
-<br/>D 929</p>
+<br/>
+<p align="center">Avenue A. de Saint Exupéry</p>
 </td>
 <td>
-<p align="center">
-<br/>Avenue des Frères-Davion</p>
+<br/>
+<p align="center">Extrémité</p>
 </td>
 <td>
-<p align="center">
-<br/>AVESNES-LES-BAPAUME.</p>
+<br/>
+<p align="center">CALAIS </p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 119</p>
 </td>
 <td>
-<p align="center">
-<br/>AVESNES-LES-BAPAUME.</p>
+<br/>
+<p align="center">CALAIS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>62</p>
+<br/>
+<p align="center">62</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue du Faubourg-d'Arras</p>
+<br/>
+<p align="center">Avenue de Calais</p>
 </td>
 <td>
-<p align="center">
-<br/>D 917</p>
+<br/>
+<p align="center">D 248</p>
 </td>
 <td>
-<p align="center">
-<br/>AVESNES-LES-BAPAUME.</p>
+<br/>
+<p align="center">MARCK</p>
 </td>
 <td>
-<p align="center">
-<br/>Avenue des Frères-Davion</p>
+<br/>
+<p align="center">Avenue A. de Saint Exupéry</p>
 </td>
 <td>
-<p align="center">
-<br/>BAPAUME.</p>
+<br/>
+<p align="center">CALAIS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>62</p>
+<br/>
+<p align="center">62</p>
 </td>
 <td>
-<p align="center">
-<br/>Avenue des Frères-Davion</p>
+<br/>
+<p align="center">Avenue des Frères Davion</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue du Faubourg-d'Arras</p>
+<br/>
+<p align="center">Rue du Faubourg d'Arras</p>
 </td>
 <td>
-<p align="center">
-<br/>BAPAUME.</p>
+<br/>
+<p align="center">BAPAUME</p>
 </td>
 <td>
-<p align="center">
-<br/>D 929</p>
+<br/>
+<p align="center">D 929</p>
 </td>
 <td>
-<p align="center">
-<br/>AVESNES-LES-BAPAUME.</p>
+<br/>
+<p align="center">AVESNES-LES-BAPAUME</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>62</p>
+<br/>
+<p align="center">62</p>
 </td>
 <td>
-<p align="center">
-<br/>D 956</p>
+<br/>
+<p align="center">Avenue F. Mitterrand</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D   940</p>
 </td>
 <td>
-<p align="center">
-<br/>BELLONNE.</p>
+<br/>
+<p align="center">MARCK</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D   248</p>
 </td>
 <td>
-<p align="center">
-<br/>TORTEQUESNE.</p>
+<br/>
+<p align="center">MARCK</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>62</p>
+<br/>
+<p align="center">62</p>
 </td>
 <td>
-<p align="center">
-<br/>D 937</p>
+<br/>
+<p align="center">boulevard Allende</p>
 </td>
 <td>
-<p align="center">
-<br/>D 941</p>
+<br/>
+<p align="center">Boulevard du Général de   Gaulle</p>
 </td>
 <td>
-<p align="center">
-<br/>BETHUNE.</p>
+<br/>
+<p align="center">ARRAS</p>
 </td>
 <td>
-<p align="center">
-<br/>D 63</p>
+<br/>
+<p align="center">Boulevard Besnier</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINTE-CATHERINE.</p>
+<br/>
+<p align="center">ARRAS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>62</p>
+<br/>
+<p align="center">62</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue du Nord</p>
+<br/>
+<p align="center">Boulevard Besnier</p>
 </td>
 <td>
-<p align="center">
-<br/>Rocade Est</p>
+<br/>
+<p align="center">Boulevard Allende</p>
 </td>
 <td>
-<p align="center">
-<br/>CALAIS.</p>
+<br/>
+<p align="center">ARRAS</p>
 </td>
 <td>
-<p align="center">
-<br/>D 119</p>
+<br/>
+<p align="center">D 266</p>
 </td>
 <td>
-<p align="center">
-<br/>CALAIS.</p>
+<br/>
+<p align="center">ARRAS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>62</p>
+<br/>
+<p align="center">62</p>
 </td>
 <td>
-<p align="center">
-<br/>Rocade Est</p>
+<br/>
+<p align="center">Boulevard du Général de   Gaulle</p>
 </td>
 <td>
-<p align="center">
-<br/>N 216</p>
+<br/>
+<p align="center">D 265</p>
 </td>
 <td>
-<p align="center">
-<br/>CALAIS.</p>
+<br/>
+<p align="center">ARRAS</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue du Nord</p>
+<br/>
+<p align="center">Boulevard Vauban</p>
 </td>
 <td>
-<p align="center">
-<br/>CALAIS.</p>
+<br/>
+<p align="center">ARRAS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>62</p>
+<br/>
+<p align="center">62</p>
 </td>
 <td>
-<p align="center">
-<br/>Avenue A.-de Saint-Exupéry</p>
+<br/>
+<p align="center">Boulevard Vauban</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Boulevard du Général de   Gaulle</p>
 </td>
 <td>
-<p align="center">
-<br/>CALAIS .</p>
+<br/>
+<p align="center">ARRAS</p>
 </td>
 <td>
-<p align="center">
-<br/>D 119</p>
+<br/>
+<p align="center">Rue Jeanne d'Arc</p>
 </td>
 <td>
-<p align="center">
-<br/>CALAIS.</p>
+<br/>
+<p align="center">ARRAS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>62</p>
+<br/>
+<p align="center">62</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue de Dainville</p>
+<br/>
+<p align="center">D 119</p>
 </td>
 <td>
-<p align="center">
-<br/>D 265</p>
+<br/>
+<p align="center">D 248</p>
 </td>
 <td>
-<p align="center">
-<br/>DAINVILLE.</p>
+<br/>
+<p align="center">MARCK</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue d'Arras</p>
+<br/>
+<p align="center">Extrémité</p>
 </td>
 <td>
-<p align="center">
-<br/>WAILLY.</p>
+<br/>
+<p align="center">CALAIS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>62</p>
+<br/>
+<p align="center">62</p>
 </td>
 <td>
-<p align="center">
-<br/>D 204</p>
+<br/>
+<p align="center">D 127</p>
 </td>
 <td>
-<p align="center">
-<br/>D 127 E6</p>
+<br/>
+<p align="center">D 127E5</p>
 </td>
 <td>
-<p align="center">
-<br/>DESVRES.</p>
+<br/>
+<p align="center">RETY</p>
 </td>
 <td>
-<p align="center">
-<br/>D 341</p>
+<br/>
+<p align="center">D 127E6</p>
 </td>
 <td>
-<p align="center">
-<br/>LONGFOSSE.</p>
+<br/>
+<p align="center">DESVRES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>62</p>
+<br/>
+<p align="center">62</p>
 </td>
 <td>
-<p align="center">
-<br/>D 300</p>
+<br/>
+<p align="center">D 127E5</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D   232</p>
 </td>
 <td>
-<p align="center">
-<br/>EPERLECQUES.</p>
+<br/>
+<p align="center">RETY</p>
 </td>
 <td>
-<p align="center">
-<br/>D 943</p>
+<br/>
+<p align="center">D   127</p>
 </td>
 <td>
-<p align="center">
-<br/>TILQUES.</p>
+<br/>
+<p align="center">RETY</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>62</p>
+<br/>
+<p align="center">62</p>
 </td>
 <td>
-<p align="center">
-<br/>D 243</p>
+<br/>
+<p align="center">D   191</p>
 </td>
 <td>
-<p align="center">
-<br/>D 231</p>
+<br/>
+<p align="center">A16</p>
 </td>
 <td>
-<p align="center">
-<br/>FERQUES.</p>
+<br/>
+<p align="center">MARQUISE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 127 E5</p>
+<br/>
+<p align="center">D 231</p>
 </td>
 <td>
-<p align="center">
-<br/>RETY.</p>
+<br/>
+<p align="center">MARQUISE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>62</p>
+<br/>
+<p align="center">62</p>
 </td>
 <td>
-<p align="center">
-<br/>D 956</p>
+<br/>
+<p align="center">D 20</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 36</p>
 </td>
 <td>
-<p align="center">
-<br/>GOUY-SOUS-BELLONNE.</p>
+<br/>
+<p align="center">VAULX-VRAUCOURT</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 930</p>
 </td>
 <td>
-<p align="center">
-<br/>GOUY-SOUS-BELLONNE.</p>
+<br/>
+<p align="center">BEUGNY</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>62</p>
+<br/>
+<p align="center">62</p>
 </td>
 <td>
-<p align="center">
-<br/>D 956</p>
+<br/>
+<p align="center">D 204</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 127E6</p>
 </td>
 <td>
-<p align="center">
-<br/>GOUY-SOUS-BELLONNE.</p>
+<br/>
+<p align="center">DESVRES</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 341</p>
 </td>
 <td>
-<p align="center">
-<br/>BELLONNE.</p>
+<br/>
+<p align="center">LONGFOSSE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>62</p>
+<br/>
+<p align="center">62</p>
 </td>
 <td>
-<p align="center">
-<br/>D 940</p>
+<br/>
+<p align="center">D 215</p>
 </td>
 <td>
-<p align="center">
-<br/>A16</p>
+<br/>
+<p align="center">D   231</p>
 </td>
 <td>
-<p align="center">
-<br/>GUEMPS.</p>
+<br/>
+<p align="center">GUINES</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D   231</p>
 </td>
 <td>
-<p align="center">
-<br/>OYE-PLAGE.</p>
+<br/>
+<p align="center">GUINES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>62</p>
+<br/>
+<p align="center">62</p>
 </td>
 <td>
-<p align="center">
-<br/>D 215</p>
+<br/>
+<p align="center">D   219</p>
 </td>
 <td>
-<p align="center">
-<br/>D 231</p>
+<br/>
+<p align="center">A16</p>
 </td>
 <td>
-<p align="center">
-<br/>GUINES.</p>
+<br/>
+<p align="center">NOUVELLE-EGLISE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 231</p>
+<br/>
+<p align="center">D 224</p>
 </td>
 <td>
-<p align="center">
-<br/>GUINES.</p>
+<br/>
+<p align="center">AUDRUICQ</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>62</p>
+<br/>
+<p align="center">62</p>
 </td>
 <td>
-<p align="center">
-<br/>D 231</p>
+<br/>
+<p align="center">D 224</p>
 </td>
 <td>
-<p align="center">
-<br/>D 215</p>
+<br/>
+<p align="center">D 219</p>
 </td>
 <td>
-<p align="center">
-<br/>GUINES.</p>
+<br/>
+<p align="center">AUDRUICQ</p>
 </td>
 <td>
-<p align="center">
-<br/>D 943</p>
+<br/>
+<p align="center">D 943</p>
 </td>
 <td>
-<p align="center">
-<br/>ARDRES.</p>
+<br/>
+<p align="center">ARDRES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>62</p>
+<br/>
+<p align="center">62</p>
 </td>
 <td>
-<p align="center">
-<br/>D 231</p>
+<br/>
+<p align="center">D 231</p>
 </td>
 <td>
-<p align="center">
-<br/>D 215</p>
+<br/>
+<p align="center">D 191</p>
 </td>
 <td>
-<p align="center">
-<br/>GUINES.</p>
+<br/>
+<p align="center">MARQUISE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 191</p>
+<br/>
+<p align="center">D 943</p>
 </td>
 <td>
-<p align="center">
-<br/>MARQUISE.</p>
+<br/>
+<p align="center">ARDRES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>62</p>
+<br/>
+<p align="center">62</p>
 </td>
 <td>
-<p align="center">
-<br/>D 947</p>
+<br/>
+<p align="center">D 243</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 231</p>
 </td>
 <td>
-<p align="center">
-<br/>LAVENTIE.</p>
+<br/>
+<p align="center">FERQUES</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 127E5</p>
 </td>
 <td>
-<p align="center">
-<br/>VIOLAINES.</p>
+<br/>
+<p align="center">RETY</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>62</p>
+<br/>
+<p align="center">62</p>
 </td>
 <td>
-<p align="center">
-<br/>D 341</p>
+<br/>
+<p align="center">D   247</p>
 </td>
 <td>
-<p align="center">
-<br/>D 204</p>
+<br/>
+<p align="center">D   249</p>
 </td>
 <td>
-<p align="center">
-<br/>LONGFOSSE.</p>
+<br/>
+<p align="center">MARCK</p>
 </td>
 <td>
-<p align="center">
-<br/>D 52</p>
+<br/>
+<p align="center">D   943</p>
 </td>
 <td>
-<p align="center">
-<br/>LONGFOSSE.</p>
+<br/>
+<p align="center">MARCK</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>62</p>
+<br/>
+<p align="center">62</p>
 </td>
 <td>
-<p align="center">
-<br/>D 52</p>
+<br/>
+<p align="center">D   248</p>
 </td>
 <td>
-<p align="center">
-<br/>D 341</p>
+<br/>
+<p align="center">D   119</p>
 </td>
 <td>
-<p align="center">
-<br/>LONGFOSSE.</p>
+<br/>
+<p align="center">MARCK</p>
 </td>
 <td>
-<p align="center">
-<br/>D 901</p>
+<br/>
+<p align="center">D   247</p>
 </td>
 <td>
-<p align="center">
-<br/>SAMER.</p>
+<br/>
+<p align="center">MARCK</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>62</p>
+<br/>
+<p align="center">62</p>
 </td>
 <td>
-<p align="center">
-<br/>D 928</p>
+<br/>
+<p align="center">D 260</p>
 </td>
 <td>
-<p align="center">
-<br/>D 942</p>
+<br/>
+<p align="center">D 917</p>
 </td>
 <td>
-<p align="center">
-<br/>LONGUENESSE.</p>
+<br/>
+<p align="center">ARRAS</p>
 </td>
 <td>
-<p align="center">
-<br/>D 928</p>
+<br/>
+<p align="center">D 939</p>
 </td>
 <td>
-<p align="center">
-<br/>LABROYE.</p>
+<br/>
+<p align="center">ARRAS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>62</p>
+<br/>
+<p align="center">62</p>
 </td>
 <td>
-<p align="center">
-<br/>Avenue de Calais</p>
+<br/>
+<p align="center">D 264</p>
 </td>
 <td>
-<p align="center">
-<br/>D 248</p>
+<br/>
+<p align="center">D 63</p>
 </td>
 <td>
-<p align="center">
-<br/>MARCK.</p>
+<br/>
+<p align="center">SAINTE-CATHERINE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 247</p>
+<br/>
+<p align="center">D 63</p>
 </td>
 <td>
-<p align="center">
-<br/>MARCK.</p>
+<br/>
+<p align="center">ARRAS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>62</p>
+<br/>
+<p align="center">62</p>
 </td>
 <td>
-<p align="center">
-<br/>Avenue de Calais</p>
+<br/>
+<p align="center">D 265</p>
 </td>
 <td>
-<p align="center">
-<br/>D 247</p>
+<br/>
+<p align="center">Boulevard du Général de   Gaulle</p>
 </td>
 <td>
-<p align="center">
-<br/>MARCK.</p>
+<br/>
+<p align="center">ARRAS</p>
 </td>
 <td>
-<p align="center">
-<br/>Avenue A.-de-Saint-Exupéry</p>
+<br/>
+<p align="center">N 25</p>
 </td>
 <td>
-<p align="center">
-<br/>CALAIS.</p>
+<br/>
+<p align="center">DAINVILLE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>62</p>
+<br/>
+<p align="center">62</p>
 </td>
 <td>
-<p align="center">
-<br/>D 119</p>
+<br/>
+<p align="center">D 266</p>
 </td>
 <td>
-<p align="center">
-<br/>D 248</p>
+<br/>
+<p align="center">Boulevard Besnier</p>
 </td>
 <td>
-<p align="center">
-<br/>MARCK.</p>
+<br/>
+<p align="center">ARRAS</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 917</p>
 </td>
 <td>
-<p align="center">
-<br/>CALAIS.</p>
+<br/>
+<p align="center">ARRAS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>62</p>
+<br/>
+<p align="center">62</p>
 </td>
 <td>
-<p align="center">
-<br/>D 247</p>
+<br/>
+<p align="center">D 3</p>
 </td>
 <td>
-<p align="center">
-<br/>D 248</p>
+<br/>
+<p align="center">D 60</p>
 </td>
 <td>
-<p align="center">
-<br/>MARCK.</p>
+<br/>
+<p align="center">AGNY</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 60</p>
 </td>
 <td>
-<p align="center">
-<br/>MARCK.</p>
+<br/>
+<p align="center">AGNY</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>62</p>
+<br/>
+<p align="center">62</p>
 </td>
 <td>
-<p align="center">
-<br/>D 248</p>
+<br/>
+<p align="center">D 300</p>
 </td>
 <td>
-<p align="center">
-<br/>D 119</p>
+<br/>
+<p align="center">Limite département 62/59</p>
 </td>
 <td>
-<p align="center">
-<br/>MARCK.</p>
+<br/>
+<p align="center">EPERLECQUES</p>
 </td>
 <td>
-<p align="center">
-<br/>D 247</p>
+<br/>
+<p align="center">D 943</p>
 </td>
 <td>
-<p align="center">
-<br/>MARCK.</p>
+<br/>
+<p align="center">TILQUES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>62</p>
+<br/>
+<p align="center">62</p>
 </td>
 <td>
-<p align="center">
-<br/>Avenue F.-Mitterrand</p>
+<br/>
+<p align="center">D 341</p>
 </td>
 <td>
-<p align="center">
-<br/>D 940</p>
+<br/>
+<p align="center">D 204</p>
 </td>
 <td>
-<p align="center">
-<br/>MARCK.</p>
+<br/>
+<p align="center">LONGFOSSE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 248</p>
+<br/>
+<p align="center">D 52</p>
 </td>
 <td>
-<p align="center">
-<br/>MARCK.</p>
+<br/>
+<p align="center">LONGFOSSE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>62</p>
+<br/>
+<p align="center">62</p>
 </td>
 <td>
-<p align="center">
-<br/>D 191</p>
+<br/>
+<p align="center">D 36</p>
 </td>
 <td>
-<p align="center">
-<br/>A16</p>
+<br/>
+<p align="center">D 956</p>
 </td>
 <td>
-<p align="center">
-<br/>MARQUISE.</p>
+<br/>
+<p align="center">VAULX-VRAUCOURT</p>
 </td>
 <td>
-<p align="center">
-<br/>D 231</p>
+<br/>
+<p align="center">D 20</p>
 </td>
 <td>
-<p align="center">
-<br/>MARQUISE.</p>
+<br/>
+<p align="center">VAULX-VRAUCOURT</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>62</p>
+<br/>
+<p align="center">62</p>
 </td>
 <td>
-<p align="center">
-<br/>D 939</p>
+<br/>
+<p align="center">D 52</p>
 </td>
 <td>
-<p align="center">
-<br/>A1</p>
+<br/>
+<p align="center">D 341</p>
 </td>
 <td>
-<p align="center">
-<br/>MONCHY-LE-PREUX.</p>
+<br/>
+<p align="center">LONGFOSSE</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 901</p>
 </td>
 <td>
-<p align="center">
-<br/>BOURLON.</p>
+<br/>
+<p align="center">SAMER</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>62</p>
+<br/>
+<p align="center">62</p>
 </td>
 <td>
-<p align="center">
-<br/>D 219</p>
+<br/>
+<p align="center">D 60</p>
 </td>
 <td>
-<p align="center">
-<br/>A 16</p>
+<br/>
+<p align="center">D 265</p>
 </td>
 <td>
-<p align="center">
-<br/>NOUVELLE-EGLISE.</p>
+<br/>
+<p align="center">DAINVILLE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 224</p>
+<br/>
+<p align="center">D 939</p>
 </td>
 <td>
-<p align="center">
-<br/>AUDRUICQ.</p>
+<br/>
+<p align="center">TILLOY-LES-MOFFLAINES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>62</p>
+<br/>
+<p align="center">62</p>
 </td>
 <td>
-<p align="center">
-<br/>D 956</p>
+<br/>
+<p align="center">D 63</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D   937</p>
 </td>
 <td>
-<p align="center">
-<br/>RECOURT.</p>
+<br/>
+<p align="center">SAINTE-CATHERINE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 36</p>
+<br/>
+<p align="center">D   264</p>
 </td>
 <td>
-<p align="center">
-<br/>VAULX-VRAUCOURT.</p>
+<br/>
+<p align="center">SAINTE-CATHERINE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>62</p>
+<br/>
+<p align="center">62</p>
 </td>
 <td>
-<p align="center">
-<br/>D 127</p>
+<br/>
+<p align="center">D   901</p>
 </td>
 <td>
-<p align="center">
-<br/>D 127 E5</p>
+<br/>
+<p align="center">N 1</p>
 </td>
 <td>
-<p align="center">
-<br/>RETY.</p>
+<br/>
+<p align="center">SAINT-LEONARD</p>
 </td>
 <td>
-<p align="center">
-<br/>D 127 E6</p>
+<br/>
+<p align="center">Limite département 62/80</p>
 </td>
 <td>
-<p align="center">
-<br/>DESVRES.</p>
+<br/>
+<p align="center">NEMPONT-SAINT-FIRMIN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>62</p>
+<br/>
+<p align="center">62</p>
 </td>
 <td>
-<p align="center">
-<br/>D 127 E5</p>
+<br/>
+<p align="center">D 917</p>
 </td>
 <td>
-<p align="center">
-<br/>D 232</p>
+<br/>
+<p align="center">Limite département 62/80</p>
 </td>
 <td>
-<p align="center">
-<br/>RETY.</p>
+<br/>
+<p align="center">LE TRANSLOY</p>
 </td>
 <td>
-<p align="center">
-<br/>D 127</p>
+<br/>
+<p align="center">D 60</p>
 </td>
 <td>
-<p align="center">
-<br/>RETY.</p>
+<br/>
+<p align="center">BEAURAINS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>62</p>
+<br/>
+<p align="center">62</p>
 </td>
 <td>
-<p align="center">
-<br/>D 264</p>
+<br/>
+<p align="center">D 917</p>
 </td>
 <td>
-<p align="center">
-<br/>D 63</p>
+<br/>
+<p align="center">D 260</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINTE-CATHERINE.</p>
+<br/>
+<p align="center">ARRAS</p>
 </td>
 <td>
-<p align="center">
-<br/>D 63</p>
+<br/>
+<p align="center">N 425</p>
 </td>
 <td>
-<p align="center">
-<br/>ARRAS.</p>
+<br/>
+<p align="center">SAINTE-CATHERINE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>62</p>
+<br/>
+<p align="center">62</p>
 </td>
 <td>
-<p align="center">
-<br/>D 63</p>
+<br/>
+<p align="center">D 928</p>
 </td>
 <td>
-<p align="center">
-<br/>D 937</p>
+<br/>
+<p align="center">D 942</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINTE-CATHERINE.</p>
+<br/>
+<p align="center">LONGUENESSE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 264</p>
+<br/>
+<p align="center">Limite département 62/80</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINTE-CATHERINE.</p>
+<br/>
+<p align="center">LABROYE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>62</p>
+<br/>
+<p align="center">62</p>
 </td>
 <td>
-<p align="center">
-<br/>D 940</p>
+<br/>
+<p align="center">D 929</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Limite département 62/80</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-FOLQUIN.</p>
+<br/>
+<p align="center">LE SARS</p>
 </td>
 <td>
-<p align="center">
-<br/>N 1</p>
+<br/>
+<p align="center">D 917</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-FOLQUIN.</p>
+<br/>
+<p align="center">AVESNES-LES-BAPAUME</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>62</p>
+<br/>
+<p align="center">62</p>
 </td>
 <td>
-<p align="center">
-<br/>D 950</p>
+<br/>
+<p align="center">D 930</p>
 </td>
 <td>
-<p align="center">
-<br/>D 60</p>
+<br/>
+<p align="center">D 917</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-LAURENT-BLANGY.</p>
+<br/>
+<p align="center">BAPAUME</p>
 </td>
 <td>
-<p align="center">
-<br/>D 33</p>
+<br/>
+<p align="center">Limite département 62/59</p>
 </td>
 <td>
-<p align="center">
-<br/>GAVRELLE.</p>
+<br/>
+<p align="center">GRAINCOURT-LES-HAVRINCOURT</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>62</p>
+<br/>
+<p align="center">62</p>
 </td>
 <td>
-<p align="center">
-<br/>D 901</p>
+<br/>
+<p align="center">D   937</p>
 </td>
 <td>
-<p align="center">
-<br/>D 52</p>
+<br/>
+<p align="center">D   941</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-LEONARD.</p>
+<br/>
+<p align="center">BETHUNE</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 63</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-LEONARD.</p>
+<br/>
+<p align="center">SAINTE-CATHERINE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>62</p>
+<br/>
+<p align="center">62</p>
 </td>
 <td>
-<p align="center">
-<br/>D 901</p>
+<br/>
+<p align="center">D 939</p>
 </td>
 <td>
-<p align="center">
-<br/>N 1</p>
+<br/>
+<p align="center">D 260</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-LEONARD.</p>
+<br/>
+<p align="center">ARRAS</p>
 </td>
 <td>
-<p align="center">
-<br/>D 901E3</p>
+<br/>
+<p align="center">Limite département 62/59</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-LEONARD.</p>
+<br/>
+<p align="center">BOURLON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>62</p>
+<br/>
+<p align="center">62</p>
 </td>
 <td>
-<p align="center">
-<br/>D 901</p>
+<br/>
+<p align="center">D 940</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">A16</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-LEONARD.</p>
+<br/>
+<p align="center">GUEMPS</p>
 </td>
 <td>
-<p align="center">
-<br/>D 940</p>
+<br/>
+<p align="center">Limite département 62/59</p>
 </td>
 <td>
-<p align="center">
-<br/>ISQUES.</p>
+<br/>
+<p align="center">SAINT-FOLQUIN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>62</p>
+<br/>
+<p align="center">62</p>
 </td>
 <td>
-<p align="center">
-<br/>D 20</p>
+<br/>
+<p align="center">D   941</p>
 </td>
 <td>
-<p align="center">
-<br/>D 36</p>
+<br/>
+<p align="center">D   937</p>
 </td>
 <td>
-<p align="center">
-<br/>VAULX-VRAUCOURT.</p>
+<br/>
+<p align="center">BETHUNE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 930</p>
+<br/>
+<p align="center">Limite département 62/59</p>
 </td>
 <td>
-<p align="center">
-<br/>BEUGNY.</p>
+<br/>
+<p align="center">LA BASSEE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>62</p>
+<br/>
+<p align="center">62</p>
 </td>
 <td>
-<p align="center">
-<br/>D 36</p>
+<br/>
+<p align="center">D   942</p>
 </td>
 <td>
-<p align="center">
-<br/>D 956</p>
+<br/>
+<p align="center">A 26</p>
 </td>
 <td>
-<p align="center">
-<br/>VAULX-VRAUCOURT.</p>
+<br/>
+<p align="center">SETQUES</p>
 </td>
 <td>
-<p align="center">
-<br/>D 20</p>
+<br/>
+<p align="center">Limite département 62/59</p>
 </td>
 <td>
-<p align="center">
-<br/>VAULX-VRAUCOURT.</p>
+<br/>
+<p align="center">ARQUES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>62</p>
+<br/>
+<p align="center">62</p>
 </td>
 <td>
-<p align="center">
-<br/>D 947 H</p>
+<br/>
+<p align="center">D   943</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D   937</p>
 </td>
 <td>
-<p align="center">
-<br/>VIOLAINES.</p>
+<br/>
+<p align="center">BETHUNE</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 942</p>
 </td>
 <td>
-<p align="center">
-<br/>VIOLAINES.</p>
+<br/>
+<p align="center">CAMPAGNES-LES-WARDRECQUES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>62</p>
+<br/>
+<p align="center">62</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue d'Arras</p>
+<br/>
+<p align="center">D 943</p>
 </td>
 <td>
-<p align="center">
-<br/>D 3</p>
+<br/>
+<p align="center">D 942</p>
 </td>
 <td>
-<p align="center">
-<br/>WAILLY.</p>
+<br/>
+<p align="center">SAINT-MARTIN-AUX-LAËRT</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue de Dainville</p>
+<br/>
+<p align="center">A16</p>
 </td>
 <td>
-<p align="center">
-<br/>WAILLY.</p>
+<br/>
+<p align="center">COULOGNE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>63</p>
+<br/>
+<p align="center">62</p>
 </td>
 <td>
-<p align="center">
-<br/>D 2009</p>
+<br/>
+<p align="center">D 947</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Limite département 62/59</p>
 </td>
 <td>
-<p align="center">
-<br/>AIGUEPERSE.</p>
+<br/>
+<p align="center">LAVENTIE</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Limite département 62/59</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-GENES-DU-RETZ.</p>
+<br/>
+<p align="center">VIOLAINES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>63</p>
+<br/>
+<p align="center">62</p>
 </td>
 <td>
-<p align="center">
-<br/>D 2009</p>
+<br/>
+<p align="center">D 950</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 917</p>
 </td>
 <td>
-<p align="center">
-<br/>AIGUEPERSE.</p>
+<br/>
+<p align="center">ARRAS</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Limite département 62/59</p>
 </td>
 <td>
-<p align="center">
-<br/>LE CHEIX.</p>
+<br/>
+<p align="center">BREBIERES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>63</p>
+<br/>
+<p align="center">62</p>
 </td>
 <td>
-<p align="center">
-<br/>D 448</p>
+<br/>
+<p align="center">D 956</p>
 </td>
 <td>
-<p align="center">
-<br/>D 2009</p>
+<br/>
+<p align="center">Limite département 62/59</p>
 </td>
 <td>
-<p align="center">
-<br/>AIGUEPERSE.</p>
+<br/>
+<p align="center">GOUY-SOUS-BELLONNE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 2009</p>
+<br/>
+<p align="center">D 36</p>
 </td>
 <td>
-<p align="center">
-<br/>AIGUEPERSE.</p>
+<br/>
+<p align="center">VAULX-VRAUCOURT</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>63</p>
+<br/>
+<p align="center">62</p>
 </td>
 <td>
-<p align="center">
-<br/>D 2089</p>
+<br/>
+<p align="center">Rocade Est</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1089</p>
+<br/>
+<p align="center">N 216</p>
 </td>
 <td>
-<p align="center">
-<br/>ARCONSAT.</p>
+<br/>
+<p align="center">CALAIS</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1</p>
+<br/>
+<p align="center">Rue du Nord</p>
 </td>
 <td>
-<p align="center">
-<br/>PONT-DU-CHATEAU.</p>
+<br/>
+<p align="center">CALAIS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>63</p>
+<br/>
+<p align="center">62</p>
 </td>
 <td>
-<p align="center">
-<br/>D 799</p>
+<br/>
+<p align="center">Rue d'Arras</p>
 </td>
 <td>
-<p align="center">
-<br/>D 2009</p>
+<br/>
+<p align="center">D 3</p>
 </td>
 <td>
-<p align="center">
-<br/>AUBIERE.</p>
+<br/>
+<p align="center">WAILLY</p>
 </td>
 <td>
-<p align="center">
-<br/>D 2089</p>
+<br/>
+<p align="center">Rue de Dainville</p>
 </td>
 <td>
-<p align="center">
-<br/>BEAUMONT.</p>
+<br/>
+<p align="center">WAILLY</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>63</p>
+<br/>
+<p align="center">62</p>
 </td>
 <td>
-<p align="center">
-<br/>D 978</p>
+<br/>
+<p align="center">Rue de Dainville</p>
 </td>
 <td>
-<p align="center">
-<br/>D 2009</p>
+<br/>
+<p align="center">D 265</p>
 </td>
 <td>
-<p align="center">
-<br/>AUBIERE.</p>
+<br/>
+<p align="center">DAINVILLE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 137</p>
+<br/>
+<p align="center">Rue d'Arras</p>
 </td>
 <td>
-<p align="center">
-<br/>PERIGNAT-LES-SARLIEVE.</p>
+<br/>
+<p align="center">WAILLY</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>63</p>
+<br/>
+<p align="center">62</p>
 </td>
 <td>
-<p align="center">
-<br/>D 941 B</p>
+<br/>
+<p align="center">Rue du Faubourg d'Arras</p>
 </td>
 <td>
-<p align="center">
-<br/>D 941</p>
+<br/>
+<p align="center">D 917</p>
 </td>
 <td>
-<p align="center">
-<br/>BROMONT-LAMOTHE.</p>
+<br/>
+<p align="center">AVESNES-LES-BAPAUME</p>
 </td>
 <td>
-<p align="center">
-<br/>D 986</p>
+<br/>
+<p align="center">Avenue des Frères Davion</p>
 </td>
 <td>
-<p align="center">
-<br/>PONTGIBAUD.</p>
+<br/>
+<p align="center">BAPAUME</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>63</p>
+<br/>
+<p align="center">62</p>
 </td>
 <td>
-<p align="center">
-<br/>D 402</p>
+<br/>
+<p align="center">Rue du Nord</p>
 </td>
 <td>
-<p align="center">
-<br/>D 2009</p>
+<br/>
+<p align="center">Rocade Est</p>
 </td>
 <td>
-<p align="center">
-<br/>CEBAZAT.</p>
+<br/>
+<p align="center">CALAIS</p>
 </td>
 <td>
-<p align="center">
-<br/>D 210</p>
+<br/>
+<p align="center">D 119</p>
 </td>
 <td>
-<p align="center">
-<br/>GERZAT.</p>
+<br/>
+<p align="center">CALAIS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>63</p>
+<br/>
+<p align="center">62</p>
 </td>
 <td>
-<p align="center">
-<br/>D 798</p>
+<br/>
+<p align="center">Rue Jeanne d'Arc</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Boulevard Vauban</p>
 </td>
 <td>
-<p align="center">
-<br/>CEYRAT.</p>
+<br/>
+<p align="center">ARRAS</p>
 </td>
 <td>
-<p align="center">
-<br/>D 2089</p>
+<br/>
+<p align="center">Rue A. Briand</p>
 </td>
 <td>
-<p align="center">
-<br/>ROMAGNAT.</p>
+<br/>
+<p align="center">ARRAS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>63</p>
+<br/>
+<p align="center">62</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1089</p>
+<br/>
+<p align="center">Rue A. Briand</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Rue Jeanne d'Arc</p>
 </td>
 <td>
-<p align="center">
-<br/>CHABRELOCHE.</p>
+<br/>
+<p align="center">ARRAS</p>
 </td>
 <td>
-<p align="center">
-<br/>D 2089</p>
+<br/>
+<p align="center">Rue d'Amiens</p>
 </td>
 <td>
-<p align="center">
-<br/>ARCONSAT.</p>
+<br/>
+<p align="center">ARRAS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>63</p>
+<br/>
+<p align="center">63</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1089</p>
+<br/>
+<p align="center">D 2009</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 402</p>
 </td>
 <td>
-<p align="center">
-<br/>CHABRELOCHE.</p>
+<br/>
+<p align="center">CEBAZAT</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Extrémité</p>
 </td>
 <td>
-<p align="center">
-<br/>CHABRELOCHE.</p>
+<br/>
+<p align="center">SAINT-GENES-DU-RETZ</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>63</p>
+<br/>
+<p align="center">63</p>
 </td>
 <td>
-<p align="center">
-<br/>D 21</p>
+<br/>
+<p align="center">D   402</p>
 </td>
 <td>
-<p align="center">
-<br/>D 2009</p>
+<br/>
+<p align="center">D   2009</p>
 </td>
 <td>
-<p align="center">
-<br/>CLERMONT-FERRAND.</p>
+<br/>
+<p align="center">CEBAZAT</p>
 </td>
 <td>
-<p align="center">
-<br/>D 2009</p>
+<br/>
+<p align="center">D 210</p>
 </td>
 <td>
-<p align="center">
-<br/>AUBIERE.</p>
+<br/>
+<p align="center">GERZAT</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>63</p>
+<br/>
+<p align="center">63</p>
 </td>
 <td>
-<p align="center">
-<br/>D 766</p>
+<br/>
+<p align="center">D 210</p>
 </td>
 <td>
-<p align="center">
-<br/>D 769</p>
+<br/>
+<p align="center">D 402</p>
 </td>
 <td>
-<p align="center">
-<br/>CLERMONT-FERRAND.</p>
+<br/>
+<p align="center">GERZAT</p>
 </td>
 <td>
-<p align="center">
-<br/>N89</p>
+<br/>
+<p align="center">D 2</p>
 </td>
 <td>
-<p align="center">
-<br/>CLERMONT-FERRAND.</p>
+<br/>
+<p align="center">GERZAT</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>63</p>
+<br/>
+<p align="center">63</p>
 </td>
 <td>
-<p align="center">
-<br/>D 769</p>
+<br/>
+<p align="center">D 2</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 210</p>
 </td>
 <td>
-<p align="center">
-<br/>CLERMONT-FERRAND.</p>
+<br/>
+<p align="center">GERZAT</p>
 </td>
 <td>
-<p align="center">
-<br/>D 766</p>
+<br/>
+<p align="center">D 1093</p>
 </td>
 <td>
-<p align="center">
-<br/>CLERMONT-FERRAND.</p>
+<br/>
+<p align="center">PONT-DU-CHATEAU</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>63</p>
+<br/>
+<p align="center">63</p>
 </td>
 <td>
-<p align="center">
-<br/>D 772</p>
+<br/>
+<p align="center">D 1093</p>
 </td>
 <td>
-<p align="center">
-<br/>D 54 D</p>
+<br/>
+<p align="center">D 1093B</p>
 </td>
 <td>
-<p align="center">
-<br/>CLERMONT-FERRAND.</p>
+<br/>
+<p align="center">LES MARTRES-D'ARTIERE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 8</p>
+<br/>
+<p align="center">D 2089</p>
 </td>
 <td>
-<p align="center">
-<br/>LE CENDRE.</p>
+<br/>
+<p align="center">PONT-DU-CHATEAU</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>63</p>
+<br/>
+<p align="center">63</p>
 </td>
 <td>
-<p align="center">
-<br/>D 137</p>
+<br/>
+<p align="center">D 1093B</p>
 </td>
 <td>
-<p align="center">
-<br/>D 772</p>
+<br/>
+<p align="center">D 1093</p>
 </td>
 <td>
-<p align="center">
-<br/>COURNON-D'AUVERGNE.</p>
+<br/>
+<p align="center">LES MARTRES-D'ARTIERE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 978</p>
+<br/>
+<p align="center">D 2089</p>
 </td>
 <td>
-<p align="center">
-<br/>PERIGNAT-LES-SARLIEVE.</p>
+<br/>
+<p align="center">PONT-DU-CHATEAU</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>63</p>
+<br/>
+<p align="center">63</p>
 </td>
 <td>
-<p align="center">
-<br/>D 769</p>
+<br/>
+<p align="center">D 2089</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Extrémité</p>
 </td>
 <td>
-<p align="center">
-<br/>DALLET.</p>
+<br/>
+<p align="center">ARCONSAT</p>
 </td>
 <td>
-<p align="center">
-<br/>D 52</p>
+<br/>
+<p align="center">D 1093B</p>
 </td>
 <td>
-<p align="center">
-<br/>LEMPDES.</p>
+<br/>
+<p align="center">PONT-DU-CHATEAU</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>63</p>
+<br/>
+<p align="center">63</p>
 </td>
 <td>
-<p align="center">
-<br/>D 2</p>
+<br/>
+<p align="center">D 2189</p>
 </td>
 <td>
-<p align="center">
-<br/>D 210</p>
+<br/>
+<p align="center">A 72</p>
 </td>
 <td>
-<p align="center">
-<br/>GERZAT.</p>
+<br/>
+<p align="center">PALLADUC</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1093</p>
+<br/>
+<p align="center">D 2089</p>
 </td>
 <td>
-<p align="center">
-<br/>PONT-DU-CHATEAU.</p>
+<br/>
+<p align="center">LA MONNERIE-LE-MONTEL</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>63</p>
+<br/>
+<p align="center">63</p>
 </td>
 <td>
-<p align="center">
-<br/>D 210</p>
+<br/>
+<p align="center">D   906</p>
 </td>
 <td>
-<p align="center">
-<br/>D 402</p>
+<br/>
+<p align="center">A 89</p>
 </td>
 <td>
-<p align="center">
-<br/>GERZAT.</p>
+<br/>
+<p align="center">THIERS</p>
 </td>
 <td>
-<p align="center">
-<br/>D 2</p>
+<br/>
+<p align="center">D 2089</p>
 </td>
 <td>
-<p align="center">
-<br/>GERZAT.</p>
+<br/>
+<p align="center">THIERS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>63</p>
+<br/>
+<p align="center">63</p>
 </td>
 <td>
-<p align="center">
-<br/>D 772</p>
+<br/>
+<p align="center">D 1</p>
 </td>
 <td>
-<p align="center">
-<br/>D 2</p>
+<br/>
+<p align="center">D 2089</p>
 </td>
 <td>
-<p align="center">
-<br/>GERZAT.</p>
+<br/>
+<p align="center">PONT-DU-CHATEAU</p>
 </td>
 <td>
-<p align="center">
-<br/>D 54</p>
+<br/>
+<p align="center">D   769</p>
 </td>
 <td>
-<p align="center">
-<br/>CLERMONT-FERRAND.</p>
+<br/>
+<p align="center">DALLET</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>63</p>
+<br/>
+<p align="center">63</p>
 </td>
 <td>
-<p align="center">
-<br/>D 716</p>
+<br/>
+<p align="center">D   769</p>
 </td>
 <td>
-<p align="center">
-<br/>A 75</p>
+<br/>
+<p align="center">D 1</p>
 </td>
 <td>
-<p align="center">
-<br/>ISSOIRE.</p>
+<br/>
+<p align="center">DALLET</p>
 </td>
 <td>
-<p align="center">
-<br/>D 909</p>
+<br/>
+<p align="center">D 52</p>
 </td>
 <td>
-<p align="center">
-<br/>LE BROC.</p>
+<br/>
+<p align="center">LEMPDES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>63</p>
+<br/>
+<p align="center">63</p>
 </td>
 <td>
-<p align="center">
-<br/>D 996</p>
+<br/>
+<p align="center">D 52</p>
 </td>
 <td>
-<p align="center">
-<br/>D 716</p>
+<br/>
+<p align="center">A 712</p>
 </td>
 <td>
-<p align="center">
-<br/>ISSOIRE.</p>
+<br/>
+<p align="center">PONT-DU-CHATEAU</p>
 </td>
 <td>
-<p align="center">
-<br/>D 978</p>
+<br/>
+<p align="center">D 769</p>
 </td>
 <td>
-<p align="center">
-<br/>CHAMPEIX.</p>
+<br/>
+<p align="center">LEMPDES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>63</p>
+<br/>
+<p align="center">63</p>
 </td>
 <td>
-<p align="center">
-<br/>D 922</p>
+<br/>
+<p align="center">D 2089</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 1093</p>
 </td>
 <td>
-<p align="center">
-<br/>LAQUEUILLE.</p>
+<br/>
+<p align="center">PONT-DU-CHATEAU</p>
 </td>
 <td>
-<p align="center">
-<br/>D 98</p>
+<br/>
+<p align="center">D 52</p>
 </td>
 <td>
-<p align="center">
-<br/>LAQUEUILLE.</p>
+<br/>
+<p align="center">LEMPDES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>63</p>
+<br/>
+<p align="center">63</p>
 </td>
 <td>
-<p align="center">
-<br/>D 922</p>
+<br/>
+<p align="center">D 2089</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 2009</p>
 </td>
 <td>
-<p align="center">
-<br/>LAQUEUILLE.</p>
+<br/>
+<p align="center">AUBIERE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 2089</p>
+<br/>
+<p align="center">Limite département 63/19</p>
 </td>
 <td>
-<p align="center">
-<br/>LAQUEUILLE.</p>
+<br/>
+<p align="center">BOURG-LASTIC</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>63</p>
+<br/>
+<p align="center">63</p>
 </td>
 <td>
-<p align="center">
-<br/>D 52</p>
+<br/>
+<p align="center">D   978</p>
 </td>
 <td>
-<p align="center">
-<br/>D 8</p>
+<br/>
+<p align="center">D 2009</p>
 </td>
 <td>
-<p align="center">
-<br/>LE CENDRE.</p>
+<br/>
+<p align="center">AUBIERE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 213</p>
+<br/>
+<p align="center">D 137</p>
 </td>
 <td>
-<p align="center">
-<br/>ORCET.</p>
+<br/>
+<p align="center">PERIGNAT-LES-SARLIEVE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>63</p>
+<br/>
+<p align="center">63</p>
 </td>
 <td>
-<p align="center">
-<br/>D 8</p>
+<br/>
+<p align="center">D 137</p>
 </td>
 <td>
-<p align="center">
-<br/>D 772</p>
+<br/>
+<p align="center">D 772</p>
 </td>
 <td>
-<p align="center">
-<br/>LE CENDRE.</p>
+<br/>
+<p align="center">COURNON-D'AUVERGNE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 52</p>
+<br/>
+<p align="center">D 978</p>
 </td>
 <td>
-<p align="center">
-<br/>LE CENDRE.</p>
+<br/>
+<p align="center">PERIGNAT-LES-SARLIEVE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>63</p>
+<br/>
+<p align="center">63</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1093</p>
+<br/>
+<p align="center">D 772</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1093 B</p>
+<br/>
+<p align="center">D 54D</p>
 </td>
 <td>
-<p align="center">
-<br/>LES MARTRES-D'ARTIERE.</p>
+<br/>
+<p align="center">CLERMONT-FERRAND</p>
 </td>
 <td>
-<p align="center">
-<br/>D 2</p>
+<br/>
+<p align="center">D 8</p>
 </td>
 <td>
-<p align="center">
-<br/>PONT-DU-CHATEAU.</p>
+<br/>
+<p align="center">LE CENDRE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>63</p>
+<br/>
+<p align="center">63</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1093B</p>
+<br/>
+<p align="center">D 8</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1093</p>
+<br/>
+<p align="center">D 772</p>
 </td>
 <td>
-<p align="center">
-<br/>LES MARTRES-D'ARTIERE.</p>
+<br/>
+<p align="center">LE CENDRE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 2089</p>
+<br/>
+<p align="center">D 979</p>
 </td>
 <td>
-<p align="center">
-<br/>PONT-DU-CHATEAU.</p>
+<br/>
+<p align="center">LE CENDRE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>63</p>
+<br/>
+<p align="center">63</p>
 </td>
 <td>
-<p align="center">
-<br/>D 986</p>
+<br/>
+<p align="center">D 979</p>
 </td>
 <td>
-<p align="center">
-<br/>D 446</p>
+<br/>
+<p align="center">D 978</p>
 </td>
 <td>
-<p align="center">
-<br/>MOZAC.</p>
+<br/>
+<p align="center">LA ROCHE-BLANCHE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 941</p>
+<br/>
+<p align="center">D 8</p>
 </td>
 <td>
-<p align="center">
-<br/>VOLVIC.</p>
+<br/>
+<p align="center">LE CENDRE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>63</p>
+<br/>
+<p align="center">63</p>
 </td>
 <td>
-<p align="center">
-<br/>D 978</p>
+<br/>
+<p align="center">D 978</p>
 </td>
 <td>
-<p align="center">
-<br/>D 52</p>
+<br/>
+<p align="center">D 979</p>
 </td>
 <td>
-<p align="center">
-<br/>ORCET.</p>
+<br/>
+<p align="center">LA ROCHE-BLANCHE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 996</p>
+<br/>
+<p align="center">D 996</p>
 </td>
 <td>
-<p align="center">
-<br/>CHAMPEIX.</p>
+<br/>
+<p align="center">CHAMPEIX</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>63</p>
+<br/>
+<p align="center">63</p>
 </td>
 <td>
-<p align="center">
-<br/>D 2189</p>
+<br/>
+<p align="center">D 996</p>
 </td>
 <td>
-<p align="center">
-<br/>A 72</p>
+<br/>
+<p align="center">D 716</p>
 </td>
 <td>
-<p align="center">
-<br/>PALLADUC.</p>
+<br/>
+<p align="center">ISSOIRE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 2089</p>
+<br/>
+<p align="center">D 978</p>
 </td>
 <td>
-<p align="center">
-<br/>LA MONNERIE-LE-MONTEL.</p>
+<br/>
+<p align="center">CHAMPEIX</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>63</p>
+<br/>
+<p align="center">63</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1</p>
+<br/>
+<p align="center">D 716</p>
 </td>
 <td>
-<p align="center">
-<br/>D 2089</p>
+<br/>
+<p align="center">A 75</p>
 </td>
 <td>
-<p align="center">
-<br/>PONT-DU-CHATEAU.</p>
+<br/>
+<p align="center">ISSOIRE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 769</p>
+<br/>
+<p align="center">A 75</p>
 </td>
 <td>
-<p align="center">
-<br/>DALLET.</p>
+<br/>
+<p align="center">LE BROC</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>63</p>
+<br/>
+<p align="center">63</p>
 </td>
 <td>
-<p align="center">
-<br/>D 2089</p>
+<br/>
+<p align="center">D 986</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1</p>
+<br/>
+<p align="center">D 943</p>
 </td>
 <td>
-<p align="center">
-<br/>PONT-DU-CHATEAU.</p>
+<br/>
+<p align="center">PONTGIBAUD</p>
 </td>
 <td>
-<p align="center">
-<br/>D 52</p>
+<br/>
+<p align="center">D 2089</p>
 </td>
 <td>
-<p align="center">
-<br/>PONT-DU-CHATEAU.</p>
+<br/>
+<p align="center">SAINT-PIERRE-ROCHE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>63</p>
+<br/>
+<p align="center">63</p>
 </td>
 <td>
-<p align="center">
-<br/>D 52</p>
+<br/>
+<p align="center">D   943</p>
 </td>
 <td>
-<p align="center">
-<br/>A 712</p>
+<br/>
+<p align="center">D   941</p>
 </td>
 <td>
-<p align="center">
-<br/>PONT-DU-CHATEAU.</p>
+<br/>
+<p align="center">BROMONT-LAMOTHE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 52</p>
+<br/>
+<p align="center">D 986</p>
 </td>
 <td>
-<p align="center">
-<br/>LEMPDES.</p>
+<br/>
+<p align="center">PONTGIBAUD</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>63</p>
+<br/>
+<p align="center">63</p>
 </td>
 <td>
-<p align="center">
-<br/>D 986</p>
+<br/>
+<p align="center">D 941</p>
 </td>
 <td>
-<p align="center">
-<br/>D 941 B</p>
+<br/>
+<p align="center">Limite département 63/23</p>
 </td>
 <td>
-<p align="center">
-<br/>PONTGIBAUD.</p>
+<br/>
+<p align="center">SAINT-AVIT</p>
 </td>
 <td>
-<p align="center">
-<br/>D 2089</p>
+<br/>
+<p align="center">D   943</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-PIERRE-ROCHE.</p>
+<br/>
+<p align="center">SAINT-OURS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>63</p>
+<br/>
+<p align="center">63</p>
 </td>
 <td>
-<p align="center">
-<br/>D 2144</p>
+<br/>
+<p align="center">D   943</p>
 </td>
 <td>
-<p align="center">
-<br/>D 2009</p>
+<br/>
+<p align="center">D   941</p>
 </td>
 <td>
-<p align="center">
-<br/>RIOM.</p>
+<br/>
+<p align="center">SAINT-OURS</p>
 </td>
 <td>
-<p align="center">
-<br/>D 2144</p>
+<br/>
+<p align="center">D   986</p>
 </td>
 <td>
-<p align="center">
-<br/>ARS-LES-FAVETS.</p>
+<br/>
+<p align="center">VOLVIC</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>63</p>
+<br/>
+<p align="center">63</p>
 </td>
 <td>
-<p align="center">
-<br/>D 446</p>
+<br/>
+<p align="center">D   986</p>
 </td>
 <td>
-<p align="center">
-<br/>D 2009</p>
+<br/>
+<p align="center">D   446</p>
 </td>
 <td>
-<p align="center">
-<br/>RIOM.</p>
+<br/>
+<p align="center">MOZAC</p>
 </td>
 <td>
-<p align="center">
-<br/>D 986</p>
+<br/>
+<p align="center">D   943</p>
 </td>
 <td>
-<p align="center">
-<br/>MOZAC.</p>
+<br/>
+<p align="center">VOLVIC</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>63</p>
+<br/>
+<p align="center">63</p>
 </td>
 <td>
-<p align="center">
-<br/>D 447</p>
+<br/>
+<p align="center">D 446</p>
 </td>
 <td>
-<p align="center">
-<br/>D 2009</p>
+<br/>
+<p align="center">D 2009</p>
 </td>
 <td>
-<p align="center">
-<br/>RIOM.</p>
+<br/>
+<p align="center">RIOM</p>
 </td>
 <td>
-<p align="center">
-<br/>D 2009</p>
+<br/>
+<p align="center">D   986</p>
 </td>
 <td>
-<p align="center">
-<br/>MENETROL.</p>
+<br/>
+<p align="center">MOZAC</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>63</p>
+<br/>
+<p align="center">63</p>
 </td>
 <td>
-<p align="center">
-<br/>D 2089</p>
+<br/>
+<p align="center">D   2144</p>
 </td>
 <td>
-<p align="center">
-<br/>D 798</p>
+<br/>
+<p align="center">D 2009</p>
 </td>
 <td>
-<p align="center">
-<br/>ROMAGNAT.</p>
+<br/>
+<p align="center">RIOM</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1089</p>
+<br/>
+<p align="center">Limite département 63/03</p>
 </td>
 <td>
-<p align="center">
-<br/>BOURG-LASTIC.</p>
+<br/>
+<p align="center">ARS-LES-FAVETS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>63</p>
+<br/>
+<p align="center">63</p>
 </td>
 <td>
-<p align="center">
-<br/>D 941</p>
+<br/>
+<p align="center">D 772</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 2</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-AVIT.</p>
+<br/>
+<p align="center">GERZAT</p>
 </td>
 <td>
-<p align="center">
-<br/>D 943</p>
+<br/>
+<p align="center">D 54</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-OURS.</p>
+<br/>
+<p align="center">CLERMONT-FERRAND</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>63</p>
+<br/>
+<p align="center">63</p>
 </td>
 <td>
-<p align="center">
-<br/>D 82</p>
+<br/>
+<p align="center">D 769</p>
 </td>
 <td>
-<p align="center">
-<br/>D 2089</p>
+<br/>
+<p align="center">D 771</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-JULIEN-PUY-LAVEZE.</p>
+<br/>
+<p align="center">CLERMONT-FERRAND</p>
 </td>
 <td>
-<p align="center">
-<br/>D 98</p>
+<br/>
+<p align="center">D 772</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-JULIEN-PUY-LAVEZE.</p>
+<br/>
+<p align="center">CLERMONT-FERRAND</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>63</p>
+<br/>
+<p align="center">63</p>
 </td>
 <td>
-<p align="center">
-<br/>D 98</p>
+<br/>
+<p align="center">D 771</p>
 </td>
 <td>
-<p align="center">
-<br/>D 82</p>
+<br/>
+<p align="center">D 2009</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-JULIEN-PUY-LAVEZE.</p>
+<br/>
+<p align="center">CLERMONT-FERRAND</p>
 </td>
 <td>
-<p align="center">
-<br/>D 922</p>
+<br/>
+<p align="center">D 769</p>
 </td>
 <td>
-<p align="center">
-<br/>LAQUEUILLE.</p>
+<br/>
+<p align="center">CLERMONT-FERRAND</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>63</p>
+<br/>
+<p align="center">63</p>
 </td>
 <td>
-<p align="center">
-<br/>D 943</p>
+<br/>
+<p align="center">D 2009</p>
 </td>
 <td>
-<p align="center">
-<br/>D 941</p>
+<br/>
+<p align="center">D 771</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-OURS.</p>
+<br/>
+<p align="center">CLERMONT-FERRAND</p>
 </td>
 <td>
-<p align="center">
-<br/>D 986</p>
+<br/>
+<p align="center">D 2089</p>
 </td>
 <td>
-<p align="center">
-<br/>VOLVIC.</p>
+<br/>
+<p align="center">AUBIERE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>63</p>
+<br/>
+<p align="center">63</p>
 </td>
 <td>
-<p align="center">
-<br/>D 906</p>
+<br/>
+<p align="center">D 1089</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Extrémité</p>
 </td>
 <td>
-<p align="center">
-<br/>THIERS.</p>
+<br/>
+<p align="center">CHABRELOCHE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 2089</p>
+<br/>
+<p align="center">Extrémité</p>
 </td>
 <td>
-<p align="center">
-<br/>THIERS.</p>
+<br/>
+<p align="center">CHABRELOCHE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>64</p>
+<br/>
+<p align="center">63</p>
 </td>
 <td>
-<p align="center">
-<br/>D 2</p>
+<br/>
+<p align="center">D 402A</p>
 </td>
 <td>
-<p align="center">
-<br/>D 509</p>
+<br/>
+<p align="center">D   2009</p>
 </td>
 <td>
-<p align="center">
-<br/>ARTIGUELOUVE.</p>
+<br/>
+<p align="center">CEBAZAT</p>
 </td>
 <td>
-<p align="center">
-<br/>D 834</p>
+<br/>
+<p align="center">D   402</p>
 </td>
 <td>
-<p align="center">
-<br/>JURANCON.</p>
+<br/>
+<p align="center">CEBAZAT</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>64</p>
+<br/>
+<p align="center">63</p>
 </td>
 <td>
-<p align="center">
-<br/>D 107</p>
+<br/>
+<p align="center">D   402B</p>
 </td>
 <td>
-<p align="center">
-<br/>N 117</p>
+<br/>
+<p align="center">D   402</p>
 </td>
 <td>
-<p align="center">
-<br/>BAYONNE.</p>
+<br/>
+<p align="center">CEBAZAT</p>
 </td>
 <td>
-<p align="center">
-<br/>D 810</p>
+<br/>
+<p align="center">D   2009</p>
 </td>
 <td>
-<p align="center">
-<br/>BAYONNE.</p>
+<br/>
+<p align="center">CEBAZAT</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>64</p>
+<br/>
+<p align="center">64</p>
 </td>
 <td>
-<p align="center">
-<br/>D 810</p>
+<br/>
+<p align="center">D 2</p>
 </td>
 <td>
-<p align="center">
-<br/>D 817</p>
+<br/>
+<p align="center">D   509</p>
 </td>
 <td>
-<p align="center">
-<br/>BAYONNE.</p>
+<br/>
+<p align="center">ARTIGUELOUVE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 817</p>
+<br/>
+<p align="center">D 834</p>
 </td>
 <td>
-<p align="center">
-<br/>URRUGNE.</p>
+<br/>
+<p align="center">JURANCON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>64</p>
+<br/>
+<p align="center">64</p>
 </td>
 <td>
-<p align="center">
-<br/>D 817</p>
+<br/>
+<p align="center">D 817</p>
 </td>
 <td>
-<p align="center">
-<br/>D 107</p>
+<br/>
+<p align="center">Limite département 64/40</p>
 </td>
 <td>
-<p align="center">
-<br/>BAYONNE.</p>
+<br/>
+<p align="center">BAYONNE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 810</p>
+<br/>
+<p align="center">D 817</p>
 </td>
 <td>
-<p align="center">
-<br/>BAYONNE.</p>
+<br/>
+<p align="center">BAYONNE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>64</p>
+<br/>
+<p align="center">64</p>
 </td>
 <td>
-<p align="center">
-<br/>D 932</p>
+<br/>
+<p align="center">D 938</p>
 </td>
 <td>
-<p align="center">
-<br/>N 263</p>
+<br/>
+<p align="center">D 100</p>
 </td>
 <td>
-<p align="center">
-<br/>BAYONNE.</p>
+<br/>
+<p align="center">BIZANOS</p>
 </td>
 <td>
-<p align="center">
-<br/>D 832</p>
+<br/>
+<p align="center">D 817</p>
 </td>
 <td>
-<p align="center">
-<br/>ANGLET.</p>
+<br/>
+<p align="center">IDRON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>64</p>
+<br/>
+<p align="center">64</p>
 </td>
 <td>
-<p align="center">
-<br/>D 309</p>
+<br/>
+<p align="center">D 309</p>
 </td>
 <td>
-<p align="center">
-<br/>D 85</p>
+<br/>
+<p align="center">D 85</p>
 </td>
 <td>
-<p align="center">
-<br/>BOUCAU.</p>
+<br/>
+<p align="center">BOUCAU</p>
 </td>
 <td>
-<p align="center">
-<br/>D 308</p>
+<br/>
+<p align="center">D 308</p>
 </td>
 <td>
-<p align="center">
-<br/>BAYONNE.</p>
+<br/>
+<p align="center">BAYONNE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>64</p>
+<br/>
+<p align="center">64</p>
 </td>
 <td>
-<p align="center">
-<br/>D 810</p>
+<br/>
+<p align="center">D 810</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Limite département 64/40</p>
 </td>
 <td>
-<p align="center">
-<br/>BOUCAU.</p>
+<br/>
+<p align="center">BOUCAU</p>
 </td>
 <td>
-<p align="center">
-<br/>D 107</p>
+<br/>
+<p align="center">Limite département   64/Espagne</p>
 </td>
 <td>
-<p align="center">
-<br/>BAYONNE.</p>
+<br/>
+<p align="center">URRUGNE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>64</p>
+<br/>
+<p align="center">64</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1</p>
+<br/>
+<p align="center">D 1</p>
 </td>
 <td>
-<p align="center">
-<br/>A 64</p>
+<br/>
+<p align="center">A 64</p>
 </td>
 <td>
-<p align="center">
-<br/>BRISCOUS.</p>
+<br/>
+<p align="center">BRISCOUS</p>
 </td>
 <td>
-<p align="center">
-<br/>A 63</p>
+<br/>
+<p align="center">A 63</p>
 </td>
 <td>
-<p align="center">
-<br/>BAYONNE.</p>
+<br/>
+<p align="center">BAYONNE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>64</p>
+<br/>
+<p align="center">64</p>
 </td>
 <td>
-<p align="center">
-<br/>D 817</p>
+<br/>
+<p align="center">D 934</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 934A</p>
 </td>
 <td>
-<p align="center">
-<br/>ESPOEY.</p>
+<br/>
+<p align="center">GAN</p>
 </td>
 <td>
-<p align="center">
-<br/>D 938</p>
+<br/>
+<p align="center">Limite département   64/Espagne</p>
 </td>
 <td>
-<p align="center">
-<br/>IDRON.</p>
+<br/>
+<p align="center">LARUNS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>64</p>
+<br/>
+<p align="center">64</p>
 </td>
 <td>
-<p align="center">
-<br/>D 934</p>
+<br/>
+<p align="center">Ex N 134</p>
 </td>
 <td>
-<p align="center">
-<br/>N 2134</p>
+<br/>
+<p align="center">N 134 giratoire Nord</p>
 </td>
 <td>
-<p align="center">
-<br/>GAN.</p>
+<br/>
+<p align="center">GAN</p>
 </td>
 <td>
-<p align="center">
-<br/>N 136</p>
+<br/>
+<p align="center">N 134 giratoire Sud</p>
 </td>
 <td>
-<p align="center">
-<br/>LARUNS.</p>
+<br/>
+<p align="center">GAN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>64</p>
+<br/>
+<p align="center">64</p>
 </td>
 <td>
-<p align="center">
-<br/>N 2134</p>
+<br/>
+<p align="center">D 834</p>
 </td>
 <td>
-<p align="center">
-<br/>D 230</p>
+<br/>
+<p align="center">Limite département 64/40</p>
 </td>
 <td>
-<p align="center">
-<br/>GAN.</p>
+<br/>
+<p align="center">GARLIN</p>
 </td>
 <td>
-<p align="center">
-<br/>N 134</p>
+<br/>
+<p align="center">D 817 (rocade de Pau)</p>
 </td>
 <td>
-<p align="center">
-<br/>GAN.</p>
+<br/>
+<p align="center">PAU</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>64</p>
+<br/>
+<p align="center">64</p>
 </td>
 <td>
-<p align="center">
-<br/>D 834</p>
+<br/>
+<p align="center">D 817</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Limite département 64/65</p>
 </td>
 <td>
-<p align="center">
-<br/>GARLIN.</p>
+<br/>
+<p align="center">GER</p>
 </td>
 <td>
-<p align="center">
-<br/>Boulevard Olof-Palm</p>
+<br/>
+<p align="center">Limite département 64/65</p>
 </td>
 <td>
-<p align="center">
-<br/>PAU.</p>
+<br/>
+<p align="center">GER</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>64</p>
+<br/>
+<p align="center">64</p>
 </td>
 <td>
-<p align="center">
-<br/>D 817</p>
+<br/>
+<p align="center">D 817</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Limite département 64/65</p>
 </td>
 <td>
-<p align="center">
-<br/>GER.</p>
+<br/>
+<p align="center">GER</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Avenue Pierre Mendes France</p>
 </td>
 <td>
-<p align="center">
-<br/>GER.</p>
+<br/>
+<p align="center">ORTHEZ</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>64</p>
+<br/>
+<p align="center">64</p>
 </td>
 <td>
-<p align="center">
-<br/>D 811</p>
+<br/>
+<p align="center">D   912</p>
 </td>
 <td>
-<p align="center">
-<br/>D 912</p>
+<br/>
+<p align="center">D   811</p>
 </td>
 <td>
-<p align="center">
-<br/>HENDAYE.</p>
+<br/>
+<p align="center">HENDAYE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 817</p>
+<br/>
+<p align="center">Limite département   64/Espagne</p>
 </td>
 <td>
-<p align="center">
-<br/>HENDAYE.</p>
+<br/>
+<p align="center">HENDAYE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>64</p>
+<br/>
+<p align="center">64</p>
 </td>
 <td>
-<p align="center">
-<br/>D 817</p>
+<br/>
+<p align="center">D   100</p>
 </td>
 <td>
-<p align="center">
-<br/>D 811</p>
+<br/>
+<p align="center">D   834</p>
 </td>
 <td>
-<p align="center">
-<br/>HENDAYE.</p>
+<br/>
+<p align="center">JURANCON</p>
 </td>
 <td>
-<p align="center">
-<br/>N 10</p>
+<br/>
+<p align="center">D 938</p>
 </td>
 <td>
-<p align="center">
-<br/>URRUGNE.</p>
+<br/>
+<p align="center">BIZANOS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>64</p>
+<br/>
+<p align="center">64</p>
 </td>
 <td>
-<p align="center">
-<br/>D 912</p>
+<br/>
+<p align="center">D 834</p>
 </td>
 <td>
-<p align="center">
-<br/>D 811</p>
+<br/>
+<p align="center">D 2</p>
 </td>
 <td>
-<p align="center">
-<br/>HENDAYE.</p>
+<br/>
+<p align="center">JURANCON</p>
 </td>
 <td>
-<p align="center">
-<br/>Frontière espagnole</p>
+<br/>
+<p align="center">D 100</p>
 </td>
 <td>
-<p align="center">
-<br/>HENDAYE.</p>
+<br/>
+<p align="center">JURANCON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>64</p>
+<br/>
+<p align="center">64</p>
 </td>
 <td>
-<p align="center">
-<br/>D 100</p>
+<br/>
+<p align="center">D 509</p>
 </td>
 <td>
-<p align="center">
-<br/>D 834</p>
+<br/>
+<p align="center">D 817</p>
 </td>
 <td>
-<p align="center">
-<br/>JURANCON.</p>
+<br/>
+<p align="center">LESCAR</p>
 </td>
 <td>
-<p align="center">
-<br/>D 938</p>
+<br/>
+<p align="center">D 2</p>
 </td>
 <td>
-<p align="center">
-<br/>BIZANOS.</p>
+<br/>
+<p align="center">ARTIGUELOUVE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>64</p>
+<br/>
+<p align="center">64</p>
 </td>
 <td>
-<p align="center">
-<br/>D 834</p>
+<br/>
+<p align="center">D 62</p>
 </td>
 <td>
-<p align="center">
-<br/>D 100</p>
+<br/>
+<p align="center">D 943</p>
 </td>
 <td>
-<p align="center">
-<br/>JURANCON.</p>
+<br/>
+<p align="center">MORLAAS</p>
 </td>
 <td>
-<p align="center">
-<br/>D 2</p>
+<br/>
+<p align="center">D 42</p>
 </td>
 <td>
-<p align="center">
-<br/>JURANCON.</p>
+<br/>
+<p align="center">ARRIEN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>64</p>
+<br/>
+<p align="center">64</p>
 </td>
 <td>
-<p align="center">
-<br/>Avenue de l'Hippodrome</p>
+<br/>
+<p align="center">D 55</p>
 </td>
 <td>
-<p align="center">
-<br/>Chemin Salie</p>
+<br/>
+<p align="center">D 6</p>
 </td>
 <td>
-<p align="center">
-<br/>LESCAR.</p>
+<br/>
+<p align="center">OLORON-SAINTE-MARIE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 834</p>
+<br/>
+<p align="center">N 134</p>
 </td>
 <td>
-<p align="center">
-<br/>PAU.</p>
+<br/>
+<p align="center">GURMENCON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>64</p>
+<br/>
+<p align="center">64</p>
 </td>
 <td>
-<p align="center">
-<br/>Chemin Salie</p>
+<br/>
+<p align="center">D 6</p>
 </td>
 <td>
-<p align="center">
-<br/>D 509</p>
+<br/>
+<p align="center">D 9</p>
 </td>
 <td>
-<p align="center">
-<br/>LESCAR.</p>
+<br/>
+<p align="center">OLORON-SAINTE-MARIE</p>
 </td>
 <td>
-<p align="center">
-<br/>Avenue de l'Hippodrome</p>
+<br/>
+<p align="center">D 55</p>
 </td>
 <td>
-<p align="center">
-<br/>LESCAR.</p>
+<br/>
+<p align="center">OLORON-SAINTE-MARIE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>64</p>
+<br/>
+<p align="center">64</p>
 </td>
 <td>
-<p align="center">
-<br/>D 509</p>
+<br/>
+<p align="center">D 9</p>
 </td>
 <td>
-<p align="center">
-<br/>Chemin Salie</p>
+<br/>
+<p align="center">N 134</p>
 </td>
 <td>
-<p align="center">
-<br/>LESCAR.</p>
+<br/>
+<p align="center">OLORON-SAINTE-MARIE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 2</p>
+<br/>
+<p align="center">D 6</p>
 </td>
 <td>
-<p align="center">
-<br/>ARTIGUELOUVE.</p>
+<br/>
+<p align="center">OLORON-SAINTE-MARIE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>64</p>
+<br/>
+<p align="center">64</p>
 </td>
 <td>
-<p align="center">
-<br/>D 817</p>
+<br/>
+<p align="center">Avenue Pierre Mendès France</p>
 </td>
 <td>
-<p align="center">
-<br/>D 509</p>
+<br/>
+<p align="center">D   817</p>
 </td>
 <td>
-<p align="center">
-<br/>LESCAR.</p>
+<br/>
+<p align="center">ORTHEZ</p>
 </td>
 <td>
-<p align="center">
-<br/>Avenue Pierre-Mendès-France</p>
+<br/>
+<p align="center">D 9</p>
 </td>
 <td>
-<p align="center">
-<br/>ORTHEZ.</p>
+<br/>
+<p align="center">ORTHEZ</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>64</p>
+<br/>
+<p align="center">64</p>
 </td>
 <td>
-<p align="center">
-<br/>D 62</p>
+<br/>
+<p align="center">D 9</p>
 </td>
 <td>
-<p align="center">
-<br/>D 943</p>
+<br/>
+<p align="center">Avenue Pierre Mendès France</p>
 </td>
 <td>
-<p align="center">
-<br/>MORLAAS.</p>
+<br/>
+<p align="center">ORTHEZ</p>
 </td>
 <td>
-<p align="center">
-<br/>D 42</p>
+<br/>
+<p align="center">D   947</p>
 </td>
 <td>
-<p align="center">
-<br/>ARRIEN.</p>
+<br/>
+<p align="center">ORTHEZ</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>64</p>
+<br/>
+<p align="center">64</p>
 </td>
 <td>
-<p align="center">
-<br/>D 943</p>
+<br/>
+<p align="center">D   817</p>
 </td>
 <td>
-<p align="center">
-<br/>D 62</p>
+<br/>
+<p align="center">D   947</p>
 </td>
 <td>
-<p align="center">
-<br/>MORLAAS.</p>
+<br/>
+<p align="center">ORTHEZ</p>
 </td>
 <td>
-<p align="center">
-<br/>D 938</p>
+<br/>
+<p align="center">Limite département 64/40</p>
 </td>
 <td>
-<p align="center">
-<br/>PAU.</p>
+<br/>
+<p align="center">PUYOO</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>64</p>
+<br/>
+<p align="center">64</p>
 </td>
 <td>
-<p align="center">
-<br/>D 55</p>
+<br/>
+<p align="center">D 9</p>
 </td>
 <td>
-<p align="center">
-<br/>D 6</p>
+<br/>
+<p align="center">D   947</p>
 </td>
 <td>
-<p align="center">
-<br/>OLORON-SAINTE-MARIE.</p>
+<br/>
+<p align="center">ORTHEZ</p>
 </td>
 <td>
-<p align="center">
-<br/>N 134</p>
+<br/>
+<p align="center">A 64</p>
 </td>
 <td>
-<p align="center">
-<br/>GURMENCON.</p>
+<br/>
+<p align="center">BIRON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>64</p>
+<br/>
+<p align="center">64</p>
 </td>
 <td>
-<p align="center">
-<br/>D 6</p>
+<br/>
+<p align="center">D   947</p>
 </td>
 <td>
-<p align="center">
-<br/>D 9</p>
+<br/>
+<p align="center">D 9</p>
 </td>
 <td>
-<p align="center">
-<br/>OLORON-SAINTE-MARIE.</p>
+<br/>
+<p align="center">ORTHEZ</p>
 </td>
 <td>
-<p align="center">
-<br/>D 55</p>
+<br/>
+<p align="center">D   817</p>
 </td>
 <td>
-<p align="center">
-<br/>OLORON-SAINTE-MARIE.</p>
+<br/>
+<p align="center">ORTHEZ</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>64</p>
+<br/>
+<p align="center">64</p>
 </td>
 <td>
-<p align="center">
-<br/>D 9</p>
+<br/>
+<p align="center">D 943</p>
 </td>
 <td>
-<p align="center">
-<br/>D 6</p>
+<br/>
+<p align="center">D 817 (rocade de Pau)</p>
 </td>
 <td>
-<p align="center">
-<br/>OLORON-SAINTE-MARIE.</p>
+<br/>
+<p align="center">PAU</p>
 </td>
 <td>
-<p align="center">
-<br/>N 134</p>
+<br/>
+<p align="center">D 62</p>
 </td>
 <td>
-<p align="center">
-<br/>OLORON-SAINTE-MARIE.</p>
+<br/>
+<p align="center">MORLAAS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>64</p>
+<br/>
+<p align="center">64</p>
 </td>
 <td>
-<p align="center">
-<br/>Avenue Pierre-Mendès-France</p>
+<br/>
+<p align="center">D 940</p>
 </td>
 <td>
-<p align="center">
-<br/>D 817</p>
+<br/>
+<p align="center">D 817</p>
 </td>
 <td>
-<p align="center">
-<br/>ORTHEZ.</p>
+<br/>
+<p align="center">SOUMOULOU</p>
 </td>
 <td>
-<p align="center">
-<br/>D 9</p>
+<br/>
+<p align="center">Limite département 64/65</p>
 </td>
 <td>
-<p align="center">
-<br/>ORTHEZ.</p>
+<br/>
+<p align="center">PONTACQ</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>64</p>
+<br/>
+<p align="center">64</p>
 </td>
 <td>
-<p align="center">
-<br/>D 817</p>
+<br/>
+<p align="center">D 811</p>
 </td>
 <td>
-<p align="center">
-<br/>D 947</p>
+<br/>
+<p align="center">D 810</p>
 </td>
 <td>
-<p align="center">
-<br/>ORTHEZ.</p>
+<br/>
+<p align="center">URRUGNE</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D   912</p>
 </td>
 <td>
-<p align="center">
-<br/>PUYOO.</p>
+<br/>
+<p align="center">HENDAYE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>64</p>
+<br/>
+<p align="center">64</p>
 </td>
 <td>
-<p align="center">
-<br/>D 9</p>
+<br/>
+<p align="center">D   934A</p>
 </td>
 <td>
-<p align="center">
-<br/>D 947</p>
+<br/>
+<p align="center">N 134</p>
 </td>
 <td>
-<p align="center">
-<br/>ORTHEZ.</p>
+<br/>
+<p align="center">GAN</p>
 </td>
 <td>
-<p align="center">
-<br/>A 64</p>
+<br/>
+<p align="center">D 934</p>
 </td>
 <td>
-<p align="center">
-<br/>BIRON.</p>
+<br/>
+<p align="center">GAN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>64</p>
+<br/>
+<p align="center">65</p>
 </td>
 <td>
-<p align="center">
-<br/>D 947</p>
+<br/>
+<p align="center">D 118</p>
 </td>
 <td>
-<p align="center">
-<br/>D 817</p>
+<br/>
+<p align="center">D 929</p>
 </td>
 <td>
-<p align="center">
-<br/>ORTHEZ.</p>
+<br/>
+<p align="center">ARAGNOUET</p>
 </td>
 <td>
-<p align="center">
-<br/>D 9</p>
+<br/>
+<p align="center">D 173</p>
 </td>
 <td>
-<p align="center">
-<br/>ORTHEZ.</p>
+<br/>
+<p align="center">ARAGNOUET</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>64</p>
+<br/>
+<p align="center">65</p>
 </td>
 <td>
-<p align="center">
-<br/>Avenue de l'Europe</p>
+<br/>
+<p align="center">D 173</p>
 </td>
 <td>
-<p align="center">
-<br/>Boulevard Olof-Palm</p>
+<br/>
+<p align="center">D 118</p>
 </td>
 <td>
-<p align="center">
-<br/>PAU.</p>
+<br/>
+<p align="center">ARAGNOUET</p>
 </td>
 <td>
-<p align="center">
-<br/>D 938</p>
+<br/>
+<p align="center">Limite département   64/Espagne</p>
 </td>
 <td>
-<p align="center">
-<br/>PAU.</p>
+<br/>
+<p align="center">ARAGNOUET</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>64</p>
+<br/>
+<p align="center">65</p>
 </td>
 <td>
-<p align="center">
-<br/>Boulevard Olof-Palm</p>
+<br/>
+<p align="center">D 100</p>
 </td>
 <td>
-<p align="center">
-<br/>D 834</p>
+<br/>
+<p align="center">D 821</p>
 </td>
 <td>
-<p align="center">
-<br/>PAU.</p>
+<br/>
+<p align="center">ARGELES-GAZOST</p>
 </td>
 <td>
-<p align="center">
-<br/>Avenue de l'Europe</p>
+<br/>
+<p align="center">D 913</p>
 </td>
 <td>
-<p align="center">
-<br/>PAU.</p>
+<br/>
+<p align="center">AYROS-ARBOUIX</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>64</p>
+<br/>
+<p align="center">65</p>
 </td>
 <td>
-<p align="center">
-<br/>D 938</p>
+<br/>
+<p align="center">D 632</p>
 </td>
 <td>
-<p align="center">
-<br/>Avenue de l'europe</p>
+<br/>
+<p align="center">Limite département 65/31</p>
 </td>
 <td>
-<p align="center">
-<br/>PAU.</p>
+<br/>
+<p align="center">THERMES-MAGNOAC</p>
 </td>
 <td>
-<p align="center">
-<br/>D 100</p>
+<br/>
+<p align="center">D 6</p>
 </td>
 <td>
-<p align="center">
-<br/>BIZANOS.</p>
+<br/>
+<p align="center">TRIE-SUR-BAISE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>64</p>
+<br/>
+<p align="center">65</p>
 </td>
 <td>
-<p align="center">
-<br/>D 940</p>
+<br/>
+<p align="center">D   632</p>
 </td>
 <td>
-<p align="center">
-<br/>D 817</p>
+<br/>
+<p align="center">D 6A</p>
 </td>
 <td>
-<p align="center">
-<br/>SOUMOULOU.</p>
+<br/>
+<p align="center">TRIE-SUR-BAISE</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">N 21</p>
 </td>
 <td>
-<p align="center">
-<br/>PONTACQ.</p>
+<br/>
+<p align="center">AUREILHAN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>65</p>
+<br/>
+<p align="center">65</p>
 </td>
 <td>
-<p align="center">
-<br/>D 118</p>
+<br/>
+<p align="center">D 913</p>
 </td>
 <td>
-<p align="center">
-<br/>D 929</p>
+<br/>
+<p align="center">D 100</p>
 </td>
 <td>
-<p align="center">
-<br/>ARAGNOUET.</p>
+<br/>
+<p align="center">AYROS-ARBOUIX</p>
 </td>
 <td>
-<p align="center">
-<br/>D 173</p>
+<br/>
+<p align="center">D 921</p>
 </td>
 <td>
-<p align="center">
-<br/>ARAGNOUET.</p>
+<br/>
+<p align="center">VILLELONGUE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>65</p>
+<br/>
+<p align="center">65</p>
 </td>
 <td>
-<p align="center">
-<br/>D 173</p>
+<br/>
+<p align="center">D 515</p>
 </td>
 <td>
-<p align="center">
-<br/>D 118</p>
+<br/>
+<p align="center">N 21</p>
 </td>
 <td>
-<p align="center">
-<br/>ARAGNOUET.</p>
+<br/>
+<p align="center">LOUEY</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 516</p>
 </td>
 <td>
-<p align="center">
-<br/>ARAGNOUET.</p>
+<br/>
+<p align="center">JUILLAN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>65</p>
+<br/>
+<p align="center">65</p>
 </td>
 <td>
-<p align="center">
-<br/>D 100</p>
+<br/>
+<p align="center">D 516</p>
 </td>
 <td>
-<p align="center">
-<br/>D 821</p>
+<br/>
+<p align="center">N 21</p>
 </td>
 <td>
-<p align="center">
-<br/>ARGELES-GAZOST.</p>
+<br/>
+<p align="center">JUILLAN</p>
 </td>
 <td>
-<p align="center">
-<br/>D 913</p>
+<br/>
+<p align="center">D 515</p>
 </td>
 <td>
-<p align="center">
-<br/>AYROS-ARBOUIX.</p>
+<br/>
+<p align="center">JUILLAN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>65</p>
+<br/>
+<p align="center">65</p>
 </td>
 <td>
-<p align="center">
-<br/>D 632</p>
+<br/>
+<p align="center">D 940</p>
 </td>
 <td>
-<p align="center">
-<br/>N 21</p>
+<br/>
+<p align="center">Limite département 65/64</p>
 </td>
 <td>
-<p align="center">
-<br/>AUREILHAN.</p>
+<br/>
+<p align="center">LAMARQUE-PONTACQ</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Extrémité</p>
 </td>
 <td>
-<p align="center">
-<br/>THERMES-MAGNOAC.</p>
+<br/>
+<p align="center">POUEYFERRE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>65</p>
+<br/>
+<p align="center">65</p>
 </td>
 <td>
-<p align="center">
-<br/>D 913</p>
+<br/>
+<p align="center">D 929</p>
 </td>
 <td>
-<p align="center">
-<br/>D 100</p>
+<br/>
+<p align="center">D 817</p>
 </td>
 <td>
-<p align="center">
-<br/>AYROS-ARBOUIX.</p>
+<br/>
+<p align="center">LANNEMEZAN</p>
 </td>
 <td>
-<p align="center">
-<br/>D 13</p>
+<br/>
+<p align="center">D 118</p>
 </td>
 <td>
-<p align="center">
-<br/>VILLELONGUE.</p>
+<br/>
+<p align="center">ARAGNOUET</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>65</p>
+<br/>
+<p align="center">65</p>
 </td>
 <td>
-<p align="center">
-<br/>D 13</p>
+<br/>
+<p align="center">D 821</p>
 </td>
 <td>
-<p align="center">
-<br/>D 913</p>
+<br/>
+<p align="center">N 21</p>
 </td>
 <td>
-<p align="center">
-<br/>BEAUCENS.</p>
+<br/>
+<p align="center">LOURDES</p>
 </td>
 <td>
-<p align="center">
-<br/>D 921</p>
+<br/>
+<p align="center">D 100</p>
 </td>
 <td>
-<p align="center">
-<br/>VILLELONGUE.</p>
+<br/>
+<p align="center">ARGELES-GAZOST</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>65</p>
+<br/>
+<p align="center">65</p>
 </td>
 <td>
-<p align="center">
-<br/>D 516</p>
+<br/>
+<p align="center">D 817</p>
 </td>
 <td>
-<p align="center">
-<br/>N 21</p>
+<br/>
+<p align="center">Limite département 65/64</p>
 </td>
 <td>
-<p align="center">
-<br/>JUILLAN.</p>
+<br/>
+<p align="center">LUQUET</p>
 </td>
 <td>
-<p align="center">
-<br/>N 21</p>
+<br/>
+<p align="center">Limite département 65/64</p>
 </td>
 <td>
-<p align="center">
-<br/>LOUEY.</p>
+<br/>
+<p align="center">LUQUET</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>65</p>
+<br/>
+<p align="center">65</p>
 </td>
 <td>
-<p align="center">
-<br/>D 940</p>
+<br/>
+<p align="center">D 12A</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 921</p>
 </td>
 <td>
-<p align="center">
-<br/>LAMARQUE-PONTACQ.</p>
+<br/>
+<p align="center">LUZ-SAINT-SAUVEUR</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 921</p>
 </td>
 <td>
-<p align="center">
-<br/>LOURDES.</p>
+<br/>
+<p align="center">LUZ-SAINT-SAUVEUR</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>65</p>
+<br/>
+<p align="center">65</p>
 </td>
 <td>
-<p align="center">
-<br/>D 929</p>
+<br/>
+<p align="center">D   921</p>
 </td>
 <td>
-<p align="center">
-<br/>D 817</p>
+<br/>
+<p align="center">D   12A</p>
 </td>
 <td>
-<p align="center">
-<br/>LANNEMEZAN.</p>
+<br/>
+<p align="center">LUZ-SAINT-SAUVEUR</p>
 </td>
 <td>
-<p align="center">
-<br/>D 118</p>
+<br/>
+<p align="center">EDF Pragnères</p>
 </td>
 <td>
-<p align="center">
-<br/>ARAGNOUET.</p>
+<br/>
+<p align="center">GEDRE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>65</p>
+<br/>
+<p align="center">65</p>
 </td>
 <td>
-<p align="center">
-<br/>D 821</p>
+<br/>
+<p align="center">D 921</p>
 </td>
 <td>
-<p align="center">
-<br/>D 95</p>
+<br/>
+<p align="center">D 12A</p>
 </td>
 <td>
-<p align="center">
-<br/>LOURDES.</p>
+<br/>
+<p align="center">LUZ-SAINT-SAUVEUR</p>
 </td>
 <td>
-<p align="center">
-<br/>D 100</p>
+<br/>
+<p align="center">D 12</p>
 </td>
 <td>
-<p align="center">
-<br/>ARGELES-GAZOST.</p>
+<br/>
+<p align="center">LUZ-SAINT-SAUVEUR</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>65</p>
+<br/>
+<p align="center">65</p>
 </td>
 <td>
-<p align="center">
-<br/>D 817</p>
+<br/>
+<p align="center">D 817</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Limite département 65/31</p>
 </td>
 <td>
-<p align="center">
-<br/>LUQUET.</p>
+<br/>
+<p align="center">MAZERES-DE-NESTE</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">N 21</p>
 </td>
 <td>
-<p align="center">
-<br/>LUQUET.</p>
+<br/>
+<p align="center">SEMEAC</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>65</p>
+<br/>
+<p align="center">65</p>
 </td>
 <td>
-<p align="center">
-<br/>D 12</p>
+<br/>
+<p align="center">D 12</p>
 </td>
 <td>
-<p align="center">
-<br/>D 921</p>
+<br/>
+<p align="center">D 921</p>
 </td>
 <td>
-<p align="center">
-<br/>LUZ-SAINT-SAUVEUR.</p>
+<br/>
+<p align="center">SASSIS</p>
 </td>
 <td>
-<p align="center">
-<br/>D 921</p>
+<br/>
+<p align="center">D 921</p>
 </td>
 <td>
-<p align="center">
-<br/>LUZ-SAINT-SAUVEUR.</p>
+<br/>
+<p align="center">LUZ-SAINT-SAUVEUR</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>65</p>
+<br/>
+<p align="center">65</p>
 </td>
 <td>
-<p align="center">
-<br/>D 921</p>
+<br/>
+<p align="center">D 92E</p>
 </td>
 <td>
-<p align="center">
-<br/>D 12</p>
+<br/>
+<p align="center">D 817</p>
 </td>
 <td>
-<p align="center">
-<br/>LUZ-SAINT-SAUVEUR.</p>
+<br/>
+<p align="center">SEMEAC</p>
 </td>
 <td>
-<p align="center">
-<br/>D 921</p>
+<br/>
+<p align="center">A 64</p>
 </td>
 <td>
-<p align="center">
-<br/>PRAGNERES.</p>
+<br/>
+<p align="center">SEMEAC</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>65</p>
+<br/>
+<p align="center">65</p>
 </td>
 <td>
-<p align="center">
-<br/>D 921</p>
+<br/>
+<p align="center">D 817</p>
 </td>
 <td>
-<p align="center">
-<br/>D 12</p>
+<br/>
+<p align="center">N 21</p>
 </td>
 <td>
-<p align="center">
-<br/>LUZ-SAINT-SAUVEUR.</p>
+<br/>
+<p align="center">TARBES</p>
 </td>
 <td>
-<p align="center">
-<br/>D 12</p>
+<br/>
+<p align="center">Limite département 65/64</p>
 </td>
 <td>
-<p align="center">
-<br/>LUZ-SAINT-SAUVEUR.</p>
+<br/>
+<p align="center">IBOS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>65</p>
+<br/>
+<p align="center">65</p>
 </td>
 <td>
-<p align="center">
-<br/>D 817</p>
+<br/>
+<p align="center">D 935</p>
 </td>
 <td>
-<p align="center">
-<br/>N 117</p>
+<br/>
+<p align="center">N 21</p>
 </td>
 <td>
-<p align="center">
-<br/>MAZERES-DE-NESTE.</p>
+<br/>
+<p align="center">TARBES</p>
 </td>
 <td>
-<p align="center">
-<br/>D 21</p>
+<br/>
+<p align="center">Extrémité</p>
 </td>
 <td>
-<p align="center">
-<br/>SEMEAC.</p>
+<br/>
+<p align="center">POUZAC</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>65</p>
+<br/>
+<p align="center">65</p>
 </td>
 <td>
-<p align="center">
-<br/>D 12</p>
+<br/>
+<p align="center">D 20</p>
 </td>
 <td>
-<p align="center">
-<br/>D 921</p>
+<br/>
+<p align="center">D 817</p>
 </td>
 <td>
-<p align="center">
-<br/>SASSIS.</p>
+<br/>
+<p align="center">TOURNAY</p>
 </td>
 <td>
-<p align="center">
-<br/>D 921</p>
+<br/>
+<p align="center">A 64</p>
 </td>
 <td>
-<p align="center">
-<br/>LUZ-SAINT-SAUVEUR.</p>
+<br/>
+<p align="center">TOURNAY</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>65</p>
+<br/>
+<p align="center">65</p>
 </td>
 <td>
-<p align="center">
-<br/>D 92 E</p>
+<br/>
+<p align="center">D 921</p>
 </td>
 <td>
-<p align="center">
-<br/>D 817</p>
+<br/>
+<p align="center">D 913</p>
 </td>
 <td>
-<p align="center">
-<br/>SEMEAC.</p>
+<br/>
+<p align="center">VILLELONGUE</p>
 </td>
 <td>
-<p align="center">
-<br/>A 64</p>
+<br/>
+<p align="center">D 12</p>
 </td>
 <td>
-<p align="center">
-<br/>SEMEAC.</p>
+<br/>
+<p align="center">SASSIS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>65</p>
+<br/>
+<p align="center">65</p>
 </td>
 <td>
-<p align="center">
-<br/>D 817</p>
+<br/>
+<p align="center">D 6</p>
 </td>
 <td>
-<p align="center">
-<br/>N 21</p>
+<br/>
+<p align="center">D 6A</p>
 </td>
 <td>
-<p align="center">
-<br/>TARBES.</p>
+<br/>
+<p align="center">TRIE-SUR-BAISE</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 632</p>
 </td>
 <td>
-<p align="center">
-<br/>IBOS.</p>
+<br/>
+<p align="center">TRIE-SUR-BAISE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>65</p>
+<br/>
+<p align="center">65</p>
 </td>
 <td>
-<p align="center">
-<br/>D 935</p>
+<br/>
+<p align="center">D 6A</p>
 </td>
 <td>
-<p align="center">
-<br/>N 21</p>
+<br/>
+<p align="center">D 6</p>
 </td>
 <td>
-<p align="center">
-<br/>TARBES.</p>
+<br/>
+<p align="center">TRIE-SUR-BAISE</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 632</p>
 </td>
 <td>
-<p align="center">
-<br/>BAGNERES-DE-BIGORRE.</p>
+<br/>
+<p align="center">TRIE-SUR-BAISE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>65</p>
+<br/>
+<p align="center">65</p>
 </td>
 <td>
-<p align="center">
-<br/>D 20</p>
+<br/>
+<p align="center">D 939</p>
 </td>
 <td>
-<p align="center">
-<br/>D 817</p>
+<br/>
+<p align="center">A 64</p>
 </td>
 <td>
-<p align="center">
-<br/>TOURNAY.</p>
+<br/>
+<p align="center">LANNEMEZAN</p>
 </td>
 <td>
-<p align="center">
-<br/>A 64</p>
+<br/>
+<p align="center">D 929</p>
 </td>
 <td>
-<p align="center">
-<br/>TOURNAY.</p>
+<br/>
+<p align="center">LANNEMEZAN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>65</p>
+<br/>
+<p align="center">66</p>
 </td>
 <td>
-<p align="center">
-<br/>D 921</p>
+<br/>
+<p align="center">D 83</p>
 </td>
 <td>
-<p align="center">
-<br/>D 13</p>
+<br/>
+<p align="center">D 900</p>
 </td>
 <td>
-<p align="center">
-<br/>VILLELONGUE.</p>
+<br/>
+<p align="center">RIVESALTES</p>
 </td>
 <td>
-<p align="center">
-<br/>D 12</p>
+<br/>
+<p align="center">Limite département 66/11</p>
 </td>
 <td>
-<p align="center">
-<br/>SASSIS.</p>
+<br/>
+<p align="center">LE BARCARES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>66</p>
+<br/>
+<p align="center">66</p>
 </td>
 <td>
-<p align="center">
-<br/>D 83</p>
+<br/>
+<p align="center">D 900</p>
 </td>
 <td>
-<p align="center">
-<br/>D 12</p>
+<br/>
+<p align="center">Limite département 66/11</p>
 </td>
 <td>
-<p align="center">
-<br/>RIVESALTES.</p>
+<br/>
+<p align="center">SALSES</p>
 </td>
 <td>
-<p align="center">
-<br/>D 627</p>
+<br/>
+<p align="center">Limite département   66/Espagne</p>
 </td>
 <td>
-<p align="center">
-<br/>LE BARCARES.</p>
+<br/>
+<p align="center">LE PERTHUS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">66</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1422</p>
+<br/>
+<p align="center">D 914</p>
 </td>
 <td>
-<p align="center">
-<br/>N 2422</p>
+<br/>
+<p align="center">D 900</p>
 </td>
 <td>
-<p align="center">
-<br/>BARR.</p>
+<br/>
+<p align="center">PERPIGNAN</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1083</p>
+<br/>
+<p align="center">D 86B</p>
 </td>
 <td>
-<p align="center">
-<br/>SELESTAT.</p>
+<br/>
+<p align="center">PORT-VENDRES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1340</p>
+<br/>
+<p align="center">D 8</p>
 </td>
 <td>
-<p align="center">
-<br/>A 340</p>
+<br/>
+<p align="center">Limite département 67/57</p>
 </td>
 <td>
-<p align="center">
-<br/>BATZENDORF.</p>
+<br/>
+<p align="center">DEHLINGEN</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1063</p>
+<br/>
+<p align="center">D 919</p>
 </td>
 <td>
-<p align="center">
-<br/>HAGUENAU.</p>
+<br/>
+<p align="center">LORENTZEN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 4</p>
+<br/>
+<p align="center">D 468</p>
 </td>
 <td>
-<p align="center">
-<br/>B500</p>
+<br/>
+<p align="center">A35</p>
 </td>
 <td>
-<p align="center">
-<br/>BEINHEIM.</p>
+<br/>
+<p align="center">ILLKIRCH-GRAFFENSTADEN</p>
 </td>
 <td>
-<p align="center">
-<br/>A 35</p>
+<br/>
+<p align="center">N 353</p>
 </td>
 <td>
-<p align="center">
-<br/>FORSTFELD.</p>
+<br/>
+<p align="center">ILLKIRCH-GRAFFENSTADEN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1422</p>
+<br/>
+<p align="center">D 28</p>
 </td>
 <td>
-<p align="center">
-<br/>D 392</p>
+<br/>
+<p align="center">Accès usine</p>
 </td>
 <td>
-<p align="center">
-<br/>BLAESHEIM.</p>
+<br/>
+<p align="center">KUTZENHAUSEN</p>
 </td>
 <td>
-<p align="center">
-<br/>A 35</p>
+<br/>
+<p align="center">D 264</p>
 </td>
 <td>
-<p align="center">
-<br/>INNENHEIM.</p>
+<br/>
+<p align="center">SOULTZ-SOUS-FORETS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 263</p>
+<br/>
+<p align="center">D 1004</p>
 </td>
 <td>
-<p align="center">
-<br/>D 421</p>
+<br/>
+<p align="center">A351</p>
 </td>
 <td>
-<p align="center">
-<br/>BRUMATH.</p>
+<br/>
+<p align="center">WOLFISHEIM</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Limite département 67/57</p>
 </td>
 <td>
-<p align="center">
-<br/>STRASBOURG.</p>
+<br/>
+<p align="center">ECKARTSWILLER</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 421</p>
+<br/>
+<p align="center">D 1061</p>
 </td>
 <td>
-<p align="center">
-<br/>D 263</p>
+<br/>
+<p align="center">Limite département 67/57</p>
 </td>
 <td>
-<p align="center">
-<br/>BRUMATH.</p>
+<br/>
+<p align="center">SIEWILLER</p>
 </td>
 <td>
-<p align="center">
-<br/>D 7</p>
+<br/>
+<p align="center">Limite département 67/57</p>
 </td>
 <td>
-<p align="center">
-<br/>HOCHFELDEN.</p>
+<br/>
+<p align="center">KESKASTEL</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 424</p>
+<br/>
+<p align="center">D 1062</p>
 </td>
 <td>
-<p align="center">
-<br/>N 905901</p>
+<br/>
+<p align="center">D 1063</p>
 </td>
 <td>
-<p align="center">
-<br/>CHATENOIS.</p>
+<br/>
+<p align="center">HAGUENAU</p>
 </td>
 <td>
-<p align="center">
-<br/>D 20</p>
+<br/>
+<p align="center">Limite département 67/57</p>
 </td>
 <td>
-<p align="center">
-<br/>MARCKOLSHEIM.</p>
+<br/>
+<p align="center">NIEDERBRONN-LES-BAINS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 8</p>
+<br/>
+<p align="center">D 1083</p>
 </td>
 <td>
-<p align="center">
-<br/>D 35</p>
+<br/>
+<p align="center">Limite département 67/68</p>
 </td>
 <td>
-<p align="center">
-<br/>DEHLINGEN.</p>
+<br/>
+<p align="center">ORSCHWILLER</p>
 </td>
 <td>
-<p align="center">
-<br/>D 919</p>
+<br/>
+<p align="center">N 83</p>
 </td>
 <td>
-<p align="center">
-<br/>LORENTZEN.</p>
+<br/>
+<p align="center">GEISPOLSHEIM</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 8</p>
+<br/>
+<p align="center">D   1420</p>
 </td>
 <td>
-<p align="center">
-<br/>D 919</p>
+<br/>
+<p align="center">A352</p>
 </td>
 <td>
-<p align="center">
-<br/>DOMFESSEL.</p>
+<br/>
+<p align="center">DORLISHEIM</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue des Romains</p>
+<br/>
+<p align="center">Limite département 67/88</p>
 </td>
 <td>
-<p align="center">
-<br/>SARRE-UNION.</p>
+<br/>
+<p align="center">SAALES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 919</p>
+<br/>
+<p align="center">D 2</p>
 </td>
 <td>
-<p align="center">
-<br/>D 8</p>
+<br/>
+<p align="center">A35</p>
 </td>
 <td>
-<p align="center">
-<br/>DOMFESSEL.</p>
+<br/>
+<p align="center">HERRLISHEIM</p>
 </td>
 <td>
-<p align="center">
-<br/>D 8</p>
+<br/>
+<p align="center">Limite département   67/Allemagne</p>
 </td>
 <td>
-<p align="center">
-<br/>LORENTZEN.</p>
+<br/>
+<p align="center">GAMBSHEIM</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1420</p>
+<br/>
+<p align="center">D 3</p>
 </td>
 <td>
-<p align="center">
-<br/>A 352</p>
+<br/>
+<p align="center">D 263</p>
 </td>
 <td>
-<p align="center">
-<br/>DORLISHEIM.</p>
+<br/>
+<p align="center">WISSEMBOURG</p>
 </td>
 <td>
-<p align="center">
-<br/>D 420</p>
+<br/>
+<p align="center">Limite département   67/Allemagne</p>
 </td>
 <td>
-<p align="center">
-<br/>SAALES.</p>
+<br/>
+<p align="center">LAUTERBOURG</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 500</p>
+<br/>
+<p align="center">D 4</p>
 </td>
 <td>
-<p align="center">
-<br/>D 422</p>
+<br/>
+<p align="center">Limite département   67/Allemagne</p>
 </td>
 <td>
-<p align="center">
-<br/>DORLISHEIM.</p>
+<br/>
+<p align="center">BEINHEIM</p>
 </td>
 <td>
-<p align="center">
-<br/>D 426</p>
+<br/>
+<p align="center">A35</p>
 </td>
 <td>
-<p align="center">
-<br/>NIEDERNAI.</p>
+<br/>
+<p align="center">FORSTFELD</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 65</p>
+<br/>
+<p align="center">D 468</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Limite département   67/Allemagne</p>
 </td>
 <td>
-<p align="center">
-<br/>DRACHENBRONN-BIRLENBACH.</p>
+<br/>
+<p align="center">LAUTERBOURG</p>
 </td>
 <td>
-<p align="center">
-<br/>D 264</p>
+<br/>
+<p align="center">D 248</p>
 </td>
 <td>
-<p align="center">
-<br/>SCHOENENBOURG.</p>
+<br/>
+<p align="center">LAUTERBOURG</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 604</p>
+<br/>
+<p align="center">Boulevard de la Libération</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1004</p>
+<br/>
+<p align="center">D 263</p>
 </td>
 <td>
-<p align="center">
-<br/>ECKARTSWILLER.</p>
+<br/>
+<p align="center">HAGUENAU</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1004</p>
+<br/>
+<p align="center">D 29</p>
 </td>
 <td>
-<p align="center">
-<br/>ECKARTSWILLER.</p>
+<br/>
+<p align="center">HAGUENAU</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 445</p>
+<br/>
+<p align="center">D 1063</p>
 </td>
 <td>
-<p align="center">
-<br/>D 745</p>
+<br/>
+<p align="center">D 1340</p>
 </td>
 <td>
-<p align="center">
-<br/>ECKBOLSHEIM.</p>
+<br/>
+<p align="center">HAGUENAU</p>
 </td>
 <td>
-<p align="center">
-<br/>D 392</p>
+<br/>
+<p align="center">A35</p>
 </td>
 <td>
-<p align="center">
-<br/>LINGOLSHEIM.</p>
+<br/>
+<p align="center">ROUNTZENHEIM</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 745</p>
+<br/>
+<p align="center">D   1340</p>
 </td>
 <td>
-<p align="center">
-<br/>Route de Wasselonne</p>
+<br/>
+<p align="center">A340</p>
 </td>
 <td>
-<p align="center">
-<br/>ECKBOLSHEIM.</p>
+<br/>
+<p align="center">BATZENDORF</p>
 </td>
 <td>
-<p align="center">
-<br/>D 445</p>
+<br/>
+<p align="center">D 1063</p>
 </td>
 <td>
-<p align="center">
-<br/>ECKBOLSHEIM.</p>
+<br/>
+<p align="center">HAGUENAU</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 222</p>
+<br/>
+<p align="center">D 1404</p>
 </td>
 <td>
-<p align="center">
-<br/>A 35</p>
+<br/>
+<p align="center">A4</p>
 </td>
 <td>
-<p align="center">
-<br/>GEISPOLSHEIM.</p>
+<br/>
+<p align="center">SAINT-JEAN-SAVERNE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 392</p>
+<br/>
+<p align="center">D 1004</p>
 </td>
 <td>
-<p align="center">
-<br/>LINGOLSHEIM.</p>
+<br/>
+<p align="center">MARMOUTIER</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>Boulevard de la Libération</p>
+<br/>
+<p align="center">D 1422</p>
 </td>
 <td>
-<p align="center">
-<br/>D 263</p>
+<br/>
+<p align="center">D 426</p>
 </td>
 <td>
-<p align="center">
-<br/>HAGUENAU.</p>
+<br/>
+<p align="center">NIEDERNAI</p>
 </td>
 <td>
-<p align="center">
-<br/>D 29</p>
+<br/>
+<p align="center">D 1083</p>
 </td>
 <td>
-<p align="center">
-<br/>HAGUENAU.</p>
+<br/>
+<p align="center">SELESTAT</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1062</p>
+<br/>
+<p align="center">D 20</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1063</p>
+<br/>
+<p align="center">D   424</p>
 </td>
 <td>
-<p align="center">
-<br/>HAGUENAU.</p>
+<br/>
+<p align="center">MARCKOLSHEIM</p>
 </td>
 <td>
-<p align="center">
-<br/>D 662</p>
+<br/>
+<p align="center">Limite département 67/68</p>
 </td>
 <td>
-<p align="center">
-<br/>NIEDERBRONN-LES-BAINS.</p>
+<br/>
+<p align="center">MARCKOLSHEIM</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1063</p>
+<br/>
+<p align="center">D 221</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1340</p>
+<br/>
+<p align="center">D 400</p>
 </td>
 <td>
-<p align="center">
-<br/>HAGUENAU.</p>
+<br/>
+<p align="center">HOLTZHEIM</p>
 </td>
 <td>
-<p align="center">
-<br/>A 35</p>
+<br/>
+<p align="center">Extrémité</p>
 </td>
 <td>
-<p align="center">
-<br/>ROUNTZENHEIM.</p>
+<br/>
+<p align="center">ENTZHEIM</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 29</p>
+<br/>
+<p align="center">D 222</p>
 </td>
 <td>
-<p align="center">
-<br/>Boulevard de la Libération</p>
+<br/>
+<p align="center">N 83</p>
 </td>
 <td>
-<p align="center">
-<br/>HAGUENAU.</p>
+<br/>
+<p align="center">GEISPOLSHEIM</p>
 </td>
 <td>
-<p align="center">
-<br/>D 468</p>
+<br/>
+<p align="center">Rue des Juifs</p>
 </td>
 <td>
-<p align="center">
-<br/>HERRLISHEIM.</p>
+<br/>
+<p align="center">LINGOLSHEIM</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 2</p>
+<br/>
+<p align="center">D 226</p>
 </td>
 <td>
-<p align="center">
-<br/>A 35</p>
+<br/>
+<p align="center">D 263</p>
 </td>
 <td>
-<p align="center">
-<br/>HERRLISHEIM.</p>
+<br/>
+<p align="center">VENDENHEIM</p>
 </td>
 <td>
-<p align="center">
-<br/>L. 87</p>
+<br/>
+<p align="center">D 64</p>
 </td>
 <td>
-<p align="center">
-<br/>GAMBSHEIM.</p>
+<br/>
+<p align="center">REICHSTETT</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 100</p>
+<br/>
+<p align="center">D 248</p>
 </td>
 <td>
-<p align="center">
-<br/>D 7</p>
+<br/>
+<p align="center">D 3</p>
 </td>
 <td>
-<p align="center">
-<br/>HOCHFELDEN.</p>
+<br/>
+<p align="center">LAUTERBOURG</p>
 </td>
 <td>
-<p align="center">
-<br/>D 325</p>
+<br/>
+<p align="center">D 468</p>
 </td>
 <td>
-<p align="center">
-<br/>HOCHFELDEN.</p>
+<br/>
+<p align="center">SELTZ</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 325</p>
+<br/>
+<p align="center">D 248</p>
 </td>
 <td>
-<p align="center">
-<br/>D 100</p>
+<br/>
+<p align="center">D 468</p>
 </td>
 <td>
-<p align="center">
-<br/>HOCHFELDEN.</p>
+<br/>
+<p align="center">LAUTERBOURG</p>
 </td>
 <td>
-<p align="center">
-<br/>D 421</p>
+<br/>
+<p align="center">D 3</p>
 </td>
 <td>
-<p align="center">
-<br/>HOCHFELDEN.</p>
+<br/>
+<p align="center">LAUTERBOURG</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 421</p>
+<br/>
+<p align="center">D 263</p>
 </td>
 <td>
-<p align="center">
-<br/>D 325</p>
+<br/>
+<p align="center">D 421</p>
 </td>
 <td>
-<p align="center">
-<br/>HOCHFELDEN.</p>
+<br/>
+<p align="center">BRUMATH</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1004</p>
+<br/>
+<p align="center">Extrémité</p>
 </td>
 <td>
-<p align="center">
-<br/>SAVERNE.</p>
+<br/>
+<p align="center">STRASBOURG</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 7</p>
+<br/>
+<p align="center">D 263</p>
 </td>
 <td>
-<p align="center">
-<br/>D 100</p>
+<br/>
+<p align="center">D 3</p>
 </td>
 <td>
-<p align="center">
-<br/>HOCHFELDEN.</p>
+<br/>
+<p align="center">WISSEMBOURG</p>
 </td>
 <td>
-<p align="center">
-<br/>D 421</p>
+<br/>
+<p align="center">N63</p>
 </td>
 <td>
-<p align="center">
-<br/>HOCHFELDEN.</p>
+<br/>
+<p align="center">HAGUENAU</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 221</p>
+<br/>
+<p align="center">D 264</p>
 </td>
 <td>
-<p align="center">
-<br/>D 400</p>
+<br/>
+<p align="center">D 65</p>
 </td>
 <td>
-<p align="center">
-<br/>HOLTZHEIM.</p>
+<br/>
+<p align="center">SCHOENENBOURG</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 28</p>
 </td>
 <td>
-<p align="center">
-<br/>ENTZHEIM.</p>
+<br/>
+<p align="center">SOULTZ-SOUS-FORETS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 400</p>
+<br/>
+<p align="center">D 27</p>
 </td>
 <td>
-<p align="center">
-<br/>D 221</p>
+<br/>
+<p align="center">D 72</p>
 </td>
 <td>
-<p align="center">
-<br/>HOLTZHEIM.</p>
+<br/>
+<p align="center">WALBOURG</p>
 </td>
 <td>
-<p align="center">
-<br/>A 35</p>
+<br/>
+<p align="center">D   263</p>
 </td>
 <td>
-<p align="center">
-<br/>GEISPOLSHEIM.</p>
+<br/>
+<p align="center">HAGUENAU</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 468</p>
+<br/>
+<p align="center">D 28</p>
 </td>
 <td>
-<p align="center">
-<br/>A 35</p>
+<br/>
+<p align="center">D 328</p>
 </td>
 <td>
-<p align="center">
-<br/>ILLKIRCH-GRAFFENSTADEN.</p>
+<br/>
+<p align="center">SELTZ</p>
 </td>
 <td>
-<p align="center">
-<br/>N 363</p>
+<br/>
+<p align="center">D 468</p>
 </td>
 <td>
-<p align="center">
-<br/>ILLKIRCH-GRAFFENSTADEN.</p>
+<br/>
+<p align="center">SELTZ</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 28</p>
+<br/>
+<p align="center">D 28</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 264</p>
 </td>
 <td>
-<p align="center">
-<br/>KUTZENHAUSEN.</p>
+<br/>
+<p align="center">SOULTZ-SOUS-FORETS</p>
 </td>
 <td>
-<p align="center">
-<br/>D 264</p>
+<br/>
+<p align="center">D 263</p>
 </td>
 <td>
-<p align="center">
-<br/>SOULTZ-SOUS-FORETS.</p>
+<br/>
+<p align="center">SOULTZ-SOUS-FORETS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 248</p>
+<br/>
+<p align="center">D 29</p>
 </td>
 <td>
-<p align="center">
-<br/>D 468</p>
+<br/>
+<p align="center">Boulevard de la Libération</p>
 </td>
 <td>
-<p align="center">
-<br/>LAUTERBOURG.</p>
+<br/>
+<p align="center">HAGUENAU</p>
 </td>
 <td>
-<p align="center">
-<br/>D 3</p>
+<br/>
+<p align="center">D 468</p>
 </td>
 <td>
-<p align="center">
-<br/>LAUTERBOURG.</p>
+<br/>
+<p align="center">HERRLISHEIM</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 248</p>
+<br/>
+<p align="center">D 301</p>
 </td>
 <td>
-<p align="center">
-<br/>D 3</p>
+<br/>
+<p align="center">D 37</p>
 </td>
 <td>
-<p align="center">
-<br/>LAUTERBOURG.</p>
+<br/>
+<p align="center">VENDENHEIM</p>
 </td>
 <td>
-<p align="center">
-<br/>D 468</p>
+<br/>
+<p align="center">D 468</p>
 </td>
 <td>
-<p align="center">
-<br/>SELTZ.</p>
+<br/>
+<p align="center">LA   WANTZENAU</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 468</p>
+<br/>
+<p align="center">D 31</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 63</p>
 </td>
 <td>
-<p align="center">
-<br/>LAUTERBOURG.</p>
+<br/>
+<p align="center">MITTELHAUSBERGEN</p>
 </td>
 <td>
-<p align="center">
-<br/>D 248</p>
+<br/>
+<p align="center">Rue de Stutzheim</p>
 </td>
 <td>
-<p align="center">
-<br/>LAUTERBOURG.</p>
+<br/>
+<p align="center">STRASBOURG</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 392</p>
+<br/>
+<p align="center">D 328</p>
 </td>
 <td>
-<p align="center">
-<br/>D 445</p>
+<br/>
+<p align="center">D 28</p>
 </td>
 <td>
-<p align="center">
-<br/>LINGOLSHEIM.</p>
+<br/>
+<p align="center">SELTZ</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1422</p>
+<br/>
+<p align="center">D 468</p>
 </td>
 <td>
-<p align="center">
-<br/>BLAESHEIM.</p>
+<br/>
+<p align="center">SELTZ</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 20</p>
+<br/>
+<p align="center">D 37</p>
 </td>
 <td>
-<p align="center">
-<br/>D 424</p>
+<br/>
+<p align="center">D 301</p>
 </td>
 <td>
-<p align="center">
-<br/>MARCKOLSHEIM.</p>
+<br/>
+<p align="center">VENDENHEIM</p>
 </td>
 <td>
-<p align="center">
-<br/>D 52</p>
+<br/>
+<p align="center">D 64</p>
 </td>
 <td>
-<p align="center">
-<br/>MARCKOLSHEIM.</p>
+<br/>
+<p align="center">REICHSTETT</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 422</p>
+<br/>
+<p align="center">D 392</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1004</p>
+<br/>
+<p align="center">D 445</p>
 </td>
 <td>
-<p align="center">
-<br/>MARLENHEIM.</p>
+<br/>
+<p align="center">LINGOLSHEIM</p>
 </td>
 <td>
-<p align="center">
-<br/>D 500</p>
+<br/>
+<p align="center">D 500</p>
 </td>
 <td>
-<p align="center">
-<br/>DORLISHEIM.</p>
+<br/>
+<p align="center">DORLISHEIM</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 31</p>
+<br/>
+<p align="center">D 400</p>
 </td>
 <td>
-<p align="center">
-<br/>D 63</p>
+<br/>
+<p align="center">D 221</p>
 </td>
 <td>
-<p align="center">
-<br/>MITTELHAUSBERGEN.</p>
+<br/>
+<p align="center">HOLTZHEIM</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue Jacob</p>
+<br/>
+<p align="center">A35</p>
 </td>
 <td>
-<p align="center">
-<br/>STRASBOURG.</p>
+<br/>
+<p align="center">GEISPOLSHEIM</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 63</p>
+<br/>
+<p align="center">D 41</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue de Niederhausbergen</p>
+<br/>
+<p align="center">D 563</p>
 </td>
 <td>
-<p align="center">
-<br/>MUNDOLSHEIM.</p>
+<br/>
+<p align="center">OBERHAUSBERGEN</p>
 </td>
 <td>
-<p align="center">
-<br/>D 31</p>
+<br/>
+<p align="center">Rue de Stutzheim</p>
 </td>
 <td>
-<p align="center">
-<br/>MITTELHAUSBERGEN.</p>
+<br/>
+<p align="center">STRASBOURG</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 863</p>
+<br/>
+<p align="center">D 421</p>
 </td>
 <td>
-<p align="center">
-<br/>D 263</p>
+<br/>
+<p align="center">D 263</p>
 </td>
 <td>
-<p align="center">
-<br/>MUNDOLSHEIM.</p>
+<br/>
+<p align="center">BRUMATH</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue de Niederhausbergen</p>
+<br/>
+<p align="center">D   1004</p>
 </td>
 <td>
-<p align="center">
-<br/>MUNDOLSHEIM.</p>
+<br/>
+<p align="center">SAVERNE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue de Niederhausbergen</p>
+<br/>
+<p align="center">D 422</p>
 </td>
 <td>
-<p align="center">
-<br/>D 863</p>
+<br/>
+<p align="center">D 1004</p>
 </td>
 <td>
-<p align="center">
-<br/>MUNDOLSHEIM.</p>
+<br/>
+<p align="center">MARLENHEIM</p>
 </td>
 <td>
-<p align="center">
-<br/>D 63</p>
+<br/>
+<p align="center">D 500</p>
 </td>
 <td>
-<p align="center">
-<br/>MUNDOLSHEIM.</p>
+<br/>
+<p align="center">DORLISHEIM</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 426</p>
+<br/>
+<p align="center">D 424</p>
 </td>
 <td>
-<p align="center">
-<br/>D 500</p>
+<br/>
+<p align="center">N 59</p>
 </td>
 <td>
-<p align="center">
-<br/>NIEDERNAI.</p>
+<br/>
+<p align="center">CHATENOIS</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1083</p>
+<br/>
+<p align="center">D 20</p>
 </td>
 <td>
-<p align="center">
-<br/>ERSTEIN.</p>
+<br/>
+<p align="center">MARCKOLSHEIM</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 950010</p>
+<br/>
+<p align="center">D 426</p>
 </td>
 <td>
-<p align="center">
-<br/>D 500</p>
+<br/>
+<p align="center">D 500</p>
 </td>
 <td>
-<p align="center">
-<br/>NIEDERNAI.</p>
+<br/>
+<p align="center">NIEDERNAI</p>
 </td>
 <td>
-<p align="center">
-<br/>A 35</p>
+<br/>
+<p align="center">D 1083</p>
 </td>
 <td>
-<p align="center">
-<br/>NIEDERNAI.</p>
+<br/>
+<p align="center">ERSTEIN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 41</p>
+<br/>
+<p align="center">D 445</p>
 </td>
 <td>
-<p align="center">
-<br/>D 563</p>
+<br/>
+<p align="center">D 745</p>
 </td>
 <td>
-<p align="center">
-<br/>OBERHAUSBERGEN.</p>
+<br/>
+<p align="center">ECKBOLSHEIM</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue Jacob</p>
+<br/>
+<p align="center">D 392</p>
 </td>
 <td>
-<p align="center">
-<br/>STRASBOURG.</p>
+<br/>
+<p align="center">LINGOLSHEIM</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 563</p>
+<br/>
+<p align="center">D 463</p>
 </td>
 <td>
-<p align="center">
-<br/>D 41</p>
+<br/>
+<p align="center">D 1063</p>
 </td>
 <td>
-<p align="center">
-<br/>OBERHAUSBERGEN.</p>
+<br/>
+<p align="center">ROUNTZENHEIM</p>
 </td>
 <td>
-<p align="center">
-<br/>D 63</p>
+<br/>
+<p align="center">D 468</p>
 </td>
 <td>
-<p align="center">
-<br/>OBERHAUSBERGEN.</p>
+<br/>
+<p align="center">AUENHEIM</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 63</p>
+<br/>
+<p align="center">D 468</p>
 </td>
 <td>
-<p align="center">
-<br/>D 563</p>
+<br/>
+<p align="center">D 248</p>
 </td>
 <td>
-<p align="center">
-<br/>OBERHAUSBERGEN.</p>
+<br/>
+<p align="center">SELTZ</p>
 </td>
 <td>
-<p align="center">
-<br/>Route de Wasselonne</p>
+<br/>
+<p align="center">D 301</p>
 </td>
 <td>
-<p align="center">
-<br/>WOLFISHEIM.</p>
+<br/>
+<p align="center">LA   WANTZENAU</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1083</p>
+<br/>
+<p align="center">D 500</p>
 </td>
 <td>
-<p align="center">
-<br/>N 83</p>
+<br/>
+<p align="center">D 422</p>
 </td>
 <td>
-<p align="center">
-<br/>ORSCHWILLER.</p>
+<br/>
+<p align="center">DORLISHEIM</p>
 </td>
 <td>
-<p align="center">
-<br/>N 83</p>
+<br/>
+<p align="center">Bretelle D 500 (A903567)</p>
 </td>
 <td>
-<p align="center">
-<br/>GEISPOLSHEIM.</p>
+<br/>
+<p align="center">NIEDERNAI</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1401e</p>
+<br/>
+<p align="center">D 563</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1004</p>
+<br/>
+<p align="center">D 41</p>
 </td>
 <td>
-<p align="center">
-<br/>OTTERSWILLER.</p>
+<br/>
+<p align="center">OBERHAUSBERGEN</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1004</p>
+<br/>
+<p align="center">D 63</p>
 </td>
 <td>
-<p align="center">
-<br/>MARMOUTIER.</p>
+<br/>
+<p align="center">OBERHAUSBERGEN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 64</p>
+<br/>
+<p align="center">D 63</p>
 </td>
 <td>
-<p align="center">
-<br/>D 37</p>
+<br/>
+<p align="center">Rue de   Niederhausbergen</p>
 </td>
 <td>
-<p align="center">
-<br/>REICHSTETT.</p>
+<br/>
+<p align="center">MUNDOLSHEIM</p>
 </td>
 <td>
-<p align="center">
-<br/>D 226</p>
+<br/>
+<p align="center">D 31</p>
 </td>
 <td>
-<p align="center">
-<br/>REICHSTETT.</p>
+<br/>
+<p align="center">MITTELHAUSBERGEN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 463</p>
+<br/>
+<p align="center">D 63</p>
 </td>
 <td>
-<p align="center">
-<br/>N 63</p>
+<br/>
+<p align="center">D 563</p>
 </td>
 <td>
-<p align="center">
-<br/>ROUNTZENHEIM.</p>
+<br/>
+<p align="center">OBERHAUSBERGEN</p>
 </td>
 <td>
-<p align="center">
-<br/>D 468</p>
+<br/>
+<p align="center">Route de Wasselonne</p>
 </td>
 <td>
-<p align="center">
-<br/>AUENHEIM.</p>
+<br/>
+<p align="center">WOLFISHEIM</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1404</p>
+<br/>
+<p align="center">D 64</p>
 </td>
 <td>
-<p align="center">
-<br/>A 4</p>
+<br/>
+<p align="center">D 37</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-JEAN-SAVERNE.</p>
+<br/>
+<p align="center">REICHSTETT</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1004</p>
+<br/>
+<p align="center">D 226</p>
 </td>
 <td>
-<p align="center">
-<br/>MARMOUTIER.</p>
+<br/>
+<p align="center">REICHSTETT</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 92</p>
+<br/>
+<p align="center">D 65</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue des Bleuets</p>
+<br/>
+<p align="center">Extrémité</p>
 </td>
 <td>
-<p align="center">
-<br/>SARRE-UNION.</p>
+<br/>
+<p align="center">DRACHENBRONN-BIRLENBACH</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue des Romains</p>
+<br/>
+<p align="center">D 264</p>
 </td>
 <td>
-<p align="center">
-<br/>SARRE-UNION.</p>
+<br/>
+<p align="center">SCHOENENBOURG</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue des Bleuets</p>
+<br/>
+<p align="center">D 72</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue Walter-Schmitt</p>
+<br/>
+<p align="center">D 27</p>
 </td>
 <td>
-<p align="center">
-<br/>SARRE-UNION.</p>
+<br/>
+<p align="center">WALBOURG</p>
 </td>
 <td>
-<p align="center">
-<br/>D 92</p>
+<br/>
+<p align="center">D 1062</p>
 </td>
 <td>
-<p align="center">
-<br/>SARRE-UNION.</p>
+<br/>
+<p align="center">MERTZWILLER</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue Walter-Schmitt</p>
+<br/>
+<p align="center">D 745</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue des Bleuets</p>
+<br/>
+<p align="center">Route de Wasselonne</p>
 </td>
 <td>
-<p align="center">
-<br/>SARRE-UNION.</p>
+<br/>
+<p align="center">ECKBOLSHEIM</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1061</p>
+<br/>
+<p align="center">D 445</p>
 </td>
 <td>
-<p align="center">
-<br/>SARRE-UNION.</p>
+<br/>
+<p align="center">ECKBOLSHEIM</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue des Romains</p>
+<br/>
+<p align="center">D 8</p>
 </td>
 <td>
-<p align="center">
-<br/>D 92</p>
+<br/>
+<p align="center">D 919</p>
 </td>
 <td>
-<p align="center">
-<br/>SARRE-UNION.</p>
+<br/>
+<p align="center">DOMFESSEL</p>
 </td>
 <td>
-<p align="center">
-<br/>D 8</p>
+<br/>
+<p align="center">Rue des Romains</p>
 </td>
 <td>
-<p align="center">
-<br/>SARRE-UNION.</p>
+<br/>
+<p align="center">SARRE-UNION</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 264</p>
+<br/>
+<p align="center">D 85</p>
 </td>
 <td>
-<p align="center">
-<br/>D 65</p>
+<br/>
+<p align="center">D 1340</p>
 </td>
 <td>
-<p align="center">
-<br/>SCHOENENBOURG.</p>
+<br/>
+<p align="center">HAGUENAU</p>
 </td>
 <td>
-<p align="center">
-<br/>D 28</p>
+<br/>
+<p align="center">D 1063</p>
 </td>
 <td>
-<p align="center">
-<br/>SOULTZ-SOUS-FORETS.</p>
+<br/>
+<p align="center">HAGUENAU</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 28</p>
+<br/>
+<p align="center">D 863</p>
 </td>
 <td>
-<p align="center">
-<br/>D 328</p>
+<br/>
+<p align="center">D 263</p>
 </td>
 <td>
-<p align="center">
-<br/>SELTZ.</p>
+<br/>
+<p align="center">MUNDOLSHEIM</p>
 </td>
 <td>
-<p align="center">
-<br/>A 35</p>
+<br/>
+<p align="center">Route de Strasbourg</p>
 </td>
 <td>
-<p align="center">
-<br/>SELTZ.</p>
+<br/>
+<p align="center">MUNDOLSHEIM</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 328</p>
+<br/>
+<p align="center">D 919</p>
 </td>
 <td>
-<p align="center">
-<br/>D 28</p>
+<br/>
+<p align="center">D 8</p>
 </td>
 <td>
-<p align="center">
-<br/>SELTZ.</p>
+<br/>
+<p align="center">DOMFESSEL</p>
 </td>
 <td>
-<p align="center">
-<br/>D 468</p>
+<br/>
+<p align="center">D 8</p>
 </td>
 <td>
-<p align="center">
-<br/>SELTZ.</p>
+<br/>
+<p align="center">LORENTZEN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 468</p>
+<br/>
+<p align="center">N 4</p>
 </td>
 <td>
-<p align="center">
-<br/>D 248</p>
+<br/>
+<p align="center">A35</p>
 </td>
 <td>
-<p align="center">
-<br/>SELTZ.</p>
+<br/>
+<p align="center">STRASBOURG</p>
 </td>
 <td>
-<p align="center">
-<br/>D 301</p>
+<br/>
+<p align="center">RC Route du Rhin</p>
 </td>
 <td>
-<p align="center">
-<br/>LA WANTZENAU.</p>
+<br/>
+<p align="center">STRASBOURG</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1061</p>
+<br/>
+<p align="center">N 4</p>
 </td>
 <td>
-<p align="center">
-<br/>D 661</p>
+<br/>
+<p align="center">D 1004</p>
 </td>
 <td>
-<p align="center">
-<br/>SIEWILLER.</p>
+<br/>
+<p align="center">ITTENHEIM</p>
 </td>
 <td>
-<p align="center">
-<br/>D 661</p>
+<br/>
+<p align="center">A351</p>
 </td>
 <td>
-<p align="center">
-<br/>KESKASTEL.</p>
+<br/>
+<p align="center">WOLFISHEIM</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 661</p>
+<br/>
+<p align="center">RC Route du Rhin</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1061</p>
+<br/>
+<p align="center">N 4</p>
 </td>
 <td>
-<p align="center">
-<br/>SIEWILLER.</p>
+<br/>
+<p align="center">STRASBOURG</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1061</p>
+<br/>
+<p align="center">Limite département   67/Allemagne</p>
 </td>
 <td>
-<p align="center">
-<br/>SIEWILLER.</p>
+<br/>
+<p align="center">STRASBOURG</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 28</p>
+<br/>
+<p align="center">Route de Lyon</p>
 </td>
 <td>
-<p align="center">
-<br/>D 264</p>
+<br/>
+<p align="center">RN 83</p>
 </td>
 <td>
-<p align="center">
-<br/>SOULTZ-SOUS-FORETS.</p>
+<br/>
+<p align="center">GEISPOLSHEIM</p>
 </td>
 <td>
-<p align="center">
-<br/>D 263</p>
+<br/>
+<p align="center">D   222/Route du Fort Uhrich</p>
 </td>
 <td>
-<p align="center">
-<br/>SOULTZ-SOUS-FORETS.</p>
+<br/>
+<p align="center">GEISPOLSHEIM</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 41</p>
+<br/>
+<p align="center">Route de Wasselonne</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 63</p>
 </td>
 <td>
-<p align="center">
-<br/>STRASBOURG.</p>
+<br/>
+<p align="center">WOLFISHEIM</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 745</p>
 </td>
 <td>
-<p align="center">
-<br/>STRASBOURG.</p>
+<br/>
+<p align="center">ECKBOLSHEIM</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>Route du Rhin</p>
+<br/>
+<p align="center">Rue de La Rochelle</p>
 </td>
 <td>
-<p align="center">
-<br/>N 4</p>
+<br/>
+<p align="center">Rue du Havre</p>
 </td>
 <td>
-<p align="center">
-<br/>STRASBOURG.</p>
+<br/>
+<p align="center">STRASBOURG</p>
 </td>
 <td>
-<p align="center">
-<br/>N 363</p>
+<br/>
+<p align="center">Rue de la Schafhardt</p>
 </td>
 <td>
-<p align="center">
-<br/>STRASBOURG.</p>
+<br/>
+<p align="center">STRASBOURG</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue Jacob</p>
+<br/>
+<p align="center">Rue de la Schafhardt</p>
 </td>
 <td>
-<p align="center">
-<br/>D 31</p>
+<br/>
+<p align="center">Rue de La Rochelle</p>
 </td>
 <td>
-<p align="center">
-<br/>STRASBOURG.</p>
+<br/>
+<p align="center">STRASBOURG</p>
 </td>
 <td>
-<p align="center">
-<br/>D 41</p>
+<br/>
+<p align="center">RN 353</p>
 </td>
 <td>
-<p align="center">
-<br/>STRASBOURG.</p>
+<br/>
+<p align="center">STRASBOURG</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>N 4</p>
+<br/>
+<p align="center">Rue de   Niederhausbergen</p>
 </td>
 <td>
-<p align="center">
-<br/>N 4</p>
+<br/>
+<p align="center">Rue Neuve</p>
 </td>
 <td>
-<p align="center">
-<br/>STRASBOURG.</p>
+<br/>
+<p align="center">MUNDOLSHEIM</p>
 </td>
 <td>
-<p align="center">
-<br/>N 4</p>
+<br/>
+<p align="center">D 63</p>
 </td>
 <td>
-<p align="center">
-<br/>STRASBOURG.</p>
+<br/>
+<p align="center">MUNDOLSHEIM</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 226</p>
+<br/>
+<p align="center">Rue de Rimsdorf</p>
 </td>
 <td>
-<p align="center">
-<br/>D 263</p>
+<br/>
+<p align="center">Rue des Bleuets</p>
 </td>
 <td>
-<p align="center">
-<br/>VENDENHEIM.</p>
+<br/>
+<p align="center">SARRE-UNION</p>
 </td>
 <td>
-<p align="center">
-<br/>D 64</p>
+<br/>
+<p align="center">Rue des Romains</p>
 </td>
 <td>
-<p align="center">
-<br/>REICHSTETT.</p>
+<br/>
+<p align="center">SARRE-UNION</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 301</p>
+<br/>
+<p align="center">Rue de Strasbourg</p>
 </td>
 <td>
-<p align="center">
-<br/>D 37</p>
+<br/>
+<p align="center">Carrefour   RD 863</p>
 </td>
 <td>
-<p align="center">
-<br/>VENDENHEIM.</p>
+<br/>
+<p align="center">MUNDOLSHEIM</p>
 </td>
 <td>
-<p align="center">
-<br/>D 468</p>
+<br/>
+<p align="center">Rue Neuve</p>
 </td>
 <td>
-<p align="center">
-<br/>LA WANTZENAU.</p>
+<br/>
+<p align="center">MUNDOLSHEIM</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 37</p>
+<br/>
+<p align="center">Rue de Saintutzheim </p>
 </td>
 <td>
-<p align="center">
-<br/>D 301</p>
+<br/>
+<p align="center">Carrefour D 31</p>
 </td>
 <td>
-<p align="center">
-<br/>VENDENHEIM.</p>
+<br/>
+<p align="center">STRASBOURG</p>
 </td>
 <td>
-<p align="center">
-<br/>D 64</p>
+<br/>
+<p align="center">Carrefour D 41</p>
 </td>
 <td>
-<p align="center">
-<br/>REICHSTETT.</p>
+<br/>
+<p align="center">STRASBOURG</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 27</p>
+<br/>
+<p align="center">Rue des Bleuets</p>
 </td>
 <td>
-<p align="center">
-<br/>D 72</p>
+<br/>
+<p align="center">Rue   Walter Schmitt</p>
 </td>
 <td>
-<p align="center">
-<br/>WALBOURG.</p>
+<br/>
+<p align="center">SARRE-UNION</p>
 </td>
 <td>
-<p align="center">
-<br/>D 263</p>
+<br/>
+<p align="center">D 92</p>
 </td>
 <td>
-<p align="center">
-<br/>HAGUENAU.</p>
+<br/>
+<p align="center">SARRE-UNION</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 72</p>
+<br/>
+<p align="center">Rue des Juifs</p>
 </td>
 <td>
-<p align="center">
-<br/>D 27</p>
+<br/>
+<p align="center">Carrefour RD 222</p>
 </td>
 <td>
-<p align="center">
-<br/>WALBOURG.</p>
+<br/>
+<p align="center">LINGOLSHEIM</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1062</p>
+<br/>
+<p align="center">Carrefour RD 392</p>
 </td>
 <td>
-<p align="center">
-<br/>MERTZWILLER.</p>
+<br/>
+<p align="center">LINGOLSHEIM</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 263</p>
+<br/>
+<p align="center">Rue des Romains</p>
 </td>
 <td>
-<p align="center">
-<br/>D 3</p>
+<br/>
+<p align="center">D 92</p>
 </td>
 <td>
-<p align="center">
-<br/>WISSEMBOURG.</p>
+<br/>
+<p align="center">SARRE-UNION</p>
 </td>
 <td>
-<p align="center">
-<br/>N 63</p>
+<br/>
+<p align="center">D 8</p>
 </td>
 <td>
-<p align="center">
-<br/>HAGUENAU.</p>
+<br/>
+<p align="center">SARRE-UNION</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 3</p>
+<br/>
+<p align="center">Rue du Havre</p>
 </td>
 <td>
-<p align="center">
-<br/>D 263</p>
+<br/>
+<p align="center">Route du Rhin (N 4)</p>
 </td>
 <td>
-<p align="center">
-<br/>WISSEMBOURG.</p>
+<br/>
+<p align="center">STRASBOURG</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Rue de La Rochelle</p>
 </td>
 <td>
-<p align="center">
-<br/>LAUTERBOURG.</p>
+<br/>
+<p align="center">STRASBOURG</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1004</p>
+<br/>
+<p align="center">Rue Neuve</p>
 </td>
 <td>
-<p align="center">
-<br/>A 351</p>
+<br/>
+<p align="center">Rue de Strasbourg</p>
 </td>
 <td>
-<p align="center">
-<br/>WOLFISHEIM.</p>
+<br/>
+<p align="center">MUNDOLSHEIM</p>
 </td>
 <td>
-<p align="center">
-<br/>D 604</p>
+<br/>
+<p align="center">Rue de   Niederhausbergen</p>
 </td>
 <td>
-<p align="center">
-<br/>ECKARTSWILLER.</p>
+<br/>
+<p align="center">MUNDOLSHEIM</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>67</p>
+<br/>
+<p align="center">67</p>
 </td>
 <td>
-<p align="center">
-<br/>Route de Wasselonne</p>
+<br/>
+<p align="center">Rue   Walter Schmitt</p>
 </td>
 <td>
-<p align="center">
-<br/>D 63</p>
+<br/>
+<p align="center">Rue des Bleuets</p>
 </td>
 <td>
-<p align="center">
-<br/>WOLFISHEIM.</p>
+<br/>
+<p align="center">SARRE-UNION</p>
 </td>
 <td>
-<p align="center">
-<br/>D 745</p>
+<br/>
+<p align="center">D   1061</p>
 </td>
 <td>
-<p align="center">
-<br/>ECKBOLSHEIM.</p>
+<br/>
+<p align="center">SARRE-UNION</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>68</p>
+<br/>
+<p align="center">68</p>
 </td>
 <td>
-<p align="center">
-<br/>D 20</p>
+<br/>
+<p align="center">D 38</p>
 </td>
 <td>
-<p align="center">
-<br/>D 52</p>
+<br/>
+<p align="center">D 201</p>
 </td>
 <td>
-<p align="center">
-<br/>ARTZENHEIM.</p>
+<br/>
+<p align="center">SAUSHEIM</p>
 </td>
 <td>
-<p align="center">
-<br/>D 52</p>
+<br/>
+<p align="center">D 66</p>
 </td>
 <td>
-<p align="center">
-<br/>ARTZENHEIM.</p>
+<br/>
+<p align="center">PFASTATT</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>68</p>
+<br/>
+<p align="center">68</p>
 </td>
 <td>
-<p align="center">
-<br/>D 52</p>
+<br/>
+<p align="center">D 415</p>
 </td>
 <td>
-<p align="center">
-<br/>D 20</p>
+<br/>
+<p align="center">Limite département 68/88</p>
 </td>
 <td>
-<p align="center">
-<br/>ARTZENHEIM.</p>
+<br/>
+<p align="center">LE BONHOMME</p>
 </td>
 <td>
-<p align="center">
-<br/>D 468</p>
+<br/>
+<p align="center">D 83</p>
 </td>
 <td>
-<p align="center">
-<br/>KEMBS.</p>
+<br/>
+<p align="center">INGERSHEIM</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>68</p>
+<br/>
+<p align="center">68</p>
 </td>
 <td>
-<p align="center">
-<br/>D 201</p>
+<br/>
+<p align="center">D 415</p>
 </td>
 <td>
-<p align="center">
-<br/>D 55</p>
+<br/>
+<p align="center">D 13</p>
 </td>
 <td>
-<p align="center">
-<br/>BALDERSHEIM.</p>
+<br/>
+<p align="center">COLMAR</p>
 </td>
 <td>
-<p align="center">
-<br/>D 38</p>
+<br/>
+<p align="center">Limite département   68/Allemagne</p>
 </td>
 <td>
-<p align="center">
-<br/>SAUSHEIM.</p>
+<br/>
+<p align="center">VOGELGRUN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>68</p>
+<br/>
+<p align="center">68</p>
 </td>
 <td>
-<p align="center">
-<br/>D 55</p>
+<br/>
+<p align="center">D 483</p>
 </td>
 <td>
-<p align="center">
-<br/>D 201</p>
+<br/>
+<p align="center">D 83</p>
 </td>
 <td>
-<p align="center">
-<br/>BALDERSHEIM.</p>
+<br/>
+<p align="center">BURNHAUPT LE HAUT</p>
 </td>
 <td>
-<p align="center">
-<br/>D 108</p>
+<br/>
+<p align="center">Limite département 68/90</p>
 </td>
 <td>
-<p align="center">
-<br/>OTTMARSHEIM.</p>
+<br/>
+<p align="center">ETEIMBES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>68</p>
+<br/>
+<p align="center">68</p>
 </td>
 <td>
-<p align="center">
-<br/>D 66</p>
+<br/>
+<p align="center">D 52</p>
 </td>
 <td>
-<p align="center">
-<br/>D 468</p>
+<br/>
+<p align="center">Limite département 68/67</p>
 </td>
 <td>
-<p align="center">
-<br/>BARTENHEIM.</p>
+<br/>
+<p align="center">ARTZENHEIM</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 468</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-LOUIS.</p>
+<br/>
+<p align="center">KEMBS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>68</p>
+<br/>
+<p align="center">68</p>
 </td>
 <td>
-<p align="center">
-<br/>Avenue Joseph-Rey</p>
+<br/>
+<p align="center">D 66</p>
 </td>
 <td>
-<p align="center">
-<br/>D 4.2</p>
+<br/>
+<p align="center">D 468</p>
 </td>
 <td>
-<p align="center">
-<br/>COLMAR.</p>
+<br/>
+<p align="center">BARTENHEIM</p>
 </td>
 <td>
-<p align="center">
-<br/>N 83</p>
+<br/>
+<p align="center">Limite département 68/Suisse</p>
 </td>
 <td>
-<p align="center">
-<br/>COLMAR.</p>
+<br/>
+<p align="center">SAINT-LOUIS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>68</p>
+<br/>
+<p align="center">68</p>
 </td>
 <td>
-<p align="center">
-<br/>D 13</p>
+<br/>
+<p align="center">D 83</p>
 </td>
 <td>
-<p align="center">
-<br/>D 201</p>
+<br/>
+<p align="center">N 83</p>
 </td>
 <td>
-<p align="center">
-<br/>COLMAR.</p>
+<br/>
+<p align="center">BERGHEIM</p>
 </td>
 <td>
-<p align="center">
-<br/>N 415</p>
+<br/>
+<p align="center">Limite département 68/67</p>
 </td>
 <td>
-<p align="center">
-<br/>COLMAR.</p>
+<br/>
+<p align="center">SAINT-HIPPOLYTE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>68</p>
+<br/>
+<p align="center">68</p>
 </td>
 <td>
-<p align="center">
-<br/>D 201</p>
+<br/>
+<p align="center">Avenue   Joseph Rey</p>
 </td>
 <td>
-<p align="center">
-<br/>D 4.2</p>
+<br/>
+<p align="center">A35</p>
 </td>
 <td>
-<p align="center">
-<br/>COLMAR.</p>
+<br/>
+<p align="center">COLMAR</p>
 </td>
 <td>
-<p align="center">
-<br/>D 13</p>
+<br/>
+<p align="center">D 83</p>
 </td>
 <td>
-<p align="center">
-<br/>COLMAR.</p>
+<br/>
+<p align="center">COLMAR</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>68</p>
+<br/>
+<p align="center">68</p>
 </td>
 <td>
-<p align="center">
-<br/>D 4.2</p>
+<br/>
+<p align="center">D   108</p>
 </td>
 <td>
-<p align="center">
-<br/>Avenue Joseph-Rey</p>
+<br/>
+<p align="center">D 52</p>
 </td>
 <td>
-<p align="center">
-<br/>COLMAR.</p>
+<br/>
+<p align="center">OTTMARSHEIM</p>
 </td>
 <td>
-<p align="center">
-<br/>D 201</p>
+<br/>
+<p align="center">D 55</p>
 </td>
 <td>
-<p align="center">
-<br/>COLMAR.</p>
+<br/>
+<p align="center">OTTMARSHEIM</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>68</p>
+<br/>
+<p align="center">68</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1 B</p>
+<br/>
+<p align="center">D 13</p>
 </td>
 <td>
-<p align="center">
-<br/>N 83</p>
+<br/>
+<p align="center">D   201</p>
 </td>
 <td>
-<p align="center">
-<br/>HERRLISHEIM-PRES-COLMAR.</p>
+<br/>
+<p align="center">COLMAR</p>
 </td>
 <td>
-<p align="center">
-<br/>A 35</p>
+<br/>
+<p align="center">D   415</p>
 </td>
 <td>
-<p align="center">
-<br/>NIEDERHERGHEIM.</p>
+<br/>
+<p align="center">COLMAR</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>68</p>
+<br/>
+<p align="center">68</p>
 </td>
 <td>
-<p align="center">
-<br/>D 468</p>
+<br/>
+<p align="center">D 1B</p>
 </td>
 <td>
-<p align="center">
-<br/>D 52</p>
+<br/>
+<p align="center">D 83</p>
 </td>
 <td>
-<p align="center">
-<br/>KEMBS.</p>
+<br/>
+<p align="center">HERRLISHEIM-PRES-COLMAR</p>
 </td>
 <td>
-<p align="center">
-<br/>D 66</p>
+<br/>
+<p align="center">A35</p>
 </td>
 <td>
-<p align="center">
-<br/>BARTENHEIM.</p>
+<br/>
+<p align="center">NIEDERHERGHEIM</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>68</p>
+<br/>
+<p align="center">68</p>
 </td>
 <td>
-<p align="center">
-<br/>D 20</p>
+<br/>
+<p align="center">D 2</p>
 </td>
 <td>
-<p align="center">
-<br/>N 66</p>
+<br/>
+<p align="center">D 50</p>
 </td>
 <td>
-<p align="center">
-<br/>LUTTERBACH.</p>
+<br/>
+<p align="center">REGUISHEIM</p>
 </td>
 <td>
-<p align="center">
-<br/>D 66</p>
+<br/>
+<p align="center">D 83</p>
 </td>
 <td>
-<p align="center">
-<br/>LUTTERBACH.</p>
+<br/>
+<p align="center">CERNAY</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>68</p>
+<br/>
+<p align="center">68</p>
 </td>
 <td>
-<p align="center">
-<br/>D 66</p>
+<br/>
+<p align="center">D 20</p>
 </td>
 <td>
-<p align="center">
-<br/>N 66</p>
+<br/>
+<p align="center">N66</p>
 </td>
 <td>
-<p align="center">
-<br/>LUTTERBACH.</p>
+<br/>
+<p align="center">LUTTERBACH</p>
 </td>
 <td>
-<p align="center">
-<br/>D 20</p>
+<br/>
+<p align="center">D 66</p>
 </td>
 <td>
-<p align="center">
-<br/>LUTTERBACH.</p>
+<br/>
+<p align="center">LUTTERBACH</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>68</p>
+<br/>
+<p align="center">68</p>
 </td>
 <td>
-<p align="center">
-<br/>VC </p>
+<br/>
+<p align="center">D 201</p>
 </td>
 <td>
-<p align="center">
-<br/>D 3B</p>
+<br/>
+<p align="center">D   4.2</p>
 </td>
 <td>
-<p align="center">
-<br/>MEYENHEIM.</p>
+<br/>
+<p align="center">COLMAR</p>
 </td>
 <td>
-<p align="center">
-<br/>D 47</p>
+<br/>
+<p align="center">D 13</p>
 </td>
 <td>
-<p align="center">
-<br/>REGUISHEIM.</p>
+<br/>
+<p align="center">COLMAR</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>68</p>
+<br/>
+<p align="center">68</p>
 </td>
 <td>
-<p align="center">
-<br/>D 38</p>
+<br/>
+<p align="center">D   201</p>
 </td>
 <td>
-<p align="center">
-<br/>D 429</p>
+<br/>
+<p align="center">D 55</p>
 </td>
 <td>
-<p align="center">
-<br/>MULHOUSE.</p>
+<br/>
+<p align="center">BALDERSHEIM</p>
 </td>
 <td>
-<p align="center">
-<br/>D 66</p>
+<br/>
+<p align="center">D 38</p>
 </td>
 <td>
-<p align="center">
-<br/>PFASTATT.</p>
+<br/>
+<p align="center">SAUSHEIM</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>68</p>
+<br/>
+<p align="center">68</p>
 </td>
 <td>
-<p align="center">
-<br/>D 108</p>
+<br/>
+<p align="center">D 4.2</p>
 </td>
 <td>
-<p align="center">
-<br/>D 52</p>
+<br/>
+<p align="center">Avenue   Joseph Rey</p>
 </td>
 <td>
-<p align="center">
-<br/>OTTMARSHEIM.</p>
+<br/>
+<p align="center">COLMAR</p>
 </td>
 <td>
-<p align="center">
-<br/>D 55</p>
+<br/>
+<p align="center">D 201</p>
 </td>
 <td>
-<p align="center">
-<br/>OTTMARSHEIM.</p>
+<br/>
+<p align="center">COLMAR</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>68</p>
+<br/>
+<p align="center">68</p>
 </td>
 <td>
-<p align="center">
-<br/>D 66</p>
+<br/>
+<p align="center">D 430</p>
 </td>
 <td>
-<p align="center">
-<br/>D 38</p>
+<br/>
+<p align="center">D 83</p>
 </td>
 <td>
-<p align="center">
-<br/>PFASTATT.</p>
+<br/>
+<p align="center">SOULTZ-HAUT-RHIN</p>
 </td>
 <td>
-<p align="center">
-<br/>D 20</p>
+<br/>
+<p align="center">A36</p>
 </td>
 <td>
-<p align="center">
-<br/>LUTTERBACH.</p>
+<br/>
+<p align="center">MULHOUSE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>68</p>
+<br/>
+<p align="center">68</p>
 </td>
 <td>
-<p align="center">
-<br/>D 2</p>
+<br/>
+<p align="center">D 468</p>
 </td>
 <td>
-<p align="center">
-<br/>D 47</p>
+<br/>
+<p align="center">D 52</p>
 </td>
 <td>
-<p align="center">
-<br/>REGUISHEIM.</p>
+<br/>
+<p align="center">KEMBS</p>
 </td>
 <td>
-<p align="center">
-<br/>N 83</p>
+<br/>
+<p align="center">D 66</p>
 </td>
 <td>
-<p align="center">
-<br/>CERNAY.</p>
+<br/>
+<p align="center">BARTENHEIM</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>68</p>
+<br/>
+<p align="center">68</p>
 </td>
 <td>
-<p align="center">
-<br/>D 38</p>
+<br/>
+<p align="center">D 50</p>
 </td>
 <td>
-<p align="center">
-<br/>D 201</p>
+<br/>
+<p align="center">D 3B</p>
 </td>
 <td>
-<p align="center">
-<br/>SAUSHEIM.</p>
+<br/>
+<p align="center">MEYENHEIM</p>
 </td>
 <td>
-<p align="center">
-<br/>D 429</p>
+<br/>
+<p align="center">D 2</p>
 </td>
 <td>
-<p align="center">
-<br/>MULHOUSE.</p>
+<br/>
+<p align="center">REGUISHEIM</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>68</p>
+<br/>
+<p align="center">68</p>
 </td>
 <td>
-<p align="center">
-<br/>D 430</p>
+<br/>
+<p align="center">D 55</p>
 </td>
 <td>
-<p align="center">
-<br/>N 83</p>
+<br/>
+<p align="center">D 201</p>
 </td>
 <td>
-<p align="center">
-<br/>SOULTZ-HAUT-RHIN.</p>
+<br/>
+<p align="center">BALDERSHEIM</p>
 </td>
 <td>
-<p align="center">
-<br/>A 36</p>
+<br/>
+<p align="center">D 108</p>
 </td>
 <td>
-<p align="center">
-<br/>MULHOUSE.</p>
+<br/>
+<p align="center">OTTMARSHEIM</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">68</p>
 </td>
 <td>
-<p align="center">
-<br/>D 30</p>
+<br/>
+<p align="center">D 66</p>
 </td>
 <td>
-<p align="center">
-<br/>N 6</p>
+<br/>
+<p align="center">D 38</p>
 </td>
 <td>
-<p align="center">
-<br/>ANSE.</p>
+<br/>
+<p align="center">PFASTATT</p>
 </td>
 <td>
-<p align="center">
-<br/>D 485</p>
+<br/>
+<p align="center">D 20</p>
 </td>
 <td>
-<p align="center">
-<br/>LOZANNE.</p>
+<br/>
+<p align="center">LUTTERBACH</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">68</p>
 </td>
 <td>
-<p align="center">
-<br/>D 51</p>
+<br/>
+<p align="center">D 66</p>
 </td>
 <td>
-<p align="center">
-<br/>N 6</p>
+<br/>
+<p align="center">N66</p>
 </td>
 <td>
-<p align="center">
-<br/>ANSE.</p>
+<br/>
+<p align="center">LUTTERBACH</p>
 </td>
 <td>
-<p align="center">
-<br/>D 51 E.1</p>
+<br/>
+<p align="center">D 20</p>
 </td>
 <td>
-<p align="center">
-<br/>COLLONGES-AU-MONT-D'OR.</p>
+<br/>
+<p align="center">LUTTERBACH</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">68</p>
 </td>
 <td>
-<p align="center">
-<br/>Boulevard Roger-Salengro</p>
+<br/>
+<p align="center">D 83</p>
 </td>
 <td>
-<p align="center">
-<br/>N 6</p>
+<br/>
+<p align="center">N 83</p>
 </td>
 <td>
-<p align="center">
-<br/>ARNAS.</p>
+<br/>
+<p align="center">COLMAR</p>
 </td>
 <td>
-<p align="center">
-<br/>D 43</p>
+<br/>
+<p align="center">A36</p>
 </td>
 <td>
-<p align="center">
-<br/>VILLEFRANCHE-SUR-SAONE.</p>
+<br/>
+<p align="center">BURNHAUPT LE BAS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 102</p>
+<br/>
+<p align="center">D 30</p>
 </td>
 <td>
-<p align="center">
-<br/>D 41</p>
+<br/>
+<p align="center">D 306</p>
 </td>
 <td>
-<p align="center">
-<br/>BRON.</p>
+<br/>
+<p align="center">ANSE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 518</p>
+<br/>
+<p align="center">D 485</p>
 </td>
 <td>
-<p align="center">
-<br/>VENISSIEUX.</p>
+<br/>
+<p align="center">LOZANNE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 306</p>
+<br/>
+<p align="center">D 51</p>
 </td>
 <td>
-<p align="center">
-<br/>D 112</p>
+<br/>
+<p align="center">D 306</p>
 </td>
 <td>
-<p align="center">
-<br/>BRON.</p>
+<br/>
+<p align="center">ANSE</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 51E.1</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-LAURENT-DE-MURE.</p>
+<br/>
+<p align="center">COLLONGES-AU-MONT-D'OR</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 41</p>
+<br/>
+<p align="center">Boulevard Roger Salengro</p>
 </td>
 <td>
-<p align="center">
-<br/>D 102</p>
+<br/>
+<p align="center">D 306</p>
 </td>
 <td>
-<p align="center">
-<br/>BRON.</p>
+<br/>
+<p align="center">ARNAS</p>
 </td>
 <td>
-<p align="center">
-<br/>D 112</p>
+<br/>
+<p align="center">D 43</p>
 </td>
 <td>
-<p align="center">
-<br/>BRON.</p>
+<br/>
+<p align="center">VILLEFRANCHE-SUR-SAONE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 506</p>
+<br/>
+<p align="center">D 102</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 41</p>
 </td>
 <td>
-<p align="center">
-<br/>BRON.</p>
+<br/>
+<p align="center">BRON</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 518</p>
 </td>
 <td>
-<p align="center">
-<br/>BRON.</p>
+<br/>
+<p align="center">VENISSIEUX</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1 E.1</p>
+<br/>
+<p align="center">D 306</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 112</p>
 </td>
 <td>
-<p align="center">
-<br/>CALUIRE-ET-CUIRE.</p>
+<br/>
+<p align="center">BRON</p>
 </td>
 <td>
-<p align="center">
-<br/>D 48</p>
+<br/>
+<p align="center">Limite département 69/38</p>
 </td>
 <td>
-<p align="center">
-<br/>CALUIRE-ET-CUIRE.</p>
+<br/>
+<p align="center">SAINT-LAURENT-DE-MURE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 48</p>
+<br/>
+<p align="center">D 41</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1 E.1</p>
+<br/>
+<p align="center">D 102</p>
 </td>
 <td>
-<p align="center">
-<br/>CALUIRE-ET-CUIRE.</p>
+<br/>
+<p align="center">BRON</p>
 </td>
 <td>
-<p align="center">
-<br/>N 83</p>
+<br/>
+<p align="center">D 112</p>
 </td>
 <td>
-<p align="center">
-<br/>CALUIRE-ET-CUIRE.</p>
+<br/>
+<p align="center">BRON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>N 83</p>
+<br/>
+<p align="center">D 506</p>
 </td>
 <td>
-<p align="center">
-<br/>D 483</p>
+<br/>
+<p align="center">Extrémité</p>
 </td>
 <td>
-<p align="center">
-<br/>CALUIRE-ET-CUIRE.</p>
+<br/>
+<p align="center">BRON</p>
 </td>
 <td>
-<p align="center">
-<br/>Boulevard Laurent-Bonnevay</p>
+<br/>
+<p align="center">Extrémité</p>
 </td>
 <td>
-<p align="center">
-<br/>VILLEURBANNE.</p>
+<br/>
+<p align="center">BRON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1</p>
+<br/>
+<p align="center">D 1E.1</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1 E.1</p>
+<br/>
+<p align="center">Extrémité</p>
 </td>
 <td>
-<p align="center">
-<br/>CALUIRE-ET-CUIRE.</p>
+<br/>
+<p align="center">CALUIRE-ET-CUIRE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1 E.1</p>
+<br/>
+<p align="center">D 48</p>
 </td>
 <td>
-<p align="center">
-<br/>CALUIRE-ET-CUIRE.</p>
+<br/>
+<p align="center">CALUIRE-ET-CUIRE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 306</p>
+<br/>
+<p align="center">D 48</p>
 </td>
 <td>
-<p align="center">
-<br/>N 6</p>
+<br/>
+<p align="center">D 1E.1</p>
 </td>
 <td>
-<p align="center">
-<br/>CHAMPAGNE-AU-MONT-D'OR.</p>
+<br/>
+<p align="center">CALUIRE-ET-CUIRE</p>
 </td>
 <td>
-<p align="center">
-<br/>N 6</p>
+<br/>
+<p align="center">D 483</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">CALUIRE-ET-CUIRE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 16</p>
+<br/>
+<p align="center">Pont Raymond Poincaré</p>
 </td>
 <td>
-<p align="center">
-<br/>D 87 E</p>
+<br/>
+<p align="center">D 483</p>
 </td>
 <td>
-<p align="center">
-<br/>CHASSELAY.</p>
+<br/>
+<p align="center">CALUIRE-ET-CUIRE</p>
 </td>
 <td>
-<p align="center">
-<br/>N 6</p>
+<br/>
+<p align="center">Boulevard Laurent Bonnevay</p>
 </td>
 <td>
-<p align="center">
-<br/>LISSIEU.</p>
+<br/>
+<p align="center">VILLEURBANNE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 596</p>
+<br/>
+<p align="center">D 1</p>
 </td>
 <td>
-<p align="center">
-<br/>D 70</p>
+<br/>
+<p align="center">D 1E.1</p>
 </td>
 <td>
-<p align="center">
-<br/>CHATILLON.</p>
+<br/>
+<p align="center">CALUIRE-ET-CUIRE</p>
 </td>
 <td>
-<p align="center">
-<br/>N 7</p>
+<br/>
+<p align="center">D 1E.1</p>
 </td>
 <td>
-<p align="center">
-<br/>FLEURIEUX-SUR-L'ARBRESLE.</p>
+<br/>
+<p align="center">CALUIRE-ET-CUIRE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 307</p>
+<br/>
+<p align="center">D 16</p>
 </td>
 <td>
-<p align="center">
-<br/>A 46</p>
+<br/>
+<p align="center">D 87E</p>
 </td>
 <td>
-<p align="center">
-<br/>COMMUNAY.</p>
+<br/>
+<p align="center">CHASSELAY</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 306</p>
 </td>
 <td>
-<p align="center">
-<br/>COMMUNAY.</p>
+<br/>
+<p align="center">LISSIEU</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1086</p>
+<br/>
+<p align="center">D 596</p>
 </td>
 <td>
-<p align="center">
-<br/>N86</p>
+<br/>
+<p align="center">D 70</p>
 </td>
 <td>
-<p align="center">
-<br/>CONDRIEU.</p>
+<br/>
+<p align="center">CHATILLON</p>
 </td>
 <td>
-<p align="center">
-<br/>N 86</p>
+<br/>
+<p align="center">N 7</p>
 </td>
 <td>
-<p align="center">
-<br/>CONDRIEU.</p>
+<br/>
+<p align="center">FLEURIEUX-SUR-L'ARBRESLE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 307</p>
+<br/>
+<p align="center">D   307</p>
 </td>
 <td>
-<p align="center">
-<br/>N 489</p>
+<br/>
+<p align="center">N   489</p>
 </td>
 <td>
-<p align="center">
-<br/>DARDILLY.</p>
+<br/>
+<p align="center">DARDILLY</p>
 </td>
 <td>
-<p align="center">
-<br/>D 77 E.2</p>
+<br/>
+<p align="center">Rond-Point de   Lattre-de-Tassigny</p>
 </td>
 <td>
-<p align="center">
-<br/>DARDILLY.</p>
+<br/>
+<p align="center">TASSIN-LA-DEMI-LUNE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 307</p>
+<br/>
+<p align="center">D 342</p>
 </td>
 <td>
-<p align="center">
-<br/>N 7</p>
+<br/>
+<p align="center">D 307</p>
 </td>
 <td>
-<p align="center">
-<br/>DARDILLY.</p>
+<br/>
+<p align="center">TASSIN-LA-DEMI-LUNE</p>
 </td>
 <td>
-<p align="center">
-<br/>N 7</p>
+<br/>
+<p align="center">Echangeur   de Valvert</p>
 </td>
 <td>
-<p align="center">
-<br/>TASSIN-LA-DEMI-LUNE.</p>
+<br/>
+<p align="center">ECULLY</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 342</p>
+<br/>
+<p align="center">D 42E</p>
 </td>
 <td>
-<p align="center">
-<br/>D 42 E</p>
+<br/>
+<p align="center">Extrémité</p>
 </td>
 <td>
-<p align="center">
-<br/>ECULLY.</p>
+<br/>
+<p align="center">ECULLY</p>
 </td>
 <td>
-<p align="center">
-<br/>D 42</p>
+<br/>
+<p align="center">Extrémité</p>
 </td>
 <td>
-<p align="center">
-<br/>ECULLY.</p>
+<br/>
+<p align="center">ECULLY</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 42 E</p>
+<br/>
+<p align="center">D 1</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 48</p>
 </td>
 <td>
-<p align="center">
-<br/>ECULLY.</p>
+<br/>
+<p align="center">FONTAINES-SUR-SAONE</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 1E.1</p>
 </td>
 <td>
-<p align="center">
-<br/>ECULLY.</p>
+<br/>
+<p align="center">CALUIRE-ET-CUIRE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 342</p>
+<br/>
+<p align="center">D 48</p>
 </td>
 <td>
-<p align="center">
-<br/>D 42 E</p>
+<br/>
+<p align="center">D 433</p>
 </td>
 <td>
-<p align="center">
-<br/>ECULLY.</p>
+<br/>
+<p align="center">FONTAINES-SUR-SAONE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 307</p>
+<br/>
+<p align="center">D 1</p>
 </td>
 <td>
-<p align="center">
-<br/>TASSIN-LA-DEMI-LUNE.</p>
+<br/>
+<p align="center">FONTAINES-SUR-SAONE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1</p>
+<br/>
+<p align="center">D 51E.1</p>
 </td>
 <td>
-<p align="center">
-<br/>D 48</p>
+<br/>
+<p align="center">D 433</p>
 </td>
 <td>
-<p align="center">
-<br/>FONTAINES-SUR-SAONE.</p>
+<br/>
+<p align="center">FONTAINES-SUR-SAONE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1 E.1</p>
+<br/>
+<p align="center">D 51</p>
 </td>
 <td>
-<p align="center">
-<br/>CALUIRE-ET-CUIRE.</p>
+<br/>
+<p align="center">COLLONGES-AU-MONT-D'OR</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 48</p>
+<br/>
+<p align="center">D 433</p>
 </td>
 <td>
-<p align="center">
-<br/>D 433</p>
+<br/>
+<p align="center">D 933</p>
 </td>
 <td>
-<p align="center">
-<br/>FONTAINES-SUR-SAONE.</p>
+<br/>
+<p align="center">GENAY</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1</p>
+<br/>
+<p align="center">D 48</p>
 </td>
 <td>
-<p align="center">
-<br/>FONTAINES-SUR-SAONE.</p>
+<br/>
+<p align="center">FONTAINES-SUR-SAONE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 51 E.1</p>
+<br/>
+<p align="center">D 2</p>
 </td>
 <td>
-<p align="center">
-<br/>D 433</p>
+<br/>
+<p align="center">D   386</p>
 </td>
 <td>
-<p align="center">
-<br/>FONTAINES-SUR-SAONE.</p>
+<br/>
+<p align="center">GIVORS</p>
 </td>
 <td>
-<p align="center">
-<br/>D 51</p>
+<br/>
+<p align="center">D   488</p>
 </td>
 <td>
-<p align="center">
-<br/>COLLONGES-AU-MONT-D'OR.</p>
+<br/>
+<p align="center">GIVORS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 99</p>
+<br/>
+<p align="center">D   488</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 386</p>
 </td>
 <td>
-<p align="center">
-<br/>FRANCHEVILLE.</p>
+<br/>
+<p align="center">GIVORS</p>
 </td>
 <td>
-<p align="center">
-<br/>D 489</p>
+<br/>
+<p align="center">Limite département 69/42</p>
 </td>
 <td>
-<p align="center">
-<br/>TASSIN-LA-DEMI-LUNE.</p>
+<br/>
+<p align="center">SAINT-JEAN-DE-TOUSLAS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 433</p>
+<br/>
+<p align="center">Rue Honoré Petetin</p>
 </td>
 <td>
-<p align="center">
-<br/>D 933</p>
+<br/>
+<p align="center">D 488</p>
 </td>
 <td>
-<p align="center">
-<br/>GENAY.</p>
+<br/>
+<p align="center">GIVORS</p>
 </td>
 <td>
-<p align="center">
-<br/>D 48</p>
+<br/>
+<p align="center">D   315</p>
 </td>
 <td>
-<p align="center">
-<br/>FONTAINES-SUR-SAONE.</p>
+<br/>
+<p align="center">GIVORS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 2</p>
+<br/>
+<p align="center">D 486</p>
 </td>
 <td>
-<p align="center">
-<br/>N 86</p>
+<br/>
+<p align="center">Extrémité</p>
 </td>
 <td>
-<p align="center">
-<br/>GIVORS.</p>
+<br/>
+<p align="center">LA MULATIERE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 59</p>
+<br/>
+<p align="center">D 50</p>
 </td>
 <td>
-<p align="center">
-<br/>GIVORS.</p>
+<br/>
+<p align="center">OULLINS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 488</p>
+<br/>
+<p align="center">Rue de Lyon-Route de Paris</p>
 </td>
 <td>
-<p align="center">
-<br/>N 86</p>
+<br/>
+<p align="center">D 30</p>
 </td>
 <td>
-<p align="center">
-<br/>GIVORS.</p>
+<br/>
+<p align="center">LA TOUR-DE-SALVAGNY</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">N 7</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-JEAN-DE-TOUSLAS.</p>
+<br/>
+<p align="center">DARDILLY</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 59</p>
+<br/>
+<p align="center">D   306</p>
 </td>
 <td>
-<p align="center">
-<br/>D 2</p>
+<br/>
+<p align="center">Limite département 69/71</p>
 </td>
 <td>
-<p align="center">
-<br/>GIVORS.</p>
+<br/>
+<p align="center">LANCIE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 2</p>
+<br/>
+<p align="center">Rue Mouillard</p>
 </td>
 <td>
-<p align="center">
-<br/>GIVORS.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue Honoré-Petetin</p>
+<br/>
+<p align="center">D 13</p>
 </td>
 <td>
-<p align="center">
-<br/>D 488</p>
+<br/>
+<p align="center">D   485</p>
 </td>
 <td>
-<p align="center">
-<br/>GIVORS.</p>
+<br/>
+<p align="center">LEGNY</p>
 </td>
 <td>
-<p align="center">
-<br/>D 315</p>
+<br/>
+<p align="center">D 38</p>
 </td>
 <td>
-<p align="center">
-<br/>GIVORS.</p>
+<br/>
+<p align="center">LEGNY</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 486</p>
+<br/>
+<p align="center">D   338</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 13</p>
 </td>
 <td>
-<p align="center">
-<br/>LA MULATIERE.</p>
+<br/>
+<p align="center">LEGNY</p>
 </td>
 <td>
-<p align="center">
-<br/>D 50</p>
+<br/>
+<p align="center">D 38</p>
 </td>
 <td>
-<p align="center">
-<br/>OULLINS.</p>
+<br/>
+<p align="center">LES   OLMES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue de Lyon-Route de Paris</p>
+<br/>
+<p align="center">D   338</p>
 </td>
 <td>
-<p align="center">
-<br/>D 30</p>
+<br/>
+<p align="center">D   485</p>
 </td>
 <td>
-<p align="center">
-<br/>LA TOUR-DE-SALVAGNY.</p>
+<br/>
+<p align="center">LEGNY</p>
 </td>
 <td>
-<p align="center">
-<br/>N 7</p>
+<br/>
+<p align="center">D 31</p>
 </td>
 <td>
-<p align="center">
-<br/>DARDILLY.</p>
+<br/>
+<p align="center">GLEIZE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 306</p>
+<br/>
+<p align="center">D   385</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D   120</p>
 </td>
 <td>
-<p align="center">
-<br/>LANCIE.</p>
+<br/>
+<p align="center">LEGNY</p>
 </td>
 <td>
-<p align="center">
-<br/>N 489</p>
+<br/>
+<p align="center">D 485</p>
 </td>
 <td>
-<p align="center">
-<br/>DARDILLY.</p>
+<br/>
+<p align="center">LEGNY</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 13</p>
+<br/>
+<p align="center">D 338</p>
 </td>
 <td>
-<p align="center">
-<br/>D 485</p>
+<br/>
+<p align="center">Extrémité</p>
 </td>
 <td>
-<p align="center">
-<br/>LEGNY.</p>
+<br/>
+<p align="center">LES OLMES</p>
 </td>
 <td>
-<p align="center">
-<br/>D 38</p>
+<br/>
+<p align="center">N 7</p>
 </td>
 <td>
-<p align="center">
-<br/>LEGNY.</p>
+<br/>
+<p align="center">PONTCHARRA-SUR-TURDINE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 338</p>
+<br/>
+<p align="center">D 42</p>
 </td>
 <td>
-<p align="center">
-<br/>D 13</p>
+<br/>
+<p align="center">D 73</p>
 </td>
 <td>
-<p align="center">
-<br/>LEGNY.</p>
+<br/>
+<p align="center">LIMONEST</p>
 </td>
 <td>
-<p align="center">
-<br/>D 38</p>
+<br/>
+<p align="center">D 306</p>
 </td>
 <td>
-<p align="center">
-<br/>LES OLMES.</p>
+<br/>
+<p align="center">LIMONEST</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 338</p>
+<br/>
+<p align="center">D 73</p>
 </td>
 <td>
-<p align="center">
-<br/>D 485</p>
+<br/>
+<p align="center">D 92</p>
 </td>
 <td>
-<p align="center">
-<br/>LEGNY.</p>
+<br/>
+<p align="center">LIMONEST</p>
 </td>
 <td>
-<p align="center">
-<br/>D 31</p>
+<br/>
+<p align="center">D 42</p>
 </td>
 <td>
-<p align="center">
-<br/>GLEIZE.</p>
+<br/>
+<p align="center">LIMONEST</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 385</p>
+<br/>
+<p align="center">D 30</p>
 </td>
 <td>
-<p align="center">
-<br/>D 120</p>
+<br/>
+<p align="center">D 485</p>
 </td>
 <td>
-<p align="center">
-<br/>LEGNY.</p>
+<br/>
+<p align="center">LOZANNE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 485</p>
+<br/>
+<p align="center">Extrémité</p>
 </td>
 <td>
-<p align="center">
-<br/>LEGNY.</p>
+<br/>
+<p align="center">LA TOUR-DE-SALVAGNY</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 38</p>
+<br/>
+<p align="center">D 70</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 385</p>
 </td>
 <td>
-<p align="center">
-<br/>LES OLMES.</p>
+<br/>
+<p align="center">LOZANNE</p>
 </td>
 <td>
-<p align="center">
-<br/>N 7</p>
+<br/>
+<p align="center">D 596</p>
 </td>
 <td>
-<p align="center">
-<br/>PONTCHARRA-SUR-TURDINE.</p>
+<br/>
+<p align="center">CHATILLON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 306</p>
+<br/>
+<p align="center">Pont Bonaparte</p>
 </td>
 <td>
-<p align="center">
-<br/>N 6</p>
+<br/>
+<p align="center">Rue du Colonel Chambonnet</p>
 </td>
 <td>
-<p align="center">
-<br/>LIMONEST.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 <td>
-<p align="center">
-<br/>N 6</p>
+<br/>
+<p align="center">D   406</p>
 </td>
 <td>
-<p align="center">
-<br/>CHAMPAGNE-AU-MONT-D'OR.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 42</p>
+<br/>
+<p align="center">Pont   Kitchener Marchand</p>
 </td>
 <td>
-<p align="center">
-<br/>D 73</p>
+<br/>
+<p align="center">D 406</p>
 </td>
 <td>
-<p align="center">
-<br/>LIMONEST.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 <td>
-<p align="center">
-<br/>D 306</p>
+<br/>
+<p align="center">Quai du Maréchal Joffre</p>
 </td>
 <td>
-<p align="center">
-<br/>LIMONEST.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 73</p>
+<br/>
+<p align="center">Quai du Maréchal Joffre</p>
 </td>
 <td>
-<p align="center">
-<br/>D 92</p>
+<br/>
+<p align="center">Pont Kitchener Marchand</p>
 </td>
 <td>
-<p align="center">
-<br/>LIMONEST.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 <td>
-<p align="center">
-<br/>D 42</p>
+<br/>
+<p align="center">Quai Tilsitt</p>
 </td>
 <td>
-<p align="center">
-<br/>LIMONEST.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 30</p>
+<br/>
+<p align="center">Quai des Célestins</p>
 </td>
 <td>
-<p align="center">
-<br/>D 485</p>
+<br/>
+<p align="center">Quai Tilsitt</p>
 </td>
 <td>
-<p align="center">
-<br/>LOZANNE.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Quai Saint Antoine</p>
 </td>
 <td>
-<p align="center">
-<br/>LA TOUR-DE-SALVAGNY.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 70</p>
+<br/>
+<p align="center">Quai Saint Antoine</p>
 </td>
 <td>
-<p align="center">
-<br/>D 385</p>
+<br/>
+<p align="center">Quai des Célestins</p>
 </td>
 <td>
-<p align="center">
-<br/>LOZANNE.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 <td>
-<p align="center">
-<br/>D 596</p>
+<br/>
+<p align="center">Quai de la Pêcherie</p>
 </td>
 <td>
-<p align="center">
-<br/>CHATILLON.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>Pont Bonaparte</p>
+<br/>
+<p align="center">Quai Tilsitt</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue du Colonel-Chambonnet</p>
+<br/>
+<p align="center">Quai du Maréchal Joffre</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 <td>
-<p align="center">
-<br/>D 406</p>
+<br/>
+<p align="center">Quai des Célestins</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>Pont Kitchener-Marchand</p>
+<br/>
+<p align="center">Chemin de Serin</p>
 </td>
 <td>
-<p align="center">
-<br/>D 406</p>
+<br/>
+<p align="center">Quai Joseph Gillet</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 <td>
-<p align="center">
-<br/>Quai du Maréchal-Joffre</p>
+<br/>
+<p align="center">Tunnel de la Croix-Rousse</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>Quai du Maréchal-Joffre</p>
+<br/>
+<p align="center">Rue de la Barre</p>
 </td>
 <td>
-<p align="center">
-<br/>Pont Kitchener-Marchand</p>
+<br/>
+<p align="center">Pont de la Guillotière</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 <td>
-<p align="center">
-<br/>Quai Tilsitt</p>
+<br/>
+<p align="center">Quai des Célestins</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>Quai des Célestins</p>
+<br/>
+<p align="center">Rue du Colonel Chambonnet</p>
 </td>
 <td>
-<p align="center">
-<br/>Quai Tilsitt</p>
+<br/>
+<p align="center">Place Bellecour</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 <td>
-<p align="center">
-<br/>Quai Saint-Antoine</p>
+<br/>
+<p align="center">Pont Bonaparte</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>Quai Saint-Antoine</p>
+<br/>
+<p align="center">D 51</p>
 </td>
 <td>
-<p align="center">
-<br/>Quai des Célestins</p>
+<br/>
+<p align="center">D 406</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 <td>
-<p align="center">
-<br/>Quai de la Pêcherie</p>
+<br/>
+<p align="center">D 21</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>Quai Tilsitt</p>
+<br/>
+<p align="center">Rue Mouillard</p>
 </td>
 <td>
-<p align="center">
-<br/>Quai du Maréchal-Joffre</p>
+<br/>
+<p align="center">D 21</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 <td>
-<p align="center">
-<br/>Quai des Célestins</p>
+<br/>
+<p align="center">D 306</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>Chemin de Serin</p>
+<br/>
+<p align="center">D 21</p>
 </td>
 <td>
-<p align="center">
-<br/>Quai Joseph-Gillet</p>
+<br/>
+<p align="center">D 51</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 <td>
-<p align="center">
-<br/>N 6</p>
+<br/>
+<p align="center">Rue Mouillard</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue de la Barre</p>
+<br/>
+<p align="center">Cours Gambetta</p>
 </td>
 <td>
-<p align="center">
-<br/>Pont de la Guillotière</p>
+<br/>
+<p align="center">Quai Claude Bernard</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 <td>
-<p align="center">
-<br/>Quai des Célestins</p>
+<br/>
+<p align="center">Cours Albert Thomas</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue du Colonel-Chambonnet</p>
+<br/>
+<p align="center">Quai de la Pêcherie</p>
 </td>
 <td>
-<p align="center">
-<br/>Place Bellecour</p>
+<br/>
+<p align="center">Quai Saint Antoine</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 <td>
-<p align="center">
-<br/>Pont Bonaparte</p>
+<br/>
+<p align="center">Quai Saint Vincent</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>N 6</p>
+<br/>
+<p align="center">Quai Joseph Gillet</p>
 </td>
 <td>
-<p align="center">
-<br/>A 7</p>
+<br/>
+<p align="center">Quai Saint Vincent</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 <td>
-<p align="center">
-<br/>D 306</p>
+<br/>
+<p align="center">Chemin de Serin</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 51</p>
+<br/>
+<p align="center">Quai Saint Vincent</p>
 </td>
 <td>
-<p align="center">
-<br/>N 6</p>
+<br/>
+<p align="center">Quai de la Pêcherie</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 <td>
-<p align="center">
-<br/>D 21</p>
+<br/>
+<p align="center">Quai Joseph Gillet</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue Mouillard</p>
+<br/>
+<p align="center">D 75</p>
 </td>
 <td>
-<p align="center">
-<br/>D 21</p>
+<br/>
+<p align="center">D 307</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 <td>
-<p align="center">
-<br/>D 306</p>
+<br/>
+<p align="center">D 342</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">FRANCHEVILLE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 21</p>
+<br/>
+<p align="center">Pont de la Guillotière</p>
 </td>
 <td>
-<p align="center">
-<br/>D 51</p>
+<br/>
+<p align="center">Cours Gambetta</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue Mouillard</p>
+<br/>
+<p align="center">Rue de la Barre</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>Cours Gambetta</p>
+<br/>
+<p align="center">D 12</p>
 </td>
 <td>
-<p align="center">
-<br/>Quai Claude-Bernard</p>
+<br/>
+<p align="center">A 7</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 <td>
-<p align="center">
-<br/>Cours Albert-Thomas</p>
+<br/>
+<p align="center">D 383</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">SAINT-FONS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>Quai de la Pêcherie</p>
+<br/>
+<p align="center">Quai Claude Bernard</p>
 </td>
 <td>
-<p align="center">
-<br/>Quai Saint-Antoine</p>
+<br/>
+<p align="center">Avenue   Berthelot</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 <td>
-<p align="center">
-<br/>Quai Saint-Vincent</p>
+<br/>
+<p align="center">Cours Gambetta</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>Quai Joseph-Gillet</p>
+<br/>
+<p align="center">Rue de l'Université</p>
 </td>
 <td>
-<p align="center">
-<br/>Quai Saint-Vincent</p>
+<br/>
+<p align="center">Rue Marcel Bloch</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 <td>
-<p align="center">
-<br/>Chemin de Serin</p>
+<br/>
+<p align="center">Quai Claude Bernard</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>Quai Saint-Vincent</p>
+<br/>
+<p align="center">Rue Marcel Bloch</p>
 </td>
 <td>
-<p align="center">
-<br/>Quai de la Pêcherie</p>
+<br/>
+<p align="center">Rue Garibadi</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 <td>
-<p align="center">
-<br/>Quai Joseph-Gillet</p>
+<br/>
+<p align="center">Rue de l'Université</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 75</p>
+<br/>
+<p align="center">Route de Vienne</p>
 </td>
 <td>
-<p align="center">
-<br/>D 307</p>
+<br/>
+<p align="center">D 307</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">VENISSIEUX</p>
 </td>
 <td>
-<p align="center">
-<br/>D 342</p>
+<br/>
+<p align="center">Rue Garibaldi</p>
 </td>
 <td>
-<p align="center">
-<br/>FRANCHEVILLE.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>Pont de la Guillotière</p>
+<br/>
+<p align="center">D   518</p>
 </td>
 <td>
-<p align="center">
-<br/>Cours Gambetta</p>
+<br/>
+<p align="center">Avenue   Berthelot</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue de la Barre</p>
+<br/>
+<p align="center">Rue Pierre Verger</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 12</p>
+<br/>
+<p align="center">Avenue Rockfeller</p>
 </td>
 <td>
-<p align="center">
-<br/>A 7</p>
+<br/>
+<p align="center">Cours Albert Thomas</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 <td>
-<p align="center">
-<br/>D 383</p>
+<br/>
+<p align="center">Boulevard Ambroise Paré</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-FONS.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>Quai Claude-Bernard</p>
+<br/>
+<p align="center">Boulevard Ambroise Paré</p>
 </td>
 <td>
-<p align="center">
-<br/>N 7</p>
+<br/>
+<p align="center">Avenue Rockfeller</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 <td>
-<p align="center">
-<br/>Cours Gambetta</p>
+<br/>
+<p align="center">D 41</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue de l'Université</p>
+<br/>
+<p align="center">Boulevard Michelet</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue M.-Bloch</p>
+<br/>
+<p align="center">D 41</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 <td>
-<p align="center">
-<br/>Quai Claude-Bernard</p>
+<br/>
+<p align="center">D 518</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue M.-Bloch</p>
+<br/>
+<p align="center">Cours Albert Thomas</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue Garibadi</p>
+<br/>
+<p align="center">Cours Gambetta</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue de l'Université</p>
+<br/>
+<p align="center">Avenue Rockfeller</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>N 7</p>
+<br/>
+<p align="center">D 406</p>
 </td>
 <td>
-<p align="center">
-<br/>Quai Claude-Bernard</p>
+<br/>
+<p align="center">D 51</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 <td>
-<p align="center">
-<br/>Avenue Georges-Levy</p>
+<br/>
+<p align="center">D 407</p>
 </td>
 <td>
-<p align="center">
-<br/>VENISSIEUX.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>Route de Vienne</p>
+<br/>
+<p align="center">D 149</p>
 </td>
 <td>
-<p align="center">
-<br/>N 7</p>
+<br/>
+<p align="center">D 151</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">MIONS</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue Garibaldi</p>
+<br/>
+<p align="center">D 518</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">SAINT-PIERRE-DE-CHANDIEU</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 518</p>
+<br/>
+<p align="center">D 301</p>
 </td>
 <td>
-<p align="center">
-<br/>N 7</p>
+<br/>
+<p align="center">A46</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">MIONS</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue Pierre-Verger</p>
+<br/>
+<p align="center">D 312</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">FEYZIN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>Avenue Rockefeller</p>
+<br/>
+<p align="center">D 16</p>
 </td>
 <td>
-<p align="center">
-<br/>Cours Albert-Thomas</p>
+<br/>
+<p align="center">D 433</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">NEUVILLE-SUR-SAONE</p>
 </td>
 <td>
-<p align="center">
-<br/>Boulevard Ambroise-Paré</p>
+<br/>
+<p align="center">D 51</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">ALBIGNY-SUR-SAONE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>Boulevard Ambroise-Paré</p>
+<br/>
+<p align="center">D 15</p>
 </td>
 <td>
-<p align="center">
-<br/>Avenue Rockefeller</p>
+<br/>
+<p align="center">D 50</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">PIERRE-BENITE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 41</p>
+<br/>
+<p align="center">Extrémité</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">PIERRE-BENITE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>Boulevard Michelet</p>
+<br/>
+<p align="center">D 315</p>
 </td>
 <td>
-<p align="center">
-<br/>D 41</p>
+<br/>
+<p align="center">D 15</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">PIERRE-BENITE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 518</p>
+<br/>
+<p align="center">D 386</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">GIVORS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>Cours Albert-Thomas</p>
+<br/>
+<p align="center">D 385</p>
 </td>
 <td>
-<p align="center">
-<br/>Cours Gambetta</p>
+<br/>
+<p align="center">Extrémité</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">PROPIERES</p>
 </td>
 <td>
-<p align="center">
-<br/>Avenue Rockefeller</p>
+<br/>
+<p align="center">Limite département 69/42</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">PROPIERES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 51</p>
+<br/>
+<p align="center">D 385</p>
 </td>
 <td>
-<p align="center">
-<br/>N 6</p>
+<br/>
+<p align="center">Extrémité</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">PROPIERES</p>
 </td>
 <td>
-<p align="center">
-<br/>D 406</p>
+<br/>
+<p align="center">D 485</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">DOMMARTIN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 406</p>
+<br/>
+<p align="center">D 87E</p>
 </td>
 <td>
-<p align="center">
-<br/>D 51</p>
+<br/>
+<p align="center">D 51</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">QUINCIEUX</p>
 </td>
 <td>
-<p align="center">
-<br/>D 407</p>
+<br/>
+<p align="center">D 16</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">CHASSELAY</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 149</p>
+<br/>
+<p align="center">D 483</p>
 </td>
 <td>
-<p align="center">
-<br/>D 151</p>
+<br/>
+<p align="center">Limite département 69/01</p>
 </td>
 <td>
-<p align="center">
-<br/>MIONS.</p>
+<br/>
+<p align="center">RILLIEUX-LA-PAPE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 518</p>
+<br/>
+<p align="center">Pont Raymond Poincaré</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-PIERRE-DE-CHANDIEU.</p>
+<br/>
+<p align="center">CALUIRE-ET-CUIRE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 301</p>
+<br/>
+<p align="center">D 484</p>
 </td>
 <td>
-<p align="center">
-<br/>A 46</p>
+<br/>
+<p align="center">D 483</p>
 </td>
 <td>
-<p align="center">
-<br/>MIONS.</p>
+<br/>
+<p align="center">RILLIEUX-LA-PAPE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 312</p>
+<br/>
+<p align="center">Limite département 69/01</p>
 </td>
 <td>
-<p align="center">
-<br/>FEYZIN.</p>
+<br/>
+<p align="center">RILLIEUX-LA-PAPE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 16</p>
+<br/>
+<p align="center">D 342</p>
 </td>
 <td>
-<p align="center">
-<br/>D 433</p>
+<br/>
+<p align="center">D 2</p>
 </td>
 <td>
-<p align="center">
-<br/>NEUVILLE-SUR-SAONE.</p>
+<br/>
+<p align="center">SAINT-ANDEOL-LE-CHATEAU</p>
 </td>
 <td>
-<p align="center">
-<br/>D 51</p>
+<br/>
+<p align="center">D 488</p>
 </td>
 <td>
-<p align="center">
-<br/>ALBIGNY-SUR-SAONE.</p>
+<br/>
+<p align="center">SAINT-MAURICE-SUR-DARGOIRE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 15</p>
+<br/>
+<p align="center">D 92</p>
 </td>
 <td>
-<p align="center">
-<br/>D 50</p>
+<br/>
+<p align="center">D 73</p>
 </td>
 <td>
-<p align="center">
-<br/>PIERRE-BENITE.</p>
+<br/>
+<p align="center">SAINT-DIDIER-AU-MONT-D'OR</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 73</p>
 </td>
 <td>
-<p align="center">
-<br/>PIERRE-BENITE.</p>
+<br/>
+<p align="center">LIMONEST</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 315</p>
+<br/>
+<p align="center">D 337</p>
 </td>
 <td>
-<p align="center">
-<br/>D 15</p>
+<br/>
+<p align="center">D 129</p>
 </td>
 <td>
-<p align="center">
-<br/>PIERRE-BENITE.</p>
+<br/>
+<p align="center">SAINT-DIDIER-SUR-BEAUJEU</p>
 </td>
 <td>
-<p align="center">
-<br/>N 86</p>
+<br/>
+<p align="center">D 37</p>
 </td>
 <td>
-<p align="center">
-<br/>GIVORS.</p>
+<br/>
+<p align="center">POULE-LES-ECHARMEAUX</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 385</p>
+<br/>
+<p align="center">D 337</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 129</p>
 </td>
 <td>
-<p align="center">
-<br/>PROPIERES.</p>
+<br/>
+<p align="center">SAINT-DIDIER-SUR-BEAUJEU</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 17</p>
 </td>
 <td>
-<p align="center">
-<br/>PROPIERES.</p>
+<br/>
+<p align="center">BELLEVILLE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 385</p>
+<br/>
+<p align="center">D 50</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 342</p>
 </td>
 <td>
-<p align="center">
-<br/>PROPIERES.</p>
+<br/>
+<p align="center">SAINTE-FOY-LES-LYON</p>
 </td>
 <td>
-<p align="center">
-<br/>D 485</p>
+<br/>
+<p align="center">D 15</p>
 </td>
 <td>
-<p align="center">
-<br/>DOMMARTIN.</p>
+<br/>
+<p align="center">PIERRE-BENITE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 87 E</p>
+<br/>
+<p align="center">D 312</p>
 </td>
 <td>
-<p align="center">
-<br/>D 51</p>
+<br/>
+<p align="center">D 12</p>
 </td>
 <td>
-<p align="center">
-<br/>QUINCIEUX.</p>
+<br/>
+<p align="center">SAINT-FONS</p>
 </td>
 <td>
-<p align="center">
-<br/>D 16</p>
+<br/>
+<p align="center">D 12</p>
 </td>
 <td>
-<p align="center">
-<br/>CHASSELAY.</p>
+<br/>
+<p align="center">SOLAIZE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 483</p>
+<br/>
+<p align="center">D 383</p>
 </td>
 <td>
-<p align="center">
-<br/>D 484</p>
+<br/>
+<p align="center">D 12</p>
 </td>
 <td>
-<p align="center">
-<br/>RILLIEUX-LA-PAPE.</p>
+<br/>
+<p align="center">SAINT-FONS</p>
 </td>
 <td>
-<p align="center">
-<br/>N 83</p>
+<br/>
+<p align="center">D 383</p>
 </td>
 <td>
-<p align="center">
-<br/>CALUIRE-ET-CUIRE.</p>
+<br/>
+<p align="center">VILLEURBANNE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 483</p>
+<br/>
+<p align="center">D 488</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Limite département 69/42</p>
 </td>
 <td>
-<p align="center">
-<br/>RILLIEUX-LA-PAPE.</p>
+<br/>
+<p align="center">SAINT-MAURICE-SUR-DARGOIRE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 384</p>
+<br/>
+<p align="center">Limite département 69/42</p>
 </td>
 <td>
-<p align="center">
-<br/>CALUIRE-ET-CUIRE.</p>
+<br/>
+<p align="center">SAINT-MAURICE-SUR-DARGOIRE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 484</p>
+<br/>
+<p align="center">D 502</p>
 </td>
 <td>
-<p align="center">
-<br/>D 483</p>
+<br/>
+<p align="center">D 386</p>
 </td>
 <td>
-<p align="center">
-<br/>RILLIEUX-LA-PAPE.</p>
+<br/>
+<p align="center">SAINT-ROMAIN-EN-GAL</p>
 </td>
 <td>
-<p align="center">
-<br/>A 46</p>
+<br/>
+<p align="center">Extrémité</p>
 </td>
 <td>
-<p align="center">
-<br/>RILLIEUX-LA-PAPE.</p>
+<br/>
+<p align="center">SAINT-ROMAIN-EN-GAL</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 342</p>
+<br/>
+<p align="center">D 118</p>
 </td>
 <td>
-<p align="center">
-<br/>D 2</p>
+<br/>
+<p align="center">D 67</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-ANDEOL-LE-CHATEAU.</p>
+<br/>
+<p align="center">SARCEY</p>
 </td>
 <td>
-<p align="center">
-<br/>D 42</p>
+<br/>
+<p align="center">N 7</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-MAURICE-SUR-DARGOIRE.</p>
+<br/>
+<p align="center">SAINT-ROMAIN-DE-POPEY</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 92</p>
+<br/>
+<p align="center">D 118</p>
 </td>
 <td>
-<p align="center">
-<br/>D 73</p>
+<br/>
+<p align="center">D 67</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-DIDIER-AU-MONT-D'OR.</p>
+<br/>
+<p align="center">SARCEY</p>
 </td>
 <td>
-<p align="center">
-<br/>D 73</p>
+<br/>
+<p align="center">D 596</p>
 </td>
 <td>
-<p align="center">
-<br/>LIMONEST.</p>
+<br/>
+<p align="center">CHATILLON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 337</p>
+<br/>
+<p align="center">D 67</p>
 </td>
 <td>
-<p align="center">
-<br/>D 129</p>
+<br/>
+<p align="center">D 118</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-DIDIER-SUR-BEAUJEU.</p>
+<br/>
+<p align="center">SARCEY</p>
 </td>
 <td>
-<p align="center">
-<br/>D 37</p>
+<br/>
+<p align="center">D 118</p>
 </td>
 <td>
-<p align="center">
-<br/>POULE-LES-ECHARMEAUX.</p>
+<br/>
+<p align="center">SARCEY</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 337</p>
+<br/>
+<p align="center">D 312</p>
 </td>
 <td>
-<p align="center">
-<br/>D 129</p>
+<br/>
+<p align="center">Extrémité</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-DIDIER-SUR-BEAUJEU.</p>
+<br/>
+<p align="center">SEREZIN-DU-RHONE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 17</p>
+<br/>
+<p align="center">D 4</p>
 </td>
 <td>
-<p align="center">
-<br/>BELLEVILLE.</p>
+<br/>
+<p align="center">TERNAY</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 50</p>
+<br/>
+<p align="center">D 312</p>
 </td>
 <td>
-<p align="center">
-<br/>D 342</p>
+<br/>
+<p align="center">Extrémité</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINTE-FOY-LES-LYON.</p>
+<br/>
+<p align="center">SOLAIZE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 15</p>
+<br/>
+<p align="center">Extrémité</p>
 </td>
 <td>
-<p align="center">
-<br/>PIERRE-BENITE.</p>
+<br/>
+<p align="center">SEREZIN-DU-RHONE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 312</p>
+<br/>
+<p align="center">D 407</p>
 </td>
 <td>
-<p align="center">
-<br/>D 12</p>
+<br/>
+<p align="center">Extrémité</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-FONS.</p>
+<br/>
+<p align="center">TASSIN-LA-DEMI-LUNE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 12</p>
+<br/>
+<p align="center">Extrémité</p>
 </td>
 <td>
-<p align="center">
-<br/>SOLAIZE.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 383</p>
+<br/>
+<p align="center">D 342</p>
 </td>
 <td>
-<p align="center">
-<br/>D 12</p>
+<br/>
+<p align="center">D 42</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-FONS.</p>
+<br/>
+<p align="center">TASSIN-LA-DEMI-LUNE</p>
 </td>
 <td>
-<p align="center">
-<br/>N 383</p>
+<br/>
+<p align="center">A450</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-FONS.</p>
+<br/>
+<p align="center">BRIGNAIS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1006</p>
+<br/>
+<p align="center">Avenue Charles de Gaulle</p>
 </td>
 <td>
-<p align="center">
-<br/>N 6</p>
+<br/>
+<p align="center">D 530</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-LAURENT-DE-MURE.</p>
+<br/>
+<p align="center">TASSIN-LA-DEMI-LUNE</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 42</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-LAURENT-DE-MURE.</p>
+<br/>
+<p align="center">FRANCHEVILLE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 488</p>
+<br/>
+<p align="center">D 112</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 317</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-MAURICE-SUR-DARGOIRE.</p>
+<br/>
+<p align="center">VAULX-EN-VELIN</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 41</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-MAURICE-SUR-DARGOIRE.</p>
+<br/>
+<p align="center">BRON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 88</p>
+<br/>
+<p align="center">D 317</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 112</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-MAURICE-SUR-DARGOIRE.</p>
+<br/>
+<p align="center">VAULX-EN-VELIN</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 517</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-MAURICE-SUR-DARGOIRE.</p>
+<br/>
+<p align="center">VILLEURBANNE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 502</p>
+<br/>
+<p align="center">Rue Beauvisage</p>
 </td>
 <td>
-<p align="center">
-<br/>N 86</p>
+<br/>
+<p align="center">Avenue Francis de Pressensé</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-ROMAIN-EN-GAL.</p>
+<br/>
+<p align="center">VENISSIEUX</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 518</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-ROMAIN-EN-GAL.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 118</p>
+<br/>
+<p align="center">D 318</p>
 </td>
 <td>
-<p align="center">
-<br/>D 67</p>
+<br/>
+<p align="center">D 102</p>
 </td>
 <td>
-<p align="center">
-<br/>SARCEY.</p>
+<br/>
+<p align="center">VENISSIEUX</p>
 </td>
 <td>
-<p align="center">
-<br/>N 7</p>
+<br/>
+<p align="center">Limite département 69/38</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-ROMAIN-DE-POPEY.</p>
+<br/>
+<p align="center">SAINT-PIERRE-DE-CHANDIEU</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 118</p>
+<br/>
+<p align="center">Boulevard Marcel Sembat</p>
 </td>
 <td>
-<p align="center">
-<br/>D 67</p>
+<br/>
+<p align="center">Avenue Francis de Pressensé</p>
 </td>
 <td>
-<p align="center">
-<br/>SARCEY.</p>
+<br/>
+<p align="center">VENISSIEUX</p>
 </td>
 <td>
-<p align="center">
-<br/>D 596</p>
+<br/>
+<p align="center">D 95</p>
 </td>
 <td>
-<p align="center">
-<br/>CHATILLON.</p>
+<br/>
+<p align="center">VENISSIEUX</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 67</p>
+<br/>
+<p align="center">D 95</p>
 </td>
 <td>
-<p align="center">
-<br/>D 118</p>
+<br/>
+<p align="center">Boulevard Marcel Sembat</p>
 </td>
 <td>
-<p align="center">
-<br/>SARCEY.</p>
+<br/>
+<p align="center">VENISSIEUX</p>
 </td>
 <td>
-<p align="center">
-<br/>D 118</p>
+<br/>
+<p align="center">Rue des Combats du 24 Août   1944</p>
 </td>
 <td>
-<p align="center">
-<br/>SARCEY.</p>
+<br/>
+<p align="center">VENISSIEUX</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 312</p>
+<br/>
+<p align="center">Rue des Combats du 24 Août   1944</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 95</p>
 </td>
 <td>
-<p align="center">
-<br/>SEREZIN-DU-RHONE.</p>
+<br/>
+<p align="center">VENISSIEUX</p>
 </td>
 <td>
-<p align="center">
-<br/>D 4</p>
+<br/>
+<p align="center">Avenue Pierre Cot</p>
 </td>
 <td>
-<p align="center">
-<br/>TERNAY.</p>
+<br/>
+<p align="center">VENISSIEUX</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 312</p>
+<br/>
+<p align="center">Avenue Georges Levy</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Avenue Francis de Pressensé</p>
 </td>
 <td>
-<p align="center">
-<br/>SOLAIZE.</p>
+<br/>
+<p align="center">VENISSIEUX</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Route de Vienne</p>
 </td>
 <td>
-<p align="center">
-<br/>SEREZIN-DU-RHONE.</p>
+<br/>
+<p align="center">VENISSIEUX</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 407</p>
+<br/>
+<p align="center">Avenue Francis de Pressensé</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Boulevard Marcel Sembat</p>
 </td>
 <td>
-<p align="center">
-<br/>TASSIN-LA-DEMI-LUNE.</p>
+<br/>
+<p align="center">VENISSIEUX</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Rue du Professeur Beauvisage</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">VENISSIEUX</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 307</p>
+<br/>
+<p align="center">Boulevard Gambetta</p>
 </td>
 <td>
-<p align="center">
-<br/>N 7</p>
+<br/>
+<p align="center">D 43</p>
 </td>
 <td>
-<p align="center">
-<br/>TASSIN-LA-DEMI-LUNE.</p>
+<br/>
+<p align="center">VILLEFRANCHE-SUR-SAONE</p>
 </td>
 <td>
-<p align="center">
-<br/>N 7</p>
+<br/>
+<p align="center">D 84</p>
 </td>
 <td>
-<p align="center">
-<br/>TASSIN-LA-DEMI-LUNE.</p>
+<br/>
+<p align="center">VILLEFRANCHE-SUR-SAONE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 342</p>
+<br/>
+<p align="center">Boulevard Jean Jaurès</p>
 </td>
 <td>
-<p align="center">
-<br/>D 42</p>
+<br/>
+<p align="center">D 84</p>
 </td>
 <td>
-<p align="center">
-<br/>TASSIN-LA-DEMI-LUNE.</p>
+<br/>
+<p align="center">VILLEFRANCHE-SUR-SAONE</p>
 </td>
 <td>
-<p align="center">
-<br/>A 450</p>
+<br/>
+<p align="center">D 504</p>
 </td>
 <td>
-<p align="center">
-<br/>BRIGNAIS.</p>
+<br/>
+<p align="center">VILLEFRANCHE-SUR-SAONE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>Avenue Charles-de-Gaulle</p>
+<br/>
+<p align="center">Boulevard Etienne Bernard</p>
 </td>
 <td>
-<p align="center">
-<br/>D 530</p>
+<br/>
+<p align="center">D 504</p>
 </td>
 <td>
-<p align="center">
-<br/>TASSIN-LA-DEMI-LUNE.</p>
+<br/>
+<p align="center">VILLEFRANCHE-SUR-SAONE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 42</p>
+<br/>
+<p align="center">Rue Jean-Michel Savigny</p>
 </td>
 <td>
-<p align="center">
-<br/>FRANCHEVILLE.</p>
+<br/>
+<p align="center">VILLEFRANCHE-SUR-SAONE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 99</p>
+<br/>
+<p align="center">Rue Jean-Michel Savigny</p>
 </td>
 <td>
-<p align="center">
-<br/>N 7</p>
+<br/>
+<p align="center">Boulevard Etienne Bernard</p>
 </td>
 <td>
-<p align="center">
-<br/>TASSIN-LA-DEMI-LUNE.</p>
+<br/>
+<p align="center">VILLEFRANCHE-SUR-SAONE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 42</p>
+<br/>
+<p align="center">Boulevard Henri Barbusse</p>
 </td>
 <td>
-<p align="center">
-<br/>TASSIN-LA-DEMI-LUNE.</p>
+<br/>
+<p align="center">VILLEFRANCHE-SUR-SAONE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 488</p>
+<br/>
+<p align="center">Boulevard Henri Barbusse</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Rue Jean-Michel Savigny</p>
 </td>
 <td>
-<p align="center">
-<br/>TREVES.</p>
+<br/>
+<p align="center">VILLEFRANCHE-SUR-SAONE</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 70</p>
 </td>
 <td>
-<p align="center">
-<br/>TREVES.</p>
+<br/>
+<p align="center">LIMAS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 112</p>
+<br/>
+<p align="center">D   338</p>
 </td>
 <td>
-<p align="center">
-<br/>D 317</p>
+<br/>
+<p align="center">D 504</p>
 </td>
 <td>
-<p align="center">
-<br/>VAULX-EN-VELIN.</p>
+<br/>
+<p align="center">VILLEFRANCHE-SUR-SAONE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 41</p>
+<br/>
+<p align="center">Extrémité</p>
 </td>
 <td>
-<p align="center">
-<br/>BRON.</p>
+<br/>
+<p align="center">GLEIZE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 317</p>
+<br/>
+<p align="center">D 44</p>
 </td>
 <td>
-<p align="center">
-<br/>D 112</p>
+<br/>
+<p align="center">Extrémité</p>
 </td>
 <td>
-<p align="center">
-<br/>VAULX-EN-VELIN.</p>
+<br/>
+<p align="center">VILLEFRANCHE-SUR-SAONE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 517</p>
+<br/>
+<p align="center">D 44D</p>
 </td>
 <td>
-<p align="center">
-<br/>VILLEURBANNE.</p>
+<br/>
+<p align="center">VILLEFRANCHE-SUR-SAONE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue Beauvisage</p>
+<br/>
+<p align="center">D 44D</p>
 </td>
 <td>
-<p align="center">
-<br/>Avenue Pressensé</p>
+<br/>
+<p align="center">D 44</p>
 </td>
 <td>
-<p align="center">
-<br/>VENISSIEUX.</p>
+<br/>
+<p align="center">VILLEFRANCHE-SUR-SAONE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 518</p>
+<br/>
+<p align="center">D 131</p>
 </td>
 <td>
-<p align="center">
-<br/>LYON.</p>
+<br/>
+<p align="center">VILLEFRANCHE-SUR-SAONE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 318</p>
+<br/>
+<p align="center">D 504</p>
 </td>
 <td>
-<p align="center">
-<br/>D 102</p>
+<br/>
+<p align="center">D 38</p>
 </td>
 <td>
-<p align="center">
-<br/>VENISSIEUX.</p>
+<br/>
+<p align="center">VILLEFRANCHE-SUR-SAONE</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Extrémité</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-PIERRE-DE-CHANDIEU.</p>
+<br/>
+<p align="center">VILLEFRANCHE-SUR-SAONE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 383</p>
+<br/>
+<p align="center">D 342</p>
 </td>
 <td>
-<p align="center">
-<br/>N 383</p>
+<br/>
+<p align="center">D 42</p>
 </td>
 <td>
-<p align="center">
-<br/>VENISSIEUX.</p>
+<br/>
+<p align="center">VOURLES</p>
 </td>
 <td>
-<p align="center">
-<br/>N 383</p>
+<br/>
+<p align="center">D 2</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-FONS.</p>
+<br/>
+<p align="center">SAINT-ANDEOL-LE-CHATEAU</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>Boulevard Marcel-Sembat</p>
+<br/>
+<p align="center">D   42A</p>
 </td>
 <td>
-<p align="center">
-<br/>Avenue Françis de Préssensé</p>
+<br/>
+<p align="center">D 42</p>
 </td>
 <td>
-<p align="center">
-<br/>VENISSIEUX.</p>
+<br/>
+<p align="center">VOURLES</p>
 </td>
 <td>
-<p align="center">
-<br/>D 95</p>
+<br/>
+<p align="center">D 386</p>
 </td>
 <td>
-<p align="center">
-<br/>VENISSIEUX.</p>
+<br/>
+<p align="center">VOURLES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 95</p>
+<br/>
+<p align="center">D 386</p>
 </td>
 <td>
-<p align="center">
-<br/>Boulevard Marcel-Sembat</p>
+<br/>
+<p align="center">A450</p>
 </td>
 <td>
-<p align="center">
-<br/>VENISSIEUX.</p>
+<br/>
+<p align="center">BRIGNAIS</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue des Combats-du-24-Août-1944</p>
+<br/>
+<p align="center">Limite département 69/42</p>
 </td>
 <td>
-<p align="center">
-<br/>VENISSIEUX.</p>
+<br/>
+<p align="center">CONDRIEU</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue des Combats-du-24-Août-1944</p>
+<br/>
+<p align="center">Boulevard Roger Salengro</p>
 </td>
 <td>
-<p align="center">
-<br/>D 95</p>
+<br/>
+<p align="center">D 43</p>
 </td>
 <td>
-<p align="center">
-<br/>VENISSIEUX.</p>
+<br/>
+<p align="center">VILLEFRANCHE-SUR-SAONE</p>
 </td>
 <td>
-<p align="center">
-<br/>Avenue Pierre-Cot</p>
+<br/>
+<p align="center">D 686</p>
 </td>
 <td>
-<p align="center">
-<br/>VENISSIEUX.</p>
+<br/>
+<p align="center">VILLEFRANCHE-SUR-SAONE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>Avenue Georges-Levy</p>
+<br/>
+<p align="center">D 686</p>
 </td>
 <td>
-<p align="center">
-<br/>Avenue Pressensé</p>
+<br/>
+<p align="center">Route du Verrier</p>
 </td>
 <td>
-<p align="center">
-<br/>VENISSIEUX.</p>
+<br/>
+<p align="center">ARNAS</p>
 </td>
 <td>
-<p align="center">
-<br/>N 7</p>
+<br/>
+<p align="center">Boulevard Roger Salengro</p>
 </td>
 <td>
-<p align="center">
-<br/>VENISSIEUX.</p>
+<br/>
+<p align="center">VILLEFRANCHE-SUR-SAONE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>Avenue Pressensé</p>
+<br/>
+<p align="center">Avenue de la Constellation</p>
 </td>
 <td>
-<p align="center">
-<br/>Boulevard Marcel-Sembat</p>
+<br/>
+<p align="center">Avenue du Général Brosset</p>
 </td>
 <td>
-<p align="center">
-<br/>VENISSIEUX.</p>
+<br/>
+<p align="center">TASSIN-LA-DEMI-LUNE</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue du Professeur-Beauvisage</p>
+<br/>
+<p align="center">Chemin de la Raude</p>
 </td>
 <td>
-<p align="center">
-<br/>VENISSIEUX.</p>
+<br/>
+<p align="center">TASSIN-LA-DEMI-LUNE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>Boulevard Gambetta</p>
+<br/>
+<p align="center">Chemin de la Raude</p>
 </td>
 <td>
-<p align="center">
-<br/>D 43</p>
+<br/>
+<p align="center">Avenue de la Constellation</p>
 </td>
 <td>
-<p align="center">
-<br/>VILLEFRANCHE-SUR-SAONE.</p>
+<br/>
+<p align="center">TASSIN-LA-DEMI-LUNE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 84</p>
+<br/>
+<p align="center">Avenue Papon</p>
 </td>
 <td>
-<p align="center">
-<br/>VILLEFRANCHE-SUR-SAONE.</p>
+<br/>
+<p align="center">TASSIN-LA-DEMI-LUNE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>Boulevard Jean-Jaurès</p>
+<br/>
+<p align="center">Avenue Papon</p>
 </td>
 <td>
-<p align="center">
-<br/>D 84</p>
+<br/>
+<p align="center">Chemin de la Raude</p>
 </td>
 <td>
-<p align="center">
-<br/>VILLEFRANCHE-SUR-SAONE.</p>
+<br/>
+<p align="center">TASSIN-LA-DEMI-LUNE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 504</p>
+<br/>
+<p align="center">D 342</p>
 </td>
 <td>
-<p align="center">
-<br/>VILLEFRANCHE-SUR-SAONE.</p>
+<br/>
+<p align="center">TASSIN-LA-DEMI-LUNE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>Boulevard Etienne-Bernard</p>
+<br/>
+<p align="center">Avenue du Général Brosset</p>
 </td>
 <td>
-<p align="center">
-<br/>D 504</p>
+<br/>
+<p align="center">D 342</p>
 </td>
 <td>
-<p align="center">
-<br/>VILLEFRANCHE-SUR-SAONE.</p>
+<br/>
+<p align="center">TASSIN-LA-DEMI-LUNE</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue Jean-Michel-Savigny</p>
+<br/>
+<p align="center">Avenue de la Constellation</p>
 </td>
 <td>
-<p align="center">
-<br/>VILLEFRANCHE-SUR-SAONE.</p>
+<br/>
+<p align="center">TASSIN-LA-DEMI-LUNE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue Jean-Michel Savigny</p>
+<br/>
+<p align="center">D 489</p>
 </td>
 <td>
-<p align="center">
-<br/>Boulevard Etienne-Bernard</p>
+<br/>
+<p align="center">D 307</p>
 </td>
 <td>
-<p align="center">
-<br/>VILLEFRANCHE-SUR-SAONE.</p>
+<br/>
+<p align="center">TASSIN-LA-DEMI-LUNE</p>
 </td>
 <td>
-<p align="center">
-<br/>Boulevard Henri-Barbusse</p>
+<br/>
+<p align="center">D 342</p>
 </td>
 <td>
-<p align="center">
-<br/>VILLEFRANCHE-SUR-SAONE.</p>
+<br/>
+<p align="center">TASSIN-LA-DEMI-LUNE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>Boulevard Henri-Barbusse</p>
+<br/>
+<p align="center">Avenue Berthelot</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue Jean-Michel-Savigny</p>
+<br/>
+<p align="center">Route de Vienne</p>
 </td>
 <td>
-<p align="center">
-<br/>VILLEFRANCHE-SUR-SAONE.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 <td>
-<p align="center">
-<br/>D 70</p>
+<br/>
+<p align="center">Quai Claude Bernard</p>
 </td>
 <td>
-<p align="center">
-<br/>LIMAS.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 338</p>
+<br/>
+<p align="center">Quai du Docteur Gailleton</p>
 </td>
 <td>
-<p align="center">
-<br/>D 504</p>
+<br/>
+<p align="center">Quai Jules Courmont</p>
 </td>
 <td>
-<p align="center">
-<br/>VILLEFRANCHE-SUR-SAONE.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">A 7</p>
 </td>
 <td>
-<p align="center">
-<br/>GLEIZE.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 44</p>
+<br/>
+<p align="center">Quai Jules Courmont</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Quai Jean Moulin</p>
 </td>
 <td>
-<p align="center">
-<br/>VILLEFRANCHE-SUR-SAONE.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 <td>
-<p align="center">
-<br/>D 44 D</p>
+<br/>
+<p align="center">Quai du Docteur Gailleton</p>
 </td>
 <td>
-<p align="center">
-<br/>VILLEFRANCHE-SUR-SAONE.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 44 D</p>
+<br/>
+<p align="center">Quai Jean Moulin</p>
 </td>
 <td>
-<p align="center">
-<br/>D 44</p>
+<br/>
+<p align="center">Quai André Lassagne</p>
 </td>
 <td>
-<p align="center">
-<br/>VILLEFRANCHE-SUR-SAONE.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 <td>
-<p align="center">
-<br/>D 131</p>
+<br/>
+<p align="center">Quai Jules Courmont</p>
 </td>
 <td>
-<p align="center">
-<br/>VILLEFRANCHE-SUR-SAONE.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 504</p>
+<br/>
+<p align="center">Quai André Lassagne</p>
 </td>
 <td>
-<p align="center">
-<br/>D 38</p>
+<br/>
+<p align="center">Tunnel de La Croix-Rousse</p>
 </td>
 <td>
-<p align="center">
-<br/>VILLEFRANCHE-SUR-SAONE.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Quai Jean Moulin</p>
 </td>
 <td>
-<p align="center">
-<br/>VILLEFRANCHE-SUR-SAONE.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 383</p>
+<br/>
+<p align="center">Tunnel de La Croix-Rousse</p>
 </td>
 <td>
-<p align="center">
-<br/>N 383</p>
+<br/>
+<p align="center">Pont Clemenceau</p>
 </td>
 <td>
-<p align="center">
-<br/>VILLEURBANNE.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 <td>
-<p align="center">
-<br/>N 383</p>
+<br/>
+<p align="center">Quai André Lassagne</p>
 </td>
 <td>
-<p align="center">
-<br/>BRON.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 342</p>
+<br/>
+<p align="center">Pont Clemenceau</p>
 </td>
 <td>
-<p align="center">
-<br/>D 42</p>
+<br/>
+<p align="center">Rue Marietton</p>
 </td>
 <td>
-<p align="center">
-<br/>VOURLES.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 <td>
-<p align="center">
-<br/>D 2</p>
+<br/>
+<p align="center">Tunnel de La Croix-Rousse</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-ANDEOL-LE-CHATEAU.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>69</p>
+<br/>
+<p align="center">69</p>
 </td>
 <td>
-<p align="center">
-<br/>D 42A</p>
+<br/>
+<p align="center">Rue Marietton</p>
 </td>
 <td>
-<p align="center">
-<br/>D 42</p>
+<br/>
+<p align="center">Rue de Bourgogne</p>
 </td>
 <td>
-<p align="center">
-<br/>VOURLES.</p>
+<br/>
+<p align="center">LYON</p>
 </td>
 <td>
-<p align="center">
-<br/>N 86</p>
+<br/>
+<p align="center">Pont Clemenceau</p>
 </td>
 <td>
-<p align="center">
-<br/>VOURLES.</p>
+<br/>
+<p align="center">LYON</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+<p align="center">69</p>
+</td>
+<td>
+<br/>
+<p align="center">Rue de Bourgogne</p>
+</td>
+<td>
+<br/>
+<p align="center">D 306</p>
+</td>
+<td>
+<br/>
+<p align="center">LYON</p>
+</td>
+<td>
+<br/>
+<p align="center">Rue Marietton</p>
+</td>
+<td>
+<br/>
+<p align="center">LYON</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+<p align="center">69</p>
+</td>
+<td>
+<br/>
+<p align="center">Pont Raymond Poincaré</p>
+</td>
+<td>
+<br/>
+<p align="center">D 483</p>
+</td>
+<td>
+<br/>
+<p align="center">CALUIRE-ET-CUIRE</p>
+</td>
+<td>
+<br/>
+<p align="center">Boulevard Laurent Bonnevay</p>
+</td>
+<td>
+<br/>
+<p align="center">VILLEURBANNE</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+<p align="center">69</p>
+</td>
+<td>
+<br/>
+<p align="center">Boulevard Laurent Bonnevay</p>
+</td>
+<td>
+<br/>
+<p align="center">Pont Raymond Poincaré</p>
+</td>
+<td>
+<br/>
+<p align="center">VILLEURBANNE</p>
+</td>
+<td>
+<br/>
+<p align="center">D 383</p>
+</td>
+<td>
+<br/>
+<p align="center">VILLEUBANNE</p>
 </td>
 </tr>
 </tbody>

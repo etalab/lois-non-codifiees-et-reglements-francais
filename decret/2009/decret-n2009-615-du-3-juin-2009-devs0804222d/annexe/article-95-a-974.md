@@ -1,1545 +1,1209 @@
 # Article (95 à 974)
 
-.
-
 <table>
 <tbody>
 <tr>
 <td>
-<b>DÉPARTEMENT</b>
+<br/>
+<p align="center">DÉPARTEMENT</p>
 </td>
 <td>
-<p align="center">
-<b>ROUTE</b>
-</p>
+<br/>
+<p align="center">ROUTE</p>
 </td>
 <td>
-<p align="center">
-<b>ROUTE<br/>de début de section</b>
-</p>
+<br/>
+<p align="center">ROUTE</p>
+<br/>
+<p align="center">de début de section</p>
 </td>
 <td>
-<p align="center">
-<b>COMMUNE<br/>de début de section</b>
-</p>
+<br/>
+<p align="center">COMMUNE</p>
+<br/>
+<p align="center">de début de section</p>
 </td>
 <td>
-<p align="center">
-<b>ROUTE<br/>de fin de section</b>
-</p>
+<br/>
+<p align="center">ROUTE</p>
+<br/>
+<p align="center">de fin de section</p>
 </td>
 <td>
-<p align="center">
-<b>COMMUNE<br/>de fin de section</b>
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">
-<br/>95</p>
-</td>
-<td>
-<p align="center">
-<br/>D 28</p>
-</td>
-<td>
-<p align="center">
-<br/>D 14</p>
-</td>
-<td>
-<p align="center">
-<br/>ABLEIGES.</p>
-</td>
-<td>
-<p align="center">
-<br/>Extrémité</p>
-</td>
-<td>
-<p align="center">
-<br/>CONDECOURT.</p>
+<br/>
+<p align="center">COMMUNE</p>
+<br/>
+<p align="center">de fin de section</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>95</p>
+<br/>
+<p align="center">95</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue Alfred-Labrière</p>
+<br/>
+<p align="center">D 28</p>
 </td>
 <td>
-<p align="center">
-<br/>D 909</p>
+<br/>
+<p align="center">D 14</p>
 </td>
 <td>
-<p align="center">
-<br/>ARGENTEUIL.</p>
+<br/>
+<p align="center">ABLEIGES</p>
 </td>
 <td>
-<p align="center">
-<br/>D 311</p>
+<br/>
+<p align="center">Limite département 95/78</p>
 </td>
 <td>
-<p align="center">
-<br/>ARGENTEUIL.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">
-<br/>95</p>
-</td>
-<td>
-<p align="center">
-<br/>D 909</p>
-</td>
-<td>
-<p align="center">
-<br/>Extrémité</p>
-</td>
-<td>
-<p align="center">
-<br/>ARGENTEUIL.</p>
-</td>
-<td>
-<p align="center">
-<br/>Extrémité</p>
-</td>
-<td>
-<p align="center">
-<br/>ARGENTEUIL.</p>
+<br/>
+<p align="center">CONDECOURT</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>95</p>
+<br/>
+<p align="center">95</p>
 </td>
 <td>
-<p align="center">
-<br/>D 308</p>
+<br/>
+<p align="center">D 308</p>
 </td>
 <td>
-<p align="center">
-<br/>N 308</p>
+<br/>
+<p align="center">D 392</p>
 </td>
 <td>
-<p align="center">
-<br/>BEZONS.</p>
+<br/>
+<p align="center">BEZONS</p>
 </td>
 <td>
-<p align="center">
-<br/>N 308</p>
+<br/>
+<p align="center">Limite département 95/78</p>
 </td>
 <td>
-<p align="center">
-<br/>BEZONS.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">
-<br/>95</p>
-</td>
-<td>
-<p align="center">
-<br/>D 392</p>
-</td>
-<td>
-<p align="center">
-<br/>D 311</p>
-</td>
-<td>
-<p align="center">
-<br/>BEZONS.</p>
-</td>
-<td>
-<p align="center">
-<br/>N 192</p>
-</td>
-<td>
-<p align="center">
-<br/>BEZONS.</p>
+<br/>
+<p align="center">BEZONS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>95</p>
+<br/>
+<p align="center">95</p>
 </td>
 <td>
-<p align="center">
-<br/>D 924</p>
+<br/>
+<p align="center">D 311</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D   392/Pont de Bezons</p>
 </td>
 <td>
-<p align="center">
-<br/>BRUYERES-SUR-OISE.</p>
+<br/>
+<p align="center">BEZONS</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">A15</p>
 </td>
 <td>
-<p align="center">
-<br/>BERNES-SUR-OISE.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">
-<br/>95</p>
-</td>
-<td>
-<p align="center">
-<br/>D 43</p>
-</td>
-<td>
-<p align="center">
-<br/>D 53</p>
-</td>
-<td>
-<p align="center">
-<br/>CHARS.</p>
-</td>
-<td>
-<p align="center">
-<br/>D 14</p>
-</td>
-<td>
-<p align="center">
-<br/>GADANCOURT.</p>
+<br/>
+<p align="center">ARGENTEUIL</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>95</p>
+<br/>
+<p align="center">95</p>
 </td>
 <td>
-<p align="center">
-<br/>D 212</p>
+<br/>
+<p align="center">D 317</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Limite département 95/93</p>
 </td>
 <td>
-<p align="center">
-<br/>EPIAIS-LES-LOUVRES.</p>
+<br/>
+<p align="center">BONNEUIL-EN-FRANCE</p>
 </td>
 <td>
-<p align="center">
-<br/>N 104</p>
+<br/>
+<p align="center">Limite département 95/60</p>
 </td>
 <td>
-<p align="center">
-<br/>EPIAIS-LES-LOUVRES.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">
-<br/>95</p>
-</td>
-<td>
-<p align="center">
-<br/>D 165</p>
-</td>
-<td>
-<p align="center">
-<br/>D 212</p>
-</td>
-<td>
-<p align="center">
-<br/>EPIAIS-LES-LOUVRES.</p>
-</td>
-<td>
-<p align="center">
-<br/>N 104</p>
-</td>
-<td>
-<p align="center">
-<br/>EPIAIS-LES-LOUVRES.</p>
+<br/>
+<p align="center">SURVILLIERS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>95</p>
+<br/>
+<p align="center">95</p>
 </td>
 <td>
-<p align="center">
-<br/>D 14</p>
+<br/>
+<p align="center">D 924</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Limite département 95/60</p>
 </td>
 <td>
-<p align="center">
-<br/>FRANCONVILLE.</p>
+<br/>
+<p align="center">BRUYERES-SUR-OISE</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Limite département 95/60</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-OUEN-L'AUMONE.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">
-<br/>95</p>
-</td>
-<td>
-<p align="center">
-<br/>D 170</p>
-</td>
-<td>
-<p align="center">
-<br/>D 370</p>
-</td>
-<td>
-<p align="center">
-<br/>GONESSE.</p>
-</td>
-<td>
-<p align="center">
-<br/>Extrémité</p>
-</td>
-<td>
-<p align="center">
-<br/>GONESSE.</p>
+<br/>
+<p align="center">BERNES-SUR-OISE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>95</p>
+<br/>
+<p align="center">95</p>
 </td>
 <td>
-<p align="center">
-<br/>D 370</p>
+<br/>
+<p align="center">D 43</p>
 </td>
 <td>
-<p align="center">
-<br/>N 370</p>
+<br/>
+<p align="center">Limite département 95/60</p>
 </td>
 <td>
-<p align="center">
-<br/>GONESSE.</p>
+<br/>
+<p align="center">CHARS</p>
 </td>
 <td>
-<p align="center">
-<br/>N 370</p>
+<br/>
+<p align="center">D 14</p>
 </td>
 <td>
-<p align="center">
-<br/>GONESSE.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">
-<br/>95</p>
-</td>
-<td>
-<p align="center">
-<br/>D 370</p>
-</td>
-<td>
-<p align="center">
-<br/>D 84</p>
-</td>
-<td>
-<p align="center">
-<br/>GONESSE.</p>
-</td>
-<td>
-<p align="center">
-<br/>N 370</p>
-</td>
-<td>
-<p align="center">
-<br/>GONESSE.</p>
+<br/>
+<p align="center">GADANCOURT</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>95</p>
+<br/>
+<p align="center">95</p>
 </td>
 <td>
-<p align="center">
-<br/>D 84</p>
+<br/>
+<p align="center">D 212-route périphérique   Nord</p>
 </td>
 <td>
-<p align="center">
-<br/>D 370</p>
+<br/>
+<p align="center">N 104/A1</p>
 </td>
 <td>
-<p align="center">
-<br/>GONESSE.</p>
+<br/>
+<p align="center">EPIAIS-LES-LOUVRES</p>
 </td>
 <td>
-<p align="center">
-<br/>D 29</p>
+<br/>
+<p align="center">Limite département 95/77</p>
 </td>
 <td>
-<p align="center">
-<br/>GARGES-LES-GONESSE.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">
-<br/>95</p>
-</td>
-<td>
-<p align="center">
-<br/>D 983</p>
-</td>
-<td>
-<p align="center">
-<br/>N 183</p>
-</td>
-<td>
-<p align="center">
-<br/>MAGNY-EN-VEXIN.</p>
-</td>
-<td>
-<p align="center">
-<br/>Extrémité</p>
-</td>
-<td>
-<p align="center">
-<br/>AINCOURT.</p>
+<br/>
+<p align="center">AEROPORT DE PARIS ROISSY-CDG</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>95</p>
+<br/>
+<p align="center">95</p>
 </td>
 <td>
-<p align="center">
-<br/>D 4</p>
+<br/>
+<p align="center">D 14</p>
 </td>
 <td>
-<p align="center">
-<br/>D 4</p>
+<br/>
+<p align="center">A15 </p>
 </td>
 <td>
-<p align="center">
-<br/>PERSAN.</p>
+<br/>
+<p align="center">FRANCONVILLE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 301</p>
+<br/>
+<p align="center">N 184</p>
 </td>
 <td>
-<p align="center">
-<br/>PERSAN.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">
-<br/>95</p>
-</td>
-<td>
-<p align="center">
-<br/>D 902 A</p>
-</td>
-<td>
-<p align="center">
-<br/>D 902 A</p>
-</td>
-<td>
-<p align="center">
-<br/>ROISSY-EN-FRANCE.</p>
-</td>
-<td>
-<p align="center">
-<br/>D 88</p>
-</td>
-<td>
-<p align="center">
-<br/>ROISSY-EN-FRANCE.</p>
+<br/>
+<p align="center">SAINT-OUEN-L'AUMONE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>95</p>
+<br/>
+<p align="center">95</p>
 </td>
 <td>
-<p align="center">
-<br/>D 902 A</p>
+<br/>
+<p align="center">D   170</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D   370</p>
 </td>
 <td>
-<p align="center">
-<br/>ROISSY-EN-FRANCE.</p>
+<br/>
+<p align="center">GONESSE</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">A1/A104</p>
 </td>
 <td>
-<p align="center">
-<br/>ROISSY-EN-FRANCE.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">
-<br/>95</p>
-</td>
-<td>
-<p align="center">
-<br/>D 14</p>
-</td>
-<td>
-<p align="center">
-<br/>N 14</p>
-</td>
-<td>
-<p align="center">
-<br/>SAINT-CLAIR-SUR-EPTE.</p>
-</td>
-<td>
-<p align="center">
-<br/>Extrémité</p>
-</td>
-<td>
-<p align="center">
-<br/>SAINT-CLAIR-SUR-EPTE.</p>
+<br/>
+<p align="center">GONESSE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>95</p>
+<br/>
+<p align="center">95</p>
 </td>
 <td>
-<p align="center">
-<br/>D 14</p>
+<br/>
+<p align="center">D   370</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 84</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-OUEN-L'AUMONE.</p>
+<br/>
+<p align="center">GONESSE</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Limite département 95/93</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-OUEN-L'AUMONE.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">
-<br/>95</p>
-</td>
-<td>
-<p align="center">
-<br/>D 16</p>
-</td>
-<td>
-<p align="center">
-<br/>Extrémité</p>
-</td>
-<td>
-<p align="center">
-<br/>SAINT-WITZ.</p>
-</td>
-<td>
-<p align="center">
-<br/>D 10</p>
-</td>
-<td>
-<p align="center">
-<br/>SAINT-WITZ.</p>
+<br/>
+<p align="center">GONESSE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>95</p>
+<br/>
+<p align="center">95</p>
 </td>
 <td>
-<p align="center">
-<br/>D 407</p>
+<br/>
+<p align="center">D 84</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D   370</p>
 </td>
 <td>
-<p align="center">
-<br/>TAVERNY.</p>
+<br/>
+<p align="center">GONESSE</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Limite département 95/93</p>
 </td>
 <td>
-<p align="center">
-<br/>TAVERNY.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">
-<br/>95</p>
-</td>
-<td>
-<p align="center">
-<br/>D 409</p>
-</td>
-<td>
-<p align="center">
-<br/>Extrémité</p>
-</td>
-<td>
-<p align="center">
-<br/>TAVERNY.</p>
-</td>
-<td>
-<p align="center">
-<br/>A 115</p>
-</td>
-<td>
-<p align="center">
-<br/>TAVERNY.</p>
+<br/>
+<p align="center">GARGES-LES-GONESSE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>95</p>
+<br/>
+<p align="center">95</p>
 </td>
 <td>
-<p align="center">
-<br/>D 502</p>
+<br/>
+<p align="center">D   301</p>
 </td>
 <td>
-<p align="center">
-<br/>D 409</p>
+<br/>
+<p align="center">A16/N   1</p>
 </td>
 <td>
-<p align="center">
-<br/>TAVERNY.</p>
+<br/>
+<p align="center">L'ISLE-ADAM</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Limite département 95/60</p>
 </td>
 <td>
-<p align="center">
-<br/>TAVERNY.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">
-<br/>972</p>
-</td>
-<td>
-<p align="center">
-<br/>N 1</p>
-</td>
-<td>
-<p align="center">
-<br/>N 3</p>
-</td>
-<td>
-<p align="center">
-<br/>Basse-Pointe.</p>
-</td>
-<td>
-<p align="center">
-<br/>Rue du Docteur-Morestin</p>
-</td>
-<td>
-<p align="center">
-<br/>Basse-Pointe.</p>
+<br/>
+<p align="center">PERSAN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>972</p>
+<br/>
+<p align="center">95</p>
 </td>
 <td>
-<p align="center">
-<br/>N 3</p>
+<br/>
+<p align="center">D   983</p>
 </td>
 <td>
-<p align="center">
-<br/>Pont de Chaines</p>
+<br/>
+<p align="center">D 14</p>
 </td>
 <td>
-<p align="center">
-<br/>Basse-Pointe.</p>
+<br/>
+<p align="center">MAGNY-EN-VEXIN</p>
 </td>
 <td>
-<p align="center">
-<br/>N 3</p>
+<br/>
+<p align="center">Limite département 95/78</p>
 </td>
 <td>
-<p align="center">
-<br/>Le Morne-Rouge.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">
-<br/>972</p>
-</td>
-<td>
-<p align="center">
-<br/>N 2</p>
-</td>
-<td>
-<p align="center">
-<br/>inter rocade</p>
-</td>
-<td>
-<p align="center">
-<br/>Fort-de-France.</p>
-</td>
-<td>
-<p align="center">
-<br/>Giratoire d'Anse-Gouraud</p>
-</td>
-<td>
-<p align="center">
-<br/>Fort-de-France.</p>
+<br/>
+<p align="center">AINCOURT</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>972</p>
+<br/>
+<p align="center">95</p>
 </td>
 <td>
-<p align="center">
-<br/>N 2</p>
+<br/>
+<p align="center">D 4</p>
 </td>
 <td>
-<p align="center">
-<br/>Giratoire de l'Anse-Gouraud</p>
+<br/>
+<p align="center">A16/D 301</p>
 </td>
 <td>
-<p align="center">
-<br/>Fort-de-France.</p>
+<br/>
+<p align="center">PERSAN</p>
 </td>
 <td>
-<p align="center">
-<br/>Entrée Agglo du Carbet</p>
+<br/>
+<p align="center">Limite département 95/60</p>
 </td>
 <td>
-<p align="center">
-<br/>Le Carbet.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">
-<br/>972</p>
-</td>
-<td>
-<p align="center">
-<br/>N 5</p>
-</td>
-<td>
-<p align="center">
-<br/>A 1</p>
-</td>
-<td>
-<p align="center">
-<br/>Fort-de-France.</p>
-</td>
-<td>
-<p align="center">
-<br/>Echangeur du Diamant</p>
-</td>
-<td>
-<p align="center">
-<br/>Rivière Salée.</p>
+<br/>
+<p align="center">PERSAN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>972</p>
+<br/>
+<p align="center">95</p>
 </td>
 <td>
-<p align="center">
-<br/>N 9</p>
+<br/>
+<p align="center">D   902A</p>
 </td>
 <td>
-<p align="center">
-<br/>Giratoire Union</p>
+<br/>
+<p align="center">D   47A/D 317</p>
 </td>
 <td>
-<p align="center">
-<br/>Fort-de-France.</p>
+<br/>
+<p align="center">ROISSY-EN-FRANCE</p>
 </td>
 <td>
-<p align="center">
-<br/>Echangeur Pointe des Sables</p>
+<br/>
+<p align="center">Limite département 95/93</p>
 </td>
 <td>
-<p align="center">
-<br/>Fort-de-France.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">
-<br/>972</p>
-</td>
-<td>
-<p align="center">
-<br/>N 2</p>
-</td>
-<td>
-<p align="center">
-<br/>Entrée du Carbet</p>
-</td>
-<td>
-<p align="center">
-<br/>Le Carbet.</p>
-</td>
-<td>
-<p align="center">
-<br/>Sortie du Carbet</p>
-</td>
-<td>
-<p align="center">
-<br/>Le Carbet.</p>
+<br/>
+<p align="center">ROISSY-EN-FRANCE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>972</p>
+<br/>
+<p align="center">95</p>
 </td>
 <td>
-<p align="center">
-<br/>N 2</p>
+<br/>
+<p align="center">D 301</p>
 </td>
 <td>
-<p align="center">
-<br/>Sortie du Carbet</p>
+<br/>
+<p align="center">Limite département 95/93</p>
 </td>
 <td>
-<p align="center">
-<br/>Le Carbet.</p>
+<br/>
+<p align="center">SARCELLES</p>
 </td>
 <td>
-<p align="center">
-<br/>Entrée de Saint-Pierre</p>
+<br/>
+<p align="center">N 104/N 1</p>
 </td>
 <td>
-<p align="center">
-<br/>Saint-Pierre.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">
-<br/>972</p>
-</td>
-<td>
-<p align="center">
-<br/>N 6</p>
-</td>
-<td>
-<p align="center">
-<br/>D 16</p>
-</td>
-<td>
-<p align="center">
-<br/>Le Francois.</p>
-</td>
-<td>
-<p align="center">
-<br/>Bourg</p>
-</td>
-<td>
-<p align="center">
-<br/>Le Marin.</p>
+<br/>
+<p align="center">ATTAINVILLE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>972</p>
+<br/>
+<p align="center">95</p>
 </td>
 <td>
-<p align="center">
-<br/>N 1</p>
+<br/>
+<p align="center">D 14</p>
 </td>
 <td>
-<p align="center">
-<br/>A 1</p>
+<br/>
+<p align="center">Limite département 95/27</p>
 </td>
 <td>
-<p align="center">
-<br/>Le Lamentin.</p>
+<br/>
+<p align="center">SAINT-CLAIR-SUR-EPTE</p>
 </td>
 <td>
-<p align="center">
-<br/>N 3</p>
+<br/>
+<p align="center">N 14</p>
 </td>
 <td>
-<p align="center">
-<br/>Basse-Pointe.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">
-<br/>972</p>
-</td>
-<td>
-<p align="center">
-<br/>N 6</p>
-</td>
-<td>
-<p align="center">
-<br/>Giratoire Carrère, inter N 5/N 6</p>
-</td>
-<td>
-<p align="center">
-<br/>Le Lamentin.</p>
-</td>
-<td>
-<p align="center">
-<br/>D 16</p>
-</td>
-<td>
-<p align="center">
-<br/>Le Francois.</p>
+<br/>
+<p align="center">PUISEUX-PONTOISE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>972</p>
+<br/>
+<p align="center">95</p>
 </td>
 <td>
-<p align="center">
-<br/>N 2006</p>
+<br/>
+<p align="center">D 16</p>
 </td>
 <td>
-<p align="center">
-<br/>N 1</p>
+<br/>
+<p align="center">D   317</p>
 </td>
 <td>
-<p align="center">
-<br/>Le Lamentin.</p>
+<br/>
+<p align="center">SAINT-WITZ</p>
 </td>
 <td>
-<p align="center">
-<br/>N 6</p>
+<br/>
+<p align="center">A1 </p>
 </td>
 <td>
-<p align="center">
-<br/>Le Lamentin.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">
-<br/>972</p>
-</td>
-<td>
-<p align="center">
-<br/>N 5</p>
-</td>
-<td>
-<p align="center">
-<br/>Giratoire Poirier</p>
-</td>
-<td>
-<p align="center">
-<br/>Rivière Pilote.</p>
-</td>
-<td>
-<p align="center">
-<br/>Bourg</p>
-</td>
-<td>
-<p align="center">
-<br/>Le Marin.</p>
+<br/>
+<p align="center">SAINT-WITZ</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>972</p>
+<br/>
+<p align="center">95</p>
 </td>
 <td>
-<p align="center">
-<br/>N 5</p>
+<br/>
+<p align="center">D   407</p>
 </td>
 <td>
-<p align="center">
-<br/>Echangeur du Diamant</p>
+<br/>
+<p align="center">A115</p>
 </td>
 <td>
-<p align="center">
-<br/>Rivière Salée.</p>
+<br/>
+<p align="center">TAVERNY</p>
 </td>
 <td>
-<p align="center">
-<br/>Giratoire Poirier</p>
+<br/>
+<p align="center">D   502</p>
 </td>
 <td>
-<p align="center">
-<br/>Rivière Pilote.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">
-<br/>972</p>
-</td>
-<td>
-<p align="center">
-<br/>N 2</p>
-</td>
-<td>
-<p align="center">
-<br/>Entrée de Saint-Pierre</p>
-</td>
-<td>
-<p align="center">
-<br/>Saint-Pierre.</p>
-</td>
-<td>
-<p align="center">
-<br/>Sortie de Saint-Pierre</p>
-</td>
-<td>
-<p align="center">
-<br/>Saint-Pierre.</p>
+<br/>
+<p align="center">TAVERNY</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>972</p>
+<br/>
+<p align="center">95</p>
 </td>
 <td>
-<p align="center">
-<br/>N 2</p>
+<br/>
+<p align="center">D   409</p>
 </td>
 <td>
-<p align="center">
-<br/>Sortie de Saint-Pierre</p>
+<br/>
+<p align="center">D   502</p>
 </td>
 <td>
-<p align="center">
-<br/>Saint-Pierre.</p>
+<br/>
+<p align="center">TAVERNY</p>
 </td>
 <td>
-<p align="center">
-<br/>N 3</p>
+<br/>
+<p align="center">A115</p>
 </td>
 <td>
-<p align="center">
-<br/>Le Morne-Rouge.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">
-<br/>973</p>
-</td>
-<td>
-<p align="center">
-<br/>N 1</p>
-</td>
-<td>
-<p align="center">
-<br/>N 3</p>
-</td>
-<td>
-<p align="center">
-<br/>Cayenne.</p>
-</td>
-<td>
-<p align="center">
-<br/>Extrémité</p>
-</td>
-<td>
-<p align="center">
-<br/>Saint-Laurent-du-Maroni.</p>
+<br/>
+<p align="center">TAVERNY</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>973</p>
+<br/>
+<p align="center">95</p>
 </td>
 <td>
-<p align="center">
-<br/>N 2</p>
+<br/>
+<p align="center">D   502</p>
 </td>
 <td>
-<p align="center">
-<br/>N 1</p>
+<br/>
+<p align="center">D   409</p>
 </td>
 <td>
-<p align="center">
-<br/>Cayenne.</p>
+<br/>
+<p align="center">TAVERNY</p>
 </td>
 <td>
-<p align="center">
-<br/>N 4</p>
+<br/>
+<p align="center">D   407</p>
 </td>
 <td>
-<p align="center">
-<br/>Matoury.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">
-<br/>973</p>
-</td>
-<td>
-<p align="center">
-<br/>N 3</p>
-</td>
-<td>
-<p align="center">
-<br/>N 1</p>
-</td>
-<td>
-<p align="center">
-<br/>Cayenne.</p>
-</td>
-<td>
-<p align="center">
-<br/>Port</p>
-</td>
-<td>
-<p align="center">
-<br/>Remire-Montjoly.</p>
+<br/>
+<p align="center">TAVERNY</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>973</p>
+<br/>
+<p align="center">972</p>
 </td>
 <td>
-<p align="center">
-<br/>N 1 bis</p>
+<br/>
+<p align="center">N 3</p>
 </td>
 <td>
-<p align="center">
-<br/>N 3</p>
+<br/>
+<p align="center">N 2</p>
 </td>
 <td>
-<p align="center">
-<br/>Cayenne.</p>
+<br/>
+<p align="center">LE MORNE-ROUGE</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue du Général-de-Gaulle</p>
+<br/>
+<p align="center">N 1</p>
 </td>
 <td>
-<p align="center">
-<br/>Cayenne.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">
-<br/>973</p>
-</td>
-<td>
-<p align="center">
-<br/>N 2</p>
-</td>
-<td>
-<p align="center">
-<br/>N 4</p>
-</td>
-<td>
-<p align="center">
-<br/>Matoury.</p>
-</td>
-<td>
-<p align="center">
-<br/>Frontière</p>
-</td>
-<td>
-<p align="center">
-<br/>Saint-Georges.</p>
+<br/>
+<p align="center">BASSE-POINTE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>973</p>
+<br/>
+<p align="center">972</p>
 </td>
 <td>
-<p align="center">
-<br/>N 4</p>
+<br/>
+<p align="center">N 2</p>
 </td>
 <td>
-<p align="center">
-<br/>aéroport</p>
+<br/>
+<p align="center">Giratoire de l'Anse Gouraud</p>
 </td>
 <td>
-<p align="center">
-<br/>Matoury.</p>
+<br/>
+<p align="center">SCHOELCHER</p>
 </td>
 <td>
-<p align="center">
-<br/>N 3</p>
+<br/>
+<p align="center">N 3</p>
 </td>
 <td>
-<p align="center">
-<br/>Remire-Montjoly.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">
-<br/>974</p>
-</td>
-<td>
-<p align="center">
-<br/>VC de La Possession</p>
-</td>
-<td>
-<p align="center">
-<br/>Extrémité</p>
-</td>
-<td>
-<p align="center">
-<br/>La Possession.</p>
-</td>
-<td>
-<p align="center">
-<br/>Extrémité</p>
-</td>
-<td>
-<p align="center">
-<br/>Saint-Denis.</p>
+<br/>
+<p align="center">LE MORNE-ROUGE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>974</p>
+<br/>
+<p align="center">972</p>
 </td>
 <td>
-<p align="center">
-<br/>N 4 A</p>
+<br/>
+<p align="center">N 5</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">A1 - échangeur de l'aéroport</p>
 </td>
 <td>
-<p align="center">
-<br/>Le Port.</p>
+<br/>
+<p align="center">LE LAMENTIN</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">N6</p>
 </td>
 <td>
-<p align="center">
-<br/>Le Port.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">
-<br/>974</p>
-</td>
-<td>
-<p align="center">
-<br/>N 1001</p>
-</td>
-<td>
-<p align="center">
-<br/>Extrémité</p>
-</td>
-<td>
-<p align="center">
-<br/>Le Port.</p>
-</td>
-<td>
-<p align="center">
-<br/>Extrémité</p>
-</td>
-<td>
-<p align="center">
-<br/>Le Port.</p>
+<br/>
+<p align="center">LE MARIN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>974</p>
+<br/>
+<p align="center">972</p>
 </td>
 <td>
-<p align="center">
-<br/>N 7</p>
+<br/>
+<p align="center">N9</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Pont de la rivière Monsieur</p>
 </td>
 <td>
-<p align="center">
-<br/>Le Port.</p>
+<br/>
+<p align="center">FORT-DE-FRANCE</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">A1 - échangeur Pointe des   sables</p>
 </td>
 <td>
-<p align="center">
-<br/>Le Port.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">
-<br/>974</p>
-</td>
-<td>
-<p align="center">
-<br/>N 7</p>
-</td>
-<td>
-<p align="center">
-<br/>Extrémité</p>
-</td>
-<td>
-<p align="center">
-<br/>Le Port.</p>
-</td>
-<td>
-<p align="center">
-<br/>Extrémité</p>
-</td>
-<td>
-<p align="center">
-<br/>Saint-Paul.</p>
+<br/>
+<p align="center">FORT-DE-FRANCE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>974</p>
+<br/>
+<p align="center">972</p>
 </td>
 <td>
-<p align="center">
-<br/>N 2</p>
+<br/>
+<p align="center">N 1</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">A1 - échangeur canal   Lamentin</p>
 </td>
 <td>
-<p align="center">
-<br/>Saint-Benoit.</p>
+<br/>
+<p align="center">LE LAMENTIN</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 10</p>
 </td>
 <td>
-<p align="center">
-<br/>Saint-Pierre.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">
-<br/>974</p>
-</td>
-<td>
-<p align="center">
-<br/>N 3</p>
-</td>
-<td>
-<p align="center">
-<br/>Extrémité</p>
-</td>
-<td>
-<p align="center">
-<br/>Saint-Benoit.</p>
-</td>
-<td>
-<p align="center">
-<br/>Extrémité</p>
-</td>
-<td>
-<p align="center">
-<br/>Saint-Pierre.</p>
+<br/>
+<p align="center">BASSE-POINTE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>974</p>
+<br/>
+<p align="center">972</p>
 </td>
 <td>
-<p align="center">
-<br/>N 1</p>
+<br/>
+<p align="center">N6</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">N 5 - giratoire Carrère</p>
 </td>
 <td>
-<p align="center">
-<br/>Saint-Denis.</p>
+<br/>
+<p align="center">LE LAMENTIN</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">N 5</p>
 </td>
 <td>
-<p align="center">
-<br/>Saint-Pierre.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">
-<br/>974</p>
-</td>
-<td>
-<p align="center">
-<br/>N 2</p>
-</td>
-<td>
-<p align="center">
-<br/>Extrémité</p>
-</td>
-<td>
-<p align="center">
-<br/>Saint-Denis.</p>
-</td>
-<td>
-<p align="center">
-<br/>Extrémité</p>
-</td>
-<td>
-<p align="center">
-<br/>Saint-Benoit.</p>
+<br/>
+<p align="center">LE MARIN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>974</p>
+<br/>
+<p align="center">972</p>
 </td>
 <td>
-<p align="center">
-<br/>N 1006</p>
+<br/>
+<p align="center">N 2006</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">N 1</p>
 </td>
 <td>
-<p align="center">
-<br/>Saint-Denis.</p>
+<br/>
+<p align="center">LE LAMENTIN</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">N6</p>
 </td>
 <td>
-<p align="center">
-<br/>Saint-Denis.</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">
-<br/>974</p>
-</td>
-<td>
-<p align="center">
-<br/>D 41</p>
-</td>
-<td>
-<p align="center">
-<br/>Extrémité</p>
-</td>
-<td>
-<p align="center">
-<br/>Saint-Denis.</p>
-</td>
-<td>
-<p align="center">
-<br/>Extrémité</p>
-</td>
-<td>
-<p align="center">
-<br/>La Possession.</p>
+<br/>
+<p align="center">LE FRANCOIS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>974</p>
+<br/>
+<p align="center">973</p>
 </td>
 <td>
-<p align="center">
-<br/>VC de Saint-Pierre</p>
+<br/>
+<p align="center">N 1</p>
 </td>
 <td>
-<p align="center">
-<br/>Boulevard Bank</p>
+<br/>
+<p align="center">Giratoire Galmot</p>
 </td>
 <td>
-<p align="center">
-<br/>Saint-Pierre.</p>
+<br/>
+<p align="center">CAYENNE</p>
 </td>
 <td>
-<p align="center">
-<br/>Boulevard Bank</p>
+<br/>
+<p align="center">Limite département   973/Surinam</p>
 </td>
 <td>
-<p align="center">
-<br/>Saint-Pierre.</p>
+<br/>
+<p align="center">SAINT-LAURENT-DU-MARONI</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+<p align="center">973</p>
+</td>
+<td>
+<br/>
+<p align="center">N 2</p>
+</td>
+<td>
+<br/>
+<p align="center">N 1 - giratoire Balata</p>
+</td>
+<td>
+<br/>
+<p align="center">MATOURY</p>
+</td>
+<td>
+<br/>
+<p align="center">Limite département 973/Brésil</p>
+</td>
+<td>
+<br/>
+<p align="center">SAINT-GEORGES-DE-L'OYAPOCK</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+<p align="center">973</p>
+</td>
+<td>
+<br/>
+<p align="center">exN 3</p>
+</td>
+<td>
+<br/>
+<p align="center">N 1 - giratoire Maringouins</p>
+</td>
+<td>
+<br/>
+<p align="center">CAYENNE</p>
+</td>
+<td>
+<br/>
+<p align="center">Port</p>
+</td>
+<td>
+<br/>
+<p align="center">REMIRE-MONTJOLY</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+<p align="center">973</p>
+</td>
+<td>
+<br/>
+<p align="center">exN 4</p>
+</td>
+<td>
+<br/>
+<p align="center">aéroport</p>
+</td>
+<td>
+<br/>
+<p align="center">MATOURY</p>
+</td>
+<td>
+<br/>
+<p align="center">ex N 3 </p>
+</td>
+<td>
+<br/>
+<p align="center">REMIRE-MONTJOLY</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+<p align="center">973</p>
+</td>
+<td>
+<br/>
+<p align="center">N 2001</p>
+</td>
+<td>
+<br/>
+<p align="center">N 1 - giratoire Café</p>
+</td>
+<td>
+<br/>
+<p align="center">KOUROU</p>
+</td>
+<td>
+<br/>
+<p align="center">D 16 - giratoire Carapa</p>
+</td>
+<td>
+<br/>
+<p align="center">KOUROU</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+<p align="center">974</p>
+</td>
+<td>
+<br/>
+<p align="center">VC de LA POSSESSION</p>
+</td>
+<td>
+<br/>
+<p align="center">D 41</p>
+</td>
+<td>
+<br/>
+<p align="center">LA POSSESSION</p>
+</td>
+<td>
+<br/>
+<p align="center">Echangeur N 1 Port Est</p>
+</td>
+<td>
+<br/>
+<p align="center">LA POSSESSION</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+<p align="center">974</p>
+</td>
+<td>
+<br/>
+<p align="center">N 4A</p>
+</td>
+<td>
+<br/>
+<p align="center">Port Est</p>
+</td>
+<td>
+<br/>
+<p align="center">LE PORT</p>
+</td>
+<td>
+<br/>
+<p align="center">N 7</p>
+</td>
+<td>
+<br/>
+<p align="center">LE PORT</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+<p align="center">974</p>
+</td>
+<td>
+<br/>
+<p align="center">N 1001</p>
+</td>
+<td>
+<br/>
+<p align="center">Echangeur N 1</p>
+</td>
+<td>
+<br/>
+<p align="center">LE PORT</p>
+</td>
+<td>
+<br/>
+<p align="center">N 4A</p>
+</td>
+<td>
+<br/>
+<p align="center">LE PORT</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+<p align="center">974</p>
+</td>
+<td>
+<br/>
+<p align="center">N 7</p>
+</td>
+<td>
+<br/>
+<p align="center">Echangeur N 1</p>
+</td>
+<td>
+<br/>
+<p align="center">LE PORT</p>
+</td>
+<td>
+<br/>
+<p align="center">N 4A</p>
+</td>
+<td>
+<br/>
+<p align="center">LE PORT</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+<p align="center">974</p>
+</td>
+<td>
+<br/>
+<p align="center">N 7</p>
+</td>
+<td>
+<br/>
+<p align="center">N 4A</p>
+</td>
+<td>
+<br/>
+<p align="center">LE PORT</p>
+</td>
+<td>
+<br/>
+<p align="center">Echangeur N 1</p>
+</td>
+<td>
+<br/>
+<p align="center">SAINT-PAUL</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+<p align="center">974</p>
+</td>
+<td>
+<br/>
+<p align="center">N 2</p>
+</td>
+<td>
+<br/>
+<p align="center">Giratoire N 3</p>
+</td>
+<td>
+<br/>
+<p align="center">SAINT-BENOIT</p>
+</td>
+<td>
+<br/>
+<p align="center">Extrémité</p>
+</td>
+<td>
+<br/>
+<p align="center">SAINT-PIERRE</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+<p align="center">974</p>
+</td>
+<td>
+<br/>
+<p align="center">N 3</p>
+</td>
+<td>
+<br/>
+<p align="center">Extrémité</p>
+</td>
+<td>
+<br/>
+<p align="center">SAINT-BENOIT</p>
+</td>
+<td>
+<br/>
+<p align="center">Extrémité</p>
+</td>
+<td>
+<br/>
+<p align="center">SAINT-PIERRE</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+<p align="center">974</p>
+</td>
+<td>
+<br/>
+<p align="center">N 1</p>
+</td>
+<td>
+<br/>
+<p align="center">Extrémité</p>
+</td>
+<td>
+<br/>
+<p align="center">SAINT-DENIS</p>
+</td>
+<td>
+<br/>
+<p align="center">Extrémité</p>
+</td>
+<td>
+<br/>
+<p align="center">SAINT-PIERRE</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+<p align="center">974</p>
+</td>
+<td>
+<br/>
+<p align="center">N 2</p>
+</td>
+<td>
+<br/>
+<p align="center">Extrémité</p>
+</td>
+<td>
+<br/>
+<p align="center">SAINT-DENIS</p>
+</td>
+<td>
+<br/>
+<p align="center">Giratoire N 3</p>
+</td>
+<td>
+<br/>
+<p align="center">SAINT-BENOIT</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+<p align="center">974</p>
+</td>
+<td>
+<br/>
+<p align="center">N6</p>
+</td>
+<td>
+<br/>
+<p align="center">N 1</p>
+</td>
+<td>
+<br/>
+<p align="center">SAINT-DENIS</p>
+</td>
+<td>
+<br/>
+<p align="center">N 2</p>
+</td>
+<td>
+<br/>
+<p align="center">SAINT-DENIS</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+<p align="center">974</p>
+</td>
+<td>
+<br/>
+<p align="center">D 41</p>
+</td>
+<td>
+<br/>
+<p align="center">Extrémité</p>
+</td>
+<td>
+<br/>
+<p align="center">SAINT-DENIS</p>
+</td>
+<td>
+<br/>
+<p align="center">Extrémité</p>
+</td>
+<td>
+<br/>
+<p align="center">LA POSSESSION</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+<p align="center">974</p>
+</td>
+<td>
+<br/>
+<p align="center">Boulevard Bank</p>
+</td>
+<td>
+<br/>
+<p align="center">N 3</p>
+</td>
+<td>
+<br/>
+<p align="center">SAINT-PIERRE</p>
+</td>
+<td>
+<br/>
+<p align="center">N 2</p>
+</td>
+<td>
+<br/>
+<p align="center">SAINT-PIERRE</p>
 </td>
 </tr>
 </tbody>

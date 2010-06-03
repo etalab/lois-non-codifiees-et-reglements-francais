@@ -7,6 +7,7 @@
 - [Article (21 à 29)](article-21-a-29.md)
 - [Article (30 à 34)](article-30-a-34.md)
 - [Article (34 à 38)](article-34-a-38.md)
+- [Article (35 à 38)](article-35-a-38.md)
 - [Article (39 à 44)](article-39-a-44.md)
 - [Article (45 à 50)](article-45-a-50.md)
 - [Article (51 à 59)](article-51-a-59.md)

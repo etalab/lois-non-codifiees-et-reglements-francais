@@ -1,4972 +1,5477 @@
 # Article (45 à 50)
 
-.
-
 <table>
 <tbody>
 <tr>
 <td>
+<br/>
+<p align="center">DÉPARTEMENT</p>
+</td>
+<td>
+<br/>
+<p align="center">ROUTE</p>
+</td>
+<td>
+<br/>
+<p align="center">ROUTE</p>
+<br/>
+<p align="center">de début de section</p>
+</td>
+<td>
+<br/>
+<p align="center">COMMUNE</p>
+<br/>
+<p align="center">de début de section</p>
+</td>
+<td>
+<br/>
+<p align="center">ROUTE</p>
+<br/>
+<p align="center">de fin de section</p>
+</td>
+<td>
+<br/>
+<p align="center">COMMUNE</p>
+<br/>
+<p align="center">de fin de section</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
 <p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>D 11</p>
+<br/>
+<p align="center">D 975</p>
 </td>
 <td>
-<p align="center">
-<br/>D 97</p>
+<br/>
+<p align="center">Limite département 45/77</p>
 </td>
 <td>
-<p align="center">
-<br/>ASCHERES-LE-MARCHE.</p>
+<br/>
+<p align="center">AUXY</p>
 </td>
 <td>
-<p align="center">
-<br/>D 921</p>
+<br/>
+<p align="center">D 2160</p>
 </td>
 <td>
-<p align="center">
-<br/>FAY-AUX-LOGES.</p>
+<br/>
+<p align="center">BELLEGARDE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>D 49</p>
+<br/>
+<p align="center">D 940</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 2007</p>
 </td>
 <td>
-<p align="center">
-<br/>AUTRUY-SUR-JUINE.</p>
+<br/>
+<p align="center">BOISMORAND</p>
 </td>
 <td>
-<p align="center">
-<br/>D 97</p>
+<br/>
+<p align="center">Limite département 45/18</p>
 </td>
 <td>
-<p align="center">
-<br/>PANNECIERES.</p>
+<br/>
+<p align="center">COULLONS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>D 975</p>
+<br/>
+<p align="center">D 907</p>
 </td>
 <td>
-<p align="center">
-<br/>D 403</p>
+<br/>
+<p align="center">D 48</p>
 </td>
 <td>
-<p align="center">
-<br/>AUXY.</p>
+<br/>
+<p align="center">BONNY-SUR-LOIRE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 744</p>
+<br/>
+<p align="center">D 926</p>
 </td>
 <td>
-<p align="center">
-<br/>BELLEGARDE.</p>
+<br/>
+<p align="center">BONNY-SUR-LOIRE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>D 97</p>
+<br/>
+<p align="center">D 836</p>
 </td>
 <td>
-<p align="center">
-<br/>D 927</p>
+<br/>
+<p align="center">Base militaire de Bricy</p>
 </td>
 <td>
-<p align="center">
-<br/>BAZOCHES-LES-GALLERAN.</p>
+<br/>
+<p align="center">BOULAY-LES-BARRES</p>
 </td>
 <td>
-<p align="center">
-<br/>D 11</p>
+<br/>
+<p align="center">D 955</p>
 </td>
 <td>
-<p align="center">
-<br/>ASCHERES-LE-MARCHE.</p>
+<br/>
+<p align="center">BOULAY-LES-BARRES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>D 410</p>
+<br/>
+<p align="center">D 957</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 952</p>
 </td>
 <td>
-<p align="center">
-<br/>BOESSES.</p>
+<br/>
+<p align="center">BRIARE</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 2007</p>
 </td>
 <td>
-<p align="center">
-<br/>BOESSES.</p>
+<br/>
+<p align="center">BRIARE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>D 940</p>
+<br/>
+<p align="center">D 403</p>
 </td>
 <td>
-<p align="center">
-<br/>R NIL. 7</p>
+<br/>
+<p align="center">Limite département 45/77</p>
 </td>
 <td>
-<p align="center">
-<br/>BOISMORAND.</p>
+<br/>
+<p align="center">BROMEILLES</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Limite département 45/77</p>
 </td>
 <td>
-<p align="center">
-<br/>COULLONS.</p>
+<br/>
+<p align="center">BROMEILLES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>D 907</p>
+<br/>
+<p align="center">D 952</p>
 </td>
 <td>
-<p align="center">
-<br/>D 48</p>
+<br/>
+<p align="center">D 2060</p>
 </td>
 <td>
-<p align="center">
-<br/>BONNY-SUR-LOIRE.</p>
+<br/>
+<p align="center">CHATEAUNEUF-SUR-LOIRE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 926</p>
+<br/>
+<p align="center">D 940</p>
 </td>
 <td>
-<p align="center">
-<br/>BONNY-SUR-LOIRE.</p>
+<br/>
+<p align="center">GIEN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>D 926</p>
+<br/>
+<p align="center">D 44</p>
 </td>
 <td>
-<p align="center">
-<br/>D 907</p>
+<br/>
+<p align="center">VC de desserte du camp   militaire</p>
 </td>
 <td>
-<p align="center">
-<br/>BONNY-SUR-LOIRE.</p>
+<br/>
+<p align="center">GIEN</p>
 </td>
 <td>
-<p align="center">
-<br/>RNIL. 7</p>
+<br/>
+<p align="center">D 952</p>
 </td>
 <td>
-<p align="center">
-<br/>BONNY-SUR-LOIRE.</p>
+<br/>
+<p align="center">GIEN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>D 836</p>
+<br/>
+<p align="center">D 941</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Avenue des Montoires</p>
 </td>
 <td>
-<p align="center">
-<br/>BOULAY-LES-BARRES.</p>
+<br/>
+<p align="center">GIEN</p>
 </td>
 <td>
-<p align="center">
-<br/>D 955</p>
+<br/>
+<p align="center">D 940</p>
 </td>
 <td>
-<p align="center">
-<br/>BOULAY-LES-BARRES.</p>
+<br/>
+<p align="center">POILLY-LEZ-GIEN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>D 957</p>
+<br/>
+<p align="center">D 952</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 940</p>
 </td>
 <td>
-<p align="center">
-<br/>BRIARE.</p>
+<br/>
+<p align="center">GIEN</p>
 </td>
 <td>
-<p align="center">
-<br/>RNIL. 20</p>
+<br/>
+<p align="center">D 957</p>
 </td>
 <td>
-<p align="center">
-<br/>BRIARE.</p>
+<br/>
+<p align="center">GIEN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>D 403</p>
+<br/>
+<p align="center">D 953</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 952</p>
 </td>
 <td>
-<p align="center">
-<br/>BROMEILLES.</p>
+<br/>
+<p align="center">OUZOUER-SUR-LOIRE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 410</p>
+<br/>
+<p align="center">Voie de la Tabarderie</p>
 </td>
 <td>
-<p align="center">
-<br/>BROMEILLES.</p>
+<br/>
+<p align="center">DAMPIERRE-EN-BURLY</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>D 952</p>
+<br/>
+<p align="center">D 51</p>
 </td>
 <td>
-<p align="center">
-<br/>RNIL. 60</p>
+<br/>
+<p align="center">D 59</p>
 </td>
 <td>
-<p align="center">
-<br/>CHATEAUNEUF-SUR-LOIRE.</p>
+<br/>
+<p align="center">ISDES</p>
 </td>
 <td>
-<p align="center">
-<br/>D 940</p>
+<br/>
+<p align="center">D 948</p>
 </td>
 <td>
-<p align="center">
-<br/>GIEN.</p>
+<br/>
+<p align="center">CERDON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>D 921</p>
+<br/>
+<p align="center">D 950</p>
 </td>
 <td>
-<p align="center">
-<br/>D 11</p>
+<br/>
+<p align="center">D 975</p>
 </td>
 <td>
-<p align="center">
-<br/>FAY-AUX-LOGES.</p>
+<br/>
+<p align="center">JURANVILLE</p>
 </td>
 <td>
-<p align="center">
-<br/>RNIL. 20</p>
+<br/>
+<p align="center">D   2160</p>
 </td>
 <td>
-<p align="center">
-<br/>LA FERTE-SAINT-AUBIN.</p>
+<br/>
+<p align="center">LADON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>D 44</p>
+<br/>
+<p align="center">D 41</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 2007</p>
 </td>
 <td>
-<p align="center">
-<br/>GIEN.</p>
+<br/>
+<p align="center">NOGENT-SUR-VERNISSON</p>
 </td>
 <td>
-<p align="center">
-<br/>D 941</p>
+<br/>
+<p align="center">D 56</p>
 </td>
 <td>
-<p align="center">
-<br/>GIEN.</p>
+<br/>
+<p align="center">SAINTE-GENEVIEVE-DES-BOIS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>D 622</p>
+<br/>
+<p align="center">D 14</p>
 </td>
 <td>
-<p align="center">
-<br/>D 940</p>
+<br/>
+<p align="center">D   2020</p>
 </td>
 <td>
-<p align="center">
-<br/>GIEN.</p>
+<br/>
+<p align="center">OLIVET</p>
 </td>
 <td>
-<p align="center">
-<br/>D 952</p>
+<br/>
+<p align="center">D 13</p>
 </td>
 <td>
-<p align="center">
-<br/>GIEN.</p>
+<br/>
+<p align="center">MARCILLY-EN-VILLETTE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>D 941</p>
+<br/>
+<p align="center">D   168</p>
 </td>
 <td>
-<p align="center">
-<br/>D 952</p>
+<br/>
+<p align="center">D   2271</p>
 </td>
 <td>
-<p align="center">
-<br/>GIEN.</p>
+<br/>
+<p align="center">OLIVET</p>
 </td>
 <td>
-<p align="center">
-<br/>D 940</p>
+<br/>
+<p align="center">Base militaire</p>
 </td>
 <td>
-<p align="center">
-<br/>POILLY-LEZ-GIEN.</p>
+<br/>
+<p align="center">ARDON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>D 952</p>
+<br/>
+<p align="center">D 955</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 2157</p>
 </td>
 <td>
-<p align="center">
-<br/>GIEN.</p>
+<br/>
+<p align="center">ORMES</p>
 </td>
 <td>
-<p align="center">
-<br/>D 957</p>
+<br/>
+<p align="center">Limite département 45/28</p>
 </td>
 <td>
-<p align="center">
-<br/>GIEN.</p>
+<br/>
+<p align="center">VILLAMBLAIN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>D 953</p>
+<br/>
+<p align="center">D 950</p>
 </td>
 <td>
-<p align="center">
-<br/>D 952</p>
+<br/>
+<p align="center">D 921</p>
 </td>
 <td>
-<p align="center">
-<br/>GIEN.</p>
+<br/>
+<p align="center">DADONVILLE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 652</p>
+<br/>
+<p align="center">D 975</p>
 </td>
 <td>
-<p align="center">
-<br/>NEVOY.</p>
+<br/>
+<p align="center">JURANVILLE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>D 51</p>
+<br/>
+<p align="center">D 928</p>
 </td>
 <td>
-<p align="center">
-<br/>D 59</p>
+<br/>
+<p align="center">D 921</p>
 </td>
 <td>
-<p align="center">
-<br/>ISDES.</p>
+<br/>
+<p align="center">PITHIVIERS</p>
 </td>
 <td>
-<p align="center">
-<br/>D 948</p>
+<br/>
+<p align="center">D 950</p>
 </td>
 <td>
-<p align="center">
-<br/>CERDON.</p>
+<br/>
+<p align="center">DADONVILLE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>D 59</p>
+<br/>
+<p align="center">D 2020</p>
 </td>
 <td>
-<p align="center">
-<br/>D 83</p>
+<br/>
+<p align="center">Limite département 45/28</p>
 </td>
 <td>
-<p align="center">
-<br/>ISDES.</p>
+<br/>
+<p align="center">TIVERNON</p>
 </td>
 <td>
-<p align="center">
-<br/>D 51</p>
+<br/>
+<p align="center">Limite département 45/28</p>
 </td>
 <td>
-<p align="center">
-<br/>ISDES.</p>
+<br/>
+<p align="center">TIVERNON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>D 950</p>
+<br/>
+<p align="center">D 921</p>
 </td>
 <td>
-<p align="center">
-<br/>D 975</p>
+<br/>
+<p align="center">Limite département 45/91</p>
 </td>
 <td>
-<p align="center">
-<br/>JURANVILLE.</p>
+<br/>
+<p align="center">ROUVRES-SAINT-JEAN</p>
 </td>
 <td>
-<p align="center">
-<br/>RNIL. 2060</p>
+<br/>
+<p align="center">D 928</p>
 </td>
 <td>
-<p align="center">
-<br/>LADON.</p>
+<br/>
+<p align="center">PITHIVIERS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>D 951</p>
+<br/>
+<p align="center">D 56</p>
 </td>
 <td>
-<p align="center">
-<br/>D 19</p>
+<br/>
+<p align="center">D 456</p>
 </td>
 <td>
-<p align="center">
-<br/>LAILLY-EN-VAL.</p>
+<br/>
+<p align="center">SAINTE-GENEVIEVE-DES-BOIS</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 41</p>
 </td>
 <td>
-<p align="center">
-<br/>LAILLY-EN-VAL.</p>
+<br/>
+<p align="center">SAINTE-GENEVIEVE-DES-BOIS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>D 15</p>
+<br/>
+<p align="center">D 93</p>
 </td>
 <td>
-<p align="center">
-<br/>D 19</p>
+<br/>
+<p align="center">D 56</p>
 </td>
 <td>
-<p align="center">
-<br/>LIGNY-LE-RIBAULT.</p>
+<br/>
+<p align="center">SAINTE-GENEVIEVE-DES-BOIS</p>
 </td>
 <td>
-<p align="center">
-<br/>D 61</p>
+<br/>
+<p align="center">Limite département 45/89</p>
 </td>
 <td>
-<p align="center">
-<br/>LIGNY-LE-RIBAULT.</p>
+<br/>
+<p align="center">DAMMARIE-SUR-LOING</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>D 41</p>
+<br/>
+<p align="center">D 960</p>
 </td>
 <td>
-<p align="center">
-<br/>RNIL. 7</p>
+<br/>
+<p align="center">D 2152</p>
 </td>
 <td>
-<p align="center">
-<br/>NOGENT-SUR-VERNISSON.</p>
+<br/>
+<p align="center">SAINT-JEAN-DE-BRAYE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 56</p>
+<br/>
+<p align="center">D 2460</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINTE-GENEVIEVE-DES-BOIS.</p>
+<br/>
+<p align="center">CHATEAUNEUF-SUR-LOIRE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>D 14</p>
+<br/>
+<p align="center">Rue de la Mouchetière</p>
 </td>
 <td>
-<p align="center">
-<br/>RNIL. 20</p>
+<br/>
+<p align="center">Rue Henri Dunant</p>
 </td>
 <td>
-<p align="center">
-<br/>OLIVET.</p>
+<br/>
+<p align="center">SAINT-JEAN-DE-LA-RUELLE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 13</p>
+<br/>
+<p align="center">Rue des Petits Osiers</p>
 </td>
 <td>
-<p align="center">
-<br/>MARCILLY-EN-VILLETTE.</p>
+<br/>
+<p align="center">SAINT-JEAN-DE-LA-RUELLE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>D 168</p>
+<br/>
+<p align="center">Rue de la Batardière</p>
 </td>
 <td>
-<p align="center">
-<br/>RNIL. 271</p>
+<br/>
+<p align="center">Rue Henri Dunant</p>
 </td>
 <td>
-<p align="center">
-<br/>OLIVET.</p>
+<br/>
+<p align="center">SAINT-JEAN-DE-LA-RUELLE</p>
 </td>
 <td>
-<p align="center">
-<br/>Route d'Ardon</p>
+<br/>
+<p align="center">Rue des Marchais</p>
 </td>
 <td>
-<p align="center">
-<br/>ARDON.</p>
+<br/>
+<p align="center">SAINT-JEAN-DE-LA-RUELLE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>D 955</p>
+<br/>
+<p align="center">D 13</p>
 </td>
 <td>
-<p align="center">
-<br/>RNIL. 157</p>
+<br/>
+<p align="center">D 951</p>
 </td>
 <td>
-<p align="center">
-<br/>ORMES.</p>
+<br/>
+<p align="center">SANDILLON</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 83</p>
 </td>
 <td>
-<p align="center">
-<br/>VILLAMBLAIN.</p>
+<br/>
+<p align="center">VANNES-SUR-COSSON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>D 953</p>
+<br/>
+<p align="center">D 951</p>
 </td>
 <td>
-<p align="center">
-<br/>D 952</p>
+<br/>
+<p align="center">D 13</p>
 </td>
 <td>
-<p align="center">
-<br/>OUZOUER-SUR-LOIRE.</p>
+<br/>
+<p align="center">SANDILLON</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Avenue du Traité de Rome</p>
 </td>
 <td>
-<p align="center">
-<br/>DAMPIERRE-EN-BURLY.</p>
+<br/>
+<p align="center">SAINT-PRYVE-SAINT-MESMIN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>D 950</p>
+<br/>
+<p align="center">D 520</p>
 </td>
 <td>
-<p align="center">
-<br/>D 921</p>
+<br/>
+<p align="center">D 2020</p>
 </td>
 <td>
-<p align="center">
-<br/>PITHIVIERS.</p>
+<br/>
+<p align="center">SARAN</p>
 </td>
 <td>
-<p align="center">
-<br/>D 975</p>
+<br/>
+<p align="center">D 2157</p>
 </td>
 <td>
-<p align="center">
-<br/>MEZIERES-EN-GATINAIS.</p>
+<br/>
+<p align="center">SAINT-JEAN-DE-LA-RUELLE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>D 921</p>
+<br/>
+<p align="center">D 951</p>
 </td>
 <td>
-<p align="center">
-<br/>RNIL. 152</p>
+<br/>
+<p align="center">D 948</p>
 </td>
 <td>
-<p align="center">
-<br/>PITHIVIERS.</p>
+<br/>
+<p align="center">SULLY-SUR-LOIRE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 950</p>
+<br/>
+<p align="center">D 941</p>
 </td>
 <td>
-<p align="center">
-<br/>DADONVILLE.</p>
+<br/>
+<p align="center">GIEN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>D 928</p>
+<br/>
+<p align="center">D 951</p>
 </td>
 <td>
-<p align="center">
-<br/>D 921</p>
+<br/>
+<p align="center">D 948</p>
 </td>
 <td>
-<p align="center">
-<br/>PITHIVIERS.</p>
+<br/>
+<p align="center">SULLY-SUR-LOIRE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 950</p>
+<br/>
+<p align="center">D 14</p>
 </td>
 <td>
-<p align="center">
-<br/>PITHIVIERS-LE-VIEIL.</p>
+<br/>
+<p align="center">TIGY</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>RNIL. 20</p>
+<br/>
+<p align="center">D   948</p>
 </td>
 <td>
-<p align="center">
-<br/>RNIL. 154</p>
+<br/>
+<p align="center">D 2060</p>
 </td>
 <td>
-<p align="center">
-<br/>ARTENAY.</p>
+<br/>
+<p align="center">SURY-AUX-BOIS</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 952</p>
 </td>
 <td>
-<p align="center">
-<br/>LA FERTE-SAINT-AUBIN.</p>
+<br/>
+<p align="center">BRAY-EN-VAL</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>D 921</p>
+<br/>
+<p align="center">D 927</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Limite département 45/28</p>
 </td>
 <td>
-<p align="center">
-<br/>ROUVRES-SAINT-JEAN.</p>
+<br/>
+<p align="center">CHAUSSY</p>
 </td>
 <td>
-<p align="center">
-<br/>RNIL. 152</p>
+<br/>
+<p align="center">D 928</p>
 </td>
 <td>
-<p align="center">
-<br/>PITHIVIERS.</p>
+<br/>
+<p align="center">PITHIVIERS-LE-VIEIL</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>D 456</p>
+<br/>
+<p align="center">D 83</p>
 </td>
 <td>
-<p align="center">
-<br/>D 56</p>
+<br/>
+<p align="center">D 13</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINTE-GENEVIEVE-DES-BOIS.</p>
+<br/>
+<p align="center">VANNES-SUR-COSSON</p>
 </td>
 <td>
-<p align="center">
-<br/>D 93</p>
+<br/>
+<p align="center">D 59</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINTE-GENEVIEVE-DES-BOIS.</p>
+<br/>
+<p align="center">ISDES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>D 56</p>
+<br/>
+<p align="center">D 14</p>
 </td>
 <td>
-<p align="center">
-<br/>D 456</p>
+<br/>
+<p align="center">D 921</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINTE-GENEVIEVE-DES-BOIS.</p>
+<br/>
+<p align="center">VIENNE-EN-VAL</p>
 </td>
 <td>
-<p align="center">
-<br/>D 41</p>
+<br/>
+<p align="center">D 13</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINTE-GENEVIEVE-DES-BOIS.</p>
+<br/>
+<p align="center">MARCILLY-EN-VILLETTE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>D 93</p>
+<br/>
+<p align="center">D 14</p>
 </td>
 <td>
-<p align="center">
-<br/>D 56</p>
+<br/>
+<p align="center">D 921</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINTE-GENEVIEVE-DES-BOIS.</p>
+<br/>
+<p align="center">VIENNE-EN-VAL</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 951</p>
 </td>
 <td>
-<p align="center">
-<br/>DAMMARIE-SUR-LOING.</p>
+<br/>
+<p align="center">TIGY</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>D 960</p>
+<br/>
+<p align="center">Avenue du Traité de Rome</p>
 </td>
 <td>
-<p align="center">
-<br/>RNIL. 152</p>
+<br/>
+<p align="center">Rue Gaston Deffié</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-JEAN-DE-BRAYE.</p>
+<br/>
+<p align="center">LA CHAPELLE-SAINT-MESMIN</p>
 </td>
 <td>
-<p align="center">
-<br/>D 962</p>
+<br/>
+<p align="center">D 951</p>
 </td>
 <td>
-<p align="center">
-<br/>CHATEAUNEUF-SUR-LOIRE.</p>
+<br/>
+<p align="center">LA CHAPELLE-SAINT-MESMIN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue de la mouchetière</p>
+<br/>
+<p align="center">Boulevard Alexandre Martin</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue Henri-Dunant</p>
+<br/>
+<p align="center">Boulevard P. Ségelle</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-JEAN-DE-LA-RUELLE.</p>
+<br/>
+<p align="center">ORLEANS</p>
 </td>
 <td>
-<p align="center">
-<br/>Route des Petits-Osiers</p>
+<br/>
+<p align="center">Boulevard   Verdun</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-JEAN-DE-LA-RUELLE.</p>
+<br/>
+<p align="center">ORLEANS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue de la batardière</p>
+<br/>
+<p align="center">Boulevard P. Ségelle</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue Henri-Dunant</p>
+<br/>
+<p align="center">Boulevard Alexandre Martin</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-JEAN-DE-LA-RUELLE.</p>
+<br/>
+<p align="center">ORLEANS</p>
 </td>
 <td>
-<p align="center">
-<br/>Tangentielle ouest</p>
+<br/>
+<p align="center">Boulevard Sainte Euverte</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-JEAN-DE-LA-RUELLE.</p>
+<br/>
+<p align="center">ORLEANS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>D 13</p>
+<br/>
+<p align="center">Boulevard Rocheplatte</p>
 </td>
 <td>
-<p align="center">
-<br/>D 951</p>
+<br/>
+<p align="center">Boulevard Jean Jaurès</p>
 </td>
 <td>
-<p align="center">
-<br/>SANDILLON.</p>
+<br/>
+<p align="center">ORLEANS</p>
 </td>
 <td>
-<p align="center">
-<br/>D 83</p>
+<br/>
+<p align="center">Boulevard   Verdun</p>
 </td>
 <td>
-<p align="center">
-<br/>VANNES-SUR-COSSON.</p>
+<br/>
+<p align="center">ORLEANS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>D 951</p>
+<br/>
+<p align="center">Boulevard Sainte Euverte</p>
 </td>
 <td>
-<p align="center">
-<br/>D 13</p>
+<br/>
+<p align="center">Boulevard P. Ségelle</p>
 </td>
 <td>
-<p align="center">
-<br/>SANDILLON.</p>
+<br/>
+<p align="center">ORLEANS</p>
 </td>
 <td>
-<p align="center">
-<br/>Avenue du Traité-de-Rome</p>
+<br/>
+<p align="center">Rue du Faubourg de Bourgogne</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-PRYVE-SAINT-MESMIN.</p>
+<br/>
+<p align="center">ORLEANS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>D 520</p>
+<br/>
+<p align="center">Rue du Faubourg de Bourgogne</p>
 </td>
 <td>
-<p align="center">
-<br/>RNIL. 20</p>
+<br/>
+<p align="center">Boulevard Sainte Euverte</p>
 </td>
 <td>
-<p align="center">
-<br/>SARAN.</p>
+<br/>
+<p align="center">ORLEANS</p>
 </td>
 <td>
-<p align="center">
-<br/>RNIL. 157</p>
+<br/>
+<p align="center">D   2152</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-JEAN-DE-LA-RUELLE.</p>
+<br/>
+<p align="center">ORLEANS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>D 951</p>
+<br/>
+<p align="center">Liaison Ormes-Saran</p>
 </td>
 <td>
-<p align="center">
-<br/>D 948</p>
+<br/>
+<p align="center">D 955</p>
 </td>
 <td>
-<p align="center">
-<br/>SULLY-SUR-LOIRE.</p>
+<br/>
+<p align="center">ORMES</p>
 </td>
 <td>
-<p align="center">
-<br/>D 941</p>
+<br/>
+<p align="center">D 2701</p>
 </td>
 <td>
-<p align="center">
-<br/>GIEN.</p>
+<br/>
+<p align="center">SARAN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>D 951</p>
+<br/>
+<p align="center">D 2154</p>
 </td>
 <td>
-<p align="center">
-<br/>D 948</p>
+<br/>
+<p align="center">Limite département 45/28</p>
 </td>
 <td>
-<p align="center">
-<br/>SULLY-SUR-LOIRE.</p>
+<br/>
+<p align="center">ARTENAY</p>
 </td>
 <td>
-<p align="center">
-<br/>D 14</p>
+<br/>
+<p align="center">D 2020</p>
 </td>
 <td>
-<p align="center">
-<br/>TIGY.</p>
+<br/>
+<p align="center">ARTENAY</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>D 948</p>
+<br/>
+<p align="center">D 2157</p>
 </td>
 <td>
-<p align="center">
-<br/>RNIL. 60</p>
+<br/>
+<p align="center">Limite département 45/41</p>
 </td>
 <td>
-<p align="center">
-<br/>SURY-AUX-BOIS.</p>
+<br/>
+<p align="center">CHARSONVILLE</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 520</p>
 </td>
 <td>
-<p align="center">
-<br/>CERDON.</p>
+<br/>
+<p align="center">SAINT-JEAN-DE-LA-RUELLE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>D 927</p>
+<br/>
+<p align="center">D   2160</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D   950</p>
 </td>
 <td>
-<p align="center">
-<br/>TIVERNON.</p>
+<br/>
+<p align="center">LADON</p>
 </td>
 <td>
-<p align="center">
-<br/>D 928</p>
+<br/>
+<p align="center">D 2060</p>
 </td>
 <td>
-<p align="center">
-<br/>PITHIVIERS-LE-VIEIL.</p>
+<br/>
+<p align="center">CHEVILLON-SUR-HUILLARD</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>D 83</p>
+<br/>
+<p align="center">D   2107</p>
 </td>
 <td>
-<p align="center">
-<br/>D 13</p>
+<br/>
+<p align="center">D   952</p>
 </td>
 <td>
-<p align="center">
-<br/>VANNES-SUR-COSSON.</p>
+<br/>
+<p align="center">BRIARE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 59</p>
+<br/>
+<p align="center">D   957</p>
 </td>
 <td>
-<p align="center">
-<br/>ISDES.</p>
+<br/>
+<p align="center">BRIARE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>D 14</p>
+<br/>
+<p align="center">D   2271</p>
 </td>
 <td>
-<p align="center">
-<br/>D 921</p>
+<br/>
+<p align="center">D   2020</p>
 </td>
 <td>
-<p align="center">
-<br/>VIENNE-EN-VAL.</p>
+<br/>
+<p align="center">OLIVET</p>
 </td>
 <td>
-<p align="center">
-<br/>D 13</p>
+<br/>
+<p align="center">A 71</p>
 </td>
 <td>
-<p align="center">
-<br/>MARCILLY-EN-VILLETTE.</p>
+<br/>
+<p align="center">OLIVET</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>D 14</p>
+<br/>
+<p align="center">D   2460</p>
 </td>
 <td>
-<p align="center">
-<br/>D 921</p>
+<br/>
+<p align="center">D 952</p>
 </td>
 <td>
-<p align="center">
-<br/>VIENNE-EN-VAL.</p>
+<br/>
+<p align="center">CHATEUNEUF-SUR-LOIRE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 951</p>
+<br/>
+<p align="center">D 960</p>
 </td>
 <td>
-<p align="center">
-<br/>TIGY.</p>
+<br/>
+<p align="center">CHATEUNEUF-SUR-LOIRE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>Avenue du Traité-de-Rome</p>
+<br/>
+<p align="center">D 2060</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue Gaston-Deffié</p>
+<br/>
+<p align="center">Limite département 45/89</p>
 </td>
 <td>
-<p align="center">
-<br/>LA-CHAPELLE-SAINT-MESMIN.</p>
+<br/>
+<p align="center">COURTENAY</p>
 </td>
 <td>
-<p align="center">
-<br/>D 951</p>
+<br/>
+<p align="center">tangentielle est</p>
 </td>
 <td>
-<p align="center">
-<br/>LA-CHAPELLE-SAINT-MESMIN.</p>
+<br/>
+<p align="center">SEMOY</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>Avenue Georges Pompidou</p>
+<br/>
+<p align="center">D 2007</p>
 </td>
 <td>
-<p align="center">
-<br/>RNIL. 152</p>
+<br/>
+<p align="center">Limite département 45/77</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-JEAN-DE-LA-RUELLE.</p>
+<br/>
+<p align="center">DORDIVES</p>
 </td>
 <td>
-<p align="center">
-<br/>Avenue Mendès-France</p>
+<br/>
+<p align="center">Limite département 45/58</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-JEAN-DE-LA-RUELLE.</p>
+<br/>
+<p align="center">BONNY-SUR-LOIRE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>Avenue Mendès-France</p>
+<br/>
+<p align="center">D 2701</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue de Chaingy</p>
+<br/>
+<p align="center">A10</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-JEAN-DE-LA-RUELLE.</p>
+<br/>
+<p align="center">SARAN</p>
 </td>
 <td>
-<p align="center">
-<br/>Tangentielle ouest</p>
+<br/>
+<p align="center">D 2020</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-JEAN-DE-LA-RUELLE.</p>
+<br/>
+<p align="center">SARAN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>Boulevard Alexandre-Martin</p>
+<br/>
+<p align="center">Route d'Orléans</p>
 </td>
 <td>
-<p align="center">
-<br/>Boulevard Rocheplate</p>
+<br/>
+<p align="center">D 952</p>
 </td>
 <td>
-<p align="center">
-<br/>ORLEANS.</p>
+<br/>
+<p align="center">GIEN</p>
 </td>
 <td>
-<p align="center">
-<br/>Boulevard Aristide-Briand</p>
+<br/>
+<p align="center">D 952</p>
 </td>
 <td>
-<p align="center">
-<br/>ORLEANS.</p>
+<br/>
+<p align="center">GIEN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>Boulevard Aristide-Briand</p>
+<br/>
+<p align="center">Rue de Chaingy</p>
 </td>
 <td>
-<p align="center">
-<br/>Boulevard Alexandre-Martin</p>
+<br/>
+<p align="center">D 2552</p>
 </td>
 <td>
-<p align="center">
-<br/>ORLEANS.</p>
+<br/>
+<p align="center">SAINT-JEAN-DE-LA-RUELLE</p>
 </td>
 <td>
-<p align="center">
-<br/>Boulevard Sainte-Euverte</p>
+<br/>
+<p align="center">tangentielle ouest</p>
 </td>
 <td>
-<p align="center">
-<br/>ORLEANS.</p>
+<br/>
+<p align="center">SAINT-JEAN-DE-LA-RUELLE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>Boulevard Rocheplate</p>
+<br/>
+<p align="center">Rue des Petits Osiers</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue du Faubourg-Madeleine</p>
+<br/>
+<p align="center">D 2157</p>
 </td>
 <td>
-<p align="center">
-<br/>ORLEANS.</p>
+<br/>
+<p align="center">SAINT-JEAN-DE-LA-RUELLE</p>
 </td>
 <td>
-<p align="center">
-<br/>Boulevard Alexandre-Martin</p>
+<br/>
+<p align="center">Rue de la Mouchetiere</p>
 </td>
 <td>
-<p align="center">
-<br/>ORLEANS.</p>
+<br/>
+<p align="center">SAINT-JEAN-DE-LA-RUELLE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>Boulevard Sainte-Euverte</p>
+<br/>
+<p align="center">Rue Gaston Deffié</p>
 </td>
 <td>
-<p align="center">
-<br/>Boulevard Aristide-Briand</p>
+<br/>
+<p align="center">Pont de l'Europe</p>
 </td>
 <td>
-<p align="center">
-<br/>ORLEANS.</p>
+<br/>
+<p align="center">LA CHAPELLE-SAINT-MESMIN</p>
 </td>
 <td>
-<p align="center">
-<br/>Faubourg de Bourgogne</p>
+<br/>
+<p align="center">Avenue du Traité de Rome</p>
 </td>
 <td>
-<p align="center">
-<br/>ORLEANS.</p>
+<br/>
+<p align="center">ORLEANS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>faubourg de Bourgogne</p>
+<br/>
+<p align="center">D 2552</p>
 </td>
 <td>
-<p align="center">
-<br/>Boulevard Sainte-Euverte</p>
+<br/>
+<p align="center">Tangentielle ouest</p>
 </td>
 <td>
-<p align="center">
-<br/>ORLEANS.</p>
+<br/>
+<p align="center">SAINT-JEAN-DE-LA-RUELLE</p>
 </td>
 <td>
-<p align="center">
-<br/>RNIL. 152</p>
+<br/>
+<p align="center">D 2152</p>
 </td>
 <td>
-<p align="center">
-<br/>ORLEANS.</p>
+<br/>
+<p align="center">LA CHAPELLE-SAINT-MESMIN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>liaison Ormes-Saran</p>
+<br/>
+<p align="center">D 2020</p>
 </td>
 <td>
-<p align="center">
-<br/>D 955</p>
+<br/>
+<p align="center">Limite département 45/28</p>
 </td>
 <td>
-<p align="center">
-<br/>ORMES.</p>
+<br/>
+<p align="center">RUAN</p>
 </td>
 <td>
-<p align="center">
-<br/>RNIL. 701</p>
+<br/>
+<p align="center">tangentielle est</p>
 </td>
 <td>
-<p align="center">
-<br/>SARAN.</p>
+<br/>
+<p align="center">SARAN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>RNIL. 152</p>
+<br/>
+<p align="center">D 2020</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 2152</p>
 </td>
 <td>
-<p align="center">
-<br/>MALESHERBES.</p>
+<br/>
+<p align="center">ORLEANS</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Limite département 45/41</p>
 </td>
 <td>
-<p align="center">
-<br/>TAVERS.</p>
+<br/>
+<p align="center">LA FERTE-SAINT-AUBIN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>RNIL. 154</p>
+<br/>
+<p align="center">D 2152</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Limite département 45/77</p>
 </td>
 <td>
-<p align="center">
-<br/>ARTENAY.</p>
+<br/>
+<p align="center">MALESHERBES</p>
 </td>
 <td>
-<p align="center">
-<br/>RNIL. 20</p>
+<br/>
+<p align="center">D 921</p>
 </td>
 <td>
-<p align="center">
-<br/>ARTENAY.</p>
+<br/>
+<p align="center">PITHIVIERS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>RNIL. 157</p>
+<br/>
+<p align="center">D 2152</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 928</p>
 </td>
 <td>
-<p align="center">
-<br/>CHARSON-VILLE.</p>
+<br/>
+<p align="center">PITHIVIERS-LE-VIEIL</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 960</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-JEAN-DE-LA-RUELLE.</p>
+<br/>
+<p align="center">SAINT-JEAN-DE-BRAYE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>RNIL. 20</p>
+<br/>
+<p align="center">D   2152</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D   2020</p>
 </td>
 <td>
-<p align="center">
-<br/>SARAN.</p>
+<br/>
+<p align="center">ORLEANS</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Limite département 45/41</p>
 </td>
 <td>
-<p align="center">
-<br/>FLEURY-LES-AUBRAY.</p>
+<br/>
+<p align="center">TAVERS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>RNIL. 20</p>
+<br/>
+<p align="center">VC de la Tabarderie</p>
 </td>
 <td>
-<p align="center">
-<br/>RNIL. 154</p>
+<br/>
+<p align="center">D 953</p>
 </td>
 <td>
-<p align="center">
-<br/>ARTENAY.</p>
+<br/>
+<p align="center">DAMPIERRE-EN-BURLY</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 952</p>
 </td>
 <td>
-<p align="center">
-<br/>LA-FERTE-SAINT-AUBIN.</p>
+<br/>
+<p align="center">DAMPIERRE-EN-BURLY</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>RNIL. 2060</p>
+<br/>
+<p align="center">VC tangentielle est</p>
 </td>
 <td>
-<p align="center">
-<br/>D 950</p>
+<br/>
+<p align="center">D 2060</p>
 </td>
 <td>
-<p align="center">
-<br/>LADON.</p>
+<br/>
+<p align="center">SEMOY</p>
 </td>
 <td>
-<p align="center">
-<br/>RNIL. 60</p>
+<br/>
+<p align="center">D 2020</p>
 </td>
 <td>
-<p align="center">
-<br/>CHEVILLON-SUR-HUILLARD.</p>
+<br/>
+<p align="center">SARAN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>RNIL. 2007</p>
+<br/>
+<p align="center">Rue des Montoires</p>
 </td>
 <td>
-<p align="center">
-<br/>D 952</p>
+<br/>
+<p align="center">D 940</p>
 </td>
 <td>
-<p align="center">
-<br/>BRIARE.</p>
+<br/>
+<p align="center">GIEN</p>
 </td>
 <td>
-<p align="center">
-<br/>D 957</p>
+<br/>
+<p align="center">Route d'Orléans</p>
 </td>
 <td>
-<p align="center">
-<br/>BRIARE.</p>
+<br/>
+<p align="center">GIEN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>RNIL. 271</p>
+<br/>
+<p align="center">tangentielle ouest</p>
 </td>
 <td>
-<p align="center">
-<br/>RNIL. 20</p>
+<br/>
+<p align="center">RD 2157</p>
 </td>
 <td>
-<p align="center">
-<br/>OLIVET.</p>
+<br/>
+<p align="center">SAINT-JEAN-DE-LA-RUELLE</p>
 </td>
 <td>
-<p align="center">
-<br/>A71</p>
+<br/>
+<p align="center">RD 2152</p>
 </td>
 <td>
-<p align="center">
-<br/>OLIVET.</p>
+<br/>
+<p align="center">SAINT-JEAN-DE-LA-RUELLE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>RNIL. 460</p>
+<br/>
+<p align="center">Boulevard Jean Jaurès</p>
 </td>
 <td>
-<p align="center">
-<br/>D 952</p>
+<br/>
+<p align="center">RD   2152</p>
 </td>
 <td>
-<p align="center">
-<br/>CHATEUNEUF-SUR-LOIRE.</p>
+<br/>
+<p align="center">ORLEANS</p>
 </td>
 <td>
-<p align="center">
-<br/>D 960</p>
+<br/>
+<p align="center">Boulevard   Rocheplatte</p>
 </td>
 <td>
-<p align="center">
-<br/>CHATEUNEUF-SUR-LOIRE.</p>
+<br/>
+<p align="center">ORLEANS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>RNIL. 60</p>
+<br/>
+<p align="center">Boulevard Verdun</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Boulevard Rocheplatte</p>
 </td>
 <td>
-<p align="center">
-<br/>COURTENAY.</p>
+<br/>
+<p align="center">ORLEANS</p>
 </td>
 <td>
-<p align="center">
-<br/>Tangentielle ouest</p>
+<br/>
+<p align="center">Boulevard Alexandre Martin</p>
 </td>
 <td>
-<p align="center">
-<br/>SEMOY.</p>
+<br/>
+<p align="center">ORLEANS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">45</p>
 </td>
 <td>
-<p align="center">
-<br/>RNIL. 7</p>
+<br/>
+<p align="center">D   2160</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D   975</p>
 </td>
 <td>
-<p align="center">
-<br/>DORDIVES.</p>
+<br/>
+<p align="center">BELLEGARDE</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 2060</p>
 </td>
 <td>
-<p align="center">
-<br/>BONNY-SUR-LOIRE.</p>
+<br/>
+<p align="center">SURY-AUX-BOIS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">46</p>
 </td>
 <td>
-<p align="center">
-<br/>RNIL. 720</p>
+<br/>
+<p align="center">D 820</p>
 </td>
 <td>
-<p align="center">
-<br/>A10</p>
+<br/>
+<p align="center">Limite département 46/19</p>
 </td>
 <td>
-<p align="center">
-<br/>SARAN.</p>
+<br/>
+<p align="center">CRESSENSAC</p>
 </td>
 <td>
-<p align="center">
-<br/>RNIL. 20</p>
+<br/>
+<p align="center">Limite département 46/82</p>
 </td>
 <td>
-<p align="center">
-<br/>SARAN.</p>
+<br/>
+<p align="center">SAINT-PAUL-DE-LOUBRESSAC</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">46</p>
 </td>
 <td>
-<p align="center">
-<br/>route d'Orléans</p>
+<br/>
+<p align="center">D 802</p>
 </td>
 <td>
-<p align="center">
-<br/>D 952</p>
+<br/>
+<p align="center">D 840</p>
 </td>
 <td>
-<p align="center">
-<br/>GIEN.</p>
+<br/>
+<p align="center">FIGEAC</p>
 </td>
 <td>
-<p align="center">
-<br/>D 952</p>
+<br/>
+<p align="center">D 801</p>
 </td>
 <td>
-<p align="center">
-<br/>GIEN.</p>
+<br/>
+<p align="center">MONTFAUCON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">46</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue de Chaingy</p>
+<br/>
+<p align="center">D 840</p>
 </td>
 <td>
-<p align="center">
-<br/>Avenue Mendès-France</p>
+<br/>
+<p align="center">D 802</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-JEAN-DE-LA-RUELLE.</p>
+<br/>
+<p align="center">FIGEAC</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue Pavard</p>
+<br/>
+<p align="center">Limite département 46/12</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-JEAN-DE-LA-RUELLE.</p>
+<br/>
+<p align="center">CUZAC</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">46</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue des Petits-Osiers</p>
+<br/>
+<p align="center">D 14</p>
 </td>
 <td>
-<p align="center">
-<br/>RNIL. 157</p>
+<br/>
+<p align="center">D 807</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-JEAN-DE-LA-RUELLE.</p>
+<br/>
+<p align="center">GRAMAT</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue de la Mouchetière</p>
+<br/>
+<p align="center">Centre militaire de Bèdes</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-JEAN-DE-LA-RUELLE.</p>
+<br/>
+<p align="center">REILHAC</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">46</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue du Faubourg-Madeleine</p>
+<br/>
+<p align="center">D 807</p>
 </td>
 <td>
-<p align="center">
-<br/>RNIL. 152</p>
+<br/>
+<p align="center">D 14</p>
 </td>
 <td>
-<p align="center">
-<br/>ORLEANS.</p>
+<br/>
+<p align="center">GRAMAT</p>
 </td>
 <td>
-<p align="center">
-<br/>Boulevard Rocheplate</p>
+<br/>
+<p align="center">D 802</p>
 </td>
 <td>
-<p align="center">
-<br/>ORLEANS.</p>
+<br/>
+<p align="center">MONTFAUCON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">46</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue Gaston Deffié</p>
+<br/>
+<p align="center">D 653</p>
 </td>
 <td>
-<p align="center">
-<br/>pont de l'Europe</p>
+<br/>
+<p align="center">D 820</p>
 </td>
 <td>
-<p align="center">
-<br/>LA-CHAPELLE-SAINT-MESMIN.</p>
+<br/>
+<p align="center">LABASTIDE-MARNHAC</p>
 </td>
 <td>
-<p align="center">
-<br/>Avenue du Traité-de-Rome</p>
+<br/>
+<p align="center">Limite département 46/82</p>
 </td>
 <td>
-<p align="center">
-<br/>ORLEANS.</p>
+<br/>
+<p align="center">LEBREIL</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">46</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue Henri-Dunant</p>
+<br/>
+<p align="center">D 801</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue Lavoisier</p>
+<br/>
+<p align="center">D 820</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-JEAN-DE-LA-RUELLE.</p>
+<br/>
+<p align="center">SAINT-PROJET</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue de la Mouchetière</p>
+<br/>
+<p align="center">D 802</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-JEAN-DE-LA-RUELLE.</p>
+<br/>
+<p align="center">MONTFAUCON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>45</p>
+<br/>
+<p align="center">46</p>
 </td>
 <td>
-<p align="center">
-<br/>tangentielle ouest</p>
+<br/>
+<p align="center">D 656</p>
 </td>
 <td>
-<p align="center">
-<br/>Avenue Mendès-France</p>
+<br/>
+<p align="center">Limite département 46/47</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-JEAN-DE-LA-RUELLE.</p>
+<br/>
+<p align="center">SAUX</p>
 </td>
 <td>
-<p align="center">
-<br/>Rue Pavard</p>
+<br/>
+<p align="center">D 653</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-JEAN-DE-LA-RUELLE.</p>
+<br/>
+<p align="center">VILLESEQUE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>46</p>
+<br/>
+<p align="center">46</p>
 </td>
 <td>
-<p align="center">
-<br/>D 820</p>
+<br/>
+<p align="center">D 820</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Limite département 46/82</p>
 </td>
 <td>
-<p align="center">
-<br/>CRESSENSAC.</p>
+<br/>
+<p align="center">SAINT-PAUL-DE-LOUBRESSAC</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Limite département 46/82</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-PAUL-DE-LOUBRESSAC.</p>
+<br/>
+<p align="center">SAINT-PAUL-DE-LOUBRESSAC</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>46</p>
+<br/>
+<p align="center">47</p>
 </td>
 <td>
-<p align="center">
-<br/>D 802</p>
+<br/>
+<p align="center">Avenue Jean Bru</p>
 </td>
 <td>
-<p align="center">
-<br/>D 840</p>
+<br/>
+<p align="center">Avenue de Colmar</p>
 </td>
 <td>
-<p align="center">
-<br/>FIGEAC.</p>
+<br/>
+<p align="center">AGEN</p>
 </td>
 <td>
-<p align="center">
-<br/>D 801</p>
+<br/>
+<p align="center">Avenue Jean Monnet</p>
 </td>
 <td>
-<p align="center">
-<br/>MONTFAUCON.</p>
+<br/>
+<p align="center">AGEN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>46</p>
+<br/>
+<p align="center">47</p>
 </td>
 <td>
-<p align="center">
-<br/>D 840</p>
+<br/>
+<p align="center">Avenue Jean Monnet</p>
 </td>
 <td>
-<p align="center">
-<br/>D 802</p>
+<br/>
+<p align="center">Avenue Jean Bru</p>
 </td>
 <td>
-<p align="center">
-<br/>FIGEAC.</p>
+<br/>
+<p align="center">AGEN</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">N 21</p>
 </td>
 <td>
-<p align="center">
-<br/>CUZAC.</p>
+<br/>
+<p align="center">AGEN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>46</p>
+<br/>
+<p align="center">47</p>
 </td>
 <td>
-<p align="center">
-<br/>D 14</p>
+<br/>
+<p align="center">D 813</p>
 </td>
 <td>
-<p align="center">
-<br/>D 807</p>
+<br/>
+<p align="center">D 8</p>
 </td>
 <td>
-<p align="center">
-<br/>GRAMAT.</p>
+<br/>
+<p align="center">AIGUILLON</p>
 </td>
 <td>
-<p align="center">
-<br/>Centre militaire de Bèdes</p>
+<br/>
+<p align="center">D 666</p>
 </td>
 <td>
-<p align="center">
-<br/>REILHAC.</p>
+<br/>
+<p align="center">AIGUILLON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>46</p>
+<br/>
+<p align="center">47</p>
 </td>
 <td>
-<p align="center">
-<br/>D 807</p>
+<br/>
+<p align="center">D 655</p>
 </td>
 <td>
-<p align="center">
-<br/>D 14</p>
+<br/>
+<p align="center">Limite département 47/33</p>
 </td>
 <td>
-<p align="center">
-<br/>GRAMAT.</p>
+<br/>
+<p align="center">ANTAGNAC</p>
 </td>
 <td>
-<p align="center">
-<br/>D 802</p>
+<br/>
+<p align="center">D 933</p>
 </td>
 <td>
-<p align="center">
-<br/>MONTFAUCON.</p>
+<br/>
+<p align="center">CASTELJALOUX</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>46</p>
+<br/>
+<p align="center">47</p>
 </td>
 <td>
-<p align="center">
-<br/>D 653</p>
+<br/>
+<p align="center">D 109</p>
 </td>
 <td>
-<p align="center">
-<br/>D 820</p>
+<br/>
+<p align="center">D 655</p>
 </td>
 <td>
-<p align="center">
-<br/>LABASTIDE-MARNHAC.</p>
+<br/>
+<p align="center">BARBASTE</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 655-1</p>
 </td>
 <td>
-<p align="center">
-<br/>LEBREIL.</p>
+<br/>
+<p align="center">BARBASTE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>46</p>
+<br/>
+<p align="center">47</p>
 </td>
 <td>
-<p align="center">
-<br/>D 801</p>
+<br/>
+<p align="center">D 655-1</p>
 </td>
 <td>
-<p align="center">
-<br/>D 820</p>
+<br/>
+<p align="center">D 655</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-PROJET.</p>
+<br/>
+<p align="center">BARBASTE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 802</p>
+<br/>
+<p align="center">D 109</p>
 </td>
 <td>
-<p align="center">
-<br/>MONTFAUCON.</p>
+<br/>
+<p align="center">BARBASTE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>46</p>
+<br/>
+<p align="center">47</p>
 </td>
 <td>
-<p align="center">
-<br/>D 656</p>
+<br/>
+<p align="center">Avenue de Colmar</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 813</p>
 </td>
 <td>
-<p align="center">
-<br/>SAUX.</p>
+<br/>
+<p align="center">AGEN</p>
 </td>
 <td>
-<p align="center">
-<br/>D 653</p>
+<br/>
+<p align="center">Avenue Jean Bru</p>
 </td>
 <td>
-<p align="center">
-<br/>VILLESEQUE.</p>
+<br/>
+<p align="center">AGEN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>47</p>
+<br/>
+<p align="center">47</p>
 </td>
 <td>
-<p align="center">
-<br/>Avenue Jean-Bru</p>
+<br/>
+<p align="center">D 655</p>
 </td>
 <td>
-<p align="center">
-<br/>Avenue de Colmar</p>
+<br/>
+<p align="center">D 933</p>
 </td>
 <td>
-<p align="center">
-<br/>AGEN.</p>
+<br/>
+<p align="center">CASTELJALOUX</p>
 </td>
 <td>
-<p align="center">
-<br/>Avenue Jean-Monnet</p>
+<br/>
+<p align="center">D 930</p>
 </td>
 <td>
-<p align="center">
-<br/>AGEN.</p>
+<br/>
+<p align="center">LAVARDAC</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>47</p>
+<br/>
+<p align="center">47</p>
 </td>
 <td>
-<p align="center">
-<br/>Avenue Jean-Monnet</p>
+<br/>
+<p align="center">D 933</p>
 </td>
 <td>
-<p align="center">
-<br/>Avenue Jean-Bru</p>
+<br/>
+<p align="center">D 655</p>
 </td>
 <td>
-<p align="center">
-<br/>AGEN.</p>
+<br/>
+<p align="center">CASTELJALOUX</p>
 </td>
 <td>
-<p align="center">
-<br/>N 21</p>
+<br/>
+<p align="center">Limite département 47/40</p>
 </td>
 <td>
-<p align="center">
-<br/>AGEN.</p>
+<br/>
+<p align="center">BOUSSES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>47</p>
+<br/>
+<p align="center">47</p>
 </td>
 <td>
-<p align="center">
-<br/>D 933</p>
+<br/>
+<p align="center">D 813</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Limite département 47/82</p>
 </td>
 <td>
-<p align="center">
-<br/>AGNAC.</p>
+<br/>
+<p align="center">CLERMONT-SOUBIRAN</p>
 </td>
 <td>
-<p align="center">
-<br/>D 813</p>
+<br/>
+<p align="center">Avenue de Colmar</p>
 </td>
 <td>
-<p align="center">
-<br/>MARMANDE.</p>
+<br/>
+<p align="center">AGEN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>47</p>
+<br/>
+<p align="center">47</p>
 </td>
 <td>
-<p align="center">
-<br/>D 813</p>
+<br/>
+<p align="center">D 656E</p>
 </td>
 <td>
-<p align="center">
-<br/>D 8</p>
+<br/>
+<p align="center">D 656</p>
 </td>
 <td>
-<p align="center">
-<br/>AIGUILLON.</p>
+<br/>
+<p align="center">ESTILLAC</p>
 </td>
 <td>
-<p align="center">
-<br/>D 666</p>
+<br/>
+<p align="center">D 931</p>
 </td>
 <td>
-<p align="center">
-<br/>AIGUILLON.</p>
+<br/>
+<p align="center">ESTILLAC</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>47</p>
+<br/>
+<p align="center">47</p>
 </td>
 <td>
-<p align="center">
-<br/>D 655</p>
+<br/>
+<p align="center">D 119</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 930</p>
 </td>
 <td>
-<p align="center">
-<br/>ANTAGNAC.</p>
+<br/>
+<p align="center">FEUGAROLLES</p>
 </td>
 <td>
-<p align="center">
-<br/>D 933</p>
+<br/>
+<p align="center">D 656</p>
 </td>
 <td>
-<p align="center">
-<br/>CASTELJALOUX.</p>
+<br/>
+<p align="center">LE PASSAGE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>47</p>
+<br/>
+<p align="center">47</p>
 </td>
 <td>
-<p align="center">
-<br/>D 109</p>
+<br/>
+<p align="center">D 930</p>
 </td>
 <td>
-<p align="center">
-<br/>D 655</p>
+<br/>
+<p align="center">D 119</p>
 </td>
 <td>
-<p align="center">
-<br/>BARBASTE.</p>
+<br/>
+<p align="center">FEUGAROLLES</p>
 </td>
 <td>
-<p align="center">
-<br/>D 655-1</p>
+<br/>
+<p align="center">D 655</p>
 </td>
 <td>
-<p align="center">
-<br/>BARBASTE.</p>
+<br/>
+<p align="center">LAVARDAC</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>47</p>
+<br/>
+<p align="center">47</p>
 </td>
 <td>
-<p align="center">
-<br/>D 655-1</p>
+<br/>
+<p align="center">D 666</p>
 </td>
 <td>
-<p align="center">
-<br/>D 655</p>
+<br/>
+<p align="center">D 911</p>
 </td>
 <td>
-<p align="center">
-<br/>BARBASTE.</p>
+<br/>
+<p align="center">GRANGES-SUR-LOT</p>
 </td>
 <td>
-<p align="center">
-<br/>D 109</p>
+<br/>
+<p align="center">D 813</p>
 </td>
 <td>
-<p align="center">
-<br/>BARBASTE.</p>
+<br/>
+<p align="center">AIGUILLON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>47</p>
+<br/>
+<p align="center">47</p>
 </td>
 <td>
-<p align="center">
-<br/>Avenue de Colmar</p>
+<br/>
+<p align="center">D 8</p>
 </td>
 <td>
-<p align="center">
-<br/>D 813</p>
+<br/>
+<p align="center">D 933</p>
 </td>
 <td>
-<p align="center">
-<br/>BOE.</p>
+<br/>
+<p align="center">HOUEILLES</p>
 </td>
 <td>
-<p align="center">
-<br/>Avenue Jean-Bru</p>
+<br/>
+<p align="center">D 813</p>
 </td>
 <td>
-<p align="center">
-<br/>AGEN.</p>
+<br/>
+<p align="center">AIGUILLON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>47</p>
+<br/>
+<p align="center">47</p>
 </td>
 <td>
-<p align="center">
-<br/>N 2113</p>
+<br/>
+<p align="center">D 656</p>
 </td>
 <td>
-<p align="center">
-<br/>D 813</p>
+<br/>
+<p align="center">D 119</p>
 </td>
 <td>
-<p align="center">
-<br/>BON-ENCONTRE.</p>
+<br/>
+<p align="center">LE PASSAGE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 813</p>
+<br/>
+<p align="center">D 656E</p>
 </td>
 <td>
-<p align="center">
-<br/>BOE.</p>
+<br/>
+<p align="center">ESTILLAC</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>47</p>
+<br/>
+<p align="center">47</p>
 </td>
 <td>
-<p align="center">
-<br/>D 655</p>
+<br/>
+<p align="center">D 931</p>
 </td>
 <td>
-<p align="center">
-<br/>D 933</p>
+<br/>
+<p align="center">N 21</p>
 </td>
 <td>
-<p align="center">
-<br/>CASTELJALOUX.</p>
+<br/>
+<p align="center">LE PASSAGE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 933</p>
+<br/>
+<p align="center">D 656E</p>
 </td>
 <td>
-<p align="center">
-<br/>CASTELJALOUX.</p>
+<br/>
+<p align="center">ESTILLAC</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>47</p>
+<br/>
+<p align="center">47</p>
 </td>
 <td>
-<p align="center">
-<br/>D 655</p>
+<br/>
+<p align="center">D 813</p>
 </td>
 <td>
-<p align="center">
-<br/>D 933</p>
+<br/>
+<p align="center">D 933</p>
 </td>
 <td>
-<p align="center">
-<br/>CASTELJALOUX.</p>
+<br/>
+<p align="center">MARMANDE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 930</p>
+<br/>
+<p align="center">Limite département 47/33</p>
 </td>
 <td>
-<p align="center">
-<br/>LAVARDAC.</p>
+<br/>
+<p align="center">SAINT-MARTIN-PETIT</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>47</p>
+<br/>
+<p align="center">47</p>
 </td>
 <td>
-<p align="center">
-<br/>D 933</p>
+<br/>
+<p align="center">D 933</p>
 </td>
 <td>
-<p align="center">
-<br/>D 655</p>
+<br/>
+<p align="center">Limite département 47/24</p>
 </td>
 <td>
-<p align="center">
-<br/>CASTELJALOUX.</p>
+<br/>
+<p align="center">AGNAC</p>
 </td>
 <td>
-<p align="center">
-<br/>D 933 N</p>
+<br/>
+<p align="center">D 655</p>
 </td>
 <td>
-<p align="center">
-<br/>BOUSSES.</p>
+<br/>
+<p align="center">CASTELJALOUX</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>47</p>
+<br/>
+<p align="center">47</p>
 </td>
 <td>
-<p align="center">
-<br/>D 813</p>
+<br/>
+<p align="center">D 102</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 911</p>
 </td>
 <td>
-<p align="center">
-<br/>CLERMONT-SOUBIRAN.</p>
+<br/>
+<p align="center">SAINT-VITE</p>
 </td>
 <td>
-<p align="center">
-<br/>Avenue de Colmar</p>
+<br/>
+<p align="center">D 656</p>
 </td>
 <td>
-<p align="center">
-<br/>BOE.</p>
+<br/>
+<p align="center">TOURNON-D'AGENAIS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>47</p>
+<br/>
+<p align="center">47</p>
 </td>
 <td>
-<p align="center">
-<br/>D 656E</p>
+<br/>
+<p align="center">D 656</p>
 </td>
 <td>
-<p align="center">
-<br/>D 656</p>
+<br/>
+<p align="center">D 102</p>
 </td>
 <td>
-<p align="center">
-<br/>ESTILLAC.</p>
+<br/>
+<p align="center">TOURNON-D'AGENAIS</p>
 </td>
 <td>
-<p align="center">
-<br/>D 931</p>
+<br/>
+<p align="center">Limite département 47/46</p>
 </td>
 <td>
-<p align="center">
-<br/>ESTILLAC.</p>
+<br/>
+<p align="center">MASQUIERES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>47</p>
+<br/>
+<p align="center">47</p>
 </td>
 <td>
-<p align="center">
-<br/>D 119</p>
+<br/>
+<p align="center">Avenue d'Agen</p>
 </td>
 <td>
-<p align="center">
-<br/>D 930</p>
+<br/>
+<p align="center">D 911</p>
 </td>
 <td>
-<p align="center">
-<br/>FEUGAROLLES.</p>
+<br/>
+<p align="center">VILLENEUVE-SUR-LOT</p>
 </td>
 <td>
-<p align="center">
-<br/>D 656</p>
+<br/>
+<p align="center">N 21</p>
 </td>
 <td>
-<p align="center">
-<br/>LE PASSAGE.</p>
+<br/>
+<p align="center">PUJOLS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>47</p>
+<br/>
+<p align="center">47</p>
 </td>
 <td>
-<p align="center">
-<br/>D 930</p>
+<br/>
+<p align="center">D 911</p>
 </td>
 <td>
-<p align="center">
-<br/>D 119</p>
+<br/>
+<p align="center">Avenue d'Agen</p>
 </td>
 <td>
-<p align="center">
-<br/>FEUGAROLLES.</p>
+<br/>
+<p align="center">VILLENEUVE-SUR-LOT</p>
 </td>
 <td>
-<p align="center">
-<br/>D 655</p>
+<br/>
+<p align="center">D 666</p>
 </td>
 <td>
-<p align="center">
-<br/>LAVARDAC.</p>
+<br/>
+<p align="center">GRANGES-SUR-LOT</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>47</p>
+<br/>
+<p align="center">47</p>
 </td>
 <td>
-<p align="center">
-<br/>D 666</p>
+<br/>
+<p align="center">D 911</p>
 </td>
 <td>
-<p align="center">
-<br/>D 911</p>
+<br/>
+<p align="center">N 21</p>
 </td>
 <td>
-<p align="center">
-<br/>GRANGES-SUR-LOT.</p>
+<br/>
+<p align="center">VILLENEUVE-SUR-LOT</p>
 </td>
 <td>
-<p align="center">
-<br/>D 813</p>
+<br/>
+<p align="center">D 102</p>
 </td>
 <td>
-<p align="center">
-<br/>AIGUILLON.</p>
+<br/>
+<p align="center">SAINT-VITE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>47</p>
+<br/>
+<p align="center">48</p>
 </td>
 <td>
-<p align="center">
-<br/>D 8</p>
+<br/>
+<p align="center">D 809</p>
 </td>
 <td>
-<p align="center">
-<br/>D 933</p>
+<br/>
+<p align="center">Limite département 48/15</p>
 </td>
 <td>
-<p align="center">
-<br/>HOUEILLES.</p>
+<br/>
+<p align="center">ALBARET-SAINTE-MARIE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 813</p>
+<br/>
+<p align="center">Limite département 48/12</p>
 </td>
 <td>
-<p align="center">
-<br/>AIGUILLON.</p>
+<br/>
+<p align="center">LA TIEULE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>47</p>
+<br/>
+<p align="center">48</p>
 </td>
 <td>
-<p align="center">
-<br/>D 656</p>
+<br/>
+<p align="center">D 808</p>
 </td>
 <td>
-<p align="center">
-<br/>D 119</p>
+<br/>
+<p align="center">D 809</p>
 </td>
 <td>
-<p align="center">
-<br/>LE PASSAGE.</p>
+<br/>
+<p align="center">MARVEJOLS</p>
 </td>
 <td>
-<p align="center">
-<br/>D 656 E</p>
+<br/>
+<p align="center">N 88</p>
 </td>
 <td>
-<p align="center">
-<br/>ESTILLAC.</p>
+<br/>
+<p align="center">BARJAC</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>47</p>
+<br/>
+<p align="center">48</p>
 </td>
 <td>
-<p align="center">
-<br/>D 931</p>
+<br/>
+<p align="center">VC 111 Boulevard Lucien   Arnault</p>
 </td>
 <td>
-<p align="center">
-<br/>N 21</p>
+<br/>
+<p align="center">RN 88</p>
 </td>
 <td>
-<p align="center">
-<br/>LE PASSAGE.</p>
+<br/>
+<p align="center">MENDE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 656E</p>
+<br/>
+<p align="center">D 42 Boulevard Théophile   Roussel</p>
 </td>
 <td>
-<p align="center">
-<br/>ESTILLAC.</p>
+<br/>
+<p align="center">MENDE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>47</p>
+<br/>
+<p align="center">48</p>
 </td>
 <td>
-<p align="center">
-<br/>D 813</p>
+<br/>
+<p align="center">D 42 Boulevard Théophile   Roussel</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">VC 111 Boulevard Lucien   Arnault</p>
 </td>
 <td>
-<p align="center">
-<br/>MARMANDE.</p>
+<br/>
+<p align="center">MENDE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1113</p>
+<br/>
+<p align="center">N 88</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-MARTIN-PETIT.</p>
+<br/>
+<p align="center">MENDE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>47</p>
+<br/>
+<p align="center">49</p>
 </td>
 <td>
-<p align="center">
-<br/>D 933</p>
+<br/>
+<p align="center">Boulevard Charles Barangé</p>
 </td>
 <td>
-<p align="center">
-<br/>D 933 D</p>
+<br/>
+<p align="center">RD 323</p>
 </td>
 <td>
-<p align="center">
-<br/>MARMANDE.</p>
+<br/>
+<p align="center">ANGERS</p>
 </td>
 <td>
-<p align="center">
-<br/>D 655</p>
+<br/>
+<p align="center">Rue Eblé</p>
 </td>
 <td>
-<p align="center">
-<br/>CASTELJALOUX.</p>
+<br/>
+<p align="center">ANGERS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>47</p>
+<br/>
+<p align="center">49</p>
 </td>
 <td>
-<p align="center">
-<br/>D 933 D</p>
+<br/>
+<p align="center">Boulevard de l'Abbé Chauvat</p>
 </td>
 <td>
-<p align="center">
-<br/>D 813</p>
+<br/>
+<p align="center">Rue Eblé</p>
 </td>
 <td>
-<p align="center">
-<br/>MARMANDE.</p>
+<br/>
+<p align="center">ANGERS</p>
 </td>
 <td>
-<p align="center">
-<br/>D 933</p>
+<br/>
+<p align="center">Rue de Frémur</p>
 </td>
 <td>
-<p align="center">
-<br/>MARMANDE.</p>
+<br/>
+<p align="center">ANGERS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>47</p>
+<br/>
+<p align="center">49</p>
 </td>
 <td>
-<p align="center">
-<br/>D 1113</p>
+<br/>
+<p align="center">Boulevard Jacques Portet</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Rue de Frémur</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-MARTIN-PETIT.</p>
+<br/>
+<p align="center">ANGERS</p>
 </td>
 <td>
-<p align="center">
-<br/>D 813</p>
+<br/>
+<p align="center">Avenue   Winston Churchill</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-MARTIN-PETIT.</p>
+<br/>
+<p align="center">ANGERS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>47</p>
+<br/>
+<p align="center">49</p>
 </td>
 <td>
-<p align="center">
-<br/>D 102</p>
+<br/>
+<p align="center">Boulevard Eugène Chaumin</p>
 </td>
 <td>
-<p align="center">
-<br/>D 911</p>
+<br/>
+<p align="center">Avenue   Winston Churchill</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-VITE.</p>
+<br/>
+<p align="center">ANGERS</p>
 </td>
 <td>
-<p align="center">
-<br/>D 656</p>
+<br/>
+<p align="center">Rue de Létanduère</p>
 </td>
 <td>
-<p align="center">
-<br/>TOURNON-D'AGENAIS.</p>
+<br/>
+<p align="center">ANGERS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>47</p>
+<br/>
+<p align="center">49</p>
 </td>
 <td>
-<p align="center">
-<br/>D 656</p>
+<br/>
+<p align="center">Boulevard Joseph Bédier</p>
 </td>
 <td>
-<p align="center">
-<br/>D 102</p>
+<br/>
+<p align="center">Rue de Létanduère</p>
 </td>
 <td>
-<p align="center">
-<br/>TOURNON-D'AGENAIS.</p>
+<br/>
+<p align="center">ANGERS</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Rue des Ponts de Cé</p>
 </td>
 <td>
-<p align="center">
-<br/>MASQUIERES.</p>
+<br/>
+<p align="center">ANGERS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>47</p>
+<br/>
+<p align="center">49</p>
 </td>
 <td>
-<p align="center">
-<br/>Avenue d'Agen</p>
+<br/>
+<p align="center">Boulevard Jacques Millot</p>
 </td>
 <td>
-<p align="center">
-<br/>D 911</p>
+<br/>
+<p align="center">Rue des Ponts de Cé</p>
 </td>
 <td>
-<p align="center">
-<br/>VILLENEUVE-SUR-LOT.</p>
+<br/>
+<p align="center">ANGERS</p>
 </td>
 <td>
-<p align="center">
-<br/>N 21</p>
+<br/>
+<p align="center">Rue Saumuroise</p>
 </td>
 <td>
-<p align="center">
-<br/>PUJOLS.</p>
+<br/>
+<p align="center">ANGERS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>47</p>
+<br/>
+<p align="center">49</p>
 </td>
 <td>
-<p align="center">
-<br/>D 911</p>
+<br/>
+<p align="center">Boulevard Pierre de   Coubertin</p>
 </td>
 <td>
-<p align="center">
-<br/>Avenue d'Agen</p>
+<br/>
+<p align="center">Rue Saumuroise</p>
 </td>
 <td>
-<p align="center">
-<br/>VILLENEUVE-SUR-LOT.</p>
+<br/>
+<p align="center">ANGERS</p>
 </td>
 <td>
-<p align="center">
-<br/>D 666</p>
+<br/>
+<p align="center">Avenue Montaigne</p>
 </td>
 <td>
-<p align="center">
-<br/>GRANGES-SUR-LOT.</p>
+<br/>
+<p align="center">ANGERS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>47</p>
+<br/>
+<p align="center">49</p>
 </td>
 <td>
-<p align="center">
-<br/>D 911</p>
+<br/>
+<p align="center">Rue du Grand Montréjeau</p>
 </td>
 <td>
-<p align="center">
-<br/>N 21</p>
+<br/>
+<p align="center">Avenue Montaigne</p>
 </td>
 <td>
-<p align="center">
-<br/>VILLENEUVE-SUR-LOT.</p>
+<br/>
+<p align="center">ANGERS</p>
 </td>
 <td>
-<p align="center">
-<br/>D 102</p>
+<br/>
+<p align="center">Rue Gandhi</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-VITE.</p>
+<br/>
+<p align="center">ANGERS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>48</p>
+<br/>
+<p align="center">49</p>
 </td>
 <td>
-<p align="center">
-<br/>D 267</p>
+<br/>
+<p align="center">Rue Gandhi</p>
 </td>
 <td>
-<p align="center">
-<br/>N 2009</p>
+<br/>
+<p align="center">Rue du Grand Montréjeau</p>
 </td>
 <td>
-<p align="center">
-<br/>BANASSAC.</p>
+<br/>
+<p align="center">ANGERS</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Rue Guillaume Lekeu</p>
 </td>
 <td>
-<p align="center">
-<br/>LA TIEULE.</p>
+<br/>
+<p align="center">ANGERS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>48</p>
+<br/>
+<p align="center">49</p>
 </td>
 <td>
-<p align="center">
-<br/>D 42</p>
+<br/>
+<p align="center">Boulevard Gaston Birgé</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Rue Guillaume Lekeu</p>
 </td>
 <td>
-<p align="center">
-<br/>MENDE.</p>
+<br/>
+<p align="center">ANGERS</p>
 </td>
 <td>
-<p align="center">
-<br/>D 806</p>
+<br/>
+<p align="center">Avenue Victor Chatenay</p>
 </td>
 <td>
-<p align="center">
-<br/>MENDE.</p>
+<br/>
+<p align="center">ANGERS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>48</p>
+<br/>
+<p align="center">49</p>
 </td>
 <td>
-<p align="center">
-<br/>D 42</p>
+<br/>
+<p align="center">Avenue Victor Chatenay</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Boulevard Gaston Birgé</p>
 </td>
 <td>
-<p align="center">
-<br/>MENDE.</p>
+<br/>
+<p align="center">ANGERS</p>
 </td>
 <td>
-<p align="center">
-<br/>N 88</p>
+<br/>
+<p align="center">Limite commune d'Angers (D   323)</p>
 </td>
 <td>
-<p align="center">
-<br/>MENDE.</p>
+<br/>
+<p align="center">ANGERS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>49</p>
+<br/>
+<p align="center">49</p>
 </td>
 <td>
-<p align="center">
-<br/>Boulevard Charles-Barangé - Boulevard Joseph-Bédier</p>
+<br/>
+<p align="center">Avenue de Lattre-de-Tassigny</p>
 </td>
 <td>
-<p align="center">
-<br/>N 23</p>
+<br/>
+<p align="center">Boulevard Joseph Bédier</p>
 </td>
 <td>
-<p align="center">
-<br/>ANGERS.</p>
+<br/>
+<p align="center">ANGERS</p>
 </td>
 <td>
-<p align="center">
-<br/>Avenue de Lattre-de-Tassigny</p>
+<br/>
+<p align="center">Boulevard Blanchouin (N 260)</p>
 </td>
 <td>
-<p align="center">
-<br/>ANGERS.</p>
+<br/>
+<p align="center">ANGERS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>49</p>
+<br/>
+<p align="center">49</p>
 </td>
 <td>
-<p align="center">
-<br/>Boulevard Jacques-Millot, boulevard Pierre-de-Coubertin, rue du Grand-Montréjeau, VC, rue Gandhi, </p>
+<br/>
+<p align="center">Boulevard Etienne d'Orves</p>
 </td>
 <td>
-<p align="center">
-<br/>Avenue de Lattre-de-Tassigny</p>
+<br/>
+<p align="center">Boulevard Jacques Millot</p>
 </td>
 <td>
-<p align="center">
-<br/>ANGERS.</p>
+<br/>
+<p align="center">ANGERS</p>
 </td>
 <td>
-<p align="center">
-<br/>Boulevard Gaston-Birgé</p>
+<br/>
+<p align="center">A 87N</p>
 </td>
 <td>
-<p align="center">
-<br/>ANGERS.</p>
+<br/>
+<p align="center">ANGERS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>49</p>
+<br/>
+<p align="center">49</p>
 </td>
 <td>
-<p align="center">
-<br/>Boulevard d'Estienne-d'Orves</p>
+<br/>
+<p align="center">D 106</p>
 </td>
 <td>
-<p align="center">
-<br/>Avenue de Lattre-de-Tassigny</p>
+<br/>
+<p align="center">D 323</p>
 </td>
 <td>
-<p align="center">
-<br/>ANGERS.</p>
+<br/>
+<p align="center">BEAUCOUZE</p>
 </td>
 <td>
-<p align="center">
-<br/>Boulevard Gaston-Birgé</p>
+<br/>
+<p align="center">RD 775</p>
 </td>
 <td>
-<p align="center">
-<br/>ANGERS.</p>
+<br/>
+<p align="center">BEAUCOUZE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>49</p>
+<br/>
+<p align="center">49</p>
 </td>
 <td>
-<p align="center">
-<br/>Boulevard Gaston-Birgé</p>
+<br/>
+<p align="center">D 59</p>
 </td>
 <td>
-<p align="center">
-<br/>Boulevard Gaston-Birgé</p>
+<br/>
+<p align="center">D 60</p>
 </td>
 <td>
-<p align="center">
-<br/>ANGERS.</p>
+<br/>
+<p align="center">BEAUFORT-EN-VALLEE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 323</p>
+<br/>
+<p align="center">D 347</p>
 </td>
 <td>
-<p align="center">
-<br/>ANGERS.</p>
+<br/>
+<p align="center">BEAUFORT-EN-VALLEE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>49</p>
+<br/>
+<p align="center">49</p>
 </td>
 <td>
-<p align="center">
-<br/>D 106</p>
+<br/>
+<p align="center">D 60</p>
 </td>
 <td>
-<p align="center">
-<br/>D 768</p>
+<br/>
+<p align="center">D 144</p>
 </td>
 <td>
-<p align="center">
-<br/>AVRILLE.</p>
+<br/>
+<p align="center">BEAUFORT-EN-VALLEE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 102 E</p>
+<br/>
+<p align="center">D 59</p>
 </td>
 <td>
-<p align="center">
-<br/>BEAUCOUZE.</p>
+<br/>
+<p align="center">BEAUFORT-EN-VALLEE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>49</p>
+<br/>
+<p align="center">49</p>
 </td>
 <td>
-<p align="center">
-<br/>D 59</p>
+<br/>
+<p align="center">D 959</p>
 </td>
 <td>
-<p align="center">
-<br/>D 60</p>
+<br/>
+<p align="center">Limite département 49/37</p>
 </td>
 <td>
-<p align="center">
-<br/>BEAUFORT-EN-VALLEE.</p>
+<br/>
+<p align="center">BROC</p>
 </td>
 <td>
-<p align="center">
-<br/>D 347</p>
+<br/>
+<p align="center">Limite département 49/72</p>
 </td>
 <td>
-<p align="center">
-<br/>BEAUFORT-EN-VALLEE.</p>
+<br/>
+<p align="center">BROC</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>49</p>
+<br/>
+<p align="center">49</p>
 </td>
 <td>
-<p align="center">
-<br/>D 60</p>
+<br/>
+<p align="center">D 938</p>
 </td>
 <td>
-<p align="center">
-<br/>D 144</p>
+<br/>
+<p align="center">D 766</p>
 </td>
 <td>
-<p align="center">
-<br/>BEAUFORT-EN-VALLEE.</p>
+<br/>
+<p align="center">BAUGE (nord)</p>
 </td>
 <td>
-<p align="center">
-<br/>D 59</p>
+<br/>
+<p align="center">Limite département 49/72</p>
 </td>
 <td>
-<p align="center">
-<br/>BEAUFORT-EN-VALLEE.</p>
+<br/>
+<p align="center">CLEFS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>49</p>
+<br/>
+<p align="center">49</p>
 </td>
 <td>
-<p align="center">
-<br/>D 35</p>
+<br/>
+<p align="center">D   960</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D   347</p>
 </td>
 <td>
-<p align="center">
-<br/>BRAIN-SUR-ALLONNES.</p>
+<br/>
+<p align="center">SAUMUR</p>
 </td>
 <td>
-<p align="center">
-<br/>D 10</p>
+<br/>
+<p align="center">D 160</p>
 </td>
 <td>
-<p align="center">
-<br/>BRAIN-SUR-ALLONNES.</p>
+<br/>
+<p align="center">CHOLET</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>49</p>
+<br/>
+<p align="center">49</p>
 </td>
 <td>
-<p align="center">
-<br/>D 959</p>
+<br/>
+<p align="center">D 859</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 323</p>
 </td>
 <td>
-<p align="center">
-<br/>BROC.</p>
+<br/>
+<p align="center">DURTAL</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">A11</p>
 </td>
 <td>
-<p align="center">
-<br/>BROC.</p>
+<br/>
+<p align="center">DURTAL</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>49</p>
+<br/>
+<p align="center">49</p>
 </td>
 <td>
-<p align="center">
-<br/>D 938</p>
+<br/>
+<p align="center">D 947</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 162</p>
 </td>
 <td>
-<p align="center">
-<br/>CLEFS.</p>
+<br/>
+<p align="center">FONTEVRAUD-L'ABBAYE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 766</p>
+<br/>
+<p align="center">Limite département 49/86</p>
 </td>
 <td>
-<p align="center">
-<br/>BAUGE.</p>
+<br/>
+<p align="center">FONTEVRAUD-L'ABBAYE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>49</p>
+<br/>
+<p align="center">49</p>
 </td>
 <td>
-<p align="center">
-<br/>D 960</p>
+<br/>
+<p align="center">D 766</p>
 </td>
 <td>
-<p align="center">
-<br/>N 347</p>
+<br/>
+<p align="center">Limite département 49/37</p>
 </td>
 <td>
-<p align="center">
-<br/>DISTRE.</p>
+<br/>
+<p align="center">MEIGNE-LE-VICOMTE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 160</p>
+<br/>
+<p align="center">D 938</p>
 </td>
 <td>
-<p align="center">
-<br/>NUAILLE.</p>
+<br/>
+<p align="center">Baugé</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>49</p>
+<br/>
+<p align="center">49</p>
 </td>
 <td>
-<p align="center">
-<br/>D 859</p>
+<br/>
+<p align="center">D 766</p>
 </td>
 <td>
-<p align="center">
-<br/>D 59</p>
+<br/>
+<p align="center">D 938</p>
 </td>
 <td>
-<p align="center">
-<br/>DURTAL.</p>
+<br/>
+<p align="center">Baugé</p>
 </td>
 <td>
-<p align="center">
-<br/>N 23</p>
+<br/>
+<p align="center">RD 323</p>
 </td>
 <td>
-<p align="center">
-<br/>DURTAL.</p>
+<br/>
+<p align="center">SEICHES-SUR-LE-LOIR</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>49</p>
+<br/>
+<p align="center">49</p>
 </td>
 <td>
-<p align="center">
-<br/>D 859</p>
+<br/>
+<p align="center">D 938</p>
 </td>
 <td>
-<p align="center">
-<br/>D 59</p>
+<br/>
+<p align="center">Limite département 49/79</p>
 </td>
 <td>
-<p align="center">
-<br/>DURTAL.</p>
+<br/>
+<p align="center">MONTREUIL-BELLAY</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">RD 347</p>
 </td>
 <td>
-<p align="center">
-<br/>DURTAL.</p>
+<br/>
+<p align="center">MONTREUIL-BELLAY</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>49</p>
+<br/>
+<p align="center">49</p>
 </td>
 <td>
-<p align="center">
-<br/>D 859</p>
+<br/>
+<p align="center">D 767</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 766</p>
 </td>
 <td>
-<p align="center">
-<br/>DURTAL.</p>
+<br/>
+<p align="center">NOYANT</p>
 </td>
 <td>
-<p align="center">
-<br/>A 11</p>
+<br/>
+<p align="center">D 347</p>
 </td>
 <td>
-<p align="center">
-<br/>DURTAL.</p>
+<br/>
+<p align="center">VIVY</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>49</p>
+<br/>
+<p align="center">49</p>
 </td>
 <td>
-<p align="center">
-<br/>D 145</p>
+<br/>
+<p align="center">D 771</p>
 </td>
 <td>
-<p align="center">
-<br/>D 16</p>
+<br/>
+<p align="center">Limite département 49/53</p>
 </td>
 <td>
-<p align="center">
-<br/>FONTEVRAUD-L'ABBAYE.</p>
+<br/>
+<p align="center">Chazé Henry</p>
 </td>
 <td>
-<p align="center">
-<br/>D 947</p>
+<br/>
+<p align="center">RD 775</p>
 </td>
 <td>
-<p align="center">
-<br/>FONTEVRAUD-L'ABBAYE.</p>
+<br/>
+<p align="center">POUANCE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>49</p>
+<br/>
+<p align="center">49</p>
 </td>
 <td>
-<p align="center">
-<br/>D 147</p>
+<br/>
+<p align="center">D 162</p>
 </td>
 <td>
-<p align="center">
-<br/>D 947</p>
+<br/>
+<p align="center">D 947</p>
 </td>
 <td>
-<p align="center">
-<br/>FONTEVRAUD-L'ABBAYE.</p>
+<br/>
+<p align="center">FONTEVRAUD-L'ABBAYE</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 93</p>
 </td>
 <td>
-<p align="center">
-<br/>FONTEVRAUD-L'ABBAYE.</p>
+<br/>
+<p align="center">BREZE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>49</p>
+<br/>
+<p align="center">49</p>
 </td>
 <td>
-<p align="center">
-<br/>D 947</p>
+<br/>
+<p align="center">D 15</p>
 </td>
 <td>
-<p align="center">
-<br/>D 14</p>
+<br/>
+<p align="center">A11</p>
 </td>
 <td>
-<p align="center">
-<br/>FONTEVRAUD-L'ABBAYE.</p>
+<br/>
+<p align="center">SAINT-GERMAIN-DES-PRES</p>
 </td>
 <td>
-<p align="center">
-<br/>D 147</p>
+<br/>
+<p align="center">D 723</p>
 </td>
 <td>
-<p align="center">
-<br/>FONTEVRAUD-L'ABBAYE.</p>
+<br/>
+<p align="center">SAINT-GERMAIN-DES-PRES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>49</p>
+<br/>
+<p align="center">49</p>
 </td>
 <td>
-<p align="center">
-<br/>D 863</p>
+<br/>
+<p align="center">VC Rue du Pont Fouchard</p>
 </td>
 <td>
-<p align="center">
-<br/>D 923</p>
+<br/>
+<p align="center">D 347E</p>
 </td>
 <td>
-<p align="center">
-<br/>LA CHAPELLE-SUR-OUDON.</p>
+<br/>
+<p align="center">SAUMUR</p>
 </td>
 <td>
-<p align="center">
-<br/>N 162</p>
+<br/>
+<p align="center">D 93</p>
 </td>
 <td>
-<p align="center">
-<br/>LE LION-D'ANGERS.</p>
+<br/>
+<p align="center">SAUMUR</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>49</p>
+<br/>
+<p align="center">49</p>
 </td>
 <td>
-<p align="center">
-<br/>D 863 bis</p>
+<br/>
+<p align="center">Boulevard Benjamin Delessert</p>
 </td>
 <td>
-<p align="center">
-<br/>D 863</p>
+<br/>
+<p align="center">D 93</p>
 </td>
 <td>
-<p align="center">
-<br/>LE LION-D'ANGERS.</p>
+<br/>
+<p align="center">SAUMUR</p>
 </td>
 <td>
-<p align="center">
-<br/>N 162</p>
+<br/>
+<p align="center">Rue d'Alsace</p>
 </td>
 <td>
-<p align="center">
-<br/>GREZ-NEUVILLE.</p>
+<br/>
+<p align="center">SAUMUR</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>49</p>
+<br/>
+<p align="center">49</p>
 </td>
 <td>
-<p align="center">
-<br/>D 766</p>
+<br/>
+<p align="center">Boulevard de   Lattre-de-Tassigny</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Rue d'Alsace</p>
 </td>
 <td>
-<p align="center">
-<br/>MEIGNE-LE-VICOMTE.</p>
+<br/>
+<p align="center">SAUMUR</p>
 </td>
 <td>
-<p align="center">
-<br/>D 938</p>
+<br/>
+<p align="center">Avenue du Maréchal Foch</p>
 </td>
 <td>
-<p align="center">
-<br/>BAUGE.</p>
+<br/>
+<p align="center">SAUMUR</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>49</p>
+<br/>
+<p align="center">49</p>
 </td>
 <td>
-<p align="center">
-<br/>D 938</p>
+<br/>
+<p align="center">Boulevard Général Weygand</p>
 </td>
 <td>
-<p align="center">
-<br/>D 160</p>
+<br/>
+<p align="center">Avenue du Maréchal Foch</p>
 </td>
 <td>
-<p align="center">
-<br/>MONTREUIL-BELLAY.</p>
+<br/>
+<p align="center">SAUMUR</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Rond-Point G. Weyvand</p>
 </td>
 <td>
-<p align="center">
-<br/>MONTREUIL-BELLAY.</p>
+<br/>
+<p align="center">SAUMUR</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>49</p>
+<br/>
+<p align="center">49</p>
 </td>
 <td>
-<p align="center">
-<br/>D 767</p>
+<br/>
+<p align="center">Rue du Carrousel</p>
 </td>
 <td>
-<p align="center">
-<br/>D 766</p>
+<br/>
+<p align="center">Rond-Point   G. Weyvand</p>
 </td>
 <td>
-<p align="center">
-<br/>NOYANT.</p>
+<br/>
+<p align="center">SAUMUR</p>
 </td>
 <td>
-<p align="center">
-<br/>D 347</p>
+<br/>
+<p align="center">Rond-point du Carrousel</p>
 </td>
 <td>
-<p align="center">
-<br/>VIVY.</p>
+<br/>
+<p align="center">SAUMUR</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>49</p>
+<br/>
+<p align="center">49</p>
 </td>
 <td>
-<p align="center">
-<br/>D 3</p>
+<br/>
+<p align="center">Boulevard du Maréchal Juin</p>
 </td>
 <td>
-<p align="center">
-<br/>D 94</p>
+<br/>
+<p align="center">Rond-Point   G. Weyvand</p>
 </td>
 <td>
-<p align="center">
-<br/>POUANCE.</p>
+<br/>
+<p align="center">SAUMUR</p>
 </td>
 <td>
-<p align="center">
-<br/>D 775</p>
+<br/>
+<p align="center">Chemin de halage</p>
+<br/>
+<p align="center">des Huraudières</p>
 </td>
 <td>
-<p align="center">
-<br/>POUANCE.</p>
+<br/>
+<p align="center">SAUMUR</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>49</p>
+<br/>
+<p align="center">49</p>
 </td>
 <td>
-<p align="center">
-<br/>D 771</p>
+<br/>
+<p align="center">Boulevard Henri-Dunant</p>
 </td>
 <td>
-<p align="center">
-<br/>N 171</p>
+<br/>
+<p align="center">Chemin de halage</p>
+<br/>
+<p align="center">des Huraudières</p>
 </td>
 <td>
-<p align="center">
-<br/>POUANCE.</p>
+<br/>
+<p align="center">SAUMUR</p>
 </td>
 <td>
-<p align="center">
-<br/>N 171</p>
+<br/>
+<p align="center">Rue du Colonel-Michon</p>
 </td>
 <td>
-<p align="center">
-<br/>POUANCE.</p>
+<br/>
+<p align="center">SAUMUR</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>49</p>
+<br/>
+<p align="center">49</p>
 </td>
 <td>
-<p align="center">
-<br/>D 94</p>
+<br/>
+<p align="center">Quai Carnot</p>
 </td>
 <td>
-<p align="center">
-<br/>D 94</p>
+<br/>
+<p align="center">Rue du Colonel Michon</p>
 </td>
 <td>
-<p align="center">
-<br/>POUANCE.</p>
+<br/>
+<p align="center">SAUMUR</p>
 </td>
 <td>
-<p align="center">
-<br/>D 3</p>
+<br/>
+<p align="center">D 947</p>
 </td>
 <td>
-<p align="center">
-<br/>POUANCE.</p>
+<br/>
+<p align="center">SAUMUR</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>49</p>
+<br/>
+<p align="center">49</p>
 </td>
 <td>
-<p align="center">
-<br/>D 162</p>
+<br/>
+<p align="center">Rue de Rouen</p>
 </td>
 <td>
-<p align="center">
-<br/>D 93</p>
+<br/>
+<p align="center">Pont des Cadets</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-CYR-EN-BOURG.</p>
+<br/>
+<p align="center">SAUMUR</p>
 </td>
 <td>
-<p align="center">
-<br/>D 145</p>
+<br/>
+<p align="center">Avenue des Fusillés</p>
 </td>
 <td>
-<p align="center">
-<br/>FONTEVRAUD-L'ABBAYE.</p>
+<br/>
+<p align="center">SAUMUR</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>49</p>
+<br/>
+<p align="center">49</p>
 </td>
 <td>
-<p align="center">
-<br/>D 15</p>
+<br/>
+<p align="center">Avenue des Fusillés</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Rue de Rouen</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-GERMAIN-DES-PRES.</p>
+<br/>
+<p align="center">SAUMUR</p>
 </td>
 <td>
-<p align="center">
-<br/>N 23</p>
+<br/>
+<p align="center">D 347</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-GERMAIN-DES-PRES.</p>
+<br/>
+<p align="center">SAUMUR</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>49</p>
+<br/>
+<p align="center">49</p>
 </td>
 <td>
-<p align="center">
-<br/>D 161</p>
+<br/>
+<p align="center">D 93</p>
 </td>
 <td>
-<p align="center">
-<br/>N 347</p>
+<br/>
+<p align="center">D 162</p>
 </td>
 <td>
-<p align="center">
-<br/>SAUMUR.</p>
+<br/>
+<p align="center">BREZE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 347</p>
+<br/>
+<p align="center">Rue Jean Boudent</p>
 </td>
 <td>
-<p align="center">
-<br/>SAUMUR.</p>
+<br/>
+<p align="center">SAUMUR</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>49</p>
+<br/>
+<p align="center">49</p>
 </td>
 <td>
-<p align="center">
-<br/>D 93</p>
+<br/>
+<p align="center">D 775</p>
 </td>
 <td>
-<p align="center">
-<br/>N 1147</p>
+<br/>
+<p align="center">RD 106</p>
 </td>
 <td>
-<p align="center">
-<br/>SAUMUR.</p>
+<br/>
+<p align="center">BEAUCOUZE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 162</p>
+<br/>
+<p align="center">Limite département 49/35</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-CYR-EN-BOURG.</p>
+<br/>
+<p align="center">POUANCE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>49</p>
+<br/>
+<p align="center">49</p>
 </td>
 <td>
-<p align="center">
-<br/>D 947</p>
+<br/>
+<p align="center">D 949</p>
 </td>
 <td>
-<p align="center">
-<br/>N 1147</p>
+<br/>
+<p align="center">Limite département 49/44</p>
 </td>
 <td>
-<p align="center">
-<br/>SAUMUR.</p>
+<br/>
+<p align="center">TORFOU</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Limite département 49/85</p>
 </td>
 <td>
-<p align="center">
-<br/>MONTSOREAU.</p>
+<br/>
+<p align="center">LE LONGERON</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>49</p>
+<br/>
+<p align="center">49</p>
 </td>
 <td>
-<p align="center">
-<br/>D 775</p>
+<br/>
+<p align="center">D 149</p>
 </td>
 <td>
-<p align="center">
-<br/>D 923</p>
+<br/>
+<p align="center">Limite département 49/85</p>
 </td>
 <td>
-<p align="center">
-<br/>SEGRE.</p>
+<br/>
+<p align="center">SAINT-CHRISTOPHE-DU-BOIS</p>
 </td>
 <td>
-<p align="center">
-<br/>D 3</p>
+<br/>
+<p align="center">Limite département 49/85</p>
 </td>
 <td>
-<p align="center">
-<br/>POUANCE.</p>
+<br/>
+<p align="center">SAINT-CHRISTOPHE-DU-BOIS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>49</p>
+<br/>
+<p align="center">49</p>
 </td>
 <td>
-<p align="center">
-<br/>D 923</p>
+<br/>
+<p align="center">D 10</p>
 </td>
 <td>
-<p align="center">
-<br/>D 77</p>
+<br/>
+<p align="center">D 767</p>
 </td>
 <td>
-<p align="center">
-<br/>SEGRE.</p>
+<br/>
+<p align="center">VIVY</p>
 </td>
 <td>
-<p align="center">
-<br/>D 863</p>
+<br/>
+<p align="center">Limite département 49/37</p>
 </td>
 <td>
-<p align="center">
-<br/>LA CHAPELLE-SUR-OUDON.</p>
+<br/>
+<p align="center">BRAIN-SUR-ALLONNES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>49</p>
+<br/>
+<p align="center">49</p>
 </td>
 <td>
-<p align="center">
-<br/>D 766</p>
+<br/>
+<p align="center">D 160</p>
 </td>
 <td>
-<p align="center">
-<br/>N 23</p>
+<br/>
+<p align="center">D 260</p>
 </td>
 <td>
-<p align="center">
-<br/>SEICHES-SUR-LE-LOIR.</p>
+<br/>
+<p align="center">MUR-ERIGNE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 938</p>
+<br/>
+<p align="center">Limite département 49/85</p>
 </td>
 <td>
-<p align="center">
-<br/>BAUGE.</p>
+<br/>
+<p align="center">SAINT-CHRISTOPHE-DES-BOIS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>49</p>
+<br/>
+<p align="center">49</p>
 </td>
 <td>
-<p align="center">
-<br/>D 949</p>
+<br/>
+<p align="center">D 723</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Limite département 49/44</p>
 </td>
 <td>
-<p align="center">
-<br/>TORFOU.</p>
+<br/>
+<p align="center">INGRANDE</p>
 </td>
 <td>
-<p align="center">
-<br/>N 149</p>
+<br/>
+<p align="center">D 323</p>
 </td>
 <td>
-<p align="center">
-<br/>LE LONGERON.</p>
+<br/>
+<p align="center">BEAUCOUZÉ</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>49</p>
+<br/>
+<p align="center">49</p>
 </td>
 <td>
-<p align="center">
-<br/>D 10</p>
+<br/>
+<p align="center">D 323</p>
 </td>
 <td>
-<p align="center">
-<br/>D 767</p>
+<br/>
+<p align="center">Limite département 49/72</p>
 </td>
 <td>
-<p align="center">
-<br/>VIVY.</p>
+<br/>
+<p align="center">DURTAL</p>
 </td>
 <td>
-<p align="center">
-<br/>D 35</p>
+<br/>
+<p align="center">D 766</p>
 </td>
 <td>
-<p align="center">
-<br/>BRAIN-SUR-ALLONNES.</p>
+<br/>
+<p align="center">SEICHES-SUR-LOIR</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>50</p>
+<br/>
+<p align="center">49</p>
 </td>
 <td>
-<p align="center">
-<br/>D 2972</p>
+<br/>
+<p align="center">D 323</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 766</p>
 </td>
 <td>
-<p align="center">
-<br/>AGNEAUX.</p>
+<br/>
+<p align="center">SEICHES-SUR-LOIR</p>
 </td>
 <td>
-<p align="center">
-<br/>D 972</p>
+<br/>
+<p align="center">Extrémité</p>
 </td>
 <td>
-<p align="center">
-<br/>AGNEAUX.</p>
+<br/>
+<p align="center">ANGERS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>50</p>
+<br/>
+<p align="center">49</p>
 </td>
 <td>
-<p align="center">
-<br/>D 901</p>
+<br/>
+<p align="center">D 323</p>
 </td>
 <td>
-<p align="center">
-<br/>D 40</p>
+<br/>
+<p align="center">A11</p>
 </td>
 <td>
-<p align="center">
-<br/>AUDERVILLE.</p>
+<br/>
+<p align="center">ANGERS</p>
 </td>
 <td>
-<p align="center">
-<br/>N 13</p>
+<br/>
+<p align="center">A11</p>
 </td>
 <td>
-<p align="center">
-<br/>CHERBOURG-OCTEVILLE.</p>
+<br/>
+<p align="center">SAINT-JEAN-DE-LINIERES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>50</p>
+<br/>
+<p align="center">49</p>
 </td>
 <td>
-<p align="center">
-<br/>D 7</p>
+<br/>
+<p align="center">D 347</p>
 </td>
 <td>
-<p align="center">
-<br/>D 31</p>
+<br/>
+<p align="center">Limite département 49/86</p>
 </td>
 <td>
-<p align="center">
-<br/>AVRANCHES.</p>
+<br/>
+<p align="center">MONTREUIL-BELLAY</p>
 </td>
 <td>
-<p align="center">
-<br/>D 104</p>
+<br/>
+<p align="center">A   87N</p>
 </td>
 <td>
-<p align="center">
-<br/>AVRANCHES.</p>
+<br/>
+<p align="center">SAINT-BARTHELEMY</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>50</p>
+<br/>
+<p align="center">49</p>
 </td>
 <td>
-<p align="center">
-<br/>D 972</p>
+<br/>
+<p align="center">D   144</p>
 </td>
 <td>
-<p align="center">
-<br/>D 572</p>
+<br/>
+<p align="center">RD 60</p>
 </td>
 <td>
-<p align="center">
-<br/>BERIGNY.</p>
+<br/>
+<p align="center">BEAUFORT-EN-VALLEE</p>
 </td>
 <td>
-<p align="center">
-<br/>N 17</p>
+<br/>
+<p align="center">A 85</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-LO.</p>
+<br/>
+<p align="center">FONTAINE-GUÉRIN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>50</p>
+<br/>
+<p align="center">49</p>
 </td>
 <td>
-<p align="center">
-<br/>D 56</p>
+<br/>
+<p align="center">D 771</p>
 </td>
 <td>
-<p align="center">
-<br/>N 13</p>
+<br/>
+<p align="center">RD 775</p>
 </td>
 <td>
-<p align="center">
-<br/>BRIX.</p>
+<br/>
+<p align="center">POUANCE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 22</p>
+<br/>
+<p align="center">Limite département 49/44</p>
 </td>
 <td>
-<p align="center">
-<br/>COUVILLE.</p>
+<br/>
+<p align="center">POUANCÉ</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>50</p>
+<br/>
+<p align="center">49</p>
 </td>
 <td>
-<p align="center">
-<br/>D 974</p>
+<br/>
+<p align="center">N 249</p>
 </td>
 <td>
-<p align="center">
-<br/>N 174</p>
+<br/>
+<p align="center">D 752</p>
 </td>
 <td>
-<p align="center">
-<br/>CAVIGNY.</p>
+<br/>
+<p align="center">CHOLET</p>
 </td>
 <td>
-<p align="center">
-<br/>N 174</p>
+<br/>
+<p align="center">Limite département 49/79</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-LO.</p>
+<br/>
+<p align="center">LA TESSOUALLE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>50</p>
+<br/>
+<p align="center">49</p>
 </td>
 <td>
-<p align="center">
-<br/>D 40</p>
+<br/>
+<p align="center">D 761</p>
 </td>
 <td>
-<p align="center">
-<br/>D 43</p>
+<br/>
+<p align="center">D 960</p>
 </td>
 <td>
-<p align="center">
-<br/>CEAUX.</p>
+<br/>
+<p align="center">DOUE-LA-FONTAINE</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 347</p>
 </td>
 <td>
-<p align="center">
-<br/>SACEY.</p>
+<br/>
+<p align="center">MONTREUIL-BELLAY</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>50</p>
+<br/>
+<p align="center">49</p>
 </td>
 <td>
-<p align="center">
-<br/>D 43</p>
+<br/>
+<p align="center">D 960</p>
 </td>
 <td>
-<p align="center">
-<br/>N 175</p>
+<br/>
+<p align="center">D 347E</p>
 </td>
 <td>
-<p align="center">
-<br/>CEAUX.</p>
+<br/>
+<p align="center">SAUMUR</p>
 </td>
 <td>
-<p align="center">
-<br/>D 40</p>
+<br/>
+<p align="center">D 347</p>
 </td>
 <td>
-<p align="center">
-<br/>CEAUX.</p>
+<br/>
+<p align="center">SAUMUR</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>50</p>
+<br/>
+<p align="center">49</p>
 </td>
 <td>
-<p align="center">
-<br/>Avenue de Cessart</p>
+<br/>
+<p align="center">D 947</p>
 </td>
 <td>
-<p align="center">
-<br/>D 901</p>
+<br/>
+<p align="center">Quai Carnot</p>
 </td>
 <td>
-<p align="center">
-<br/>CHERBOURG-OCTEVILLE.</p>
+<br/>
+<p align="center">SAUMUR</p>
 </td>
 <td>
-<p align="center">
-<br/>Plage Napoléon</p>
+<br/>
+<p align="center">D 952</p>
 </td>
 <td>
-<p align="center">
-<br/>CHERBOURG-OCTEVILLE.</p>
+<br/>
+<p align="center">SAUMUR</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>50</p>
+<br/>
+<p align="center">49</p>
 </td>
 <td>
-<p align="center">
-<br/>Boulevard de l'Atlantique</p>
+<br/>
+<p align="center">D 144</p>
 </td>
 <td>
-<p align="center">
-<br/>D 3</p>
+<br/>
+<p align="center">D 60</p>
 </td>
 <td>
-<p align="center">
-<br/>CHERBOURG-OCTEVILLE.</p>
+<br/>
+<p align="center">BEAUFORT-EN-VALLEE</p>
 </td>
 <td>
-<p align="center">
-<br/>N 132</p>
+<br/>
+<p align="center">A 85</p>
 </td>
 <td>
-<p align="center">
-<br/>CHERBOURG-OCTEVILLE.</p>
+<br/>
+<p align="center">FONTAINE-GUERIN</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>50</p>
+<br/>
+<p align="center">49</p>
 </td>
 <td>
-<p align="center">
-<br/>D 650</p>
+<br/>
+<p align="center">D 260</p>
 </td>
 <td>
-<p align="center">
-<br/>D 900</p>
+<br/>
+<p align="center">Boulevard Blanchouin</p>
 </td>
 <td>
-<p align="center">
-<br/>CHERBOURG-OCTEVILLE.</p>
+<br/>
+<p align="center">ANGERS</p>
 </td>
 <td>
-<p align="center">
-<br/>D 652</p>
+<br/>
+<p align="center">A 87N</p>
 </td>
 <td>
-<p align="center">
-<br/>CRÉANCES.</p>
+<br/>
+<p align="center">LES-PONTS-DE-CE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>50</p>
+<br/>
+<p align="center">50</p>
 </td>
 <td>
-<p align="center">
-<br/>plage Napoléon</p>
+<br/>
+<p align="center">D 900E3</p>
 </td>
 <td>
-<p align="center">
-<br/>Avenue de Cessart</p>
+<br/>
+<p align="center">D 900</p>
 </td>
 <td>
-<p align="center">
-<br/>CHERBOURG-OCTEVILLE.</p>
+<br/>
+<p align="center">AGNEAUX</p>
 </td>
 <td>
-<p align="center">
-<br/>Quai de Caligny</p>
+<br/>
+<p align="center">D 972</p>
 </td>
 <td>
-<p align="center">
-<br/>CHERBOURG-OCTEVILLE.</p>
+<br/>
+<p align="center">AGNEAUX</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>50</p>
+<br/>
+<p align="center">50</p>
 </td>
 <td>
-<p align="center">
-<br/>quai de Caligny</p>
+<br/>
+<p align="center">D 901</p>
 </td>
 <td>
-<p align="center">
-<br/>plage Napoléon</p>
+<br/>
+<p align="center">D 401</p>
 </td>
 <td>
-<p align="center">
-<br/>CHERBOURG-OCTEVILLE.</p>
+<br/>
+<p align="center">AUDERVILLE</p>
 </td>
 <td>
-<p align="center">
-<br/>Quai Alexandre-III</p>
+<br/>
+<p align="center">N 13</p>
 </td>
 <td>
-<p align="center">
-<br/>CHERBOURG-OCTEVILLE.</p>
+<br/>
+<p align="center">TOURLAVILLE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>50</p>
+<br/>
+<p align="center">50</p>
 </td>
 <td>
-<p align="center">
-<br/>D 53</p>
+<br/>
+<p align="center">D 7</p>
 </td>
 <td>
-<p align="center">
-<br/>N 174</p>
+<br/>
+<p align="center">D 31</p>
 </td>
 <td>
-<p align="center">
-<br/>CONDE-SUR-VIRE.</p>
+<br/>
+<p align="center">AVRANCHES</p>
 </td>
 <td>
-<p align="center">
-<br/>N 2174</p>
+<br/>
+<p align="center">D 973</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-AMAND.</p>
+<br/>
+<p align="center">AVRANCHES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>50</p>
+<br/>
+<p align="center">50</p>
 </td>
 <td>
-<p align="center">
-<br/>D 44</p>
+<br/>
+<p align="center">D 972</p>
 </td>
 <td>
-<p align="center">
-<br/>D 972</p>
+<br/>
+<p align="center">D 572</p>
 </td>
 <td>
-<p align="center">
-<br/>COUTANCES.</p>
+<br/>
+<p align="center">BERIGNY</p>
 </td>
 <td>
-<p align="center">
-<br/>D 971</p>
+<br/>
+<p align="center">N 174</p>
 </td>
 <td>
-<p align="center">
-<br/>COUTANCES.</p>
+<br/>
+<p align="center">SAINT-LO</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>50</p>
+<br/>
+<p align="center">50</p>
 </td>
 <td>
-<p align="center">
-<br/>D 971</p>
+<br/>
+<p align="center">D 56</p>
 </td>
 <td>
-<p align="center">
-<br/>D 2</p>
+<br/>
+<p align="center">N 13</p>
 </td>
 <td>
-<p align="center">
-<br/>COUTANCES.</p>
+<br/>
+<p align="center">BRIX</p>
 </td>
 <td>
-<p align="center">
-<br/>D 973</p>
+<br/>
+<p align="center">D 22</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-PAIR-SUR-MER.</p>
+<br/>
+<p align="center">COUVILLE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>50</p>
+<br/>
+<p align="center">50</p>
 </td>
 <td>
-<p align="center">
-<br/>D 972</p>
+<br/>
+<p align="center">D 974</p>
 </td>
 <td>
-<p align="center">
-<br/>D 44</p>
+<br/>
+<p align="center">N 174</p>
 </td>
 <td>
-<p align="center">
-<br/>COUTANCES.</p>
+<br/>
+<p align="center">CAVIGNY</p>
 </td>
 <td>
-<p align="center">
-<br/>D 2972</p>
+<br/>
+<p align="center">N 174</p>
 </td>
 <td>
-<p align="center">
-<br/>AGNEAUX.</p>
+<br/>
+<p align="center">SAINT-LO</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>50</p>
+<br/>
+<p align="center">50</p>
 </td>
 <td>
-<p align="center">
-<br/>D 652</p>
+<br/>
+<p align="center">D 40</p>
 </td>
 <td>
-<p align="center">
-<br/>D 650</p>
+<br/>
+<p align="center">D 43</p>
 </td>
 <td>
-<p align="center">
-<br/>CREANCES.</p>
+<br/>
+<p align="center">CEAUX</p>
 </td>
 <td>
-<p align="center">
-<br/>D 900</p>
+<br/>
+<p align="center">Limite département 50/35</p>
 </td>
 <td>
-<p align="center">
-<br/>LESSAY.</p>
+<br/>
+<p align="center">SACEY</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>50</p>
+<br/>
+<p align="center">50</p>
 </td>
 <td>
-<p align="center">
-<br/>D 23</p>
+<br/>
+<p align="center">D 43</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">N 175</p>
 </td>
 <td>
-<p align="center">
-<br/>FLAMANVILLE.</p>
+<br/>
+<p align="center">CEAUX</p>
 </td>
 <td>
-<p align="center">
-<br/>D 650</p>
+<br/>
+<p align="center">D 40</p>
 </td>
 <td>
-<p align="center">
-<br/>LES PIEUX.</p>
+<br/>
+<p align="center">CEAUX</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>50</p>
+<br/>
+<p align="center">50</p>
 </td>
 <td>
-<p align="center">
-<br/>D 901</p>
+<br/>
+<p align="center">Avenue de Cessart</p>
 </td>
 <td>
-<p align="center">
-<br/>D 61</p>
+<br/>
+<p align="center">D 901</p>
 </td>
 <td>
-<p align="center">
-<br/>GONNEVILLE.</p>
+<br/>
+<p align="center">CHERBOURG-OCTEVILLE</p>
 </td>
 <td>
-<p align="center">
-<br/>N 132</p>
+<br/>
+<p align="center">Place Napoléon</p>
 </td>
 <td>
-<p align="center">
-<br/>TOURLAVILLE.</p>
+<br/>
+<p align="center">CHERBOURG-OCTEVILLE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>50</p>
+<br/>
+<p align="center">50</p>
 </td>
 <td>
-<p align="center">
-<br/>D 975</p>
+<br/>
+<p align="center">D 650</p>
 </td>
 <td>
-<p align="center">
-<br/>D 307 A</p>
+<br/>
+<p align="center">Quai Alexandre III</p>
 </td>
 <td>
-<p align="center">
-<br/>GOUVETS.</p>
+<br/>
+<p align="center">CHERBOURG-OCTEVILLE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 911</p>
+<br/>
+<p align="center">D 652</p>
 </td>
 <td>
-<p align="center">
-<br/>PONTS.</p>
+<br/>
+<p align="center">CREANCES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>50</p>
+<br/>
+<p align="center">50</p>
 </td>
 <td>
-<p align="center">
-<br/>D 973</p>
+<br/>
+<p align="center">D 650</p>
 </td>
 <td>
-<p align="center">
-<br/>D 924</p>
+<br/>
+<p align="center">D 900</p>
 </td>
 <td>
-<p align="center">
-<br/>GRANVILLE.</p>
+<br/>
+<p align="center">CHERBOURG-OCTEVILLE</p>
 </td>
 <td>
-<p align="center">
-<br/>N 175</p>
+<br/>
+<p align="center">D 652</p>
 </td>
 <td>
-<p align="center">
-<br/>MARCEY-LES-GREVES.</p>
+<br/>
+<p align="center">CREANCES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>50</p>
+<br/>
+<p align="center">50</p>
 </td>
 <td>
-<p align="center">
-<br/>D 675</p>
+<br/>
+<p align="center">Place Napoléon</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Avenue de Cessart</p>
 </td>
 <td>
-<p align="center">
-<br/>GUILBERVILLE.</p>
+<br/>
+<p align="center">CHERBOURG-OCTEVILLE</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Quai de Caligny</p>
 </td>
 <td>
-<p align="center">
-<br/>GUILBERVILLE.</p>
+<br/>
+<p align="center">CHERBOURG-OCTEVILLE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>50</p>
+<br/>
+<p align="center">50</p>
 </td>
 <td>
-<p align="center">
-<br/>D 675</p>
+<br/>
+<p align="center">Quai de Calligny</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Place Napoléon</p>
 </td>
 <td>
-<p align="center">
-<br/>GUILBERVILLE.</p>
+<br/>
+<p align="center">CHERBOURG-OCTEVILLE</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">Quai Alexandre III</p>
 </td>
 <td>
-<p align="center">
-<br/>GUILBERVILLE.</p>
+<br/>
+<p align="center">CHERBOURG-OCTEVILLE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>50</p>
+<br/>
+<p align="center">50</p>
 </td>
 <td>
-<p align="center">
-<br/>D 974</p>
+<br/>
+<p align="center">D 53</p>
 </td>
 <td>
-<p align="center">
-<br/>A 84</p>
+<br/>
+<p align="center">N 174</p>
 </td>
 <td>
-<p align="center">
-<br/>GUILBERVILLE.</p>
+<br/>
+<p align="center">CONDE-SUR-VIRE</p>
 </td>
 <td>
-<p align="center">
-<br/>N 174</p>
+<br/>
+<p align="center">D 974</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-LO.</p>
+<br/>
+<p align="center">SAINT-AMAND</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>50</p>
+<br/>
+<p align="center">50</p>
 </td>
 <td>
-<p align="center">
-<br/>D 975</p>
+<br/>
+<p align="center">D 44</p>
 </td>
 <td>
-<p align="center">
-<br/>D 675</p>
+<br/>
+<p align="center">D 971</p>
 </td>
 <td>
-<p align="center">
-<br/>GUILBERVILLE.</p>
+<br/>
+<p align="center">COUTANCES</p>
 </td>
 <td>
-<p align="center">
-<br/>N 2175</p>
+<br/>
+<p align="center">D 971E3</p>
 </td>
 <td>
-<p align="center">
-<br/>BEUVRIGNY.</p>
+<br/>
+<p align="center">COUTANCES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>50</p>
+<br/>
+<p align="center">50</p>
 </td>
 <td>
-<p align="center">
-<br/>D 77</p>
+<br/>
+<p align="center">D 971</p>
 </td>
 <td>
-<p align="center">
-<br/>D 900</p>
+<br/>
+<p align="center">D 972</p>
 </td>
 <td>
-<p align="center">
-<br/>HEBECREVON.</p>
+<br/>
+<p align="center">COUTANCES</p>
 </td>
 <td>
-<p align="center">
-<br/>D 972</p>
+<br/>
+<p align="center">D 973</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-GILLES.</p>
+<br/>
+<p align="center">SAINT-PAIR-SUR-MER</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>50</p>
+<br/>
+<p align="center">50</p>
 </td>
 <td>
-<p align="center">
-<br/>D 89</p>
+<br/>
+<p align="center">D 972</p>
 </td>
 <td>
-<p align="center">
-<br/>D 77</p>
+<br/>
+<p align="center">D 971</p>
 </td>
 <td>
-<p align="center">
-<br/>LE HOMMET-D'ARTHENAY.</p>
+<br/>
+<p align="center">COUTANCES</p>
 </td>
 <td>
-<p align="center">
-<br/>D 92</p>
+<br/>
+<p align="center">D 900E3</p>
 </td>
 <td>
-<p align="center">
-<br/>AMIGNY.</p>
+<br/>
+<p align="center">AGNEAUX</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>50</p>
+<br/>
+<p align="center">50</p>
 </td>
 <td>
-<p align="center">
-<br/>D 4</p>
+<br/>
+<p align="center">D   652</p>
 </td>
 <td>
-<p align="center">
-<br/>D 650</p>
+<br/>
+<p align="center">D   650</p>
 </td>
 <td>
-<p align="center">
-<br/>LES PIEUX.</p>
+<br/>
+<p align="center">CREANCES</p>
 </td>
 <td>
-<p align="center">
-<br/>D 23</p>
+<br/>
+<p align="center">D 900</p>
 </td>
 <td>
-<p align="center">
-<br/>LES PIEUX.</p>
+<br/>
+<p align="center">LESSAY</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>50</p>
+<br/>
+<p align="center">50</p>
 </td>
 <td>
-<p align="center">
-<br/>D 2</p>
+<br/>
+<p align="center">D 23</p>
 </td>
 <td>
-<p align="center">
-<br/>D 900</p>
+<br/>
+<p align="center">Extrémité</p>
 </td>
 <td>
-<p align="center">
-<br/>LESSAY.</p>
+<br/>
+<p align="center">FLAMANVILLE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 971</p>
+<br/>
+<p align="center">D 650</p>
 </td>
 <td>
-<p align="center">
-<br/>COUTANCES.</p>
+<br/>
+<p align="center">LES PIEUX</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>50</p>
+<br/>
+<p align="center">50</p>
 </td>
 <td>
-<p align="center">
-<br/>D 352</p>
+<br/>
+<p align="center">D 901</p>
 </td>
 <td>
-<p align="center">
-<br/>D 900</p>
+<br/>
+<p align="center">D 611</p>
 </td>
 <td>
-<p align="center">
-<br/>MARTINVAST.</p>
+<br/>
+<p align="center">GONNEVILLE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 119</p>
+<br/>
+<p align="center">D 901</p>
 </td>
 <td>
-<p align="center">
-<br/>MARTINVAST.</p>
+<br/>
+<p align="center">TOURLAVILLE</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>50</p>
+<br/>
+<p align="center">50</p>
 </td>
 <td>
-<p align="center">
-<br/>D 900</p>
+<br/>
+<p align="center">D 975</p>
 </td>
 <td>
-<p align="center">
-<br/>D 352</p>
+<br/>
+<p align="center">Limite département 50/14</p>
 </td>
 <td>
-<p align="center">
-<br/>MARTINVAST.</p>
+<br/>
+<p align="center">GOUVETS</p>
 </td>
 <td>
-<p align="center">
-<br/>D 650</p>
+<br/>
+<p align="center">D 911</p>
 </td>
 <td>
-<p align="center">
-<br/>CHERBOURG-OCTEVILLE.</p>
+<br/>
+<p align="center">PONTS</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>50</p>
+<br/>
+<p align="center">50</p>
 </td>
 <td>
-<p align="center">
-<br/>D 11</p>
+<br/>
+<p align="center">D 973</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 924</p>
 </td>
 <td>
-<p align="center">
-<br/>MOON-SUR-ELLE.</p>
+<br/>
+<p align="center">GRANVILLE</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 7</p>
 </td>
 <td>
-<p align="center">
-<br/>MOON-SUR-ELLE.</p>
+<br/>
+<p align="center">MARCEY-LES-GREVES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>50</p>
+<br/>
+<p align="center">50</p>
 </td>
 <td>
-<p align="center">
-<br/>D 15</p>
+<br/>
+<p align="center">D 974</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 975</p>
 </td>
 <td>
-<p align="center">
-<br/>MOON-SUR-ELLE.</p>
+<br/>
+<p align="center">GUILBERVILLE</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">N 174</p>
 </td>
 <td>
-<p align="center">
-<br/>MOON-SUR-ELLE.</p>
+<br/>
+<p align="center">SAINT-LO</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>50</p>
+<br/>
+<p align="center">50</p>
 </td>
 <td>
-<p align="center">
-<br/>D 911</p>
+<br/>
+<p align="center">D 975</p>
 </td>
 <td>
-<p align="center">
-<br/>N 2175</p>
+<br/>
+<p align="center">Limite département 50/14</p>
 </td>
 <td>
-<p align="center">
-<br/>PONTS.</p>
+<br/>
+<p align="center">GUILBERVILLE</p>
 </td>
 <td>
-<p align="center">
-<br/>D 7</p>
+<br/>
+<p align="center">Limite département 50/14</p>
 </td>
 <td>
-<p align="center">
-<br/>PONTS.</p>
+<br/>
+<p align="center">BEUVRIGNY</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>50</p>
+<br/>
+<p align="center">50</p>
 </td>
 <td>
-<p align="center">
-<br/>D 45</p>
+<br/>
+<p align="center">D 77</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 900</p>
 </td>
 <td>
-<p align="center">
-<br/>QUERQUEVILLE.</p>
+<br/>
+<p align="center">HEBECREVON</p>
 </td>
 <td>
-<p align="center">
-<br/>Extrémité</p>
+<br/>
+<p align="center">D 972</p>
 </td>
 <td>
-<p align="center">
-<br/>EQUEURDREVILLE-HAINNEVILLE.</p>
+<br/>
+<p align="center">SAINT-GILLES</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>50</p>
+<br/>
+<p align="center">50</p>
 </td>
 <td>
-<p align="center">
-<br/>D 22</p>
+<br/>
+<p align="center">D 89</p>
 </td>
 <td>
-<p align="center">
-<br/>D 901</p>
+<br/>
+<p align="center">D 900</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINTE-CROIX-HAGUE.</p>
+<br/>
+<p align="center">AMIGNY</p>
 </td>
 <td>
-<p align="center">
-<br/>D 56</p>
+<br/>
+<p align="center">D 377E1</p>
 </td>
 <td>
-<p align="center">
-<br/>COUVILLE.</p>
+<br/>
+<p align="center">AMIGNY</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>50</p>
+<br/>
+<p align="center">50</p>
 </td>
 <td>
-<p align="center">
-<br/>D 900</p>
+<br/>
+<p align="center">D 4</p>
 </td>
 <td>
-<p align="center">
-<br/>D 2</p>
+<br/>
+<p align="center">D 650</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-SAUVEUR-LE-VICOMTE.</p>
+<br/>
+<p align="center">LES PIEUX</p>
 </td>
 <td>
-<p align="center">
-<br/>D 2</p>
+<br/>
+<p align="center">D 23</p>
 </td>
 <td>
-<p align="center">
-<br/>LESSAY.</p>
+<br/>
+<p align="center">LES PIEUX</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">
-<br/>50</p>
+<br/>
+<p align="center">50</p>
 </td>
 <td>
-<p align="center">
-<br/>D 2</p>
+<br/>
+<p align="center">D 2</p>
 </td>
 <td>
-<p align="center">
-<br/>N 13</p>
+<br/>
+<p align="center">D 900</p>
 </td>
 <td>
-<p align="center">
-<br/>VALOGNES.</p>
+<br/>
+<p align="center">LESSAY</p>
 </td>
 <td>
-<p align="center">
-<br/>D 900</p>
+<br/>
+<p align="center">D 971</p>
 </td>
 <td>
-<p align="center">
-<br/>SAINT-SAUVEUR-LE-VICOMTE.</p>
+<br/>
+<p align="center">COUTANCES</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+<p align="center">50</p>
+</td>
+<td>
+<br/>
+<p align="center">D   352</p>
+</td>
+<td>
+<br/>
+<p align="center">D   900</p>
+</td>
+<td>
+<br/>
+<p align="center">MARTINVAST</p>
+</td>
+<td>
+<br/>
+<p align="center">D   119</p>
+</td>
+<td>
+<br/>
+<p align="center">MARTINVAST</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+<p align="center">50</p>
+</td>
+<td>
+<br/>
+<p align="center">D   900</p>
+</td>
+<td>
+<br/>
+<p align="center">D   352</p>
+</td>
+<td>
+<br/>
+<p align="center">MARTINVAST</p>
+</td>
+<td>
+<br/>
+<p align="center">D   650</p>
+</td>
+<td>
+<br/>
+<p align="center">CHERBOURG-OCTEVILLE</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+<p align="center">50</p>
+</td>
+<td>
+<br/>
+<p align="center">D 911</p>
+</td>
+<td>
+<br/>
+<p align="center">D 911E</p>
+</td>
+<td>
+<br/>
+<p align="center">PONTS</p>
+</td>
+<td>
+<br/>
+<p align="center">D 975</p>
+</td>
+<td>
+<br/>
+<p align="center">PONTS</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+<p align="center">50</p>
+</td>
+<td>
+<br/>
+<p align="center">D 22</p>
+</td>
+<td>
+<br/>
+<p align="center">D 901</p>
+</td>
+<td>
+<br/>
+<p align="center">SAINTE-CROIX-HAGUE</p>
+</td>
+<td>
+<br/>
+<p align="center">D 56</p>
+</td>
+<td>
+<br/>
+<p align="center">COUVILLE</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+<p align="center">50</p>
+</td>
+<td>
+<br/>
+<p align="center">D 900</p>
+</td>
+<td>
+<br/>
+<p align="center">D 2</p>
+</td>
+<td>
+<br/>
+<p align="center">SAINT-SAUVEUR-LE-VICOMTE</p>
+</td>
+<td>
+<br/>
+<p align="center">D 2</p>
+</td>
+<td>
+<br/>
+<p align="center">LESSAY</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+<p align="center">50</p>
+</td>
+<td>
+<br/>
+<p align="center">D 2</p>
+</td>
+<td>
+<br/>
+<p align="center">N 13</p>
+</td>
+<td>
+<br/>
+<p align="center">VALOGNES</p>
+</td>
+<td>
+<br/>
+<p align="center">D 900</p>
+</td>
+<td>
+<br/>
+<p align="center">SAINT-SAUVEUR-LE-VICOMTE</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+<p align="center">50</p>
+</td>
+<td>
+<br/>
+<p align="center">D 976</p>
+</td>
+<td>
+<br/>
+<p align="center">Limite département 50/61</p>
+</td>
+<td>
+<br/>
+<p align="center">LE TEILLEUL</p>
+</td>
+<td>
+<br/>
+<p align="center">D 43</p>
+</td>
+<td>
+<br/>
+<p align="center">PONTAUBAULT</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+<p align="center">50</p>
+</td>
+<td>
+<br/>
+<p align="center">D 999</p>
+</td>
+<td>
+<br/>
+<p align="center">D 972</p>
+</td>
+<td>
+<br/>
+<p align="center">SAINT-LO</p>
+</td>
+<td>
+<br/>
+<p align="center">D 972</p>
+</td>
+<td>
+<br/>
+<p align="center">SAINT-LO</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+<p align="center">50</p>
+</td>
+<td>
+<br/>
+<p align="center">D 56E1</p>
+</td>
+<td>
+<br/>
+<p align="center">N 13</p>
+</td>
+<td>
+<br/>
+<p align="center">BRIX</p>
+</td>
+<td>
+<br/>
+<p align="center">D 56</p>
+</td>
+<td>
+<br/>
+<p align="center">BRIX</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+<p align="center">50</p>
+</td>
+<td>
+<br/>
+<p align="center">D 911E</p>
+</td>
+<td>
+<br/>
+<p align="center">D 911</p>
+</td>
+<td>
+<br/>
+<p align="center">PONTS</p>
+</td>
+<td>
+<br/>
+<p align="center">D 7E1</p>
+</td>
+<td>
+<br/>
+<p align="center">PONTS</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+<p align="center">50</p>
+</td>
+<td>
+<br/>
+<p align="center">D 7E1</p>
+</td>
+<td>
+<br/>
+<p align="center">N 175</p>
+</td>
+<td>
+<br/>
+<p align="center">PONTS</p>
+</td>
+<td>
+<br/>
+<p align="center">D 31</p>
+</td>
+<td>
+<br/>
+<p align="center">AVRANCHES</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+<p align="center">50</p>
+</td>
+<td>
+<br/>
+<p align="center">D 998</p>
+</td>
+<td>
+<br/>
+<p align="center">D 30</p>
+</td>
+<td>
+<br/>
+<p align="center">SAINT-JAMES</p>
+</td>
+<td>
+<br/>
+<p align="center">D 976</p>
+</td>
+<td>
+<br/>
+<p align="center">PONTAUBAULT</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+<p align="center">50</p>
+</td>
+<td>
+<br/>
+<p align="center">D 13</p>
+</td>
+<td>
+<br/>
+<p align="center">D 999</p>
+</td>
+<td>
+<br/>
+<p align="center">VILLEBAUDON</p>
+</td>
+<td>
+<br/>
+<p align="center">D 53</p>
+</td>
+<td>
+<br/>
+<p align="center">CONDE-SUR-VIRE</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+<p align="center">50</p>
+</td>
+<td>
+<br/>
+<p align="center">D 971</p>
+</td>
+<td>
+<br/>
+<p align="center">D 972</p>
+</td>
+<td>
+<br/>
+<p align="center">COUTANCES</p>
+</td>
+<td>
+<br/>
+<p align="center">N 13</p>
+</td>
+<td>
+<br/>
+<p align="center">CARENTAN</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+<p align="center">50</p>
+</td>
+<td>
+<br/>
+<p align="center">D 999</p>
+</td>
+<td>
+<br/>
+<p align="center">A 84</p>
+</td>
+<td>
+<br/>
+<p align="center">LA COLOMBE</p>
+</td>
+<td>
+<br/>
+<p align="center">D 13</p>
+</td>
+<td>
+<br/>
+<p align="center">VILLEBAUDON</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+<p align="center">50</p>
+</td>
+<td>
+<br/>
+<p align="center">D 999</p>
+</td>
+<td>
+<br/>
+<p align="center">A 84</p>
+</td>
+<td>
+<br/>
+<p align="center">LA COLOMBE</p>
+</td>
+<td>
+<br/>
+<p align="center">D 47</p>
+</td>
+<td>
+<br/>
+<p align="center">MARTIGNY</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+<p align="center">50</p>
+</td>
+<td>
+<br/>
+<p align="center">D 47</p>
+</td>
+<td>
+<br/>
+<p align="center">D 999</p>
+</td>
+<td>
+<br/>
+<p align="center">MARTIGNY</p>
+</td>
+<td>
+<br/>
+<p align="center">D 85</p>
+</td>
+<td>
+<br/>
+<p align="center">ISIGNY-LE-BUAT</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+<p align="center">50</p>
+</td>
+<td>
+<br/>
+<p align="center">D 85</p>
+</td>
+<td>
+<br/>
+<p align="center">D 47</p>
+</td>
+<td>
+<br/>
+<p align="center">ISIGNY-LE-BUAT</p>
+</td>
+<td>
+<br/>
+<p align="center">D 976</p>
+</td>
+<td>
+<br/>
+<p align="center">ISIGNY-LE-BUAT</p>
 </td>
 </tr>
 </tbody>
