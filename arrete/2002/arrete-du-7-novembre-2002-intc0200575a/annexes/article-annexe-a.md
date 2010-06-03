@@ -1,6 +1,6 @@
 # Article Annexe A
 
-FONCTIONNAIRES DU CORPS DE CONCEPTION ET DE DIRECTION DE LA POLICE NATIONALE EXERÇANT LEURS FONCTIONS EN SERVICES CENTRAUX ET À LA PRÉFECTURE DE POLICE
+**FONCTIONNAIRES DU CORPS DE CONCEPTION ET DE DIRECTION DE LA POLICE NATIONALE EXERÇANT LEURS FONCTIONS EN SERVICES CENTRAUX ET À LA PRÉFECTURE DE POLICE**
 
 Services centraux
 
@@ -10,80 +10,79 @@ Services centraux
 <tbody>
 <tr>
 <th>
-<br/>DÉSIGNATION DES EMPLOIS <br/>
+<br/>DÉSIGNATION DES EMPLOIS<br/>
 </th>
 <th>
-<br/>NOMBRE <p>de bénéficiaires <br/>
-</p>
+<br/>NOMBRE DE BÉNÉFICIAIRES<br/>
 </th>
 <th>
-<br/>NOMBRE DE POINTS <br/>
+<br/>NOMBRE DE POINTS<br/>
 </th>
 </tr>
 <tr>
 <td align="center">
-<br/>Directeur des services actifs à la DCSP. <br/>
+<br/>Directeur des services actifs, directeur central de la sécurité publique.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>140 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Directeur des services actifs à la DCPAF. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>140 <br/>
+<br/>140<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Directeur des services actifs à la DCRI. <br/>
+<br/>Directeur des services actifs, directeur central de la police aux frontières.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>140 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Directeur des services actifs à la DCCRS. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>140 <br/>
+<br/>140<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Directeur des services actifs à la DFPN. <br/>
+<br/>Directeur des services actifs, directeur central du renseignement intérieur.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>140 <br/>
+<br/>140<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Directeur des services actifs à la DCPJ. <br/>
+<br/>Directeur des services actifs, directeur central des compagnies républicaines de sécurité.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>140 <br/>
+<br/>140<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur des services actifs, directeur de la formation de la police nationale.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>140<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur des services actifs, directeur central de la police judiciaire.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>140<br/>
 </td>
 </tr>
 </tbody>
@@ -95,25 +94,24 @@ Services centraux
 <tbody>
 <tr>
 <th>
-<br/>DÉSIGNATION DES EMPLOIS <br/>
+<br/>DÉSIGNATION DES EMPLOIS<br/>
 </th>
 <th>
-<br/>NOMBRE <p>de bénéficiaires <br/>
-</p>
+<br/>NOMBRE DE BÉNÉFICIAIRES<br/>
 </th>
 <th>
-<br/>NOMBRE DE POINTS <br/>
+<br/>NOMBRE DE POINTS<br/>
 </th>
 </tr>
 <tr>
 <td align="center">
-<br/>Directeur, chef de l'inspection générale des services actifs (IGPN). <br/>
+<br/>Directeur, chef de l'inspection générale de la police nationale (IGPN).<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>140 <br/>
+<br/>140<br/>
 </td>
 </tr>
 </tbody>
@@ -125,36 +123,35 @@ Services centraux
 <tbody>
 <tr>
 <th>
-<br/>DÉSIGNATION DES EMPLOIS <br/>
+<br/>DÉSIGNATION DES EMPLOIS<br/>
 </th>
 <th>
-<br/>NOMBRE <p>de bénéficiaires <br/>
-</p>
+<br/>NOMBRE DE BÉNÉFICIAIRES<br/>
 </th>
 <th>
-<br/>NOMBRE DE POINTS <br/>
+<br/>NOMBRE DE POINTS<br/>
 </th>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef du service de coopération technique internationale de police (SCTIP). <br/>
+<br/>Chef du service de coopération technique internationale de police (SCTIP).<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>130 <br/>
+<br/>130<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef du service de protection des hautes personnalités (SPHP). <br/>
+<br/>Chef du service de protection des hautes personnalités (SPHP).<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>130 <br/>
+<br/>130<br/>
 </td>
 </tr>
 </tbody>
@@ -166,91 +163,90 @@ Services centraux
 <tbody>
 <tr>
 <th>
-<br/>DÉSIGNATION DES EMPLOIS <br/>
+<br/>DÉSIGNATION DES EMPLOIS<br/>
 </th>
 <th>
-<br/>NOMBRE <p>de bénéficiaires <br/>
-</p>
+<br/>NOMBRE DE BÉNÉFICIAIRES<br/>
 </th>
 <th>
-<br/>NOMBRE DE POINTS <br/>
+<br/>NOMBRE DE POINTS<br/>
 </th>
 </tr>
 <tr>
 <td align="center">
-<br/>Directeur central adjoint opérationnel du renseignement intérieur (DCRI). <br/>
+<br/>Directeur central adjoint opérationnel du renseignement intérieur (DCRI).<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>110 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Directeur central adjoint organique du renseignement intérieur (DCRI). <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>110 <br/>
+<br/>110<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Directeur central adjoint, chef de l'état-major (DCPAF). <br/>
+<br/>Directeur central adjoint organique du renseignement intérieur (DCRI).<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>110 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Directeur central adjoint (DCCRS). <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>110 <br/>
+<br/>110<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Directeur central adjoint (DCPJ). <br/>
+<br/>Directeur central adjoint, chef de l'état-major (DCPAF).<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>110 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Directeur central adjoint (DFPN). <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>110 <br/>
+<br/>110<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Directeur central adjoint, chef d'état-major (DCSP). <br/>
+<br/>Directeur central adjoint (DCCRS).<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>110 <br/>
+<br/>110<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur central adjoint (DCPJ).<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>110<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur adjoint (DFPN).<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>110<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur central adjoint, chef d'état-major (DCSP).<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>110<br/>
 </td>
 </tr>
 </tbody>
@@ -262,25 +258,24 @@ Services centraux
 <tbody>
 <tr>
 <th>
-<br/>DÉSIGNATION DES EMPLOIS <br/>
+<br/>DÉSIGNATION DES EMPLOIS<br/>
 </th>
 <th>
-<br/>NOMBRE <p>de bénéficiaires <br/>
-</p>
+<br/>NOMBRE DE BÉNÉFICIAIRES<br/>
 </th>
 <th>
-<br/>NOMBRE DE POINTS <br/>
+<br/>NOMBRE DE POINTS<br/>
 </th>
 </tr>
 <tr>
 <td align="center">
-<br/>Chargé de la coordination des services et de l'animation des contrôles et des études à l'IGPN. <br/>
+<br/>Chargé de la coordination des services et de l'animation des contrôles et des études à l'IGPN.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>110 <br/>
+<br/>110<br/>
 </td>
 </tr>
 </tbody>
@@ -292,58 +287,57 @@ Services centraux
 <tbody>
 <tr>
 <th>
-<br/>DÉSIGNATION DES EMPLOIS <br/>
+<br/>DÉSIGNATION DES EMPLOIS<br/>
 </th>
 <th>
-<br/>NOMBRE <p>de bénéficiaires <br/>
-</p>
+<br/>NOMBRE DE BÉNÉFICIAIRES<br/>
 </th>
 <th>
-<br/>NOMBRE DE POINTS <br/>
+<br/>NOMBRE DE POINTS<br/>
 </th>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef d'état-major à la DCRI. <br/>
+<br/>Chef d'état-major à la DCRI.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>80 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef d'état-major à la DCPJ. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>80 <br/>
+<br/>80<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef de l'état-major à la DCSP. <br/>
+<br/>Chef d'état-major à la DCPJ.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>100 <br/>
+<br/>80<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Adjoint au chef de l'état-major à la DCPAF. <br/>
+<br/>Chef de l'état-major à la DCSP .<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>80 <br/>
+<br/>100<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Adjoint au chef de l'état-major à la DCPAF.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>80<br/>
 </td>
 </tr>
 </tbody>
@@ -355,222 +349,196 @@ Services centraux
 <tbody>
 <tr>
 <th>
-<br/>DÉSIGNATION DES EMPLOIS <br/>
+<br/>DÉSIGNATION DES EMPLOIS<br/>
 </th>
 <th>
-<br/>NOMBRE <p>de bénéficiaires <br/>
-</p>
+<br/>NOMBRE DE BÉNÉFICIAIRES<br/>
 </th>
 <th>
-<br/>NOMBRE DE POINTS <br/>
+<br/>NOMBRE DE POINTS<br/>
 </th>
 </tr>
 <tr>
 <td align="center">
-<br/>Directeur de cabinet du DGPN. <br/>
+<br/>Directeur de cabinet à la DGPN.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>110 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Conseiller technique du DGPN et chef du service d'information et de communication de la police nationale. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>80 <br/>
+<br/>120<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef du bureau de la défense à la DGPN. <br/>
+<br/>Conseiller, chef du service de communication de la police nationale, chef du pôle communication (SICOP et SHPN) à la DGPN.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>60 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef du cabinet de l'ordre public à la DGPN. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>60 <br/>
+<br/>80<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef du cabinet des affaires européennes et internationales à la DGPN. <br/>
+<br/>Chef du pôle ordre public, défense et renseignement (DGPN).<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>60 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef du cabinet mission DOM-TOM, suivi des CSI, aide aux victimes, politique de la ville à la DGPN. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>60 <br/>
+<br/>80<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef du cabinet politique pénale et police judiciaire, chef de la mission de lutte anti-drogue (MILAD) à la DGPN. <br/>
+<br/>Conseiller, chef du pôle des affaires européennes et internationales (DGPN).<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>60 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chargé de mission auprès du directeur de cabinet à la DGPN. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>60 <br/>
+<br/>80<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Coordonnateur des services actifs à la DGPN. <br/>
+<br/>Chef du cabinet politique pénale et police judiciaire à la DGPN et chef de la mission de lutte antidrogue (MILAD).<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>60 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chargé de mission à la DGPN. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>60 <br/>
+<br/>70<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Conseiller, responsable de pôle auprès du DGPN. <br/>
+<br/>Chargé de mission auprès du directeur de cabinet à la DGPN.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>60 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Directeur de cabinet à la DAPN. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>80 <br/>
+<br/>70<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef de l'inspection technique à la DCCRS. <br/>
+<br/>Conseiller, chef du pôle ressources humaines (DGPN).<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>50 <br/>
+<br/>80<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Conseiller, chef du cabinet partenariats opérationnels (DGPN).<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>70<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Conseiller, chef du pôle prévention, judiciaire, partenariats (DGPN).<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>80<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur de cabinet à la DAPN.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>80<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de l'inspection technique à la DCCRS.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>50<br/>
 </td>
 </tr>
 </tbody>
 </table>
 
-8° Chef d'un service opérationnel à la direction générale de la police nationale
-
-(RAID, UCLAT, SSMI, SCA)
+8° Chef d'un service opérationnel à la direction générale de la police nationale (RAID, UCLAT, SSMI, SCA)
 
 <table>
 <tbody>
 <tr>
 <th>
-<br/>DÉSIGNATION DES EMPLOIS <br/>
+<br/>DÉSIGNATION DES EMPLOIS<br/>
 </th>
 <th>
-<br/>NOMBRE <p>de bénéficiaires <br/>
-</p>
+<br/>NOMBRE DE BÉNÉFICIAIRES<br/>
 </th>
 <th>
-<br/>NOMBRE DE POINTS <br/>
+<br/>NOMBRE DE POINTS<br/>
 </th>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef du RAID. <br/>
+<br/>Chef du RAID et du DCI.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>100 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef de l'unité de coordination lutte antiterroriste (UCLAT). <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>90 <br/>
+<br/>100<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef du service central automobile (SCA). <br/>
+<br/>Chef de l'unité de coordination lutte antiterroriste (UCLAT).<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>60 <br/>
+<br/>90<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef du service de sécurité du ministère de l'intérieur (SSMI). <br/>
+<br/>Chef du service central automobile (SCA).<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>60 <br/>
+<br/>60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef du service de sécurité du ministère de l'intérieur (SSMI).<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>60<br/>
 </td>
 </tr>
 </tbody>
@@ -582,355 +550,354 @@ Services centraux
 <tbody>
 <tr>
 <th>
-<br/>DÉSIGNATION DES EMPLOIS <br/>
+<br/>DÉSIGNATION DES EMPLOIS<br/>
 </th>
 <th>
-<br/>NOMBRE <p>de bénéficiaires <br/>
-</p>
+<br/>NOMBRE DE BÉNÉFICIAIRES<br/>
 </th>
 <th>
-<br/>NOMBRE DE POINTS <br/>
+<br/>NOMBRE DE POINTS<br/>
 </th>
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur des ressources et des études à la DCPJ. <br/>
+<br/>Sous-directeur des ressources, de l'évaluation et de la stratégie à la DCPJ.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>100 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Sous-directeur de la lutte contre la criminalité organisée et la délinquance financière à la DCPJ. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>100 <br/>
+<br/>100<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur chargé de l'antiterrorisme à la DCPJ. <br/>
+<br/>Sous-directeur de la lutte contre la criminalité organisée et la délinquance financière à la DCPJ.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>100 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Sous-directeur de la police technique et scientifique à Ecully-DCPJ. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>100 <br/>
+<br/>100<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Coordonnateur opérationnel, adjoint au sous-directeur de la police scientifique à Ecully-DCPJ. <br/>
+<br/>Sous-directeur chargé de l'antiterrorisme à la DCPJ.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>50 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Sous-directeur des affaires internationales à la DCRI. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>100 <br/>
+<br/>100<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur du contre-terrorisme à la DCRI. <br/>
+<br/>Sous-directeur de la police technique et scientifique à Ecully (DCPJ).<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>100 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Sous-directeur de la subversion violente à la DCRI. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>100 <br/>
+<br/>100<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur du contre-espionnage à la DCRI. <br/>
+<br/>Coordonnateur opérationnel, adjoint au sous-directeur de la police technique et scientifique à Ecully (DCPJ).<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>100 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Sous-directeur de la protection économique à la DCRI. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>100 <br/>
+<br/>70<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur des technologies du renseignement à la DCRI. <br/>
+<br/>Sous-directeur des affaires internationales à la DCRI.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>100 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Sous-directeur des supports à la DCRI. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>100 <br/>
+<br/>100<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur de l'administration générale à la DCRI. <br/>
+<br/>Sous-directeur du contre-terrorisme à la DCRI.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>100 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Sous-directeur des enseignements à la DFPN. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>80 <br/>
+<br/>100<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur des moyens à la DFPN. <br/>
+<br/>Sous-directeur de la subversion violente à la DCRI.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>80 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Sous-directeur de l'évaluation, de la prospective et de l'international à la DCSP. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>100 <br/>
+<br/>100<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur des services territoriaux à la DCSP. <br/>
+<br/>Sous-directeur du contre-espionnage à la DCRI.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>100 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Sous-directeur des ressources humaines et de la logistique à la DCSP. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>100 <br/>
+<br/>100<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur de l'information générale à la DCSP. <br/>
+<br/>Sous-directeur de la protection économique à la DCRI.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>100 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Sous-directeur des opérations à la DCCRS. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>70 <br/>
+<br/>100<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur de la logistique à la DCCRS. <br/>
+<br/>Sous-directeur des technologies du renseignement à la DCRI.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>70 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Sous-directeur des personnels et de la formation à la DCCRS. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>70 <br/>
+<br/>100<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur des ressources à la DCPAF. <br/>
+<br/>Sous-directeur des supports à la DCRI.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>100 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Sous-directeur des affaires internationales, transfrontières et de la sûreté à la DCPAF. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>100 <br/>
+<br/>100<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur de l'immigration irrégulière et des services territoriaux à la DCPAF. <br/>
+<br/>Sous-directeur de l'administration générale à la DCRI.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>100 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Adjoint au chef du service de protection des hautes personnalités (SPHP). <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>100 <br/>
+<br/>100<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur des hautes personnalités françaises au SPHP. <br/>
+<br/>Sous-directeur des enseignements à la DFPN.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>60 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Sous-directeur de la gestion opérationnelle au SPHP. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>60 <br/>
+<br/>80<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Adjoint au chef du service de coopération technique internationale de police (SCTIP). <br/>
+<br/>Sous-directeur des moyens à la DFPN.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>100 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Sous-directeur de la coopération technique institutionnelle au SCTIP. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>80 <br/>
+<br/>80<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur de l'information et de la communication au SCTIP. <br/>
+<br/>Sous-directeur de l'évaluation, de la prospective et de l'international à la DCSP.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>80 <br/>
+<br/>100<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Sous-directeur des services territoriaux à la DCSP.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>100<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Sous-directeur des ressources humaines et de la logistique à la DCSP.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>100<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Sous-directeur de l'information générale à la DCSP.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>100<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Sous-directeur des opérations à la DCCRS.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>70<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Sous-directeur de la logistique à la DCCRS.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>70<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Sous-directeur des personnels et de la formation à la DCCRS.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>70<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Sous-directeur des ressources à la DCPAF.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>100<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Sous-directeur des affaires internationales, transfrontières et de la sûreté à la DCPAF.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>100<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Sous-directeur de l'immigration irrégulière et des services territoriaux à la DCPAF.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>100<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Adjoint au chef du service de protection des hautes personnalités (SPHP).<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>100<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Sous-directeur de la sécurité des hautes personnalités françaises au SPHP.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Sous-directeur des ressources et de l'appui opérationnel au SPHP.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Adjoint au chef du service de coopération technique internationale de police (SCTIP).<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>100<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Sous-directeur de la coopération technique et institutionnelle au SCTIP.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>80<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Sous-directeur de l'information et de la communication au SCTIP.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>80<br/>
 </td>
 </tr>
 </tbody>
@@ -942,608 +909,607 @@ Services centraux
 <tbody>
 <tr>
 <th>
-<br/>DÉSIGNATION DES EMPLOIS <br/>
+<br/>DÉSIGNATION DES EMPLOIS<br/>
 </th>
 <th>
-<br/>NOMBRE <p>de bénéficiaires <br/>
-</p>
+<br/>NOMBRE DE BÉNÉFICIAIRES<br/>
 </th>
 <th>
-<br/>NOMBRE DE POINTS <br/>
+<br/>NOMBRE DE POINTS<br/>
 </th>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef du service des technologies de la sécurité intérieure à la DAPN. <br/>
+<br/>Chef du département des affaires judiciaires à la DCRI.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>100 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef du département des affaires judiciaires à la DCRI. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>80 <br/>
+<br/>80<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef du département de la stratégie à la DCRI. <br/>
+<br/>Chef du département de la stratégie à la DCRI.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>80 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef du département de la sécurité à la DCRI. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>80 <br/>
+<br/>80<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Adjoint au sous-directeur des affaires internationales à la DCRI. <br/>
+<br/>Chef du département de la sécurité à la DCRI.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>60 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Adjoint au sous-directeur du contre-terrorisme à la DCRI. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>60 <br/>
+<br/>80<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Adjoint au sous-directeur du contre-terrorisme à la DCRI. <br/>
+<br/>Adjoint au sous-directeur des affaires internationales à la DCRI.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>60 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Adjoint au sous-directeur de la subversion violente à la DCRI. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>60 <br/>
+<br/>60<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Adjoint au sous-directeur du contre-espionnage à la DCRI. <br/>
+<br/>Adjoint au sous-directeur du contre-terrorisme à la DCRI.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>60 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Adjoint au sous-directeur de la protection économique à la DCRI. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>60 <br/>
+<br/>60<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Adjoint au sous-directeur des technologies du renseignement, chef du DRT à la DCRI. <br/>
+<br/>Adjoint au sous-directeur du contre-terrorisme à la DCRI.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>60 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Adjoint au sous-directeur des technologies du renseignement, chef du DROIC à la DCRI. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>60 <br/>
+<br/>60<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Adjoint au sous-directeur des supports à la DCRI. <br/>
+<br/>Adjoint au sous-directeur de la subversion violente à la DCRI.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>60 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Adjoint au sous-directeur de l'administration générale à la DCRI. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>60 <br/>
+<br/>60<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef de division à la sous-direction des affaires internationales à la DCRI. <br/>
+<br/>Adjoint au sous-directeur du contre-espionnage à la DCRI.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>50 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef de division à la sous-direction de la lutte contre-terrorisme à la DCRI. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>50 <br/>
+<br/>60<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef de division à la sous-direction de la subversion violente à la DCRI. <br/>
+<br/>Adjoint au sous-directeur de la protection économique à la DCRI.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>50 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef de division à la sous-direction du contre-espionnage à la DCRI. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>50 <br/>
+<br/>60<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef du département à la sous-direction de la protection économique à la DCRI. <br/>
+<br/>Chef du DRT à la DCRI Boullay-les-Troux.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>50 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef de division à la sous-direction des technologies du renseignement à la DCRI. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>50 <br/>
+<br/>60<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef de division à la sous-direction des supports à la DCRI. <br/>
+<br/>Adjoint au sous-directeur des technologies du renseignement à la DCRI.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>50 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef de division à la sous-direction de l'administration générale à la DCRI. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>50 <br/>
+<br/>60<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Adjoint au sous-directeur des services territoriaux à la DCSP. <br/>
+<br/>Adjoint au sous-directeur des supports à la DCRI.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>70 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Adjoint au sous-directeur de l'information générale à la DSCP. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>70 <br/>
+<br/>60<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Adjoint au sous-directeur de l'évaluation, de la prospective et de l'international à la DCSP. <br/>
+<br/>Adjoint au sous-directeur de l'administration générale à la DCRI.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>70 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Adjoint au sous-directeur des ressources humaines et de la logistique à la DCSP. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>70 <br/>
+<br/>60<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef de la division de l'information et des synthèses à la DCSP. <br/>
+<br/>Chef de division à la sous-direction des affaires internationales à la DCRI.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>70 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef de la division de l'analyse, de l'information institutionnelle et des faits de société à la DCSP. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>50 <br/>
+<br/>50<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef de la division de l'information économique et sociale à la DCSP. <br/>
+<br/>Chef de division à la sous-direction du contre-terrorisme à la DCRI.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>50 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef de la division des dérives et des violences urbaines ou associées aux manifestations sportives à la DCSP. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>50 <br/>
+<br/>50<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef de la division des enquêtes, de la documentation et des systèmes d'information à la DCSP. <br/>
+<br/>Chef de division à la sous-direction de la subversion violente à la DCRI.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>50 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef du service national de police ferroviaire à la DCPAF. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>80 <br/>
+<br/>50<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef de l'office central pour la répression de l'immigration irrégulière et de l'emploi des étrangers sans titre à la DCPAF. <br/>
+<br/>Chef de division à la sous-direction du contre-espionnage à la DCRI.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>60 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Adjoint au sous-directeur, chef du pôle de la lutte contre le crime organisé et les violences aux personnes à la DCPJ. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>80 <br/>
+<br/>50<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Adjoint au sous-directeur, chef du pôle de coordination d'analyse et de supports opérationnels à DCPJ. <br/>
+<br/>Chef de département à la sous-direction de la protection économique à la DCRI.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>80 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Adjoint au sous-directeur, chef du pôle de la lutte contre la grande délinquance financière et de la protection du patrimoine à la DCPJ. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>80 <br/>
+<br/>50<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Adjoint au sous-directeur chargé de l'anti-terrorisme, chef de la division de la logistique opérationnelle à la DCPJ. <br/>
+<br/>Chef de division à la sous-direction des technologies du renseignement à la DCRI.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>50 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef de la division des relations internationales à la DCPJ. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>60 <br/>
+<br/>50<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef du service central des courses et jeux (SCCJ) à la DCPJ. <br/>
+<br/>Chef de division à la sous-direction des supports à la DCRI.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>100 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Adjoint au chef du service central des courses et jeux (SCCJ), chef de la division de la logistique et de la coordination à la DCPJ. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>50 <br/>
+<br/>50<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef de la division de la logistique opérationnelle, adjoint au sous-directeur des ressources et des études à la DCPJ. <br/>
+<br/>Chef de division à la sous-direction de l'administration générale à la DCRI.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>60 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef de la division pour la répression de la traite des êtres humains et des violences aux personnes-chef de l'office central pour la répression de la traite des êtres humains (OCRTEH) à la DCPJ. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>60 <br/>
+<br/>50<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef de la division de lutte contre le crime organisé-chef de l'office central de lutte contre le crime organisé (OCLCO) à la DCPJ. <br/>
+<br/>Adjoint au sous-directeur des services territoriaux à la DCSP.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>80 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef de la division pour la répression du trafic illicite des stupéfiants-chef de l'office central de répression du trafic illicite des stupéfiants (OCRTIS) à la DCPJ. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>80 <br/>
+<br/>70<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef de la division de la protection du patrimoine culturel, économique et technologique à la DCPJ. <br/>
+<br/>Adjoint au sous-directeur de l'information générale à la DCSP.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>60 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef de la division de lutte contre la grande délinquance financière-chef de l'office central de la répression de la grande délinquance financière (OCRGDF) à la DCPJ. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>60 <br/>
+<br/>70<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef de l'office central de lutte contre la criminalité liée aux technologies de l'information et de la communication (OCLCTIC) à la DCPJ. <br/>
+<br/>Adjoint au sous-directeur de l'évaluation, de la prospective et de l'international à la DCSP.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>60 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef de la division nationale d'investigations financières (DNIF) à la DCPJ. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>60 <br/>
+<br/>70<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef du service central de documentation criminelle (SCDC) à Ecully-DCPJ. <br/>
+<br/>Adjoint au sous-directeur des ressources humaines et de la logistique à la DCSP.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>60 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef du service central d'identité judiciaire (SCIJ) à Ecully-DCPJ. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>60 <br/>
+<br/>70<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef du cabinet central de discipline à l'IGPN. <br/>
+<br/>Chef de la division de l'information et des synthèses à la DCSP.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>80 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef du cabinet des études à l'IGPN. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>80 <br/>
+<br/>70<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef du cabinet des audits à l'IGPN. <br/>
+<br/>Chef de la division de l'analyse, de l'information institutionnelle et des questions de société à la DCSP.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>80 <br/>
+<br/>50<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Secrétaire général à l'IGPN. <br/>
+<br/>Chef de la division de l'information économique et sociale à la DCSP.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>60 <br/>
+<br/>50<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de la division des dérives et violences urbaines ou associées aux manifestations sportives à la DCSP.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>50<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de la division des enquêtes, de la documentation et des systèmes d'information à la DCSP.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>50<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef du service national de police ferroviaire à la DCPAF.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>80<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de l'office central pour la répression de l'immigration irrégulière et de l'emploi des étrangers sans titre à la DCPAF.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Adjoint au sous-directeur de la lutte contre la criminalité organisée et la délinquance financière à la DCPJ.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>80<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef d'état-major de la sous-direction de la lutte contre la criminalité organisée et la délinquance financière à la DCPJ.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Adjoint au sous-directeur chargé de l'antiterrorisme, chef de la division de la logistique opérationnelle à la DCPJ.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>70<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de la division des relations internationales à la DCPJ.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>80<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef du service central des courses et jeux à la DCPJ.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>100<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Adjoint au chef du service des technologies de la sécurité intérieure à la DAPN.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>80<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Adjoint au chef du service central des courses et jeux, chef de la division de la logistique et de la coordination opérationnelle à la DCPJ.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>50<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de la division de la logistique opérationnelle, adjoint au sous-directeur des ressources, de l'évaluation et de la stratégie à la DCPJ.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>70<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de l'office pour la répression de la traite des êtres humains à la DCPJ.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de l'office central de lutte contre le crime organisé à la DCPJ.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>70<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de l'office central pour la répression du trafic illicite des stupéfiants à la DCPJ.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>70<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chargé de missions d'études et d'audit auprès du DCPJ.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de l'office central pour la répression de la grande délinquance financière à la DCPJ.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de l'office central de lutte contre la criminalité liée aux technologies de l'information et de la communication à la DCPJ.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de la division nationale d'investigations financières à la DCPJ.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de la division nationale du budget et de la logistique à la DCPJ.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef du service central de documentation criminelle à Ecully (DCPJ).<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>50<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef du service central d'identité judiciaire à Ecully (DCPJ).<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>50<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef du cabinet central de discipline à l'IGPN.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>80<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef du cabinet des études à l'IGPN.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>80<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef du cabinet des audits à l'IGPN.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>80<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Secrétaire général à l'IGPN.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>60<br/>
 </td>
 </tr>
 </tbody>
@@ -1555,25 +1521,24 @@ Services centraux
 <tbody>
 <tr>
 <th>
-<br/>DÉSIGNATION DES EMPLOIS <br/>
+<br/>DÉSIGNATION DES EMPLOIS<br/>
 </th>
 <th>
-<br/>NOMBRE <p>de bénéficiaires <br/>
-</p>
+<br/>NOMBRE DE BÉNÉFICIAIRES<br/>
 </th>
 <th>
-<br/>NOMBRE DE POINTS <br/>
+<br/>NOMBRE DE POINTS<br/>
 </th>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef du bureau des commissaires de police à la DAPN. <br/>
+<br/>Chef du bureau des commissaires de police à la DAPN.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>60 <br/>
+<br/>80<br/>
 </td>
 </tr>
 </tbody>
@@ -1587,69 +1552,112 @@ Préfecture de police
 <tbody>
 <tr>
 <th>
-<br/>DÉSIGNATION DES EMPLOIS <br/>
+<br/>DÉSIGNATION DES EMPLOIS<br/>
 </th>
 <th>
-<br/>NOMBRE <p>de bénéficiaires <br/>
-</p>
+<br/>NOMBRE DE BÉNÉFICIAIRES<br/>
 </th>
 <th>
-<br/>NOMBRE DE POINTS <br/>
+<br/>NOMBRE DE POINTS<br/>
 </th>
 </tr>
 <tr>
 <td align="center">
-<br/>Directeur de la police judiciaire (DPJ). <br/>
+<br/>Directeur de la police judiciaire (DPJ).<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>140 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Directeur de la police urbaine de proximité (DPUP). <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>140 <br/>
+<br/>140<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Directeur du renseignement (DR). <br/>
+<br/>Directeur de la sécurité de proximité de l'agglomération parisienne (DSPAP).<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>140 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Directeur de l'ordre public et de la circulation (DOPC). <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>140 <br/>
+<br/>140<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Directeur des services techniques et logistiques (DOSTL). <br/>
+<br/>Directeur du renseignement (DRPP).<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>140 <br/>
+<br/>140<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur de l'ordre public et de la circulation (DOPC).<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>140<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur des services techniques et logistiques (DOSTL).<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>140<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur territorial de la sécurité de proximité de Paris (DSPAP).<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>110<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur territorial de la sécurité de proximité des Hauts-de-Seine (DSPAP).<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>110<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur territorial de la sécurité de proximité de la Seine-Saint-Denis (DSPAP).<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>110<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur territorial de la sécurité de proximité du Val-de-Marne (DSPAP).<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>110<br/>
 </td>
 </tr>
 </tbody>
@@ -1661,25 +1669,24 @@ Préfecture de police
 <tbody>
 <tr>
 <th>
-<br/>DÉSIGNATION DES EMPLOIS <br/>
+<br/>DÉSIGNATION DES EMPLOIS<br/>
 </th>
 <th>
-<br/>NOMBRE <p>de bénéficiaires <br/>
-</p>
+<br/>NOMBRE DE BÉNÉFICIAIRES<br/>
 </th>
 <th>
-<br/>NOMBRE DE POINTS <br/>
+<br/>NOMBRE DE POINTS<br/>
 </th>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef de l'inspection générale des services (IGS). <br/>
+<br/>Chef de l'inspection générale des services (IGS).<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>140 <br/>
+<br/>140<br/>
 </td>
 </tr>
 </tbody>
@@ -1691,69 +1698,112 @@ Préfecture de police
 <tbody>
 <tr>
 <th>
-<br/>DÉSIGNATION DES EMPLOIS <br/>
+<br/>DÉSIGNATION DES EMPLOIS<br/>
 </th>
 <th>
-<br/>NOMBRE <p>de bénéficiaires <br/>
-</p>
+<br/>NOMBRE DE BÉNÉFICIAIRES<br/>
 </th>
 <th>
-<br/>NOMBRE DE POINTS <br/>
+<br/>NOMBRE DE POINTS<br/>
 </th>
 </tr>
 <tr>
 <td align="center">
-<br/>Directeur adjoint et sous-directeur des brigades centrales à la DPJ. <br/>
+<br/>Directeur adjoint de la police judiciaire chargé des brigades centrales à la DPJ.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>110 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Directeur adjoint du renseignement (DR). <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>110 <br/>
+<br/>110<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Directeur adjoint, sous-directeur du soutien opérationnel et logistique à la DOSTL. <br/>
+<br/>Directeur adjoint du renseignement à la DRPP.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>80 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef d'état-major, adjoint au directeur de la police urbaine de proximité à la DPUP. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>110 <br/>
+<br/>110<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur, adjoint au directeur et chef d'état-major à la DOPC. <br/>
+<br/>Adjoint au directeur de l'ordre public et de la circulation à la DOPC.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>110 <br/>
+<br/>110<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur adjoint de la sécurité de proximité de l'agglomération parisienne à la DSPAP.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>110<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur adjoint des services techniques et logistiques et chef d'état-major à la DOSTL.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>80<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur territorial adjoint de la sécurité de proximité de Paris à la DSPAP.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>80<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur territorial adjoint de la sécurité de proximité des Hauts-de-Seine à Nanterre (DSPAP).<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>80<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur territorial adjoint de la sécurité de proximité de la Seine-Saint-Denis à Bobigny (DSPAP).<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>80<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur territorial adjoint de la sécurité de proximité du Val-de-Marne à Créteil (DSPAP).<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>80<br/>
 </td>
 </tr>
 </tbody>
@@ -1765,146 +1815,156 @@ Préfecture de police
 <tbody>
 <tr>
 <th>
-<br/>DÉSIGNATION DES EMPLOIS <br/>
+<br/>DÉSIGNATION DES EMPLOIS<br/>
 </th>
 <th>
-<br/>NOMBRE <p>de bénéficiaires <br/>
-</p>
+<br/>NOMBRE DE BÉNÉFICIAIRES<br/>
 </th>
 <th>
-<br/>NOMBRE DE POINTS <br/>
+<br/>NOMBRE DE POINTS<br/>
 </th>
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur chargé des ressources à la DR. <br/>
+<br/>Sous-directeur chargé de l'information générale de l'agglomération parisienne à la DRPP.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>80 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Sous-directeur de l'information générale à la DR. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>80 <br/>
+<br/>80<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur de la police territoriale à la DPUP. <br/>
+<br/>Sous-directeur chargé du support opérationnel, du traitement technique, du renseignement et de la gestion opérationnelle à la DRPP.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>100 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Sous-directeur de la gestion opérationnelle et des ressources humaines à la DPUP. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>100 <br/>
+<br/>80<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur des services spécialisés à la DPUP. <br/>
+<br/>Sous-directeur chargé de la lutte contre le terrorisme et les extrémismes à potentialités violentes à la DRPP.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>100 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Sous-directeur de la circulation et de la sécurité routières à la DOPC. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>80 <br/>
+<br/>40<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur de la protection des institutions, des gardes et des transferts à la DOPC. <br/>
+<br/>Sous-directeur chargé de la lutte contre l'immigration irrégulière et le travail illégal des étrangers de l'agglomération parisienne à la DRPP.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>80 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Sous-directeur de l'administration et des moyens à la DOPC. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>80 <br/>
+<br/>40<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur des ressources humaines et de la logistique à la DPJ. <br/>
+<br/>Sous-directeur de la gestion opérationnelle à la DSPAP.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>100 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Sous-directeur chargé des affaires économiques et financières à la DPJ. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>100 <br/>
+<br/>100<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur des services territoriaux à la DPJ. <br/>
+<br/>Sous-directeur des services spécialisés à la DSPAP.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>100 <br/>
+<br/>100<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Sous-directeur du service régional de la police des transports (SRPT) à la DPUP. <br/>
+<br/>Sous-directeur du service régional de la police des transports à la DSPAP.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>100 <br/>
+<br/>100<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Sous-directeur régional de la circulation et de la sécurité routières à la DOPC.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>80<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Sous-directeur de la protection des institutions, des gardes et des transferts de l'agglomération parisienne à la DOPC.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>80<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Sous-directeur de la gestion opérationnelle à la DOPC.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>80<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Sous-directeur chargé du soutien à l'investigation à la DPJ.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>100<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Sous-directeur chargé des affaires économiques et financières à la DPJ.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>100<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Sous-directeur des services territoriaux à la DPJ.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>100<br/>
 </td>
 </tr>
 </tbody>
@@ -1916,267 +1976,288 @@ Préfecture de police
 <tbody>
 <tr>
 <th>
-<br/>DÉSIGNATION DES EMPLOIS <br/>
+<br/>DÉSIGNATION DES EMPLOIS<br/>
 </th>
 <th>
-<br/>NOMBRE <p>de bénéficiaires <br/>
-</p>
+<br/>NOMBRE DE BÉNÉFICIAIRES<br/>
 </th>
 <th>
-<br/>NOMBRE DE POINTS <br/>
+<br/>NOMBRE DE POINTS<br/>
 </th>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef du 1er district à la DOPC. <br/>
+<br/>Chef du 1er district à la DOPC.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>80 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef du 2e district à la DOPC. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>80 <br/>
+<br/>80<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef du 3e district à la DOPC. <br/>
+<br/>Chef du 2e district à la DOPC.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>80 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Adjoint au sous-directeur de la circulation et de la sécurité routière à la DOPC. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>50 <br/>
+<br/>80<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Adjoint au sous-directeur de l'ordre public à la DOPC. <br/>
+<br/>Chef du 3e district à la DOPC.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>50 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>A la sous-direction de l'ordre public-état-major à la DOPC. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>50 <br/>
+<br/>80<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>A la sous-direction de l'ordre public-état-major à la DOPC. <br/>
+<br/>Adjoint au sous-directeur régional de la circulation et de la sécurité routières à la DOPC.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>50 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>A la sous-direction de l'ordre public-état-major à la DOPC. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>50 <br/>
+<br/>50<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>A la sous-direction de l'ordre public-état-major à la DOPC. <br/>
+<br/>Adjoint au sous-directeur de l'ordre public de l'agglomération parisienne à la DOPC.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>50 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Adjoint au sous-directeur des services spécialisés à la DPUP. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>50 <br/>
+<br/>50<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Adjoint au sous-directeur de la police territoriale à la DPUP. <br/>
+<br/>A la sous-direction de l'ordre public de l'agglomération parisienne - état-major à la DOPC.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>50 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Adjoint au sous-directeur de la gestion opérationnelle et des ressources humaines de la DPUP. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>50 <br/>
+<br/>50<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Adjoint au sous-directeur, chef de la brigade des réseaux ferrés à la DPUP. <br/>
+<br/>A la sous-direction de l'ordre public de l'agglomération parisienne - état-major à la DOPC.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>60 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef d'état-major à la DPJ. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>60 <br/>
+<br/>50<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef du service de prévention, d'étude et d'orientation anti-délinquance à la DPUP. <br/>
+<br/>A la sous-direction de l'ordre public de l'agglomération parisienne - état-major à la DOPC.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>50 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef du service d'investigations transversales à la DPUP. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>40 <br/>
+<br/>50<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Adjoint au chef de la brigade des réseaux ferrés à la DPUP. <br/>
+<br/>A la sous-direction de l'ordre public de l'agglomération parisienne - état-major à la DOPC.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>40 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef du pôle lutte contre le terrorisme et les extrémismes violents à la DRG. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>40 <br/>
+<br/>50<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef du pôle information générale, phénomènes significatifs de société à la DRG. <br/>
+<br/>Adjoint au sous-directeur des services spécialisés et chef du service des compagnies de sécurisation et d'intervention à la DSPAP.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>40 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef du pôle des communautés étrangères, lutte contre l'immigration clandestine à la DRG. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>40 <br/>
+<br/>50<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Conseiller technique au cabinet du préfet de police. <br/>
+<br/>Adjoint au sous-directeur de la gestion opérationnelle à la DSPAP.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>50 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Conseiller technique au cabinet du préfet de police. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>50 <br/>
+<br/>50<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Adjoint au chef de l'IGS. <br/>
+<br/>Adjoint au sous-directeur du service régional de la police des transports, chef de la brigade des réseaux ferrés à la DSPAP.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>60 <br/>
+<br/>60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef d'état-major à la direction de la sécurité de proximité de l'agglomération parisienne (DSPAP), à Paris.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>100<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef d'état-major adjoint à la direction de la sécurité de proximité de l'agglomération parisienne (DSPAP), à Paris.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>50<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef d'état-major à la direction territoriale de la sécurité de proximité des Hauts-de-Seine, à Nanterre (DSPAP).<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef d'état-major à la direction territoriale de la sécurité de proximité de la Seine-Saint-Denis, à Bobigny (DSPAP).<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef d'état-major à la direction territoriale de la sécurité de proximité du Val-de-Marne, à Créteil (DSPAP).<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef du service de prévention, de police administrative et de documentation à la DSPAP.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>50<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef du service d'investigations transversales à la DSPAP.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Adjoint au chef de la brigade des réseaux ferrés de la SDRPT à la DSPAP.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>40<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de la division état-major, suivi et analyse des phénomènes sociaux et des phénomènes de société à la DRPP.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>40<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef d'état-major à la DPJ.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Conseiller technique chargé des affaires de police.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>50<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Conseiller technique adjoint chargé des affaires de police.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>50<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Adjoint au chef de l'IGS.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>60<br/>
 </td>
 </tr>
 </tbody>
@@ -2188,520 +2269,728 @@ Préfecture de police
 <tbody>
 <tr>
 <th>
-<br/>DÉSIGNATION DES EMPLOIS <br/>
+<br/>DÉSIGNATION DES EMPLOIS<br/>
 </th>
 <th>
-<br/>NOMBRE <p>de bénéficiaires <br/>
-</p>
+<br/>NOMBRE DE BÉNÉFICIAIRES<br/>
 </th>
 <th>
-<br/>NOMBRE DE POINTS <br/>
+<br/>NOMBRE DE POINTS<br/>
 </th>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef du 1er secteur à la DPUP. <br/>
+<br/>Chef de district, commissaire central du 8e arrondissement à la DSPAP.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>60 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef du 2e secteur à la DPUP. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>60 <br/>
+<br/>60<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef du 3e secteur à la DPUP. <br/>
+<br/>Chef de district, commissaire central du 13e arrondissement à la DSPAP.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>60 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef de brigade anti-criminalité de nuit à la DPUP. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>40 <br/>
+<br/>60<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Commissaire central du 15e arrondissement. <br/>
+<br/>Chef de district, commissaire central du 20e arrondissement à la DSPAP.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>50 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Commissaire central du 16e arrondissement. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>50 <br/>
+<br/>60<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Commissaire central du 17e arrondissement. <br/>
+<br/>Commissaire Central du 15e arrondissement à la DSPAP.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>50 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Commissaire central du 18e arrondissement. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>50 <br/>
+<br/>50<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Commissaire central du 19e arrondissement. <br/>
+<br/>Commissaire Central du 16e arrondissement à la DSPAP.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>50 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Commissaire central du 20e arrondissement. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>50 <br/>
+<br/>50<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Commissaire central du 8e arrondissement. <br/>
+<br/>Commissaire Central du 17e arrondissement à la DSPAP.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>50 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Commissaire central du 10e arrondissement. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>40 <br/>
+<br/>50<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Commissaire central du 11e arrondissement. <br/>
+<br/>Commissaire Central du 18e arrondissement à la DSPAP.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>40 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Commissaire central du 12e arrondissement. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>40 <br/>
+<br/>50<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Commissaire central du 13e arrondissement. <br/>
+<br/>Commissaire Central du 19e arrondissement à la DSPAP.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>40 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Commissaire central du 14e arrondissement. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>40 <br/>
+<br/>50<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Commissaire central du 1er arrondissement. <br/>
+<br/>Commissaire Central du 10e arrondissement à la DSPAP.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>40 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Commissaire central du 7e arrondissement. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>40 <br/>
+<br/>40<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Commissaire central du 9e arrondissement. <br/>
+<br/>Commissaire Central du 11e arrondissement à la DSPAP.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>40 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Commissaire central adjoint du 15e arrondissement. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>40 <br/>
+<br/>40<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Commissaire central adjoint du 16e arrondissement. <br/>
+<br/>Commissaire Central du 12e arrondissement à la DSPAP.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>40 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Commissaire central adjoint du 18e arrondissement. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>40 <br/>
+<br/>40<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Commissaire central adjoint du 19e arrondissement. <br/>
+<br/>Commissaire Central du 14e arrondissement à la DSPAP.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>40 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Commissaire central adjoint du 20e arrondissement. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>40 <br/>
+<br/>40<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Commissaire central adjoint du 8e arrondissement. <br/>
+<br/>Commissaire Central du 1er arrondissement à la DSPAP.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>40 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Coordonnateur des enquêtes judiciaires et administratives à l'IGS. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>50 <br/>
+<br/>40<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef de la brigade de répression de la délinquance contre la personne à la DPJ. <br/>
+<br/>Commissaire Central du 9e arrondissement à la DSPAP.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>40 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef de la brigade criminelle à la DPJ. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>50 <br/>
+<br/>40<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef de la brigade des stupéfiants à la DPJ. <br/>
+<br/>Commissaire central adjoint, chef du département de police de quartier et de voie publique du 15e arrondissement à la DSPAP.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>40 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef de la brigade de répression du proxénétisme à la DPJ. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>40 <br/>
+<br/>40<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef de la brigade de répression du banditisme à la DPJ. <br/>
+<br/>Commissaire central adjoint, chef du département de police de quartier et de voie publique du 8e arrondissement à la DSPAP.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>40 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef de la brigade de recherches et d'interventions à la DPJ. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>40 <br/>
+<br/>40<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef de la brigade de protection des mineurs à la DPJ. <br/>
+<br/>Commissaire central adjoint, chef du département de police de quartier et de voie publique du 16e arrondissement à la DSPAP.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>40 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef de la brigade financière à la DPJ. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>50 <br/>
+<br/>40<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef de la brigade de la répression de la délinquance astucieuse à la DPJ. <br/>
+<br/>Commissaire central adjoint, chef du département de police de quartier et de voie publique du 19e arrondissement à la DSPAP.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>40 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef de la brigade des fraudes aux moyens de paiement à la DPJ. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>40 <br/>
+<br/>40<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef de la brigade de répression de la délinquance économique à la DPJ. <br/>
+<br/>Commissaire central adjoint, chef du département de police de quartier et de voie publique du 18e arrondissement à la DSPAP.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>40 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef de la brigade d'enquêtes sur les fraudes aux technologies de l'information à la DPJ. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>40 <br/>
+<br/>40<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef de la brigade de recherches et d'investigations financières à la DPJ. <br/>
+<br/>Commissaire central adjoint du 20e arrondissement.<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>40 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef de l'identité judiciaire à la DPJ. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>40 <br/>
+<br/>40<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef de la 1re division de police judiciaire à la DPJ. <br/>
+<br/>Chef de district et commissaire central d'Asnières, à la direction territoriale de la sécurité de proximité des Hauts-de-Seine (DSPAP).<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>40 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef de la 2e division de police judiciaire à la DPJ. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>50 <br/>
+<br/>60<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef de la 3e division de police judiciaire à la DPJ. <br/>
+<br/>Chef de district et commissaire central de Nanterre, à la direction territoriale de la sécurité de proximité des Hauts-de-Seine (DSPAP).<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>40 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef du service départemental de police judiciaire de Seine-Saint-Denis. <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>50 <br/>
+<br/>60<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef du service départemental de police judiciaire du Val-de-Marne. <br/>
+<br/>Chef de district et commissaire central de Boulogne-Billancourt, à la direction territoriale de la sécurité de proximité des Hauts-de-Seine (DSPAP).<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>40 <br/>
+<br/>60<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef du service départemental de la police judiciaire des Hauts-de-Seine. <br/>
+<br/>Chef de district et commissaire central d'Antony, à la direction territoriale de la sécurité de proximité des Hauts-de-Seine (DSPAP).<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>40 <br/>
+<br/>60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de district et commissaire central de Bobigny à la direction territoriale de la sécurité de proximité de la Seine-Saint-Denis (DSPAP).<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de district et commissaire central de Saint-Denis à la direction territoriale de la sécurité de proximité de la Seine-Saint-Denis (DSPAP).<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de district et commissaire central d'Aulnay-sous-Bois à la direction territoriale de la sécurité de proximité de la Seine-Saint-Denis (DSPAP).<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de district et commissaire central de Montreuil-sous-Bois à la direction territoriale de la sécurité de proximité de la Seine-Saint-Denis (DSPAP).<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de district et commissaire central de Créteil à la direction territoriale de la sécurité de proximité du Val-de-Marne (DSPAP).<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de district et commissaire central de L'Hay-les-Roses à la direction territoriale de la sécurité de proximité du Val-de-Marne (DSPAP).<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de district et commissaire central de Vitry-sur-Seine à la direction territoriale de la sécurité de proximité du Val-de-Marne (DSPAP).<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de district et commissaire central de Nogent-sur-Marne à la direction territoriale de la sécurité de proximité du Val-de-Marne (DSPAP).<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Commissaire central d'Aubervilliers, à la direction territoriale de la sécurité de proximité de la Seine-Saint-Denis (DSPAP).<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>40<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Commissaire central de La Courneuve à la direction territoriale de la sécurité de proximité de la Seine-Saint-Denis (DSPAP).<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Commissaire central du Kremlin-Bicêtre à la direction territoriale de la sécurité de proximité du Val-de-Marne (DSPAP).<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de circonscription d'Epinay-sur-Seine, à la direction territoriale de la sécurité de proximité de la Seine-Saint-Denis (DSPAP).<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de la sûreté territoriale de Nanterre, à la direction territoriale de la sécurité de proximité des Hauts-de-Seine (DSPAP).<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de la sûreté territoriale de Bobigny, à la direction territoriale de la sécurité de proximité de la Seine-Saint-Denis (DSPAP).<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de la sûreté territoriale de Créteil à la direction territoriale de la sécurité de proximité du Val-de-Marne (DSPAP).<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de brigade anticriminalité de nuit à la DSPAP.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>50<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef adjoint de la brigade anticriminalité de nuit à la DSPAP.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>40<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef du service territorial du renseignement des Hauts-de-Seine - Nanterre (DRPP).<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>50<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef du service territorial du renseignement de la Seine-Saint-Denis - Bobigny (DRPP).<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>50<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef du service territorial du renseignement du Val-de-Marne - Créteil (DRPP).<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>50<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Coordinateur des affaires disciplinaires à l'IGS.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>50<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de la brigade de répression de la délinquance contre la personne à la DPJ.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>40<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de la brigade criminelle à la DPJ.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>50<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de la brigade des stupéfiants à la DPJ.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>40<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de la brigade de répression du proxénétisme à la DPJ.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>40<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de la brigade de répression du banditisme à la DPJ.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>40<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de la brigade de recherches et d'interventions à la DPJ.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>40<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de la brigade de protection des mineurs à la DPJ.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>40<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de la brigade financière à la DPJ.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>50<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de la brigade de la répression de la délinquance astucieuse à la DPJ.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>40<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de la brigade des fraudes aux moyens de paiement à la DPJ.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>40<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de la brigade de répression de la délinquance économique à la DPJ.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>40<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de la brigade d'enquêtes sur les fraudes aux technologies de l'information à la DPJ.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>40<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de la brigade de recherches et d'investigations financières à la DPJ.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>40<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef du service régional de l'identité judiciaire à la DPJ.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>40<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef du 1er district de police judiciaire à la DPJ.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>40<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef du 2e district de police judiciaire à la DPJ.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>50<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef du 3e district de police judiciaire à la DPJ.<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>40<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef du service départemental de la police judiciaire des Hauts-de-Seine - Nanterre (DPJ).<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>40<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef du service départemental de police judiciaire de la Seine-Saint-Denis - Bobigny (DPJ).<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>50<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef du service départemental de police judiciaire du Val-de-Marne - Créteil (DPJ).<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>40<br/>
 </td>
 </tr>
 </tbody>

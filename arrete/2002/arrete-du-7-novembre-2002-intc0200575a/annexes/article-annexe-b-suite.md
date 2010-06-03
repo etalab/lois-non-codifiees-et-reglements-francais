@@ -1,979 +1,811 @@
 # Article Annexe B (suite)
 
-FONCTIONNAIRES DU CORPS DE CONCEPTION ET DE DIRECTION EXERÇANT LEURS FONCTIONS DANS LES SERVICES TERRITORIAUX ET DÉCONCENTRÉS DE LA POLICE NATIONALE (suite)
+FONCTIONNAIRES DU CORPS DE CONCEPTION ET DE DIRECTION DE LA POLICE NATIONALE EXERÇANT LEURS FONCTIONS DANS LES SERVICES TERRITORIAUX ET DÉCONCENTRÉS DE LA POLICE NATIONALE (suite)
 
-4° Chef de service : chef du service de sécurité de proximité (SSP) ; chef du service ordre public (SOP) ou chef de la sûreté départementale (SD) ; chef de la sûreté urbaine (SU) ; chef d'état-major ; chef du service départemental de l'information générale (SDIG)
+4° Chef de service : chef du service de sécurité de proximité (SSP) ; chef du service départemental de l'information générale (SDIG) ; chef du service ordre public (SOP) ou chef de la sûreté départementale (SD) ; chef de la sûreté urbaine (SU) ; chef d'état-major
 
 <table>
 <tbody>
 <tr>
 <th>
-<br/>DÉSIGNATION DES EMPLOIS <br/>
+<br/>DÉSIGNATION DES EMPLOIS<br/>
 </th>
 <th>
-<br/>DÉSIGNATION <p>des villes <br/>
-</p>
-</th>
-<th>
-<br/>NOMBRE <p>de bénéficiaires <br/>
+<br/>DÉSIGNATION <p>des villes<br/>
 </p>
 </th>
 <th>
-<br/>NOMBRE DE POINTS <br/>
+<br/>NOMBRE <p>de bénéficiaires<br/>
+</p>
+</th>
+<th>
+<br/>NOMBRE DE POINTS<br/>
 </th>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef du service de sécurité de proximité. <br/>
+<br/>Chef du service de sécurité de proximité.<br/>
 </td>
 <td align="center">
-<br/>Marseille <br/>
+<br/>Marseille<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>60 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef du service de sécurité de proximité. <br/>
-</td>
-<td align="center">
-<br/>Lens <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>60 <br/>
+<br/>60<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef du service de sécurité de proximité. <br/>
+<br/>Chef du service de sécurité de proximité.<br/>
 </td>
 <td align="center">
-<br/>Amiens <br/>
+<br/>Lens<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>60 <br/>
+<br/>60<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef du service de sécurité de proximité. <br/>
+<br/>Chef du service de sécurité de proximité.<br/>
 </td>
 <td align="center">
-<br/>Saint-Denis- <p>de-la-Réunion <br/>
+<br/>Amiens<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef du service de sécurité de proximité.<br/>
+</td>
+<td align="center">
+<br/>Saint-Denis <p>de La Réunion<br/>
 </p>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>60 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef du service départemental de l'information générale. <br/>
-</td>
-<td align="center">
-<br/>Metz <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>40 <br/>
+<br/>60<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef du service départemental de l'information générale. <br/>
+<br/>Chef du service départemental de l'information générale.<br/>
 </td>
 <td align="center">
-<br/>Lille <br/>
+<br/>Metz<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>50 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef du service départemental de l'information générale. <br/>
-</td>
-<td align="center">
-<br/>Rennes <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>40 <br/>
+<br/>40<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef du service départemental de l'information générale. <br/>
+<br/>Chef du service départemental de l'information générale - Lille DDSP.<br/>
 </td>
 <td align="center">
-<br/>Bordeaux <br/>
+<br/>Lille<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>50 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef du service départemental de l'information générale. <br/>
-</td>
-<td align="center">
-<br/>Marseille <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>50 <br/>
+<br/>50<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef du service départemental de l'information générale. <br/>
+<br/>Chef du service départemental de l'information générale.<br/>
 </td>
 <td align="center">
-<br/>Lyon <br/>
+<br/>Rennes<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>50 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef du service départemental de l'information générale. <br/>
-</td>
-<td align="center">
-<br/>Amiens <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>40 <br/>
+<br/>40<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef du service départemental de l'information générale. <br/>
+<br/>Chef du service départemental de l'information générale.<br/>
 </td>
 <td align="center">
-<br/>Rouen <br/>
+<br/>Bordeaux<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>40 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef du service départemental de l'information générale. <br/>
-</td>
-<td align="center">
-<br/>Toulouse <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>40 <br/>
+<br/>50<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef du service départemental de l'information générale. <br/>
+<br/>Chef du service départemental de l'information générale.<br/>
 </td>
 <td align="center">
-<br/>Montpellier <br/>
+<br/>Marseille<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>40 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef du service départemental de l'information générale. <br/>
-</td>
-<td align="center">
-<br/>Strasbourg <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>40 <br/>
+<br/>50<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef du service départemental de l'information générale. <br/>
+<br/>Chef du service départemental de l'information générale.<br/>
 </td>
 <td align="center">
-<br/>Ajaccio <br/>
+<br/>Lyon<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>40 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef du service départemental de l'information générale. <br/>
-</td>
-<td align="center">
-<br/>Nice <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>40 <br/>
+<br/>50<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef du service départemental de l'information générale. <br/>
+<br/>Chef du service départemental de l'information générale.<br/>
 </td>
 <td align="center">
-<br/>Bobigny <br/>
+<br/>Amiens<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>50 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef du service départemental de l'information générale. <br/>
-</td>
-<td align="center">
-<br/>Nanterre <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>50 <br/>
+<br/>40<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef du service départemental de l'information générale. <br/>
+<br/>Chef du service départemental de l'information générale.<br/>
 </td>
 <td align="center">
-<br/>Evry <br/>
+<br/>Rouen<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>50 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef du service départemental de l'information générale. <br/>
-</td>
-<td align="center">
-<br/>Versailles <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>50 <br/>
+<br/>40<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef du service départemental de l'information générale. <br/>
+<br/>Chef du service départemental de l'information générale.<br/>
 </td>
 <td align="center">
-<br/>Cergy-Pontoise <br/>
+<br/>Toulouse<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>50 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef du service départemental de l'information générale. <br/>
-</td>
-<td align="center">
-<br/>Créteil <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>50 <br/>
+<br/>40<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef du service départemental de l'information générale. <br/>
+<br/>Chef du service départemental de l'information générale.<br/>
 </td>
 <td align="center">
-<br/>Melun <br/>
+<br/>Montpellier<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>50 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef du service de l'ordre public. <br/>
-</td>
-<td align="center">
-<br/>Bobigny <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>60 <br/>
+<br/>40<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef du service de l'ordre public. <br/>
+<br/>Chef du service départemental de l'information générale.<br/>
 </td>
 <td align="center">
-<br/>Créteil <br/>
+<br/>Strasbourg<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>60 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef du service de l'ordre public. <br/>
-</td>
-<td align="center">
-<br/>Nanterre <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>60 <br/>
+<br/>40<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef du service de l'ordre public. <br/>
+<br/>Chef du service départemental de l'information générale.<br/>
 </td>
 <td align="center">
-<br/>Lyon <br/>
+<br/>Ajaccio<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>60 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef du service de l'ordre public. <br/>
-</td>
-<td align="center">
-<br/>Strasbourg <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>60 <br/>
+<br/>40<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef de la sûreté départementale. <br/>
+<br/>Chef du service départemental de l'information générale.<br/>
 </td>
 <td align="center">
-<br/>Lyon <br/>
+<br/>Nice<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>60 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef de la sûreté départementale. <br/>
-</td>
-<td align="center">
-<br/>Amiens <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>60 <br/>
+<br/>40<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef de la sûreté départementale. <br/>
+<br/>Chef du service départemental de l'information générale.<br/>
 </td>
 <td align="center">
-<br/>Marseille <br/>
+<br/>Evry<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>60 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef de la sûreté départementale. <br/>
-</td>
-<td align="center">
-<br/>Lille <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>60 <br/>
+<br/>50<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef de la sûreté départementale. <br/>
+<br/>Chef du service départemental de l'information générale.<br/>
 </td>
 <td align="center">
-<br/>Melun <br/>
+<br/>Versailles<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>60 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef de la sûreté départementale. <br/>
-</td>
-<td align="center">
-<br/>Versailles <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>60 <br/>
+<br/>50<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef de la sûreté départementale. <br/>
+<br/>Chef du service départemental de l'information générale.<br/>
 </td>
 <td align="center">
-<br/>Evry <br/>
+<br/>Cergy-Pontoise<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>60 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef de la sûreté départementale. <br/>
-</td>
-<td align="center">
-<br/>Nanterre <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>60 <br/>
+<br/>50<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef de la sûreté départementale. <br/>
+<br/>Chef du service départemental de l'information générale.<br/>
 </td>
 <td align="center">
-<br/>Bobigny <br/>
+<br/>Melun<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>60 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef de la sûreté départementale. <br/>
-</td>
-<td align="center">
-<br/>Créteil <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>60 <br/>
+<br/>50<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef de la sûreté départementale. <br/>
+<br/>Chef du service de l'ordre public.<br/>
 </td>
 <td align="center">
-<br/>Cergy-Pontoise <br/>
+<br/>Lyon<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>60 <br/>
+<br/>60<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef de la sûreté départementale. <br/>
+<br/>Chef du service de l'ordre public.<br/>
 </td>
 <td align="center">
-<br/>Saint-Denis- <p>de-la-Réunion <br/>
+<br/>Strasbourg<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de la sûreté départementale.<br/>
+</td>
+<td align="center">
+<br/>Lyon<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de la sûreté départementale.<br/>
+</td>
+<td align="center">
+<br/>Amiens<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de la sûreté départementale.<br/>
+</td>
+<td align="center">
+<br/>Marseille<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de la sûreté départementale - Lille DDSP.<br/>
+</td>
+<td align="center">
+<br/>Lille<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de la sûreté départementale.<br/>
+</td>
+<td align="center">
+<br/>Melun<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de la sûreté départementale.<br/>
+</td>
+<td align="center">
+<br/>Versailles<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de la sûreté départementale.<br/>
+</td>
+<td align="center">
+<br/>Evry<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de la sûreté départementale.<br/>
+</td>
+<td align="center">
+<br/>Cergy-Pontoise<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de la sûreté départementale.<br/>
+</td>
+<td align="center">
+<br/>Saint-Denis <p>de La Réunion<br/>
 </p>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>60 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef de la sûreté départementale. <br/>
-</td>
-<td align="center">
-<br/>Toulouse <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>60 <br/>
+<br/>60<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef de la sûreté départementale. <br/>
+<br/>Chef de la sûreté départementale.<br/>
 </td>
 <td align="center">
-<br/>Bordeaux <br/>
+<br/>Toulouse<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>60 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef de la sûreté départementale. <br/>
-</td>
-<td align="center">
-<br/>Montpellier <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>60 <br/>
+<br/>60<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef de la sûreté départementale. <br/>
+<br/>Chef de la sûreté départementale.<br/>
 </td>
 <td align="center">
-<br/>Toulon <br/>
+<br/>Bordeaux<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>60 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef de la sûreté départementale. <br/>
-</td>
-<td align="center">
-<br/>Grenoble <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>60 <br/>
+<br/>60<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef de la sûreté départementale. <br/>
+<br/>Chef de la sûreté départementale.<br/>
 </td>
 <td align="center">
-<br/>Nantes <br/>
+<br/>Montpellier<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>60 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef de la sûreté départementale. <br/>
-</td>
-<td align="center">
-<br/>Reims <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>60 <br/>
+<br/>60<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef de la sûreté départementale. <br/>
+<br/>Chef de la sûreté départementale.<br/>
 </td>
 <td align="center">
-<br/>Lens <br/>
+<br/>Toulon<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>60 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef de la sûreté départementale. <br/>
-</td>
-<td align="center">
-<br/>Strasbourg <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>60 <br/>
+<br/>60<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef de la sûreté départementale. <br/>
+<br/>Chef de la sûreté départementale.<br/>
 </td>
 <td align="center">
-<br/>Mulhouse <br/>
+<br/>Grenoble<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>60 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef de la sûreté départementale. <br/>
-</td>
-<td align="center">
-<br/>Rouen <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>60 <br/>
+<br/>60<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef de la sûreté départementale. <br/>
+<br/>Chef de la sûreté départementale.<br/>
 </td>
 <td align="center">
-<br/>Fort-de-France <br/>
+<br/>Nantes<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>60 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef de la sûreté départementale. <br/>
-</td>
-<td align="center">
-<br/>Pointe-à-Pitre <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>60 <br/>
+<br/>60<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef de la sûreté urbaine. <br/>
+<br/>Chef de la sûreté départementale.<br/>
 </td>
 <td align="center">
-<br/>Lille <br/>
+<br/>Reims<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>60 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef de la sûreté urbaine. <br/>
-</td>
-<td align="center">
-<br/>Le Havre <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>60 <br/>
+<br/>60<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef d'état-major. <br/>
+<br/>Chef de la sûreté départementale.<br/>
 </td>
 <td align="center">
-<br/>Lille <br/>
+<br/>Lens<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>60 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef d'état-major. <br/>
-</td>
-<td align="center">
-<br/>Nanterre <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>60 <br/>
+<br/>60<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef d'état-major. <br/>
+<br/>Chef de la sûreté départementale.<br/>
 </td>
 <td align="center">
-<br/>Bobigny <br/>
+<br/>Strasbourg<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>60 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef d'état-major. <br/>
-</td>
-<td align="center">
-<br/>Créteil <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>60 <br/>
+<br/>60<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef d'état-major. <br/>
+<br/>Chef de la sûreté départementale.<br/>
 </td>
 <td align="center">
-<br/>Melun <br/>
+<br/>Mulhouse<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>60 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef d'état-major. <br/>
-</td>
-<td align="center">
-<br/>Versailles <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>60 <br/>
+<br/>60<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef d'état-major. <br/>
+<br/>Chef de la sûreté départementale.<br/>
 </td>
 <td align="center">
-<br/>Evry <br/>
+<br/>Rouen<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>60 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef d'état-major. <br/>
-</td>
-<td align="center">
-<br/>Cergy-Pontoise <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>60 <br/>
+<br/>60<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef d'état-major. <br/>
+<br/>Chef de la sûreté départementale.<br/>
 </td>
 <td align="center">
-<br/>Lyon <br/>
+<br/>Fort-de-France<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>60 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Chef d'état-major. <br/>
-</td>
-<td align="center">
-<br/>Marseille <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>60 <br/>
+<br/>60<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef d'état-major. <br/>
+<br/>Chef de la sûreté départementale.<br/>
 </td>
 <td align="center">
-<br/>Arras <br/>
+<br/>Pointe-à-Pitre<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>60 <br/>
+<br/>60<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef d'état-major. <br/>
+<br/>Chef de la sûreté urbaine - Lille agglomération.<br/>
 </td>
 <td align="center">
-<br/>Nice <br/>
+<br/>Lille<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>60 <br/>
+<br/>60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de la sûreté urbaine.<br/>
+</td>
+<td align="center">
+<br/>Le Havre<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef d'état-major - Lille DDSP.<br/>
+</td>
+<td align="center">
+<br/>Lille<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef d'état-major.<br/>
+</td>
+<td align="center">
+<br/>Melun<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef d'état-major.<br/>
+</td>
+<td align="center">
+<br/>Versailles<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef d'état-major.<br/>
+</td>
+<td align="center">
+<br/>Evry<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef d'état-major.<br/>
+</td>
+<td align="center">
+<br/>Cergy-Pontoise<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef d'état-major.<br/>
+</td>
+<td align="center">
+<br/>Lyon<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef d'état-major.<br/>
+</td>
+<td align="center">
+<br/>Marseille<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef d'état-major.<br/>
+</td>
+<td align="center">
+<br/>Arras<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef d'état-major.<br/>
+</td>
+<td align="center">
+<br/>Nice<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>60<br/>
 </td>
 </tr>
 </tbody>
@@ -985,182 +817,181 @@ FONCTIONNAIRES DU CORPS DE CONCEPTION ET DE DIRECTION EXERÇANT LEURS FONCTIONS 
 <tbody>
 <tr>
 <th>
-<br/>DÉSIGNATION DES EMPLOIS <br/>
+<br/>DÉSIGNATION DES EMPLOIS<br/>
 </th>
 <th>
-<br/>DÉSIGNATION <p>des villes <br/>
+<br/>DÉSIGNATION <p>des villes<br/>
 </p>
 </th>
 <th>
-<br/>NOMBRE <p>de bénéficiaires <br/>
+<br/>NOMBRE <p>de bénéficiaires<br/>
 </p>
 </th>
 <th>
-<br/>NOMBRE DE POINTS <br/>
+<br/>NOMBRE DE POINTS<br/>
 </th>
 </tr>
 <tr>
 <td align="center">
-<br/>Directeur de la police aux frontières de l'aéroport Roissy-Charles-de-Gaulle-Le Bourget. <br/>
+<br/>Directeur de la police aux frontières de l'aéroport Roissy - Charles-de-Gaulle - Le Bourget.<br/>
 </td>
 <td align="center">
-<br/>Roissy-en-France <br/>
+<br/>Roissy-en-France<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>100 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Directeur adjoint de la police aux frontières de l'aéroport Roissy-Charles-de-Gaulle-Le Bourget. <br/>
-</td>
-<td align="center">
-<br/>Roissy-en-France <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>60 <br/>
+<br/>100<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Directeur de la police aux frontières de l'aéroport d'Orly. <br/>
+<br/>Directeur adjoint de la police aux frontières de l'aéroport Roissy - Charles-de-Gaulle - Le Bourget.<br/>
 </td>
 <td align="center">
-<br/>Orly <br/>
+<br/>Roissy-en-France<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>60 <br/>
+<br/>60<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef de l'antenne PJ. <br/>
+<br/>Directeur de la police aux frontières de l'aéroport d'Orly.<br/>
 </td>
 <td align="center">
-<br/>Bastia <br/>
+<br/>Orly<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>60 <br/>
+<br/>60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de l'antenne PJ.<br/>
+</td>
+<td align="center">
+<br/>Bastia<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>50<br/>
 </td>
 </tr>
 </tbody>
 </table>
 
-6° Chef de l'institut de formation de la police nationale ; directeur d'école de police ; directeur d'école nationale de police (ENP) ; directeur de l'Ecole nationale supérieure de formation des officiers de police (ENSOP) ; directeur de l'Ecole nationale supérieure de police (ENSP)
+6° Chef de l'institut de formation de la police nationale ; directeur d'école de police ; directeur d'Ecole nationale de police (ENP) ; directeur de l'Ecole nationale supérieure de formation des officiers de police (ENSOP) ; directeur de l'Ecole nationale supérieure de police (ENSP)
 
 <table>
 <tbody>
 <tr>
 <th>
-<br/>DÉSIGNATION DES EMPLOIS <br/>
+<br/>DÉSIGNATION DES EMPLOIS<br/>
 </th>
 <th>
-<br/>DÉSIGNATION <p>des villes <br/>
+<br/>DÉSIGNATION <p>des villes<br/>
 </p>
 </th>
 <th>
-<br/>NOMBRE <p>de bénéficiaires <br/>
+<br/>NOMBRE <p>de bénéficiaires<br/>
 </p>
 </th>
 <th>
-<br/>NOMBRE DE POINTS <br/>
+<br/>NOMBRE DE POINTS<br/>
 </th>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef de l'Institut national de la formation de la police nationale (INFPN). <br/>
+<br/>Chef de l'Institut national de la formation de la police nationale (INFPN).<br/>
 </td>
 <td align="center">
-<br/>Clermont-Ferrand <br/>
+<br/>Clermont-Ferrand<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>60 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Directeur de l'Ecole nationale supérieure de police (ENSP). <br/>
-</td>
-<td align="center">
-<br/>Saint-Cyr- <p>au-Mont-d'Or <br/>
-</p>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>100 <br/>
+<br/>60<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Directeur de l'Ecole nationale supérieure des officiers de police (ENSOP). <br/>
+<br/>Directeur de l'Ecole nationale supérieure de la police (ENSP).<br/>
 </td>
 <td align="center">
-<br/>Cannes-Ecluse <br/>
+<br/>Saint-Cyr-au-Mont-d'Or<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>80 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Directeur de l'Ecole nationale de police (ENP). <br/>
-</td>
-<td align="center">
-<br/>Oissel <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>60 <br/>
+<br/>100<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Directeur de l'Ecole nationale de police (ENP). <br/>
+<br/>Directeur de l'Ecole nationale supérieure des officiers de police (ENSOP).<br/>
 </td>
 <td align="center">
-<br/>Nîmes <br/>
+<br/>Cannes-Ecluse<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>60 <br/>
+<br/>80<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Directeur de l'Institut national de police scientifique (INPS). <br/>
+<br/>Directeur de l'Ecole nationale de police (ENP).<br/>
 </td>
 <td align="center">
-<br/>Ecully <br/>
+<br/>Oissel<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>60 <br/>
+<br/>60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur de l'Ecole nationale de police (ENP).<br/>
+</td>
+<td align="center">
+<br/>Nîmes<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur de l'Institut national de police scientifique (INPS).<br/>
+</td>
+<td align="center">
+<br/>Ecully<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>60<br/>
 </td>
 </tr>
 </tbody>
@@ -1172,99 +1003,99 @@ FONCTIONNAIRES DU CORPS DE CONCEPTION ET DE DIRECTION EXERÇANT LEURS FONCTIONS 
 <tbody>
 <tr>
 <th>
-<br/>DÉSIGNATION DES EMPLOIS <br/>
+<br/>DÉSIGNATION DES EMPLOIS<br/>
 </th>
 <th>
-<br/>DÉSIGNATION <p>des villes <br/>
+<br/>DÉSIGNATION <p>des villes<br/>
 </p>
 </th>
 <th>
-<br/>NOMBRE <p>de bénéficiaires <br/>
+<br/>NOMBRE <p>de bénéficiaires<br/>
 </p>
 </th>
 <th>
-<br/>NOMBRE DE POINTS <br/>
+<br/>NOMBRE DE POINTS<br/>
 </th>
 </tr>
 <tr>
 <td align="center">
-<br/>Chargé de mission auprès du préfet de Corse, préfet de Corse-du-Sud et du préfet de Haute-Corse, chargé de la coordination des services de sécurité intérieure (PN et GN). <br/>
+<br/>Chargé de mission auprès du préfet de Corse, préfet de Corse-du-Sud et du préfet de Haute-Corse, chargé de la coordination des services de sécurité intérieure (PN et GN).<br/>
 </td>
 <td align="center">
-<br/>Ajaccio <br/>
+<br/>Ajaccio<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>80 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Directeur de cabinet du préfet délégué pour la sécurité et la défense Est. <br/>
-</td>
-<td align="center">
-<br/>Metz <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>60 <br/>
+<br/>80<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Directeur de cabinet du préfet délégué pour la sécurité et la défense de la zone Sud-Ouest. <br/>
+<br/>Directeur de cabinet du préfet délégué pour la sécurité et la défense de la zone Est.<br/>
 </td>
 <td align="center">
-<br/>Bordeaux <br/>
+<br/>Metz<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>60 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Directeur de cabinet du préfet délégué pour la sécurité et la défense Sud-Est. <br/>
-</td>
-<td align="center">
-<br/>Lyon <br/>
-</td>
-<td align="center">
-<br/>1 <br/>
-</td>
-<td align="center">
-<br/>60 <br/>
+<br/>60<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Directeur de cabinet du préfet délégué pour la sécurité et la défense Sud. <br/>
+<br/>Directeur de cabinet du préfet délégué pour la sécurité et la défense de la zone Sud-Ouest.<br/>
 </td>
 <td align="center">
-<br/>Marseille <br/>
+<br/>Bordeaux<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
 </td>
 <td align="center">
-<br/>60 <br/>
+<br/>60<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Chef de cabinet du coordinateur des services de sécurité intérieure. <br/>
+<br/>Directeur de cabinet du préfet délégué pour la sécurité et la défense de la zone Sud-Est.<br/>
 </td>
 <td align="center">
-<br/>Ajaccio <br/>
+<br/>Lyon<br/>
 </td>
 <td align="center">
-<br/>1 <br/>
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Directeur de cabinet du préfet délégué pour la sécurité et la défense de la zone Sud.<br/>
+</td>
+<td align="center">
+<br/>Marseille<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+<td align="center">
+<br/>60<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Chef de cabinet du coordinateur des services de sécurité intérieure.<br/>
+</td>
+<td align="center">
+<br/>Ajaccio<br/>
+</td>
+<td align="center">
+<br/>1<br/>
 </td>
 <td align="center">
 <br/>60<br/>
