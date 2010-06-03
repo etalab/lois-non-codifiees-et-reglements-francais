@@ -1,37 +1,35 @@
 # Article CTS 4
 
-Habilitation des bureaux de vérification
+Agrément des organismes de vérification technique CTS.
 
-§ 1. Les conditions à remplir par les bureaux de vérification, candidats à l'habilitation du ministre de l'intérieur, sont les suivantes :
+§ 1. Les organismes de vérifications techniques candidats à l'agrément du ministre de l'intérieur pour les vérifications réglementaires des chapiteaux, tentes et structures doivent être au préalable accrédités pour cette activité en tant qu'organismes d'inspection de type A au titre de la norme NF ISO/CEI 17020 par le comité français d'accréditation ou par tout autre organisme d'accréditation équivalent signataire de l'accord multilatéral pris dans le cadre de la coordination européenne des organismes d'accréditation.
 
-a) Justifier d'une expérience professionnelle ;
+§ 2. La demande d'agrément adressée au ministre de l'intérieur comprend :
 
-b) Justifier des compétences techniques nécessaires dans les domaines visés à l'article CTS 3 (§ 2, 1er alinéa) ;
+- les informations nécessaires pour identifier le demandeur (identité du responsable ou raison sociale, numéro de Kbis, statuts, adresse, ...) ;
 
-c) Etre indépendants financièrement vis-à-vis des fabricants et des confectionneurs des établissements visés au présent chapitre ;
+- les références aux dispositions du règlement de sécurité contre les risques d'incendie et de panique dans les chapiteaux, tentes et structures pour lesquels l'agrément est sollicité ;
 
-d) Ne pas effectuer la vérification d'établissements appartenant à une personne, une société ou un organisme dont ils sont salariés ;
+- un document justifiant que les vérifications faisant l'objet de la demande d'agrément correspondent à la portée d'accréditation de l'organisme ;
 
-e) Fournir l'engagement écrit de respecter les exigences réglementant la profession du spectacle, notamment en ce qui concerne les incompatibilités prévues à l'article L. 762-5 du code du travail et les conditions de création de fonctionnement des entreprises de spectacles régies par l'ordonnance du 13 octobre 1945 ;
+- la liste des agences concernées par la demande d'agrément ;
 
-f) Adresser au commissaire de la République du département dans lequel le bureau de vérification a son siège social un dossier comprenant :
+- l'attestation d'examen de recevabilité du système de qualité de l'organisme ou l'attestation d'accréditation et son annexe technique délivrée par le COFRAC ou tout autre organisme d'accréditation équivalant signataire de l'accord multilatéral pris dans le cadre de la coordination européenne des organismes d'accréditation au titre de l'annexe A de la norme NF EN ISO/CEI 17020 mentionnant précisément la portée d'accréditation de l'organisme ;
 
--les statuts de cet organisme ;
+- un engagement de se conformer, en cas d'agrément, aux dispositions du présent arrêté.
 
--les noms et les adresses de chacun des administrateurs ou des gérants et des membres du personnel de direction ;
+§ 3. La demande de renouvellement d'agrément est complétée par les documents suivants :
 
--la liste du personnel de vérification avec ses qualifications et les références de ses activités antérieures ;
+- une liste représentative des établissements CTS vérifiés dans le cadre de l'agrément au cours des douze mois précédant la demande ;
 
--les justifications demandées aux a, b, c, d et e ci-dessus et l'engagement d'agir en toute impartialité ;
+- un commentaire qualitatif sur les enseignements techniques et juridiques que l'ensemble des vérifications a pu apporter ;
 
--le tarif des honoraires.
+- la liste des organismes agréés de vérification CTS sous-traitants auxquels l'organisme a éventuellement fait appel.
 
-§ 2.L'habilitation ne peut être accordée par le ministre de l'intérieur qu'après avis favorable du commissaire de la République visé au paragraphe 1, f.
+§ 4. Le retrait ou la suspension d'un domaine ou d'une partie de domaine d'accréditation peut entraîner le retrait ou la suspension de l'agrément qui lui est lié. Le retrait ou la suspension de l'accréditation délivrée au titre de la norme NF EN ISO/CEI 17020 peut entraîner le retrait ou la suspension de l'agrément dans sa totalité.
 
-L'habilitation est accordée après avis de la commission centrale de sécurité pour une période maximale de 5 ans. La procédure de renouvellement est identique à celle suivie pour la 1re demande.
+§ 5. L'agrément ne peut être retiré qu'après présentation par l'organisme de vérification technique CTS de ses observations. Les décisions de retrait ou de suspension sont prises par le ministre de l'intérieur après avis de la commission centrale de sécurité.
 
-§ 3. L'habilitation peut être retirée à tout moment par arrêté du ministre de l'intérieur pris après avis de la commission centrale de sécurité.
+§ 6. Les décisions prises par le ministre de l'intérieur en application du présent arrêté font l'objet d'une publication au Journal officiel.
 
-§ 4. Les bureaux de vérification sont tenus d'informer le commissaire de la République de tout changement survenant parmi leurs administrateurs ou gérants, leur personnel de direction et les agents chargés des vérifications.
-
-§ 5. La liste des bureaux de vérification qui font l'objet d'une habilitation ou d'un retrait d'habilitation est publiée au Journal officiel.
+§ 7. La liste des organismes de vérification technique agréés CTS par le ministre de l'intérieur est rendue publique.
