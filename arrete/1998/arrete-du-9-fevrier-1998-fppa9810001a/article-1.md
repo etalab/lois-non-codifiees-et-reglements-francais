@@ -1,6 +1,6 @@
 # Article 1
 
-La liste des centres et instituts dont les stages ou les sessions ouvrent droit au congé pour formation syndicale, prévu à l'article 57 (7o) de la loi du 26 janvier 1984 susvisée, est fixée comme suit :
+La liste des centres et instituts dont les stages ou les sessions ouvrent droit au congé pour formation syndicale, prévu à l'article 57 (7°) de la loi du 26 janvier 1984 susvisée, est fixée comme suit :
 
 Centre confédéral d'éducation ouvrière de la Confédération générale du travail (CGT), 263, rue de Paris, 93516 Montreuil Cedex ;
 
@@ -17,6 +17,8 @@ Institut de formation syndicale de la Fédération générale autonome des fonct
 Centre d'étude et de formation de l'Union nationale des syndicats autonomes (CEFU-UNSA), 32, rue Rodier, 75009 Paris ;
 
 Centre fédéral de formation syndicale de la Fédération syndicale unitaire (FSU), 104, rue Romain-Rolland, 93260 Les Lilas ;
+
+Institut de formation syndicale de la Fédération autonome de la fonction publique territoriale (IFS FA-FPT), 96, rue Blanche, 75009 Paris ;
 
 Institut du travail de l'université Robert-Schuman (Strasbourg-III), 39, avenue de la Forêt-Noire, 67000 Strasbourg ;
 
