@@ -458,7 +458,6 @@
 - [Arrêté du 16 juillet 2003 (DEFP0301859A)](arrete-du-16-juillet-2003-defp0301859a)
 - [Arrêté du 16 juillet 2003 (DEFP0301860A)](arrete-du-16-juillet-2003-defp0301860a)
 - [Arrêté du 16 juillet 2003 (DEVP0320218A)](arrete-du-16-juillet-2003-devp0320218a)
-- [Arrêté du 16 juillet 2003 (MCCI0300644A)](arrete-du-16-juillet-2003-mcci0300644a)
 - [Arrêté du 16 juin 2003 (EQUS0300943A)](arrete-du-16-juin-2003-equs0300943a)
 - [Arrêté du 16 mars 1989 (ECOC8900020A)](arrete-du-16-mars-1989-ecoc8900020a)
 - [Arrêté du 16 mars 2004 (MCCB0300630A)](arrete-du-16-mars-2004-mccb0300630a)
