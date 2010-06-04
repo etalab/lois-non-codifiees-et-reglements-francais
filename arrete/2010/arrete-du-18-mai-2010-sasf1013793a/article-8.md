@@ -1,0 +1,3 @@
+# Article 8
+
+Les titulaires du brevet d'Etat d'éducateur sportif du premier degré option "basket-ball" obtiennent, sur demande auprès du directeur régional de la jeunesse, des sports et de la cohésion sociale, le diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport spécialité "perfectionnement sportif", mention "basket-ball" s'ils justifient, dans les cinq dernières années suivant la publication du présent arrêté, d'une expérience d'entraînement de trois saisons sportives dans des équipes de niveau nationale 3 ou nationale 2, masculine ou féminine, ou de niveau championnat de France de jeunes. L'expérience est attestée par le directeur technique national du basket-ball.
