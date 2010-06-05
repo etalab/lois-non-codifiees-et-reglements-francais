@@ -80,7 +80,11 @@ Département de la Loire-Atlantique
 
 Département de la Lozère
 
-Lac de Naussac.
+1° Lac de Naussac ;
+
+2° Retenue de Charpal ;
+
+3° Retenue de Villefort.
 
 Département de la Marne
 
@@ -106,7 +110,7 @@ Département des Pyrénées-Atlantiques
 
 3° Tous les lacs de montagne situés à une altitude supérieure à 1 000 mètres.
 
-Département des Hautes-Pyrénnées
+Département des Hautes-Pyrénées
 
 Tous les lacs de montagne situés à une altitude supérieure à 1000 mètres.
 
