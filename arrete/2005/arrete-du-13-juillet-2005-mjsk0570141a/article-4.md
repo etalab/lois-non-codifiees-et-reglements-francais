@@ -1,3 +1,3 @@
 # Article 4
 
-La présidence de la commission est assurée par l'un de ses membres, nommé par arrêté du ministre de la jeunesse, des sports et de la vie associative pour une durée de quatre ans.
+Le président et le vice-président de la commission sont désignés par arrêté du ministre chargé des sports pour une durée de quatre ans.

@@ -10,17 +10,13 @@ La commission visée à l'article 1er est composée :
 
 - un représentant de l'Académie des sciences ;
 
-- le haut fonctionnaire chargé de la terminologie et de la néologie au ministère de la jeunesse, des sports et de la vie associative ;
+- le haut fonctionnaire chargé de la terminologie et de la néologie au ministère chargé des sports ;
 
-2° De six représentants du ministère de la jeunesse, des sports et de la vie associative :
+2° De quatre représentants du ministère chargé des sports :
 
 - le directeur des sports ou son représentant ;
 
-- le directeur de la jeunesse et de l'éducation populaire ou son représentant ;
-
-- le directeur du personnel et de l'administration ou son représentant ;
-
-- le délégué à l'emploi et aux formations ou son représentant ;
+- le sous-directeur de l'emploi et des formations de la direction des sports ou son représentant ;
 
 - le chef du bureau chargé de la communication ou son représentant ;
 
@@ -30,16 +26,12 @@ La commission visée à l'article 1er est composée :
 
 - le président du Comité national olympique et sportif français (CNOSF) ou son représentant ;
 
-- le président du Comité pour les relations nationales et internationales des associations de jeunesse et d'éducation populaire (CNAJEP) ou son représentant ;
-
-- le directeur de l'Institut national de la jeunesse et de l'éducation populaire (INJEP) ou son représentant ;
-
-- le directeur de l'Institut national du sport et de l'éducation physique (INSEP) ou son représentant ;
+- le directeur général de l'Institut national du sport, de l'expertise et de la performance (INSEP) ou son représentant ;
 
 - le directeur de l'Ecole supérieure d'interprètes et de traducteurs (ESIT) ou son représentant ;
 
 - le directeur de l'Institut supérieur d'interprétation et de traduction (ISIT) ou son représentant ;
 
-4° De dix-huit personnalités qualifiées dans les domaines de la compétence du ministère de la jeunesse, des sports et de la vie associative, nommées pour une durée de quatre ans par arrêté du ministre de la jeunesse, des sports et de la vie associative.
+4° De seize personnalités qualifiées dans le domaine de compétence du sport, nommées pour une durée de quatre ans par arrêté du ministre chargé des sports.
 
-La commission peut se faire assister, en tant que de besoin, d'experts choisis en raison de leurs compétences pour les domaines concernés du ministère de la jeunesse, des sports et de la vie associative.
+La commission peut se faire assister, en tant que de besoin, d'experts choisis en raison de leurs compétences pour les domaines concernés du ministère chargé des sports.
