@@ -602,7 +602,6 @@
 - [Décret n°96-356 du 25 avril 1996 (TASE9610477D)](decret-n96-356-du-25-avril-1996-tase9610477d)
 - [Décret n°96-357 du 25 avril 1996 (TASE9610476D)](decret-n96-357-du-25-avril-1996-tase9610476d)
 - [Décret n°96-56 du 25 janvier 1996 (DOMP9500058D)](decret-n96-56-du-25-janvier-1996-domp9500058d)
-- [Décret n°96-568 du 25 juin 1996 (INDC9600403D)](decret-n96-568-du-25-juin-1996-indc9600403d)
 - [Décret n°96-57 du 25 janvier 1996 (DOMP9500059D)](decret-n96-57-du-25-janvier-1996-domp9500059d)
 - [Décret n°96-570 du 25 juin 1996 (FCEC9600080D)](decret-n96-570-du-25-juin-1996-fcec9600080d)
 - [Décret n°96-59 du 25 janvier 1996 (AVIC9503423D)](decret-n96-59-du-25-janvier-1996-avic9503423d)
