@@ -1,0 +1,3 @@
+# Article 1
+
+Est désigné sous l'appellation " site Natura 2000 pelouses et forêts calcicoles des coteaux de la Cure et de l'Yonne en amont de Vincelles " (zone spéciale de conservation FR 2600974) l'espace délimité sur la carte d'assemblage au 1 / 200 000 ainsi que sur les sept cartes au 1 / 25 000 ci-jointes, s'étendant sur une partie du territoire des communes suivantes du département de l'Yonne : Annay-la-Côte, Arcy-sur-Cure, Cravant, Fontenay-près-Vézelay, Girolles, Givry, Irancy, Lucy-le-Bois, Mailly-la-Ville, Mailly-le-Château, Merry-sur-Yonne, Précy-le-Sec, Saint-Moré, Voutenay-sur-Cure.

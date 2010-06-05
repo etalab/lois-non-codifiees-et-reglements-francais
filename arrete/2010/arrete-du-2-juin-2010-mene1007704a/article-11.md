@@ -1,0 +1,5 @@
+# Article 11
+
+L'évaluation spécifique d'histoire-géographie fait l'objet d'une épreuve écrite en langue italienne d'une durée de cinq heures. La partie histoire et la partie géographie donnent lieu à l'attribution de deux notes distinctes. En vue de l'obtention du baccalauréat, le total de ces deux notes, affecté du coefficient de l'épreuve d'histoire-géographie de la série du candidat, est pris en compte au titre de l'épreuve d'histoire-géographie. En vue de l'obtention de l'Esame di Stato, seule la note de la partie histoire est prise en compte.
+
+L'évaluation spécifique de langue et littérature italiennes fait l'objet d'une épreuve en langue italienne qui a lieu en deux parties, l'une, écrite, d'une durée de quatre heures, et l'autre, orale, d'une durée de vingt minutes et précédée d'un temps de préparation de vingt minutes. En vue de l'obtention du baccalauréat, cette épreuve donne lieu à l'attribution d'une note globale, affectée du coefficient de l'épreuve de langue vivante 1 de la série du candidat.

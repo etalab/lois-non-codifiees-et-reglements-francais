@@ -1,0 +1,3 @@
+# Article 12
+
+Les candidats reçoivent une attestation de délivrance de la Allgemeine Hochschulreife sur laquelle figure une note moyenne. Pour le calcul de cette note moyenne, sont pris en compte les résultats de la partie en langue allemande de l'examen ainsi que des résultats obtenus dans d'autres disciplines à l'examen du baccalauréat. Les modalités de calcul de cette note moyenne, qui prennent appui sur une table de correspondance arrêtée par la France et l'Allemagne, font l'objet de dispositions définies conjointement. Ces dispositions sont publiées par arrêté du ministre chargé de l'éducation.
