@@ -833,7 +833,6 @@
 - [Arrêté du 10 juin 2009 (JUSA0903101A)](arrete-du-10-juin-2009-jusa0903101a)
 - [Arrêté du 10 juin 2009 (SASF0912323A)](arrete-du-10-juin-2009-sasf0912323a)
 - [Arrêté du 10 mars 2009 (AGRM0905781A)](arrete-du-10-mars-2009-agrm0905781a)
-- [Arrêté du 10 mars 2009 (BCFR0905944A)](arrete-du-10-mars-2009-bcfr0905944a)
 - [Arrêté du 10 mars 2009 (ECED0905305A)](arrete-du-10-mars-2009-eced0905305a)
 - [Arrêté du 10 mars 2009 (ECED0906010A)](arrete-du-10-mars-2009-eced0906010a)
 - [Arrêté du 10 mars 2009 (ECEM0904662A)](arrete-du-10-mars-2009-ecem0904662a)
