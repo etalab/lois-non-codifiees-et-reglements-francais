@@ -1,16 +1,3 @@
 # Titre VI : Du statut de droit local applicable à Mayotte
 
-- [Article 52](article-52.md)
-- [Article 52-1](article-52-1.md)
-- [Article 52-2](article-52-2.md)
-- [Article 52-3](article-52-3.md)
-- [Article 52-4](article-52-4.md)
-- [Article 53](article-53.md)
-- [Article 56](article-56.md)
-- [Article 57](article-57.md)
-- [Article 58](article-58.md)
-- [Article 59](article-59.md)
-- [Article 60](article-60.md)
-- [Article 61](article-61.md)
-- [Article 62](article-62.md)
 - [Article 64-1](article-64-1.md)
