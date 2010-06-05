@@ -14,8 +14,12 @@
 </th>
 </tr>
 <tr>
-<th/>
-<th/>
+<th>
+<br/>
+</th>
+<th>
+<br/>
+</th>
 <th>Titre droit<br/>
 </th>
 <th>Tolérance<br/>(en millièmes)<br/>
@@ -84,7 +88,7 @@
 </td>
 <td align="center">+ 10<br/>- 5<br/>
 </td>
-<td align="center">12<br/>
+<td align="center">10<br/>
 </td>
 <td align="center">± 15<br/>
 </td>
