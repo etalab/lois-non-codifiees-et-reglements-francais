@@ -1,6 +1,6 @@
 # Article 7
 
-Par dérogation, les contrôles sérologiques annuels d'effectifs prévus à l'article 6 ne sont pas obligatoires pour :
+Par dérogation, les contrôles sérologiques d'effectifs prévus à l'article 6 ne sont pas obligatoires pour :
 
 - les bovinés dont la vaccination est certifiée par un vétérinaire ;
 

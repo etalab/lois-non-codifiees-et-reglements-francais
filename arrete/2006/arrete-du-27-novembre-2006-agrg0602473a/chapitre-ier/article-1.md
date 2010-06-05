@@ -13,3 +13,11 @@ Au sens du présent arrêté, on entend par :
 - détenteur : toute personne physique ou morale responsable des animaux à titre permanent ou temporaire ;
 
 - maître d'oeuvre de la prophylaxie de la rhinotrachéite infectieuse bovine : l'organisme à vocation sanitaire désigné par le préfet du département dans lequel il intervient pour le suivi des mesures définies aux articles 6 à 13 du présent arrêté.
+
+Département à situation épidémiologique favorable : département dans lequel, au terme du dépistage annuel des effectifs de bovinés établi conformément au chapitre II du présent arrêté :
+
+- la prévalence annuelle des cheptels est inférieure à 1 % pendant deux années consécutives ; ou
+
+- l'incidence annuelle des cheptels est inférieure à 0,2% pendant deux années consécutives.
+
+Une instruction du ministre chargé de l'agriculture fixe la liste des départements reconnus comme à situation épidémiologique favorable.
