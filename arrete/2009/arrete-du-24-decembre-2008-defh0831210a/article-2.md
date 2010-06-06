@@ -14,9 +14,9 @@ En application de l'article 3 du décret n° 2008-1314 du 12 décembre 2008 et d
 
 - chef du bureau des personnels fonctionnaires et ouvriers à la direction des ressources humaines de la direction générale de l'armement ;
 
-- sous-directeur des ressources humaines du centre d'essais de lancement de missiles à Biscarrosse ;
+- directeur local de l'action sociale de la région terre Ile-de-France ;
 
-- chef du bureau de la reconversion à la direction générale de la gendarmerie nationale ;
+- directeur local de l'action sociale de la région terre Sud-Ouest ;
 
 - chef du bureau gestion des personnels civils à la direction centrale du service de santé des armées ;
 
@@ -44,7 +44,7 @@ En application de l'article 3 du décret n° 2008-1314 du 12 décembre 2008 et d
 
 - chef du bureau de la diffusion multimédia au service parisien de soutien de l'administration centrale ;
 
-- chef du bureau de la cité de l'air au service parisien de soutien de l'administration centrale ;
+- adjoint au directeur du centre ministériel de gestion de Brest ;
 
 - chef du bureau de la rémunération et des frais de déplacements au service parisien de soutien de l'administration centrale ;
 
