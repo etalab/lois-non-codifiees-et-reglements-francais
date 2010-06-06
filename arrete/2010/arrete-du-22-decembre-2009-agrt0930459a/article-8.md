@@ -15,3 +15,5 @@ La preuve que l'exécution de l'action a commencé est apportée, notamment, par
 Les services de FranceAgriMer peuvent demander tout autre document permettant de justifier du commencement de réalisation de la plantation.
 
 La procédure de versement par avance du montant de l'aide est établie selon les modalités fixées à l'article 7.
+
+Les formes de garanties recevables peuvent être définies par décision du directeur général de FranceAgriMer.

@@ -1,6 +1,6 @@
 # Article 8
 
-Versement de l'aide par avance.
+Versement de l'aide individuelle par avance
 
 En application de l'article 9, paragraphe 2, du règlement (CE) n° 555/2008 susvisé, l'aide à la restructuration et à la reconversion du vignoble, hors participation aux coûts d'arrachage et pertes de recettes, peut être versée à titre d'avance pour des actions de plantation avant que l'action n'ait été exécutée, à condition :
 

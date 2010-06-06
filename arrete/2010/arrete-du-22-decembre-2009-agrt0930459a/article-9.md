@@ -1,6 +1,6 @@
 # Article 9
 
-Régularisation de l'avance.
+Régularisation de l'avance versée sur l'aide individuelle
 
 En cas de versement de l'aide par avance, la date limite de réalisation des actions est fixée au 31 juillet 2012.
 
