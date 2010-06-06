@@ -49,3 +49,45 @@ La ville de Schœlcher.
 La caisse générale de sécurité sociale de la Martinique.
 
 L'Association RAPH97-2, réadaptation à l'autonomie de la personne.
+
+L'Office statistique des Communautés européennes à Luxembourg (EUROSTAT).
+
+Les services statistiques ministériels listés en annexe du décret du 3 mars 2009 susvisé.
+
+La direction générale de la cohésion sociale du ministère du travail, de la solidarité et de la fonction publique.
+
+L'Institut fédératif de recherche sur le handicap.
+
+Le Centre technique national d'études et de recherche sur les handicaps et les inadaptations.
+
+Les agences régionales de santé.
+
+Les observatoires régionaux de santé.
+
+La Fédération nationale des observatoires régionaux de santé.
+
+L'Institut national de la santé et de la recherche médicale.
+
+L'Institut de recherche et de documentation en économie de la santé.
+
+L'Institut national des études démographiques.
+
+L'Institut national de prévention et d'éducation pour la santé.
+
+L'Observatoire français des drogues et des toxicomanies.
+
+L'Agence française de sécurité sanitaire des aliments.
+
+L'Agence française de sécurité sanitaire des produits de santé.
+
+L'Agence française de sécurité sanitaire de l'environnement et du travail.
+
+La Haute Autorité de santé.
+
+L'Institut national du cancer.
+
+Le Centre d'études de l'emploi.
+
+Le Centre d'études et de recherches sur les qualifications.
+
+Novartis Pharma SAS, sise au 2-4, rue Lionel-Terray, 92500 Rueil-Malmaison (immatriculé sous le numéro 410 349 070 au répertoire national des entreprises et des établissements).
