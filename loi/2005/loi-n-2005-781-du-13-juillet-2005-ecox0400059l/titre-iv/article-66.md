@@ -6,8 +6,8 @@ II.-[Dispositions déclarées non conformes à la Constitution par la décision 
 
 III.-[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2006-543 DC du 30 novembre 2006.]
 
-IV.-Un consommateur final domestique d'électricité qui en fait la demande avant le 1er juillet 2010 bénéficie des tarifs réglementés de vente d'électricité pour la consommation d'un site, à condition qu'il n'ait pas lui-même fait usage, pour ce site, de la faculté prévue au I de l'article 22 précité.
+IV.-Un consommateur final domestique d'électricité qui en fait la demande     bénéficie des tarifs réglementés de vente d'électricité pour la consommation d'un site, à condition qu'il n'ait pas lui-même fait usage, pour ce site, de la faculté prévue au I de l'article 22 précité.
 
-V.-Lorsqu'un consommateur final domestique d'électricité a fait usage pour la consommation d'un site de cette faculté depuis plus de six mois, il peut, sous réserve d'en faire la demande avant le 1er juillet 2010, à nouveau bénéficier des tarifs réglementés de vente d'électricité pour ce site.
+V.-Lorsqu'un consommateur final domestique d'électricité a fait usage pour la consommation d'un site de cette faculté depuis plus de six mois, il peut, sous réserve d'en faire la demande     , à nouveau bénéficier des tarifs réglementés de vente d'électricité pour ce site.
 
-VI.-Un consommateur final non domestique souscrivant une puissance électrique égale ou inférieure à 36 kilovoltampères qui en fait la demande avant le 1er juillet 2010 bénéficie des tarifs réglementés de vente d'électricité pour la consommation d'un site, à condition qu'il n'ait pas lui-même fait usage, pour ce site, de la faculté prévue au I de l'article 22 de la loi n° 2000-108 du 10 février 2000 précitée.
+VI.-Un consommateur final non domestique souscrivant une puissance électrique égale ou inférieure à 36 kilovoltampères qui en fait la demande     bénéficie des tarifs réglementés de vente d'électricité pour la consommation d'un site, à condition qu'il n'ait pas lui-même fait usage, pour ce site, de la faculté prévue au I de l'article 22 de la loi n° 2000-108 du 10 février 2000 précitée.

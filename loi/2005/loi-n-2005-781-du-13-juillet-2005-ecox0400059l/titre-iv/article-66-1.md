@@ -6,4 +6,6 @@ II.-[Dispositions déclarées non conformes à la Constitution par la décision 
 
 III.-[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2006-543 DC du 30 novembre 2006.]
 
-IV.-Un consommateur final domestique de gaz naturel qui en fait la demande avant le 1er juillet 2010 bénéficie des tarifs réglementés de vente de gaz naturel pour la consommation d'un site, à condition qu'il n'ait pas lui-même fait usage, pour ce site, de la faculté prévue à l'article 3 précité.
+IV.-Un consommateur final domestique de gaz naturel qui en fait la demande bénéficie des tarifs réglementés de vente de gaz naturel pour la consommation d'un site, à condition qu'il n'ait pas lui-même fait usage, pour ce site, de la faculté prévue à l'article 3 précité.
+
+Lorsqu'un consommateur final domestique de gaz naturel a fait usage pour la consommation d'un site de cette faculté depuis plus de six mois, il peut, sous réserve d'en faire la demande, à nouveau bénéficier des tarifs réglementés de vente de gaz naturel pour ce site.
