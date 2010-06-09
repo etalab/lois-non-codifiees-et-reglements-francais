@@ -87,6 +87,8 @@
 - [Décret n°2010-25 du 7 janvier 2010 (MTSV0923506D)](decret-n2010-25-du-7-janvier-2010-mtsv0923506d)
 - [Décret n°2010-26 du 7 janvier 2010 (BCFR0911210D)](decret-n2010-26-du-7-janvier-2010-bcfr0911210d)
 - [Décret n°2010-27 du 7 janvier 2010 (ESRS0925690D)](decret-n2010-27-du-7-janvier-2010-esrs0925690d)
+- [Décret n°2010-613 du 7 juin 2010 (MTSA1014681D)](decret-n2010-613-du-7-juin-2010-mtsa1014681d)
+- [Décret n°2010-614 du 7 juin 2010 (BCRB1013834D)](decret-n2010-614-du-7-juin-2010-bcrb1013834d)
 - [Décret n°2010-620 du 7 juin 2010 (DEFH0931848D)](decret-n2010-620-du-7-juin-2010-defh0931848d)
 - [Décret n°2010-466 du 7 mai 2010 (BCRB1012451D)](decret-n2010-466-du-7-mai-2010-bcrb1012451d)
 - [Décret n°2010-467 du 7 mai 2010 (MTSF1008492D)](decret-n2010-467-du-7-mai-2010-mtsf1008492d)
