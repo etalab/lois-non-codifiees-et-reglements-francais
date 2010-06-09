@@ -6,7 +6,7 @@ Les titulaires du baccalauréat français ;
 
 Les titulaires de l'un des titres figurant dans l'arrêté du 25 août 1969 modifié, d'un titre admis en dispense du baccalauréat français en application du décret n° 81-1221 du 31 décembre 1981, ou de l'un des titres énumérés en annexe III du présent arrêté ;
 
-Les personnes ayant satisfait à un examen spécial d'entrée à l'université ;
+Les personnes ayant satisfait à un examen spécial d'entrée à l'université ou les titulaires d'un diplôme d'accès aux études universitaires ;
 
 Les personnes reçues à l'examen de niveau organisé en vue de l'admission dans les écoles paramédicales, sauf pour la formation de psychomotricien ;
 

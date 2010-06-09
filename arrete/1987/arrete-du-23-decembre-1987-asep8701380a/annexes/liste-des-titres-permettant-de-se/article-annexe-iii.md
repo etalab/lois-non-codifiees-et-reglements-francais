@@ -4,7 +4,7 @@ Diplôme d'expertise comptable (ancien diplôme d'expert-comptable).
 
 Tous baccalauréats de technicien.
 
-Pour l'accès à la formation de technicien en analyses biomédicales seulement :
+Pour l'accès à la formation de technicien de laboratoire médical seulement :
 
 - brevet d'enseignement industriel d'aide biochimiste ;
 

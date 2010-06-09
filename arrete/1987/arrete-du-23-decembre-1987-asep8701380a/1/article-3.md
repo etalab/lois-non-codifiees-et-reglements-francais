@@ -4,9 +4,9 @@ Les candidats doivent déposer dans chacune des écoles ou des centres de format
 
 1° Une demande d'inscription ;
 
-2° Une fiche individuelle d'état civil ;
+2° Une copie d'une pièce d'identité  ;
 
-3° Une copie de l'attestation de succès au baccalauréat français ou du titre admis en dispense certifiée conforme ;
+3° Une copie de l'attestation de succès au baccalauréat français ou du titre admis en dispense ;
 
 4° Le cas échéant, un certificat de scolarité ;
 

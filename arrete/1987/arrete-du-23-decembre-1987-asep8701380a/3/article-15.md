@@ -1,8 +1,8 @@
 # Article 15
 
-Les handicapés [*mal voyants*] visuels sont autorisés à poursuivre la préparation du diplôme d'Etat de masseur-kinésithérapeute dans une école spécialisée pour leur handicap, sous réserve :
+Les handicapés visuels sont autorisés à poursuivre la préparation du diplôme d'Etat de masseur-kinésithérapeute dans une école spécialisée pour leur handicap, sous réserve :
 
-Qu'ils répondent aux conditions fixées par l'article 2 du présent arrêté ou qu'ils satisfassent, à compter de l'année 1991, à un examen de niveau organisé à leur intention par chaque direction départementale des affaires sanitaires et sociales où se trouve une école agréée en vue de la préparation au diplôme d'Etat de masseur-kinésithérapeute des handicapés visuels ;
+Qu'ils répondent aux conditions fixées par l'article 2 du présent arrêté ou qu'ils satisfassent, à compter de l'année 1991, à un examen de niveau organisé à leur intention par chaque directeur d'institut où se trouve une école agréée en vue de la préparation au diplôme d'Etat de masseur-kinésithérapeute des handicapés visuels ;
 
 Que leur candidature soit retenue par le conseil technique de l'école choisie.
 

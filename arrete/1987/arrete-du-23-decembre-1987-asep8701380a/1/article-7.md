@@ -4,7 +4,7 @@ Les épreuves d'admission comprennent :
 
 Pour la formation d'ergothérapeute : tests psychotechniques, durée : une heure, notés sur vingt points ; contraction de texte, durée : une heure, notée sur vingt points ; biologie et physique, durée : une heure, notées sur vingt points. Les épreuves de biologie et de physique sont écrites et portent sur le programme défini en annexe I du présent arrêté.
 
-Pour la formation de laborantin d'analyses médicales : biologie, durée : deux heures, notée sur vingt points ; physique, durée :
+Pour la formation de technicien de laboratoire médical : biologie, durée : deux heures, notée sur vingt points ; physique, durée :
 
 une heure, notée sur vingt points ; chimie, durée : une heure, notée sur vingt points. Ces épreuves écrites portent sur le programme défini en annexe I du présent arrêté.
 

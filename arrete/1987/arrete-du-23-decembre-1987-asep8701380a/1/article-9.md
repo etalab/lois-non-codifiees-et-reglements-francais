@@ -6,7 +6,7 @@ Lorsque deux ou plusieurs candidats obtiennent le même nombre de points, le ran
 
 Pour la formation d'ergothérapeute, par la différence de note la plus faible entre la note obtenue à l'épreuve de contraction de texte et celle obtenue à l'épreuve de biologie et physique ;
 
-Pour la formation de laborantin d'analyses médicales, par les notes obtenues successivement aux épreuves de biologie, chimie ;
+Pour la formation de technicien de laboratoire médical, par les notes obtenues successivement aux épreuves de biologie, chimie ;
 
 Pour la formation de manipulateur d'électroradiologie médicale, par la note obtenue à l'épreuve de biologie, puis par la note obtenue à l'épreuve de physique et chimie dans le cas où l'école organise une épreuve facultative :
 
