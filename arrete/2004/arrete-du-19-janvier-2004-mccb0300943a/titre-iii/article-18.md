@@ -4,13 +4,15 @@ L'évaluation de fin d'études est sanctionnée par la délivrance d'un diplôme
 
 Le directeur général de l'école désigne un jury pour chaque département ou filière : production, scénario, réalisation, décor, image, son, montage, scripte, distribution-exploitation.
 
-Chaque jury est présidé par le directeur général de l'école ou son représentant. Il comprend, outre son président :
+Chaque jury est présidé par le président du conseil d'administration de l'école ou son représentant. Il comprend également :
+
+- le directeur général ou son représentant ;
 
 - le directeur des études ou son représentant ;
 
-- le ou les responsables du département ou de la filière concerné ou leur représentant ;
+- le ou les responsables de département ou de la filière concerné ou leur représentant ;
 
-- au moins trois personnalités extérieures, nommées par le directeur général de l'école.
+- au moins trois personnalités extérieures nommées par le directeur général de l'école.
 
 La soutenance est publique. Le jury peut décerner les félicitations. En cas de partage égal des voix lors des délibérations des jurys, la voix du président du jury est prépondérante. La décision de ne pas délivrer le diplôme doit être motivée.
 
