@@ -1,0 +1,5 @@
+# Article 1
+
+Les établissements publics à caractère scientifique, culturel et professionnel, les établissements publics scientifiques et technologiques et les autres établissements publics à caractère administratif relevant des ministres chargés de l'enseignement supérieur et de la recherche ayant une mission statutaire de recherche peuvent faire bénéficier leurs personnels d'un intéressement à la préparation, à la réalisation et à la gestion d'opérations de recherches, d'études, d'analyses, d'essais, d'expertise effectuées aux termes de contrats et de conventions passés par eux ou en contrepartie de dons et legs qu'ils reçoivent. Les activités susceptibles d'ouvrir droit à l'intéressement peuvent être réalisées par les bénéficiaires au titre de leurs obligations de service ou au-delà de celles-ci.
+
+L'intéressement ne peut être versé que pour une opération achevée. Le coût des rétributions versées est imputé sur les ressources de l'établissement provenant de chacun de ces contrats, conventions, dons ou legs.
