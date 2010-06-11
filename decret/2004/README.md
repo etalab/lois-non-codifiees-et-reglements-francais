@@ -506,7 +506,6 @@
 - [Décret n°2004-440 du 19 mai 2004 (ECOT0414388D)](decret-n2004-440-du-19-mai-2004-ecot0414388d)
 - [Décret n°2004-441 du 19 mai 2004 (INTB0400129D)](decret-n2004-441-du-19-mai-2004-intb0400129d)
 - [Décret n°2004-442 du 19 mai 2004 (INTB0400130D)](decret-n2004-442-du-19-mai-2004-intb0400130d)
-- [Décret n°2005-502 du 19 mai 2005 (PRMX0508380D)](decret-n2005-502-du-19-mai-2005-prmx0508380d)
 - [Décret n°2004-1006 du 20 septembre 2004 (DEFP0400978D)](decret-n2004-1006-du-20-septembre-2004-defp0400978d)
 - [Décret n°2004-1234 du 20 novembre 2004 (DOMA0400036D)](decret-n2004-1234-du-20-novembre-2004-doma0400036d)
 - [Décret n°2004-1372 du 20 décembre 2004 (SANX0407866D)](decret-n2004-1372-du-20-decembre-2004-sanx0407866d)
