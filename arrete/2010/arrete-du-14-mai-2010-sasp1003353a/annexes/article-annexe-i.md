@@ -1,0 +1,47 @@
+# Article Annexe I
+
+ÉLÉMENTS D'INFORMATION PERMETTANT
+
+D'UTILISER DES ORGANES À DES FINS THÉRAPEUTIQUES
+
+Pour être utilisés à des fins thérapeutiques, les organes doivent être accompagnés des éléments d'information suivants :
+
+I. - Les résultats individuels des examens biologiques pratiqués chez le donneur conformément aux articles R. 1211-14, R. 1211-15, R. 1211-16 et R. 1211-21 ainsi que la mention du laboratoire ayant pratiqué ces examens.
+
+Ces résultats sont fournis sous la forme d'un compte rendu d'analyses signé par le responsable des analyses pratiquées ou de la photocopie de ce compte rendu.
+
+Les comptes rendus d'analyses mentionnent la technique et la dénomination commerciale des dispositifs médicaux de diagnostic in vitro utilisés pour réaliser les analyses biologiques permettant la recherche des marqueurs biologiques d'infection suivant la réglementation en vigueur.
+
+II. - Les antécédents médicaux et, le cas échéant, les facteurs de risques ayant servi de base à la sélection clinique du donneur.
+
+III. - Les informations figurant sur l'étiquette placée à l'extérieur du récipient de transport.
+
+Ces informations sont les suivantes :
+
+a) Le type d'organe ;
+
+b) Le numéro d'identification du donneur ;
+
+c) La mention  RISQUE BIOLOGIQUE  lorsque la présence de marqueur de maladie infectieuse est avérée ;
+
+d) Le milieu de préservation de l'organe ;
+
+e) La température de transport ;
+
+f) Les coordonnées de l'établissement préleveur ;
+
+g) Les coordonnées du destinataire ;
+
+h) La mention  pour greffe d'organes .
+
+IV. - Les informations nécessaires à la traçabilité.
+
+Ces informations doivent permettre d'établir le lien entre le don et le donneur et entre le donneur et le ou les receveur(s). Les informations permettant d'assurer la traçabilité sont mentionnées dans la fiche opérationnelle de prélèvement. Ce document est adressé par les établissements préleveurs aux établissements greffeurs.
+
+Il comporte les éléments d'information suivants :
+
+a) Identification de l'établissement ayant effectué le prélèvement, et le cas échéant du site de prélèvement ;
+
+b) Numéro d'identification du donneur ;
+
+c) Date et heure du prélèvement.

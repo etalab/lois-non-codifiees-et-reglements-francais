@@ -20,4 +20,6 @@
 - [LOI n° 2010-501 du 18 mai 2010 (MCCX0914997L)](loi-n-2010-501-du-18-mai-2010-mccx0914997l)
 - [LOI n° 2010-597 du 3 juin 2010 (PRMX0920421L)](loi-n-2010-597-du-3-juin-2010-prmx0920421l)
 - [LOI n° 2010-606 du 7 juin 2010 (BCRX1012897L)](loi-n-2010-606-du-7-juin-2010-bcrx1012897l)
+- [LOI n° 2010-625 du 9 juin 2010 (MTSX1001402L)](loi-n-2010-625-du-9-juin-2010-mtsx1001402l)
+- [LOI n° 2010-626 du 9 juin 2010 (SASX0814100L)](loi-n-2010-626-du-9-juin-2010-sasx0814100l)
 - [LOI n° 2010-97 du 27 janvier 2010 (MCCX0929140L)](loi-n-2010-97-du-27-janvier-2010-mccx0929140l)
