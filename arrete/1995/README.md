@@ -360,7 +360,6 @@
 - [Arrêté du 9 octobre 1995 (EQUT9501350A)](arrete-du-9-octobre-1995-equt9501350a)
 - [Arrêté du 9 octobre 1995 (MENL9502219A)](arrete-du-9-octobre-1995-menl9502219a)
 - [Arrêté du 9 octobre 1995 (MENU9501994A)](arrete-du-9-octobre-1995-menu9501994a)
-- [Arrêté du 9 octobre 1995 (SANP9503122A)](arrete-du-9-octobre-1995-sanp9503122a)
 - [Arrêté du 9 mai 1995 (AGRA9500683A)](arrete-du-9-mai-1995-agra9500683a)
 - [Arrêté du 9 mai 1995 (BUDB9560028A)](arrete-du-9-mai-1995-budb9560028a)
 - [Arrêté du 9 mai 1995 (BUDL9500040A)](arrete-du-9-mai-1995-budl9500040a)
