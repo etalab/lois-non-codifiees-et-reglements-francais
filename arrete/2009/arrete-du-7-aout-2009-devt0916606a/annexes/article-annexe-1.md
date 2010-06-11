@@ -2,7 +2,7 @@
 
 MODALITÉS ET PÉRIODICITÉS DES INSPECTIONS DES CÂBLES ET DE LEURS ATTACHES
 
-I. - Câbles porteurs, culots et câbles de sécurisation des câbles porteurs.
+I. - Pour les installations fonctionnant moins de 500 heures par an, la périodicité des contrôles des câbles nécessitant une reprise de tension peut être adaptée avec l'accord du service de contrôle. Câbles porteurs, culots et câbles de sécurisation des câbles porteurs.
 
 <table>
 <tbody>
@@ -708,11 +708,11 @@ Dans la suite de cet article, on désigne par téléphériques à va-et-vient le
 
 Dans le cas des téléphériques bicâbles à va-et-vient mono-tracteur sans frein de chariot, le câble tracteur fait l'objet d'un examen sur toute sa longueur, par la méthode magnéto-inductive, à l'aide d'un dispositif disponible sur l'installation, avec les périodicités suivantes :
 
-― durant la première année d'utilisation du câble tracteur : toutes les 200 heures d'exploitation et au moins toutes les 4 semaines d'exploitation ;
+― durant la première année d'utilisation du câble tracteur : toutes les 200 heures d'exploitation et au moins toutes les 4 semaines d'exploitation pour les téléphériques bi-câbles mono-tracteurs sans frein de chariot transportant exclusivement du personnel, tels que définis à l'article 4 du décret du 15 mai 2007 susvisé, la périodicité de quatre semaines peut être portée à trois mois ;
 
 ― durant la deuxième année à la dixième année d'utilisation : toutes les 1 000 heures d'exploitation et au moins une fois par an ;
 
-― après la dixième année d'utilisation : toutes les 200 heures d'exploitation et au moins tous les 3 mois d'exploitation ;
+― après la dixième année d'utilisation : toutes les 200 heures d'exploitation et au moins tous les 3 mois d'exploitation pour les téléphériques bi-câbles mono-tracteurs sans frein de chariot transportant exclusivement du personnel, tels que définis à l'article 4 du décret du 15 mai 2007 susvisé, la périodicité de trois mois peut être portée à un an ;
 
 ― avant remise en service après un arrêt d'exploitation de 3 mois ou plus.
 
@@ -1107,7 +1107,7 @@ Au sens du présent arrêté, un câble de tension est toujours sur appui mobile
 <br/>
 </td>
 <td width="19">
-<p align="center">X</p>
+<p align="center">X<br/>(1)</p>
 </td>
 <td width="133">
 <p align="center">Tous les 10 ans</p>

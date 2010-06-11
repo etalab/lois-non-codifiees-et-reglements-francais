@@ -2,7 +2,7 @@
 
 Caractéristiques des équipements individuels de flottabilité
 
-I. - Les équipements individuels de flottabilité à bord des navires de plaisance répondent aux caractéristiques suivantes :
+I. - Les équipements individuels de flottabilité à bord des navires de plaisance sont adaptés à la morphologie des personnes embarquées et répondent aux caractéristiques suivantes :
 
 - 50 N de flottabilité au moins pour les embarcations propulsées par l'énergie humaine, quelle que soit leur distance d'éloignement ;
 
