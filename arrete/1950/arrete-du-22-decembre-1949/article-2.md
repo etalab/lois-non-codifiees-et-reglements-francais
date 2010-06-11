@@ -10,6 +10,8 @@ Le directeur de la prévention des pollutions et des risques au ministère charg
 
 Le général commandant la brigade de sapeurs-pompiers de Paris ou son représentant ;
 
+Le président de la Fédération nationale des sapeurs-pompiers de France ou son représentant ;
+
 Le président du comité de liaison d'organismes de prévention et de sécurité incendie ou son représentant ;
 
 Le directeur du Centre scientifique et technique du bâtiment ou son représentant ;

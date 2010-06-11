@@ -60,6 +60,8 @@ RNAV
 
 Navigation de surface/Area Navigation
 
+RNAV-1 : spécification de navigation utilisée pour appuyer des opérations RNAV dans le cadre de SID, de STAR, d'approches jusqu'au repère/point d'approche finale (FAF/FAP) et d'approches interrompues finales).
+
 RNP
 
 Qualité de navigation requise/Required Navigation Performance
@@ -192,9 +194,23 @@ Exemption :
 
 Les aéronefs d'Etat sont exemptés de cette obligation. Ils se conforment alors à des procédures particulières établies avec l'autorité compétente de la circulation aérienne.
 
-2.2.1.3. Procédures de départ, d'arrivée, d'attente et d'approche aux instruments :
+2. 2. 1. 3. Procédures de départ, d'arrivée, d'attente et d'approche aux instruments :
 
-Tout aéronef dispose des équipements de bord lui permettant d'exploiter les moyens radioélectriques sur lesquels est établie la procédure suivie (SID, STAR, attente, approche).
+a) Généralités :
+
+Tout aéronef dispose des équipements de bord lui permettant d'exploiter les informations fournies par les moyens radioélectriques et / ou satellitaires sur lesquels est établie la procédure suivie (SID, STAR, attente, approche aux instruments). Toutefois, ces équipements de bord peuvent être remplacés par des systèmes RNAV lorsqu'il a été montré que leurs performances répondent à des critères de substitution portés à la connaissance des usagers par la voie de l'information aéronautique.
+
+b) Procédures RNAV de départ (SID), d'arrivée (STAR), d'attente ou d'approche aux instruments (segments d'approche initiale, intermédiaire et interrompue finale) :
+
+Pour suivre une procédure RNAV de départ (SID), d'arrivée (STAR), d'attente ou d'approche aux instruments (segments d'approche initiale, intermédiaire et interrompue finale), tout aéronef est équipé d'un système de navigation de surface conforme à la spécification de navigation requise et portée à la connaissance des usagers par la voie de l'information aéronautique.
+
+La procédure RNAV publiée peut requérir que la performance du système RNAV soit accomplie à l'aide des informations fournies par des moyens radioélectriques, satellitaires et / ou radio-inertiels spécifiques.
+
+Dans tous les cas, les procédures publiées comme étant utilisables en RNAV-1 et en P-RNAV excluent les aéronefs autorisés P-RNAV avec le seul capteur VOR-DME.
+
+c) Procédures RNAV (GNSS) d'approche aux instruments :
+
+Pour suivre une procédure d'approche RNAV (GNSS) (initiale, intermédiaire, finale et approche interrompue), l'aéronef doit être équipé d'un système RNAV (GNSS) certifié conforme à la spécification RNP (APCH) du manuel de la navigation fondée sur les performances (PBN) de l'OACI (doc. 9613).
 
 2.2.1.4. RVSM :
 
