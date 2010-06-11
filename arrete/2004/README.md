@@ -835,7 +835,6 @@
 - [Arrêté du 29 novembre 2004 (SANP0424067A)](arrete-du-29-novembre-2004-sanp0424067a)
 - [Arrêté du 30 août 2004 (DEVP0430114A)](arrete-du-30-aout-2004-devp0430114a)
 - [Arrêté du 30 avril 2004 (DEVP0430124A)](arrete-du-30-avril-2004-devp0430124a)
-- [Arrêté du 30 avril 2004 (MENA0400885A)](arrete-du-30-avril-2004-mena0400885a)
 - [Arrêté du 30 avril 2004 (SOCU0410659A)](arrete-du-30-avril-2004-socu0410659a)
 - [Arrêté du 30 avril 2004 (SOCU0410660A)](arrete-du-30-avril-2004-socu0410660a)
 - [Arrêté du 30 décembre 1996 (INTC9700001A)](arrete-du-30-decembre-1996-intc9700001a)
