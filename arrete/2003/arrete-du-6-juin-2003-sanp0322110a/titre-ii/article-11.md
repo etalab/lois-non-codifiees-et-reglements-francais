@@ -1,8 +1,8 @@
 # Article 11
 
-Le jury des épreuves de sélection, nommé par le préfet de région, comprend, outre le directeur régional des affaires sanitaires et sociales ou son représentant, président :
+Le jury des épreuves de sélection, nommé par le directeur de l'école, comprend :
 
-Le médecin directeur de l'enseignement ou le directeur de l'école de cadres de sages-femmes ;
+Le médecin directeur de l'enseignement ou le directeur de l'école de cadres de sages-femmes président ;
 
 Une sage-femme titulaire du diplôme de cadre sage-femme enseignant depuis au moins trois ans dans une école de cadres de sages-femmes ou tout autre établissement agréé pour la formation préparant au diplôme d'Etat de sage-femme ;
 
@@ -16,4 +16,4 @@ Un enseignant relevant du ministère chargé de l'enseignement supérieur.
 
 Les membres du jury ne doivent pas tous exercer leurs fonctions au sein du même établissement hospitalier ou, en ce qui concerne l'Assistance publique-hôpitaux de Paris, du même hôpital ou groupe hospitalier.
 
-Si le nombre de candidats le justifie, le préfet de région peut augmenter le nombre des membres du jury, en respectant les proportions prévues pour le jury de base.
+Si le nombre de candidats le justifie, le directeur d'école peut augmenter le nombre des membres du jury, en respectant les proportions prévues pour le jury de base.
