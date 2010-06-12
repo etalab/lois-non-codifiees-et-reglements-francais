@@ -162,6 +162,7 @@
 - [Arrêté du 5 mars 2010 (AGRT1006209A)](arrete-du-5-mars-2010-agrt1006209a)
 - [Arrêté du 5 mars 2010 (BCFR1004493A)](arrete-du-5-mars-2010-bcfr1004493a)
 - [Arrêté du 5 mars 2010 (ECES1006387A)](arrete-du-5-mars-2010-eces1006387a)
+- [Arrêté du 5 mai 2004 (SOCF0410893A)](arrete-du-5-mai-2004-socf0410893a)
 - [Arrêté du 5 mai 2009 (DEVA0909086A)](arrete-du-5-mai-2009-deva0909086a)
 - [Arrêté du 5 mai 2010 (AGRM1011854A)](arrete-du-5-mai-2010-agrm1011854a)
 - [Arrêté du 5 mai 2010 (BCRE1013657A)](arrete-du-5-mai-2010-bcre1013657a)
