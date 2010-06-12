@@ -46,6 +46,8 @@ Lévophacétopérane et ses sels
 
 MBDB ou N-méthyl-1-(3,4- méthylènedioxyphényl)-2-butanamine et ses sels dans tous les cas où ils peuvent exister
 
+4-méthylmethcathinone ou méphédrone, et ses sels
+
 Nabilone et ses sels dans tous les cas où ils peuvent exister
 
 Pentorex et ses sels, à l'exception de leurs préparations autres qu'injectables
