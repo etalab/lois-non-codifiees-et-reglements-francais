@@ -586,7 +586,6 @@
 - [Arrêté du 18 décembre 2006 (SOCF0612596A)](arrete-du-18-decembre-2006-socf0612596a)
 - [Arrêté du 18 décembre 2007 (AGRG0773845A)](arrete-du-18-decembre-2007-agrg0773845a)
 - [Arrêté du 18 décembre 2007 (BCFD0774102A)](arrete-du-18-decembre-2007-bcfd0774102a)
-- [Arrêté du 18 décembre 2007 (BCFR0773218A)](arrete-du-18-decembre-2007-bcfr0773218a)
 - [Arrêté du 18 décembre 2007 (DEVA0773905A)](arrete-du-18-decembre-2007-deva0773905a)
 - [Arrêté du 18 décembre 2007 (DEVU0771401A)](arrete-du-18-decembre-2007-devu0771401a)
 - [Arrêté du 18 décembre 2007 (JUSB0768664A)](arrete-du-18-decembre-2007-jusb0768664a)
