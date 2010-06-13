@@ -951,7 +951,6 @@
 - [Arrêté du 24 octobre 1995 (EQUS9501626A)](arrete-du-24-octobre-1995-equs9501626a)
 - [Arrêté du 24 octobre 1995 (EQUZ9501546A)](arrete-du-24-octobre-1995-equz9501546a)
 - [Arrêté du 25 août 1995 (FPPA9500122A)](arrete-du-25-aout-1995-fppa9500122a)
-- [Arrêté du 25 août 1995 (MCCB9500348A)](arrete-du-25-aout-1995-mccb9500348a)
 - [Arrêté du 25 août 1995 (MENF9501838A)](arrete-du-25-aout-1995-menf9501838a)
 - [Arrêté du 25 août 1995 (REFB9500460A)](arrete-du-25-aout-1995-refb9500460a)
 - [Arrêté du 25 août 1995 (SANG9502361A)](arrete-du-25-aout-1995-sang9502361a)
