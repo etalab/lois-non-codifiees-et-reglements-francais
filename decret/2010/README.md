@@ -146,6 +146,8 @@
 - [Décret n°2010-253 du 10 mars 2010 (MCCT0927644D)](decret-n2010-253-du-10-mars-2010-mcct0927644d)
 - [Décret n°2010-254 du 10 mars 2010 (OMEO0925290D)](decret-n2010-254-du-10-mars-2010-omeo0925290d)
 - [Décret n°2010-639 du 10 juin 2010 (IOCA1011072D)](decret-n2010-639-du-10-juin-2010-ioca1011072d)
+- [Décret n°2010-641 du 10 juin 2010 (DEVA1005815D)](decret-n2010-641-du-10-juin-2010-deva1005815d)
+- [Décret n°2010-645 du 10 juin 2010 (IMIK0816500D)](decret-n2010-645-du-10-juin-2010-imik0816500d)
 - [Décret n°2010-472 du 10 mai 2010 (ECEL0931642D)](decret-n2010-472-du-10-mai-2010-ecel0931642d)
 - [Décret n°2010-473 du 10 mai 2010 (DEFH0912731D)](decret-n2010-473-du-10-mai-2010-defh0912731d)
 - [Décret n°2010-475 du 10 mai 2010 (MCCB1004082D)](decret-n2010-475-du-10-mai-2010-mccb1004082d)
