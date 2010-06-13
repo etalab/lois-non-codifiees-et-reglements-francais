@@ -1,6 +1,6 @@
 # Article 3
 
-Pour l'obtention de l'autorisation définitive prévue au 1° du paragraphe I de l'article 7 et au paragraphe III de l'article 7-1 du décret du 2 février 1995 susvisé, l'entreprise de production doit déposer au Centre national de la cinématographie, au plus tard un mois après achèvement de l'oeuvre, un dossier complet comprenant :
+Pour l'obtention de l'autorisation définitive prévue au 1° du paragraphe I de l'article 7 et au paragraphe III de l'article 7-1 du décret du 2 février 1995 susvisé, l'entreprise de production doit déposer au Centre national de la cinématographie et de l'image animée, au plus tard un mois après achèvement de l'oeuvre, un dossier complet comprenant :
 
 1° L'attestation, dûment renseignée et certifiée, de l'acceptation de l'oeuvre par le ou les éditeurs de service de télévision chargés d'en assurer la diffusion ;
 
@@ -20,4 +20,4 @@ Pour l'obtention de l'autorisation définitive prévue au 1° du paragraphe I de
 
 9° Un relevé du générique de l'oeuvre ;
 
-10° Une copie vidéo de l'oeuvre. La copie est restituée à l'entreprise de production qui procède à son enlèvement dans un délai d'un an suivant la notification du directeur général du Centre national de la cinématographie d'inscrire ou non l'oeuvre sur la liste des oeuvres de référence, conformément au paragraphe II de l'article 6 du 2 février 1995 susvisé.A l'expiration du délai précité, la copie est détruite.
+10° Une copie vidéo de l'oeuvre. La copie est restituée à l'entreprise de production qui procède à son enlèvement dans un délai d'un an suivant la notification du président du Centre national de la cinématographie et de l'image animée d'inscrire ou non l'oeuvre sur la liste des oeuvres de référence, conformément au paragraphe II de l'article 6 du 2 février 1995 susvisé. A l'expiration du délai précité, la copie est détruite.
