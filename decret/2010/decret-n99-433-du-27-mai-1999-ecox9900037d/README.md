@@ -8,3 +8,5 @@
 - [Titre V : Recensement des votes et proclamations des résultats.](titre-v)
 - [Titre VI : Dispositions applicables à la chambre des métiers et de l'artisanat de Mayotte.](titre-vi)
 - [Titre VII : Dispositions diverses et transitoires.](titre-vii)
+- [Article 38](article-38.md)
+- [ANNEXE](annexe)
