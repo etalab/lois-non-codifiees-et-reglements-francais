@@ -6,6 +6,5 @@
 - [CHAPITRE II : ORGANISATION ADMINISTRATIVE](chapitre-ii)
 - [CHAPITRE III : DISPOSITIONS FINANCIERES ET COMPTABLES](chapitre-iii)
 - [CHAPITRE IV : DISPOSITIONS FINALES](chapitre-iv)
-- [CHAPITRE V : DISPOSITIONS TRANSITOIRES ET FINALES.](chapitre-v)
 - [Article 23](article-23.md)
 - [Article Annexe](article-annexe.md)
