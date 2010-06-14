@@ -1,6 +1,6 @@
 # Article 12
 
-Les conditions d'organisation et de fonctionnement de la division des élèves ingénieurs des travaux géographiques et cartographiques de l'Etat à l'école nationale des sciences géographiques sont fixées par arrêté du ministre chargé de l'équipement. La durée de la scolarité est de trois ans.
+Les conditions d'organisation et de fonctionnement de la division des élèves ingénieurs des travaux géographiques et cartographiques de l'Etat à l'école nationale des sciences géographiques sont fixées par arrêté du     ministre chargé du développement durable. La durée de la scolarité est de trois ans.
 
 Les élèves ingénieurs des travaux géographiques et cartographiques de l'Etat admis en troisième année d'études sont nommés ingénieurs stagiaires des travaux géographiques et cartographiques de l'Etat.
 
