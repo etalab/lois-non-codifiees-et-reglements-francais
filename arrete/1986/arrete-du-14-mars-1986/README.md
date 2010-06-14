@@ -1,4 +1,4 @@
-# Arrêté du 14 mars 1986 portant création d'un comité de gestion de la taxe parafiscale sur les huiles de base.
+# Arrêté du 14 mars 1986 relatif aux conditions d'utilisation de caisses automatisées par les exploitants de salles de spectacles cinématographiques
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

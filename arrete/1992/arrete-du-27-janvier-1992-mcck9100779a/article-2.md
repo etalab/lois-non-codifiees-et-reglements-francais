@@ -1,6 +1,6 @@
 # Article 2
 
-Les personnes qui exercent une activité habituelle de reproduction de vidéogrammes sont tenues d'établir pour chaque oeuvre audiovisuelle un document justificatif d'un modèle agréé par le Centre national de la cinématographie sur lequel figurent :
+Les personnes qui exercent une activité habituelle de reproduction de vidéogrammes sont tenues d'établir pour chaque oeuvre audiovisuelle un document justificatif d'un modèle agréé par le Centre national du cinéma et de l'image animée sur lequel figurent :
 
 - le titre original de l'oeuvre et, dans le cas d'une oeuvre étrangère, le titre sous lequel l'oeuvre est éditée en France si celui-ci est différent ;
 

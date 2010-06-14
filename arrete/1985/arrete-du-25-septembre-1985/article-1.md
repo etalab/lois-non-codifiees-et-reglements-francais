@@ -1,6 +1,6 @@
 # Article 1
 
-Pour l'obtention de l'agrément prévu à l'article 4 du décret du 17 septembre 1985 susvisé, l'entreprise de production doit déposer au Centre national de la cinématographie un dossier constitué des documents suivants [*formalisés*] :
+Pour l'obtention de l'agrément prévu à l'article 4 du décret du 17 septembre 1985 susvisé, l'entreprise de production doit déposer au Centre national du cinéma et de l'image animée un dossier constitué des documents suivants :
 
 1. Une lettre de demande d'agrément mentionnant :
 

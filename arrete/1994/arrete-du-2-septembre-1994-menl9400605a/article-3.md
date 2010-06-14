@@ -30,7 +30,7 @@ Elle comprend vingt-deux membres :
 
 -le directeur général de la création artistique ou son représentant ;
 
--le directeur du Centre national de la cinématographie ou son représentant ;
+-le président du Centre national du cinéma et de l'image animée ou son représentant ;
 
 -le délégué au développement et aux formations ;
 

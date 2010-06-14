@@ -2,7 +2,7 @@
 
 La commission prévue à l'article 7 bis du décret du 6 février 1986 susvisé est composée ainsi qu'il suit :
 
-- le directeur général du Centre national de la cinématographie ou son représentant, président ;
+- le président du Centre national du cinéma et de l'image animée ou son représentant, président ;
 
 - un représentant du ministre chargé de la culture ;
 

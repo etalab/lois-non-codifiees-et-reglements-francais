@@ -8,4 +8,4 @@ Cet avis est décerné soit oralement, si le contrôle est effectué en présenc
 
 Le procès-verbal est alors notifié, par lettre recommandée avec accusé de réception, dans un délai de trois mois à dater du jour auquel l'intéressé aura été avisé.
 
-L'intéressé jouit d'un délai de quinze jours francs à compter de la remise du procès-verbal ou de la présentation de la lettre recommandée de notification pour envoyer ses explications au centre national de la cinématographie, par lettre recommandée avec accusé de réception. Le procès-verbal et la lettre de notification doivent rappeler, à peine de nullité, le délai accordé à l'intéressé pour exercer son droit de défense.
+L'intéressé jouit d'un délai de quinze jours francs à compter de la remise du procès-verbal ou de la présentation de la lettre recommandée de notification pour envoyer ses explications au Centre national du cinéma et de l'image animée, par lettre recommandée avec accusé de réception. Le procès-verbal et la lettre de notification doivent rappeler, à peine de nullité, le délai accordé à l'intéressé pour exercer son droit de défense.

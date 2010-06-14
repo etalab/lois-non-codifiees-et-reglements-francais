@@ -12,4 +12,4 @@ Sont membres de la commission :
 
 -un représentant du ministère de l'économie, des finances et du budget.
 
-Le directeur général du Centre national de la cinématographie ou son représentant assure la présidence de la commission.
+Le président du Centre national du cinéma et de l'image animée ou son représentant assure la présidence de la commission.

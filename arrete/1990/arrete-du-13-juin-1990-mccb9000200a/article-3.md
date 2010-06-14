@@ -42,11 +42,11 @@ Pour la commission d'orientation et de suivi des enseignements et activités du 
 
 - le délégué au développement et aux formations ou son représentant ;
 
-- le directeur général du Centre national de la cinématographie ou son représentant ;
+- le président du Centre national du cinéma et de l'image animée ou son représentant ;
 
-- le chef du service de l'action culturelle au Centre national de la cinématographie ;
+- le chef du service de l'action culturelle au Centre national du cinéma et de l'image animée ;
 
-- un chargé de mission au Centre national de la cinématographie ;
+- un chargé de mission au Centre national du cinéma et de l'image animée ;
 
 - un chargé de mission à la délégation au développement et aux formations ;
 
@@ -54,4 +54,4 @@ Pour la commission d'orientation et de suivi des enseignements et activités du 
 
 - deux professionnels.
 
-Les enseignants, les personnalités qualifiées et les professionnels sont désignés pour une durée [*mandat*] renouvelable de trois ans.
+Les enseignants, les personnalités qualifiées et les professionnels sont désignés pour une durée renouvelable de trois ans.

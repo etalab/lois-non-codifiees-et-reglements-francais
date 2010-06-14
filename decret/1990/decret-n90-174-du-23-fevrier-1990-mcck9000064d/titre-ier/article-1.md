@@ -34,7 +34,7 @@ e) Le Défenseur des enfants et deux membres suppléants désignés par le minis
 
 - un membre titulaire et deux membres suppléants proposés par le ministre chargé de la famille ;
 
-- un membre titulaire et deux membres suppléants choisis sur des listes de candidatures dressées par le directeur général du Centre national de la cinématographie dans des conditions fixées par arrêté du ministre chargé de la culture.
+- un membre titulaire et deux membres suppléants choisis sur des listes de candidatures dressées par le président du Centre national du cinéma et de l'image animée dans des conditions fixées par arrêté du ministre chargé de la culture.
 
 II. - Le président et le président suppléant sont nommés pour une période de trois ans, renouvelable deux fois par décret du Premier ministre pris sur le rapport du ministre chargé de la culture. Le président est choisi parmi les membres du Conseil d'Etat.
 
@@ -48,4 +48,4 @@ IV. - Peuvent en outre participer aux séances de la commission, à titre consul
 
 Chaque fois qu'il apparaît utile, assistent avec voix consultative aux séances de la commission, sur convocation du président, toutes personnes qualifiées.
 
-Le directeur général du Centre national de la cinématographie peut assister ou se faire représenter aux séances de la commission. Il peut participer aux délibérés, mais il ne prend pas part aux votes.
+Le président du Centre national du cinéma et de l'image animée peut assister ou se faire représenter aux séances de la commission. Il peut participer aux délibérés, mais il ne prend pas part aux votes.

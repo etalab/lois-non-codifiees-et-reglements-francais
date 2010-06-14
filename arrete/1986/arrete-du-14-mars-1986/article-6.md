@@ -1,3 +1,3 @@
 # Article 6
 
-Le secrétariat du comité de gestion est assuré par l'Agence de l'environnement et de la maitrise de l'énergie.
+L'article 3 de l'arrêté du 14 mars 1978 susvisé ainsi que l'arrêté du 1er juillet 1976 fixant les normes de télévision sur le territoire métropolitain sont abrogés.

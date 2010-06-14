@@ -2,7 +2,7 @@
 
 La commission est composée de sept membres.
 
-Elle est présidée par le directeur général du Centre national de la cinématographie ou son représentant, qui a voix délibérative. Les votes ont lieu à main levée et en cas de partage des voix celle du président est prépondérante.
+Elle est présidée par le président du Centre national du cinéma et de l'image animée ou son représentant, qui a voix délibérative. Les votes ont lieu à main levée et en cas de partage des voix celle du président est prépondérante.
 
 Sont membres de la commission :
 

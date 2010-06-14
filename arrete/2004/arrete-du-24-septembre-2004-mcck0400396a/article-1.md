@@ -1,6 +1,6 @@
 # Article 1
 
-Pour l'obtention de la décision prévue au paragraphe II de l'article 5 du décret du 2 février 1995 susvisé, l'entreprise de production doit déposer au Centre national de la cinématographie, au moins un mois avant la date de la commission au cours de laquelle elle souhaite que sa demande soit examinée, un dossier complet comprenant :
+Pour l'obtention de la décision prévue au paragraphe II de l'article 5 du décret du 2 février 1995 susvisé, l'entreprise de production doit déposer au Centre national de la cinématographie et de l'image animée, au moins un mois avant la date de la commission au cours de laquelle elle souhaite que sa demande soit examinée, un dossier complet comprenant :
 
 1° Une lettre de demande indiquant le montant de l'aide sollicitée ainsi que les principales caractéristiques artistiques et techniques de l'oeuvre, notamment :
 

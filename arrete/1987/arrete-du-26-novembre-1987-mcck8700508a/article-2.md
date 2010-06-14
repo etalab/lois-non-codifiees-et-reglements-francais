@@ -2,7 +2,7 @@
 
 La commission mentionnée à l'article précédent est composée de quinze membres.
 
-Elle est présidée par le directeur général du Centre national de la cinématographie ou son représentant.
+Elle est présidée par le président du Centre national du cinéma et de l'image animée ou son représentant.
 
 Sont membres de la commission :
 

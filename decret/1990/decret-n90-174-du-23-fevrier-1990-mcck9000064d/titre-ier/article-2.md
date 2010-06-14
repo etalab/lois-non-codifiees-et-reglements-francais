@@ -16,4 +16,4 @@ L'assemblée plénière de la commission ne siège valablement que si quatorze m
 
 Les membres des commissions et des sous-commissions ne peuvent siéger lorsqu'ils ont un intérêt direct ou indirect dans une oeuvre cinématographique.
 
-Le secrétariat de la commission de classification des œuvres cinématographiques est assuré par le Centre national de la cinématographie.
+Le secrétariat de la commission de classification des œuvres cinématographiques est assuré par le Centre national du cinéma et de l'image animée.

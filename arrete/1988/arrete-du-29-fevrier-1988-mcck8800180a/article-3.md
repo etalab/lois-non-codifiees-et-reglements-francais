@@ -1,6 +1,6 @@
 # Article 3
 
-Pour investir les sommes inscrites à son compte, l'entreprise de production doit [*obligations*] déposer au Centre national de la cinématographie, dans le mois [*délai*] qui suit les prises de vues, un dossier composé des documents suivants :
+Pour investir les sommes inscrites à son compte, l'entreprise de production doit déposer au Centre national du cinéma et de l'image animée, dans le mois qui suit les prises de vues, un dossier composé des documents suivants :
 
 1. Une lettre de demande d'investissement indiquant :
 
@@ -22,4 +22,4 @@ Pour investir les sommes inscrites à son compte, l'entreprise de production doi
 
 7. L'engagement d'un service de communication audiovisuelle de diffuser l'oeuvre.
 
-A la demande du Centre national de la cinématographie, l'entreprise de production doit fournir tout document permettant de vérifier le bien-fondé de ses déclarations.
+A la demande du Centre national du cinéma et de l'image animée, l'entreprise de production doit fournir tout document permettant de vérifier le bien-fondé de ses déclarations.

@@ -4,6 +4,6 @@ Cette commission est composée d'un président et de six membres nommés pour un
 
 Leur mandat est renouvelable une fois.
 
-L'instruction des dossiers est assurée par le ministère des affaires étrangères et par le Centre national de la cinématographie.
+L'instruction des dossiers est assurée par le ministère des affaires étrangères et par le Centre national du cinéma et de l'image animée.
 
-Le secrétariat de la commission est assuré par le Centre national de la cinématographie.
+Le secrétariat de la commission est assuré par le Centre national du cinéma et de l'image animée.

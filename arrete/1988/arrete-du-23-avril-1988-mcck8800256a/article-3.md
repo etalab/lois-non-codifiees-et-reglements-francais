@@ -1,6 +1,6 @@
 # Article 3
 
-La demande de l'exploitant doit être faite par une lettre adressée au Centre national de la cinématographie mentionnant :
+La demande de l'exploitant doit être faite par une lettre adressée au Centre national du cinéma et de l'image animée mentionnant :
 
 - la raison sociale de l'entreprise de distribution ;
 

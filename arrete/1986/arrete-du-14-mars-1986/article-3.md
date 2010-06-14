@@ -1,35 +1,17 @@
 # Article 3
 
-Le comité de gestion est constitué de seize membres :
+Les fabricants ou leurs mandataires informent les services du Centre national du cinéma et de l'image animée des commandes qui leur sont adressées par les exploitants de salles de spectacles cinématographiques.
 
-a) Sept membres représentant l'Etat :
+Les installateurs doivent, en outre, adresser aux services visés à l'alinéa précédent, au moins quinze jours avant l'installation de caisses automatisées, un document mentionnant :
 
-- le directeur de la prévention de la pollution et des risques, ou son représentant ;
+- leur nom ou raison sociale et adresse ;
 
-- le directeur général de la concurrence, de la consommation et de la répression des fraudes, ou son représentant ;
+- le type de la caisse et son numéro dans la série du type ;
 
-- le directeur du budget, ou son représentant ;
+- la dénomination sociale ou l'enseigne de l'établissement utilisateur, son numéro d'autorisation auprès du Centre national du cinéma et de l'image animée et le lieu d'implantation ;
 
-- le directeur général des douanes et droit indirects, ou son représentant ;
+- la date prévue de l'installation.
 
-- le directeur des hydrocarbures, ou son représentant ;
+Lors de la mise en service des caisses automatisées ainsi qu'à l'occasion de tout changement de lieu d'implantation et de toute modification technique ultérieure nécessitant l'intervention du constructeur, l'installateur et l'exploitant informent immédiatement et conjointement le Centre national du cinéma et de l'image animée de la date effective de l'opération et de l'état des compteurs de numérotation.
 
-- le directeur général de la santé, ou son représentant ;
-
-- le directeur du commerce intérieur, ou son représentant ;
-
-b) Le président du conseil d'administration de l'Agence de l'environnement et de la maitrise de l'énergie, ou son représentant, président du comité de gestion ;
-
-c) Un membre représentant les entreprises de collecte des huiles usagées ;
-
-d) Deux membres représentant les entreprises agréées d'élimination des huiles usagées ;
-
-e) Un membre représentant les utilisateurs d'huiles régénérées ;
-
-f) Deux membres représentant les entreprises soumises à la taxe parafiscale ;
-
-g) Un membre représentant les détenteurs d'huiles usagées ;
-
-h) Un membre représentant les consommateurs.
-
-Les membres du comité de gestion sont nommés par arrêté conjoint du ministre chargé de l'industrie et du ministre chargé de l'environnement. RL>
+Toute information relative aux caisses automatisées devra être transmise par le Centre national du cinéma et de l'image animée aux services des impôts.

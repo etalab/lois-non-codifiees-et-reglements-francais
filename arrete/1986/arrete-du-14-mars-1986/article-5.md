@@ -1,7 +1,3 @@
 # Article 5
 
-Le comité de gestion se réunit sur la convocation de son président. Il ne peut délibérer valablement qu'en la présence de la moitié de ses membres ou de leurs représentants.
-
-Les décisions sont prises à la majorité des membres présents.
-
-En cas de partage égal des voix, celle du président est prépondérante.
+Des signaux de données pourront, en particulier pour des services de télétexte, être multiplexés aux signaux de télévision selon des normes définies par arrêtés.
