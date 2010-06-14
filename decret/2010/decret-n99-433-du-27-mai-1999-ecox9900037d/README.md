@@ -2,3 +2,5 @@
 
 - [Titre III : Révision de la liste électorale et candidatures](titre-iii)
 - [Titre IV bis : Vote électronique.](titre-iv-bis)
+- [Titre VI : Dispositions applicables à la chambre des métiers et de l'artisanat de Mayotte.](titre-vi)
+- [Titre VII : Dispositions diverses et transitoires.](titre-vii)
