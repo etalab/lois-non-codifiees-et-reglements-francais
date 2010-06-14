@@ -454,6 +454,7 @@
 - [Décret n°2010-430 du 27 avril 2010 (MCCX1007925D)](decret-n2010-430-du-27-avril-2010-mccx1007925d)
 - [Décret n°2010-99 du 27 janvier 2010 (MENE0929852D)](decret-n2010-99-du-27-janvier-2010-mene0929852d)
 - [Décret n°93-963 du 27 juillet 1993 (PRMG9370420D)](decret-n93-963-du-27-juillet-1993-prmg9370420d)
+- [Décret n°99-433 du 27 mai 1999 (ECOX9900037D)](decret-n99-433-du-27-mai-1999-ecox9900037d)
 - [Décret n°2010-547 du 27 mai 2010 (PRMX1002869D)](decret-n2010-547-du-27-mai-2010-prmx1002869d)
 - [Décret n°2010-548 du 27 mai 2010 (PRMX1009223D)](decret-n2010-548-du-27-mai-2010-prmx1009223d)
 - [Décret n°2010-549 du 27 mai 2010 (PRMX1002870D)](decret-n2010-549-du-27-mai-2010-prmx1002870d)
