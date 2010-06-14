@@ -14,7 +14,7 @@ Il délibère sur :
 
 5° Le compte financier et l'affectation des résultats de l'exercice ;
 
-6° Les conditions générales de recrutement, d'emploi et de rémunération des personnels, pour lesquels il sera établi un régime unique ;
+6° Les conditions générales de recrutement, d'emploi et de rémunération des personnels ;
 
 7° Les conditions générales de passation des contrats, conventions et marchés et les conditions dans lesquelles des dépenses peuvent être préfinancées avant la signature ou l'exécution d'un contrat ;
 
@@ -36,6 +36,6 @@ Il délibère sur :
 
 16° Le recours à l'arbitrage en cas de litiges nés de l'exécution de contrats passés avec des organismes étrangers.
 
-Dans les limites qu'il détermine, le conseil d'administration peut déléguer au directeur général les attributions prévues aux 8°, 9°, 14°, 15° et 16°. Le directeur général rend compte, lors de la plus prochaine séance, des décisions qu'il a prises en vertu de ces délégations.
+Dans les limites qu'il détermine, le conseil d'administration peut déléguer au président du conseil d'administration les attributions prévues aux 8°, 9°, 14°, 15° et 16°. Le président du conseil d'administration rend compte, lors de la plus prochaine séance, des décisions qu'il a prises en vertu de ces délégations.
 
-En ce qui concerne les décisions modificatives de l'état annuel des prévisions de recettes et de dépenses, prévues au 3°, sont seules soumises au conseil celles qui comportent soit une augmentation du montant total des dépenses, soit des virements de crédits entre la section des opérations en capital et la section de fonctionnement ou entre les chapitres de matériel et les chapitres de personnel. Les autres décisions modificatives sont prises par le président du conseil d'administration en accord avec le membre du corps du contrôle général économique et financier. Elles sont exécutoires et doivent être portées à la connaissance du conseil d'administration dans le délai de six mois.
+En ce qui concerne les décisions modificatives de l'état annuel des prévisions de recettes et de dépenses, prévues au 3°, sont seules soumises au conseil celles qui comportent soit une augmentation du montant total des dépenses, soit des virements de crédits entre la section des opérations en capital et la section de fonctionnement ou entre les chapitres de matériel et les chapitres de personnel. Les autres décisions modificatives sont prises par le président du conseil d'administration en accord avec l'autorité chargée du contrôle économique et financier. Elles sont exécutoires et doivent être portées à la connaissance du conseil d'administration dans le délai de six mois.

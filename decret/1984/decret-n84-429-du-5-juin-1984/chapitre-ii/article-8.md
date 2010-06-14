@@ -4,6 +4,6 @@ Le conseil d'administration se réunit au moins trois fois par an sur convocatio
 
 Les membres absents peuvent donner pouvoir à un autre membre pour les représenter à une séance. Aucun membre ne peut exercer plus d'un pouvoir.
 
-Le conseil ne délibère valablement que si la moitié au moins de ses membres est présente ou représentée. Si ce quorum n'est pas atteint, le conseil est à nouveau convoqué avec le même ordre du jour dans un délai maximum de vingt jours ; il délibère alors sans condition de quorum.
+Le conseil ne délibère valablement que si la moitié au moins de ses membres sont présents ou représentés ou participent à la séance par des moyens de visioconférence ou de communication électronique permettant leur identification et leur participation effective à une délibération collégiale. Si ce quorum n'est pas atteint, le conseil est à nouveau convoqué avec le même ordre du jour dans un délai maximum de vingt jours ; il délibère alors sans condition de quorum.
 
 Les délibérations du conseil sont prises à la majorité des membres présents; en cas de partage des voix, celle du président est prépondérante.
