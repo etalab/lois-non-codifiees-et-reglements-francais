@@ -1,3 +1,3 @@
 # Article 14
 
-Les géomètres sont choisis parmi les techniciens géomètres justifiant d'au moins dix années de service effectif dans leur emploi et titulaires de quatre des brevets de qualification visés à l'article 16 ci-dessous. Ces brevets devront être choisis dans trois groupes différents au moins.
+Peuvent être promus au grade de géomètre les techniciens géomètres ayant atteint le 6e échelon de leur grade et justifiant d'au moins cinq années de services effectifs depuis leur nomination en qualité de stagiaire dans ce corps.

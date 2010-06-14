@@ -1,5 +1,11 @@
 # Article 8
 
-Les candidats admis au concours sont nommés techniciens géomètres stagiaires par le ministre de l'équipement. Tout candidat admis qui n'entre pas en fonctions à la date fixée perd le bénéfice de son tour de nomination. S'il présente des excuses jugées valables, son installation en qualité de technicien géomètre stagiaire peut être reportée à une date ultérieure par décision du ministre de l'équipement. S'il ne présente pas d'excuses jugées valables ou s'il n'observe pas le délai imparti, il perd le bénéfice de son admission au concours, mais peut néanmoins se présenter aux concours ouverts ultérieurement s'il remplit encore les conditions d'âges requises à l'article 5.
+Les candidats admis au concours sont nommés techniciens géomètres stagiaires par le ministre chargé du développement durable.
 
-La nomination en qualité de technicien géomètre stagiaire des candidats reçus au concours organisé est subordonnée la souscription par les intéressés de l'engagement de rester au service de l'Etat pendant une durée minimale de huit ans. En cas de rupture de cet engagement plus de trois mois après la date de leur installation en qualité de technicien géomètre stagiaire, les intéressés verseront au Trésor une indemnité égale au montant du traitement et de l'indemnité de résidence perçus pendant la durée du stage visé à l'article 9 sans préjudice des poursuites disciplinaires auxquelles ladite rupture d'engagement pourrait donner lieu.
+Le recrutement des techniciens géomètres stagiaires défini à l'article 5 est subordonné à l'engagement de suivre le cycle complet de l'enseignement mentionné au premier alinéa de l'article 9 et à celui de servir pendant une durée minimale de cinq ans à compter de la date de titularisation dans le corps des géomètres de l'Institut géographique national.
+
+Est prise en compte au titre de l'engagement de servir prévu à l'alinéa précédent la durée de service effectuée dans un emploi relevant de la fonction publique territoriale ou de la fonction publique hospitalière ou au sein des services de la Communauté européenne ou dans l'administration d'un Etat membre de la Communauté européenne ou d'un autre Etat partie de l'accord sur l'Espace économique européen.
+
+Si la rupture de l'un des engagements survient plus de trois mois après la date de nomination en qualité de technicien géomètre stagiaire, les intéressés doivent, sauf si la rupture ne leur est pas imputable, rembourser à l'Etat une somme égale à la totalité des traitements et indemnités perçus pendant leur scolarité ainsi qu'une fraction des frais d'études engagés pour leur formation.
+
+Les modalités de ce remboursement sont fixées par arrêté conjoint du ministre chargé du développement durable et du ministre chargé du budget.

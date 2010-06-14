@@ -1,65 +1,64 @@
 # Article 17
 
-Les géomètres principaux sont choisis parmi les géomètres ayant atteint le 5e échelon de leur grade. Ils sont nommés dans les conditions fixées par le tableau ci-après :
+Les géomètres principaux sont choisis parmi les géomètres ayant atteint le 5e échelon et justifiant d'au moins trois années de services effectifs dans ce grade. Ils sont nommés dans les conditions fixées par le tableau ci-après :
 
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center">Géomètre</p>
+<th>
+<br/>GÉOMÈTRE <br/>
+</th>
+<th>
+<br/>GÉOMÈTRE PRINCIPAL <br/>
+</th>
+<th>
+<br/>ANCIENNETÉ D'ÉCHELON MAINTENUE <br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>5e échelon : <br/>
 </td>
-<td>
-<p align="center">Géomètre principal</p>
-</td>
-<td>
-<p align="center">ANCIENNETE D'ECHELON </p>
+<td align="center">
 <br/>
-<p align="center">maintenue</p>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>5e échelon :</p>
+<td align="center">
+<br/>- avant 2 ans <br/>
 </td>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>1er échelon <br/>
 </td>
-<td>
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td>
-<p>- Avant 2 ans</p>
-</td>
-<td>
-<p align="center">1er échelon</p>
-</td>
-<td>
-<p>Ancienneté acquise.</p>
+<td align="center">
+<br/>Ancienneté acquise <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>- Après 2 ans</p>
+<td align="center">
+<br/>- après 2 ans <br/>
 </td>
-<td>
-<p align="center">2e échelon</p>
+<td align="center">
+<br/>2e échelon <br/>
 </td>
-<td>
-<p>Ancienneté acquise diminuée de 2 ans.</p>
+<td align="center">
+<br/>Ancienneté acquise diminuée de 2 ans <br/>
 </td>
 </tr>
 <tr>
-<td rowspan="2">
-<p>6e échelon</p>
+<td align="center">
+<br/>6e échelon <br/>
 </td>
-<td rowspan="2">
-<p align="center">3e échelon</p>
+<td align="center">
+<br/>3e échelon <br/>
 </td>
-<td rowspan="2">
-<p>Ancienneté acquise.</p>
-</td>
+<td align="center">
+<br/>Ancienneté acquise</td>
 </tr>
 </tbody>
 </table>

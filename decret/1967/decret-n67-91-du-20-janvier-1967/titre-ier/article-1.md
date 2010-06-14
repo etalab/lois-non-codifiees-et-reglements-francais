@@ -1,3 +1,5 @@
 # Article 1
 
-Les géomètres de l'institut géographique national constituent un corps de fonctionnaires classé dans la catégorie B prévue à l'article 17 de l'ordonnance susvisée du 4 février 1959. En considération des conditions d'exercice de ces emplois, ce corps est exclusivement composé d'agents du sexe masculin.
+Les géomètres de l'Institut géographique national forment un corps classé dans la catégorie B prévue à l'article 29 de la loi du 11 janvier 1984 modifiée portant dispositions statutaires relatives à la fonction publique de l'Etat. Ils sont recrutés, nommés et gérés par le ministre chargé du développement durable.
+
+Ce corps est régi par le présent décret et le décret n° 94-1016 du 18 novembre 1994 modifié portant dispositions statutaires communes applicables à divers corps de fonctionnaires de la catégorie B.

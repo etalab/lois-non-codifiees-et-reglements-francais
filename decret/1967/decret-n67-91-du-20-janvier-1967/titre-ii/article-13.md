@@ -1,35 +1,149 @@
 # Article 13
 
-Les techniciens géomètres stagiaires qui ont satisfait aux épreuves du stage sont, dans l'ordre de classement prévu à l'article 9, nommés à l'emploi de technicien géomètre et titularisés par le ministre de l'équipement dans les conditions ci-après :
+Les techniciens géomètres sont classés, lors de leur nomination, au 1er échelon du grade de base, sous réserve des dispositions prévues aux II, III et IV de l'article 3 et aux articles 4 à 7 du décret n° 94-1016 du 18 novembre 1994 modifié fixant les dispositions statutaires communes applicables à divers corps de fonctionnaires de la catégorie B et des dispositions suivantes.
 
-I - Ceux qui n'avaient pas la qualité de fonctionnaire ou d'agent de l'Etat lors de leur admission en qualité de stagiaire sont classés à l'échelon de début du grade de technicien géomètre. Leur ancienneté dans cet échelon court du jour de leur installation en qualité de stagiaire.
+I.-Les fonctionnaires de catégorie C ou de même niveau qui détiennent un grade situé en échelle 6 sont classés conformément au tableau de correspondance ci-après :
 
-II - Par. A - Les fonctionnaires de l'Etat soumis aux dispositions du décret du 27 janvier 1970 susvisé sont classés dans le grade de technicien géomètre sur la base de la durée moyenne fixée à l'article 19 ci-dessous pour chaque avancement d'échelon en prenant en compte une fraction de leur ancienneté dans leur grade d'origine.
+<table>
+<tbody>
+<tr>
+<th>
+<br/>SITUATION DANS L'ÉCHELLE 6 <br/>
+<p>DE LA CATÉGORIE C <br/>
+</p>
+</th>
+<th>
+<br/>SITUATION DANS LE CORPS DES GÉOMÈTRES <br/>
+</th>
+<th>
+<br/>Techniciens géomètres <br/>
+<p>(échelons) <br/>
+</p>
+</th>
+<th>
+<br/>Ancienneté conservée dans la limite <br/>
+<p>de la durée d'échelon <br/>
+</p>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Echelon spécial <br/>
+</td>
+<td align="center">
+<br/>8e échelon <br/>
+</td>
+<td align="center">
+<br/>Ancienneté acquise majorée de 18 mois <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>7e échelon <br/>
+</td>
+<td align="center">
+<br/>8e échelon <br/>
+</td>
+<td align="center">
+<br/>Ancienneté acquise <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>6e échelon<br/>
+<p>-après un an</p>
+<p>-avant un an <br/>
+</p>
+</td>
+<td align="center">
+<br/>
+<p>7e échelon </p>
+<p>6e échelon <br/>
+</p>
+</td>
+<td align="center">
+<br/>
+<p>Ancienneté acquise au-delà d'un an </p>
+<p>Ancienneté acquise majorée d'un an <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>5e échelon<br/>
+<p>-après un an</p>
+<p>-avant un an <br/>
+</p>
+</td>
+<td align="center">
+<br/>
+<p>6e échelon </p>
+<p>5e échelon <br/>
+</p>
+</td>
+<td align="center">
+<br/>
+<p>Ancienneté acquise au-delà d'un an </p>
+<p>Ancienneté acquise majorée de deux ans <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>4e échelon <br/>
+</td>
+<td align="center">
+<br/>5e échelon <br/>
+</td>
+<td align="center">
+<br/>Ancienneté acquise <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>3e échelon <br/>
+</td>
+<td align="center">
+<br/>4e échelon <br/>
+</td>
+<td align="center">
+<br/>Ancienneté acquise majorée d'un an <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>2e échelon<br/>
+<p>-après un an</p>
+<p>-avant un an <br/>
+</p>
+</td>
+<td align="center">
+<br/>
+<p>4e échelon </p>
+<p>3e échelon <br/>
+</p>
+</td>
+<td align="center">
+<br/>
+<p>Ancienneté acquise au-delà d'un an </p>
+<p>Ancienneté acquise majorée d'un an <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>1er échelon <br/>
+</td>
+<td align="center">
+<br/>3e échelon <br/>
+</td>
+<td align="center">
+<br/>Ancienneté acquise <br/>
+</td>
+</tr>
+</tbody>
+</table>
 
-L'ancienneté dans le grade d'origine correspond, dans la limite maximale de vingt-neuf ans pour un grade de la catégorie D et de trente-deux ans pour un grade de la catégorie C, au temps nécessaire pour parvenir, sur la base des durées moyennes fixées par les articles 2 ou 3 du décret du 27 janvier 1970 susvisé, à l'échelon occupé par l'intéressé, augmenté de l'ancienneté acquise dans cet échelon.
+Toutefois, s'ils y ont intérêt, les fonctionnaires mentionnés ci-dessus sont classés en application des dispositions prévues au II ou, le cas échéant, au III de l'article 3 du décret du 18 novembre 1994 susmentionné en tenant compte de la situation qui aurait été la leur s'ils n'avaient cessé de détenir, jusqu'à la date de nomination dans le corps des géomètres de l'Institut géographique national, un grade doté de l'échelle 5.
 
-Cette ancienneté est retenue à raison de :
-
-Trois douzièmes, s'il s'agit d'un grade classé dans la catégorie D ;
-
-Huit douzièmes pour les douze premières années et sept douzièmes pour le surplus, s'il s'agit d'un grade classé dans la catégorie C.
-
-Pour les fonctionnaires classés dans le groupe supérieur en application de l'article 4 du décret du 27 janvier 1970 susvisé, il est tenu compte, dans les conditions et les limites déterminées ci-dessus, de leur ancienneté dans le groupe de classement de leur grade.
-
-Lorsque l'application des dispositions qui précèdent aboutit à classer les fonctionnaires intéressés à un échelon doté d'un indice inférieur à celui qu'ils détenaient dans leur grade précédent, les intéressés conservent à titre personnel le bénéfice de leur indice antérieur jusqu'au jour où ils bénéficient dans leur nouveau grade d'un indice au moins égal.
-
-Par. B - Les autres fonctionnaires de l'Etat sont classés à l'échelon du grade de technicien géomètre qui comporte un traitement égal ou, à défaut, immédiatement supérieur au traitement perçu en dernier lieu dans leur corps d'origine.
-
-Dans la limite de la durée moyenne exigée à l'article 19 ci-dessous pour une promotion à l'échelon supérieur, ils conservent l'ancienneté d'échelon qu'ils avaient acquise dans leur précédent grade lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle que leur aurait procurée un avancement d'échelon dans leur ancienne situation.
-
-Les candidats nommés alors qu'ils ont atteint l'échelon le plus élevé de leur précédent grade conservent leur ancienneté d'échelon dans les mêmes conditions et limites lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle que leur avait procurée leur nomination audit échelon.
-
-Les intéressés peuvent opter pour le régime institué par le paragraphe A ci-dessus en faveur des fonctionnaires de la catégorie C. Dans ce cas les durées moyennes du temps passées dans chaque échelon de leur précédent grade sont celles du statut particulier régissant ce grade.
-
-III - Les agents de l'Etat sont classés dans le grade de technicien géomètre à un échelon déterminé en prenant en compte les services accomplis dans un emploi du niveau de la catégorie B à raison des trois quarts de leur durée et ceux accomplis dans un emploi de niveau inférieur à raison de la moitié de leur durée. Ce reclassement ne doit en aucun cas aboutir à des situations plus favorables que celles qui résulteraient d'un reclassement à un échelon comportant un traitement égal ou, à défaut, immédiatement supérieur à celui perçu dans l'ancien emploi, avec conservation de l'ancienneté d'échelon dans les conditions définies au II (par. B) ci-dessus.
-
-IV - Les dispositions prévues aux II et III ci-dessus sont respectivement applicables aux fonctionnaires civils de l'Etat et aux agents civils de l'Etat accédant en vertu de la législation sur les emplois réservés aux corps mentionnés à l'article 1er.
-
-Les techniciens géomètres stagiaires visés aux II, III et IV peuvent opter pour un classement déterminé selon les règles définies auxdits paragraphes mais appliquées à leur situation ancienne à la date d'effet de leur admission en qualité de stagiaire. Dans cette hypothèse la période de stage compte pour l'avancement d'échelon. L'effet pécuniaire des reclassements ainsi opérés ne peut pas remonter à une date antérieure à la date d'effet de la titularisation.
-
-Pour l'application des dispositions du présent article, en cas de prolongation du stage, l'ancienneté acquise au cours de cette prolongation n'entre pas en compte pour l'appréciation de la situation dans le nouveau corps.
+II.-Lors du classement il est tenu compte de la durée moyenne fixée à l'article 18 du présent décret pour chaque avancement d'échelon dans le corps des géomètres de l'Institut géographique national.

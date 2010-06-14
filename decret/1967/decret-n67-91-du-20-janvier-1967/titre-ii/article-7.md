@@ -1,7 +1,5 @@
 # Article 7
 
-A l'issue des épreuves, il est établi des listes d'admission distinctes pour chacun des concours visés à l'article 5. Des listes complémentaires d'admission peuvent être établies en vue de pourvoir aux emplois qui resteraient vacants soit par suite de la renonciation de certains candidats au bénéfice de leur admission, soit par suite de leur élimination pour inaptitude physique. Le nombre des candidats susceptibles d'être inscrits sur ces listes ne peut être supérieur au dixième de celui des candidats figurant sur chacune des listes visées à l'alinéa précédent. Les listes complémentaires cessent d'être valables à l'expiration d un délai fixé pour chaque concours par le ministre de l'équipement sans qu'il puisse excéder trois mois à compter de la date de leur établissement.
+A l'issue des épreuves et pour chacun des concours mentionnés à l'article 5, le jury établit une liste d'admission principale et une liste complémentaire.
 
-Lorsque le nombre des candidats visés à l'article 5 (par. B) admis au concours est intérieur au nombre des emplois offerts à ce titre, les emplois non pourvus s'ajoutent à ceux offerts au titre de l'article 5 (par. A).
-
-Les listes d'admission sont arrêtées par le ministre de l'équipement.
+Lorsque les listes complémentaires d'admission sont utilisées pour pourvoir des emplois devenus vacants après l'ouverture des concours, les nominations de candidats inscrits sur les listes complémentaires sont prises en application du décret n° 2003-532 du 18 juin 2003 relatif à l'établissement et à l'utilisation des listes complémentaires d'admission aux concours d'accès aux corps de la fonction publique. Toutefois, les nominations en qualité de techniciens géomètres stagiaires de l'Institut géographique national recrutés au titre de l'article 5 ne peuvent être prononcées au-delà d'un délai d'un mois suivant le début de la scolarité à l'Ecole nationale des sciences géographiques.
