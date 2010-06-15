@@ -33,7 +33,7 @@ A N N E X E
 <p align="center">Clermont-Ferrand</p>
 </td>
 <td>
-<p align="center">Clermont-Ferrand ( à compter du 20 avril 2010)</p>
+<p align="center">Clermont-Ferrand </p>
 </td>
 </tr>
 <tr>
@@ -41,7 +41,7 @@ A N N E X E
 <p align="center">Direction nationale du renseignement et des enquêtes douanières</p>
 </td>
 <td>
-<p align="center">Direction nationale du renseignement et des enquêtes douanières (à compter du 18 mai 2010)</p>
+<p align="center">Direction nationale du renseignement et des enquêtes douanières </p>
 </td>
 </tr>
 <tr>
@@ -70,28 +70,18 @@ A N N E X E
 </tr>
 <tr>
 <td>
-<p align="center">Nantes</p>
-</td>
-<td>
-<p align="center">Nantes</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">Nice</p>
-</td>
-<td>
-<br/>
-<p align="center">Nice (supprimé à compter du 20 avril 2010)</p>
-<br/>
-</td>
-</tr>
-<tr>
-<td>
 <p align="center">Orléans</p>
 </td>
 <td>
 <p align="center">Orléans</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Marne-la-Vallée</p>
+</td>
+<td>
+<p align="center">Paris-Est (à compter du 17 décembre 2010)</p>
 </td>
 </tr>
 <tr>
@@ -100,15 +90,23 @@ A N N E X E
 </td>
 <td>
 <br/>
-<p align="center">Mulhouse (à compter du 2 avril 2010)</p>
+<p align="center">Mulhouse (supprimé à compter du 20 octobre 2010)</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="center">Roissy</p>
+<p align="center">Nice</p>
 </td>
 <td>
-<p align="center">Roissy-en-France (supprimé à compter du 18 mai 2010)</p>
+<p align="center">Nice </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Poitiers</p>
+</td>
+<td>
+<p align="center">Poitiers (à compter du 20 octobre 2010)</p>
 </td>
 </tr>
 <tr>
@@ -116,11 +114,11 @@ A N N E X E
 <p align="center">Strasbourg</p>
 </td>
 <td>
-<p align="center">Strasbourg</p>
+<p align="center">Strasbourg (supprimé à compter du 17 décembre 2010)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="11">
+<td rowspan="12">
 <p align="center">Emplois de 1re catégorie - groupe II</p>
 </td>
 <td>
@@ -128,6 +126,14 @@ A N N E X E
 </td>
 <td>
 <p align="center">Aix-en-Provence</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Annecy</p>
+</td>
+<td>
+<p align="center">Annecy (à compter du 23 septembre 2010)</p>
 </td>
 </tr>
 <tr>
@@ -172,6 +178,14 @@ A N N E X E
 </tr>
 <tr>
 <td>
+<p align="center">Nantes</p>
+</td>
+<td>
+<p align="center">Nantes</p>
+</td>
+</tr>
+<tr>
+<td>
 <p align="center">Saint-Germain-en-Laye</p>
 </td>
 <td>
@@ -188,18 +202,10 @@ A N N E X E
 </tr>
 <tr>
 <td>
-<p align="center">Rennes</p>
-</td>
-<td>
-<p align="center">Rennes</p>
-</td>
-</tr>
-<tr>
-<td>
 <p align="center">Rouen</p>
 </td>
 <td>
-<p align="center">Rouen</p>
+<p align="center">Rouen (supprimé à compter du 23 septembre 2010)</p>
 </td>
 </tr>
 <tr>
@@ -226,7 +232,7 @@ A N N E X E
 <p align="center">Annecy</p>
 </td>
 <td>
-<p align="center">Annecy</p>
+<p align="center">Annecy (supprimé à compter du 23 septembre 2010)</p>
 </td>
 </tr>
 <tr>
@@ -271,26 +277,10 @@ A N N E X E
 </tr>
 <tr>
 <td>
-<p align="center">Clermont-Ferrand</p>
-</td>
-<td>
-<p align="center">Clermont-Ferrand (supprimé à compter du 20 avril 2010)</p>
-</td>
-</tr>
-<tr>
-<td>
 <p align="center">Dijon</p>
 </td>
 <td>
 <p align="center">Dijon</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">Direction nationale du renseignement et des enquêtes douanières</p>
-</td>
-<td>
-<p align="center">Direction nationale du renseignement et des enquêtes douanières (supprimé à compter du 18 mai 2010)</p>
 </td>
 </tr>
 <tr>
@@ -338,7 +328,7 @@ A N N E X E
 <p align="center">Mulhouse</p>
 </td>
 <td>
-<p align="center">Mulhouse (supprimé à compter du 2 avril 2010)</p>
+<p align="center">Mulhouse (à compter du 20 octobre 2010)</p>
 </td>
 </tr>
 <tr>
@@ -347,14 +337,6 @@ A N N E X E
 </td>
 <td>
 <p align="center">Nancy</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">Nice</p>
-</td>
-<td>
-<p align="center">Nice (supprimé à compter du 20 avril 2010)</p>
 </td>
 </tr>
 <tr>
@@ -378,7 +360,7 @@ A N N E X E
 <p align="center">Marne-la-Vallée</p>
 </td>
 <td>
-<p align="center">Paris-est </p>
+<p align="center">Paris-est (supprimé à compter du 17 décembre 2010)</p>
 </td>
 </tr>
 <tr>
@@ -386,7 +368,7 @@ A N N E X E
 <p align="center">Poitiers</p>
 </td>
 <td>
-<p align="center">Poitiers</p>
+<p align="center">Poitiers (supprimé à compter du 20 octobre 2010)</p>
 </td>
 </tr>
 <tr>
@@ -395,6 +377,14 @@ A N N E X E
 </td>
 <td>
 <p align="center">Reims</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Rennes</p>
+</td>
+<td>
+<p align="center">Rennes </p>
 </td>
 </tr>
 <tr>
@@ -402,7 +392,15 @@ A N N E X E
 <p align="center">Roissy</p>
 </td>
 <td>
-<p align="center">Roissy-en-France (à compter du 18 mai 2010)</p>
+<p align="center">Roissy-en-France </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Rouen</p>
+</td>
+<td>
+<p align="center">Rouen (à compter du 23 septembre 2010)</p>
 </td>
 </tr>
 <tr>
@@ -411,6 +409,14 @@ A N N E X E
 </td>
 <td>
 <p align="center">Saint-Denis</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Strasbourg</p>
+</td>
+<td>
+<p align="center">Strasbourg (à compter du 17 décembre 2010)</p>
 </td>
 </tr>
 <tr>
