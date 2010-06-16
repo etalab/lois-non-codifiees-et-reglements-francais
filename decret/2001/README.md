@@ -502,7 +502,6 @@
 - [Décret n°2001-687 du 30 juillet 2001 (RECR0100091D)](decret-n2001-687-du-30-juillet-2001-recr0100091d)
 - [Décret n°2001-695 du 30 juillet 2001 (ECOP0100397D)](decret-n2001-695-du-30-juillet-2001-ecop0100397d)
 - [Décret n°2001-696 du 30 juillet 2001 (ECOP0100396D)](decret-n2001-696-du-30-juillet-2001-ecop0100396d)
-- [Décret n°2001-700 du 30 juillet 2001 (MCCB0100243D)](decret-n2001-700-du-30-juillet-2001-mccb0100243d)
 - [Décret n°2001-701 du 30 juillet 2001 (MCCB0100244D)](decret-n2001-701-du-30-juillet-2001-mccb0100244d)
 - [Décret n°2001-775 du 30 août 2001 (JUSF0150056D)](decret-n2001-775-du-30-aout-2001-jusf0150056d)
 - [Décret n°2001-787 du 30 août 2001 (ECOB0160020D)](decret-n2001-787-du-30-aout-2001-ecob0160020d)
