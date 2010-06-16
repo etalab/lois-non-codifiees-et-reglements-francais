@@ -12,6 +12,8 @@ Sont appelés à siéger en qualité de membres représentant l'administration :
 
 - le chef de l'inspection générale des affaires culturelles ou son représentant ;
 
+- le chef du service des ressources humaines ou son représentant ;
+
 - le directeur régional des affaires culturelles d'Ile-de-France ou son représentant ;
 
 - le directeur régional des affaires culturelles de Nord - Pas-de-Calais ou son représentant ;
