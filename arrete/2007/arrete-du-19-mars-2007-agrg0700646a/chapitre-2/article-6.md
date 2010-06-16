@@ -1,5 +1,3 @@
 # Article 6
 
-Le dossier technique mentionné à l'article 2 du décret n° 2007-359 susvisé est adressé en vingt-cinq exemplaires papier et en format électronique.
-
-La synthèse du dossier mentionnée à l'alinéa h du même article est adressée en un exemplaire papier et en format électronique.
+La demande d'autorisation, mentionnée à l'article R. 533-26 du code de l'environnement, est adressée au ministère chargé de l'agriculture sous format papier et sous format électronique. Des exemplaires supplémentaires des documents peuvent être demandés par le ministère au cours de la procédure.

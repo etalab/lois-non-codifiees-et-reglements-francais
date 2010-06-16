@@ -5,16 +5,14 @@
 <table>
 <tbody>
 <tr>
-<th>NOM<br/>
+<th rowspan="2">NOM<br/>
 </th>
-<th>TYPE<br/>
+<th rowspan="2">TYPE<br/>
 </th>
 <th colspan="4">LIEUX D'INSPECTION<br/>désignés par catégorie<br/>
 </th>
 </tr>
 <tr>
-<th/>
-<th/>
 <th>Végétaux, produits végétaux<br/>et autres objets<br/>(y compris bois<br/>sous toutes ses formes<br/>et fruits et légumes)<br/>
 </th>
 <th>Bois sous toutes<br/>ses formes exclusivement<br/>
@@ -135,20 +133,6 @@
 </tr>
 <tr>
 <td align="center">Fos - Port-Saint-Louis<br/>
-</td>
-<td align="center">Port<br/>
-</td>
-<td align="center">Tous<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Kourou<br/>
 </td>
 <td align="center">Port<br/>
 </td>

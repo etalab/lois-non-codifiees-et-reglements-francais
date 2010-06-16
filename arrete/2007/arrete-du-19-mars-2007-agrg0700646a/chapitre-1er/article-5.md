@@ -1,3 +1,3 @@
 # Article 5
 
-Le rapport de présentation des résultats de la dissémination prévu à l'article 17 du décret n° 2007-358 du 19 mars 2007 susvisé, est conforme à la décision de la Commission n° 2003/701/CE du 29 septembre 2003, il est adressé en vingt-cinq exemplaires sous forme papier et en format électronique au ministère chargé de l'agriculture.
+Le rapport de présentation des résultats de la dissémination prévu à l'article R. 533-17 du code de l'environnement est conforme au modèle fixé par la décision de la Commission n° 2003 / 701 / CE du 29 septembre 2003. Il est adressé sous format papier et sous format électronique au ministère chargé de l'agriculture.

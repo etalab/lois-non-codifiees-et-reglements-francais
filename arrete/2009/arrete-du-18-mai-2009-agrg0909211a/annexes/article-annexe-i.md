@@ -65,22 +65,6 @@
 </td>
 </tr>
 <tr>
-<td align="center">Boulogne <br/>
-</td>
-<td align="center">FR BOL 1 <br/>
-</td>
-<td align="center">Port <br/>
-</td>
-<td align="center">
-<br/>
-</td>
-<td align="center">HC-T (1) (3), HC-NT (1) (3) <br/>
-</td>
-<td align="center">
-<br/>
-</td>
-</tr>
-<tr>
 <td align="center">Brest <br/>
 </td>
 <td align="center">FR BES 1 <br/>
@@ -518,10 +502,10 @@
 </tr>
 <tr>
 <td colspan="6">
-<p>HC = Tous produits de consommation humaine. <br/>NHC = Autres produits. <br/>NT = Sans conditions de température.<br/>T = Produits congelés / réfrigérés.<br/>T (FR) = Produits congelés.<br/>T (CH) = Produits réfrigérés.<br/>U = Ongulés : les bovins, porcins, ovins, caprins et solipèdes domestiques ou sauvages.<br/>E = Equidés enregistrés au sens de la directive 90/426/CEE.<br/>O = Autres animaux (y compris animaux de zoo). <br/>
-<br/>(1) Contrôles dans les conditions de la décision 93/352/CEE de la Commission prise en application de l'article 19, paragraphe 3, de la directive 97/78/CE du Conseil. <br/>(2) Produits emballés uniquement. <br/>(3) Produits de la pêche uniquement. <br/>(4) Uniquement protéines animales. <br/>(6) Graisses, huiles et huiles de poisson liquides uniquement. <br/>(15) Cette autorisation est valable jusqu'au 31 juillet 2011. <br/>
-<br/>(a) Uniquement primates et animaux non dangereux (au sens de l'arrêté du 10 août 2004 [*]), et présentés en conteneurs fermés, des espèces appartenant aux invertébrés, reptiles, amphibiens et animaux aquatiques d'ornement. <br/>(b) Cette autorisation est valable jusqu'au 31 décembre 2010. <br/>(c) Uniquement les espèces appartenant aux invertébrés, animaux aquatiques d'ornement, reptiles, amphibiens, oiseaux, rongeurs, lagomorphes et carnivores domestiques.<br/>
-<br/>(*) Arrêté du 10 août 2004 modifié fixant les conditions d'autorisation de détention d'animaux de certaines espèces non domestiques dans les établissements d'élevage, de vente, de location, de transit ou de présentation au public d'animaux d'espèces non domestiques.<br/>
+<p>HC = Tous produits de consommation humaine. <br/>NHC = Autres produits. <br/>NT = Sans conditions de température.<br/>T = Produits congelés / réfrigérés.<br/>T (FR) = Produits congelés.<br/>T (CH) = Produits réfrigérés.<br/>U = Ongulés : les bovins, porcins, ovins, caprins et solipèdes domestiques ou sauvages.<br/>E = Equidés enregistrés au sens de la directive 90/426/CEE.<br/>O = Autres animaux (y compris animaux de zoo). </p>
+<p>(1) Contrôles dans les conditions de la décision 93/352/CEE de la Commission prise en application de l'article 19, paragraphe 3, de la directive 97/78/CE du Conseil. <br/>(2) Produits emballés uniquement. <br/>(3) Produits de la pêche uniquement. <br/>(4) Uniquement protéines animales. <br/>(6) Graisses, huiles et huiles de poisson liquides uniquement. <br/>(15) Cette autorisation est valable jusqu'au 31 juillet 2011. </p>
+<p>(a) Uniquement primates et animaux non dangereux (au sens de l'arrêté du 10 août 2004 [*]), et présentés en conteneurs fermés, des espèces appartenant aux invertébrés, reptiles, amphibiens et animaux aquatiques d'ornement. <br/>(b) Cette autorisation est valable jusqu'au 31 décembre 2010. <br/>(c) Uniquement les espèces appartenant aux invertébrés, animaux aquatiques d'ornement, reptiles, amphibiens, oiseaux, rongeurs, lagomorphes et carnivores domestiques.</p>
+<p>(*) Arrêté du 10 août 2004 modifié fixant les conditions d'autorisation de détention d'animaux de certaines espèces non domestiques dans les établissements d'élevage, de vente, de location, de transit ou de présentation au public d'animaux d'espèces non domestiques.<br/>
 </p>
 </td>
 </tr>
