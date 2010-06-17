@@ -6,4 +6,4 @@ Cette formation vise à favoriser l'appréhension du secteur sanitaire et social
 
 Elle garantit la maîtrise d'outils et de méthodes communs à tout fonctionnaire de l'Etat et spécifiques aux ingénieurs du génie sanitaire.
 
-Elle comporte des périodes d'enseignement à l'Ecole nationale de la santé publique et, en tant que de besoin, dans d'autres instituts de formation en étroite collaboration avec l'école.
+Elle comporte des périodes d'enseignement à l'Ecole des hautes études en santé publique et, en tant que de besoin, dans d'autres instituts de formation en étroite collaboration avec l'école.

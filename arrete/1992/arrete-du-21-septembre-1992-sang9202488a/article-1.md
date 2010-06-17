@@ -8,4 +8,4 @@ Les ingénieurs du génie sanitaire recrutés dans les conditions prévues par l
 
 3. Au choix sur liste d'aptitude,
 
-suivent une formation organisée par l'Ecole nationale de la santé publique.
+suivent une formation organisée par l'Ecole des hautes études en santé publique.

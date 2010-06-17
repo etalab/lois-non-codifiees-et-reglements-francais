@@ -1,6 +1,6 @@
 # Article 7
 
-La formation fait l'objet d'un dispositif de validation, organisé par l'Ecole nationale de la santé publique, comprenant :
+La formation fait l'objet d'un dispositif de validation, organisé par l'Ecole des hautes études en santé publique, comprenant :
 
 1. La note globale de contrôle continu des acquis prévu à l'article 6 (coefficient 3) ;
 

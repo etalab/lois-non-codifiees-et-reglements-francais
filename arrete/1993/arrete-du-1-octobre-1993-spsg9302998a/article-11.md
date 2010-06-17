@@ -1,6 +1,6 @@
 # Article 11
 
-Les pharmaciens inspecteurs de santé publique suivent une formation d'adaptation à l'emploi, d'une durée minimale de deux semaines, sous la responsabilité de l'Ecole nationale de la santé publique :
+Les pharmaciens inspecteurs de santé publique suivent une formation d'adaptation à l'emploi, d'une durée minimale de deux semaines, sous la responsabilité de l'Ecole des hautes études en santé publique :
 
 au cours des deux premiers mois qui suivent leur prise de fonctions pour les pharmaciens inspecteurs de santé publique ayant effectué la formation prévue à l'article 1er ci-dessus ;
 
