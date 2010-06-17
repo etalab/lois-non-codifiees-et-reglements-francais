@@ -12,7 +12,7 @@ Les enjeux réglés par carte bancaire ne sont pas remboursables en espèces.
 
 Tout pari dont le montant est supérieur à un seuil porté à la connaissance des parieurs ne peut être engagé qu'en compte courant, selon les dispositions des articles 100 à 107 et 109 à 111, aux guichets des hippodromes connectés au système central du Pari mutuel urbain fonctionnant en temps réel ou dans les établissements du Pari mutuel urbain.
 
-Les paris enregistrés au Pari mutuel urbain par téléphone, par Minitel, par terminal numérique et par terminal mobile ainsi que par l'internet ne donnent pas lieu à la remise d'un récépissé.
+Les paris enregistrés en compte ouvert auprès du Pari mutuel urbain ne donnent pas lieu à la remise d'un récépissé.
 
 En règle générale, tout bordereau spécial incorrectement établi ou qui donne lieu à une ambiguïté d'interprétation sur l'une quelconque des informations qui le composent est exécuté d'une manière telle que le parieur ne puisse tirer avantage de son erreur au détriment de l'ensemble des autres parieurs.
 

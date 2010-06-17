@@ -20,7 +20,7 @@ c) Les paris enregistrés sur un hippodrome connecté au système central du par
 
 2. Paris enregistrés au Pari mutuel urbain :
 
-a) Les paris enregistrés par téléphone ou par Minitel, par terminal numérique et par terminal mobile ainsi que par internet sont automatiquement crédités au compte du parieur.
+a) Les paris enregistrés en compte ouvert auprès du Pari mutuel urbain sont automatiquement crédités au compte du parieur.
 
 b) Les paris enregistrés dans les établissements et les postes d'enregistrement du pari mutuel urbain sont payés pendant soixante jours à compter de leur mise en paiement dans chaque établissement visé ci-avant, dans la limite des heures prévues pour l'enregistrement des paris et aux guichets de paiement des hippodromes connectés au système central du pari mutuel urbain fonctionnant en temps réel.
 
