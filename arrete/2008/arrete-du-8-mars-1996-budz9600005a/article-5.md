@@ -14,4 +14,6 @@ En outre, les données à caractère personnel relatives à la taxe d'habitation
 
 -à l'INSEE et aux services statistiques ministériels mentionnés à l'article 7 bis de la loi n° 51-711 du 7 juin 1957 modifiée susvisée.
 
+Un fichier des personnes exemptées ou dégrevées de redevance audiovisuelle au titre des années d'imposition 2008, 2009 et 2010 est communiqué au groupement d'intérêt public France Télé Numérique, en application de l'article L. 166 B du livre des procédures fiscales.
+
 En outre, les communes peuvent communiquer à la direction générale des finances publiques les informations nécessaires au recensement des bases d'imposition de la taxe d'habitation, en application de l'article L. 135 B, cinquième alinéa.
