@@ -22,4 +22,5 @@
 - [LOI n° 2010-606 du 7 juin 2010 (BCRX1012897L)](loi-n-2010-606-du-7-juin-2010-bcrx1012897l)
 - [LOI n° 2010-625 du 9 juin 2010 (MTSX1001402L)](loi-n-2010-625-du-9-juin-2010-mtsx1001402l)
 - [LOI n° 2010-626 du 9 juin 2010 (SASX0814100L)](loi-n-2010-626-du-9-juin-2010-sasx0814100l)
+- [LOI n° 2010-658 du 15 juin 2010 (ECEX0930951L)](loi-n-2010-658-du-15-juin-2010-ecex0930951l)
 - [LOI n° 2010-97 du 27 janvier 2010 (MCCX0929140L)](loi-n-2010-97-du-27-janvier-2010-mccx0929140l)
