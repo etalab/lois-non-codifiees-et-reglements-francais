@@ -4,4 +4,4 @@ Les ingénieurs d'études sanitaires recrutés dans les conditions prévues par 
 
 1. Par concours direct ;
 
-2. Par examen professionnel sur épreuves, suivent une formation organisée par l'Ecole nationale de la santé publique.
+2. Par examen professionnel sur épreuves, suivent une formation organisée par l'Ecole des hautes études en santé publique.

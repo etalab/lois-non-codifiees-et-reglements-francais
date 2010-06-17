@@ -4,4 +4,4 @@ Les ingénieurs d'études sanitaires suivent une formation d'adaptation à leur 
 
 dans l'année qui suit la titularisation.
 
-Cette formation est organisée sous le contrôle de l'Ecole nationale de la santé publique.
+Cette formation est organisée sous le contrôle de l'Ecole des hautes études en santé publique.
