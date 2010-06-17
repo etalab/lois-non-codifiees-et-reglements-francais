@@ -6,6 +6,8 @@ Ce décret fixe les conditions de qualification auxquelles est subordonné le ma
 
 Il définit également les conditions de tenue du répertoire des métiers par les chambres de métiers et la nature des informations que leur président peut adresser au préfet lorsqu'il estime, lors de l'immatriculation ou en toute autre occasion, que l'activité déclarée est exercée en méconnaissance des dispositions des I et II de l'article 16.
 
+I bis. - L'assemblée permanente des chambres de métiers et de l'artisanat centralise, dans un répertoire national des métiers dont elle assure la publicité, le répertoire des métiers tenu par les chambres de métiers et de l'artisanat. Les conditions d'application du présent I bis sont définies par décret en Conseil d'Etat.
+
 II.-L'immatriculation au répertoire des métiers ne dispense pas, le cas échéant, de l'immatriculation au registre du commerce et des sociétés.
 
 III.-Ne peut être immatriculée au répertoire des métiers ou au registre des entreprises visé au IV ci-après et doit en être radiée d'office toute personne faisant l'objet de l'interdiction prévue à l'article L. 625-8 du code de commerce ou de la peine complémentaire d'interdiction d'exercer une activité professionnelle ou sociale pour crime ou délit prévue au 11° de l'article 131-6 du code pénal.
