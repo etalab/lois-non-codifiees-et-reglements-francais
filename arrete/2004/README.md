@@ -806,7 +806,6 @@
 - [Arrêté du 28 mai 2004 (SANS0421434A)](arrete-du-28-mai-2004-sans0421434a)
 - [Arrêté du 29 avril 2004 (AGRA0400024A)](arrete-du-29-avril-2004-agra0400024a)
 - [Arrêté du 29 décembre 2003 (BUDL0300166A)](arrete-du-29-decembre-2003-budl0300166a)
-- [Arrêté du 29 décembre 2003 (DEFP0302483A)](arrete-du-29-decembre-2003-defp0302483a)
 - [Arrêté du 29 décembre 2003 (INTB0300775A)](arrete-du-29-decembre-2003-intb0300775a)
 - [Arrêté du 29 décembre 2003 (PRMX0307051A)](arrete-du-29-decembre-2003-prmx0307051a)
 - [Arrêté du 29 décembre 2003 (PRMX0307052A)](arrete-du-29-decembre-2003-prmx0307052a)

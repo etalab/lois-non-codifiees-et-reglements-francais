@@ -15,3 +15,5 @@ Les catégories d'informations traitées concernent :
 - la santé (y compris l'état de santé et l'existence de maladie ou affection chronique), l'accès aux soins de santé ;
 
 - la vie associative, les relations professionnelles et la participation sociale, les sports et les loisirs, la mobilité sociale et les relations avec les proches.
+
+- les attitudes, sentiments et qualité de vie .
