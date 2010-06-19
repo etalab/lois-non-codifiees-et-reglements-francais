@@ -6,7 +6,7 @@ Le réseau d'appui aux personnes et aux structures comprend :
 
 2. Les missions d'appui aux personnes et aux structures interrégionales.
 
-3. La mission d'appui aux personnes et aux structures en administration centrale.
+3. La mission d'appui aux personnes et aux structures pour les administrations centrales et l'international.
 
 Ces missions sont composées d'ingénieurs généraux et d'inspecteurs généraux.
 

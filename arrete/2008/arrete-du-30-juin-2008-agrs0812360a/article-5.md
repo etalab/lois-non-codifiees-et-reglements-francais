@@ -1,5 +1,7 @@
 # Article 5
 
+Le chef du service de la statistique et de la prospective est assisté dans l'exercice de ses fonctions par un adjoint.
+
 Le service de la statistique et de la prospective comprend :
 
 1. La sous-direction de la prospective et de l'évaluation.

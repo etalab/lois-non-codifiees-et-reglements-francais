@@ -1,5 +1,7 @@
 # Article 3
 
+Le directeur des affaires financières, sociales et logistiques est assisté dans l'exercice de ses fonctions par un adjoint.
+
 Le service des affaires financières, sociales et logistiques comprend :
 
 1. La sous-direction des affaires budgétaires et comptables.
@@ -9,6 +11,8 @@ Le service des affaires financières, sociales et logistiques comprend :
 3. La sous-direction du travail et de la protection sociale.
 
 4. La mission du projet CHORUS.
+
+5. La mission d'audit d'évaluation et de contrôle des organismes de protection sociale agricole créée par l'arrêté du 8 décembre 2009 susvisé.
 
 I. - La sous-direction des affaires budgétaires et comptables est responsable de la préparation, de la programmation et de l'exécution du budget. Elle assure la mise à disposition des crédits dans les budgets opérationnels de programme et les rattachements budgétaires, y compris ceux d'origine communautaire. Elle détermine les règles budgétaires et comptables applicables aux opérateurs, vérifie et approuve leurs comptes et gère les subventions pour charges de service public, sauf celles destinées aux établissements d'enseignement ou de recherche.
 

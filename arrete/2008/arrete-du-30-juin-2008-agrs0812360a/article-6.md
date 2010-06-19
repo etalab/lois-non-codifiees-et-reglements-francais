@@ -1,5 +1,7 @@
 # Article 6
 
+Le chef du service des ressources humaines est assisté dans l'exercice de ses fonctions par un adjoint.
+
 Le service des ressources humaines comprend :
 
 1. La sous-direction mobilité, emplois, carrières.
@@ -20,17 +22,19 @@ Elle assure la mise en œuvre de la politique indemnitaire et contribue à sa co
 
 Elle coordonne la politique de mobilité.
 
-Elle participe à l'analyse des compétences et des métiers, et contribue à la gestion prévisionnelle des emplois et des compétences.
+Elle participe à l'analyse des compétences et des métiers, et contribue à la gestion prévisionnelle des emplois et compétences.
 
 La sous-direction mobilité, emplois, carrières comprend :
 
-― le bureau de la filière administrative ;
+- le bureau de gestion des personnels de catégorie A et des agents contractuels ;
 
-― le bureau de la filière technique et de l'emploi contractuel ;
+- le bureau de gestion des personnels de catégorie B et C ;
 
-― le bureau de l'enseignement agricole ;
+- le bureau de gestion des personnels enseignants et des personnels de la filière formation-recherche ;
 
-― le bureau de la coordination de la paie et des régimes indemnitaires.
+- le bureau de la coordination de la paye et des régimes indemnitaires ;
+
+- le centre interministériel de gestion des ingénieurs des ponts, des eaux et des forêts, service à compétence nationale dont les missions sont définies à l'arrêté du 2 juin 2010 susvisé.
 
 II. - La sous-direction du développement professionnel et des relations sociales anime le dialogue social et les relations collectives du travail.
 
