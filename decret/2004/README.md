@@ -247,7 +247,6 @@
 - [Décret n°2004-1361 du 10 décembre 2004 (SANS0424091D)](decret-n2004-1361-du-10-decembre-2004-sans0424091d)
 - [Décret n°2004-138 du 10 février 2004 (DEFP0400010D)](decret-n2004-138-du-10-fevrier-2004-defp0400010d)
 - [Décret n°2004-152 du 10 février 2004 (DOMB0300027D)](decret-n2004-152-du-10-fevrier-2004-domb0300027d)
-- [Décret n°2004-212 du 10 mars 2004 (ECOE0300018D)](decret-n2004-212-du-10-mars-2004-ecoe0300018d)
 - [Décret n°2004-517 du 10 juin 2004 (INTB0400156D)](decret-n2004-517-du-10-juin-2004-intb0400156d)
 - [Décret n°2004-518 du 10 juin 2004 (JUSC0420034D)](decret-n2004-518-du-10-juin-2004-jusc0420034d)
 - [Décret n°2004-523 du 10 juin 2004 (ECOF0420101D)](decret-n2004-523-du-10-juin-2004-ecof0420101d)
