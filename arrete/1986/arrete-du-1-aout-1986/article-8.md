@@ -30,6 +30,4 @@ Haute-Savoie, Vosges.
 
 - l'emploi des chiens, sauf dans les départements suivants : Aveyron, Dordogne, Gard, Hérault, Savoie, Somme, Vosges.
 
-III. - La chasse du lapin peut être pratiquée à l'aide du furet. Toutefois son emploi est soumis à une autorisation individuelle délivrée par le préfet dans les départements suivants :
-
-Alpes-de-Haute-Provence, Hautes-Alpes, Alpes-Maritimes, Ariège, Ardèche, Aude, Aveyron, Bouches-du-Rhône, Cantal, Charente, Corrèze, Corse-du-Sud, Haute-Corse, Côtes-du-Nord, Creuse, Dordogne, , Gard, Haute-Garonne, Gers, Gironde, Hérault, Landes, Haute-Loire, Lot, Lot-et-Garonne, Lozère, Morbihan, Puy-de-Dôme, Pyrénées-Atlantiques, Hautes-Pyrénées, Pyrénées-Orientales, Haute-Savoie, Tarn-et-Garonne, Var, Vaucluse, Haute-Vienne.
+III. - La chasse du lapin peut être pratiquée à l'aide du furet dans les conditions définies par le préfet.
