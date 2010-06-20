@@ -952,6 +952,8 @@ Tout aéronef français peut être piloté à titre privé par un pilote, titula
 
 Le ministre chargé de l'aviation civile peut accepter l'exercice en France, et dans la limite des privilèges attachés à la licence française de pilote privé, de privilèges associés à un titre délivré ou validé par un Etat étranger, ou de privilèges particuliers étrangers non reconnus en France, si ce titre ou ces privilèges sanctionnent un niveau de compétence suffisant pour l'obtention du titre ou des privilèges français équivalents.
 
+Pour l'application du présent paragraphe, le titulaire d'une licence nationale de pilote privé (N-PPL) délivrée par l'Autorité de l'aviation civile du Royaume-Uni de Grande-Bretagne, à laquelle est associée une déclaration de conformité au niveau correspondant de l'annexe I de la convention relative à l'aviation civile internationale délivrée par cette autorité ou en son nom par un examinateur habilité par elle, est autorisé à effectuer en France des vols à bord d'avions immatriculés au registre du Royaume-Uni de Grande-Bretagne, à titre privé, en VFR et dans la limite des privilèges détenus au titre de cette licence nationale.
+
 4.3.4.4.
 
 Le ministre chargé de l'aviation civile peut suspendre l'application des paragraphes 4.3.4.1., 4.3.4.2. et 4.3.4.3. à un pilote ayant commis une infraction.
