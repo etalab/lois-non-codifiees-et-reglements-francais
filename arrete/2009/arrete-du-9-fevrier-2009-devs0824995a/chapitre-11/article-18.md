@@ -1,10 +1,10 @@
 # Article 18
 
-I. - La fiche d'identification du véhicule recense l'ensemble des caractéristiques techniques du véhicule. Elle est délivrée par le préfet d'un département lorsque le véhicule est démuni de certificat d'immatriculation, dans les conditions mentionnées aux II et III du présent article. Ce document ne constitue pas un titre de circulation.
+I. - La fiche d'identification du véhicule recense l'ensemble des caractéristiques techniques du véhicule. Elle est délivrée par le préfet d'un département lorsque le véhicule est démuni de certificat d'immatriculation, dans les conditions mentionnées au II du présent article. Ce document ne constitue pas un titre de circulation.
 
 II. - La fiche d'identification du véhicule est délivrée dans les cas suivants :
 
-a) Pour l'exportation des véhicules d'occasion endommagés dont le certificat d'immatriculation a été retiré par les forces de l'ordre ou remis en préfecture, sous réserve de la présentation des pièces suivantes :
+a) Pour l'exportation des véhicules d'occasion endommagés dont le certificat d'immatriculation a été retiré par les forces de l'ordre ou remis en préfecture, sous réserve de  la présentation des pièces suivantes :
 
 - un justificatif indiquant le motif pour lequel le certificat d'immatriculation ne peut être fourni (avis de retrait par les forces de l'ordre ou avis de remise du titre en préfecture) ;
 
@@ -22,6 +22,6 @@ b) Pour les véhicules démunis de certificat d'immatriculation et qui doivent �
 
 c) Pour les véhicules démunis de certificat d'immatriculation et vendus aux enchères sous réserve de la présentation des pièces suivantes :
 
-- la demande du mandataire judiciaire procédant à la vente ;
+- la demande du mandataire judiciaire ou du commissaire-priseur procédant à la vente ;
 
 - la déclaration de perte ou de vol du certificat d'immatriculation ou toute autre pièce permettant de justifier l'absence du certificat d'immatriculation.

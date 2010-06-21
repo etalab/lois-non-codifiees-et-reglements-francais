@@ -14,6 +14,8 @@ a) Les pièces justificatives de son identité et de sa nouvelle adresse ;
 
 b) Le certificat d'immatriculation.
 
+Dans la situation mentionnée au 12.G de l'article 12, un certificat 846 A devra également être présenté à la préfecture. Le certificat 846 A n'est pas requis dans le cas d'un déménagement au sein du marché unique antillais.
+
 Après instruction du dossier, un accusé d'enregistrement est remis au titulaire du certificat d'immatriculation.
 
 Il reçoit à son adresse une étiquette autocollante comportant sa nouvelle adresse qu'il doit apposer sur le certificat d'immatriculation à l'emplacement prévu à cet effet.
@@ -22,7 +24,7 @@ En cas de quatrième déclaration de changement d'adresse, il remet le certifica
 
 II. - Démarches par voie électronique.
 
-Le titulaire du certificat d'immatriculation peut effectuer sa déclaration de changement d'adresse par voie électronique en se connectant sur le site internet :  http://www.changement-adresse.gouv.fr. Il obtient un accusé d'enregistrement.
+Le titulaire du certificat d'immatriculation peut effectuer sa déclaration de changement d'adresse par voie électronique en se connectant sur le site internet :  http://www.changement-adresse.gouv.fr/. Il obtient un accusé d'enregistrement.
 
 Il conserve les pièces justificatives d'adresse déclarées à la date de la demande.
 
@@ -78,7 +80,7 @@ c) Soit un procès-verbal de RTI, soit :
 
 - en cas de transformation en série d'un type de véhicules sous la responsabilité du constructeur : un certificat de conformité accompagné de son procès-verbal d'agrément de prototype.
 
-d) En cas de modification de la carrosserie et si la carrosserie a été modifiée dans un pays tiers à l'Union européenne : un certificat 846A.
+d) En cas de modification de la carrosserie et si la carrosserie a été modifiée dans un pays tiers à l'Union européenne : un certificat 846A délivré par le service des douanes.
 
 La demande d'immatriculation d'un véhicule de transport en commun de personnes sous différentes dénominations de genre est refusée.
 
@@ -92,4 +94,6 @@ a) Les justificatifs d'identité et d'adresse ;
 
 b) Le certificat d'immatriculation ;
 
-c) Un document justificatif de l'usage.
+c) Un document justificatif de l'usage ;
+
+d) Si le changement de la mention d'usage a pour conséquence la fin d'une exonération, d'une exemption ou d'une suspension de paiement des droits et taxes, un document 846 A délivré par le service des douanes.

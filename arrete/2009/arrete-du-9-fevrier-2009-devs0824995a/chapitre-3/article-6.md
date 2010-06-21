@@ -18,7 +18,7 @@ Le certificat d'immatriculation est adressé au siège de la mission diplomatiqu
 
 II. - Fin de l'immatriculation diplomatique
 
-a) En cas de vente de son véhicule, le titulaire du certificat d'immatriculation doit préalablement régulariser la situation de celui-ci auprès du ministre chargé de l'économie et des finances avant la remise du titre à l'acquéreur. Il cède son véhicule dans les conditions visées à l'article 10 du présent arrêté et remet à l'acquéreur le certificat 846A.
+a) En cas de vente de son véhicule, le titulaire du certificat d'immatriculation doit préalablement régulariser la situation de celui-ci auprès du ministre chargé de l'économie et des finances avant la remise du titre à l'acquéreur. Il cède son véhicule dans les conditions visées à l'article 10 du présent arrêté et remet à l'acquéreur le certificat 846A délivré par le service des douanes.
 
 b) En cas de perte du statut diplomatique, le titulaire du certificat d'immatriculation demande un nouveau certificat d'immatriculation comportant uniquement le numéro d'immatriculation définitif assigné au véhicule et présente les pièces suivantes :
 
@@ -32,4 +32,4 @@ b) En cas de perte du statut diplomatique, le titulaire du certificat d'immatric
 
 - un procès-verbal de RTI si le véhicule n'est pas conforme à un type ayant fait l'objet d'une réception nationale ou d'une réception communautaire ;
 
-- un certificat 846A.
+- un certificat 846A délivré par le service des douanes.

@@ -2,27 +2,27 @@
 
 Les mentions relatives à l'usage du véhicule.
 
-Toute demande d'immatriculation d'un véhicule associée à un usage particulier est effectuée, sur présentation des documents justificatifs de l'usage en sus des pièces visées à l'article 1er du présent arrêté, auprès du préfet d'un département de son choix, à l'exception des immatriculations avec un usage véhicule en transit temporaire et véhicule de démonstration qui peuvent également être effectuées par l'intermédiaire d'un professionnel de l'automobile habilité par le ministre de l'intérieur.
+Toute demande d'immatriculation d'un véhicule associée à un usage particulier est effectuée, sur présentation des documents justificatifs de l'usage, auprès du préfet d'un département de son choix, à l'exception des immatriculations avec un usage véhicule en transit temporaire et véhicule de démonstration qui peuvent également être effectuées par l'intermédiaire d'un professionnel de l'automobile habilité par le ministre de l'intérieur.
 
 Dans ce cas, le certificat d'immatriculation comporte des mentions relatives à l'usage du véhicule qui sont :
 
-― véhicule administration civile de l'Etat - code TGPE ;
+― "véhicule administration civile de l'Etat - code TGPE" ;
 
-― véhicule militaire - numéro militaire ;
+― "véhicule militaire - numéro militaire" ;
 
-― véhicule agricole - numéro d'exploitation ;
+― "véhicule agricole - numéro d'exploitation" ;
 
-― véhicule de démonstration - date de fin de validité de l'usage ;
+― "véhicule de démonstration - date de fin de validité de l'usage" ;
 
-― véhicule de collection ;
+― "véhicule de collection" ;
 
-― véhicule en transit temporaire - date de fin de validité de l'usage ;
+― "véhicule en transit temporaire - date de fin de validité de l'usage" ;
 
-― véhicule importé en transit - date de fin de validité de l'usage ;
+― "véhicule importé en transit - date de fin de validité de l'usage" ;
 
-― véhicule pays de Gex ;
+― "véhicule zone franche du pays de Gex" ;
 
-― véhicule pays de Savoie .
+― "véhicule zone franche de Haute-Savoie".
 
 La fin de l'usage emporte le retrait de la mention inscrite sur le certificat d'immatriculation et donne lieu à la délivrance d'un certificat d'immatriculation exempt de cette mention d'usage dans les conditions prévues à l'article 1er du présent arrêté.
 
@@ -76,7 +76,7 @@ VI. - Les conditions de circulation des véhicules immatriculés avec la mention
 
 I. - Il peut être délivré pour les véhicules de plus de trente ans d'âge, à moteur ou remorqués, et qui ne peuvent satisfaire aux dispositions de l'article R. 321-15 du code de la route, un certificat d'immatriculation avec la mention véhicule de collection .
 
-II. - Lors de la demande d'immatriculation du véhicule, le propriétaire présente, outre les pièces justificatives de son identité et de son adresse, les pièces suivantes :
+II. - Lors de la demande d'immatriculation du véhicule, le propriétaire présente, outre les pièces justificatives de son identité et de son adresse et, le cas échéant, les justificatifs fiscaux mentionnés à l'article 1.E. 3, les pièces suivantes :
 
 a) Le certificat d'immatriculation précédent du véhicule ou, à défaut :
 
@@ -88,31 +88,27 @@ b) La preuve d'un contrôle technique.
 
 III. - Les conditions de circulation des véhicules immatriculés avec la mention d'usage véhicule de collection sont prévues en annexe 9 du présent arrêté.
 
-4.F. - Usage véhicule en transit temporaire
+4.F. - Usage véhicule en transit temporaire et véhicule importé en transit
 
-et véhicule importé en transit
-
-Les véhicules en situation de transit temporaire et d'importation en transit bénéficient, en application de la réglementation douanière, de mesures de dédouanement fiscal lors de leur immatriculation.
+Les véhicules en situation de transit temporaire et d'importation en transit bénéficient, en application de la réglementation douanière, de mesures fiscales suspensives lors de leur immatriculation.
 
 L'immatriculation de ces véhicules est effectuée conformément aux articles 1er, 4 et 5 du présent arrêté et sur présentation du document 846B, remis par le service des douanes, dûment complété avec notamment la date d'expiration de leur exonération fiscale.
 
 I. - Immatriculation d'un véhicule en transit temporaire :
 
-L'immatriculation d'un véhicule en transit temporaire est réservée aux véhicules à usage privé acquis neufs en France en exonération de droits de douane et de la taxe sur la valeur ajoutée en vue de leur exportation par des résidents de pays hors Union européenne venus séjourner temporairement en France.
+L'immatriculation d'un véhicule en transit temporaire est réservée aux véhicules à usage privé acquis neufs en France en exonération de droits de douane et de la taxe sur la valeur ajoutée en vue de leur exportation par des personnes physiques qui possèdent leur résidence normale hors du territoire fiscal de la Communauté européenne.
 
-La durée de validité de l'usage véhicule en transit temporaire est de six mois prorogeable une fois. La prorogation de l'usage donne lieu à la délivrance d'un nouveau certificat d'immatriculation.
+Les différents cas dans lesquels une personne peut bénéficier d'une immatriculation en transit temporaire, ainsi que les délais correspondants, sont fixés par le service des douanes en application des dispositions communautaires et nationales en vigueur. La prorogation de l'usage donne lieu à la délivrance d'un nouveau certificat d'immatriculation sur présentation d'un nouveau certificat 846 B délivré par le service des douanes.
 
 II. - Immatriculation d'un véhicule importé en transit :
 
-L'immatriculation d'un véhicule en importation en transit est réservée à des véhicules à usage privé appartenant à des personnes bénéficiant, en raison d'accords spécifiques, d'une exonération douanière et fiscale.
+L'immatriculation d'un véhicule en importation en transit est réservée à des véhicules appartenant à des personnes bénéficiant, en raison d'accords spécifiques, d'une exonération douanière et fiscale.
 
 La durée de validité de l'usage véhicule importé en transit est fixée par le service des douanes et est prorogeable sur présentation du document 846B remis par ce service. La prorogation de l'usage donne lieu à la délivrance d'un nouveau certificat d'immatriculation.
 
-4.G. - Usage véhicule pays de Gex ,
+4.G. - Usage "Véhicule zone franche du pays de Gex", "Véhicule zone franche de Haute-Savoie"
 
-véhicule pays de Savoie
-
-Les véhicules automobiles de marques étrangères (importés tout montés ou véhicules construits ou montés en France avec des pièces détachées de provenance étrangère) déclarés par des personnes installées dans l'une de ces zones sont exemptés de droits de douane et peuvent être immatriculés avec l'usage véhicule pays de Gex ou véhicule pays de Savoie .
+Les véhicules automobiles de marques étrangères (importés tout montés ou véhicules construits ou montés en France avec des pièces détachées de provenance étrangère) déclarés par des personnes installées dans l'une de ces zones sont exemptés de droits de douane et peuvent être immatriculés avec l'usage "véhicule zone franche du pays de Gex" ou "véhicule zone franche de Haute-Savoie". Le régime d'exemption est aussi applicable aux personnes installées dans l'une de ces zones qui bénéficient pour leur véhicule d'un contrat de location de longue durée, en crédit-bail ou avec option d'achat, même lorsque la société de location partie au contrat est située en dehors de la zone franche.
 
 L'immatriculation de ces véhicules est effectuée conformément aux articles 1er, 4 et 5 du présent arrêté et sur présentation des pièces suivantes :
 
@@ -120,4 +116,4 @@ a) Un document 846B, remis par les services des douanes, dûment complété ;
 
 b) Une pièce justificative d'adresse dans ces zones géographiques.
 
-La validité de l'usage cesse dès que le propriétaire du véhicule est domicilié hors de ces zones.
+La validité de l'usage cesse dès que la personne ayant bénéficié du régime d'exemption est domiciliée hors de ces zones.

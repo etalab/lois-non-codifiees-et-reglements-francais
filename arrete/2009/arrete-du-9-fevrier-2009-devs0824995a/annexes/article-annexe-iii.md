@@ -1,7 +1,6 @@
 # Article Annexe III
 
 **LISTE DES RUBRIQUES RENSEIGNÉES**
-
 **SUR LE CERTIFICAT D'IMMATRICULATION**
 
 Le certificat d'immatriculation comprend un ensemble de rubriques correspondant aux mentions renseignées sur le certificat d'immatriculation :
@@ -120,9 +119,9 @@ Véhicule en transit temporaire - date de fin de validité de l'usage ;
 
 Véhicule importé en transit - date de fin de validité de l'usage ;
 
-Véhicule pays de Gex ;
+Véhicule zone franche du pays de Gex ;
 
-Véhicule pays de Savoie.
+Véhicule zone franche de Haute-Savoie.
 
 2. Mentions relatives aux caractéristiques techniques particulières du véhicule :
 

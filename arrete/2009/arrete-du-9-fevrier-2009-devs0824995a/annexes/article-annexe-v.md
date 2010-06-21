@@ -1,6 +1,6 @@
 # Article Annexe V
 
-**LISTE DES GENRES ET CARROSSERIES**
+LISTE DES GENRES ET CARROSSERIES
 
 A. - Genres et carrosseries en vigueur
 
@@ -9,285 +9,360 @@ I. - Véhicules affectés au transport de personnes
 <table>
 <tbody>
 <tr>
-<th>
+<td align="center" rowspan="2" valign="middle">
+<p align="center">GENRES</p>
+</td>
+<td align="center" colspan="2" valign="middle">
+<br/>
+<p align="center">ABRÉVIATIONS</p>
+</td>
+<td align="center" rowspan="2" valign="middle">
+<br/>
+<p align="center">CARROSSERIES</p>
+</td>
+<td align="center" rowspan="2" valign="middle">
+<br/>
+<p align="center">ABRÉVIATIONS</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="center">Nationales </p>
+</td>
+<td align="left" valign="top">
+<p align="center">Catégories CE</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">Motocyclettes légères (*).</td>
+<td align="left" valign="top">
+<p align="center">MTL<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">L 3e</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Motocyclettes sans side-car (solo).<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">SOLO</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="center">L 4e</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Motocyclettes avec side-car adjoint.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">SOLO-SIDE-CAR</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="center">L 4e</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Motocyclettes avec side-car intégré (véhicule à trois roues non symétriques).</p>
+</td>
+<td align="left" valign="top">
+<p align="center">SIDE-CAR</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Motocyclettes autres que motocyclettes légères, dont la puissance maximale nette CE n'excède pas 25 kw et dont la puissance maximale nette CE/poids en ordre de marche n'excède pas 0,16 kw/kg (*)</p>
+</td>
+<td align="left" valign="top">
+<p align="center">MTT1</p>
+</td>
+<td align="left" valign="top">
+<p align="center">L 3e</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Motocyclettes sans side-car (solo)</p>
+</td>
+<td align="left" valign="top">
+<p align="center">SOLO</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="center">L 4e</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Motocyclettes avec side-car adjoint </p>
+</td>
+<td align="left" valign="top">
+<p align="center">SOLO-SIDE-CAR </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="center">L 4e</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Motocyclettes avec side-car intégré (véhicule à trois roues non symétriques)</p>
+</td>
+<td align="left" valign="top">
+<p align="center">SIDE-CAR</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Autres motocyclettes (*) </p>
+</td>
+<td align="left" valign="top">
+<p align="center">MTT2</p>
+</td>
+<td align="left" valign="top">
+<p align="center">L 3e</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Motocyclettes sans side-car (solo) </p>
+</td>
+<td align="left" valign="top">
+<p align="center">SOLO</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="center">L 4e</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Motocyclettes avec side-car adjoint </p>
+</td>
+<td align="left" valign="top">
+<p align="center">SOLO-SIDE-CAR</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="center">L 4e</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Motocyclettes avec side-car intégré (véhicule à trois roues non symétriques)</p>
+</td>
+<td align="left" valign="top">
+<p align="center">SIDE-CAR</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Tricycles à moteur (*).</p>
+</td>
+<td align="left" valign="top">
+<p align="center">TM</p>
+</td>
+<td align="left" valign="top">
+<p align="center">L 5e</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Tricycles dont le poids à vide n'excède pas 550 kg et dont la puissance maximale nette CE n'excède pas 15 kW affectés au transport de personnes.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">TMP1</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="left">Autres tricycles affectés au transport de personnes.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">TMP2</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Quadricycles à moteur.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">QM</p>
+</td>
+<td align="left" valign="top">
+<p align="center">L 6e</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Quadricycles légers à moteur.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">QLEM</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="center">L 7e</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Quadricycles lourds à moteur affectés au transport de personnes (*).</p>
+</td>
+<td align="left" valign="top">
+<p align="center">QLOMP</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Cyclomoteurs à trois roues.<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">CYCL</p>
+</td>
+<td align="left" valign="top">
+<p align="center">L 2e</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Cyclomoteurs carrossés à trois roues (voiturettes).</p>
+</td>
+<td align="left" valign="top">
+<p align="center">VTTE</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Cyclomoteurs à deux roues ou cyclomoteurs non carrossés à trois roues.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">CL</p>
+</td>
+<td align="left" valign="top">
+<p align="center">L 1e</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Cyclomoteurs à deux roues.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">SOLO<br/>SOLO-SIDE-CAR<br/>SIDE-CAR</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="center">L 2e</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Cyclomoteurs non carrossés à trois roues.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">CLTRP</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Voitures particulières.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">VP<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">M1<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Conduite intérieure (*). </p>
+<p align="left">Cabriolet (*).</p>
+<p align="left">Break (*).</p>
+<p align="left">Commerciale.</p>
+<p align="left">Handicapés.</p>
+<p align="left">Divers (non spécifiée).</p>
+</td>
+<td align="left" valign="top">
+<p align="center">CI </p>
+<p align="center">CABR</p>
+<p align="center">BREAK</p>
+<p align="center">CIALE</p>
+<p align="center">HANDICAP</p>
+<p align="center">NON SPEC<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Transports en commun de personnes.</p>
+</td>
+<td align="left" valign="top">
 <p align="center">
-<br/>GENRES<br/>
-</p>
-</th>
-<th colspan="4">
+<br/>TCP</p>
+</td>
+<td align="left" valign="top">
 <p align="center">
-<br/>ABRÉVIATIONS<br/>
-</p>
-</th>
-</tr>
-<tr>
-<th/>
-<th>
-<p align="center">
-<br/>Nationales<br/>
-</p>
-</th>
-<th>
-<p align="center">
-<br/>Catégories CE<br/>
-</p>
-</th>
-<th>
-<p align="center">
-<br/>CARROSSERIES<br/>
-</p>
-</th>
-<th>
-<p align="center">
-<br/>ABRÉVIATIONS<br/>
-</p>
-</th>
-</tr>
-<tr>
-<td align="center">
-<br/>Motocyclettes légères (*).<br/>
+<br/>M2<br/>ou</p>
 </td>
-<td align="center">
-<br/>MTL<br/>
+<td align="left" valign="top">
+<p align="left">Autobus.</p>
 </td>
-<td align="center">
-<br/>L 3e<br/>
-</td>
-<td align="center">
-<br/>Motocyclettes sans side-car (solo).<br/>
-</td>
-<td align="center">
-<br/>SOLO<br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>L 4e<br/>
-</td>
-<td align="center">
-<br/>Motocyclettes avec side-car adjoint.<br/>
-</td>
-<td align="center">
-<br/>SOLO-SIDE-CAR<br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>L 4e<br/>
-</td>
-<td align="center">
-<br/>Motocyclettes avec side-car intégré (véhicule à trois roues non symétriques).<br/>
-</td>
-<td align="center">
-<br/>SIDE-CAR<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Motocyclettes autres que motocyclettes légères, dont la puissance maximale nette CE n'excède pas 25 kW et dont la puissance maximale nette CE/poids en ordre de marche n'excède pas 0,16 kW/kg (*).<br/>
-</td>
-<td align="center">
-<br/>MTT1<br/>
-</td>
-<td align="center">
-<br/>L 3e<br/>
-</td>
-<td align="center">
-<br/>Mêmes carrosseries que pour MTL.<br/>
-</td>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
-<br/>Autres motocyclettes (*).<br/>
-</td>
-<td align="center">
-<br/>MTT2<br/>
-</td>
-<td align="center">
-<br/>L 3e<br/>
-</td>
-<td align="center">
-<br/>Mêmes carrosseries que pour MTL.<br/>
-</td>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
-<br/>Tricycles à moteur (*).<br/>
-</td>
-<td align="center">
-<br/>TM<br/>
-</td>
-<td align="center">
-<br/>L 5e<br/>
-</td>
-<td align="center">
-<br/>Tricycles dont le poids à vide n'excède pas 550 kg et dont la puissance maximale nette CE n'excède pas 15 kW affectés au transport de personnes.<br/>
-</td>
-<td align="center">
-<br/>TMP1<br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>Autres tricycles affectés au transport de personnes.<br/>
-</td>
-<td align="center">
-<br/>TMP2<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Quadricycles à moteur.<br/>
-</td>
-<td align="center">
-<br/>QM<br/>
-</td>
-<td align="center">
-<br/>L 6e<br/>
-</td>
-<td align="center">
-<br/>Quadricycles légers à moteur.<br/>
-</td>
-<td align="center">
-<br/>QLEM<br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>L 7e<br/>
-</td>
-<td align="center">
-<br/>Quadricycles lourds à moteur affectés au transport de personnes (*).<br/>
-</td>
-<td align="center">
-<br/>QLOMP<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Cyclomoteurs à trois roues.<br/>
-</td>
-<td align="center">
-<br/>CYCL<br/>
-</td>
-<td align="center">
-<br/>L 2e<br/>
-</td>
-<td align="center">
-<br/>Cyclomoteurs carrossés à trois roues (voiturettes).<br/>
-</td>
-<td align="center">
-<br/>VTTE<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Cyclomoteurs à deux roues ou cyclomoteurs non carrossés à trois roues.<br/>
-</td>
-<td align="center">
-<br/>CL<br/>
-</td>
-<td align="center">
-<br/>L 1e<br/>
-</td>
-<td align="center">
-<br/>Cyclomoteurs à deux roues.<br/>
-</td>
-<td align="center">
-<br/>SOLO <p>SOLO-SIDE-CAR</p>
-<p>SIDE-CAR<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>L 2e<br/>
-</td>
-<td align="center">
-<br/>Cyclomoteurs non carrossés à trois roues.<br/>
-</td>
-<td align="center">
-<br/>CLTRP<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Voitures particulières.<br/>
-</td>
-<td align="center">
-<br/>VP<br/>
-</td>
-<td align="center">
-<br/>M1<br/>
-</td>
-<td align="center">
-<br/>Conduite intérieure (*). <p>Cabriolet (*).</p>
-<p>Break (*).</p>
-<p>Commerciale.</p>
-<p>Handicapés.</p>
-<p>Divers (non spécifiée).<br/>
-</p>
-</td>
-<td align="center">
-<br/>CI <p>CABR</p>
-<p>BREAK</p>
-<p>CIALE</p>
-<p>HANDICAP</p>
-<p>NON SPEC<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Transports en commun de personnes.<br/>
-</td>
-<td align="center">
-<br/>TCP<br/>
-</td>
-<td align="center">
-<br/>M2 <p>ou<br/>
-</p>
-</td>
-<td align="center">
-<br/>Autobus.<br/>
-</td>
-<td align="center">
+<td align="left" valign="top">
 <br/>BUS<br/>
 </td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>M3<br/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="center">M3</p>
 </td>
-<td align="center">
-<br/>Autocar. <p>Handicapés.</p>
-<p>Divers (non spécifiée).<br/>
-</p>
+<td align="left" valign="top">
+<p align="left">Autocar. </p>
+<p align="left">Handicapés.</p>
+<p align="left">Divers (non spécifiée).</p>
 </td>
-<td align="center">
-<br/>CAR <p>HANDICAP</p>
-<p>NON SPEC <br/>
-</p>
+<td align="left" valign="top">
+<p align="center">CAR </p>
+<p align="center">HANDICAP</p>
+<p align="center">NON SPEC</p>
 </td>
 </tr>
 <tr>
-<td colspan="5">
-<br/>(*) Catégorie de véhicules pouvant être immatriculés avec un usage véhicule en transit temporaire .<br/>
+<td align="left" colspan="5" valign="top">
+<br/>(*) Catégorie de véhicules pouvant être immatriculés avec un usage véhicule en transit temporaire.<br/>
 </td>
 </tr>
 </tbody>
@@ -298,633 +373,628 @@ II. - Véhicules affectés au transport de marchandises
 <table>
 <tbody>
 <tr>
-<th>
-<p align="center">
-<br/>GENRES </p>
-</th>
-<th colspan="4">
-<p align="center">
-<br/>ABRÉVIATIONS </p>
-</th>
+<td align="center" rowspan="2" valign="middle">
+<p align="center">GENRES</p>
+</td>
+<td align="center" colspan="2" valign="middle">
+<p align="center">ABRÉVIATIONS</p>
+</td>
+<td align="center" rowspan="2" valign="middle">CARROSSERIES</td>
+<td align="center" rowspan="2" valign="middle">ABRÉVIATIONS</td>
 </tr>
 <tr>
-<th/>
-<th>
-<p align="center">
-<br/>Nationales </p>
-</th>
-<th>
-<p align="center">
-<br/>Catégories CE </p>
-</th>
-<th>
-<p align="center">
-<br/>Carrosseries </p>
-</th>
-<th>
-<p align="center">
-<br/>Abréviations </p>
-</th>
-</tr>
-<tr>
-<td align="center">
-<br/>Tricycles à moteur <br/>
-</td>
-<td align="center">
-<br/>TM <br/>
-</td>
-<td align="center">
-<br/>L. 5e <br/>
-</td>
-<td align="center">
-<br/>Tricycles de poids à vide 550 kg et puissance maximale nette CE 15 kw affectés au transport de marchandises. <br/>
-</td>
-<td align="center">
-<br/>TMM1 <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>Autres tricycles affectés au transport de marchandises. <br/>
-</td>
-<td align="center">
-<br/>TMM2 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Quadricycles à moteur <br/>
-</td>
-<td align="center">
-<br/>QM <br/>
-</td>
-<td align="center">
-<br/>L. 7e <br/>
-</td>
-<td align="center">
-<br/>Quadricycles lourds à moteur affectés au transport de marchandises <br/>
-</td>
-<td align="center">
-<br/>QLOMM <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Cyclomoteurs à trois roues <br/>
-</td>
-<td align="center">
-<br/>CYCL <br/>
-</td>
-<td align="center">
-<br/>L. 2e <br/>
-</td>
-<td align="center">
-<br/>Cyclomoteurs carrossés à trois roues affectés au transport de marchandises <br/>
-</td>
-<td align="center">
-<br/>CYCLM <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center">
-<br/>CL <br/>
-</td>
-<td align="center"/>
-<td align="center">
-<br/>Cyclomoteurs non carrossés à trois roues affectés au transport de marchandises <br/>
-</td>
-<td align="center">
-<br/>CLTRM <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Tracteurs routiers (6) <br/>
-</td>
-<td align="center">
-<br/>TRR <br/>
-</td>
-<td align="center">
-<br/>N1, N2 ou N3 <br/>
-</td>
-<td align="center">
-<br/>Forestier (2). <br/>
-</td>
-<td align="center">
-<br/>FOREST <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>Pour remorques. <br/>
-</td>
-<td align="center">
-<br/>PR REM <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>Pour semi-remorques. <br/>
-</td>
-<td align="center">
-<br/>PR SREM <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>Divers (non spécifiée) <br/>
-</td>
-<td align="center">
-<br/>NON SPEC <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Camionnettes (véhicules d'un poids total autorisé en charge inférieur ou égal à 3 500 kg autres que les tracteurs routiers). <br/>
-</td>
-<td align="center">
-<br/>CTTE <br/>
-</td>
-<td align="center">
-<br/>N1 <br/>
-</td>
-<td align="center">
-<br/>Bennes amovibles. <br/>
-</td>
-<td align="center">
-<br/>BEN AMO <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>Bennes dont le déchargement est effectué mécaniquement par le fond à l'aide d'un convoyeur à raclettes, d'une vis sans fin, etc. <br/>
-</td>
-<td align="center">
-<br/>BENNE <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>Bennes basculantes de chantier et de travaux publics. <br/>
-</td>
-<td align="center">
-<br/>BENNE <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>Bennes céréalières. <br/>
-</td>
-<td align="center">
-<br/>BEN CERE <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>Bétaillère. <br/>
-</td>
-<td align="center">
-<br/>BETAIL <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>Casiers. <br/>
-</td>
-<td align="center">
-<br/>CASIERS <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>Citerne à produits alimentaires (3). <br/>
-</td>
-<td align="center">
-<br/>CIT ALIM <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>Citerne à produit alimentaire à température dirigée. <br/>
-</td>
-<td align="center">
-<br/>CIT ALTD <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>Citerne pour aliments du bétail (3). <br/>
-</td>
-<td align="center">
-<br/>CIT BETA <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>Citerne à produits chimiques. <br/>
-</td>
-<td align="center">
-<br/>CIT CHIM <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>Citerne à gaz liquéfiés. <br/>
-</td>
-<td align="center">
-<br/>CIT GAZ <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>Citerne à hydrocarbures légers. <br/>
-</td>
-<td align="center">
-<br/>CARB LEG <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>Citerne à hydrocarbures lourds. <br/>
-</td>
-<td align="center">
-<br/>CARB LRD <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>Citerne à vidange. <br/>
-</td>
-<td align="center">
-<br/>CIT VID <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>Citerne à eau. <br/>
-</td>
-<td align="center">
-<br/>CIT EAU <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>Citerne à produits pulvérulents ou granulaires (3). <br/>
-</td>
-<td align="center">
-<br/>CIT PULV <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>Fourgon bâché avec parois rigides. <br/>
-</td>
-<td align="center">
-<br/>BACHE <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>Fourgon avec parois et toit rigides. <br/>
-</td>
-<td align="center">
-<br/>FOURGON <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>Fourgon à température dirigée. <br/>
-</td>
-<td align="center">
-<br/>FG TD <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>Fourgonnette dérivée de VP. <br/>
-</td>
-<td align="center">
-<br/>DERIV VP <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>Bétonnière. <br/>
-</td>
-<td align="center">
-<br/>BETON <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>Plateau. <br/>
-</td>
-<td align="center">
-<br/>PLATEAU <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>Porte-bateau (x). <br/>
-</td>
-<td align="center">
-<br/>PTE BAT <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>Porte-fers. <br/>
-</td>
-<td align="center">
-<br/>PTE FER <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>Porte-voitures. <br/>
-</td>
-<td align="center">
-<br/>PTE VOIT <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>Savoyardes (4). <br/>
-</td>
-<td align="center">
-<br/>SAVOYARD <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>Carrosserie à parois latérales souples coulissantes. <br/>
-</td>
-<td align="center">
-<br/>PLSC <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>Divers (non spécifiée). <br/>
-</td>
-<td align="center">
-<br/>NON SPEC <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>Châssis-cabine (7). <br/>
-</td>
-<td align="center">
-<br/>CHAS-CAB <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Camions (véhicules d'un poids total autorisé en charge excédant 3 500 kg autres que les tracteurs routiers). <br/>
-</td>
-<td align="center">
-<br/>CAM <br/>
-</td>
-<td align="center">
-<br/>N2 ou N3 <br/>
-</td>
-<td align="center">
-<br/>Mêmes carrosseries que pour les camionnettes + porte-engins. <br/>
-</td>
-<td align="center">
-<br/>PTE ENG <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>Porte-conteneurs ou caisses mobiles ou amovibles. <br/>
-</td>
-<td align="center">
-<br/>PTE CONT <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Semi-remorques avant-train. <br/>
-</td>
-<td align="center">
-<br/>SRAT <br/>
-</td>
-<td align="center">
-<br/>O1, O2, O3 ou O4 <br/>
-</td>
-<td align="center">
-<br/>Mêmes carrosseries que pour les CAM. <br/>
-</td>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center">
-<br/>Semi-remorques routières <br/>
-</td>
-<td align="center">
-<br/>SREM <br/>
-</td>
-<td align="center">
-<br/>O1, O2, O3 ou O4 <br/>
-</td>
-<td align="center">
-<br/>Mêmes carrosseries que pour les CAM +. <p>Avant-train routier. <br/>
+<td align="left" valign="top">
+<p align="center">Nationales<br/>
 </p>
 </td>
-<td align="center">
-<br/>AV TRAIN <br/>
+<td align="left" valign="top">
+<p align="center">Catégories CE<br/>
+</p>
 </td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>Arrière-train routier. <br/>
+<td align="left" valign="top">
+<p align="left">Tricycles à moteur</p>
 </td>
-<td align="center">
-<br/>AR TRAIN <br/>
+<td align="left" valign="top">
+<p align="center">TM</p>
 </td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>Arrière-train forestier. <br/>
+<td align="left" valign="top">
+<p align="center">L 5e </p>
 </td>
-<td align="center">
-<br/>AR FORES <br/>
+<td align="left" valign="top">
+<p align="left">Tricycles de poids à vide ≤ 550 kg et puissance maximale nette CE ≤ 15 kw affectés au transport de marchandises.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">TMM1</p>
 </td>
 </tr>
 <tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>Forestier. <br/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">Autres tricycles affectés au transport de marchandises.</p>
 </td>
-<td align="center">
-<br/>FOREST <br/>
-</td>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
-<td align="center">
-<br/>Triqueballe. <br/>
-</td>
-<td align="center">
-<br/>TB <br/>
+<td align="left" valign="top">
+<p align="center">TMM2</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Remorques routières <br/>
+<td align="left" valign="top">
+<p align="left">Quadricycles à moteur</p>
 </td>
-<td align="center">
-<br/>REM <br/>
+<td align="left" valign="top">
+<p align="center">QM</p>
 </td>
-<td align="center">
-<br/>O1, O2, O3 ou O4 <br/>
+<td align="left" valign="top">
+<p align="center">L 7e</p>
 </td>
-<td align="center">
-<br/>Mêmes carrosseries que pour les SREM. <br/>
+<td align="left" valign="top">
+<p align="left">Quadricycles lourds à moteur affectés au transport de marchandises</p>
 </td>
-<td align="center"/>
+<td align="left" valign="top">
+<p align="center">QLOMM</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Semi-remorques pour transports combinés <br/>
+<td align="left" valign="top">
+<p align="left">Cyclomoteurs à trois roues <br/>
+</p>
 </td>
-<td align="center">
-<br/>SRTC <br/>
+<td align="left" valign="top">
+<p align="center">CYCL <br/>
+</p>
 </td>
-<td align="center">
-<br/>O1, O2, O3 ou O4 <br/>
+<td align="left" valign="top">
+<p align="center">L 2e <br/>
+</p>
 </td>
-<td align="center">
-<br/>Mêmes carrosseries que pour les SREM. <br/>
+<td align="left" valign="top">
+<p align="left">Cyclomoteurs carrossés à trois roues affectés au transport de marchandises</p>
 </td>
-<td align="center"/>
+<td align="left" valign="top">
+<p align="center">CYCLM</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Remorques pour transports combinés <br/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="center">CL</p>
 </td>
-<td align="center">
-<br/>RETC <br/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">Cyclomoteurs non carrossés à trois roues affectés au transport de marchandises</p>
 </td>
-<td align="center">
-<br/>O1, O2, O3 ou O4 <br/>
+<td align="left" valign="top">
+<p align="center">CLTRM</p>
 </td>
-<td align="center">
-<br/>Mêmes carrosseries que pour les REM. <br/>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Tracteurs routiers (6) <br/>
+</p>
 </td>
-<td align="center"/>
+<td align="left" valign="top">
+<p align="center">TRR</p>
+</td>
+<td align="left" valign="top">
+<p align="center">N1, N2 ou N3 </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Forestier (2).</p>
+</td>
+<td align="left" valign="top">
+<p align="center">FOREST</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">Pour remorques.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">PR REM</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">Pour semi-remorques.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">PR SREM</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">Divers (non spécifiée)</p>
+</td>
+<td align="left" valign="top">
+<p align="center">NON SPEC</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Camionnettes (véhicules d'un poids total autorisé en charge inférieur ou égal à 3 500 kg autres que les tracteurs routiers).</p>
+</td>
+<td align="left" valign="top">
+<p align="center">CTTE</p>
+</td>
+<td align="left" valign="top">
+<p align="center">N1</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Bennes amovibles. </p>
+</td>
+<td align="left" valign="top">
+<p align="center">BEN AMO</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">Bennes dont le déchargement est effectué mécaniquement par le fond à l'aide d'un convoyeur à raclettes, d'une vis sans fin, etc.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">BENNE</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">Bennes basculantes de chantier et de travaux publics.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">BENNE</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">Bennes céréalières.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">BEN CERE</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">Bétaillère.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">BETAIL</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">Casiers.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">CASIERS</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">Citerne à produits alimentaires (3).</p>
+</td>
+<td align="left" valign="top">
+<p align="center">CIT ALIM</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">Citerne à produit alimentaire à température dirigée.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">CIT ALTD</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">Citerne pour aliments du bétail (3).</p>
+</td>
+<td align="left" valign="top">
+<p align="center">CIT BETA</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">Citerne à produits chimiques.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">CIT CHIM</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">Citerne à gaz liquéfiés.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">CIT GAZ</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">Citerne à hydrocarbures légers.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">CARB LEG</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">Citerne à hydrocarbures lourds.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">CARB LRD</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">Citerne à vidange.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">CIT VID</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">Citerne à eau.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">CIT EAU</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">Citerne à produits pulvérulents ou granulaires (3).</p>
+</td>
+<td align="left" valign="top">
+<p align="center">CIT PULV</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">Fourgon bâché avec parois rigides.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">BACHE</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">Fourgon avec parois et toit rigides.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">FOURGON</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">Fourgon à température dirigée.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">FG TD</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">Fourgonnette dérivée de VP.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">DERIV VP</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">Bétonnière.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">BETON</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">Plateau.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">PLATEAU</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">Porte-bateau (x).</p>
+</td>
+<td align="left" valign="top">
+<p align="center">PTE BAT</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">Porte-fers.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">PTE FER</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">Porte-voitures.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">PTE VOIT</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">Savoyardes (4).</p>
+</td>
+<td align="left" valign="top">
+<p align="center">SAVOYARD</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">Carrosserie à parois latérales souples coulissantes.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">PLSC</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">Divers (non spécifiée).</p>
+</td>
+<td align="left" valign="top">
+<p align="center">NON SPEC</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">Châssis-cabine (7).</p>
+</td>
+<td align="left" valign="top">
+<p align="center">CHAS-CAB</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Camions (véhicules d'un poids total autorisé en charge excédant 3 500 kg autres que les tracteurs routiers).</p>
+</td>
+<td align="left" valign="top">
+<p align="center">CAM</p>
+</td>
+<td align="left" valign="top">
+<p align="center">N2 ou N3</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Mêmes carrosseries que pour les camionnettes + porte-engins.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">PTE ENG</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">Porte-conteneurs ou caisses mobiles ou amovibles.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">PTE CONT</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Semi-remorques avant-train.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">SRAT</p>
+</td>
+<td align="left" valign="top">
+<p align="center">01, 02, 03 ou 04</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Mêmes carrosseries que pour les CAM.</p>
+</td>
+<td align="left" valign="top"/>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Semi-remorques routières</p>
+</td>
+<td align="left" valign="top">
+<p align="center">SREM</p>
+</td>
+<td align="left" valign="top">
+<p align="center">01, 02, 03 ou 04</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Mêmes carrosseries que pour les CAM +. </p>
+<p align="left">Avant-train routier.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">AV TRAIN</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">Arrière-train routier.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">AR TRAIN</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">Arrière-train forestier.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">AR FORES</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">Forestier.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">FOREST</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">Triqueballe.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">TB</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Remorques routières</p>
+</td>
+<td align="left" valign="top">
+<p align="center">REM</p>
+</td>
+<td align="left" valign="top">
+<p align="center">01, 02, 03 ou 04</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Mêmes carrosseries que pour les SREM.</p>
+</td>
+<td align="left" valign="top"/>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Semi-remorques pour transports combinés</p>
+</td>
+<td align="left" valign="top">
+<p align="center">SRTC</p>
+</td>
+<td align="left" valign="top">
+<p align="center">01, 02, 03 ou 04 </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Mêmes carrosseries que pour les SREM.</p>
+</td>
+<td align="left" valign="top"/>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Remorques pour transports combinés</p>
+</td>
+<td align="left" valign="top">
+<p align="center">RETC </p>
+</td>
+<td align="left" valign="top">
+<p align="center">01, 02, 03 ou 04 </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Mêmes carrosseries que pour les REM.</p>
+</td>
+<td align="left" valign="top"/>
 </tr>
 </tbody>
 </table>
@@ -937,344 +1007,250 @@ III. - Véhicules spécialisés non affectés au transport de marchandises
 <table>
 <tbody>
 <tr>
-<th>
-<br/>GENRES <br/>
-</th>
-<th colspan="4">
-<br/>ABRÉVIATIONS <br/>
-</th>
+<td align="center" rowspan="2">GENRES</td>
+<td align="center" colspan="2">
+<br/>
+<p>ABRÉVIATIONS</p>
+</td>
+<td align="center" rowspan="2">
+<p>CARROSSERIES</p>
+</td>
+<td align="center" rowspan="2">
+<br/>ABRÉVIATIONS</td>
 </tr>
 <tr>
-<th/>
-<th>
-<br/>Nationales <br/>
-</th>
-<th>
-<br/>Catégories CE <br/>
-</th>
-<th>
-<br/>Carrosseries <br/>
-</th>
-<th>
-<br/>Abréviations <br/>
-</th>
-</tr>
-<tr>
-<td align="center">
-<br/>Véhicules automoteur spécialisés. <br/>
+<td>
+<p align="center">Nationales</p>
 </td>
-<td align="center">
-<br/>VASP <br/>
-</td>
-<td align="center">
-<br/>M1 <br/>
-</td>
-<td align="center">
-<br/>Ambulance (pour personne couchée). <br/>
-</td>
-<td align="center">
-<br/>AMBULAN <br/>
+<td>
+<p align="center">Catégories<br/>CE</p>
 </td>
 </tr>
 <tr>
+<td>
+<p align="left">Véhicules automoteur spécialisés. <br/>
+</p>
+</td>
+<td>
+<p align="center">VASP </p>
+</td>
+<td>
+<p align="center">M1</p>
+</td>
+<td>
+<p align="left">Ambulance (pour personne couchée). </p>
+</td>
+<td>
+<p align="center">AMBULAN</p>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
 <td align="center">
-<br/>
-<br/>
+<p align="center">N1, N2 ou N3</p>
 </td>
 <td align="center">
-<br/>
-<br/>
+<p align="left">Atelier.</p>
 </td>
 <td align="center">
-<br/>N1, N2 ou N3 <br/>
-</td>
-<td align="center">
-<br/>Atelier. <br/>
-</td>
-<td align="center">
-<br/>ATELIER <br/>
+<p>ATELIER</p>
 </td>
 </tr>
 <tr>
 <td align="center">
 <br/>
-<br/>
 </td>
 <td align="center">
 <br/>
-<br/>
 </td>
 <td align="center">
-<br/>N1, N2 ou N3 <br/>
+<p align="center">N1, N2 ou N3</p>
 </td>
 <td align="center">
-<br/>Bazar forain. <br/>
+<p align="left">Bazar forain.</p>
 </td>
 <td align="center">
 <br/>BAZ FOR <br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
+<td align="center"/>
 <td align="center">
 <br/>N1, N2 ou N3 <br/>
 </td>
 <td align="center">
-<br/>Bennes à ordures ménagères. <br/>
+<p align="left">Bennes à ordures ménagères.</p>
 </td>
 <td align="center">
 <br/>BOM <br/>
 </td>
 </tr>
 <tr>
+<td align="center"/>
+<td align="center"/>
 <td align="center">
-<br/>
-<br/>
+<p align="center">M1</p>
 </td>
 <td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>M1 <br/>
-</td>
-<td align="center">
-<br/>Caravane (*). <br/>
+<p align="left">Caravane (*).</p>
 </td>
 <td align="center">
 <br/>CARAVANE <br/>
 </td>
 </tr>
 <tr>
+<td align="center"/>
+<td align="center"/>
 <td align="center">
-<br/>
-<br/>
+<p align="center">N1, N2 ou N3</p>
 </td>
 <td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>N1, N2 ou N3 <br/>
-</td>
-<td align="center">
-<br/>Chariot porteur (5). <br/>
+<p align="left">Chariot porteur (5).</p>
 </td>
 <td align="center">
 <br/>CHAR POR <br/>
 </td>
 </tr>
 <tr>
+<td align="center"/>
+<td align="center"/>
 <td align="center">
-<br/>
-<br/>
+<p align="center">N1, N2 ou N3</p>
 </td>
 <td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>N1, N2 ou N3 <br/>
-</td>
-<td align="center">
-<br/>Dépannage. <br/>
+<p align="left">Dépannage.</p>
 </td>
 <td align="center">
 <br/>DEPANNAG <br/>
 </td>
 </tr>
 <tr>
+<td align="center"/>
+<td align="center"/>
 <td align="center">
-<br/>
-<br/>
+<p align="center">N1, N2 ou N3</p>
 </td>
 <td align="center">
-<br/>
-<br/>
+<p align="left">Fourgon blindé.</p>
 </td>
 <td align="center">
-<br/>N1, N2 ou N3 <br/>
-</td>
-<td align="center">
-<br/>Fourgon blindé.<br/>
-</td>
-<td align="center">
-<br/>G BLIND <br/>
+<br/>FG BLIND<br/>
 </td>
 </tr>
 <tr>
+<td align="center"/>
+<td align="center"/>
 <td align="center">
-<br/>
-<br/>
+<p align="center">M1</p>
 </td>
 <td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>M1 <br/>
-</td>
-<td align="center">
-<br/>Fourgon funéraire. <br/>
+<p align="left">Fourgon funéraire.</p>
 </td>
 <td align="center">
 <br/>FG FUNER <br/>
 </td>
 </tr>
 <tr>
+<td align="center"/>
+<td align="center"/>
 <td align="center">
-<br/>
-<br/>
+<p align="center">N1, N2 ou N3</p>
 </td>
 <td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>N1, N2 ou N3 <br/>
-</td>
-<td align="center">
-<br/>Grue. <br/>
+<p align="left">Grue.</p>
 </td>
 <td align="center">
 <br/>GRUE <br/>
 </td>
 </tr>
 <tr>
+<td align="center"/>
+<td align="center"/>
 <td align="center">
-<br/>
-<br/>
+<p align="center">M1 ou N1</p>
 </td>
 <td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>M1 ou N1 <br/>
-</td>
-<td align="center">
-<br/>Handicapés. <br/>
+<p align="left">Handicapés.</p>
 </td>
 <td align="center">
 <br/>HANDICAP <br/>
 </td>
 </tr>
 <tr>
+<td align="center"/>
+<td align="center"/>
 <td align="center">
-<br/>
-<br/>
+<p align="center">N1, N2 ou N3</p>
 </td>
 <td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>N1, N2 ou N3 <br/>
-</td>
-<td align="center">
-<br/>Incendie. <br/>
+<p align="left">Incendie.</p>
 </td>
 <td align="center">
 <br/>INCENDIE <br/>
 </td>
 </tr>
 <tr>
+<td align="center"/>
+<td align="center"/>
 <td align="center">
-<br/>
-<br/>
+<p align="center">N1, N2 ou N3</p>
 </td>
 <td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>N1, N2 ou N3 <br/>
-</td>
-<td align="center">
-<br/>Magasin. <br/>
+<p align="left">Magasin.</p>
 </td>
 <td align="center">
 <br/>MAGASIN <br/>
 </td>
 </tr>
 <tr>
+<td align="center"/>
+<td align="center"/>
 <td align="center">
-<br/>
-<br/>
+<p align="center">M1, N1, N2<br/>ou N3</p>
 </td>
 <td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>M1, N1, N2 ou N3 <br/>
-</td>
-<td align="center">
-<br/>Sanitaire. <br/>
+<p align="left">Sanitaire.</p>
 </td>
 <td align="center">
 <br/>SANITAIR <br/>
 </td>
 </tr>
 <tr>
+<td align="center"/>
+<td align="center"/>
 <td align="center">
-<br/>
-<br/>
+<p align="center">N1, N2 ou N3</p>
 </td>
 <td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>N1, N2 ou N3 <br/>
-</td>
-<td align="center">
-<br/>Travaux publics et industriels. <br/>
+<p align="left">Travaux publics et industriels.</p>
 </td>
 <td align="center">
 <br/>TRAVAUX <br/>
 </td>
 </tr>
 <tr>
+<td align="center"/>
+<td align="center"/>
 <td align="center">
-<br/>
-<br/>
+<p align="center">N1, N2 ou N3</p>
 </td>
 <td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>N1, N2 ou N3 <br/>
-</td>
-<td align="center">
-<br/>Voirie. <br/>
+<p align="left">Voirie.</p>
 </td>
 <td align="center">
 <br/>VOIRIE <br/>
 </td>
 </tr>
 <tr>
+<td align="center"/>
+<td align="center"/>
 <td align="center">
-<br/>
-<br/>
+<p align="center">M1, N1, N2<br/>ou N3</p>
 </td>
 <td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>M1, N1, N2 ou N3 <br/>
-</td>
-<td align="center">
-<br/>Divers (non spécifiée). <br/>
+<p align="left">Divers (non spécifiée).</p>
 </td>
 <td align="center">
 <br/>NON SPEC <br/>
@@ -1282,39 +1258,33 @@ III. - Véhicules spécialisés non affectés au transport de marchandises
 </tr>
 <tr>
 <td align="center">
-<br/>Semi-remorques spécialisées. <br/>
+<p align="left">Semi-remorques spécialisées.</p>
 </td>
 <td align="center">
-<br/>SRSP <br/>
+<p align="center">SRSP</p>
 </td>
 <td align="center">
-<br/>O1, O2, O3 ou O4 <br/>
+<p align="center">01, 02, 03 ou 04</p>
 </td>
 <td align="center">
-<br/>Mêmes carrosseries que pour les véhicules automoteurs spécialisés sauf ambulance et chariot porteur. <br/>
+<p align="left">Mêmes carrosseries que pour les véhicules automoteurs spécialisés sauf ambulance et chariot porteur.</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>Remorques spécialisées. <br/>
+<p align="left">Remorques spécialisées.</p>
 </td>
 <td align="center">
-<br/>RESP <br/>
+<p align="center">RESP</p>
 </td>
 <td align="center">
-<br/>O1, O2, O3 ou O4 <br/>
+<p align="center">01, 02, 03 ou 04</p>
 </td>
 <td align="center">
-<br/>Mêmes carrosseries que pour les semi-remorques spécialisés. <br/>
+<p align="left">Mêmes carrosseries que pour les semi-remorques spécialisés.</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td colspan="5">
@@ -1337,153 +1307,126 @@ IV. - Véhicules agricoles
 <table>
 <tbody>
 <tr>
-<th>
-<br/>GENRES <br/>
-</th>
-<th colspan="4">
-<br/>ABRÉVIATIONS <br/>
-</th>
+<td align="center" rowspan="2" valign="middle">GENRES</td>
+<td align="center" colspan="2" valign="middle">
+<p align="center">ABRÉVIATIONS</p>
+</td>
+<td align="center" rowspan="2" valign="middle">
+<p align="center">CARROSSERIES</p>
+</td>
+<td align="center" rowspan="2" valign="middle">ABRÉVIATIONS</td>
 </tr>
 <tr>
-<th/>
-<th>
-<br/>Nationales <br/>
-</th>
-<th>
-<br/>Catégories CE <br/>
-</th>
-<th>
-<br/>Carrosseries <br/>
-</th>
-<th>
-<br/>Abréviations <br/>
-</th>
-</tr>
-<tr>
-<td align="center">
-<br/>Tracteurs agricoles. <br/>
+<td align="left" valign="top">
+<p align="center">Nationales</p>
 </td>
-<td align="center">
-<br/>TRA <br/>
-</td>
-<td align="center">
-<br/>T1, T2, T3 ou T4 <br/>
-</td>
-<td align="center">
-<br/>Agricole. <br/>
-</td>
-<td align="center">
-<br/>AGRICOLE <br/>
+<td align="left" valign="top">
+<p align="center">Catégories<br/>CE </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td align="left" valign="top">
+<p align="left">Tracteurs agricoles.</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td align="left" valign="top">
+<p align="center">TRA</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td align="left" valign="top">
+<p align="center">T1, T2, T3<br/>ou T4</p>
 </td>
-<td align="center">
-<br/>Forestier. <br/>
+<td align="left" valign="top">
+<p align="left">Agricole.</p>
 </td>
-<td align="center">
-<br/>FOREST <br/>
+<td align="left" valign="top">
+<p align="center">AGRICOLE</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-<br/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p>Forestier.</p>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>Divers (non spécifiée). <br/>
-</td>
-<td align="center">
-<br/>NON SPEC <br/>
+<td align="left" valign="top">
+<p align="center">FOREST</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Remorques agricoles. <br/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p>Divers (non spécifiée).</p>
 </td>
-<td align="center">
-<br/>REA <br/>
-</td>
-<td align="center">
-<br/>R 1, R 2, R 3 ou R 4 <br/>
-</td>
-<td align="center">
-<br/>Mêmes carrosseries que pour les remorques routières. <br/>
-</td>
-<td align="center">
-<br/>
-<br/>
+<td align="left" valign="top">
+<p align="center">NON SPEC</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Semi-remorques agricoles. <br/>
+<td align="left" valign="top">
+<p>Remorques agricoles.</p>
 </td>
-<td align="center">
-<br/>SREA <br/>
+<td align="left" valign="top">
+<p align="center">REA</p>
 </td>
-<td align="center">
-<br/>R 1, R 2, R 3 ou R 4 <br/>
+<td align="left" valign="top">
+<p align="center">R1, R2, R3<br/>ou R4</p>
 </td>
-<td align="center">
-<br/>Mêmes carrosseries que pour les semi-remorques routières. <br/>
+<td align="left" valign="top">
+<p>Mêmes carrosseries que pour les remorques routières.</p>
 </td>
-<td align="center">
-<br/>
-<br/>
+<td align="left" valign="top"/>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p>Semi-remorques agricoles.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">SREA</p>
+</td>
+<td align="left" valign="top">
+<p align="center">R1, R2, R3<br/>ou R4</p>
+</td>
+<td align="left" valign="top">
+<p>Mêmes carrosseries que pour les semi-remorques routières.</p>
+</td>
+<td align="left" valign="top"/>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p>Machines agricoles automotrices.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">MAGA <br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">/</p>
+</td>
+<td align="left" valign="top">
+<p>Divers (non spécifiée).</p>
+</td>
+<td align="left" valign="top">
+<p align="center">NON SPEC</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Machines agricoles automotrices. <br/>
+<td align="left" valign="top">
+<p>Machines et instruments remorqués.</p>
 </td>
-<td align="center">
-<br/>MAGA <br/>
+<td align="left" valign="top">
+<p align="center">MIAR</p>
 </td>
-<td align="center">
-<br/>/ <br/>
+<td align="left" valign="top">
+<p align="center">S1 ou S2</p>
 </td>
-<td align="center">
-<br/>Divers (non spécifiée). <br/>
+<td align="left" valign="top">
+<p>Divers (non spécifiée).</p>
 </td>
-<td align="center">
-<br/>NON SPEC <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Machines et instruments remorqués. <br/>
-</td>
-<td align="center">
-<br/>MIAR <br/>
-</td>
-<td align="center">
-<br/>S1 ou S2 <br/>
-</td>
-<td align="center">
-<br/>Divers (non spécifiée). <br/>
-</td>
-<td align="center">
-<br/>NON SPEC<br/>
+<td align="left" valign="top">
+<p align="center">
+<br/>NON SPEC</p>
 </td>
 </tr>
 </tbody>
@@ -1495,202 +1438,190 @@ B. - Genres et carrosseries anciennes
 <table>
 <tbody>
 <tr>
-<th colspan="2">
-<p align="center">
-<br/>ABRÉVIATIONS DES APPELLATIONS ANCIENNES<br/>
-</p>
-</th>
-<th colspan="3">
-<p align="center">
-<br/>ABRÉVIATIONS DES APPELLATIONS EN VIGUEUR<br/>
-</p>
-</th>
-</tr>
-<tr>
-<th>
-<p align="center">
-<br/>Genre<br/>
-</p>
-</th>
-<th>
-<p align="center">
-<br/>Carrosserie<br/>
-</p>
-</th>
-<th>
-<p align="center">
-<br/>Genre<br/>
-</p>
-</th>
-<th colspan="2">
-<p align="center">
-<br/>Carrosserie<br/>
-</p>
-</th>
-</tr>
-<tr>
-<td align="center">
-<br/>MTL 1 <p>MTL 2</p>
-<p>MTL 3<br/>
-</p>
+<td align="left" colspan="2" valign="top">
+<p align="center">ABRÉVIATIONS DES APPELLATIONS ANCIENNES</p>
 </td>
-<td align="center"/>
-<td align="center">
-<br/>MTL<br/>
-</td>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center">
-<br/>SOLO <p>SIDE-CAR<br/>
-</p>
-</td>
-<td align="center"/>
-<td align="center">
-<br/>SOLO <p>SIDE-CAR<br/>
-</p>
+<td align="left" colspan="3" valign="top">
+<p align="center">ABRÉVIATIONS DES APPELLATIONS EN VIGUEUR</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>MTTE<br/>
+<td align="left" valign="top">
+<p align="center">Genre</p>
 </td>
-<td align="center"/>
-<td align="center">
-<br/>MTT1 <p>MTT2<br/>
-</p>
+<td align="left" valign="top">
+<p align="center">Carrosserie</p>
 </td>
-<td align="center"/>
-</tr>
-<tr>
-<td align="center"/>
-<td align="center">
-<br/>SOLO <p>SIDE-CAR<br/>
-</p>
+<td align="left" valign="top">
+<p align="center">Genre</p>
 </td>
-<td align="center"/>
-<td align="center">
-<br/>SOLO <p>SIDE-CAR<br/>
-</p>
+<td align="left" colspan="2" valign="top">
+<p align="center">Carrosserie</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>TQM<br/>
+<td align="left" valign="top">
+<p align="center">MTL 1 </p>
+<p align="center">MTL 2</p>
+<p align="center">MTL 3</p>
 </td>
-<td align="center">
-<br/>TRICYCLE<br/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="center">MTL</p>
 </td>
-<td align="center">
-<br/>TM<br/>
+<td align="left" valign="top"/>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="center">SOLO </p>
+<p align="center">SIDE-CAR</p>
 </td>
-<td align="center">
-<br/>TM P1 <p>TM P2<br/>
-</p>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="center">SOLO </p>
+<p align="center">SIDE-CAR</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>CYCL <p>TQM<br/>
-</p>
+<td align="left" valign="top">
+<p align="center">MTTE</p>
 </td>
-<td align="center">
-<br/>VTTE <p>QUADRI<br/>
-</p>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="center">MTT1 </p>
+<p align="center">MTT2</p>
 </td>
-<td align="center">
-<br/>QM<br/>
+<td align="left" valign="top"/>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="center">SOLO </p>
+<p align="center">SIDE-CAR</p>
 </td>
-<td align="center">
-<br/>QLEM <p>QLOM P<br/>
-</p>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="center">SOLO </p>
+<p align="center">SIDE-CAR</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>VTSU<br/>
+<td align="left" valign="top">
+<p align="center">TQM</p>
 </td>
-<td align="center">
-<br/>Divers<br/>
+<td align="left" valign="top">
+<p align="center">TRICYCLE</p>
 </td>
-<td align="center">
-<br/>CTTE<br/>
+<td align="left" valign="top">
+<p align="center">TM</p>
 </td>
-<td align="center">
-<br/>BEN AMO <p>BENNE</p>
-<p>BEN CERE</p>
-<p>BETAIL</p>
-<p>CASIERS</p>
-<p>BETON<br/>
-</p>
+<td align="left" valign="top">
+<p align="center">TM P1 </p>
+<p align="center">TM P2</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>VTST<br/>
+<td align="left" valign="top">
+<p align="center">CYCL </p>
+<p align="center">TQM</p>
 </td>
-<td align="center">
-<br/>Divers citernes<br/>
+<td align="left" valign="top">
+<p align="center">VTTE </p>
+<p align="center">QUADRI</p>
 </td>
-<td align="center">
-<br/>CTTE ou CAM<br/>
+<td align="left" valign="top">
+<p align="center">QM</p>
 </td>
-<td align="center">
-<br/>CIT ALIM <p>CIT ALTD</p>
-<p>CIT BETA</p>
-<p>CIT CHIM</p>
-<p>CIT GAZ</p>
-<p>CARB LEG</p>
-<p>CARB LRD</p>
-<p>CIT VID</p>
-<p>CIT EAU</p>
-<p>CIT PULV<br/>
-</p>
+<td align="left" valign="top">
+<p align="center">QLEM </p>
+<p align="center">QLOM P</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>VTST<br/>
+<td align="left" valign="top">
+<p align="center">VTSU</p>
 </td>
-<td align="center">
-<br/>Divers<br/>
+<td align="left" valign="top">
+<p align="center">Divers</p>
 </td>
-<td align="center">
-<br/>CTTE CAM<br/>
+<td align="left" valign="top">
+<p align="center">CTTE</p>
 </td>
-<td align="center">
-<br/>FOURGON <p>FG TD</p>
-<p>DERIV VP<br/>
-</p>
+<td align="left" valign="top">
+<p align="center">BEN AMO </p>
+<p align="center">BENNE</p>
+<p align="center">BEN CERE</p>
+<p align="center">BETAIL</p>
+<p align="center">CASIERS</p>
+<p align="center">BETON</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>VTSU<br/>
+<td align="left" valign="top">
+<p align="center">VTST</p>
 </td>
-<td align="center">
-<br/>Travaux et divers<br/>
+<td align="left" valign="top">
+<p align="center">Divers citernes</p>
 </td>
-<td align="center">
-<br/>VASP<br/>
+<td align="left" valign="top">
+<p align="center">CTTE ou CAM</p>
 </td>
-<td align="center">
-<br/>ATELIER <p>BAZ FOR</p>
-<p>BOM</p>
-<p>CARAVANE</p>
-<p>CHAR POR</p>
-<p>DEPANNAG</p>
-<p>FG FUNER</p>
-<p>GRUE</p>
-<p>HANDICAP</p>
-<p>INCENDIE</p>
-<p>MAGASIN</p>
-<p>SANITAIR</p>
-<p>TRAVAUX</p>
-<p>VOIERIE</p>
-<p>NON SPEC<br/>
-</p>
+<td align="left" valign="top">
+<p align="center">CIT ALIM </p>
+<p align="center">CIT ALTD</p>
+<p align="center">CIT BETA</p>
+<p align="center">CIT CHIM</p>
+<p align="center">CIT GAZ</p>
+<p align="center">CARB LEG</p>
+<p align="center">CARB LRD</p>
+<p align="center">CIT VID</p>
+<p align="center">CIT EAU</p>
+<p align="center">CIT PULV</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="center">VTST</p>
+</td>
+<td align="left" valign="top">
+<p align="center">Divers</p>
+</td>
+<td align="left" valign="top">
+<p align="center">CTTE CAM</p>
+</td>
+<td align="left" valign="top">
+<p align="center">FOURGON </p>
+<p align="center">FG TD</p>
+<p align="center">DERIV VP</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="center">VTSU</p>
+</td>
+<td align="left" valign="top">
+<p align="center">Travaux et divers</p>
+</td>
+<td align="left" valign="top">
+<p align="center">VASP</p>
+</td>
+<td align="left" valign="top">
+<p align="center">ATELIER </p>
+<p align="center">BAZ FOR</p>
+<p align="center">BOM</p>
+<p align="center">CARAVANE</p>
+<p align="center">CHAR POR</p>
+<p align="center">DEPANNAG</p>
+<p align="center">FG FUNER</p>
+<p align="center">GRUE</p>
+<p align="center">HANDICAP</p>
+<p align="center">INCENDIE</p>
+<p align="center">MAGASIN</p>
+<p align="center">SANITAIR</p>
+<p align="center">TRAVAUX</p>
+<p align="center">VOIERIE</p>
+<p align="center">NON SPEC</p>
 </td>
 </tr>
 </tbody>

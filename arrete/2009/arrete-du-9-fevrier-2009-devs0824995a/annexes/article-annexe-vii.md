@@ -1,6 +1,6 @@
 # Article Annexe VII
 
-**COMPOSITION DES NUMÉROS D'IMMATRICULATION**
+COMPOSITION DES NUMÉROS D'IMMATRICULATION
 
 A. - Numéro d'immatriculation définitif :
 
@@ -174,6 +174,6 @@ Lorsque le véhicule aura été acquis aux conditions du marché intérieur ou i
 
 Exemples : 105 C 1.75 Z ; 105 CD 5 Z ; U 305 K 10 Z.
 
-- de la lettre X s'il s'agit d'un véhicule appartenant à une personne ne bénéficiant pas des immunités fiscales ou douanières ; cette immatriculation donnera lieu à la taxe exigible lors de la délivrance du certificat d'immatriculation dans les conditions fixées pour l'immatriculation des véhicules portant le numéro définitif prévu à l'article R. 322-2 du code de la route et au versement de la taxe différentielle sur les véhicules à moteur.
+- de la lettre X s'il s'agit d'un véhicule appartenant à une personne ne bénéficiant pas des immunités fiscales ou douanières ; cette immatriculation donnera lieu au paiement de la taxe exigible lors de la délivrance du certificat d'immatriculation dans les conditions fixées pour l'immatriculation des véhicules portant le numéro définitif prévu à l'article R. 322-2 du code de la route et au versement de la taxe différentielle sur les véhicules à moteur.
 
 Exemples : 105 C 1.75 X ; 600 CD 20 X ; 401 K 1000 X.

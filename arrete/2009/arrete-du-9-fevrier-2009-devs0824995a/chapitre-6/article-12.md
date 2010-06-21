@@ -86,15 +86,13 @@ Les pièces à fournir par le propriétaire du véhicule sont :
 
 6. La preuve d'un contrôle technique.
 
-12.D. - Véhicule précédemment immatriculé
+12.D. - Véhicule précédemment immatriculé avec un usage "transit temporaire" (TT), "importation en transit" (IT), "zone franche du pays de Gex" ou "zone franche de Haute-Savoie"
 
-avec un usage TT, IT
-
-L'acquéreur d'un véhicule précédemment immatriculé avec un usage véhicule en transit temporaire ou un usage véhicule importé en transit doit, pour obtenir une immatriculation dépourvue d'usage, fournir les pièces suivantes :
+Un véhicule précédemment immatriculé avec un usage "véhicule en transit temporaire", "véhicule importé en transit", "véhicule zone franche du pays de Gex" ou "véhicule zone franche de Haute-Savoie" obtient une immatriculation dépourvue d'usage sur présentation des pièces suivantes :
 
 a) Les pièces visées à l'article 1er du présent arrêté ;
 
-b) Un certificat 846A.
+b) Un certificat 846A délivré par le service des douanes.
 
 12.E. - Véhicule démuni de certificat d'immatriculation
 
@@ -108,9 +106,11 @@ c) Les justificatifs d'identité et d'adresse ;
 
 d) Les pièces prouvant l'origine de propriété du véhicule ainsi que, le cas échéant, un certificat de cession ;
 
-e) La preuve d'un contrôle technique.
+e) La preuve d'un contrôle technique ;
 
-12.F. - Cas des véhicules précédemment immatriculés dans les collectivités d'outre-mer de Saint-Martin, Saint-Barthélemy, Wallis et Futuna, Polynésie française et Nouvelle-Calédonie
+f) Un certificat 846 A délivré par le service des douanes pour les véhicules importés d'un pays tiers à l'Union européenne ou d'une partie de territoire mentionnée à l'article 4. 1 de l'annexe 1 du présent arrêté.
+
+12.F. - Cas des véhicules précédemment immatriculés dans les collectivités d'outre-mer de Saint-Martin, Saint-Barthélemy, Wallis et Futuna, Polynésie française , Mayotte, Saint-Pierre-et-Miquelon ou en Nouvelle-Calédonie
 
 Pour obtenir l'immatriculation de ces véhicules, les pièces à fournir sont les suivantes :
 
@@ -120,10 +120,14 @@ b) Les justificatifs d'identité et d'adresse ;
 
 c) Le certificat d'immatriculation ;
 
-d) Un certificat 846A ;
+d) Un certificat 846A délivré par le service des douanes ;
 
 e) S'il y a eu vente, le certificat de cession ou la facture ;
 
 f) La preuve d'un contrôle technique ;
 
 g) Un procès-verbal de RTI, s'il ne peut être produit une attestation de l'administration territoriale concernée précisant que le véhicule a été à l'origine immatriculé au vu d'un certificat de conformité national ou communautaire.
+
+12.G. - Cas des véhicules précédemment immatriculés dans un département d'outre-mer et importés en métropole ou dans un autre département d'outre-mer ; cas des véhicules précédemment immatriculés en métropole et importés dans un département d'outre-mer
+
+Ces territoires constituant des territoires fiscaux différents, l'obtention d'un nouveau certificat d'immatriculation ou d'une étiquette attestant du changement d'adresse est conditionnée à la délivrance d'un certificat 846 A par le service des douanes, sans préjudice des dispositions spécifiques au marché unique antillais.
