@@ -1,19 +1,13 @@
 # Article 5
 
-Pour chaque école préparatoire, le jury d'admission comprend :
+Un jury propre est constitué pour chaque école préparatoire.
 
-― le commandant du centre d'instruction naval d'implantation de l'école préparatoire concernée, président ;
+Chaque jury comprend :
 
-― le directeur de l'enseignement du centre d'instruction naval d'implantation de l'école préparatoire concernée ;
+- le chef du service de recrutement de la marine, ou son représentant, président du jury ;
 
-― le directeur de l'école préparatoire ;
+- un représentant du service de psychologie de la marine ;
 
-― le proviseur du centre d'instruction naval d'implantation de l'école préparatoire concernée ;
+- trois autres membres désignés par le ministre de la défense (directeur du personnel militaire de la marine), chargés d'examiner les dossiers des candidats.
 
-― un représentant du service de santé des armées, médecin ou psychologue ;
-
-― le chef du service de psychologie de la marine (SPM) ou son représentant ;
-
-― un représentant du commandant du service de recrutement de la marine (SRM).
-
-Les membres de chaque jury sont désignés par le directeur du personnel militaire de la marine.
+La nomination des membres du jury fait l'objet d'une décision du directeur du personnel militaire de la marine. Cette même décision peut désigner des examinateurs n'ayant pas voix délibérative, chargés d'assister le jury dans la sélection des candidats.

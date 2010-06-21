@@ -6,6 +6,4 @@ Ce concours comprend une phase de sélection qui consiste en l'évaluation des �
 
 ― la fiche de sélection et d'orientation SLPA ;
 
-― le dossier scolaire du candidat ;
-
-― l'avis du chef d'établissement d'origine du candidat (lorsque celui-ci est scolarisé au moment de sa candidature).
+― le dossier scolaire du candidat.
