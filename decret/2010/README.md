@@ -360,6 +360,7 @@
 - [Décret n°2010-535 du 20 mai 2010 (SASH1010571D)](decret-n2010-535-du-20-mai-2010-sash1010571d)
 - [Décret n°2010-536 du 20 mai 2010 (AGRT1008358D)](decret-n2010-536-du-20-mai-2010-agrt1008358d)
 - [Décret n°2010-1102 du 21 septembre 2010 (IOCC1015321D)](decret-n2010-1102-du-21-septembre-2010-iocc1015321d)
+- [Décret n°2010-677 du 21 juin 2010 (MTSF1007641D)](decret-n2010-677-du-21-juin-2010-mtsf1007641d)
 - [Décret n°2010-77 du 21 janvier 2010 (IOCC0923622D)](decret-n2010-77-du-21-janvier-2010-iocc0923622d)
 - [Décret n°2010-78 du 21 janvier 2010 (MTST1001197D)](decret-n2010-78-du-21-janvier-2010-mtst1001197d)
 - [Décret n°2010-81 du 21 janvier 2010 (ECEP0928847D)](decret-n2010-81-du-21-janvier-2010-ecep0928847d)
