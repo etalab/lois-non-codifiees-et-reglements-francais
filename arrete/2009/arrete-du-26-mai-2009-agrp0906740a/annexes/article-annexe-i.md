@@ -96,7 +96,7 @@ A partir de la campagne 2009-2010, les montants d'aide maximum par type d'action
 </tr>
 <tr>
 <td align="center">
-<p align="left">1. Plantation par utilisation de droits nés d'un arrachage sur l'exploitation postérieur au 31 juillet 2008 (1) (participation aux coûts d'arrachage compris) </p>
+<p align="left">1. Plantation par utilisation de droits nés d'un arrachage sur l'exploitation postérieur au 31 juillet 2008 (1) et effectué hors plan collectif local(participation aux coûts d'arrachage compris) </p>
 </td>
 <td align="center">
 <p align="center">9 100 </p>
@@ -104,7 +104,7 @@ A partir de la campagne 2009-2010, les montants d'aide maximum par type d'action
 </tr>
 <tr>
 <td align="center">
-<p align="left">2. Plantation par utilisation de droits nés d'un arrachage sur l'exploitation antérieur au 1er août 2008 (1), ou de droits provenant de transfert ou de la réserve, ou de droits de replantation anticipée </p>
+<p align="left">2. Plantation par utilisation de droits nés d'un arrachage sur l'exploitation antérieur au 1er août 2008 (1), ou de droits provenant de transfert ou de la réserve, ou de droits de replantation anticipée ou de droits nés d'un arrachage sur l'exploitation postérieur au 31 juillet 2008 (1) et effectué au titre d'un plan collectif local terminé.</p>
 </td>
 <td align="center">
 <p align="center">8 500 </p>

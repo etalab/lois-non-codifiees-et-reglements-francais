@@ -14,16 +14,16 @@ Le calcul de la minoration s'effectue sur la base du taux moyen à l'hectare du 
 
 En cas de versement par avance, le calcul de la minoration s'effectue après application des dispositions spécifiques aux avances prévues par le règlement (CEE) n° 2220 / 85.
 
-2. En application des dispositions de l'article 98 du règlement (CE) n° 555 / 2008 susvisé, lorsqu'il est constaté, à l'issue des contrôles physiques et administratifs visés à l'article 12 du présent arrêté, que la superficie totale arrachée agréée d'un plan collectif local, tel que visé à l'article 8 du présent arrêté, est supérieure à la superficie totale éligible effectivement replantée, pour l'ensemble du plan, l'aide finale due est minorée du montant correspondant à l'écart de superficie entre la superficie totale arrachée agréée et la superficie totale replantée éligible multipliée par le taux moyen à l'hectare de l'aide versée pour les actions d'arrachage.
+2. Lorsqu'il est constaté à l'issue des contrôles physiques et administratifs visés à l'article 12 du présent arrêté que la superficie totale arrachée validée d'un plan collectif local, tel que visé à l'article 8 du présent arrêté, est supérieure à la superficie totale éligible effectivement replantée, pour l'ensemble du plan, l'aide excédentaire est reversée.
 
-Après application de la réduction mentionnée au paragraphe précédent, l'aide finale due est ensuite minorée :
+Son montant correspond à l'écart de superficie multiplié par le taux moyen à l'hectare de l'aide versée pour les actions d'arrachage, y compris l'indemnité de perte de recettes liée à l'arrachage.
 
-- de 5 % si la superficie totale replantée éligible est supérieure ou égale à 70 % mais inférieure à 80 % de la superficie totale arrachée agréée ;
+En application des dispositions de l'article 98 du règlement (CE) n° 555 / 2008 susvisé, le reversement est majoré d'une sanction égale :
 
-- de 10 % si la superficie totale replantée éligible est supérieure ou égale à 60 % mais inférieure à 70 % de la superficie totale arrachée agréée ;
+- à 5 % des aides correspondant aux engagements non réalisés, si la superficie totale replantée éligible est supérieure ou égale à 70 % mais inférieure à 80 % de la superficie totale arrachée validée ;
 
-- de 50 % si la superficie totale replantée éligible est inférieure à 60 % de la superficie totale arrachée agréée.
+- à 10 % des aides correspondant aux engagements non réalisés, si la superficie totale replantée éligible est supérieure ou égale à 60 % mais inférieure à 70 % de la superficie totale arrachée validée ;
 
-Le calcul de la minoration s'effectue sur la base du taux moyen à l'hectare pour l'ensemble des actions de replantation du plan.
+- à 50 % des aides correspondant aux engagements non réalisés, si la superficie totale replantée éligible est inférieure à 60 % de la superficie totale arrachée validée.
 
-La garantie collective ou les garanties individuelles constituées pour le versement des aides sont libérées après exécution des reversements correspondant à l'application des minorations prévues au présent article.A défaut de reversement par la structure collective en charge de la mise en œuvre du plan, la garantie collective ou les garanties des exploitants viticoles qui n'auraient pas respecté leur engagement de replantation restent acquises au prorata du montant à reverser.
+Au sens de l'article 8, point 5, du présent arrêté, les exploitants concernés par les demandes de reversement sont ceux qui n'ont pas respecté leur engagement de plantation, au prorata des surfaces pour lesquelles ils ne l'ont pas respecté et pour lesquelles la structure collective ne les a pas formellement remplacés par un autre exploitant.

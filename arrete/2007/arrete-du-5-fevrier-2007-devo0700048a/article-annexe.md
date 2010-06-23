@@ -30,7 +30,7 @@ Elle est consultée sur les mesures réglementaires concernant la pêche de lois
 
 La Fédération nationale de la pêche et de la protection du milieu aquatique s'organise pour l'exercice de ses missions :
 
-Elle assure la péréquation entre les fédérations départementales et interdépartementales des associations agréées de pêche et de protection du milieu aquatique, en fonction de leurs ressources, de leurs charges et de leurs activités de service public. Elle peut soutenir les actions des associations pour les poissons migrateurs participant de son objet.
+Elle assure la péréquation entre les fédérations départementales et interdépartementales des associations agréées de pêche et de protection du milieu aquatique, en fonction de leurs ressources, de leurs charges et de leurs activités de service public. Elle peut soutenir les actions des associations pour les poissons migrateurs participant de son objet et les unions régionales de FDAAPPMA.
 
 Elle participe à la protection et à la gestion durable du milieu aquatique et contribue notamment financièrement à des actions de gestion équilibrée, de protection et de surveillance du patrimoine piscicole, ainsi qu'à des actions de formation, de promotion et d'éducation à l'environnement.
 
@@ -70,7 +70,7 @@ Article 5
 
 La Fédération nationale de la pêche et de la protection du milieu aquatique est administrée par un conseil d'administration comprenant trente-cinq membres.
 
-Trente-quatre membres sont élus, parmi les présidents des fédérations départementales et interdépartementales des associations agréées de pêche et de protection du milieu aquatique, par leur circonscription électorale à raison de : cinq membres pour la circonscription électorale Nord - Pas-de-Calais, Picardie, Haute-Normandie, Ile-de-France, de cinq membres pour la circonscription électorale Basse-Normandie, Bretagne, Pays de la Loire, de trois membres pour la circonscription électorale Centre, Poitou-Charentes, de trois membres pour la circonscription électorale Champagne-Ardenne, Alsace, Lorraine, de trois membres pour la circonscription électorale Limousin, Auvergne, de cinq membres pour la circonscription électorale Midi-Pyrénées, Aquitaine, de quatre membres pour la circonscription électorale Provence-Alpes-Côte d'Azur, Languedoc-Roussillon, Corse, Réunion, de trois membres pour la circonscription électorale Rhône-Alpes et de trois membres pour la circonscription électorale Bourgogne, Franche-Comté.
+Trente-quatre membres sont élus, parmi les membres des bureaux des fédérations départementales et interdépartementales des associations agréées de pêche et de protection du milieu aquatique, par leur circonscription électorale à raison de : cinq membres pour la circonscription électorale Nord - Pas-de-Calais, Picardie, Haute-Normandie, Ile-de-France, de cinq membres pour la circonscription électorale Basse-Normandie, Bretagne, Pays de la Loire, de trois membres pour la circonscription électorale Centre, Poitou-Charentes, de trois membres pour la circonscription électorale Champagne-Ardenne, Alsace, Lorraine, de trois membres pour la circonscription électorale Limousin, Auvergne, de cinq membres pour la circonscription électorale Midi-Pyrénées, Aquitaine, de quatre membres pour la circonscription électorale Provence-Alpes-Côte d'Azur, Languedoc-Roussillon, Corse, Réunion, de trois membres pour la circonscription électorale Rhône-Alpes et de trois membres pour la circonscription électorale Bourgogne, Franche-Comté.
 
 Elle comprend également un membre représentant des pêcheurs amateurs aux engins et aux filets sur les eaux du domaine public élu par un collège formé par les présidents des associations départementales agréées de pêcheurs amateurs aux engins et aux filets sur les eaux du domaine public.
 
@@ -104,19 +104,19 @@ En cas de vacance d'un poste d'administrateur, les présidents des fédérations
 
 Le mandat de l'administrateur remplaçant prend fin à la date à laquelle devait normalement expirer le mandat du membre remplacé.
 
-5. Conditions requises pour être candidat
+5. Conditions requises pour être administrateur
 
-Ne peut être candidat au conseil d'administration :
+Peut être administrateur tout membre du bureau d'une fédération départementale ou interdépartementale des associations agréées de pêche et de protection du milieu aquatique ou d'une association départementale agréée de pêcheurs amateurs aux engins et aux filets sur les eaux du domaine public :
 
-1° Toute personne qui n'a pas la qualité de président d'une fédération départementale ou interdépartementale des associations agréées de pêche et de protection du milieu aquatique ou d'une association départementale agréée de pêcheurs amateurs aux engins et aux filets sur les eaux du domaine public ;
+1° Dont la candidature a été approuvée par son conseil d'administration ;
 
-2° Toute personne étant ou ayant fait partie depuis moins de trois ans du personnel salarié de la Fédération nationale de la pêche et de la protection du milieu aquatique ;
+2° Qui ne fait pas ou qui n'a pas fait partie depuis moins de trois ans du personnel salarié de la Fédération nationale de la pêche et de la protection du milieu aquatique ;
 
-3° Toute personne exerçant de façon habituelle, directement ou indirectement, une activité commerciale avec la Fédération nationale de la pêche et de la protection du milieu aquatique ;
+3° Qui n'exerce pas de façon habituelle, directement ou indirectement, une activité commerciale avec la Fédération nationale de la pêche et de la protection du milieu aquatique ;
 
-4° Toute personne ayant été condamnée depuis moins de cinq ans pour une contravention de la cinquième classe ou pour un délit à raison d'infraction aux dispositions réglementaires ou législatives relatives à la pêche ou à la protection de la nature.
+4° Qui n'a pas été condamné depuis moins de cinq ans pour une contravention de la cinquième classe ou pour un délit à raison d'infraction aux dispositions réglementaires ou législatives relatives à la pêche ou à la protection de la nature.
 
-Tout administrateur qui remplit une des conditions citées plus haut est réputé démissionnaire. Est également réputé démissionnaire tout administrateur faisant directement ou indirectement acte de commerce avec la Fédération nationale de la pêche et de la protection du milieu aquatique ou condamné pour une contravention de la cinquième classe ou un délit à raison d'infraction aux dispositions réglementaires ou législatives relatives à la pêche ou à la protection de la nature. Il ne pourra en outre être candidat au conseil d'administration dans les trois ans qui suivront la date effective de la démission.
+Tout administrateur qui ne remplit pas une des conditions citées plus haut est réputé démissionnaire. Est également réputé démissionnaire tout administrateur faisant directement ou indirectement acte de commerce avec la Fédération nationale de la pêche et de la protection du milieu aquatique ou condamné pour une contravention de la cinquième classe ou un délit à raison d'infraction aux dispositions réglementaires ou législatives relatives à la pêche ou à la protection de la nature. Il ne pourra en outre être candidat au conseil d'administration dans les trois ans qui suivront la date effective de la démission.
 
 Tout administrateur qui, sans excuse valable, n'assiste à aucune réunion du conseil pendant un an est considéré comme démissionnaire.
 
@@ -168,7 +168,7 @@ Les délibérations sont prises à la majorité des membres présents ou représ
 
 Les décisions relatives à la pêche amateur aux engins et aux filets sont prises, après avis de la commission spécialisée créée au sein de la Fédération nationale de la pêche et de la protection du milieu aquatique composée majoritairement des cinq représentants des pêcheurs amateurs aux engins et aux filets sur les eaux du domaine public, membres de l'assemblée générale de la fédération nationale, et de quatre présidents de fédérations départementales ou interdépartementales des associations agréées de pêche et de protection du milieu aquatique désignés par le conseil d'administration de la fédération nationale.
 
-Le conseil d'administration définit les principales orientations de la fédération nationale. Il vote le projet de budget de l'exercice suivant et arrête les comptes de l'exercice écoulé avant le 30 avril. Le commissaire aux comptes titulaire est convoqué quinze jours au moins avant la date fixée par lettre recommandée avec accusé de réception.
+Le conseil d'administration définit les principales orientations de la fédération nationale. Il vote le projet de budget de l'exercice suivant et arrête les comptes de l'exercice écoulé avant le 15 mai. Le commissaire aux comptes titulaire est convoqué quinze jours au moins avant la date fixée par lettre recommandée avec accusé de réception.
 
 Le conseil d'administration délibère sur toutes les questions et prend toutes décisions, hormis celles relevant expressément de la compétence de l'assemblée générale, telles qu'elles sont prévues à l'article 10 des présents statuts. Le conseil d'administration décide de la création des postes et emplois salariés à pourvoir ainsi que de leur suppression éventuelle.
 
@@ -270,7 +270,7 @@ Article 11
 
 L'assemblée générale comprend :
 
-- les présidents de toutes les fédérations départementales et interdépartementales des associations agréées de pêche et de protection du milieu aquatique adhérentes, à jour de leur cotisation à la date de la réunion ;
+- les présidents de toutes les fédérations départementales et interdépartementales des associations agréées de pêche et de protection du milieu aquatique adhérentes, à jour de leur cotisation à la date de la réunion, ainsi que les membres du conseil d'administration de la FNPF non présidents de fédérations départementales et interdépartementales des associations agréées de pêche et de protection du milieu aquatique ;
 
 - cinq représentants des associations départementales agréées de pêcheurs amateurs aux engins et aux filets sur les eaux du domaine public élus par un collège formé par les présidents des associations départementales agréées des pêcheurs amateurs aux engins et aux filets sur les eaux du domaine public y compris leur représentant au conseil d'administration mentionné à l'article 5 du présent statut.
 
