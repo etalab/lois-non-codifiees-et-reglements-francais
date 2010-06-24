@@ -12,4 +12,6 @@ Pour l'exercice de ses attributions, telles que définies à l'article 10 de l'a
 
 5. La cellule juridique ;
 
-6. La délégation au patrimoine de l'armée de terre.
+6. La délégation au patrimoine de l'armée de terre ;
+
+7. Le bureau stationnement infrastructure.

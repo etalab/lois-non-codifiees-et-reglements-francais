@@ -20,7 +20,9 @@ Le sous-chef d'état-major performance et synthèse :
 
 9. Supervise le traitement des affaires juridiques ;
 
-10. Anime la politique de conservation du patrimoine historique et la politique culturelle et des musées de l'armée de terre.
+10. Anime la politique de conservation du patrimoine historique et la politique culturelle et des musées de l'armée de terre ;
+
+11. Participe à la définition des programmes d'infrastructure de l'armée de terre et s'assure de leur réalisation en liaison avec le secrétariat général pour l'administration ; il élabore et met à jour les plans de stationnement.
 
 Il est assisté d'un adjoint.
 
