@@ -12,7 +12,7 @@ Le maire de Bourges ou son représentant ;
 
 Un représentant du ministre de la défense ;
 
-Le directeur régional de l'industrie et de la recherche et de l'environnement ou son représentant ;
+Le directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi ou son représentant ; ;
 
 Le président de l'université d'Orléans ou son représentant ;
 

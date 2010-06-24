@@ -18,4 +18,4 @@ Un représentant des ingénieurs et des personnels techniques ;
 
 Un représentant des élèves ingénieurs de dernière année et des étudiants de niveau égal ou supérieur au master.
 
-Le directeur de l'école, le directeur de la recherche et le directeur des études assistent aux séances avec voix consultative.
+Le directeur de la recherche et le directeur des études assistent aux séances avec voix consultative.
