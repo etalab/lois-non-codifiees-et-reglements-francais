@@ -347,7 +347,6 @@
 - [Arrêté du 19 janvier 2001 (ECOD0070037A)](arrete-du-19-janvier-2001-ecod0070037a)
 - [Arrêté du 19 juillet 2001 (AGRA0101448A)](arrete-du-19-juillet-2001-agra0101448a)
 - [Arrêté du 19 juillet 2001 (MESH0122689A)](arrete-du-19-juillet-2001-mesh0122689a)
-- [Arrêté du 19 juillet 2001 (PRMX0104982A)](arrete-du-19-juillet-2001-prmx0104982a)
 - [Arrêté du 19 mars 2001 (ECOD0170005A)](arrete-du-19-mars-2001-ecod0170005a)
 - [Arrêté du 19 novembre 2001 (AGRG0102263A)](arrete-du-19-novembre-2001-agrg0102263a)
 - [Arrêté du 19 novembre 2001 (EQUU0100847A)](arrete-du-19-novembre-2001-equu0100847a)
