@@ -1,0 +1,3 @@
+# Article 2
+
+Les informations contenues dans les produits informationnels visés à l'article 1er sont communiquées par l'INSEE dans le cadre d'une licence d'usage final. Le bénéficiaire ne peut utiliser ces informations que pour ses besoins propres, internes à l'entité juridique qu'il représente ; il ne peut donc, en particulier, les mettre à la disposition d'un tiers, gratuitement ou contre paiement, sous quelque forme que ce soit et selon quelque modalité que ce soit, sans la signature préalable d'une convention particulière avec l'INSEE, ainsi qu'il est prévu aux articles A. 123-92 et A. 123-93 du code de commerce.
