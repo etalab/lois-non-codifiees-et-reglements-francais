@@ -287,7 +287,6 @@
 - [Arrêté du 5 juin 2009 (AGRG0912936A)](arrete-du-5-juin-2009-agrg0912936a)
 - [Arrêté du 5 juin 2009 (AGRM0912813A)](arrete-du-5-juin-2009-agrm0912813a)
 - [Arrêté du 5 juin 2009 (AGRS0913054A)](arrete-du-5-juin-2009-agrs0913054a)
-- [Arrêté du 5 juin 2009 (BCFD0913199A)](arrete-du-5-juin-2009-bcfd0913199a)
 - [Arrêté du 5 juin 2009 (DEFD0913906A)](arrete-du-5-juin-2009-defd0913906a)
 - [Arrêté du 5 juin 2009 (DEFD0913917A)](arrete-du-5-juin-2009-defd0913917a)
 - [Arrêté du 5 juin 2009 (DEFD0913927A)](arrete-du-5-juin-2009-defd0913927a)
