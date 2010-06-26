@@ -17,7 +17,8 @@ Concours A : mars 2010
 </th>
 </tr>
 <tr>
-<td align="center">
+<td align="center" rowspan="3">
+<br/>Médecins des armées<br/>
 <br/>
 </td>
 <td align="center">Gynécologie obstétrique<br/>
@@ -26,17 +27,12 @@ Concours A : mars 2010
 </td>
 </tr>
 <tr>
-<td align="center">Médecins des armées<br/>
-</td>
 <td align="center">Psychiatrie<br/>
 </td>
 <td align="center">1<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-</td>
 <td align="center">Santé publique et médecine sociale<br/>
 </td>
 <td align="center">1<br/>
@@ -58,7 +54,15 @@ Concours B : juin 2010
 </th>
 </tr>
 <tr>
-<td align="center">
+<td align="center" rowspan="10">
+<br/>
+<br/>
+<br/>
+<br/>Médecins des armées<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 </td>
 <td align="center">Anatomie et cytologie pathologiques<br/>
@@ -67,83 +71,97 @@ Concours B : juin 2010
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-</td>
 <td align="center">Anesthésie-réanimation<br/>
 </td>
 <td align="center">3<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-</td>
 <td align="center">Cardiologie et maladies vasculaires<br/>
 </td>
 <td align="center">2<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-</td>
 <td align="center">Chirurgie maxillo-faciale et stomatologie<br/>
 </td>
 <td align="center">1<br/>
 </td>
 </tr>
 <tr>
-<td align="center">Médecins des armées<br/>
-</td>
 <td align="center">Chirurgie orthopédique et traumatologie<br/>
 </td>
 <td align="center">1<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-</td>
 <td align="center">Gastro-entérologie et hépatologie<br/>
 </td>
 <td align="center">5<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-</td>
 <td align="center">Médecine interne<br/>
 </td>
 <td align="center">1<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-</td>
 <td align="center">Neurologie<br/>
 </td>
 <td align="center">1<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-</td>
 <td align="center">Ophtalmologie<br/>
 </td>
 <td align="center">1<br/>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>
-</td>
 <td align="center">Radiodiagnostic et imagerie médicale<br/>
 </td>
 <td align="center">1<br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+Concours C : septembre 2010
+
+<table>
+<tbody>
+<tr>
+<th>
+<br/>CORPS<br/>
+</th>
+<th>
+<br/>DISCIPLINES<br/>
+</th>
+<th>
+<br/>NOMBRE DE POSTES<br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Médecins des armées<br/>
+</td>
+<td align="center">
+<br/>Radiodiagnostic et imagerie médicale<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Pharmacien des armées<br/>
+</td>
+<td align="center">
+<br/>Biologie clinique<br/>
+</td>
+<td align="center">
+<br/>1<br/>
 </td>
 </tr>
 </tbody>
