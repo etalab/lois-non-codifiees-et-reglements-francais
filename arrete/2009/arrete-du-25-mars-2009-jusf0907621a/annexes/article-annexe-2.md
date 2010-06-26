@@ -3,18 +3,30 @@
 <table>
 <tbody>
 <tr>
-<th rowspan="2">DIRECTIONS TERRITORIALES <p>de la protection judiciaire de la jeunesse<br/>
+<th rowspan="2">
+<font size="1">DIRECTIONS TERRITORIALES </font>
+<p>
+<font size="1">de la protection judiciaire de la jeunesse<br/>
+</font>
 </p>
 </th>
-<th rowspan="2">ORGANISATIONS SYNDICALES<br/>
+<th rowspan="2">
+<font size="1">ORGANISATIONS SYNDICALES<br/>
+</font>
 </th>
-<th colspan="2">NOMBRE DE SIÈGES<br/>
+<th colspan="2">
+<font size="1">NOMBRE DE SIÈGES<br/>
+</font>
 </th>
 </tr>
 <tr>
-<th>Titulaires<br/>
+<th>
+<font size="1">Titulaires<br/>
+</font>
 </th>
-<th>Suppléants<br/>
+<th>
+<font size="1">Suppléants<br/>
+</font>
 </th>
 </tr>
 <tr>
@@ -1272,7 +1284,7 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Loire-Atlantique</p>
+<p align="left">Loire-Atlantique-Vendée</p>
 </td>
 <td align="center">
 <p align="left">CGT-PJJ<br/>
@@ -1298,12 +1310,10 @@
 </p>
 </td>
 <td align="center">
-<p align="left">3<br/>
-</p>
+<p align="left">4</p>
 </td>
 <td align="center">
-<p align="left">3<br/>
-</p>
+<p align="left">4</p>
 </td>
 </tr>
 <tr>
@@ -1363,19 +1373,32 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Maine-et-Loire</p>
+<p align="left">Maine-et-Loire-Sarthe-Mayenne</p>
 </td>
 <td align="center">
+<p align="left">CGT - PJJ</p>
+</td>
+<td align="center">
+<p align="left">1<br/>
+</p>
+</td>
+<td align="center">
+<p align="left">1</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td>
 <p align="left">SNPES-PJJ/FSU<br/>
 </p>
 </td>
-<td align="center">
-<p align="left">3<br/>
-</p>
+<td>
+<p align="left">3 </p>
 </td>
-<td align="center">
-<p align="left">3<br/>
-</p>
+<td>
+<p align="left">3</p>
 </td>
 </tr>
 <tr>
@@ -1389,12 +1412,24 @@
 </p>
 </td>
 <td align="center">
-<p align="left">2<br/>
-</p>
+<p align="left">1</p>
 </td>
 <td align="center">
-<p align="left">2<br/>
-</p>
+<p align="left">1</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td>
+<p align="left">FO-PJJ</p>
+</td>
+<td>
+<p align="left">1</p>
+</td>
+<td>
+<p align="left">1</p>
 </td>
 </tr>
 <tr>
@@ -1500,61 +1535,6 @@
 </td>
 <td align="center">
 <p align="left">4<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">UNSA-SPJJ<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">1<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">1<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Mayenne</p>
-</td>
-<td align="center">
-<p align="left">CGT-PJJ<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">2<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">2<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">SNPES-PJJ/FSU<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">2<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">2<br/>
 </p>
 </td>
 </tr>
@@ -2369,73 +2349,6 @@
 </tr>
 <tr>
 <td align="center">
-<p align="left">Sarthe - Mayenne</p>
-</td>
-<td align="center">
-<p align="left">CGT-PJJ</p>
-</td>
-<td align="center">
-<p align="left">1 </p>
-</td>
-<td align="center">
-<p align="left">1</p>
-</td>
-</tr>
-<tr>
-<td>
-<br/>
-</td>
-<td>
-<p align="left">SN-FO-PJJ<br/>
-</p>
-</td>
-<td>
-<p align="left">1</p>
-</td>
-<td>
-<p align="left">1</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">SNPES-PJJ/FSU<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">3<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">3<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">UNSA-SPJJ<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">1<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">1<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
 <p align="left">Savoie (Haute)</p>
 </td>
 <td align="center">
@@ -2852,23 +2765,6 @@
 </td>
 <td align="center">
 <p align="left">UNSA-SPJJ<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">3<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">3<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Vendée</p>
-</td>
-<td align="center">
-<p align="left">SNPES-PJJ/FSU<br/>
 </p>
 </td>
 <td align="center">
