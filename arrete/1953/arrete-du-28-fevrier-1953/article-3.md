@@ -5,90 +5,109 @@ La composition de la commission administrative paritaire du corps de l'inspectio
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center">GRADE REPRÉSENTÉ</p>
+<th>
+<br/>
+<font size="1">GRADES REPRÉSENTÉS<br/>
+</font>
+</th>
+<th colspan="4">
+<br/>
+<font size="1">NOMBRE DE REPRÉSENTANTS<br/>
+</font>
+</th>
+</tr>
+<tr>
+<th>
+<font size="1"/>
+</th>
+<th colspan="2">
+<br/>
+<font size="1">Du personnel<br/>
+</font>
+</th>
+<th colspan="2">
+<br/>
+<font size="1">De l'administration<br/>
+</font>
+</th>
+</tr>
+<tr>
+<th>
+<font size="1"/>
+</th>
+<th>
+<br/>
+<font size="1">Titulaires<br/>
+</font>
+</th>
+<th>
+<br/>
+<font size="1">Suppléants<br/>
+</font>
+</th>
+<th>
+<br/>
+<font size="1">Titulaires<br/>
+</font>
+</th>
+<th>
+<br/>
+<font size="1">Suppléants</font>
+<br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Inspecteurs généraux<br/>
 </td>
-<td colspan="4">
-<p align="center">NOMBRES DE REPRÉSENTANTS</p>
+<td align="center">
+<br/>2<br/>
+</td>
+<td align="center">
+<br/>2<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
 </td>
 </tr>
 <tr>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>Inspecteurs de 1re classe<br/>
 </td>
-<td colspan="2">
-<p align="center">Du personnel</p>
+<td align="center">
+<br/>2<br/>
 </td>
-<td colspan="2">
-<p align="center">De l'administration</p>
+<td align="center">
+<br/>2<br/>
 </td>
-</tr>
-<tr>
-<td>
-<pre> </pre>
+<td align="center">
+<br/>5<br/>
 </td>
-<td>
-<p align="center">Titulaires</p>
-</td>
-<td>
-<p align="center">Suppléants</p>
-</td>
-<td>
-<p align="center">Titulaires</p>
-</td>
-<td>
-<p align="center">Suppléants</p>
+<td align="center">
+<br/>5<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Inspecteurs généraux</p>
+<td align="center">
+<br/>Inspecteurs de 2e classe<br/>
 </td>
-<td>
-<p align="center">2</p>
+<td align="center">
+<br/>1<br/>
 </td>
-<td>
-<p align="center">2</p>
+<td align="center">
+<br/>1</td>
+<td align="center">
+<br/>
+<br/>
 </td>
-<td>
-<pre> </pre>
-</td>
-<td>
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td>
-<p>Inspecteurs de 1re classe</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">4</p>
-</td>
-<td>
-<p align="center">4</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2">
-<p>Inspecteurs de 2e classe</p>
-</td>
-<td rowspan="2">
-<p align="center">1</p>
-</td>
-<td rowspan="2">
-<p align="center">1</p>
-</td>
-<td rowspan="2">
-<pre> </pre>
-</td>
-<td rowspan="2">
-<pre> </pre>
+<td align="center">
+<br/>
+<br/>
 </td>
 </tr>
 </tbody>
