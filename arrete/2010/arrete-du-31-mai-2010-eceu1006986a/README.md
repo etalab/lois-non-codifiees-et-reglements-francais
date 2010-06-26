@@ -1,4 +1,4 @@
-# Arrêté du 11 juin 2009 portant définition et fixant les conditions de délivrance du brevet de technicien supérieur « communication »
+# Arrêté du 31 mai 2010 fixant les modalités spéciales d'exercice du contrôle économique et financier de l'Etat sur l'Agence de l'environnement et de la maîtrise de l'énergie
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -9,5 +9,3 @@
 - [Article 7](article-7.md)
 - [Article 8](article-8.md)
 - [Article 9](article-9.md)
-- [Article 10](article-10.md)
-- [Annexes](annexes)
