@@ -1,6 +1,6 @@
 # Article 5
 
-Les candidats aux concours doivent justifier, au plus tard à la date de clôture des registres d'inscription, des attestations ci-après :
+Les candidats aux concours doivent justifier,            à la date de publication des résultats d'admissibilité, des attestations ci-après :
 
 1 Une attestation certifiant que le candidat a réalisé un parcours d'au moins 50 mètres dans une piscine placée sous la responsabilité d'un service public, établie soit par un service universitaire (STAPS, service commun des APS), soit par une autorité d'un service public territorial des activités physiques et sportives (piscine municipale), soit par une autre autorité publique habilitée à assurer une formation dans le domaine de la natation. Sont également admises les attestations certifiant une compétence en natation d'un parcours d'au moins 50 mètres, délivrées par une autorité compétente d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'espace économique européen autre que la France ;
 
