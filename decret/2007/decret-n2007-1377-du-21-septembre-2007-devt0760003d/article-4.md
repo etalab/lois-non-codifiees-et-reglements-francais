@@ -1,6 +1,6 @@
 # Article 4
 
-Nul ne peut exercer, à bord des navires de pêche ou de cultures marines, les fonctions de capitaine, second capitaine, officier chargé du quart à la passerelle, chef mécanicien, second mécanicien ou officier chargé du quart à la machine, s'il ne possède les titres correspondant aux fonctions mentionnées :
+Nul ne peut exercer, à bord des navires de pêche, les fonctions de capitaine, second capitaine, officier chargé du quart à la passerelle, chef mécanicien, second mécanicien ou officier chargé du quart à la machine, s'il ne possède les titres correspondant aux fonctions mentionnées :
 
 1. Dans les tableaux I, II et III du présent article ;
 
@@ -714,35 +714,6 @@ La puissance propulsive des navires mentionnés dans le présent tableau est dé
 </td>
 <td valign="top" width="66">
 <p>Brevet de chef mécanicien 15000 kW pêche</p>
-</td>
-</tr>
-</tbody>
-</table>
-
-Tableau III - TITRES PERMETTANT D'EXERCER DES FONCTIONS AU PONT SUR DES NAVIRES CONCHYLICOLES
-
-<table>
-<tbody>
-<tr>
-<td valign="top" width="318">
-<p align="right">Fonction</p>
-</td>
-<td valign="top" width="318">
-<p>Navires conchylicoles d'une jauge brute égale ou inférieure à 10 tonneaux utilisés à des activités exclusivement conchylicoles.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="318">
-<p>Brevet</p>
-</td>
-<td valign="top" width="318"/>
-</tr>
-<tr>
-<td valign="top" width="318">
-<p>Certificat d'aptitude à la conduite des moteurs des navires conchylicoles.</p>
-</td>
-<td valign="top" width="318">
-<p align="center">X</p>
 </td>
 </tr>
 </tbody>

@@ -9,783 +9,1024 @@ Navires de commerce et navires de plaisance armés avec un rôle d'équipage
 <table>
 <tbody>
 <tr>
-<td width="79">
+<td width="46">
 <br/>
 </td>
-<td colspan="3" width="126">
+<td colspan="3" width="128">
 <p align="center">Navires d'une puissance propulsive inférieure à 250 kW</p>
 </td>
-<td colspan="3" width="124">
+<td colspan="3" width="128">
 <p align="center">Navires d'une puissance propulsive supérieure ou égale à 250 kW et inférieure à 750 kW</p>
 </td>
-<td colspan="3" width="125">
+<td colspan="3" width="128">
 <p align="center">Navires d'une puissance propulsive supérieure ou égale à 750 kW et inférieure à 3000 kW</p>
 </td>
-<td colspan="3" width="107">
-<p align="center">Navires d'une puissance propulsive supérieure ou égale à 3000 kW et inférieure à 15000 k W</p>
+<td colspan="3" width="128">
+<p align="center">Navires d'une puissance propulsive supérieure ou égale à 3000 kW et inférieure à 8000 k W</p>
 </td>
-<td colspan="3" width="121">
+<td colspan="3" width="128">
+<p align="center">Navires d'une puissance propulsive supérieure ou égale à 8000 kW et inférieure à 15000 k W</p>
+</td>
+<td colspan="3" width="128">
 <p align="center">Tous navires</p>
 </td>
 </tr>
 <tr>
-<td width="79">
-<p align="center">Fonction</p>
+<td valign="top" width="46">
+<p>Fonction Brevet</p>
 </td>
-<td rowspan="2" width="43">
+<td width="36">
 <p align="center">Officier chargé du quart à la machine</p>
 </td>
-<td rowspan="2" width="42">
+<td width="46">
 <p align="center">Second mécanicien</p>
 </td>
-<td rowspan="2" width="41">
+<td width="46">
 <p align="center">Chef mécanicien</p>
 </td>
-<td rowspan="2" width="35">
+<td width="36">
 <p align="center">Officier chargé du quart à la machine</p>
 </td>
-<td rowspan="2" width="45">
+<td width="46">
 <p align="center">Second mécanicien</p>
 </td>
-<td rowspan="2" width="44">
+<td width="46">
 <p align="center">Chef mécanicien</p>
 </td>
-<td rowspan="2" width="39">
+<td width="36">
 <p align="center">Officier chargé du quart à la machine</p>
 </td>
-<td rowspan="2" width="43">
+<td width="46">
 <p align="center">Second mécanicien</p>
 </td>
-<td rowspan="2" width="42">
+<td width="46">
 <p align="center">Chef mécanicien</p>
 </td>
-<td rowspan="2" width="38">
+<td width="36">
 <p align="center">Officier chargé du quart à la machine</p>
 </td>
-<td rowspan="2" width="35">
+<td width="46">
 <p align="center">Second mécanicien</p>
 </td>
-<td rowspan="2" width="33">
+<td width="46">
 <p align="center">Chef mécanicien</p>
 </td>
-<td rowspan="2" width="36">
+<td width="36">
 <p align="center">Officier chargé du quart à la machine</p>
 </td>
-<td rowspan="2" width="42">
+<td width="46">
 <p align="center">Second mécanicien</p>
 </td>
-<td rowspan="2" width="43">
+<td width="46">
+<p align="center">Chef mécanicien</p>
+</td>
+<td width="36">
+<p align="center">Officier chargé du quart à la machine</p>
+</td>
+<td width="46">
+<p align="center">Second mécanicien</p>
+</td>
+<td width="46">
 <p align="center">Chef mécanicien</p>
 </td>
 </tr>
 <tr>
-<td width="79">
-<p align="center">Brevet</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="79">
+<td valign="top" width="46">
 <p>Permis de conduire les moteurs marins</p>
 </td>
-<td width="43">
+<td valign="top" width="36">
 <p align="center">X</p>
 </td>
-<td width="42">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="41">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="35">
+<td valign="top" width="36">
 <br/>
 </td>
-<td width="45">
+<td valign="top" width="46">
 <br/>
 </td>
-<td width="44">
+<td valign="top" width="46">
 <br/>
 </td>
-<td width="39">
+<td valign="top" width="36">
 <br/>
 </td>
-<td width="43">
+<td valign="top" width="46">
 <br/>
 </td>
-<td width="42">
+<td valign="top" width="46">
 <br/>
 </td>
-<td width="38">
+<td valign="top" width="36">
 <br/>
 </td>
-<td width="35">
+<td valign="top" width="46">
 <br/>
 </td>
-<td width="33">
+<td valign="top" width="46">
 <br/>
 </td>
-<td width="36">
+<td valign="top" width="36">
 <br/>
 </td>
-<td width="42">
+<td valign="top" width="46">
 <br/>
 </td>
-<td width="43">
+<td valign="top" width="46">
+<br/>
+</td>
+<td valign="top" width="36">
+<br/>
+</td>
+<td valign="top" width="46">
+<br/>
+</td>
+<td valign="top" width="46">
 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="79">
+<td valign="top" width="46">
 <p>Brevet de capitaine 200 (l)</p>
 </td>
-<td width="43">
+<td valign="top" width="36">
 <p align="center">X</p>
 </td>
-<td width="42">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="41">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="35">
+<td valign="top" width="36">
 <br/>
 </td>
-<td width="45">
+<td valign="top" width="46">
 <br/>
 </td>
-<td width="44">
+<td valign="top" width="46">
 <br/>
 </td>
-<td width="39">
+<td valign="top" width="36">
 <br/>
 </td>
-<td width="43">
+<td valign="top" width="46">
 <br/>
 </td>
-<td width="42">
+<td valign="top" width="46">
 <br/>
 </td>
-<td width="38">
+<td valign="top" width="36">
 <br/>
 </td>
-<td width="35">
+<td valign="top" width="46">
 <br/>
 </td>
-<td width="33">
+<td valign="top" width="46">
 <br/>
 </td>
-<td width="36">
+<td valign="top" width="36">
 <br/>
 </td>
-<td width="42">
+<td valign="top" width="46">
 <br/>
 </td>
-<td width="43">
+<td valign="top" width="46">
+<br/>
+</td>
+<td valign="top" width="36">
+<br/>
+</td>
+<td valign="top" width="46">
+<br/>
+</td>
+<td valign="top" width="46">
 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="79">
+<td valign="top" width="46">
 <p>Brevet de mécanicien 750 kW</p>
 </td>
-<td width="43">
+<td valign="top" width="36">
 <p align="center">X</p>
 </td>
-<td width="42">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="41">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="35">
+<td valign="top" width="36">
 <p align="center">X</p>
 </td>
-<td width="45">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="44">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="39">
+<td valign="top" width="36">
 <br/>
 </td>
-<td width="43">
+<td valign="top" width="46">
 <br/>
 </td>
-<td width="42">
+<td valign="top" width="46">
 <br/>
 </td>
-<td width="38">
+<td valign="top" width="36">
 <br/>
 </td>
-<td width="35">
+<td valign="top" width="46">
 <br/>
 </td>
-<td width="33">
+<td valign="top" width="46">
 <br/>
 </td>
-<td width="36">
+<td valign="top" width="36">
 <br/>
 </td>
-<td width="42">
+<td valign="top" width="46">
 <br/>
 </td>
-<td width="43">
+<td valign="top" width="46">
+<br/>
+</td>
+<td valign="top" width="36">
+<br/>
+</td>
+<td valign="top" width="46">
+<br/>
+</td>
+<td valign="top" width="46">
 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="79">
+<td valign="top" width="46">
 <p>Brevet de second mécanicien 3000 kW</p>
 </td>
-<td width="43">
+<td valign="top" width="36">
 <p align="center">X</p>
 </td>
-<td width="42">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="41">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="35">
+<td valign="top" width="36">
 <p align="center">X</p>
 </td>
-<td width="45">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="44">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="39">
+<td valign="top" width="36">
 <p align="center">X</p>
 </td>
-<td width="43">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="42">
+<td valign="top" width="46">
 <br/>
 </td>
-<td width="38">
+<td valign="top" width="36">
+<p align="center">X</p>
+</td>
+<td valign="top" width="46">
 <br/>
 </td>
-<td width="35">
+<td valign="top" width="46">
 <br/>
 </td>
-<td width="33">
+<td valign="top" width="36">
+<p align="center">X</p>
+</td>
+<td valign="top" width="46">
 <br/>
 </td>
-<td width="36">
+<td valign="top" width="46">
 <br/>
 </td>
-<td width="42">
+<td valign="top" width="36">
 <br/>
 </td>
-<td width="43">
+<td valign="top" width="46">
+<br/>
+</td>
+<td valign="top" width="46">
 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="79">
+<td valign="top" width="46">
 <p>Brevet de chef mécanicien 3000 kW</p>
 </td>
-<td width="43">
+<td valign="top" width="36">
 <p align="center">X</p>
 </td>
-<td width="42">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="41">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="35">
+<td valign="top" width="36">
 <p align="center">X</p>
 </td>
-<td width="45">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="44">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="39">
+<td valign="top" width="36">
 <p align="center">X</p>
 </td>
-<td width="43">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="42">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="38">
+<td valign="top" width="36">
+<p align="center">X</p>
+</td>
+<td valign="top" width="46">
 <br/>
 </td>
-<td width="35">
+<td valign="top" width="46">
 <br/>
 </td>
-<td width="33">
+<td valign="top" width="36">
+<p align="center">X</p>
+</td>
+<td valign="top" width="46">
 <br/>
 </td>
-<td width="36">
+<td valign="top" width="46">
 <br/>
 </td>
-<td width="42">
+<td valign="top" width="36">
 <br/>
 </td>
-<td width="43">
+<td valign="top" width="46">
+<br/>
+</td>
+<td valign="top" width="46">
 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="79">
+<td valign="top" width="46">
 <p>Brevet de chef de quart machine 15000 kW</p>
 </td>
-<td width="43">
+<td valign="top" width="36">
 <p align="center">X</p>
 </td>
-<td width="42">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="41">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="35">
+<td valign="top" width="36">
 <p align="center">X</p>
 </td>
-<td width="45">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="44">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="39">
+<td valign="top" width="36">
 <p align="center">X</p>
 </td>
-<td width="43">
+<td valign="top" width="46">
 <br/>
 </td>
-<td width="42">
+<td valign="top" width="46">
 <br/>
 </td>
-<td width="38">
+<td valign="top" width="36">
 <p align="center">X</p>
 </td>
-<td width="35">
+<td valign="top" width="46">
 <br/>
 </td>
-<td width="33">
+<td valign="top" width="46">
 <br/>
 </td>
-<td width="36">
+<td valign="top" width="36">
+<p align="center">X</p>
+</td>
+<td valign="top" width="46">
 <br/>
 </td>
-<td width="42">
+<td valign="top" width="46">
 <br/>
 </td>
-<td width="43">
+<td valign="top" width="36">
+<br/>
+</td>
+<td valign="top" width="46">
+<br/>
+</td>
+<td valign="top" width="46">
 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="79">
+<td>
+<p>Brevet de second mécanicien 8000 kW</p>
+</td>
+<td>
+<p align="center"> X</p>
+</td>
+<td>
+<p align="center"> X</p>
+</td>
+<td>
+<p align="center"> X</p>
+</td>
+<td>
+<p align="center"> X</p>
+</td>
+<td>
+<p align="center"> X</p>
+</td>
+<td>
+<p align="center"> X</p>
+</td>
+<td>
+<p align="center"> X</p>
+</td>
+<td>
+<p align="center"> X</p>
+</td>
+<td>
+<p align="center"> X</p>
+</td>
+<td>
+<p align="center"> X</p>
+</td>
+<td>
+<p align="center"> X</p>
+</td>
+<td>
+<br/>
+</td>
+<td>
+<p align="center"> X</p>
+</td>
+<td/>
+<td/>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td valign="top" width="46">
+<p>Brevet de chef mécanicien 8000 kW</p>
+</td>
+<td valign="top" width="36">
+<p align="center">X</p>
+</td>
+<td valign="top" width="46">
+<p align="center">X</p>
+</td>
+<td valign="top" width="46">
+<p align="center">X</p>
+</td>
+<td valign="top" width="36">
+<p align="center">X</p>
+</td>
+<td valign="top" width="46">
+<p align="center">X</p>
+</td>
+<td valign="top" width="46">
+<p align="center">X</p>
+</td>
+<td valign="top" width="36">
+<p align="center">X</p>
+</td>
+<td valign="top" width="46">
+<p align="center">X</p>
+</td>
+<td valign="top" width="46">
+<p align="center">X</p>
+</td>
+<td valign="top" width="36">
+<p align="center">X</p>
+</td>
+<td valign="top" width="46">
+<p align="center">X</p>
+</td>
+<td valign="top" width="46">
+<p align="center">X</p>
+</td>
+<td valign="top" width="36">
+<p align="center">X</p>
+</td>
+<td valign="top" width="46">
+<br/>
+</td>
+<td valign="top" width="46">
+<br/>
+</td>
+<td valign="top" width="36">
+<br/>
+</td>
+<td valign="top" width="46">
+<br/>
+</td>
+<td valign="top" width="46">
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="46">
 <p>Brevet de second mécanicien 15000 kW</p>
 </td>
-<td width="43">
+<td valign="top" width="36">
 <p align="center">X</p>
 </td>
-<td width="42">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="41">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="35">
+<td valign="top" width="36">
 <p align="center">X</p>
 </td>
-<td width="45">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="44">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="39">
+<td valign="top" width="36">
 <p align="center">X</p>
 </td>
-<td width="43">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="42">
+<td valign="top" width="46">
+<p align="center">X</p>
+</td>
+<td valign="top" width="36">
+<p align="center">X</p>
+</td>
+<td valign="top" width="46">
+<p align="center">X</p>
+</td>
+<td valign="top" width="46">
+<p align="center">X</p>
+</td>
+<td valign="top" width="36">
+<p align="center">X</p>
+</td>
+<td valign="top" width="46">
+<p align="center">X</p>
+</td>
+<td valign="top" width="46">
 <br/>
 </td>
-<td width="38">
-<p align="center">X</p>
-</td>
-<td width="35">
-<p align="center">X</p>
-</td>
-<td width="33">
+<td valign="top" width="36">
 <br/>
 </td>
-<td width="36">
-<p align="center">X</p>
-</td>
-<td width="42">
+<td valign="top" width="46">
 <br/>
 </td>
-<td width="43">
+<td valign="top" width="46">
 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="79">
+<td valign="top" width="46">
 <p>Brevet de chef mécanicien 15000 kW</p>
 </td>
-<td width="43">
+<td valign="top" width="36">
 <p align="center">X</p>
 </td>
-<td width="42">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="41">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="35">
+<td valign="top" width="36">
 <p align="center">X</p>
 </td>
-<td width="45">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="44">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="39">
+<td valign="top" width="36">
 <p align="center">X</p>
 </td>
-<td width="43">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="42">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="38">
+<td valign="top" width="36">
 <p align="center">X</p>
 </td>
-<td width="35">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="33">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="36">
+<td valign="top" width="36">
 <p align="center">X</p>
 </td>
-<td width="42">
+<td valign="top" width="46">
+<p align="center">X</p>
+</td>
+<td valign="top" width="46">
+<p align="center">X</p>
+</td>
+<td valign="top" width="36">
 <br/>
 </td>
-<td width="43">
+<td valign="top" width="46">
+<br/>
+</td>
+<td valign="top" width="46">
 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="79">
+<td valign="top" width="46">
 <p>Brevet de chef de quart machine</p>
 </td>
-<td width="43">
+<td valign="top" width="36">
 <p align="center">X</p>
 </td>
-<td width="42">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="41">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="35">
+<td valign="top" width="36">
 <p align="center">X</p>
 </td>
-<td width="45">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="44">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="39">
+<td valign="top" width="36">
 <p align="center">X</p>
 </td>
-<td width="43">
+<td valign="top" width="46">
 <br/>
 </td>
-<td width="42">
+<td valign="top" width="46">
 <br/>
 </td>
-<td width="38">
+<td valign="top" width="36">
 <p align="center">X</p>
 </td>
-<td width="35">
+<td valign="top" width="46">
 <br/>
 </td>
-<td width="33">
+<td valign="top" width="46">
 <br/>
 </td>
-<td width="36">
+<td valign="top" width="36">
 <p align="center">X</p>
 </td>
-<td width="42">
+<td valign="top" width="46">
 <br/>
 </td>
-<td width="43">
+<td valign="top" width="46">
+<br/>
+</td>
+<td valign="top" width="36">
+<p align="center">X</p>
+</td>
+<td valign="top" width="46">
+<br/>
+</td>
+<td valign="top" width="46">
 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="79">
+<td valign="top" width="46">
 <p>Brevet de chef de quart de navire de mer</p>
 </td>
-<td width="43">
+<td valign="top" width="36">
 <p align="center">X</p>
 </td>
-<td width="42">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="41">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="35">
+<td valign="top" width="36">
 <p align="center">X</p>
 </td>
-<td width="45">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="44">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="39">
+<td valign="top" width="36">
 <p align="center">X</p>
 </td>
-<td width="43">
+<td valign="top" width="46">
 <br/>
 </td>
-<td width="42">
+<td valign="top" width="46">
 <br/>
 </td>
-<td width="38">
+<td valign="top" width="36">
 <p align="center">X</p>
 </td>
-<td width="35">
+<td valign="top" width="46">
 <br/>
 </td>
-<td width="33">
+<td valign="top" width="46">
 <br/>
 </td>
-<td width="36">
+<td valign="top" width="36">
 <p align="center">X</p>
 </td>
-<td width="42">
+<td valign="top" width="46">
 <br/>
 </td>
-<td width="43">
+<td valign="top" width="46">
+<br/>
+</td>
+<td valign="top" width="36">
+<p align="center">X</p>
+</td>
+<td valign="top" width="46">
+<br/>
+</td>
+<td valign="top" width="46">
 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="79">
+<td valign="top" width="46">
 <p>Brevet de second mécanicien</p>
 </td>
-<td width="43">
+<td valign="top" width="36">
 <p align="center">X</p>
 </td>
-<td width="42">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="41">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="35">
+<td valign="top" width="36">
 <p align="center">X</p>
 </td>
-<td width="45">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="44">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="39">
+<td valign="top" width="36">
 <p align="center">X</p>
 </td>
-<td width="43">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="42">
+<td valign="top" width="46">
 <br/>
 </td>
-<td width="38">
+<td valign="top" width="36">
 <p align="center">X</p>
 </td>
-<td width="35">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="33">
+<td valign="top" width="46">
 <br/>
 </td>
-<td width="36">
+<td valign="top" width="36">
 <p align="center">X</p>
 </td>
-<td width="42">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="43">
+<td valign="top" width="46">
+<br/>
+</td>
+<td valign="top" width="36">
+<p align="center">X</p>
+</td>
+<td valign="top" width="46">
+<p align="center">X</p>
+</td>
+<td valign="top" width="46">
 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="79">
+<td valign="top" width="46">
 <p>Brevet de second polyvalent</p>
 </td>
-<td width="43">
+<td valign="top" width="36">
 <p align="center">X</p>
 </td>
-<td width="42">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="41">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="35">
+<td valign="top" width="36">
 <p align="center">X</p>
 </td>
-<td width="45">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="44">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="39">
+<td valign="top" width="36">
 <p align="center">X</p>
 </td>
-<td width="43">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="42">
+<td valign="top" width="46">
 <br/>
 </td>
-<td width="38">
+<td valign="top" width="36">
 <p align="center">X</p>
 </td>
-<td width="35">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="33">
+<td valign="top" width="46">
 <br/>
 </td>
-<td width="36">
+<td valign="top" width="36">
 <p align="center">X</p>
 </td>
-<td width="42">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="43">
+<td valign="top" width="46">
+<br/>
+</td>
+<td valign="top" width="36">
+<p align="center">X</p>
+</td>
+<td valign="top" width="46">
+<p align="center">X</p>
+</td>
+<td valign="top" width="46">
 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="79">
+<td valign="top" width="46">
 <p>Brevet de chef mécanicien</p>
 </td>
-<td width="43">
+<td valign="top" width="36">
 <p align="center">X</p>
 </td>
-<td width="42">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="41">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="35">
+<td valign="top" width="36">
 <p align="center">X</p>
 </td>
-<td width="45">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="44">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="39">
+<td valign="top" width="36">
 <p align="center">X</p>
 </td>
-<td width="43">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="42">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="38">
+<td valign="top" width="36">
 <p align="center">X</p>
 </td>
-<td width="35">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="33">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="36">
+<td valign="top" width="36">
 <p align="center">X</p>
 </td>
-<td width="42">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="43">
+<td valign="top" width="46">
+<p align="center">X</p>
+</td>
+<td valign="top" width="36">
+<p align="center">X</p>
+</td>
+<td valign="top" width="46">
+<p align="center">X</p>
+</td>
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="79">
+<td valign="top" width="46">
 <p>Brevet de capitaine de 1re classe de la navigation maritime</p>
 </td>
-<td width="43">
+<td valign="top" width="36">
 <p align="center">X</p>
 </td>
-<td width="42">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="41">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="35">
+<td valign="top" width="36">
 <p align="center">X</p>
 </td>
-<td width="45">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="44">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="39">
+<td valign="top" width="36">
 <p align="center">X</p>
 </td>
-<td width="43">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="42">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="38">
+<td valign="top" width="36">
 <p align="center">X</p>
 </td>
-<td width="35">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="33">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="36">
+<td valign="top" width="36">
 <p align="center">X</p>
 </td>
-<td width="42">
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
-<td width="43">
+<td valign="top" width="46">
+<p align="center">X</p>
+</td>
+<td valign="top" width="36">
+<p align="center">X</p>
+</td>
+<td valign="top" width="46">
+<p align="center">X</p>
+</td>
+<td valign="top" width="46">
 <p align="center">X</p>
 </td>
 </tr>
 <tr>
-<td colspan="16" valign="top" width="682">
-<p>(1)Sous réserve de la détention d'une compétence machine acquise lors de la formation au brevet.</p>
+<td colspan="19" valign="top" width="814">
+<p>(1) Sous réserve de la détention d'une compétence machine acquise lors de la formation au brevet.</p>
 </td>
 </tr>
 </tbody>
