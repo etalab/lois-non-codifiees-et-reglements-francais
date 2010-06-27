@@ -1,630 +1,628 @@
 # Article 1
 
-<div>
-<br/>Le produit de la majoration de la taxe d'aéroport est réparti entre les aéroports ainsi qu'il suit :<br/>
+Le produit de la majoration de la taxe d'aéroport est réparti entre les aéroports ainsi qu'il suit :
+
 <div align="center">
 
 <table>
+<tbody>
 <tr>
-<th>
-<br/>AÉROPORT</th>
-<th>
-<br/>POURCENTAGE<br/>de répartition</th>
+<th>AÉROPORT<br/>
+</th>
+<th>POURCENTAGE<br/>de répartition<br/>
+</th>
 </tr>
 <tr>
-<td align="center">
-<br/>AGEN-LA GARENNE</td>
-<td align="center">
-<br/>0,515 %</td>
+<td align="center">AGEN-LA GARENNE<br/>
+</td>
+<td align="center">0,515 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>AJACCIO - NAPOLÉON-BONAPARTE</td>
-<td align="center">
-<br/>4,412 %</td>
+<td align="center">AJACCIO - NAPOLÉON-BONAPARTE<br/>
+</td>
+<td align="center">4,412 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>ALBERT BRAY (MEAULTE)</td>
-<td align="center">
-<br/>0,413 %</td>
+<td align="center">ALBERT BRAY (MEAULTE)<br/>
+</td>
+<td align="center">0,413 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>ALBI-LE SÉQUESTRE</td>
-<td align="center">
-<br/>0,068 %</td>
+<td align="center">ALBI-LE SÉQUESTRE<br/>
+</td>
+<td align="center">0,068 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>ANGERS-MARCÉ</td>
-<td align="center">
-<br/>0,940 %</td>
+<td align="center">ANGERS-MARCÉ<br/>
+</td>
+<td align="center">0,940 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>ANGOULÊME-BRIE-CHAMPNIERS</td>
-<td align="center">
-<br/>0,568 %</td>
+<td align="center">ANGOULÊME-BRIE-CHAMPNIERS<br/>
+</td>
+<td align="center">0,568 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>ANNECY-MEYTHET</td>
-<td align="center">
-<br/>1,070 %</td>
+<td align="center">ANNECY-MEYTHET<br/>
+</td>
+<td align="center">1,070 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>AURILLAC</td>
-<td align="center">
-<br/>0,100 %</td>
+<td align="center">AURILLAC<br/>
+</td>
+<td align="center">0,100 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>AUXERRE-BRANCHES</td>
-<td align="center">
-<br/>0,233 %</td>
+<td align="center">AUXERRE-BRANCHES<br/>
+</td>
+<td align="center">0,233 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>AVIGNON-CAUMONT</td>
-<td align="center">
-<br/>1,061 %</td>
+<td align="center">AVIGNON-CAUMONT<br/>
+</td>
+<td align="center">1,061 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>BASTIA-PORETTA</td>
-<td align="center">
-<br/>2,521 %</td>
+<td align="center">BASTIA-PORETTA<br/>
+</td>
+<td align="center">2,521 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>BERGERAC-ROUMANIÈRE</td>
-<td align="center">
-<br/>0,284 %</td>
+<td align="center">BERGERAC-ROUMANIÈRE<br/>
+</td>
+<td align="center">0,284 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>BESANÇON-LA VÈZE</td>
-<td align="center">
-<br/>0,106 %</td>
+<td align="center">BESANÇON-LA VÈZE<br/>
+</td>
+<td align="center">0,106 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>BÉZIERS-VIAS</td>
-<td align="center">
-<br/>1,195 %</td>
+<td align="center">BÉZIERS-VIAS<br/>
+</td>
+<td align="center">1,195 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>BORA BORA-MOTU MUTE (Polynésie française)</td>
-<td align="center">
-<br/>0,418 %</td>
+<td align="center">BORA BORA-MOTU MUTE (Polynésie française)<br/>
+</td>
+<td align="center">0,418 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>BOURGES</td>
-<td align="center">
-<br/>0,183 %</td>
+<td align="center">BOURGES<br/>
+</td>
+<td align="center">0,183 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>BREST-BRETAGNE</td>
-<td align="center">
-<br/>0,297 %</td>
+<td align="center">BREST-BRETAGNE<br/>
+</td>
+<td align="center">0,297 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>BRIVE-SOUILLAC</td>
-<td align="center">
-<br/>0,846 %</td>
+<td align="center">BRIVE-SOUILLAC<br/>
+</td>
+<td align="center">0,846 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>BRIVE-LA ROCHE</td>
-<td align="center">
-<br/>0,059 %</td>
+<td align="center">BRIVE-LA ROCHE<br/>
+</td>
+<td align="center">0,059 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>CAEN-CARPIQUET</td>
-<td align="center">
-<br/>1,292 %</td>
+<td align="center">CAEN-CARPIQUET<br/>
+</td>
+<td align="center">1,292 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>CAHORS-LALBENQUE</td>
-<td align="center">
-<br/>0,003 %</td>
+<td align="center">CAHORS-LALBENQUE<br/>
+</td>
+<td align="center">0,003 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>CALAIS-DUNKERQUE</td>
-<td align="center">
-<br/>0,282 %</td>
+<td align="center">CALAIS-DUNKERQUE<br/>
+</td>
+<td align="center">0,282 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>CALVI - SAINTE-CATHERINE</td>
-<td align="center">
-<br/>3,465 %</td>
+<td align="center">CALVI - SAINTE-CATHERINE<br/>
+</td>
+<td align="center">3,465 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>CANNES-MANDELIEU</td>
-<td align="center">
-<br/>2,001 %</td>
+<td align="center">CANNES-MANDELIEU<br/>
+</td>
+<td align="center">2,001 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>CASTRES-MAZAMET</td>
-<td align="center">
-<br/>0,304 %</td>
+<td align="center">CASTRES-MAZAMET<br/>
+</td>
+<td align="center">0,304 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>CAYENNE-ROCHAMBEAU</td>
-<td align="center">
-<br/>5,321 %</td>
+<td align="center">CAYENNE-ROCHAMBEAU<br/>
+</td>
+<td align="center">5,321 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>CHALON-CHAMPFORGUEIL</td>
-<td align="center">
-<br/>0,105 %</td>
+<td align="center">CHALON-CHAMPFORGUEIL<br/>
+</td>
+<td align="center">0,105 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>CHÂLONS-VATRY</td>
-<td align="center">
-<br/>1,202 %</td>
+<td align="center">CHÂLONS-VATRY<br/>
+</td>
+<td align="center">1,202 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>CHAMBÉRY - AIX-LES-BAINS</td>
-<td align="center">
-<br/>1,187 %</td>
+<td align="center">CHAMBÉRY - AIX-LES-BAINS<br/>
+</td>
+<td align="center">1,187 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>CHÂTEAUROUX-DÉOLS</td>
-<td align="center">
-<br/>1,830 %</td>
+<td align="center">CHÂTEAUROUX-DÉOLS<br/>
+</td>
+<td align="center">1,830 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>CHERBOURG-MAUPERTUS</td>
-<td align="center">
-<br/>0,253 %</td>
+<td align="center">CHERBOURG-MAUPERTUS<br/>
+</td>
+<td align="center">0,253 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>CLERMONT-FERRAND - AUVERGNE</td>
-<td align="center">
-<br/>3,210 %</td>
+<td align="center">CLERMONT-FERRAND - AUVERGNE<br/>
+</td>
+<td align="center">3,210 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>COLMAR-HOUSSEN</td>
-<td align="center">
-<br/>0,306 %</td>
+<td align="center">COLMAR-HOUSSEN<br/>
+</td>
+<td align="center">0,306 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>DEAUVILLE - SAINT-GATIEN</td>
-<td align="center">
-<br/>0,728 %</td>
+<td align="center">DEAUVILLE - SAINT-GATIEN<br/>
+</td>
+<td align="center">0,728 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>DIJON-LONGVIC</td>
-<td align="center">
-<br/>0,000 %</td>
+<td align="center">DIJON-LONGVIC<br/>
+</td>
+<td align="center">0,000 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>DINARD - PLEURTUIT - SAINT-MALÔ</td>
-<td align="center">
-<br/>1,219 %</td>
+<td align="center">DINARD - PLEURTUIT - SAINT-MALÔ<br/>
+</td>
+<td align="center">1,219 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>DOLE-TAVAUX</td>
-<td align="center">
-<br/>0,315 %</td>
+<td align="center">DOLE-TAVAUX<br/>
+</td>
+<td align="center">0,315 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>ÉPINAL-MIRECOURT</td>
-<td align="center">
-<br/>0,319 %</td>
+<td align="center">ÉPINAL-MIRECOURT<br/>
+</td>
+<td align="center">0,319 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>FIGARI, SUD-CORSE</td>
-<td align="center">
-<br/>1,390 %</td>
+<td align="center">FIGARI, SUD-CORSE<br/>
+</td>
+<td align="center">1,390 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>GRAND SANTI</td>
-<td align="center">
-<br/>0,084 %</td>
+<td align="center">GRAND SANTI<br/>
+</td>
+<td align="center">0,084 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>GRENOBLE-ISÈRE</td>
-<td align="center">
-<br/>1,920 %</td>
+<td align="center">GRENOBLE-ISÈRE<br/>
+</td>
+<td align="center">1,920 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>ILE-D'YEU - LE GRAND-PHARE</td>
-<td align="center">
-<br/>0,093 %</td>
+<td align="center">ILE-D'YEU - LE GRAND-PHARE<br/>
+</td>
+<td align="center">0,093 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>ISSY-LES-MOULINEAUX</td>
-<td align="center">
-<br/>0,582 %</td>
+<td align="center">ISSY-LES-MOULINEAUX<br/>
+</td>
+<td align="center">0,582 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>LA ROCHE-SUR-YON</td>
-<td align="center">
-<br/>0,077 %</td>
+<td align="center">LA ROCHE-SUR-YON<br/>
+</td>
+<td align="center">0,077 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>LA MÔLE (SAINT-TROPEZ)</td>
-<td align="center">
-<br/>0,450 %</td>
+<td align="center">LA MÔLE (SAINT-TROPEZ)<br/>
+</td>
+<td align="center">0,450 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>LANNION</td>
-<td align="center">
-<br/>0,459 %</td>
+<td align="center">LANNION<br/>
+</td>
+<td align="center">0,459 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>LA ROCHELLE-ÎLE DE RÉ</td>
-<td align="center">
-<br/>1,362 %</td>
+<td align="center">LA ROCHELLE-ÎLE DE RÉ<br/>
+</td>
+<td align="center">1,362 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>LAVAL-ENTRAMMES</td>
-<td align="center">
-<br/>0,097 %</td>
+<td align="center">LAVAL-ENTRAMMES<br/>
+</td>
+<td align="center">0,097 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>LE HAVRE-OCTEVILLE</td>
-<td align="center">
-<br/>0,838 %</td>
+<td align="center">LE HAVRE-OCTEVILLE<br/>
+</td>
+<td align="center">0,838 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>LE MANS-ARNAGE</td>
-<td align="center">
-<br/>0,276 %</td>
+<td align="center">LE MANS-ARNAGE<br/>
+</td>
+<td align="center">0,276 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>LE PUY-LOUDES</td>
-<td align="center">
-<br/>0,113 %</td>
+<td align="center">LE PUY-LOUDES<br/>
+</td>
+<td align="center">0,113 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>LE TOUQUET - PARIS-PLAGE</td>
-<td align="center">
-<br/>0,481 %</td>
+<td align="center">LE TOUQUET - PARIS-PLAGE<br/>
+</td>
+<td align="center">0,481 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>LILLE-LESQUIN</td>
-<td align="center">
-<br/>1,114 %</td>
+<td align="center">LILLE-LESQUIN<br/>
+</td>
+<td align="center">1,114 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>LIMOGES-BELLEGARDE</td>
-<td align="center">
-<br/>0,411 %</td>
+<td align="center">LIMOGES-BELLEGARDE<br/>
+</td>
+<td align="center">0,411 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>LORIENT-LANN-BIHOUÉ</td>
-<td align="center">
-<br/>0,591 %</td>
+<td align="center">LORIENT-LANN-BIHOUÉ<br/>
+</td>
+<td align="center">0,591 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>MARIPASOULA</td>
-<td align="center">
-<br/>0,334 %</td>
+<td align="center">MARIPASOULA<br/>
+</td>
+<td align="center">0,334 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>MARTINIQUE - AIMÉ-CÉSAIRE </td>
-<td align="center">
-<br/>4,310 %</td>
+<td align="center">MARTINIQUE - AIMÉ-CÉSAIRE <br/>
+</td>
+<td align="center">4,310 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>MERVILLE-CALONNE</td>
-<td align="center">
-<br/>0,152 %</td>
+<td align="center">MERVILLE-CALONNE<br/>
+</td>
+<td align="center">0,152 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>METZ-NANCY-LORRAINE</td>
-<td align="center">
-<br/>2,016 %</td>
+<td align="center">METZ-NANCY-LORRAINE<br/>
+</td>
+<td align="center">2,016 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>MILLAU-LARZAC</td>
-<td align="center">
-<br/>0,047 %</td>
+<td align="center">MILLAU-LARZAC<br/>
+</td>
+<td align="center">0,047 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>MONTBÉLIARD-COURCELLES</td>
-<td align="center">
-<br/>0,215 %</td>
+<td align="center">MONTBÉLIARD-COURCELLES<br/>
+</td>
+<td align="center">0,215 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>MONTLUÇON-GUÉRET</td>
-<td align="center">
-<br/>0,215 %</td>
+<td align="center">MONTLUÇON-GUÉRET<br/>
+</td>
+<td align="center">0,215 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>MONTPELLIER-MÉDITERRANÉE</td>
-<td align="center">
-<br/>2,220 %</td>
+<td align="center">MONTPELLIER-MÉDITERRANÉE<br/>
+</td>
+<td align="center">2,220 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>MORLAIX-PLOUJEAN</td>
-<td align="center">
-<br/>0,120 %</td>
+<td align="center">MORLAIX-PLOUJEAN<br/>
+</td>
+<td align="center">0,120 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>NANCY-ESSEY</td>
-<td align="center">
-<br/>0,281 %</td>
+<td align="center">NANCY-ESSEY<br/>
+</td>
+<td align="center">0,281 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>NEVERS-FOURCHAMBAULT</td>
-<td align="center">
-<br/>0,147 %</td>
+<td align="center">NEVERS-FOURCHAMBAULT<br/>
+</td>
+<td align="center">0,147 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>NÎMES-GARONS</td>
-<td align="center">
-<br/>0,550 %</td>
+<td align="center">NÎMES-GARONS<br/>
+</td>
+<td align="center">0,550 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>NOUMÉA-LA TONTOUTA (Nouvelle-Calédonie)</td>
-<td align="center">
-<br/>4,363 %</td>
+<td align="center">NOUMÉA-LA TONTOUTA (Nouvelle-Calédonie)<br/>
+</td>
+<td align="center">4,363 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>ORLÉANS - SAINT-DENIS-DE-L'HÔTEL</td>
-<td align="center">
-<br/>0,253 %</td>
+<td align="center">ORLÉANS - SAINT-DENIS-DE-L'HÔTEL<br/>
+</td>
+<td align="center">0,253 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>OUESSANT</td>
-<td align="center">
-<br/>0,001 %</td>
+<td align="center">OUESSANT<br/>
+</td>
+<td align="center">0,001 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>PAMIERS-LES PUJOLS</td>
-<td align="center">
-<br/>0,047 %</td>
+<td align="center">PAMIERS-LES PUJOLS<br/>
+</td>
+<td align="center">0,047 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>PAU-PYRÉNÉES</td>
-<td align="center">
-<br/>0,341 %</td>
+<td align="center">PAU-PYRÉNÉES<br/>
+</td>
+<td align="center">0,341 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>PÉRIGUEUX-BASSILLAC</td>
-<td align="center">
-<br/>0,297 %</td>
+<td align="center">PÉRIGUEUX-BASSILLAC<br/>
+</td>
+<td align="center">0,297 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>PERPIGNAN-RIVESALTES</td>
-<td align="center">
-<br/>0,622 %</td>
+<td align="center">PERPIGNAN-RIVESALTES<br/>
+</td>
+<td align="center">0,622 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>POINTE-À-PITRE - LE RAIZET</td>
-<td align="center">
-<br/>2,492 %</td>
+<td align="center">POINTE-À-PITRE - LE RAIZET<br/>
+</td>
+<td align="center">2,492 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>POITIERS-BIARD</td>
-<td align="center">
-<br/>2,107 %</td>
+<td align="center">POITIERS-BIARD<br/>
+</td>
+<td align="center">2,107 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>PONTOISE</td>
-<td align="center">
-<br/>1,043 %</td>
+<td align="center">PONTOISE<br/>
+</td>
+<td align="center">1,043 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>QUIMPER-PLUGUFFAN</td>
-<td align="center">
-<br/>0,739 %</td>
+<td align="center">QUIMPER-PLUGUFFAN<br/>
+</td>
+<td align="center">0,739 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>RAIATEA-UTUROA (Polynésie française)</td>
-<td align="center">
-<br/>0,396 %</td>
+<td align="center">RAIATEA-UTUROA (Polynésie française)<br/>
+</td>
+<td align="center">0,396 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>RANGIROA (Polynésie française)</td>
-<td align="center">
-<br/>0,308 %</td>
+<td align="center">RANGIROA (Polynésie française)<br/>
+</td>
+<td align="center">0,308 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>REIMS-PRUNAY</td>
-<td align="center">
-<br/>0,101 %</td>
+<td align="center">REIMS-PRUNAY<br/>
+</td>
+<td align="center">0,101 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>RENNES - SAINT-JACQUES</td>
-<td align="center">
-<br/>2,307 %</td>
+<td align="center">RENNES - SAINT-JACQUES<br/>
+</td>
+<td align="center">2,307 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>RODEZ-MARCILLAC</td>
-<td align="center">
-<br/>1,307 %</td>
+<td align="center">RODEZ-MARCILLAC<br/>
+</td>
+<td align="center">1,307 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>ROUEN-VALLÉE DE SEINE</td>
-<td align="center">
-<br/>0,794 %</td>
+<td align="center">ROUEN-VALLÉE DE SEINE<br/>
+</td>
+<td align="center">0,794 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>SAINT-LAURENT-DU-MARONI</td>
-<td align="center">
-<br/>0,158 %</td>
+<td align="center">SAINT-LAURENT-DU-MARONI<br/>
+</td>
+<td align="center">0,158 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>SAINT-BRIEUC - ARMOR</td>
-<td align="center">
-<br/>0,418 %</td>
+<td align="center">SAINT-BRIEUC - ARMOR<br/>
+</td>
+<td align="center">0,418 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>SAINT-DENIS - GILLOT</td>
-<td align="center">
-<br/>0,457 %</td>
+<td align="center">SAINT-DENIS - GILLOT<br/>
+</td>
+<td align="center">0,457 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>SAINT-ÉTIENNE - BOUTHÉON</td>
-<td align="center">
-<br/>0,827 %</td>
+<td align="center">SAINT-ÉTIENNE - BOUTHÉON<br/>
+</td>
+<td align="center">0,827 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>SAINT-MARTIN - GRAND'CASE</td>
-<td align="center">
-<br/>0,191 %</td>
+<td align="center">SAINT-MARTIN - GRAND'CASE<br/>
+</td>
+<td align="center">0,191 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>SAINT-NAZAIRE - MONTOIR</td>
-<td align="center">
-<br/>0,641 %</td>
+<td align="center">SAINT-NAZAIRE - MONTOIR<br/>
+</td>
+<td align="center">0,641 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>SAINT-PIERRE - PIERREFONDS</td>
-<td align="center">
-<br/>1,126 %</td>
+<td align="center">SAINT-PIERRE - PIERREFONDS<br/>
+</td>
+<td align="center">1,126 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>SAUL</td>
-<td align="center">
-<br/>0,163 %</td>
+<td align="center">SAUL<br/>
+</td>
+<td align="center">0,163 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>SAINT-YAN</td>
-<td align="center">
-<br/>0,105 %</td>
+<td align="center">SAINT-YAN<br/>
+</td>
+<td align="center">0,105 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>STRASBOURG-ENTZHEIM</td>
-<td align="center">
-<br/>2,009 %</td>
+<td align="center">STRASBOURG-ENTZHEIM<br/>
+</td>
+<td align="center">2,009 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>TAHITI-FAA'A (Polynésie française)</td>
-<td align="center">
-<br/>7,137 %</td>
+<td align="center">TAHITI-FAA'A (Polynésie française)<br/>
+</td>
+<td align="center">2,633 %</td>
 </tr>
 <tr>
-<td align="center">
-<br/>TARBES-LOURDES-PYRENÉES</td>
-<td align="center">
-<br/>1,734 %</td>
+<td align="center">TARBES-LOURDES-PYRENÉES<br/>
+</td>
+<td align="center">1,734 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>TOURS-VAL DE LOIRE</td>
-<td align="center">
-<br/>0,130 %</td>
+<td align="center">TOURS-VAL DE LOIRE<br/>
+</td>
+<td align="center">0,130 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>TOUSSUS-LE NOBLE</td>
-<td align="center">
-<br/>1,192 %</td>
+<td align="center">TOUSSUS-LE NOBLE<br/>
+</td>
+<td align="center">1,192 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>TROYES-BARBEREY</td>
-<td align="center">
-<br/>0,334 %</td>
+<td align="center">TROYES-BARBEREY<br/>
+</td>
+<td align="center">0,334 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>VALENCIENNES-DENAIN</td>
-<td align="center">
-<br/>0,393 %</td>
+<td align="center">VALENCIENNES-DENAIN<br/>
+</td>
+<td align="center">0,393 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>VANNES-MEUCON</td>
-<td align="center">
-<br/>0,271 %</td>
+<td align="center">VANNES-MEUCON<br/>
+</td>
+<td align="center">0,271 %<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Part du produit restant à répartir entre les exploitants dont la concession est échue</td>
-<td align="center">
-<br/>5,620 %</td>
+<td align="center">Part du produit restant à répartir entre les exploitants dont la concession est échue<br/>
+</td>
+<td align="center">10,124 %</td>
 </tr>
+</tbody>
 </table>
 
-</div>
-<br/>
 </div>
