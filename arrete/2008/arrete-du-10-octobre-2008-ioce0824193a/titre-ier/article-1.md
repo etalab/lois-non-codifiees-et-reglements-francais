@@ -12,7 +12,7 @@ Le comité technique de formation des jeunes sapeurs-pompiers, dont les missions
 
 ― le chef du bureau du métier de sapeur-pompier, de la formation et des équipements ou son représentant ;
 
-― le chef du bureau du volontariat, des associations et des réserves communales ou son représentant ;
+― le chef du bureau chargé du volontariat ou son représentant ;
 
 ― deux élus, membres du conseil d'administration d'un service départemental d'incendie et de secours (SDIS), proposés par l'Assemblée des départements de France ;
 
