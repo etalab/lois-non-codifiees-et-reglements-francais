@@ -1037,7 +1037,6 @@
 - [Arrêté du 27 juillet 2007 (ECEQ0759412A)](arrete-du-27-juillet-2007-eceq0759412a)
 - [Arrêté du 27 juin 2007 (BCFR0750735A)](arrete-du-27-juin-2007-bcfr0750735a)
 - [Arrêté du 27 juin 2007 (IOCE0758586A)](arrete-du-27-juin-2007-ioce0758586a)
-- [Arrêté du 27 mars 2007 (AGRP0700810A)](arrete-du-27-mars-2007-agrp0700810a)
 - [Arrêté du 27 mars 2007 (AGRP0700812A)](arrete-du-27-mars-2007-agrp0700812a)
 - [Arrêté du 27 mars 2007 (ECOP0700042A)](arrete-du-27-mars-2007-ecop0700042a)
 - [Arrêté du 27 mars 2007 (EQUS0700567A)](arrete-du-27-mars-2007-equs0700567a)
