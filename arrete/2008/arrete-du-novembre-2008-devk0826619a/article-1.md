@@ -28,4 +28,12 @@ Les opérations de restructuration de service listées  ci-après ouvrent droit 
 
 13° Les restructurations des services conduisant à la création des  directions interrégionales de la mer et des directions départementales  des territoires et de la mer dans le cadre de la réforme de  l'administration territoriale de la mer et du littoral ;
 
-14° La réorganisation de l'Agence nationale de l'habitat.
+14° La réorganisation de l'Agence nationale de l'habitat ;
+
+15° Les opérations de réorganisation liées à la création de l'Ecole nationale supérieure maritime.
+
+16° La création du centre interministériel de gestion des ingénieurs des ponts, des eaux et des forêts.
+
+17° La réorganisation du bureau des pensions.
+
+18° Les opérations liées à la réorganisation de l'administration territoriale de l'Etat en Ile-de-France.
