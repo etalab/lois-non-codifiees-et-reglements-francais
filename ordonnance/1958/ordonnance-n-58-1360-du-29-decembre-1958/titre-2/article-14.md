@@ -1,6 +1,6 @@
 # Article 14
 
-L'assemblée du Conseil Economique et Social élit son bureau. Celui-ci se compose du président et de dix-huit membres.
+L'assemblée du Conseil économique, social et environnemental élit son bureau. Celui-ci se compose du président et de dix-huit membres.
 
 Le secrétaire général du Conseil participe aux délibérations du bureau. Il en tient procès-verbal.
 

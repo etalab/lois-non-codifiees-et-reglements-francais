@@ -4,7 +4,7 @@ La Commission nationale consultative des droits de l'homme assure, auprès du Go
 
 La commission exerce sa mission en toute indépendance.
 
-Elle est composée de représentants des organisations non gouvernementales spécialisées dans le domaine des droits de l'homme, du droit international humanitaire ou de l'action humanitaire, d'experts siégeant dans les organisations internationales compétentes dans ce même domaine, de personnalités qualifiées, de représentants des principales confédérations syndicales, du Médiateur de la République, ainsi que d'un député, d'un sénateur et d'un membre du Conseil économique et social désignés par leurs assemblées respectives.
+Elle est composée de représentants des organisations non gouvernementales spécialisées dans le domaine des droits de l'homme, du droit international humanitaire ou de l'action humanitaire, d'experts siégeant dans les organisations internationales compétentes dans ce même domaine, de personnalités qualifiées, de représentants des principales confédérations syndicales, du Médiateur de la République, ainsi que d'un député, d'un sénateur et d'un membre du   Conseil économique, social et environnemental désignés par leurs assemblées respectives.
 
 Le mandat de membre de la commission n'est pas révocable pour autant que son titulaire conserve la qualité en vertu de laquelle il a été désigné et qu'il se conforme à l'obligation d'assiduité qui lui incombe.
 

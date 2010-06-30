@@ -1,35 +1,45 @@
 # Article 7
 
-Le Conseil Economique et Social comprend :
+I. - Le Conseil économique, social et environnemental comprend :
 
-1° Soixante-neuf représentants des salariés,
+1° Cent quarante membres au titre de la vie économique et du dialogue social, répartis ainsi qu'il suit :
 
-2° Soixante-douze représentants des entreprises, dont :
+- soixante-neuf représentants des salariés ;
 
-Vingt-sept représentants des entreprises privées non agricoles ;
+- vingt-sept représentants des entreprises privées industrielles, commerciales et de services ;
 
-Dix représentants des artisans ;
+- vingt représentants des exploitants et des activités agricoles ;
 
-Dix représentants des entreprises publiques ;
+- dix représentants des artisans ;
 
-Vingt-cinq représentants des exploitants agricoles ;
+- quatre représentants des professions libérales ;
 
-3° Trois représentants des professions libérales ;
+- dix personnalités qualifiées choisies en raison de leur expérience dans le domaine économique, dont deux issues des entreprises publiques ainsi qu'une représentant les activités économiques françaises à l'étranger ;
 
-4° Dix représentants de la mutualité, de la coopération et du crédit agricoles ;
+2° Soixante membres au titre de la cohésion sociale et territoriale et de la vie associative, répartis ainsi qu'il suit :
 
-5° Cinq représentants des coopératives non agricoles ;
+- huit représentants de l'économie mutualiste, coopérative et solidaire non agricole ;
 
-6° Quatre représentants de la mutualité non agricole ;
+- quatre représentants de la mutualité et des coopératives agricoles de production et de transformation ;
 
-7° Dix-sept représentants des activités sociales, dont dix représentants des associations familiales, un représentant du logement, un représentant de l'épargne, cinq représentants des autres associations ;
+- dix représentants des associations familiales ;
 
-8° Onze représentants des activités économiques et sociales des départements et régions d'outre-mer, des collectivités d'outre-mer et de la Nouvelle-Calédonie ;
+- huit représentants de la vie associative et des fondations ;
 
-9° Deux représentants des Français établis hors de France ;
+- onze représentants des activités économiques et sociales des départements et régions d'outre-mer, des collectivités d'outre-mer et de la Nouvelle-Calédonie ;
 
-10° Quarante personnalités qualifiées dans le domaine économique, social, scientifique ou culturel.
+- quatre représentants des jeunes et des étudiants ;
 
-Les délégués prévus aux 1° et 2° ci-dessus, à l'exception de ceux des entreprises publiques, sont désignés, pour chaque catégorie, par les organisations professionnelles les plus représentatives.
+- quinze personnalités qualifiées choisies en raison de leur expérience dans le domaine social, culturel, sportif ou scientifique, dans le secteur du logement social ou en raison de leur action en faveur des personnes handicapées ou des personnes retraitées ;
 
-Un décret en Conseil d'Etat précisera la répartition et les conditions de désignation des membres du Conseil économique et social.
+3° Trente-trois membres au titre de la protection de la nature et de l'environnement, répartis ainsi qu'il suit :
+
+- dix-huit représentants des associations et fondations agissant dans le domaine de la protection de la nature et de l'environnement ;
+
+- quinze personnalités qualifiées choisies en raison de leur compétence en matière d'environnement et de développement durable, dont au moins trois dirigeant des entreprises ayant une activité significative dans ces matières.
+
+II. - Les membres représentant les salariés, les entreprises, les artisans, les professions libérales et les exploitants agricoles sont désignés, pour chaque catégorie, par les organisations professionnelles les plus représentatives.
+
+Dans tous les cas où une organisation est appelée à désigner plus d'un membre du Conseil économique, social et environnemental, elle procède à ces désignations de telle sorte que l'écart entre le nombre des hommes désignés, d'une part, et des femmes désignées, d'autre part, ne soit pas supérieur à un. La même règle s'applique à la désignation des personnalités qualifiées.
+
+Un décret en Conseil d'Etat précise la répartition et les conditions de désignation des membres du Conseil économique, social et environnemental.

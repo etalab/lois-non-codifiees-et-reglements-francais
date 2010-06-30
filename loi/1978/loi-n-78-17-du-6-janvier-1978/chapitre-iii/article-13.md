@@ -1,10 +1,10 @@
 # Article 13
 
-I. - La Commission nationale de l'informatique et des libertés est composée de dix-sept membres :
+I.-La Commission nationale de l'informatique et des libertés est composée de dix-sept membres :
 
 1° Deux députés et deux sénateurs, désignés respectivement par l'Assemblée nationale et par le Sénat ;
 
-2° Deux membres du Conseil économique et social, élus par cette assemblée ;
+2° Deux membres du   Conseil économique, social et environnemental, élus par cette assemblée ;
 
 3° Deux membres ou anciens membres du Conseil d'Etat, d'un grade au moins égal à celui de conseiller, élus par l'assemblée générale du Conseil d'Etat ;
 
@@ -22,7 +22,7 @@ La formation restreinte de la commission est composée du président, des vice-p
 
 En cas de partage égal des voix, celle du président est prépondérante.
 
-II. - Le mandat des membres de la commission mentionnés aux 3°, 4°, 5°, 6° et 7° du I est de cinq ans ; il est renouvelable une fois. Les membres mentionnés aux 1° et 2° siègent pour la durée du mandat à l'origine de leur désignation ; leurs mandats de membre de la Commission nationale de l'informatique et des libertés ne peuvent excéder une durée de dix ans.
+II.-Le mandat des membres de la commission mentionnés aux 3°, 4°, 5°, 6° et 7° du I est de cinq ans ; il est renouvelable une fois. Les membres mentionnés aux 1° et 2° siègent pour la durée du mandat à l'origine de leur désignation ; leurs mandats de membre de la Commission nationale de l'informatique et des libertés ne peuvent excéder une durée de dix ans.
 
 Le membre de la commission qui cesse d'exercer ses fonctions en cours de mandat est remplacé, dans les mêmes conditions, pour la durée de son mandat restant à courir.
 

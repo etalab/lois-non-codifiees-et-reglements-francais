@@ -1,6 +1,6 @@
 # Article 8
 
-Les projets de loi font l'objet d'une étude d'impact [Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2009-579 DC du 9 avril 2009]. Les documents rendant compte de cette étude d'impact sont joints aux projets de loi dès leur transmission au Conseil d'Etat. Ils sont déposés sur le bureau de la première assemblée saisie en même temps que les projets de loi auxquels ils se rapportent.
+Les projets de loi font l'objet d'une étude d'impact. Les documents rendant compte de cette étude d'impact sont joints aux projets de loi dès leur transmission au Conseil d'Etat. Ils sont déposés sur le bureau de la première assemblée saisie en même temps que les projets de loi auxquels ils se rapportent.
 
 Ces documents définissent les objectifs poursuivis par le projet de loi, recensent les options possibles en dehors de l'intervention de règles de droit nouvelles et exposent les motifs du recours à une nouvelle législation.
 
@@ -20,4 +20,6 @@ Ils exposent avec précision :
 
 ― les consultations qui ont été menées avant la saisine du Conseil d'Etat ;
 
-― la liste prévisionnelle des textes d'application nécessaires [Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2009-579 DC du 9 avril 2009].
+-s'il y a lieu, les suites données par le Gouvernement à l'avis du Conseil économique, social et environnemental ;
+
+― la liste prévisionnelle des textes d'application nécessaires.

@@ -1,6 +1,6 @@
 # Article 32
 
-Les commissions du Parlement compétentes en matière d'énergie, le Conseil supérieur de l'électricité et du gaz, l'Observatoire national du service public de l'électricité et du gaz et le Conseil économique et social peuvent entendre les membres de la Commission de régulation de l'énergie et consulter celle-ci sur toute question entrant dans le champ de ses compétences.
+Les commissions du Parlement compétentes en matière d'énergie, le Conseil supérieur de l'électricité et du gaz, l'Observatoire national du service public de l'électricité et du gaz et le   Conseil économique, social et environnemental peuvent entendre les membres de la Commission de régulation de l'énergie et consulter celle-ci sur toute question entrant dans le champ de ses compétences.
 
 Le président de la Commission de régulation de l'énergie rend compte des activités de la commission devant les commissions permanentes du Parlement compétentes en matière d'énergie, à leur demande.
 

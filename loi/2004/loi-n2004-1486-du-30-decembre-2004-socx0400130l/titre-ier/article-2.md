@@ -2,19 +2,19 @@
 
 La haute autorité est composée d'un collège de onze membres nommés par décret du Président de la République :
 
-- deux membres, dont le président, désignés par le Président de la République ;
+-deux membres, dont le président, désignés par le Président de la République ;
 
-- deux membres désignés par le président du Sénat ;
+-deux membres désignés par le président du Sénat ;
 
-- deux membres désignés par le président de l'Assemblée nationale ;
+-deux membres désignés par le président de l'Assemblée nationale ;
 
-- deux membres désignés par le Premier ministre ;
+-deux membres désignés par le Premier ministre ;
 
-- un membre désigné par le vice-président du Conseil d'Etat ;
+-un membre désigné par le vice-président du Conseil d'Etat ;
 
-- un membre désigné par le premier président de la Cour de cassation ;
+-un membre désigné par le premier président de la Cour de cassation ;
 
-- un membre désigné par le président du Conseil économique et social.
+-un membre désigné par le président du   Conseil économique, social et environnemental.
 
 Les désignations du Président de la République, du président du Sénat, du président de l'Assemblée nationale et du Premier ministre concourent à une représentation équilibrée entre les femmes et les hommes.
 

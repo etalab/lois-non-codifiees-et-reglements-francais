@@ -1,11 +1,11 @@
 # Article 2
 
-Le Conseil Economique et Social est saisi, au nom du Gouvernement, par le premier ministre de demandes d'avis ou d'études.
+Le Conseil économique, social et environnemental est obligatoirement saisi pour avis, par le Premier ministre, des projets de loi de plan et des projets de loi de programmation à caractère économique, social ou environnemental. Il peut être au préalable associé à leur élaboration.
 
-Le Conseil Economique et Social est obligatoirement saisi pour avis des projets de lois de programmes ou de plans à caractère économique ou social, à l'exception des lois de finances. Il peut être, au préalable, associé à leur élaboration.
+Il peut être saisi pour avis, par le Premier ministre, des projets de loi de programmation définissant les orientations pluriannuelles des finances publiques, des projets de loi, d'ordonnance ou de décret ainsi que des propositions de loi entrant dans le domaine de sa compétence.
 
-Il peut être saisi des projets de lois ou de décrets ainsi que des propositions de lois entrant dans le domaine de sa compétence.
+Il peut également être consulté, par le Premier ministre, le président de l'Assemblée nationale ou le président du Sénat, sur tout problème de caractère économique, social ou environnemental.
 
-Dans les cas prévus aux deux alinéas précédents, si le Gouvernement déclare l'urgence, le Conseil Economique et Social donne son avis dans un délai d'un mois.
+Il peut être saisi de demandes d'avis ou d'études par le Premier ministre, par le président de l'Assemblée nationale ou par le président du Sénat.
 
-Il peut également être consulté sur tout problème de caractère économique ou social intéressant la République.
+Dans les cas prévus aux deux premiers alinéas, le Conseil économique, social et environnemental donne son avis dans le délai d'un mois si le Premier ministre déclare l'urgence.

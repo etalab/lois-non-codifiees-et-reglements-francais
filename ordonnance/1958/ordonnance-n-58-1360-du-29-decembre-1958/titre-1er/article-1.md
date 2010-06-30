@@ -1,7 +1,9 @@
 # Article 1
 
-Le Conseil Economique et Social est auprès des pouvoirs publics une assemblée consultative.
+Le Conseil économique, social et environnemental est auprès des pouvoirs publics une assemblée consultative.
 
-Par la représentation des principales activités économiques et sociales, le Conseil favorise la collaboration des différentes catégories professionnelles entre elles et assure leur participation à la politique économique et sociale du Gouvernement.
+Représentant les principales activités du pays, le Conseil favorise leur collaboration et assure leur participation à la politique économique, sociale et environnementale de la Nation.
 
-Il examine et suggère les adaptations économiques ou sociales rendues nécessaires notamment par les techniques nouvelles.
+Il examine les évolutions en matière économique, sociale ou environnementale et suggère les adaptations qui lui paraissent nécessaires.
+
+Il promeut une politique de dialogue et de coopération avec les assemblées consultatives créées auprès des collectivités territoriales et auprès de ses homologues européens et étrangers.
