@@ -1,0 +1,3 @@
+# Article 4
+
+Dans le cadre des pouvoirs d'investigation sur pièces et sur place prévus par l'article 8 du décret du 26 mai 1955 susvisé, des opérations de vérifications sont organisées par le responsable de la mission compétente du service du contrôle général économique et financier au titre d'un programme annuel de contrôle. Elles donnent lieu à l'établissement d'un rapport de contrôle soumis pour avis au président et au directeur général de l'interprofession concernée. Une synthèse de ce rapport final est communiquée par le contrôleur au conseil d'administration de l'interprofession ou aux membres du bureau du conseil d'administration.

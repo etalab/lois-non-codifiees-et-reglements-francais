@@ -526,6 +526,7 @@
 - [Décret n°2010-423 du 28 avril 2010 (ECEL0907495D)](decret-n2010-423-du-28-avril-2010-ecel0907495d)
 - [Décret n°2010-424 du 28 avril 2010 (MTSS1010351D)](decret-n2010-424-du-28-avril-2010-mtss1010351d)
 - [Décret n°2010-428 du 28 avril 2010 (BCRD1011171D)](decret-n2010-428-du-28-avril-2010-bcrd1011171d)
+- [Décret n°2010-705 du 28 juin 2010 (SASS1014523D)](decret-n2010-705-du-28-juin-2010-sass1014523d)
 - [Décret n°2010-563 du 28 mai 2010 (IOCC0928844D)](decret-n2010-563-du-28-mai-2010-iocc0928844d)
 - [Décret n°2010-564 du 28 mai 2010 (IOCC1003090D)](decret-n2010-564-du-28-mai-2010-iocc1003090d)
 - [Décret n°2010-569 du 28 mai 2010 (IOCC0918466D)](decret-n2010-569-du-28-mai-2010-iocc0918466d)
