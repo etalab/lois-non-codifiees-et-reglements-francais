@@ -275,7 +275,6 @@
 - [Arrêté du 7 mai 2010 (MENE1005166A)](arrete-du-7-mai-2010-mene1005166a)
 - [Arrêté du 8 août 2001 (RECR0100228A)](arrete-du-8-aout-2001-recr0100228a)
 - [Arrêté du 8 avril 2010 (AGRT1005014A)](arrete-du-8-avril-2010-agrt1005014a)
-- [Arrêté du 8 avril 2010 (ECET1004430A)](arrete-du-8-avril-2010-ecet1004430a)
 - [Arrêté du 8 avril 2010 (IMIK1009587A)](arrete-du-8-avril-2010-imik1009587a)
 - [Arrêté du 8 avril 2010 (JUSA1008980A)](arrete-du-8-avril-2010-jusa1008980a)
 - [Arrêté du 8 avril 2010 (MAEF1009369A)](arrete-du-8-avril-2010-maef1009369a)
