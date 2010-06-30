@@ -6,62 +6,62 @@
 <tbody>
 <tr>
 <th>
-<br/>DÉPARTEMENT<br/>
+<br/>DÉPARTEMENT <br/>
 </th>
 <th>
-<br/>SIP-SIE CRÉÉ<br/>
+<br/>SIP-SIE CRÉÉ <br/>
 </th>
 <th>
-<br/>STRUCTURES DONT L'ACTIVITÉ<br/>
-<br/>fiscale est fusionnée<br/>
+<br/>STRUCTURES DONT L'ACTIVITÉ <br/>
+<br/>fiscale est fusionnée <br/>
 </th>
 <th>
-<br/>DATE DE CRÉATION<br/>
+<br/>DATE DE CRÉATION <br/>
 </th>
 </tr>
 <tr>
 <td align="center">
-<br/>14 ― Calvados<br/>
+<br/>14 ― Calvados <br/>
 </td>
 <td align="center">
-<br/>SIP-SIE de Falaise<br/>
+<br/>SIP-SIE de Falaise <br/>
 </td>
 <td align="center">
-<br/>CDI de Falaise<br/>
-<br/>Trésorerie de Falaise<br/>
+<br/>CDI-SIE de Falaise <br/>
+<br/>Trésorerie de Falaise <br/>
 </td>
 <td align="center">
-<br/>01/07/2010<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>21 ― Côte-d'Or<br/>
-</td>
-<td align="center">
-<br/>SIP-SIE de Châtillon-sur-Seine<br/>
-</td>
-<td align="center">
-<br/>CDI de Châtillon-sur-Seine<br/>
-<br/>Trésorerie de Châtillon-sur-Seine<br/>
-</td>
-<td align="center">
-<br/>01/07/2010<br/>
+<br/>01 / 07 / 2010 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>58 ― Nièvre<br/>
+<br/>21 ― Côte-d'Or <br/>
 </td>
 <td align="center">
-<br/>SIP-SIE de Cosne-sur-Loire<br/>
+<br/>SIP-SIE de Châtillon-sur-Seine <br/>
 </td>
 <td align="center">
-<br/>CDI de Cosne-sur-Loire<br/>
-<br/>Trésorerie de Cosne-Cours-sur-Loire<br/>
+<br/>CDI-SIE de Châtillon-sur-Seine <br/>
+<br/>Trésorerie de Châtillon-sur-Seine <br/>
 </td>
 <td align="center">
-<br/>01/07/2010</td>
+<br/>01 / 07 / 2010 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>58 ― Nièvre <br/>
+</td>
+<td align="center">
+<br/>SIP-SIE de Cosne-sur-Loire <br/>
+</td>
+<td align="center">
+<br/>CDI-SIE de Cosne-sur-Loire <br/>
+<br/>Trésorerie de Cosne-Cours-sur-Loire <br/>
+</td>
+<td align="center">
+<br/>01 / 07 / 2010</td>
 </tr>
 </tbody>
 </table>

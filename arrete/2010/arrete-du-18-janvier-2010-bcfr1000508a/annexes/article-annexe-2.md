@@ -6,30 +6,30 @@ LISTE DES SERVICES DES IMPÔTS DES PARTICULIERS ET DES ENTREPRISES (SIP-SIE)
 <tbody>
 <tr>
 <th>
-<br/>DÉPARTEMENT<br/>
+<br/>DÉPARTEMENT <br/>
 </th>
 <th>
-<br/>SIP-SIE CRÉÉ<br/>
+<br/>SIP-SIE CRÉÉ <br/>
 </th>
 <th>
-<br/>STRUCTURES <p>dont l'activité fiscale est fusionnée<br/>
+<br/>STRUCTURES <p>dont l'activité fiscale est fusionnée <br/>
 </p>
 </th>
 <th>
-<br/>DATE DE CRÉATION<br/>
+<br/>DATE DE CRÉATION <br/>
 </th>
 </tr>
 <tr>
 <td align="center">
 <p align="left">
-<br/>61 - Orne</p>
+<br/>61-Orne </p>
 </td>
 <td align="center">
 <p align="center">
-<br/>SIP-SIE de Domfront</p>
+<br/>SIP-SIE de Domfront </p>
 </td>
 <td align="center">
-<br/>CDI de Domfront <p>Trésorerie de Domfront</p>
+<br/>CDI-SIE de Domfront <p>Trésorerie de Domfront </p>
 </td>
 <td align="center">
 <p align="center">
