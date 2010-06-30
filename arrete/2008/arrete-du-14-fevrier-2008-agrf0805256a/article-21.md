@@ -1,3 +1,0 @@
-# Article 21
-
-Le plan végétal pour l'environnement est un des dispositifs (121 B) de l'axe 1 du programme de développement rural hexagonal 2007-2013 (PDRH) approuvé par la Commission européenne et, à ce titre, l'aide mentionnée à l'article 2 du présent arrêté peut faire l'objet d'un cofinancement de 50 % par le Fonds européen agricole pour le développement rural (FEADER). L'aide peut être complétée par d'autres financeurs qui interviennent dans le cadre de ce plan. Le programme approuvé ainsi que les documents régionaux de développement rural (DRDR) indiquent les modalités d'intervention des financeurs publics nationaux en vue de l'obtention de la contrepartie FEADER par l'Union européenne.
