@@ -2389,7 +2389,6 @@
 - [Arrêté du 26 août 2009 (DEVP0905081A)](arrete-du-26-aout-2009-devp0905081a)
 - [Arrêté du 26 août 2009 (ECEC0907816A)](arrete-du-26-aout-2009-ecec0907816a)
 - [Arrêté du 26 août 2009 (ECEP0919163A)](arrete-du-26-aout-2009-ecep0919163a)
-- [Arrêté du 26 août 2009 (IOCC0919870A)](arrete-du-26-aout-2009-iocc0919870a)
 - [Arrêté du 26 août 2009 (MAEA0920031A)](arrete-du-26-aout-2009-maea0920031a)
 - [Arrêté du 26 août 2009 (MENA0914075A)](arrete-du-26-aout-2009-mena0914075a)
 - [Arrêté du 26 avril 2002 (MESO0210377A)](arrete-du-26-avril-2002-meso0210377a)
