@@ -2,14 +2,12 @@
 
 Le nombre des comités techniques créés dans chacune des régions de sécurité sociale en fonction des branches ou groupes de branches d'activités représentées dans ces régions est ainsi fixé :
 
-Sept pour la région de Paris ;
+Deux pour la région Auvergne ;
 
-Six pour la région de Lille ;
+Trois pour les régions Aquitaine, Bourgogne, Franche-Comté, Bretagne, Centre, Centre-Ouest, Languedoc-Roussillon et Midi-Pyrénées ;
 
-Cinq pour les régions de Lyon, Marseille et Nantes ;
+Quatre pour les régions Alsace-Moselle, Nord-Est et Normandie ;
 
-Quatre pour les régions de Nancy, Rouen, Strasbourg ;
+Cinq pour les régions Pays de la Loire, Rhône-Alpes et Sud-Est ;
 
-Trois pour les régions de Bordeaux, Dijon, Limoges, Montpellier, Orléans, Rennes et Toulouse ;
-
-Deux pour la région de Clermont-Ferrand.
+Six pour les régions Ile-de-France et Nord-Picardie
