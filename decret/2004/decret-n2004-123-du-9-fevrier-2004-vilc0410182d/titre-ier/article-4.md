@@ -15,3 +15,7 @@ Le directeur général de l'agence, le membre du corps du contrôle général é
 Le conseil d'administration entend le ministre de tutelle à sa demande.
 
 Le conseil d'administration ou son président peut également inviter à assister à tout ou partie de ses réunions toute personne qu'il souhaite entendre.
+
+Le bureau du conseil d'administration est composé du président de l'agence et de neuf membres du conseil d'administration, à savoir un représentant du ministre chargé de la politique de la ville, du ministre chargé du logement, du ministre chargé du budget et du ministre chargé de l'économie, d'un représentant des collectivités locales et de leurs groupements, de deux représentants de l'Union d'économie sociale du logement (Action Logement), d'un représentant de l'Union nationale des fédérations d'organismes d'habitations à loyer modéré (Union sociale pour l'habitat) et d'un représentant de la Caisse des dépôts et consignations. Il se réunit à l'initiative du président. Il examine les éléments nécessaires à la préparation du conseil d'administration, notamment les questions financières. En cas de partage égal des voix, celle du président est prépondérante.
+
+Le directeur général de l'agence, le membre de l'autorité chargée du contrôle économique et financier et l'agent comptable assistent aux séances du bureau avec voix consultative.

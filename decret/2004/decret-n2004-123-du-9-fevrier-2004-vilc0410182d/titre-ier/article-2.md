@@ -1,16 +1,20 @@
 # Article 2
 
-L'Agence nationale pour la rénovation urbaine est administrée par un conseil de vingt-huit membres qui comprend :
+L'Agence nationale pour la rénovation urbaine est administrée par un conseil de   trente-six membres qui comprend :
 
-1° Quatorze représentants de l'Etat :
+1° Dix-huit représentants de l'Etat :
 
-- quatre représentants du ministre chargé de la politique de la ville ;
+- cinq représentants du ministre chargé de la politique de la ville ;
 
-- deux représentants du ministre chargé du logement ;
+- trois représentants du ministre chargé du logement ;
 
-- deux représentants du ministre chargé des finances ;
+- un représentant du ministre chargé du budget ;
+
+- un représentant du ministre chargé de l'économie ;
 
 - un représentant du ministre de l'intérieur ;
+
+- un représentant du ministre chargé des collectivités locales ;
 
 - un représentant du ministre chargé des affaires sociales ;
 
@@ -20,31 +24,33 @@ L'Agence nationale pour la rénovation urbaine est administrée par un conseil d
 
 - un représentant du ministre chargé de l'urbanisme ;
 
-- un représentant du ministre chargé de l'éducation nationale.
+- un représentant du ministre chargé de l'éducation nationale ;
+
+- un représentant du ministre chargé de la culture et de la communication.
 
 2° Quatre représentants des collectivités locales et de leurs groupements :
 
-- un représentant des maires désigné par l'Association des maires de France ;
+-un représentant des maires désigné par l'Association des maires de France ;
 
-- un représentant des présidents d'établissements publics de coopération intercommunale désigné par l'Association des communautés de France ;
+-un représentant des présidents d'établissements publics de coopération intercommunale désigné par l'Association des communautés de France ;
 
-- un représentant des présidents de conseils généraux désigné par l'Assemblée des départements de France ;
+-un représentant des présidents de conseils généraux désigné par l'Assemblée des départements de France ;
 
-- un représentant des présidents de conseils régionaux désigné par l'Association des régions de France.
+-un représentant des présidents de conseils régionaux désigné par l'Association des régions de France.
 
-3° Six représentants d'organismes intervenant dans la politique du logement social :
+3° Huit représentants d'organismes intervenant dans la politique du logement social :
 
-- un représentant de l'Union nationale des fédérations d'organismes d'habitations à loyer modéré ;
+-un représentant de l'Union nationale des fédérations d'organismes d'habitations à loyer modéré ;
 
-- deux représentants de l'Union d'économie sociale du logement ;
+-quatre représentants de l'Union d'économie sociale du logement (Action Logement) ;
 
-- un représentant de la Caisse des dépôts et consignations ;
+-un représentant de la Caisse des dépôts et consignations ;
 
-- un représentant de l'Agence nationale de l'habitat ;
+-un représentant de l'Agence nationale de l'habitat ;
 
-- un représentant de la fédération des sociétés d'économie mixte.
+-un représentant de la fédération des sociétés d'économie mixte.
 
-4° Quatre personnalités qualifiées en matière de politique de la ville, qui peuvent être des parlementaires :
+4° Six personnalités qualifiées en matière de politique de la ville, qui peuvent être des parlementaires :
 
 Les membres du conseil d'administration ainsi qu'un nombre égal de suppléants sont nommés pour une durée de cinq ans, renouvelable une fois, par arrêté du ministre qu'ils représentent en ce qui concerne les représentants de l'Etat et par arrêté du ministre chargé de la politique de la ville pour les autres membres.
 

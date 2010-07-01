@@ -6,7 +6,7 @@ Le directeur général assure la gestion de l'agence, il la représente en justi
 
 Sur délégation du conseil d'administration et dans les conditions déterminées par celui-ci, il transige et conclut les conventions nécessaires au fonctionnement de l'agence et les conventions pluriannuelles.
 
-Il prépare les séances du comité d'engagement et du conseil d'administration. Il assure l'exécution des délibérations du conseil et lui rend compte, à chaque réunion, de l'activité de l'agence, et notamment des décisions prises sur le fondement des délégations qu'il a reçues.
+Il prépare les séances du bureau du conseil d'administration, des comités d'engagement des programmes nationaux et du conseil d'administration. Il assure l'exécution des délibérations du conseil et lui rend compte, à chaque réunion, de l'activité de l'agence, et notamment des décisions prises sur le fondement des délégations qu'il a reçues.
 
 Il décide de l'attribution des subventions et peut déléguer ce pouvoir aux délégués de l'agence dans le département.
 
