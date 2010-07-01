@@ -1,4 +1,0 @@
-# CHAPITRE IER : DISPOSITIONS RENFORCANT LA LUTTE  CONTRE LES BANDES VIOLENTES
-
-- [Article 1](article-1.md)
-- [Article 5](article-5.md)

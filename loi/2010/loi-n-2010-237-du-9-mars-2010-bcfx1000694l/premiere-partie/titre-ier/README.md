@@ -1,4 +1,0 @@
-# TITRE IER : DISPOSITIONS RELATIVES  AUX RESSOURCES
-
-- [AUTRES DISPOSITIONS](autres-dispositions)
-- [RESSOURCES AFFECTÉES](ressources-affectees)

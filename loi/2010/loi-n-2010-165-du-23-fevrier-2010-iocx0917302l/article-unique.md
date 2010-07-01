@@ -1,3 +1,0 @@
-# Article unique.
-
-L'ordonnance n° 2009-935 du 29 juillet 2009 portant répartition des sièges et délimitation des circonscriptions pour l'élection des députés, prise en application de la loi n° 2009-39 du 13 janvier 2009 relative à la commission prévue à l'article 25 de la Constitution et à l'élection des députés et autorisant le Gouvernement à fixer le nombre total et à délimiter les circonscriptions des députés élus par les Français établis hors de France et à mettre à jour la répartition des sièges de députés élus dans les départements et dans les collectivités d'outre-mer, ainsi que la délimitation des circonscriptions législatives, est ratifiée.

@@ -1,4 +1,0 @@
-# SECONDE PARTIE  MOYENS DES POLITIQUES PUBLIQUES  ET DISPOSITIONS SPECIALES
-
-- [Article 3](article-3.md)
-- [Article ](article-.md)

@@ -1,7 +1,0 @@
-# Article 39
-
-I. ― Le président de l'Autorité de régulation des jeux en ligne saisit l'Autorité de la concurrence des situations susceptibles d'être constitutives de pratiques entravant le libre exercice de la concurrence dont il a connaissance dans le secteur des jeux en ligne, notamment lorsqu'il estime que ces pratiques sont prohibées par les articles L. 420-1 et L. 420-2 du code de commerce, l'article 25 de la présente loi ou les articles L. 333-1-1 et L. 333-1-2 du code du sport. Cette saisine peut être introduite dans le cadre d'une procédure d'urgence, conformément à l'article L. 464-1 du code de commerce.
-
-Il peut également la saisir pour avis de toute autre question relevant de sa compétence et, notamment, en vue d'établir l'existence d'une pratique prohibée par l'article L. 420-5 du code de commerce, de manquements aux obligations définies à l'article 25 de la présente loi.
-
-II. ― L'Autorité de la concurrence communique à l'Autorité de régulation des jeux en ligne toute saisine entrant dans le champ de compétence de celle-ci. Elle peut également saisir l'Autorité de régulation des jeux en ligne, pour avis, de toute question relative au secteur des jeux en ligne. Lorsqu'elle est consultée par l'Autorité de la concurrence sur des pratiques dont cette dernière est saisie dans le secteur des jeux d'argent et de hasard, l'Autorité de régulation des jeux en ligne joint à son avis, dans le délai imparti, tous les éléments utiles à l'instruction de l'affaire qui sont en sa possession.

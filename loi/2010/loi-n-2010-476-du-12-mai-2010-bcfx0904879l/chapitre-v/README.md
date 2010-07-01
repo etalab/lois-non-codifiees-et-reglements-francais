@@ -1,3 +1,0 @@
-# CHAPITRE V : REGIME DE DELIVRANCE DES AGREMENTS
-
-- [Article 21](article-21.md)

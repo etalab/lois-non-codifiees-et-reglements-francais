@@ -1,7 +1,0 @@
-# Article 125
-
-Les maîtres de conférences régis par le décret n° 84-431 du 6 juin 1984 relatif au statut des enseignants-chercheurs de l'enseignement supérieur et les agents appartenant à l'un des corps assimilés à celui des maîtres de conférences en application de l'annexe du décret n° 2009-462 du 23 avril 2009 relatif aux règles de classement des personnes nommées dans les corps d'enseignants-chercheurs des établissements publics d'enseignement supérieur et de recherche relevant du ministre chargé de l'enseignement supérieur, titularisés dans leur corps avant le 1er septembre 2009, classés dans le premier grade et en fonctions à la date de publication de la présente loi, peuvent bénéficier, sur leur demande, d'une proposition de reclassement établie par application du décret n° 2009-462 du 23 avril 2009 précité, la durée des services accomplis depuis la date de leur recrutement et jusqu'au 31 août 2009 étant prise en compte dans la limite d'un an. Toutefois, l'ancienneté de service des intéressés dans leur corps continue à être décomptée à partir de la date à laquelle ils y ont accédé.
-
-La demande doit être présentée dans un délai de six mois à compter de la date de publication de la présente loi. Les demandeurs doivent justifier, par tout moyen approprié, de la nature et de la durée des services à prendre en compte.
-
-L'administration leur communique une proposition de nouveau classement. Ils disposent alors d'un délai de deux mois pour faire connaître leur décision.

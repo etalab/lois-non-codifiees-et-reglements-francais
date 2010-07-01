@@ -1,3 +1,0 @@
-# CHAPITRE VIII : LA TRANSPARENCE DES OPERATIONS DE JEU
-
-- [Article 31](article-31.md)
