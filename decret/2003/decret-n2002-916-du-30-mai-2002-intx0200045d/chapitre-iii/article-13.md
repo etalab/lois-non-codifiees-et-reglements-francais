@@ -1,3 +1,3 @@
 # Article 13
 
-Les dispositions du présent décret ne s'appliquent pas aux zones de défense des Antilles, de la Guyane et du sud de l'océan Indien.
+Le présent décret est applicable en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna et dans les Terres australes et antarctiques françaises, sous réserve des adaptations prévues à l'article 13-2.
