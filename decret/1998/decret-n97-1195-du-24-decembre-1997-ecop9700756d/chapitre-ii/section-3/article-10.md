@@ -82,8 +82,4 @@ Sont prises par les directeurs interrégionaux, les chefs de service à compéte
 
 38° Enregistrement des distributeurs d'huiles végétales pures, non titulaires d'entrepôt fiscal de production d'huiles végétales pures, prévu par le décret n° 2007-446 du 25 mars 2007 ;
 
-39° Décisions relatives à l'implantation et à l'exploitation des débits de tabac ordinaires permanents ou saisonniers, prévues par les articles 4 à 19 du décret n° 2007-906 du 15 mai 2007 relatif à la gérance et au transfert des débits de tabac ;
-
-40° Décisions relatives à l'implantation et à l'exploitation des débits de tabac spéciaux, prévues par les articles 20 à 22 du décret n° 2007-906 du 15 mai 2007 relatif à la gérance et au transfert des débits de tabac ;
-
-41° Décisions relatives à la faculté de revendre des tabacs manufacturés, prévues par l'article 26 du décret n° 2007-906 du 15 mai 2007 relatif à la gérance et au transfert des débits de tabac.
+39° Décisions relatives à l'implantation, au fonctionnement et à la fermeture des débits de tabac ordinaires et spéciaux, à la discipline des débitants de tabac ainsi qu'à la revente et aux revendeurs de tabac prévues par le décret n° 2010-720 du 28 juin 2010 relatif à l'exercice du monopole de la vente au détail des tabacs manufacturés (BCFD1001463D).
