@@ -2,9 +2,9 @@
 
 Sont délégataires au sens de l'article 1er, premier alinéa, du présent arrêté :
 
-1. Le commandant du centre administratif de la gendarmerie nationale, sans limitation de montant ;
+1. Le directeur de l'établissement central de l'administration et du soutien de la gendarmerie nationale, sans limitation de montant ;
 
-2. Les commandants de centre administratif territorial de la gendarmerie, pour les contrats dont le montant maximum global est inférieur à 180 fois le montant des seuils fixés au II de l'article 26 du code des marchés publics ;
+2. Les commandants de région de gendarmerie située au siège de la zone de défense, pour les contrats dont le montant maximum global est inférieur à 180 fois le montant des seuils fixés au II de l'article 26 du code des marchés publics ;
 
 3. Les commandants de région de gendarmerie pour les contrats dont le montant maximum global est inférieur à 0,66 fois le montant des seuils fixés au II de l'article 26 du code des marchés publics ;
 
