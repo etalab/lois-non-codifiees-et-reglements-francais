@@ -2128,7 +2128,6 @@
 - [Arrêté du 23 juillet 2009 (MTSO0913905A)](arrete-du-23-juillet-2009-mtso0913905a)
 - [Arrêté du 23 juillet 2009 (PRMX0917255A)](arrete-du-23-juillet-2009-prmx0917255a)
 - [Arrêté du 23 juillet 2009 (SASF0917549A)](arrete-du-23-juillet-2009-sasf0917549a)
-- [Arrêté du 23 juillet 2009 (SASH0917674A)](arrete-du-23-juillet-2009-sash0917674a)
 - [Arrêté du 23 juin 2009 (AGRT0913337A)](arrete-du-23-juin-2009-agrt0913337a)
 - [Arrêté du 23 juin 2009 (AGRT0913767A)](arrete-du-23-juin-2009-agrt0913767a)
 - [Arrêté du 23 juin 2009 (DEVA0911830A)](arrete-du-23-juin-2009-deva0911830a)
