@@ -418,6 +418,7 @@
 - [Décret n°2010-90 du 22 janvier 2010 (AGRT0927393D)](decret-n2010-90-du-22-janvier-2010-agrt0927393d)
 - [Décret n°2010-91 du 22 janvier 2010 (AGRT0925746D)](decret-n2010-91-du-22-janvier-2010-agrt0925746d)
 - [Décret n°2010-94 du 22 janvier 2010 (ECED0928798D)](decret-n2010-94-du-22-janvier-2010-eced0928798d)
+- [Décret n°2000-1119 du 23 novembre 2000 (INTA0000307D)](decret-n2000-1119-du-23-novembre-2000-inta0000307d)
 - [Décret n°2009-1632 du 23 décembre 2009 (IOCC0923344D)](decret-n2009-1632-du-23-decembre-2009-iocc0923344d)
 - [Décret n°2009-1648 du 23 décembre 2009 (DEVA0922292D)](decret-n2009-1648-du-23-decembre-2009-deva0922292d)
 - [Décret n°2010-167 du 23 février 2010 (BCFF0916557D)](decret-n2010-167-du-23-fevrier-2010-bcff0916557d)
