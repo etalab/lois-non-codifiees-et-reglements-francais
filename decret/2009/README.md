@@ -702,7 +702,6 @@
 - [Décret n°2007-1792 du 19 décembre 2007 (AGRS0764728D)](decret-n2007-1792-du-19-decembre-2007-agrs0764728d)
 - [Décret n°2008-1386 du 19 décembre 2008 (MENH0817629D)](decret-n2008-1386-du-19-decembre-2008-menh0817629d)
 - [Décret n°2008-1392 du 19 décembre 2008 (MCCT0817497D)](decret-n2008-1392-du-19-decembre-2008-mcct0817497d)
-- [Décret n°2008-1406 du 19 décembre 2008 (AGRS0824169D)](decret-n2008-1406-du-19-decembre-2008-agrs0824169d)
 - [Décret n°2009-1256 du 19 octobre 2009 (ECER0921301D)](decret-n2009-1256-du-19-octobre-2009-ecer0921301d)
 - [Décret n°2009-1259 du 19 octobre 2009 (ECER0922200D)](decret-n2009-1259-du-19-octobre-2009-ecer0922200d)
 - [Décret n°2009-1260 du 19 octobre 2009 (MTSS0909735D)](decret-n2009-1260-du-19-octobre-2009-mtss0909735d)
