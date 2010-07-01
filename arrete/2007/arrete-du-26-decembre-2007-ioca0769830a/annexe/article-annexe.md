@@ -7,14 +7,14 @@ ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 <table>
 <tbody>
 <tr>
-<th>SERVICES OU DIRECTIONS<br/>
+<th>SERVICES OU DIRECTIONS <br/>
 </th>
-<th>DÉSIGNATION DE L'EMPLOI<br/>
+<th>DÉSIGNATION DE L'EMPLOI <br/>
 </th>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Préfectures :<br/>
+<p align="left">Préfectures : <br/>
 </p>
 </td>
 <td align="center">
@@ -25,11 +25,10 @@ ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 </tr>
 <tr>
 <td align="center">
-<p align="left">Bouches-du-Rhône <br/>
-</p>
+<p align="left">Bouches-du-Rhône </p>
 </td>
 <td align="center">
-<p align="left">Directeur des étrangers et de l'accueil en France.</p>
+<p align="left">Directeur du service de l'immigration et de l'intégration. </p>
 </td>
 </tr>
 <tr>
@@ -38,7 +37,7 @@ ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 </p>
 </td>
 <td align="center">
-<p align="left">Directeur de la réglementation et des libertés publiques.<br/>
+<p align="left">Directeur de la réglementation et des libertés publiques. <br/>
 </p>
 </td>
 </tr>
@@ -48,8 +47,7 @@ ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 </p>
 </td>
 <td align="center">
-<p align="left">Directeur de la réglementation.<br/>
-</p>
+<p align="left">Directeur de la citoyenneté, de l'immigration et de l'intégration.</p>
 </td>
 </tr>
 <tr>
@@ -58,7 +56,7 @@ ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 </p>
 </td>
 <td align="center">
-<p align="left">Directeur de la citoyenneté et de la réglementation.<br/>
+<p align="left">Directeur de la citoyenneté et de la réglementation. <br/>
 </p>
 </td>
 </tr>
@@ -69,7 +67,7 @@ ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 </p>
 </td>
 <td align="center">
-<p align="left">Directeur des actions interministérielles et du développement durable.<br/>
+<p align="left">Directeur des actions interministérielles et du développement durable. <br/>
 </p>
 </td>
 </tr>
@@ -79,8 +77,8 @@ ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 </p>
 </td>
 <td align="center">
-<p align="left">Directeur de la citoyenneté et des libertés publiques. </p>
-<p align="left">Directeur du management, des moyens et de la modernisation.<br/>
+<p align="left">Directeur de la citoyenneté, de l'immigration et de l'intégration. </p>
+<p align="left">Directeur du management, des moyens et de la modernisation. <br/>
 </p>
 </td>
 </tr>
@@ -91,7 +89,7 @@ ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 </p>
 </td>
 <td align="center">
-<p align="left">Directeur du développement durable.<br/>
+<p align="left">Directeur du développement durable. <br/>
 </p>
 </td>
 </tr>
@@ -101,7 +99,7 @@ ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 </p>
 </td>
 <td align="center">
-<p align="left">Directeur des ressources humaines et des moyens.<br/>
+<p align="left">Directeur des ressources humaines et des moyens. <br/>
 </p>
 </td>
 </tr>
@@ -111,7 +109,7 @@ ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 </p>
 </td>
 <td align="center">
-<p align="left">Directeur de la population et de la citoyenneté.<br/>
+<p align="left">Directeur de la population et de la citoyenneté. <br/>
 </p>
 </td>
 </tr>
@@ -122,7 +120,7 @@ ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 </p>
 </td>
 <td align="center">
-<p align="left">Directeur des finances et des moyens de l'Etat.<br/>
+<p align="left">Directeur des finances et des moyens de l'Etat. <br/>
 </p>
 </td>
 </tr>
@@ -132,8 +130,8 @@ ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 </p>
 </td>
 <td align="center">
-<p align="left">Directeur des étrangers.<br/>
-</p>
+<p align="left">Directeur des étrangers. </p>
+<p align="left">Directeur de la réglementation. </p>
 </td>
 </tr>
 <tr>
@@ -142,7 +140,7 @@ ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 </p>
 </td>
 <td align="center">
-<p align="left">Directeur de la citoyenneté et des étrangers.<br/>
+<p align="left">Directeur de la citoyenneté et des étrangers. <br/>
 </p>
 </td>
 </tr>
@@ -153,7 +151,7 @@ ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 </p>
 </td>
 <td align="center">
-<p align="left">Directeur des relations avec les collectivités locales.<br/>
+<p align="left">Directeur des relations avec les collectivités locales. <br/>
 </p>
 </td>
 </tr>
@@ -163,34 +161,13 @@ ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 </p>
 </td>
 <td align="center">
-<p align="left">Directeur du développement durable et des collectivités territoriales.<br/>
+<p align="left">Directeur du développement durable et des collectivités territoriales. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Sous-préfecture :<br/>
-</p>
-</td>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Le Raincy <br/>
-</p>
-</td>
-<td align="center">
-<p align="left">Secrétaire général.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Administration centrale du ministère de l'intérieur, de l'outre-mer et des collectivité territoriales :<br/>
+<p align="left">Administration centrale du ministère de l'intérieur, de l'outre-mer et des collectivité territoriales : <br/>
 </p>
 </td>
 <td align="center">
@@ -205,7 +182,7 @@ ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 </p>
 </td>
 <td align="center">
-<p align="left">Chef du bureau des cabinets.<br/>
+<p align="left">Chef du bureau des cabinets. <br/>
 </p>
 </td>
 </tr>
@@ -215,7 +192,7 @@ ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 </p>
 </td>
 <td align="center">
-<p align="left">Chef du bureau de la nationalité, des titres d'identité et de voyage.<br/>
+<p align="left">Chef du bureau de la nationalité, des titres d'identité et de voyage. <br/>
 </p>
 </td>
 </tr>
@@ -225,7 +202,7 @@ ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 </p>
 </td>
 <td align="center">
-<p align="left">Chef du bureau du budget et du fonctionnement.<br/>
+<p align="left">Chef du bureau du budget et du fonctionnement. <br/>
 </p>
 </td>
 </tr>
@@ -235,13 +212,13 @@ ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 </p>
 </td>
 <td align="center">
-<p align="left">Chef du bureau des affaires disciplinaires.<br/>
+<p align="left">Chef du bureau des affaires disciplinaires. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Préfecture de police :<br/>
+<p align="left">Préfecture de police : <br/>
 </p>
 </td>
 <td align="center">
@@ -256,7 +233,7 @@ ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 </p>
 </td>
 <td align="center">
-<p align="left">Chef du 2e bureau.<br/>
+<p align="left">Chef du 2e bureau. <br/>
 </p>
 </td>
 </tr>
@@ -267,7 +244,7 @@ ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 </p>
 </td>
 <td align="center">
-<p align="left">Chef du 8e bureau.<br/>
+<p align="left">Chef du 8e bureau. <br/>
 </p>
 </td>
 </tr>
@@ -277,7 +254,7 @@ ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 </p>
 </td>
 <td align="center">
-<p align="left">Chef du service de gestion opérationnelle et des équipements.<br/>
+<p align="left">Chef du service de gestion opérationnelle et des équipements. <br/>
 </p>
 </td>
 </tr>
@@ -292,7 +269,7 @@ ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 </tr>
 <tr>
 <td align="center">
-<p align="left">Préfecture de Paris :<br/>
+<p align="left">Préfecture de la région d'Ile-de-France, préfecture de Paris : <br/>
 </p>
 </td>
 <td align="center">
@@ -307,13 +284,13 @@ ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 </p>
 </td>
 <td align="center">
-<p align="left">Chef du bureau de la politique sociale du logement.<br/>
+<p align="left">Chef du bureau de la politique sociale du logement. <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Secrétariat général pour l'administration de la police :<br/>
+<p align="left">Secrétariat général pour l'administration de la police : <br/>
 </p>
 </td>
 <td align="center">
@@ -327,7 +304,7 @@ ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 <p align="left">Zone de défense Sud</p>
 </td>
 <td align="center">
-<p align="left">Directeur des personnels et des relations sociales.<br/>
+<p align="left">Directeur des personnels et des relations sociales. <br/>
 </p>
 </td>
 </tr>
@@ -336,7 +313,7 @@ ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 <p align="left">Zone de défense Ouest</p>
 </td>
 <td align="center">
-<p align="left">Directeurs des ressources humaines.<br/>
+<p align="left">Directeurs des ressources humaines. <br/>
 </p>
 </td>
 </tr>
@@ -345,7 +322,7 @@ ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 <p align="left">Zone de défense Sud-Est</p>
 </td>
 <td align="center">
-<p align="left">Directeurs des ressources humaines.<br/>
+<p align="left">Directeurs des ressources humaines. <br/>
 </p>
 </td>
 </tr>
@@ -355,7 +332,7 @@ ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 </p>
 </td>
 <td align="center">
-<p align="left">Directeur de l'administration générale et des finances.<br/>
+<p align="left">Directeur de l'administration générale et des finances. <br/>
 </p>
 </td>
 </tr>

@@ -101,7 +101,6 @@
 - [Arrêté du 3 décembre 2009 (DEVL0921767A)](arrete-du-3-decembre-2009-devl0921767a)
 - [Arrêté du 3 décembre 2009 (DEVN0923053A)](arrete-du-3-decembre-2009-devn0923053a)
 - [Arrêté du 3 décembre 2009 (INDI0928645A)](arrete-du-3-decembre-2009-indi0928645a)
-- [Arrêté du 3 décembre 2009 (IOCC0907973A)](arrete-du-3-decembre-2009-iocc0907973a)
 - [Arrêté du 3 décembre 2009 (SASP0919927A)](arrete-du-3-decembre-2009-sasp0919927a)
 - [Arrêté du 3 février 2003 (AGRA0300119A)](arrete-du-3-fevrier-2003-agra0300119a)
 - [Arrêté du 3 février 2009 (MCCI0902765A)](arrete-du-3-fevrier-2009-mcci0902765a)
