@@ -3143,7 +3143,6 @@
 - [Arrêté du 1er décembre 2008 (JUSK0828783A)](arrete-du-1er-decembre-2008-jusk0828783a)
 - [Arrêté du 1er décembre 2008 (JUSK0829813A)](arrete-du-1er-decembre-2008-jusk0829813a)
 - [Arrêté du 1er avril 2009 (AGRS0907714A)](arrete-du-1er-avril-2009-agrs0907714a)
-- [Arrêté du 1er avril 2009 (IOCB0907086A)](arrete-du-1er-avril-2009-iocb0907086a)
 - [Arrêté du 1er avril 2009 (IOCD0907699A)](arrete-du-1er-avril-2009-iocd0907699a)
 - [Arrêté du 1er avril 2009 (MENC0904901A)](arrete-du-1er-avril-2009-menc0904901a)
 - [Arrêté du 1er avril 2009 (MENC0905089A)](arrete-du-1er-avril-2009-menc0905089a)
