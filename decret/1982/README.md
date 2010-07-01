@@ -100,7 +100,6 @@
 - [Décret n°82-174 du 18 février 1982](decret-n82-174-du-18-fevrier-1982)
 - [Décret n°82-176 du 18 février 1982](decret-n82-176-du-18-fevrier-1982)
 - [Décret n°82-257 du 18 mars 1982](decret-n82-257-du-18-mars-1982)
-- [Décret n°82-887 du 18 octobre 1982](decret-n82-887-du-18-octobre-1982)
 - [Décret n°82-888 du 18 octobre 1982](decret-n82-888-du-18-octobre-1982)
 - [Décret n°82-892 du 18 octobre 1982](decret-n82-892-du-18-octobre-1982)
 - [Décret n°82-893 du 18 octobre 1982](decret-n82-893-du-18-octobre-1982)

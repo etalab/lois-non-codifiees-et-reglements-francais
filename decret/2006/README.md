@@ -302,7 +302,6 @@
 - [Décret n°2006-1655 du 22 décembre 2006 (ECOT0620097D)](decret-n2006-1655-du-22-decembre-2006-ecot0620097d)
 - [Décret n°2006-1660 du 22 décembre 2006 (SANP0622070D)](decret-n2006-1660-du-22-decembre-2006-sanp0622070d)
 - [Décret n°2006-1661 du 22 décembre 2006 (SANP0622071D)](decret-n2006-1661-du-22-decembre-2006-sanp0622071d)
-- [Décret n°2006-1663 du 22 décembre 2006 (FPPA0600142D)](decret-n2006-1663-du-22-decembre-2006-fppa0600142d)
 - [Décret n°2006-1675 du 22 décembre 2006 (SANP0623102D)](decret-n2006-1675-du-22-decembre-2006-sanp0623102d)
 - [Décret n°2006-1676 du 22 décembre 2006 (SANP0623105D)](decret-n2006-1676-du-22-decembre-2006-sanp0623105d)
 - [Décret n°2006-1677 du 22 décembre 2006 (SANP0623103D)](decret-n2006-1677-du-22-decembre-2006-sanp0623103d)

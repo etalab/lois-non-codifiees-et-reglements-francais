@@ -157,7 +157,6 @@
 - [Décret n°83-56 du 26 janvier 1983](decret-n83-56-du-26-janvier-1983)
 - [Décret n°83-691 du 26 juillet 1983](decret-n83-691-du-26-juillet-1983)
 - [Décret n°83-694 du 26 juillet 1983](decret-n83-694-du-26-juillet-1983)
-- [Décret n°83-718 du 26 juillet 1983](decret-n83-718-du-26-juillet-1983)
 - [Décret n°83-765 du 26 août 1983](decret-n83-765-du-26-aout-1983)
 - [Décret n°83-951 du 26 octobre 1983](decret-n83-951-du-26-octobre-1983)
 - [Décret n°83-1174 du 27 décembre 1983](decret-n83-1174-du-27-decembre-1983)

@@ -1,6 +1,5 @@
 # Titre 4 : Transport des personnes.
 
-- [Article 27](article-27.md)
 - [Article 28](article-28.md)
 - [C. - Utilisation des moyens de transport en commun.](c)
 - [D. - Transport du corps d'un agent décédé.](d)
