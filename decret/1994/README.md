@@ -39,7 +39,6 @@
 - [Décret n°94-770 du 2 septembre 1994 (INTD9400332D)](decret-n94-770-du-2-septembre-1994-intd9400332d)
 - [Décret n°94-771 du 2 septembre 1994 (TEFT9400921D)](decret-n94-771-du-2-septembre-1994-teft9400921d)
 - [Décret n°94-788 du 2 septembre 1994 (EQUT9401386D)](decret-n94-788-du-2-septembre-1994-equt9401386d)
-- [Décret n°94-789 du 2 septembre 1994 (MICT9400018D)](decret-n94-789-du-2-septembre-1994-mict9400018d)
 - [Décret n°94-94 du 2 février 1994 (EQUB9301951D)](decret-n94-94-du-2-fevrier-1994-equb9301951d)
 - [Décret n°94-95 du 2 février 1994 (EQUB9400021D)](decret-n94-95-du-2-fevrier-1994-equb9400021d)
 - [Décret n°94-961 du 2 novembre 1994 (SPSS9402821D)](decret-n94-961-du-2-novembre-1994-spss9402821d)
