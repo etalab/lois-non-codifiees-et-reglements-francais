@@ -64,7 +64,6 @@
 - [Décret n°2006-797 du 6 juillet 2006 (ECOX0600094D)](decret-n2006-797-du-6-juillet-2006-ecox0600094d)
 - [Décret n°2006-798 du 6 juillet 2006 (ECOX0500023D)](decret-n2006-798-du-6-juillet-2006-ecox0500023d)
 - [Décret n°54-135 du 6 février 1954](decret-n54-135-du-6-fevrier-1954)
-- [Décret du 7 septembre 2006 (AGRP0600418D)](decret-du-7-septembre-2006-agrp0600418d)
 - [Décret n°2006-1346 du 7 novembre 2006 (MENR0602687D)](decret-n2006-1346-du-7-novembre-2006-menr0602687d)
 - [Décret n°2006-1347 du 7 novembre 2006 (DEVP0630010D)](decret-n2006-1347-du-7-novembre-2006-devp0630010d)
 - [Décret n°2006-1350 du 7 novembre 2006 (BUDF0600049D)](decret-n2006-1350-du-7-novembre-2006-budf0600049d)
