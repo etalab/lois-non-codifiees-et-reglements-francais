@@ -1,6 +1,6 @@
 # Article 130
 
-I. - Il est perçu par l'Agence française de sécurité sanitaire des aliments une taxe relative aux produits phytopharmaceutiques et à leurs adjuvants mentionnés à l'article L. 253-1 du code rural et de la pêche maritime et aux matières fertilisantes et supports de culture mentionnés à l'article L. 255-1 du même code, pour chaque demande :
+I.-Il est perçu par l'      Agence nationale chargée de la sécurité sanitaire de l'alimentation, de l'environnement et du travail  une taxe relative aux produits phytopharmaceutiques et à leurs adjuvants mentionnés à l'article L. 253-1 du code rural et aux matières fertilisantes et supports de culture mentionnés à l'article L. 255-1 du même code, pour chaque demande :
 
 1° D'inscription d'une nouvelle substance active sur la liste communautaire des substances actives ;
 
@@ -22,9 +22,9 @@ I. - Il est perçu par l'Agence française de sécurité sanitaire des aliments 
 
 10° D'inscription d'un mélange extemporané sur la liste publiée au bulletin officiel du ministère chargé de l'agriculture et de la pêche.
 
-II. - La taxe est due par le demandeur. Elle est versée par celui-ci dans son intégralité à l'occasion du dépôt de sa demande.
+II.-La taxe est due par le demandeur. Elle est versée par celui-ci dans son intégralité à l'occasion du dépôt de sa demande.
 
-III. - Le tarif de la taxe mentionnée au I est fixé par arrêté conjoint des ministres chargés de l'agriculture et du budget en tenant compte de la nature de la demande et de la complexité de l'évaluation. Ce tarif est fixé :
+III.-Le tarif de la taxe mentionnée au I est fixé par arrêté conjoint des ministres chargés de l'agriculture et du budget en tenant compte de la nature de la demande et de la complexité de l'évaluation. Ce tarif est fixé :
 
 1° Pour les demandes mentionnées au 1° du I entre 40 000 euros et 200 000 euros ;
 
@@ -34,8 +34,8 @@ III. - Le tarif de la taxe mentionnée au I est fixé par arrêté conjoint des 
 
 4° Pour les demandes mentionnées aux 8° et 9° du I dans la limite d'un plafond de 4 500 euros.
 
-IV. - Le produit de la taxe mentionnée au I est affecté à l'Agence française de sécurité sanitaire des aliments.
+IV.-Le produit de la taxe mentionnée au I est affecté à l'      Agence nationale chargée de la sécurité sanitaire de l'alimentation, de l'environnement et du travail .
 
-V. - Le recouvrement de la taxe est assuré par l'agent comptable de l'Agence française de sécurité sanitaire des aliments, selon les procédures, sûretés, garanties et sanctions applicables aux taxes sur le chiffre d'affaires.
+V.-Le recouvrement de la taxe est assuré par l'agent comptable de l'      Agence nationale chargée de la sécurité sanitaire de l'alimentation, de l'environnement et du travail , selon les procédures, sûretés, garanties et sanctions applicables aux taxes sur le chiffre d'affaires.
 
 Les réclamations sont présentées, instruites et jugées comme pour les taxes sur le chiffre d'affaires.

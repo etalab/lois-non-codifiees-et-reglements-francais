@@ -12,7 +12,7 @@ Ces dispositions sont applicables :
 
 4° Aux collaborateurs de cabinet des autorités territoriales ;
 
-5° Aux agents contractuels de droit public ou de droit privé des établissements mentionnés aux articles L. 1142-22, L. 1222-1, L. 1323-1, L. 1336-1, L. 1413-2, L. 1418-1 et L. 5311-1 du code de la santé publique ;
+5° Aux agents contractuels de droit public ou de droit privé des établissements mentionnés aux articles L. 1142-22, L. 1222-1, L. 1313-1, L. 1413-2, L. 1418-1 et L. 5311-1 du code de la santé publique ;
 
 6° Aux agents contractuels de droit public ou de droit privé d'une autorité administrative indépendante.
 
