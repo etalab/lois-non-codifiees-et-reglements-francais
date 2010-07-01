@@ -68,7 +68,6 @@
 - [Décret n°2000-262 du 22 mars 2000 (MJSK0070023D)](decret-n2000-262-du-22-mars-2000-mjsk0070023d)
 - [Décret n°2000-271 du 22 mars 2000 (MENS0000403D)](decret-n2000-271-du-22-mars-2000-mens0000403d)
 - [Décret n°2000-954 du 22 septembre 2000 (FPPA0010013D)](decret-n2000-954-du-22-septembre-2000-fppa0010013d)
-- [Décret n°2000-1119 du 23 novembre 2000 (INTA0000307D)](decret-n2000-1119-du-23-novembre-2000-inta0000307d)
 - [Décret n°2000-150 du 23 février 2000 (MESC0010166D)](decret-n2000-150-du-23-fevrier-2000-mesc0010166d)
 - [Décret n°94-510 du 23 juin 1994 (AGRP9400384D)](decret-n94-510-du-23-juin-1994-agrp9400384d)
 - [Décret n°2000-439 du 23 mai 2000 (ECOP0000191D)](decret-n2000-439-du-23-mai-2000-ecop0000191d)

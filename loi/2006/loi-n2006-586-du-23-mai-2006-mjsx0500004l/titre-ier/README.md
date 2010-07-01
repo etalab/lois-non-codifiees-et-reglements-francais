@@ -1,3 +1,0 @@
-# TITRE Ier : LE CONTRAT DE VOLONTARIAT ASSOCIATIF.
-
-- [Article 12](article-12.md)

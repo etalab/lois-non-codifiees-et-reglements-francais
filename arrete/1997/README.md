@@ -424,8 +424,6 @@
 - [Arrêté du 13 octobre 1997 (AGRA9701975A)](arrete-du-13-octobre-1997-agra9701975a)
 - [Arrêté du 13 octobre 1997 (INTC9700472A)](arrete-du-13-octobre-1997-intc9700472a)
 - [Arrêté du 13 octobre 1997 (MAEA9720457A)](arrete-du-13-octobre-1997-maea9720457a)
-- [Arrêté du 13 mai 1997 (INTA9700189A)](arrete-du-13-mai-1997-inta9700189a)
-- [Arrêté du 13 mai 1997 (INTA9700190A)](arrete-du-13-mai-1997-inta9700190a)
 - [Arrêté du 14 août 1997 (ECOS9750029A)](arrete-du-14-aout-1997-ecos9750029a)
 - [Arrêté du 14 août 1997 (EQUP9700958A)](arrete-du-14-aout-1997-equp9700958a)
 - [Arrêté du 14 août 1997 (MESS9722629A)](arrete-du-14-aout-1997-mess9722629a)
