@@ -18,4 +18,20 @@ g) D'élaborer chaque année un rapport relatif à la sécurité du transport fe
 
 h) De demander la modification ou le retrait des règles d'exploitation spécifiques visées à l'article 10 du décret n° 2006-1279 du 19 octobre 2006 et d'autoriser les circulations visées à cet article ;
 
-i) De définir les gares ou chantiers situés sur le réseau ferré national jusqu'auxquels une autorisation d'exploiter des services de transports de marchandises délivrée à une entreprise ferroviaire sur un réseau connecté peut valoir certificat de sécurité.
+i) De définir les gares ou chantiers situés sur le réseau ferré national jusqu'auxquels une autorisation d'exploiter des services de transports de marchandises délivrée à une entreprise ferroviaire sur un réseau connecté peut valoir certificat de sécurité ;
+
+j) En application des dispositions du
+décret n° 2010-708 du 29 juin 2010
+:
+
+-de délivrer, mettre à jour, ou retirer les licences de conducteur de trains, de les renouveler et de délivrer un duplicata à la demande du titulaire ainsi que de publier les procédures associées ;
+
+-de tenir et de mettre à jour le registre des licences de conducteur de trains ;
+
+-d'agréer les organismes chargés de délivrer l'attestation prévue au 2° de l'article 3 du décret précité ;
+
+-d'agréer des organismes de formation et d'évaluation des connaissances professionnelles requises pour la délivrance de l'attestation prévue au
+II de l'article 6 du décret n° 2006-1279 du 19 octobre 2006
+relatif à la sécurité des circulations ferroviaires et à l'interopérabilité du système ferroviaire ;
+
+-d'agréer les procédures d'habilitation des personnes chargées de la formation et de l'évaluation nécessaires à l'inscription d'une ligne ou section de ligne du réseau ferré national sur une attestation dans les conditions prévues au même article.
