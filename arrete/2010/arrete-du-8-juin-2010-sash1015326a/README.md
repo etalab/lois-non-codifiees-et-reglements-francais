@@ -1,0 +1,5 @@
+# Arrêté du 8 juin 2010 relatif à la formation en psychopathologie clinique conduisant au titre de psychothérapeute
+
+- [CHAPITRE IER : DISPOSITIONS GENERALES](chapitre-ier)
+- [CHAPITRE II : CAHIER DES CHARGES DE LA FORMATION  EN PSYCHOPATHOLOGIE CLINIQUE](chapitre-ii)
+- [CHAPITRE III : MODALITES D'AGREMENT DES ETABLISSEMENTS SOUHAITANT  DISPENSER LA FORMATION EN PSYCHOPATHOLOGIE CLINIQUE](chapitre-iii)

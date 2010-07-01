@@ -1,0 +1,3 @@
+# Article 1
+
+Lorsqu'un débiteur soumis à une procédure de sauvegarde, de redressement judiciaire ou de liquidation judiciaire est titulaire d'une autorisation relative à un service de communication audiovisuelle et que la cession d'une activité ou de l'entreprise est envisagée dans les conditions prévues aux articles L. 626-1, L. 631-22 ou L. 642-1 et suivants du code de commerce, le procureur de la République, avant de demander au tribunal d'autoriser la conclusion d'un contrat de location-gérance, saisit le Conseil supérieur de l'audiovisuel d'une demande d'avis, dans les conditions suivantes.

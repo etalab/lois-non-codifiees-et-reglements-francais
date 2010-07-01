@@ -12,4 +12,8 @@
 
 -Décret n° 2010-130 du 11 février 2010 relatif à l'organisation et aux missions des directions interrégionales de la mer.
 
--Décret n° 2010-429 du 29 avril 2010 relatif à l'organisation et aux missions des directions régionales de l'alimentation, de l'agriculture et de la forêt
+-Décret n° 2010-429 du 29 avril 2010 relatif à l'organisation et aux missions des directions régionales de l'alimentation, de l'agriculture et de la forêt.
+
+- Décret n° 2010-633 du 8 juin 2010 relatif aux directions régionales des affaires culturelles.
+
+-Décret n° 2010-687 du 24 juin 2010 relatif à l'organisation et aux missions des services de l'Etat dans la région et les départements d'Ile-de-France.

@@ -1,175 +1,501 @@
 # Article Annexe Paris à Vaucluse
 
-Préfecture de la région d'Ile-de-France, préfecture de Paris
+Direction régionale et interdépartementale de l'équipement
+
+et de l'aménagement d'Ile-de-France
 
 <table>
 <tbody>
 <tr>
+<td width="340">
+<p align="center">FONCTIONS EXERCÉES</p>
+</td>
+<td width="113">
+<p align="center">NIVEAU <br/>de qualification <br/>de l'emploi</p>
+</td>
+<td width="113">
+<p align="center">NOMBRE <br/>d'emplois</p>
+</td>
+<td width="113">
+<p align="center">NOMBRE <br/>de points (IM) <br/>par emploi</p>
+</td>
+</tr>
+<tr>
+<td width="340">
+<p align="left">Chef du pôle planification urbaine et aménagement durable - unité territoriale de Paris </p>
+</td>
+<td width="113">
+<p align="center">A</p>
+</td>
+<td width="113">
+<p align="center">1</p>
+</td>
+<td width="113">
+<p align="center">50</p>
+</td>
+</tr>
+<tr>
+<td width="340">
+<p align="left">Chef de projet politique locale de l'habitat - unité territoriale des Hauts-de-Seine </p>
+</td>
+<td width="113">
+<p align="center">A</p>
+</td>
+<td width="113">
+<p align="center">1</p>
+</td>
+<td width="113">
+<p align="center">23</p>
+</td>
+</tr>
+<tr>
+<td width="340">
+<p align="left">Chargé de mission secteur Ouest - unité territoriale de la Seine-Saint-Denis </p>
+</td>
+<td width="113">
+<p align="center">A</p>
+</td>
+<td width="113">
+<p align="center">1</p>
+</td>
+<td width="113">
+<p align="center">23</p>
+</td>
+</tr>
+<tr>
+<td width="340">
+<p align="left">Chargé de mission secteur Est - unité territoriale de la Seine-Saint-Denis </p>
+</td>
+<td width="113">
+<p align="center">A</p>
+</td>
+<td width="113">
+<p align="center">1</p>
+</td>
+<td width="113">
+<p align="center">23</p>
+</td>
+</tr>
+<tr>
+<td width="340">
+<p align="left">Chargé de mission secteur Roissy-Le Bourget - unité territoriale de la Seine-Saint-Denis </p>
+</td>
+<td width="113">
+<p align="center">A</p>
+</td>
+<td width="113">
+<p align="center">1</p>
+</td>
+<td width="113">
+<p align="center">23</p>
+</td>
+</tr>
+<tr>
+<td width="340">
+<p align="left">Chargé de mission secteur centre et référent foncier - unité territoriale de la Seine-Saint-Denis </p>
+</td>
+<td width="113">
+<p align="center">A</p>
+</td>
+<td width="113">
+<p align="center">1</p>
+</td>
+<td width="113">
+<p align="center">23</p>
+</td>
+</tr>
+<tr>
+<td width="340">
+<p>Chef du pôle planification urbaine et aménagement - unité territoriale de la Seine-Saint-Denis </p>
+</td>
+<td width="113">
+<p align="center">A</p>
+</td>
+<td width="113">
+<p align="center">1</p>
+</td>
+<td width="113">
+<p align="center">20</p>
+</td>
+</tr>
+<tr>
+<td width="340">
+<p align="left">Chargé de mission ville durable et rénovation urbaine - unité territoriale du Val-de-Marne </p>
+</td>
+<td width="113">
+<p align="center">A</p>
+</td>
+<td width="113">
+<p align="center">1</p>
+</td>
+<td width="113">
+<p align="center">23</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Direction régionale et interdépartementale de l'hébergement
+
+et du logement en Ile-de-France
+
+<table>
+<tbody>
+<tr>
+<td colspan="4"> DIRECTION RÉGIONALE ET INTERDÉPARTEMENTALE DE L'HÉBERGEMENT ET DU LOGEMENT EN ÎLE-DE-FRANCE </td>
+</tr>
+<tr>
 <td align="center" valign="middle">
-<p align="center">FONCTIONS EXERCEES </p>
+<br/>Fonctions exercées <br/>
 </td>
-<td>
-<p align="center">NIVEAU <br/>de qualification de l'emploi </p>
+<td align="center" valign="middle">
+<br/>Niveau de qualification de l'emploi <br/>
 </td>
-<td>
-<p align="center">NOMBRE d'emplois </p>
+<td align="center" valign="middle">
+<br/>Nombre <br/>
+<p>d'emplois <br/>
+</p>
 </td>
-<td>
-<p align="center">NOMBRE de points (IM) <br/>par emploi </p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="left">Délégué de l'Etat </p>
-</td>
-<td>
-<p align="center">A </p>
-</td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">50 points </p>
+<td align="center" valign="middle">
+<br/>Nombre de points (IM) <br/>
+<p>par emploi <br/>
+</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">Chargé d'étude des questions urbaines liées à la politique de la ville à la direction de l'urbanisme, du logement et de l'équipement </p>
+<td valign="middle">
+<br/>Adjoint (e) chef du service habitat et rénovation urbaine-unité territoriale de Paris <br/>
 </td>
-<td>
-<p align="center">A </p>
+<td align="center" valign="middle">
+<br/>A <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center" valign="middle">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">50 points </p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="left">Adjoint au chef du bureau urbanisme, chargé des dossiers emplois ville à la direction de l'urbanisme, du logement et de l'équipement </p>
-</td>
-<td>
-<p align="center">A </p>
-</td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">50 points </p>
+<td align="center" valign="middle">
+<br/>50 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">Chef de la section du financement du logement social et du renouvellement urbain à la direction de l'urbanisme, du logement et de l'équipement </p>
+<td valign="middle">
+<br/>Responsable de la mission droit au logement opposable-unité territoriale de Paris <br/>
 </td>
-<td>
-<p align="center">A </p>
+<td align="center" valign="middle">
+<br/>A <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center" valign="middle">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">50 points </p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="left">Chef de la section saturnisme à la direction de l'urbanisme, du logement et de l'équipement </p>
-</td>
-<td>
-<p align="center">A </p>
-</td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">50 points </p>
+<td align="center" valign="middle">
+<br/>23 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">Chef de la section analyses et prospectives de l'habitat à la direction de l'urbanisme, du logement et de l'équipement </p>
+<td valign="middle">
+<br/>Chef du bureau lutte contre le saturnisme-unité territoriale de Paris <br/>
 </td>
-<td>
-<p align="center">A </p>
+<td align="center" valign="middle">
+<br/>B <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center" valign="middle">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">50 points </p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="left">Adjoint au chef de la section urbanisme opérationnel à la direction de l'urbanisme, du logement et de l'équipement </p>
-</td>
-<td>
-<p align="center">B </p>
-</td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">30 points </p>
+<td align="center" valign="middle">
+<br/>30 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">Adjoint au chef de la section programmation du financement du logement social et du renouvellement urbain à la direction de l'urbanisme, du logement et de l'équipement </p>
+<td valign="middle">
+<br/>Chargé (e) de projet rénovation urbaine-unité territoriale de Paris <br/>
 </td>
-<td>
-<p align="center">B </p>
+<td align="center" valign="middle">
+<br/>B <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center" valign="middle">
+<br/>2 <br/>
 </td>
-<td>
-<p align="center">30 points </p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="left">Chargé du financement des investissements sur crédits spécifiques à la direction de l'urbanisme, du logement et de l'équipement </p>
-</td>
-<td>
-<p align="center">B </p>
-</td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">30 points </p>
+<td align="center" valign="middle">
+<br/>20 <br/>
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">Chargé de l'instruction et du suivi des dossiers ANRU et de l'instruction des dossiers AQS à la direction de l'urbanisme, du logement et de l'équipement </p>
+<td valign="middle">
+<br/>Instructeur habitat privé-unité territoriale de Paris <br/>
 </td>
-<td>
-<p align="center">B </p>
+<td align="center" valign="middle">
+<br/>B <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center" valign="middle">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">30 points </p>
+<td align="center" valign="middle">
+<br/>30 <br/>
 </td>
 </tr>
 <tr>
-<td rowspan="2">
-<p align="left">Instructeur des dossiers OPAH dans les zones sensibles à la direction de l'urbanisme, du logement et de l'équipement </p>
+<td valign="middle">
+<br/>Chef du bureau intervention dans le parc privé-unité territoriale des Hauts-de-Seine <br/>
 </td>
-<td rowspan="2">
-<p align="center">B </p>
+<td align="center" valign="middle">
+<br/>A <br/>
 </td>
-<td rowspan="2">
-<p align="center">4 </p>
+<td align="center" valign="middle">
+<br/>1 <br/>
 </td>
-<td rowspan="2">
-<p align="center">30 points </p>
+<td align="center" valign="middle">
+<br/>23 <br/>
+</td>
+</tr>
+<tr>
+<td valign="middle">
+<br/>Chef du bureau rénovation urbaine-unité territoriale des Hauts-de-Seine <br/>
+</td>
+<td align="center" valign="middle">
+<br/>A <br/>
+</td>
+<td align="center" valign="middle">
+<br/>1 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>23 <br/>
+</td>
+</tr>
+<tr>
+<td valign="middle">
+<br/>Adjoint (e) au chef de bureau rénovation urbaine-unité territoriale des Hauts-de-Seine <br/>
+</td>
+<td align="center" valign="middle">
+<br/>A <br/>
+</td>
+<td align="center" valign="middle">
+<br/>1 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>23 <br/>
+</td>
+</tr>
+<tr>
+<td valign="middle">
+<br/>Chargé (e) d'opération habitat indigne-unité territoriale des Hauts-de-Seine <br/>
+</td>
+<td align="center" valign="middle">
+<br/>B <br/>
+</td>
+<td align="center" valign="middle">
+<br/>1 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>20 <br/>
+</td>
+</tr>
+<tr>
+<td valign="middle">
+<br/>Chargé (e) de projet rénovation urbaine-unité territoriale des Hauts-de-Seine <br/>
+</td>
+<td align="center" valign="middle">
+<br/>B <br/>
+</td>
+<td align="center" valign="middle">
+<br/>3 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>20 <br/>
+</td>
+</tr>
+<tr>
+<td valign="middle">
+<br/>Chargé (e) de mission Plan départemental d'action pour le logement des personnes défavorisées (PDALPD)-unité territoriale de la Seine-Saint-Denis <br/>
+</td>
+<td align="center" valign="middle">
+<br/>A <br/>
+</td>
+<td align="center" valign="middle">
+<br/>1 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>23 <br/>
+</td>
+</tr>
+<tr>
+<td valign="middle">
+<br/>Chargé (e) de la cellule éradication de l'habitat indigne-unité territoriale de la Seine-Saint-Denis <br/>
+</td>
+<td align="center" valign="middle">
+<br/>A <br/>
+</td>
+<td align="center" valign="middle">
+<br/>1 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>23 <br/>
+</td>
+</tr>
+<tr>
+<td valign="middle">
+<br/>Chef du bureau Interventions dans l'habitat privé-unité territoriale de la Seine-Saint-Denis <br/>
+</td>
+<td align="center" valign="middle">
+<br/>A <br/>
+</td>
+<td align="center" valign="middle">
+<br/>1 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>23 <br/>
+</td>
+</tr>
+<tr>
+<td valign="middle">
+<br/>Chef du bureau du logement social-unité territoriale de la Seine-Saint-Denis <br/>
+</td>
+<td align="center" valign="middle">
+<br/>A <br/>
+</td>
+<td align="center" valign="middle">
+<br/>1 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>23 <br/>
+</td>
+</tr>
+<tr>
+<td valign="middle">
+<br/>Chef du bureau rénovation urbaine-unité territoriale de la Seine-Saint-Denis <br/>
+</td>
+<td align="center" valign="middle">
+<br/>A <br/>
+</td>
+<td align="center" valign="middle">
+<br/>1 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>50 <br/>
+</td>
+</tr>
+<tr>
+<td valign="middle">
+<br/>Chargé (e) de projet rénovation urbaine-unité territoriale de la Seine-Saint-Denis <br/>
+</td>
+<td align="center" valign="middle">
+<br/>A <br/>
+</td>
+<td align="center" valign="middle">
+<br/>5 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>23 <br/>
+</td>
+</tr>
+<tr>
+<td valign="middle">
+<br/>Chargé (e) d'opérations habitat indigne-unité territoriale de la Seine-Saint-Denis <br/>
+</td>
+<td align="center" valign="middle">
+<br/>B <br/>
+</td>
+<td align="center" valign="middle">
+<br/>3 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>20 <br/>
+</td>
+</tr>
+<tr>
+<td valign="middle">
+<br/>Instructeur du financement du logement social-unité territoriale de la Seine-Saint-Denis <br/>
+</td>
+<td align="center" valign="middle">
+<br/>B <br/>
+</td>
+<td align="center" valign="middle">
+<br/>2 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>30 <br/>
+</td>
+</tr>
+<tr>
+<td valign="middle">
+<br/>Instructeur du financement rénovation urbaine-unité territoriale de la Seine-Saint-Denis <br/>
+</td>
+<td align="center" valign="middle">
+<br/>B <br/>
+</td>
+<td align="center" valign="middle">
+<br/>4 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>20 <br/>
+</td>
+</tr>
+<tr>
+<td valign="middle">
+<br/>Instructeur habitat indigne-unité territoriale de la Seine-Saint-Denis <br/>
+</td>
+<td align="center" valign="middle">
+<br/>C <br/>
+</td>
+<td align="center" valign="middle">
+<br/>1 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>20 <br/>
+</td>
+</tr>
+<tr>
+<td valign="middle">
+<br/>Chef du bureau financement du parc social et de son renouvellement-unité territoriale du Val-de-Marne <br/>
+</td>
+<td align="center" valign="middle">
+<br/>A <br/>
+</td>
+<td align="center" valign="middle">
+<br/>1 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>23 <br/>
+</td>
+</tr>
+<tr>
+<td valign="middle">
+<br/>Chargé (e) de projet rénovation urbaine-unité territoriale du Val-de-Marne <br/>
+</td>
+<td align="center" valign="middle">
+<br/>A <br/>
+</td>
+<td align="center" valign="middle">
+<br/>2 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>23 <br/>
+</td>
+</tr>
+<tr>
+<td valign="middle">
+<br/>Adjoint (e) au chef du bureau financement du parc social et de son renouvellement-unité territoriale du Val-de-Marne <br/>
+</td>
+<td align="center" valign="middle">
+<br/>B <br/>
+</td>
+<td align="center" valign="middle">
+<br/>1 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>20 <br/>
+</td>
+</tr>
+<tr>
+<td valign="middle">
+<br/>Chargé (e) d'opérations habitat indigne-unité territoriale du Val-de-Marne <br/>
+</td>
+<td align="center" valign="middle">
+<br/>B <br/>
+</td>
+<td align="center" valign="middle">
+<br/>1 <br/>
+</td>
+<td align="center" valign="middle">
+<br/>20<br/>
 </td>
 </tr>
 </tbody>
@@ -230,7 +556,7 @@ Direction départementale de l'équipement et de l'agriculture (2) de Seine-et-M
 </tr>
 <tr>
 <td valign="top">
-<p align="left">Chef du bureau " mission politique de la ville " au service de l'habitat </p>
+<p align="left">Chef du bureau "mission politique de la ville" au service de l'habitat </p>
 </td>
 <td>
 <p align="center">A </p>
@@ -268,7 +594,7 @@ Direction départementale de l'équipement et de l'agriculture (1) des Yvelines
 <p align="center">FONCTIONS EXERCEES </p>
 </td>
 <td>
-<p align="center">NIVEAU de qualification de l'emploi </p>
+<p align="center">NIVEAU<br/>de qualification de l'emploi </p>
 </td>
 <td>
 <p align="center">NOMBRE <br/>d'emplois </p>
@@ -279,7 +605,7 @@ Direction départementale de l'équipement et de l'agriculture (1) des Yvelines
 </tr>
 <tr>
 <td valign="top">
-<p align="left">Chef de la mission " politique de la ville " </p>
+<p align="left">Chef de la mission "politique de la ville" </p>
 </td>
 <td>
 <p align="center">A </p>
@@ -524,7 +850,7 @@ Direction départementale des territoires du Tarn
 </tr>
 <tr>
 <td align="center">
-<p>Chef du bureau logement social public</p>
+<p align="left">Chef du bureau logement social public</p>
 </td>
 <td align="center">
 <br/>A<br/>
@@ -538,7 +864,7 @@ Direction départementale des territoires du Tarn
 </tr>
 <tr>
 <td align="center">
-<p>Chargé des observatoires des territoires, dont l'observatoire du logement</p>
+<p align="left">Chargé des observatoires des territoires, dont l'observatoire du logement</p>
 </td>
 <td align="center">
 <br/>A<br/>
@@ -573,7 +899,7 @@ Direction départementale de la cohésion sociale et de la protection des popula
 </tr>
 <tr>
 <td align="center">
-<p>Chargé des accords collectifs et du droit au logement opposable</p>
+<p align="left">Chargé des accords collectifs et du droit au logement opposable</p>
 </td>
 <td align="center">
 <br/>B<br/>
@@ -587,7 +913,7 @@ Direction départementale de la cohésion sociale et de la protection des popula
 </tr>
 <tr>
 <td align="center">
-<p>Chargé du secrétariat de la commission de coordination des actions de prévention des expulsions</p>
+<p align="left">Chargé du secrétariat de la commission de coordination des actions de prévention des expulsions</p>
 </td>
 <td align="center">
 <br/>C<br/>
@@ -679,79 +1005,70 @@ Direction départementale de l'équipement et de l'agriculture (2) du Var
 </tbody>
 </table>
 
-Direction départementale de l'équipement et de l'agriculture (2) de Vaucluse
+Direction départementale des territoires de Vaucluse
 
 <table>
 <tbody>
 <tr>
+<td align="center"> FONCTIONS EXERCÉES </td>
+<td align="center"> NIVEAU <p>de qualification </p>de l'emploi </td>
+<td align="center"> NOMBRE d'emplois</td>
+<td align="center"> NOMBRE <p>de points (IM) </p>par emploi </td>
+</tr>
+<tr>
 <td>
-<p align="center">FONCTIONS EXERCEES </p>
+<br/>Chef de service ville, logement, habitat <br/>
 </td>
-<td>
-<p align="center">NIVEAU <br/>de qualification de l'emploi </p>
+<td align="center">
+<br/>A <br/>
 </td>
-<td>
-<p align="center">NOMBRE <br/>d'emplois </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-<td>
-<p align="center">NOMBRE DE POINTS (IM) <br/>par emploi </p>
+<td align="center">
+<br/>20 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top">
-<p align="left">Chef du service ville, urbanisme et habitat </p>
-</td>
 <td>
-<p align="center">A </p>
+<br/>Chef d'unité logement social, adjoint au chef de service ville, logement, habitat <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>A <br/>
 </td>
-<td>
-<p align="center">20 points </p>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>20 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top">
-<p align="left">Chef du bureau programmation du logement social </p>
-</td>
 <td>
-<p align="center">A </p>
+<br/>Adjoint unité habitat observatoire rénovation urbaine <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>B <br/>
 </td>
-<td>
-<p align="center">20 points </p>
+<td align="center">
+<br/>1 <br/>
+</td>
+<td align="center">
+<br/>15 <br/>
 </td>
 </tr>
 <tr>
-<td valign="top">
-<p align="left">Adjoint au chef du bureau ville habitat </p>
-</td>
 <td>
-<p align="center">B </p>
+<br/>Gestionnaire du logement social auprès du chef de service ville, logement, habitat <br/>
 </td>
-<td>
-<p align="center">1 </p>
+<td align="center">
+<br/>C <br/>
 </td>
-<td>
-<p align="center">15 points </p>
+<td align="center">
+<br/>1 <br/>
 </td>
-</tr>
-<tr>
-<td rowspan="2" valign="top">
-<p align="left">Secrétaire du bureau ville et habitat </p>
-</td>
-<td rowspan="2">
-<p align="center">C </p>
-</td>
-<td rowspan="2">
-<p align="center">1 </p>
-</td>
-<td rowspan="2">
-<p align="center">5 points</p>
-</td>
+<td align="center">
+<br/>5</td>
 </tr>
 </tbody>
 </table>

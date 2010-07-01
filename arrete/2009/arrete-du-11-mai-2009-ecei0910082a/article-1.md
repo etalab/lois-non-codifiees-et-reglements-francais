@@ -5,145 +5,303 @@ Par arrêté de la ministre de l'économie, de l'industrie et de l'emploi en dat
 <table>
 <tbody>
 <tr>
-<td colspan="2">
+<td width="15%">
+<p align="center">DATE DE SUPPRESSION</p>
+</td>
+<td width="8%">
+<p align="center">DATE D'AJOUT</p>
+</td>
+<td width="74%">
 <p align="center">DÉSIGNATION DE L'EMPLOI</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Directeur régional de l'industrie de la recherche et de l'environnement de la Réunion<br/>
-</p>
+<td width="15%">
+<p align="center">01/02/2011</p>
+</td>
+<td width="8%"/>
+<td width="74%">
+<p>Directeur régional de l'industrie de la recherche et de l'environnement de la Réunion</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Chef de la division de Châlons-en-Champagne à l'Autorité de sûreté nucléaire<br/>
-</p>
+<td width="15%"/>
+<td width="8%"/>
+<td width="74%">
+<p>Chef de la division de Châlons-en-Champagne à l'Autorité de sûreté nucléaire</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Directeur des relations avec les entreprises à l'Ecole nationale supérieure des techniques industrielles et des mines de Nantes<br/>
-</p>
+<td width="15%"/>
+<td width="8%"/>
+<td width="74%">
+<p>Directeur des relations avec les entreprises à l'Ecole nationale supérieure des techniques industrielles et des mines de Nantes</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Secrétaire général de la direction régionale de l'industrie, de la recherche et de l'environnement d'Ile-de-France<br/>
-</p>
+<td width="15%"/>
+<td width="8%"/>
+<td width="74%">
+<p>Secrétaire général de la direction régionale et interdépartementale de l'environnement et de l'énergie d'Ile-de-France </p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="left">Secrétaire général de la direction régionale de l'environnement, de l'aménagement et du logement de Midi-Pyrénées<br/>
+<td width="15%"/>
+<td width="8%"/>
+<td width="74%">
+<p>Secrétaire général de la direction régionale de l'environnement, de l'aménagement et du logement de Midi-Pyrénées</p>
+</td>
+</tr>
+<tr>
+<td width="15%"/>
+<td width="8%"/>
+<td width="74%">
+<p>Adjoint au chef du service risques technologiques et environnement industriel à la direction régionale de l'environnement, de l'aménagement et du logement de Midi-Pyrénées.</p>
+</td>
+</tr>
+<tr>
+<td width="15%"/>
+<td width="8%"/>
+<td width="74%">
+<p>Chef de la division développement industriel régional à la direction régionale de l'industrie, de la recherche et de l'environnement de Bretagne</p>
+</td>
+</tr>
+<tr>
+<td width="15%"/>
+<td width="8%"/>
+<td width="74%">
+<p>Chef du centre national de réception des véhicules à la direction régionale et interdépartementale de l'environnement et de l'énergie d'Ile-de-France</p>
+</td>
+</tr>
+<tr>
+<td width="15%"/>
+<td width="8%"/>
+<td width="74%">
+<p>Chef du groupe de subdivisions de l'Oise à la direction régionale de l'environnement, de l'aménagement et du logement de Picardie</p>
+</td>
+</tr>
+<tr>
+<td width="15%"/>
+<td width="8%"/>
+<td width="74%">
+<p>Chef du groupe de subdivisions de Béthune à la direction régionale de l'industrie, de la recherche et de l'environnement du Nord - Pas-de-Calais</p>
+</td>
+</tr>
+<tr>
+<td width="15%"/>
+<td width="8%"/>
+<td width="74%">
+<p>Chargé de mission auprès du directeur régional de l'industrie, de la recherche et de l'environnement de Rhône-Alpes en charge du pôle environnement et développement durable</p>
+</td>
+</tr>
+<tr>
+<td width="15%">
+<p align="center">04/01/2010</p>
+</td>
+<td width="8%"/>
+<td width="74%">
+<p>Chef de la division environnement industriel et sous-sol à la direction régionale de l'industrie, de la recherche et de l'environnement du Limousin</p>
+</td>
+</tr>
+<tr>
+<td width="15%"/>
+<td width="8%"/>
+<td width="74%">
+<p>Chef du bureau d'analyses des risques et pollutions industriels à la direction générale de la prévention des risques</p>
+</td>
+</tr>
+<tr>
+<td width="15%">
+<p align="center">01/09/2010</p>
+</td>
+<td width="8%"/>
+<td width="74%">
+<p>Secrétaire général de l'Ecole nationale supérieure des techniques industrielles et des mines d'Albi-Carmaux</p>
+</td>
+</tr>
+<tr>
+<td align="center" width="15%">04/01/2010<br/>
+</td>
+<td width="8%"/>
+<td width="74%">
+<p>Chargé de mission auprès du directeur à la direction régionale de l'industrie, de la recherche et de l'environnement de Lorraine, chef de la division contrôles techniques et énergie</p>
+</td>
+</tr>
+<tr>
+<td/>
+<td align="center">04/01/2010</td>
+<td>
+<p align="left">Chef du service prévention des risques à la direction régionale de l'environnement, de l'aménagement et du logement de Lorraine </p>
+</td>
+</tr>
+<tr>
+<td width="15%">
+<p align="center">04/01/2010</p>
+</td>
+<td width="8%"/>
+<td width="74%">
+<p>Secrétaire général de la direction régionale de l'industrie, de la recherche et de l'environnement de Bourgogne</p>
+</td>
+</tr>
+<tr>
+<td/>
+<td align="center">04/01/2010</td>
+<td>
+<p align="left">Délégué aux ressources humaines de la direction régionale de l'environnement, de l'aménagement et du logement de Bourgogne.</p>
+</td>
+</tr>
+<tr>
+<td width="15%"/>
+<td width="8%"/>
+<td width="74%">
+<p>Adjoint au chef du bureau de la nomenclature, des émissions industrielles et des pollutions des eaux à la direction générale de la prévention des risques</p>
+</td>
+</tr>
+<tr>
+<td width="15%"/>
+<td width="8%"/>
+<td width="74%">
+<p>Responsable de l'unité territoriale de Seine-et-Marne de la direction régionale et interdépartementale de l'environnement et de l'énergie d'Ile-de-France </p>
+</td>
+</tr>
+<tr>
+<td width="15%">
+<p align="center">01/08/2010</p>
+</td>
+<td width="8%"/>
+<td width="74%">
+<p>Chef du groupe de subdivisions de Lille à la direction régionale de l'environnement, de l'aménagement et du logement de Nord - Pas-de-Calais</p>
+</td>
+</tr>
+<tr>
+<td width="15%"/>
+<td width="8%">
+<p>01/08/2010</p>
+</td>
+<td width="74%">
+<p>Adjoint au chef du service risques, chef de la division risques accidentels à la direction régionale de l'environnement, de l'aménagement et du logement de Nord-Pas-de-Calais </p>
+</td>
+</tr>
+<tr>
+<td width="15%">
+<p align="center">04/01/2010</p>
+</td>
+<td width="8%"/>
+<td width="74%">
+<p>Chef de la division environnement et sous-sol à la direction régionale de l'industrie, de la recherche et de l'environnement du Centre</p>
+</td>
+</tr>
+<tr>
+<td width="15%"/>
+<td width="8%"/>
+<td width="74%">
+<p>Directeur régional délégué de l'environnement, de l'aménagement et du logement de Corse</p>
+</td>
+</tr>
+<tr>
+<td width="15%">
+<p align="center">01/09/2010</p>
+</td>
+<td width="8%"/>
+<td width="74%">
+<p>Chef du groupe de subdivisions Rouen-Dieppe à la direction régionale de l'environnement, de l'aménagement et du logement de Haute-Normandie</p>
+</td>
+</tr>
+<tr>
+<td width="15%"/>
+<td width="8%">
+<p>01/09/2010</p>
+</td>
+<td width="74%">
+<p>Chef du service énergie, climat, logement, aménagement durable et du bureau énergie-climat à la direction régionale de l'environnement, de l'aménagement et du logement de Haute-Normandie</p>
+</td>
+</tr>
+<tr>
+<td width="15%">
+<p align="center">04/01/2010</p>
+</td>
+<td width="8%"/>
+<td width="74%">
+<p>Directeur régional de l'industrie, de la recherche et de l'environnement du Limousin</p>
+</td>
+</tr>
+<tr>
+<td width="15%"/>
+<td width="8%">
+<p>01/09/2010</p>
+</td>
+<td width="74%">
+<p>Chef du bureau des ressources minérales à la direction générale de l'aménagement, du logement et de la nature </p>
+</td>
+</tr>
+<tr>
+<td width="15%"/>
+<td width="8%">
+<p>01/10/2010</p>
+</td>
+<td width="74%">
+<p>Chargé de mission auprès du directeur régional de l'environnement, de l'aménagement et du logement de Franche-Comté, chargé de l'environnement industriel et des risques </p>
+</td>
+</tr>
+<tr>
+<td width="15%"/>
+<td width="8%">
+<p>01/02/2011</p>
+</td>
+<td width="74%">
+<p>Chargé de mission auprès du chef du service de l'industrie à la direction générale de la compétitivité, de l'industrie et des services</p>
+</td>
+</tr>
+<tr>
+<td/>
+<td>04/01/2010</td>
+<td>
+<p align="left">Chef du service environnement industriel et risques à la direction régionale de l'environnement, de l'aménagement et du logement du Centre.</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td>
+<p align="left">04/01/2010</p>
+</td>
+<td>
+<p align="left">Chef du service prévention des pollutions, des risques et du contrôle des transports de la direction régionale de l'environnement, de l'aménagement et du logement du Limousin.</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td>
+<p align="left">04/01/2010</p>
+</td>
+<td>
+<p align="left">Adjoint au directeur régional de l'environnement, de l'aménagement et du logement du Limousin.<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="left">Adjoint au chef du service risques technologiques et environnement industriel à la direction régionale de l'environnement, de l'aménagement et du logement de Midi-Pyrénées.<br/>
-</p>
+<p align="center">15/02/2010</p>
 </td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Chef de la division développement industriel régional à la direction régionale de l'industrie, de la recherche et de l'environnement de Bretagne<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Chef du Centre national de réception des véhicules à la direction régionale de l'industrie, de la recherche et de l'environnement d'Ile-de-France<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Chef du groupe de subdivisions de l'Oise à la direction régionale de l'environnement, de l'aménagement et du logement de Picardie<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Chef du groupe de subdivisions de Béthune à la direction régionale de l'industrie, de la recherche et de l'environnement du Nord - Pas-de-Calais<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Chargé de mission auprès du directeur régional de l'industrie, de la recherche et de l'environnement de Rhône-Alpes en charge du pôle environnement et développement durable<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Chef de la division environnement industriel et sous-sol à la direction régionale de l'industrie, de la recherche et de l'environnement du Limousin<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Chef du bureau d'analyses des risques et pollutions industriels à la direction générale de la prévention des risques<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Secrétaire général de l'Ecole nationale supérieure des techniques industrielles et des mines d'Albi-Carmaux<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Chargé de mission auprès du directeur à la direction régionale de l'industrie, de la recherche et de l'environnement de Lorraine, chef de la division contrôles techniques et énergie<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Secrétaire général de la direction régionale de l'industrie, de la recherche et de l'environnement de Bourgogne<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Adjoint au chef du bureau de la nomenclature, des émissions industrielles et des pollutions des eaux à la direction générale de la prévention des risques<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Chef du groupe de subdivisions de Seine-et-Marne à la direction régionale de l'industrie, de la recherche et de l'environnement d'Ile-de-France<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Chef du groupe de subdivisions de Lille à la direction régionale de l'environnement, de l'aménagement et du logement de Nord - Pas-de-Calais<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Chef de la division environnement et sous-sol à la direction régionale de l'industrie, de la recherche et de l'environnement du Centre<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Directeur régional délégué de l'environnement, de l'aménagement et du logement de Corse<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">Chef du groupe de subdivisions Rouen-Dieppe à la direction régionale de l'environnement, de l'aménagement et du logement de Haute-Normandie<br/>
+<td/>
+<td>
+<p align="left">Chef de la division développement industriel régional à la direction régionale de l'industrie, de la recherche et de l'environnement de Bretagne.<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="left">Directeur régional de l'industrie, de la recherche et de l'environnement du Limousin</p>
+<br/>
+</td>
+<td>
+<p align="left">15/02/2010</p>
+</td>
+<td>
+<p align="left">Chef du service développement des entreprises au pôle 3E de la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi de Bretagne.<br/>
+</p>
 </td>
 </tr>
 </tbody>

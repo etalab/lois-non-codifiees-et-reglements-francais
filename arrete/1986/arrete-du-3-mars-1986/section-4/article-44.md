@@ -1,6 +1,6 @@
 # Article 44
 
-Seront considérés comme nuls [*définition*] :
+Seront considérés comme nuls :
 
 - les bulletins parvenus après la date du scrutin ;
 

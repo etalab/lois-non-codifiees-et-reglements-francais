@@ -10,59 +10,47 @@ La période de nuit peut être divisée en demi-période de permanence sur place
 
 - pour la seconde partie de la nuit, la demi-période peut être prolongée par une demi-astreinte opérationnelle.
 
-A. - Les praticiens hospitaliers, les praticiens à temps partiel, les assistants, les praticiens attachés, les praticiens contractuels et les praticiens adjoints contractuels :
+A. - Les praticiens hospitaliers, les praticiens à temps partiel, les assistants des hôpitaux, les praticiens attachés,  les praticiens  contractuels et les praticiens adjoints contractuels :
 
-1. Indemnité de sujétion correspondant au temps de travail effectué dans le cadre des obligations de service hebdomadaires, la nuit, le samedi après-midi, le dimanche ou jour férié :
-
-Montant pour :
-
-- une nuit, un dimanche et jour férié : 250 Euros ;
-
-- une demi-nuit, un samedi après-midi : 125 Euros.
-
-2. Indemnité forfaitaire pour toute période de temps de travail additionnel accompli, de jour et de nuit, sur la base du volontariat, au-delà des obligations de service hebdomadaires :
+1. Indemnité de sujétion correspondant au temps de travail effectué dans le cadre des obligations de service hebdomadaires la nuit, le samedi après-midi, le dimanche ou jour férié :
 
 Montant pour :
 
-- une période : 300 Euros ;
+- une nuit, un dimanche ou un jour férié : 264, 63 € ;
 
-- une demi-période : 150 Euros.
+- une demi-nuit ou un samedi après-midi : 132, 31 €.
 
-Ces montants sont portés respectivement à :
+2. Indemnité forfaitaire pour toute période de temps de travail additionnel accompli de jour du lundi matin au samedi après-midi inclus, sur la base du volontariat, au-delà des obligations de service hebdomadaires :
 
-350 Euros pour une période à compter du 1er janvier 2004 ;
+Montant pour :
 
-400 Euros pour une période à compter du 1er juillet 2004 ;
+- une période : 317, 55 € ;
 
-450 Euros pour une période à compter du 1er janvier 2005,
+- une demi-période : 158, 77 €.
 
-pour les périodes effectuées la nuit, le dimanche ou jour férié.
+Indemnité forfaitaire pour toute période de temps de travail additionnel accompli la nuit, le dimanche ou jour férié, sur la base du volontariat, au-delà des obligations de service hebdomadaires :
 
-Ces sommes sont réduites de moitié pour les demi-périodes et le samedi après-midi.
+Montant pour :
+
+- une période : 473, 94 € ;
+
+- une demi-période : 236, 98 €.
 
 Les indemnités mentionnées aux 1 et 2 ci-dessus ne peuvent se cumuler pour une même période de temps de travail.
 
 B. - Les personnels enseignants et hospitaliers :
 
-Indemnité de garde correspondant au temps de travail effectué, au titre de la permanence sur place, au-delà des obligations de service, la nuit, le samedi après-midi, le dimanche ou jour férié :
+Indemnité de garde correspondant au temps de travail effectué au titre de la permanence sur place, au-delà des obligations de service, le samedi après-midi :
+
+Montant pour une demi-garde : 158, 77 €.
+
+Indemnité de garde correspondant au temps de travail effectué au titre de la permanence sur place, au-delà des obligations de service, la nuit, le dimanche ou jour férié :
 
 Montant pour :
 
-- une garde : 300 Euros ;
+- une garde : 473, 94 € ;
 
-- une demi-garde : 150 Euros.
-
-Ces montants sont portés respectivement à :
-
-350 Euros pour une période à compter du 1er janvier 2004 ;
-
-400 Euros pour une période à compter du 1er juillet 2004 ;
-
-450 Euros pour une période à compter du 1er janvier 2005,
-
-pour les périodes effectuées la nuit, le dimanche ou jour férié.
-
-Ces sommes sont réduites de moitié pour les demi-périodes et le samedi après-midi.
+- une demi-garde : 236, 98 €.
 
 C. ― Les assistants associés et les praticiens attachés associés :
 
@@ -70,30 +58,26 @@ C. ― Les assistants associés et les praticiens attachés associés :
 
 Montant pour :
 
-― une nuit, un dimanche et jour férié : 214,60 € ;
+- une nuit, un dimanche et jour férié : 217, 40 € ;
 
-― une demi-nuit, un samedi après-midi : 107,30 €.
+- ne demi-nuit, un samedi après-midi : 108, 70 €.
 
 Afin de maintenir la situation indemnitaire de certains praticiens attachés associés et assistants associés en fonction à la date du 30 janvier 2002, le montant de l'indemnité de sujétion mentionné ci-dessus peut, au plus tard jusqu'au 31 décembre 2011, à titre exceptionnel et dérogatoire, être majoré à concurrence d'un montant de 238 euros pour une nuit, un dimanche ou jour férié et de 119 euros pour une demi-nuit ou un samedi après-midi.
 
-2. Indemnité forfaitaire pour toute période de temps de travail additionnel accompli, de jour et de nuit, sur la base du volontariat, au-delà des obligations de service hebdomadaires :
+2. Indemnité forfaitaire pour toute période de temps de travail additionnel accompli de jour du lundi matin au samedi après-midi inclus, sur la base du volontariat, au-delà des obligations de service hebdomadaires :
 
 Montant pour :
 
-- une période : 246,40 Euros ;
+- une période : 260, 82 €
 
-- une demi-période : 123,20 Euros.
+- une demi-période : 130, 41 €
 
-Ces montants sont portés respectivement à :
+Indemnité forfaitaire pour toute période de temps de travail additionnel accompli la nuit, le dimanche ou jour férié, sur la base du volontariat, au-delà des obligations de service hebdomadaires :
 
-259,60 Euros pour une période à compter du 1er janvier 2004 ;
+Montant pour :
 
-273,90 Euros pour une période à compter du 1er juillet 2004 ;
+- une période : 324, 49 €
 
-308,10 Euros pour une période à compter du 1er janvier 2005,
-
-pour les périodes effectuées la nuit, le dimanche ou jour férié.
-
-Ces sommes sont réduites de moitié pour les demi-périodes et le samedi après-midi.
+- une demi-période : 162, 24 €
 
 Les indemnités mentionnées aux 1 et 2 ci-dessus ne peuvent se cumuler pour une même période de temps de travail.

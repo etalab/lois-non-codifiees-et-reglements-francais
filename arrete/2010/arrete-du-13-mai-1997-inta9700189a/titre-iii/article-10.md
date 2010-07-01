@@ -1,0 +1,3 @@
+# Article 10
+
+Les fonctions de chargé de mission sont exercées par des fonctionnaires de catégorie A mis à disposition du préfet de la région d'Ile-de-France dans les conditions prévues par l'article 3 du décret du 19 août 1970 et l'article 12 du décret du 10 mai 1982 modifié, susvisés. Il peut être également fait appel à des fonctionnaires de catégorie A en fonction au ministère de l'intérieur ou en détachement ou, exceptionnellement, aux agents contractuels de niveau équivalent occupant des emplois de chargé de mission auprès du préfet de région à la date de publication du décret n° 97-295 du 27 mars 1997 relatif à l'organisation des services de l'Etat dans la région d'Ile-de-France.

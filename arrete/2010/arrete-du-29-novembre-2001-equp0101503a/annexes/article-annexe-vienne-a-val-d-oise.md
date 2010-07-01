@@ -37,28 +37,29 @@ Direction départementale de l'équipement de la Vienne
 
 Direction départementale des territoires de la Haute-Vienne
 
-<div align="center">
 <table>
 <tbody>
 <tr>
-<th colspan="4">DIRECTION DÉPARTEMENTALE DES TERRITOIRES DE LA HAUTE-VIENNE<br/>
-</th>
+<td colspan="4">
+<p align="center"> DIRECTION DÉPARTEMENTALE DES TERRITOIRES DE LA HAUTE-VIENNE<br/>
+</p>
+</td>
 </tr>
 <tr>
-<th>
-<br/>FONCTIONS EXERCÉES<br/>
-</th>
-<th>
-<br/>NIVEAU<br/>
-<br/>de qualification de l'emploi<br/>
-</th>
-<th>
-<br/>NOMBRE D'EMPLOIS<br/>
-</th>
-<th>
-<br/>NOMBRE DE POINTS<br/>
-<br/>(IM) par emploi<br/>
-</th>
+<td>
+<p align="center"> FONCTIONS EXERCÉES</p>
+</td>
+<td>
+<p align="center"> NIVEAU </p>
+<p align="center">de qualification de l'emploi</p>
+</td>
+<td>
+<p align="center"> NOMBRE D'EMPLOIS</p>
+</td>
+<td>
+<p align="center"> NOMBRE DE POINTS </p>
+<p align="center">(IM) par emploi</p>
+</td>
 </tr>
 <tr>
 <td align="center">
@@ -118,7 +119,6 @@ Direction départementale des territoires de la Haute-Vienne
 </tr>
 </tbody>
 </table>
-</div>
 
 Direction départementale de l'équipement et de l'agriculture (2) de l'Yonne
 
@@ -204,7 +204,7 @@ Direction départementale de l'équipement et de l'agriculture (1) du territoire
 </tbody>
 </table>
 
-Direction départementale de l'équipement et de l'agriculture (2) de l'Essonne
+Direction départementale des territoires de l'Essonne
 
 <table>
 <tbody>
@@ -224,7 +224,7 @@ Direction départementale de l'équipement et de l'agriculture (2) de l'Essonne
 </tr>
 <tr>
 <td valign="top">
-<p align="left">Chef de projet politique de la ville</p>
+<p align="left">Adjoint au chef du service habitat et renouvellement urbain chargé de la rénovation urbaine </p>
 </td>
 <td>
 <p align="center">A</p>
@@ -233,12 +233,12 @@ Direction départementale de l'équipement et de l'agriculture (2) de l'Essonne
 <p align="center">1</p>
 </td>
 <td>
-<p align="center">40 points</p>
+<p align="center">32 points</p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<p align="left">Chef du service habitat</p>
+<p>Chef du service habitat et renouvellement urbain </p>
 </td>
 <td>
 <p align="center">A</p>
@@ -252,7 +252,21 @@ Direction départementale de l'équipement et de l'agriculture (2) de l'Essonne
 </tr>
 <tr>
 <td valign="top">
-<p align="left">Chargé de la politique de la ville pour le nord de l'Essonne</p>
+<p align="left">Chargé de mission rénovation urbaine</p>
+</td>
+<td>
+<p align="center">A</p>
+</td>
+<td>
+<p align="center">2</p>
+</td>
+<td>
+<p align="center">20 points</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p align="left">Chef du bureau du logement </p>
 </td>
 <td>
 <p align="center">A</p>
@@ -261,12 +275,12 @@ Direction départementale de l'équipement et de l'agriculture (2) de l'Essonne
 <p align="center">1</p>
 </td>
 <td>
-<p align="center">20 points</p>
+<p align="center">28 points</p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<p align="left">Instructeur des dossiers de subvention d'investissement en matière de politique de la ville</p>
+<p align="left">Adjoint au chef du bureau du parc social et de la rénovation urbaine </p>
 </td>
 <td>
 <p align="center">B</p>
@@ -280,41 +294,27 @@ Direction départementale de l'équipement et de l'agriculture (2) de l'Essonne
 </tr>
 <tr>
 <td valign="top">
-<p align="left">Chef du bureau des usagers de l'habitat</p>
+<p align="left">Instructeur de dossier "politique de la ville" </p>
 </td>
 <td>
-<p align="center">A</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">20 points</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p align="left">Instructeur des dossiers du logement social</p>
-</td>
-<td>
-<p align="center">A</p>
+<p align="center">B</p>
 </td>
 <td>
 <p align="center">1</p>
 </td>
 <td>
-<p align="center">20 points</p>
+<p align="center">15 points</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2" valign="top">
-<p align="left">Instructeur des dossiers du logement social dans les quartiers prioritaires</p>
+<p align="left">Instructeur de dossier logement social "quartiers prioritaires" </p>
 </td>
 <td rowspan="2">
 <p align="center">B</p>
 </td>
 <td rowspan="2">
-<p align="center">2</p>
+<p align="center">1</p>
 </td>
 <td rowspan="2">
 <p align="center">15 points</p>

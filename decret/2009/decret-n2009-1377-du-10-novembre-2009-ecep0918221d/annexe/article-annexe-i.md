@@ -48,6 +48,17 @@ DIRECTIONS RÉGIONALES DONT LE RESSORT TERRITORIAL EST ÉTENDU POUR LES ENQUÊTE
 <td align="center">Bretagne<br/>Pays de la Loire<br/>Centre<br/>
 </td>
 </tr>
+<tr>
+<td align="center">Direction régionale d'Ile-de-France</td>
+<td>
+<p align="center">Ile-de-France</p>
+<p align="center">Basse-Normandie</p>
+<p align="center">Haute-Normandie</p>
+<p align="center">Réunion</p>
+<p align="center">Mayotte </p>
+<p align="center">Saint-Pierre-et-Miquelon</p>
+</td>
+</tr>
 </tbody>
 </table>
 

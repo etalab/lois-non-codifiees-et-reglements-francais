@@ -1,0 +1,3 @@
+# Article 42
+
+Le directeur régional des douanes et droits indirects notifie par lettre recommandée avec demande d'avis de réception au débitant en cause les griefs formulés contre lui. A compter de cette notification, le débitant dispose d'un délai de quinze jours francs pour présenter par écrit ses observations et, s'il le souhaite, prendre connaissance dans les bureaux de la direction régionale des douanes et droits indirects dont il relève des pièces de son dossier. Il peut, dans le même délai, demander à être entendu par le directeur régional des douanes et droits indirects ou son représentant.

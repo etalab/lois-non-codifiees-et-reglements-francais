@@ -35,6 +35,22 @@ DIRECTIONS RÉGIONALES DONT LE RESSORT TERRITORIAL EST ÉTENDU POUR LES ENQUÊTE
 </td>
 </tr>
 <tr>
+<td align="center">Direction régionale d'Ile-de-France</td>
+<td>
+<div align="center">Ile-de-France<br/>
+</div>
+<div align="center">Bretagne<br/>
+</div>
+<div align="center">Nord - Pas-de-Calais<br/>
+</div>
+<div align="center">Picardie, à l'exclusion du département de l'Aisne<br/>
+</div>
+<div align="center">Basse-Normandie<br/>
+</div>
+<div align="center">Haute-Normandie</div>
+</td>
+</tr>
+<tr>
 <td align="center">Direction régionale de Languedoc-Roussillon<br/>
 </td>
 <td align="center">Languedoc-Roussillon<br/>Département de la Haute-Loire<br/>

@@ -1,19 +1,7 @@
-# Arrêté du 3 mars 1986 concernant la procédure de dédouanement à domicile à l'exportation et à l'importation
+# Arrêté du 3 mars 1986 fixant les modalités d'organisation des élections aux conseils d'administration des centres de formation de la fonction publique territoriale.
 
-- [Article 1](article-1.md)
 - [SECTION 1 : Elections aux conseils d'administration des centres régionaux de formation.](section-1)
-- [Article 2](article-2.md)
 - [SECTION 2 : Elections aux conseils d'administration des centres interdépartementaux de formation.](section-2)
-- [Article 3](article-3.md)
 - [SECTION 3 : Elections au conseil d'administration du centre unique de formation de Paris.](section-3)
-- [Article 4](article-4.md)
 - [SECTION 4 : Elections au conseil d'administration du Centre national de formation.](section-4)
-- [Article 5](article-5.md)
 - [SECTION 5 : Dispositions transitoires.](section-5)
-- [Article 6](article-6.md)
-- [Article 7](article-7.md)
-- [Article 8](article-8.md)
-- [Article 9](article-9.md)
-- [Article 10](article-10.md)
-- [Article 11](article-11.md)
-- [Article 12](article-12.md)

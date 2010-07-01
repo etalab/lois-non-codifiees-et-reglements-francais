@@ -1,0 +1,5 @@
+# Article 47
+
+I. ― Dans tous les textes réglementaires et actes individuels en vigueur pour l'Ile-de-France qui les mentionnent au titre des missions décrites à l'article 14 du présent décret, la référence à la direction régionale et interdépartementale de l'environnement et de l'énergie remplace les références à la direction régionale de l'environnement, à la direction régionale de l'industrie, de la recherche et de l'environnement, au service navigation de la Seine et au service technique interdépartemental d'inspection des installations classées.
+
+II. ― Dans tous les textes réglementaires et actes individuels en vigueur pour l'Ile-de-France qui les mentionnent au titre des missions décrites à l'article 14 du présent décret, la référence au directeur régional et interdépartemental de l'environnement et de l'énergie remplace les références au directeur régional de l'environnement, au directeur régional de l'industrie, de la recherche et de l'environnement et au directeur du service navigation de la Seine.
