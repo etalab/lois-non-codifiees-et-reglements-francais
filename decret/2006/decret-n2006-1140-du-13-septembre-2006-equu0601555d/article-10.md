@@ -8,7 +8,7 @@ Le conseil d'administration peut également être convoqué à la demande du pr�
 
 Sa convocation est de droit si les deux tiers des membres au moins en adressent la demande écrite à son président.
 
-Le directeur régional et interdépartemental de l'agriculture et de la forêt, le directeur régional de l'environnement, l'autorité chargée du contrôle économique et financier de l'Etat et l'agent comptable de l'établissement assistent de droit aux séances du conseil d'administration et y sont entendus chaque fois qu'ils le demandent.
+Le           directeur régional et interdépartemental de l'alimentation, de l'agriculture et de la forêt, le directeur régional de l'environnement, l'autorité chargée du contrôle économique et financier de l'Etat et l'agent comptable de l'établissement assistent de droit aux séances du conseil d'administration et y sont entendus chaque fois qu'ils le demandent.
 
 Les procès-verbaux et délibérations leur sont adressés.
 

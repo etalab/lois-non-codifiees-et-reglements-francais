@@ -28,7 +28,7 @@ Un agent désigné par le syndicat Force ouvrière du personnel de l'administrat
 
 Un agent désigné par le syndicat CFDT du personnel de l'assistance publique à Paris ;
 
-Un agent désigné par le syndicat CFTC de la préfecture de Paris, de l'assistance publique et du crédit municipal ;
+Un agent désigné par le syndicat CFTC de la  préfecture de la région d'Ile-de-France, préfecture de Paris, de l'assistance publique et du crédit municipal ;
 
 Un agent désigné par le syndicat des cadres de l'administration générale de l'assistance publique à Paris.
 

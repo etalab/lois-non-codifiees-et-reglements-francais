@@ -6,7 +6,7 @@ l'intéressé ;
 
 les organismes bailleurs ;
 
-le bureau du logement de la préfecture de Paris pour les logements qui le concernent ;
+le bureau du logement de la  préfecture de la région d'Ile-de-France, préfecture de Paris pour les logements qui le concernent ;
 
 les membres de la commission Logement ;
 

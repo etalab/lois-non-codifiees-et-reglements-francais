@@ -1,0 +1,3 @@
+# TITRE III : DISPOSITIONS RELATIVES AU PERSONNEL.
+
+- [Article 8](article-8.md)

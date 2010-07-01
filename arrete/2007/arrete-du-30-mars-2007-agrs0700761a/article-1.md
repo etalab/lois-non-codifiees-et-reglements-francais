@@ -308,15 +308,11 @@ En application de l'article 2 du décret du 4 janvier 2006 susvisé, la liste de
 
 -responsable de la division administrative et financière au service régional de la formation et du développement à la direction régionale de l'alimentation, de l'agriculture et de la forêt de Rhône-Alpes ;
 
--secrétaire général de la direction régionale et interdépartementale de l'agriculture et de la forêt d'Ile-de-France et de la direction départementale des services vétérinaires de Paris ;
+-secrétaire général de la direction régionale et interdépartementale de l'alimentation, de l'agriculture et de la forêt d'Ile-de-France et de la direction départementale des services vétérinaires de Paris ;
 
 -Animateur technique de l'ingénierie territoriale à la direction régionale de l'alimentation, de l'agriculture et de la forêt d'Aquitaine (à compter du 1er janvier 2009).
 
 **II.-Dans les établissements d'enseignement relevant du ministre chargé de l'agriculture**
-
-<div align="left">
-<br/>
-</div>
 
 Agent comptable de l'agence comptable regroupant l'Ecole nationale d'ingénieurs des travaux agricoles de Clermont-Ferrand et le Centre national de promotion rurale de Marmilhat.
 

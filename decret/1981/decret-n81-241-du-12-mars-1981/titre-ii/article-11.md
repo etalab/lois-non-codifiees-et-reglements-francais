@@ -8,11 +8,11 @@ I.-Dans la proportion d'une nomination sur cinq, les inspecteurs généraux de l
 
 3° Inspecteurs des finances de 1re classe ;
 
-4° Directeurs d'administration centrale, de la préfecture de Paris ou des services administratifs de la préfecture de police ayant occupé pendant deux ans au moins l'une de ces fonctions ;
+4° Directeurs d'administration centrale, de la  préfecture de la région d'Ile-de-France, préfecture de Paris ou des services administratifs de la préfecture de police ayant occupé pendant deux ans au moins l'une de ces fonctions ;
 
 5° Préfets ayant occupé pendant deux ans au moins des fonctions territoriales en cette qualité ;
 
-6° Chefs de service, directeurs adjoints et sous-directeurs des administrations centrales, de la préfecture de Paris ou de la préfecture de police, sous-préfets de 1re catégorie, ayant accompli en ces qualités au moins cinq ans de services ;
+6° Chefs de service, directeurs adjoints et sous-directeurs des administrations centrales, de la  préfecture de la région d'Ile-de-France, préfecture de Paris ou de la préfecture de police, sous-préfets de 1re catégorie, ayant accompli en ces qualités au moins cinq ans de services ;
 
 7° Directeurs généraux des services des régions, des départements, des communes de plus de 150 000 habitants, des communautés urbaines et communautés d'agglomérations de plus de 400 000 habitants, ayant accompli en cette qualité au moins cinq ans de services ;
 

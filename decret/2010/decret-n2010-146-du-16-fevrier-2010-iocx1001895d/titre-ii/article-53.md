@@ -1,6 +1,6 @@
 # Article 53
 
-I. ― Dans l'attente de la création d'une direction régionale ou départementale des finances publiques en application des dispositions du décret du 16 juin 2009 susvisé, le trésorier-payeur général de région ou de département exerce les fonctions dévolues au directeur régional ou départemental des finances publiques aux articles 21, 35, 38, 40, 43 et 82 du décret du 29 avril 2004 susvisé.
+I. ― Dans l'attente de la création d'une direction régionale ou départementale des finances publiques en application des dispositions du décret du 16 juin 2009 susvisé, le trésorier-payeur général de région ou de département exerce les fonctions dévolues au directeur régional ou départemental des finances publiques aux articles 21, 35, 38, 40, 43, 44 et 82 du décret du 29 avril 2004 susvisé.
 
 II. ― Dans l'attente de la création d'une direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi, le directeur régional du travail, de l'emploi et de la formation professionnelle et le directeur régional de la concurrence, de la consommation et de la répression des fraudes exercent les fonctions dévolues au directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi à l'article 35 du décret du 29 avril 2004 susvisé.
 

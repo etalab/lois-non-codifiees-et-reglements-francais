@@ -14,7 +14,7 @@ Peuvent en outre être réglés par l'intermédiaire des régies d'avances prév
 
 1. Les récompenses octroyées par décision nominative spéciale, dans la limite de 1 000 F par bénéficiaire ;
 
-2. Les salaires et indemnités du personnel non fonctionnaire engagé pour les opérations électorales, présidentielles, législatives, sénatoriales, européennes, cantonales, municipales tant générales que partielles, ainsi que les consultations par voie de référendum, et les indemnités pour travaux supplémentaires attribuées sur le budget de l'Etat au personnel de la préfecture de Paris appelé à participer à ces mêmes opérations.
+2. Les salaires et indemnités du personnel non fonctionnaire engagé pour les opérations électorales, présidentielles, législatives, sénatoriales, européennes, cantonales, municipales tant générales que partielles, ainsi que les consultations par voie de référendum, et les indemnités pour travaux supplémentaires attribuées sur le budget de l'Etat au personnel de la préfecture de la région d'Ile-de-France, préfecture de Paris appelé à participer à ces mêmes opérations.
 
 3. Le paiement sur le budget Etat des salaires et indemnités des personnels recrutés pour les opérations consécutives au recensement de la population ainsi que des sommes dues pour ces mêmes opérations au personnel d'encadrement ;
 

@@ -1,6 +1,6 @@
 # Article 4
 
-Pour les personnels placés sous leur autorité, sont déléguées aux préfets de département et aux représentants de l'Etat dans les collectivités d'outre-mer et en Nouvelle-Calédonie, à l'exception des personnels en fonction à la préfecture de Paris, les décisions dans les domaines suivants :
+Pour les personnels placés sous leur autorité, sont déléguées aux préfets de département et aux représentants de l'Etat dans les collectivités d'outre-mer et en Nouvelle-Calédonie, à l'exception des personnels en fonction à la préfecture de la région d'Ile-de-France, préfecture de Paris, les décisions dans les domaines suivants :
 
 1. Affectation au sein des services (hors directeurs de préfecture et conseiller d'administration de l'intérieur et de l'outre-mer).
 

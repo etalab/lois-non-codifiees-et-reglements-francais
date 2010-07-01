@@ -20,6 +20,8 @@ Côtes-d'Armor.
 
 Drôme.
 
+Essonne.
+
 Eure.
 
 Finistère.
@@ -76,7 +78,11 @@ Haute-Savoie.
 
 Seine-Maritime.
 
+Seine-et-Marne.
+
 Somme.
+
+Val-d'Oise.
 
 Var.
 
@@ -85,3 +91,5 @@ Vaucluse.
 Vendée.
 
 Vienne.
+
+Yvelines.

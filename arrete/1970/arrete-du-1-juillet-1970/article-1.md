@@ -8,7 +8,7 @@ Le préfet de Paris ou le préfet de police ou leur représentant, président ;
 
 Le directeur des affaires sanitaires et sociales de Paris ou son représentant ;
 
-Le directeur de l'urbanisme et des équipements de la préfecture de Paris ou son représentant ;
+Le directeur de l'urbanisme et des équipements de la  préfecture de la région d'Ile-de-France, préfecture de Paris ou son représentant ;
 
 Le directeur de l'action sociale, de l'hygiène et de la santé de la ville de Paris ou son représentant ;
 

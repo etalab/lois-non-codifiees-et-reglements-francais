@@ -204,11 +204,11 @@ Directeur général adjoint et directeur de l'institut géographique national, m
 
 Intérieur
 
-Directeur adjoint et sous-directeur de la préfecture de Paris et de la préfecture de police, mentionnés dans le décret n° 67-198 du 14 mars 1967.
+Directeur adjoint et sous-directeur de la  préfecture de la région d'Ile-de-France, préfecture de Paris et de la préfecture de police, mentionnés dans le décret n° 67-198 du 14 mars 1967.
 
 Chef de service administratif régi par le décret n° 77-1214 du 26 octobre 1977.
 
-Directeur de la préfecture de Paris ;
+Directeur de la  préfecture de la région d'Ile-de-France, préfecture de Paris ;
 
 Directeur général de la préfecture de police (services administratifs) ;
 

@@ -1,14 +1,14 @@
 # Article 10
 
-I.-A la date d'entrée en vigueur du présent décret, telle que définie à l'article 8 ci-dessus, le titre Ier du décret du 25 février 1994 susvisé et, en tant qu'ils concernent les missions sociales des directions régionales des affaires sanitaires et sociales, les articles R. 1421-3, R. 1421-5, R. 1421-7 à R. 1421-10 et R. 1421-12 du code de la santé publique et, en tant qu'il concerne les directions régionales de la jeunesse, des sports et de la vie associative, le décret du 9 décembre 1976 susvisé cessent d'être applicables sauf en tant qu'ils concernent la région Ile-de-France et les régions d'outre-mer et sous réserve des dispositions fixées à l'alinéa ci-après.
+I.-A la date d'entrée en vigueur du présent décret, telle que définie à l'article 8 ci-dessus, le titre Ier du décret du 25 février 1994 susvisé et, en tant qu'ils concernent les missions sociales des directions régionales des affaires sanitaires et sociales, les articles R. 1421-3, R. 1421-5, R. 1421-7 à R. 1421-10 et R. 1421-12 du code de la santé publique et, en tant qu'il concerne les directions régionales de la jeunesse, des sports et de la vie associative, le décret du 9 décembre 1976 susvisé cessent d'être applicables sauf en tant qu'ils concernent les régions d'outre-mer et sous réserve des dispositions fixées à l'alinéa ci-après.
 
 Toutefois, dans chaque région, les missions sanitaires, médico-sociales ainsi que celles relatives au contrôle de l'application de la législation et de la gestion des organismes de sécurité sociale mentionnés au 2° de l'article R. 1421-5 du code de la santé publique sont maintenues au sein de la direction régionale des affaires sanitaires et sociales jusqu'à ce qu'elles soient dévolues à une agence régionale de santé ou à une autre autorité compétente.
 
 II.-A la date de la dévolution des missions sanitaires et médico-sociales à une agence régionale de santé :
 
-1° Le titre Ier du décret du 25 février 1994 susvisé est abrogé sauf en tant qu'il concerne la région Ile-de-France et les régions d'outre-mer.
+1° Le titre Ier du décret du 25 février 1994 susvisé est abrogé sauf en tant qu'il concerne les régions d'outre-mer.
 
-2° En tant qu'ils concernent les missions sanitaires et médico-sociales des directions régionales des affaires sanitaires et sociales, l'article R. 1421-3, l'article R. 1421-5 à l'exception de son 2°, les articles R. 1421-7 à R. 1421-10 et R. 1421-12 du code de la santé publique, le titre Ier et, en tant qu'ils concernent les directions régionales des affaires sanitaires et sociales, les titres III et IV du décret du 20 février 1997 susvisé et, en tant qu'il concerne les directions régionales de la jeunesse, des sports et de la vie associative, le décret du 9 décembre 1976 susvisé sont abrogés sauf en tant qu'ils concernent la région Ile-de-France et les régions d'outre-mer.
+2° En tant qu'ils concernent les missions sanitaires et médico-sociales des directions régionales des affaires sanitaires et sociales, l'article R. 1421-3, l'article R. 1421-5 à l'exception de son 2°, les articles R. 1421-7 à R. 1421-10 et R. 1421-12 du code de la santé publique, le titre Ier et, en tant qu'ils concernent les directions régionales des affaires sanitaires et sociales, les titres III et IV du décret du 20 février 1997 susvisé et, en tant qu'il concerne les directions régionales de la jeunesse, des sports et de la vie associative, le décret du 9 décembre 1976 susvisé sont abrogés sauf en tant qu'ils concernent les régions d'outre-mer.
 
 3° A modifié les dispositions suivantes :
 
