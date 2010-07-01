@@ -1,7 +1,7 @@
 # Article 47
 
-Dès réception du dossier, le ministre chargé des naturalisations procède à tout complément d'enquête qu'il juge utile, portant sur la conduite et le loyalisme de l'intéressé. Une enquête complémentaire peut également être menée en ce qui concerne l'état de santé du demandeur ; elle consiste en un examen médical par un médecin désigné dans les conditions prévues à l'article 40 du présent décret.
+Lorsque la demande a été déposée auprès d'une autorité consulaire, cette autorité transmet au ministre chargé des naturalisations, dans les six mois suivant la délivrance du récépissé prévu à l'avant-dernier alinéa de l'article 37, le dossier assorti de son avis motivé tant sur la recevabilité de la demande que sur la suite qu'elle lui paraît devoir comporter. Cette transmission est faite par l'intermédiaire du ministre des affaires étrangères, qui joint son propre avis.
 
-Le ministre chargé des naturalisations examine si les conditions requises par la loi sont remplies.
+Le dossier contient tous les documents exigés à l'article 37, le bulletin n° 2 du casier judiciaire de l'intéressé et le résultat de l'enquête prévue à l'article 36.
 
-Dans la négative, il déclare la demande irrecevable. Cette décision motivée conformément à l'article 27 de la loi n° 98-170 du 16 mars 1998 relative à la nationalité est notifiée à l'intéressé dans les délais fixés par l'article 21-25-1 du code civil, par l'intermédiaire de l'autorité auprès de laquelle a été déposée la demande. Si les motifs de l'irrecevabilité disparaissent, l'intéressé peut déposer une nouvelle demande.
+Si au cours de la procédure de constitution du dossier une pièce fait apparaître que la demande est manifestement irrecevable, l'autorité consulaire transmet le dossier en l'état, assorti de son avis motivé, au ministre chargé des naturalisations, qui statue sur la demande.

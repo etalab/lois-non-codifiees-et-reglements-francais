@@ -1,3 +1,5 @@
 # Article 40
 
-Chaque autorité habilitée par application de l'article 35 du présent décret à recevoir une demande de naturalisation désigne des médecins des hôpitaux et dispensaires publics chargés d'examiner éventuellement l'état de santé des postulants et de fournir le certificat qui peut être jugé nécessaire par le ministre chargé des naturalisations.
+Sans préjudice de l'application des dispositions du dernier alinéa de l'article 35, l'autorité qui a reçu la demande peut mettre en demeure le postulant de produire les pièces complémentaires ou d'accomplir les formalités administratives qui sont nécessaires à l'examen de sa demande.
+
+Si le postulant ne défère pas à cette mise en demeure dans le délai qu'elle fixe, la demande peut être classée sans suite. Le postulant est informé par écrit de ce classement.

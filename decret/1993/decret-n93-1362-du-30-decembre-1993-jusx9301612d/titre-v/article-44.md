@@ -1,7 +1,7 @@
 # Article 44
 
-Dans les six mois suivant la délivrance du récépissé prévu à l'avant-dernier alinéa de l'article 37, l'autorité auprès de laquelle le dépôt de la demande a été effectué transmet au ministre chargé des naturalisations le dossier assorti de son avis motivé, tant sur la recevabilité de la demande que sur la suite qu'elle lui paraît devoir comporter.
+Si le préfet ou, à Paris, le préfet de police auprès duquel la demande a été déposée estime, même si la demande est recevable, qu'il n'y a pas lieu d'accorder la naturalisation ou la réintégration sollicitée, il prononce le rejet de la demande.
 
-Le dossier contient tous les documents exigés à l'article 37, le bulletin n° 2 du casier judiciaire et le résultat de l'enquête prévue à l'article 36.
+Il peut également en prononcer l'ajournement en imposant un délai ou des conditions. Ce délai une fois expiré ou ces conditions réalisées, il appartient au postulant, s'il le juge opportun, de formuler une nouvelle demande.
 
-Si le dossier a été établi par une autorité consulaire, il est transmis dans le même délai de six mois mais par l'intermédiaire du ministre des affaires étrangères, qui joint son propre avis.
+La décision du préfet ou, à Paris, du préfet de police est transmise sans délai au ministre chargé des naturalisations.
