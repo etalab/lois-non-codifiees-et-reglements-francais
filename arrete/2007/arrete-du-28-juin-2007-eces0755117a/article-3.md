@@ -1,19 +1,7 @@
 # Article 3
 
-Les catégories d'informations traitées concernent :
+L'INSEE est destinataire des informations indirectement nominatives issues du recensement.
 
-- les revenus : prestations familiales ou sociales, revenus d'activité (salaires, revenus d'indépendants), revenus de remplacement (chômage, préretraite ou retraite), revenus immobiliers, fonciers ou financiers, bourses d'études, transferts monétaires reçus (ou versés) par (ou à) d'autres ménages, impôts et cotisations sociales ;
+Les Archives de France sont destinataires des informations individuelles recueillies identifiant les personnes enquêtées, conformément aux dispositions de l'article L. 212-4 du code du patrimoine.
 
-- l'exclusion sociale, mesurée par les retards de paiement, par des indicateurs non financiers de privation (niveau d'endettement et non-accès aux produits de première nécessité) ainsi que par l'environnement physique et social ;
-
-- le logement : type d'habitation, statut d'habitation, conditions de logement, commodités et coût du logement ;
-
-- l'éducation : niveau scolaire le plus élevé atteint ;
-
-- le travail au travers d'informations sur l'historique et le calendrier des activités, sur l'activité professionnelle courante et sur l'emploi courant principal (y compris, pour les chômeurs, sur le dernier emploi occupé) ainsi que sur d'éventuels emplois courants secondaires et au travers d'informations sur l'activité professionnelle pendant la période de référence du revenu : données détaillées relatives au travail ;
-
-- la santé (y compris l'état de santé et l'existence de maladie ou affection chronique), l'accès aux soins de santé ;
-
-- la vie associative, les relations professionnelles et la participation sociale, les sports et les loisirs, la mobilité sociale et les relations avec les proches.
-
-- les attitudes, sentiments et qualité de vie .
+Les renseignements individuels issus du traitement prévu à l'article 1er permettant l'identification des personnes ayant fait l'objet de l'enquête peuvent être communiqués dans les conditions prévues à l'article 17 du décret n° 2009-318 du 20 mars 2009 susvisé, à des fins de statistique publique ou de recherche scientifique ou historique, sur décision de l'administration des archives prise après avis du comité du secret statistique et accord de l'Institut national de la statistique et des études économiques.
