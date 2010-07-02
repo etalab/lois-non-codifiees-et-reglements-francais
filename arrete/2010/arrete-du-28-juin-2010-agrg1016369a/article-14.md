@@ -1,0 +1,7 @@
+# Article 14
+
+En dérogation à l'article 13, les pommes de terre de semence et les plantes hôtes énumérées à l'annexe I, point 1, déclarées contaminées peuvent être plantées après avoir fait l'objet d'une décontamination, sous la supervision du service régional chargé de la protection des végétaux, au moyen d'une méthode attestant l'absence de risque de propagation des nématodes à kystes de la pomme de terre et adoptée officiellement au niveau européen en application de l'article 10 (1, a) de la directive 2007/33/CE du Conseil du 11 juin 2007.
+
+En dérogation à l'article 13, les pommes de terre déclarées contaminées peuvent être destinées à la transformation industrielle ou au triage, après avis du service régional chargé de la protection des végétaux, dans des entreprises de transformation ou de triage disposant de procédures d'élimination des déchets appropriées autorisées par le service régional chargé de la protection des végétaux, à condition qu'il n'y ait pas de risque de dissémination de nématodes à kystes de la pomme de terre.
+
+En dérogation à l'article 13, les végétaux énumérés à l'annexe I, point 2, déclarés contaminés peuvent être plantés, après avis du service régional chargé de la protection des végétaux, à condition qu'ils aient fait l'objet d'une désinfestation par des méthodes validées officiellement et fait l'objet d'un lavage ou brossage afin d'ôter la terre, de sorte qu'ils ne sont plus contaminés.

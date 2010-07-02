@@ -1,0 +1,3 @@
+# Article 3
+
+Il est attribué à chaque usager, pour l'année 2010, et pour chacune des deux périodes suivantes : du 1er juillet au 31 août et du 1er au 15 septembre, un nombre maximal journalier pair de mouvements qui est fixé par le directeur de la sécurité de l'aviation civile Sud-Est proportionnellement au nombre de mouvements que l'usager a réalisés durant la période correspondante de l'année 2009. Un nombre maximal journalier de mouvements égal à 4 est réservé sur toute la période jusqu'au 15 septembre pour accueillir l'ensemble des usagers n'ayant pas eu d'activité sur l'hélistation l'année précédente ou ayant eu une activité insuffisante pour permettre l'attribution d'un nombre journalier de mouvements au moins égal à 2.
