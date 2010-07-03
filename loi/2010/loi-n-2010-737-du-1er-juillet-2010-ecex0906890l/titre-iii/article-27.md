@@ -1,0 +1,5 @@
+# Article 27
+
+Le Gouvernement est autorisé à prendre par voie d'ordonnance, dans les conditions prévues par l'article 38 de la Constitution, les mesures relevant du domaine de la loi nécessaires à la généralisation et au renforcement des contrôles et des sanctions en matière de respect des obligations à l'égard de la clientèle dans les domaines des produits et services financiers et d'assurance, des opérations de crédit, de la mise à disposition de moyens de paiements et de la fourniture d'autres services bancaires. Ces mesures peuvent donner lieu, en tant que de besoin, à des modifications des compétences des autorités et services qui interviennent dans le contrôle des activités ou dans l'application des sanctions mentionnées ci-dessus.
+
+L'ordonnance est prise dans un délai de dix-huit mois à compter de la date de publication de la présente loi. Un projet de loi portant ratification est déposé devant le Parlement au plus tard le dernier jour du troisième mois suivant la publication de l'ordonnance.
