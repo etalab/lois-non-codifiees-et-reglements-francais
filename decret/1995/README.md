@@ -616,7 +616,6 @@
 - [Décret n°95-415 du 20 avril 1995 (DEFX9500056D)](decret-n95-415-du-20-avril-1995-defx9500056d)
 - [Décret n°95-419 du 20 avril 1995 (MCCB9500155D)](decret-n95-419-du-20-avril-1995-mccb9500155d)
 - [Décret n°95-421 du 20 avril 1995 (PRMZ9529950D)](decret-n95-421-du-20-avril-1995-prmz9529950d)
-- [Décret n°95-422 du 20 avril 1995 (PRMX9500737D)](decret-n95-422-du-20-avril-1995-prmx9500737d)
 - [Décret n°95-423 du 20 avril 1995 (SPSS9500786D)](decret-n95-423-du-20-avril-1995-spss9500786d)
 - [Décret n°95-426 du 20 avril 1995 (MENA9500520D)](decret-n95-426-du-20-avril-1995-mena9500520d)
 - [Décret n°95-428 du 20 avril 1995 (EQUB9501658D)](decret-n95-428-du-20-avril-1995-equb9501658d)

@@ -556,7 +556,6 @@
 - [Arrêté du 18 novembre 2003 (SANH0324535A)](arrete-du-18-novembre-2003-sanh0324535a)
 - [Arrêté du 18 novembre 2003 (SANH0324584A)](arrete-du-18-novembre-2003-sanh0324584a)
 - [Arrêté du 18 septembre 2003 (DEFP0302095A)](arrete-du-18-septembre-2003-defp0302095a)
-- [Arrêté du 19 août 2003 (DEVE0320249A)](arrete-du-19-aout-2003-deve0320249a)
 - [Arrêté du 19 août 2004 (AGRA0400388A)](arrete-du-19-aout-2004-agra0400388a)
 - [Arrêté du 19 août 2004 (AGRA0400389A)](arrete-du-19-aout-2004-agra0400389a)
 - [Arrêté du 19 décembre 2002 (BUDD0204004A)](arrete-du-19-decembre-2002-budd0204004a)

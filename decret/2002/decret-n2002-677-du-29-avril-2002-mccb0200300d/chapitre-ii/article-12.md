@@ -1,6 +1,6 @@
 # Article 12
 
-Le maître de l'ouvrage arrête son choix, après avis du comité artistique et, le cas échéant, de la commission artistique nationale, par une décision motivée. Il en informe l'ensemble des candidats.
+Le maître de l'ouvrage arrête son choix, après avis du comité artistique par une décision motivée. Il en informe l'ensemble des candidats.
 
 Pour rendre applicables les dispositions du premier alinéa de l'article L. 551-15 du code de justice administrative, le maître de l'ouvrage publie au Journal officiel de l'Union européenne un avis, conforme au modèle fixé par le règlement (CE) n° 1564 / 2005 de la Commission européenne établissant les formulaires standard dans le cadre des procédures de passation de marchés publics, relatif à son intention de conclure la commande. En ce cas il respecte un délai d'au moins onze jours entre la date de publication de cet avis et la date de conclusion du contrat.
 

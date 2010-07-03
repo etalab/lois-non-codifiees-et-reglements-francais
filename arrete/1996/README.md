@@ -378,7 +378,6 @@
 - [Arrêté du 12 juillet 1996 (EQUA9600807A)](arrete-du-12-juillet-1996-equa9600807a)
 - [Arrêté du 12 juillet 1996 (EQUS9600965A)](arrete-du-12-juillet-1996-equs9600965a)
 - [Arrêté du 12 juillet 1996 (MCCB9600405A)](arrete-du-12-juillet-1996-mccb9600405a)
-- [Arrêté du 12 juillet 1996 (TASP9620896A)](arrete-du-12-juillet-1996-tasp9620896a)
 - [Arrêté du 12 juillet 1996 (TASS9622710A)](arrete-du-12-juillet-1996-tass9622710a)
 - [Arrêté du 12 juin 1996 (DEFT9601555A)](arrete-du-12-juin-1996-deft9601555a)
 - [Arrêté du 12 juin 1996 (ECOS9650021A)](arrete-du-12-juin-1996-ecos9650021a)

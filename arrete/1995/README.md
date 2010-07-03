@@ -606,7 +606,6 @@
 - [Arrêté du 16 mars 1995 (AGRG9500555A)](arrete-du-16-mars-1995-agrg9500555a)
 - [Arrêté du 16 mars 1995 (AGRG9500556A)](arrete-du-16-mars-1995-agrg9500556a)
 - [Arrêté du 16 mars 1995 (ECOC9500028A)](arrete-du-16-mars-1995-ecoc9500028a)
-- [Arrêté du 16 mars 1995 (EQUV9500418A)](arrete-du-16-mars-1995-equv9500418a)
 - [Arrêté du 16 mars 1995 (MAEA9520120A)](arrete-du-16-mars-1995-maea9520120a)
 - [Arrêté du 16 mars 1995 (MCCE9500151A)](arrete-du-16-mars-1995-mcce9500151a)
 - [Arrêté du 16 octobre 1995 (ECOR9501201A)](arrete-du-16-octobre-1995-ecor9501201a)
