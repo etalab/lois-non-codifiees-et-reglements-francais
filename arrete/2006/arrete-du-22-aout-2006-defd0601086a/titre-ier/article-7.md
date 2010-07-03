@@ -2,7 +2,7 @@
 
 Le sous-chef d'état-major "ressources humaines" :
 
-1. Propose, en collaboration avec le sous-chef "plans et programmes", la politique de la marine en matière de ressources humaines ;
+1. Propose, en collaboration avec les autres sous-chefs de l'état-major, la politique de la marine en matière de ressources humaines ;
 
 2. Fait élaborer les éléments nécessaires à la définition d'une politique de gestion de ces ressources, en particulier en termes d'effectif et de flux ;
 

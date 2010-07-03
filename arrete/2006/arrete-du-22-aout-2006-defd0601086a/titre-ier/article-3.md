@@ -12,11 +12,11 @@ Les sous-chefs d'état-major sont :
 
 - le sous-chef d'état-major "soutiens et finances" .
 
-Les coordonnateurs centraux sont :
+Les autorités de coordination sont :
 
-- le coordonnateur pour les affaires nucléaires, la prévention et la protection de l'environnement ;
+-  l'autorité de coordination pour les affaires nucléaires, la prévention et la protection de l'environnement ;
 
-- le coordonnateur pour les questions internationales.
+-  l'autorité de coordination de la fonction garde-côtes et des affaires internationales.
 
 En cas d'absence ou d'empêchement, le major général de la marine est remplacé par l'un des sous-chefs d'état-major.
 
@@ -24,4 +24,6 @@ Le major général de la marine dispose en outre :
 
 - du délégué aux réserves de la marine, dont les attributions sont fixées par arrêté ;
 
-- d'un médecin des armées, conseiller pour les affaires de santé, placé auprès de lui par la direction centrale du service de santé des armées.
+- d'un médecin des armées, conseiller pour les affaires de santé, placé auprès de lui par la direction centrale du service de santé des armées ;
+
+- d'un officier chargé du management de l'information de la marine, qui exprime et s'assure de la satisfaction des besoins de la marine dans le domaine des systèmes d'information et de communication. Il en définit les modalités d'utilisation et de maintien en condition opérationnelle.

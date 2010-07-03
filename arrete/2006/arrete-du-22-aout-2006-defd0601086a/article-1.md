@@ -1,10 +1,10 @@
 # Article 1
 
-Pour l'exercice des attributions qui lui sont dévolues par le décret du 21 mai 2005 susvisé, le chef d'état-major de la marine dispose :
+Pour l'exercice des attributions qui lui sont dévolues par les articles R. * 3121-25 à D. 3121-32 du code de la défense, le chef d'état-major de la marine dispose :
 
-- de l'état-major de la marine dont l'organisation et les attributions sont fixées au titre Ier du présent arrêté ;
+-de l'état-major de la marine dont l'organisation et les attributions sont fixées au titre Ier du présent arrêté ;
 
-- des autorités et organismes énumérés au titre II du présent arrêté.
+-des autorités et organismes énumérés au titre II du présent arrêté.
 
 Le chef d'état-major de la marine dispose en outre d'un cabinet et d'une chancellerie, dont il fixe les missions et l'organisation.
 

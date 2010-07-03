@@ -1,11 +1,13 @@
 # Article 3
 
-Les bureaux et structures suivants, relevant de l'ensemble des membres du comité exécutif de la marine, oeuvrent plus particulièrement dans les domaines fonctionnels des opérations aéronavales et des questions internationales :
+Les bureaux et structures suivants, relevant de l'ensemble des membres du comité exécutif de la marine, oeuvrent plus particulièrement dans les domaines fonctionnels des opérations aéronavales :
 
-- le bureau "action de l'Etat en mer" ;
+-le bureau " action de l'Etat en mer " ;
 
-- le bureau "coopération et relations extérieures" ;
+-le bureau " emploi " ;
 
-- le bureau "études opérationnelles" ;
+-le bureau " droit de la mer et événements de mer " ;
 
-- l'état-major des opérations de la marine.
+-l'état-major des opérations de la marine ;
+
+- la cellule de coopération bilatérale.

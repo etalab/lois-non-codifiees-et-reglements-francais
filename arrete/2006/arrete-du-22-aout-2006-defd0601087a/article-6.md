@@ -2,8 +2,6 @@
 
 Les bureaux suivants, relevant de l'ensemble des membres du comité exécutif de la marine, oeuvrent plus particulièrement dans le domaine fonctionnel des soutiens et des finances :
 
-- le bureau "administration" ;
-
 - le bureau "finances" ;
 
 - le bureau "infrastructure" ;

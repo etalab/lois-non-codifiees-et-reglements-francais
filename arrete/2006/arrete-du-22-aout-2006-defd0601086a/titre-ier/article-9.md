@@ -1,6 +1,6 @@
 # Article 9
 
-Le coordonnateur central pour les affaires nucléaires, la prévention et la protection de l'environnement :
+L'autorité de coordination  pour les affaires nucléaires, la prévention et la protection de l'environnement :
 
 1. Détermine la politique générale de la marine dans les domaines de la sécurité nucléaire, de la protection de l'environnement, de la sécurité classique et de l'hygiène, de la sécurité et des conditions de travail. Il en fait conduire l'exécution ;
 
