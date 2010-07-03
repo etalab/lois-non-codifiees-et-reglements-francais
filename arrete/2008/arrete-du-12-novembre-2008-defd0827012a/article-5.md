@@ -16,10 +16,14 @@ La sous-direction des études et de la politique est chargée :
 
 7° D'étudier l'informatisation des processus de la chaîne ressources humaines de l'armée de terre ;
 
-8° De participer à l'élaboration des statuts militaires et de la réglementation qui en résulte ;
+8° De participer à l'élaboration des statuts militaires, des textes relatifs aux droits financiers individuels et de la réglementation qui en résulte ;
 
 9° D'assurer la mise en application des textes réglementaires ayant des incidences en matière de ressources humaines ;
 
-10° De veiller à l'unité de la réglementation relative au personnel militaire.
+10° De veiller à l'unité de la réglementation relative au personnel militaire ;
+
+11° D'apporter au commandement les éléments nécessaires au suivi de la solde et de la gestion des crédits mis à la disposition de l'unité opérationnelle relevant de la direction des ressources humaines de l'armée de terre ;
+
+12° De mettre en œuvre, à tous les niveaux, les actions de contrôle se rapportant aux opérations relatives à la rémunération et relevant de sa responsabilité.
 
 La sous-direction des études et de la politique est dirigée par un officier général de l'armée de terre. Ce sous-directeur dispose d'un adjoint, officier supérieur de l'armée de terre, qui le remplace en cas d'absence ou d'empêchement.
