@@ -8,6 +8,8 @@ II. - Les éditeurs de services de premières exclusivités ne peuvent diffuser 
 
 2° Le dimanche, de 13 heures à 18 heures.
 
+Pour l'application du présent article, est assimilé à un service de premières exclusivités un service de premières diffusions dont la convention prévoit, d'une part, que l'éditeur consacre à l'achat de droits de diffusion d'œuvres cinématographiques européennes et d'expression originale française un montant minimum par abonné et par mois identique à celui consacré par un éditeur de services de premières exclusivités et, d'autre part, qu'il prend un engagement de montée en charge de ce montant minimum garanti par abonné.
+
 III. - Les autres éditeurs de services de cinéma ne peuvent diffuser ou rediffuser aucune oeuvre cinématographique de longue durée :
 
 1° Le vendredi, de 18 heures à 21 heures ;

@@ -6,6 +6,6 @@ Lorsque les caractéristiques du service de télévision ne permettent pas que l
 
 Les messages d'intérêt général à caractère non publicitaire tels que ceux diffusés dans le cadre des campagnes des organisations caritatives et des campagnes d'information des administrations peuvent être insérés, le cas échéant, dans les séquences publicitaires.
 
-Le volume sonore des séquences publicitaires ainsi que des écrans qui les précèdent et qui les suivent ne doit pas excéder le volume sonore moyen du reste du programme.
+Le niveau sonore des séquences publicitaires ainsi que des écrans qui les précèdent et qui les suivent ne doit pas excéder, s'agissant notamment du traitement de la dynamique sonore, le niveau sonore moyen du reste du programme.
 
 La publicité isolée doit être exceptionnelle sauf lors de la diffusion de manifestations sportives.
