@@ -424,7 +424,7 @@ Lorsque la consommation de solvants de l'installation est supérieure à 1 tonne
 
 10 kg/h si un équipement d'épuration des gaz chargés en COV est nécessaire pour respecter les valeurs limites d'émission canalisées ;
 
-- le flux horaire maximal en COV, à l'exclusion du méthane, visés au paragraphe III du point 6.2.b.2 de la présente annexe ou présentant une phrase de risque R. 45, R. 46, R. 49, R. 60 ou R. 61, ou les composés halogénés présentant une phrase de risque R. 40, dépasse 2 kg/h (exprimé en somme des composés).
+- le flux horaire maximal en COV, à l'exclusion du méthane, visés au paragraphe III du point 6.2.b.2 de la présente annexe ou présentant une mention de danger H340, H350, H350i, H360D ou H360F ou une phrase de risque R. 45, R. 46, R. 49, R. 60 ou R. 61, ou les composés halogénés présentant une mention de danger H341 ou H351 ou une phrase de risque R40 ou R68, dépasse 2 kg/h (exprimé en somme des composés).
 
 Cette surveillance en permanence peut être remplacée par le suivi d'un paramètre représentatif corrélé aux émissions. Cette corrélation devra être confirmée périodiquement par une mesure des émissions.
 
@@ -440,7 +440,7 @@ Dans les autres cas, présence des résultats des prélèvements instantanés ;
 
 Conformité des mesures avec les valeurs limites d'émission applicables.
 
-"III. - Dans le cas où le flux horaire de COV visés au III du point 6.2.b.2 du présent arrêté ou présentant des phrases de risque R. 45, R. 46, R. 49, R. 60 ou R. 61, ou les composés halogénés étiquetés R. 40 ou R. 68, dépasse 2 kg/h sur l'ensemble de l'installation, des mesures périodiques de chacun des COV présents seront effectuées afin d'établir une corrélation entre la mesure de l'ensemble des COV non méthaniques et les composés effectivement présents."
+"III. - Dans le cas où le flux horaire de COV visés au III du point 6.2.b.2 du présent arrêté ou présentant des mentions de danger H340, H350, H350i, H360D ou H360F ou des phrases de risque R. 45, R. 46, R. 49, R. 60 ou R. 61, ou les composés halogénés présentant des mentions de danger H341 ou H351 ou étiquetés R. 40 ou R. 68, dépasse 2 kg/h sur l'ensemble de l'installation, des mesures périodiques de chacun des COV présents seront effectuées afin d'établir une corrélation entre la mesure de l'ensemble des COV non méthaniques et les composés effectivement présents."
 
 Objet du contrôle :
 

@@ -398,13 +398,13 @@ b. 2) Valeurs limites d'émission.
 
 II. - Cas particuliers : installations visées par la rubrique 2930. II relative à la retouche de véhicules (partie "Application de peinture, vernis, apprêt").
 
-II.C. Substances à phrase de risque R 45, R 46, R 49, R 60, R 61 et halogénées étiquetées R 40 ou R 68, telles que définies dans l'arrêté du 20 avril 1994 susvisé.
+II. - C. - Valeurs limites d'émission en COV en cas d'utilisation de substances de mentions de danger H340, H350, H350i, H360D ou H360F ou à phrases de risque R45, R46, R49, R60 ou R61 et substances halogénées de mentions de danger H341 ou H351 ou étiquetées R40 ou R68, telles que définies dans l'arrêté du 20 avril 1994 :
 
-"Les substances ou préparations auxquelles sont attribuées, ou sur lesquelles doivent être apposées, les phrases de risque R 45, R 46, R 49, R 60 ou R 61, en raison de leur teneur en composés organiques volatils classés cancérigènes, mutagènes ou toxiques pour la reproduction, sont remplacées autant que possible par des substances ou des préparations moins nocives."
+Les substances ou mélanges auxquels sont attribuées, ou sur lesquels doivent être apposées, les mentions de danger H340, H350, H350i, H360D ou H360F ou les phrases de risque R45, R46, R49, R60 ou R61 en raison de leur teneur en COV, classés cancérigènes, mutagènes ou toxiques pour la reproduction, sont remplacés, autant que possible, par des substances ou des mélanges moins nocifs, et ce dans les meilleurs délais possibles.
 
 Objet du contrôle :
 
-- justificatif de l'impossibilité de substituer les CMR à phrases de risque R 45, R 46, R 49, R 60 ou R 61.
+Justificatif de l'impossibilité de substituer les CMR de mentions de danger H340, H350, H350i, H360D ou H360F ou à phrases de risque R45, R46, R49, R60 ou R61.
 
 6.3. Surveillance par l'exploitant de la pollution rejetée
 
@@ -458,7 +458,7 @@ Objet du contrôle :
 
 - 10 kg/h si un équipement d'épuration des gaz chargés en COV est nécessaire pour respecter les valeurs limites d'émissions canalisées ;
 
-- le flux horaire maximal de COV à l'exclusion du méthane visés au II.B du point 6.2 de la présente annexe, ou présentant une phrase de risque R 45, R 46, R 49, R 60 ou R 61, ou les composés halogénés présentant une phrase de risque R 40 ou R 68, dépasse 2 kg/h (exprimé en somme des composés).
+- le flux horaire maximal de COV à l'exclusion du méthane visés au II.B du point 6.2 de la présente annexe, ou présentant une mention de danger H340, H350, H350i, H360D ou H360F ou une phrase de risque R 45, R 46, R 49, R 60 ou R 61, ou les composés halogénés présentant une mention de danger H341 ou H351 ou une phrase de risque R 40 ou R 68, dépasse 2 kg/h (exprimé en somme des composés).
 
 Toutefois, en accord avec le préfet, cette surveillance en permanence peut être remplacée par le suivi d'un paramètre représentatif, corrélé aux émissions. Cette corrélation devra être confirmée périodiquement par une mesure des émissions.
 
@@ -470,7 +470,7 @@ Objet du contrôle :
 
 - dans les autres cas, présence des résultats des prélèvements instantanés.
 
-"Dans le cas où le flux horaire de COV visés au II.B du point 6.2 de la présente annexe, ou présentant des phrases de risque R 45, R 46, R 49, R 60 ou R 61, ou les composés halogénés étiquetés R 40 ou R 68, dépasse 2 kg/h sur l'ensemble de l'installation, des mesures périodiques de chacun des COV présents seront effectuées afin d'établir une corrélation entre la mesure de l'ensemble des COV non méthaniques et les espèces effectivement présentes."
+"Dans le cas où le flux horaire de COV visés au II.B du point 6.2 de la présente annexe, ou présentant des mentions de danger H340, H350, H350i, H360D ou H360F ou des phrases de risque R 45, R 46, R 49, R 60 ou R 61, ou les composés halogénés une mention de danger H341 ou H351 ou étiquetés R40 ou R68, dépasse 2 kg/h sur l'ensemble de l'installation, des mesures périodiques de chacun des COV présents seront effectuées afin d'établir une corrélation entre la mesure de l'ensemble des COV non méthaniques et les espèces effectivement présentes."
 
 Objet du contrôle :
 

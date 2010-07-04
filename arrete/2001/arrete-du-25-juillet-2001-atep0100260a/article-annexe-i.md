@@ -34,9 +34,7 @@ L'exploitant établit et tient à jour un dossier comportant les documents suiva
 
 Ce dossier est tenu à la disposition de l'inspection des installations classées.
 
-1.5. Déclaration d'accident
-
-ou de pollution accidentelle
+1.5. Déclaration d'accident ou de pollution accidentelle
 
 L'exploitant d'une installation est tenu de déclarer dans les meilleurs délais à l'inspection des installations classées les accidents ou incidents survenus du fait du fonctionnement de cette installation qui sont de nature à porter atteinte aux intérêts mentionnés à l'article L. 511-1 du code de l'environnement (référence : article 38 du décret du 21 septembre 1977).
 
@@ -148,9 +146,7 @@ L'exploitant tient à jour un état indiquant la nature et la quantité des prod
 
 La présence dans les ateliers de matières dangereuses ou combustibles est limitée aux nécessités de l'exploitation.
 
-3.6. Vérification périodique
-
-des installations électriques
+3.6. Vérification périodique des installations électriques
 
 Toutes les installations électriques sont entretenues en bon état et sont contrôlées, après leur installation ou leur modification, par une personne compétente. La périodicité, l'objet et l'étendue des vérifications des installations électriques ainsi que le contenu des rapports relatifs aux dites vérifications sont exécutés selon les règles de l'art, conformément aux législations et réglementations en vigueur.
 
@@ -378,9 +374,7 @@ Des dispositions sont prises pour qu'il ne puisse pas y avoir en cas d'accident 
 
 L'épandage des déchets ou effluents sur ou dans les sols agricoles est interdit sauf autorisation préfectorale délivrée au titre de l'article 30 du décret n° 77-1133 du 21 septembre 1977. Le dossier de demande doit être très complet et doit permettre de s'assurer que les matières épandues ont un intérêt pour les sols ou la nutrition des cultures et que leur application ne porte pas atteinte, directement ou indirectement, à la santé de l'homme et des animaux, à la qualité et à l'état phytosanitaire des cultures ainsi qu'à la qualité des sols et des milieux aquatiques.
 
-5.9. Surveillance par l'exploitant
-
-de la pollution rejetée
+5.9. Surveillance par l'exploitant de la pollution rejetée
 
 Une mesure des concentrations des différents polluants visés au point 5.5 est effectuée au moins tous les 3 ans par un organisme agréé par le ministre de l'environnement. Ces mesures sont effectuées sur un échantillon représentatif du fonctionnement de l'installation et constitué soit par un prélèvement continu d'une demi-heure, soit par au moins deux prélèvements instantanés espacés d'une demi-heure.
 
@@ -420,7 +414,7 @@ On entend par "solvant organique" tout COV utilisé seul ou en association avec 
 
 On entend par "consommation de solvants organiques" la quantité totale de solvants organiques utilisée dans une installation sur une période de douze mois, diminuée de la quantité de COV récupérés en interne en vue de leur réutilisation. On entend par "réutilisation", l'utilisation à des fins techniques ou commerciales, y compris en tant que combustible, de solvants organiques récupérés dans une installation. N'entrent pas dans la définition de "réutilisation" les solvants organiques récupérés qui sont évacués définitivement comme déchets.
 
-On entend par "utilisation de solvants organiques" la quantité de solvants organiques, à l'état pur ou dans les préparations, qui est utilisée dans l'exercice d'une activité, y compris les solvants recyclés à l'intérieur ou à l'extérieur de l'installation, qui sont comptés chaque fois qu'ils sont utilisés pour l'exercice de l'activité.
+On entend par "utilisation de solvants organiques" la quantité de solvants organiques, à l'état pur ou dans les mélanges, qui est utilisée dans l'exercice d'une activité, y compris les solvants recyclés à l'intérieur ou à l'extérieur de l'installation, qui sont comptés chaque fois qu'ils sont utilisés pour l'exercice de l'activité.
 
 On entend par "émission diffuse de COV" toute émission de COV dans l'air, le sol et l'eau, qui n'a pas lieu sous la forme d'émissions canalisées. Pour le cas spécifique des COV, cette définition couvre, sauf indication contraire, les émissions retardées dues aux solvants contenus dans les produits finis.
 
@@ -432,9 +426,7 @@ I. - CAS GÉNÉRAL
 
 Si le flux horaire total de COV (cf. note 4) dépasse 2 kg/h, la valeur limite exprimée en carbone total de la concentration globale de l'ensemble des composés est de 110 mg/m³. En outre, si la consommation annuelle de solvants est supérieure à 5 tonnes par an, le flux annuel des émissions diffuses ne doit pas dépasser 25 % de la quantité de solvants utilisée.
 
-II. - CAS PARTICULIERS
-
-POUR CERTAINES ACTIVITÉS
+II. - CAS PARTICULIERS POUR CERTAINES ACTIVITÉS
 
 Application de revêtement adhésif (toute activité dans laquelle une colle est appliquée, à l'exception des revêtements et des adhésifs entrant dans des procédés d'impression) :
 
@@ -478,9 +470,7 @@ Dans le cas de l'utilisation d'une technique d'oxydation pour l'élimination COV
 
 - CO : 100 mg par m³.
 
-IV. - COMPOSÉS ORGANIQUES
-
-VOLATILS À PHASE DE RISQUE
+IV. - COMPOSÉS ORGANIQUES VOLATILS À PHASE DE RISQUE
 
 Si le flux horaire total des composés organiques listées ci-dessous dépasse 0.1 kg/h, la valeur limite d'émission de la concentration globale de l'ensemble de ces composés est de 20 mg/m³ :
 
@@ -574,15 +564,13 @@ Si le flux horaire total des composés organiques listées ci-dessous dépasse 0
 
 En cas de mélange de composés à la fois visés et non visés dans cette liste, la valeur limite de 20 mg/m³ ne s'impose qu'aux composés visés dans cette liste et une valeur de 110 mg/m³, exprimée en carbone total, s'impose à l'ensemble des composés.
 
-V. - SUBSTANCES À PHASES DE RISQUE R. 45, R. 46, R. 49, R. 60, R. 61 ET HALOGÉNÉS ÉTIQUETÉS R. 40, TELLES QUE DÉFINIES DANS L'ARRÊTÉ DU 20 AVRIL 1994 SUSVISÉ
+V. - Valeurs limites d'émission en COV en cas d'utilisation de substances de mentions de danger H340, H350, H350i, H360D ou H360F ou à phrases de risque R45, R46, R49, R60 ou R61 et substances halogénées de mentions de danger H341 ou H351 ou étiquetées R40 ou R68, telles que définies dans l'arrêté du 20 avril 1994 :
 
-Les substances ou préparations auxquelles sont attribuées, ou sur lesquelles doivent être apposées, les phrases de risque R. 45, R. 46, R. 49, R. 60 ou R. 61, en raison de leur teneur en composés organiques volatils classés cancérigènes, mutagènes ou toxiques pour la reproduction, sont remplacées autant que possible par des substances ou des préparations moins nocives. Si ce remplacement n'est pas techniquement et économiquement possible, la valeur limite d'émission de 2 mg/m³ en COV est imposée, si le flux horaire maximal de l'ensemble de l'installation est supérieur ou égal à 10 g/h. La valeur limite ci-dessus se rapporte à la somme massique des différents composés.
+Les substances ou mélanges auxquels sont attribuées, ou sur lesquels doivent être apposées, les mentions de danger H340, H350, H350i, H360D ou H360F ou les phrases de risque R45, R46, R49, R60 ou R61 en raison de leur teneur en COV, classés cancérigènes, mutagènes ou toxiques pour la reproduction, sont remplacés, autant que possible, par des substances ou des mélanges moins nocifs, et ce dans les meilleurs délais possibles. Si ce remplacement n'est pas techniquement et économiquement possible, la valeur limite d'émission de 2 mg/m³ en COV est imposée si le flux horaire maximal de l'ensemble de l'installation est supérieur ou égal à 10 g/h. La valeur limite d'émission ci-dessus se rapporte à la somme massique des différents composés.
 
-Pour les émissions des composés organiques volatils halogénés étiquetés R. 40, une valeur limite d'émission de 20 mg/m³ exprimée en carbone total est imposée si le flux horaire maximal de l'ensemble de l'installation est supérieur ou égal à 100 g/h. La valeur limite d'émission ci-dessus se rapporte à la somme massique des différents composés.
+Pour les émissions de composés organiques volatils halogénés auxquels sont attribuées les mentions de danger H341 ou H351 ou les phrases de risque R40 ou R68, une valeur limite d'émission de 20 mg/m³ est imposée si le flux horaire maximal de l'ensemble de l'installation est supérieur ou égal à 100 g/h. La valeur limite d'émission ci-dessus se rapporte à la somme massique des différents composés.
 
-VI. - MISE EN OEUVRE D'UN SCHÉMA
-
-DE MAÎTRISE DES ÉMISSIONS DE COV
+VI. - MISE EN OEUVRE D'UN SCHÉMA DE MAÎTRISE DES ÉMISSIONS DE COV
 
 Les valeurs limites d'émissions canalisées et diffuses relatives aux COV définies aux I et II ci-dessus ne sont pas applicables aux rejets des installations faisant l'objet d'un schéma de maîtrise des émissions de COV, tel que défini ci-après.
 
@@ -592,11 +580,9 @@ Le schéma est élaboré à partir d'un niveau d'émission de référence (cf. n
 
 Les installations, ou parties d'installations, dans lesquelles sont notamment mises en oeuvre une ou plusieurs des substances visées aux points IV et V ci-dessus peuvent faire l'objet d'un schéma de maîtrise des émissions. La consommation résiduelle des substances visées aux points IV et V reste néanmoins soumise au respect des valeurs limites prévues aux IV et V.
 
-6.3. Surveillance
+6.3. Surveillance par l'exploitant de la pollution rejetée
 
-par l'exploitant de la pollution rejetée
-
-Cas général :
+a. Cas général :
 
 Une mesure du débit rejeté et de la concentration des polluants visés au point 6.2 est effectuée, selon les méthodes normalisées en vigueur, au moins tous les trois ans.
 
@@ -608,7 +594,7 @@ Ces mesures sont effectuées sur une durée voisine d'une demi-heure, dans des c
 
 En cas d'impossibilité, liée à l'activité ou aux équipements, d'effectuer une mesure représentative des rejets, une évaluation des conditions de fonctionnement et des capacités des équipements d'épuration à respecter les valeurs limites est réalisée.
 
-Cas des COV :
+b. Cas des COV :
 
 En outre, pour les COV les dispositions suivantes sont applicables :
 
@@ -622,13 +608,13 @@ La surveillance en permanence des émissions de l'ensemble des COV à l'exclusio
 
 - 10 kg/h si un équipement d'épuration des gaz chargés en COV est nécessaire pour respecter les valeurs limites d'émission canalisées.
 
-- le flux horaire maximal en COV à l'exclusion du méthane, visés au IV de l'article 6.2 du présent arrêté, ou présentant une phrase de risque R. 45, R. 46, R. 49, R. 60 ou R. 61, ou les composés halogénés présentant une phrase de risque R. 40, dépasse 2 kg/h (exprimé en somme des composés).
+- le flux horaire maximal en COV à l'exclusion du méthane, visés au IV de l'article 6.2 du présent arrêté, ou présentant une mention de danger H340, H350, H350i, H360D ou H360F ou une phrase de risque R. 45, R. 46, R. 49, R. 60 ou R. 61, ou les composés halogénés présentant une mention de danger H341 ou H351 ou une phrase de risque R40 ou R68, dépasse 2 kg/h (exprimé en somme des composés).
 
 Toutefois, en accord avec le préfet, cette surveillance en permanence peut être remplacée par le suivi d'un paramètre représentatif, corrélé aux émissions. Cette corrélation devra être confirmée périodiquement par une mesure des émissions.
 
 Dans les autres cas, des prélèvements instantanés sont réalisés.
 
-Dans le cas où le flux horaire de COV visés au IV de l'article 6.2 du présent arrêté ou présentant des phrases de risque R. 45, R. 46, R. 49, R. 60 ou R. 61 ou les composés halogénés étiquetés R. 40 dépasse 2 kg/h sur l'ensemble de l'installation, des mesures périodiques de chacun des COV présents seront effectuées afin d'établir une corrélation entre la mesure de l'ensemble des COV non-méthaniques et les composés effectivement présents.
+Dans le cas où le flux horaire de COV visés au IV de l'article 6.2 du présent arrêté ou présentant des mentions de danger H340, H350, H350i, H360D ou H360F ou des phrases de risque R. 45, R. 46, R. 49, R. 60 ou R. 61 ou les composés halogénés présentant des mentions de danger H341 ou H351 ou étiquetés R40 ou R68 dépasse 2 kg/h sur l'ensemble de l'installation, des mesures périodiques de chacun des COV présents seront effectuées afin d'établir une corrélation entre la mesure de l'ensemble des COV non-méthaniques et les composés effectivement présents.
 
 Lorsque l'installation est équipée d'un oxydateur, la conformité aux valeurs limites d'émissions en NOx, méthane et CO prévues au III doit être vérifiée une fois par an, en marche continue et stable.
 

@@ -508,7 +508,7 @@ On entend par "solvant organique" tout COV utilisé seul ou en association avec 
 
 On entend par "consommation de solvants organiques" la quantité totale de solvants organiques utilisée dans une installation sur une période de douze mois, diminuée de la quantité de COV récupérés en interne en vue de leur réutilisation. On entend par "réutilisation" l'utilisation à des fins techniques ou commerciales, y compris en tant que combustible, de solvants organiques récupérés dans une installation. N'entrent pas dans la définition de "réutilisation" les solvants organiques récupérés qui sont évacués définitivement comme déchets ;
 
-On entend par "utilisation de solvants organiques" la quantité de solvants organiques, à l'état pur ou dans les préparations, qui est utilisée dans l'exercice d'une activité, y compris les solvants recyclés à l'intérieur ou à l'extérieur de l'installation, qui sont comptés chaque fois qu'ils sont utilisés pour l'exercice de l'activité ;
+On entend par "utilisation de solvants organiques" la quantité de solvants organiques, à l'état pur ou dans les mélanges, qui est utilisée dans l'exercice d'une activité, y compris les solvants recyclés à l'intérieur ou à l'extérieur de l'installation, qui sont comptés chaque fois qu'ils sont utilisés pour l'exercice de l'activité ;
 
 On entend par "émission diffuse de COV" toute émission de COV dans l'air, le sol et l'eau, qui n'a pas lieu sous la forme d'émissions canalisées.
 

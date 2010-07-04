@@ -28,13 +28,13 @@ La surveillance en permanence des émissions de l'ensemble des COV, à l'exclusi
 
 - 10 kg/h si un équipement d'épuration des gaz chargés en COV est nécessaire pour respecter les valeurs limites d'émission canalisées ;
 
-- le flux horaire maximal de COV à l'exclusion du méthane, visés à l'annexe III, ou présentant une phase de risque R 45, R 46, R 49, R 60 ou R 61, ou les composés halogénés présentant une phase de risque R 40, dépasse 2 kg/h (exprimé en somme des composés).
+- le flux horaire maximal de COV à l'exclusion du méthane, visés à l'annexe III, ou présentant une mention de danger H340, H350, H350i, H360D ou H360F ou une phase de risque R 45, R 46, R 49, R 60 ou R 61, ou les composés halogénés présentant une mention de danger H341 ou H351 ou étiquetés R40 ou R68, dépasse 2 kg/h (exprimé en somme des composés).
 
 Toutefois, cette surveillance en permanence peut être remplacée par le suivi d'un paramètre représentatif, corrélé aux émissions. Cette corrélation devra être confirmée périodiquement par une mesure des émissions.
 
 Dans les autres cas, des prélèvements instantanés sont réalisés.
 
-Dans le cas où le flux horaire de COV visés dans le tableau de l'annexe III ou présentant des phases de risque R 45, R 46, R 49, R 60 ou R 61 ou les composés halogénés étiquetés R 40 dépasse 2 kg/h sur l'ensemble de l'installation, des mesures périodiques de chacun des COV présents seront effectuées afin d'établir une corrélation entre la mesure de l'ensemble des COV non méthaniques et les espèces effectivement présentes.
+Dans le cas où le flux horaire de COV visés dans le tableau de l'annexe III ou présentant des mentions de danger H340, H350, H350i, H360D ou H360F ou des phases de risque R 45, R 46, R 49, R 60 ou R 61 ou les composés halogénés présentant des mentions de danger H341 ou H351 ou étiquetés R40 ou R68 dépasse 2 kg/h sur l'ensemble de l'installation, des mesures périodiques de chacun des COV présents seront effectuées afin d'établir une corrélation entre la mesure de l'ensemble des COV non méthaniques et les espèces effectivement présentes.
 
 Lorsque l'installation est équipée d'un oxydateur, la conformité aux valeurs limites d'émissions en NOx, méthane et CO prévues au a du point 7 de l'article 27 doit être vérifiée une fois par an, en marche continue et stable.
 
@@ -44,7 +44,7 @@ a) Cadmium et mercure : si le flux horaire de cadmium et mercure, et de leurs co
 
 b) Arsenic, sélénium et tellure, et leurs composés : si le flux horaire d'arsenic, sélénium et tellure, et de leurs composés particulaires et gazeux, dépasse 50 g/h, une mesure journalière des émissions est réalisée sur un prélèvement représentatif effectué en continu ;
 
-c)  Plomb et ses composés : si le flux horaire de plomb et de ses composés particulaires et gazeux, dépasse 100 g/h, une mesure journalière des émissions est réalisée sur un prélèvement représentatif effectué en continu ;
+c) Plomb et ses composés : si le flux horaire de plomb et de ses composés particulaires et gazeux, dépasse 100 g/h, une mesure journalière des émissions est réalisée sur un prélèvement représentatif effectué en continu ;
 
 d) Antimoine, chrome, cobalt, cuivre, étain, manganèse, nickel, vanadium et zinc, et leurs composés : si le flux horaire d'antimoine, chrome, cobalt, cuivre, étain, nickel, manganèse, vanadium et zinc, et de leurs composés particulaires et gazeux, dépasse 500 g/h, une mesure journalière des émissions est réalisée sur un prélèvement représentatif effectué en continu.
 

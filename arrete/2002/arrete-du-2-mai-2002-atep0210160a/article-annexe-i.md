@@ -529,7 +529,7 @@ On entend par "solvant organique", tout COV utilisé seul ou en association avec
 
 On entend par "consommation de solvants organiques", la quantité totale de solvants organiques utilisée dans une installation sur une période de douze mois, diminuée de la quantité de COV récupérés en interne en vue de leur réutilisation. On entend par "réutilisation", l'utilisation à des fins techniques ou commerciales, y compris en tant que combustible, de solvants organiques récupérés dans une installation. N'entrent pas dans la définition de "réutilisation" les solvants organiques récupérés qui sont évacués définitivement comme déchets.
 
-On entend par "utilisation de solvants organiques", la quantité de solvants organiques, à l'état pur ou dans les préparations, qui est utilisée dans l'exercice d'une activité, y compris les solvants recyclés à l'intérieur ou à l'extérieur de l'installation, qui sont comptés chaque fois qu'ils sont utilisés pour l'exercice de l'activité.
+On entend par "utilisation de solvants organiques", la quantité de solvants organiques, à l'état pur ou dans les mélanges, qui est utilisée dans l'exercice d'une activité, y compris les solvants recyclés à l'intérieur ou à l'extérieur de l'installation, qui sont comptés chaque fois qu'ils sont utilisés pour l'exercice de l'activité.
 
 On entend par "émission diffuse de COV", toute émission de COV dans l'air, le sol et l'eau, qui n'a pas lieu sous la forme d'émissions canalisées. Pour le cas spécifique des COV, cette définition couvre, sauf indication contraire, les émissions retardées dues aux solvants contenus dans les produits finis.
 
@@ -639,13 +639,13 @@ Si le flux horaire total des composés organiques listés ci-dessous dépasse 0.
 
 En cas de mélange de composés à la fois visés et non visés dans cette liste, la valeur limite de 20 mg/m³ ne s'impose qu'aux composés visés dans cette liste et une valeur de 110 mg/m³, exprimée en carbone total, s'impose à l'ensemble des composés.
 
-V. - Substances à phrases de risque R 45, R 46, R 49, R 60, R 61 et halogénés étiquetés R 40, telles que définies dans l'arrêté du 20 avril 1994 susvisé :
+V. - Valeurs limites d'émission en COV en cas d'utilisation de substances de mentions de danger H340, H350, H350i, H360D ou H360F ou à phrases de risque R45, R46, R49, R60 ou R61 et substances halogénées de mentions de danger H341 ou H351 ou étiquetées R40 ou R68, telles que définies dans l'arrêté du 20 avril 1994 :
 
-- les substances ou préparations auxquelles sont attribuées, ou sur lesquelles doivent être apposées, les phrases de risque R 45, R 46, R 49, R 60 ou R 61, en raison de leur teneur en composés organiques volatils classés cancérigènes, mutagènes ou toxiques pour la reproduction, sont remplacées autant que possible par des substances ou des préparations moins nocives. Si ce remplacement n'est pas techniquement et économiquement possible, la valeur limite d'émission de 2 mg/m³ en COV est imposée, si le flux horaire maximal de l'ensemble de l'installation est supérieur ou égal à 10 g/h. La valeur limite ci-dessus se rapporte à la somme massique des différents composés ;
+Les substances ou mélanges auxquels sont attribuées, ou sur lesquels doivent être apposées, les mentions de danger H340, H350, H350i, H360D ou H360F ou les phrases de risque R45, R46, R49, R60 ou R61 en raison de leur teneur en COV, classés cancérigènes, mutagènes ou toxiques pour la reproduction, sont remplacés, autant que possible, par des substances ou des mélanges moins nocifs, et ce dans les meilleurs délais possibles. Si ce remplacement n'est pas techniquement et économiquement possible, la valeur limite d'émission de 2 mg/m³ en COV est imposée si le flux horaire maximal de l'ensemble de l'installation est supérieur ou égal à 10 g/h. La valeur limite d'émission ci-dessus se rapporte à la somme massique des différents composés.
 
-- pour les émissions des composés organiques volatils halogénés étiquetés R 40, une valeur limite d'émission de 20 mg/m³ exprimée en carbone total est imposée si le flux horaire maximal de l'ensemble de l'installation est supérieur ou égal à 100 g/h. La valeur limite d'émission ci-dessus se rapporte à la somme massique des différents composés.
+Pour les émissions de composés organiques volatils halogénés auxquels sont attribuées les mentions de danger H341 ou H351 ou les phrases de risque R40 ou R68, une valeur limite d'émission de 20 mg/m³ est imposée si le flux horaire maximal de l'ensemble de l'installation est supérieur ou égal à 100 g/h. La valeur limite d'émission ci-dessus se rapporte à la somme massique des différents composés.
 
-VI. - Mise en oeuvre d'un schéma de maîtrise des émissions de COV :
+VI. - Mise en œuvre d'un schéma de maîtrise des émissions de COV :
 
 Les valeurs limites d'émissions canalisées et diffuses relatives aux COV définies au I et II ci-dessus ne sont pas applicables aux rejets des installations faisant l'objet d'un schéma de maîtrise des émissions de COV, tel que défini ci-après.
 
@@ -753,13 +753,13 @@ La surveillance en permanence des émissions de l'ensemble des COV à l'exclusio
 
 - 10 kg/h si un équipement d'épuration des gaz chargés en COV est nécessaire pour respecter les valeurs limites d'émission canalisées ;
 
-- le flux horaire maximal en COV à l'exclusion du méthane, visés au IV de l'article 6.2 du présent arrêté, ou présentant une phrase de risque R 45, R 46, R 49, R 60 ou R 61, ou les composés halogénés présentant une phrase de risque R 40, dépasse 2 kg/h (exprimé en somme des composés).
+- le flux horaire maximal en COV à l'exclusion du méthane, visés au IV de l'article 6.2 du présent arrêté, ou présentant une mention de danger H340, H350, H350i, H360D ou H360F ou une phrase de risque R 45, R 46, R 49, R 60 ou R 61, ou les composés halogénés présentant une mention de danger H341 ou H351 ou une phrase de risque R40 ou R68, dépasse 2 kg/h (exprimé en somme des composés).
 
 Toutefois, en accord avec le préfet l'inspection des installations classées, cette surveillance en permanence peut être remplacée par le suivi d'un paramètre représentatif, corrélé aux émissions. Cette corrélation devra être confirmée périodiquement par une mesure des émissions.
 
 Dans les autres cas, des prélèvements instantanés sont réalisés.
 
-Dans le cas où le flux horaire de COV visés au IV] de l'article 6.2 du présent arrêté dans le tableau de l'annexe III de l'arrêté du février 1998 susvisé ou présentant des phrases de risque R. 45, R. 46, R. 49, R. 60 ou R. 61 ou les composés halogénés étiquetés R. 40 dépasse 2 kg/h sur l'ensemble de l'installation, des mesures périodiques de chacun des COV présents seront effectuées afin d'établir une corrélation entre la mesure de l'ensemble des COV non-méthaniques et les composés espèces effectivement présentes.
+Dans le cas où le flux horaire de COV visés au IV] de l'article 6.2 du présent arrêté dans le tableau de l'annexe III de l'arrêté du février 1998 susvisé ou présentant des mentions de danger H340, H350, H350i, H360D ou H360F ou des phrases de risque R. 45, R. 46, R. 49, R. 60 ou R. 61 ou les composés halogénés présentant des mentions de danger H341 ou H351 ou étiquetés R40 ou R68 dépasse 2 kg/h sur l'ensemble de l'installation, des mesures périodiques de chacun des COV présents seront effectuées afin d'établir une corrélation entre la mesure de l'ensemble des COV non-méthaniques et les composés espèces effectivement présentes.
 
 Lorsque l'installation est équipée d'un oxydateur, la conformité aux valeurs limites d'émissions en NOx, méthane et CO prévues au III doit être vérifiée une fois par an, en marche continue et stable.
 
