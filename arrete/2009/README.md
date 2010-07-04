@@ -947,7 +947,6 @@
 - [Arrêté du 12 février 2009 (ECED0904548A)](arrete-du-12-fevrier-2009-eced0904548a)
 - [Arrêté du 12 février 2009 (ESRS0902895A)](arrete-du-12-fevrier-2009-esrs0902895a)
 - [Arrêté du 12 février 2009 (SASH0903547A)](arrete-du-12-fevrier-2009-sash0903547a)
-- [Arrêté du 12 janvier 2009 (AGRF0901715A)](arrete-du-12-janvier-2009-agrf0901715a)
 - [Arrêté du 12 janvier 2009 (AGRP0900891A)](arrete-du-12-janvier-2009-agrp0900891a)
 - [Arrêté du 12 janvier 2009 (BCFS0900896A)](arrete-du-12-janvier-2009-bcfs0900896a)
 - [Arrêté du 12 janvier 2009 (ECEP0828367A)](arrete-du-12-janvier-2009-ecep0828367a)
