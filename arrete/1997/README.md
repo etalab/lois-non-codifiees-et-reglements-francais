@@ -1053,7 +1053,6 @@
 - [Arrêté du 30 janvier 1997 (LOGC9600032A)](arrete-du-30-janvier-1997-logc9600032a)
 - [Arrêté du 30 janvier 1997 (TASS9710162A)](arrete-du-30-janvier-1997-tass9710162a)
 - [Arrêté du 30 juillet 1997 (DEFP9701865A)](arrete-du-30-juillet-1997-defp9701865a)
-- [Arrêté du 30 juillet 1997 (ECOI9700481A)](arrete-du-30-juillet-1997-ecoi9700481a)
 - [Arrêté du 30 juillet 1997 (ECOR9705011A)](arrete-du-30-juillet-1997-ecor9705011a)
 - [Arrêté du 30 juillet 1997 (ECOR9705012A)](arrete-du-30-juillet-1997-ecor9705012a)
 - [Arrêté du 30 juillet 1997 (EQUS9701201A)](arrete-du-30-juillet-1997-equs9701201a)
