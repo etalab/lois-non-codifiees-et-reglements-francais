@@ -1,3 +1,0 @@
-# Article 18
-
-Pour les artifices de divertissement, quel que soit leur groupe de classement, la délivrance de l'autorisation d'importation prévue par les articles D. 2352-7 et R. 2352-2 et suivants du code de la défense est subordonnée à la justification que l'importateur dispose d'un dépôt qui possède l'agrément technique exigé par les articles R. 2352-1 et suivants du code de la défense et qu'il n'y aura pas, au moment de l'importation, de dépassement de la quantité maximale pouvant y être conservée. Lors de l'importation, les artifices doivent être livrés au dépôt indiqué dans la demande d'importation.
