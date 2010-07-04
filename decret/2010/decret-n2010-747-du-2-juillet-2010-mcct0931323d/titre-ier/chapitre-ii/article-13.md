@@ -1,0 +1,3 @@
+# Article 13
+
+Dans des conditions fixées par les conventions et les cahiers des charges, les éditeurs de services dont le chiffre d'affaires annuel net de l'exercice précédent est égal ou supérieur à 350 millions d'euros diffusent annuellement des œuvres européennes ou d'expression originale française qu'ils n'ont pas précédemment diffusées et dont la diffusion commence entre 20 heures et 21 heures. A ce titre, la durée cumulée des œuvres diffusées successivement est prise en compte pour une durée maximale de 180 minutes par soirée lorsque la diffusion de la première œuvre commence entre 20 heures et 21 heures. Le volume annuel de ces diffusions ne peut être inférieur à 120 heures et peut comporter jusqu'à 25 % de rediffusions.
