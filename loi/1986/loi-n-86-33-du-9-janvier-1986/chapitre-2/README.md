@@ -2,4 +2,4 @@
 
 - [Section 1 : Le Conseil supérieur de la fonction publique hospitalière.](section-1)
 - [Section 2 : Les commissions administratives paritaires.](section-2)
-- [Section 3 : Les comités techniques paritaires.](section-3)
+- [Section 3 : Les comités consultatifs nationaux.](section-3)

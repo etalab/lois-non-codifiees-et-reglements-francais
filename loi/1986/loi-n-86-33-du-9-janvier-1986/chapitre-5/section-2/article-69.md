@@ -10,6 +10,8 @@ Sauf pour les emplois mentionnés à l'article 3, l'avancement de grade a lieu, 
 
 Peuvent être inscrits au tableau d'avancement ou participer au concours mentionné au 3° ci-dessus, selon les principes et les modalités fixés par les statuts particuliers, les fonctionnaires des établissements mentionnés à l'article 2, remplissant les conditions de grade et d'ancienneté requises par ces statuts.
 
+Pour les fonctionnaires relevant des corps de catégorie A, l'avancement de grade peut également être subordonné à l'occupation préalable de certains emplois ou à l'exercice préalable de certaines fonctions correspondant à un niveau particulièrement élevé de responsabilité.
+
 Les fonctionnaires titulaires de certains titres ou diplômes peuvent bénéficier d'une réduction de l'ancienneté requise dans les conditions prévues par leur statut particulier.
 
 Les promotions ont lieu dans l'ordre du tableau ou de la liste de classement.

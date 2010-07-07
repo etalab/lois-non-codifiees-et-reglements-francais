@@ -1,29 +1,21 @@
 # Article 32
 
-Un comité technique paritaire est créé dans chaque collectivité ou établissement employant au moins cinquante agents, ainsi qu'auprès de chaque centre de gestion pour les collectivités et établissements affiliés employant moins de cinquante agents. Il en est de même pour les centres de gestion visés respectivement aux articles 17, 18. Toutefois, il peut être décidé, par délibérations concordantes des organes délibérants d'une collectivité territoriale et d'un ou plusieurs établissements publics rattachés à cette collectivité, de créer un comité technique paritaire compétent à l'égard des agents de la collectivité et de l'établissement ou des établissements, à condition que l'effectif global concerné soit au moins égal à cinquante agents.
+Un comité technique est créé dans chaque collectivité ou établissement employant au moins cinquante agents, ainsi qu'auprès de chaque centre de gestion pour les collectivités et établissements affiliés employant moins de cinquante agents. Il en est de même pour les centres de gestion visés respectivement aux articles 17, 18. Toutefois, il peut être décidé, par délibérations concordantes des organes délibérants d'une collectivité territoriale et d'un ou plusieurs établissements publics rattachés à cette collectivité, de créer un comité technique compétent à l'égard des agents de la collectivité et de l'établissement ou des établissements, à condition que l'effectif global concerné soit au moins égal à cinquante agents.
 
-Il peut être également décidé, par délibérations concordantes des organes délibérants d'une communauté de communes, d'une communauté d'agglomération ou d'une communauté urbaine et des communes adhérentes à cette communauté, de créer un comité technique paritaire compétent pour tous les agents desdites collectivités lorsque l'effectif global concerné est au moins égal à cinquante agents.
+Il peut être également décidé, par délibérations concordantes des organes délibérants d'une communauté de communes, d'une communauté d'agglomération ou d'une communauté urbaine et des communes adhérentes à cette communauté, de créer un comité technique compétent pour tous les agents desdites collectivités lorsque l'effectif global concerné est au moins égal à cinquante agents.
 
-Les membres de ces comités techniques paritaires sont désignés dans des conditions fixées par décret.
+Un établissement public de coopération intercommunale et le centre intercommunal d'action sociale qui lui est rattaché peuvent, par délibérations concordantes, créer un comité technique compétent pour tous les agents desdits établissements lorsque l'effectif global concerné est au moins égal à cinquante agents.
 
-Les agents employés par les centres de gestion visés au précédent alinéa relèvent des comités techniques paritaires créés dans ces centres.
+Un établissement public de coopération intercommunale mentionné au deuxième alinéa, les communes adhérentes et le centre intercommunal d'action sociale rattaché audit établissement public de coopération intercommunale peuvent, par délibérations concordantes, créer un comité technique compétent pour tous les agents desdites collectivités lorsque l'effectif global concerné est au moins égal à cinquante agents.
 
-En outre, un comité technique paritaire peut être institué par décision de l'organe délibérant de la collectivité ou de l'établissement dans les services ou groupes de services dont la nature ou l'importance le justifient.
+Les agents employés par les centres de gestion relèvent des comités techniques créés dans ces centres.
 
-Les comités techniques paritaires comprennent en nombre égal des représentants de la collectivité ou de l'établissement et des représentants du personnel.
+En outre, un comité technique peut être institué par décision de l'organe délibérant de la collectivité ou de l'établissement dans les services ou groupes de services dont la nature ou l'importance le justifient.
 
-Ils sont présidés par le président de la collectivité ou de l'établissement ou son représentant.
+Les comités techniques comprennent des représentants de la collectivité ou de l'établissement et des représentants du personnel. L'avis du comité technique est rendu lorsqu'ont été recueillis, d'une part, l'avis des représentants du personnel et, d'autre part, si une délibération le prévoit, l'avis des représentants de la collectivité ou de l'établissement.
 
-Les membres représentant le personnel sont élus au scrutin de liste à deux tours avec représentation proportionnelle.
+Les membres représentant le personnel sont élus au scrutin de liste avec représentation proportionnelle dans les conditions définies à l'article 9 bis de la loi n° 83-634 du 13 juillet 1983 précitée.
 
-Au premier tour de scrutin, les listes sont présentées par les organisations syndicales de fonctionnaires représentatives. Si aucune liste n'est déposée par ces organisations ou si le nombre de votants est inférieur à un quorum fixé par décret en Conseil d'Etat, il est procédé, dans un délai fixé par ce même décret, à un second tour de scrutin pour lequel les listes peuvent être présentées par toute organisation syndicale de fonctionnaires.
+Les comités techniques sont présidés par l'autorité territoriale ou son représentant, qui ne peut être qu'un élu local.
 
-Pour l'application des dispositions de l'alinéa précédent, sont regardées comme représentatives :
-
-1° Les organisations syndicales de fonctionnaires régulièrement affiliées à une union de syndicats remplissant les conditions définies à l'article 9 bis de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires ;
-
-2° Et les organisations syndicales de fonctionnaires satisfaisant, dans le cadre où est organisée l'élection, aux dispositions de l'article L. 133-2 du code du travail.
-
-Les organisations affiliées à une même union ne peuvent présenter des listes concurrentes à une même élection. Les conditions d'application du présent alinéa sont fixées en tant que de besoin par un décret en Conseil d'Etat.
-
-Les contestations sur la recevabilité des listes déposées sont portées devant le tribunal administratif compétent dans les trois jours qui suivent la date limite du dépôt des candidatures. Le tribunal administratif statue dans les quinze jours qui suivent le dépôt de la requête. L'appel n'est pas suspensif. Un décret en Conseil d'Etat fixe le nombre de membres des comités, la durée de leur mandat ainsi que les conditions d'élection des délégués.
+Un décret en Conseil d'Etat fixe les modalités d'application du présent article.

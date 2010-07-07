@@ -22,7 +22,7 @@ VI. - Les fonctionnaires et agents non titulaires des offices publics de l'habit
 
 Les dispositions relatives à l'hygiène, à la sécurité, aux conditions de travail et à la médecine du travail prévues aux titres III et IV du livre II du code du travail s'appliquent aux fonctionnaires et agents non titulaires des offices publics de l'habitat.
 
-Les institutions représentatives prévues au titre III du livre II et aux titres II et III du livre IV se substituent pour les personnels visés à l'alinéa précédent aux comités techniques paritaires prévus par la présente loi.
+Les institutions représentatives prévues au titre III du livre II et aux titres II et III du livre IV se substituent pour les personnels visés à l'alinéa précédent aux comités techniques prévus par la présente loi.
 
 Les dispositions du chapitre II du titre Ier du livre IV du code du travail sont applicables aux fonctionnaires et agents non titulaires mentionnés ci-dessus.
 

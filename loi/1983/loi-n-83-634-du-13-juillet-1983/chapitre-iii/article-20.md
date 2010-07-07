@@ -1,6 +1,6 @@
 # Article 20
 
-Les fonctionnaires ont droit, après service fait, à une rémunération comprenant le traitement, l'indemnité de résidence, le supplément familial de traitement ainsi que les indemnités instituées par un texte législatif ou réglementaire. S'y ajoutent les prestations familiales obligatoires.
+Les fonctionnaires ont droit, après service fait, à une rémunération comprenant le traitement, l'indemnité de résidence, le supplément familial de traitement ainsi que les indemnités instituées par un texte législatif ou réglementaire. Les indemnités peuvent tenir compte des fonctions et des résultats professionnels des agents ainsi que de la performance collective des services. S'y ajoutent les prestations familiales obligatoires.
 
 Le montant du traitement est fixé en fonction du grade de l'agent et de l'échelon auquel il est parvenu, ou de l'emploi auquel il a été nommé.
 

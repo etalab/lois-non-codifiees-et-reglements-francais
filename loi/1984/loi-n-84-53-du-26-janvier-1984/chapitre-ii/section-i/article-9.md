@@ -8,4 +8,6 @@ Le ministre chargé des collectivités territoriales peut, en tant que de besoin
 
 Le conseil supérieur examine toute question relative à la fonction publique territoriale dont il est saisi soit par le ministre chargé des collectivités territoriales, soit à la demande écrite du tiers de ses membres. Il formule, le cas échéant, des propositions.
 
+L'avis du Conseil supérieur de la fonction publique territoriale est rendu lorsqu'ont été recueillis, d'une part, l'avis des représentants des organisations syndicales de fonctionnaires et, d'autre part, l'avis des employeurs publics territoriaux sur les questions dont il a été saisi.
+
 Le conseil supérieur peut procéder à toutes études sur l'organisation et le perfectionnement de la gestion du personnel des administrations territoriales. A cet effet, le Centre national de la fonction publique territoriale ainsi que les collectivités territoriales et leurs établissements publics sont tenus de lui fournir les documents, statistiques et renseignements qu'il demande dans le cadre des travaux d'études et de statistiques qu'il conduit.

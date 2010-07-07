@@ -4,8 +4,8 @@ Par dérogation à l'article 3 du titre Ier du statut général des fonctionnair
 
 Le détachement est proposé et le contrat est signé :
 
--par le directeur général de l'agence régionale de santé pour les établissements mentionnés aux 1° et 3° de l'article 2 ;
+-par le directeur général de l'agence régionale de santé pour les établissements mentionnés aux 1°, 3° et 5° de l'article 2 ;
 
--par le représentant de l'Etat dans le département pour les établissements mentionnés aux 4°, 5° et 6° du même article.
+-par le représentant de l'Etat dans le département pour les établissements mentionnés        aux 4° et 6° du même article.
 
 Les conditions d'application du présent article sont fixées par décret en Conseil d'Etat.

@@ -8,4 +8,4 @@ Les corps dans lesquels les agents non titulaires du niveau de la catégorie A, 
 
 2° Pour chaque corps, les modalités d'accès à ce corps, le délai dont les agents non titulaires disposent pour présenter leur candidature, les conditions de classement des intéressés dans le corps d'accueil, le délai dont ces derniers disposent, après avoir reçu notification de leur classement, pour accepter leur intégration ; ce délai ne peut être inférieur à six mois.
 
-Les textes pris en application du présent article sont soumis à l'avis du comité technique paritaire compétent.
+Les textes pris en application du présent article sont soumis à l'avis du comité technique compétent.

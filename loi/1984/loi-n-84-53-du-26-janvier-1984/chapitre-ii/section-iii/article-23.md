@@ -1,6 +1,6 @@
 # Article 23
 
-I. - Les centres de gestion assurent, dans leur ressort, une mission générale d'information sur l'emploi public territorial, y compris l'emploi des personnes handicapées, pour l'ensemble des collectivités et établissements publics mentionnés à l'article 2, des agents territoriaux en relevant ainsi que des candidats à un emploi public territorial. Ils sont chargés d'établir, notamment à partir des informations dont ils sont destinataires en application de l'article 23-1, un bilan de la situation de l'emploi public territorial et de la gestion des ressources humaines dans leur ressort et d'élaborer les perspectives à moyen terme d'évolution de cet emploi, des compétences et des besoins de recrutement. Ces documents sont portés à la connaissance des comités techniques paritaires.
+I. - Les centres de gestion assurent, dans leur ressort, une mission générale d'information sur l'emploi public territorial, y compris l'emploi des personnes handicapées, pour l'ensemble des collectivités et établissements publics mentionnés à l'article 2, des agents territoriaux en relevant ainsi que des candidats à un emploi public territorial. Ils sont chargés d'établir, notamment à partir des informations dont ils sont destinataires en application de l'article 23-1, un bilan de la situation de l'emploi public territorial et de la gestion des ressources humaines dans leur ressort et d'élaborer les perspectives à moyen terme d'évolution de cet emploi, des compétences et des besoins de recrutement. Ces documents sont portés à la connaissance des comités techniques.
 
 II. - Les centres de gestion assurent pour leurs fonctionnaires, y compris ceux qui sont mentionnés à l'article 97, et pour l'ensemble des fonctionnaires des collectivités territoriales et établissements publics affiliés, les missions suivantes, sous réserve des dispositions du II de l'article 12-1 :
 
@@ -22,7 +22,7 @@ II. - Les centres de gestion assurent pour leurs fonctionnaires, y compris ceux 
 
 9° Le fonctionnement des commissions administratives paritaires et des conseils de discipline dans les cas et conditions prévus à l'article 28 ;
 
-10° Le fonctionnement des comités techniques paritaires dans les cas et conditions prévus à l'article 32 ;
+10° Le fonctionnement des comités techniques dans les cas et conditions prévus à l'article 32 ;
 
 11° La gestion des décharges d'activité de service prévues à l'article 100 ;
 

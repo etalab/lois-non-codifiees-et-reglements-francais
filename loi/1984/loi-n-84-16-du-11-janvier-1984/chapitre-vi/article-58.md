@@ -4,6 +4,10 @@ L'avancement de grade a lieu de façon continue d'un grade au grade immédiateme
 
 L'avancement de grade peut être subordonné à la justification d'une durée minimale de formation professionnelle au cours de la carrière.
 
+Pour les fonctionnaires relevant des corps de catégorie A, il peut également être subordonné à l'occupation préalable de certains emplois ou à l'exercice préalable de certaines fonctions correspondant à un niveau particulièrement élevé de responsabilité.
+
+Les statuts particuliers des corps de catégorie A mentionnés à l'article 10 peuvent, après avis du Conseil supérieur de la fonction publique de l'Etat et eu égard à la nature de leurs missions, subordonner l'avancement de grade à l'exercice préalable d'autres fonctions impliquant notamment des conditions d'exercice difficiles ou comportant des missions particulières.
+
 Sauf pour les emplois laissés à la décision du Gouvernement, l'avancement de grade a lieu, selon les proportions définies par les statuts particuliers, suivant l'une ou plusieurs des modalités ci-après :
 
 1° Soit au choix, par voie d'inscription à un tableau annuel d'avancement, établi après avis de la commission administrative paritaire, par appréciation de la valeur professionnelle et des acquis de l'expérience professionnelle des agents ;
