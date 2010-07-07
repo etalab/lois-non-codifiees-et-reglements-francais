@@ -6,7 +6,7 @@ II.-Ce fonds finance des actions d'amélioration des conditions de travail des p
 
 A ce titre, il participe au financement :
 
-1° De contrats d'amélioration des conditions de travail ayant fait l'objet d'un accord négocié entre les responsables d'établissements et les organisations syndicales représentatives au sein de l'établissement au sens de l'article L. 6144-4 du code de la santé publique ;
+1° De contrats d'amélioration des conditions de travail ayant fait l'objet d'un accord négocié entre les responsables d'établissements et les organisations syndicales représentées au sein du comité technique d'établissement ;
 
 2° Des actions de modernisation sociale, notamment celles figurant dans le volet social des contrats d'objectifs et de moyens ;
 
