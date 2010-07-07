@@ -235,6 +235,16 @@ LISTE DES RÉGIONS DE PROVENANCE
 </td>
 </tr>
 <tr>
+<td/>
+<td>
+<em>Abies cephalonica Loud</em>
+</td>
+<td>ACE700-Région méditerranéenne</td>
+<td>
+<p align="center">ACE700</p>
+</td>
+</tr>
+<tr>
 <td>Sapin d'Espagne</td>
 <td>
 <em>Abies pinsapo</em>
@@ -1602,6 +1612,16 @@ LISTE DES RÉGIONS DE PROVENANCE
 </td>
 </tr>
 <tr>
+<td/>
+<td>
+<em>Pinus radiata D. Don</em>
+</td>
+<td>PRA101-Bretagne et Val de Loire</td>
+<td>
+<p align="center">PRA101</p>
+</td>
+</tr>
+<tr>
 <td valign="top" width="149">
 <p>Pin sylvestre.</p>
 </td>
@@ -2294,7 +2314,9 @@ LISTE DES RÉGIONS DE PROVENANCE
 <tr>
 <td/>
 <td>
-<em>Quercus pubescens L.</em>
+<p>
+<i>Quercus pubescens L.</i>
+</p>
 </td>
 <td>QPU101-Nord-Ouest</td>
 <td>
