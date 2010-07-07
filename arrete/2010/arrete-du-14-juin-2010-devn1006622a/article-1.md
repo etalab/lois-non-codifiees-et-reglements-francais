@@ -1,0 +1,3 @@
+# Article 1
+
+Est désigné sous l'appellation « site Natura 2000 Revermont et gorges de l'Ain » (zone spéciale de conservation FR 8201640) l'espace délimité sur la carte d'ensemble au 1/25 000 et les seize cartes au 1/25 000 ci-jointes, s'étendant sur une partie du territoire des communes suivantes du département de l'Ain : Hautecourt-Romanèche, Salavre, Simandre-sur-Suran, Treffort-Cuisiat, Verjon, Chavannes-sur-Suran, Cize, Corveissiat, Courmangoux, Drom, Ceyzériat, Grand-Corent, Saint-Martin-du-Mont, Journans, Matafelon-Granges, Meillonnas, Bohas-Meyriat-Rignat, Poncin, Pouillat, Pressiat, Ramasse, Revonnas, Germagnat.
