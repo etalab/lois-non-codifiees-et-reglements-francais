@@ -477,7 +477,6 @@
 - [Arrêté du 16 septembre 2004 (SANP0423223A)](arrete-du-16-septembre-2004-sanp0423223a)
 - [Arrêté du 16 septembre 2004 (SANS0423104A)](arrete-du-16-septembre-2004-sans0423104a)
 - [Arrêté du 17 août 2004 (EQUA0401169A)](arrete-du-17-aout-2004-equa0401169a)
-- [Arrêté du 17 décembre 2004 (PMEA0420062A)](arrete-du-17-decembre-2004-pmea0420062a)
 - [Arrêté du 17 février 2004 (BUDL0400006A)](arrete-du-17-fevrier-2004-budl0400006a)
 - [Arrêté du 17 février 2004 (SOCO0410324A)](arrete-du-17-fevrier-2004-soco0410324a)
 - [Arrêté du 17 janvier 2005 (FPPA0400137A)](arrete-du-17-janvier-2005-fppa0400137a)
