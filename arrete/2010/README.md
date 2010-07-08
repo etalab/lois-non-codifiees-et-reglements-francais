@@ -464,7 +464,6 @@
 - [Arrêté du 10 novembre 2009 (ECED0827287A)](arrete-du-10-novembre-2009-eced0827287a)
 - [Arrêté du 10 octobre 2008 (AGRG0814741A)](arrete-du-10-octobre-2008-agrg0814741a)
 - [Arrêté du 10 septembre 2009 (AGRS0916325A)](arrete-du-10-septembre-2009-agrs0916325a)
-- [Arrêté du 10 mai 2010 (AGRM1010393A)](arrete-du-10-mai-2010-agrm1010393a)
 - [Arrêté du 10 mai 2010 (DEFH1012629A)](arrete-du-10-mai-2010-defh1012629a)
 - [Arrêté du 10 mai 2010 (DEVA1012423A)](arrete-du-10-mai-2010-deva1012423a)
 - [Arrêté du 10 mai 2010 (ECEL1009494A)](arrete-du-10-mai-2010-ecel1009494a)
