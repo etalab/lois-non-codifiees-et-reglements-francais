@@ -4,7 +4,7 @@ La sous-direction C (Systèmes d'information et de télécommunication) comprend
 
 Le bureau C/1. - Etudes et projets du système d'information
 
-Il définit le plus en amont possible les projets d'évolutions fonctionnelles du système d'information et assiste les maîtres d'ouvrage dans l'analyse de leurs besoins. Il garantit la cohérence fonctionnelle du système d'information, en validant l'architecture fonctionnelle de tout projet à son lancement. Il contribue à la normalisation des échanges avec les opérateurs et avec la Communauté européenne.
+Il définit le plus en amont possible les projets d'évolutions fonctionnelles du système d'information et assiste les maîtres d'ouvrage dans l'analyse de leurs besoins. Il garantit la cohérence fonctionnelle du système d'information, en validant l'architecture fonctionnelle de tout projet à son lancement. Il contribue à la normalisation des échanges avec les opérateurs et avec l'Union européenne.
 
 Le bureau C/2. - Architecture technique et de sécurité
 

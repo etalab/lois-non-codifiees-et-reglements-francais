@@ -2,21 +2,17 @@
 
 La sous-direction F (Droits indirects) comprend trois bureaux :
 
-Le bureau F/1. - Fiscalité, transports
-
-et politiques fiscales communautaires
+Le bureau F/1. - Fiscalité, transports et politiques fiscales communautaires
 
 Il est chargé de toutes les questions ayant trait à la fiscalité indirecte (à l'exception des produits pétroliers et des produits soumis à contributions indirectes), qu'il s'agisse du régime général ou de régimes particuliers (régime fiscal des départements d'outre-mer, ventes en détaxe, comptoirs de vente dans les ports et aéroports). Il traite également des marchandises et produits en franchise de droits et taxes sur le territoire national (franchises de droit commun, privilèges diplomatiques et assimilés).
 
 A ce titre, il est chargé du suivi des travaux, traitant à titre général les droits d'accises, menés au sein des instances communautaires.
 
-Il concourt à l'élaboration et gère les réglementations relatives aux transports maritimes, terrestres, fluviaux et aériens. Il a en charge la procédure d'agrément des commissionnaires en douane.
+Il concourt à l'élaboration et gère les réglementations relatives aux transports maritimes, terrestres, fluviaux et aériens.
 
 Il coordonne l'activité des échelons de jauge.
 
-Le bureau F/2. - Fiscalités de l'énergie,
-
-de l'environnement et lois de finances
+Le bureau F/2. - Fiscalités de l'énergie, de l'environnement et lois de finances
 
 Il met en oeuvre la fiscalité énergétique et des activités polluantes ainsi que les réglementations et le suivi de leur application.
 

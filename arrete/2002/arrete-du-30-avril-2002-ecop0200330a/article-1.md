@@ -26,13 +26,11 @@ Il est chargé de la politique d'action sociale en faveur des personnels.
 
 Les personnels chargés de la surveillance du ministère et des services communs à l'administration centrale lui sont rattachés.
 
-Le bureau A/3. - Organisation, suivi de l'activité
-
-et animation des services
+Le bureau A/3. - Organisation, suivi de l'activité et animation des services
 
 Il est chargé de l'organisation de l'ensemble des services de la direction générale des douanes et droits indirects.
 
-Il en définit les missions et fixe les objectifs de la politique d'implantation territoriale des services. Il évalue la charge de travail et détermine l'implantation des effectifs.
+Il en définit les missions et fixe les objectifs de la politique d'implantation territoriale des services. Il évalue la charge de travail et détermine la répartition des effectifs.
 
 Il prépare et assure le suivi des comités techniques paritaires et des comités hygiène et sécurité.
 
