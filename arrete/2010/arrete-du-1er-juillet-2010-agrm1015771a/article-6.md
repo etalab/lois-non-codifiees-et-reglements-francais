@@ -1,0 +1,5 @@
+# Article 6
+
+Les organisations de producteurs établissent un plan de gestion du quota de thon rouge et le notifient à la direction des pêches maritimes et de l'aquaculture.
+
+La réserve nationale, figurant dans le tableau de l'annexe III, ne sera répartie qu'après validation de ce plan de gestion par les services de la direction des pêches maritimes et de l'aquaculture.
