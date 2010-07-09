@@ -1046,6 +1046,8 @@ Peinture Marius Dufour, 58-90, boulevard Fifi-Turin, BP 96, 13395 Marseille Cede
 
 Pillard Frères/Pillard et compagnie/EGCI Pillard/entreprise Pillard, 15, rue des Frères-Cubbedu, 13014 Marseille, de 1961 à 1996 ;
 
+Poudrerie nationale de Sorgues puis Société nationale des poudres et explosifs (SNPE)? 1928, route d'Avignon, BP 311, 84706 Sorgues Cedex : 1972 à 1996 ;
+
 Regularc, 2, place Albert-Blanc, 13600 Ceyrette : de 1973 à 1996 ;
 
 SA Maison Faure/Faure SA, route de Marseille, 04100 Manosque, de 1965 à 1996 ;
