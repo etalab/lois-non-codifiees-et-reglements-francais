@@ -4,7 +4,6 @@
 - [Section 1 : Le premier cycle et la première année du deuxième cycle.](section-1)
 - [Article 2](article-2.md)
 - [Section 2 : Les deuxième et troisième années du deuxième cycle.](section-2)
-- [Article 3](article-3.md)
 - [Section 3 : Le troisième cycle court.](section-3)
 - [Article 3 bis](article-3-bis.md)
 - [Section 3 bis : Initiation à la recherche](section-3-bis)
