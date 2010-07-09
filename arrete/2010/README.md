@@ -1729,7 +1729,6 @@
 - [Arrêté du 29 décembre 2009 (DEVU0929704A)](arrete-du-29-decembre-2009-devu0929704a)
 - [Arrêté du 29 décembre 2009 (DEVU0929723A)](arrete-du-29-decembre-2009-devu0929723a)
 - [Arrêté du 29 décembre 2009 (DEVU0930329A)](arrete-du-29-decembre-2009-devu0930329a)
-- [Arrêté du 29 décembre 2009 (DEVU0930523A)](arrete-du-29-decembre-2009-devu0930523a)
 - [Arrêté du 29 décembre 2009 (ECET0921779A)](arrete-du-29-decembre-2009-ecet0921779a)
 - [Arrêté du 29 décembre 2009 (ESRS0929275A)](arrete-du-29-decembre-2009-esrs0929275a)
 - [Arrêté du 29 décembre 2009 (ESRS0929276A)](arrete-du-29-decembre-2009-esrs0929276a)
