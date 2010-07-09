@@ -1,0 +1,3 @@
+# Article 31
+
+Les titulaires du diplôme d'Etat d'infirmier obtenu avant 2012, d'un des diplômes mentionnés aux titres II à VII du livre III de la quatrième partie du code de la santé publique, du diplôme d'Etat de sage-femme, d'une licence et les personnes ayant accompli et validé le premier cycle des études médicales peuvent se voir dispensées des épreuves d'admission et de la validation d'une partie des unités d'enseignement de la première année par le directeur de l'institut après avis du conseil pédagogique après comparaison entre la formation qu'elles ont suivie et les unités d'enseignement composant le programme du diplôme d'Etat d'ergothérapeute.
