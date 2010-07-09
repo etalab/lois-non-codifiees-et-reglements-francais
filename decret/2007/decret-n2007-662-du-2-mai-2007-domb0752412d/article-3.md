@@ -1,10 +1,10 @@
 # Article 3
 
-Chaque observatoire des prix et des revenus comprend les membres suivants :
+Chaque observatoire des prix et des revenus comprend, outre son président, les membres suivants :
 
 1° Dans les départements et régions d'outre-mer :
 
-a) Le représentant de l'Etat dans le département et la région d'outre-mer, président ;
+a) Le représentant de l'Etat dans le département et la région d'outre-mer ;
 
 b) Les parlementaires élus dans le ressort de chaque département et région ;
 
@@ -44,7 +44,7 @@ l) Trois représentants des organisations syndicales d'employeurs.
 
 2° A Mayotte :
 
-a) Le représentant de l'Etat à Mayotte, président ;
+a) Le représentant de l'Etat à Mayotte ;
 
 b) Les parlementaires élus à Mayotte ;
 
@@ -78,7 +78,7 @@ j) Le directeur local de l'Institut d'émission des départements d'outre-mer ;
 
 3° A Saint-Pierre-et-Miquelon :
 
-a) Le représentant de l'Etat à Saint-Pierre-et-Miquelon, président ;
+a) Le représentant de l'Etat à Saint-Pierre-et-Miquelon ;
 
 b) Les parlementaires élus à Saint-Pierre-et-Miquelon ;
 
@@ -106,7 +106,7 @@ j) Le directeur local de l'Institut d'émission des départements d'outre-mer.
 
 Les maires visés au e du 1° et au d du 2°, les représentants des organisations syndicales visés au i du 1° et au h du 2° et du 3° et les personnalités qualifiées visées aux j du 1° et aux i du 2° et du 3° sont désignés par arrêté du représentant de l'Etat pour une période de trois ans renouvelable.
 
-Le président et les membres de chaque observatoire qui siègent en raison des fonctions qu'ils occupent peuvent se faire suppléer par un membre du service ou de l'organisme auquel ils appartiennent.
+Les membres de chaque observatoire qui siègent en raison des fonctions qu'ils occupent peuvent se faire suppléer par un membre du service ou de l'organisme auquel ils appartiennent.
 
 Un membre désigné en raison de son mandat électif ne peut se faire suppléer que par un élu de la même assemblée délibérante.
 
