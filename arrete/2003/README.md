@@ -462,7 +462,6 @@
 - [Arrêté du 16 mars 1989 (ECOC8900020A)](arrete-du-16-mars-1989-ecoc8900020a)
 - [Arrêté du 16 mars 2004 (MCCB0300630A)](arrete-du-16-mars-2004-mccb0300630a)
 - [Arrêté du 16 octobre 2003 (AGRA0302124A)](arrete-du-16-octobre-2003-agra0302124a)
-- [Arrêté du 16 octobre 2003 (DEFD0302191A)](arrete-du-16-octobre-2003-defd0302191a)
 - [Arrêté du 16 octobre 2003 (EQUU0301348A)](arrete-du-16-octobre-2003-equu0301348a)
 - [Arrêté du 16 octobre 2003 (MENF0301912A)](arrete-du-16-octobre-2003-menf0301912a)
 - [Arrêté du 16 octobre 2003 (SOCO0311565A)](arrete-du-16-octobre-2003-soco0311565a)
