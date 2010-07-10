@@ -1,0 +1,3 @@
+# Article 8
+
+En application des dispositions des articles 3, 14 et 18 du décret n° 2005-139 du 17 février 2005 précité relatif aux dispositions statutaires applicables au corps des agents administratifs de Mayotte, les agents non titulaires sont titularisés, sur leur demande, dans le corps d'agents administratifs des administrations de Mayotte, sous réserve de la réussite à un examen professionnel dont l'organisation est fixée aux articles 9 à 20 du présent arrêté et qui aura lieu à une date postérieure à celle prévue pour les examens professionnels organisés pour les agents visés aux articles 1er à 6 du présent arrêté.
