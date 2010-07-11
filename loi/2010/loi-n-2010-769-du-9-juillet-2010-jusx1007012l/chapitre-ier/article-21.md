@@ -1,0 +1,3 @@
+# Article 21
+
+Un rapport remis par le Gouvernement sur la mise en place d'une formation spécifique en matière de prévention et de prise en charge des violences faites aux femmes et des violences commises au sein du couple est présenté au Parlement avant le 30 juin 2011. Cette formation serait destinée aux médecins, aux personnels médicaux et paramédicaux, aux travailleurs sociaux, aux agents des services de l'état civil, aux agents des services pénitentiaires, aux magistrats, aux avocats, aux personnels de l'éducation nationale, aux personnels d'animation sportive, culturelle et de loisirs et aux personnels de police et de gendarmerie.
