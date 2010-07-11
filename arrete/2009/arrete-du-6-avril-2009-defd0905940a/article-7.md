@@ -12,4 +12,6 @@ La sous-direction de l'ingénierie du soutien assure :
 
 5. La mise en œuvre de la politique d'externalisation des véhicules de la défense et le soutien aux transports terrestres assurés par des véhicules de la gamme commerciale ;
 
-6. La prescription et le suivi technique de toute opération de soutien dont il obtient commande.
+6. La prescription et le suivi technique de toute opération de soutien dont il obtient commande ;
+
+7. la mise en œuvre de la politique d'impression et de reprographie.

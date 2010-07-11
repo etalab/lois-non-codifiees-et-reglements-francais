@@ -2,12 +2,10 @@
 
 La sous-direction de la gestion du personnel civil de l'administration centrale comprend :
 
-1° Le bureau de la gestion du personnel de l'administration centrale de niveau I ;
+1° Le bureau de gestion de la rémunération et de la performance interne ;
 
-2° Le bureau de la gestion du personnel de l'administration centrale de niveau II et III ;
+2° Le bureau de la gestion des ressources humaines ;
 
-3° Le bureau de la rémunération et des primes des personnels de l'administration centrale ;
+3° Le bureau de la gestion administrative et de la paie ;
 
-4° Le bureau des affaires médico-administratives ;
-
-5° Le bureau de la formation du personnel civil de l'administration centrale.
+4° Le bureau de la formation.
