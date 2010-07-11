@@ -8,4 +8,4 @@ Lorsque des programmes susceptibles de nuire à l'épanouissement physique, ment
 
 Il veille en outre à ce qu'aucun programme susceptible de nuire gravement à l'épanouissement physique, mental ou moral des mineurs ne soit mis à disposition du public par les services de communication audiovisuelle.
 
-Il veille enfin à ce que les programmes ne contiennent aucune incitation à la haine ou à la violence pour des raisons de race, de sexe, de moeurs, de religion ou de nationalité.
+Il veille enfin à ce que les programmes mis à disposition du public par un service de communication audiovisuelle ne contiennent aucune incitation à la haine ou à la violence pour des raisons de race, de sexe, de moeurs, de religion ou de nationalité.

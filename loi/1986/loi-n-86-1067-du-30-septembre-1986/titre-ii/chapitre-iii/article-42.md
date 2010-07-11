@@ -1,7 +1,7 @@
 # Article 42
 
-Les éditeurs et distributeurs de services de                 communication audiovisuelle et les opérateurs de réseaux satellitaires peuvent être mis en demeure de respecter les obligations qui leur sont imposées par les textes législatifs et réglementaires et par les principes définis aux articles 1er et 3-1.
+Les éditeurs et distributeurs de services de communication audiovisuelle et les opérateurs de réseaux satellitaires peuvent être mis en demeure de respecter les obligations qui leur sont imposées par les textes législatifs et réglementaires et par les principes définis aux articles 1er et 3-1.
 
 Le Conseil supérieur de l'audiovisuel rend publiques ces mises en demeure.
 
-Les organisations professionnelles et syndicales représentatives du secteur de la communication audiovisuelle, le Conseil national des langues et cultures régionales et les associations familiales ainsi que les associations ayant dans leur objet social la défense des intérêts des téléspectateurs peuvent demander au Conseil supérieur de l'audiovisuel d'engager la procédure de mise en demeure prévue au premier alinéa du présent article.
+Les organisations professionnelles et syndicales représentatives du secteur de la communication audiovisuelle, le Conseil national des langues et cultures régionales   , les associations familiales et les associations de défense des droits des femmes ainsi que les associations ayant dans leur objet social la défense des intérêts des téléspectateurs peuvent demander au Conseil supérieur de l'audiovisuel d'engager la procédure de mise en demeure prévue au premier alinéa du présent article.

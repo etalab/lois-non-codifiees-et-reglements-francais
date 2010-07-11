@@ -12,7 +12,7 @@ L'alinéa précédent ne s'applique pas lorsque le destinataire du service agit 
 
 L'alinéa précédent ne s'applique pas lorsque le destinataire du service agit sous l'autorité ou le contrôle de la personne visée audit alinéa.
 
-4. Le fait, pour toute personne, de présenter aux personnes mentionnées au 2 un contenu ou une activité comme étant illicite dans le but d'en obtenir le retrait ou d'en faire cesser la diffusion, alors qu'elle sait cette information inexacte, est puni d'une peine d'un an d'emprisonnement et de 15 000 Euros d'amende.
+4. Le fait, pour toute personne, de présenter aux personnes mentionnées au 2 un contenu ou une activité comme étant illicite dans le but d'en obtenir le retrait ou d'en faire cesser la diffusion, alors qu'elle sait cette information inexacte, est puni d'une peine d'un an d'emprisonnement et de 15 000 euros d'amende.
 
 5. La connaissance des faits litigieux est présumée acquise par les personnes désignées au 2 lorsqu'il leur est notifié les éléments suivants :
 
@@ -34,7 +34,7 @@ L'alinéa précédent ne s'applique pas lorsque le destinataire du service agit 
 
 Le précédent alinéa est sans préjudice de toute activité de surveillance ciblée et temporaire demandée par l'autorité judiciaire.
 
-Compte tenu de l'intérêt général attaché à la répression de l'apologie des crimes contre l'humanité, de l'incitation à la haine raciale ainsi que de la pornographie enfantine, de l'incitation à la violence ainsi que des atteintes à la dignité humaine, les personnes mentionnées ci-dessus doivent concourir à la lutte contre la diffusion des infractions visées aux cinquième et huitième alinéas de l'article 24 de la loi du 29 juillet 1881 sur la liberté de la presse et aux articles 227-23 et 227-24 du code pénal.
+Compte tenu de l'intérêt général attaché à la répression de l'apologie des crimes contre l'humanité, de l'incitation à la haine raciale ainsi que de la pornographie enfantine, de l'incitation à la violence, notamment l'incitation aux violences faites aux femmes, ainsi que des atteintes à la dignité humaine, les personnes mentionnées ci-dessus doivent concourir à la lutte contre la diffusion des infractions visées aux cinquième et huitième alinéas de l'article 24 de la loi du 29 juillet 1881 sur la liberté de la presse et aux articles 227-23 et 227-24 du code pénal.
 
 A ce titre, elles doivent mettre en place un dispositif facilement accessible et visible permettant à toute personne de porter à leur connaissance ce type de données. Elles ont également l'obligation, d'une part, d'informer promptement les autorités publiques compétentes de toutes activités illicites mentionnées à l'alinéa précédent qui leur seraient signalées et qu'exerceraient les destinataires de leurs services, et, d'autre part, de rendre publics les moyens qu'elles consacrent à la lutte contre ces activités illicites.
 
@@ -42,7 +42,7 @@ Compte tenu de l'intérêt général attaché à la répression des activités i
 
 Tout manquement aux obligations définies aux quatrième et cinquième alinéas est puni des peines prévues au 1 du VI. ;
 
-8.L'autorité judiciaire peut prescrire en référé ou sur requête, à toute personne mentionnée au 2 ou, à défaut, à toute personne mentionnée au 1, toutes mesures propres à prévenir un dommage ou à faire cesser un dommage occasionné par le contenu d'un service de communication au public en ligne.
+8. L'autorité judiciaire peut prescrire en référé ou sur requête, à toute personne mentionnée au 2 ou, à défaut, à toute personne mentionnée au 1, toutes mesures propres à prévenir un dommage ou à faire cesser un dommage occasionné par le contenu d'un service de communication au public en ligne.
 
 II.-Les personnes mentionnées aux 1 et 2 du I détiennent et conservent les données de nature à permettre l'identification de quiconque a contribué à la création du contenu ou de l'un des contenus des services dont elles sont prestataires.
 
@@ -78,7 +78,7 @@ IV.-Toute personne nommée ou désignée dans un service de communication au pub
 
 La demande d'exercice du droit de réponse est adressée au directeur de la publication ou, lorsque la personne éditant à titre non professionnel a conservé l'anonymat, à la personne mentionnée au 2 du I qui la transmet sans délai au directeur de la publication. Elle est présentée au plus tard dans un délai de trois mois à compter de [Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 2004-496 DC du 10 juin 2004] la mise à disposition du public du message justifiant cette demande.
 
-Le directeur de la publication est tenu d'insérer dans les trois jours de leur réception les réponses de toute personne nommée ou désignée dans le service de communication au public en ligne sous peine d'une amende de 3 750 Euros, sans préjudice des autres peines et dommages-intérêts auxquels l'article pourrait donner lieu.
+Le directeur de la publication est tenu d'insérer dans les trois jours de leur réception les réponses de toute personne nommée ou désignée dans le service de communication au public en ligne sous peine d'une amende de 3 750 euros, sans préjudice des autres peines et dommages-intérêts auxquels l'article pourrait donner lieu.
 
 Les conditions d'insertion de la réponse sont celles prévues par l'article 13 de la loi du 29 juillet 1881 précitée. La réponse sera toujours gratuite.
 
@@ -88,10 +88,10 @@ V.-Les dispositions des chapitres IV et V de la loi du 29 juillet 1881 précité
 
 [Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 2004-496 DC du 10 juin 2004]
 
-VI.-1. Est puni d'un an d'emprisonnement et de 75 000 Euros d'amende le fait, pour une personne physique ou le dirigeant de droit ou de fait d'une personne morale exerçant l'une des activités définies aux 1 et 2 du I, de ne pas satisfaire aux obligations définies aux quatrième et cinquième alinéas du 7 du I, de ne pas avoir conservé les éléments d'information visés au II ou de ne pas déférer à la demande d'une autorité judiciaire d'obtenir communication desdits éléments.
+VI.-1. Est puni d'un an d'emprisonnement et de 75 000 euros d'amende le fait, pour une personne physique ou le dirigeant de droit ou de fait d'une personne morale exerçant l'une des activités définies aux 1 et 2 du I, de ne pas satisfaire aux obligations définies aux quatrième et cinquième alinéas du 7 du I, de ne pas avoir conservé les éléments d'information visés au II ou de ne pas déférer à la demande d'une autorité judiciaire d'obtenir communication desdits éléments.
 
 Les personnes morales peuvent être déclarées pénalement responsables de ces infractions dans les conditions prévues à l'article 121-2 du code pénal. Elles encourent une peine d'amende, suivant les modalités prévues par l'article 131-38 du même code, ainsi que les peines mentionnées aux 2° et 9° de l'article 131-39 de ce code.L'interdiction mentionnée au 2° de cet article est prononcée pour une durée de cinq ans au plus et porte sur l'activité professionnelle dans l'exercice ou à l'occasion de laquelle l'infraction a été commise.
 
-2. Est puni d'un an d'emprisonnement et de 75 000 Euros d'amende le fait, pour une personne physique ou le dirigeant de droit ou de fait d'une personne morale exerçant l'activité définie au III, de ne pas avoir respecté les prescriptions de ce même article.
+2. Est puni d'un an d'emprisonnement et de 75 000 euros d'amende le fait, pour une personne physique ou le dirigeant de droit ou de fait d'une personne morale exerçant l'activité définie au III, de ne pas avoir respecté les prescriptions de ce même article.
 
 Les personnes morales peuvent être déclarées pénalement responsables de ces infractions dans les conditions prévues à l'article 121-2 du code pénal. Elles encourent une peine d'amende, suivant les modalités prévues par l'article 131-38 du même code, ainsi que les peines mentionnées aux 2° et 9° de l'article 131-39 de ce code.L'interdiction mentionnée au 2° de cet article est prononcée pour une durée de cinq ans au plus et porte sur l'activité professionnelle dans l'exercice ou à l'occasion de laquelle l'infraction a été commise.

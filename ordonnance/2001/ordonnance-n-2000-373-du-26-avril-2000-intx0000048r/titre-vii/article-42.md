@@ -1,6 +1,6 @@
 # Article 42
 
-I. - Le ressortissant étranger qui séjourne régulièrement à Mayotte depuis au moins deux ans sous couvert d'un des titres d'une durée de validité d'au moins un an prévus par la présente ordonnance ou par des conventions internationales peut demander à bénéficier de son droit à être rejoint, au titre du regroupement familial, par son conjoint, si ce dernier est âgé d'au moins dix-huit ans, et les enfants du couple mineurs de dix-huit ans. Le regroupement familial peut également être sollicité pour les enfants mineurs de dix-huit ans du demandeur et ceux de son conjoint dont, au jour de la demande, la filiation n'est établie qu'à l'égard du demandeur ou de son conjoint ou dont l'autre parent est décédé ou déchu de ses droits parentaux. Le regroupement familial peut également être demandé pour les enfants mineurs de dix-huit ans du demandeur et ceux de son conjoint, qui sont confiés, selon le cas, à l'un ou l'autre de ces derniers, au titre de l'exercice de l'autorité parentale, en vertu d'une décision d'une juridiction étrangère dont la copie devra être produite ainsi que l'autorisation de l'autre parent de laisser le mineur venir à Mayotte.
+I.-Le ressortissant étranger qui séjourne régulièrement à Mayotte depuis au moins deux ans sous couvert d'un des titres d'une durée de validité d'au moins un an prévus par la présente ordonnance ou par des conventions internationales peut demander à bénéficier de son droit à être rejoint, au titre du regroupement familial, par son conjoint, si ce dernier est âgé d'au moins dix-huit ans, et les enfants du couple mineurs de dix-huit ans. Le regroupement familial peut également être sollicité pour les enfants mineurs de dix-huit ans du demandeur et ceux de son conjoint dont, au jour de la demande, la filiation n'est établie qu'à l'égard du demandeur ou de son conjoint ou dont l'autre parent est décédé ou déchu de ses droits parentaux. Le regroupement familial peut également être demandé pour les enfants mineurs de dix-huit ans du demandeur et ceux de son conjoint, qui sont confiés, selon le cas, à l'un ou l'autre de ces derniers, au titre de l'exercice de l'autorité parentale, en vertu d'une décision d'une juridiction étrangère dont la copie devra être produite ainsi que l'autorisation de l'autre parent de laisser le mineur venir à Mayotte.
 
 Le regroupement ne peut être refusé que pour l'un des motifs suivants tirés du caractère insuffisant des ressources du demandeur ou des possibilités d'hébergement dont il dispose ou si le demandeur ne se conforme pas aux principes essentiels qui, conformément aux lois de la République, régissent la vie familiale en France.
 
@@ -16,7 +16,7 @@ Le regroupement familial est sollicité pour l'ensemble des personnes désignée
 
 L'enfant pouvant bénéficier du regroupement familial est celui qui répond à la définition donnée au dernier alinéa de l'article 20.
 
-II. - L'autorisation d'entrer à Mayotte dans le cadre de la procédure du regroupement familial est donnée par le représentant de l'Etat, après vérification des conditions de ressources et de logement par le maire de la commune de résidence de l'étranger ou le maire de la commune où il envisage de s'établir.
+II.-L'autorisation d'entrer à Mayotte dans le cadre de la procédure du regroupement familial est donnée par le représentant de l'Etat, après vérification des conditions de ressources et de logement par le maire de la commune de résidence de l'étranger ou le maire de la commune où il envisage de s'établir.
 
 Le maire, saisi par le représentant de l'Etat, peut émettre un avis sur la condition de conformité aux principes essentiels qui régissent la vie familiale en France mentionnée au deuxième alinéa du I. Cet avis est réputé rendu à l'expiration d'un délai de deux mois à compter de la communication du dossier par le représentant de l'Etat.
 
@@ -28,9 +28,9 @@ Le représentant de l'Etat à Mayotte statue sur la demande dans un délai de si
 
 La décision du représentant de l'Etat à Mayotte autorisant l'entrée des membres de la famille sur le territoire de Mayotte est caduque si le regroupement n'est pas intervenu dans un délai fixé par voie réglementaire. En cas de mise en oeuvre de la procédure du sursis à l'octroi d'un visa prévue aux deux derniers alinéas de l'article 47, ce délai ne court qu'à compter de la délivrance du visa.
 
-III. - Les membres de la famille entrés régulièrement sur le territoire de Mayotte au titre du regroupement familial, reçoivent de plein droit une carte de séjour temporaire, dès qu'ils sont astreints à la détention d'un titre de séjour.
+III.-Les membres de la famille entrés régulièrement sur le territoire de Mayotte au titre du regroupement familial, reçoivent de plein droit une carte de séjour temporaire, dès qu'ils sont astreints à la détention d'un titre de séjour.
 
-IV. - En cas de rupture de la vie commune ne résultant pas du décès de l'un des conjoints, le titre de séjour qui a été remis au conjoint d'un étranger peut, pendant les trois années suivant l'autorisation de séjourner à Mayotte au titre du regroupement familial, faire l'objet d'un retrait ou d'un refus de renouvellement.
+IV.-En cas de rupture de la vie commune ne résultant pas du décès de l'un des conjoints, le titre de séjour qui a été remis au conjoint d'un étranger peut, pendant les trois années suivant l'autorisation de séjourner à Mayotte au titre du regroupement familial, faire l'objet d'un retrait ou d'un refus de renouvellement.
 
 Lorsque la rupture de la vie commune est antérieure à la demande de titre, le représentant de l'Etat refuse de l'accorder.
 
@@ -38,6 +38,9 @@ Les dispositions du premier alinéa du IV ne s'appliquent pas si un ou plusieurs
 
 En outre, lorsque la communauté de vie a été rompue à l'initiative de l'étranger admis au séjour au titre du regroupement familial, en raison de violences conjugales qu'il a subies de la part de son conjoint, le représentant de l'Etat ne peut procéder au retrait de son titre de séjour et peut en accorder le renouvellement.
 
-IV bis. - Le titre de séjour d'un étranger qui n'entre pas dans les catégories visées à l'article 33 et à l'article 34 peut faire l'objet d'un retrait lorsque son titulaire a fait venir son conjoint ou ses enfants en dehors de la procédure du regroupement familial.
+Sauf si sa présence constitue une menace pour l'ordre public, l'autorité administrative accorde, dans les plus brefs délais, la délivrance ou le renouvellement du titre de séjour de l'étranger qui bénéficie d'une ordonnance de protection en vertu de l'article 515-9 du code civil
+.
 
-V. - Un décret en Conseil d'Etat fixe les modalités d'application du présent article et notamment les conditions de ressources et d'hébergement qui s'imposent au demandeur du regroupement familial ainsi que de vérification de la façon dont ces conditions sont remplies.
+IV bis.-Le titre de séjour d'un étranger qui n'entre pas dans les catégories visées à l'article 33 et à l'article 34 peut faire l'objet d'un retrait lorsque son titulaire a fait venir son conjoint ou ses enfants en dehors de la procédure du regroupement familial.
+
+V.-Un décret en Conseil d'Etat fixe les modalités d'application du présent article et notamment les conditions de ressources et d'hébergement qui s'imposent au demandeur du regroupement familial ainsi que de vérification de la façon dont ces conditions sont remplies.
