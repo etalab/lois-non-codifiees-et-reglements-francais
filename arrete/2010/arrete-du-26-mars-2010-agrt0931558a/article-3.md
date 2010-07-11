@@ -8,7 +8,7 @@ Bourgogne : 54, 38 ha.
 
 Languedoc-Roussillon : 94, 47 ha.
 
-Provence-Corse : 12, 12 ha.
+Provence-Corse : 7, 10 ha.
 
 Sud-Ouest : 6, 35 ha.
 

@@ -1,196 +1,198 @@
 # Article 8
 
-<div>
-<br/>Sont autorisées au titre de la campagne 2009-2010, pour les exploitants non titulaires d'une dotation jeune agriculteur ou d'un prêt MTS « jeune agriculteur », les plantations de vignes destinées à la production de vin à appellation d'origine à condition que ces plantations soient réalisées sur la base des droits nés de l'arrachage de vignes aptes à revendiquer une des appellations d'origine des zones précisées ci-dessous, dans la limite des contingents fixés ainsi qu'il suit :<br/>
+Sont autorisées au titre de la campagne 2009-2010, pour les exploitants non titulaires d'une dotation jeune agriculteur ou d'un prêt MTS jeune agriculteur , les plantations de vignes destinées à la production de vin à appellation d'origine à condition que ces plantations soient réalisées sur la base des droits nés de l'arrachage de vignes aptes à revendiquer une des appellations d'origine des zones précisées ci-dessous, dans la limite des contingents fixés ainsi qu'il suit :
+
 <div align="center">
 
 <table>
+<tbody>
 <tr>
-<th>
-<br/>APPELLATION OU GROUPE D'APPELLATIONS</th>
-<th>
-<br/>CONTINGENT (HA)</th>
-<th>
-<br/>ORIGINE DES DROITS</th>
+<th>APPELLATION OU GROUPE D'APPELLATIONS<br/>
+</th>
+<th>CONTINGENT (HA)<br/>
+</th>
+<th>ORIGINE DES DROITS<br/>
+</th>
 </tr>
 <tr>
-<td align="center">
-<br/>Viré-Clessé</td>
-<td align="center">
-<br/>1,63</td>
-<td align="center">
-<br/>Bourgogne grand ordinaire</td>
+<td align="center">Viré-Clessé<br/>
+</td>
+<td align="center">1,63<br/>
+</td>
+<td align="center">Bourgogne grand ordinaire<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Beaujolais</td>
-<td align="center">
-<br/>2,50</td>
-<td align="center">
-<br/>AO du Beaujolais</td>
+<td align="center">Beaujolais<br/>
+</td>
+<td align="center">2,50<br/>
+</td>
+<td align="center">AO du Beaujolais<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Côte roannaise</td>
-<td align="center">
-<br/>0,28</td>
-<td align="center">
-<br/>AO de la Loire</td>
+<td align="center">Côte roannaise<br/>
+</td>
+<td align="center">0,28<br/>
+</td>
+<td align="center">AO de la Loire<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Bugey et Savoie</td>
-<td align="center">
-<br/>4,32</td>
-<td align="center">
-<br/>AO des départements 74, 73, 38 et 01</td>
+<td align="center">Bugey et Savoie<br/>
+</td>
+<td align="center">4,32<br/>
+</td>
+<td align="center">AO des départements 74, 73, 38 et 01<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Vins liquoreux du Val de Loire, Anjou, Anjou Villages, Rosé d'Anjou, Rosé de Loire, Cabernet d'Anjou, Saumur, Coteaux de Saumur, Saumur mousseux, Saumur-Champigny, Haut-Poitou</td>
-<td align="center">
-<br/>41,37</td>
-<td align="center">
-<br/>AO des départements 37, 41, 44, 49, 79, 85 et 86</td>
+<td align="center">Vins liquoreux du Val de Loire, Anjou, Anjou Villages, Rosé d'Anjou, Rosé de Loire, Cabernet d'Anjou, Saumur, Coteaux de Saumur, Saumur mousseux, Saumur-Champigny, Haut-Poitou<br/>
+</td>
+<td align="center">41,37<br/>
+</td>
+<td align="center">AO des départements 37, 41, 44, 49, 79, 85 et 86<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Cheverny, Cour-Cheverny, Coteaux du Loir, Jasnières, Touraine, Saint-Nicolas-de-Bourgueil, Vouvray</td>
-<td align="center">
-<br/>20,24</td>
-<td align="center">
-<br/>AO des départements 36, 37, 41, 44, 45, 49, 72, 79, 85 et 86</td>
+<td align="center">Cheverny, Cour-Cheverny, Coteaux du Loir, Jasnières, Touraine, Saint-Nicolas-de-Bourgueil, Vouvray<br/>
+</td>
+<td align="center">20,24<br/>
+</td>
+<td align="center">AO des départements 36, 37, 41, 44, 45, 49, 72, 79, 85 et 86<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>AOC de Gironde</td>
-<td align="center">
-<br/>130,78</td>
-<td align="center">
-<br/>AO de Gironde</td>
+<td align="center">AOC de Gironde<br/>
+</td>
+<td align="center">130,78<br/>
+</td>
+<td align="center">AO de Gironde<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Tursan, Jurançon, Fronton, Saint-Mont</td>
-<td align="center">
-<br/>28,11</td>
-<td align="center">
-<br/>AO des départements 12, 31, 32, 40, 46, 47, 64, 65, 81 et 82</td>
+<td align="center">Tursan, Jurançon, Fronton, Saint-Mont<br/>
+</td>
+<td align="center">28,11<br/>
+</td>
+<td align="center">AO des départements 12, 31, 32, 40, 46, 47, 64, 65, 81 et 82<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Gaillac</td>
-<td align="center">
-<br/>1,90</td>
-<td align="center">
-<br/>Gaillac</td>
+<td align="center">Gaillac<br/>
+</td>
+<td align="center">1,90<br/>
+</td>
+<td align="center">Gaillac<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Marcillac</td>
-<td align="center">
-<br/>1,07</td>
-<td align="center">
-<br/>Marcillac</td>
+<td align="center">Marcillac<br/>
+</td>
+<td align="center">1,07<br/>
+</td>
+<td align="center">Marcillac<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Fitou</td>
-<td align="center">
-<br/>0,10</td>
-<td align="center">
-<br/>Fitou</td>
+<td align="center">Fitou<br/>
+</td>
+<td align="center">0,10<br/>
+</td>
+<td align="center">Fitou<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Cabardès, Languedoc, Corbières</td>
-<td align="center">
-<br/>21,28</td>
-<td align="center">
-<br/>Languedoc</td>
+<td align="center">Cabardès, Languedoc, Corbières<br/>
+</td>
+<td align="center">21,28<br/>
+</td>
+<td align="center">Languedoc<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Minervois</td>
-<td align="center">
-<br/>1,32</td>
-<td align="center">
-<br/>Minervois</td>
+<td align="center">Minervois<br/>
+</td>
+<td align="center">1,32<br/>
+</td>
+<td align="center">Minervois<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Côtes du Roussillon</td>
-<td align="center">
-<br/>4,49</td>
-<td align="center">
-<br/>AO du Languedoc-Roussillon</td>
+<td align="center">Côtes du Roussillon<br/>
+</td>
+<td align="center">4,49<br/>
+</td>
+<td align="center">AO du Languedoc-Roussillon<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Limoux.</td>
-<td align="center">
-<br/>9,49</td>
-<td align="center">
-<br/>Limoux</td>
+<td align="center">Limoux.<br/>
+</td>
+<td align="center">9,49<br/>
+</td>
+<td align="center">Limoux<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Côtes de Provence</td>
-<td align="center">
-<br/>39,70</td>
-<td align="center">
-<br/>Côtes de Provence</td>
+<td align="center">Côtes de Provence<br/>
+</td>
+<td align="center">39,70<br/>
+</td>
+<td align="center">Côtes de Provence<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Corse, Muscat du Cap corse, Patrimonio</td>
-<td align="center">
-<br/>8,03</td>
-<td align="center">
-<br/>AO de Corse</td>
+<td align="center">Corse, Muscat du Cap corse, Patrimonio<br/>
+</td>
+<td align="center">13,05<br/>
+</td>
+<td align="center">AO de Corse<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Muscat de Rivesaltes, Rivesaltes, Grand Roussillon</td>
-<td align="center">
-<br/>5,45</td>
-<td align="center">
-<br/>Grand Roussillon</td>
+<td align="center">Muscat de Rivesaltes, Rivesaltes, Grand Roussillon<br/>
+</td>
+<td align="center">5,45<br/>
+</td>
+<td align="center">Grand Roussillon<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Châteauneuf-du-Pape</td>
-<td align="center">
-<br/>0,25</td>
-<td align="center">
-<br/>Châteauneuf-du-Pape</td>
+<td align="center">Châteauneuf-du-Pape<br/>
+</td>
+<td align="center">0,25<br/>
+</td>
+<td align="center">Châteauneuf-du-Pape<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Côtes du Rhône, Vinsobres</td>
-<td align="center">
-<br/>14,91</td>
-<td align="center">
-<br/>Côtes du Rhône</td>
+<td align="center">Côtes du Rhône, Vinsobres<br/>
+</td>
+<td align="center">14,91<br/>
+</td>
+<td align="center">Côtes du Rhône<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Ventoux</td>
-<td align="center">
-<br/>2,74</td>
-<td align="center">
-<br/>Ventoux</td>
+<td align="center">Ventoux<br/>
+</td>
+<td align="center">2,74<br/>
+</td>
+<td align="center">Ventoux<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Luberon</td>
-<td align="center">
-<br/>0,04</td>
-<td align="center">
-<br/>Luberon</td>
+<td align="center">Luberon<br/>
+</td>
+<td align="center">0,04<br/>
+</td>
+<td align="center">Luberon<br/>
+</td>
 </tr>
+</tbody>
 </table>
 
 </div>
-<br/>
-<br/> Les autorisations sont valables jusqu'au 31 juillet 2012.</div>
+
+Les autorisations sont valables jusqu'au 31 juillet 2012.
