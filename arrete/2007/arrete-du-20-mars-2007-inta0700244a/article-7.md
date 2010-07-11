@@ -1,5 +1,7 @@
 # Article 7
 
-Dès la clôture du scrutin, il est aussitôt procédé au dépouillement des bulletins de vote dans chaque bureau de vote. Un procès-verbal est établi par le président et les assesseurs, et transmis aussitôt au directeur de l'agence. Celui-ci, après avoir regroupé les procès-verbaux au bureau de vote central, proclame immédiatement les résultats des élections.
+Il est procédé au dépouillement le jour du scrutin à partir de 17 heures. La commission de dépouillement, constituée d'un président et de 2 assesseurs nommés par le directeur, établit un procès-verbal. Les contestations éventuelles sont recevables dans un délai de cinq jours.
 
-Dans un délai de cinq jours à compter de la proclamation des résultats, les contestations sont recevables devant le directeur de l'agence.
+Pour départager les candidats en cas de résultats ex-aequo, c'est la candidature du plus âgé qui est retenue.
+
+Au terme de ce délai, le directeur proclame les résultats.
