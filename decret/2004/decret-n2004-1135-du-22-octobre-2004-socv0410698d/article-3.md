@@ -26,6 +26,8 @@ Le directeur général des collectivités locales, ou son représentant ;
 
 Le directeur général de la police nationale, ou son représentant.
 
+Le directeur général de la gendarmerie nationale, ou son représentant
+
 Ministère de l'emploi, du travail et de la cohésion sociale :
 
 Le délégué général à l'emploi et à la formation professionnelle, ou son représentant ;
@@ -44,15 +46,11 @@ Ministère de la justice :
 
 Le chef du service de l'accès au droit et à la justice et de la politique de la ville, ou son représentant.
 
-Ministère de la défense :
-
-Le directeur général de la gendarmerie nationale, ou son représentant.
-
 Ministère de la santé et de la protection sociale :
 
 Le directeur général de la santé, ou son représentant ;
 
-Le           directeur général de l'offre de soins , ou son représentant.
+Le directeur général de l'offre de soins , ou son représentant.
 
 Ministère de l'équipement, des transports, de l'aménagement du territoire, du tourisme et de la mer :
 

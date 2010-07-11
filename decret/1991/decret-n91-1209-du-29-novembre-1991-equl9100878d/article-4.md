@@ -10,7 +10,7 @@ Outre le président, le vice-président et le secrétaire permanent, le Conseil 
 
 - des affaires étrangères ;
 
-- de la défense (chacune des trois armes et la gendarmerie) ;
+- de la défense (chacune des trois armées) ;
 
 - de l'intérieur ;
 
