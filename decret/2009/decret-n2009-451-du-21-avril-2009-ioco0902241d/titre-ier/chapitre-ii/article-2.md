@@ -194,7 +194,7 @@ Les chargeurs des armes classées au paragraphe 2 ci-dessus doivent être rendus
 
 Paragraphe 3 : reproductions d'armes historiques et de collection dont le modèle est antérieur à la date fixée par le ministre de la défense en application du paragraphe 1 ci-dessus et dont les caractéristiques techniques ainsi que les munitions sont définies par arrêté conjoint des ministres de la défense et de l'intérieur et des ministres chargés de l'industrie et des douanes.
 
-Ces reproductions ne pourront être importées, mises sur le marché ou cédées que si elles sont conformes aux caractéristiques techniques mentionnées à l'alinéa précédent et constatées dans un procès-verbal d'expertise effectuée par un établissement technique désigné par le ministre de la défense, dans les cas et les conditions déterminés par l'arrêté interministériel prévu à l'alinéa ci-dessus.
+Ces reproductions ne pourront être importées, mises sur le marché ou cédées que si elles sont conformes aux caractéristiques techniques mentionnées à l'alinéa précédent et constatées dans un procès-verbal d'expertise effectuée par un établissement désigné ou un armurier agréé par arrêté du haut-commissaire de la République en Nouvelle-Calédonie ou par un établissement désigné ou un armurier agréé établi sur le reste du territoire français, dans les cas et les conditions déterminés par l'arrêté interministériel prévu à l'alinéa ci-dessus.
 
 Les reproductions d'armes historiques et de collection qui ne satisfont pas aux dispositions du présent paragraphe relèvent, selon leurs caractéristiques techniques, du régime applicable aux armes de la 1re, de la 4e, de la 5e ou de la 7e catégorie.
 

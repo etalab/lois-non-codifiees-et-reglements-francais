@@ -1,6 +1,6 @@
 # Article 73
 
-Sans préjudice des dispositions plus favorables résultant d'accords internationaux ratifiés par la France, une dérogation générale est apportée à la prohibition d'importation prévue par l'article 11 du décret du 18 avril 1939 susvisé pour :
+Sans préjudice des dispositions plus favorables résultant d'accords internationaux ratifiés par la France, une dérogation générale est apportée à la prohibition d'importation prévue par l'article L. 2335-1 du code de la défense pour :
 
 a) Les matériels, armes, éléments d'arme, munitions ou éléments de munition importés sous les régimes douaniers du perfectionnement actif pour réparation ou de l'admission temporaire pour essais ou expériences.
 

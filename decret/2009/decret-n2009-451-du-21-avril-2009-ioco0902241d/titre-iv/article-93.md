@@ -12,13 +12,13 @@ Paragraphe 1 : en ce qui concerne les matériels de guerre, armes, éléments d'
 
 Paragraphe 2 : en ce qui concerne les armes, éléments d'arme, munitions et éléments de munition classés dans la 5e catégorie :
 
-1° Aux fabricants ou commerçants qui ont effectué la déclaration prévue à l'article 6 ;
+1° Aux fabricants et commerçants ayant satisfait, selon le cas, aux prescriptions de l'article 6, de l'article 7 ou de l'article 8 ci-dessus ;
 
 2° Aux autres personnes, sur présentation des pièces prévues à l'article 52 du présent décret.
 
 Paragraphe 3 : en ce qui concerne les armes de 6e catégorie énumérées à l'article 2 :
 
-1° Aux fabricants et commerçants qui ont effectué la déclaration prévue à l'article 6 ;
+1° Aux fabricants et commerçants ayant satisfait, selon le cas, aux prescriptions de l'article 6, de l'article 7 ou de l'article 8 ci-dessus.
 
 2° Aux autres personnes, pour les détenir à titre personnel ou professionnel.
 

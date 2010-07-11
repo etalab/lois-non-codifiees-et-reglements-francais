@@ -8,7 +8,7 @@ L'autorisation ne peut porter que sur la détention d'un seul exemplaire d'une a
 
 3° Chaque acquisition ou cession d'armes, d'éléments d'arme ou de munitions mentionnés au 1° ci-dessus est déclarée au préfet compétent par l'expert à l'aide de l'imprimé conforme au modèle fixé par l'arrêté prévu à l'article 121 ci-dessous.
 
-4° Les préfets sont chargés du contrôle de ce registre et de son collationnement. A cette fin, ils font procéder régulièrement à l'inventaire des armes, éléments d'arme et munitions. Les experts agréés sont tenus, aux fins de contrôle, de donner accès aux locaux où sont stockées les armes et de présenter ce registre et toute pièce justificative aux agents habilités par l'article 36 du décret du 18 avril 1939 susvisé.
+4° Les préfets sont chargés du contrôle de ce registre et de son collationnement. A cette fin, ils font procéder régulièrement à l'inventaire des armes, éléments d'arme et munitions. Les experts agréés sont tenus, aux fins de contrôle, de donner accès aux locaux où sont stockées les armes et de présenter ce registre et toute pièce justificative aux agents habilités par l'article L. 2339-1 du code de la défense.
 
 5° L'expert agréé et autorisé fournit l'attestation de sa réinscription sur les listes de la Cour de cassation ou d'une cour d'appel dans le mois qui suit la date de cette réinscription.
 

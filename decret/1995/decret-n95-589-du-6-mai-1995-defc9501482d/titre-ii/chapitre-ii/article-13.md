@@ -6,6 +6,6 @@ Les autorisations indiquent :
 
 2° Les lieux d'exercice de la profession ou d'exécution des fabrications ou du commerce.
 
-3° Les matériels dont la fabrication ou le commerce sont autorisés.
+3° Les matériels de guerre, armes, munitions et leurs éléments classés en 1re, 2e, 3e et 4e catégorie, dont la fabrication ou le commerce sont autorisés.
 
 4° La durée de validité. Celle-ci n'excède pas cinq ans, mais l'autorisation peut être renouvelée, sous les mêmes conditions, dans la même limite, à la fin de chaque période.

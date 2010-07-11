@@ -8,19 +8,25 @@ Lorsqu'il se livre au commerce de détail, le commerçant doit exercer son activ
 
 a) Des manifestations commerciales au sens de l'article L. 762-2 du code de commerce peuvent être organisées dans les conditions prévues par cette ordonnance et ses textes d'application.
 
-b) Sans préjudice de l'application éventuelle des dispositions de la loi du 30 décembre 1906 susvisée, des ventes au détail hors d'un local fixe et permanent peuvent être autorisées à l'occasion de manifestations autres que celles définies par l'article L. 740-2 du code de commerce par le préfet du département du lieu où elle se tient.
+b) Sans préjudice de l'application éventuelle des dispositions de l'article L. 310-2 du code de commerce, des ventes au détail hors d'un local fixe et permanent peuvent être autorisées à l'occasion de manifestations autres que celles définies par l'article L. 762-2 du code de commerce par le préfet du département du lieu où elle se tient.
 
-Seules peuvent être autorisées à y vendre des armes et des éléments d'arme sous quelque forme que ce soit les personnes titulaires de l'autorisation ou de la déclaration visées à l'article 6 ci-dessus.
+Seules peuvent être autorisées à y vendre des armes, des éléments d'arme et des munitions des 1re, 2e, 3e, 4e, 5e ou 7e catégorie ainsi que des armes de 6e catégorie énumérées à l'article 2 du présent décret, sous quelque forme que ce soit, les personnes titulaires :
 
-Les organisateurs de salons ou de manifestations publiques où sont présentés ou vendus des armes et des éléments d'arme sont tenus de vérifier que les exposants possèdent l'autorisation ou ont fait la déclaration visée à l'article 6 ci-dessus.
+- soit de l'autorisation mentionnée à l'article 7 ci-dessus ;
 
-3° Pour procéder à des ventes aux enchères publiques, les officiers ministériels habilités doivent avoir fait la déclaration visée à l'article 6 ci-dessus. Ils doivent en outre pour la vente publique des armes et des éléments d'arme des 1re et 4e catégorie demander l'autorisation au ministre de la défense au moins dix jours avant la date de la vente. L'absence de réponse de l'administration dans les délais vaut autorisation.
+- soit de l'autorisation d'un local de vente au détail délivrée dans les conditions prévues à l'article 6 ci-dessus ;
+
+- soit d'une autorisation spéciale délivrée par le préfet attestant que les conditions de la vente des armes, des éléments d'arme et des munitions ne présente pas de risque pour l'ordre et la sécurité publics.
+
+Les organisateurs de ces manifestations commerciales où sont présentés ou vendus des armes, des éléments d'arme et des munitions sont tenus de vérifier que les exposants possèdent l'une de ces autorisations.
+
+3° Pour procéder à des ventes aux enchères publiques, les organisateurs de la vente doivent être titulaires d'une autorisation. Pour la vente publique des armes et des éléments d'arme des 1re et 4e catégories, l'autorisation est demandée au ministre de la défense au moins dix jours avant la date de la vente. L'absence de réponse de l'administration dans les délais vaut autorisation. Pour la vente publique des armes et des éléments d'arme des 5e et 7e catégories et des armes de la 6e catégorie énumérées à l'article 2, l'autorisation est demandée au préfet du département dont relève le lieu d'exercice de la profession.
 
 Lorsqu'ils vendent de manière habituelle des armes de ces catégories, le ministre de la défense peut leur donner l'autorisation visée au dernier alinéa de l'article 6 ci-dessus.
 
 Les ventes d'armes et d'éléments d'arme de 1re et 4e catégorie doivent faire l'objet d'un compte rendu annuel d'activités à adresser au ministre de la défense. Cette disposition ne s'applique pas aux agents du service des domaines.
 
-Seules peuvent enchérir pour les matériels des quatre premières catégories les personnes titulaires d'une autorisation ou ayant fait la déclaration prévue à l'article 6 ci-dessus.
+Seules peuvent enchérir pour les matériels des quatre premières catégories les personnes titulaires d'une autorisation.
 
 Les officiers ministériels devront se faire présenter ces documents avant la vente.
 
