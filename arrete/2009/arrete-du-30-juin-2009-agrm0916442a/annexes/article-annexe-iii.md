@@ -4,6 +4,8 @@ LISTE DES NAVIRES RETENUS POUR BÉNÉFICIER D'UNE AIDE À LA SORTIE DE FLOTTE
 
 AU TITRE DU RÈGLEMENT (CE) N° 744 / 2008 DU CONSEIL
 
+Programme d'adaptation de la flotte de Bretagne
+
 <table>
 <tbody>
 <tr>
@@ -160,73 +162,30 @@ AU TITRE DU RÈGLEMENT (CE) N° 744 / 2008 DU CONSEIL
 </tbody>
 </table>
 
-BARÈME DE CALCUL DU MONTANT DE L'AIDE À LA CESSATION DÉFINITIVE D'ACTIVITÉ
-
-Montant de l'aide = part indexée × GT + part fixe
+Programme d'adaptation de la flotte de Vendée
 
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center">TONNAGE (GT UMS) </p>
-</td>
-<td colspan="2">
-<p align="center">PRIME (EN EUROS) </p>
-</td>
+<th>
+<br/>NOM <br/>
+</th>
+<th>
+<br/>QUARTIER <br/>
+</th>
+<th>
+<br/>IMMATRICULATION <br/>
+</th>
 </tr>
 <tr>
-<td>
-<p align="center">
-<b/>
-</p>
+<td align="center">
+<br/>Baccara <br/>
 </td>
-<td>
-<p align="center">PART INDEXÉE </p>
+<td align="center">
+<br/>BA <br/>
 </td>
-<td>
-<p align="center">PART FIXE </p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">
-<br/>0&lt; &gt;5 </p>
-</td>
-<td>
-<p align="center">
-<br/>0 € </p>
-</td>
-<td>
-<p align="center">
-<br/>57 000 € </p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">
-<br/>5&lt; &gt;20 </p>
-</td>
-<td>
-<p align="center">
-<br/>11 007 € </p>
-</td>
-<td>
-<p align="center">
-<br/>1 965 € </p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">
-<br/>20&lt; &gt;300 </p>
-</td>
-<td>
-<p align="center">
-<br/>2 930 € </p>
-</td>
-<td>
-<p align="center">
-<br/>163 505 €</p>
+<td align="center">
+<br/>318 346 <br/>
 </td>
 </tr>
 </tbody>

@@ -158,20 +158,6 @@ Programme d'adaptation de la flotte de Bretagne
 <br/>545 762 </p>
 </td>
 </tr>
-<tr>
-<td>
-<p align="center">
-<br/>Izoard </p>
-</td>
-<td>
-<p align="center">
-<br/>BA </p>
-</td>
-<td>
-<p align="center">
-<br/>545 165 </p>
-</td>
-</tr>
 </tbody>
 </table>
 
@@ -300,6 +286,17 @@ Programme d'adaptation de la flotte de Vendée
 <td>
 <p align="center">
 <br/>715 031 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Izoard</p>
+</td>
+<td>
+<p align="center">BA</p>
+</td>
+<td>
+<p align="center">545 165</p>
 </td>
 </tr>
 </tbody>
