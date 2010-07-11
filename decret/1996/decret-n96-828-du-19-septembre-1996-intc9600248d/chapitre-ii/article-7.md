@@ -4,9 +4,9 @@ Il est créé un conseil de l'équipement et de la logistique ainsi composé :
 
 Six représentants de la direction générale de la police nationale désignés par le ministre de l'intérieur ;
 
-Six représentants de la direction générale de la gendarmerie nationale désignés par le ministre de la défense.
+Six représentants de la direction générale de la gendarmerie nationale désignés par le ministre de l'intérieur .
 
-Le président, désigné par arrêté conjoint du ministre de l'intérieur et du ministre de la défense, est choisi alternativement parmi les représentants de la direction générale de la police nationale et ceux de la direction générale de la gendarmerie nationale.
+Le président, désigné par arrêté du ministre de l'intérieur, est choisi alternativement parmi les représentants de la direction générale de la police nationale et ceux de la direction générale de la gendarmerie nationale.
 
 Le secrétariat est assuré par la direction générale dont le président relève.
 
