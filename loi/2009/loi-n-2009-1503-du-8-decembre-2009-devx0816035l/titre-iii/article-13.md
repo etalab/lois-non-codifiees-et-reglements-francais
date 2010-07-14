@@ -1,6 +1,6 @@
 # Article 13
 
-Le président de l'Autorité de régulation des activités ferroviaires exerce cette fonction à plein temps. Sa fonction est incompatible avec toute activité professionnelle, tout mandat électif communal, départemental, régional, national ou européen, avec tout emploi public et toute détention, directe ou indirecte, d'intérêts dans une entreprise du secteur du transport ferroviaire.
+Le président de l'Autorité de régulation des activités ferroviaires exerce cette fonction à plein temps. Sa fonction est incompatible avec toute activité professionnelle, tout mandat électif  départemental, régional, national ou européen, avec tout emploi public et toute détention, directe ou indirecte, d'intérêts dans une entreprise du secteur du transport ferroviaire.
 
 Les fonctions des autres membres du collège sont incompatibles avec tout mandat électif départemental, régional, national ou européen et toute détention, directe ou indirecte, d'intérêts dans une entreprise du secteur du transport ferroviaire.
 

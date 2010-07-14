@@ -1,8 +1,8 @@
 # Article 3
 
-Les cessions visées à l'article L. 89-5 du code du domaine de l'Etat font l'objet d'une aide exceptionnelle de l'Etat lorsque les personnes qui demandent à en bénéficier remplissent des conditions de ressources, d'ancienneté d'occupation et de rapport entre le revenu et le nombre des membres du foyer fiscal, définies par décret en Conseil d'Etat.
+Les cessions visées à l'article L. 5112-6 du code général de la propriété des personnes publiques font l'objet d'une aide exceptionnelle de l'Etat lorsque les constructions à usage d'habitation mentionnées par cet article sont occupées à titre principal et que les personnes qui demandent à en bénéficier remplissent des conditions de ressources, d'ancienneté d'occupation et de rapport entre le revenu et le nombre des membres du foyer fiscal, définies par décret en Conseil d'Etat.
 
-En cas de mutation totale ou partielle à titre onéreux du bien acquis dans les conditions prévues à l'article L. 89-5 du code du domaine de l'Etat, réalisée dans un délai de dix ans à compter de la date de l'acte ayant donné lieu à l'attribution de l'aide prévue ci-dessus, le montant de l'aide est reversé à l'Etat.
+En cas de mutation totale ou partielle à titre onéreux du bien acquis dans les conditions prévues à l'article L. 5112-6 du code général de la propriété des personnes publiques, réalisée dans un délai de dix ans à compter de la date de l'acte ayant donné lieu à l'attribution de l'aide prévue ci-dessus, le montant de l'aide est reversé à l'Etat.
 
 Pour garantir le reversement de l'aide mentionnée aux alinéas précédents, le Trésor possède sur le bien acquis une hypothèque légale.
 

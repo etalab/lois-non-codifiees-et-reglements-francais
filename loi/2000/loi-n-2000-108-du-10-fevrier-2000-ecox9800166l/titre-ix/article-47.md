@@ -15,3 +15,5 @@ La liste des données à fournir est fixée par arrêté du ministre chargé de 
 Les agents chargés de recueillir et exploiter ces données sont tenus au secret professionnel.
 
 Les informations recueillies en application du présent article, lorsqu'elles sont protégées par un secret visé à l'article 6 de la loi n° 78-753 du 17 juillet 1978 précitée, ne peuvent être divulguées.
+
+Toutefois, le ministre chargé de l'énergie peut décider de rendre publiques les données relatives à la puissance raccordée aux réseaux publics de transport et de distribution d'électricité des installations de production d'électricité pour lesquelles a été conclu un contrat prévu à l'article 10.

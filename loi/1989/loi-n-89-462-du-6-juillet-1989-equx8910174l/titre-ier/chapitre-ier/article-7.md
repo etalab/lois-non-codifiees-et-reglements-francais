@@ -10,7 +10,7 @@ c) De répondre des dégradations et pertes qui surviennent pendant la durée du
 
 d) De prendre à sa charge l'entretien courant du logement, des équipements mentionnés au contrat et les menues réparations ainsi que l'ensemble des réparations locatives définies par décret en Conseil d'Etat, sauf si elles sont occasionnées par vétusté, malfaçon, vice de construction, cas fortuit ou force majeure ;
 
-e) De laisser exécuter dans les lieux loués les travaux d'amélioration des parties communes ou des parties privatives du même immeuble, ainsi que les travaux nécessaires au maintien en état et à l'entretien normal des locaux loués ; les dispositions des deuxième et troisième alinéas de l'article 1724 du code civil sont applicables à ces travaux ;
+e) De laisser exécuter dans les lieux loués les travaux d'amélioration des parties communes ou des parties privatives du même immeuble, les travaux nécessaires au maintien en état, à l'entretien normal des locaux loués, ainsi que les travaux d'amélioration de la performance énergétique à réaliser dans ces locaux ; les dispositions des deuxième et troisième alinéas de l'article 1724 du code civil sont applicables à ces travaux ;
 
 f) De ne pas transformer les locaux et équipements loués sans l'accord écrit du propriétaire ; à défaut de cet accord, ce dernier peut exiger du locataire, à son départ des lieux, leur remise en l'état ou conserver à son bénéfice les transformations effectuées sans que le locataire puisse réclamer une indemnisation des frais engagés ; le bailleur a toutefois la faculté d'exiger aux frais du locataire la remise immédiate des lieux en l'état lorsque les transformations mettent en péril le bon fonctionnement des équipements ou la sécurité du local ;
 

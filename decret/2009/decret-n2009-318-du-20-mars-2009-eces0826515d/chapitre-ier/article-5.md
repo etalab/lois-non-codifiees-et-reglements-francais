@@ -12,7 +12,7 @@ Sont membres du Conseil national de l'information statistique et participent à 
 
 5° Un représentant de l'Assemblée des chambres françaises de commerce et d'industrie, un représentant de l'Assemblée permanente des chambres de métiers et un représentant de l'Assemblée permanente des chambres d'agriculture désignés par les établissements qu'ils représentent ;
 
-6° Un conseiller régional désigné par l'Association des régions de France, un conseiller général désigné par l'Assemblée des départements de France, un maire et un président d'établissement public de coopération intercommunale désignés par l'Association des maires de France et un membre d'un conseil économique et social régional désigné par l'Assemblée des conseils économiques et sociaux régionaux de France ;
+6° Un conseiller régional désigné par l'Association des régions de France, un conseiller général désigné par l'Assemblée des départements de France, un maire et un président d'établissement public de coopération intercommunale désignés par l'Association des maires de France et un membre d'un conseil économique, social et environnemental régional désigné par l'Assemblée des    conseils économiques, sociaux et environnementaux régionaux de France ;
 
 7° Deux chercheurs en sciences économiques ou sociales, nommés par arrêté du ministre chargé de l'économie sur proposition du conseil scientifique du comité de concertation pour les données en sciences humaines et sociales institué par le décret n° 2001-139 du 12 février 2001 ;
 

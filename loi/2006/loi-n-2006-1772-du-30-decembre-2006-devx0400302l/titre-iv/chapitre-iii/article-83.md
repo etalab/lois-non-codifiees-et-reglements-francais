@@ -1,10 +1,10 @@
 # Article 83
 
-I.-Les orientations prioritaires des programmes pluriannuels d'intervention des agences de l'eau pour les années 2007 à 2012 sont les suivantes :
+I. - Les orientations prioritaires des programmes pluriannuels d'intervention des agences de l'eau pour les années 2007 à 2012 sont les suivantes :
 
-1° Contribuer à la réalisation des objectifs du schéma mentionné à l'article L. 212-1 du code de l'environnement, en application de la directive 2000 / 60 / CE du Parlement européen et du Conseil, du 23 octobre 2000, établissant un cadre pour une politique communautaire dans le domaine de l'eau ;
+1° Contribuer à la réalisation des objectifs du schéma mentionné à l'article L. 212-1 du code de l'environnement, en application de la directive 2000/60/CE du Parlement européen et du Conseil, du 23 octobre 2000, établissant un cadre pour une politique communautaire dans le domaine de l'eau ;
 
-2° Contribuer à la réalisation des objectifs du schéma mentionné à l'article L. 212-3 du même code ;
+2° Contribuer à la réalisation des objectifs du schéma mentionné à l'article L. 212-3 du même code,  notamment en favorisant la création de nouveaux établissements publics  territoriaux de bassin ainsi que leurs actions ;
 
 3° Contribuer à l'épuration des eaux usées, au traitement des boues, à la réduction des rejets industriels, à l'élimination des rejets de substances dangereuses et à la maîtrise des pollutions des eaux de toutes origines ;
 
@@ -14,7 +14,7 @@ I.-Les orientations prioritaires des programmes pluriannuels d'intervention des 
 
 6° Créer les conditions d'un développement durable des activités économiques utilisatrices d'eau en favorisant notamment la lutte contre les fuites et les économies d'eau, y compris par une action programmée sur les réseaux et les recyclages, ainsi que l'utilisation de ressources respectant un équilibre entre volumes consommés et ressources disponibles, et la mobilisation de ressources nouvelles dans la mesure où l'impact global au regard des intérêts mentionnés à l'article L. 211-1 du code de l'environnement est positif à l'échelle du bassin versant ;
 
-7° Mener et favoriser des actions de préservation, de restauration, d'entretien et d'amélioration de la gestion des milieux aquatiques et des zones humides ;
+7° Mener et favoriser des actions de préservation, de restauration, d'entretien, d'acquisition et d'amélioration de la gestion des milieux aquatiques et des zones humides ;
 
 8° Favoriser les usages sportifs et de loisirs des milieux aquatiques, dans le respect des principes prévus à l'article L. 211-1 du code de l'environnement ;
 

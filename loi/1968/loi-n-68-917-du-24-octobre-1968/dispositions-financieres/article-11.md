@@ -4,4 +4,4 @@ Pour faire face aux charges résultant de l'application des articles 1er et 6 ci
 
 Un décret en Conseil d'Etat fixe les conditions d'assiette et les modalités d'application et de recouvrement de ces droits ainsi que les formes de l'enquête préalable à leur institution.
 
-Ces droits sont institués, sur proposition du conseil d'administration, par un arrêté du ministre de l'équipement et du logement, pris après enquête ; ils peuvent être modifiés dans les mêmes formes.
+Ces droits sont institués, après enquête, par délibération du conseil d'administration ; ils peuvent être modifiés dans les mêmes formes.

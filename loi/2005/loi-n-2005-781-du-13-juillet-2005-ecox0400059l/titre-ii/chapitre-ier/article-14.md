@@ -1,16 +1,26 @@
 # Article 14
 
-I. - Les personnes morales qui vendent de l'électricité, du gaz, de la chaleur ou du froid aux consommateurs finals et dont les ventes annuelles excèdent un seuil ainsi que les personnes physiques et morales qui vendent du fioul domestique aux consommateurs finals sont soumises à des obligations d'économies d'énergie. Elles peuvent se libérer de ces obligations soit en réalisant directement ou indirectement des économies d'énergie, soit en acquérant des certificats d'économies d'énergie.
+Sont soumises à des obligations  d'économies d'énergie :
 
-L'autorité administrative répartit le montant d'économies d'énergie à réaliser, exprimé en kilowattheures d'énergie finale économisés, entre les personnes mentionnées à l'alinéa précédent. Elle notifie à chacune d'entre elles le montant de ses obligations et la période au titre de laquelle elles lui sont imposées.
+1° Les personnes morales  qui mettent à la consommation des carburants automobiles et dont les  ventes annuelles sont supérieures à un seuil défini par décret en  Conseil d'Etat. Au terme d'une première période de trois ans, le  Gouvernement présente au Parlement un rapport dressant le bilan de  l'extension des obligations d'économies d'énergie aux personnes morales  qui mettent à la consommation des carburants automobiles ;
+
+2° Les personnes qui vendent de l'électricité, du gaz, du  fioul domestique, de la chaleur ou du froid aux consommateurs finals et  dont les ventes annuelles sont supérieures à un seuil défini par décret  en Conseil d'Etat.
+
+Les ventes annuelles de fioul  domestique des personnes morales exclues par le seuil fixé en  application du 2° doivent représenter moins de 5 % du marché. Les  obligations des personnes morales dont les ventes annuelles de fioul  domestique dépassent le seuil fixé en application du 2° ne portent que  sur les ventes supérieures à ce seuil.
+
+Les  personnes mentionnées aux 1° et 2° peuvent se libérer de ces obligations  soit en réalisant, directement ou indirectement, des économies  d'énergie, soit en acquérant des certificats d'économies d'énergie.
+
+Une part de ces économies d'énergie doit être réalisée  au bénéfice des ménages en situation de précarité énergétique.
+
+La définition des montants d'économies d'énergie à  réaliser prend en compte les certificats d'économies d'énergie obtenus  par la contribution à des programmes mentionnés au deuxième alinéa de  l'article 15.
 
 II. - A l'issue de la période considérée, les personnes mentionnées au I justifient de l'accomplissement de leurs obligations en produisant des certificats d'économies d'énergie obtenus ou acquis dans les conditions prévues à l'article 15.
 
-Afin de se libérer de leurs obligations, les distributeurs de fioul domestique sont autorisés à se regrouper dans une structure pour mettre en place des actions collectives visant à la réalisation d'économies d'énergie ou pour acquérir des certificats d'économies d'énergie.
+Afin de se libérer de leurs obligations,  les personnes mentionnées aux 1° et 2° du I  sont autorisées à se regrouper dans une structure pour mettre en place des actions collectives visant à la réalisation d'économies d'énergie ou pour acquérir des certificats d'économies d'énergie.
 
-III. - Les personnes qui n'ont pas produit les certificats d'économies d'énergie nécessaires sont mises en demeure d'en acquérir. A cette fin, elles sont tenues de proposer d'acheter des certificats inscrits au registre national des certificats d'économies d'énergie mentionné à l'article 16 à un prix qui ne peut excéder le montant du versement prévu au IV.
+III. - Les personnes qui n'ont pas produit les certificats d'économies d'énergie nécessaires sont mises en demeure d'en acquérir.
 
-IV. - Les personnes qui ne respectent pas les prescriptions de la mise en demeure dans le délai imparti sont tenues de se libérer par un versement au Trésor public. Ce versement est calculé sur la base d'une pénalité maximale de 0,02 euros par kilowattheure. Son montant est doublé, sauf pendant la première période triennale d'application du dispositif, si les personnes n'apportent pas la preuve qu'elles n'ont pu acquérir les certificats manquants.
+IV. - Les personnes qui ne respectent pas les prescriptions de la mise en demeure dans le délai imparti sont tenues de se libérer par un versement au Trésor public. Ce versement est calculé sur la base d'une pénalité maximale de 0,02 euros par kilowattheure.
 
 Les titres de recettes sont émis par l'autorité administrative et sont recouvrés comme en matière de créances étrangères à l'impôt et au domaine. Une pénalité de 10 % du montant dû est infligée pour chaque semestre de retard.
 
@@ -32,4 +42,4 @@ Le ministre ne peut être saisi de faits remontant à plus de trois ans s'il n'a
 
 Les décisions sont motivées, notifiées à l'intéressé et publiées au Journal officiel. Elles peuvent faire l'objet d'un recours de pleine juridiction et d'une demande de sursis à exécution devant le Conseil d'Etat. Les demandes de sursis ont un caractère suspensif.
 
-VI. - Un décret en Conseil d'Etat fixe les conditions d'application du présent article, en particulier le seuil des ventes annuelles visé au I, l'objectif national d'économies d'énergie et sa période de réalisation ainsi que le contenu, les conditions et les modalités de fixation des obligations d'économie d'énergie, en fonction du type d'énergie considéré, des catégories de clients et du volume de l'activité.
+VI. ―  Un décret en Conseil d'Etat fixe les conditions d'application du  présent article, en particulier les seuils mentionnés au I, le contenu,  la nature et la quote-part maximale allouée aux programmes  d'information, de formation et d'innovation, les conditions et les  modalités de fixation des obligations d'économies d'énergie, en fonction  du type d'énergie considéré, des catégories de clients et du volume de  l'activité.

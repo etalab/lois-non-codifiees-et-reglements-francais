@@ -6,6 +6,8 @@ Ces contrats et protocoles sont transmis à la Commission de régulation de l'é
 
 Un droit d'accès aux mêmes ouvrages et installations est également garanti par les opérateurs qui les exploitent pour assurer l'exécution des contrats de transit de gaz naturel entre les grands réseaux de transport de gaz à haute pression au sein de l'Espace économique européen.
 
-Les opérateurs s'abstiennent de toute discrimination entre les utilisateurs ou les catégories d'utilisateurs.
+Les gestionnaires de réseaux visés au même  III de l'article L. 2224-31 du code général des  collectivités territoriales ont  un droit d'accès aux réseaux de distribution de gaz naturel dans des  conditions définies par décret.
 
-L'exercice du droit d'accès mentionné au premier alinéa ne peut faire obstacle à l'utilisation desdits ouvrages ou installations par l'opérateur qui les exploite afin d'accomplir les obligations de service public qui lui incombent.
+Les opérateurs s'abstiennent de toute discrimination entre les utilisateurs ou les catégories d'utilisateurs.   Les gestionnaires de réseaux visés au même  III constituent une catégorie particulière d'utilisateurs.
+
+L'exercice des droits d'accès définis par  le présent article ne peut faire obstacle à l'utilisation desdits ouvrages ou installations par l'opérateur qui les exploite afin d'accomplir les obligations de service public qui lui incombent.

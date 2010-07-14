@@ -6,7 +6,7 @@ Pour chaque port, la répartition des voies et des installations entre le résea
 
 La convention de répartition précise la description des voies et des points d'échange, les limites foncières et les limites de gestion et d'entretien.
 
-Les charges d'entretien et de gestion imputées à l'autorité portuaire du fait de cette répartition font l'objet d'une compensation. La compensation est déterminée forfaitairement en tenant compte du type des voies transférées, de leur longueur, des catégories d'équipements et accessoires qui s'y rattachent et des coûts correspondant à l'entretien et à la gestion de ces biens.
+Les charges d'entretien et de gestion imputées à l'autorité portuaire du fait de cette répartition font l'objet d'une compensation. La compensation est déterminée forfaitairement en tenant compte du type des voies transférées, de leur longueur, des catégories d'équipements et accessoires qui s'y rattachent et des coûts correspondant à l'entretien et à la gestion de ces biens. Cette compensation ne donne lieu à aucune perception d'impôts, de droits ou de taxes de quelque nature que ce soit.
 
 La convention de répartition fixe le montant total de la compensation et la fraction incombant respectivement à Réseau ferré de France et à la SNCF. Elle détermine également les conditions de partage entre l'autorité portuaire, Réseau ferré de France et la SNCF du coût de l'éventuelle remise en état de ces voies et de leurs équipements.
 

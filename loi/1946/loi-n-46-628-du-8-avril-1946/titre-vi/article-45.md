@@ -8,6 +8,8 @@ Le Conseil supérieur de l'énergie est consulté sur :
 
 Le Conseil supérieur de l'énergie peut émettre, à la demande du ministre chargé de l'énergie, des avis concernant la politique en matière d'électricité, de gaz et d'autres énergies fossiles, d'énergies renouvelables et d'économies d'énergie. Ces avis sont remis au Gouvernement.
 
+Un  comité de suivi des énergies renouvelables est institué au sein du  Conseil supérieur de l'énergie, afin d'évaluer la progression vers  l'objectif de 23 % d'énergies renouvelables dans la consommation  d'énergie finale en 2020.
+
 Le Conseil supérieur de l'énergie est composé :
 
 1° De membres du Parlement ;

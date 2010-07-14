@@ -24,7 +24,7 @@ Le délai dans lequel ces assemblées doivent formuler leur avis ;
 
 10° Les conditions dans lesquelles, soit dans les cas d'exploitation directe par l'Etat, les départements et les communes, soit dans les entreprises privées, devra être organisée la participation du personnel aux bénéfices et à la gestion dans le cadre de la loi du 26 avril 1917 ;
 
-11° Les mesures nécessaires pour assurer, en conformité de l'article 26, la prépondérance effective aux intérêts français dans l'administration des sociétés ;
+11° supprimé
 
 12° La forme et le fonctionnement des ententes que l'administration pourra imposer, sous sa direction, et, le cas échéant, avec son concours financier dans les conditions fixées par les articles 7 et 10 de la présente loi, aux divers concessionnaires ou permissionnaires établis sur les cours d'eau d'une même vallée ou d'un même bassin :
 

@@ -4,6 +4,7 @@
 - [Chapitre II : Des transports urbains de personnes.](chapitre-ii)
 - [Chapitre III : Du transport routier non-urbain de personnes.](chapitre-iii)
 - [Chapitre III bis : De la coopération entre les autorités organisatrices de transport.](chapitre-iii-bis)
+- [Chapitre III ter : Désignation d'une autorité organisatrice de transports unique et délimitation d'un périmètre unique de transports dans les départements et régions d'outre-mer](chapitre-iii-ter)
 - [Chapitre IV : Du transport routier de marchandises.](chapitre-iv)
 - [Chapitre V : Du transport fluvial.](chapitre-v)
 - [Chapitre VI : du transport aérien.](chapitre-vi)

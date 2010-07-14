@@ -14,7 +14,7 @@ d) Le président du conseil général ;
 
 e) Un maire proposé par le président de l'Association des maires ;
 
-f) Le président du conseil économique et social régional ;
+f) Le président du    conseil économique, social et environnemental régional ;
 
 g) Quatre représentants de l'Etat :
 

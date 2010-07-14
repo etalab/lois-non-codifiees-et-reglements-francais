@@ -6,4 +6,6 @@ Il assure l'égalité de traitement ; il garantit l'indépendance et l'impartial
 
 Le Conseil supérieur de l'audiovisuel contribue aux actions en faveur de la cohésion sociale et à la lutte contre les discriminations dans le domaine de la communication audiovisuelle. Il veille, notamment, auprès des éditeurs de services de communication audiovisuelle, compte tenu de la nature de leurs programmes, à ce que la programmation reflète la diversité de la société française et contribue notamment au rayonnement de la France d'outre-mer.  Il rend compte chaque année au Parlement des actions des éditeurs de services de télévision en matière de programmation reflétant la diversité de la société française et propose les mesures adaptées pour améliorer l'effectivité de cette diversité dans tous les genres de programmes.
 
+Le Conseil supérieur de l'audiovisuel veille à ce que le développement du secteur de la communication audiovisuelle s'accompagne d'un niveau élevé de protection de l'environnement et de la santé de la population.
+
 Le conseil peut adresser aux éditeurs et distributeurs de services de communication audiovisuelle des recommandations relatives au respect des principes énoncés dans la présente loi. Ces recommandations sont publiées au Journal officiel de la République française.

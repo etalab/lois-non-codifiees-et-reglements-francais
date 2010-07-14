@@ -4,6 +4,8 @@ I. - Sont reconnues comme fournisseurs les personnes installées sur le territoi
 
 La fourniture de gaz naturel consiste à alimenter les clients éligibles et non éligibles.
 
+La vente de biogaz dans le cadre de  l'obligation d'achat prévue au VI de l'article 7 n'est pas soumise à  l'autorisation mentionnée au premier alinéa.
+
 L'autorisation de fourniture précise les catégories de clients auxquels peut s'adresser le fournisseur.
 
 Elle est délivrée ou refusée en fonction :

@@ -4,7 +4,7 @@ La section des affaires sociales est compétente dans les domaines de la démogr
 
 La section du travail est compétente dans les domaines des systèmes de relations professionnelles, de la politique de l'emploi, de la promotion de et dans l'emploi, des conditions de travail et des droits des travailleurs salariés et non salariés, de la formation tout au long de la vie.
 
-La section des économies régionales et de l'aménagement du territoire est compétente dans les domaines de la décentralisation, du développement régional, des aspects régionaux de la planification, du développement local et de l'aménagement du territoire, des équipements collectifs, des modes de transports, des voies de communication et des télécommunications. Elle est en charge des relations avec les conseils économiques et sociaux régionaux.
+La section des économies régionales et de l'aménagement du territoire est compétente dans les domaines de la décentralisation, du développement régional, des aspects régionaux de la planification, du développement local et de l'aménagement du territoire, des équipements collectifs, des modes de transports, des voies de communication et des télécommunications. Elle est en charge des relations avec les    conseils économiques, sociaux et environnementaux régionaux.
 
 La section du cadre de vie est compétente dans les domaines de la protection de l'environnement, de l'habitat et de l'urbanisme, de la société de l'information, des activités culturelles, sportives, touristiques et de loisirs.
 

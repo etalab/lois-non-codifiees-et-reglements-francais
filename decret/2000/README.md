@@ -54,6 +54,7 @@
 - [Décret n°71-685 du 18 août 1971](decret-n71-685-du-18-aout-1971)
 - [Décret n°2000-682 du 19 juillet 2000 (EQUK0000631D)](decret-n2000-682-du-19-juillet-2000-equk0000631d)
 - [Décret n°2000-907 du 19 septembre 2000 (ATET0080024D)](decret-n2000-907-du-19-septembre-2000-atet0080024d)
+- [Décret n°2000-908 du 19 septembre 2000 (ATET0080025D)](decret-n2000-908-du-19-septembre-2000-atet0080025d)
 - [Décret n°2000-909 du 19 septembre 2000 (ATET0080026D)](decret-n2000-909-du-19-septembre-2000-atet0080026d)
 - [Décret n°2000-43 du 20 janvier 2000 (FPPA9910019D)](decret-n2000-43-du-20-janvier-2000-fppa9910019d)
 - [Décret n°2000-44 du 20 janvier 2000 (FPPA9910020D)](decret-n2000-44-du-20-janvier-2000-fppa9910020d)

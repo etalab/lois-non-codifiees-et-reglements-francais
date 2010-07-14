@@ -8,4 +8,4 @@ III. - Les articles 73, 84 et 85, les 2° et 4° à 9° de l'article 86 et l'art
 
 IV. - Les comités de bassin et les conseils d'administration des agences de l'eau, institués en application des articles L. 213-2 et L. 213-5 du code de l'environnement, dans leur rédaction en vigueur avant la promulgation de la présente loi, demeurent en fonction jusqu'au renouvellement de leurs membres dans les conditions prévues aux articles L. 213-8 et L. 213-8-1 du code de l'environnement issus de l'article 82 de la présente loi.
 
-V. - L'article L. 1331-11-1 du code de la santé publique issu du 12° de l'article 46 et l'article 47 de la présente loi entrent en vigueur le 1er janvier 2013.
+V. - L'article L. 1331-11-1 du code de la santé publique issu du 12° de l'article 46 et l'article 47 de la présente loi entrent en vigueur le 1er janvier 2011.

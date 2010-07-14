@@ -10,7 +10,7 @@ Les schémas de mise en valeur de la mer sont élaborés selon les modalités pr
 
 Ces schémas sont élaborés par l'Etat. Ils sont soumis pour avis aux communes, aux départements et aux régions intéressés.
 
-Les schémas de mise en valeur de la mer élaborés par l'Etat sont soumis à enquête publique suivant les modalités prévues par les articles L. 123-1 et suivants du code de l'environnement et approuvés par le préfet. Toutefois, ces schémas sont approuvés par décret en Conseil d'Etat en cas d'avis défavorable des deux tiers au moins des communes intéressées représentant plus de la moitié de la population totale de celles-ci ou de la moitié au moins des communes intéressées représentant les deux tiers de la population totale de celles-ci.
+Les schémas de mise en valeur de la mer élaborés par l'Etat sont soumis à enquête publique réalisée conformément au chapitre III du titre II du livre Ier du code de l'environnement et approuvés par le préfet. Toutefois, ces schémas sont approuvés par décret en Conseil d'Etat en cas d'avis défavorable des deux tiers au moins des communes intéressées représentant plus de la moitié de la population totale de celles-ci ou de la moitié au moins des communes intéressées représentant les deux tiers de la population totale de celles-ci.
 
 Ils font l'objet d'une révision dans un délai de dix ans à compter de leur approbation.
 

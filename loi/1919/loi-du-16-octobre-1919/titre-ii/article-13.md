@@ -1,8 +1,6 @@
 # Article 13
 
-Onze ans au moins avant l'expiration de la concession, le concessionnaire présente sa demande de renouvellement.
-
-Au plus tard cinq ans avant cette expiration, l'administration prend la décision soit de mettre fin définitivement à cette concession à son expiration normale, soit d'instituer une concession nouvelle à compter de l'expiration.
+Au plus tard trois ans avant l'expiration  de la concession, l'administration prend la décision soit de mettre  définitivement fin à la concession à la date normale de son expiration,  soit d'instituer une concession nouvelle à compter de l'expiration.
 
 A défaut par l'administration d'avoir, avant cette date, notifié sa décision au concessionnaire, la concession actuelle est prorogée aux conditions antérieures, mais pour une durée équivalente au dépassement.
 

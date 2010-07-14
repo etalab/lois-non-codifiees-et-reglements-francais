@@ -22,6 +22,8 @@ Elles portent sur :
 
 - l'efficacité énergétique ;
 
+- la valorisation du biogaz ;
+
 - le développement équilibré du territoire ;
 
 - la fourniture de gaz de dernier recours aux clients non domestiques assurant des missions d'intérêt général ;
