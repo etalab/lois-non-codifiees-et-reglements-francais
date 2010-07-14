@@ -7,4 +7,5 @@
 - [LOI n° 2010-751 du 5 juillet 2010 (BCFF0902558L)](loi-n-2010-751-du-5-juillet-2010-bcff0902558l)
 - [LOI n° 2010-768 du 9 juillet 2010 (JUSX0912931L)](loi-n-2010-768-du-9-juillet-2010-jusx0912931l)
 - [LOI n° 2010-769 du 9 juillet 2010 (JUSX1007012L)](loi-n-2010-769-du-9-juillet-2010-jusx1007012l)
+- [LOI n° 2010-788 du 12 juillet 2010 (DEVX0822225L)](loi-n-2010-788-du-12-juillet-2010-devx0822225l)
 - [LOI n°2010-241 du 10 mars 2010 (PRMX0925425L)](loi-n2010-241-du-10-mars-2010-prmx0925425l)

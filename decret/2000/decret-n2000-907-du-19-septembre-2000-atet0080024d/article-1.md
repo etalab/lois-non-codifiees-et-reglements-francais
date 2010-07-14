@@ -16,52 +16,52 @@ Le Conseil national de l'aménagement et du développement du territoire compren
 
 7. Le président du Conseil économique et social ou son représentant ;
 
-8. Quatre présidents de conseil économique et social régional, désignés sur proposition de l'Assemblée des conseils économiques et sociaux régionaux de France ;
+8. Quatre présidents de conseil économique, social et environnemental régional, désignés sur proposition de l'Assemblée des    conseils économiques, sociaux et environnementaux régionaux de France ;
 
 9. Trois représentants des organismes consulaires, désignés respectivement par l'Assemblée permanente des chambres d'agriculture, l'Assemblée des chambres françaises de commerce et d'industrie, l'Assemblée permanente des chambres de métiers et de l'artisanat ;
 
 10. Dix-sept représentants d'organisations syndicales et professionnelles ainsi désignés :
 
-- deux par la Confédération française démocratique du travail ;
+-deux par la Confédération française démocratique du travail ;
 
-- un par la Confédération française de l'encadrement ;
+-un par la Confédération française de l'encadrement ;
 
-- un par la Confédération française des travailleurs chrétiens ;
+-un par la Confédération française des travailleurs chrétiens ;
 
-- deux par la Confédération générale du travail ;
+-deux par la Confédération générale du travail ;
 
-- deux par la Confédération générale du travail-Force ouvrière ;
+-deux par la Confédération générale du travail-Force ouvrière ;
 
-- un par l'Union nationale des syndicats autonomes ;
+-un par l'Union nationale des syndicats autonomes ;
 
-- deux par le Mouvement des entreprises de France ;
+-deux par le Mouvement des entreprises de France ;
 
-- un par la Confédération générale des petites et moyennes entreprises ;
+-un par la Confédération générale des petites et moyennes entreprises ;
 
-- deux par la Fédération nationale des syndicats d'exploitants agricoles et le Centre national des jeunes agriculteurs ;
+-deux par la Fédération nationale des syndicats d'exploitants agricoles et le Centre national des jeunes agriculteurs ;
 
-- un par la Confédération paysanne ;
+-un par la Confédération paysanne ;
 
-- un par l'Union professionnelle artisanale ;
+-un par l'Union professionnelle artisanale ;
 
-- un par l'Union nationale des professions libérales ;
+-un par l'Union nationale des professions libérales ;
 
 11. Huit représentants d'activités associatives désignés par le Premier ministre à raison de :
 
-- un représentant sur proposition du ministre chargé de l'emploi ;
+-un représentant sur proposition du ministre chargé de l'emploi ;
 
-- un représentant sur proposition du ministre chargé de l'aménagement du territoire ;
+-un représentant sur proposition du ministre chargé de l'aménagement du territoire ;
 
-- un représentant sur proposition du ministre chargé de l'équipement ;
+-un représentant sur proposition du ministre chargé de l'équipement ;
 
-- un représentant sur proposition du ministre chargé de la culture ;
+-un représentant sur proposition du ministre chargé de la culture ;
 
-- un représentant sur proposition du ministre chargé de l'environnement ;
+-un représentant sur proposition du ministre chargé de l'environnement ;
 
-- un représentant sur proposition du ministre chargé des sports ;
+-un représentant sur proposition du ministre chargé des sports ;
 
-- un représentant sur proposition du ministre chargé de l'artisanat et du commerce ;
+-un représentant sur proposition du ministre chargé de l'artisanat et du commerce ;
 
-- un représentant sur proposition du ministre chargé du tourisme ;
+-un représentant sur proposition du ministre chargé du tourisme ;
 
 12. Deux personnalités désignées l'une en raison de sa compétence en matière d'aménagement du territoire sur proposition du ministre chargé de l'aménagement du territoire et l'autre sur proposition de la Fédération des parc naturels régionaux de France parmi les présidents de parc naturel régional.

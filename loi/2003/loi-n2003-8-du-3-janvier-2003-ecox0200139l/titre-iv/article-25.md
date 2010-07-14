@@ -1,6 +1,6 @@
 # Article 25
 
-I. - La construction et l'exploitation des canalisations de transport de gaz naturel sont soumises à autorisation délivrée après enquête publique par l'autorité administrative compétente.
+I. - La construction et l'exploitation des canalisations de transport de gaz naturel sont soumises à autorisation délivrée après enquête publique réalisée conformément au chapitre III du titre II du livre Ier du code de l'environnement par l'autorité administrative compétente.
 
 Un décret en Conseil d'Etat fixe les conditions dans lesquelles l'autorisation précitée peut être délivrée ou refusée et les cas où, en raison de la nature ou de l'importance limitée des travaux projetés, ces derniers peuvent être réalisés sans enquête publique.
 

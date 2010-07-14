@@ -1,0 +1,3 @@
+# Article 148
+
+Les parcs naturels régionaux ayant été classés pour une durée d'au plus dix ans dont le classement n'a pas été prorogé sur le fondement du troisième alinéa de l'article L. 333-1 du code de l'environnement dans sa rédaction issue de l'article 231 de la loi n° 2005-157 du 23 février 2005 relative au développement des territoires ruraux à la date d'entrée en vigueur de la présente loi bénéficient d'une prorogation de leur classement de deux ans, par décret, à la demande de la région sur proposition de l'organisme de gestion et sans qu'il soit besoin de procéder aux consultations préalables prévues à l'occasion du classement initial et de son renouvellement.
