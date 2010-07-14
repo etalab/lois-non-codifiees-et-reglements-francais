@@ -323,7 +323,6 @@
 - [Arrêté du 10 septembre 2007 (DEVU0765272A)](arrete-du-10-septembre-2007-devu0765272a)
 - [Arrêté du 10 septembre 2007 (ECEI0760877A)](arrete-du-10-septembre-2007-ecei0760877a)
 - [Arrêté du 10 septembre 2007 (ECEI0760879A)](arrete-du-10-septembre-2007-ecei0760879a)
-- [Arrêté du 10 septembre 2007 (JUSG0764241A)](arrete-du-10-septembre-2007-jusg0764241a)
 - [Arrêté du 10 mai 2007 (MENH0752968A)](arrete-du-10-mai-2007-menh0752968a)
 - [Arrêté du 10 mai 2007 (SANS0753438A)](arrete-du-10-mai-2007-sans0753438a)
 - [Arrêté du 10 mai 2007 (SOCW0754376A)](arrete-du-10-mai-2007-socw0754376a)
