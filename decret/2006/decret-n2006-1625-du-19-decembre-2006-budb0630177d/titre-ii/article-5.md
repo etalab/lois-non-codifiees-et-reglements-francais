@@ -13,3 +13,9 @@ Il exerce toutes les compétences qui ne sont pas dévolues à une autre autorit
 4° Est l'ordonnateur des dépenses de l'établissement ;
 
 5° Conclut au nom de l'établissement les marchés publics et les contrats.
+
+En cas d'empêchement, le directeur est remplacé pendant  la durée de cet empêchement, et dans la limite de la durée du mandat du  directeur tel que défini au premier alinéa.
+
+Le suppléant du directeur est nommé par arrêté  conjoint des ministres chargés de la tutelle.
+
+Le suppléant du directeur, pendant la durée de  l'empêchement du directeur, exerce toutes les compétences dévolues à ce  dernier et définies aux alinéas précédents.

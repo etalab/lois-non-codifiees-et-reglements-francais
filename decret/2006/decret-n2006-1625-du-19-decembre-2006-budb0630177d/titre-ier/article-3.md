@@ -4,7 +4,7 @@ Le conseil d'administration se réunit au moins deux fois par an sur convocation
 
 Le conseil d'administration ne peut valablement délibérer que si plus de la moitié des membres sont présents. Lorsqu'ils ne sont pas suppléés, les administrateurs peuvent donner délégation de vote à un autre membre du conseil d'administration. Dans ce cas, aucun membre ne peut recevoir plus d'une délégation. Ses délibérations sont adoptées à la majorité simple des membres présents. En cas de partage égal des voix au sein du conseil d'administration, la voix du président est prépondérante.
 
-Le directeur, l'agent comptable et l'autorité chargée du contrôle financier de l'établissement assistent avec voix consultative aux délibérations du conseil d'administration.
+Le directeur ou son  suppléant , l'agent comptable et l'autorité chargée du contrôle financier de l'établissement assistent avec voix consultative aux délibérations du conseil d'administration.
 
 Le conseil peut entendre toute personne dont il estime l'audition utile à son information.
 
