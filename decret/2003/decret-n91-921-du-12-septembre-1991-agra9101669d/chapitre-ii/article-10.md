@@ -19,7 +19,7 @@ Les fonctionnaires, appartenant aux corps ci-après, nommés à la 2e classe des
 <p align="center">Echelon</p>
 </td>
 <td width="310">
-<p align="center">Ancienneté conservée dans la limite de la durée de l'échelon</p>
+<p align="center">Ancienneté conservée dans la limite<br/>de la durée de l'échelon</p>
 </td>
 </tr>
 <tr>
@@ -71,7 +71,7 @@ Les fonctionnaires, appartenant aux corps ci-après, nommés à la 2e classe des
 <p>4e échelon</p>
 </td>
 <td valign="top" width="58">
-<p align="center">3e.</p>
+<p align="center">3e</p>
 </td>
 <td valign="top" width="310">
 <p>Ancienneté acquise.</p>
@@ -245,7 +245,7 @@ Les fonctionnaires, appartenant aux corps ci-après, nommés à la 2e classe des
 </tbody>
 </table>
 
-2° Personnels appartenant aux corps des ingénieurs des travaux relevant du ministre chargé de l'agriculture.
+2° Personnels appartenant au corps des ingénieurs de l'agriculture et de l'environnement.
 
 <table>
 <tbody>
@@ -262,12 +262,12 @@ Les fonctionnaires, appartenant aux corps ci-après, nommés à la 2e classe des
 <p align="center">Echelon</p>
 </td>
 <td width="312">
-<p align="center">Ancienneté conservée dans la limite de la durée de l'échelon</p>
+<p align="center">Ancienneté conservée dans la limite<br/>de la durée de l'échelon</p>
 </td>
 </tr>
 <tr>
 <td width="311">
-<p align="center">Ingénieurs des travaux</p>
+<p align="center">Ingénieurs de l'agriculture et de l'environnement </p>
 </td>
 <td width="58">
 <br/>
@@ -387,8 +387,15 @@ Les fonctionnaires, appartenant aux corps ci-après, nommés à la 2e classe des
 </td>
 </tr>
 <tr>
+<td>11e échelon</td>
+<td>
+<p align="center">9e</p>
+</td>
+<td>Ancienneté acquise.</td>
+</tr>
+<tr>
 <td width="311">
-<p align="center">Ingénieurs divisionnaires des travaux</p>
+<p align="center">Ingénieurs divisionnaires<br/>de l'agriculture et de l'environnement </p>
 </td>
 <td width="58">
 <br/>
