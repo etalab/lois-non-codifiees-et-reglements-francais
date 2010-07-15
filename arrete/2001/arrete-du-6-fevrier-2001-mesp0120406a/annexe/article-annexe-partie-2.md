@@ -225,7 +225,7 @@ LISTE DES SUBSTANCES QUI NE PEUVENT ENTRER DANS LA COMPOSITION DES PRODUITS COSM
 <p align="center">450</p>
 </td>
 <td valign="top" width="567">
-<p>Huile de verbena (Limita citrinurora Kunth.) (n° CAS 8024-12-2), en cas d'utilisation comme ingrédient de parfum.</p>
+<p>Huiles essentielles de verbena (Lippia citriodora Kunth.) et dérivés autres que l'absolue (n° CAS 8024-12-2), en cas d'utilisation comme ingrédient de parfum. </p>
 </td>
 </tr>
 <tr>

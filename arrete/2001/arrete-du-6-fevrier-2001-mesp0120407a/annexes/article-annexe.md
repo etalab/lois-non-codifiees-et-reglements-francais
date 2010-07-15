@@ -316,8 +316,6 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <td>
 <p align="center">a) Vous pouvez consulter le cliché dans le JO </p>
 <p>n° 86 du 13 / 04 / 2010 texte numéro 17 </p>
-<br/>
-<br/>
 <p>Les colorants capillaires peuvent provoquer des réactions allergiques sévères. </p>
 <p>Lire et suivre les instructions. </p>
 <p>Ce produit n'est pas destiné à être utilisé sur les personnes de moins de seize ans. </p>
@@ -326,7 +324,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <p>- vous présentez une éruption cutanée sur le visage ou si votre cuir chevelu est sensible, irrité ou abîmé ; </p>
 <p>- vous avez déjà fait une réaction après avoir coloré vos cheveux ; </p>
 <p>- vous avez fait par le passé une réaction à un tatouage temporaire noir à base de henné.</p>
-<p> Contient des diaminobenzènes. Ne pas employer pour la coloration des cils et des sourcils.</p>
+<p>Contient des diaminobenzènes. Ne pas employer pour la coloration des cils et des sourcils.</p>
 </td>
 </tr>
 <tr>
@@ -352,8 +350,6 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <td>
 <p align="center">b) Réservé aux professionnels. Contient des diaminobenzènes. Vous pouvez consulter le cliché dans le JO </p>
 <p>n° 86 du 13 / 04 / 2010 texte numéro 17 </p>
-<br/>
-<br/>
 <p>Les colorants capillaires peuvent provoquer des réactions allergiques sévères. </p>
 <p>Lire et suivre les instructions. </p>
 <p>Ce produit n'est pas destiné à être utilisé sur les personnes de moins de seize ans. </p>
@@ -362,7 +358,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <p>- vous présentez une éruption cutanée sur le visage ou si votre cuir chevelu est sensible, irrité ou abîmé ; </p>
 <p>- vous avez déjà fait une réaction après avoir coloré vos cheveux ; </p>
 <p>- vous avez fait par le passé une réaction à un tatouage temporaire noir à base de henné.</p>
-<p> Porter des gants appropriés.</p>
+<p>Porter des gants appropriés.</p>
 </td>
 </tr>
 <tr>
@@ -387,8 +383,6 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <br/>
 </td>
 <td>a) Vous pouvez consulter le cliché dans le JO <p>n° 86 du 13 / 04 / 2010 texte numéro 17 </p>
-<br/>
-<br/>
 <p>Les colorants capillaires peuvent provoquer des réactions allergiques sévères. </p>
 <p>Lire et suivre les instructions. </p>
 <p>Ce produit n'est pas destiné à être utilisé sur les personnes de moins de seize ans. </p>
@@ -397,12 +391,10 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <p>- vous présentez une éruption cutanée sur le visage ou si votre cuir chevelu est sensible, irrité ou abîmé ; </p>
 <p>- vous avez déjà fait une réaction après avoir coloré vos cheveux ; </p>
 <p>- vous avez fait par le passé une réaction à un tatouage temporaire noir à base de henné.</p>
-<p> Contient des diaminobenzènes. Ne pas employer pour la coloration des cils et des sourcils.</p>
+<p>Contient des diaminobenzènes. Ne pas employer pour la coloration des cils et des sourcils.</p>
 <p>Le ratio du mélange doit être imprimé sur l'étiquetage. </p>
 <p>b) Réservé aux professionnels. Contient des diaminobenzènes. Vous pouvez consulter le cliché dans le JO </p>
 <p>n° 86 du 13 / 04 / 2010 texte numéro 17 </p>
-<br/>
-<br/>
 <p>Les colorants capillaires peuvent provoquer des réactions allergiques sévères. </p>
 <p>Lire et suivre les instructions. </p>
 <p>Ce produit n'est pas destiné à être utilisé sur les personnes de moins de seize ans. </p>
@@ -411,7 +403,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <p>- vous présentez une éruption cutanée sur le visage ou si votre cuir chevelu est sensible, irrité ou abîmé ; </p>
 <p>- vous avez déjà fait une réaction après avoir coloré vos cheveux ; </p>
 <p>- vous avez fait par le passé une réaction à un tatouage temporaire noir à base de henné.</p>
-<p> Porter des gants appropriés.</p>
+<p>Porter des gants appropriés.</p>
 <p>Le ratio du mélange doit être imprimé sur l'étiquetage. </p>
 <br/>
 </td>
@@ -435,12 +427,8 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <p align="center">a) </p>
-<br/>
-<br/>
 <p>Vous pouvez consulter le cliché dans le JO </p>
 <p>n° 86 du 13 / 04 / 2010 texte numéro 17 </p>
-<br/>
-<br/>
 <p>Les colorants capillaires peuvent provoquer des réactions allergiques sévères. </p>
 <p>Lire et suivre les instructions. </p>
 <p>Ce produit n'est pas destiné à être utilisé sur les personnes de moins de seize ans. </p>
@@ -451,12 +439,8 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <p>- vous avez fait par le passé une réaction à un tatouage temporaire noir à base de henné. </p>
 <p>Contient des phénylènediamines (toluènediamines). Ne pas utiliser pour teindre les cils ou les sourcils ; </p>
 <p>b) Réservé aux professionnels. </p>
-<br/>
-<br/>
 <p>Vous pouvez consulter le cliché dans le JO </p>
 <p>n° 86 du 13 / 04 / 2010 texte numéro 17 </p>
-<br/>
-<br/>
 <p>Les colorants capillaires peuvent provoquer des réactions allergiques sévères. </p>
 <p>Lire et suivre les instructions. </p>
 <p>Ce produit n'est pas destiné à être utilisé sur les personnes de moins de seize ans. </p>
@@ -466,8 +450,6 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <p>- vous avez déjà fait une réaction après avoir coloré vos cheveux ; </p>
 <p>- vous avez fait par le passé une réaction à un tatouage temporaire noir à base de henné. </p>
 <p>Contient des phénylènediamines (toluènediamines). Porter des gants adéquats.</p>
-<br/>
-<br/>
 </td>
 </tr>
 <tr>
@@ -490,12 +472,8 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <p>a) </p>
-<br/>
-<br/>
 <p>Vous pouvez consulter le cliché dans le JO </p>
 <p>n° 86 du 13 / 04 / 2010 texte numéro 17 </p>
-<br/>
-<br/>
 <p>Les colorants capillaires peuvent provoquer des réactions allergiques sévères. </p>
 <p>Lire et suivre les instructions. </p>
 <p>Ce produit n'est pas destiné à être utilisé sur les personnes de moins de seize ans. </p>
@@ -507,12 +485,8 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <p>Contient des phénylènediamines (toluènediamines). Ne pas utiliser pour teindre les cils ou les sourcils ;</p>
 <p>Le ratio du mélange doit être imprimé sur l'étiquetage. </p>
 <p>b) Réservé aux professionnels. </p>
-<br/>
-<br/>
 <p>Vous pouvez consulter le cliché dans le JO </p>
 <p>n° 86 du 13 / 04 / 2010 texte numéro 17 </p>
-<br/>
-<br/>
 <p>Les colorants capillaires peuvent provoquer des réactions allergiques sévères. </p>
 <p>Lire et suivre les instructions. </p>
 <p>Ce produit n'est pas destiné à être utilisé sur les personnes de moins de seize ans. </p>
@@ -522,8 +496,6 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <p>- vous avez déjà fait une réaction après avoir coloré vos cheveux ; </p>
 <p>- vous avez fait par le passé une réaction à un tatouage temporaire noir à base de henné. </p>
 <p>Contient des phénylènediamines (toluènediamines). Porter des gants adéquats.</p>
-<br/>
-<br/>
 <p>Le ratio du mélange doit être imprimé sur l'étiquetage. </p>
 </td>
 </tr>
@@ -861,8 +833,6 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <td>
 <p align="center">Vous pouvez consulter le cliché dans le JO </p>
 <p>n° 86 du 13 / 04 / 2010 texte numéro 17 </p>
-<br/>
-<br/>
 <p>Les colorants capillaires peuvent provoquer des réactions allergiques sévères. </p>
 <p>Lire et suivre les instructions. </p>
 <p>Ce produit n'est pas destiné à être utilisé sur les personnes de moins de seize ans. </p>
@@ -871,8 +841,6 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <p>- vous présentez une éruption cutanée sur le visage ou si votre cuir chevelu est sensible, irrité ou abîmé ; </p>
 <p>- vous avez déjà fait une réaction après avoir coloré vos cheveux ; </p>
 <p>- vous avez fait par le passé une réaction à un tatouage temporaire noir à base de henné.</p>
-<br/>
-<br/>
 </td>
 </tr>
 <tr>
@@ -960,9 +928,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <td>
 <p align="center">a) 1. Contient de la résorcine. Bien rincer les cheveux après application. Ne pas employer pour la coloration des cils et des sourcils. Rincer immédiatement les yeux si le produit entre en contact avec ceux-ci.<br/>Vous pouvez consulter le cliché dans le JO </p>
 <p>n° 86 du 13 / 04 / 2010 texte numéro 17 </p>
-<br/>
-<p>
-<br/>Les colorants capillaires peuvent provoquer des réactions allergiques sévères. </p>
+<p>Les colorants capillaires peuvent provoquer des réactions allergiques sévères. </p>
 <p>Lire et suivre les instructions. </p>
 <p>Ce produit n'est pas destiné à être utilisé sur les personnes de moins de seize ans. </p>
 <p>Les tatouages temporaires noirs à base de henné peuvent augmenter le risque d'allergie. </p>
@@ -970,12 +936,9 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <p>- vous présentez une éruption cutanée sur le visage ou si votre cuir chevelu est sensible, irrité ou abîmé ; </p>
 <p>- vous avez déjà fait une réaction après avoir coloré vos cheveux ; </p>
 <p>- vous avez fait par le passé une réaction à un tatouage temporaire noir à base de henné.</p>
-<p>
-<br/>2. Réservé aux professionnels. Contient de la résorcine. Rincer immédiatement les yeux si le produit entre en contact avec ceux-ci.<br/>Vous pouvez consulter le cliché dans le JO </p>
+<p>2. Réservé aux professionnels. Contient de la résorcine. Rincer immédiatement les yeux si le produit entre en contact avec ceux-ci.<br/>Vous pouvez consulter le cliché dans le JO </p>
 <p>n° 86 du 13 / 04 / 2010 texte numéro 17 </p>
-<br/>
-<p>
-<br/>Les colorants capillaires peuvent provoquer des réactions allergiques sévères. </p>
+<p>Les colorants capillaires peuvent provoquer des réactions allergiques sévères. </p>
 <p>Lire et suivre les instructions. </p>
 <p>Ce produit n'est pas destiné à être utilisé sur les personnes de moins de seize ans. </p>
 <p>Les tatouages temporaires noirs à base de henné peuvent augmenter le risque d'allergie. </p>
@@ -983,8 +946,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <p>- vous présentez une éruption cutanée sur le visage ou si votre cuir chevelu est sensible, irrité ou abîmé ; </p>
 <p>- vous avez déjà fait une réaction après avoir coloré vos cheveux ; </p>
 <p>- vous avez fait par le passé une réaction à un tatouage temporaire noir à base de henné.</p>
-<p>
-<br/>b) Contient de la résorcine.</p>
+<p>b) Contient de la résorcine.</p>
 </td>
 </tr>
 <tr>
@@ -3374,7 +3336,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <p align="center">130</p>
 </td>
 <td>
-<p align="center">Terpene terpenoids sinpine.<br/>(n° CAS 68917-63-5.)</p>
+<p align="center">Terpene et terpenoids.<br/>(n° CAS 68917-63-5.)</p>
 </td>
 <td>
 <br/>
@@ -3873,6 +3835,17 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <br/>
 <br/>
 </td>
+</tr>
+<tr>
+<td> 151 bis</td>
+<td> Allyl phénéthyl éther <p>N° CAS : 14289-65-7</p>
+<p>N° CE : 238-212-2</p>
+</td>
+<td/>
+<td/>
+<td> Le niveau d'alcool allylique libre dans l'éther doit être inférieur à 0,1 %<br/>
+</td>
+<td/>
 </tr>
 <tr>
 <td>
@@ -4946,9 +4919,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <p>a) Le ratio de mélange doit être imprimé sur l'étiquetage.</p>
 <p>Vous pouvez consulter le clché dans le JO </p>
 <p>n° 86 du 13 / 04 / 2010 texte numéro 17 </p>
-<br/>
-<p>
-<br/>Les colorants capillaires peuvent provoquer des réactions allergiques sévères. </p>
+<p>Les colorants capillaires peuvent provoquer des réactions allergiques sévères. </p>
 <p>Lire et suivre les instructions. </p>
 <p>Ce produit n'est pas destiné à être utilisé sur les personnes de moins de seize ans. </p>
 <p>Les tatouages temporaires noirs à base de henné peuvent augmenter le risque d'allergie. </p>
@@ -4956,7 +4927,6 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <p>- vous présentez une éruption cutanée sur le visage ou si votre cuir chevelu est sensible, irrité ou abîmé ; </p>
 <p>- vous avez déjà fait une réaction après avoir coloré vos cheveux ; </p>
 <p>- vous avez fait par le passé une réaction à un tatouage temporaire noir à base de henné.</p>
-<br/>
 </td>
 </tr>
 <tr>
@@ -5139,9 +5109,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <td>a) Après mélange dans des conditions d'oxydation, la teneur maximale appliquée à la chevelure ne doit pas dépasser 1, 2 % calculée en base libre (1, 8 % en sel de tétrahydrochlorure). </td>
 <td>a) Le ratio de mélange doit être imprimé sur l'étiquetage. <p>Pour a et b : Vous pouvez consulter le cliché dans le JO </p>
 <p>n° 86 du 13 / 04 / 2010 texte numéro 17 </p>
-<br/>
-<p>
-<br/>Les colorants capillaires peuvent provoquer des réactions allergiques sévères. </p>
+<p>Les colorants capillaires peuvent provoquer des réactions allergiques sévères. </p>
 <p>Lire et suivre les instructions. </p>
 <p>Ce produit n'est pas destiné à être utilisé sur les personnes de moins de seize ans. </p>
 <p>Les tatouages temporaires noirs à base de henné peuvent augmenter le risque d'allergie. </p>
@@ -5149,9 +5117,6 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <p>- vous présentez une éruption cutanée sur le visage ou si votre cuir chevelu est sensible, irrité ou abîmé ; </p>
 <p>- vous avez déjà fait une réaction après avoir coloré vos cheveux ; </p>
 <p>- vous avez fait par le passé une réaction à un tatouage temporaire noir à base de henné. </p>
-<p>
-<br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -5178,9 +5143,7 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>a) Le ratio de mélange doit être imprimé sur l'étiquetage. <p>Pour a et b : Vous pouvez consulter le cliché dans le JO </p>
 <p>n° 86 du 13 / 04 / 2010 texte numéro 17 </p>
-<br/>
-<p>
-<br/>Les colorants capillaires peuvent provoquer des réactions allergiques sévères. </p>
+<p>Les colorants capillaires peuvent provoquer des réactions allergiques sévères. </p>
 <p>Lire et suivre les instructions. </p>
 <p>Ce produit n'est pas destiné à être utilisé sur les personnes de moins de seize ans. </p>
 <p>Les tatouages temporaires noirs à base de henné peuvent augmenter le risque d'allergie. </p>
@@ -5188,9 +5151,6 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <p>- vous présentez une éruption cutanée sur le visage ou si votre cuir chevelu est sensible, irrité ou abîmé ; </p>
 <p>- vous avez déjà fait une réaction après avoir coloré vos cheveux ; </p>
 <p>- vous avez fait par le passé une réaction à un tatouage temporaire noir à base de henné. </p>
-<p>
-<br/>
-</p>
 </td>
 </tr>
 <tr>
@@ -5235,11 +5195,9 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 </td>
 <td>
 <p>a) Le ratio de mélange doit être imprimé sur l'étiquetage. </p>
-<p> Vous pouvez consulter le clché dans le JO </p>
+<p>Vous pouvez consulter le clché dans le JO </p>
 <p>n° 86 du 13 / 04 / 2010 texte numéro 17 </p>
-<br/>
-<p>
-<br/>Les colorants capillaires peuvent provoquer des réactions allergiques sévères. </p>
+<p>Les colorants capillaires peuvent provoquer des réactions allergiques sévères. </p>
 <p>Lire et suivre les instructions. </p>
 <p>Ce produit n'est pas destiné à être utilisé sur les personnes de moins de seize ans. </p>
 <p>Les tatouages temporaires noirs à base de henné peuvent augmenter le risque d'allergie. </p>
@@ -5247,8 +5205,33 @@ DANS LES PRODUITS COSMETIQUES EN DEHORS DES RESTRICTIONS ET CONDITIONS PREVUES
 <p>- vous présentez une éruption cutanée sur le visage ou si votre cuir chevelu est sensible, irrité ou abîmé ; </p>
 <p>- vous avez déjà fait une réaction après avoir coloré vos cheveux ; </p>
 <p>- vous avez fait par le passé une réaction à un tatouage temporaire noir à base de henné.</p>
-<br/>
 </td>
+</tr>
+<tr>
+<td> 206</td>
+<td> Absolue de verbena (Lippia citriodora Kunth.)<br/>
+<br/>N° CAS : 8024-12-2<br/>
+</td>
+<td/>
+<td> 0,2 %</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td> 207</td>
+<td> Ethyl Lauroyl Arginate HCl (INCI) (16)<br/>
+<br/>N alpha-dodécanoyl-L-arginate d'éthyle, hydrochloré<br/>
+<br/>N° CAS 60372-77-2<br/>
+<br/>N° CE 434-630-6<br/>
+</td>
+<td> (a) Savons<br/>
+<br/>(b) Shampoings antipelliculaires<br/>
+<br/>(c) Déodorants autres que sous forme de spray<br/>
+</td>
+<td> 0,8 %</td>
+<td> A des fins autres qu'inhiber le développement de micro-organismes dans le produit. Cette fin doit ressortir de la présentation du produit.<br/>
+</td>
+<td/>
 </tr>
 </tbody>
 </table>
@@ -5284,3 +5267,5 @@ a) Le ratio de mélange doit être imprimé sur l'étiquetage.
 (***) La somme de ces mélanges utilisés en combinaison ne doit pas dépasser les limites indiquées dans la colonne d.
 
 (15) L'utilisation de la base libre et des sels de ce colorant est autorisée, sauf interdiction au titre de l'arrêté du 6 février 2001 modifié fixant la liste des substances qui ne peuvent entrer dans la composition des produits cosmétiques.
+
+(16) Pour une utilisation comme agent conservateur, voir le numéro d'ordre 58 de l'arrêté du 6 février 2001 modifié fixant la liste des agents conservateurs que peuvent contenir les produits cosmétiques.

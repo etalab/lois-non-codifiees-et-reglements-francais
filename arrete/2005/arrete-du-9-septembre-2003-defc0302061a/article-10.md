@@ -8,7 +8,7 @@ Le président fait prendre les dispositions qui conviennent pour que l'anonymat 
 
 Le sort détermine l'ordre dans lequel les candidats subissent les épreuves orales. A chacune d'elles, le candidat tire au sort deux questions et peut, à son gré, traiter l'une ou l'autre. Un temps de réflexion d'une heure (sans document) lui est accordé pour préparer la question qu'il a choisie et lui permettre de rédiger un sommaire destiné à le guider lors de son exposé devant le jury.
 
-Chacun des exposés oraux, d'une durée de vingt-cinq à trente minutes, est suivi d'une période de questions de quinze à vingt minutes sur le sujet qui vient d'être traité ou sur tout autre sujet se rapportant aux matières de l'épreuve.
+Chacun des exposés oraux, d'une durée comprise entre vingt-cinq et trente minutes, est suivi d'une période de questions de quinze à vingt minutes sur le sujet qui vient d'être traité ou sur tout autre sujet se rapportant aux matières de l'épreuve.
 
 Un intervalle de vingt-quatre heures au moins sépare deux épreuves successives, à l'exception, si le président en décide ainsi, de l'épreuve de dossier et de l'entretien avec le jury.
 

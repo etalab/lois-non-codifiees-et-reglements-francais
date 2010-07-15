@@ -4,6 +4,6 @@ Le programme du concours figure en annexe au présent arrêté. Il est composé 
 
 - titre Ier : droit et institutions ;
 
-- titre II : économie générale et entreprise ;
+- Titre II - Economie générale, entreprise et gestion publique ;
 
 - titre III : défense.
