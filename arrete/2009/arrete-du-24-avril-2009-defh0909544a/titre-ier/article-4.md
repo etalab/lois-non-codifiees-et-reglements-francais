@@ -12,6 +12,4 @@ Ces concours d'admission en première année à l'Ecole navale sont des concours
 
 Ces concours portent respectivement sur les programmes des deux années de classes préparatoires scientifiques aux grandes écoles des voies : MP, PC et PSI.
 
-L'épreuve de synthèse porte sur un sujet d'actualité.
-
 Pour chacun de ces concours sont arrêtées une liste d'admissibilité, une liste d'admission et une liste complémentaire, prévues aux articles 11 et 18.

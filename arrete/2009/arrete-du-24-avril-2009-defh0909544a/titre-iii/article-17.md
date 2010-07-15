@@ -4,7 +4,7 @@ Après la clôture des épreuves orales et sportives, les listes de classement p
 
 Le jury de chaque concours fixe le nombre de points au-dessus duquel il estime que les candidats peuvent être déclarés admis à l'Ecole navale.
 
-En cas d'égalité de points, les candidats sont départagés par le total des notes de français affectées de leur coefficient respectif et, en cas d'égalité des notes de français, par le nombre de points obtenus à l'oral ; ensuite, s'il est nécessaire, par l'âge, au bénéfice du plus jeune et, enfin, par le plus petit nombre d'années de classes préparatoires aux grandes écoles scientifiques.
+En cas d'égalité de points, les candidats sont départagés                       par la note de français affectée de son coefficient puis, s'il est nécessaire, par le nombre de points obtenus à l'oral ; ensuite, s'il est nécessaire, par l'âge, au bénéfice du plus jeune et, enfin, par le plus petit nombre d'années de classes préparatoires aux grandes écoles scientifiques.
 
 Le jury prononce l'élimination des candidats qui, bien qu'ayant obtenu un nombre total de points suffisant, ont obtenu :
 

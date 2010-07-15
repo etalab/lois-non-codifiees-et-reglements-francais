@@ -2,17 +2,15 @@
 
 MODALITÉS ET COMPOSITION DES ÉPREUVES
 
-1. Epreuves écrites
+1. Epreuves écrites :
 
-1.1. Les épreuves écrites, à l'exception de la seconde composition de français (synthèse), sont celles des concours communs polytechniques.
+1.1. Les épreuves écrites sont celles des concours Centrale-Supélec.
 
-La nature et la forme de ces épreuves écrites communes sont fixées par le service des concours communs polytechniques et portent sur les programmes des classes de mathématiques spéciales MP, PC ou PSI et sur celui des classes de mathématiques supérieures y conduisant.
+La nature et la forme de ces épreuves écrites communes sont fixées par le service des concours Centrale-Supélec et portent sur les programmes des classes de mathématiques spéciales MP, PC ou PSI, et sur celui des classes de mathématiques supérieures y conduisant.
 
-Les documents et matériels autorisés pour les épreuves communes avec les concours communs polytechniques sont ceux autorisés par la réglementation des concours communs polytechniques.
+Les documents et matériels autorisés pour les épreuves écrites sont ceux autorisés par la réglementation du service des concours Centrale-Supélec.
 
-1.2. L'épreuve spécifique de français est une synthèse de documents d'intérêt général.
-
-1.3. L'épreuve de langue vivante étrangère porte au choix du candidat sur l'anglais, l'allemand, l'espagnol, l'italien, le portugais, le russe ou l'arabe littéral.
+1.2. L'épreuve de langue vivante étrangère porte au choix du candidat sur l'anglais, l'allemand, l'espagnol, l'italien, le portugais, le russe, le chinois ou l'arabe.
 
 2. Epreuves orales
 
@@ -38,7 +36,7 @@ Le candidat se voit remettre ensuite, pour étude, en préparation du deuxième 
 
 2.2.3. La connaissance de la langue étrangère doit être générale, sans accentuation particulière dans le domaine maritime et aussi approfondie que possible : lecture, traduction, conversation. Au cours de l'entretien, l'examinateur s'attache à vérifier si le candidat a une connaissance, au moins élémentaire, des particularités de modes de vie et de la pensée anglo-saxonne ou germanique et des événements marquants de l'histoire des pays anglo-saxons ou germaniques.
 
-2.3. L'épreuve de travaux d'initiative personnelle encadrés (TIPE) est organisée par le service des concours communs polytechniques qui en fixe la nature et la forme.
+2.3. L'épreuve d'évaluation des travaux d'initiative personnelle encadrés (TIPE) est une épreuve organisée en commun par les concours Centrale-Supélec, les concours communs polytechniques, le concours commun mines-ponts et la banque filière physique technologie qui en fixent la nature et la forme.
 
 3. Epreuves sportives
 
