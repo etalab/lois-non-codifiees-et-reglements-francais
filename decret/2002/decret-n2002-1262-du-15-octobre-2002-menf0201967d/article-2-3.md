@@ -1,0 +1,3 @@
+# Article 2-3
+
+Les enseignants-chercheurs et les personnels qui leur sont assimilés relevant du groupe des disciplines pharmaceutiques du Conseil national des universités pour les disciplines médicales, odontologiques et pharmaceutiques, régi par les dispositions du décret n° 87-31 du 20 janvier 1987 relatif au Conseil national des universités pour les disciplines médicales, odontologiques et pharmaceutiques, qui se voient confier les attributions mentionnées à l'article 2 du présent décret, bénéficient de l'indemnité et de la possibilité de décharge de service prévues par les dispositions des articles 1er et 2-2 du présent décret.
