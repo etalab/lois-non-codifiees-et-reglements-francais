@@ -27,6 +27,9 @@ LISTE DES PROGRAMMES ET DES COMPTES SPÉCIAUX DONT LA GESTION BUDGÉTAIRE ET COM
 </td>
 </tr>
 <tr>
+<td> Enseignement technique agricole </td>
+</tr>
+<tr>
 <td valign="top" width="621">
 <p>06 - Education nationale</p>
 </td>
@@ -87,6 +90,9 @@ LISTE DES PROGRAMMES ET DES COMPTES SPÉCIAUX DONT LA GESTION BUDGÉTAIRE ET COM
 </td>
 </tr>
 <tr>
+<td> Gestion fiscale et financière de l'Etat et du secteur public local - expérimentation Chorus</td>
+</tr>
+<tr>
 <td valign="top" width="621">
 <p>09 - Intérieur, outre-mer et collectivités territoriales</p>
 </td>
@@ -95,6 +101,12 @@ LISTE DES PROGRAMMES ET DES COMPTES SPÉCIAUX DONT LA GESTION BUDGÉTAIRE ET COM
 <td valign="top" width="621">
 <p>Administration territoriale</p>
 </td>
+</tr>
+<tr>
+<td> Conduite et pilotage des politiques de l'intérieur </td>
+</tr>
+<tr>
+<td> Vie politique, cultuelle et associative </td>
 </tr>
 <tr>
 <td valign="top" width="621">
@@ -167,6 +179,9 @@ LISTE DES PROGRAMMES ET DES COMPTES SPÉCIAUX DONT LA GESTION BUDGÉTAIRE ET COM
 </td>
 </tr>
 <tr>
+<td> Urbanisme, paysage, eau et biodiversité </td>
+</tr>
+<tr>
 <td valign="top" width="621">
 <p>31 - Logement et Ville</p>
 </td>
@@ -199,11 +214,6 @@ LISTE DES PROGRAMMES ET DES COMPTES SPÉCIAUX DONT LA GESTION BUDGÉTAIRE ET COM
 <tr>
 <td valign="top" width="621">
 <p>Recherche spatiale</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="621">
-<p>Vie étudiante</p>
 </td>
 </tr>
 <tr>
