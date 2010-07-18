@@ -21,3 +21,23 @@ Les catégories d'informations nominatives sont les suivantes :
 ― notes aux différentes épreuves, classement.
 
 La durée de conservation des données est d'un an après la publication des résultats.
+
+Les informations collectées par téléprocédure pour les seuls lauréats sont :
+
+- l'état civil (nom, prénoms, date et lieu de naissance, nationalité, pays de naissance) ;
+
+- le numéro d'identification au répertoire national des personnes physiques ;
+
+- l'adresse personnelle ;
+
+- la situation familiale ;
+
+- le nombre d'enfants ainsi que leurs prénoms et dates de naissance ;
+
+- les références bancaires (IBAN) ;
+
+- le rang de classement au concours.
+
+En cas de renonciation au bénéfice du concours, seule l'expression de ce choix est collectée.
+
+La durée de conservation des informations collectées par téléprocédure est de trois mois après transmission au système d'information des ressources humaines de la direction d'affectation du lauréat.
