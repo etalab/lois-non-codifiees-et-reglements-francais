@@ -14,11 +14,17 @@ A. ― Epreuves écrites d'admissibilité
 
 B. ― Epreuves orales d'admission
 
-1° Leçon de philosophie sur un sujet se rapportant, selon un programme établi pour l'année, à l'un des domaines suivants : la métaphysique, la morale, la politique, la logique et l'épistémologie, l'esthétique, les sciences humaines (durée de la préparation : cinq heures ; durée de l'épreuve : quarante minutes ; coefficient 1,5).
+1° Leçon de philosophie sur un sujet se rapportant, selon un programme établi pour l'année, à l'un des domaines suivants : la métaphysique, la morale, la politique, la logique et l'épistémologie, l'esthétique, les sciences humaines. La leçon est suivie d'un entretien avec le jury (durée de la préparation : cinq heures ; durée de l'épreuve : cinquante minutes [leçon : trente-cinq minutes ; entretien : quinze minutes] ; coefficient 1,5).
 
 Pour la préparation de la leçon, aucun ouvrage ou document n'est mis à la disposition des candidats.
 
-2° Leçon de philosophie sur un sujet se rapportant à la métaphysique, la morale, la politique, la logique et l'épistémologie, l'esthétique, les sciences humaines, à l'exception du domaine inscrit au programme de la première épreuve d'admission (durée de la préparation : cinq heures ; durée de l'épreuve : quarante minutes ; coefficient 1,5).
+2° L'épreuve se déroule en deux parties : la première partie compte pour 16 points, la seconde pour 4 points (durée de la préparation : cinq heures ; durée de l'épreuve : cinquante minutes [leçon : trente-cinq minutes ; entretien : quinze minutes] ; coefficient 1,5).
+
+Leçon de philosophie : elle porte sur un sujet se rapportant à la métaphysique, la morale, la politique, la logique et l'épistémologie, l'esthétique, les sciences humaines, à l'exception du domaine inscrit au programme de la première épreuve d'admission. La leçon est suivie d'un entretien avec le jury.
+
+L'entretien inclut une question touchant la connaissance réfléchie du contexte institutionnel et des conditions effectives d'un enseignement exercé en responsabilité telle que définie par la première compétence de l'annexe I de l'arrêté du 19 décembre 2006.
+
+La question relative à cette compétence est remise au candidat au début de l'épreuve avec le sujet de la leçon.
 
 Pour la préparation de la leçon, les ouvrages et documents demandés par les candidats seront, dans la mesure du possible, mis à leur disposition. Sont exclues de la consultation les encyclopédies et anthologies thématiques.
 
@@ -26,17 +32,11 @@ Pour la préparation de la leçon, les ouvrages et documents demandés par les c
 
 Le programme est renouvelé chaque année. L'un des deux ouvrages est obligatoirement choisi dans la période pour laquelle aucun auteur n'est inscrit au programme de la troisième épreuve d'admissibilité.
 
-4° L'épreuve se déroule en deux parties (durée de la préparation pour les deux parties : deux heures ; durée totale de l'épreuve : cinquante minutes ; la première partie de l'épreuve compte pour 16 points, la seconde pour 4 points ; coefficient 1,5) :
-
-Première partie : traduction et explication d'un texte grec ou latin ou allemand ou anglais ou arabe ou italien extrait de l'ouvrage inscrit au programme (durée de la première partie de l'épreuve : trente minutes). Le programme est renouvelé chaque année.
+4° Traduction et explication d'un texte grec ou latin ou allemand ou anglais ou arabe ou italien extrait de l'ouvrage inscrit au programme (durée de la préparation : une heure trente ; durée de l'épreuve : trente minutes ; coefficient 1,5). Le programme est renouvelé chaque année.
 
 Un dictionnaire sera mis par le jury à la disposition des candidats (bilingue pour le latin et le grec, unilingue pour l'anglais, l'allemand, l'arabe et l'italien).
 
-Le candidat devra indiquer au moment de son inscription la langue ancienne ou moderne choisie par lui.
-
-Deuxième partie : exposé du candidat à partir d'un document fourni par le jury (dix minutes) et entretien avec le jury (dix minutes) sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable définie dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
-
-Les programmes du concours font l'objet d'une publication au Bulletin officiel du ministère de l'éducation nationale.
+Le candidat indique au moment de son inscription la langue ancienne ou moderne choisie par lui.
 
 Section grammaire
 
