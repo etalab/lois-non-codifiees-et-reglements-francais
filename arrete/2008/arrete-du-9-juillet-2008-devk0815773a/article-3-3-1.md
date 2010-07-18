@@ -16,6 +16,4 @@ La sous-direction comprend :
 
 ― le bureau de l'évaluation des politiques des risques de l'eau et des déchets ;
 
-― le bureau de l'économie de l'environnement et des instruments financiers ;
-
-― le bureau de la fiscalité.
+― le bureau de la fiscalité et des instruments économiques pour l'environnement.

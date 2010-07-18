@@ -8,7 +8,7 @@ La sous-direction des affaires financières et du contrôle de gestion est charg
 
 ― de définir les modalités de gestion et de contrôle des taxes gérées par la direction générale de l'aviation civile et de s'assurer de leur mise en œuvre ;
 
-― d'assurer le secrétariat du comité des finances ;
+― d'assurer le secrétariat du comité des finances et de la commission consultative économique ; ;
 
 ― d'assurer la gestion des recettes, des emprunts et de la trésorerie du budget annexe contrôle et exploitation aériens et de coordonner les opérations de dépense ;
 
@@ -22,14 +22,14 @@ La sous-direction des affaires financières et du contrôle de gestion est charg
 
 Elle comprend :
 
-― le bureau de la synthèse budgétaire et financière ;
+― le bureau du pilotage budgétaire et de la performance ;
 
 ― le bureau de l'exécution budgétaire et financière ;
 
-― le bureau du contrôle de gestion et de la comptabilité analytique ;
+― le bureau de la qualité comptable et de l'analyse financière ;
 
 ― le bureau des marchés et de la coordination de l'achat public ;
 
-― le bureau de la réglementation et de l'expertise fiscales ;
+― le bureau de la fiscalité ;
 
 ― la mission du système d'information financier.

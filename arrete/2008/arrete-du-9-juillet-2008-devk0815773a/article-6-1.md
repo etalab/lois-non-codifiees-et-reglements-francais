@@ -26,4 +26,6 @@ Elle comprend en outre :
 
 ― la mission de la coopération internationale.
 
-Le service technique de l'aviation civile, service à compétence nationale, est rattaché au directeur du transport aérien. En outre, le directeur du transport aérien est le commissaire aux transports aériens.
+Le service technique de l'aviation civile, service à compétence nationale, est rattaché au directeur du transport aérien. En outre, le directeur du transport aérien est le commissaire délégué aux transports aériens.
+
+Le directeur du transport aérien est assisté d'un adjoint, chef de service.

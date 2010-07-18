@@ -1,13 +1,13 @@
 # Article 3.3.3
 
-La sous-direction de l'intégration des démarches de développement durable par les acteurs économiques veille à ce que la politique économique, industrielle et sociale du ministère facilite les démarches de développement durable des acteurs économiques dans les secteurs professionnels liés aux domaines de compétences du ministère, et leur articulation avec le fonctionnement des marchés correspondants. Elle contribue à la promotion de modes de consommation et de production responsables y compris dans les administrations. Elle veille au développement de la « responsabilité sociétale des entreprises » et de « l'investissement socialement responsable ».
+La sous-direction de l'intégration des démarches de développement durable par les acteurs économiques développe des outils juridiques, économiques et sociaux pour faciliter les démarches de développement durable des secteurs professionnels, des services publics et des consommateurs et leur articulation avec le fonctionnement des marchés correspondants. Elle pilote l'action en faveur du développement des emplois et métiers de l'économie verte. Elle veille au développement de la "responsabilité sociétale des entreprises", des démarches de management environnemental, de l'"investissement socialement responsable" et du commerce équitable. Elle participe au développement des éco-industries et des filières vertes.
 
 La sous-direction comprend :
 
-― le bureau de l'analyse économique des secteurs professionnels ;
+- le bureau des secteurs professionnels ;
 
-― le bureau du développement des entreprises, de l'emploi et de la politique industrielle ;
+- le bureau de la formation, de l'emploi et des transitions sociales ;
 
-― le bureau des régulations économiques ;
+- le bureau des services publics responsables ;
 
-― le bureau de la consommation et de la production responsables.
+- le bureau de la consommation et de la production responsables.

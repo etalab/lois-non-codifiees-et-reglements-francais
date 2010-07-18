@@ -1,19 +1,13 @@
 # Article 2.9.1
 
-Le département de l'entraînement, de la ressource et de la veille opérationnelle assure la veille opérationnelle et les missions dévolues au Commissariat aux transports et aux travaux publics et de bâtiment. Il s'assure de l'articulation avec les dispositifs interministériels existants.
+L'échelon de direction est constitué :
 
-Il développe le professionnalisme des services centraux et déconcentrés, en matière de préparation à la crise et de traitement des situations d'urgence, en veillant à la formation des personnels concernés, en les dotant d'outils opérationnels, en organisant les capacités d'expertise technique et en élaborant et mettant en œuvre le programme d'entraînement et d'exercices ministériels.
+-d'un chef de service, haut fonctionnaire de défense et de sécurité adjoint ;
 
-Il assure le conseil à la maîtrise d'ouvrage pour les ministères qui ont à réaliser des transports de défense et de sécurité.
+-d'un chef de service adjoint ;
 
-Il conduit le développement et veille au fonctionnement du système d'information permettant de connaître la ressource des entreprises de transport, de bâtiment et de travaux publics mobilisables en situation de crise. Il suit les conditions juridiques et opérationnelles de leur mobilisation et il organise, en étroite relation avec le service du pilotage et de l'évolution des services, les renforts au sein du ministère pour faire face aux situations de crise.
+-d'un officier supérieur ou officier général tel que prévu à l'article R. 1336-5 du code de la défense ;
 
-Il recueille et traite en permanence les informations de sécurité et de défense dans tous les secteurs d'activité du ministère et il alerte les autorités en cas de situations susceptibles de justifier des mesures d'urgence. A ce titre, il participe à la continuité des communications gouvernementales et des points de contact des organisations communautaires et internationales.
+-d'un adjoint pour la mer qui assure notamment les responsabilités de point de contact national pour la sûreté maritime telles que définies par les dispositions communautaires et internationales ;
 
-Il regroupe :
-
-― la mission de l'entraînement et de la logistique ;
-
-― la mission de la ressource ;
-
-― le centre ministériel de veille opérationnelle et d'alerte.
+-d'un chargé de mission pour la coordination et l'action internationale intéressant le secteur nucléaire.

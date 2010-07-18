@@ -26,16 +26,14 @@ La sous-direction du climat et de la qualité de l'air :
 
 Elle comprend :
 
-― le département  lutte contre l'effet de serre  ;
+― le département lutte contre l'effet de serre ;
 
 ― le bureau " marchés carbone " ;
 
-― le bureau  qualité de l'air  ;
+― le bureau qualité de l'air ;
 
-― le bureau  maîtrise de la demande  ;
-
-― le bureau  chaleur et équipements .
+― le bureau économies d'énergie et chaleur renouvelable ;
 
 L'Observatoire national sur les effets du réchauffement climatique, mentionné à l'article L. 229-2 du code de l'environnement, est rattaché au département de lutte contre l'effet de serre.
 
-Le bureau  qualité de l'air  est mis à disposition de la direction générale de la prévention des risques pour l'exercice de ses compétences.
+Le bureau qualité de l'air est mis à disposition de la direction générale de la prévention des risques pour l'exercice de ses compétences.

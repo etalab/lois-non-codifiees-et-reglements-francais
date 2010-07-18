@@ -1,15 +1,17 @@
 # Article 9.2
 
-La sous-direction de l'éducation routière a en charge la définition, le pilotage, le suivi et l'évaluation des politiques touchant à l'éducation et à la formation des usagers de la route à la sécurité routière et à la conduite aux différents âges de la vie, en intégrant les dispositions permettant de contribuer à la lutte contre l'effet de serre. Elle réglemente le permis de conduire et le secteur professionnel de l'enseignement de la conduite et de la sécurité routière. Elle anime les réseaux professionnels de l'enseignement et de l'évaluation de la conduite et de la sécurité routière. Elle participe à la préparation et à la transcription des directives communautaires dans le domaine de l'éducation routière et plus généralement aux travaux, études et projets menés dans ce domaine au niveau international.
+La délégation à l'hébergement et à l'accès au logement concourt aux missions suivantes :
 
-La sous-direction assure également le secrétariat général du Conseil supérieur de la conduite automobile et de l'organisation de la profession.
+- coordonner et suivre la mise en œuvre du chantier national prioritaire pour l'hébergement et l'accès au logement des personnes sans abri ou mal logées ;
 
-La sous-direction de l'éducation routière est constituée par :
+- animer le pôle national de lutte contre l'habitat indigne, et assurer notamment l'appui au renforcement des structures de travail départementales de lutte contre l'habitat indigne ;
 
-― le bureau de l'éducation à la conduite et à la sécurité routière ;
+- assurer le secrétariat général du comité interministériel pour le développement de l'offre de logement et préparer les travaux et délibérations de ce comité. Elle veille à ce titre à la cohérence entre les orientations définies par le comité et celles qui sont arrêtées en matière de construction et d'urbanisme.
 
-― le bureau du permis de conduire ;
+Elle comprend :
 
-― le bureau de l'animation de la politique éducative ;
+- le pôle "chantier national prioritaire pour l'hébergement et l'accès au logement" ;
 
-― le bureau des ressources.
+- le pôle national de lutte contre l'habitat indigne ;
+
+- le pôle assurant le secrétariat général du comité interministériel pour le développement de l'offre de logement.

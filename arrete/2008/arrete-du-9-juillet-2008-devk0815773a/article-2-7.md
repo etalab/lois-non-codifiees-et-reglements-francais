@@ -10,6 +10,6 @@ Le service des politiques support et des systèmes d'information comprend, outre
 
 ― la sous-direction des systèmes d'information pour les activités support ;
 
-― le département des politiques de fonctionnement durable et de la mutualisation ;
+― le département des politiques ministérielles de fonctionnement et d'achat durables ;
 
 Le centre de prestations et d'ingénierie informatiques est rattaché, en tant que service à compétence nationale, au chef du service des politiques support et des systèmes d'information.

@@ -10,8 +10,10 @@ Le secrétariat général de la direction générale de l'aviation civile compre
 
 ― la sous-direction des systèmes d'information et de la modernisation ;
 
-― le bureau des affaires médicales.
+― le bureau des affaires médicales ;
 
-Le service d'exploitation de la formation aéronautique et le service national d'ingénierie aéroportuaire, le centre d'exploitation, de développement et d'études du réseau d'informatique de gestion, le service de gestion des taxes aéroportuaires, services à compétence nationale, sont rattachés au secrétaire général de la direction générale de l'aviation civile.
+- le bureau de la tutelle des écoles de l'aviation civile.
+
+Le service d'exploitation de la formation aéronautique et le service national d'ingénierie aéroportuaire, le centre d'exploitation, de développement et d'études du réseau d'information de gestion, le service de gestion des taxes aéroportuaires, services à compétence nationale, sont rattachés au secrétaire général de la direction générale de l'aviation civile.
 
 L'Ecole nationale de l'aviation civile, établissement public, est placée sous la tutelle du secrétaire général de la direction générale de l'aviation civile.

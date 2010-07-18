@@ -1,11 +1,15 @@
 # Article 2.9
 
-Le service de défense, de sécurité et d'intelligence économique, outre un adjoint et suppléant, un adjoint pour la mer qui assure notamment les responsabilités de point de contact national pour la sûreté maritime telles que définies par les dispositions communautaires et internationales, un adjoint pour le logement et la ville, l'officier général tel que prévu à l'article R. 1336-4 du code de la défense, comprend :
+Le service de défense, de sécurité et d'intelligence économique comprend :
 
-― le département de l'entraînement, de la ressource et de la veille opérationnelle ;
+- un échelon de direction ;
 
-― le département de la doctrine et de la planification ;
+- un département de l'entraînement, de la ressource et de la veille opérationnelle ;
 
-― le département de l'intelligence économique et de la protection du secret ;
+- un département de la planification et des études ;
 
-- le département de la sécurité nucléaire.
+- un département de l'intelligence économique et de la protection de l'information ;
+
+- un département de la sécurité nucléaire ;
+
+- une mission d'animation soutien.

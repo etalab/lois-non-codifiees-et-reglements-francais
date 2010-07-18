@@ -22,6 +22,8 @@ Le service technique des remontées mécaniques et des transports guidés est ra
 
 Le service d'étude sur les transports, les routes et leurs aménagements est rattaché, en tant que service à compétence nationale, au directeur général des infrastructures, des transports et de la mer.
 
+L'Agence française de l'information multimodale et de la billettique est rattachée en tant que service à compétence nationale au directeur général des infrastructures, des transports et de la mer.
+
 L'Armement des phares et balises est rattaché, en tant que service à compétence nationale, au directeur des affaires maritimes.
 
 En outre, le directeur des services de transport est le commissaire délégué aux transports terrestres et le directeur des affaires maritimes est le commissaire délégué aux transports maritimes.
