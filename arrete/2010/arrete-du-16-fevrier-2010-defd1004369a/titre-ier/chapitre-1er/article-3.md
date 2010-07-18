@@ -38,7 +38,7 @@ g) Le bureau cohérence de milieu ;
 
 a) La division plans, programmes et évaluation ;
 
-b) La division espace-programmes interarmées ;
+b) La division cohérence des programmes interarmées ;
 
 c) La division cohérence capacitaire ;
 

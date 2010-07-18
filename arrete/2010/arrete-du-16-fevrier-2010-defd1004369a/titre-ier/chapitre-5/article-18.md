@@ -1,16 +1,10 @@
 # Article 18
 
-La division espace-programmes interarmées assure la cohérence entre les programmes et projets, qu'ils soient interarmées et d'armée, nationaux et internationaux dans les domaines de l'espace, des systèmes d'information opérationnels et de communication, ainsi que de la sécurité de ces derniers.
+La division cohérence des programmes interarmées assure la cohérence entre les programmes et projets, qu'ils soient interarmées et d'armée, nationaux et internationaux dans les domaines des systèmes d'information opérationnels et de communication, ainsi que de la sécurité de ces derniers.
 
-I. ― Dans le domaine espace, la division :
+I. (Supprimé).
 
-1° Assiste le chef d'état-major des armées dans ses relations avec le Centre national d'études spatiales en matière de défense et contribue à la définition de la politique spatiale française ;
-
-2° Veille à la cohérence de la politique spatiale militaire et s'assure de sa prise en compte dans la conduite des opérations d'armement ;
-
-3° Apporte son expertise à toute autorité ou organisme du ministère de la défense en matière de politique spatiale.
-
-II. ― Dans le domaine des programmes interarmées, selon les orientations des officiers de cohérence opérationnelle :
+II. - Dans le domaine des programmes interarmées, selon les orientations des officiers de cohérence opérationnelle :
 
 1° Elle exprime le besoin militaire auquel répondent les opérations d'armement interarmées, à l'exclusion des programmes mentionnés à l'article 7 ci-dessus ;
 
@@ -22,10 +16,10 @@ II. ― Dans le domaine des programmes interarmées, selon les orientations des 
 
 5° Avec la direction générale de l'armement, elle coordonne le processus de convergence des systèmes d'information opérationnels et de communication, ainsi que l'action des représentants français au sein des instances de l'Organisation du traité de l'Atlantique Nord traitant du domaine des systèmes d'information opérationnels et de communication. Elle assure le secrétariat des commissions afférentes.
 
-III. ― En matière de sécurité des systèmes d'information, la division espace-programmes interarmées :
+III. - En matière de sécurité des systèmes d'information, la division cohérence des programmes interarmées :
 
 1° Assiste le chef d'état-major des armées dans son rôle d'autorité qualifiée pour la sécurité des systèmes d'information opérationnels et de communication interarmées ;
 
 2° Participe à la définition des moyens de sécurité des systèmes d'information gouvernementaux ainsi qu'à la définition des règles générales d'emploi des procédés de chiffrement gouvernementaux utilisés dans un cadre national ou international.
 
-IV. ― Elle coordonne les travaux sur la simulation opérationnelle interarmées en liaison avec la direction générale de l'armement.
+IV. - Elle coordonne les travaux sur la simulation opérationnelle interarmées en liaison avec la direction générale de l'armement.
