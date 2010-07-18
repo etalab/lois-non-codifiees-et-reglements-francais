@@ -1,10 +1,12 @@
 # Article Annexe
 
-INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES
+**INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL
+
+AU RÉPERTOIRE NATIONAL DES CERTIFICATIONS PROFESSIONNELLES**
 
 Intitulé :
 
-Titre professionnel de technicien (ne) supérieur (e) d'études en construction métallique.
+Titre professionnel : technicien supérieur d'études en construction métallique.
 
 Niveau : III.
 
@@ -12,53 +14,45 @@ Code NSF : 254 n.
 
 Résumé du référentiel d'emploi
 
-Le (la) technicien (ne) supérieur (e) d'études en construction métallique effectue des études de conception d'ouvrages à ossature métallique. Il (elle) réalise ou accompagne la réalisation des plans d'exécution et constitue l'ensemble du dossier de production qu'il (elle) transmet à l'atelier de fabrication. Lors de l'étude d'avant-projet, à partir d'un dossier comprenant les plans et les pièces écrites concernant l'ouvrage à réaliser, il (elle) définit un état quantitatif et fait un relevé descriptif des travaux, conforme aux normes et réglementations. Lors de l'étude d'exécution, à partir du dossier d'avant-projet, il (elle) participe à la réalisation des notes de calculs. Il (elle) établit ou fait établir tous les documents permettant de fabriquer et de monter des structures métalliques.
-
-Ce (cette) technicien (ne) supérieur (e) travaille sous la responsabilité d'un chef de service, généralement un ingénieur structure. Il (elle) peut, selon la taille des projets, encadrer une équipe de dessinateurs. Il (elle) exerce son emploi en bureaux d'études d'entreprises, en bureaux d'études indépendants agissant pour plusieurs entreprises ou au sein de cabinets d'ingénierie du BTP.L'emploi est principalement sédentaire. La station debout n'est plus prépondérante du fait de l'informatisation du dessin. Des déplacements ponctuels sont possibles à l'atelier de production ou sur le chantier, pour des réunions ou des relevés de cotes.
+Le technicien supérieur d'études en construction métallique est chargé d'élaborer les plans d'ouvrages métalliques à partir de cahiers des charges. Il dispose de logiciels de conception et de calculs pour produire des solutions à un projet. Il respecte les normes et les directives du responsable du bureau d'études. Il réalise, sous forme de plans de projet, le maillage et la typologie de la structure en adéquation avec les paramètres du maître d'ouvrage. Il combine les différentes variantes pour allier les enjeux du client et les points forts de la production de l'entreprise. Une fois la commande obtenue, il élabore les plans d'ensemble et d'exécution du chantier. Il intègre les exigences du développement durable. Ses productions sont exploitées pour la production de l'atelier et du chantier. Il communique avec l'ensemble des acteurs de la construction pour le contrôle et la réalisation des plans complémentaires tels que les fondations. Les constructions sont principalement des bâtiments industriels et tertiaires.L'emploi est principalement sédentaire. La rigueur des productions exige une grande faculté de concentration. La conception et le calcul des structures s'effectuent avec l'outil informatique. Parfois, des déplacements à l'atelier de production ou sur le chantier sont nécessaires pour des réunions de coordination ou réunions de chantier. Il réalise l'ensemble des activités dans le respect des règles de sécurité individuelles et collectives.
 
 Capacités attestées et descriptif
 
 des composantes de la certification
 
-1. Concevoir, en avant-projet,
+1. Elaborer en avant-projet des conceptions techniques
 
-des ouvrages de construction métallique
+de construction métallique
 
-Déterminer des solutions de construction métallique, à partir d'un cahier des charges et en respectant la réglementation.
+Concevoir et justifier différentes solutions pour une même structure métallique.
 
-Effectuer des croquis et des détails techniques de construction métallique.
+Réaliser des plans de projet de constructions métalliques.
 
-Réaliser des notes de calculs d'ossatures principales de construction métallique en avant-projet.
+2. Exploiter une note de calculs de construction métallique
 
-2. Réaliser des plans de construction métallique
+et produire le dossier d'exécution
 
-Adapter des produits de l'enveloppe du bâtiment industriel et des ouvrages de métallerie-serrurerie.
+Adapter l'ossature métallique à l'enveloppe du bâtiment.
 
-Dessiner à la planche ou en dessin assisté par ordinateur des plans d'exécution de constructions métalliques en se référant à des notes de calculs.
+Dimensionner des éléments composant une structure métallique.
 
-Effectuer des relevés de cotes sur un chantier.
+Déterminer et justifier un assemblage d'ossature métallique.
 
-Déterminer les profils métalliques et les systèmes de liaison d'une ossature principale en construction métallique, à partir de notes de calculs.
-
-3. Réaliser le dossier d'exécution
-
-d'une construction métallique
-
-Réaliser des notes de calculs d'ossatures principales en construction métallique suivant les directives de l'ingénieur structure.
-
-Déterminer les profils métalliques et les systèmes de liaison d'une ossature principale en construction métallique, à partir de notes de calculs.
-
-Réaliser des documents de fabrication des éléments de construction métallique.
+Réaliser des documents nécessaires à la justification et à la construction de la structure métallique.
 
 Secteurs d'activités ou types d'emploi
 
 accessibles par le détenteur du titre
 
-Bureaux d'études d'entreprises ou indépendants intervenant dans le domaine de la construction métallique.
+Bureaux d'études d'entreprises.
+
+Bureaux d'études indépendants.
+
+Cabinets d'ingénierie du BTP.
 
 Code ROME :
 
-61221-Dessinateur (trice) du bâtiment et des travaux publics.
+61221-dessinateur (trice) du bâtiment et des travaux publics.
 
 Réglementation de l'activité :
 
@@ -70,8 +64,6 @@ Ministère chargé de l'emploi.
 
 Bases légales et réglementaires :
 
-Loi n° 2002-73 du 17 janvier 2002 de modernisation sociale ;
+Articles L. 335-5 et suivants et R. 338-1 et suivants du code de l'éducation ;
 
-Décret n° 2002-1029 du 2 août 2002 ;
-
-Arrêté du 25 novembre 2002.
+Arrêté du 9 mars 2006 relatif aux conditions de délivrance du titre professionnel du ministère chargé de l'emploi.
