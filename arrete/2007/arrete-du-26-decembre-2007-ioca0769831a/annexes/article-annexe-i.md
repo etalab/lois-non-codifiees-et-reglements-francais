@@ -5,22 +5,32 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 <table>
 <tbody>
 <tr>
-<th colspan="3">LOCALISATION DE L'EMPLOI <br/>
+<th colspan="3">
+<font size="1">LOCALISATION DE L'EMPLOI <br/>
+</font>
 </th>
 </tr>
 <tr>
 <th colspan="3">
-<br/>Conseillers d'administration de l'intérieur et de l'outre-mer exerçant les fonctions suivantes dans les directions et services d'administration centrale du ministère de l'intérieur, de l'outre-mer et des collectivités territoriales, de la  préfecture de la région d'Ile-de-France, préfecture de Paris, de la préfecture de police et du ministère de l'immigration, de l'intégration, de l'identité nationale et du développement solidaire <br/>
+<br/>
+<font size="1">Conseillers d'administration de l'intérieur et de l'outre-mer exerçant les fonctions suivantes dans les directions et services d'administration centrale du ministère de l'intérieur, de l'outre-mer et des collectivités territoriales, de la préfecture de la région d'Ile-de-France, préfecture de Paris, de la préfecture de police et du ministère de l'immigration, de l'intégration, de l'identité nationale et du développement solidaire <br/>
+</font>
 </th>
 </tr>
 <tr>
 <th>
-<br/>Directions et services <br/>
+<br/>
+<font size="1">Directions et services <br/>
+</font>
 </th>
 <th>
-<br/>Fonctions </th>
+<br/>
+<font size="1">Fonctions </font>
+</th>
 <th>
-<br/>Points NBI </th>
+<br/>
+<font size="1">Points NBI</font>
+</th>
 </tr>
 <tr>
 <td align="center">
@@ -93,13 +103,14 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 </td>
 <td align="center">
 <br/>Chef du bureau des affaires juridiques. <p>Chef du bureau du budget et de la programmation financière. </p>
-<p>Chef du bureau du personnel et des compétences. <br/>
-</p>
+<p>Chef du bureau du personnel et des compétences. </p>
+<p>Chef de cabinet.</p>
 </td>
 <td align="center">
 <br/>50 <p>30 </p>
 <p>30 <br/>
 </p>
+<p>30</p>
 </td>
 </tr>
 <tr>
@@ -117,8 +128,8 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 <br/>60 <p>50 </p>
 <p>30 </p>
 <p>30 </p>
-<p>30 <br/>
-</p>
+<br/>
+<p>30</p>
 </td>
 </tr>
 <tr>
@@ -266,7 +277,7 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 <tr>
 <td align="center"/>
 <td align="center">
-<br/>Chef du bureau des rémunérations et régimes indemnitaires. <br/>
+<br/>Chef du bureau des personnels administratifs, techniques et scientifiques. (1)<br/>
 </td>
 <td align="center">
 <br/>50 <br/>
@@ -329,8 +340,7 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 <tr>
 <td align="center"/>
 <td align="center">
-<br/>Chef de la mission de la politique immobilière. <br/>
-</td>
+<br/>Chef de la mission CHORUS de la police nationale. </td>
 <td align="center">
 <br/>30 <br/>
 </td>
@@ -453,7 +463,7 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 <br/>Service des affaires immobilières. <br/>
 </td>
 <td align="center">
-<br/>Chef du bureau des affaires budgétaires, adjoint au chef du département modernisation, moyens et méthode. (1) </td>
+<br/>Chef du bureau des affaires budgétaires, adjoint au chef du département modernisation, moyens et méthode. </td>
 <td align="center">
 <br/>50 <br/>
 </td>
@@ -584,6 +594,17 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 </td>
 </tr>
 <tr>
+<td>
+<p align="center">Direction de l'ordre public et de la circulation. </p>
+</td>
+<td>
+<p align="center">Chef de la mission rationalisation des missions support. </p>
+</td>
+<td>
+<p align="center">50</p>
+</td>
+</tr>
+<tr>
 <td align="center">
 <br/>Délégation générale à l'outre-mer. <br/>
 </td>
@@ -599,7 +620,7 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 <br/>Service des affaires juridiques et institutionnelles. <br/>
 </td>
 <td align="center">
-<br/>Adjoint au chef du département du droit privé et du droit des activités économiques et sociales. <br/>
+<br/>Chef de la mission contentieux, légistique et fonction publique. <br/>
 </td>
 <td align="center">
 <br/>30 <br/>

@@ -1,4 +1,4 @@
-# Arrêté du 7 mars 2003 portant création et fixant les attributions du centre de normalisation de défense
+# Chapitre Ier : Organisation du service industriel de l'aéronautique
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
