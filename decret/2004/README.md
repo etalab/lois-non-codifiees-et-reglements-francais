@@ -912,7 +912,6 @@
 - [Décret n°2004-1177 du 28 octobre 2004 (EQUA0401063D)](decret-n2004-1177-du-28-octobre-2004-equa0401063d)
 - [Décret n°2004-368 du 28 avril 2004 (ECOF0400024D)](decret-n2004-368-du-28-avril-2004-ecof0400024d)
 - [Décret n°2004-385 du 28 avril 2004 (SOCF0410652D)](decret-n2004-385-du-28-avril-2004-socf0410652d)
-- [Décret n°2004-386 du 28 avril 2004 (SOCF0410653D)](decret-n2004-386-du-28-avril-2004-socf0410653d)
 - [Décret n°2004-628 du 28 juin 2004 (ECOR0460115D)](decret-n2004-628-du-28-juin-2004-ecor0460115d)
 - [Décret n°2004-760 du 28 juillet 2004 (SOCT0411143D)](decret-n2004-760-du-28-juillet-2004-soct0411143d)
 - [Décret n°2004-761 du 28 juillet 2004 (SANH0421475D)](decret-n2004-761-du-28-juillet-2004-sanh0421475d)
