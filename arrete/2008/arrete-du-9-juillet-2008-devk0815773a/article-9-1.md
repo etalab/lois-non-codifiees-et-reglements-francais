@@ -1,21 +1,17 @@
 # Article 9.1
 
-La sous-direction de l'action interministérielle :
+La délégation à la sécurité et à la circulation routières comprend :
 
-― prépare, pilote, anime et évalue la politique interministérielle de sécurité routière. Elle développe la mobilisation des réseaux nationaux et locaux ;
+― la sous-direction de l'action interministérielle ;
 
-― pilote les évolutions de la réglementation routière en matière de signalisation, d'équipements de la route et de circulation ;
+― la sous-direction de l'éducation routière ;
 
-― assiste l'ensemble de la délégation pour l'élaboration et le suivi de l'instruction des textes législatifs et réglementaires et assure le secrétariat du groupe interministériel permanent de sécurité routière.
+― la sous-direction des actions transversales et des ressources ;
 
-La sous-direction de l'action interministérielle est constituée par :
+― le département de la communication et de l'information ;
 
-― le bureau de la coordination des politiques et des partenariats nationaux ;
+- le département du contrôle automatisé ;
 
-― le bureau des politiques et de l'animation locale ;
+― la mission d'audit de sécurité des infrastructures.
 
-― le bureau de la législation et de la réglementation ;
-
-― le bureau de la sécurité de la route et de la circulation ;
-
-― la mission de l'expertise automobile.
+Le délégué à la sécurité et à la circulation routières est assisté d'un adjoint, chef de service.

@@ -6,5 +6,7 @@
 - [Chapitre III : Primes de direction.](chapitre-iii)
 - [Chapitre IV : Prime liée aux compétences certifiées.](chapitre-iv)
 - [Chapitre V : Prime liée à l'affectation dans une unité desservant une zone urbaine sensible.](chapitre-v)
+- [Chapitre VI : Indemnités de mobilité.](chapitre-vi)
 - [Chapitre VII : Astreintes.](chapitre-vii)
 - [Chapitre VIII : Autres indemnités.](chapitre-viii)
+- [Article 18](article-18.md)
