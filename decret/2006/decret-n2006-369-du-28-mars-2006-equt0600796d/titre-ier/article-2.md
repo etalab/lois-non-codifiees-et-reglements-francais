@@ -2,13 +2,13 @@
 
 L'établissement a pour mission :
 
-a) De délivrer, renouveler, restreindre, suspendre ou retirer les agréments, certificats et attestations de sécurité, les agréments d'experts ou d'organismes qualifiés, les agréments des centres de formation, de délivrer, restreindre, suspendre ou retirer les autorisations de réalisation, de modification substantielle et de mise en exploitation commerciale de systèmes et sous-systèmes de transport ferroviaire prévues à l'article 13-1 de la loi du 30 décembre 1982 susvisée ;
+a) De délivrer, renouveler, restreindre, suspendre ou retirer les agréments de sécurité, les certificats de sécurité, les attestations de sécurité, les agréments d'organismes qualifiés, les agréments des centres de formation et, de façon générale, toutes les autorisations requises pour l'exercice d'une activité ferroviaire qui lui sont confiées par la réglementation ;
 
 b) D'assurer le suivi et le contrôle des autorisations mentionnées au a en particulier au moyen d'inspections et d'audits ;
 
 c) D'assurer le contrôle de la mise sur le marché des constituants d'interopérabilité conformément aux dispositions des articles 26 à 26-6 de la loi n° 82-1153 du 30 décembre 1982 susvisée ;
 
-d) D'élaborer et de publier les documents techniques, règles de l'art et recommandations relatifs à la sécurité et à l'interopérabilité ferroviaires ;
+d) De publier tout document technique, règle de l'art et recommandation, élaboré ou non par l'établissement public, de nature à faciliter le respect, par les personnes concernées, des exigences réglementaires relatives à la sécurité et à l'interopérabilité ferroviaires ;
 
 e) De répondre aux consultations du ministre chargé des transports sur toute question relative à la sécurité et à l'interopérabilité ferroviaires et de lui faire toute proposition d'évolution de la réglementation ;
 

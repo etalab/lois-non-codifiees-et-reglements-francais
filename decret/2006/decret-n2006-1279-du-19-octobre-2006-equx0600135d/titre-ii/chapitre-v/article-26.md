@@ -1,9 +1,9 @@
 # Article 26
 
-La formation aux fonctions de sécurité est délivrée par des centres agréés par l'EPSF dans le respect d'un cahier des charges dont le contenu, qui précise notamment les conditions de délivrance de l'agrément, est défini par un arrêté du ministre chargé des transports.
+L'arrêté prévu au V de l'article 6 définit les qualifications professionnelles que doivent détenir les personnes affectées aux tâches essentielles pour la sécurité autres que la conduite des trains. Il définit, en tant que de besoin, celles de ces tâches pour lesquelles les entreprises ferroviaires et les gestionnaires d'infrastructure doivent fixer des conditions d'aptitude physique et psychologique minimales préalablement à l'affectation des personnes concernées.
 
-Cette formation couvre la connaissance de la partie utile, pour la personne à former, des lignes du réseau ferré national et celle de la réglementation de sécurité de l'exploitation de ce réseau, du système de signalisation et de contrôle-commande ainsi que des procédures d'urgence.
+La formation requise pour l'habilitation de ces personnes couvre en particulier la connaissance de la partie utile des lignes du réseau ferré national et celle de la réglementation de sécurité de l'exploitation de ce réseau, du système de signalisation et de contrôle commande ainsi que des procédures d'urgence. Elle est sanctionnée par la délivrance d'une attestation de formation.
 
-Le centre délivre une attestation aux personnes qui ont reçu la formation.
+Elle est organisée par l'entreprise ferroviaire ou le gestionnaire d'infrastructure, qui justifie, dans le cadre de son système de gestion de sécurité, les dispositions qu'il met en œuvre pour définir le programme de la formation, la réaliser et en assurer la bonne exécution. Lorsque l'entreprise ferroviaire ou le gestionnaire d'infrastructure fait appel à un organisme de formation agréé par l'EPSF, il n'a pas à justifier les modalités de réalisation et de suivi de la formation.L'agrément est délivré dans le respect d'un cahier des charges dont le contenu est défini par un arrêté du ministre chargé des transports. Cet arrêté fixe les conditions de délivrance de cet agrément.
 
-Le titulaire d'un agrément, d'un certificat ou d'une attestation de sécurité doit justifier, sur simple demande de l'EPSF, de la possession d'une attestation de formation par toute personne affectée à une tâche essentielle pour la sécurité des circulations sur le réseau ferré national.
+Le titulaire d'un agrément, d'un certificat ou d'une attestation de sécurité justifie, sur simple demande de l'EPSF, de la détention d'une attestation de formation par toute personne affectée à une tâche essentielle pour la sécurité des circulations sur le réseau ferré national.

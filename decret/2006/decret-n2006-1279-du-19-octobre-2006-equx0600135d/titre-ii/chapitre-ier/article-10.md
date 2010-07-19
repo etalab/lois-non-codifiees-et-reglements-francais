@@ -1,12 +1,14 @@
 # Article 10
 
-RFF approuve et publie la documentation d'exploitation du réseau ferré national élaborée par la SNCF, qui précise les conditions techniques d'admission des circulations et les consignes locales d'exploitation selon les sections de ce réseau que doivent respecter les entreprises ferroviaires titulaires du certificat prévu à l'article 20. Il approuve et publie dans les mêmes conditions les règles d'exploitation particulières applicables aux activités suivantes :
+RFF, après avoir recueilli l'avis du service gestionnaire des trafics et des circulations, établit et publie la documentation d'exploitation du réseau ferré national qui, selon les sections de ce réseau, précise les conditions techniques d'admission des circulations et les consignes locales d'exploitation que doivent respecter les entreprises ferroviaires titulaires du certificat prévu à l'article 20.L'avis du service gestionnaire des trafics et des circulations est réputé émis au terme du délai fixé par RFF qui ne peut être inférieur à un mois. RFF établit et publie dans les mêmes conditions les règles d'exploitation particulières applicables aux activités suivantes :
 
 1° La circulation depuis les zones de chantier et vers celles-ci des convois ferroviaires utilisés pour la réalisation de travaux sur le réseau ferré national ;
 
 2° La circulation de convois ferroviaires sur des voies de service ou d'embranchement du réseau ferré national lorsqu'elle relève d'un service de transport réalisé sur un réseau public ou privé raccordé à celui-ci ainsi que les manoeuvres accomplies à cette occasion par nécessité sur les voies principales ;
 
 3° Les activités réalisées sur les voies du réseau ferré national, y compris la circulation de convois ferroviaires, lors des périodes au cours desquelles il n'est offert aucune capacité d'infrastructure.
+
+RFF peut, par la convention prévue au III de l'article 24 de la loi du 30 décembre 1982, confier à la SNCF l'élaboration de tout ou partie des documents mentionnés au premier alinéa du présent article.
 
 L'EPSF peut exiger la modification ou le retrait des conditions techniques, consignes locales d'exploitation ou règles d'exploitation particulières mentionnées au premier alinéa qui ne permettent pas de maintenir le niveau de sécurité des circulations ferroviaires ou qui font obstacle au respect des impératifs d'interopérabilité définis au titre IV du présent décret.
 

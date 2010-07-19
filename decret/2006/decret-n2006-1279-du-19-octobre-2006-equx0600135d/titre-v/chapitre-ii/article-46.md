@@ -1,3 +1,3 @@
 # Article 46
 
-L'EPSF fait connaître au promoteur ainsi qu'aux organismes qu'il a consultés son avis sur le dossier de définition. Cet avis précise les points particuliers liés à la sécurité à prendre en compte pour la conception et la réalisation du système ou sous-système.
+Le dossier de conception de la sécurité prévu à la fin des études de conception d'un véhicule précise les objectifs de sécurité poursuivis et les méthodes qui seront appliquées pour les atteindre, les méthodes de démonstration et les principes dont le respect permettra le maintien du niveau de sécurité pendant toute la période d'exploitation du véhicule. Il est accompagné d'un rapport établi par l'organisme qualifié agréé.

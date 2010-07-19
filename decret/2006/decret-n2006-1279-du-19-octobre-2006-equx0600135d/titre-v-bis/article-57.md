@@ -1,0 +1,7 @@
+# Article 57
+
+Sans préjudice des dispositions prévues au titre V, aucun véhicule au sens du II de l'article 42 n'est autorisé à circuler sur un réseau ouvert au public s'il ne peut être identifié.
+
+Les véhicules effectuant une activité de transport public sur les voies principales du réseau ferré national et de la partie française de la liaison fixe trans-Manche sont identifiés par l'apposition sur chaque véhicule d'un numéro européen attribué soit par l'EPSF lors de la délivrance de l'autorisation de mise en exploitation commerciale, soit par l'autorité compétente d'un autre Etat membre de l'Union européenne ou d'un Etat appliquant des règles équivalentes à celles de l'Union européenne en vertu d'accords conclus avec celle-ci. Cette formalité incombe au demandeur de la première autorisation.
+
+Les véhicules effectuant exclusivement l'une des activités mentionnées aux 1° et 2° de l'article 10 et celle des véhicules circulant sur les réseaux relevant du titre III ou sur des sections spécifiques du réseau ferré national définies par arrêté du ministre chargé des transports en fonction de leurs particularités techniques ou de leur enclavement par rapport au reste du réseau sont identifiés par l'apposition sur chaque véhicule, par son détenteur, d'une inscription dont les caractéristiques sont fixées par arrêté du ministre chargé des transports. Cette formalité n'est pas requise lorsque le véhicule dispose d'un numéro européen.

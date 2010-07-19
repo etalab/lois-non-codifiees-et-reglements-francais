@@ -4,9 +4,9 @@ L'établissement est administré par un conseil d'administration composé de dou
 
 1° Cinq membres de droit représentant l'Etat :
 
-a) Le directeur des transports ferroviaires et collectifs ou son représentant ;
+a) Le directeur des services de transport ou son représentant ;
 
-b) Le directeur des affaires économiques et internationales auprès du ministre chargé des transports ou son représentant ;
+b) Le directeur des infrastructures de transport ou son représentant ;
 
 c) Le directeur du budget ou son représentant ;
 

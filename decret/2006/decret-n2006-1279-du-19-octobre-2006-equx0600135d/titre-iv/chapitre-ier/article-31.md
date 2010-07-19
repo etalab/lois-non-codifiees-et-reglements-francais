@@ -12,7 +12,7 @@ I. - Au sens du présent titre, on entend par :
 
 5° "Constituants d'interopérabilité" : les composants élémentaires, groupes de composants, sous-ensembles ou ensembles complets de matériels incorporés ou destinés à être incorporés dans un sous-système, déterminés par les spécifications techniques d'interopérabilité ;
 
-6° "Exigences essentielles" : les conditions, définies en annexe (non reproduite, consulter le fac-similé) au présent décret, que doivent satisfaire, selon le système ferroviaire auquel ils appartiennent, les sous-systèmes, les constituants d'interopérabilité et leurs interfaces ;
+6° "Exigences essentielles" : les conditions, définies en annexe au présent décret, que doivent satisfaire, selon le système ferroviaire auquel ils appartiennent, les sous-systèmes, les constituants d'interopérabilité et leurs interfaces ;
 
 7° "Spécifications européennes" : les spécifications techniques communes, les agréments techniques européens ou les normes nationales transposant une norme européenne ;
 
@@ -22,11 +22,11 @@ I. - Au sens du présent titre, on entend par :
 
 10° "Réaménagement" : les travaux importants de modification d'un sous-système ou d'une partie de sous-système ;
 
-11° "Renouvellement" : les travaux importants de substitution d'un sous-système ou d'une partie de sous-système à un sous-système ou partie de sous-système existants ;
+11° "Renouvellement" : les travaux importants de substitution d'un sous-système ou d'une partie de sous-système à un sous-système ou partie de sous-système existants ne modifiant pas ses performances globales ;
 
 12° "Substitution dans le cadre d'un entretien" : le remplacement de composants par des pièces ayant une fonction et offrant des performances identiques dans le cadre d'un entretien préventif ou correcteur.
 
-II. - RFF établit le registre de l'infrastructure du réseau ferré national décrivant les caractéristiques principales de chaque sous-système et partie de sous-système autorisés et la concordance entre celles-ci et les prescriptions des spécifications techniques d'interopérabilité applicables. Ce registre est mis à jour chaque année et communiqué au ministre chargé des transports et à l'EPSF. Il est mis à la disposition du public.
+II. - RFF pour le réseau ferré national ou le responsable de la gestion de l'infrastructure pour les réseaux relevant du titre III établit et publie un registre de l'infrastructure dont il a la charge. Ce registre décrit les caractéristiques principales de chaque sous-système et partie de sous-système et la concordance entre celles-ci et les prescriptions des spécifications techniques d'interopérabilité applicables. Il comporte l'ensemble des paramètres techniques nécessaires à la définition des conditions techniques d'admission des circulations.
 
 III. - Le ministre chargé des transports précise par arrêté :
 
@@ -36,4 +36,6 @@ b) Les sous-systèmes des systèmes ferroviaires transeuropéens à grande vites
 
 c) La procédure d'évaluation de la conformité ou de l'aptitude à l'emploi des constituants d'interopérabilité et le contenu des déclarations "CE" correspondantes ainsi que la procédure de vérification "CE" des sous-systèmes et le contenu de la déclaration "CE" correspondante ;
 
-d) Les critères minimaux requis des organismes habilités.
+d) Les critères minimaux requis des organismes habilités ;
+
+e) Les modalités et les délais dans lesquels le registre de l'infrastructure est mis en œuvre, diffusé et tenu à jour.
