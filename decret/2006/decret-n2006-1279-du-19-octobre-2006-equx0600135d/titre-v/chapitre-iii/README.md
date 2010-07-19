@@ -4,7 +4,3 @@
 - [Section 2 : Sous-système ou véhicule déjà autorisé dans un autre Etat](section-2)
 - [Section 3 : Modification substantielle d'un véhicule déjà autorisé](section-3)
 - [Section 4 : Equivalence d'une autorisation délivrée dans un autre Etat avec l'autorisation de mise en exploitation commerciale en France](section-4)
-- [Article 47](article-47.md)
-- [Article 48](article-48.md)
-- [Article 49](article-49.md)
-- [Article 50](article-50.md)
