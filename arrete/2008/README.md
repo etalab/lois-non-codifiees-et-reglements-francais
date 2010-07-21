@@ -1108,7 +1108,6 @@
 - [Arrêté du 28 octobre 2008 (AGRG0825861A)](arrete-du-28-octobre-2008-agrg0825861a)
 - [Arrêté du 28 octobre 2008 (AGRP0823288A)](arrete-du-28-octobre-2008-agrp0823288a)
 - [Arrêté du 28 octobre 2008 (DEVA0810984A)](arrete-du-28-octobre-2008-deva0810984a)
-- [Arrêté du 28 octobre 2008 (DEVA0825954A)](arrete-du-28-octobre-2008-deva0825954a)
 - [Arrêté du 28 octobre 2008 (DEVA0826097A)](arrete-du-28-octobre-2008-deva0826097a)
 - [Arrêté du 28 octobre 2008 (ESRS0824401A)](arrete-du-28-octobre-2008-esrs0824401a)
 - [Arrêté du 28 octobre 2008 (IOCD0825628A)](arrete-du-28-octobre-2008-iocd0825628a)
