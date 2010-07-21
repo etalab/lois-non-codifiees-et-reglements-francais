@@ -1032,7 +1032,6 @@
 - [Décret n°2008-203 du 28 février 2008 (DEVT0765948D)](decret-n2008-203-du-28-fevrier-2008-devt0765948d)
 - [Décret n°2008-290 du 28 mars 2008 (JUSD0772079D)](decret-n2008-290-du-28-mars-2008-jusd0772079d)
 - [Décret n°2008-291 du 28 mars 2008 (MLVU0772016D)](decret-n2008-291-du-28-mars-2008-mlvu0772016d)
-- [Décret n°2008-406 du 28 avril 2008 (PRMX0808954D)](decret-n2008-406-du-28-avril-2008-prmx0808954d)
 - [Décret n°2008-407 du 28 avril 2008 (ECEM0804217D)](decret-n2008-407-du-28-avril-2008-ecem0804217d)
 - [Décret n°2008-408 du 28 avril 2008 (ECEM0804234D)](decret-n2008-408-du-28-avril-2008-ecem0804234d)
 - [Décret n°2008-409 du 28 avril 2008 (MTSS0803184D)](decret-n2008-409-du-28-avril-2008-mtss0803184d)

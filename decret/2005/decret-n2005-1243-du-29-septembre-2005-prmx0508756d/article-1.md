@@ -10,7 +10,7 @@ Le Premier ministre peut inviter d'autres membres du Gouvernement à participer 
 
 Le comité fixe les orientations de la politique gouvernementale en matière de développement de l'offre de logements. Il traite des différents aspects de cette politique, et en particulier de la politique de mobilisation de la ressource foncière.
 
-Le secrétariat du comité interministériel pour le développement de l'offre de logements est assuré par un secrétaire général, placé auprès du ministre chargé du logement et nommé par décret pris sur le rapport du ministre chargé du logement.
+Le secrétariat du comité interministériel pour le développement de l'offre de logements est assuré par le délégué interministériel pour l'hébergement et l'accès au logement des personnes sans abri ou mal logées, secrétaire général du comité.
 
 Le secrétaire général prépare les travaux et délibérations du comité auquel il assiste.
 
