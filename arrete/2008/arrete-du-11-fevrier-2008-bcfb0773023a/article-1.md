@@ -28,7 +28,7 @@ Ecole nationale supérieure des arts décoratifs ;
 
 Ecole nationale supérieure des beaux-arts ;
 
-Etablissement public de maîtrise d'ouvrage des travaux culturels ;
+Opérateur du patrimoine et des projets immobiliers de la culture ;
 
 Etablissement public du musée des arts asiatiques Guimet ;
 

@@ -37,7 +37,7 @@
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="left">Agence nationale des fréquences</p>
+<p align="left">Agence nationale des fréquences </p>
 </td>
 <td align="left" valign="middle">
 <p align="left">Emplois des catégories A et B correspondant à l'exercice d'activités techniques dans le domaine de la planification et de la gestion du spectre, ainsi que dans le domaine de l'assignation, du contrôle et de la gestion des fréquences et des réseaux de radiocommunications. </p>
@@ -48,7 +48,7 @@
 <p align="left">Agence nationale pour l'amélioration des conditions de travail </p>
 </td>
 <td align="left" valign="middle">
-<p align="left">Emplois de catégorie A, B et C.</p>
+<p align="left">Emplois de catégorie A, B et C. </p>
 </td>
 </tr>
 <tr>
@@ -149,7 +149,7 @@
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="left">Office national de l'eau et des milieux aquatiques. </p>
+<p align="left">Office national de l'eau et des milieux aquatiques</p>
 </td>
 <td align="left" valign="middle">
 <p align="left">Emplois de catégorie A, B et C, à l'exception des agents de catégorie B et C chargés de la surveillance des milieux aquatiques. </p>
@@ -224,12 +224,12 @@
 <p align="left">Etablissement public de la Bibliothèque nationale de France </p>
 </td>
 <td align="left" valign="middle">
-<p align="left">Emplois des catégories A, B et C des services commerciaux et d'édition, des services de la communication et des services d'organisation des expositions, à l'exception des chefs de service. </p>
+<p align="left">Emplois des catégories A, B et C des services commerciaux et d'édition, des services de la communication et des services d'organisation des expositions, à l'exception des chefs de service.</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="left">Etablissement public de maîtrise d'ouvrage des travaux culturels </p>
+<p align="left">Opérateur du patrimoine et des projets immobiliers de la culture </p>
 </td>
 <td align="left" valign="middle">
 <p align="left">Emplois de catégorie A, B et C. </p>
@@ -308,7 +308,7 @@
 <p align="left">Laboratoire national de dépistage du dopage </p>
 </td>
 <td align="left" valign="middle">
-<p align="left">Emplois requérant une compétence spécifique de chef de département, cadre technique ou technicien d'analyses spécialisé dans la détection des produits et procédés dopants </p>
+<p align="left">Emplois requérant une compétence spécifique de chef de département, cadre technique ou technicien d'analyses spécialisé dans la détection des produits et procédés dopants. </p>
 </td>
 </tr>
 <tr>
@@ -364,12 +364,12 @@
 <p align="left">Agence nationale des titres sécurisés </p>
 </td>
 <td>
-<p align="left">Emplois de catégories A et B requérant des compétences spécialisées dans les domaines des technologies et des systèmes d'information indispensables à la conception et à la gestion des titres sécurisés. Emplois de catégorie C liés à des fonctions de téléopérateur ou d'assistance informatique, technique et administrative au sein du centre d'appels </p>
+<p align="left">Emplois de catégories A et B requérant des compétences spécialisées dans les domaines des technologies et des systèmes d'information indispensables à la conception et à la gestion des titres sécurisés. Emplois de catégorie C liés à des fonctions de téléopérateur ou d'assistance informatique, technique et administrative au sein du centre d'appels.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="left">Etablissement public du parc national de la Réunion. </p>
+<p align="left">Etablissement public du parc national de la Réunion</p>
 </td>
 <td>
 <p align="left">Emplois de catégories B et C nécessaires à l'information, la médiation, l'aménagement et la mise en valeur du patrimoine requérant des connaissances spécialisées du patrimoine naturel et culturel réunionnais. </p>
@@ -389,12 +389,12 @@
 </td>
 <td>
 <p align="left">Les emplois de catégories A et B requérant des connaissances spécialisées en matière de programmation culturelle et production, d'animation du réseau et des partenariats et de développement des publics, applicables dans le domaine des populations et de l'histoire de l'immigration. </p>
-<p align="left">Les emplois de catégories A et B liés à la médiation.</p>
+<p align="left">Les emplois de catégories A et B liés à la médiation. </p>
 </td>
 </tr>
 <tr>
 <td align="left">
-<p align="left">Etablissement de retraite additionnelle de la fonction publique</p>
+<p align="left">Etablissement de retraite additionnelle de la fonction publique </p>
 </td>
 <td>
 <p align="left">Emplois requérant des compétences spécifiques en matière de gestion et d'analyse financière ainsi que ceux requérant des compétences spécialisées en actuariat.</p>

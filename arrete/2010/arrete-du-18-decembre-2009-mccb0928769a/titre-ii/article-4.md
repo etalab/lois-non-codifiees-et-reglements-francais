@@ -86,13 +86,13 @@ Etablissement public du musée et domaine national du château de Fontainebleau 
 
 Etablissement public de la porte Dorée-Cité nationale de l'histoire de l'immigration ;
 
-Etablissement public de maîtrise d'ouvrage des travaux culturels ;
+Opérateur du patrimoine et des projets immobiliers de la culture ;
 
 Etablissement public de Sèvres-Cité de la céramique ;
 
 Etablissement public du musée d'Orsay et du musée de l'Orangerie ;
 
-Etablissement public du musée des Arts asiatiques - Guimet ;
+Etablissement public du musée des Arts asiatiques-Guimet ;
 
 Etablissement public du musée Rodin ;
 
