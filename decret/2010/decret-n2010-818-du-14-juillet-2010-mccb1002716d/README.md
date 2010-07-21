@@ -1,0 +1,4 @@
+# Décret n° 2010-818 du 14 juillet 2010 relatif à l'Opérateur du patrimoine et des projets immobiliers de la culture
+
+- [CHAPITRE IER : DISPOSITIONS MODIFIANT LE DECRET DU 19 MAI 1998 PORTANT CREATION DE L'ETABLISSEMENT PUBLIC DE MAITRISE D'OUVRAGE DES TRAVAUX CULTURELS](chapitre-ier)
+- [CHAPITRE II : DISPOSITIONS TRANSITOIRES ET FINALES](chapitre-ii)
