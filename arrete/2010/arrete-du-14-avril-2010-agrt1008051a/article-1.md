@@ -4,7 +4,7 @@ I. ― Les demandeurs de quotas supplémentaires adressent au préfet du départ
 
 Seuls peuvent être attributaires de quotas les producteurs :
 
-a) Dont le taux d'utilisation du quota pour la livraison est supérieur à 95 % en moyenne sur les campagnes 2008-2009 et 2009-2010, compte tenu de la correction relative au taux de matière grasse.
+a) Dont le taux d'utilisation du quota pour la livraison est supérieur à 95 % sur l'une ou l'autre des campagnes 2008-2009 ou 2009-2010, compte tenu de la correction relative au taux de matière grasse.
 
 Ce critère ne s'applique pas pour les producteurs installés en 2009-2010 et en 2010-2011.
 

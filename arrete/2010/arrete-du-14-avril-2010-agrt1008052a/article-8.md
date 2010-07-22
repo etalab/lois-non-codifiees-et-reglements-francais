@@ -1,6 +1,6 @@
 # Article 8
 
-Dans la limite des sous-réalisations disponibles au niveau national, l'assiette du prélèvement sur les excédents pourra être réduite des dons de lait effectués par le producteur dans la limite de 3 000 litres, avant une date fixée par le directeur général de FranceAgriMer, après avis du conseil spécialisé filières laitières de FranceAgriMer ; cette date ne pourra pas être postérieure au 15 février 2011. Le volume total au niveau national des dons de lait ne pourra toutefois pas excéder 25 000 tonnes.
+Dans la limite des sous-réalisations disponibles au niveau national après application des alinéas 4 et 5 de l'article 7, l'assiette du prélèvement sur les excédents pourra être réduite des dons de lait effectués par le producteur dans la limite de 3 000 litres, avant une date fixée par le directeur général de FranceAgriMer, après avis du conseil spécialisé filières laitières de FranceAgriMer ; cette date ne pourra pas être postérieure au 15 février 2011. Le volume total au niveau national des dons de lait ne pourra toutefois pas excéder 25 000 tonnes.
 
 La procédure de gestion des dons de lait est réalisée conformément au cahier des charges agréé le 19 février 1999, modifié par le directeur de la production et des échanges.
 
