@@ -1,3 +1,9 @@
 # Article 4
 
-Le directeur général de la concurrence, de la consommation et de la répression des fraudes et le directeur général de l'alimentation sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+L'étiquetage de l'huile de lin vierge comporte les mentions suivantes :
+
+- " ne pas utiliser pour la friture "  ;
+
+- " conserver à l'abri de la chaleur avant ouverture "  ;
+
+- " après ouverture, conserver au réfrigérateur maximum trois mois " .

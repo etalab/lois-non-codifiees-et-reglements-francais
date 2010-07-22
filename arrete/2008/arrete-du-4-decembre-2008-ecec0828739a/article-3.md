@@ -1,3 +1,3 @@
 # Article 3
 
-La teneur en alpha et gamma-tocophérols des aliments contenant de l'huile de lin doit être supérieure à 3 mg/g d'acide alpha-linolénique.
+L'huile de lin vierge est présentée dans un conditionnement en matériau opaque d'un volume maximal de 250 ml, ayant subi un inertage à l'azote avant son obturation et ayant une date limite d'utilisation optimale inférieure à neuf mois.
