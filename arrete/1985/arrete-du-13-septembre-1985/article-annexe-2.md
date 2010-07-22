@@ -16,6 +16,16 @@ Les différents types de paris susceptibles d'être engagés au pari mutuel sont
 <td align="center">
 <br/>Pari "Simple"</td>
 <td align="center">
+<br/>Pari "Simple"</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">
 <br/>Pari "Tiercé"</td>
 <td align="center">
 <br/>Pari "Tiercé"</td>
@@ -40,7 +50,8 @@ Les différents types de paris susceptibles d'être engagés au pari mutuel sont
 <td align="center">
 <br/>Pari "Couplé"</td>
 <td align="center">
-<br/>Pari "Trio Ordre International"</td>
+<br/>
+</td>
 <td align="center">
 <br/>Pari "Quartet"</td>
 </tr>
@@ -48,41 +59,71 @@ Les différents types de paris susceptibles d'être engagés au pari mutuel sont
 <td align="center">
 <br/>Pari "Couplé Hippodrome"</td>
 <td align="center">
-<br/>Pari "Trio"</td>
-<td align="center">
-<br/>Pari "Quarté Plus" :<br/>Rapports ordre exact et ordre inexact</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Pari "Trio"</td>
-<td align="center">
-<br/>Pari "Trio Ordre"</td>
-<td align="center">
-<br/>Pari "Quinté Plus" :<br/>Rapports ordre exact, ordre inexact et Tirelire</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Pari "Trio Ordre"</td>
-<td align="center">
-<br/>Pari "Quarté Plus" :<br/>rapports ordre exact et ordre inexact</td>
+<br/>Pari "Couplé Hippodrome"</td>
 <td align="center">
 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Pari "Quarté Plus" : rapport Bonus</td>
+<br/>
+</td>
 <td align="center">
-<br/>Pari "Quarté Plus" : rapport Bonus</td>
+<br/>Pari "Trio Ordre International"</td>
 <td align="center">
 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Pari "Quinté Plus" :<br/>rapports Bonus 3, Bonus 4 sur 5 et Bonus 4</td>
+<br/>Pari "Trio"</td>
+<td align="center">
+<br/>Pari "Trio"</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Pari "Trio Ordre"</td>
+<td align="center">
+<br/>Pari "Trio Ordre"</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
+<td align="center">
+<br/>Pari "Quarté Plus" :<br/>rapport ordre exact et ordre inexact</td>
+<td align="center">
+<br/>Pari "Quarté Plus" :<br/>rapport ordre exact et ordre inexact</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Pari "Quarté Plus" : rapport bonus</td>
+<td align="center">
+<br/>Pari "Quarté Plus" : rapport bonus</td>
+<td align="center">
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>
+</td>
 <td align="center">
 <br/>Pari "Quinté Plus" :<br/>rapports ordre exact, ordre inexact et Tirelire</td>
+<td align="center">
+<br/>Pari "Quinté Plus" :<br/>rapports ordre exact, ordre inexact et Tirelire</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Pari "Quinté Plus" :<br/>rapports Bonus 3, Bonus 4 sur 5 et Bonus 4.</td>
+<td align="center">
+<br/>Pari "Quinté Plus" :<br/>rapports Bonus 3, Bonus 4 sur 5 et Bonus 4.</td>
 <td align="center">
 <br/>
 </td>
@@ -90,16 +131,6 @@ Les différents types de paris susceptibles d'être engagés au pari mutuel sont
 <tr>
 <td align="center">
 <br/>Pari "Multi"</td>
-<td align="center">
-<br/>Pari "Quinté Plus" :<br/>rapports Bonus 3, Bonus 4 sur 5 et Bonus 4</td>
-<td align="center">
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>
-</td>
 <td align="center">
 <br/>Pari "Multi"</td>
 <td align="center">
