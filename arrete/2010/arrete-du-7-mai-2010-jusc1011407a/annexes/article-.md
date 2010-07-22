@@ -1,5 +1,5 @@
 # Article 
 
-Vous pouvez consulter les clichés dans le JO
+Vous pouvez consulter les clichés dans le
 
-n° 132 du 10/06/2010 texte numéro 13
+JO n° 166 du 21 / 07 / 2010 texte numéro 12
