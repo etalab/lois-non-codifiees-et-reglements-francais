@@ -1,0 +1,3 @@
+# Article 9
+
+Dans la zone contaminée et dans la zone de sécurité, toute personne physique ou morale, publique ou privée est tenue de faire surveiller les végétaux sensibles sur le fonds lui appartenant ou utilisé par elle par une personne, entreprise ou service conforme aux exigences de l'article 15 du présent arrêté. Cette surveillance est au minimum mensuelle et consiste à rechercher les symptômes visuels précoces de présence du ravageur sur le végétal sensible. Pour les palmiers de l'espèce Phoenix canariensis, cette recherche se fait par la création obligatoire d'une fenêtre d'inspection à la base des palmes ou par des mesures équivalentes, selon les préconisations des services chargés de la protection des végétaux dans le département.

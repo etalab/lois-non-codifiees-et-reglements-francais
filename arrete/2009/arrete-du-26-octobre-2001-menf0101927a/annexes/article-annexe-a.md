@@ -74,24 +74,14 @@ des ministères chargés de l'éducation nationale et de l'enseignement supérie
 <td/>
 </tr>
 <tr>
-<td/>
 <td>
-<br/>
+<p>Directeur général des ressources humaines</p>
 </td>
 <td>
-<br/>
-</td>
-<td/>
-</tr>
-<tr>
-<td>
-<p>Directeur général des ressources humaines </p>
+<p align="center">1</p>
 </td>
 <td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">180 </p>
+<p align="center">180</p>
 </td>
 <td/>
 </tr>
@@ -145,7 +135,7 @@ des ministères chargés de l'éducation nationale et de l'enseignement supérie
 </tr>
 <tr>
 <td>
-<p>Directeur des relations européennes, internationales et de la coopération </p>
+<p>Directeur des relations européennes et internationales et de la coopération </p>
 </td>
 <td>
 <p align="center">1 </p>
@@ -330,23 +320,9 @@ des ministères chargés de l'éducation nationale et de l'enseignement supérie
 <td/>
 </tr>
 <tr>
+<td>Chef de service, adjoint au directeur général</td>
 <td>
-<p>Chef du service des enseignements et des formations, adjoint au directeur général </p>
-</td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">120 </p>
-</td>
-<td/>
-</tr>
-<tr>
-<td>
-<p>Chef du service du budget et de l'égalité des chances, adjoint au directeur général </p>
-</td>
-<td>
-<p align="center">1 </p>
+<p align="center">1</p>
 </td>
 <td>
 <p align="center">120 </p>
@@ -354,8 +330,28 @@ des ministères chargés de l'éducation nationale et de l'enseignement supérie
 <td/>
 </tr>
 <tr>
+<td>Chef du service de l'instruction publique et de l'action pédagogique, adjoint au directeur général </td>
 <td>
-<p>Direction générale pour l'enseignement supérieur et l'insertion professionnelle</p>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">120 </p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>Chef du service du budget, de la performance et des établissements, adjoint au directeur général </td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">120</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Direction générale pour l'enseignement supérieur et l'insertion professionnelle :</p>
 </td>
 <td>
 <pre/>
@@ -381,18 +377,6 @@ des ministères chargés de l'éducation nationale et de l'enseignement supérie
 </tr>
 <tr>
 <td>
-<p>Chef du service de la stratégie de l'enseignement supérieur et de l'insertion professionnelle</p>
-</td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">120 </p>
-</td>
-<td/>
-</tr>
-<tr>
-<td>
 <p>Directeur du pôle de contractualisation et de financement des établissements de formation et de recherche</p>
 </td>
 <td>
@@ -404,8 +388,18 @@ des ministères chargés de l'éducation nationale et de l'enseignement supérie
 <td/>
 </tr>
 <tr>
+<td>Chef du service de la stratégie de l'enseignement supérieur et de l'insertion professionnelle</td>
 <td>
-<p>Direction générale pour la recherche et de l'innovation </p>
+<p align="center"> 1</p>
+</td>
+<td>
+<p align="center"> 120</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Direction générale pour la recherche et de l'innovation :</p>
 </td>
 <td>
 <pre/>
@@ -497,7 +491,7 @@ des ministères chargés de l'éducation nationale et de l'enseignement supérie
 </tr>
 <tr>
 <td>
-<p>Secrétariat général </p>
+<p>Secrétariat général :</p>
 </td>
 <td>
 <pre/>
@@ -579,13 +573,13 @@ des ministères chargés de l'éducation nationale et de l'enseignement supérie
 </tr>
 <tr>
 <td>
-<p>Chef du service des personnels ingénieurs, administratifs, techniques, ouvriers, sociaux et de santé, des bibliothèques et des musées, adjoint au directeur général </p>
+<p>Chef du service des personnels ingénieurs, administratifs, techniques, sociaux et de santé et des bibliothèques, adjoint au directeur général </p>
 </td>
 <td>
-<p align="center">1 </p>
+<p align="center">1</p>
 </td>
 <td>
-<p align="center">120 </p>
+<p align="center">120</p>
 </td>
 <td/>
 </tr>
@@ -719,7 +713,7 @@ des ministères chargés de l'éducation nationale et de l'enseignement supérie
 </tr>
 <tr>
 <td>
-<p>Direction des relations européennes, internationales et de la coopération </p>
+<p>Direction des relations européennes et internationales et de la coopération </p>
 </td>
 <td>
 <pre/>
@@ -811,7 +805,7 @@ des ministères chargés de l'éducation nationale et de l'enseignement supérie
 </tr>
 <tr>
 <td>
-<p>Direction de l'enseignement scolaire :</p>
+<p>Direction générale de l'enseignement scolaire :</p>
 </td>
 <td>
 <pre/>
@@ -824,11 +818,19 @@ des ministères chargés de l'éducation nationale et de l'enseignement supérie
 <td/>
 </tr>
 <tr>
+<td>Sous-direction du socle commun, de la personnalisation des parcours scolaires et de l'orientation </td>
 <td>
-<p>-sous-direction des écoles, des collèges et lycées généraux et technologiques </p>
+<p align="center">1</p>
 </td>
 <td>
-<p align="center">1 </p>
+<p align="center">100</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>Sous-direction des lycées et de la formation professionnelle tout au long de la vie </td>
+<td>
+<p align="center">1</p>
 </td>
 <td>
 <p align="center">110</p>
@@ -836,11 +838,19 @@ des ministères chargés de l'éducation nationale et de l'enseignement supérie
 <td/>
 </tr>
 <tr>
+<td>Sous-direction des programmes d'enseignement, de la formation des enseignants et du développement numérique </td>
 <td>
-<p>-sous-direction des formations professionnelles </p>
+<p align="center">1</p>
 </td>
 <td>
-<p align="center">1 </p>
+<p align="center">100</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>Sous-direction de la gestion des programmes budgétaires</td>
+<td>
+<p align="center">1</p>
 </td>
 <td>
 <p align="center">110</p>
@@ -848,38 +858,22 @@ des ministères chargés de l'éducation nationale et de l'enseignement supérie
 <td/>
 </tr>
 <tr>
+<td>Sous-direction de la performance et du dialogue avec les académies </td>
 <td>
-<p>-sous-direction des moyens, des études et du contrôle de gestion </p>
+<p align="center">1</p>
 </td>
 <td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">110</p>
+<p align="center">90</p>
 </td>
 <td/>
 </tr>
 <tr>
+<td>Sous-direction de la vie scolaire, des établissements et des actions socio-éducatives </td>
 <td>
-<p>-sous-direction de l'orientation, de l'adaptation scolaire et des actions éducatives </p>
+<p align="center">1</p>
 </td>
 <td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">80</p>
-</td>
-<td/>
-</tr>
-<tr>
-<td>
-<p>-sous-direction de la vie scolaire et des établissements </p>
-</td>
-<td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">80 </p>
+<p align="center">100</p>
 </td>
 <td/>
 </tr>
@@ -1005,8 +999,7 @@ des ministères chargés de l'éducation nationale et de l'enseignement supérie
 <td valign="top">
 <p align="center">110 </p>
 </td>
-<td>1er janvier 2007<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td valign="top">
@@ -1033,29 +1026,11 @@ des ministères chargés de l'éducation nationale et de l'enseignement supérie
 <td/>
 </tr>
 <tr>
-<td valign="top">
-<p>Sous-direction des technologies de l'information et de la communication pour l'éducation </p>
-</td>
 <td>
-<p align="center">1 </p>
-</td>
-<td valign="top">
-<p align="center">80 </p>
+<p>Direction ngénérale des ressources humaines :</p>
 </td>
 <td/>
-</tr>
-<tr>
-<td>
-<p>Direction générale des ressources humaines : </p>
-</td>
-<td>
-<pre/>
-<br/>
-</td>
-<td valign="top">
-<pre/>
-<br/>
-</td>
+<td/>
 <td/>
 </tr>
 <tr>
@@ -1305,25 +1280,21 @@ des ministères chargés de l'éducation nationale et de l'enseignement supérie
 </td>
 </tr>
 <tr>
+<td>Sous-direction des synthèses </td>
 <td>
-<p>Sous-direction des synthèses statistiques </p>
+<p align="center">1</p>
 </td>
 <td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">110 </p>
+<p align="center">110</p>
 </td>
 </tr>
 <tr>
+<td>Sous-direction des évaluations et de la performance scolaire </td>
 <td>
-<p>Sous-direction de la performance de l'enseignement scolaire </p>
+<p align="center">1</p>
 </td>
 <td>
-<p align="center">1 </p>
-</td>
-<td>
-<p align="center">80 </p>
+<p align="center">80</p>
 </td>
 </tr>
 <tr>
@@ -1346,7 +1317,7 @@ des ministères chargés de l'éducation nationale et de l'enseignement supérie
 </tr>
 <tr>
 <td>
-<p>Direction des relations européennes, internationales et de la coopération : </p>
+<p>Direction des relations européennes et internationales et de la coopération : </p>
 </td>
 <td>
 <pre/>
