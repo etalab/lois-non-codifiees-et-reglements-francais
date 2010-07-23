@@ -10,7 +10,7 @@ Le secrétariat général comprend :
 
 4° La direction de l'évaluation, de la prospective et de la performance ;
 
-5° La direction des relations européennes, internationales et de la coopération ;
+5° La direction des relations européennes et internationales et de la coopération ;
 
 6° La délégation à la communication ;
 

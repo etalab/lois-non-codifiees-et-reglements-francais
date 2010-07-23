@@ -34,6 +34,8 @@ Elle répartit les moyens entre les établissements d'enseignement supérieur à
 
 Elle recueille et diffuse les meilleures pratiques des établissements d'enseignement supérieur en matière de formation, d'insertion professionnelle, de recherche et de gestion.
 
+Elle définit la politique de diffusion et d'utilisation des technologies de l'information et de la communication pour l'enseignement supérieur et favorise le développement des ressources et des services pédagogiques numériques.
+
 III. - La direction générale pour l'enseignement supérieur et l'insertion professionnelle définit les actions propres à promouvoir l'égalité des chances et à améliorer les conditions de vie des étudiants.
 
 Elle exerce la tutelle sur le centre national et les centres régionaux des œuvres universitaires et scolaires. Elle est chargée de la réglementation et du suivi des aides aux étudiants.

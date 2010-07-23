@@ -8,7 +8,13 @@ La direction générale des ressources humaines prépare, en liaison avec la dir
 
 En relation avec ces directions générales, elle définit les orientations relatives à la gestion de carrière de ces personnels et élabore les projets statutaires et indemnitaires. S'agissant des personnels relevant des organismes de recherche sous tutelle, elle coordonne l'élaboration des projets statutaires et indemnitaires.
 
-Elle contribue aux politiques contractuelles en apportant son expertise en matière de ressources humaines. Elle s'assure de la mise en oeuvre par les autorités académiques des actions de formation continue des enseignants des premier et second degrés, selon les orientations définies par la direction générale de l'enseignement scolaire.
+Elle contribue aux politiques contractuelles en apportant son expertise en matière de ressources humaines.
+
+Elle définit la politique de formation initiale et continue des personnels administratifs, techniques, sociaux et de santé.
+
+Elle définit les orientations générales de la politique de formation en matière de mobilité fonctionnelle et de parcours de carrière pour l'ensemble des personnels.
+
+Elle s'assure de la mise en œuvre par les autorités académiques des actions de formation en s'appuyant, pour les personnels enseignants, sur les orientations définies par la direction générale de l'enseignement scolaire.
 
 Elle veille au dialogue social et assure une fonction d'analyse sur les relations sociales, les métiers et les compétences.
 

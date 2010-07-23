@@ -14,6 +14,8 @@ Elle assure, par sa fonction d'expertise et de conseil, la cohérence de la mesu
 
 A la demande des autres directions, elle conçoit et met à disposition les outils d'aide à l'évaluation, à la mesure de la performance, au pilotage et à la décision.
 
+Elle pilote des études et des recherches avec les établissements d'enseignement supérieur et les organismes de recherche pour assurer une fonction de veille en matière de politique éducative.
+
 Elle participe aux projets européens ou internationaux destinés à comparer les performances et les modes de fonctionnement des différents systèmes éducatifs.
 
 Elle élabore des prévisions et scénarios d'évolution du système éducatif.
