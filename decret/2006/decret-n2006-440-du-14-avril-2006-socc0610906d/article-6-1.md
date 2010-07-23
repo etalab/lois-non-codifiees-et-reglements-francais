@@ -14,4 +14,6 @@ En application du deuxième alinéa de l'article 1er de l'ordonnance du 13 avril
 
 6° Du 1er avril 2010 dans les bassins d'emploi de Colmar, d'Orange-Carpentras, de Saint-Brieuc - Loudéac et de la Vallée de la Maurienne ;
 
-7° Du 1er mai 2010 dans le bassin d'emploi de Fumel.
+7° Du 1er mai 2010 dans le bassin d'emploi de Fumel ;
+
+8° Du 1er juillet 2010 dans les bassins d'emploi de Saint-Claude et de Saint-Nazaire.

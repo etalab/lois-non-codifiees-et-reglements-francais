@@ -14,6 +14,8 @@ En application de l'article 13-2 de l'ordonnance du 13 avril 2006 susvisée, un 
 
 6° Le 21 janvier 2010 dans les bassins de Colmar, de la Marne moyenne, d'Orange-Carpentras, de Saint-Brieuc - Loudéac et de la Vallée de la Maurienne ;
 
-7° Le 20 février 2010 dans le bassin de Fumel.
+7° Le 20 février 2010 dans le bassin de Fumel ;
+
+8° Le 22 avril 2010 dans les bassins de Saint-Claude et de Saint-Nazaire.
 
 Cette proposition est notifiée par lettre recommandée avec accusé de réception adressée par la filiale mentionnée à l'article 2 ou par l'institution mentionnée à l'article L. 5312-1 du code du travail conformément à l'article 6-2. La personne dispose d'un délai de vingt et un jours à partir de la date de réception de cette lettre pour accepter ou refuser de signer le contrat de transition professionnelle. En l'absence de réponse, la personne est réputée avoir refusé.
