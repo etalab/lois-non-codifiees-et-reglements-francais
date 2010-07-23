@@ -1,11 +1,13 @@
 # Article 8
 
-La sous-direction de la vie scolaire et des établissements est chargée d'élaborer et d'animer la politique de prévention et d'action sanitaire et sociale en faveur des élèves. Elle élabore et anime la politique en matière de vie scolaire. Elle suit l'évolution du réseau scolaire et participe à l'élaboration des politiques territoriales, notamment en matière d'éducation prioritaire. Elle est chargée de la réglementation relative à la scolarité des élèves et au fonctionnement des écoles et des établissements publics locaux d'enseignement.
+La sous-direction de la vie scolaire, des établissements et des actions socio-éducatives est chargée d'élaborer et d'animer la politique de prévention et d'action sanitaire et sociale en faveur des élèves. Elle élabore et anime la politique en matière de vie scolaire, notamment de sécurité des élèves, et des établissements scolaires. Elle définit la politique en matière d'éducation prioritaire, dont elle anime et évalue la mise en œuvre. Elle est chargée de la réglementation relative à la scolarité des élèves et au fonctionnement des écoles et des établissements publics locaux d'enseignement. Elle est responsable de l'action éducative, culturelle et sportive en milieu scolaire.
 
-La sous-direction de la vie scolaire et des établissements, outre la mission " outre-mer ", est constituée :
+La sous-direction de la vie scolaire, des établissements et des actions socio-éducatives, outre la mission " prévention des discriminations et égalité fille-garçon ", est constituée :
 
-- du bureau de l'action sanitaire et sociale et de la prévention ;
+- du bureau de la santé, de l'action sociale et de la sécurité ;
 
-- du bureau des établissements d'éducation prioritaire et des dispositifs d'accompagnement ;
+- du bureau de la politique d'éducation prioritaire et des dispositifs d'accompagnement ;
 
-- du bureau de la réglementation et de la vie des écoles et des établissements.
+- du bureau des écoles et des établissements, de la vie scolaire, des relations avec les parents d'élèves et de la réglementation ;
+
+- du bureau des actions éducatives, culturelles et sportives.

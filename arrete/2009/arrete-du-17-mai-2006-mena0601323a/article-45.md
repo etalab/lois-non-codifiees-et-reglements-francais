@@ -8,12 +8,10 @@ Dans le cadre des orientations que définit la direction générale pour la rech
 
 Elle traite des questions fiscales concernant les établissements d'enseignement supérieur et de recherche, en relation avec les ministres chargés de l'économie et du budget.
 
-La sous-direction du budget de la mission " recherche et enseignement supérieur " est constituée :
+La sous-direction du budget de la mission "recherche et enseignement supérieur", outre la mission de synthèse "recherche et enseignement supérieur" est constituée :
 
--du bureau du budget et de la réglementation financière de l'enseignement supérieur ;
+- du bureau du budget et de la réglementation financière de l'enseignement supérieur ;
 
--du bureau de la réglementation et de la gestion financières des organismes de recherche ;
+- du bureau de la réglementation et de la gestion financières des organismes de recherche ;
 
--du bureau de la comptabilité de l'enseignement supérieur ;
-
--du bureau du budget et de la comptabilité de la recherche.
+- du bureau de la comptabilité de l'enseignement supérieur et de la recherche.

@@ -1,7 +1,9 @@
 # Article 2
 
-Le service des enseignements et des formations comprend :
+Le service de l'instruction publique et de l'action pédagogique comprend, outre la mission du pilotage des examens :
 
-- la sous-direction des écoles, des collèges et des lycées généraux et technologiques ;
+- la sous-direction du socle commun, de la personnalisation des parcours scolaires et de l'orientation ;
 
-- la sous-direction des formations professionnelles.
+- la sous-direction des lycées et de la formation professionnelle tout au long de la vie ;
+
+- la sous-direction des programmes d'enseignement, de la formation des enseignants et du développement numérique.

@@ -1,15 +1,11 @@
 # Article 7
 
-La sous-direction de l'orientation, de l'adaptation scolaire et des actions éducatives est chargée de piloter les services de l'orientation et les procédures d'affectation. Avec l'appui de la mission parité, elle exerce une mission de veille sur les questions d'égalité entre femmes et hommes.
+La sous-direction de la performance et du dialogue avec les académies est chargée de veiller à la qualité de la mise en œuvre des politiques relevant de la direction générale de l'enseignement scolaire, de définir les outils propres au suivi de cette mise en œuvre et à la mesure de l'efficacité de ces politiques et d'assurer un échange permanent avec les académies dans ce cadre.
 
-Elle assure les conditions d'une scolarisation adaptée pour les élèves à besoins éducatifs particuliers et garantit l'accueil et le suivi des élèves handicapés dans les établissements scolaires.
+La sous-direction de la performance et du dialogue avec les académies, outre la mission " outre-mer ", est constituée :
 
-Elle est responsable de l'action éducative et, en particulier, de l'action culturelle et sportive en milieu scolaire.
+- du bureau de suivi des stratégies et performances académiques ;
 
-La sous-direction de l'orientation, de l'adaptation scolaire et des actions éducatives, outre la mission parité homme-femme, est constituée :
+- du bureau du suivi des systèmes d'information.
 
-- du bureau de l'orientation ;
-
-- du bureau de l'adaptation scolaire et de la scolarisation des élèves handicapés ;
-
-- du bureau des actions éducatives, culturelles et sportives.
+Le bureau de la synthèse budgétaire, des études et du contrôle de gestion est commun à la sous-direction de la gestion des programmes budgétaires et à la sous-direction de la performance et du dialogue avec les académies.

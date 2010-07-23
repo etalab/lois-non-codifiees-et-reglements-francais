@@ -1,21 +1,19 @@
 # Article 3
 
-La sous-direction des écoles, des collèges et des lycées généraux et technologiques est chargée d'élaborer et d'animer la politique relative à l'organisation pédagogique des enseignements des écoles et des formations générales et technologiques des collèges et des lycées. Elle valorise la diffusion des innovations pédagogiques. Elle est également chargée de la réglementation, de l'organisation générale et du suivi des examens sanctionnant les formations.
+La sous-direction du socle commun, de la personnalisation des parcours scolaires et de l'orientation est chargée d'élaborer et d'animer la politique relative à l'organisation pédagogique des enseignements des écoles et des collèges. Elle accompagne et évalue sa mise en œuvre.
 
-Elle définit les orientations de la politique de formation continue des enseignants, développe les actions nationales de formation et évalue les résultats de cette politique.
+Elle définit les modalités de la personnalisation et de la continuité des parcours scolaires à l'école primaire et au collège.
 
-Elle contribue à l'action internationale relative à l'enseignement scolaire, en liaison avec la direction des relations européennes et internationales et de la coopération. Elle exerce par ailleurs la tutelle pédagogique des établissements scolaires français à l'étranger.
+Elle assure les conditions d'une scolarisation adaptée pour les élèves à besoins éducatifs particuliers et garantit l'accueil et le suivi des élèves handicapés dans les établissements scolaires.
 
-La sous-direction des écoles, des collèges et des lycées généraux et technologiques, outre la mission de valorisation des innovations pédagogiques, est constituée :
+Dans le cadre du service public d'orientation tout au long de la vie et en liaison avec les ministères concernés, elle est chargée de piloter les services d'orientation offerts aux élèves des collèges et des lycées et les procédures d'orientation et d'affectation les concernant. Elle suit les questions d'insertion professionnelle aux niveaux V et IV.
+
+La sous-direction du socle commun, de la personnalisation des parcours scolaires et de l'orientation est constituée :
 
 - du bureau des écoles ;
 
 - du bureau des collèges ;
 
-- du bureau des lycées ;
+- du bureau de la personnalisation des parcours scolaires et de la scolarisation des élèves handicapés ;
 
-- du bureau des programmes d'enseignement ;
-
-- du bureau de la formation continue des enseignants ;
-
-- du bureau des relations internationales.
+- du bureau de l'orientation et de l'insertion professionnelle.

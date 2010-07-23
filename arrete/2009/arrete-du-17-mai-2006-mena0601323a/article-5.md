@@ -1,9 +1,9 @@
 # Article 5
 
-Le service du budget et de l'égalité des chances comprend :
+Le service du budget, de la performance et des établissements comprend :
 
-- la sous-direction des moyens, des études et du contrôle de gestion ;
+- la sous-direction de la gestion des programmes budgétaires ;
 
-- la sous-direction de l'orientation, de l'adaptation scolaire et des actions éducatives ;
+- la sous-direction de la performance et du dialogue avec les académies ;
 
-- la sous-direction de la vie scolaire et des établissements.
+- la sous-direction de la vie scolaire, des établissements et des actions socio-éducatives.
