@@ -223,7 +223,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="center"> 										5 ans<br/>
 </td>
-<td align="center"> 										ÉCOLE FRANÇAISE DE GESTION COMMERCIALE (EFGC).<br/>
+<td align="center"> 										EFGC. - EMD école de management.<br/>
 </td>
 </tr>
 <tr>

@@ -255,8 +255,7 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 </td>
 <td align="center">3 ans<br/>
 </td>
-<td align="center">ECOLE PROFESSIONNELLE LE SAMOVAR<br/>
-</td>
+<td align="center">LE SAMOVAR CCTD</td>
 </tr>
 <tr>
 <td align="center">III<br/>

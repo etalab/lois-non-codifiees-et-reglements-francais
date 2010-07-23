@@ -285,13 +285,13 @@ Les certifications ci-dessous énumérées sont enregistrées au répertoire nat
 <tr>
 <td align="center"> 										II<br/>
 </td>
-<td align="center"> 										Responsable commercial.<br/>
+<td align="center"> 										Responsable d'entreprise.<br/>
 </td>
 <td align="center"> 										312p<br/>
 </td>
 <td align="center"> 										5 ans<br/>
 </td>
-<td align="center"> 										Ecole française de gestion commerciale (EFGC).<br/>
+<td align="center"> 										EFGC. - EMD école de management.<br/>
 </td>
 </tr>
 <tr>
