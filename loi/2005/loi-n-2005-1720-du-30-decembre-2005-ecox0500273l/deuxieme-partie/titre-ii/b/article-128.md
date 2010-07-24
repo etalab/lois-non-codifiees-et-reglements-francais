@@ -30,7 +30,11 @@ Ces documents sont relatifs aux politiques suivantes :
 
 13° Politique de l'égalité entre les femmes et les hommes ;
 
-14° Politique publique de lutte contre les drogues et les toxicomanies.
+14° Politique publique de lutte contre les drogues et les toxicomanies ;
+
+15° Défense et sécurité nationale ;
+
+16° Justice des mineurs.
 
 Le document relatif à la politique mentionnée au 2° comporte également :
 
