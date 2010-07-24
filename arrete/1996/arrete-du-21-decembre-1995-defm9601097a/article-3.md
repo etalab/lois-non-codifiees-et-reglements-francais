@@ -1,7 +1,25 @@
 # Article 3
 
-Dans les mêmes conditions, pourront également prétendre à la médaille commémorative française avec l'agrafe Ex-Yougoslavie les personnels ayant effectivement participé aux opérations Sharp Guard, Deny Flight, Balbuzard, Crécerelle, Police unifiée de Mostar, Embargo sur le Danube ainsi que ceux de la mission européenne de contrôle et d'observation en ex-Yougoslavie et ceux chargés du contrôle entre la Serbie-Monténégro et la Bosnie-Herzégovine.
+Dans les mêmes conditions, pourront également prétendre à la médaille commémorative française avec l'agrafe " Ex-Yougoslavie " les personnels ayant pris part aux opérations ou aux missions suivantes :
 
-Pourront également prétendre à l'agrafe "Ex-Yougoslavie" les personnels ayant effectivement participé à l'opération Salamandre.
+Sharp Guard ;
 
-Pourront également prétendre à l'agrafe "Ex-Yougoslavie" les personnels ayant effectivement participé à l'opération Trident.
+Deny Flight ;
+
+Balbuzard ;
+
+Crécerelle ;
+
+Police unifiée de Mostar ;
+
+Embargo sur le Danube ;
+
+Mission européenne de contrôle et d'observation en ex-Yougoslavie ;
+
+Contrôle entre la Serbie-Monténégro et la Bosnie-Herzégovine ;
+
+Salamandre ;
+
+Trident ;
+
+EULEX.
