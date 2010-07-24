@@ -1,8 +1,6 @@
 # Article Annexe
 
-LISTE DES ÉTABLISSEMENTS HABILITÉS À DÉLIVRER LE DIPLÔME NATIONAL DE TECHNOLOGIE
-
-SPÉCIALISÉ DANS LES SPÉCIALITÉS SUIVANTES POUR L'ANNÉE UNIVERSITAIRE 2008-2009
+LISTE DES ÉTABLISSEMENTS HABILITÉS À DÉLIVRER LE DIPLÔME NATIONAL DE TECHNOLOGIE SPÉCIALISÉ DANS LES SPÉCIALITÉS SUIVANTES POUR L'ANNÉE UNIVERSITAIRE 2009-2010
 
 <table>
 <tbody>
@@ -34,17 +32,6 @@ SPÉCIALISÉ DANS LES SPÉCIALITÉS SUIVANTES POUR L'ANNÉE UNIVERSITAIRE 2008-2
 </td>
 <td align="center">
 <br/>Lycée Chevrollier, Angers <br/>
-</td>
-<td align="center">
-<br/>Vente de solutions informatiques <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Paris <br/>
-</td>
-<td align="center">
-<br/>Ecole nationale de commerce, Paris <br/>
 </td>
 <td align="center">
 <br/>Vente de solutions informatiques<br/>
