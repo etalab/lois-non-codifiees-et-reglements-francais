@@ -1,9 +1,5 @@
 # Article 65-1
 
-Si la commission de discipline est d'avis qu'il n'y a pas de faute dans l'exercice des fonctions, le garde des sceaux ne peut prononcer une sanction contre le magistrat intéressé, sans avoir préalablement soumis cette question à une commission spéciale instituée auprès de la Cour de cassation et composée comme suit :
+Lorsqu'elle se prononce sur l'existence d'une faute disciplinaire, la formation compétente du Conseil supérieur émet, en cas de partage égal des voix, un avis en faveur de l'absence de sanction.
 
-Le premier président de la Cour de cassation, président ;
-
-Trois conseillers et trois avocats généraux, à la Cour de cassation désignés annuellement par l'assemblée générale de cette juridiction.
-
-La décision de cette commission s'impose au garde des sceaux et à la commission de discipline.
+Lorsqu'elle a constaté l'existence d'une faute disciplinaire, l'avis émis sur la sanction est pris à la majorité des voix. En cas de partage égal des voix sur le choix de la sanction, la voix du président de la formation est prépondérante.

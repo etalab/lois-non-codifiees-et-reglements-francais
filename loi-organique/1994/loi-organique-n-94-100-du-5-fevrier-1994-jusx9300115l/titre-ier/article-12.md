@@ -1,3 +1,3 @@
 # Article 12
 
-Les crédits nécessaires au fonctionnement du Conseil supérieur sont individualisés au sein du budget du ministère de la justice.
+L'autonomie budgétaire du Conseil supérieur est assurée dans les conditions déterminées par une loi de finances.
