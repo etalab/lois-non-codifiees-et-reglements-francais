@@ -13,5 +13,3 @@ La sous-direction de l'information et de la légistique :
 - veille à la qualité du droit de la fonction publique et à son accessibilité ;
 
 - participe à la définition des fonctionnalités interministérielles qui doivent être assurées par les systèmes d'information de ressources humaines dans la fonction publique ;
-
-- élabore et met en oeuvre la politique de communication interne et externe.

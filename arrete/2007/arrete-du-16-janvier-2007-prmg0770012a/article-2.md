@@ -8,4 +8,6 @@ La direction générale de l'administration et de la fonction publique comprend 
 
 - la sous-direction des politiques interministérielles ;
 
-- le secrétariat général.
+- le secrétariat général ;
+
+Elle comprend, en outre, un bureau de la communication et de la documentation (BCD) et une mission de facilitation d'accès aux trois fonctions publiques, directement rattachés au directeur général.

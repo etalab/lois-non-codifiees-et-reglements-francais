@@ -1,6 +1,6 @@
 # Article 1
 
-La sous-direction de l'information et de la légistique comprend le bureau de la légistique et des systèmes d'information, le bureau de la prospective et des affaires internationales, le bureau des statistiques, des études et de l'évaluation, et le bureau de la communication et de la documentation.
+La sous-direction de l'information et de la légistique comprend le bureau de la légistique et des systèmes d'information, le bureau de la prospective et des affaires internationales, et le bureau des statistiques, des études et de l'évaluation.
 
 Le bureau de la légistique et des systèmes d'information (B 1) :
 
@@ -39,21 +39,3 @@ Le bureau des statistiques, des études et de l'évaluation (B 3) :
 Il représente, en tant que service statistique ministériel, le ministre chargé de la fonction publique au Conseil national de l'information statistique.
 
 Il contribue plus particulièrement, en liaison avec le bureau de la gestion prévisionnelle de l'emploi public, à l'établissement des données et informations dans le rapport annuel sur l'état de la fonction publique.
-
-Le bureau de la communication et de la documentation (BCD), en liaison avec le service de la communication :
-
--propose et met en œuvre la politique de communication interne et externe et d'information du public et coordonne les actions dans ce domaine ;
-
--élabore et suit la réalisation des supports de communication et d'information ;
-
--assure l'organisation des manifestations ;
-
--coordonne, pour ce qui concerne la direction générale, les relations avec la presse.
-
-Par ailleurs, et en lien avec le centre de ressources documentaires rattaché à le secrétariat général des ministères économique et financier, le bureau :
-
--effectue une veille documentaire concernant la fonction publique et l'administration, en France et à l'étranger ;
-
--constitue, met à jour, gère et diffuse des produits documentaires dans ce domaine ;
-
--contribue à la mise en place d'un système interne de mutualisation des connaissances.
