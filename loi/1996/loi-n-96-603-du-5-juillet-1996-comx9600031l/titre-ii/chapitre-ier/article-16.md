@@ -10,7 +10,7 @@ I.-Quels que soient le statut juridique et les caractéristiques de l'entreprise
 
 -le ramonage ;
 
--les soins esthétiques à la personne autres que médicaux et paramédicaux et les modelages esthétiques de confort sans finalité médicale ;
+-les soins esthétiques à la personne autres que médicaux et paramédicaux et les modelages esthétiques de confort sans finalité médicale. On entend par modelage toute manœuvre superficielle externe réalisée sur la peau du visage et du corps humain dans un but exclusivement esthétique et de confort, à l'exclusion de toute finalité médicale et thérapeutique. Cette manœuvre peut être soit manuelle, éventuellement pour assurer la pénétration d'un produit cosmétique, soit facilitée par un appareil à visée esthétique ; ;
 
 -la réalisation de prothèses dentaires ;
 

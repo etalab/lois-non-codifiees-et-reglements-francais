@@ -4,7 +4,7 @@ I. Nul ne peut porter le titre d'expert-comptable ni en exercer la profession s'
 
 II. Pour être inscrit au tableau de l'ordre en qualité d'expert-comptable, il faut :
 
-1° Etre français ou ressortissant d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen ;
+1° (Abrogé) ;
 
 2° Jouir de ses droits civils ;
 

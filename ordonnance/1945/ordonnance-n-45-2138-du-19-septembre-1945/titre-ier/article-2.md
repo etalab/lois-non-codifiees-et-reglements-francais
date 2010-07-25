@@ -9,3 +9,5 @@ L'expert comptable peut aussi organiser les comptabilités et analyser par les p
 Il fait rapport de ses constatations, conclusions et suggestions.
 
 L'expert-comptable peut aussi accompagner la création d'entreprise sous tous ses aspects comptables ou à finalité économique et financière.
+
+Les membres de l'ordre et les associations de gestion et de comptabilité peuvent assister, dans la réalisation matérielle de leurs déclarations fiscales, les personnes physiques qui leur ont confié les éléments justificatifs et comptables nécessaires auxdites démarches.

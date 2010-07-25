@@ -1,6 +1,6 @@
 # Article 32
 
-A titre expérimental, jusqu'au 31 décembre 2011 et dans des départements dont la liste est fixée par voie réglementaire, le représentant de l'Etat dans le département conclut avec les personnes visées aux articles L. 5323-1 et L. 5323-2 du code du travail des conventions d'objectifs comportant des engagements réciproques des signataires.
+A titre expérimental, jusqu'au 31 décembre 2011 et dans des départements dont la liste est fixée par voie réglementaire, le représentant de l'Etat dans le département conclut avec les personnes visées            à l'article L. 5321-1 du code du travail des conventions d'objectifs comportant des engagements réciproques des signataires.
 
 Ces conventions déterminent :
 

@@ -12,8 +12,6 @@ Les dirigeants et les administrateurs de ces associations doivent justifier, dan
 
 Les ressources de ces associations sont constituées des cotisations et des rémunérations pour services rendus, versées par les adhérents et, le cas échéant, de subventions publiques.
 
-Il est interdit à ces associations de détenir des participations financières dans des entreprises de toute nature à l'exception de celles ayant pour objet l'exercice des activités mentionnées à l'article 2 et au septième alinéa de l'article 22. Cette détention ne doit pas constituer leur objet principal.
-
 II. - Les associations de gestion et de comptabilité sont soumises aux dispositions législatives et réglementaires relatives à la profession d'expert-comptable.
 
 Leur activité est soumise à un contrôle dans les conditions fixées par le décret mentionné à l'article 84 bis.

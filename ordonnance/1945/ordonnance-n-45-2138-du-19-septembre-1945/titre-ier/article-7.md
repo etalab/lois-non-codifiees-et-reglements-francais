@@ -1,27 +1,19 @@
 # Article 7
 
-I. Les experts-comptables sont également admis à constituer, pour exercer leur profession, des sociétés anonymes, des sociétés par actions simplifiées ou des sociétés à responsabilité limitée qui doivent satisfaire aux conditions suivantes :
+I.-Les experts-comptables sont admis à constituer, pour exercer leur profession, des entités dotées de la personnalité morale, à l'exception des formes juridiques qui confèrent à leurs associés la qualité de commerçant. Elles doivent être inscrites au tableau de l'ordre et satisfaire aux conditions suivantes :
 
-1° Les experts-comptables doivent, directement ou indirectement par une société inscrite à l'ordre, détenir une part du capital et des droits de vote égale au moins aux trois quarts dans les sociétés à responsabilité limitée et aux deux tiers dans les sociétés anonymes et les sociétés par actions simplifiées ;
+1° Les experts-comptables doivent, directement ou indirectement par une société inscrite à l'ordre, détenir plus de la moitié du capital et plus des deux tiers des droits de vote ;
 
-2° Aucune personne ou groupement d'intérêts, extérieurs à l'ordre, ne doit détenir, directement ou par personne interposée, une partie du capital ou des droits de vote de nature à mettre en péril l'exercice de la profession ou l'indépendance des associés experts-comptables, ainsi que le respect par ces derniers des règles inhérentes à leur statut et à leur déontologie ;
+2° Aucune personne ou groupement d'intérêts, extérieur à l'ordre, ne doit détenir, directement ou par personne interposée, une partie du capital ou des droits de vote de nature à mettre en péril l'exercice de la profession, l'indépendance des associés experts-comptables ou le respect par ces derniers des règles inhérentes à leur statut et à leur déontologie ;
 
-3° L'offre au public de titres financiers n'est autorisé que dans les sociétés anonymes et pour des titres excluant l'accès même différé ou conditionnel au capital ;
+3° L'offre au public de titres financiers n'est autorisée que pour des titres excluant l'accès, même différé ou conditionnel, au capital ;
 
-4° Les statuts subordonnent l'admission de tout nouvel actionnaire à l'agrément préalable du conseil d'administration ou du conseil de surveillance ;
+4° Les gérants, le président du conseil d'administration ou les membres du directoire doivent être des experts-comptables, membres de la société ;
 
-5° Les gérants, le président du conseil d'administration ou du conseil de surveillance, les directeurs généraux ou les membres du directoire, ainsi que la moitié au moins des administrateurs ou des membres du conseil de surveillance, doivent être des experts-comptables, membres de la société ;
+5° La société membre de l'ordre communique annuellement aux conseils de l'ordre dont elle relève la liste de ses associés ainsi que toute modification apportée à cette liste.
 
-6° La société membre de l'ordre communique annuellement aux conseils de l'ordre dont elle relève la liste de ses associés ainsi que toute modification apportée à cette liste.
+Le deuxième alinéa des articles L. 225-22 et L. 225-85 du code de commerce n'est pas applicable aux sociétés inscrites à l'ordre.
 
-Les dispositions des deuxièmes alinéas des articles L. 225-22 et L. 225-85 du code de commerce ne sont pas applicables aux sociétés inscrites à l'ordre.
+II.-Les professionnels de l'expertise comptable peuvent également constituer des sociétés ayant pour objet exclusif la détention de titres des sociétés mentionnées au I. Elles portent le nom de sociétés de participations d'expertise comptable et sont inscrites au tableau de l'ordre. Ces sociétés doivent respecter les conditions mentionnées au I.
 
-II. Les experts-comptables peuvent également constituer des sociétés ayant pour objet exclusif la détention de parts ou d'actions des sociétés mentionnées au I. Elles portent le nom de sociétés de participations d'expertise comptable et sont inscrites au tableau de l'ordre. Les trois quarts du capital et des droits de vote doivent être détenus par des experts-comptables. Elles doivent respecter les conditions mentionnées au I à l'exception du 1°.
-
-Il est interdit à toute société mentionnée au I de détenir des participations financières dans des entreprises de toute nature à l'exception, et sous le contrôle du conseil régional de l'ordre, de celles ayant pour objet l'exercice des activités visées aux articles 2 et 22, 7e alinéa, sans que cette détention constitue l'objet principal de son activité.
-
-III. Dans l'hypothèse où l'une des conditions définies au présent article viendrait à ne plus être remplie, le conseil de l'ordre dont la société relève peut accorder à celle-ci un délai pour se mettre en conformité avec les dispositions de la présente loi.A défaut de régularisation dans le délai imparti, tout intéressé peut demander en justice la dissolution de la société. Le tribunal peut accorder à la société un délai maximum de six mois pour régulariser sa situation. La dissolution ne peut être prononcée si, au jour où il est statué sur le fond, cette régularisation a eu lieu.
-
-IV. Un expert-comptable ne peut participer à la gérance, au conseil d'administration ou au conseil de surveillance de plus de quatre sociétés membres de l'ordre.
-
-Cette disposition n'est pas pas applicable aux administrateurs ni aux membres du conseil de surveillance des sociétés dont le capital est détenu à concurrence de 20 p. 100 au moins par une autre société inscrite à l'ordre dans lesquelles ils exercent déjà l'une ou l'autre de ces fonctions, dans la mesure où le nombre des mandats détenus par les intéressés au titre de la présente disposition n'excède pas quatre.
+III.-Dans l'hypothèse où l'une des conditions définies au présent article ne serait plus remplie par une entité constituée en application du I, le conseil de l'ordre dont elle relève lui notifie la nécessité de se mettre en conformité et fixe le délai, qui ne peut excéder deux ans, dans lequel la régularisation doit intervenir. A défaut de régularisation à l'expiration de ce délai, l'entité est radiée du tableau de l'ordre.
