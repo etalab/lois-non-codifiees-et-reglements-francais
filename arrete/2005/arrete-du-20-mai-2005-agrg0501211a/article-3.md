@@ -2,12 +2,36 @@
 
 Les carnivores domestiques qui font l'objet d'une introduction ou d'un transit sur le territoire français ou d'une expédition vers un autre Etat membre, à l'exception de l'Irlande, de Malte, de la Suède et du Royaume-Uni pour les chiens et les chats, doivent satisfaire aux conditions suivantes :
 
-a) Etre identifiés par tatouage ou par un système d'identification électronique (transpondeur) utilisé dans l'Etat membre expéditeur.
+1° Etre identifiés par tatouage ou par un système d'identification électronique (transpondeur) utilisé dans l'Etat membre expéditeur.
 
-Lorsque le transpondeur n'est pas conforme à la norme ISO 11784 ou à l'annexe A de la norme ISO 11785, le propriétaire ou la personne physique qui assume la responsabilité de l'animal de compagnie doit, lors de tout contrôle, fournir les moyens nécessaires à la lecture du transpondeur ;
+Le système d'identification électronique type est un dispositif d'identification par radiofréquence passif en lecture seule (transpondeur) et doit répondre aux exigences suivantes :
 
-b) Avoir été soumis à une vaccination antirabique, en cours de validité, selon le protocole en vigueur dans l'Etat membre où a été pratiquée l'injection, conformément aux recommandations du laboratoire de fabrication, avec un vaccin inactivé d'au moins une unité antigénique par dose (norme OMS [Organisation mondiale de la santé]). Dans le cas des rappels, la périodicité doit être celle reconnue par l'Etat membre dans lequel ils ont été réalisés.
+- être conforme à la norme ISO 11784 et appliquant la technologie HDX ou FDX-B ; et
 
-Dans le cas d'une primo-injection, la vaccination est considérée en cours de validité après un délai reconnu par l'Etat membre qui ne peut être inférieur à 21 jours ;
+- pouvoir être lu par un dispositif de lecture compatible avec la norme ISO 11785.
 
-c) Etre accompagnés d'un passeport, conforme au modèle défini par la décision de la Commission 2003 / 803 / CE susvisée, délivré par un vétérinaire habilité par l'autorité compétente attestant de l'identification et de la vaccination antirabique de l'animal.
+Si le transpondeur utilisé n'est pas conforme à ces dispositions, le propriétaire ou la personne physique qui assume la responsabilité de l'animal de compagnie doit, lors de tout contrôle, fournir les moyens nécessaires à la lecture du transpondeur ;
+
+2° Avoir été soumis à une vaccination antirabique, en cours de validité, selon le protocole en vigueur dans l'Etat membre où a été pratiquée l'injection, selon les recommandations du laboratoire de fabrication et conforme à l'autorisation de mise en marché qui doit répondre à la directive 2001/82 CE ou au règlement (CE) n° 726/2004, avec :
+
+- un vaccin inactivé d'au moins une unité antigénique par dose (norme OMS [Organisation mondiale de la santé]) ; ou
+
+- un vaccin recombinant qui exprime la glycoprotéine immunogène du virus de la rage dans un vecteur viral vivant.
+
+Pour être considérée en cours de validité, une vaccination antirabique doit satisfaire aux conditions suivantes :
+
+a) La date d'administration du vaccin antirabique doit être indiquée dans la section IV du passeport ;
+
+b) La date d'administration du vaccin antirabique ne peut précéder la date d'identification de l'animal indiquée dans la section III, point 2, du passeport ;
+
+c) La période de validité de la vaccination doit être indiquée dans la section IV du passeport ; et
+
+d) Dans le cas d'une primovaccination, un délai qui ne peut être inférieur à vingt et un jours doit s'être écoulé après la réalisation de la vaccination antirabique effectuée selon les prescriptions définies au premier alinéa du point 2° du présent article.
+
+Un rappel administré en dehors de la période de validité indiquée au point c du 2° du présent article est considéré comme une primovaccination.
+
+Dans le cas des rappels, la périodicité doit être celle reconnue par l'Etat membre dans lequel ils ont été réalisés.
+
+3° Etre accompagnés d'un passeport, conforme au modèle défini par la décision de la Commission 2003 / 803 / CE susvisée, délivré par un vétérinaire habilité par l'autorité compétente attestant de l'identification et de la vaccination antirabique en cours de validité de l'animal.
+
+4° Répondre aux mesures sanitaires préventives afférentes à d'autres maladies, éventuellement prises par la Commission, selon les dispositions de l'article 19 ter et dans le respect des conditions fixées aux articles 19 quater et 19 quinquies du règlement (CE) n° 998/2003.
