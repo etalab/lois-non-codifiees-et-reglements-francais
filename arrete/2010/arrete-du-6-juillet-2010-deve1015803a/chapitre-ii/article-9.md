@@ -1,0 +1,3 @@
+# Article 9
+
+Pour les installations de production autres que celles visées à l'article 8, le premier contrôle intervient quand l'installation de production a atteint au maximum dix ans d'âge de fonctionnement depuis sa première mise en service. Toutefois, lorsqu'à la date d'entrée en vigueur du présent arrêté une installation de production a déjà atteint cette ancienneté, la documentation technique de référence du réseau public d'électricité auquel cette installation est raccordée fixe, en fonction de la puissance, de la technologie et de l'âge de l'installation, le report qui est admis pour le premier contrôle sans jamais excéder sept ans après l'échéance précitée. Le contrôle est par la suite renouvelé au moins tous les dix ans.

@@ -1,0 +1,5 @@
+# Article 3
+
+Le contrôle des règles générales destinées à assurer la sécurité de l'installation de production au regard du risque électrique pour les personnes ayant à intervenir dans le poste de livraison et sur les autres parties de l'installation faisant interface avec le réseau public d'électricité est réputé effectué dans le cadre des vérifications à la charge du chef d'établissement qui sont effectuées conformément aux dispositions de l'article 53 du décret du 14 novembre 1988 susvisé, dès lors que, notamment, le respect des normes NF C13-100 et NF C13-200 a été vérifié. Preuve doit en être faite par les rapports de vérification prévus par le décret précité.
+
+Il en va de même pour le contrôle des dispositions du I de l'article 5 de l'arrêté du 23 avril 2008 relatif aux prescriptions techniques de conception et de fonctionnement pour le raccordement à un réseau public de distribution d'électricité en basse tension ou en moyenne tension d'une installation de production d'énergie électrique.
