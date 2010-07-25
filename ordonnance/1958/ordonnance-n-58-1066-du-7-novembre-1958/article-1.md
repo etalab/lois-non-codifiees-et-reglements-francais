@@ -13,3 +13,5 @@ Les membres du Parlement ne sont autorisés à déléguer leur droit de vote que
 5° En cas de session extraordinaire, absence de la métropole ;
 
 6° Cas de force majeure appréciés par décision des bureaux des assemblées.
+
+Il ne peut y avoir de délégation lors d'un scrutin destiné à recueillir l'avis de la commission permanente compétente de chaque assemblée sur une proposition de nomination selon la procédure prévue au cinquième alinéa de l'article 13 de la Constitution.
