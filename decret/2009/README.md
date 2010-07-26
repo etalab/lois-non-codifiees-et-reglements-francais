@@ -1066,7 +1066,6 @@
 - [Décret n°2009-1018 du 25 août 2009 (ECEI0917108D)](decret-n2009-1018-du-25-aout-2009-ecei0917108d)
 - [Décret n°2009-1020 du 25 août 2009 (IOCB0901310D)](decret-n2009-1020-du-25-aout-2009-iocb0901310d)
 - [Décret n°2009-1022 du 25 août 2009 (BCFR0916836D)](decret-n2009-1022-du-25-aout-2009-bcfr0916836d)
-- [Décret n°2009-1025 du 25 août 2009 (DEFD0906129D)](decret-n2009-1025-du-25-aout-2009-defd0906129d)
 - [Décret n°2009-1026 du 25 août 2009 (SASS0908033D)](decret-n2009-1026-du-25-aout-2009-sass0908033d)
 - [Décret n°2009-1027 du 25 août 2009 (SASH0907286D)](decret-n2009-1027-du-25-aout-2009-sash0907286d)
 - [Décret n°2009-1028 du 25 août 2009 (AGRT0912090D)](decret-n2009-1028-du-25-aout-2009-agrt0912090d)
