@@ -65,6 +65,17 @@ LOCALISATION DES EMPLOIS DE CONSEILLERS D'ADMINISTRATION DE L'INTÉRIEUR ET DE L
 </td>
 </tr>
 <tr>
+<td>
+<p>CAA de Versailles. </p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">50</p>
+</td>
+</tr>
+<tr>
 <td valign="top" width="273">
 <p>TA de Lyon.</p>
 </td>
