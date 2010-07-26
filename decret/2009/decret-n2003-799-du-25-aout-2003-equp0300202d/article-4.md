@@ -32,24 +32,24 @@ Technicien supérieur principal, technicien supérieur en chef détaché sur l'e
 
 Technicien supérieur principal, technicien supérieur en chef : 16 ;
 
-Technicien supérieur : 11, 5.
+Technicien supérieur : 12.
 
 IV.-Corps des contrôleurs des travaux publics de l'Etat
 
 Contrôleur principal et contrôleur divisionnaire des travaux publics de l'Etat : 16 ;
 
-Contrôleur des travaux publics de l'Etat : 7, 5 ;
+Contrôleur des travaux publics de l'Etat : 8 ;
 
 V.-Corps des conducteurs des travaux publics de l'Etat
 
-Conducteur principal des travaux publics de l'Etat : 7, 5 ;
+Conducteur principal des travaux publics de l'Etat : 7,5 ;
 
-Conducteur des travaux publics de l'Etat : 7, 5.
+Conducteur des travaux publics de l'Etat : 7,5.
 
 VI.-Corps des dessinateurs
 
-Dessinateur chef de groupe, dessinateur : 7, 5.
+Dessinateur chef de groupe, dessinateur : 7,5.
 
 VII.-Corps des experts techniques des services techniques
 
-Expert technique principal, expert technique : 7, 5.
+Expert technique principal, expert technique : 7,5.
