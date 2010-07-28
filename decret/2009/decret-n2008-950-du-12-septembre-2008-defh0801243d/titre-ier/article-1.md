@@ -4,7 +4,7 @@ Les commissaires de l'armée de terre, les commissaires de la marine et les comm
 
 Ils exercent des fonctions d'expertise, de contrôle et de conseil en matière administrative, financière, juridique et logistique, et de direction ou d'encadrement au sein de leur armée d'appartenance, de l'état-major des armées, d'organismes interarmées ou relevant d'une autre armée, ou de tout organisme mentionné au 2° de l'article L. 4138-2 du code de la défense.
 
-Au sein de leur armée d'appartenance, les commissaires de l'armée de terre, les commissaires de la marine et les commissaires de l'air exercent leurs attributions dans les états-majors, services et forces. Ils assurent la direction des services du commissariat de l'armée dont ils relèvent, ou, pour l'armée de l'air, du service de l'administration générale et des finances de l'armée de l'air.
+Au sein de leur armée d'appartenance, les commissaires de l'armée de terre, les commissaires de la marine et les commissaires de l'air exercent leurs attributions dans les états-majors, services et forces. Ils assurent les fonctions de direction au sein du service du commissariat des armées.
 
 Ils participent à l'activité opérationnelle et à l'encadrement des formations de leur armée.
 
