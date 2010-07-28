@@ -54,6 +54,7 @@
 - [Arrêté du 6 novembre 2006 (AGRE0602362A)](arrete-du-6-novembre-2006-agre0602362a)
 - [Arrêté du 6 novembre 2006 (BUDR0607086A)](arrete-du-6-novembre-2006-budr0607086a)
 - [Arrêté du 6 novembre 2006 (DEFD0601486A)](arrete-du-6-novembre-2006-defd0601486a)
+- [Arrêté du 6 novembre 2006 (INDI0608835A)](arrete-du-6-novembre-2006-indi0608835a)
 - [Arrêté du 6 novembre 2006 (INTI0600916A)](arrete-du-6-novembre-2006-inti0600916a)
 - [Arrêté du 6 octobre 2006 (BUDD0620075A)](arrete-du-6-octobre-2006-budd0620075a)
 - [Arrêté du 6 octobre 2006 (INDI0608540A)](arrete-du-6-octobre-2006-indi0608540a)

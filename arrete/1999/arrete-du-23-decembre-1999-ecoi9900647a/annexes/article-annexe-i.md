@@ -1,278 +1,331 @@
 # Article Annexe I
 
-**EXIGENCES**
-**ET MÉTHODES D'ESSAIS D'APPLICATION GÉNÉRALE**
-
 <table>
 <tbody>
 <tr>
-<td align="center" rowspan="2">
-<p align="center">PROPRIÉTÉS <br/>
-</p>
+<td rowspan="2" width="301">
+<p align="center">PROPRIÉTÉS</p>
 </td>
-<td align="center" rowspan="2">
-<p align="center">UNITÉS <br/>
-</p>
+<td rowspan="2" width="75">
+<p align="center">UNITÉS</p>
 </td>
-<td align="center" colspan="2">
-<p align="center">LIMITES <br/>
-</p>
+<td colspan="2" width="304">
+<p align="center">VALEURS LIMITES</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<p align="center">Min. <br/>
-</p>
+<td width="152">
+<p align="center">Min.</p>
 </td>
-<td align="center">
-<p align="center">Max. <br/>
-</p>
+<td width="152">
+<p align="center">Max.</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="left">Indice d'octane recherche, RON <br/>
-</p>
+<td valign="top" width="301">
+<p>Indice d'octane "recherche", RON </p>
 </td>
-<td>
+<td valign="top" width="75">
 <br/>
 </td>
-<td align="center">
-<p align="center">95,0 <br/>
-</p>
+<td valign="top" width="152">
+<p align="center">95,0</p>
 </td>
-<td align="center">
+<td valign="top" width="152">
+<p align="center">-</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="301">
+<p>Indice d'octane "moteur", MON </p>
+</td>
+<td valign="top" width="75">
+<br/>
+</td>
+<td valign="top" width="152">
+<p align="center">85,0</p>
+</td>
+<td valign="top" width="152">
+<p align="center">-</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="301">
+<p>Masse volumique (à 15 °C) </p>
+</td>
+<td valign="top" width="75">
+<p align="center">kg/m3</p>
+</td>
+<td valign="top" width="152">
+<p align="center">720</p>
+</td>
+<td valign="top" width="152">
+<p align="center">775</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="301">
+<p>Stabilité à l'oxydation </p>
+</td>
+<td valign="top" width="75">
+<p align="center">Minutes</p>
+</td>
+<td valign="top" width="152">
+<p align="center">360</p>
+</td>
+<td valign="top" width="152">
+<p align="center">-</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="301">
+<p>Teneur en gommes actuelles (lavées au solvant) </p>
+</td>
+<td valign="top" width="75">
+<p align="center">mg/100 ml</p>
+</td>
+<td valign="top" width="152">
+<p align="center">-</p>
+</td>
+<td valign="top" width="152">
+<p align="center">5</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="301">
+<p>Corrosion à la lame de cuivre (3 h à 50° C) </p>
+</td>
+<td valign="top" width="75">
+<br/>
+</td>
+<td colspan="2" valign="top" width="304">
+<p align="center">Classe 1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="301">
+<p>Aspect </p>
+</td>
+<td valign="top" width="75">
+<br/>
+</td>
+<td colspan="2" valign="top" width="304">
+<p align="center">Claire et limpide</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="301">
+<p>Composition en hydrocarbures : </p>
+</td>
+<td valign="top" width="75">
+<br/>
+</td>
+<td valign="top" width="152">
+<br/>
+</td>
+<td valign="top" width="152">
 <br/>
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top" width="301">
+<p>1. Oléfines </p>
+</td>
+<td valign="top" width="75">
+<p align="center">% (V/V)</p>
+</td>
+<td valign="top" width="152">
+<p align="center">-</p>
+</td>
+<td valign="top" width="152">
+<p align="center">18,0</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="301">
+<p>2. Aromatiques </p>
+</td>
+<td valign="top" width="75">
+<p align="center">% (V/V)</p>
+</td>
+<td valign="top" width="152">
+<p align="center">-</p>
+</td>
+<td valign="top" width="152">
+<p align="center">35,0</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="301">
+<p>3. Benzène </p>
+</td>
+<td valign="top" width="75">
+<p align="center">% (V/V)</p>
+</td>
+<td valign="top" width="152">
+<p align="center">-</p>
+</td>
+<td valign="top" width="152">
+<p align="center">1,0</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="301">
+<p>Teneur en oxygène </p>
+</td>
+<td valign="top" width="75">
+<p align="center">% (m/m)</p>
+</td>
+<td valign="top" width="152">
 <br/>
-<p align="left">Indice d'octane moteur, MON <br/>
-</p>
 </td>
-<td>
+<td valign="top" width="152">
+<p align="center">2,7</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="301">
+<p>Teneur en composés oxygénés : </p>
+</td>
+<td valign="top" width="75">
 <br/>
 </td>
-<td align="center">
-<p align="center">85,0 <br/>
-</p>
+<td valign="top" width="152">
+<br/>
 </td>
-<td align="center">
+<td valign="top" width="152">
 <br/>
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top" width="301">
+<p>1. Méthanol </p>
+</td>
+<td valign="top" width="75">
+<p align="center">% (V/V)</p>
+</td>
+<td valign="top" width="152">
 <br/>
-<p align="left">Teneur en plomb <br/>
-</p>
 </td>
-<td align="center">
-<p align="center">mg/l <br/>
-</p>
-</td>
-<td align="center">
-<p align="center">― <br/>
-</p>
-</td>
-<td align="center">
-<p align="center">5,0 <br/>
-</p>
+<td valign="top" width="152">
+<p align="center">3,0*</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">Masse volumique (à 15° C) <br/>
-</p>
+<td valign="top" width="301">
+<p>2. Ethanol (des agents stabilisants peuvent être nécessaires) </p>
 </td>
-<td align="center">
-<p align="center">kg/m³ <br/>
-</p>
+<td valign="top" width="75">
+<p align="center">% (V/V)</p>
 </td>
-<td align="center">
-<p align="center">720 <br/>
-</p>
-</td>
-<td align="center">
-<p align="center">775 <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="left" rowspan="2" valign="top">
+<td valign="top" width="152">
 <br/>
-<p align="left">Teneur en souffre <br/>
-</p>
 </td>
-<td align="center" rowspan="2" valign="top">
-<p align="center">mg/kg <br/>
-</p>
-</td>
-<td align="center" rowspan="2" valign="top">
-<p align="center">― <br/>
-</p>
-</td>
-<td align="center">
-<p align="center">50,0 (jusqu'au <br/>31 décembre 2008) </p>
+<td valign="top" width="152">
+<p align="center">5,0*</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">10,0 (à compter <br/>du 1er janvier 2009) </p>
+<td valign="top" width="301">
+<p>3. Alcool isopropylique </p>
+</td>
+<td valign="top" width="75">
+<p align="center">% (V/V)</p>
+</td>
+<td valign="top" width="152">
+<p align="center">-</p>
+</td>
+<td valign="top" width="152">
+<p align="center">12,0*</p>
 </td>
 </tr>
 <tr>
-<td>
-<br/>
-<p align="left">Stabilité à l'oxydation <br/>
-</p>
+<td valign="top" width="301">
+<p>4. Alcool butylique tertiaire </p>
 </td>
-<td align="center">
-<p align="center">Minutes <br/>
-</p>
+<td valign="top" width="75">
+<p align="center">% (V/V)</p>
 </td>
-<td align="center">
-<p align="center">360 <br/>
-</p>
+<td valign="top" width="152">
+<p align="center">-</p>
 </td>
-<td align="center">
-<p align="center">― <br/>
-</p>
+<td valign="top" width="152">
+<p align="center">15,0*</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="center">Teneur en gommes actuelles (lavées au solvant) <br/>
-</p>
+<td valign="top" width="301">
+<p>5. Alcool isobutylique </p>
 </td>
-<td align="center">
-<p align="center">mg/100 ml <br/>
-</p>
+<td valign="top" width="75">
+<p align="center">% (V/V)</p>
 </td>
-<td align="center">
-<p align="center">― <br/>
-</p>
+<td valign="top" width="152">
+<p align="center">-</p>
 </td>
-<td align="center">
-<p align="center">5 <br/>
-</p>
+<td valign="top" width="152">
+<p align="center">15,0*</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">Corrosion à la lame de cuivre (3 h à 50° C) <br/>
-</p>
+<td valign="top" width="301">
+<p>6. Ethers contenant 5 atomes de carbone ou plus par molécule </p>
 </td>
-<td align="center" colspan="3">
-<p align="center">Classe 1 <br/>
-</p>
+<td valign="top" width="75">
+<p align="center">% (V/V)</p>
 </td>
-</tr>
-<tr>
-<td>
-<p align="left">Aspect <br/>
-</p>
+<td valign="top" width="152">
+<p align="center">-</p>
 </td>
-<td align="center" colspan="4">
-<p align="center">Claire et limpide <br/>
-</p>
+<td valign="top" width="152">
+<p align="center">22,0*</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">Teneur en hydrocarbures de type <br/>
-</p>
+<td valign="top" width="301">
+<p>7. Autres composés oxygénés </p>
 </td>
-<td align="center" rowspan="3" valign="top">
-<p align="center">% (V / V) <br/>
-</p>
+<td valign="top" width="75">
+<p align="center">% (V/V)</p>
 </td>
-<td align="center" rowspan="2">
-<p align="center">
-<br/>― <br/>
-</p>
+<td valign="top" width="152">
+<p align="center">-</p>
 </td>
-<td align="center" rowspan="2">
-<p align="center">18,0 <br/>42,0 (jusqu'au <br/>31 décembre 2004) <br/>
-</p>
+<td valign="top" width="152">
+<p align="center">15,0*</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">― oléfines <br/>
-</p>
+<td valign="top" width="301">
+<p>Teneur en soufre </p>
+</td>
+<td valign="top" width="75">
+<p align="center">mg/kg</p>
+</td>
+<td valign="top" width="152">
+<p align="center">-</p>
+</td>
+<td valign="top" width="152">
+<p align="center">10,0</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">― aromatiques <br/>
-</p>
+<td valign="top" width="301">
+<p>Teneur en plomb </p>
 </td>
-<td align="center">
-<p align="center">― <br/>
-</p>
+<td valign="top" width="75">
+<p align="center">mg/l</p>
 </td>
-<td align="center">
-<p align="center">35,0 (à compter <br/>du 1er janvier 2005) <br/>
-</p>
+<td valign="top" width="152">
+<p align="center">-</p>
 </td>
-</tr>
-<tr>
-<td>
-<p align="left">Teneur en benzène <br/>
-</p>
-</td>
-<td align="center">
-<p align="center">% (V / V) <br/>
-</p>
-</td>
-<td align="center">
-<p align="center">― <br/>
-</p>
-</td>
-<td align="center">
-<p align="center">1,0 <br/>
-</p>
+<td valign="top" width="152">
+<p align="center">5,0</p>
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">Teneur en oxygène <br/>
-</p>
-</td>
-<td align="center">
-<p align="center">% (m / m) <br/>
-</p>
-</td>
-<td align="center">
-<p align="center">― <br/>
-</p>
-</td>
-<td align="center">
-<p align="center">2,7 <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="left">Teneur en composés oxygénés <br/>― méthanol <br/>― éthanol <br/>― alcool iso-propylique <br/>― alcool iso-butylique <br/>― alcool tert-butylique <br/>― éthers (5 atomes de C ou plus) <br/>― autres composés oxygénés <br/>
-</p>
-</td>
-<td align="center">
-<p align="center">% (V / V) <br/>― <br/>― <br/>― <br/>― <br/>― <br/>― <br/>― <br/>
-</p>
-</td>
-<td align="center">
-<p align="center">
-<br/>― <br/>― <br/>― <br/>― <br/>― <br/>― <br/>― <br/>
-</p>
-</td>
-<td align="center">
-<p align="center">
-<br/>3,0 <br/>5,0 <br/>10,0 <br/>10,0 <br/>7,0 <br/>15,0 <br/>10,0<br/>
-</p>
+<td colspan="4" valign="top" width="680">
+<p>(*) Valeur maximale dans le respect de la valeur limite de la teneur en oxygène fixée à 2,7 % (m/m).</p>
 </td>
 </tr>
 </tbody>
