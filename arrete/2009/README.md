@@ -1293,7 +1293,6 @@
 - [Arrêté du 16 janvier 2009 (ECET0901276A)](arrete-du-16-janvier-2009-ecet0901276a)
 - [Arrêté du 16 janvier 2009 (MAEA0900887A)](arrete-du-16-janvier-2009-maea0900887a)
 - [Arrêté du 16 janvier 2009 (MTST0901126A)](arrete-du-16-janvier-2009-mtst0901126a)
-- [Arrêté du 16 juillet 2009 (AGRM0902629A)](arrete-du-16-juillet-2009-agrm0902629a)
 - [Arrêté du 16 juillet 2009 (DEFD0916829A)](arrete-du-16-juillet-2009-defd0916829a)
 - [Arrêté du 16 juillet 2009 (DEFH0917870A)](arrete-du-16-juillet-2009-defh0917870a)
 - [Arrêté du 16 juillet 2009 (ESRH0915627A)](arrete-du-16-juillet-2009-esrh0915627a)

@@ -10,4 +10,10 @@ Fécamp ;
 
 Cherbourg ;
 
-Douarnenez.
+Douarnenez ;
+
+Saint-Guénolé ;
+
+Concarneau ;
+
+Saint-Jean-de-Luz.
