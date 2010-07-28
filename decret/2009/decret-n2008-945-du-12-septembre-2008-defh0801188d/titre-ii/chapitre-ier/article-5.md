@@ -12,6 +12,8 @@ b) Parmi les militaires de la gendarmerie âgés de vingt-huit ans au moins et d
 
 c) Parmi les militaires réunissant au moins trois ans de service militaire effectif au ministère de la défense, et âgés de vingt-six ans au moins et de trente-quatre ans au plus pour les candidats au recrutement d'officiers des autres corps techniques et administratifs ;
 
-3° Par concours sur titres, sur proposition de la commission mentionnée à l'article 22, ouverts aux candidats titulaires d'un diplôme ou d'un titre conférant le grade prévu par le décret n° 99-747 du 30 août 1999 relatif à la création du grade de master et âgés de vingt-sept ans au plus ;
+3° Par concours sur titres, sur proposition de la commission mentionnée à l'article 22, ouverts aux candidats titulaires d'un diplôme ou d'un titre conférant le grade prévu par le décret n° 99-747 du 30 août 1999 relatif à la création du grade de master ou d'un diplôme ou titre reconnu équivalent et âgés de vingt-sept ans au plus ;
 
 4° Sur demande agréée ou d'office, selon les modalités fixées par les statuts particuliers régissant leur corps de rattachement d'origine, parmi les élèves officiers de l'armée de terre, de la marine ou de la gendarmerie nationale réorientés en cours de formation.
+
+Les concours d'admission prévus au 1° et au 2° du présent article sont communs aux écoles de formation des officiers des corps techniques et administratifs de l'armée de terre, du service de santé des armées et du service des essences des armées.

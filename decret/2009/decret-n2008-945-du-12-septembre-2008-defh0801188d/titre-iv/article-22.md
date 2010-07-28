@@ -6,7 +6,7 @@ Elle comprend de droit :
 
 1° Pour le corps technique et administratif de l'armée de terre, sous la présidence du chef d'état-major de l'armée de terre, l'inspecteur général des armées-terre, l'inspecteur de l'armée de terre, le directeur du personnel de l'armée de terre ;
 
-2° Pour le corps technique et administratif de la marine, sous la présidence du chef d'état-major de la marine, l'inspecteur général des armées-marine, le directeur du personnel de la marine, le directeur central du commissariat de la marine ;
+2° Pour le corps technique et administratif de la marine, sous la présidence du chef d'état-major de la marine, l'inspecteur général des armées-marine, le directeur du personnel de la marine ;
 
 3° Pour le corps technique et administratif de la gendarmerie nationale, sous la présidence du directeur général de la gendarmerie nationale, l'inspecteur général des armées-gendarmerie ;
 
