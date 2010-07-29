@@ -10,13 +10,17 @@ Le département " répertoires, infrastructures et statistiques structurelles " 
 
 - la division " répertoire interadministratif SIRENE " ;
 
-- la division " profilage et traitement des grandes unités ".
+- la division " profilage et traitement des grandes unités " ;
+
+- la division " nomenclatures économiques ".
 
 Le département " statistiques de court terme " comprend :
 
 - la division " indices de prix de l'industrie et des services " ;
 
-- la division " indicateurs conjoncturels d'activité ".
+- la division " indicateurs conjoncturels d'activité " ;
+
+- la division " élaboration des statistiques de production industrielle ".
 
 Le département " synthèses sectorielles " comprend :
 
