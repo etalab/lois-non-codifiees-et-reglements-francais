@@ -11,4 +11,5 @@
 - [LOI n° 2010-832 du 22 juillet 2010 (BCRX1013399L)](loi-n-2010-832-du-22-juillet-2010-bcrx1013399l)
 - [LOI n° 2010-838 du 23 juillet 2010 (PRMX0910182L)](loi-n-2010-838-du-23-juillet-2010-prmx0910182l)
 - [LOI n° 2010-853 du 23 juillet 2010 (ECEX0913300L)](loi-n-2010-853-du-23-juillet-2010-ecex0913300l)
+- [Loi n° 72-659 du 13 juillet 1972](loi-n-72-659-du-13-juillet-1972)
 - [LOI n°2010-241 du 10 mars 2010 (PRMX0925425L)](loi-n2010-241-du-10-mars-2010-prmx0925425l)

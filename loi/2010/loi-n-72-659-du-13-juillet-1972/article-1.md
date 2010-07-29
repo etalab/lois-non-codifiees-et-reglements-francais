@@ -1,0 +1,3 @@
+# Article 1
+
+Les personnels civils recrutés par des personnes publiques et appelés à accomplir hors du territoire français des missions de coopération culturelle, scientifique et technique auprès d'Etats étrangers, notamment en vertu d'accords conclus par la France avec ces Etats, auprès d'organisations internationales intergouvernementales ou d'instituts indépendants étrangers de recherche sont dénommés "experts techniques internationaux". Ils sont régis par la présente loi, sous réserve, en ce qui concerne les magistrats et les fonctionnaires des assemblées parlementaires, des dispositions particulières qui leur sont applicables.

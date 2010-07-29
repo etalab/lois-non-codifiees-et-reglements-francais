@@ -1,0 +1,3 @@
+# Article 8
+
+A l'issue de leur mission de coopération, les experts relevant du 2° de l'article 2 n'ont pas droit à titularisation et ceux relevant du 3° du même article n'ont pas droit à réemploi. Ils peuvent cependant bénéficier des dispositions du 2° des articles 19 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat, 36 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale et 29 de la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière.
