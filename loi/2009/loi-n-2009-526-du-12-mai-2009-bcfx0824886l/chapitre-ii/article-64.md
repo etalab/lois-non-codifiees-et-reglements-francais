@@ -11,7 +11,7 @@ III.-A titre transitoire et au plus tard jusqu'au 31 décembre 2011 :
 
 1° Le cahier des charges des vins bénéficiant d'une indication géographique protégée au sens du règlement (CE) n° 479 / 2008 du Conseil du 29 avril 2008 précité est réputé constitué, d'une part, par les conditions de production figurant dans les décrets relatifs aux vins de pays en vigueur au 1er août 2009, d'autre part, par les obligations déclaratives et de tenue de registre et des principaux points à contrôler définis par un arrêté du ministre chargé de l'agriculture ;
 
-2° Les missions confiées à l'organisme de défense et de gestion par l'article L. 642-22 du code rural sont exercées soit par l'organisme professionnel agréé, par délégation d'un ou plusieurs syndicats représentatifs des producteurs de vins de pays ou à défaut d'activité ou de reconnaissance du syndicat représentatif, soit par le syndicat représentatif des producteurs de vins de pays ;
+2° Les missions confiées à l'organisme de défense et de gestion par les articles L. 642-14 et L. 642-22 du code rural et de la pêche maritime sont exercées soit par l'organisme professionnel agréé, par délégation d'un ou plusieurs syndicats représentatifs des producteurs de vins de pays ou à défaut d'activité ou de reconnaissance du syndicat représentatif, soit par le syndicat représentatif des producteurs de vins de pays ;
 
 3° Jusqu'à l'approbation du plan de contrôle ou d'inspection, le contrôle des vins bénéficiant d'une indication géographique protégée est réalisé sur la base du plan de contrôle type ou du plan d'inspection type défini par arrêté du ministre chargé de l'agriculture.
 

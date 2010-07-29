@@ -11,9 +11,6 @@ I. et II. - A modifié les dispositions suivantes :
 > >
 > >
 > >
-> >
-> >
-> >
 > > III.-Dans toutes les autres dispositions législatives en vigueur, et à compter de la création de l'Etablissement national des produits de l'agriculture et de la mer (FranceAgriMer), les mots : Office national interprofessionnel des grandes cultures ou les mots : Office national interprofessionnel de l'élevage et de ses productions ou les mots : Office national interprofessionnel des fruits, des légumes, des vins et de l'horticulture ou les mots : Office national interprofessionnel des plantes à parfum, aromatiques et médicinales ou les mots : Office national interprofessionnel des produits de la mer et de l'aquaculture sont remplacés par les mots : Etablissement national des produits de l'agriculture et de la mer (FranceAgriMer).
 > >
 > >
@@ -36,7 +33,6 @@ A modifié les dispositions suivantes :
 > >
 > >
 > > Loi n° 2009-179 du 17 février 2009
-> >
 > >
 > >
 > >
@@ -68,10 +64,4 @@ A modifié les dispositions suivantes :
 > >
 > >
 > >
-> >
-> >
-> >
-> >
-> >
-> >
-> > VI.-Les personnels du Centre national pour l'aménagement des structures des exploitations agricoles transférés à l'établissement institué à l'article L. 313-1 du code rural en application de l'article 6 de la présente ordonnance et leurs ayants droit continuent d'être affiliés au régime de protection sociale des salariés des professions agricoles mentionné à l'article L. 722-20 du code rural jusqu'à l'exercice par ces personnels du droit d'option prévu à l'article 6 de la présente ordonnance et, en ce qui concerne les personnels sous contrat à durée déterminée, jusqu'à la fin de ce contrat.
+> > VI.-Les personnels du Centre national pour l'aménagement des structures des exploitations agricoles transférés à l'établissement institué à l'article L. 313-1 du code rural en application de l'article 4 de la présente ordonnance et leurs ayants droit continuent d'être affiliés au régime de protection sociale des salariés des professions agricoles mentionné à l'article L. 722-20 du code rural jusqu'à l'exercice par ces personnels du droit d'option prévu à l'article 5 de la présente ordonnance et, en ce qui concerne les personnels sous contrat à durée déterminée, jusqu'à la fin de ce contrat.

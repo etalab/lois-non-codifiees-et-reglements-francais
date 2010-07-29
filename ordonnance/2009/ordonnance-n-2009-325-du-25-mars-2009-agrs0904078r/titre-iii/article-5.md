@@ -14,7 +14,7 @@ II. ― Les corps auxquels les agents ayant opté pour l'intégration prévue au
 
 III. ― Les agents ayant opté pour les dispositions réglementaires communes prévues au 2° du I bénéficient d'un contrat à durée indéterminée de droit public.
 
-IV. ― Au terme d'un délai d'un an à compter de la publication des décrets mentionnés au I et au II du présent article et à l'article 7, les agents n'ayant pas fait usage du droit d'option sont régis par les dispositions réglementaires communes mentionnées au 2° du I.
+IV. ― Au terme d'un délai d'un an à compter de la publication des décrets mentionnés au I et au II du présent article et à l'article 6, les agents n'ayant pas fait usage du droit d'option sont régis par les dispositions réglementaires communes mentionnées au 2° du I.
 
 V. ― Les agents bénéficiaires d'un contrat à durée indéterminée conclu en application de l'article 61 de la loi n° 2007-148 du 2 février 2007 de modernisation de la fonction publique peuvent demander, pendant ce même délai, à être intégrés dans l'un des corps de fonctionnaires du ministère de l'agriculture et de la pêche dans les conditions fixées par le décret mentionné au II du présent article.
 
