@@ -1,9 +1,3 @@
 # Article 15
 
-Un comité technique et industriel est placé auprès du président et consulté par lui sur les perspectives de développement technologique et industriel dans le domaine maritime. Le comité émet des avis sur les orientations des programmes de recherche et de développement technologiques de l'institut ainsi que sur les recherches qu'il conviendrait de mener dans les diverses disciplines intéressant les activités industrielles et maritimes.
-
-Le comité technique et industriel comprend seize membres. Treize membres, dont le président du comité, sont nommés par arrêté conjoint des ministres exerçant la tutelle de l'institut, après consultation du président de l'institut. Trois membres sont élus par les personnels de l'institut selon les modalités fixées par arrêté du ministre chargé de la recherche et du ministre chargé de la mer. Les fonctions de membre du comité technique et industriel, d'une durée de cinq ans, sont renouvelables.
-
-Le président du comité scientifique, ou son représentant, et les responsables scientifiques des programmes, dont le comité technique et industriel a à connaître peuvent participer aux séances avec voix consultative.
-
-Le président du comité technique et industriel peut également inviter toute personne dont il estime la présence utile à participer aux séances avec voix consultative.
+Les membres des comités mentionnés aux articles 10 et 12 du présent décret décédés, démissionnaires ou qui cessent d'exercer les fonctions au titre desquelles ils avaient été désignés ou élus sont remplacés. Dans ce cas, le mandat des nouveaux membres expire à la date à laquelle aurait normalement pris fin le mandat de leur prédécesseur.

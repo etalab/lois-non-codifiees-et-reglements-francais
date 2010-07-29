@@ -31,3 +31,5 @@ Le conseil d'administration détermine les grandes orientations de l'établissem
 En ce qui concerne les décisions modificatives de l'état annuel des prévisions de recettes et de dépenses, prévues au 3° sont seules soumises au conseil celles qui comportent soit une augmentation du montant total des dépenses, soit des virements de crédits entre la section des opérations en capital et la section de fonctionnement ou entre les chapitres de matériel et les chapitres de personnel. Les autres décisions modificatives sont prises par le président du conseil d'administration en accord avec le membre du corps du contrôle général économique et financier. Il en rend compte au conseil d'administration à sa plus proche séance.
 
 En ce qui concerne les 9° et 12° ci-dessus, le conseil d'administration peut déléguer une partie de ses pouvoirs au président.
+
+Le conseil d'administration peut décider la création de comités dont il fixe les attributions, la composition et les conditions de fonctionnement.

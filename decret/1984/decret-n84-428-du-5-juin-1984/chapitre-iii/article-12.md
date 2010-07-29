@@ -6,7 +6,7 @@ Ce comité comprend :
 
 1° Un représentant de chacun des ministres exerçant la tutelle de l'institut ;
 
-2° Douze membres, dont le président, nommés par arrêté du ministre chargé des pêches maritimes et des cultures marines sur proposition des organisations professionnelles nationales des pêches maritimes, des cultures marines et des industries connexes, pour une durée de cinq ans renouvelable ;
+2° Douze membres, dont le président, nommés par arrêté du ministre chargé des pêches maritimes et des cultures marines après consultation des organisations professionnelles nationales des pêches maritimes, des cultures marines et des industries connexes, pour une durée de cinq ans renouvelable ;
 
 3° Trois membres élus par les personnels de l'institut, pour une durée de cinq ans renouvelable selon des modalités fixées par arrêté conjoint des ministres exerçant la tutelle de l'institut.
 
