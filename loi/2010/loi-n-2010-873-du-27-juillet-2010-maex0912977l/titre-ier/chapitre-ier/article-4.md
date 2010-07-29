@@ -1,0 +1,3 @@
+# Article 4
+
+Par dérogation au II des articles 42 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat, 61-1 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale et 49 de la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière, peuvent ne pas donner lieu à remboursement les mises à disposition de fonctionnaires auprès des établissements publics contribuant à l'action extérieure de la France en vue d'y exercer des missions d'intérêt public dans les deux années qui suivent la création de ces établissements publics ou, ultérieurement, pour une durée qui ne peut excéder six mois.

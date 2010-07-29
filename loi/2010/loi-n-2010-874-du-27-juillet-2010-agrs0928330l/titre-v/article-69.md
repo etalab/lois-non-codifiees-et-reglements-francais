@@ -1,0 +1,17 @@
+# Article 69
+
+I. ― Dans les conditions prévues par l'article 38 de la Constitution, le Gouvernement est autorisé à prendre par ordonnance les dispositions nécessaires pour procéder à la refonte de la partie législative du code forestier :
+
+1° En remédiant aux éventuelles erreurs ou insuffisances de codification, en incluant les dispositions de nature législative qui n'auraient pas été codifiées, en adaptant le plan et la rédaction des dispositions codifiées, en abrogeant les dispositions obsolètes, inadaptées ou devenues sans objet, en apportant les modifications nécessaires pour assurer le respect de la hiérarchie des normes et la cohérence rédactionnelle des textes, harmoniser l'état du droit et l'adapter au droit de l'Union européenne ainsi qu'aux accords internationaux ratifiés, et en adaptant les renvois faits respectivement à l'arrêté, au décret ou au décret en Conseil d'Etat à la nature des mesures d'application concernées ;
+
+2° En assurant l'harmonisation, la clarification, la modernisation et, le cas échéant, la simplification des dispositions du code forestier relatives aux agents compétents pour procéder aux contrôles administratifs ou rechercher et constater des infractions, aux pouvoirs qui leur sont conférés et aux règles de procédure qu'ils doivent suivre, y compris en modifiant la liste de ces agents et l'étendue de leurs pouvoirs, et en réformant, supprimant ou, le cas échéant, instaurant les sanctions pénales ou administratives encourues, pour assurer le respect des obligations liées à la prévention des incendies de forêt ou, dans tous domaines, dans un objectif de cohérence, d'harmonisation ou de simplification ; »
+
+3° En édictant des mesures de nature à favoriser un remembrement des propriétés forestières afin de lutter contre leur morcellement ;
+
+4° En améliorant la cohérence et l'efficacité de la législation relative à la défense des forêts contre l'incendie, notamment par la clarification et l'harmonisation du champ d'application géographique des différentes dispositions, par la modification des dispositions relatives aux coupures agricoles en milieu forestier, par l'adaptation des obligations de débroussaillement à la diversité des formations végétales et au niveau de risque, par la réduction des cas de superposition d'obligations de débroussaillement sur un même terrain, par l'augmentation du niveau moyen de l'astreinte prévue en cas de non-respect d'une obligation légale de débroussaillement et par la précision du champ d'application et de la portée des servitudes pour l'établissement et la pérennité des équipements de défense contre l'incendie ;
+
+5° En étendant, le cas échéant, dans le respect des règles de partage des compétences prévues par la loi organique, l'application des dispositions codifiées, selon le cas, à Saint-Pierre-et-Miquelon, à Mayotte, à la Nouvelle-Calédonie, à la Polynésie française et aux îles Wallis et Futuna, avec les adaptations nécessaires, et en procédant si nécessaire à l'adaptation des dispositions déjà applicables à ces collectivités ;
+
+6° En mettant le code rural et de la pêche maritime en cohérence avec la nouvelle rédaction du code forestier.
+
+II. ― L'ordonnance est prise dans un délai de dix-huit mois à compter de la promulgation de la présente loi. Un projet de loi de ratification est déposé devant le Parlement dans un délai de trois mois à compter de la publication de l'ordonnance.
