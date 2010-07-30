@@ -2982,7 +2982,6 @@
 - [Arrêté du 30 janvier 2009 (IOCO0829030A)](arrete-du-30-janvier-2009-ioco0829030a)
 - [Arrêté du 30 juillet 2007 (DEFD0762054A)](arrete-du-30-juillet-2007-defd0762054a)
 - [Arrêté du 30 juillet 2009 (BCFF0917187A)](arrete-du-30-juillet-2009-bcff0917187a)
-- [Arrêté du 30 juillet 2009 (BCFS0918077A)](arrete-du-30-juillet-2009-bcfs0918077a)
 - [Arrêté du 30 juillet 2009 (DEVA0904282A)](arrete-du-30-juillet-2009-deva0904282a)
 - [Arrêté du 30 juillet 2009 (ECEI0917097A)](arrete-du-30-juillet-2009-ecei0917097a)
 - [Arrêté du 30 juillet 2009 (ESRS0914660A)](arrete-du-30-juillet-2009-esrs0914660a)
