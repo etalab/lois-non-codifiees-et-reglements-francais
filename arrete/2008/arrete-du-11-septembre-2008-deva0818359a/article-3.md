@@ -16,9 +16,9 @@ Elle est composée d'un échelon central, des services de la navigation aérienn
 
 1° L'échelon central de la direction des opérations de la DSNA comprend :
 
-― la structure de direction, constituée du directeur, d'un adjoint " opérationnel", d'un adjoint " ressources ", du chef des services de la navigation aérienne région parisienne (SNA / RP), adjoint au directeur, et d'un responsable du système de management intégré (SMI) ;
+― la structure de direction, constituée du directeur, d'un adjoint "opérationnel", d'un adjoint "ressources", du chef des services de la navigation aérienne région parisienne (SNA/RP), adjoint au directeur ;
 
-― trois départements techniques : le département sécurité et performances , le département espace , le département systèmes, infrastructures et programmation technique ;
+― trois départements techniques : le département sécurité et performances, le département espace, le département systèmes, infrastructures et programmation technique ;
 
 ― un département administration ;
 
@@ -60,7 +60,7 @@ Il intervient pour :
 
 ― participer à la définition et à la conduite des opérations d'installations et d'infrastructures de la navigation aérienne.
 
-d) Le département administration (DO / 4) est chargé de la gestion des ressources des services de l'échelon central sis à Athis-Mons et contribue à la gestion centralisée des ressources de la direction des opérations.
+d) Le département administration (DO/4) est chargé de la gestion des ressources des services de l'échelon central sis à Athis-Mons et contribue à la gestion centralisée des ressources de la direction des opérations.
 
 Il assiste le directeur des opérations dans la mise en œuvre des règles d'hygiène et de sécurité du travail pour les services de l'échelon central sis à Athis-Mons.
 
@@ -86,7 +86,9 @@ e) Le service de l'information aéronautique (DO/SIA) est chargé d'assurer le s
 
 ― les relations avec les usagers.
 
-f) Le centre d'exploitation des systèmes de la navigation aérienne centraux (DO/CESNAC) est chargé d'assurer la mise en œuvre, l'exploitation et le suivi des systèmes et des réseaux à caractère national permettant d'assurer les services de la circulation aérienne. Il assure :
+f) Le centre d'exploitation des systèmes de la navigation aérienne centraux (DO/CESNAC) est chargé d'assurer la mise en œuvre, l'exploitation et le suivi des systèmes et des réseaux à caractère national permettant d'assurer les services de la circulation aérienne.
+
+Il assure :
 
 ― le support d'exploitation des systèmes de dépôt et de traitement initial des plans de vol, la gestion des données d'environnement de la circulation aérienne, la gestion des données de régulation, le traitement des données de redevances aéronautiques, la gestion et le traitement des archives des plans de vol ;
 

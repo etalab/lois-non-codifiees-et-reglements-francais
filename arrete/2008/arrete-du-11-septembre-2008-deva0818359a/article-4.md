@@ -1,6 +1,6 @@
 # Article 4
 
-La direction de la technique et de l'innovation (DSNA/DTI) est chargée de l'étude, du développement, de l'achat, de la réception et de la vérification technique des équipements et des systèmes de communication, de navigation, de surveillance et de gestion du trafic aérien et de ceux utilisés pour la fourniture de services d'information aéronautique, mis en œuvre par la direction des services de la navigation aérienne, tant au niveau national qu'en coopération internationale, sous réserve des achats, réceptions et installations confiées à la direction des opérations. A ce titre, elle est chargée :
+La direction de la technique et de l'innovation (DSNA/DTI) est chargée de l'étude, du développement, de l'achat, de la réception et de la vérification technique des équipements et des systèmes de communication, de navigation, de surveillance et de gestion du trafic aérien et de ceux utilisés pour la fourniture de services d'information aéronautique, mis en œuvre par la direction des services de la navigation aérienne, tant au niveau national qu'en coopération internationale, sous réserve des achats, réceptions et installations confiées à la direction des opérations . A ce titre, elle est chargée :
 
 ― de conduire des études, des recherches appliquées et des expérimentations dans le domaine de la navigation aérienne ;
 
@@ -38,18 +38,14 @@ La direction de la technique et de l'innovation est composée d'une structure de
 
 ― une mission "projets" (DTI/P), chargée d'assurer le bon fonctionnement des projets au sein de la DTI.
 
-2. Le domaine "support" (DTI / R) est chargé du contrôle de gestion, de la gestion des ressources humaines, de la formation, de l'organisation des achats et de la passation de contrats, de la gestion budgétaire et comptable et du soutien logistique de la DTI. Il est aussi chargé des systèmes d'information de gestion et du support informatique.
+2. Le domaine "support général" (DTI/SG) est chargé du contrôle de gestion, de la gestion des ressources humaines, de la formation, de l'organisation des achats et de la passation des contrats, de la gestion budgétaire et comptable et du soutien logistique de la DTI. Il coordonne l'activité administrative et financière des domaines. Il est aussi chargé des systèmes d'information de gestion et du support informatique.
 
-3. Le domaine "recherche et développement" (DTI/R & D) est chargé :
-
-― d'étudier et d'expérimenter de nouveaux concepts et outils pour la gestion du trafic aérien, de les amener à un stade de maturité et de validation permettant leur prise en compte pour les évolutions futures des systèmes de la navigation aérienne ;
-
-― de participer aux programmes européens de recherche et développement et d'anticiper la prise en compte des résultats de ces programmes dans les projets de la direction des services de la navigation aérienne.
+3. Le domaine "recherche et développement" (DTI/R & D) est chargé de conduire des études et des recherches appliquées, développer des maquettes et mener des expérimentations en vue de proposer des évolutions à moyen terme du système de gestion du trafic aérien français et d'influer sur les orientations des programmes européens dans le domaine de la navigation aérienne.
 
 4. Le domaine "exigences opérationnelles des systèmes" (DTI/EOS) est chargé de contribuer au retour d'expérience, à la consolidation des besoins opérationnels et des évolutions correspondantes des méthodes de travail et de formation. Il définit les exigences techniques relatives aux systèmes d'assistance automatisée à la gestion du trafic aérien et aux systèmes d'information aéronautique. Il conduit des études relatives aux facteurs humains et à la performance.
 
-5. Le domaine "systèmes de gestion du trafic aérien" (DTI/ATM**)** est chargé de l'acquisition, du développement et de la réalisation des évolutions et de la maintenance corrective des systèmes d'assistance automatisée à la gestion du trafic aérien et à l'information aéronautique, de leurs simulateurs, de leurs moyens de supervision et des outils hors ligne associés.
+5. Le domaine "systèmes de gestion du trafic aérien" (DTI/ATM) est chargé de l'acquisition, du développement et de la réalisation des évolutions et de la maintenance corrective des systèmes d'assistance automatisée à la gestion du trafic aérien et à l'information aéronautique, de leurs simulateurs, de leurs moyens de supervision et des outils hors ligne associés.
 
-6. Le domaine "systèmes de communication, navigation et surveillance" (DTI/CNS) est chargé de la définition, de l'acquisition, de l'intégration, de la validation, du contrôle en vol, de la maintenance et des évolutions des systèmes et des services opérationnels de communication, navigation et surveillance" (CNS). Il est chargé du déploiement de certains de ces systèmes.
+6. Le domaine "systèmes de communication, navigation et surveillance" (DTI/CNS) est chargé de la définition, de l'acquisition, de l'intégration, de la validation, du contrôle en vol, de la maintenance et des évolutions des systèmes et des services opérationnels de communication, navigation et surveillance" (CNS). Il est chargé du déploiement des systèmes sur les sites isolés de la DSNA.
 
 7. Le domaine "déploiement et support opérationnel" (DTI/DSO) est chargé de déployer au sein des organismes de la navigation aérienne les systèmes acquis ou réalisés par les autres domaines en conduisant l'intégration, la validation et les installations, et d'assurer des activités de support et de maintenance. Il est chargé de coordonner et de conduire, en tant que de besoin, des opérations de génie civil. Il assure enfin le choix, l'acquisition et la maintenance des équipements techniques ne relevant pas spécifiquement des autres domaines.
