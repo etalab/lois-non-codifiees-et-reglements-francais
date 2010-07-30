@@ -2073,20 +2073,30 @@ LISTE I
 </td>
 </tr>
 <tr>
-<td valign="top" width="187">
+<td align="left" rowspan="2" valign="top">
 <p>Héparine</p>
 </td>
-<td valign="top" width="162">
-<p>Pommades</p>
-</td>
-<td valign="top" width="119">
+<td>Pommades</td>
+<td>
 <p align="center">5</p>
 </td>
+<td/>
+<td>
+<p align="center">0,30</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="162">
+<p>Emplâtre médicamenteux</p>
+</td>
+<td valign="top" width="119">
+<p align="center">/</p>
+</td>
 <td valign="top" width="132">
-<br/>
+<p align="center">5 600 UI</p>
 </td>
 <td valign="top" width="118">
-<p align="center">0,30</p>
+<p align="center">28 000 U</p>
 </td>
 </tr>
 <tr>
