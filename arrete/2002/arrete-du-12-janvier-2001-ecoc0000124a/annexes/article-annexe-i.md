@@ -23,11 +23,11 @@
 </td>
 </tr>
 <tr>
-<td rowspan="12" valign="top" width="151">
+<td rowspan="16" valign="top" width="151">
 <p>1. Arsenic (1-1).</p>
 </td>
 <td valign="top" width="340">
-<p>Matières premières des aliments pour animaux, à l'exception de :</p>
+<p>Matières premières des aliments pour animaux, avec les exceptions suivantes :</p>
 </td>
 <td valign="top" width="151">
 <p align="center">2</p>
@@ -35,7 +35,7 @@
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>- farines d'herbes, de luzerne et de trèfle déshydraté ainsi que pulpe séchée de betteraves sucrières et pulpe séchée, mélassée de betteraves sucrières</p>
+<p>- farines d'herbes, de luzerne déshydratée et de trèfle déshydraté ainsi que pulpe séchée de betteraves sucrières et pulpe séchée, mélassée de betteraves sucrières</p>
 </td>
 <td valign="top" width="151">
 <p align="center">4</p>
@@ -43,7 +43,7 @@
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>- tourteau de pression de palmiste</p>
+<p>- tourteaux de pression de palmiste</p>
 </td>
 <td valign="top" width="151">
 <p align="center">4 (1-2)</p>
@@ -75,10 +75,10 @@
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>- aliments pour animaux provenant de la transformation de poisson ou d'autres animaux marins</p>
+<p>- aliments pour animaux provenant de la transformation de poisson ou d'autres animaux marins, poisson compris</p>
 </td>
 <td valign="top" width="151">
-<p align="center">15 (1-2)</p>
+<p align="center">25 (1-2)</p>
 </td>
 </tr>
 <tr>
@@ -90,8 +90,32 @@
 </td>
 </tr>
 <tr>
+<td>Particules de fer employées comme traceur </td>
+<td>
+<p align="center">50</p>
+</td>
+</tr>
+<tr>
+<td>Additifs appartenant au groupe fonctionnel des composés d'oligo-éléments, avec les exceptions suivantes :</td>
+<td>
+<p align="center">30</p>
+</td>
+</tr>
+<tr>
+<td>- sulfate de cuivre pentahydraté et carbonate de cuivre </td>
+<td>
+<p align="center">50</p>
+</td>
+</tr>
+<tr>
+<td>- oxyde de zinc, oxyde de manganèse et oxyde de cuivre </td>
+<td>
+<p align="center">100</p>
+</td>
+</tr>
+<tr>
 <td valign="top" width="340">
-<p>Aliments complets, à l'exception de :</p>
+<p align="left">Aliments complets, avec l'exception suivante :</p>
 </td>
 <td valign="top" width="151">
 <p align="center">2</p>
@@ -102,12 +126,12 @@
 <p>- aliments complets pour poissons et animaux à fourrure</p>
 </td>
 <td valign="top" width="151">
-<p align="center">6 (1-2)</p>
+<p align="center">10 (1-2)</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>Aliments complémentaires, à l'exception de :</p>
+<p>Aliments complémentaires, avec l'exception suivante :</p>
 </td>
 <td valign="top" width="151">
 <p align="center">4</p>
@@ -824,11 +848,11 @@
 </td>
 </tr>
 <tr>
-<td rowspan="2" valign="top" width="151">
+<td rowspan="3" valign="top" width="151">
 <p>4. Théobromine.</p>
 </td>
 <td valign="top" width="340">
-<p>Aliments complets, à l'exception de :</p>
+<p>Aliments complets, avec les exceptions suivantes :</p>
 </td>
 <td valign="top" width="151">
 <p align="center">300</p>
@@ -836,15 +860,21 @@
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>- aliments complets pour bovins adultes</p>
+<p>- aliments complets pour porcs</p>
 </td>
 <td valign="top" width="151">
-<p align="center">700</p>
+<p align="center">200</p>
+</td>
+</tr>
+<tr>
+<td>- aliments complets pour chiens, lapins, chevaux et animaux à fourrure </td>
+<td>
+<p align="center">50</p>
 </td>
 </tr>
 <tr>
 <td rowspan="5" valign="top" width="151">
-<p>5. Essence volatile de moutarde</p>
+<p>5. Essence volatile de moutarde.</p>
 </td>
 <td valign="top" width="340">
 <p>Matières premières pour aliments des animaux, à l'exception de :</p>
@@ -916,35 +946,24 @@
 </td>
 </tr>
 <tr>
-<td valign="top" width="151">
-<p>8. Graines de mauvaises herbes et fruits non moulus ni broyés contenant des alcaloïdes, des glucosides ou autres substances toxiques, isolément ou ensemble :</p>
-</td>
+<td valign="top" width="151">8. Graines de mauvaises herbes et fruits non moulus ni broyés contenant des alcaloïdes, des glucosides ou autres substances toxiques, isolément ou ensemble autres que : Datura spp.</td>
 <td valign="top" width="340">
 <p>Tous les aliments</p>
 </td>
 <td valign="top" width="151">
 <p align="center">3 000</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="151">
-<p>Datura stramonium L.</p>
-</td>
-<td valign="top" width="340"/>
-<td valign="top" width="151">
 <p align="center">1 000</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="151">
-<p>9. Ricin -Rizinus communis L.</p>
+<p>9. Graines et coques de Ricinus communis L., Croton tiglium L. et Abrus precatorius L. et les dérivés de leur transformation (1), isolément ou ensemble.</p>
 </td>
 <td valign="top" width="340">
 <p>Tous les aliments</p>
 </td>
 <td valign="top" width="151">
 <p align="center">10</p>
-<p align="center">(exprimé en coques de ricin)</p>
 </td>
 </tr>
 <tr>
@@ -1462,10 +1481,10 @@
 <td valign="top" width="151">
 <p>3. Faîne non décortiquée -Fagus silvatica (L.).</p>
 </td>
-<td rowspan="9" width="340">
+<td rowspan="8" width="340">
 <p>Tous les aliments</p>
 </td>
-<td rowspan="9" width="151">
+<td rowspan="8" width="151">
 <p align="center">Les graines et fruits et dérivés de leur transformation des espèces végétales ci-contre ne peuvent se trouver dans les aliments des animaux qu'en quantité indécelable.</p>
 </td>
 </tr>
@@ -1477,11 +1496,6 @@
 <tr>
 <td valign="top" width="151">
 <p>6. Purgère -Jatropha curcas L.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="151">
-<p>7. Croton - Croton tiglium L.</p>
 </td>
 </tr>
 <tr>
@@ -1511,7 +1525,7 @@
 </tr>
 <tr>
 <td valign="top" width="151">
-<p align="center">D. - Coccidiostatiques et histomonostatiques</p>
+<p align="center">D. - Coccidiostatiques et histomonostatiques des aliments pour animaux non cibles</p>
 </td>
 <td valign="top" width="340"/>
 <td valign="top" width="151">
@@ -2081,7 +2095,11 @@
 </tr>
 <tr>
 <td colspan="3" valign="top" width="643">
-<p>(1) Teneur en fluor pour 1 % de phosphore.<br/>(1-1) Les teneurs maximales se rapportent aux teneurs totales en arsenic.<br/>(1-2) A la demande des autorités compétentes, l'opérateur responsable doit effectuer une analyse pour démontrer que la teneur maximale en arsenic inorganique est inférieure à 2 ppm. Cette analyse est particulièrement importante dans le cas de l'algue marine hijiki (hizikia fusiforme).<br/>(2) Concentrations supérieures ; les concentrations supérieures sont calculées en supposant que toutes les valeurs des différents congénères au-dessous du seuil de quantification sont égales au seuil de quantification.<br/>(3) Le poisson frais fourni et utilisé directement sans traitement intermédiaire pour la production d'aliments pour animaux à fourrure n'est pas soumis à ce seuil maximal : le poisson frais utilisé pour l'alimentation directe des animaux familiers et des animaux de zoo et de cirque est soumis à un seuil maximum de 4,0 ng OMS-PCDD/F-TEQ/kg. Les produits et protéines animales transformées issus de ces animaux (animaux à fourrure, animaux familiers, animaux de zoo et de cirque) ne peuvent entrer dans la chaîne alimentaire et leur utilisation est interdite dans l'alimentation des animaux dont la chair ou les produits sont destinés à la consommation humaine.<br/>(a) Les teneurs maximales renvoient à une détermination analytique du plomb, l'extraction s'effectuant dans de l'acide nitrique (5 % p/p) pendant trente minutes à la température d'ébullition. Des méthodes d'extraction équivalentes peuvent être utilisées s'il peut être démontré qu'elles ont une efficacité d'extraction égale.<br/>(b) Les fourrages verts comprennent les produits destinés à l'alimentation animale tels que le foin, le fourrage ensilé, l'herbe fraîche, etc.<br/>(c) Les teneurs maximales renvoient à une détermination analytique du fluor, l'extraction s'effectuant avec de l'acide chlorhydrique 1N pendant vingt minutes à la température ambiante. Des méthodes d'extraction équivalentes peuvent être utilisées s'il peut être démontré qu'elles ont une efficacité d'extraction égale.<br/>(d) Les teneurs maximales renvoient à une détermination analytique du cadmium, l'extraction s'effectuant dans de l'acide nitrique (5 % p/p) pendant trente minutes à la température d'ébullition. Des méthodes d'extraction équivalentes peuvent être utilisées s'il peut être démontré qu'elles ont une efficacité d'extraction égale.<br/>(e) Système de numérotation selon Parlar, avec préfixe CHB ou Parlar n° <br/>- CHB 26 : 2-endo,3-exo,5-endo, 6-exo, 8,8,10,10-octochlorobornane<br/>- CHB 50 : 2-endo,3-exo,5-endo, 6-exo, 8,8,9,10,10-nonachlorobornane<br/>- CHB 62 : 2,2,5,5,8,9,9,10,10-nonachlorobornane.<br/>(f) TEF-OMS pour l'évaluation des risques pour les êtres humains, fondés sur les conclusions de la réunion de l'OMS tenue à Stockholm (Suède), du 15 au 18 juin 1997 [Van den Berg et al. (1998) Toxic Equivalency Factors (TEFs) for PCBs, PCDDs, PCDFs for Humans and for Wildlife. Environmental Health Perspectives, 106(12), 775].<br/>(g) Concentrations supérieures : les concentrations supérieures sont calculées sur la base de l'hypothèse que toutes les valeurs des différents congénères au-dessous du seuil de quantification sont égales au seuil de quantification.<br/>(h) La teneur maximale distincte pour les dioxines (PCDD/F) reste applicable pendant une période limitée. Les produits destinés aux aliments pour animaux mentionnés au point 21 doivent satisfaire, pendant cette période, tant aux teneurs maximales fixées pour les dioxines qu'à celles établies pour la somme des dioxines et des PCB de type dioxine.<br/>(i) Le poisson frais fourni et utilisé directement sans traitement intermédiaire pour la production d'aliments pour animaux à fourrure n'est pas soumis aux teneurs maximales, tandis que le poisson frais utilisé pour l'alimentation directe des animaux familiers et des animaux de zoo et de cirque est soumis à des teneurs maximales de 4,0 ng OMS-PCDD/F-TEQ/kg et de 8,0 ng OMS-PCDD/F-PCB-TEQ/kg. Les produits et protéines animales transformées issus de ces animaux (animaux à fourrure, animaux familiers, animaux de zoo et de cirque) ne peuvent entrer dans la chaîne alimentaire, et leur utilisation est interdite dans l'alimentation des animaux d'élevage gardés, engraissés ou élevés pour la production de denrées alimentaires.<br/>(j) Isolément ou ensemble, exprimée en dieldrine.<br/>(k) Teneur maximale pour l'aldrine et la dieldrine, prises isolément ou ensemble, exprimée en dieldrine.<br/>(*) Sans préjudice des niveaux autorisés dans le cadre du règlement (CE) n° 1831 / 2003 du Parlement européen et du Conseil du 22 septembre 2003 relatif aux additifs destinés à l'alimentation des animaux.<br/>(**) Le niveau maximal de la substance dans le prémélange correspond à une concentration qui ne doit pas conduire à un niveau supérieur à 50 % de la valeur maximale établie pour l'aliment lorsque les consignes d'utilisation du prémélange sont respectées.</p>
+<p>(1) Dans la mesure où ils sont décelables par microscopie analytique.</p>
+<p>(1-1) Les teneurs maximales se rapportent à l'arsenic total. Les teneurs maximales renvoient à une détermination analytique de l'arsenic, l'extraction s'effectuant dans de l'acide nitrique (5 % p/p) pendant trente minutes à la température d'ébullition. Des méthodes d'extraction équivalentes peuvent être utilisées s'il peut être démontré qu'elles ont une efficacité d'extraction égale. </p>
+<p>(1-2) A la demande des autorités compétentes, l'opérateur responsable doit effectuer une analyse pour démontrer que la teneur en arsenic inorganique est inférieure à 2 ppm. Cette analyse est particulièrement importante dans le cas de l'algue marine hijiki (Hizikia fusiforme). </p>
+<p>(2) Concentrations supérieures ; les concentrations supérieures sont calculées en supposant que toutes les valeurs des différents congénères au-dessous du seuil de quantification sont égales au seuil de quantification.</p>
+<p>(3) Le poisson frais fourni et utilisé directement sans traitement intermédiaire pour la production d'aliments pour animaux à fourrure n'est pas soumis à ce seuil maximal : le poisson frais utilisé pour l'alimentation directe des animaux familiers et des animaux de zoo et de cirque est soumis à un seuil maximum de 4,0 ng OMS-PCDD/F-TEQ/kg. Les produits et protéines animales transformées issus de ces animaux (animaux à fourrure, animaux familiers, animaux de zoo et de cirque) ne peuvent entrer dans la chaîne alimentaire et leur utilisation est interdite dans l'alimentation des animaux dont la chair ou les produits sont destinés à la consommation humaine.<br/>(a) Les teneurs maximales renvoient à une détermination analytique du plomb, l'extraction s'effectuant dans de l'acide nitrique (5 % p/p) pendant trente minutes à la température d'ébullition. Des méthodes d'extraction équivalentes peuvent être utilisées s'il peut être démontré qu'elles ont une efficacité d'extraction égale.<br/>(b) Les fourrages verts comprennent les produits destinés à l'alimentation animale tels que le foin, le fourrage ensilé, l'herbe fraîche, etc.<br/>(c) Les teneurs maximales renvoient à une détermination analytique du fluor, l'extraction s'effectuant avec de l'acide chlorhydrique 1N pendant vingt minutes à la température ambiante. Des méthodes d'extraction équivalentes peuvent être utilisées s'il peut être démontré qu'elles ont une efficacité d'extraction égale.<br/>(d) Les teneurs maximales renvoient à une détermination analytique du cadmium, l'extraction s'effectuant dans de l'acide nitrique (5 % p/p) pendant trente minutes à la température d'ébullition. Des méthodes d'extraction équivalentes peuvent être utilisées s'il peut être démontré qu'elles ont une efficacité d'extraction égale.<br/>(e) Système de numérotation selon Parlar, avec préfixe CHB ou Parlar n° <br/>- CHB 26 : 2-endo,3-exo,5-endo, 6-exo, 8,8,10,10-octochlorobornane<br/>- CHB 50 : 2-endo,3-exo,5-endo, 6-exo, 8,8,9,10,10-nonachlorobornane<br/>- CHB 62 : 2,2,5,5,8,9,9,10,10-nonachlorobornane.<br/>(f) TEF-OMS pour l'évaluation des risques pour les êtres humains, fondés sur les conclusions de la réunion de l'OMS tenue à Stockholm (Suède), du 15 au 18 juin 1997 [Van den Berg et al. (1998) Toxic Equivalency Factors (TEFs) for PCBs, PCDDs, PCDFs for Humans and for Wildlife. Environmental Health Perspectives, 106(12), 775].<br/>(g) Concentrations supérieures : les concentrations supérieures sont calculées sur la base de l'hypothèse que toutes les valeurs des différents congénères au-dessous du seuil de quantification sont égales au seuil de quantification.<br/>(h) La teneur maximale distincte pour les dioxines (PCDD/F) reste applicable pendant une période limitée. Les produits destinés aux aliments pour animaux mentionnés au point 21 doivent satisfaire, pendant cette période, tant aux teneurs maximales fixées pour les dioxines qu'à celles établies pour la somme des dioxines et des PCB de type dioxine.<br/>(i) Le poisson frais fourni et utilisé directement sans traitement intermédiaire pour la production d'aliments pour animaux à fourrure n'est pas soumis aux teneurs maximales, tandis que le poisson frais utilisé pour l'alimentation directe des animaux familiers et des animaux de zoo et de cirque est soumis à des teneurs maximales de 4,0 ng OMS-PCDD/F-TEQ/kg et de 8,0 ng OMS-PCDD/F-PCB-TEQ/kg. Les produits et protéines animales transformées issus de ces animaux (animaux à fourrure, animaux familiers, animaux de zoo et de cirque) ne peuvent entrer dans la chaîne alimentaire, et leur utilisation est interdite dans l'alimentation des animaux d'élevage gardés, engraissés ou élevés pour la production de denrées alimentaires.<br/>(j) Isolément ou ensemble, exprimée en dieldrine.<br/>(k) Teneur maximale pour l'aldrine et la dieldrine, prises isolément ou ensemble, exprimée en dieldrine.<br/>(*) Sans préjudice des niveaux autorisés dans le cadre du règlement (CE) n° 1831/2003 du Parlement européen et du Conseil du 22 septembre 2003 relatif aux additifs destinés à l'alimentation des animaux.<br/>(**) Le niveau maximal de la substance dans le prémélange correspond à une concentration qui ne doit pas conduire à un niveau supérieur à 50 % de la valeur maximale établie pour l'aliment lorsque les consignes d'utilisation du prémélange sont respectées.</p>
 </td>
 </tr>
 </tbody>
