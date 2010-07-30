@@ -20,7 +20,7 @@ II.-L'Autorité de sûreté nucléaire transmet le dossier au préfet avec une n
 
 L'Autorité de sûreté nucléaire transmet le dossier de demande assorti de la note explicative à la commission locale d'information qui dispose d'un délai de trois mois pour donner son avis.
 
-III.-L'Autorité de sûreté nucléaire transmet le projet de déclassement aux ministres chargés de la sûreté nucléaire qui recueillent l'avis de la commission consultative des installations nucléaires de base.
+III.-L'Autorité de sûreté nucléaire transmet le projet de déclassement aux ministres chargés de la sûreté nucléaire.
 
 IV.-La décision de déclassement après homologation fait l'objet des mesures de notification, de communication et de publication définies au VI de l'article 18.
 

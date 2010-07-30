@@ -8,7 +8,7 @@ Les ministres transmettent le dossier au préfet du département d'implantation 
 
 La consultation du public est organisée sous la forme d'une publication du dossier de demande par voie électronique permettant pendant un mois le recueil des observations par la même voie. Le préfet annonce cette consultation par un avis qui en précise les dates et modalités.L'avis est affiché en mairie dans la commune d'implantation de l'installation et fait l'objet, aux frais de l'exploitant, des mesures de publicité prévues au 2° du I de l'article R. 122-12 du code de l'environnement.
 
-Le dossier, accompagné des avis du préfet et du conseil départemental et des résultats de la consultation du public, est soumis pour avis à la commission consultative des installations nucléaires de base et à l'Autorité de sûreté nucléaire.
+Le dossier, accompagné des avis du préfet et du conseil départemental et des résultats de la consultation du public, est soumis pour avis à l'Autorité de sûreté nucléaire.
 
 L'autorisation de courte durée est accordée dans les six mois suivant la réception du dossier. Elle vaut autorisation de création, de mise à l'arrêt définitif et de démantèlement. Le contenu de l'autorisation de courte durée comporte les éléments prévus aux 1°, 2°, 3°, 4° et 5° du II de l'article 16 et aux 2° et 3° du II de l'article 38.
 
