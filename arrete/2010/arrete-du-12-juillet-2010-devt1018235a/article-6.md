@@ -1,0 +1,3 @@
+# Article 6
+
+Le directeur scientifique et technique a pour mission d'animer, sur le plan scientifique, les grandes orientations du SETRA. En particulier, il examine quelles évolutions et quels résultats scientifiques ou techniques concernent le SETRA. En coopération avec les centres techniques, il contribue à la qualité scientifique de leurs projets, en partenariat avec les organismes du réseau scientifique et technique et les autres acteurs potentiellement concernés. Il encourage les échanges méthodologiques, techniques et scientifiques entre les unités du SETRA. Il coordonne l'expression des besoins de recherche dans le domaine de compétences du SETRA.

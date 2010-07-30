@@ -1,0 +1,5 @@
+# Article 1
+
+Au cas où le fonctionnement régulier d'un établissement mentionné à l'article 2 de la loi du 9 janvier 1986 susvisée n'est plus assuré, notamment en raison de l'impossibilité de réunir les instances de dialogue social, ou en cas de défaillances dans la gestion préventive des risques, le directeur général de l'agence régionale de la santé pour les établissements mentionnés aux 1°, 3° et 5° de l'article précité ou le préfet de département pour les établissements mentionnés aux 4° et 6° du même article propose au ministre chargé de la santé, sur présentation d'un rapport motivé, le détachement d'un fonctionnaire sur un contrat de droit public pour assurer la direction de cet établissement dans le cadre d'une mission visant à rétablir le bon fonctionnement de ce dernier.
+
+Après accord du ministre chargé de la santé, le directeur général de l'agence régionale de santé ou le préfet de département fixe la durée de la mission, dans la limite de deux années. A titre exceptionnel, l'achèvement du programme engagé peut conduire à prolonger la mission dans la limite d'un an.
