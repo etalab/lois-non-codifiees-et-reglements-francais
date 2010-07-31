@@ -2,7 +2,7 @@
 
 I. ― Seuls peuvent bénéficier d'une nomination :
 
-1° Les agents mentionnés au 1° de l'article 2 qui justifient de huit années de services effectifs accomplis dans un ou plusieurs des corps ou cadres d'emplois qui y sont mentionnés, ou accomplis en position de détachement dans un ou plusieurs emplois fonctionnels ou dans l'emploi d'administrateur du Conseil économique et social ;
+1° Les agents mentionnés au 1° de l'article 2 qui justifient de huit années de services effectifs accomplis dans un ou plusieurs des corps ou cadres d'emplois qui y sont mentionnés, ou accomplis en position de détachement dans un ou plusieurs emplois fonctionnels ou dans l'emploi d'administrateur du   Conseil économique, social et environnemental ;
 
 2° Les agents mentionnés au 2° de l'article 2 qui justifient de huit années de service et de quatre années d'occupation, au cours des six dernières années, d'un ou de plusieurs emplois dotés d'un indice terminal supérieur à l'indice brut 1015 relevant d'un statut d'emploi de chef de services déconcentrés de l'Etat ou de secrétaire général d'académie ou d'université.
 

@@ -88,7 +88,7 @@ Sources du droit commercial : nationales, communautaires, internationales.
 
 Organisation et structures administratives du commerce :
 
-Le Gouvernement, le Conseil économique et social, l'Autorité des marchés financiers,    l'Autorité de la concurrence, les chambres de commerce et d'industrie, les collectivités locales.
+Le Gouvernement, le   Conseil économique, social et environnemental, l'Autorité des marchés financiers, l'Autorité de la concurrence, les chambres de commerce et d'industrie, les collectivités locales.
 
 Organisation judiciaire du commerce :
 

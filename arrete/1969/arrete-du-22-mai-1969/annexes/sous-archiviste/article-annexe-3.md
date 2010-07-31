@@ -2,11 +2,11 @@
 
 Indépendamment des dispositions législatives sur les emplois réservés aux anciens combattants et victimes de guerre et aux travailleurs handicapés applicables au recrutement des sous-archivistes, les candidats à ces fonctions sont recrutés par voie de concours sur titres ou de concours sur épreuves.
 
-I - Concours sur titres.
+I-Concours sur titres.
 
 Les candidats doivent être titulaires soit du diplôme de documentaliste (ancien régime) de l'institut national des techniques de la documentation du Conservatoire national des arts et métiers, soit du diplôme technique de documentaliste (nouveau régime, premier cycle) délivré depuis 1971 par l'institut précité, soit du diplôme universitaire de technologie, carrières de l'information (option Documentation, sous-option Documentation).
 
-II - Concours sur épreuves.
+II-Concours sur épreuves.
 
 Deux concours sur épreuves distincts sont ouverts :
 
@@ -128,7 +128,7 @@ En raison du caractère facultatif de cette épreuve, seuls les points obtenus a
 
 Programme des matières.
 
-I - Les institutions de la France du XVIIè siècle à nos jours :
+I-Les institutions de la France du XVIIè siècle à nos jours :
 
 a) Les institutions de la France sous l'ancien régime :
 
@@ -146,13 +146,13 @@ L'administration des provinces, les gouverneurs et les intendants, les Etats pro
 
 Les Etats généraux et les assemblées de notables.
 
-b) La période monarchique de la Révolution : nouvelles divisions administratives en 1790. La Constitution de 1791. L'organisation du pouvoir central et des administrations départementales et locales par la Constituante. L'organisation judiciaire. Les impôts. Les conséquences institutionnelles du 10 août 1792.    c) La Constitution de 1793 (sans détails). Le Gouvernement révolutionnaire et la Constitution de l'an III. Organisation du pouvoir central et des administrations départementales et locales sous la Convention et le Directoire. L'organisation judiciaire. Les impôts.
+b) La période monarchique de la Révolution : nouvelles divisions administratives en 1790. La Constitution de 1791.L'organisation du pouvoir central et des administrations départementales et locales par la Constituante.L'organisation judiciaire. Les impôts. Les conséquences institutionnelles du 10 août 1792. c) La Constitution de 1793 (sans détails). Le Gouvernement révolutionnaire et la Constitution de l'an III. Organisation du pouvoir central et des administrations départementales et locales sous la Convention et le Directoire.L'organisation judiciaire. Les impôts.
 
 d) L'organisation constitutionnelle administrative et judiciaire sous les divers régimes qui se sont succédés depuis le Concordat jusqu'à la Ve République incluse.
 
 e) Les rapports de l'Eglise et de l'Etat. Constitution civile du clergé, le Concordat, la séparation des Eglises et de l'Etat.
 
-II - Histoire générale de la France de 1789 à nos jours :
+II-Histoire générale de la France de 1789 à nos jours :
 
 Les grands faits de l'histoire de France et l'oeuvre des gouvernements, de la convocation des Etats généraux à nos jours :
 
@@ -186,7 +186,7 @@ La seconde guerre mondiale : ses différentes périodes.
 
 La IVè et la Vè République.
 
-III - Droit public (constitutionnel, administratif et financier) :
+III-Droit public (constitutionnel, administratif et financier) :
 
 La Constitution :
 
@@ -206,7 +206,7 @@ L'autorité judiciaire.
 
 2° Les organes annexes :
 
-Le Conseil économique et social ;
+Le   Conseil économique, social et environnemental ;
 
 Le Conseil constitutionnel ;
 
@@ -226,7 +226,7 @@ b) L'organisation administrative des collectivités locales :
 
 L'organisation départementale : le préfet, le conseil général, l'arrondissement, cas particulier des départements d'outre-mer ;
 
-L'organisation communale : le conseil municipal, la municipalité, le maire et les adjoints.    c) Organisation et compétence des juridictions administratives :
+L'organisation communale : le conseil municipal, la municipalité, le maire et les adjoints. c) Organisation et compétence des juridictions administratives :
 
 Le Conseil d'Etat ;
 
@@ -236,7 +236,7 @@ Le budget :
 
 Notions sur le budget de l'Etat, des départements et des communes.
 
-IV - Législation, organisation et réglementation des archives nationales, départementales, communales et hospitalières :
+IV-Législation, organisation et réglementation des archives nationales, départementales, communales et hospitalières :
 
 Historique ;
 

@@ -20,4 +20,4 @@ Quatre personnalités membres de l'union des établissements supérieurs catholi
 
 Quatre personnalités choisies par le ministre parmi les autres établissements.
 
-3° Un député, un sénateur, un membre du Conseil économique et social désignés par les présidents des assemblées concernées.
+3° Un député, un sénateur, un membre du   Conseil économique, social et environnemental désignés par les présidents des assemblées concernées.

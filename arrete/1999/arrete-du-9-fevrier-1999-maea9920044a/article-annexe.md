@@ -2,7 +2,7 @@
 
 **PROGRAMME DES EPREUVES**
 
-I. - Note de synthèse. - Note administrative
+I.-Note de synthèse.-Note administrative
 
 (Concours externe et concours interne)
 
@@ -10,31 +10,31 @@ Le dossier documentaire fourni aux candidats à l'épreuve no 1 d'admissibilité
 
 L'exploitation d'un document peut nécessiter, de la part du candidat, la réalisation de calculs simples (opérations de base, les fractions, la règle de trois, les rapports et proportions, les moyennes, les pourcentages et les indices).
 
-II. - Organisation constitutionnelle et administrative de la France
+II.-Organisation constitutionnelle et administrative de la France
 
 (Concours externe et interne)
 
-A. - L'organisation constitutionnelle
+A.-L'organisation constitutionnelle
 
 1. Le principe et rôle d'une constitution ; la souveraineté nationale.
 
 2. La Constitution du 4 octobre 1958 :
 
-- le pouvoir exécutif : le Président de la République, le Gouvernement ;
+-le pouvoir exécutif : le Président de la République, le Gouvernement ;
 
-- le Parlement : l'Assemblée nationale, le Sénat ;
+-le Parlement : l'Assemblée nationale, le Sénat ;
 
-- le Conseil constitutionnel ;
+-le Conseil constitutionnel ;
 
-- le Conseil économique et social ;
+-le   Conseil économique, social et environnemental ;
 
-- les rapports entre le Parlement et le Gouvernement : élaboration de la loi, contrôle de l'activité gouvernementale ;
+-les rapports entre le Parlement et le Gouvernement : élaboration de la loi, contrôle de l'activité gouvernementale ;
 
-- l'autorité judiciaire.
+-l'autorité judiciaire.
 
-B. - L'organisation et le fonctionnement de l'administration
+B.-L'organisation et le fonctionnement de l'administration
 
-1. L'administration de l'Etat : administration centrale, services déconcentrés, le préfet.
+1.L'administration de l'Etat : administration centrale, services déconcentrés, le préfet.
 
 2. Les collectivités territoriales décentralisées : la région, le département, la commune.
 
@@ -42,23 +42,23 @@ B. - L'organisation et le fonctionnement de l'administration
 
 4. Les actes de l'administration (décision exécutoire, contrats administratifs).
 
-5. L'organisation et la compétence des juridictions administratives : le Conseil d'Etat, les cours administratives d'appel, les tribunaux administratifs.
+5.L'organisation et la compétence des juridictions administratives : le Conseil d'Etat, les cours administratives d'appel, les tribunaux administratifs.
 
-III. - Institutions communautaires
+III.-Institutions communautaires
 
 (Concours externe et interne)
 
 Les aspects institutionnels :
 
-- les institutions et les organes de l'Union européenne ;
+-les institutions et les organes de l'Union européenne ;
 
-- les organes juridictionnels.
+-les organes juridictionnels.
 
-IV. - Economie
+IV.-Economie
 
 (Concours externe)
 
-A. - Présentation de l'activité économique
+A.-Présentation de l'activité économique
 
 1. Les acteurs de la vie économique et leurs opérations.
 
@@ -66,9 +66,9 @@ A. - Présentation de l'activité économique
 
 3. Répartition et consommation :
 
-- les revenus (répartition, redistribution) ;
+-les revenus (répartition, redistribution) ;
 
-- la consommation des ménages.
+-la consommation des ménages.
 
 4. Les circuits monétaires.
 
@@ -78,15 +78,15 @@ A. - Présentation de l'activité économique
 
 7. Le développement et ses inégalités (croissance).
 
-B. - Economie internationale
+B.-Economie internationale
 
 1. Les échanges internationaux (interdépendances, échanges).
 
-2. L'insertion dans l'Union européenne.
+2.L'insertion dans l'Union européenne.
 
 3. Le déséquilibre mondial.
 
-V. - Finances publiques
+V.-Finances publiques
 
 (Concours externe et interne)
 
@@ -98,7 +98,7 @@ V. - Finances publiques
 
 4. La Cour des comptes, les chambres régionales des comptes.
 
-VI. - Histoire contemporaine
+VI.-Histoire contemporaine
 
 (Concours externe)
 
@@ -112,17 +112,17 @@ VI. - Histoire contemporaine
 
 5. Les étapes de la construction européenne et les institutions communautaires.
 
-VII. - Géographie humaine et économique
+VII.-Géographie humaine et économique
 
 (concours externe)
 
 1. La France dans l'espace européen et mondial :
 
-- position géographique ;
+-position géographique ;
 
-- enjeux géopolitiques ;
+-enjeux géopolitiques ;
 
-- le rayonnement mondial de la France.
+-le rayonnement mondial de la France.
 
 2. La population de la France (identité, répartition, démographie, croissance urbaine).
 

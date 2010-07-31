@@ -6,4 +6,4 @@ Les membres de la commission mentionnés au b de l'article 4 sont nommés après
 
 Les avis du comité sont rendus publics.
 
-Le député, le sénateur et le membre du Conseil économique et social sont nommés par le Premier ministre.
+Le député, le sénateur et le membre du   Conseil économique, social et environnemental sont nommés par le Premier ministre.

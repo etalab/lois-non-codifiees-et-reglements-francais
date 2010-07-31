@@ -4,7 +4,7 @@ Une commission supérieure remplit auprès de la caisse nationale de prévoyance
 
 Elle est composée ainsi qu'il suit :
 
-e) Deux représentants des organisations syndicales patronales et deux représentants des organisations syndicales de salariés choisis par le Conseil économique et social parmi ses propres membres ;
+e) Deux représentants des organisations syndicales patronales et deux représentants des organisations syndicales de salariés choisis par le   Conseil économique, social et environnemental parmi ses propres membres ;
 
 f) Le directeur général de la caisse des dépôts et consignations, ou son représentant.
 

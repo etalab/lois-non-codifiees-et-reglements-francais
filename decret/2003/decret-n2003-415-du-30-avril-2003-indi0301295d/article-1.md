@@ -1,6 +1,6 @@
 # Article 1
 
-I. - L'Observatoire national du service public de l'électricité et du gaz comprend, outre son président, quarante et un membres répartis en deux collèges.
+I.-L'Observatoire national du service public de l'électricité et du gaz comprend, outre son président, quarante et un membres répartis en deux collèges.
 
 1° Le premier collège comprend vingt-huit membres désignés ainsi qu'il suit, à raison de :
 
@@ -24,11 +24,11 @@ i) Un représentant des opérateurs du secteur de l'électricité autres qu'Elec
 
 j) Un représentant des opérateurs du secteur du gaz autres que Gaz de France ;
 
-k) Deux représentants des associations intervenant dans le domaine économique et social, dont un au moins représentant les associations intervenant dans le domaine caritatif, désignés par le président du Conseil économique et social.
+k) Deux représentants des associations intervenant dans le domaine économique et social, dont un au moins représentant les associations intervenant dans le domaine caritatif, désignés par le président du   Conseil économique, social et environnemental.
 
 Le ministre chargé de l'énergie arrête la liste des organismes appelés à désigner les représentants mentionnés aux b, c, d, e, f, i et j ci-dessus.
 
-Lorsque la désignation d'un membre suppose un accord entre au moins deux organismes et que cet accord n'a pu intervenir, cette désignation fait l'objet d'un arbitrage du président du Conseil économique et social.
+Lorsque la désignation d'un membre suppose un accord entre au moins deux organismes et que cet accord n'a pu intervenir, cette désignation fait l'objet d'un arbitrage du président du   Conseil économique, social et environnemental.
 
 2° Le second collège comprend treize élus locaux et nationaux désignés ainsi qu'il suit, à raison de :
 
@@ -42,6 +42,6 @@ d) Deux conseillers généraux désignés par l'Assemblée des départements de 
 
 e) Deux conseillers régionaux désignés par l'Association des régions de France.
 
-II. - Un suppléant est désigné auprès de chacun des membres de l'observatoire national dans les mêmes conditions que pour la désignation du membre concerné.
+II.-Un suppléant est désigné auprès de chacun des membres de l'observatoire national dans les mêmes conditions que pour la désignation du membre concerné.
 
-III. - La liste des membres de l'observatoire national et de leurs suppléants, arrêtée par le président du Conseil économique et social, est publiée au Journal officiel de la République française.
+III.-La liste des membres de l'observatoire national et de leurs suppléants, arrêtée par le président du   Conseil économique, social et environnemental, est publiée au Journal officiel de la République française.

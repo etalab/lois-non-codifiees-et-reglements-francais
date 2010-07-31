@@ -86,9 +86,9 @@ Les procédures de divorce et de séparation de corps.
 
 Les procédures de l'autorité parentale et de l'assistance éducative.
 
-Option n° 2 : droit pénal et procédure pénale
+Option n° 2 : droit pénal et procédure pénale1
 
-1. Droit pénal général
+. Droit pénal général
 
 L'application de la loi pénale dans le temps et dans l'espace.
 
@@ -214,15 +214,15 @@ L'autorité judiciaire ;
 
 Les organes consultatifs :
 
-- le Conseil d'Etat ;
+-le Conseil d'Etat ;
 
-- le Conseil économique et social ;
+-le   Conseil économique, social et environnemental ;
 
 Les organes juridictionnels :
 
-- le Conseil constitutionnel ;
+-le Conseil constitutionnel ;
 
-- la Haute Cour de justice.
+-la Haute Cour de justice.
 
 2. Droit administratif
 

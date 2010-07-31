@@ -8,7 +8,7 @@ Le conseil est composé comme suit :
 
 Deux membres du Sénat et deux membres de l'Assemblée nationale, désignés par leur assemblée respective ;
 
-Un membre du Conseil économique et social ;
+Un membre du   Conseil économique, social et environnemental ;
 
 Un représentant des régions, désigné par l'Association des présidents de conseils régionaux ;
 

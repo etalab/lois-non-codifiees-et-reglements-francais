@@ -127,7 +127,7 @@ b) La Constitution de la Ve République :
 
 -le Conseil constitutionnel : juge de la constitutionnalité et juge électoral ;
 
--les autres pouvoirs ou organes : l'autorité judiciaire, la Haute Cour de justice, la Cour de justice de la République, le Conseil économique et social.
+-les autres pouvoirs ou organes : l'autorité judiciaire, la Haute Cour de justice, la Cour de justice de la République, le   Conseil économique, social et environnemental.
 
 _Libertés publiques_
 

@@ -6,7 +6,7 @@ a) Les membres et le secrétaire général du Haut Comité pour le logement des 
 
 b) Le président du Conseil national de l'habitat ;
 
-c) Un membre du Conseil économique et social ;
+c) Un membre du   Conseil économique, social et environnemental ;
 
 d) Deux membres représentant respectivement :
 
@@ -60,7 +60,7 @@ f) Trente-sept membres représentant respectivement :
 
 -la Confédération syndicale des familles ;
 
-- la Confédération de la consommation, du logement et du cadre de vie ;
+-la Confédération de la consommation, du logement et du cadre de vie ;
 
 -l'association Force ouvrière consommateurs ;
 
@@ -72,48 +72,48 @@ f) Trente-sept membres représentant respectivement :
 
 -la plate-forme Pour un droit au logement opposable ;
 
-- Les Enfants de Don Quichotte ;
+-Les Enfants de Don Quichotte ;
 
-- Emmaüs France ;
+-Emmaüs France ;
 
-- la Croix-Rouge française ;
+-la Croix-Rouge française ;
 
-- le Secours catholique ;
+-le Secours catholique ;
 
-- l'association des cités du Secours catholique ;
+-l'association des cités du Secours catholique ;
 
-- la Fédération nationale de l'entraide protestante ;
+-la Fédération nationale de l'entraide protestante ;
 
-- le Secours populaire français ;
+-le Secours populaire français ;
 
-- la Fondation de l'armée du salut ;
+-la Fondation de l'armée du salut ;
 
-- Médecins du monde ;
+-Médecins du monde ;
 
-- ATD Quart-Monde ;
+-ATD Quart-Monde ;
 
-- Œuvres hospitalières françaises de l'ordre de Malte ;
+-Œuvres hospitalières françaises de l'ordre de Malte ;
 
-- la Fédération nationale de protection civile ;
+-la Fédération nationale de protection civile ;
 
-- l'Union nationale des associations gestionnaires de foyers de travailleurs migrants et de résidences sociales ;
+-l'Union nationale des associations gestionnaires de foyers de travailleurs migrants et de résidences sociales ;
 
-- France terre d'asile ;
+-France terre d'asile ;
 
-- le collectif Les Morts de la rue » ;
+-le collectif Les Morts de la rue » ;
 
-- la Fédération nationale des samus sociaux.
+-la Fédération nationale des samus sociaux.
 
 Peuvent assister en tant que de besoin aux réunions du comité des représentants :
 
-- du ministre chargé du logement ;
+-du ministre chargé du logement ;
 
-- du ministre chargé de l'action sociale ;
+-du ministre chargé de l'action sociale ;
 
-- du garde des sceaux, ministre de la justice ;
+-du garde des sceaux, ministre de la justice ;
 
-- du ministre de l'intérieur ;
+-du ministre de l'intérieur ;
 
-- du ministre de l'immigration, de l'intégration, de l'identité nationale et du développement solidaire ;
+-du ministre de l'immigration, de l'intégration, de l'identité nationale et du développement solidaire ;
 
-- du ministre chargé de l'outre-mer.
+-du ministre chargé de l'outre-mer.

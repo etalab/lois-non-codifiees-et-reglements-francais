@@ -14,7 +14,7 @@ d) Des relations avec les collectivités locales ;
 
 e) De la fonction publique ;
 
-2° Le président du Conseil économique et social ;
+2° Le président du   Conseil économique, social et environnemental ;
 
 3° Les présidents et rapporteurs généraux des commissions du Sénat et de l'Assemblée nationale chargées des finances ;
 

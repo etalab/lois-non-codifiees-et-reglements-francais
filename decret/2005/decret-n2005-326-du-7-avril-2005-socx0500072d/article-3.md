@@ -26,7 +26,7 @@ j) Un membre désigné par l'Union nationale des professions libérales (UNAPL) 
 
 2° Deux députés et deux sénateurs respectivement désignés par le président de l'Assemblée nationale et par le président du Sénat ;
 
-3° Deux membres du Conseil économique et social désignés par le président du Conseil économique et social ;
+3° Deux membres du   Conseil économique, social et environnemental désignés par le président du   Conseil économique, social et environnemental ;
 
 4° Un représentant de l'Association des maires de France (AMF), un représentant de l'Assemblée des départements de France (ADF), un représentant de l'Association des régions de France (ARF) ;
 
@@ -40,7 +40,7 @@ c) Le directeur général du travail ;
 
 d) Le directeur du budget ;
 
-e) Le directeur des politiques économiques à la        direction générale du Trésor ;
+e) Le directeur des politiques économiques à la direction générale du Trésor ;
 
 f) Le directeur général des entreprises ;
 

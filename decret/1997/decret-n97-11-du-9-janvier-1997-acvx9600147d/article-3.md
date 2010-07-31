@@ -6,12 +6,12 @@ Le Premier ministre, les ministres en charge de la défense, de l'éducation nat
 
 Le Haut Conseil de la mémoire combattante comprend en outre :
 
-- cinq personnalités choisies en raison de l'intérêt qu'elles portent aux problèmes de mémoire :
+-cinq personnalités choisies en raison de l'intérêt qu'elles portent aux problèmes de mémoire :
 
-- un membre du Conseil économique et social ;
+-un membre du   Conseil économique, social et environnemental ;
 
-- deux membres de l'Institut de France ;
+-deux membres de l'Institut de France ;
 
-- deux membres du conseil d'administration de l'Office national des anciens combattants et victimes de guerre ;
+-deux membres du conseil d'administration de l'Office national des anciens combattants et victimes de guerre ;
 
-- six personnalités qualifiées choisies en raison de leur engagement personnel dans la défense des valeurs combattantes ou de leur compétence en matière de mémoire.
+-six personnalités qualifiées choisies en raison de leur engagement personnel dans la défense des valeurs combattantes ou de leur compétence en matière de mémoire.

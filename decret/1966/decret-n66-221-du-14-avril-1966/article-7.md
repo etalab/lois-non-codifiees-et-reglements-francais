@@ -6,7 +6,7 @@ Un conseiller d'Etat, président.
 
 Deux députés et un sénateur.
 
-Un membre du Conseil économique et social.
+Un membre du   Conseil économique, social et environnemental.
 
 Un conseiller maître à la Cour des comptes.
 

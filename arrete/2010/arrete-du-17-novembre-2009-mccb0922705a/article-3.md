@@ -20,7 +20,7 @@ Elle participe, en liaison avec les directions générales, à la tutelle des op
 
 Elle exerce les fonctions d'ordonnateur principal délégué du ministre. Elle veille à la cohérence de l'organisation financière et comptable des services. Elle exerce un contrôle sur la régularité des engagements ainsi que sur la qualité comptable de la gestion du ministère.
 
-Elle est l'interlocuteur de la Cour des comptes et du Conseil économique et social.
+Elle est l'interlocuteur de la Cour des comptes et du   Conseil économique, social et environnemental.
 
 La sous-direction des affaires financières comprend :
 
@@ -32,7 +32,7 @@ La sous-direction des affaires financières comprend :
 
 III. ― La sous-direction des affaires immobilières et générales assure le fonctionnement général des services du ministère.
 
-Elle élabore, coordonne et met en œuvre la politique immobilière et la gestion du parc immobilier du ministère. En liaison avec les directions générales, elle assure le suivi des grands projets d'investissement du ministère et des établissements qui lui sont rattachés. A ce titre, elle assure le secrétariat de la commission ministérielle des projets immobiliers. Elle est l'interlocuteur du service chargé des domaines.
+Elle élabore, coordonne et met en œuvre la politique immobilière et la gestion du parc immobilier du ministère. En liaison avec les directions générales, elle assure le suivi des grands projets d'investissement du ministère et des établissements qui lui sont rattachés.A ce titre, elle assure le secrétariat de la commission ministérielle des projets immobiliers. Elle est l'interlocuteur du service chargé des domaines.
 
 Elle répartit et gère les moyens de fonctionnement et d'investissement de l'administration centrale. En lien avec le département de l'action territoriale et la sous-direction des affaires financières, elle répartit et assure le suivi des moyens de fonctionnement et d'investissement des services déconcentrés.
 

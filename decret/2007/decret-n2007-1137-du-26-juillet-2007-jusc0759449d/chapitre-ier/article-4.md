@@ -10,4 +10,4 @@ c) D'un député et d'un sénateur ;
 
 d) Du Médiateur de la République ;
 
-e) D'un membre du Conseil économique et social.
+e) D'un membre du   Conseil économique, social et environnemental.

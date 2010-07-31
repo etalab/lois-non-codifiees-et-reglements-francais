@@ -34,7 +34,7 @@ Au ministère de l'agriculture et de la pêche :
 
 -le service central d'enquêtes et d'études statistiques ;
 
--les services à compétence spécialisée dans les activités statistiques des         directions régionales de l'alimentation, de l'agriculture et de la forêt ;
+-les services à compétence spécialisée dans les activités statistiques des directions régionales de l'alimentation, de l'agriculture et de la forêt ;
 
 -le bureau central des statistiques de la direction des pêches maritimes et de l'aquaculture.
 
@@ -112,7 +112,7 @@ Les services statistiques des établissements publics et organismes suivants :
 
 -le centre d'études sur les réseaux, les transports, l'urbanisme et les constructions publiques ;
 
--la mission INSEE du Conseil économique et social ;
+-la mission INSEE du   Conseil économique, social et environnemental ;
 
 -le centre d'études de l'emploi ;
 
