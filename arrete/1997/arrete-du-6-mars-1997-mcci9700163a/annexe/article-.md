@@ -235,21 +235,21 @@ Semestres 9 et 10
 <p align="center">ENSEIGNEMENTS</p>
 </td>
 <td width="151">
-<p align="center">SEMESTRE 9<br/>Nombre<br/>de crédits<br/>30</p>
+<p align="center">SEMESTRE 9<br/>Nombre<br/>de crédits</p>
 </td>
 <td width="151">
-<p align="center">SEMESTRE 10<br/>Nombre<br/>de crédits<br/>30</p>
+<p align="center">SEMESTRE 10<br/>Nombre<br/>de crédits</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Méthodologie de la recherche</p>
+<p>Méthodologie de la recherche (suivi du mémoire).</p>
 </td>
 <td valign="top" width="151">
 <p align="center">20</p>
 </td>
 <td valign="top" width="151">
-<p align="center">5</p>
+<br/>
 </td>
 </tr>
 <tr>
@@ -265,30 +265,17 @@ Semestres 9 et 10
 </tr>
 <tr>
 <td valign="top" width="378">
-<p>Recherches personnelles</p>
-</td>
-<td valign="top" width="151">
-<p align="center">5</p>
-</td>
-<td valign="top" width="151">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="378">
-<p>Passage et obtention du diplôme</p>
+<p>Epreuves du diplôme</p>
 </td>
 <td valign="top" width="151">
 <br/>
 </td>
 <td valign="top" width="151">
-<p align="center">25</p>
+<p align="center">mémoire : 5<br/>travail plastique : 25</p>
 </td>
 </tr>
 </tbody>
 </table>
-
-La phase "projet" est consacrée à l'élaboration par l'étudiant d'un projet personnel qui sera présenté lors du passage du diplôme.
 
 Cycle court
 

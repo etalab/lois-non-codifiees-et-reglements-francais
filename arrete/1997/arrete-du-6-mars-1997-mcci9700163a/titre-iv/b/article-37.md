@@ -1,9 +1,9 @@
 # Article 37
 
-Les épreuves du diplôme national supérieur d'expression plastique consistent en :
+Le passage du diplôme national supérieur d'expression plastique est constitué, pour les trois options, de deux épreuves :
 
-- une présentation de travaux ;
+- la soutenance d'un mémoire d'une durée de vingt minutes ;
 
-- un entretien avec le jury ;
+- la soutenance d'un travail plastique d'une durée de quarante minutes.
 
-- et, pour les options communication et design, la présentation d'un mémoire.
+Les deux épreuves comprennent un entretien avec le jury.
