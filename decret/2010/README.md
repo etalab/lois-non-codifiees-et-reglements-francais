@@ -86,6 +86,7 @@
 - [Décret n°2010-763 du 6 juillet 2010 (OMEO1013545D)](decret-n2010-763-du-6-juillet-2010-omeo1013545d)
 - [Décret n°2010-8 du 6 janvier 2010 (DEVN0925028D)](decret-n2010-8-du-6-janvier-2010-devn0925028d)
 - [Décret n°2010-9 du 6 janvier 2010 (JUSC0921456D)](decret-n2010-9-du-6-janvier-2010-jusc0921456d)
+- [Décret n°84-822 du 6 septembre 1984](decret-n84-822-du-6-septembre-1984)
 - [Décret n°95-623 du 6 mai 1995 (AGRS9500797D)](decret-n95-623-du-6-mai-1995-agrs9500797d)
 - [Décret n°2010-458 du 6 mai 2010 (ECED1004991D)](decret-n2010-458-du-6-mai-2010-eced1004991d)
 - [Décret n°2010-464 du 6 mai 2010 (DEVU1003483D)](decret-n2010-464-du-6-mai-2010-devu1003483d)
