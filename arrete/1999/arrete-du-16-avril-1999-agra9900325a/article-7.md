@@ -256,7 +256,7 @@ La Constitution du 4 octobre 1958 :
 
 -le Conseil constitutionnel ;
 
--le Conseil économique et social ;
+-le   Conseil économique, social et environnemental ;
 
 -les rapports entre le Parlement et le Gouvernement : élaboration de la loi, contrôle de l'activité gouvernementale ;
 
