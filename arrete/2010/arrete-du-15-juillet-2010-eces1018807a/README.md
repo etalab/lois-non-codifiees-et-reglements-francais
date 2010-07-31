@@ -1,0 +1,3 @@
+# Arrêté du 15 juillet 2010 modifiant l'arrêté du 5 novembre 2001 portant création d'un traitement automatisé d'informations nominatives relatif à l'exploitation des fichiers de la direction générale des impôts concernant l'impôt sur le revenu, la taxe d'habitation et l'identification des foyers fiscaux et du fichier de l'Institut national de la statistique et des études économiques concernant l'enquête sur l'emploi en vue de l'exploitation annuelle sur les revenus des ménages et l'arrêté du 20 novembre 2007 mettant en œuvre un traitement automatisé d'informations individuelles relatif à un dispositif d'enquête annuelle dénommée « Enquête sur les revenus fiscaux et sociaux »
+
+- [Article 3](article-3.md)
