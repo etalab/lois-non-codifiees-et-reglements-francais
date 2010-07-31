@@ -14,9 +14,9 @@ Le Conseil national de l'aménagement et du développement du territoire compren
 
 6. Le maire d'une commune ou le président d'un établissement public de coopération intercommunale situé dans les limites d'un pays, désigné sur proposition de l'Association des maires de France ;
 
-7. Le président du Conseil économique et social ou son représentant ;
+7. Le président du Conseil économique, social et environnemental ou son représentant ;
 
-8. Quatre présidents de conseil économique, social et environnemental régional, désignés sur proposition de l'Assemblée des    conseils économiques, sociaux et environnementaux régionaux de France ;
+8. Quatre présidents de conseil économique, social et environnemental régional, désignés sur proposition de l'Assemblée des conseils économiques, sociaux et environnementaux régionaux de France ;
 
 9. Trois représentants des organismes consulaires, désignés respectivement par l'Assemblée permanente des chambres d'agriculture, l'Assemblée des chambres françaises de commerce et d'industrie, l'Assemblée permanente des chambres de métiers et de l'artisanat ;
 
