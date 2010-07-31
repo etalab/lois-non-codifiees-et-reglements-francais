@@ -1401,6 +1401,7 @@
 - [Arrêté du 22 janvier 2010 (SASP1002048A)](arrete-du-22-janvier-2010-sasp1002048a)
 - [Arrêté du 22 janvier 2010 (SASR1000714A)](arrete-du-22-janvier-2010-sasr1000714a)
 - [Arrêté du 22 juillet 2010 (DEVS1008996A)](arrete-du-22-juillet-2010-devs1008996a)
+- [Arrêté du 22 juin 1989 (DOME8900025A)](arrete-du-22-juin-1989-dome8900025a)
 - [Arrêté du 22 juin 2010 (AGRG1016551A)](arrete-du-22-juin-2010-agrg1016551a)
 - [Arrêté du 22 juin 2010 (AGRS1010220A)](arrete-du-22-juin-2010-agrs1010220a)
 - [Arrêté du 22 juin 2010 (AGRS1010222A)](arrete-du-22-juin-2010-agrs1010222a)
