@@ -3,4 +3,5 @@
 - [TITRE Ier : CONTRATS DE PARTENARIAT DE L'ÉTAT ET DE SES ÉTABLISSEMENTS PUBLICS.](titre-ier)
 - [TITRE III : DISPOSITIONS DIVERSES.](titre-iii)
 - [Article 29](article-29.md)
+- [Article 29-1](article-29-1.md)
 - [Article 30](article-30.md)
