@@ -2,4 +2,4 @@
 
 MODÈLE DE PROTOCOLE MENTIONNÉ À L'ARTICLE 1er DU PRÉSENT ARRÊTÉ
 
-Vous pouvez consulter le tableau dans le JO n° 12 du 15/01/2010 texte numéro 68
+Vous pouvez consulter le formulaire dans le JO n° 12 du 15/01/2010 texte numéro 68
