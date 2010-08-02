@@ -257,6 +257,7 @@
 - [Décret n°2010-796 du 12 juillet 2010 (BCRB1008357D)](decret-n2010-796-du-12-juillet-2010-bcrb1008357d)
 - [Décret n°2010-798 du 12 juillet 2010 (BCRB1015639D)](decret-n2010-798-du-12-juillet-2010-bcrb1015639d)
 - [Décret n°2010-799 du 12 juillet 2010 (AGRS0928682D)](decret-n2010-799-du-12-juillet-2010-agrs0928682d)
+- [Décret n°95-1105 du 12 octobre 1995 (AGRA9501669D)](decret-n95-1105-du-12-octobre-1995-agra9501669d)
 - [Décret n°2004-423 du 12 mai 2004 (AGRA0400589D)](decret-n2004-423-du-12-mai-2004-agra0400589d)
 - [Décret n° 2010-485 du 12 mai 2010 (JSAJ1012622D)](decret-n-2010-485-du-12-mai-2010-jsaj1012622d)
 - [Décret n°2010-481 du 12 mai 2010 (BCRB1012479D)](decret-n2010-481-du-12-mai-2010-bcrb1012479d)
