@@ -695,6 +695,7 @@
 - [Arrêté du 12 mars 2010 (SASR1007147A)](arrete-du-12-mars-2010-sasr1007147a)
 - [Arrêté du 12 novembre 2009 (DEVO0927205A)](arrete-du-12-novembre-2009-devo0927205a)
 - [Arrêté du 12 novembre 2009 (ESRR0921350A)](arrete-du-12-novembre-2009-esrr0921350a)
+- [Arrêté du 12 octobre 1995 (AGRA9501670A)](arrete-du-12-octobre-1995-agra9501670a)
 - [Arrêté du 12 octobre 2009 (BCFR0922588A)](arrete-du-12-octobre-2009-bcfr0922588a)
 - [Arrêté du 12 septembre 2006 (AGRG0601345A)](arrete-du-12-septembre-2006-agrg0601345a)
 - [Arrêté du 12 mai 2004 (AGRA0400590A)](arrete-du-12-mai-2004-agra0400590a)

@@ -7,7 +7,7 @@ Dès lors qu'ils exercent leurs fonctions en directions régionales, directions 
 <tr>
 <td align="left" valign="middle">
 <p align="center">FONCTIONNAIRES DU MINISTÈRE </p>
-<p>de l'agriculture et de la pêche </p>
+<p align="center">de l'agriculture et de la pêche </p>
 </td>
 <td align="left" valign="middle">
 <p align="center">CATÉGORIES </p>
@@ -15,17 +15,14 @@ Dès lors qu'ils exercent leurs fonctions en directions régionales, directions 
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">Chef de mission (attaché principal) </p>
-<p>Attaché principal de 1re et de 2e classe d'administration scolaire et universitaire de l'enseignement agricole </p>
+<td align="left" valign="middle">Ingénieur d'études hors classe du ministère de l'agriculture et de la pêche. <p>Ingénieur d'études de 1re classe du ministère de l'agriculture et de la pêche.</p>
 </td>
 <td align="left" valign="middle">
 <p align="center">1re catégorie </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="middle">
-<p align="justify">Attaché d'administration scolaire et universitaire de l'enseignement agricole </p>
+<td align="left" valign="middle">Ingénieur d'études de 2e classe du ministère de l'agriculture et de la pêche. <p>Assistant ingénieur de formation et de recherche du ministère de l'agriculture et de la pêche.</p>
 </td>
 <td align="left" valign="middle">
 <p align="center">2e catégorie </p>
@@ -33,12 +30,13 @@ Dès lors qu'ils exercent leurs fonctions en directions régionales, directions 
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="justify">Au-delà de l'indice brut 380 : </p>
-<p>Secrétaire d'administration scolaire et universitaire du ministère du ministère de l'agriculture et de la pêche </p>
-<p>Infirmière ou infirmier des services médicaux des administrations de l'Etat. </p>
-<p>Techniciens des établissements publics de l'enseignement technique agricole. </p>
-<p>Technicien de laboratoire des établissements d'enseignement agricole et des services déconcentrés </p>
-<p>Agent principal des services techniques </p>
+<p align="center">Au-delà de l'indice brut 380 :</p>
+<p>Secrétaire administratif du ministère de l'agriculture et de la pêche</p>
+<p>Infirmière ou infirmier des services médicaux des administrations de l'Etat.</p>
+<p>Technicien des établissements publics de l'enseignement technique agricole.</p>
+<p>Technicien de laboratoire des établissements d'enseignement agricole et des services déconcentrés.</p>
+<p>Technicien de formation et de recherche.</p>
+<p>Agent principal des services techniques.</p>
 </td>
 <td align="left" valign="middle">
 <p align="center">3e catégorie </p>

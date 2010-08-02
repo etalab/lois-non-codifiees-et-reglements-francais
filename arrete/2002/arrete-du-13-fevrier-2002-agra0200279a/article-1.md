@@ -7,11 +7,11 @@ Dès lors qu'ils exercent leurs fonctions en administration centrale, les foncti
 <tr>
 <td align="left" colspan="2" valign="middle">
 <p align="center">PERSONNEL TITULAIRE </p>
-<p>du ministère de l'agriculture et de la pêche </p>
+<p align="center">du ministère de l'agriculture et de la pêche </p>
 </td>
 <td align="left" colspan="2" valign="middle">
 <p align="center">FONCTIONNAIRES </p>
-<p>des administrations centrales </p>
+<p align="center">des administrations centrales </p>
 </td>
 </tr>
 <tr>
@@ -41,6 +41,7 @@ Dès lors qu'ils exercent leurs fonctions en administration centrale, les foncti
 <p>Directeur d'établissement public d'enseignement et de formation professionnelle agricoles hors classe. </p>
 <p>Inspecteur de l'enseignement agricole. </p>
 <p>Ingénieur en chef des télécommunications. </p>
+<p>Ingénieur de recherche hors classe du ministère de l'agriculture et de la pêche.</p>
 </td>
 <td align="left" colspan="2" valign="middle">
 <p align="left">Administrateur civil hors classe. </p>
@@ -53,6 +54,7 @@ Dès lors qu'ils exercent leurs fonctions en administration centrale, les foncti
 <p>Ingénieur des télécommunications 1re ou 2e classe. </p>
 <p>Maître de conférences de l'enseignement supérieur agricole de classe normale. </p>
 <p>Professeur agrégé de classe normale. </p>
+<p>Ingénieur de recherche de 1re classe du ministère de l'agriculture et de la pêche.</p>
 </td>
 <td align="left" colspan="2" valign="middle">
 <p align="left">Administrateur civil. </p>
@@ -75,6 +77,7 @@ Dès lors qu'ils exercent leurs fonctions en administration centrale, les foncti
 <p>Professeur certifié de l'enseignement agricole hors classe. </p>
 <p>Professeur de lycée professionnel agricole hors classe. </p>
 <p>Conseiller principal d'éducation des établissements d'enseignement agricole hors classe. </p>
+<p>Ingénieur de recherche de 2e classe du ministère de l'agriculture et de la pêche.</p>
 </td>
 <td align="left" colspan="2" valign="middle">
 <p align="left">Attaché principal 1re classe. </p>
@@ -95,6 +98,7 @@ Dès lors qu'ils exercent leurs fonctions en administration centrale, les foncti
 <td align="left" colspan="2" valign="middle">
 <p align="justify">Attaché de la Caisse nationale de crédit agricole. </p>
 <p>Ingénieur de l'agriculture et de l'environnement. </p>
+<p>Assistant ingénieur de formation et de recherche du ministère de l'agriculture et de la pêche.</p>
 </td>
 <td align="left" colspan="2" valign="middle">
 <p align="left">Attaché. </p>
@@ -196,4 +200,4 @@ Dès lors qu'ils exercent leurs fonctions en administration centrale, les foncti
 </tbody>
 </table>
 
-Les dispositions du présent article ne sont pas applicables aux agents de la filière technique affectés au              Conseil général de l'alimentation, de l'agriculture et des espaces ruraux.
+Les dispositions du présent article ne sont pas applicables aux agents de la filière technique affectés au Conseil général de l'alimentation, de l'agriculture et des espaces ruraux.
