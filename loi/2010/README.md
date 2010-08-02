@@ -8,6 +8,7 @@
 - [LOI n° 2010-768 du 9 juillet 2010 (JUSX0912931L)](loi-n-2010-768-du-9-juillet-2010-jusx0912931l)
 - [LOI n° 2010-769 du 9 juillet 2010 (JUSX1007012L)](loi-n-2010-769-du-9-juillet-2010-jusx1007012l)
 - [LOI n° 2010-788 du 12 juillet 2010 (DEVX0822225L)](loi-n-2010-788-du-12-juillet-2010-devx0822225l)
+- [LOI n° 2010-819 du 20 juillet 2010 (DEFD0925372L)](loi-n-2010-819-du-20-juillet-2010-defd0925372l)
 - [LOI n° 2010-832 du 22 juillet 2010 (BCRX1013399L)](loi-n-2010-832-du-22-juillet-2010-bcrx1013399l)
 - [LOI n° 2010-838 du 23 juillet 2010 (PRMX0910182L)](loi-n-2010-838-du-23-juillet-2010-prmx0910182l)
 - [LOI n° 2010-853 du 23 juillet 2010 (ECEX0913300L)](loi-n-2010-853-du-23-juillet-2010-ecex0913300l)
