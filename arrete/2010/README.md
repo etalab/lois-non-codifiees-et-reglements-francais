@@ -1405,7 +1405,6 @@
 - [Arrêté du 22 février 2010 (BCFS1005188A)](arrete-du-22-fevrier-2010-bcfs1005188a)
 - [Arrêté du 22 février 2010 (DEVS1002571A)](arrete-du-22-fevrier-2010-devs1002571a)
 - [Arrêté du 22 février 2010 (ECED1006347A)](arrete-du-22-fevrier-2010-eced1006347a)
-- [Arrêté du 22 février 2010 (MCCC1005562A)](arrete-du-22-fevrier-2010-mccc1005562a)
 - [Arrêté du 22 février 2010 (MENE1005157A)](arrete-du-22-fevrier-2010-mene1005157a)
 - [Arrêté du 22 février 2010 (MENE1005169A)](arrete-du-22-fevrier-2010-mene1005169a)
 - [Arrêté du 22 janvier 2010 (AGRM1001922A)](arrete-du-22-janvier-2010-agrm1001922a)
