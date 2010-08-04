@@ -40,4 +40,6 @@ Elle réalise les achats d'équipements informatiques pour les infrastructures e
 
 Elle apporte, pour la commande publique et les aspects techniques, conseils et outils méthodologiques et veille au respect des objectifs et des normes techniques ;
 
-Elle gère les crédits attribués aux actions nationales de mise en oeuvre des systèmes d'information et assure, en liaison avec la sous-direction des finances et du dialogue de gestion, la passation et l'exécution des marchés nationaux.
+Elle gère les crédits attribués aux actions nationales de mise en oeuvre des systèmes d'information et assure, en liaison avec la sous-direction des finances et du dialogue de gestion, la passation et l'exécution des marchés nationaux ;
+
+4° De mettre en œuvre les services de proximité de l'administration centrale en matière de téléphonie et de bureautique.
