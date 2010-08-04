@@ -20,21 +20,19 @@ II. - Epreuves d'admission
 
 1. Epreuve de langues.
 
-L'épreuve se déroule en deux parties :
+Cette épreuve, qui est notée sur 20 et affectée du coefficient 3, comporte deux parties :
 
-a) La première partie consiste en la traduction écrite en français d'un texte en langue vivante étrangère (allemand, anglais, arabe moderne, chinois, espagnol, italien, japonais, portugais, russe) ou d'un texte en langue ancienne (latin ou grec), au choix du candidat exprimé lors de l'inscription au concours.
+a) La première partie, comptant pour 12 points, consiste, au choix du candidat exprimé lors de son inscription au concours :
 
-L'usage d'un dictionnaire bilingue est autorisé pour les langues anciennes ; l'utilisation d'un dictionnaire unilingue est autorisé pour les langues modernes ; chaque candidat ne peut être muni que d'un seul dictionnaire.
+- soit en une traduction écrite en français d'un texte en langue ancienne (latin ou grec, selon le choix du candidat exprimé lors de son inscription au concours). La durée de cette partie de l'épreuve est de 3 heures ;
 
-Cette première partie se déroule par anticipation à l'occasion des épreuves écrites d'admissibilité, mais les points sont pris en compte pour l'admission dans le cadre de la présente épreuve de langue. Elle a une durée de 2 heures.
+- soit en une traduction orale en français d'un texte en langue vivante étrangère (allemand, anglais, espagnol, italien, portugais ou russe, selon le choix du candidat exprimé lors de son inscription au concours) tiré au sort par le candidat, suivie d'un entretien avec le jury dans la langue choisie sur des questions relatives au vocabulaire, à la grammaire et au contenu du texte. Cette partie de l'épreuve a une durée de trente minutes dont dix minutes de traduction et vingt minutes d'entretien ; la durée de la préparation est d'une heure.
 
-b) La deuxième partie consiste en la traduction orale en français d'un texte court en langue vivante étrangère (allemand, anglais, espagnol, italien, portugais), au choix du candidat exprimé lors de l'inscription au concours, suivie d'un entretien avec le jury dans la langue choisie. Cette langue doit être différente de celle qui a été choisie pour la première partie de l'épreuve.
+L'utilisation d'un dictionnaire bilingue est autorisée pour les langues anciennes et l'utilisation d'un dictionnaire unilingue est autorisée pour les langues modernes. Chaque candidat ne peut être muni que d'un seul dictionnaire.
 
-L'utilisation d'un dictionnaire unilingue est autorisée pour la préparation ; chaque candidat ne peut être muni que d'un seul dictionnaire.
+b) La deuxième partie, comptant pour 8 points, consiste en la traduction orale en français d'un texte court tiré au sort par le candidat dans une langue vivante étrangère (allemand, anglais, espagnol, italien, portugais ou russe, selon le choix du candidat exprimé lors de son inscription au concours) différente de celle choisie pour la première partie de l'épreuve, suivie d'un entretien avec le jury dans cette même langue et portant sur le contenu du texte. Cette partie de l'épreuve a une durée de trente minutes, dont dix minutes de traduction et vingt minutes d'entretien ; la durée de la préparation est de trente minutes.
 
-Cette deuxième partie a une durée de 30 minutes, dont traduction : 10 minutes maximum, conversation avec le jury : 20 minutes minimum ; la durée de la préparation est de 30 minutes.
-
-L'épreuve est affectée du coefficient 2, chaque partie étant notée de 0 à 10.
+L'utilisation d'un dictionnaire n'est pas autorisée pour cette partie de l'épreuve.
 
 2. Conversation avec le jury sur une question de culture générale débutant par le commentaire d'un texte tiré au sort au début de l'épreuve et portant sur le programme (préparation : 30 minutes, durée de l'épreuve : 30 minutes, dont commentaire : 10 minutes maximum, entretien avec le jury : 20 minutes minimum, coefficient 5).
 

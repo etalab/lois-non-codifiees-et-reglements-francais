@@ -6,7 +6,7 @@ Le jury comprend un président et un ou plusieurs vice-présidents, nommés par 
 
 Le président du jury et le ou les vice-présidents sont choisis parmi les professeurs de l'enseignement supérieur, les inspecteurs généraux des bibliothèques et les conservateurs généraux des bibliothèques. Lorsque le président du jury n'appartient pas au personnel scientifique des bibliothèques, le ou les vice-présidents ne peuvent être choisis que parmi les inspecteurs généraux des bibliothèques et les conservateurs généraux des bibliothèques.
 
-Les membres du jury, au nombre d'au moins neuf, sont choisis parmi les fonctionnaires de catégorie A appartenant à un corps ou détachés dans un emploi dont l'indice brut terminal est au moins doté de la hors-échelle, lettre A. La moitié au moins doit appartenir au personnel scientifique des bibliothèques.
+Les membres du jury, au nombre d'au moins neuf, sont choisis parmi les fonctionnaires de catégorie A. La moitié au moins doit appartenir au personnel scientifique des bibliothèques.
 
 Si le président du jury se trouve dans l'impossibilité de poursuivre sa mission, un vice-président est désigné sans délai par le ministre pour le remplacer.
 

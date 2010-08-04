@@ -20,8 +20,12 @@ II. - Epreuves d'admission
 
 1. Epreuve orale de langue vivante étrangère (allemand, anglais, espagnol, italien, portugais), au choix du candidat exprimé lors de l'inscription au concours, comportant la traduction d'un texte court suivie d'un entretien en français avec le jury.
 
-L'utilisation d'un dictionnaire unilingue est autorisée pour la préparation ; chaque candidat ne peut être muni que d'un seul dictionnaire (préparation : 30 minutes, durée de l'épreuve : 30 minutes, dont traduction : 10 minutes maximum, entretien avec le jury : 20 minutes minimum, coefficient 2).
+L'utilisation d'un dictionnaire unilingue est autorisée pour la préparation ; chaque candidat ne peut être muni que d'un seul dictionnaire (préparation : 30 minutes, durée de l'épreuve : 30 minutes, dont traduction : 10 minutes maximum, entretien avec le jury : 20 minutes minimum, coefficient 3).
 
 2. Conversation avec le jury sur une question de culture générale débutant par le commentaire d'un texte tiré au sort au début de l'épreuve et portant sur le programme (préparation : 30 minutes, durée de l'épreuve : 30 minutes, dont commentaire 10 minutes maximum, entretien avec le jury : 20 minutes minimum, coefficient 5).
 
-3. Entretien avec le jury débutant par le commentaire d'un texte tiré au sort au début de l'épreuve, relatif à une situation professionnelle, et portant notamment sur les motivations professionnelles. Le jury pourra également s'appuyer sur le dossier, fourni par le candidat lors de l'inscription, pour la reconnaissance des acquis de l'expérience professionnelle antérieure (préparation : 30 minutes, durée de l'épreuve : 40 minutes, dont commentaire : 10 minutes maximum, entretien avec le jury : 30 minutes minimum, coefficient 4).
+3. Entretien avec le jury sur la motivation professionnelle, débutant par le commentaire d'un texte tiré au sort au début de l'épreuve et relatif à une situation professionnelle. Le jury s'appuiera également sur le dossier fourni par le candidat lors de l'inscription, pour la reconnaissance des acquis de l'expérience professionnelle antérieure (préparation : trente minutes, durée de l'épreuve : trente minutes, dont commentaire : dix minutes maximum, entretien : vingt minutes minimum, coefficient 4).
+
+En vue de cette épreuve, le candidat établit un dossier de reconnaissance des acquis de son expérience professionnelle comportant les rubriques mentionnées en annexe qu'il remet au service organisateur à une date fixée dans l'arrêté d'ouverture du concours.
+
+Le dossier de reconnaissance des acquis de l'expérience professionnelle ainsi que le guide d'aide au remplissage sont disponibles sur le site internet du ministère. Le dossier est transmis au jury par le service gestionnaire du concours après l'établissement de la liste d'admissibilité.
