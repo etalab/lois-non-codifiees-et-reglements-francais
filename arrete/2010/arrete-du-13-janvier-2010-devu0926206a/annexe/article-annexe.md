@@ -10,31 +10,31 @@ Le système est associé à un appoint qui permet de compenser la diminution de 
 
 2. Domaine d'application
 
-Cette méthode s'applique uniquement aux immeubles collectifs d'habitations et aux bâtiments hôteliers qui respectent les conditions suivantes :
+Cette méthode s'applique uniquement aux immeubles collectifs d'habitations, aux bâtiments hôteliers et d'hébergement qui respectent les conditions suivantes :
 
-― des besoins annuels compris entre 1 000 m³ et 12 500 m³ d'eau chaude sanitaire à 40 °C ;
+- des besoins annuels compris entre 1 000 m ³ et 12 500 m ³ d'eau chaude sanitaire à 40° C ;
 
-― un nombre de pompes à chaleur inférieur à 6 ;
+- un nombre de pompes à chaleur inférieur à 6 ;
 
-― des capteurs solaires non vitrés implantés avec un angle d'inclinaison par rapport au plan horizontal inférieur à 15° et dont la surface est comprise entre 30 m² et 100 m² par pompe à chaleur ;
+- des capteurs solaires non vitrés implantés avec un angle d'inclinaison par rapport au plan horizontal inférieur à 15° et dont la surface est comprise entre 30 m ² et 100 m ² par pompe à chaleur ;
 
-― une distance maximale de 20 m entre la pompe à chaleur et le ballon d'eau chaude sanitaire le plus éloigné ;
+- une distance maximale de 20 m entre la pompe à chaleur et le ballon d'eau chaude sanitaire le plus éloigné ;
 
-― une altitude maximale du bâtiment de 400 m.
+- une altitude maximale du bâtiment de 400 m.
 
 3. Méthode de prise en compte dans les calculs pour la partie non directement modélisable
 
 La présente méthode propose l'intégration du système Héliopac comme suit :
 
-― modéliser le système Héliopac, dans la méthode de calcul Th-C-E, comme un générateur collectif classique en saisissant uniquement l'appoint sans pertes de stockage ;
+- modéliser le système Héliopac, dans la méthode de calcul Th-C-E, comme un générateur collectif classique en saisissant uniquement l'appoint sans pertes de stockage ;
 
-― corriger la consommation d'eau chaude sanitaire en énergie primaire ainsi obtenue (Cecs) par le moteur de calcul par la performance globale annuelle du système (Pgs) pour la part assurée par le système Héliopac.
+- corriger la consommation d'eau chaude sanitaire en énergie finale ainsi obtenue (Cecs ef) par le moteur de calcul par la performance globale annuelle du système (Pgs) pour la part assurée par le système Héliopac.
 
 Le coefficient Pgs prend en compte les consommations énergétiques de la PAC, celles de l'appoint, des pompes et l'ensemble des pertes thermiques des ballons.
 
 3.1. Détermination du coefficient de performance globale annuelle du système (Pgs)
 
-Le coefficient de performance globale annuelle du système est déterminé à partir d'un des deux tableaux ci-dessous (tableaux 1 et 2) qui se différencient suivant l'usage du bâtiment (immeuble collectif d'habitations et bâtiment hôtelier).
+Le coefficient de performance globale annuelle du système est déterminé à partir d'un des deux tableaux ci-dessous (tableaux 1 et 2) qui se différencient suivant l'usage du bâtiment (immeuble collectif d'habitations ou bâtiment d'hébergement et bâtiment hôtelier).
 
 Les données du projet nécessaires à la détermination de ce coefficient sont :
 
@@ -58,24 +58,30 @@ Le système utilisé dans le moteur de calcul Th-C-E pour calculer la consommati
 
 3.3. Post-traitement pour l'intégration dans le moteur de calcul Th-C-E
 
-La consommation d'ECS en énergie primaire du système  Héliopac + appoint  est définie la formule suivante :
+La consommation d'ECS en énergie primaire du système  Héliopac + appoint  est définie par la formule suivante :
 
-Cecs Héliopac = Cecs /Pgs* (1 ― Papp) + Papp* Cecs
+Vous pouvez consulter le tableau dans le JO n° 177 du 03 / 08 / 2010 texte numéro 2
 
-où :
+Où :
 
-Cecs : consommation d'ECS en énergie primaire du projet.
+- Cecs ef : consommation d'ECS en énergie finale du projet.
 
-Pgs : performance globale annuelle du système Héliopac.
+- Pgs : performance globale annuelle du système Héliopac.
 
-Papp : part du besoin produit par l'appoint (en %). Ce coefficient est déterminé à partir de la zone climatique du projet, de la surface de capteurs solaires et du besoin d'eau chaude sanitaire. Les tableaux 1 et 2 donnent les valeurs de ce coefficient.
+- Papp : part du besoin produit par l'appoint (en %). Ce coefficient est déterminé à partir de la zone climatique du projet, de la surface de capteurs solaires et du besoin d'eau chaude sanitaire.
 
-Les corrections à apporter à la consommation énergétique d'ECS du projet sont les suivantes :
+Les tableaux 1 et 2 donnent les valeurs de ce coefficient.
 
-Cep corrigé = Cep ― Cecs + Cecs Héliopac
+- C tep : coefficient de transformation en énergie primaire de l'énergie d'appoint, défini par l'article 35 de l'arrêté du 24 mai 2006 susvisé.
 
-où :
+Les corrections à apporter à la consommation d'énergie primaire du projet sont les suivantes :
 
-Cep : consommation en énergie primaire du projet.
+Vous pouvez consulter le tableau dans le JO n° 177 du 03 / 08 / 2010 texte numéro 2
 
-Cecs : consommation d'ECS en énergie primaire du projet.
+Où :
+
+- C ep : consommation en énergie primaire du projet.
+
+- C ecs Héliopac : consommation d'ECS en énergie primaire du système  Héliopac + appoint .
+
+- C ecs : consommation d'ECS en énergie primaire du projet.
