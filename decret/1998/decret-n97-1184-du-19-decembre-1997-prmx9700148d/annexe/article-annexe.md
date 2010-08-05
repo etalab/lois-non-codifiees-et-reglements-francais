@@ -41,24 +41,6 @@ Code pénal
 </tbody>
 </table>
 
-Décret n° 87-995 du 10 décembre 1987 portant création de l'institution des conseillers de défense
-
-<table>
-<tbody>
-<tr>
-<td valign="top" width="57">
-<p align="center">1</p>
-</td>
-<td valign="top" width="473">
-<p align="left">Décisions portant nomination des conseillers de défense pour ceux qui sont placés auprès d'un ministre.</p>
-</td>
-<td valign="top" width="189">
-<p align="left">Article 3</p>
-</td>
-</tr>
-</tbody>
-</table>
-
 Code de la défense
 
 <table>
@@ -96,7 +78,7 @@ Code de la défense
 <tbody>
 <tr>
 <td valign="top" width="76">
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
 <td valign="top" width="378">
 <p align="left">Décisions désignant l'installation fabriquant à des fins médicales, pharmaceutiques, de recherche ou de protection des produits chimiques inscrits au tableau 1 annexé à la convention du 13 janvier 1993 sur l'interdiction de la mise au point, de la fabrication, du stockage et de l'emploi des armes chimiques et sur leur destruction. </p>
@@ -107,35 +89,35 @@ Code de la défense
 </tr>
 <tr>
 <td valign="top" width="76">
-<p align="center">2</p>
+<p align="center">2 </p>
 </td>
 <td valign="top" width="378">
 <p align="left">Décisions portant désignation et autorisation d'une installation pouvant fabriquer, en quantité limitée, à des fins de protection, des produits chimiques inscrits au tableau 1 annexé à la convention. </p>
 </td>
 <td valign="top" width="151">
-<p align="left">Article R. 2342-3</p>
+<p align="left">Article R. 2342-3 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="76">
-<p align="center">3</p>
+<p align="center">3 </p>
 </td>
 <td valign="top" width="378">
 <p align="left">Décisions relatives aux agréments préalables à l'exportation pour la présentation, la négociation et la vente de produits chimiques inscrits au tableau 1 annexé à la convention. </p>
 </td>
 <td valign="top" width="151">
-<p align="left">Article R. 2342-19</p>
+<p align="left">Article R. 2342-19 </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="76">
-<p align="center">4</p>
+<p align="center">4 </p>
 </td>
 <td valign="top" width="378">
 <p align="left">Décisions d'autorisation d'exportation de produits chimiques inscrits au tableau 1 annexé à la convention dans le cas où le dossier est examiné préalablement par la commission interministérielle pour l'étude des exportations de matériels de guerre. </p>
 </td>
 <td valign="top" width="151">
-<p align="left">Article R. 2342-19</p>
+<p align="left">Article R. 2342-19 </p>
 </td>
 </tr>
 </tbody>
@@ -147,24 +129,24 @@ relatif à l'évaluation et à la certification de la sécurité offerte par les
 <table>
 <tbody>
 <tr>
-<td valign="top" width="57">
-<p align="center">1</p>
+<td valign="top" width="76">
+<p align="center">1 </p>
 </td>
-<td valign="top" width="473">
+<td valign="top" width="378">
 <p align="left">Délivrance du certificat attestant qu'un produit ou un système satisfait aux caractéristiques de sécurité spécifiées.</p>
 </td>
-<td valign="top" width="189">
+<td valign="top" width="151">
 <p align="left">- premier alinéa de l'article 8</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="57">
-<p align="center">2</p>
+<td valign="top" width="76">
+<p align="center">2 </p>
 </td>
-<td valign="top" width="473">
+<td valign="top" width="378">
 <p align="left">Délivrance et retrait de l'agrément des centres d'évaluation de la sécurité des technologies de l'information.</p>
 </td>
-<td valign="top" width="189">
+<td valign="top" width="151">
 <p align="left">- premier alinéa de l'article 12 et deuxième alinéa de l'article 14</p>
 </td>
 </tr>
@@ -173,6 +155,7 @@ relatif à l'évaluation et à la certification de la sécurité offerte par les
 
 Décret n° 2010-112 du 2 février 2010 pris pour l'application des articles 9, 10 et 12 de l'ordonnance n° 2005-1516 du 8 décembre 2005 relative aux échanges électroniques entre les usagers et les autorités administratives et entre les autorités administratives :
 
+<div align="left"/>
 <div align="left">
 <table>
 <tbody>
@@ -181,7 +164,7 @@ Décret n° 2010-112 du 2 février 2010 pris pour l'application des articles 9, 
 <p align="center">1</p>
 </td>
 <td valign="top" width="473">
-<p>Délivrance, suspension et retrait de la qualification de produits de sécurité.</p>
+<p>Délivrance, suspension et retrait de la qualification de produits de sécurité. </p>
 </td>
 <td valign="top" width="189">
 <p>Article 9</p>
@@ -192,7 +175,7 @@ Décret n° 2010-112 du 2 février 2010 pris pour l'application des articles 9, 
 <p align="center">2</p>
 </td>
 <td valign="top" width="473">
-<p>Délivrance, suspension et retrait de l'habilitation des organismes qui procèdent à la qualification des prestataires de services de confiance.</p>
+<p>Délivrance, suspension et retrait de l'habilitation des organismes qui procèdent à la qualification des prestataires de services de confiance. </p>
 </td>
 <td valign="top" width="189">
 <p>Premier alinéa de l'article 10 et article 13</p>
@@ -203,7 +186,7 @@ Décret n° 2010-112 du 2 février 2010 pris pour l'application des articles 9, 
 <p align="center">3</p>
 </td>
 <td valign="top" width="473">
-<p>Délivrance, suspension et retrait de la qualification de prestataires de services de confiance.</p>
+<p>Délivrance, suspension et retrait de la qualification de prestataires de services de confiance. </p>
 </td>
 <td valign="top" width="189">
 <p>Second alinéa de l'article 19</p>
@@ -212,62 +195,53 @@ Décret n° 2010-112 du 2 février 2010 pris pour l'application des articles 9, 
 </tbody>
 </table>
 </div>
+<div align="left"/>
+<div align="left"/>
 
 Arrêté du 2 octobre 1992 modifié relatif à la procédure d'importation, d'exportation et de transfert des matériels de guerre, armes et munitions et des matériels assimilés.
 
-<div align="left"/>
-<div align="left">
 <table>
 <tbody>
 <tr>
-<td valign="top" width="57">
-<p align="center">1</p>
+<td valign="top" width="76">
+<p align="center">1 </p>
 </td>
-<td valign="top" width="473">
+<td valign="top" width="378">
 <p align="left">Décisions relatives aux agréments préalables à l'exportation pour la présentation, la négociation et la vente de matériels de guerre. </p>
 </td>
-<td valign="top" width="189">
+<td valign="top" width="151">
 <p align="left">Article 4</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="57">
-<p align="center">2</p>
+<td valign="top" width="76">
+<p align="center">2 </p>
 </td>
-<td valign="top" width="473">
+<td valign="top" width="378">
 <p align="left">Décisions d'autorisation d'exportation de matériels de guerre dans le cas où le dossier est examiné préalablement par la commission interministérielle pour l'étude des exportations de matériels de guerre. </p>
 </td>
-<td valign="top" width="189">
+<td valign="top" width="151">
 <p align="left">Article 9</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="57">
-<p align="center">3</p>
+<td valign="top" width="76">
+<p align="center">3 </p>
 </td>
-<td valign="top" width="473">
+<td valign="top" width="378">
 <p align="left">Décisions d'autorisation de transit par la route dans le cas où le dossier est examiné préalablement par la commission interministérielle pour l'étude des exportations de matériels de guerre. </p>
 </td>
-<td valign="top" width="189">
+<td valign="top" width="151">
 <p align="left">Article 24</p>
 </td>
 </tr>
 </tbody>
 </table>
-</div>
-<div align="left">
-<br clear="none"/>
-</div>
-<div align="left"/>
 
 DIVERS
 
 Code de l'urbanisme
 
-<div align="left"/>
-<div align="left"/>
-<div align="left"/>
-<div align="left">
 <table>
 <tbody>
 <tr>
@@ -289,19 +263,15 @@ Code de l'urbanisme
 <p align="left">Décisions de nomination des membres et du président du comité de décentralisation. </p>
 </td>
 <td valign="top" width="189">
-<p align="left">Article R. 510-3 et A. 510-3 </p>
+<p>Article R. 510-3 </p>
+<p align="left">et A. 510-3</p>
 </td>
 </tr>
 </tbody>
 </table>
-</div>
-<div align="left"/>
-<div align="left"/>
 
 Code des marchés publics
 
-<div align="left"/>
-<div align="left">
 <table>
 <tbody>
 <tr>
@@ -317,16 +287,10 @@ Code des marchés publics
 </tr>
 </tbody>
 </table>
-</div>
-
-<div align="left">
 
 Décret n° 82-453 du 28 mai 1982
-modifié relatif à l'hygiène et à la sécurité du travail ainsi qu'à la prévention médicale dans la fonction publique<br clear="none"/>
-</div>
-<div align="left"/>
-<div align="left"/>
-<div align="left">
+modifié relatif à l'hygiène et à la sécurité du travail ainsi qu'à la prévention médicale dans la fonction publique
+
 <table>
 <tbody>
 <tr>
@@ -334,10 +298,10 @@ modifié relatif à l'hygiène et à la sécurité du travail ainsi qu'à la pr�
 <p align="center">1</p>
 </td>
 <td valign="top" width="473">
-<p>Agrément de certains organismes chargés de dispenser une formation en matière d'hygiène et de sécurité aux représentants des personnels siégeant aux comités d'hygiène et de sécurité. </p>
+<p align="left">Agrément de certains organismes chargés de dispenser une formation en matière d'hygiène et de sécurité aux représentants des personnels siégeant aux comités d'hygiène et de sécurité.</p>
 </td>
 <td valign="top" width="189">
-<p>Article 8</p>
+<p align="left">Article 8</p>
 </td>
 </tr>
 <tr>
@@ -360,6 +324,5 @@ modifié relatif à l'hygiène et à la sécurité du travail ainsi qu'à la pr�
 </tr>
 </tbody>
 </table>
-</div>
-<div align="left"/>
-<div align="left">Décisions relatives à l'activité des exploitants primaires de données d'origine spatiale prévues aux articles 23 à 25 de la loi n° 2008-518 du 3 juin 2008 relative aux opérations spatiales.</div>
+
+Décisions relatives à l'activité des exploitants primaires de données d'origine spatiale prévues aux articles 23 à 25 de la loi n° 2008-518 du 3 juin 2008 relative aux opérations spatiales.
