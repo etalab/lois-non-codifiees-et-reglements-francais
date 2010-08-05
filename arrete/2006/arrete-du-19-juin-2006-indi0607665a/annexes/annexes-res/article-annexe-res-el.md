@@ -4,137 +4,130 @@ Certificats d'économies d'énergie
 
 Opération n° RES-EL-01
 
-Transformateur à haut rendement
+(Supprimé)
 
-pour la distribution publique d'électricité
+Certificats d'économies d'énergie
 
-1. Secteur d'application :
+Opération n° RES-EL-02
 
-Distribution publique  d'électricité.
+Transformateur à haut rendement pour la distribution publique d'électricité
 
-2. Dénomination :
+1. Secteur d'application
 
-Mise  en place d'un  transformateur de distribution publique, à haut  rendement (faibles pertes),  triphasé, immergé dans l'huile d'une  puissance comprise entre 50 et 1 000 kVA et  de tension primaire  inférieure à 24 kV.
+Distribution publique d'électricité.
 
-3. Conditions pour la  délivrance de certificats :
+2. Dénomination
 
-La  fiche technique du transformateur  indiquant les niveaux de pertes à  vide (B0 ou A0) et de pertes en charge (Bk ou  Ak), calculés suivant la  norme NF EN 50464-1, est fournie.
+Mise  en place d'un transformateur de distribution publique à haut rendement,  triphasé, immergé dans l'huile d'une puissance comprise entre 50 et  1000 kVA et de tension primaire inférieure à 24 kV.
 
-Le  niveau (C) de l'ancienne norme NF C52 112 1 ou du document CENELEC HD 428 peut  être utilisé : on considère que C = Bk.
+3. Conditions pour la délivrance de certificats
 
-4. Durée de vie  conventionnelle :
+La  fiche technique du transformateur indiquant les niveaux de pertes à  vide et de pertes en charge, calculés suivant la norme EN 50464-1, est  fournie. Le niveau des pertes doit être inférieur ou égal à celui des  classes B0 et Ck.
 
-30 ans.
+4. Durée de vie conventionnelle
 
-5. Montant de certificats  en kWh cumac :
+30 ans
 
-Montant en kWh cumac = pertes à vide + pertes en charge
+5. Montant de certificats en kWh cumac
+
+Montant en kWh cumac = Gain sur pertes à vide + Gain sur pertes en charge
 
 <table>
 <tbody>
 <tr>
-<td align="center" colspan="3">PERTES À VIDE<br/>(kWh cumac)</td>
-<td align="center" rowspan="9">
-<br/>+<br/>
+<td align="center"/>
+<td align="center" colspan="2">Gain sur pertes à vide <br/>(kWh cumac) </td>
+<td align="center"/>
+<td align="center"/>
+<td align="center" colspan="3">Gain sur pertes en charge (kWh <br/>cumac) </td>
+</tr>
+<tr>
+<td align="center">kVA </td>
+<td align="center">B<sub>0</sub>
 </td>
-<td align="center" colspan="2">PERTES EN CHARGE<br/>(kWh cumac) <br/>
+<td align="center">A<sub>0</sub>
+</td>
+<td align="center"/>
+<td align="center">kVA </td>
+<td align="center">C<sub>k</sub>
+</td>
+<td align="center">B<sub>k</sub>
+</td>
+<td align="center">A<sub>k</sub>
 </td>
 </tr>
 <tr>
-<td align="center">kVA<br/>
+<td align="center">50 </td>
+<td align="center">2 400 </td>
+<td align="center">5 500 </td>
+<td align="center"/>
+<td align="center">50 </td>
+<td align="center">0 <br/>
 </td>
-<td align="center">B0<br/>
-</td>
-<td align="center">A0<br/>
-</td>
-<td align="center">Bk<br/>
-</td>
-<td align="center">Ak<br/>
-</td>
+<td align="center"> 1 300</td>
+<td align="center">1 600 </td>
 </tr>
 <tr>
-<td align="center">50<br/>
-</td>
-<td align="center">2 400<br/>
-</td>
-<td align="center">5 500<br/>
-</td>
-<td align="center">1 300<br/>
-</td>
-<td align="center">1 600<br/>
-</td>
+<td align="center">100</td>
+<td align="center">4 700 </td>
+<td align="center">10 000 </td>
+<td align="center"/>
+<td align="center"> 100</td>
+<td align="center"> 0</td>
+<td align="center"> 2 900</td>
+<td align="center"> 3 800</td>
 </tr>
 <tr>
-<td align="center">100<br/>
-</td>
-<td align="center">4 700<br/>
-</td>
-<td align="center">10 000<br/>
-</td>
-<td align="center">2 900<br/>
-</td>
-<td align="center">3 800<br/>
-</td>
+<td align="center">160 </td>
+<td align="center">18 000 </td>
+<td align="center">26 000 </td>
+<td align="center"/>
+<td align="center"> 160</td>
+<td align="center"> 0</td>
+<td align="center"> 8 300</td>
+<td align="center">11 000 </td>
 </tr>
 <tr>
-<td align="center">160<br/>
+<td align="center">250 </td>
+<td align="center"> 27 000</td>
+<td align="center">36 000 </td>
+<td align="center">+ <br/>
 </td>
-<td align="center">18 000<br/>
-</td>
-<td align="center">26 000<br/>
-</td>
-<td align="center">8 300<br/>
-</td>
-<td align="center">11 000<br/>
-</td>
+<td align="center"> 250</td>
+<td align="center"> 0</td>
+<td align="center">13 000 </td>
+<td align="center">17 000 </td>
 </tr>
 <tr>
-<td align="center">250<br/>
-</td>
-<td align="center">27 000<br/>
-</td>
-<td align="center">36 000<br/>
-</td>
-<td align="center">13 000<br/>
-</td>
-<td align="center">17 000<br/>
-</td>
+<td align="center">400 </td>
+<td align="center">65 000 </td>
+<td align="center">79 000 </td>
+<td align="center"/>
+<td align="center"> 400</td>
+<td align="center"> 0</td>
+<td align="center">7 100 </td>
+<td align="center"> 13 000</td>
 </tr>
 <tr>
-<td align="center">400<br/>
-</td>
-<td align="center">65 000<br/>
-</td>
-<td align="center">79 000<br/>
-</td>
-<td align="center">7 100<br/>
-</td>
-<td align="center">13 000<br/>
-</td>
+<td align="center"> 630</td>
+<td align="center">90 000 </td>
+<td align="center">110 000 </td>
+<td align="center"/>
+<td align="center">630 </td>
+<td align="center"> 0</td>
+<td align="center"> 8 100</td>
+<td align="center">14 000 </td>
 </tr>
 <tr>
-<td align="center">630<br/>
+<td align="center">1 000 </td>
+<td align="center">120 000 </td>
+<td align="center">150 000 </td>
+<td align="center"/>
+<td align="center">1 000 </td>
+<td align="center"> 0</td>
+<td align="center">0 <br/>
 </td>
-<td align="center">90 000<br/>
-</td>
-<td align="center">110 000<br/>
-</td>
-<td align="center">8 100<br/>
-</td>
-<td align="center">14 000<br/>
-</td>
-</tr>
-<tr>
-<td align="center">1 000<br/>
-</td>
-<td align="center">120 000<br/>
-</td>
-<td align="center">150 000<br/>
-</td>
-<td align="center">0<br/>
-</td>
-<td align="center">5 100<br/>
-</td>
+<td align="center">5 100 </td>
 </tr>
 </tbody>
 </table>

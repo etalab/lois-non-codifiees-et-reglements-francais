@@ -150,6 +150,7 @@ Installation   réalisée par un professionnel ou par le service technique inter
 <p>Bloc autonome d'éclairage</p>
 <br/>
 <br/>
+<br/>
 </div>
 
 1. Secteur d'application :
@@ -208,31 +209,9 @@ La puissance du coupe-veille, pour sa propre consommation, ne dépasse  pas 0,5 
 Certificats d'économies d'énergie
 
 <div align="left">Opération n° BAR-EQ-07</div>
-<div align="left">Lampe fluo-compacte avec globe de classe B</div>
 <div align="left"/>
-<div align="left">
-<br/>
+<div>(Supprimé) <br/>
 </div>
-
-1. Secteur d'application :
-
-Bâtiment résidentiel : maisons  individuelles et appartements existants.
-
-2. Dénomination :
-
-Mise en place d'une lampe fluo-compacte avec globe de classe B (ou  encore appelée lampe basse consommation).
-
-3. Conditions pour la  délivrance de certificats :
-
-Sans objet.
-
-4. Durée de  vie conventionnelle :
-
-6,5 ans.
-
-5. Montant de  certificats en kWh cumac :
-
-90 kWh cumac
 
 <div align="left">
 <br/>

@@ -145,3 +145,67 @@ Est éligible à  cette action tout luminaire qui respecte les trois exigences s
 5. Montant de certificats en kWh cumac  :
 
 6 400 kWh cumac/luminaire
+
+Certificats d'économies d'énergie
+
+Opération n° RES-EC-05
+
+Installation de diodes électroluminescentes (DEL) dans la signalisation lumineuse tricolore
+
+1. Secteur d'application
+
+Feux  de circulation implantés sur la chaussée de façon permanente au sens de  l'instruction interministérielle sur la signalisation routière.
+
+2. Dénomination
+
+Mise en place d'optiques à DEL sur la totalité des équipements de signaux lumineux d'un carrefour existant.
+
+3. Conditions pour la délivrance de certificats
+
+L'équipement en DEL doit concerner la totalité des signaux lumineux du carrefour.
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle
+
+8 ans
+
+5. Montant de certificats en kWh cumac
+
+Carrefour routier :
+
+<table>
+<tbody>
+<tr>
+<td align="center">Montant unitaire en <br/>kWh cumac / carrefour<br/>
+</td>
+<td align="center"/>
+<td align="center">Nombre de carrefour(s) <br/>équipé(s) de DEL </td>
+</tr>
+<tr>
+<td align="center"> 74 000</td>
+<td align="center">X </td>
+<td align="center">N </td>
+</tr>
+</tbody>
+</table>
+
+Installation réservée aux piétons :
+
+<table>
+<tbody>
+<tr>
+<td align="center">Montant unitaire en <br/>kWh cumac / installation<br/>
+</td>
+<td align="center"/>
+<td align="center">Nombre d'installation(s) <br/>réservée(s) aux piétons</td>
+</tr>
+<tr>
+<td align="center"> 20 000</td>
+<td align="center">X </td>
+<td align="center">N </td>
+</tr>
+</tbody>
+</table>
+
+Les  installations réservées aux piétons correspondent aux installations  dont le fonctionnement est assuré par les piétons lorsqu'ils désirent  traverser une voie de circulation. Elles pilotent des feux de  circulation tricolores destinés aux véhicules, affichant le vert par  défaut, et passant au rouge suite à l'appel d'un piéton.

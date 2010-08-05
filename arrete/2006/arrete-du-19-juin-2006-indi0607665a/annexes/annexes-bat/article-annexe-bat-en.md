@@ -1488,53 +1488,75 @@ Mise en place réalisée par un professionnel.
 
 </div>
 
-Certificats d'économies d'énergie
+<div align="left">Certificats d'économies d'énergie</div>
 
 Opération n° BAT-EN-06
 
 Isolation de combles ou de toitures (DOM)
 
-<div align="left">1. Secteur d'application :<br/>Bâtiment  tertiaire :  locaux du secteur tertiaire existants ou neufs en  l'absence de réglementation  thermique réservés à une utilisation  professionnelle, de surface totale chauffée  inférieure ou égale à 10  000 m², dans les départements d'outre-mer.<br/>2. Dénomination :<br/>Mise en place d'une isolation  thermique de résistance thermique R ≥ 1.2 m².K/W en comble ou en toiture.<br/>3. Conditions pour la délivrance de certificats :<br/>Les   isolants ont une certification ACERMI ou des caractéristiques de  performance et  de qualité équivalentes établies par un mode de preuve  légal dans un Etat membre  de l'Union européenne ou un Etat partie à  l'accord instituant l'Espace  économique européen ou en Turquie.<br/>Mise en place réalisée par un  professionnel.<br/>4. Durée de vie conventionnelle :<br/>25  ans.<br/>5. Montant de certificats en kWh cumac :<br/>
-</div>
-<div align="center">
+1. Secteur d'application
+
+Bâtiments  tertiaires existants ou neufs en l'absence de réglementation thermique  dans les DOM, réservés à une utilisation professionnelle, de surface  totale inférieure ou égale à 10 000 m², dans les départements  d'outre-mer.
+
+2. Dénomination
+
+Mise en place d'une isolation thermique de résistance thermique R ≥ 1,2 m².K/W en comble ou en toiture.
+
+3. Conditions pour la délivrance de certificats
+
+Les  isolants ont une certification ACERMI ou des caractéristiques de  performance et de qualité équivalentes établies par un organisme établi  dans l'Espace économique européen et accrédité selon les normes NF EN  ISO/CEI 17025 et NF EN 45011 par le Comité français d'accréditation  (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord  européen multilatéral pertinent pris dans le cadre de European  co-operation for Accreditation (EA), coordination européenne des  organismes d'accréditation.
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle
+
+25 ans pour l'isolation
+
+5. Montant de certificats en kWh cumac
 
 <table>
 <tbody>
 <tr>
-<td align="center">SECTEUR D'ACTIVITÉ<br/>
+<td align="center">Secteur d'activité </td>
+<td align="center">Montant en kWh cumac/m2 <br/>d'isolant posé </td>
+<td align="center"/>
+<td align="center"> Surface d'isolant <br/>posé en m²</td>
+</tr>
+<tr>
+<td align="left">
+<p>Bureaux et </p>
+<p>enseignement </p>
 </td>
-<td align="center" colspan="7">KWh cumac/m²<br/>d'isolant posé<br/>
+<td align="center">1 500 </td>
+<td align="center" rowspan="4"> X </td>
+<td align="center" rowspan="4">  S</td>
+</tr>
+<tr>
+<td align="left">Commerce </td>
+<td align="center"> 1 900<br/>
 </td>
 </tr>
 <tr>
-<td align="center">Bureaux et enseignement<br/>
-</td>
-<td align="center">1 500<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Commerce<br/>
-</td>
-<td align="center">1 900<br/>
+<td align="left">Tertiaire <br/>d'hébergement </td>
+<td align="center"> 3 000<br/>
 </td>
 </tr>
 <tr>
-<td align="center">Tertiaire d'hébergement<br/>
-</td>
-<td align="center">3 000<br/>
+<td align="left">Autres secteurs </td>
+<td align="center"> 1 500<br/>
 </td>
 </tr>
 </tbody>
 </table>
 
-</div>
-
-En  application de l'article 3 du décret n° 2006-603 du 23 mai 2006   relatif aux certificats d'économies d'énergie, il est attribué le  double du  montant des kWh cumac obtenu par le calcul ci-dessus pour  cette action menée  dans les DOM.
-
 <div align="center"/>
-<div align="center">
-<br/>
-</div>
+<div align="center"/>
+<div align="center"/>
+<div align="left">En  application de la réglementation en vigueur, il est attribué le double  du montant des kWh cumac obtenu par le calcul ci-dessus, pour cette  action menée dans les DOM. </div>
+<div align="center"/>
+<div align="center"/>
+<div align="center"/>
+<div align="center"/>
 <div align="center"/>
 <div align="center"/>
 <div align="center"/>
@@ -1829,40 +1851,60 @@ Mise en  place réalisée par un professionnel.
 
 </div>
 
-Certificats d'économies d'énergie
+<div align="left">Certificats d'économies d'énergie</div>
 
 Opération n° BAT-EN-08
 
 Isolation des murs (DOM)
 
-<div align="left">1. Secteur d'application :<br/>Bâtiment  tertiaire :  locaux du secteur tertiaire existants ou neufs en  l'absence de réglementation  thermique, réservés à une utilisation  professionnelle, de surface totale  chauffée inférieure ou égale à 10  000 m², dans les départements d'outre-mer.<br/>2. Dénomination :<br/>Mise en place sur les murs d'une  isolation thermique de résistance thermique R ≥ 1,2 m².K/W.<br/>3.  Conditions pour la délivrance de certificats :<br/>Les  isolants ont  une certification ACERMI ou des caractéristiques de  performance et de qualités  équivalentes établies par un mode de preuve  légal dans un Etat membre de l'Union  européenne ou un Etat partie à  l'accord instituant l'Espace économique européen  ou en Turquie.<br/>Mise en place réalisée par un professionnel.<br/>4. Durée de vie conventionnelle :<br/>25 ans.<br/>5. Montant de certificats en kWh cumac :<br/>
-</div>
-<div align="center">
+1. Secteur d'application
+
+Bâtiments  tertiaires existants ou neufs en l'absence de réglementation thermique  dans les DOM, réservés à une utilisation professionnelle, de surface  totale inférieure ou égale à 10 000 m², dans les départements  d'outre-mer.
+
+2. Dénomination
+
+Mise en place d'un doublage isolant (complexe ou sur ossature) de résistance thermique R ≥ 1,2 m².K/W.
+
+3. Conditions pour la délivrance de certificats
+
+Les  isolants ont une certification ACERMI ou des caractéristiques de  performance et de qualité équivalentes établies par un organisme établi  dans l'Espace économique européen et accrédité selon les normes NF EN  ISO/CEI 17025 et NF EN 45011 par le Comité français d'accréditation  (COFRAC) ou tout autre organisme d'accréditation signataire de l'accord  européen multilatéral pertinent pris dans le cadre de European  co-operation for Accreditation (EA), coordination européenne des  organismes d'accréditation.
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle
+
+25 ans
+
+5. Montant de certificats en kWh cumac
 
 <table>
 <tbody>
 <tr>
-<td align="center">BRANCHE D'ACTIVITÉ<br/>
+<td align="center">Secteur d'activité </td>
+<td align="center"> Montant en KWh cumac<br/> / m² d'isolant<br/>
 </td>
-<td align="center" colspan="7">MONTANT UNITAIRE<br/>en kWh cumac/m²  d'isolant<br/>
+<td align="center"/>
+<td align="center">Surface d'isolant <br/>posé en m² </td>
+</tr>
+<tr>
+<td align="left">Bureaux, enseignement et commerces </td>
+<td align="center"> 960</td>
+<td align="center" rowspan="3">  X</td>
+<td align="center" rowspan="3">  S</td>
+</tr>
+<tr>
+<td align="left">Tertiaire d'hébergement </td>
+<td align="center"> 1 600<br/>
 </td>
 </tr>
 <tr>
-<td align="center" rowspan="3">Bureaux<br/>Enseignement<br/>Commerces<br/>
-</td>
-<td align="center" rowspan="3">
-<br/>960<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Hôtellerie-restauration<br/>
-</td>
-<td align="center">1 580<br/>
-</td>
+<td align="left">Autres secteurs </td>
+<td align="center">960 </td>
 </tr>
 </tbody>
 </table>
+<div align="center">
 
 </div>
 
-En  application de l'article 3 du décret n° 2006-603 du 23 mai 2006   relatif aux certificats d'économies d'énergie, il est attribué le  double du  montant des kWh cumac obtenu par le calcul ci-dessus pour  cette action menée  dans les DOM.
+En  application de la réglementation en vigueur, il est attribué le double  du montant des kWh cumac obtenu pour le calcul ci-dessus, pour cette  action menée dans les DOM.
