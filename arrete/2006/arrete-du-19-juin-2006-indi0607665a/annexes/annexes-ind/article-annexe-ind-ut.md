@@ -1,60 +1,133 @@
 # Article Annexe IND-UT
 
-Certificats d'économies d'énergie
+<div align="center"/>
+<div align="center"/>
+<div align="center"/>
+<div align="center"/>
+<div align="left">Certificats d'économies d'énergie</div>
 
 Opération n° IND-UT-01
 
-Moteur haut rendement EFFI
+Moteur haut rendement EFF1
 
-1. Secteur d'application :
+1. Secteur d'application
 
 Industrie.
 
-2. Dénomination :
+2. Dénomination
 
 Mise en place d'un moteur haut rendement appartenant à la classe de rendement européenne EFF1.
 
-3. Conditions pour la délivrance de certificats :
+3. Conditions pour la délivrance de certificats
 
-Le label EFF1 doit figurer sur la plaque du moteur.
+Seules les actions engagées avant le 16 juin 2011 donnent lieu à la délivrance de certificats d'économies d'énergie.
 
-4. Durée de vie conventionnelle :
+4. Durée de vie conventionnelle
 
-15 ans.
+15 ans
 
-5. Montant de certificats en kWh cumac :
+5. Montant de certificats en kWh cumac
 
-Vous pouvez consulter le tableau dans le JO
+<table>
+<tbody>
+<tr>
+<td align="center" colspan="2">Montant en kWh cumac en fonction de la puissance nominale du moteur Pn en kW </td>
+</tr>
+<tr>
+<td align="center" colspan="2"> Application</td>
+</tr>
+<tr>
+<td align="center">Pompes, ventilateurs, compresseurs, <br/>convoyeurs </td>
+<td align="center"> Autres moteurs</td>
+</tr>
+<tr>
+<td align="center"> 720 x Pn + 4 700</td>
+<td align="center">440 x Pn + 3 200 </td>
+</tr>
+</tbody>
+</table>
 
-n° 156 du 07/07/2006 texte numéro 28
-
-Certificats d'économies d'énergie
+<div align="left">Certificats d'économies d'énergie</div>
 
 Opération n° IND-UT-02
 
-Système de variation électronique de vitesse sur un moteur
+Système de variation électronique de vitesse sur un moteur asynchrone
 
-1. Secteur d'application :
+1. Secteur d'application
 
 Industrie.
 
-2. Dénomination :
+2. Dénomination
 
-Installation   d'un système de variation électronique de vitesse (VEV) sur un moteur   de puissance comprise entre 0,37 kW et 630 kW.
+Installation  d'un système de variation électronique de vitesse (VEV) sur un moteur  asynchrone de puissance comprise entre 0,37 kW et 1 MW.
 
-3. Conditions pour la délivrance de certificats :
+3. Conditions pour la délivrance de certificats
 
 Sans objet.
 
-4. Durée de vie conventionnelle :
+4. Durée de vie conventionnelle
 
-10 ans.
+15 ans
 
-5. Montant de certificats en kWh cumac :
+5. Montant de certificats en kWh cumac
 
-Vous pouvez consulter le tableau dans le JO
+<table>
+<tbody>
+<tr>
+<td align="center">Application </td>
+<td align="center"> Montant unitaire en kWh <br/>cumac/kW pour P ≤ 630 kW</td>
+<td align="center"/>
+<td align="center">Puissance nominale du <br/>moteur en kW </td>
+</tr>
+<tr>
+<td align="left">Pompage </td>
+<td align="center">17 000 </td>
+<td align="center" rowspan="4"> X </td>
+<td align="center" rowspan="4"> P </td>
+</tr>
+<tr>
+<td align="left">Ventilation </td>
+<td align="center">21 000 </td>
+</tr>
+<tr>
+<td align="left">Air comprimé </td>
+<td align="center"> 8 100</td>
+</tr>
+<tr>
+<td align="left">Compresseur froid </td>
+<td align="center"> 9 800</td>
+</tr>
+</tbody>
+</table>
 
-n° 156 du 07/07/2006 texte numéro 28
+<table>
+<tbody>
+<tr>
+<td align="center">Application </td>
+<td align="center">Montant unitaire en kWh <br/>cumac/kW pour P &gt; 630 kW </td>
+<td align="center"/>
+<td align="center">Puissance nominale du <br/>moteur en kW </td>
+</tr>
+<tr>
+<td align="left">Pompage </td>
+<td align="center">28 000 </td>
+<td align="center" rowspan="4"> X </td>
+<td align="center" rowspan="4">  P</td>
+</tr>
+<tr>
+<td align="left">Ventilation </td>
+<td align="center"> 28 000</td>
+</tr>
+<tr>
+<td align="left">Air comprimé </td>
+<td align="center">13 000 </td>
+</tr>
+<tr>
+<td align="left">Compresseur froid </td>
+<td align="center">12 000 </td>
+</tr>
+</tbody>
+</table>
 
 Certificats d'économies d'énergie
 
@@ -168,7 +241,6 @@ n° 303 du 31/12/2006 texte numéro 60
 <br/>
 <div align="left">Avec Pn = Puissance nominale de la chaudière, exprimée en  kW.</div>
 <div align="left"/>
-<div align="left"/>
 </div>
 
 Certificats d'économies d'énergie
@@ -236,8 +308,6 @@ d'intégration de température
 
 <div align="center"/>
 <div align="center"/>
-<div align="center"/>
-<div align="center"/>
 <div align="left">Certificats d'économies d'énergie </div>
 <div align="left">
 <p>Opération n° IND-UT-08</p>
@@ -279,11 +349,7 @@ Mise en place réalisée par un professionnel.
 </table>
 
 </div>
-<div align="center"/>
-<div align="center"/>
-<div align="left">Certificats d'économies d'énergie </div>
-<div align="left">
-<p>Opération n° IND-UT-09</p>
+<div align="left">Certificats d'économies d'énergie <p>Opération n° IND-UT-09</p>
 <p>Récupérateur de chaleur sur un compresseur d'air  comprimé<br/>pour le chauffage de locaux<br/>
 </p>
 </div>
@@ -446,244 +512,241 @@ Sans  objet.
 </tbody>
 </table>
 <div align="center">
-<br/>
-<br/>
-<p align="left">Certificats d'économies d'énergie<br/>
-</p>
+<div align="left">Certificats d'économies d'énergie</div>
 </div>
 
-Opération n°IND-UT-10
+Opération n° IND-UT-10
 
-Transformateur à haut rendement pour  l'alimentation
+Transformateur à haut rendement pour l'alimentation basse tension d'un site industriel
 
-basse tension d'un site industriel
-
-1. Secteur d'application :
+1. Secteur d'application
 
 Industrie.
 
-2. Dénomination :
+2. Dénomination
 
-Mise  en place d'un transformateur de  distribution privé, à haut rendement  (faibles pertes), de type immergé dans  l'huile d'une puissance comprise  entre 250 et 2 500 kVA et de tension primaire  inférieure à 24 kV, pour  l'alimentation basse tension d'un site industriel.
+Mise  en place d'un transformateur de distribution privé à haut rendement,  immergé dans l'huile, d'une puissance comprise entre 250 et 2 500 kVA et  de tension primaire inférieure à 24 kV, pour l'alimentation basse  tension d'un site industriel.
 
-3. Conditions pour la délivrance de certificats :
+3. Conditions pour la délivrance de certificats
 
-La   fiche technique du transformateur indiquant les niveaux de pertes à  vide (C0,  B0, A0) et de pertes en charge (Bk, Ak), calculés suivant la  norme NF EN  50464-1, doit être fournie.
+La  fiche technique du transformateur indiquant les niveaux de pertes à  vide (Co, Bo, Ao) et de pertes en charge (Bk, Ak), calculés suivant le  norme NF-EN 50464-1 doit être fournie.
 
-4. Durée de vie conventionnelle :
+Le niveau des pertes doit être inférieur ou égal à celui des classes Co et Bk.
 
-20 ans.
+4. Durée de vie conventionnelle
 
-5. Montant de certificats en kWh cumac :
+20 ans
 
-<div align="center">
+5. Montant de certificats en kWh cumac
 
+<div/>
+<div>Montant en kWh cumac = Pertes à vide + (Pertes en charge x Coefficient de perte en charge) </div>
+<div/>
+<div/>
+<div/>
+<div>
 <table>
 <tbody>
 <tr>
-<td align="center" colspan="4" valign="middle">
-<p>PERTES À VIDE</p>
+<td align="center"/>
+<td align="center" colspan="3"> Pertes à vide (kWh cumac)</td>
+<td align="center"/>
+<td align="center" colspan="2"> Pertes en charge (kWh cumac)<br/>
 </td>
-<td align="center" rowspan="13" valign="top">
-<p>+ <br/>
-</p>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">kVA </td>
+<td align="center"> Co</td>
+<td align="center">Bo </td>
+<td align="center">Ao </td>
+<td align="center"/>
+<td align="center"> Bk<br/>
 </td>
-<td align="center" colspan="2">PERTES EN CHARGE</td>
-<td align="center" rowspan="13" valign="top">
-<p>X <br/>
-</p>
+<td align="center"> Ak<br/>
 </td>
-<td align="center">MODE<br/>de fonctionnement<br/>du site</td>
-<td align="center">COEFFICIENT<br/>de pertes<br/>en charge <br/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">250 </td>
+<td align="center">28 000 </td>
+<td align="center"> 36 000</td>
+<td align="center"> 43 000<br/>
+</td>
+<td align="center"/>
+<td align="center"> 62 000<br/>
+</td>
+<td align="center"> 110 000<br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center"> 315</td>
+<td align="center"> 31 000</td>
+<td align="center">41 000 </td>
+<td align="center"> 51 000<br/>
+</td>
+<td align="center"/>
+<td align="center"> 81 000<br/>
+</td>
+<td align="center"> 140 000<br/>
+</td>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center"> 400</td>
+<td align="center">40 000 </td>
+<td align="center"> 51 000</td>
+<td align="center"> 62 000<br/>
+</td>
+<td align="center"/>
+<td align="center"> 93 000<br/>
+</td>
+<td align="center"> 170 000<br/>
+</td>
+<td align="center"/>
+<td align="center" colspan="2" rowspan="2"> Coefficient de<br/>pertes en charge</td>
+</tr>
+<tr>
+<td align="center">500 </td>
+<td align="center">47 000 </td>
+<td align="center"> 61 000</td>
+<td align="center"> 73 000<br/>
+</td>
+<td align="center"/>
+<td align="center"> 110 000<br/>
+</td>
+<td align="center"> 200 000<br/>
+</td>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center">630 </td>
+<td align="center"> 55 000</td>
+<td align="center"> 71 000</td>
+<td align="center"> 87 000<br/>
+</td>
+<td align="center"/>
+<td align="center"> 140 000<br/>
+</td>
+<td align="center"> 240 000<br/>
+</td>
+<td align="center"/>
+<td align="center"> 1x8<br/>
+</td>
+<td align="center"> 0,2<br/>
 </td>
 </tr>
 <tr>
-<td align="center">kVA<br/>
+<td align="center"> 800</td>
+<td align="center">27 000 </td>
+<td align="center">43 000 </td>
+<td align="center"> 62 000<br/>
 </td>
-<td align="center">C0<br/>
+<td align="center"> +<br/>
 </td>
-<td align="center">B0<br/>
+<td align="center"> 430 000<br/>
 </td>
-<td align="center">A0<br/>
+<td align="center"> 560 000<br/>
 </td>
-<td align="center">Bk<br/>
+<td align="center"> X<br/>
 </td>
-<td align="center">Ak<br/>
+<td align="center"> 2x8<br/>
 </td>
-<td align="center">1 × 8<br/>
-</td>
-<td align="center">0,2<br/>
-</td>
-</tr>
-<tr>
-<td align="center">250<br/>
-</td>
-<td align="center">27 900<br/>
-</td>
-<td align="center">35 900<br/>
-</td>
-<td align="center">43 300<br/>
-</td>
-<td align="center">61 900<br/>
-</td>
-<td align="center">111 400<br/>
-</td>
-<td align="center">2 × 8<br/>
-</td>
-<td align="center">0,4<br/>
+<td align="center"> 0,4<br/>
 </td>
 </tr>
 <tr>
-<td align="center">315<br/>
+<td align="center">1 000 </td>
+<td align="center"> 37 000</td>
+<td align="center"> 57 000</td>
+<td align="center"> 78 000<br/>
 </td>
-<td align="center">31 000<br/>
+<td align="center"/>
+<td align="center"> 500 000<br/>
 </td>
-<td align="center">40 900<br/>
+<td align="center"> 670 000<br/>
 </td>
-<td align="center">50 800<br/>
+<td align="center"/>
+<td align="center"> 3x8 avec arrêt le WE<br/>
 </td>
-<td align="center">80 500<br/>
-</td>
-<td align="center">136 200<br/>
-</td>
-<td align="center">3 × 8 avec arrêt le WE<br/>
-</td>
-<td align="center">0,5<br/>
-</td>
-</tr>
-<tr>
-<td align="center">400<br/>
-</td>
-<td align="center">39 600<br/>
-</td>
-<td align="center">50 800<br/>
-</td>
-<td align="center">61 900<br/>
-</td>
-<td align="center">92 900<br/>
-</td>
-<td align="center">167 100<br/>
-</td>
-<td align="center">3 × 8 sans arrêt le WE<br/>
-</td>
-<td align="center">0,6<br/>
+<td align="center"> 0,5<br/>
 </td>
 </tr>
 <tr>
-<td align="center">500<br/>
+<td align="center">1 250 </td>
+<td align="center"> 50 000</td>
+<td align="center"> 74 000</td>
+<td align="center"> 99 000<br/>
 </td>
-<td align="center">47 000<br/>
+<td align="center"/>
+<td align="center"> 620 000<br/>
 </td>
-<td align="center">60 700<br/>
+<td align="center"> 810 000<br/>
 </td>
-<td align="center">73 000<br/>
+<td align="center"/>
+<td align="center"> 3x8 sans arrêt le WE<br/>
 </td>
-<td align="center">111 400<br/>
-</td>
-<td align="center">198 100<br/>
-</td>
-<td align="center" colspan="2" rowspan="8"/>
-</tr>
-<tr>
-<td align="center">630<br/>
-</td>
-<td align="center">54 500<br/>
-</td>
-<td align="center">70 600<br/>
-</td>
-<td align="center">86 700<br/>
-</td>
-<td align="center">136 200<br/>
-</td>
-<td align="center">235 200<br/>
+<td align="center"> 0,6<br/>
 </td>
 </tr>
 <tr>
-<td align="center">800<br/>
+<td align="center">1 600 </td>
+<td align="center"> 62 000</td>
+<td align="center"> 93 000</td>
+<td align="center"> 120 000<br/>
 </td>
-<td align="center">27 200<br/>
+<td align="center"/>
+<td align="center"> 740 000<br/>
 </td>
-<td align="center">43 300<br/>
+<td align="center"> 990 000<br/>
 </td>
-<td align="center">61 900<br/>
-</td>
-<td align="center">433 300<br/>
-</td>
-<td align="center">557 200<br/>
-</td>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
 </tr>
 <tr>
-<td align="center">1 000<br/>
+<td align="center">2 000 </td>
+<td align="center"> 74 000</td>
+<td align="center">110 000 </td>
+<td align="center"> 160 000<br/>
 </td>
-<td align="center">37 100<br/>
+<td align="center"/>
+<td align="center"> 990 000<br/>
 </td>
-<td align="center">57 000<br/>
+<td align="center"> 1 400 000<br/>
 </td>
-<td align="center">78 000<br/>
-</td>
-<td align="center">495 300<br/>
-</td>
-<td align="center">668 600<br/>
-</td>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
 </tr>
 <tr>
-<td align="center">1 250<br/>
+<td align="center">2 500 </td>
+<td align="center">87 000 </td>
+<td align="center">130 000 </td>
+<td align="center"> 180 000<br/>
 </td>
-<td align="center">49 500<br/>
+<td align="center"/>
+<td align="center"> 1 200 000<br/>
 </td>
-<td align="center">74 300<br/>
+<td align="center"> 1 700 000<br/>
 </td>
-<td align="center">99 100<br/>
-</td>
-<td align="center">619 100<br/>
-</td>
-<td align="center">804 800<br/>
-</td>
-</tr>
-<tr>
-<td align="center">1 600<br/>
-</td>
-<td align="center">61 900<br/>
-</td>
-<td align="center">92 900<br/>
-</td>
-<td align="center">123 800<br/>
-</td>
-<td align="center">742 900<br/>
-</td>
-<td align="center">990 500<br/>
-</td>
-</tr>
-<tr>
-<td align="center">2 000<br/>
-</td>
-<td align="center">74 300<br/>
-</td>
-<td align="center">111 400<br/>
-</td>
-<td align="center">154 800<br/>
-</td>
-<td align="center">990 500<br/>
-</td>
-<td align="center">1 361 900<br/>
-</td>
-</tr>
-<tr>
-<td align="center">2 500<br/>
-</td>
-<td align="center">86 700<br/>
-</td>
-<td align="center">130 000<br/>
-</td>
-<td align="center">179 500<br/>
-</td>
-<td align="center">1 238 100<br/>
-</td>
-<td align="center">1 671 500<br/>
-</td>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
 </tr>
 </tbody>
 </table>
+</div>
+<div align="center">
 
 </div>
 
@@ -728,6 +791,245 @@ Mise en place par un  professionnel.
 <br/>
 </div>
 
+Certificats d'économies d'énergie
+
+Opération n° IND-UT-12
+
+Moteur haut rendement IE2
+
+1. Secteur d'application
+
+Industrie.
+
+2. Dénomination
+
+Mise en place d'un moteur haut rendement de classe IE2 certifié selon la norme NF EN 60034-30.
+
+3. Conditions pour la délivrance de certificats
+
+Seules les actions engagées avant le 16 juin 2011 donnent lieu à la délivrance de certificats d'économies d'énergie.
+
+4. Durée de vie conventionnelle
+
+15 ans pour des moteurs de puissance nominale inférieure ou égale à 15 kW.
+
+20 ans pour des moteurs de puissance nominale supérieure à 15 kW.
+
+5. Montant de certificats en kWh cumac
+
+<table>
+<tbody>
+<tr>
+<td align="center" colspan="3">Montant en kWh cumac en fonction de la puissance nominale du moteur Pn en kW </td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center">Pompes, ventilateurs, compresseurs </td>
+<td align="center">Autres moteurs </td>
+</tr>
+<tr>
+<td align="left">Pour Pn ≤ 15 kW </td>
+<td align="center"> 750 x Pn + 4 300</td>
+<td align="center"> 490 x Pn + 2 800</td>
+</tr>
+<tr>
+<td align="left">Pour Pn &gt; 15 kW </td>
+<td align="center"> 590 x Pn + 10 000</td>
+<td align="center">380 x Pn + 6 600 </td>
+</tr>
+</tbody>
+</table>
+
+Certificats d'économies d'énergie
+
+Opération n° IND-UT-13
+
+Condenseur frigorifique à haute efficacité
+
+1. Secteur d'application
+
+Industrie, froid commercial, tertiaire, agriculture.
+
+2. Dénomination
+
+Mise en place d'un condenseur à haute efficacité sur une installation frigorifique neuve ou existante.
+
+La  fiche s'applique également dans le cas d'un groupe frigorifique dans  lequel le condenseur est à haute efficacité. La valeur ΔT(1) est  indiquée dans la fiche technique du condenseur.
+
+3. Conditions pour la délivrance de certificats
+
+Les  produits ont une certification EUROVENT ou des caractéristiques de  performance et de qualité équivalentes basées sur les normes EN 12975 ou  EN 12976 et établies par un organisme établi dans l'Espace économique  européen et accrédité selon les normes NF EN ISO/CEI 17025 et NF EN  45011 par le Comité français d'accréditation (COFRAC) ou tout autre  organisme d'accréditation signataire de l'accord européen multilatéral  pertinent pris dans le cadre de European co-operation for Accreditation  (EA), coordination européenne des organismes d'accréditation.
+
+ΔT  doit être inférieur ou égal à 8K dans le cas des condenseurs à eau et  inférieur ou égal à 12K dans le cas des condenseurs à air.
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle
+
+15 ans
+
+5. Montant de certificats en kWh cumac
+
+Montant de certificats en kWh cumac = α x P x β x γ
+
+Avec :
+
+<table>
+<tbody>
+<tr>
+<td align="center">Type<br/>de condenseur<br/>
+</td>
+<td align="center">
+<p>ΔT (K)</p>
+<p>du nouveau<br/>condenseur<br/>
+</p>
+</td>
+<td align="center">α </td>
+<td align="center" rowspan="8"> X </td>
+<td align="center">Puissance <br/>électrique <br/>compresseur <br/>(en kW) </td>
+<td align="center" rowspan="8"> X <br/>
+</td>
+<td align="center">Niveau <br/>d'évaporation </td>
+<td align="center">β </td>
+<td align="center" rowspan="8"> X <br/>
+</td>
+<td align="center">Fonctionnement<br/>de l'installation<br/>(2)<br/>
+</td>
+<td align="center">γ </td>
+</tr>
+<tr>
+<td align="center" rowspan="3"> Condenseur à <br/>air </td>
+<td align="center">12 <br/>
+</td>
+<td align="center">780 <br/>
+</td>
+<td align="center" rowspan="5">  P</td>
+<td align="left">Très basses températures<br/>(de -56°C à -26°C)<br/>T<sub>Evaporation moyenne</sub> = -38°C<br/>
+</td>
+<td align="center">0,73 <br/>
+</td>
+<td align="center">1x8 (5j/7) </td>
+<td align="center">1 <br/>
+</td>
+</tr>
+<tr>
+<td align="center"> 10</td>
+<td align="center">1300 </td>
+<td align="left">Basses températures<br/>(de -25°C à -6°C)<br/>T<sub>Evaporation moyenne</sub> = -15°C<br/>
+</td>
+<td align="center">1 <br/>
+</td>
+<td align="center">2x8 (5j/7) </td>
+<td align="center">2,1 <br/>
+</td>
+</tr>
+<tr>
+<td align="center"> 8</td>
+<td align="center">1800 </td>
+<td align="left">Froid positif<br/>(de -5°C à +5°C)<br/>T<sub>Evaporation moyenne</sub> = -0°C<br/>
+</td>
+<td align="center">1,33 <br/>
+</td>
+<td align="center"> 2x8 (6j/7)</td>
+<td align="center"> 2,5</td>
+</tr>
+<tr>
+<td align="center" rowspan="2">
+<p>Condenseur </p>
+<p>à eau </p>
+</td>
+<td align="center"> 8</td>
+<td align="center">600 <br/>
+</td>
+<td align="center" rowspan="2"/>
+<td rowspan="2"/>
+<td align="center">2x8 (7j/7) </td>
+<td align="center">2,9 <br/>
+</td>
+</tr>
+<tr>
+<td align="center"> 7</td>
+<td align="center"> 890</td>
+<td align="center"> 3x8 (5j/7)</td>
+<td align="center">3,1 <br/>
+</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center" colspan="2" rowspan="2"/>
+<td align="center"> 3x8 (6j/7)</td>
+<td align="center"> 3,8</td>
+</tr>
+<tr>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center"/>
+<td align="center">3x8 (7j/7) </td>
+<td align="center">4,2 <br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+(1)  Un condenseur à haute efficacité est un échangeur présentant un faible  écart de température ΔT. ΔT est l'écart de température entre le fluide  frigorigène à la pression de condensation et le médium de  refroidissement (eau ou air) en entrée du condenseur. Abaisser le ΔT  permet d'abaisser la consommation du groupe frigorifique. Pour un  condenseur ayant un ΔT ne figurant pas dans le tableau ci-dessus,  retenir la valeur de α la plus faible associée au ΔT le plus proche.
+
+(2)  Les régimes horaires donnés dans le tableau correspondent au  fonctionnement du groupe frigorifique et non pas au régime de travail du  personnel. Au cas où une durée de fonctionnement ne serait pas dans le  tableau, retenir la valeur de γ la plus faible associée à la durée de  fonctionnement la plus proche.
+
+Certificats d'économies d'énergie
+
+Opération n° IND-UT-14
+
+Moto-variateur synchrone à aimants permanents
+
+1. Secteur d'application
+
+Industrie.
+
+2. Dénomination
+
+Installation d'un moto-variateur synchrone à aimants permanents de puissance comprise entre 0,75 kW et 500 kW.
+
+3. Conditions pour la délivrance de certificats
+
+Sans objet.
+
+4. Durée de vie conventionnelle
+
+15 ans
+
+5. Montant de certificats en kWh cumac
+
+<table>
+<tbody>
+<tr>
+<td align="center">Application </td>
+<td align="center">Montant unitaire en <br/>kWh cumac/kW </td>
+<td align="center" rowspan="5"> X </td>
+<td align="center">Puissance du <br/>moteur en kW </td>
+</tr>
+<tr>
+<td align="left">Pompage </td>
+<td align="center">23 000 </td>
+<td align="center" rowspan="4">  P</td>
+</tr>
+<tr>
+<td align="left">Ventilation </td>
+<td align="center">27 000 </td>
+</tr>
+<tr>
+<td align="left">Compresseur froid </td>
+<td align="center">15 000 </td>
+</tr>
+<tr>
+<td align="left">Convoyeurs, <br/>broyeurs, agitateurs </td>
+<td align="center">12 000 </td>
+</tr>
+</tbody>
+</table>
 <div align="center">
 
 </div>

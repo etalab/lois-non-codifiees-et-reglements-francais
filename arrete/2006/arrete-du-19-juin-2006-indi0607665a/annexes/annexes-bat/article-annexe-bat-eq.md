@@ -1,8 +1,23 @@
 # Article Annexe BAT-EQ
 
+<div>
+<br/>
+</div>
+<div/>
+<div/>
+<div/>
+<div/>
+<div/>
+<div/>
 <div align="left"/>
-
-<div align="left">Certificats d'économies d'énergie <p>Opération n° BAT-EQ-01</p>
+<div align="left"/>
+<div align="left"/>
+<div align="center"/>
+<div align="center"/>
+<div align="center"/>
+<div align="left">Certificats d'économies d'énergie </div>
+<div align="left">
+<p>Opération n° BAT-EQ-01</p>
 <p>Luminaire pour tube fluorescent T5 électronique<br/>avec ou sans dispositif de contrôle<br/>
 </p>
 </div>
@@ -415,10 +430,6 @@ Attestation par l'installateur de la valeur de  l'intensité d'éclairage en lux
 </table>
 
 </div>
-<div align="center"/>
-<div align="center"/>
-<div align="center"/>
-<div align="center"/>
 <div align="left">Certificats d'économie d'énergie</div>
 <div align="left">Opération n° BAT-EQ-12</div>
 <div align="left">Porte non chauffante à haute performance d'isolation<br/>
@@ -586,9 +597,7 @@ Information sur la durée d'utilisation en heure par  type de lampe.
 
 </div>
 
-En application de l'article 3 du décret n° 2006-603 du 23 mai 2006   relatif aux certificats d'économies d'énergie, il est attribué le  double du  montant des kWh cumac obtenu par le calcul ci-dessus pour  cette action menée  dans les DOM.
-
-<div align="left">Certificats d'économies d'énergie <p>Opération n° BAT-EQ-17</p>
+En application de l'article 3 du décret n° 2006-603 du 23 mai 2006   relatif aux certificats d'économies d'énergie, il est attribué le  double du  montant des kWh cumac obtenu par le calcul ci-dessus pour  cette action menée  dans les DOM. <div align="left">Certificats d'économies d'énergie <p>Opération n° BAT-EQ-17</p>
 <p>Installation frigorifique négative de type cascade<br/>utilisant du CO2<br/>
 </p>
 </div>
@@ -642,28 +651,336 @@ Une  attestation  d'un sous-refroidissement du liquide de l'installation de  pro
 
 P = puissance frigorifique négative en  kWh de l'installation.
 
+<div align="center"/>
+<div align="center"/>
 <div align="left">Certificats d'économies d'énergie</div>
 
 Opération n° BAT-EQ-19
 
-Coupe-veille automatique
+Coupe-veille automatique par détection d'utilisation des appareils raccordés
 
-1. Secteur d'application :
+1. Secteur d'application
 
-Bâtiment tertiaire :  locaux du secteur tertiaire existants réservés à une utilisation  professionnelle.
+Bâtiment tertiaires : locaux du secteur tertiaire existants réservés à une utilisation professionnelle.
 
-2. Dénomination :
+2. Dénomination
 
-Mise  en place  d'un coupe-veille automatique sur lequel sont raccordés des  appareils  électriques et électroniques. Le coupe-veille fonctionne  automatiquement par  détection de l'utilisation des appareils raccordés.
+Mise en place d'un coupe-veille automatique sur lequel sont raccordés des appareils électriques ou électroniques.
 
-La puissance  du coupe-veille, pour sa propre consommation, ne dépasse pas 0,5 watt.
+3. Conditions pour la délivrance de certificats
 
-3. Conditions pour la délivrance de certificats :
+Le coupe-veille fonctionne automatiquement par détection de l'utilisation des appareils raccordés.
 
-Sans  objet.
+La puissance du coupe-veille, pour sa propre consommation, ne dépasse pas 0,5 Watt.
 
-4. Durée de vie conventionnelle :
+4. Durée de vie conventionnelle
 
-10 ans.
+10 ans
 
-5. Montant de certificats en kWh cumac : 870 kWh cumac.
+5. Montant de certificats en kWh cumac
+
+<table>
+<tbody>
+<tr>
+<td align="center">Montant en kWh cumac pour un <br/>coupe-veille installé </td>
+<td align="center"/>
+<td align="center"> Nombre de coupe-veilles</td>
+</tr>
+<tr>
+<td align="center">870 <br/>
+</td>
+<td align="center">X </td>
+<td align="center"> N</td>
+</tr>
+</tbody>
+</table>
+
+Certificats d'économies d'énergie
+
+Opération n° BAT-EQ-20
+
+Coupe-veille en hébergement relié au système d'accès
+
+1. Secteur d'application
+
+Bâtiments tertiaires d'hébergement (existants ou neufs).
+
+2. Dénomination
+
+Mise  en place d'un coupe-veille des appareils électriques ou électroniques  ou du système d'éclairage hors occupation de la chambre en tertiaire  d'hébergement.
+
+3. Conditions pour la délivrance de certificats
+
+Le  système coupe la veille des appareils électriques ou électroniques ou  du système d'éclairage d'une chambre inoccupée, en lien avec le  dispositif de contrôle d'accès à la pièce.
+
+La puissance de l'appareil pour sa propre consommation ne dépasse pas 0,5 W.
+
+4. Durée de vie conventionnelle
+
+10 ans
+
+5. Montant de certificats en kWh cumac
+
+<table>
+<tbody>
+<tr>
+<td valign="top" width="224">
+<br/>
+<p align="center">Montant en kWh cumac pour un   coupe-veille installé</p>
+<br/>
+</td>
+<td width="29">
+<br/>
+<br/>
+</td>
+<td width="133">
+<p align="center">Nombre de coupe-veilles</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="224">
+<br/>
+<p align="center">420 kWh cumac</p>
+<br/>
+</td>
+<td width="29">
+<p align="center">X</p>
+</td>
+<td width="133">
+<p align="center">N</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Certificats d'économies d'énergie
+
+Opération n° BAT-EQ-21
+
+Transformateur à haut rendement pour l'alimentation basse tension d'un site tertiaire
+
+1. Secteur d'application
+
+Bâtiments tertiaires (existants ou neufs).
+
+2. Dénomination
+
+Mise  en place d'un transformateur de distribution privé, à haut rendement  (faibles pertes), de type immergé dans l'huile d'une puissance comprise  entre 250 et 2 500 kVA et de tension primaire inférieure à 24 kV, pour  l'alimentation basse tension d'un site tertiaire.
+
+3. Conditions pour la délivrance de certificats
+
+La  fiche technique du transformateur indiquant les niveaux de pertes à  vide (Co, Bo, Ao) et de pertes en charges (Bk, Ak), calculés suivant la  norme NF-EN 50464-1, doit être fournie.
+
+Le niveau de pertes doit être inférieur ou égal à celui des classes Co et Bk.
+
+4. Durée de vie conventionnelle
+
+30 ans
+
+5. Montant de certificats en kWh cumac
+
+Montant en kWh cumac  =  Pertes à vide + Pertes en charge x Coefficient multiplicateur
+
+<table>
+<tbody>
+<tr>
+<td align="center"/>
+<td align="center" colspan="3"> Pertes à vide</td>
+<td align="center"/>
+<td align="center" colspan="2">Pertes en charge </td>
+<td/>
+<td align="center" colspan="2" rowspan="3">Coefficient multiplicateur </td>
+</tr>
+<tr>
+<td align="center">kVA </td>
+<td align="center"> Co</td>
+<td align="center"> Bo</td>
+<td align="center"> Ao</td>
+<td align="center"/>
+<td align="center">Bk </td>
+<td align="center">Ak </td>
+<td/>
+</tr>
+<tr>
+<td align="center"> 250</td>
+<td align="center">36 000 </td>
+<td align="center">46 000 </td>
+<td align="center">55 000 </td>
+<td align="center"/>
+<td align="center"> 79 000</td>
+<td align="center">140 000 </td>
+<td/>
+</tr>
+<tr>
+<td align="center">315 </td>
+<td align="center">39 000 </td>
+<td align="center">52 000 </td>
+<td align="center"> 65 000</td>
+<td align="center"/>
+<td align="center"> 100 000</td>
+<td align="center"> 170 000</td>
+<td/>
+<td align="left" rowspan="5">
+<p>Bureaux, commerces, </p>
+<p>hôtellerie - restauration, </p>
+<p>santé, autres locaux </p>
+<p>(sport compris)</p>
+</td>
+<td align="center" rowspan="5"> 0,3</td>
+</tr>
+<tr>
+<td align="center">400 </td>
+<td align="center"> 50 000</td>
+<td align="center">65 000 </td>
+<td align="center"> 79 000</td>
+<td align="center"/>
+<td align="center">120 000 </td>
+<td align="center"> 210 000</td>
+<td/>
+</tr>
+<tr>
+<td align="center">500 </td>
+<td align="center"> 60 000</td>
+<td align="center">77 000 </td>
+<td align="center"> 93 000</td>
+<td align="center"/>
+<td align="center">140 000 </td>
+<td align="center"> 250 000</td>
+<td/>
+</tr>
+<tr>
+<td align="center">630 </td>
+<td align="center"> 69 000</td>
+<td align="center">90 000 </td>
+<td align="center">110 000 </td>
+<td align="center"> +</td>
+<td align="center">170 000 </td>
+<td align="center"> 300 000</td>
+<td>  X</td>
+</tr>
+<tr>
+<td align="center">800 </td>
+<td align="center"> 35 000</td>
+<td align="center">55 000 </td>
+<td align="center">79 000 </td>
+<td align="center"/>
+<td align="center"> 550 000</td>
+<td align="center">710 000 </td>
+<td/>
+</tr>
+<tr>
+<td align="center">1 000 </td>
+<td align="center"> 47 000</td>
+<td align="center">73 000 </td>
+<td align="center">99 000 </td>
+<td align="center"/>
+<td align="center">630 000 </td>
+<td align="center"> 850 000</td>
+<td/>
+<td align="left" rowspan="2">Transport </td>
+<td align="center" rowspan="2"> 0,4</td>
+</tr>
+<tr>
+<td align="center"> 1 250</td>
+<td align="center">63 000 </td>
+<td align="center">95 000 </td>
+<td align="center"> 130 000</td>
+<td align="center"/>
+<td align="center"> 790 000</td>
+<td align="center"> 1 000 000</td>
+<td/>
+</tr>
+<tr>
+<td align="center">1 600 </td>
+<td align="center"> 79 000</td>
+<td align="center">120 000 </td>
+<td align="center">160 000 </td>
+<td align="center"/>
+<td align="center">950 000 </td>
+<td align="center"> 1 300 000</td>
+<td/>
+<td align="left">Enseignement </td>
+<td align="center">0,1 </td>
+</tr>
+<tr>
+<td align="center">2 000 </td>
+<td align="center">95 000 </td>
+<td align="center">140 000 </td>
+<td align="center">200 000 </td>
+<td align="center"/>
+<td align="center"> 1 300 000</td>
+<td align="center">1 700 000 </td>
+<td/>
+<td align="center"/>
+<td align="center"/>
+</tr>
+<tr>
+<td align="center"> 2 500</td>
+<td align="center"> 110 000</td>
+<td align="center">170 000 </td>
+<td align="center"> 230 000</td>
+<td align="center"/>
+<td align="center"> 1 600 000</td>
+<td align="center">2 100 000 </td>
+<td/>
+<td align="center"/>
+<td align="center"/>
+</tr>
+</tbody>
+</table>
+
+Certificats d'économies d'énergie
+
+Opération n° BAT-EQ-22
+
+Système de pilotage par intermittence des centrales de traitement d'air (DOM)
+
+1. Secteur d'application
+
+Bâtiments  tertiaires existants ou neufs en l'absence de réglementation thermique  dans les DOM, réservés à une utilisation professionnelle, de surface  totale inférieure ou égale à 10 000 m2, dans les départements  d'outre-mer.
+
+2. Dénomination
+
+Mise en place d'une  horloge permettant de couper les ventilateurs de centrales de traitement  d'air en dehors des périodes d'occupation.
+
+3. Conditions pour la délivrance de certificats
+
+Mise en place réalisée par un professionnel.
+
+4. Durée de vie conventionnelle
+
+15 ans
+
+5. Montant de certificats en kWh cumac
+
+<table>
+<tbody>
+<tr>
+<td align="center">Secteur d'activité </td>
+<td align="center">Montant en kWh cumac / m² </td>
+<td align="center"/>
+<td align="center">
+<p>Surface totale traitée </p>
+<p>par la centrale (m²) </p>
+</td>
+</tr>
+<tr>
+<td align="left">Commerce </td>
+<td align="center">400 </td>
+<td align="center"/>
+<td align="center" rowspan="3"> S</td>
+</tr>
+<tr>
+<td align="left">Bureaux </td>
+<td align="center"> 200</td>
+<td align="center">X </td>
+</tr>
+<tr>
+<td align="left">Autres secteurs </td>
+<td align="center">200 </td>
+<td align="center"/>
+</tr>
+</tbody>
+</table>
+
+En  application de la réglementation en vigueur, il est attribué le double  du montant des kWh cumac obtenu pour le calcul ci-dessus, pour cette  action menée dans les DOM.
