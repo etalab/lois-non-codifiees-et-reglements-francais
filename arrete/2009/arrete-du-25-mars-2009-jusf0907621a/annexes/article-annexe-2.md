@@ -5,28 +5,31 @@
 <tr>
 <th rowspan="2">
 <font size="1">DIRECTIONS TERRITORIALES </font>
-<p>
-<font size="1">de la protection judiciaire de la jeunesse<br/>
-</font>
+<p align="center">
+<font size="1">de la protection judiciaire de la jeunesse</font>
 </p>
 </th>
 <th rowspan="2">
-<font size="1">ORGANISATIONS SYNDICALES<br/>
-</font>
+<p align="center">
+<font size="1">ORGANISATIONS SYNDICALES</font>
+</p>
 </th>
 <th colspan="2">
-<font size="1">NOMBRE DE SIÈGES<br/>
-</font>
+<p align="center">
+<font size="1">NOMBRE DE SIÈGES</font>
+</p>
 </th>
 </tr>
 <tr>
 <th>
-<font size="1">Titulaires<br/>
-</font>
+<p align="center">
+<font size="1">Titulaires</font>
+</p>
 </th>
 <th>
-<font size="1">Suppléants<br/>
-</font>
+<p align="center">
+<font size="1">Suppléants</font>
+</p>
 </th>
 </tr>
 <tr>
@@ -228,6 +231,49 @@
 <td align="center">
 <p align="left">1<br/>
 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Basse-Normandie</p>
+<p align="left">(Calvados/Orne/Manche)</p>
+</td>
+<td>
+<p align="left">CGT-PJJ</p>
+</td>
+<td>
+<p align="left">1</p>
+</td>
+<td>
+<p align="left">1</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td>
+<p align="left">SNPES-PJJ/FSU</p>
+</td>
+<td>
+<p align="left">3</p>
+</td>
+<td>
+<p align="left">3</p>
+</td>
+</tr>
+<tr>
+<td>
+<br/>
+</td>
+<td>
+<p align="left">UNSA-SPJJ</p>
+</td>
+<td>
+<p align="left">2</p>
+</td>
+<td>
+<p align="left">2</p>
 </td>
 </tr>
 <tr>
