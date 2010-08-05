@@ -22,21 +22,24 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 </tr>
 <tr>
-<td align="center">Direction des affaires juridiques <br/>
+<td>
+<p align="center">Agence du patrimoine immatériel de l'Etat <br/>
+</p>
 </td>
-<td align="center">Secrétaire technique de la commission des marchés publics de l'Etat, secteur approvisionnements généraux <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Direction des affaires juridiques <br/>
-</td>
-<td align="center">Chef du bureau valorisation et information <br/>
+<td>
+<p align="center">Secrétaire général </p>
 </td>
 </tr>
 <tr>
 <td align="center">Direction des affaires juridiques <br/>
 </td>
-<td align="center">Chef du bureau prospective et affaires techniques <br/>
+<td align="center">Secrétaire technique de la commission consultative des marchés publics de l'Etat, secteur approvisionnements généraux <br/>
+</td>
+</tr>
+<tr>
+<td align="center">Direction des affaires juridiques <br/>
+</td>
+<td align="center">Chef du bureau "ressources informatiques, documentaires et de la communication interne" <br/>
 </td>
 </tr>
 <tr>
@@ -97,42 +100,6 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 <td align="center">Direction du budget <br/>
 </td>
 <td align="center">Adjoint au chef du département de contrôle budgétaire du ministère de la culture et de la communication <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Direction du commerce, de l'artisanat, des services et des professions libérales <br/>
-</td>
-<td align="center">Chef du bureau des ressources humaines et de l'administration générale <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Direction du commerce, de l'artisanat, des services et des professions libérales <br/>
-</td>
-<td align="center">Chef du bureau communication <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Direction du commerce, de l'artisanat, des services et des professions libérales <br/>
-</td>
-<td align="center">Chef du bureau simplification et codification <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Direction du commerce, de l'artisanat, des services et des professions libérales <br/>
-</td>
-<td align="center">Chef du bureau du budget et du contrôle budgétaire <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Direction du commerce, de l'artisanat, des services et des professions libérales <br/>
-</td>
-<td align="center">Adjoint au chef du bureau financement et développement des entreprises <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Direction du commerce, de l'artisanat, des services et des professions libérales <br/>
-</td>
-<td align="center">Adjoint au chef du bureau commerce, distribution et artisanat <br/>
 </td>
 </tr>
 <tr>
@@ -216,12 +183,6 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 </tr>
 <tr>
-<td align="center">Service du contrôle budgétaire et comptable ministériel <br/>
-</td>
-<td align="center">Chef du bureau synthèse et ressources <br/>
-</td>
-</tr>
-<tr>
 <td align="center">Service du contrôle général économique et financier <br/>
 </td>
 <td align="center">Adjoint au chef de la mission cinéma et opérateurs culturels, chargé du contrôle économique et financier du Centre national de la cinématographie <br/>
@@ -232,6 +193,127 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 <td>
 <p align="center">Chargé de mission auprès du chef de service, responsable de la politique de communication </p>
 </td>
+</tr>
+<tr>
+<td>
+<p align="center">Direction générale de la compétitivité, de l'industrie et des services</p>
+</td>
+<td>
+<p align="center">Chef du bureau des moyens, des services et de la logistique </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Direction générale de la compétitivité, de l'industrie et des services</p>
+</td>
+<td>
+<p align="center">Chargé de mission au sein de la mission chargée des contrôles à l'exportation des biens et technologies à double usage </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Direction générale de la compétitivité, de l'industrie et des services</p>
+</td>
+<td>
+<p align="center">Chef du bureau de la coordination et de l'évaluation juridiques </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Direction générale de la compétitivité, de l'industrie et des services</p>
+</td>
+<td>
+<p align="center">Adjoint au chef du bureau de la tutelle des chambres de commerce et d'industrie</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Direction générale de la compétitivité, de l'industrie et des services</p>
+</td>
+<td>
+<p align="center">Chef du bureau des restructurations d'entreprises </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Direction générale de la compétitivité, de l'industrie et des services</p>
+</td>
+<td>
+<p align="center">Chef du bureau des destinations touristiques </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Direction générale de la compétitivité, de l'industrie et des services</p>
+</td>
+<td>
+<p align="center">Adjoint au responsable de la mission des services à la personne </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Direction générale de la compétitivité, de l'industrie et des services</p>
+</td>
+<td>
+<p align="center">Adjoint au chef du bureau des professions libérales et des entreprises commerciales de service </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Direction générale de la compétitivité, de l'industrie et des services</p>
+</td>
+<td>
+<p align="center">Adjoint au chef du bureau des marchés postaux et du suivi du groupe La Poste </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Direction générale de la compétitivité, de l'industrie et des services</p>
+</td>
+<td>
+<p align="center">Adjoint au chef du bureau des industries de santé, de biotechnologie et de l'agroalimentaire </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Direction générale de la compétitivité, de l'industrie et des services</p>
+</td>
+<td>
+<p align="center">Adjoint au chef du bureau de la politique des pôles de compétitivité </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Direction générale de la compétitivité, de l'industrie et des services</p>
+</td>
+<td>
+<p align="center">Adjoint au chef du bureau du développement du commerce et de l'artisanat </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Direction générale de la compétitivité, de l'industrie et des services</p>
+</td>
+<td>
+<p align="center">Chef du bureau des questions juridiques et institutionnelles postales</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Direction générale de la compétitivité, de l'industrie et des services</p>
+</td>
+<td>
+<p align="center"> Chef du bureau des affaires multilatérales et de l'OCDE </p>
+</td>
+</tr>
+<tr>
+<td align="center"> Direction générale de la compétitivité, de l'industrie et des services</td>
+<td align="center"> Gestionnaire des corps spécifiques, du suivi des questions juridiques, statutaires et réglementaires au bureau des politiques des personnels de La Poste et de France Télécom  <br/>
+</td>
+</tr>
+<tr>
+<td align="center">  Direction générale de la compétitivité, de l'industrie et des services</td>
+<td align="center"> Adjoint au chef du bureau des ressources humaines </td>
 </tr>
 <tr>
 <td align="center">Direction générale des douanes et droits indirects <br/>
@@ -298,7 +380,7 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 <tr>
 <td align="center">Direction générale de l'énergie et du climat <br/>
 </td>
-<td align="center">Chargé de mission questions tarifaires et fiscales relatives au gaz naturel <br/>
+<td align="center">Chef du bureau des marchés des produits pétroliers <br/>
 </td>
 </tr>
 <tr>
@@ -328,73 +410,7 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 <tr>
 <td align="center">Direction générale des entreprises <br/>
 </td>
-<td align="center">Chef du bureau emploi industriel <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Direction générale des entreprises <br/>
-</td>
-<td align="center">Chef du bureau textile-importations <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Direction générale des entreprises <br/>
-</td>
-<td align="center">Chef du bureau économie et services financiers <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Direction générale des entreprises <br/>
-</td>
-<td align="center">Chef du bureau questions juridiques et institutionnelles <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Direction générale des entreprises <br/>
-</td>
-<td align="center">Chef du bureau financement de l'industrie <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Direction générale des entreprises <br/>
-</td>
-<td align="center">Chef de la division pharmacie <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Direction générale des entreprises <br/>
-</td>
-<td align="center">Chef du bureau des relations extérieures de l'Union européenne <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Direction générale des entreprises <br/>
-</td>
 <td align="center">Chef de la mission des affaires générales du service des études et des statistiques industrielles <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Direction générale des entreprises <br/>
-</td>
-<td align="center">Chargé de mission pôles de compétitivité <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Direction générale des entreprises <br/>
-</td>
-<td align="center">Adjoint au chef du bureau des ressources humaines, de la logistique et de la documentation <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Direction générale des entreprises <br/>
-</td>
-<td align="center">Adjoint au chef du bureau financement de l'industrie, chargé du suivi du programme développement des entreprises <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Direction générale des entreprises <br/>
-</td>
-<td align="center">Gestionnaire des corps spécifiques, du suivi des questions juridiques, statutaires et réglementaires au bureau des politiques statutaires, réglementaires et sociales des postes et télécommunications <br/>
 </td>
 </tr>
 <tr>
@@ -406,20 +422,7 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 <tr>
 <td align="center">Direction générale des finances publiques <br/>
 </td>
-<td align="center">Délégué régional au commerce et à l'artisanat de la région Ile-de-France <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Direction générale des finances publiques <br/>
-</td>
-<td align="center">Chef du pôle affaires juridiques <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Direction générale des finances publiques <br/>
-</td>
-<td align="center">Chef du secteur de la commande publique au bureau expertise juridique <br/>
-</td>
+<td align="center">Adjoint du délégué, chef du secteur de la responsabilité personnelle et pécuniaire des comptables du Trésor public</td>
 </tr>
 <tr>
 <td align="center">Direction générale des finances publiques <br/>
@@ -449,12 +452,6 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 <td align="center">Direction générale de la modernisation de l'Etat <br/>
 </td>
 <td align="center">Chef du pôle ressources humaines <br/>
-</td>
-</tr>
-<tr>
-<td align="center">Opérateur national de paye <br/>
-</td>
-<td align="center">Chargé de mission de portefeuille ministériel <br/>
 </td>
 </tr>
 <tr>
@@ -506,9 +503,7 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 </tr>
 <tr>
-<td align="center">Secrétariat général des ministère économique et financier<br/>
-<br/>
-</td>
+<td align="center">Secrétariat général des ministère économique et financier</td>
 <td align="center">Adjoint au chef du bureau gouvernance de l'informatique centrale <br/>
 </td>
 </tr>
@@ -519,16 +514,12 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 </tr>
 <tr>
-<td align="center">Secrétariat général des ministère économique et financier<br/>
-<br/>
-</td>
+<td align="center">Secrétariat général des ministère économique et financier</td>
 <td align="center">Chef du centre de traduction <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Secrétariat général des ministère économique et financier<br/>
-<br/>
-</td>
+<td align="center">Secrétariat général des ministère économique et financier</td>
 <td align="center">Adjoint au chef du bureau prestations de services <br/>
 </td>
 </tr>
@@ -539,16 +530,12 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 </tr>
 <tr>
-<td align="center">Secrétariat général des ministère économique et financier<br/>
-<br/>
-</td>
+<td align="center">Secrétariat général des ministère économique et financier</td>
 <td align="center">Chef de projet systèmes d'information financière de l'Etat au MEIE / MBCPFP à la mission nouveaux processus et systèmes d'information budgétaires et comptables. <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Secrétariat général des ministère économique et financier<br/>
-<br/>
-</td>
+<td align="center">Secrétariat général des ministère économique et financier</td>
 <td align="center">Directeur général de l'association pour le logement du personnel des administrations financières <br/>
 </td>
 </tr>
@@ -590,13 +577,24 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 <tr>
 <td align="center">Secrétariat général <br/>
 </td>
-<td align="center">Responsable du secteur statutaire et indemnitaire <br/>
+<td align="center">
+<p align="center">Chef du bureau "affaires juridiques" </p>
 </td>
 </tr>
 <tr>
 <td align="center">Secrétariat général <br/>
 </td>
-<td align="center">Responsable du secteur effectifs et compétences <br/>
+<td align="center">
+<p align="center">Chef du bureau "gestion des compétences, formation, emploi et mobilité" </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Secrétariat général <br/>
+</p>
+</td>
+<td>
+<p align="center">Chargé de mission "projet miroir ONP" </p>
 </td>
 </tr>
 <tr>
@@ -677,25 +675,24 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 </tr>
 <tr>
-<td align="center">direction générale du Trésor <br/>
+<td align="center">Direction générale du Trésor <br/>
 </td>
 <td align="center">Adjoint au chef du bureau marchés et produits d'assurance<br/>
 </td>
 </tr>
 <tr>
-<td align="center">direction générale du Trésor <br/>
+<td align="center">Direction générale du Trésor <br/>
 </td>
-<td align="center">Adjoint au chef du bureau aide au développement et institutions multilatérales de développement<br/>
-</td>
+<td align="center">Adjoint au chef du bureau "services bancaires et moyens de paiement" </td>
 </tr>
 <tr>
-<td align="center">direction générale du Trésor <br/>
+<td align="center">Direction générale du Trésor <br/>
 </td>
 <td align="center">Adjoint au chef du bureau coopération monétaire et développement avec pays ACP zone franc<br/>
 </td>
 </tr>
 <tr>
-<td align="center">direction générale du Trésor <br/>
+<td align="center">Direction générale du Trésor <br/>
 </td>
 <td align="center">Adjoint au chef du bureau services, investissements et propriété intellectuelle <br/>
 </td>
@@ -712,6 +709,12 @@ En application de l'article 2 du décret du 17 septembre 2008 susvisé, les empl
 </td>
 <td>
 <p align="center">Adjoint auprès du chef du pôle "entreprises, emploi et économie"</p>
+</td>
+</tr>
+<tr>
+<td>Direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi d'Ile-de-France </td>
+<td>
+<p align="center">Chef du service budgétaire et financier</p>
 </td>
 </tr>
 </tbody>

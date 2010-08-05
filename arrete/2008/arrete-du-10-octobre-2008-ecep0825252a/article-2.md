@@ -23,7 +23,32 @@ En application de l'article 3 du décret du 17 septembre 2008 susvisé, la liste
 <tr>
 <td align="center">Direction des affaires juridiques <br/>
 </td>
-<td align="center">Chef du bureau du personnel et des affaires générales <br/>
+<td align="center">Chef du bureau  "ressources humaines"  <br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Direction des affaires juridiques <br/>
+</p>
+</td>
+<td>
+<p align="center">Chef du bureau "économie, statistiques et techniques de l'achat public" </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Direction générale des finances publiques</p>
+</td>
+<td>
+<p align="center">Responsable du secteur "contentieux RH et affaires juridiques" </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Direction générale des finances publiques</p>
+</td>
+<td>
+<p align="center">Chef du secteur de la commande publique au bureau "expertise juridique" </p>
 </td>
 </tr>
 <tr>
