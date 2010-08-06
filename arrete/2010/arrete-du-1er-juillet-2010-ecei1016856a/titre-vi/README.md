@@ -1,0 +1,3 @@
+# TITRE VI : OBLIGATIONS DES UTILISATEURS
+
+- [Article 20](article-20.md)

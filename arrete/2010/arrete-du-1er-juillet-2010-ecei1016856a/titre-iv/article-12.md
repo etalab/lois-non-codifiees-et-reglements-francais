@@ -1,0 +1,3 @@
+# Article 12
+
+Les organismes de vérification primitive ainsi que les fabricants et réparateurs ayant leur système d'assurance de la qualité approuvé doivent participer aux inter-comparaisons du circuit « dosage de l'eau » du bureau interprofessionnel d'études analytiques (BIPEA). Le bénéfice de l'approbation du système d'assurance de la qualité du fabricant ou réparateur ainsi que la désignation des organismes de vérification primitive peuvent être suspendus ou retirés en cas de résultats non satisfaisants ou d'une participation insuffisante, selon les dispositions du règlement technique de cet organisme.
