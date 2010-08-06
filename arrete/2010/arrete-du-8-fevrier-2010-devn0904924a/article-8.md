@@ -8,6 +8,8 @@ La charge à l'hectare ne doit pas dépasser les effectifs suivants de femelles 
 
 6 biches de l'espèce Cervus elaphus ;
 
+12 biches de l'espèce Cervus nippon ;
+
 14 femelles de l'espèce Ovis gmelini musimon x Ovis sp. ;
 
 6 chevrettes de l'espèce Capreolus capreolus.

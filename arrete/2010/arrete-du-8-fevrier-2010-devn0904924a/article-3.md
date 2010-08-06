@@ -8,6 +8,8 @@ Etablissement de catégorie A se livrant à l'élevage, à la vente ou au transi
 
 ― soit un spécimen ou davantage de l'espèce Cervus elaphus (cerf élaphe) ;
 
+- soit un spécimen ou davantage de l'espèce Cervus nippon (cerf sika) ;
+
 ― soit un spécimen ou davantage de l'espèce Capreolus capreolus (chevreuil) ;
 
 ― soit un spécimen ou davantage de l'espèce Ovis gmelini musimon x Ovis sp. (mouflon méditerranéen).

@@ -1,8 +1,8 @@
 # Article 2
 
-Tous les cervidés détenus dans un établissement d'élevage, de vente ou de transit de catégorie A sont marqués par fixation sur l'oreille d'une barrette métallique.
+Tous les cervidés détenus dans un établissement d'élevage, de vente ou de transit de catégorie A sont marqués par fixation sur l'oreille d'un repère métallique ou plastique.
 
-Chaque barrette métallique auriculaire doit obligatoirement porter le numéro d'identification de l'établissement d'élevage, de vente ou de transit. Ce numéro se compose de :
+Chaque repère auriculaire doit obligatoirement porter le numéro d'identification de l'établissement d'élevage, de vente ou de transit. Ce numéro se compose de :
 
 ― FR, initiale de la France ;
 
