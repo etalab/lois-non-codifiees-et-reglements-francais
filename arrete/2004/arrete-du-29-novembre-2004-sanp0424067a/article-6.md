@@ -4,4 +4,4 @@ Le comité des centres nationaux de référence est composé de représentants d
 
 La moitié au moins de ses membres n'appartient ni à la direction générale de la santé, ni à l'Institut de veille sanitaire.
 
-Les membres du comité sont nommés pour quatre ans par le directeur général de l'Institut de veille sanitaire.
+Les membres du comité sont nommés pour cinq ans par le directeur général de l'Institut de veille sanitaire.
