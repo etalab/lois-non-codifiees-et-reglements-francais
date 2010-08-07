@@ -1,0 +1,10 @@
+# Arrêté du 19 avril 2010 relatif à la gestion des déchets des industries extractives
+
+- [TITRE IER : DOMAINE D'APPLICATION](titre-ier)
+- [TITRE II : DISPOSITIONS GENERALES](titre-ii)
+- [TITRE III : DISPOSITIONS APPLICABLES AUX INSTALLATIONS  CLASSEES DANS LA « CATEGORIE A »](titre-iii)
+- [TITRE IV : AMENAGEMENT DES INSTALLATIONS](titre-iv)
+- [TITRE V : EXPLOITATION DE L'INSTALLATION](titre-v)
+- [TITRE VI : GESTION DE LA FIN D'EXPLOITATION](titre-vi)
+- [TITRE VII : MODALITES ET DELAIS D'APPLICATION](titre-vii)
+- [Annexes](annexes)

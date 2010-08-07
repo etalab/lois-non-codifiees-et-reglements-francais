@@ -1,0 +1,5 @@
+# Article 69
+
+Pour le scrutin de 2010, les membres de la chambre régionale de commerce et d'industrie de Paris-Ile-de-France et les membres des chambres de commerce et d'industrie de Paris, de Seine-et-Marne, de l'Essonne et de Versailles-Val-d'Oise-Yvelines sont élus par département, conformément aux dispositions du titre Ier du livre VII du code de commerce dans sa rédaction issue du présent décret, et conformément au calendrier prévu à l'article 66.
+
+Pour ces élections, les commissions d'organisation des élections prévues à l'article L. 713-17 compétentes pour les élections des membres des chambres de commerce et d'industrie de Paris, de Seine-et-Marne, de l'Essonne et de Versailles-Val-d'Oise-Yvelines sont celles respectivement constituées sous la présidence des préfets de Paris, de Seine-et-Marne, de l'Essonne et des Yvelines. Par dérogation au I de l'article R. 713-17, les enveloppes d'acheminement des votes sont adressées respectivement à la préfecture du siège des chambres de commerce et d'industrie de Paris, de Versailles-Val-d'Oise-Yvelines, de l'Essonne et de Seine-et-Marne.
