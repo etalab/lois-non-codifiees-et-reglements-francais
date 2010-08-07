@@ -30,7 +30,7 @@ Identification du produit importé :
 
 Identification française de l'importation :
 
-Nom commercial proposé en France pour le produit faisant l'objet de la demande.
+- Nom commercial proposé en France pour le produit faisant l'objet de la demande, sauf si celle-ci concerne une importation par un agriculteur pour son utilisation personnelle.
 
 Identification du produit de référence :
 
@@ -40,7 +40,7 @@ Identification du produit de référence :
 
 - composition en substance(s) active(s) du produit de référence (nom de la ou des substances actives, quantité présente dans le produit de référence) ;
 
-- type de formulation du produit de référence (code GIFAP).
+- type de formulation du produit de référence (code GIFAP), sauf si la demande concerne une importation par un agriculteur pour son utilisation personnelle.
 
 Usages revendiqués pour le produit faisant l'objet de la demande :
 
