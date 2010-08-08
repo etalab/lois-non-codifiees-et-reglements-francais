@@ -20,6 +20,8 @@ Le présent article a pour objet de permettre de détecter un incendie dans le l
 
 2.3 Lorsqu'un dispositif fixe de détection de l'incendie et d'alarme d'incendie est prescrit pour la protection de locaux autres que ceux qui sont spécifiés au paragraphe 5.1, on doit installer au moins un détecteur conforme aux dispositions du Recueil de règles sur les systèmes de protection contre l'incendie dans chacun de ces locaux.
 
+2.4. A bord des navires à passagers, le dispositif fixe de détection de l'incendie et d'alarme d'incendie doit être capable d'identifier à distance et individuellement chaque détecteur et avertisseur d'incendie à commande manuelle.
+
 3 Essai initial et vérification périodique
 
 3.1 Il faut s'assurer que les dispositifs fixes de détection de l'incendie et d'alarme d'incendie prescrits par les articles pertinents du présent chapitre fonctionnent en les mettant à l'essai dans les diverses conditions de ventilation après leur installation.
@@ -72,13 +74,13 @@ Des détecteurs de fumée doivent être installés dans tous les escaliers, cour
 
 5.2 Prescriptions applicables aux navires à passagers transportant plus de 36 passagers
 
-Il doit être prévu un dispositif fixe de détection de l'incendie et d'alarme d'incendie dont l'installation et la disposition permettent de déceler la présence de fumée dans les locaux de service, les postes de sécurité et les locaux d'habitation, y compris les coursives, les escaliers et les échappées des locaux d'habitation. Il n'est pas nécessaire d'installer des détecteurs de fumée dans les salles de bain privées et les cuisines. Les locaux présentant un risque d'incendie faible ou nul, tels que les espaces vides, les toilettes publiques, les locaux contenant du gaz carbonique et autres locaux de même nature, n'ont pas à être pourvus d'un dispositif fixe de détection et d'alarme d'incendie.
+Il doit être prévu un dispositif fixe de détection de l'incendie et d'alarme d'incendie dont l'installation et la disposition permettent de déceler la présence de fumée dans les locaux de service, les postes de sécurité et les locaux d'habitation, y compris les coursives, les escaliers et les échappées des locaux d'habitation. Il n'est pas nécessaire d'installer des détecteurs de fumée dans les salles de bain privées et les cuisines. Les locaux présentant un risque d'incendie faible ou nul, tels que les espaces vides, les toilettes publiques, les locaux contenant du gaz carbonique et autres locaux de même nature, n'ont pas à être pourvus d'un dispositif fixe de détection et d'alarme d'incendie. Les détecteurs installés dans les cabines, lorsqu'ils se déclenchent, doivent aussi être capables d'émettre, ou de faire émettre, une alarme sonore à l'intérieur du local dans lequel ils se trouvent.
 
 5.3 Prescriptions applicables aux navires à passagers ne transportant pas plus de 36 passagers
 
 A l'intérieur de chacune des tranches verticales ou horizontales, les locaux d'habitation et de service et, dans la mesure où l'Administration le juge nécessaire, les postes de sécurité, à l'exception des locaux qui ne présentent pas un très grand risque d'incendie comme les espaces vides, les locaux sanitaires, etc., doivent tous être pourvus d'une des installations suivantes :
 
-.1 un dispositif fixe de détection de l'incendie et d'alarme d'incendie dont l'installation et la disposition permettent de déceler la présence d'un incendie dans ces locaux et la présence de fumée dans les coursives, les escaliers et les échappées des locaux d'habitation ; or
+.1 un dispositif fixe de détection de l'incendie et d'alarme d'incendie dont l'installation et la disposition permettent de déceler la présence d'un incendie dans ces locaux et la présence de fumée dans les coursives, les escaliers et les échappées des locaux d'habitation. Les détecteurs installés dans les cabines, lorsqu'ils se déclenchent, doivent aussi être capables d'émettre, ou de faire émettre, une alarme sonore à l'intérieur du local dans lequel ils se trouvent, ou
 
 .2 un dispositif automatique d'extinction par eau diffusée, de détection et d'alarme d'incendie d'un type approuvé, conforme aux prescriptions du Recueil de règles sur les systèmes de protection contre l'incendie et dont l'installation et la disposition permettent de protéger ces locaux et, de plus, un dispositif fixe de détection et d'alarme d'incendie dont l'installation et la disposition permettent de déceler la présence de fumée dans les coursives, les escaliers et les échappées des locaux d'habitation.
 

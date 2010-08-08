@@ -178,8 +178,8 @@ Les locaux de machines incluent également les locaux de l'appareil à gouverner
 
 50 Un pont exposé est un pont qui est entièrement exposé aux intempéries sur le dessus et sur au moins deux côtés.
 
-51 Zone sûre, dans le contexte d'un accident, désigne, du point de vue de l'habitabilité, toute zone qui n'est pas envahie ou qui est située en dehors de la ou des tranches verticales principales dans lesquelles un incendie s'est déclaré et qui est capable de recevoir en toute sécurité toutes les personnes se trouvant à bord afin de les protéger des risques pour leur vie ou leur santé et afin de leur fournir les services essentiels(*).
+51. Zone sûre, dans le contexte d'un accident désigne, du point de vue de l'habitabilité, toute zone qui n'est pas envahie ou qui est située en dehors de la ou des tranches verticales principales dans lesquelles un incendie s'est déclaré et qui est capable de recevoir en toute sécurité toutes les personnes se trouvant à bord afin de les protéger des risques pour leur vie ou leur santé et afin de leur fournir les services essentiels (*).
 
-52 Centre de sécurité désigne un poste de sécurité utilisé exclusivement pour gérer les situations d'urgence. Le fonctionnement, le contrôle et/ou la surveillance des systèmes de sécurité font partie intégrante du centre de sécurité (*).
+52. Centre de sécurité désigne un poste de sécurité utilisé exclusivement pour gérer les situations d'urgence. Le fonctionnement, le contrôle et / ou la surveillance des systèmes de sécurité font partie intégrante du centre de sécurité (*).
 
 53 Un balcon de cabine est un espace de pont découvert réservé à l'usage exclusif des occupants d'une seule cabine auquel ils accèdent directement depuis cette cabine ou suite de pièces.

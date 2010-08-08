@@ -1,6 +1,6 @@
 # Article Annexe 130.A.3
 
-**Navires étudiés en commission centrale de sécurité**
+Navires étudiés en commission centrale de sécurité
 
 Certificats spécifiques et documents soumis à approbation
 
@@ -17,151 +17,232 @@ NOTA : Le visa de plusieurs documents du tableau n'est pas formellement requis p
 <table>
 <tbody>
 <tr>
-<td valign="top" width="439">DOCUMENTS</td>
-<td valign="top" width="76">ETUDE</td>
-<td valign="top" width="67">VISA</td>
+<th>
+<br/>DOCUMENTS</th>
+<th>
+<br/>ÉTUDE</th>
+<th>
+<br/>VISA</th>
 </tr>
 <tr>
-<td valign="top" width="439">Dossier de stabilité</td>
-<td valign="top" width="76">CCS</td>
-<td valign="top" width="67">CSN</td>
+<td align="center">
+<br/>Rapport de pesée quinquennale navires à passagers (SOLAS II-1/05)</td>
+<td align="center">
+<br/>CCS</td>
+<td align="center">
+<br/>CSN (1)</td>
 </tr>
 <tr>
-<td valign="top" width="439">Manuel d'exploitation pour la sécurité incendie (SOLAS II-2/16)</td>
-<td valign="top" width="76">CCS</td>
-<td valign="top" width="67">CSN (1)</td>
+<td align="center">
+<br/>Rapport de pesée décennale navires de pêche (228-3.09)</td>
+<td align="center">
+<br/>CCS</td>
+<td align="center">
+<br/>CSN (1)</td>
 </tr>
 <tr>
-<td valign="top" width="439">Plan de lutte incendie et plan de sauvetage(SOLAS II-2/15.2.4 et SOLAS III/09)</td>
-<td valign="top" width="76">CCS</td>
-<td valign="top" width="67">CSN (1)</td>
+<td align="center">
+<br/>Dossier de stabilité </td>
+<td align="center">
+<br/>CCS</td>
+<td align="center">
+<br/>CSN</td>
 </tr>
 <tr>
-<td valign="top" width="439">Manuel d'assujettissement (SOLAS VI/05.6)</td>
-<td valign="top" width="76">CCS</td>
-<td valign="top" width="67">CSN</td>
+<td align="center">
+<br/>Manuel d'exploitation pour la sécurité incendie (SOLAS II-2/16)</td>
+<td align="center">
+<br/>CCS</td>
+<td align="center">
+<br/>CSN (1)</td>
 </tr>
 <tr>
-<td valign="top" width="439">Manuel d'exploitation IGC (Recueil IGC règle 18.1.1)</td>
-<td valign="top" width="76">CCS</td>
-<td valign="top" width="67">CSN (1)</td>
+<td align="center">
+<br/>Plan de lutte incendie et plan de sauvetage (SOLAS II-2/15.2.4 et SOLAS III/09)</td>
+<td align="center">
+<br/>CCS</td>
+<td align="center">
+<br/>CSN (1)</td>
 </tr>
 <tr>
-<td valign="top" width="439">Manuel d'exploitation IBC (Recueil IBC règle 16.2.3)</td>
-<td valign="top" width="76">CCS</td>
-<td valign="top" width="67">CSN (1)</td>
+<td align="center">
+<br/>Manuel d'assujettissement (SOLAS VI/05.6)</td>
+<td align="center">
+<br/>CCS</td>
+<td align="center">
+<br/>CSN</td>
 </tr>
 <tr>
-<td valign="top" width="439">Manuel d'accès à la structure du navire (SOLAS II-1/03-6)</td>
-<td valign="top" width="76">CCS</td>
-<td valign="top" width="67">CSN</td>
+<td align="center">
+<br/>Manuel d'exploitation IGC (Recueil IGC règle 18.1.1)</td>
+<td align="center">
+<br/>CCS</td>
+<td align="center">
+<br/>CSN (1)</td>
 </tr>
 <tr>
-<td valign="top" width="439">Manuel d'exploitation ODME (MARPOL Annexe I règle 31.4)</td>
-<td valign="top" width="76">CCS</td>
-<td valign="top" width="67">CSN</td>
+<td align="center">
+<br/>Manuel d'exploitation IBC (Recueil IBC règle 16.2.3)</td>
+<td align="center">
+<br/>CCS</td>
+<td align="center">
+<br/>CSN (1)</td>
 </tr>
 <tr>
-<td valign="top" width="439">Plan SOPEP (MARPOL Annexe I règle 37) ou SMPEP (MARPOL annexe II</td>
-<td valign="top" width="76">CSN</td>
-<td valign="top" width="67">CSN</td>
+<td align="center">
+<br/>Manuel d'accès à la structure du navire (SOLAS II-1/03-6)</td>
+<td align="center">
+<br/>CCS</td>
+<td align="center">
+<br/>CSN</td>
 </tr>
 <tr>
-<td valign="top" width="439">Règle 16)Manuel de lavage au pétrole brut (MARPOL Annexe I règle 35.1)</td>
-<td valign="top" width="76">CCS</td>
-<td valign="top" width="67">CSN</td>
+<td align="center">
+<br/>Manuel d'exploitation ODME (MARPOL annexe I règle 31.4)</td>
+<td align="center">
+<br/>CCS</td>
+<td align="center">
+<br/>CSN</td>
 </tr>
 <tr>
-<td valign="top" width="439">Manuel sur les méthodes et dispositifs de rejets</td>
-<td valign="top" width="76">CCS</td>
-<td valign="top" width="67">CSN</td>
+<td align="center">
+<br/>Plan SOPEP (MARPOL annexe I règle 37) ou SMPEP (MARPOL annexe II règle 16) </td>
+<td align="center">
+<br/>CSN</td>
+<td align="center">
+<br/>CSN</td>
 </tr>
 <tr>
-<td valign="top" width="439">(MARPOL Annexe II Appendice 4)Dossier grain (résolution OMI MSC.23(59))</td>
-<td valign="top" width="76">CCS</td>
-<td valign="top" width="67">CSN</td>
+<td align="center">
+<br/>Manuel de lavage au pétrole brut (MARPOL annexe I règle 35.1)</td>
+<td align="center">
+<br/>CCS</td>
+<td align="center">
+<br/>CSN</td>
 </tr>
 <tr>
-<td valign="top" width="439">Manuel de chargement - déchargement (SOLAS VI/07)</td>
-<td valign="top" width="76">CCS</td>
-<td valign="top" width="67">CSN</td>
+<td align="center">
+<br/>Manuel sur les méthodes et dispositifs de rejets (MARPOL annexe II appendice 4)</td>
+<td align="center">
+<br/>CCS</td>
+<td align="center">
+<br/>CSN</td>
 </tr>
 <tr>
-<td valign="top" width="439">Manuel détecteurs de niveau d'eau (résolution OMI MSC.188(79))</td>
-<td valign="top" width="76">CCS</td>
-<td valign="top" width="67">CSN</td>
+<td align="center">
+<br/>Dossier grain (résolution OMI MSC.23[59])</td>
+<td align="center">
+<br/>CCS</td>
+<td align="center">
+<br/>CSN</td>
 </tr>
 <tr>
-<td valign="top" width="439">Plan de gestion des ordures (MARPOL Annexe V règle 9)</td>
-<td valign="top" width="76">CSN</td>
-<td valign="top" width="67">CSN (1)</td>
+<td align="center">
+<br/>Manuel de chargement - déchargement (SOLAS VI/07)</td>
+<td align="center">
+<br/>CCS</td>
+<td align="center">
+<br/>CSN</td>
 </tr>
 <tr>
-<td valign="top" width="439">Manuel d'instruction du dispositif à gaz inerte</td>
-<td valign="top" width="76">CCS</td>
-<td valign="top" width="67">CSN</td>
+<td align="center">
+<br/>Manuel détecteurs de niveau d'eau (résolution OMI MSC.188[79])</td>
+<td align="center">
+<br/>CCS</td>
+<td align="center">
+<br/>CSN</td>
 </tr>
 <tr>
-<td valign="top" width="439">(SOLAS Recueil FSS chapitre 15 (2.4.4) ou Recueil IBC)Manuels HSC : Manuel d'exploitation, de formation, d'entretien</td>
-<td valign="top" width="76">CCS</td>
-<td valign="top" width="67">CSN (1)</td>
+<td align="center">
+<br/>Plan de gestion des ordures (MARPOL annexe V règle 9)</td>
+<td align="center">
+<br/>CSN</td>
+<td align="center">
+<br/>CSN (1)</td>
 </tr>
 <tr>
-<td valign="top" width="439">(Recueil HSC Chapitre 18)Manuel HSC : manuel de route (Recueil HSC Chapitre 18)</td>
-<td valign="top" width="76">CSN (2)</td>
-<td valign="top" width="67">CSN (1)</td>
+<td align="center">
+<br/>Manuel d'instruction du dispositif à gaz inerte (SOLAS Recueil FSS chapitre 15 (2.4.4) ou Recueil IBC)</td>
+<td align="center">
+<br/>CCS</td>
+<td align="center">
+<br/>CSN</td>
 </tr>
 <tr>
-<td valign="top" width="439">Déclaration de conformité (C.A.S . selon règle 20 de MARPOL)</td>
-<td valign="top" width="76">CSN</td>
-<td valign="top" width="67">CSN</td>
+<td align="center">
+<br/>Manuels HSC : Manuel d'exploitation, de formation, d'entretien (Recueil HSC Chapitre 18)</td>
+<td align="center">
+<br/>CCS</td>
+<td align="center">
+<br/>CSN (1)</td>
 </tr>
 <tr>
-<td valign="top" width="439">Manuel de formation et aides à la formation à bord (SOLAS III/35)</td>
-<td valign="top" width="76">CCS</td>
-<td valign="top" width="67">CSN (1)</td>
+<td align="center">
+<br/>Manuel HSC : manuel de route (Recueil HSC Chapitre 18)</td>
+<td align="center">
+<br/>CSN (2)</td>
+<td align="center">
+<br/>CSN (1)</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Déclaration de conformité (C.A.S. selon règle 20 de MARPOL)</td>
+<td align="center">
+<br/>CSN</td>
+<td align="center">
+<br/>CSN</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Manuel de formation et aides à la formation à bord (SOLAS III/35)</td>
+<td align="center">
+<br/>CCS</td>
+<td align="center">
+<br/>CSN (1)</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Registre des substances qui appauvrissent la couche d'ozone (MARPOL annexe VI règle 12)</td>
+<td align="center">
+<br/>CCS</td>
+<td align="center">
+<br/>CSN</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Plan de gestion des COV (MARPOL annexe VI règle 15)</td>
+<td align="center">
+<br/>CCS</td>
+<td align="center">
+<br/>CSN</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Documentation relative aux autres conceptions et dispositifs (SOLAS II-1/55)</td>
+<td align="center">
+<br/>CCS</td>
+<td align="center">
+<br/>CSN</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Documentation relative aux autres conceptions et dispositifs (SOLAS II-2/17)</td>
+<td align="center">
+<br/>CCS</td>
+<td align="center">
+<br/>CSN</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Documentation relative aux autres conceptions et dispositifs (SOLAS III/38)</td>
+<td align="center">
+<br/>CCS</td>
+<td align="center">
+<br/>CSN </td>
+</tr>
+<tr>
+<td colspan="3">
+<br/>(1) Visa non requis par la réglementation internationale.<br/>(2) Avec participation du centre de sécurité chargé des visites du navire postérieures à la visite de mise en service.</td>
 </tr>
 </tbody>
 </table>
-<table>
-<tbody>
-<tr>
-<td valign="top" width="438">Certificats d'exemption initiaux (Article 6 du décret n° 84-810)</td>
-<td valign="top" width="76">CCS</td>
-<td valign="top" width="68">SM (3)</td>
-</tr>
-<tr>
-<td valign="top" width="438">Renouvellement des certificats d'exemption(Article 6 du décret n° 84-810)</td>
-<td valign="top" width="76">CSN</td>
-<td valign="top" width="68">CSN (4)</td>
-</tr>
-<tr>
-<td valign="top" width="438">Document de conformité au transport de marchandises dangereuses(SOLAS II-2/19 ou II-2/54 selon la date de pose de quille)Transport de substances liquides nocives et potentiellement dangereuses en</td>
-<td valign="top" width="76">CCS</td>
-<td valign="top" width="68">CSN</td>
-</tr>
-<tr>
-<td valign="top" width="438">vrac et en quantités limitées à bord de navires de servitude au large (résolution OMI A.673(16) telle qu'amendée)</td>
-<td valign="top" width="76">CCS</td>
-<td valign="top" width="68">CSN</td>
-</tr>
-<tr>
-<td valign="top" width="438">Limites d'exploitation (Règle SOLAS V/30 ou V/23)</td>
-<td valign="top" width="76">CCS</td>
-<td valign="top" width="68">CSN</td>
-</tr>
-<tr>
-<td valign="top" width="438">Transport de cargaisons INF (recueil INF)</td>
-<td valign="top" width="76">CCS</td>
-<td valign="top" width="68">CSN</td>
-</tr>
-</tbody>
-</table>
-
-(2) Avec participation du centre de sécurité chargé des visites du navire postérieures à la visite de mise en service
-
-(1) Visa non requis par la réglementation internationale
-
-(3) Sous-Direction de la Sécurité Maritime de la Direction des Affaires Maritimes
-
-(4) Si les conditions de délivrance du certificat initial n'ont pas été modifiées

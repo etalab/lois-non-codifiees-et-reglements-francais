@@ -26,13 +26,13 @@ Matériel radioélectrique - Zones océaniques A1, A2 et A3
 
 .3 d'une installation radioélectrique permettant de maintenir une veille permanente par ASN sur la fréquence 2 187,5 kHz, qui peut être distincte de celle prescrite à l'alinéa .2.1 ou y être incorporée ; et
 
-.4 de moyens permettant de déclencher l'émission d'alertes de détresse dans le sens navire - - station côtière, dans le cadre d'un service radioélectrique qui fonctionne :
+.4. De moyens permettant de déclencher l'émission d'alertes de détresse dans le sens navire - station côtière, dans le cadre d'un service radioélectrique qui fonctionne :
 
-.4.1 soit sur 406 MHz dans le cadre du service par satellites sur orbite polaire ; il peut être satisfait à cette prescription en utilisant la RLS par satellite prescrite à l'article 221-IV/07.1.6, laquelle peut être soit installée à proximité du poste de navigation habituel du navire, soit déclenchée à distance depuis ce poste ;
+.4.1 soit sur 406 MHz dans le cadre du service par satellites sur orbite polaire ; il peut être satisfait à cette prescription en uti-lisant la RLS par satellite prescrite à l'article 221-IV/07.1.6, laquelle peut être soit installée à proximité du poste de navigation habituel du navire, soit déclenchée à distance depuis ce poste ;
 
 .4.2 soit sur ondes décamétriques par ASN ;
 
-.4.3 soit dans le cadre du service par satellites géostationnaires d'INMARSAT, en utilisant une station terrienne de navire supplémentaire ou la RLS par satellite prescrite à l'article 221-IV/07.1.6 laquelle peut être soit installée à proximité du poste de navigation habituel du navire, soit déclenchée à distance depuis ce poste.
+.4.3 soit dans le cadre du service par satellites géostationnaires d'Inmarsat, en utilisant une station terrienne de navire supplémentaire.
 
 2 Outre qu'il doit satisfaire aux prescriptions de l'article 221-IV/07, tout navire qui effectue des voyages au-delà des zones océaniques A1 et A2 mais qui reste à l'intérieur de la zone océanique A3 doit, s'il ne satisfait pas aux prescriptions du paragraphe 1, être pourvu :
 
@@ -50,7 +50,7 @@ Matériel radioélectrique - Zones océaniques A1, A2 et A3
 
 .3.1 soit sur 406 MHz dans le cadre du service par satellites sur orbite polaire ; il peut être satisfait à cette prescription en utilisant la RLS par satellite prescrite à l'article 221-IV/07.1.6, laquelle peut être soit installée à proximité du poste de navigation habituel du navire, soit déclenchée à distance depuis ce poste ;
 
-.3.2 soit dans le cadre du service par satellites géostationnaires d'INMARSAT ; il peut être satisfait à cette prescription en utilisant :
+.3.2 Soit dans le cadre du service par satellites géostationnaires d'Inmarsat au moyen d'une station terrienne de navire, et :
 
 .3.2.1 une station terrienne de navire INMARSAT ; ou
 

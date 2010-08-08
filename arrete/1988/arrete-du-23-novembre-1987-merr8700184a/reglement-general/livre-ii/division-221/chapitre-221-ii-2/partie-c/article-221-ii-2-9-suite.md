@@ -892,11 +892,15 @@ e Il n'est pas nécessaire de mettre en place une isolation contre l'incendie si
 
 4.1.1.1 A l'exception des écoutilles situées entre les espaces à cargaison, les locaux de catégorie spéciale, les magasins et les soutes à bagages et entre ces locaux et les ponts exposés, les ouvertures doivent être munies de dispositifs de fermeture fixés à demeure et ayant une résistance au feu au moins égale à celle des cloisonnements sur lesquels ils sont fixés.
 
-4.1.1.2 Les portes et les encadrements de porte ménagés dans les cloisonnements du type "A", ainsi que les dispositifs permettant de maintenir ces portes fermées, doivent être construits de manière à offrir une résistance au feu et au passage de la fumée et des flammes équivalant à celle des cloisons dans lesquelles les portes sont situées, cela étant déterminé, conformément au Code des méthodes d'essai au feu. Ces portes et encadrements de porte doivent être en acier ou autre matériau équivalent. Il n'est pas nécessaire d'isoler les portes étanches.
+4.1.1.2 Les portes et les encadrements de porte ménagés dans les cloisonnements du type "A", ainsi que les dispositifs permettant de maintenir ces portes fermées, doivent être construits de manière à offrir une résistance au feu et au passage de la fumée et des flammes équivalant à celle des cloisons dans lesquelles les portes sont situées, cela étant déterminé, conformément au Code des méthodes d'essai au feu. Ces portes et encadrements de porte doivent être en acier ou autre matériau équivalent.
 
-4.1.1.3 Chacune de ces portes doit pouvoir être ouverte et fermée par une seule personne, de chaque côté de la cloison.
+Les portes approuvées avec un dormant sans seuil qui sont installées le 1er juillet 2010 ou après cette date doivent l'être de sorte que la fente sous la porte ne dépasse pas 12 mm. Un seuil incombustible doit être installé sous la porte pour empêcher les revêtements de sol de se prolonger au-dessous de la porte fermée.
 
-4.1.1.4 Les portes d'incendie situées dans les cloisons des tranches verticales principales, les cloisons d'entourage de cuisine et les entourages d'escalier, autres que les portes étanches à l'eau mues par une source d'énergie et que les portes normalement fermées à clé, doivent satisfaire aux prescriptions suivantes :
+4.1.1.3 Il n'est pas nécessaire d'isoler les portes étanches.
+
+4.1.1.4 Chacune de ces portes doit pouvoir être ouverte et fermée par une seule personne, de chaque côté de la cloison.
+
+4.1.1.5 Les portes d'incendie situées dans les cloisons des tranches verticales principales, les cloisons d'entourage de cuisine et les entourages d'escalier, autres que les portes étanches à l'eau mues par une source d'énergie et que les portes normalement fermées à clé, doivent satisfaire aux prescriptions suivantes :
 
 .1 les portes doivent être munies de dispositifs de fermeture automatique qui puissent fonctionner en dépit d'une inclinaison défavorable de 3,5° ;
 
@@ -928,25 +932,25 @@ e Il n'est pas nécessaire de mettre en place une isolation contre l'incendie si
 
 .15 les portes mues par une source d'énergie doivent être pourvues d'un dispositif de commande d'un type approuvé, capable de fonctionner en cas d'incendie, cela étant déterminé conformément au Code des méthodes d'essai au feu. Ce dispositif doit satisfaire aux prescriptions suivantes :
 
-.15.1 le dispositif de commande doit pouvoir manœuvrer la porte au moins jusqu'à une
-
-température de 200°C pendant 60 minutes minimum, en utilisant la source d'énergie ;
+.15.1 le dispositif de commande doit pouvoir manœuvrer la porte au moins jusqu'à une température de 200 °C pendant 60 minutes minimum, en utilisant la source d'énergie ;
 
 .15.2 l'alimentation en énergie de toutes les autres portes non affectées par l'incendie ne doit pas être compromise ; et
 
-.15.3 lorsque la température dépasse 200°C, le dispositif de commande doit être automatiquement isolé de la source d'énergie et doit pouvoir maintenir la porte fermée jusqu'à une température de 945°C au moins.
+.15.3 lorsque la température dépasse 200 °C, le dispositif de commande doit être automatiquement isolé de la source d'énergie et doit pouvoir maintenir la porte fermée jusqu'à une température de 945 °C au moins.
 
-4.1.1.5 A bord des navires ne transportant pas plus de 36 passagers, lorsqu'un local est protégé par un dispositif automatique d'extinction par eau diffusée, de détection et d'alarme d'incendie satisfaisant aux dispositions du Recueil sur les systèmes de protection contre l'incendie ou un plafond continu du type "B", les ouvertures pratiquées dans les ponts qui ne forment pas des baïonnettes dans les tranches verticales principales et qui ne constituent pas des limites de zones horizontales doivent avoir une fermeture suffisamment étanche et les ponts en question doivent avoir le degré d'intégrité au feu prévu pour les cloisonnements du type "A", dans la mesure où l'Administration le juge possible et raisonnable.
+4.1.1.6 A bord des navires ne transportant pas plus de 36 passagers, lorsqu'un local est protégé par un dispositif automatique d'extinction par eau diffusée, de détection et d'alarme d'incendie satisfaisant aux dispositions du Recueil sur les systèmes de protection contre l'incendie ou un plafond continu du type "B", les ouvertures pratiquées dans les ponts qui ne forment pas des baïonnettes dans les tranches verticales principales et qui ne constituent pas des limites de zones horizontales doivent avoir une fermeture suffisamment étanche et les ponts en question doivent avoir le degré d'intégrité au feu prévu pour les cloisonnements du type "A", dans la mesure où l'administration le juge possible et raisonnable.
 
-4.1.1.6 Les prescriptions concernant l'application des normes d'intégrité au feu du type "A" aux cloisonnements qui constituent les limites extérieures du navire ne s'appliquent pas aux cloisons en verre, aux fenêtres et aux hublots, à condition que ces cloisonnements ne soient pas tenus d'avoir un degré d'intégrité du type "A" en vertu du paragraphe 4.1.3.3. Les prescriptions concernant l'application des normes d'intégrité au feu du type "A" aux cloisonnements qui constituent les limites extérieures du navire ne s'appliquent pas aux portes extérieures, à l'exception de celles qui sont ménagées dans les superstructures et les roufs et en face desquelles se trouvent les engins de sauvetage, les zones d'embarquement et les postes de rassemblement extérieurs, les escaliers extérieurs et les ponts découverts servant d'échappées. Les portes pratiquées dans les entourages d'escalier n'ont pas à satisfaire à ces prescriptions.
+4.1.1.7. Les prescriptions concernant l'application des normes d'intégrité au feu du type "A" aux cloisonnements qui constituent les limites extérieures du navire ne s'appliquent pas aux cloisons en verre, aux fenêtres et aux hublots, à condition que ces cloisonnements ne soient pas tenus d'avoir un degré d'intégrité du type "A" en vertu du paragraphe 4.1.3.3. Les prescriptions concernant l'application des normes d'intégrité au feu du type "A" aux cloisonnements qui constituent les limites extérieures du navire ne s'appliquent pas aux portes extérieures, à l'exception de celles qui sont ménagées dans les superstructures et les roufs et en face desquelles se trouvent les engins de sauvetage, les zones d'embarquement et les postes de rassemblement extérieurs, les escaliers extérieurs et les ponts découverts servant d'échappées. Les portes pratiquées dans les entourages d'escalier n'ont pas à satisfaire à ces prescriptions.
 
-4.1.1.7 A l'exception des portes étanches à l'eau, des portes étanches aux intempéries (semi-étanches à l'eau), des portes menant au pont découvert et des portes qui doivent être suffisamment étanches au gaz, toutes les portes du type "A" situées dans les escaliers, les locaux de réunion et les cloisons des tranches verticales principales des échappées doivent être munies d'un orifice pour manche d'incendie à fermeture automatique dont le matériau, la construction et la résistance au feu soient équivalents à ceux de la porte dans laquelle il est installé, qui ait un clair d'ouverture de 150 mm de côté lorsque la porte est fermée et qui soit placé dans la partie inférieure de la porte, du côté opposé aux charnières, ou s'il s'agit d'une porte à glissières, près de l'ouverture.
+4.1.1.8. A l'exception des portes étanches à l'eau, des portes étanches aux intempéries (semi-étanches à l'eau), des portes menant au pont découvert et des portes qui doivent être suffisamment étanches au gaz, toutes les portes du type "A" situées dans les escaliers, les locaux de réunion et les cloisons des tranches verticales principales des échappées doivent être munies d'un orifice pour manche d'incendie à fermeture automatique dont le matériau, la construction et la résistance au feu soient équivalents à ceux de la porte dans laquelle il est installé, qui ait un clair d'ouverture de 150 mm de côté lorsque la porte est fermée et qui soit placé dans la partie inférieure de la porte, du côté opposé aux charnières, ou s'il s'agit d'une porte à glissières, près de l'ouverture.
 
-4.1.1.8 Lorsqu'il est nécessaire qu'un conduit de ventilation traverse un cloisonnement de tranche verticale principale, un volet d'incendie de sécurité à fermeture automatique doit être installé à côté du cloisonnement. Ce volet doit également pouvoir être fermé à la main de chaque côté du cloisonnement. La commande doit être située dans un endroit facile d'accès et signalée par une couleur rouge reflétant la lumière. Le conduit, entre le cloisonnement et le volet de fermeture, doit être en acier ou autre matériau équivalent et, si nécessaire, avoir un degré d'isolation conforme aux prescriptions du paragraphe 3.1. Le volet doit être muni, sur un côté au moins du cloisonnement, d'un indicateur bien en vue montrant si le volet est en position ouverte.
+4.1.1.9. Lorsqu'il est nécessaire qu'un conduit de ventilation traverse un cloisonnement de tranche verticale principale, un volet d'incendie de sécurité à fermeture automatique doit être installé à côté du cloisonnement. Ce volet doit également pouvoir être fermé à la main de chaque côté du cloisonnement. La commande doit être située dans un endroit facile d'accès et signalée par une couleur rouge reflétant la lumière. Le conduit, entre le cloisonnement et le volet de fermeture, doit être en acier ou autre matériau équivalent et, si nécessaire, avoir un degré d'isolation conforme aux prescriptions du paragraphe 3.1. Le volet doit être muni, sur un côté au moins du cloisonnement, d'un indicateur bien en vue montrant si le volet est en position ouverte.
 
 4.1.2 Ouvertures pratiquées dans les cloisonnements du type "B"
 
 4.1.2.1 Les portes et encadrements de porte ménagés dans les cloisonnements du type "B", ainsi que les dispositifs permettant de maintenir ces portes fermées, doivent offrir une résistance au feu équivalant à celle des cloisonnements, cela étant déterminé conformément au Code des méthodes d'essai au feu ; toutefois, des ouvertures de ventilation peuvent être pratiquées dans la partie inférieure de ces portes. Les ouvertures pratiquées dans ou sous les portes doivent avoir une surface nette totale qui ne dépasse pas 0,05 m2. On peut aussi installer un conduit incombustible d'équilibrage de l'air qui passe entre la cabine et la coursive et qui soit situé au-dessous du bloc sanitaire, si la section du conduit n'est pas supérieure à 0,05 m2. Toutes les ouvertures de ventilation doivent être munies d'une grille en matériau incombustible. Les portes doivent être incombustibles.
+
+Les portes approuvées avec un dormant sans seuil qui sont installées le 1er juillet 2010 ou après cette date doivent l'être de sorte que la fente sous la porte ne dépasse pas 25 mm.
 
 4.1.2.2 Les portes de cabine ménagées dans les cloisonnements du type "B" doivent être à fermeture automatique. Il est interdit d'installer des crochets de retenue.
 
@@ -970,13 +974,17 @@ température de 200°C pendant 60 minutes minimum, en utilisant la source d'éne
 
 au plafond ; soit
 
-.2 des têtes de diffuseurs classiques fixés au plafond, disposées de telle façon que la fenêtre soit protégée par un taux d'application moyen d'au moins 5 l/min par mètre carré et que la surface de fenêtre supplémentaire soit prise en compte dans le calcul de la surface à couvrir.
+.2 des têtes de diffuseurs classiques fixés au plafond, disposées de telle façon que la fenêtre soit protégée par un taux d'application moyen d'au moins 5 l/min par mètre carré et que la surface de fenêtre supplémentaire soit prise en compte dans le calcul de la surface à couvrir ou
+
+3. Des ajutages diffusant de l'eau en brouillard qui aient été mis à l'essai et approuvés conformément aux directives adoptées par l'Organisation (*).
+
+(*) Se reporter aux directives révisées pour l'approbation de dispositifs d'extinction par eau diffusée équivalant à ceux qui sont prévus à la règle II-2/12 de la Convention SOLAS (résolution A.800[19]).
 
 Les fenêtres situées dans le bordé du navire au-dessous de la zone d'embarquement dans les embarcations de sauvetage doivent avoir une intégrité au feu au moins équivalente à la norme "A-0".
 
 4.2 Portes ménagées dans les cloisons d'incendie à bord des navires de charge
 
-4.2.1 Les portes doivent avoir une résistance au feu équivalente à celle de la cloison dans laquelle elles sont installées, cela étant déterminé conformément au Code des méthodes d'essai au feu. Les portes et les encadrements de porte ménagés dans les cloisonnements du type "A" doivent être en acier. Les portes ménagées dans les cloisonnements du type "B" doivent être incombustibles. Les portes situées dans les cloisons qui constituent les limites des locaux de machines de la catégorie A doivent être suffisamment étanches aux gaz et à fermeture automatique. A bord des navires construits conformément à la méthode IC, l'Administration peut autoriser l'utilisation de matériaux combustibles pour les portes des installations sanitaires individuelles situées à l'intérieur des cabines, telles que les douches.
+4.2.1 Les portes doivent avoir une résistance au feu équivalente à celle de la cloison dans laquelle elles sont installées, cela étant déterminé conformément au Code des méthodes d'essai au feu. Les portes et les encadrements de porte ménagés dans les cloisonnements du type "A" doivent être en acier. Les portes ménagées dans les cloisonnements du type "B" doivent être incombustibles. Les portes situées dans les cloisons qui constituent les limites des locaux de machines de la catégorie A doivent être suffisamment étanches aux gaz et à fermeture automatique. A bord des navires construits conformément à la méthode IC, l'Administration peut autoriser l'utilisation de matériaux combustibles pour les portes des installations sanitaires individuelles situées à l'intérieur des cabines, telles que les douches. Les portes approuvées comme portes du type "A" avec un dormant sans seuil qui sont installées le 1er juillet 2010 ou après cette date doivent l'être de sorte que la fente sous la porte ne dépasse pas 12 mm et un seuil incombustible doit être installé sous la porte pour empêcher les revêtements de sol de se prolonger au-dessous de la porte fermée. Les portes approuvées comme portes du type "B" avec un dormant sans seuil qui sont installées le 1er juillet 2010 ou après cette date doivent l'être de sorte que la fente sous la porte ne dépasse pas 25 mm.
 
 4.2.2 Les portes qui doivent être à fermeture automatique ne doivent pas être pourvues de crochet de retenue. Des dispositifs de retenue manœuvrables à distance et à sécurité positive peuvent cependant être autorisés.
 
@@ -1020,13 +1028,17 @@ Les fenêtres situées dans le bordé du navire au-dessous de la zone d'embarque
 
 7.1 Conduits et volets
 
-7.1.1 Les conduits de ventilation doivent être en matériau incombustible. Toutefois, les faibles longueurs de conduits, dont la longueur ne dépasse généralement pas 2 m, ni la section libre (1) 0,02 m2, n'ont pas à être en matériau incombustible sous réserve que les conditions suivantes soient remplies :
+7.1.1 Les conduits de ventilation doivent être en matériau en acier ou en matériau équivalent. Toutefois, les faibles longueurs de conduits, dont la longueur ne dépasse généralement pas 2 m, ni la section libre (*) 0,02 m², n'ont pas à être en matériau en acier ou en matériau équivalent, sous réserve que les conditions suivantes soient remplies :
 
-.1 les longueurs de conduits sont en un matériau qui a un faible pouvoir propagateur de flamme ;
+.1 sous réserve du paragraphe 7.1.1.2, les longueurs de conduits sont en un matériau quelconque qui a un faible pouvoir propagateur de flamme ;
 
-.2 les longueurs de conduits sont uniquement utilisées au point d'aboutissement du dispositif de ventilation ; et
+.2 pour les navires construits le 1er juillet 2010 ou après cette date, les conduits doivent être en un matériau incombustible résistant à la chaleur, qui peut être recouvert à l'intérieur et à l'extérieur de membranes ayant un faible pouvoir propagateur de flamme et ayant chacune un pouvoir calorifique (**) qui ne dépasse pas 45 MJ/m² de leur surface pour l'épaisseur utilisée ;
 
-.3 les longueurs de conduits ne sont pas situées à moins de 600 mm, mesurés le long du conduit, d'une ouverture pratiquée dans un cloisonnement du type "A" ou du type "B", y compris les plafonds continus du type "B".
+_(*) On entend par "section libre", la section calculée à partir du diamètre intérieur du conduit, même dans le cas d'un conduit préalablement isolé. (**) Se reporter aux recommandations publiées par l'Organisation internationale de normalisation, en particulier à la publication ISO 1716 2002 détermination de la chaleur de combustion._
+
+.3 les longueurs de conduits sont uniquement utilisées au point d'aboutissement du dispositif de ventilation ; et
+
+.4 les longueurs de conduits ne sont pas situées à moins de 600 mm, mesurés le long du conduit, d'une ouverture pratiquée dans un cloisonnement du type "A" ou du type "B", y compris les plafonds continus du type "B".
 
 7.1.2 Les installations suivantes doivent être mises à l'essai de la manière prévue dans le Code des méthodes d'essai au feu :
 
@@ -1088,25 +1100,25 @@ Toutefois, les conduits qui traversent les cloisonnements d'une tranche principa
 
 7.4.4 Sauf dans les espaces à cargaison, les matériaux utilisés pour la construction des conduits de ventilation doivent être les suivants :
 
-.1 pour les conduits dont la section libre n'est pas inférieure à 0,075 m2 et tous les conduits verticaux qui desservent plus d'un entrepont : acier ou autre matériau équivalent ;
+.1 pour les conduits dont la section libre n'est pas inférieure à 0,075 m² et tous les conduits verticaux qui desservent plus d'un entrepont : acier ou autre matériau équivalent ;
 
-.2 pour les conduits de moins de 0,075 m2 de section libre autres que les conduits verticaux visés au paragraphe 7.4.4.1 : matériaux incombustibles. Il convient d'assurer l'intégrité au feu des cloisonnements du type "A" ou "B" lorsqu'ils sont traversés par ces conduits ; et
+.2 pour les conduits de moins de 0,075 m² de section libre autres que les conduits verticaux visés au paragraphe 7.4.4.1 : matériaux en acier ou en matériau équivalent. Il convient d'assurer l'intégrité au feu des cloisonnements du type "A" ou "B" lorsqu'ils sont traversés par ces conduits ; et
 
-.3 les faibles longueurs de conduits, dont la longueur ne dépasse généralement pas 2 m, ni la section libre 0,02 m2, n'ont pas à être en matériau incombustible sous réserve que toutes les conditions suivantes soient remplies :
+.3 les faibles longueurs de conduits, dont la longueur ne dépasse généralement pas 2 m, ni la section libre 0,02 m², n'ont pas à être en matériau en acier ou en matériau équivalent sous réserve que toutes les conditions suivantes soient remplies :
 
-.3.1 ces longueurs de conduits sont en un matériau qui a un faible pouvoir propagateur de flamme ;
+.3.1 sous réserve des dispositions du paragraphe 7.4.4.3.2, ces longueurs de conduits sont en un matériau quelconque qui a un faible pouvoir propagateur de flamme ;
 
-.3.2 elles sont uniquement utilisées au point d'aboutissement du dispositif de ventilation ; et
+.3.2 pour les navires construits le 1er juillet 2010 ou après cette date, les conduits doivent être en un matériau incombustible résistant à la chaleur, qui peut être recouvert à l'intérieur et à l'extérieur de membranes ayant un faible pouvoir propagateur de flamme et ayant chacune un pouvoir calorifique (*) qui ne dépasse pas 45 MJ/m² de leur surface pour l'épaisseur utilisée ;
 
-.3.3 elles ne sont pas situées à moins de 600 mm, mesurés le long du conduit, d'une ouverture pratiquée dans un cloisonnement du type "A" ou "B", y compris les plafonds continus du type "B".
+.3.3 elles sont uniquement utilisées au point d'aboutissement du dispositif de ventilation ; et
 
-7.4.5 Les entourages d'escalier doivent être ventilés et desservis par un ventilateur et un conduit indépendants ne desservant aucun autre local relié au système de ventilation.
+.3.4 elles ne sont pas situées à moins de 600 mm, mesurés le long du conduit, d'une ouverture pratiquée dans un cloisonnement du type "A" ou "B", y compris les plafonds continus du type "B".
 
-7.4.6 Les conduits d'évacuation doivent être dotés d'ouvertures d'accès pour l'inspection et le nettoyage. Ces ouvertures d'accès doivent être situées à proximité des volets d'incendie.
+_(*) Se reporter aux recommandations publiées par l'Organisation internationale de normalisation, en particulier à la publication ISO 1716 2002 "détermination de la chaleur de combustion"._
 
 7.5 Conduits d'évacuation des fourneaux des cuisines
 
-7.5.1 Prescriptions applicables aux navires à passagers transportant plus de 36 passagers
+7.5.1.1. Prescriptions applicables aux navires à passagers transportant plus de 36 passagers
 
 Les conduits d'évacuation des fourneaux des cuisines doivent être conformes aux prescriptions des paragraphes 7.2.1.2.1 et 7.2.1.2.2 et doivent être pourvus :
 
@@ -1120,14 +1132,28 @@ Les conduits d'évacuation des fourneaux des cuisines doivent être conformes au
 
 .5 d'ouvertures d'accès convenablement placées pour l'inspection et le nettoyage.
 
-7.5.2 Prescriptions applicables aux navires de charge et aux navires à passagers ne transportant pas plus de 36 passagers
+7.5.1.2. Les conduits d'évacuation des fourneaux des appareils de cuisson installés sur des ponts découverts doivent être conformes aux dispositions applicables du paragraphe 7.5.1.1 lorsqu'ils traversent des locaux d'habitation ou des locaux contenant des matériaux combustibles.
 
-7.5.2.1 Les conduits d'évacuation des fourneaux des cuisines doivent être constitués par des cloisonnements du type "A" lorsqu'ils traversent des locaux d'habitation ou des locaux contenant des matériaux combustibles. Chaque conduit d'évacuation doit être pourvu :
+7.5.2. Prescriptions applicables aux navires de charge et aux navires à passagers ne transportant pas plus de 36 passagers
+
+7.5.2.1. Les conduits d'évacuation des fourneaux des cuisines doivent être constitués par des cloisonnements du type "A" lorsqu'ils traversent des locaux d'habitation ou des locaux contenant des matériaux combustibles. Chaque conduit d'évacuation doit être pourvu :
 
 .1 d'un filtre à graisse pouvant être facilement enlevé pour être nettoyé ;
 
-.2 d'un volet d'incendie situé à l'extrémité inférieure du conduit ;
+.2 d'un volet d'incendie situé à l'extrémité inférieure du conduit, ainsi que d'un volet d'incendie situé à l'extrémité supérieure du conduit ;
 
 .3 de dispositifs permettant d'arrêter, depuis la cuisine, les ventilateurs d'évacuation d'air vicié ; et
 
 .4 d'un dispositif fixe permettant d'éteindre un incendie à l'intérieur du conduit.
+
+7.6. Systèmes de ventilation des buanderies principales à bord des navires à passagers transportant plus de 36 passagers
+
+Les conduits d'évacuation des buanderies principales doivent être dotés :
+
+.1 de filtres pouvant être facilement enlevés pour être nettoyés ;
+
+.2 d'un volet d'incendie automatique et télécommandé situé à l'extrémité inférieure du conduit ;
+
+.3 de commandes à distance qui permettent d'arrêter les ventilateurs aspirants et les ventilateurs refoulants depuis l'intérieur du local et de faire fonctionner le volet d'incendie mentionné au paragraphe 7.6.2 ; et
+
+.4 d'ouvertures d'accès convenablement placées pour l'inspection et le nettoyage

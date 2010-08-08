@@ -6,7 +6,7 @@ Aux fins de la présente division, on entend par :
 
 a) "procédures d'évaluation de la conformité", les procédures définies à l'article 311-1.06 et à l'annexe 311-1.B de la présente division ;
 
-b) "équipements", les équipements marins énumérés aux annexes 311-1.A.1 et 311-1.A.2, qui doivent être embarqués sur un navire pour être utilisés conformément aux instruments internationaux ou au présent règlement, ou qui sont embarqués volontairement pour y être utilisés, et pour lesquels l'approbation de l'administration est requise conformément aux instruments internationaux ou au présent règlement ;
+b) "équipements", les équipements marins énumérés aux annexes 311-1.A.1 et 311-1.A.2, qui doivent être embarqués sur un navire pour être utilisés conformément aux instruments internationaux ou au présent règlement, ou qui sont embarqués volontairement pour y être utilisés, et pour lesquels l'approbation de l'administration est requise conformément aux instruments internationaux ou au présent règlement.
 
 c) "équipements de radiocommunications" : les équipements prescrits par le chapitre 221-IV de la division 221 du présent règlement, dans sa version actualisée, et les appareils émetteurs-récepteurs radiotéléphoniques à ondes métriques des engins de sauvetage prescrits par l'article 221-III/6.2.1 du présent règlement ;
 

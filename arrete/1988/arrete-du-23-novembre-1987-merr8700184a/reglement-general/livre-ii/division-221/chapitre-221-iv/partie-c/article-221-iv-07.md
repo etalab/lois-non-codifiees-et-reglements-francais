@@ -28,7 +28,7 @@ incorporée (2) ;
 
 .6 sous réserve des dispositions de l'article 221-IV/08.3, d'une radiobalise de localisation des sinistres par satellite (RLS par satellite) (5) qui doit :
 
-.6.1 pouvoir émettre une alerte de détresse soit dans le cadre du service par satellites sur orbite polaire fonctionnant dans la bande des 406 MHz, soit, si le navire effectue seulement des voyages à l'intérieur de zones couvertes par INMARSAT, dans le cadre du service par satellites géostationnaires d'INMARSAT fonctionnant dans la bande des 1,6 GHz (6) ;
+.6.1 pouvoir émettre une alerte de détresse dans le cadre du service par satellites sur orbite polaire fonctionnant dans la bande des 406 MHz. (6) ;
 
 .6.2 être installée dans un endroit d'accès aisé ;
 

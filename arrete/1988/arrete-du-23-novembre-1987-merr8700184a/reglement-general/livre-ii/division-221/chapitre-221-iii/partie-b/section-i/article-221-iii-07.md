@@ -18,23 +18,31 @@ Engins de sauvetage individuels
 
 Pendant le séjour du navire dans un port ou sur une rade, l'une des bouées de sauvetage munie d'une ligne de lancement est placée en permanence à la coupée ou point d'accrochage de la passerelle du quai.
 
-2 Brassières de sauvetage
+2.2. Brassières de sauvetage.
 
-2.1 On doit prévoir une brassière de sauvetage satisfaisant aux prescriptions du paragraphe 2.2.1 ou du paragraphe 2.2.2 du Recueil pour chaque personne à bord et, en outre :
+2.1. On doit prévoir une brassière de sauvetage satisfaisant aux prescriptions du paragraphe 2.2.1 ou du paragraphe 2.2.2 du Recueil pour chaque personne à bord et, en outre :
 
-.1 des brassières de sauvetage spéciales pour enfants en nombre suffisant pour 10 % au moins du nombre de passagers à bord ou en plus grand nombre de sorte qu'il y ait à bord une brassière de sauvetage spéciale par enfant ; et
+.1 à bord des navires à passagers effectuant des voyages d'une durée inférieure à 24 heures, un nombre de brassières de sauvetage pour nourrisson égal au moins à 2, 5 % du nombre de passagers à bord ;
 
-.2 Un nombre suffisant de brassières de sauvetage à l'intention des personnes de quart et aux fins d'utilisation aux postes éloignés (1) d'embarcations et de radeaux de sauvetage. Les brassières de sauvetage prévues pour les personnes de quart devraient être arrimées à la passerelle, dans la salle de contrôle des machines, "à la sortie des postes principaux de manutention de la cargaison sur les navires citernes" et dans tout autre poste de quart gardé.
+.2 à bord des navires à passagers effectuant des voyages d'une durée égale ou supérieure à 24 heures, des brassières de sauvetage pour nourrisson pour tous les nourrissons à bord ;
+
+.3 des brassières de sauvetage spéciales pour enfants en nombre suffisant pour 10 % au moins du nombre de passagers à bord ou en plus grand nombre de sorte qu'il y ait à bord une brassière de sauvetage spéciale par enfant ;
+
+.4 un nombre suffisant de brassières de sauvetage à l'intention des personnes de quart et aux fins d'utilisation aux postes éloignés (*) d'embarcations et de radeaux de sauvetage. Les brassières de sauvetage prévues pour les personnes de quart devraient être arrimées à la passerelle, dans la salle de contrôle des machines, à la sortie des postes principaux de manutention de la cargaison sur les navires citernes et dans tout autre poste de quart gardé et ;
+
+(*) Se reporter au PV CCS 804/INT.01, intégré au volume 2 du présent règlement : Interprétation relative aux postes éloignés, aux combinaisons d'immersion et aux brassières de sauvetage requises aux postes éloignés à bord des navires de charge.
+
+.5 si les brassières de sauvetage pour adulte prévues ne sont pas adaptables à des personnes pesant jusqu'à 140 kg et ayant des tours de poitrine allant jusqu'à 1 750 mm, il doit y avoir à bord un nombre suffisant d'accessoires qui permettent de les attacher à ces personnes.
 
 Ces brassières doivent être réparties dans des caissons portant de façon bien apparente l'indication de leur contenu.
 
-2.2 Les brassières de sauvetage doivent être placées de manière à être rapidement accessibles et leur emplacement doit être clairement indiqué. Si, par suite des aménagements particuliers du navire, les brassières de sauvetage prévues conformément aux prescriptions du paragraphe 2.1 risquent de devenir inaccessibles, on doit prendre d'autres dispositions jugées satisfaisantes par l'administration, qui pourraient consister par exemple à augmenter le nombre des brassières de sauvetage devant être prévues à bord.
+2.2. Les brassières de sauvetage doivent être placées de manière à être rapidement accessibles et leur emplacement doit être clairement indiqué. Si, par suite des aménagements particuliers du navire, les brassières de sauvetage prévues conformément aux prescriptions du paragraphe 2.1 risquent de devenir inaccessibles, on doit prendre d'autres dispositions jugées satisfaisantes par l'administration, qui pourraient consister par exemple à augmenter le nombre des brassières de sauvetage devant être prévues à bord.
 
-2.3 Les brassières de sauvetage utilisées dans des embarcations de sauvetage complètement fermées, à l'exception des embarcations de sauvetage à mise à l'eau en chute libre, ne doivent pas empêcher de monter ou de s'asseoir dans l'embarcation de sauvetage ni de se servir des ceintures de sécurité des sièges dans l'embarcation de sauvetage.
+2.3. Les brassières de sauvetage utilisées dans des embarcations de sauvetage complètement fermées, à l'exception des embarcations de sauvetage à mise à l'eau en chute libre, ne doivent pas empêcher de monter ou de s'asseoir dans l'embarcation de sauvetage ni de se servir des ceintures de sécurité des sièges dans l'embarcation de sauvetage.
 
-2.4 Les brassières de sauvetage choisies pour les embarcations de sauvetage à mise à l'eau en chute libre et la manière dont elles sont transportées ou portées ne doivent pas gêner l'entrée dans l'embarcation de sauvetage, compromettre la sécurité des occupants ou nuire au fonctionnement de l'embarcation.
+2.4. Les brassières de sauvetage choisies pour les embarcations de sauvetage à mise à l'eau en chute libre et la manière dont elles sont transportées ou portées ne doivent pas gêner l'entrée dans l'embarcation de sauvetage, compromettre la sécurité des occupants ou nuire au fonctionnement de l'embarcation.
 
-2.5 Chaque brassière de sauvetage doit porter en majuscules imprimées en caractères romains le nom et le port d'immatriculation du navire à bord duquel elle se trouve.
+2.5. Chaque brassière de sauvetage doit porter en majuscules imprimées en caractères romains le nom et le port d'immatriculation du navire à bord duquel elle se trouve.
 
 3 Combinaisons d'immersion et combinaisons de protection contre les éléments
 

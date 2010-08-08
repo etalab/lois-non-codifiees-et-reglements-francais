@@ -182,17 +182,19 @@ Renseignements à fournir et points étudiés
 
 Fournir l'attestation de la société de classification.
 
-2) PROTECTION CONTRE LA CORROSION DES CITERNES BALLASTEES A L'EAU DE MER
+2) PROTECTION CONTRE LA CORROSION DES CITERNES BALLASTEES A L'EAU DE MER.
 
 Références résolution OMI A.997(25).
 
-Réf. CI 1.18 règle SOLAS (221-)II-1/03-2
+Réf. CI 1.18 Règle SOLAS (221-)II-1/03-2.
 
-Renseignements à -fournir et points étudiés
+Renseignements à fournir et points étudiés.
 
 Description du système.
 
 Conformité à la résolution de l'OMI A.798(19) de la procédure de sélection, d'application et de maintenance du système.
+
+Conformité à la résolution MSC215(82) normes de comportement des revêtements de protection des citernes spécialisées ballastées à l'eau de mer de tous les types de navires et des espaces de double muraille des vraquiers.
 
 3) SECURITE DE L'ACCES A L'ETRAVE DES NAVIRES CITERNES
 
@@ -210,11 +212,19 @@ Passages libres, abris : conformité à la résolution de l'OMI MSC.62(67).
 
 4) DISPOSITIF DE REMORQUAGE D'URGENCE
 
-Renseignements à -fournir, points étudiés et références résolution OMI A.997(25)
+Renseignements à fournir, points étudiés et références résolution OMI A.997(25).
 
-Descriptif simple
+Descriptif simple.
 
-Réf. CI 2.6 Règle SOLAS (221-)II-1/03-4 pour les navires citernes d'un port en lourd ≥ 20000 tonnes
+Réf. CI 2.6 Règle SOLAS (221-)II-1/03-4 dispositif de remorquage d'urgence pour les navires citernes d'un port en lourd 20 000 tonnes.
+
+Règle SOLAS (221-)II-1/03-4 procédure de remorquage d'urgence pour les navires :
+
+- navires à passagers, au plus tard le 1er janvier 2010 ;
+
+- navires de charge construits le 1er janvier 2010 ou après cette date ; et
+
+- navires de charge construits avant le 1er janvier 2010, au plus tard le 1er janvier 2012.
 
 5) INTERDICTION DE PRESENCE D'AMIANTE
 

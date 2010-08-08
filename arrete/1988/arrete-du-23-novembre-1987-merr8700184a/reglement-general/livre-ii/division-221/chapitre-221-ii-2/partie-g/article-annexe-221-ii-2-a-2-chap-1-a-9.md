@@ -614,6 +614,8 @@ Les dispositifs fixes de détection et d'alarme d'incendie à localisation d'adr
 
 .4 aucune boucle ne traverse deux fois le même local. Lorsque pareille disposition est irréalisable pour des raisons pratiques (par exemple, pour les grands locaux de réunion), la partie de la boucle qui doit traverser un local pour la deuxième fois doit être installée le plus loin possible des autres parties.
 
+2.1.5. A bord des navires à passagers, le dispositif fixe de détection et d'alarme d'incendie doit permettre d'identifier individuellement à distance chaque détecteur et avertisseur d'incendie à commande manuelle.
+
 2.2 Sources d'alimentation en énergie
 
 Le nombre de sources d'énergie qui alimentent les appareils électriques utilisés pour le fonctionnement du dispositif fixe de détection et d'alarme d'incendie ne doit pas être inférieur à deux. L'une d'entre elles doit être une source d'énergie de secours. Le courant doit être amené par des câbles électriques distincts, exclusivement réservés à cet usage et raccordés à un commutateur automatique situé sur le tableau de contrôle du dispositif de détection de l'incendie ou à proximité de ce tableau.
@@ -642,7 +644,7 @@ Le nombre de sources d'énergie qui alimentent les appareils électriques utilis
 
 2.4.1.3 Lorsque le dispositif fixe de détection et d'alarme d'incendie ne comporte pas de moyens permettant d'identifier individuellement à distance chaque détecteur, aucune section desservant plus d'un pont ne doit être normalement autorisée dans les limites des locaux d'habitation et de service et des postes de sécurité, sauf lorsque la section dessert un escalier entouré. Pour que la source d'incendie soit identifiée sans retard, les espaces fermés desservis par chaque section doivent être limités à un nombre fixé par l'Administration. On ne doit en aucun cas autoriser qu'une section quelconque desserve plus de 50 espaces fermés. Si le dispositif est muni de détecteurs d'incendie individuellement identifiables à distance, les sections peuvent couvrir plusieurs ponts et desservir un nombre quelconque d'espaces fermés.
 
-2.4.1.4 A bord des navires à passagers, en l'absence d'un dispositif fixe de détection et d'alarme d'incendie permettant d'identifier individuellement à distance chaque détecteur, une même section de détecteurs ne doit pas desservir des locaux situés des deux bords du navire, ni sur plus d'un pont, ni s'étendre sur plus d'une tranche verticale principale. Toutefois, la même section de détecteurs peut desservir des locaux situés sur plus d'un pont si ces locaux se trouvent à l'extrémité avant ou arrière du navire, ou s'ils sont agencés de manière à constituer des locaux communs sur différents ponts (par exemple, souffleries, cuisines, locaux de réunion, etc.). A bord des navires d'une largeur inférieure à 20 m, la même section de détecteurs peut desservir des locaux situés des deux bords du navire. A bord des navires à passagers munis de détecteurs d'incendie identifiables individuellement, une même section peut desservir des locaux situés des deux bords du navire et sur plusieurs ponts mais ne doit pas s'étendre sur plus d'une tranche verticale principale.
+2.4.1.4 Une même section de détecteurs et d'avertisseurs d'incendie à commande manuelle ne doit pas s'étendre sur plus d'une tranche verticale principale.
 
 2.4.2 Disposition des détecteurs
 

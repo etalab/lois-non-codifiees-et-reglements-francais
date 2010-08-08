@@ -6,9 +6,7 @@ Lutte contre l'incendie
 
 Le présent article a pour objet de permettre de confiner et d'éteindre rapidement un incendie dans le local où il a pris naissance. A cette fin, les prescriptions fonctionnelles ci-après doivent être satisfaites :
 
-.1 il faut installer des dispositifs fixes d'extinction de l'incendie qui tiennent dûment compte du
-
-potentiel de développement de l'incendie des locaux protégés ; et
+.1 il faut installer des dispositifs fixes d'extinction de l'incendie qui tiennent dûment compte du potentiel de développement de l'incendie des locaux protégés ; et
 
 .2 des appareils d'extinction de l'incendie doivent être rapidement disponibles.
 
@@ -202,12 +200,6 @@ Pour les locaux de machines, il peut être utilisé des manches de 45 mm avec aj
 
 2.3.3.4 Les ajutages doivent être d'un type combiné approuvé (jet diffusé/jet plein) et être munis d'un dispositif d'arrêt.
 
-.1 Le jet plein doit être fourni par un ajutage dont le diamètre intérieur ne doit pas être inférieur à celui qui résulte de l'application du paragraphe 2.3.3.1 ci-dessus ;
-
-.2 Le jet diffusé doit être homogène et non réglable ; il doit présenter la forme d'un cône d'angle au sommet au plus égal à 90 degrés ;
-
-.3 La commande de l'appareil doit être simple, commode, rapide et non réglable, pour pouvoir être manœuvrée avec sûreté. La position arrêt doit pouvoir être obtenue sans passer par la position jet plein .
-
 Les robinets d'incendie, les manches, les lances, les raccords symétriques, et autres matériels visés par le présent article doivent être d'un type approuvé.
 
 3 Extincteurs d'incendie portatifs
@@ -276,11 +268,7 @@ Les récipients de stockage de gaz carbonique faisant partie d'installations fix
 
 Lorsque le gaz carbonique est utilisé pour le dispositif fixe d'extinction des conduits d'évacuation des fourneaux de cuisine, les récipients contenant le gaz carbonique peuvent être entreposés à l'intérieur de la cuisine, sous réserve que les moyens de déclenchement et de libération du gaz soient situés à proximité immédiate de la porte (ou de l'une des portes) d'évacuation de la cuisine.
 
-L'entreposage, dans un local de machines de catégorie A d'une quantité limitée de gaz carbonique
-
-faisant partie d'une installation fixe destinée à l'extinction des collecteurs de balayage peut être
-
-autorisé sous réserve du respect des conditions cumulatives suivantes :
+L'entreposage, dans un local de machines de catégorie A d'une quantité limitée de gaz carbonique faisant partie d'une installation fixe destinée à l'extinction des collecteurs de balayage peut être autorisé sous réserve du respect des conditions cumulatives suivantes :
 
 - la quantité totale du gaz carbonique entreposé n'excède pas l'équivalent de 10 bouteilles de 45 kg sous une pression de 200 bars ;
 
@@ -404,11 +392,13 @@ A bord des navires de charge protégés selon la méthode IIC spécifiée à l'a
 
 6.4 Matériel de friture
 
-Le matériel de friture doit être équipé des dispositifs suivants :
+Le matériel de friture installé dans des locaux fermés ou sur des ponts découverts doit être équipé des dispositifs suivants :
 
-.1 un dispositif d'extinction automatique ou manuel qui ait été mis à l'essai conformément à une norme internationale (3) jugée acceptable par l'Organisation ;
+.1 un dispositif d'extinction automatique ou manuel qui ait été mis à l'essai conformément à une norme internationale (*) jugée acceptable par l'Organisation ;
 
-.2 un thermostat principal et un thermostat de réserve pourvus d'une alarme destinée à alerter l'utilisateur en cas de défaillance de l'un ou l'autre des thermostats ;
+(*) Se reporter aux recommandations de l'Organisation internationale de normalisation, en particulier, la publication ISO 15371 2000. "Dispositifs d'extinction de l'incendie destinés à assurer la protection du matériel de friture des cuisines".
+
+2 un thermostat principal et un thermostat de réserve pourvus d'une alarme destinée à alerter l'utilisateur en cas de défaillance de l'un ou l'autre des thermostats ;
 
 .3 un dispositif permettant de couper automatiquement l'alimentation en énergie électrique lorsque le dispositif d'extinction se met en marche ;
 
@@ -489,6 +479,12 @@ A bord des navires de charge autres que des navires-citernes qui s'éloignent de
 10.2.4 L'Administration peut exiger des jeux supplémentaires d'équipements individuels et d'appareils respiratoires, en tenant dûment compte des dimensions et du type du navire.
 
 10.2.5 Il doit être prévu, pour chaque appareil respiratoire exigé, deux bouteilles de rechange. A bord des navires à passagers ne transportant pas plus de 36 passagers et des navires de charge qui disposent à bord, dans des emplacements appropriés, de systèmes permettant de recharger complètement les bouteilles d'air sans les contaminer, seule une bouteille de rechange est nécessaire pour chaque appareil requis. A bord des navires à passagers transportant plus de 36 passagers, au moins deux bouteilles de rechange pour chaque appareil respiratoire doivent être prévues.
+
+10.2.6. Les navires à passagers transportant plus de 36 passagers construits le 1er juillet 2010 ou après cette date doivent disposer à bord, dans des emplacements appropriés, de moyens permettant de recharger complètement les bouteilles d'air sans les contaminer. Ces moyens de recharge doivent être :
+
+.1 soit des compresseurs d'air respirable alimentés par le tableau principal et par le tableau de secours ou fonctionnant de manière autonome et ayant un débit qui soit égal ou supérieur à 60 l/min par appareil respiratoire requis mais qui ne dépasse pas 420 l/min ;
+
+.2 soit des systèmes de stockage en récipients autonomes sous pression ayant une pression suffisante pour recharger les appareils respiratoires utilisés à bord et une capacité d'au moins 1 200 l par appareil respiratoire requis mais ne dépassant pas 50 000 l d'air libre.
 
 10.3 Entreposage des équipements de pompier
 

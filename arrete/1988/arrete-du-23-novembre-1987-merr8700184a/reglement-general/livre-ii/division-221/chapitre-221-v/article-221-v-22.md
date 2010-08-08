@@ -33,3 +33,11 @@ Visibilité à la passerelle de navigation
 2 Les navires construits avant le 1er juillet 1998 doivent, si cela est possible dans la pratique, satisfaire aux prescriptions des paragraphes 1.1 et 1.2. Toutefois, il n'est pas nécessaire d'exiger que des modifications soient apportées à leur structure ou que du matériel soit prévu en supplément.
 
 3 A bord des navires de conception classique qui, de l'avis de l'Administration, ne peuvent satisfaire à la présente règle, des dispositions doivent être prévues pour assurer un degré de visibilité aussi proche que possible de celui prescrit dans la présente règle.
+
+4. Nonobstant les prescriptions des paragraphes 1.1, 1.3, 1.4 et 1.5, il peut être procédé au renouvellement des eaux de ballast si les conditions suivantes sont remplies :
+
+.1 le capitaine a établi que cette opération pouvait être effectuée en toute sécurité et tient compte de toute augmentation des zones aveugles ou de toute réduction du champ de vision horizontal qui en résulteraient de manière à s'assurer qu'une veille visuelle appropriée est maintenue à tout moment ;
+
+.2 l'opération est effectuée conformément au plan de gestion des eaux de ballast du navire, compte tenu des recommandations sur le renouvellement des eaux de ballast adoptées par l'Organisation ; et
+
+.3 le début et la fin de l'opération sont consignés dans le registre des activités de navigation du navire conformément à l'article 221-V/28.

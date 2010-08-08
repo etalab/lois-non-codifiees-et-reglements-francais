@@ -11,3 +11,4 @@
 - [Partie A : Généralités.](partie-a)
 - [Partie B : Compartimentage et stabilité (1).](partie-b)
 - [Partie E : Prescriptions supplémentaires applicables aux locaux de machines exploités sans présence permanente de personnel.](partie-e)
+- [Partie F : Autres conceptions et dispositifs](partie-f)

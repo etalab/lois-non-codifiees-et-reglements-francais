@@ -10,11 +10,13 @@ Evaluation, mise à l'essai et approbation des engins et des dispositifs de sauv
 
 .2 ont subi avec succès, à la satisfaction de l'administration, des essais qui sont équivalents pour l'essentiel aux essais prescrits dans ces recommandations.
 
-3 Avant d'approuver des engins ou des dispositifs de sauvetage nouveaux, l'administration doit vérifier que ces engins ou dispositifs :
+3 Avant d'approuver des engins ou des dispositifs de sauvetage nouveaux, l'administration doit vérifier que :
 
-.1 assurent un degré de sécurité au moins égal à celui qui est exigé par les prescriptions du présent chapitre et du Recueil et ont été évalués et mis à l'essai conformément aux recommandations de l'Organisation (2) ; ou
+.1 ces engins assurent un degré de sécurité au moins égal à celui qui est exigé par les prescriptions du présent article et du Recueil et ont été évalués et mis à l'essai compte tenu des directives élaborées par l'OMI (*) ; ou
 
-.2 ont subi avec succès, à la satisfaction de l'administration, une évaluation et des essais qui sont équivalents pour l'essentiel à l'évaluation et aux essais prescrits dans ces recommandations.
+(*) Se reporter aux directives que doit élaborer l'Organisation.
+
+.2. ces dispositifs ont fait l'objet d'une analyse technique, ont été évalués et ont été approuvés conformément à l'article 221-III/38.
 
 4 Les procédures d'approbation adoptées par l'administration doivent porter également sur les conditions dans lesquelles l'approbation demeurera valable ou sera retirée.
 

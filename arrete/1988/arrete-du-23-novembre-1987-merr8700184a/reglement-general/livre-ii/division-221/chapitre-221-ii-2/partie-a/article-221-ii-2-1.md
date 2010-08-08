@@ -36,6 +36,8 @@ Application
 
 .5 des articles 221-II-2/5.3.1.3.2 et 221-II-2/5.3.4 applicables aux navires à passagers au plus tard à la date de la première visite postérieure au 1er juillet 2008.
 
+2. 3. Les navires construits le 1er juillet 2002 ou après cette date mais avant le 1er juillet 2010 doivent satisfaire aux dispositions des paragraphes 7. 1. 1, 7. 4. 4. 2, 7. 4. 4. 3 et 7. 5. 2. 1. 2 de la règle 9 adoptée par la résolution MSC. 99 (73).
+
 3 Réparations, transformations, modifications et aménagements
 
 3.1 Tous les navires sur lesquels sont effectuées des réparations, des modifications ou des transformations, ainsi que les aménagements qui en résultent, doivent continuer à satisfaire au moins aux prescriptions qui leur étaient déjà applicables. S'ils ont été construits avant le 1er juillet 2002, ces navires doivent, en règle générale, satisfaire aux prescriptions applicables aux navires construits le 1er juillet 2002 ou après cette date au moins dans la même mesure qu'avant d'avoir subi ces réparations, modifications, transformations ou aménagements.
@@ -89,11 +91,3 @@ Sauf disposition expresse contraire :
 6.6 Les navires-citernes pour produits chimiques et les transporteurs de gaz doivent satisfaire aux prescriptions applicables aux navires-citernes, à moins qu'il ne soit prévu des dispositions de remplacement et complémentaires jugées satisfaisantes par l'Administration, compte dûment tenu des dispositions du Recueil international de règles sur les transporteurs de produits chimiques et du Recueil international de règles sur les transporteurs de gaz, selon le cas.
 
 6.7 Les dispositifs prescrits aux articles 221-II-2/4.5.10.1.1 et 221-II-2/4.5.10.1.4 et un système de surveillance continue de la concentration des gaz d'hydrocarbures doivent être installés à bord de tous les navires-citernes construits avant le 1er juillet 2002 avant la date de la première mise en cale sèche prévue après le 1er juillet 2002, et au plus tard le 1er juillet 2005. Les points d'échantillonnage ou les cellules de détection doivent être situés à des endroits appropriés afin que les fuites potentiellement dangereuses puissent être détectées rapidement. Lorsque la concentration des gaz d'hydrocarbures atteint un niveau prédéterminé, lequel ne doit pas être supérieur à 10 % de la limite inférieure d'inflammabilité, un signal d'alarme sonore et visuel continu doit se déclencher automatiquement dans la chambre des pompes et au poste de surveillance de la cargaison afin d'avertir le personnel qu'il existe un risque. Toutefois, si les dispositifs de surveillance qui sont déjà installés sont réglés pour une concentration ne dépassant pas 30 % de la limite inférieure d'inflammabilité, ils peuvent être acceptés.
-
-(1) Se reporter à l'assentiment donné par l'État du port aux exemptions accordées en vertu de la Convention SOLAS (MSC/Circ.606).
-
-(2) Se reporter aux Directives relatives aux critères d'efficacité et d'essai et à l'inspection des liquides émulseurs à foisonnement utilisés dans les dispositifs fixes d'extinction de l'incendie des navires-citernes pour produits chimiques (MSC/Circ.799).
-
-(3) Se reporter aux renseignements sur le point d'éclair des produits chimiques auxquels ne s'appliquent ni le Recueil BCH ni le Recueil IBC et sur les agents appropriés d'extinction de l'incendie (MSC/Circ.553).
-
-(4) Se reporter aux Directives révisées sur les dispositifs à gaz inerte (MSC/Circ.353), telles que modifiées par la circulaire MSC/Circ.387.
