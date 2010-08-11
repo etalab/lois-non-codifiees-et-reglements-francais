@@ -14,5 +14,6 @@
 - [LOI n° 2010-853 du 23 juillet 2010 (ECEX0913300L)](loi-n-2010-853-du-23-juillet-2010-ecex0913300l)
 - [LOI n° 2010-873 du 27 juillet 2010 (MAEX0912977L)](loi-n-2010-873-du-27-juillet-2010-maex0912977l)
 - [LOI n° 2010-874 du 27 juillet 2010 (AGRS0928330L)](loi-n-2010-874-du-27-juillet-2010-agrs0928330l)
+- [LOI n° 2010-930 du 9 août 2010 (JUSX0500268L)](loi-n-2010-930-du-9-aout-2010-jusx0500268l)
 - [Loi n° 72-659 du 13 juillet 1972](loi-n-72-659-du-13-juillet-1972)
 - [LOI n°2010-241 du 10 mars 2010 (PRMX0925425L)](loi-n2010-241-du-10-mars-2010-prmx0925425l)
