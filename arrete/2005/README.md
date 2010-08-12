@@ -349,7 +349,6 @@
 - [Arrêté du 18 avril 2005 (ECOP0500221A)](arrete-du-18-avril-2005-ecop0500221a)
 - [Arrêté du 18 avril 2005 (EQUA0500597A)](arrete-du-18-avril-2005-equa0500597a)
 - [Arrêté du 18 avril 2005 (FPPA0500024A)](arrete-du-18-avril-2005-fppa0500024a)
-- [Arrêté du 18 avril 2005 (PRMX0508204A)](arrete-du-18-avril-2005-prmx0508204a)
 - [Arrêté du 18 avril 2005 (SANS0521461A)](arrete-du-18-avril-2005-sans0521461a)
 - [Arrêté du 18 avril 2005 (SOCF0510755A)](arrete-du-18-avril-2005-socf0510755a)
 - [Arrêté du 18 février 2005 (ECOC0500047A)](arrete-du-18-fevrier-2005-ecoc0500047a)
