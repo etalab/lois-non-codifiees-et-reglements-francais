@@ -2168,7 +2168,6 @@
 - [Arrêté du 23 septembre 2009 (IOCE0922115A)](arrete-du-23-septembre-2009-ioce0922115a)
 - [Arrêté du 23 septembre 2009 (IOCE0922162A)](arrete-du-23-septembre-2009-ioce0922162a)
 - [Arrêté du 23 septembre 2009 (JUSC0921182A)](arrete-du-23-septembre-2009-jusc0921182a)
-- [Arrêté du 23 septembre 2009 (MCCL0907023A)](arrete-du-23-septembre-2009-mccl0907023a)
 - [Arrêté du 23 septembre 2009 (MENF0909658A)](arrete-du-23-septembre-2009-menf0909658a)
 - [Arrêté du 23 septembre 2009 (SASH0922158A)](arrete-du-23-septembre-2009-sash0922158a)
 - [Arrêté du 23 mai 2008 (DEFD0820230A)](arrete-du-23-mai-2008-defd0820230a)
