@@ -42,7 +42,7 @@ Par arrêté de la ministre de l'économie, de l'industrie et de l'emploi en dat
 <td width="15%"/>
 <td width="8%"/>
 <td width="74%">
-<p>Secrétaire général de la direction régionale et interdépartementale de l'environnement et de l'énergie d'Ile-de-France </p>
+<p>Secrétaire général de la direction régionale de l'industrie, de la recherche et de l'environnement d'Ile-de-France</p>
 </td>
 </tr>
 <tr>
@@ -70,7 +70,7 @@ Par arrêté de la ministre de l'économie, de l'industrie et de l'emploi en dat
 <td width="15%"/>
 <td width="8%"/>
 <td width="74%">
-<p>Chef du centre national de réception des véhicules à la direction régionale et interdépartementale de l'environnement et de l'énergie d'Ile-de-France</p>
+<p>Chef du Centre national de réception des véhicules à la direction régionale de l'industrie, de la recherche et de l'environnement d'Ile-de-France</p>
 </td>
 </tr>
 <tr>
@@ -95,9 +95,7 @@ Par arrêté de la ministre de l'économie, de l'industrie et de l'emploi en dat
 </td>
 </tr>
 <tr>
-<td width="15%">
-<p align="center">04/01/2010</p>
-</td>
+<td width="15%"/>
 <td width="8%"/>
 <td width="74%">
 <p>Chef de la division environnement industriel et sous-sol à la direction régionale de l'industrie, de la recherche et de l'environnement du Limousin</p>
@@ -120,34 +118,19 @@ Par arrêté de la ministre de l'économie, de l'industrie et de l'emploi en dat
 </td>
 </tr>
 <tr>
-<td align="center" width="15%">04/01/2010<br/>
-</td>
+<td width="15%"/>
 <td width="8%"/>
 <td width="74%">
 <p>Chargé de mission auprès du directeur à la direction régionale de l'industrie, de la recherche et de l'environnement de Lorraine, chef de la division contrôles techniques et énergie</p>
 </td>
 </tr>
 <tr>
-<td/>
-<td align="center">04/01/2010</td>
-<td>
-<p align="left">Chef du service prévention des risques à la direction régionale de l'environnement, de l'aménagement et du logement de Lorraine </p>
-</td>
-</tr>
-<tr>
 <td width="15%">
-<p align="center">04/01/2010</p>
+<p align="center">01/10/2010</p>
 </td>
 <td width="8%"/>
 <td width="74%">
 <p>Secrétaire général de la direction régionale de l'industrie, de la recherche et de l'environnement de Bourgogne</p>
-</td>
-</tr>
-<tr>
-<td/>
-<td align="center">04/01/2010</td>
-<td>
-<p align="left">Délégué aux ressources humaines de la direction régionale de l'environnement, de l'aménagement et du logement de Bourgogne.</p>
 </td>
 </tr>
 <tr>
@@ -161,7 +144,7 @@ Par arrêté de la ministre de l'économie, de l'industrie et de l'emploi en dat
 <td width="15%"/>
 <td width="8%"/>
 <td width="74%">
-<p>Responsable de l'unité territoriale de Seine-et-Marne de la direction régionale et interdépartementale de l'environnement et de l'énergie d'Ile-de-France </p>
+<p>Chef du groupe de subdivisions de Seine-et-Marne à la direction régionale de l'industrie, de la recherche et de l'environnement d'Ile-de-France</p>
 </td>
 </tr>
 <tr>
@@ -183,9 +166,7 @@ Par arrêté de la ministre de l'économie, de l'industrie et de l'emploi en dat
 </td>
 </tr>
 <tr>
-<td width="15%">
-<p align="center">04/01/2010</p>
-</td>
+<td width="15%"/>
 <td width="8%"/>
 <td width="74%">
 <p>Chef de la division environnement et sous-sol à la direction régionale de l'industrie, de la recherche et de l'environnement du Centre</p>
@@ -217,9 +198,7 @@ Par arrêté de la ministre de l'économie, de l'industrie et de l'emploi en dat
 </td>
 </tr>
 <tr>
-<td width="15%">
-<p align="center">04/01/2010</p>
-</td>
+<td width="15%"/>
 <td width="8%"/>
 <td width="74%">
 <p>Directeur régional de l'industrie, de la recherche et de l'environnement du Limousin</p>
@@ -250,58 +229,6 @@ Par arrêté de la ministre de l'économie, de l'industrie et de l'emploi en dat
 </td>
 <td width="74%">
 <p>Chargé de mission auprès du chef du service de l'industrie à la direction générale de la compétitivité, de l'industrie et des services</p>
-</td>
-</tr>
-<tr>
-<td/>
-<td>04/01/2010</td>
-<td>
-<p align="left">Chef du service environnement industriel et risques à la direction régionale de l'environnement, de l'aménagement et du logement du Centre.</p>
-</td>
-</tr>
-<tr>
-<td>
-<br/>
-</td>
-<td>
-<p align="left">04/01/2010</p>
-</td>
-<td>
-<p align="left">Chef du service prévention des pollutions, des risques et du contrôle des transports de la direction régionale de l'environnement, de l'aménagement et du logement du Limousin.</p>
-</td>
-</tr>
-<tr>
-<td>
-<br/>
-</td>
-<td>
-<p align="left">04/01/2010</p>
-</td>
-<td>
-<p align="left">Adjoint au directeur régional de l'environnement, de l'aménagement et du logement du Limousin.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center">15/02/2010</p>
-</td>
-<td/>
-<td>
-<p align="left">Chef de la division développement industriel régional à la direction régionale de l'industrie, de la recherche et de l'environnement de Bretagne.<br/>
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<br/>
-</td>
-<td>
-<p align="left">15/02/2010</p>
-</td>
-<td>
-<p align="left">Chef du service développement des entreprises au pôle 3E de la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi de Bretagne.<br/>
-</p>
 </td>
 </tr>
 </tbody>
