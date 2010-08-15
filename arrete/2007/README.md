@@ -346,7 +346,6 @@
 - [Arrêté du 11 octobre 2007 (DEFF0768423A)](arrete-du-11-octobre-2007-deff0768423a)
 - [Arrêté du 11 octobre 2007 (MENH0766811A)](arrete-du-11-octobre-2007-menh0766811a)
 - [Arrêté du 11 octobre 2007 (SJSH0768064A)](arrete-du-11-octobre-2007-sjsh0768064a)
-- [Arrêté du 11 septembre 2007 (AGRF0763224A)](arrete-du-11-septembre-2007-agrf0763224a)
 - [Arrêté du 11 septembre 2007 (BCFB0755528A)](arrete-du-11-septembre-2007-bcfb0755528a)
 - [Arrêté du 11 septembre 2007 (BCFB0755530A)](arrete-du-11-septembre-2007-bcfb0755530a)
 - [Arrêté du 11 septembre 2007 (DEVU0763733A)](arrete-du-11-septembre-2007-devu0763733a)
