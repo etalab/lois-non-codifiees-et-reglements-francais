@@ -1,7 +1,6 @@
 # Article Annexe
 
-**RAPPORTS DES ORGANISMES DE CONTRÔLE (ARTICLE 2 DE L'**
-ARRÊTÉ DU 21 DÉCEMBRE 2007 **RELATIF AUX TITRES DE NAVIGATION DES BÂTIMENTS ET ÉTABLISSEMENTS FLOTTANTS NAVIGUANT OU STATIONNANT SUR LES EAUX INTÉRIEURES)**
+RAPPORTS DES ORGANISMES DE CONTRÔLE (ARTICLE 2 DE L'ARRÊTÉ DU 21 DÉCEMBRE 2007 RELATIF AUX TITRES DE NAVIGATION DES BÂTIMENTS ET ÉTABLISSEMENTS FLOTTANTS NAVIGUANT OU STATIONNANT SUR LES EAUX INTÉRIEURES)
 
 I. ― Le rapport de chacun des organismes de contrôle doit être rédigé en français, de manière claire, lisible et utiliser une terminologie conforme aux textes et normes en usage. Il doit comporter les éléments suivants :
 
@@ -13,9 +12,7 @@ I. ― Le rapport de chacun des organismes de contrôle doit être rédigé en f
 
 - domaines de compétence parmi la liste du II de la présente annexe ;
 
-- curriculum vitae des personnes ayant procédé au contrôle indiquant la liste des diplômes obtenus et l'expérience professionnelle dans les domaines de compétence cités ;
-
-- attestation d'assurance garantissant la responsabilité civile.
+- curriculum vitae des personnes ayant procédé au contrôle indiquant la liste des diplômes obtenus et l'expérience professionnelle dans les domaines de compétence cités.
 
 2. Un dossier technique composé des éléments suivants :
 

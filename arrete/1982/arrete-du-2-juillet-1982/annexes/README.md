@@ -10,3 +10,4 @@
 - [Article Annexe 7](article-annexe-7.md)
 - [Article Annexe 10](article-annexe-10.md)
 - [Article Annexe 11](article-annexe-11.md)
+- [Article Annexe 12](article-annexe-12.md)
