@@ -1,11 +1,13 @@
 # Article 3
 
-La formation à la capacité de gestion visée à l'article 1er est dispensée par des organismes agréés à ce titre par le préfet.
+L'activité de formation à la capacité de gestion est conditionnée par l'obtention d'un agrément préfectoral.
 
-Tout organisme qui entend être agréé pour organiser cette formation doit avoir établi une déclaration préalable dans les conditions prévues à l'article L. 920-4 du code du travail.
+La personne physique ressortissante d'un Etat membre de l'Union européenne ou d'un Etat partie à l'accord sur l'Espace économique européen qui souhaite dispenser la formation de façon temporaire et occasionnelle peut également solliciter un agrément.
 
-Le dossier de demande d'agrément comporte les éléments prévus à l'annexe II du présent arrêté.
+Dans tous les cas, un dossier de demande d'agrément comportant les éléments prévus à l'annexe II du présent arrêté doit être constitué. Ce dossier est déposé auprès du préfet du lieu ou d'un des lieux où il exercera son activité.
 
-Au vu du dossier, l'agrément est délivré par le préfet du département du siège social de l'organisme.
+Le préfet accuse réception de ce dossier dans un délai d'un mois et l'informe, le cas échéant, de tout document manquant.L'accusé de réception mentionne les délais et voies de recours pouvant courir contre la décision du préfet. Il mentionne également qu'à compter de la date de réception du dossier complet le préfet a deux mois pour donner son avis, et qu'à défaut une décision implicite d'acceptation intervient.
 
-Le préfet dresse la liste de ces organismes.
+La validité d'un agrément s'étend à l'ensemble du territoire national. Une personne agréée peut intervenir dans plusieurs départements. Toutefois, préalablement à la mise en œuvre d'une formation, une copie de l'agrément doit être transmise au préfet de chaque département concerné.
+
+Le préfet tient à jour la liste des agréments pour cette formation dans son département.

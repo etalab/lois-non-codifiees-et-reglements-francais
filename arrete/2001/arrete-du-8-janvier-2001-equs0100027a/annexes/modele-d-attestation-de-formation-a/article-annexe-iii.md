@@ -1,12 +1,10 @@
 # Article ANNEXE III
 
-Attestation de formation à la capacité de gestion pour les exploitants des établissements d'enseignement de la conduite
+Attestation de formation à la capacité de gestion pour les exploitants des établissements d'enseignement de la conduite et de la sécurité routière
 
-Nom de l'organisme :
+Nom du titulaire de l'agrément :
 
-N° de déclaration préalable prévue par l'article L. 920-4 du code du travail :
-
-N° SIRET ou SIREN :
+N° SIRET ou SIREN le cas échéant :
 
 Adresse :
 
@@ -20,16 +18,14 @@ Prénom :
 
 Adresse :
 
-a satisfait aux conditions d'assiduité et d'évaluation de la formation à la capacité de gestion
+a satisfait aux conditions d'assiduité et d'évaluation de la formation à la capacité de gestion dispensée du au
 
-dispensée du  au
-
-A (lieu)
+à (lieu)
 
 N° de l'attestation :
 
 Date :
 
-Signature du bénéficiaire de la formation
+Cachet et signature Signature du bénéficiaire
 
-Cachet et signature de l'organisme
+du titulaire de l'agrément de la formation
