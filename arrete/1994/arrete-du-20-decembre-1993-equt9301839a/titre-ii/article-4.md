@@ -4,9 +4,9 @@ En application du paragraphe a de l'article 4 du décret du 5 mars 1990 susvisé
 
 diplôme ou titre de fin d'études attestant que l'élève a suivi avec succès la totalité de la scolarité si l'établissement ne délivre pas ce diplôme, spécialisé en transport ou comportant une option Transport, et homologué de droit ou par la commission technique d'homologation des titres et diplômes de l'enseignement technologique au minimum au niveau III ;
 
-- diplôme de fin d'études de l'école de maîtrise du transport routier (E.M.T.R.) ;
+- certificat de l'école de maîtrise du transport routier (EMTR) délivré par PROMOTRANS ;
 
-- diplôme de fin d'études de l'école du transport et de la logistique (E.T.L.) ;
+- diplôme de fin d'études de l'Institut supérieur du transport et de la logistique internationale (ISTELI)  ;
 
 - brevet professionnel de transport et des activités auxiliaires, option Auxiliaire de transport.
 

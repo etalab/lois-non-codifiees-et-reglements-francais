@@ -933,7 +933,6 @@
 - [Arrêté du 28 avril 1997 (MENF9701136A)](arrete-du-28-avril-1997-menf9701136a)
 - [Arrêté du 28 avril 1997 (TASA9721346A)](arrete-du-28-avril-1997-tasa9721346a)
 - [Arrêté du 28 avril 1997 (TASH9721546A)](arrete-du-28-avril-1997-tash9721546a)
-- [Arrêté du 28 décembre 1976](arrete-du-28-decembre-1976)
 - [Arrêté du 28 février 1997 (INDG9700162A)](arrete-du-28-fevrier-1997-indg9700162a)
 - [Arrêté du 28 février 1997 (INDG9700211A)](arrete-du-28-fevrier-1997-indg9700211a)
 - [Arrêté du 28 février 1997 (INDM9700116A)](arrete-du-28-fevrier-1997-indm9700116a)

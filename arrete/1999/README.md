@@ -60,7 +60,6 @@
 - [Arrêté du 3 juin 1999 (ECOT9920035A)](arrete-du-3-juin-1999-ecot9920035a)
 - [Arrêté du 3 mars 1999 (DEFT9901286A)](arrete-du-3-mars-1999-deft9901286a)
 - [Arrêté du 3 mars 1999 (ECOP9900110A)](arrete-du-3-mars-1999-ecop9900110a)
-- [Arrêté du 3 septembre 1999 (EQUT9901268A)](arrete-du-3-septembre-1999-equt9901268a)
 - [Arrêté du 3 septembre 2001 (AGRA0101199A)](arrete-du-3-septembre-2001-agra0101199a)
 - [Arrêté du 3 mai 1999 (AGRA9900880A)](arrete-du-3-mai-1999-agra9900880a)
 - [Arrêté du 3 mai 1999 (DEFT9901502A)](arrete-du-3-mai-1999-deft9901502a)

@@ -14,8 +14,6 @@ Le dossier de demande d'inscription au registre des courtiers de fret fluvial pr
 
 6° Un certificat de non-faillite, liquidation ou règlement judiciaire s'il s'agit d'une entreprise déjà inscrite au registre du commerce pour une activité quelconque ;
 
-7° L'attestation justifiant que l'entreprise à créer dispose des ressources nécessaires pour assurer sa mise en marche, ou que l'entreprise déjà établie est en mesure de faire face aux obligations qu'elle contracte ;
+7° S'il y a lieu, la justification de l'acquittement, dans les délais prescrits, des obligations de l'entreprise envers les administrations fiscales et les organismes de sécurité sociale et d'allocations familiales.
 
-8° S'il y a lieu, la justification de l'acquittement, dans les délais prescrits, des obligations de l'entreprise envers les administrations fiscales et les organismes de sécurité sociale et d'allocations familiales.
-
-(1) L'annexe du présent arrêté fait l'objet d'une publication au Bulletin officiel du ministère de l'équipement, du logement, des transports et du tourisme n° 97-07 du 25 avril 1997. Il est disponible à la Direction des Journaux officiels, 26, rue Desaix, 75015 Paris, au prix de 19,90 F.
+(1) L'annexe du présent arrêté fait l'objet d'une publication au Bulletin officiel du ministère de l'équipement, du logement, des transports et du tourisme n° 97-07 du 25 avril 1997.
