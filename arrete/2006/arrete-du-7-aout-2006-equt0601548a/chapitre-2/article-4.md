@@ -1,0 +1,5 @@
+# Article 4
+
+I. - En cas de modification substantielle d'une installation existante, les règles techniques et de sécurité contenues dans l'annexe " conception générale des téléskis " au présent arrêté s'appliquent à la conception générale des parties nouvelles ou modifiées, sans préjudice des dispositions du décret du 9 mai 2003 susvisé relatif à la mise sur le marché des constituants et sous-systèmes assurant la sécurité des remontées mécaniques relatives à l'analyse de sécurité, aux constituants de sécurité et aux sous-systèmes.
+
+II. - Lorsque l'application des règles techniques et de sécurité mentionnées au I est incompatible avec les règles techniques et de sécurité en vigueur lors de la délivrance de la première autorisation de travaux, l'installation modifiée doit au minimum rester conforme aux règles techniques et de sécurité d'origine, sans être antérieures à celles fixées par l'instruction du 28 juin 1979 modifiée relative à la construction et l'exploitation des téléskis.
