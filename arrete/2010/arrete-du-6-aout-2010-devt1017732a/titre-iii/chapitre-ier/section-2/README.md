@@ -1,0 +1,3 @@
+# SECTION 2 : COMPETENCES LINGUISTIQUES
+
+- [Article 26](article-26.md)
