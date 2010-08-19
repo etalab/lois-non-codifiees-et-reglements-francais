@@ -64,7 +64,7 @@ Centre d'études mexicaines et centraméricaines (Mexico).
 
 Nigeria
 
-Centre culturel français de Lagos.
+Institut français de recherche en Afrique du Nigeria.
 
 Ouzbékistan
 
@@ -174,9 +174,7 @@ Institut français de Sofia.
 
 Burkina Faso
 
-Centre culturel de Ouagadougou.
-
-Centre culturel de Bobo Dioulasso.
+Annexe de l'Institut français du Burkina Faso.
 
 Burundi
 
@@ -288,9 +286,11 @@ centre culturel français Alexandre-Dumas de Tbilissi.
 
 Grande-Bretagne
 
-Institut français d'Écosse (Édimbourg).
-
 Institut français du Royaume-Uni (Londres).
+
+Institut français du Royaume-Uni - annexe d'Edimbourg - Institut français d'Ecosse.
+
+(à compter du 1er septembre 2010)
 
 Grèce
 
