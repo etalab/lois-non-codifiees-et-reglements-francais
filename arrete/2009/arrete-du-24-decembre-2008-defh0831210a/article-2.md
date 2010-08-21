@@ -36,7 +36,7 @@ En application de l'article 3 du décret n° 2008-1314 du 12 décembre 2008 et d
 
 - adjoint au sous-directeur de la réglementation et de la gestion du service national à la direction du service national ;
 
-- adjoint au sous-directeur des affaires financières et du soutien à la direction du service national ;
+- adjoint au sous-directeur des ressources humaines à la direction du service national ;
 
 - directeur du bureau du service national de Toulouse ;
 
