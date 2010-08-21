@@ -415,7 +415,7 @@ LISTE DES AGENTS CONSERVATEURS QUE PEUVENT CONTENIR LES PRODUITS COSMETIQUES
 </td>
 <td valign="top" width="21%">
 <p align="center">Critères de pureté :</p>
-<p align="center">3-3'-4-4'-Tétrachloro-azobenzène &lt; 1 ppm ;</p>
+<p align="center">3-3'-4-4'-Tétrachloro-azobenzène    &lt; 1 ppm ;</p>
 <p align="center">3-3'-4-4'-Tétrachloro-azoxybenzène &lt; 1 ppm.</p>
 </td>
 <td valign="top" width="17%">
@@ -996,13 +996,30 @@ LISTE DES AGENTS CONSERVATEURS QUE PEUVENT CONTENIR LES PRODUITS COSMETIQUES
 <td/>
 </tr>
 <tr>
+<td>
+<p align="center">58</p>
+</td>
+<td>
+<p align="center">Ethyl Lauroyl Arginate HCl (INCI) (*) (5) </p>
+<p>N alpha-dodécanoyl-L-arginate d'éthyle, hydrochloré </p>
+<p>N° CAS 60372-77-2 </p>
+<p>N° CE 434-630-6 </p>
+</td>
+<td>
+<p align="center">0,4 %</p>
+</td>
+<td>
+<p align="center">Ne pas utiliser dans les produits pour les lèvres, les produits bucco-dentaires et les sprays. </p>
+</td>
+<td/>
+</tr>
+<tr>
 <td colspan="5" valign="top" width="100%">
 <p align="left">(1) Uniquement pour les produits qui pourraient éventuellement être utilisés pour les soins d'enfants en dessous de 3 ans et qui restent en contact prolongé avec la peau.</p>
 <p align="left">(2) Concerne tous les produits destinés à être appliqués sur une partie étendue du corps.</p>
-<p align="left">(3) Uniquement pour les produits, autres que les produits de bains/gels douche et shampooings, susceptibles d'être utilisés pour des</p>
-<p align="left">enfants âgés de moins de 3 ans.</p>
+<p align="left">(3) Uniquement pour les produits, autres que les produits de bains/gels douche et shampooings, susceptibles d'être utilisés pour des enfants âgés de moins de 3 ans.</p>
 <p align="left">(4) Uniquement pour les produits susceptibles d'être utilisés pour des enfants âgés de moins de 3 ans.</p>
-<br/>
+<p align="left">(5) Pour des utilisations autres que comme agent conservateur, voir au numéro d'ordre 207 de l'arrêté du 6 février 2001 modifié fixant la liste des substances qui ne peuvent être utilisées dans les produits cosmétiques en dehors des restrictions et conditions fixées par cette liste.</p>
 </td>
 </tr>
 </tbody>
