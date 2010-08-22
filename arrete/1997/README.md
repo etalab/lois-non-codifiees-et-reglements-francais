@@ -926,8 +926,6 @@
 - [Arrêté du 27 mai 1997 (TASP9721898A)](arrete-du-27-mai-1997-tasp9721898a)
 - [Arrêté du 27 mai 1997 (TAST9710746A)](arrete-du-27-mai-1997-tast9710746a)
 - [Arrêté du 28 août 1997 (DEFP9701876A)](arrete-du-28-aout-1997-defp9701876a)
-- [Arrêté du 28 août 1997 (ECOI9700508A)](arrete-du-28-aout-1997-ecoi9700508a)
-- [Arrêté du 28 août 1997 (ECOI9700509A)](arrete-du-28-aout-1997-ecoi9700509a)
 - [Arrêté du 28 août 1997 (MESH9722737A)](arrete-du-28-aout-1997-mesh9722737a)
 - [Arrêté du 28 avril 1997 (INDB9700290A)](arrete-du-28-avril-1997-indb9700290a)
 - [Arrêté du 28 avril 1997 (MENF9701136A)](arrete-du-28-avril-1997-menf9701136a)
