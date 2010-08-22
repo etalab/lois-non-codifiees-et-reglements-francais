@@ -1,8 +1,6 @@
 # Article Annexe I
 
-**VALEURS LIMITES DE REJETS ATMOSPHÉRIQUES
-
-POUR LES INSTALLATIONS D'INCINÉRATION**
+VALEURS LIMITES DE REJETS ATMOSPHÉRIQUES POUR LES INSTALLATIONS D'INCINÉRATION
 
 a) Monoxyde de carbone
 
@@ -16,25 +14,138 @@ L'arrêté préfectoral d'autorisation peut fixer une valeur limite différente 
 
 b) Poussières totales, COT, HCl, HF, SO2 et NOx
 
-Vous pouvez consulter le tableau dans le JO
-
-n° 280 du 01/12/2002 page 19778 à 19789
-
-L'arrêté préfectoral d'autorisation peut prévoir une valeur limite différente pour les NOx pour les installations existantes :
-
-- dont la capacité est inférieure ou égale à 6 tonnes par heure, à condition que la valeur limite en moyenne journalière soit inférieure ou égale à 500 mg/m³, et ce jusqu'au 1er janvier 2008 ;
-
-- dont la capacité nominale est supérieure à 6 tonnes par heure, mais inférieure ou égale à 16 tonnes par heure, à condition que la valeur limite en moyenne journalière soit inférieure ou égale à 400 mg/m³ et que la valeur en moyenne sur une demi-heure ne dépasse pas 600 mg/m³, et ce jusqu'au 1er janvier 2010 ;
-
-- dont la capacité nominale est supérieure à 16 tonnes par heure, mais inférieure à 25 tonnes et qui ne produit pas de rejets d'eaux usées, à condition que la valeur limite en moyenne journalière n'excède pas 400 mg/m³, et ce jusqu'au 1er janvier 2008.
-
-L'arrêté préfectoral d'autorisation peut prévoir une valeur limite différente pour les poussières pour les installations existantes, à condition que la valeur limite en moyenne journalière n'excède pas 20 mg/m³, et ce jusqu'au 1er janvier 2008.
+<table>
+<tbody>
+<tr>
+<td>
+<p align="center">PARAMÈTRE</p>
+</td>
+<td>
+<p align="center">VALEUR<br/>en moyenne journalière</p>
+</td>
+<td>
+<p align="center">VALEUR<br/>en moyenne sur <br/>une demi-heure</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Poussières totales</p>
+</td>
+<td>
+<p align="center">10 mg/m3</p>
+</td>
+<td>
+<p align="center">30 mg/m<sup>3</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Substances organiques à l'état de gaz ou de vapeur exprimées en carbone<br/>organique total (COT)</p>
+</td>
+<td>
+<p align="center">10 mg/m3</p>
+</td>
+<td>
+<p align="center">20 mg/m3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Chlorure d'hydrogène (HCI)</p>
+</td>
+<td>
+<p align="center">10 mg/m3</p>
+</td>
+<td>
+<p align="center">60 mg/m3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Fluorure d'hydrogène (HF)</p>
+</td>
+<td>
+<p align="center">1 mg/m3</p>
+</td>
+<td>
+<p align="center">4 mg/m3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Dioxyde de soufre (S0<sub>2</sub>)</p>
+</td>
+<td>
+<p align="center">50 mg/m3</p>
+</td>
+<td>
+<p align="center">200 mg/m3</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p>Monoxyde d'azote (NO) et dioxyde d'azote (NO<sub>2</sub>) exprimés en<br/>dioxyde d'azote pour les installations existantes dont la capacité<br/>nominale est supérieure à 6 tonnes par heure ou pour les nouvelles<br/>installations d'incinération</p>
+</td>
+<td align="left" valign="top">
+<p align="center">200 mg/m3</p>
+</td>
+<td align="left" valign="top">
+<p align="center">400 mg/m3</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p>Monoxyde d'azote (NO) et dioxyde d'azote (NO<sub>2</sub>) exprimés en dioxyde<br/>d'azote pour les installations d'incinération existantes dont la capacité<br/>nominale est inférieure ou égale à 6 tonnes par heure</p>
+</td>
+<td align="left" valign="top">
+<p align="center">400 mg/m3</p>
+</td>
+<td align="left" valign="top">
+<br/>
+</td>
+</tr>
+</tbody>
+</table>
 
 c) Métaux
 
-Vous pouvez consulter le tableau dans le JO
-
-n° 280 du 01/12/2002 page 19778 à 19789
+<table>
+<tbody>
+<tr>
+<td>
+<p align="center">PARAMÈTRE</p>
+</td>
+<td>
+<p align="center">VALEUR</p>
+</td>
+</tr>
+<tr>
+<td width="247">
+<p>Cadmium et ses composés, exprimés en cadmium (Cd) + thallium et ses composés, exprimés en thallium (TI).</p>
+</td>
+<td width="79">
+<p align="center">0,05 mg/m3</p>
+</td>
+</tr>
+<tr>
+<td width="247">
+<p>Mercure et ses composés, exprimés en mercure (Hg) </p>
+</td>
+<td width="79">
+<p align="center">0,05 mg/m3</p>
+</td>
+</tr>
+<tr>
+<td width="247">
+<p>Total des autres métaux lourds (Sb+As+Pb+Cr+Co+Cu+Mn+Ni+V)</p>
+</td>
+<td width="79">
+<p align="center">0,5 mg/m3</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 Le total des autres métaux lourds est composé de la somme :
 
@@ -60,12 +171,60 @@ La méthode de mesure utilisée est la moyenne mesurée sur une période d'écha
 
 Ces valeurs s'appliquent aux émissions de métaux et de leurs composés sous toutes leurs formes physiques.
 
-d) Dioxines et furannes
+d) Dioxines et furannes.
 
-Vous pouvez consulter le tableau dans le JO
-
-n° 280 du 01/12/2002 page 19778 à 19789
+<table>
+<tbody>
+<tr>
+<td>
+<p align="center">PARAMÈTRE</p>
+</td>
+<td>
+<p align="center">VALEUR</p>
+</td>
+</tr>
+<tr>
+<td width="247">
+<p>Dioxines et furannes</p>
+</td>
+<td width="79">
+<p align="left">0,1 ng/m³</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 La concentration en dioxines et furannes est définie comme la somme des concentrations en dioxines et furannes déterminée selon les indications de l'annexe III.
 
-La méthode de mesure employée est la moyenne mesurée sur une période d'échantillonnage de six heures au minimum et de huit heures au maximum.
+d-1. Mesures ponctuelles.
+
+Les échantillons analysés sont constitués de prélèvements issus des gaz, réalisés sur une période d'échantillonnage de six à huit heures.
+
+d-2. Mesures en semi-continu.
+
+Les échantillons analysés sont constitués de prélèvements de gaz sur une période d'échantillonnage de quatre semaines. Une durée de prélèvement inférieure peut être définie par l'arrêté d'autorisation, notamment lorsque la sensibilité du milieu récepteur le justifie.
+
+La mise en place et le retrait des dispositifs d'échantillonnage et l'analyses des échantillons prélevés sont réalisés par un organisme mentionné à l'article 28.
+
+e) Ammoniac.
+
+<table>
+<tbody>
+<tr>
+<td width="454">
+<p align="center">PARAMÈTRE</p>
+</td>
+<td width="227">
+<p align="center">VALEUR JOURNALIÈRE <br/>moyenne </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="454">
+<p>Ammoniac</p>
+</td>
+<td valign="top" width="227">
+<p>30 mg/m³</p>
+</td>
+</tr>
+</tbody>
+</table>
