@@ -178,7 +178,6 @@
 - [Arrêté du 6 novembre 2003 (EQUA0301328A)](arrete-du-6-novembre-2003-equa0301328a)
 - [Arrêté du 6 novembre 2003 (EQUA0301329A)](arrete-du-6-novembre-2003-equa0301329a)
 - [Arrêté du 6 octobre 2003 (EQUS0301381A)](arrete-du-6-octobre-2003-equs0301381a)
-- [Arrêté du 6 octobre 2003 (INDI0301891A)](arrete-du-6-octobre-2003-indi0301891a)
 - [Arrêté du 6 mai 2003 (AGRP0300955A)](arrete-du-6-mai-2003-agrp0300955a)
 - [Arrêté du 6 mai 2003 (BUDR0303008A)](arrete-du-6-mai-2003-budr0303008a)
 - [Arrêté du 6 mai 2003 (EQUT0300523A)](arrete-du-6-mai-2003-equt0300523a)
