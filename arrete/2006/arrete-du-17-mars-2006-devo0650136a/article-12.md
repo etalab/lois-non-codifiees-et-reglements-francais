@@ -36,7 +36,7 @@ IV.-Le résumé du programme de surveillance comprend une carte des réseaux de 
 
 4° Une carte de l'état chimique des eaux souterraines.
 
-V.-Le dispositif de suivi mentionné au 5° du II de l'article 1er ci-dessus comporte au minimum des indicateurs relatifs aux éléments suivants :
+V. - Le dispositif de suivi mentionné au 5° du II de l'article 1er ci-dessus comporte au minimum des indicateurs relatifs aux éléments suivants :
 
 1° L'évaluation de l'état des eaux et l'atteinte des objectifs définis dans le schéma directeur d'aménagement et de gestion des eaux ;
 
@@ -48,27 +48,23 @@ V.-Le dispositif de suivi mentionné au 5° du II de l'article 1er ci-dessus com
 
 5° Le niveau d'exploitation de la ressource en eau aux points nodaux ;
 
-6° La protection des captages d'alimentation en eau potable en application du code de la santé publique ;
+6° La préservation de zones d'expansion de crues et la mise en place de servitudes de surinondation ;
 
-7° Le dépassement des normes relatives aux eaux distribuées pour les paramètres nitrates et produits phytosanitaires ;
+7° La conformité aux exigences de collecte et de traitement des eaux résiduaires urbaines ;
 
-8° Le développement des plans de prévention du risque d'inondation ;
+8° L'accessibilité et la fréquentation des cours d'eau par un ou des poissons migrateurs ;
 
-9° La préservation de zones d'expansion de crues et la mise en place de servitudes de surinondation ;
+9° Le développement des schémas d'aménagement et de gestion des eaux et des contrats de rivières ;
 
-10° La conformité aux exigences de collecte et de traitement des eaux résiduaires urbaines ;
+10° Les coûts environnementaux, y compris des coûts pour la ressource à l'échelle du bassin ;
 
-11° L'accessibilité et la fréquentation des cours d'eau par un ou des poissons migrateurs ;
-
-12° Le développement des schémas d'aménagement et de gestion des eaux et des contrats de rivières ;
-
-13° Les coûts environnementaux, y compris des coûts pour la ressource à l'échelle du bassin ;
-
-14° La récupération des coûts par secteur économique.
+11° La récupération des coûts par secteur économique.
 
 Ces indicateurs sont complétés par des indicateurs propres au bassin et adaptés aux dispositions définies dans le schéma directeur.
 
 Le dispositif de suivi est établi en 2010 puis actualisé tous les trois ans. Il est diffusé sur internet.
+
+Par exception, les indicateurs relatifs aux 5°, 6° et 10° peuvent n'être renseignés qu'à compter de 2013.
 
 VI.-Le résumé des dispositions concernant la consultation du public mentionné au 6° du II de l'article 1er ci-dessus comprend :
 

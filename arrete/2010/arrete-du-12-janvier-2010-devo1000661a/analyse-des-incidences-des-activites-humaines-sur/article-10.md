@@ -20,6 +20,8 @@ f) Une estimation et une identification des autres incidences d'origine anthropi
 
 g) Une estimation des modèles d'aménagement du territoire, y compris l'identification des principales zones urbaines, industrielles et agricoles et, le cas échéant, des zones de pêche et des forêts ;
 
+h) Un inventaire, y compris des cartes, le cas échéant, des émissions, des rejets et des pertes des polluants pris en compte pour évaluer l'état chimique des masses d'eau de surface conformément à l'article 11 de l'arrêté du 25 janvier 2010 modifié relatif aux méthodes et critères d'évaluation de l'état écologique, de l'état chimique et du potentiel écologique des eaux de surface pris en application des articles R. 212-10, R. 212-11 et R. 212-18 du code de l'environnement. Cet inventaire est établi sur la base des données disponibles, notamment en application des dispositions de l'arrêté du 31 janvier 2008 modifié relatif au registre et à la déclaration annuelle des émissions polluantes et des déchets et des éléments issus du programme de surveillance de l'état des eaux en application de l'article R. 212-22 du code de l'environnement ;
+
 2° Une évaluation de la manière dont l'état des masses d'eau de surface réagit aux pressions indiquées au 1° ci-dessus ;
 
 3° Une identification des masses d'eau de surface qui risquent, par l'effet de l'activité humaine, de ne pas satisfaire aux objectifs de qualité environnementale mentionnés au IV de l'article L. 212-1 du code de l'environnement.
@@ -66,7 +68,7 @@ h) La caractérisation de la composition chimique des eaux souterraines, y compr
 
 3° Pour les masses d'eau souterraine composées en tout ou partie d'aquifères transfrontaliers ou qui ont été recensées comme courant un risque au 1° ci-dessus :
 
-a) La localisation des points de la masse d'eau utilisés pour le captage d'eau, à l'exception des points de captage fournissant en moyenne moins de 10 m³ par jour, ou des points de captage d'eau destinée à la consommation humaine fournissant en moyenne moins de 10 m³ par jour ou desservant moins de cinquante personnes ;
+a) La localisation des points de la masse d'eau utilisés pour le captage d'eau, à l'exception des points de captage fournissant en moyenne moins de 10 m ³ par jour, ou des points de captage d'eau destinée à la consommation humaine fournissant en moyenne moins de 10 m ³ par jour ou desservant moins de cinquante personnes ;
 
 b) Le taux de captage annuel moyen à partir de ces points ;
 

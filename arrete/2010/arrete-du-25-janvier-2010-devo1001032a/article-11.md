@@ -1,10 +1,10 @@
 # Article 11
 
-L'état chimique d'une masse d'eau de surface est bon lorsque les concentrations en polluants ne dépassent pas les normes de qualité environnementale. La liste des polluants concernés et les normes de qualité environnementale (ci-après désignées sous l'appellation de « NQE ») correspondantes sont définies au point 1 de l'annexe 8 au présent arrêté.
+L'état chimique d'une masse d'eau de surface est bon lorsque les concentrations en polluants ne dépassent pas les normes de qualité environnementale. La liste des polluants concernés et les normes de qualité environnementale (ci-après désignées sous l'appellation de "NQE") correspondantes sont définies au point 1 de l'annexe 8 au présent arrêté.
 
 Le bon état chimique est atteint pour un polluant lorsque l'ensemble des NQE de ce polluant est respecté en tout point de la masse d'eau hors zone de mélange.
 
-Pour les eaux de surface, les NQE peuvent être fixées pour l'eau, les sédiments ou le biote.
+Pour les eaux de surface, les NQE peuvent être fixées pour l'eau, les sédiments ou le biote. Dans ce cas, elles doivent assurer un niveau de protection au moins identique à celui assuré par les NQE fixées pour l'eau définies au point 1 de l'annexe 8 du présent arrêté.
 
 L'état chimique d'un site de suivi est défini de la manière suivante :
 

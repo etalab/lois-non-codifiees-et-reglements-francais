@@ -135,9 +135,9 @@ Pour la classification en très bon état écologique, des conditions physico-ch
 
 1.2.1. Cas général
 
-Vous pouvez consulter le tableau dans le JO
+Tableau 4 : élements physico-chimiques généraux
 
-n° 46 du 24 / 02 / 2010 texte numéro 9
+Vous pouvez consulter le tableau dans le JO n° 46 du 24 / 02 / 2010 texte numéro 9 à l'adresse suivante : http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20100224&numTexte=9&pageDebut=03429&pageFin=03475
 
 Pour les éléments de qualité physico-chimiques, les limites supérieure et inférieure de la classe bon suffisent pour la classification de l'état écologique, puisqu'un état écologique moins que bon est attribué sur la base des éléments biologiques. Néanmoins, au regard des données et des outils aujourd'hui disponibles, l'état écologique de certaines masses d'eau peut être évalué en considérant avec comme unique base numérique les données relatives aux paramètres physico-chimiques généraux, issues de la surveillance ou d'outils de modélisation. Dans ces cas, on utilisera les valeurs des limites de classes entre l'état moyen et l'état médiocre ainsi qu'entre l'état médiocre et le mauvais état des paramètres physico-chimiques généraux indiquées dans la table générale ci-dessus.
 
@@ -149,21 +149,127 @@ Dans ces cas particuliers, le fait que la valeur de ces éléments ou paramètre
 
 Tableau 5 : Cours d'eau naturellement pauvre en oxygène
 
-Vous pouvez consulter le tableau dans le JO n° 46 du 24/02/2010 texte numéro 9
+<table>
+<tbody>
+<tr>
+<td width="192">
+<p align="center">PARAMETRES</p>
+</td>
+<td width="186">
+<p align="center">LIMITES SUPERIEURE<br/>et inferieure du bon état</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top" width="378">
+<p>Bilan de l'oxygène</p>
+</td>
+</tr>
+<tr>
+<td width="192">
+<p>Oxygène dissous (mg O2/l)</p>
+</td>
+<td width="186">
+<p align="center">]7,5 - 6]</p>
+</td>
+</tr>
+<tr>
+<td width="192">
+<p>Taux de saturation en O2 dissous (%)</p>
+</td>
+<td width="186">
+<p align="center">]80 -65]</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 Tableau 6 : Cours d'eau naturellement riches en matières organiques
 
-Vous pouvez consulter le tableau dans le JO n° 46 du 24/02/2010 texte numéro 9
+<table>
+<tbody>
+<tr>
+<td width="192">
+<p align="center">PARAMETRES</p>
+</td>
+<td width="186">
+<p align="center">LIMITES SUPERIEURE<br/>et inferieure du bon état</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top" width="378">
+<p>Bilan de l'oxygène</p>
+</td>
+</tr>
+<tr>
+<td width="192">
+<p>Carbone organique (mg C/l)</p>
+</td>
+<td width="186">
+<p align="center">]8 - 9]</p>
+</td>
+</tr>
+</tbody>
+</table>
 
-Tableau 7 : Cours d'eau naturellement froids (température de l'eau inférieure à 14° C) et peu alcalins (pH max inférieur à 8, 5 unité pH) moins sensibles aux teneurs en NH4 + (HER 2 Alpes internes : cours d'eau très petits à moyens)
-
-Vous pouvez consulter le tableau dans le JO n° 46 du 24/02/2010 texte numéro 9
-
-Tableau 8 : Cours d'eau naturellement acides
-
-Vous pouvez consulter le tableau dans le JO n° 46 du 24/02/2010 texte numéro 9
-
-Cours d'eau des zones de tourbières :
+Tableau 7 : Cours d'eau naturellement froids (température de l'eau inférieure à 14° C) et peu alcalins (pH max inférieur à 8, 5 unité pH) moins sensibles aux teneurs en NH4 + (HER 2 Alpes internes : cours d'eau très petits à moyens) <table>
+<tbody>
+<tr>
+<td width="192">
+<p align="center">PARAMETRES</p>
+</td>
+<td width="186">
+<p align="center">LIMITES SUPERIEURE<br/>et inferieure du bon état</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top" width="378">
+<p>Nutriments</p>
+</td>
+</tr>
+<tr>
+<td width="192">
+<p>NH<sub>4</sub>
+<sup>+</sup> (mg NH<sub>4</sub>
+<sup>+</sup>/l)</p>
+</td>
+<td width="186">
+<p align="center">]0,1 - 1]</p>
+</td>
+</tr>
+</tbody>
+</table>Tableau 8 : Cours d'eau naturellement acides <table>
+<tbody>
+<tr>
+<td width="192">
+<p align="center">PARAMETRES</p>
+</td>
+<td width="186">
+<p align="center">LIMITES SUPERIEURE<br/>et inferieure du bon état</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top" width="378">
+<p>Acidification</p>
+</td>
+</tr>
+<tr>
+<td width="192">
+<p>pH minimum</p>
+</td>
+<td width="186">
+<p align="center">]6 - 5,8]</p>
+</td>
+</tr>
+<tr>
+<td width="192">
+<p>pH maximal</p>
+</td>
+<td width="186">
+<p align="center">]8,2 - 9]</p>
+</td>
+</tr>
+</tbody>
+</table>Cours d'eau des zones de tourbières :
 
 Non prise en compte du paramètre carbone organique.
 
@@ -224,11 +330,11 @@ Tableau 9 : Polluants spécifiques non synthétiques
 </td>
 <td align="center" rowspan="2">1383 <br/>
 </td>
-<td align="center">Dureté inférieure <br/>ou égale <br/>à 24 µg CaCO3/l : 3,1 <br/>
+<td align="center">Dureté inférieure <br/>ou égale <br/>à 24 mg CaCO3/l : 3,1 <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Dureté supérieure à 24 µg CaCO3/l : 7,8 <br/>
+<td align="center">Dureté supérieure à 24 mg CaCO3/l : 7,8 <br/>
 </td>
 </tr>
 <tr>
@@ -368,9 +474,105 @@ La classification de l'état de ces paramètres s'établit en calculant la moyen
 
 Tableau 11 : Phytoplancton
 
-Vous pouvez consulter le tableau dans le JO
-
-n° 46 du 24/02/2010 texte numéro 9
+<table>
+<tbody>
+<tr>
+<td rowspan="2" width="110">
+<p align="center">ELEMENTS DE QUALITE</p>
+</td>
+<td rowspan="2" width="129">
+<p align="center">PARAMETRES</p>
+</td>
+<td colspan="4" width="441">
+<p align="center">LIMITES DES CLASSES D'ETAT</p>
+</td>
+</tr>
+<tr>
+<td width="110">
+<p align="center">Très bon / Bon</p>
+</td>
+<td width="110">
+<p align="center">Bon / Moyen</p>
+</td>
+<td width="110">
+<p align="center">Moyen / Médiocre</p>
+</td>
+<td width="110">
+<p align="center">Médiocre / Mauvais</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" width="110">
+<p align="center">Phytoplancton</p>
+</td>
+<td width="129">
+<p>[Chl-a] moyenne estivale (mg/l)</p>
+</td>
+<td colspan="4" width="441">
+<p align="center">Voir formules 1 et tableau 12</p>
+</td>
+</tr>
+<tr>
+<td width="129">
+<p>IPL (Indice planctonique</p>
+</td>
+<td width="110">
+<p align="center">25</p>
+</td>
+<td width="110">
+<p align="center">40</p>
+</td>
+<td width="110">
+<p align="center">60</p>
+</td>
+<td width="110">
+<p align="center">80</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" width="110">
+<p align="center">Invertébrés*</p>
+</td>
+<td width="129">
+<p>IMOL (Indice mollusque)</p>
+</td>
+<td width="110">
+<p align="center">8</p>
+</td>
+<td width="110">
+<p align="center">7</p>
+</td>
+<td width="110">
+<p align="center">4</p>
+</td>
+<td width="110">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td width="129">
+<p>IOBL (Indice oligochètes de bioindication lacustre)</p>
+</td>
+<td width="110">
+<p align="center">15</p>
+</td>
+<td width="110">
+<p align="center">10</p>
+</td>
+<td width="110">
+<p align="center">6</p>
+</td>
+<td width="110">
+<p align="center">3</p>
+</td>
+</tr>
+<tr>
+<td colspan="6" valign="top" width="680">
+<p>* Les valeurs des limités de classes pour l'indice mollusques (IMOL) et l'indice oligochètes (IOBL), paramètres constitutifs de l'élément de qualité invertébrés, sont donnés à titre indicatif. A ce stade des connaissances, ils ne sont pas utilisés pour l'évaluation. Ils peuvent être pris en compte pour conforter le diagnostic et, le cas échéant, accroître le niveau de confiance de l'état évalué de la masse d'eau.</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 L'indice biologique Phytoplancton à utiliser est l'indice planctonique (IPL) de la diagnose rapide, tel qu'indiqué dans : Barbe J., Lafont M., Mouthon J., Philippe M., 2003. Protocole actualisé de la diagnose rapide des plans d'eau. Rapport Cemagref-Lyon, Agence de l'eau Rhône-Méditerranée-Corse, 24 p.
 
@@ -394,9 +596,270 @@ Pour les plans d'eau listés dans le tableau 12 ci-après, les limites de classe
 
 Tableau 12 : Valeurs des limites de classe pour les cas particuliers (Chl-a) moyenne estivale de la concentration en chlorphyle-a en µg/l)
 
-Vous pouvez consulter le tableau dans le JO
-
-n° 46 du 24/02/2010 texte numéro 9
+<table>
+<tbody>
+<tr>
+<td nowrap="nowrap" width="42">
+<p align="center">TYPE</p>
+</td>
+<td width="355">
+<p align="center">PLANS D'EAU</p>
+</td>
+<td nowrap="nowrap" width="72">
+<p align="center">TRES BON /<br/> bon</p>
+</td>
+<td nowrap="nowrap" width="72">
+<p align="center">BON / <br/> moyen</p>
+</td>
+<td nowrap="nowrap" width="72">
+<p align="center">MOYEN / <br/> médiocre</p>
+</td>
+<td nowrap="nowrap" width="84">
+<p align="center">MEDIOCRE / <br/> mauvais</p>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="42">
+<p align="center">A3</p>
+</td>
+<td valign="bottom" width="355">
+<p>Sainte Croix (lac de )et Esparron (lac d' )</p>
+</td>
+<td nowrap="nowrap" width="72">
+<p align="center">2.1</p>
+</td>
+<td nowrap="nowrap" width="72">
+<p align="center">4.2</p>
+</td>
+<td nowrap="nowrap" width="72">
+<p align="center">6.8</p>
+</td>
+<td nowrap="nowrap" width="84">
+<p align="center">12.3</p>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="42">
+<p align="center">A6b</p>
+</td>
+<td valign="bottom" width="355">
+<p>Cheze (retenue de la )et Touche Poupard (retenue de la )</p>
+</td>
+<td nowrap="nowrap" width="72">
+<p align="center">4.3</p>
+</td>
+<td nowrap="nowrap" width="72">
+<p align="center">8.0</p>
+</td>
+<td nowrap="nowrap" width="72">
+<p align="center">13.1</p>
+</td>
+<td nowrap="nowrap" width="84">
+<p align="center">23.3</p>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="42">
+<p align="center">A7a</p>
+</td>
+<td valign="bottom" width="355">
+<p>Mousseau (retenue de ) [Pincemaille]</p>
+</td>
+<td nowrap="nowrap" width="72">
+<p align="center">9.9</p>
+</td>
+<td nowrap="nowrap" width="72">
+<p align="center">21.0</p>
+</td>
+<td nowrap="nowrap" width="72">
+<p align="center">22.7</p>
+</td>
+<td nowrap="nowrap" width="84">
+<p align="center">41.2</p>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="42">
+<p align="center">A7b</p>
+</td>
+<td valign="top" width="355">
+<p>Der-Chantecoq (barrage-réservoir marne lac du )</p>
+</td>
+<td nowrap="nowrap" width="72">
+<p align="center">4.6</p>
+</td>
+<td nowrap="nowrap" width="72">
+<p align="center">8.0</p>
+</td>
+<td nowrap="nowrap" width="72">
+<p align="center">12.2</p>
+</td>
+<td nowrap="nowrap" width="84">
+<p align="center">21.6</p>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="42">
+<p align="center">A8*</p>
+</td>
+<td valign="top" width="355">
+<p>Bimont (lac du )</p>
+</td>
+<td nowrap="nowrap" width="72">
+<p align="center">3.8</p>
+</td>
+<td nowrap="nowrap" width="72">
+<p align="center">4.2</p>
+</td>
+<td nowrap="nowrap" width="72">
+<p align="center">12.0</p>
+</td>
+<td nowrap="nowrap" width="84">
+<p align="center">21.3</p>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="42">
+<p align="center">A10</p>
+</td>
+<td valign="bottom" width="355">
+<p>Roujane (retenue de), Calacuccia (retenue de ) et Tolla (lac de )</p>
+</td>
+<td nowrap="nowrap" width="72">
+<p align="center">2.5</p>
+</td>
+<td nowrap="nowrap" width="72">
+<p align="center">6.7</p>
+</td>
+<td nowrap="nowrap" width="72">
+<p align="center">7.9</p>
+</td>
+<td nowrap="nowrap" width="84">
+<p align="center">14.1</p>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="42">
+<p align="center">A12</p>
+</td>
+<td valign="top" width="355">
+<p>Carcès (lac de) , Salagou (lac du ), Caramany (retenue de ), et Codole (retenue de )</p>
+</td>
+<td nowrap="nowrap" width="72">
+<p align="center">2.8</p>
+</td>
+<td nowrap="nowrap" width="72">
+<p align="center">6.0</p>
+</td>
+<td nowrap="nowrap" width="72">
+<p align="center">8.7</p>
+</td>
+<td nowrap="nowrap" width="84">
+<p align="center">15.5</p>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="42">
+<p align="center">N3</p>
+</td>
+<td valign="bottom" width="355">
+<p>Entonnoir-bouverans (l' ), Etival (grand lac )</p>
+</td>
+<td nowrap="nowrap" width="72">
+<p align="center">4.4</p>
+</td>
+<td nowrap="nowrap" width="72">
+<p align="center">8.0</p>
+</td>
+<td nowrap="nowrap" width="72">
+<p align="center">14.0</p>
+</td>
+<td nowrap="nowrap" width="84">
+<p align="center">24.9</p>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="42">
+<p align="center">N4</p>
+</td>
+<td valign="top" width="355">
+<p>Chalain (lac de )</p>
+</td>
+<td nowrap="nowrap" width="72">
+<p align="center">2.7</p>
+</td>
+<td nowrap="nowrap" width="72">
+<p align="center">4.7</p>
+</td>
+<td nowrap="nowrap" width="72">
+<p align="center">9.9</p>
+</td>
+<td nowrap="nowrap" width="84">
+<p align="center">17.6</p>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="42">
+<p align="center">N4</p>
+</td>
+<td valign="bottom" width="355">
+<p>Nantua (lac de ) Aiguebelette (lac d'), Annecy (lac d' ), Bourget (lac du), Léman (lac)</p>
+</td>
+<td nowrap="nowrap" width="72">
+<p align="center">2.1</p>
+</td>
+<td nowrap="nowrap" width="72">
+<p align="center">3.8</p>
+</td>
+<td nowrap="nowrap" width="72">
+<p align="center">9.9</p>
+</td>
+<td nowrap="nowrap" width="84">
+<p align="center">17.6</p>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="top" width="42">
+<p align="center">N4</p>
+</td>
+<td valign="bottom" width="355">
+<p>Clairvaux (Grand lac), Chaillexon (lac de ), Sylans (lac de ), Remoray (lac de ), Petichet (lac de), Ilay (lac d' ), Grand maclu (lac du )</p>
+</td>
+<td nowrap="nowrap" width="72">
+<p align="center">3.6</p>
+</td>
+<td nowrap="nowrap" width="72">
+<p align="center">6.6</p>
+</td>
+<td nowrap="nowrap" width="72">
+<p align="center">9.9</p>
+</td>
+<td nowrap="nowrap" width="84">
+<p align="center">17.6</p>
+</td>
+</tr>
+<tr>
+<td nowrap="nowrap" valign="bottom" width="42">
+<p align="center">N9</p>
+</td>
+<td valign="top" width="355">
+<p>Cazaux (étang de ), Parentis (lac de)</p>
+</td>
+<td nowrap="nowrap" width="72">
+<p align="center">4.3</p>
+</td>
+<td nowrap="nowrap" width="72">
+<p align="center">8.0</p>
+</td>
+<td nowrap="nowrap" width="72">
+<p align="center">11.7</p>
+</td>
+<td nowrap="nowrap" width="84">
+<p align="center">20.7</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 2.1.3. Cas des départements d'outre-mer
 
@@ -432,9 +895,64 @@ Les paramètres de l'élément nutriments à prendre en compte sont explicités 
 
 Tableau 14 : Paramètres de l'élément nutriments
 
-Vous pouvez consulter le tableau dans le JO
-
-n° 46 du 24/02/2010 texte numéro 9
+<table>
+<tbody>
+<tr>
+<td width="305">
+<p align="center">PARAMETRES </p>
+</td>
+<td valign="top" width="187">
+<p align="center">TEMPS DE SEJOUR MOYEN <br/>annuel </p>
+<p align="center">&gt; 2 mois</p>
+</td>
+<td colspan="2" valign="top" width="188">
+<p align="center">TEMPS DE SEJOUR MOYEN<br/>annuel</p>
+<p align="center">&lt;= 2 mois</p>
+</td>
+</tr>
+<tr>
+<td colspan="4" width="680">
+<p>Nutriments</p>
+</td>
+</tr>
+<tr>
+<td width="305">
+<p>N minéral maximal (NO<sub>3</sub>
+<sup>-</sup> + NH<sub>4</sub>
+<sup>+</sup>)(mg N.l<sup>-1</sup>)</p>
+</td>
+<td colspan="2" width="188">
+<p>Valeur d'hiver , en période de mélange total des eaux</p>
+</td>
+<td width="188">
+<p>Maxima observé sur au minimum 3 campagnes estivales </p>
+</td>
+</tr>
+<tr>
+<td width="305">
+<p>PO<sub>4</sub>
+<sup>3-</sup> maximal (mg P.l<sup>-1</sup>)</p>
+</td>
+<td colspan="2" width="188">
+<p>Valeur d'hiver , en période de mélange total des eaux</p>
+</td>
+<td width="188">
+<p>Maxima observé sur au minimum 3 campagnes estivales </p>
+</td>
+</tr>
+<tr>
+<td width="305">
+<p>Phosphore total maximal (mg P.l<sup>-1</sup>)</p>
+</td>
+<td colspan="2" width="188">
+<p>Moyenne annuelle dans la zone euphotique ou valeur hivernale en période de mélange complet des eaux</p>
+</td>
+<td width="188">
+<p>Maxima observé sur au minimum 3 campagnes estivales </p>
+</td>
+</tr>
+</tbody>
+</table>
 
 2.2.2. Cas des exceptions typologiques
 
