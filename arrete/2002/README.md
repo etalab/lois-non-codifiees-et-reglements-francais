@@ -124,7 +124,6 @@
 - [Arrêté du 4 mars 2002 (EQUA0200243A)](arrete-du-4-mars-2002-equa0200243a)
 - [Arrêté du 4 mars 2002 (MENP0200525A)](arrete-du-4-mars-2002-menp0200525a)
 - [Arrêté du 4 octobre 2002 (AGRG0202172A)](arrete-du-4-octobre-2002-agrg0202172a)
-- [Arrêté du 4 octobre 2002 (DEFD0201990A)](arrete-du-4-octobre-2002-defd0201990a)
 - [Arrêté du 4 octobre 2002 (DEFD0202231A)](arrete-du-4-octobre-2002-defd0202231a)
 - [Arrêté du 4 octobre 2002 (PRMG0270705A)](arrete-du-4-octobre-2002-prmg0270705a)
 - [Arrêté du 4 septembre 2002 (AGRG0201980A)](arrete-du-4-septembre-2002-agrg0201980a)
