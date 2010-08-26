@@ -1,66 +1,40 @@
 # Article Annexe I
 
-1. Propriétés.
+1. Propriétés
 
 <table>
 <tbody>
 <tr>
 <th>
-<br/>
-<font size="1">PROPRIÉTÉS<br/>
-</font>
+<br/>PROPRIÉTÉS <br/>
 </th>
 <th>
-<br/>
-<font size="1">UNITÉ<br/>
-</font>
+<br/>UNITÉ <br/>
 </th>
 <th colspan="2">
-<br/>
-<font size="1">LIMITES<br/>
-</font>
+<br/>LIMITES <br/>
 </th>
 </tr>
 <tr>
+<th/>
+<th/>
 <th>
-<font size="1"/>
-</th>
-<th>
-<font size="1"/>
+<br/>Minimum <br/>
 </th>
 <th>
-<br/>Minimum<br/>
-</th>
-<th>
-<br/>Maximum<br/>
+<br/>Maximum <br/>
 </th>
 </tr>
 <tr>
 <td align="center">
-<br/>Indice de cétane mesuré.<br/>
+<br/>Indice de cétane mesuré. <br/>
 </td>
 <td align="center">
 <br/>
 <br/>
 </td>
 <td align="center">
-<br/>51,0<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Indice de cétane calculé.<br/>
-</td>
-<td align="center">
-<br/>
-<br/>
-</td>
-<td align="center">
-<br/>46,0<br/>
+<br/>51, 0 <br/>
 </td>
 <td align="center">
 <br/>
@@ -69,45 +43,60 @@
 </tr>
 <tr>
 <td align="center">
-<br/>Masse volumique (à 15 °C).<br/>
+<br/>Indice de cétane calculé. <br/>
 </td>
 <td align="center">
-<br/>kg/m³<br/>
+<br/>
+<br/>
 </td>
 <td align="center">
-<br/>820<br/>
+<br/>46, 0 <br/>
 </td>
 <td align="center">
-<br/>845<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Hydrocarbures aromatiques polycycliques.<br/>
-</td>
-<td align="center">
-<br/>% (m/m)<br/>
-</td>
-<td align="center">
-<br/>-<br/>
-</td>
-<td align="center">
-<br/>11<br/>
+<br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Teneur en soufre.<br/>
+<br/>Masse volumique (à 15° C). <br/>
 </td>
 <td align="center">
-<br/>mg/kg<br/>
+<br/>kg / m ³ <br/>
 </td>
 <td align="center">
-<br/>-<br/>
+<br/>820, 0 <br/>
 </td>
 <td align="center">
-<br/>50,0 (jusqu'au 31 décembre 2008) <p>10,0 (à compter du 1er janvier 2009)<br/>
-</p>
+<br/>845, 0 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Hydrocarbures aromatiques polycycliques. <br/>
+</td>
+<td align="center">
+<br/>% (m / m) <br/>
+</td>
+<td align="center">
+<br/>- <br/>
+</td>
+<td align="center">
+<br/>8, 0 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Teneur en soufre. <br/>
+</td>
+<td align="center">
+<br/>mg / kg <br/>
+</td>
+<td align="center">
+<br/>- <br/>
+</td>
+<td align="center">
+<br/>10, 0 <br/>
 </td>
 </tr>
 <tr>
@@ -115,27 +104,27 @@
 <br/>Point d'éclair.<br/>
 </td>
 <td align="center">
-<br/>°C<br/>
+<br/>° C <br/>
 </td>
 <td align="center">
-<br/>55<br/>
+<br/>¹ 55 <br/>
 </td>
 <td align="center">
-<br/>-<br/>
+<br/>- <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Résidu de carbone (sur le résidu 10 % de distillation).<br/>
+<br/>Résidu de carbone (sur le résidu 10 % de distillation). <br/>
 </td>
 <td align="center">
-<br/>% (m/m)<br/>
+<br/>% (m / m) <br/>
 </td>
 <td align="center">
-<br/>-<br/>
+<br/>- <br/>
 </td>
 <td align="center">
-<br/>0,30<br/>
+<br/>0, 30 <br/>
 </td>
 </tr>
 <tr>
@@ -143,52 +132,52 @@
 <br/>Teneur en cendre. <br/>
 </td>
 <td align="center">
-<br/>% (m/m)<br/>
+<br/>% (m / m) <br/>
 </td>
 <td align="center">
-<br/>-<br/>
+<br/>- <br/>
 </td>
 <td align="center">
-<br/>0,01<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Teneur en eau.<br/>
-</td>
-<td align="center">
-<br/>mg/kg<br/>
-</td>
-<td align="center">
-<br/>-<br/>
-</td>
-<td align="center">
-<br/>200<br/>
+<br/>0, 01 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Contamination totale.<br/>
+<br/>Teneur en eau. <br/>
 </td>
 <td align="center">
-<br/>mg/kg<br/>
+<br/>mg / kg <br/>
 </td>
 <td align="center">
-<br/>-<br/>
+<br/>- <br/>
 </td>
 <td align="center">
-<br/>24<br/>
+<br/>200 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Corrosion à la lame de cuivre (3 h à 50 °C).<br/>
+<br/>Contamination totale. <br/>
 </td>
 <td align="center">
-<br/>Cotation<br/>
+<br/>mg / kg <br/>
 </td>
 <td align="center">
-<br/>Classe 1<br/>
+<br/>- <br/>
+</td>
+<td align="center">
+<br/>24 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Corrosion à la lame de cuivre (3 h à 50° C). <br/>
+</td>
+<td align="center">
+<br/>Cotation <br/>
+</td>
+<td align="center">
+<br/>Classe 1 <br/>
 </td>
 <td align="center">
 <br/>
@@ -197,49 +186,51 @@
 </tr>
 <tr>
 <td align="center">
-<br/>Stabilité à l'oxydation 1.<br/>
+<br/>Stabilité à l'oxydation 1. <br/>
 </td>
 <td align="center">
-<br/>g/m³<br/>
+<br/>g / m ³ <br/>
 </td>
 <td align="center">
-<br/>-<br/>
+<br/>- <br/>
 </td>
 <td align="center">
-<br/>25<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Stabilité à l'oxydation 2. <br/>
-</td>
-<td align="center">
-<br/>g/m³<br/>
-</td>
-<td align="center">
-<br/>-<br/>
-</td>
-<td align="center">
-<br/>60<br/>
+<br/>25 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Variation de l'indice d'acide. <br/>
+<br/>
+<br/>
 </td>
 <td align="center">
-<br/>mg KOH/g<br/>
+<br/>h <br/>
 </td>
 <td align="center">
-<br/>-<br/>
+<br/>20 (1) <br/>
 </td>
 <td align="center">
-<br/>0,30<br/>
+<br/>- <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Pouvoir lubrifiant, diamètre de marque d'usure corrigée (wsd 1,4) à 60 °C.<br/>
+<br/>Stabilité à l'oxydation 2 à 115° C <p>Variation de l'indice d'acide (2). <br/>
+</p>
+</td>
+<td align="center">
+<br/>mg KOH / g <br/>
+</td>
+<td align="center">
+<br/>- <br/>
+</td>
+<td align="center">
+<br/>0, 30 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Pouvoir lubrifiant, diamètre de marque d'usure corrigée (wsd 1, 4) à 60° C. <br/>
 </td>
 <td align="center">
 <br/>µm<br/>
@@ -248,83 +239,154 @@
 <br/>-<br/>
 </td>
 <td align="center">
-<br/>460<br/>
+<br/>460 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Viscosité à 40 °C.<br/>
+<br/>Viscosité à 40° C. <br/>
 </td>
 <td align="center">
-<br/>mm²/s<br/>
+<br/>mm ² / s <br/>
 </td>
 <td align="center">
-<br/>2,00<br/>
+<br/>2, 00 <br/>
 </td>
 <td align="center">
-<br/>4,50<br/>
+<br/>4, 50 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Distillation : <p>- % (v/v) condensé à 250 °C ;<br/>
+<br/>Distillation : <p>% (v / v) évaporé à 250° C ; <br/>
 </p>
 </td>
 <td align="center">
-<br/>% (v/v)<br/>
+<br/>% (v / v) <br/>
 </td>
 <td align="center">
-<br/>-<br/>
+<br/>- <br/>
 </td>
 <td align="center">
-<br/>¸ 65<br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>- % (v/v) condensé à 350 °C ;<br/>
-</td>
-<td align="center">
-<br/>% (v/v)<br/>
-</td>
-<td align="center">
-<br/>85<br/>
-</td>
-<td align="center">
-<br/>-<br/>
+<br/>¸ 65 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>- point 95 (V/V) condensé à :<br/>
+<br/>% (v / v) évaporé à 350° C ; <br/>
 </td>
 <td align="center">
-<br/>°C<br/>
+<br/>% (v / v) <br/>
 </td>
 <td align="center">
-<br/>-<br/>
+<br/>85 <br/>
 </td>
 <td align="center">
-<br/>360<br/>
+<br/>- <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>Teneur en esters méthyliques d'acides gras conforme à la norme EN 14214 et additivé conformément au paragraphe 2 figurant ci-dessous.<br/>
+<br/>point 95 % (V / V) condensé à :<br/>
 </td>
 <td align="center">
-<br/>% (V/V)<br/>
+<br/>° C <br/>
 </td>
 <td align="center">
-<br/>-<br/>
+<br/>- <br/>
 </td>
 <td align="center">
-<br/>7<br/>
+<br/>360 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Teneur en esters méthyliques d'acides gras conforme à l'arrêté du 30 juin 2010 relatif aux caractéristiques des esters méthyliques d'acides gras (EMAG) <br/>
+</td>
+<td align="center">
+<br/>% (V / V) <br/>
+</td>
+<td align="center">
+<br/>- <br/>
+</td>
+<td align="center">
+<br/>7, 0 <br/>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<br/>(1) Il s'agit d'une spécification supplémentaire pour les carburants diesel dont la teneur en EMAG est supérieure à 2 % (V / V). Cette spécification, en révision au CEN, est temporaire. <p>(2) Cette spécification supplémentaire est optionnelle. <br/>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-2. Additif.
+2. Caractéristiques de tenue au froid
 
-Les esters méthyliques d'acides gras conformes à la norme EN 14214 doivent être additivés dès leur production et avant stockage d'un additif anti-oxydant ayant des performances au moins équivalentes à celles d'une incorporation de 1 000 ppm de buthylhydroxytoluène (BHT) et dont l'innocuité avec la chaîne logistique (y compris le transport par oléoduc), les autres additifs et les véhicules aura été validée.
+<table>
+<tbody>
+<tr>
+<th>
+<br/>SAISON <br/>
+</th>
+<th>
+<br/>DATE <br/>
+</th>
+<th>
+<br/>CLASSE <br/>
+</th>
+<th>
+<br/>TLF (C, max) <br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Eté <br/>
+</td>
+<td align="center">
+<br/>1er avril - 31 octobre <br/>
+</td>
+<td align="center">
+<br/>B <br/>
+</td>
+<td align="center">
+<br/>0° C <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Hiver <br/>
+</td>
+<td align="center">
+<br/>1er novembre - 31 mars <br/>
+</td>
+<td align="center">
+<br/>E <br/>
+</td>
+<td align="center">
+<br/>- 15° C <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Gazole grand froid <br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>F <br/>
+</td>
+<td align="center">
+<br/>- 20° C <br/>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<br/>TLF : température limite de filtrabilité.<br/>
+</td>
+</tr>
+</tbody>
+</table>
