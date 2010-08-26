@@ -340,7 +340,6 @@
 - [Décret n°2006-1718 du 23 décembre 2006 (INTC0630080D)](decret-n2006-1718-du-23-decembre-2006-intc0630080d)
 - [Décret n°2006-1719 du 23 décembre 2006 (INTE0600316D)](decret-n2006-1719-du-23-decembre-2006-inte0600316d)
 - [Décret n°2006-1722 du 23 décembre 2006 (SOCU0612272D)](decret-n2006-1722-du-23-decembre-2006-socu0612272d)
-- [Décret n°2006-1723 du 23 décembre 2006 (ECOP0600792D)](decret-n2006-1723-du-23-decembre-2006-ecop0600792d)
 - [Décret n°2006-1724 du 23 décembre 2006 (ECOT0695156D)](decret-n2006-1724-du-23-decembre-2006-ecot0695156d)
 - [Décret n°2006-1725 du 23 décembre 2006 (BUDB0630090D)](decret-n2006-1725-du-23-decembre-2006-budb0630090d)
 - [Décret n°2006-1726 du 23 décembre 2006 (BUDF0620460D)](decret-n2006-1726-du-23-decembre-2006-budf0620460d)
