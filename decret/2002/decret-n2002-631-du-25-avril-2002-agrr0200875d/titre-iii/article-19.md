@@ -37,3 +37,5 @@ o) Les moyens de contrôle dont l'organisme certificateur dispose ou auxquels il
 p) Les nom, qualité et qualification des personnes intervenant spécifiquement dans les contrôles ;
 
 q) La description des sanctions applicables en cas de manquement aux engagements souscrits par les exploitations qualifiées.
+
+Lorsque l'agrément est demandé par un organisme certificateur établi sur le territoire d'un autre Etat membre de l'Union européenne ou de l'Espace économique européen, celui-ci est exempté de la fourniture des pièces qu'il a déjà fournies dans cet Etat pour l'exercice de la même activité.
