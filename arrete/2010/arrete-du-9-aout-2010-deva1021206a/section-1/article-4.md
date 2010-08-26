@@ -1,0 +1,3 @@
+# Article 4
+
+Afin de permettre à un nouvel organisme vérificateur d'obtenir une accréditation pour la vérification des déclarations mentionnées à l'article 1er, par le COFRAC ou par un autre organisme d'accréditation mentionné au I de l'article 2, celui-ci est considéré provisoirement apte à vérifier de telles déclarations dès qu'il adresse au directeur du transport aérien une copie de la convention, accompagnée de ses annexes, signée en vue de l'accréditation, ou une copie d'un document indiquant la recevabilité positive de la demande par l'organisme d'accréditation. Cette aptitude provisoire ne peut excéder dix-huit mois.

@@ -1,0 +1,5 @@
+# Article 2
+
+I. ― Sont aptes à vérifier les déclarations mentionnées à l'article 1er les organismes vérificateurs bénéficiant d'une accréditation à cet effet dans le cadre de la directive 2003/87/CE relative au système d'échange de quotas d'émission de gaz à effet de serre dans l'Union européenne. Cette accréditation est délivrée par le Comité français d'accréditation (COFRAC) ou par un organisme d'accréditation autre que le COFRAC signataire de l'accord multilatéral pris dans le cadre de la Coopération européenne pour l'accréditation (EA). Dans ce dernier cas, l'organisme vérificateur doit satisfaire aux conditions supplémentaires mentionnées au II de l'article 3.
+
+II. ― Le retrait de l'accréditation détenue par un organisme vérificateur entraîne de plein droit son inaptitude à vérifier les déclarations mentionnées à l'article 1er. Le COFRAC tient régulièrement informé le directeur du transport aérien de toute décision relative au retrait ou à la suspension d'accréditation décidée par lui-même ou, lorsqu'il en a connaissance, par un autre organisme d'accréditation mentionné au I du présent article.
