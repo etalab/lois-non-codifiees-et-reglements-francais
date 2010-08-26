@@ -6,10 +6,10 @@ La sélection des dossiers retenus pour bénéficier des aides aux investissemen
 
 Outre les modalités d'examen des projets présentés par appel à candidatures, l'arrêté préfectoral définit, dans la limite du cadre fixé par le présent arrêté, le public cible, l'intensité de l'aide, les dépenses retenues au niveau régional et les plafonds d'aide.
 
-Pour les bancs d'essai moteur et les projets de méthanisation, les dossiers sont sélectionnés sur la base d'un appel à candidature mis en œuvre au plan national par le ministère de l'agriculture et de la pêche.
-
-Un même bénéficiaire ne peut bénéficier que d'une seule aide du ministère de l'agriculture et de la pêche, au titre du diagnostic énergétique et au titre des investissements matériels éligibles au PPE sur la période de programmation de développement rural 2009-2013. Cette règle ne s'applique pas aux CUMA et aux autres financeurs du PPE y compris l'Union européenne.
+Un même bénéficiaire ne peut bénéficier que d'une seule aide du        ministère chargé de l'agriculture, au titre du diagnostic énergétique et au titre des investissements matériels éligibles au PPE sur la période de programmation de développement rural 2009-2013. Cette règle ne s'applique pas aux CUMA et aux autres financeurs du PPE y compris l'Union européenne.
 
 Le diagnostic énergétique peut faire l'objet d'une seule demande d'aide séparément de celle liée aux investissements matériels.
 
-Pour l'année 2009, les dossiers pourront être retenus sans passer par un appel à candidatures dès lors que les critères de priorité et de sélection définis par l'arrêté préfectoral régional sont respectés.
+Les règles de priorité et de sélection de l'axe 4 (LEADER) du programme de développement rural hexagonal (PDRH) s'appliquent aux dossiers PPE relevant de cet axe.
+
+L'ensemble des règles visées à cet article s'appliquent aux dossiers déposés dans le cadre du plan de performance énergétique, à l'exception de ceux visés à l'article 22 du présent arrêté.

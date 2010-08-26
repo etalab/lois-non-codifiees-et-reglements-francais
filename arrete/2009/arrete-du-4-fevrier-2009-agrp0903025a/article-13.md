@@ -16,4 +16,6 @@ Le demandeur prend les engagements suivants :
 
 ― respecter les règles de publicité inhérentes au Fonds européen agricole pour le développement rural (FEADER) et, le cas échéant, celles définies par les autres financeurs du PPE ;
 
-― respecter l'ensemble des engagements durant une période de cinq ans à compter de la date de décision de l'engagement juridique de l'aide.
+― respecter l'ensemble des engagements durant une période de cinq ans à compter de la date de décision de l'engagement juridique de l'aide ;
+
+― informer le guichet unique de toute modification de sa situation, de la raison sociale de sa structure, de son projet ou de ses engagements.
