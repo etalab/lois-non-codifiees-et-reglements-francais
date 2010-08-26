@@ -7,5 +7,3 @@ Pour exercer sur le réseau ferré national une activité de transport de marcha
 2° D'un certificat de sécurité valable pour les services envisagés et les lignes empruntées.
 
 Elles doivent également être attributaires des capacités d'infrastructure nécessaires au service envisagé et disposer des moyens techniques et des personnels nécessaires pour assurer la traction des convois.
-
-Un regroupement international d'entreprises ferroviaires est soumis aux mêmes obligations qu'une entreprise ferroviaire, sauf si toutes les entreprises ferroviaires qui le composent satisfont déjà à ces obligations. Si le regroupement international n'est pas doté de la personnalité juridique, chacune des entreprises ferroviaires qui le composent doit satisfaire à ces obligations.
