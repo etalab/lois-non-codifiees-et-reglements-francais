@@ -54,8 +54,8 @@ Elle vise en outre à apprécier, au travers notamment de ses propositions d'act
 
 Le jury appréciera l'aptitude du candidat à argumenter et à soutenir les propositions et les initiatives qu'il entend promouvoir.
 
-Deuxième partie : interrogation portant sur la compétence  Agir en fonctionnaire de l'Etat et de façon éthique et responsable  (présentation n'excédant pas dix minutes ; entretien avec le jury : dix minutes).
+Deuxième partie : interrogation portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation n'excédant pas dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document inclus dans le dossier qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3  les compétences professionnelles des maîtres  de l'annexe de l'arrêté du 19 décembre 2006.
+Le candidat répond pendant dix minutes à une question, à partir d'un document inclus dans le dossier qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 12 mai 2010.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
