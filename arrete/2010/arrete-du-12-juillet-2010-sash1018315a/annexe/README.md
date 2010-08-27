@@ -3,6 +3,8 @@
 - [Article Annexe (Anatomie)](article-annexe-anatomie.md)
 - [Article Annexe (Biologie médicale)](article-annexe-biologie-medicale.md)
 - [Article Annexe (Chirurgie)](article-annexe-chirurgie.md)
+- [Article Annexe (Dermatologie)](article-annexe-dermatologie.md)
+- [Article Annexe (Gastro-entérologie)](article-annexe-gastro-enterologie.md)
 - [Article Annexe (Gynécologie obstétrique)](article-annexe-gynecologie-obstetrique.md)
 - [Article Annexe (Hématologie)](article-annexe-hematologie.md)
 - [Article Annexe (Médecine générale)](article-annexe-medecine-generale.md)
