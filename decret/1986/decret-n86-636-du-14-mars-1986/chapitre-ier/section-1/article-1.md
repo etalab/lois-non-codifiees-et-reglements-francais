@@ -5,5 +5,3 @@ Deux ou plusieurs personnes physiques, inscrites sur la liste des experts agrico
 Ces sociétés reçoivent l'appellation de sociétés civiles professionnelles d'experts agricoles et fonciers ou de sociétés civiles professionnelles d'experts forestiers ou de sociétés civiles professionnelles d'experts agricoles et fonciers et d'experts forestiers.
 
 Les associés ne peuvent porter que le titre d'expert agricole et foncier associé ou d'expert forestier associé, à l'exclusion de celui d'expert agricole et foncier ou d'expert forestier.
-
-Le nombre d'associés ne peut être supérieur à cinq.
