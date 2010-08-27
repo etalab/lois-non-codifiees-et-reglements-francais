@@ -1,0 +1,5 @@
+# Article 2
+
+I. ― Les dispositions des articles D. 543-208-1 et D. 543-208-2, en ce qu'elles concernent les metteurs sur le marché mentionnés au troisième alinéa du III de l'article L. 541-10-1 du code de l'environnement, entrent en vigueur le 1er janvier 2011 pour les tonnages de papiers à usage graphique mis sur le marché en 2010.
+
+II. - Pour les donneurs d'ordre mentionnés au I de l'article L. 541-10-1 du code de l'environnement, les dates limites mentionnées à l'article D. 543-208-2 sont respectivement reportées, pour l'année 2010, au 30 septembre pour la déclaration du tonnage d'imprimés papiers émis en 2009, au 15 octobre pour la notification du montant de la contribution correspondante et au 31 octobre pour l'acquittement de la contribution. La majoration du taux de la contribution prévue au troisième alinéa de l'article D. 543-208-2 ne s'applique pas à l'année 2010. Les déclarations effectuées en 2010 avant l'entrée en vigueur du présent décret valent déclaration au titre de l'article D. 543-208-2 du code de l'environnement.

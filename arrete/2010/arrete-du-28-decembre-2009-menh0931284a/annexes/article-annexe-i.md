@@ -90,7 +90,7 @@ Option B : Grec ou latin.
 
 Seconde partie : interrogation portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -122,7 +122,7 @@ Les livres jugés indispensables sont mis à la libre disposition des candidats.
 
 Seconde partie : interrogation portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -194,7 +194,7 @@ Première partie : explication d'un texte de langue française extrait des œuvr
 
 Seconde partie : interrogation portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -306,7 +306,7 @@ Première partie : thème oral portant sur un texte littéraire ou emprunté à 
 
 Seconde partie : interrogation en français portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -398,7 +398,7 @@ Cet exercice est suivi d'un entretien en français avec le jury (durée de la pr
 
 Seconde partie : interrogation en français portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable . (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -448,7 +448,7 @@ Pour l'épreuve 1 et la première partie de l'épreuve 2, le jury se réserve la
 
 Seconde partie : interrogation en français portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -514,7 +514,7 @@ Option D : littérature classique,
 
 Seconde partie : interrogation en français portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -558,7 +558,7 @@ L'explication est suivie d'un entretien en français (explication : trente minut
 
 Seconde partie : interrogation en français portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -600,7 +600,7 @@ Exposé oral en hébreu à partir de documents, hors programme, suivi d'un entre
 
 Seconde partie : interrogation en français portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -652,7 +652,7 @@ Première partie : traduction improvisée (thème et version) (durée de l'épre
 
 Seconde partie : interrogation en français portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -684,7 +684,7 @@ Première partie : traduction et analyse en français d'un texte en japonais cla
 
 Seconde partie : interrogation en français portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -722,7 +722,7 @@ Le thème oral est suivi d'un entretien en français (thème oral : vingt minute
 
 Seconde partie : interrogation en français portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -754,7 +754,7 @@ Première partie : thème oral (durée : trente minutes maximum).
 
 Seconde partie : interrogation en français portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -792,7 +792,7 @@ Première partie : leçon en portugais sur une question se rapportant au program
 
 Seconde partie : interrogation en français portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -828,7 +828,7 @@ Première partie : résumé en russe d'un texte en langue russe, non littéraire
 
 Seconde partie : interrogation en français portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -890,7 +890,7 @@ Deux sujets au choix sont proposés par le jury aux candidats. Ce dernier dispos
 
 Seconde partie : interrogation portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles de l'annexe de l'arrêté du 19 décembre 2006.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -928,7 +928,7 @@ Deux sujets au choix sont proposés par le jury aux candidats. Ce dernier dispos
 
 Seconde partie : interrogation portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -992,7 +992,7 @@ Première partie : leçon de chimie, suivie d'un entretien avec le jury (durée 
 
 Seconde partie : interrogation portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -1026,7 +1026,7 @@ Première partie : leçon de physique, suivie d'un entretien avec le jury (duré
 
 Seconde partie : interrogation portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -1062,7 +1062,7 @@ Première partie : leçon de physique et applications, suivie d'un entretien ave
 
 Seconde partie : interrogation portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -1098,7 +1098,7 @@ Première partie : leçon de physique, suivie d'un entretien avec le jury (duré
 
 Seconde partie : interrogation portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -1168,7 +1168,7 @@ La présentation orale et pratique est suivie d'un entretien avec le jury ; l'en
 
 Seconde partie : interrogation portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -1208,7 +1208,7 @@ Pendant la préparation, le candidat dispose d'un clavier et du matériel néces
 
 Seconde partie : interrogation portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -1284,7 +1284,7 @@ Première partie : entretien sans préparation avec le jury : entretien à parti
 
 Seconde partie : interrogation portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 12 mai 2010.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -1320,7 +1320,7 @@ Coefficient pour l'ensemble de l'épreuve : 6.
 
 2° L'épreuve se déroule en deux parties : la première partie est notée sur 15 points, la seconde sur 5 points (durée de la préparation : quatre heures ; durée de l'épreuve : une heure et quinze minutes maximum [leçon : trente minutes maximum ; entretien : quarante-cinq minutes maximum] ; coefficient 3).
 
-Leçon : conçue à l'intention d'élèves et étudiants des classes terminales et postbaccalauréat, elle inclut une réflexion sur les relations avec le monde professionnel et le partenariat, avec les institutions et acteurs des domaines artistiques, culturels et industriels, ainsi que sur les connaissances, capacités et attitudes définies dans le point 3 de l'annexe de l'arrêté du 19 décembre 2006 : Agir en fonctionnaire de l'Etat et de façon éthique et responsable .
+Leçon : conçue à l'intention d'élèves et étudiants des classes terminales et postbaccalauréat, elle inclut une réflexion sur les relations avec le monde professionnel et le partenariat, avec les institutions et acteurs des domaines artistiques, culturels et industriels, ainsi que sur les connaissances, capacités et attitudes définies dans le point 3 de l'annexe de l'arrêté du 12 mai 2010 : Agir en fonctionnaire de l'Etat et de façon éthique et responsable .
 
 Une enveloppe tirée au sort par le candidat contient deux sujets proposés à partir de documents textuels ou visuels. Elle comporte une question relative à la compétence désignée ci-dessus. Le candidat choisit l'un des deux sujets et répond à la question.
 
@@ -1350,7 +1350,7 @@ Première partie : commentaire d'un dossier portant sur un problème économique
 
 Seconde partie : interrogation portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -1440,7 +1440,7 @@ Les candidats doivent impérativement déposer au secrétariat du jury le dossie
 
 Seconde partie : interrogation portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -1568,7 +1568,7 @@ Les candidats doivent impérativement déposer au secrétariat du jury le dossie
 
 Seconde partie : interrogation portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -1956,7 +1956,7 @@ Première partie : leçon devant le jury suivie d'un entretien et se référant 
 
 Seconde partie : interrogation portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable (présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 les compétences professionnelles des maîtres de l'annexe de l'arrêté du 19 décembre 2006.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
