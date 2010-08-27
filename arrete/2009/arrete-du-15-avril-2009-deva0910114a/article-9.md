@@ -1,3 +1,3 @@
 # Article 9
 
-Le présent arrêté s'applique à toute balise 406 MHz embarquée sur un aéronef français.
+Sur demande justifiée, des dérogations aux dispositions des articles 6, 7 et 8 du présent arrêté peuvent être accordées par l'autorité compétente.

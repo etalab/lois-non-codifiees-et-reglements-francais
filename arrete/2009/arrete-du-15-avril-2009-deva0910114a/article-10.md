@@ -1,3 +1,3 @@
 # Article 10
 
-Considérant l'importance des moyens mis en œuvre lors du déclenchement d'une balise de détresse, s'il est prouvé que le détenteur d'une balise de détresse a utilisé cette dernière de manière inappropriée et non conforme aux règles d'utilisation, l'administration se réserve le droit de le poursuivre devant les instances administratives ou judiciaires compétentes.
+Pour l'aviation générale, les propriétaires ou les exploitants d'aéronefs dont les ELT 406 MHz sont installés avant le 1er juillet 2009 bénéficient d'une dispense de recodage de ces ELT.
