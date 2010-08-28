@@ -1,5 +1,7 @@
 # Article 16
 
+Registres et plans de carrières souterraines
+
 16.1. Plans et registres :
 
 Un plan de l'ensemble des travaux, à l'échelle du 1/2 000, du 1/2 500 ou du 1/5 000, est établi pour chaque carrière souterraine. Ce plan indique les cotes des points principaux ainsi que les parties abandonnées des travaux.

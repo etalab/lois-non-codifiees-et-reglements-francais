@@ -1,5 +1,7 @@
 # Article 15
 
+Registres et plans de carrières à ciel ouvert
+
 Pour chaque carrière à ciel ouvert est établi un plan d'échelle adapté à sa superficie.
 
 Sur ce plan sont reportés :

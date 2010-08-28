@@ -14,7 +14,9 @@ Elle comporte au minimum les dispositions suivantes :
 
 12.3. Remblayage de carrière :
 
-Le remblayage des carrières ne doit pas nuire à la qualité et au bon écoulement des eaux. Lorsqu'il est réalisé avec apport de matériaux extérieurs (déblais de terrassements, matériaux de démolition, ...), ceux-ci doivent être préalablement triés de manière à garantir l'utilisation des seuls matériaux inertes.
+Le remblayage des carrières ne doit pas nuire à la qualité du sol, compte tenu du contexte géochimique local, ainsi qu'à la qualité et au bon écoulement des eaux. Lorsqu'il est réalisé avec apport de matériaux extérieurs (déblais de terrassements, matériaux de démolition...), ceux-ci doivent être préalablement triés de manière à garantir l'utilisation des seuls matériaux inertes.
+
+Le remblayage des carrières est géré de manière à assurer la stabilité physique des terrains remblayés.
 
 Les apports extérieurs sont accompagnés d'un bordereau de suivi qui indique leur provenance, leur destination, leurs quantités, leurs caractéristiques et les moyens de transport utilisés et qui atteste la conformité des matériaux à leur destination.
 

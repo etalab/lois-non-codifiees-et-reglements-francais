@@ -4,9 +4,9 @@ L'exploitation est menée de manière à ne pas être à l'origine de bruits aé
 
 22.1. Bruits :
 
-En dehors des tirs de mines, les dispositions relatives aux émissions sonores des carrières sont fixées par l'arrêté du 23 janvier 1997 relatif à la limitation des bruits émis dans l'environnement par les installations classées pour la protection de l'environnement.
+En dehors des tirs de mines, les dispositions relatives aux émissions sonores des différentes installations sont fixées par l'arrêté du 23 janvier 1997 relatif à la limitation des bruits émis dans l'environnement par les installations classées pour la protection de l'environnement.
 
-Un contrôle des niveaux sonores est effectué dès l'ouverture de la carrière pour toutes les nouvelles exploitations et ensuite périodiquement, notamment lorsque les fronts de taille se rapprochent des zones habitées.".
+Un contrôle des niveaux sonores est effectué dès l'ouverture du site pour toutes les nouvelles exploitations et ensuite périodiquement, notamment lorsque les fronts de taille se rapprochent des zones habitées.".
 
 22.2. Vibrations :
 

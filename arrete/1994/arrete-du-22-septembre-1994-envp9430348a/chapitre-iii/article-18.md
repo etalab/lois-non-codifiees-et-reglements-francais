@@ -22,7 +22,11 @@ III. - Les produits récupérés en cas d'accident ne peuvent être rejetés et 
 
 Les rejets d'eau de procédé des installations de traitement des matériaux à l'extérieur du site autorisé sont interdits. Ces eaux sont intégralement recyclées. Le circuit de recyclage est conçu de telle manière qu'il ne puisse donner lieu à des pollutions accidentelles. Un dispositif d'arrêt d'alimentation en eau de procédé de l'installation, en cas de rejet accidentel de ces eaux, est prévu.
 
-18.2.2. Eaux rejetées (eaux d'exhaure, eaux pluviales et eaux de nettoyage) :
+18. 2. 2. Eaux de ruissellement des installations de stockage des déchets inertes et des terres non polluées :
+
+L'exploitant doit s'assurer que les installations de stockage des déchets inertes et des terres non polluées résultant du fonctionnement des carrières ne génèrent pas de détérioration de la qualité des eaux.L'exploitant doit procéder, si l'étude d'impact en montre la nécessité, au traitement et au recyclage des eaux de ruissellement des installations de stockage des déchets et des terres non polluées.
+
+18.2.3. Eaux rejetées (eaux d'exhaure, eaux pluviales et eaux de nettoyage) :
 
 I. - Les eaux canalisées rejetées dans le milieu naturel respectent les prescriptions suivantes :
 

@@ -31,3 +31,21 @@ Dans le cas où l'abattage du gisement est réalisé avec des substances explosi
 L'exploitant prend en compte les effets des vibrations émises dans l'environnement et assure la sécurité du public lors des tirs.
 
 Les tirs de mines ont lieu les jours ouvrables.
+
+11.5. Stockage des déchets inertes et des terres non polluées résultant de l'exploitation des carrières :
+
+Les installations de stockage de déchets inertes et de terres non polluées sont construites, gérées et entretenues de manière à assurer leur stabilité physique et à prévenir toute pollution.L'exploitant assure un suivi des quantités et des caractéristiques des matériaux stockés, et établit un plan topographique permettant de localiser les zones de stockage temporaire correspondantes.
+
+L'exploitant s'assure, au cours de l'exploitation de la carrière, que les déchets inertes et les terres non polluées utilisés pour le remblayage et la remise en état de la carrière ou pour la réalisation et l'entretien des pistes de circulation ne sont pas en mesure de dégrader les eaux superficielles et les eaux souterraines.L'exploitant étudie et veille au maintien de la stabilité de ces dépôts.
+
+L'arrêté d'autorisation prévoit, le cas échéant, la mise en place d'un réseau de surveillance de la qualité des sols, des eaux et la fréquence des mesures à réaliser.
+
+Si l'étude d'impact en montre la nécessité, l'arrêté d'autorisation peut prévoir que l'exploitant procède :
+
+- au maintien de l'indépendance hydraulique des réseaux de récupération des eaux d'infiltration des zones de stockage et à une gestion séparative des effluents ;
+
+- à la récupération et au traitement des lixiviats ;
+
+- à des analyses des eaux de ruissellement et des lixiviats, en fixant des paramètres et les substances à analyser ainsi que la fréquence des analyses.
+
+En cas de risques de perte d'intégrité des installations de stockage de déchets inertes et de terres non polluées tels qu'évalués selon les dispositions de l'annexe VII de l'arrêté ministériel du 19 avril 2010 relatif à la gestion des déchets des industries extractives, l'exploitant devra respecter les prescriptions prévues aux articles 7 à 9 de l'arrêté susmentionné.
