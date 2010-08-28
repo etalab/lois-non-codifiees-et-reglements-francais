@@ -18,9 +18,7 @@ Conservateur de musée de 2e classe.
 
 Conservateur en chef des bibliothèques ;
 
-Conservateur des bibliothèques de 1re classe ;
-
-Conservateur des bibliothèques de 2e classe.
+Conservateur des bibliothèques
 
 ANNEXE II
 
