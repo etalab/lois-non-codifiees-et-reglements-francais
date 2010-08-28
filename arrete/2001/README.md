@@ -277,7 +277,6 @@
 - [Arrêté du 16 janvier 2001 (MENF0003044A)](arrete-du-16-janvier-2001-menf0003044a)
 - [Arrêté du 16 janvier 2001 (MENP0100080A)](arrete-du-16-janvier-2001-menp0100080a)
 - [Arrêté du 16 juillet 2001 (AGRG0101410A)](arrete-du-16-juillet-2001-agrg0101410a)
-- [Arrêté du 16 juillet 2001 (MENF0101222A)](arrete-du-16-juillet-2001-menf0101222a)
 - [Arrêté du 16 juillet 2001 (MENP0101562A)](arrete-du-16-juillet-2001-menp0101562a)
 - [Arrêté du 16 mars 2001 (AGRP0100213A)](arrete-du-16-mars-2001-agrp0100213a)
 - [Arrêté du 16 mars 2001 (ECOF0100002A)](arrete-du-16-mars-2001-ecof0100002a)
