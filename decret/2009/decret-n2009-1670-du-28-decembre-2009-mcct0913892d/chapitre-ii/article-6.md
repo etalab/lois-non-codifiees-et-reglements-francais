@@ -2,7 +2,7 @@
 
 Pour bénéficier de l'aide prévue à l'article 5, le foyer qui en fait la demande satisfait aux conditions suivantes :
 
-1° Il a bénéficié d'un dégrèvement de la redevance audiovisuelle en application du 2° et du 3° bis de l'article 1605 bis du code général des impôts au titre de l'année précédant celle au cours de laquelle l'aide est demandée ;
+1° Il a bénéficié d'un dégrèvement de la contribution à l'audiovisuel public en application du 2° et du 3° bis de l'article 1605 bis du code général des impôts au titre de l'année précédant celle au cours de laquelle l'aide est demandée ;
 
 2° Il ne reçoit des services de télévision en clair que par voie hertzienne terrestre en mode analogique ;
 
@@ -15,5 +15,3 @@ Pour bénéficier de l'aide prévue à l'article 5, le foyer qui en fait la dema
 4° Le local d'habitation dans lequel cet appareil ou ce dispositif est détenu constitue la résidence principale du foyer ;
 
 5° Le montant de son revenu fiscal de référence de l'avant-dernière année précédant celle au cours de laquelle l'aide est demandée n'excède pas 20 000 euros pour la première part de quotient familial, majorée de 1 500 euros pour les quatre premières demi-parts et de 2 500 euros pour chaque demi-part supplémentaire retenues pour le calcul de l'impôt sur le revenu.
-
-Il ne peut être accordé plus d'une aide par foyer répondant aux conditions précisées ci-dessus, quel que soit le nombre d'appareils récepteurs de télévision ou de dispositifs assimilés permettant la réception de la télévision.

@@ -1,6 +1,6 @@
 # Article 8
 
-Le montant de l'aide est égal aux frais réellement engagés par le foyer dans la limite de montants maximaux fixés dans le tableau ci-dessous :
+Le montant des aides prévues aux articles 5 et 5-1 est égal aux frais réellement engagés par le foyer dans la limite de montants maximaux fixés dans le tableau ci-dessous :
 
 <div align="center">
 
