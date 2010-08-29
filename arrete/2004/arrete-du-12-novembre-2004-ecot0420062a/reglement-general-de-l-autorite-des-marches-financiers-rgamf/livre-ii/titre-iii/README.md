@@ -7,4 +7,4 @@
 - [Chapitre V : Procédure de garantie de cours](chapitre-v)
 - [Chapitre VI : Offres publiques de retrait](chapitre-vi)
 - [Chapitre VII : Retrait obligatoire](chapitre-vii)
-- [Chapitre VIII : Offres publiques portant sur des titres de créance ne donnant pas accès au capital](chapitre-viii)
+- [Chapitre VIII : Transparence et procédure d'acquisition ordonnée de titres de créance ne donnant pas accès au capital](chapitre-viii)

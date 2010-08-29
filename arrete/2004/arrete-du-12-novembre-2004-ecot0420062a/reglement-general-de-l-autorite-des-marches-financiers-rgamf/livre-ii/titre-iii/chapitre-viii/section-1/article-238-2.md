@@ -1,0 +1,3 @@
+# Article 238-2
+
+Lorsqu'un émetteur a acquis sur le marché ou hors marché en une ou plusieurs fois plus de 10 % de titres représentant un même emprunt obligataire, il en informe le marché dans un délai de quatre jours de négociation par le biais d'un communiqué diffusé selon les modalités prévues à l'article 221-4. Tout rachat en une ou plusieurs fois portant sur chaque tranche supplémentaire de 10 % du même emprunt fait l'objet de la même information. Le seuil de 10 % est calculé sur la base du nombre de titres émis, en tenant compte des éventuelles émissions successives conférant des droits identiques aux porteurs.
