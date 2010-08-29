@@ -4,4 +4,4 @@ Sont obligatoirement affiliés au régime de la sécurité sociale dans les mine
 
 1° En ce qui concerne les prestations en nature dues au titre des assurances maladie, maternité et décès, les anciens travailleurs titulaires soit d'une pension de vieillesse proportionnelle ou normale, soit d'une pension d'invalidité, soit de l'allocation d'attente ;
 
-2° En ce qui concerne les prestations en nature dues au titre des assurances maladie et maternité, les titulaires d'une pension de réversion ainsi que les orphelins de père et de mère bénéficiaires d'une pension servie au titre du présent régime.
+2° En ce qui concerne les prestations en nature dues au titre des assurances maladie et maternité et sous réserve d'avoir été ayant droit d'une personne affiliée à ce régime avant le 1er septembre 2010, les titulaires d'une pension de réversion ainsi que les orphelins de père et de mère bénéficiaires d'une pension servie au titre du présent régime.
