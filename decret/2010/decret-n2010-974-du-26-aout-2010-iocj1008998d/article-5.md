@@ -1,0 +1,7 @@
+# Article 5
+
+Lorsque le militaire, exerçant dans des conditions identiques, des activités de même nature que celles confiées aux personnels civils servant dans la gendarmerie nationale, a un motif raisonnable de penser que sa situation de travail présente un danger grave et imminent pour sa vie ou pour sa santé, ou s'il constate toute défectuosité dans les systèmes de protection, il en avise immédiatement le chef d'organisme ou un de ses supérieurs hiérarchiques. Aucune sanction, aucune retenue sur solde ne peut être prise à l'encontre d'un ou de plusieurs militaires qui se sont individuellement retirés d'une situation de travail dont ils avaient un motif raisonnable de penser qu'elle présentait un danger grave et imminent pour leur vie ou pour la santé de chacun d'eux.
+
+Le chef d'organisme ne peut demander au militaire de reprendre son activité dans une situation de travail où persiste un danger grave et imminent.
+
+En cas de divergence sur la réalité du danger ou la façon de le faire cesser, le chef de l'organisme arrête les mesures à prendre, après avis du conseil consultatif d'hygiène et de sécurité compétent réuni en urgence dans un délai n'excédant pas vingt-quatre heures. L'inspecteur du travail est obligatoirement saisi selon les modalités prévues à l'article 5-7 du décret du 28 mai 1982 précité et assiste de plein droit à la réunion du conseil consultatif d'hygiène et de sécurité. Après avoir pris connaissance de l'avis émis par le conseil consultatif d'hygiène et de sécurité, l'autorité hiérarchique arrête les mesures à prendre.
