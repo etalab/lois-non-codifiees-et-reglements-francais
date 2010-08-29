@@ -1,6 +1,6 @@
 # Article 15
 
-I. ― Un troupeau de bovinés obtient la qualification « officiellement indemne de brucellose » lors de création ou de reconstitution de troupeau après abattage total, lorsque, à la fois :
+I. ― Un troupeau de bovinés obtient la qualification "officiellement indemne de brucellose" lors de création ou de reconstitution de troupeau après abattage total, lorsque, à la fois :
 
 1° Tout boviné, quel que soit son âge, introduit dans le troupeau :
 
@@ -18,7 +18,7 @@ Le boviné introduit peut cependant déroger à cette obligation de test de dép
 
 2° Les animaux des autres espèces sensibles (définies à l'article 2) de statut sanitaire inconnu sont détenus de façon distincte du troupeau de bovinés.
 
-II. - Un troupeau de bovinés officiellement indemne de brucellose continue à bénéficier de la qualification « officiellement indemne de brucellose » lorsque :
+II. - Un troupeau de bovinés officiellement indemne de brucellose continue à bénéficier de la qualification "officiellement indemne de brucellose" lorsque :
 
 1° Une partie des animaux est contrôlée annuellement (lors de chaque campagne de prophylaxie, dont les dates sont fixées par le directeur départemental des services vétérinaires), avec résultats favorables :
 
@@ -39,5 +39,3 @@ Les tests sur sérums sont pratiqués, dans tous les troupeaux, sur 20 % au moin
 III. ― 1° Par dérogation au point 1° du I et au point 2° du II du présent article, les bovinés introduits dans un troupeau officiellement indemne de brucellose peuvent ne pas être soumis à l'obligation de test de dépistage s'ils proviennent eux-mêmes de troupeaux officiellement indemnes et si la durée de leur transfert entre l'exploitation d'origine et l'exploitation de destination n'excède pas six jours.
 
 2° Toutefois, pour les bovinés provenant de troupeaux présentant un risque sanitaire particulier, tels que mentionnés au 3° de l'article 6, le test de dépistage reste obligatoire quel que soit le délai de transfert entre l'exploitation d'origine et l'exploitation de destination. En outre, ce test doit être réalisé dans les quinze jours précédant le départ de l'exploitation d'origine à risque.
-
-3° Par ailleurs, la dérogation prévue au point 1° du III du présent article ne s'applique pas lorsque les troupeaux de destination présentent un taux de rotation annuel supérieur à 40 %, tel que mentionné au 1° de l'article 6, quel que soit le délai de transfert entre l'exploitation d'origine et l'exploitation de destination (test de dépistage dans les quinze jours précédant le départ du boviné de l'exploitation d'origine, ou suivant sa livraison dans l'exploitation de destination à taux de rotation annuel supérieur à 40 %).

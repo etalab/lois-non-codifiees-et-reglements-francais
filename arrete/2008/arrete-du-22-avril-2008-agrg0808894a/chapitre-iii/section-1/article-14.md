@@ -8,11 +8,11 @@ II. ― Non indemne de brucellose dans les autres cas. Au sein de cette catégor
 
 1° Suspect d'être infecté de brucellose dans les cas suivants, pour autant qu'il n'appartienne pas à un troupeau infecté :
 
-a) Après un avortement associé à un résultat sérologique sanguin individuel positif ou ;
+a) Après un avortement associé à l'obtention de résultats positifs individuels, soit à la fois en EAT et en FC, soit à la fois en ELISA et en FC, soit en ECA ;
 
-b) Après obtention de résultats positifs, soit à la fois en EAT et en FC, soit en ECA ou ;
+b) Après obtention de résultats positifs en ECA ;
 
-c) Après deux résultats ELISA positifs à quinze jours d'intervalle sur des laits de mélange comprenant le lait du boviné.
+c) Après obtention de deux résultats sérologiques positifs obtenus à partir d'échantillons prélevés à intervalle de soixante jours au plus.
 
 2° Infecté de brucellose dans les cas suivants :
 

@@ -1,6 +1,6 @@
 # Article 30
 
-L'assainissement par abattage total d'un troupeau de bovinés déclaré infecté de brucellose est obligatoire.
+L'assainissement par abattage total d'un troupeau de bovinés déclaré infecté de brucellose à Brucella abortus ou Brucella mellitensis est obligatoire. En cas d'infection brucellique par une autre souche de Brucella, il peut être dérogé à l'abattage total sur instruction du ministre chargé de l'agriculture.
 
 L'abattage des bovinés est pratiqué dans le délai fixé par le directeur départemental des services vétérinaires. Ce délai ne peut être supérieur à trente jours après la notification officielle des résultats du diagnostic ou de dépistage au propriétaire ou au détenteur des animaux en cause.
 
