@@ -16,4 +16,4 @@ Il soumet le règlement intérieur à l’approbation du conseil d’administrat
 
 Il est responsable du bon fonctionnement de l'établissement et de la sécurité ; il exerce, en matière de maintien de l'ordre, les compétences attribuées au président d'université dans les conditions prévues par l'article L. 712-2 du code de l'éducation.
 
-Il est la personne responsable des marchés et peut, dans ce domaine, déléguer sa signature au secrétaire général. Dans les autres matières, il peut déléguer sa signature aux membres du bureau et au secrétaire général.
+Le président peut déléguer sa signature aux membres du bureau, au secrétaire général et aux agents de catégorie A placés sous son autorité ainsi que, pour les affaires intéressant les unités de recherche constituées avec d'autres établissements publics d'enseignement supérieur ou de recherche, à leurs responsables respectifs.
