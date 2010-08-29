@@ -44,13 +44,13 @@ Article 4
 
 1. Composition
 
-La Fédération nationale des chasseurs est administrée par un conseil d'administration comprenant vingt-sept membres, élus pour six ans parmi les présidents des fédérations départementales et interdépartementales et renouvelables par moitié tous les trois ans. Ces membres sont répartis à raison d'un membre pour chacune des régions administratives, à l'exception des régions Aquitaine, Centre, Midi-Pyrénées et Rhône-Alpes représentées pour chacune d'elles par deux membres, et de la Martinique, de la Guadeloupe, de La Réunion et de Saint-Pierre-et-Miquelon (ci-après désignés par le terme de  départements d'outre-mer ) représentés collectivement par un membre.
+La Fédération nationale des chasseurs est administrée par un conseil d'administration comprenant vingt-sept membres, élus pour six ans parmi les présidents des fédérations départementales et interdépartementales et renouvelables par moitié tous les trois ans. Ces membres sont répartis à raison d'un membre pour chacune des régions administratives, à l'exception des régions Aquitaine, Centre, Midi-Pyrénées et Rhône-Alpes représentées pour chacune d'elles par deux membres, et de la Martinique, de la Guadeloupe, de La Réunion et de Saint-Pierre-et-Miquelon (ci-après désignés par le terme de départements d'outre-mer) représentés collectivement par un membre.
 
 2. Renouvellement
 
 Après chaque renouvellement partiel triennal des conseils d'administration des fédérations départementales et interdépartementales des chasseurs, le conseil d'administration de la Fédération nationale des chasseurs est renouvelé.
 
-Sur l'initiative du plus jeune d'entre eux, les présidents des fédérations départementales et interdépartementales des chasseurs de chaque région administrative se réunissent pour désigner leur(s) représentant(s) au conseil d'administration de la Fédération nationale des chasseurs. Les candidatures au conseil d'administration, y compris celles des membres sortants, doivent être déposées par lettre recommandée avec demande d'avis de réception postal, au secrétariat de la fédération régionale, au moins vingt jours avant la date prévue pour la désignation des représentants au conseil d'administration de la Fédération nationale des chasseurs.
+Sur l'initiative du plus jeune d'entre eux, les présidents des fédérations départementales et interdépartementales des chasseurs de chaque région administrative se réunissent pour désigner leur (s) représentant (s) au conseil d'administration de la Fédération nationale des chasseurs. Les candidatures au conseil d'administration, y compris celles des membres sortants, doivent être déposées par lettre recommandée avec demande d'avis de réception postal, au secrétariat de la fédération régionale, au moins vingt jours avant la date prévue pour la désignation des représentants au conseil d'administration de la Fédération nationale des chasseurs.
 
 Cette élection a lieu au scrutin secret. Sont élus les candidats ayant obtenu le plus grand nombre de voix. En cas d'égalité des suffrages après trois tours de scrutin, il est procédé à un tirage au sort.
 
@@ -86,7 +86,7 @@ Bureau
 
 Article 5
 
-Dans le mois suivant son renouvellement, le conseil d'administration choisit parmi ses membres, au scrutin secret, un bureau composé d'un président, de deux vice-présidents, de deux secrétaires, d'un trésorier et d'un trésorier adjoint. Le bureau est élu pour trois ans.
+Dans le mois suivant son renouvellement, le conseil d'administration choisit parmi ses membres, au scrutin secret, un bureau composé d'un président, de deux vice-présidents, de deux secrétaires, d'un trésorier et d'un trésorier adjoint. Le bureau est élu pour trois ans. La majorité absolue des suffrages exprimés, à deux tours de scrutin, est requise. Après le premier tour de scrutin, seuls les deux candidats arrivés en tête pour chaque poste, après désistement éventuel, restent en lice pour le second tour du scrutin.
 
 Le président est le représentant légal de la Fédération nationale des chasseurs en toute circonstance, notamment en justice et dans ses rapports avec les tiers. Il signe tous les actes et pièces au nom de la fédération. Il procède au recrutement des personnels. Le président est habilité, sur mandat du conseil d'administration, à agir en justice tant en demande qu'en défense ou en intervention ; il prend toutes initiatives à cet effet et en fait rapport au conseil d'administration. Il peut déléguer temporairement tout ou partie de ses pouvoirs à un vice-président ou à un membre du conseil d'administration.
 
@@ -140,9 +140,9 @@ Article 9
 
 Le Fonds cynégétique national comporte deux sections :
 
-- une section de péréquation entre les fédérations départementales et interdépartementales des chasseurs alimentées par les contributions obligatoires des fédérations départementales et interdépartementales des chasseurs prévues à l'article 2 du présent arrêté ;
+-une section de péréquation entre les fédérations départementales et interdépartementales des chasseurs alimentées par les contributions obligatoires des fédérations départementales et interdépartementales des chasseurs prévues à l'article 2 du présent arrêté ;
 
-- une section de prévention et d'indemnisation des dégâts de grand gibier alimentée par les cotisations nationales versées à la Fédération nationale des chasseurs par chaque chasseur de grand gibier ayant validé un permis de chasser national.
+-une section de prévention et d'indemnisation des dégâts de grand gibier alimentée par les cotisations nationales versées à la Fédération nationale des chasseurs par chaque chasseur de grand gibier ayant validé un permis de chasser national.
 
 Le montant des contributions obligatoires de chaque fédération et le montant de la cotisation nationale ainsi que la clé de répartition et les modalités de redistribution de ce fonds entre les fédérations départementales et interdépartementales bénéficiaires sont déterminés par l'assemblée générale de la fédération nationale, sur proposition du conseil d'administration.
 
@@ -152,59 +152,59 @@ La comptabilité de la fédération est assurée suivant le plan comptable appli
 
 a) Les produits comprenant notamment :
 
-- le produit des cotisations ;
+-le produit des cotisations ;
 
-- le montant des dons, legs, subventions de toute nature, rétributions pour prestations de services ;
+-le montant des dons, legs, subventions de toute nature, rétributions pour prestations de services ;
 
-- le montant des indemnités et dommages-intérêts qui peuvent lui être accordés ;
+-le montant des indemnités et dommages-intérêts qui peuvent lui être accordés ;
 
-- les produits financiers.
+-les produits financiers.
 
 b) Les charges comprenant notamment :
 
-- les frais généraux ;
+-les frais généraux ;
 
-- les charges de personnel ;
+-les charges de personnel ;
 
-- les frais financiers ;
+-les frais financiers ;
 
-- les dotations aux amortissements et provisions ;
+-les dotations aux amortissements et provisions ;
 
-- les charges afférentes aux missions prévues à l'article 1er des présents statuts, à l'exception de celles relatives au fonds de péréquation entre les fédérations départementales des chasseurs.
+-les charges afférentes aux missions prévues à l'article 1er des présents statuts, à l'exception de celles relatives au fonds de péréquation entre les fédérations départementales des chasseurs.
 
 2. Une comptabilité autonome relative à la péréquation entre les fédérations départementales des chasseurs pour la réalisation, en fonction de leurs ressources et de leurs charges, de leurs activités statutaires autres que celles relatives aux dégâts de gibier, faisant figurer :
 
 a) Les produits comprenant notamment :
 
-- le produit de la part des contributions obligatoires acquittées par les fédérations départementales et interdépartementales des chasseurs affectée à cet objet.
+-le produit de la part des contributions obligatoires acquittées par les fédérations départementales et interdépartementales des chasseurs affectée à cet objet.
 
 b) Les charges comprenant notamment :
 
-- les versements effectués au profit des fédérations départementales et interdépartementales des chasseurs.
+-les versements effectués au profit des fédérations départementales et interdépartementales des chasseurs.
 
 3. Une comptabilité autonome relative à la péréquation entre les fédérations départementales et interdépartementales des chasseurs pour la réalisation, en fonction de leurs ressources et de leurs charges, de la prévention et de l'indemnisation des dégâts de grand gibier, faisant figurer :
 
 a) Les produits comprenant notamment :
 
-- le produit des cotisations nationales versées à la Fédération nationale des chasseurs par chaque chasseur de grand gibier ayant validé un permis de chasser national ;
+-le produit des cotisations nationales versées à la Fédération nationale des chasseurs par chaque chasseur de grand gibier ayant validé un permis de chasser national ;
 
-- le produit des placements financiers des ressources susmentionnées.
+-le produit des placements financiers des ressources susmentionnées.
 
 b) Les charges comprenant notamment :
 
-- les versements effectués au profit des fédérations départementales et interdépartementales des chasseurs pour la prévention et l'indemnisation des dégâts de grand gibier ;
+-les versements effectués au profit des fédérations départementales et interdépartementales des chasseurs pour la prévention et l'indemnisation des dégâts de grand gibier ;
 
-- le financement des actions de prévention des dégâts de grand gibier menées par la fédération nationale ;
+-le financement des actions de prévention des dégâts de grand gibier menées par la fédération nationale ;
 
-- le financement des charges d'expertise et de formation des experts et des estimateurs ;
+-le financement des charges d'expertise et de formation des experts et des estimateurs ;
 
-- le financement des charges de personnels affectés à la prévention et à l'indemnisation des dégâts de grand gibier ;
+-le financement des charges de personnels affectés à la prévention et à l'indemnisation des dégâts de grand gibier ;
 
-- le financement des charges de gestion des dégâts de grand gibier ;
+-le financement des charges de gestion des dégâts de grand gibier ;
 
-- les charges financières ;
+-les charges financières ;
 
-- les frais de contentieux.
+-les frais de contentieux.
 
 Les comptes sont obligatoirement établis chaque année par un expert-comptable inscrit au tableau de son ordre.
 
@@ -220,7 +220,7 @@ L'assemblée générale comprend les présidents de toutes les fédérations dé
 
 L'assemblée générale se réunit au moins une fois par an avant le 1er mai.
 
-Vingt jours au moins avant la date fixée, les membres de l'assemblée générale de la Fédération nationale des chasseurs sont convoqués par les soins du président ou, en son nom, du secrétaire. L'ordre du jour, arrêté par le conseil d'administration, est indiqué sur les convocations.
+Vingt jours au moins avant la date fixée, les membres de l'assemblée générale de la Fédération nationale des chasseurs sont convoqués par les soins du président ou, en son nom, du secrétaire.L'ordre du jour, arrêté par le conseil d'administration, est indiqué sur les convocations.
 
 L'assemblée générale choisit son bureau qui peut être celui du conseil d'administration.
 
