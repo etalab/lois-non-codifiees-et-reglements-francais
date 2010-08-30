@@ -20,4 +20,8 @@ Peuvent faire l'objet de financements par le fonds les actions suivantes propos�
 
 Peuvent également faire l'objet de financements par le fonds les adaptations des postes de travail destinés à maintenir dans leur emploi les agents reconnus inaptes à l'exercice de leurs fonctions dans les conditions réglementaires applicables à chaque fonction publique et qui n'appartiennent pas à l'une des catégories mentionnées à l'article 2.
 
-Les financements sont versés aux employeurs publics à l'initiative de ces actions. Les financements non utilisés au titre de l'action pour laquelle ils ont été accordés sont reversés au fonds par l'employeur concerné.
+Les financements sont versés aux employeurs publics à l'initiative de ces actions.
+
+Toutefois, à la demande expresse des employeurs publics ayant conclu une convention avec le fonds, les financements sont versés aux organismes mentionnés au 4° auxquels ils font appel par voie contractuelle.
+
+Les financements non utilisés au titre de l'action pour laquelle ils ont été accordés sont reversés au fonds par l'employeur concerné ou l'organisme mentionné à l'alinéa précédent lorsqu'une convention a été conclue avec le fonds.
