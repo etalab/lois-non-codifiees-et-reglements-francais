@@ -510,6 +510,7 @@
 - [Décret n°69-765 du 30 juillet 1969](decret-n69-765-du-30-juillet-1969)
 - [Décret n°93-1146 du 30 septembre 1993 (DOMP9300030D)](decret-n93-1146-du-30-septembre-1993-domp9300030d)
 - [Décret n°93-1147 du 30 septembre 1993 (DOMP9300031D)](decret-n93-1147-du-30-septembre-1993-domp9300031d)
+- [Décret n°2001-466 du 30 mai 2001 (MJSK0170156D)](decret-n2001-466-du-30-mai-2001-mjsk0170156d)
 - [Décret n°2001-1001 du 31 octobre 2001 (ECOR0006055D)](decret-n2001-1001-du-31-octobre-2001-ecor0006055d)
 - [Décret n°2001-689 du 31 juillet 2001 (JUSD0130105D)](decret-n2001-689-du-31-juillet-2001-jusd0130105d)
 - [Décret n°2001-690 du 31 juillet 2001 (JUSA0100199D)](decret-n2001-690-du-31-juillet-2001-jusa0100199d)
