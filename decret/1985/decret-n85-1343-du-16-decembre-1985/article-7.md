@@ -28,6 +28,8 @@ Le Centre national de la fonction publique territoriale (CNFPT) ;
 
 -la Caisse nationale des barreaux français ;
 
--le service des pensions du ministère chargé du budget ;
+-le       service des retraites de l'Etat ;
 
--la caisse de prévoyance et de retraite du personnel de la Société nationale des chemins de fer français.
+-la caisse de prévoyance et de retraite du personnel de la Société nationale des chemins de fer français ;
+
+- la Caisse de retraite du personnel navigant professionnel de l'aéronautique civile.

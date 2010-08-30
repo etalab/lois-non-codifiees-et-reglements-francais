@@ -28,4 +28,8 @@ Sous réserve des exceptions déterminées par le décret n° 85-1344 du 16 déc
 
 -la déclaration mentionnée à l'article L. 1221-18 du code du travail ;
 
--la déclaration prévue par l'article 8 du décret n° 2007-1796 du 19 décembre 2007 relatif à la cotisation et à la contribution dues pour la couverture des charges de pensions et allocations temporaires d'invalidité des fonctionnaires de l'Etat, des magistrats et des militaires détachés ainsi que des agents des offices ou établissements de l'Etat dotés de l'autonomie financière.
+-la déclaration prévue par l'article 8 du décret n° 2007-1796 du 19 décembre 2007 relatif à la cotisation et à la contribution dues pour la couverture des charges de pensions et allocations temporaires d'invalidité des fonctionnaires de l'Etat, des magistrats et des militaires détachés ainsi que des agents des offices ou établissements de l'Etat dotés de l'autonomie financière ;
+
+-la déclaration annuelle des salaires adressée par les employeurs de personnel navigant professionnel de l'aéronautique civile à la caisse mentionnée à l'article L. 426-5 du code de l'aviation civile ;
+
+-la déclaration mentionnée à l'article 3 de la loi n° 2009-594 du 27 mai 2009 pour le développement économique des outre-mer.
