@@ -42,8 +42,6 @@ VII.-Fonctions exercées par les personnels enseignants :
 
 -personnels enseignants chargés d'assurer la coordination des centres de formation d'apprentis ;
 
--personnels enseignants et d'éducation chargés d'assurer le suivi des personnels stagiaires en application de l'article 1er du décret n° 92-216 du 9 mars 1992 ;
-
 -directeurs de centre d'information et d'orientation.
 
 (1) Les obligations de service des personnels visés au présent chapitre doivent être intégralement accomplies dans ces établissements, à l'exception de celles mentionnées au second alinéa dudit chapitre.
