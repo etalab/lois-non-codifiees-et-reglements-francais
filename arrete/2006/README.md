@@ -283,6 +283,7 @@
 - [Arrêté du 26 mai 2006 (PMEA0620042A)](arrete-du-26-mai-2006-pmea0620042a)
 - [Arrêté du 27 décembre 2006 (soco0612612a)](arrete-du-27-decembre-2006-soco0612612a)
 - [Arrêté du 27 juillet 2003 (BUDD0370009A)](arrete-du-27-juillet-2003-budd0370009a)
+- [Arrêté du 27 juin 2006 (INTC0600585A)](arrete-du-27-juin-2006-intc0600585a)
 - [Arrêté du 27 mars 2006 (DEFP0600366A)](arrete-du-27-mars-2006-defp0600366a)
 - [Arrêté du 27 mars 2006 (DEFP0600367A)](arrete-du-27-mars-2006-defp0600367a)
 - [Arrêté du 27 novembre 2006 (AGRG0602473A)](arrete-du-27-novembre-2006-agrg0602473a)
