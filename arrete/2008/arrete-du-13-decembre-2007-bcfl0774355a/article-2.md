@@ -10,6 +10,6 @@ Le traitement a pour fonction :
 
 ― le suivi statistique et l'archivage des fiches de surveillance ;
 
-― la programmation et le suivi statistique des opérations de terrain prises en charge par les géomètres du cadastre dans le cadre de leur tournée de conservation ainsi que l'édition de courriers relatifs à leur déplacement en commune ;
+― la programmation et le suivi statistique des opérations de terrain prises en charge par les  géomètres-cadastreurs des finances publiques dans le cadre de leur tournée de conservation ainsi que l'édition de courriers relatifs à leur déplacement en commune ;
 
-― l'organisation d'échanges mutuels d'informations avec les communes et les     directions régionales de l'environnement, de l'aménagement et du logement .
+― l'organisation d'échanges mutuels d'informations avec les communes et les directions régionales de l'environnement, de l'aménagement et du logement.

@@ -17,13 +17,9 @@
 <p>3e catégorie </p>
 </td>
 <td width="141">
-<p align="center">10 069 </p>
+<p align="center">11 482,40</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table>
-<tbody>
 <tr>
 <td>
 <p align="center">
@@ -37,27 +33,27 @@
 </td>
 </tr>
 <tr>
-<td align="center">
+<td>
 <p align="left">1re catégorie</p>
 </td>
-<td align="center">
-<p>16 081,60</p>
+<td>
+<p align="center">16 081,60</p>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td>
 <p align="left">2e catégorie</p>
 </td>
-<td align="center">
-<p>12 944,00</p>
+<td>
+<p align="center">12 944,00</p>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td>
 <p align="left">3e catégorie</p>
 </td>
-<td align="center">
-<p>11 482,40</p>
+<td>
+<p align="center">11 482,40</p>
 </td>
 </tr>
 </tbody>
@@ -78,7 +74,7 @@
 <p align="left">Directeur de l'académie de Paris </p>
 </td>
 <td width="140">
-<p align="center">13 790 </p>
+<p align="center">16 081,60</p>
 </td>
 </tr>
 </tbody>
@@ -99,7 +95,7 @@
 <p align="left">Directeurs de centre régional de documentation pédagogique </p>
 </td>
 <td width="141">
-<p align="center">7 996,08</p>
+<p align="center">9 000,00</p>
 </td>
 </tr>
 </tbody>

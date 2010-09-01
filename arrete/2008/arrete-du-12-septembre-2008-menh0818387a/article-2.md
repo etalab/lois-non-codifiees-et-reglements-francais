@@ -1,6 +1,6 @@
 # Article 2
 
-Les taux annuels prévus à l'article 1er se composent d'une part principale versée mensuellement et d'une part variable versée en une seule fois au cours du premier trimestre de l'année scolaire.
+Les taux annuels prévus à l'article 1er se composent d'une part principale et d'une part variable versées mensuellement.
 
 Le taux de la part principale est de 1 295,62 €.
 

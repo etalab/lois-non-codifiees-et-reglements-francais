@@ -1,0 +1,3 @@
+# Article 7
+
+Les conseils d'établissement institués au sein de la direction du recrutement et de la formation en vertu de l'arrêté du 18 décembre 2006 portant organisation des structures de concertation, ainsi que le conseil des études et les conseils de scolarité institués en application des arrêtés du 18 février 2005 au sein de l'Ecole nationale du Trésor public, sont maintenus à titre transitoire jusqu'à la mise en place des nouveaux cycles de formation initiale. Les listes de candidats au conseil de scolarité de l'établissement de Noisiel sont déposées par les organisations syndicales conformément aux règles édictées par l'article 9 bis de la loi n° 83-634 du 13 juillet 1983 modifiée.

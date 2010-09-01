@@ -1,0 +1,3 @@
+# Article 6
+
+A compter de la date d'entrée en vigueur du présent décret, et jusqu'à la constitution de la commission administrative paritaire du corps des secrétaires administratifs relevant des ministres chargés de l'économie et du budget, qui interviendra au plus tard le 31 décembre 2011, les représentants aux commissions administratives paritaires des contrôleurs du Trésor public recrutés en application de l'article 17 du décret n° 64-461 du 25 mai 1964 fixant le statut particulier des contrôleurs du Trésor dans sa rédaction antérieure au présent décret et des secrétaires administratifs du ministère de l'économie, des finances et de l'industrie siègent en formation commune.
