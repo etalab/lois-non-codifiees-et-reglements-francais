@@ -8,4 +8,6 @@ Le corps des contrôleurs des impôts comporte les grades suivants :
 
 3° Contrôleur principal.
 
-Ces grades sont respectivement assimilés à la classe normale, à la classe supérieure et à la classe exceptionnelle prévues par le décret du 18 novembre 1994 susvisé.
+Ces grades correspondent respectivement aux premier, deuxième et troisième grades prévus par le
+décret n° 2009-1388 du 11 novembre 2009
+portant dispositions statutaires communes à divers corps de fonctionnaires de la catégorie B de la fonction publique de l'Etat.

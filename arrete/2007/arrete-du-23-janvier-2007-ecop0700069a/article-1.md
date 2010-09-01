@@ -8,4 +8,4 @@ Rédaction d'une note ou d'un rapport à l'aide des éléments d'un dossier de c
 
 II. - Epreuve orale d'admission (durée : 30 minutes ; coefficient 4) :
 
-Conversation avec le jury portant, d'une part, sur les fonctions exercées par le candidat depuis sa nomination en qualité de contrôleur du Trésor public de l'administration centrale et, d'autre part, sur l'organisation du ministère de l'économie, des finances et de l'industrie et les missions de ses différents services.
+Conversation avec le jury portant, d'une part, sur les fonctions exercées par le candidat depuis sa nomination en qualité de contrôleur des finances publiques de l'administration centrale et, d'autre part, sur l'organisation du ministère de l'économie, des finances et de l'industrie et les missions de ses différents services.
