@@ -116,6 +116,7 @@
 - [Décret n°2010-458 du 6 mai 2010 (ECED1004991D)](decret-n2010-458-du-6-mai-2010-eced1004991d)
 - [Décret n°2010-464 du 6 mai 2010 (DEVU1003483D)](decret-n2010-464-du-6-mai-2010-devu1003483d)
 - [Décret n°2010-465 du 6 mai 2010 (SASP0931972D)](decret-n2010-465-du-6-mai-2010-sasp0931972d)
+- [Décret n°2006-1543 du 7 décembre 2006 (MENX0600178D)](decret-n2006-1543-du-7-decembre-2006-menx0600178d)
 - [Décret n°2010-14 du 7 janvier 2010 (MTSS0920172D)](decret-n2010-14-du-7-janvier-2010-mtss0920172d)
 - [Décret n°2010-15 du 7 janvier 2010 (MTSA0931612D)](decret-n2010-15-du-7-janvier-2010-mtsa0931612d)
 - [Décret n°2010-16 du 7 janvier 2010 (MTSA0918749D)](decret-n2010-16-du-7-janvier-2010-mtsa0918749d)

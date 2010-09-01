@@ -193,7 +193,6 @@
 - [Décret n° 2007-310 du 5 mars 2007 (INDI0630189D)](decret-n-2007-310-du-5-mars-2007-indi0630189d)
 - [Décret n° 2007-311 du 5 mars 2007 (AGRG0700485D)](decret-n-2007-311-du-5-mars-2007-agrg0700485d)
 - [Décret n°2006-1114 du 5 septembre 2006 (SOCU0611707D)](decret-n2006-1114-du-5-septembre-2006-socu0611707d)
-- [Décret n°2006-1219 du 5 octobre 2006 (MENX0600129D)](decret-n2006-1219-du-5-octobre-2006-menx0600129d)
 - [Décret n°2006-1528 du 5 décembre 2006 (AGRP0602154D)](decret-n2006-1528-du-5-decembre-2006-agrp0602154d)
 - [Décret n°2007-1061 du 5 juillet 2007 (PRMX0759434D)](decret-n2007-1061-du-5-juillet-2007-prmx0759434d)
 - [Décret n°2007-1062 du 5 juillet 2007 (PRMX0759005D)](decret-n2007-1062-du-5-juillet-2007-prmx0759005d)
