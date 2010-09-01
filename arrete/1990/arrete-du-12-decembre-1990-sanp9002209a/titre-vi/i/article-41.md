@@ -6,13 +6,13 @@ Le conseil technique est présidé par le directeur général de l'agence régio
 
 - le directeur de l'école ;
 
-- le professeur d'université, praticien hospitalier de pédiatrie ou le médecin qualifié spécialiste en pédiatrie, désigné par le préfet, sur proposition du directeur général de l'agence régionale de santé ;
+- le professeur d'université, praticien hospitalier de pédiatrie ou le médecin qualifié spécialiste en pédiatrie, désigné par le directeur général de l'agence régionale de santé ;
 
 - deux représentants de l'organisme gestionnaire dont un infirmier général pour les écoles à gestion hospitalière publique ;
 
 - deux représentants des enseignants de l'école dont un médecin qualifié spécialiste en pédiatrie et une puéricultrice, monitrice de l'école, élus par leurs pairs, dont le mandat d'une durée égale à celle de la formation est renouvelable trois fois ;
 
-- deux puéricultrices exerçant des fonctions d'encadrement dans des établissements accueillant des élèves en stage dont une du secteur hospitalier et une du secteur extrahospitalier nommées par le préfet, sur proposition du directeur général de l'agence régionale de santé, dont le mandat d'une durée égale à celle de la formation est renouvelable trois fois ;
+- deux puéricultrices exerçant des fonctions d'encadrement dans des établissements accueillant des élèves en stage dont une du secteur hospitalier et une du secteur extrahospitalier nommées par le directeur général de l'agence régionale de santé, dont le mandat d'une durée égale à celle de la formation est renouvelable trois fois ;
 
 - deux représentants des élèves élus par leurs pairs, dont le mandat est d'une durée égale à celle de la formation.
 

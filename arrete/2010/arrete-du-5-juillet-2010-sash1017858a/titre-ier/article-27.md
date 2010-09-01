@@ -4,7 +4,7 @@ Le jury d'attribution du diplôme, nommé par arrêté du préfet de région, su
 
 1° Le directeur régional de la jeunesse, des sports et de la cohésion sociale ou son représentant, président ;
 
-2° Le directeur régional de l'agence régionale de santé ou son représentant ;
+2° Le directeur général de l'agence régionale de santé ou son représentant ;
 
 3° Le directeur de l'institut de formation en ergothérapie s'il est titulaire du diplôme d'Etat d'ergothérapeute ou, le cas échéant, le responsable de la formation en ergothérapie dans l'institut titulaire d'un diplôme d'Etat d'ergothérapeute ;
 

@@ -16,6 +16,6 @@ Il comprend :
 
 Pour l'ensemble des épreuves, la parité entre les médecins spécialistes qualifiés en anesthésie-réanimation et les cadres infirmiers anesthésistes ou les infirmiers anesthésistes doit être respectée. Il peut être prévu des suppléants.
 
-En cas de fractionnement du jury, le directeur et le conseiller scientifique occupent respectivement la place de cadre infirmier anesthésiste et de médecin spécialiste qualifié en anesthésieréanimation.
+En cas de fractionnement du jury, le directeur et le conseiller scientifique occupent respectivement la place de cadre infirmier anesthésiste et de médecin spécialiste qualifié en anesthésie réanimation.
 
-Pour les centres d'instruction relevant du ministère de la défense, le président du jury est désigné par le directeur central du service de santé des armées, la vice-présidence étant assurée par le directeur régional des affaires sanitaires et sociales ou son représentant.
+Pour les centres d'instruction relevant du ministère de la défense, le président du jury est désigné par le directeur central du service de santé des armées, la vice-présidence étant assurée par le directeur général de l'agence régionale de santé ou son représentant.

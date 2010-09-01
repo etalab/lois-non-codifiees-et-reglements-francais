@@ -28,4 +28,4 @@ Coût annuel de la formation, décomposition et justificatifs.
 
 Signature de la personne morale responsable de l'établissement, date et cachet.
 
-La demande d'agrément doit être adressée à la direction régionale des affaires sanitaires de la région ou à Mayotte du lieu de l'établissement.
+La demande d'agrément doit être adressée à l'agence régionale de santé de la région où siège l'établissement ou à l'agence régionale de santé de l'océan Indien si l'établissement a son siège à Mayotte.

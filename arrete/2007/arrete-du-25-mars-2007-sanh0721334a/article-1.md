@@ -16,6 +16,6 @@ a) Attestation émanant de l'autorité compétente de l'Etat membre certifiant l
 
 b) Relevé des stages de formation permanente éventuellement suivis avec indication du contenu et de la durée de ces stages ;
 
-6. Traduction par un traducteur assermenté des documents précités.
+6. Traduction par un traducteur agréé auprès des tribunaux français ou habilité à intervenir auprès des autorités judiciaires ou administratives d'un Etat membre de l'UE ou partie à l'accord sur l'Espace économique européen des documents précités.
 
-Le dossier est adressé, par lettre recommandée avec accusé de réception, au préfet de région dans la région où le candidat souhaite exercer.
+Le dossier est adressé, par lettre recommandée avec accusé de réception, au directeur général de l'agence régionale de santé dans la région où le candidat souhaite exercer.

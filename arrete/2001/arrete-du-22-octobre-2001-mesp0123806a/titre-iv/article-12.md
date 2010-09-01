@@ -14,4 +14,4 @@ Il comprend :
 
 Il peut être prévu des suppléants.
 
-Si le nombre de candidats le justifie, le préfet de région peut, sur proposition du directeur de l'école, augmenter le nombre d'examinateurs en respectant le rapport entre le nombre de médecins spécialistes qualifiés en chirurgie et de cadres infirmiers de bloc opératoire diplômés d'Etat.
+Si le nombre de candidats le justifie, le directeur de l'école augmente le nombre d'examinateurs en respectant le rapport entre le nombre de médecins spécialistes qualifiés en chirurgie et de cadres infirmiers de bloc opératoire diplômés d'Etat.

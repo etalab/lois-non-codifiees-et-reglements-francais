@@ -1,8 +1,8 @@
 # Article 2
 
-Lorsque la formation du candidat a été jugée substantiellement différente de la formation requise en France, le préfet de région détermine, après avis de la commission régionale mentionnée à l'article 11 du décret précité, la nature et la durée de l'épreuve d'aptitude et du stage d'adaptation proposés au candidat.
+Lorsque la formation du candidat a été jugée substantiellement différente de la formation requise en France, le directeur général de l'agence régionale de santé détermine, après avis de la commission régionale mentionnée à l'article 11 du décret précité, la nature et la durée de l'épreuve d'aptitude et du stage d'adaptation proposés au candidat.
 
-Une notification préfectorale est adressée au candidat.
+Une notification du directeur général de l'agence régionale est adressée au candidat.
 
 L'épreuve d'aptitude consiste en un contrôle des connaissances pour chaque matière qui ne lui a pas été enseignée initialement.
 

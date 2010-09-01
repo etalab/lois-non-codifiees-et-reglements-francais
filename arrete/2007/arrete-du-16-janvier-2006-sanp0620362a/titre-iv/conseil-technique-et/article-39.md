@@ -1,6 +1,6 @@
 # Article 39
 
-Dans chaque institut, le directeur est assisté d'un conseil de discipline. Il est constitué au début de chaque année scolaire lors de la première réunion du conseil technique. Le conseil de discipline est présidé par le         directeur général de l'agence régionale de santé . Il comprend :
+Dans chaque institut, le directeur est assisté d'un conseil de discipline. Il est constitué au début de chaque année scolaire lors de la première réunion du conseil technique. Le conseil de discipline est présidé par le directeur général de l'agence régionale de santé ou son représentant. Il comprend :
 
 1° Le représentant de l'organisme gestionnaire siégeant au conseil technique ou son suppléant ;
 

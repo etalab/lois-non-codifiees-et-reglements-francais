@@ -2,8 +2,6 @@
 
 Le jury du concours d'admission est nommé et présidé par le directeur de l'école.
 
-Il est présidé par le médecin inspecteur régional de la santé, président, ou son représentant, médecin inspecteur de la santé.
-
 Il comprend :
 
 - un médecin exerçant dans un établissement de santé public ou privé.
