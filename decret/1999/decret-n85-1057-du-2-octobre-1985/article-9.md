@@ -1,15 +1,15 @@
 # Article 9
 
-La direction de l'administration de la police nationale assure la gestion de la police nationale.
+Sans préjudice des compétences de la direction des ressources humaines, la direction des ressources et des compétences de la police nationale assure l'administration générale de la police nationale et la formation de ses agents.
 
 Elle participe à l'élaboration et à l'exécution du budget du ministère en ce qui concerne la police nationale. Elle répartit les moyens financiers entre les services de police et s'assure de leur bonne utilisation.
 
-Elle prépare les textes législatifs et réglementaires relatifs aux statuts des différentes catégories de personnels de la police nationale.
+Elle définit les principes de la gestion des ressources humaines, elle prépare les textes législatifs et réglementaires intéressant les différentes catégories de personnels et assure le recrutement et l'organisation des carrières.
 
-Compte tenu des règles applicables en matière de déconcentration, elle définit les principes de la gestion des ressources humaines. Elle assure notamment le recrutement et l'organisation des carrières pour l'ensemble des fonctionnaires et agents de la police nationale.
+Elle est chargée de l'équipement des services de police.
 
-Elle recense les besoins nécessaires à l'équipement des services de police et répartit les moyens matériels correspondants.
+Elle prépare, en liaison avec les directions concernées du ministère, les programmes immobiliers, informatiques et de transmissions de la police nationale et en suit l'exécution.
 
-Elle prépare, en liaison avec les directions concernées du ministère, les programmes immobiliers, informatiques et de transmissions de la police nationale. Elle en suit l'exécution.
+Dans le cadre des principes généraux qui régissent l'action sociale, elle la définit et la met en œuvre pour les personnels relevant de sa compétence et, dans des domaines fixés par arrêté du ministre de l'intérieur, pour l'ensemble des personnels du ministère.
 
-Elle définit et met en oeuvre l'action sociale pour les personnels relevant de sa compétence et, dans des domaines fixés par arrêté conjoint du Premier ministre et du ministre de l'intérieur, pour l'ensemble des personnels du ministère.
+Elle établit le programme annuel de formation et met en œuvre les formations initiales et continues destinées aux personnels de la police nationale.

@@ -104,13 +104,13 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 <td align="center">
 <br/>Chef du bureau des affaires juridiques. <p>Chef du bureau du budget et de la programmation financière. </p>
 <p>Chef du bureau du personnel et des compétences. </p>
-<p>Chef de cabinet.</p>
+<p>Chef de cabinet. </p>
 </td>
 <td align="center">
 <br/>50 <p>30 </p>
 <p>30 <br/>
 </p>
-<p>30</p>
+<p>30 </p>
 </td>
 </tr>
 <tr>
@@ -129,7 +129,7 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 <p>30 </p>
 <p>30 </p>
 <br/>
-<p>30</p>
+<p>30 </p>
 </td>
 </tr>
 <tr>
@@ -277,7 +277,7 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 <tr>
 <td align="center"/>
 <td align="center">
-<br/>Chef du bureau des personnels administratifs, techniques et scientifiques. (1)<br/>
+<br/>Chef du bureau des personnels administratifs, techniques et scientifiques. (1) <br/>
 </td>
 <td align="center">
 <br/>50 <br/>
@@ -331,7 +331,7 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 <tr>
 <td align="center"/>
 <td align="center">
-<br/>Chef de cabinet du directeur de l'administration de la police nationale. <br/>
+<br/>Chef de cabinet du        directeur des ressources et des compétences de la police nationale. <br/>
 </td>
 <td align="center">
 <br/>30 <br/>
@@ -601,7 +601,7 @@ LOCALISATION DES EMPLOIS DE CONSEILLER D'ADMINISTRATION EN ADMINISTRATION CENTRA
 <p align="center">Chef de la mission rationalisation des missions support. </p>
 </td>
 <td>
-<p align="center">50</p>
+<p align="center">50 </p>
 </td>
 </tr>
 <tr>

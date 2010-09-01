@@ -24,7 +24,7 @@ Le parcours professionnel comprend cinq ateliers :
 
 ― atelier n° 5 : procédures de fin de service.
 
-Le candidat doit enchaîner chronologiquement les ateliers n°s 1, 2, 4 et 5. L'ensemble du parcours d'une durée totale de 40 minutes est réalisé sans interruption durant la même demi-journée. Le parcours peut indifféremment débuter ou se terminer par l'atelier n° 3  Armement et emploi des armes .
+Le candidat doit enchaîner chronologiquement les ateliers n° s 1, 2, 4 et 5.L'ensemble du parcours d'une durée totale de 40 minutes est réalisé sans interruption durant la même demi-journée. Le parcours peut indifféremment débuter ou se terminer par l'atelier n° 3 Armement et emploi des armes.
 
 Notation
 
@@ -40,13 +40,13 @@ Garder toujours l'index le long du pontet, tant qu'il n'y a pas nécessité de t
 
 Les supports de référence :
 
-Ateliers n°s 1 et 5 : référentiel d'emploi des armes/DFPN Documentation ACROPOL/DFPN.
+Ateliers n° s 1 et 5 : référentiel d'emploi des armes / DFPN Documentation ACROPOL / DFPN.
 
-Atelier n° 2 : référentiel GTPI ― Self-défense/DFPN.
+Atelier n° 2 : référentiel GTPI ― Self-défense / DFPN.
 
-Atelier n° 3 : référentiel d'armement/DFPN, réglementation des armes.
+Atelier n° 3 : référentiel d'armement / DFPN, réglementation des armes.
 
-Atelier n° 4 : guide national de référence/DSC, référentiel des premiers secours en intervention/DFPN.
+Atelier n° 4 : guide national de référence / DSC, référentiel des premiers secours en intervention / DFPN.
 
 Atelier n° 1
 
@@ -58,7 +58,7 @@ Notation sur 10 points se répartissant de la manière suivante :
 
 8 points (paragraphes 1 et 2) pour l'ensemble des procédures d'emploi soit 4 points pour la perception et la mise en service de chacune des deux armes utilisées.
 
-La note de 0 attribuée à l'item  connaissance des procédures d'emploi  est éliminatoire et met fin à la poursuite des épreuves de l'unité de valeur n° 1.
+La note de 0 attribuée à l'item connaissance des procédures d'emploi est éliminatoire et met fin à la poursuite des épreuves de l'unité de valeur n° 1.
 
 2 points pour l'utilisation des moyens radio (paragraphe 3).
 
@@ -66,11 +66,11 @@ Durée de l'atelier : 4 minutes.
 
 Le candidat se présente seul. Deux possibilités sont offertes à la libre appréciation du jury :
 
-1.1. Il fait effectuer, en les expliquant, les procédures d'emploi de perception et de mise en service d'une arme de poing et d'une arme d'épaule en dotation dans la police nationale par un membre du jury qui se conforme strictement aux indications données par le candidat,
+1. 1. Il fait effectuer, en les expliquant, les procédures d'emploi de perception et de mise en service d'une arme de poing et d'une arme d'épaule en dotation dans la police nationale par un membre du jury qui se conforme strictement aux indications données par le candidat,
 
 ou
 
-1.2. Il ne donne aucune consigne au plastron, membre du jury. Ce dernier réalise les procédures d'emploi de perception et de mise en service d'une arme de poing, puis d'une arme d'épaule. Toutefois leur mise en œuvre doit comporter au minimum une erreur technique faisant l'objet d'un item répertorié dans la fiche d'évaluation atelier n° 1. Le candidat corrige verbalement la pratique montrée par le plastron ; il peut s'aider d'une démonstration :
+1. 2. Il ne donne aucune consigne au plastron, membre du jury. Ce dernier réalise les procédures d'emploi de perception et de mise en service d'une arme de poing, puis d'une arme d'épaule. Toutefois leur mise en œuvre doit comporter au minimum une erreur technique faisant l'objet d'un item répertorié dans la fiche d'évaluation atelier n° 1. Le candidat corrige verbalement la pratique montrée par le plastron ; il peut s'aider d'une démonstration :
 
 ― les deux armes attribuées à chaque candidat sont désignées par tirage au sort à partir de l'armement suivant : revolver Manurhin F1 spécial police, pistolet automatique unique Rr 51, pistolet automatique SIG SP 2022, pistolet mitrailleur Beretta 12SD, fusil à pompe à répétition, AMD, lanceur de balles de défense super pro, Cougar ;
 
@@ -78,11 +78,11 @@ ou
 
 ― les procédures d'emploi des armes sont réalisées avec des munitions inertes ou neutralisées ;
 
-― toute omission de directive de la part du candidat (paragraphe 1.1) ou l'absence de correction du plastron (paragraphe 1.2) correspondant à l'un des items éliminatoires ou au non-respect d'une des règles générales de sécurité met automatiquement fin à la poursuite des épreuves de l'unité de valeur n° 1 ;
+― toute omission de directive de la part du candidat (paragraphe 1. 1) ou l'absence de correction du plastron (paragraphe 1. 2) correspondant à l'un des items éliminatoires ou au non-respect d'une des règles générales de sécurité met automatiquement fin à la poursuite des épreuves de l'unité de valeur n° 1 ;
 
 ― dans le cas où le candidat estime nécessaire de réaliser lui-même une manipulation pour appuyer ses explications, les critères d'élimination à cet examen restent identiques.
 
-1.3. Il fait effectuer, en les expliquant et en les commentant, les procédures de perception et de mise en service d'un poste radio  Acropole  ainsi que celles inhérentes au trafic radio liées aux opérations de prise d'écoute et d'annonce de départ en mission.
+1. 3. Il fait effectuer, en les expliquant et en les commentant, les procédures de perception et de mise en service d'un poste radio Acropole ainsi que celles inhérentes au trafic radio liées aux opérations de prise d'écoute et d'annonce de départ en mission.
 
 Atelier n° 2
 
@@ -96,9 +96,9 @@ Durée de l'atelier : 8 minutes. Le candidat se présente seul.
 
 A l'issue d'une projection vidéo de la séquence tirée au sort d'une intervention de police, le candidat conduit le retour d'expérience technique en soulignant les points positifs de l'intervention. Il apporte les corrections nécessaires ainsi que les justifications techniques en y intégrant les directives qu'il aurait données en qualité de chef du dispositif.
 
-Le temps imparti à la projection de la séquence audiovisuelle et à la réflexion du candidat est de 2 minutes. L'épreuve de retour d'expérience technique est d'une durée maximale de 6 minutes.
+Le temps imparti à la projection de la séquence audiovisuelle et à la réflexion du candidat est de 2 minutes.L'épreuve de retour d'expérience technique est d'une durée maximale de 6 minutes.
 
-Si le candidat estime nécessaire de réaliser lui-même un geste technique professionnel en intervention sur l'un des membres du jury jouant le rôle de plastron. Cette démonstration doit être conforme aux contenus des documents pédagogiques définis par la direction de la formation de la police nationale.
+Si le candidat estime nécessaire de réaliser lui-même un geste technique professionnel en intervention sur l'un des membres du jury jouant le rôle de plastron. Cette démonstration doit être conforme aux contenus des documents pédagogiques définis par la       direction des ressources et des compétences de la police nationale .
 
 Atelier n° 3
 
@@ -112,9 +112,9 @@ Notation sur 42 points se répartissant de la manière suivante :
 
 Armement :
 
-20 points pour les questions concernant les généralités en armement à raison de 10 points par arme (paragraphe 3.1.1) ;
+20 points pour les questions concernant les généralités en armement à raison de 10 points par arme (paragraphe 3. 1. 1) ;
 
-10 points pour l'étude juridique (paragraphe 3.1.2) ;
+10 points pour l'étude juridique (paragraphe 3. 1. 2) ;
 
 Emploi des armes :
 
@@ -130,9 +130,9 @@ Un résultat égal à 100 % des impacts en cible est noté 12 points.
 
 Durée de l'atelier : 20 minutes.
 
-3.1. Armement. Durée de l'épreuve : 10 minutes.
+3. 1. Armement. Durée de l'épreuve : 10 minutes.
 
-3.1.1. Le candidat est interrogé verbalement sur des connaissances générales en armement portant après tirage au sort sur :
+3. 1. 1. Le candidat est interrogé verbalement sur des connaissances générales en armement portant après tirage au sort sur :
 
 ― une arme en dotation individuelle ;
 
@@ -140,11 +140,11 @@ Durée de l'atelier : 20 minutes.
 
 ― la liste des armes à partir de laquelle est effectué le tirage au sort comprend : le revolver Manurhin F1 spécial police, le pistolet automatique unique Rr 51, le pistolet automatique SIG SP 2022, le pistolet mitrailleur Beretta 12SD, le fusil à pompe à répétition, l'AMD, les lanceurs de balles de défense compact et super pro, le Cougar et les grenades.
 
-3.1.2. Suite au tirage au sort d'un thème professionnel par le candidat, le jury lui fournit le support photographique d'une arme, d'une munition ou d'un élément d'armement identifié extrait d'une série de clichés. Le candidat doit alors définir l'existence d'une éventuelle infraction au régime juridique des armes.
+3. 1. 2. Suite au tirage au sort d'un thème professionnel par le candidat, le jury lui fournit le support photographique d'une arme, d'une munition ou d'un élément d'armement identifié extrait d'une série de clichés. Le candidat doit alors définir l'existence d'une éventuelle infraction au régime juridique des armes.
 
-3.2. Règlement de l'épreuve d'emploi des armes. Durée de l'épreuve : 10 minutes.
+3. 2. Règlement de l'épreuve d'emploi des armes. Durée de l'épreuve : 10 minutes.
 
-3.2.1. Arme utilisée.
+3. 2. 1. Arme utilisée.
 
 Pistolet automatique SIG SAUER SP 2022 ou autre pistolet automatique double action en dotation individuelle.
 
@@ -160,7 +160,7 @@ Cibles : type CNT 3.
 
 Incident de tir : si un incident de tir ne peut être résolu immédiatement, il est fourni au candidat une arme de remplacement, de même type, avec laquelle il effectue un tir d'essai de 10 cartouches avant d'être intégré dans une série suivante pour réaliser l'intégralité du parcours.
 
-C'est le décompte de points le plus favorable au candidat qui sera retenu (parcours avec arme de dotation/parcours avec arme de rechange).
+C'est le décompte de points le plus favorable au candidat qui sera retenu (parcours avec arme de dotation / parcours avec arme de rechange).
 
 Conditions de déroulement de l'épreuve : à 15 mètres.
 
@@ -184,7 +184,7 @@ Tir 2 : phase 1, déplacement à 5 mètres.
 
 Phase 2 : arme à l'étui (étrier de sécurité en position verticale).
 
-Au commandement  contact , sortie d'arme, le tireur prend la position  contact .
+Au commandement contact, sortie d'arme, le tireur prend la position contact.
 
 Au signal sonore (sifflet), tir de 1 cartouche (temps imparti pour le tir d'une cartouche = 2 secondes).
 
@@ -208,7 +208,7 @@ La non-réalisation des 20 flexions dans le temps imparti entraîne une pénalit
 
 Tout manquement aux règles générales de sécurité ou le non-respect des consignes apportées par le formateur entraîne l'élimination du candidat et met fin à la poursuite des épreuves de l'unité de valeur n° 1.
 
-3.2.2. Arme utilisée.
+3. 2. 2. Arme utilisée.
 
 Revolver Manurhin F1 SP police ou Rugger SP 101.
 
@@ -224,7 +224,7 @@ Postes de tir :
 
 Incident de tir : si un incident de tir ne peut être résolu immédiatement, il est fourni au candidat une arme de remplacement, de même type, avec laquelle il effectue un tir d'essai de 10 cartouches avant d'être intégré dans une série suivante pour réaliser l'intégralité du parcours.
 
-En tout état de cause, le décompte de points le plus favorable au candidat sera retenu (parcours avec arme de dotation/parcours avec arme de rechange).
+En tout état de cause, le décompte de points le plus favorable au candidat sera retenu (parcours avec arme de dotation / parcours avec arme de rechange).
 
 Conditions de déroulement de l'épreuve : à 15 mètres.
 
@@ -252,7 +252,7 @@ Phase 2.
 
 Arme à l'étui.
 
-Au commandement  contact , sortie d'arme, le tireur prend la position contact.
+Au commandement contact, sortie d'arme, le tireur prend la position contact.
 
 Au signal sonore (sifflet), tir de 1 cartouche. (Temps imparti pour le tir d'une cartouche = 2 secondes).
 
@@ -296,9 +296,9 @@ L'évaluation du candidat est réalisée conformément aux modalités exposées 
 
 Notation sur 10 points se répartissant de la manière suivante :
 
-8 points (paragraphes 5.1 et 5.2) pour l'ensemble des procédures d'emploi soit 4 points pour la mise en sécurité et la réintégration de chacune des deux armes utilisées.
+8 points (paragraphes 5. 1 et 5. 2) pour l'ensemble des procédures d'emploi soit 4 points pour la mise en sécurité et la réintégration de chacune des deux armes utilisées.
 
-La note de 0 attribuée à l'item  connaissance des procédures d'emploi  est éliminatoire et met fin à la poursuite des épreuves de l'unité de valeur n° 1.
+La note de 0 attribuée à l'item connaissance des procédures d'emploi est éliminatoire et met fin à la poursuite des épreuves de l'unité de valeur n° 1.
 
 2 points pour l'utilisation des moyens radio (paragraphe 5-3).
 
@@ -306,11 +306,11 @@ Durée de l'atelier : 4 minutes.
 
 Le candidat se présente seul. Deux possibilités sont offertes à la libre appréciation du jury :
 
-5.1. Il fait effectuer, en les expliquant, les procédures d'emploi de mise en sécurité et la réintégration d'une arme de poing et d'une arme d'épaule en dotation dans la police nationale par un membre du jury qui se conforme strictement aux indications données par le candidat,
+5. 1. Il fait effectuer, en les expliquant, les procédures d'emploi de mise en sécurité et la réintégration d'une arme de poing et d'une arme d'épaule en dotation dans la police nationale par un membre du jury qui se conforme strictement aux indications données par le candidat,
 
 ou
 
-5.2. Il ne donne aucune consigne au plastron, membre du jury. Ce dernier réalise les procédures d'emploi de mise en sécurité et la réintégration d'une arme de poing puis d'une arme d'épaule. Toutefois leur mise en œuvre doit comporter au minimum une erreur technique faisant l'objet d'un item répertorié dans la fiche d'évaluation atelier n° 5. Le candidat corrige verbalement la pratique montrée par le plastron ; il peut s'aider d'une démonstration.
+5. 2. Il ne donne aucune consigne au plastron, membre du jury. Ce dernier réalise les procédures d'emploi de mise en sécurité et la réintégration d'une arme de poing puis d'une arme d'épaule. Toutefois leur mise en œuvre doit comporter au minimum une erreur technique faisant l'objet d'un item répertorié dans la fiche d'évaluation atelier n° 5. Le candidat corrige verbalement la pratique montrée par le plastron ; il peut s'aider d'une démonstration.
 
 Les deux armes attribuées à chaque candidat sont désignées par tirage au sort à partir de l'armement suivant : revolver Manurhin F1 spécial police, pistolet automatique unique Rr 51, pistolet automatique SIG SP 2022, pistolet mitrailleur Beretta 12SD, fusil à pompe à répétition, AMD, lanceur de balles de défense super pro, Cougar.
 
@@ -318,8 +318,8 @@ Selon le modèle de fusil à pompe retenu pour l'épreuve, le jury précise au c
 
 Les procédures d'emploi des armes sont réalisées avec des munitions inertes ou neutralisées.
 
-Toute omission de directive de la part du candidat (paragraphe 5.1) ou l'absence de correction du plastron (paragraphe 5.2) correspondant à l'un des items éliminatoires ou au non-respect d'une des règles générales de sécurité met automatiquement fin à la poursuite des épreuves de l'unité de valeur n° 1.
+Toute omission de directive de la part du candidat (paragraphe 5. 1) ou l'absence de correction du plastron (paragraphe 5. 2) correspondant à l'un des items éliminatoires ou au non-respect d'une des règles générales de sécurité met automatiquement fin à la poursuite des épreuves de l'unité de valeur n° 1.
 
 Dans le cas où le candidat estime nécessaire de réaliser lui-même une manipulation pour appuyer ses explications, les critères d'élimination à cet examen restent identiques.
 
-5.3. Il fait effectuer, en les expliquant et en les commentant, les procédures de fin de service et de réintégration d'un poste radio  Acropole  ainsi que celles inhérentes au trafic radio liées aux opérations de fin d'écoute.
+5. 3. Il fait effectuer, en les expliquant et en les commentant, les procédures de fin de service et de réintégration d'un poste radio Acropole ainsi que celles inhérentes au trafic radio liées aux opérations de fin d'écoute.

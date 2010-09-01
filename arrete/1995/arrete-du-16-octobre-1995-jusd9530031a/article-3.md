@@ -1,10 +1,10 @@
 # Article 3
 
-Pour l'application de l'article 53-III de la loi du 8 février 1995 susvisée, afin de constater l'aptitude à la fonction d'officier de police judiciaire des officiers de police qui relevaient, avant le 1er septembre 1995, du corps des commandants et officiers de paix de la police nationale et à qui a été reconnue la qualité d'officier de police judiciaire en ce qui concerne les infractions prévues à l'article L. 23-1 du code de la route, il est procédé à une évaluation, sous la forme d'un entretien d'une durée de quinze minutes, dont les modalités d'organisation sont fixées conformément à l'article A.19 du code de procédure pénale.
+Pour l'application de l'article 53-III de la loi du 8 février 1995 susvisée, afin de constater l'aptitude à la fonction d'officier de police judiciaire des officiers de police qui relevaient, avant le 1er septembre 1995, du corps des commandants et officiers de paix de la police nationale et à qui a été reconnue la qualité d'officier de police judiciaire en ce qui concerne les infractions prévues à l'article L. 23-1 du code de la route, il est procédé à une évaluation, sous la forme d'un entretien d'une durée de quinze minutes, dont les modalités d'organisation sont fixées conformément à l'article A. 19 du code de procédure pénale.
 
 Cette évaluation est notée de 0 à 20. Nul ne pourra être considéré comme y ayant satisfait s'il n'a obtenu une note égale ou supérieure à 10 sur 20.
 
-Le secrétariat du jury et l'organisation matérielle de l'évaluation qui se déroule à l'Ecole supérieure de police de Nice sont assurés par la direction de l'administration de la police nationale.
+Le secrétariat du jury et l'organisation matérielle de l'évaluation qui se déroule à l'Ecole supérieure de police de Nice sont assurés par la direction des ressources et des compétences de la police nationale.
 
 Le programme de l'évaluation est ainsi fixé :
 
@@ -48,7 +48,7 @@ La responsabilité pénale des personnes morales.
 
 Les faits justificatifs légaux.
 
-C. - La sanction :
+C.-La sanction :
 
 Notions générales (classification des sanctions et des mesures de sûreté) ;
 
@@ -56,7 +56,7 @@ Modalités de mise en oeuvre des sanctions (période de sûreté ; causes d'att�
 
 Droit pénal spécial
 
-A. - Infractions contre les personnes :
+A.-Infractions contre les personnes :
 
 Les atteintes volontaires à la vie (meurtre, assassinat, empoisonnement, circonstances aggravantes) ;
 
@@ -68,7 +68,7 @@ L'usage et le trafic de stupéfiants ;
 
 Mineurs et famille (délaissement du mineur, abandon de famille, atteinte à l'exercice de l'autorité parentale, les douze cas de mise en péril des mineurs).
 
-B. - Infractions contre les biens :
+B.-Infractions contre les biens :
 
 Le vol ;
 
@@ -82,6 +82,6 @@ Le recel ;
 
 Les destructions, dégradations et détériorations.
 
-C. - Infractions contre la nation, l'Etat et la paix publique :
+C.-Infractions contre la nation, l'Etat et la paix publique :
 
 Crimes et délits commis par ou contre un fonctionnaire (arrestations illégales, violation de domicile, rébellion, outrages, corruption, trafic d'influence).

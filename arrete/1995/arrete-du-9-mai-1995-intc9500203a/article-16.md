@@ -1,14 +1,14 @@
 # Article 16
 
-Le choix des sujets est assuré par un jury composé comme suit:
+Le choix des sujets est assuré par un jury composé comme suit :
 
-Le sous-directeur de la formation de la direction de l'administration de la police nationale ou son représentant, président;
+Le sous-directeur de la formation de la        direction des ressources et des compétences de la police nationale ou son représentant, président ;
 
-Le chef du bureau des personnels administratifs, techniques et scientifiques ou son représentant;
+Le chef du bureau des personnels administratifs, techniques et scientifiques ou son représentant ;
 
-Le chef du bureau du recrutement ou son représentant;
+Le chef du bureau du recrutement ou son représentant ;
 
-Deux fonctionnaires du ministère de l'intérieur et de l'aménagement du territoire appartenant à la catégorie A;
+Deux fonctionnaires du ministère de l'intérieur et de l'aménagement du territoire appartenant à la catégorie A ;
 
 Des spécialistes peuvent éventuellement être désignés.
 

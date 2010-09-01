@@ -571,7 +571,7 @@ A.-Emplois en administration centrale à la préfecture de police et à la préf
 </tr>
 <tr>
 <td>
-<p align="center">En charge d'une sous-direction relevant de la direction générale de la police nationale (direction de l'administration de la police nationale) </p>
+<p align="center">En charge d'une sous-direction relevant de la direction générale de la police nationale ( direction des ressources et des compétences de la police nationale) </p>
 </td>
 <td>
 <pre/>
@@ -2872,14 +2872,14 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p align="center">Directeur de cabinet des préfets : </p>
+<p align="center">Directeur de cabinet des préfets :</p>
 </td>
 <td colspan="2"/>
 <td/>
 </tr>
 <tr>
 <td>
-<p>De la région Île de France </p>
+<p align="left">De la région Île de France</p>
 </td>
 <td colspan="2">
 <p align="center">1</p>
@@ -2890,7 +2890,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Des Hauts de Seine </p>
+<p align="left">Des Hauts de Seine</p>
 </td>
 <td colspan="2">
 <p align="center">1</p>
@@ -2901,10 +2901,10 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>De la Seine Saint Denis </p>
+<p align="left">De la Seine Saint Denis </p>
 </td>
 <td colspan="2">
-<p align="center">1 </p>
+<p align="center">1</p>
 </td>
 <td>
 <p align="center">80</p>
@@ -2912,7 +2912,18 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Du Val de Marne </p>
+<p align="left">Du Val de Marne</p>
+</td>
+<td colspan="2">
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">80</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">De la Loire Atlantique </p>
 </td>
 <td colspan="2">
 <p align="center">1</p>
@@ -2934,7 +2945,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Du Bas Rhin </p>
+<p align="left">Du Bas Rhin </p>
 </td>
 <td colspan="2">
 <p align="center">1</p>
@@ -2944,34 +2955,36 @@ B.-Emplois en administration territoriale
 </td>
 </tr>
 <tr>
-<td>Des Alpes Maritimes</td>
+<td>
+<p align="left">Des Alpes Maritimes</p>
+</td>
+<td colspan="2">
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">80</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Du Pas-de-Calais </p>
+</td>
+<td colspan="2">
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">80</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">De l'Essonne </p>
+</td>
 <td colspan="2">
 <p align="center">1</p>
 </td>
 <td>
 <p align="center">80 </p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="left">Du Pas-de-Calais</p>
-</td>
-<td colspan="2">
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">80</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="left">De l'Essonne</p>
-</td>
-<td colspan="2">
-<p align="center">1</p>
-</td>
-<td>
-<p align="center">80</p>
 </td>
 </tr>
 <tr>
@@ -2987,7 +3000,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Du Val-d'Oise </p>
+<p align="left">Du Val-d'Oise</p>
 </td>
 <td colspan="2">
 <p align="center">1</p>
@@ -2998,14 +3011,12 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Des Yvelines </p>
+<p align="left">Des Yvelines </p>
 </td>
 <td colspan="2">
-<p align="center">1</p>
+<p align="center">1 </p>
 </td>
-<td>
-<p align="center">80 </p>
-</td>
+<td>80</td>
 </tr>
 <tr>
 <td>
@@ -3020,7 +3031,18 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>De la Haute-Corse </p>
+<p align="left">De la Corse-du-Sude </p>
+</td>
+<td colspan="2">
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">80</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">De la Haute-Corse</p>
 </td>
 <td colspan="2">
 <p align="center">1</p>
@@ -3033,16 +3055,12 @@ B.-Emplois en administration territoriale
 <td>
 <p align="center">Emplois spécifiques </p>
 </td>
-<td colspan="2">
-<br/>
-</td>
-<td>
-<br/>
-</td>
+<td colspan="2"/>
+<td/>
 </tr>
 <tr>
 <td>
-<p>Secrétaire général pour l'administration de la police de Versailles </p>
+<p align="left">Secrétaire général pour l'administration de la police de Versailles</p>
 </td>
 <td colspan="2">
 <p align="center">1</p>
@@ -3062,7 +3080,7 @@ B.-Emplois en administration territoriale
 </tr>
 <tr>
 <td>
-<p>Sous-préfet chargé de la sécurité et de la sûreté des plates-formes<br/>aéroportuaires auprès du préfet de Seine-Saint-Denis </p>
+<p align="left">Sous-préfet chargé de la sécurité et de la sûreté des plates-formes aéroportuaires auprès du préfet de Seine-Saint-Denis</p>
 </td>
 <td colspan="2">
 <p align="center">1</p>

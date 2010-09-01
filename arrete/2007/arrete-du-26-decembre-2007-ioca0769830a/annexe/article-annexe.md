@@ -47,7 +47,7 @@ ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 </p>
 </td>
 <td align="center">
-<p align="left">Directeur de la citoyenneté, de l'immigration et de l'intégration.</p>
+<p align="left">Directeur de la citoyenneté, de l'immigration et de l'intégration. </p>
 </td>
 </tr>
 <tr>
@@ -202,13 +202,13 @@ ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 </p>
 </td>
 <td align="center">
-<p align="left">Chef du bureau du budget et du fonctionnement. <br/>
+<p align="left">Chef du bureau du budget et du fonctionnement.<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Direction de l'administration de la police nationale <br/>
+<p align="left">Direction des ressources et des compétences de la police nationale <br/>
 </p>
 </td>
 <td align="center">
@@ -264,7 +264,7 @@ ET DE L'OUTRE-MER ACCÉDANT À L'ÉCHELON SPÉCIAL
 </p>
 </td>
 <td align="center">
-<p align="left">Chef du service achats publics, finances, évaluation, adjoint au sous-directeur de l'administration et de la modernisation.</p>
+<p align="left">Chef du service achats publics, finances, évaluation, adjoint au sous-directeur de l'administration et de la modernisation. </p>
 </td>
 </tr>
 <tr>

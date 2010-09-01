@@ -2,7 +2,7 @@
 
 Les listes des candidats, établies conformément aux dispositions des articles 14 et 15 du décret du 28 mai 1982 susvisé, ainsi que les déclarations de candidatures devront être déposées au plus tard le 26 octobre 2009 à 15 heures (heure de Paris) auprès :
 
-― du directeur général de la police nationale, direction de l'administration de la police nationale (sous-direction des ressources humaines, bureau des gradés et gardiens de la paix), pour ce qui concerne la commission administrative paritaire nationale et les commissions administratives paritaires locales de la formation des services de la police nationale, de la formation pédagogique de la police nationale et des compagnies républicaines de sécurité ;
+― du directeur général de la police nationale,        direction des ressources et des compétences de la police nationale (sous-direction des ressources humaines, bureau des gradés et gardiens de la paix), pour ce qui concerne la commission administrative paritaire nationale et les commissions administratives paritaires locales de la formation des services de la police nationale, de la formation pédagogique de la police nationale et des compagnies républicaines de sécurité ;
 
 ― du préfet de police, pour la commission administrative paritaire interdépartementale compétente à l'égard des fonctionnaires du corps d'encadrement et d'application de la police nationale relevant du secrétariat général pour l'administration de la police nationale de Paris ;
 

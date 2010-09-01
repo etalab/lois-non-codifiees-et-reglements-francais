@@ -12,4 +12,6 @@ d) La direction générale de la gendarmerie nationale ;
 
 e) La direction des libertés publiques et des affaires juridiques ;
 
-f) La direction de la sécurité civile.
+f) La direction de la sécurité civile ;
+
+g) La délégation générale à l'outre-mer.

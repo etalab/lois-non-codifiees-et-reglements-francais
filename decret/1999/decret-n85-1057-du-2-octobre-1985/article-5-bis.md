@@ -10,6 +10,8 @@ Il dispose :
 
 - de la direction des soutiens et des finances ;
 
-- de la mission du pilotage et de la performance.
+- de la mission du pilotage et de la performance ;
+
+- conjointement avec le directeur général de la police nationale, du service des technologies et des systèmes d'information de la sécurité intérieure.
 
 L'inspection générale de la gendarmerie nationale relève du directeur général de la gendarmerie nationale.

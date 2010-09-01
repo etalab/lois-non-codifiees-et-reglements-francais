@@ -1,10 +1,10 @@
 # Article 211-1
 
-Au sein de la direction générale de la police nationale, la direction de l'administration de la police nationale (DAPN) est chargée de la programmation stratégique, de la fonction soutien et de la gestion de la police nationale.
+Au sein de la direction générale de la police nationale, la        direction des ressources et des compétences de la police nationale est chargée de la programmation stratégique, de la fonction soutien et de la gestion de la police nationale.
 
 Elle élabore des schémas stratégiques et prospectifs et fixe les principes et procédures en application, notamment, des règles en vigueur en matière de déconcentration.
 
-Elle participe à l'élaboration et à l'exécution du budget du programme  police nationale  créé en application de la loi organique du 1er août 2001 susvisée. Elle met en oeuvre les décisions de répartition des moyens financiers entre budgets opérationnels de programme prises par le directeur général de la police nationale, responsable de programme, et s'assure de la bonne utilisation de ces moyens.
+Elle participe à l'élaboration et à l'exécution du budget du programme police nationale créé en application de la loi organique du 1er août 2001 susvisée. Elle met en oeuvre les décisions de répartition des moyens financiers entre budgets opérationnels de programme prises par le directeur général de la police nationale, responsable de programme, et s'assure de la bonne utilisation de ces moyens.
 
 Elle prépare les textes législatifs et réglementaires relatifs aux statuts des différentes catégories de personnels de la police nationale et instruit le contentieux administratif en liaison avec la direction des libertés publiques et des affaires juridiques.
 

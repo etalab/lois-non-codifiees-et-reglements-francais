@@ -10,7 +10,7 @@ Le jury comprend :
 
 ― le directeur de la formation de la police nationale ou son représentant ;
 
-― cinq représentants des directions actives autres que la direction de la formation de la police nationale ainsi qu'un représentant de la préfecture de police ;
+― cinq représentants des directions actives autres que la       direction des ressources et des compétences de la police nationale  ainsi qu'un représentant de la préfecture de police ;
 
 ― un représentant du corps de commandement de la police nationale ;
 

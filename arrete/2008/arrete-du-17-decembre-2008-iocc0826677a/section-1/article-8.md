@@ -6,4 +6,4 @@ Elle organise le recrutement des fonctionnaires actifs de police ainsi que la fo
 
 Elle dispose d'un groupe d'appui et de protection, composé de fonctionnaires actifs de police spécialement entraînés à la protection des personnes particulièrement menacées et qui apporte son concours, en tant que de besoin, aux sous-directions chargées de missions de sécurité.
 
-Elle assure l'ensemble de ses missions en liaison avec les services compétents de la direction générale de la police nationale, notamment la direction de l'administration de la police nationale et l'inspection générale de la police nationale.
+Elle assure l'ensemble de ses missions en liaison avec les services compétents de la direction générale de la police nationale, notamment la        direction des ressources et des compétences de la police nationale et l'inspection générale de la police nationale.

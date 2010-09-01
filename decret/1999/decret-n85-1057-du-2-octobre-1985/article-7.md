@@ -10,6 +10,4 @@ c) D'assurer la gestion et le management du corps préfectoral et des administra
 
 d) De préparer, mettre en œuvre et codifier la législation relative aux élections politiques et au financement de la vie politique. Elle organise les élections politiques, traite les contentieux afférents et représente le ministre devant les juridictions compétentes. Elle assure une mission d'analyse politique ;
 
-e) De préparer et de mettre en oeuvre la législation relative aux polices administratives ;
-
-f) De préparer et de mettre en œuvre la législation relative à la circulation et la sécurité routières.
+e) De préparer et de mettre en œuvre la législation relative à la circulation et la sécurité routières.

@@ -1,6 +1,6 @@
 # Article 21
 
-Les commissions sont présidées par le directeur de l'administration de la police nationale ou son représentant.
+Les commissions sont présidées par le        directeur des ressources et des compétences de la police nationale ou son représentant.
 
 Les commissions consultatives paritaires élaborent leur propre règlement intérieur selon le règlement type établi pour les commissions administratives paritaires et soumis à l'approbation du ministre de l'intérieur.
 

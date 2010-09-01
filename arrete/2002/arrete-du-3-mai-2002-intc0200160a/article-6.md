@@ -34,6 +34,6 @@ Dans les directions et services actifs de la police nationale autres que la séc
 
 En sécurité publique : les fonctionnaires du corps de commandement de la police nationale chefs de circonscription de sécurité publique ou chefs de services dont la liste est fixée par arrêté du ministre de l'intérieur, d'une part, ainsi que les chefs de service de gestion opérationnelle et les chefs de secrétariat des officiers du ministère public appartenant au corps des attachés d'administration de l'intérieur et de l'outre-mer, d'autre part.
 
-A la direction de la formation de la police nationale : les adjoints aux directeurs d'école, dès lors qu'ils appartiennent au corps des attachés d'administration de l'intérieur et de l'outre-mer.
+A la       direction des ressources et des compétences de la police nationale  : les adjoints aux directeurs d'école, dès lors qu'ils appartiennent au corps des attachés d'administration de l'intérieur et de l'outre-mer.
 
 En administration centrale, à la préfecture de police ou dans les services territoriaux de la police nationale, tout fonctionnaire du corps de commandement de la police nationale dont les fonctions habituelles ne justifient pas qu'il soit soumis aux dispositions du présent article mais qui, pour une durée continue au moins égale à six mois, a assuré l'intérim d'un fonctionnaire actif des services de la police nationale qui en relève, bénéficie également, pour la durée restant à courir de cet intérim, de ces mêmes dispositions.

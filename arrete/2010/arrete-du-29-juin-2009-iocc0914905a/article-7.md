@@ -6,9 +6,9 @@ a) Pour les contrôles nationaux et les épreuves techniques, l'élève est éva
 
 Pour les contrôles nationaux, cette épreuve est réalisée dans les conditions suivantes :
 
-- pour le contrôle national de séquence A, il participe au contrôle avec la promotion immédiatement postérieure ou, à défaut, à une session de remplacement ;
+-pour le contrôle national de séquence A, il participe au contrôle avec la promotion immédiatement postérieure ou, à défaut, à une session de remplacement ;
 
-- pour les contrôles nationaux de séquence C, l'élève, apte à s'y présenter, participe à l'épreuve de remplacement prévue par la direction de la formation de la police nationale, sous le contrôle du jury national désigné par le bureau de la formation initiale et des écoles.
+-pour les contrôles nationaux de séquence C, l'élève, apte à s'y présenter, participe à l'épreuve de remplacement prévue par la       direction des ressources et des compétences de la police nationale , sous le contrôle du jury national désigné par le bureau de la formation initiale et des écoles.
 
 Pour les épreuves de développement des qualités physiques, de techniques de défense et d'interpellation, d'emploi des armes et d'armement, une épreuve de rattrapage aura lieu à la consolidation de l'élève.
 

@@ -1,7 +1,5 @@
 # Article 13
 
-La direction centrale de la police judiciaire est une direction active de la direction générale de la police nationale.
+La direction de la coopération internationale participe, à titre principal, à l'application de la stratégie internationale du ministre et à la mise en œuvre de la politique étrangère de la France en matière de sécurité intérieure.
 
-Elle concourt à l'exercice des missions de police judiciaire sur l'ensemble du territoire et, notamment, à la prévention et à la répression des formes spécialisées, organisées ou transnationales de la délinquance et de la criminalité.
-
-Elle assure la surveillance des établissements de jeux et des champs de courses.
+Elle anime et coordonne les coopérations opérationnelle, technique et institutionnelle de la police et de la gendarmerie nationales, à l'exception des questions relevant exclusivement des services de renseignement.

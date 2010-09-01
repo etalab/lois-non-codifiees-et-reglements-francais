@@ -8,6 +8,8 @@ A l'exception du contentieux électoral, elle traite le contentieux de niveau ce
 
 Elle assure la diffusion des connaissances juridiques et contribue au développement des compétences dans ce domaine.
 
+Elle est chargée de préparer et mettre en œuvre la législation relative aux polices administratives.
+
 II. - La direction des libertés publiques et des affaires juridiques est chargée de préparer et mettre en œuvre la législation relative aux libertés publiques, notamment celle concernant les cultes, les associations et fondations, et la protection de la liberté individuelle. Elle prépare aussi la réglementation en matière de délivrance des titres d'identité et de voyage.
 
 Elle conduit l'examen de la législation et des procédures concernant le refus opposé pour des motifs d'ordre public au séjour d'étrangers sur le territoire français.

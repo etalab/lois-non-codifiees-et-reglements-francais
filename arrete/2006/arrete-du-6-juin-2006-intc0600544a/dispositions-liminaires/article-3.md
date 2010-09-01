@@ -1,6 +1,6 @@
 # Article 3
 
-L'organisation et les structures de la direction de l'administration de la police nationale, des directions et services actifs d'administration centrale, ainsi que celles de leurs services territoriaux, et des directions et services actifs de la préfecture de police, prévues par des textes réglementaires spécifiques, sont rappelées dans les règlements d'emploi particuliers.
+L'organisation et les structures de la        direction des ressources et des compétences de la police nationale, des directions et services actifs d'administration centrale, ainsi que celles de leurs services territoriaux, et des directions et services actifs de la préfecture de police, prévues par des textes réglementaires spécifiques, sont rappelées dans les règlements d'emploi particuliers.
 
 En conformité avec les principes hiérarchiques énumérés ci-après pour chacune des catégories de personnel, les responsabilités fonctionnelles de ces catégories apparaissent dans les organigrammes des structures de la police nationale.
 

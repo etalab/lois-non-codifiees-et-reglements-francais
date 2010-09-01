@@ -8,4 +8,4 @@ Les compositions sont rédigées sur des feuilles fournies par l'administration 
 
 A la clôture de chaque séance, les compositions, terminées ou non, sont rendues anonymes et placées, en présence des membres de la commission de surveillance et de deux candidats, dans les enveloppes immédiatement cachetées, distinctes pour le premier et le second concours. Les plis scellés sont revêtus de la signature des membres de la commission de surveillance.
 
-Un procès-verbal est transmis au directeur de la direction de l'administration de la police nationale sous plis séparé et scellé.
+Un procès-verbal est transmis au directeur de la        direction des ressources et des compétences de la police nationale sous plis séparé et scellé.
