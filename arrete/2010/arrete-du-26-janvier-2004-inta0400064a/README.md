@@ -8,3 +8,4 @@
 - [Section IV : Direction des systèmes d'information et de communication.](section-iv)
 - [Section V :      Direction de la prospective et de la planification de sécurité nationale.](section-v)
 - [Section VII : Délégation aux affaires internationales et européennes.](section-vii)
+- [Section VIII : Délégation à l'information et à la communication.](section-viii)
