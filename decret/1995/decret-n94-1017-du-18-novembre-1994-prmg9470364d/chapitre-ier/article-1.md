@@ -26,8 +26,6 @@ b) Corps d'établissements publics de l'Etat :
 
 - assistants d'administration de l'aviation civile ;
 
-- secrétaires administratifs du ministère de l'économie, des finances et de l'industrie ;
-
 - secrétaires administratifs du ministère de la défense.
 
 - secrétaires administratifs du ministère de la culture et de la communication.
