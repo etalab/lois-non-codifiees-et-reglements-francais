@@ -10,4 +10,4 @@ Elle coordonne l'activité des offices centraux de police judiciaire ainsi que l
 
 Elle administre les organes centraux de coopération internationale opérationnelle de police.
 
-Elle met en œuvre, pour l'ensemble des directions et services actifs de la police nationale et pour les autorités judiciaires et administratives, des moyens de police technique et scientifique, informatiques et de documentation opérationnelle d'aide aux investigations et aux recherches.
+Elle met en œuvre, pour l'ensemble des directions et services actifs de la police nationale et pour les autorités judiciaires et administratives, des moyens de police technique et scientifique  et de documentation opérationnelle d'aide aux investigations et aux recherches.

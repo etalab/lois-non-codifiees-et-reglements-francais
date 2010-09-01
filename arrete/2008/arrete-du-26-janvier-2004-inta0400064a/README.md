@@ -8,5 +8,4 @@
 - [Article 4](article-4.md)
 - [Section IV : Direction des systèmes d'information et de communication.](section-iv)
 - [Section V : Direction de la planification de sécurité nationale.](section-v)
-- [Section VI : Délégation à la prospective et à la stratégie.](section-vi)
 - [Section VII : Délégation aux affaires internationales et européennes.](section-vii)

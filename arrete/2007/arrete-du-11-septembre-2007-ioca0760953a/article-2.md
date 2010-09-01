@@ -6,6 +6,4 @@ La sous-direction de l'administration territoriale comprend :
 
 - le bureau de la performance et des moyens de l'administration territoriale ;
 
-- le bureau des instruments de pilotage de l'action territoriale ;
-
-- le bureau des polices administratives.
+- le bureau de l'action régionale et interministérielle de l'Etat.

@@ -1,6 +1,6 @@
 # Article 3
 
-La sous-direction de l'action sociale comprend :
+La sous-direction de l'action sociale et de l'accompagnement du personnel comprend :
 
 - le bureau des politiques sociales et du handicap ;
 

@@ -12,6 +12,4 @@ La sous-direction des libertés publiques comprend :
 
 ― le bureau des cultes du Bas-Rhin, du Haut-Rhin et de la Moselle ;
 
-― le bureau de la nationalité, des titres d'identité et de voyage ;
-
-― la cellule du dépôt légal des périodiques.
+― le bureau de la nationalité, des titres d'identité et de voyage.

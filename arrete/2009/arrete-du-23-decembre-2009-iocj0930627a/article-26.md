@@ -2,8 +2,10 @@
 
 Les organismes extérieurs directement subordonnés au directeur général de la gendarmerie nationale comprennent :
 
-― le centre administratif de la gendarmerie nationale, chargé du soutien administratif et financier centralisé des formations de la gendarmerie ;
+― l'établissement central de l'administration et du soutien de la gendarmerie nationale, chargé du soutien administratif et financier centralisé des formations de la gendarmerie ;
 
-― le centre technique de la gendarmerie nationale, chargé du soutien opérationnel et technique des formations de la gendarmerie.
+― le centre technique de la gendarmerie nationale, chargé du soutien opérationnel et technique des formations de la gendarmerie ;
 
-L'activité des organismes extérieurs est animée et coordonnée par la direction des soutiens et des finances.
+- le pôle judiciaire de la gendarmerie nationale, chargé d'animer, d'orienter et de coordonner au plan central les activités de criminalistique et de rapprochements judiciaires de la gendarmerie nationale (1).
+
+A l'exception du pôle judiciaire de la gendarmerie nationale, l'activité des organismes extérieurs est animée et coordonnée par la direction des soutiens et des finances (1).

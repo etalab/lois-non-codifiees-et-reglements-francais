@@ -6,6 +6,8 @@ Il conduit ou coordonne les études prospectives sur l'outre-mer ainsi que les r
 
 Il assure la conduite ou le suivi de la dépense de l'Etat outre-mer et participe à l'élaboration et à la synthèse des statistiques nationales relatives à l'outre-mer.
 
+Il met en œuvre l'Observatoire de l'outre-mer.
+
 II. ― Le service de l'évaluation, de la prospective et de la dépense de l'Etat comprend :
 
 1° Le département de la statistique et du système d'information outre-mer ;

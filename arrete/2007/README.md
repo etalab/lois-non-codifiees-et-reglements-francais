@@ -620,7 +620,6 @@
 - [Arrêté du 19 décembre 2007 (ECET0772871A)](arrete-du-19-decembre-2007-ecet0772871a)
 - [Arrêté du 19 décembre 2007 (ECET0772878A)](arrete-du-19-decembre-2007-ecet0772878a)
 - [Arrêté du 19 décembre 2007 (IOCA0771885A)](arrete-du-19-decembre-2007-ioca0771885a)
-- [Arrêté du 19 décembre 2007 (IOCC0768791A)](arrete-du-19-decembre-2007-iocc0768791a)
 - [Arrêté du 19 décembre 2007 (JUSK0774324A)](arrete-du-19-decembre-2007-jusk0774324a)
 - [Arrêté du 19 février 2007 (DEVN0700160A)](arrete-du-19-fevrier-2007-devn0700160a)
 - [Arrêté du 19 février 2007 (EQUT0700371A)](arrete-du-19-fevrier-2007-equt0700371a)

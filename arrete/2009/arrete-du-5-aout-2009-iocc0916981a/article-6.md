@@ -1,55 +1,53 @@
 # Article 6
 
-La sous-direction de la lutte contre la criminalité organisée et la délinquance financière comprend :
+I.-La sous-direction de la lutte contre la criminalité organisée et la délinquance financière comprend :
 
-― un état-major ;
+-un état-major, auquel sont rattachés la division de l'analyse et de la coordination, la division de la logistique opérationnelle et la coordination nationale des groupes d'intervention régionaux ;
 
-― la division de l'analyse et de la coordination, placée sous l'autorité du chef de l'état-major ;
+-la division nationale d'investigations financières et fiscales, au sein de laquelle sont placées notamment la brigade centrale de lutte contre la corruption et la brigade nationale de répression de la délinquance fiscale, et qui est chargée de réprimer les infractions relevant du droit pénal des affaires, les infractions fiscales ainsi que les atteintes à la probité et aux règles sur le financement de la vie politique ;
 
-― la division de la logistique opérationnelle, placée sous l'autorité du chef de l'état-major ;
+-le service d'information, de renseignement et d'analyse stratégique sur la criminalité organisée, chargé notamment de l'identification et du suivi des organisations criminelles dont l'activité a une incidence sur le territoire national, de l'analyse stratégique et opérationnelle relative à ces organisations et de l'échange de renseignements avec les services français et étrangers.
 
-― la division nationale d'investigations financières, au sein de laquelle est placée la brigade centrale de lutte contre la corruption ;
+-la brigade nationale d'enquêtes économiques ;
 
-― l'office central pour la répression du faux-monnayage ;
+-le service interministériel d'assistance technique.
 
-― l'office central pour la répression du trafic illicite des stupéfiants ;
+Elle est chargée de la prévention et de la répression de la criminalité organisée et de la délinquance spécialisée.
 
-― l'office central pour la répression de la traite des êtres humains ;
+II.-La même sous-direction, chargée de la coordination nationale des offices centraux de police judiciaire mentionnés à l'article D. 8-1 du code de procédure pénale, comprend :
 
-― l'office central de lutte contre le trafic des biens culturels ;
+-l'Office central pour la répression du faux-monnayage ;
 
-― l'office central pour la répression de la grande délinquance financière ;
+-l'Office central pour la répression du trafic illicite des stupéfiants ;
 
-― l'office central de lutte contre la criminalité liée aux technologies de l'information et de la communication ;
+-l'Office central pour la répression de la traite des êtres humains ;
 
-― l'office central de lutte contre le crime organisé ;
+-l'Office central de lutte contre le trafic des biens culturels ;
 
-― l'office central pour la répression des violences aux personnes ;
+-l'Office central pour la répression de la grande délinquance financière ;
 
-― la brigade nationale d'enquêtes économiques ;
+-l'Office central de lutte contre la criminalité liée aux technologies de l'information et de la communication ;
 
-― le service interministériel d'assistance technique.
+-l'Office central de lutte contre le crime organisé ;
 
-La sous-direction est chargée de la prévention et de la répression de la criminalité organisée et de la délinquance spécialisée. A ce titre, elle est chargée du recueil du renseignement, de l'analyse stratégique et des relations avec les administrations intéressées ; elle contribue à l'évaluation de la menace que représentent les organisations criminelles.
+-l'Office central pour la répression des violences aux personnes.
 
-Elle est chargée de la coordination nationale des offices centraux de police judiciaire mentionnés à l'article D. 8-1 du code de procédure pénale et des groupes d'intervention régionaux. Ces missions sont exercées sous l'autorité du chef de l'état-major.
+L'Office central pour la répression du faux-monnayage comprend notamment la brigade centrale pour la répression des contrefaçons industrielles et artistiques, chargée de conduire les enquêtes contre toutes formes organisées d'atteintes aux droits d'auteur, des marques, des brevets et des modèles.
 
-L'office central pour la répression du faux-monnayage comprend notamment la brigade centrale pour la répression des contrefaçons industrielles et artistiques, chargée de conduire les enquêtes contre toutes formes organisées d'atteintes aux droits d'auteur, des marques, des brevets et des modèles.
+L'Office central pour la répression de la grande délinquance financière comprend notamment :
 
-L'office central pour la répression de la grande délinquance financière comprend notamment :
+-la brigade centrale pour la répression des fraudes communautaires chargée des atteintes aux intérêts financiers de l'Union européenne ;
 
-― la brigade centrale pour la répression des fraudes communautaires chargée des atteintes aux intérêts financiers de l'Union européenne ;
+-la brigade de recherches et d'investigations financières nationale, qui participe à la lutte contre le blanchiment d'argent et les autres manifestations de la criminalité organisée dans le domaine économique et financier en apportant son soutien opérationnel aux services d'enquête spécialisés ;
 
-― la brigade de recherches et d'investigations financières nationales, qui participe à la lutte contre le blanchiment d'argent et les autres manifestations de la criminalité organisée dans le domaine économique et financier en apportant son soutien opérationnel aux services d'enquête spécialisés ;
+-la plate-forme d'identification des avoirs criminels, désignée comme bureau national de recouvrement des avoirs au sein de l'Union européenne.
 
-― la plate-forme d'identification des avoirs criminels, désignée comme bureau national de recouvrement des avoirs au sein de l'Union européenne.
+L'Office central de lutte contre la criminalité liée aux technologies de l'information et de la communication comprend notamment :
 
-L'office central de lutte contre la criminalité liée aux technologies de l'information et de la communication comprend notamment :
+-la brigade centrale pour la répression des contrefaçons des cartes de paiement, chargée du trafic des cartes de paiement contrefaites ou violées ;
 
-― la brigade centrale pour la répression des contrefaçons des cartes de paiement, chargée du trafic des cartes de paiement contrefaites ou violées ;
+-la plate-forme d'harmonisation, d'analyse, de recoupement et d'orientation des signalements (PHAROS) ;
 
-― la plate-forme d'harmonisation, d'analyse, de recoupement et d'orientation des signalements (PHAROS) ;
+-la plate-forme téléphonique nationale d'information et de prévention sur les escroqueries.
 
-― la plate-forme téléphonique nationale d'information et de prévention sur les escroqueries.
-
-L'office central de lutte contre le crime organisé comprend notamment la brigade de recherche et d'intervention criminelle nationale, chargée des recherches visant à détecter, surveiller et interpeller les auteurs et complices d'actes relevant de la délinquance spécialisée et de la criminalité organisée et de veiller à la coordination des opérations d'une particulière importance menées par les brigades de recherche et d'intervention.
+L'Office central de lutte contre le crime organisé comprend notamment la brigade de recherche et d'intervention criminelle nationale, chargée des recherches visant à détecter, surveiller et interpeller les auteurs et complices d'actes relevant de la délinquance spécialisée et de la criminalité organisée et de veiller à la coordination des opérations d'une particulière importance menées par les brigades de recherche et d'intervention.

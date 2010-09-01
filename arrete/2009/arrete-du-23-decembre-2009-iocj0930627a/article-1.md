@@ -9,3 +9,5 @@ La direction générale de la gendarmerie nationale comprend, outre le cabinet e
 ― la direction des soutiens et des finances ;
 
 ― la mission du pilotage et de la performance.
+
+Le directeur général de la gendarmerie nationale dispose, conjointement avec le directeur général de la police nationale, du service des technologies et des systèmes d'information de la sécurité intérieure.
