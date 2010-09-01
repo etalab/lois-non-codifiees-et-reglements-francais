@@ -2,7 +2,6 @@
 
 - [Article 1](article-1.md)
 - [Section I : Direction de la modernisation et de l'action territoriale.](section-i)
-- [Article 2](article-2.md)
 - [Section II : Direction des ressources humaines.](section-ii)
 - [Article 3](article-3.md)
 - [Section III : Direction de l'évaluation de la performance, et des affaires financières et immobilières.](section-iii)
@@ -11,5 +10,3 @@
 - [Section V : Direction de la planification de sécurité nationale.](section-v)
 - [Section VI : Délégation à la prospective et à la stratégie.](section-vi)
 - [Section VII : Délégation aux affaires internationales et européennes.](section-vii)
-- [Section VIII : Délégation à l'information et à la communication.](section-viii)
-- [Article 30](article-30.md)
