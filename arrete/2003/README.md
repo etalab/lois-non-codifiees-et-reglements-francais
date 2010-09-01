@@ -862,7 +862,6 @@
 - [Arrêté du 27 février 2003 (SOCG0211948A)](arrete-du-27-fevrier-2003-socg0211948a)
 - [Arrêté du 27 janvier 2003 (AGRG0202766A)](arrete-du-27-janvier-2003-agrg0202766a)
 - [Arrêté du 27 janvier 2003 (BUDL0300014A)](arrete-du-27-janvier-2003-budl0300014a)
-- [Arrêté du 27 juillet 2004 (AGRA0401217A)](arrete-du-27-juillet-2004-agra0401217a)
 - [Arrêté du 27 juin 2003 (DEFP0301508A)](arrete-du-27-juin-2003-defp0301508a)
 - [Arrêté du 27 juin 2003 (INDI0301683A)](arrete-du-27-juin-2003-indi0301683a)
 - [Arrêté du 27 juin 2003 (MENF0300924A)](arrete-du-27-juin-2003-menf0300924a)

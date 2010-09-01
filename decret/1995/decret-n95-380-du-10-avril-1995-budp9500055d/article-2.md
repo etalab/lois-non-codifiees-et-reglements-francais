@@ -1,5 +1,0 @@
-# Article 2
-
-Le corps des contrôleurs des douanes et droits indirects comprend les grades de contrôleur de 2e classe, contrôleur de 1re classe et contrôleur principal.
-
-Ces grades sont respectivement assimilés aux classes normale, supérieure et exceptionnelle définies à l'article 2 du décret du 18 novembre 1994 susvisé.

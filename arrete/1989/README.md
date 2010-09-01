@@ -510,7 +510,6 @@
 - [Arrêté du 30 octobre 1989 (PRME8961083A)](arrete-du-30-octobre-1989-prme8961083a)
 - [Arrêté du 30 octobre 1989 (PRME8961095A)](arrete-du-30-octobre-1989-prme8961095a)
 - [Arrêté du 30 mai 1989 (INDD8900411A)](arrete-du-30-mai-1989-indd8900411a)
-- [Arrêté du 30 mai 1990 (MENF9000977A)](arrete-du-30-mai-1990-menf9000977a)
 - [Arrêté du 31 janvier 1989 (RESY8900037A)](arrete-du-31-janvier-1989-resy8900037a)
 - [Arrêté du 31 janvier 1989 (SPSH8900211A)](arrete-du-31-janvier-1989-spsh8900211a)
 - [Arrêté du 31 janvier 1989 (SPSS8900220A)](arrete-du-31-janvier-1989-spss8900220a)

@@ -215,7 +215,6 @@
 - [Arrêté du 7 mars 1997 (AGRP9700122A)](arrete-du-7-mars-1997-agrp9700122a)
 - [Arrêté du 7 mars 1997 (JUSE9740028A)](arrete-du-7-mars-1997-juse9740028a)
 - [Arrêté du 7 mars 1997 (TASP9721212A)](arrete-du-7-mars-1997-tasp9721212a)
-- [Arrêté du 7 octobre 1997 (AGRA9701515A)](arrete-du-7-octobre-1997-agra9701515a)
 - [Arrêté du 7 octobre 1997 (AGRS9702050A)](arrete-du-7-octobre-1997-agrs9702050a)
 - [Arrêté du 7 mai 1997 (AGRM9700952A)](arrete-du-7-mai-1997-agrm9700952a)
 - [Arrêté du 7 mai 1997 (EQUS9700835A)](arrete-du-7-mai-1997-equs9700835a)
