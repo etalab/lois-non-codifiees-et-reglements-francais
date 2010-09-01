@@ -8,9 +8,9 @@ Le sous-chef d'état-major "soutiens et finances" :
 
 3. Fait élaborer la politique et les principes d'organisation administrative des formations ;
 
-4. Fait établir les textes d'application en matière d'organisation et d'administration générale de la marine ;
+4. (Supprimé)
 
-5. Est chargé des affaires juridiques générales et de réglementation générale intéressant la marine ;
+5. (Supprimé)
 
 6. Anime le dialogue de gestion avec le service de soutien de la flotte et participe au dialogue de gestion avec les services des autres armées et les autres services du ministère intervenant dans son domaine de compétence ;
 

@@ -2,6 +2,6 @@
 
 Les bureaux suivants sont placés sous l'autorité directe du major général de la marine :
 
-- le bureau "pilotage" ;
+- le bureau " pilotage " ;
 
-- le bureau "systèmes d'information et de communications".
+- le bureau " réformes, organisation, et affaires juridiques".
