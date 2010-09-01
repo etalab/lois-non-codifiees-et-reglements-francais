@@ -3,6 +3,7 @@
 - [Article 1](article-1.md)
 - [Section I : Direction de la modernisation et de l'action territoriale.](section-i)
 - [Section II : Direction des ressources humaines.](section-ii)
+- [Article 3](article-3.md)
 - [Article 4](article-4.md)
 - [Section IV : Direction des systèmes d'information et de communication.](section-iv)
 - [Section V :      Direction de la prospective et de la planification de sécurité nationale.](section-v)
