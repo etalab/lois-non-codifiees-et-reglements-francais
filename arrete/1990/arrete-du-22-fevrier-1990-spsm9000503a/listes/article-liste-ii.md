@@ -5495,6 +5495,15 @@ LISTE II
 </td>
 </tr>
 <tr>
+<td>Trimétazidine</td>
+<td>
+<p>Toutes formes</p>
+</td>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
 <td rowspan="2" valign="top" width="186">
 <p>Trioxyméthylène</p>
 </td>
@@ -5737,7 +5746,7 @@ LISTE II
 </tbody>
 </table>
 
-PRODUITS stupĖfiants
+PRODUITS stupéfiants
 
 <table>
 <tbody>

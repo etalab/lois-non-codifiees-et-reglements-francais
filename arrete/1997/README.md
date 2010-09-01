@@ -160,7 +160,6 @@
 - [Arrêté du 5 septembre 1997 (ECOT9710313A)](arrete-du-5-septembre-1997-ecot9710313a)
 - [Arrêté du 5 septembre 1997 (EQUS9701233A)](arrete-du-5-septembre-1997-equs9701233a)
 - [Arrêté du 5 septembre 1997 (EQUS9701425A)](arrete-du-5-septembre-1997-equs9701425a)
-- [Arrêté du 5 septembre 1997 (MESO9711308A)](arrete-du-5-septembre-1997-meso9711308a)
 - [Arrêté du 5 mai 1997 (AGRA9700866A)](arrete-du-5-mai-1997-agra9700866a)
 - [Arrêté du 5 mai 1997 (TASE9710659A)](arrete-du-5-mai-1997-tase9710659a)
 - [Arrêté du 5 mai 1997 (TASP9721627A)](arrete-du-5-mai-1997-tasp9721627a)
