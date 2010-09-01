@@ -1,176 +1,221 @@
 # Article 1
 
-<div>
-<br/>Les centres de rétention administrative mentionnés à l'article R. 553-1 du code susvisé sont les suivants :<br/> a) Centres placés sous la surveillance de la police nationale :<br/>
-<div align="center">
+Les centres de rétention administrative mentionnés à l'article R. 553-1 du code susvisé sont les suivants :
+
+a) Centres placés sous la surveillance de la police nationale :
 
 <table>
+<tbody>
 <tr>
-<th>
-<br/>DÉPARTEMENT</th>
-<th>
-<br/>ADRESSE</th>
+<td>
+<p align="center">DÉPARTEMENT</p>
+</td>
+<td>
+<p align="center">ADRESSE</p>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Alpes-Maritimes</td>
+<p align="center">Alpes-Maritimes</p>
+</td>
 <td align="center">
-<br/>Caserne d'Auvare, 28, rue de Roquebillière, 06300 Nice.</td>
+<p align="left">Caserne d'Auvare, 28, rue de Roquebillière, 06300 Nice.</p>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Bouches-du-Rhône</td>
+<p align="center">Bouches-du-Rhône</p>
+</td>
 <td align="center">
-<br/>26, boulevard Danielle-Casanova, 13014 Marseille.</td>
+<p align="left">26, boulevard Danielle-Casanova, 13014 Marseille.</p>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Gard</td>
+<p align="center">Gard</p>
+</td>
 <td align="center">
-<br/>Rue Clément-Ader, 30000 Nîmes.</td>
+<p align="left">Rue Clément-Ader, 30000 Nîmes.</p>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Haute-Garonne</td>
+<p align="center">Haute-Garonne</p>
+</td>
 <td align="center">
-<br/>Avenue Pierre-Georges-Latécoère, 31700 Cornebarrieu.</td>
+<p align="left">Avenue Pierre-Georges-Latécoère, 31700 Cornebarrieu.</p>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Gironde</td>
+<p align="center">Gironde</p>
+</td>
 <td align="center">
-<br/>Commissariat central, 23, rue François-de-Sourdis, 33000 Bordeaux.</td>
+<p align="left">Commissariat central, 23, rue François-de-Sourdis, 33000 Bordeaux.</p>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Hérault</td>
+<p align="center">Hérault</p>
+</td>
 <td align="center">
-<br/>15, quai François-Maillol, 34200 Sète.</td>
+<p align="left">15, quai François-Maillol, 34200 Sète.</p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">
+<p align="center">Nord</p>
+</td>
+<td align="center">
+<p align="left">Site 1 : route de la Drève, 59810 Lesquin. </p>
+<p>Site 2 : route de la Drève, 59810 Lesquin.</p>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Nord</td>
+<p align="center">Pas-de-Calais</p>
+</td>
 <td align="center">
-<br/>Site 1 : route de la Drève, 59810 Lesquin.<br/>Site 2 : route de la Drève, 59810 Lesquin.</td>
+<p align="left">Hôtel de police, boulevard du Kent, 62903 Coquelles.</p>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Pas-de-Calais</td>
+<p align="center">Pyrénées-Atlantiques</p>
+</td>
 <td align="center">
-<br/>Hôtel de police, boulevard du Kent, 62903 Coquelles.</td>
+<p align="left">Rue Joliot-Curie, 64700 Hendaye.</p>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Pyrénées-Atlantiques</td>
+<p align="center">Rhône</p>
+</td>
 <td align="center">
-<br/>Rue Joliot-Curie, 64700 Hendaye.</td>
+<p align="left">Poste de police aux frontières, espace Lyon-Saint-Exupéry-CRA, BP 106, 69125 Lyon Aéroport.</p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">
+<p align="center">Paris</p>
+</td>
+<td align="center">
+<p align="left">Centre de rétention administrative Paris 1, avenue de l'Ecole-de-Joinville, 75012 Paris. </p>
+<p>Centre de rétention de Paris, palais de justice, 3, quai de l'Horloge, 75001 Paris.</p>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Rhône</td>
+<p align="center">Seine-Maritime</p>
+</td>
 <td align="center">
-<br/>Poste de police aux frontières, espace Lyon - Saint-Exupéry - CRA, BP 106, 69125 Lyon Aéroport.</td>
+<p align="left">Ecole nationale de police, route des Essarts, 76350 Oissel.</p>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Paris</td>
+<p align="center">Yvelines</p>
+</td>
 <td align="center">
-<br/>Centre de rétention administrative Paris 1, avenue de l'Ecole-de-Joinville, 75012 Paris.<br/>Centre de rétention de Paris, palais de justice, 3, quai de l'Horloge, 75001 Paris.</td>
+<p align="left">889, avenue François-Mitterrand, 78370 Plaisir.</p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">
+<p align="center">Seine-et-Marne</p>
+</td>
+<td align="center">
+<p align="left">Centre de rétention administrative Le Mesnil-Amelot 1, 1, rue Périchet, 77990 Le Mesnil-Amelot. </p>
+<p>Centre de rétention administrative Le Mesnil-Amelot 2, 6, rue de Paris, départementale 401, 77990 Le Mesnil-Amelot. </p>
+<p>Centre de rétention administrative Le Mesnil-Amelot 3, 2, rue de Paris, départementale 401, 77990 Le Mesnil-Amelot.</p>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Seine-Maritime</td>
+<p align="center">Essonne</p>
+</td>
 <td align="center">
-<br/>Ecole nationale de police, route des Essarts, 76350 Oissel.</td>
+<p align="left">Hôtel de police, rue Emile-Zola, 91120 Palaiseau.</p>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Yvelines</td>
+<p align="center">Seine-Saint-Denis</p>
+</td>
 <td align="center">
-<br/>889, avenue François-Mitterrand, 78370 Plaisir.</td>
+<p align="left">Hôtel de police, 45, rue de Carency, 93000 Bobigny.</p>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Seine-et-Marne</td>
+<p align="center">Guadeloupe</p>
+</td>
 <td align="center">
-<br/>Centre de rétention administrative Le Mesnil-Amelot 2, 6, rue de Paris, départementale 401, 77990 Le Mesnil-Amelot.<br/>Centre de rétention administrative Le Mesnil-Amelot 3, 2, rue de Paris, départementale 401, 77990 Le Mesnil-Amelot.</td>
+<p align="left">Site du Morne-Vergain, 97139 Les Abymes.</p>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Essonne</td>
+<p align="center">Guyane</p>
+</td>
 <td align="center">
-<br/>Hôtel de police, rue Emile-Zola, 91120 Palaiseau.</td>
+<p align="left">Route de Rochambeau, 97351 Matoury.</p>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Seine-Saint-Denis</td>
+<p align="center">La Réunion</p>
+</td>
 <td align="center">
-<br/>Hôtel de police, 45, rue de Carency, 93000 Bobigny.</td>
+<p align="left">2, avenue Georges-Brassens, Sainte-Clotilde, 97490 Le Chaudron.</p>
+</td>
 </tr>
-<tr>
-<td align="center">
-<br/>Guadeloupe</td>
-<td align="center">
-<br/>Site du Morne-Vergain, 97139 Les Abymes.</td>
-</tr>
-<tr>
-<td align="center">
-<br/>Guyane</td>
-<td align="center">
-<br/>Route de Rochambeau, 97351 Matoury.</td>
-</tr>
-<tr>
-<td align="center">
-<br/>La Réunion</td>
-<td align="center">
-<br/>2, avenue Georges-Brassens, Sainte-Clotilde, 97490 Le Chaudron.</td>
-</tr>
+</tbody>
 </table>
 
-</div>
-<br/>
-<br/> b) Centres placés sous la surveillance de la gendarmerie nationale : <br/>
-<div align="center">
+b) Centres placés sous la surveillance de la gendarmerie nationale :
 
 <table>
+<tbody>
 <tr>
-<th>
-<br/>DÉPARTEMENT</th>
-<th>
-<br/>ADRESSE</th>
+<td>
+<p align="center">DÉPARTEMENT</p>
+</td>
+<td>
+<p align="center">ADRESSE</p>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Pyrénées-Orientales</td>
+<p align="center">Pyrénées-Orientales</p>
+</td>
 <td align="center">
-<br/>Rue des Frères-Voisin, lotissement Torremilla, 66000 Perpignan.</td>
+<p align="left">Rue des Frères-Voisins, lotissement Torremilla, 66000 Perpignan.</p>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Bas-Rhin</td>
+<p align="center">Bas-Rhin</p>
+</td>
 <td align="center">
-<br/>Rue du Fort, 67118 Geispolsheim.</td>
+<p align="left">Rue du Fort, 67118 Geispolsheim.</p>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Seine-et-Marne</td>
+<p align="center">Moselle</p>
+</td>
 <td align="center">
-<br/>Centre de rétention administrative Le Mesnil-Amelot 1, 1, rue Périchet, 77990 Le Mesnil-Amelot.</td>
+<p align="left">Rue du Chemin-Vert, 57070 Metz-Queuleu.</p>
+</td>
 </tr>
 <tr>
 <td align="center">
-<br/>Moselle</td>
+<p align="center">Ille-et-Vilaine</p>
+</td>
 <td align="center">
-<br/>Rue du Chemin-Vert, 57070 Metz-Queuleu.</td>
+<p align="left">Lieudit Le Reynel, 35136 Saint-Jacques-de-la-Lande.</p>
+</td>
 </tr>
-<tr>
-<td align="center">
-<br/>Ille-et-Vilaine</td>
-<td align="center">
-<br/>Lieudit Le Reynel, 35136 Saint-Jacques-de-la-Lande.</td>
-</tr>
+</tbody>
 </table>
-
-</div>
-<br/>
-</div>
