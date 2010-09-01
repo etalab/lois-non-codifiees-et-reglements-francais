@@ -1,6 +1,6 @@
 # Article 1
 
-Les fonctionnaires des corps de catégories B et C, les personnels relevant du décret du 25 août 1995 susvisé ainsi que les agents non titulaires de droit public recrutés sur contrat à durée indéterminée en fonction au ministère de l'économie, des finances et de l'industrie, dans les écoles des mines, à l'Agence nationale des fréquences, à l'ANIFOM, dans les juridictions financières,    à l'Autorité de la concurrence, à l'Autorité de régulation des télécommunications, à la Commission de régulation de l'électricité et à la Commission de contrôle des assurances peuvent bénéficier de l'indemnité d'administration et de technicité prévue à l'article 1er du décret du 14 janvier 2002 susvisé compte tenu des assimilations suivantes :
+Les fonctionnaires des corps de catégories B et C, les personnels relevant du décret du 25 août 1995 susvisé ainsi que les agents non titulaires de droit public recrutés sur contrat à durée indéterminée en fonction au ministère de l'économie, des finances et de l'industrie, dans les écoles des mines, à l'Agence nationale des fréquences, à l'ANIFOM, dans les juridictions financières, à l'Autorité de la concurrence, à l'Autorité de régulation des télécommunications, à la Commission de régulation de l'électricité et à la Commission de contrôle des assurances peuvent bénéficier de l'indemnité d'administration et de technicité prévue à l'article 1er du décret du 14 janvier 2002 susvisé compte tenu des assimilations suivantes :
 
 <table>
 <tbody>
@@ -434,7 +434,7 @@ Les fonctionnaires des corps de catégories B et C, les personnels relevant du d
 </tr>
 <tr>
 <td>
-<p>Techniciens géomètres du cadastre. </p>
+<p>Techniciens  géomètres-cadastreurs des finances publiques. </p>
 </td>
 <td valign="top">
 <p align="center">/ / </p>
@@ -569,7 +569,7 @@ Les fonctionnaires des corps de catégories B et C, les personnels relevant du d
 </tr>
 <tr>
 <td>
-<p>Agents non titulaires de droit public relevant du décret du 25 août 1995 assimilés aux dessinateurs projeteurs de 2 <sup>e </sup>classe des finances, aux infirmières ou infirmiers de l'État, aux secrétaires administratifs de classe normale, aux techniciens de laboratoire de classe normale des écoles nationales supérieures des mines, aux techniciens de laboratoire de classe normale du ministère de l'économie, des finances et de l'industrie, aux techniciens de l'industrie et des mines (1 <sup>er </sup>grade) et aux techniciens géomètres du cadastre. </p>
+<p>Agents non titulaires de droit public relevant du décret du 25 août 1995 assimilés aux dessinateurs projeteurs de 2 <sup>e </sup>classe des finances, aux infirmières ou infirmiers de l'État, aux secrétaires administratifs de classe normale, aux techniciens de laboratoire de classe normale des écoles nationales supérieures des mines, aux techniciens de laboratoire de classe normale du ministère de l'économie, des finances et de l'industrie, aux techniciens de l'industrie et des mines (1 <sup>er </sup>grade) et aux techniciens  géomètres-cadastreurs des finances publiques. </p>
 </td>
 <td>
 <p align="center">/ / </p>

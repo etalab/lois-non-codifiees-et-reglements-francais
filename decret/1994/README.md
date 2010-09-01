@@ -168,7 +168,6 @@
 - [Décret n°94-798 du 7 septembre 1994 (TEFC9400920D)](decret-n94-798-du-7-septembre-1994-tefc9400920d)
 - [Décret n°94-874 du 7 octobre 1994 (FPPA9400088D)](decret-n94-874-du-7-octobre-1994-fppa9400088d)
 - [Décret n°96-896 du 7 octobre 1996 (DEFP9601515D)](decret-n96-896-du-7-octobre-1996-defp9601515d)
-- [Décret n°97-8 du 7 janvier 1997 (ECOP9600521D)](decret-n97-8-du-7-janvier-1997-ecop9600521d)
 - [Décret n°93-1289 du 8 décembre 1993 (EQUP9301460D)](decret-n93-1289-du-8-decembre-1993-equp9301460d)
 - [Décret n°94-1056 du 8 décembre 1994 (JUSB9410581D)](decret-n94-1056-du-8-decembre-1994-jusb9410581d)
 - [Décret n°94-1057 du 8 décembre 1994 (ECOT9451386D)](decret-n94-1057-du-8-decembre-1994-ecot9451386d)

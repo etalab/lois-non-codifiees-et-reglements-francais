@@ -6,11 +6,11 @@ Dès lors qu'ils exercent leurs fonctions dans les services déconcentrés ou da
 <tbody>
 <tr>
 <td width="454">
-<p align="center">PERSONNELS FONCTIONNAIRES</p>
+<p align="center">PERSONNELS FONCTIONNAIRES </p>
 </td>
 <td width="151">
-<p align="center">CATEGORIE D'INDEMNITE</p>
-<p align="center">Indemnité forfaitaire pour travaux supplémeantaire des services déconcentrés</p>
+<p align="center">CATEGORIE D'INDEMNITE </p>
+<p align="center">Indemnité forfaitaire pour travaux supplémeantaire des services déconcentrés </p>
 </td>
 </tr>
 <tr>
@@ -191,7 +191,7 @@ Dès lors qu'ils exercent leurs fonctions dans les services déconcentrés ou da
 <td valign="top" width="454">Contrôleurs des douanes et droits indirects. </td>
 </tr>
 <tr>
-<td valign="top" width="454">Contrôleurs des impôts, corps des géomètres du cadastre. </td>
+<td valign="top" width="454">Contrôleurs des impôts, corps des  géomètres-cadastreurs des finances publiques. </td>
 </tr>
 <tr>
 <td valign="top" width="454">Contrôleurs du Trésor public. </td>
@@ -238,10 +238,10 @@ Dès lors qu'ils exercent leurs fonctions dans les services déconcentrés ou da
 <tbody>
 <tr>
 <td width="454">
-<p align="center">AGENTS NON TITULAIRES</p>
+<p align="center">AGENTS NON TITULAIRES </p>
 </td>
 <td width="151">
-<p align="center">CATEGORIE D'INDEMNITES</p>
+<p align="center">CATEGORIE D'INDEMNITES </p>
 <p align="center">forfaitaires pour travaux supplémentaires des services déconcentrés </p>
 </td>
 </tr>

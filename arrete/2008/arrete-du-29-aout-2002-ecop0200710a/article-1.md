@@ -37,7 +37,7 @@ Dès lors qu'ils exercent leurs fonctions dans les services centraux du ministè
 <td>d° </td>
 </tr>
 <tr>
-<td>Chefs d'atelier de l'établissement public La Monnaie de Paris.</td>
+<td>Chefs d'atelier de l'établissement public La Monnaie de Paris. </td>
 <td>d° </td>
 </tr>
 <tr>
@@ -93,7 +93,7 @@ Dès lors qu'ils exercent leurs fonctions dans les services centraux du ministè
 <td>d° </td>
 </tr>
 <tr>
-<td>Techniciens géomètres du cadastre. </td>
+<td>Techniciens  géomètres-cadastreurs des finances publiques. </td>
 <td>d° </td>
 </tr>
 <tr>
@@ -105,11 +105,11 @@ Dès lors qu'ils exercent leurs fonctions dans les services centraux du ministè
 <td>d° </td>
 </tr>
 <tr>
-<td>Chefs d'atelier principaux de l'établissement public La Monnaie de Paris.</td>
+<td>Chefs d'atelier principaux de l'établissement public La Monnaie de Paris. </td>
 <td>d° </td>
 </tr>
 <tr>
-<td>Chefs mécaniciens de l'établissement public La Monnaie de Paris.</td>
+<td>Chefs mécaniciens de l'établissement public La Monnaie de Paris. </td>
 <td>d° </td>
 </tr>
 <tr>
@@ -703,7 +703,7 @@ Dès lors qu'ils exercent leurs fonctions dans les services centraux du ministè
 </tr>
 <tr>
 <td>Contrôleurs généraux de 2e classe (corps du contrôle général économique et financier) </td>
-<td>d°</td>
+<td>d° </td>
 </tr>
 <tr>
 <td>directeurs régionaux des entreprises, de la concurrence, de la consommation, du travail et de l'emploi. </td>

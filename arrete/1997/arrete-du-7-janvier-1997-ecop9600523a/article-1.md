@@ -1,6 +1,6 @@
 # Article 1
 
-L'échelonnement indiciaire applicable aux grades du corps des géomètres du cadastre régi par le décret du 7 janvier 1997 susvisé est fixé ainsi qu'il suit à compter du 1er août 1994 :
+L'échelonnement indiciaire applicable aux grades du corps des  géomètres-cadastreurs des finances publiques régi par le décret du 7 janvier 1997 susvisé est fixé ainsi qu'il suit à compter du 1er août 1994 :
 
 <table>
 <tbody>
