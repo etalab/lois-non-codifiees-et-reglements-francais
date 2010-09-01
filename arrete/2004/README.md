@@ -237,7 +237,6 @@
 - [Arrêté du 9 novembre 2004 (SANP0423929A)](arrete-du-9-novembre-2004-sanp0423929a)
 - [Arrêté du 9 novembre 2004 (SOCT0412152A)](arrete-du-9-novembre-2004-soct0412152a)
 - [Arrêté du 9 novembre 2004 (SOCT0412153A)](arrete-du-9-novembre-2004-soct0412153a)
-- [Arrêté du 9 septembre 2004 (ECOP0400641A)](arrete-du-9-septembre-2004-ecop0400641a)
 - [Arrêté du 9 septembre 2004 (MENS0401764A)](arrete-du-9-septembre-2004-mens0401764a)
 - [Arrêté du 9 septembre 2004 (MENS0401765A)](arrete-du-9-septembre-2004-mens0401765a)
 - [Arrêté du 9 septembre 2004 (MENS0401767A)](arrete-du-9-septembre-2004-mens0401767a)
