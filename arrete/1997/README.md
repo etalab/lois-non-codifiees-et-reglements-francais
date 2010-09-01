@@ -239,7 +239,6 @@
 - [Arrêté du 8 juillet 1997 (SCOL9701937A)](arrete-du-8-juillet-1997-scol9701937a)
 - [Arrêté du 8 octobre 1997 (ATEP9760448A)](arrete-du-8-octobre-1997-atep9760448a)
 - [Arrêté du 8 octobre 1997 (JUSF9750033A)](arrete-du-8-octobre-1997-jusf9750033a)
-- [Arrêté du 8 octobre 1997 (MENA9702963A)](arrete-du-8-octobre-1997-mena9702963a)
 - [Arrêté du 8 septembre 1997 (ECOI9700380A)](arrete-du-8-septembre-1997-ecoi9700380a)
 - [Arrêté du 8 septembre 1997 (MENH9702634A)](arrete-du-8-septembre-1997-menh9702634a)
 - [Arrêté du 9 avril 1997 (AGRG9700690A)](arrete-du-9-avril-1997-agrg9700690a)
