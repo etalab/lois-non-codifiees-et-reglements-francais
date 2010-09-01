@@ -6,8 +6,8 @@ A l'issue de ce stage, la titularisation est prononcée par le recteur de l'acad
 
 Les prolongations éventuelles du stage sont prononcées par le recteur de l'académie dans le ressort de laquelle le stage est effectué.
 
-Les stagiaires qui n'ont pas été titularisés peuvent être autorisés par le recteur de l'académie dans le ressort de laquelle ils ont accompli leur stage à effectuer une seconde année de stage à l'issue de laquelle ils sont titularisés dans les conditions fixées au premier alinéa.
+Les stagiaires qui n'ont pas été titularisés peuvent être autorisés par le recteur de l'académie dans le ressort de laquelle ils ont accompli leur stage à effectuer une seconde année de stage à l'issue de laquelle ils sont titularisés dans les conditions fixées au deuxième alinéa.
 
-Les stagiaires qui n'ont pas été autorisés à effectuer une seconde année de stage ou qui, à l'issue de la seconde année de stage, n'ont pas été titularisés sont soit licenciés, soit réintégrés dans leur corps d'origine s'ils avaient la qualité de fonctionnaire.
+Les stagiaires qui n'ont pas été autorisés à effectuer une seconde année de stage ou qui, à l'issue de la seconde année de stage, n'ont pas été titularisés sont soit licenciés, soit réintégrés dans leur corps ou cadre d'emplois d'origine s'ils avaient la qualité de fonctionnaire.
 
 Le temps accompli en qualité de stagiaire est pris en compte dans la limite d'une année pour le calcul de l'ancienneté dans le corps des conseillers principaux d'éducation.

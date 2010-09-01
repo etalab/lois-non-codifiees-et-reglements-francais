@@ -1,6 +1,10 @@
 # Article 20
 
-Les professeurs des écoles recrutés par la voie des concours prévus à l'article 4 ci-dessus sont classés, lors de leur titularisation, conformément aux dispositions du décret du 5 décembre 1951 susvisé.
+Les professeurs des écoles recrutés par la voie des concours prévus à l'article 4 ci-dessus sont classés, lors de leur nomination en qualité de stagiaire, conformément aux dispositions du décret du 5 décembre 1951 susvisé.
+
+A l'exception de ceux classés en application de l'article 11-2 du décret du 5 décembre 1951 susvisé, les professeurs des écoles bénéficient, lors de leur classement, d'une bonification d'ancienneté d'un an. Les agents relevant de l'article 11-5 du décret du 5 décembre 1951 précité bénéficient, lors de leur classement, de cette bonification avant l'application, le cas échéant, des dispositions figurant au dernier alinéa du même article.
+
+L'application des règles de classement ne peut conduire en aucun cas à un classement inférieur au 3e échelon de la classe normale.
 
 Pour l'application de ces dispositions, le corps des professeurs des écoles est affecté du coefficient caractéristique 135.
 

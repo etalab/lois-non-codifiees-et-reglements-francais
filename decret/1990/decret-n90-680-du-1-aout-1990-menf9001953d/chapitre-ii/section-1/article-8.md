@@ -1,6 +1,6 @@
 # Article 8
 
-Les candidats reçus au concours externe ou au concours externe spécial et remplissant les conditions de titre ou diplôme pour être nommés dans le corps sont nommés professeurs des écoles stagiaires et classés au premier échelon du corps.
+Les candidats reçus au concours externe ou au concours externe spécial et remplissant les conditions de titre ou diplôme pour être nommés dans le corps sont nommés professeurs des écoles stagiaires       .
 
 Le jury peut établir une liste complémentaire de candidats. Le nombre de postes qui peuvent être pourvus par la nomination de candidats inscrits sur la liste complémentaire ne peut excéder 300 % des postes offerts au concours externe ou au concours externe spécial.
 

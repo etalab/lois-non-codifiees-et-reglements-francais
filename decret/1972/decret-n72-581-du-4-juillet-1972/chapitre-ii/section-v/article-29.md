@@ -2,6 +2,10 @@
 
 Les professeurs certifiés stagiaires recrutés par concours sont classés, à la date de leur nomination en qualité de stagiaire, selon les dispositions du décret du 5 décembre 1951 susvisé.
 
+A l'exception de ceux classés en application de l'article 11-2 du décret du 5 décembre 1951 susvisé, les professeurs certifiés bénéficient, lors de leur classement, d'une bonification d'ancienneté d'un an. Les agents relevant de l'article 11-5 du décret du 5 décembre 1951 précité bénéficient, lors de leur classement, de cette bonification avant l'application, le cas échéant, des dispositions figurant au dernier alinéa du même article.
+
+L'application des règles de classement ne peut conduire en aucun cas à un classement inférieur au 3e échelon de la classe normale.
+
 Les candidats mentionnés à l'article 13 et aux 1°, 2° et 5° de l'article 14 ci-dessus, justifiant d'au moins cinq années de pratique professionnelle en qualité de cadre, sont classés dans le corps des professeurs certifiés à un échelon déterminé en prenant en compte les années d'activité professionnelle qu'ils ont accomplies, en cette qualité, avant leur nomination comme stagiaire, conformément aux dispositions du premier alinéa de l'article 7 du décret du 5 décembre 1951 susvisé.
 
 Les candidats mentionnés à l'article 10 et à l'article 15 du présent décret bénéficient, sur leur demande, d'une bonification d'ancienneté d'une durée :
@@ -22,6 +26,6 @@ Les professeurs certifiés recrutés à la suite du concours auquel ils se sont 
 
 Dans la limite de la durée prévue à l'article 16 ci-dessus, le temps passé en cycle préparatoire par les élèves-professeurs qui, avant leur admission, avaient la qualité d'agent non titulaire est assimilé, pour le classement des professeurs certifiés lors de leur nomination dans le corps, à une période de service effectif dans la catégorie d'agent non titulaire à laquelle les intéressés appartenaient lors de leur admission au cycle préparatoire.
 
-Les professeurs certifiés stagiaires recrutés au titre de l'article 27 ci-dessus sont classés, à la date de leur titularisation, selon les dispositions du décret du 5 décembre 1951 susvisé.
+Les professeurs certifiés stagiaires recrutés au titre de l'article 27 ci-dessus sont classés, à la date de leur titularisation, selon les dispositions du décret du 5 décembre 1951 susvisé. Ils bénéficient lors de leur classement d'une bonification d'ancienneté d'un an.
 
 Les professeurs certifiés affectés dans un établissement ou un service placé sous l'autorité d'un recteur d'académie ou affectés dans un établissement d'enseignement supérieur sont classés par ledit recteur.

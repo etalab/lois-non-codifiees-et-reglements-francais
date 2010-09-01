@@ -1,8 +1,8 @@
 # Article 13 quinto
 
-Dans la limite d'un contingent budgétaire d'emplois, peuvent être promus à la hors-classe des professeurs agrégés les professeurs agrégés, de classe normale ayant atteint au moins le septième échelon de leur grade et inscrits, après proposition des recteurs, sur un tableau d'avancement commun à toutes les disciplines, arrêté chaque année par le ministre sur avis de la commission administrative paritaire nationale du corps des professeurs agrégés.
+Les professeurs agrégés peuvent être promus professeurs agrégés hors-classe lorsqu'ils ont atteint au moins le 7e échelon de la classe normale et sont inscrits, après proposition des recteurs, sur un tableau d'avancement commun à toutes les disciplines, arrêté chaque année par le ministre sur avis de la commission administrative paritaire nationale du corps des professeurs agrégés de l'enseignement du second degré.
 
-Le nombre des inscriptions au tableau d'avancement ne peut excéder de plus de 50 p. 100 le nombre des emplois budgétaires vacants.
+Le nombre maximum de professeurs agrégés pouvant être promus chaque année à la hors-classe est déterminé conformément aux dispositions du décret n° 2005-1090 du 1er septembre 2005 relatif à l'avancement de grade dans les corps des administrations de l'Etat.
 
 Dès leur nomination, les professeurs agrégés hors classe sont classés à l'échelon comportant un traitement égal ou immédiatement supérieur au traitement dont ils bénéficiaient dans leur ancien grade.
 

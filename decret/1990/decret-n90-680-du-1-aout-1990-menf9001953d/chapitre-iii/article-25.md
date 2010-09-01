@@ -1,8 +1,8 @@
 # Article 25
 
-Peuvent être promus à la hors-classe les professeurs de classe normale ayant atteint au moins le 7e échelon de leur classe.
+Les professeurs des écoles peuvent être promus professeurs des écoles hors classe lorsqu'ils ont atteint au moins le 7e échelon de la classe normale.
 
-Le nombre des inscrits sur chaque tableau d'avancement établi dans chaque département ne peut excéder de plus de 50 % le nombre des emplois budgétaires vacants.
+Le nombre maximum de professeurs des écoles pouvant être promus chaque année à la hors-classe est déterminé conformément aux dispositions du décret n° 2005-1090 du 1er septembre 2005 relatif à l'avancement de grade dans les corps des administrations de l'Etat.
 
 Dès leur nomination, les intéressés sont classés à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui dont ils bénéficiaient dans la classe normale.
 
