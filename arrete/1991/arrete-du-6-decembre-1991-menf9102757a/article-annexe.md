@@ -2484,11 +2484,9 @@
 </tr>
 <tr>
 <td valign="top">
-<p>g) Personnels enseignants et d'éducation exerçant les fonctions prévues à l'article 1er du décret n° 92-216 du 9 mars 1992 </p>
+<p>g) abrogé</p>
 </td>
-<td valign="top">
-<p align="center">A </p>
-</td>
+<td valign="top"/>
 <td valign="top">
 <br/>
 </td>
@@ -2501,11 +2499,9 @@
 <td valign="top">
 <br/>
 </td>
+<td valign="top"/>
 <td valign="top">
-<p align="center">10 </p>
-</td>
-<td valign="top">
-<p align="center">13500 </p>
+<br/>
 </td>
 </tr>
 <tr>
