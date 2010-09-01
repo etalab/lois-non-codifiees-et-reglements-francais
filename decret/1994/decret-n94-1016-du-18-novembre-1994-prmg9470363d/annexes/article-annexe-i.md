@@ -6,15 +6,9 @@ Assistants des bibliothèques.
 
 Contrôleurs de la concurrence, de la consommation et de la répression des fraudes.
 
-Contrôleurs des douanes et droits indirects.
-
 Contrôleurs de l'Institut national de la statistique et des études économiques.
 
 Contrôleurs des affaires maritimes.
-
-Contrôleurs du Trésor public.
-
-Contrôleurs des impôts.
 
 Contrôleurs des services techniques du matériel du ministère de l'intérieur.
 
@@ -25,8 +19,6 @@ Secrétaires de chancellerie.
 Secrétaires administratifs d'administration centrale.
 
 Secrétaires administratifs des services déconcentrés de l'agriculture.
-
-Secrétaires administratifs de l'industrie et de l'aménagement du territoire.
 
 Secrétaires administratifs de l'intérieur et de l'outre-mer.
 
@@ -53,8 +45,6 @@ Techniciens d'art du ministère de la culture.
 Techniciens des services culturels et des Bâtiments de France.
 
 Chargés d'éducation des maisons d'éducation de la Légion d'honneur.
-
-Secrétaires administratifs du ministère de l'économie, des finances et de l'industrie.
 
 Secrétaires administratifs du ministère de la défense.
 
