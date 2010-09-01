@@ -1,3 +1,0 @@
-# APPENDICE
-
-- [Article ](article-.md)
