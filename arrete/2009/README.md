@@ -717,7 +717,6 @@
 - [Arrêté du 10 août 2009 (AGRG0918979A)](arrete-du-10-aout-2009-agrg0918979a)
 - [Arrêté du 10 août 2009 (AGRP0915633A)](arrete-du-10-aout-2009-agrp0915633a)
 - [Arrêté du 10 août 2009 (AGRP0915634A)](arrete-du-10-aout-2009-agrp0915634a)
-- [Arrêté du 10 août 2009 (BCFR0917594A)](arrete-du-10-aout-2009-bcfr0917594a)
 - [Arrêté du 10 août 2009 (DEVK0918758A)](arrete-du-10-aout-2009-devk0918758a)
 - [Arrêté du 10 août 2009 (DEVU0917106A)](arrete-du-10-aout-2009-devu0917106a)
 - [Arrêté du 10 août 2009 (DEVU0917112A)](arrete-du-10-aout-2009-devu0917112a)
