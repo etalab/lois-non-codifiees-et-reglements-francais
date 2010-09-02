@@ -4,7 +4,7 @@ Sont nommés dans le grade de lieutenant le 1er août de l'année de leur recrut
 
 1° Les officiers recrutés parmi les élèves inscrits au tableau de classement de sortie de l'Ecole polytechnique avec un an d'ancienneté, conformément aux dispositions de l'article 7 de la loi du 15 juillet 1970 susvisée ;
 
-2° Les officiers sous contrat ayant suivi le cursus de formation d'officier dispensée par l'école d'une armée de terre étrangère, avec un an d'ancienneté ;
+2° Les officiers diplômés de l'Ecole spéciale militaire et recrutés au titre du 4° de l'article 4, avec un an d'ancienneté ;
 
 3° Les autres officiers sous contrat, qui conservent leur ancienneté dans le grade dans la limite d'un an ;
 

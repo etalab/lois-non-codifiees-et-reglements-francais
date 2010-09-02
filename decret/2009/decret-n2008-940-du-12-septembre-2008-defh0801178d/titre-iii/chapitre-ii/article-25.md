@@ -14,9 +14,9 @@ Ils prennent rang entre eux sur la liste d'ancienneté de leur grade dans les co
 
 Ils prennent rang entre eux sur la liste d'ancienneté de leur grade, selon le classement mentionné à l'article 13 ;
 
-4° Les lieutenants recrutés parmi les officiers sous contrat ayant suivi le cursus de formation d'officier dispensée par l'école d'une armée de terre étrangère.
+4° Les lieutenants recrutés au titre du 4° de l'article 4 parmi les élèves diplômés de l'Ecole spéciale militaire.
 
-Ils prennent rang dans leur grade dans l'ordre établi par la commission mentionnée à l'article 32 ;
+Ils prennent rang entre eux sur la liste d'ancienneté de leur grade, selon le classement mentionné à l'article 13 ;
 
 5° Les lieutenants recrutés parmi les officiers sous contrat au titre du 1° de l'article 17.
 

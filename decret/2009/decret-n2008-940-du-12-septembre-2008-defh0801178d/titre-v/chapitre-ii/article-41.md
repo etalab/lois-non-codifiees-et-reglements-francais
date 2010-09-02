@@ -25,3 +25,7 @@ VI. ― Par dérogation aux dispositions prévues à l'article 31, les lieutenan
 2° Et qui, au 31 décembre de l'année précédant celle de leur promotion éventuelle, se trouvent à plus de trois ans de la limite d'âge du grade de colonel,
 
 peuvent être également promus jusqu'au 31 décembre 2009 au grade de colonel au choix dans la limite de 5 pour 100, arrondis à l'unité supérieure, du nombre de nominations et de promotions effectuées chaque année à ce grade.
+
+VII. - Par dérogation aux dispositions du 2° de l'article 30, la durée minimale du temps de troupe comme officier est fixée à quatre ans jusqu'au 31 décembre 2014.
+
+VIII. - Les militaires servant en vertu d'un contrat, qui ont déjà été admis à suivre un cursus de formation d'officiers dispensé par l'école d'une armée de terre d'un pays étranger à la date de publication du présent décret, peuvent, jusqu'au 31 décembre 2010, être admis à l'Ecole spéciale militaire au titre du 4° de l'article 4.
