@@ -6,4 +6,4 @@ L'affectation dans un établissement public est prononcée par le maire de Paris
 
 Les attachés d'administrations parisiennes participent à la conception, à l'élaboration et à la mise en oeuvre des politiques décidées par la collectivité ou l'établissement où ils sont affectés.
 
-Ils ont vocation à exercer des fonctions d'encadrement.
+Ils ont vocation à exercer des fonctions d'encadrement et peuvent assurer la direction d'un bureau, d'un service ou d'un établissement.

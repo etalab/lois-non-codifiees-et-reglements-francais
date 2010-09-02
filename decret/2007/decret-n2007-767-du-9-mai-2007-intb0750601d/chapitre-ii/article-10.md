@@ -2,7 +2,7 @@
 
 Les nominations au choix sont prononcées par arrêté du maire de Paris après inscription sur une liste d'aptitude établie après avis de la commission administrative paritaire.
 
-Peuvent être inscrits sur la liste d'aptitude les fonctionnaires des administrations parisiennes appartenant à un corps classé dans la catégorie B ou de même niveau, pouvant justifier d'au moins neuf années de services publics dont cinq au moins de services effectifs dans un corps d'une administration parisienne.
+Peuvent être inscrits sur la liste d'aptitude les fonctionnaires des administrations parisiennes appartenant à un corps administratif de catégorie B ou de même niveau, justifiant d'au moins neuf années de services publics dont cinq au moins de services effectifs dans un corps de catégorie B d'une administration parisienne.
 
 La proportion des nominations au choix susceptibles d'être prononcées au titre du présent article est d'au minimum un cinquième et d'au maximum un tiers du nombre total des nominations effectuées en application du 1° de l'article 4 et des détachements prononcés dans les conditions prévues à l'article 26.
 
