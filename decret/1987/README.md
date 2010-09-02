@@ -118,7 +118,6 @@
 - [Décret n°87-318 du 11 mai 1987 (INDD8700295D)](decret-n87-318-du-11-mai-1987-indd8700295d)
 - [Décret n°87-321 du 11 mai 1987 (JUSB8710193D)](decret-n87-321-du-11-mai-1987-jusb8710193d)
 - [Décret n°87-323 du 11 mai 1987](decret-n87-323-du-11-mai-1987)
-- [Décret n° 87-163 du 12 mars 1987 (ECOZ8700015D)](decret-n-87-163-du-12-mars-1987-ecoz8700015d)
 - [Décret n°87-19 du 12 janvier 1987 (DEFD8701009D)](decret-n87-19-du-12-janvier-1987-defd8701009d)
 - [Décret n°87-20 du 12 janvier 1987](decret-n87-20-du-12-janvier-1987)
 - [Décret n°87-21 du 12 janvier 1987](decret-n87-21-du-12-janvier-1987)
