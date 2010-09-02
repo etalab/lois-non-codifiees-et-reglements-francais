@@ -164,7 +164,7 @@ A.-Emplois en administration centrale
 </tr>
 <tr>
 <td width="411">
-<p>           directeur général de l'offre de soins  </p>
+<p>directeur général de l'offre de soins </p>
 </td>
 <td width="88">
 <p align="center">1 </p>
@@ -186,7 +186,7 @@ A.-Emplois en administration centrale
 </tr>
 <tr>
 <td width="411">
-<p>Directeur de l'administration générale, du personnel et du budget </p>
+<p>Directeur des ressources humaines (A compter du 8 juin 2009) </p>
 </td>
 <td width="88">
 <p align="center">1 </p>
@@ -390,29 +390,18 @@ A.-Emplois en administration centrale
 </tr>
 <tr>
 <td colspan="3" width="605">
-<p align="center">Chef de service ou sous-directeur en charge d'un service ou d'une sous-direction d'administration centrale ou d'un service à compétence nationale : </p>
+<p align="center">Chef de service ou sous-directeur en charge d'un service ou d'une sous-dirrection d'administration centrale ou d'un service à compétence nationale : </p>
 </td>
 </tr>
 <tr>
 <td width="472">
-<p>Chef du service des ressources humaines, direction de l'administration générale, du personnel et du budget </p>
+<p>Chef du service, adjoint au directeur des affaires financières, juridiques et des services (A compter du 1er mars 2010)</p>
 </td>
 <td width="71">
-<p align="center">1 </p>
+<p align="center">1</p>
 </td>
 <td width="63">
-<p align="center">120 </p>
-</td>
-</tr>
-<tr>
-<td width="472">
-<p>Chef de service chargé de la coordination des fonctions de soutien et de la gestion interne de la direction, direction de l'administration générale, du personnel et du budget </p>
-</td>
-<td width="71">
-<p align="center">1 </p>
-</td>
-<td width="63">
-<p align="center">120 </p>
+<p align="center">120</p>
 </td>
 </tr>
 <tr>
@@ -468,6 +457,15 @@ A.-Emplois en administration centrale
 </td>
 <td width="63">
 <p align="center">110 </p>
+</td>
+</tr>
+<tr>
+<td>Direction de l'animation de la recherche, des études et des statistiques : sous-directeur de l'action régionale, de la diffusion et des moyens (A compter du 28 mars 2008)</td>
+<td>
+<p align="center">1</p>
+</td>
+<td>
+<p align="center">110</p>
 </td>
 </tr>
 <tr>
@@ -560,7 +558,7 @@ A.-Emplois en administration centrale
 </tr>
 <tr>
 <td width="472">
-<p>direction générale de l'offre de soins : sous-directeur de l'organisation des systèmes de soins </p>
+<p>Direction générale de l'offre de soins : sous-directeur de l'organisation des systèmes de soins </p>
 </td>
 <td width="71">
 <p align="center">1 </p>
@@ -571,7 +569,7 @@ A.-Emplois en administration centrale
 </tr>
 <tr>
 <td width="472">
-<p>direction générale de l'offre de soins : sous-directeur des professions paramédicales et des personnels hospitaliers </p>
+<p>Direction de l'hospitalisation et de l'organisation des soins : sous-directeur des ressources humaines du système de santé (A compter du 10 décembre 2008)</p>
 </td>
 <td width="71">
 <p align="center">1 </p>
@@ -582,6 +580,9 @@ A.-Emplois en administration centrale
 </tr>
 </tbody>
 </table>
+
+..
+
 <table>
 <tbody>
 <tr>
@@ -618,9 +619,16 @@ A.-Emplois en administration centrale
 </td>
 </tr>
 <tr>
-<td width="454">
-<p>Direction de l'administration générale, du personnel et du budget : sous-directeur de la gestion du personnel </p>
+<td width="454">Direction des ressources humaines : sous-directeur de la gestion du personnel (A compter du 1er juillet 2010)</td>
+<td width="76">
+<p align="center">1</p>
 </td>
+<td width="76">
+<p align="center">80</p>
+</td>
+</tr>
+<tr>
+<td width="454">Direction des ressources humaines : sous-directeur des emplois et des compétences (A compter du 8 juin 2009)</td>
 <td width="76">
 <p align="center">1 </p>
 </td>
@@ -629,14 +637,12 @@ A.-Emplois en administration centrale
 </td>
 </tr>
 <tr>
-<td width="454">
-<p>Direction de l'administration générale, du personnel et du budget, sous-directeur des affaires financières (à compter du 20 novembre 2006) </p>
+<td/>
+<td>
+<br/>
 </td>
-<td width="76">
-<p align="center">1 </p>
-</td>
-<td width="76">
-<p align="center">110 </p>
+<td>
+<br/>
 </td>
 </tr>
 <tr>
@@ -751,17 +757,6 @@ A.-Emplois en administration centrale
 </tr>
 <tr>
 <td width="454">
-<p>direction générale de l'offre de soins : sous-directeur des professions médicales et des personnels médicaux (à compter du 11 mai 2007) </p>
-</td>
-<td width="76">
-<p align="center">1 </p>
-</td>
-<td width="76">
-<p align="center">80 </p>
-</td>
-</tr>
-<tr>
-<td width="454">
 <p>direction générale de l'offre de soins : sous-directeur des affaires générales </p>
 </td>
 <td width="76">
@@ -817,7 +812,7 @@ A.-Emplois en administration centrale
 </tr>
 <tr>
 <td width="454">
-<p>Direction de l'administration générale, du personnel et du budget : sous-directeur des statuts et du développement professionnel et social </p>
+<p>Direction des ressources humaines : sous-directeur du droit du personnel et des relations sociales (A compter du 8 juin 2009)</p>
 </td>
 <td width="76">
 <p align="center">1 </p>
@@ -827,9 +822,7 @@ A.-Emplois en administration centrale
 </td>
 </tr>
 <tr>
-<td width="454">
-<p>Direction de l'administration générale, du personnel et du budget : sous-directeur des services généraux et de l'immobilier (à compter du 10 avril 2008) </p>
-</td>
+<td width="454">Direction des affaires financières, juridiques et des services : sous-directeur des systèmes d'information (A compter du 8 juin 2009)</td>
 <td width="76">
 <p align="center">1 </p>
 </td>
@@ -839,7 +832,7 @@ A.-Emplois en administration centrale
 </tr>
 <tr>
 <td width="454">
-<p>Direction de l'administration générale, du personnel et du budget : sous-directeur des systèmes d'information et des télécommunications </p>
+<p>Direction des affaires financières, juridiques et des services : sous-directeur des affaires juridiques et de la gestion des connaissances (A compter du 8 juin 2009)</p>
 </td>
 <td width="76">
 <p align="center">1 </p>
@@ -910,17 +903,6 @@ A.-Emplois en administration centrale
 </tr>
 <tr>
 <td width="454">
-<p>Direction de l'animation de la recherche, des études et des statistiques (à compter du <sup>1er</sup> janvier 2003) </p>
-</td>
-<td width="76">
-<p align="center">1 </p>
-</td>
-<td width="76">
-<p align="center">80 </p>
-</td>
-</tr>
-<tr>
-<td width="454">
 <p>Direction de l'administration générale et de la modernisation des services </p>
 </td>
 <td width="76">
@@ -965,7 +947,7 @@ A.-Emplois en administration centrale
 </tr>
 <tr>
 <td width="454">
-<p>Direction de l'administration générale, du personnel et du budget (à compter du 28 mai 2006) </p>
+<p>Direction des ressources humaines (à compter du 8 juin 2009) </p>
 </td>
 <td width="76">
 <p align="center">3 </p>
@@ -1010,41 +992,7 @@ A.-Emplois en administration centrale
 </tbody>
 </table>
 
-5° Chef de mission
-
-<table>
-<tbody>
-<tr>
-<td width="406">
-<p align="center">Désignation de l'emploi </p>
-</td>
-<td width="89">
-<p align="center">Nombre d'emplois </p>
-</td>
-<td width="111">
-<p align="center">Nombre de points par emploi </p>
-</td>
-</tr>
-<tr>
-<td colspan="3" width="406">
-<p align="center">Chef de mission : </p>
-</td>
-</tr>
-<tr>
-<td width="406">
-<p>Direction de l'administration générale et de la modernisation des services : chef de la mission centrale d'appui et de coordination des services déconcentrés </p>
-</td>
-<td width="89">
-<p align="center">1 </p>
-</td>
-<td width="111">
-<p align="center">80 </p>
-</td>
-</tr>
-</tbody>
-</table>
-
-6° Président de mission
+5° Président de mission
 
 <table>
 <tbody>
@@ -1630,11 +1578,13 @@ B.-Fonctions exercées en service déconcentré
 </tr>
 </tbody>
 </table>
+
+..
+
 <table>
 <tbody>
 <tr>
 <td width="230">
-<br/>
 <p align="center">Directeur départemental des affaires sanitaires et sociales </p>
 </td>
 <td width="166">
@@ -2438,6 +2388,9 @@ B.-Fonctions exercées en service déconcentré
 </tr>
 </tbody>
 </table>
+
+..
+
 <table>
 <tbody>
 <tr>
