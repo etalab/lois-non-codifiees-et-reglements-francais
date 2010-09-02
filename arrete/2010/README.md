@@ -735,7 +735,6 @@
 - [Arrêté du 12 janvier 2010 (AGRS0928908A)](arrete-du-12-janvier-2010-agrs0928908a)
 - [Arrêté du 12 janvier 2010 (AGRS1001043A)](arrete-du-12-janvier-2010-agrs1001043a)
 - [Arrêté du 12 janvier 2010 (DEFD1000841A)](arrete-du-12-janvier-2010-defd1000841a)
-- [Arrêté du 12 janvier 2010 (DEVE0930803A)](arrete-du-12-janvier-2010-deve0930803a)
 - [Arrêté du 12 janvier 2010 (DEVE1000820A)](arrete-du-12-janvier-2010-deve1000820a)
 - [Arrêté du 12 janvier 2010 (DEVO1000661A)](arrete-du-12-janvier-2010-devo1000661a)
 - [Arrêté du 12 janvier 2010 (IOCC0931671A)](arrete-du-12-janvier-2010-iocc0931671a)
