@@ -1,9 +1,7 @@
 # Article 19
 
-Des subventions peuvent être accordées pour la modernisation et la création d'établissements de spectacles cinématographiques implantés dans des zones géographiques dont les agglomérations sont insuffisamment équipées ou dans des agglomérations insuffisamment équipées en établissements de spectacles cinématographiques dont la ou les salles sont classées dans les catégories prévues par le décret du 25 octobre 1991 susvisé.
+Des subventions peuvent être accordées pour la modernisation et la création d'établissements de spectacles cinématographiques implantés dans des zones géographiques dont les agglomérations sont insuffisamment équipées ou dans des agglomérations insuffisamment équipées en établissements de spectacles cinématographiques classés dans les catégories prévues à l'article 4 du décret n° 2002-568 du 22 avril 2002 portant définition et classement des établissements de spectacles cinématographiques d'art et d'essai.
 
-L'octroi des subventions est subordonné à la conclusion d'une convention entre le Centre national de la cinématographie et l'exploitant bénéficiaire, qui fixe notamment les modalités de versement de l'aide ainsi que les cas dans lesquels celle-ci donne lieu à reversement.
+Ces subventions ne sont pas accordées aux personnes qui sont propriétaires, ou assurent l'exploitation dans les conditions prévues à l'article 13, de plus de cinquante salles.
 
-Les décisions relatives à l'octroi des subventions sont prises par le directeur général du Centre national de la cinématographie après avis d'une commission dont la composition est fixée par arrêté du ministre chargé de la culture, du ministre chargé de l'économie et du ministre chargé du budget.
-
-Ces subventions ne peuvent bénéficier aux personnes qui, directement ou dans les conditions prévues à l'article 13, sont propriétaires de plus de 50 salles de spectacles cinématographiques.
+Les décisions relatives à l'octroi de ces subventions sont prises par le président du Centre national du cinéma et de l'image animée, après avis d'une commission dénommée " commission du soutien financier sélectif à l'exploitation cinématographique " dont la composition ainsi que les modalités d'organisation et de fonctionnement sont fixées par arrêté du ministre chargé de la culture.
