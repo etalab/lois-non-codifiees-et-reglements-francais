@@ -678,6 +678,7 @@
 - [Décret n°2010-997 du 26 août 2010 (MTSF1005059D)](decret-n2010-997-du-26-aout-2010-mtsf1005059d)
 - [Décret n°2010-998 du 26 août 2010 (MTSF1005965D)](decret-n2010-998-du-26-aout-2010-mtsf1005965d)
 - [Décret n°90-101 du 26 janvier 1990 (LOGC9000003D)](decret-n90-101-du-26-janvier-1990-logc9000003d)
+- [Décret n°95-85 du 26 janvier 1995 (COMK9504002D)](decret-n95-85-du-26-janvier-1995-comk9504002d)
 - [Décret n°2010-544 du 26 mai 2010 (IOCA0931083D)](decret-n2010-544-du-26-mai-2010-ioca0931083d)
 - [Décret n°2010-546 du 26 mai 2010 (MCCE1006415D)](decret-n2010-546-du-26-mai-2010-mcce1006415d)
 - [Décret n°2010-554 du 26 mai 2010 (BCRD1011605D)](decret-n2010-554-du-26-mai-2010-bcrd1011605d)
