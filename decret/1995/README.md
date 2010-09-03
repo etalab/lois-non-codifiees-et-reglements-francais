@@ -797,7 +797,6 @@
 - [Décret n°95-466 du 26 avril 1995 (AGRE9500645D)](decret-n95-466-du-26-avril-1995-agre9500645d)
 - [Décret n°95-497 du 26 avril 1995 (JUSA9400401D)](decret-n95-497-du-26-avril-1995-jusa9400401d)
 - [Décret n°95-498 du 26 avril 1995 (JUSB9510014D)](decret-n95-498-du-26-avril-1995-jusb9510014d)
-- [Décret n°95-85 du 26 janvier 1995 (COMK9504002D)](decret-n95-85-du-26-janvier-1995-comk9504002d)
 - [Décret n°95-86 du 26 janvier 1995 (SPSH9403841D)](decret-n95-86-du-26-janvier-1995-spsh9403841d)
 - [Décret n°95-746 du 26 mai 1995 (MAEX9500066D)](decret-n95-746-du-26-mai-1995-maex9500066d)
 - [Décret du 27 avril 1995 (INTA9500068D)](decret-du-27-avril-1995-inta9500068d)
