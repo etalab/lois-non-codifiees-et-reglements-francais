@@ -1,6 +1,6 @@
 # Article 8
 
-Un arrêté des ministres chargés des transports, de l'économie et du budget fixe, après consultation de Réseau ferré de France  :
+Sans préjudice des dispositions des articles 10 et 11 ci-après, Réseau ferré de France arrête :
 
 - les conditions de modulation des redevances de réservation et de circulation ;
 
