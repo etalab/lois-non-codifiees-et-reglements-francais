@@ -1,0 +1,3 @@
+# Article 3
+
+Seules les entreprises qui sont enregistrées auprès des services régionaux chargés de la protection des végétaux et adhèrent au « programme de conformité phytosanitaire » publié au Bulletin officiel du ministère de l'alimentation, de l'agriculture et de la pêche sont autorisées à apposer le marquage NIMP n° 15 sur les emballages. Un numéro d'enregistrement propre à chaque entreprise est délivré par les services régionaux chargés de la protection des végétaux après étude du dossier et visite de l'entreprise. Ce numéro d'enregistrement est l'un des éléments constitutifs de la marque. En apposant sa marque, l'entreprise atteste que le bois approprié (bois écorcé et traité conformément à la NIMP n° 15 révisée) a été utilisé et correctement marqué.

@@ -1,0 +1,3 @@
+# SECTION 5 : DISPOSITIONS RELATIVES AUX MARCHES
+
+- [Article 31](article-31.md)

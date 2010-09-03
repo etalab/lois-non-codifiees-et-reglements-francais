@@ -1,0 +1,3 @@
+# Article 3
+
+La mise en œuvre des dispositifs de comptage fait l'objet d'une expérimentation confiée à la société issue de la séparation juridique imposée à Electricité de France par l'article 13 de la loi du 9 août 2004.L'expérimentation porte sur les points de raccordement des installations des utilisateurs des réseaux publics raccordées en basse tension (BT) pour des puissances inférieures ou égales à 36 kVA. Elle est prévue pour une durée limitée au 31 décembre 2010. Au cours de l'expérimentation, la société transmet à la Commission de régulation de l'énergie toutes les informations nécessaires à son évaluation.
