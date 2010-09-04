@@ -827,7 +827,6 @@
 - [Décret n°98-439 du 29 mai 1998 (ECOI9700037D)](decret-n98-439-du-29-mai-1998-ecoi9700037d)
 - [Décret n°98-440 du 29 mai 1998 (ECOI9800035D)](decret-n98-440-du-29-mai-1998-ecoi9800035d)
 - [Décret n°2000-491 du 29 mai 2000 (EQUA0000502D)](decret-n2000-491-du-29-mai-2000-equa0000502d)
-- [Décret du 30 janvier 1998 (ECOC9700226D)](decret-du-30-janvier-1998-ecoc9700226d)
 - [Décret du 30 janvier 1998 (ECOC9700227D)](decret-du-30-janvier-1998-ecoc9700227d)
 - [Décret du 30 juillet 1998 (ECOC9800051D)](decret-du-30-juillet-1998-ecoc9800051d)
 - [Décret n°87-1101 du 30 décembre 1987 (INTB8700395D)](decret-n87-1101-du-30-decembre-1987-intb8700395d)
