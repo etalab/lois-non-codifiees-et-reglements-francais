@@ -561,7 +561,6 @@
 - [Décret n°99-905 du 22 octobre 1999 (AGRS9901776D)](decret-n99-905-du-22-octobre-1999-agrs9901776d)
 - [Décret n°99-960 du 22 novembre 1999 (AGRA9901534D)](decret-n99-960-du-22-novembre-1999-agra9901534d)
 - [Décret du 23 juin 1999 (HRUX9903527D)](decret-du-23-juin-1999-hrux9903527d)
-- [Décret du 23 septembre 1999 (ECOC9900056D)](decret-du-23-septembre-1999-ecoc9900056d)
 - [Décret du 23 septembre 1999 (ECOC9900057D)](decret-du-23-septembre-1999-ecoc9900057d)
 - [Décret du 23 septembre 1999 (ECOC9900058D)](decret-du-23-septembre-1999-ecoc9900058d)
 - [Décret n°70-1285 du 23 décembre 1970](decret-n70-1285-du-23-decembre-1970)

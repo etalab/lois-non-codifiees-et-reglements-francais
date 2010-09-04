@@ -1,5 +1,0 @@
-# Article 5
-
-Le "Miel de sapin des Vosges" doit répondre aux caractéristiques suivantes : teneur en eau inférieure ou égale à 18 %, conductibilité électrique supérieure à 950 micro-siemens par centimètre, HMF inférieur à 15 mg/kg, coloration brun foncé à reflets verdâtres, arômes balsamiques et saveur maltée, exempte d'amertume et de saveurs étrangères.
-
-Le "Miel de sapin des Vosges" doit être présenté au consommateur sous forme liquide. Le défigeage est autorisé selon les normes en vigueur mais la pasteurisation est interdite.
