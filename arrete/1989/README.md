@@ -301,7 +301,6 @@
 - [Arrêté du 17 janvier 1989 (TEFT8903070A)](arrete-du-17-janvier-1989-teft8903070a)
 - [Arrêté du 17 janvier 1989 (TEFT8903071A)](arrete-du-17-janvier-1989-teft8903071a)
 - [Arrêté du 17 juillet 1989 (SPSX8910195A)](arrete-du-17-juillet-1989-spsx8910195a)
-- [Arrêté du 17 novembre 1988 (INDF8800609A)](arrete-du-17-novembre-1988-indf8800609a)
 - [Arrêté du 17 novembre 1989 (ECOA8900032A)](arrete-du-17-novembre-1989-ecoa8900032a)
 - [Arrêté du 17 novembre 1989 (MENZ8902740A)](arrete-du-17-novembre-1989-menz8902740a)
 - [Arrêté du 17 novembre 1989 (PTTQ8901045A)](arrete-du-17-novembre-1989-pttq8901045a)
