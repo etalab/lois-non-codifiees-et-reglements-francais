@@ -1562,7 +1562,6 @@
 - [Arrêté du 18 septembre 2009 (MAEA0919286A)](arrete-du-18-septembre-2009-maea0919286a)
 - [Arrêté du 18 septembre 2009 (MTSO0915833A)](arrete-du-18-septembre-2009-mtso0915833a)
 - [Arrêté du 18 mai 2009 (AGRG0909211A)](arrete-du-18-mai-2009-agrg0909211a)
-- [Arrêté du 18 mai 2009 (BCFF0908298A)](arrete-du-18-mai-2009-bcff0908298a)
 - [Arrêté du 18 mai 2009 (BCFF0910900A)](arrete-du-18-mai-2009-bcff0910900a)
 - [Arrêté du 18 mai 2009 (BCFS0911381A)](arrete-du-18-mai-2009-bcfs0911381a)
 - [Arrêté du 18 mai 2009 (DEFD0910142A)](arrete-du-18-mai-2009-defd0910142a)
