@@ -6,7 +6,7 @@ I. ― La direction du service national comprend, outre la mission liaisons-part
 
 2° La sous-direction des ressources humaines ;
 
-3° La sous-direction des systèmes d'information ;
+3° (supprimé)
 
 4° La sous-direction des affaires financières et du soutien.
 
