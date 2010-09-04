@@ -3,4 +3,4 @@
 - [Article 1](article-1.md)
 - [TITRE Ier : ORGANISATION ADMINISTRATIVE](titre-ier)
 - [TITRE II : RÉGIME FINANCIER ET COMPTABLE.](titre-ii)
-- [TITRE III : DISPOSITIONS TRANSITOIRES.](titre-iii)
+- [TITRE III : DISPOSITIONS FINALES](titre-iii)
