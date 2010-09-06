@@ -1,0 +1,3 @@
+# Article 1
+
+La société MELOX SA, société anonyme immatriculée au RCS de Nîmes sous le numéro 378 783 237, dont le siège social est situé lieudit La Tourette, 30200 Chusclan, est autorisée à exploiter, au lieu et place de la société Compagnie générale des matières nucléaires (COGEMA), devenue la société AREVA NC, l'installation nucléaire de base n° 151, usine de fabrication de crayons et d'assemblages combustibles nucléaires, sur le site nucléaire de Marcoule, commune de Chusclan (Gard), dans les conditions définies par le décret du 21 mai 1990 susvisé et sous réserve des articles 2 et 3 du présent décret.
