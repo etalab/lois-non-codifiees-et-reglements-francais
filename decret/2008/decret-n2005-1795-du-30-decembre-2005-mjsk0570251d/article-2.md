@@ -28,9 +28,9 @@ La direction des sports a également compétence en matière d'emploi et de form
 
 Elle anime et coordonne les actions en faveur de l'emploi et des formations conduites sous son impulsion par les services déconcentrés et par les établissements publics placés sous la tutelle du ministre.
 
-En liaison avec la direction de la jeunesse, de l'éducation populaire et de la vie associative, elle analyse les compétences et les qualifications, à visée professionnelle ou non, qui sont nécessaires au développement de la pratique dans les champs de l'animation et du sport. Elle détermine les orientations applicables dans ce domaine au plan national.
+En liaison avec la direction de la jeunesse, de l'éducation populaire et de la vie associative, elle analyse les compétences et les qualifications à visée professionnelle qui sont nécessaires au développement de la pratique dans les champs de l'animation et du sport. Elle détermine les orientations applicables dans ce domaine au plan national.
 
-Dans les champs du sport, de l'animation et de la vie associative, et en liaison avec la direction de la jeunesse, de l'éducation populaire et de la vie associative, elle élabore la réglementation relative aux diplômes et aux formations, à visée professionnelle ou non, ainsi que celle relative à la validation des acquis. Elle veille à leur application.
+Dans les champs du sport, de l'animation et de la vie associative, et en liaison avec la direction de la jeunesse, de l'éducation populaire et de la vie associative, elle élabore la réglementation relative aux diplômes et aux formations à visée professionnelle ainsi que celle relative à la validation des acquis de l'expérience. Elle veille à leur application.
 
 Elle anime et coordonne, au plan national, l'organisation des examens et la mise en œuvre des procédures de validation des acquis de l'expérience.
 

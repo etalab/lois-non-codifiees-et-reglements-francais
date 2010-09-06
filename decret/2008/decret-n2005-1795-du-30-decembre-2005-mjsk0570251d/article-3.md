@@ -12,7 +12,9 @@ Elle concourt à l'élaboration et à la mise en œuvre de la politique de déve
 
 Elle soutient les actions d'intérêt général des associations de jeunesse et d'éducation populaire. Elle assure le secrétariat permanent du Conseil national de la jeunesse et du Conseil national de l'éducation populaire et de la jeunesse.
 
-Elle contribue à assurer la protection des mineurs pendant leur temps de vacances et de loisirs. A cette fin, elle élabore la réglementation concernant leur accueil hors du domicile parental et veille à son application. Elle soutient les actions visant à mettre en valeur les fonctions éducatives de cet accueil.
+Elle contribue à assurer la protection des mineurs pendant leur temps de vacances et de loisirs. A cette fin, elle élabore la réglementation concernant leur accueil hors du domicile parental et veille à son application. Elle soutient les actions visant à mettre en valeur les fonctions éducatives de cet accueil. Elle analyse, en liaison avec la direction des sports, les compétences et les qualifications nécessaires à l'encadrement des mineurs qui y sont accueillis. Elle détermine les orientations applicables dans ce domaine au plan national. Elle élabore la réglementation relative aux diplômes et aux formations à visée non professionnelle, dans le champ de l'animation. Elle veille à son application.
+
+Elle définit les conditions d'encadrement et de pratique des activités physiques dans les accueils collectifs de mineurs conformément aux dispositions du code de l'action sociale et des familles.
 
 Elle assure le suivi des actions d'information destinées aux jeunes, relatives à leur vie quotidienne et à leurs droits et devoirs. Elle favorise l'expression des jeunes et soutient les structures de participation et de dialogue qui leur sont ouvertes. Elle soutient la prise d'initiatives et l'engagement des jeunes.
 
