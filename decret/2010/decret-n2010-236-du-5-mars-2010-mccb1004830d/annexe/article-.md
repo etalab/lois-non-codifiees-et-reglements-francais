@@ -18,7 +18,7 @@ Informations relatives aux œuvres ou objets protégés concernés par les faits
 
 Nom du fichier tel que présent sur le poste de l'abonné (le cas échéant) ;
 
-Fournisseur d'accès à internet auprès duquel l'accès a été souscrit.
+Fournisseur d'accès à internet auprès duquel l'accès a été souscrit ou ayant fourni la ressource technique IP.
 
 Quant aux agents assermentés et agréés dans les conditions définies à l'article L. 331-2 du code de la propriété intellectuelle :
 
@@ -36,6 +36,8 @@ Adresse postale et adresses électroniques ;
 
 Coordonnées téléphoniques ;
 
-Adresse de l'installation téléphonique de l'abonné.
+Adresse de l'installation téléphonique de l'abonné ;
+
+Fournisseur d'accès à internet, utilisant les ressources techniques du fournisseur d'accès mentionné au 1°, auprès duquel l'abonné a souscrit son contrat ; numéro de dossier ;
 
 3° Recommandations par voie électronique et recommandations par lettre remise contre signature ou par tout autre moyen propre à établir la preuve de la date de présentation prévues à l'article L. 331-25 du code de la propriété intellectuelle ainsi que courriers et observations des abonnés destinataires des recommandations.
