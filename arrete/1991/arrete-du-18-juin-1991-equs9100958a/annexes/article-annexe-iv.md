@@ -6,7 +6,7 @@ Pour être agréé, un contrôleur doit justifier au moins d'une des qualificati
 
 1. Qualifications comprenant une expérience professionnelle courte
 
-1.1. Un C.A.P. (certificat d'aptitude professionnelle) ou un C.F.P. (certificat de formation professionnelle) du ministère de l'éducation nationale dans une discipline de l'automobile (mécanique automobile, carrosserie, tôlerie, électricité automobile) et une formation spécialisée complémentaire dans le contrôle technique automobile d'une durée d'au moins 900 heures.
+1.1. Un diplôme de niveau V du ministère de l'éducation nationale dans une discipline de l'automobile : mécanique automobile (quelle que soit l'option complémentaire), carrosserie, tôlerie, électricité automobile, maintenance automobile et une formation spécialisée complémentaire dans le contrôle technique automobile d'une durée d'au moins 900 heures.
 
 1.2. Cette formation peut être validée par le certificat de qualification professionnelle de contrôleur. Ce titre reconnu par la Commission nationale paritaire de l'emploi et de la formation professionnelle du commerce, de la réparation et du contrôle technique de l'automobile (C.N.P.E.F.P.) se prépare dans le cadre de l'alternance visée par les livres Ier et IXème du code du travail suivant les modalités précisées par le cahier des charges retenu par la commission précitée.
 
@@ -16,9 +16,11 @@ Pour être agréé, un contrôleur doit justifier au moins d'une des qualificati
 
 2. Qualifications comprenant une expérience professionnelle longue ou acquises dans un autre Etat membre de la Communauté européenne ou dans un Etat partie à l'accord sur l'Espace économique européen
 
-2.1. Un baccalauréat professionnel ou un BTS ou un DUT du ministère de l'éducation nationale dans une discipline de l'automobile (mécanique automobile, carrosserie, tôlerie, électricité automobile) et une formation complémentaire au contrôle technique d'une durée minimale de 175 heures.
+2.1. Un diplôme de niveau IV, au minimum, du ministère de l'éducation nationale dans une discipline de l'automobile (mécanique ou maintenance automobile, carrosserie, tôlerie, électricité automobile) ou un des secteurs de l'industrie automobile, de la mécanique, de la productique, de l'automatisme électronique, de l'électromécanique ou de la maintenance aéronautique, et une formation complémentaire au contrôle technique d'une durée minimale de 175 heures.
 
-2.1.1. Un C.A.P. ou un C.F.P. ou un B.E.P. du ministère de l'éducation nationale dans une discipline de l'automobile (mécanique automobile, carrosserie, tôlerie, électricité automobile) avec au moins deux années d'expérience dans la réparation automobile et une formation spécialisée complémentaire dans le contrôle technique automobile d'une durée minimale de 175 heures ou un C.P.P. (certificat de perfectionnement professionnel) de contrôleur technique automobile avec au moins deux ans d'expérience dans la réparation automobile.
+2.1.1. Un diplôme de niveau V du ministère de l'éducation nationale dans une discipline de l'automobile : mécanique automobile (quelle que soit l'option complémentaire), carrosserie, tôlerie, électricité automobile, avec au moins vingt-quatre mois d'expérience effective dans la réparation ou la maintenance automobile et une formation spécialisée complémentaire dans le contrôle technique automobile d'une durée minimale de 175 heures.
+
+2.1.2. Un CQP (certificat de qualification professionnelle) ou un titre professionnel de contrôleur technique automobile.
 
 2.2. Une expérience d'au moins cinq ans dans la réparation automobile (mécanique automobile, carrosserie, tôlerie, électricité automobile) et une formation spécialisée complémentaire dans le contrôle technique automobile d'une durée minimale de 175 heures.
 
@@ -42,19 +44,19 @@ Pour être qualifié au titre du contrôle technique des véhicules équipés d'
 
 - être titulaire d'une des qualifications prévues aux paragraphes 1 ou 2 ;
 
-- justifier d'une formation complémentaire spécifique théorique et pratique d'au minimum 21 heures ayant donné lieu à une évaluation satisfaisante.
+- justifier d'une formation complémentaire spécifique théorique et pratique d'au minimum 21 heures ayant donné lieu à une évaluation satisfaisante ou disposer d'une attestation de capacité de formateur, en cours de validité, tel que prévu au troisième alinéa du paragraphe 8 de la présente annexe.
 
 4. Maintien de la qualification
 
 4.1. Pour assurer le maintien de sa qualification, chaque contrôleur doit pouvoir justifier :
 
-- d'un complément de formation d'au moins 20 heures par année civile au sein d'un organisme reconnu par les pouvoirs publics et désigné par le réseau ou par le représentant légal du centre non rattaché à un réseau. Ce complément de formation comporte un module technique général, d'une durée minimale de 8 heures, dont le référentiel est défini au plus tard le 1er juillet de chaque année par le ministère chargé des transports, sur la base de ses priorités et des propositions formulées par la direction régionale de l'industrie de la recherche et de l'environnement Ile-de-France et par l'organisme technique central.
+- d'un complément de formation d'au moins 20 heures par année civile au sein d'un organisme reconnu par les pouvoirs publics et désigné par le réseau ou par le représentant légal du centre non rattaché à un réseau. Ce complément de formation comporte un module technique général, d'une durée minimale de 8 heures, dont le référentiel est défini au plus tard le 1er juillet de chaque année par le ministère chargé des transports, sur la base de ses priorités et des propositions formulées par la direction régionale de l'industrie de la recherche et de l'environnement Ile-de-France et par l'organisme technique central. Dans le cas où le contrôleur réalise une partie du complément de formation par téléformation, celle-ci ne peut excéder six heures et est réalisée préalablement aux autres modules.
 
 -de la réalisation d'au moins 300 visites techniques périodiques par année civile.
 
 - d'un audit favorable, tous les deux ans, portant sur la réalisation d'une visite technique périodique.
 
-4.2. Après une période d'inactivité supérieure à un an, ou en cas de changement de réseau, ou de carence constatée, le réseau ou le représentant légal du centre non rattaché doit assurer la remise à niveau du contrôleur. Dans tous les cas, cette remise à niveau ne dispense pas le contrôleur de la formation prévue au point 4.1.
+4.2. Après une période d'inactivité supérieure à un an, ou en cas de changement de réseau, ou de carence constatée, le réseau ou le représentant légal du centre non rattaché doit assurer la remise à niveau du contrôleur. Dans tous les cas, cette remise à niveau ne dispense pas le contrôleur de la formation prévue au point 4.1. Une traçabilité des dispositions mises en œuvre dans le cadre de la remise à niveau est assurée.
 
 4.3. Pour assurer le maintien de sa qualification pour le contrôle des véhicules à réservoir de gaz carburant, tel que prévu à l'article 12-1 du présent arrêté, le contrôleur doit participer à une formation continue spécifique de 4 heures tous les deux ans.
 

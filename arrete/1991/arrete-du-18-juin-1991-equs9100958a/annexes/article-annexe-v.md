@@ -22,25 +22,13 @@ ORGANISATION DES INSTALLATIONS DE CONTROLE
 
 3.1. Le suivi de l'entretien du matériel fait l'objet de procédures spécifiques disponibles dans chaque installation contrôle.
 
-3.2. Ces procédures doivent prévoir la remise en état ou le remplacement du matériel dans les huit jours ouvrables par des personnels qualifiés en cas de défaut affectant notamment les prises de mesure ainsi que des méthodes d'essai alternatives en l'attente de la remise en état ou du remplacement. A défaut de telles méthodes, ces procédures doivent prévoir l'arrêt immédiat de l'activité du centre, à l'exception des contre-visites ne nécessitant pas l'usage de ce matériel, jusqu'à la remise en état ou le remplacement.
+3.2. Ces procédures prévoient la remise en état ou le remplacement du matériel dans les huit jours ouvrables par des personnels qualifiés en cas de défaut affectant notamment les prises de mesure ainsi que des méthodes d'essai alternatives en l'attente de la remise en état ou du remplacement. A défaut de telles méthodes, ces procédures prévoient l'arrêt immédiat de l'activité du centre, à l'exception des contrôles techniques ne nécessitant pas l'usage de ce matériel, jusqu'à la remise en état ou le remplacement.
 
-Sans préjudice des vérifications et opérations périodiques imposées par d'autres réglementations, notamment en matière d'appareils de levage, d'appareils à pression et d'appareils de mesure, ces procédures doivent prévoir également :
-
-- Un minimum de deux étalonnages par année civile (vérification et si nécessaire ajustage), par des personnels qualifiés, pour les matériels visés aux points 1.1, 1.3, 1.6.1 et 1.6.2 de l'annexe III. L'écart entre deux étalonnages successifs ne doit pas excéder huit mois ;
-
-- Un minimum de deux visites de maintenance préventive par année civile, par des personnels qualifiés, pour les matériels visés aux points 1.1, 1.3, 1.6.1 et 1.6.2 de l'annexe III. L'écart entre deux visites successives ne doit pas excéder huit mois ;
-
-- Des dispositions pour le contrôle régulier de la chaîne de mesure des matériels visés aux points 1.1, 1.2, 1.3, 1.4, 1.5 et 1.6 de l'annexe III ;
-
-- Des dispositions pour l'entretien courant (maintien permanent du bon état de propreté et du bon fonctionnement) de tous les appareils.
-
-Les opérations d'étalonnage et de maintenance préventives doivent faire l'objet d'un contrat avec un organisme habilité pour les matériels concernés. Ces opérations peuvent, le cas échéant, être combinées entre elles.
-
-3.3. Les notices techniques et les instructions d'emploi et de maintenance de chaque matériel utilisé doivent être disponibles dans toutes les installations de contrôle.
+Sans préjudice des vérifications et opérations périodiques imposées par d'autres réglementations, notamment en matière d'appareils de levage, d'appareils à pression et d'appareils de mesure, ces procédures prévoient la mise en œuvre des dispositions relatives aux opérations de vérification, de maintenance et d'étalonnage prévues au point 1. Partie mécanique de l'annexe III du présent arrêté.
 
 4. Recueil des informations relatives aux contrôles effectués
 
-4.1. Une copie de chaque procès-verbal de contrôle doit être conservée par le centre de contrôle pendant une durée de quatre ans.
+4.1. Une copie de chaque procès-verbal de contrôle est conservée par le centre de contrôle pendant une durée de quatre ans. Cette durée est portée à six ans pour les véhicules de collection.
 
 4.2. Pour chaque contrôle technique effectué, sont relevées systématiquement les valeurs enregistrées par les appareils de mesure suivant la forme définie par l'Organisme Technique Central, ainsi que toutes observations faites par le contrôleur. Ces informations doivent être conservées par le centre de contrôle pendant une durée de quatre ans.
 

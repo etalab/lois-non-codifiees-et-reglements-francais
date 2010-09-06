@@ -1,6 +1,6 @@
 # Article 6-1
 
-Il est dressé un procès-verbal de chaque contrôle technique complémentaire. Ce document, qui doit être conforme aux dispositions de l'annexe II du présent arrêté, décrit notamment les contrôles effectués et les défauts constatés.
+Il est dressé un procès-verbal de chaque contrôle technique complémentaire. Ce document est conforme aux dispositions de l'annexe II du présent arrêté et décrit les défauts constatés.
 
 Il doit être différencié des procès-verbaux de visite technique périodique, par l'impression de la mention "Visite complémentaire" sous la rubrique intitulée "Nature du contrôle" figurant à son recto.
 

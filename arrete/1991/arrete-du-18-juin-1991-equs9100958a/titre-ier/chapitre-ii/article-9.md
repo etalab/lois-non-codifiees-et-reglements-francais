@@ -1,37 +1,37 @@
 # Article 9
 
-L'original du certificat d'immatriculation doit être obligatoirement présenté préalablement au contrôle technique ou, à défaut, l'un des documents suivants :
+L'original du certificat d'immatriculation est présenté préalablement au contrôle technique. En l'absence de ce document, peuvent être présentés le document ou les ensembles de documents suivants :
 
--un certificat d'immatriculation provisoire comportant notamment le numéro d'immatriculation définitif assigné au véhicule.
+-dans le cas d'un véhicule circulant sous couvert d'un certificat provisoire d'immatriculation, un certificat provisoire d'immatriculation ;
 
--En cas de perte ou de vol du certificat d'immatriculation : copie de la demande de duplicata ou de la déclaration de perte ou de vol, et attestation de caractéristiques délivrée par la préfecture reprenant les éléments d'identification du véhicule ;
+-en cas de perte ou vol du certificat d'immatriculation, la fiche d'identification du véhicule délivrée par les services préfectoraux et la copie de la demande de duplicata du certificat d'immatriculation ou la copie de la déclaration de perte ou vol du certificat d'immatriculation ;
 
--En cas d'immobilisation du véhicule : fiche de circulation provisoire prévue à l'article R. 280-1 du code de la route ;
+-en cas d'immobilisation du véhicule, la fiche de circulation provisoire prévue à l'article R. 325-6 du code de la route ;
 
--En préalable à l'immatriculation en véhicule de collection d'un véhicule démuni de certificat d'immatriculation : attestation prévue au point a du II du paragraphe 4E de l'article 4 de l'arrêté du 9 février 2009 relatif aux modalités d'immatriculation des véhicules, délivrée soit par le constructeur ou son représentant en France, soit par la Fédération française des véhicules d'époque ;
+-dans le cas d'un véhicule de plus de trente ans d'âge sans certificat d'immatriculation, l'attestation prévue au point a du II du paragraphe 4E de l'article 4 de l'arrêté du 9 février 2009 susvisé ;
 
--En cas d'importation de véhicule : certificat d'immatriculation étranger, ou, à défaut, une pièce officielle prouvant l'origine du véhicule ou certifiant que le certificat d'immatriculation a été retiré, ou formulaire 846 A délivré par les douanes ou certificat d'acquisition d'un véhicule terrestre à moteur en provenance de la communauté européenne délivré par le centre des impôts,
+-dans le cas d'un véhicule précédemment immatriculé hors du territoire français (hors série spéciale FFECSA), un certificat d'immatriculation étranger ou une pièce officielle prouvant l'origine de propriété du véhicule et visée par les autorités administratives du pays d'origine ou une pièce officielle certifiant que le certificat d'immatriculation a été retiré. Dans ce cas, est également fourni l'original du certificat de conformité communautaire ou sa photocopie visée par les autorités de l'Etat d'immatriculation ou le duplicata du certificat de conformité délivré par le constructeur ou son représentant dans l'Etat d'immatriculation ou une attestation d'identification pour véhicule importé délivrée par le service chargé des réceptions des véhicules ou par le représentant de la marque en France ou une attestation de dépôt de dossier délivrée par le service chargé des réceptions de véhicules, indiquant le motif de réception ;
 
--Dans le cas d'un véhicule vendu par le service des domaines ou assimilé : certificat de vente délivré par ce service et mentionnant les caractéristiques du véhicule ;
+-dans le cas d'un véhicule précédemment immatriculé dans la série spéciale FFECSA, un certificat spécial FFECSA sur lequel est apposée la mention " Radiation définitive de la série spéciale FFECSA " et la date de validité du certificat. Dans ce cas, est également fourni le certificat d'immatriculation si le véhicule a déjà été immatriculé en France ou le certificat de conformité d'origine ou une attestation d'identification à un type national français ou communautaire ou une attestation de dépôt de dossier délivrée par le service chargé des réceptions des véhicules, indiquant le motif de réception ;
 
--Si le certificat d'immatriculation a été annulée : certificat d'annulation de certificat d'immatriculation délivré en préfecture ;
+-lorsque le certificat d'immatriculation a été retiré suite à une demande volontaire, la fiche d'identification du véhicule délivrée par les services préfectoraux et la demande de certificat d'immatriculation ;
 
--Si le certificat d'immatriculation du véhicule est conservée en préfecture dans le cadre d'une procédure VE (véhicule endommagé) : avis de retrait du certificat d'immatriculation délivré par l'officier ou l'agent de police judiciaire, ou attestation de remise du certificat d'immatriculation délivrée par les services préfectoraux ;
+-lorsque le certificat d'immatriculation a été retiré suite à une transformation notable, une attestation de dépôt de dossier délivrée par le service chargé des réceptions des véhicules, indiquant le motif de réception ;
 
--S'il s'agit d'un véhicule reconstruit : récépissé de déclaration de destruction de véhicule délivré en préfecture ;
+-lorsque le certificat d'immatriculation a été retiré suite à une procédure VE (véhicule endommagé), un avis de retrait du certificat d'immatriculation et la fiche d'identification du véhicule délivrée par les services préfectoraux ;
 
--Dans le cas d'un véhicule démuni de certificat d'immatriculation, vendu aux enchères publiques dans le cadre d'une décision judiciaire et pour lequel l'attestation du commissaire priseur ou de l'huissier de justice visée à l'article 12.B de l'arrêté du 9 février 2009 relatif aux modalités d'immatriculation des véhicules précise le numéro d'immatriculation français et le numéro de série et confirme l'absence du certificat d'immatriculation : ladite attestation, et une attestation de caractéristiques délivrée en préfecture ;
+-dans le cas d'un véhicule d'occasion présenté par un vendeur professionnel, le récépissé de la déclaration d'achat du véhicule d'occasion et le certificat d'immatriculation ou sa copie visée par le vendeur professionnel ;
 
--Dans les cas de véhicule démuni de certificat d'immatriculation autre que ceux visés précédemment : copie du certificat de dépôt de dossier de réception à titre isolé et attestation de caractéristiques délivrée par la préfecture.
+-lorsque le véhicule provient d'une vente aux enchères publiques, une attestation de vente établie par le commissaire priseur ou l'huissier de justice et la photocopie du certificat d'immatriculation visé par le commissaire priseur ou l'huissier de justice ou la fiche d'identification du véhicule délivrée par les services préfectoraux ou une attestation de dépôt de dossier délivrée par le service chargé des réceptions des véhicules, indiquant le motif de réception ;
 
--En cas de changement de la source d'énergie du véhicule, dans l'attente de la mise à jour du certificat d'immatriculation : présentation du procès-verbal de réception à titre isolé en complément du certificat d'immatriculation.
+-dans le cas d'un véhicule appartenant à une société de location, la photocopie du certificat d'immatriculation visée par ladite société ;
 
-A titre dérogatoire, lorsque le certificat d'immatriculation existe mais est temporairement retenue par un tiers dans le cadre d'une procédure contractuelle, les contrôleurs peuvent, sous leur responsabilité et en prenant toutes précautions nécessaires, réaliser le contrôle technique au vu d'autres documents que ceux visés ci-dessus, dans la mesure où ces documents permettent l'identification du véhicule.
+-dans le cas d'un véhicule appartenant aux services de l'Etat, tout document permettant l'identification du véhicule.
 
-La désignation du document présenté au lieu du certificat d'immatriculation ou en complément de celle-ci dans le cas de changement de source d'énergie doit figurer sur le procès-verbal de contrôle et dans les enregistrements informatiques relatifs au contrôle technique.
+En cas de changement de source d'énergie, le procès-verbal de réception à titre isolé pour changement de source d'énergie est présenté en complément du certificat d'immatriculation.
 
-A l'issue de tout contrôle technique, le contrôleur, ou toute autre personne du centre de contrôle désignée par une procédure spécifique réseau (ou spécifique centre pour le cas d'un centre non rattaché), appose sur la certificat d'immatriculation, à l'exclusion des autres documents susvisés, à l'emplacement réservé à cet effet, un timbre dit " timbre certificat d'immatriculation ", conforme aux dispositions de l'annexe II du présent arrêté.
+La désignation du document présenté au lieu du certificat d'immatriculation ou en complément de celui-ci dans le cas de changement de source d'énergie figure sur le procès-verbal de contrôle et dans les enregistrements informatiques relatifs au contrôle technique.
 
-Ce timbre doit indiquer notamment la date limite de validité du visa, c'est-à-dire la date au-delà de laquelle le véhicule ne peut être maintenu en circulation sans avoir été soumis à nouveau contrôle technique ou pour les véhicules mentionnés au 1er alinéa de l'article 4-1 du présent arrêté, à une visite technique complémentaire, ainsi que la lettre A, S ou R selon, respectivement, que les défectuosités constatées, s'il y en a, ne justifient pas une contre-visite, justifient une contre-visite, ou que le véhicule est non roulant.
+A l'issue du contrôle technique, le contrôleur ou toute autre personne du centre désignée par une procédure spécifique réseau (ou spécifique centre lorsqu'il n'est pas rattaché) appose sur le certificat d'immatriculation, à l'exclusion des autres documents susvisés, à l'emplacement réservé à cet effet, un timbre dit " timbre certificat d'immatriculation " conforme aux dispositions de l'annexe II du présent arrêté.
 
-Dans le cas dérogatoire visé ci-dessus ou en cas de présentation d'une fiche de circulation provisoire, le certificat d'immatriculation doit être présentée dès que possible au contrôleur pour y porter les informations définies ci-dessus.
+Ce timbre indique notamment la date limite de validité du visa, c'est-à-dire la date au-delà de laquelle le véhicule ne peut être maintenu en circulation sans avoir été soumis à nouveau contrôle technique ou pour les véhicules mentionnés au premier alinéa de l'article 4-1 du présent arrêté, à une visite technique complémentaire, ainsi que la lettre A ou S selon, respectivement, que les défectuosités constatées, s'il y en a, ne justifient pas une contre-visite ou justifient une contre-visite et, à compter du 01/01/2011, l'immatriculation du véhicule.

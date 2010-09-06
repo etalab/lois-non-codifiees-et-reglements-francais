@@ -15,3 +15,5 @@ a) les spécifications fonctionnelles relatives au traitement :
 Les spécifications sont définies à la partie II de l'annexe III du présent arrêté.
 
 b) le protocole de communication pour la délivrance aux installations de contrôle d'informations concernant l'identification du véhicule et la collecte des données issues du contrôle technique. Ce protocole définit notamment l'organisation, les règles de cohérence et le mode de transmission retenus par l'organisme technique central permettant de s'assurer de la confidentialité des informations recueillies et de l'absence de déformation des données initiales.
+
+c) les protocoles d'échanges de données relatives au contrôle technique entre les outils informatiques des installations de contrôle et les appareils de contrôle prévus aux points 1. 1, 1. 3, 1. 4, 1. 5 et 1. 6 de l'annexe III du présent arrêté.

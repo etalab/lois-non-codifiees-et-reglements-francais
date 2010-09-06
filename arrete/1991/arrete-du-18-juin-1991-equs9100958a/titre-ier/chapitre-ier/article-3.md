@@ -21,5 +21,3 @@ Au sens de l'article R. 323-22 du code de la route, le terme " mutation " désig
 - Véhicule ré-immatriculé au nom de plusieurs copropriétaires, à la condition que le nom de l'un d'entre eux ait été porté sur le certificat d'immatriculation précédente ;
 
 - Les véhicules faisant l'objet d'un transfert entre collectivités territoriales, départements ou administrations de l'Etat en application de la loi n° 2009-1291 susvisée.
-
-Le terme mutation désigne également tout changement de locataire dans le cas d'un véhicule en location simple de longue durée ou avec option d'achat tel que prévu aux articles 19 à 21 de l'arrêté du 5 novembre 1984 susvisé.

@@ -2,13 +2,15 @@
 
 MATERIELS DE CONTROLE
 
-Dans la présente annexe, la " conformité à une norme ou à un cahier des charges " signifie la conformité à cette norme ou à des prescriptions reconnues équivalentes, en vigueur dans un autre Etat membre de l'Union européenne ou partie à l'accord instituant l'Espace économique européen.
+Dans la présente annexe, la "conformité à une norme ou à un cahier des charges" signifie la conformité à cette norme ou à des prescriptions reconnues équivalentes, en vigueur dans un autre Etat membre de l'Union européenne ou partie à l'accord instituant l'Espace économique européen.
 
-Dans le cas de normes ou de cahiers des charges ayant fait l'objet de modifications, le matériel doit être conforme, lors de sa mise en service, à la mise à jour la plus récente de la norme ou du cahier des charges concerné.
+Dans les installations de contrôle faisant l'objet d'un premier agrément, le matériel de contrôle est conforme à la mise à jour la plus récente de la norme ou du cahier des charges concerné applicable.
 
-Dans le cas d'un nouvel agrément d'installation délivré suite à une modification importante, telle que prévue aux paragraphes III des chapitre II, III et IV de l'annexe VII du présent arrêté, les matériels prévus aux points 1. 1, 1. 3, 1. 4, 1. 5 et 1. 6 doivent être remis à niveau dans les deux ans qui suivent la date de l'agrément de l'installation, par rapport à la dernière version de la norme et / ou du cahier des charge applicables.
+Dans les installations de contrôle faisant l'objet d'un nouvel agrément, le matériel est conforme à la mise à jour la plus récente de la norme ou du cahier des charges concerné applicable dans les douze mois qui suivent le nouvel agrément.
 
-Dans le cas de centres rattachés, les matériels mécaniques et informatiques listés ci-après doivent avoir fait l'objet d'un référencement auprès du réseau de rattachement.
+Dans les installations déjà agréées et dans le cadre du même agrément, un délai de vingt-quatre mois est accordé pour la mise en conformité du matériel de contrôle quand une nouvelle version de norme ou de cahier des charges est applicable. Dans le cas particulier de normes ou cahiers des charges applicables avant le 1er septembre 2010, cette mise en conformité est réalisée avant le 1er septembre 2012.
+
+En cas de remplacement d'un matériel sur une installation agréée, le nouveau matériel est conforme aux dispositions prévues par la mise à jour la plus récente de la norme ou du cahier des charges applicable.
 
 Les appareils prévus aux points 1. 3., 1. 4., 1. 5., 1. 6. doivent transmettre par liaison informatique, à l'outil informatique de l'installation de contrôle, les informations relatives aux essais réalisés. Cette obligation est applicable à compter du 1er janvier 2010 pour l'appareil prévu au point 1. 1..
 
@@ -20,7 +22,27 @@ Les installations de contrôle doivent être équipées de la façon suivante :
 
 Les dispositifs de contrôle du réglage des feux d'éclairage doivent être conformes, à compter du 1er janvier 2010, à la norme NF-R-63-801, complétée par un cahier des charges défini par le ministère chargé des transports.
 
-La conformité du dispositif de contrôle du réglage des feux d'éclairage doit être démontrée dans le cadre d'un certificat de qualification de type délivré par l'Union technique de l'automobile, du motocycle et du cycle (UTAC), autodrome de Linas-Montlhéry, 91310 Linas-Montlhéry, ou par un laboratoire agréé par un Etat membre de l'Union européenne ou partie à l'accord instituant l'Espace économique européen, offrant les mêmes garanties et satisfaisant notamment aux critères généraux concernant la compétence des laboratoires d'essais fixés par la norme NF EN ISO 17025.
+La conformité du dispositif de contrôle du réglage des feux d'éclairage doit être démontrée dans le cadre d'un certificat de qualification de type délivré par l'Union technique de l'automobile, du motocycle et du cycle (UTAC), autodrome de Linas-Montlhéry, 91310 Linas-Montlhéry, ou par un laboratoire agréé par un Etat membre de l'Union européenne ou partie à l'accord instituant l'Espace économique européen, offrant les mêmes garanties et satisfaisant notamment aux critères généraux concernant la compétence des laboratoires d'essais fixés par la norme NF EN ISO/CEI 17025.
+
+Toute installation d'un matériel ou toute modification conduisant à déplacer un matériel visé aux points 1.1, 1.3 et 1.4 s'accompagne d'un étalonnage à la mise en service sur l'installation de contrôle. Cet étalonnage est réalisé préalablement à la première opération de contrôle nécessitant l'utilisation dudit matériel.
+
+Les matériels visés aux points 1.1, 1.3.1, 1.4, 1.6.1 et 1.6.2 font l'objet :
+
+- d'un minimum de deux étalonnages par année civile (vérification et si nécessaire ajustage), par des personnels qualifiés. L'écart entre deux étalonnages successifs n'excède pas huit mois ;
+
+- d'un minimum de deux visites de maintenance préventive par année civile, par des personnels qualifiés. L'écart entre deux visites successives n'excède pas huit mois.
+
+Le matériel visé au point 1.3.3 fait l'objet d'un étalonnage tous les vingt-quatre mois.
+
+Les opérations d'étalonnage et de maintenance préventive font l'objet d'un contrat avec un organisme habilité pour les matériels concernés. Ces opérations peuvent, le cas échéant, être combinées entre elles.
+
+Le matériel prévu au point 1.6.3 fait l'objet d'un contrat de maintenance garantissant la mise à niveau de l'appareil, notamment pour la partie logiciel.
+
+L'ensemble des matériels fait l'objet de dispositions pour le contrôle régulier de la chaîne de mesure et de dispositions pour l'entretien courant (maintien permanent du bon état de propreté et du bon fonctionnement).
+
+Un cahier des charges approuvé par le ministre chargé des transports définit les conditions de qualification des intervenants mentionnés au présent point.
+
+Les notices techniques et les instructions d'emploi et de maintenance de chaque matériel utilisé sont disponibles dans toutes les installations de contrôle.
 
 1. 2. Dispositif de contrôle de la pression de gonflage des pneumatiques.
 
@@ -28,11 +50,13 @@ Le dispositif doit être conforme soit à la norme NF-F 63-302, soit à la direc
 
 1. 3. Dispositifs pour le contrôle du freinage et la pesée.
 
-1. 3. 1. Les freinomètres à rouleaux installés jusqu'au 30 avril 1996 doivent être conformes à la norme NFR-63-701 (édition de 1990). Les freinomètres à rouleaux installés à partir du 1er mai 1996 doivent être conformes à cette même norme NFR-63-701 (édition de 1990), complétée par un cahier des charges défini par le ministre chargé des transports. Ce cahier des charges est disponible sur le site internet de l'organisme technique central.
+1. 3. 1. Les freinomètres à rouleaux sont conformes à la norme NFR-63-701 (édition de 1990) complétée par un cahier des charges établi par l'OTC et approuvé par le ministre chargé des transports. Ce cahier des charges est disponible sur le site internet de l'OTC.
 
-1. 3. 2. La conformité des bancs aux dispositions du point 1. 3. 1 doit être démontrée dans le cadre d'un certificat de qualification de type délivré par l'Union Technique de l'Automobile, du Motocycle et du Cycle (U.T.A.C.), autodrome de Linas-Montlhéry, 91310 Linas-Montlhéry, ou par un laboratoire agréé par un Etat membre de l'Union européenne ou partie à l'accord instituant l'Espace économique européen, offrant les mêmes garanties et satisfaisant notamment aux critères généraux concernant la compétence des laboratoires d'essais fixés par les normes EN 45000. Les certifications de type délivrées par d'autres organismes indépendants du fabricant du matériel avant le 31 décembre 1995 sont également admises.
+1. 3. 2. La conformité des bancs aux dispositions du point 1. 3. 1 doit être démontrée dans le cadre d'un certificat de qualification de type délivré par l'Union Technique de l'Automobile, du Motocycle et du Cycle (U.T.A.C.), autodrome de Linas-Montlhéry, 91310 Linas-Montlhéry, ou par un laboratoire agréé par un Etat membre de l'Union européenne ou partie à l'accord instituant l'Espace économique européen, offrant les mêmes garanties et satisfaisant notamment aux critères généraux concernant la compétence des laboratoires d'essais fixés par la norme NF EN ISO/CEI 17025. Les certifications de type délivrées par d'autres organismes indépendants du fabricant du matériel avant le 31 décembre 1995 sont également admises.
 
 Tous les bancs de freinage doivent être livrés avec un certificat attestant de leur conformité à un type certifié.A compter du 1er janvier 1995, ce certificat doit pouvoir être présenté, à toute réquisition, par le titulaire de l'agrément de l'installation de contrôle. Une attestation de conformité établie par le fabricant est admise pour les bancs mis en service dans l'installation de contrôle avant le 31 décembre 1993.
+
+1.3.3. Dans le cas où le contrôle du freinage est réalisé sur une piste d'essais, le décéléromètre utilisé est conforme au cahier des charges établi par l'OTC et approuvé par le ministre chargé des transports. Ce cahier des charges est disponible sur le site internet de l'OTC.
 
 1. 4. Appareil de contrôle de la symétrie de la suspension à mise en oeuvre électromécanique.
 
@@ -54,7 +78,7 @@ Les opacimètres utilisés pour le mesurage direct de l'opacité des fumées ém
 
 Le dispositif de diagnostic des systèmes embarqués de contrôle des émissions polluantes du véhicule doit être conforme au cahier des charges défini par le ministère chargé des transports.
 
-La conformité dispositif de diagnostic des systèmes embarqués de contrôle des émissions polluantes du véhicule aux dispositions du point 1. 6. 3 doit être démontrée dans le cadre d'un certificat de qualification de type délivré par l'Union Technique de l'Automobile, du Motocycle et du Cycle (U.T.A.C.), autodrome de Linas-Montlhéry, 91310 Linas-Montlhéry, ou par un laboratoire agréé par un Etat membre de l'Union européenne ou partie à l'accord instituant l'Espace économique européen, offrant les mêmes garanties et satisfaisant notamment aux critères généraux concernant la compétence des laboratoires d'essais fixés par la norme ISO 17025.
+La conformité dispositif de diagnostic des systèmes embarqués de contrôle des émissions polluantes du véhicule aux dispositions du point 1. 6. 3 doit être démontrée dans le cadre d'un certificat de qualification de type délivré par l'Union Technique de l'Automobile, du Motocycle et du Cycle (U.T.A.C.), autodrome de Linas-Montlhéry, 91310 Linas-Montlhéry, ou par un laboratoire agréé par un Etat membre de l'Union européenne ou partie à l'accord instituant l'Espace économique européen, offrant les mêmes garanties et satisfaisant notamment aux critères généraux concernant la compétence des laboratoires d'essais fixés par la norme NF EN ISO/CEI 17025.
 
 1. 7 Matériels auxiliaires.
 
@@ -174,7 +198,7 @@ L'outil informatique des installations de contrôle est composé de produits log
 
 -2. 2. 2. 4. 6. Assurer la traçabilité des modifications apportées aux données de contrôle après la transmission des informations par le terminal de saisie portable
 
--2. 2. 2. 4. 7. Le mode de transmission entre les matériels mécaniques et l'outil informatique doit être fiable et garantir l'intégrité des données transmises.
+-2. 2. 2. 4. 7. Assurer que le mode de transmission entre les matériels de contrôle et l'outil informatique est fiable et garantit l'intégrité des données transmises. Il répond aux exigences des protocoles prévus au c de l'article 27 du présent arrêté.
 
 2. 2. 3Transfert des informations vers le réseau d'appartenance ou vers l'Organisme Technique Central pour les centres non rattachés.
 
@@ -190,6 +214,8 @@ L'outil informatique des installations de contrôle est composé de produits log
 
 3. 1.L'installation de contrôle doit être implantée dans un bâtiment couvert, susceptible d'être maintenu hors gel et accessible aux véhicules d'une hauteur de 3 mètres, d'une longueur de 7 mètres et d'une largeur de 2, 50 mètres.L'ensemble des opérations de contrôle doit être réalisé sans occupation de la voie publique. Le bâtiment doit offrir un espace suffisant (0, 8 mètre au minimum) autour des véhicules pour permettre l'examen visuel et l'état de la surface de la zone de contrôle doit permettre le déplacement du personnel en toute sécurité.
 
-3. 2.L'implantation des locaux devra être telle que l'accès de l'installation de contrôle soit aisé et qu'en fonction de l'importance de l'installation de contrôle le parcage d'un nombre minimum de véhicules soit prévu.
+3.2. Pour les installations faisant l'objet d'un premier agrément, l'ensemble de la zone de contrôle respecte a minima les dimensions suivantes : longueur de 7 mètres par poste de contrôle s'ils ne sont pas dans le même alignement, largeur de 4,10 mètres (seuls les obstacles ponctuels tels que poteaux ou outils de contrôle pouvant être tolérés dans cette zone sous réserve qu'ils ne remettent pas en cause la sécurité) et hauteur disponible de 5 mètres minimum entre le sol (ou le fond de fosse semi-enterrée) et le plafond au niveau du pont élévateur (s'il existe). Au premier poste de travail, seule une partie du véhicule peut se trouver à l'extérieur du bâtiment. Cette zone extérieure, n'excédant pas 3 mètres de long, est clairement délimitée et son accès réglementé (1).
 
-3. 3.L'installation de contrôle doit disposer d'un local ou d'un équipement permettant de garantir la sécurité des procès-verbaux de contrôle, des timbres et vignettes.
+3. 3.L'implantation des locaux devra être telle que l'accès de l'installation de contrôle soit aisé et qu'en fonction de l'importance de l'installation de contrôle le parcage d'un nombre minimum de véhicules soit prévu.
+
+3. 4.L'installation de contrôle doit disposer d'un local ou d'un équipement permettant de garantir la sécurité des procès-verbaux de contrôle, des timbres et vignettes.

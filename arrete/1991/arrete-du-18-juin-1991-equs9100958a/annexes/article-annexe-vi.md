@@ -40,7 +40,7 @@ Par ailleurs, le réseau transmet au ministre, tous les ans, le bilan social et 
 
 2.4.2. Organisation de la formation et qualification des contrôleurs techniques
 
-2.4.3. Référencement des matériels mécaniques de contrôle et des équipements informatiques
+2.4.3. (Supprimé)
 
 2.4.4. Maîtrise du logiciel de contrôle technique
 
