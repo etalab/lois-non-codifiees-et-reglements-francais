@@ -104,6 +104,7 @@
 - [Décret n°77-1364 du 5 décembre 1977](decret-n77-1364-du-5-decembre-1977)
 - [Décret n°59-601 du 5 mai 1959](decret-n59-601-du-5-mai-1959)
 - [Décret n°59-602 du 5 mai 1959](decret-n59-602-du-5-mai-1959)
+- [Décret n°2010-1059 du 6 septembre 2010 (MTSS1014519D)](decret-n2010-1059-du-6-septembre-2010-mtss1014519d)
 - [Décret n°2010-12 du 6 janvier 2010 (ECEL0927945D)](decret-n2010-12-du-6-janvier-2010-ecel0927945d)
 - [Décret n°2010-13 du 6 janvier 2010 (ECEL0929286D)](decret-n2010-13-du-6-janvier-2010-ecel0929286d)
 - [Décret n°2010-17 du 6 janvier 2010 (ESRH0824090D)](decret-n2010-17-du-6-janvier-2010-esrh0824090d)
