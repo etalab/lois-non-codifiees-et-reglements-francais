@@ -8,9 +8,7 @@ a) En leur qualité de représentants des responsables de programme :
 
 - le major général des armées ;
 
-- l'adjoint opérations du délégué général pour l'armement ;
-
-- le major général de la gendarmerie nationale ;
+- le directeur général adjoint de la direction générale de l'armement ;
 
 - le directeur chargé des affaires stratégiques ;
 
@@ -24,6 +22,8 @@ Le major général de l'armée de l'air.
 
 c) Le directeur des affaires financières.
 
-d) En outre, trois personnalités qualifiées, éventuellement extérieures au ministère, peuvent être nommées en qualité de membres du comité d'audit par arrêté ministériel, pour une période de trois ans renouvelable.
+d) Trois personnalités qualifiées, éventuellement extérieures au ministère, sont nommées en qualité de membres du comité d'audit par arrêté ministériel, pour une période de trois ans renouvelable.
+
+Le major général de la gendarmerie nationale est invité permanent du comité d'audit.
 
 Le contrôleur budgétaire et comptable ministériel peut être invité à participer aux réunions du comité d'audit.
