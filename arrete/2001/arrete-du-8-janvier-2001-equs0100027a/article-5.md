@@ -1,5 +1,5 @@
 # Article 5
 
-Chaque année, le titulaire de l'agrément transmet au préfet qui a accordé l'agrément un bilan d'activité relatif à cette formation.
+Chaque année, le prestataire transmet au préfet du lieu ou des lieux d'exercice un bilan d'activité relatif à cette formation.
 
-L'agrément est retiré par le préfet si l'une des conditions qui a présidé à sa délivrance n'est plus respectée.
+Pour les prestataires agréés, l'agrément est retiré par le préfet l'ayant délivré si l'une des conditions ayant présidé à sa délivrance n'est plus respectée.
