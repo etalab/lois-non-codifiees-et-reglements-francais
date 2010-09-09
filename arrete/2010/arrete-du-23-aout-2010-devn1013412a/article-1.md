@@ -1,0 +1,3 @@
+# Article 1
+
+Est désigné sous l'appellation « site Natura 2000 prairies et forêts inondables du val de Saône entre Chalon et Tournus et la basse vallée de la Grosne » (zone spéciale de conservation FR 2600976) l'espace délimité sur la carte d'ensemble au 1/120 000 et les sept cartes au 1/25 000 ci-jointes, s'étendant sur une partie du territoire des communes suivantes du département de Saône-et-Loire : Baudrières, Beaumont-sur-Grosne, Boyer, Epervans, Gigny-sur-Saône, La Chapelle-de-Bragny, Laives, Lalheue, Marnay, Messey-sur-Grosne, Ormes, Ouroux-sur-Saône, Saint-Ambreuil, Saint-Cyr, Saint-Germain-du-Plain, Saint-Loup-de-Varennes, Santilly, Simandre, Varennes-le-Grand.
