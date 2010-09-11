@@ -775,7 +775,6 @@
 - [Arrêté du 25 janvier 1994 (SPSH9303540A)](arrete-du-25-janvier-1994-spsh9303540a)
 - [Arrêté du 25 juin 1993 (EQUS9301009A)](arrete-du-25-juin-1993-equs9301009a)
 - [Arrêté du 25 mars 1993 (ENEG9300196A)](arrete-du-25-mars-1993-eneg9300196a)
-- [Arrêté du 25 mars 1993 (MENZ9304937A)](arrete-du-25-mars-1993-menz9304937a)
 - [Arrêté du 25 mars 1993 (SPSS9300963A)](arrete-du-25-mars-1993-spss9300963a)
 - [Arrêté du 25 mars 1993 (SPSS9301094A)](arrete-du-25-mars-1993-spss9301094a)
 - [Arrêté du 25 novembre 1993 (BUDF9320641A)](arrete-du-25-novembre-1993-budf9320641a)
