@@ -48,7 +48,7 @@ Les signes (*) (**) et (***) renvoient aux précisions figurant à la fin de la 
 </td>
 </tr>
 <tr>
-<td valign="top" width="227">
+<td rowspan="2" valign="top" width="227">
 <p>Pélécaniformes.</p>
 </td>
 <td valign="top" width="227">
@@ -59,7 +59,13 @@ Les signes (*) (**) et (***) renvoient aux précisions figurant à la fin de la 
 </td>
 </tr>
 <tr>
-<td valign="top" width="227">
+<td>
+<p align="left">Threskiornis aethiopicus.</p>
+</td>
+<td>Ibis sacré.</td>
+</tr>
+<tr>
+<td rowspan="4" valign="top" width="227">
 <p>Ansériformes.</p>
 </td>
 <td valign="top" width="227">
@@ -68,6 +74,24 @@ Les signes (*) (**) et (***) renvoient aux précisions figurant à la fin de la 
 <td valign="top" width="227">
 <p>Dendrocygnes, cygnes, oies, canards.</p>
 </td>
+</tr>
+<tr>
+<td>
+<p align="left">Alopochen aegyptiacus. </p>
+</td>
+<td>Ouette d'Egypte.</td>
+</tr>
+<tr>
+<td>
+<p align="left">Branta canadensis.</p>
+</td>
+<td>Bernache du Canada. </td>
+</tr>
+<tr>
+<td>
+<p align="left">Oxyura jamaicensis.</p>
+</td>
+<td>Erismature rousse. </td>
 </tr>
 <tr>
 <td valign="top" width="227">
@@ -252,11 +276,11 @@ Les signes (*) (**) et (***) renvoient aux précisions figurant à la fin de la 
 
 (**) L'autorisation et le marquage ne concernent que les animaux appartenant aux espèces du taxon indiqué sur la liste, reprises sur les listes établies pour l'application des articles L. 411-1 et L. 411-2 du code de l'environnement. Toutefois :
 
--l'autorisation et le marquage ne s'appliquent pas aux oiseaux nés et élevés en captivité appartenant aux espèces figurant à l'article 4 de l'arrêté du 17 avril 1981 modifié fixant la liste des oiseaux protégés sur l'ensemble du territoire ;
+- l'autorisation et le marquage ne s'appliquent, pour les espèces d'oiseaux de France métropolitaine, qu'aux oiseaux des catégories d'espèces présentes ou ayant niché à au moins une reprise depuis 1981 sur le territoire métropolitain de la France, identifiées par les symboles ou figurant à l'arrêté du 29 octobre 2009 fixant la liste des oiseaux protégés sur l'ensemble du territoire et les modalités de leur protection ;
 
--l'autorisation et le marquage ne s'appliquent pas aux animaux des espèces dont la chasse est autorisée ;
+- l'autorisation et le marquage ne s'appliquent pas aux animaux des espèces dont la chasse est autorisée ;
 
--en ce qui concerne les espèces pour lesquelles les arrêtés pris en application des articles précités du code de l'environnement fixent des interdictions de transport sur une partie seulement du territoire national, l'autorisation et le marquage ne s'appliquent qu'aux animaux des espèces considérées, détenus sur cette partie du territoire national.
+- en ce qui concerne les espèces pour lesquelles les arrêtés pris en application des articles précités du code de l'environnement fixent des interdictions de transport sur une partie seulement du territoire national, l'autorisation et le marquage ne s'appliquent qu'aux animaux des espèces considérées, détenus sur cette partie du territoire national.
 
 (***) Pour les espèces suivantes, l'autorisation n'est délivrée qu'au profit d'un établissement d'élevage ou de présentation au public d'animaux d'espèces non domestiques autorisé conformément aux articles L. 413-2 et L. 413-3 du code de l'environnement à détenir des animaux de l'espèce considérée :
 

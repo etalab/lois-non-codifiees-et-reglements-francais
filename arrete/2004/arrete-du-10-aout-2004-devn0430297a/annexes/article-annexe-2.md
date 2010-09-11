@@ -27,12 +27,12 @@ Pour la taxonomie, les références bibliographiques sont :
 <tr>
 <td rowspan="4" valign="top" width="237"/>
 <td colspan="2" valign="top" width="444">
-<p>1. Toutes les espèces reprise à l'annexe A du règlement du Conseil des Communautés européennes n° 338/97 du 9 décembre 1996 modifié relatif à la protection des espèces de faune et de flore sauvages par le contrôle de leur commerce, à l'exception de celles de ces espèces inscrites en annexe 1 au présent arrêté, ou figurant en annexe X du règlement (CE) n° 865/2006 susvisé, ou dont la chasse est autorisée.</p>
+<p>1. Toutes les espèces reprise à l'annexe A du règlement du Conseil des Communautés européennes n° 338/97 du 9 décembre 1996 modifié relatif à la protection des espèces de faune et de flore sauvages par le contrôle de leur commerce, à l'exception de celles de ces espèces inscrites en annexe 1 au présent arrêté, ou figurant en annexe X du règlement (CE) n° 865 / 2006 susvisé, ou dont la chasse est autorisée.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top" width="444">
-<p>2. Toutes les espèces figurant sur les listes établies pour l'application des articles L. 411-1 et L. 411-2 du code de l'environnement (*) à l'exception de celles de ces espèces inscrites en annexe 1 au présent arrêté, ou dont la chasse est autorisée.</p>
+<p>2. Toutes les espèces figurant sur les listes établies pour l'application des articles L. 411-1 et L. 411-2 du code de l'environnement (*) à l'exception de celles de ces espèces inscrites en annexe 1 au présent arrêté, ou dont la chasse est autorisée, et de Boa constrictor.</p>
 </td>
 </tr>
 <tr>
@@ -476,25 +476,33 @@ Pour la taxonomie, les références bibliographiques sont :
 <tr>
 <td valign="top" width="219">
 <p>Mystacinidés spp.</p>
-<br/>
 </td>
 <td valign="top" width="224">
 <p>Chauves-souris de Nouvelle-Zélande.</p>
-<br/>
 </td>
 </tr>
 <tr>
-<td rowspan="4" valign="top" width="237">
+<td rowspan="6" valign="top" width="237">
 <p>Carnivores.</p>
 </td>
 <td valign="top" width="219">
 <p>Molossidés spp.</p>
-<br/>
 </td>
 <td valign="top" width="224">
 <p>Molosses.</p>
-<br/>
 </td>
+</tr>
+<tr>
+<td>
+<p>Nyctereutes procyonoides</p>
+</td>
+<td>Chien viverrin</td>
+</tr>
+<tr>
+<td>
+<p>Neovison vison</p>
+</td>
+<td>Vison d'Amérique</td>
 </tr>
 <tr>
 <td>
@@ -616,7 +624,7 @@ Pour la taxonomie, les références bibliographiques sont :
 </td>
 </tr>
 <tr>
-<td rowspan="51" valign="top" width="237">
+<td rowspan="50" valign="top" width="237">
 <p>Rongeurs.</p>
 </td>
 <td valign="top" width="219">
@@ -627,36 +635,8 @@ Pour la taxonomie, les références bibliographiques sont :
 </td>
 </tr>
 <tr>
-<td valign="top" width="219">
-<p>Callosciurus spp.</p>
-</td>
-<td valign="top" width="224">
-<p>Ecureuils tricolores.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="219">
-<p>Cynomys spp.</p>
-</td>
-<td valign="top" width="224">
-<p>Chiens de prairies.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="219">
-<p>Marmota spp.</p>
-</td>
-<td valign="top" width="224">
-<p>Marmottes.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="219">
-<p>Ratufa spp.</p>
-</td>
-<td valign="top" width="224">
-<p>Ecureuils géants d'Asie.</p>
-</td>
+<td>Sciuridés spp. à l'exception de Tamias de Sibiricus</td>
+<td>Ecureuils, marmottes et chiens de prairie, à l'exception du Tamias de Sibérie</td>
 </tr>
 <tr>
 <td valign="top" width="219">
@@ -825,6 +805,20 @@ Pour la taxonomie, les références bibliographiques sont :
 <td valign="top" width="224">
 <p>Rats des bananes.</p>
 </td>
+</tr>
+<tr>
+<td>
+<p>Myocastor covpus</p>
+<br/>
+</td>
+<td>Ragondin</td>
+</tr>
+<tr>
+<td>
+<p>Ondatra zibethicus</p>
+<br/>
+</td>
+<td>Rat musqué</td>
 </tr>
 <tr>
 <td valign="top" width="219">
@@ -1027,7 +1021,7 @@ Pour la taxonomie, les références bibliographiques sont :
 </td>
 </tr>
 <tr>
-<td rowspan="6" valign="top" width="237">
+<td rowspan="7" valign="top" width="237">
 <p>Lagomorphes.</p>
 </td>
 <td valign="top" width="219">
@@ -1076,6 +1070,12 @@ Pour la taxonomie, les références bibliographiques sont :
 <td valign="top" width="224">
 <p>Lapin des volcans.</p>
 </td>
+</tr>
+<tr>
+<td>
+<p>Sylvilagus floridanus</p>
+</td>
+<td>Lapin américain</td>
 </tr>
 <tr>
 <td valign="top" width="237">
@@ -3245,8 +3245,8 @@ Pour la taxonomie, les références bibliographiques sont :
 </tbody>
 </table>
 
-(*) Toutefois, l'obligation d'autorisation et de marquage ne s'applique pas :
+(*) Toutefois l'obligation d'autorisation et de marquage :
 
-- aux animaux autres que ceux prélevés dans la nature et appartenant à des espèces pour lesquelles les arrêtés pris en application des articles L. 411-1 et L. 411-2 du code de l'environnement ne prévoient pas d'interdiction d'activités applicables à ce type d'animaux ;
+- ne s'applique, pour les espèces d'oiseaux de France métropolitaine, qu'aux oiseaux des catégories d'espèces présentes ou ayant niché à au moins une reprise depuis 1981 sur le territoire métropolitain de la France, identifiées par les symboles ou figurant à l'arrêté du 29 octobre 2009 fixant la liste des oiseaux protégés sur l'ensemble du territoire et les modalités de leur protection ;
 
-- en ce qui concerne les espèces pour lesquelles les arrêtés pris en application des articles L. 411-1 et L. 411-2 du code de l'environnement fixent des interdictions de transport sur une partie seulement du territoire national, aux animaux des espèces considérées qui ne sont pas détenus sur cette partie du territoire national.
+- ne s'applique pas, en ce qui concerne les espèces pour lesquelles les arrêtés pris en application des articles L. 411-1 et L. 411-2 du code de l'environnement fixent des interdictions de transport sur une partie seulement du territoire national, aux animaux des espèces considérées qui ne sont pas détenus sur cette partie du territoire national.

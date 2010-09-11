@@ -86,7 +86,7 @@ Les signes (*) et (**) (***) renvoient aux précisions figurant à la fin de la 
 </td>
 </tr>
 <tr>
-<td valign="top" width="227">
+<td rowspan="2" valign="top" width="227">
 <p>Pélécaniformes.</p>
 </td>
 <td valign="top" width="227">
@@ -97,7 +97,13 @@ Les signes (*) et (**) (***) renvoient aux précisions figurant à la fin de la 
 </td>
 </tr>
 <tr>
-<td valign="top" width="227">
+<td>
+<p align="left">Threskiornis aethiopicus.</p>
+</td>
+<td>Ibis sacré.</td>
+</tr>
+<tr>
+<td rowspan="4" valign="top" width="227">
 <p>Ansériformes.</p>
 </td>
 <td valign="top" width="227">
@@ -105,6 +111,30 @@ Les signes (*) et (**) (***) renvoient aux précisions figurant à la fin de la 
 </td>
 <td valign="top" width="227">
 <p>Dendrocygnes, cygnes, oies, canards.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Alopochen aegyptiacus.</p>
+</td>
+<td>
+<p align="left">Ouette d'Egypte.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Branta canadensis.</p>
+</td>
+<td>
+<p align="left">Bernache du Canada.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Oxyura jamaicensis.</p>
+</td>
+<td>
+<p align="left">Erismature rousse.</p>
 </td>
 </tr>
 <tr>
@@ -290,7 +320,7 @@ Les signes (*) et (**) (***) renvoient aux précisions figurant à la fin de la 
 
 (**) L'autorisation et le marquage ne concernent que les animaux appartenant aux espèces du taxon indiqué sur la liste, reprises sur les listes établies pour l'application des articles L. 411-1 et L. 411-2 du code de l'environnement. Toutefois :
 
-- en ce qui concerne les animaux autres que ceux prélevés dans la nature, l'autorisation et le marquage ne s'appliquent qu'à ceux appartenant à des espèces pour lesquelles les arrêtés pris en application des articles précités du code de l'environnement prévoient des interdictions d'activités applicables à ce type d'animaux ;
+- L'autorisation et le marquage ne s'appliquent, pour les espèces d'oiseaux de France métropolitaine, qu'aux oiseaux des catégories d'espèces présentes ou ayant niché à au moins une reprise depuis 1981 sur le territoire métropolitain de la France, identifiées par les symboles ou figurant à l'arrêté du 29 octobre 2009 fixant la liste des oiseaux protégés sur l'ensemble du territoire et les modalités de leur protection.
 
 - l'autorisation et le marquage ne s'appliquent pas aux animaux des espèces dont la chasse est autorisée ;
 

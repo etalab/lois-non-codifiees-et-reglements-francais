@@ -36,17 +36,20 @@
 </td>
 <td width="113">
 <br/>
-</td>
-<td width="113">
 <br/>
 </td>
 <td width="113">
+<br/>
+<br/>
+</td>
+<td width="113">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
 <td width="340">
-<p>Lagomorphes, rongeurs et insectivores </p>
+<p>Lagomorphes, rongeurs, à l'exception de Tamias sibiricus, et insectivores </p>
 </td>
 <td width="113">
 <p align="center">40 </p>
@@ -55,7 +58,7 @@
 <p align="center">40 </p>
 </td>
 <td rowspan="25" width="113">
-<p align="center">40</p>
+<p align="center">40 </p>
 </td>
 </tr>
 <tr>
@@ -80,8 +83,10 @@
 </td>
 <td width="113">
 <br/>
+<br/>
 </td>
 <td width="113">
+<br/>
 <br/>
 </td>
 </tr>
@@ -122,7 +127,7 @@
 </tr>
 <tr>
 <td width="340">
-<p>Passerereaux granivores : plocéidés, embérizidés, fringilidés à l'exception de Serinus canaria, estrildidés à l'exception de Poephila (syn Taeniopygia) guttata castanotis et Chloebia gouldiae </p>
+<p>Passerereaux granivores : plocéidés, passéridés, embérizidés, fringilidés à l'exception de Serinus canaria, estrildidés à l'exception de Poephila (syn Taeniopygia) guttata castanotis et Chloebia gouldiae </p>
 </td>
 <td width="113">
 <p align="center">100 </p>
@@ -166,6 +171,7 @@
 </td>
 <td width="113">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -206,8 +212,10 @@
 </td>
 <td width="113">
 <br/>
+<br/>
 </td>
 <td width="113">
+<br/>
 <br/>
 </td>
 </tr>
@@ -216,7 +224,8 @@
 <p>Astrochelys radiata et espèces du genre Testudo reprises à l'annexe A du règlement du Conseil des Communautés européennes n° 338 / 97 du 9 décembre 1996 susvisé ou reprises sur les listes établies pour l'application des articles L. 411-1 et L. 411-2 du code de l'environnement </p>
 </td>
 <td width="113">
-<p align="center">6 </p>
+<p align="center">6 (**) <br/>
+</p>
 </td>
 <td rowspan="4" width="113">
 <p align="center">40 </p>
@@ -252,8 +261,10 @@
 </td>
 <td width="113">
 <br/>
+<br/>
 </td>
 <td width="113">
+<br/>
 <br/>
 </td>
 </tr>
@@ -271,11 +282,14 @@
 </td>
 <td width="113">
 <br/>
-</td>
-<td width="113">
 <br/>
 </td>
 <td width="113">
+<br/>
+<br/>
+</td>
+<td width="113">
+<br/>
 <br/>
 </td>
 </tr>
@@ -298,7 +312,8 @@
 <tr>
 <td colspan="4" width="680">
 <p>(*) Ne sont pas comptabilisés dans cette rubrique :</p>
-<p>-en ce qui concerne les espèces pour lesquelles les arrêtés pris en application des articles L. 411-1 et L. 411-2 du code de l'environnement fixent des interdictions de transport sur une partie seulement du territoire national, les animaux des espèces considérées qui ne sont pas détenus sur cette partie du territoire national.</p>
+<p>-en ce qui concerne les espèces pour lesquelles les arrêtés pris en application des articles L. 411-1 et L. 411-2 du code de l'environnement fixent des interdictions de transport sur une partie seulement du territoire national, les animaux des espèces considérées qui ne sont pas détenus sur cette partie du territoire national. </p>
+<p>(**) Pour les espèces du genre Testudo, l'effectif cumulé maximum peut être doublé sous réserve que les spécimens aient été acquis avant l'entrée en vigueur du présent arrêté.</p>
 </td>
 </tr>
 </tbody>

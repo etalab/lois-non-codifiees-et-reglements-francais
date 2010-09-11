@@ -26,7 +26,7 @@ Liste des espèces non domestiques dont la détention ne peut être autorisée, 
 <td width="227"/>
 <td colspan="2" width="453">
 <p>1. Toutes les espèces reprises à l'annexe A du règlement du Conseil des Communautés européennes n° 338/97 du 9 décembre 1996 modifié relatif à la protection des espèces de faune et de flore sauvages par le contrôle de leur commerce, à l'exception de celles de ces espèces inscrites en annexe 1 au présent arrêté, ou figurant en annexe X du règlement (CE) n° 865/2006 susvisé, ou dont la chasse est autorisée.</p>
-<p>2. Toutes les espèces figurant sur les listes établies pour l'application des articles L. 411-1 et L. 411-2 du code de l'environnement (*) à l'exception de celles de ces espèces inscrites en annexe 1 au présent arrêté, ou dont la chasse est autorisée.</p>
+<p>2. Toutes les espèces figurant sur les listes établies pour l'application des articles L. 411-1 et L. 411-2 du code de l'environnement (*) à l'exception de celles de ces espèces inscrites en annexe 1 au présent arrêté, ou dont la chasse est autorisée, et de Boa constrictor.</p>
 <p>3. Toutes les espèces considérées comme dangereuses dont la liste est établie en annexe 3 au présent arrêté, à l'exception des espèces inscrites en annexe 1 au présent arrêté et de Cebus spp., Dama dama, Sus scrofa et Boa constrictor.</p>
 <p>4. Toutes les espèces suivantes non reprises aux points 1, 2 ou 3 ci-dessus : </p>
 </td>
@@ -337,7 +337,7 @@ Liste des espèces non domestiques dont la détention ne peut être autorisée, 
 </td>
 </tr>
 <tr>
-<td rowspan="17" valign="top" width="227">
+<td rowspan="16" valign="top" width="227">
 <p>Chiroptères.</p>
 </td>
 <td valign="top" width="227">
@@ -462,29 +462,43 @@ Liste des espèces non domestiques dont la détention ne peut être autorisée, 
 <tr>
 <td valign="top" width="227">
 <p>Mystacinidés spp.</p>
+<br/>
 </td>
 <td valign="top" width="226">
 <p>Chauves-souris de Nouvelle-Zélande. </p>
+<br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="227">
-<p>Molossidés spp.</p>
-</td>
-<td valign="top" width="226">
-<p>Molosses.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" valign="top" width="227">
+<td rowspan="6" valign="top" width="227">
 <p>Carnivores.</p>
 </td>
 <td valign="top" width="227">
-<p>Procyonidés spp.</p>
+<p>Molossidés spp.</p>
+<br/>
 </td>
 <td valign="top" width="226">
-<p>Ratons laveur, kinkajou, bassaricyon, coatis.</p>
+<p>Molosses.</p>
+<br/>
 </td>
+</tr>
+<tr>
+<td>
+<p>Nyctereutes procyonoides. </p>
+</td>
+<td>
+<p>Chien viverrin.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Neovison vison.</p>
+</td>
+<td>Vison d'Amérique.</td>
+</tr>
+<tr>
+<td>Procyonidés spp.</td>
+<td>Ratons laveur, kinkajou, bassaricyon, coatis.</td>
 </tr>
 <tr>
 <td valign="top" width="227">
@@ -598,7 +612,7 @@ Liste des espèces non domestiques dont la détention ne peut être autorisée, 
 </td>
 </tr>
 <tr>
-<td rowspan="51" valign="top" width="227">
+<td rowspan="50" valign="top" width="227">
 <p>Rongeurs.</p>
 </td>
 <td valign="top" width="227">
@@ -610,34 +624,10 @@ Liste des espèces non domestiques dont la détention ne peut être autorisée, 
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Callosciurus spp.</p>
+<p>Sciuridés spp., à l'exception de Tamias sibiricus. </p>
 </td>
 <td valign="top" width="226">
-<p>Ecureuils tricolores.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="227">
-<p>Cynomys spp.</p>
-</td>
-<td valign="top" width="226">
-<p>Chiens de prairies.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="227">
-<p>Marmota spp.</p>
-</td>
-<td valign="top" width="226">
-<p>Marmottes.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="227">
-<p>Ratufa spp.</p>
-</td>
-<td valign="top" width="226">
-<p>Ecureuils géants d'Asie.</p>
+<p>Ecureuils, marmottes et chiens de prairie, à l'exception du Tamias de Sibérie.</p>
 </td>
 </tr>
 <tr>
@@ -807,6 +797,18 @@ Liste des espèces non domestiques dont la détention ne peut être autorisée, 
 <td valign="top" width="226">
 <p>Rats des bananes.</p>
 </td>
+</tr>
+<tr>
+<td>
+<p align="left">Myocastor coypus. </p>
+</td>
+<td>Ragondin.</td>
+</tr>
+<tr>
+<td>
+<p align="left">Ondatra zibethicus.</p>
+</td>
+<td>Rat musqué.</td>
 </tr>
 <tr>
 <td valign="top" width="227">
@@ -1009,7 +1011,7 @@ Liste des espèces non domestiques dont la détention ne peut être autorisée, 
 </td>
 </tr>
 <tr>
-<td rowspan="6" valign="top" width="227">
+<td rowspan="7" valign="top" width="227">
 <p>Lagomorphes.</p>
 </td>
 <td valign="top" width="227">
@@ -1058,6 +1060,12 @@ Liste des espèces non domestiques dont la détention ne peut être autorisée, 
 <td valign="top" width="226">
 <p>Lapin des volcans.</p>
 </td>
+</tr>
+<tr>
+<td>
+<p align="left">Sylvilagus floridanus. </p>
+</td>
+<td>Lapin américain. </td>
 </tr>
 <tr>
 <td valign="top" width="227">
@@ -3229,11 +3237,11 @@ Liste des espèces non domestiques dont la détention ne peut être autorisée, 
 </tbody>
 </table>
 
-(*) Toutefois l'obligation d'autorisation et de marquage ne s'applique pas :
+(*) Toutefois l'obligation d'autorisation et de marquage :
 
--aux oiseaux nés et élevés en captivité appartenant aux espèces figurant à l'article 4 de l'arrêté du 17 avril 1981 modifié fixant la liste des oiseaux protégés sur l'ensemble du territoire ;
+- ne s'applique, pour les espèces d'oiseaux de France métropolitaine, qu'aux oiseaux des catégories d'espèces présentes ou ayant niché à au moins une reprise depuis 1981 sur le territoire métropolitain de la France, identifiées par les symboles ou figurant à l'arrêté du 29 octobre 2009 fixant la liste des oiseaux protégés sur l'ensemble du territoire et les modalités de leur protection ;
 
--en ce qui concerne les espèces pour lesquelles les arrêtés pris en application des articles L. 411-1 et L. 411-2 du code de l'environnement fixent des interdictions de transport sur une partie seulement du territoire national, aux animaux des espèces considérées qui ne sont pas détenus sur cette partie du territoire national.
+- ne s'applique pas, en ce qui concerne les espèces pour lesquelles les arrêtés pris en application des articles L. 411-1 et L. 411-2 du code de l'environnement fixent des interdictions de transport sur une partie seulement du territoire national, aux animaux des espèces considérées qui ne sont pas détenus sur cette partie du territoire national.
 
 (**) (Supprimé)
 
