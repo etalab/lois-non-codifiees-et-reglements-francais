@@ -4,7 +4,7 @@ TITRE Ier : PROCÉDURE DE DÉLIVRANCE DES AGRÉMENTS
 
 Article 1er
 
-Une personne physique ou morale désirant obtenir l'agrément de collecte dans un département adresse au préfet un dossier de demande. Elle dépose une consignation de 725 euros à la Caisse des dépôts et consignations. Cette consignation n'est pas nécessaire pour les ramasseurs agréés sur la zone considérée et ayant versé la consignation de 1 500 euros prévue à l'article 5 du présent arrêté.
+Une personne physique ou morale désirant obtenir l'agrément de collecte dans un département adresse au préfet un dossier de demande.
 
 Article 2
 
@@ -26,9 +26,7 @@ Le dossier de candidature comprend, en trois exemplaires :
 
 -les moyens de prospection existants ou envisagés ;
 
--une fiche de prévisions d'exploitation quantitative et économique établie sur cinq ans ;
-
--un certificat attestant le dépôt de la consignation.
+-une fiche de prévisions d'exploitation quantitative et économique établie sur cinq ans.
 
 Article 3
 
@@ -82,7 +80,7 @@ Le ramasseur agréé doit livrer les huiles usagées collectées à des élimina
 
 Article 12
 
-Les contrats conclus entre les ramasseurs et les éliminateurs sont communiqués dans les meilleurs délais à l'Agence de l'environnement et de la maîtrise de l'énergie et à sa demande à la              direction régionale de l'environnement, de l'aménagement et du logement  concernée.
+Les contrats conclus entre les ramasseurs et les éliminateurs sont communiqués dans les meilleurs délais à l'Agence de l'environnement et de la maîtrise de l'énergie et à sa demande à la direction régionale de l'environnement, de l'aménagement et du logement concernée.
 
 Fourniture d'informations
 
