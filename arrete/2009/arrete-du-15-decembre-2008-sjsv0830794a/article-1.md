@@ -24,7 +24,7 @@ Fédération française de cyclotourisme : cyclotourisme : activité touristique
 
 Fédération française de danse : danses artistiques, danses par couple, danses country and line.
 
-Fédération française d'études et sports sous-marins : plongée en scaphandre en tout lieu, plongée en apnée, plongée libre, hockey subaquatique, pêche sous-marine, nage avec palmes, tir sur cible subaquatique, orientation subaquatique, nage en eau vive.
+Fédération française d'études et sports sous-marins : plongée en scaphandre en tout lieu, plongée en apnée, plongée libre, hockey subaquatique, nage avec palmes, tir sur cible subaquatique, orientation subaquatique, nage en eau vive.
 
 Fédération française de football américain : football américain, flag, cheerleading.
 
@@ -50,7 +50,7 @@ Fédération française de parachutisme : parachutisme, chute libre en souffleri
 
 Fédération française de pêche sportive au coup : pêche au coup en eau douce.
 
-Fédération française des pêcheurs en mer : toutes pêches en mer  lancer .
+Fédération française des pêcheurs en mer : toutes pêches en mer lancer .
 
 Fédération française de pêche à la mouche et au lancer : pêche à la mouche, pêche au lancer en eau douce.
 
