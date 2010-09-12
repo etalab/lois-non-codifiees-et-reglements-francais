@@ -7,9 +7,7 @@ LISTE DES EMPLOIS ÉLIGIBLES À L'ÉCHELON SPÉCIAL
 <tr>
 <th>SERVICES ET DIRECTIONS<br/>
 </th>
-<th>FONCTIONS<br/>
-<br/>
-</th>
+<th>FONCTIONS</th>
 <th>NOMBRE<br/>d'emplois<br/>
 </th>
 </tr>
@@ -39,9 +37,8 @@ LISTE DES EMPLOIS ÉLIGIBLES À L'ÉCHELON SPÉCIAL
 </td>
 </tr>
 <tr>
-<td align="center">Direction de la Documentation française.<br/>
-</td>
-<td align="center">Secrétaire général des centres interministériels de renseignement administratif<br/>
+<td align="center">Direction de l'information légale et administrative</td>
+<td align="center">Directeur du centre interministériel de renseignements administratifs de Metz <br/>
 </td>
 <td align="center">
 <br/>1<br/>

@@ -77,7 +77,7 @@ LISTE DES EMPLOIS DE CHEF DE MISSION DES SERVICES DU PREMIER MINISTRE
 <td align="center">
 <br/>
 </td>
-<td align="center">Chef du bureau des moyens généraux<br/>
+<td align="center">Chef de la mission de gestion des emplois déconcentrés.<br/>
 </td>
 <td align="center">1<br/>
 </td>
@@ -99,8 +99,7 @@ LISTE DES EMPLOIS DE CHEF DE MISSION DES SERVICES DU PREMIER MINISTRE
 </td>
 </tr>
 <tr>
-<td align="center">Direction de la Documentation française.<br/>
-</td>
+<td align="center">Direction de l'information légale et administrative </td>
 <td align="center">Responsable de la mission du contrôle de gestion<br/>
 </td>
 <td align="center">1<br/>
@@ -166,7 +165,7 @@ LISTE DES EMPLOIS DE CHEF DE MISSION DES SERVICES DU PREMIER MINISTRE
 <td align="center">
 <br/>
 </td>
-<td align="center">Secrétaire général des centres interministériels de renseignements administratifs <br/>
+<td align="center">Directeur du centre interministériel de renseignements administratifs de Metz <br/>
 </td>
 <td align="center">
 <br/>1<br/>
