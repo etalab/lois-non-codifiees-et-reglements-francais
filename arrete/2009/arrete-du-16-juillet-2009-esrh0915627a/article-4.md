@@ -18,8 +18,6 @@ La justification d'une activité professionnelle effective non salariée est app
 
 4° Un exemplaire des travaux, ouvrages et articles dans la limite de trois documents pour les candidats à la qualification aux fonctions de maître de conférences et de cinq documents pour les candidats à la qualification aux fonctions de professeur des universités.
 
-La date limite de publication de ces ouvrages, travaux, ne peut être postérieure à celle exigée pour la publication de la thèse ;
-
 5° Lorsqu'un diplôme est exigé, une copie du rapport de soutenance du diplôme produit, comportant notamment la liste des membres du jury et la signature du président.
 
-Tout dossier incomplet est rejeté.
+Tout dossier incomplet est déclaré irrecevable par le ministre chargé de l'enseignement supérieur.

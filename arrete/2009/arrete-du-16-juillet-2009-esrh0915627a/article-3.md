@@ -1,6 +1,6 @@
 # Article 3
 
-La déclaration de candidature est déposée sur le site internet du ministère de l'enseignement supérieur et de la recherche :  http://www.enseignementsup-recherche.gouv.fr, rubrique  emploi dans l'enseignement supérieur et la recherche , puis  GALAXIE .
+La déclaration de candidature est enregistrée dans le domaine applicatif du portail GALAXIE accessible depuis le site du ministère : http : / / www. enseignementsup-recherche. gouv. fr.
 
 Les candidats communiquent une adresse électronique leur permettant de recevoir les informations relatives au suivi de leur dossier.
 
