@@ -10,6 +10,8 @@
 
 - article 11, paragraphe 3, sauf informations complémentaires lorsque le fractionnement est non conforme ou non identifié ;
 
+- article 11, paragraphe 5 ;
+
 - article 12, paragraphe 1 ;
 
 - article 12, paragraphe 2, en cas d'absence des mentions, sur le registre de manipulation, de la date de l'enrichissement, du volume de produit enrichissant utilisé ou du volume de produit obtenu et lorsque aucun autre document ne permet d'établir ces informations ;
