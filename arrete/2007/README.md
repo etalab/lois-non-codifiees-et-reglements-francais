@@ -653,7 +653,6 @@
 - [Arrêté du 19 septembre 2007 (DEFK0766779A)](arrete-du-19-septembre-2007-defk0766779a)
 - [Arrêté du 19 septembre 2007 (DEVT0765093A)](arrete-du-19-septembre-2007-devt0765093a)
 - [Arrêté du 19 septembre 2007 (DEVT0765100A)](arrete-du-19-septembre-2007-devt0765100a)
-- [Arrêté du 20 août 2007 (AGRS0763519A)](arrete-du-20-aout-2007-agrs0763519a)
 - [Arrêté du 20 août 2007 (BCFP0762800A)](arrete-du-20-aout-2007-bcfp0762800a)
 - [Arrêté du 20 août 2007 (DEVU0761793A)](arrete-du-20-aout-2007-devu0761793a)
 - [Arrêté du 20 août 2007 (JUSG0758756A)](arrete-du-20-aout-2007-jusg0758756a)
