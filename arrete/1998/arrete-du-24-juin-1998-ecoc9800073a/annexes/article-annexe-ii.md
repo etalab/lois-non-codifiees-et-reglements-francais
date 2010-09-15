@@ -564,6 +564,15 @@ DES FIBRES CONTENUES DANS UN PRODUIT TEXTILE
 </td>
 </tr>
 <tr>
+<td>
+<p align="center">47</p>
+</td>
+<td>Mélamine</td>
+<td>
+<p align="center">7, 00</p>
+</td>
+</tr>
+<tr>
 <td colspan="3">
 <p>(1) Le taux conventionnel de 17 % est appliqué dans les cas où il n'est pas possible de s'assurer si le produit textile<br/>contenant de la laine, des poils, appartient au cycle peigné ou cardé.</p>
 </td>
