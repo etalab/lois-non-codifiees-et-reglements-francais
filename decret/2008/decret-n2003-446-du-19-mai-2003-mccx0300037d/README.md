@@ -4,5 +4,4 @@
 - [Chapitre II : Recrutement.](chapitre-ii)
 - [Chapitre III : Avancement.](chapitre-iii)
 - [Chapitre IV : Dispositions diverses.](chapitre-iv)
-- [Chapitre V : Dispositions transitoires et finales.](chapitre-v)
 - [Article 15](article-15.md)

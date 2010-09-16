@@ -6,7 +6,13 @@ I.-Peuvent être nommés inspecteurs généraux, pour quatre emplois vacants sur
 
 2° Les chefs de service, les directeurs adjoints et sous-directeurs d'administration centrale, les directeurs régionaux des affaires culturelles et les fonctionnaires occupant un emploi fonctionnel doté d'un indice terminal correspondant au moins au groupe hors échelle B, et justifiant d'une durée minimale de services de trois ans dans l'un ou l'autre de ces emplois ;
 
-3° Les administrateurs civils ayant atteint le dernier échelon de la hors-classe.
+3° Les administrateurs civils ayant atteint le dernier échelon de la hors-classe ;
+
+4° Les conservateurs généraux du patrimoine et les conservateurs généraux des bibliothèques ayant atteint l'avant-dernier échelon de leur corps ;
+
+5° Les inspecteurs et conseillers de la création, des enseignements artistiques et de l'action culturelle ayant atteint le dernier échelon du grade le plus élevé de leur corps ;
+
+6° Les architectes et urbanistes de l'Etat ayant atteint le dernier échelon du grade d'architecte et urbaniste de l'Etat en chef.
 
 A l'exception de celle des directeurs d'administration centrale et des délégués nommés en conseil des ministres, les candidatures de ces fonctionnaires ne peuvent être retenues qu'après l'avis d'une commission chargée d'apprécier la nature et le niveau des responsabilités exercées au regard des missions confiées aux membres du corps de l'inspection générale.
 
