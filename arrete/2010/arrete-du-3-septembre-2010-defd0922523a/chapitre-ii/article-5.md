@@ -1,0 +1,3 @@
+# Article 5
+
+L'organisme agréé ne peut pas se prévaloir du manque ou de l'insuffisance d'information d'une déclaration annuelle ou d'une impossibilité de visite des lieux pour retirer l'attestation de capacité à l'opérateur en application de l'article R. 543-104 du code de l'environnement si, d'une part, les informations incomplètes de la déclaration annuelle sont dues à des motifs tirés de la protection du secret de la défense nationale dûment constatés par l'autorité ayant délivré l'habilitation ou si, d'autre part, l'organisme agréé n'a pas obtenu l'habilitation au secret de la défense nationale en application des articles R. 2311-7 et R. 2311-8 du code de la défense.
