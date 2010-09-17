@@ -1,0 +1,3 @@
+# Article 1-1
+
+Les collaborateurs permanents (rapporteurs spéciaux, assistants et agents de secrétariat) de la commission de certification des comptes des organismes payeurs des dépenses financées par les fonds européens agricoles, cités à l'article 4 du décret du 11 mai 2007 déjà mentionné, perçoivent une indemnité forfaitaire mensuelle, dans la limite de valeurs maximales fixées par arrêté conjoint des ministres chargés de l'économie, du budget et de la fonction publique. Le montant de cette indemnité est déterminé par le président de la commission, pour chaque agent, en fonction de sa manière de servir et des caractéristiques du poste qu'il occupe.

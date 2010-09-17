@@ -372,6 +372,7 @@
 - [Décret n°2010-661 du 15 juin 2010 (ECED1005650D)](decret-n2010-661-du-15-juin-2010-eced1005650d)
 - [Décret n°92-45 du 15 janvier 1992 (MENT9102528D)](decret-n92-45-du-15-janvier-1992-ment9102528d)
 - [Décret n°2009-547 du 15 mai 2009 (AGRS0765080D)](decret-n2009-547-du-15-mai-2009-agrs0765080d)
+- [Décret n°2006-314 du 16 mars 2006 (ECOP0600115D)](decret-n2006-314-du-16-mars-2006-ecop0600115d)
 - [Décret n°2010-146 du 16 février 2010 (IOCX1001895D)](decret-n2010-146-du-16-fevrier-2010-iocx1001895d)
 - [Décret n°2010-148 du 16 février 2010 (JUSX1002567D)](decret-n2010-148-du-16-fevrier-2010-jusx1002567d)
 - [Décret n°2010-149 du 16 février 2010 (JUSX1001357D)](decret-n2010-149-du-16-fevrier-2010-jusx1001357d)
