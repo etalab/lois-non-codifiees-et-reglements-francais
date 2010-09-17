@@ -912,7 +912,6 @@
 - [Arrêté du 12 août 2009 (AGRT0913402A)](arrete-du-12-aout-2009-agrt0913402a)
 - [Arrêté du 12 août 2009 (BCFB0918696A)](arrete-du-12-aout-2009-bcfb0918696a)
 - [Arrêté du 12 août 2009 (BCFF0917555A)](arrete-du-12-aout-2009-bcff0917555a)
-- [Arrêté du 12 août 2009 (DEVE0918137A)](arrete-du-12-aout-2009-deve0918137a)
 - [Arrêté du 12 août 2009 (MCCL0908396A)](arrete-du-12-aout-2009-mccl0908396a)
 - [Arrêté du 12 décembre 2000 (ATEN0090478A)](arrete-du-12-decembre-2000-aten0090478a)
 - [Arrêté du 12 décembre 2008 (AGRS0830162A)](arrete-du-12-decembre-2008-agrs0830162a)
