@@ -1,0 +1,3 @@
+# Article 14
+
+Pour l'instruction des demandes d'autorisation portant sur les installations constituant un élément de l'infrastructure militaire et réalisées dans le cadre d'opérations secrètes intéressant la défense nationale, il n'est pas procédé à l'enquête publique, ni aux consultations et aux mesures d'information du public et des autorités et services concernés de Nouvelle-Calédonie. L'instruction du dossier est poursuivie par le service instructeur mentionné à l'article 11. Si l'installation est soumise à autorisation, celle-ci est délivrée par décret pris sur proposition du ministre de la défense. Si l'installation est soumise à déclaration, la décision de création, prise par le ministre de la défense, en tient lieu.
