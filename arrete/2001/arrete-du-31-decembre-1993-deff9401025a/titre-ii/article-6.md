@@ -2,9 +2,11 @@
 
 Le ministre de la défense peut, par arrêté pris sous sa seule signature et publié au Journal officiel, instituer des régies d'avances auprès de tout service ou établissement relevant de son autorité pour le paiement des dépenses ci-après :
 
-a) Dépenses de matériel et de fonctionnement, dans la limite d'un montant maximal par opération fixé par arrêté du 28 janvier 2002 susvisé ;
+a) Dépenses de matériel et de fonctionnement dans la limite du montant maximal par opération fixé par l'arrêté du 4 juin 1996 susvisé, pour les dépenses non soumises au code des marchés publics ;
 
-b) Dépenses urgentes de matériel, dans la limite de deux fois le montant fixé par l'arrêté 28 janvier 2002 précité, par opération, l'appréciation de l'urgence étant laissée au chef d'établissement ou de service ;
+Dépenses de matériel et de fonctionnement en exécution d'un marché public passé selon une procédure adaptée et dont le montant est inférieur ou égal au montant fixé par l'arrêté du 4 juin 1996 susvisé ;
+
+b) Dépenses urgentes de matériel et de fonctionnement telles que définies au a du présent article, dans la limite de deux fois le montant fixé par l'arrêté du 4 juin 1996 susvisé, l'appréciation de l'urgence étant laissée au chef d'établissement ou de service ;
 
 c) Secours urgents ou exceptionnels d'un montant maximal fixé à 1 300 euros par bénéficiaire ;
 
@@ -34,7 +36,13 @@ k) Indemnité journalière mentionnée à l'article R. 43-3 du code du service n
 
 l) Rémunération des personnels qui entrent au service de l'administration ou la quittent en cours de mois ;
 
-m) Dépenses répétitives induites par des abonnements permettant notamment le règlement des fournisseurs d'électricité, de gaz, de téléphonie mobile, d'abonnements à internet ou encore des sociétés d'autoroute pour le télépéage ;
+m) Dépenses répétitives induites par des abonnements permettant le règlement des dépenses énumérées ci-après dès lors que les contrats conclus ne constituent pas un marché public ou un accord-cadre au sens du code des marchés publics :
+
+-dépenses de fluides et énergies de toute nature sans limitation de montant par opération ;
+
+-dépenses en téléphonie fixe ou mobile, accès à internet ;
+
+-dépenses de télépéage ;
 
 n) Indemnités de chômage servies aux ex-personnels civils de la défense si elles n'entrent pas dans le champ d'application du décret n° 65-845 du 4 octobre 1965 ;
 
@@ -66,4 +74,8 @@ aa) Avances sur frais de déménagement aux personnels civils et militaires envo
 
 ab) Paiement des récompenses en matière de prévention ;
 
-ac) Frais d'enquêtes et de surveillances.
+ac) Frais d'enquêtes et de surveillances ;
+
+ae) Gratifications versées aux étudiants de l'enseignement supérieur en stage dans les établissements et services du ministère de la défense dans les conditions prévues par le décret n° 2009-885 du 21 juillet 2009 ;
+
+af) Paiement, sans limitation de montant, de l'indemnisation des victimes des essais nucléaires français dans les conditions prévues au décret n° 2010-653 du 11 juin 2010.
