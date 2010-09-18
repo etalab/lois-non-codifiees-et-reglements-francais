@@ -248,7 +248,6 @@
 - [Arrêté du 9 décembre 2003 (SOCF0311959A)](arrete-du-9-decembre-2003-socf0311959a)
 - [Arrêté du 9 décembre 2008 (AGRS0829417A)](arrete-du-9-decembre-2008-agrs0829417a)
 - [Arrêté du 9 décembre 2008 (BCFP0828541A)](arrete-du-9-decembre-2008-bcfp0828541a)
-- [Arrêté du 9 décembre 2008 (DEFH0823319A)](arrete-du-9-decembre-2008-defh0823319a)
 - [Arrêté du 9 décembre 2008 (DEFH0823321A)](arrete-du-9-decembre-2008-defh0823321a)
 - [Arrêté du 9 décembre 2008 (DEFH0823328A)](arrete-du-9-decembre-2008-defh0823328a)
 - [Arrêté du 9 décembre 2008 (DEVA0810655A)](arrete-du-9-decembre-2008-deva0810655a)
