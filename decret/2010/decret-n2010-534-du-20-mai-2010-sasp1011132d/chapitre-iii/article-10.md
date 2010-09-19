@@ -11,3 +11,5 @@ Parmi ces personnalités, siègent deux professeurs des universités spécialis�
 Le directeur général de l'agence régionale de santé désigne le président de la commission.
 
 Le mandat des membres de la commission est renouvelable une fois.
+
+La consultation des membres de la commission peut intervenir par tout moyen approprié permettant leur identification et leur participation effective à une délibération collégiale, satisfaisant à des caractéristiques techniques permettant leur transmission continue et simultanée et garantissant la confidentialité des votes lorsque le scrutin est secret.

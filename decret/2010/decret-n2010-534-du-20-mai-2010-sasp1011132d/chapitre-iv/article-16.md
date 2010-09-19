@@ -11,3 +11,5 @@ Les frais de déplacement et de séjour de ses membres sont pris en charge dans 
 La commission s'assure que les formations précédemment validées par le professionnel et son expérience professionnelle peuvent être admises en équivalence de la formation minimale prévue à l'article 1er et, le cas échéant, du diplôme prévu à l'article 6. Elle définit, si nécessaire, la nature et la durée de la formation complémentaire nécessaire à l'inscription sur le registre des psychothérapeutes.
 
 Le professionnel est entendu par la commission s'il en formule le souhait au moment du dépôt de son dossier ou à la demande de la commission.
+
+La consultation des membres de la commission peut intervenir par tout moyen approprié permettant leur identification et leur participation effective à une délibération collégiale, dans les mêmes conditions que celles prévues à l'article 10.
