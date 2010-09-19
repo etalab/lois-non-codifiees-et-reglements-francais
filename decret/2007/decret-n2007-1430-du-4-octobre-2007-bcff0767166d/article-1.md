@@ -14,9 +14,9 @@ Entrent dans le champ d'application de l'exonération fiscale prévue au 5° du 
 
 4. Les indemnités versées aux personnels enseignants du premier degré apportant leur concours aux élèves des écoles primaires sous la forme d'heures de soutien scolaire en application du décret n° 66-787 du 14 octobre 1966 susvisé ou du 2° de l'article 2 du décret n° 82-979 du 19 novembre 1982 susvisé ;
 
-5. L'indemnité d'enseignement en milieu pénitentiaire prévue par le décret n° 71-685 du 18 août 1971 et rémunérant les cours professés dans les établissements pénitentiaires par les personnels de l'éducation nationale en activité ;
+5.L'indemnité d'enseignement en milieu pénitentiaire prévue par le décret n° 71-685 du 18 août 1971 et rémunérant les cours professés dans les établissements pénitentiaires par les personnels de l'éducation nationale en activité ;
 
-6. L'indemnité spécifique versée aux personnels de l'éducation nationale en activité intervenant sous la forme d'heures de soutien aux élèves des écoles primaires, prévue par le décret n° 88-1267 du 30 décembre 1988 susvisé ;
+6.L'indemnité spécifique versée aux personnels de l'éducation nationale en activité intervenant sous la forme d'heures de soutien aux élèves des écoles primaires, prévue par le décret n° 88-1267 du 30 décembre 1988 susvisé ;
 
 7. Les heures supplémentaires prévues par le décret n° 71-750 du 14 septembre 1971 susvisé ;
 
@@ -36,4 +36,12 @@ Entrent dans le champ d'application de l'exonération fiscale prévue au 5° du 
 
 15. Les rémunérations versées au titre des heures supplémentaires aux personnels des chambres de commerce et d'industrie, des groupements interconsulaires et de l'assemblée des chambres françaises de commerce et d'industrie ;
 
-16. Les rémunérations versées aux personnels des chambres de métiers et de l'artisanat, des chambres régionales de métiers et de l'artisanat et de l'assemblée permanente des chambres de métiers au-delà de la durée de travail effectif fixée par leur statut.
+16. Les rémunérations versées aux personnels des chambres de métiers et de l'artisanat, des chambres régionales de métiers et de l'artisanat et de l'assemblée permanente des chambres de métiers au-delà de la durée de travail effectif fixée par leur statut ;
+
+17. Les indemnités versées aux personnels enseignants et personnels d'éducation et de surveillance des instituts nationaux de jeunes sourds et de jeunes aveugles en application de l'article 4 du décret du 9 novembre 1973 susvisé ;
+
+18. Les indemnités pour heures supplémentaires d'enseignement effectuées par les personnels enseignants des écoles de rééducation professionnelle de l'Office national des anciens combattants et victimes de guerre en application de l'article 4 du décret du 6 novembre 1995 susvisé ;
+
+19. Les indemnités pour enseignements complémentaires en faveur des personnels enseignants des établissements publics d'enseignement supérieur relevant du ministre chargé de l'agriculture prévues par le décret du 17 janvier 1990 susvisé ;
+
+20. La rémunération des interventions sous astreintes effectuées par certains agents du ministère de la justice en application du décret du 28 décembre 2001 susvisé.
