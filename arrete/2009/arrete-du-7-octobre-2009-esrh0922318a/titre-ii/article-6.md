@@ -1,6 +1,6 @@
 # Article 6
 
-Les candidats établissent un dossier adressé en trois exemplaires au président ou au directeur de l'établissement dans lequel l'emploi est déclaré vacant.
+Les candidats établissent un dossier en trois exemplaires, l'un destiné au président ou au directeur de l'établissement dans lequel l'emploi est déclaré vacant, les deux autres à l'attention des rapporteurs.
 
 Ce dossier comporte, à l'exclusion de toute autre pièce :
 
