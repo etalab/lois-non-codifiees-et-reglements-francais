@@ -6,7 +6,6 @@
 - [Arrêté du 1 décembre 2005 (JUSF0550138A)](arrete-du-1-decembre-2005-jusf0550138a)
 - [Arrêté du 1 décembre 2005 (MENR0502515A)](arrete-du-1-decembre-2005-menr0502515a)
 - [Arrêté du 1 juillet 2005 (AGRG0501531A)](arrete-du-1-juillet-2005-agrg0501531a)
-- [Arrêté du 1 juillet 2005 (DEFD0500911A)](arrete-du-1-juillet-2005-defd0500911a)
 - [Arrêté du 1 mars 2004 (SOCT0410464A)](arrete-du-1-mars-2004-soct0410464a)
 - [Arrêté du 1 septembre 2005 (MJSK0570192A)](arrete-du-1-septembre-2005-mjsk0570192a)
 - [Arrêté du 1 septembre 2005 (SANH0522807A)](arrete-du-1-septembre-2005-sanh0522807a)

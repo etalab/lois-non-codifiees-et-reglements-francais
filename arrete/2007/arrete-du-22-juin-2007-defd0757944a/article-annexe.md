@@ -296,42 +296,59 @@
 <p>Direction centrale du service des essences des armées </p>
 </td>
 <td valign="top" width="304">
-<p>Directeur de l'établissement administratif et technique du service des essences des armées </p>
+<p>Directeur de l'exploitation et de la logistique pétrolières interarmées<br/>
+</p>
 </td>
-<td valign="top" width="152">
-<p>Sans limitation </p>
+<td valign="top" width="152">Sans limitation (10) <p>MAPA × 100 (11)</p>
+<br/>
 </td>
 </tr>
 <tr>
 <td valign="top" width="304">
-<p>Directeurs régionaux interarmées du service des essences des armées </p>
+<p>Adjoint interarmées de soutien pétrolier<br/>
+</p>
+<br/>
+</td>
+<td valign="top" width="152">
+<p>Sans limitation (12)</p>
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="304">
+<p>Directeur régional interarmées du service des essences des armées en région Atlantique</p>
+<br/>
+<br/>
+</td>
+<td valign="top" width="152">
+<p>MAPA × 20</p>
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="304">
+<p>Directeur de la base pétrolière interarmées<br/>
+</p>
+<br/>
+</td>
+<td valign="top" width="152">
+<p>MAPA × 20<br/>
+</p>
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="304">
+<p>Directeur du laboratoire du service des essences des armées</p>
+<br/>
+<br/>
 </td>
 <td valign="top" width="152">
 <p>MAPA × 20 </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="304">
-<p>Directeur de la base pétrolière interarmées </p>
-</td>
-<td valign="top" width="152">
-<p>MAPA × 20 </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="304">
-<p>Directeur du laboratoire du service des essences des armées </p>
-</td>
-<td valign="top" width="152">
-<p>MAPA × 20 </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="304">
-<p>Chef du détachement de liaison du service des essences des armées auprès de l'état-major de la marine (3) </p>
-</td>
-<td valign="top" width="152">
-<p>MAPA × 7 </p>
+<br/>
+<br/>
 </td>
 </tr>
 <tr>
@@ -769,6 +786,9 @@
 <tr>
 <td colspan="3" valign="top" width="702">
 <p>(1) L'expression MAPA x s'entend comme suit : montant égal à n fois le seuil des marchés et accords-cadres pouvant être passés selon la procédure adaptée tel qu'il est fixé par l'article 26-II du code des marchés publics. <br/>(2) Délégation accordée sans limite de seuil, à l'exclusion des marchés et accords-cadres d'informatique (fournitures ou prestations de services) faisant l'objet d'une programmation centralisée. <br/>(3) Délégation limitée aux marchés subséquents d'approvisionnement des bâtiments de la marine nationale en escale à l'étranger. <br/>(4) Délégation limitée aux marchés et accords-cadres imputés sur des crédits dont la direction centrale du matériel de l'armée de terre est gestionnaire. <br/>(5) Délégation limitée aux marchés et accords-cadres se référant aux cahiers des clauses administratives générales (CCAG) (travaux), y compris les marchés de travaux passés à l'étranger ne se référant pas à ce CCAG. <br/>(6) Délégation limitée aux marchés et accords-cadres se référant aux cahiers (prestations intellectuelles, marchés industriels, fournitures courantes), y compris les marchés de ces types de prestations ne se référant pas à l'un de ces CCAG. <br/>(7) Limitation applicable aux seuls marchés de définition ou de maîtrise d'œuvre passés conformément aux dispositions de la loi n° 85-704 du 12 juillet 1985 relative à la maîtrise d'ouvrage publique et ses rapports avec la maîtrise d'œuvre privée et de ses textes d'application. <br/>(8) Délégations accordées sur le fondement du décret n° 51-196 du 21 février 1951 fixant les attributions respectives du secrétariat d'Etat aux forces armées air, du ministre des travaux publics, des transports et du tourisme et du secrétaire d'Etat aux forces armées guerre, en ce qui concerne les installations immobilières du département de l'air et de son arrêté d'application du 22 février 1951 fixant les attributions respectives du secrétaire d'Etat aux forces armées air du ministre des travaux publics, des transports et du tourisme et du secrétaire d'Etat aux forces armées guerre en ce qui concerne les installations immobilières du département de l'air. <br/>(9) Les commandants des formations administratives relevant du chef d'état-major des armées créées par l'arrêté du 16 décembre 2009 portant organisation des bases de défense pilotes reçoivent délégation de pouvoir en matière de marchés publics et accords-cadres nécessaires aux domaines de l'administration générale et des soutiens et dont les modalités sont précisées par instruction. <br/>Les commandants des formations administratives et organismes administrés comme tels soutenus par une formation administrative créée par ce même arrêté ne peuvent passer et signer les marchés publics et accords-cadres définis ci-dessus que dans le cas où la formation, l'organisme ou un de ses éléments se déplace à l'extérieur de la base de défense pilote.</p>
+<p>(10) Délégation applicable aux marchés et accords-cadres imputés sur le compte de commerce "approvisionnement des armées en produits pétroliers".</p>
+<p>(11) Délégation applicable aux marchés et accords-cadres imputés sur le budget défense.</p>
+<p>(12) Délégation limitée aux marchés pétroliers à l'étranger dans la zone de compétence de l'adjoint interarmées de soutien pétrolier.</p>
 </td>
 </tr>
 </tbody>
