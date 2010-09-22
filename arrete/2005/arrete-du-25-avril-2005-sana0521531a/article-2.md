@@ -18,9 +18,9 @@ Union nationale interprofessionnelle des retraités de la CFE-CGC (UNIR-CFE-CGC)
 
 2° L'Association d'aide à domicile en milieu rural (ADMR) ;
 
-3° L'Association des directeurs d'établissements d'hébergement pour personnes âgées dépendantes (ADEHPA) ;
+3° L'Association des directeurs au service des personnes âgées (AD-PA) ;
 
-4° L'association ADESSA ;
+4° L'association ADESSA-A domicile ;
 
 5° L'association Allô maltraitance personnes âgées ;
 
@@ -28,16 +28,14 @@ Union nationale interprofessionnelle des retraités de la CFE-CGC (UNIR-CFE-CGC)
 
 7° La Fédération nationale Accueil et confort pour les personnes âgées (FNACPPA) ;
 
-8° La Fédération nationale d'aide et d'intervention à domicile (FNAID) ;
+8° La Fédération nationale des associations de directeurs d'établissements et services pour personnes âgées (FNADEPA) ;
 
-9° La Fédération nationale des associations de directeurs d'établissements et services pour personnes âgées (FNADEPA) ;
+9° La Fédération nationale des particuliers employeurs (FEPEM) ;
 
-10° La Fédération nationale des particuliers employeurs (FEPEM) ;
+10° La Fédération internationale des personnes âgées ;
 
-11° La Fédération internationale des personnes âgées ;
+11° La Fondation nationale de gérontologie ;
 
-12° La Fondation nationale de gérontologie ;
+12° L'Union nationale des associations de soins et de services à domicile (UNASSAD) ;
 
-13° L'Union nationale des associations de soins et de services à domicile (UNASSAD) ;
-
-14° Le Syndicat national de gérontologie clinique.
+13° Le Syndicat national de gérontologie clinique.
