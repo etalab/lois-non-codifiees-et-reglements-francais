@@ -4,7 +4,7 @@ Le nombre d'emplois de directeur régional adjoint au sein des directions régio
 
 I. ― Direction régionale de la jeunesse, des sports et la cohésion sociale ayant deux directeurs régionaux adjoints :
 
-Nord - Pas-de-Calais, Provence-Alpes-Côte d'Azur, Rhône-Alpes.
+Ile-de-France, Nord - Pas-de-Calais, Provence-Alpes-Côte d'Azur, Rhône-Alpes
 
 II. ― Direction régionale de la jeunesse, des sports et de la cohésion sociale ayant un directeur régional adjoint :
 

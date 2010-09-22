@@ -2,9 +2,13 @@
 
 Le classement des emplois de directeur régional adjoint de la direction régionale de la jeunesse, des sports et de la cohésion sociale, prévu au II de l'article 2 du décret du 31 mars 2009 susvisé, est fixé ainsi qu'il suit :
 
+Groupe II
+
+Ile-de-France (un emploi).
+
 Groupe III
 
-Nord - Pas-de-Calais (deux emplois), Provence-Alpes-Côte d'Azur (deux emplois), Rhône-Alpes (deux emplois).
+Ile-de-France (un emploi), Nord - Pas-de-Calais (deux emplois), Provence-Alpes-Côte d'Azur (deux emplois), Rhône-Alpes (deux emplois)
 
 Groupe IV
 

@@ -4,7 +4,7 @@ Le classement des emplois de directeur régional de la jeunesse, des sports et d
 
 Groupe I
 
-Nord - Pas-de-Calais, Provence-Alpes-Côte d'Azur, Rhône-Alpes.
+Ile-de-France, Nord - Pas-de-Calais, Provence-Alpes-Côte d'Azur, Rhône-Alpes
 
 Groupe II
 
