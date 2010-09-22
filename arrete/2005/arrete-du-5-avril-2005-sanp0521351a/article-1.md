@@ -12,6 +12,14 @@ Centre hospitalier, rue Marcelin-Berthelot, 02000 Laon.
 
 Centre hospitalier, avenue de Michel-de-l'Hôpital, 02100 Saint-Quentin.
 
+03 - Allier
+
+<div align="left">
+<br/>
+</div>
+
+Centre hospitalier intercommunal de Moulins-Yzeure, 10, avenue du Général-de-Gaulle, BP 609, 03006 Moulins Cedex.
+
 05-Hautes-Alpes
 
 Centre hospitalier des Escartons, service de médecine-gériatrie-santé publique-hémovigilance, 25, avenue Adrien-Daurelle, 05105 Briançon Cedex.
