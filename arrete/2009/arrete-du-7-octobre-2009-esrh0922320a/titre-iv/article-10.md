@@ -1,6 +1,6 @@
 # Article 10
 
-Les candidats établissent un dossier en trois exemplaires adressé au président ou au directeur de l'établissement dans lequel l'emploi est déclaré vacant. Ce dossier comporte, à l'exclusion de toute autre pièce :
+Les candidats établissent un dossier en trois exemplaires, l'un destiné au président ou au directeur de l'établissement dans lequel l'emploi est déclaré vacant, les deux autres à l'attention des rapporteurs.  Ce dossier comporte, à l'exclusion de toute autre pièce :
 
 ― la déclaration de candidature imprimée depuis GALAXIE, datée, avec la signature du candidat ;
 

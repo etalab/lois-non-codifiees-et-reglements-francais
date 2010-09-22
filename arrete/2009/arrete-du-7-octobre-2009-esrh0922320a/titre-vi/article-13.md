@@ -6,7 +6,7 @@ Toutefois, les candidats exerçant une fonction d'enseignant-chercheur, d'un niv
 
 Les candidats doivent en outre relever de l'une des catégories suivantes :
 
-a) Candidats comptant, au 1er janvier de l'année du concours, au moins quatre années d'activité professionnelle effective dans les sept ans qui précèdent. Ne sont pas prises en compte les activités d'enseignant, les activités de chercheur dans les établissements publics à caractère scientifique et technologique, ni les activités mentionnées au III de l'article 25 de la loi du 13 juillet 1983 ou à l'article 2 du décret du 2 mai 2007 ;
+a) Les candidats comptant, au 1er janvier de l'année du concours, au moins quatre années d'activité professionnelle effective dans les sept ans qui précèdent. Ne sont pas prises en compte les activités d'enseignant, les activités de chercheur dans les établissements publics à caractère scientifique et technologique ou les activités mentionnées au III de l'article 25 de la loi du 13 juillet 1983 ou à l'article 2 du décret n° 2007-658 du 2 mai 2007 relatif au cumul d'activités des fonctionnaires, des agents non titulaires de droit public et des ouvriers des établissements industriels de l'Etat ;
 
 b) Enseignants associés à temps plein en fonctions au 1er janvier de l'année du concours ou ayant cessé leurs fonctions depuis moins d'un an à cette même date.
 
