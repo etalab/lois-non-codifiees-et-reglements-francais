@@ -4,7 +4,9 @@ Champ d'application
 
 Sont assujetties aux présentes dispositions générales toutes les entreprises et établissements dont le personnel effectue, même à titre secondaire ou occasionnel, des travaux d'extraction par déroctage ou dragage en fleuve, rivière ou plan d'eau.
 
-Toutefois, ces dispositions générales ne sont applicables aux entreprises relevant du comité technique national des industries des transports et de la manutention pour leur personnel affecté aux travaux visés à l'alinéa ci-dessus que dans la mesure où il n'en est pas décidé autrement par des dispositions réglementaires existantes.
+Ces dispositions générales ne sont applicables aux entreprises relevant du Comité technique national des transports et de la manutention pour leur personnel affecté aux travaux visés à l'alinéa ci-dessus que dans la mesure où il n'en est pas décidé autrement par des dispositions réglementaires existantes.
+
+Elles ne sont pas applicables aux entreprises relevant du Comité technique national des industries de la métallurgie.
 
 COMMENTAIRE TECHNIQUE.
 

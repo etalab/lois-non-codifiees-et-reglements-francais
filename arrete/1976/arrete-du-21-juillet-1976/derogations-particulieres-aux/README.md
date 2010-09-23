@@ -1,3 +1,0 @@
-# DEROGATIONS PARTICULIERES AUX ARTICLES 6 ET 11
-
-- [Article 13](article-13.md)
