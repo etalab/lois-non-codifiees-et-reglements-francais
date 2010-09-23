@@ -1321,7 +1321,6 @@
 - [Arrêté du 18 janvier 2010 (AGRG0928714A)](arrete-du-18-janvier-2010-agrg0928714a)
 - [Arrêté du 18 janvier 2010 (BCFR1000508A)](arrete-du-18-janvier-2010-bcfr1000508a)
 - [Arrêté du 18 janvier 2010 (DEFD1001869A)](arrete-du-18-janvier-2010-defd1001869a)
-- [Arrêté du 18 janvier 2010 (DEVA1001460A)](arrete-du-18-janvier-2010-deva1001460a)
 - [Arrêté du 18 janvier 2010 (DEVA1001512A)](arrete-du-18-janvier-2010-deva1001512a)
 - [Arrêté du 18 janvier 2010 (DEVN0931710A)](arrete-du-18-janvier-2010-devn0931710a)
 - [Arrêté du 18 janvier 2010 (DEVT0930678A)](arrete-du-18-janvier-2010-devt0930678a)
