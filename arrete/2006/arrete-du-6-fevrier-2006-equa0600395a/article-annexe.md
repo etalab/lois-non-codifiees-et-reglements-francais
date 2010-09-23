@@ -2,10 +2,6 @@
 
 **LIAISONS RÉGULIÈRES DE PASSAGERS, DE COURRIER ET DE FRET**
 
-Jusqu'au 31 août 2010
-
-Paris-Batna (Algérie).
-
 Jusqu'au 31 décembre 2010
 
 Marseille-Annaba (Algérie).
@@ -67,3 +63,7 @@ Paris - Monastir (Tunisie).
 Jusqu'au 15 mars 2015
 
 Paris―Dakar (Sénégal).
+
+Jusqu'au 31 août 2015
+
+Paris-Batna (Algérie).
