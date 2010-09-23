@@ -396,7 +396,6 @@
 - [Arrêté du 6 mars 2009 (SASP0905411A)](arrete-du-6-mars-2009-sasp0905411a)
 - [Arrêté du 6 novembre 2008 (DEVO0826674A)](arrete-du-6-novembre-2008-devo0826674a)
 - [Arrêté du 6 novembre 2009 (AGRM0925812A)](arrete-du-6-novembre-2009-agrm0925812a)
-- [Arrêté du 6 novembre 2009 (AGRS0913735A)](arrete-du-6-novembre-2009-agrs0913735a)
 - [Arrêté du 6 novembre 2009 (DEVE0922005A)](arrete-du-6-novembre-2009-deve0922005a)
 - [Arrêté du 6 novembre 2009 (JUSA0926918A)](arrete-du-6-novembre-2009-jusa0926918a)
 - [Arrêté du 6 novembre 2009 (JUSD0925843A)](arrete-du-6-novembre-2009-jusd0925843a)
