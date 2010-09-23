@@ -16,7 +16,7 @@ Notes concernant la colonne restrictions et / ou spécifications
 
 (7) LMS (T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées sous les numéros références 30080, 42320, 45195, 45200, 53610, 81760, 89200 et 92030.
 
-(8) LMS (T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées sous les numéros références 24886, 38000, 42400, 62020, 64320, 66350, 67896, 73040, 85760, 85840, 85920 et 95725.
+(8) LMS (T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées aux numéros de référence 24886, 62020, 30607, 38000, 42400, 64320, 66350, 67896, 73040, 85760, 85840, 85920 et 95725.
 
 (9) Avertissement : la migration de la substance risque de détériorer les caractéristiques organoleptiques de l'aliment avec lequel elle est en contact et, dans ce cas, le produit fini risque de ne pas être conforme au 2e alinéa de l'article 2 de la directive 89 / 109 / CEE.
 
@@ -54,7 +54,7 @@ Notes concernant la colonne restrictions et / ou spécifications
 
 (26) QM (T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la quantité résiduelle des substances visées sous les numéros références 14950, 15700, 16240, 16570, 16600, 16630, 18640, 19110, 22332, 22420, 22570, 25210, 25240 et 25270.
 
-(27) QMS (T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la quantité résiduelle des substances visées sous les numéros références 10599 / 90A, 10599 / 91, 10599 / 92A et 10599 / 93.
+(27) QMS (T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la quantité résiduelle des substances visées sous les numéros références 10599/90A, 10599/91, 10599/92A et 10599/93.
 
 (28) LMS (T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées sous les numéros références 13480 et 39680.
 
@@ -87,3 +87,11 @@ Notes concernant la colonne restrictions et / ou spécifications
 (42) LMS (T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées sous les numéros références 75100 et 75105.
 
 43) LMS (T) signifie dans ce cas que la restriction ne doit pas être dépassée par la somme de la migration des substances visées aux numéros de référence 19150 et 19180.
+
+(44) La LMS pourrait être dépassée dans le cas de polyoléfines.
+
+(45) La LMS pourrait être dépassée dans le cas de matières plastiques contenant plus de 0,5 % p/p de la substance.
+
+(46) La LMS pourrait être dépassée au contact d'aliments à forte teneur alcoolique.
+
+(47) La LMS pourrait être dépassée dans le cas de polyéthylène basse densité (PEBD) contenant plus de 0,3 % p/p de la substance en contact avec des aliments gras.
