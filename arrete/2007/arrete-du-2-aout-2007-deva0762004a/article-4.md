@@ -62,4 +62,26 @@ Jusqu'au 15 mai 2015 :
 
 Mulhouse-Jijel (Algérie)
 
+<div align="center">Jusqu'au 1er septembre 2015 :</div>
+
+Lyon-Djerba (Tunisie) ;
+
+Marseille-Djerba (Tunisie) ;
+
+Marseille-Jijel (Algérie),
+
+Marseille-Tunis (Tunisie) ;
+
+Nantes-Alger (Algérie) ;
+
+Nantes-Djerba (Tunisie) ;
+
+Nantes-Tunis (Tunisie) ;
+
+Nice-Djerba (Tunisie) ;
+
+Paris-Djerba (Tunisie) ;
+
+Paris-El Oued (Algérie).
+
 II. - L'autorisation d'exploiter chacune des liaisons mentionnées au I du présent article peut être suspendue ou retirée dans les conditions prévues à l'article 9 de l'arrêté du 22 janvier 2007 susvisé.
