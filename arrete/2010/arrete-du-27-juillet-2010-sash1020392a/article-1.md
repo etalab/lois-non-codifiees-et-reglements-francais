@@ -1,252 +1,306 @@
 # Article 1
 
-<div>
-<br/>Le nombre d'étudiants et d'internes en médecine pouvant signer un contrat d'engagement de service public en application du décret du 29 juin 2010 susvisé au titre de l'année universitaire 2010-2011 est fixé et réparti de la manière suivante :<br/>
+Le nombre d'étudiants et d'internes en médecine pouvant signer un contrat d'engagement de service public en application du décret du 29 juin 2010 susvisé au titre de l'année universitaire 2010-2011 est fixé et réparti de la manière suivante :
+
 <div align="center">
 
 <table>
+<tbody>
 <tr>
-<th>
-<br/>UFR</th>
-<th>
-<br/>NOMBRE DE CONTRATS D'ENGAGEMENT<br/>de service public offerts aux étudiants en médecine</th>
-<th>
-<br/>NOMBRE DE CONTRATS D'ENGAGEMENT<br/>de service public offerts aux internes en médecine</th>
+<th>UFR<br/>
+</th>
+<th>NOMBRE DE CONTRATS D'ENGAGEMENT<br/>de service public offerts aux étudiants en médecine<br/>
+</th>
+<th>NOMBRE DE CONTRATS D'ENGAGEMENT<br/>de service public offerts aux internes en médecine<br/>
+</th>
 </tr>
 <tr>
+<td align="center">Paris-V</td>
 <td align="center">
-<br/>Ile-de-France</td>
-<td align="center">
-<br/>43</td>
-<td align="center">
-<br/>16</td>
+<p align="center">9</p>
+</td>
+<td align="center">16<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Aix-Marseille-II </td>
-<td align="center">
-<br/>10</td>
-<td align="center">
-<br/>6</td>
+<td>
+<p align="center">Paris-VI </p>
+</td>
+<td>
+<p align="center">8</p>
+</td>
+<td/>
 </tr>
 <tr>
-<td align="center">
-<br/>Amiens </td>
-<td align="center">
-<br/>5</td>
-<td align="center">
-<br/>9</td>
+<td>
+<p align="center">Paris-VII</p>
+</td>
+<td>
+<p align="center">8</p>
+</td>
+<td/>
 </tr>
 <tr>
-<td align="center">
-<br/>Angers </td>
-<td align="center">
-<br/>4</td>
-<td align="center">
-<br/>7</td>
+<td>
+<p align="center">Paris-XI</p>
+</td>
+<td>
+<p align="center">5</p>
+</td>
+<td/>
 </tr>
 <tr>
-<td align="center">
-<br/>Antilles-Guyane </td>
-<td align="center">
-<br/>2</td>
-<td align="center">
-<br/>5</td>
+<td>
+<p align="center">Paris-XII</p>
+</td>
+<td>
+<p align="center">5</p>
+</td>
+<td/>
 </tr>
 <tr>
-<td align="center">
-<br/>Besançon </td>
-<td align="center">
-<br/>4</td>
-<td align="center">
-<br/>7</td>
+<td>
+<p align="center">Paris-XIII</p>
+</td>
+<td>
+<p align="center">5</p>
+</td>
+<td/>
 </tr>
 <tr>
-<td align="center">
-<br/>Bordeaux-II </td>
-<td align="center">
-<br/>12</td>
-<td align="center">
-<br/>7</td>
+<td>
+<p align="center">Versailles-Saint-Quentin</p>
+</td>
+<td>
+<p align="center">3</p>
+</td>
+<td/>
 </tr>
 <tr>
-<td align="center">
-<br/>Brest </td>
-<td align="center">
-<br/>4</td>
-<td align="center">
-<br/>4</td>
+<td align="center">Aix-Marseille-II <br/>
+</td>
+<td align="center">10<br/>
+</td>
+<td align="center">6<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Caen </td>
-<td align="center">
-<br/>5</td>
-<td align="center">
-<br/>9</td>
+<td align="center">Amiens <br/>
+</td>
+<td align="center">5<br/>
+</td>
+<td align="center">9<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Clermont-Ferrand-I </td>
-<td align="center">
-<br/>5</td>
-<td align="center">
-<br/>6</td>
+<td align="center">Angers <br/>
+</td>
+<td align="center">4<br/>
+</td>
+<td align="center">7<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Dijon </td>
-<td align="center">
-<br/>5</td>
-<td align="center">
-<br/>9</td>
+<td align="center">Antilles-Guyane <br/>
+</td>
+<td align="center">2<br/>
+</td>
+<td align="center">5<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Grenoble-I </td>
-<td align="center">
-<br/>5</td>
-<td align="center">
-<br/>4</td>
+<td align="center">Besançon <br/>
+</td>
+<td align="center">4<br/>
+</td>
+<td align="center">7<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Lille-II + faculté libre de Lille</td>
-<td align="center">
-<br/>14</td>
-<td align="center">
-<br/>12</td>
+<td align="center">Bordeaux-II <br/>
+</td>
+<td align="center">12<br/>
+</td>
+<td align="center">7<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Limoges </td>
-<td align="center">
-<br/>3</td>
-<td align="center">
-<br/>3</td>
+<td align="center">Brest <br/>
+</td>
+<td align="center">4<br/>
+</td>
+<td align="center">4<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Lyon-I </td>
-<td align="center">
-<br/>11</td>
-<td align="center">
-<br/>7</td>
+<td align="center">Caen <br/>
+</td>
+<td align="center">5<br/>
+</td>
+<td align="center">9<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Montpellier-I </td>
-<td align="center">
-<br/>6</td>
-<td align="center">
-<br/>5</td>
+<td align="center">Clermont-Ferrand-I <br/>
+</td>
+<td align="center">5<br/>
+</td>
+<td align="center">6<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Nancy-I </td>
-<td align="center">
-<br/>8</td>
-<td align="center">
-<br/>9</td>
+<td align="center">Dijon <br/>
+</td>
+<td align="center">5<br/>
+</td>
+<td align="center">9<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Nantes </td>
-<td align="center">
-<br/>5</td>
-<td align="center">
-<br/>9</td>
+<td align="center">Grenoble-I <br/>
+</td>
+<td align="center">5<br/>
+</td>
+<td align="center">4<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Nice </td>
-<td align="center">
-<br/>4</td>
-<td align="center">
-<br/>2</td>
+<td align="center">Lille-II + faculté libre de Lille<br/>
+</td>
+<td align="center">14<br/>
+</td>
+<td align="center">12<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>La Réunion</td>
-<td align="center">
-<br/>1</td>
-<td align="center">
-<br/>5</td>
+<td align="center">Limoges <br/>
+</td>
+<td align="center">3<br/>
+</td>
+<td align="center">3<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Poitiers </td>
-<td align="center">
-<br/>5</td>
-<td align="center">
-<br/>8</td>
+<td align="center">Lyon-I <br/>
+</td>
+<td align="center">11<br/>
+</td>
+<td align="center">7<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Reims </td>
-<td align="center">
-<br/>5</td>
-<td align="center">
-<br/>9</td>
+<td align="center">Montpellier-I <br/>
+</td>
+<td align="center">6<br/>
+</td>
+<td align="center">5<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Rennes-I </td>
-<td align="center">
-<br/>5</td>
-<td align="center">
-<br/>7</td>
+<td align="center">Nancy-I <br/>
+</td>
+<td align="center">8<br/>
+</td>
+<td align="center">9<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Rouen </td>
-<td align="center">
-<br/>6</td>
-<td align="center">
-<br/>10</td>
+<td align="center">Nantes <br/>
+</td>
+<td align="center">5<br/>
+</td>
+<td align="center">9<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Saint-Etienne </td>
-<td align="center">
-<br/>4</td>
-<td align="center">
-<br/>3</td>
+<td align="center">Nice <br/>
+</td>
+<td align="center">4<br/>
+</td>
+<td align="center">2<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Strasbourg-I </td>
-<td align="center">
-<br/>6</td>
-<td align="center">
-<br/>7</td>
+<td align="center">La Réunion<br/>
+</td>
+<td align="center">1<br/>
+</td>
+<td align="center">5<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Toulouse-III </td>
-<td align="center">
-<br/>7</td>
-<td align="center">
-<br/>6</td>
+<td align="center">Poitiers <br/>
+</td>
+<td align="center">5<br/>
+</td>
+<td align="center">8<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>Tours </td>
-<td align="center">
-<br/>6</td>
-<td align="center">
-<br/>9</td>
+<td align="center">Reims <br/>
+</td>
+<td align="center">5<br/>
+</td>
+<td align="center">9<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br/>  Total</td>
-<td align="center">
-<br/>200</td>
-<td align="center">
-<br/>200</td>
+<td align="center">Rennes-I <br/>
+</td>
+<td align="center">5<br/>
+</td>
+<td align="center">7<br/>
+</td>
 </tr>
+<tr>
+<td align="center">Rouen <br/>
+</td>
+<td align="center">6<br/>
+</td>
+<td align="center">10<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Saint-Etienne <br/>
+</td>
+<td align="center">4<br/>
+</td>
+<td align="center">3<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Strasbourg-I <br/>
+</td>
+<td align="center">6<br/>
+</td>
+<td align="center">7<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Toulouse-III <br/>
+</td>
+<td align="center">7<br/>
+</td>
+<td align="center">6<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Tours <br/>
+</td>
+<td align="center">6<br/>
+</td>
+<td align="center">9<br/>
+</td>
+</tr>
+<tr>
+<td align="center">Total<br/>
+</td>
+<td align="center">200<br/>
+</td>
+<td align="center">200<br/>
+</td>
+</tr>
+</tbody>
 </table>
 
-</div>
-<br/>
 </div>
