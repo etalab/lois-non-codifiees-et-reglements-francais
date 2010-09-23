@@ -22,11 +22,11 @@ Urgent élections.
 
 L'adresse de la préfecture, siège de la commission d'organisation des élections.
 
-Valable jusqu'au 13 octobre 2010.
+Valable valable jusqu'au 18 octobre 2010.
 
 Le cas échéant, une zone comportant un code-barres.
 
-Pour l'Alsace et la Moselle, la mention « Elections aux chambres régionales de métiers et de l'artisanat et aux chambres de métiers et de l'artisanat. » doit être remplacée par la mention « Elections à la chambre de métiers » pour l'élection à la chambre de métiers ou la mention « Elections à la commission des compagnons » pour l'élection à la commission des compagnons.
+Pour l'Alsace et la Moselle, la mention  Elections aux chambres régionales de métiers et de l'artisanat et aux chambres de métiers et de l'artisanat.  doit être remplacée par la mention  Elections à la chambre de métiers  pour l'élection à la chambre de métiers ou la mention  Elections à la commission des compagnons  pour l'élection à la commission des compagnons.
 
 Au verso, en caractères de couleur noire, l'emplacement permettant à l'électeur d'inscrire ses nom de famille et prénoms, la catégorie d'activité à laquelle il appartient (sauf pour l'Alsace et la Moselle) et sa signature.
 
