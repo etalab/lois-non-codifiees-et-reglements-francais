@@ -4,64 +4,34 @@ Le Conseil national de l'aide aux victimes est composé :
 
 1° Des ministres suivants, ou de leur représentant :
 
-Le garde des sceaux, ministre de la justice, représenté par le directeur des affaires criminelles et des grâces ;
+- le ministre de la justice, représenté par le chef du service de l'accès au droit et à la justice et de l'aide aux victimes ;
 
-Le ministre chargé de la santé ;
+- le ministre de l'intérieur ;
 
-Le ministre chargé de l'action sociale ;
+- le ministre chargé des affaires sociales ;
 
-Le ministre chargé des droits des femmes ;
-
-Le ministre de l'intérieur ;
-
-Le ministre de la défense ;
-
-Le ministre chargé de l'économie et des finances ;
-
-Le ministre chargé du budget ;
-
-Le ministre des affaires étrangères ;
-
-Le ministre chargé de l'éducation nationale ;
-
-Le ministre chargé de la fonction publique ;
-
-Le ministre chargé des transports ;
-
-Le ministre chargé du tourisme ;
-
-Le ministre chargé de la ville.
+- le ministre chargé de la santé ;
 
 2° De quatre élus :
 
-- un président de conseil régional, sur proposition de l'Association des régions de France ;
+- un député et un sénateur, désignés par le président de leur assemblée respective ;
 
 - un président de conseil général, sur proposition de l'Association des départements de France ;
 
 - un maire, sur proposition de l'Association des maires de France ;
 
-- un élu local, membre du Conseil national des villes, sur proposition de ce conseil.
+3° De six représentants d'associations œuvrant dans le domaine de l'aide aux victimes ;
 
-3° De douze personnalités désignées en raison de leur implication dans les politiques d'aide aux victimes d'infractions :
+4° De sept personnalités qualifiées :
 
-- un magistrat ;
+- deux magistrats ;
 
-- un commandant de groupement de gendarmerie départementale ;
-
-- un directeur départemental de la sécurité publique ;
-
-- le président de l'Institut national de l'aide aux victimes et de médiation ;
-
-- un avocat, sur proposition du Conseil national du barreau ;
-
-- un représentant du fonds d'action sociale, sur proposition du conseil d'administration de ce fonds ;
-
-- deux représentants des organisations professionnelles de l'assurance ;
+- un avocat désigné sur proposition du Conseil national du barreau ;
 
 - un médecin, expert en médecine légale ;
 
-- un psychologue ;
+- un chercheur ou enseignant-chercheur spécialisé en victimologie ;
 
-- un chercheur spécialisé en victimologie ;
+- deux représentants des organisations professionnelles de l'assurance ;
 
-- le président d'une association nationale oeuvrant en matière sociale en faveur des personnes défavorisées.
+5° Du directeur général du fonds de garantie des victimes des actes de terrorisme et d'autres infractions ou son représentant.
