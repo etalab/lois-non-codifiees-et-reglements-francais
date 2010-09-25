@@ -1,0 +1,3 @@
+# Article 48
+
+Pour la collecte des contributions prévues aux 1° à 5° de l'article L. 6332-7 du code du travail, exigibles avant le 1er mars 2012, les dossiers de demande d'agrément doivent être déposés avant le 1er septembre 2011. Les organismes collecteurs bénéficiaires de la dévolution des biens prévue à l'article R. 6332-20 du code du travail, dans le champ d'intervention géographique et professionnel ou interprofessionnel de ces derniers sont tenus d'exécuter les engagements de financement pris par les organismes dont les agréments expirent le 1er janvier 2012, en application des dispositions de l'article 43 de la loi du 24 novembre 2009 susvisée.

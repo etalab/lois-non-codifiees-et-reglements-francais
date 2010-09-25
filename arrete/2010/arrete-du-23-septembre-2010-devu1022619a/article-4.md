@@ -1,0 +1,3 @@
+# Article 4
+
+Pour l'instruction des dossiers satisfaisant à la condition mentionnée au premier alinéa de l'article 3, le ministre chargé du logement tient compte des éléments présents au dossier de demande d'agrément déposé par le pétitionnaire, des indicateurs mentionnés à l'article 1er ainsi que de tous autres éléments utiles de nature à établir l'importance de besoins en logements adaptés à la population non satisfaits, notamment des éléments d'expertise sur la situation du marché immobilier local et des éléments d'expertise relatifs à la conjoncture économique récente du bassin d'emploi de la commune.
