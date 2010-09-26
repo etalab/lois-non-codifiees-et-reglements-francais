@@ -1,0 +1,3 @@
+# Article 5
+
+Le déficit fourrager prévu au 7° du I de l'article R. 361-27 du code rural et de la pêche maritime s'applique à l'effectif d'équivalent vaches laitières de l'exploitation sinistrée présent à une date antérieure à celle de survenance du sinistre et postérieure au 1er janvier de l'année du sinistre. La valeur monétaire des unités fourragères constituant le déficit fourrager est fixée à 11 centimes d'euro par unité en zone de plaine, à 12 centimes d'euro par unité en zone défavorisée et à 14 centimes d'euro par unité en zone de montagne, telles que définies par le règlement n° 1698 / 2005 du 20 septembre 2005 susvisé.
