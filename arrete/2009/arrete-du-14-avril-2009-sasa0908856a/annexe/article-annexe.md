@@ -15,3 +15,7 @@ Centre d'éducation populaire et de sport d'Houlgate.
 Centre d'éducation populaire et de sport de Mâcon.
 
 Centre d'éducation populaire et de sport de Franche-Comté.
+
+Centre d'éducation populaire et de sport de Dinard.
+
+Centre d'éducation populaire et de sport de Rhône-Alpes, site de Voiron.
