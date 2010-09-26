@@ -1,15 +1,11 @@
 # Article 6
 
-La direction centrale des compagnies républicaines de sécurité comprend, en outre, directement rattachés au directeur central :
+La direction centrale des compagnies républicaines de sécurité comprend, outre le secrétariat particulier directement rattaché au directeur central, un bureau de coordination des services regroupant :
 
-― le secrétariat particulier ;
+- le secrétariat de direction ;
 
-― le bureau de coordination des services comprenant :
+- la brigade de direction ;
 
-― le secrétariat de direction ;
+- la cellule communication ;
 
-― la brigade de direction ;
-
-― la cellule communication ;
-
-― la cellule des problèmes humains.
+- la cellule des problèmes humains.

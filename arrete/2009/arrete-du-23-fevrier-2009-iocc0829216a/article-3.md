@@ -6,6 +6,8 @@ Elle élabore, par ailleurs, les principes de la participation des compagnies r�
 
 La sous-direction des opérations comprend :
 
-― le bureau de l'emploi et de la programmation ;
+- le bureau de l'emploi et de la programmation ;
 
-― le bureau de la sécurité routière et des missions spécialisées.
+- le bureau de la sécurité routière et des missions spécialisées ;
+
+- le bureau de la prospective et de la réflexion tactique.
