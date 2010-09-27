@@ -830,7 +830,7 @@ Bitumes spéciaux, zone industrielle, allée Paul-Sabatier, 27940 Aubevoye : de 
 
 Carel Fouche Industrie, 27940 Aubevoye, de 1936 à 1989 ;
 
-Compagnie des produits chimiques et matières colorantes (CPCMC), Francolor, Compagnie française des matières colorantes (CFMC), FMC, division des établissements Kuhlmann, Pechiney Ugine Kuhlmann, ICI, boulevard Dambourney, BP 4, 76350 Oissel : de 1919 à 1983 ;
+Compagnie des produits chimiques et matières colorantes (CPCMC), Francolor, Compagnie française des matières colorantes (CFMC), FMC, division des établissements Kuhlmann, Pechiney Ugine Kuhlmann, ICI, Crompton et Knowles, de 1919 à 1996 ;
 
 Etablissement Julin, filiale SIM, rue d'Elbeuf, 76100 Rouen, rue Méridienne, 76100 Rouen, avenue du Général-Leclerc, 76120 Le Grand-Quevilly, depuis sa création à 1980 ;
 
@@ -1039,6 +1039,8 @@ France Joints , zone industrielle, 1re avenue, 11e rue, îlot M, 06510 Carros : 
 FRIEDLANDER, boulevard du Progrès, 13014 Marseille, de 1960 à 1966 ", puis " 39-41, boulevard Sainte-Lucie, 13007 Marseille, de 1966 à 1988 ", puis " 550, rue Pierre-Berthier, parc de Pichaury, BP 348000, 13799 Aix-en-Provence : de 1988 à 1996 ;
 
 Isotec, 13, quai de Tourette, 13002 Marseille : de 1984 à 1999 ;
+
+Kuhlmann puis Société Ugine Kuhlmann puis Pechiney Ugine Kuhlmann-PUK puis Produits chimiques Ugine Kuhlmann-PCUK puis ELF Atochem, Usine de l'Estaque, 13016 Marseille : De 1916 à 1989 ;
 
 L'Aeraulique, le logis du Bonneau, quartier des Mourettes, 06270 Villeneuve-Loubet : de 1975 à 1989 ;
 
