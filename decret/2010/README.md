@@ -745,6 +745,7 @@
 - [Décret n°2010-1002 du 27 août 2010 (SASV1019784D)](decret-n2010-1002-du-27-aout-2010-sasv1019784d)
 - [Décret n°2010-1003 du 27 août 2010 (BCRS1018016D)](decret-n2010-1003-du-27-aout-2010-bcrs1018016d)
 - [Décret n°2010-102 du 27 janvier 2010 (IOCB0928725D)](decret-n2010-102-du-27-janvier-2010-iocb0928725d)
+- [Décret n°2010-1126 du 27 septembre 2010 (AGRT1021179D)](decret-n2010-1126-du-27-septembre-2010-agrt1021179d)
 - [Décret n°2010-404 du 27 avril 2010 (DEVT0928365D)](decret-n2010-404-du-27-avril-2010-devt0928365d)
 - [Décret n°2010-405 du 27 avril 2010 (DEVA1004005D)](decret-n2010-405-du-27-avril-2010-deva1004005d)
 - [Décret n°2010-411 du 27 avril 2010 (ECET0931594D)](decret-n2010-411-du-27-avril-2010-ecet0931594d)
