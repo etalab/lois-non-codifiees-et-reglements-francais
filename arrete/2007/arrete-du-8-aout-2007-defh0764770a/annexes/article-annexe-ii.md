@@ -1305,21 +1305,21 @@ Secrétaires administratifs
 <table>
 <tbody>
 <tr>
-<td rowspan="3" width="116">
+<td rowspan="3" width="103">
 <p align="center">Autorité assurant<br/>la présidence de la CAPL</p>
 </td>
-<td colspan="2" rowspan="3" width="273">
+<td rowspan="3" width="225">
 <p align="center">Compétence</p>
 </td>
-<td rowspan="3" width="97">
+<td rowspan="3" width="74">
 <p align="center">GRADES</p>
 </td>
-<td colspan="4" width="214">
+<td colspan="3" width="204">
 <p align="center">REPRÉSENTANTS</p>
 </td>
 </tr>
 <tr>
-<td colspan="3" width="116">
+<td colspan="2" width="106">
 <p align="center">Du personnel</p>
 </td>
 <td rowspan="2" width="98">
@@ -1327,18 +1327,18 @@ Secrétaires administratifs
 </td>
 </tr>
 <tr>
-<td colspan="2" width="58">
+<td width="48">
 <p align="center">Titulaires</p>
 </td>
-<td width="57">
+<td width="58">
 <p align="center">Suppléants</p>
 </td>
 </tr>
 <tr>
-<td colspan="8" valign="top" width="700"/>
+<td colspan="6" valign="top" width="607"/>
 </tr>
 <tr>
-<td colspan="2" rowspan="3" valign="top" width="116">
+<td rowspan="3" valign="top" width="103">
 <p align="center">CAPL/SA</p>
 <br/>
 <p align="center">Ile-de-France</p>
@@ -1346,7 +1346,7 @@ Secrétaires administratifs
 <p align="center">Présidence :</p>
 <p align="center">Le chef du service<br/>parisien de soutien<br/>de l'administration centrale</p>
 </td>
-<td rowspan="3" valign="top" width="272">
+<td rowspan="3" valign="top" width="225">
 <p>- Agents en fonction dans les organismes extérieurs implantés dans les départements suivants :</p>
 <p>Oise (60), à l'exception du centre du service national de Compiègne, Paris (75), Seine-et-Marne (77), Yvelines (78), Essonne (91), Hauts-de-Seine (92), Seine-Saint-Denis (93), Val-de-Marne (94), Val-d'Oise (95)</p>
 <p>- Agents en fonction dans les organismes implantés dans les départements et collectivités d'outre-mer</p>
@@ -1367,13 +1367,13 @@ Secrétaires administratifs
 <p>- Agents de toutes directions et de tous établissements relevant du périmètre de l'administration centrale</p>
 <p>- Personnels mis à disposition et gérés par l'administration centrale</p>
 </td>
-<td valign="top" width="97">
+<td valign="top" width="74">
 <p align="center">Secrétaire<br/>administratif de<br/>classe exceptionnelle</p>
 </td>
-<td valign="top" width="58">
+<td valign="top" width="48">
 <p align="center">2</p>
 </td>
-<td colspan="2" valign="top" width="58">
+<td valign="top" width="58">
 <p align="center">2</p>
 </td>
 <td rowspan="3" width="98">
@@ -1381,29 +1381,29 @@ Secrétaires administratifs
 </td>
 </tr>
 <tr>
-<td valign="top" width="97">
+<td valign="top" width="74">
 <p align="center">Secrétaire<br/>administratif de<br/>classe supérieure</p>
 </td>
-<td valign="top" width="58">
+<td valign="top" width="48">
 <p align="center">2</p>
 </td>
-<td colspan="2" valign="top" width="58">
+<td valign="top" width="58">
 <p align="center">2</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="97">
+<td valign="top" width="74">
 <p align="center">Secrétaire<br/>administratif de<br/>classe normale</p>
 </td>
-<td valign="top" width="58">
+<td valign="top" width="48">
 <p align="center">2</p>
 </td>
-<td colspan="2" valign="top" width="58">
+<td valign="top" width="58">
 <p align="center">2</p>
 </td>
 </tr>
 <tr>
-<td colspan="2" rowspan="3" valign="top" width="116">
+<td rowspan="3" valign="top" width="103">
 <p align="center">CAPL/SA</p>
 <br/>
 <p align="center">BREST</p>
@@ -1411,7 +1411,7 @@ Secrétaires administratifs
 <p align="center">Présidence :</p>
 <p align="center">Le directeur du centre ministériel de gestion<br/>de Brest</p>
 </td>
-<td rowspan="3" valign="top" width="272">
+<td rowspan="3" valign="top" width="225">
 <p>- Agents en fonction dans les organismes implantés dans le département suivant :</p>
 <p>Finistère (29), à l'exception du centre du service national de Brest</p>
 <p>- Agents en fonction dans les organismes du ministère de la défense situés à Lorient (56)</p>
@@ -1421,13 +1421,13 @@ Secrétaires administratifs
 <p>Ecole nationale supérieure des ingénieurs des études et techniques d'armement</p>
 <p>Service hydrographique et océanographique de la Marine</p>
 </td>
-<td valign="top" width="97">
+<td valign="top" width="74">
 <p align="center">Secrétaire<br/>administratif de<br/>classe exceptionnelle</p>
 </td>
-<td valign="top" width="58">
+<td valign="top" width="48">
 <p align="center">2</p>
 </td>
-<td colspan="2" valign="top" width="58">
+<td valign="top" width="58">
 <p align="center">2</p>
 </td>
 <td rowspan="3" width="98">
@@ -1435,29 +1435,29 @@ Secrétaires administratifs
 </td>
 </tr>
 <tr>
-<td valign="top" width="97">
+<td valign="top" width="74">
 <p align="center">Secrétaire<br/>administratif de<br/>classe supérieure</p>
 </td>
-<td valign="top" width="58">
+<td valign="top" width="48">
 <p align="center">2</p>
 </td>
-<td colspan="2" valign="top" width="58">
+<td valign="top" width="58">
 <p align="center">2</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="97">
+<td valign="top" width="74">
 <p align="center">Secrétaire<br/>administratif de<br/>classe normale</p>
 </td>
-<td valign="top" width="58">
+<td valign="top" width="48">
 <p align="center">2</p>
 </td>
-<td colspan="2" valign="top" width="58">
+<td valign="top" width="58">
 <p align="center">2</p>
 </td>
 </tr>
 <tr>
-<td colspan="2" rowspan="3" valign="top" width="116">
+<td rowspan="3" valign="top" width="103">
 <p align="center">CAPL/SA</p>
 <br/>
 <p align="center">METZ</p>
@@ -1465,7 +1465,7 @@ Secrétaires administratifs
 <p align="center">Présidence :</p>
 <p align="center">Le directeur du centre ministériel de gestion<br/>de Metz</p>
 </td>
-<td rowspan="3" valign="top" width="272">
+<td rowspan="3" valign="top" width="225">
 <p>- Agents en fonction dans les organismes implantés dans les départements suivants :</p>
 <p>Aisne (02)</p>
 <p>Ardennes (08)</p>
@@ -1492,13 +1492,13 @@ Secrétaires administratifs
 <p>- Agents en fonction au sein du centre du service national de Compiègne</p>
 <p>- Agents en fonction au sein du service des essences des armées</p>
 </td>
-<td valign="top" width="97">
+<td valign="top" width="74">
 <p align="center">Secrétaire<br/>administratif de<br/>classe exceptionnelle</p>
 </td>
-<td valign="top" width="58">
+<td valign="top" width="48">
 <p align="center">2</p>
 </td>
-<td colspan="2" valign="top" width="58">
+<td valign="top" width="58">
 <p align="center">2</p>
 </td>
 <td rowspan="3" width="98">
@@ -1506,29 +1506,29 @@ Secrétaires administratifs
 </td>
 </tr>
 <tr>
-<td valign="top" width="97">
+<td valign="top" width="74">
 <p align="center">Secrétaire<br/>administratif de<br/>classe supérieure</p>
 </td>
-<td valign="top" width="58">
+<td valign="top" width="48">
 <p align="center">2</p>
 </td>
-<td colspan="2" valign="top" width="58">
+<td valign="top" width="58">
 <p align="center">2</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="97">
+<td valign="top" width="74">
 <p align="center">Secrétaire<br/>administratif de<br/>classe normale</p>
 </td>
-<td valign="top" width="58">
+<td valign="top" width="48">
 <p align="center">2</p>
 </td>
-<td colspan="2" valign="top" width="58">
+<td valign="top" width="58">
 <p align="center">2</p>
 </td>
 </tr>
 <tr>
-<td colspan="2" rowspan="3" valign="top" width="116">
+<td rowspan="3" valign="top" width="103">
 <p align="center">CAPL/SA</p>
 <br/>
 <p align="center">BORDEAUX</p>
@@ -1536,7 +1536,7 @@ Secrétaires administratifs
 <p align="center">Présidence :</p>
 <p align="center">Le directeur du centre ministériel de gestion<br/>de Bordeaux</p>
 </td>
-<td rowspan="3" valign="top" width="272">
+<td rowspan="3" valign="top" width="225">
 <p>- Agents en fonction dans les organismes implantés dans les départements suivants :</p>
 <p>Ariège (09)</p>
 <p>Aveyron (12)</p>
@@ -1562,13 +1562,13 @@ Secrétaires administratifs
 <p>- Agents en fonction au sein de l'établissement public suivant :</p>
 <p>Institut supérieur de l'aéronautique</p>
 </td>
-<td valign="top" width="97">
+<td valign="top" width="74">
 <p align="center">Secrétaire<br/>administratif de<br/>classe exceptionnelle</p>
 </td>
-<td valign="top" width="58">
+<td valign="top" width="48">
 <p align="center">1</p>
 </td>
-<td colspan="2" valign="top" width="58">
+<td valign="top" width="58">
 <p align="center">1</p>
 </td>
 <td rowspan="3" width="98">
@@ -1576,29 +1576,29 @@ Secrétaires administratifs
 </td>
 </tr>
 <tr>
-<td valign="top" width="97">
+<td valign="top" width="74">
 <p align="center">Secrétaire<br/>administratif de<br/>classe supérieure</p>
 </td>
-<td valign="top" width="58">
+<td valign="top" width="48">
 <p align="center">2</p>
 </td>
-<td colspan="2" valign="top" width="58">
+<td valign="top" width="58">
 <p align="center">2</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="97">
+<td valign="top" width="74">
 <p align="center">Secrétaire<br/>administratif de<br/>classe normale</p>
 </td>
-<td valign="top" width="58">
+<td valign="top" width="48">
 <p align="center">2</p>
 </td>
-<td colspan="2" valign="top" width="58">
+<td valign="top" width="58">
 <p align="center">2</p>
 </td>
 </tr>
 <tr>
-<td colspan="2" rowspan="3" valign="top" width="116">
+<td rowspan="3" valign="top" width="103">
 <p align="center">CAPL/SA</p>
 <br/>
 <p align="center">RENNES</p>
@@ -1606,7 +1606,7 @@ Secrétaires administratifs
 <p align="center">Présidence :</p>
 <p align="center">Le directeur du centre ministériel de gestion<br/>de Rennes</p>
 </td>
-<td rowspan="3" valign="top" width="272">
+<td rowspan="3" valign="top" width="225">
 <p>- Agents en fonction dans les organismes implantés dans les départements suivants :</p>
 <p>Calvados (14)</p>
 <p>Cher (18)</p>
@@ -1631,13 +1631,13 @@ Secrétaires administratifs
 <p>Vendée (85)</p>
 <p>- Agents en fonction au centre du service national de Brest</p>
 </td>
-<td valign="top" width="97">
+<td valign="top" width="74">
 <p align="center">Secrétaire<br/>administratif de<br/>classe exceptionnelle</p>
 </td>
-<td valign="top" width="58">
+<td valign="top" width="48">
 <p align="center">2</p>
 </td>
-<td colspan="2" valign="top" width="58">
+<td valign="top" width="58">
 <p align="center">2</p>
 </td>
 <td rowspan="3" width="98">
@@ -1645,29 +1645,29 @@ Secrétaires administratifs
 </td>
 </tr>
 <tr>
-<td valign="top" width="97">
+<td valign="top" width="74">
 <p align="center">Secrétaire<br/>administratif de<br/>classe supérieure</p>
 </td>
-<td valign="top" width="58">
+<td valign="top" width="48">
 <p align="center">2</p>
 </td>
-<td colspan="2" valign="top" width="58">
+<td valign="top" width="58">
 <p align="center">2</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="97">
+<td valign="top" width="74">
 <p align="center">Secrétaire<br/>administratif de<br/>classe normale</p>
 </td>
-<td valign="top" width="58">
+<td valign="top" width="48">
 <p align="center">2</p>
 </td>
-<td colspan="2" valign="top" width="58">
+<td valign="top" width="58">
 <p align="center">2</p>
 </td>
 </tr>
 <tr>
-<td colspan="2" rowspan="3" valign="top" width="116">
+<td rowspan="3" valign="top" width="103">
 <p align="center">CAPL/SA</p>
 <br/>
 <p align="center">LYON</p>
@@ -1675,7 +1675,7 @@ Secrétaires administratifs
 <p align="center">Présidence :</p>
 <p align="center">Le directeur du centre ministériel de gestion<br/>de Lyon</p>
 </td>
-<td rowspan="3" valign="top" width="272">
+<td rowspan="3" valign="top" width="225">
 <p>- Agents en fonction dans les organismes implantés dans les départements suivants :</p>
 <p>Ain (01)</p>
 <p>Allier ( 03)</p>
@@ -1695,13 +1695,13 @@ Secrétaires administratifs
 <p>centre du service national Marseille</p>
 <p>centre du service national Perpignan</p>
 </td>
-<td valign="top" width="97">
+<td valign="top" width="74">
 <p align="center">Secrétaire<br/>administratif de<br/>classe exceptionnelle</p>
 </td>
-<td valign="top" width="58">
+<td valign="top" width="48">
 <p align="center">2</p>
 </td>
-<td colspan="2" valign="top" width="58">
+<td valign="top" width="58">
 <p align="center">2</p>
 </td>
 <td rowspan="3" width="98">
@@ -1709,29 +1709,29 @@ Secrétaires administratifs
 </td>
 </tr>
 <tr>
-<td valign="top" width="97">
+<td valign="top" width="74">
 <p align="center">Secrétaire<br/>administratif de<br/>classe supérieure</p>
 </td>
-<td valign="top" width="58">
+<td valign="top" width="48">
 <p align="center">2</p>
 </td>
-<td colspan="2" valign="top" width="58">
+<td valign="top" width="58">
 <p align="center">2</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="97">
+<td valign="top" width="74">
 <p align="center">Secrétaire<br/>administratif de<br/>classe normale</p>
 </td>
-<td valign="top" width="58">
+<td valign="top" width="48">
 <p align="center">2</p>
 </td>
-<td colspan="2" valign="top" width="58">
+<td valign="top" width="58">
 <p align="center">2</p>
 </td>
 </tr>
 <tr>
-<td colspan="2" rowspan="3" valign="top" width="116">
+<td rowspan="3" valign="top" width="103">
 <p align="center">CAPL/SA</p>
 <br/>
 <p align="center">TOULON</p>
@@ -1739,7 +1739,7 @@ Secrétaires administratifs
 <p align="center">Présidence :</p>
 <p align="center">Le directeur du centre ministériel de gestion<br/>de Toulon</p>
 </td>
-<td rowspan="3" valign="top" width="272">
+<td rowspan="3" valign="top" width="225">
 <p>- Agents en fonction dans les organismes implantés dans les départements suivants :</p>
 <p>Corse-du-Sud (2A)</p>
 <p>Haute-Corse (2B)</p>
@@ -1765,13 +1765,13 @@ Secrétaires administratifs
 <p>Centre de prestations de proximité des ressources humaines</p>
 <p>DGA techniques navales</p>
 </td>
-<td valign="top" width="97">
+<td valign="top" width="74">
 <p align="center">Secrétaire<br/>administratif de<br/>classe exceptionnelle</p>
 </td>
-<td valign="top" width="58">
+<td valign="top" width="48">
 <p align="center">2</p>
 </td>
-<td colspan="2" valign="top" width="58">
+<td valign="top" width="58">
 <p align="center">2</p>
 </td>
 <td rowspan="3" width="98">
@@ -1779,29 +1779,29 @@ Secrétaires administratifs
 </td>
 </tr>
 <tr>
-<td valign="top" width="97">
+<td valign="top" width="74">
 <p align="center">Secrétaire<br/>administratif de<br/>classe supérieure</p>
 </td>
-<td valign="top" width="58">
+<td valign="top" width="48">
 <p align="center">2</p>
 </td>
-<td colspan="2" valign="top" width="58">
+<td valign="top" width="58">
 <p align="center">2</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="97">
+<td valign="top" width="74">
 <p align="center">Secrétaire<br/>administratif de<br/>classe normale</p>
 </td>
-<td valign="top" width="58">
+<td valign="top" width="48">
 <p align="center">2</p>
 </td>
-<td colspan="2" valign="top" width="58">
+<td valign="top" width="58">
 <p align="center">2</p>
 </td>
 </tr>
 <tr>
-<td colspan="2" rowspan="3" valign="top" width="116">
+<td rowspan="3" valign="top" width="103">
 <p align="center">CAPL/SA</p>
 <br/>
 <p align="center">CNMSS</p>
@@ -1809,16 +1809,16 @@ Secrétaires administratifs
 <p align="center">Présidence :</p>
 <p align="center">Le directeur de la caisse nationale militaire<br/>de sécurité sociale</p>
 </td>
-<td rowspan="3" valign="top" width="272">
+<td rowspan="3" valign="top" width="225">
 <p>- Agents en fonction au sein de la caisse nationale militaire de sécurité sociale (CNMSS)</p>
 </td>
-<td valign="top" width="97">
+<td valign="top" width="74">
 <p align="center">Secrétaire<br/>administratif de<br/>classe exceptionnelle</p>
 </td>
-<td valign="top" width="58">
+<td valign="top" width="48">
 <p align="center">2</p>
 </td>
-<td colspan="2" valign="top" width="58">
+<td valign="top" width="58">
 <p align="center">2</p>
 </td>
 <td rowspan="3" width="98">
@@ -1826,29 +1826,29 @@ Secrétaires administratifs
 </td>
 </tr>
 <tr>
-<td valign="top" width="97">
+<td valign="top" width="74">
 <p align="center">Secrétaire<br/>administratif de<br/>classe supérieure</p>
 </td>
-<td valign="top" width="58">
+<td valign="top" width="48">
 <p align="center">2</p>
 </td>
-<td colspan="2" valign="top" width="58">
+<td valign="top" width="58">
 <p align="center">2</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="97">
+<td valign="top" width="74">
 <p align="center">Secrétaire<br/>administratif de<br/>classe normale</p>
 </td>
-<td valign="top" width="58">
+<td valign="top" width="48">
 <p align="center">2</p>
 </td>
-<td colspan="2" valign="top" width="58">
+<td valign="top" width="58">
 <p align="center">2</p>
 </td>
 </tr>
 <tr>
-<td colspan="2" rowspan="3" valign="top" width="116">
+<td rowspan="3" valign="top" width="103">
 <p align="center">CAPL/TMD</p>
 <br/>
 <p align="center">NORD</p>
@@ -1856,7 +1856,7 @@ Secrétaires administratifs
 <p align="center">Présidence :</p>
 <p align="center">Le directeur du centre ministériel de gestion<br/>de Rennes</p>
 </td>
-<td rowspan="3" valign="top" width="272">
+<td rowspan="3" valign="top" width="225">
 <p>- Agents en fonction dans les organismes implantés dans les départements suivants :</p>
 <p>Aisne (02), Ardennes (08), Aube ( 10), Calvados (14), Cher (18), Côte-d'Or (21), Côtes-d'Armor (22), Doubs (25), Eure (27), Eure-et-Loir (28), Finistère (29), Ille-et-Vilaine (35), Indre (36), Indre-et-Loire (37), Jura (39), Loir-et-Cher (41), Loire-Atlantique (44), Loiret (45), Maine-et-Loire (49), Manche (50), Marne (51), Haute-Marne (52), Mayenne (53), Meurthe-et-Moselle (54), Meuse (55), Morbihan (56), Moselle (57), Nièvre (58), Nord (59), Orne (61), Pas-de-Calais (62), Bas-Rhin (67), Haut-Rhin (68), Haute-Saône (70), Saône-et-Loire (71), Sarthe (72), Seine-Maritime (76), Somme (80), Vendée (85), Vosges (88), Yonne (89), Territoire de Belfort (90)</p>
 <p>- Agents en fonction au sein du centre du service national de Compiègne</p>
@@ -1865,13 +1865,13 @@ Secrétaires administratifs
 <p>Ecole nationale supérieure des ingénieurs des études et techniques d'armement</p>
 <p>Service hydrographique et océanographique de la Marine</p>
 </td>
-<td valign="top" width="97">
+<td valign="top" width="74">
 <p align="center">Techniciens de<br/>classe exceptionnelle</p>
 </td>
-<td valign="top" width="58">
+<td valign="top" width="48">
 <p align="center">2</p>
 </td>
-<td colspan="2" valign="top" width="58">
+<td valign="top" width="58">
 <p align="center">2</p>
 </td>
 <td rowspan="3" width="98">
@@ -1879,29 +1879,111 @@ Secrétaires administratifs
 </td>
 </tr>
 <tr>
-<td valign="top" width="97">
+<td valign="top" width="74">
 <p align="center">Techniciens de<br/>classe supérieure</p>
 </td>
-<td valign="top" width="58">
+<td valign="top" width="48">
 <p align="center">2</p>
 </td>
-<td colspan="2" valign="top" width="58">
+<td valign="top" width="58">
 <p align="center">2</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="97">
+<td valign="top" width="74">
 <p align="center">Techniciens de<br/>classe normale</p>
 </td>
-<td valign="top" width="58">
+<td valign="top" width="48">
 <p align="center">2</p>
 </td>
-<td colspan="2" valign="top" width="58">
+<td valign="top" width="58">
 <p align="center">2</p>
 </td>
 </tr>
 <tr>
-<td colspan="2" rowspan="3" valign="top" width="116">
+<td align="left" rowspan="4" valign="top">
+<p>CAPL / TMD</p>
+<p>Ile-de-France</p>
+<p>Présidence : </p>
+<p>Le chef du service parisien de soutien de l'administration centrale</p>
+</td>
+<td>
+<p>Agents en fonctions dans les organismes extérieurs implantés dans les départements suivants : Oise (60), à l'exception du centre du service national de Compiègne, Paris (75), Seine-et-Marne (77), Yvelines (78), Essonne (91), Hauts-de-Seine (92), Seine-Saint-Denis (93), Val-de-Marne (94) et Val-d'Oise (95)</p>
+</td>
+<td valign="top" width="74">
+<br/>
+</td>
+<td valign="top" width="48">
+<br/>
+</td>
+<td valign="top" width="58">
+<br/>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Agents en fonctions dans les organismes implantés dans les départements et collectivités d'outre-mer</p>
+</td>
+<td valign="top" width="74">
+<p align="center">Technicien de classe exceptionnelle</p>
+</td>
+<td valign="top" width="48">
+<p align="center">2</p>
+</td>
+<td valign="top" width="58">
+<p align="center">2</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Agents affectés à l'étranger </p>
+<p>Agents en fonctions dans les sociétés DCNs, GIAT et au sein du Commissariat à l'énergie atomique </p>
+<p>Agents en fonctions au sein de la direction de la protection et de la sécurité de la défense</p>
+</td>
+<td valign="top" width="74">
+<p align="center">Technicien de classe supérieure</p>
+</td>
+<td valign="top" width="48">
+<p align="center">2</p>
+</td>
+<td valign="top" width="58">
+<p>2</p>
+</td>
+<td>
+<p>6 représentants titulaires et 6 représentants suppléants</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Agents en fonctions au sein des établissements publics suivants : </p>
+<p>- Institution nationale des invalides ; </p>
+<p>Musée de l'armée ; </p>
+<p>- musée de l'air et de l'espace ; </p>
+<p>- musée de la marine ; </p>
+<p>- établissement de communication et de production audiovisuelle de la défense ; </p>
+<p>- Office national des anciens combattants ; </p>
+<p>- Ecole polytechnique ; </p>
+<p>- Ecole nationale supérieure des techniques avancées ; </p>
+<p>- Etablissement public d'insertion de la défense ; </p>
+<p>- Institut des hautes études de défense nationale ; </p>
+<p>Agents de toutes directions et de tous établissements relevant du périmètre de l'administration centrale. </p>
+<p>Personnels mis à disposition et administrés par les personnels de l'administration centrale.</p>
+</td>
+<td valign="top" width="74">
+<p align="center">Technicien de classe normale</p>
+</td>
+<td valign="top" width="48">
+<p align="center">2</p>
+</td>
+<td valign="top" width="58">
+<p>2</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td rowspan="3" valign="top" width="103">
 <p align="center">CAPL/TMD</p>
 <br/>
 <p align="center">SUD</p>
@@ -1909,7 +1991,7 @@ Secrétaires administratifs
 <p align="center">Présidence :</p>
 <p align="center">Le directeur du centre ministériel de gestion<br/>de Lyon</p>
 </td>
-<td rowspan="3" valign="top" width="272">
+<td rowspan="3" valign="top" width="225">
 <p>- Agents en fonction dans les organismes implantés dans les départements suivants : Ain (01), Corse-du-Sud (2A), Haute-Corse (2B), Allier (03), Alpes-de-Haute-Provence (04), Hautes-Alpes (05), Alpes-Maritimes (06), Ardèche (07), Ariège (09), Aude (11), Aveyron (12), Bouches-du-Rhône (13), Cantal (15), Charente (16), Charente-Maritime (17), Corrèze (19), Creuse (23), Dordogne (24), Drôme (26), Gard (30), Haute-Garonne (31), Gers (32), Gironde (33), Hérault (34), Isère (38), Landes (40), Loire (42), Haute-Loire (43), Lot (46), Lot-et-Garonne (47), Lozère (48), Puy-de-Dôme (63), Pyrénées-Atlantiques (64), Hautes-Pyrénées (65), Pyrénées-Orientales (66), Rhône (69), Savoie (73), Haute-Savoie (74), Deux-Sèvres (79), Tarn (81), Tarn-et-Garonne (82), Var (83), Vaucluse (84), Vienne (86), Haute-Vienne (87)</p>
 <p>- Agents en fonction dans les organismes extérieurs de la direction générale de l'armement suivants :</p>
 <p>DGA essais de missiles</p>
@@ -1925,13 +2007,13 @@ Secrétaires administratifs
 <p>- Agents en fonction au sein de l'établissement public suivant :</p>
 <p>Institut supérieur de l'aéronautique</p>
 </td>
-<td valign="top" width="97">
+<td valign="top" width="74">
 <p align="center">Techniciens de<br/>classe exceptionnelle</p>
 </td>
-<td valign="top" width="58">
+<td valign="top" width="48">
 <p align="center">2</p>
 </td>
-<td colspan="2" valign="top" width="58">
+<td valign="top" width="58">
 <p align="center">2</p>
 </td>
 <td rowspan="3" width="98">
@@ -1939,24 +2021,24 @@ Secrétaires administratifs
 </td>
 </tr>
 <tr>
-<td valign="top" width="97">
+<td valign="top" width="74">
 <p align="center">Techniciens de<br/>classe supérieure</p>
 </td>
-<td valign="top" width="58">
+<td valign="top" width="48">
 <p align="center">2</p>
 </td>
-<td colspan="2" valign="top" width="58">
+<td valign="top" width="58">
 <p align="center">2</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="97">
+<td valign="top" width="74">
 <p align="center">Techniciens de<br/>classe normale</p>
 </td>
-<td valign="top" width="58">
+<td valign="top" width="48">
 <p align="center">2</p>
 </td>
-<td colspan="2" valign="top" width="58">
+<td valign="top" width="58">
 <p align="center">2</p>
 </td>
 </tr>
@@ -2465,6 +2547,15 @@ Techniciens supérieurs d'études et de fabrication
 <td valign="top" width="58">
 <p align="center">2</p>
 </td>
+</tr>
+<tr>
+<td width="99"/>
+<td width="1"/>
+<td width="216"/>
+<td width="86"/>
+<td width="55"/>
+<td width="58"/>
+<td width="92"/>
 </tr>
 </tbody>
 </table>
