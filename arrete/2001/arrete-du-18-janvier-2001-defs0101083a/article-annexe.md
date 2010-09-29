@@ -1,7 +1,6 @@
 # Article Annexe
 
-**LISTE DES AUTORITÉS BÉNÉFICIANT**
-**D'UN LOGEMENT DE REPRÉSENTATION**
+LISTE DES AUTORITÉS BÉNÉFICIANT D'UN LOGEMENT DE REPRÉSENTATION
 
 Chef d'état-major des armées.
 
@@ -110,6 +109,10 @@ Général commandant la 2e brigade blindée.
 Général commandant suprême allié transformation à Norfolk (Etats-Unis d'Amérique).
 
 Général commandant des forces alliées à Lisbonne (Portugal).
+
+Général commandant adjoint du commandement de composante air d'Izmir (Turquie).
+
+Général chef de la mission militaire de la représentation permanente de la France auprès de l'OTAN à Bruxelles (Belgique) et chef de la représentation militaire française auprès du comité militaire de l'Union européenne.
 
 Général commandant les forces françaises stationnées à Djibouti.
 
