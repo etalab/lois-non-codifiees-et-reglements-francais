@@ -1,0 +1,3 @@
+# Article 1
+
+L'offre de transport public complémentaire du nouveau réseau, disponible à partir de ses gares, dont fait état le schéma d'ensemble en application du neuvième alinéa de l'article 2 de la loi du 3 juin 2010 susvisée, est constituée de l'ensemble des moyens de transport public en site propre desservant les gares prévues par le schéma, existants ou résultant de projets approuvés par le Syndicat des transports d'Ile-de-France à la date de publication de l'acte motivé prévu au V de l'article 3 de cette loi. Le schéma d'ensemble peut, en outre, recommander tout projet qui s'avérerait complémentaire de la réalisation du réseau de transport public du Grand Paris, sans préjudice des compétences du syndicat susmentionné.
