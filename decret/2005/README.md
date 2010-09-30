@@ -29,6 +29,7 @@
 - [Décret n°2005-765 du 8 juillet 2005 (INDI0505292D)](decret-n2005-765-du-8-juillet-2005-indi0505292d)
 - [Décret n°2005-99 du 8 février 2005 (INTE0500009D)](decret-n2005-99-du-8-fevrier-2005-inte0500009d)
 - [Décret n°2004-1350 du 9 décembre 2004 (MCCX0400194D)](decret-n2004-1350-du-9-decembre-2004-mccx0400194d)
+- [Décret n°2005-958 du 9 août 2005 (BUDD0570011D)](decret-n2005-958-du-9-aout-2005-budd0570011d)
 - [Décret n°2005-436 du 9 mai 2005 (ECOX0400297D)](decret-n2005-436-du-9-mai-2005-ecox0400297d)
 - [Décret n°2005-118 du 10 février 2005 (SANA0520177D)](decret-n2005-118-du-10-fevrier-2005-sana0520177d)
 - [Décret n°2005-1396 du 10 novembre 2005 (MCCK0500402D)](decret-n2005-1396-du-10-novembre-2005-mcck0500402d)
