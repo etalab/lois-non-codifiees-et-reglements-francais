@@ -3036,7 +3036,6 @@
 - [Arrêté du 30 septembre 2009 (AGRG0922547A)](arrete-du-30-septembre-2009-agrg0922547a)
 - [Arrêté du 30 septembre 2009 (AGRM0921439A)](arrete-du-30-septembre-2009-agrm0921439a)
 - [Arrêté du 30 septembre 2009 (DEVK0922950A)](arrete-du-30-septembre-2009-devk0922950a)
-- [Arrêté du 30 septembre 2009 (ECEC0918404A)](arrete-du-30-septembre-2009-ecec0918404a)
 - [Arrêté du 30 septembre 2009 (ESRS0922899A)](arrete-du-30-septembre-2009-esrs0922899a)
 - [Arrêté du 30 septembre 2009 (IOCO0922854A)](arrete-du-30-septembre-2009-ioco0922854a)
 - [Arrêté du 30 septembre 2009 (MAEA0902769A)](arrete-du-30-septembre-2009-maea0902769a)
