@@ -22,8 +22,6 @@ Secrétaires administratifs des services déconcentrés de l'agriculture.
 
 Secrétaires administratifs de l'intérieur et de l'outre-mer.
 
-Secrétaires administratifs de l'éducation nationale et de l'enseignement supérieur.
-
 Secrétaires administratifs de l'Office national des forêts.
 
 Secrétaires d'administration de la Caisse des dépôts et consignations.

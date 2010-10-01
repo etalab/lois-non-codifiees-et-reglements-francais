@@ -26,15 +26,13 @@ b) Corps d'établissements publics de l'Etat :
 
 - assistants d'administration de l'aviation civile ;
 
-- secrétaires administratifs du ministère de la défense.
+- secrétaires administratifs du ministère de la défense ;
 
-- secrétaires administratifs du ministère de la culture et de la communication.
+- secrétaires administratifs du ministère de la culture et de la communication ;
 
-- secrétaires administratifs de l'équipement.
+- secrétaires administratifs de l'équipement ;
 
-- secrétaires administratifs de l'éducation nationale et de l'enseignement supérieur.
-
-- secrétaires administratifs du ministère de la justice. Les membres de ce corps peuvent exercer leurs fonctions dans les services et les établissements publics relevant du ministère de la justice ainsi qu'à la grande chancellerie de la Légion d'honneur.
+- secrétaires administratifs du ministère de la justice. Les membres de ce corps peuvent exercer leurs fonctions dans les services et les établissements publics relevant du ministère de la justice ainsi qu'à la grande chancellerie de la Légion d'honneur ;
 
 - secrétaires administratifs relevant des ministres chargés des affaires sociales ;
 
