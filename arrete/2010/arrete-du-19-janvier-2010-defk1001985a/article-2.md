@@ -9,18 +9,19 @@ Concours A : mars 2010
 <table>
 <tbody>
 <tr>
-<th>CORPS<br/>
-</th>
-<th>DISCIPLINES<br/>
-</th>
-<th>NOMBRE DE POSTES<br/>
-</th>
+<td>
+<p align="center"> CORPS</p>
+</td>
+<td>
+<p align="center"> DISCIPLINES</p>
+</td>
+<td>
+<p align="center"> NOMBRE DE POSTES</p>
+</td>
 </tr>
 <tr>
 <td align="center" rowspan="3">
-<br/>Médecins des armées<br/>
-<br/>
-</td>
+<br/>Médecins des armées</td>
 <td align="center">Gynécologie obstétrique<br/>
 </td>
 <td align="center">1<br/>
@@ -46,24 +47,19 @@ Concours B : juin 2010
 <table>
 <tbody>
 <tr>
-<th>CORPS<br/>
-</th>
-<th>DISCIPLINES<br/>
-</th>
-<th>NOMBRE DE POSTES<br/>
-</th>
+<td>
+<p align="center"> CORPS</p>
+</td>
+<td>
+<p align="center"> DISCIPLINES</p>
+</td>
+<td>
+<p align="center"> NOMBRE DE POSTES</p>
+</td>
 </tr>
 <tr>
 <td align="center" rowspan="10">
-<br/>
-<br/>
-<br/>
-<br/>Médecins des armées<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<p>Médecins des armées</p>
 </td>
 <td align="center">Anatomie et cytologie pathologiques<br/>
 </td>
@@ -132,15 +128,15 @@ Concours C : septembre 2010
 <table>
 <tbody>
 <tr>
-<th>
-<br/>CORPS<br/>
-</th>
-<th>
-<br/>DISCIPLINES<br/>
-</th>
-<th>
-<br/>NOMBRE DE POSTES<br/>
-</th>
+<td>
+<p align="center"> CORPS</p>
+</td>
+<td>
+<p align="center"> DISCIPLINES</p>
+</td>
+<td>
+<p align="center"> NOMBRE DE POSTES</p>
+</td>
 </tr>
 <tr>
 <td align="center">
@@ -151,6 +147,46 @@ Concours C : septembre 2010
 </td>
 <td align="center">
 <br/>1<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Pharmacien des armées<br/>
+</td>
+<td align="center">
+<br/>Biologie clinique<br/>
+</td>
+<td align="center">
+<br/>1<br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+Concours D : novembre 2010
+
+<table>
+<tbody>
+<tr>
+<td>
+<p align="center"> CORPS</p>
+</td>
+<td>
+<p align="center"> DISCIPLINES</p>
+</td>
+<td>
+<p align="center"> NOMBRE DE POSTES</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Médecin des armées<br/>
+</td>
+<td align="center">
+<br/>Radiodiagnostic et imagerie médicale<br/>
+</td>
+<td align="center">
+<br/>2<br/>
 </td>
 </tr>
 <tr>
