@@ -1,0 +1,3 @@
+# Article 5
+
+En cas de non-renouvellement, l'autorité investie du pouvoir de nomination notifie sa décision au praticien par lettre recommandée avec avis de réception deux mois au moins avant l'échéance de la période en cours. La décision est prise après avis motivé du chef de pôle ou, à défaut, du responsable de la structure interne d'affectation du praticien et du président de la commission médicale d'établissement. Pour les praticiens hospitaliers et praticiens des hôpitaux à temps partiel, le directeur de l'établissement transmet ces avis à l'autorité investie du pouvoir de nomination, ainsi que son avis motivé, trois mois au moins avant l'échéance de la période en cours.
