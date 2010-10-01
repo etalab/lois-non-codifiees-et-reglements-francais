@@ -33,7 +33,6 @@
 - [Décret n°81-935 du 15 octobre 1981](decret-n81-935-du-15-octobre-1981)
 - [Décret du 16 octobre 1981](decret-du-16-octobre-1981)
 - [Décret n°81-1026 du 16 novembre 1981](decret-n81-1026-du-16-novembre-1981)
-- [Décret n°81-1031 du 16 novembre 1981](decret-n81-1031-du-16-novembre-1981)
 - [Décret n°81-1028 du 18 novembre 1981](decret-n81-1028-du-18-novembre-1981)
 - [Décret n°81-1043 du 18 novembre 1981](decret-n81-1043-du-18-novembre-1981)
 - [Décret n°81-787 du 18 août 1981](decret-n81-787-du-18-aout-1981)
