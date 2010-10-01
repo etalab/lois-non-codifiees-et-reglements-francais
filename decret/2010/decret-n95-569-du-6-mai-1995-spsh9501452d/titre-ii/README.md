@@ -9,3 +9,4 @@
 - [CHAPITRE IX : Discipline.](chapitre-ix)
 - [CHAPITRE X : Fin de contrat - Licenciement - Démission.](chapitre-x-fin)
 - [CHAPITRE XI : Indemnité de licenciement.](chapitre-xi)
+- [CHAPITRE XII : Dispositions applicables aux praticiens adjoints contractuels exerçant dans les établissements publics de santé des départements d'outre-mer de Mayotte, de Saint-Barthélemy, de Saint-Martin et de Saint-Pierre-et-Miquelon](chapitre-xii)
