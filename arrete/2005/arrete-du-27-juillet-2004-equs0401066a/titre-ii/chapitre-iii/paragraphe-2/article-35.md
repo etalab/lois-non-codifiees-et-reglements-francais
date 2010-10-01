@@ -1,3 +1,5 @@
 # Article 35
 
-Le réseau de contrôle de véhicules lourds est agréé pour une durée de dix ans renouvelable, lorsqu'il peut justifier du nombre minimum de centres de contrôle de véhicules lourds agréés fixé à l'article R. 323-8 du code de la route susvisé, et après qu'il a effectivement mis en place les moyens lui permettant de s'assurer du bon fonctionnement des installations de contrôle qui lui sont rattachées.
+Pour être agréé, un réseau de contrôle justifie du nombre minimum de centres de contrôle agréés fixé par l'article R. 323-8 du code de la route et met en place les moyens décrits dans son cahier des charges, lui permettant de s'assurer du bon fonctionnement des installations de contrôle qu'il exploite. Cet agrément est accordé pour dix ans.
+
+L'agrément peut être renouvelé sur demande adressée au ministre chargé des transports, accompagnée du dossier défini à l'annexe VII du présent arrêté.

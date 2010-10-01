@@ -2,7 +2,7 @@
 
 Il est dressé un procès-verbal de chaque contrôle technique. Ce document, qui doit être conforme aux dispositions de l'annexe II du présent arrêté, décrit notamment les contrôles effectués, les observations constatées et commentaires prévus à l'annexe I du présent arrêté.
 
-Ce procès-verbal, établi immédiatement à l'issue du contrôle technique et visé par le contrôleur qui l'a effectué, est remis à la personne qui présente le véhicule. Une copie du procès-verbal est conservée pendant une durée de deux ans par le centre de contrôle agréé ou par le centre de rattachement du contrôleur dans le cas d'une installation auxiliaire.
+Ce procès-verbal, établi immédiatement à l'issue du contrôle technique et visé par le contrôleur qui l'a effectué, est remis à la personne qui présente le véhicule. Une copie du procès-verbal est conservée pendant une durée de deux ans par le centre de contrôle agréé (six ans pour les véhicules de collection) ou, dans le cas particulier d'une installation auxiliaire, dans un centre de contrôle désigné par le réseau.
 
 Lorsque les conditions de présentation du véhicule ne permettent pas la réalisation du contrôle technique, le procès-verbal spécifie le ou les motifs du renvoi tel que prévu à l'annexe I du présent arrêté.
 

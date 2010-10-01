@@ -1,5 +1,7 @@
 # Article 10-1
 
-A l'issue d'une visite technique périodique favorable et lorsque le véhicule est équipé d'un pare-brise, le contrôleur appose une vignette, conforme aux dispositions de l'annexe 2 du présent arrêté, qui aura été préalablement poinçonnée afin d'indiquer le mois et l'année limites de validité.
+A l'issue de la visite technique périodique favorable, et lorsque le véhicule est équipé d'un pare-brise, le contrôleur appose une vignette conforme aux dispositions de l'annexe II du présent arrêté, indiquant le mois et l'année limites de validité du visa.
 
-La vignette doit être retirée et détruite par le contrôleur lors de la prochaine visite technique périodique.
+Lorsque le véhicule est déjà muni de la vignette visée au présent article ou à l'article 10-1 du présent arrêté, le contrôleur la retire et la détruit pendant le contrôle.
+
+Les véhicules de collection ne sont pas soumis aux dispositions du présent article.
