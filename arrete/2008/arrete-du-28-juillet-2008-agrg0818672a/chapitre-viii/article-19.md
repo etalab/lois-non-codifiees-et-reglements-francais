@@ -1,3 +1,3 @@
 # Article 19
 
-Conformément à l'article 4 de l'arrêté du 31 juillet 2000 modifié établissant la liste des organismes nuisibles aux végétaux, produits végétaux et autres objets soumis à des mesures de lutte obligatoire, des arrêtés préfectoraux précisent les modalités de mise en œuvre des articles 3, 4, 5, 6, 8, 11, 15, 16 et 17.
+Si, à l'issue de la mise en œuvre de la surveillance du territoire, ou en application de l'article 4 du présent arrêté, la présence de cet organisme a été mise en évidence dans une partie du territoire au cours de trois années consécutives et s'il apparaît qu'il n'est plus possible d'éradiquer l'organisme dans cette partie du territoire, il peut alors être défini une " zone de confinement ".
