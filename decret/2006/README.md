@@ -464,8 +464,6 @@
 - [Décret n°2006-743 du 27 juin 2006 (MENF0601139D)](decret-n2006-743-du-27-juin-2006-menf0601139d)
 - [Décret n°85-1390 du 27 décembre 1985](decret-n85-1390-du-27-decembre-1985)
 - [Décret n°92-835 du 27 août 1992 (MENB9200267D)](decret-n92-835-du-27-aout-1992-menb9200267d)
-- [Décret du 28 juin 2006 (AGRP0600916D)](decret-du-28-juin-2006-agrp0600916d)
-- [Décret du 28 juin 2006 (AGRP0600917D)](decret-du-28-juin-2006-agrp0600917d)
 - [Décret du 28 juin 2006 (AGRP0600918D)](decret-du-28-juin-2006-agrp0600918d)
 - [Décret du 28 juin 2006 (AGRP0600919D)](decret-du-28-juin-2006-agrp0600919d)
 - [Décret du 28 juin 2006 (AGRP0600936D)](decret-du-28-juin-2006-agrp0600936d)

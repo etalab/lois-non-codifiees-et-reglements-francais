@@ -1061,7 +1061,6 @@
 - [Arrêté du 28 juin 2007 (BCFL0758657A)](arrete-du-28-juin-2007-bcfl0758657a)
 - [Arrêté du 28 juin 2007 (ECES0755117A)](arrete-du-28-juin-2007-eces0755117a)
 - [Arrêté du 28 juin 2007 (ESRR0757401A)](arrete-du-28-juin-2007-esrr0757401a)
-- [Arrêté du 28 mars 2007 (AGRP0700813A)](arrete-du-28-mars-2007-agrp0700813a)
 - [Arrêté du 28 mars 2007 (ECOP0700048A)](arrete-du-28-mars-2007-ecop0700048a)
 - [Arrêté du 28 mars 2007 (INTE0700269A)](arrete-du-28-mars-2007-inte0700269a)
 - [Arrêté du 28 mars 2007 (SANH0721410A)](arrete-du-28-mars-2007-sanh0721410a)
