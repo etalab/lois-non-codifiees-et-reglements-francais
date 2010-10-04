@@ -1042,6 +1042,7 @@
 - [Décret n°2010-1047 du 1er septembre 2010 (OMEO1013857D)](decret-n2010-1047-du-1er-septembre-2010-omeo1013857d)
 - [Décret n°2010-1048 du 1er septembre 2010 (OMEO1010392D)](decret-n2010-1048-du-1er-septembre-2010-omeo1010392d)
 - [Décret n°2010-111 du 1er février 2010 (DEVP1002170D)](decret-n2010-111-du-1er-fevrier-2010-devp1002170d)
+- [Décret n°2010-1169 du 1er octobre 2010 (AGRT0929480D)](decret-n2010-1169-du-1er-octobre-2010-agrt0929480d)
 - [Décret n°2010-200 du 1er mars 2010 (PRMG1002747D)](decret-n2010-200-du-1er-mars-2010-prmg1002747d)
 - [Décret n°2010-210 du 1er mars 2010 (ECEI0925021D)](decret-n2010-210-du-1er-mars-2010-ecei0925021d)
 - [Décret n°2010-211 du 1er mars 2010 (SASS0921883D)](decret-n2010-211-du-1er-mars-2010-sass0921883d)
