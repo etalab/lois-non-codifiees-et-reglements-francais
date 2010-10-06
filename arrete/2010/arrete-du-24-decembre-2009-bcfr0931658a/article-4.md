@@ -2,7 +2,7 @@
 
 Sont assignées sur le comptable principal du Trésor du département de la Moselle les dépenses, hors dépenses de rémunération et de leurs accessoires payées sans ordonnancement préalable, des ordonnateurs secondaires suivants :
 
-― le directeur de l'établissement administratif et technique du service des essences des armées ;
+―              le directeur de la direction de l'exploitation et de la logistique pétrolières interarmées ;
 
 ― le directeur du service des droits individuels et des affaires contentieuses ;
 
