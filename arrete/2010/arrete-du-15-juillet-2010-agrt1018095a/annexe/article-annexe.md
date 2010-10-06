@@ -312,7 +312,7 @@ Le cahier des charges devra préciser le début et la fin de la période de valo
 
 Pour les poules élevées en plein air, la certification des œufs ne pourra être effective au minimum qu'à partir du lendemain du premier jour d'accès au parcours.
 
-Les œufs ne pourront être certifiés au-delà de 72 semaines d'âge des pondeuses. Le recours à une technique de "mue des pondeuses" n'est pas autorisé en certification.
+Les œufs ne pourront être certifiés au-delà de 72 semaines d'âge des pondeuses. Le recours à une technique de mue des pondeuses n'est pas autorisé en certification.
 
 Quatrième exigence
 
@@ -320,9 +320,7 @@ Poids minimum des œufs
 
 Le poids minimum des œufs certifiés est fixé à 48 g.
 
-Cinquième exigence relative aux conditions de ramassage,
-
-de collecte, de stockage et de conditionnement des œufs
+Cinquième exigence relative aux conditions de ramassage, de collecte, de stockage et de conditionnement des œufs
 
 Les œufs doivent être ramassés au minimum une fois par jour par l'éleveur, exception faite des dimanches et jours fériés (dans ce cas, un jour sans ramassage peut être autorisé) et 90 % au minimum des œufs pondus du jour doivent être ramassés chaque jour.
 
@@ -366,7 +364,9 @@ Il est possible de communiquer en indiquant que les marquages effectués sur les
 
 Troisième recommandation
 
-Caractéristique certifiée relative au respect des bonnes pratiques d'élevage
+Caractéristique certifiée relative au respect
+
+des bonnes pratiques d'élevage
 
 La certification de bonnes pratiques d'élevage nécessite que pour au moins deux critères significatifs les pratiques décrites soient plus exigeantes que celles imposées par la charte sanitaire ou la pratique courante (minimum réglementaire).
 
@@ -412,11 +412,13 @@ Est précisé dans le cahier des charges le plan d'alimentation des pondeuses et
 
 Sixième recommandation
 
-Caractéristique certifiée relative à l'utilisation d'enzymes exogènes dans l'aliment
+Caractéristique certifiée relative
+
+à l'utilisation d'enzymes exogènes dans l'aliment
 
 Le plan d'alimentation doit préciser la (les) enzyme (s) exogènes incorporées comme additif dans l'aliment (additifs autorisés au sens du règlement [CE] 1831/2003).
 
-Si utilisation de phytases exogènes, la communication porte sur la limitation de l'apport dans l'aliment et / ou le rejet dans l'environnement de phosphore.
+Si utilisation de phytases exogènes, la communication porte sur la limitation de l'apport dans l'aliment et/ou le rejet dans l'environnement de phosphore.
 
 Si utilisation d'autres enzymes exogènes, la communication porte sur l'amélioration de la valorisation de l'aliment et/ou la limitation des rejets organiques.
 
@@ -620,6 +622,23 @@ Tableau récapitulatif des missions d'évaluation initiale interne et externe de
 <td valign="top" width="145"/>
 <td valign="top" width="219">
 <p>1 contrôle de produit par trimestre et par metteur en marché<br/>Vérification des conditions de traçabilité en particulier dans le cas de la vente en vrac.</p>
+</td>
+</tr>
+<tr>
+<td width="138">
+<p>Composition des aliments <br/>S'il existe une exigence explicite sur l'alimentation, le fabricant doit déclarer préalablement à l'organisme certificateur toute formule de référence (un code de fabrication pour un site) qu'il souhaite faire référencer. </p>
+</td>
+<td align="left" valign="top">
+<p>Fabricants d'aliments </p>
+</td>
+<td align="left" valign="top">
+<p>Fournisseur ou organisme de qualification </p>
+</td>
+<td align="left" valign="top">
+<p>Référencement des entreprises fabricants d'aliments composés et des fournisseurs d'aliments simples qui s'engagent auprès de l'organisme chargé de l'habilitation et du suivi d'élevage et transmission du listing des entreprises référencées à l'organisme certificateur. </p>
+</td>
+<td align="left" valign="top">
+<p>En cas de caractéristiques certifiées concernant l'alimentation : <br/>- un audit par an par l'organisme certificateur ; <br/>- si le fabricant est déjà audité dans le cadre du Guide des bonnes pratiques des fabricants d'aliments (ou une démarche équivalente), l'organisme certificateur ne réalise qu'un contrôle par an.</p>
 </td>
 </tr>
 </tbody>
