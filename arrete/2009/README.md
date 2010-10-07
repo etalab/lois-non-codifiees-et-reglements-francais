@@ -2916,7 +2916,6 @@
 - [Arrêté du 29 mai 2009 (LOGU0907602A)](arrete-du-29-mai-2009-logu0907602a)
 - [Arrêté du 29 mai 2009 (MTSO0914224A)](arrete-du-29-mai-2009-mtso0914224a)
 - [Arrêté du 30 avril 2009 (AGRG0909516A)](arrete-du-30-avril-2009-agrg0909516a)
-- [Arrêté du 30 avril 2009 (AGRP0904090A)](arrete-du-30-avril-2009-agrp0904090a)
 - [Arrêté du 30 avril 2009 (DEFH0907018A)](arrete-du-30-avril-2009-defh0907018a)
 - [Arrêté du 30 avril 2009 (DEVA0909477A)](arrete-du-30-avril-2009-deva0909477a)
 - [Arrêté du 30 avril 2009 (DEVA0910007A)](arrete-du-30-avril-2009-deva0910007a)
