@@ -76,6 +76,7 @@
 - [Décret n°2010-453 du 3 mai 2010 (AGRT1004246D)](decret-n2010-453-du-3-mai-2010-agrt1004246d)
 - [Décret n°2010-116 du 4 février 2010 (PRMX0928388D)](decret-n2010-116-du-4-fevrier-2010-prmx0928388d)
 - [Décret n°2010-1170 du 4 octobre 2010 (SASH1017771D)](decret-n2010-1170-du-4-octobre-2010-sash1017771d)
+- [Décret n°2010-1171 du 4 octobre 2010 (DEFH1020893D)](decret-n2010-1171-du-4-octobre-2010-defh1020893d)
 - [Décret n°2010-118 du 4 février 2010 (JUSA0927156D)](decret-n2010-118-du-4-fevrier-2010-jusa0927156d)
 - [Décret n°2010-119 du 4 février 2010 (IOCA1000499D)](decret-n2010-119-du-4-fevrier-2010-ioca1000499d)
 - [Décret n°2010-223 du 4 mars 2010 (ECEX1005793D)](decret-n2010-223-du-4-mars-2010-ecex1005793d)
