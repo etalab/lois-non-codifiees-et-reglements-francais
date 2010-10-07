@@ -50,9 +50,7 @@ Durée de l'épreuve : quatre heures.
 
 II. - Epreuves d'admission
 
-II-1. Présentation de la préparation d'une séquence d'enseignement en mathématiques et interrogation,
-
-au choix du candidat, sur les arts visuels, la musique ou l'éducation physique et sportive
+II-1. Présentation de la préparation d'une séquence d'enseignement en mathématiques et interrogation, au choix du candidat, sur les arts visuels, la musique ou l'éducation physique et sportive
 
 L'épreuve vise à évaluer :
 
@@ -136,9 +134,7 @@ Entretien avec le jury :
 
 L'entretien prend appui sur la prestation physique, dont il est un prolongement. Au cours de l'entretien, le candidat indique ce qu'il retire de sa pratique pour lui-même et pour son enseignement. Il expose en particulier comment il peut transposer cette pratique dans son enseignement à l'école primaire, en prenant en compte les liens avec les autres disciplines et le développement de l'enfant. Puis le candidat répond à des questions du jury, destinées à élargir et approfondir sa réflexion, qui porteront sur une autre activité physique que celle qu'il a choisie, parmi les activités les plus pratiquées à l'école primaire.
 
-II-2. Présentation de la préparation d'une séquence d'enseignement en français et interrogation
-
-sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable
+II-2. Présentation de la préparation d'une séquence d'enseignement en français et interrogation sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable
 
 L'épreuve comporte deux parties.
 
@@ -162,9 +158,9 @@ Dans l'exposé, le candidat présente les éléments constituant la séquence : 
 
 Les sujets sont fondés sur les programmes de l'école primaire (maternelle et élémentaire). Le niveau de classe et le cycle pour lesquels la séquence d'enseignement est préparée sont précisés. Pour chaque sujet, le candidat dispose d'une documentation en salle de préparation.
 
-La seconde partie consiste en une interrogation portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable .
+La seconde partie consiste en une interrogation portant sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable.
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 Les compétences professionnelles des maîtres de l'annexe de l'arrêté du 12 mai 2010.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
 
 L'exposé se poursuit par un entretien avec le jury de dix minutes.
 
@@ -192,17 +188,13 @@ Durée de l'épreuve : 3 heures ; coefficient 2.
 
 II. - Epreuves d'admission
 
-II-1. Présentation de la préparation d'une séquence d'enseignement en mathématiques et interrogation,
-
-au choix du candidat, sur les arts visuels, la musique ou l'éducation physique et sportive
+II-1. Présentation de la préparation d'une séquence d'enseignement en mathématiques et interrogation, au choix du candidat, sur les arts visuels, la musique ou l'éducation physique et sportive
 
 Première épreuve d'admission du concours externe prévue au A de la présente annexe.
 
 Coefficient 2.
 
-II-2. Présentation de la préparation d'une séquence d'enseignement en français et interrogation
-
-sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable
+II-2. Présentation de la préparation d'une séquence d'enseignement en français et interrogation sur la compétence Agir en fonctionnaire de l'Etat et de façon éthique et responsable
 
 Seconde épreuve d'admission du concours externe prévue au A de la présente annexe.
 

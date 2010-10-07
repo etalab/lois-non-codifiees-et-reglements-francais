@@ -1,8 +1,6 @@
 # Article Annexe I
 
-ÉPREUVES DU CONCOURS EXTERNE
-
-DE RECRUTEMENT DE PROFESSEURS DE LYCÉE PROFESSIONNEL
+ÉPREUVES DU CONCOURS EXTERNE DE RECRUTEMENT DE PROFESSEURS DE LYCÉE PROFESSIONNEL
 
 Des compléments d'information sur la nature et les programmes des épreuves font l'objet, en tant que de besoin, de notes publiées au Bulletin officiel du ministère de l'éducation nationale.
 
@@ -38,9 +36,9 @@ Le candidat est amené au cours de sa présentation orale à justifier ses choix
 
 Au cours de l'entretien avec le jury, le candidat sera conduit plus particulièrement à préciser certains points de sa présentation ainsi qu'à expliquer et justifier les choix de nature didactique et pédagogique qu'il a opérés dans la construction de la séquence de formation présentée.
 
-2° Epreuve sur dossier comportant deux parties. 14 points sont attribués à la première partie et 6 points à la seconde. (Durée de la préparation : une heure trente minutes ; durée totale de l'épreuve : une heure ; coefficient 3.)
+2° Epreuve sur dossier comportant deux parties. 14 points sont attribués à la première partie et 6 points à la seconde. (Durée de la préparation : une heure trente minutes ; durée totale de l'épreuve : une heure ; coefficient 3).
 
-Première partie : soutenance de dossier devant le jury d'un dossier réalisé par le candidat dans l'un des domaines de la spécialité préparée, suivie d'un entretien avec le jury. (Présentation n'excédant pas vingt minutes ; entretien avec le jury : vingt minutes.)
+Première partie : soutenance de dossier devant le jury d'un dossier réalisé par le candidat dans l'un des domaines de la spécialité préparée, suivie d'un entretien avec le jury. (Présentation n'excédant pas vingt minutes ; entretien avec le jury : vingt minutes).
 
 L'épreuve permet d'apprécier l'authenticité et l'actualité du problème choisi par le candidat, sa capacité à en faire une présentation construite et claire, à mettre en évidence les questionnements qu'il suscite et à en dégager les points remarquables et caractéristiques de la discipline. Elle permet également au candidat de mettre en valeur la qualité de son dossier et l'exploitation pédagogique qu'il peut en faire dans le cadre d'un enseignement.
 
@@ -52,9 +50,9 @@ Lors de la présentation, le candidat justifiera le choix du support d'étude et
 
 Les dossiers doivent être déposés au secrétariat du jury cinq jours francs au moins avant le début des épreuves d'admission.
 
-Seconde partie : interrogation portant sur la compétence " Agir en fonctionnaire de l'Etat et de façon éthique et responsable ". (Présentation : dix minutes ; entretien avec le jury : dix minutes.)
+Seconde partie : interrogation portant sur la compétence " Agir en fonctionnaire de l'Etat et de façon éthique et responsable ". (Présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 " Les compétences professionnelles des maîtres " de l'annexe de l'arrêté du 12 mai 2010.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -92,9 +90,9 @@ Le candidat est amené au cours de sa présentation orale à expliciter la déma
 
 Au cours de l'entretien avec le jury, le candidat est conduit plus particulièrement à préciser certains points de sa présentation ainsi qu'à expliquer et justifier les choix de nature didactique et pédagogique qu'il a opérés dans la construction de la séquence de formation présentée.
 
-2° Epreuve sur dossier comportant deux parties. 14 points sont attribués à la première partie et 6 points à la seconde. (Durée de la préparation : une heure trente minutes ; durée totale de l'épreuve : une heure ; coefficient 3.)
+2° Epreuve sur dossier comportant deux parties. 14 points sont attribués à la première partie et 6 points à la seconde. (Durée de la préparation : une heure trente minutes ; durée totale de l'épreuve : une heure ; coefficient 3).
 
-Première partie : soutenance d'un dossier technique et scientifique réalisé par le candidat dans l'un des domaines de la spécialité préparée, suivie d'un entretien avec le jury. (Présentation n'excédant pas vingt minutes ; entretien avec le jury : vingt minutes.)
+Première partie : soutenance d'un dossier technique et scientifique réalisé par le candidat dans l'un des domaines de la spécialité préparée, suivie d'un entretien avec le jury. (Présentation n'excédant pas vingt minutes ; entretien avec le jury : vingt minutes).
 
 L'épreuve porte sur les programmes des lycées professionnels et, le cas échéant, des sections de techniciens supérieurs.
 
@@ -108,7 +106,7 @@ Les dossiers doivent être déposés au secrétariat du jury cinq jours francs a
 
 Seconde partie : interrogation portant sur la compétence " Agir en fonctionnaire de l'Etat et de façon éthique et responsable ". (Présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 " Les compétences professionnelles des maîtres " de l'annexe de l'arrêté du 12 mai 2010.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 l'annexe de l'arrêté du 12 mai 2010.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -142,9 +140,9 @@ Durée de la préparation : trois heures ; durée de l'épreuve : une heure (exp
 
 Dans un cadre pédagogique et un contexte d'enseignement donnés, le candidat présente, dans l'option choisie, un projet de séquence pédagogique (leçon, séance de travaux dirigés, organisation et suivi de périodes de formation en milieu professionnel, etc.) La présentation est suivie d'un entretien avec le jury au cours duquel le candidat est invité à justifier ses choix d'ordre didactique et pédagogique.
 
-2° Epreuve sur dossier comportant deux parties. 14 points sont attribués à la première partie et 6 points à la seconde. (Durée de la préparation : une heure trente minutes ; durée totale de l'épreuve : une heure ; coefficient 3.)
+2° Epreuve sur dossier comportant deux parties. 14 points sont attribués à la première partie et 6 points à la seconde. (Durée de la préparation : une heure trente minutes ; durée totale de l'épreuve : une heure ; coefficient 3).
 
-Première partie : soutenance de dossier, suivie d'un entretien avec le jury. (Présentation n'excédant pas vingt minutes ; entretien avec le jury : vingt minutes.)
+Première partie : soutenance de dossier, suivie d'un entretien avec le jury. (Présentation n'excédant pas vingt minutes ; entretien avec le jury : vingt minutes).
 
 L'épreuve permet au candidat de montrer :
 
@@ -162,9 +160,9 @@ L'exposé porte sur l'exploitation du dossier qui consiste à produire une resso
 
 Les dossiers doivent être déposés au secrétariat du jury cinq jours francs au moins avant le début des épreuves d'admission.
 
-Seconde partie : interrogation portant sur la compétence " Agir en fonctionnaire de l'Etat et de façon éthique et responsable ". (Présentation : dix minutes ; entretien avec le jury : dix minutes.)
+Seconde partie : interrogation portant sur la compétence " Agir en fonctionnaire de l'Etat et de façon éthique et responsable ". (Présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 " Les compétences professionnelles des maîtres " de l'annexe de l'arrêté du 12 mai 2010.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -202,7 +200,7 @@ Le candidat est amené au cours de sa présentation orale à expliciter la déma
 
 Au cours de l'entretien avec le jury, le candidat est conduit plus particulièrement à préciser certains points de sa présentation ainsi qu'à expliquer et justifier les choix de nature didactique et pédagogique qu'il a opérés dans la construction de la séquence de formation présentée.
 
-2° Epreuve sur dossier comportant deux parties. 14 points sont attribués à la première partie et 6 points à la seconde. (Durée de la préparation : une heure trente minutes ; durée totale de l'épreuve : une heure ; coefficient 3.)
+2° Epreuve sur dossier comportant deux parties. 14 points sont attribués à la première partie et 6 points à la seconde. (Durée de la préparation : une heure trente minutes ; durée totale de l'épreuve : une heure ; coefficient 3).
 
 Première partie : soutenance d'un dossier technique et scientifique réalisé par le candidat dans l'un des domaines de la spécialité préparée, suivie d'un entretien avec le jury. (Présentation n'excédant pas vingt minutes ; entretien avec le jury : vingt minutes).
 
@@ -216,9 +214,9 @@ Lors de la présentation, le candidat justifiera le choix du support d'étude et
 
 Les dossiers doivent être déposés au secrétariat du jury cinq jours francs au moins avant le début des épreuves d'admission.
 
-Seconde partie : interrogation portant sur la compétence " Agir en fonctionnaire de l'Etat et de façon éthique et responsable ". (Présentation : dix minutes ; entretien avec le jury : dix minutes.)
+Seconde partie : interrogation portant sur la compétence " Agir en fonctionnaire de l'Etat et de façon éthique et responsable ". (Présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 " Les compétences professionnelles des maîtres " de l'annexe de l'arrêté du 12 mai 2010.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -254,7 +252,7 @@ Le candidat est amené au cours de sa présentation orale à expliciter la déma
 
 Au cours de l'entretien avec le jury, le candidat est conduit plus particulièrement à préciser certains points de sa présentation ainsi qu'à expliquer et justifier les choix de nature didactique et pédagogique qu'il a opérés dans la construction de la séquence de formation présentée.
 
-2° Epreuve sur dossier comportant deux parties. 14 points sont attribués à la première partie et 6 points à la seconde. (Durée de la préparation : une heure trente minutes ; durée totale de l'épreuve : une heure ; coefficient 3.)
+2° Epreuve sur dossier comportant deux parties. 14 points sont attribués à la première partie et 6 points à la seconde. (Durée de la préparation : une heure trente minutes ; durée totale de l'épreuve : une heure ; coefficient 3).
 
 Première partie : soutenance de dossier devant le jury d'un dossier réalisé par le candidat dans l'un des domaines de la spécialité préparée, suivie d'un entretien avec le jury. (Présentation n'excédant pas vingt minutes ; entretien avec le jury : vingt minutes).
 
@@ -268,9 +266,9 @@ Lors de la présentation, le candidat justifiera le choix du support d'étude et
 
 Les dossiers doivent être déposés au secrétariat du jury cinq jours francs au moins avant le début des épreuves d'admission.
 
-Seconde partie : interrogation portant sur la compétence " Agir en fonctionnaire de l'Etat et de façon éthique et responsable ". (Présentation : dix minutes ; entretien avec le jury : dix minutes.)
+Seconde partie : interrogation portant sur la compétence " Agir en fonctionnaire de l'Etat et de façon éthique et responsable ". (Présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le ppoint 3 " Les compétences professionnelles des maîtres " de l'annexe de l'arrêté du 12 mai 2010.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -330,7 +328,7 @@ a) Accomplir des activités de restauration : vente, animation, préparations d'
 
 b) Effectuer des tâches en hébergement conformes à celles qu'il convient de maîtriser dans ce domaine pour préparer aux diplômes de la voie professionnelle.
 
-2° Epreuve sur dossier comportant deux parties. 14 points sont attribués à la première partie et 6 points à la seconde. (Durée de la préparation : une heure trente minutes ; durée totale de l'épreuve : une heure ; coefficient 3.)
+2° Epreuve sur dossier comportant deux parties. 14 points sont attribués à la première partie et 6 points à la seconde. (Durée de la préparation : une heure trente minutes ; durée totale de l'épreuve : une heure ; coefficient 3).
 
 Première partie : soutenance de dossier, suivie d'un entretien avec le jury. (Présentation n'excédant pas vingt minutes ; entretien avec le jury : vingt minutes.)
 
@@ -350,9 +348,9 @@ L'exposé porte sur l'exploitation du dossier qui consiste à produire une resso
 
 Les dossiers doivent être déposés au secrétariat du jury cinq jours francs au moins avant le début des épreuves d'admission.
 
-Seconde partie : interrogation portant sur la compétence " Agir en fonctionnaire de l'Etat et de façon éthique et responsable ". (Présentation : dix minutes ; entretien avec le jury : dix minutes.)
+Seconde partie : interrogation portant sur la compétence " Agir en fonctionnaire de l'Etat et de façon éthique et responsable ". (Présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 " Les compétences professionnelles des maîtres " de l'annexe de l'arrêté du 12 mai 2010.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -390,9 +388,9 @@ Le candidat est amené au cours de sa présentation orale à expliciter sa déma
 
 Au cours de l'entretien avec le jury, le candidat est conduit plus particulièrement à préciser certains points de sa présentation ainsi qu'à expliquer et justifier les choix de nature didactique et pédagogique qu'il a opérés dans la construction de la séquence de formation présentée.
 
-2° Epreuve sur dossier comportant deux parties. 14 points sont attribués à la première partie et 6 points à la seconde. (Durée de la préparation : une heure trente minutes ; durée totale de l'épreuve : une heure ; coefficient 3.)
+2° Epreuve sur dossier comportant deux parties. 14 points sont attribués à la première partie et 6 points à la seconde. (Durée de la préparation : une heure trente minutes ; durée totale de l'épreuve : une heure ; coefficient 3).
 
-Première partie : soutenance de dossier devant le jury d'un dossier réalisé par le candidat dans l'un des domaines de la spécialité préparée, suivie d'un entretien avec le jury. (Présentation n'excédant pas vingt minutes ; entretien avec le jury : vingt minutes.)
+Première partie : soutenance de dossier devant le jury d'un dossier réalisé par le candidat dans l'un des domaines de la spécialité préparée, suivie d'un entretien avec le jury. (Présentation n'excédant pas vingt minutes ; entretien avec le jury : vingt minutes).
 
 L'épreuve permet d'apprécier l'authenticité et l'actualité du problème choisi par le candidat, sa capacité à en faire une présentation construite et claire, à mettre en évidence les questionnements qu'il suscite et à en dégager les points remarquables et caractéristiques de la discipline. Elle permet également au candidat de mettre en valeur la qualité de son dossier et l'exploitation pédagogique qu'il peut en faire dans le cadre d'un enseignement.
 
@@ -406,7 +404,7 @@ Les dossiers doivent être déposés au secrétariat du jury cinq jours francs a
 
 Seconde partie : interrogation portant sur la compétence " Agir en fonctionnaire de l'Etat et de façon éthique et responsable ". (Présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 " Les compétences professionnelles des maîtres " de l'annexe de l'arrêté du 12 mai 2010.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -446,9 +444,9 @@ b) en lettres, en une explication d'un texte français, assorti d'une question d
 
 L'exposé du candidat est suivi d'un entretien avec le jury.
 
-2° Epreuve sur dossier comportant deux parties. 14 points sont attribués à la première partie et 6 points à la seconde. (Durée de la préparation : deux heures trente minutes ; durée totale de l'épreuve : une heure ; coefficient 3.)
+2° Epreuve sur dossier comportant deux parties. 14 points sont attribués à la première partie et 6 points à la seconde. (Durée de la préparation : deux heures trente minutes ; durée totale de l'épreuve : une heure ; coefficient 3).
 
-Première partie : soutenance de dossier, suivie d'un entretien avec le jury.L'épreuve porte sur la valence n'ayant pas fait l'objet de la première épreuve d'admission. (Présentation n'excédant pas vingt minutes ; entretien avec le jury : vingt minutes.)
+Première partie : soutenance de dossier, suivie d'un entretien avec le jury.L'épreuve porte sur la valence n'ayant pas fait l'objet de la première épreuve d'admission. (Présentation n'excédant pas vingt minutes ; entretien avec le jury : vingt minutes).
 
 L'épreuve permet au candidat de montrer :
 
@@ -470,9 +468,9 @@ Présentation d'un exposé relatif à une question liée au programme de frança
 
 Le sujet comporte de deux à quatre documents que le candidat utilise pour son exposé.
 
-Seconde partie : interrogation portant sur la compétence " Agir en fonctionnaire de l'Etat et de façon éthique et responsable ". (Présentation : dix minutes ; entretien avec le jury : dix minutes.)
+Seconde partie : interrogation portant sur la compétence " Agir en fonctionnaire de l'Etat et de façon éthique et responsable ". (Présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document contenu dans le dossier remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le ppoint 3 " les compétences professionnelles des maîtres " de l'annexe de l'arrêté du 12 mai 2010.
+Le candidat répond pendant dix minutes à une question, à partir d'un document contenu dans le dossier remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -512,9 +510,9 @@ Le candidat peut utiliser la documentation mise à sa disposition par le jury.
 
 La leçon est suivie d'un entretien avec le jury au cours duquel le candidat rend compte de ses choix didactiques et pédagogiques.
 
-2° Epreuve sur dossier comportant deux parties. 14 points sont attribués à la première partie et 6 points à la seconde. (Durée de la préparation : deux heures trente minutes ; durée totale de l'épreuve : une heure ; coefficient 3.)
+2° Epreuve sur dossier comportant deux parties. 14 points sont attribués à la première partie et 6 points à la seconde. (Durée de la préparation : deux heures trente minutes ; durée totale de l'épreuve : une heure ; coefficient 3).
 
-Première partie : étude d'un ensemble documentaire portant sur la valence n'ayant pas fait l'objet de la première épreuve d'admission, suivie d'un entretien avec le jury. (Présentation vingt minutes maximum ; entretien avec le jury : vingt minutes maximum.)
+Première partie : étude d'un ensemble documentaire portant sur la valence n'ayant pas fait l'objet de la première épreuve d'admission, suivie d'un entretien avec le jury. (Présentation vingt minutes maximum ; entretien avec le jury : vingt minutes maximum).
 
 Cette partie de l'épreuve a une dimension scientifique, épistémologique et didactique.
 
@@ -528,9 +526,9 @@ Le sujet comporte de deux à quatre documents que le candidat utilise pour son e
 
 Pour la valence histoire et géographie, les sujets des épreuves d'admissibilité et d'admission sont établis à partir de questions d'histoire et de questions de géographie, se référant aux programmes du collège et du lycée (général, technique et professionnel) et périodiquement renouvelées. Ces questions font l'objet d'une publication au Bulletin officiel de l'éducation nationale.
 
-Seconde partie : interrogation portant sur la compétence " Agir en fonctionnaire de l'Etat et de façon éthique et responsable ". (Présentation : dix minutes ; entretien avec le jury : dix minutes.)
+Seconde partie : interrogation portant sur la compétence " Agir en fonctionnaire de l'Etat et de façon éthique et responsable ". (Présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document contenu dans le dossier remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 " Les compétences professionnelles des maîtres " de l'annexe de l'arrêté du 12 mai 2010.
+Le candidat répond pendant dix minutes à une question, à partir d'un document contenu dans le dossier remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -570,9 +568,9 @@ Le candidat doit montrer, dans la discipline tirée au sort, qu'il a la capacit�
 
 Pendant la préparation de l'épreuve, le candidat peut utiliser des ouvrages et des documents de mathématiques, de physique et de chimie de la bibliothèque du concours, ainsi que des textes officiels (notamment les programmes de ces disciplines des classes de lycée professionnel, de collège et de section de technicien supérieur), et des matériels scientifiques et informatiques mis à sa disposition.
 
-2° Epreuve sur dossier comportant deux parties. 14 points sont attribués à la première partie et 6 points à la seconde. (Durée de la préparation : deux heures trente minutes ; durée totale de l'épreuve : une heure ; coefficient 3.)
+2° Epreuve sur dossier comportant deux parties. 14 points sont attribués à la première partie et 6 points à la seconde. (Durée de la préparation : deux heures trente minutes ; durée totale de l'épreuve : une heure ; coefficient 3).
 
-Première partie : épreuve sur dossier pédagogique, suivie d'un entretien avec le jury.L'épreuve porte sur la valence n'ayant pas fait l'objet de la première épreuve d'admission. (Présentation n'excédant pas vingt minutes ; entretien avec le jury : vingt minutes.)
+Première partie : épreuve sur dossier pédagogique, suivie d'un entretien avec le jury.L'épreuve porte sur la valence n'ayant pas fait l'objet de la première épreuve d'admission. (Présentation n'excédant pas vingt minutes ; entretien avec le jury : vingt minutes).
 
 L'épreuve permet au candidat de montrer :
 
@@ -602,9 +600,9 @@ Le candidat dispose d'un dossier documentaire fourni par le jury pouvant conteni
 
 Au cours de la présentation, le candidat présente les résultats de sa réflexion, en motivant les choix techniques et scientifiques qu'il effectue, sous une forme adaptée au sujet précis.
 
-Seconde partie : interrogation portant sur la compétence " Agir en fonctionnaire de l'Etat et de façon éthique et responsable ". (Présentation : dix minutes ; entretien avec le jury : dix minutes.)
+Seconde partie : interrogation portant sur la compétence " Agir en fonctionnaire de l'Etat et de façon éthique et responsable ". (Présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document contenu dans le dossier remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 " Les compétences professionnelles des maîtres " de l'annexe de l'arrêté du 12 mai 2010.
+Le candidat répond pendant dix minutes à une question, à partir d'un document contenu dans le dossier remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
@@ -638,9 +636,9 @@ Le candidat est amené au cours de sa présentation orale à expliciter sa déma
 
 Au cours de l'entretien avec le jury, le candidat est conduit plus particulièrement à préciser certains points de sa présentation ainsi qu'à expliquer et justifier les choix de nature didactique et pédagogique qu'il a opérés dans la construction de la séquence de formation présentée.
 
-2° Epreuve sur dossier comportant deux parties. 14 points sont attribués à la première partie et 6 points à la seconde. (Durée de la préparation : une heure trente minutes ; durée totale de l'épreuve : une heure ; coefficient 3.)
+2° Epreuve sur dossier comportant deux parties. 14 points sont attribués à la première partie et 6 points à la seconde. (Durée de la préparation : une heure trente minutes ; durée totale de l'épreuve : une heure ; coefficient 3).
 
-Première partie : soutenance d'un dossier technique et scientifique réalisé par le candidat dans l'un des domaines de la spécialité préparée, suivie d'un entretien avec le jury. (Présentation n'excédant pas vingt minutes ; entretien avec le jury : vingt minutes.)
+Première partie : soutenance d'un dossier technique et scientifique réalisé par le candidat dans l'un des domaines de la spécialité préparée, suivie d'un entretien avec le jury. (Présentation n'excédant pas vingt minutes ; entretien avec le jury : vingt minutes).
 
 L'épreuve porte sur les programmes des lycées professionnels et, le cas échéant, des sections de techniciens supérieurs.
 
@@ -652,15 +650,13 @@ Lors de la présentation, le candidat justifiera le choix du support d'étude et
 
 Les dossiers doivent être déposés au secrétariat du jury cinq jours francs au moins avant le début des épreuves d'admission.
 
-Seconde partie : interrogation portant sur la compétence " Agir en fonctionnaire de l'Etat et de façon éthique et responsable ". (Présentation : dix minutes ; entretien avec le jury : dix minutes.)
+Seconde partie : interrogation portant sur la compétence " Agir en fonctionnaire de l'Etat et de façon éthique et responsable ". (Présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 " Les compétences professionnelles des maîtres " de l'annexe de l'arrêté du 12 mai 2010.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1de l'annexe de l'arrêté du 12 mai 2010.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
-Sections pour lesquelles il n'existe pas de diplôme
-
-de niveau supérieur à celui du baccalauréat relevant du groupe A
+Sections pour lesquelles il n'existe pas de diplôme de niveau supérieur à celui du baccalauréat relevant du groupe A
 
 A. ― Epreuve écrite d'admissibilité
 
@@ -696,27 +692,25 @@ Le candidat est amené au cours de sa présentation orale à expliciter la déma
 
 Au cours de l'entretien avec le jury, le candidat est conduit plus particulièrement à préciser certains points de sa présentation ainsi qu'à expliquer et justifier les choix de nature didactique et pédagogique qu'il a opérés dans la construction de la séquence de formation présentée.
 
-2° Epreuve sur dossier comportant deux parties. 14 points sont attribués à la première partie et 6 points à la seconde. (Durée de la préparation : une heure trente minutes ; durée totale de l'épreuve : une heure ; coefficient 3.)
+2° Epreuve sur dossier comportant deux parties. 14 points sont attribués à la première partie et 6 points à la seconde. (Durée de la préparation : une heure trente minutes ; durée totale de l'épreuve : une heure ; coefficient 3).
 
-Première partie : soutenance d'un dossier technique et scientifique réalisé par le candidat, suivie d'un entretien avec le jury. (Présentation n'excédant pas vingt minutes ; entretien avec le jury : vingt minutes.)
+Première partie : soutenance d'un dossier technique et scientifique réalisé par le candidat, suivie d'un entretien avec le jury. (Présentation n'excédant pas vingt minutes ; entretien avec le jury : vingt minutes).
 
 L'épreuve vise à vérifier l'aptitude du candidat à présenter son dossier au moyen d'un exposé structuré, à analyser une situation en liaison avec l'enseignement de la spécialité dans l'option du concours, à proposer l'utilisation de moyens d'enseignement adaptés, notamment informatiques, audiovisuels, à identifier des problèmes d'enseignement et à préciser des conditions de réussite pour un public visé.
 
-L'épreuve prend appui sur un dossier de quarante pages au maximum, réalisé à partir d'une situation empruntée à l'entreprise, ou à partir de l'expérience professionnelle du candidat, et exploitable dans l'enseignement. Le dossier précise son mode d'exploitation dans l'enseignement de la discipline, en fonction de la spécialité choisie au concours (définition des objectifs, des contenus visés, des types d'activité, prolongements pluridisciplinaires éventuels.)
+L'épreuve prend appui sur un dossier de quarante pages au maximum, réalisé à partir d'une situation empruntée à l'entreprise, ou à partir de l'expérience professionnelle du candidat, et exploitable dans l'enseignement. Le dossier précise son mode d'exploitation dans l'enseignement de la discipline, en fonction de la spécialité choisie au concours (définition des objectifs, des contenus visés, des types d'activité, prolongements pluridisciplinaires éventuels).
 
 Le jury appréciera les qualités d'analyse du candidat, sa capacité à communiquer, la rigueur et la structure de l'exposé, la pertinence des réponses aux questions posées, la connaissance de la spécialité à enseigner (ses finalités, ses contenus, son évolution) et des filières professionnelles correspondantes.
 
 Les dossiers doivent être déposés au secrétariat du jury cinq jours francs au moins avant le début des épreuves d'admission.
 
-Seconde partie : interrogation portant sur la compétence " Agir en fonctionnaire de l'Etat et de façon éthique et responsable ". (Présentation : dix minutes ; entretien avec le jury : dix minutes.)
+Seconde partie : interrogation portant sur la compétence " Agir en fonctionnaire de l'Etat et de façon éthique et responsable ". (Présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 " Les compétences professionnelles des maîtres " de l'annexe de l'arrêté du 12 mai 2010.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.
 
-Sections pour lesquelles il n'existe pas de diplôme
-
-de niveau supérieur à celui du baccalauréat relevant du groupe B
+Sections pour lesquelles il n'existe pas de diplôme de niveau supérieur à celui du baccalauréat relevant du groupe B
 
 A. ― Epreuve écrite d'admissibilité
 
@@ -746,9 +740,9 @@ Les situations de travail réel visent à apprécier les aptitudes du candidat �
 
 A l'issue de la préparation, le candidat expose devant le jury les choix de nature pédagogique et didactique qu'il a opérés dans le traitement de sa séquence pédagogique et justifie éventuellement ceux retenus lors des mises en situation durant sa préparation. Durant l'entretien, le jury approfondit avec le candidat les propositions exposées et élargit le questionnement en cohérence avec la séquence.
 
-2° Epreuve sur dossier comportant deux parties. 14 points sont attribués à la première partie et 6 points à la seconde. (Durée de la préparation : une heure trente minutes ; durée totale de l'épreuve : une heure ; coefficient 3.)
+2° Epreuve sur dossier comportant deux parties. 14 points sont attribués à la première partie et 6 points à la seconde. (Durée de la préparation : une heure trente minutes ; durée totale de l'épreuve : une heure ; coefficient 3).
 
-Première partie : soutenance d'un dossier technique et scientifique réalisé par le candidat, suivie d'un entretien avec le jury. (Présentation n'excédant pas vingt minutes ; entretien avec le jury : vingt minutes.)
+Première partie : soutenance d'un dossier technique et scientifique réalisé par le candidat, suivie d'un entretien avec le jury. (Présentation n'excédant pas vingt minutes ; entretien avec le jury : vingt minutes).
 
 L'épreuve vise à vérifier l'aptitude du candidat à présenter son dossier au moyen d'un exposé structuré, à analyser une situation en liaison avec l'enseignement de la spécialité dans l'option du concours, à proposer l'utilisation de moyens d'enseignement adaptés, notamment informatiques, audiovisuels, à identifier des problèmes d'enseignement et à préciser des conditions de réussite pour un public visé.
 
@@ -758,8 +752,8 @@ Le jury appréciera les qualités d'analyse du candidat, sa capacité à communi
 
 Les dossiers doivent être déposés au secrétariat du jury cinq jours francs au moins avant le début des épreuves d'admission.
 
-Seconde partie : interrogation portant sur la compétence " Agir en fonctionnaire de l'Etat et de façon éthique et responsable ". (Présentation : dix minutes ; entretien avec le jury : dix minutes.)
+Seconde partie : interrogation portant sur la compétence " Agir en fonctionnaire de l'Etat et de façon éthique et responsable ". (Présentation : dix minutes ; entretien avec le jury : dix minutes).
 
-Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 3 " Les compétences professionnelles des maîtres " de l'annexe de l'arrêté du 12 mai 2010.
+Le candidat répond pendant dix minutes à une question, à partir d'un document qui lui a été remis au début de l'épreuve, question pour laquelle il a préparé les éléments de réponse durant le temps de préparation de l'épreuve. La question et le document portent sur les thématiques regroupées autour des connaissances, des capacités et des attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010.
 
 L'exposé se poursuit par un entretien avec le jury pendant dix minutes.

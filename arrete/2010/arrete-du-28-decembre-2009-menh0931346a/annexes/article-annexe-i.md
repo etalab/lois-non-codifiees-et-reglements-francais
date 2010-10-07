@@ -72,7 +72,7 @@ Seconde partie : l'épreuve consiste en une interrogation portant sur la compét
 
 A partir d'une question préalablement posée par le jury lors de la phase de préparation, le candidat réalise un exposé d'un maximum de dix minutes, suivi d'un entretien d'une durée maximum de dix minutes.
 
-La question est posée à partir d'un document fourni par le jury, portant sur les thématiques regroupées autour des connaissances, capacités et attitudes définies, pour la compétence désignée ci-dessus, dans le point n° 3 de l'annexe de l'arrêté du 12 mai 2010 : Les compétences professionnelles des maîtres . La question et la réponse sont situées dans le contexte du dossier d'établissement utilisé pour la leçon d'EPS.
+La question est posée à partir d'un document fourni par le jury, portant sur les thématiques regroupées autour des connaissances, capacités et attitudes définies, pour la compétence désignée ci-dessus, dans le point 1 de l'annexe de l'arrêté du 12 mai 2010 . La question et la réponse sont situées dans le contexte du dossier d'établissement utilisé pour la leçon d'EPS.
 
 Le but de l'épreuve consiste à évaluer la capacité du candidat à traduire en actes professionnels inscrits dans la logique de l'EPLE et dans le respect de la réglementation en vigueur, sa réponse à la question initiale.
 
