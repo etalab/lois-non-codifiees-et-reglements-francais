@@ -278,7 +278,6 @@
 - [Arrêté du 5 février 2009 (SASP0903073A)](arrete-du-5-fevrier-2009-sasp0903073a)
 - [Arrêté du 5 janvier 2009 (DEFH0825723A)](arrete-du-5-janvier-2009-defh0825723a)
 - [Arrêté du 5 janvier 2009 (DEFH0825730A)](arrete-du-5-janvier-2009-defh0825730a)
-- [Arrêté du 5 janvier 2009 (IOCC0828609A)](arrete-du-5-janvier-2009-iocc0828609a)
 - [Arrêté du 5 janvier 2009 (MAEA0900006A)](arrete-du-5-janvier-2009-maea0900006a)
 - [Arrêté du 5 juin 2009 (AGRG0912936A)](arrete-du-5-juin-2009-agrg0912936a)
 - [Arrêté du 5 juin 2009 (AGRM0912813A)](arrete-du-5-juin-2009-agrm0912813a)
