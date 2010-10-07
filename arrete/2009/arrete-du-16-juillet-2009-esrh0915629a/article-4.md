@@ -16,8 +16,6 @@ La justification d'une activité professionnelle effective non salariée est app
 
 3° Un exemplaire des travaux, ouvrages et articles dans la limite de trois documents pour les candidats à la qualification aux fonctions de maître de conférences du Muséum national d'histoire naturelle, et dans la limite de cinq documents pour les candidats aux fonctions de professeur du Muséum national d'histoire naturelle ;
 
-La date limite de publication de ces ouvrages et travaux ne peut être postérieure à celle exigée pour la publication de la thèse.
-
 4° Lorsqu'un diplôme est exigé, une copie du rapport de soutenance du diplôme produit, comportant notamment la liste des membres du jury et la signature du président.
 
-Tout dossier incomplet est rejeté.
+Tout dossier incomplet est déclaré irrecevable par le ministre chargé de l'enseignement supérieur.
