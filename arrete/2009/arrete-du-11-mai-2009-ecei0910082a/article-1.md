@@ -126,11 +126,18 @@ Par arrêté de la ministre de l'économie, de l'industrie et de l'emploi en dat
 </tr>
 <tr>
 <td width="15%">
-<p align="center">01/10/2010</p>
+<p align="center">04/01/2010</p>
 </td>
 <td width="8%"/>
 <td width="74%">
 <p>Secrétaire général de la direction régionale de l'industrie, de la recherche et de l'environnement de Bourgogne</p>
+</td>
+</tr>
+<tr>
+<td/>
+<td>04/01/2010</td>
+<td>
+<p align="left">Délégué aux ressources humaines de la direction régionale de l'environnement, de l'aménagement et du logement de Bourgogne.</p>
 </td>
 </tr>
 <tr>
