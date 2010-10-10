@@ -1,3 +1,3 @@
 # Article 5
 
-Le rapport d'activité annuel prévu à l'article R. 321-13 est établi pour chaque année civile et adressé par l'organisme de sûreté au ministre chargé des transports avant le 30 juin de l'année suivante. Ce rapport comprend un bilan des prestations effectuées dans chacune des catégories pour lesquelles l'organisme est habilité. Il identifie les navires et/ou les installations portuaires et/ou les ports concernés, indique l'objet des prestations et précise la raison sociale des bénéficiaires de ces prestations. Ce rapport est communiqué à la commission par le ministre chargé des transports.
+Les sociétés qui changent de raison sociale, de nom ou issues d'une fusion déposent un nouveau dossier de demande d'habilitation dans les conditions prévues à l'article 1er.
