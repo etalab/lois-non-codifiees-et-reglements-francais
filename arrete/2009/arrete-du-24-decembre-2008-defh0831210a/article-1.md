@@ -18,13 +18,13 @@ En application de l'article 5 du décret n° 2008-1314 du 12 décembre 2008 et d
 
 - sous-directeur administratif de l'atelier industriel de l'aéronautique de Bordeaux ;
 
-- sous-directeur des ressources humaines du centre d'essais en vol à Istres ;
+- sous-directeur régional du centre de prestations de proximité des ressources humaines à Istres ;
 
 - chef du bureau des marchés et conventions au contrôle budgétaire et comptable ministériel ;
 
 - chef du bureau de l'exécution budgétaire à la direction des affaires financières ;
 
-- chef du bureau interarmées du logement en Ile-de-France à la direction de la mémoire, du patrimoine et des archives ;
+- chef du bureau du logement en région Ile-de-France à la direction de la mémoire, du patrimoine et des archives ;
 
 - chef du bureau du droit syndical et des élections professionnelles à la direction des ressources humaines du ministère de la défense ;
 

@@ -10,7 +10,7 @@ En application de l'article 3 du décret n° 2008-1314 du 12 décembre 2008 et d
 
 - adjoint au sous-directeur finances contrats à la direction du service de soutien de la flotte à Toulon ;
 
-- chef du bureau dialogue social et action sociale à la direction des ressources humaines de la direction générale de l'armement ;
+- chef du bureau du dialogue social à la direction des ressources humaines de la direction générale de l'armement ;
 
 - chef du bureau des personnels fonctionnaires et ouvriers à la direction des ressources humaines de la direction générale de l'armement ;
 
@@ -24,9 +24,9 @@ En application de l'article 3 du décret n° 2008-1314 du 12 décembre 2008 et d
 
 - chef du bureau des dommages généraux à la direction des affaires juridiques ;
 
-- chef du bureau de la politique immobilière et de l'aménagement du territoire à la direction de la mémoire, du patrimoine et des archives ;
+- chef du bureau de la politique domaniale à la direction de la mémoire, du patrimoine et des archives ;
 
-- chef du bureau de la vie associative et des cérémonies à la direction de la mémoire, du patrimoine et des archives ;
+-  chef du bureau de la vie associative et des commémorations à la direction de la mémoire, du patrimoine et des archives ;
 
 - chef du bureau de la réglementation des primes et des indemnités à la direction des ressources humaines du ministère de la défense ;
 
@@ -46,11 +46,11 @@ En application de l'article 3 du décret n° 2008-1314 du 12 décembre 2008 et d
 
 - adjoint au directeur du centre ministériel de gestion de Brest ;
 
-- chef du bureau de la rémunération et des frais de déplacements au service parisien de soutien de l'administration centrale ;
+- chef du bureau de la gestion administrative et de la paie au service parisien de soutien de l'administration centrale ;
 
 - chef du bureau des cabinets à la sous-direction des bureaux des cabinets ;
 
-- chef du bureau des décorations à la sous-direction des bureaux des cabinets ;
+-chef du bureau de la correspondance parlementaire et affaires générales à la sous-direction des bureaux des cabinets ;
 
 - chef de la division de l'administration générale et des études à la direction des statuts, des pensions et de la réinsertion sociale ;
 
@@ -60,7 +60,7 @@ En application de l'article 3 du décret n° 2008-1314 du 12 décembre 2008 et d
 
 - directeur interdépartemental des anciens combattants de Strasbourg ;
 
-- directeur interdépartemental des anciens combattants de Dijon ;
+- adjoint au directeur du centre ministériel de gestion de Toulon ;
 
 - conseiller personnel civil à la direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense ;
 
